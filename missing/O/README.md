@@ -1291,6 +1291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Wheel Guy | 227771 | [227771-one-wheel-guy.json](./227771-one-wheel-guy.json) |
 | One Word 2 by Powgi | 104620 | [104620-one-word-2-by-powgi.json](./104620-one-word-2-by-powgi.json) |
 | One Word by Powgi | 104621 | [104621-one-word-by-powgi.json](./104621-one-word-by-powgi.json) |
+| One-Armed Cook | 199648 | [199648-one-armed-cook.json](./199648-one-armed-cook.json) |
 | One-Armed Cook: Drinks and Bars | 236237 | [236237-one-armed-cook-drinks-and-bars.json](./236237-one-armed-cook-drinks-and-bars.json) |
 | One-armed Cook: Ships and Oceans | 247784 | [247784-one-armed-cook-ships-and-oceans.json](./247784-one-armed-cook-ships-and-oceans.json) |
 | One-Eyed Jak | 34603 | [34603-one-eyed-jak.json](./34603-one-eyed-jak.json) |
