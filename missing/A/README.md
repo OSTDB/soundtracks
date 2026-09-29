@@ -589,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.S.H. | 99614 | [99614-a-s-h.json](./99614-a-s-h.json) |
 | A.S.S.: Awesome Street Skaters | 245907 | [245907-a-s-s-awesome-street-skaters.json](./245907-a-s-s-awesome-street-skaters.json) |
 | A.V.A Global: Masters Pack | 298709 | [298709-a-v-a-global-masters-pack.json](./298709-a-v-a-global-masters-pack.json) |
+| A.V.A: Guns on Fire | 55245 | [55245-a-v-a-guns-on-fire.json](./55245-a-v-a-guns-on-fire.json) |
 | A.W.O.L. | 193214 | [193214-a-w-o-l.json](./193214-a-w-o-l.json) |
 | A'Jatt | 372556 | [372556-ajatt.json](./372556-ajatt.json) |
 | A/X-101 | 5360 | [5360-a-x-101.json](./5360-a-x-101.json) |
@@ -5341,6 +5342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archon Classic | 16208 | [16208-archon-classic.json](./16208-archon-classic.json) |
 | Archon: Initiator | 339920 | [339920-archon-initiator.json](./339920-archon-initiator.json) |
 | Archons: Arena | 264897 | [264897-archons-arena.json](./264897-archons-arena.json) |
+| ArchRobo: Robotic Annihilation | 55283 | [55283-archrobo-robotic-annihilation.json](./55283-archrobo-robotic-annihilation.json) |
 | Archtower | 177859 | [177859-archtower.json](./177859-archtower.json) |
 | Archvale | 152168 | [152168-archvale.json](./152168-archvale.json) |
 | Archwar: Heroes and Demons | 227250 | [227250-archwar-heroes-and-demons.json](./227250-archwar-heroes-and-demons.json) |
@@ -6632,6 +6634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astroneer: Rails | 234025 | [234025-astroneer-rails.json](./234025-astroneer-rails.json) |
 | Astroneer: Xenobiology | 234026 | [234026-astroneer-xenobiology.json](./234026-astroneer-xenobiology.json) |
 | AstroNest | 19527 | [19527-astronest.json](./19527-astronest.json) |
+| AstronjumpBaby | 55279 | [55279-astronjumpbaby.json](./55279-astronjumpbaby.json) |
 | Astronoka | 94714 | [94714-astronoka.json](./94714-astronoka.json) |
 | Astronomic Date | 238614 | [238614-astronomic-date.json](./238614-astronomic-date.json) |
 | Astronomica: The Quest for the Edge of the Universe | 71538 | [71538-astronomica-the-quest-for-the-edge-of-the-universe.json](./71538-astronomica-the-quest-for-the-edge-of-the-universe.json) |
@@ -6905,6 +6908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Rock Paper Scissors | 180830 | [180830-atomic-rock-paper-scissors.json](./180830-atomic-rock-paper-scissors.json) |
 | Atomic Runner | 376716 | [376716-atomic-runner.json](./376716-atomic-runner.json) |
 | Atomic Runner Chelnov | 46241 | [46241-atomic-runner-chelnov.json](./46241-atomic-runner-chelnov.json) |
+| Atomic Sky | 55226 | [55226-atomic-sky.json](./55226-atomic-sky.json) |
 | Atomic Space Command | 33475 | [33475-atomic-space-command.json](./33475-atomic-space-command.json) |
 | Atomic Survivors | 249748 | [249748-atomic-survivors.json](./249748-atomic-survivors.json) |
 | Atomica | 379989 | [379989-atomica.json](./379989-atomica.json) |
