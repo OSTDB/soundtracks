@@ -1772,6 +1772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbitor | 36074 | [36074-orbitor.json](./36074-orbitor.json) |
 | Orbits | 91137 | [91137-orbits.json](./91137-orbits.json) |
 | Orbituous | 339908 | [339908-orbituous.json](./339908-orbituous.json) |
+| Orbiz | 30115 | [30115-orbiz.json](./30115-orbiz.json) |
 | Orbo | 292822 | [292822-orbo.json](./292822-orbo.json) |
 | Orbo's Exodus | 314907 | [314907-orbos-exodus.json](./314907-orbos-exodus.json) |
 | Orbo's Odyssey | 260493 | [260493-orbos-odyssey.json](./260493-orbos-odyssey.json) |
