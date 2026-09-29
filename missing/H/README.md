@@ -3952,6 +3952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Knight Randomizer | 341654 | [341654-hollow-knight-randomizer.json](./341654-hollow-knight-randomizer.json) |
 | Hollow Knight Silksong | 372563 | [372563-hollow-knight-silksong.json](./372563-hollow-knight-silksong.json) |
 | Hollow Knight: Collector's Edition | 116151 | [116151-hollow-knight-collectors-edition.json](./116151-hollow-knight-collectors-edition.json) |
+| Hollow Knight: Lifeblood | 136396 | [136396-hollow-knight-lifeblood.json](./136396-hollow-knight-lifeblood.json) |
 | Hollow Knight: Pale Court | 255660 | [255660-hollow-knight-pale-court.json](./255660-hollow-knight-pale-court.json) |
 | Hollow Knight: Silksong - Sea of Sorrow | 381684 | [381684-hollow-knight-silksong-sea-of-sorrow.json](./381684-hollow-knight-silksong-sea-of-sorrow.json) |
 | Hollow Knight: The Glimmering Realm | 375989 | [375989-hollow-knight-the-glimmering-realm.json](./375989-hollow-knight-the-glimmering-realm.json) |
@@ -4309,6 +4310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honu | 369079 | [369079-honu.json](./369079-honu.json) |
 | Honyarara Magic | 98446 | [98446-honyarara-magic.json](./98446-honyarara-magic.json) |
 | Hood Story: Kaito Yamazaki | 216717 | [216717-hood-story-kaito-yamazaki.json](./216717-hood-story-kaito-yamazaki.json) |
+| Hood: Outlaws & Legends | 136512 | [136512-hood-outlaws-and-legends.json](./136512-hood-outlaws-and-legends.json) |
 | Hood: Outlaws & Legends - Year 1 Edition | 169193 | [169193-hood-outlaws-and-legends-year-1-edition.json](./169193-hood-outlaws-and-legends-year-1-edition.json) |
 | Hoodies Squad: Alcoholypse | 298115 | [298115-hoodies-squad-alcoholypse.json](./298115-hoodies-squad-alcoholypse.json) |
 | Hoodoo Voodoo | 13879 | [13879-hoodoo-voodoo.json](./13879-hoodoo-voodoo.json) |
