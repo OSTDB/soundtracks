@@ -149,6 +149,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachi Para 17: New Sea Story With Agnes Lum | 65558 | [65558-pachi-para-17-new-sea-story-with-agnes-lum.json](./65558-pachi-para-17-new-sea-story-with-agnes-lum.json) |
 | Pachi tto to Pachi-kake da se! Pachi-pachi tokimeki Hanabi Taikai! | 358496 | [358496-pachi-tto-to-pachi-kake-da-se-pachi-pachi-tokimeki-hanabi-taikai.json](./358496-pachi-tto-to-pachi-kake-da-se-pachi-pachi-tokimeki-hanabi-taikai.json) |
 | Pachi-Pachi Typing | 397100 | [397100-pachi-pachi-typing.json](./397100-pachi-pachi-typing.json) |
+| Pachi-Slot Adventure 2 | 48796 | [48796-pachi-slot-adventure-2.json](./48796-pachi-slot-adventure-2.json) |
+| Pachi-Slot Adventure 3: Bitaoshii 7 Kenzan! | 48795 | [48795-pachi-slot-adventure-3-bitaoshii-7-kenzan.json](./48795-pachi-slot-adventure-3-bitaoshii-7-kenzan.json) |
 | Pachi-Slot Aruze Oukoku | 56738 | [56738-pachi-slot-aruze-oukoku.json](./56738-pachi-slot-aruze-oukoku.json) |
 | Pachi-Slot Aruze Oukoku 2 | 56736 | [56736-pachi-slot-aruze-oukoku-2.json](./56736-pachi-slot-aruze-oukoku-2.json) |
 | Pachi-Slot Aruze Oukoku 3 | 56731 | [56731-pachi-slot-aruze-oukoku-3.json](./56731-pachi-slot-aruze-oukoku-3.json) |
@@ -421,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paladins: Season 4 Champions Bundle | 263484 | [263484-paladins-season-4-champions-bundle.json](./263484-paladins-season-4-champions-bundle.json) |
 | PalaDog HD | 235148 | [235148-paladog-hd.json](./235148-paladog-hd.json) |
 | Palais de Reine | 130397 | [130397-palais-de-reine.json](./130397-palais-de-reine.json) |
+| Palamedes II: Star Twinkles | 48808 | [48808-palamedes-ii-star-twinkles.json](./48808-palamedes-ii-star-twinkles.json) |
 | Pale Carnations | 239316 | [239316-pale-carnations.json](./239316-pale-carnations.json) |
 | Pale Coins | 253876 | [253876-pale-coins.json](./253876-pale-coins.json) |
 | Pale Man! | 113894 | [113894-pale-man.json](./113894-pale-man.json) |
