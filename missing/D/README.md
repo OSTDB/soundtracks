@@ -6489,6 +6489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Coins | 63337 | [63337-dragon-coins.json](./63337-dragon-coins.json) |
 | Dragon Court | 281384 | [281384-dragon-court.json](./281384-dragon-court.json) |
 | Dragon Court: Revived | 315101 | [315101-dragon-court-revived.json](./315101-dragon-court-revived.json) |
+| Dragon Crystal | 18226 | [18226-dragon-crystal.json](./18226-dragon-crystal.json) |
 | Dragon Dance | 49940 | [49940-dragon-dance.json](./49940-dragon-dance.json) |
 | Dragon Defender: Castle Kingdom Quest | 234188 | [234188-dragon-defender-castle-kingdom-quest.json](./234188-dragon-defender-castle-kingdom-quest.json) |
 | Dragon Dice | 69894 | [69894-dragon-dice.json](./69894-dragon-dice.json) |
@@ -6646,6 +6647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Slayer Chronicle | 112155 | [112155-dragon-slayer-chronicle.json](./112155-dragon-slayer-chronicle.json) |
 | Dragon Slayer Gaiden: Nemuri no Oukan | 73347 | [73347-dragon-slayer-gaiden-nemuri-no-oukan.json](./73347-dragon-slayer-gaiden-nemuri-no-oukan.json) |
 | Dragon Slayer I | 344961 | [344961-dragon-slayer-i.json](./344961-dragon-slayer-i.json) |
+| Dragon Slayer IV: Drasle Family | 19113 | [19113-dragon-slayer-iv-drasle-family.json](./19113-dragon-slayer-iv-drasle-family.json) |
 | Dragon Slayers | 123012 | [123012-dragon-slayers.json](./123012-dragon-slayers.json) |
 | Dragon Snack: From Ice to Ember | 399624 | [399624-dragon-snack-from-ice-to-ember.json](./399624-dragon-snack-from-ice-to-ember.json) |
 | Dragon Snakes | 118302 | [118302-dragon-snakes.json](./118302-dragon-snakes.json) |
@@ -7273,6 +7275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drifting in Space | 129680 | [129680-drifting-in-space.json](./129680-drifting-in-space.json) |
 | Driftkhana | 197345 | [197345-driftkhana.json](./197345-driftkhana.json) |
 | Driftland: The Magic Revival | 69455 | [69455-driftland-the-magic-revival.json](./69455-driftland-the-magic-revival.json) |
+| Driftmoon | 8205 | [8205-driftmoon.json](./8205-driftmoon.json) |
 | Drifto: Infinite Touge | 305914 | [305914-drifto-infinite-touge.json](./305914-drifto-infinite-touge.json) |
 | DriftOn | 129053 | [129053-drifton.json](./129053-drifton.json) |
 | Driftwatch VR | 30919 | [30919-driftwatch-vr.json](./30919-driftwatch-vr.json) |
