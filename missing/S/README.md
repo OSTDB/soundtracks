@@ -939,6 +939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sarkar Infinite | 188375 | [188375-sarkar-infinite.json](./188375-sarkar-infinite.json) |
 | Sarkwo | 197229 | [197229-sarkwo.json](./197229-sarkwo.json) |
 | Saros: Zenith | 416115 | [416115-saros-zenith.json](./416115-saros-zenith.json) |
+| SAS Combat Simulator | 13031 | [13031-sas-combat-simulator.json](./13031-sas-combat-simulator.json) |
 | SAS: Anti-Terror Force | 43294 | [43294-sas-anti-terror-force.json](./43294-sas-anti-terror-force.json) |
 | SAS: Zombie Assault 2 | 267983 | [267983-sas-zombie-assault-2.json](./267983-sas-zombie-assault-2.json) |
 | SAS: Zombie Assault 3 | 188396 | [188396-sas-zombie-assault-3.json](./188396-sas-zombie-assault-3.json) |
@@ -1197,6 +1198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scales of Silence | 398317 | [398317-scales-of-silence.json](./398317-scales-of-silence.json) |
 | Scales of Stardust | 185076 | [185076-scales-of-stardust.json](./185076-scales-of-stardust.json) |
 | Scaleton | 284414 | [284414-scaleton.json](./284414-scaleton.json) |
+| Scalextric: The Computer Edition | 13032 | [13032-scalextric-the-computer-edition.json](./13032-scalextric-the-computer-edition.json) |
 | Scaling the Sky | 128618 | [128618-scaling-the-sky.json](./128618-scaling-the-sky.json) |
 | Scaling Up | 323927 | [323927-scaling-up.json](./323927-scaling-up.json) |
 | Scallion RPG | 315710 | [315710-scallion-rpg.json](./315710-scallion-rpg.json) |
@@ -1290,6 +1292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Shadow Spot: Bitter Glass | 328228 | [328228-scary-shadow-spot-bitter-glass.json](./328228-scary-shadow-spot-bitter-glass.json) |
 | Scary Stories | 323518 | [323518-scary-stories.json](./323518-scary-stories.json) |
 | Scary Stranger 3D | 303249 | [303249-scary-stranger-3d.json](./303249-scary-stranger-3d.json) |
+| Scary Tales | 13033 | [13033-scary-tales.json](./13033-scary-tales.json) |
 | Scary Tales | 171587 | [171587-scary-tales.json](./171587-scary-tales.json) |
 | Scary Tales: Horror School | 337122 | [337122-scary-tales-horror-school.json](./337122-scary-tales-horror-school.json) |
 | Scary Teacher 3D | 104228 | [104228-scary-teacher-3d.json](./104228-scary-teacher-3d.json) |
@@ -8813,6 +8816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Harvest II | 97916 | [97916-space-harvest-ii.json](./97916-space-harvest-ii.json) |
 | Space Hat | 290685 | [290685-space-hat.json](./290685-space-hat.json) |
 | Space Haven | 103246 | [103246-space-haven.json](./103246-space-haven.json) |
+| Space Hawks | 13035 | [13035-space-hawks.json](./13035-space-hawks.json) |
 | Space Hero Line | 43518 | [43518-space-hero-line.json](./43518-space-hero-line.json) |
 | Space Hitchhiker Stop | 360563 | [360563-space-hitchhiker-stop.json](./360563-space-hitchhiker-stop.json) |
 | Space Hole | 361227 | [361227-space-hole.json](./361227-space-hole.json) |
@@ -11944,6 +11948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stern Pinball Arcade: Starship Troopers | 161226 | [161226-stern-pinball-arcade-starship-troopers.json](./161226-stern-pinball-arcade-starship-troopers.json) |
 | Sternenschweif 3D - Das Geheimnis im Zauberwald | 125212 | [125212-sternenschweif-3d-das-geheimnis-im-zauberwald.json](./125212-sternenschweif-3d-das-geheimnis-im-zauberwald.json) |
 | Steve Davis Snooker | 45323 | [45323-steve-davis-snooker.json](./45323-steve-davis-snooker.json) |
+| Steve Davis World Snooker | 12928 | [12928-steve-davis-world-snooker.json](./12928-steve-davis-world-snooker.json) |
 | Steve Magal: Fists of Brutal Truth | 341888 | [341888-steve-magal-fists-of-brutal-truth.json](./341888-steve-magal-fists-of-brutal-truth.json) |
 | Steve Reich’s Clapping Music | 312322 | [312322-steve-reich-s-clapping-music.json](./312322-steve-reich-s-clapping-music.json) |
 | Steve: Operation Nuts | 295010 | [295010-steve-operation-nuts.json](./295010-steve-operation-nuts.json) |
@@ -12264,6 +12269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StormBorn: War of Legends | 83917 | [83917-stormborn-war-of-legends.json](./83917-stormborn-war-of-legends.json) |
 | Stormbound: Kingdom Wars | 70909 | [70909-stormbound-kingdom-wars.json](./70909-stormbound-kingdom-wars.json) |
 | Stormbridge | 327329 | [327329-stormbridge.json](./327329-stormbridge.json) |
+| Stormbringer | 13036 | [13036-stormbringer.json](./13036-stormbringer.json) |
 | Stormbroken | 363920 | [363920-stormbroken.json](./363920-stormbroken.json) |
 | Stormfall: Saga of Survival | 105787 | [105787-stormfall-saga-of-survival.json](./105787-stormfall-saga-of-survival.json) |
 | Stormforge | 305188 | [305188-stormforge.json](./305188-stormforge.json) |
@@ -13038,6 +13044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subterranean Detectives Orin and Satori | 185591 | [185591-subterranean-detectives-orin-and-satori.json](./185591-subterranean-detectives-orin-and-satori.json) |
 | Subterranean Library | 271304 | [271304-subterranean-library.json](./271304-subterranean-library.json) |
 | Subterranean Siege | 271495 | [271495-subterranean-siege.json](./271495-subterranean-siege.json) |
+| Subterranean Stryker | 13037 | [13037-subterranean-stryker.json](./13037-subterranean-stryker.json) |
 | Subterror | 291576 | [291576-subterror.json](./291576-subterror.json) |
 | Subtracto | 372536 | [372536-subtracto.json](./372536-subtracto.json) |
 | Suburban Commando | 73811 | [73811-suburban-commando.json](./73811-suburban-commando.json) |
@@ -13342,6 +13349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sullyland Nursery Rhyme | 392429 | [392429-sullyland-nursery-rhyme.json](./392429-sullyland-nursery-rhyme.json) |
 | Sultan of Egypt | 195788 | [195788-sultan-of-egypt.json](./195788-sultan-of-egypt.json) |
 | Sultan's Game | 318002 | [318002-sultans-game.json](./318002-sultans-game.json) |
+| Sultan's Maze | 13038 | [13038-sultans-maze.json](./13038-sultans-maze.json) |
 | Sum | 252995 | [252995-sum.json](./252995-sum.json) |
 | Sum Blocks | 120161 | [120161-sum-blocks.json](./120161-sum-blocks.json) |
 | Sumatra: Fate of Yandi | 110416 | [110416-sumatra-fate-of-yandi.json](./110416-sumatra-fate-of-yandi.json) |
@@ -14618,6 +14626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pinkie World | 231496 | [231496-super-pinkie-world.json](./231496-super-pinkie-world.json) |
 | Super Pinkie World 2 | 231497 | [231497-super-pinkie-world-2.json](./231497-super-pinkie-world-2.json) |
 | Super Pinkie World 3 | 231498 | [231498-super-pinkie-world-3.json](./231498-super-pinkie-world-3.json) |
+| Super Pipeline 2 | 13039 | [13039-super-pipeline-2.json](./13039-super-pipeline-2.json) |
 | Super Pipeline II | 39135 | [39135-super-pipeline-ii.json](./39135-super-pipeline-ii.json) |
 | Super Pitfall | 48233 | [48233-super-pitfall.json](./48233-super-pitfall.json) |
 | Super Pitfall: 30th Anniversary Edition | 48864 | [48864-super-pitfall-30th-anniversary-edition.json](./48864-super-pitfall-30th-anniversary-edition.json) |
