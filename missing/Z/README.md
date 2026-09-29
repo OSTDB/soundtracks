@@ -524,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zipple World 2: The Sweet Chaos | 33052 | [33052-zipple-world-2-the-sweet-chaos.json](./33052-zipple-world-2-the-sweet-chaos.json) |
 | Zippy Froger | 246376 | [246376-zippy-froger.json](./246376-zippy-froger.json) |
 | Zippy Race | 322775 | [322775-zippy-race.json](./322775-zippy-race.json) |
+| Zippy the Porcupine | 18411 | [18411-zippy-the-porcupine.json](./18411-zippy-the-porcupine.json) |
 | Zippy Zombi | 73813 | [73813-zippy-zombi.json](./73813-zippy-zombi.json) |
 | Ziria | 106091 | [106091-ziria.json](./106091-ziria.json) |
 | Zirkus-Simulator 2013 | 52781 | [52781-zirkus-simulator-2013.json](./52781-zirkus-simulator-2013.json) |
