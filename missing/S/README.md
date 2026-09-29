@@ -1018,6 +1018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturday Night is the Loneliest Night of the Week II | 230856 | [230856-saturday-night-is-the-loneliest-night-of-the-week-ii.json](./230856-saturday-night-is-the-loneliest-night-of-the-week-ii.json) |
 | Saturday Night Live: The Game | 208320 | [208320-saturday-night-live-the-game.json](./208320-saturday-night-live-the-game.json) |
 | Saturday Night Racing | 372134 | [372134-saturday-night-racing.json](./372134-saturday-night-racing.json) |
+| Saturday Night Slam Masters | 4504 | [4504-saturday-night-slam-masters.json](./4504-saturday-night-slam-masters.json) |
 | Saturday School | 171557 | [171557-saturday-school.json](./171557-saturday-school.json) |
 | Sature | 183450 | [183450-sature.json](./183450-sature.json) |
 | Saturn | 313467 | [313467-saturn.json](./313467-saturn.json) |
@@ -3072,6 +3073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of Chaos | 324701 | [324701-shadow-of-chaos.json](./324701-shadow-of-chaos.json) |
 | Shadow of Death 2: RPG Games | 323176 | [323176-shadow-of-death-2-rpg-games.json](./323176-shadow-of-death-2-rpg-games.json) |
 | Shadow of Death: Dark Knight | 100823 | [100823-shadow-of-death-dark-knight.json](./100823-shadow-of-death-dark-knight.json) |
+| Shadow of Destiny | 208716 | [208716-shadow-of-destiny.json](./208716-shadow-of-destiny.json) |
 | Shadow of Engimor | 289443 | [289443-shadow-of-engimor.json](./289443-shadow-of-engimor.json) |
 | Shadow of Ether | 239767 | [239767-shadow-of-ether.json](./239767-shadow-of-ether.json) |
 | Shadow of Fear | 273425 | [273425-shadow-of-fear.json](./273425-shadow-of-fear.json) |
@@ -7171,6 +7173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Goal Run | 329577 | [329577-soccer-goal-run.json](./329577-soccer-goal-run.json) |
 | Soccer Hero! | 103526 | [103526-soccer-hero.json](./103526-soccer-hero.json) |
 | Soccer in a Box | 320351 | [320351-soccer-in-a-box.json](./320351-soccer-in-a-box.json) |
+| Soccer Kid | 4302 | [4302-soccer-kid.json](./4302-soccer-kid.json) |
 | Soccer Legends | 36018 | [36018-soccer-legends.json](./36018-soccer-legends.json) |
 | Soccer Lines | 241334 | [241334-soccer-lines.json](./241334-soccer-lines.json) |
 | Soccer Manager | 134421 | [134421-soccer-manager.json](./134421-soccer-manager.json) |
@@ -8654,6 +8657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sovereign Brain Empire | 333072 | [333072-sovereign-brain-empire.json](./333072-sovereign-brain-empire.json) |
 | Sovereign Elect | 290506 | [290506-sovereign-elect.json](./290506-sovereign-elect.json) |
 | Sovereign Reign | 276171 | [276171-sovereign-reign.json](./276171-sovereign-reign.json) |
+| Sovereign Syndicate | 211267 | [211267-sovereign-syndicate.json](./211267-sovereign-syndicate.json) |
 | Sovereign Tea | 159317 | [159317-sovereign-tea.json](./159317-sovereign-tea.json) |
 | Sovereign's Will | 129035 | [129035-sovereigns-will.json](./129035-sovereigns-will.json) |
 | Soviet Challenge: Javelin 1980 | 174329 | [174329-soviet-challenge-javelin-1980.json](./174329-soviet-challenge-javelin-1980.json) |
@@ -9444,6 +9448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Transport Simulator 2013 | 54384 | [54384-special-transport-simulator-2013.json](./54384-special-transport-simulator-2013.json) |
 | Special Warfare | 108075 | [108075-special-warfare.json](./108075-special-warfare.json) |
 | Species: Artificial Life, Real Evolution | 57787 | [57787-species-artificial-life-real-evolution.json](./57787-species-artificial-life-real-evolution.json) |
+| Species: Unknown | 302968 | [302968-species-unknown.json](./302968-species-unknown.json) |
 | Specimen #08 | 262963 | [262963-specimen-08.json](./262963-specimen-08.json) |
 | Specimen #14 | 263006 | [263006-specimen-14.json](./263006-specimen-14.json) |
 | Specimen 134 | 346800 | [346800-specimen-134.json](./346800-specimen-134.json) |
@@ -10284,6 +10289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sportsfriends | 9865 | [9865-sportsfriends.json](./9865-sportsfriends.json) |
 | Spot | 119584 | [119584-spot.json](./119584-spot.json) |
 | Spot Girls Difference | 114330 | [114330-spot-girls-difference.json](./114330-spot-girls-difference.json) |
+| Spot Goes to Hollywood | 4454 | [4454-spot-goes-to-hollywood.json](./4454-spot-goes-to-hollywood.json) |
 | Spot It | 320341 | [320341-spot-it.json](./320341-spot-it.json) |
 | Spot Pool | 94717 | [94717-spot-pool.json](./94717-spot-pool.json) |
 | Spot the Cat | 378285 | [378285-spot-the-cat.json](./378285-spot-the-cat.json) |
@@ -11286,6 +11292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starcatcher | 228094 | [228094-starcatcher.json](./228094-starcatcher.json) |
 | Starch | 91942 | [91942-starch.json](./91942-starch.json) |
 | Starcom: Nexus | 107854 | [107854-starcom-nexus.json](./107854-starcom-nexus.json) |
+| Starcom: Unknown Space | 211207 | [211207-starcom-unknown-space.json](./211207-starcom-unknown-space.json) |
 | Starcraft | 417642 | [417642-starcraft.json](./417642-starcraft.json) |
 | StarCraft II: Legacy of the Void - Collector's Edition | 51293 | [51293-starcraft-ii-legacy-of-the-void-collectors-edition.json](./51293-starcraft-ii-legacy-of-the-void-collectors-edition.json) |
 | StarCraft: Evolution Complete | 305329 | [305329-starcraft-evolution-complete.json](./305329-starcraft-evolution-complete.json) |
