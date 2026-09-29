@@ -665,6 +665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Broom eXtreme | 83616 | [83616-magical-broom-extreme.json](./83616-magical-broom-extreme.json) |
 | Magical Cat Adventure | 39545 | [39545-magical-cat-adventure.json](./39545-magical-cat-adventure.json) |
 | Magical Charming! | 410465 | [410465-magical-charming.json](./410465-magical-charming.json) |
+| Magical Chase GB | 50052 | [50052-magical-chase-gb.json](./50052-magical-chase-gb.json) |
 | Magical Chaser: Stardust of Dreams | 315061 | [315061-magical-chaser-stardust-of-dreams.json](./315061-magical-chaser-stardust-of-dreams.json) |
 | Magical Circle Guru-Guru: Stardust Adventure | 302653 | [302653-magical-circle-guru-guru-stardust-adventure.json](./302653-magical-circle-guru-guru-stardust-adventure.json) |
 | Magical Crystals | 39687 | [39687-magical-crystals.json](./39687-magical-crystals.json) |
@@ -3541,6 +3542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megami Meguri | 222529 | [222529-megami-meguri.json](./222529-megami-meguri.json) |
 | Megami no Etsubo | 122926 | [122926-megami-no-etsubo.json](./122926-megami-no-etsubo.json) |
 | Megami Tensei Gaiden: Last Bible | 225584 | [225584-megami-tensei-gaiden-last-bible.json](./225584-megami-tensei-gaiden-last-bible.json) |
+| Megami Tensei Gaiden: Last Bible II | 50051 | [50051-megami-tensei-gaiden-last-bible-ii.json](./50051-megami-tensei-gaiden-last-bible-ii.json) |
 | Megami Tensei Gaiden: Last Bible Special | 45263 | [45263-megami-tensei-gaiden-last-bible-special.json](./45263-megami-tensei-gaiden-last-bible-special.json) |
 | Megami Tensei Gaiden: Shinyaku Last Bible | 202957 | [202957-megami-tensei-gaiden-shinyaku-last-bible.json](./202957-megami-tensei-gaiden-shinyaku-last-bible.json) |
 | Megami Tensei QIX: Persona 3 | 289392 | [289392-megami-tensei-qix-persona-3.json](./289392-megami-tensei-qix-persona-3.json) |
@@ -4060,6 +4062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meridian: Squad 22 | 20453 | [20453-meridian-squad-22.json](./20453-meridian-squad-22.json) |
 | Meridiana: A demon's madness | 197263 | [197263-meridiana-a-demons-madness.json](./197263-meridiana-a-demons-madness.json) |
 | Meritaton | 365306 | [365306-meritaton.json](./365306-meritaton.json) |
+| Merlin | 50034 | [50034-merlin.json](./50034-merlin.json) |
 | Merlin 64 | 47242 | [47242-merlin-64.json](./47242-merlin-64.json) |
 | Merlin Adventurer Store | 26490 | [26490-merlin-adventurer-store.json](./26490-merlin-adventurer-store.json) |
 | Merlin Challenge | 94338 | [94338-merlin-challenge.json](./94338-merlin-challenge.json) |
@@ -6617,6 +6620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Math | 253303 | [253303-monkey-math.json](./253303-monkey-math.json) |
 | Monkey Mole Panic | 40386 | [40386-monkey-mole-panic.json](./40386-monkey-mole-panic.json) |
 | Monkey Ninja | 106146 | [106146-monkey-ninja.json](./106146-monkey-ninja.json) |
+| Monkey Puncher | 50026 | [50026-monkey-puncher.json](./50026-monkey-puncher.json) |
 | Monkey Quest | 182970 | [182970-monkey-quest.json](./182970-monkey-quest.json) |
 | Monkey Rush | 87557 | [87557-monkey-rush.json](./87557-monkey-rush.json) |
 | Monkey Snowfight | 320300 | [320300-monkey-snowfight.json](./320300-monkey-snowfight.json) |
