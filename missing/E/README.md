@@ -2087,6 +2087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erkattäññe | 313861 | [313861-erkattanne.json](./313861-erkattanne.json) |
 | Erl | 362859 | [362859-erl.json](./362859-erl.json) |
 | ERN | 320875 | [320875-ern.json](./320875-ern.json) |
+| Ernest Colt: Western Shooter | 25052 | [25052-ernest-colt-western-shooter.json](./25052-ernest-colt-western-shooter.json) |
 | Ernesto, A Quick Dungeon Crawler | 61151 | [61151-ernesto-a-quick-dungeon-crawler.json](./61151-ernesto-a-quick-dungeon-crawler.json) |
 | Ernie's Adventures in Space | 122861 | [122861-ernies-adventures-in-space.json](./122861-ernies-adventures-in-space.json) |
 | Ero Condo: Remastered | 343882 | [343882-ero-condo-remastered.json](./343882-ero-condo-remastered.json) |
