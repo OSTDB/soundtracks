@@ -1489,6 +1489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpStart 3D Virtual World: Trouble in Town | 200191 | [200191-jumpstart-3d-virtual-world-trouble-in-town.json](./200191-jumpstart-3d-virtual-world-trouble-in-town.json) |
 | JumpStart Adventures 4th Grade: Haunted Island | 129146 | [129146-jumpstart-adventures-4th-grade-haunted-island.json](./129146-jumpstart-adventures-4th-grade-haunted-island.json) |
 | JumpStart Baby | 144858 | [144858-jumpstart-baby.json](./144858-jumpstart-baby.json) |
+| JumpStart Escape from Adventure Island | 50725 | [50725-jumpstart-escape-from-adventure-island.json](./50725-jumpstart-escape-from-adventure-island.json) |
 | JumpStart Explorers | 129149 | [129149-jumpstart-explorers.json](./129149-jumpstart-explorers.json) |
 | JumpStart Kindergarten | 123589 | [123589-jumpstart-kindergarten.json](./123589-jumpstart-kindergarten.json) |
 | JumpStart Kindergarten | 212881 | [212881-jumpstart-kindergarten.json](./212881-jumpstart-kindergarten.json) |
