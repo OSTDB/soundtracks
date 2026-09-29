@@ -731,6 +731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh! 7 Trials to Glory: World Championship Tournament 2005 | 68039 | [68039-yu-gi-oh-7-trials-to-glory-world-championship-tournament-2005.json](./68039-yu-gi-oh-7-trials-to-glory-world-championship-tournament-2005.json) |
 | Yu-Gi-Oh! BAM | 79359 | [79359-yu-gi-oh-bam.json](./79359-yu-gi-oh-bam.json) |
 | Yu-Gi-Oh! BAM Pocket | 79576 | [79576-yu-gi-oh-bam-pocket.json](./79576-yu-gi-oh-bam-pocket.json) |
+| Yu-Gi-Oh! Capsule Monster Coliseum | 43617 | [43617-yu-gi-oh-capsule-monster-coliseum.json](./43617-yu-gi-oh-capsule-monster-coliseum.json) |
 | Yu-Gi-Oh! Cross Duel | 174874 | [174874-yu-gi-oh-cross-duel.json](./174874-yu-gi-oh-cross-duel.json) |
 | Yu-Gi-Oh! Double Pack | 79360 | [79360-yu-gi-oh-double-pack.json](./79360-yu-gi-oh-double-pack.json) |
 | Yu-Gi-Oh! Duel Generation | 79358 | [79358-yu-gi-oh-duel-generation.json](./79358-yu-gi-oh-duel-generation.json) |
