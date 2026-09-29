@@ -2559,6 +2559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 4: VR Mode | 250644 | [250644-resident-evil-4-vr-mode.json](./250644-resident-evil-4-vr-mode.json) |
 | Resident Evil 4: Zeebo Edition | 227780 | [227780-resident-evil-4-zeebo-edition.json](./227780-resident-evil-4-zeebo-edition.json) |
 | Resident Evil 5: Collector's Edition | 41593 | [41593-resident-evil-5-collectors-edition.json](./41593-resident-evil-5-collectors-edition.json) |
+| Resident Evil 5: Gold Edition | 24347 | [24347-resident-evil-5-gold-edition.json](./24347-resident-evil-5-gold-edition.json) |
 | Resident Evil 6 Remastered | 41858 | [41858-resident-evil-6-remastered.json](./41858-resident-evil-6-remastered.json) |
 | Resident Evil 7 Teaser: Beginning Hour | 90566 | [90566-resident-evil-7-teaser-beginning-hour.json](./90566-resident-evil-7-teaser-beginning-hour.json) |
 | Resident Evil 7: Biohazard - Gold Edition Grotesque Version | 167065 | [167065-resident-evil-7-biohazard-gold-edition-grotesque-version.json](./167065-resident-evil-7-biohazard-gold-edition-grotesque-version.json) |
@@ -3676,6 +3677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the Teenage Mutant Ninja Turtles: Power Up! | 146285 | [146285-rise-of-the-teenage-mutant-ninja-turtles-power-up.json](./146285-rise-of-the-teenage-mutant-ninja-turtles-power-up.json) |
 | Rise of the Teenage Mutant Ninja Turtles: Road Riot | 146291 | [146291-rise-of-the-teenage-mutant-ninja-turtles-road-riot.json](./146291-rise-of-the-teenage-mutant-ninja-turtles-road-riot.json) |
 | Rise of the Tomb Raider: 20 Year Celebration | 23331 | [23331-rise-of-the-tomb-raider-20-year-celebration.json](./23331-rise-of-the-tomb-raider-20-year-celebration.json) |
+| Rise of the Tomb Raider: Baba Yaga - The Temple of the Witch | 14774 | [14774-rise-of-the-tomb-raider-baba-yaga-the-temple-of-the-witch.json](./14774-rise-of-the-tomb-raider-baba-yaga-the-temple-of-the-witch.json) |
 | Rise of the Tomb Raider: Deluxe Edition | 122190 | [122190-rise-of-the-tomb-raider-deluxe-edition.json](./122190-rise-of-the-tomb-raider-deluxe-edition.json) |
 | Rise of the Tomb Raider: Endurance Mode | 214844 | [214844-rise-of-the-tomb-raider-endurance-mode.json](./214844-rise-of-the-tomb-raider-endurance-mode.json) |
 | Rise of the Triad | 2381 | [2381-rise-of-the-triad.json](./2381-rise-of-the-triad.json) |
