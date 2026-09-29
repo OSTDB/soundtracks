@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wacky Darts | 93352 | [93352-wacky-darts.json](./93352-wacky-darts.json) |
 | Wacky Races | 12817 | [12817-wacky-races.json](./12817-wacky-races.json) |
 | Wacky Races | 81547 | [81547-wacky-races.json](./81547-wacky-races.json) |
+| Wacky Races | 81548 | [81548-wacky-races.json](./81548-wacky-races.json) |
 | Wacky Races Starring Dastardly & Muttley | 43447 | [43447-wacky-races-starring-dastardly-and-muttley.json](./43447-wacky-races-starring-dastardly-and-muttley.json) |
 | Wacky Races: Mad Motors | 56544 | [56544-wacky-races-mad-motors.json](./56544-wacky-races-mad-motors.json) |
 | Wacky Ship | 180600 | [180600-wacky-ship.json](./180600-wacky-ship.json) |
@@ -534,6 +535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warcos | 185676 | [185676-warcos.json](./185676-warcos.json) |
 | Warcraft I: Remastered | 322108 | [322108-warcraft-i-remastered.json](./322108-warcraft-i-remastered.json) |
 | Warcraft II: Beyond the Dark Portal | 131 | [131-warcraft-ii-beyond-the-dark-portal.json](./131-warcraft-ii-beyond-the-dark-portal.json) |
+| Warcraft II: The Dark Saga | 77210 | [77210-warcraft-ii-the-dark-saga.json](./77210-warcraft-ii-the-dark-saga.json) |
 | Warcraft III: Reforged - Forsaken Kingdom | 417648 | [417648-warcraft-iii-reforged-forsaken-kingdom.json](./417648-warcraft-iii-reforged-forsaken-kingdom.json) |
 | Warcraft III: Reforged - Spoils of War Edition | 111652 | [111652-warcraft-iii-reforged-spoils-of-war-edition.json](./111652-warcraft-iii-reforged-spoils-of-war-edition.json) |
 | Warcraft III: Reforged - Version 2.0 | 322145 | [322145-warcraft-iii-reforged-version-2-0.json](./322145-warcraft-iii-reforged-version-2-0.json) |
@@ -1501,6 +1503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to the Future | 70096 | [70096-welcome-to-the-future.json](./70096-welcome-to-the-future.json) |
 | Welcome to the Galaxy | 178639 | [178639-welcome-to-the-galaxy.json](./178639-welcome-to-the-galaxy.json) |
 | Welcome to the Game 2+ | 265928 | [265928-welcome-to-the-game-2.json](./265928-welcome-to-the-game-2.json) |
+| Welcome to the Game II | 68576 | [68576-welcome-to-the-game-ii.json](./68576-welcome-to-the-game-ii.json) |
 | Welcome to the Game III | 375315 | [375315-welcome-to-the-game-iii.json](./375315-welcome-to-the-game-iii.json) |
 | Welcome to the Information Superhighway | 104250 | [104250-welcome-to-the-information-superhighway.json](./104250-welcome-to-the-information-superhighway.json) |
 | Welcome to the Kawai | 97837 | [97837-welcome-to-the-kawai.json](./97837-welcome-to-the-kawai.json) |
@@ -4256,6 +4259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K25: WrestleMania 41 Pack | 353991 | [353991-wwe-2k25-wrestlemania-41-pack.json](./353991-wwe-2k25-wrestlemania-41-pack.json) |
 | WWE 2K25: Wyatt Sicks Pack | 353992 | [353992-wwe-2k25-wyatt-sicks-pack.json](./353992-wwe-2k25-wyatt-sicks-pack.json) |
 | WWE Champions | 58888 | [58888-wwe-champions.json](./58888-wwe-champions.json) |
+| WWE Day of Reckoning | 4571 | [4571-wwe-day-of-reckoning.json](./4571-wwe-day-of-reckoning.json) |
 | WWE Presents: Rockpocalypse | 63263 | [63263-wwe-presents-rockpocalypse.json](./63263-wwe-presents-rockpocalypse.json) |
 | WWE Raw 2: Ruthless Aggression | 24123 | [24123-wwe-raw-2-ruthless-aggression.json](./24123-wwe-raw-2-ruthless-aggression.json) |
 | WWE Slam | 57378 | [57378-wwe-slam.json](./57378-wwe-slam.json) |
