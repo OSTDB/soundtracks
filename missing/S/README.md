@@ -11764,6 +11764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Arena Ballistick | 69277 | [69277-stick-arena-ballistick.json](./69277-stick-arena-ballistick.json) |
 | Stick Battle: Warriors Fight | 208950 | [208950-stick-battle-warriors-fight.json](./208950-stick-battle-warriors-fight.json) |
 | Stick City Run 2 By Lettu Games | 232160 | [232160-stick-city-run-2-by-lettu-games.json](./232160-stick-city-run-2-by-lettu-games.json) |
+| Stick Combat | 57175 | [57175-stick-combat.json](./57175-stick-combat.json) |
 | Stick Cricket | 138002 | [138002-stick-cricket.json](./138002-stick-cricket.json) |
 | Stick Engine | 55524 | [55524-stick-engine.json](./55524-stick-engine.json) |
 | Stick Fight: Endless Battle | 245338 | [245338-stick-fight-endless-battle.json](./245338-stick-fight-endless-battle.json) |
@@ -11785,6 +11786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick or Stone? | 176457 | [176457-stick-or-stone.json](./176457-stick-or-stone.json) |
 | Stick Out! | 386696 | [386696-stick-out.json](./386696-stick-out.json) |
 | Stick Ranger | 57898 | [57898-stick-ranger.json](./57898-stick-ranger.json) |
+| Stick Run | 57176 | [57176-stick-run.json](./57176-stick-run.json) |
 | Stick Runner: Operation Europe | 105763 | [105763-stick-runner-operation-europe.json](./105763-stick-runner-operation-europe.json) |
 | Stick Saiyan: Fight | 104266 | [104266-stick-saiyan-fight.json](./104266-stick-saiyan-fight.json) |
 | Stick Shift | 20257 | [20257-stick-shift.json](./20257-stick-shift.json) |
