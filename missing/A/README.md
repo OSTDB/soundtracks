@@ -709,6 +709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Above the Skies | 166623 | [166623-above-the-skies.json](./166623-above-the-skies.json) |
 | Above the Snow | 349373 | [349373-above-the-snow.json](./349373-above-the-snow.json) |
 | Above the Waters | 145510 | [145510-above-the-waters.json](./145510-above-the-waters.json) |
+| ABPA Backgammon | 5653 | [5653-abpa-backgammon.json](./5653-abpa-backgammon.json) |
 | Abra-cooking-dabra | 345039 | [345039-abra-cooking-dabra.json](./345039-abra-cooking-dabra.json) |
 | Abraca | 267482 | [267482-abraca.json](./267482-abraca.json) |
 | Abracadabra | 383355 | [383355-abracadabra.json](./383355-abracadabra.json) |
@@ -1203,6 +1204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Dungeons & Dragons: Hillsfar | 8622 | [8622-advanced-dungeons-and-dragons-hillsfar.json](./8622-advanced-dungeons-and-dragons-hillsfar.json) |
 | Advanced Dungeons & Dragons: Pool of Radiance | 8732 | [8732-advanced-dungeons-and-dragons-pool-of-radiance.json](./8732-advanced-dungeons-and-dragons-pool-of-radiance.json) |
 | Advanced Dungeons & Dragons: Secret of the Silver Blades | 12760 | [12760-advanced-dungeons-and-dragons-secret-of-the-silver-blades.json](./12760-advanced-dungeons-and-dragons-secret-of-the-silver-blades.json) |
+| Advanced Dungeons & Dragons: Treasure of Tarmin | 5655 | [5655-advanced-dungeons-and-dragons-treasure-of-tarmin.json](./5655-advanced-dungeons-and-dragons-treasure-of-tarmin.json) |
 | Advanced Gaming Platform: Epica | 34557 | [34557-advanced-gaming-platform-epica.json](./34557-advanced-gaming-platform-epica.json) |
 | Advanced Intelligence Surveillance Agency | 150651 | [150651-advanced-intelligence-surveillance-agency.json](./150651-advanced-intelligence-surveillance-agency.json) |
 | Advanced Kick Challenge | 379477 | [379477-advanced-kick-challenge.json](./379477-advanced-kick-challenge.json) |
@@ -1490,6 +1492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AFL 99 | 60580 | [60580-afl-99.json](./60580-afl-99.json) |
 | AFL Challenge | 68302 | [68302-afl-challenge.json](./68302-afl-challenge.json) |
 | AFL Finals Fever | 72156 | [72156-afl-finals-fever.json](./72156-afl-finals-fever.json) |
+| AFL Live | 5477 | [5477-afl-live.json](./5477-afl-live.json) |
 | AFL Premiership 2005 | 73847 | [73847-afl-premiership-2005.json](./73847-afl-premiership-2005.json) |
 | AFL Premiership 2006 | 43452 | [43452-afl-premiership-2006.json](./43452-afl-premiership-2006.json) |
 | Afloat | 120829 | [120829-afloat.json](./120829-afloat.json) |
@@ -1541,6 +1544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After the Meteor Shower | 230940 | [230940-after-the-meteor-shower.json](./230940-after-the-meteor-shower.json) |
 | After the Suns | 119533 | [119533-after-the-suns.json](./119533-after-the-suns.json) |
 | After the Wane | 387356 | [387356-after-the-wane.json](./387356-after-the-wane.json) |
+| After the War | 5713 | [5713-after-the-war.json](./5713-after-the-war.json) |
 | After Wave: Downfall | 212284 | [212284-after-wave-downfall.json](./212284-after-wave-downfall.json) |
 | After Work | 360586 | [360586-after-work.json](./360586-after-work.json) |
 | After-H : Zombies | 141798 | [141798-after-h-zombies.json](./141798-after-h-zombies.json) |
@@ -2151,6 +2155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akatori | 140375 | [140375-akatori.json](./140375-akatori.json) |
 | Akatsuki Blitzkampf | 80207 | [80207-akatsuki-blitzkampf.json](./80207-akatsuki-blitzkampf.json) |
 | Akatsuki Blitzkampf: Ausf. Achse | 132026 | [132026-akatsuki-blitzkampf-ausf-achse.json](./132026-akatsuki-blitzkampf-ausf-achse.json) |
+| Akatsuki no Amaneka to Aoi Kyojin: Pashiate Bunmei Kenkyuukai Koubouki | 5480 | [5480-akatsuki-no-amaneka-to-aoi-kyojin-pashiate-bunmei-kenkyuukai-koubouki.json](./5480-akatsuki-no-amaneka-to-aoi-kyojin-pashiate-bunmei-kenkyuukai-koubouki.json) |
 | Akatsuki no Amaneka to Aoi Kyojin: Pashiate Bunmei Kenkyuukai Koubouki | 67296 | [67296-akatsuki-no-amaneka-to-aoi-kyojin-pashiate-bunmei-kenkyuukai-koubouki.json](./67296-akatsuki-no-amaneka-to-aoi-kyojin-pashiate-bunmei-kenkyuukai-koubouki.json) |
 | Akatsuki no Bizantira | 228703 | [228703-akatsuki-no-bizantira.json](./228703-akatsuki-no-bizantira.json) |
 | Akatsuki no Goei | 202951 | [202951-akatsuki-no-goei.json](./202951-akatsuki-no-goei.json) |
@@ -4752,6 +4757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse Survivor | 366291 | [366291-apocalypse-survivor.json](./366291-apocalypse-survivor.json) |
 | Apocalypse Traffic | 245260 | [245260-apocalypse-traffic.json](./245260-apocalypse-traffic.json) |
 | Apocalypse Z: Survival | 129803 | [129803-apocalypse-z-survival.json](./129803-apocalypse-z-survival.json) |
+| Apocalypse: Desire Next | 5487 | [5487-apocalypse-desire-next.json](./5487-apocalypse-desire-next.json) |
 | Apocalypse: Floodgates | 195530 | [195530-apocalypse-floodgates.json](./195530-apocalypse-floodgates.json) |
 | Apocalypse: The Game | 61615 | [61615-apocalypse-the-game.json](./61615-apocalypse-the-game.json) |
 | Apocalypter | 378318 | [378318-apocalypter.json](./378318-apocalypter.json) |
@@ -4949,6 +4955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquavias | 96757 | [96757-aquavias.json](./96757-aquavias.json) |
 | Aquaville | 373612 | [373612-aquaville.json](./373612-aquaville.json) |
 | Aquazone Desktop Life | 45429 | [45429-aquazone-desktop-life.json](./45429-aquazone-desktop-life.json) |
+| AquaZone: Life Simulator | 5488 | [5488-aquazone-life-simulator.json](./5488-aquazone-life-simulator.json) |
 | Aquillanto | 153334 | [153334-aquillanto.json](./153334-aquillanto.json) |
 | Aquis | 293095 | [293095-aquis.json](./293095-aquis.json) |
 | Aquium | 290553 | [290553-aquium.json](./290553-aquium.json) |
@@ -7296,6 +7303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Museum 64 | 182903 | [182903-auto-museum-64.json](./182903-auto-museum-64.json) |
 | Auto Race | 245572 | [245572-auto-race.json](./245572-auto-race.json) |
 | Auto Racing | 246505 | [246505-auto-racing.json](./246505-auto-racing.json) |
+| Auto Racing | 5659 | [5659-auto-racing.json](./5659-auto-racing.json) |
 | Auto RiskRisk | 245784 | [245784-auto-riskrisk.json](./245784-auto-riskrisk.json) |
 | Auto Rogue | 334135 | [334135-auto-rogue.json](./334135-auto-rogue.json) |
 | Auto Sale Life | 258011 | [258011-auto-sale-life.json](./258011-auto-sale-life.json) |
