@@ -942,12 +942,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick Bot Classic | 137089 | [137089-kick-bot-classic.json](./137089-kick-bot-classic.json) |
 | Kick Buds | 401544 | [401544-kick-buds.json](./401544-kick-buds.json) |
 | Kick Buttowski: Loco Launcho | 234895 | [234895-kick-buttowski-loco-launcho.json](./234895-kick-buttowski-loco-launcho.json) |
+| Kick Goal | 40341 | [40341-kick-goal.json](./40341-kick-goal.json) |
 | Kick It | 94198 | [94198-kick-it.json](./94198-kick-it.json) |
 | Kick it, Bunny! | 143109 | [143109-kick-it-bunny.json](./143109-kick-it-bunny.json) |
 | Kick Off | 15240 | [15240-kick-off.json](./15240-kick-off.json) |
 | Kick Off 2: Giants of Europe | 80644 | [80644-kick-off-2-giants-of-europe.json](./80644-kick-off-2-giants-of-europe.json) |
 | Kick Off 2: Return to Europe | 71478 | [71478-kick-off-2-return-to-europe.json](./71478-kick-off-2-return-to-europe.json) |
 | Kick Off 96 | 94330 | [94330-kick-off-96.json](./94330-kick-off-96.json) |
+| Kick Start | 40340 | [40340-kick-start.json](./40340-kick-start.json) |
 | Kick the Boss's Ass | 301977 | [301977-kick-the-bosss-ass.json](./301977-kick-the-bosss-ass.json) |
 | Kick the Buddy: Forever | 331673 | [331673-kick-the-buddy-forever.json](./331673-kick-the-buddy-forever.json) |
 | Kick the Buddy: Remastered | 212447 | [212447-kick-the-buddy-remastered.json](./212447-kick-the-buddy-remastered.json) |
@@ -2522,6 +2524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krashimals | 330558 | [330558-krashimals.json](./330558-krashimals.json) |
 | Kratoria | 187540 | [187540-kratoria.json](./187540-kratoria.json) |
 | Krautscape | 16903 | [16903-krautscape.json](./16903-krautscape.json) |
+| Krazy Bowl | 40339 | [40339-krazy-bowl.json](./40339-krazy-bowl.json) |
 | Krazy Ivan | 20604 | [20604-krazy-ivan.json](./20604-krazy-ivan.json) |
 | Krazy Kart Racing | 67688 | [67688-krazy-kart-racing.json](./67688-krazy-kart-racing.json) |
 | Krazy Kart! | 310968 | [310968-krazy-kart.json](./310968-krazy-kart.json) |
