@@ -6436,6 +6436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smashed and Boiled | 322110 | [322110-smashed-and-boiled.json](./322110-smashed-and-boiled.json) |
 | Smasher | 112976 | [112976-smasher.json](./112976-smasher.json) |
 | Smasher and the Will o' the Thiccs | 165633 | [165633-smasher-and-the-will-o-the-thiccs.json](./165633-smasher-and-the-will-o-the-thiccs.json) |
+| Smashie | 23952 | [23952-smashie.json](./23952-smashie.json) |
 | Smashing Drive | 2743 | [2743-smashing-drive.json](./2743-smashing-drive.json) |
 | Smashing Four | 69372 | [69372-smashing-four.json](./69372-smashing-four.json) |
 | Smashing Healthy VR | 132248 | [132248-smashing-healthy-vr.json](./132248-smashing-healthy-vr.json) |
@@ -6639,6 +6640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake on Dope | 194303 | [194303-snake-on-dope.json](./194303-snake-on-dope.json) |
 | Snake Party | 29906 | [29906-snake-party.json](./29906-snake-party.json) |
 | Snake Pass | 19220 | [19220-snake-pass.json](./19220-snake-pass.json) |
+| Snake Pit | 24011 | [24011-snake-pit.json](./24011-snake-pit.json) |
 | Snake Plissken's Escape | 67295 | [67295-snake-plisskens-escape.json](./67295-snake-plisskens-escape.json) |
 | Snake Princess | 350536 | [350536-snake-princess.json](./350536-snake-princess.json) |
 | Snake Quest | 261517 | [261517-snake-quest.json](./261517-snake-quest.json) |
@@ -8257,6 +8259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorting Baby Blocks: children's educational puzzle | 86837 | [86837-sorting-baby-blocks-childrens-educational-puzzle.json](./86837-sorting-baby-blocks-childrens-educational-puzzle.json) |
 | Sorting Puzzles for Kids | 104128 | [104128-sorting-puzzles-for-kids.json](./104128-sorting-puzzles-for-kids.json) |
 | SortPuz | 196340 | [196340-sortpuz.json](./196340-sortpuz.json) |
+| SOS | 24008 | [24008-sos.json](./24008-sos.json) |
 | SOS | 72334 | [72334-sos.json](./72334-sos.json) |
 | SOS Atlas | 104796 | [104796-sos-atlas.json](./104796-sos-atlas.json) |
 | SOS Defense | 108455 | [108455-sos-defense.json](./108455-sos-defense.json) |
@@ -10845,6 +10848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Revenge 6: Luigi's Adventure | 260804 | [260804-star-revenge-6-luigis-adventure.json](./260804-star-revenge-6-luigis-adventure.json) |
 | Star Revenge 6.5: Wrath of The Dim. Flower PC Port | 378270 | [378270-star-revenge-6-5-wrath-of-the-dim-flower-pc-port.json](./378270-star-revenge-6-5-wrath-of-the-dim-flower-pc-port.json) |
 | Star Revenge Redone PC | 378291 | [378291-star-revenge-redone-pc.json](./378291-star-revenge-redone-pc.json) |
+| Star Rider | 24012 | [24012-star-rider.json](./24012-star-rider.json) |
 | Star Ring | 295927 | [295927-star-ring.json](./295927-star-ring.json) |
 | Star Rising | 353391 | [353391-star-rising.json](./353391-star-rising.json) |
 | Star Ronin | 320744 | [320744-star-ronin.json](./320744-star-ronin.json) |
@@ -15516,6 +15520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swamp Attack | 87019 | [87019-swamp-attack.json](./87019-swamp-attack.json) |
 | Swamp Attack 2 | 194039 | [194039-swamp-attack-2.json](./194039-swamp-attack-2.json) |
 | Swamp Castle | 276461 | [276461-swamp-castle.json](./276461-swamp-castle.json) |
+| Swamp Chomp | 23986 | [23986-swamp-chomp.json](./23986-swamp-chomp.json) |
 | Swamp Defense 2 | 112113 | [112113-swamp-defense-2.json](./112113-swamp-defense-2.json) |
 | Swamp Fever | 47204 | [47204-swamp-fever.json](./47204-swamp-fever.json) |
 | Swamp Gas Visits the United States of America | 65517 | [65517-swamp-gas-visits-the-united-states-of-america.json](./65517-swamp-gas-visits-the-united-states-of-america.json) |
