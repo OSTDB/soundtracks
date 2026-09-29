@@ -3013,6 +3013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Racer | 61646 | [61646-desert-racer.json](./61646-desert-racer.json) |
 | Desert Raider | 151174 | [151174-desert-raider.json](./151174-desert-raider.json) |
 | Desert Rats | 12419 | [12419-desert-rats.json](./12419-desert-rats.json) |
+| Desert Rider | 42149 | [42149-desert-rider.json](./42149-desert-rider.json) |
 | Desert Rigs | 134060 | [134060-desert-rigs.json](./134060-desert-rigs.json) |
 | Desert Rush | 265430 | [265430-desert-rush.json](./265430-desert-rush.json) |
 | Desert Spirit Grave | 253978 | [253978-desert-spirit-grave.json](./253978-desert-spirit-grave.json) |
@@ -4694,6 +4695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divinity: Original Sin - The Source Saga | 133908 | [133908-divinity-original-sin-the-source-saga.json](./133908-divinity-original-sin-the-source-saga.json) |
 | Divinoids | 132077 | [132077-divinoids.json](./132077-divinoids.json) |
 | Divinus Vanitas | 215921 | [215921-divinus-vanitas.json](./215921-divinus-vanitas.json) |
+| Division 1 | 42174 | [42174-division-1.json](./42174-division-1.json) |
 | Dìwáng Chāiqiān Bàn | 367485 | [367485-diwang-chaiqian-ban.json](./367485-diwang-chaiqian-ban.json) |
 | DIY Fashion Star - Design Hacks Clothing Game | 104486 | [104486-diy-fashion-star-design-hacks-clothing-game.json](./104486-diy-fashion-star-design-hacks-clothing-game.json) |
 | DIY Horse Race Thing | 342860 | [342860-diy-horse-race-thing.json](./342860-diy-horse-race-thing.json) |
@@ -5943,6 +5945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double World. Cave Song Castle | 163836 | [163836-double-world-cave-song-castle.json](./163836-double-world-cave-song-castle.json) |
 | Double Zags | 175266 | [175266-double-zags.json](./175266-double-zags.json) |
 | Double-Entry Bookkeeping Simulator | 188549 | [188549-double-entry-bookkeeping-simulator.json](./188549-double-entry-bookkeeping-simulator.json) |
+| Doubleback | 42148 | [42148-doubleback.json](./42148-doubleback.json) |
 | DoubleClutch 2: Basketball | 266262 | [266262-doubleclutch-2-basketball.json](./266262-doubleclutch-2-basketball.json) |
 | DoubleMe | 183896 | [183896-doubleme.json](./183896-doubleme.json) |
 | Doubles Hard | 146799 | [146799-doubles-hard.json](./146799-doubles-hard.json) |
@@ -6422,6 +6425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Masters: War of Legends | 214030 | [214030-dragon-masters-war-of-legends.json](./214030-dragon-masters-war-of-legends.json) |
 | Dragon Merge Wind | 228112 | [228112-dragon-merge-wind.json](./228112-dragon-merge-wind.json) |
 | Dragon Mine | 211204 | [211204-dragon-mine.json](./211204-dragon-mine.json) |
+| Dragon Mix | 42173 | [42173-dragon-mix.json](./42173-dragon-mix.json) |
 | Dragon Must Die | 215917 | [215917-dragon-must-die.json](./215917-dragon-must-die.json) |
 | Dragon Nest Escape | 315645 | [315645-dragon-nest-escape.json](./315645-dragon-nest-escape.json) |
 | Dragon Nest M | 104643 | [104643-dragon-nest-m.json](./104643-dragon-nest-m.json) |
@@ -8026,6 +8030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of Avalon II - The Island of Darkness | 19476 | [19476-dungeons-of-avalon-ii-the-island-of-darkness.json](./19476-dungeons-of-avalon-ii-the-island-of-darkness.json) |
 | Dungeons of Betrayal | 53929 | [53929-dungeons-of-betrayal.json](./53929-dungeons-of-betrayal.json) |
 | Dungeons of Chaos | 68203 | [68203-dungeons-of-chaos.json](./68203-dungeons-of-chaos.json) |
+| Dungeons of Daggorath | 42156 | [42156-dungeons-of-daggorath.json](./42156-dungeons-of-daggorath.json) |
 | Dungeons of Death | 356659 | [356659-dungeons-of-death.json](./356659-dungeons-of-death.json) |
 | Dungeons of Dreadrock | 194009 | [194009-dungeons-of-dreadrock.json](./194009-dungeons-of-dreadrock.json) |
 | Dungeons of Dredmor: Conquest of the Wizardlands | 172164 | [172164-dungeons-of-dredmor-conquest-of-the-wizardlands.json](./172164-dungeons-of-dredmor-conquest-of-the-wizardlands.json) |
