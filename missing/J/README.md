@@ -520,6 +520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jester's Helper | 363047 | [363047-jesters-helper.json](./363047-jesters-helper.json) |
 | Jester's Quest | 221163 | [221163-jesters-quest.json](./221163-jesters-quest.json) |
 | Jesucristo: El Robot del Futuro | 302125 | [302125-jesucristo-el-robot-del-futuro.json](./302125-jesucristo-el-robot-del-futuro.json) |
+| Jesus Christ RPG | 18450 | [18450-jesus-christ-rpg.json](./18450-jesus-christ-rpg.json) |
 | Jesus Christ RPG Trilogy | 33371 | [33371-jesus-christ-rpg-trilogy.json](./33371-jesus-christ-rpg-trilogy.json) |
 | Jesus Christ Simulator | 303590 | [303590-jesus-christ-simulator.json](./303590-jesus-christ-simulator.json) |
 | Jesus Sacred Heart | 392792 | [392792-jesus-sacred-heart.json](./392792-jesus-sacred-heart.json) |
