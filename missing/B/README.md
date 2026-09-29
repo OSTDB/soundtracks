@@ -1840,6 +1840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Train | 311876 | [311876-battle-train.json](./311876-battle-train.json) |
 | Battle Trendaria | 75138 | [75138-battle-trendaria.json](./75138-battle-trendaria.json) |
 | Battle Trendaria | 75191 | [75191-battle-trendaria.json](./75191-battle-trendaria.json) |
+| Battle Tryst | 58905 | [58905-battle-tryst.json](./58905-battle-tryst.json) |
 | Battle Wizard Attack | 314633 | [314633-battle-wizard-attack.json](./314633-battle-wizard-attack.json) |
 | Battle Wizards | 136284 | [136284-battle-wizards.json](./136284-battle-wizards.json) |
 | Battle X Arcade | 110961 | [110961-battle-x-arcade.json](./110961-battle-x-arcade.json) |
@@ -5669,6 +5670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boomy the Cat | 58784 | [58784-boomy-the-cat.json](./58784-boomy-the-cat.json) |
 | Boon Blast | 86779 | [86779-boon-blast.json](./86779-boon-blast.json) |
 | Boon Boon | 119691 | [119691-boon-boon.json](./119691-boon-boon.json) |
+| Boong-Ga Boong-Ga | 58738 | [58738-boong-ga-boong-ga.json](./58738-boong-ga-boong-ga.json) |
 | Boonka | 317386 | [317386-boonka.json](./317386-boonka.json) |
 | Boons Farm | 108043 | [108043-boons-farm.json](./108043-boons-farm.json) |
 | Booooooooooooooounce | 163817 | [163817-booooooooooooooounce.json](./163817-booooooooooooooounce.json) |
