@@ -1954,6 +1954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Walk | 324881 | [324881-epic-walk.json](./324881-epic-walk.json) |
 | Epic War 1 | 86057 | [86057-epic-war-1.json](./86057-epic-war-1.json) |
 | Epic Zombies | 293620 | [293620-epic-zombies.json](./293620-epic-zombies.json) |
+| Epica | 31048 | [31048-epica.json](./31048-epica.json) |
 | Epicedium | 102797 | [102797-epicedium.json](./102797-epicedium.json) |
 | Epicinium | 82124 | [82124-epicinium.json](./82124-epicinium.json) |
 | EpicMafia | 57075 | [57075-epicmafia.json](./57075-epicmafia.json) |
@@ -3445,6 +3446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EXS2: EthnologySister2 - Structuralism of Kinship System | 237279 | [237279-exs2-ethnologysister2-structuralism-of-kinship-system.json](./237279-exs2-ethnologysister2-structuralism-of-kinship-system.json) |
 | Exsanguination | 340045 | [340045-exsanguination.json](./340045-exsanguination.json) |
 | Extase | 94197 | [94197-extase.json](./94197-extase.json) |
+| Exteria | 31056 | [31056-exteria.json](./31056-exteria.json) |
 | Exterminate the world | 93751 | [93751-exterminate-the-world.json](./93751-exterminate-the-world.json) |
 | Exterminate Zombies: Get Paid | 215930 | [215930-exterminate-zombies-get-paid.json](./215930-exterminate-zombies-get-paid.json) |
 | Extermination | 130828 | [130828-extermination.json](./130828-extermination.json) |
