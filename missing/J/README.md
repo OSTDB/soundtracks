@@ -981,6 +981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jobsworth Weekly | 290526 | [290526-jobsworth-weekly.json](./290526-jobsworth-weekly.json) |
 | Jobu-Ki | 113147 | [113147-jobu-ki.json](./113147-jobu-ki.json) |
 | Jock and the Time Rings | 294211 | [294211-jock-and-the-time-rings.json](./294211-jock-and-the-time-rings.json) |
+| Jockey Rush | 32099 | [32099-jockey-rush.json](./32099-jockey-rush.json) |
 | Jockey Zero | 143662 | [143662-jockey-zero.json](./143662-jockey-zero.json) |
 | Jockey's Road | 62228 | [62228-jockeys-road.json](./62228-jockeys-road.json) |
 | Jocky Wilson's Compendium of Darts | 45352 | [45352-jocky-wilsons-compendium-of-darts.json](./45352-jocky-wilsons-compendium-of-darts.json) |
