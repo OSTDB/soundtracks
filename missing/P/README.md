@@ -1855,6 +1855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penelope Syndrome | 341585 | [341585-penelope-syndrome.json](./341585-penelope-syndrome.json) |
 | Penelope's Odyssey | 190700 | [190700-penelopes-odyssey.json](./190700-penelopes-odyssey.json) |
 | Penetration | 281413 | [281413-penetration.json](./281413-penetration.json) |
+| Penetrator | 25836 | [25836-penetrator.json](./25836-penetrator.json) |
 | Penga & Obcster's Christmish Adventure | 26757 | [26757-penga-and-obcsters-christmish-adventure.json](./26757-penga-and-obcsters-christmish-adventure.json) |
 | Pengicitis The Game | 353324 | [353324-pengicitis-the-game.json](./353324-pengicitis-the-game.json) |
 | Pengin-gin | 385334 | [385334-pengin-gin.json](./385334-pengin-gin.json) |
@@ -6540,6 +6541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Private Dance VR | 286534 | [286534-private-dance-vr.json](./286534-private-dance-vr.json) |
 | Private Detective Punch Drunk: PDPD | 77365 | [77365-private-detective-punch-drunk-pdpd.json](./77365-private-detective-punch-drunk-pdpd.json) |
 | Private Eye | 10999 | [10999-private-eye.json](./10999-private-eye.json) |
+| Private Eye | 25833 | [25833-private-eye.json](./25833-private-eye.json) |
 | Private Garden | 331099 | [331099-private-garden.json](./331099-private-garden.json) |
 | Private Infiltrator | 62676 | [62676-private-infiltrator.json](./62676-private-infiltrator.json) |
 | Private Lesson with My Lover Teacher | 255111 | [255111-private-lesson-with-my-lover-teacher.json](./255111-private-lesson-with-my-lover-teacher.json) |
@@ -8161,6 +8163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PyraMaze | 177850 | [177850-pyramaze.json](./177850-pyramaze.json) |
 | Pyramaze: The Game | 55294 | [55294-pyramaze-the-game.json](./55294-pyramaze-the-game.json) |
 | Pyrami Head | 250967 | [250967-pyrami-head.json](./250967-pyrami-head.json) |
+| Pyramid | 25831 | [25831-pyramid.json](./25831-pyramid.json) |
 | Pyramid Adventures | 46569 | [46569-pyramid-adventures.json](./46569-pyramid-adventures.json) |
 | Pyramid Adventures: Episode 1 - Treasures of the Lost Pyramid | 66351 | [66351-pyramid-adventures-episode-1-treasures-of-the-lost-pyramid.json](./66351-pyramid-adventures-episode-1-treasures-of-the-lost-pyramid.json) |
 | Pyramid Bloxx | 194657 | [194657-pyramid-bloxx.json](./194657-pyramid-bloxx.json) |
