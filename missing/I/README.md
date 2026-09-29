@@ -1795,6 +1795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Run | 105875 | [105875-infinity-run.json](./105875-infinity-run.json) |
 | Infinity Runner | 17097 | [17097-infinity-runner.json](./17097-infinity-runner.json) |
 | Infinity Runner Bot | 297639 | [297639-infinity-runner-bot.json](./297639-infinity-runner-bot.json) |
+| Infinity Saga | 33358 | [33358-infinity-saga.json](./33358-infinity-saga.json) |
 | Infinity Ship | 401818 | [401818-infinity-ship.json](./401818-infinity-ship.json) |
 | Infinity Slime Dungeon | 321754 | [321754-infinity-slime-dungeon.json](./321754-infinity-slime-dungeon.json) |
 | Infinity Souls | 196576 | [196576-infinity-souls.json](./196576-infinity-souls.json) |
@@ -1809,6 +1810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity war | 167816 | [167816-infinity-war.json](./167816-infinity-war.json) |
 | Infinity Wars 2 | 128386 | [128386-infinity-wars-2.json](./128386-infinity-wars-2.json) |
 | Infinity Wars: Animated Trading Card Game | 16732 | [16732-infinity-wars-animated-trading-card-game.json](./16732-infinity-wars-animated-trading-card-game.json) |
+| Infinity Wings - Scout & Grunt | 33360 | [33360-infinity-wings-scout-and-grunt.json](./33360-infinity-wings-scout-and-grunt.json) |
 | Infinity: Battlescape | 26990 | [26990-infinity-battlescape.json](./26990-infinity-battlescape.json) |
 | Infinity: HexaDome Tactics | 275699 | [275699-infinity-hexadome-tactics.json](./275699-infinity-hexadome-tactics.json) |
 | Infinium Strike: Broken Overlord | 171454 | [171454-infinium-strike-broken-overlord.json](./171454-infinium-strike-broken-overlord.json) |
@@ -2003,6 +2005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inquisitor's Heart and Soul | 191205 | [191205-inquisitors-heart-and-soul.json](./191205-inquisitors-heart-and-soul.json) |
 | InRun | 256554 | [256554-inrun.json](./256554-inrun.json) |
 | Insane | 291583 | [291583-insane.json](./291583-insane.json) |
+| Insane | 33263 | [33263-insane.json](./33263-insane.json) |
 | Insane Aquarium Deluxe | 174746 | [174746-insane-aquarium-deluxe.json](./174746-insane-aquarium-deluxe.json) |
 | Insane Creations | 149528 | [149528-insane-creations.json](./149528-insane-creations.json) |
 | Insane Forest | 342886 | [342886-insane-forest.json](./342886-insane-forest.json) |
