@@ -1800,6 +1800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orchard Outbreak: Slime Time | 383955 | [383955-orchard-outbreak-slime-time.json](./383955-orchard-outbreak-slime-time.json) |
 | Orchidia | 208893 | [208893-orchidia.json](./208893-orchidia.json) |
 | Orchids to Dusk | 135906 | [135906-orchids-to-dusk.json](./135906-orchids-to-dusk.json) |
+| Orcish Inn | 9679 | [9679-orcish-inn.json](./9679-orcish-inn.json) |
 | Orcish Skies | 260184 | [260184-orcish-skies.json](./260184-orcish-skies.json) |
 | Orcs & Elves | 21527 | [21527-orcs-and-elves.json](./21527-orcs-and-elves.json) |
 | Orcs and Outlaws | 332995 | [332995-orcs-and-outlaws.json](./332995-orcs-and-outlaws.json) |
