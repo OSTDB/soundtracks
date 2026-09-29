@@ -1476,6 +1476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle of Cards | 200129 | [200129-castle-of-cards.json](./200129-castle-of-cards.json) |
 | Castle of Deceit | 7779 | [7779-castle-of-deceit.json](./7779-castle-of-deceit.json) |
 | Castle of Doom | 215380 | [215380-castle-of-doom.json](./215380-castle-of-doom.json) |
+| Castle of Dragon | 18832 | [18832-castle-of-dragon.json](./18832-castle-of-dragon.json) |
 | Castle of Elite | 125406 | [125406-castle-of-elite.json](./125406-castle-of-elite.json) |
 | Castle of Full Moon | 213985 | [213985-castle-of-full-moon.json](./213985-castle-of-full-moon.json) |
 | Castle of Heart | 69014 | [69014-castle-of-heart.json](./69014-castle-of-heart.json) |
@@ -1939,6 +1940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catniptic | 263059 | [263059-catniptic.json](./263059-catniptic.json) |
 | Cato: Buttered Cat | 203934 | [203934-cato-buttered-cat.json](./203934-cato-buttered-cat.json) |
 | Catovania | 132629 | [132629-catovania.json](./132629-catovania.json) |
+| Catrap | 7820 | [7820-catrap.json](./7820-catrap.json) |
 | Catroom Drama: Case 2 | 183953 | [183953-catroom-drama-case-2.json](./183953-catroom-drama-case-2.json) |
 | CatRoots | 130334 | [130334-catroots.json](./130334-catroots.json) |
 | CatRunner 2022 | 299902 | [299902-catrunner-2022.json](./299902-catrunner-2022.json) |
@@ -4319,6 +4321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic NES Series: Dr. Mario | 18064 | [18064-classic-nes-series-dr-mario.json](./18064-classic-nes-series-dr-mario.json) |
 | Classic NES Series: Metroid | 76247 | [76247-classic-nes-series-metroid.json](./76247-classic-nes-series-metroid.json) |
 | Classic NES Series: Pac-Man | 76248 | [76248-classic-nes-series-pac-man.json](./76248-classic-nes-series-pac-man.json) |
+| Classic NES Series: The Legend of Zelda | 18066 | [18066-classic-nes-series-the-legend-of-zelda.json](./18066-classic-nes-series-the-legend-of-zelda.json) |
 | Classic NES Series: Zelda II - The Adventure of Link | 136280 | [136280-classic-nes-series-zelda-ii-the-adventure-of-link.json](./136280-classic-nes-series-zelda-ii-the-adventure-of-link.json) |
 | Classic Offensive | 250310 | [250310-classic-offensive.json](./250310-classic-offensive.json) |
 | Classic Pool and Cyber Pool Bundle | 251804 | [251804-classic-pool-and-cyber-pool-bundle.json](./251804-classic-pool-and-cyber-pool-bundle.json) |
@@ -5190,6 +5193,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colony Siege | 127192 | [127192-colony-siege.json](./127192-colony-siege.json) |
 | Colony Strikes Back | 175893 | [175893-colony-strikes-back.json](./175893-colony-strikes-back.json) |
 | Colony Wars 2494 | 19585 | [19585-colony-wars-2494.json](./19585-colony-wars-2494.json) |
+| Colony Wars: Red Sun | 8282 | [8282-colony-wars-red-sun.json](./8282-colony-wars-red-sun.json) |
+| Colony Wars: Vengeance | 8281 | [8281-colony-wars-vengeance.json](./8281-colony-wars-vengeance.json) |
 | Colony: A Space RPG | 208025 | [208025-colony-a-space-rpg.json](./208025-colony-a-space-rpg.json) |
 | Colony: Part I The Moon Castle | 302937 | [302937-colony-part-i-the-moon-castle.json](./302937-colony-part-i-the-moon-castle.json) |
 | ColonyShip-4: Survivors | 110378 | [110378-colonyship-4-survivors.json](./110378-colonyship-4-survivors.json) |
@@ -8178,6 +8183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptic Clash | 182907 | [182907-cryptic-clash.json](./182907-cryptic-clash.json) |
 | Cryptic Crawlz | 321478 | [321478-cryptic-crawlz.json](./321478-cryptic-crawlz.json) |
 | Cryptic Glaze Mirror | 391174 | [391174-cryptic-glaze-mirror.json](./391174-cryptic-glaze-mirror.json) |
+| Cryptic Passage for Blood | 18499 | [18499-cryptic-passage-for-blood.json](./18499-cryptic-passage-for-blood.json) |
 | Cryptic Sea EP | 61710 | [61710-cryptic-sea-ep.json](./61710-cryptic-sea-ep.json) |
 | Cryptic Tales: Crossroads | 371461 | [371461-cryptic-tales-crossroads.json](./371461-cryptic-tales-crossroads.json) |
 | Cryptica | 307157 | [307157-cryptica.json](./307157-cryptica.json) |
