@@ -2376,6 +2376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Farm | 274486 | [274486-escape-the-farm.json](./274486-escape-the-farm.json) |
 | Escape the Floor | 329011 | [329011-escape-the-floor.json](./329011-escape-the-floor.json) |
 | Escape The Forest | 301828 | [301828-escape-the-forest.json](./301828-escape-the-forest.json) |
+| Escape the Game | 25848 | [25848-escape-the-game.json](./25848-escape-the-game.json) |
 | Escape the Grid VR | 102350 | [102350-escape-the-grid-vr.json](./102350-escape-the-grid-vr.json) |
 | Escape the Loop | 30183 | [30183-escape-the-loop.json](./30183-escape-the-loop.json) |
 | Escape the Mad Empire | 217233 | [217233-escape-the-mad-empire.json](./217233-escape-the-mad-empire.json) |
@@ -2532,6 +2533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Essential Mayhem | 159739 | [159739-essential-mayhem.json](./159739-essential-mayhem.json) |
 | Essential Power | 369038 | [369038-essential-power.json](./369038-essential-power.json) |
 | Essentures | 115455 | [115455-essentures.json](./115455-essentures.json) |
+| Essex | 25893 | [25893-essex.json](./25893-essex.json) |
 | Essomenic | 388369 | [388369-essomenic.json](./388369-essomenic.json) |
 | Estadi.ooo | 194414 | [194414-estadi-ooo.json](./194414-estadi-ooo.json) |
 | Estancia Protocol Zero | 405609 | [405609-estancia-protocol-zero.json](./405609-estancia-protocol-zero.json) |
