@@ -608,6 +608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unavowed | 27867 | [27867-unavowed.json](./27867-unavowed.json) |
 | Unawake | 173247 | [173247-unawake.json](./173247-unawake.json) |
 | UNB | 335890 | [335890-unb.json](./335890-unb.json) |
+| Unbeatable | 144859 | [144859-unbeatable.json](./144859-unbeatable.json) |
 | Unbeatable: The Jamie Paige Content Companion | 408174 | [408174-unbeatable-the-jamie-paige-content-companion.json](./408174-unbeatable-the-jamie-paige-content-companion.json) |
 | Unbeknown | 59682 | [59682-unbeknown.json](./59682-unbeknown.json) |
 | Unbind | 112481 | [112481-unbind.json](./112481-unbind.json) |
@@ -1259,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unprotected | 323515 | [323515-unprotected.json](./323515-unprotected.json) |
 | Unquiet Grey | 374183 | [374183-unquiet-grey.json](./374183-unquiet-grey.json) |
 | UnQuollified | 404959 | [404959-unquollified.json](./404959-unquollified.json) |
+| Unrailed 2: Back on Track | 278600 | [278600-unrailed-2-back-on-track.json](./278600-unrailed-2-back-on-track.json) |
 | Unrailed! | 115201 | [115201-unrailed.json](./115201-unrailed.json) |
 | Unravel Cyndy | 114949 | [114949-unravel-cyndy.json](./114949-unravel-cyndy.json) |
 | Unravel Lines Puzzle | 234049 | [234049-unravel-lines-puzzle.json](./234049-unravel-lines-puzzle.json) |
