@@ -247,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yeti Quest: Crazy Penguins | 294469 | [294469-yeti-quest-crazy-penguins.json](./294469-yeti-quest-crazy-penguins.json) |
 | Yeti's Parole Officer | 83598 | [83598-yetis-parole-officer.json](./83598-yetis-parole-officer.json) |
 | Yetisports Arctic Adventure | 43239 | [43239-yetisports-arctic-adventure.json](./43239-yetisports-arctic-adventure.json) |
+| Yetisports Deluxe | 44774 | [44774-yetisports-deluxe.json](./44774-yetisports-deluxe.json) |
 | Yggdra Kingdom | 395590 | [395590-yggdra-kingdom.json](./395590-yggdra-kingdom.json) |
 | Yggdra Union | 99972 | [99972-yggdra-union.json](./99972-yggdra-union.json) |
 | Yggdra Unison: Seiken Buyuuden | 67852 | [67852-yggdra-unison-seiken-buyuuden.json](./67852-yggdra-unison-seiken-buyuuden.json) |
@@ -644,6 +645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Youyou Kengeki Musou | 137062 | [137062-youyou-kengeki-musou.json](./137062-youyou-kengeki-musou.json) |
 | Yoyo | 128468 | [128468-yoyo.json](./128468-yoyo.json) |
 | Yoyo Punk | 349375 | [349375-yoyo-punk.json](./349375-yoyo-punk.json) |
+| Yoyo's Puzzle Park | 44718 | [44718-yoyos-puzzle-park.json](./44718-yoyos-puzzle-park.json) |
 | YoyoMonkeyAdventure | 149036 | [149036-yoyomonkeyadventure.json](./149036-yoyomonkeyadventure.json) |
 | Yozemi no Center Shoujun Series: Eigo-hen | 321355 | [321355-yozemi-no-center-shoujun-series-eigo-hen.json](./321355-yozemi-no-center-shoujun-series-eigo-hen.json) |
 | YRek Lost In Portals | 166757 | [166757-yrek-lost-in-portals.json](./166757-yrek-lost-in-portals.json) |
