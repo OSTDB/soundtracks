@@ -2339,6 +2339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WildBorn | 398589 | [398589-wildborn.json](./398589-wildborn.json) |
 | Wildbound | 347711 | [347711-wildbound.json](./347711-wildbound.json) |
 | Wildcat Snack Attack | 338366 | [338366-wildcat-snack-attack.json](./338366-wildcat-snack-attack.json) |
+| Wildcatting | 42131 | [42131-wildcatting.json](./42131-wildcatting.json) |
 | WildCraft | 241635 | [241635-wildcraft.json](./241635-wildcraft.json) |
 | WildCraft | 253329 | [253329-wildcraft.json](./253329-wildcraft.json) |
 | Wildekin | 362280 | [362280-wildekin.json](./362280-wildekin.json) |
