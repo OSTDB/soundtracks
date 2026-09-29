@@ -3388,6 +3388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | America: Expansion Pack | 166693 | [166693-america-expansion-pack.json](./166693-america-expansion-pack.json) |
 | America's Army | 597 | [597-americas-army.json](./597-americas-army.json) |
 | America's Army 3 | 15798 | [15798-americas-army-3.json](./15798-americas-army-3.json) |
+| America's Army: Proving Grounds | 7843 | [7843-americas-army-proving-grounds.json](./7843-americas-army-proving-grounds.json) |
 | America's Greatest Arcade Hits 3D | 146195 | [146195-americas-greatest-arcade-hits-3d.json](./146195-americas-greatest-arcade-hits-3d.json) |
 | America's Greatest Game Shows: Wheel of Fortune & Jeopardy! | 112182 | [112182-americas-greatest-game-shows-wheel-of-fortune-and-jeopardy.json](./112182-americas-greatest-game-shows-wheel-of-fortune-and-jeopardy.json) |
 | America's Greatest Solitaire Games | 206114 | [206114-americas-greatest-solitaire-games.json](./206114-americas-greatest-solitaire-games.json) |
