@@ -994,6 +994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kid Grid | 22770 | [22770-kid-grid.json](./22770-kid-grid.json) |
 | Kid Hallow | 179210 | [179210-kid-hallow.json](./179210-kid-hallow.json) |
 | Kid Icarus | 279751 | [279751-kid-icarus.json](./279751-kid-icarus.json) |
+| Kid Icarus | 3663 | [3663-kid-icarus.json](./3663-kid-icarus.json) |
 | Kid Icarus Enlightenment | 404256 | [404256-kid-icarus-enlightenment.json](./404256-kid-icarus-enlightenment.json) |
 | Kid Klown in Crazy Chase | 6349 | [6349-kid-klown-in-crazy-chase.json](./6349-kid-klown-in-crazy-chase.json) |
 | Kid Klown in Crazy Chase 2: Love Love Hani Soudatsusen | 64508 | [64508-kid-klown-in-crazy-chase-2-love-love-hani-soudatsusen.json](./64508-kid-klown-in-crazy-chase-2-love-love-hani-soudatsusen.json) |
@@ -1504,6 +1505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts coded | 20285 | [20285-kingdom-hearts-coded.json](./20285-kingdom-hearts-coded.json) |
 | Kingdom Hearts Dream Drop Distance HD | 117525 | [117525-kingdom-hearts-dream-drop-distance-hd.json](./117525-kingdom-hearts-dream-drop-distance-hd.json) |
 | Kingdom Hearts HD 1.5 + 2.5 Remix | 27979 | [27979-kingdom-hearts-hd-1-5-2-5-remix.json](./27979-kingdom-hearts-hd-1-5-2-5-remix.json) |
+| Kingdom Hearts HD 1.5 Remix | 7356 | [7356-kingdom-hearts-hd-1-5-remix.json](./7356-kingdom-hearts-hd-1-5-remix.json) |
 | Kingdom Hearts HD 1.5 Remix: Limited Edition | 81206 | [81206-kingdom-hearts-hd-1-5-remix-limited-edition.json](./81206-kingdom-hearts-hd-1-5-remix-limited-edition.json) |
 | Kingdom Hearts HD 2.8 Final Chapter Prologue: Limited Edition | 44535 | [44535-kingdom-hearts-hd-2-8-final-chapter-prologue-limited-edition.json](./44535-kingdom-hearts-hd-2-8-final-chapter-prologue-limited-edition.json) |
 | Kingdom Hearts II Final Mix | 221998 | [221998-kingdom-hearts-ii-final-mix.json](./221998-kingdom-hearts-ii-final-mix.json) |
@@ -1513,6 +1515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts Integrum Masterpiece for Cloud | 187460 | [187460-kingdom-hearts-integrum-masterpiece-for-cloud.json](./187460-kingdom-hearts-integrum-masterpiece-for-cloud.json) |
 | Kingdom Hearts Re:Chain of Memories | 20286 | [20286-kingdom-hearts-re-chain-of-memories.json](./20286-kingdom-hearts-re-chain-of-memories.json) |
 | Kingdom Hearts Re:Chain of Memories | 214986 | [214986-kingdom-hearts-re-chain-of-memories.json](./214986-kingdom-hearts-re-chain-of-memories.json) |
+| Kingdom Hearts Re:coded | 1225 | [1225-kingdom-hearts-re-coded.json](./1225-kingdom-hearts-re-coded.json) |
 | Kingdom Hearts Rebirth | 349294 | [349294-kingdom-hearts-rebirth.json](./349294-kingdom-hearts-rebirth.json) |
 | Kingdom Hearts Tamagotchi | 229938 | [229938-kingdom-hearts-tamagotchi.json](./229938-kingdom-hearts-tamagotchi.json) |
 | Kingdom Heroes | 389713 | [389713-kingdom-heroes.json](./389713-kingdom-heroes.json) |
@@ -1720,6 +1723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby Tilt 'n' Tumble | 3729 | [3729-kirby-tilt-n-tumble.json](./3729-kirby-tilt-n-tumble.json) |
 | Kirby: Canvas Curse | 3722 | [3722-kirby-canvas-curse.json](./3722-kirby-canvas-curse.json) |
 | Kirby: Cosmic Chaos | 323915 | [323915-kirby-cosmic-chaos.json](./323915-kirby-cosmic-chaos.json) |
+| Kirby: Planet Robobot | 18221 | [18221-kirby-planet-robobot.json](./18221-kirby-planet-robobot.json) |
 | Kirby: Revenge of Dream Land | 196707 | [196707-kirby-revenge-of-dream-land.json](./196707-kirby-revenge-of-dream-land.json) |
 | Kirby: Squeak Squad | 3723 | [3723-kirby-squeak-squad.json](./3723-kirby-squeak-squad.json) |
 | Kirby: The Dreamland Effect | 323921 | [323921-kirby-the-dreamland-effect.json](./323921-kirby-the-dreamland-effect.json) |
@@ -2324,6 +2328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Komodo 3K Arena | 393110 | [393110-komodo-3k-arena.json](./393110-komodo-3k-arena.json) |
 | Komori Fruit Rush | 126633 | [126633-komori-fruit-rush.json](./126633-komori-fruit-rush.json) |
 | Kőműves Kelemen | 120803 | [120803-komuves-kelemen.json](./120803-komuves-kelemen.json) |
+| Kona | 14404 | [14404-kona.json](./14404-kona.json) |
 | Kona Project | 299742 | [299742-kona-project.json](./299742-kona-project.json) |
 | Kona: Day One | 50159 | [50159-kona-day-one.json](./50159-kona-day-one.json) |
 | Konae-chan no Doki-doki Penguin Kazoku | 134464 | [134464-konae-chan-no-doki-doki-penguin-kazoku.json](./134464-konae-chan-no-doki-doki-penguin-kazoku.json) |
