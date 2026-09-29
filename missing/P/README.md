@@ -5851,6 +5851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Instinct Matrimelee | 39543 | [39543-power-instinct-matrimelee.json](./39543-power-instinct-matrimelee.json) |
 | Power Level | 177863 | [177863-power-level.json](./177863-power-level.json) |
 | Power Link VR | 31856 | [31856-power-link-vr.json](./31856-power-link-vr.json) |
+| Power Lords: Quest for Volcan | 40924 | [40924-power-lords-quest-for-volcan.json](./40924-power-lords-quest-for-volcan.json) |
 | Power Move Pro Wrestling | 44763 | [44763-power-move-pro-wrestling.json](./44763-power-move-pro-wrestling.json) |
 | Power Network Tycoon | 258523 | [258523-power-network-tycoon.json](./258523-power-network-tycoon.json) |
 | Power of Logic | 90397 | [90397-power-of-logic.json](./90397-power-of-logic.json) |
@@ -6844,6 +6845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Faith | 223380 | [223380-project-faith.json](./223380-project-faith.json) |
 | Project Fiend | 346247 | [346247-project-fiend.json](./346247-project-fiend.json) |
 | Project Fireball | 258458 | [258458-project-fireball.json](./258458-project-fireball.json) |
+| Project Firestart | 40941 | [40941-project-firestart.json](./40941-project-firestart.json) |
 | Project Fist | 84806 | [84806-project-fist.json](./84806-project-fist.json) |
 | Project Freedom | 315023 | [315023-project-freedom.json](./315023-project-freedom.json) |
 | Project Frontier | 286067 | [286067-project-frontier.json](./286067-project-frontier.json) |
