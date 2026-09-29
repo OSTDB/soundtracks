@@ -371,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampyre Cross | 71576 | [71576-vampyre-cross.json](./71576-vampyre-cross.json) |
 | Vampyre Crusade | 317002 | [317002-vampyre-crusade.json](./317002-vampyre-crusade.json) |
 | Van Buren | 79217 | [79217-van-buren.json](./79217-van-buren.json) |
+| Van Helsing | 6226 | [6226-van-helsing.json](./6226-van-helsing.json) |
 | Van Helsing sniper Zx100 | 85470 | [85470-van-helsing-sniper-zx100.json](./85470-van-helsing-sniper-zx100.json) |
 | Van Life: Home Simulator | 370793 | [370793-van-life-home-simulator.json](./370793-van-life-home-simulator.json) |
 | Van Tourisimo | 182947 | [182947-van-tourisimo.json](./182947-van-tourisimo.json) |
