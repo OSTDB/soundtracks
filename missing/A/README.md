@@ -1449,6 +1449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aetherial | 357786 | [357786-aetherial.json](./357786-aetherial.json) |
 | Aetherica: Echoes of Exodus | 391868 | [391868-aetherica-echoes-of-exodus.json](./391868-aetherica-echoes-of-exodus.json) |
 | AetherShot | 318055 | [318055-aethershot.json](./318055-aethershot.json) |
+| Aetherspace | 44089 | [44089-aetherspace.json](./44089-aetherspace.json) |
 | Aethus | 270142 | [270142-aethus.json](./270142-aethus.json) |
 | Aetolia | 122895 | [122895-aetolia.json](./122895-aetolia.json) |
 | Aevalore | 401087 | [401087-aevalore.json](./401087-aevalore.json) |
@@ -3084,6 +3085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alteric | 32358 | [32358-alteric.json](./32358-alteric.json) |
 | AlterLife | 352860 | [352860-alterlife.json](./352860-alterlife.json) |
 | Alterna Vvelt: Blue Exorcist Another Story | 350046 | [350046-alterna-vvelt-blue-exorcist-another-story.json](./350046-alterna-vvelt-blue-exorcist-another-story.json) |
+| Alternate Reality: The Dungeon | 44128 | [44128-alternate-reality-the-dungeon.json](./44128-alternate-reality-the-dungeon.json) |
 | Alternate Worlds | 62768 | [62768-alternate-worlds.json](./62768-alternate-worlds.json) |
 | Alternativa | 16031 | [16031-alternativa.json](./16031-alternativa.json) |
 | Alternative Alliance Alpha | 347713 | [347713-alternative-alliance-alpha.json](./347713-alternative-alliance-alpha.json) |
@@ -4490,6 +4492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antipole DX | 60519 | [60519-antipole-dx.json](./60519-antipole-dx.json) |
 | Antiquarium | 287645 | [287645-antiquarium.json](./287645-antiquarium.json) |
 | Antique Backgammon | 399621 | [399621-antique-backgammon.json](./399621-antique-backgammon.json) |
+| Antique Carnevale | 44083 | [44083-antique-carnevale.json](./44083-antique-carnevale.json) |
 | Antique Restorer | 236801 | [236801-antique-restorer.json](./236801-antique-restorer.json) |
 | Antique Shop | 65011 | [65011-antique-shop.json](./65011-antique-shop.json) |
 | Antiquia Lost | 39009 | [39009-antiquia-lost.json](./39009-antiquia-lost.json) |
@@ -5131,6 +5134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Fusion Bundle | 300764 | [300764-arcade-fusion-bundle.json](./300764-arcade-fusion-bundle.json) |
 | Arcade Galaxy | 346596 | [346596-arcade-galaxy.json](./346596-arcade-galaxy.json) |
 | Arcade Galaxy Builder | 263998 | [263998-arcade-galaxy-builder.json](./263998-arcade-galaxy-builder.json) |
+| Arcade Game Construction Kit | 44125 | [44125-arcade-game-construction-kit.json](./44125-arcade-game-construction-kit.json) |
 | Arcade Game Series: Pac-Man | 68344 | [68344-arcade-game-series-pac-man.json](./68344-arcade-game-series-pac-man.json) |
 | Arcade Gamer | 202794 | [202794-arcade-gamer.json](./202794-arcade-gamer.json) |
 | Arcade Gamer | 202795 | [202795-arcade-gamer.json](./202795-arcade-gamer.json) |
