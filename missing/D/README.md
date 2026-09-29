@@ -4744,6 +4744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diverse Defenders | 308913 | [308913-diverse-defenders.json](./308913-diverse-defenders.json) |
 | Divi-Dead | 12420 | [12420-divi-dead.json](./12420-divi-dead.json) |
 | Divid[E]: D[E]Ad Letters | 396196 | [396196-divid-e-d-e-ad-letters.json](./396196-divid-e-d-e-ad-letters.json) |
+| Divide | 18364 | [18364-divide.json](./18364-divide.json) |
 | Divide By Sheep | 15924 | [15924-divide-by-sheep.json](./15924-divide-by-sheep.json) |
 | Divide et Impera | 356254 | [356254-divide-et-impera.json](./356254-divide-et-impera.json) |
 | Divided | 94762 | [94762-divided.json](./94762-divided.json) |
