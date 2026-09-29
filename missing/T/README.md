@@ -221,6 +221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tag League | 366328 | [366328-tag-league.json](./366328-tag-league.json) |
 | Tag of Driving | 384651 | [384651-tag-of-driving.json](./384651-tag-of-driving.json) |
 | Tag Royale | 166600 | [166600-tag-royale.json](./166600-tag-royale.json) |
+| Tag Team Match M.U.S.C.L.E. | 73788 | [73788-tag-team-match-m-u-s-c-l-e.json](./73788-tag-team-match-m-u-s-c-l-e.json) |
 | Tag Team Wrestling | 286612 | [286612-tag-team-wrestling.json](./286612-tag-team-wrestling.json) |
 | Tag War VR | 336904 | [336904-tag-war-vr.json](./336904-tag-war-vr.json) |
 | Tag: The Power of Paint | 101055 | [101055-tag-the-power-of-paint.json](./101055-tag-the-power-of-paint.json) |
@@ -1082,6 +1083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Crush Jewels | 90679 | [90679-tap-crush-jewels.json](./90679-tap-crush-jewels.json) |
 | Tap Dash | 252140 | [252140-tap-dash.json](./252140-tap-dash.json) |
 | Tap Gun | 247436 | [247436-tap-gun.json](./247436-tap-gun.json) |
+| Tap Heroes | 35228 | [35228-tap-heroes.json](./35228-tap-heroes.json) |
 | Tap It Away | 304169 | [304169-tap-it-away.json](./304169-tap-it-away.json) |
 | Tap It Big | 59470 | [59470-tap-it-big.json](./59470-tap-it-big.json) |
 | Tap Jockey | 175260 | [175260-tap-jockey.json](./175260-tap-jockey.json) |
@@ -3613,6 +3615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse of Unatxi Kamala | 294704 | [294704-the-curse-of-unatxi-kamala.json](./294704-the-curse-of-unatxi-kamala.json) |
 | The Curse of Zigoris | 130252 | [130252-the-curse-of-zigoris.json](./130252-the-curse-of-zigoris.json) |
 | The Cursed Amulet | 249860 | [249860-the-cursed-amulet.json](./249860-the-cursed-amulet.json) |
+| The Cursed Forest | 35848 | [35848-the-cursed-forest.json](./35848-the-cursed-forest.json) |
 | The Cursed Garden | 342750 | [342750-the-cursed-garden.json](./342750-the-cursed-garden.json) |
 | The Cursed Hotel | 398325 | [398325-the-cursed-hotel.json](./398325-the-cursed-hotel.json) |
 | The Cursed Land | 306093 | [306093-the-cursed-land.json](./306093-the-cursed-land.json) |
@@ -6006,6 +6009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings Online: Riders of Rohan - Heroic Edition Live | 95570 | [95570-the-lord-of-the-rings-online-riders-of-rohan-heroic-edition-live.json](./95570-the-lord-of-the-rings-online-riders-of-rohan-heroic-edition-live.json) |
 | The Lord of the Rings Online: Siege of Mirkwood | 21155 | [21155-the-lord-of-the-rings-online-siege-of-mirkwood.json](./21155-the-lord-of-the-rings-online-siege-of-mirkwood.json) |
 | The Lord of the Rings Online: War of Three Peaks | 275925 | [275925-the-lord-of-the-rings-online-war-of-three-peaks.json](./275925-the-lord-of-the-rings-online-war-of-three-peaks.json) |
+| The Lord of the Rings: Adventure Card Game | 77176 | [77176-the-lord-of-the-rings-adventure-card-game.json](./77176-the-lord-of-the-rings-adventure-card-game.json) |
 | The Lord of the Rings: Adventure Card Game - Definitive Edition | 147962 | [147962-the-lord-of-the-rings-adventure-card-game-definitive-edition.json](./147962-the-lord-of-the-rings-adventure-card-game-definitive-edition.json) |
 | The Lord of the Rings: Aragorn's Quest | 4978 | [4978-the-lord-of-the-rings-aragorns-quest.json](./4978-the-lord-of-the-rings-aragorns-quest.json) |
 | The Lord of the Rings: Gollum | 116584 | [116584-the-lord-of-the-rings-gollum.json](./116584-the-lord-of-the-rings-gollum.json) |
@@ -8575,6 +8579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Warden's Paradise | 289951 | [289951-the-wardens-paradise.json](./289951-the-wardens-paradise.json) |
 | The Warfstache Clicker | 239539 | [239539-the-warfstache-clicker.json](./239539-the-warfstache-clicker.json) |
 | The Warlin of Heroes | 148963 | [148963-the-warlin-of-heroes.json](./148963-the-warlin-of-heroes.json) |
+| The Warlock of Firetop Mountain | 73881 | [73881-the-warlock-of-firetop-mountain.json](./73881-the-warlock-of-firetop-mountain.json) |
 | The Warlock of Firetop Mountain: Goblin Scourge Edition! | 147832 | [147832-the-warlock-of-firetop-mountain-goblin-scourge-edition.json](./147832-the-warlock-of-firetop-mountain-goblin-scourge-edition.json) |
 | The Warp: Cephisso | 351641 | [351641-the-warp-cephisso.json](./351641-the-warp-cephisso.json) |
 | The Warrens | 373224 | [373224-the-warrens.json](./373224-the-warrens.json) |
@@ -12064,6 +12069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Warhammer III - Update 3.1 | 251222 | [251222-total-war-warhammer-iii-update-3-1.json](./251222-total-war-warhammer-iii-update-3-1.json) |
 | Totality | 272278 | [272278-totality.json](./272278-totality.json) |
 | Totally Accurate Battle Simulator: Bug DLC | 239080 | [239080-totally-accurate-battle-simulator-bug-dlc.json](./239080-totally-accurate-battle-simulator-bug-dlc.json) |
+| Totally Accurate Battle Zombielator | 71583 | [71583-totally-accurate-battle-zombielator.json](./71583-totally-accurate-battle-zombielator.json) |
 | Totally Accurate Battlegrounds | 103222 | [103222-totally-accurate-battlegrounds.json](./103222-totally-accurate-battlegrounds.json) |
 | Totally Accurate Dating Simulator | 241505 | [241505-totally-accurate-dating-simulator.json](./241505-totally-accurate-dating-simulator.json) |
 | Totally Baseball | 127163 | [127163-totally-baseball.json](./127163-totally-baseball.json) |
