@@ -2182,6 +2182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reknum DX | 182475 | [182475-reknum-dx.json](./182475-reknum-dx.json) |
 | Reknum: Origins Collection | 182476 | [182476-reknum-origins-collection.json](./182476-reknum-origins-collection.json) |
 | Reknum: Origins Collection - Limited Edition | 182477 | [182477-reknum-origins-collection-limited-edition.json](./182477-reknum-origins-collection-limited-edition.json) |
+| Rekoil | 7666 | [7666-rekoil.json](./7666-rekoil.json) |
 | Reksio i Czarodzieje | 82038 | [82038-reksio-i-czarodzieje.json](./82038-reksio-i-czarodzieje.json) |
 | Reksio i Kapitan Nemo | 156177 | [156177-reksio-i-kapitan-nemo.json](./156177-reksio-i-kapitan-nemo.json) |
 | Reksio i Kretes: Sermageddon | 327397 | [327397-reksio-i-kretes-sermageddon.json](./327397-reksio-i-kretes-sermageddon.json) |
