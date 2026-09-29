@@ -4827,6 +4827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Street: Tap to Race | 237369 | [237369-forza-street-tap-to-race.json](./237369-forza-street-tap-to-race.json) |
 | FOS | 129637 | [129637-fos.json](./129637-fos.json) |
 | Fossil Corner | 150075 | [150075-fossil-corner.json](./150075-fossil-corner.json) |
+| Fossil Echo | 18231 | [18231-fossil-echo.json](./18231-fossil-echo.json) |
 | Fossil Fighters: Frontier | 8609 | [8609-fossil-fighters-frontier.json](./8609-fossil-fighters-frontier.json) |
 | Fossil Island | 341126 | [341126-fossil-island.json](./341126-fossil-island.json) |
 | Fossil League: Dino Tournament Championship | 73049 | [73049-fossil-league-dino-tournament-championship.json](./73049-fossil-league-dino-tournament-championship.json) |
@@ -5453,6 +5454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog And Roll | 266810 | [266810-frog-and-roll.json](./266810-frog-and-roll.json) |
 | Frog Bath | 132665 | [132665-frog-bath.json](./132665-frog-bath.json) |
 | Frog Bath Challenge | 413177 | [413177-frog-bath-challenge.json](./413177-frog-bath-challenge.json) |
+| Frog Bog | 18553 | [18553-frog-bog.json](./18553-frog-bog.json) |
 | Frog Box | 319237 | [319237-frog-box.json](./319237-frog-box.json) |
 | Frog Clan Official Server 24/7 ZK Map | 395868 | [395868-frog-clan-official-server-24-7-zk-map.json](./395868-frog-clan-official-server-24-7-zk-map.json) |
 | Frog Corner | 293683 | [293683-frog-corner.json](./293683-frog-corner.json) |
