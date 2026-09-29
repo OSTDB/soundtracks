@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E.T.: The Green Planet | 64395 | [64395-e-t-the-green-planet.json](./64395-e-t-the-green-planet.json) |
 | E.V.O.: Search for Eden | 6979 | [6979-e-v-o-search-for-eden.json](./6979-e-v-o-search-for-eden.json) |
 | E.x.p.l.o.r.: A New World | 148962 | [148962-e-x-p-l-o-r-a-new-world.json](./148962-e-x-p-l-o-r-a-new-world.json) |
+| E.Y.E: Divine Cybermancy | 6230 | [6230-e-y-e-divine-cybermancy.json](./6230-e-y-e-divine-cybermancy.json) |
 | E's Laf | 135884 | [135884-es-laf.json](./135884-es-laf.json) |
 | E's Laf++ | 135903 | [135903-es-laf.json](./135903-es-laf.json) |
 | E'tude Prologue: Yureugoku Kokoro no Katachi | 204482 | [204482-etude-prologue-yureugoku-kokoro-no-katachi.json](./204482-etude-prologue-yureugoku-kokoro-no-katachi.json) |
@@ -108,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Defender | 112318 | [112318-earth-defender.json](./112318-earth-defender.json) |
 | Earth Defender One | 144273 | [144273-earth-defender-one.json](./144273-earth-defender-one.json) |
 | Earth Defense Force | 46666 | [46666-earth-defense-force.json](./46666-earth-defense-force.json) |
+| Earth Defense Force 2025 | 5585 | [5585-earth-defense-force-2025.json](./5585-earth-defense-force-2025.json) |
 | Earth Defense Force 3 for Nintendo Switch | 172720 | [172720-earth-defense-force-3-for-nintendo-switch.json](./172720-earth-defense-force-3-for-nintendo-switch.json) |
 | Earth Defense Force 4.1: Wing Diver the Shooter | 57020 | [57020-earth-defense-force-4-1-wing-diver-the-shooter.json](./57020-earth-defense-force-4-1-wing-diver-the-shooter.json) |
 | Earth Defense Force 4.1: Wing Diver the Shooter - Training Mode | 168224 | [168224-earth-defense-force-4-1-wing-diver-the-shooter-training-mode.json](./168224-earth-defense-force-4-1-wing-diver-the-shooter-training-mode.json) |
@@ -117,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Defense Force 5: Mission Pack 2 - Super Challenge | 168223 | [168223-earth-defense-force-5-mission-pack-2-super-challenge.json](./168223-earth-defense-force-5-mission-pack-2-super-challenge.json) |
 | Earth Defense Force 5: Ranger Weapon Decoy Launcher (Pale Wing) | 168236 | [168236-earth-defense-force-5-ranger-weapon-decoy-launcher-pale-wing.json](./168236-earth-defense-force-5-ranger-weapon-decoy-launcher-pale-wing.json) |
 | Earth Defense Force 6: Additional Mission Pack 2 - Visions of Malice | 319369 | [319369-earth-defense-force-6-additional-mission-pack-2-visions-of-malice.json](./319369-earth-defense-force-6-additional-mission-pack-2-visions-of-malice.json) |
+| Earth Defense Force: Insect Armageddon | 5584 | [5584-earth-defense-force-insect-armageddon.json](./5584-earth-defense-force-insect-armageddon.json) |
 | Earth Defense Force: Insect Armageddon - Aerialist Munitions Package | 226815 | [226815-earth-defense-force-insect-armageddon-aerialist-munitions-package.json](./226815-earth-defense-force-insect-armageddon-aerialist-munitions-package.json) |
 | Earth Defense Force: Insect Armageddon - Tactician Advanced Tech Package | 226814 | [226814-earth-defense-force-insect-armageddon-tactician-advanced-tech-package.json](./226814-earth-defense-force-insect-armageddon-tactician-advanced-tech-package.json) |
 | Earth Defense Force: Insect Armageddon - Trooper Special Issue Enforcer Package | 226813 | [226813-earth-defense-force-insect-armageddon-trooper-special-issue-enforcer-package.json](./226813-earth-defense-force-insect-armageddon-trooper-special-issue-enforcer-package.json) |
@@ -2093,6 +2096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eriguns | 202844 | [202844-eriguns.json](./202844-eriguns.json) |
 | Erik: Phantom of the Opera | 55082 | [55082-erik-phantom-of-the-opera.json](./55082-erik-phantom-of-the-opera.json) |
 | Erika America | 351008 | [351008-erika-america.json](./351008-erika-america.json) |
+| Eriksholm: The Stolen Dream | 305107 | [305107-eriksholm-the-stolen-dream.json](./305107-eriksholm-the-stolen-dream.json) |
 | Erina & A Mansao Rosaria | 219253 | [219253-erina-and-a-mansao-rosaria.json](./219253-erina-and-a-mansao-rosaria.json) |
 | Erina to Kima no Miyako | 304137 | [304137-erina-to-kima-no-miyako.json](./304137-erina-to-kima-no-miyako.json) |
 | Erinaceinae Griminance | 309987 | [309987-erinaceinae-griminance.json](./309987-erinaceinae-griminance.json) |
@@ -3044,6 +3048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Cogs | 93740 | [93740-evil-cogs.json](./93740-evil-cogs.json) |
 | Evil Crown | 45328 | [45328-evil-crown.json](./45328-evil-crown.json) |
 | Evil Cucumber | 169374 | [169374-evil-cucumber.json](./169374-evil-cucumber.json) |
+| Evil Dead: Regeneration | 5828 | [5828-evil-dead-regeneration.json](./5828-evil-dead-regeneration.json) |
 | Evil Dead: The Game | 66308 | [66308-evil-dead-the-game.json](./66308-evil-dead-the-game.json) |
 | Evil Dead: The Game - 2013 bundle | 227340 | [227340-evil-dead-the-game-2013-bundle.json](./227340-evil-dead-the-game-2013-bundle.json) |
 | Evil Dead: The Game - Army of Darkness Bundle | 227341 | [227341-evil-dead-the-game-army-of-darkness-bundle.json](./227341-evil-dead-the-game-army-of-darkness-bundle.json) |
