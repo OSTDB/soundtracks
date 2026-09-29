@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T02:33:53.424Z",
-  "total_missing": 138038,
+  "generated_at": "2026-09-29T02:47:55.945Z",
+  "total_missing": 138088,
   "games": [
     {
       "igdb_id": 186066,
@@ -333843,6 +333843,11 @@
       "file": "missing/M/75044-m-i-a.json"
     },
     {
+      "igdb_id": 53384,
+      "game_name": "M.I.A.: Mission in Asia",
+      "file": "missing/M/53384-m-i-a-mission-in-asia.json"
+    },
+    {
       "igdb_id": 168676,
       "game_name": "M.I.C.E.",
       "file": "missing/M/168676-m-i-c-e.json"
@@ -356828,6 +356833,11 @@
       "file": "missing/M/224498-microsoft-flight-simulator-x-iris-f-15e-i-sg.json"
     },
     {
+      "igdb_id": 53362,
+      "game_name": "Microsoft Flight Simulator X: Mega Airport London Heathrow Xtended",
+      "file": "missing/M/53362-microsoft-flight-simulator-x-mega-airport-london-heathrow-xtended.json"
+    },
+    {
       "igdb_id": 36261,
       "game_name": "Microsoft Flight Simulator X: Steam Edition",
       "file": "missing/M/36261-microsoft-flight-simulator-x-steam-edition.json"
@@ -357593,6 +357603,11 @@
       "file": "missing/M/164808-middle-earth-shadow-of-war-outlaw-tribe-nemesis.json"
     },
     {
+      "igdb_id": 53358,
+      "game_name": "Middle-earth: Shadow of War - Silver Edition",
+      "file": "missing/M/53358-middle-earth-shadow-of-war-silver-edition.json"
+    },
+    {
       "igdb_id": 52198,
       "game_name": "Middle-earth: Shadow of War Mobile",
       "file": "missing/M/52198-middle-earth-shadow-of-war-mobile.json"
@@ -358131,6 +358146,21 @@
       "igdb_id": 150571,
       "game_name": "Migawari Shoujo",
       "file": "missing/M/150571-migawari-shoujo.json"
+    },
+    {
+      "igdb_id": 53357,
+      "game_name": "Might & Magic Collection",
+      "file": "missing/M/53357-might-and-magic-collection.json"
+    },
+    {
+      "igdb_id": 53356,
+      "game_name": "Might & Magic Heroes VI: Complete Edition",
+      "file": "missing/M/53356-might-and-magic-heroes-vi-complete-edition.json"
+    },
+    {
+      "igdb_id": 53355,
+      "game_name": "Might & Magic Heroes VII: Deluxe Edition",
+      "file": "missing/M/53355-might-and-magic-heroes-vii-deluxe-edition.json"
     },
     {
       "igdb_id": 1889,
@@ -362498,6 +362528,11 @@
       "file": "missing/M/175703-miriam-the-escape.json"
     },
     {
+      "igdb_id": 53386,
+      "game_name": "Miriel's Enchanted Mystery",
+      "file": "missing/M/53386-miriels-enchanted-mystery.json"
+    },
+    {
       "igdb_id": 179584,
       "game_name": "Mirk",
       "file": "missing/M/179584-mirk.json"
@@ -362966,6 +363001,11 @@
       "igdb_id": 73804,
       "game_name": "Miss Spider's Tea Party",
       "file": "missing/M/73804-miss-spiders-tea-party.json"
+    },
+    {
+      "igdb_id": 53385,
+      "game_name": "Miss Teri Tale",
+      "file": "missing/M/53385-miss-teri-tale.json"
     },
     {
       "igdb_id": 38567,
@@ -364436,6 +364476,16 @@
       "igdb_id": 332802,
       "game_name": "Moai Alley",
       "file": "missing/M/332802-moai-alley.json"
+    },
+    {
+      "igdb_id": 53382,
+      "game_name": "Moai III: Trade Mission - Collector's Edition",
+      "file": "missing/M/53382-moai-iii-trade-mission-collectors-edition.json"
+    },
+    {
+      "igdb_id": 53381,
+      "game_name": "Moai IV: Terra Incognita",
+      "file": "missing/M/53381-moai-iv-terra-incognita.json"
     },
     {
       "igdb_id": 298140,
@@ -367988,6 +368038,11 @@
       "file": "missing/M/175739-monster-island-hd.json"
     },
     {
+      "igdb_id": 53379,
+      "game_name": "Monster Jam Battlegrounds",
+      "file": "missing/M/53379-monster-jam-battlegrounds.json"
+    },
+    {
       "igdb_id": 260194,
       "game_name": "Monster Jam Game",
       "file": "missing/M/260194-monster-jam-game.json"
@@ -368908,6 +368963,11 @@
       "file": "missing/M/156009-monsterwolf.json"
     },
     {
+      "igdb_id": 53378,
+      "game_name": "Monsti: Special Edition",
+      "file": "missing/M/53378-monsti-special-edition.json"
+    },
+    {
       "igdb_id": 221121,
       "game_name": "Monstir Iradicator",
       "file": "missing/M/221121-monstir-iradicator.json"
@@ -368961,6 +369021,11 @@
       "igdb_id": 119685,
       "game_name": "Monstrum 2",
       "file": "missing/M/119685-monstrum-2.json"
+    },
+    {
+      "igdb_id": 53377,
+      "game_name": "Monstrum: Deluxe Edition",
+      "file": "missing/M/53377-monstrum-deluxe-edition.json"
     },
     {
       "igdb_id": 164509,
@@ -369281,6 +369346,11 @@
       "igdb_id": 32237,
       "game_name": "Moon Colonization Project",
       "file": "missing/M/32237-moon-colonization-project.json"
+    },
+    {
+      "igdb_id": 53375,
+      "game_name": "Moon Colonization Project: Deluxe Edition",
+      "file": "missing/M/53375-moon-colonization-project-deluxe-edition.json"
     },
     {
       "igdb_id": 18762,
@@ -370163,6 +370233,36 @@
       "file": "missing/M/121424-mordheim-city-of-the-damned-complete-edition.json"
     },
     {
+      "igdb_id": 53373,
+      "game_name": "Mordheim: City of the Damned - Doomweaver",
+      "file": "missing/M/53373-mordheim-city-of-the-damned-doomweaver.json"
+    },
+    {
+      "igdb_id": 53372,
+      "game_name": "Mordheim: City of the Damned - The Poison Wind Globadier",
+      "file": "missing/M/53372-mordheim-city-of-the-damned-the-poison-wind-globadier.json"
+    },
+    {
+      "igdb_id": 53371,
+      "game_name": "Mordheim: City of the Damned - The Smuggler",
+      "file": "missing/M/53371-mordheim-city-of-the-damned-the-smuggler.json"
+    },
+    {
+      "igdb_id": 53370,
+      "game_name": "Mordheim: City of the Damned - Undead",
+      "file": "missing/M/53370-mordheim-city-of-the-damned-undead.json"
+    },
+    {
+      "igdb_id": 53369,
+      "game_name": "Mordheim: City of the Damned - Witch Hunters",
+      "file": "missing/M/53369-mordheim-city-of-the-damned-witch-hunters.json"
+    },
+    {
+      "igdb_id": 53368,
+      "game_name": "Mordheim: City of the Damned - Wolf-Priest of Ulric",
+      "file": "missing/M/53368-mordheim-city-of-the-damned-wolf-priest-of-ulric.json"
+    },
+    {
       "igdb_id": 34295,
       "game_name": "Mordheim: Warband Skirmish",
       "file": "missing/M/34295-mordheim-warband-skirmish.json"
@@ -371016,6 +371116,11 @@
       "igdb_id": 164819,
       "game_name": "Mortal Kombat X: Predator",
       "file": "missing/M/164819-mortal-kombat-x-predator.json"
+    },
+    {
+      "igdb_id": 53367,
+      "game_name": "Mortal Kombat X: Premium Edition",
+      "file": "missing/M/53367-mortal-kombat-x-premium-edition.json"
     },
     {
       "igdb_id": 140997,
@@ -372128,6 +372233,11 @@
       "file": "missing/M/168359-motogp-15-gp-de-portugal-circuito-estoril.json"
     },
     {
+      "igdb_id": 53366,
+      "game_name": "MotoGP 15: Special Edition",
+      "file": "missing/M/53366-motogp-15-special-edition.json"
+    },
+    {
       "igdb_id": 116136,
       "game_name": "MotoGP 19",
       "file": "missing/M/116136-motogp-19.json"
@@ -372348,6 +372458,11 @@
       "file": "missing/M/19293-motorsport-manager.json"
     },
     {
+      "igdb_id": 53365,
+      "game_name": "Motorsport Manager - GT Series",
+      "file": "missing/M/53365-motorsport-manager-gt-series.json"
+    },
+    {
       "igdb_id": 408153,
       "game_name": "Motorsport Manager 2",
       "file": "missing/M/408153-motorsport-manager-2.json"
@@ -372561,6 +372676,11 @@
       "igdb_id": 303020,
       "game_name": "Mouldy Old Void",
       "file": "missing/M/303020-mouldy-old-void.json"
+    },
+    {
+      "igdb_id": 53364,
+      "game_name": "Mount & Blade Full Collection",
+      "file": "missing/M/53364-mount-and-blade-full-collection.json"
     },
     {
       "igdb_id": 336151,
@@ -373873,6 +373993,11 @@
       "file": "missing/M/61118-mr-setam-lady-killer.json"
     },
     {
+      "igdb_id": 53388,
+      "game_name": "Mr. Shifty: Collector's Edition",
+      "file": "missing/M/53388-mr-shifty-collectors-edition.json"
+    },
+    {
       "igdb_id": 266210,
       "game_name": "Mr. Shootem Breaks Out!",
       "file": "missing/M/266210-mr-shootem-breaks-out.json"
@@ -374226,6 +374351,11 @@
       "igdb_id": 298860,
       "game_name": "MTB DirtCross",
       "file": "missing/M/298860-mtb-dirtcross.json"
+    },
+    {
+      "igdb_id": 53389,
+      "game_name": "MTB Downhill Simulator",
+      "file": "missing/M/53389-mtb-downhill-simulator.json"
     },
     {
       "igdb_id": 379980,
@@ -376428,6 +376558,11 @@
       "file": "missing/M/206779-mx-vs-atv-all-out-2020-pro-nationals-edition.json"
     },
     {
+      "igdb_id": 53390,
+      "game_name": "MX vs. ATV Collection",
+      "file": "missing/M/53390-mx-vs-atv-collection.json"
+    },
+    {
       "igdb_id": 253898,
       "game_name": "MX vs. ATV Legends: 2023 AMA Pro Motocross Championship",
       "file": "missing/M/253898-mx-vs-atv-legends-2023-ama-pro-motocross-championship.json"
@@ -377301,6 +377436,11 @@
       "igdb_id": 85610,
       "game_name": "My Farm",
       "file": "missing/M/85610-my-farm.json"
+    },
+    {
+      "igdb_id": 53391,
+      "game_name": "My Farm Life",
+      "file": "missing/M/53391-my-farm-life.json"
     },
     {
       "igdb_id": 188684,
@@ -379928,6 +380068,11 @@
       "file": "missing/M/205008-mysterious-castle.json"
     },
     {
+      "igdb_id": 53392,
+      "game_name": "Mysterious City Vegas",
+      "file": "missing/M/53392-mysterious-city-vegas.json"
+    },
+    {
       "igdb_id": 115484,
       "game_name": "Mysterious Forum and 7 Rumors",
       "file": "missing/M/115484-mysterious-forum-and-7-rumors.json"
@@ -379936,6 +380081,11 @@
       "igdb_id": 82468,
       "game_name": "Mysterious insects",
       "file": "missing/M/82468-mysterious-insects.json"
+    },
+    {
+      "igdb_id": 53393,
+      "game_name": "Mysterious Island Remastered",
+      "file": "missing/M/53393-mysterious-island-remastered.json"
     },
     {
       "igdb_id": 195758,
@@ -380191,6 +380341,11 @@
       "igdb_id": 73291,
       "game_name": "Mystery Master: Felony!",
       "file": "missing/M/73291-mystery-master-felony.json"
+    },
+    {
+      "igdb_id": 53394,
+      "game_name": "Mystery Masterpiece: The Moonstone",
+      "file": "missing/M/53394-mystery-masterpiece-the-moonstone.json"
     },
     {
       "igdb_id": 201820,
@@ -382193,6 +382348,11 @@
       "file": "missing/N/206783-nanny-911.json"
     },
     {
+      "igdb_id": 53397,
+      "game_name": "Nannys Nightmare",
+      "file": "missing/N/53397-nannys-nightmare.json"
+    },
+    {
       "igdb_id": 21075,
       "game_name": "Nano Assault",
       "file": "missing/N/21075-nano-assault.json"
@@ -383463,6 +383623,11 @@
       "file": "missing/N/1335-natural-selection-2.json"
     },
     {
+      "igdb_id": 53401,
+      "game_name": "Natural Threat 2",
+      "file": "missing/N/53401-natural-threat-2.json"
+    },
+    {
       "igdb_id": 345042,
       "game_name": "Natural Unintelligence: Zueirama 2",
       "file": "missing/N/345042-natural-unintelligence-zueirama-2.json"
@@ -384163,6 +384328,31 @@
       "file": "missing/N/5057-nba-2k12.json"
     },
     {
+      "igdb_id": 53403,
+      "game_name": "NBA 2K16: Michael Jordan Edition",
+      "file": "missing/N/53403-nba-2k16-michael-jordan-edition.json"
+    },
+    {
+      "igdb_id": 53402,
+      "game_name": "NBA 2K16: Michael Jordan Special Edition",
+      "file": "missing/N/53402-nba-2k16-michael-jordan-special-edition.json"
+    },
+    {
+      "igdb_id": 53404,
+      "game_name": "NBA 2K17: Legend Edition",
+      "file": "missing/N/53404-nba-2k17-legend-edition.json"
+    },
+    {
+      "igdb_id": 53405,
+      "game_name": "NBA 2K17: Legend Edition Gold",
+      "file": "missing/N/53405-nba-2k17-legend-edition-gold.json"
+    },
+    {
+      "igdb_id": 53406,
+      "game_name": "NBA 2K17: Legend Gold",
+      "file": "missing/N/53406-nba-2k17-legend-gold.json"
+    },
+    {
       "igdb_id": 83763,
       "game_name": "NBA 2K17: The Prelude",
       "file": "missing/N/83763-nba-2k17-the-prelude.json"
@@ -384171,6 +384361,16 @@
       "igdb_id": 26772,
       "game_name": "NBA 2K18",
       "file": "missing/N/26772-nba-2k18.json"
+    },
+    {
+      "igdb_id": 53408,
+      "game_name": "NBA 2K18: Legend Edition",
+      "file": "missing/N/53408-nba-2k18-legend-edition.json"
+    },
+    {
+      "igdb_id": 53407,
+      "game_name": "NBA 2K18: Legend Gold Edition",
+      "file": "missing/N/53407-nba-2k18-legend-gold-edition.json"
     },
     {
       "igdb_id": 103218,
@@ -384853,6 +385053,11 @@
       "file": "missing/N/329118-nebula.json"
     },
     {
+      "igdb_id": 53395,
+      "game_name": "Nebula",
+      "file": "missing/N/53395-nebula.json"
+    },
+    {
       "igdb_id": 373520,
       "game_name": "Nebula Cleanup Crew",
       "file": "missing/N/373520-nebula-cleanup-crew.json"
@@ -385313,6 +385518,11 @@
       "file": "missing/N/122269-need-for-speed-collectors-series.json"
     },
     {
+      "igdb_id": 53410,
+      "game_name": "Need for Speed: Deluxe Edition",
+      "file": "missing/N/53410-need-for-speed-deluxe-edition.json"
+    },
+    {
       "igdb_id": 119161,
       "game_name": "Need for Speed: Heat",
       "file": "missing/N/119161-need-for-speed-heat.json"
@@ -385666,6 +385876,11 @@
       "igdb_id": 3132,
       "game_name": "Neighbours from Hell",
       "file": "missing/N/3132-neighbours-from-hell.json"
+    },
+    {
+      "igdb_id": 53411,
+      "game_name": "Neighbours from Hell Compilation",
+      "file": "missing/N/53411-neighbours-from-hell-compilation.json"
     },
     {
       "igdb_id": 267373,
@@ -386666,6 +386881,11 @@
       "igdb_id": 155075,
       "game_name": "Neon Chrome: Arena",
       "file": "missing/N/155075-neon-chrome-arena.json"
+    },
+    {
+      "igdb_id": 53412,
+      "game_name": "Neon Chrome: Deluxe Edition",
+      "file": "missing/N/53412-neon-chrome-deluxe-edition.json"
     },
     {
       "igdb_id": 143022,
@@ -387888,6 +388108,11 @@
       "file": "missing/N/234042-neurosquad.json"
     },
     {
+      "igdb_id": 53413,
+      "game_name": "NeuroVoider: Deluxe Edition",
+      "file": "missing/N/53413-neurovoider-deluxe-edition.json"
+    },
+    {
       "igdb_id": 335867,
       "game_name": "Neuroza",
       "file": "missing/N/335867-neuroza.json"
@@ -388903,6 +389128,11 @@
       "file": "missing/N/291610-new-world.json"
     },
     {
+      "igdb_id": 53414,
+      "game_name": "New World Collection",
+      "file": "missing/N/53414-new-world-collection.json"
+    },
+    {
       "igdb_id": 154968,
       "game_name": "New World Computing Bundle",
       "file": "missing/N/154968-new-world-computing-bundle.json"
@@ -388973,6 +389203,11 @@
       "file": "missing/N/337255-new-yankee-the-way-of-the-knight-collectors-edition.json"
     },
     {
+      "igdb_id": 53415,
+      "game_name": "New Yankee: To the Queen!",
+      "file": "missing/N/53415-new-yankee-to-the-queen.json"
+    },
+    {
       "igdb_id": 170500,
       "game_name": "New Yankee: Under the Genie's Thumb",
       "file": "missing/N/170500-new-yankee-under-the-genies-thumb.json"
@@ -389018,9 +389253,19 @@
       "file": "missing/N/243696-new-york-city-driver.json"
     },
     {
+      "igdb_id": 53416,
+      "game_name": "New York Collection",
+      "file": "missing/N/53416-new-york-collection.json"
+    },
+    {
       "igdb_id": 378774,
       "game_name": "New York Mysteries",
       "file": "missing/N/378774-new-york-mysteries.json"
+    },
+    {
+      "igdb_id": 53417,
+      "game_name": "New York Mysteries",
+      "file": "missing/N/53417-new-york-mysteries.json"
     },
     {
       "igdb_id": 87664,
@@ -391266,6 +391511,11 @@
       "igdb_id": 235310,
       "game_name": "NightFall Hollow",
       "file": "missing/N/235310-nightfall-hollow.json"
+    },
+    {
+      "igdb_id": 53418,
+      "game_name": "Nightfall Main Game Plus VR",
+      "file": "missing/N/53418-nightfall-main-game-plus-vr.json"
     },
     {
       "igdb_id": 125308,
