@@ -108,6 +108,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco Arcade | 25183 | [25183-namco-arcade.json](./25183-namco-arcade.json) |
 | Namco Classic | 239158 | [239158-namco-classic.json](./239158-namco-classic.json) |
 | Namco Classic Fighter Collection | 43282 | [43282-namco-classic-fighter-collection.json](./43282-namco-classic-fighter-collection.json) |
+| Namco classics volume 1 | 37331 | [37331-namco-classics-volume-1.json](./37331-namco-classics-volume-1.json) |
+| Namco classics volume 2 | 37328 | [37328-namco-classics-volume-2.json](./37328-namco-classics-volume-2.json) |
 | Namco Logic | 343342 | [343342-namco-logic.json](./343342-namco-logic.json) |
 | Namco Museum | 131507 | [131507-namco-museum.json](./131507-namco-museum.json) |
 | Namco Museum 50th Anniversary | 202112 | [202112-namco-museum-50th-anniversary.json](./202112-namco-museum-50th-anniversary.json) |
@@ -134,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Name That Pokemon | 338933 | [338933-name-that-pokemon.json](./338933-name-that-pokemon.json) |
 | Name That Pokémon: Red & Blue | 338938 | [338938-name-that-pokemon-red-and-blue.json](./338938-name-that-pokemon-red-and-blue.json) |
 | Name that Sonic Tune | 326960 | [326960-name-that-sonic-tune.json](./326960-name-that-sonic-tune.json) |
+| Name that tune | 37323 | [37323-name-that-tune.json](./37323-name-that-tune.json) |
 | Name That Tune | 198833 | [198833-name-that-tune.json](./198833-name-that-tune.json) |
 | Name That Tune: Pop Hits from the 60's-90's | 198834 | [198834-name-that-tune-pop-hits-from-the-60s-90s.json](./198834-name-that-tune-pop-hits-from-the-60s-90s.json) |
 | Name This Game | 22838 | [22838-name-this-game.json](./22838-name-this-game.json) |
@@ -2010,6 +2013,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Slashers: Remake | 290795 | [290795-night-slashers-remake.json](./290795-night-slashers-remake.json) |
 | Night Slave | 45974 | [45974-night-slave.json](./45974-night-slave.json) |
 | Night Stalkers | 190128 | [190128-night-stalkers.json](./190128-night-stalkers.json) |
+| Night Stocker | 37329 | [37329-night-stocker.json](./37329-night-stocker.json) |
+| Night Striker | 37324 | [37324-night-striker.json](./37324-night-striker.json) |
 | Night Swarm | 343477 | [343477-night-swarm.json](./343477-night-swarm.json) |
 | Night Thoughts | 374171 | [374171-night-thoughts.json](./374171-night-thoughts.json) |
 | Night Time | 369222 | [369222-night-time.json](./369222-night-time.json) |
@@ -2174,6 +2179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NightZero:Mistiltein | 125356 | [125356-nightzero-mistiltein.json](./125356-nightzero-mistiltein.json) |
 | Nightzoid | 260637 | [260637-nightzoid.json](./260637-nightzoid.json) |
 | Nigredo | 346143 | [346143-nigredo.json](./346143-nigredo.json) |
+| Nihilist | 37287 | [37287-nihilist.json](./37287-nihilist.json) |
 | Nihilist Simulator | 72337 | [72337-nihilist-simulator.json](./72337-nihilist-simulator.json) |
 | Nihilist Syndrome | 366940 | [366940-nihilist-syndrome.json](./366940-nihilist-syndrome.json) |
 | Nihility: Infinite Teeth | 256880 | [256880-nihility-infinite-teeth.json](./256880-nihility-infinite-teeth.json) |
@@ -2306,6 +2312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Duck | 181770 | [181770-ninja-duck.json](./181770-ninja-duck.json) |
 | Ninja Dude vs. Zombies | 20334 | [20334-ninja-dude-vs-zombies.json](./20334-ninja-dude-vs-zombies.json) |
 | Ninja Dude vs. Zombies 2 | 117030 | [117030-ninja-dude-vs-zombies-2.json](./117030-ninja-dude-vs-zombies-2.json) |
+| Ninja Emaki | 37325 | [37325-ninja-emaki.json](./37325-ninja-emaki.json) |
 | Ninja Epic Adventure | 147458 | [147458-ninja-epic-adventure.json](./147458-ninja-epic-adventure.json) |
 | Ninja Feet of Fury | 64102 | [64102-ninja-feet-of-fury.json](./64102-ninja-feet-of-fury.json) |
 | Ninja Fight | 336374 | [336374-ninja-fight.json](./336374-ninja-fight.json) |
@@ -2422,6 +2429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Wars: Battle Simulator | 320526 | [320526-ninja-wars-battle-simulator.json](./320526-ninja-wars-battle-simulator.json) |
 | Ninja Warz | 314669 | [314669-ninja-warz.json](./314669-ninja-warz.json) |
 | Ninja-kun: Ashura no Shou | 230290 | [230290-ninja-kun-ashura-no-shou.json](./230290-ninja-kun-ashura-no-shou.json) |
+| Ninja-kun: Ashura no Shou | 37326 | [37326-ninja-kun-ashura-no-shou.json](./37326-ninja-kun-ashura-no-shou.json) |
 | Ninja: Shadow of the Dash | 311627 | [311627-ninja-shadow-of-the-dash.json](./311627-ninja-shadow-of-the-dash.json) |
 | Ninja: ShadowBlade | 339903 | [339903-ninja-shadowblade.json](./339903-ninja-shadowblade.json) |
 | Ninja? | 113900 | [113900-ninja.json](./113900-ninja.json) |
@@ -2652,6 +2660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Man's Sky: Worlds Part II | 329714 | [329714-no-mans-sky-worlds-part-ii.json](./329714-no-mans-sky-worlds-part-ii.json) |
 | No Man's Sky: Xeno Arena | 397678 | [397678-no-mans-sky-xeno-arena.json](./397678-no-mans-sky-xeno-arena.json) |
 | No Mana, Just Dice | 389122 | [389122-no-mana-just-dice.json](./389122-no-mana-just-dice.json) |
+| No mans land | 37327 | [37327-no-mans-land.json](./37327-no-mans-land.json) |
 | No Me: The Future is Ours | 276753 | [276753-no-me-the-future-is-ours.json](./276753-no-me-the-future-is-ours.json) |
 | No Means Nothing | 380677 | [380677-no-means-nothing.json](./380677-no-means-nothing.json) |
 | No Momentum | 190979 | [190979-no-momentum.json](./190979-no-momentum.json) |
@@ -2776,6 +2785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobody's Dilemma | 252674 | [252674-nobodys-dilemma.json](./252674-nobodys-dilemma.json) |
 | Nobody's Home | 179732 | [179732-nobodys-home.json](./179732-nobodys-home.json) |
 | Nobody's Left | 250949 | [250949-nobodys-left.json](./250949-nobodys-left.json) |
+| Noboranka | 37330 | [37330-noboranka.json](./37330-noboranka.json) |
 | Nobu Jump | 383934 | [383934-nobu-jump.json](./383934-nobu-jump.json) |
 | Nobunaga Mahjong | 133794 | [133794-nobunaga-mahjong.json](./133794-nobunaga-mahjong.json) |
 | Nobunaga no Yabou | 131537 | [131537-nobunaga-no-yabou.json](./131537-nobunaga-no-yabou.json) |
