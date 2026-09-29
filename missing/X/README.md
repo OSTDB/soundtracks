@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Men: 101 - Attack Mod: Reflective Mode | 363559 | [363559-x-men-101-attack-mod-reflective-mode.json](./363559-x-men-101-attack-mod-reflective-mode.json) |
 | X-Men: 102 - Attack Mod: Super Speed | 363560 | [363560-x-men-102-attack-mod-super-speed.json](./363560-x-men-102-attack-mod-super-speed.json) |
 | X-Men: Battle of the Atom | 62782 | [62782-x-men-battle-of-the-atom.json](./62782-x-men-battle-of-the-atom.json) |
+| X-Men: Destiny | 5302 | [5302-x-men-destiny.json](./5302-x-men-destiny.json) |
 | X-Men: Madness in Murderworld | 40949 | [40949-x-men-madness-in-murderworld.json](./40949-x-men-madness-in-murderworld.json) |
 | X-Men: Mind Games | 268483 | [268483-x-men-mind-games.json](./268483-x-men-mind-games.json) |
 | X-Men: Mutant Academy | 259648 | [259648-x-men-mutant-academy.json](./259648-x-men-mutant-academy.json) |
