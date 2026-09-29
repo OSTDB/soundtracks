@@ -7894,6 +7894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Definitive | 370216 | [370216-sonic-definitive.json](./370216-sonic-definitive.json) |
 | Sonic Destiny | 331715 | [331715-sonic-destiny.json](./331715-sonic-destiny.json) |
 | Sonic Doom 2: 'Bots on Mobius | 374276 | [374276-sonic-doom-2-bots-on-mobius.json](./374276-sonic-doom-2-bots-on-mobius.json) |
+| Sonic Dream Team | 274840 | [274840-sonic-dream-team.json](./274840-sonic-dream-team.json) |
 | Sonic Dreams Collection | 11656 | [11656-sonic-dreams-collection.json](./11656-sonic-dreams-collection.json) |
 | Sonic Drift | 45798 | [45798-sonic-drift.json](./45798-sonic-drift.json) |
 | Sonic Drift 16-Bit | 279759 | [279759-sonic-drift-16-bit.json](./279759-sonic-drift-16-bit.json) |
@@ -8007,6 +8008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Origins: Premium Fun Pack | 254492 | [254492-sonic-origins-premium-fun-pack.json](./254492-sonic-origins-premium-fun-pack.json) |
 | Sonic Outbound | 266515 | [266515-sonic-outbound.json](./266515-sonic-outbound.json) |
 | Sonic Overdrive | 266513 | [266513-sonic-overdrive.json](./266513-sonic-overdrive.json) |
+| Sonic P-06 | 148406 | [148406-sonic-p-06.json](./148406-sonic-p-06.json) |
 | Sonic Panel Puzzle | 261274 | [261274-sonic-panel-puzzle.json](./261274-sonic-panel-puzzle.json) |
 | Sonic Paradigm | 333935 | [333935-sonic-paradigm.json](./333935-sonic-paradigm.json) |
 | Sonic PC | 300013 | [300013-sonic-pc.json](./300013-sonic-pc.json) |
@@ -9186,6 +9188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space War: Infinity | 118608 | [118608-space-war-infinity.json](./118608-space-war-infinity.json) |
 | Space War: Protect the Moon | 110289 | [110289-space-war-protect-the-moon.json](./110289-space-war-protect-the-moon.json) |
 | Space Warlord Baby Trading Simulator | 380432 | [380432-space-warlord-baby-trading-simulator.json](./380432-space-warlord-baby-trading-simulator.json) |
+| Space Warlord Organ Trading Simulator | 144317 | [144317-space-warlord-organ-trading-simulator.json](./144317-space-warlord-organ-trading-simulator.json) |
 | Space Warrior | 146220 | [146220-space-warrior.json](./146220-space-warrior.json) |
 | Space Wars | 125377 | [125377-space-wars.json](./125377-space-wars.json) |
 | Space Wars | 187507 | [187507-space-wars.json](./187507-space-wars.json) |
@@ -9332,6 +9335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spank The Idle Monkey | 334194 | [334194-spank-the-idle-monkey.json](./334194-spank-the-idle-monkey.json) |
 | Spanking Runners | 62282 | [62282-spanking-runners.json](./62282-spanking-runners.json) |
 | Spanky! | 254526 | [254526-spanky.json](./254526-spanky.json) |
+| Spanky's Quest | 144149 | [144149-spankys-quest.json](./144149-spankys-quest.json) |
 | Spannerman | 39142 | [39142-spannerman.json](./39142-spannerman.json) |
 | Spar MMORPG | 130880 | [130880-spar-mmorpg.json](./130880-spar-mmorpg.json) |
 | Spare Change | 23869 | [23869-spare-change.json](./23869-spare-change.json) |
