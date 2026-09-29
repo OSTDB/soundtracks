@@ -1163,6 +1163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Cell | 63000 | [63000-virtual-cell.json](./63000-virtual-cell.json) |
 | Virtual Chess | 351645 | [351645-virtual-chess.json](./351645-virtual-chess.json) |
 | Virtual Chess 3 | 206059 | [206059-virtual-chess-3.json](./206059-virtual-chess-3.json) |
+| Virtual Chess 64 | 3334 | [3334-virtual-chess-64.json](./3334-virtual-chess-64.json) |
 | Virtual Corporation | 94354 | [94354-virtual-corporation.json](./94354-virtual-corporation.json) |
 | Virtual country: Yuan fairy summon | 201668 | [201668-virtual-country-yuan-fairy-summon.json](./201668-virtual-country-yuan-fairy-summon.json) |
 | Virtual Deep Sea Fishing | 206060 | [206060-virtual-deep-sea-fishing.json](./206060-virtual-deep-sea-fishing.json) |
