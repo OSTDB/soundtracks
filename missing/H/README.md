@@ -791,6 +791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Knock High | 43350 | [43350-hard-knock-high.json](./43350-hard-knock-high.json) |
 | Hard Lads | 135305 | [135305-hard-lads.json](./135305-hard-lads.json) |
 | Hard Life | 219810 | [219810-hard-life.json](./219810-hard-life.json) |
+| Hard Minus | 55243 | [55243-hard-minus.json](./55243-hard-minus.json) |
 | Hard Minus Classic Redux | 163924 | [163924-hard-minus-classic-redux.json](./163924-hard-minus-classic-redux.json) |
 | Hard Minus Forever Standalone DLC | 249182 | [249182-hard-minus-forever-standalone-dlc.json](./249182-hard-minus-forever-standalone-dlc.json) |
 | Hard Night VR | 153370 | [153370-hard-night-vr.json](./153370-hard-night-vr.json) |
@@ -4386,6 +4387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizon Shift | 17896 | [17896-horizon-shift.json](./17896-horizon-shift.json) |
 | Horizon Source | 86511 | [86511-horizon-source.json](./86511-horizon-source.json) |
 | Horizon V | 24880 | [24880-horizon-v.json](./24880-horizon-v.json) |
+| Horizon Vanguard | 55249 | [55249-horizon-vanguard.json](./55249-horizon-vanguard.json) |
 | Horizon Walker | 330256 | [330256-horizon-walker.json](./330256-horizon-walker.json) |
 | Horizon X | 57645 | [57645-horizon-x.json](./57645-horizon-x.json) |
 | Horizon Zero Dawn: Complete Edition | 72870 | [72870-horizon-zero-dawn-complete-edition.json](./72870-horizon-zero-dawn-complete-edition.json) |
@@ -5269,6 +5271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt Asylum Together | 406702 | [406702-hunt-asylum-together.json](./406702-hunt-asylum-together.json) |
 | Hunt Cook: Catch and Serve | 308356 | [308356-hunt-cook-catch-and-serve.json](./308356-hunt-cook-catch-and-serve.json) |
 | Hunt Down the Freeman | 89147 | [89147-hunt-down-the-freeman.json](./89147-hunt-down-the-freeman.json) |
+| Hunt For Gods | 55248 | [55248-hunt-for-gods.json](./55248-hunt-for-gods.json) |
 | Hunt for Junk | 205247 | [205247-hunt-for-junk.json](./205247-hunt-for-junk.json) |
 | Hunt for the Shadow Rider | 140992 | [140992-hunt-for-the-shadow-rider.json](./140992-hunt-for-the-shadow-rider.json) |
 | Hunt Hide Run | 296916 | [296916-hunt-hide-run.json](./296916-hunt-hide-run.json) |
