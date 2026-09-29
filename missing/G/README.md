@@ -1021,6 +1021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gazmatera: Return of the Generals | 149039 | [149039-gazmatera-return-of-the-generals.json](./149039-gazmatera-return-of-the-generals.json) |
 | Gazolinas | 260632 | [260632-gazolinas.json](./260632-gazolinas.json) |
 | Gazza II | 41000 | [41000-gazza-ii.json](./41000-gazza-ii.json) |
+| Gazzel Quest: The Five Magic Stones | 32110 | [32110-gazzel-quest-the-five-magic-stones.json](./32110-gazzel-quest-the-five-magic-stones.json) |
 | GB Dash | 393094 | [393094-gb-dash.json](./393094-gb-dash.json) |
 | GB Genjin Land: Viva! Chikkun Oukoku | 64344 | [64344-gb-genjin-land-viva-chikkun-oukoku.json](./64344-gb-genjin-land-viva-chikkun-oukoku.json) |
 | GB Harobots | 281454 | [281454-gb-harobots.json](./281454-gb-harobots.json) |
@@ -1563,6 +1564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get the Ball Rolling | 211929 | [211929-get-the-ball-rolling.json](./211929-get-the-ball-rolling.json) |
 | Get The Beer | 273914 | [273914-get-the-beer.json](./273914-get-the-beer.json) |
 | Get the Bunny | 209597 | [209597-get-the-bunny.json](./209597-get-the-bunny.json) |
+| Get the Gems | 32093 | [32093-get-the-gems.json](./32093-get-the-gems.json) |
 | Get the Glass | 272848 | [272848-get-the-glass.json](./272848-get-the-glass.json) |
 | Get the Guy | 372699 | [372699-get-the-guy.json](./372699-get-the-guy.json) |
 | Get Them To Safety | 374053 | [374053-get-them-to-safety.json](./374053-get-them-to-safety.json) |
@@ -1816,6 +1818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghouls & Guardians | 348982 | [348982-ghouls-and-guardians.json](./348982-ghouls-and-guardians.json) |
 | Ghrian | 26526 | [26526-ghrian.json](./26526-ghrian.json) |
 | Ghunter | 322112 | [322112-ghunter.json](./322112-ghunter.json) |
+| GI Racing 2.0 | 32095 | [32095-gi-racing-2-0.json](./32095-gi-racing-2-0.json) |
 | Giagachan | 218132 | [218132-giagachan.json](./218132-giagachan.json) |
 | Giana Sisters | 213394 | [213394-giana-sisters.json](./213394-giana-sisters.json) |
 | Giana Sisters: Project Radiant | 318533 | [318533-giana-sisters-project-radiant.json](./318533-giana-sisters-project-radiant.json) |
@@ -3979,6 +3982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid Glyphs | 316281 | [316281-grid-glyphs.json](./316281-grid-glyphs.json) |
 | Grid Iron 2 | 94220 | [94220-grid-iron-2.json](./94220-grid-iron-2.json) |
 | GRID Legends: Valentin’s Classic Car-Nage | 239593 | [239593-grid-legends-valentin-s-classic-car-nage.json](./239593-grid-legends-valentin-s-classic-car-nage.json) |
+| Grid Legion, Storm | 32146 | [32146-grid-legion-storm.json](./32146-grid-legion-storm.json) |
 | Grid Magic | 119785 | [119785-grid-magic.json](./119785-grid-magic.json) |
 | Grid Masters | 33337 | [33337-grid-masters.json](./33337-grid-masters.json) |
 | Grid Miner | 199496 | [199496-grid-miner.json](./199496-grid-miner.json) |
