@@ -3507,6 +3507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto: Liberty City 2001 | 327430 | [327430-grand-theft-auto-liberty-city-2001.json](./327430-grand-theft-auto-liberty-city-2001.json) |
 | Grand Theft Auto: Liberty City Stories | 309110 | [309110-grand-theft-auto-liberty-city-stories.json](./309110-grand-theft-auto-liberty-city-stories.json) |
 | Grand Theft Auto: Liberty City Stories | 3263 | [3263-grand-theft-auto-liberty-city-stories.json](./3263-grand-theft-auto-liberty-city-stories.json) |
+| Grand Theft Auto: London 1961 | 13233 | [13233-grand-theft-auto-london-1961.json](./13233-grand-theft-auto-london-1961.json) |
 | Grand Theft Auto: Misterix | 253324 | [253324-grand-theft-auto-misterix.json](./253324-grand-theft-auto-misterix.json) |
 | Grand Theft Auto: San Andreas - Flame's Story | 320920 | [320920-grand-theft-auto-san-andreas-flames-story.json](./320920-grand-theft-auto-san-andreas-flames-story.json) |
 | Grand Theft Auto: Sindacco Chronicles | 256515 | [256515-grand-theft-auto-sindacco-chronicles.json](./256515-grand-theft-auto-sindacco-chronicles.json) |
