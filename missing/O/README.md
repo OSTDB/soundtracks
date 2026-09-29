@@ -2451,6 +2451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outsider Strategist | 90829 | [90829-outsider-strategist.json](./90829-outsider-strategist.json) |
 | Outsider: After Life | 155547 | [155547-outsider-after-life.json](./155547-outsider-after-life.json) |
 | Outsiders | 391871 | [391871-outsiders.json](./391871-outsiders.json) |
+| Outskirts | 55219 | [55219-outskirts.json](./55219-outskirts.json) |
 | Outsp4ce | 172176 | [172176-outsp4ce.json](./172176-outsp4ce.json) |
 | Outspace | 332263 | [332263-outspace.json](./332263-outspace.json) |
 | Outspell | 219267 | [219267-outspell.json](./219267-outspell.json) |
