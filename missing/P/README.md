@@ -4356,6 +4356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playhead | 195719 | [195719-playhead.json](./195719-playhead.json) |
 | Playhouse Strip Poker | 55990 | [55990-playhouse-strip-poker.json](./55990-playhouse-strip-poker.json) |
 | Playing Field 2 | 410419 | [410419-playing-field-2.json](./410419-playing-field-2.json) |
+| Playing History - The Plague | 34628 | [34628-playing-history-the-plague.json](./34628-playing-history-the-plague.json) |
 | Playing History: Vikings | 12074 | [12074-playing-history-vikings.json](./12074-playing-history-vikings.json) |
 | Playing House | 335262 | [335262-playing-house.json](./335262-playing-house.json) |
 | Playing With Fire 2 | 202372 | [202372-playing-with-fire-2.json](./202372-playing-with-fire-2.json) |
