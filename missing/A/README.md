@@ -5758,6 +5758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armello: Collector's Edition | 52599 | [52599-armello-collectors-edition.json](./52599-armello-collectors-edition.json) |
 | Armello: Deluxe Bundle | 173787 | [173787-armello-deluxe-bundle.json](./173787-armello-deluxe-bundle.json) |
 | Armello: Special Edition | 166228 | [166228-armello-special-edition.json](./166228-armello-special-edition.json) |
+| Armello: The Usurpers Hero | 24026 | [24026-armello-the-usurpers-hero.json](./24026-armello-the-usurpers-hero.json) |
 | Armen Noir | 56525 | [56525-armen-noir.json](./56525-armen-noir.json) |
 | Armeria In Bloom | 409801 | [409801-armeria-in-bloom.json](./409801-armeria-in-bloom.json) |
 | Armies of Exigo | 18855 | [18855-armies-of-exigo.json](./18855-armies-of-exigo.json) |
