@@ -475,6 +475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZI Survival | 220735 | [220735-zi-survival.json](./220735-zi-survival.json) |
 | Zì Xī Cú Dōng | 163846 | [163846-zi-xi-cu-dong.json](./163846-zi-xi-cu-dong.json) |
 | Zi´s Mansion | 418744 | [418744-zi-s-mansion.json](./418744-zi-s-mansion.json) |
+| Zia and the goddesses of magic | 31076 | [31076-zia-and-the-goddesses-of-magic.json](./31076-zia-and-the-goddesses-of-magic.json) |
 | Ziba | 22360 | [22360-ziba.json](./22360-ziba.json) |
 | Zibbs: Alien Survival | 113842 | [113842-zibbs-alien-survival.json](./113842-zibbs-alien-survival.json) |
 | Zidane: Football Generation 2002 | 49351 | [49351-zidane-football-generation-2002.json](./49351-zidane-football-generation-2002.json) |
