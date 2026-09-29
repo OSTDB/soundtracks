@@ -877,6 +877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rantou Proresu | 83211 | [83211-rantou-proresu.json](./83211-rantou-proresu.json) |
 | Ranveer vs. Wild With Bear Grylls | 256869 | [256869-ranveer-vs-wild-with-bear-grylls.json](./256869-ranveer-vs-wild-with-bear-grylls.json) |
 | Ranx | 77645 | [77645-ranx.json](./77645-ranx.json) |
+| Rap Basketball | 37870 | [37870-rap-basketball.json](./37870-rap-basketball.json) |
 | Rap Quest | 295037 | [295037-rap-quest.json](./295037-rap-quest.json) |
 | Rap Simulator | 250303 | [250303-rap-simulator.json](./250303-rap-simulator.json) |
 | Rapala Fishing Frenzy 2009 | 7155 | [7155-rapala-fishing-frenzy-2009.json](./7155-rapala-fishing-frenzy-2009.json) |
@@ -2440,6 +2441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reroll | 104065 | [104065-reroll.json](./104065-reroll.json) |
 | ReRoll | 19700 | [19700-reroll.json](./19700-reroll.json) |
 | Reroute | 291487 | [291487-reroute.json](./291487-reroute.json) |
+| Res Arcana | 37869 | [37869-res-arcana.json](./37869-res-arcana.json) |
 | ReSail | 182938 | [182938-resail.json](./182938-resail.json) |
 | Resbs | 201565 | [201565-resbs.json](./201565-resbs.json) |
 | Rescape | 235981 | [235981-rescape.json](./235981-rescape.json) |
@@ -3466,6 +3468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RimWorld: Console Edition - Ideology | 312014 | [312014-rimworld-console-edition-ideology.json](./312014-rimworld-console-edition-ideology.json) |
 | RimWorld: P-Music | 370333 | [370333-rimworld-p-music.json](./370333-rimworld-p-music.json) |
 | Rin ga Utau, Mirai no Neiro | 228351 | [228351-rin-ga-utau-mirai-no-neiro.json](./228351-rin-ga-utau-mirai-no-neiro.json) |
+| Rin Kaihou Kudan no Igo Daidou | 37868 | [37868-rin-kaihou-kudan-no-igo-daidou.json](./37868-rin-kaihou-kudan-no-igo-daidou.json) |
 | Ring | 11308 | [11308-ring.json](./11308-ring.json) |
 | Ring Academy | 306957 | [306957-ring-academy.json](./306957-ring-academy.json) |
 | Ring Battle | 361737 | [361737-ring-battle.json](./361737-ring-battle.json) |
@@ -4639,6 +4642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roko-Loko no Castelo do Ratozinger Remix | 78042 | [78042-roko-loko-no-castelo-do-ratozinger-remix.json](./78042-roko-loko-no-castelo-do-ratozinger-remix.json) |
 | Roku and Rei | 303007 | [303007-roku-and-rei.json](./303007-roku-and-rei.json) |
 | Rokudenashi Blues | 48820 | [48820-rokudenashi-blues.json](./48820-rokudenashi-blues.json) |
+| Rokudenashi Blues: Taiketsu! Tokyo Shiten-ou | 37867 | [37867-rokudenashi-blues-taiketsu-tokyo-shiten-ou.json](./37867-rokudenashi-blues-taiketsu-tokyo-shiten-ou.json) |
 | Rokumon Tengai Mon Colle Knight GB | 282584 | [282584-rokumon-tengai-mon-colle-knight-gb.json](./282584-rokumon-tengai-mon-colle-knight-gb.json) |
 | Rol Crusaders | 94556 | [94556-rol-crusaders.json](./94556-rol-crusaders.json) |
 | Rolaball | 94693 | [94693-rolaball.json](./94693-rolaball.json) |
