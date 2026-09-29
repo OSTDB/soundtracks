@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T08:34:11.694Z",
-  "total_missing": 139238,
+  "generated_at": "2026-09-29T08:47:32.404Z",
+  "total_missing": 139290,
   "games": [
     {
       "igdb_id": 186066,
@@ -47131,6 +47131,11 @@
       "igdb_id": 218965,
       "game_name": "Bad Piggies 2",
       "file": "missing/B/218965-bad-piggies-2.json"
+    },
+    {
+      "igdb_id": 221410,
+      "game_name": "Bad Piggies HD",
+      "file": "missing/B/221410-bad-piggies-hd.json"
     },
     {
       "igdb_id": 231483,
@@ -242963,6 +242968,11 @@
       "file": "missing/G/347171-grumblemoor.json"
     },
     {
+      "igdb_id": 37890,
+      "game_name": "Grump's Dream Course",
+      "file": "missing/G/37890-grumps-dream-course.json"
+    },
+    {
       "igdb_id": 98930,
       "game_name": "Grumpy Cat's Worst Game Ever",
       "file": "missing/G/98930-grumpy-cats-worst-game-ever.json"
@@ -251056,6 +251066,11 @@
       "igdb_id": 57185,
       "game_name": "Haruka, Winter Dreams",
       "file": "missing/H/57185-haruka-winter-dreams.json"
+    },
+    {
+      "igdb_id": 37909,
+      "game_name": "Harukanaru Augusta",
+      "file": "missing/H/37909-harukanaru-augusta.json"
     },
     {
       "igdb_id": 37933,
@@ -305918,6 +305933,11 @@
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
     },
     {
+      "igdb_id": 219820,
+      "game_name": "Kimi mo vtuber ni Naranai?",
+      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
+    },
+    {
       "igdb_id": 66964,
       "game_name": "Kimi ni Todoke: Sodateru Omoi",
       "file": "missing/K/66964-kimi-ni-todoke-sodateru-omoi.json"
@@ -313626,6 +313646,31 @@
       "igdb_id": 205081,
       "game_name": "Kyouko no Tame ni Kane wa Naru",
       "file": "missing/K/205081-kyouko-no-tame-ni-kane-wa-naru.json"
+    },
+    {
+      "igdb_id": 37883,
+      "game_name": "Kyouraku: Sanyo - Toyomaru Parlor! Parlor!",
+      "file": "missing/K/37883-kyouraku-sanyo-toyomaru-parlor-parlor.json"
+    },
+    {
+      "igdb_id": 37882,
+      "game_name": "Kyouraku: Sanyo - Toyomaru Parlor! Parlor! 2",
+      "file": "missing/K/37882-kyouraku-sanyo-toyomaru-parlor-parlor-2.json"
+    },
+    {
+      "igdb_id": 37881,
+      "game_name": "Kyouraku: Sanyo - Toyomaru Parlor! Parlor! 3",
+      "file": "missing/K/37881-kyouraku-sanyo-toyomaru-parlor-parlor-3.json"
+    },
+    {
+      "igdb_id": 37880,
+      "game_name": "Kyouraku: Sanyo - Toyomaru Parlor! Parlor! 4",
+      "file": "missing/K/37880-kyouraku-sanyo-toyomaru-parlor-parlor-4.json"
+    },
+    {
+      "igdb_id": 37879,
+      "game_name": "Kyouraku: Sanyo - Toyomaru Parlor! Parlor! 5",
+      "file": "missing/K/37879-kyouraku-sanyo-toyomaru-parlor-parlor-5.json"
     },
     {
       "igdb_id": 150561,
@@ -374193,6 +374238,11 @@
       "file": "missing/M/305553-mortal-kombat-mobile.json"
     },
     {
+      "igdb_id": 37884,
+      "game_name": "Mortal Kombat Mythologies: Gold 2000",
+      "file": "missing/M/37884-mortal-kombat-mythologies-gold-2000.json"
+    },
+    {
       "igdb_id": 198829,
       "game_name": "Mortal Kombat Mythologies: Sub-Zero",
       "file": "missing/M/198829-mortal-kombat-mythologies-sub-zero.json"
@@ -377846,6 +377896,11 @@
       "igdb_id": 284449,
       "game_name": "Mujinkun no Chotto Arukanai?",
       "file": "missing/M/284449-mujinkun-no-chotto-arukanai.json"
+    },
+    {
+      "igdb_id": 37917,
+      "game_name": "Mujintou Monogatari",
+      "file": "missing/M/37917-mujintou-monogatari.json"
     },
     {
       "igdb_id": 58461,
@@ -383458,6 +383513,11 @@
       "file": "missing/M/124745-mystery-chronicles-one-way-heroics.json"
     },
     {
+      "igdb_id": 37916,
+      "game_name": "Mystery Circle",
+      "file": "missing/M/37916-mystery-circle.json"
+    },
+    {
       "igdb_id": 261520,
       "game_name": "Mystery Crypt",
       "file": "missing/M/261520-mystery-crypt.json"
@@ -384933,6 +384993,11 @@
       "file": "missing/N/286128-nagayami-nights.json"
     },
     {
+      "igdb_id": 37915,
+      "game_name": "Nage Libre: Seijaku no Suishin",
+      "file": "missing/N/37915-nage-libre-seijaku-no-suishin.json"
+    },
+    {
       "igdb_id": 252851,
       "game_name": "Naheulbeuk's Dungeon Master",
       "file": "missing/N/252851-naheulbeuks-dungeon-master.json"
@@ -385043,6 +385108,11 @@
       "file": "missing/N/94204-nakajima-satoru-f-1-hero-gb-world-championship-91.json"
     },
     {
+      "igdb_id": 37914,
+      "game_name": "Nakajima Satoru Kanshuu: F-1 Hero '94",
+      "file": "missing/N/37914-nakajima-satoru-kanshuu-f-1-hero-94.json"
+    },
+    {
       "igdb_id": 48302,
       "game_name": "Nakajima Satoru: F-1 Hero",
       "file": "missing/N/48302-nakajima-satoru-f-1-hero.json"
@@ -385083,6 +385153,11 @@
       "file": "missing/N/207900-nakana-bundle-3-eqqo-lydia-stilstand.json"
     },
     {
+      "igdb_id": 37913,
+      "game_name": "Nakano Kouichi Kanshuu: Keirin-ou",
+      "file": "missing/N/37913-nakano-kouichi-kanshuu-keirin-ou.json"
+    },
+    {
       "igdb_id": 68193,
       "game_name": "Nakawak",
       "file": "missing/N/68193-nakawak.json"
@@ -385116,6 +385191,11 @@
       "igdb_id": 385305,
       "game_name": "Naked Warrior",
       "file": "missing/N/385305-naked-warrior.json"
+    },
+    {
+      "igdb_id": 37912,
+      "game_name": "Naki no Ryuu: Mahjong Hishou-den",
+      "file": "missing/N/37912-naki-no-ryuu-mahjong-hishou-den.json"
     },
     {
       "igdb_id": 31762,
@@ -385286,6 +385366,11 @@
       "igdb_id": 48813,
       "game_name": "Namcot Mahjong III: Mahjong Tengoku",
       "file": "missing/N/48813-namcot-mahjong-iii-mahjong-tengoku.json"
+    },
+    {
+      "igdb_id": 37911,
+      "game_name": "Namcot Open",
+      "file": "missing/N/37911-namcot-open.json"
     },
     {
       "igdb_id": 107661,
@@ -386131,6 +386216,11 @@
       "igdb_id": 148376,
       "game_name": "Narrow.One",
       "file": "missing/N/148376-narrow-one.json"
+    },
+    {
+      "igdb_id": 37910,
+      "game_name": "Naruhodo! The World",
+      "file": "missing/N/37910-naruhodo-the-world.json"
     },
     {
       "igdb_id": 188074,
@@ -392523,6 +392613,11 @@
       "file": "missing/N/170500-new-yankee-under-the-genies-thumb.json"
     },
     {
+      "igdb_id": 37908,
+      "game_name": "New Yatterman: Nandai Kandai Yajirobee",
+      "file": "missing/N/37908-new-yatterman-nandai-kandai-yajirobee.json"
+    },
+    {
       "igdb_id": 191085,
       "game_name": "New Year Girls",
       "file": "missing/N/191085-new-year-girls.json"
@@ -393678,6 +393773,11 @@
       "file": "missing/N/248117-nice-body-all-star-suiei-taikai.json"
     },
     {
+      "igdb_id": 37907,
+      "game_name": "Nice de Shot: World Course Selections",
+      "file": "missing/N/37907-nice-de-shot-world-course-selections.json"
+    },
+    {
       "igdb_id": 102724,
       "game_name": "Nice Dice - 3D dice roller",
       "file": "missing/N/102724-nice-dice-3d-dice-roller.json"
@@ -393716,6 +393816,16 @@
       "igdb_id": 174298,
       "game_name": "Niche: Breed and Evolve",
       "file": "missing/N/174298-niche-breed-and-evolve.json"
+    },
+    {
+      "igdb_id": 37906,
+      "game_name": "Nichibutsu Collection 1",
+      "file": "missing/N/37906-nichibutsu-collection-1.json"
+    },
+    {
+      "igdb_id": 37905,
+      "game_name": "Nichibutsu Collection 2",
+      "file": "missing/N/37905-nichibutsu-collection-2.json"
     },
     {
       "igdb_id": 48804,
@@ -397283,6 +397393,21 @@
       "file": "missing/N/105117-nishan-shaman.json"
     },
     {
+      "igdb_id": 37904,
+      "game_name": "Nishijin Pachinko 3",
+      "file": "missing/N/37904-nishijin-pachinko-3.json"
+    },
+    {
+      "igdb_id": 37903,
+      "game_name": "Nishijin Pachinko Monogatari",
+      "file": "missing/N/37903-nishijin-pachinko-monogatari.json"
+    },
+    {
+      "igdb_id": 37902,
+      "game_name": "Nishijin Pachinko Monogatari 2",
+      "file": "missing/N/37902-nishijin-pachinko-monogatari-2.json"
+    },
+    {
       "igdb_id": 48802,
       "game_name": "Nishimura Kyoutarou Mystery: Blue Train Satsujin Jiken",
       "file": "missing/N/48802-nishimura-kyoutarou-mystery-blue-train-satsujin-jiken.json"
@@ -398526,6 +398651,11 @@
       "igdb_id": 307155,
       "game_name": "Nobunaga no Yabou: Bushou Fuuunroku",
       "file": "missing/N/307155-nobunaga-no-yabou-bushou-fuuunroku.json"
+    },
+    {
+      "igdb_id": 37901,
+      "game_name": "Nobunaga no Yabou: Haouden",
+      "file": "missing/N/37901-nobunaga-no-yabou-haouden.json"
     },
     {
       "igdb_id": 208626,
@@ -416603,6 +416733,31 @@
       "file": "missing/P/66960-pachi-slot-kanzen-kouryaku-universal-shindai-nyuuka-volume-1.json"
     },
     {
+      "igdb_id": 37900,
+      "game_name": "Pachi-Slot Kenkyuu",
+      "file": "missing/P/37900-pachi-slot-kenkyuu.json"
+    },
+    {
+      "igdb_id": 37899,
+      "game_name": "Pachi-Slot Land: Pachi-pachi Coin no Densetsu",
+      "file": "missing/P/37899-pachi-slot-land-pachi-pachi-coin-no-densetsu.json"
+    },
+    {
+      "igdb_id": 37898,
+      "game_name": "Pachi-Slot Love Story",
+      "file": "missing/P/37898-pachi-slot-love-story.json"
+    },
+    {
+      "igdb_id": 37897,
+      "game_name": "Pachi-Slot Monogatari: Paru Kougyou Special",
+      "file": "missing/P/37897-pachi-slot-monogatari-paru-kougyou-special.json"
+    },
+    {
+      "igdb_id": 37896,
+      "game_name": "Pachi-Slot Monogatari: Universal Special",
+      "file": "missing/P/37896-pachi-slot-monogatari-universal-special.json"
+    },
+    {
       "igdb_id": 41396,
       "game_name": "Pachicom",
       "file": "missing/P/41396-pachicom.json"
@@ -421666,6 +421821,41 @@
       "igdb_id": 152843,
       "game_name": "Parkur 44",
       "file": "missing/P/152843-parkur-44.json"
+    },
+    {
+      "igdb_id": 37895,
+      "game_name": "Parlor! Mini",
+      "file": "missing/P/37895-parlor-mini.json"
+    },
+    {
+      "igdb_id": 37894,
+      "game_name": "Parlor! Mini 2",
+      "file": "missing/P/37894-parlor-mini-2.json"
+    },
+    {
+      "igdb_id": 37893,
+      "game_name": "Parlor! Mini 3",
+      "file": "missing/P/37893-parlor-mini-3.json"
+    },
+    {
+      "igdb_id": 37892,
+      "game_name": "Parlor! Mini 4",
+      "file": "missing/P/37892-parlor-mini-4.json"
+    },
+    {
+      "igdb_id": 37891,
+      "game_name": "Parlor! Mini 5",
+      "file": "missing/P/37891-parlor-mini-5.json"
+    },
+    {
+      "igdb_id": 37878,
+      "game_name": "Parlor! Mini 6",
+      "file": "missing/P/37878-parlor-mini-6.json"
+    },
+    {
+      "igdb_id": 37877,
+      "game_name": "Parlor! Mini 7",
+      "file": "missing/P/37877-parlor-mini-7.json"
     },
     {
       "igdb_id": 46135,
@@ -448633,6 +448823,11 @@
       "file": "missing/P/69368-pro-hockey.json"
     },
     {
+      "igdb_id": 37876,
+      "game_name": "Pro Kishi Jinsei Simulation: Shogi no Hanamichi",
+      "file": "missing/P/37876-pro-kishi-jinsei-simulation-shogi-no-hanamichi.json"
+    },
+    {
       "igdb_id": 138094,
       "game_name": "Pro Mahjong Kiwame",
       "file": "missing/P/138094-pro-mahjong-kiwame.json"
@@ -448658,6 +448853,11 @@
       "file": "missing/P/97878-pro-mahjong-kiwame-gb-ii.json"
     },
     {
+      "igdb_id": 37875,
+      "game_name": "Pro Mahjong Kiwame II",
+      "file": "missing/P/37875-pro-mahjong-kiwame-ii.json"
+    },
+    {
       "igdb_id": 97879,
       "game_name": "Pro Mahjong Kiwame Plus",
       "file": "missing/P/97879-pro-mahjong-kiwame-plus.json"
@@ -448676,6 +448876,11 @@
       "igdb_id": 97882,
       "game_name": "Pro Mahjong Kiwame-S",
       "file": "missing/P/97882-pro-mahjong-kiwame-s.json"
+    },
+    {
+      "igdb_id": 37874,
+      "game_name": "Pro Mahjong Tsuwamono",
+      "file": "missing/P/37874-pro-mahjong-tsuwamono.json"
     },
     {
       "igdb_id": 97869,
@@ -448908,6 +449113,11 @@
       "file": "missing/P/231611-pro-yakyuu-greatest-nine-97.json"
     },
     {
+      "igdb_id": 37873,
+      "game_name": "Pro Yakyuu Nettou Puzzle Stadium",
+      "file": "missing/P/37873-pro-yakyuu-nettou-puzzle-stadium.json"
+    },
+    {
       "igdb_id": 44575,
       "game_name": "Pro Yakyuu Spirits 2012",
       "file": "missing/P/44575-pro-yakyuu-spirits-2012.json"
@@ -448931,6 +449141,11 @@
       "igdb_id": 91726,
       "game_name": "Pro Yakyuu Spirits 3",
       "file": "missing/P/91726-pro-yakyuu-spirits-3.json"
+    },
+    {
+      "igdb_id": 37872,
+      "game_name": "Pro Yakyuu Star",
+      "file": "missing/P/37872-pro-yakyuu-star.json"
     },
     {
       "igdb_id": 125932,
@@ -455586,6 +455801,11 @@
       "igdb_id": 32165,
       "game_name": "Puzzle Nebula",
       "file": "missing/P/32165-puzzle-nebula.json"
+    },
+    {
+      "igdb_id": 37871,
+      "game_name": "Puzzle Nintama Rantarou",
+      "file": "missing/P/37871-puzzle-nintama-rantarou.json"
     },
     {
       "igdb_id": 97863,
@@ -463758,6 +463978,11 @@
       "file": "missing/R/77645-ranx.json"
     },
     {
+      "igdb_id": 37870,
+      "game_name": "Rap Basketball",
+      "file": "missing/R/37870-rap-basketball.json"
+    },
+    {
       "igdb_id": 295037,
       "game_name": "Rap Quest",
       "file": "missing/R/295037-rap-quest.json"
@@ -471573,6 +471798,11 @@
       "file": "missing/R/291487-reroute.json"
     },
     {
+      "igdb_id": 37869,
+      "game_name": "Res Arcana",
+      "file": "missing/R/37869-res-arcana.json"
+    },
+    {
       "igdb_id": 182938,
       "game_name": "ReSail",
       "file": "missing/R/182938-resail.json"
@@ -476701,6 +476931,11 @@
       "igdb_id": 228351,
       "game_name": "Rin ga Utau, Mirai no Neiro",
       "file": "missing/R/228351-rin-ga-utau-mirai-no-neiro.json"
+    },
+    {
+      "igdb_id": 37868,
+      "game_name": "Rin Kaihou Kudan no Igo Daidou",
+      "file": "missing/R/37868-rin-kaihou-kudan-no-igo-daidou.json"
     },
     {
       "igdb_id": 11308,
@@ -482566,6 +482801,11 @@
       "igdb_id": 48820,
       "game_name": "Rokudenashi Blues",
       "file": "missing/R/48820-rokudenashi-blues.json"
+    },
+    {
+      "igdb_id": 37867,
+      "game_name": "Rokudenashi Blues: Taiketsu! Tokyo Shiten-ou",
+      "file": "missing/R/37867-rokudenashi-blues-taiketsu-tokyo-shiten-ou.json"
     },
     {
       "igdb_id": 282584,
@@ -490171,6 +490411,11 @@
       "igdb_id": 150115,
       "game_name": "Saiaku Tantei Kanojo",
       "file": "missing/S/150115-saiaku-tantei-kanojo.json"
+    },
+    {
+      "igdb_id": 37866,
+      "game_name": "Saibara Rieko no Mahjong Hourouki",
+      "file": "missing/S/37866-saibara-rieko-no-mahjong-hourouki.json"
     },
     {
       "igdb_id": 292674,
@@ -501083,6 +501328,11 @@
       "file": "missing/S/392768-sengoku-mugen.json"
     },
     {
+      "igdb_id": 37888,
+      "game_name": "Sengoku no Hasha",
+      "file": "missing/S/37888-sengoku-no-hasha.json"
+    },
+    {
       "igdb_id": 58465,
       "game_name": "Sengoku Otome: Legend Battle",
       "file": "missing/S/58465-sengoku-otome-legend-battle.json"
@@ -504566,6 +504816,11 @@
       "igdb_id": 322568,
       "game_name": "Shadowhand Solitaire",
       "file": "missing/S/322568-shadowhand-solitaire.json"
+    },
+    {
+      "igdb_id": 37885,
+      "game_name": "ShadowHawk",
+      "file": "missing/S/37885-shadowhawk.json"
     },
     {
       "igdb_id": 244515,
@@ -555816,6 +556071,11 @@
       "igdb_id": 244517,
       "game_name": "Sun Rush",
       "file": "missing/S/244517-sun-rush.json"
+    },
+    {
+      "igdb_id": 37889,
+      "game_name": "Sun Sport Fishing: Keiryuu-ou",
+      "file": "missing/S/37889-sun-sport-fishing-keiryuu-ou.json"
     },
     {
       "igdb_id": 87697,
