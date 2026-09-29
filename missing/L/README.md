@@ -3423,6 +3423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord Democrat Strikes Out! | 116314 | [116314-lord-democrat-strikes-out.json](./116314-lord-democrat-strikes-out.json) |
 | Lord Legend: Match Brawl | 196585 | [196585-lord-legend-match-brawl.json](./196585-lord-legend-match-brawl.json) |
 | Lord Monarch | 37941 | [37941-lord-monarch.json](./37941-lord-monarch.json) |
+| Lord Monarch: Tokoton Sentou Densetsu | 46074 | [46074-lord-monarch-tokoton-sentou-densetsu.json](./46074-lord-monarch-tokoton-sentou-densetsu.json) |
 | Lord O' Pirates | 258528 | [258528-lord-o-pirates.json](./258528-lord-o-pirates.json) |
 | Lord of Apocalypse | 92600 | [92600-lord-of-apocalypse.json](./92600-lord-of-apocalypse.json) |
 | Lord of Bones | 236265 | [236265-lord-of-bones.json](./236265-lord-of-bones.json) |
@@ -4362,6 +4363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Laser | 241990 | [241990-lunar-laser.json](./241990-lunar-laser.json) |
 | Lunar Legacy | 248041 | [248041-lunar-legacy.json](./248041-lunar-legacy.json) |
 | Lunar Legend | 13907 | [13907-lunar-legend.json](./13907-lunar-legend.json) |
+| Lunar Magic School | 46093 | [46093-lunar-magic-school.json](./46093-lunar-magic-school.json) |
 | Lunar Mountain | 236923 | [236923-lunar-mountain.json](./236923-lunar-mountain.json) |
 | Lunar Racer | 259246 | [259246-lunar-racer.json](./259246-lunar-racer.json) |
 | Lunar Rescue | 40007 | [40007-lunar-rescue.json](./40007-lunar-rescue.json) |
