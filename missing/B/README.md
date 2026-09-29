@@ -311,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backwoods Town | 275097 | [275097-backwoods-town.json](./275097-backwoods-town.json) |
 | Backworlds | 107176 | [107176-backworlds.json](./107176-backworlds.json) |
 | Backyard | 142423 | [142423-backyard.json](./142423-backyard.json) |
+| Backyard Baseball | 50299 | [50299-backyard-baseball.json](./50299-backyard-baseball.json) |
 | Backyard Baseball '97 | 317717 | [317717-backyard-baseball-97.json](./317717-backyard-baseball-97.json) |
 | Backyard Basketball | 69242 | [69242-backyard-basketball.json](./69242-backyard-basketball.json) |
 | Backyard Basketball ‘01 | 377818 | [377818-backyard-basketball-01.json](./377818-backyard-basketball-01.json) |
