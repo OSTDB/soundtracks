@@ -1405,6 +1405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inazuma Eleven Origins | 289434 | [289434-inazuma-eleven-origins.json](./289434-inazuma-eleven-origins.json) |
 | Inazuma Eleven Re | 317592 | [317592-inazuma-eleven-re.json](./317592-inazuma-eleven-re.json) |
 | Inazuma Eleven SD | 125201 | [125201-inazuma-eleven-sd.json](./125201-inazuma-eleven-sd.json) |
+| Inazuma Eleven Strikers | 4930 | [4930-inazuma-eleven-strikers.json](./4930-inazuma-eleven-strikers.json) |
 | Inazuma Eleven: Cross | 397928 | [397928-inazuma-eleven-cross.json](./397928-inazuma-eleven-cross.json) |
 | Inazuma Eleven: Victory Road | 72812 | [72812-inazuma-eleven-victory-road.json](./72812-inazuma-eleven-victory-road.json) |
 | Inbetween a Land of Grass | 181387 | [181387-inbetween-a-land-of-grass.json](./181387-inbetween-a-land-of-grass.json) |
