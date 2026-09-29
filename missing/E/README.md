@@ -2125,6 +2125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EruruAdventure | 97281 | [97281-eruruadventure.json](./97281-eruruadventure.json) |
 | Erusal | 31872 | [31872-erusal.json](./31872-erusal.json) |
 | Erwartung | 295014 | [295014-erwartung.json](./295014-erwartung.json) |
+| Erwin's Timewarp | 34689 | [34689-erwins-timewarp.json](./34689-erwins-timewarp.json) |
 | Erz Online | 346225 | [346225-erz-online.json](./346225-erz-online.json) |
 | ES Games | 334784 | [334784-es-games.json](./334784-es-games.json) |
 | eSail | 89648 | [89648-esail.json](./89648-esail.json) |
