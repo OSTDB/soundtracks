@@ -4805,6 +4805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJMax Portable: Clazziquai Edition | 79327 | [79327-djmax-portable-clazziquai-edition.json](./79327-djmax-portable-clazziquai-edition.json) |
 | DJMax Ray | 64493 | [64493-djmax-ray.json](./64493-djmax-ray.json) |
 | DJMax Respect | 28192 | [28192-djmax-respect.json](./28192-djmax-respect.json) |
+| DJMax Respect V | 126179 | [126179-djmax-respect-v.json](./126179-djmax-respect-v.json) |
 | DJMax Respect V: Arcaea Pack | 366929 | [366929-djmax-respect-v-arcaea-pack.json](./366929-djmax-respect-v-arcaea-pack.json) |
 | DJMax Respect V: Black Square Pack | 225049 | [225049-djmax-respect-v-black-square-pack.json](./225049-djmax-respect-v-black-square-pack.json) |
 | DJMax Respect V: Chunithm Pack | 225047 | [225047-djmax-respect-v-chunithm-pack.json](./225047-djmax-respect-v-chunithm-pack.json) |
@@ -6386,6 +6387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Kakarot - Daima: Adventure Through The Demon Realm Pack | 333616 | [333616-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-pack.json](./333616-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-pack.json) |
 | Dragon Ball Z: Kakarot - Daima: Adventure Through The Demon Realm Part 1 | 333617 | [333617-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-part-1.json](./333617-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-part-1.json) |
 | Dragon Ball Z: Kakarot - Daima: Adventure Through The Demon Realm Part 2 | 333618 | [333618-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-part-2.json](./333618-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-part-2.json) |
+| Dragon Ball Z: Kakarot - Dragon Ball Card Warriors | 142494 | [142494-dragon-ball-z-kakarot-dragon-ball-card-warriors.json](./142494-dragon-ball-z-kakarot-dragon-ball-card-warriors.json) |
 | Dragon Ball Z: Kakarot - Season Pass | 141113 | [141113-dragon-ball-z-kakarot-season-pass.json](./141113-dragon-ball-z-kakarot-season-pass.json) |
 | Dragon Ball Z: Kakarot - Ultimate Edition | 136271 | [136271-dragon-ball-z-kakarot-ultimate-edition.json](./136271-dragon-ball-z-kakarot-ultimate-edition.json) |
 | Dragon Ball Z: Kakarot + A New Power Awakens Set - Goku's Next Journey | 288303 | [288303-dragon-ball-z-kakarot-a-new-power-awakens-set-gokus-next-journey.json](./288303-dragon-ball-z-kakarot-a-new-power-awakens-set-gokus-next-journey.json) |
@@ -6561,6 +6563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest Monster Super Light | 80598 | [80598-dragon-quest-monster-super-light.json](./80598-dragon-quest-monster-super-light.json) |
 | Dragon Quest Monsters 1+2 | 24853 | [24853-dragon-quest-monsters-1-2.json](./24853-dragon-quest-monsters-1-2.json) |
 | Dragon Quest Monsters 2: Iru and Luca's Marvelous Mysterious Key | 24854 | [24854-dragon-quest-monsters-2-iru-and-lucas-marvelous-mysterious-key.json](./24854-dragon-quest-monsters-2-iru-and-lucas-marvelous-mysterious-key.json) |
+| Dragon Quest Monsters: Joker | 17460 | [17460-dragon-quest-monsters-joker.json](./17460-dragon-quest-monsters-joker.json) |
 | Dragon Quest Monsters: Joker 2 | 21727 | [21727-dragon-quest-monsters-joker-2.json](./21727-dragon-quest-monsters-joker-2.json) |
 | Dragon Quest Monsters: Joker 3 Professional | 79296 | [79296-dragon-quest-monsters-joker-3-professional.json](./79296-dragon-quest-monsters-joker-3-professional.json) |
 | Dragon Quest Monsters: Terry no Wonderland 3D | 80596 | [80596-dragon-quest-monsters-terry-no-wonderland-3d.json](./80596-dragon-quest-monsters-terry-no-wonderland-3d.json) |
