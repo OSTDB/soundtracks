@@ -6508,6 +6508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sminis | 93532 | [93532-sminis.json](./93532-sminis.json) |
 | Smipat and the Lost Bones | 188556 | [188556-smipat-and-the-lost-bones.json](./188556-smipat-and-the-lost-bones.json) |
 | Smirkers | 371236 | [371236-smirkers.json](./371236-smirkers.json) |
+| Smite | 5607 | [5607-smite.json](./5607-smite.json) |
 | Smite 2: Deluxe Founder's Edition | 331849 | [331849-smite-2-deluxe-founders-edition.json](./331849-smite-2-deluxe-founders-edition.json) |
 | Smite 2: Founder's Edition | 331848 | [331848-smite-2-founders-edition.json](./331848-smite-2-founders-edition.json) |
 | Smite 2: Ultimate Founder's Edition | 331847 | [331847-smite-2-ultimate-founders-edition.json](./331847-smite-2-ultimate-founders-edition.json) |
@@ -10001,6 +10002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splat! | 46870 | [46870-splat.json](./46870-splat.json) |
 | Splatformer | 191166 | [191166-splatformer.json](./191166-splatformer.json) |
 | SplatooD | 195524 | [195524-splatood.json](./195524-splatood.json) |
+| Splatoon | 7335 | [7335-splatoon.json](./7335-splatoon.json) |
 | Splatoon 2 | 26761 | [26761-splatoon-2.json](./26761-splatoon-2.json) |
 | Splatoon 2 + Splatoon 2 Octo Expansion Bundle | 136382 | [136382-splatoon-2-splatoon-2-octo-expansion-bundle.json](./136382-splatoon-2-splatoon-2-octo-expansion-bundle.json) |
 | Splatoon Raiders | 348977 | [348977-splatoon-raiders.json](./348977-splatoon-raiders.json) |
@@ -11060,6 +11062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Clone Wars Adventures | 21739 | [21739-star-wars-clone-wars-adventures.json](./21739-star-wars-clone-wars-adventures.json) |
 | Star Wars: Commander | 19429 | [19429-star-wars-commander.json](./19429-star-wars-commander.json) |
 | Star Wars: Conquest | 356198 | [356198-star-wars-conquest.json](./356198-star-wars-conquest.json) |
+| Star Wars: Dark Forces | 157 | [157-star-wars-dark-forces.json](./157-star-wars-dark-forces.json) |
 | Star Wars: Dark Forces Remaster | 262973 | [262973-star-wars-dark-forces-remaster.json](./262973-star-wars-dark-forces-remaster.json) |
 | Star Wars: Demolition | 143 | [143-star-wars-demolition.json](./143-star-wars-demolition.json) |
 | Star Wars: Droids - The Adventures of R2-D2 and C-3PO | 61864 | [61864-star-wars-droids-the-adventures-of-r2-d2-and-c-3po.json](./61864-star-wars-droids-the-adventures-of-r2-d2-and-c-3po.json) |
@@ -11071,6 +11074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Episode I - Naboo Defense | 198914 | [198914-star-wars-episode-i-naboo-defense.json](./198914-star-wars-episode-i-naboo-defense.json) |
 | Star Wars: Episode I - Naboo Escape | 198913 | [198913-star-wars-episode-i-naboo-escape.json](./198913-star-wars-episode-i-naboo-escape.json) |
 | Star Wars: Episode I - Podrace Challenge Game | 198915 | [198915-star-wars-episode-i-podrace-challenge-game.json](./198915-star-wars-episode-i-podrace-challenge-game.json) |
+| Star Wars: Episode I - Racer | 154 | [154-star-wars-episode-i-racer.json](./154-star-wars-episode-i-racer.json) |
 | Star Wars: Episode I - Underwater Race to Theed | 198916 | [198916-star-wars-episode-i-underwater-race-to-theed.json](./198916-star-wars-episode-i-underwater-race-to-theed.json) |
 | Star Wars: Episode II - Anakin Skywalker’s Lightsaber Duel | 198917 | [198917-star-wars-episode-ii-anakin-skywalker-s-lightsaber-duel.json](./198917-star-wars-episode-ii-anakin-skywalker-s-lightsaber-duel.json) |
 | Star Wars: Episode III - Revenge of the Sith | 166484 | [166484-star-wars-episode-iii-revenge-of-the-sith.json](./166484-star-wars-episode-iii-revenge-of-the-sith.json) |
@@ -11728,6 +11732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SteamStar | 305949 | [305949-steamstar.json](./305949-steamstar.json) |
 | SteamWorld Build & Dig Bundle | 279037 | [279037-steamworld-build-and-dig-bundle.json](./279037-steamworld-build-and-dig-bundle.json) |
 | SteamWorld Dig | 5772 | [5772-steamworld-dig.json](./5772-steamworld-dig.json) |
+| SteamWorld Dig 2 | 27433 | [27433-steamworld-dig-2.json](./27433-steamworld-dig-2.json) |
 | Steamworld Dig 2 + Steamworld Dig | 218691 | [218691-steamworld-dig-2-steamworld-dig.json](./218691-steamworld-dig-2-steamworld-dig.json) |
 | Steamworld Essentials Collection | 380702 | [380702-steamworld-essentials-collection.json](./380702-steamworld-essentials-collection.json) |
 | SteamWorld Heist | 15167 | [15167-steamworld-heist.json](./15167-steamworld-heist.json) |
@@ -12720,6 +12725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streets of London | 61168 | [61168-streets-of-london.json](./61168-streets-of-london.json) |
 | Streets of Rage | 1652 | [1652-streets-of-rage.json](./1652-streets-of-rage.json) |
 | Streets of Rage | 198650 | [198650-streets-of-rage.json](./198650-streets-of-rage.json) |
+| Streets of Rage 2 | 1653 | [1653-streets-of-rage-2.json](./1653-streets-of-rage-2.json) |
 | Streets of Rage 2 | 203318 | [203318-streets-of-rage-2.json](./203318-streets-of-rage-2.json) |
 | Streets of Rage 2: Puyo Wars | 315122 | [315122-streets-of-rage-2-puyo-wars.json](./315122-streets-of-rage-2-puyo-wars.json) |
 | Streets of Rage 2: Syndicate Wars | 256300 | [256300-streets-of-rage-2-syndicate-wars.json](./256300-streets-of-rage-2-syndicate-wars.json) |
@@ -12859,6 +12865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strong: Search for the Mightiest Person | 246975 | [246975-strong-search-for-the-mightiest-person.json](./246975-strong-search-for-the-mightiest-person.json) |
 | StrongBadZone | 135863 | [135863-strongbadzone.json](./135863-strongbadzone.json) |
 | Stronghold | 18539 | [18539-stronghold.json](./18539-stronghold.json) |
+| Stronghold | 965 | [965-stronghold.json](./965-stronghold.json) |
 | Stronghold 3 Gold | 54411 | [54411-stronghold-3-gold.json](./54411-stronghold-3-gold.json) |
 | Stronghold Collection | 21771 | [21771-stronghold-collection.json](./21771-stronghold-collection.json) |
 | Stronghold Crusader | 964 | [964-stronghold-crusader.json](./964-stronghold-crusader.json) |
@@ -14404,6 +14411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Kart: Super Circuit Demake | 198458 | [198458-super-mario-kart-super-circuit-demake.json](./198458-super-mario-kart-super-circuit-demake.json) |
 | Super Mario Kingdom | 318036 | [318036-super-mario-kingdom.json](./318036-super-mario-kingdom.json) |
 | Super Mario Land 2 DX | 173156 | [173156-super-mario-land-2-dx.json](./173156-super-mario-land-2-dx.json) |
+| Super Mario Land 2: 6 Golden Coins | 1071 | [1071-super-mario-land-2-6-golden-coins.json](./1071-super-mario-land-2-6-golden-coins.json) |
 | Super Mario Land 2012 | 285029 | [285029-super-mario-land-2012.json](./285029-super-mario-land-2012.json) |
 | Super Mario Land DX | 173153 | [173153-super-mario-land-dx.json](./173153-super-mario-land-dx.json) |
 | Super Mario Land Hack 2017: Tatanga's Revenge | 338813 | [338813-super-mario-land-hack-2017-tatangas-revenge.json](./338813-super-mario-land-hack-2017-tatangas-revenge.json) |
@@ -16072,6 +16080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SworLd | 192808 | [192808-sworld.json](./192808-sworld.json) |
 | Swung | 134577 | [134577-swung.json](./134577-swung.json) |
 | Syberia 3: The Complete Journey | 124797 | [124797-syberia-3-the-complete-journey.json](./124797-syberia-3-the-complete-journey.json) |
+| Syberia II | 6185 | [6185-syberia-ii.json](./6185-syberia-ii.json) |
 | Syberia: 20th Anniversary Bundle | 202126 | [202126-syberia-20th-anniversary-bundle.json](./202126-syberia-20th-anniversary-bundle.json) |
 | Syberia: Remastered | 344050 | [344050-syberia-remastered.json](./344050-syberia-remastered.json) |
 | Sybil's Tail | 179657 | [179657-sybils-tail.json](./179657-sybils-tail.json) |
