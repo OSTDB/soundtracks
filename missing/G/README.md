@@ -363,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GalaxIverse II | 304895 | [304895-galaxiverse-ii.json](./304895-galaxiverse-ii.json) |
 | GalaxSeed | 97714 | [97714-galaxseed.json](./97714-galaxseed.json) |
 | Galaxy | 154578 | [154578-galaxy.json](./154578-galaxy.json) |
+| Galaxy | 24000 | [24000-galaxy.json](./24000-galaxy.json) |
 | Galaxy | 381043 | [381043-galaxy.json](./381043-galaxy.json) |
 | Galaxy Angel | 70414 | [70414-galaxy-angel.json](./70414-galaxy-angel.json) |
 | Galaxy Angel Game Boy Advance: Moridakusan Tenshi no Full Course Okawari Jiyuu | 49562 | [49562-galaxy-angel-game-boy-advance-moridakusan-tenshi-no-full-course-okawari-jiyuu.json](./49562-galaxy-angel-game-boy-advance-moridakusan-tenshi-no-full-course-okawari-jiyuu.json) |
@@ -2435,6 +2436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go, Smile | 246336 | [246336-go-smile.json](./246336-go-smile.json) |
 | Go! Benny! | 48321 | [48321-go-benny.json](./48321-go-benny.json) |
 | Go! Birdie | 146859 | [146859-go-birdie.json](./146859-go-birdie.json) |
+| Go! Dizzy Go! | 24013 | [24013-go-dizzy-go.json](./24013-go-dizzy-go.json) |
 | Go! George Go! | 300394 | [300394-go-george-go.json](./300394-go-george-go.json) |
 | Go! Go! Advance Drive: Muttsu no Machine ni Chousen Da! | 327588 | [327588-go-go-advance-drive-muttsu-no-machine-ni-chousen-da.json](./327588-go-go-advance-drive-muttsu-no-machine-ni-chousen-da.json) |
 | Go! Go! Digger | 227816 | [227816-go-go-digger.json](./227816-go-go-digger.json) |
@@ -4382,6 +4384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guacamelee! 2: Three Enemigos Character Pack | 155046 | [155046-guacamelee-2-three-enemigos-character-pack.json](./155046-guacamelee-2-three-enemigos-character-pack.json) |
 | Guacamelee! One-Two Punch Collection | 115023 | [115023-guacamelee-one-two-punch-collection.json](./115023-guacamelee-one-two-punch-collection.json) |
 | Guacamojo | 201693 | [201693-guacamojo.json](./201693-guacamojo.json) |
+| Guadalcanal Campaign | 23992 | [23992-guadalcanal-campaign.json](./23992-guadalcanal-campaign.json) |
 | Guàishòu | 277970 | [277970-guaishou.json](./277970-guaishou.json) |
 | Guānyú Sīmén Shì de Yīxiē Chuányán | 397690 | [397690-guanyu-simen-shi-de-yixie-chuanyan.json](./397690-guanyu-simen-shi-de-yixie-chuanyan.json) |
 | Guānyú Wǒ Bèi Xuéjiě Jiǎn Huí Jiā Dāng Nǚyǒu Zhè Jiàn Shì | 397226 | [397226-guanyu-wo-bei-xuejie-jian-hui-jia-dang-nuyou-zhe-jian-shi.json](./397226-guanyu-wo-bei-xuejie-jian-hui-jia-dang-nuyou-zhe-jian-shi.json) |
@@ -4945,6 +4948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gururin World | 286633 | [286633-gururin-world.json](./286633-gururin-world.json) |
 | Gusano Go | 183860 | [183860-gusano-go.json](./183860-gusano-go.json) |
 | Gust | 221130 | [221130-gust.json](./221130-gust.json) |
+| Gust Buster | 24007 | [24007-gust-buster.json](./24007-gust-buster.json) |
 | Gustavinho em O Enigma da Esfinge | 28043 | [28043-gustavinho-em-o-enigma-da-esfinge.json](./28043-gustavinho-em-o-enigma-da-esfinge.json) |
 | Gutasaga | 257439 | [257439-gutasaga.json](./257439-gutasaga.json) |
 | Gute Zeiten Schlechte Zeiten Quiz | 281539 | [281539-gute-zeiten-schlechte-zeiten-quiz.json](./281539-gute-zeiten-schlechte-zeiten-quiz.json) |
