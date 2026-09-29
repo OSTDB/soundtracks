@@ -1048,6 +1048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imaginary Golf Game | 413176 | [413176-imaginary-golf-game.json](./413176-imaginary-golf-game.json) |
 | Imaginary Realms Bundle | 166690 | [166690-imaginary-realms-bundle.json](./166690-imaginary-realms-bundle.json) |
 | Imaginary Spectacle Parade | 335425 | [335425-imaginary-spectacle-parade.json](./335425-imaginary-spectacle-parade.json) |
+| Imagination | 13007 | [13007-imagination.json](./13007-imagination.json) |
 | Imaginator | 122419 | [122419-imaginator.json](./122419-imaginator.json) |
 | Imagine Earth | 17111 | [17111-imagine-earth.json](./17111-imagine-earth.json) |
 | Imagine: Animal Doctor Care Center | 7948 | [7948-imagine-animal-doctor-care-center.json](./7948-imagine-animal-doctor-care-center.json) |
@@ -1401,6 +1402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inbox Unbox | 160239 | [160239-inbox-unbox.json](./160239-inbox-unbox.json) |
 | INC | 22331 | [22331-inc.json](./22331-inc.json) |
 | Inca | 25890 | [25890-inca.json](./25890-inca.json) |
+| Inca Curse | 13008 | [13008-inca-curse.json](./13008-inca-curse.json) |
 | Inca Gold | 97501 | [97501-inca-gold.json](./97501-inca-gold.json) |
 | Inca II | 45925 | [45925-inca-ii.json](./45925-inca-ii.json) |
 | Incandescent 2 | 113713 | [113713-incandescent-2.json](./113713-incandescent-2.json) |
