@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | \|\|[}}}°.•°.°•..°•°[\|\|\|{{{ | 141830 | [141830-.json](./141830-.json) |
 | $1 Ride | 31922 | [31922-1-ride.json](./31922-1-ride.json) |
 | $1,000,000 Kid: Maboroshi no Teiou-hen | 215126 | [215126-1-000-000-kid-maboroshi-no-teiou-hen.json](./215126-1-000-000-kid-maboroshi-no-teiou-hen.json) |
+| 0-ji no Kane to Cinderella: Halloween Wedding | 56549 | [56549-0-ji-no-kane-to-cinderella-halloween-wedding.json](./56549-0-ji-no-kane-to-cinderella-halloween-wedding.json) |
 | 0000 | 34228 | [34228-0000.json](./34228-0000.json) |
 | 000000052573743 | 216229 | [216229-000000052573743.json](./216229-000000052573743.json) |
 | 005 | 38521 | [38521-005.json](./38521-005.json) |
@@ -412,6 +413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12 Orbits | 90578 | [90578-12-orbits.json](./90578-12-orbits.json) |
 | 12 pm Break | 262992 | [262992-12-pm-break.json](./262992-12-pm-break.json) |
 | 12 Vengeful Ghosts | 305864 | [305864-12-vengeful-ghosts.json](./305864-12-vengeful-ghosts.json) |
+| 12-ji no Kane to Cinderella ~Halloween Wedding~ | 56552 | [56552-12-ji-no-kane-to-cinderella-halloween-wedding.json](./56552-12-ji-no-kane-to-cinderella-halloween-wedding.json) |
 | 12-sai: Koi Suru Diary | 98417 | [98417-12-sai-koi-suru-diary.json](./98417-12-sai-koi-suru-diary.json) |
 | 1201 | 252993 | [252993-1201.json](./252993-1201.json) |
 | 1213: Episode 1 | 69821 | [69821-1213-episode-1.json](./69821-1213-episode-1.json) |
@@ -699,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 24 Lustful Hours | 382296 | [382296-24-lustful-hours.json](./382296-24-lustful-hours.json) |
 | 24 Puzzle | 357972 | [357972-24-puzzle.json](./357972-24-puzzle.json) |
 | 24 Solar Terms | 158663 | [158663-24-solar-terms.json](./158663-24-solar-terms.json) |
+| 24-ji no Kane to Cinderella ~Halloween Wedding~ | 56551 | [56551-24-ji-no-kane-to-cinderella-halloween-wedding.json](./56551-24-ji-no-kane-to-cinderella-halloween-wedding.json) |
 | 24: Special Ops | 91747 | [91747-24-special-ops.json](./91747-24-special-ops.json) |
 | 24/7 Solitaire | 78758 | [78758-24-7-solitaire.json](./78758-24-7-solitaire.json) |
 | 240p Test Suite | 292078 | [292078-240p-test-suite.json](./292078-240p-test-suite.json) |
