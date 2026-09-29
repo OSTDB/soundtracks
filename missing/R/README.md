@@ -2023,6 +2023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflect-on | 157569 | [157569-reflect-on.json](./157569-reflect-on.json) |
 | Reflected | 163398 | [163398-reflected.json](./163398-reflected.json) |
 | Reflectile | 247546 | [247546-reflectile.json](./247546-reflectile.json) |
+| Reflecting Fate | 43434 | [43434-reflecting-fate.json](./43434-reflecting-fate.json) |
 | Reflection | 201694 | [201694-reflection.json](./201694-reflection.json) |
 | Reflection Link | 303061 | [303061-reflection-link.json](./303061-reflection-link.json) |
 | Reflection of Loneliness | 184576 | [184576-reflection-of-loneliness.json](./184576-reflection-of-loneliness.json) |
@@ -3100,6 +3101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythmcremental | 176462 | [176462-rhythmcremental.json](./176462-rhythmcremental.json) |
 | Rhythmetric | 364572 | [364572-rhythmetric.json](./364572-rhythmetric.json) |
 | Rhythmic Retro Racer | 129664 | [129664-rhythmic-retro-racer.json](./129664-rhythmic-retro-racer.json) |
+| Rhythmic Star! | 43468 | [43468-rhythmic-star.json](./43468-rhythmic-star.json) |
 | Rhythmos | 194291 | [194291-rhythmos.json](./194291-rhythmos.json) |
 | RhythmPG | 179610 | [179610-rhythmpg.json](./179610-rhythmpg.json) |
 | Rhythmscapes | 317017 | [317017-rhythmscapes.json](./317017-rhythmscapes.json) |
@@ -4123,6 +4125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roboto | 384788 | [384788-roboto.json](./384788-roboto.json) |
 | Robotragedy | 171546 | [171546-robotragedy.json](./171546-robotragedy.json) |
 | Robotragedy 2: Countdown to Doomsday | 171548 | [171548-robotragedy-2-countdown-to-doomsday.json](./171548-robotragedy-2-countdown-to-doomsday.json) |
+| RoboTraps | 43429 | [43429-robotraps.json](./43429-robotraps.json) |
 | Robotron: 2084 | 3592 | [3592-robotron-2084.json](./3592-robotron-2084.json) |
 | Robots 2 Unknown World | 105369 | [105369-robots-2-unknown-world.json](./105369-robots-2-unknown-world.json) |
 | Robots and Planets | 347361 | [347361-robots-and-planets.json](./347361-robots-and-planets.json) |
@@ -4143,6 +4146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robox | 66748 | [66748-robox.json](./66748-robox.json) |
 | Robozarro 2: Operation Atlantic | 187386 | [187386-robozarro-2-operation-atlantic.json](./187386-robozarro-2-operation-atlantic.json) |
 | RoboZone | 72335 | [72335-robozone.json](./72335-robozone.json) |
+| RoBros | 43442 | [43442-robros.json](./43442-robros.json) |
 | Robscarf | 180619 | [180619-robscarf.json](./180619-robscarf.json) |
 | Robsu e o Caminho da Água | 142249 | [142249-robsu-e-o-caminho-da-agua.json](./142249-robsu-e-o-caminho-da-agua.json) |
 | Roburst | 199647 | [199647-roburst.json](./199647-roburst.json) |
