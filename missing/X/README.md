@@ -255,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xelphi: Second Limit | 213894 | [213894-xelphi-second-limit.json](./213894-xelphi-second-limit.json) |
 | Xemo: Robot Sim | 30939 | [30939-xemo-robot-sim.json](./30939-xemo-robot-sim.json) |
 | Xena: The Warrior Princess | 205821 | [205821-xena-the-warrior-princess.json](./205821-xena-the-warrior-princess.json) |
+| Xena: Warrior Princess | 3648 | [3648-xena-warrior-princess.json](./3648-xena-warrior-princess.json) |
 | Xena: Warrior Princess - Death in Chains | 205822 | [205822-xena-warrior-princess-death-in-chains.json](./205822-xena-warrior-princess-death-in-chains.json) |
 | Xena: Warrior Princess - Girls Just Wanna Have Fun | 205823 | [205823-xena-warrior-princess-girls-just-wanna-have-fun.json](./205823-xena-warrior-princess-girls-just-wanna-have-fun.json) |
 | Xena: Warrior Princess - The Talisman of Fate | 3647 | [3647-xena-warrior-princess-the-talisman-of-fate.json](./3647-xena-warrior-princess-the-talisman-of-fate.json) |
