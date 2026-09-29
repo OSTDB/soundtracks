@@ -1992,6 +1992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Lady! | 95168 | [95168-hello-lady.json](./95168-hello-lady.json) |
 | Hello Lady! Complete Edition | 187447 | [187447-hello-lady-complete-edition.json](./187447-hello-lady-complete-edition.json) |
 | Hello Loaf | 367496 | [367496-hello-loaf.json](./367496-hello-loaf.json) |
+| Hello Neighbor | 18167 | [18167-hello-neighbor.json](./18167-hello-neighbor.json) |
 | Hello Neighbor 2 | 135991 | [135991-hello-neighbor-2.json](./135991-hello-neighbor-2.json) |
 | Hello Neighbor 2: Deluxe Edition | 196805 | [196805-hello-neighbor-2-deluxe-edition.json](./196805-hello-neighbor-2-deluxe-edition.json) |
 | Hello Neighbor Bundle | 118852 | [118852-hello-neighbor-bundle.json](./118852-hello-neighbor-bundle.json) |
@@ -4115,6 +4116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homecoming | 271314 | [271314-homecoming.json](./271314-homecoming.json) |
 | Homecoming: Kitaku | 323708 | [323708-homecoming-kitaku.json](./323708-homecoming-kitaku.json) |
 | Homefront | 1885 | [1885-homefront.json](./1885-homefront.json) |
+| Homefront: The Revolution | 1886 | [1886-homefront-the-revolution.json](./1886-homefront-the-revolution.json) |
 | Homefront: The Revolution - Aftermath | 53206 | [53206-homefront-the-revolution-aftermath.json](./53206-homefront-the-revolution-aftermath.json) |
 | Homefront: The Revolution - Beyond the Walls | 53207 | [53207-homefront-the-revolution-beyond-the-walls.json](./53207-homefront-the-revolution-beyond-the-walls.json) |
 | Homefront: The Revolution - The Voice Of Freedom | 53205 | [53205-homefront-the-revolution-the-voice-of-freedom.json](./53205-homefront-the-revolution-the-voice-of-freedom.json) |
@@ -4846,6 +4848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Designer 2 | 274026 | [274026-house-designer-2.json](./274026-house-designer-2.json) |
 | House Designer: Fix & Flip | 107134 | [107134-house-designer-fix-and-flip.json](./107134-house-designer-fix-and-flip.json) |
 | House Fixer Simulator | 401125 | [401125-house-fixer-simulator.json](./401125-house-fixer-simulator.json) |
+| House Flipper | 27744 | [27744-house-flipper.json](./27744-house-flipper.json) |
 | House Flipper 2 | 191797 | [191797-house-flipper-2.json](./191797-house-flipper-2.json) |
 | House Flipper 2: Co-op DLC | 402395 | [402395-house-flipper-2-co-op-dlc.json](./402395-house-flipper-2-co-op-dlc.json) |
 | House Flipper 2: Pets | 370700 | [370700-house-flipper-2-pets.json](./370700-house-flipper-2-pets.json) |
