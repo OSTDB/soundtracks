@@ -2483,6 +2483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mate-in-Two | 347703 | [347703-mate-in-two.json](./347703-mate-in-two.json) |
 | Matel Gear II | 267366 | [267366-matel-gear-ii.json](./267366-matel-gear-ii.json) |
 | Maten Densetsu: Senritsu no Ooparts | 37931 | [37931-maten-densetsu-senritsu-no-ooparts.json](./37931-maten-densetsu-senritsu-no-ooparts.json) |
+| Maten no Soumetsu | 46073 | [46073-maten-no-soumetsu.json](./46073-maten-no-soumetsu.json) |
 | Matendouji | 215140 | [215140-matendouji.json](./215140-matendouji.json) |
 | Material Brave | 180612 | [180612-material-brave.json](./180612-material-brave.json) |
 | Materialization of Memories | 248019 | [248019-materialization-of-memories.json](./248019-materialization-of-memories.json) |
@@ -3614,6 +3615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megazone 23: Aoi Garland | 7366 | [7366-megazone-23-aoi-garland.json](./7366-megazone-23-aoi-garland.json) |
 | Megdan | 298549 | [298549-megdan.json](./298549-megdan.json) |
 | Megis Adventure | 312670 | [312670-megis-adventure.json](./312670-megis-adventure.json) |
+| Megumi Rescue | 46139 | [46139-megumi-rescue.json](./46139-megumi-rescue.json) |
 | Megumichan Ijiwaru? Soretomo Kawaigaru? | 98041 | [98041-megumichan-ijiwaru-soretomo-kawaigaru.json](./98041-megumichan-ijiwaru-soretomo-kawaigaru.json) |
 | Megurine Luka no Jikenbo | 264358 | [264358-megurine-luka-no-jikenbo.json](./264358-megurine-luka-no-jikenbo.json) |
 | Mei Paranormies 2 | 410236 | [410236-mei-paranormies-2.json](./410236-mei-paranormies-2.json) |
@@ -7120,6 +7122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Montezuma's Quest | 146738 | [146738-montezumas-quest.json](./146738-montezumas-quest.json) |
 | Montezuma's Return! | 135103 | [135103-montezumas-return.json](./135103-montezumas-return.json) |
 | Montezuma's Return! | 36903 | [36903-montezumas-return.json](./36903-montezumas-return.json) |
+| Montezuma's Revenge Featuring Panama Joe | 46138 | [46138-montezumas-revenge-featuring-panama-joe.json](./46138-montezumas-revenge-featuring-panama-joe.json) |
 | Montezuma's Revenge: 8-Bit Edition | 234623 | [234623-montezumas-revenge-8-bit-edition.json](./234623-montezumas-revenge-8-bit-edition.json) |
 | Montgomery Fox and the Revenge of Victor Draven | 226321 | [226321-montgomery-fox-and-the-revenge-of-victor-draven.json](./226321-montgomery-fox-and-the-revenge-of-victor-draven.json) |
 | Monthly Dystopia | 232397 | [232397-monthly-dystopia.json](./232397-monthly-dystopia.json) |
@@ -8115,6 +8118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Tiny Adventures | 231848 | [231848-mr-tiny-adventures.json](./231848-mr-tiny-adventures.json) |
 | Mr. Transporter - Truck Driving Simulator | 88735 | [88735-mr-transporter-truck-driving-simulator.json](./88735-mr-transporter-truck-driving-simulator.json) |
 | Mr. Whiskers Bubbles | 385088 | [385088-mr-whiskers-bubbles.json](./385088-mr-whiskers-bubbles.json) |
+| Mr. Wimpy | 46079 | [46079-mr-wimpy.json](./46079-mr-wimpy.json) |
 | Mr. Wings | 255714 | [255714-mr-wings.json](./255714-mr-wings.json) |
 | Mr. Wiz | 128447 | [128447-mr-wiz.json](./128447-mr-wiz.json) |
 | Mr. Woodpecker | 298648 | [298648-mr-woodpecker.json](./298648-mr-woodpecker.json) |
