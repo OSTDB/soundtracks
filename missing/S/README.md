@@ -5505,8 +5505,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skulltiverse II | 388719 | [388719-skulltiverse-ii.json](./388719-skulltiverse-ii.json) |
 | Skully Bunnies | 335287 | [335287-skully-bunnies.json](./335287-skully-bunnies.json) |
 | Skullz | 178551 | [178551-skullz.json](./178551-skullz.json) |
+| Skunny Kart | 46731 | [46731-skunny-kart.json](./46731-skunny-kart.json) |
 | Skunny: Lost in Space | 68705 | [68705-skunny-lost-in-space.json](./68705-skunny-lost-in-space.json) |
 | Skunny: Save Our Pizzas! | 73839 | [73839-skunny-save-our-pizzas.json](./73839-skunny-save-our-pizzas.json) |
+| Skunny: Special Edition | 46732 | [46732-skunny-special-edition.json](./46732-skunny-special-edition.json) |
 | Skunny's Desert Raid | 71045 | [71045-skunnys-desert-raid.json](./71045-skunnys-desert-raid.json) |
 | Sky Aces | 343990 | [343990-sky-aces.json](./343990-sky-aces.json) |
 | Sky Aces | 54365 | [54365-sky-aces.json](./54365-sky-aces.json) |
@@ -9295,6 +9297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed DX | 261254 | [261254-speed-dx.json](./261254-speed-dx.json) |
 | Speed Elixir | 19447 | [19447-speed-elixir.json](./19447-speed-elixir.json) |
 | Speed Factor | 378777 | [378777-speed-factor.json](./378777-speed-factor.json) |
+| Speed Freak | 46764 | [46764-speed-freak.json](./46764-speed-freak.json) |
 | Speed Guess: Something | 323188 | [323188-speed-guess-something.json](./323188-speed-guess-something.json) |
 | Speed Hero vs. Mega Ramp | 101985 | [101985-speed-hero-vs-mega-ramp.json](./101985-speed-hero-vs-mega-ramp.json) |
 | Speed High | 240355 | [240355-speed-high.json](./240355-speed-high.json) |
@@ -9901,6 +9904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob Laptop | 293737 | [293737-spongebob-laptop.json](./293737-spongebob-laptop.json) |
 | SpongeBob SolitairePants | 294177 | [294177-spongebob-solitairepants.json](./294177-spongebob-solitairepants.json) |
 | SpongeBob SquarePants | 220120 | [220120-spongebob-squarepants.json](./220120-spongebob-squarepants.json) |
+| SpongeBob SquarePants 3D Obstacle Odyssey | 46728 | [46728-spongebob-squarepants-3d-obstacle-odyssey.json](./46728-spongebob-squarepants-3d-obstacle-odyssey.json) |
 | SpongeBob SquarePants Boating School | 382924 | [382924-spongebob-squarepants-boating-school.json](./382924-spongebob-squarepants-boating-school.json) |
 | SpongeBob SquarePants Bubble Ball | 382921 | [382921-spongebob-squarepants-bubble-ball.json](./382921-spongebob-squarepants-bubble-ball.json) |
 | SpongeBob SquarePants Bubblegram | 382926 | [382926-spongebob-squarepants-bubblegram.json](./382926-spongebob-squarepants-bubblegram.json) |
@@ -14567,6 +14571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Skull Smash GO! 2 Turbo | 90127 | [90127-super-skull-smash-go-2-turbo.json](./90127-super-skull-smash-go-2-turbo.json) |
 | Super Sky Arena | 9569 | [9569-super-sky-arena.json](./9569-super-sky-arena.json) |
 | Super Skyland | 175406 | [175406-super-skyland.json](./175406-super-skyland.json) |
+| Super Slam | 46794 | [46794-super-slam.json](./46794-super-slam.json) |
 | Super Slam Dunk Touchdown | 27664 | [27664-super-slam-dunk-touchdown.json](./27664-super-slam-dunk-touchdown.json) |
 | Super Slap Shot | 94561 | [94561-super-slap-shot.json](./94561-super-slap-shot.json) |
 | Super Slide 64 | 135179 | [135179-super-slide-64.json](./135179-super-slide-64.json) |
@@ -15077,6 +15082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surgical Strike | 298295 | [298295-surgical-strike.json](./298295-surgical-strike.json) |
 | Surgineer | 223145 | [223145-surgineer.json](./223145-surgineer.json) |
 | Surging Blood | 386891 | [386891-surging-blood.json](./386891-surging-blood.json) |
+| Surprise Attack | 46783 | [46783-surprise-attack.json](./46783-surprise-attack.json) |
 | Surprise Cat | 213593 | [213593-surprise-cat.json](./213593-surprise-cat.json) |
 | Surprise Party! | 164907 | [164907-surprise-party.json](./164907-surprise-party.json) |
 | Surprising Laws Around the World True or False Quiz | 401096 | [401096-surprising-laws-around-the-world-true-or-false-quiz.json](./401096-surprising-laws-around-the-world-true-or-false-quiz.json) |
