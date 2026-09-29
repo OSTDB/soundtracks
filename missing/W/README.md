@@ -3921,6 +3921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worm Run | 196173 | [196173-worm-run.json](./196173-worm-run.json) |
 | Worm Runner | 207354 | [207354-worm-runner.json](./207354-worm-runner.json) |
 | Worm Visitor | 210645 | [210645-worm-visitor.json](./210645-worm-visitor.json) |
+| Worm War I | 22556 | [22556-worm-war-i.json](./22556-worm-war-i.json) |
 | Worm War: Greengrocer | 290420 | [290420-worm-war-greengrocer.json](./290420-worm-war-greengrocer.json) |
 | Wormatozoa | 190722 | [190722-wormatozoa.json](./190722-wormatozoa.json) |
 | Wormax.io | 115449 | [115449-wormax-io.json](./115449-wormax-io.json) |
