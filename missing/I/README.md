@@ -1920,6 +1920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Injustice: Gods Among Us - Teen Titans Skins | 75469 | [75469-injustice-gods-among-us-teen-titans-skins.json](./75469-injustice-gods-among-us-teen-titans-skins.json) |
 | Injustice: Gods Among Us - The Man of Steel Pack: Superman | 75488 | [75488-injustice-gods-among-us-the-man-of-steel-pack-superman.json](./75488-injustice-gods-among-us-the-man-of-steel-pack-superman.json) |
 | Injustice: Gods Among Us - The Man of Steel: Zod | 75481 | [75481-injustice-gods-among-us-the-man-of-steel-zod.json](./75481-injustice-gods-among-us-the-man-of-steel-zod.json) |
+| Injustice: Gods Among Us - Ultimate Edition | 23354 | [23354-injustice-gods-among-us-ultimate-edition.json](./23354-injustice-gods-among-us-ultimate-edition.json) |
 | Injustice: Gods Among Us - Zatanna | 75465 | [75465-injustice-gods-among-us-zatanna.json](./75465-injustice-gods-among-us-zatanna.json) |
 | Ink & Paper: DoodleCut - Animals DLC | 385181 | [385181-ink-and-paper-doodlecut-animals-dlc.json](./385181-ink-and-paper-doodlecut-animals-dlc.json) |
 | Ink & Paper: DoodleCut - Complete Edition | 385202 | [385202-ink-and-paper-doodlecut-complete-edition.json](./385202-ink-and-paper-doodlecut-complete-edition.json) |
