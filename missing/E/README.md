@@ -1279,6 +1279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency Crew 4: Call of the Ancestors | 360663 | [360663-emergency-crew-4-call-of-the-ancestors.json](./360663-emergency-crew-4-call-of-the-ancestors.json) |
 | Emergency Exit | 329160 | [329160-emergency-exit.json](./329160-emergency-exit.json) |
 | Emergency Fire Helicopter Simulator 3D | 108451 | [108451-emergency-fire-helicopter-simulator-3d.json](./108451-emergency-fire-helicopter-simulator-3d.json) |
+| Emergency Fire Response | 22633 | [22633-emergency-fire-response.json](./22633-emergency-fire-response.json) |
 | Emergency in Space | 310744 | [310744-emergency-in-space.json](./310744-emergency-in-space.json) |
 | Emergency Lüdenscheid | 346128 | [346128-emergency-ludenscheid.json](./346128-emergency-ludenscheid.json) |
 | Emergency Robot Simulator | 102183 | [102183-emergency-robot-simulator.json](./102183-emergency-robot-simulator.json) |
