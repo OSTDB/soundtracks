@@ -4545,7 +4545,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lux: Dream.Girl | 280928 | [280928-lux-dream-girl.json](./280928-lux-dream-girl.json) |
 | Luxcustos | 322605 | [322605-luxcustos.json](./322605-luxcustos.json) |
 | Luxor 2 HD | 30226 | [30226-luxor-2-hd.json](./30226-luxor-2-hd.json) |
+| Luxor Adventures | 7540 | [7540-luxor-adventures.json](./7540-luxor-adventures.json) |
 | Luxor Pharaoh's Challenge | 42879 | [42879-luxor-pharaohs-challenge.json](./42879-luxor-pharaohs-challenge.json) |
+| Luxor: Amun Rising | 7538 | [7538-luxor-amun-rising.json](./7538-luxor-amun-rising.json) |
 | Luxor: Mah Jong | 16004 | [16004-luxor-mah-jong.json](./16004-luxor-mah-jong.json) |
 | Luxor: The Wrath of Set | 42766 | [42766-luxor-the-wrath-of-set.json](./42766-luxor-the-wrath-of-set.json) |
 | Luxoral Prime | 168139 | [168139-luxoral-prime.json](./168139-luxoral-prime.json) |
