@@ -711,6 +711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capsule Jump | 86564 | [86564-capsule-jump.json](./86564-capsule-jump.json) |
 | Capsule Rush | 218710 | [218710-capsule-rush.json](./218710-capsule-rush.json) |
 | Capsule Servant | 121441 | [121441-capsule-servant.json](./121441-capsule-servant.json) |
+| Capsule Silence XXIV | 58737 | [58737-capsule-silence-xxiv.json](./58737-capsule-silence-xxiv.json) |
 | Capt Crabs a Slimy Adventure | 249821 | [249821-capt-crabs-a-slimy-adventure.json](./249821-capt-crabs-a-slimy-adventure.json) |
 | Captain 25 | 346086 | [346086-captain-25.json](./346086-captain-25.json) |
 | Captain A-Hole's Guide To Getting Old(er) | 279681 | [279681-captain-a-holes-guide-to-getting-old-er.json](./279681-captain-a-holes-guide-to-getting-old-er.json) |
@@ -6139,6 +6140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cool Lady | 259026 | [259026-cool-lady.json](./259026-cool-lady.json) |
 | Cool People Club | 211762 | [211762-cool-people-club.json](./211762-cool-people-club.json) |
 | Cool Pizza | 172700 | [172700-cool-pizza.json](./172700-cool-pizza.json) |
+| Cool Riders | 58740 | [58740-cool-riders.json](./58740-cool-riders.json) |
 | Cool Shot | 66955 | [66955-cool-shot.json](./66955-cool-shot.json) |
 | Cool Spot | 2621 | [2621-cool-spot.json](./2621-cool-spot.json) |
 | Cool Spot | 307083 | [307083-cool-spot.json](./307083-cool-spot.json) |
