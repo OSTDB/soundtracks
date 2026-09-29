@@ -207,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkie 64 | 224788 | [224788-valkie-64.json](./224788-valkie-64.json) |
 | Valkyria Chronicles 2 | 14674 | [14674-valkyria-chronicles-2.json](./14674-valkyria-chronicles-2.json) |
 | Valkyria Chronicles 2: DLC Pack 2 | 138838 | [138838-valkyria-chronicles-2-dlc-pack-2.json](./138838-valkyria-chronicles-2-dlc-pack-2.json) |
+| Valkyria Chronicles 3: Extra Edition | 38466 | [38466-valkyria-chronicles-3-extra-edition.json](./38466-valkyria-chronicles-3-extra-edition.json) |
 | Valkyria Chronicles 4 | 75848 | [75848-valkyria-chronicles-4.json](./75848-valkyria-chronicles-4.json) |
 | Valkyria Chronicles 4: A Captainless Squad | 238635 | [238635-valkyria-chronicles-4-a-captainless-squad.json](./238635-valkyria-chronicles-4-a-captainless-squad.json) |
 | Valkyria Chronicles 4: Advance Ops | 304734 | [304734-valkyria-chronicles-4-advance-ops.json](./304734-valkyria-chronicles-4-advance-ops.json) |
@@ -217,6 +218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyria Chronicles: Challenge of the Edy Detachment | 138837 | [138837-valkyria-chronicles-challenge-of-the-edy-detachment.json](./138837-valkyria-chronicles-challenge-of-the-edy-detachment.json) |
 | Valkyria Chronicles: Edy's Mission "Enter the Edy Detachment" | 138834 | [138834-valkyria-chronicles-edys-mission-enter-the-edy-detachment.json](./138834-valkyria-chronicles-edys-mission-enter-the-edy-detachment.json) |
 | Valkyria Chronicles: Hard EX Mode | 138836 | [138836-valkyria-chronicles-hard-ex-mode.json](./138836-valkyria-chronicles-hard-ex-mode.json) |
+| Valkyria Chronicles: Remastered - Steelbook Edition | 38491 | [38491-valkyria-chronicles-remastered-steelbook-edition.json](./38491-valkyria-chronicles-remastered-steelbook-edition.json) |
 | Valkyria Chronicles: Selveria's Mission - Behind Her Blue Flame | 138835 | [138835-valkyria-chronicles-selverias-mission-behind-her-blue-flame.json](./138835-valkyria-chronicles-selverias-mission-behind-her-blue-flame.json) |
 | Valkyria Revolution Scenario Pack: Maxim and Remembrance | 138818 | [138818-valkyria-revolution-scenario-pack-maxim-and-remembrance.json](./138818-valkyria-revolution-scenario-pack-maxim-and-remembrance.json) |
 | Valkyria Revolution Scenario Pack: Princess and Valkyria DLC | 138815 | [138815-valkyria-revolution-scenario-pack-princess-and-valkyria-dlc.json](./138815-valkyria-revolution-scenario-pack-princess-and-valkyria-dlc.json) |
