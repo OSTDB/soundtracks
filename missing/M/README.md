@@ -618,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Survivor Undead | 333399 | [333399-magic-survivor-undead.json](./333399-magic-survivor-undead.json) |
 | Magic Survivors | 314470 | [314470-magic-survivors.json](./314470-magic-survivors.json) |
 | Magic Survivors | 355198 | [355198-magic-survivors.json](./355198-magic-survivors.json) |
+| Magic Sword | 71549 | [71549-magic-sword.json](./71549-magic-sword.json) |
 | Magic Synthesis | 103449 | [103449-magic-synthesis.json](./103449-magic-synthesis.json) |
 | Magic Synthesis | 103487 | [103487-magic-synthesis.json](./103487-magic-synthesis.json) |
 | Magic Tales: Baba Yaga and the Magic Geese | 297654 | [297654-magic-tales-baba-yaga-and-the-magic-geese.json](./297654-magic-tales-baba-yaga-and-the-magic-geese.json) |
@@ -5477,6 +5478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Phantom Frames | 324890 | [324890-minecraft-phantom-frames.json](./324890-minecraft-phantom-frames.json) |
 | Minecraft: Pirates of the Caribbean Mash-up | 235328 | [235328-minecraft-pirates-of-the-caribbean-mash-up.json](./235328-minecraft-pirates-of-the-caribbean-mash-up.json) |
 | Minecraft: Plastic Texture Pack | 255347 | [255347-minecraft-plastic-texture-pack.json](./255347-minecraft-plastic-texture-pack.json) |
+| Minecraft: PlayStation 4 Edition | 93620 | [93620-minecraft-playstation-4-edition.json](./93620-minecraft-playstation-4-edition.json) |
 | Minecraft: Power Grid Hero | 315516 | [315516-minecraft-power-grid-hero.json](./315516-minecraft-power-grid-hero.json) |
 | Minecraft: Quantum Realm | 333582 | [333582-minecraft-quantum-realm.json](./333582-minecraft-quantum-realm.json) |
 | Minecraft: Skin Pack 3 - Classic | 316749 | [316749-minecraft-skin-pack-3-classic.json](./316749-minecraft-skin-pack-3-classic.json) |
@@ -9241,6 +9243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Pizza Story | 248101 | [248101-my-pizza-story.json](./248101-my-pizza-story.json) |
 | My Pleasure: Season 3 | 270975 | [270975-my-pleasure-season-3.json](./270975-my-pleasure-season-3.json) |
 | My Plushy Shift | 324875 | [324875-my-plushy-shift.json](./324875-my-plushy-shift.json) |
+| My Pokémon Ranch | 4563 | [4563-my-pokemon-ranch.json](./4563-my-pokemon-ranch.json) |
 | My Pretend Fairytale Land | 299224 | [299224-my-pretend-fairytale-land.json](./299224-my-pretend-fairytale-land.json) |
 | My Pretend Family | 299223 | [299223-my-pretend-family.json](./299223-my-pretend-family.json) |
 | My Pretend Halloween Town | 299222 | [299222-my-pretend-halloween-town.json](./299222-my-pretend-halloween-town.json) |
