@@ -503,6 +503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can't Stand The Heat | 295007 | [295007-cant-stand-the-heat.json](./295007-cant-stand-the-heat.json) |
 | Can't Stop Running | 391080 | [391080-cant-stop-running.json](./391080-cant-stop-running.json) |
 | Can't You Run? | 343850 | [343850-cant-you-run.json](./343850-cant-you-run.json) |
+| Canabalt | 2270 | [2270-canabalt.json](./2270-canabalt.json) |
 | Canada 150 Trivia Quiz | 54544 | [54544-canada-150-trivia-quiz.json](./54544-canada-150-trivia-quiz.json) |
 | Canada Break | 208582 | [208582-canada-break.json](./208582-canada-break.json) |
 | Canada Break: Head to Head | 209618 | [209618-canada-break-head-to-head.json](./209618-canada-break-head-to-head.json) |
