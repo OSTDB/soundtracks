@@ -306,6 +306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaga Arrangement | 132113 | [132113-galaga-arrangement.json](./132113-galaga-arrangement.json) |
 | Galaga Arrangement | 178409 | [178409-galaga-arrangement.json](./178409-galaga-arrangement.json) |
 | Galaga Assault | 58475 | [58475-galaga-assault.json](./58475-galaga-assault.json) |
+| Galaga Wars | 58309 | [58309-galaga-wars.json](./58309-galaga-wars.json) |
 | Galaga Wars+ | 291975 | [291975-galaga-wars.json](./291975-galaga-wars.json) |
 | Galaga Wave Mixer | 339253 | [339253-galaga-wave-mixer.json](./339253-galaga-wave-mixer.json) |
 | Galaga: Destination Earth | 12895 | [12895-galaga-destination-earth.json](./12895-galaga-destination-earth.json) |
@@ -3110,6 +3111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gordian Snake | 139319 | [139319-gordian-snake.json](./139319-gordian-snake.json) |
 | Gordian Tomb | 73850 | [73850-gordian-tomb.json](./73850-gordian-tomb.json) |
 | Gordon and the Light Within | 334691 | [334691-gordon-and-the-light-within.json](./334691-gordon-and-the-light-within.json) |
+| Gordon Ramsay Dash | 58306 | [58306-gordon-ramsay-dash.json](./58306-gordon-ramsay-dash.json) |
 | Gore | 371991 | [371991-gore.json](./371991-gore.json) |
 | Gore Crush | 323728 | [323728-gore-crush.json](./323728-gore-crush.json) |
 | Goreagulation | 223461 | [223461-goreagulation.json](./223461-goreagulation.json) |
@@ -4193,8 +4195,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groove Coaster: Wai Wai Party!!!! - Vocaloid Pack 5 | 237880 | [237880-groove-coaster-wai-wai-party-vocaloid-pack-5.json](./237880-groove-coaster-wai-wai-party-vocaloid-pack-5.json) |
 | Groove Coaster: Wai Wai Party!!!! - Vocaloid Pack 9 | 283180 | [283180-groove-coaster-wai-wai-party-vocaloid-pack-9.json](./283180-groove-coaster-wai-wai-party-vocaloid-pack-9.json) |
 | Groove Coaster: Wai Wai Party!!!! - Wacca + Hardcore Tano*c Pack | 237881 | [237881-groove-coaster-wai-wai-party-wacca-hardcore-tano-c-pack.json](./237881-groove-coaster-wai-wai-party-wacca-hardcore-tano-c-pack.json) |
+| Groove Galaxy | 58280 | [58280-groove-galaxy.json](./58280-groove-galaxy.json) |
 | Groove Gunner | 112778 | [112778-groove-gunner.json](./112778-groove-gunner.json) |
 | Groove In The Grove | 376712 | [376712-groove-in-the-grove.json](./376712-groove-in-the-grove.json) |
+| Groove Planet | 58279 | [58279-groove-planet.json](./58279-groove-planet.json) |
 | Groove Runner | 130961 | [130961-groove-runner.json](./130961-groove-runner.json) |
 | Groove that Goob | 285972 | [285972-groove-that-goob.json](./285972-groove-that-goob.json) |
 | Groovekeeper: Sort the Record Shop | 415165 | [415165-groovekeeper-sort-the-record-shop.json](./415165-groovekeeper-sort-the-record-shop.json) |
