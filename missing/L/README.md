@@ -2988,6 +2988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lober Lobe | 311475 | [311475-lober-lobe.json](./311475-lober-lobe.json) |
 | Lobo | 86130 | [86130-lobo.json](./86130-lobo.json) |
 | Lobotrypo | 332254 | [332254-lobotrypo.json](./332254-lobotrypo.json) |
+| Lobster Bay | 42145 | [42145-lobster-bay.json](./42145-lobster-bay.json) |
 | Lobster Empire | 52769 | [52769-lobster-empire.json](./52769-lobster-empire.json) |
 | Lobster Game | 190469 | [190469-lobster-game.json](./190469-lobster-game.json) |
 | Loca-Love My Commuting Crush | 120792 | [120792-loca-love-my-commuting-crush.json](./120792-loca-love-my-commuting-crush.json) |
@@ -3060,6 +3061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LOCO Online | 361771 | [361771-loco-online.json](./361771-loco-online.json) |
 | Loco Parentis | 117810 | [117810-loco-parentis.json](./117810-loco-parentis.json) |
 | Loco-Coconuts | 246495 | [246495-loco-coconuts.json](./246495-loco-coconuts.json) |
+| Loco-Motion | 42161 | [42161-loco-motion.json](./42161-loco-motion.json) |
 | Loco-Motion | 5681 | [5681-loco-motion.json](./5681-loco-motion.json) |
 | Loco-Sort | 272265 | [272265-loco-sort.json](./272265-loco-sort.json) |
 | Loco: Rails & Tails | 381632 | [381632-loco-rails-and-tails.json](./381632-loco-rails-and-tails.json) |
