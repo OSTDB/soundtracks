@@ -2211,7 +2211,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mashiroiro Symphony: Mutsu-no-hana - Limited Edition | 413747 | [413747-mashiroiro-symphony-mutsu-no-hana-limited-edition.json](./413747-mashiroiro-symphony-mutsu-no-hana-limited-edition.json) |
 | Mashou Denki: La Valeur | 137528 | [137528-mashou-denki-la-valeur.json](./137528-mashou-denki-la-valeur.json) |
 | Mashou Hime Tiruana Haramase Saimin: Ningen o Shiitageru Mazoku no Hime ga Anji Hitotsu de Niku Gangu ni Naru | 59027 | [59027-mashou-hime-tiruana-haramase-saimin-ningen-o-shiitageru-mazoku-no-hime-ga-anji-hitotsu-de-niku-gangu-ni-naru.json](./59027-mashou-hime-tiruana-haramase-saimin-ningen-o-shiitageru-mazoku-no-hime-ga-anji-hitotsu-de-niku-gangu-ni-naru.json) |
+| Mask | 39126 | [39126-mask.json](./39126-mask.json) |
 | Mask Fighting:Otherworldly Awakening | 357809 | [357809-mask-fighting-otherworldly-awakening.json](./357809-mask-fighting-otherworldly-awakening.json) |
+| Mask II | 39125 | [39125-mask-ii.json](./39125-mask-ii.json) |
 | Mask of Fury | 125434 | [125434-mask-of-fury.json](./125434-mask-of-fury.json) |
 | Mask of Lion | 233626 | [233626-mask-of-lion.json](./233626-mask-of-lion.json) |
 | Mask of Sanity | 121696 | [121696-mask-of-sanity.json](./121696-mask-of-sanity.json) |
@@ -2427,7 +2429,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match 3x3 Collection | 93972 | [93972-match-3x3-collection.json](./93972-match-3x3-collection.json) |
 | Match App! | 347340 | [347340-match-app.json](./347340-match-app.json) |
 | Match Connect Challenge | 99150 | [99150-match-connect-challenge.json](./99150-match-connect-challenge.json) |
+| Match Day | 39123 | [39123-match-day.json](./39123-match-day.json) |
 | Match Day & International Match Day | 403172 | [403172-match-day-and-international-match-day.json](./403172-match-day-and-international-match-day.json) |
+| Match Day II | 39122 | [39122-match-day-ii.json](./39122-match-day-ii.json) |
 | Match Gems Evolved | 101969 | [101969-match-gems-evolved.json](./101969-match-gems-evolved.json) |
 | Match Hit: Puzzle Fighter | 273884 | [273884-match-hit-puzzle-fighter.json](./273884-match-hit-puzzle-fighter.json) |
 | Match it | 337989 | [337989-match-it.json](./337989-match-it.json) |
@@ -2442,6 +2446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match Morphosis | 381618 | [381618-match-morphosis.json](./381618-match-morphosis.json) |
 | Match Pair 3D Puzzle | 243638 | [243638-match-pair-3d-puzzle.json](./243638-match-pair-3d-puzzle.json) |
 | Match Point | 324904 | [324904-match-point.json](./324904-match-point.json) |
+| Match Point | 39121 | [39121-match-point.json](./39121-match-point.json) |
 | Match Puzzle House | 224012 | [224012-match-puzzle-house.json](./224012-match-puzzle-house.json) |
 | Match Quest: Numbers | 345676 | [345676-match-quest-numbers.json](./345676-match-quest-numbers.json) |
 | Match Shot Chimera | 349290 | [349290-match-shot-chimera.json](./349290-match-shot-chimera.json) |
@@ -8595,6 +8600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musya: The Classic Japanese Tale of Horror | 36740 | [36740-musya-the-classic-japanese-tale-of-horror.json](./36740-musya-the-classic-japanese-tale-of-horror.json) |
 | Musynx: House Theme | 255749 | [255749-musynx-house-theme.json](./255749-musynx-house-theme.json) |
 | Mutagenic | 210690 | [210690-mutagenic.json](./210690-mutagenic.json) |
+| Mutan Zone | 39120 | [39120-mutan-zone.json](./39120-mutan-zone.json) |
 | Mutant | 79916 | [79916-mutant.json](./79916-mutant.json) |
 | Mutant Alien Moles of the Dead: Whack Whack or Die | 55941 | [55941-mutant-alien-moles-of-the-dead-whack-whack-or-die.json](./55941-mutant-alien-moles-of-the-dead-whack-whack-or-die.json) |
 | Mutant Alley: Do the Dinosaur | 157065 | [157065-mutant-alley-do-the-dinosaur.json](./157065-mutant-alley-do-the-dinosaur.json) |
