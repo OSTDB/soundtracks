@@ -1712,6 +1712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby Bowl 64 | 298858 | [298858-kirby-bowl-64.json](./298858-kirby-bowl-64.json) |
 | Kirby Family | 248070 | [248070-kirby-family.json](./248070-kirby-family.json) |
 | Kirby Fighters 2 Memory Match-Up | 314986 | [314986-kirby-fighters-2-memory-match-up.json](./314986-kirby-fighters-2-memory-match-up.json) |
+| Kirby Fighters Deluxe | 45163 | [45163-kirby-fighters-deluxe.json](./45163-kirby-fighters-deluxe.json) |
 | Kirby Gamble Galaxy Stories | 294790 | [294790-kirby-gamble-galaxy-stories.json](./294790-kirby-gamble-galaxy-stories.json) |
 | Kirby Gamble Galaxy Stories: The Future | 395702 | [395702-kirby-gamble-galaxy-stories-the-future.json](./395702-kirby-gamble-galaxy-stories-the-future.json) |
 | Kirby Heardle | 203815 | [203815-kirby-heardle.json](./203815-kirby-heardle.json) |
