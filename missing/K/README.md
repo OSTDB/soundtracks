@@ -1190,6 +1190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Pool | 175279 | [175279-killer-pool.json](./175279-killer-pool.json) |
 | Killer Satellites | 18570 | [18570-killer-satellites.json](./18570-killer-satellites.json) |
 | Killer Trait | 333190 | [333190-killer-trait.json](./333190-killer-trait.json) |
+| Killer Watt | 25864 | [25864-killer-watt.json](./25864-killer-watt.json) |
 | Killer Worm 2 | 187253 | [187253-killer-worm-2.json](./187253-killer-worm-2.json) |
 | Killer Zombie Hunt | 276484 | [276484-killer-zombie-hunt.json](./276484-killer-zombie-hunt.json) |
 | Killer: Rewind | 345018 | [345018-killer-rewind.json](./345018-killer-rewind.json) |
@@ -1827,6 +1828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitten Adventures in City Park | 44165 | [44165-kitten-adventures-in-city-park.json](./44165-kitten-adventures-in-city-park.json) |
 | Kitten and Food: Adventure Park | 108022 | [108022-kitten-and-food-adventure-park.json](./108022-kitten-and-food-adventure-park.json) |
 | Kitten Burst | 201690 | [201690-kitten-burst.json](./201690-kitten-burst.json) |
+| Kitten Cannon | 25889 | [25889-kitten-cannon.json](./25889-kitten-cannon.json) |
 | Kitten Coliseum | 388230 | [388230-kitten-coliseum.json](./388230-kitten-coliseum.json) |
 | Kitten Kaboodle | 40236 | [40236-kitten-kaboodle.json](./40236-kitten-kaboodle.json) |
 | Kitten Life Simulator | 97496 | [97496-kitten-life-simulator.json](./97496-kitten-life-simulator.json) |
