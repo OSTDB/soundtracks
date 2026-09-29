@@ -1056,13 +1056,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imagine: Babies 3D | 7951 | [7951-imagine-babies-3d.json](./7951-imagine-babies-3d.json) |
 | Imagine: Babyz Fashion | 7946 | [7946-imagine-babyz-fashion.json](./7946-imagine-babyz-fashion.json) |
 | Imagine: Champion Rider 3D | 7953 | [7953-imagine-champion-rider-3d.json](./7953-imagine-champion-rider-3d.json) |
+| Imagine: Fashion Designer | 7911 | [7911-imagine-fashion-designer.json](./7911-imagine-fashion-designer.json) |
 | Imagine: Fashion Designer World Tour | 7945 | [7945-imagine-fashion-designer-world-tour.json](./7945-imagine-fashion-designer-world-tour.json) |
 | Imagine: Fashion Life | 7950 | [7950-imagine-fashion-life.json](./7950-imagine-fashion-life.json) |
 | Imagine: Fashion Stylist | 7949 | [7949-imagine-fashion-stylist.json](./7949-imagine-fashion-stylist.json) |
+| Imagine: Figure Skater | 7912 | [7912-imagine-figure-skater.json](./7912-imagine-figure-skater.json) |
+| Imagine: Master Chef | 7910 | [7910-imagine-master-chef.json](./7910-imagine-master-chef.json) |
 | Imagine: Reporter | 7942 | [7942-imagine-reporter.json](./7942-imagine-reporter.json) |
 | Imagine: Rescue Vet | 147432 | [147432-imagine-rescue-vet.json](./147432-imagine-rescue-vet.json) |
 | Imagine: Resort Owner | 7947 | [7947-imagine-resort-owner.json](./7947-imagine-resort-owner.json) |
+| Imagine: Rock Star | 7913 | [7913-imagine-rock-star.json](./7913-imagine-rock-star.json) |
 | Imagine: Sweet 16 | 5989 | [5989-imagine-sweet-16.json](./5989-imagine-sweet-16.json) |
+| Imagine: Teacher | 7914 | [7914-imagine-teacher.json](./7914-imagine-teacher.json) |
 | Imagine: Zookeeper | 7943 | [7943-imagine-zookeeper.json](./7943-imagine-zookeeper.json) |
 | Imaginext: Battle Castle | 209431 | [209431-imaginext-battle-castle.json](./209431-imaginext-battle-castle.json) |
 | Imaginytes | 327950 | [327950-imaginytes.json](./327950-imaginytes.json) |
@@ -1257,6 +1262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impulse: Space Combat | 37035 | [37035-impulse-space-combat.json](./37035-impulse-space-combat.json) |
 | Impulse!: Brick breaker | 253016 | [253016-impulse-brick-breaker.json](./253016-impulse-brick-breaker.json) |
 | Impulsers | 194270 | [194270-impulsers.json](./194270-impulsers.json) |
+| Impulsive Button | 7572 | [7572-impulsive-button.json](./7572-impulsive-button.json) |
 | Impulsive Force | 187365 | [187365-impulsive-force.json](./187365-impulsive-force.json) |
 | Impunes | 345147 | [345147-impunes.json](./345147-impunes.json) |
 | IMSA World Championship Racing | 237511 | [237511-imsa-world-championship-racing.json](./237511-imsa-world-championship-racing.json) |
