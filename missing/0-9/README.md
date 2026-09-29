@@ -355,6 +355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Ways to Die | 16745 | [16745-101-ways-to-die.json](./16745-101-ways-to-die.json) |
 | 101-in-1 Explosive Megamix | 23025 | [23025-101-in-1-explosive-megamix.json](./23025-101-in-1-explosive-megamix.json) |
 | 101-in-1 Games Anthology | 273970 | [273970-101-in-1-games-anthology.json](./273970-101-in-1-games-anthology.json) |
+| 101-in-1 Megamix | 42764 | [42764-101-in-1-megamix.json](./42764-101-in-1-megamix.json) |
 | 1010: Block | 58253 | [58253-1010-block.json](./58253-1010-block.json) |
 | 1010Tro | 380685 | [380685-1010tro.json](./380685-1010tro.json) |
 | 1024 | 61866 | [61866-1024.json](./61866-1024.json) |
@@ -805,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3-in-One Game Compilation | 92275 | [92275-3-in-one-game-compilation.json](./92275-3-in-one-game-compilation.json) |
 | 3-nen B-Gumi Kinpachi-sensei: Densetsu no Kyoudan ni Tate! | 65022 | [65022-3-nen-b-gumi-kinpachi-sensei-densetsu-no-kyoudan-ni-tate.json](./65022-3-nen-b-gumi-kinpachi-sensei-densetsu-no-kyoudan-ni-tate.json) |
 | 3, 2, 1, Survive! | 102387 | [102387-3-2-1-survive.json](./102387-3-2-1-survive.json) |
+| 3, 2, 1...SuperCrash! | 42786 | [42786-3-2-1-supercrash.json](./42786-3-2-1-supercrash.json) |
 | 3:33 A.M. | 318976 | [318976-3-33-a-m.json](./318976-3-33-a-m.json) |
 | 30 Days of Tower | 290955 | [290955-30-days-of-tower.json](./290955-30-days-of-tower.json) |
 | 30 Floors of Madness | 308952 | [308952-30-floors-of-madness.json](./308952-30-floors-of-madness.json) |
@@ -1064,6 +1066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4x4 Dirt Track | 147816 | [147816-4x4-dirt-track.json](./147816-4x4-dirt-track.json) |
 | 4x4 Dirt Track Forest Driving | 89197 | [89197-4x4-dirt-track-forest-driving.json](./89197-4x4-dirt-track-forest-driving.json) |
 | 4x4 EVO 2 | 5715 | [5715-4x4-evo-2.json](./5715-4x4-evo-2.json) |
+| 4x4 Jam | 42785 | [42785-4x4-jam.json](./42785-4x4-jam.json) |
 | 4x4 Mania | 139436 | [139436-4x4-mania.json](./139436-4x4-mania.json) |
 | 4x4 Off-Road Challenge | 127168 | [127168-4x4-off-road-challenge.json](./127168-4x4-off-road-challenge.json) |
 | 4x4 Offroad Driver | 219294 | [219294-4x4-offroad-driver.json](./219294-4x4-offroad-driver.json) |
@@ -1074,6 +1077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5 Days, Minimum Wage. | 308953 | [308953-5-days-minimum-wage.json](./308953-5-days-minimum-wage.json) |
 | 5 ft. 10 Pak: Award Winning Collection | 401082 | [401082-5-ft-10-pak-award-winning-collection.json](./401082-5-ft-10-pak-award-winning-collection.json) |
 | 5 ft. 10 Pak: Vol. I | 401081 | [401081-5-ft-10-pak-vol-i.json](./401081-5-ft-10-pak-vol-i.json) |
+| 5 in 1 Arcade Hits | 42763 | [42763-5-in-1-arcade-hits.json](./42763-5-in-1-arcade-hits.json) |
 | 5 in 1 Mahjong | 79874 | [79874-5-in-1-mahjong.json](./79874-5-in-1-mahjong.json) |
 | 5 in 1: Scrap Bolts + Toroom + Last Mage Survivor + Home Sweet Home + Bruxa | 273928 | [273928-5-in-1-scrap-bolts-toroom-last-mage-survivor-home-sweet-home-bruxa.json](./273928-5-in-1-scrap-bolts-toroom-last-mage-survivor-home-sweet-home-bruxa.json) |
 | 5 In One Fun Pak | 93568 | [93568-5-in-one-fun-pak.json](./93568-5-in-one-fun-pak.json) |
