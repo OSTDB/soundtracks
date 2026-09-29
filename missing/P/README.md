@@ -2592,6 +2592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phylomortis: Avant-Garde | 356636 | [356636-phylomortis-avant-garde.json](./356636-phylomortis-avant-garde.json) |
 | Phyrexia | 208055 | [208055-phyrexia.json](./208055-phyrexia.json) |
 | Physical Contact: Picture Place | 74348 | [74348-physical-contact-picture-place.json](./74348-physical-contact-picture-place.json) |
+| Physical Contact: Speed | 51409 | [51409-physical-contact-speed.json](./51409-physical-contact-speed.json) |
 | Physical Spheres | 305519 | [305519-physical-spheres.json](./305519-physical-spheres.json) |
 | Physical Train: Chamland National Railway | 374625 | [374625-physical-train-chamland-national-railway.json](./374625-physical-train-chamland-national-railway.json) |
 | Physicality | 202361 | [202361-physicality.json](./202361-physicality.json) |
@@ -6239,6 +6240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia: The Shadow and the Flame | 142256 | [142256-prince-of-persia-the-shadow-and-the-flame.json](./142256-prince-of-persia-the-shadow-and-the-flame.json) |
 | Prince of Persia: Warrior Within HD | 99586 | [99586-prince-of-persia-warrior-within-hd.json](./99586-prince-of-persia-warrior-within-hd.json) |
 | Prince of Prussia | 336715 | [336715-prince-of-prussia.json](./336715-prince-of-prussia.json) |
+| Prince of Qin | 51402 | [51402-prince-of-qin.json](./51402-prince-of-qin.json) |
 | Prince Rystiya's Starfleet | 341557 | [341557-prince-rystiyas-starfleet.json](./341557-prince-rystiyas-starfleet.json) |
 | Prince Rystiya's Starship | 341556 | [341556-prince-rystiyas-starship.json](./341556-prince-rystiyas-starship.json) |
 | Princes of Qing | 402961 | [402961-princes-of-qing.json](./402961-princes-of-qing.json) |
