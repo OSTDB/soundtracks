@@ -1481,6 +1481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pato Box | 56344 | [56344-pato-box.json](./56344-pato-box.json) |
 | Pato Martinez | 238599 | [238599-pato-martinez.json](./238599-pato-martinez.json) |
 | Patou | 253376 | [253376-patou.json](./253376-patou.json) |
+| Patrician II: Quest for Power | 7409 | [7409-patrician-ii-quest-for-power.json](./7409-patrician-ii-quest-for-power.json) |
 | Patrician III | 287 | [287-patrician-iii.json](./287-patrician-iii.json) |
 | Patrician IV | 7506 | [7506-patrician-iv.json](./7506-patrician-iv.json) |
 | Patrician IV: Steam Special Edition | 90478 | [90478-patrician-iv-steam-special-edition.json](./90478-patrician-iv-steam-special-edition.json) |
@@ -2396,6 +2397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ph0b0s | 207521 | [207521-ph0b0s.json](./207521-ph0b0s.json) |
 | Phá Kén: Khúc Điêu Linh | 318783 | [318783-pha-ken-khuc-ieu-linh.json](./318783-pha-ken-khuc-ieu-linh.json) |
 | Phalanstery | 74286 | [74286-phalanstery.json](./74286-phalanstery.json) |
+| Phalanx | 6532 | [6532-phalanx.json](./6532-phalanx.json) |
 | Phantaruk | 20788 | [20788-phantaruk.json](./20788-phantaruk.json) |
 | Phantasia | 192152 | [192152-phantasia.json](./192152-phantasia.json) |
 | Phantasie 3: The Wrath of Nikademus | 5562 | [5562-phantasie-3-the-wrath-of-nikademus.json](./5562-phantasie-3-the-wrath-of-nikademus.json) |
@@ -6383,6 +6385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Egypt | 404332 | [404332-prince-of-egypt.json](./404332-prince-of-egypt.json) |
 | Prince of Persia | 248579 | [248579-prince-of-persia.json](./248579-prince-of-persia.json) |
 | Prince of Persia | 249150 | [249150-prince-of-persia.json](./249150-prince-of-persia.json) |
+| Prince of Persia | 284774 | [284774-prince-of-persia.json](./284774-prince-of-persia.json) |
 | Prince of Persia | 284776 | [284776-prince-of-persia.json](./284776-prince-of-persia.json) |
 | Prince of Persia : The Forgotten Sands - Limited Collector's Edition | 47459 | [47459-prince-of-persia-the-forgotten-sands-limited-collectors-edition.json](./47459-prince-of-persia-the-forgotten-sands-limited-collectors-edition.json) |
 | Prince of Persia 2: The Shadow and the Flame | 3164 | [3164-prince-of-persia-2-the-shadow-and-the-flame.json](./3164-prince-of-persia-2-the-shadow-and-the-flame.json) |
@@ -7643,6 +7646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulsoids | 13024 | [13024-pulsoids.json](./13024-pulsoids.json) |
 | Pulsonic Baseball II | 245419 | [245419-pulsonic-baseball-ii.json](./245419-pulsonic-baseball-ii.json) |
 | Pulsonic Electronic Baseball | 245418 | [245418-pulsonic-electronic-baseball.json](./245418-pulsonic-electronic-baseball.json) |
+| Pulstar | 7255 | [7255-pulstar.json](./7255-pulstar.json) |
 | PulzAR | 93544 | [93544-pulzar.json](./93544-pulzar.json) |
 | Pum | 119053 | [119053-pum.json](./119053-pum.json) |
 | Puma: The Cat | 270158 | [270158-puma-the-cat.json](./270158-puma-the-cat.json) |
