@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.Q. Sound Qube | 230505 | [230505-s-q-sound-qube.json](./230505-s-q-sound-qube.json) |
 | S.R.D. Mission | 40418 | [40418-s-r-d-mission.json](./40418-s-r-d-mission.json) |
 | S.S. Mission | 40252 | [40252-s-s-mission.json](./40252-s-s-mission.json) |
+| S.T.A.L.K.E.R. 2: Cost of Hope | 396025 | [396025-s-t-a-l-k-e-r-2-cost-of-hope.json](./396025-s-t-a-l-k-e-r-2-cost-of-hope.json) |
 | S.T.A.L.K.E.R. 2: Heart of Chornobyl - Collector's Edition | 284360 | [284360-s-t-a-l-k-e-r-2-heart-of-chornobyl-collectors-edition.json](./284360-s-t-a-l-k-e-r-2-heart-of-chornobyl-collectors-edition.json) |
 | S.T.A.L.K.E.R. 2: Heart of Chornobyl - Deluxe Edition | 169175 | [169175-s-t-a-l-k-e-r-2-heart-of-chornobyl-deluxe-edition.json](./169175-s-t-a-l-k-e-r-2-heart-of-chornobyl-deluxe-edition.json) |
 | S.T.A.L.K.E.R. 2: Heart of Chornobyl - Ultimate Edition | 169174 | [169174-s-t-a-l-k-e-r-2-heart-of-chornobyl-ultimate-edition.json](./169174-s-t-a-l-k-e-r-2-heart-of-chornobyl-ultimate-edition.json) |
@@ -2773,6 +2774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Kingdoms: Conquest | 8942 | [8942-seven-kingdoms-conquest.json](./8942-seven-kingdoms-conquest.json) |
 | Seven Kingdoms: The Princess Problem | 336036 | [336036-seven-kingdoms-the-princess-problem.json](./336036-seven-kingdoms-the-princess-problem.json) |
 | Seven Knights Idle Adventure | 265746 | [265746-seven-knights-idle-adventure.json](./265746-seven-knights-idle-adventure.json) |
+| Seven Knights Re:Birth | 366551 | [366551-seven-knights-re-birth.json](./366551-seven-knights-re-birth.json) |
 | Seven Knights: Time Wanderer - Casual Costume Set | 237931 | [237931-seven-knights-time-wanderer-casual-costume-set.json](./237931-seven-knights-time-wanderer-casual-costume-set.json) |
 | Seven Knights: Time Wanderer - Cosplay Costume Set | 237932 | [237932-seven-knights-time-wanderer-cosplay-costume-set.json](./237932-seven-knights-time-wanderer-cosplay-costume-set.json) |
 | Seven Knights: Time Wanderer - Special Edition | 238229 | [238229-seven-knights-time-wanderer-special-edition.json](./238229-seven-knights-time-wanderer-special-edition.json) |
@@ -3283,6 +3285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowvane | 254781 | [254781-shadowvane.json](./254781-shadowvane.json) |
 | Shadowveil: Legend of The Five Rings | 321163 | [321163-shadowveil-legend-of-the-five-rings.json](./321163-shadowveil-legend-of-the-five-rings.json) |
 | Shadowverse: Wonderland Dreams | 37072 | [37072-shadowverse-wonderland-dreams.json](./37072-shadowverse-wonderland-dreams.json) |
+| Shadowverse: Worlds Beyond | 339985 | [339985-shadowverse-worlds-beyond.json](./339985-shadowverse-worlds-beyond.json) |
 | Shadwen | 14747 | [14747-shadwen.json](./14747-shadwen.json) |
 | Shady Brook - A Dark Mystery Text Adventure | 30903 | [30903-shady-brook-a-dark-mystery-text-adventure.json](./30903-shady-brook-a-dark-mystery-text-adventure.json) |
 | Shady Business | 195198 | [195198-shady-business.json](./195198-shady-business.json) |
@@ -4596,6 +4599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Side Hustle City | 364066 | [364066-side-hustle-city.json](./364066-side-hustle-city.json) |
 | Side Kicks! | 69322 | [69322-side-kicks.json](./69322-side-kicks.json) |
 | Side Pocket | 172699 | [172699-side-pocket.json](./172699-side-pocket.json) |
+| Side Pocket | 288104 | [288104-side-pocket.json](./288104-side-pocket.json) |
 | Side Pocket | 45555 | [45555-side-pocket.json](./45555-side-pocket.json) |
 | Side Pocket 3 | 6049 | [6049-side-pocket-3.json](./6049-side-pocket-3.json) |
 | Side Pocket: Special Edition | 209011 | [209011-side-pocket-special-edition.json](./209011-side-pocket-special-edition.json) |
@@ -13704,6 +13708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunchaser | 322611 | [322611-sunchaser.json](./322611-sunchaser.json) |
 | Suncore Chronicles: The Tower - Level 1 | 157559 | [157559-suncore-chronicles-the-tower-level-1.json](./157559-suncore-chronicles-the-tower-level-1.json) |
 | Suncraft | 381142 | [381142-suncraft.json](./381142-suncraft.json) |
+| Sunday Gold | 204547 | [204547-sunday-gold.json](./204547-sunday-gold.json) |
 | Sunday Golf | 54691 | [54691-sunday-golf.json](./54691-sunday-golf.json) |
 | Sunday League Manager: Horse & Spoon | 361731 | [361731-sunday-league-manager-horse-and-spoon.json](./361731-sunday-league-manager-horse-and-spoon.json) |
 | Sunday Morning | 312146 | [312146-sunday-morning.json](./312146-sunday-morning.json) |
