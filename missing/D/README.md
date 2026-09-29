@@ -7568,6 +7568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Dash | 290539 | [290539-duck-dash.json](./290539-duck-dash.json) |
 | Duck Dash Delivery | 398320 | [398320-duck-dash-delivery.json](./398320-duck-dash-delivery.json) |
 | Duck Detective: The Secret Salami | 279374 | [279374-duck-detective-the-secret-salami.json](./279374-duck-detective-the-secret-salami.json) |
+| Duck Dodgers Starring Daffy Duck | 3336 | [3336-duck-dodgers-starring-daffy-duck.json](./3336-duck-dodgers-starring-daffy-duck.json) |
 | Duck Doom Deluxe | 201180 | [201180-duck-doom-deluxe.json](./201180-duck-doom-deluxe.json) |
 | Duck Duck Goose | 358870 | [358870-duck-duck-goose.json](./358870-duck-duck-goose.json) |
 | Duck Duck Hotel | 384083 | [384083-duck-duck-hotel.json](./384083-duck-duck-hotel.json) |
