@@ -3340,6 +3340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Battle Network | 1755 | [1755-mega-man-battle-network.json](./1755-mega-man-battle-network.json) |
 | Mega Man Battle Network 2 | 1756 | [1756-mega-man-battle-network-2.json](./1756-mega-man-battle-network-2.json) |
 | Mega Man Battle Network 2 | 352862 | [352862-mega-man-battle-network-2.json](./352862-mega-man-battle-network-2.json) |
+| Mega Man Battle Network 3 Blue | 1758 | [1758-mega-man-battle-network-3-blue.json](./1758-mega-man-battle-network-3-blue.json) |
 | Mega Man Battle Network 3 Blue | 352864 | [352864-mega-man-battle-network-3-blue.json](./352864-mega-man-battle-network-3-blue.json) |
 | Mega Man Battle Network 3 White | 352863 | [352863-mega-man-battle-network-3-white.json](./352863-mega-man-battle-network-3-white.json) |
 | Mega Man Battle Network 5: Patch Card - Anaconda | 351818 | [351818-mega-man-battle-network-5-patch-card-anaconda.json](./351818-mega-man-battle-network-5-patch-card-anaconda.json) |
