@@ -142,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jad | 151133 | [151133-jad.json](./151133-jad.json) |
 | JaDa Fishin' | 222948 | [222948-jada-fishin.json](./222948-jada-fishin.json) |
 | Jade Base | 308336 | [308336-jade-base.json](./308336-jade-base.json) |
+| Jade Cocoon 2 | 18079 | [18079-jade-cocoon-2.json](./18079-jade-cocoon-2.json) |
 | Jade Cocoon: Story of the Tamamayu | 45000 | [45000-jade-cocoon-story-of-the-tamamayu.json](./45000-jade-cocoon-story-of-the-tamamayu.json) |
 | Jade Earth | 141255 | [141255-jade-earth.json](./141255-jade-earth.json) |
 | Jade Empire | 5867 | [5867-jade-empire.json](./5867-jade-empire.json) |
