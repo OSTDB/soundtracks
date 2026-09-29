@@ -1002,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasted Bloodline | 338254 | [338254-wasted-bloodline.json](./338254-wasted-bloodline.json) |
 | Wasted Glory | 276479 | [276479-wasted-glory.json](./276479-wasted-glory.json) |
 | Wastelan Wars | 242513 | [242513-wastelan-wars.json](./242513-wastelan-wars.json) |
+| Wasteland 2: Director's Cut | 20046 | [20046-wasteland-2-directors-cut.json](./20046-wasteland-2-directors-cut.json) |
 | Wasteland 3: Day One Edition | 139893 | [139893-wasteland-3-day-one-edition.json](./139893-wasteland-3-day-one-edition.json) |
 | Wasteland Alone | 373640 | [373640-wasteland-alone.json](./373640-wasteland-alone.json) |
 | Wasteland Angel | 9388 | [9388-wasteland-angel.json](./9388-wasteland-angel.json) |
@@ -1695,6 +1696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What the Chuck? | 338379 | [338379-what-the-chuck.json](./338379-what-the-chuck.json) |
 | What the Clash? | 339825 | [339825-what-the-clash.json](./339825-what-the-clash.json) |
 | What the Fog | 300793 | [300793-what-the-fog.json](./300793-what-the-fog.json) |
+| What the Golf? | 87983 | [87983-what-the-golf.json](./87983-what-the-golf.json) |
 | What the Golf? A Hole New World | 264343 | [264343-what-the-golf-a-hole-new-world.json](./264343-what-the-golf-a-hole-new-world.json) |
 | What the Golf? It's Snowtime | 264344 | [264344-what-the-golf-its-snowtime.json](./264344-what-the-golf-its-snowtime.json) |
 | What the Golf? Sporty Sports! | 135804 | [135804-what-the-golf-sporty-sports.json](./135804-what-the-golf-sporty-sports.json) |
