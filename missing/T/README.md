@@ -2889,6 +2889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bear B | 207276 | [207276-the-bear-b.json](./207276-the-bear-b.json) |
 | The Bear Essentials | 47240 | [47240-the-bear-essentials.json](./47240-the-bear-essentials.json) |
 | The Bear Kick | 102114 | [102114-the-bear-kick.json](./102114-the-bear-kick.json) |
+| The Bear, the Cat and the Rabbit | 12936 | [12936-the-bear-the-cat-and-the-rabbit.json](./12936-the-bear-the-cat-and-the-rabbit.json) |
 | The Beardless Wizard | 54437 | [54437-the-beardless-wizard.json](./54437-the-beardless-wizard.json) |
 | The Bears and The Bees | 83618 | [83618-the-bears-and-the-bees.json](./83618-the-bears-and-the-bees.json) |
 | The Beast | 100210 | [100210-the-beast.json](./100210-the-beast.json) |
@@ -6404,6 +6405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The NetherWorld | 271766 | [271766-the-netherworld.json](./271766-the-netherworld.json) |
 | The Netrunner Awaken1ng | 182393 | [182393-the-netrunner-awaken1ng.json](./182393-the-netrunner-awaken1ng.json) |
 | The Never-Ending Sleepover | 370785 | [370785-the-never-ending-sleepover.json](./370785-the-never-ending-sleepover.json) |
+| The NeverEnding Story | 13020 | [13020-the-neverending-story.json](./13020-the-neverending-story.json) |
 | The Neverending Story II | 80515 | [80515-the-neverending-story-ii.json](./80515-the-neverending-story-ii.json) |
 | The Neverhood | 2164 | [2164-the-neverhood.json](./2164-the-neverhood.json) |
 | The Neverwhere Tales : Book 1 | 275692 | [275692-the-neverwhere-tales-book-1.json](./275692-the-neverwhere-tales-book-1.json) |
@@ -6863,6 +6865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quest for Moe's | 112977 | [112977-the-quest-for-moes.json](./112977-the-quest-for-moes.json) |
 | The Quest for One | 202970 | [202970-the-quest-for-one.json](./202970-the-quest-for-one.json) |
 | The Quest For Royal Love | 184909 | [184909-the-quest-for-royal-love.json](./184909-the-quest-for-royal-love.json) |
+| The Quest for the Golden Egg Cup | 13025 | [13025-the-quest-for-the-golden-egg-cup.json](./13025-the-quest-for-the-golden-egg-cup.json) |
 | The Quest for the Holy Grail | 25967 | [25967-the-quest-for-the-holy-grail.json](./25967-the-quest-for-the-holy-grail.json) |
 | The Quest for the Rings | 41575 | [41575-the-quest-for-the-rings.json](./41575-the-quest-for-the-rings.json) |
 | The Quest Giver | 75960 | [75960-the-quest-giver.json](./75960-the-quest-giver.json) |
@@ -6935,6 +6938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Real Ghostbusters | 12841 | [12841-the-real-ghostbusters.json](./12841-the-real-ghostbusters.json) |
 | The Real Ghostbusters | 218436 | [218436-the-real-ghostbusters.json](./218436-the-real-ghostbusters.json) |
 | The Real Man Summer Championship 2019 | 119652 | [119652-the-real-man-summer-championship-2019.json](./119652-the-real-man-summer-championship-2019.json) |
+| The Real Stunt Experts | 13026 | [13026-the-real-stunt-experts.json](./13026-the-real-stunt-experts.json) |
 | The Real Texas | 25048 | [25048-the-real-texas.json](./25048-the-real-texas.json) |
 | The Real Texas: Cellpop Goes Out At Night | 51923 | [51923-the-real-texas-cellpop-goes-out-at-night.json](./51923-the-real-texas-cellpop-goes-out-at-night.json) |
 | The Real Texas: Dusty Skies Edition | 51922 | [51922-the-real-texas-dusty-skies-edition.json](./51922-the-real-texas-dusty-skies-edition.json) |
@@ -9335,6 +9339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ThunderGod | 118985 | [118985-thundergod.json](./118985-thundergod.json) |
 | ThunderGun: The Cybwar Mission | 206786 | [206786-thundergun-the-cybwar-mission.json](./206786-thundergun-the-cybwar-mission.json) |
 | Thunderhawk | 12913 | [12913-thunderhawk.json](./12913-thunderhawk.json) |
+| Thunderhawk AH-73M | 12929 | [12929-thunderhawk-ah-73m.json](./12929-thunderhawk-ah-73m.json) |
 | Thunderhawk: Danger Close | 387365 | [387365-thunderhawk-danger-close.json](./387365-thunderhawk-danger-close.json) |
 | Thunderpeak | 256854 | [256854-thunderpeak.json](./256854-thunderpeak.json) |
 | Thunderstrike 2 | 24991 | [24991-thunderstrike-2.json](./24991-thunderstrike-2.json) |
@@ -10521,6 +10526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timeloop | 308398 | [308398-timeloop.json](./308398-timeloop.json) |
 | Timeloop: Sink Again Beach | 224662 | [224662-timeloop-sink-again-beach.json](./224662-timeloop-sink-again-beach.json) |
 | Timelord | 78615 | [78615-timelord.json](./78615-timelord.json) |
+| Timeman One | 13040 | [13040-timeman-one.json](./13040-timeman-one.json) |
 | TimeMelters | 210869 | [210869-timemelters.json](./210869-timemelters.json) |
 | Timemoon | 330892 | [330892-timemoon.json](./330892-timemoon.json) |
 | TimeNot | 365265 | [365265-timenot.json](./365265-timenot.json) |
@@ -10768,6 +10774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TipTop | 136413 | [136413-tiptop.json](./136413-tiptop.json) |
 | TiQal | 21354 | [21354-tiqal.json](./21354-tiqal.json) |
 | Tir et But: Edition Champions du Monde | 130778 | [130778-tir-et-but-edition-champions-du-monde.json](./130778-tir-et-but-edition-champions-du-monde.json) |
+| Tir Na Nog | 13041 | [13041-tir-na-nog.json](./13041-tir-na-nog.json) |
 | Tir-nan-óg II: The Sign of Chaos | 145465 | [145465-tir-nan-og-ii-the-sign-of-chaos.json](./145465-tir-nan-og-ii-the-sign-of-chaos.json) |
 | Tir-nan-óg III | 145553 | [145553-tir-nan-og-iii.json](./145553-tir-nan-og-iii.json) |
 | Tir-nan-óg IV | 145555 | [145555-tir-nan-og-iv.json](./145555-tir-nan-og-iv.json) |
@@ -14847,6 +14854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Soul | 96113 | [96113-twin-soul.json](./96113-twin-soul.json) |
 | Twin Stick Heroes | 141875 | [141875-twin-stick-heroes.json](./141875-twin-stick-heroes.json) |
 | Twin Tornado | 363889 | [363889-twin-tornado.json](./363889-twin-tornado.json) |
+| Twin Turbo V8 | 13042 | [13042-twin-turbo-v8.json](./13042-twin-turbo-v8.json) |
 | Twin Unconscious | 229657 | [229657-twin-unconscious.json](./229657-twin-unconscious.json) |
 | TwinBee | 282650 | [282650-twinbee.json](./282650-twinbee.json) |
 | TwinBee | 282651 | [282651-twinbee.json](./282651-twinbee.json) |
