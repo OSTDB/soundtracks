@@ -4240,6 +4240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forbidden Proton | 174289 | [174289-forbidden-proton.json](./174289-forbidden-proton.json) |
 | Forbidden Punch | 121542 | [121542-forbidden-punch.json](./121542-forbidden-punch.json) |
 | Forbidden Quake OST Liner Notes | 262422 | [262422-forbidden-quake-ost-liner-notes.json](./262422-forbidden-quake-ost-liner-notes.json) |
+| Forbidden Quest | 25087 | [25087-forbidden-quest.json](./25087-forbidden-quest.json) |
 | Forbidden Secrets: Alien Town - Collector's Edition | 53035 | [53035-forbidden-secrets-alien-town-collectors-edition.json](./53035-forbidden-secrets-alien-town-collectors-edition.json) |
 | Forbidden Siren 2 | 14411 | [14411-forbidden-siren-2.json](./14411-forbidden-siren-2.json) |
 | Forbidden Solitaire | 330176 | [330176-forbidden-solitaire.json](./330176-forbidden-solitaire.json) |
@@ -4568,6 +4569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fort Valen | 238501 | [238501-fort-valen.json](./238501-fort-valen.json) |
 | Forte Craft Explore Island | 101383 | [101383-forte-craft-explore-island.json](./101383-forte-craft-explore-island.json) |
 | Fortification: tower defence | 141675 | [141675-fortification-tower-defence.json](./141675-fortification-tower-defence.json) |
+| Fortify: Special Edition | 25055 | [25055-fortify-special-edition.json](./25055-fortify-special-edition.json) |
 | Fortissimo FA//Akkord:Nachsten Phase | 101597 | [101597-fortissimo-fa-akkord-nachsten-phase.json](./101597-fortissimo-fa-akkord-nachsten-phase.json) |
 | Fortitude Tower Defense | 333149 | [333149-fortitude-tower-defense.json](./333149-fortitude-tower-defense.json) |
 | Fortix 2 | 15024 | [15024-fortix-2.json](./15024-fortix-2.json) |
@@ -5348,6 +5350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fritz & Chesster's Chess for Winners | 84182 | [84182-fritz-and-chessters-chess-for-winners.json](./84182-fritz-and-chessters-chess-for-winners.json) |
 | Fritz 19: Steam Edition | 280203 | [280203-fritz-19-steam-edition.json](./280203-fritz-19-steam-edition.json) |
 | Fritz 9: Play Chess | 130848 | [130848-fritz-9-play-chess.json](./130848-fritz-9-play-chess.json) |
+| Fritz Chess 13 | 25054 | [25054-fritz-chess-13.json](./25054-fritz-chess-13.json) |
 | Fritz Chess 14 | 17050 | [17050-fritz-chess-14.json](./17050-fritz-chess-14.json) |
 | Fritz Chess 17 Steam Edition | 162708 | [162708-fritz-chess-17-steam-edition.json](./162708-fritz-chess-17-steam-edition.json) |
 | Fritz: Your Chess Coach | 262648 | [262648-fritz-your-chess-coach.json](./262648-fritz-your-chess-coach.json) |
