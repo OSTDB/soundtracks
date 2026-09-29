@@ -1518,6 +1518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endangered | 32077 | [32077-endangered.json](./32077-endangered.json) |
 | Endarchy | 327340 | [327340-endarchy.json](./327340-endarchy.json) |
 | Endeavor | 228677 | [228677-endeavor.json](./228677-endeavor.json) |
+| Endeavour Survival | 28036 | [28036-endeavour-survival.json](./28036-endeavour-survival.json) |
 | Ender IO | 232676 | [232676-ender-io.json](./232676-ender-io.json) |
 | Ender Ocean | 368670 | [368670-ender-ocean.json](./368670-ender-ocean.json) |
 | Ender of Fire | 60797 | [60797-ender-of-fire.json](./60797-ender-of-fire.json) |
@@ -1614,6 +1615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Space 2: Deluxe Edition | 187986 | [187986-endless-space-2-deluxe-edition.json](./187986-endless-space-2-deluxe-edition.json) |
 | Endless Space 2: Vaulters | 82431 | [82431-endless-space-2-vaulters.json](./82431-endless-space-2-vaulters.json) |
 | Endless Space: Definitive Edition | 231650 | [231650-endless-space-definitive-edition.json](./231650-endless-space-definitive-edition.json) |
+| Endless Space: Emperor Edition | 28083 | [28083-endless-space-emperor-edition.json](./28083-endless-space-emperor-edition.json) |
 | Endless Suburbia | 255700 | [255700-endless-suburbia.json](./255700-endless-suburbia.json) |
 | Endless Surf | 187827 | [187827-endless-surf.json](./187827-endless-surf.json) |
 | Endless Thief: a Furry Stealth Adventure | 201567 | [201567-endless-thief-a-furry-stealth-adventure.json](./201567-endless-thief-a-furry-stealth-adventure.json) |
@@ -1786,6 +1788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ensemble Stars! 2 | 197334 | [197334-ensemble-stars-2.json](./197334-ensemble-stars-2.json) |
 | Enshrouded | 248643 | [248643-enshrouded.json](./248643-enshrouded.json) |
 | Enshrouded World: Home Truths | 27676 | [27676-enshrouded-world-home-truths.json](./27676-enshrouded-world-home-truths.json) |
+| Ensismoon | 28103 | [28103-ensismoon.json](./28103-ensismoon.json) |
 | Enslaved Odyssey: To The West - Collector's Edition | 44658 | [44658-enslaved-odyssey-to-the-west-collectors-edition.json](./44658-enslaved-odyssey-to-the-west-collectors-edition.json) |
 | Enslaved: Odyssey to the West | 2538 | [2538-enslaved-odyssey-to-the-west.json](./2538-enslaved-odyssey-to-the-west.json) |
 | Enslaved: Odyssey to the West - Pigsy's Perfect 10 | 17468 | [17468-enslaved-odyssey-to-the-west-pigsys-perfect-10.json](./17468-enslaved-odyssey-to-the-west-pigsys-perfect-10.json) |
