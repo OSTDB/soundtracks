@@ -1075,6 +1075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Streak | 87606 | [87606-tap-streak.json](./87606-tap-streak.json) |
 | Tap Sword | 240728 | [240728-tap-sword.json](./240728-tap-sword.json) |
 | Tap Tap Ants | 232143 | [232143-tap-tap-ants.json](./232143-tap-tap-ants.json) |
+| Tap Tap Arcade | 58901 | [58901-tap-tap-arcade.json](./58901-tap-tap-arcade.json) |
 | Tap Tap Blocks | 27647 | [27647-tap-tap-blocks.json](./27647-tap-tap-blocks.json) |
 | Tap Tap Builder | 75141 | [75141-tap-tap-builder.json](./75141-tap-tap-builder.json) |
 | Tap tap cartoonist - Cartoon999 | 95824 | [95824-tap-tap-cartoonist-cartoon999.json](./95824-tap-tap-cartoonist-cartoon999.json) |
@@ -1348,6 +1349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tea for Sana | 310036 | [310036-tea-for-sana.json](./310036-tea-for-sana.json) |
 | Tea Society of a Witch | 72664 | [72664-tea-society-of-a-witch.json](./72664-tea-society-of-a-witch.json) |
 | Tea Time | 359406 | [359406-tea-time.json](./359406-tea-time.json) |
+| Tea Time | 58894 | [58894-tea-time.json](./58894-tea-time.json) |
 | Tea, Please! | 347905 | [347905-tea-please.json](./347905-tea-please.json) |
 | Teach My Little Sister How to Drive | 373092 | [373092-teach-my-little-sister-how-to-drive.json](./373092-teach-my-little-sister-how-to-drive.json) |
 | Teacher Seduction | 276160 | [276160-teacher-seduction.json](./276160-teacher-seduction.json) |
@@ -2596,6 +2598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amethyst Stones | 153916 | [153916-the-amethyst-stones.json](./153916-the-amethyst-stones.json) |
 | The Ampoule | 275702 | [275702-the-ampoule.json](./275702-the-ampoule.json) |
 | The Amulet of AmunRuuuuuN | 157188 | [157188-the-amulet-of-amunruuuuun.json](./157188-the-amulet-of-amunruuuuun.json) |
+| The Amulet of Darath | 58864 | [58864-the-amulet-of-darath.json](./58864-the-amulet-of-darath.json) |
 | The Anacrusis: Deluxe Edition | 192304 | [192304-the-anacrusis-deluxe-edition.json](./192304-the-anacrusis-deluxe-edition.json) |
 | The Analyst | 211289 | [211289-the-analyst.json](./211289-the-analyst.json) |
 | The Anchorite | 325079 | [325079-the-anchorite.json](./325079-the-anchorite.json) |
@@ -2772,6 +2775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Balldragon | 335265 | [335265-the-balldragon.json](./335265-the-balldragon.json) |
 | The Balloonist: Beyond the Clouds | 75831 | [75831-the-balloonist-beyond-the-clouds.json](./75831-the-balloonist-beyond-the-clouds.json) |
 | The Balls | 280256 | [280256-the-balls.json](./280256-the-balls.json) |
+| The Balrog and the Cat | 58857 | [58857-the-balrog-and-the-cat.json](./58857-the-balrog-and-the-cat.json) |
 | The Banker Tycoon | 379340 | [379340-the-banker-tycoon.json](./379340-the-banker-tycoon.json) |
 | The Banner Saga 3 | 26940 | [26940-the-banner-saga-3.json](./26940-the-banner-saga-3.json) |
 | The Banner Saga 3: Legendary Edition | 124774 | [124774-the-banner-saga-3-legendary-edition.json](./124774-the-banner-saga-3-legendary-edition.json) |
@@ -2791,6 +2795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bard's Tale IV: Director's Cut - Deluxe Edition | 124816 | [124816-the-bards-tale-iv-directors-cut-deluxe-edition.json](./124816-the-bards-tale-iv-directors-cut-deluxe-edition.json) |
 | The Bard's Tale: Remastered and Resnarkled | 313094 | [313094-the-bards-tale-remastered-and-resnarkled.json](./313094-the-bards-tale-remastered-and-resnarkled.json) |
 | The Bard's Tale: Tales of the Unknown | 394232 | [394232-the-bards-tale-tales-of-the-unknown.json](./394232-the-bards-tale-tales-of-the-unknown.json) |
+| The Bardic Rites | 58856 | [58856-the-bardic-rites.json](./58856-the-bardic-rites.json) |
 | The Barkeeper | 332847 | [332847-the-barkeeper.json](./332847-the-barkeeper.json) |
 | The Baseball 2003 | 61401 | [61401-the-baseball-2003.json](./61401-the-baseball-2003.json) |
 | The Baseball T | 217912 | [217912-the-baseball-t.json](./217912-the-baseball-t.json) |
@@ -2839,6 +2844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Beast | 100210 | [100210-the-beast.json](./100210-the-beast.json) |
 | The Beast Inside | 88116 | [88116-the-beast-inside.json](./88116-the-beast-inside.json) |
 | The Beast of the Rosewood | 302134 | [302134-the-beast-of-the-rosewood.json](./302134-the-beast-of-the-rosewood.json) |
+| The Beast of Torrack Moor | 58855 | [58855-the-beast-of-torrack-moor.json](./58855-the-beast-of-torrack-moor.json) |
 | The Beastmaster Princess | 219546 | [219546-the-beastmaster-princess.json](./219546-the-beastmaster-princess.json) |
 | The Beat Strikes Back | 364691 | [364691-the-beat-strikes-back.json](./364691-the-beat-strikes-back.json) |
 | The Beat, The Step, and the Cowboys | 59041 | [59041-the-beat-the-step-and-the-cowboys.json](./59041-the-beat-the-step-and-the-cowboys.json) |
@@ -6418,6 +6424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Origin Theory: Episode One | 304589 | [304589-the-origin-theory-episode-one.json](./304589-the-origin-theory-episode-one.json) |
 | The Original Mobile Games | 130882 | [130882-the-original-mobile-games.json](./130882-the-original-mobile-games.json) |
 | The Orion Conspiracy | 23862 | [23862-the-orion-conspiracy.json](./23862-the-orion-conspiracy.json) |
+| The Orion Project | 58904 | [58904-the-orion-project.json](./58904-the-orion-project.json) |
 | The Orion Suns | 83534 | [83534-the-orion-suns.json](./83534-the-orion-suns.json) |
 | The Ormus Saga II: Guild of Death | 232524 | [232524-the-ormus-saga-ii-guild-of-death.json](./232524-the-ormus-saga-ii-guild-of-death.json) |
 | The Ormus Saga III: The Final Chapter | 232530 | [232530-the-ormus-saga-iii-the-final-chapter.json](./232530-the-ormus-saga-iii-the-final-chapter.json) |
@@ -6649,6 +6656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Prince's Keeper | 412310 | [412310-the-princes-keeper.json](./412310-the-princes-keeper.json) |
 | The Princess and the Frog | 17753 | [17753-the-princess-and-the-frog.json](./17753-the-princess-and-the-frog.json) |
 | The Princess and the Pauper: Storybook Adventures | 293199 | [293199-the-princess-and-the-pauper-storybook-adventures.json](./293199-the-princess-and-the-pauper-storybook-adventures.json) |
+| The Princess Bride: The Official Game | 58854 | [58854-the-princess-bride-the-official-game.json](./58854-the-princess-bride-the-official-game.json) |
 | The Princess in the Mirror | 298885 | [298885-the-princess-in-the-mirror.json](./298885-the-princess-in-the-mirror.json) |
 | The Princess of the Tower wants a Hero | 200632 | [200632-the-princess-of-the-tower-wants-a-hero.json](./200632-the-princess-of-the-tower-wants-a-hero.json) |
 | The Princess Swap | 313869 | [313869-the-princess-swap.json](./313869-the-princess-swap.json) |
@@ -11559,6 +11567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toroa: Skycall | 204521 | [204521-toroa-skycall.json](./204521-toroa-skycall.json) |
 | Torpedo Alley | 314417 | [314417-torpedo-alley.json](./314417-torpedo-alley.json) |
 | Torpedo Boat | 239648 | [239648-torpedo-boat.json](./239648-torpedo-boat.json) |
+| Torpedorun | 58872 | [58872-torpedorun.json](./58872-torpedorun.json) |
 | Torque | 179604 | [179604-torque.json](./179604-torque.json) |
 | Torque Drift 2 | 271277 | [271277-torque-drift-2.json](./271277-torque-drift-2.json) |
 | Torqued Up Legends | 141879 | [141879-torqued-up-legends.json](./141879-torqued-up-legends.json) |
