@@ -2292,6 +2292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XI: Wings of the Goddess | 402 | [402-final-fantasy-xi-wings-of-the-goddess.json](./402-final-fantasy-xi-wings-of-the-goddess.json) |
 | Final Fantasy XII: The Zodiac Age - Collector's Edition | 136364 | [136364-final-fantasy-xii-the-zodiac-age-collectors-edition.json](./136364-final-fantasy-xii-the-zodiac-age-collectors-edition.json) |
 | Final Fantasy XIII-2: Requiem of the Goddess | 294213 | [294213-final-fantasy-xiii-2-requiem-of-the-goddess.json](./294213-final-fantasy-xiii-2-requiem-of-the-goddess.json) |
+| Final Fantasy XIV Online | 14729 | [14729-final-fantasy-xiv-online.json](./14729-final-fantasy-xiv-online.json) |
 | Final Fantasy XIV Online | 386 | [386-final-fantasy-xiv-online.json](./386-final-fantasy-xiv-online.json) |
 | Final Fantasy XIV Online: Complete Edition | 293775 | [293775-final-fantasy-xiv-online-complete-edition.json](./293775-final-fantasy-xiv-online-complete-edition.json) |
 | Final Fantasy XIV Online: Starter Edition | 293777 | [293777-final-fantasy-xiv-online-starter-edition.json](./293777-final-fantasy-xiv-online-starter-edition.json) |
@@ -4139,6 +4140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager | 198244 | [198244-football-manager.json](./198244-football-manager.json) |
 | Football Manager | 23064 | [23064-football-manager.json](./23064-football-manager.json) |
 | Football Manager 2013 | 8974 | [8974-football-manager-2013.json](./8974-football-manager-2013.json) |
+| Football Manager 2016 | 19875 | [19875-football-manager-2016.json](./19875-football-manager-2016.json) |
 | Football Manager 2017 | 24481 | [24481-football-manager-2017.json](./24481-football-manager-2017.json) |
 | Football Manager 2019 Mobile | 175204 | [175204-football-manager-2019-mobile.json](./175204-football-manager-2019-mobile.json) |
 | Football Manager 2020 | 122080 | [122080-football-manager-2020.json](./122080-football-manager-2020.json) |
@@ -5438,6 +5440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogenlav: Skyward Bound | 278418 | [278418-frogenlav-skyward-bound.json](./278418-frogenlav-skyward-bound.json) |
 | FrogFlop | 313295 | [313295-frogflop.json](./313295-frogflop.json) |
 | Froggee | 93020 | [93020-froggee.json](./93020-froggee.json) |
+| Frogger | 11465 | [11465-frogger.json](./11465-frogger.json) |
 | Frogger | 203243 | [203243-frogger.json](./203243-frogger.json) |
 | Frogger | 218437 | [218437-frogger.json](./218437-frogger.json) |
 | Frogger | 218439 | [218439-frogger.json](./218439-frogger.json) |
