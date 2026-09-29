@@ -1327,6 +1327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Beat Battle Rider | 292288 | [292288-fast-beat-battle-rider.json](./292288-fast-beat-battle-rider.json) |
 | Fast Blast | 108503 | [108503-fast-blast.json](./108503-fast-blast.json) |
 | Fast Break | 12091 | [12091-fast-break.json](./12091-fast-break.json) |
+| Fast Bubble | 28094 | [28094-fast-bubble.json](./28094-fast-bubble.json) |
 | Fast Cars Small Islands | 284912 | [284912-fast-cars-small-islands.json](./284912-fast-cars-small-islands.json) |
 | Fast Delivery | 192672 | [192672-fast-delivery.json](./192672-fast-delivery.json) |
 | Fast Diamonds | 260770 | [260770-fast-diamonds.json](./260770-fast-diamonds.json) |
