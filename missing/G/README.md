@@ -2610,6 +2610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of War II: Special Edition | 43432 | [43432-god-of-war-ii-special-edition.json](./43432-god-of-war-ii-special-edition.json) |
 | God of War III Remake | 389452 | [389452-god-of-war-iii-remake.json](./389452-god-of-war-iii-remake.json) |
 | God of War III: Remastered | 19959 | [19959-god-of-war-iii-remastered.json](./19959-god-of-war-iii-remastered.json) |
+| God of War Ragnarök: Valhalla | 279623 | [279623-god-of-war-ragnarok-valhalla.json](./279623-god-of-war-ragnarok-valhalla.json) |
 | God of War Remake | 389450 | [389450-god-of-war-remake.json](./389450-god-of-war-remake.json) |
 | God of War Sons of Sparta: Digital Deluxe Edition | 407463 | [407463-god-of-war-sons-of-sparta-digital-deluxe-edition.json](./407463-god-of-war-sons-of-sparta-digital-deluxe-edition.json) |
 | God of War Trilogy | 44653 | [44653-god-of-war-trilogy.json](./44653-god-of-war-trilogy.json) |
@@ -4009,6 +4010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greymood | 262288 | [262288-greymood.json](./262288-greymood.json) |
 | Greyskin | 214049 | [214049-greyskin.json](./214049-greyskin.json) |
 | Greystorm | 73557 | [73557-greystorm.json](./73557-greystorm.json) |
+| Grid | 118871 | [118871-grid.json](./118871-grid.json) |
 | Grid 2 | 2138 | [2138-grid-2.json](./2138-grid-2.json) |
 | Grid Crypt | 398466 | [398466-grid-crypt.json](./398466-grid-crypt.json) |
 | Grid Glyphs | 316281 | [316281-grid-glyphs.json](./316281-grid-glyphs.json) |
