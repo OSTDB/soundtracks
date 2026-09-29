@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.H.Trouble Guy | 117067 | [117067-d-h-trouble-guy.json](./117067-d-h-trouble-guy.json) |
 | D.H.Zombie Zone | 117693 | [117693-d-h-zombie-zone.json](./117693-d-h-zombie-zone.json) |
 | D.I.M. | 372105 | [372105-d-i-m.json](./372105-d-i-m.json) |
+| D.I.P.R.I.P. Warm Up | 29120 | [29120-d-i-p-r-i-p-warm-up.json](./29120-d-i-p-r-i-p-warm-up.json) |
 | D.I.R: Death is Random | 186604 | [186604-d-i-r-death-is-random.json](./186604-d-i-r-death-is-random.json) |
 | D.N. Angel: Crimson Wings | 67374 | [67374-d-n-angel-crimson-wings.json](./67374-d-n-angel-crimson-wings.json) |
 | D.N.A. | 137022 | [137022-d-n-a.json](./137022-d-n-a.json) |
@@ -7344,6 +7345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop Zone 4 | 109590 | [109590-drop-zone-4.json](./109590-drop-zone-4.json) |
 | Drop: Save the Forest | 373087 | [373087-drop-save-the-forest.json](./373087-drop-save-the-forest.json) |
 | Drop: System Breach | 202862 | [202862-drop-system-breach.json](./202862-drop-system-breach.json) |
+| Drop7 | 29044 | [29044-drop7.json](./29044-drop7.json) |
 | DropCast | 21458 | [21458-dropcast.json](./21458-dropcast.json) |
 | Dropfinity | 407526 | [407526-dropfinity.json](./407526-dropfinity.json) |
 | Droplet | 176483 | [176483-droplet.json](./176483-droplet.json) |
@@ -7628,6 +7630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duel of Honor | 272239 | [272239-duel-of-honor.json](./272239-duel-of-honor.json) |
 | Duel Princess | 186912 | [186912-duel-princess.json](./186912-duel-princess.json) |
 | Duel Toys 2 | 222860 | [222860-duel-toys-2.json](./222860-duel-toys-2.json) |
+| Duel VR | 29083 | [29083-duel-vr.json](./29083-duel-vr.json) |
 | Duelant | 311456 | [311456-duelant.json](./311456-duelant.json) |
 | Dueling Dragons | 183566 | [183566-dueling-dragons.json](./183566-dueling-dragons.json) |
 | Dueling Drums | 341466 | [341466-dueling-drums.json](./341466-dueling-drums.json) |
