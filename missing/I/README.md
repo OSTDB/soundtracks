@@ -277,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Want To Make Something Beautiful | 391209 | [391209-i-want-to-make-something-beautiful.json](./391209-i-want-to-make-something-beautiful.json) |
 | I Want to Play the Villain! | 412542 | [412542-i-want-to-play-the-villain.json](./412542-i-want-to-play-the-villain.json) |
 | I Want to Run Away From My Goth Mommy... or Do I? | 372691 | [372691-i-want-to-run-away-from-my-goth-mommy-or-do-i.json](./372691-i-want-to-run-away-from-my-goth-mommy-or-do-i.json) |
+| I Want Toilet!!!!!! | 52748 | [52748-i-want-toilet.json](./52748-i-want-toilet.json) |
 | I was a Cannibal for the FBI | 71526 | [71526-i-was-a-cannibal-for-the-fbi.json](./71526-i-was-a-cannibal-for-the-fbi.json) |
 | I Was Always Filled With Anger | 139266 | [139266-i-was-always-filled-with-anger.json](./139266-i-was-always-filled-with-anger.json) |
 | I Was An Atomic Mutant! | 24084 | [24084-i-was-an-atomic-mutant.json](./24084-i-was-an-atomic-mutant.json) |
