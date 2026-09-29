@@ -848,10 +848,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Town : Invisible Danger | 75015 | [75015-dark-town-invisible-danger.json](./75015-dark-town-invisible-danger.json) |
 | Dark Town Secrets: Lost Lulu - Collector's Edition | 389078 | [389078-dark-town-secrets-lost-lulu-collectors-edition.json](./389078-dark-town-secrets-lost-lulu-collectors-edition.json) |
 | Dark Train | 25298 | [25298-dark-train.json](./25298-dark-train.json) |
+| Dark Train: Coupe | 51436 | [51436-dark-train-coupe.json](./51436-dark-train-coupe.json) |
 | Dark Traveller | 241952 | [241952-dark-traveller.json](./241952-dark-traveller.json) |
 | Dark Umbra | 295793 | [295793-dark-umbra.json](./295793-dark-umbra.json) |
 | Dark Universe | 256893 | [256893-dark-universe.json](./256893-dark-universe.json) |
 | Dark Universe | 69798 | [69798-dark-universe.json](./69798-dark-universe.json) |
+| Dark Vengeance | 51368 | [51368-dark-vengeance.json](./51368-dark-vengeance.json) |
 | Dark Visit | 103446 | [103446-dark-visit.json](./103446-dark-visit.json) |
 | Dark Void | 4220 | [4220-dark-void.json](./4220-dark-void.json) |
 | Dark War | 30813 | [30813-dark-war.json](./30813-dark-war.json) |
@@ -3179,6 +3181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny Warfare: Sci-Fi FPS | 100366 | [100366-destiny-warfare-sci-fi-fps.json](./100366-destiny-warfare-sci-fi-fps.json) |
 | Destiny: Rising | 319758 | [319758-destiny-rising.json](./319758-destiny-rising.json) |
 | Destiny: The Dark Below | 19920 | [19920-destiny-the-dark-below.json](./19920-destiny-the-dark-below.json) |
+| Destiny: World Domination From Stone Age to Space Age | 51363 | [51363-destiny-world-domination-from-stone-age-to-space-age.json](./51363-destiny-world-domination-from-stone-age-to-space-age.json) |
 | Destiny's Divide | 160170 | [160170-destinys-divide.json](./160170-destinys-divide.json) |
 | Destiny's Plan | 182355 | [182355-destinys-plan.json](./182355-destinys-plan.json) |
 | Destiny's Princess: A War Story, A Love Story | 33395 | [33395-destinys-princess-a-war-story-a-love-story.json](./33395-destinys-princess-a-war-story-a-love-story.json) |
@@ -4262,6 +4265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disco Bert and the Curse of the Evil Mummies | 55913 | [55913-disco-bert-and-the-curse-of-the-evil-mummies.json](./55913-disco-bert-and-the-curse-of-the-evil-mummies.json) |
 | Disco Bullets | 122371 | [122371-disco-bullets.json](./122371-disco-bullets.json) |
 | Disco Dave | 245257 | [245257-disco-dave.json](./245257-disco-dave.json) |
+| Disco Destruction | 51423 | [51423-disco-destruction.json](./51423-disco-destruction.json) |
 | Disco Duck | 366317 | [366317-disco-duck.json](./366317-disco-duck.json) |
 | Disco Elysium | 335434 | [335434-disco-elysium.json](./335434-disco-elysium.json) |
 | Disco Elysium: Game Boy Edition | 140050 | [140050-disco-elysium-game-boy-edition.json](./140050-disco-elysium-game-boy-edition.json) |
@@ -5248,6 +5252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don King Presents: Prizefighter | 6970 | [6970-don-king-presents-prizefighter.json](./6970-don-king-presents-prizefighter.json) |
 | Don Memo | 388704 | [388704-don-memo.json](./388704-don-memo.json) |
 | Don Pan | 55860 | [55860-don-pan.json](./55860-don-pan.json) |
+| Don Quijote | 51440 | [51440-don-quijote.json](./51440-don-quijote.json) |
 | Don Quixote: A Dream in Seven Crystals | 273124 | [273124-don-quixote-a-dream-in-seven-crystals.json](./273124-don-quixote-a-dream-in-seven-crystals.json) |
 | Don't Ask Succubus | 173822 | [173822-dont-ask-succubus.json](./173822-dont-ask-succubus.json) |
 | Don't Be Afraid | 80904 | [80904-dont-be-afraid.json](./80904-dont-be-afraid.json) |
