@@ -1333,6 +1333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weather Lord: Legendary Hero | 53918 | [53918-weather-lord-legendary-hero.json](./53918-weather-lord-legendary-hero.json) |
 | Weather Lord: Legendary Hero - Collector's Edition | 32114 | [32114-weather-lord-legendary-hero-collectors-edition.json](./32114-weather-lord-legendary-hero-collectors-edition.json) |
 | Weather Lord: Royal Holidays | 53917 | [53917-weather-lord-royal-holidays.json](./53917-weather-lord-royal-holidays.json) |
+| Weather Lord: Royal Holidays - Collector's Edition | 30117 | [30117-weather-lord-royal-holidays-collectors-edition.json](./30117-weather-lord-royal-holidays-collectors-edition.json) |
 | Weather Report | 362919 | [362919-weather-report.json](./362919-weather-report.json) |
 | Weathered | 62827 | [62827-weathered.json](./62827-weathered.json) |
 | Weatherworn: The Adventure of Pap & Pup | 157526 | [157526-weatherworn-the-adventure-of-pap-and-pup.json](./157526-weatherworn-the-adventure-of-pap-and-pup.json) |
@@ -2787,6 +2788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Maker | 334321 | [334321-witch-maker.json](./334321-witch-maker.json) |
 | Witch n' Wiz | 179670 | [179670-witch-n-wiz.json](./179670-witch-n-wiz.json) |
 | Witch of Ice Kingdom Collection | 52134 | [52134-witch-of-ice-kingdom-collection.json](./52134-witch-of-ice-kingdom-collection.json) |
+| Witch of Ice Kingdom II | 30034 | [30034-witch-of-ice-kingdom-ii.json](./30034-witch-of-ice-kingdom-ii.json) |
 | Witch Pachi | 334293 | [334293-witch-pachi.json](./334293-witch-pachi.json) |
 | Witch Play House | 372689 | [372689-witch-play-house.json](./372689-witch-play-house.json) |
 | Witch Potion | 221427 | [221427-witch-potion.json](./221427-witch-potion.json) |
