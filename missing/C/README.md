@@ -1585,6 +1585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Lords of Shadow - Mirror of Fate HD | 9715 | [9715-castlevania-lords-of-shadow-mirror-of-fate-hd.json](./9715-castlevania-lords-of-shadow-mirror-of-fate-hd.json) |
 | Castlevania: Lords of Shadow - Reverie | 10075 | [10075-castlevania-lords-of-shadow-reverie.json](./10075-castlevania-lords-of-shadow-reverie.json) |
 | Castlevania: Lords of Shadow - Special Edition | 386289 | [386289-castlevania-lords-of-shadow-special-edition.json](./386289-castlevania-lords-of-shadow-special-edition.json) |
+| Castlevania: Lords of Shadow 2 - Revelations | 6303 | [6303-castlevania-lords-of-shadow-2-revelations.json](./6303-castlevania-lords-of-shadow-2-revelations.json) |
 | Castlevania: Maria of Sorrow | 248309 | [248309-castlevania-maria-of-sorrow.json](./248309-castlevania-maria-of-sorrow.json) |
 | Castlevania: Order of Ecclesia | 1141 | [1141-castlevania-order-of-ecclesia.json](./1141-castlevania-order-of-ecclesia.json) |
 | Castlevania: Portrait of Ruin | 1138 | [1138-castlevania-portrait-of-ruin.json](./1138-castlevania-portrait-of-ruin.json) |
