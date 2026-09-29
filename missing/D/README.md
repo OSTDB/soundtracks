@@ -4742,6 +4742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DizzyRoids | 233222 | [233222-dizzyroids.json](./233222-dizzyroids.json) |
 | Dj 8 Beats: Infinite | 303480 | [303480-dj-8-beats-infinite.json](./303480-dj-8-beats-infinite.json) |
 | DJ Beats: Waifus | 186237 | [186237-dj-beats-waifus.json](./186237-dj-beats-waifus.json) |
+| DJ Boy | 28038 | [28038-dj-boy.json](./28038-dj-boy.json) |
 | DJ Clicker: World Tour | 264655 | [264655-dj-clicker-world-tour.json](./264655-dj-clicker-world-tour.json) |
 | DJ Life | 67978 | [67978-dj-life.json](./67978-dj-life.json) |
 | DJ Max Fever | 42892 | [42892-dj-max-fever.json](./42892-dj-max-fever.json) |
