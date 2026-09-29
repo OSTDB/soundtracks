@@ -2263,6 +2263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetrigram | 195489 | [195489-tetrigram.json](./195489-tetrigram.json) |
 | Tetriller | 84247 | [84247-tetriller.json](./84247-tetriller.json) |
 | TetriMatch | 339273 | [339273-tetrimatch.json](./339273-tetrimatch.json) |
+| Tetris | 130749 | [130749-tetris.json](./130749-tetris.json) |
 | Tetris | 131503 | [131503-tetris.json](./131503-tetris.json) |
 | Tetris | 133912 | [133912-tetris.json](./133912-tetris.json) |
 | Tetris | 180279 | [180279-tetris.json](./180279-tetris.json) |
@@ -4907,6 +4908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House in the Woods | 176505 | [176505-the-house-in-the-woods.json](./176505-the-house-in-the-woods.json) |
 | The House of Big people | 188677 | [188677-the-house-of-big-people.json](./188677-the-house-of-big-people.json) |
 | The House of Da Vinci | 39749 | [39749-the-house-of-da-vinci.json](./39749-the-house-of-da-vinci.json) |
+| The House of Da Vinci 2 | 132542 | [132542-the-house-of-da-vinci-2.json](./132542-the-house-of-da-vinci-2.json) |
 | The House of Da Vinci Complete Bundle | 310498 | [310498-the-house-of-da-vinci-complete-bundle.json](./310498-the-house-of-da-vinci-complete-bundle.json) |
 | The House of E. | 242490 | [242490-the-house-of-e.json](./242490-the-house-of-e.json) |
 | The House of God | 138182 | [138182-the-house-of-god.json](./138182-the-house-of-god.json) |
@@ -5556,6 +5558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Son of Vorona | 367012 | [367012-the-last-son-of-vorona.json](./367012-the-last-son-of-vorona.json) |
 | The Last Sorcerer | 55479 | [55479-the-last-sorcerer.json](./55479-the-last-sorcerer.json) |
 | The Last Sorrow | 287643 | [287643-the-last-sorrow.json](./287643-the-last-sorrow.json) |
+| The Last Spell | 121501 | [121501-the-last-spell.json](./121501-the-last-spell.json) |
 | The Last Sphinx ARG | 111473 | [111473-the-last-sphinx-arg.json](./111473-the-last-sphinx-arg.json) |
 | The Last Spin | 298632 | [298632-the-last-spin.json](./298632-the-last-spin.json) |
 | The Last Stand | 148353 | [148353-the-last-stand.json](./148353-the-last-stand.json) |
@@ -5940,6 +5943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Long Dark: Tales from the Far Territory | 227238 | [227238-the-long-dark-tales-from-the-far-territory.json](./227238-the-long-dark-tales-from-the-far-territory.json) |
 | The Long Desert Drive | 360047 | [360047-the-long-desert-drive.json](./360047-the-long-desert-drive.json) |
 | The Long Drift | 392303 | [392303-the-long-drift.json](./392303-the-long-drift.json) |
+| The Long Drive | 122589 | [122589-the-long-drive.json](./122589-the-long-drive.json) |
 | The Long Gate | 127215 | [127215-the-long-gate.json](./127215-the-long-gate.json) |
 | The Long Run | 136230 | [136230-the-long-run.json](./136230-the-long-run.json) |
 | The Long Sky VR | 132790 | [132790-the-long-sky-vr.json](./132790-the-long-sky-vr.json) |
@@ -6642,6 +6646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outer Space Bugs | 224751 | [224751-the-outer-space-bugs.json](./224751-the-outer-space-bugs.json) |
 | The Outer Worlds 2: Premium Edition | 348309 | [348309-the-outer-worlds-2-premium-edition.json](./348309-the-outer-worlds-2-premium-edition.json) |
 | The Outer Worlds: Expansion Pass | 293732 | [293732-the-outer-worlds-expansion-pass.json](./293732-the-outer-worlds-expansion-pass.json) |
+| The Outer Worlds: Murder on Eridanos | 136430 | [136430-the-outer-worlds-murder-on-eridanos.json](./136430-the-outer-worlds-murder-on-eridanos.json) |
 | The Outer Worlds: Peril on Gorgon | 135996 | [135996-the-outer-worlds-peril-on-gorgon.json](./135996-the-outer-worlds-peril-on-gorgon.json) |
 | The Outer Worlds: Spacer's Choice Edition | 239999 | [239999-the-outer-worlds-spacers-choice-edition.json](./239999-the-outer-worlds-spacers-choice-edition.json) |
 | The Outer Zone: Survival Tactics | 264856 | [264856-the-outer-zone-survival-tactics.json](./264856-the-outer-zone-survival-tactics.json) |
@@ -7145,6 +7150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Room of Black & White | 34455 | [34455-the-room-of-black-and-white.json](./34455-the-room-of-black-and-white.json) |
 | The Room Syndrome | 124218 | [124218-the-room-syndrome.json](./124218-the-room-syndrome.json) |
 | The Room Tribute | 92463 | [92463-the-room-tribute.json](./92463-the-room-tribute.json) |
+| The Room VR: A Dark Matter | 123991 | [123991-the-room-vr-a-dark-matter.json](./123991-the-room-vr-a-dark-matter.json) |
 | The Rooms | 191855 | [191855-the-rooms.json](./191855-the-rooms.json) |
 | The Roots: Gates of Chaos | 47566 | [47566-the-roots-gates-of-chaos.json](./47566-the-roots-gates-of-chaos.json) |
 | The Roottrees Are Dead | 276492 | [276492-the-roottrees-are-dead.json](./276492-the-roottrees-are-dead.json) |
@@ -7515,6 +7521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Grange Mudroom Kit | 362301 | [362301-the-sims-4-grange-mudroom-kit.json](./362301-the-sims-4-grange-mudroom-kit.json) |
 | The Sims 4: High School Years | 207387 | [207387-the-sims-4-high-school-years.json](./207387-the-sims-4-high-school-years.json) |
 | The Sims 4: Industrial Loft Kit | 165538 | [165538-the-sims-4-industrial-loft-kit.json](./165538-the-sims-4-industrial-loft-kit.json) |
+| The Sims 4: Island Living | 119318 | [119318-the-sims-4-island-living.json](./119318-the-sims-4-island-living.json) |
 | The Sims 4: Kids Room Stuff | 121023 | [121023-the-sims-4-kids-room-stuff.json](./121023-the-sims-4-kids-room-stuff.json) |
 | The Sims 4: Kitchen Clutter Kit | 350996 | [350996-the-sims-4-kitchen-clutter-kit.json](./350996-the-sims-4-kitchen-clutter-kit.json) |
 | The Sims 4: Lady Bridgerton's Masquerade Ball Fashion Kit | 404233 | [404233-the-sims-4-lady-bridgertons-masquerade-ball-fashion-kit.json](./404233-the-sims-4-lady-bridgertons-masquerade-ball-fashion-kit.json) |
@@ -8471,6 +8478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walk | 375939 | [375939-the-walk.json](./375939-the-walk.json) |
 | The Walking Dead: A New Frontier - Episode 2: Ties That Bind - Part Two | 127063 | [127063-the-walking-dead-a-new-frontier-episode-2-ties-that-bind-part-two.json](./127063-the-walking-dead-a-new-frontier-episode-2-ties-that-bind-part-two.json) |
 | The Walking Dead: A New Frontier - Episode 3: Above the Law | 127064 | [127064-the-walking-dead-a-new-frontier-episode-3-above-the-law.json](./127064-the-walking-dead-a-new-frontier-episode-3-above-the-law.json) |
+| The Walking Dead: A New Frontier - Episode 5: From the Gallows | 127066 | [127066-the-walking-dead-a-new-frontier-episode-5-from-the-gallows.json](./127066-the-walking-dead-a-new-frontier-episode-5-from-the-gallows.json) |
 | The Walking Dead: Aftermath | 410938 | [410938-the-walking-dead-aftermath.json](./410938-the-walking-dead-aftermath.json) |
 | The Walking Dead: Last Mile | 209152 | [209152-the-walking-dead-last-mile.json](./209152-the-walking-dead-last-mile.json) |
 | The Walking Dead: March to War | 25642 | [25642-the-walking-dead-march-to-war.json](./25642-the-walking-dead-march-to-war.json) |
@@ -11162,6 +11170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ToHeart2: AnotherDays | 242474 | [242474-toheart2-anotherdays.json](./242474-toheart2-anotherdays.json) |
 | Tohoku Daigaku Karei Igaku Kenkyuusho: Kawashima Ryuuta Kyouju Kanshuu - Mono Sugoku Nou wo Kitaeru 5-Funkan no Oni Training | 136956 | [136956-tohoku-daigaku-karei-igaku-kenkyuusho-kawashima-ryuuta-kyouju-kanshuu-mono-sugoku-nou-wo-kitaeru-5-funkan-no-oni-training.json](./136956-tohoku-daigaku-karei-igaku-kenkyuusho-kawashima-ryuuta-kyouju-kanshuu-mono-sugoku-nou-wo-kitaeru-5-funkan-no-oni-training.json) |
 | Tohotopia | 391609 | [391609-tohotopia.json](./391609-tohotopia.json) |
+| Tohu | 118044 | [118044-tohu.json](./118044-tohu.json) |
 | Tohu-Teka | 120159 | [120159-tohu-teka.json](./120159-tohu-teka.json) |
 | Toi Acid Game | 47525 | [47525-toi-acid-game.json](./47525-toi-acid-game.json) |
 | Toil & Trubble | 404933 | [404933-toil-and-trubble.json](./404933-toil-and-trubble.json) |
@@ -11191,6 +11200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toki no Ihoujin | 408767 | [408767-toki-no-ihoujin.json](./408767-toki-no-ihoujin.json) |
 | Toki no Tabibito: Time Stranger | 48879 | [48879-toki-no-tabibito-time-stranger.json](./48879-toki-no-tabibito-time-stranger.json) |
 | Toki Tori 2 | 2351 | [2351-toki-tori-2.json](./2351-toki-tori-2.json) |
+| Toki Tori 2+ | 16282 | [16282-toki-tori-2.json](./16282-toki-tori-2.json) |
 | Toki Tori Collection | 122202 | [122202-toki-tori-collection.json](./122202-toki-tori-collection.json) |
 | Toki: Retrollector | 112962 | [112962-toki-retrollector.json](./112962-toki-retrollector.json) |
 | Tokigeon | 398399 | [398399-tokigeon.json](./398399-tokigeon.json) |
