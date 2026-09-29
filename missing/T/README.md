@@ -908,6 +908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Brigade | 391599 | [391599-tank-brigade.json](./391599-tank-brigade.json) |
 | Tank Buddies | 101523 | [101523-tank-buddies.json](./101523-tank-buddies.json) |
 | Tank Bung | 110965 | [110965-tank-bung.json](./110965-tank-bung.json) |
+| Tank Carnage | 28037 | [28037-tank-carnage.json](./28037-tank-carnage.json) |
 | Tank Chess | 304706 | [304706-tank-chess.json](./304706-tank-chess.json) |
 | Tank Combat | 54425 | [54425-tank-combat.json](./54425-tank-combat.json) |
 | Tank Domination | 343877 | [343877-tank-domination.json](./343877-tank-domination.json) |
@@ -1724,6 +1725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telusfax | 229810 | [229810-telusfax.json](./229810-telusfax.json) |
 | Temanava | 236768 | [236768-temanava.json](./236768-temanava.json) |
 | Temari Trials | 359984 | [359984-temari-trials.json](./359984-temari-trials.json) |
+| Temerity | 28100 | [28100-temerity.json](./28100-temerity.json) |
 | Temirana: The Lucky Princess and the Tragic Knights | 200452 | [200452-temirana-the-lucky-princess-and-the-tragic-knights.json](./200452-temirana-the-lucky-princess-and-the-tragic-knights.json) |
 | Temp Zero | 196258 | [196258-temp-zero.json](./196258-temp-zero.json) |
 | Tempaux | 354525 | [354525-tempaux.json](./354525-tempaux.json) |
@@ -11943,6 +11945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touchdown | 346102 | [346102-touchdown.json](./346102-touchdown.json) |
 | Touchdown Pinball | 129804 | [129804-touchdown-pinball.json](./129804-touchdown-pinball.json) |
 | TouchDown Rush | 235151 | [235151-touchdown-rush.json](./235151-touchdown-rush.json) |
+| Touchdown: Armor League | 28057 | [28057-touchdown-armor-league.json](./28057-touchdown-armor-league.json) |
 | TouchFish | 137011 | [137011-touchfish.json](./137011-touchfish.json) |
 | Touchgrind | 66732 | [66732-touchgrind.json](./66732-touchgrind.json) |
 | Touchgrind BMX | 86849 | [86849-touchgrind-bmx.json](./86849-touchgrind-bmx.json) |
