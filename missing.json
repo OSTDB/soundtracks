@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T02:47:55.945Z",
-  "total_missing": 138088,
+  "generated_at": "2026-09-29T03:04:03.818Z",
+  "total_missing": 138138,
   "games": [
     {
       "igdb_id": 186066,
@@ -26016,6 +26016,11 @@
       "igdb_id": 290508,
       "game_name": "Angry Robot Girlfriend",
       "file": "missing/A/290508-angry-robot-girlfriend.json"
+    },
+    {
+      "igdb_id": 52786,
+      "game_name": "Angry shapes: Clash of geometry",
+      "file": "missing/A/52786-angry-shapes-clash-of-geometry.json"
     },
     {
       "igdb_id": 106125,
@@ -84903,6 +84908,11 @@
       "file": "missing/C/414295-cafe-machina.json"
     },
     {
+      "igdb_id": 52720,
+      "game_name": "Cafe Mahjongg",
+      "file": "missing/C/52720-cafe-mahjongg.json"
+    },
+    {
       "igdb_id": 243764,
       "game_name": "Cafe Maid",
       "file": "missing/C/243764-cafe-maid.json"
@@ -85553,6 +85563,11 @@
       "file": "missing/C/135300-call-of-duty-black-ops-mobile.json"
     },
     {
+      "igdb_id": 52718,
+      "game_name": "Call of Duty: Definitive Collection - Volume 1",
+      "file": "missing/C/52718-call-of-duty-definitive-collection-volume-1.json"
+    },
+    {
       "igdb_id": 276273,
       "game_name": "Call of Duty: Endowment (C.O.D.E.) Warrior Pack",
       "file": "missing/C/276273-call-of-duty-endowment-c-o-d-e-warrior-pack.json"
@@ -86013,6 +86028,11 @@
       "file": "missing/C/387375-callus.json"
     },
     {
+      "igdb_id": 52714,
+      "game_name": "Cally's Caves Definitive Collection",
+      "file": "missing/C/52714-callys-caves-definitive-collection.json"
+    },
+    {
       "igdb_id": 316852,
       "game_name": "Calm Before The Storm",
       "file": "missing/C/316852-calm-before-the-storm.json"
@@ -86266,6 +86286,11 @@
       "igdb_id": 25605,
       "game_name": "Camp Sunshine",
       "file": "missing/C/25605-camp-sunshine.json"
+    },
+    {
+      "igdb_id": 52713,
+      "game_name": "Camp Sunshine: Ultimate Edition",
+      "file": "missing/C/52713-camp-sunshine-ultimate-edition.json"
     },
     {
       "igdb_id": 99025,
@@ -99193,9 +99218,19 @@
       "file": "missing/C/11716-chicken-invaders-4-ultimate-omelette.json"
     },
     {
+      "igdb_id": 52743,
+      "game_name": "Chicken Invaders 5 Deluxe",
+      "file": "missing/C/52743-chicken-invaders-5-deluxe.json"
+    },
+    {
       "igdb_id": 108464,
       "game_name": "Chicken Invaders 5: Christmas Edition",
       "file": "missing/C/108464-chicken-invaders-5-christmas-edition.json"
+    },
+    {
+      "igdb_id": 52742,
+      "game_name": "Chicken Invaders 5: Cluck of the Dark Side - Halloween Edition",
+      "file": "missing/C/52742-chicken-invaders-5-cluck-of-the-dark-side-halloween-edition.json"
     },
     {
       "igdb_id": 204513,
@@ -100193,6 +100228,11 @@
       "file": "missing/C/106409-chiptune-dj.json"
     },
     {
+      "igdb_id": 52741,
+      "game_name": "Chiptune Runner",
+      "file": "missing/C/52741-chiptune-runner.json"
+    },
+    {
       "igdb_id": 146176,
       "game_name": "Chiral",
       "file": "missing/C/146176-chiral.json"
@@ -100921,6 +100961,11 @@
       "igdb_id": 25671,
       "game_name": "Chopper Hunt",
       "file": "missing/C/25671-chopper-hunt.json"
+    },
+    {
+      "igdb_id": 52740,
+      "game_name": "Chopper: Lethal darkness - Deluxe Edition",
+      "file": "missing/C/52740-chopper-lethal-darkness-deluxe-edition.json"
     },
     {
       "igdb_id": 236541,
@@ -101983,6 +102028,11 @@
       "file": "missing/C/35962-chronicles-of-a-dark-lord-episode-ii-war-of-the-abyss.json"
     },
     {
+      "igdb_id": 52739,
+      "game_name": "Chronicles of a Dark Lord: Genesis",
+      "file": "missing/C/52739-chronicles-of-a-dark-lord-genesis.json"
+    },
+    {
       "igdb_id": 339644,
       "game_name": "Chronicles of Albian 2: The Wizbury School of Magic",
       "file": "missing/C/339644-chronicles-of-albian-2-the-wizbury-school-of-magic.json"
@@ -102076,6 +102126,11 @@
       "igdb_id": 253321,
       "game_name": "Chronicles of Vipers",
       "file": "missing/C/253321-chronicles-of-vipers.json"
+    },
+    {
+      "igdb_id": 52738,
+      "game_name": "Chronicles of Witches & Warlocks",
+      "file": "missing/C/52738-chronicles-of-witches-and-warlocks.json"
     },
     {
       "igdb_id": 35130,
@@ -102888,6 +102943,11 @@
       "file": "missing/C/132149-cinderstone-online.json"
     },
     {
+      "igdb_id": 52736,
+      "game_name": "Cindy's Sundaes",
+      "file": "missing/C/52736-cindys-sundaes.json"
+    },
+    {
       "igdb_id": 112265,
       "game_name": "Cine Tracer",
       "file": "missing/C/112265-cine-tracer.json"
@@ -102921,6 +102981,11 @@
       "igdb_id": 319218,
       "game_name": "Cinematrix",
       "file": "missing/C/319218-cinematrix.json"
+    },
+    {
+      "igdb_id": 52735,
+      "game_name": "Cinemax Complete",
+      "file": "missing/C/52735-cinemax-complete.json"
     },
     {
       "igdb_id": 231638,
@@ -103461,6 +103526,61 @@
       "igdb_id": 319764,
       "game_name": "Cities Domination",
       "file": "missing/C/319764-cities-domination.json"
+    },
+    {
+      "igdb_id": 52734,
+      "game_name": "Cities in Motion 2: Bus Mania",
+      "file": "missing/C/52734-cities-in-motion-2-bus-mania.json"
+    },
+    {
+      "igdb_id": 52733,
+      "game_name": "Cities in Motion 2: European Cities",
+      "file": "missing/C/52733-cities-in-motion-2-european-cities.json"
+    },
+    {
+      "igdb_id": 52730,
+      "game_name": "Cities in Motion 2: Marvellous Monorails",
+      "file": "missing/C/52730-cities-in-motion-2-marvellous-monorails.json"
+    },
+    {
+      "igdb_id": 52727,
+      "game_name": "Cities in Motion 2: Trekking Trolleys",
+      "file": "missing/C/52727-cities-in-motion-2-trekking-trolleys.json"
+    },
+    {
+      "igdb_id": 52725,
+      "game_name": "Cities in Motion 2: Wending Waterbuses",
+      "file": "missing/C/52725-cities-in-motion-2-wending-waterbuses.json"
+    },
+    {
+      "igdb_id": 52731,
+      "game_name": "Cities in Motion Complete Collection",
+      "file": "missing/C/52731-cities-in-motion-complete-collection.json"
+    },
+    {
+      "igdb_id": 52723,
+      "game_name": "Cities in Motion: Design Marvels",
+      "file": "missing/C/52723-cities-in-motion-design-marvels.json"
+    },
+    {
+      "igdb_id": 52722,
+      "game_name": "Cities in Motion: Design Now",
+      "file": "missing/C/52722-cities-in-motion-design-now.json"
+    },
+    {
+      "igdb_id": 52728,
+      "game_name": "Cities in Motion: German Cities",
+      "file": "missing/C/52728-cities-in-motion-german-cities.json"
+    },
+    {
+      "igdb_id": 52724,
+      "game_name": "Cities in Motion: Tokyo",
+      "file": "missing/C/52724-cities-in-motion-tokyo.json"
+    },
+    {
+      "igdb_id": 52721,
+      "game_name": "Cities in Motion: Ulm",
+      "file": "missing/C/52721-cities-in-motion-ulm.json"
     },
     {
       "igdb_id": 248707,
@@ -136588,6 +136708,11 @@
       "file": "missing/D/252209-dead-hook.json"
     },
     {
+      "igdb_id": 52772,
+      "game_name": "Dead Horizon",
+      "file": "missing/D/52772-dead-horizon.json"
+    },
+    {
       "igdb_id": 406174,
       "game_name": "Dead Hospital",
       "file": "missing/D/406174-dead-hospital.json"
@@ -143041,6 +143166,11 @@
       "igdb_id": 336609,
       "game_name": "Den' Rozhdeniya 2",
       "file": "missing/D/336609-den-rozhdeniya-2.json"
+    },
+    {
+      "igdb_id": 52752,
+      "game_name": "Denarius",
+      "file": "missing/D/52752-denarius.json"
     },
     {
       "igdb_id": 326067,
@@ -158661,6 +158791,11 @@
       "igdb_id": 73360,
       "game_name": "Double Talk: Sports Edition",
       "file": "missing/D/73360-double-talk-sports-edition.json"
+    },
+    {
+      "igdb_id": 52765,
+      "game_name": "Double the Meat",
+      "file": "missing/D/52765-double-the-meat.json"
     },
     {
       "igdb_id": 215928,
@@ -205493,6 +205628,11 @@
       "file": "missing/F/270406-flight-of-a-dragon.json"
     },
     {
+      "igdb_id": 52771,
+      "game_name": "Flight of Light",
+      "file": "missing/F/52771-flight-of-light.json"
+    },
+    {
       "igdb_id": 8789,
       "game_name": "Flight of the Amazon Queen",
       "file": "missing/F/8789-flight-of-the-amazon-queen.json"
@@ -238043,6 +238183,11 @@
       "file": "missing/G/409647-gravityball.json"
     },
     {
+      "igdb_id": 52773,
+      "game_name": "GravityTunnelVR",
+      "file": "missing/G/52773-gravitytunnelvr.json"
+    },
+    {
       "igdb_id": 32180,
       "game_name": "GravPool",
       "file": "missing/G/32180-gravpool.json"
@@ -246991,6 +247136,11 @@
       "igdb_id": 243220,
       "game_name": "Hang Gliding: VR Experience",
       "file": "missing/H/243220-hang-gliding-vr-experience.json"
+    },
+    {
+      "igdb_id": 52747,
+      "game_name": "Hang Line",
+      "file": "missing/H/52747-hang-line.json"
     },
     {
       "igdb_id": 83451,
@@ -273886,6 +274036,11 @@
       "igdb_id": 372691,
       "game_name": "I Want to Run Away From My Goth Mommy... or Do I?",
       "file": "missing/I/372691-i-want-to-run-away-from-my-goth-mommy-or-do-i.json"
+    },
+    {
+      "igdb_id": 52748,
+      "game_name": "I Want Toilet!!!!!!",
+      "file": "missing/I/52748-i-want-toilet.json"
     },
     {
       "igdb_id": 71526,
@@ -411213,6 +411368,11 @@
       "file": "missing/O/219267-outspell.json"
     },
     {
+      "igdb_id": 52778,
+      "game_name": "OutSplit",
+      "file": "missing/O/52778-outsplit.json"
+    },
+    {
       "igdb_id": 227793,
       "game_name": "Outstand",
       "file": "missing/O/227793-outstand.json"
@@ -423528,9 +423688,29 @@
       "file": "missing/P/110981-petite-zombies.json"
     },
     {
+      "igdb_id": 52761,
+      "game_name": "Petka 007: Zoloto Partii",
+      "file": "missing/P/52761-petka-007-zoloto-partii.json"
+    },
+    {
       "igdb_id": 52758,
       "game_name": "Petka 4: Den' Nezavisimosti",
       "file": "missing/P/52758-petka-4-den-nezavisimosti.json"
+    },
+    {
+      "igdb_id": 52760,
+      "game_name": "Petka 6: Novaya Realnost",
+      "file": "missing/P/52760-petka-6-novaya-realnost.json"
+    },
+    {
+      "igdb_id": 52762,
+      "game_name": "Petka 8: Pokorenie Rima",
+      "file": "missing/P/52762-petka-8-pokorenie-rima.json"
+    },
+    {
+      "igdb_id": 52763,
+      "game_name": "Petka 9: Proletarskiy Glamur",
+      "file": "missing/P/52763-petka-9-proletarskiy-glamur.json"
     },
     {
       "igdb_id": 356624,
@@ -463073,6 +463253,11 @@
       "file": "missing/R/68931-reball.json"
     },
     {
+      "igdb_id": 52756,
+      "game_name": "Rebel",
+      "file": "missing/R/52756-rebel.json"
+    },
+    {
       "igdb_id": 78086,
       "game_name": "Rebel",
       "file": "missing/R/78086-rebel.json"
@@ -464003,6 +464188,11 @@
       "file": "missing/R/343983-red-bit-escape.json"
     },
     {
+      "igdb_id": 52719,
+      "game_name": "Red Blood",
+      "file": "missing/R/52719-red-blood.json"
+    },
+    {
       "igdb_id": 111197,
       "game_name": "Red Blue",
       "file": "missing/R/111197-red-blue.json"
@@ -464336,6 +464526,11 @@
       "igdb_id": 128643,
       "game_name": "Red Horizon",
       "file": "missing/R/128643-red-horizon.json"
+    },
+    {
+      "igdb_id": 52744,
+      "game_name": "Red Horizon",
+      "file": "missing/R/52744-red-horizon.json"
     },
     {
       "igdb_id": 83610,
@@ -479581,6 +479776,11 @@
       "igdb_id": 145667,
       "game_name": "Romeo & Juliet",
       "file": "missing/R/145667-romeo-and-juliet.json"
+    },
+    {
+      "igdb_id": 52726,
+      "game_name": "Romeo & Juliet",
+      "file": "missing/R/52726-romeo-and-juliet.json"
     },
     {
       "igdb_id": 59447,
@@ -524906,6 +525106,11 @@
       "igdb_id": 261289,
       "game_name": "Sonic's Napoleon",
       "file": "missing/S/261289-sonics-napoleon.json"
+    },
+    {
+      "igdb_id": 52750,
+      "game_name": "Sonic's Schoolhouse",
+      "file": "missing/S/52750-sonics-schoolhouse.json"
     },
     {
       "igdb_id": 362898,
@@ -570668,6 +570873,11 @@
       "file": "missing/T/238619-target-g.json"
     },
     {
+      "igdb_id": 52745,
+      "game_name": "Target of Desire: Episode 1",
+      "file": "missing/T/52745-target-of-desire-episode-1.json"
+    },
+    {
       "igdb_id": 167303,
       "game_name": "Target Practice",
       "file": "missing/T/167303-target-practice.json"
@@ -615583,6 +615793,11 @@
       "file": "missing/T/413899-tile-and-error.json"
     },
     {
+      "igdb_id": 52775,
+      "game_name": "Tile Battle",
+      "file": "missing/T/52775-tile-battle.json"
+    },
+    {
       "igdb_id": 325630,
       "game_name": "Tile Cities 2",
       "file": "missing/T/325630-tile-cities-2.json"
@@ -633031,6 +633246,11 @@
       "igdb_id": 226307,
       "game_name": "Triangulate",
       "file": "missing/T/226307-triangulate.json"
+    },
+    {
+      "igdb_id": 52768,
+      "game_name": "Triangulate",
+      "file": "missing/T/52768-triangulate.json"
     },
     {
       "igdb_id": 181789,
@@ -655111,6 +655331,11 @@
       "igdb_id": 377287,
       "game_name": "Voidrunner",
       "file": "missing/V/377287-voidrunner.json"
+    },
+    {
+      "igdb_id": 52755,
+      "game_name": "Voidrunner",
+      "file": "missing/V/52755-voidrunner.json"
     },
     {
       "igdb_id": 144103,
@@ -683198,6 +683423,16 @@
       "file": "missing/Y/299840-youve-got-to-be-kidding.json"
     },
     {
+      "igdb_id": 52784,
+      "game_name": "Youda Fairy",
+      "file": "missing/Y/52784-youda-fairy.json"
+    },
+    {
+      "igdb_id": 52783,
+      "game_name": "Youda Legend Amsterdam",
+      "file": "missing/Y/52783-youda-legend-amsterdam.json"
+    },
+    {
       "igdb_id": 108627,
       "game_name": "Youda Legend: The Golden Bird of Paradise",
       "file": "missing/Y/108627-youda-legend-the-golden-bird-of-paradise.json"
@@ -685743,6 +685978,11 @@
       "file": "missing/Z/358308-zatch-bell-mamodo-fury-update.json"
     },
     {
+      "igdb_id": 52782,
+      "game_name": "Zatikon: Crusades",
+      "file": "missing/Z/52782-zatikon-crusades.json"
+    },
+    {
       "igdb_id": 41419,
       "game_name": "Zatsugaku Olympic Quiz Part II",
       "file": "missing/Z/41419-zatsugaku-olympic-quiz-part-ii.json"
@@ -687613,6 +687853,11 @@
       "file": "missing/Z/106091-ziria.json"
     },
     {
+      "igdb_id": 52781,
+      "game_name": "Zirkus-Simulator 2013",
+      "file": "missing/Z/52781-zirkus-simulator-2013.json"
+    },
+    {
       "igdb_id": 31644,
       "game_name": "Zissi's Island",
       "file": "missing/Z/31644-zissis-island.json"
@@ -688396,6 +688641,11 @@
       "igdb_id": 58184,
       "game_name": "Zombie Flick",
       "file": "missing/Z/58184-zombie-flick.json"
+    },
+    {
+      "igdb_id": 52780,
+      "game_name": "Zombie Football Carnage",
+      "file": "missing/Z/52780-zombie-football-carnage.json"
     },
     {
       "igdb_id": 283720,
