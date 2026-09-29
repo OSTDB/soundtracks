@@ -2019,6 +2019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osmo Coding Jam | 100164 | [100164-osmo-coding-jam.json](./100164-osmo-coding-jam.json) |
 | Osmo Monster | 104667 | [104667-osmo-monster.json](./104667-osmo-monster.json) |
 | Osmorrow | 80933 | [80933-osmorrow.json](./80933-osmorrow.json) |
+| Osmos | 14951 | [14951-osmos.json](./14951-osmos.json) |
 | Osomatsu-kun: Back to the Me no Deppa no Maki | 48797 | [48797-osomatsu-kun-back-to-the-me-no-deppa-no-maki.json](./48797-osomatsu-kun-back-to-the-me-no-deppa-no-maki.json) |
 | Osomatsu-san Protagonist Contest Pokoball | 266478 | [266478-osomatsu-san-protagonist-contest-pokoball.json](./266478-osomatsu-san-protagonist-contest-pokoball.json) |
 | Osomatsu-san: Hesokuri Wars | 56477 | [56477-osomatsu-san-hesokuri-wars.json](./56477-osomatsu-san-hesokuri-wars.json) |
