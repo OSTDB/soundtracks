@@ -1221,6 +1221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parseword | 394540 | [394540-parseword.json](./394540-parseword.json) |
 | Parsnip | 96108 | [96108-parsnip.json](./96108-parsnip.json) |
 | Part of the Flock | 325700 | [325700-part-of-the-flock.json](./325700-part-of-the-flock.json) |
+| Part Time UFO | 75957 | [75957-part-time-ufo.json](./75957-part-time-ufo.json) |
 | Parthian Kings | 23963 | [23963-parthian-kings.json](./23963-parthian-kings.json) |
 | Partia 3 | 197346 | [197346-partia-3.json](./197346-partia-3.json) |
 | Partial Control | 118358 | [118358-partial-control.json](./118358-partial-control.json) |
@@ -1264,6 +1265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Makeover Salon | 87923 | [87923-party-makeover-salon.json](./87923-party-makeover-salon.json) |
 | Party Management | 360067 | [360067-party-management.json](./360067-party-management.json) |
 | Party Mashup | 137613 | [137613-party-mashup.json](./137613-party-mashup.json) |
+| Party Panic | 31936 | [31936-party-panic.json](./31936-party-panic.json) |
 | Party Paradise | 186749 | [186749-party-paradise.json](./186749-party-paradise.json) |
 | Party Park | 226155 | [226155-party-park.json](./226155-party-park.json) |
 | Party Party Time | 231043 | [231043-party-party-time.json](./231043-party-party-time.json) |
@@ -2857,6 +2859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross S3 | 117501 | [117501-picross-s3.json](./117501-picross-s3.json) |
 | Picross S4 | 132828 | [132828-picross-s4.json](./132828-picross-s4.json) |
 | Picross S8 | 219032 | [219032-picross-s8.json](./219032-picross-s8.json) |
+| Picross Touch | 32580 | [32580-picross-touch.json](./32580-picross-touch.json) |
 | Picross X: Picbits vs. Uzboross | 210672 | [210672-picross-x-picbits-vs-uzboross.json](./210672-picross-x-picbits-vs-uzboross.json) |
 | Picross-8 | 362915 | [362915-picross-8.json](./362915-picross-8.json) |
 | Picross: Lord of the Nazarick | 120899 | [120899-picross-lord-of-the-nazarick.json](./120899-picross-lord-of-the-nazarick.json) |
