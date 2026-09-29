@@ -465,6 +465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallback! | 270135 | [270135-fallback.json](./270135-fallback.json) |
 | Falldown 3D | 254497 | [254497-falldown-3d.json](./254497-falldown-3d.json) |
 | Fallen | 171594 | [171594-fallen.json](./171594-fallen.json) |
+| Fallen | 26796 | [26796-fallen.json](./26796-fallen.json) |
 | Fallen Angel: Hell Survival | 258185 | [258185-fallen-angel-hell-survival.json](./258185-fallen-angel-hell-survival.json) |
 | Fallen Angel: The War in Heaven | 120883 | [120883-fallen-angel-the-war-in-heaven.json](./120883-fallen-angel-the-war-in-heaven.json) |
 | Fallen Angels | 275733 | [275733-fallen-angels.json](./275733-fallen-angels.json) |
@@ -576,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Region | 130253 | [130253-fallen-region.json](./130253-fallen-region.json) |
 | Fallen Relics | 360570 | [360570-fallen-relics.json](./360570-fallen-relics.json) |
 | Fallen Saint Yhoundeh | 295405 | [295405-fallen-saint-yhoundeh.json](./295405-fallen-saint-yhoundeh.json) |
+| Fallen Sanctum | 26886 | [26886-fallen-sanctum.json](./26886-fallen-sanctum.json) |
 | Fallen Seeds | 270112 | [270112-fallen-seeds.json](./270112-fallen-seeds.json) |
 | Fallen Shadows | 60779 | [60779-fallen-shadows.json](./60779-fallen-shadows.json) |
 | Fallen Spirit | 188518 | [188518-fallen-spirit.json](./188518-fallen-spirit.json) |
