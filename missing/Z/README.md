@@ -302,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenfit | 240183 | [240183-zenfit.json](./240183-zenfit.json) |
 | Zenforms: Protectors | 96043 | [96043-zenforms-protectors.json](./96043-zenforms-protectors.json) |
 | Zenful Journey | 249489 | [249489-zenful-journey.json](./249489-zenful-journey.json) |
+| Zenge | 18792 | [18792-zenge.json](./18792-zenge.json) |
 | Zengeon | 122953 | [122953-zengeon.json](./122953-zengeon.json) |
 | Zengoku Juudan Ultra Shinri Game | 37745 | [37745-zengoku-juudan-ultra-shinri-game.json](./37745-zengoku-juudan-ultra-shinri-game.json) |
 | Zengrams | 68948 | [68948-zengrams.json](./68948-zengrams.json) |
