@@ -981,6 +981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkstalkers Chronicle: The Chaos Tower | 20011 | [20011-darkstalkers-chronicle-the-chaos-tower.json](./20011-darkstalkers-chronicle-the-chaos-tower.json) |
 | DarkStar One | 2125 | [2125-darkstar-one.json](./2125-darkstar-one.json) |
 | Darkstar: The Interactive Movie | 9118 | [9118-darkstar-the-interactive-movie.json](./9118-darkstar-the-interactive-movie.json) |
+| Darkstone | 660 | [660-darkstone.json](./660-darkstone.json) |
 | Darkstone Restoration | 397902 | [397902-darkstone-restoration.json](./397902-darkstone-restoration.json) |
 | DarkStory Online | 122155 | [122155-darkstory-online.json](./122155-darkstory-online.json) |
 | Darkwatch | 5808 | [5808-darkwatch.json](./5808-darkwatch.json) |
@@ -1548,6 +1549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Island: Game of the Year Edition | 47400 | [47400-dead-island-game-of-the-year-edition.json](./47400-dead-island-game-of-the-year-edition.json) |
 | Dead Island: Riptide | 1833 | [1833-dead-island-riptide.json](./1833-dead-island-riptide.json) |
 | Dead Island: Riptide - Complete Edition | 99809 | [99809-dead-island-riptide-complete-edition.json](./99809-dead-island-riptide-complete-edition.json) |
+| Dead Island: Riptide - Definitive Edition | 24311 | [24311-dead-island-riptide-definitive-edition.json](./24311-dead-island-riptide-definitive-edition.json) |
 | Dead Lab | 223661 | [223661-dead-lab.json](./223661-dead-lab.json) |
 | Dead Land 2 VR | 336368 | [336368-dead-land-2-vr.json](./336368-dead-land-2-vr.json) |
 | Dead Land VR | 118911 | [118911-dead-land-vr.json](./118911-dead-land-vr.json) |
@@ -4759,6 +4761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divinity Fatum | 227769 | [227769-divinity-fatum.json](./227769-divinity-fatum.json) |
 | Divinity Hunting | 269033 | [269033-divinity-hunting.json](./269033-divinity-hunting.json) |
 | Divinity Vassals | 389709 | [389709-divinity-vassals.json](./389709-divinity-vassals.json) |
+| Divinity: Dragon Commander | 2905 | [2905-divinity-dragon-commander.json](./2905-divinity-dragon-commander.json) |
 | Divinity: Original Sin - The Source Saga | 133908 | [133908-divinity-original-sin-the-source-saga.json](./133908-divinity-original-sin-the-source-saga.json) |
 | Divinoids | 132077 | [132077-divinoids.json](./132077-divinoids.json) |
 | Divinus Vanitas | 215921 | [215921-divinus-vanitas.json](./215921-divinus-vanitas.json) |
@@ -6388,6 +6391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Shin Butouden | 45464 | [45464-dragon-ball-z-shin-butouden.json](./45464-dragon-ball-z-shin-butouden.json) |
 | Dragon Ball Z: Shin Saiya-jin Zetsumetsu Keikaku - Chikyuu-hen | 66082 | [66082-dragon-ball-z-shin-saiya-jin-zetsumetsu-keikaku-chikyuu-hen.json](./66082-dragon-ball-z-shin-saiya-jin-zetsumetsu-keikaku-chikyuu-hen.json) |
 | Dragon Ball Z: Super Butouden | 2545 | [2545-dragon-ball-z-super-butouden.json](./2545-dragon-ball-z-super-butouden.json) |
+| Dragon Ball Z: Super Butouden 3 | 2550 | [2550-dragon-ball-z-super-butouden-3.json](./2550-dragon-ball-z-super-butouden-3.json) |
 | Dragon Ball Z: Super Goku-den - Kakusei-hen | 74038 | [74038-dragon-ball-z-super-goku-den-kakusei-hen.json](./74038-dragon-ball-z-super-goku-den-kakusei-hen.json) |
 | Dragon Ball Z: Super Goku-den - Totsugeki-hen | 38396 | [38396-dragon-ball-z-super-goku-den-totsugeki-hen.json](./38396-dragon-ball-z-super-goku-den-totsugeki-hen.json) |
 | Dragon Ball Z: Taiketsu | 2580 | [2580-dragon-ball-z-taiketsu.json](./2580-dragon-ball-z-taiketsu.json) |
