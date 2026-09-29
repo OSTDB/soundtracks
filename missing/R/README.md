@@ -5509,6 +5509,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruler by Default | 99004 | [99004-ruler-by-default.json](./99004-ruler-by-default.json) |
 | Ruler of the Earth | 185694 | [185694-ruler-of-the-earth.json](./185694-ruler-of-the-earth.json) |
 | Ruler of the Waves 1916 | 227838 | [227838-ruler-of-the-waves-1916.json](./227838-ruler-of-the-waves-1916.json) |
+| Rules of Engagement | 14421 | [14421-rules-of-engagement.json](./14421-rules-of-engagement.json) |
+| Rules of Engagement 2 | 14420 | [14420-rules-of-engagement-2.json](./14420-rules-of-engagement-2.json) |
 | Rules of Engagement: The Grey State | 372660 | [372660-rules-of-engagement-the-grey-state.json](./372660-rules-of-engagement-the-grey-state.json) |
 | Rules of Gravity | 158586 | [158586-rules-of-gravity.json](./158586-rules-of-gravity.json) |
 | Rules of the Game | 94237 | [94237-rules-of-the-game.json](./94237-rules-of-the-game.json) |
