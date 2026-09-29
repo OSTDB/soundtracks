@@ -658,6 +658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Cat Tavern | 209603 | [209603-happy-cat-tavern.json](./209603-happy-cat-tavern.json) |
 | Happy Challenger Yamada | 313312 | [313312-happy-challenger-yamada.json](./313312-happy-challenger-yamada.json) |
 | Happy Chef 3 | 294803 | [294803-happy-chef-3.json](./294803-happy-chef-3.json) |
+| Happy Chess | 56569 | [56569-happy-chess.json](./56569-happy-chess.json) |
 | Happy Clinic | 294802 | [294802-happy-clinic.json](./294802-happy-clinic.json) |
 | Happy Color Links | 277834 | [277834-happy-color-links.json](./277834-happy-color-links.json) |
 | Happy Cook | 200118 | [200118-happy-cook.json](./200118-happy-cook.json) |
@@ -1231,6 +1232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hawaiian Solitaire | 386142 | [386142-hawaiian-solitaire.json](./386142-hawaiian-solitaire.json) |
 | Hawk F-123 | 128362 | [128362-hawk-f-123.json](./128362-hawk-f-123.json) |
 | Hawk Tuah Run | 321782 | [321782-hawk-tuah-run.json](./321782-hawk-tuah-run.json) |
+| Hawk: Freedom Squadron | 56572 | [56572-hawk-freedom-squadron.json](./56572-hawk-freedom-squadron.json) |
 | Hawked | 227636 | [227636-hawked.json](./227636-hawked.json) |
 | Hawked: Master of Realities Expansion Pass | 332020 | [332020-hawked-master-of-realities-expansion-pass.json](./332020-hawked-master-of-realities-expansion-pass.json) |
 | Hawked: Realities Expansion Pass | 332021 | [332021-hawked-realities-expansion-pass.json](./332021-hawked-realities-expansion-pass.json) |
