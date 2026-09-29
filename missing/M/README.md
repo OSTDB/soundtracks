@@ -4290,6 +4290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Solid: Portable Ops Plus - Deluxe Pack | 294698 | [294698-metal-gear-solid-portable-ops-plus-deluxe-pack.json](./294698-metal-gear-solid-portable-ops-plus-deluxe-pack.json) |
 | Metal Gear Solid: Snake Eater 3D | 21073 | [21073-metal-gear-solid-snake-eater-3d.json](./21073-metal-gear-solid-snake-eater-3d.json) |
 | Metal Gear Solid: The Legacy Collection | 20196 | [20196-metal-gear-solid-the-legacy-collection.json](./20196-metal-gear-solid-the-legacy-collection.json) |
+| Metal Gear Survive | 22703 | [22703-metal-gear-survive.json](./22703-metal-gear-survive.json) |
 | Metal Gear Survive: Digital Deluxe Edition | 119085 | [119085-metal-gear-survive-digital-deluxe-edition.json](./119085-metal-gear-survive-digital-deluxe-edition.json) |
 | Metal Gear: Ghost Babel | 5600 | [5600-metal-gear-ghost-babel.json](./5600-metal-gear-ghost-babel.json) |
 | Metal Glove: Exodus | 235458 | [235458-metal-glove-exodus.json](./235458-metal-glove-exodus.json) |
