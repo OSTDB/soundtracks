@@ -179,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back To Back | 379992 | [379992-back-to-back.json](./379992-back-to-back.json) |
 | Back to Base(Q2)ics Jam 1 | 316741 | [316741-back-to-base-q2-ics-jam-1.json](./316741-back-to-base-q2-ics-jam-1.json) |
 | Back to Basics | 256852 | [256852-back-to-basics.json](./256852-back-to-basics.json) |
+| Back to Bed | 9418 | [9418-back-to-bed.json](./9418-back-to-bed.json) |
 | Back to Brother | 231047 | [231047-back-to-brother.json](./231047-back-to-brother.json) |
 | Back to Dinosaur Island | 34169 | [34169-back-to-dinosaur-island.json](./34169-back-to-dinosaur-island.json) |
 | Back to Dinosaur Island 2 | 33274 | [33274-back-to-dinosaur-island-2.json](./33274-back-to-dinosaur-island-2.json) |
@@ -605,6 +606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldur's Gate: Dark Alliance II | 210699 | [210699-baldurs-gate-dark-alliance-ii.json](./210699-baldurs-gate-dark-alliance-ii.json) |
 | Baldur's Gate: Dark Alliance II | 84 | [84-baldurs-gate-dark-alliance-ii.json](./84-baldurs-gate-dark-alliance-ii.json) |
 | Baldur's Gate: Enhanced Edition - Deluxe Edition | 169219 | [169219-baldurs-gate-enhanced-edition-deluxe-edition.json](./169219-baldurs-gate-enhanced-edition-deluxe-edition.json) |
+| Baldur's Gate: Siege of Dragonspear | 14292 | [14292-baldurs-gate-siege-of-dragonspear.json](./14292-baldurs-gate-siege-of-dragonspear.json) |
 | Baldur's Gate: Siege of Dragonspear - Collector's Edition | 21813 | [21813-baldurs-gate-siege-of-dragonspear-collectors-edition.json](./21813-baldurs-gate-siege-of-dragonspear-collectors-edition.json) |
 | Baldur's Gate: Siege of Dragonspear - Digital Deluxe Edition | 52617 | [52617-baldurs-gate-siege-of-dragonspear-digital-deluxe-edition.json](./52617-baldurs-gate-siege-of-dragonspear-digital-deluxe-edition.json) |
 | Baldur's Gate: The Complete Saga | 52616 | [52616-baldurs-gate-the-complete-saga.json](./52616-baldurs-gate-the-complete-saga.json) |
@@ -1553,6 +1555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman Beyond: Return of the Joker | 248765 | [248765-batman-beyond-return-of-the-joker.json](./248765-batman-beyond-return-of-the-joker.json) |
 | Batman Doom | 138788 | [138788-batman-doom.json](./138788-batman-doom.json) |
 | Batman Forever | 20809 | [20809-batman-forever.json](./20809-batman-forever.json) |
+| Batman Forever | 7769 | [7769-batman-forever.json](./7769-batman-forever.json) |
 | Batman Returns | 200153 | [200153-batman-returns.json](./200153-batman-returns.json) |
 | Batman Returns | 4379 | [4379-batman-returns.json](./4379-batman-returns.json) |
 | Batman v Superman: Who Will Win | 76554 | [76554-batman-v-superman-who-will-win.json](./76554-batman-v-superman-who-will-win.json) |
@@ -2104,6 +2107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleTime | 31886 | [31886-battletime.json](./31886-battletime.json) |
 | Battletoads | 262942 | [262942-battletoads.json](./262942-battletoads.json) |
 | Battletoads | 365173 | [365173-battletoads.json](./365173-battletoads.json) |
+| Battletoads In Battlemaniacs | 18577 | [18577-battletoads-in-battlemaniacs.json](./18577-battletoads-in-battlemaniacs.json) |
 | Battletronics | 167594 | [167594-battletronics.json](./167594-battletronics.json) |
 | BattleTubers | 280794 | [280794-battletubers.json](./280794-battletubers.json) |
 | Battlevoid: Sector Siege | 72488 | [72488-battlevoid-sector-siege.json](./72488-battlevoid-sector-siege.json) |
@@ -4349,6 +4353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaster Bunny + | 135014 | [135014-blaster-bunny.json](./135014-blaster-bunny.json) |
 | Blaster Cop | 68759 | [68759-blaster-cop.json](./68759-blaster-cop.json) |
 | Blaster Lilo | 113868 | [113868-blaster-lilo.json](./113868-blaster-lilo.json) |
+| Blaster Master Zero | 27438 | [27438-blaster-master-zero.json](./27438-blaster-master-zero.json) |
 | Blaster Master Zero 2: Kanna Raising Simulator | 168165 | [168165-blaster-master-zero-2-kanna-raising-simulator.json](./168165-blaster-master-zero-2-kanna-raising-simulator.json) |
 | Blaster Master Zero II | 116416 | [116416-blaster-master-zero-ii.json](./116416-blaster-master-zero-ii.json) |
 | Blaster Master: Enemy Below | 49840 | [49840-blaster-master-enemy-below.json](./49840-blaster-master-enemy-below.json) |
