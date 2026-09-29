@@ -565,6 +565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanerutchi 2 | 229962 | [229962-hanerutchi-2.json](./229962-hanerutchi-2.json) |
 | Hang Glider Simulator | 321506 | [321506-hang-glider-simulator.json](./321506-hang-glider-simulator.json) |
 | Hang Gliding: VR Experience | 243220 | [243220-hang-gliding-vr-experience.json](./243220-hang-gliding-vr-experience.json) |
+| Hang Line | 52747 | [52747-hang-line.json](./52747-hang-line.json) |
 | Hang Man | 83451 | [83451-hang-man.json](./83451-hang-man.json) |
 | Hang On | 169892 | [169892-hang-on.json](./169892-hang-on.json) |
 | Hang Out | 405718 | [405718-hang-out.json](./405718-hang-out.json) |
