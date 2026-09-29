@@ -2647,6 +2647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sesame Street Mecha Builders | 342765 | [342765-sesame-street-mecha-builders.json](./342765-sesame-street-mecha-builders.json) |
 | Sesame Street Sports | 49916 | [49916-sesame-street-sports.json](./49916-sesame-street-sports.json) |
 | Sesame Street: 1-2-3 | 78035 | [78035-sesame-street-1-2-3.json](./78035-sesame-street-1-2-3.json) |
+| Sesame Street: Cookie's Counting Carnival | 50709 | [50709-sesame-street-cookies-counting-carnival.json](./50709-sesame-street-cookies-counting-carnival.json) |
 | Sesame Street: Elmo and Abby Nature Explorers | 231465 | [231465-sesame-street-elmo-and-abby-nature-explorers.json](./231465-sesame-street-elmo-and-abby-nature-explorers.json) |
 | Sesame Street: Elmo Says | 384072 | [384072-sesame-street-elmo-says.json](./384072-sesame-street-elmo-says.json) |
 | Sesame Street: Elmo's 123s | 49934 | [49934-sesame-street-elmos-123s.json](./49934-sesame-street-elmos-123s.json) |
@@ -12110,6 +12111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story About Times | 113009 | [113009-story-about-times.json](./113009-story-about-times.json) |
 | Story City | 228518 | [228518-story-city.json](./228518-story-city.json) |
 | Story Craft | 270729 | [270729-story-craft.json](./270729-story-craft.json) |
+| Story Hour Adventures | 50713 | [50713-story-hour-adventures.json](./50713-story-hour-adventures.json) |
 | Story Hour: Fairy Tales | 9756 | [9756-story-hour-fairy-tales.json](./9756-story-hour-fairy-tales.json) |
 | Story Jar | 228353 | [228353-story-jar.json](./228353-story-jar.json) |
 | Story Machine | 95450 | [95450-story-machine.json](./95450-story-machine.json) |
@@ -12952,6 +12954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Candy Witch | 246969 | [246969-sudoku-candy-witch.json](./246969-sudoku-candy-witch.json) |
 | Sudoku Casual Puzzle | 219280 | [219280-sudoku-casual-puzzle.json](./219280-sudoku-casual-puzzle.json) |
 | Sudoku Cats | 405615 | [405615-sudoku-cats.json](./405615-sudoku-cats.json) |
+| Sudoku Challenge! | 50698 | [50698-sudoku-challenge.json](./50698-sudoku-challenge.json) |
 | Sudoku Classic 2 | 328479 | [328479-sudoku-classic-2.json](./328479-sudoku-classic-2.json) |
 | Sudoku Companion | 103543 | [103543-sudoku-companion.json](./103543-sudoku-companion.json) |
 | Sudoku Constellation | 292281 | [292281-sudoku-constellation.json](./292281-sudoku-constellation.json) |
@@ -13764,6 +13767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Hamster Ball | 227869 | [227869-super-hamster-ball.json](./227869-super-hamster-ball.json) |
 | Super Happi Quest 3 | 299733 | [299733-super-happi-quest-3.json](./299733-super-happi-quest-3.json) |
 | Super Hard Game | 360580 | [360580-super-hard-game.json](./360580-super-hard-game.json) |
+| Super Hardcore | 50749 | [50749-super-hardcore.json](./50749-super-hardcore.json) |
 | Super Hashigo | 417493 | [417493-super-hashigo.json](./417493-super-hashigo.json) |
 | Super Haste | 363020 | [363020-super-haste.json](./363020-super-haste.json) |
 | Super Haste | 409791 | [409791-super-haste.json](./409791-super-haste.json) |
