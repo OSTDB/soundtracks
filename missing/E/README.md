@@ -2699,6 +2699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ethereal: New Moon | 244779 | [244779-ethereal-new-moon.json](./244779-ethereal-new-moon.json) |
 | EthereaVR | 103202 | [103202-ethereavr.json](./103202-ethereavr.json) |
 | Etherena Beta | 262495 | [262495-etherena-beta.json](./262495-etherena-beta.json) |
+| Etheria: Restart | 210536 | [210536-etheria-restart.json](./210536-etheria-restart.json) |
 | Etherion Online | 239650 | [239650-etherion-online.json](./239650-etherion-online.json) |
 | Etherium | 401481 | [401481-etherium.json](./401481-etherium.json) |
 | Etherium | 8923 | [8923-etherium.json](./8923-etherium.json) |
