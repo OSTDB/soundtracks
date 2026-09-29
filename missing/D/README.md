@@ -1409,6 +1409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DDS Defenders Dark Side | 214726 | [214726-dds-defenders-dark-side.json](./214726-dds-defenders-dark-side.json) |
 | de Blob | 2637 | [2637-de-blob.json](./2637-de-blob.json) |
 | De Blob | 233776 | [233776-de-blob.json](./233776-de-blob.json) |
+| De Blob 2 | 4796 | [4796-de-blob-2.json](./4796-de-blob-2.json) |
 | De griezelbus 1 | 98943 | [98943-de-griezelbus-1.json](./98943-de-griezelbus-1.json) |
 | De griezelbus 2 | 78322 | [78322-de-griezelbus-2.json](./78322-de-griezelbus-2.json) |
 | Dé_Intricate | 310534 | [310534-de-intricate.json](./310534-de-intricate.json) |
@@ -4697,6 +4698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dive: Starpath | 83941 | [83941-dive-starpath.json](./83941-dive-starpath.json) |
 | Dive: The Medes Islands Secret | 50723 | [50723-dive-the-medes-islands-secret.json](./50723-dive-the-medes-islands-secret.json) |
 | Dive! | 70110 | [70110-dive.json](./70110-dive.json) |
+| Divekick | 4759 | [4759-divekick.json](./4759-divekick.json) |
 | Diver Boy | 39871 | [39871-diver-boy.json](./39871-diver-boy.json) |
 | Diver, Catch & Cook Simulator | 386212 | [386212-diver-catch-and-cook-simulator.json](./386212-diver-catch-and-cook-simulator.json) |
 | Diver: Deep Water Adventures | 63282 | [63282-diver-deep-water-adventures.json](./63282-diver-deep-water-adventures.json) |
