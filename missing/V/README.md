@@ -1127,6 +1127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua Bowling | 354530 | [354530-virtua-bowling.json](./354530-virtua-bowling.json) |
 | Virtua Cop | 199018 | [199018-virtua-cop.json](./199018-virtua-cop.json) |
 | Virtua Cop 2 | 2470 | [2470-virtua-cop-2.json](./2470-virtua-cop-2.json) |
+| Virtua Fighter | 19734 | [19734-virtua-fighter.json](./19734-virtua-fighter.json) |
 | Virtua Fighter | 199019 | [199019-virtua-fighter.json](./199019-virtua-fighter.json) |
 | Virtua Fighter 2 | 199020 | [199020-virtua-fighter-2.json](./199020-virtua-fighter-2.json) |
 | Virtua Fighter 2 vs. Tekken 2 | 143507 | [143507-virtua-fighter-2-vs-tekken-2.json](./143507-virtua-fighter-2-vs-tekken-2.json) |
