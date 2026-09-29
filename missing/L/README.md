@@ -1549,6 +1549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemmings 2: The Tribes | 245307 | [245307-lemmings-2-the-tribes.json](./245307-lemmings-2-the-tribes.json) |
 | Lemmings 2: The Tribes | 8307 | [8307-lemmings-2-the-tribes.json](./8307-lemmings-2-the-tribes.json) |
 | Lemmings Paintball | 13780 | [13780-lemmings-paintball.json](./13780-lemmings-paintball.json) |
+| Lemnis Gate | 119464 | [119464-lemnis-gate.json](./119464-lemnis-gate.json) |
 | Lemonade | 366258 | [366258-lemonade.json](./366258-lemonade.json) |
 | Lemonade Stand | 207283 | [207283-lemonade-stand.json](./207283-lemonade-stand.json) |
 | Lemonade Tycoon 2: New York Edition | 68041 | [68041-lemonade-tycoon-2-new-york-edition.json](./68041-lemonade-tycoon-2-new-york-edition.json) |
@@ -2857,6 +2858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Wings Deliveries | 333658 | [333658-little-wings-deliveries.json](./333658-little-wings-deliveries.json) |
 | Little Witch | 145613 | [145613-little-witch.json](./145613-little-witch.json) |
 | Little Witch Luana | 126647 | [126647-little-witch-luana.json](./126647-little-witch-luana.json) |
+| Little Witch Nobeta | 116781 | [116781-little-witch-nobeta.json](./116781-little-witch-nobeta.json) |
 | Little Witch Nobeta: Limited Edition | 205259 | [205259-little-witch-nobeta-limited-edition.json](./205259-little-witch-nobeta-limited-edition.json) |
 | Little Wizard Sally | 240867 | [240867-little-wizard-sally.json](./240867-little-wizard-sally.json) |
 | Little Wolf | 149570 | [149570-little-wolf.json](./149570-little-wolf.json) |
