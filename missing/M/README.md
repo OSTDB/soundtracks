@@ -3638,6 +3638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megazone 23: Aoi Garland | 7366 | [7366-megazone-23-aoi-garland.json](./7366-megazone-23-aoi-garland.json) |
 | Megdan | 298549 | [298549-megdan.json](./298549-megdan.json) |
 | Megis Adventure | 312670 | [312670-megis-adventure.json](./312670-megis-adventure.json) |
+| Megpoid the Music Sharp | 38484 | [38484-megpoid-the-music-sharp.json](./38484-megpoid-the-music-sharp.json) |
 | Megumi Rescue | 46139 | [46139-megumi-rescue.json](./46139-megumi-rescue.json) |
 | Megumichan Ijiwaru? Soretomo Kawaigaru? | 98041 | [98041-megumichan-ijiwaru-soretomo-kawaigaru.json](./98041-megumichan-ijiwaru-soretomo-kawaigaru.json) |
 | Megurine Luka no Jikenbo | 264358 | [264358-megurine-luka-no-jikenbo.json](./264358-megurine-luka-no-jikenbo.json) |
