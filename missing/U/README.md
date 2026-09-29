@@ -747,6 +747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Princess: Pure Voice | 109005 | [109005-under-princess-pure-voice.json](./109005-under-princess-pure-voice.json) |
 | Under Siege | 383347 | [383347-under-siege.json](./383347-under-siege.json) |
 | Under Siege | 95467 | [95467-under-siege.json](./95467-under-siege.json) |
+| Under Southern Skies | 25035 | [25035-under-southern-skies.json](./25035-under-southern-skies.json) |
 | Under Spire | 117686 | [117686-under-spire.json](./117686-under-spire.json) |
 | Under the bed | 179728 | [179728-under-the-bed.json](./179728-under-the-bed.json) |
 | Under the Blue Horizon | 312722 | [312722-under-the-blue-horizon.json](./312722-under-the-blue-horizon.json) |
