@@ -452,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campgrounds Adventures | 311605 | [311605-campgrounds-adventures.json](./311605-campgrounds-adventures.json) |
 | Campgrounds IV | 139392 | [139392-campgrounds-iv.json](./139392-campgrounds-iv.json) |
 | Campgrounds: The Endorus Expedition | 139393 | [139393-campgrounds-the-endorus-expedition.json](./139393-campgrounds-the-endorus-expedition.json) |
+| Campgrounds: The Endorus Expedition - Collector's Edition | 33304 | [33304-campgrounds-the-endorus-expedition-collectors-edition.json](./33304-campgrounds-the-endorus-expedition-collectors-edition.json) |
 | Camphor | 237352 | [237352-camphor.json](./237352-camphor.json) |
 | Campido | 111756 | [111756-campido.json](./111756-campido.json) |
 | Camping Builder | 192838 | [192838-camping-builder.json](./192838-camping-builder.json) |
@@ -524,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candle Wood | 315115 | [315115-candle-wood.json](./315115-candle-wood.json) |
 | Candlelight | 200472 | [200472-candlelight.json](./200472-candlelight.json) |
 | Candlelight | 276456 | [276456-candlelight.json](./276456-candlelight.json) |
+| Candlelight | 33296 | [33296-candlelight.json](./33296-candlelight.json) |
 | Candleman:find yourself | 130755 | [130755-candleman-find-yourself.json](./130755-candleman-find-yourself.json) |
 | Candles | 178946 | [178946-candles.json](./178946-candles.json) |
 | Candles of the Damned | 271491 | [271491-candles-of-the-damned.json](./271491-candles-of-the-damned.json) |
@@ -8386,6 +8388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubiscape | 207824 | [207824-cubiscape.json](./207824-cubiscape.json) |
 | Cubiscape 2: First Expansion Pack | 169308 | [169308-cubiscape-2-first-expansion-pack.json](./169308-cubiscape-2-first-expansion-pack.json) |
 | Cubism | 95591 | [95591-cubism.json](./95591-cubism.json) |
+| Cubistry Collection Vol. 1 | 33364 | [33364-cubistry-collection-vol-1.json](./33364-cubistry-collection-vol-1.json) |
 | Cubit | 204472 | [204472-cubit.json](./204472-cubit.json) |
 | Cubit | 204473 | [204473-cubit.json](./204473-cubit.json) |
 | Cubium Dreams | 33381 | [33381-cubium-dreams.json](./33381-cubium-dreams.json) |
