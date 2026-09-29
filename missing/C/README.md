@@ -7852,6 +7852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrossCheck | 15920 | [15920-crosscheck.json](./15920-crosscheck.json) |
 | Crossclimb | 321118 | [321118-crossclimb.json](./321118-crossclimb.json) |
 | CrossCode | 35282 | [35282-crosscode.json](./35282-crosscode.json) |
+| CrossCode: A New Home | 143825 | [143825-crosscode-a-new-home.json](./143825-crosscode-a-new-home.json) |
 | CrossCode: Deluxe Edition | 164797 | [164797-crosscode-deluxe-edition.json](./164797-crosscode-deluxe-edition.json) |
 | Crosscountry BC | 399085 | [399085-crosscountry-bc.json](./399085-crosscountry-bc.json) |
 | Crosscountry California | 399068 | [399068-crosscountry-california.json](./399068-crosscountry-california.json) |
@@ -9086,6 +9087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberplug | 153343 | [153343-cyberplug.json](./153343-cyberplug.json) |
 | Cyberpunch | 158691 | [158691-cyberpunch.json](./158691-cyberpunch.json) |
 | Cyberpunk 2 | 262905 | [262905-cyberpunk-2.json](./262905-cyberpunk-2.json) |
+| Cyberpunk 2077: 2.0 Update | 263463 | [263463-cyberpunk-2077-2-0-update.json](./263463-cyberpunk-2077-2-0-update.json) |
 | Cyberpunk 2077: Day One Edition | 284480 | [284480-cyberpunk-2077-day-one-edition.json](./284480-cyberpunk-2077-day-one-edition.json) |
 | Cyberpunk 2077: Ultimate Edition | 277807 | [277807-cyberpunk-2077-ultimate-edition.json](./277807-cyberpunk-2077-ultimate-edition.json) |
 | Cyberpunk 3776 | 35896 | [35896-cyberpunk-3776.json](./35896-cyberpunk-3776.json) |
