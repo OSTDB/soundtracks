@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man | 284368 | [284368-pac-man.json](./284368-pac-man.json) |
 | Pac-Man | 284369 | [284369-pac-man.json](./284369-pac-man.json) |
 | Pac-Man | 292000 | [292000-pac-man.json](./292000-pac-man.json) |
+| Pac-Man | 7559 | [7559-pac-man.json](./7559-pac-man.json) |
 | Pac-Man | 88904 | [88904-pac-man.json](./88904-pac-man.json) |
 | Pac-Man & Galaga Dimensions | 6861 | [6861-pac-man-and-galaga-dimensions.json](./6861-pac-man-and-galaga-dimensions.json) |
 | Pac-Man 256 | 14701 | [14701-pac-man-256.json](./14701-pac-man-256.json) |
@@ -1442,6 +1443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathologic | 8074 | [8074-pathologic.json](./8074-pathologic.json) |
 | Pathologic 3 | 319087 | [319087-pathologic-3.json](./319087-pathologic-3.json) |
 | Pathologic 3: Quarantine | 326595 | [326595-pathologic-3-quarantine.json](./326595-pathologic-3-quarantine.json) |
+| Pathologic Classic HD | 13204 | [13204-pathologic-classic-hd.json](./13204-pathologic-classic-hd.json) |
 | Pathological | 74085 | [74085-pathological.json](./74085-pathological.json) |
 | Pathology | 270734 | [270734-pathology.json](./270734-pathology.json) |
 | Pathology | 79606 | [79606-pathology.json](./79606-pathology.json) |
@@ -5710,6 +5712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal: Prospekt | 219159 | [219159-portal-prospekt.json](./219159-portal-prospekt.json) |
 | Portal: Revolution | 171704 | [171704-portal-revolution.json](./171704-portal-revolution.json) |
 | Portal: Singularity Collapse | 322172 | [322172-portal-singularity-collapse.json](./322172-portal-singularity-collapse.json) |
+| Portal: Still Alive | 21798 | [21798-portal-still-alive.json](./21798-portal-still-alive.json) |
 | Portal: Still Alive For PC | 136389 | [136389-portal-still-alive-for-pc.json](./136389-portal-still-alive-for-pc.json) |
 | Portal: System Failure | 322169 | [322169-portal-system-failure.json](./322169-portal-system-failure.json) |
 | Portal: The Flash Version | 11280 | [11280-portal-the-flash-version.json](./11280-portal-the-flash-version.json) |
@@ -7946,6 +7949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Adventure | 347877 | [347877-puzzle-adventure.json](./347877-puzzle-adventure.json) |
 | Puzzle Adventures | 251813 | [251813-puzzle-adventures.json](./251813-puzzle-adventures.json) |
 | Puzzle Adventures: Forest Animals | 328490 | [328490-puzzle-adventures-forest-animals.json](./328490-puzzle-adventures-forest-animals.json) |
+| Puzzle Agent | 15995 | [15995-puzzle-agent.json](./15995-puzzle-agent.json) |
 | Puzzle Arcade | 74420 | [74420-puzzle-arcade.json](./74420-puzzle-arcade.json) |
 | Puzzle Arena Toshinden | 44824 | [44824-puzzle-arena-toshinden.json](./44824-puzzle-arena-toshinden.json) |
 | Puzzle Art: Dogs | 173043 | [173043-puzzle-art-dogs.json](./173043-puzzle-art-dogs.json) |
