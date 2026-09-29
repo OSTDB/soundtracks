@@ -576,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hang-On | 364571 | [364571-hang-on.json](./364571-hang-on.json) |
 | Hang-On | 6110 | [6110-hang-on.json](./6110-hang-on.json) |
 | Hang-On & Astro Warrior | 86098 | [86098-hang-on-and-astro-warrior.json](./86098-hang-on-and-astro-warrior.json) |
+| Hang-On GP | 46098 | [46098-hang-on-gp.json](./46098-hang-on-gp.json) |
 | Hang-On II | 6111 | [6111-hang-on-ii.json](./6111-hang-on-ii.json) |
 | Hangar 27 | 269121 | [269121-hangar-27.json](./269121-hangar-27.json) |
 | Hangar 51: Classified Investigation | 382276 | [382276-hangar-51-classified-investigation.json](./382276-hangar-51-classified-investigation.json) |
@@ -3348,6 +3349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highscore Processing Unit | 99645 | [99645-highscore-processing-unit.json](./99645-highscore-processing-unit.json) |
 | Highway | 247016 | [247016-highway.json](./247016-highway.json) |
 | Highway | 267410 | [267410-highway.json](./267410-highway.json) |
+| Highway 2000 | 46097 | [46097-highway-2000.json](./46097-highway-2000.json) |
 | Highway Cleaner | 234607 | [234607-highway-cleaner.json](./234607-highway-cleaner.json) |
 | Highway Drifter: Hajwala Simulator | 284927 | [284927-highway-drifter-hajwala-simulator.json](./284927-highway-drifter-hajwala-simulator.json) |
 | Highway Driving Simulator | 108449 | [108449-highway-driving-simulator.json](./108449-highway-driving-simulator.json) |
@@ -3796,6 +3798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hokko Spaces | 404866 | [404866-hokko-spaces.json](./404866-hokko-spaces.json) |
 | Hokra | 65032 | [65032-hokra.json](./65032-hokra.json) |
 | Hokusai | 106540 | [106540-hokusai.json](./106540-hokusai.json) |
+| Hokuto no Ken | 46115 | [46115-hokuto-no-ken.json](./46115-hokuto-no-ken.json) |
 | Hokuto no Ken 5: Tenma Ryuusei-den Ai Zesshou | 42552 | [42552-hokuto-no-ken-5-tenma-ryuusei-den-ai-zesshou.json](./42552-hokuto-no-ken-5-tenma-ryuusei-den-ai-zesshou.json) |
 | Hokuto no Ken 7: Seiken Retsuden Denshousha he no Michi | 38337 | [38337-hokuto-no-ken-7-seiken-retsuden-denshousha-he-no-michi.json](./38337-hokuto-no-ken-7-seiken-retsuden-denshousha-he-no-michi.json) |
 | Hokuto no Ken Part-2 | 45601 | [45601-hokuto-no-ken-part-2.json](./45601-hokuto-no-ken-part-2.json) |
