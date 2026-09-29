@@ -4261,6 +4261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platinum Kill | 112272 | [112272-platinum-kill.json](./112272-platinum-kill.json) |
 | Platinum White | 307137 | [307137-platinum-white.json](./307137-platinum-white.json) |
 | Plato | 86967 | [86967-plato.json](./86967-plato.json) |
+| Plato Interpreter | 42182 | [42182-plato-interpreter.json](./42182-plato-interpreter.json) |
 | Platonic Paranoia | 117863 | [117863-platonic-paranoia.json](./117863-platonic-paranoia.json) |
 | Platoon Commander | 328034 | [328034-platoon-commander.json](./328034-platoon-commander.json) |
 | Platoon Leader | 152132 | [152132-platoon-leader.json](./152132-platoon-leader.json) |
@@ -5837,6 +5838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Fantasy | 258465 | [258465-power-fantasy.json](./258465-power-fantasy.json) |
 | Power Fighters | 79832 | [79832-power-fighters.json](./79832-power-fighters.json) |
 | Power For Young Inventors | 330363 | [330363-power-for-young-inventors.json](./330363-power-for-young-inventors.json) |
+| Power Gate | 42130 | [42130-power-gate.json](./42130-power-gate.json) |
 | Power Gig: Rise of the SixString | 7135 | [7135-power-gig-rise-of-the-sixstring.json](./7135-power-gig-rise-of-the-sixstring.json) |
 | Power Grounds | 197774 | [197774-power-grounds.json](./197774-power-grounds.json) |
 | Power Guy World | 339266 | [339266-power-guy-world.json](./339266-power-guy-world.json) |
@@ -6294,6 +6296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess & Goblin | 193874 | [193874-princess-and-goblin.json](./193874-princess-and-goblin.json) |
 | Princess Amelia's World | 299221 | [299221-princess-amelias-world.json](./299221-princess-amelias-world.json) |
 | Princess and Fairytales Jigsaw Puzzles | 221261 | [221261-princess-and-fairytales-jigsaw-puzzles.json](./221261-princess-and-fairytales-jigsaw-puzzles.json) |
+| Princess and Frog | 42181 | [42181-princess-and-frog.json](./42181-princess-and-frog.json) |
 | Princess and the Ice Dragon | 237660 | [237660-princess-and-the-ice-dragon.json](./237660-princess-and-the-ice-dragon.json) |
 | Princess Burst | 382279 | [382279-princess-burst.json](./382279-princess-burst.json) |
 | Princess Coloring Book + | 87326 | [87326-princess-coloring-book.json](./87326-princess-coloring-book.json) |
