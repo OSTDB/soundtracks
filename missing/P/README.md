@@ -6148,6 +6148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Princess Party | 135339 | [135339-pretty-princess-party.json](./135339-pretty-princess-party.json) |
 | Pretty Rhythm: My Deco Rainbow Wedding | 141150 | [141150-pretty-rhythm-my-deco-rainbow-wedding.json](./141150-pretty-rhythm-my-deco-rainbow-wedding.json) |
 | Pretty Safe Airlines | 125480 | [125480-pretty-safe-airlines.json](./125480-pretty-safe-airlines.json) |
+| Pretty Soldier Sailor Moon | 46788 | [46788-pretty-soldier-sailor-moon.json](./46788-pretty-soldier-sailor-moon.json) |
 | Pretty Soldier Sailor Moon S | 316798 | [316798-pretty-soldier-sailor-moon-s.json](./316798-pretty-soldier-sailor-moon-s.json) |
 | Pretty Visitors | 229791 | [229791-pretty-visitors.json](./229791-pretty-visitors.json) |
 | Pretz'l Land | 105554 | [105554-pretzl-land.json](./105554-pretzl-land.json) |
@@ -7901,6 +7902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Journey: Match 3 Blast | 232373 | [232373-puzzle-journey-match-3-blast.json](./232373-puzzle-journey-match-3-blast.json) |
 | Puzzle Juggle Trouble | 184376 | [184376-puzzle-juggle-trouble.json](./184376-puzzle-juggle-trouble.json) |
 | Puzzle Kana? | 312354 | [312354-puzzle-kana.json](./312354-puzzle-kana.json) |
+| Puzzle King | 46791 | [46791-puzzle-king.json](./46791-puzzle-king.json) |
 | Puzzle Light | 149455 | [149455-puzzle-light.json](./149455-puzzle-light.json) |
 | Puzzle Light: Rotate | 152763 | [152763-puzzle-light-rotate.json](./152763-puzzle-light-rotate.json) |
 | Puzzle Lights and Mushrooms 1000 | 334103 | [334103-puzzle-lights-and-mushrooms-1000.json](./334103-puzzle-lights-and-mushrooms-1000.json) |
