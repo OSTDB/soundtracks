@@ -269,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RAD Soldiers | 64100 | [64100-rad-soldiers.json](./64100-rad-soldiers.json) |
 | Rad Venture | 215204 | [215204-rad-venture.json](./215204-rad-venture.json) |
 | Rad: Before the Adventure | 183470 | [183470-rad-before-the-adventure.json](./183470-rad-before-the-adventure.json) |
+| Radac: Tailor-Made | 48821 | [48821-radac-tailor-made.json](./48821-radac-tailor-made.json) |
 | Radar | 282669 | [282669-radar.json](./282669-radar.json) |
 | Radarjam | 132758 | [132758-radarjam.json](./132758-radarjam.json) |
 | RadCity: a post-apocalyptic adventure | 381608 | [381608-radcity-a-post-apocalyptic-adventure.json](./381608-radcity-a-post-apocalyptic-adventure.json) |
@@ -3516,6 +3517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ripper Ribbit | 130899 | [130899-ripper-ribbit.json](./130899-ripper-ribbit.json) |
 | Ripple | 198510 | [198510-ripple.json](./198510-ripple.json) |
 | Ripple in Dirac Sea | 253861 | [253861-ripple-in-dirac-sea.json](./253861-ripple-in-dirac-sea.json) |
+| Ripple Island | 48791 | [48791-ripple-island.json](./48791-ripple-island.json) |
 | Ripple Park | 405513 | [405513-ripple-park.json](./405513-ripple-park.json) |
 | Ripples | 239315 | [239315-ripples.json](./239315-ripples.json) |
 | Ripshot | 158041 | [158041-ripshot.json](./158041-ripshot.json) |
@@ -4602,6 +4604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rokko Chan | 93510 | [93510-rokko-chan.json](./93510-rokko-chan.json) |
 | Roko-Loko no Castelo do Ratozinger Remix | 78042 | [78042-roko-loko-no-castelo-do-ratozinger-remix.json](./78042-roko-loko-no-castelo-do-ratozinger-remix.json) |
 | Roku and Rei | 303007 | [303007-roku-and-rei.json](./303007-roku-and-rei.json) |
+| Rokudenashi Blues | 48820 | [48820-rokudenashi-blues.json](./48820-rokudenashi-blues.json) |
 | Rokumon Tengai Mon Colle Knight GB | 282584 | [282584-rokumon-tengai-mon-colle-knight-gb.json](./282584-rokumon-tengai-mon-colle-knight-gb.json) |
 | Rol Crusaders | 94556 | [94556-rol-crusaders.json](./94556-rol-crusaders.json) |
 | Rolaball | 94693 | [94693-rolaball.json](./94693-rolaball.json) |
