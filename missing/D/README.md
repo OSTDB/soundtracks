@@ -2080,6 +2080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathrun TV | 152284 | [152284-deathrun-tv.json](./152284-deathrun-tv.json) |
 | Deaths of Peck | 398425 | [398425-deaths-of-peck.json](./398425-deaths-of-peck.json) |
 | Deathsmashers 4 | 185558 | [185558-deathsmashers-4.json](./185558-deathsmashers-4.json) |
+| Deathsmiles | 6963 | [6963-deathsmiles.json](./6963-deathsmiles.json) |
 | Deathsmiles I & II: Gothic wa Mahou Otome 5 Characters | 203958 | [203958-deathsmiles-i-and-ii-gothic-wa-mahou-otome-5-characters.json](./203958-deathsmiles-i-and-ii-gothic-wa-mahou-otome-5-characters.json) |
 | Deathsmiles II: Makai no Merry Christmas | 68011 | [68011-deathsmiles-ii-makai-no-merry-christmas.json](./68011-deathsmiles-ii-makai-no-merry-christmas.json) |
 | Deathsmiles Mega Black Label | 79852 | [79852-deathsmiles-mega-black-label.json](./79852-deathsmiles-mega-black-label.json) |
@@ -2089,6 +2090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathtide | 232007 | [232007-deathtide.json](./232007-deathtide.json) |
 | DeathTower | 302472 | [302472-deathtower.json](./302472-deathtower.json) |
 | DeathTrack | 50148 | [50148-deathtrack.json](./50148-deathtrack.json) |
+| Deathtrap | 7699 | [7699-deathtrap.json](./7699-deathtrap.json) |
 | Deathtrap Dungeon | 8470 | [8470-deathtrap-dungeon.json](./8470-deathtrap-dungeon.json) |
 | Deathtrap Dungeon Trilogy | 126494 | [126494-deathtrap-dungeon-trilogy.json](./126494-deathtrap-dungeon-trilogy.json) |
 | Deathtrap Dungeon: The Interactive Video Adventure | 129936 | [129936-deathtrap-dungeon-the-interactive-video-adventure.json](./129936-deathtrap-dungeon-the-interactive-video-adventure.json) |
@@ -2671,6 +2673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dementium II HD | 5837 | [5837-dementium-ii-hd.json](./5837-dementium-ii-hd.json) |
 | Demeo Battles | 251555 | [251555-demeo-battles.json](./251555-demeo-battles.json) |
 | Demeo: PC Edition | 194737 | [194737-demeo-pc-edition.json](./194737-demeo-pc-edition.json) |
+| Demetrios: The Big Cynical Adventure | 23425 | [23425-demetrios-the-big-cynical-adventure.json](./23425-demetrios-the-big-cynical-adventure.json) |
 | Demetrios: The Big Cynical Adventure - Replastered | 194005 | [194005-demetrios-the-big-cynical-adventure-replastered.json](./194005-demetrios-the-big-cynical-adventure-replastered.json) |
 | Demetrios: The Big Cynical Adventure & Xenon Valkyrie+ | 145053 | [145053-demetrios-the-big-cynical-adventure-and-xenon-valkyrie.json](./145053-demetrios-the-big-cynical-adventure-and-xenon-valkyrie.json) |
 | Demian | 338825 | [338825-demian.json](./338825-demian.json) |
