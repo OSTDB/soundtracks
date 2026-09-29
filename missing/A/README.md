@@ -3955,6 +3955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Racing | 226776 | [226776-angry-birds-racing.json](./226776-angry-birds-racing.json) |
 | Angry Birds Refresh | 357348 | [357348-angry-birds-refresh.json](./357348-angry-birds-refresh.json) |
 | Angry Birds Seasons HD | 102139 | [102139-angry-birds-seasons-hd.json](./102139-angry-birds-seasons-hd.json) |
+| Angry Birds Space | 16365 | [16365-angry-birds-space.json](./16365-angry-birds-space.json) |
 | Angry Birds Space HD | 102601 | [102601-angry-birds-space-hd.json](./102601-angry-birds-space-hd.json) |
 | Angry Birds Star Wars HD | 102600 | [102600-angry-birds-star-wars-hd.json](./102600-angry-birds-star-wars-hd.json) |
 | Angry Birds Star Wars II | 19272 | [19272-angry-birds-star-wars-ii.json](./19272-angry-birds-star-wars-ii.json) |
