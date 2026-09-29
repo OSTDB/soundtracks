@@ -4158,6 +4158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diplomacy | 92082 | [92082-diplomacy.json](./92082-diplomacy.json) |
 | Diplomacy is Not an Option | 132334 | [132334-diplomacy-is-not-an-option.json](./132334-diplomacy-is-not-an-option.json) |
 | Diplomacy is Not an Option: Fog of War | 415090 | [415090-diplomacy-is-not-an-option-fog-of-war.json](./415090-diplomacy-is-not-an-option-fog-of-war.json) |
+| Diplomata the Game | 44108 | [44108-diplomata-the-game.json](./44108-diplomata-the-game.json) |
 | Dipod: The Foot Legacy | 146831 | [146831-dipod-the-foot-legacy.json](./146831-dipod-the-foot-legacy.json) |
 | Diptych: The Great War | 199135 | [199135-diptych-the-great-war.json](./199135-diptych-the-great-war.json) |
 | Dirappen Restoration | 265700 | [265700-dirappen-restoration.json](./265700-dirappen-restoration.json) |
@@ -6469,6 +6470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest VIII: Journey of the Cursed King | 145528 | [145528-dragon-quest-viii-journey-of-the-cursed-king.json](./145528-dragon-quest-viii-journey-of-the-cursed-king.json) |
 | Dragon Quest VIII: Journey of the Cursed King | 205649 | [205649-dragon-quest-viii-journey-of-the-cursed-king.json](./205649-dragon-quest-viii-journey-of-the-cursed-king.json) |
 | Dragon Quest X Offline: Deluxe Edition | 174127 | [174127-dragon-quest-x-offline-deluxe-edition.json](./174127-dragon-quest-x-offline-deluxe-edition.json) |
+| Dragon Quest X: All In One Package | 44101 | [44101-dragon-quest-x-all-in-one-package.json](./44101-dragon-quest-x-all-in-one-package.json) |
 | Dragon Quest X: All In One Package - Versions 1-6 | 222408 | [222408-dragon-quest-x-all-in-one-package-versions-1-6.json](./222408-dragon-quest-x-all-in-one-package-versions-1-6.json) |
 | Dragon Quest X: Ibara no Miko to Horobi no Kami Online | 136835 | [136835-dragon-quest-x-ibara-no-miko-to-horobi-no-kami-online.json](./136835-dragon-quest-x-ibara-no-miko-to-horobi-no-kami-online.json) |
 | Dragon Quest X: Jikuu no Mayoigo-tachi Online | 374305 | [374305-dragon-quest-x-jikuu-no-mayoigo-tachi-online.json](./374305-dragon-quest-x-jikuu-no-mayoigo-tachi-online.json) |
