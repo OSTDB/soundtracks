@@ -4035,6 +4035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shitataru Nikki | 257085 | [257085-shitataru-nikki.json](./257085-shitataru-nikki.json) |
 | Shitlings | 369626 | [369626-shitlings.json](./369626-shitlings.json) |
 | Shitsuji ga Aruji wo Erabu Toki | 216245 | [216245-shitsuji-ga-aruji-wo-erabu-toki.json](./216245-shitsuji-ga-aruji-wo-erabu-toki.json) |
+| Shivah | 7418 | [7418-shivah.json](./7418-shivah.json) |
 | Shiver 3D | 152771 | [152771-shiver-3d.json](./152771-shiver-3d.json) |
 | Shiver: Poltergeist - Collector's Edition | 30895 | [30895-shiver-poltergeist-collectors-edition.json](./30895-shiver-poltergeist-collectors-edition.json) |
 | Shivering Hearts | 135786 | [135786-shivering-hearts.json](./135786-shivering-hearts.json) |
@@ -4782,6 +4783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silk | 121573 | [121573-silk.json](./121573-silk.json) |
 | Silk & Sorrow | 415870 | [415870-silk-and-sorrow.json](./415870-silk-and-sorrow.json) |
 | Silk Suki: Chat Messaging Game | 298099 | [298099-silk-suki-chat-messaging-game.json](./298099-silk-suki-chat-messaging-game.json) |
+| Silk Worm | 12224 | [12224-silk-worm.json](./12224-silk-worm.json) |
 | Silke, Pixelines Lillesøster: Der Bor En Bager | 349491 | [349491-silke-pixelines-lilles-ster-der-bor-en-bager.json](./349491-silke-pixelines-lilles-ster-der-bor-en-bager.json) |
 | Silke, Pixelines Lillesøster: Hønsefødder Og Gulerødder | 349490 | [349490-silke-pixelines-lilles-ster-h-nsef-dder-og-guler-dder.json](./349490-silke-pixelines-lilles-ster-h-nsef-dder-og-guler-dder.json) |
 | Silke, Pixelines Lillesøster: Kan Du Alfabetet? | 349493 | [349493-silke-pixelines-lilles-ster-kan-du-alfabetet.json](./349493-silke-pixelines-lilles-ster-kan-du-alfabetet.json) |
@@ -4875,6 +4877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimCity Graphics Set 1: Ancient Cities | 84170 | [84170-simcity-graphics-set-1-ancient-cities.json](./84170-simcity-graphics-set-1-ancient-cities.json) |
 | SimCity Graphics Set 2: Future Cities | 77969 | [77969-simcity-graphics-set-2-future-cities.json](./77969-simcity-graphics-set-2-future-cities.json) |
 | SimCity Social | 64978 | [64978-simcity-social.json](./64978-simcity-social.json) |
+| SimCity Societies | 1491 | [1491-simcity-societies.json](./1491-simcity-societies.json) |
 | SimCity: Cities of Tomorrow | 20106 | [20106-simcity-cities-of-tomorrow.json](./20106-simcity-cities-of-tomorrow.json) |
 | SimCity: Enhanced CD-Rom | 208991 | [208991-simcity-enhanced-cd-rom.json](./208991-simcity-enhanced-cd-rom.json) |
 | SimCity: Limited Edition | 50870 | [50870-simcity-limited-edition.json](./50870-simcity-limited-edition.json) |
@@ -5909,6 +5912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slay the Berserker | 384494 | [384494-slay-the-berserker.json](./384494-slay-the-berserker.json) |
 | Slay the Demon Queen | 340364 | [340364-slay-the-demon-queen.json](./340364-slay-the-demon-queen.json) |
 | Slay the King | 374164 | [374164-slay-the-king.json](./374164-slay-the-king.json) |
+| Slay the Princess: The Pristine Cut | 305071 | [305071-slay-the-princess-the-pristine-cut.json](./305071-slay-the-princess-the-pristine-cut.json) |
 | Slay the Space | 187231 | [187231-slay-the-space.json](./187231-slay-the-space.json) |
 | Slay the Spire II | 296831 | [296831-slay-the-spire-ii.json](./296831-slay-the-spire-ii.json) |
 | Slay the Wak | 231097 | [231097-slay-the-wak.json](./231097-slay-the-wak.json) |
@@ -7533,6 +7537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solomon no Kagi: Oujo Rihita no Namida | 46127 | [46127-solomon-no-kagi-oujo-rihita-no-namida.json](./46127-solomon-no-kagi-oujo-rihita-no-namida.json) |
 | Solomon Program | 128357 | [128357-solomon-program.json](./128357-solomon-program.json) |
 | Solomon's Keep | 132812 | [132812-solomons-keep.json](./132812-solomons-keep.json) |
+| Solomon's Key | 28384 | [28384-solomons-key.json](./28384-solomons-key.json) |
 | Solomon's Key | 286608 | [286608-solomons-key.json](./286608-solomons-key.json) |
 | Solos | 197318 | [197318-solos.json](./197318-solos.json) |
 | Solous | 133466 | [133466-solous.json](./133466-solous.json) |
@@ -13385,6 +13390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suikoden | 1447 | [1447-suikoden.json](./1447-suikoden.json) |
 | Suikoden I & II HD Remaster: Gate Rune and Dunan Unification Wars | 217909 | [217909-suikoden-i-and-ii-hd-remaster-gate-rune-and-dunan-unification-wars.json](./217909-suikoden-i-and-ii-hd-remaster-gate-rune-and-dunan-unification-wars.json) |
 | Suikoden II | 1454 | [1454-suikoden-ii.json](./1454-suikoden-ii.json) |
+| Suikoden IV | 1449 | [1449-suikoden-iv.json](./1449-suikoden-iv.json) |
 | Suikoden: Star Leap | 334108 | [334108-suikoden-star-leap.json](./334108-suikoden-star-leap.json) |
 | Suikoden: Tenmei no Chikai | 351030 | [351030-suikoden-tenmei-no-chikai.json](./351030-suikoden-tenmei-no-chikai.json) |
 | Suiren | 131578 | [131578-suiren.json](./131578-suiren.json) |
