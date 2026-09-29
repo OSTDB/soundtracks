@@ -9261,6 +9261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystereet: Yasogami Kaoru no Chousen! | 326951 | [326951-mystereet-yasogami-kaoru-no-chousen.json](./326951-mystereet-yasogami-kaoru-no-chousen.json) |
 | Mysteria ~Occult Shadows~ | 108626 | [108626-mysteria-occult-shadows.json](./108626-mysteria-occult-shadows.json) |
 | Mysteria of the World: The Forest of Death | 188950 | [188950-mysteria-of-the-world-the-forest-of-death.json](./188950-mysteria-of-the-world-the-forest-of-death.json) |
+| Mysteries of Fence | 52086 | [52086-mysteries-of-fence.json](./52086-mysteries-of-fence.json) |
 | Mysteries of Magic Island | 124741 | [124741-mysteries-of-magic-island.json](./124741-mysteries-of-magic-island.json) |
 | Mysteries of Neverville: The Runestone of Light | 113177 | [113177-mysteries-of-neverville-the-runestone-of-light.json](./113177-mysteries-of-neverville-the-runestone-of-light.json) |
 | Mysteries of Peak Valley: Case 1 - The Lost Sonata | 171536 | [171536-mysteries-of-peak-valley-case-1-the-lost-sonata.json](./171536-mysteries-of-peak-valley-case-1-the-lost-sonata.json) |
