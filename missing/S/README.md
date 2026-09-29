@@ -489,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salmon Run | 69800 | [69800-salmon-run.json](./69800-salmon-run.json) |
 | Salomónico | 304219 | [304219-salomonico.json](./304219-salomonico.json) |
 | Saloon Cars Deluxe | 13256 | [13256-saloon-cars-deluxe.json](./13256-saloon-cars-deluxe.json) |
+| Saloon Sally | 13754 | [13754-saloon-sally.json](./13754-saloon-sally.json) |
 | Saloon Showdown VR | 68591 | [68591-saloon-showdown-vr.json](./68591-saloon-showdown-vr.json) |
 | Saloon Simulator | 211782 | [211782-saloon-simulator.json](./211782-saloon-simulator.json) |
 | Saloon VR | 118356 | [118356-saloon-vr.json](./118356-saloon-vr.json) |
@@ -839,6 +840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa Claus Jr. Advance | 49338 | [49338-santa-claus-jr-advance.json](./49338-santa-claus-jr-advance.json) |
 | Santa Claws | 50224 | [50224-santa-claws.json](./50224-santa-claws.json) |
 | Santa Clicker Tycoon | 209630 | [209630-santa-clicker-tycoon.json](./209630-santa-clicker-tycoon.json) |
+| Santa Fe Mysteries: The Elk Moon Murder | 13783 | [13783-santa-fe-mysteries-the-elk-moon-murder.json](./13783-santa-fe-mysteries-the-elk-moon-murder.json) |
 | Santa in search of toys | 113691 | [113691-santa-in-search-of-toys.json](./113691-santa-in-search-of-toys.json) |
 | Santa Jump | 186840 | [186840-santa-jump.json](./186840-santa-jump.json) |
 | Santa Olympics | 175400 | [175400-santa-olympics.json](./175400-santa-olympics.json) |
@@ -5517,6 +5519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skipper 2 | 395724 | [395724-skipper-2.json](./395724-skipper-2.json) |
 | Skippy the Bot | 163369 | [163369-skippy-the-bot.json](./163369-skippy-the-bot.json) |
 | Skippy: The Curse Of The Temple Of Ock | 132042 | [132042-skippy-the-curse-of-the-temple-of-ock.json](./132042-skippy-the-curse-of-the-temple-of-ock.json) |
+| Skirmish | 13756 | [13756-skirmish.json](./13756-skirmish.json) |
 | Skirmish | 257946 | [257946-skirmish.json](./257946-skirmish.json) |
 | Skirmish Line: Mad Jack | 172129 | [172129-skirmish-line-mad-jack.json](./172129-skirmish-line-mad-jack.json) |
 | Skitt | 138735 | [138735-skitt.json](./138735-skitt.json) |
@@ -6717,6 +6720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnaPaul | 332828 | [332828-snapaul.json](./332828-snapaul.json) |
 | Snapdots | 62193 | [62193-snapdots.json](./62193-snapdots.json) |
 | Snapdragon | 118947 | [118947-snapdragon.json](./118947-snapdragon.json) |
+| Snapper | 13757 | [13757-snapper.json](./13757-snapper.json) |
 | Snapper | 312320 | [312320-snapper.json](./312320-snapper.json) |
 | SnappleNoid | 61601 | [61601-snapplenoid.json](./61601-snapplenoid.json) |
 | Snappy Elf | 261516 | [261516-snappy-elf.json](./261516-snappy-elf.json) |
@@ -8933,6 +8937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Pilgrim Episode III: Delta Pavonis | 33601 | [33601-space-pilgrim-episode-iii-delta-pavonis.json](./33601-space-pilgrim-episode-iii-delta-pavonis.json) |
 | Space Pilot | 25722 | [25722-space-pilot.json](./25722-space-pilot.json) |
 | Space Pilot | 26788 | [26788-space-pilot.json](./26788-space-pilot.json) |
+| Space Pilot '89 | 13758 | [13758-space-pilot-89.json](./13758-space-pilot-89.json) |
 | Space Pilot 2 | 25723 | [25723-space-pilot-2.json](./25723-space-pilot-2.json) |
 | Space Pilot Alliance | 182834 | [182834-space-pilot-alliance.json](./182834-space-pilot-alliance.json) |
 | Space Pinball | 50595 | [50595-space-pinball.json](./50595-space-pinball.json) |
@@ -9602,6 +9607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spells & Secrets | 198494 | [198494-spells-and-secrets.json](./198494-spells-and-secrets.json) |
 | Spells For Sad Goths With Shitty Parents | 176921 | [176921-spells-for-sad-goths-with-shitty-parents.json](./176921-spells-for-sad-goths-with-shitty-parents.json) |
 | Spells of Genesis | 57726 | [57726-spells-of-genesis.json](./57726-spells-of-genesis.json) |
+| Spells of Gold | 13785 | [13785-spells-of-gold.json](./13785-spells-of-gold.json) |
 | Spellshaper | 213451 | [213451-spellshaper.json](./213451-spellshaper.json) |
 | Spellshard: The Black Crown of Horgoth | 149992 | [149992-spellshard-the-black-crown-of-horgoth.json](./149992-spellshard-the-black-crown-of-horgoth.json) |
 | Spellshot | 243700 | [243700-spellshot.json](./243700-spellshot.json) |
@@ -9647,6 +9653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sphere Game Legendary | 207820 | [207820-sphere-game-legendary.json](./207820-sphere-game-legendary.json) |
 | Sphere Guider | 250423 | [250423-sphere-guider.json](./250423-sphere-guider.json) |
 | Sphere III: Enchanted World | 34619 | [34619-sphere-iii-enchanted-world.json](./34619-sphere-iii-enchanted-world.json) |
+| Sphere of Destiny | 13759 | [13759-sphere-of-destiny.json](./13759-sphere-of-destiny.json) |
 | Sphere TD | 400231 | [400231-sphere-td.json](./400231-sphere-td.json) |
 | Sphere: Flying Cities - Save the World Edition | 186905 | [186905-sphere-flying-cities-save-the-world-edition.json](./186905-sphere-flying-cities-save-the-world-edition.json) |
 | Sphere: The Knight of Elf | 191096 | [191096-sphere-the-knight-of-elf.json](./191096-sphere-the-knight-of-elf.json) |
@@ -9662,6 +9669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spheroid | 100149 | [100149-spheroid.json](./100149-spheroid.json) |
 | Spheroid | 34535 | [34535-spheroid.json](./34535-spheroid.json) |
 | Spherythm | 118456 | [118456-spherythm.json](./118456-spherythm.json) |
+| Sphinx Adventure | 13760 | [13760-sphinx-adventure.json](./13760-sphinx-adventure.json) |
 | Sphinx and the Cursed Mummy | 210438 | [210438-sphinx-and-the-cursed-mummy.json](./210438-sphinx-and-the-cursed-mummy.json) |
 | Sphinx Lowering | 229819 | [229819-sphinx-lowering.json](./229819-sphinx-lowering.json) |
 | Sphinx: Riddles of the Nile | 289377 | [289377-sphinx-riddles-of-the-nile.json](./289377-sphinx-riddles-of-the-nile.json) |
@@ -10742,6 +10750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Defender 2 | 54396 | [54396-star-defender-2.json](./54396-star-defender-2.json) |
 | Star Defender 3 | 25478 | [25478-star-defender-3.json](./25478-star-defender-3.json) |
 | Star Diffusion | 106969 | [106969-star-diffusion.json](./106969-star-diffusion.json) |
+| Star Drifter | 13761 | [13761-star-drifter.json](./13761-star-drifter.json) |
 | Star Drifter | 32473 | [32473-star-drifter.json](./32473-star-drifter.json) |
 | Star Drives | 187464 | [187464-star-drives.json](./187464-star-drives.json) |
 | Star Dust: A Journey Through Space | 161349 | [161349-star-dust-a-journey-through-space.json](./161349-star-dust-a-journey-through-space.json) |
@@ -10903,6 +10912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Stone Splash | 274491 | [274491-star-stone-splash.json](./274491-star-stone-splash.json) |
 | Star Story: The Horizon Escape | 27005 | [27005-star-story-the-horizon-escape.json](./27005-star-story-the-horizon-escape.json) |
 | Star Strike | 85878 | [85878-star-strike.json](./85878-star-strike.json) |
+| Star Striker | 13762 | [13762-star-striker.json](./13762-star-striker.json) |
 | Star Struck | 78375 | [78375-star-struck.json](./78375-star-struck.json) |
 | Star Swapper | 94728 | [94728-star-swapper.json](./94728-star-swapper.json) |
 | Star Sword | 221972 | [221972-star-sword.json](./221972-star-sword.json) |
@@ -11212,6 +11222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfighter Galaxy Defender VR | 175209 | [175209-starfighter-galaxy-defender-vr.json](./175209-starfighter-galaxy-defender-vr.json) |
 | StarFighter R&D HD Edition | 134689 | [134689-starfighter-r-and-d-hd-edition.json](./134689-starfighter-r-and-d-hd-edition.json) |
 | Starfighter: Eclipse | 142958 | [142958-starfighter-eclipse.json](./142958-starfighter-eclipse.json) |
+| Starfleet Encounter | 13763 | [13763-starfleet-encounter.json](./13763-starfleet-encounter.json) |
 | Starflight 1+2 | 154450 | [154450-starflight-1-2.json](./154450-starflight-1-2.json) |
 | Starflower Inc. | 348788 | [348788-starflower-inc.json](./348788-starflower-inc.json) |
 | StarFlyers: Alien Space Chase | 122951 | [122951-starflyers-alien-space-chase.json](./122951-starflyers-alien-space-chase.json) |
@@ -11450,6 +11461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Bloopers | 405606 | [405606-starship-bloopers.json](./405606-starship-bloopers.json) |
 | Starship Caramba | 326776 | [326776-starship-caramba.json](./326776-starship-caramba.json) |
 | Starship Coaster | 278507 | [278507-starship-coaster.json](./278507-starship-coaster.json) |
+| Starship Command | 13764 | [13764-starship-command.json](./13764-starship-command.json) |
 | Starship Commander | 108965 | [108965-starship-commander.json](./108965-starship-commander.json) |
 | Starship Defender | 268022 | [268022-starship-defender.json](./268022-starship-defender.json) |
 | Starship Dice | 373195 | [373195-starship-dice.json](./373195-starship-dice.json) |
@@ -11596,6 +11608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay Safe | 96481 | [96481-stay-safe.json](./96481-stay-safe.json) |
 | Stay Safe 2020 | 156977 | [156977-stay-safe-2020.json](./156977-stay-safe-2020.json) |
 | Stay Sane | 294253 | [294253-stay-sane.json](./294253-stay-sane.json) |
+| Stay Tooned! | 13786 | [13786-stay-tooned.json](./13786-stay-tooned.json) |
 | Stay Woke Etheral Edition | 75499 | [75499-stay-woke-etheral-edition.json](./75499-stay-woke-etheral-edition.json) |
 | Stay? | 184073 | [184073-stay.json](./184073-stay.json) |
 | Stay.: Fragments of Memories | 308972 | [308972-stay-fragments-of-memories.json](./308972-stay-fragments-of-memories.json) |
@@ -13381,6 +13394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer In The City | 356733 | [356733-summer-in-the-city.json](./356733-summer-in-the-city.json) |
 | Summer in Trigue | 169769 | [169769-summer-in-trigue.json](./169769-summer-in-trigue.json) |
 | Summer Knights | 122156 | [122156-summer-knights.json](./122156-summer-knights.json) |
+| Summer Lesson | 13668 | [13668-summer-lesson.json](./13668-summer-lesson.json) |
 | Summer Lesson: Chisato Shinjo - Shichiyou no Etude | 219030 | [219030-summer-lesson-chisato-shinjo-shichiyou-no-etude.json](./219030-summer-lesson-chisato-shinjo-shichiyou-no-etude.json) |
 | Summer Mahjong | 71571 | [71571-summer-mahjong.json](./71571-summer-mahjong.json) |
 | Summer Meetings | 121692 | [121692-summer-meetings.json](./121692-summer-meetings.json) |
@@ -14616,6 +14630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pocket: Atari Edition | 327197 | [327197-super-pocket-atari-edition.json](./327197-super-pocket-atari-edition.json) |
 | Super Pole Position | 108506 | [108506-super-pole-position.json](./108506-super-pole-position.json) |
 | Super Pong | 64120 | [64120-super-pong.json](./64120-super-pong.json) |
+| Super Pool | 13765 | [13765-super-pool.json](./13765-super-pool.json) |
 | Super Pool III | 172679 | [172679-super-pool-iii.json](./172679-super-pool-iii.json) |
 | Super Pop and Drop | 206713 | [206713-super-pop-and-drop.json](./206713-super-pop-and-drop.json) |
 | Super Pork | 182921 | [182921-super-pork.json](./182921-super-pork.json) |
