@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game of Concentration | 40723 | [40723-a-game-of-concentration.json](./40723-a-game-of-concentration.json) |
 | A Game of Dwarves: Star Dwarves | 171034 | [171034-a-game-of-dwarves-star-dwarves.json](./171034-a-game-of-dwarves-star-dwarves.json) |
 | A Game of Tennis | 92621 | [92621-a-game-of-tennis.json](./92621-a-game-of-tennis.json) |
+| A Game of Thrones: The Board Game - Digital Edition | 139376 | [139376-a-game-of-thrones-the-board-game-digital-edition.json](./139376-a-game-of-thrones-the-board-game-digital-edition.json) |
 | A Game That Rhymes With Grug | 351703 | [351703-a-game-that-rhymes-with-grug.json](./351703-a-game-that-rhymes-with-grug.json) |
 | A Game With a Kitty | 74789 | [74789-a-game-with-a-kitty.json](./74789-a-game-with-a-kitty.json) |
 | A Game's Tale | 298889 | [298889-a-games-tale.json](./298889-a-games-tale.json) |
@@ -1413,6 +1414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerial Nature Jigsaw Puzzles: Expansion Pack 2 | 270073 | [270073-aerial-nature-jigsaw-puzzles-expansion-pack-2.json](./270073-aerial-nature-jigsaw-puzzles-expansion-pack-2.json) |
 | Aerial Nature Jigsaw Puzzles: Expansion Pack 4 | 270199 | [270199-aerial-nature-jigsaw-puzzles-expansion-pack-4.json](./270199-aerial-nature-jigsaw-puzzles-expansion-pack-4.json) |
 | Aerial Racers | 76195 | [76195-aerial-racers.json](./76195-aerial-racers.json) |
+| Aerial_Knight's Never Yield | 138206 | [138206-aerial-knights-never-yield.json](./138206-aerial-knights-never-yield.json) |
 | Aerial_Knight's Never Yield: Deluxe Edition | 169190 | [169190-aerial-knights-never-yield-deluxe-edition.json](./169190-aerial-knights-never-yield-deluxe-edition.json) |
 | Aerial_Knight's We Never Yield | 290947 | [290947-aerial-knights-we-never-yield.json](./290947-aerial-knights-we-never-yield.json) |
 | Aero Cosmos | 335094 | [335094-aero-cosmos.json](./335094-aero-cosmos.json) |
@@ -4180,6 +4182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animated StoryBook: Winnie the Pooh and the Honey Tree | 342669 | [342669-animated-storybook-winnie-the-pooh-and-the-honey-tree.json](./342669-animated-storybook-winnie-the-pooh-and-the-honey-tree.json) |
 | AniMates | 93977 | [93977-animates.json](./93977-animates.json) |
 | Animation Hangman | 117024 | [117024-animation-hangman.json](./117024-animation-hangman.json) |
+| Animation Throwdown: The Quest for Cards | 29491 | [29491-animation-throwdown-the-quest-for-cards.json](./29491-animation-throwdown-the-quest-for-cards.json) |
 | Animation Versus | 343466 | [343466-animation-versus.json](./343466-animation-versus.json) |
 | Animators Hell | 159134 | [159134-animators-hell.json](./159134-animators-hell.json) |
 | Animatronic Memories | 338945 | [338945-animatronic-memories.json](./338945-animatronic-memories.json) |
@@ -5661,6 +5664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argh! Earthlings! | 175435 | [175435-argh-earthlings.json](./175435-argh-earthlings.json) |
 | Arghh, There's a Killer Chasing Me! | 188114 | [188114-arghh-theres-a-killer-chasing-me.json](./188114-arghh-theres-a-killer-chasing-me.json) |
 | Argo | 272353 | [272353-argo.json](./272353-argo.json) |
+| Argo | 36607 | [36607-argo.json](./36607-argo.json) |
 | Argo Adventure | 120885 | [120885-argo-adventure.json](./120885-argo-adventure.json) |
 | Argol: Kronoss' Castle | 229807 | [229807-argol-kronoss-castle.json](./229807-argol-kronoss-castle.json) |
 | Argonauts Agency: Ares Games | 360665 | [360665-argonauts-agency-ares-games.json](./360665-argonauts-agency-ares-games.json) |
