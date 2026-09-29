@@ -824,6 +824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Souls II: Crown of the Old Iron King | 22502 | [22502-dark-souls-ii-crown-of-the-old-iron-king.json](./22502-dark-souls-ii-crown-of-the-old-iron-king.json) |
 | Dark Souls III: Deluxe Edition | 47486 | [47486-dark-souls-iii-deluxe-edition.json](./47486-dark-souls-iii-deluxe-edition.json) |
 | Dark Souls III: The Convergence | 188607 | [188607-dark-souls-iii-the-convergence.json](./188607-dark-souls-iii-the-convergence.json) |
+| Dark Souls III: The Ringed City | 26916 | [26916-dark-souls-iii-the-ringed-city.json](./26916-dark-souls-iii-the-ringed-city.json) |
 | Dark Souls Trilogy | 114143 | [114143-dark-souls-trilogy.json](./114143-dark-souls-trilogy.json) |
 | Dark Souls Trilogy Box | 81201 | [81201-dark-souls-trilogy-box.json](./81201-dark-souls-trilogy-box.json) |
 | Dark Souls Trilogy: Collector's Edition | 114144 | [114144-dark-souls-trilogy-collectors-edition.json](./114144-dark-souls-trilogy-collectors-edition.json) |
@@ -6628,6 +6629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Bane | 148541 | [148541-dragons-bane.json](./148541-dragons-bane.json) |
 | Dragon's Crown Pro | 68283 | [68283-dragons-crown-pro.json](./68283-dragons-crown-pro.json) |
 | Dragon's Crown Pro: Royal Package | 167136 | [167136-dragons-crown-pro-royal-package.json](./167136-dragons-crown-pro-royal-package.json) |
+| Dragon's Dogma | 3968 | [3968-dragons-dogma.json](./3968-dragons-dogma.json) |
 | Dragon's Dogma II: Dark Arisen | 408164 | [408164-dragons-dogma-ii-dark-arisen.json](./408164-dragons-dogma-ii-dark-arisen.json) |
 | Dragon's Dogma II: Dragon's Dogma Music & Sound Collection - Custom Sounds | 308568 | [308568-dragons-dogma-ii-dragons-dogma-music-and-sound-collection-custom-sounds.json](./308568-dragons-dogma-ii-dragons-dogma-music-and-sound-collection-custom-sounds.json) |
 | Dragon's Dogma Online | 26985 | [26985-dragons-dogma-online.json](./26985-dragons-dogma-online.json) |
@@ -7271,6 +7273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driveland | 285559 | [285559-driveland.json](./285559-driveland.json) |
 | Driven Out | 117524 | [117524-driven-out.json](./117524-driven-out.json) |
 | Driver | 675 | [675-driver.json](./675-driver.json) |
+| Driver 2: Back on the Streets | 6391 | [6391-driver-2-back-on-the-streets.json](./6391-driver-2-back-on-the-streets.json) |
 | Driver Dan's Story Train | 269827 | [269827-driver-dans-story-train.json](./269827-driver-dans-story-train.json) |
 | Driver Platinum | 24140 | [24140-driver-platinum.json](./24140-driver-platinum.json) |
 | Driver Pro: 2017 | 68602 | [68602-driver-pro-2017.json](./68602-driver-pro-2017.json) |
@@ -7584,6 +7587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Dynasty: Battle of the Beards | 234327 | [234327-duck-dynasty-battle-of-the-beards.json](./234327-duck-dynasty-battle-of-the-beards.json) |
 | Duck Eggs | 325058 | [325058-duck-eggs.json](./325058-duck-eggs.json) |
 | Duck Flighting | 151089 | [151089-duck-flighting.json](./151089-duck-flighting.json) |
+| Duck Game | 11247 | [11247-duck-game.json](./11247-duck-game.json) |
 | Duck Guardian One | 135883 | [135883-duck-guardian-one.json](./135883-duck-guardian-one.json) |
 | Duck Hunt | 2741 | [2741-duck-hunt.json](./2741-duck-hunt.json) |
 | Duck Hunt 2 | 127992 | [127992-duck-hunt-2.json](./127992-duck-hunt-2.json) |
@@ -8190,6 +8194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duru: About Mole Rats and Depression | 138724 | [138724-duru-about-mole-rats-and-depression.json](./138724-duru-about-mole-rats-and-depression.json) |
 | Dūshì Kǒngbù Gùshì | 116312 | [116312-dushi-kongbu-gushi.json](./116312-dushi-kongbu-gushi.json) |
 | Dúshlán | 141077 | [141077-dushlan.json](./141077-dushlan.json) |
+| Dusk | 25260 | [25260-dusk.json](./25260-dusk.json) |
 | Dusk '82 | 152265 | [152265-dusk-82.json](./152265-dusk-82.json) |
 | Dusk 12: Deadly Zone | 17738 | [17738-dusk-12-deadly-zone.json](./17738-dusk-12-deadly-zone.json) |
 | Dusk Golem's Anthology of Horror | 124193 | [124193-dusk-golems-anthology-of-horror.json](./124193-dusk-golems-anthology-of-horror.json) |
