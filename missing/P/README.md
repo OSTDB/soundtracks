@@ -213,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacif Warriors 2 | 43538 | [43538-pacif-warriors-2.json](./43538-pacif-warriors-2.json) |
 | Pacific Drive: We Have Liftoff Customization Pack | 285546 | [285546-pacific-drive-we-have-liftoff-customization-pack.json](./285546-pacific-drive-we-have-liftoff-customization-pack.json) |
 | Pacific Fire | 127259 | [127259-pacific-fire.json](./127259-pacific-fire.json) |
+| Pacific General | 14451 | [14451-pacific-general.json](./14451-pacific-general.json) |
 | Pacific Gunner | 92470 | [92470-pacific-gunner.json](./92470-pacific-gunner.json) |
 | Pacific Strike | 14562 | [14562-pacific-strike.json](./14562-pacific-strike.json) |
 | Pacific War | 69923 | [69923-pacific-war.json](./69923-pacific-war.json) |
@@ -934,6 +935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Lost: FPS Cosmic Horror Game | 69441 | [69441-paradise-lost-fps-cosmic-horror-game.json](./69441-paradise-lost-fps-cosmic-horror-game.json) |
 | Paradise Lust 2 | 253369 | [253369-paradise-lust-2.json](./253369-paradise-lust-2.json) |
 | Paradise Marsh | 173042 | [173042-paradise-marsh.json](./173042-paradise-marsh.json) |
+| Paradise Never: The Revolution Fails | 14398 | [14398-paradise-never-the-revolution-fails.json](./14398-paradise-never-the-revolution-fails.json) |
 | Paradise of Freedom | 332539 | [332539-paradise-of-freedom.json](./332539-paradise-of-freedom.json) |
 | Paradise Shooting 2!! | 311808 | [311808-paradise-shooting-2.json](./311808-paradise-shooting-2.json) |
 | Paradise Sickness | 270769 | [270769-paradise-sickness.json](./270769-paradise-sickness.json) |
@@ -2379,6 +2381,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phalanstery | 74286 | [74286-phalanstery.json](./74286-phalanstery.json) |
 | Phantaruk | 20788 | [20788-phantaruk.json](./20788-phantaruk.json) |
 | Phantasia | 192152 | [192152-phantasia.json](./192152-phantasia.json) |
+| Phantasie II | 14424 | [14424-phantasie-ii.json](./14424-phantasie-ii.json) |
+| Phantasie IV: Birth of Heroes | 14425 | [14425-phantasie-iv-birth-of-heroes.json](./14425-phantasie-iv-birth-of-heroes.json) |
 | Phantasie Memorial Set | 279038 | [279038-phantasie-memorial-set.json](./279038-phantasie-memorial-set.json) |
 | Phantasm | 308357 | [308357-phantasm.json](./308357-phantasm.json) |
 | Phantasma | 90642 | [90642-phantasma.json](./90642-phantasma.json) |
@@ -4162,6 +4166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Zoo: Zookeepers Animal Pack | 336614 | [336614-planet-zoo-zookeepers-animal-pack.json](./336614-planet-zoo-zookeepers-animal-pack.json) |
 | Planet-Fall | 290997 | [290997-planet-fall.json](./290997-planet-fall.json) |
 | Planet's Core | 112302 | [112302-planets-core.json](./112302-planets-core.json) |
+| Planet's Edge | 14422 | [14422-planets-edge.json](./14422-planets-edge.json) |
 | Planeta | 158054 | [158054-planeta.json](./158054-planeta.json) |
 | Planetary Annihilation: Titans | 18962 | [18962-planetary-annihilation-titans.json](./18962-planetary-annihilation-titans.json) |
 | Planetary Defense Force | 129787 | [129787-planetary-defense-force.json](./129787-planetary-defense-force.json) |
@@ -6128,6 +6133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Premier Manager 2004-2005 | 248630 | [248630-premier-manager-2004-2005.json](./248630-premier-manager-2004-2005.json) |
 | Premier Manager 2004-2005 | 49355 | [49355-premier-manager-2004-2005.json](./49355-premier-manager-2004-2005.json) |
 | Premier Manager 2005-2006 | 49354 | [49354-premier-manager-2005-2006.json](./49354-premier-manager-2005-2006.json) |
+| Premier Manager 3 | 14426 | [14426-premier-manager-3.json](./14426-premier-manager-3.json) |
 | Premier Servi | 293635 | [293635-premier-servi.json](./293635-premier-servi.json) |
 | Premier Soccer | 40397 | [40397-premier-soccer.json](./40397-premier-soccer.json) |
 | Premium Bowling | 109304 | [109304-premium-bowling.json](./109304-premium-bowling.json) |
