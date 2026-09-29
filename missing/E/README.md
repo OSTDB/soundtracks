@@ -545,6 +545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edna | 367597 | [367597-edna.json](./367597-edna.json) |
 | Edna & Harvey Bundle | 272332 | [272332-edna-and-harvey-bundle.json](./272332-edna-and-harvey-bundle.json) |
 | Edna & Harvey: Harvey's New Eyes | 6701 | [6701-edna-and-harvey-harveys-new-eyes.json](./6701-edna-and-harvey-harveys-new-eyes.json) |
+| Edna & Harvey: The Breakout | 15736 | [15736-edna-and-harvey-the-breakout.json](./15736-edna-and-harvey-the-breakout.json) |
 | Edna & Harvey: The Breakout - 10th Anniversary Edition | 107173 | [107173-edna-and-harvey-the-breakout-10th-anniversary-edition.json](./107173-edna-and-harvey-the-breakout-10th-anniversary-edition.json) |
 | Edna: Out of Sight, Out of Control | 210676 | [210676-edna-out-of-sight-out-of-control.json](./210676-edna-out-of-sight-out-of-control.json) |
 | Ednaldo Pereira: Mescladasso | 143501 | [143501-ednaldo-pereira-mescladasso.json](./143501-ednaldo-pereira-mescladasso.json) |
@@ -1084,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eliss Infinity | 41500 | [41500-eliss-infinity.json](./41500-eliss-infinity.json) |
 | Elite Archery | 111876 | [111876-elite-archery.json](./111876-elite-archery.json) |
 | Elite Beasts | 381628 | [381628-elite-beasts.json](./381628-elite-beasts.json) |
+| Elite Beat Agents | 9109 | [9109-elite-beat-agents.json](./9109-elite-beat-agents.json) |
 | Elite Beat Zombygons | 184659 | [184659-elite-beat-zombygons.json](./184659-elite-beat-zombygons.json) |
 | Elite Comet | 277354 | [277354-elite-comet.json](./277354-elite-comet.json) |
 | Elite Darts | 98956 | [98956-elite-darts.json](./98956-elite-darts.json) |
@@ -1535,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ender Story: Chapter 1 | 80903 | [80903-ender-story-chapter-1.json](./80903-ender-story-chapter-1.json) |
 | Ender Theater | 333381 | [333381-ender-theater.json](./333381-ender-theater.json) |
 | Ender's Delight | 344023 | [344023-enders-delight.json](./344023-enders-delight.json) |
+| Enderal: Forgotten Stories | 109367 | [109367-enderal-forgotten-stories.json](./109367-enderal-forgotten-stories.json) |
 | Enderal: The Shards of Order | 249452 | [249452-enderal-the-shards-of-order.json](./249452-enderal-the-shards-of-order.json) |
 | Endersite | 98765 | [98765-endersite.json](./98765-endersite.json) |
 | Endgame | 228970 | [228970-endgame.json](./228970-endgame.json) |
@@ -2868,6 +2871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Event Horizon | 32923 | [32923-event-horizon.json](./32923-event-horizon.json) |
 | Event Race | 280349 | [280349-event-race.json](./280349-event-race.json) |
 | Event World VR | 295523 | [295523-event-world-vr.json](./295523-event-world-vr.json) |
+| Event[0] | 18397 | [18397-event-0.json](./18397-event-0.json) |
 | Eventide 2: The Sorcerers Mirror | 31825 | [31825-eventide-2-the-sorcerers-mirror.json](./31825-eventide-2-the-sorcerers-mirror.json) |
 | Eventide 3: Legacy of Legends | 68713 | [68713-eventide-3-legacy-of-legends.json](./68713-eventide-3-legacy-of-legends.json) |
 | Eventide Escape | 83952 | [83952-eventide-escape.json](./83952-eventide-escape.json) |
@@ -3126,6 +3130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EvoGene | 248314 | [248314-evogene.json](./248314-evogene.json) |
 | Evoids | 331434 | [331434-evoids.json](./331434-evoids.json) |
 | Evoker's Gambit | 333361 | [333361-evokers-gambit.json](./333361-evokers-gambit.json) |
+| Evoland 2 | 11798 | [11798-evoland-2.json](./11798-evoland-2.json) |
 | Evoland Classic | 315652 | [315652-evoland-classic.json](./315652-evoland-classic.json) |
 | Evoland Legendary Edition | 114910 | [114910-evoland-legendary-edition.json](./114910-evoland-legendary-edition.json) |
 | EvoLife | 323744 | [323744-evolife.json](./323744-evolife.json) |
