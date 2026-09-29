@@ -2459,6 +2459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hermitage: Strange Case Files | 130256 | [130256-hermitage-strange-case-files.json](./130256-hermitage-strange-case-files.json) |
 | Hero | 46879 | [46879-hero.json](./46879-hero.json) |
 | Hero Among Us | 143686 | [143686-hero-among-us.json](./143686-hero-among-us.json) |
+| Hero and Daughter | 58887 | [58887-hero-and-daughter.json](./58887-hero-and-daughter.json) |
 | Hero Barrier | 29747 | [29747-hero-barrier.json](./29747-hero-barrier.json) |
 | Hero Battle | 33001 | [33001-hero-battle.json](./33001-hero-battle.json) |
 | Hero Blaze: Three Kingdoms | 212463 | [212463-hero-blaze-three-kingdoms.json](./212463-hero-blaze-three-kingdoms.json) |
@@ -3598,6 +3599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit Tank PRO | 57129 | [57129-hit-tank-pro.json](./57129-hit-tank-pro.json) |
 | Hit The Beat | 305164 | [305164-hit-the-beat.json](./305164-hit-the-beat.json) |
 | Hit the Brakes | 178496 | [178496-hit-the-brakes.json](./178496-hit-the-brakes.json) |
+| Hit the Button RPG | 58876 | [58876-hit-the-button-rpg.json](./58876-hit-the-button-rpg.json) |
 | Hit The Clock | 377708 | [377708-hit-the-clock.json](./377708-hit-the-clock.json) |
 | Hit The Dot | 282728 | [282728-hit-the-dot.json](./282728-hit-the-dot.json) |
 | Hit the Hive | 96866 | [96866-hit-the-hive.json](./96866-hit-the-hive.json) |
