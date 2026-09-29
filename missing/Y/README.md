@@ -809,6 +809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YuMayhem | 292861 | [292861-yumayhem.json](./292861-yumayhem.json) |
 | Yume | 142269 | [142269-yume.json](./142269-yume.json) |
 | Yume 2: Sleepless Night | 154362 | [154362-yume-2-sleepless-night.json](./154362-yume-2-sleepless-night.json) |
+| Yume 2kki | 80668 | [80668-yume-2kki.json](./80668-yume-2kki.json) |
 | Yume 3 | 258176 | [258176-yume-3.json](./258176-yume-3.json) |
 | Yume 5: Spring Festival of Lust | 400245 | [400245-yume-5-spring-festival-of-lust.json](./400245-yume-5-spring-festival-of-lust.json) |
 | Yume Cyber | 286130 | [286130-yume-cyber.json](./286130-yume-cyber.json) |
