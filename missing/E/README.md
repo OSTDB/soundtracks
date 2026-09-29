@@ -207,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easter Clicker: Idle Manager | 118339 | [118339-easter-clicker-idle-manager.json](./118339-easter-clicker-idle-manager.json) |
 | Easter Day Solitaire | 339789 | [339789-easter-day-solitaire.json](./339789-easter-day-solitaire.json) |
 | Easter Egg | 127225 | [127225-easter-egg.json](./127225-easter-egg.json) |
+| Easter Eggs | 41493 | [41493-easter-eggs.json](./41493-easter-eggs.json) |
 | Easter Journey | 296080 | [296080-easter-journey.json](./296080-easter-journey.json) |
 | Easter Squad VR | 101054 | [101054-easter-squad-vr.json](./101054-easter-squad-vr.json) |
 | Easteria | 105747 | [105747-easteria.json](./105747-easteria.json) |
@@ -915,6 +916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electronic Super Joy 2: Groove Wizard's Tower | 171488 | [171488-electronic-super-joy-2-groove-wizards-tower.json](./171488-electronic-super-joy-2-groove-wizards-tower.json) |
 | Electronic Super Joy: Bonus Content Pack! | 156066 | [156066-electronic-super-joy-bonus-content-pack.json](./156066-electronic-super-joy-bonus-content-pack.json) |
 | Electronic Super Joy: Groove City | 17402 | [17402-electronic-super-joy-groove-city.json](./17402-electronic-super-joy-groove-city.json) |
+| Electronic Table Soccer | 41547 | [41547-electronic-table-soccer.json](./41547-electronic-table-soccer.json) |
 | Electronic Talking Super Computer | 374709 | [374709-electronic-talking-super-computer.json](./374709-electronic-talking-super-computer.json) |
 | Electronic Uno | 233989 | [233989-electronic-uno.json](./233989-electronic-uno.json) |
 | Electronic Volleyball | 41573 | [41573-electronic-volleyball.json](./41573-electronic-volleyball.json) |
@@ -1070,6 +1072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elise's Peepshow | 161377 | [161377-elises-peepshow.json](./161377-elises-peepshow.json) |
 | Eliseisk 2074 | 167572 | [167572-eliseisk-2074.json](./167572-eliseisk-2074.json) |
 | Elisius | 149040 | [149040-elisius.json](./149040-elisius.json) |
+| Eliss Infinity | 41500 | [41500-eliss-infinity.json](./41500-eliss-infinity.json) |
 | Elite Archery | 111876 | [111876-elite-archery.json](./111876-elite-archery.json) |
 | Elite Beasts | 381628 | [381628-elite-beasts.json](./381628-elite-beasts.json) |
 | Elite Beat Zombygons | 184659 | [184659-elite-beat-zombygons.json](./184659-elite-beat-zombygons.json) |
@@ -3295,6 +3298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ExoFrontier: Venus | 319724 | [319724-exofrontier-venus.json](./319724-exofrontier-venus.json) |
 | Exogen VR Experience | 117049 | [117049-exogen-vr-experience.json](./117049-exogen-vr-experience.json) |
 | Exogenesis: The Erebus Cycle | 390518 | [390518-exogenesis-the-erebus-cycle.json](./390518-exogenesis-the-erebus-cycle.json) |
+| Exojet + | 41546 | [41546-exojet.json](./41546-exojet.json) |
 | Exomoon | 257419 | [257419-exomoon.json](./257419-exomoon.json) |
 | Exophobia | 126756 | [126756-exophobia.json](./126756-exophobia.json) |
 | Exophobia: Fire & Ice Expedition | 369779 | [369779-exophobia-fire-and-ice-expedition.json](./369779-exophobia-fire-and-ice-expedition.json) |
