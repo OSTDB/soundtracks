@@ -1574,11 +1574,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Arkham Knight - Batman Classic TV Series Batmobile Pack | 15527 | [15527-batman-arkham-knight-batman-classic-tv-series-batmobile-pack.json](./15527-batman-arkham-knight-batman-classic-tv-series-batmobile-pack.json) |
 | Batman: Arkham Knight - Batman Flashpoint Skin | 25974 | [25974-batman-arkham-knight-batman-flashpoint-skin.json](./25974-batman-arkham-knight-batman-flashpoint-skin.json) |
 | Batman: Arkham Knight - Batman Inc. Skin | 25972 | [25972-batman-arkham-knight-batman-inc-skin.json](./25972-batman-arkham-knight-batman-inc-skin.json) |
+| Batman: Arkham Knight - Catwoman's Revenge | 15529 | [15529-batman-arkham-knight-catwomans-revenge.json](./15529-batman-arkham-knight-catwomans-revenge.json) |
 | Batman: Arkham Knight - Crime Fighter Challenge Pack 2 | 15526 | [15526-batman-arkham-knight-crime-fighter-challenge-pack-2.json](./15526-batman-arkham-knight-crime-fighter-challenge-pack-2.json) |
 | Batman: Arkham Knight - Crime Fighter Challenge Pack 3 | 15528 | [15528-batman-arkham-knight-crime-fighter-challenge-pack-3.json](./15528-batman-arkham-knight-crime-fighter-challenge-pack-3.json) |
 | Batman: Arkham Knight - Earth 2 Dark Knight Skin | 138216 | [138216-batman-arkham-knight-earth-2-dark-knight-skin.json](./138216-batman-arkham-knight-earth-2-dark-knight-skin.json) |
 | Batman: Arkham Knight - New 52 Skins Pack | 25983 | [25983-batman-arkham-knight-new-52-skins-pack.json](./25983-batman-arkham-knight-new-52-skins-pack.json) |
 | Batman: Arkham Knight - Original Arkham Batman Skin | 15525 | [15525-batman-arkham-knight-original-arkham-batman-skin.json](./15525-batman-arkham-knight-original-arkham-batman-skin.json) |
+| Batman: Arkham Knight - Red Hood Story Pack | 26034 | [26034-batman-arkham-knight-red-hood-story-pack.json](./26034-batman-arkham-knight-red-hood-story-pack.json) |
 | Batman: Arkham Knight - Season of Infamy: Most Wanted Expansion | 15531 | [15531-batman-arkham-knight-season-of-infamy-most-wanted-expansion.json](./15531-batman-arkham-knight-season-of-infamy-most-wanted-expansion.json) |
 | Batman: Arkham Knight - Season Pass | 25970 | [25970-batman-arkham-knight-season-pass.json](./25970-batman-arkham-knight-season-pass.json) |
 | Batman: Arkham Knight - Special Edition Steelbook | 41611 | [41611-batman-arkham-knight-special-edition-steelbook.json](./41611-batman-arkham-knight-special-edition-steelbook.json) |
@@ -1612,6 +1614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batta Batta: Skurkestreger | 129777 | [129777-batta-batta-skurkestreger.json](./129777-batta-batta-skurkestreger.json) |
 | Battalion Commander | 26289 | [26289-battalion-commander.json](./26289-battalion-commander.json) |
 | Battalion Commander | 27128 | [27128-battalion-commander.json](./27128-battalion-commander.json) |
+| Battalion Wars | 3797 | [3797-battalion-wars.json](./3797-battalion-wars.json) |
 | Batten Tanuki no Daibouken | 47548 | [47548-batten-tanuki-no-daibouken.json](./47548-batten-tanuki-no-daibouken.json) |
 | Batter Bear | 398478 | [398478-batter-bear.json](./398478-batter-bear.json) |
 | Batter Up! | 329039 | [329039-batter-up.json](./329039-batter-up.json) |
@@ -2140,6 +2143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bayala: The Game | 124134 | [124134-bayala-the-game.json](./124134-bayala-the-game.json) |
 | Bayern Munich Club Football | 267885 | [267885-bayern-munich-club-football.json](./267885-bayern-munich-club-football.json) |
 | Bayern Munich Club Football 2005 | 267901 | [267901-bayern-munich-club-football-2005.json](./267901-bayern-munich-club-football-2005.json) |
+| Bayonetta 2 | 279336 | [279336-bayonetta-2.json](./279336-bayonetta-2.json) |
 | Bayonetta 2: Bonus Edition | 51154 | [51154-bayonetta-2-bonus-edition.json](./51154-bayonetta-2-bonus-edition.json) |
 | Bayonetta 2: First Print Edition | 51187 | [51187-bayonetta-2-first-print-edition.json](./51187-bayonetta-2-first-print-edition.json) |
 | Bazaar | 19033 | [19033-bazaar.json](./19033-bazaar.json) |
@@ -3492,6 +3496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billy Boots' Treasure | 396548 | [396548-billy-boots-treasure.json](./396548-billy-boots-treasure.json) |
 | Billy Boy | 72130 | [72130-billy-boy.json](./72130-billy-boy.json) |
 | Billy Boy's Important Wine Lottery | 317404 | [317404-billy-boys-important-wine-lottery.json](./317404-billy-boys-important-wine-lottery.json) |
+| Billy Hatcher and the Giant Egg | 3810 | [3810-billy-hatcher-and-the-giant-egg.json](./3810-billy-hatcher-and-the-giant-egg.json) |
 | Billy Hatcher Hyper Shoot | 341688 | [341688-billy-hatcher-hyper-shoot.json](./341688-billy-hatcher-hyper-shoot.json) |
 | Billy Masters Was Right | 139402 | [139402-billy-masters-was-right.json](./139402-billy-masters-was-right.json) |
 | Billy Meets World | 121605 | [121605-billy-meets-world.json](./121605-billy-meets-world.json) |
@@ -5617,6 +5622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman | 3445 | [3445-bomberman.json](./3445-bomberman.json) |
 | Bomberman '93 | 42097 | [42097-bomberman-93.json](./42097-bomberman-93.json) |
 | Bomberman '93 Special | 42056 | [42056-bomberman-93-special.json](./42056-bomberman-93-special.json) |
+| Bomberman '94 | 3448 | [3448-bomberman-94.json](./3448-bomberman-94.json) |
 | Bomberman 2004 | 198196 | [198196-bomberman-2004.json](./198196-bomberman-2004.json) |
 | Bomberman 3D BT Wide-ban | 198213 | [198213-bomberman-3d-bt-wide-ban.json](./198213-bomberman-3d-bt-wide-ban.json) |
 | Bomberman 64: The Second Attack! | 3452 | [3452-bomberman-64-the-second-attack.json](./3452-bomberman-64-the-second-attack.json) |
