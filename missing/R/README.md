@@ -331,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radio Helicopter | 51159 | [51159-radio-helicopter.json](./51159-radio-helicopter.json) |
 | Radio Runner | 133345 | [133345-radio-runner.json](./133345-radio-runner.json) |
 | Radio Station | 132772 | [132772-radio-station.json](./132772-radio-station.json) |
+| Radio the Universe | 15694 | [15694-radio-the-universe.json](./15694-radio-the-universe.json) |
 | Radio Violence | 110987 | [110987-radio-violence.json](./110987-radio-violence.json) |
 | Radio Viscera | 153438 | [153438-radio-viscera.json](./153438-radio-viscera.json) |
 | Radio Zed | 376720 | [376720-radio-zed.json](./376720-radio-zed.json) |
