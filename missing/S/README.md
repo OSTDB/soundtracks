@@ -7209,6 +7209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sol Sestancia | 310592 | [310592-sol-sestancia.json](./310592-sol-sestancia.json) |
 | Sol Source Online | 26718 | [26718-sol-source-online.json](./26718-sol-source-online.json) |
 | Sol Standard | 184412 | [184412-sol-standard.json](./184412-sol-standard.json) |
+| Sol Trigger | 38467 | [38467-sol-trigger.json](./38467-sol-trigger.json) |
 | Sol Wars | 105556 | [105556-sol-wars.json](./105556-sol-wars.json) |
 | Sol-Rui: After Mini | 331104 | [331104-sol-rui-after-mini.json](./331104-sol-rui-after-mini.json) |
 | Sol: Enchant | 377703 | [377703-sol-enchant.json](./377703-sol-enchant.json) |
@@ -15719,6 +15720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swipe Casters | 87732 | [87732-swipe-casters.json](./87732-swipe-casters.json) |
 | Swipe Soccer | 92520 | [92520-swipe-soccer.json](./92520-swipe-soccer.json) |
 | Swipe: Maze solver | 242790 | [242790-swipe-maze-solver.json](./242790-swipe-maze-solver.json) |
+| Swipe! | 38487 | [38487-swipe.json](./38487-swipe.json) |
 | Swiped! Double Shots of Love | 301410 | [301410-swiped-double-shots-of-love.json](./301410-swiped-double-shots-of-love.json) |
 | Swipepi | 267363 | [267363-swipepi.json](./267363-swipepi.json) |
 | Swiper | 127231 | [127231-swiper.json](./127231-swiper.json) |
