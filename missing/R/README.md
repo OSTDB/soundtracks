@@ -128,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raccoon Arrival | 150627 | [150627-raccoon-arrival.json](./150627-raccoon-arrival.json) |
 | Raccoon Bubbles | 208963 | [208963-raccoon-bubbles.json](./208963-raccoon-bubbles.json) |
 | Raccoon City Edition: Z Version | 218545 | [218545-raccoon-city-edition-z-version.json](./218545-raccoon-city-edition-z-version.json) |
+| Raccoon Hero: Among the Cacti | 55251 | [55251-raccoon-hero-among-the-cacti.json](./55251-raccoon-hero-among-the-cacti.json) |
 | Raccoon Hero: The Sunrise | 51961 | [51961-raccoon-hero-the-sunrise.json](./51961-raccoon-hero-the-sunrise.json) |
 | Raccoon Lagoon | 133388 | [133388-raccoon-lagoon.json](./133388-raccoon-lagoon.json) |
 | Raccoon Laundering | 307129 | [307129-raccoon-laundering.json](./307129-raccoon-laundering.json) |
@@ -5648,6 +5649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runout | 173182 | [173182-runout.json](./173182-runout.json) |
 | Runway | 174345 | [174345-runway.json](./174345-runway.json) |
 | Runway 66 | 348768 | [348768-runway-66.json](./348768-runway-66.json) |
+| RunZ | 55296 | [55296-runz.json](./55296-runz.json) |
 | RuPaul's Drag Race Match Queen | 339640 | [339640-rupauls-drag-race-match-queen.json](./339640-rupauls-drag-race-match-queen.json) |
 | Rupert and Riley: Shipwrecked | 58482 | [58482-rupert-and-riley-shipwrecked.json](./58482-rupert-and-riley-shipwrecked.json) |
 | Rupture | 261821 | [261821-rupture.json](./261821-rupture.json) |
