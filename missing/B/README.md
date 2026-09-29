@@ -6194,6 +6194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxing | 55103 | [55103-boxing.json](./55103-boxing.json) |
 | Boxing | 78619 | [78619-boxing.json](./78619-boxing.json) |
 | Boxing Babes: Sexy Fight Hentai Anime Girls | 165016 | [165016-boxing-babes-sexy-fight-hentai-anime-girls.json](./165016-boxing-babes-sexy-fight-hentai-anime-girls.json) |
+| Boxing Champions | 43425 | [43425-boxing-champions.json](./43425-boxing-champions.json) |
 | Boxing Club: Ultimate Fighting | 108469 | [108469-boxing-club-ultimate-fighting.json](./108469-boxing-club-ultimate-fighting.json) |
 | Boxing Fighter: Super Punch | 93717 | [93717-boxing-fighter-super-punch.json](./93717-boxing-fighter-super-punch.json) |
 | Boxing Fighting Def Jam NY | 196582 | [196582-boxing-fighting-def-jam-ny.json](./196582-boxing-fighting-def-jam-ny.json) |
