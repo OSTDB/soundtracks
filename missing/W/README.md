@@ -2813,6 +2813,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witherholme | 189058 | [189058-witherholme.json](./189058-witherholme.json) |
 | Withering Flowers | 260421 | [260421-withering-flowers.json](./260421-withering-flowers.json) |
 | Withering Gardens | 301924 | [301924-withering-gardens.json](./301924-withering-gardens.json) |
+| Withering Kingdom: Arcane War | 57760 | [57760-withering-kingdom-arcane-war.json](./57760-withering-kingdom-arcane-war.json) |
+| Withering Kingdom: Flurry of Arrows | 57721 | [57721-withering-kingdom-flurry-of-arrows.json](./57721-withering-kingdom-flurry-of-arrows.json) |
 | Withering Realms | 329964 | [329964-withering-realms.json](./329964-withering-realms.json) |
 | Withering Rush | 225598 | [225598-withering-rush.json](./225598-withering-rush.json) |
 | Witherspring Wilds | 391858 | [391858-witherspring-wilds.json](./391858-witherspring-wilds.json) |
@@ -4153,6 +4155,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWII: Rising | 171033 | [171033-wwii-rising.json](./171033-wwii-rising.json) |
 | WWII: Tank Battle Arena | 225896 | [225896-wwii-tank-battle-arena.json](./225896-wwii-tank-battle-arena.json) |
 | WWTF | 110369 | [110369-wwtf.json](./110369-wwtf.json) |
+| Wyatt Derp | 57762 | [57762-wyatt-derp.json](./57762-wyatt-derp.json) |
+| Wyatt Derp 2: Peacekeeper | 57722 | [57722-wyatt-derp-2-peacekeeper.json](./57722-wyatt-derp-2-peacekeeper.json) |
 | Wyld Land | 334480 | [334480-wyld-land.json](./334480-wyld-land.json) |
 | Wyldheart | 395042 | [395042-wyldheart.json](./395042-wyldheart.json) |
 | WyndBlast | 234752 | [234752-wyndblast.json](./234752-wyndblast.json) |
