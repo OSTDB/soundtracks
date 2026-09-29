@@ -192,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quanero | 32194 | [32194-quanero.json](./32194-quanero.json) |
 | Quánmín Wángzhě | 82037 | [82037-quanmin-wangzhe.json](./82037-quanmin-wangzhe.json) |
 | Quantaar | 159884 | [159884-quantaar.json](./159884-quantaar.json) |
+| Quantized | 37311 | [37311-quantized.json](./37311-quantized.json) |
 | Quantum | 19374 | [19374-quantum.json](./19374-quantum.json) |
 | Quantum Apex | 195151 | [195151-quantum-apex.json](./195151-quantum-apex.json) |
 | Quantum Beast | 295526 | [295526-quantum-beast.json](./295526-quantum-beast.json) |
