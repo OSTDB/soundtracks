@@ -1349,6 +1349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Agents: Mission X | 314853 | [314853-lego-agents-mission-x.json](./314853-lego-agents-mission-x.json) |
 | LEGO Alpha Team | 80638 | [80638-lego-alpha-team.json](./80638-lego-alpha-team.json) |
 | LEGO Arthouse | 117005 | [117005-lego-arthouse.json](./117005-lego-arthouse.json) |
+| LEGO Batman 2: DC Super Heroes | 6836 | [6836-lego-batman-2-dc-super-heroes.json](./6836-lego-batman-2-dc-super-heroes.json) |
 | LEGO Batman 3: Beyond Gotham - Dark Knight | 266232 | [266232-lego-batman-3-beyond-gotham-dark-knight.json](./266232-lego-batman-3-beyond-gotham-dark-knight.json) |
 | LEGO Batman: The Mobile Game | 259264 | [259264-lego-batman-the-mobile-game.json](./259264-lego-batman-the-mobile-game.json) |
 | LEGO Batman: The Videogame | 259251 | [259251-lego-batman-the-videogame.json](./259251-lego-batman-the-videogame.json) |
@@ -1531,6 +1532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemmings | 240322 | [240322-lemmings.json](./240322-lemmings.json) |
 | Lemmings | 240324 | [240324-lemmings.json](./240324-lemmings.json) |
 | Lemmings | 240326 | [240326-lemmings.json](./240326-lemmings.json) |
+| Lemmings | 4239 | [4239-lemmings.json](./4239-lemmings.json) |
 | Lemmings & Oh No! More Lemmings | 242242 | [242242-lemmings-and-oh-no-more-lemmings.json](./242242-lemmings-and-oh-no-more-lemmings.json) |
 | Lemmings & Oh No! More Lemmings | 243377 | [243377-lemmings-and-oh-no-more-lemmings.json](./243377-lemmings-and-oh-no-more-lemmings.json) |
 | Lemmings & Oh No! More Lemmings | 243686 | [243686-lemmings-and-oh-no-more-lemmings.json](./243686-lemmings-and-oh-no-more-lemmings.json) |
@@ -2680,6 +2682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Honeybee | 288359 | [288359-little-honeybee.json](./288359-little-honeybee.json) |
 | Little Horror Raiser | 216185 | [216185-little-horror-raiser.json](./216185-little-horror-raiser.json) |
 | Little Horrors! | 287240 | [287240-little-horrors.json](./287240-little-horrors.json) |
+| Little Inferno | 1363 | [1363-little-inferno.json](./1363-little-inferno.json) |
 | Little Inferno: Ho Ho Holiday | 224412 | [224412-little-inferno-ho-ho-holiday.json](./224412-little-inferno-ho-ho-holiday.json) |
 | Little Island | 189072 | [189072-little-island.json](./189072-little-island.json) |
 | Little Island Adventure | 202134 | [202134-little-island-adventure.json](./202134-little-island-adventure.json) |
@@ -3366,6 +3369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loop Dungeon | 248321 | [248321-loop-dungeon.json](./248321-loop-dungeon.json) |
 | Loop Firefighters | 388362 | [388362-loop-firefighters.json](./388362-loop-firefighters.json) |
 | Loop Frogs | 284893 | [284893-loop-frogs.json](./284893-loop-frogs.json) |
+| Loop Hero | 141533 | [141533-loop-hero.json](./141533-loop-hero.json) |
 | Loop Hero: Deluxe Edition | 248294 | [248294-loop-hero-deluxe-edition.json](./248294-loop-hero-deluxe-edition.json) |
 | Loop Kingdom | 253005 | [253005-loop-kingdom.json](./253005-loop-kingdom.json) |
 | Loop Knight | 224017 | [224017-loop-knight.json](./224017-loop-knight.json) |
