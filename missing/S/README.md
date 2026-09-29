@@ -2289,6 +2289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Genesis Classics: Series 3 | 50852 | [50852-sega-genesis-classics-series-3.json](./50852-sega-genesis-classics-series-3.json) |
 | Sega Genesis Classics: Series 4 | 50851 | [50851-sega-genesis-classics-series-4.json](./50851-sega-genesis-classics-series-4.json) |
 | Sega Genesis Classics: Series 5 | 50850 | [50850-sega-genesis-classics-series-5.json](./50850-sega-genesis-classics-series-5.json) |
+| Sega Genesis Collection | 20621 | [20621-sega-genesis-collection.json](./20621-sega-genesis-collection.json) |
 | Sega Genesis Mini 2 | 215742 | [215742-sega-genesis-mini-2.json](./215742-sega-genesis-mini-2.json) |
 | Sega Genesis Ultimate Portable Game Player | 202787 | [202787-sega-genesis-ultimate-portable-game-player.json](./202787-sega-genesis-ultimate-portable-game-player.json) |
 | Sega GT | 28838 | [28838-sega-gt.json](./28838-sega-gt.json) |
@@ -2508,6 +2509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senran Kagura Burst Re:Newal - Miyabi Character and Campaign | 248315 | [248315-senran-kagura-burst-re-newal-miyabi-character-and-campaign.json](./248315-senran-kagura-burst-re-newal-miyabi-character-and-campaign.json) |
 | Senran Kagura Burst Re:Newal - Yumi Character and Campaign | 248311 | [248311-senran-kagura-burst-re-newal-yumi-character-and-campaign.json](./248311-senran-kagura-burst-re-newal-yumi-character-and-campaign.json) |
 | Senran Kagura Peach and Reflextions: Limited Double Pack | 117172 | [117172-senran-kagura-peach-and-reflextions-limited-double-pack.json](./117172-senran-kagura-peach-and-reflextions-limited-double-pack.json) |
+| Senran Kagura Peach Ball | 54521 | [54521-senran-kagura-peach-ball.json](./54521-senran-kagura-peach-ball.json) |
 | Senran Kagura Reflexions | 28129 | [28129-senran-kagura-reflexions.json](./28129-senran-kagura-reflexions.json) |
 | Senran Kagura Reflexions: Murasaki Reflexions Course & 7-Outfit Set | 374271 | [374271-senran-kagura-reflexions-murasaki-reflexions-course-and-7-outfit-set.json](./374271-senran-kagura-reflexions-murasaki-reflexions-course-and-7-outfit-set.json) |
 | Senran Kagura Reflexions: Ryouna Reflexions Course & 7-Outfit Set | 374269 | [374269-senran-kagura-reflexions-ryouna-reflexions-course-and-7-outfit-set.json](./374269-senran-kagura-reflexions-ryouna-reflexions-course-and-7-outfit-set.json) |
@@ -3425,6 +3427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shapo | 84898 | [84898-shapo.json](./84898-shapo.json) |
 | Shapy Road | 244805 | [244805-shapy-road.json](./244805-shapy-road.json) |
 | Shaq Attaq | 94736 | [94736-shaq-attaq.json](./94736-shaq-attaq.json) |
+| Shaq Fu: A Legend Reborn | 51679 | [51679-shaq-fu-a-legend-reborn.json](./51679-shaq-fu-a-legend-reborn.json) |
 | Shaq-Fu | 8536 | [8536-shaq-fu.json](./8536-shaq-fu.json) |
 | Shard of Kronos | 163967 | [163967-shard-of-kronos.json](./163967-shard-of-kronos.json) |
 | Shard of Spring | 2884 | [2884-shard-of-spring.json](./2884-shard-of-spring.json) |
@@ -6032,6 +6035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slender Man: Chapter 1 - Alone | 63821 | [63821-slender-man-chapter-1-alone.json](./63821-slender-man-chapter-1-alone.json) |
 | Slender Multiplayer | 270731 | [270731-slender-multiplayer.json](./270731-slender-multiplayer.json) |
 | Slender Myth | 220665 | [220665-slender-myth.json](./220665-slender-myth.json) |
+| Slender-Man | 64424 | [64424-slender-man.json](./64424-slender-man.json) |
 | Slender: Adrift | 321330 | [321330-slender-adrift.json](./321330-slender-adrift.json) |
 | Slender: Lonely Home | 126446 | [126446-slender-lonely-home.json](./126446-slender-lonely-home.json) |
 | Slender: Reborn | 327987 | [327987-slender-reborn.json](./327987-slender-reborn.json) |
@@ -12605,6 +12609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stray | 177394 | [177394-stray.json](./177394-stray.json) |
 | Stray Beasts | 256324 | [256324-stray-beasts.json](./256324-stray-beasts.json) |
 | Stray Blade: Valley of Strays | 276825 | [276825-stray-blade-valley-of-strays.json](./276825-stray-blade-valley-of-strays.json) |
+| Stray Cat Crossing | 21641 | [21641-stray-cat-crossing.json](./21641-stray-cat-crossing.json) |
 | Stray Gods: Orpheus | 307335 | [307335-stray-gods-orpheus.json](./307335-stray-gods-orpheus.json) |
 | Stray Gods: Orpheus Edition | 385325 | [385325-stray-gods-orpheus-edition.json](./385325-stray-gods-orpheus-edition.json) |
 | Stray Kids SKZOO Tamagotchi | 334864 | [334864-stray-kids-skzoo-tamagotchi.json](./334864-stray-kids-skzoo-tamagotchi.json) |
