@@ -355,6 +355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tainted Grail: Conquest | 146424 | [146424-tainted-grail-conquest.json](./146424-tainted-grail-conquest.json) |
 | Tainted Ground | 373031 | [373031-tainted-ground.json](./373031-tainted-ground.json) |
 | Tainted Gun | 208597 | [208597-tainted-gun.json](./208597-tainted-gun.json) |
+| Tainted Keep | 39782 | [39782-tainted-keep.json](./39782-tainted-keep.json) |
 | Tainted Pools | 347362 | [347362-tainted-pools.json](./347362-tainted-pools.json) |
 | Taipan! | 131518 | [131518-taipan.json](./131518-taipan.json) |
 | Taipei | 72147 | [72147-taipei.json](./72147-taipei.json) |
@@ -2942,6 +2943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Biggest Loser | 48035 | [48035-the-biggest-loser.json](./48035-the-biggest-loser.json) |
 | The Bigs 2 | 4716 | [4716-the-bigs-2.json](./4716-the-bigs-2.json) |
 | The Bikini Bottom Massacre | 269582 | [269582-the-bikini-bottom-massacre.json](./269582-the-bikini-bottom-massacre.json) |
+| The Bilestoad | 39780 | [39780-the-bilestoad.json](./39780-the-bilestoad.json) |
 | The Billionaire's Baby | 313890 | [313890-the-billionaires-baby.json](./313890-the-billionaires-baby.json) |
 | The Binding of Isaac: Afterbirth | 13177 | [13177-the-binding-of-isaac-afterbirth.json](./13177-the-binding-of-isaac-afterbirth.json) |
 | The Binding of Isaac: Epiphany | 223039 | [223039-the-binding-of-isaac-epiphany.json](./223039-the-binding-of-isaac-epiphany.json) |
@@ -6105,6 +6107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Maze Contract | 276157 | [276157-the-maze-contract.json](./276157-the-maze-contract.json) |
 | The Maze Escaper | 150700 | [150700-the-maze-escaper.json](./150700-the-maze-escaper.json) |
 | The Maze Game: Runner and Escapist | 207884 | [207884-the-maze-game-runner-and-escapist.json](./207884-the-maze-game-runner-and-escapist.json) |
+| The Maze of the Kings | 39793 | [39793-the-maze-of-the-kings.json](./39793-the-maze-of-the-kings.json) |
 | The Maze Runner | 138159 | [138159-the-maze-runner.json](./138159-the-maze-runner.json) |
 | The Maze VR | 130289 | [130289-the-maze-vr.json](./130289-the-maze-vr.json) |
 | The Maze Wars | 365285 | [365285-the-maze-wars.json](./365285-the-maze-wars.json) |
