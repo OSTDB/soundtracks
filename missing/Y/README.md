@@ -427,6 +427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoshi's Isle: Sonic Style | 323909 | [323909-yoshis-isle-sonic-style.json](./323909-yoshis-isle-sonic-style.json) |
 | Yoshi's Mix-Up | 231652 | [231652-yoshis-mix-up.json](./231652-yoshis-mix-up.json) |
 | Yoshi's New Island | 4591 | [4591-yoshis-new-island.json](./4591-yoshis-new-island.json) |
+| Yoshi's Story | 3213 | [3213-yoshis-story.json](./3213-yoshis-story.json) |
 | Yoshi's Strange Quest | 38305 | [38305-yoshis-strange-quest.json](./38305-yoshis-strange-quest.json) |
 | Yoshida Koumuten | 265650 | [265650-yoshida-koumuten.json](./265650-yoshida-koumuten.json) |
 | Yoshimi-kun wa Game Bakkari | 356152 | [356152-yoshimi-kun-wa-game-bakkari.json](./356152-yoshimi-kun-wa-game-bakkari.json) |
