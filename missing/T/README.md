@@ -2861,6 +2861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Beautiful World | 384228 | [384228-the-beautiful-world.json](./384228-the-beautiful-world.json) |
 | The Beauty Cult's: Nectarmancer | 219547 | [219547-the-beauty-cults-nectarmancer.json](./219547-the-beauty-cults-nectarmancer.json) |
 | The Bed Was Cold | 179489 | [179489-the-bed-was-cold.json](./179489-the-bed-was-cold.json) |
+| The Bee Game | 49480 | [49480-the-bee-game.json](./49480-the-bee-game.json) |
 | The Bee Hive | 378786 | [378786-the-bee-hive.json](./378786-the-bee-hive.json) |
 | The Beer War! | 72169 | [72169-the-beer-war.json](./72169-the-beer-war.json) |
 | The Beginner Investor | 384087 | [384087-the-beginner-investor.json](./384087-the-beginner-investor.json) |
@@ -3164,6 +3165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cat and the Coup | 16241 | [16241-the-cat-and-the-coup.json](./16241-the-cat-and-the-coup.json) |
 | The Cat Games | 27977 | [27977-the-cat-games.json](./27977-the-cat-games.json) |
 | The Cat in 14a | 117805 | [117805-the-cat-in-14a.json](./117805-the-cat-in-14a.json) |
+| The Cat in the Hat By Dr Seuss | 49507 | [49507-the-cat-in-the-hat-by-dr-seuss.json](./49507-the-cat-in-the-hat-by-dr-seuss.json) |
 | The Cat in the Hat: Rainy Day Mayhem | 403720 | [403720-the-cat-in-the-hat-rainy-day-mayhem.json](./403720-the-cat-in-the-hat-rainy-day-mayhem.json) |
 | The Cat in the Hijab | 55930 | [55930-the-cat-in-the-hijab.json](./55930-the-cat-in-the-hijab.json) |
 | The Cat is Dying | 383075 | [383075-the-cat-is-dying.json](./383075-the-cat-is-dying.json) |
@@ -13253,6 +13255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transmorpher 3 | 101937 | [101937-transmorpher-3.json](./101937-transmorpher-3.json) |
 | Transmute Syndrome | 311670 | [311670-transmute-syndrome.json](./311670-transmute-syndrome.json) |
 | Transmute! | 120283 | [120283-transmute.json](./120283-transmute.json) |
+| Transmuter | 49517 | [49517-transmuter.json](./49517-transmuter.json) |
 | Transmuters | 258501 | [258501-transmuters.json](./258501-transmuters.json) |
 | TransOcean 2: Rivals | 35728 | [35728-transocean-2-rivals.json](./35728-transocean-2-rivals.json) |
 | TransOcean: The Shipping Company | 36346 | [36346-transocean-the-shipping-company.json](./36346-transocean-the-shipping-company.json) |
