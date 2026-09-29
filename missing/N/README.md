@@ -259,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Napoleon: Total War - The Peninsular Campaign | 82109 | [82109-napoleon-total-war-the-peninsular-campaign.json](./82109-napoleon-total-war-the-peninsular-campaign.json) |
 | Napoleon's Campaigns | 21362 | [21362-napoleons-campaigns.json](./21362-napoleons-campaigns.json) |
 | Napoleon's Campaigns II | 65045 | [65045-napoleons-campaigns-ii.json](./65045-napoleons-campaigns-ii.json) |
+| Napoleon's Campaigns: 1813 & 1815 | 23989 | [23989-napoleons-campaigns-1813-and-1815.json](./23989-napoleons-campaigns-1813-and-1815.json) |
 | Napoleonic Battles: The Final Struggle | 182272 | [182272-napoleonic-battles-the-final-struggle.json](./182272-napoleonic-battles-the-final-struggle.json) |
 | Napple Tale: Arsia in Daydream | 28152 | [28152-napple-tale-arsia-in-daydream.json](./28152-napple-tale-arsia-in-daydream.json) |
 | Nara: Facing Fire | 210086 | [210086-nara-facing-fire.json](./210086-nara-facing-fire.json) |
@@ -2153,6 +2154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NightmareZ | 31849 | [31849-nightmarez.json](./31849-nightmarez.json) |
 | Nightmist | 406906 | [406906-nightmist.json](./406906-nightmist.json) |
 | Nightout | 172503 | [172503-nightout.json](./172503-nightout.json) |
+| Nightraiders | 23948 | [23948-nightraiders.json](./23948-nightraiders.json) |
 | NightReaper2 | 388192 | [388192-nightreaper2.json](./388192-nightreaper2.json) |
 | Nightriderz | 159142 | [159142-nightriderz.json](./159142-nightriderz.json) |
 | Nights in Endless Dream | 388366 | [388366-nights-in-endless-dream.json](./388366-nights-in-endless-dream.json) |
@@ -3075,6 +3077,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norse Noir: Loki's Exile | 19264 | [19264-norse-noir-lokis-exile.json](./19264-norse-noir-lokis-exile.json) |
 | Norseman | 41560 | [41560-norseman.json](./41560-norseman.json) |
 | North American Hunting Extravaganza 2 | 50619 | [50619-north-american-hunting-extravaganza-2.json](./50619-north-american-hunting-extravaganza-2.json) |
+| North Atlantic '86 | 23999 | [23999-north-atlantic-86.json](./23999-north-atlantic-86.json) |
+| North Atlantic Convoy Raider | 23997 | [23997-north-atlantic-convoy-raider.json](./23997-north-atlantic-convoy-raider.json) |
 | North Modding Company: Bergsbruk | 143689 | [143689-north-modding-company-bergsbruk.json](./143689-north-modding-company-bergsbruk.json) |
 | North Salvation | 246475 | [246475-north-salvation.json](./246475-north-salvation.json) |
 | North Stars | 102143 | [102143-north-stars.json](./102143-north-stars.json) |
