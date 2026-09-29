@@ -1125,6 +1125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon FM | 55996 | [55996-neon-fm.json](./55996-neon-fm.json) |
 | Neon Force Pushers | 99037 | [99037-neon-force-pushers.json](./99037-neon-force-pushers.json) |
 | Neon Fury | 120335 | [120335-neon-fury.json](./120335-neon-fury.json) |
+| Neon Galaxy | 44113 | [44113-neon-galaxy.json](./44113-neon-galaxy.json) |
 | Neon Genesis Evangelion 2 | 75876 | [75876-neon-genesis-evangelion-2.json](./75876-neon-genesis-evangelion-2.json) |
 | Neon Genesis Evangelion 2: Another Cases | 75877 | [75877-neon-genesis-evangelion-2-another-cases.json](./75877-neon-genesis-evangelion-2-another-cases.json) |
 | Neon Genesis Evangelion: 2nd Impression | 75875 | [75875-neon-genesis-evangelion-2nd-impression.json](./75875-neon-genesis-evangelion-2nd-impression.json) |
