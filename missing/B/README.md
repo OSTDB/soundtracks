@@ -1597,6 +1597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Justice Unbalanced | 73887 | [73887-batman-justice-unbalanced.json](./73887-batman-justice-unbalanced.json) |
 | Batman: Return to Arkham | 19245 | [19245-batman-return-to-arkham.json](./19245-batman-return-to-arkham.json) |
 | Batman: Return to Arkham - Arkham City | 203435 | [203435-batman-return-to-arkham-arkham-city.json](./203435-batman-return-to-arkham-arkham-city.json) |
+| Batman: Revenge of the Joker | 45204 | [45204-batman-revenge-of-the-joker.json](./45204-batman-revenge-of-the-joker.json) |
 | Batman: Rise of Sin Tzu | 5739 | [5739-batman-rise-of-sin-tzu.json](./5739-batman-rise-of-sin-tzu.json) |
 | Batman: The Brave and the Bold | 245552 | [245552-batman-the-brave-and-the-bold.json](./245552-batman-the-brave-and-the-bold.json) |
 | Batman: The Brave and the Bold - The Videogame | 4707 | [4707-batman-the-brave-and-the-bold-the-videogame.json](./4707-batman-the-brave-and-the-bold-the-videogame.json) |
@@ -3474,6 +3475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bill & Ted's Excellent Adventure: The Computer Game! | 83911 | [83911-bill-and-teds-excellent-adventure-the-computer-game.json](./83911-bill-and-teds-excellent-adventure-the-computer-game.json) |
 | Bill Bounce | 231623 | [231623-bill-bounce.json](./231623-bill-bounce.json) |
 | Bill Killem | 343997 | [343997-bill-killem.json](./343997-bill-killem.json) |
+| Bill Laimbeer's Combat Basketball | 46002 | [46002-bill-laimbeers-combat-basketball.json](./46002-bill-laimbeers-combat-basketball.json) |
 | Bill Nye the Science Guy: Stop the Rock | 67957 | [67957-bill-nye-the-science-guy-stop-the-rock.json](./67957-bill-nye-the-science-guy-stop-the-rock.json) |
 | Bill the Demon | 229813 | [229813-bill-the-demon.json](./229813-bill-the-demon.json) |
 | Bill Walsh College Football | 5363 | [5363-bill-walsh-college-football.json](./5363-bill-walsh-college-football.json) |
@@ -3748,6 +3750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird's Town | 120264 | [120264-birds-town.json](./120264-birds-town.json) |
 | Birdcage (Oda al Pájaro) | 325262 | [325262-birdcage-oda-al-pajaro.json](./325262-birdcage-oda-al-pajaro.json) |
 | Birdfull | 333567 | [333567-birdfull.json](./333567-birdfull.json) |
+| BirdGut | 117873 | [117873-birdgut.json](./117873-birdgut.json) |
 | Birdie | 341130 | [341130-birdie.json](./341130-birdie.json) |
 | Birdie Barrage | 13696 | [13696-birdie-barrage.json](./13696-birdie-barrage.json) |
 | Birdie Blitz | 406787 | [406787-birdie-blitz.json](./406787-birdie-blitz.json) |
@@ -4299,6 +4302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blades of Time: Dismal Swamp | 155038 | [155038-blades-of-time-dismal-swamp.json](./155038-blades-of-time-dismal-swamp.json) |
 | Blades of Time: Dismal Swamp | 170418 | [170418-blades-of-time-dismal-swamp.json](./170418-blades-of-time-dismal-swamp.json) |
 | Blades of Time: Limited Edition | 52656 | [52656-blades-of-time-limited-edition.json](./52656-blades-of-time-limited-edition.json) |
+| Blades of Vengeance | 45565 | [45565-blades-of-vengeance.json](./45565-blades-of-vengeance.json) |
 | Blades of Vharan | 396224 | [396224-blades-of-vharan.json](./396224-blades-of-vharan.json) |
 | Blades, Bows & Magic | 329403 | [329403-blades-bows-and-magic.json](./329403-blades-bows-and-magic.json) |
 | Blaine Bananatree | 97458 | [97458-blaine-bananatree.json](./97458-blaine-bananatree.json) |
@@ -7124,6 +7128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Ranks | 162520 | [162520-broken-ranks.json](./162520-broken-ranks.json) |
 | Broken Reality 2000 | 226272 | [226272-broken-reality-2000.json](./226272-broken-reality-2000.json) |
 | Broken Relic | 342896 | [342896-broken-relic.json](./342896-broken-relic.json) |
+| Broken Roads | 122866 | [122866-broken-roads.json](./122866-broken-roads.json) |
 | Broken Robot | 152840 | [152840-broken-robot.json](./152840-broken-robot.json) |
 | Broken Shell | 304374 | [304374-broken-shell.json](./304374-broken-shell.json) |
 | Broken Skies | 181136 | [181136-broken-skies.json](./181136-broken-skies.json) |
