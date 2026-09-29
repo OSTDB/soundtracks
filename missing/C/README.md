@@ -2799,6 +2799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chef of Sherwood | 391845 | [391845-chef-of-sherwood.json](./391845-chef-of-sherwood.json) |
 | Chef Ramsay | 248130 | [248130-chef-ramsay.json](./248130-chef-ramsay.json) |
 | Chef RPG | 191154 | [191154-chef-rpg.json](./191154-chef-rpg.json) |
+| Chef Showdown | 256391 | [256391-chef-showdown.json](./256391-chef-showdown.json) |
 | Chef Wanted | 232665 | [232665-chef-wanted.json](./232665-chef-wanted.json) |
 | Chef Wars | 102115 | [102115-chef-wars.json](./102115-chef-wars.json) |
 | Chef Word Ardee | 187862 | [187862-chef-word-ardee.json](./187862-chef-word-ardee.json) |
@@ -7479,6 +7480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creeper Goo | 163814 | [163814-creeper-goo.json](./163814-creeper-goo.json) |
 | Creeper World | 7595 | [7595-creeper-world.json](./7595-creeper-world.json) |
 | Creeper World 2: Redemption | 66086 | [66086-creeper-world-2-redemption.json](./66086-creeper-world-2-redemption.json) |
+| Creeper World 3: Arc Eternal | 9809 | [9809-creeper-world-3-arc-eternal.json](./9809-creeper-world-3-arc-eternal.json) |
 | Creeper World: Anniversary Edition | 34005 | [34005-creeper-world-anniversary-edition.json](./34005-creeper-world-anniversary-edition.json) |
 | Creepers | 15478 | [15478-creepers.json](./15478-creepers.json) |
 | Creepless | 253427 | [253427-creepless.json](./253427-creepless.json) |
@@ -8602,6 +8604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cupcakeroo! | 256792 | [256792-cupcakeroo.json](./256792-cupcakeroo.json) |
 | Cupcakes and Critters | 63560 | [63560-cupcakes-and-critters.json](./63560-cupcakes-and-critters.json) |
 | Cuphead | 237497 | [237497-cuphead.json](./237497-cuphead.json) |
+| Cuphead & The Delicious Last Course | 210917 | [210917-cuphead-and-the-delicious-last-course.json](./210917-cuphead-and-the-delicious-last-course.json) |
 | Cuphead Wii U | 357448 | [357448-cuphead-wii-u.json](./357448-cuphead-wii-u.json) |
 | Cupiclaw | 302430 | [302430-cupiclaw.json](./302430-cupiclaw.json) |
 | Cupid | 253362 | [253362-cupid.json](./253362-cupid.json) |
