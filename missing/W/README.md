@@ -2429,6 +2429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wind Fantasy Double Cross | 408793 | [408793-wind-fantasy-double-cross.json](./408793-wind-fantasy-double-cross.json) |
 | Wind Fantasy II: Alive | 350516 | [350516-wind-fantasy-ii-alive.json](./350516-wind-fantasy-ii-alive.json) |
 | Wind Force | 116984 | [116984-wind-force.json](./116984-wind-force.json) |
+| Wind Horizon | 57027 | [57027-wind-horizon.json](./57027-wind-horizon.json) |
 | Wind Love | 259589 | [259589-wind-love.json](./259589-wind-love.json) |
 | Wind Peaks 2 | 236284 | [236284-wind-peaks-2.json](./236284-wind-peaks-2.json) |
 | Wind Rider | 294258 | [294258-wind-rider.json](./294258-wind-rider.json) |
@@ -2607,6 +2608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Spring | 82187 | [82187-winter-spring.json](./82187-winter-spring.json) |
 | Winter Stars | 20155 | [20155-winter-stars.json](./20155-winter-stars.json) |
 | Winter Stealth | 247765 | [247765-winter-stealth.json](./247765-winter-stealth.json) |
+| Winter Supersports 92 | 57186 | [57186-winter-supersports-92.json](./57186-winter-supersports-92.json) |
 | Winter Survival Simulator | 309661 | [309661-winter-survival-simulator.json](./309661-winter-survival-simulator.json) |
 | Winter Survivor Protocol | 392125 | [392125-winter-survivor-protocol.json](./392125-winter-survivor-protocol.json) |
 | Winter Tramp | 201683 | [201683-winter-tramp.json](./201683-winter-tramp.json) |
@@ -2791,6 +2793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WitchSpring3 | 207869 | [207869-witchspring3.json](./207869-witchspring3.json) |
 | WitchSpring3 Re:Fine - The Story of Eirudy | 141763 | [141763-witchspring3-re-fine-the-story-of-eirudy.json](./141763-witchspring3-re-fine-the-story-of-eirudy.json) |
 | WitchSpring4 | 147342 | [147342-witchspring4.json](./147342-witchspring4.json) |
+| WitchSwitch | 57181 | [57181-witchswitch.json](./57181-witchswitch.json) |
 | Witchtastic | 135787 | [135787-witchtastic.json](./135787-witchtastic.json) |
 | Witchworker | 405611 | [405611-witchworker.json](./405611-witchworker.json) |
 | Witchy Wonderland | 344348 | [344348-witchy-wonderland.json](./344348-witchy-wonderland.json) |
