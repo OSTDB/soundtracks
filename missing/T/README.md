@@ -1603,6 +1603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Tournament Fighters | 48274 | [48274-teenage-mutant-ninja-turtles-tournament-fighters.json](./48274-teenage-mutant-ninja-turtles-tournament-fighters.json) |
 | Teenage Mutant Ninja Turtles: Way of the Warrior | 146240 | [146240-teenage-mutant-ninja-turtles-way-of-the-warrior.json](./146240-teenage-mutant-ninja-turtles-way-of-the-warrior.json) |
 | Teenage Super Ninja Plumbers | 222882 | [222882-teenage-super-ninja-plumbers.json](./222882-teenage-super-ninja-plumbers.json) |
+| Teenagent | 8285 | [8285-teenagent.json](./8285-teenagent.json) |
 | Teenager vs.Tropical Mutants | 108414 | [108414-teenager-vs-tropical-mutants.json](./108414-teenager-vs-tropical-mutants.json) |
 | Teeny Dungeon | 245798 | [245798-teeny-dungeon.json](./245798-teeny-dungeon.json) |
 | Teeny Heist | 83556 | [83556-teeny-heist.json](./83556-teeny-heist.json) |
@@ -7520,6 +7521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Country Kitchen Kit | 148501 | [148501-the-sims-4-country-kitchen-kit.json](./148501-the-sims-4-country-kitchen-kit.json) |
 | The Sims 4: Decor to the Max Kit | 195598 | [195598-the-sims-4-decor-to-the-max-kit.json](./195598-the-sims-4-decor-to-the-max-kit.json) |
 | The Sims 4: Desert Luxe Kit | 217801 | [217801-the-sims-4-desert-luxe-kit.json](./217801-the-sims-4-desert-luxe-kit.json) |
+| The Sims 4: Dine Out | 24373 | [24373-the-sims-4-dine-out.json](./24373-the-sims-4-dine-out.json) |
 | The Sims 4: Discover University | 126182 | [126182-the-sims-4-discover-university.json](./126182-the-sims-4-discover-university.json) |
 | The Sims 4: Eco Lifestyle | 135144 | [135144-the-sims-4-eco-lifestyle.json](./135144-the-sims-4-eco-lifestyle.json) |
 | The Sims 4: Essential Glam Kit | 362300 | [362300-the-sims-4-essential-glam-kit.json](./362300-the-sims-4-essential-glam-kit.json) |
@@ -11347,6 +11349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom & Jerry: The Ultimate Game of Cat and Mouse! | 8023 | [8023-tom-and-jerry-the-ultimate-game-of-cat-and-mouse.json](./8023-tom-and-jerry-the-ultimate-game-of-cat-and-mouse.json) |
 | Tom & Jerry: Yankee Doodle’s Cat-astrophe | 57689 | [57689-tom-and-jerry-yankee-doodle-s-cat-astrophe.json](./57689-tom-and-jerry-yankee-doodle-s-cat-astrophe.json) |
 | Tom and Jerry | 218399 | [218399-tom-and-jerry.json](./218399-tom-and-jerry.json) |
+| Tom and Jerry | 8025 | [8025-tom-and-jerry.json](./8025-tom-and-jerry.json) |
 | Tom and Jerry in War of the Whiskers | 2650 | [2650-tom-and-jerry-in-war-of-the-whiskers.json](./2650-tom-and-jerry-in-war-of-the-whiskers.json) |
 | Tom and Jerry Tales | 8027 | [8027-tom-and-jerry-tales.json](./8027-tom-and-jerry-tales.json) |
 | Tom and Jerry: Frantic Antics! | 307061 | [307061-tom-and-jerry-frantic-antics.json](./307061-tom-and-jerry-frantic-antics.json) |
@@ -13506,6 +13509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers Franchise Pack | 99794 | [99794-transformers-franchise-pack.json](./99794-transformers-franchise-pack.json) |
 | Transformers G1 Awakening | 315069 | [315069-transformers-g1-awakening.json](./315069-transformers-g1-awakening.json) |
 | Transformers Generation 2 | 198946 | [198946-transformers-generation-2.json](./198946-transformers-generation-2.json) |
+| Transformers Prime: The Game | 23676 | [23676-transformers-prime-the-game.json](./23676-transformers-prime-the-game.json) |
 | Transformers Rescue Bots: Race to the Rescue | 137611 | [137611-transformers-rescue-bots-race-to-the-rescue.json](./137611-transformers-rescue-bots-race-to-the-rescue.json) |
 | Transformers Tatakai | 70938 | [70938-transformers-tatakai.json](./70938-transformers-tatakai.json) |
 | Transformers: Battle Masters | 70993 | [70993-transformers-battle-masters.json](./70993-transformers-battle-masters.json) |
@@ -13919,6 +13923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials 2 | 140577 | [140577-trials-2.json](./140577-trials-2.json) |
 | Trials Construction Yard | 305135 | [305135-trials-construction-yard.json](./305135-trials-construction-yard.json) |
 | Trials Evolution: Gold Edition | 20748 | [20748-trials-evolution-gold-edition.json](./20748-trials-evolution-gold-edition.json) |
+| Trials Frontier | 7212 | [7212-trials-frontier.json](./7212-trials-frontier.json) |
 | Trials Fusion | 3191 | [3191-trials-fusion.json](./3191-trials-fusion.json) |
 | Trials Fusion: After the Incident | 165426 | [165426-trials-fusion-after-the-incident.json](./165426-trials-fusion-after-the-incident.json) |
 | Trials Fusion: Awesome Level Max | 19951 | [19951-trials-fusion-awesome-level-max.json](./19951-trials-fusion-awesome-level-max.json) |
