@@ -2633,6 +2633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes and Forsaken: The Official Wheel of Time Digital Card Game | 362304 | [362304-heroes-and-forsaken-the-official-wheel-of-time-digital-card-game.json](./362304-heroes-and-forsaken-the-official-wheel-of-time-digital-card-game.json) |
 | Heroes and Test of Succubus | 294165 | [294165-heroes-and-test-of-succubus.json](./294165-heroes-and-test-of-succubus.json) |
 | Heroes Call | 22209 | [22209-heroes-call.json](./22209-heroes-call.json) |
+| Heroes Chronicles: Clash of the Dragons | 8435 | [8435-heroes-chronicles-clash-of-the-dragons.json](./8435-heroes-chronicles-clash-of-the-dragons.json) |
 | Heroes Chronicles: Conquest of the Underworld | 7867 | [7867-heroes-chronicles-conquest-of-the-underworld.json](./7867-heroes-chronicles-conquest-of-the-underworld.json) |
 | Heroes Chronicles: Masters of the Elements | 8434 | [8434-heroes-chronicles-masters-of-the-elements.json](./8434-heroes-chronicles-masters-of-the-elements.json) |
 | Heroes Chronicles: Revolt of the Beastmasters | 8139 | [8139-heroes-chronicles-revolt-of-the-beastmasters.json](./8139-heroes-chronicles-revolt-of-the-beastmasters.json) |
