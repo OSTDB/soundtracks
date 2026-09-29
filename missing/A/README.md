@@ -6580,6 +6580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astérix: Caesar's Challenge | 45944 | [45944-asterix-caesars-challenge.json](./45944-asterix-caesars-challenge.json) |
 | Astérix: Hunt for the Boars | 305276 | [305276-asterix-hunt-for-the-boars.json](./305276-asterix-hunt-for-the-boars.json) |
 | Astérix: Hunt for the Boars | 347903 | [347903-asterix-hunt-for-the-boars.json](./347903-asterix-hunt-for-the-boars.json) |
+| Astérix: Mega Madness | 43869 | [43869-asterix-mega-madness.json](./43869-asterix-mega-madness.json) |
 | Astérix: Search for Dogmatix | 50019 | [50019-asterix-search-for-dogmatix.json](./50019-asterix-search-for-dogmatix.json) |
 | Asterix: The Official Mobile Game of the Movie | 297590 | [297590-asterix-the-official-mobile-game-of-the-movie.json](./297590-asterix-the-official-mobile-game-of-the-movie.json) |
 | Astérix: These Romans Are Crazy! | 269567 | [269567-asterix-these-romans-are-crazy.json](./269567-asterix-these-romans-are-crazy.json) |
