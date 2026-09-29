@@ -1555,6 +1555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OpenQuiz | 246110 | [246110-openquiz.json](./246110-openquiz.json) |
 | OpenSpades | 98371 | [98371-openspades.json](./98371-openspades.json) |
 | OpenTaiko | 323888 | [323888-opentaiko.json](./323888-opentaiko.json) |
+| OpenTyrian | 46729 | [46729-opentyrian.json](./46729-opentyrian.json) |
 | OpenViva | 316813 | [316813-openviva.json](./316813-openviva.json) |
 | Opera Omnia | 77359 | [77359-opera-omnia.json](./77359-opera-omnia.json) |
 | Opera Prima | 325565 | [325565-opera-prima.json](./325565-opera-prima.json) |
