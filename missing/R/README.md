@@ -4693,6 +4693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolan's Curse | 49023 | [49023-rolans-curse.json](./49023-rolans-curse.json) |
 | Rolan's Curse 2 | 49022 | [49022-rolans-curse-2.json](./49022-rolans-curse-2.json) |
 | Roland Ahoy! | 39147 | [39147-roland-ahoy.json](./39147-roland-ahoy.json) |
+| Roland in the Caves | 13027 | [13027-roland-in-the-caves.json](./13027-roland-in-the-caves.json) |
 | Roland in Time | 39148 | [39148-roland-in-time.json](./39148-roland-in-time.json) |
 | Rolando | 23029 | [23029-rolando.json](./23029-rolando.json) |
 | Rolando 3 | 92640 | [92640-rolando-3.json](./92640-rolando-3.json) |
@@ -4723,6 +4724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll+Heart | 119718 | [119718-roll-heart.json](./119718-roll-heart.json) |
 | Rolla | 374635 | [374635-rolla.json](./374635-rolla.json) |
 | Rollance: Adventure Balls | 224106 | [224106-rollance-adventure-balls.json](./224106-rollance-adventure-balls.json) |
+| Rollaround | 13029 | [13029-rollaround.json](./13029-rollaround.json) |
 | Rollbot | 351031 | [351031-rollbot.json](./351031-rollbot.json) |
 | Rollcage | 8332 | [8332-rollcage.json](./8332-rollcage.json) |
 | Rolldown | 228366 | [228366-rolldown.json](./228366-rolldown.json) |
@@ -5458,6 +5460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby World Cup 1995 | 45551 | [45551-rugby-world-cup-1995.json](./45551-rugby-world-cup-1995.json) |
 | Rugby World Cup 2015 | 20861 | [20861-rugby-world-cup-2015.json](./20861-rugby-world-cup-2015.json) |
 | Rugby World Cup 95 | 50809 | [50809-rugby-world-cup-95.json](./50809-rugby-world-cup-95.json) |
+| Rugby: The World Cup | 12926 | [12926-rugby-the-world-cup.json](./12926-rugby-the-world-cup.json) |
 | Rugged Rovers | 380548 | [380548-rugged-rovers.json](./380548-rugged-rovers.json) |
 | Rugida | 169384 | [169384-rugida.json](./169384-rugida.json) |
 | Rugon | 108991 | [108991-rugon.json](./108991-rugon.json) |
@@ -5922,6 +5925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RV Park Life | 228452 | [228452-rv-park-life.json](./228452-rv-park-life.json) |
 | RV There Yet? | 373580 | [373580-rv-there-yet.json](./373580-rv-there-yet.json) |
 | RV-7 My Drone | 84909 | [84909-rv-7-my-drone.json](./84909-rv-7-my-drone.json) |
+| RVF Honda | 12927 | [12927-rvf-honda.json](./12927-rvf-honda.json) |
 | RWBY: Amity Arena | 107151 | [107151-rwby-amity-arena.json](./107151-rwby-amity-arena.json) |
 | RWBY: Crystal Match | 120203 | [120203-rwby-crystal-match.json](./120203-rwby-crystal-match.json) |
 | RWBY: Grimm Eclipse - JNPR | 282712 | [282712-rwby-grimm-eclipse-jnpr.json](./282712-rwby-grimm-eclipse-jnpr.json) |
