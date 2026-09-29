@@ -373,6 +373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Regular Pinball Game | 349474 | [349474-a-regular-pinball-game.json](./349474-a-regular-pinball-game.json) |
 | A Ride to Love | 140536 | [140536-a-ride-to-love.json](./140536-a-ride-to-love.json) |
 | A Right to Rule | 347228 | [347228-a-right-to-rule.json](./347228-a-right-to-rule.json) |
+| A Rip In Time | 50751 | [50751-a-rip-in-time.json](./50751-a-rip-in-time.json) |
 | A Rite from the Stars: Remaster Edition | 298690 | [298690-a-rite-from-the-stars-remaster-edition.json](./298690-a-rite-from-the-stars-remaster-edition.json) |
 | A Roach In Space | 269058 | [269058-a-roach-in-space.json](./269058-a-roach-in-space.json) |
 | A Road That May Lead Nowhere | 77658 | [77658-a-road-that-may-lead-nowhere.json](./77658-a-road-that-may-lead-nowhere.json) |
@@ -1260,6 +1261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Inlay: Safari Edition | 52550 | [52550-adventure-inlay-safari-edition.json](./52550-adventure-inlay-safari-edition.json) |
 | Adventure Interpreter | 73272 | [73272-adventure-interpreter.json](./73272-adventure-interpreter.json) |
 | Adventure Island II | 6471 | [6471-adventure-island-ii.json](./6471-adventure-island-ii.json) |
+| Adventure Island: The Beginning | 50697 | [50697-adventure-island-the-beginning.json](./50697-adventure-island-the-beginning.json) |
 | Adventure Kitty: Drill Buster | 265665 | [265665-adventure-kitty-drill-buster.json](./265665-adventure-kitty-drill-buster.json) |
 | Adventure Light | 149534 | [149534-adventure-light.json](./149534-adventure-light.json) |
 | Adventure Llama | 104463 | [104463-adventure-llama.json](./104463-adventure-llama.json) |
@@ -5146,6 +5148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Ultimate: Street of Rage - Limited Edition | 202789 | [202789-arcade-ultimate-street-of-rage-limited-edition.json](./202789-arcade-ultimate-street-of-rage-limited-edition.json) |
 | Arcade Video Games Quiz | 241355 | [241355-arcade-video-games-quiz.json](./241355-arcade-video-games-quiz.json) |
 | Arcade vs Player | 223410 | [223410-arcade-vs-player.json](./223410-arcade-vs-player.json) |
+| Arcade Zone | 50742 | [50742-arcade-zone.json](./50742-arcade-zone.json) |
 | Arcade ZX Collection: Anteater | 304195 | [304195-arcade-zx-collection-anteater.json](./304195-arcade-zx-collection-anteater.json) |
 | Arcade ZX Collection: Botanic | 304194 | [304194-arcade-zx-collection-botanic.json](./304194-arcade-zx-collection-botanic.json) |
 | Arcade ZX Collection: Tetris | 304193 | [304193-arcade-zx-collection-tetris.json](./304193-arcade-zx-collection-tetris.json) |
@@ -5415,6 +5418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Are You Smarter Than a 5th Grader? | 212767 | [212767-are-you-smarter-than-a-5th-grader.json](./212767-are-you-smarter-than-a-5th-grader.json) |
 | Are You Smarter Than A 5th Grader? | 220072 | [220072-are-you-smarter-than-a-5th-grader.json](./220072-are-you-smarter-than-a-5th-grader.json) |
 | Are You Smarter Than a 5th Grader? Game Time | 197940 | [197940-are-you-smarter-than-a-5th-grader-game-time.json](./197940-are-you-smarter-than-a-5th-grader-game-time.json) |
+| Are You Smarter Than A 5th Grader?: Back to School | 50741 | [50741-are-you-smarter-than-a-5th-grader-back-to-school.json](./50741-are-you-smarter-than-a-5th-grader-back-to-school.json) |
 | Are You Smarter than a 5th Grader?: Extra Credit | 234304 | [234304-are-you-smarter-than-a-5th-grader-extra-credit.json](./234304-are-you-smarter-than-a-5th-grader-extra-credit.json) |
 | Are You Smarter Than Mario? | 231629 | [231629-are-you-smarter-than-mario.json](./231629-are-you-smarter-than-mario.json) |
 | Are You Smarter Than the Crowd? | 194989 | [194989-are-you-smarter-than-the-crowd.json](./194989-are-you-smarter-than-the-crowd.json) |
@@ -5799,6 +5803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Around the Words | 52092 | [52092-around-the-words.json](./52092-around-the-words.json) |
 | Around the World 2 with the Johnson Family | 357421 | [357421-around-the-world-2-with-the-johnson-family.json](./357421-around-the-world-2-with-the-johnson-family.json) |
 | Around the World 3: Amazing Countries - Collector's Edition | 345673 | [345673-around-the-world-3-amazing-countries-collectors-edition.json](./345673-around-the-world-3-amazing-countries-collectors-edition.json) |
+| Around the World in 50 Games | 50692 | [50692-around-the-world-in-50-games.json](./50692-around-the-world-in-50-games.json) |
 | Around the World in 80 Days | 231324 | [231324-around-the-world-in-80-days.json](./231324-around-the-world-in-80-days.json) |
 | Around the World in 80 Days | 80445 | [80445-around-the-world-in-80-days.json](./80445-around-the-world-in-80-days.json) |
 | Around the World in 80 Days | 86235 | [86235-around-the-world-in-80-days.json](./86235-around-the-world-in-80-days.json) |
@@ -7073,6 +7078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aunt Arctic Adventure | 14275 | [14275-aunt-arctic-adventure.json](./14275-aunt-arctic-adventure.json) |
 | Aunt Fatima | 307767 | [307767-aunt-fatima.json](./307767-aunt-fatima.json) |
 | Aunt Velma Is Coming to Tea | 58858 | [58858-aunt-velma-is-coming-to-tea.json](./58858-aunt-velma-is-coming-to-tea.json) |
+| Auqa Panic! | 50693 | [50693-auqa-panic.json](./50693-auqa-panic.json) |
 | Aura Aspic | 180236 | [180236-aura-aspic.json](./180236-aura-aspic.json) |
 | Aura Aura Climber | 66985 | [66985-aura-aura-climber.json](./66985-aura-aura-climber.json) |
 | Aura Farmers | 329698 | [329698-aura-farmers.json](./329698-aura-farmers.json) |
