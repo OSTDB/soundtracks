@@ -605,6 +605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombeo and Vampireta | 399696 | [399696-zombeo-and-vampireta.json](./399696-zombeo-and-vampireta.json) |
 | Zombi Rockstar | 245844 | [245844-zombi-rockstar.json](./245844-zombi-rockstar.json) |
 | Zombidle | 70384 | [70384-zombidle.json](./70384-zombidle.json) |
+| Zombie | 26894 | [26894-zombie.json](./26894-zombie.json) |
 | Zombie 2018 | 87634 | [87634-zombie-2018.json](./87634-zombie-2018.json) |
 | Zombie Accountant | 66159 | [66159-zombie-accountant.json](./66159-zombie-accountant.json) |
 | Zombie Age | 220739 | [220739-zombie-age.json](./220739-zombie-age.json) |
