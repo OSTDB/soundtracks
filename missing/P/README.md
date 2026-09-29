@@ -2558,6 +2558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phineas and Ferb | 230397 | [230397-phineas-and-ferb.json](./230397-phineas-and-ferb.json) |
 | Phineas and Ferb Arcade | 361713 | [361713-phineas-and-ferb-arcade.json](./361713-phineas-and-ferb-arcade.json) |
 | Phineas and Ferb: Across the Second Dimension | 291548 | [291548-phineas-and-ferb-across-the-second-dimension.json](./291548-phineas-and-ferb-across-the-second-dimension.json) |
+| Phineas and Ferb: Across the Second Dimension | 52668 | [52668-phineas-and-ferb-across-the-second-dimension.json](./52668-phineas-and-ferb-across-the-second-dimension.json) |
 | Phineas and Ferb: Day of Doofenshmirtz | 23476 | [23476-phineas-and-ferb-day-of-doofenshmirtz.json](./23476-phineas-and-ferb-day-of-doofenshmirtz.json) |
 | Phineas and Ferb: Quest for Cool Stuff | 5318 | [5318-phineas-and-ferb-quest-for-cool-stuff.json](./5318-phineas-and-ferb-quest-for-cool-stuff.json) |
 | Phix: The Adventure | 46086 | [46086-phix-the-adventure.json](./46086-phix-the-adventure.json) |
@@ -4154,6 +4155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet of Lana II: Children of the Leaf | 348200 | [348200-planet-of-lana-ii-children-of-the-leaf.json](./348200-planet-of-lana-ii-children-of-the-leaf.json) |
 | Planet of the Ants | 347134 | [347134-planet-of-the-ants.json](./347134-planet-of-the-ants.json) |
 | Planet of the Apes | 282720 | [282720-planet-of-the-apes.json](./282720-planet-of-the-apes.json) |
+| Planet of the Apes: Last Frontier | 54709 | [54709-planet-of-the-apes-last-frontier.json](./54709-planet-of-the-apes-last-frontier.json) |
 | Planet Oio | 317420 | [317420-planet-oio.json](./317420-planet-oio.json) |
 | Planet Omnia | 197912 | [197912-planet-omnia.json](./197912-planet-omnia.json) |
 | Planet Patrol | 18476 | [18476-planet-patrol.json](./18476-planet-patrol.json) |
@@ -4286,6 +4288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs. Zombies: Original Edition | 310568 | [310568-plants-vs-zombies-original-edition.json](./310568-plants-vs-zombies-original-edition.json) |
 | Plants vs. Zombies: Replanted | 358529 | [358529-plants-vs-zombies-replanted.json](./358529-plants-vs-zombies-replanted.json) |
 | Planum | 96890 | [96890-planum.json](./96890-planum.json) |
+| Plaque Attack | 18410 | [18410-plaque-attack.json](./18410-plaque-attack.json) |
 | Plaqueman | 229928 | [229928-plaqueman.json](./229928-plaqueman.json) |
 | Plarail Yume Ga Ippai! | 270150 | [270150-plarail-yume-ga-ippai.json](./270150-plarail-yume-ga-ippai.json) |
 | Plasma Attack | 158650 | [158650-plasma-attack.json](./158650-plasma-attack.json) |
@@ -7409,6 +7412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prší | 99579 | [99579-prsi.json](./99579-prsi.json) |
 | PRTs | 176277 | [176277-prts.json](./176277-prts.json) |
 | Prueba Humana | 361231 | [361231-prueba-humana.json](./361231-prueba-humana.json) |
+| Prune | 18134 | [18134-prune.json](./18134-prune.json) |
 | Prune & Milo | 294134 | [294134-prune-and-milo.json](./294134-prune-and-milo.json) |
 | Prussia's Glory | 77384 | [77384-prussias-glory.json](./77384-prussias-glory.json) |
 | Pry into the Void | 187530 | [187530-pry-into-the-void.json](./187530-pry-into-the-void.json) |
