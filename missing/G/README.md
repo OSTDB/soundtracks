@@ -4859,6 +4859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunhed: Taikai | 42025 | [42025-gunhed-taikai.json](./42025-gunhed-taikai.json) |
 | GunHero | 30035 | [30035-gunhero.json](./30035-gunhero.json) |
 | GunHowl | 144802 | [144802-gunhowl.json](./144802-gunhowl.json) |
+| Gunjack | 18363 | [18363-gunjack.json](./18363-gunjack.json) |
 | Gunjin Gari | 59071 | [59071-gunjin-gari.json](./59071-gunjin-gari.json) |
 | Gunkour | 150085 | [150085-gunkour.json](./150085-gunkour.json) |
 | Gunless | 84262 | [84262-gunless.json](./84262-gunless.json) |
