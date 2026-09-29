@@ -3601,6 +3601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chroma+Elektron | 199564 | [199564-chroma-elektron.json](./199564-chroma-elektron.json) |
 | Chromacell | 290540 | [290540-chromacell.json](./290540-chromacell.json) |
 | Chromadrome | 73511 | [73511-chromadrome.json](./73511-chromadrome.json) |
+| ChromaGun | 23245 | [23245-chromagun.json](./23245-chromagun.json) |
 | Chromahertz | 211739 | [211739-chromahertz.json](./211739-chromahertz.json) |
 | Chromancer | 63008 | [63008-chromancer.json](./63008-chromancer.json) |
 | Chromarena | 188666 | [188666-chromarena.json](./188666-chromarena.json) |
@@ -7160,6 +7161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash the Game | 129703 | [129703-crash-the-game.json](./129703-crash-the-game.json) |
 | Crash Time 3D | 65544 | [65544-crash-time-3d.json](./65544-crash-time-3d.json) |
 | Crash Time 4: The Syndicate | 19973 | [19973-crash-time-4-the-syndicate.json](./19973-crash-time-4-the-syndicate.json) |
+| Crash Time II | 6946 | [6946-crash-time-ii.json](./6946-crash-time-ii.json) |
 | Crash Time: Undercover | 226834 | [226834-crash-time-undercover.json](./226834-crash-time-undercover.json) |
 | Crash Twinsanity | 210234 | [210234-crash-twinsanity.json](./210234-crash-twinsanity.json) |
 | Crash Twinsanity 3D | 210232 | [210232-crash-twinsanity-3d.json](./210232-crash-twinsanity-3d.json) |
