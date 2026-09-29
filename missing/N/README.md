@@ -282,6 +282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narcis Crosswords | 304028 | [304028-narcis-crosswords.json](./304028-narcis-crosswords.json) |
 | Narcissu | 95463 | [95463-narcissu.json](./95463-narcissu.json) |
 | Narcissu 3rd -Die Dritte Welt- | 93513 | [93513-narcissu-3rd-die-dritte-welt.json](./93513-narcissu-3rd-die-dritte-welt.json) |
+| Narcissu Side 2nd | 78208 | [78208-narcissu-side-2nd.json](./78208-narcissu-side-2nd.json) |
 | Narcissu: A Little Iris | 127324 | [127324-narcissu-a-little-iris.json](./127324-narcissu-a-little-iris.json) |
 | Narcissu: Himeko's Epilogue | 122263 | [122263-narcissu-himekos-epilogue.json](./122263-narcissu-himekos-epilogue.json) |
 | Narcissus | 335682 | [335682-narcissus.json](./335682-narcissus.json) |
@@ -349,6 +350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto x Boruto: Ultimate Ninja Storm Connections | 239385 | [239385-naruto-x-boruto-ultimate-ninja-storm-connections.json](./239385-naruto-x-boruto-ultimate-ninja-storm-connections.json) |
 | Naruto x Boruto: Ultimate NInja Storm Connections - DLC Pack 5 | 317957 | [317957-naruto-x-boruto-ultimate-ninja-storm-connections-dlc-pack-5.json](./317957-naruto-x-boruto-ultimate-ninja-storm-connections-dlc-pack-5.json) |
 | Naruto x Boruto: Ultimate Ninja Storm Connections - Ultimate Edition | 268549 | [268549-naruto-x-boruto-ultimate-ninja-storm-connections-ultimate-edition.json](./268549-naruto-x-boruto-ultimate-ninja-storm-connections-ultimate-edition.json) |
+| Naruto: Gekitou Ninja Taisen! 4 | 75837 | [75837-naruto-gekitou-ninja-taisen-4.json](./75837-naruto-gekitou-ninja-taisen-4.json) |
 | Naruto: Konoha Ninpouchou | 37358 | [37358-naruto-konoha-ninpouchou.json](./37358-naruto-konoha-ninpouchou.json) |
 | Naruto: Konoha Senki | 75842 | [75842-naruto-konoha-senki.json](./75842-naruto-konoha-senki.json) |
 | Naruto: Ninja Cards | 388751 | [388751-naruto-ninja-cards.json](./388751-naruto-ninja-cards.json) |
@@ -1004,6 +1006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekopara Vol. 0 | 26654 | [26654-nekopara-vol-0.json](./26654-nekopara-vol-0.json) |
 | Nekopara Vol. 1 | 26653 | [26653-nekopara-vol-1.json](./26653-nekopara-vol-1.json) |
 | Nekopara Vol. 3 | 29271 | [29271-nekopara-vol-3.json](./29271-nekopara-vol-3.json) |
+| Nekopara Vol. 4 | 35254 | [35254-nekopara-vol-4.json](./35254-nekopara-vol-4.json) |
 | Nekopter | 156018 | [156018-nekopter.json](./156018-nekopter.json) |
 | Nekoroid | 152144 | [152144-nekoroid.json](./152144-nekoroid.json) |
 | Nekowater | 274034 | [274034-nekowater.json](./274034-nekowater.json) |
@@ -1265,6 +1268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nepenthe | 100600 | [100600-nepenthe.json](./100600-nepenthe.json) |
 | Nephelem: A Path of Vice and Virtue | 342653 | [342653-nephelem-a-path-of-vice-and-virtue.json](./342653-nephelem-a-path-of-vice-and-virtue.json) |
 | Nephilim | 270973 | [270973-nephilim.json](./270973-nephilim.json) |
+| Nephise Begins | 36469 | [36469-nephise-begins.json](./36469-nephise-begins.json) |
 | Nephise: Ascension | 88057 | [88057-nephise-ascension.json](./88057-nephise-ascension.json) |
 | Neptune Island | 319796 | [319796-neptune-island.json](./319796-neptune-island.json) |
 | Neptune Spear | 371424 | [371424-neptune-spear.json](./371424-neptune-spear.json) |
@@ -2806,6 +2810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No: Worse | 215625 | [215625-no-worse.json](./215625-no-worse.json) |
 | No.13 Shelter | 231853 | [231853-no-13-shelter.json](./231853-no-13-shelter.json) |
 | No1Left | 34283 | [34283-no1left.json](./34283-no1left.json) |
+| No70: Eye of Basir | 35238 | [35238-no70-eye-of-basir.json](./35238-no70-eye-of-basir.json) |
 | Noa Noa! | 115029 | [115029-noa-noa.json](./115029-noa-noa.json) |
 | Noa's Project | 212836 | [212836-noas-project.json](./212836-noas-project.json) |
 | Noah | 130260 | [130260-noah.json](./130260-noah.json) |
