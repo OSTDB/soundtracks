@@ -1398,6 +1398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Crumble | 235306 | [235306-castle-crumble.json](./235306-castle-crumble.json) |
 | Castle Defender | 273909 | [273909-castle-defender.json](./273909-castle-defender.json) |
 | Castle Defense | 182852 | [182852-castle-defense.json](./182852-castle-defense.json) |
+| Castle Demolition VR | 55260 | [55260-castle-demolition-vr.json](./55260-castle-demolition-vr.json) |
 | Castle Dice | 200035 | [200035-castle-dice.json](./200035-castle-dice.json) |
 | Castle Elsinore | 146106 | [146106-castle-elsinore.json](./146106-castle-elsinore.json) |
 | Castle Evalon | 323931 | [323931-castle-evalon.json](./323931-castle-evalon.json) |
@@ -1911,6 +1912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats in Hell | 201768 | [201768-cats-in-hell.json](./201768-cats-in-hell.json) |
 | Cats Kill Zombies | 225183 | [225183-cats-kill-zombies.json](./225183-cats-kill-zombies.json) |
 | Cats Logic | 334092 | [334092-cats-logic.json](./334092-cats-logic.json) |
+| Cats Lover | 55281 | [55281-cats-lover.json](./55281-cats-lover.json) |
 | Cats n Wires | 177476 | [177476-cats-n-wires.json](./177476-cats-n-wires.json) |
 | Cats of the Song Dynasty | 315299 | [315299-cats-of-the-song-dynasty.json](./315299-cats-of-the-song-dynasty.json) |
 | Cats on Duty | 257903 | [257903-cats-on-duty.json](./257903-cats-on-duty.json) |
@@ -2147,6 +2149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestial-World 2.0 | 130805 | [130805-celestial-world-2-0.json](./130805-celestial-world-2-0.json) |
 | Celestian Tales: Old North | 17693 | [17693-celestian-tales-old-north.json](./17693-celestian-tales-old-north.json) |
 | Celestian Tales: Old North - Howl of the Ravager | 124779 | [124779-celestian-tales-old-north-howl-of-the-ravager.json](./124779-celestian-tales-old-north-howl-of-the-ravager.json) |
+| Celestian Tales: Realms Beyond | 55252 | [55252-celestian-tales-realms-beyond.json](./55252-celestian-tales-realms-beyond.json) |
 | Celestio 64 | 257399 | [257399-celestio-64.json](./257399-celestio-64.json) |
 | CELL 0: Cyber Entertainment Leisure Lounge | 326756 | [326756-cell-0-cyber-entertainment-leisure-lounge.json](./326756-cell-0-cyber-entertainment-leisure-lounge.json) |
 | Cell Bound | 254495 | [254495-cell-bound.json](./254495-cell-bound.json) |
@@ -3175,6 +3178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Tycoon | 247457 | [247457-chinese-tycoon.json](./247457-chinese-tycoon.json) |
 | Chineze | 96712 | [96712-chineze.json](./96712-chineze.json) |
 | Chinmoku no Kantai | 299821 | [299821-chinmoku-no-kantai.json](./299821-chinmoku-no-kantai.json) |
+| Chinomikon | 55269 | [55269-chinomikon.json](./55269-chinomikon.json) |
 | Chip Beat Blaster | 232145 | [232145-chip-beat-blaster.json](./232145-chip-beat-blaster.json) |
 | Chip Buster | 13703 | [13703-chip-buster.json](./13703-chip-buster.json) |
 | Chip McCallahan in Sonic the Hedgehog 2 | 323860 | [323860-chip-mccallahan-in-sonic-the-hedgehog-2.json](./323860-chip-mccallahan-in-sonic-the-hedgehog-2.json) |
@@ -7122,6 +7126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Cursed Grandma's House | 272393 | [272393-crazy-cursed-grandmas-house.json](./272393-crazy-cursed-grandmas-house.json) |
 | Crazy Dessert Maker | 98928 | [98928-crazy-dessert-maker.json](./98928-crazy-dessert-maker.json) |
 | Crazy Dreamz: Best Of | 90076 | [90076-crazy-dreamz-best-of.json](./90076-crazy-dreamz-best-of.json) |
+| Crazy Dreamz: MagiCats Edition | 55255 | [55255-crazy-dreamz-magicats-edition.json](./55255-crazy-dreamz-magicats-edition.json) |
 | Crazy Driller | 175259 | [175259-crazy-driller.json](./175259-crazy-driller.json) |
 | Crazy Economy Craft | 71047 | [71047-crazy-economy-craft.json](./71047-crazy-economy-craft.json) |
 | Crazy Eights | 70353 | [70353-crazy-eights.json](./70353-crazy-eights.json) |
@@ -7907,6 +7912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusty Demons | 20537 | [20537-crusty-demons.json](./20537-crusty-demons.json) |
 | Crux: The Great Outdoors | 200161 | [200161-crux-the-great-outdoors.json](./200161-crux-the-great-outdoors.json) |
 | Cruxade | 212246 | [212246-cruxade.json](./212246-cruxade.json) |
+| Cruz Brothers | 55293 | [55293-cruz-brothers.json](./55293-cruz-brothers.json) |
 | Cruzcredo: Become a Legend! | 332272 | [332272-cruzcredo-become-a-legend.json](./332272-cruzcredo-become-a-legend.json) |
 | CRW : Metal Jacket | 127833 | [127833-crw-metal-jacket.json](./127833-crw-metal-jacket.json) |
 | CRW: Counter Revolution War | 61554 | [61554-crw-counter-revolution-war.json](./61554-crw-counter-revolution-war.json) |
@@ -7918,6 +7924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crying Aseimei Sendou | 45540 | [45540-crying-aseimei-sendou.json](./45540-crying-aseimei-sendou.json) |
 | Crying Pony | 245950 | [245950-crying-pony.json](./245950-crying-pony.json) |
 | Cryken Part4 | 351226 | [351226-cryken-part4.json](./351226-cryken-part4.json) |
+| Cryline | 55271 | [55271-cryline.json](./55271-cryline.json) |
 | Crymachina | 240141 | [240141-crymachina.json](./240141-crymachina.json) |
 | Crymachina: Standard Uniform Set | 312116 | [312116-crymachina-standard-uniform-set.json](./312116-crymachina-standard-uniform-set.json) |
 | Crymachina: Trinity Set | 312115 | [312115-crymachina-trinity-set.json](./312115-crymachina-trinity-set.json) |
