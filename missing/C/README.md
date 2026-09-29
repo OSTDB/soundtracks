@@ -6165,6 +6165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cool 104 Joker & Setline | 269623 | [269623-cool-104-joker-and-setline.json](./269623-cool-104-joker-and-setline.json) |
 | Cool Boarders Arcade Jam | 39831 | [39831-cool-boarders-arcade-jam.json](./39831-cool-boarders-arcade-jam.json) |
 | Cool Brick Breaker | 235239 | [235239-cool-brick-breaker.json](./235239-cool-brick-breaker.json) |
+| Cool Bricks | 50032 | [50032-cool-bricks.json](./50032-cool-bricks.json) |
 | Cool Carkour! | 97708 | [97708-cool-carkour.json](./97708-cool-carkour.json) |
 | Cool Cats | 174909 | [174909-cool-cats.json](./174909-cool-cats.json) |
 | Cool Cool Jam | 43967 | [43967-cool-cool-jam.json](./43967-cool-cool-jam.json) |
