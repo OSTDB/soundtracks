@@ -395,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yooperlite | 338214 | [338214-yooperlite.json](./338214-yooperlite.json) |
 | Yoostar | 62439 | [62439-yoostar.json](./62439-yoostar.json) |
 | Yoostar 2: In the Movies | 20164 | [20164-yoostar-2-in-the-movies.json](./20164-yoostar-2-in-the-movies.json) |
+| Yoot Tower | 7520 | [7520-yoot-tower.json](./7520-yoot-tower.json) |
 | Yopaz Icestar | 330267 | [330267-yopaz-icestar.json](./330267-yopaz-icestar.json) |
 | Yora Adventures | 141103 | [141103-yora-adventures.json](./141103-yora-adventures.json) |
 | Yore VR | 26140 | [26140-yore-vr.json](./26140-yore-vr.json) |
