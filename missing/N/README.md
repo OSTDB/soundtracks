@@ -640,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA 2K3 | 4030 | [4030-nba-2k3.json](./4030-nba-2k3.json) |
 | NBA 2K6 | 257114 | [257114-nba-2k6.json](./257114-nba-2k6.json) |
 | NBA 2K7 | 8836 | [8836-nba-2k7.json](./8836-nba-2k7.json) |
+| NBA 2K8 | 8837 | [8837-nba-2k8.json](./8837-nba-2k8.json) |
 | NBA 2KVR Experience | 25907 | [25907-nba-2kvr-experience.json](./25907-nba-2kvr-experience.json) |
 | NBA 3 on 3 Featuring Kobe Bryant | 49904 | [49904-nba-3-on-3-featuring-kobe-bryant.json](./49904-nba-3-on-3-featuring-kobe-bryant.json) |
 | NBA Action | 58315 | [58315-nba-action.json](./58315-nba-action.json) |
@@ -1734,6 +1735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nezumi Man | 276480 | [276480-nezumi-man.json](./276480-nezumi-man.json) |
 | NFL '95 | 127140 | [127140-nfl-95.json](./127140-nfl-95.json) |
 | NFL 2 Minute Drill | 130949 | [130949-nfl-2-minute-drill.json](./130949-nfl-2-minute-drill.json) |
+| NFL 2K1 | 8843 | [8843-nfl-2k1.json](./8843-nfl-2k1.json) |
 | NFL Blitz | 19807 | [19807-nfl-blitz.json](./19807-nfl-blitz.json) |
 | NFL Blitz | 249135 | [249135-nfl-blitz.json](./249135-nfl-blitz.json) |
 | NFL Blitz 2000 | 249126 | [249126-nfl-blitz-2000.json](./249126-nfl-blitz-2000.json) |
