@@ -1835,6 +1835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When the Shutter Stops | 109713 | [109713-when-the-shutter-stops.json](./109713-when-the-shutter-stops.json) |
 | When The Snow is Gone | 383352 | [383352-when-the-snow-is-gone.json](./383352-when-the-snow-is-gone.json) |
 | When The World Became Black | 298134 | [298134-when-the-world-became-black.json](./298134-when-the-world-became-black.json) |
+| When Vikings Attack! | 9123 | [9123-when-vikings-attack.json](./9123-when-vikings-attack.json) |
 | When Wardens Fall | 99023 | [99023-when-wardens-fall.json](./99023-when-wardens-fall.json) |
 | When We Arrive | 390795 | [390795-when-we-arrive.json](./390795-when-we-arrive.json) |
 | When We Lost | 215650 | [215650-when-we-lost.json](./215650-when-we-lost.json) |
