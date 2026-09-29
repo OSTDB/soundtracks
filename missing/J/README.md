@@ -393,6 +393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jawed | 408909 | [408909-jawed.json](./408909-jawed.json) |
 | Jawless Fishtank | 348440 | [348440-jawless-fishtank.json](./348440-jawless-fishtank.json) |
 | Jaws | 346093 | [346093-jaws.json](./346093-jaws.json) |
+| Jaws | 68385 | [68385-jaws.json](./68385-jaws.json) |
 | Jaws & Claws | 189070 | [189070-jaws-and-claws.json](./189070-jaws-and-claws.json) |
 | Jaws of Hell | 349322 | [349322-jaws-of-hell.json](./349322-jaws-of-hell.json) |
 | Jaws Unleashed | 2632 | [2632-jaws-unleashed.json](./2632-jaws-unleashed.json) |
