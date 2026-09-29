@@ -1442,6 +1442,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome Kokuri-san | 241976 | [241976-welcome-kokuri-san.json](./241976-welcome-kokuri-san.json) |
 | Welcome Teacher | 266798 | [266798-welcome-teacher.json](./266798-welcome-teacher.json) |
 | Welcome to a Sexy, Open World! | 194551 | [194551-welcome-to-a-sexy-open-world.json](./194551-welcome-to-a-sexy-open-world.json) |
+| Welcome to Amsoft Side A | 39128 | [39128-welcome-to-amsoft-side-a.json](./39128-welcome-to-amsoft-side-a.json) |
+| Welcome to Amsoft Side B | 39129 | [39129-welcome-to-amsoft-side-b.json](./39129-welcome-to-amsoft-side-b.json) |
 | Welcome to Bunny Farm | 338385 | [338385-welcome-to-bunny-farm.json](./338385-welcome-to-bunny-farm.json) |
 | Welcome To Chichester OVN 3: The Mysterious Affair at the Violet Hotel | 132264 | [132264-welcome-to-chichester-ovn-3-the-mysterious-affair-at-the-violet-hotel.json](./132264-welcome-to-chichester-ovn-3-the-mysterious-affair-at-the-violet-hotel.json) |
 | Welcome to Chornobayivka VR | 211275 | [211275-welcome-to-chornobayivka-vr.json](./211275-welcome-to-chornobayivka-vr.json) |
