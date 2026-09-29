@@ -668,6 +668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Beat | 52549 | [52549-magical-beat.json](./52549-magical-beat.json) |
 | Magical Blaster | 151741 | [151741-magical-blaster.json](./151741-magical-blaster.json) |
 | Magical Boco | 313464 | [313464-magical-boco.json](./313464-magical-boco.json) |
+| Magical Brickout | 25071 | [25071-magical-brickout.json](./25071-magical-brickout.json) |
 | Magical Broom eXtreme | 83616 | [83616-magical-broom-extreme.json](./83616-magical-broom-extreme.json) |
 | Magical Cat Adventure | 39545 | [39545-magical-cat-adventure.json](./39545-magical-cat-adventure.json) |
 | Magical Charming! | 410465 | [410465-magical-charming.json](./410465-magical-charming.json) |
@@ -6487,6 +6488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moira | 182523 | [182523-moira.json](./182523-moira.json) |
 | Möira | 18289 | [18289-moira.json](./18289-moira.json) |
 | Moira: Fated Twins | 121459 | [121459-moira-fated-twins.json](./121459-moira-fated-twins.json) |
+| Mojib-Ribbon | 25097 | [25097-mojib-ribbon.json](./25097-mojib-ribbon.json) |
 | Mójiè Qíbīng | 268440 | [268440-mojie-qibing.json](./268440-mojie-qibing.json) |
 | Mojito the Cat: Animals Skins | 298336 | [298336-mojito-the-cat-animals-skins.json](./298336-mojito-the-cat-animals-skins.json) |
 | Mojito the Cat: Christmas Skins | 309642 | [309642-mojito-the-cat-christmas-skins.json](./309642-mojito-the-cat-christmas-skins.json) |
