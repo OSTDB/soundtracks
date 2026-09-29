@@ -2311,6 +2311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XV: Pocket Edition HD | 108156 | [108156-final-fantasy-xv-pocket-edition-hd.json](./108156-final-fantasy-xv-pocket-edition-hd.json) |
 | Final Fantasy XV: Royal Edition | 80877 | [80877-final-fantasy-xv-royal-edition.json](./80877-final-fantasy-xv-royal-edition.json) |
 | Final Fantasy XV: Special Edition | 205260 | [205260-final-fantasy-xv-special-edition.json](./205260-final-fantasy-xv-special-edition.json) |
+| Final Fantasy XV: Windows Edition | 55034 | [55034-final-fantasy-xv-windows-edition.json](./55034-final-fantasy-xv-windows-edition.json) |
 | Final Fantasy XVI Expansion Pass | 279665 | [279665-final-fantasy-xvi-expansion-pass.json](./279665-final-fantasy-xvi-expansion-pass.json) |
 | Final Fantasy XVI: Complete Edition | 318557 | [318557-final-fantasy-xvi-complete-edition.json](./318557-final-fantasy-xvi-complete-edition.json) |
 | Final Fantasy XVI: Deluxe Edition | 228738 | [228738-final-fantasy-xvi-deluxe-edition.json](./228738-final-fantasy-xvi-deluxe-edition.json) |
@@ -5012,6 +5013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frame Out | 98051 | [98051-frame-out.json](./98051-frame-out.json) |
 | Frame Zero | 372090 | [372090-frame-zero.json](./372090-frame-zero.json) |
 | Frame: Portals on Steroids | 203311 | [203311-frame-portals-on-steroids.json](./203311-frame-portals-on-steroids.json) |
+| Framed | 11730 | [11730-framed.json](./11730-framed.json) |
 | Framed | 131508 | [131508-framed.json](./131508-framed.json) |
 | Framed | 229778 | [229778-framed.json](./229778-framed.json) |
 | Framed Fear | 340953 | [340953-framed-fear.json](./340953-framed-fear.json) |
