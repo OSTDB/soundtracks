@@ -1933,6 +1933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Benny - Horror Machine | 106379 | [106379-hello-benny-horror-machine.json](./106379-hello-benny-horror-machine.json) |
 | Hello Brain | 96717 | [96717-hello-brain.json](./96717-hello-brain.json) |
 | Hello Charlotte Ep.1: Junk Food, Gods and Teddy Bears | 30480 | [30480-hello-charlotte-ep-1-junk-food-gods-and-teddy-bears.json](./30480-hello-charlotte-ep-1-junk-food-gods-and-teddy-bears.json) |
+| Hello Charlotte Ep.2: Requiem Aeternam Deo | 135360 | [135360-hello-charlotte-ep-2-requiem-aeternam-deo.json](./135360-hello-charlotte-ep-2-requiem-aeternam-deo.json) |
 | Hello Charlotte: Heaven's Gate | 144382 | [144382-hello-charlotte-heavens-gate.json](./144382-hello-charlotte-heavens-gate.json) |
 | Hello Charlotte: Heaven's Gate | 405724 | [405724-hello-charlotte-heavens-gate.json](./405724-hello-charlotte-heavens-gate.json) |
 | Hello Color | 63932 | [63932-hello-color.json](./63932-hello-color.json) |
@@ -2929,6 +2930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hey Duggee: The Big Outdoor App | 88308 | [88308-hey-duggee-the-big-outdoor-app.json](./88308-hey-duggee-the-big-outdoor-app.json) |
 | Hey Ma I'm a Dragon Now | 279586 | [279586-hey-ma-im-a-dragon-now.json](./279586-hey-ma-im-a-dragon-now.json) |
 | Hey Stranger! I Dare You to Love Me! | 212201 | [212201-hey-stranger-i-dare-you-to-love-me.json](./212201-hey-stranger-i-dare-you-to-love-me.json) |
+| Hey You, Pikachu! | 2642 | [2642-hey-you-pikachu.json](./2642-hey-you-pikachu.json) |
 | Hey You, Pikachu! Demake | 413223 | [413223-hey-you-pikachu-demake.json](./413223-hey-you-pikachu-demake.json) |
 | Hey, Don't Look at Me | 416644 | [416644-hey-dont-look-at-me.json](./416644-hey-dont-look-at-me.json) |
 | Hey, Man!: Born in the Electric | 273968 | [273968-hey-man-born-in-the-electric.json](./273968-hey-man-born-in-the-electric.json) |
