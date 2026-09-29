@@ -3019,6 +3019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blueness of a Wound | 129062 | [129062-the-blueness-of-a-wound.json](./129062-the-blueness-of-a-wound.json) |
 | The Board is Yours | 384227 | [384227-the-board-is-yours.json](./384227-the-board-is-yours.json) |
 | The Body Cam Project | 320376 | [320376-the-body-cam-project.json](./320376-the-body-cam-project.json) |
+| The Body Changer | 36203 | [36203-the-body-changer.json](./36203-the-body-changer.json) |
 | The Body Monstrous | 176502 | [176502-the-body-monstrous.json](./176502-the-body-monstrous.json) |
 | The Body Transparent | 362430 | [362430-the-body-transparent.json](./362430-the-body-transparent.json) |
 | The Bog's Heart | 176963 | [176963-the-bogs-heart.json](./176963-the-bogs-heart.json) |
@@ -4331,6 +4332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fog Fall 2 | 386221 | [386221-the-fog-fall-2.json](./386221-the-fog-fall-2.json) |
 | The FOO Show | 34193 | [34193-the-foo-show.json](./34193-the-foo-show.json) |
 | The Fool | 302676 | [302676-the-fool.json](./302676-the-fool.json) |
+| The Fool | 36130 | [36130-the-fool.json](./36130-the-fool.json) |
 | The Fool's Errand | 12107 | [12107-the-fools-errand.json](./12107-the-fools-errand.json) |
 | The Football A | 216356 | [216356-the-football-a.json](./216356-the-football-a.json) |
 | The Football Playbook: Tactical Puzzles | 197247 | [197247-the-football-playbook-tactical-puzzles.json](./197247-the-football-playbook-tactical-puzzles.json) |
@@ -5294,6 +5296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Land Forgotten | 381730 | [381730-the-land-forgotten.json](./381730-the-land-forgotten.json) |
 | The Land of Alembrume | 204983 | [204983-the-land-of-alembrume.json](./204983-the-land-of-alembrume.json) |
 | The Land of Dasthir | 30898 | [30898-the-land-of-dasthir.json](./30898-the-land-of-dasthir.json) |
+| The Land of Eyas | 36301 | [36301-the-land-of-eyas.json](./36301-the-land-of-eyas.json) |
 | The Land of Glass | 89402 | [89402-the-land-of-glass.json](./89402-the-land-of-glass.json) |
 | The Land of Lamia | 34838 | [34838-the-land-of-lamia.json](./34838-the-land-of-lamia.json) |
 | The Land of Morning Calm | 358888 | [358888-the-land-of-morning-calm.json](./358888-the-land-of-morning-calm.json) |
@@ -9400,6 +9403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tien Len: Killer 13 | 175422 | [175422-tien-len-killer-13.json](./175422-tien-len-killer-13.json) |
 | Tier 1 | 30204 | [30204-tier-1.json](./30204-tier-1.json) |
 | Tierra: Adventure Mystery | 174306 | [174306-tierra-adventure-mystery.json](./174306-tierra-adventure-mystery.json) |
+| Tiestru | 36255 | [36255-tiestru.json](./36255-tiestru.json) |
 | Tiěxuè Gōngshā | 151615 | [151615-tiexue-gongsha.json](./151615-tiexue-gongsha.json) |
 | Tiffany Alvord Dream World | 233079 | [233079-tiffany-alvord-dream-world.json](./233079-tiffany-alvord-dream-world.json) |
 | Tiger & Bunny: Hero's Day | 63842 | [63842-tiger-and-bunny-heros-day.json](./63842-tiger-and-bunny-heros-day.json) |
@@ -13758,6 +13762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tribes Warfare | 188051 | [188051-tribes-warfare.json](./188051-tribes-warfare.json) |
 | Tribes: Vengeance | 923 | [923-tribes-vengeance.json](./923-tribes-vengeance.json) |
 | Tribio puzzle: Strategic Spot | 253022 | [253022-tribio-puzzle-strategic-spot.json](./253022-tribio-puzzle-strategic-spot.json) |
+| TriBlaster | 36274 | [36274-triblaster.json](./36274-triblaster.json) |
 | Triblock | 158032 | [158032-triblock.json](./158032-triblock.json) |
 | Tribloos | 129634 | [129634-tribloos.json](./129634-tribloos.json) |
 | Tribloos 3 | 104685 | [104685-tribloos-3.json](./104685-tribloos-3.json) |
