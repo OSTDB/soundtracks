@@ -1283,7 +1283,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Judies | 125363 | [125363-judies.json](./125363-judies.json) |
 | Jug | 67670 | [67670-jug.json](./67670-jug.json) |
 | Juggernaut | 341138 | [341138-juggernaut.json](./341138-juggernaut.json) |
+| Juggernaut Champions | 56573 | [56573-juggernaut-champions.json](./56573-juggernaut-champions.json) |
 | Juggernaut Corps: First Assault | 62280 | [62280-juggernaut-corps-first-assault.json](./62280-juggernaut-corps-first-assault.json) |
+| Juggernaut Wars: Arena Heroes | 56575 | [56575-juggernaut-wars-arena-heroes.json](./56575-juggernaut-wars-arena-heroes.json) |
+| Juggernaut: Revenge of Sovering | 56574 | [56574-juggernaut-revenge-of-sovering.json](./56574-juggernaut-revenge-of-sovering.json) |
 | Juggernauts | 114503 | [114503-juggernauts.json](./114503-juggernauts.json) |
 | Juggle | 246463 | [246463-juggle.json](./246463-juggle.json) |
 | Juggle Panic | 105546 | [105546-juggle-panic.json](./105546-juggle-panic.json) |
@@ -1527,6 +1530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Crash Land | 66151 | [66151-jungle-crash-land.json](./66151-jungle-crash-land.json) |
 | Jungle Drummer | 305139 | [305139-jungle-drummer.json](./305139-jungle-drummer.json) |
 | Jungle Guardians | 112720 | [112720-jungle-guardians.json](./112720-jungle-guardians.json) |
+| Jungle Heat: War of Clans | 56576 | [56576-jungle-heat-war-of-clans.json](./56576-jungle-heat-war-of-clans.json) |
 | Jungle Hunt | 282065 | [282065-jungle-hunt.json](./282065-jungle-hunt.json) |
 | Jungle Jammy | 242565 | [242565-jungle-jammy.json](./242565-jungle-jammy.json) |
 | Jungle Jim | 340781 | [340781-jungle-jim.json](./340781-jungle-jim.json) |
