@@ -1134,6 +1134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Hotel: Personal Nightmare - Collector's Edition | 232925 | [232925-haunted-hotel-personal-nightmare-collectors-edition.json](./232925-haunted-hotel-personal-nightmare-collectors-edition.json) |
 | Haunted Hotel: Phoenix | 99994 | [99994-haunted-hotel-phoenix.json](./99994-haunted-hotel-phoenix.json) |
 | Haunted Hotel: Phoenix - Collector's Edition | 151191 | [151191-haunted-hotel-phoenix-collectors-edition.json](./151191-haunted-hotel-phoenix-collectors-edition.json) |
+| Haunted Hotel: The X | 57725 | [57725-haunted-hotel-the-x.json](./57725-haunted-hotel-the-x.json) |
 | Haunted Hour | 200120 | [200120-haunted-hour.json](./200120-haunted-hour.json) |
 | Haunted House | 25196 | [25196-haunted-house.json](./25196-haunted-house.json) |
 | Haunted House | 258483 | [258483-haunted-house.json](./258483-haunted-house.json) |
@@ -1529,6 +1530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heathen | 401473 | [401473-heathen.json](./401473-heathen.json) |
 | Heathkit DND | 2881 | [2881-heathkit-dnd.json](./2881-heathkit-dnd.json) |
 | Heathrow International Air Traffic Control | 133440 | [133440-heathrow-international-air-traffic-control.json](./133440-heathrow-international-air-traffic-control.json) |
+| Heatos | 57748 | [57748-heatos.json](./57748-heatos.json) |
 | Heatseeker | 37152 | [37152-heatseeker.json](./37152-heatseeker.json) |
 | HeatStroke | 194629 | [194629-heatstroke.json](./194629-heatstroke.json) |
 | Heatwave | 169894 | [169894-heatwave.json](./169894-heatwave.json) |
@@ -2786,6 +2788,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexarium | 266818 | [266818-hexarium.json](./266818-hexarium.json) |
 | Hexaroma: Village Builder | 319598 | [319598-hexaroma-village-builder.json](./319598-hexaroma-village-builder.json) |
 | HexaScape: Cyber Defense | 298662 | [298662-hexascape-cyber-defense.json](./298662-hexascape-cyber-defense.json) |
+| Hexasmash | 57731 | [57731-hexasmash.json](./57731-hexasmash.json) |
+| Hexasmash 2 | 57728 | [57728-hexasmash-2.json](./57728-hexasmash-2.json) |
 | HexaTerra | 320564 | [320564-hexaterra.json](./320564-hexaterra.json) |
 | Hexavale | 360063 | [360063-hexavale.json](./360063-hexavale.json) |
 | Hexaverse Adventures | 249252 | [249252-hexaverse-adventures.json](./249252-hexaverse-adventures.json) |
@@ -5073,6 +5077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hues of the Void | 275728 | [275728-hues-of-the-void.json](./275728-hues-of-the-void.json) |
 | Hues: Moon Sea | 289854 | [289854-hues-moon-sea.json](./289854-hues-moon-sea.json) |
 | Hues: Sunset Valley | 296519 | [296519-hues-sunset-valley.json](./296519-hues-sunset-valley.json) |
+| Huetopia | 57756 | [57756-huetopia.json](./57756-huetopia.json) |
 | Hufu Riding and Shooting | 253430 | [253430-hufu-riding-and-shooting.json](./253430-hufu-riding-and-shooting.json) |
 | Hug & Betray | 416851 | [416851-hug-and-betray.json](./416851-hug-and-betray.json) |
 | Hug Me, Senpai! | 368519 | [368519-hug-me-senpai.json](./368519-hug-me-senpai.json) |
@@ -5507,6 +5512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Scuffle | 114338 | [114338-hyper-scuffle.json](./114338-hyper-scuffle.json) |
 | Hyper Shapes | 232443 | [232443-hyper-shapes.json](./232443-hyper-shapes.json) |
 | Hyper Simon X | 103438 | [103438-hyper-simon-x.json](./103438-hyper-simon-x.json) |
+| Hyper Skate | 57755 | [57755-hyper-skate.json](./57755-hyper-skate.json) |
 | Hyper Skater | 303552 | [303552-hyper-skater.json](./303552-hyper-skater.json) |
 | Hyper Ski | 385739 | [385739-hyper-ski.json](./385739-hyper-ski.json) |
 | Hyper Sports | 6115 | [6115-hyper-sports.json](./6115-hyper-sports.json) |
