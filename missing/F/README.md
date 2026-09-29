@@ -1369,6 +1369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Food Rage | 386700 | [386700-fast-food-rage.json](./386700-fast-food-rage.json) |
 | Fast Food Rampage | 96680 | [96680-fast-food-rampage.json](./96680-fast-food-rampage.json) |
 | Fast Food Shop Online | 212225 | [212225-fast-food-shop-online.json](./212225-fast-food-shop-online.json) |
+| Fast Food Tycoon | 8912 | [8912-fast-food-tycoon.json](./8912-fast-food-tycoon.json) |
 | Fast Food Tycoon Simulator | 353959 | [353959-fast-food-tycoon-simulator.json](./353959-fast-food-tycoon-simulator.json) |
 | Fast Fox | 152198 | [152198-fast-fox.json](./152198-fast-fox.json) |
 | Fast Freddie | 46795 | [46795-fast-freddie.json](./46795-fast-freddie.json) |
