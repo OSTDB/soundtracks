@@ -5405,6 +5405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter X: Begin | 171067 | [171067-hunter-x-begin.json](./171067-hunter-x-begin.json) |
 | Hunter: Avendzer Dragon | 145646 | [145646-hunter-avendzer-dragon.json](./145646-hunter-avendzer-dragon.json) |
 | Hunter: The Reckoning - Day for Night | 408918 | [408918-hunter-the-reckoning-day-for-night.json](./408918-hunter-the-reckoning-day-for-night.json) |
+| Hunter: The Reckoning - Redeemer | 5865 | [5865-hunter-the-reckoning-redeemer.json](./5865-hunter-the-reckoning-redeemer.json) |
 | Hunter: The Reckoning - The Beast of Glenkildove | 250960 | [250960-hunter-the-reckoning-the-beast-of-glenkildove.json](./250960-hunter-the-reckoning-the-beast-of-glenkildove.json) |
 | Hunter's Arena: Legends | 119137 | [119137-hunters-arena-legends.json](./119137-hunters-arena-legends.json) |
 | Hunter's Arena: Revolution | 367978 | [367978-hunters-arena-revolution.json](./367978-hunters-arena-revolution.json) |
