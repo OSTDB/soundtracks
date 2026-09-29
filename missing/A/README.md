@@ -4358,6 +4358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 1800: The Passage | 121765 | [121765-anno-1800-the-passage.json](./121765-anno-1800-the-passage.json) |
 | Anno 1800: Tourist Season | 151204 | [151204-anno-1800-tourist-season.json](./151204-anno-1800-tourist-season.json) |
 | Anno 2070: Bonus Edition | 180261 | [180261-anno-2070-bonus-edition.json](./180261-anno-2070-bonus-edition.json) |
+| Anno 2070: Deep Ocean | 8228 | [8228-anno-2070-deep-ocean.json](./8228-anno-2070-deep-ocean.json) |
 | Anno 2070: Royal Edition | 180263 | [180263-anno-2070-royal-edition.json](./180263-anno-2070-royal-edition.json) |
 | Anno 2070: The Crisis Response Package | 335463 | [335463-anno-2070-the-crisis-response-package.json](./335463-anno-2070-the-crisis-response-package.json) |
 | Anno 2070: The Distrust Series Package | 335462 | [335462-anno-2070-the-distrust-series-package.json](./335462-anno-2070-the-distrust-series-package.json) |
@@ -7127,6 +7128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Owl | 283949 | [283949-atomic-owl.json](./283949-atomic-owl.json) |
 | Atomic Point | 39619 | [39619-atomic-point.json](./39619-atomic-point.json) |
 | Atomic Protector | 15607 | [15607-atomic-protector.json](./15607-atomic-protector.json) |
+| Atomic Punk | 7760 | [7760-atomic-punk.json](./7760-atomic-punk.json) |
 | Atomic Pursuit | 234069 | [234069-atomic-pursuit.json](./234069-atomic-pursuit.json) |
 | Atomic Robo-Kid | 11921 | [11921-atomic-robo-kid.json](./11921-atomic-robo-kid.json) |
 | Atomic Rock Paper Scissors | 180830 | [180830-atomic-rock-paper-scissors.json](./180830-atomic-rock-paper-scissors.json) |
@@ -7189,6 +7191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack of the Gooobers | 50545 | [50545-attack-of-the-gooobers.json](./50545-attack-of-the-gooobers.json) |
 | Attack of the Killer Beast | 234710 | [234710-attack-of-the-killer-beast.json](./234710-attack-of-the-killer-beast.json) |
 | Attack of the Killer Tomatoes | 273079 | [273079-attack-of-the-killer-tomatoes.json](./273079-attack-of-the-killer-tomatoes.json) |
+| Attack of the Killer Tomatoes | 7761 | [7761-attack-of-the-killer-tomatoes.json](./7761-attack-of-the-killer-tomatoes.json) |
 | Attack of the Mutant Camels '89 | 318633 | [318633-attack-of-the-mutant-camels-89.json](./318633-attack-of-the-mutant-camels-89.json) |
 | Attack of the Mutant Penguins | 40819 | [40819-attack-of-the-mutant-penguins.json](./40819-attack-of-the-mutant-penguins.json) |
 | Attack of the Petscii Robots | 159163 | [159163-attack-of-the-petscii-robots.json](./159163-attack-of-the-petscii-robots.json) |
