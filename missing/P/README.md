@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man World 2 Re-Pac | 358530 | [358530-pac-man-world-2-re-pac.json](./358530-pac-man-world-2-re-pac.json) |
 | Pac-Man World 3 | 4064 | [4064-pac-man-world-3.json](./4064-pac-man-world-3.json) |
 | Pac-Man World Re-Pac | 206811 | [206811-pac-man-world-re-pac.json](./206811-pac-man-world-re-pac.json) |
+| Pac-Man: Adventures in Time | 78239 | [78239-pac-man-adventures-in-time.json](./78239-pac-man-adventures-in-time.json) |
 | Pac-Man: Championship Edition DX | 21737 | [21737-pac-man-championship-edition-dx.json](./21737-pac-man-championship-edition-dx.json) |
 | Pac-Man: Party Royale | 122320 | [122320-pac-man-party-royale.json](./122320-pac-man-party-royale.json) |
 | Pac-Man: Ralph Breaks the Maze | 112300 | [112300-pac-man-ralph-breaks-the-maze.json](./112300-pac-man-ralph-breaks-the-maze.json) |
@@ -708,6 +709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa Needs a Headshot | 360095 | [360095-papa-needs-a-headshot.json](./360095-papa-needs-a-headshot.json) |
 | Papa Pear Saga | 18062 | [18062-papa-pear-saga.json](./18062-papa-pear-saga.json) |
 | Papa Sangre | 7698 | [7698-papa-sangre.json](./7698-papa-sangre.json) |
+| Papa's Burgeria | 77672 | [77672-papas-burgeria.json](./77672-papas-burgeria.json) |
 | Papa's Burgeria HD | 86695 | [86695-papas-burgeria-hd.json](./86695-papas-burgeria-hd.json) |
 | Papa's Burgeria to Go! | 96986 | [96986-papas-burgeria-to-go.json](./96986-papas-burgeria-to-go.json) |
 | Papa's Donutria | 143040 | [143040-papas-donutria.json](./143040-papas-donutria.json) |
@@ -3077,6 +3079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilot 6174: Orbital Survival | 386445 | [386445-pilot-6174-orbital-survival.json](./386445-pilot-6174-orbital-survival.json) |
 | Pilot Attack | 281534 | [281534-pilot-attack.json](./281534-pilot-attack.json) |
 | Pilot Brothers | 25513 | [25513-pilot-brothers.json](./25513-pilot-brothers.json) |
+| Pilot Brothers 2 | 36090 | [36090-pilot-brothers-2.json](./36090-pilot-brothers-2.json) |
 | Pilot Brothers 3D: The Case of the garden pests | 403598 | [403598-pilot-brothers-3d-the-case-of-the-garden-pests.json](./403598-pilot-brothers-3d-the-case-of-the-garden-pests.json) |
 | Pilot Kids | 39797 | [39797-pilot-kids.json](./39797-pilot-kids.json) |
 | Pilot Light | 319204 | [319204-pilot-light.json](./319204-pilot-light.json) |
@@ -4099,6 +4102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planescape: The Shaper of Dreams | 369227 | [369227-planescape-the-shaper-of-dreams.json](./369227-planescape-the-shaper-of-dreams.json) |
 | PlaneShift | 84309 | [84309-planeshift.json](./84309-planeshift.json) |
 | Planet After Us | 195613 | [195613-planet-after-us.json](./195613-planet-after-us.json) |
+| Planet Alcatraz | 36385 | [36385-planet-alcatraz.json](./36385-planet-alcatraz.json) |
 | Planet Alcatraz 2 | 34779 | [34779-planet-alcatraz-2.json](./34779-planet-alcatraz-2.json) |
 | Planet Alpha | 28070 | [28070-planet-alpha.json](./28070-planet-alpha.json) |
 | Planet Ancrya Chronicles | 105557 | [105557-planet-ancrya-chronicles.json](./105557-planet-ancrya-chronicles.json) |
