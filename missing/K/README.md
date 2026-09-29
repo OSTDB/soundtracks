@@ -1943,6 +1943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klotski Unblock | 90828 | [90828-klotski-unblock.json](./90828-klotski-unblock.json) |
 | Klotski+ | 221707 | [221707-klotski.json](./221707-klotski.json) |
 | Klung | 182533 | [182533-klung.json](./182533-klung.json) |
+| Kluno: A Kid's Dream | 26767 | [26767-kluno-a-kids-dream.json](./26767-kluno-a-kids-dream.json) |
 | Klustar | 93363 | [93363-klustar.json](./93363-klustar.json) |
 | Kly-Kly | 192942 | [192942-kly-kly.json](./192942-kly-kly.json) |
 | Kmenta | 109653 | [109653-kmenta.json](./109653-kmenta.json) |
