@@ -4792,6 +4792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silverio Vendetta: Verse of Orpheus | 113203 | [113203-silverio-vendetta-verse-of-orpheus.json](./113203-silverio-vendetta-verse-of-orpheus.json) |
 | Silverpine | 410989 | [410989-silverpine.json](./410989-silverpine.json) |
 | Silverpine Creek | 302478 | [302478-silverpine-creek.json](./302478-silverpine-creek.json) |
+| SilverQuest: Gaiden | 36161 | [36161-silverquest-gaiden.json](./36161-silverquest-gaiden.json) |
 | SilverStarChess | 147986 | [147986-silverstarchess.json](./147986-silverstarchess.json) |
 | Silverstone | 388049 | [388049-silverstone.json](./388049-silverstone.json) |
 | Silversword | 101539 | [101539-silversword.json](./101539-silversword.json) |
@@ -10826,6 +10827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Sky 3 | 109702 | [109702-star-sky-3.json](./109702-star-sky-3.json) |
 | Star Soldier | 48240 | [48240-star-soldier.json](./48240-star-soldier.json) |
 | Star Soldier vs. DoDonPachi Daioujou Caravan'06 | 365107 | [365107-star-soldier-vs-dodonpachi-daioujou-caravan06.json](./365107-star-soldier-vs-dodonpachi-daioujou-caravan06.json) |
+| Star Sonata 2 | 36276 | [36276-star-sonata-2.json](./36276-star-sonata-2.json) |
 | Star Soraight Fantasy: Magic to Reach the Sky | 343981 | [343981-star-soraight-fantasy-magic-to-reach-the-sky.json](./343981-star-soraight-fantasy-magic-to-reach-the-sky.json) |
 | Star Spectre | 217393 | [217393-star-spectre.json](./217393-star-spectre.json) |
 | Star Squadron: Student Driver | 149548 | [149548-star-squadron-student-driver.json](./149548-star-squadron-student-driver.json) |
