@@ -954,6 +954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Quest: Simple Card Game | 406084 | [406084-card-quest-simple-card-game.json](./406084-card-quest-simple-card-game.json) |
 | Card Racing Simulator: Otterrific Arcade | 217917 | [217917-card-racing-simulator-otterrific-arcade.json](./217917-card-racing-simulator-otterrific-arcade.json) |
 | Card Sharks | 392954 | [392954-card-sharks.json](./392954-card-sharks.json) |
+| Card Sharp | 42164 | [42164-card-sharp.json](./42164-card-sharp.json) |
 | Card Shop Game Store: TCG Simulator | 335957 | [335957-card-shop-game-store-tcg-simulator.json](./335957-card-shop-game-store-tcg-simulator.json) |
 | Card Shop Tycoon | 203368 | [203368-card-shop-tycoon.json](./203368-card-shop-tycoon.json) |
 | Card Shuffle Sort | 251237 | [251237-card-shuffle-sort.json](./251237-card-shuffle-sort.json) |
@@ -1422,6 +1423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Flipper | 111425 | [111425-castle-flipper.json](./111425-castle-flipper.json) |
 | Castle Formers | 154026 | [154026-castle-formers.json](./154026-castle-formers.json) |
 | Castle Grimholt | 142252 | [142252-castle-grimholt.json](./142252-castle-grimholt.json) |
+| Castle Guard | 42152 | [42152-castle-guard.json](./42152-castle-guard.json) |
 | Castle Hassle | 59452 | [59452-castle-hassle.json](./59452-castle-hassle.json) |
 | Castle Helios | 212741 | [212741-castle-helios.json](./212741-castle-helios.json) |
 | Castle Hero | 327420 | [327420-castle-hero.json](./327420-castle-hero.json) |
@@ -2993,6 +2995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Boy's Counterattack | 291488 | [291488-chicken-boys-counterattack.json](./291488-chicken-boys-counterattack.json) |
 | Chicken Chicken | 390635 | [390635-chicken-chicken.json](./390635-chicken-chicken.json) |
 | Chicken Climber | 401112 | [401112-chicken-climber.json](./401112-chicken-climber.json) |
+| Chicken Coop | 42165 | [42165-chicken-coop.json](./42165-chicken-coop.json) |
 | Chicken Coop Invaders | 388753 | [388753-chicken-coop-invaders.json](./388753-chicken-coop-invaders.json) |
 | Chicken Defender | 166616 | [166616-chicken-defender.json](./166616-chicken-defender.json) |
 | Chicken Defense | 181398 | [181398-chicken-defense.json](./181398-chicken-defense.json) |
@@ -5101,6 +5104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Ball | 279063 | [279063-color-ball.json](./279063-color-ball.json) |
 | Color Ball 2018 | 100890 | [100890-color-ball-2018.json](./100890-color-ball-2018.json) |
 | Color Balls of Goo | 108618 | [108618-color-balls-of-goo.json](./108618-color-balls-of-goo.json) |
+| Color Baseball | 42151 | [42151-color-baseball.json](./42151-color-baseball.json) |
 | Color Bikes Road Rush | 103663 | [103663-color-bikes-road-rush.json](./103663-color-bikes-road-rush.json) |
 | Color Blind: The Game | 231397 | [231397-color-blind-the-game.json](./231397-color-blind-the-game.json) |
 | Color Block Jam | 339436 | [339436-color-block-jam.json](./339436-color-block-jam.json) |
@@ -5122,6 +5126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Course | 185528 | [185528-color-course.json](./185528-color-course.json) |
 | Color Cube | 172053 | [172053-color-cube.json](./172053-color-cube.json) |
 | Color Cube Spin | 28845 | [28845-color-cube-spin.json](./28845-color-cube-spin.json) |
+| Color Cubes | 42150 | [42150-color-cubes.json](./42150-color-cubes.json) |
 | Color Dark Castle | 334678 | [334678-color-dark-castle.json](./334678-color-dark-castle.json) |
 | Color Defense | 103671 | [103671-color-defense.json](./103671-color-defense.json) |
 | Color DJ | 265418 | [265418-color-dj.json](./265418-color-dj.json) |
@@ -5670,6 +5675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computer Store Simulator | 382744 | [382744-computer-store-simulator.json](./382744-computer-store-simulator.json) |
 | Computer the Golf | 112164 | [112164-computer-the-golf.json](./112164-computer-the-golf.json) |
 | Computer Virus Simulator | 218133 | [218133-computer-virus-simulator.json](./218133-computer-virus-simulator.json) |
+| Computer War | 42162 | [42162-computer-war.json](./42162-computer-war.json) |
 | Computer Word Search | 83459 | [83459-computer-word-search.json](./83459-computer-word-search.json) |
 | Computer, Open That Door! | 181382 | [181382-computer-open-that-door.json](./181382-computer-open-that-door.json) |
 | ComputerCraft | 232659 | [232659-computercraft.json](./232659-computercraft.json) |
