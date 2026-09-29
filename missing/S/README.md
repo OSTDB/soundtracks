@@ -5537,6 +5537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skoof Fishing | 356663 | [356663-skoof-fishing.json](./356663-skoof-fishing.json) |
 | Skools Out | 338809 | [338809-skools-out.json](./338809-skools-out.json) |
 | Skoory Rush | 250463 | [250463-skoory-rush.json](./250463-skoory-rush.json) |
+| Skout | 9358 | [9358-skout.json](./9358-skout.json) |
 | Skramble | 40928 | [40928-skramble.json](./40928-skramble.json) |
 | Skronchulonch: The Game of Shooting at an Orb | 176375 | [176375-skronchulonch-the-game-of-shooting-at-an-orb.json](./176375-skronchulonch-the-game-of-shooting-at-an-orb.json) |
 | Skrunkly gets a Meal Deal | 332984 | [332984-skrunkly-gets-a-meal-deal.json](./332984-skrunkly-gets-a-meal-deal.json) |
@@ -8382,6 +8383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul of the Beast | 178617 | [178617-soul-of-the-beast.json](./178617-soul-of-the-beast.json) |
 | Soul of the Ultimate Nation | 51196 | [51196-soul-of-the-ultimate-nation.json](./51196-soul-of-the-ultimate-nation.json) |
 | Soul of War: Legions | 263992 | [263992-soul-of-war-legions.json](./263992-soul-of-war-legions.json) |
+| Soul Orb | 9650 | [9650-soul-orb.json](./9650-soul-orb.json) |
 | Soul Passage | 236542 | [236542-soul-passage.json](./236542-soul-passage.json) |
 | Soul Reaper | 128464 | [128464-soul-reaper.json](./128464-soul-reaper.json) |
 | Soul Rebellion | 108071 | [108071-soul-rebellion.json](./108071-soul-rebellion.json) |
@@ -9334,7 +9336,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spearrowblade | 383057 | [383057-spearrowblade.json](./383057-spearrowblade.json) |
 | Spebo | 259830 | [259830-spebo.json](./259830-spebo.json) |
 | Spec | 304575 | [304575-spec.json](./304575-spec.json) |
+| Spec Ops II: Green Berets | 9342 | [9342-spec-ops-ii-green-berets.json](./9342-spec-ops-ii-green-berets.json) |
+| Spec Ops II: Omega Squad | 9344 | [9344-spec-ops-ii-omega-squad.json](./9344-spec-ops-ii-omega-squad.json) |
 | Spec Ops II: Operation Bravo | 80887 | [80887-spec-ops-ii-operation-bravo.json](./80887-spec-ops-ii-operation-bravo.json) |
+| Spec Ops: Airborne Commando | 9347 | [9347-spec-ops-airborne-commando.json](./9347-spec-ops-airborne-commando.json) |
+| Spec Ops: Covert Assault | 9346 | [9346-spec-ops-covert-assault.json](./9346-spec-ops-covert-assault.json) |
+| Spec Ops: Ranger Elite | 9345 | [9345-spec-ops-ranger-elite.json](./9345-spec-ops-ranger-elite.json) |
+| Spec Ops: Ranger Team Bravo | 9341 | [9341-spec-ops-ranger-team-bravo.json](./9341-spec-ops-ranger-team-bravo.json) |
+| Spec Ops: Rangers Lead the Way | 9340 | [9340-spec-ops-rangers-lead-the-way.json](./9340-spec-ops-rangers-lead-the-way.json) |
+| Spec Ops: Stealth Patrol | 9343 | [9343-spec-ops-stealth-patrol.json](./9343-spec-ops-stealth-patrol.json) |
 | Special Agent Training | 401616 | [401616-special-agent-training.json](./401616-special-agent-training.json) |
 | Special Agent: Aigis Pink | 407446 | [407446-special-agent-aigis-pink.json](./407446-special-agent-aigis-pink.json) |
 | Special Courier | 238457 | [238457-special-courier.json](./238457-special-courier.json) |
@@ -11747,6 +11757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Force | 39670 | [39670-steel-force.json](./39670-steel-force.json) |
 | Steel Graves | 143583 | [143583-steel-graves.json](./143583-steel-graves.json) |
 | Steel Guardian | 204364 | [204364-steel-guardian.json](./204364-steel-guardian.json) |
+| Steel Harbinger | 9584 | [9584-steel-harbinger.json](./9584-steel-harbinger.json) |
 | Steel Hearts | 337703 | [337703-steel-hearts.json](./337703-steel-hearts.json) |
 | Steel Heaven | 389718 | [389718-steel-heaven.json](./389718-steel-heaven.json) |
 | Steel Horizon | 20691 | [20691-steel-horizon.json](./20691-steel-horizon.json) |
