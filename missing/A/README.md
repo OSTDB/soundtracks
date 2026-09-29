@@ -1602,6 +1602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Against the Wall | 63004 | [63004-against-the-wall.json](./63004-against-the-wall.json) |
 | Against Twilight | 349927 | [349927-against-twilight.json](./349927-against-twilight.json) |
 | Agame | 269042 | [269042-agame.json](./269042-agame.json) |
+| Agar.io | 11283 | [11283-agar-io.json](./11283-agar-io.json) |
 | Agarest Senki Mariage: Limited Edition | 64119 | [64119-agarest-senki-mariage-limited-edition.json](./64119-agarest-senki-mariage-limited-edition.json) |
 | Agartha | 145519 | [145519-agartha.json](./145519-agartha.json) |
 | Agartha Platform 81!: City of Angels | 400499 | [400499-agartha-platform-81-city-of-angels.json](./400499-agartha-platform-81-city-of-angels.json) |
@@ -2982,6 +2983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone In a Dream | 156665 | [156665-alone-in-a-dream.json](./156665-alone-in-a-dream.json) |
 | Alone In Hell | 217852 | [217852-alone-in-hell.json](./217852-alone-in-hell.json) |
 | Alone in Space | 33499 | [33499-alone-in-space.json](./33499-alone-in-space.json) |
+| Alone in the Dark | 1956 | [1956-alone-in-the-dark.json](./1956-alone-in-the-dark.json) |
 | Alone in the Dark | 287174 | [287174-alone-in-the-dark.json](./287174-alone-in-the-dark.json) |
 | Alone in the Dark | 300074 | [300074-alone-in-the-dark.json](./300074-alone-in-the-dark.json) |
 | Alone in the Dark 2 | 340383 | [340383-alone-in-the-dark-2.json](./340383-alone-in-the-dark-2.json) |
@@ -6365,6 +6367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed American History Pack | 219000 | [219000-assassins-creed-american-history-pack.json](./219000-assassins-creed-american-history-pack.json) |
 | Assassin's Creed Antiquity Pack | 164782 | [164782-assassins-creed-antiquity-pack.json](./164782-assassins-creed-antiquity-pack.json) |
 | Assassin's Creed Brotherhood: The Da Vinci Disappearance | 8216 | [8216-assassins-creed-brotherhood-the-da-vinci-disappearance.json](./8216-assassins-creed-brotherhood-the-da-vinci-disappearance.json) |
+| Assassin's Creed Chronicles: India | 14902 | [14902-assassins-creed-chronicles-india.json](./14902-assassins-creed-chronicles-india.json) |
 | Assassin's Creed Ezio Auditore Pack | 219007 | [219007-assassins-creed-ezio-auditore-pack.json](./219007-assassins-creed-ezio-auditore-pack.json) |
 | Assassin's Creed Identity | 17028 | [17028-assassins-creed-identity.json](./17028-assassins-creed-identity.json) |
 | Assassin's Creed II Game of the Year Edition + Assassin's Creed | 353891 | [353891-assassins-creed-ii-game-of-the-year-edition-assassins-creed.json](./353891-assassins-creed-ii-game-of-the-year-edition-assassins-creed.json) |
@@ -6591,6 +6594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroids | 232695 | [232695-asteroids.json](./232695-asteroids.json) |
 | Asteroids | 319567 | [319567-asteroids.json](./319567-asteroids.json) |
 | Asteroids | 319568 | [319568-asteroids.json](./319568-asteroids.json) |
+| Asteroids | 7758 | [7758-asteroids.json](./7758-asteroids.json) |
 | Asteroids | 80932 | [80932-asteroids.json](./80932-asteroids.json) |
 | Asteroids | 89564 | [89564-asteroids.json](./89564-asteroids.json) |
 | Asteroids & Super Breakout | 78656 | [78656-asteroids-and-super-breakout.json](./78656-asteroids-and-super-breakout.json) |
