@@ -107,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quadoban | 200027 | [200027-quadoban.json](./200027-quadoban.json) |
 | Quadrablaze | 68710 | [68710-quadrablaze.json](./68710-quadrablaze.json) |
 | QuadraDigger | 59952 | [59952-quadradigger.json](./59952-quadradigger.json) |
+| Quadradius | 29040 | [29040-quadradius.json](./29040-quadradius.json) |
 | Quadrant 7 | 322393 | [322393-quadrant-7.json](./322393-quadrant-7.json) |
 | Quadratank | 225595 | [225595-quadratank.json](./225595-quadratank.json) |
 | Quadratic Puzzle 1 | 369202 | [369202-quadratic-puzzle-1.json](./369202-quadratic-puzzle-1.json) |
