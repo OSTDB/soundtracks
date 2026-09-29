@@ -406,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia Wars: Yakuza | 319171 | [319171-mafia-wars-yakuza.json](./319171-mafia-wars-yakuza.json) |
 | Mafia World: Bloody War | 214057 | [214057-mafia-world-bloody-war.json](./214057-mafia-world-bloody-war.json) |
 | Mafia: Sex Noir | 192435 | [192435-mafia-sex-noir.json](./192435-mafia-sex-noir.json) |
+| Mafia: The Old Country - Man of Honor | 404700 | [404700-mafia-the-old-country-man-of-honor.json](./404700-mafia-the-old-country-man-of-honor.json) |
 | Mafia: The Old Country - Soldato Pack | 413630 | [413630-mafia-the-old-country-soldato-pack.json](./413630-mafia-the-old-country-soldato-pack.json) |
 | Mafia.gg | 112288 | [112288-mafia-gg.json](./112288-mafia-gg.json) |
 | Mafioso | 348499 | [348499-mafioso.json](./348499-mafioso.json) |
@@ -1725,6 +1726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario In Search of The Stars 2 | 267929 | [267929-mario-in-search-of-the-stars-2.json](./267929-mario-in-search-of-the-stars-2.json) |
 | Mario in the Dreamscape | 296093 | [296093-mario-in-the-dreamscape.json](./296093-mario-in-the-dreamscape.json) |
 | Mario Is Missing! | 210223 | [210223-mario-is-missing.json](./210223-mario-is-missing.json) |
+| Mario Is Missing! | 210224 | [210224-mario-is-missing.json](./210224-mario-is-missing.json) |
 | Mario Kart | 221269 | [221269-mario-kart.json](./221269-mario-kart.json) |
 | Mario Kart 64 Deluxe | 254601 | [254601-mario-kart-64-deluxe.json](./254601-mario-kart-64-deluxe.json) |
 | Mario Kart 64 HD | 229075 | [229075-mario-kart-64-hd.json](./229075-mario-kart-64-hd.json) |
@@ -1930,6 +1932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Star Quest 2 | 315014 | [315014-marios-star-quest-2.json](./315014-marios-star-quest-2.json) |
 | Mario's Super Picross | 80174 | [80174-marios-super-picross.json](./80174-marios-super-picross.json) |
 | Mario's Time Machine | 210116 | [210116-marios-time-machine.json](./210116-marios-time-machine.json) |
+| Mario's Time Machine | 210225 | [210225-marios-time-machine.json](./210225-marios-time-machine.json) |
 | Mario's Time Machine DX | 323825 | [323825-marios-time-machine-dx.json](./323825-marios-time-machine-dx.json) |
 | Mario's Timeship Battle | 318041 | [318041-marios-timeship-battle.json](./318041-marios-timeship-battle.json) |
 | Mario's Vacation Course 64 | 155018 | [155018-marios-vacation-course-64.json](./155018-marios-vacation-course-64.json) |
@@ -5340,6 +5343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Maze | 100308 | [100308-mind-maze.json](./100308-mind-maze.json) |
 | Mind Medley | 209509 | [209509-mind-medley.json](./209509-mind-medley.json) |
 | Mind Muscle VR | 150531 | [150531-mind-muscle-vr.json](./150531-mind-muscle-vr.json) |
+| Mind Over Magic | 211357 | [211357-mind-over-magic.json](./211357-mind-over-magic.json) |
 | Mind Over Matter | 209508 | [209508-mind-over-matter.json](./209508-mind-over-matter.json) |
 | Mind Over Melee Radio | 169768 | [169768-mind-over-melee-radio.json](./169768-mind-over-melee-radio.json) |
 | Mind Over Monarchy | 347339 | [347339-mind-over-monarchy.json](./347339-mind-over-monarchy.json) |
@@ -9217,6 +9221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little RPG Shop | 298650 | [298650-my-little-rpg-shop.json](./298650-my-little-rpg-shop.json) |
 | My Little Sister Callie | 321767 | [321767-my-little-sister-callie.json](./321767-my-little-sister-callie.json) |
 | My Little Spider | 374616 | [374616-my-little-spider.json](./374616-my-little-spider.json) |
+| My Little Universe | 207161 | [207161-my-little-universe.json](./207161-my-little-universe.json) |
 | My Little Universe: Complete Edition | 294825 | [294825-my-little-universe-complete-edition.json](./294825-my-little-universe-complete-edition.json) |
 | My Little Universe: Demodium | 286542 | [286542-my-little-universe-demodium.json](./286542-my-little-universe-demodium.json) |
 | My Little Work: Garage | 89180 | [89180-my-little-work-garage.json](./89180-my-little-work-garage.json) |
