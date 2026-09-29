@@ -1497,6 +1497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Hearts | 156563 | [156563-dead-hearts.json](./156563-dead-hearts.json) |
 | Dead Heat | 284966 | [284966-dead-heat.json](./284966-dead-heat.json) |
 | Dead Hook | 252209 | [252209-dead-hook.json](./252209-dead-hook.json) |
+| Dead Horizon | 52772 | [52772-dead-horizon.json](./52772-dead-horizon.json) |
 | Dead Hospital | 406174 | [406174-dead-hospital.json](./406174-dead-hospital.json) |
 | Dead House: Saisei | 218972 | [218972-dead-house-saisei.json](./218972-dead-house-saisei.json) |
 | Dead Humanity | 269034 | [269034-dead-humanity.json](./269034-dead-humanity.json) |
@@ -2788,6 +2789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Den-Den: Tokyo Horror | 345507 | [345507-den-den-tokyo-horror.json](./345507-den-den-tokyo-horror.json) |
 | Den-ou Suikoden | 91947 | [91947-den-ou-suikoden.json](./91947-den-ou-suikoden.json) |
 | Den' Rozhdeniya 2 | 336609 | [336609-den-rozhdeniya-2.json](./336609-den-rozhdeniya-2.json) |
+| Denarius | 52752 | [52752-denarius.json](./52752-denarius.json) |
 | Denbora | 326067 | [326067-denbora.json](./326067-denbora.json) |
 | Dendam | 262104 | [262104-dendam.json](./262104-dendam.json) |
 | Dendron 64 | 401493 | [401493-dendron-64.json](./401493-dendron-64.json) |
@@ -5912,6 +5914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Switch | 5375 | [5375-double-switch.json](./5375-double-switch.json) |
 | Double Switch: 25th Anniversary Edition | 111152 | [111152-double-switch-25th-anniversary-edition.json](./111152-double-switch-25th-anniversary-edition.json) |
 | Double Talk: Sports Edition | 73360 | [73360-double-talk-sports-edition.json](./73360-double-talk-sports-edition.json) |
+| Double the Meat | 52765 | [52765-double-the-meat.json](./52765-double-the-meat.json) |
 | Double Trouble | 215928 | [215928-double-trouble.json](./215928-double-trouble.json) |
 | Double Trouble | 267470 | [267470-double-trouble.json](./267470-double-trouble.json) |
 | Double View | 250432 | [250432-double-view.json](./250432-double-view.json) |
