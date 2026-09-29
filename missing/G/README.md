@@ -868,6 +868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garfield: Bound For Home | 234566 | [234566-garfield-bound-for-home.json](./234566-garfield-bound-for-home.json) |
 | Garfield: Escape from Monday | 407405 | [407405-garfield-escape-from-monday.json](./407405-garfield-escape-from-monday.json) |
 | Garfield: Lasagna World Tour | 43545 | [43545-garfield-lasagna-world-tour.json](./43545-garfield-lasagna-world-tour.json) |
+| Garfield: Saving Arlene | 43445 | [43445-garfield-saving-arlene.json](./43445-garfield-saving-arlene.json) |
 | Garfield: The Lost Levels | 234570 | [234570-garfield-the-lost-levels.json](./234570-garfield-the-lost-levels.json) |
 | Garfield: Winter's Tail | 12112 | [12112-garfield-winters-tail.json](./12112-garfield-winters-tail.json) |
 | Garfield's Defense 2: The Food Invaders Strike Back | 63862 | [63862-garfields-defense-2-the-food-invaders-strike-back.json](./63862-garfields-defense-2-the-food-invaders-strike-back.json) |
@@ -1721,6 +1722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Trap | 208607 | [208607-ghost-trap.json](./208607-ghost-trap.json) |
 | Ghost Trap | 49599 | [49599-ghost-trap.json](./49599-ghost-trap.json) |
 | Ghost Vanguard | 264694 | [264694-ghost-vanguard.json](./264694-ghost-vanguard.json) |
+| Ghost Vibration | 43420 | [43420-ghost-vibration.json](./43420-ghost-vibration.json) |
 | Ghost Village | 224237 | [224237-ghost-village.json](./224237-ghost-village.json) |
 | Ghost Voyage | 269837 | [269837-ghost-voyage.json](./269837-ghost-voyage.json) |
 | Ghost Whisperer | 307691 | [307691-ghost-whisperer.json](./307691-ghost-whisperer.json) |
@@ -1879,6 +1881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gigantosaurus Dino Sports | 300466 | [300466-gigantosaurus-dino-sports.json](./300466-gigantosaurus-dino-sports.json) |
 | GigaSlave | 348455 | [348455-gigaslave.json](./348455-gigaslave.json) |
 | GigaSword | 177317 | [177317-gigasword.json](./177317-gigasword.json) |
+| Gigawing Generations | 43477 | [43477-gigawing-generations.json](./43477-gigawing-generations.json) |
 | Gigolo | 40777 | [40777-gigolo.json](./40777-gigolo.json) |
 | Gilbert and the chemystical island | 319364 | [319364-gilbert-and-the-chemystical-island.json](./319364-gilbert-and-the-chemystical-island.json) |
 | Gilded | 81768 | [81768-gilded.json](./81768-gilded.json) |
@@ -2094,6 +2097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glass Masquerade | 25871 | [25871-glass-masquerade.json](./25871-glass-masquerade.json) |
 | Glass Masquerade 2: Illusions | 109763 | [109763-glass-masquerade-2-illusions.json](./109763-glass-masquerade-2-illusions.json) |
 | Glass Masquerade 3: Honeylines | 249809 | [249809-glass-masquerade-3-honeylines.json](./249809-glass-masquerade-3-honeylines.json) |
+| Glass Rose | 43441 | [43441-glass-rose.json](./43441-glass-rose.json) |
 | Glass Smash 64 | 338801 | [338801-glass-smash-64.json](./338801-glass-smash-64.json) |
 | Glass Tactics | 244518 | [244518-glass-tactics.json](./244518-glass-tactics.json) |
 | Glass Walls | 180667 | [180667-glass-walls.json](./180667-glass-walls.json) |
@@ -2571,6 +2575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of the Arena Dungeon | 163196 | [163196-god-of-the-arena-dungeon.json](./163196-god-of-the-arena-dungeon.json) |
 | God of Track | 243076 | [243076-god-of-track.json](./243076-god-of-track.json) |
 | God of War II Remake | 389451 | [389451-god-of-war-ii-remake.json](./389451-god-of-war-ii-remake.json) |
+| God of War II: Special Edition | 43432 | [43432-god-of-war-ii-special-edition.json](./43432-god-of-war-ii-special-edition.json) |
 | God of War III Remake | 389452 | [389452-god-of-war-iii-remake.json](./389452-god-of-war-iii-remake.json) |
 | God of War III: Remastered | 19959 | [19959-god-of-war-iii-remastered.json](./19959-god-of-war-iii-remastered.json) |
 | God of War Remake | 389450 | [389450-god-of-war-remake.json](./389450-god-of-war-remake.json) |
@@ -4705,6 +4710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundam Fights for Human Rights | 183567 | [183567-gundam-fights-for-human-rights.json](./183567-gundam-fights-for-human-rights.json) |
 | Gundam Heroes | 98560 | [98560-gundam-heroes.json](./98560-gundam-heroes.json) |
 | Gundam Memories: Tatakai no Kioku | 80467 | [80467-gundam-memories-tatakai-no-kioku.json](./80467-gundam-memories-tatakai-no-kioku.json) |
+| Gundam Musou Special | 43450 | [43450-gundam-musou-special.json](./43450-gundam-musou-special.json) |
 | Gundam Online Wars | 79279 | [79279-gundam-online-wars.json](./79279-gundam-online-wars.json) |
 | Gundam Robot | 47534 | [47534-gundam-robot.json](./47534-gundam-robot.json) |
 | Gundam Spirits | 226760 | [226760-gundam-spirits.json](./226760-gundam-spirits.json) |
