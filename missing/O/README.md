@@ -2455,6 +2455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outsp4ce | 172176 | [172176-outsp4ce.json](./172176-outsp4ce.json) |
 | Outspace | 332263 | [332263-outspace.json](./332263-outspace.json) |
 | Outspell | 219267 | [219267-outspell.json](./219267-outspell.json) |
+| OutSplit | 52778 | [52778-outsplit.json](./52778-outsplit.json) |
 | Outstand | 227793 | [227793-outstand.json](./227793-outstand.json) |
 | Outta Hell | 346797 | [346797-outta-hell.json](./346797-outta-hell.json) |
 | Outter Carrier | 327382 | [327382-outter-carrier.json](./327382-outter-carrier.json) |
