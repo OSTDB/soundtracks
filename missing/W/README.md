@@ -646,6 +646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Dawn of War II - Retribution Ork Race Pack | 163392 | [163392-warhammer-40-000-dawn-of-war-ii-retribution-ork-race-pack.json](./163392-warhammer-40-000-dawn-of-war-ii-retribution-ork-race-pack.json) |
 | Warhammer 40,000: Dawn of War II - Retribution Space Marines Race Pack | 163394 | [163394-warhammer-40-000-dawn-of-war-ii-retribution-space-marines-race-pack.json](./163394-warhammer-40-000-dawn-of-war-ii-retribution-space-marines-race-pack.json) |
 | Warhammer 40,000: Dawn of War II - Retribution: Complete DLC Collection | 53898 | [53898-warhammer-40-000-dawn-of-war-ii-retribution-complete-dlc-collection.json](./53898-warhammer-40-000-dawn-of-war-ii-retribution-complete-dlc-collection.json) |
+| Warhammer 40,000: Dawn of War II - Retribution: The Last Stand | 34620 | [34620-warhammer-40-000-dawn-of-war-ii-retribution-the-last-stand.json](./34620-warhammer-40-000-dawn-of-war-ii-retribution-the-last-stand.json) |
 | Warhammer 40,000: Dawn of War II - Retribution: The Last Stand Necron Overlord | 163383 | [163383-warhammer-40-000-dawn-of-war-ii-retribution-the-last-stand-necron-overlord.json](./163383-warhammer-40-000-dawn-of-war-ii-retribution-the-last-stand-necron-overlord.json) |
 | Warhammer 40,000: Dawn of War II - Retribution: The Last Stand Tau Commander | 163388 | [163388-warhammer-40-000-dawn-of-war-ii-retribution-the-last-stand-tau-commander.json](./163388-warhammer-40-000-dawn-of-war-ii-retribution-the-last-stand-tau-commander.json) |
 | Warhammer 40,000: Dawn of War II - Retribution: The Last Standalone | 77255 | [77255-warhammer-40-000-dawn-of-war-ii-retribution-the-last-standalone.json](./77255-warhammer-40-000-dawn-of-war-ii-retribution-the-last-standalone.json) |
@@ -2732,6 +2733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wiseguys | 123538 | [123538-wiseguys.json](./123538-wiseguys.json) |
 | Wish | 196225 | [196225-wish.json](./196225-wish.json) |
 | Wish - Israfil Saga | 94897 | [94897-wish-israfil-saga.json](./94897-wish-israfil-saga.json) |
+| Wish -tale of the sixteenth night of lunar month- | 34684 | [34684-wish-tale-of-the-sixteenth-night-of-lunar-month.json](./34684-wish-tale-of-the-sixteenth-night-of-lunar-month.json) |
 | Wish of Abyss Dungeon | 195143 | [195143-wish-of-abyss-dungeon.json](./195143-wish-of-abyss-dungeon.json) |
 | Wish Of Hers | 385744 | [385744-wish-of-hers.json](./385744-wish-of-hers.json) |
 | Wish on this Flower | 360611 | [360611-wish-on-this-flower.json](./360611-wish-on-this-flower.json) |
@@ -3647,6 +3649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Simulators: Ultimate Edition | 136355 | [136355-world-of-simulators-ultimate-edition.json](./136355-world-of-simulators-ultimate-edition.json) |
 | World of Slavic Glasses | 327363 | [327363-world-of-slavic-glasses.json](./327363-world-of-slavic-glasses.json) |
 | World of Slime | 415114 | [415114-world-of-slime.json](./415114-world-of-slime.json) |
+| World of Soccer Online | 34704 | [34704-world-of-soccer-online.json](./34704-world-of-soccer-online.json) |
 | World of Solitaire | 139966 | [139966-world-of-solitaire.json](./139966-world-of-solitaire.json) |
 | World Of Sports | 370756 | [370756-world-of-sports.json](./370756-world-of-sports.json) |
 | World of Submarines | 255764 | [255764-world-of-submarines.json](./255764-world-of-submarines.json) |
