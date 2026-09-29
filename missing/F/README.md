@@ -736,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Games | 45930 | [45930-family-games.json](./45930-family-games.json) |
 | Family Games Compendium | 79241 | [79241-family-games-compendium.json](./79241-family-games-compendium.json) |
 | Family Games II: Junk Food Jive | 45929 | [45929-family-games-ii-junk-food-jive.json](./45929-family-games-ii-junk-food-jive.json) |
+| Family Go-Kart Racing | 50695 | [50695-family-go-kart-racing.json](./50695-family-go-kart-racing.json) |
 | Family Guy Bowling | 286624 | [286624-family-guy-bowling.json](./286624-family-guy-bowling.json) |
 | Family Guy Pinball | 81362 | [81362-family-guy-pinball.json](./81362-family-guy-pinball.json) |
 | Family Guy: Back to the Multiverse | 264870 | [264870-family-guy-back-to-the-multiverse.json](./264870-family-guy-back-to-the-multiverse.json) |
@@ -745,10 +746,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Igo: Super Strong | 83472 | [83472-family-igo-super-strong.json](./83472-family-igo-super-strong.json) |
 | Family Jockey | 63542 | [63542-family-jockey.json](./63542-family-jockey.json) |
 | Family Man | 107416 | [107416-family-man.json](./107416-family-man.json) |
+| Family Mini Golf | 50744 | [50744-family-mini-golf.json](./50744-family-mini-golf.json) |
 | Family Mysteries 2: Echoes of Tomorrow | 132610 | [132610-family-mysteries-2-echoes-of-tomorrow.json](./132610-family-mysteries-2-echoes-of-tomorrow.json) |
 | Family Mysteries 3: Criminal Mindset | 135764 | [135764-family-mysteries-3-criminal-mindset.json](./135764-family-mysteries-3-criminal-mindset.json) |
 | Family Party: 30 Great Games Obstacle Arcade | 5312 | [5312-family-party-30-great-games-obstacle-arcade.json](./5312-family-party-30-great-games-obstacle-arcade.json) |
 | Family Party: 30 Great Games Winter Fun | 23360 | [23360-family-party-30-great-games-winter-fun.json](./23360-family-party-30-great-games-winter-fun.json) |
+| Family Pirate Party | 50700 | [50700-family-pirate-party.json](./50700-family-pirate-party.json) |
 | Family Reunion | 381629 | [381629-family-reunion.json](./381629-family-reunion.json) |
 | Family Road Trips | 215402 | [215402-family-road-trips.json](./215402-family-road-trips.json) |
 | Family Secret | 75185 | [75185-family-secret.json](./75185-family-secret.json) |
