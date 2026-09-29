@@ -1573,6 +1573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indy 4 | 18583 | [18583-indy-4.json](./18583-indy-4.json) |
 | Indy Cat and Ball of Fate | 59449 | [59449-indy-cat-and-ball-of-fate.json](./59449-indy-cat-and-ball-of-fate.json) |
 | Indy Pro '22: Rebirth of the Territories | 195633 | [195633-indy-pro-22-rebirth-of-the-territories.json](./195633-indy-pro-22-rebirth-of-the-territories.json) |
+| Indy Racing 2000 | 3395 | [3395-indy-racing-2000.json](./3395-indy-racing-2000.json) |
 | IndyCar Racing | 77644 | [77644-indycar-racing.json](./77644-indycar-racing.json) |
 | IndyCar Racing II | 71514 | [71514-indycar-racing-ii.json](./71514-indycar-racing-ii.json) |
 | Indycar Racing: The Game | 410972 | [410972-indycar-racing-the-game.json](./410972-indycar-racing-the-game.json) |
