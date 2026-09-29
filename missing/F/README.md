@@ -4458,6 +4458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fork Knights | 119757 | [119757-fork-knights.json](./119757-fork-knights.json) |
 | Fork of Damocles | 177028 | [177028-fork-of-damocles.json](./177028-fork-of-damocles.json) |
 | Fork of the Crimson Soul | 369051 | [369051-fork-of-the-crimson-soul.json](./369051-fork-of-the-crimson-soul.json) |
+| Fork Parker's Holiday Profit Hike | 14399 | [14399-fork-parkers-holiday-profit-hike.json](./14399-fork-parkers-holiday-profit-hike.json) |
 | Fork Road | 303067 | [303067-fork-road.json](./303067-fork-road.json) |
 | Forking Hell | 133906 | [133906-forking-hell.json](./133906-forking-hell.json) |
 | Forklift & Box | 164262 | [164262-forklift-and-box.json](./164262-forklift-and-box.json) |
