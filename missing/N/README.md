@@ -314,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto Shippuden: Ultimate Ninja Storm Collection | 44562 | [44562-naruto-shippuden-ultimate-ninja-storm-collection.json](./44562-naruto-shippuden-ultimate-ninja-storm-collection.json) |
 | Naruto Shippuden: Ultimate Ninja Storm Generations | 7100 | [7100-naruto-shippuden-ultimate-ninja-storm-generations.json](./7100-naruto-shippuden-ultimate-ninja-storm-generations.json) |
 | Naruto Shippuden: Ultimate Ninja Storm Legacy | 28177 | [28177-naruto-shippuden-ultimate-ninja-storm-legacy.json](./28177-naruto-shippuden-ultimate-ninja-storm-legacy.json) |
+| Naruto Shippuden: Ultimate Ninja Storm Revolution - Samurai Edition | 47455 | [47455-naruto-shippuden-ultimate-ninja-storm-revolution-samurai-edition.json](./47455-naruto-shippuden-ultimate-ninja-storm-revolution-samurai-edition.json) |
 | Naruto To Boruto: Shinobi Stricker - Master Character Training Pack: Boruto Uzumaki (Karma Progression) | 275885 | [275885-naruto-to-boruto-shinobi-stricker-master-character-training-pack-boruto-uzumaki-karma-progression.json](./275885-naruto-to-boruto-shinobi-stricker-master-character-training-pack-boruto-uzumaki-karma-progression.json) |
 | Naruto to Boruto: Shinobi Striker | 28175 | [28175-naruto-to-boruto-shinobi-striker.json](./28175-naruto-to-boruto-shinobi-striker.json) |
 | Naruto to Boruto: Shinobi Striker - Deluxe Edition | 164790 | [164790-naruto-to-boruto-shinobi-striker-deluxe-edition.json](./164790-naruto-to-boruto-shinobi-striker-deluxe-edition.json) |
@@ -664,6 +665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Street Vol. 2 | 4036 | [4036-nba-street-vol-2.json](./4036-nba-street-vol-2.json) |
 | NBA Supercard | 142270 | [142270-nba-supercard.json](./142270-nba-supercard.json) |
 | NBA the Run | 309667 | [309667-nba-the-run.json](./309667-nba-the-run.json) |
+| NBA Unrivaled | 47428 | [47428-nba-unrivaled.json](./47428-nba-unrivaled.json) |
 | NBA: King of the Court | 65509 | [65509-nba-king-of-the-court.json](./65509-nba-king-of-the-court.json) |
 | NBF0 | 249887 | [249887-nbf0.json](./249887-nbf0.json) |
 | Nblocks: Builder Pack 1 | 298589 | [298589-nblocks-builder-pack-1.json](./298589-nblocks-builder-pack-1.json) |
@@ -672,6 +674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nblocks: Builder Pack 4 | 298591 | [298591-nblocks-builder-pack-4.json](./298591-nblocks-builder-pack-4.json) |
 | NBody | 276183 | [276183-nbody.json](./276183-nbody.json) |
 | NCAA Basketball 09 | 7109 | [7109-ncaa-basketball-09.json](./7109-ncaa-basketball-09.json) |
+| NCAA Basketball 09: March Madness Edition | 47427 | [47427-ncaa-basketball-09-march-madness-edition.json](./47427-ncaa-basketball-09-march-madness-edition.json) |
 | NCAA Championship Basketball | 69580 | [69580-ncaa-championship-basketball.json](./69580-ncaa-championship-basketball.json) |
 | NCAA College Football 2K3 | 4039 | [4039-ncaa-college-football-2k3.json](./4039-ncaa-college-football-2k3.json) |
 | NCAA College Hoops 2K8 | 43552 | [43552-ncaa-college-hoops-2k8.json](./43552-ncaa-college-hoops-2k8.json) |
@@ -2296,6 +2299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Gaiden | 198839 | [198839-ninja-gaiden.json](./198839-ninja-gaiden.json) |
 | Ninja Gaiden | 239925 | [239925-ninja-gaiden.json](./239925-ninja-gaiden.json) |
 | Ninja Gaiden 3 | 7122 | [7122-ninja-gaiden-3.json](./7122-ninja-gaiden-3.json) |
+| Ninja Gaiden 3: Collector's Edition | 47464 | [47464-ninja-gaiden-3-collectors-edition.json](./47464-ninja-gaiden-3-collectors-edition.json) |
 | Ninja Gaiden 3: Razor's Edge | 5317 | [5317-ninja-gaiden-3-razors-edge.json](./5317-ninja-gaiden-3-razors-edge.json) |
 | Ninja Gaiden 3DS | 269572 | [269572-ninja-gaiden-3ds.json](./269572-ninja-gaiden-3ds.json) |
 | Ninja Gaiden Clans | 65046 | [65046-ninja-gaiden-clans.json](./65046-ninja-gaiden-clans.json) |
@@ -3423,6 +3427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nun&Gun | 278386 | [278386-nun-and-gun.json](./278386-nun-and-gun.json) |
 | Nunchuck Charlie: A Love Story | 286611 | [286611-nunchuck-charlie-a-love-story.json](./286611-nunchuck-charlie-a-love-story.json) |
 | Nuns With Guns | 115642 | [115642-nuns-with-guns.json](./115642-nuns-with-guns.json) |
+| Nurarihyon no Mago: Hyakki Ryouran Taisen | 47426 | [47426-nurarihyon-no-mago-hyakki-ryouran-taisen.json](./47426-nurarihyon-no-mago-hyakki-ryouran-taisen.json) |
 | Nurburgring-1 | 238207 | [238207-nurburgring-1.json](./238207-nurburgring-1.json) |
 | Nurie de Asobou: Sanrio Characters | 266170 | [266170-nurie-de-asobou-sanrio-characters.json](./266170-nurie-de-asobou-sanrio-characters.json) |
 | Nurikabe | 105092 | [105092-nurikabe.json](./105092-nurikabe.json) |
