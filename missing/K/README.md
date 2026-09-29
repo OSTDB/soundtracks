@@ -1559,6 +1559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdomfall | 169401 | [169401-kingdomfall.json](./169401-kingdomfall.json) |
 | Kingdomino | 338728 | [338728-kingdomino.json](./338728-kingdomino.json) |
 | Kingdoms and Slaves | 201713 | [201713-kingdoms-and-slaves.json](./201713-kingdoms-and-slaves.json) |
+| Kingdoms Fall | 41489 | [41489-kingdoms-fall.json](./41489-kingdoms-fall.json) |
 | Kingdoms of Amalur: Re-Reckoning - Collector’s Edition | 138200 | [138200-kingdoms-of-amalur-re-reckoning-collector-s-edition.json](./138200-kingdoms-of-amalur-re-reckoning-collector-s-edition.json) |
 | Kingdoms of Amalur: Re-Reckoning - Fate Edition | 138198 | [138198-kingdoms-of-amalur-re-reckoning-fate-edition.json](./138198-kingdoms-of-amalur-re-reckoning-fate-edition.json) |
 | Kingdoms of Dice: The Elonia Chronicles | 360685 | [360685-kingdoms-of-dice-the-elonia-chronicles.json](./360685-kingdoms-of-dice-the-elonia-chronicles.json) |
