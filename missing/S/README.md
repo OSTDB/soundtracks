@@ -3337,6 +3337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shambles | 139259 | [139259-shambles.json](./139259-shambles.json) |
 | Shame Legacy | 241959 | [241959-shame-legacy.json](./241959-shame-legacy.json) |
 | Shameless Afterparty | 340382 | [340382-shameless-afterparty.json](./340382-shameless-afterparty.json) |
+| Shamus | 18659 | [18659-shamus.json](./18659-shamus.json) |
 | Shamus: Case II | 23889 | [23889-shamus-case-ii.json](./23889-shamus-case-ii.json) |
 | Shan Gui II: Sweet Osmanthus II | 110467 | [110467-shan-gui-ii-sweet-osmanthus-ii.json](./110467-shan-gui-ii-sweet-osmanthus-ii.json) |
 | Shan Hai: Mythic Origins | 374845 | [374845-shan-hai-mythic-origins.json](./374845-shan-hai-mythic-origins.json) |
@@ -4261,6 +4262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopkins: Top Trumps | 82140 | [82140-shopkins-top-trumps.json](./82140-shopkins-top-trumps.json) |
 | Shopkins: Who's Next? | 98791 | [98791-shopkins-whos-next.json](./98791-shopkins-whos-next.json) |
 | Shopocalypse: Pro-Shopping Simulator | 366395 | [366395-shopocalypse-pro-shopping-simulator.json](./366395-shopocalypse-pro-shopping-simulator.json) |
+| Shoppe Keep | 18338 | [18338-shoppe-keep.json](./18338-shoppe-keep.json) |
 | Shoppe Keep 2 | 68842 | [68842-shoppe-keep-2.json](./68842-shoppe-keep-2.json) |
 | Shopper's Paradise | 70404 | [70404-shoppers-paradise.json](./70404-shoppers-paradise.json) |
 | Shopping Cart Hero 2 | 388042 | [388042-shopping-cart-hero-2.json](./388042-shopping-cart-hero-2.json) |
@@ -4668,6 +4670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sigi: A Fart for Melusina | 75066 | [75066-sigi-a-fart-for-melusina.json](./75066-sigi-a-fart-for-melusina.json) |
 | Sigil of Kings | 235722 | [235722-sigil-of-kings.json](./235722-sigil-of-kings.json) |
 | Sigilfarer | 314447 | [314447-sigilfarer.json](./314447-sigilfarer.json) |
+| Sigils of Elohim | 17808 | [17808-sigils-of-elohim.json](./17808-sigils-of-elohim.json) |
 | Sigma | 260791 | [260791-sigma.json](./260791-sigma.json) |
 | Sigma Battle Royale Shooter | 231899 | [231899-sigma-battle-royale-shooter.json](./231899-sigma-battle-royale-shooter.json) |
 | Sigma Draconis | 133450 | [133450-sigma-draconis.json](./133450-sigma-draconis.json) |
@@ -4714,6 +4717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silence Coffee Shop | 222285 | [222285-silence-coffee-shop.json](./222285-silence-coffee-shop.json) |
 | Silence in the Cabin | 236255 | [236255-silence-in-the-cabin.json](./236255-silence-in-the-cabin.json) |
 | Silence Notes | 110169 | [110169-silence-notes.json](./110169-silence-notes.json) |
+| Silence of the Sleep | 17819 | [17819-silence-of-the-sleep.json](./17819-silence-of-the-sleep.json) |
 | Silence-Dream | 310728 | [310728-silence-dream.json](./310728-silence-dream.json) |
 | Silence, Exile, and Cunning | 391061 | [391061-silence-exile-and-cunning.json](./391061-silence-exile-and-cunning.json) |
 | Silenced: The House | 89438 | [89438-silenced-the-house.json](./89438-silenced-the-house.json) |
@@ -8878,6 +8882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Funeral 2: of Rubies and Gold II - From Shadows We Rise | 360744 | [360744-space-funeral-2-of-rubies-and-gold-ii-from-shadows-we-rise.json](./360744-space-funeral-2-of-rubies-and-gold-ii-from-shadows-we-rise.json) |
 | Space Funeral 3: The Legend of Earth Birth | 127145 | [127145-space-funeral-3-the-legend-of-earth-birth.json](./127145-space-funeral-3-the-legend-of-earth-birth.json) |
 | Space Funeral: Of Rubies and Gold | 360743 | [360743-space-funeral-of-rubies-and-gold.json](./360743-space-funeral-of-rubies-and-gold.json) |
+| Space Fury | 8805 | [8805-space-fury.json](./8805-space-fury.json) |
 | Space Fury: The Phantom Menace | 208342 | [208342-space-fury-the-phantom-menace.json](./208342-space-fury-the-phantom-menace.json) |
 | Space Fuss | 31387 | [31387-space-fuss.json](./31387-space-fuss.json) |
 | Space Game | 312741 | [312741-space-game.json](./312741-space-game.json) |
@@ -8929,6 +8934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hopper | 187255 | [187255-space-hopper.json](./187255-space-hopper.json) |
 | Space Hopper | 274049 | [274049-space-hopper.json](./274049-space-hopper.json) |
 | Space Hotel | 30270 | [30270-space-hotel.json](./30270-space-hotel.json) |
+| Space Hulk: Ascension | 17732 | [17732-space-hulk-ascension.json](./17732-space-hulk-ascension.json) |
 | Space Hulk: Space Wolves Chapter | 168865 | [168865-space-hulk-space-wolves-chapter.json](./168865-space-hulk-space-wolves-chapter.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
 | Space Hunter | 271175 | [271175-space-hunter.json](./271175-space-hunter.json) |
@@ -11446,6 +11452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starman's VR Experience | 89365 | [89365-starmans-vr-experience.json](./89365-starmans-vr-experience.json) |
 | StarMap 3D Plus | 41524 | [41524-starmap-3d-plus.json](./41524-starmap-3d-plus.json) |
 | Starmasons | 388419 | [388419-starmasons.json](./388419-starmasons.json) |
+| Starmaster | 18033 | [18033-starmaster.json](./18033-starmaster.json) |
 | Starminer | 280353 | [280353-starminer.json](./280353-starminer.json) |
 | Starmount | 327323 | [327323-starmount.json](./327323-starmount.json) |
 | Starmourn | 122849 | [122849-starmourn.json](./122849-starmourn.json) |
@@ -11456,6 +11463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarPicker | 149607 | [149607-starpicker.json](./149607-starpicker.json) |
 | Starpiercer | 181360 | [181360-starpiercer.json](./181360-starpiercer.json) |
 | StarPilot W | 307610 | [307610-starpilot-w.json](./307610-starpilot-w.json) |
+| Starpoint Gemini 2 | 8818 | [8818-starpoint-gemini-2.json](./8818-starpoint-gemini-2.json) |
 | Starpoint Gemini 2 Gold Pack | 308575 | [308575-starpoint-gemini-2-gold-pack.json](./308575-starpoint-gemini-2-gold-pack.json) |
 | Starpoint Gemini 2: Secrets of Aethera | 51898 | [51898-starpoint-gemini-2-secrets-of-aethera.json](./51898-starpoint-gemini-2-secrets-of-aethera.json) |
 | Starpoint Gemini 2: Titans | 51897 | [51897-starpoint-gemini-2-titans.json](./51897-starpoint-gemini-2-titans.json) |
@@ -13754,6 +13762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunray OS | 285582 | [285582-sunray-os.json](./285582-sunray-os.json) |
 | Sunrider 4: The Captain's Return | 234352 | [234352-sunrider-4-the-captains-return.json](./234352-sunrider-4-the-captains-return.json) |
 | Sunrider: Liberation Day | 18176 | [18176-sunrider-liberation-day.json](./18176-sunrider-liberation-day.json) |
+| Sunrider: Mask of Arcadius | 17639 | [17639-sunrider-mask-of-arcadius.json](./17639-sunrider-mask-of-arcadius.json) |
 | Sunrise 7 | 135159 | [135159-sunrise-7.json](./135159-sunrise-7.json) |
 | Sunrise Down | 312730 | [312730-sunrise-down.json](./312730-sunrise-down.json) |
 | Sunrise of the Time: End of Blue | 375944 | [375944-sunrise-of-the-time-end-of-blue.json](./375944-sunrise-of-the-time-end-of-blue.json) |
