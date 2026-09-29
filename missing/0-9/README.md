@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Meter | 247051 | [247051-100-meter.json](./247051-100-meter.json) |
 | 100 Mind Game | 104235 | [104235-100-mind-game.json](./104235-100-mind-game.json) |
 | 100 Minutes of /vr/ | 300030 | [300030-100-minutes-of-vr.json](./300030-100-minutes-of-vr.json) |
+| 100 New Year Cats | 324238 | [324238-100-new-year-cats.json](./324238-100-new-year-cats.json) |
 | 100 Ninja Cats | 283034 | [283034-100-ninja-cats.json](./283034-100-ninja-cats.json) |
 | 100 Pics Quiz | 70890 | [70890-100-pics-quiz.json](./70890-100-pics-quiz.json) |
 | 100 Radioactive Cats | 379455 | [379455-100-radioactive-cats.json](./379455-100-radioactive-cats.json) |
