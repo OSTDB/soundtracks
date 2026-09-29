@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Mondrian | 174791 | [174791-pac-mondrian.json](./174791-pac-mondrian.json) |
 | Pac-Motos | 203273 | [203273-pac-motos.json](./203273-pac-motos.json) |
 | Pac-Panic | 46572 | [46572-pac-panic.json](./46572-pac-panic.json) |
+| Pac-Pix | 18275 | [18275-pac-pix.json](./18275-pac-pix.json) |
 | Pac-Slot | 64458 | [64458-pac-slot.json](./64458-pac-slot.json) |
 | Pac-Snec | 393131 | [393131-pac-snec.json](./393131-pac-snec.json) |
 | Pac's Revenge | 337997 | [337997-pacs-revenge.json](./337997-pacs-revenge.json) |
