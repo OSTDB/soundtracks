@@ -3667,6 +3667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Deceived Man | 310421 | [310421-the-deceived-man.json](./310421-the-deceived-man.json) |
 | The December Effect | 163766 | [163766-the-december-effect.json](./163766-the-december-effect.json) |
 | The December Job | 386871 | [386871-the-december-job.json](./386871-the-december-job.json) |
+| The Decimation of Olarath | 57761 | [57761-the-decimation-of-olarath.json](./57761-the-decimation-of-olarath.json) |
 | The Decline of Grandidier | 395592 | [395592-the-decline-of-grandidier.json](./395592-the-decline-of-grandidier.json) |
 | The Deed II | 122623 | [122623-the-deed-ii.json](./122623-the-deed-ii.json) |
 | The Deep | 169464 | [169464-the-deep.json](./169464-the-deep.json) |
@@ -7677,6 +7678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sword of Hope | 10946 | [10946-the-sword-of-hope.json](./10946-the-sword-of-hope.json) |
 | The Sword of Hope II | 10947 | [10947-the-sword-of-hope-ii.json](./10947-the-sword-of-hope-ii.json) |
 | The Sword Witch's Apprentice | 351037 | [351037-the-sword-witchs-apprentice.json](./351037-the-sword-witchs-apprentice.json) |
+| The Swords | 57720 | [57720-the-swords.json](./57720-the-swords.json) |
 | The Swordsmen X: Survival | 152375 | [152375-the-swordsmen-x-survival.json](./152375-the-swordsmen-x-survival.json) |
 | The Syber Virus | 201714 | [201714-the-syber-virus.json](./201714-the-syber-virus.json) |
 | The Sych Story | 158643 | [158643-the-sych-story.json](./158643-the-sych-story.json) |
