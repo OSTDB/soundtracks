@@ -4835,6 +4835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Founding Paws: How America Began | 409525 | [409525-founding-paws-how-america-began.json](./409525-founding-paws-how-america-began.json) |
 | Foundland City Builders | 390124 | [390124-foundland-city-builders.json](./390124-foundland-city-builders.json) |
 | Foundlings | 350439 | [350439-foundlings.json](./350439-foundlings.json) |
+| Foundry | 139150 | [139150-foundry.json](./139150-foundry.json) |
 | Fountain of Dreams | 73799 | [73799-fountain-of-dreams.json](./73799-fountain-of-dreams.json) |
 | Fountains: Shattered Shape | 414457 | [414457-fountains-shattered-shape.json](./414457-fountains-shattered-shape.json) |
 | Four | 37306 | [37306-four.json](./37306-four.json) |
@@ -5283,6 +5284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fresh Milk For Mars | 295838 | [295838-fresh-milk-for-mars.json](./295838-fresh-milk-for-mars.json) |
 | Fresh Tracks Snowboarding | 344907 | [344907-fresh-tracks-snowboarding.json](./344907-fresh-tracks-snowboarding.json) |
 | Fresh Tracks VR | 380569 | [380569-fresh-tracks-vr.json](./380569-fresh-tracks-vr.json) |
+| Freshly Frosted | 117697 | [117697-freshly-frosted.json](./117697-freshly-frosted.json) |
 | Freshman Magic: Spellbooks and Tangled Sheets | 201010 | [201010-freshman-magic-spellbooks-and-tangled-sheets.json](./201010-freshman-magic-spellbooks-and-tangled-sheets.json) |
 | FreshWomen: Season 3 | 411674 | [411674-freshwomen-season-3.json](./411674-freshwomen-season-3.json) |
 | Fret Nice | 52230 | [52230-fret-nice.json](./52230-fret-nice.json) |
@@ -5686,6 +5688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frostpunk: Console Edition | 117420 | [117420-frostpunk-console-edition.json](./117420-frostpunk-console-edition.json) |
 | Frostpunk: Game of the Year Edition | 169208 | [169208-frostpunk-game-of-the-year-edition.json](./169208-frostpunk-game-of-the-year-edition.json) |
 | Frostpunk: The Fall of Winterhome | 109637 | [109637-frostpunk-the-fall-of-winterhome.json](./109637-frostpunk-the-fall-of-winterhome.json) |
+| Frostpunk: The Last Autumn | 135952 | [135952-frostpunk-the-last-autumn.json](./135952-frostpunk-the-last-autumn.json) |
 | FrostRunner | 113391 | [113391-frostrunner.json](./113391-frostrunner.json) |
 | Frostveil: The Last Winter | 389580 | [389580-frostveil-the-last-winter.json](./389580-frostveil-the-last-winter.json) |
 | Frosty Enterprise | 326409 | [326409-frosty-enterprise.json](./326409-frosty-enterprise.json) |
