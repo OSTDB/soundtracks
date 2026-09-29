@@ -761,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NebuLeet | 304884 | [304884-nebuleet.json](./304884-nebuleet.json) |
 | Nebuli | 157720 | [157720-nebuli.json](./157720-nebuli.json) |
 | Nebulous | 19039 | [19039-nebulous.json](./19039-nebulous.json) |
+| Nebulus | 7817 | [7817-nebulus.json](./7817-nebulus.json) |
 | Necessary Bimbos | 185699 | [185699-necessary-bimbos.json](./185699-necessary-bimbos.json) |
 | Necessary Force | 68014 | [68014-necessary-force.json](./68014-necessary-force.json) |
 | Necesse | 130788 | [130788-necesse.json](./130788-necesse.json) |
@@ -3191,6 +3192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not For You | 381698 | [381698-not-for-you.json](./381698-not-for-you.json) |
 | Not Guilty! | 353903 | [353903-not-guilty.json](./353903-not-guilty.json) |
 | Not in Heaven | 111102 | [111102-not-in-heaven.json](./111102-not-in-heaven.json) |
+| Not in the Groove | 138851 | [138851-not-in-the-groove.json](./138851-not-in-the-groove.json) |
 | Not Involved | 229782 | [229782-not-involved.json](./229782-not-involved.json) |
 | Not Just a Hat Rack | 228396 | [228396-not-just-a-hat-rack.json](./228396-not-just-a-hat-rack.json) |
 | Not Just An Ordinary Ballerina | 60018 | [60018-not-just-an-ordinary-ballerina.json](./60018-not-just-an-ordinary-ballerina.json) |
