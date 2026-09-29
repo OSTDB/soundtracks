@@ -1108,6 +1108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gekifu Bakegyamon: Ayakashi Fighting | 61346 | [61346-gekifu-bakegyamon-ayakashi-fighting.json](./61346-gekifu-bakegyamon-ayakashi-fighting.json) |
 | Gekisou TomaRunner | 70665 | [70665-gekisou-tomarunner.json](./70665-gekisou-tomarunner.json) |
 | Gekisou! Band Star | 381254 | [381254-gekisou-band-star.json](./381254-gekisou-band-star.json) |
+| Gekitotsu Toma L'Arc: Tomarunner Vs L'Arc-en-Ciel | 44761 | [44761-gekitotsu-toma-larc-tomarunner-vs-larc-en-ciel.json](./44761-gekitotsu-toma-larc-tomarunner-vs-larc-en-ciel.json) |
 | Gekitotsu! Saikyou Pro Yakyuu Dream Battle | 220303 | [220303-gekitotsu-saikyou-pro-yakyuu-dream-battle.json](./220303-gekitotsu-saikyou-pro-yakyuu-dream-battle.json) |
 | Gekitou Burning Pro Wrestling | 42593 | [42593-gekitou-burning-pro-wrestling.json](./42593-gekitou-burning-pro-wrestling.json) |
 | Gekka Ryouran Romance | 212736 | [212736-gekka-ryouran-romance.json](./212736-gekka-ryouran-romance.json) |
@@ -1421,6 +1422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeoJelly Space Odyssey Bundle | 284504 | [284504-geojelly-space-odyssey-bundle.json](./284504-geojelly-space-odyssey-bundle.json) |
 | Geom | 84515 | [84515-geom.json](./84515-geom.json) |
 | Geom | 93023 | [93023-geom.json](./93023-geom.json) |
+| Geom Cube | 44758 | [44758-geom-cube.json](./44758-geom-cube.json) |
 | GeoMaze | 298344 | [298344-geomaze.json](./298344-geomaze.json) |
 | Geometra - Join the Colors | 255055 | [255055-geometra-join-the-colors.json](./255055-geometra-join-the-colors.json) |
 | Geometric Feel the Beats | 224206 | [224206-geometric-feel-the-beats.json](./224206-geometric-feel-the-beats.json) |
