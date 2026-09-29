@@ -119,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Defense Force 5: Deluxe Edition | 118953 | [118953-earth-defense-force-5-deluxe-edition.json](./118953-earth-defense-force-5-deluxe-edition.json) |
 | Earth Defense Force 5: Mission Pack 2 - Super Challenge | 168223 | [168223-earth-defense-force-5-mission-pack-2-super-challenge.json](./168223-earth-defense-force-5-mission-pack-2-super-challenge.json) |
 | Earth Defense Force 5: Ranger Weapon Decoy Launcher (Pale Wing) | 168236 | [168236-earth-defense-force-5-ranger-weapon-decoy-launcher-pale-wing.json](./168236-earth-defense-force-5-ranger-weapon-decoy-launcher-pale-wing.json) |
+| Earth Defense Force 6 | 137427 | [137427-earth-defense-force-6.json](./137427-earth-defense-force-6.json) |
 | Earth Defense Force 6: Additional Mission Pack 2 - Visions of Malice | 319369 | [319369-earth-defense-force-6-additional-mission-pack-2-visions-of-malice.json](./319369-earth-defense-force-6-additional-mission-pack-2-visions-of-malice.json) |
 | Earth Defense Force: Insect Armageddon | 5584 | [5584-earth-defense-force-insect-armageddon.json](./5584-earth-defense-force-insect-armageddon.json) |
 | Earth Defense Force: Insect Armageddon - Aerialist Munitions Package | 226815 | [226815-earth-defense-force-insect-armageddon-aerialist-munitions-package.json](./226815-earth-defense-force-insect-armageddon-aerialist-munitions-package.json) |
@@ -513,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eden's Lair | 149497 | [149497-edens-lair.json](./149497-edens-lair.json) |
 | Eden's Last Sunrise | 190187 | [190187-edens-last-sunrise.json](./190187-edens-last-sunrise.json) |
 | Eden's Prison | 350517 | [350517-edens-prison.json](./350517-edens-prison.json) |
+| Eden* | 36272 | [36272-eden.json](./36272-eden.json) |
 | Edenbound | 295813 | [295813-edenbound.json](./295813-edenbound.json) |
 | Edengate: The Edge of Life | 217918 | [217918-edengate-the-edge-of-life.json](./217918-edengate-the-edge-of-life.json) |
 | Edengrall | 129102 | [129102-edengrall.json](./129102-edengrall.json) |
@@ -1774,6 +1776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigmarella | 190223 | [190223-enigmarella.json](./190223-enigmarella.json) |
 | Enigmata: Stellar War | 118317 | [118317-enigmata-stellar-war.json](./118317-enigmata-stellar-war.json) |
 | Enigmatica 2: Expert | 255663 | [255663-enigmatica-2-expert.json](./255663-enigmatica-2-expert.json) |
+| Enigmatis 3: The Shadow of Karkhala | 32291 | [32291-enigmatis-3-the-shadow-of-karkhala.json](./32291-enigmatis-3-the-shadow-of-karkhala.json) |
 | Enigmatis: The Ghosts of Maple Creek | 17137 | [17137-enigmatis-the-ghosts-of-maple-creek.json](./17137-enigmatis-the-ghosts-of-maple-creek.json) |
 | Enigmi.net | 327205 | [327205-enigmi-net.json](./327205-enigmi-net.json) |
 | Enigmo 2 | 66614 | [66614-enigmo-2.json](./66614-enigmo-2.json) |
