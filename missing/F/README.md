@@ -3448,6 +3448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Simulator 2d | 223935 | [223935-flight-simulator-2d.json](./223935-flight-simulator-2d.json) |
 | Flight Simulator Airplane Game | 261914 | [261914-flight-simulator-airplane-game.json](./261914-flight-simulator-airplane-game.json) |
 | Flight Simulator Xtreme | 88109 | [88109-flight-simulator-xtreme.json](./88109-flight-simulator-xtreme.json) |
+| Flight Simulator: VR | 30047 | [30047-flight-simulator-vr.json](./30047-flight-simulator-vr.json) |
 | Flight Squadron | 69887 | [69887-flight-squadron.json](./69887-flight-squadron.json) |
 | Flight Time | 347681 | [347681-flight-time.json](./347681-flight-time.json) |
 | Flight Unlimited 2K17 | 87550 | [87550-flight-unlimited-2k17.json](./87550-flight-unlimited-2k17.json) |
@@ -3597,6 +3598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flock of Dogs | 108283 | [108283-flock-of-dogs.json](./108283-flock-of-dogs.json) |
 | Flock of the Low God VR | 244723 | [244723-flock-of-the-low-god-vr.json](./244723-flock-of-the-low-god-vr.json) |
 | Flock Party | 250869 | [250869-flock-party.json](./250869-flock-party.json) |
+| Flock VR | 30108 | [30108-flock-vr.json](./30108-flock-vr.json) |
 | Flockland Island Crisis | 286594 | [286594-flockland-island-crisis.json](./286594-flockland-island-crisis.json) |
 | Flocks | 174193 | [174193-flocks.json](./174193-flocks.json) |
 | Flood | 12104 | [12104-flood.json](./12104-flood.json) |
@@ -4518,6 +4520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula Top | 199646 | [199646-formula-top.json](./199646-formula-top.json) |
 | Formula V20: 1985 | 304140 | [304140-formula-v20-1985.json](./304140-formula-v20-1985.json) |
 | Formula X | 99643 | [99643-formula-x.json](./99643-formula-x.json) |
+| FormulaNext | 30069 | [30069-formulanext.json](./30069-formulanext.json) |
 | ForRace GT2D | 275680 | [275680-forrace-gt2d.json](./275680-forrace-gt2d.json) |
 | Forrest Gump: Match 3 Game | 208389 | [208389-forrest-gump-match-3-game.json](./208389-forrest-gump-match-3-game.json) |
 | Forsake The Rake | 240240 | [240240-forsake-the-rake.json](./240240-forsake-the-rake.json) |
@@ -5164,6 +5167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freestead Castle Defense | 292553 | [292553-freestead-castle-defense.json](./292553-freestead-castle-defense.json) |
 | Freestyle Baseball 2 | 239890 | [239890-freestyle-baseball-2.json](./239890-freestyle-baseball-2.json) |
 | Freestyle Boardin' '99 | 23155 | [23155-freestyle-boardin-99.json](./23155-freestyle-boardin-99.json) |
+| FreeStyle Football | 30033 | [30033-freestyle-football.json](./30033-freestyle-football.json) |
 | Freestyle Football R | 213008 | [213008-freestyle-football-r.json](./213008-freestyle-football-r.json) |
 | Freestyle Football Z | 270774 | [270774-freestyle-football-z.json](./270774-freestyle-football-z.json) |
 | FreeStyle Street Basketball | 21423 | [21423-freestyle-street-basketball.json](./21423-freestyle-street-basketball.json) |
