@@ -1816,6 +1816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostwire | 91724 | [91724-ghostwire.json](./91724-ghostwire.json) |
 | Ghostwire Tokyo: Spider's Thread | 246125 | [246125-ghostwire-tokyo-spiders-thread.json](./246125-ghostwire-tokyo-spiders-thread.json) |
 | Ghostwire: Tokyo - Deluxe Edition | 192309 | [192309-ghostwire-tokyo-deluxe-edition.json](./192309-ghostwire-tokyo-deluxe-edition.json) |
+| Ghostwire: Tokyo - Prelude: The Corrupted Casefile | 194210 | [194210-ghostwire-tokyo-prelude-the-corrupted-casefile.json](./194210-ghostwire-tokyo-prelude-the-corrupted-casefile.json) |
 | Ghosty | 156049 | [156049-ghosty.json](./156049-ghosty.json) |
 | Ghosty Party | 232532 | [232532-ghosty-party.json](./232532-ghosty-party.json) |
 | Ghoul | 95860 | [95860-ghoul.json](./95860-ghoul.json) |
@@ -5000,6 +5001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gwonchong Sonyeo Kiugi | 234637 | [234637-gwonchong-sonyeo-kiugi.json](./234637-gwonchong-sonyeo-kiugi.json) |
 | Gyaku Katei Kyoushi: Kanojo wa Boku no Sensei ni Shite Dorei | 411593 | [411593-gyaku-katei-kyoushi-kanojo-wa-boku-no-sensei-ni-shite-dorei.json](./411593-gyaku-katei-kyoushi-kanojo-wa-boku-no-sensei-ni-shite-dorei.json) |
 | Gyakuten Hanafuda | 256331 | [256331-gyakuten-hanafuda.json](./256331-gyakuten-hanafuda.json) |
+| Gyakuten Kenji 2 | 84972 | [84972-gyakuten-kenji-2.json](./84972-gyakuten-kenji-2.json) |
 | Gyakuten Othellonia | 220312 | [220312-gyakuten-othellonia.json](./220312-gyakuten-othellonia.json) |
 | Gyakuten Puzzle Irekaeru Gyakuten | 256345 | [256345-gyakuten-puzzle-irekaeru-gyakuten.json](./256345-gyakuten-puzzle-irekaeru-gyakuten.json) |
 | Gyakuten Saiban | 221280 | [221280-gyakuten-saiban.json](./221280-gyakuten-saiban.json) |
