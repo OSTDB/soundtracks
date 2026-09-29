@@ -2963,6 +2963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bitmap Brothers Collection 2 | 325242 | [325242-the-bitmap-brothers-collection-2.json](./325242-the-bitmap-brothers-collection-2.json) |
 | The Bitsy Jim Jam | 184038 | [184038-the-bitsy-jim-jam.json](./184038-the-bitsy-jim-jam.json) |
 | The Bizarre Adventures of Woodruff and the Schnibble | 2226 | [2226-the-bizarre-adventures-of-woodruff-and-the-schnibble.json](./2226-the-bizarre-adventures-of-woodruff-and-the-schnibble.json) |
+| The Bizarre Creations of Keith the Magnificent | 34691 | [34691-the-bizarre-creations-of-keith-the-magnificent.json](./34691-the-bizarre-creations-of-keith-the-magnificent.json) |
 | The Black Bahr | 374588 | [374588-the-black-bahr.json](./374588-the-black-bahr.json) |
 | The Black Cat Magician | 187400 | [187400-the-black-cat-magician.json](./187400-the-black-cat-magician.json) |
 | The Black Door | 249843 | [249843-the-black-door.json](./249843-the-black-door.json) |
@@ -4129,6 +4130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Faceless Killer | 312182 | [312182-the-faceless-killer.json](./312182-the-faceless-killer.json) |
 | The Faceless Man | 301996 | [301996-the-faceless-man.json](./301996-the-faceless-man.json) |
 | The Faces of Evil Remastered | 206133 | [206133-the-faces-of-evil-remastered.json](./206133-the-faces-of-evil-remastered.json) |
+| The Facility | 34646 | [34646-the-facility.json](./34646-the-facility.json) |
 | The Fading of Nicole Wilson | 319711 | [319711-the-fading-of-nicole-wilson.json](./319711-the-fading-of-nicole-wilson.json) |
 | The Fae King Is My Roommate | 342076 | [342076-the-fae-king-is-my-roommate.json](./342076-the-fae-king-is-my-roommate.json) |
 | The Faery Tale Adventure | 12087 | [12087-the-faery-tale-adventure.json](./12087-the-faery-tale-adventure.json) |
@@ -5625,6 +5627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Sword and Fairy 5 | 57033 | [57033-the-legend-of-sword-and-fairy-5.json](./57033-the-legend-of-sword-and-fairy-5.json) |
 | The Legend of Sword and Fairy 6 | 57034 | [57034-the-legend-of-sword-and-fairy-6.json](./57034-the-legend-of-sword-and-fairy-6.json) |
 | The Legend of Sword and Fairy 7: Dreamlike World | 235192 | [235192-the-legend-of-sword-and-fairy-7-dreamlike-world.json](./235192-the-legend-of-sword-and-fairy-7-dreamlike-world.json) |
+| The Legend of Tango | 34641 | [34641-the-legend-of-tango.json](./34641-the-legend-of-tango.json) |
 | The Legend of The Artifact | 59847 | [59847-the-legend-of-the-artifact.json](./59847-the-legend-of-the-artifact.json) |
 | The Legend of the Astera Stone | 300020 | [300020-the-legend-of-the-astera-stone.json](./300020-the-legend-of-the-astera-stone.json) |
 | The Legend of The Duck Knite | 117507 | [117507-the-legend-of-the-duck-knite.json](./117507-the-legend-of-the-duck-knite.json) |
@@ -6990,6 +6993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ripper | 282726 | [282726-the-ripper.json](./282726-the-ripper.json) |
 | The Rise | 289958 | [289958-the-rise.json](./289958-the-rise.json) |
 | The Rise and Fall of Odysseus Kent | 218992 | [218992-the-rise-and-fall-of-odysseus-kent.json](./218992-the-rise-and-fall-of-odysseus-kent.json) |
+| The Rise of Chubtan | 34631 | [34631-the-rise-of-chubtan.json](./34631-the-rise-of-chubtan.json) |
 | The Rise of the Dough | 301901 | [301901-the-rise-of-the-dough.json](./301901-the-rise-of-the-dough.json) |
 | The Rise of the Golden Idol | 279614 | [279614-the-rise-of-the-golden-idol.json](./279614-the-rise-of-the-golden-idol.json) |
 | The Rise of Tianling Sect | 369584 | [369584-the-rise-of-tianling-sect.json](./369584-the-rise-of-tianling-sect.json) |
@@ -7037,6 +7041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Roots: Gates of Chaos | 47566 | [47566-the-roots-gates-of-chaos.json](./47566-the-roots-gates-of-chaos.json) |
 | The Roottrees Are Dead | 276492 | [276492-the-roottrees-are-dead.json](./276492-the-roottrees-are-dead.json) |
 | The Roscoe: Who's Ya Daddy? | 183587 | [183587-the-roscoe-whos-ya-daddy.json](./183587-the-roscoe-whos-ya-daddy.json) |
+| The Rose and I | 34596 | [34596-the-rose-and-i.json](./34596-the-rose-and-i.json) |
 | The Rose Garden | 105113 | [105113-the-rose-garden.json](./105113-the-rose-garden.json) |
 | The Rose of Segunda | 101612 | [101612-the-rose-of-segunda.json](./101612-the-rose-of-segunda.json) |
 | The Rose Princess | 69308 | [69308-the-rose-princess.json](./69308-the-rose-princess.json) |
@@ -7605,6 +7610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Split | 229015 | [229015-the-split.json](./229015-the-split.json) |
 | The SpongeBob SquarePants Movie | 210725 | [210725-the-spongebob-squarepants-movie.json](./210725-the-spongebob-squarepants-movie.json) |
 | The SpongeBob SquarePants Movie 3D | 135811 | [135811-the-spongebob-squarepants-movie-3d.json](./135811-the-spongebob-squarepants-movie-3d.json) |
+| The Spookening | 34602 | [34602-the-spookening.json](./34602-the-spookening.json) |
 | The Spooky Island | 394167 | [394167-the-spooky-island.json](./394167-the-spooky-island.json) |
 | The Spoon of Doom | 154432 | [154432-the-spoon-of-doom.json](./154432-the-spoon-of-doom.json) |
 | The Spoons | 71013 | [71013-the-spoons.json](./71013-the-spoons.json) |
@@ -9370,6 +9376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tictactoe Sets | 365868 | [365868-tictactoe-sets.json](./365868-tictactoe-sets.json) |
 | TicTako | 183453 | [183453-tictako.json](./183453-tictako.json) |
 | Ticuto | 310569 | [310569-ticuto.json](./310569-ticuto.json) |
+| Tidal Affair: Before the Storm | 34618 | [34618-tidal-affair-before-the-storm.json](./34618-tidal-affair-before-the-storm.json) |
 | Tidal Hopper | 336026 | [336026-tidal-hopper.json](./336026-tidal-hopper.json) |
 | Tidal Nexus Online | 310002 | [310002-tidal-nexus-online.json](./310002-tidal-nexus-online.json) |
 | Tidal Towns | 341863 | [341863-tidal-towns.json](./341863-tidal-towns.json) |
@@ -14095,6 +14102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TroubleDays | 129346 | [129346-troubledays.json](./129346-troubledays.json) |
 | Troublemaker | 153398 | [153398-troublemaker.json](./153398-troublemaker.json) |
 | Troubles in Silesia Country | 250013 | [250013-troubles-in-silesia-country.json](./250013-troubles-in-silesia-country.json) |
+| Troubles Land | 34584 | [34584-troubles-land.json](./34584-troubles-land.json) |
 | Troubleshooting | 221195 | [221195-troubleshooting.json](./221195-troubleshooting.json) |
 | Trough the lab | 232024 | [232024-trough-the-lab.json](./232024-trough-the-lab.json) |
 | Trouserheart | 61113 | [61113-trouserheart.json](./61113-trouserheart.json) |
