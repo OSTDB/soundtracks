@@ -2905,6 +2905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf With Your Friends: Starter Edition | 277884 | [277884-golf-with-your-friends-starter-edition.json](./277884-golf-with-your-friends-starter-edition.json) |
 | Golf With Your Friends: Ultimate Edition | 277883 | [277883-golf-with-your-friends-ultimate-edition.json](./277883-golf-with-your-friends-ultimate-edition.json) |
 | Golf-e | 170015 | [170015-golf-e.json](./170015-golf-e.json) |
+| Golf-ko Open | 56536 | [56536-golf-ko-open.json](./56536-golf-ko-open.json) |
 | Golf-Like | 385215 | [385215-golf-like.json](./385215-golf-like.json) |
 | Golf: Become Human | 181680 | [181680-golf-become-human.json](./181680-golf-become-human.json) |
 | Golf: Hole in One | 253579 | [253579-golf-hole-in-one.json](./253579-golf-hole-in-one.json) |
