@@ -575,6 +575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sammy Sosa High Heat Baseball 2001: Championship Edition | 206669 | [206669-sammy-sosa-high-heat-baseball-2001-championship-edition.json](./206669-sammy-sosa-high-heat-baseball-2001-championship-edition.json) |
 | Samochodowy Wojownik | 150529 | [150529-samochodowy-wojownik.json](./150529-samochodowy-wojownik.json) |
 | Samoliotik | 33317 | [33317-samoliotik.json](./33317-samoliotik.json) |
+| Samorost | 15731 | [15731-samorost.json](./15731-samorost.json) |
 | Samorost 1 | 148352 | [148352-samorost-1.json](./148352-samorost-1.json) |
 | Samorost 3 | 15537 | [15537-samorost-3.json](./15537-samorost-3.json) |
 | Samosbor | 130179 | [130179-samosbor.json](./130179-samosbor.json) |
@@ -3785,6 +3786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei III: Nocturne - HD Remaster | 337718 | [337718-shin-megami-tensei-iii-nocturne-hd-remaster.json](./337718-shin-megami-tensei-iii-nocturne-hd-remaster.json) |
 | Shin Megami Tensei III: Nocturne - HD Remaster: Chronicle Pack | 336554 | [336554-shin-megami-tensei-iii-nocturne-hd-remaster-chronicle-pack.json](./336554-shin-megami-tensei-iii-nocturne-hd-remaster-chronicle-pack.json) |
 | Shin Megami Tensei III: Nocturne Maniax Chronicle Edition | 231375 | [231375-shin-megami-tensei-iii-nocturne-maniax-chronicle-edition.json](./231375-shin-megami-tensei-iii-nocturne-maniax-chronicle-edition.json) |
+| Shin Megami Tensei IV | 6886 | [6886-shin-megami-tensei-iv.json](./6886-shin-megami-tensei-iv.json) |
 | Shin Megami Tensei V: A Goddess in Training | 238054 | [238054-shin-megami-tensei-v-a-goddess-in-training.json](./238054-shin-megami-tensei-v-a-goddess-in-training.json) |
 | Shin Megami Tensei V: The Rage of a Queen | 238058 | [238058-shin-megami-tensei-v-the-rage-of-a-queen.json](./238058-shin-megami-tensei-v-the-rage-of-a-queen.json) |
 | Shin Megami Tensei V: Vengeance - Mitama Dance of EXP | 315481 | [315481-shin-megami-tensei-v-vengeance-mitama-dance-of-exp.json](./315481-shin-megami-tensei-v-vengeance-mitama-dance-of-exp.json) |
@@ -12618,6 +12620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter 6: Year 3 Character Pass | 347670 | [347670-street-fighter-6-year-3-character-pass.json](./347670-street-fighter-6-year-3-character-pass.json) |
 | Street Fighter Alpha 3 | 242650 | [242650-street-fighter-alpha-3.json](./242650-street-fighter-alpha-3.json) |
 | Street Fighter Alpha 3 | 242651 | [242651-street-fighter-alpha-3.json](./242651-street-fighter-alpha-3.json) |
+| Street Fighter Alpha 3 | 6704 | [6704-street-fighter-alpha-3.json](./6704-street-fighter-alpha-3.json) |
 | Street Fighter Alpha 3 Upper | 219058 | [219058-street-fighter-alpha-3-upper.json](./219058-street-fighter-alpha-3-upper.json) |
 | Street Fighter Alpha 3: Xiang Long | 213628 | [213628-street-fighter-alpha-3-xiang-long.json](./213628-street-fighter-alpha-3-xiang-long.json) |
 | Street Fighter Alpha: Warriors' Dreams | 6702 | [6702-street-fighter-alpha-warriors-dreams.json](./6702-street-fighter-alpha-warriors-dreams.json) |
@@ -13599,6 +13602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunkissed | 313831 | [313831-sunkissed.json](./313831-sunkissed.json) |
 | SunKong | 390768 | [390768-sunkong.json](./390768-sunkong.json) |
 | Sunland Hike | 264613 | [264613-sunland-hike.json](./264613-sunland-hike.json) |
+| Sunless Sea | 8925 | [8925-sunless-sea.json](./8925-sunless-sea.json) |
 | Sunless Skies | 24427 | [24427-sunless-skies.json](./24427-sunless-skies.json) |
 | Sunlight In A Tin | 188602 | [188602-sunlight-in-a-tin.json](./188602-sunlight-in-a-tin.json) |
 | Sunlit's Star Fox Minihack | 233606 | [233606-sunlits-star-fox-minihack.json](./233606-sunlits-star-fox-minihack.json) |
@@ -13859,6 +13863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Conductor | 319125 | [319125-super-conductor.json](./319125-super-conductor.json) |
 | Super Console Kid | 296506 | [296506-super-console-kid.json](./296506-super-console-kid.json) |
 | Super Contra | 217546 | [217546-super-contra.json](./217546-super-contra.json) |
+| Super Contra | 4622 | [4622-super-contra.json](./4622-super-contra.json) |
 | Super Contra X | 48892 | [48892-super-contra-x.json](./48892-super-contra-x.json) |
 | Super Contraption 3D | 255048 | [255048-super-contraption-3d.json](./255048-super-contraption-3d.json) |
 | Super Converger | 177997 | [177997-super-converger.json](./177997-super-converger.json) |
@@ -14340,6 +14345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros: Merry Mountain Christmas Adventure - SMW Christmas Edition V3.0 | 229679 | [229679-super-mario-bros-merry-mountain-christmas-adventure-smw-christmas-edition-v3-0.json](./229679-super-mario-bros-merry-mountain-christmas-adventure-smw-christmas-edition-v3-0.json) |
 | Super Mario Bros: Revenge of Bowser | 250056 | [250056-super-mario-bros-revenge-of-bowser.json](./250056-super-mario-bros-revenge-of-bowser.json) |
 | Super Mario Bros. | 206934 | [206934-super-mario-bros.json](./206934-super-mario-bros.json) |
+| Super Mario Bros. | 222095 | [222095-super-mario-bros.json](./222095-super-mario-bros.json) |
 | Super Mario Bros. & The Midas Machine | 135098 | [135098-super-mario-bros-and-the-midas-machine.json](./135098-super-mario-bros-and-the-midas-machine.json) |
 | Super Mario Bros. + | 307664 | [307664-super-mario-bros.json](./307664-super-mario-bros.json) |
 | Super Mario Bros. + | 316417 | [316417-super-mario-bros.json](./316417-super-mario-bros.json) |
@@ -15120,6 +15126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperDoom | 198358 | [198358-superdoom.json](./198358-superdoom.json) |
 | SuperDungeon MegaCorp | 190995 | [190995-superdungeon-megacorp.json](./190995-superdungeon-megacorp.json) |
 | Superfighter | 325272 | [325272-superfighter.json](./325272-superfighter.json) |
+| Superfighters Deluxe | 10039 | [10039-superfighters-deluxe.json](./10039-superfighters-deluxe.json) |
 | Superfighters of Survival | 338292 | [338292-superfighters-of-survival.json](./338292-superfighters-of-survival.json) |
 | Superfluous Returnz | 173055 | [173055-superfluous-returnz.json](./173055-superfluous-returnz.json) |
 | Superfly Santa Claus | 62212 | [62212-superfly-santa-claus.json](./62212-superfly-santa-claus.json) |
