@@ -4260,6 +4260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE WrestleMania X8 | 4573 | [4573-wwe-wrestlemania-x8.json](./4573-wwe-wrestlemania-x8.json) |
 | WWF Attitude | 3643 | [3643-wwf-attitude.json](./3643-wwf-attitude.json) |
 | WWF No Mercy | 241491 | [241491-wwf-no-mercy.json](./241491-wwf-no-mercy.json) |
+| WWF No Mercy | 3644 | [3644-wwf-no-mercy.json](./3644-wwf-no-mercy.json) |
 | WWF Rage in the Cage | 5465 | [5465-wwf-rage-in-the-cage.json](./5465-wwf-rage-in-the-cage.json) |
 | WWF Raw | 19771 | [19771-wwf-raw.json](./19771-wwf-raw.json) |
 | WWF Raw: Wrestling's Rudest and Roughest! | 46249 | [46249-wwf-raw-wrestlings-rudest-and-roughest.json](./46249-wwf-raw-wrestlings-rudest-and-roughest.json) |
