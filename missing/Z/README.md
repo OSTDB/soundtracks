@@ -381,6 +381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Piece | 266279 | [266279-zero-piece.json](./266279-zero-piece.json) |
 | Zero Pilot | 42754 | [42754-zero-pilot.json](./42754-zero-pilot.json) |
 | Zero Pilot: Dai-san-ji Sekai Taisen 1946 | 59359 | [59359-zero-pilot-dai-san-ji-sekai-taisen-1946.json](./59359-zero-pilot-dai-san-ji-sekai-taisen-1946.json) |
+| Zero point 2 | 39815 | [39815-zero-point-2.json](./39815-zero-point-2.json) |
 | Zero Point Survivor | 371308 | [371308-zero-point-survivor.json](./371308-zero-point-survivor.json) |
 | Zero Protocol | 289338 | [289338-zero-protocol.json](./289338-zero-protocol.json) |
 | Zero Reflex: Black Eye Edition | 52107 | [52107-zero-reflex-black-eye-edition.json](./52107-zero-reflex-black-eye-edition.json) |
