@@ -3026,6 +3026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locksmith | 48906 | [48906-locksmith.json](./48906-locksmith.json) |
 | Loco | 138123 | [138123-loco.json](./138123-loco.json) |
 | Loco Bonobo | 192871 | [192871-loco-bonobo.json](./192871-loco-bonobo.json) |
+| Loco Loco | 58326 | [58326-loco-loco.json](./58326-loco-loco.json) |
 | Loco Motive | 141805 | [141805-loco-motive.json](./141805-loco-motive.json) |
 | LOCO Online | 361771 | [361771-loco-online.json](./361771-loco-online.json) |
 | Loco Parentis | 117810 | [117810-loco-parentis.json](./117810-loco-parentis.json) |
@@ -3506,6 +3507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Artifacts: Time Machine | 111226 | [111226-lost-artifacts-time-machine.json](./111226-lost-artifacts-time-machine.json) |
 | Lost Ascension | 260099 | [260099-lost-ascension.json](./260099-lost-ascension.json) |
 | Lost Assassin | 157574 | [157574-lost-assassin.json](./157574-lost-assassin.json) |
+| Lost Astronaut's Fringes of the Empire | 58906 | [58906-lost-astronauts-fringes-of-the-empire.json](./58906-lost-astronauts-fringes-of-the-empire.json) |
 | Lost at Sea | 209139 | [209139-lost-at-sea.json](./209139-lost-at-sea.json) |
 | Lost Away | 191571 | [191571-lost-away.json](./191571-lost-away.json) |
 | Lost Between | 232914 | [232914-lost-between.json](./232914-lost-between.json) |
