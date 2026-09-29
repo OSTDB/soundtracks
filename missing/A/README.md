@@ -1597,6 +1597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Against All Odds | 174102 | [174102-against-all-odds.json](./174102-against-all-odds.json) |
 | Against All Odds | 228719 | [228719-against-all-odds.json](./228719-against-all-odds.json) |
 | Against Ether | 173293 | [173293-against-ether.json](./173293-against-ether.json) |
+| Against the Storm | 147519 | [147519-against-the-storm.json](./147519-against-the-storm.json) |
 | Against the Storm: Keepers of the Stone | 315116 | [315116-against-the-storm-keepers-of-the-stone.json](./315116-against-the-storm-keepers-of-the-stone.json) |
 | Against the Storm: Nightwatchers | 356650 | [356650-against-the-storm-nightwatchers.json](./356650-against-the-storm-nightwatchers.json) |
 | Against the Wall | 63004 | [63004-against-the-wall.json](./63004-against-the-wall.json) |
@@ -5555,6 +5556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Area 51 | 200152 | [200152-area-51.json](./200152-area-51.json) |
 | Area 51 | 316990 | [316990-area-51.json](./316990-area-51.json) |
 | Area 51 | 39769 | [39769-area-51.json](./39769-area-51.json) |
+| Area 51 | 5729 | [5729-area-51.json](./5729-area-51.json) |
 | Area 51: Defence | 391044 | [391044-area-51-defence.json](./391044-area-51-defence.json) |
 | Area 51: Running Ninja Raid | 184087 | [184087-area-51-running-ninja-raid.json](./184087-area-51-running-ninja-raid.json) |
 | Area 51: Site 4 | 39836 | [39836-area-51-site-4.json](./39836-area-51-site-4.json) |
@@ -6400,6 +6402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Odyssey: The Fate of Atlantis | 113098 | [113098-assassins-creed-odyssey-the-fate-of-atlantis.json](./113098-assassins-creed-odyssey-the-fate-of-atlantis.json) |
 | Assassin's Creed Odyssey: The Fate of Atlantis - Episode 3: Judgment of Atlantis | 124163 | [124163-assassins-creed-odyssey-the-fate-of-atlantis-episode-3-judgment-of-atlantis.json](./124163-assassins-creed-odyssey-the-fate-of-atlantis-episode-3-judgment-of-atlantis.json) |
 | Assassin's Creed Odyssey: The Lost Tales of Greece | 241431 | [241431-assassins-creed-odyssey-the-lost-tales-of-greece.json](./241431-assassins-creed-odyssey-the-lost-tales-of-greece.json) |
+| Assassin's Creed Origins: The Curse of the Pharaohs | 17783 | [17783-assassins-creed-origins-the-curse-of-the-pharaohs.json](./17783-assassins-creed-origins-the-curse-of-the-pharaohs.json) |
 | Assassin's Creed Origins: The Hidden Ones | 22964 | [22964-assassins-creed-origins-the-hidden-ones.json](./22964-assassins-creed-origins-the-hidden-ones.json) |
 | Assassin's Creed Revelations: Mediterranean Traveler Map Pack | 167242 | [167242-assassins-creed-revelations-mediterranean-traveler-map-pack.json](./167242-assassins-creed-revelations-mediterranean-traveler-map-pack.json) |
 | Assassin's Creed Revelations: Special Edition | 268735 | [268735-assassins-creed-revelations-special-edition.json](./268735-assassins-creed-revelations-special-edition.json) |
