@@ -1669,6 +1669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC Basket 4.0 | 320947 | [320947-pc-basket-4-0.json](./320947-pc-basket-4-0.json) |
 | Pc Building Empire | 357424 | [357424-pc-building-empire.json](./357424-pc-building-empire.json) |
 | PC Building Nightmare | 389603 | [389603-pc-building-nightmare.json](./389603-pc-building-nightmare.json) |
+| PC Building Simulator 2 | 194247 | [194247-pc-building-simulator-2.json](./194247-pc-building-simulator-2.json) |
 | PC Building Simulator: Deadstick Case | 124783 | [124783-pc-building-simulator-deadstick-case.json](./124783-pc-building-simulator-deadstick-case.json) |
 | PC Building Simulator: Fractal Workshop | 159688 | [159688-pc-building-simulator-fractal-workshop.json](./159688-pc-building-simulator-fractal-workshop.json) |
 | PC Building Simulator: Good Company Case | 124811 | [124811-pc-building-simulator-good-company-case.json](./124811-pc-building-simulator-good-company-case.json) |
@@ -2190,6 +2191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 5: Goro Akechi Dating Simulator | 179107 | [179107-persona-5-goro-akechi-dating-simulator.json](./179107-persona-5-goro-akechi-dating-simulator.json) |
 | Persona 6 | 405088 | [405088-persona-6.json](./405088-persona-6.json) |
 | Persona Q2: New Cinema Labyrinth - Showtime Premium Edition | 136347 | [136347-persona-q2-new-cinema-labyrinth-showtime-premium-edition.json](./136347-persona-q2-new-cinema-labyrinth-showtime-premium-edition.json) |
+| Persona5: The Phantom X | 242315 | [242315-persona5-the-phantom-x.json](./242315-persona5-the-phantom-x.json) |
 | Personal Arcade Volume One | 79947 | [79947-personal-arcade-volume-one.json](./79947-personal-arcade-volume-one.json) |
 | Personal Chef to the Stars | 218707 | [218707-personal-chef-to-the-stars.json](./218707-personal-chef-to-the-stars.json) |
 | Personal Nightmare | 12194 | [12194-personal-nightmare.json](./12194-personal-nightmare.json) |
@@ -5041,6 +5043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Sacred Gold | 145626 | [145626-pokemon-sacred-gold.json](./145626-pokemon-sacred-gold.json) |
 | Pokemon Saiph 2 | 272886 | [272886-pokemon-saiph-2.json](./272886-pokemon-saiph-2.json) |
 | Pokémon Sapphire Version | 355533 | [355533-pokemon-sapphire-version.json](./355533-pokemon-sapphire-version.json) |
+| Pokémon Scarlet: The Hidden Treasure of Area Zero - Part 2: The Indigo Disk | 239932 | [239932-pokemon-scarlet-the-hidden-treasure-of-area-zero-part-2-the-indigo-disk.json](./239932-pokemon-scarlet-the-hidden-treasure-of-area-zero-part-2-the-indigo-disk.json) |
 | Pokémon Shield | 115653 | [115653-pokemon-shield.json](./115653-pokemon-shield.json) |
 | Pokémon Showdown | 87797 | [87797-pokemon-showdown.json](./87797-pokemon-showdown.json) |
 | Pokémon Sigma Platinum | 197927 | [197927-pokemon-sigma-platinum.json](./197927-pokemon-sigma-platinum.json) |
