@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Udom Nebdon | 180708 | [180708-udom-nebdon.json](./180708-udom-nebdon.json) |
 | UdoRin | 213963 | [213963-udorin.json](./213963-udorin.json) |
 | Udos sagner: Sveakampen | 64389 | [64389-udos-sagner-sveakampen.json](./64389-udos-sagner-sveakampen.json) |
+| Uebergame | 34673 | [34673-uebergame.json](./34673-uebergame.json) |
 | UEDI: Shadow of the Citadel | 129801 | [129801-uedi-shadow-of-the-citadel.json](./129801-uedi-shadow-of-the-citadel.json) |
 | UEFA 2000 | 282707 | [282707-uefa-2000.json](./282707-uefa-2000.json) |
 | UEFA 2001 | 237507 | [237507-uefa-2001.json](./237507-uefa-2001.json) |
