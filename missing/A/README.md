@@ -1348,6 +1348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of Megara: Demeter's Cat-astrophe | 149549 | [149549-adventures-of-megara-demeters-cat-astrophe.json](./149549-adventures-of-megara-demeters-cat-astrophe.json) |
 | Adventures of Mike | 101344 | [101344-adventures-of-mike.json](./101344-adventures-of-mike.json) |
 | Adventures of Pipi 2: Save Hype | 101639 | [101639-adventures-of-pipi-2-save-hype.json](./101639-adventures-of-pipi-2-save-hype.json) |
+| Adventures of Robinson Crusoe | 36128 | [36128-adventures-of-robinson-crusoe.json](./36128-adventures-of-robinson-crusoe.json) |
 | Adventures of Ruby Rabbit | 211702 | [211702-adventures-of-ruby-rabbit.json](./211702-adventures-of-ruby-rabbit.json) |
 | Adventures of Samuel: The Worst Game Ever Made | 196160 | [196160-adventures-of-samuel-the-worst-game-ever-made.json](./196160-adventures-of-samuel-the-worst-game-ever-made.json) |
 | Adventures of Tara | 393119 | [393119-adventures-of-tara.json](./393119-adventures-of-tara.json) |
@@ -3852,6 +3853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angels Blue Collection | 52579 | [52579-angels-blue-collection.json](./52579-angels-blue-collection.json) |
 | Angels of Amsterdam | 223488 | [223488-angels-of-amsterdam.json](./223488-angels-of-amsterdam.json) |
 | Angels of Death Episode.Eddie | 137047 | [137047-angels-of-death-episode-eddie.json](./137047-angels-of-death-episode-eddie.json) |
+| Angels of Fasaria | 36110 | [36110-angels-of-fasaria.json](./36110-angels-of-fasaria.json) |
 | Angels vs. Devils | 72046 | [72046-angels-vs-devils.json](./72046-angels-vs-devils.json) |
 | Angenehm Platz -Kleiner Garten Sie Erstellen | 82060 | [82060-angenehm-platz-kleiner-garten-sie-erstellen.json](./82060-angenehm-platz-kleiner-garten-sie-erstellen.json) |
 | Anger of Stick 4 | 237643 | [237643-anger-of-stick-4.json](./237643-anger-of-stick-4.json) |
