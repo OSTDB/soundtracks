@@ -1346,6 +1346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Arthur: Fallen Champions | 10484 | [10484-king-arthur-fallen-champions.json](./10484-king-arthur-fallen-champions.json) |
 | King Arthur: Legends Rise | 244483 | [244483-king-arthur-legends-rise.json](./244483-king-arthur-legends-rise.json) |
 | King Arthur: Legion IX | 285440 | [285440-king-arthur-legion-ix.json](./285440-king-arthur-legion-ix.json) |
+| King Arthur's Heir | 23970 | [23970-king-arthurs-heir.json](./23970-king-arthurs-heir.json) |
 | King Arthur's K.O.R.T. | 69839 | [69839-king-arthurs-k-o-r-t.json](./69839-king-arthurs-k-o-r-t.json) |
 | King Boo's Revenge PC | 378293 | [378293-king-boos-revenge-pc.json](./378293-king-boos-revenge-pc.json) |
 | King Boo's Seven Towers | 313302 | [313302-king-boos-seven-towers.json](./313302-king-boos-seven-towers.json) |
@@ -1457,6 +1458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Helper | 173039 | [173039-kings-helper.json](./173039-kings-helper.json) |
 | King's Knight | 307938 | [307938-kings-knight.json](./307938-kings-knight.json) |
 | King's Knight Special | 307937 | [307937-kings-knight-special.json](./307937-kings-knight-special.json) |
+| King's Knight: Wrath of the Dark Dragon | 24010 | [24010-kings-knight-wrath-of-the-dark-dragon.json](./24010-kings-knight-wrath-of-the-dark-dragon.json) |
 | King's League II | 113688 | [113688-kings-league-ii.json](./113688-kings-league-ii.json) |
 | King's Mug | 393138 | [393138-kings-mug.json](./393138-kings-mug.json) |
 | King's Path Solitaire | 201053 | [201053-kings-path-solitaire.json](./201053-kings-path-solitaire.json) |
