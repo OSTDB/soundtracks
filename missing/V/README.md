@@ -426,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vapor World: Over the Mind | 172712 | [172712-vapor-world-over-the-mind.json](./172712-vapor-world-over-the-mind.json) |
 | VaporLight: Drifter | 186267 | [186267-vaporlight-drifter.json](./186267-vaporlight-drifter.json) |
 | VaporPunk | 334309 | [334309-vaporpunk.json](./334309-vaporpunk.json) |
+| Vaporum | 56969 | [56969-vaporum.json](./56969-vaporum.json) |
 | Vaporwave Battler | 350522 | [350522-vaporwave-battler.json](./350522-vaporwave-battler.json) |
 | Vaporwave World | 130202 | [130202-vaporwave-world.json](./130202-vaporwave-world.json) |
 | Vapour | 35849 | [35849-vapour.json](./35849-vapour.json) |
