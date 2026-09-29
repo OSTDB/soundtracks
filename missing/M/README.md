@@ -1322,6 +1322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mandragora Seeker in the Creep Zone | 329200 | [329200-mandragora-seeker-in-the-creep-zone.json](./329200-mandragora-seeker-in-the-creep-zone.json) |
 | Mandragora: Whispers of the Witch Tree | 191427 | [191427-mandragora-whispers-of-the-witch-tree.json](./191427-mandragora-whispers-of-the-witch-tree.json) |
 | Mandragora: Whispers of the Witch Tree - Digital Deluxe Edition | 362373 | [362373-mandragora-whispers-of-the-witch-tree-digital-deluxe-edition.json](./362373-mandragora-whispers-of-the-witch-tree-digital-deluxe-edition.json) |
+| Mandragore | 13013 | [13013-mandragore.json](./13013-mandragore.json) |
 | Mandrake Boys | 202398 | [202398-mandrake-boys.json](./202398-mandrake-boys.json) |
 | Mandrake Girls: Garden of Secret | 202399 | [202399-mandrake-girls-garden-of-secret.json](./202399-mandrake-girls-garden-of-secret.json) |
 | Mandy's Room 2: Naughty By Nature | 367014 | [367014-mandys-room-2-naughty-by-nature.json](./367014-mandys-room-2-naughty-by-nature.json) |
@@ -4182,6 +4183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mess Adventures 2 | 187819 | [187819-mess-adventures-2.json](./187819-mess-adventures-2.json) |
 | Mess Cleanup | 166765 | [166765-mess-cleanup.json](./166765-mess-cleanup.json) |
 | Message From Aliens | 415077 | [415077-message-from-aliens.json](./415077-message-from-aliens.json) |
+| Message from Andromeda | 13014 | [13014-message-from-andromeda.json](./13014-message-from-andromeda.json) |
 | Message Quest | 13665 | [13665-message-quest.json](./13665-message-quest.json) |
 | Messiah: The Road of Conviction | 145602 | [145602-messiah-the-road-of-conviction.json](./145602-messiah-the-road-of-conviction.json) |
 | Messier111 | 169363 | [169363-messier111.json](./169363-messier111.json) |
@@ -6027,6 +6029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission Impossible III | 264084 | [264084-mission-impossible-iii.json](./264084-mission-impossible-iii.json) |
 | Mission in Snowdriftland | 143095 | [143095-mission-in-snowdriftland.json](./143095-mission-in-snowdriftland.json) |
 | Mission In Space | 221755 | [221755-mission-in-space.json](./221755-mission-in-space.json) |
+| Mission Jupiter | 13015 | [13015-mission-jupiter.json](./13015-mission-jupiter.json) |
 | Mission Mars | 147390 | [147390-mission-mars.json](./147390-mission-mars.json) |
 | Mission Mars | 263479 | [263479-mission-mars.json](./263479-mission-mars.json) |
 | Mission Mars Mobile | 213047 | [213047-mission-mars-mobile.json](./213047-mission-mars-mobile.json) |
@@ -7381,9 +7384,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonstuck | 195152 | [195152-moonstuck.json](./195152-moonstuck.json) |
 | Moontales Picbook | 359999 | [359999-moontales-picbook.json](./359999-moontales-picbook.json) |
 | Moontide | 177955 | [177955-moontide.json](./177955-moontide.json) |
+| Moontorc | 13016 | [13016-moontorc.json](./13016-moontorc.json) |
 | Moontouched | 347880 | [347880-moontouched.json](./347880-moontouched.json) |
 | Moontrain | 205573 | [205573-moontrain.json](./205573-moontrain.json) |
 | Moonwakers | 293154 | [293154-moonwakers.json](./293154-moonwakers.json) |
+| Moonwalker | 13017 | [13017-moonwalker.json](./13017-moonwalker.json) |
 | Moonwalker: The Computer Game | 67952 | [67952-moonwalker-the-computer-game.json](./67952-moonwalker-the-computer-game.json) |
 | Moony Mayhem: Cheeks Unleashed | 406818 | [406818-moony-mayhem-cheeks-unleashed.json](./406818-moony-mayhem-cheeks-unleashed.json) |
 | Moony: Black_Lotus | 326226 | [326226-moony-black-lotus.json](./326226-moony-black-lotus.json) |
@@ -7438,6 +7443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mordheim: City of the Damned - Witch Hunters | 53369 | [53369-mordheim-city-of-the-damned-witch-hunters.json](./53369-mordheim-city-of-the-damned-witch-hunters.json) |
 | Mordheim: City of the Damned - Wolf-Priest of Ulric | 53368 | [53368-mordheim-city-of-the-damned-wolf-priest-of-ulric.json](./53368-mordheim-city-of-the-damned-wolf-priest-of-ulric.json) |
 | Mordheim: Warband Skirmish | 34295 | [34295-mordheim-warband-skirmish.json](./34295-mordheim-warband-skirmish.json) |
+| Mordon's Quest | 13018 | [13018-mordons-quest.json](./13018-mordons-quest.json) |
 | More and More | 113057 | [113057-more-and-more.json](./113057-more-and-more.json) |
 | More Bloons | 261910 | [261910-more-bloons.json](./261910-more-bloons.json) |
 | More Cookies! | 105534 | [105534-more-cookies.json](./105534-more-cookies.json) |
