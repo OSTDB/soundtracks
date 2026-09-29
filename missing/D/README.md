@@ -1624,6 +1624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Rising 2 | 496 | [496-dead-rising-2.json](./496-dead-rising-2.json) |
 | Dead Rising 2: Case West | 21764 | [21764-dead-rising-2-case-west.json](./21764-dead-rising-2-case-west.json) |
 | Dead Rising 2: Case Zero | 20409 | [20409-dead-rising-2-case-zero.json](./20409-dead-rising-2-case-zero.json) |
+| Dead Rising 2: Off the Record | 5924 | [5924-dead-rising-2-off-the-record.json](./5924-dead-rising-2-off-the-record.json) |
 | Dead Rising 3: Operation Broken Eagle | 20933 | [20933-dead-rising-3-operation-broken-eagle.json](./20933-dead-rising-3-operation-broken-eagle.json) |
 | Dead Rising 4: Capcom Heroes | 202965 | [202965-dead-rising-4-capcom-heroes.json](./202965-dead-rising-4-capcom-heroes.json) |
 | Dead Rising 4: Deluxe Edition | 52871 | [52871-dead-rising-4-deluxe-edition.json](./52871-dead-rising-4-deluxe-edition.json) |
@@ -3516,6 +3517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dewdrop | 379048 | [379048-dewdrop.json](./379048-dewdrop.json) |
 | Dewdrop Dynasty | 144260 | [144260-dewdrop-dynasty.json](./144260-dewdrop-dynasty.json) |
 | Dewy's Adventure | 248737 | [248737-dewys-adventure.json](./248737-dewys-adventure.json) |
+| Dex | 16925 | [16925-dex.json](./16925-dex.json) |
 | DEX : Speed Run - Level Maker - World Records | 380430 | [380430-dex-speed-run-level-maker-world-records.json](./380430-dex-speed-run-level-maker-world-records.json) |
 | Dex & Akane | 315824 | [315824-dex-and-akane.json](./315824-dex-and-akane.json) |
 | Dexlinhale | 125963 | [125963-dexlinhale.json](./125963-dexlinhale.json) |
