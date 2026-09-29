@@ -830,6 +830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard to be a God | 20779 | [20779-hard-to-be-a-god.json](./20779-hard-to-be-a-god.json) |
 | Hard to be a King | 120854 | [120854-hard-to-be-a-king.json](./120854-hard-to-be-a-king.json) |
 | Hard Truck | 94917 | [94917-hard-truck.json](./94917-hard-truck.json) |
+| Hard Truck: Road to Victory | 28143 | [28143-hard-truck-road-to-victory.json](./28143-hard-truck-road-to-victory.json) |
 | Hard Vacuum | 132627 | [132627-hard-vacuum.json](./132627-hard-vacuum.json) |
 | Hard West | 7675 | [7675-hard-west.json](./7675-hard-west.json) |
 | Hard West 2 | 116014 | [116014-hard-west-2.json](./116014-hard-west-2.json) |
@@ -3479,6 +3480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higurashi no Naku Koro ni: Kuradashi-hen | 321476 | [321476-higurashi-no-naku-koro-ni-kuradashi-hen.json](./321476-higurashi-no-naku-koro-ni-kuradashi-hen.json) |
 | Higurashi When They Cry | 9700 | [9700-higurashi-when-they-cry.json](./9700-higurashi-when-they-cry.json) |
 | Higurashi When They Cry Hou - Console Arcs | 347709 | [347709-higurashi-when-they-cry-hou-console-arcs.json](./347709-higurashi-when-they-cry-hou-console-arcs.json) |
+| Higurashi When They Cry Hou: Ch.2 Watanagashi | 34268 | [34268-higurashi-when-they-cry-hou-ch-2-watanagashi.json](./34268-higurashi-when-they-cry-hou-ch-2-watanagashi.json) |
 | Higurashi When They Cry Hou: Ch.4 Himatsubushi | 31363 | [31363-higurashi-when-they-cry-hou-ch-4-himatsubushi.json](./31363-higurashi-when-they-cry-hou-ch-4-himatsubushi.json) |
 | Higurashi When They Cry Hou: Ch.5 Meakashi | 29837 | [29837-higurashi-when-they-cry-hou-ch-5-meakashi.json](./29837-higurashi-when-they-cry-hou-ch-5-meakashi.json) |
 | Higurashi When They Cry Hou: Ch.7 Minagoroshi | 120148 | [120148-higurashi-when-they-cry-hou-ch-7-minagoroshi.json](./120148-higurashi-when-they-cry-hou-ch-7-minagoroshi.json) |
