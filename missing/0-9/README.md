@@ -1056,6 +1056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4RC4N01D 3: Cold Space | 89410 | [89410-4rc4n01d-3-cold-space.json](./89410-4rc4n01d-3-cold-space.json) |
 | 4Spaces | 259550 | [259550-4spaces.json](./259550-4spaces.json) |
 | 4Tacos | 276274 | [276274-4tacos.json](./276274-4tacos.json) |
+| 4Team | 31104 | [31104-4team.json](./31104-4team.json) |
 | 4th Era: The RuneChild | 120320 | [120320-4th-era-the-runechild.json](./120320-4th-era-the-runechild.json) |
 | 4th Generation Warfare | 128944 | [128944-4th-generation-warfare.json](./128944-4th-generation-warfare.json) |
 | 4th Generation Warfare: Commando Unit | 196056 | [196056-4th-generation-warfare-commando-unit.json](./196056-4th-generation-warfare-commando-unit.json) |
