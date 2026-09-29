@@ -3899,6 +3899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship Shape | 263590 | [263590-ship-shape.json](./263590-ship-shape.json) |
 | Ship Sim 2020 | 146819 | [146819-ship-sim-2020.json](./146819-ship-sim-2020.json) |
 | Ship Simulator | 327584 | [327584-ship-simulator.json](./327584-ship-simulator.json) |
+| Ship Simulator 2006: Collector's Edition | 51361 | [51361-ship-simulator-2006-collectors-edition.json](./51361-ship-simulator-2006-collectors-edition.json) |
 | Ship Simulator 2008: Collector's Edition | 54390 | [54390-ship-simulator-2008-collectors-edition.json](./54390-ship-simulator-2008-collectors-edition.json) |
 | Ship Simulator Extremes: Cargo Vessel | 10824 | [10824-ship-simulator-extremes-cargo-vessel.json](./10824-ship-simulator-extremes-cargo-vessel.json) |
 | Ship Simulator Extremes: Cargo Vessel | 10825 | [10825-ship-simulator-extremes-cargo-vessel.json](./10825-ship-simulator-extremes-cargo-vessel.json) |
@@ -4994,6 +4995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simulation Training Room: Massacre | 295545 | [295545-simulation-training-room-massacre.json](./295545-simulation-training-room-massacre.json) |
 | Simulation World | 157573 | [157573-simulation-world.json](./157573-simulation-world.json) |
 | Simulator Bundle: Gas Station Simulator and Barn Finders | 265190 | [265190-simulator-bundle-gas-station-simulator-and-barn-finders.json](./265190-simulator-bundle-gas-station-simulator-and-barn-finders.json) |
+| Simulator gas station | 51414 | [51414-simulator-gas-station.json](./51414-simulator-gas-station.json) |
 | Simulator Mega Pack: Fishing, Soldier, Bear, Shark & Truck Mechanic | 401134 | [401134-simulator-mega-pack-fishing-soldier-bear-shark-and-truck-mechanic.json](./401134-simulator-mega-pack-fishing-soldier-bear-shark-and-truck-mechanic.json) |
 | Simulator of Ukraine 1991 | 265097 | [265097-simulator-of-ukraine-1991.json](./265097-simulator-of-ukraine-1991.json) |
 | Simulator of НЗllo Neighbor | 193852 | [193852-simulator-of-llo-neighbor.json](./193852-simulator-of-llo-neighbor.json) |
@@ -5391,6 +5393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski on Neon HD | 108599 | [108599-ski-on-neon-hd.json](./108599-ski-on-neon-hd.json) |
 | Ski Race | 64365 | [64365-ski-race.json](./64365-ski-race.json) |
 | Ski Racing 2005 | 54362 | [54362-ski-racing-2005.json](./54362-ski-racing-2005.json) |
+| Ski Resort Extreme | 51400 | [51400-ski-resort-extreme.json](./51400-ski-resort-extreme.json) |
 | Ski Resort Mogul | 54363 | [54363-ski-resort-mogul.json](./54363-ski-resort-mogul.json) |
 | Ski Rodeo | 52004 | [52004-ski-rodeo.json](./52004-ski-rodeo.json) |
 | Ski Run | 159047 | [159047-ski-run.json](./159047-ski-run.json) |
@@ -6287,6 +6290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Frog | 246480 | [246480-smart-frog.json](./246480-smart-frog.json) |
 | Smart Frog | 358941 | [358941-smart-frog.json](./358941-smart-frog.json) |
 | Smart Games Puzzle Challenge 2 | 73256 | [73256-smart-games-puzzle-challenge-2.json](./73256-smart-games-puzzle-challenge-2.json) |
+| Smart Games Word Puzzles #1 | 51376 | [51376-smart-games-word-puzzles-1.json](./51376-smart-games-word-puzzles-1.json) |
 | Smart Gecko | 117794 | [117794-smart-gecko.json](./117794-smart-gecko.json) |
 | Smart Girl's Playhouse Mini | 21011 | [21011-smart-girls-playhouse-mini.json](./21011-smart-girls-playhouse-mini.json) |
 | Smart Girl's: Magical Book Club | 124047 | [124047-smart-girls-magical-book-club.json](./124047-smart-girls-magical-book-club.json) |
@@ -8534,6 +8538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Bross | 348832 | [348832-space-bross.json](./348832-space-bross.json) |
 | Space Bubble Cat | 145476 | [145476-space-bubble-cat.json](./145476-space-bubble-cat.json) |
 | Space Bugs | 110544 | [110544-space-bugs.json](./110544-space-bugs.json) |
+| Space Bunnies Must Die! | 51371 | [51371-space-bunnies-must-die.json](./51371-space-bunnies-must-die.json) |
 | Space Bunny Explorers | 208596 | [208596-space-bunny-explorers.json](./208596-space-bunny-explorers.json) |
 | Space Bust-A-Move | 20484 | [20484-space-bust-a-move.json](./20484-space-bust-a-move.json) |
 | Space Cactus Canyon | 292070 | [292070-space-cactus-canyon.json](./292070-space-cactus-canyon.json) |
@@ -10246,6 +10251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squadika | 401693 | [401693-squadika.json](./401693-squadika.json) |
 | Squadron | 172523 | [172523-squadron.json](./172523-squadron.json) |
 | Squadron II | 116444 | [116444-squadron-ii.json](./116444-squadron-ii.json) |
+| Squadron: Sky Guardians | 51420 | [51420-squadron-sky-guardians.json](./51420-squadron-sky-guardians.json) |
 | Squally | 111118 | [111118-squally.json](./111118-squally.json) |
 | Squarcat | 124056 | [124056-squarcat.json](./124056-squarcat.json) |
 | Square | 195626 | [195626-square.json](./195626-square.json) |
@@ -10780,6 +10786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek First Contact | 362902 | [362902-star-trek-first-contact.json](./362902-star-trek-first-contact.json) |
 | Star Trek II: The Wrath of Khan | 218425 | [218425-star-trek-ii-the-wrath-of-khan.json](./218425-star-trek-ii-the-wrath-of-khan.json) |
 | Star Trek III | 69258 | [69258-star-trek-iii.json](./69258-star-trek-iii.json) |
+| Star Trek Klingon | 51380 | [51380-star-trek-klingon.json](./51380-star-trek-klingon.json) |
 | Star Trek Online | 7584 | [7584-star-trek-online.json](./7584-star-trek-online.json) |
 | Star Trek Online: Agents of Yesterday | 23285 | [23285-star-trek-online-agents-of-yesterday.json](./23285-star-trek-online-agents-of-yesterday.json) |
 | Star Trek Online: Awakening | 121530 | [121530-star-trek-online-awakening.json](./121530-star-trek-online-awakening.json) |
@@ -12555,6 +12562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Team Gladius | 142274 | [142274-strike-team-gladius.json](./142274-strike-team-gladius.json) |
 | Strike Team Online | 174838 | [174838-strike-team-online.json](./174838-strike-team-online.json) |
 | Strike the Planets! | 226765 | [226765-strike-the-planets.json](./226765-strike-the-planets.json) |
+| Strike Vector EX Open Beta | 51433 | [51433-strike-vector-ex-open-beta.json](./51433-strike-vector-ex-open-beta.json) |
 | Strike Wing: Raptor Rising | 3148 | [3148-strike-wing-raptor-rising.json](./3148-strike-wing-raptor-rising.json) |
 | Strike Witches: Doki! Otome Darake no Jouriku Sakusen | 69278 | [69278-strike-witches-doki-otome-darake-no-jouriku-sakusen.json](./69278-strike-witches-doki-otome-darake-no-jouriku-sakusen.json) |
 | Strike Witches: Soukuu no Dengekisen - Shin Taichou Funtousuru! | 124061 | [124061-strike-witches-soukuu-no-dengekisen-shin-taichou-funtousuru.json](./124061-strike-witches-soukuu-no-dengekisen-shin-taichou-funtousuru.json) |
