@@ -263,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: The Evasion | 222287 | [222287-half-life-the-evasion.json](./222287-half-life-the-evasion.json) |
 | Half-Life: The Infected | 196732 | [196732-half-life-the-infected.json](./196732-half-life-the-infected.json) |
 | Half-Life: Through The City | 309106 | [309106-half-life-through-the-city.json](./309106-half-life-through-the-city.json) |
+| Half-Life: Uplink | 93071 | [93071-half-life-uplink.json](./93071-half-life-uplink.json) |
 | Half-Life: Visitors | 221854 | [221854-half-life-visitors.json](./221854-half-life-visitors.json) |
 | Half-Life: VR Mod | 221166 | [221166-half-life-vr-mod.json](./221166-half-life-vr-mod.json) |
 | Half-Life: Xen-Warrior | 221808 | [221808-half-life-xen-warrior.json](./221808-half-life-xen-warrior.json) |
@@ -1173,6 +1174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted House | 25196 | [25196-haunted-house.json](./25196-haunted-house.json) |
 | Haunted House | 258483 | [258483-haunted-house.json](./258483-haunted-house.json) |
 | Haunted House | 276244 | [276244-haunted-house.json](./276244-haunted-house.json) |
+| Haunted House | 4909 | [4909-haunted-house.json](./4909-haunted-house.json) |
 | Haunted House Renovator | 211941 | [211941-haunted-house-renovator.json](./211941-haunted-house-renovator.json) |
 | Haunted House Renovator: Prologue | 316421 | [316421-haunted-house-renovator-prologue.json](./316421-haunted-house-renovator-prologue.json) |
 | Haunted Ice Cream | 375940 | [375940-haunted-ice-cream.json](./375940-haunted-ice-cream.json) |
@@ -1770,6 +1772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helix Ball | 104651 | [104651-helix-ball.json](./104651-helix-ball.json) |
 | Helix Brawl | 168645 | [168645-helix-brawl.json](./168645-helix-brawl.json) |
 | Helix Fruit Jump | 316193 | [316193-helix-fruit-jump.json](./316193-helix-fruit-jump.json) |
+| Helix Jump | 89025 | [89025-helix-jump.json](./89025-helix-jump.json) |
 | Helix Jump 2 | 101536 | [101536-helix-jump-2.json](./101536-helix-jump-2.json) |
 | Helix Jump Ball | 106740 | [106740-helix-jump-ball.json](./106740-helix-jump-ball.json) |
 | Helix Jump Down | 102106 | [102106-helix-jump-down.json](./102106-helix-jump-down.json) |
@@ -5567,6 +5570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyena Simulator | 86848 | [86848-hyena-simulator.json](./86848-hyena-simulator.json) |
 | Hyena Squad | 175206 | [175206-hyena-squad.json](./175206-hyena-squad.json) |
 | Hyenas | 206103 | [206103-hyenas.json](./206103-hyenas.json) |
+| Hylics 2 | 98469 | [98469-hylics-2.json](./98469-hylics-2.json) |
 | Hymeno Striker: Akashicverse Minigame | 171597 | [171597-hymeno-striker-akashicverse-minigame.json](./171597-hymeno-striker-akashicverse-minigame.json) |
 | Hyokkori Hyoutan-jima: Takaramono Tocchae! | 346028 | [346028-hyokkori-hyoutan-jima-takaramono-tocchae.json](./346028-hyokkori-hyoutan-jima-takaramono-tocchae.json) |
 | Hyouji Gazou Henkou Kanou Typing | 301609 | [301609-hyouji-gazou-henkou-kanou-typing.json](./301609-hyouji-gazou-henkou-kanou-typing.json) |
@@ -5601,6 +5605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Hentai Elf Attendant | 245927 | [245927-hyper-hentai-elf-attendant.json](./245927-hyper-hentai-elf-attendant.json) |
 | Hyper Hostess | 240888 | [240888-hyper-hostess.json](./240888-hyper-hostess.json) |
 | Hyper Light Breaker | 194965 | [194965-hyper-light-breaker.json](./194965-hyper-light-breaker.json) |
+| Hyper Light Drifter: Special Edition | 107295 | [107295-hyper-light-drifter-special-edition.json](./107295-hyper-light-drifter-special-edition.json) |
 | Hyper Lode Runner | 48980 | [48980-hyper-lode-runner.json](./48980-hyper-lode-runner.json) |
 | Hyper Mari World 6 | 200711 | [200711-hyper-mari-world-6.json](./200711-hyper-mari-world-6.json) |
 | Hyper Metroid Super | 349938 | [349938-hyper-metroid-super.json](./349938-hyper-metroid-super.json) |
