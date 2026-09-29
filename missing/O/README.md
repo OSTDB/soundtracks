@@ -1028,6 +1028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One By One | 195714 | [195714-one-by-one.json](./195714-one-by-one.json) |
 | One Card One Shot: Mafia | 244359 | [244359-one-card-one-shot-mafia.json](./244359-one-card-one-shot-mafia.json) |
 | One Click | 345122 | [345122-one-click.json](./345122-one-click.json) |
+| One Clone Left | 33270 | [33270-one-clone-left.json](./33270-one-clone-left.json) |
 | One Dark Night | 33065 | [33065-one-dark-night.json](./33065-one-dark-night.json) |
 | One Day After School | 270712 | [270712-one-day-after-school.json](./270712-one-day-after-school.json) |
 | One Day for Revenge | 104020 | [104020-one-day-for-revenge.json](./104020-one-day-for-revenge.json) |
@@ -1267,6 +1268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Way Home | 244491 | [244491-one-way-home.json](./244491-one-way-home.json) |
 | One Way to Die | 60205 | [60205-one-way-to-die.json](./60205-one-way-to-die.json) |
 | One Way to Die: Steam Edition | 90613 | [90613-one-way-to-die-steam-edition.json](./90613-one-way-to-die-steam-edition.json) |
+| One way to exit | 33284 | [33284-one-way-to-exit.json](./33284-one-way-to-exit.json) |
 | One Way Trip | 23280 | [23280-one-way-trip.json](./23280-one-way-trip.json) |
 | One Wee Robot | 392277 | [392277-one-wee-robot.json](./392277-one-wee-robot.json) |
 | One Week At Pan | 148416 | [148416-one-week-at-pan.json](./148416-one-week-at-pan.json) |
@@ -1903,6 +1905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Origin | 126648 | [126648-origin.json](./126648-origin.json) |
 | Origin Hunt | 180772 | [180772-origin-hunt.json](./180772-origin-hunt.json) |
 | Origin of Decay | 112498 | [112498-origin-of-decay.json](./112498-origin-of-decay.json) |
+| Origin of Destiny: Crimson Awakening | 33351 | [33351-origin-of-destiny-crimson-awakening.json](./33351-origin-of-destiny-crimson-awakening.json) |
 | Origin Space | 52281 | [52281-origin-space.json](./52281-origin-space.json) |
 | Original Frisbee Disc Sports: Ultimate & Golf | 21449 | [21449-original-frisbee-disc-sports-ultimate-and-golf.json](./21449-original-frisbee-disc-sports-ultimate-and-golf.json) |
 | Original Journey | 40968 | [40968-original-journey.json](./40968-original-journey.json) |
