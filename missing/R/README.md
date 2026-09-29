@@ -1565,6 +1565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebolt | 360062 | [360062-rebolt.json](./360062-rebolt.json) |
 | Reboot | 171611 | [171611-reboot.json](./171611-reboot.json) |
 | ReBoot | 219015 | [219015-reboot.json](./219015-reboot.json) |
+| ReBoot | 31091 | [31091-reboot.json](./31091-reboot.json) |
 | ReBoot | 51953 | [51953-reboot.json](./51953-reboot.json) |
 | Reboot Heroes | 292020 | [292020-reboot-heroes.json](./292020-reboot-heroes.json) |
 | Reborn | 301985 | [301985-reborn.json](./301985-reborn.json) |
@@ -1710,6 +1711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Baron History | 9411 | [9411-red-baron-history.json](./9411-red-baron-history.json) |
 | Red Baron Pack | 30255 | [30255-red-baron-pack.json](./30255-red-baron-pack.json) |
 | Red Baron: Mission Builder | 9224 | [9224-red-baron-mission-builder.json](./9224-red-baron-mission-builder.json) |
+| Red Barton and The Sky Pirates | 31052 | [31052-red-barton-and-the-sky-pirates.json](./31052-red-barton-and-the-sky-pirates.json) |
 | Red Bash | 187537 | [187537-red-bash.json](./187537-red-bash.json) |
 | Red Beard Labyrinth | 110823 | [110823-red-beard-labyrinth.json](./110823-red-beard-labyrinth.json) |
 | Red Bird Adventure: Classic Physics Puzzle | 237358 | [237358-red-bird-adventure-classic-physics-puzzle.json](./237358-red-bird-adventure-classic-physics-puzzle.json) |
