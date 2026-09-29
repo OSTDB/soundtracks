@@ -1247,6 +1247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unprotected | 323515 | [323515-unprotected.json](./323515-unprotected.json) |
 | Unquiet Grey | 374183 | [374183-unquiet-grey.json](./374183-unquiet-grey.json) |
 | UnQuollified | 404959 | [404959-unquollified.json](./404959-unquollified.json) |
+| Unrailed! | 115201 | [115201-unrailed.json](./115201-unrailed.json) |
 | Unravel Cyndy | 114949 | [114949-unravel-cyndy.json](./114949-unravel-cyndy.json) |
 | Unravel Lines Puzzle | 234049 | [234049-unravel-lines-puzzle.json](./234049-unravel-lines-puzzle.json) |
 | Unravel Two | 19241 | [19241-unravel-two.json](./19241-unravel-two.json) |
