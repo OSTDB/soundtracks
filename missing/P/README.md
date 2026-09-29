@@ -2418,6 +2418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasmat: The Endless Night HD | 108258 | [108258-phantasmat-the-endless-night-hd.json](./108258-phantasmat-the-endless-night-hd.json) |
 | Phantasos Now | 363059 | [363059-phantasos-now.json](./363059-phantasos-now.json) |
 | Phantasy Series Reference Opus | 285442 | [285442-phantasy-series-reference-opus.json](./285442-phantasy-series-reference-opus.json) |
+| Phantasy Star 0 | 21091 | [21091-phantasy-star-0.json](./21091-phantasy-star-0.json) |
 | Phantasy Star Classics | 136870 | [136870-phantasy-star-classics.json](./136870-phantasy-star-classics.json) |
 | Phantasy Star II | 1232 | [1232-phantasy-star-ii.json](./1232-phantasy-star-ii.json) |
 | Phantasy Star Nova | 42674 | [42674-phantasy-star-nova.json](./42674-phantasy-star-nova.json) |
@@ -7664,6 +7665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pump Press | 277299 | [277299-pump-press.json](./277299-pump-press.json) |
 | Pumped BMX Flow | 174894 | [174894-pumped-bmx-flow.json](./174894-pumped-bmx-flow.json) |
 | Pumped BMX Pro | 114796 | [114796-pumped-bmx-pro.json](./114796-pumped-bmx-pro.json) |
+| Pumped BMX+ | 20955 | [20955-pumped-bmx.json](./20955-pumped-bmx.json) |
 | Pumpkin Breaker | 126609 | [126609-pumpkin-breaker.json](./126609-pumpkin-breaker.json) |
 | Pumpkin Delivery | 242234 | [242234-pumpkin-delivery.json](./242234-pumpkin-delivery.json) |
 | Pumpkin Dog Islands | 119664 | [119664-pumpkin-dog-islands.json](./119664-pumpkin-dog-islands.json) |
