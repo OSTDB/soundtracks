@@ -1126,6 +1126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caribbean Disaster | 74056 | [74056-caribbean-disaster.json](./74056-caribbean-disaster.json) |
 | Caribbean Rhythms Lite | 232151 | [232151-caribbean-rhythms-lite.json](./232151-caribbean-rhythms-lite.json) |
 | Caribbean Stud | 246378 | [246378-caribbean-stud.json](./246378-caribbean-stud.json) |
+| Carimara: Beneath the Forlorn Limbs | 339618 | [339618-carimara-beneath-the-forlorn-limbs.json](./339618-carimara-beneath-the-forlorn-limbs.json) |
 | Caring Critter Bundle | 328565 | [328565-caring-critter-bundle.json](./328565-caring-critter-bundle.json) |
 | Cario | 220341 | [220341-cario.json](./220341-cario.json) |
 | Carious Weltling | 354450 | [354450-carious-weltling.json](./354450-carious-weltling.json) |
@@ -1719,6 +1720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Life | 230525 | [230525-cat-life.json](./230525-cat-life.json) |
 | Cat Life Simulator | 267486 | [267486-cat-life-simulator.json](./267486-cat-life-simulator.json) |
 | Cat Lobster Simulator | 253401 | [253401-cat-lobster-simulator.json](./253401-cat-lobster-simulator.json) |
+| Cat Mail Co. | 406739 | [406739-cat-mail-co.json](./406739-cat-mail-co.json) |
 | Cat Meat | 32911 | [32911-cat-meat.json](./32911-cat-meat.json) |
 | Cat Meme Clicker | 391214 | [391214-cat-meme-clicker.json](./391214-cat-meme-clicker.json) |
 | Cat MeowMart: Supermarket Simulator | 328567 | [328567-cat-meowmart-supermarket-simulator.json](./328567-cat-meowmart-supermarket-simulator.json) |
@@ -3067,6 +3069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Coop Invaders | 388753 | [388753-chicken-coop-invaders.json](./388753-chicken-coop-invaders.json) |
 | Chicken Defender | 166616 | [166616-chicken-defender.json](./166616-chicken-defender.json) |
 | Chicken Defense | 181398 | [181398-chicken-defense.json](./181398-chicken-defense.json) |
+| Chicken Derby | 391882 | [391882-chicken-derby.json](./391882-chicken-derby.json) |
 | Chicken Done | 273374 | [273374-chicken-done.json](./273374-chicken-done.json) |
 | Chicken Fall | 202648 | [202648-chicken-fall.json](./202648-chicken-fall.json) |
 | Chicken Farm 2K17 | 75924 | [75924-chicken-farm-2k17.json](./75924-chicken-farm-2k17.json) |
@@ -4214,6 +4217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cladun X3 | 317862 | [317862-cladun-x3.json](./317862-cladun-x3.json) |
 | Claim the Forest: Settling Peace | 399618 | [399618-claim-the-forest-settling-peace.json](./399618-claim-the-forest-settling-peace.json) |
 | Claims & Caverns | 414284 | [414284-claims-and-caverns.json](./414284-claims-and-caverns.json) |
+| Clair Obscur: Expedition 33 - Thank You Update | 381336 | [381336-clair-obscur-expedition-33-thank-you-update.json](./381336-clair-obscur-expedition-33-thank-you-update.json) |
 | Clair Obscur: Expedition 33 – Deluxe Edition | 333209 | [333209-clair-obscur-expedition-33-deluxe-edition.json](./333209-clair-obscur-expedition-33-deluxe-edition.json) |
 | Claire | 10082 | [10082-claire.json](./10082-claire.json) |
 | Claire Darksage and the Accursed Objects: Collector's Editon | 362828 | [362828-claire-darksage-and-the-accursed-objects-collectors-editon.json](./362828-claire-darksage-and-the-accursed-objects-collectors-editon.json) |
@@ -4465,6 +4469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click Space Miner | 31714 | [31714-click-space-miner.json](./31714-click-space-miner.json) |
 | Click the Ball! | 365716 | [365716-click-the-ball.json](./365716-click-the-ball.json) |
 | Click the Business | 111007 | [111007-click-the-business.json](./111007-click-the-business.json) |
+| Click the Button | 407167 | [407167-click-the-button.json](./407167-click-the-button.json) |
 | Click the Clown 2020 | 142437 | [142437-click-the-clown-2020.json](./142437-click-the-clown-2020.json) |
 | Click the Shape | 362476 | [362476-click-the-shape.json](./362476-click-the-shape.json) |
 | Click to 13 | 288334 | [288334-click-to-13.json](./288334-click-to-13.json) |
