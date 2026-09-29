@@ -119,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saboten Bombers | 40417 | [40417-saboten-bombers.json](./40417-saboten-bombers.json) |
 | Saboteur! | 112670 | [112670-saboteur.json](./112670-saboteur.json) |
 | Sabotris | 207293 | [207293-sabotris.json](./207293-sabotris.json) |
+| Sabre Wulf | 6582 | [6582-sabre-wulf.json](./6582-sabre-wulf.json) |
 | Sabreman Stampede | 175948 | [175948-sabreman-stampede.json](./175948-sabreman-stampede.json) |
 | Sabres of Infinity | 33439 | [33439-sabres-of-infinity.json](./33439-sabres-of-infinity.json) |
 | Sabrina the Animated Series: Magical Adventure | 186071 | [186071-sabrina-the-animated-series-magical-adventure.json](./186071-sabrina-the-animated-series-magical-adventure.json) |
@@ -1328,6 +1329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scavland | 339674 | [339674-scavland.json](./339674-scavland.json) |
 | Scelestum | 175922 | [175922-scelestum.json](./175922-scelestum.json) |
 | Scenario 5B | 171558 | [171558-scenario-5b.json](./171558-scenario-5b.json) |
+| Scene It? Box Office Smash | 7181 | [7181-scene-it-box-office-smash.json](./7181-scene-it-box-office-smash.json) |
 | Scene It? Comedy Movies | 66154 | [66154-scene-it-comedy-movies.json](./66154-scene-it-comedy-movies.json) |
 | Scene It? Doctor Who | 213945 | [213945-scene-it-doctor-who.json](./213945-scene-it-doctor-who.json) |
 | Scene It? Harry Potter | 66155 | [66155-scene-it-harry-potter.json](./66155-scene-it-harry-potter.json) |
@@ -3160,6 +3162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Warrior 2: Special Reserve Collector's Edition | 25772 | [25772-shadow-warrior-2-special-reserve-collectors-edition.json](./25772-shadow-warrior-2-special-reserve-collectors-edition.json) |
 | Shadow Warrior 3: Deluxe Edition | 193749 | [193749-shadow-warrior-3-deluxe-edition.json](./193749-shadow-warrior-3-deluxe-edition.json) |
 | Shadow Warrior Classic Complete | 51914 | [51914-shadow-warrior-classic-complete.json](./51914-shadow-warrior-classic-complete.json) |
+| Shadow Warriors | 6878 | [6878-shadow-warriors.json](./6878-shadow-warriors.json) |
 | Shadow Wars | 98553 | [98553-shadow-wars.json](./98553-shadow-wars.json) |
 | Shadow Wolf Mysteries: Curse of the Full Moon - Collector's Edition | 36461 | [36461-shadow-wolf-mysteries-curse-of-the-full-moon-collectors-edition.json](./36461-shadow-wolf-mysteries-curse-of-the-full-moon-collectors-edition.json) |
 | Shadow Wolf Mysteries: Cursed Wedding - Collector's Edition | 99620 | [99620-shadow-wolf-mysteries-cursed-wedding-collectors-edition.json](./99620-shadow-wolf-mysteries-cursed-wedding-collectors-edition.json) |
@@ -3902,6 +3905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Resonance Refrain: Premium Fan Box - Limited Edition | 212320 | [212320-shining-resonance-refrain-premium-fan-box-limited-edition.json](./212320-shining-resonance-refrain-premium-fan-box-limited-edition.json) |
 | Shining Song Starnova | 52062 | [52062-shining-song-starnova.json](./52062-shining-song-starnova.json) |
 | Shining Song Starnova: Idol Empire | 129476 | [129476-shining-song-starnova-idol-empire.json](./129476-shining-song-starnova-idol-empire.json) |
+| Shining Soul | 6593 | [6593-shining-soul.json](./6593-shining-soul.json) |
 | Shining Soul II | 6594 | [6594-shining-soul-ii.json](./6594-shining-soul-ii.json) |
 | Shining Stars 2: Mirror Madness | 132860 | [132860-shining-stars-2-mirror-madness.json](./132860-shining-stars-2-mirror-madness.json) |
 | Shining Stars 3: Sanctuary of the Star Comet | 132861 | [132861-shining-stars-3-sanctuary-of-the-star-comet.json](./132861-shining-stars-3-sanctuary-of-the-star-comet.json) |
@@ -6954,6 +6958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snot Put | 270761 | [270761-snot-put.json](./270761-snot-put.json) |
 | SnOut 2 | 192827 | [192827-snout-2.json](./192827-snout-2.json) |
 | Snout Clout | 184930 | [184930-snout-clout.json](./184930-snout-clout.json) |
+| Snow | 6749 | [6749-snow.json](./6749-snow.json) |
 | Snow Aces League | 371428 | [371428-snow-aces-league.json](./371428-snow-aces-league.json) |
 | Snow Angel | 264127 | [264127-snow-angel.json](./264127-snow-angel.json) |
 | Snow Ash | 325064 | [325064-snow-ash.json](./325064-snow-ash.json) |
@@ -7329,6 +7334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sol 705 | 160175 | [160175-sol-705.json](./160175-sol-705.json) |
 | Sol and the Endless Orbit | 375825 | [375825-sol-and-the-endless-orbit.json](./375825-sol-and-the-endless-orbit.json) |
 | Sol Blanka | 150613 | [150613-sol-blanka.json](./150613-sol-blanka.json) |
+| Sol Cesto | 286327 | [286327-sol-cesto.json](./286327-sol-cesto.json) |
 | Sol Cresta | 148382 | [148382-sol-cresta.json](./148382-sol-cresta.json) |
 | Sol Cresta: Dramatic DLC | 201018 | [201018-sol-cresta-dramatic-dlc.json](./201018-sol-cresta-dramatic-dlc.json) |
 | Sol Frontiers | 317033 | [317033-sol-frontiers.json](./317033-sol-frontiers.json) |
@@ -9286,6 +9292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacesona | 323552 | [323552-spacesona.json](./323552-spacesona.json) |
 | Spacestation Pheta | 344477 | [344477-spacestation-pheta.json](./344477-spacestation-pheta.json) |
 | SpaceStationSim | 20645 | [20645-spacestationsim.json](./20645-spacestationsim.json) |
+| Spaceteam | 7207 | [7207-spaceteam.json](./7207-spaceteam.json) |
 | Spacetron | 258469 | [258469-spacetron.json](./258469-spacetron.json) |
 | Spacetronic | 270683 | [270683-spacetronic.json](./270683-spacetronic.json) |
 | Spacetug | 179028 | [179028-spacetug.json](./179028-spacetug.json) |
@@ -14310,6 +14317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Kirby Clash | 122229 | [122229-super-kirby-clash.json](./122229-super-kirby-clash.json) |
 | Super Kitty Tales | 180774 | [180774-super-kitty-tales.json](./180774-super-kitty-tales.json) |
 | Super Kiwi 64 | 197198 | [197198-super-kiwi-64.json](./197198-super-kiwi-64.json) |
+| Super Kiwi 64: Doomsday | 284145 | [284145-super-kiwi-64-doomsday.json](./284145-super-kiwi-64-doomsday.json) |
 | Super Knockoff Versus | 82507 | [82507-super-knockoff-versus.json](./82507-super-knockoff-versus.json) |
 | Super Kobushi de Naguru Chan | 218123 | [218123-super-kobushi-de-naguru-chan.json](./218123-super-kobushi-de-naguru-chan.json) |
 | Super Koopa RPG: Here Comes the Koopa Bros.! | 338834 | [338834-super-koopa-rpg-here-comes-the-koopa-bros.json](./338834-super-koopa-rpg-here-comes-the-koopa-bros.json) |
