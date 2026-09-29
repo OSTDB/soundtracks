@@ -98,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth 2025 | 92497 | [92497-earth-2025.json](./92497-earth-2025.json) |
 | Earth 2140: Mission Pack 1 | 79919 | [79919-earth-2140-mission-pack-1.json](./79919-earth-2140-mission-pack-1.json) |
 | Earth 2150 | 8932 | [8932-earth-2150.json](./8932-earth-2150.json) |
+| Earth 2160 | 8935 | [8935-earth-2160.json](./8935-earth-2160.json) |
 | Earth and Legend | 205086 | [205086-earth-and-legend.json](./205086-earth-and-legend.json) |
 | Earth and Sky | 9427 | [9427-earth-and-sky.json](./9427-earth-and-sky.json) |
 | Earth and Sky 2: Another Earth, Another Sky | 9504 | [9504-earth-and-sky-2-another-earth-another-sky.json](./9504-earth-and-sky-2-another-earth-another-sky.json) |
@@ -955,6 +956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Element Release: Water Territory | 292526 | [292526-element-release-water-territory.json](./292526-element-release-water-territory.json) |
 | Element Z | 120763 | [120763-element-z.json](./120763-element-z.json) |
 | Element147 | 98016 | [98016-element147.json](./98016-element147.json) |
+| Element4l | 8715 | [8715-element4l.json](./8715-element4l.json) |
 | Elementaire | 297088 | [297088-elementaire.json](./297088-elementaire.json) |
 | Elemental | 351639 | [351639-elemental.json](./351639-elemental.json) |
 | Elemental | 95377 | [95377-elemental.json](./95377-elemental.json) |
@@ -2938,6 +2940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everhaven | 311063 | [311063-everhaven.json](./311063-everhaven.json) |
 | Everhold | 413879 | [413879-everhold.json](./413879-everhold.json) |
 | Everhood | 132083 | [132083-everhood.json](./132083-everhood.json) |
+| Everhood 2 | 253100 | [253100-everhood-2.json](./253100-everhood-2.json) |
 | Evering | 182386 | [182386-evering.json](./182386-evering.json) |
 | Everlands | 200130 | [200130-everlands.json](./200130-everlands.json) |
 | Everlasting Guilt | 155084 | [155084-everlasting-guilt.json](./155084-everlasting-guilt.json) |
