@@ -4391,6 +4391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaster Master Zero | 27438 | [27438-blaster-master-zero.json](./27438-blaster-master-zero.json) |
 | Blaster Master Zero 2: Kanna Raising Simulator | 168165 | [168165-blaster-master-zero-2-kanna-raising-simulator.json](./168165-blaster-master-zero-2-kanna-raising-simulator.json) |
 | Blaster Master Zero II | 116416 | [116416-blaster-master-zero-ii.json](./116416-blaster-master-zero-ii.json) |
+| Blaster Master Zero III | 145058 | [145058-blaster-master-zero-iii.json](./145058-blaster-master-zero-iii.json) |
 | Blaster Master: Enemy Below | 49840 | [49840-blaster-master-enemy-below.json](./49840-blaster-master-enemy-below.json) |
 | Blaster Master: Pimp your Ride | 216301 | [216301-blaster-master-pimp-your-ride.json](./216301-blaster-master-pimp-your-ride.json) |
 | Blaster Shooter GunGuy! | 34672 | [34672-blaster-shooter-gunguy.json](./34672-blaster-shooter-gunguy.json) |
@@ -7885,6 +7886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burgers | 18912 | [18912-burgers.json](./18912-burgers.json) |
 | BurgerTime | 199470 | [199470-burgertime.json](./199470-burgertime.json) |
 | BurgerTime | 246390 | [246390-burgertime.json](./246390-burgertime.json) |
+| BurgerTime | 276443 | [276443-burgertime.json](./276443-burgertime.json) |
 | BurgerTime Deluxe | 48958 | [48958-burgertime-deluxe.json](./48958-burgertime-deluxe.json) |
 | Burgerwise the Clown | 101618 | [101618-burgerwise-the-clown.json](./101618-burgerwise-the-clown.json) |
 | Burggeist | 302962 | [302962-burggeist.json](./302962-burggeist.json) |
