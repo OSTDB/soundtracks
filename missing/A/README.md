@@ -1184,6 +1184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advance Wars | 236813 | [236813-advance-wars.json](./236813-advance-wars.json) |
 | Advance Wars 2: Black Hole Rising | 236815 | [236815-advance-wars-2-black-hole-rising.json](./236815-advance-wars-2-black-hole-rising.json) |
 | Advance, Fish! | 379476 | [379476-advance-fish.json](./379476-advance-fish.json) |
+| Advanced Basketball Simulator | 13791 | [13791-advanced-basketball-simulator.json](./13791-advanced-basketball-simulator.json) |
 | Advanced Circuits | 84973 | [84973-advanced-circuits.json](./84973-advanced-circuits.json) |
 | Advanced Civilization | 14433 | [14433-advanced-civilization.json](./14433-advanced-civilization.json) |
 | Advanced Daisenryaku 2001 | 60805 | [60805-advanced-daisenryaku-2001.json](./60805-advanced-daisenryaku-2001.json) |
@@ -3772,6 +3773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andro Dunos | 39622 | [39622-andro-dunos.json](./39622-andro-dunos.json) |
 | Android Amazones | 120987 | [120987-android-amazones.json](./120987-android-amazones.json) |
 | Android Assault: The Revenge of Bari-Arm | 5358 | [5358-android-assault-the-revenge-of-bari-arm.json](./5358-android-assault-the-revenge-of-bari-arm.json) |
+| Android Attack | 13691 | [13691-android-attack.json](./13691-android-attack.json) |
 | Android Runner | 100820 | [100820-android-runner.json](./100820-android-runner.json) |
 | Andromalius | 110880 | [110880-andromalius.json](./110880-andromalius.json) |
 | AndroMan on the Moon | 268573 | [268573-androman-on-the-moon.json](./268573-androman-on-the-moon.json) |
@@ -4744,6 +4746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apollo 11 VR HD | 111144 | [111144-apollo-11-vr-hd.json](./111144-apollo-11-vr-hd.json) |
 | Apollo 13 | 199021 | [199021-apollo-13.json](./199021-apollo-13.json) |
 | Apollo 13: The Lost Tapes VR | 297538 | [297538-apollo-13-the-lost-tapes-vr.json](./297538-apollo-13-the-lost-tapes-vr.json) |
+| Apollo 18 | 13792 | [13792-apollo-18.json](./13792-apollo-18.json) |
 | Apollo Justice: Ace Attorney | 253010 | [253010-apollo-justice-ace-attorney.json](./253010-apollo-justice-ace-attorney.json) |
 | Apollo Justice: Ace Attorney 4 | 318771 | [318771-apollo-justice-ace-attorney-4.json](./318771-apollo-justice-ace-attorney-4.json) |
 | Apollo Justice: Turnabout Substitution | 143498 | [143498-apollo-justice-turnabout-substitution.json](./143498-apollo-justice-turnabout-substitution.json) |
@@ -4796,6 +4799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apple Jack | 91905 | [91905-apple-jack.json](./91905-apple-jack.json) |
 | Apple Jack 1&2 | 35716 | [35716-apple-jack-1-and-2.json](./35716-apple-jack-1-and-2.json) |
 | Apple Panic | 12255 | [12255-apple-panic.json](./12255-apple-panic.json) |
+| Apple Pie | 13692 | [13692-apple-pie.json](./13692-apple-pie.json) |
 | Apple Pop | 121460 | [121460-apple-pop.json](./121460-apple-pop.json) |
 | Apple Quest Monsters DX | 249740 | [249740-apple-quest-monsters-dx.json](./249740-apple-quest-monsters-dx.json) |
 | Apple Sauce Apartments | 176460 | [176460-apple-sauce-apartments.json](./176460-apple-sauce-apartments.json) |
@@ -4944,6 +4948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arab Drift Cars | 221746 | [221746-arab-drift-cars.json](./221746-arab-drift-cars.json) |
 | Arab Drift Cars 2 | 330192 | [330192-arab-drift-cars-2.json](./330192-arab-drift-cars-2.json) |
 | Arabian | 13682 | [13682-arabian.json](./13682-arabian.json) |
+| Arabian Magic | 13684 | [13684-arabian-magic.json](./13684-arabian-magic.json) |
 | Arabian Nights | 10861 | [10861-arabian-nights.json](./10861-arabian-nights.json) |
 | Arabian Nights | 111656 | [111656-arabian-nights.json](./111656-arabian-nights.json) |
 | Arabian Nights | 271778 | [271778-arabian-nights.json](./271778-arabian-nights.json) |
@@ -5234,6 +5239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcadebnb | 187220 | [187220-arcadebnb.json](./187220-arcadebnb.json) |
 | Arcadia | 202654 | [202654-arcadia.json](./202654-arcadia.json) |
 | Arcadia | 236852 | [236852-arcadia.json](./236852-arcadia.json) |
+| Arcadia 64 | 13793 | [13793-arcadia-64.json](./13793-arcadia-64.json) |
 | Arcadia Demade | 256826 | [256826-arcadia-demade.json](./256826-arcadia-demade.json) |
 | Arcadia Fallen | 126568 | [126568-arcadia-fallen.json](./126568-arcadia-fallen.json) |
 | Arcadia Fallen II | 293096 | [293096-arcadia-fallen-ii.json](./293096-arcadia-fallen-ii.json) |
@@ -5836,6 +5842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arms Race: TCWE - Politics | 170914 | [170914-arms-race-tcwe-politics.json](./170914-arms-race-tcwe-politics.json) |
 | Arms Trade Tycoon: Tanks | 190232 | [190232-arms-trade-tycoon-tanks.json](./190232-arms-trade-tycoon-tanks.json) |
 | Army Antz | 175721 | [175721-army-antz.json](./175721-army-antz.json) |
+| Army Days | 13796 | [13796-army-days.json](./13796-army-days.json) |
 | Army Defence | 256519 | [256519-army-defence.json](./256519-army-defence.json) |
 | Army Defender | 66994 | [66994-army-defender.json](./66994-army-defender.json) |
 | Army Driver | 204087 | [204087-army-driver.json](./204087-army-driver.json) |
@@ -5873,6 +5880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Wars Tactics | 200158 | [200158-army-wars-tactics.json](./200158-army-wars-tactics.json) |
 | ArmyCraft | 52612 | [52612-armycraft.json](./52612-armycraft.json) |
 | Arnaud Thion's Dragons | 185115 | [185115-arnaud-thions-dragons.json](./185115-arnaud-thions-dragons.json) |
+| Arnie | 13797 | [13797-arnie.json](./13797-arnie.json) |
 | Arnie | 14268 | [14268-arnie.json](./14268-arnie.json) |
 | Arnold Palmer Tournament Golf | 12869 | [12869-arnold-palmer-tournament-golf.json](./12869-arnold-palmer-tournament-golf.json) |
 | Arnold the Adventurer | 58862 | [58862-arnold-the-adventurer.json](./58862-arnold-the-adventurer.json) |
@@ -7465,6 +7473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aviassembly | 291217 | [291217-aviassembly.json](./291217-aviassembly.json) |
 | Aviation Hurricane Storm | 102227 | [102227-aviation-hurricane-storm.json](./102227-aviation-hurricane-storm.json) |
 | Aviation Manager | 215097 | [215097-aviation-manager.json](./215097-aviation-manager.json) |
+| Aviator | 13694 | [13694-aviator.json](./13694-aviator.json) |
 | Aviator Arcade II | 182926 | [182926-aviator-arcade-ii.json](./182926-aviator-arcade-ii.json) |
 | Aviator: Air Combat | 226161 | [226161-aviator-air-combat.json](./226161-aviator-air-combat.json) |
 | Aviators VR | 280343 | [280343-aviators-vr.json](./280343-aviators-vr.json) |
