@@ -1031,6 +1031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Place | 304660 | [304660-paranormal-place.json](./304660-paranormal-place.json) |
 | Paranormal Power | 304625 | [304625-paranormal-power.json](./304625-paranormal-power.json) |
 | Paranormal Precinct: Last Copy of '99 | 274565 | [274565-paranormal-precinct-last-copy-of-99.json](./274565-paranormal-precinct-last-copy-of-99.json) |
+| Paranormal Pursuit: The Gifted One - Collector's Edition | 30041 | [30041-paranormal-pursuit-the-gifted-one-collectors-edition.json](./30041-paranormal-pursuit-the-gifted-one-collectors-edition.json) |
 | Paranormal Realtor | 382903 | [382903-paranormal-realtor.json](./382903-paranormal-realtor.json) |
 | Paranormal Research Society | 391870 | [391870-paranormal-research-society.json](./391870-paranormal-research-society.json) |
 | Paranormal Roulette | 365084 | [365084-paranormal-roulette.json](./365084-paranormal-roulette.json) |
@@ -6146,6 +6147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | President | 93038 | [93038-president.json](./93038-president.json) |
 | President 47 | 318435 | [318435-president-47.json](./318435-president-47.json) |
 | President card game | 99377 | [99377-president-card-game.json](./99377-president-card-game.json) |
+| President Erect VR | 30103 | [30103-president-erect-vr.json](./30103-president-erect-vr.json) |
 | President Forever | 71061 | [71061-president-forever.json](./71061-president-forever.json) |
 | President of Steel | 382882 | [382882-president-of-steel.json](./382882-president-of-steel.json) |
 | President Pig | 100726 | [100726-president-pig.json](./100726-president-pig.json) |
@@ -7357,6 +7359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PsyBurst | 107852 | [107852-psyburst.json](./107852-psyburst.json) |
 | Psych | 150012 | [150012-psych.json](./150012-psych.json) |
 | Psych: The Game | 19312 | [19312-psych-the-game.json](./19312-psych-the-game.json) |
+| Psyche Soldier VR | 30097 | [30097-psyche-soldier-vr.json](./30097-psyche-soldier-vr.json) |
 | Psychedelica of the Ashen Hawk | 41824 | [41824-psychedelica-of-the-ashen-hawk.json](./41824-psychedelica-of-the-ashen-hawk.json) |
 | Psychiatric Prison Romance: Serial Killer Anime Boys Dating Sim | 336558 | [336558-psychiatric-prison-romance-serial-killer-anime-boys-dating-sim.json](./336558-psychiatric-prison-romance-serial-killer-anime-boys-dating-sim.json) |
 | Psychiatric Prison Romance: Serial Killer Anime Girls Dating Sim | 338006 | [338006-psychiatric-prison-romance-serial-killer-anime-girls-dating-sim.json](./338006-psychiatric-prison-romance-serial-killer-anime-girls-dating-sim.json) |
@@ -7372,6 +7375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycho Dream | 42420 | [42420-psycho-dream.json](./42420-psycho-dream.json) |
 | Psycho Dreams | 291019 | [291019-psycho-dreams.json](./291019-psycho-dreams.json) |
 | Psycho Fear | 239734 | [239734-psycho-fear.json](./239734-psycho-fear.json) |
+| Psycho on the loose | 30036 | [30036-psycho-on-the-loose.json](./30036-psycho-on-the-loose.json) |
 | Psycho Pigs | 59949 | [59949-psycho-pigs.json](./59949-psycho-pigs.json) |
 | Psycho Santa | 66394 | [66394-psycho-santa.json](./66394-psycho-santa.json) |
 | Psycho Simulator | 389465 | [389465-psycho-simulator.json](./389465-psycho-simulator.json) |
@@ -7964,6 +7968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Grid | 263571 | [263571-puzzle-grid.json](./263571-puzzle-grid.json) |
 | Puzzle Guardians | 29155 | [29155-puzzle-guardians.json](./29155-puzzle-guardians.json) |
 | Puzzle Hero | 53484 | [53484-puzzle-hero.json](./53484-puzzle-hero.json) |
+| Puzzle Island VR | 30096 | [30096-puzzle-island-vr.json](./30096-puzzle-island-vr.json) |
 | Puzzle Islands: Ancient & Modern - Bundle | 340743 | [340743-puzzle-islands-ancient-and-modern-bundle.json](./340743-puzzle-islands-ancient-and-modern-bundle.json) |
 | Puzzle Journey | 265708 | [265708-puzzle-journey.json](./265708-puzzle-journey.json) |
 | Puzzle Journey | 287783 | [287783-puzzle-journey.json](./287783-puzzle-journey.json) |
