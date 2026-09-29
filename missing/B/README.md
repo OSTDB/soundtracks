@@ -6003,6 +6003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boulder Dash: 40th Anniversary | 316942 | [316942-boulder-dash-40th-anniversary.json](./316942-boulder-dash-40th-anniversary.json) |
 | Boulder Match 4 | 66673 | [66673-boulder-match-4.json](./66673-boulder-match-4.json) |
 | Boulderdash | 47237 | [47237-boulderdash.json](./47237-boulderdash.json) |
+| Boulders and Bombs | 23965 | [23965-boulders-and-bombs.json](./23965-boulders-and-bombs.json) |
 | Boule & Bill: Holiday time! | 67961 | [67961-boule-and-bill-holiday-time.json](./67961-boule-and-bill-holiday-time.json) |
 | BouleMan | 349508 | [349508-bouleman.json](./349508-bouleman.json) |
 | Bounce | 172047 | [172047-bounce.json](./172047-bounce.json) |
@@ -6923,6 +6924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brix VR | 116324 | [116324-brix-vr.json](./116324-brix-vr.json) |
 | Broadside | 34450 | [34450-broadside.json](./34450-broadside.json) |
 | Broadside Bets | 401617 | [401617-broadside-bets.json](./401617-broadside-bets.json) |
+| Broadsides | 23988 | [23988-broadsides.json](./23988-broadsides.json) |
 | Broadway Legend Ellena | 252127 | [252127-broadway-legend-ellena.json](./252127-broadway-legend-ellena.json) |
 | Brobot | 159866 | [159866-brobot.json](./159866-brobot.json) |
 | Brocante Game: Blister Hunter | 263020 | [263020-brocante-game-blister-hunter.json](./263020-brocante-game-blister-hunter.json) |
@@ -7406,6 +7408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build buildings | 105316 | [105316-build-buildings.json](./105316-build-buildings.json) |
 | Build City | 91553 | [91553-build-city.json](./91553-build-city.json) |
 | Build For Sale Simulator | 273377 | [273377-build-for-sale-simulator.json](./273377-build-for-sale-simulator.json) |
+| Build If You Can | 23978 | [23978-build-if-you-can.json](./23978-build-if-you-can.json) |
 | Build It | 108620 | [108620-build-it.json](./108620-build-it.json) |
 | Build It: Miami Beach Resort | 341017 | [341017-build-it-miami-beach-resort.json](./341017-build-it-miami-beach-resort.json) |
 | Build Lands | 201239 | [201239-build-lands.json](./201239-build-lands.json) |
