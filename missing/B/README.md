@@ -6783,6 +6783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brewpub Simulator | 213483 | [213483-brewpub-simulator.json](./213483-brewpub-simulator.json) |
 | Brews & Bastards | 265392 | [265392-brews-and-bastards.json](./265392-brews-and-bastards.json) |
 | Brewtopia | 319384 | [319384-brewtopia.json](./319384-brewtopia.json) |
+| Brian Clough's Football Fortunes | 12283 | [12283-brian-cloughs-football-fortunes.json](./12283-brian-cloughs-football-fortunes.json) |
 | Brian Lara Cricket | 94848 | [94848-brian-lara-cricket.json](./94848-brian-lara-cricket.json) |
 | Brian the Brain | 151606 | [151606-brian-the-brain.json](./151606-brian-the-brain.json) |
 | Brian: The Novice Barbarian | 58825 | [58825-brian-the-novice-barbarian.json](./58825-brian-the-novice-barbarian.json) |
@@ -7366,6 +7367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buff Doge | 219066 | [219066-buff-doge.json](./219066-buff-doge.json) |
 | Buff Huckem Fully Wrecked | 270187 | [270187-buff-huckem-fully-wrecked.json](./270187-buff-huckem-fully-wrecked.json) |
 | Buff Knight Advanced | 34864 | [34864-buff-knight-advanced.json](./34864-buff-knight-advanced.json) |
+| Buffalo Bill's Wild West Show | 12284 | [12284-buffalo-bills-wild-west-show.json](./12284-buffalo-bills-wild-west-show.json) |
 | Buffet Boss: Rolling Sushi | 316219 | [316219-buffet-boss-rolling-sushi.json](./316219-buffet-boss-rolling-sushi.json) |
 | Buffy the Vampire Slayer | 206690 | [206690-buffy-the-vampire-slayer.json](./206690-buffy-the-vampire-slayer.json) |
 | Buffy the Vampire Slayer: Chaos Bleeds | 3837 | [3837-buffy-the-vampire-slayer-chaos-bleeds.json](./3837-buffy-the-vampire-slayer-chaos-bleeds.json) |
