@@ -1031,6 +1031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vinculum | 417644 | [417644-vinculum.json](./417644-vinculum.json) |
 | Vind | 115721 | [115721-vind.json](./115721-vind.json) |
 | Vindefiant | 296366 | [296366-vindefiant.json](./296366-vindefiant.json) |
+| Vindicator | 46739 | [46739-vindicator.json](./46739-vindicator.json) |
 | Vindicators | 12871 | [12871-vindicators.json](./12871-vindicators.json) |
 | Vindicators | 198951 | [198951-vindicators.json](./198951-vindicators.json) |
 | Vindicators | 83909 | [83909-vindicators.json](./83909-vindicators.json) |
@@ -1122,6 +1123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua Quest | 1554 | [1554-virtua-quest.json](./1554-virtua-quest.json) |
 | Virtua Racing Demake | 181251 | [181251-virtua-racing-demake.json](./181251-virtua-racing-demake.json) |
 | Virtua Striker | 313318 | [313318-virtua-striker.json](./313318-virtua-striker.json) |
+| Virtua Striker | 46765 | [46765-virtua-striker.json](./46765-virtua-striker.json) |
 | Virtua Striker 2 | 39472 | [39472-virtua-striker-2.json](./39472-virtua-striker-2.json) |
 | Virtua Tennis 2009 | 5257 | [5257-virtua-tennis-2009.json](./5257-virtua-tennis-2009.json) |
 | Virtua Tennis 4 | 5258 | [5258-virtua-tennis-4.json](./5258-virtua-tennis-4.json) |
@@ -1367,6 +1369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vivitter: Additional Mini-game - "United Robot" | 308779 | [308779-vivitter-additional-mini-game-united-robot.json](./308779-vivitter-additional-mini-game-united-robot.json) |
 | Vivitter: Additional Mini-game - "Unstoppable" | 308774 | [308774-vivitter-additional-mini-game-unstoppable.json](./308774-vivitter-additional-mini-game-unstoppable.json) |
 | Vivitter: Additional Mini-game - "Vivid ViviCure" | 308773 | [308773-vivitter-additional-mini-game-vivid-vivicure.json](./308773-vivitter-additional-mini-game-vivid-vivicure.json) |
+| Vixen | 46741 | [46741-vixen.json](./46741-vixen.json) |
 | Viy: Retold Story | 190142 | [190142-viy-retold-story.json](./190142-viy-retold-story.json) |
 | Viz: The Soft Floppy One | 67993 | [67993-viz-the-soft-floppy-one.json](./67993-viz-the-soft-floppy-one.json) |
 | Vizul | 301951 | [301951-vizul.json](./301951-vizul.json) |
