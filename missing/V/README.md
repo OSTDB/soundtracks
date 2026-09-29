@@ -1746,6 +1746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Prison Showdown：rookie Guard Rumble | 364063 | [364063-vr-prison-showdown-rookie-guard-rumble.json](./364063-vr-prison-showdown-rookie-guard-rumble.json) |
 | VR Racket Ball | 68770 | [68770-vr-racket-ball.json](./68770-vr-racket-ball.json) |
 | VR Rescue of Girls | 160253 | [160253-vr-rescue-of-girls.json](./160253-vr-rescue-of-girls.json) |
+| VR Retreat | 31085 | [31085-vr-retreat.json](./31085-vr-retreat.json) |
 | VR Retro Snake on Girls | 163292 | [163292-vr-retro-snake-on-girls.json](./163292-vr-retro-snake-on-girls.json) |
 | VR Rhythm Action Seiya | 76522 | [76522-vr-rhythm-action-seiya.json](./76522-vr-rhythm-action-seiya.json) |
 | VR Roller Coaster at Global Wonders | 166195 | [166195-vr-roller-coaster-at-global-wonders.json](./166195-vr-roller-coaster-at-global-wonders.json) |
@@ -1895,6 +1896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vulpine | 82477 | [82477-vulpine.json](./82477-vulpine.json) |
 | Vultur: Magic Artifact Retrieval Service | 186643 | [186643-vultur-magic-artifact-retrieval-service.json](./186643-vultur-magic-artifact-retrieval-service.json) |
 | Vulture Attack | 40721 | [40721-vulture-attack.json](./40721-vulture-attack.json) |
+| Vulture Island | 31046 | [31046-vulture-island.json](./31046-vulture-island.json) |
 | Vulture: Unlimited Frontier - 0 | 255130 | [255130-vulture-unlimited-frontier-0.json](./255130-vulture-unlimited-frontier-0.json) |
 | VVVV | 225771 | [225771-vvvv.json](./225771-vvvv.json) |
 | VVVVK: Rogue Vampire Hunter | 209017 | [209017-vvvvk-rogue-vampire-hunter.json](./209017-vvvvk-rogue-vampire-hunter.json) |
