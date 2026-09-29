@@ -1386,6 +1386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ViViD | 61070 | [61070-vivid.json](./61070-vivid.json) |
 | Vivid Conceptions | 93152 | [93152-vivid-conceptions.json](./93152-vivid-conceptions.json) |
 | Vivid World | 266274 | [266274-vivid-world.json](./266274-vivid-world.json) |
+| Vivid/Stasis | 206513 | [206513-vivid-stasis.json](./206513-vivid-stasis.json) |
 | Vividerie | 189068 | [189068-vividerie.json](./189068-vividerie.json) |
 | ViviDex | 182983 | [182983-vividex.json](./182983-vividex.json) |
 | ViviEon | 120830 | [120830-vivieon.json](./120830-vivieon.json) |
