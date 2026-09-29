@@ -1301,6 +1301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure of Terapets: The Crazy Scientist | 133924 | [133924-adventure-of-terapets-the-crazy-scientist.json](./133924-adventure-of-terapets-the-crazy-scientist.json) |
 | Adventure of Thieves | 31817 | [31817-adventure-of-thieves.json](./31817-adventure-of-thieves.json) |
 | Adventure of Tokyo Disney Sea | 49494 | [49494-adventure-of-tokyo-disney-sea.json](./49494-adventure-of-tokyo-disney-sea.json) |
+| Adventure Pinball: Forgotten Island | 7549 | [7549-adventure-pinball-forgotten-island.json](./7549-adventure-pinball-forgotten-island.json) |
 | Adventure Player | 56531 | [56531-adventure-player.json](./56531-adventure-player.json) |
 | Adventure Ponies | 146120 | [146120-adventure-ponies.json](./146120-adventure-ponies.json) |
 | Adventure Ponies 2: Wait! There's More?! | 146121 | [146121-adventure-ponies-2-wait-theres-more.json](./146121-adventure-ponies-2-wait-theres-more.json) |
@@ -1509,6 +1510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Burner Climax | 20085 | [20085-after-burner-climax.json](./20085-after-burner-climax.json) |
 | After Burner III | 365185 | [365185-after-burner-iii.json](./365185-after-burner-iii.json) |
 | After Burner III | 5356 | [5356-after-burner-iii.json](./5356-after-burner-iii.json) |
+| After Burst | 7748 | [7748-after-burst.json](./7748-after-burst.json) |
 | After Corruption | 211173 | [211173-after-corruption.json](./211173-after-corruption.json) |
 | After Dark | 357793 | [357793-after-dark.json](./357793-after-dark.json) |
 | After Exposure | 341131 | [341131-after-exposure.json](./341131-after-exposure.json) |
@@ -1744,6 +1746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agromatic | 381849 | [381849-agromatic.json](./381849-agromatic.json) |
 | Agrou: Panda pet | 170825 | [170825-agrou-panda-pet.json](./170825-agrou-panda-pet.json) |
 | Agrou: Rabbit pet | 170826 | [170826-agrou-rabbit-pet.json](./170826-agrou-rabbit-pet.json) |
+| Aguri Suzuki F-1 Super Driving | 7747 | [7747-aguri-suzuki-f-1-super-driving.json](./7747-aguri-suzuki-f-1-super-driving.json) |
 | Ah Nanjarin | 284418 | [284418-ah-nanjarin.json](./284418-ah-nanjarin.json) |
 | AH-1 Viper Cobra Ops | 223959 | [223959-ah-1-viper-cobra-ops.json](./223959-ah-1-viper-cobra-ops.json) |
 | AH-64 Apache Air Assault | 55974 | [55974-ah-64-apache-air-assault.json](./55974-ah-64-apache-air-assault.json) |
@@ -2528,6 +2531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alicia Online | 60233 | [60233-alicia-online.json](./60233-alicia-online.json) |
 | Alicia Quatermain 2: The Stone of Fate | 104740 | [104740-alicia-quatermain-2-the-stone-of-fate.json](./104740-alicia-quatermain-2-the-stone-of-fate.json) |
 | Alicia Quatermain 3: The Mystery of the Flaming Gold | 113180 | [113180-alicia-quatermain-3-the-mystery-of-the-flaming-gold.json](./113180-alicia-quatermain-3-the-mystery-of-the-flaming-gold.json) |
+| Alida | 7665 | [7665-alida.json](./7665-alida.json) |
 | Alien | 245251 | [245251-alien.json](./245251-alien.json) |
 | Alien | 25132 | [25132-alien.json](./25132-alien.json) |
 | Alien 3 | 8908 | [8908-alien-3.json](./8908-alien-3.json) |
