@@ -2809,6 +2809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dengeki Stryker | 64954 | [64954-dengeki-stryker.json](./64954-dengeki-stryker.json) |
 | Dengen Tenshi Taisen Mahjong Shangri-La | 131571 | [131571-dengen-tenshi-taisen-mahjong-shangri-la.json](./131571-dengen-tenshi-taisen-mahjong-shangri-la.json) |
 | Denis Through the Drinking Glass | 73823 | [73823-denis-through-the-drinking-glass.json](./73823-denis-through-the-drinking-glass.json) |
+| Denjin Makai | 46782 | [46782-denjin-makai.json](./46782-denjin-makai.json) |
 | Denki Blocks! | 49155 | [49155-denki-blocks.json](./49155-denki-blocks.json) |
 | Dennis Miller: That's Geek to Me | 245252 | [245252-dennis-miller-thats-geek-to-me.json](./245252-dennis-miller-thats-geek-to-me.json) |
 | Dennis Miller: That's News to Me | 39019 | [39019-dennis-miller-thats-news-to-me.json](./39019-dennis-miller-thats-news-to-me.json) |
@@ -6410,6 +6411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Mania | 241469 | [241469-dragon-mania.json](./241469-dragon-mania.json) |
 | Dragon Marked for Death: Advanced Attackers | 147998 | [147998-dragon-marked-for-death-advanced-attackers.json](./147998-dragon-marked-for-death-advanced-attackers.json) |
 | Dragon Master | 209127 | [209127-dragon-master.json](./209127-dragon-master.json) |
+| Dragon Master | 46780 | [46780-dragon-master.json](./46780-dragon-master.json) |
 | Dragon Masters: War of Legends | 214030 | [214030-dragon-masters-war-of-legends.json](./214030-dragon-masters-war-of-legends.json) |
 | Dragon Merge Wind | 228112 | [228112-dragon-merge-wind.json](./228112-dragon-merge-wind.json) |
 | Dragon Mine | 211204 | [211204-dragon-mine.json](./211204-dragon-mine.json) |
