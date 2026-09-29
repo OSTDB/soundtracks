@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaeru no Tame ni Kane wa Naru | 49078 | [49078-kaeru-no-tame-ni-kane-wa-naru.json](./49078-kaeru-no-tame-ni-kane-wa-naru.json) |
 | Kaeru nyo Panyo~n | 146266 | [146266-kaeru-nyo-panyo-n.json](./146266-kaeru-nyo-panyo-n.json) |
 | Kaetram | 301401 | [301401-kaetram.json](./301401-kaetram.json) |
+| Kaettekita Cyborg Kuro Chan | 44734 | [44734-kaettekita-cyborg-kuro-chan.json](./44734-kaettekita-cyborg-kuro-chan.json) |
 | Kaettekita Pachio-kun Dream Collection | 59510 | [59510-kaettekita-pachio-kun-dream-collection.json](./59510-kaettekita-pachio-kun-dream-collection.json) |
 | Kaf Village | 340784 | [340784-kaf-village.json](./340784-kaf-village.json) |
 | Kafak | 390234 | [390234-kafak.json](./390234-kafak.json) |
@@ -83,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kagitori: Bird in Cage Hiding the Key | 260121 | [260121-kagitori-bird-in-cage-hiding-the-key.json](./260121-kagitori-bird-in-cage-hiding-the-key.json) |
 | Kago no Naka no Alicis | 218383 | [218383-kago-no-naka-no-alicis.json](./218383-kago-no-naka-no-alicis.json) |
 | Kaguya-sama: Love Is War | 239005 | [239005-kaguya-sama-love-is-war.json](./239005-kaguya-sama-love-is-war.json) |
+| Kahen Soukou Gunbike | 44756 | [44756-kahen-soukou-gunbike.json](./44756-kahen-soukou-gunbike.json) |
 | Kai Temple | 94910 | [94910-kai-temple.json](./94910-kai-temple.json) |
 | Kai Yuan | 236948 | [236948-kai-yuan.json](./236948-kai-yuan.json) |
 | Kai Yuen's Overlapped Universe | 111068 | [111068-kai-yuens-overlapped-universe.json](./111068-kai-yuens-overlapped-universe.json) |
@@ -2124,6 +2126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knockout City: Season 7 - Mutant Mutiny | 214607 | [214607-knockout-city-season-7-mutant-mutiny.json](./214607-knockout-city-season-7-mutant-mutiny.json) |
 | Knockout Kings | 249156 | [249156-knockout-kings.json](./249156-knockout-kings.json) |
 | Knockout Kings 2000 | 10687 | [10687-knockout-kings-2000.json](./10687-knockout-kings-2000.json) |
+| Knockout Kings 2001 | 44747 | [44747-knockout-kings-2001.json](./44747-knockout-kings-2001.json) |
 | Knockout League | 32859 | [32859-knockout-league.json](./32859-knockout-league.json) |
 | Knockout Party | 51161 | [51161-knockout-party.json](./51161-knockout-party.json) |
 | Knockout Peoples: Chotto Zankoku na Hakurankai | 260745 | [260745-knockout-peoples-chotto-zankoku-na-hakurankai.json](./260745-knockout-peoples-chotto-zankoku-na-hakurankai.json) |
@@ -2293,6 +2296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konae-chan no Doki-doki Penguin Kazoku | 134464 | [134464-konae-chan-no-doki-doki-penguin-kazoku.json](./134464-konae-chan-no-doki-doki-penguin-kazoku.json) |
 | Konami 88 | 40228 | [40228-konami-88.json](./40228-konami-88.json) |
 | Konami Antiques: MSX Collection Vol. 1 | 44882 | [44882-konami-antiques-msx-collection-vol-1.json](./44882-konami-antiques-msx-collection-vol-1.json) |
+| Konami Antiques: MSX Collection Vol. 3 | 44777 | [44777-konami-antiques-msx-collection-vol-3.json](./44777-konami-antiques-msx-collection-vol-3.json) |
 | Konami Collector's Series: Arcade Advanced | 6494 | [6494-konami-collectors-series-arcade-advanced.json](./6494-konami-collectors-series-arcade-advanced.json) |
 | Konami Collector's Series: Castlevania & Contra | 78642 | [78642-konami-collectors-series-castlevania-and-contra.json](./78642-konami-collectors-series-castlevania-and-contra.json) |
 | Konami GB Collection Vol. 2 | 50045 | [50045-konami-gb-collection-vol-2.json](./50045-konami-gb-collection-vol-2.json) |
