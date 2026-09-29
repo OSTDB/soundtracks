@@ -1260,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tasty Jigsaw: Happy Hour 3 | 255067 | [255067-tasty-jigsaw-happy-hour-3.json](./255067-tasty-jigsaw-happy-hour-3.json) |
 | Tasty Love | 192453 | [192453-tasty-love.json](./192453-tasty-love.json) |
 | Tasty Ninja: Vegetable Invasion | 181769 | [181769-tasty-ninja-vegetable-invasion.json](./181769-tasty-ninja-vegetable-invasion.json) |
+| Tasty Planet | 73305 | [73305-tasty-planet.json](./73305-tasty-planet.json) |
 | Tasty Planet Forever | 110538 | [110538-tasty-planet-forever.json](./110538-tasty-planet-forever.json) |
 | Tasty Planet: Back for Seconds | 33469 | [33469-tasty-planet-back-for-seconds.json](./33469-tasty-planet-back-for-seconds.json) |
 | Tasty Ramen | 176503 | [176503-tasty-ramen.json](./176503-tasty-ramen.json) |
@@ -2626,6 +2627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Alien Trials | 149578 | [149578-the-alien-trials.json](./149578-the-alien-trials.json) |
 | The Alliance Alive HD Remastered | 115989 | [115989-the-alliance-alive-hd-remastered.json](./115989-the-alliance-alive-hd-remastered.json) |
 | The Alligator People | 46893 | [46893-the-alligator-people.json](./46893-the-alligator-people.json) |
+| The Almost Gone | 74787 | [74787-the-almost-gone.json](./74787-the-almost-gone.json) |
 | The Almost Heaven Crisis | 124040 | [124040-the-almost-heaven-crisis.json](./124040-the-almost-heaven-crisis.json) |
 | The Alpha 001 | 168369 | [168369-the-alpha-001.json](./168369-the-alpha-001.json) |
 | The Alpha Wolf | 244258 | [244258-the-alpha-wolf.json](./244258-the-alpha-wolf.json) |
@@ -4627,6 +4629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Good, the Bad, and the Horsey | 264049 | [264049-the-good-the-bad-and-the-horsey.json](./264049-the-good-the-bad-and-the-horsey.json) |
 | The Googol Clicker | 367517 | [367517-the-googol-clicker.json](./367517-the-googol-clicker.json) |
 | The Goonies | 41375 | [41375-the-goonies.json](./41375-the-goonies.json) |
+| The Goonies | 4615 | [4615-the-goonies.json](./4615-the-goonies.json) |
 | The Goonies: The Fan Game | 326990 | [326990-the-goonies-the-fan-game.json](./326990-the-goonies-the-fan-game.json) |
 | The Goose Tale | 290004 | [290004-the-goose-tale.json](./290004-the-goose-tale.json) |
 | The Goracle | 107394 | [107394-the-goracle.json](./107394-the-goracle.json) |
@@ -5243,6 +5246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kaiju Offensive | 117097 | [117097-the-kaiju-offensive.json](./117097-the-kaiju-offensive.json) |
 | The Kangaroo Conspiracy DX | 366224 | [366224-the-kangaroo-conspiracy-dx.json](./366224-the-kangaroo-conspiracy-dx.json) |
 | The Karaoke | 224806 | [224806-the-karaoke.json](./224806-the-karaoke.json) |
+| The Karate Kid | 68386 | [68386-the-karate-kid.json](./68386-the-karate-kid.json) |
 | The Karate Tournament | 40342 | [40342-the-karate-tournament.json](./40342-the-karate-tournament.json) |
 | The Karters 2: Turbo Charged | 230763 | [230763-the-karters-2-turbo-charged.json](./230763-the-karters-2-turbo-charged.json) |
 | The Katagean Redoubt | 271816 | [271816-the-katagean-redoubt.json](./271816-the-katagean-redoubt.json) |
@@ -6525,6 +6529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Northern Gate: Special Agent | 191118 | [191118-the-northern-gate-special-agent.json](./191118-the-northern-gate-special-agent.json) |
 | The Northern Passage | 301414 | [301414-the-northern-passage.json](./301414-the-northern-passage.json) |
 | The Northsong Rift | 401840 | [401840-the-northsong-rift.json](./401840-the-northsong-rift.json) |
+| The Norwood Suite | 68369 | [68369-the-norwood-suite.json](./68369-the-norwood-suite.json) |
 | The Not-Deer Stew | 382797 | [382797-the-not-deer-stew.json](./382797-the-not-deer-stew.json) |
 | The Nothing | 44211 | [44211-the-nothing.json](./44211-the-nothing.json) |
 | The Notzing Project | 323555 | [323555-the-notzing-project.json](./323555-the-notzing-project.json) |
@@ -6991,6 +6996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rats | 9558 | [9558-the-rats.json](./9558-the-rats.json) |
 | The Rats in the Walls | 271489 | [271489-the-rats-in-the-walls.json](./271489-the-rats-in-the-walls.json) |
 | The Raven and the Light | 406782 | [406782-the-raven-and-the-light.json](./406782-the-raven-and-the-light.json) |
+| The Raven Remastered | 80944 | [80944-the-raven-remastered.json](./80944-the-raven-remastered.json) |
 | The Raven: Legacy of a Master Thief | 7667 | [7667-the-raven-legacy-of-a-master-thief.json](./7667-the-raven-legacy-of-a-master-thief.json) |
 | The Raven: Legacy of a Master Thief - Digital Deluxe Edition | 53771 | [53771-the-raven-legacy-of-a-master-thief-digital-deluxe-edition.json](./53771-the-raven-legacy-of-a-master-thief-digital-deluxe-edition.json) |
 | The Raven: Legacy of a Master Thief - Episode 2 | 172592 | [172592-the-raven-legacy-of-a-master-thief-episode-2.json](./172592-the-raven-legacy-of-a-master-thief-episode-2.json) |
@@ -7627,6 +7633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smiling Man: Remake | 275143 | [275143-the-smiling-man-remake.json](./275143-the-smiling-man-remake.json) |
 | The Smiling, Proud Wanderer 2 | 62442 | [62442-the-smiling-proud-wanderer-2.json](./62442-the-smiling-proud-wanderer-2.json) |
 | The Smugglers | 191187 | [191187-the-smugglers.json](./191187-the-smugglers.json) |
+| The Smurfs | 106272 | [106272-the-smurfs.json](./106272-the-smurfs.json) |
 | The Smurfs | 23482 | [23482-the-smurfs.json](./23482-the-smurfs.json) |
 | The Smurfs | 287141 | [287141-the-smurfs.json](./287141-the-smurfs.json) |
 | The Smurfs | 287144 | [287144-the-smurfs.json](./287144-the-smurfs.json) |
@@ -9211,6 +9218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Those Left Behind | 212854 | [212854-those-left-behind.json](./212854-those-left-behind.json) |
 | Those Nights at Ring's 2 | 336360 | [336360-those-nights-at-rings-2.json](./336360-those-nights-at-rings-2.json) |
 | Those Who Crawl | 230803 | [230803-those-who-crawl.json](./230803-those-who-crawl.json) |
+| Those Who Remain | 83848 | [83848-those-who-remain.json](./83848-those-who-remain.json) |
 | Those Who Rule | 211226 | [211226-those-who-rule.json](./211226-those-who-rule.json) |
 | Those Who Rule II | 394374 | [394374-those-who-rule-ii.json](./394374-those-who-rule-ii.json) |
 | Thou Shalt Be Brave | 134566 | [134566-thou-shalt-be-brave.json](./134566-thou-shalt-be-brave.json) |
@@ -9841,6 +9849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Fighter 1931: Tora!Tora!Tora! MP092 | 189595 | [189595-tiger-fighter-1931-tora-tora-tora-mp092.json](./189595-tiger-fighter-1931-tora-tora-tora-mp092.json) |
 | Tiger Fighter 1931: Tora!Tora!Tora! MP094 | 189589 | [189589-tiger-fighter-1931-tora-tora-tora-mp094.json](./189589-tiger-fighter-1931-tora-tora-tora-mp094.json) |
 | Tiger Girl Hill Breaker | 158532 | [158532-tiger-girl-hill-breaker.json](./158532-tiger-girl-hill-breaker.json) |
+| Tiger Heli | 4606 | [4606-tiger-heli.json](./4606-tiger-heli.json) |
 | Tiger Hunt | 41977 | [41977-tiger-hunt.json](./41977-tiger-hunt.json) |
 | Tiger Hunt | 68695 | [68695-tiger-hunt.json](./68695-tiger-hunt.json) |
 | Tiger Knight | 137043 | [137043-tiger-knight.json](./137043-tiger-knight.json) |
@@ -10969,6 +10978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tlicolity Eyes: Twinkle Showtime | 240522 | [240522-tlicolity-eyes-twinkle-showtime.json](./240522-tlicolity-eyes-twinkle-showtime.json) |
 | TMNT | 146283 | [146283-tmnt.json](./146283-tmnt.json) |
 | TMNT | 3817 | [3817-tmnt.json](./3817-tmnt.json) |
+| TMNT: Mutant Melee | 4201 | [4201-tmnt-mutant-melee.json](./4201-tmnt-mutant-melee.json) |
 | TMNT: Ninja Adventures | 64469 | [64469-tmnt-ninja-adventures.json](./64469-tmnt-ninja-adventures.json) |
 | TMNT: The Power of 4 | 146241 | [146241-tmnt-the-power-of-4.json](./146241-tmnt-the-power-of-4.json) |
 | tModLoader | 134157 | [134157-tmodloader.json](./134157-tmodloader.json) |
@@ -15009,6 +15019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twins of Olus | 279096 | [279096-twins-of-olus.json](./279096-twins-of-olus.json) |
 | Twins of the Pasture | 43130 | [43130-twins-of-the-pasture.json](./43130-twins-of-the-pasture.json) |
 | Twins or Tens | 394557 | [394557-twins-or-tens.json](./394557-twins-or-tens.json) |
+| Twinsen's Little Big Adventure 2 Classic | 79653 | [79653-twinsens-little-big-adventure-2-classic.json](./79653-twinsens-little-big-adventure-2-classic.json) |
 | Twinsen's Little Big Adventure Remastered 2 | 241953 | [241953-twinsens-little-big-adventure-remastered-2.json](./241953-twinsens-little-big-adventure-remastered-2.json) |
 | Twinstick Arcade | 149464 | [149464-twinstick-arcade.json](./149464-twinstick-arcade.json) |
 | TwinStick: This Ain't No Picnic | 77259 | [77259-twinstick-this-aint-no-picnic.json](./77259-twinstick-this-aint-no-picnic.json) |
