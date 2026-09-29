@@ -660,6 +660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 76: The Pitt - Deluxe Edition | 218503 | [218503-fallout-76-the-pitt-deluxe-edition.json](./218503-fallout-76-the-pitt-deluxe-edition.json) |
 | Fallout 76: Wild Appalachia | 115713 | [115713-fallout-76-wild-appalachia.json](./115713-fallout-76-wild-appalachia.json) |
 | Fallout: Dust | 243647 | [243647-fallout-dust.json](./243647-fallout-dust.json) |
+| Fallout: New Vegas - Courier's Stash | 45127 | [45127-fallout-new-vegas-couriers-stash.json](./45127-fallout-new-vegas-couriers-stash.json) |
 | Fallout: New Vegas - Dead Money | 10304 | [10304-fallout-new-vegas-dead-money.json](./10304-fallout-new-vegas-dead-money.json) |
 | Fallout: New Vegas - Lonesome Road | 10307 | [10307-fallout-new-vegas-lonesome-road.json](./10307-fallout-new-vegas-lonesome-road.json) |
 | Fallout: New Vegas - Old World Blues | 10306 | [10306-fallout-new-vegas-old-world-blues.json](./10306-fallout-new-vegas-old-world-blues.json) |
@@ -837,6 +838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantamon | 348794 | [348794-fantamon.json](./348794-fantamon.json) |
 | Fantashooting 2 | 208977 | [208977-fantashooting-2.json](./208977-fantashooting-2.json) |
 | Fantasia | 38574 | [38574-fantasia.json](./38574-fantasia.json) |
+| Fantasia | 45587 | [45587-fantasia.json](./45587-fantasia.json) |
 | Fantasia of the Wind 2 | 113654 | [113654-fantasia-of-the-wind-2.json](./113654-fantasia-of-the-wind-2.json) |
 | Fantasia Sango 1 | 188656 | [188656-fantasia-sango-1.json](./188656-fantasia-sango-1.json) |
 | Fantasia Sango 3 | 188658 | [188658-fantasia-sango-3.json](./188658-fantasia-sango-3.json) |
@@ -2788,6 +2790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firestarter | 183894 | [183894-firestarter.json](./183894-firestarter.json) |
 | Firestarter | 78049 | [78049-firestarter.json](./78049-firestarter.json) |
 | FireStarter 2 | 312720 | [312720-firestarter-2.json](./312720-firestarter-2.json) |
+| Firestone: Online Idle RPG | 122429 | [122429-firestone-online-idle-rpg.json](./122429-firestone-online-idle-rpg.json) |
 | Firestorm | 239088 | [239088-firestorm.json](./239088-firestorm.json) |
 | Firestorm Deadland | 253365 | [253365-firestorm-deadland.json](./253365-firestorm-deadland.json) |
 | Firestriker | 42553 | [42553-firestriker.json](./42553-firestriker.json) |
@@ -3531,6 +3534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flimbo's Quest | 12103 | [12103-flimbos-quest.json](./12103-flimbos-quest.json) |
 | Fling | 93541 | [93541-fling.json](./93541-fling.json) |
 | Fling D'Block | 239754 | [239754-fling-dblock.json](./239754-fling-dblock.json) |
+| Fling to the Finish | 116840 | [116840-fling-to-the-finish.json](./116840-fling-to-the-finish.json) |
 | Fling with a Tiefling | 322001 | [322001-fling-with-a-tiefling.json](./322001-fling-with-a-tiefling.json) |
 | Fling! | 264361 | [264361-fling.json](./264361-fling.json) |
 | Fling! | 343986 | [343986-fling.json](./343986-fling.json) |
