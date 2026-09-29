@@ -6836,6 +6836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Adventures | 61088 | [61088-monster-adventures.json](./61088-monster-adventures.json) |
 | Monster and Snakes 1.1 | 349497 | [349497-monster-and-snakes-1-1.json](./349497-monster-and-snakes-1-1.json) |
 | Monster Arena | 101572 | [101572-monster-arena.json](./101572-monster-arena.json) |
+| Monster Attack | 5580 | [5580-monster-attack.json](./5580-monster-attack.json) |
 | Monster Band | 293221 | [293221-monster-band.json](./293221-monster-band.json) |
 | Monster Bang | 233764 | [233764-monster-bang.json](./233764-monster-bang.json) |
 | Monster Bar | 240784 | [240784-monster-bar.json](./240784-monster-bar.json) |
