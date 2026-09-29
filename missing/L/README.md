@@ -394,6 +394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lantern Forge | 36263 | [36263-lantern-forge.json](./36263-lantern-forge.json) |
 | Lantern Lagoon | 221837 | [221837-lantern-lagoon.json](./221837-lantern-lagoon.json) |
 | Lantern of Worlds - The Story of Layla | 116290 | [116290-lantern-of-worlds-the-story-of-layla.json](./116290-lantern-of-worlds-the-story-of-layla.json) |
+| Lanternium | 51447 | [51447-lanternium.json](./51447-lanternium.json) |
 | Lanterns | 89967 | [89967-lanterns.json](./89967-lanterns.json) |
 | Lanternwood | 375827 | [375827-lanternwood.json](./375827-lanternwood.json) |
 | Lap of the Gods | 30210 | [30210-lap-of-the-gods.json](./30210-lap-of-the-gods.json) |
