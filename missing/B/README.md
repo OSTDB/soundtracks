@@ -5796,6 +5796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boot Camp Endless Runner | 223497 | [223497-boot-camp-endless-runner.json](./223497-boot-camp-endless-runner.json) |
 | Boot Hill Blaster | 74740 | [74740-boot-hill-blaster.json](./74740-boot-hill-blaster.json) |
 | Boot Hill Heroes 2 | 60561 | [60561-boot-hill-heroes-2.json](./60561-boot-hill-heroes-2.json) |
+| Boot Hill Heroes: The Hangman's Ballad | 18388 | [18388-boot-hill-heroes-the-hangmans-ballad.json](./18388-boot-hill-heroes-the-hangmans-ballad.json) |
 | Bootèe | 195499 | [195499-bootee.json](./195499-bootee.json) |
 | Booth Butcher | 406922 | [406922-booth-butcher.json](./406922-booth-butcher.json) |
 | Bootleg Alchemist | 390255 | [390255-bootleg-alchemist.json](./390255-bootleg-alchemist.json) |
