@@ -1923,6 +1923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mark of Cain | 391741 | [391741-mark-of-cain.json](./391741-mark-of-cain.json) |
 | Mark of the Deep: Deluxe Edition | 402957 | [402957-mark-of-the-deep-deluxe-edition.json](./402957-mark-of-the-deep-deluxe-edition.json) |
 | Mark of the Ninja: Remastered | 94969 | [94969-mark-of-the-ninja-remastered.json](./94969-mark-of-the-ninja-remastered.json) |
+| Mark of the Ninja: Special Edition DLC | 26891 | [26891-mark-of-the-ninja-special-edition-dlc.json](./26891-mark-of-the-ninja-special-edition-dlc.json) |
 | Mark the Headless Chicken | 391616 | [391616-mark-the-headless-chicken.json](./391616-mark-the-headless-chicken.json) |
 | Mark Twain's Tom Sawyer: Survival Game | 151108 | [151108-mark-twains-tom-sawyer-survival-game.json](./151108-mark-twains-tom-sawyer-survival-game.json) |
 | Mark-I: Mission Pilot | 156632 | [156632-mark-i-mission-pilot.json](./156632-mark-i-mission-pilot.json) |
@@ -1976,6 +1977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Colony: Challenger | 17066 | [17066-mars-colony-challenger.json](./17066-mars-colony-challenger.json) |
 | Mars Colony: Frontier | 34643 | [34643-mars-colony-frontier.json](./34643-mars-colony-frontier.json) |
 | Mars Dash | 224013 | [224013-mars-dash.json](./224013-mars-dash.json) |
+| Mars Dragons the Return | 26798 | [26798-mars-dragons-the-return.json](./26798-mars-dragons-the-return.json) |
 | Mars Farming 2034 | 300845 | [300845-mars-farming-2034.json](./300845-mars-farming-2034.json) |
 | Mars for the Rich | 202382 | [202382-mars-for-the-rich.json](./202382-mars-for-the-rich.json) |
 | Mars Hopper | 341652 | [341652-mars-hopper.json](./341652-mars-hopper.json) |
@@ -4975,6 +4977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Might & Magic: Duel of Champions - Forgotten Wars | 52586 | [52586-might-and-magic-duel-of-champions-forgotten-wars.json](./52586-might-and-magic-duel-of-champions-forgotten-wars.json) |
 | Might & Magic: Elemental Guardians | 70707 | [70707-might-and-magic-elemental-guardians.json](./70707-might-and-magic-elemental-guardians.json) |
 | Might & Magic: Heroes Online | 20177 | [20177-might-and-magic-heroes-online.json](./20177-might-and-magic-heroes-online.json) |
+| Might & Magic: Showdown | 26854 | [26854-might-and-magic-showdown.json](./26854-might-and-magic-showdown.json) |
 | Might & Mayhem | 38970 | [38970-might-and-mayhem.json](./38970-might-and-mayhem.json) |
 | Might & Trap: Apocalypse | 151595 | [151595-might-and-trap-apocalypse.json](./151595-might-and-trap-apocalypse.json) |
 | Might and Magic III: Isles of Terra | 7735 | [7735-might-and-magic-iii-isles-of-terra.json](./7735-might-and-magic-iii-isles-of-terra.json) |
@@ -7201,6 +7204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monument: Ultimate Edition | 317249 | [317249-monument-ultimate-edition.json](./317249-monument-ultimate-edition.json) |
 | Monuments Flipper | 132741 | [132741-monuments-flipper.json](./132741-monuments-flipper.json) |
 | Monuments of Mars 2 | 300404 | [300404-monuments-of-mars-2.json](./300404-monuments-of-mars-2.json) |
+| Monzo VR | 26829 | [26829-monzo-vr.json](./26829-monzo-vr.json) |
 | Moo & Move | 316805 | [316805-moo-and-move.json](./316805-moo-and-move.json) |
 | Moo & Move: Extra Grazing Grounds | 328251 | [328251-moo-and-move-extra-grazing-grounds.json](./328251-moo-and-move-extra-grazing-grounds.json) |
 | Moo at the Moon | 71542 | [71542-moo-at-the-moon.json](./71542-moo-at-the-moon.json) |
@@ -8983,6 +8987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Horse 3D: Best Friends | 147823 | [147823-my-horse-3d-best-friends.json](./147823-my-horse-3d-best-friends.json) |
 | My Horse Farm | 206774 | [206774-my-horse-farm.json](./206774-my-horse-farm.json) |
 | My Horse Farm: Welcome to Trotterville | 206775 | [206775-my-horse-farm-welcome-to-trotterville.json](./206775-my-horse-farm-welcome-to-trotterville.json) |
+| My Horse Prince | 26786 | [26786-my-horse-prince.json](./26786-my-horse-prince.json) |
 | My Horse Stories | 300847 | [300847-my-horse-stories.json](./300847-my-horse-stories.json) |
 | My Horse Stories: Gold Edition | 385205 | [385205-my-horse-stories-gold-edition.json](./385205-my-horse-stories-gold-edition.json) |
 | My Horse Stories: Sunny Edition | 308807 | [308807-my-horse-stories-sunny-edition.json](./308807-my-horse-stories-sunny-edition.json) |
