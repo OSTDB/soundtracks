@@ -3678,6 +3678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flub Fighter | 31218 | [31218-flub-fighter.json](./31218-flub-fighter.json) |
 | Fluendora: The Realm of Scribes | 411127 | [411127-fluendora-the-realm-of-scribes.json](./411127-fluendora-the-realm-of-scribes.json) |
 | Fluff | 221749 | [221749-fluff.json](./221749-fluff.json) |
+| Fluff | 59479 | [59479-fluff.json](./59479-fluff.json) |
 | Fluff Up | 405579 | [405579-fluff-up.json](./405579-fluff-up.json) |
 | Fluff'n'Roll | 323516 | [323516-fluffnroll.json](./323516-fluffnroll.json) |
 | Flufftopia | 134696 | [134696-flufftopia.json](./134696-flufftopia.json) |
@@ -5094,6 +5095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freewheelin | 253023 | [253023-freewheelin.json](./253023-freewheelin.json) |
 | Freeze the Time | 187429 | [187429-freeze-the-time.json](./187429-freeze-the-time.json) |
 | Freeze: The Escape | 79902 | [79902-freeze-the-escape.json](./79902-freeze-the-escape.json) |
+| Freeze! 2: Brothers | 59476 | [59476-freeze-2-brothers.json](./59476-freeze-2-brothers.json) |
 | Freeze64 Christmas Game | 281530 | [281530-freeze64-christmas-game.json](./281530-freeze64-christmas-game.json) |
 | Freezeer | 103630 | [103630-freezeer.json](./103630-freezeer.json) |
 | Freezing Knights | 293750 | [293750-freezing-knights.json](./293750-freezing-knights.json) |
