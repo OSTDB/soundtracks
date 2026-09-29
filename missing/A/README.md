@@ -408,6 +408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Silent Wood | 61318 | [61318-a-silent-wood.json](./61318-a-silent-wood.json) |
 | A Simple Door | 311647 | [311647-a-simple-door.json](./311647-a-simple-door.json) |
 | A Simple Garbage Sorting Game | 329705 | [329705-a-simple-garbage-sorting-game.json](./329705-a-simple-garbage-sorting-game.json) |
+| A Simple Love Story | 25072 | [25072-a-simple-love-story.json](./25072-a-simple-love-story.json) |
 | A Simple Platformer | 339915 | [339915-a-simple-platformer.json](./339915-a-simple-platformer.json) |
 | A Simple Shooter | 179578 | [179578-a-simple-shooter.json](./179578-a-simple-shooter.json) |
 | A Simple Square | 236226 | [236226-a-simple-square.json](./236226-a-simple-square.json) |
@@ -1723,6 +1724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agrarian developer | 283883 | [283883-agrarian-developer.json](./283883-agrarian-developer.json) |
 | AgrChamp | 240748 | [240748-agrchamp.json](./240748-agrchamp.json) |
 | Agricultural Simulator 2012: Deluxe Edition | 36393 | [36393-agricultural-simulator-2012-deluxe-edition.json](./36393-agricultural-simulator-2012-deluxe-edition.json) |
+| Agricultural Simulator 2013: Collector's Edition | 25047 | [25047-agricultural-simulator-2013-collectors-edition.json](./25047-agricultural-simulator-2013-collectors-edition.json) |
 | Agricultural Simulator: Historical Farming | 9954 | [9954-agricultural-simulator-historical-farming.json](./9954-agricultural-simulator-historical-farming.json) |
 | Agriculture Tractor Sim | 264107 | [264107-agriculture-tractor-sim.json](./264107-agriculture-tractor-sim.json) |
 | Agritopia | 274510 | [274510-agritopia.json](./274510-agritopia.json) |
@@ -5476,6 +5478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ardubullets | 381726 | [381726-ardubullets.json](./381726-ardubullets.json) |
 | Arduventure | 144324 | [144324-arduventure.json](./144324-arduventure.json) |
 | Ardy Lightfoot | 42736 | [42736-ardy-lightfoot.json](./42736-ardy-lightfoot.json) |
+| Ardy the Aardvark | 25036 | [25036-ardy-the-aardvark.json](./25036-ardy-the-aardvark.json) |
 | Are U OK? | 179065 | [179065-are-u-ok.json](./179065-are-u-ok.json) |
 | Are We Sinking Yet? | 400961 | [400961-are-we-sinking-yet.json](./400961-are-we-sinking-yet.json) |
 | Are We Thawing | 241984 | [241984-are-we-thawing.json](./241984-are-we-thawing.json) |
