@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T15:18:24.804Z",
-  "total_missing": 140590,
+  "generated_at": "2026-09-29T15:31:19.720Z",
+  "total_missing": 140593,
   "games": [
     {
       "igdb_id": 186066,
@@ -48998,6 +48998,11 @@
       "file": "missing/B/273081-ballblazer.json"
     },
     {
+      "igdb_id": 177,
+      "game_name": "Ballblazer Champions",
+      "file": "missing/B/177-ballblazer-champions.json"
+    },
+    {
       "igdb_id": 226173,
       "game_name": "Balldventure",
       "file": "missing/B/226173-balldventure.json"
@@ -55601,6 +55606,11 @@
       "igdb_id": 52276,
       "game_name": "Battlegun",
       "file": "missing/B/52276-battlegun.json"
+    },
+    {
+      "igdb_id": 178,
+      "game_name": "Battlehawks 1942",
+      "file": "missing/B/178-battlehawks-1942.json"
     },
     {
       "igdb_id": 104236,
@@ -549411,6 +549421,11 @@
       "igdb_id": 171,
       "game_name": "Star Wars: X-Wing Tour of Duty - B-Wing",
       "file": "missing/S/171-star-wars-x-wing-tour-of-duty-b-wing.json"
+    },
+    {
+      "igdb_id": 173,
+      "game_name": "Star Wars: X-Wing Tour of Duty - Imperial Pursuit",
+      "file": "missing/S/173-star-wars-x-wing-tour-of-duty-imperial-pursuit.json"
     },
     {
       "igdb_id": 385716,
