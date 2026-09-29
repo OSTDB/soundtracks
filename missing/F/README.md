@@ -2047,6 +2047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighter Ace 3.5 | 50130 | [50130-fighter-ace-3-5.json](./50130-fighter-ace-3-5.json) |
 | Fighter Aces: Sky Dominance | 328531 | [328531-fighter-aces-sky-dominance.json](./328531-fighter-aces-sky-dominance.json) |
 | Fighter Bomber | 12589 | [12589-fighter-bomber.json](./12589-fighter-bomber.json) |
+| Fighter Command: The Battle of Britain | 23995 | [23995-fighter-command-the-battle-of-britain.json](./23995-fighter-command-the-battle-of-britain.json) |
 | Fighter on the Path of Glory | 293204 | [293204-fighter-on-the-path-of-glory.json](./293204-fighter-on-the-path-of-glory.json) |
 | Fighter Online | 252161 | [252161-fighter-online.json](./252161-fighter-online.json) |
 | Fighter Pilot: HeavyFire | 175699 | [175699-fighter-pilot-heavyfire.json](./175699-fighter-pilot-heavyfire.json) |
