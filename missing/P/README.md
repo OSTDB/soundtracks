@@ -2002,6 +2002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perceptio | 195167 | [195167-perceptio.json](./195167-perceptio.json) |
 | Perception | 271498 | [271498-perception.json](./271498-perception.json) |
 | Perceptions of the Dead 2 | 99050 | [99050-perceptions-of-the-dead-2.json](./99050-perceptions-of-the-dead-2.json) |
+| Percepts | 18392 | [18392-percepts.json](./18392-percepts.json) |
 | Perch | 29944 | [29944-perch.json](./29944-perch.json) |
 | Perchang World | 400242 | [400242-perchang-world.json](./400242-perchang-world.json) |
 | Percipio | 339634 | [339634-percipio.json](./339634-percipio.json) |
@@ -2245,6 +2246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Wash | 102612 | [102612-pet-wash.json](./102612-pet-wash.json) |
 | Pet World | 411146 | [411146-pet-world.json](./411146-pet-world.json) |
 | Pet'n'Run | 325833 | [325833-petnrun.json](./325833-petnrun.json) |
+| PETA's Pokémon Black & Blue | 18447 | [18447-petas-pokemon-black-and-blue.json](./18447-petas-pokemon-black-and-blue.json) |
 | Petadachi | 225876 | [225876-petadachi.json](./225876-petadachi.json) |
 | Petal Crash | 139293 | [139293-petal-crash.json](./139293-petal-crash.json) |
 | Petals of the Star Curtain | 153331 | [153331-petals-of-the-star-curtain.json](./153331-petals-of-the-star-curtain.json) |
@@ -2541,7 +2543,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phobia | 202320 | [202320-phobia.json](./202320-phobia.json) |
 | Phobia | 205114 | [205114-phobia.json](./205114-phobia.json) |
 | Phobia 1.5 | 159179 | [159179-phobia-1-5.json](./159179-phobia-1-5.json) |
+| Phobia 2 | 18482 | [18482-phobia-2.json](./18482-phobia-2.json) |
 | Phobia Exposure VR | 260619 | [260619-phobia-exposure-vr.json](./260619-phobia-exposure-vr.json) |
+| Phobia III: Edge of Humanity | 18483 | [18483-phobia-iii-edge-of-humanity.json](./18483-phobia-iii-edge-of-humanity.json) |
 | PhoboPhobia | 306479 | [306479-phobophobia.json](./306479-phobophobia.json) |
 | Phobos | 141096 | [141096-phobos.json](./141096-phobos.json) |
 | Phobos | 184093 | [184093-phobos.json](./184093-phobos.json) |
@@ -4120,6 +4124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet of the Apes | 282720 | [282720-planet-of-the-apes.json](./282720-planet-of-the-apes.json) |
 | Planet Oio | 317420 | [317420-planet-oio.json](./317420-planet-oio.json) |
 | Planet Omnia | 197912 | [197912-planet-omnia.json](./197912-planet-omnia.json) |
+| Planet Patrol | 18476 | [18476-planet-patrol.json](./18476-planet-patrol.json) |
 | Planet Pilots | 59647 | [59647-planet-pilots.json](./59647-planet-pilots.json) |
 | Planet Protector VR | 67939 | [67939-planet-protector-vr.json](./67939-planet-protector-vr.json) |
 | Planet Puzzle League | 23093 | [23093-planet-puzzle-league.json](./23093-planet-puzzle-league.json) |
