@@ -807,6 +807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magma Fever | 260629 | [260629-magma-fever.json](./260629-magma-fever.json) |
 | Magma Project Hacker | 41313 | [41313-magma-project-hacker.json](./41313-magma-project-hacker.json) |
 | Magman | 311271 | [311271-magman.json](./311271-magman.json) |
+| MagMax | 29033 | [29033-magmax.json](./29033-magmax.json) |
 | MagMaze | 240214 | [240214-magmaze.json](./240214-magmaze.json) |
 | Magna Braban: Henreki no Yuusha | 38374 | [38374-magna-braban-henreki-no-yuusha.json](./38374-magna-braban-henreki-no-yuusha.json) |
 | Magna Carta: Tears of Blood - Deluxe Box Set | 43423 | [43423-magna-carta-tears-of-blood-deluxe-box-set.json](./43423-magna-carta-tears-of-blood-deluxe-box-set.json) |
@@ -1701,6 +1702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Forever Remake | 307667 | [307667-mario-forever-remake.json](./307667-mario-forever-remake.json) |
 | Mario Forever: SMW Edition | 198464 | [198464-mario-forever-smw-edition.json](./198464-mario-forever-smw-edition.json) |
 | Mario Gives Up | 272818 | [272818-mario-gives-up.json](./272818-mario-gives-up.json) |
+| Mario Golf | 135389 | [135389-mario-golf.json](./135389-mario-golf.json) |
 | Mario Golf | 328590 | [328590-mario-golf.json](./328590-mario-golf.json) |
 | Mario Golf: Super Rush | 143609 | [143609-mario-golf-super-rush.json](./143609-mario-golf-super-rush.json) |
 | Mario Golf: World Tour - Flower Pack | 309117 | [309117-mario-golf-world-tour-flower-pack.json](./309117-mario-golf-world-tour-flower-pack.json) |
@@ -7909,6 +7911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotoGP | 282659 | [282659-motogp.json](./282659-motogp.json) |
 | MotoGP '07 | 186046 | [186046-motogp-07.json](./186046-motogp-07.json) |
 | MotoGP '08 | 5022 | [5022-motogp-08.json](./5022-motogp-08.json) |
+| MotoGP '17 | 28133 | [28133-motogp-17.json](./28133-motogp-17.json) |
 | MotoGP 13 | 7450 | [7450-motogp-13.json](./7450-motogp-13.json) |
 | MotoGP 13 Compact | 147303 | [147303-motogp-13-compact.json](./147303-motogp-13-compact.json) |
 | MotoGP 13: MotoGP Champions | 168355 | [168355-motogp-13-motogp-champions.json](./168355-motogp-13-motogp-champions.json) |
