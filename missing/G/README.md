@@ -1554,6 +1554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Ready For School, Charlie Brown! | 209596 | [209596-get-ready-for-school-charlie-brown.json](./209596-get-ready-for-school-charlie-brown.json) |
 | Get Rektorized | 207522 | [207522-get-rektorized.json](./207522-get-rektorized.json) |
 | Get Rich | 311645 | [311645-get-rich.json](./311645-get-rich.json) |
+| Get Rich or Die Gaming | 34627 | [34627-get-rich-or-die-gaming.json](./34627-get-rich-or-die-gaming.json) |
 | Get Rich! | 180704 | [180704-get-rich.json](./180704-get-rich.json) |
 | Get Rid Of Those Corners | 401523 | [401523-get-rid-of-those-corners.json](./401523-get-rid-of-those-corners.json) |
 | Get Ride! AMDriver: Senkou no Hero Tanjou | 49605 | [49605-get-ride-amdriver-senkou-no-hero-tanjou.json](./49605-get-ride-amdriver-senkou-no-hero-tanjou.json) |
