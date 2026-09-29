@@ -3169,6 +3169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Won't you come knocking | 183357 | [183357-wont-you-come-knocking.json](./183357-wont-you-come-knocking.json) |
 | Wonder Ball | 305858 | [305858-wonder-ball.json](./305858-wonder-ball.json) |
 | Wonder Blade | 107015 | [107015-wonder-blade.json](./107015-wonder-blade.json) |
+| Wonder Boy | 212862 | [212862-wonder-boy.json](./212862-wonder-boy.json) |
 | Wonder Boy | 212864 | [212864-wonder-boy.json](./212864-wonder-boy.json) |
 | Wonder Boy | 212865 | [212865-wonder-boy.json](./212865-wonder-boy.json) |
 | Wonder Boy | 212885 | [212885-wonder-boy.json](./212885-wonder-boy.json) |
@@ -3176,6 +3177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Boy Collection | 191754 | [191754-wonder-boy-collection.json](./191754-wonder-boy-collection.json) |
 | Wonder Boy III: Monster Lair | 4481 | [4481-wonder-boy-iii-monster-lair.json](./4481-wonder-boy-iii-monster-lair.json) |
 | Wonder Boy III: The Dragon's Trap | 18277 | [18277-wonder-boy-iii-the-dragons-trap.json](./18277-wonder-boy-iii-the-dragons-trap.json) |
+| Wonder Boy in Monster Land | 212868 | [212868-wonder-boy-in-monster-land.json](./212868-wonder-boy-in-monster-land.json) |
 | Wonder Boy in Monster World | 212866 | [212866-wonder-boy-in-monster-world.json](./212866-wonder-boy-in-monster-world.json) |
 | Wonder Boy in Monster World | 9540 | [9540-wonder-boy-in-monster-world.json](./9540-wonder-boy-in-monster-world.json) |
 | Wonder Boy: Anniversary Collection | 233787 | [233787-wonder-boy-anniversary-collection.json](./233787-wonder-boy-anniversary-collection.json) |
@@ -4280,6 +4282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE Tap Mania | 69501 | [69501-wwe-tap-mania.json](./69501-wwe-tap-mania.json) |
 | WWE WrestleFest | 95393 | [95393-wwe-wrestlefest.json](./95393-wwe-wrestlefest.json) |
 | WWE WrestleMania X8 | 4573 | [4573-wwe-wrestlemania-x8.json](./4573-wwe-wrestlemania-x8.json) |
+| WWE WrestleMania XIX | 4574 | [4574-wwe-wrestlemania-xix.json](./4574-wwe-wrestlemania-xix.json) |
 | WWF Attitude | 3643 | [3643-wwf-attitude.json](./3643-wwf-attitude.json) |
 | WWF No Mercy | 241491 | [241491-wwf-no-mercy.json](./241491-wwf-no-mercy.json) |
 | WWF No Mercy | 3644 | [3644-wwf-no-mercy.json](./3644-wwf-no-mercy.json) |
