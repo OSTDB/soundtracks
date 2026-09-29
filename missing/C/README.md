@@ -565,6 +565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Thieves: Tale of Gnomes | 90577 | [90577-candy-thieves-tale-of-gnomes.json](./90577-candy-thieves-tale-of-gnomes.json) |
 | Candy Tycoon | 236517 | [236517-candy-tycoon.json](./236517-candy-tycoon.json) |
 | Candy War | 402991 | [402991-candy-war.json](./402991-candy-war.json) |
+| Candy, Please! | 57157 | [57157-candy-please.json](./57157-candy-please.json) |
 | CandyCraft | 241500 | [241500-candycraft.json](./241500-candycraft.json) |
 | Candylight | 194423 | [194423-candylight.json](./194423-candylight.json) |
 | CandyMouse | 241349 | [241349-candymouse.json](./241349-candymouse.json) |
@@ -6823,6 +6824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cracking the Cryptic: GAS Volume #1 | 280875 | [280875-cracking-the-cryptic-gas-volume-1.json](./280875-cracking-the-cryptic-gas-volume-1.json) |
 | Cracking the Cryptic: Lines Variety Pack | 270083 | [270083-cracking-the-cryptic-lines-variety-pack.json](./270083-cracking-the-cryptic-lines-variety-pack.json) |
 | Crackinho Beat' em up in the World | 127120 | [127120-crackinho-beat-em-up-in-the-world.json](./127120-crackinho-beat-em-up-in-the-world.json) |
+| Crackle Cradle | 57187 | [57187-crackle-cradle.json](./57187-crackle-cradle.json) |
 | Crackout | 48292 | [48292-crackout.json](./48292-crackout.json) |
 | Cracks Where the Light Gets In | 245795 | [245795-cracks-where-the-light-gets-in.json](./245795-cracks-where-the-light-gets-in.json) |
 | Crackshot | 183982 | [183982-crackshot.json](./183982-crackshot.json) |
@@ -6957,6 +6959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Drive 3 | 153824 | [153824-crash-drive-3.json](./153824-crash-drive-3.json) |
 | Crash Dummy | 35855 | [35855-crash-dummy.json](./35855-crash-dummy.json) |
 | Crash Effects Inc. | 217514 | [217514-crash-effects-inc.json](./217514-crash-effects-inc.json) |
+| Crash Fever | 57178 | [57178-crash-fever.json](./57178-crash-fever.json) |
 | Crash Force | 26923 | [26923-crash-force.json](./26923-crash-force.json) |
 | Crash Fortress! + | 103173 | [103173-crash-fortress.json](./103173-crash-fortress.json) |
 | Crash Forts 2 | 205273 | [205273-crash-forts-2.json](./205273-crash-forts-2.json) |
