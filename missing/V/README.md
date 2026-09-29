@@ -1668,6 +1668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Dinosaur Pingpong | 235188 | [235188-vr-dinosaur-pingpong.json](./235188-vr-dinosaur-pingpong.json) |
 | VR Dinosaur Village | 282027 | [282027-vr-dinosaur-village.json](./282027-vr-dinosaur-village.json) |
 | VR Dodgeball Trainer | 191895 | [191895-vr-dodgeball-trainer.json](./191895-vr-dodgeball-trainer.json) |
+| VR Drum Studio | 54534 | [54534-vr-drum-studio.json](./54534-vr-drum-studio.json) |
 | VR Enigma | 105130 | [105130-vr-enigma.json](./105130-vr-enigma.json) |
 | VR Escape the Puzzle Room | 81182 | [81182-vr-escape-the-puzzle-room.json](./81182-vr-escape-the-puzzle-room.json) |
 | VR Escape the space station | 31782 | [31782-vr-escape-the-space-station.json](./31782-vr-escape-the-space-station.json) |
@@ -1692,6 +1693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Hentai Hot | 384635 | [384635-vr-hentai-hot.json](./384635-vr-hentai-hot.json) |
 | VR Hiroshima 1945 | 160140 | [160140-vr-hiroshima-1945.json](./160140-vr-hiroshima-1945.json) |
 | VR Houses: Glass Apartment | 282028 | [282028-vr-houses-glass-apartment.json](./282028-vr-houses-glass-apartment.json) |
+| VR Hurl | 54479 | [54479-vr-hurl.json](./54479-vr-hurl.json) |
 | VR Hybrid War 2117 | 75199 | [75199-vr-hybrid-war-2117.json](./75199-vr-hybrid-war-2117.json) |
 | VR Interior Designer Pro | 28921 | [28921-vr-interior-designer-pro.json](./28921-vr-interior-designer-pro.json) |
 | VR Journey | 31345 | [31345-vr-journey.json](./31345-vr-journey.json) |
