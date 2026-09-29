@@ -3131,6 +3131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alter A.I.L.A. Genesis | 308425 | [308425-alter-a-i-l-a-genesis.json](./308425-alter-a-i-l-a-genesis.json) |
 | Alter Age | 310513 | [310513-alter-age.json](./310513-alter-age.json) |
 | Alter Cosmos | 103539 | [103539-alter-cosmos.json](./103539-alter-cosmos.json) |
+| Alter Ego | 132717 | [132717-alter-ego.json](./132717-alter-ego.json) |
 | Alter Ego | 134505 | [134505-alter-ego.json](./134505-alter-ego.json) |
 | Alter Ego | 270396 | [270396-alter-ego.json](./270396-alter-ego.json) |
 | Alter Ego | 305386 | [305386-alter-ego.json](./305386-alter-ego.json) |
@@ -3590,6 +3591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amour Libre: Free Love | 129794 | [129794-amour-libre-free-love.json](./129794-amour-libre-free-love.json) |
 | Amped 2 | 5725 | [5725-amped-2.json](./5725-amped-2.json) |
 | Amped 3 | 5483 | [5483-amped-3.json](./5483-amped-3.json) |
+| Amped: Freestyle Snowboarding | 5484 | [5484-amped-freestyle-snowboarding.json](./5484-amped-freestyle-snowboarding.json) |
 | Ampere | 202265 | [202265-ampere.json](./202265-ampere.json) |
 | Ampguard | 188678 | [188678-ampguard.json](./188678-ampguard.json) |
 | Amphigeum | 382443 | [382443-amphigeum.json](./382443-amphigeum.json) |
