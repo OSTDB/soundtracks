@@ -1540,6 +1540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Myth Dissolution Center | 216784 | [216784-urban-myth-dissolution-center.json](./216784-urban-myth-dissolution-center.json) |
 | Urban Myth.exe | 387551 | [387551-urban-myth-exe.json](./387551-urban-myth-exe.json) |
 | Urban Project | 348877 | [348877-urban-project.json](./348877-urban-project.json) |
+| Urban Runner | 13789 | [13789-urban-runner.json](./13789-urban-runner.json) |
 | Urban Shadows Racing Tokyo | 371905 | [371905-urban-shadows-racing-tokyo.json](./371905-urban-shadows-racing-tokyo.json) |
 | Urban Space Squirrels | 66362 | [66362-urban-space-squirrels.json](./66362-urban-space-squirrels.json) |
 | Urban Street Fighting | 147476 | [147476-urban-street-fighting.json](./147476-urban-street-fighting.json) |
