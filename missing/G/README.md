@@ -849,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gardenscapes: Mansion Makeover | 294685 | [294685-gardenscapes-mansion-makeover.json](./294685-gardenscapes-mansion-makeover.json) |
 | Gardia | 39684 | [39684-gardia.json](./39684-gardia.json) |
 | Gardman | 282687 | [282687-gardman.json](./282687-gardman.json) |
+| Gare Sapphire Mechs | 25065 | [25065-gare-sapphire-mechs.json](./25065-gare-sapphire-mechs.json) |
 | Garena Blockman Go | 220215 | [220215-garena-blockman-go.json](./220215-garena-blockman-go.json) |
 | Garena Contra Returns | 223941 | [223941-garena-contra-returns.json](./223941-garena-contra-returns.json) |
 | Garenburg Woods | 75915 | [75915-garenburg-woods.json](./75915-garenburg-woods.json) |
@@ -2585,6 +2586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of Arrows | 57190 | [57190-god-of-arrows.json](./57190-god-of-arrows.json) |
 | God of Attack VIP | 95864 | [95864-god-of-attack-vip.json](./95864-god-of-attack-vip.json) |
 | God of Battle | 102580 | [102580-god-of-battle.json](./102580-god-of-battle.json) |
+| God of Blades | 25045 | [25045-god-of-blades.json](./25045-god-of-blades.json) |
 | God of Chaos | 408920 | [408920-god-of-chaos.json](./408920-god-of-chaos.json) |
 | God of Light | 23415 | [23415-god-of-light.json](./23415-god-of-light.json) |
 | God of Light: Remastered | 75048 | [75048-god-of-light-remastered.json](./75048-god-of-light-remastered.json) |
@@ -3685,6 +3687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graviteam Tactics: Operation Star | 17038 | [17038-graviteam-tactics-operation-star.json](./17038-graviteam-tactics-operation-star.json) |
 | Graviteam Tactics: Operation Star - Krasnaya Polyana 1943 | 155495 | [155495-graviteam-tactics-operation-star-krasnaya-polyana-1943.json](./155495-graviteam-tactics-operation-star-krasnaya-polyana-1943.json) |
 | Graviteam Tactics: Operation Star - Operation Hooper | 155493 | [155493-graviteam-tactics-operation-star-operation-hooper.json](./155493-graviteam-tactics-operation-star-operation-hooper.json) |
+| Graviteam Tactics: Operation Star - Shield of the Prophet | 25043 | [25043-graviteam-tactics-operation-star-shield-of-the-prophet.json](./25043-graviteam-tactics-operation-star-shield-of-the-prophet.json) |
 | Graviteam Tactics: Operation Star - Shilovo 1942 | 54062 | [54062-graviteam-tactics-operation-star-shilovo-1942.json](./54062-graviteam-tactics-operation-star-shilovo-1942.json) |
 | Graviteam Tactics: Operation Star - Sokolovo 1943 | 155494 | [155494-graviteam-tactics-operation-star-sokolovo-1943.json](./155494-graviteam-tactics-operation-star-sokolovo-1943.json) |
 | Graviteam Tactics: Operation Star - Volokonovka 1942 | 155496 | [155496-graviteam-tactics-operation-star-volokonovka-1942.json](./155496-graviteam-tactics-operation-star-volokonovka-1942.json) |
@@ -4612,6 +4615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gulag | 115179 | [115179-gulag.json](./115179-gulag.json) |
 | Gulag | 268773 | [268773-gulag.json](./268773-gulag.json) |
 | Gulf of Aden - Task Force Somalia | 34370 | [34370-gulf-of-aden-task-force-somalia.json](./34370-gulf-of-aden-task-force-somalia.json) |
+| Gulf Strike | 25034 | [25034-gulf-strike.json](./25034-gulf-strike.json) |
 | Gulkave | 6109 | [6109-gulkave.json](./6109-gulkave.json) |
 | Gull Kebap VR | 104058 | [104058-gull-kebap-vr.json](./104058-gull-kebap-vr.json) |
 | Gulman 3D | 199059 | [199059-gulman-3d.json](./199059-gulman-3d.json) |
