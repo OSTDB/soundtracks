@@ -1376,6 +1376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire of the Ants: Limited Edition | 291541 | [291541-empire-of-the-ants-limited-edition.json](./291541-empire-of-the-ants-limited-edition.json) |
 | Empire of the Dead Souls | 93748 | [93748-empire-of-the-dead-souls.json](./93748-empire-of-the-dead-souls.json) |
 | Empire of the Fallen Steel | 37388 | [37388-empire-of-the-fallen-steel.json](./37388-empire-of-the-fallen-steel.json) |
+| Empire of the Over-Mind | 18470 | [18470-empire-of-the-over-mind.json](./18470-empire-of-the-over-mind.json) |
 | Empire of Vice: Chicago | 388258 | [388258-empire-of-vice-chicago.json](./388258-empire-of-vice-chicago.json) |
 | Empire Origin: Rise | 258204 | [258204-empire-origin-rise.json](./258204-empire-origin-rise.json) |
 | Empire Run | 248648 | [248648-empire-run.json](./248648-empire-run.json) |
@@ -2696,6 +2697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eufloria | 7596 | [7596-eufloria.json](./7596-eufloria.json) |
 | Eufloria 2 | 413631 | [413631-eufloria-2.json](./413631-eufloria-2.json) |
 | Eufloria Classic | 321480 | [321480-eufloria-classic.json](./321480-eufloria-classic.json) |
+| Eugenics | 18426 | [18426-eugenics.json](./18426-eugenics.json) |
 | Eukarion Tales: Origins | 259581 | [259581-eukarion-tales-origins.json](./259581-eukarion-tales-origins.json) |
 | Euler Wars | 130166 | [130166-euler-wars.json](./130166-euler-wars.json) |
 | Eulogy for Nonno | 374813 | [374813-eulogy-for-nonno.json](./374813-eulogy-for-nonno.json) |
