@@ -960,6 +960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Legends: 2025 Season Two - Spirit Blossom Beyond | 342170 | [342170-league-of-legends-2025-season-two-spirit-blossom-beyond.json](./342170-league-of-legends-2025-season-two-spirit-blossom-beyond.json) |
 | League of Legends: Esports Manager | 279064 | [279064-league-of-legends-esports-manager.json](./279064-league-of-legends-esports-manager.json) |
 | League of Light | 47277 | [47277-league-of-light.json](./47277-league-of-light.json) |
+| League of Light: Dark Omens - Collector's Edition | 31065 | [31065-league-of-light-dark-omens-collectors-edition.json](./31065-league-of-light-dark-omens-collectors-edition.json) |
 | League of Light: Dark Omens & League of Light: Wicked Harvest | 201815 | [201815-league-of-light-dark-omens-and-league-of-light-wicked-harvest.json](./201815-league-of-light-dark-omens-and-league-of-light-wicked-harvest.json) |
 | League of Light: Edge of Justice | 108245 | [108245-league-of-light-edge-of-justice.json](./108245-league-of-light-edge-of-justice.json) |
 | League of Piss | 383041 | [383041-league-of-piss.json](./383041-league-of-piss.json) |
@@ -1331,6 +1332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legions of Chaos | 220180 | [220180-legions-of-chaos.json](./220180-legions-of-chaos.json) |
 | Legions of Dawn | 124722 | [124722-legions-of-dawn.json](./124722-legions-of-dawn.json) |
 | Legions of Death | 37085 | [37085-legions-of-death.json](./37085-legions-of-death.json) |
+| Legions of Tyrandel | 31123 | [31123-legions-of-tyrandel.json](./31123-legions-of-tyrandel.json) |
 | Legionwood: Tale of the Two Swords | 33016 | [33016-legionwood-tale-of-the-two-swords.json](./33016-legionwood-tale-of-the-two-swords.json) |
 | Legna Tactica | 26666 | [26666-legna-tactica.json](./26666-legna-tactica.json) |
 | LEGO 2K Drive: Awesome Edition | 242494 | [242494-lego-2k-drive-awesome-edition.json](./242494-lego-2k-drive-awesome-edition.json) |
