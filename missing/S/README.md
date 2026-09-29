@@ -1386,6 +1386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SchoolMate | 22464 | [22464-schoolmate.json](./22464-schoolmate.json) |
 | SchoolMate Sweets! | 22466 | [22466-schoolmate-sweets.json](./22466-schoolmate-sweets.json) |
 | Schoolmates - The Mystery of the Magic Bracelet | 54347 | [54347-schoolmates-the-mystery-of-the-magic-bracelet.json](./54347-schoolmates-the-mystery-of-the-magic-bracelet.json) |
+| Schoolmates from Present to Past | 54346 | [54346-schoolmates-from-present-to-past.json](./54346-schoolmates-from-present-to-past.json) |
 | Schoolmates: The Mystery of the Magical Bracelet | 165005 | [165005-schoolmates-the-mystery-of-the-magical-bracelet.json](./165005-schoolmates-the-mystery-of-the-magical-bracelet.json) |
 | Schoolnight, 3am | 299870 | [299870-schoolnight-3am.json](./299870-schoolnight-3am.json) |
 | SchoolX | 197854 | [197854-schoolx.json](./197854-schoolx.json) |
@@ -1634,6 +1635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ScreamCap | 190723 | [190723-screamcap.json](./190723-screamcap.json) |
 | Screamdown | 265098 | [265098-screamdown.json](./265098-screamdown.json) |
 | Screamer Rally | 7142 | [7142-screamer-rally.json](./7142-screamer-rally.json) |
+| Screaming Eagles | 54511 | [54511-screaming-eagles.json](./54511-screaming-eagles.json) |
 | Screaming in the Basement | 329180 | [329180-screaming-in-the-basement.json](./329180-screaming-in-the-basement.json) |
 | Screaming Savage Blood Death | 311100 | [311100-screaming-savage-blood-death.json](./311100-screaming-savage-blood-death.json) |
 | Scree | 236371 | [236371-scree.json](./236371-scree.json) |
@@ -2082,6 +2084,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of the Lost Tomb | 165626 | [165626-secrets-of-the-lost-tomb.json](./165626-secrets-of-the-lost-tomb.json) |
 | Secrets of the Middle Ages | 165660 | [165660-secrets-of-the-middle-ages.json](./165660-secrets-of-the-middle-ages.json) |
 | Secrets of the Temple | 193416 | [193416-secrets-of-the-temple.json](./193416-secrets-of-the-temple.json) |
+| Secrets of the Titanic 1912-2012 | 54345 | [54345-secrets-of-the-titanic-1912-2012.json](./54345-secrets-of-the-titanic-1912-2012.json) |
+| Secrets of the Vatican Extended Edition | 54344 | [54344-secrets-of-the-vatican-extended-edition.json](./54344-secrets-of-the-vatican-extended-edition.json) |
 | Secrets of the Waves | 181142 | [181142-secrets-of-the-waves.json](./181142-secrets-of-the-waves.json) |
 | Secrets of the Witch House | 240758 | [240758-secrets-of-the-witch-house.json](./240758-secrets-of-the-witch-house.json) |
 | Secrets of Tibet | 54354 | [54354-secrets-of-tibet.json](./54354-secrets-of-tibet.json) |
@@ -2457,6 +2461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senran Kagura Reflexions: Yumi Reflexions Course & 9-Outfit Set | 374267 | [374267-senran-kagura-reflexions-yumi-reflexions-course-and-9-outfit-set.json](./374267-senran-kagura-reflexions-yumi-reflexions-course-and-9-outfit-set.json) |
 | Senran Kagura: Estival Versus | 11006 | [11006-senran-kagura-estival-versus.json](./11006-senran-kagura-estival-versus.json) |
 | Senran Kagura: Estival Versus - Endless Summer Edition | 42677 | [42677-senran-kagura-estival-versus-endless-summer-edition.json](./42677-senran-kagura-estival-versus-endless-summer-edition.json) |
+| Senran Kagura: New Link | 54520 | [54520-senran-kagura-new-link.json](./54520-senran-kagura-new-link.json) |
 | Senran Kagura: Peach and Reflexions Limited Double Pack | 136928 | [136928-senran-kagura-peach-and-reflexions-limited-double-pack.json](./136928-senran-kagura-peach-and-reflexions-limited-double-pack.json) |
 | Senran Meisuishu Tactics | 83548 | [83548-senran-meisuishu-tactics.json](./83548-senran-meisuishu-tactics.json) |
 | Senran Nin Nin Ninja Taisen Neptune: Shoujo-tachi no Kyouen - Nep-Nep Shinobi Moe Box | 146338 | [146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json](./146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json) |
@@ -3328,6 +3333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shapes of Memory: Jigsaw Puzzle | 392260 | [392260-shapes-of-memory-jigsaw-puzzle.json](./392260-shapes-of-memory-jigsaw-puzzle.json) |
 | Shapes on the Run | 108479 | [108479-shapes-on-the-run.json](./108479-shapes-on-the-run.json) |
 | Shapes! Toddler Kids Games,Baby Boys Learning Free | 86806 | [86806-shapes-toddler-kids-games-baby-boys-learning-free.json](./86806-shapes-toddler-kids-games-baby-boys-learning-free.json) |
+| Shapes2 | 54478 | [54478-shapes2.json](./54478-shapes2.json) |
 | Shapes3 | 54477 | [54477-shapes3.json](./54477-shapes3.json) |
 | ShapeScale | 324326 | [324326-shapescale.json](./324326-shapescale.json) |
 | ShapeShift for Cheese! | 326618 | [326618-shapeshift-for-cheese.json](./326618-shapeshift-for-cheese.json) |
@@ -7238,6 +7244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldier Elite | 208901 | [208901-soldier-elite.json](./208901-soldier-elite.json) |
 | Soldier Front 2 | 63308 | [63308-soldier-front-2.json](./63308-soldier-front-2.json) |
 | Soldier Girl Amazon | 40170 | [40170-soldier-girl-amazon.json](./40170-soldier-girl-amazon.json) |
+| Soldier Killer | 54501 | [54501-soldier-killer.json](./54501-soldier-killer.json) |
 | Soldier of Failure 2 | 74356 | [74356-soldier-of-failure-2.json](./74356-soldier-of-failure-2.json) |
 | Soldier of Fortune | 135691 | [135691-soldier-of-fortune.json](./135691-soldier-of-fortune.json) |
 | Soldier of Fortune II: Double Helix - Gold Edition | 154525 | [154525-soldier-of-fortune-ii-double-helix-gold-edition.json](./154525-soldier-of-fortune-ii-double-helix-gold-edition.json) |
@@ -7982,6 +7989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic With a Gun | 331977 | [331977-sonic-with-a-gun.json](./331977-sonic-with-a-gun.json) |
 | Sonic World | 239068 | [239068-sonic-world.json](./239068-sonic-world.json) |
 | Sonic World Remix | 332618 | [332618-sonic-world-remix.json](./332618-sonic-world-remix.json) |
+| Sonic X | 54549 | [54549-sonic-x.json](./54549-sonic-x.json) |
 | Sonic X Bowling | 299872 | [299872-sonic-x-bowling.json](./299872-sonic-x-bowling.json) |
 | Sonic X Shadow Generations: Day One Edition | 381127 | [381127-sonic-x-shadow-generations-day-one-edition.json](./381127-sonic-x-shadow-generations-day-one-edition.json) |
 | Sonic X Shadow Generations: Sonic Jam Skin | 323393 | [323393-sonic-x-shadow-generations-sonic-jam-skin.json](./323393-sonic-x-shadow-generations-sonic-jam-skin.json) |
@@ -8937,6 +8945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Vikings | 261551 | [261551-space-vikings.json](./261551-space-vikings.json) |
 | Space Virus Escape | 363044 | [363044-space-virus-escape.json](./363044-space-virus-escape.json) |
 | Space Voyage: The Puzzle Game | 220668 | [220668-space-voyage-the-puzzle-game.json](./220668-space-voyage-the-puzzle-game.json) |
+| Space Voyager | 54515 | [54515-space-voyager.json](./54515-space-voyager.json) |
 | Space Walk | 170527 | [170527-space-walk.json](./170527-space-walk.json) |
 | Space Walk: Memory Games for Adults | 232538 | [232538-space-walk-memory-games-for-adults.json](./232538-space-walk-memory-games-for-adults.json) |
 | Space War Attack | 43546 | [43546-space-war-attack.json](./43546-space-war-attack.json) |
@@ -10754,6 +10763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Tactics Redux: Clash of Fleets | 95856 | [95856-star-tactics-redux-clash-of-fleets.json](./95856-star-tactics-redux-clash-of-fleets.json) |
 | Star Tactics Redux: Expeditions | 169952 | [169952-star-tactics-redux-expeditions.json](./169952-star-tactics-redux-expeditions.json) |
 | Star Tank | 169457 | [169457-star-tank.json](./169457-star-tank.json) |
+| Star Tap | 54540 | [54540-star-tap.json](./54540-star-tap.json) |
 | Star Tower | 373537 | [373537-star-tower.json](./373537-star-tower.json) |
 | Star Tracer | 357305 | [357305-star-tracer.json](./357305-star-tracer.json) |
 | Star Traders | 69581 | [69581-star-traders.json](./69581-star-traders.json) |
@@ -11052,6 +11062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarForce: 2193 | 34475 | [34475-starforce-2193.json](./34475-starforce-2193.json) |
 | Starforge | 172038 | [172038-starforge.json](./172038-starforge.json) |
 | Starforge | 295305 | [295305-starforge.json](./295305-starforge.json) |
+| Starfox | 54519 | [54519-starfox.json](./54519-starfox.json) |
 | StarFringe: Adversus | 33148 | [33148-starfringe-adversus.json](./33148-starfringe-adversus.json) |
 | Starfront: Collision | 87701 | [87701-starfront-collision.json](./87701-starfront-collision.json) |
 | Starfuse | 260214 | [260214-starfuse.json](./260214-starfuse.json) |
@@ -11709,6 +11720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellaris: Rick The Cube Species Portrait | 298132 | [298132-stellaris-rick-the-cube-species-portrait.json](./298132-stellaris-rick-the-cube-species-portrait.json) |
 | Stellaris: Season 08 | 298182 | [298182-stellaris-season-08.json](./298182-stellaris-season-08.json) |
 | Stellaris: Shadows of the Shroud | 336603 | [336603-stellaris-shadows-of-the-shroud.json](./336603-stellaris-shadows-of-the-shroud.json) |
+| Stellaris: Synthetic Dawn | 54528 | [54528-stellaris-synthetic-dawn.json](./54528-stellaris-synthetic-dawn.json) |
 | Stellaris: The Machine Age | 291611 | [291611-stellaris-the-machine-age.json](./291611-stellaris-the-machine-age.json) |
 | Stellaris: Toxoids | 218170 | [218170-stellaris-toxoids.json](./218170-stellaris-toxoids.json) |
 | Stellarons Superstars: Detectives of the Scarlet Horizons | 300838 | [300838-stellarons-superstars-detectives-of-the-scarlet-horizons.json](./300838-stellarons-superstars-detectives-of-the-scarlet-horizons.json) |
@@ -14854,6 +14866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperLite 2000: Tokyo Bus Annai Kyou kara Kimi mo Untenshu | 56547 | [56547-superlite-2000-tokyo-bus-annai-kyou-kara-kimi-mo-untenshu.json](./56547-superlite-2000-tokyo-bus-annai-kyou-kara-kimi-mo-untenshu.json) |
 | SuperLite 3in1 Series: Nankuro Shuu | 386217 | [386217-superlite-3in1-series-nankuro-shuu.json](./386217-superlite-3in1-series-nankuro-shuu.json) |
 | SuperLite 3in1: Arcade Game Shuu | 97299 | [97299-superlite-3in1-arcade-game-shuu.json](./97299-superlite-3in1-arcade-game-shuu.json) |
+| SuperLuminauts | 54490 | [54490-superluminauts.json](./54490-superluminauts.json) |
 | Superlunary: Episode 1.0 | 136873 | [136873-superlunary-episode-1-0.json](./136873-superlunary-episode-1-0.json) |
 | Superman | 131546 | [131546-superman.json](./131546-superman.json) |
 | Superman | 361718 | [361718-superman.json](./361718-superman.json) |
