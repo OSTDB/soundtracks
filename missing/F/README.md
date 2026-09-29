@@ -474,6 +474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Evolution | 334792 | [334792-fallen-evolution.json](./334792-fallen-evolution.json) |
 | Fallen Fates | 345579 | [345579-fallen-fates.json](./345579-fallen-fates.json) |
 | Fallen from Grace | 271220 | [271220-fallen-from-grace.json](./271220-fallen-from-grace.json) |
+| Fallen Gods | 58297 | [58297-fallen-gods.json](./58297-fallen-gods.json) |
 | Fallen Guns | 190444 | [190444-fallen-guns.json](./190444-fallen-guns.json) |
 | Fallen Haven | 24072 | [24072-fallen-haven.json](./24072-fallen-haven.json) |
 | Fallen Haven: Liberation Day | 154493 | [154493-fallen-haven-liberation-day.json](./154493-fallen-haven-liberation-day.json) |
@@ -1933,6 +1934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Soccer 97 | 240191 | [240191-fifa-soccer-97.json](./240191-fifa-soccer-97.json) |
 | FIFA Soccer 97 | 240217 | [240217-fifa-soccer-97.json](./240217-fifa-soccer-97.json) |
 | FIFA Soccer Manager | 79955 | [79955-fifa-soccer-manager.json](./79955-fifa-soccer-manager.json) |
+| FIFA Soccer: Prime Stars | 58312 | [58312-fifa-soccer-prime-stars.json](./58312-fifa-soccer-prime-stars.json) |
 | FIFA Street 3 | 7304 | [7304-fifa-street-3.json](./7304-fifa-street-3.json) |
 | FIFA World Cup: Launch Edition | 404400 | [404400-fifa-world-cup-launch-edition.json](./404400-fifa-world-cup-launch-edition.json) |
 | FIFA: Road to World Cup 98 | 705 | [705-fifa-road-to-world-cup-98.json](./705-fifa-road-to-world-cup-98.json) |
@@ -3350,6 +3352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flick Home Run! | 88782 | [88782-flick-home-run.json](./88782-flick-home-run.json) |
 | Flick Kick Football Legends | 305151 | [305151-flick-kick-football-legends.json](./305151-flick-kick-football-legends.json) |
 | Flick Nations Rugby | 58182 | [58182-flick-nations-rugby.json](./58182-flick-nations-rugby.json) |
+| Flick Pool | 58302 | [58302-flick-pool.json](./58302-flick-pool.json) |
 | Flick Quarterback 16 | 58207 | [58207-flick-quarterback-16.json](./58207-flick-quarterback-16.json) |
 | Flick Rugby 16 | 58197 | [58197-flick-rugby-16.json](./58197-flick-rugby-16.json) |
 | Flick Shoot | 117727 | [117727-flick-shoot.json](./117727-flick-shoot.json) |
@@ -4342,6 +4345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Eras | 368499 | [368499-forgotten-eras.json](./368499-forgotten-eras.json) |
 | Forgotten Faces | 47998 | [47998-forgotten-faces.json](./47998-forgotten-faces.json) |
 | Forgotten Fears | 312734 | [312734-forgotten-fears.json](./312734-forgotten-fears.json) |
+| Forgotten Forest: Afterlife | 58301 | [58301-forgotten-forest-afterlife.json](./58301-forgotten-forest-afterlife.json) |
 | Forgotten Fragments | 156059 | [156059-forgotten-fragments.json](./156059-forgotten-fragments.json) |
 | Forgotten Gifts | 114349 | [114349-forgotten-gifts.json](./114349-forgotten-gifts.json) |
 | Forgotten Heroes | 31858 | [31858-forgotten-heroes.json](./31858-forgotten-heroes.json) |
@@ -5692,6 +5696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FukTopia 5 | 220591 | [220591-fuktopia-5.json](./220591-fuktopia-5.json) |
 | Fukufuku no Shima | 59373 | [59373-fukufuku-no-shima.json](./59373-fukufuku-no-shima.json) |
 | Fukuro to Subaru | 326946 | [326946-fukuro-to-subaru.json](./326946-fukuro-to-subaru.json) |
+| Fulcrum | 58284 | [58284-fulcrum.json](./58284-fulcrum.json) |
 | Fulcrum Frenzy | 183006 | [183006-fulcrum-frenzy.json](./183006-fulcrum-frenzy.json) |
 | Fule | 305537 | [305537-fule.json](./305537-fule.json) |
 | Fulfill the Dream | 338811 | [338811-fulfill-the-dream.json](./338811-fulfill-the-dream.json) |
