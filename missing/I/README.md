@@ -1754,6 +1754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinitely Up 5 | 335336 | [335336-infinitely-up-5.json](./335336-infinitely-up-5.json) |
 | Infinitely Up: Skip Figure | 335333 | [335333-infinitely-up-skip-figure.json](./335333-infinitely-up-skip-figure.json) |
 | Infinitely Up: Turn the Figure | 335334 | [335334-infinitely-up-turn-the-figure.json](./335334-infinitely-up-turn-the-figure.json) |
+| Infiniti VR | 29051 | [29051-infiniti-vr.json](./29051-infiniti-vr.json) |
 | Infinitode | 71028 | [71028-infinitode.json](./71028-infinitode.json) |
 | Infinitree | 187237 | [187237-infinitree.json](./187237-infinitree.json) |
 | Infinitroid | 70380 | [70380-infinitroid.json](./70380-infinitroid.json) |
@@ -2931,6 +2932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Istanbul | 274194 | [274194-istanbul.json](./274194-istanbul.json) |
 | Istanbul, Texas | 159071 | [159071-istanbul-texas.json](./159071-istanbul-texas.json) |
 | Istaria: Chronicles of the Gifted | 9578 | [9578-istaria-chronicles-of-the-gifted.json](./9578-istaria-chronicles-of-the-gifted.json) |
+| iStorm | 29111 | [29111-istorm.json](./29111-istorm.json) |
 | Istrolid | 33326 | [33326-istrolid.json](./33326-istrolid.json) |
 | iSwinging 2 | 101611 | [101611-iswinging-2.json](./101611-iswinging-2.json) |
 | It All Boils Down to This | 184125 | [184125-it-all-boils-down-to-this.json](./184125-it-all-boils-down-to-this.json) |
