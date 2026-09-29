@@ -5313,6 +5313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Krampus | 289995 | [289995-the-krampus.json](./289995-the-krampus.json) |
 | The Krilling: Scare Feast! | 298146 | [298146-the-krilling-scare-feast.json](./298146-the-krilling-scare-feast.json) |
 | The Krion Conquest | 48173 | [48173-the-krion-conquest.json](./48173-the-krion-conquest.json) |
+| The Kristal | 12168 | [12168-the-kristal.json](./12168-the-kristal.json) |
 | The Krypton Factor | 12955 | [12955-the-krypton-factor.json](./12955-the-krypton-factor.json) |
 | The Kutar's Tabipero | 340039 | [340039-the-kutars-tabipero.json](./340039-the-kutars-tabipero.json) |
 | The Kwanstone Project | 214751 | [214751-the-kwanstone-project.json](./214751-the-kwanstone-project.json) |
@@ -6080,6 +6081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magician Of Justice | 289986 | [289986-the-magician-of-justice.json](./289986-the-magician-of-justice.json) |
 | The Magician VR: The Cursed Wand | 406169 | [406169-the-magician-vr-the-cursed-wand.json](./406169-the-magician-vr-the-cursed-wand.json) |
 | The Magician's Academy | 279087 | [279087-the-magicians-academy.json](./279087-the-magicians-academy.json) |
+| The Magician's Curse | 12285 | [12285-the-magicians-curse.json](./12285-the-magicians-curse.json) |
 | The Magician's Handbook: Cursed Valley | 118180 | [118180-the-magicians-handbook-cursed-valley.json](./118180-the-magicians-handbook-cursed-valley.json) |
 | The Magician's Research | 123571 | [123571-the-magicians-research.json](./123571-the-magicians-research.json) |
 | The Magistrate | 247750 | [247750-the-magistrate.json](./247750-the-magistrate.json) |
