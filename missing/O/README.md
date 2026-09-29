@@ -1316,6 +1316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OneBit Jetpack | 292054 | [292054-onebit-jetpack.json](./292054-onebit-jetpack.json) |
 | Onechanbara Z: Kagura With NoNoNo! | 116359 | [116359-onechanbara-z-kagura-with-nonono.json](./116359-onechanbara-z-kagura-with-nonono.json) |
 | OneDayOne | 341505 | [341505-onedayone.json](./341505-onedayone.json) |
+| Onee Chanbara Origin | 139921 | [139921-onee-chanbara-origin.json](./139921-onee-chanbara-origin.json) |
 | Onee-chan wa Kushizashikou!? Atashi no Kui de Tsuranuite Ageru | 97463 | [97463-onee-chan-wa-kushizashikou-atashi-no-kui-de-tsuranuite-ageru.json](./97463-onee-chan-wa-kushizashikou-atashi-no-kui-de-tsuranuite-ageru.json) |
 | Onee-san ga Tabetai no ha Kimi no... | 251617 | [251617-onee-san-ga-tabetai-no-ha-kimi-no.json](./251617-onee-san-ga-tabetai-no-ha-kimi-no.json) |
 | Onee-san ni Makasenasai! Ryoubo to Joushi no Yawaraka Oppai ni Hasamarete | 108869 | [108869-onee-san-ni-makasenasai-ryoubo-to-joushi-no-yawaraka-oppai-ni-hasamarete.json](./108869-onee-san-ni-makasenasai-ryoubo-to-joushi-no-yawaraka-oppai-ni-hasamarete.json) |
@@ -2409,6 +2410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlands Safehouse | 405475 | [405475-outlands-safehouse.json](./405475-outlands-safehouse.json) |
 | Outlast: Bundle of Terror | 82441 | [82441-outlast-bundle-of-terror.json](./82441-outlast-bundle-of-terror.json) |
 | Outlast: Journey of a Gladiator | 157186 | [157186-outlast-journey-of-a-gladiator.json](./157186-outlast-journey-of-a-gladiator.json) |
+| Outlast: Trinity | 28230 | [28230-outlast-trinity.json](./28230-outlast-trinity.json) |
 | Outlaw | 123065 | [123065-outlaw.json](./123065-outlaw.json) |
 | Outlaw 1997 | 148389 | [148389-outlaw-1997.json](./148389-outlaw-1997.json) |
 | Outlaw Chopper | 68018 | [68018-outlaw-chopper.json](./68018-outlaw-chopper.json) |
