@@ -310,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Modern Warfare Remastered - Variety Map Pack | 168155 | [168155-call-of-duty-modern-warfare-remastered-variety-map-pack.json](./168155-call-of-duty-modern-warfare-remastered-variety-map-pack.json) |
 | Call of Duty: Modern Warfare Trilogy | 42975 | [42975-call-of-duty-modern-warfare-trilogy.json](./42975-call-of-duty-modern-warfare-trilogy.json) |
 | Call of Duty: Roads to Victory | 3120 | [3120-call-of-duty-roads-to-victory.json](./3120-call-of-duty-roads-to-victory.json) |
+| Call of Duty: Strike Team | 41513 | [41513-call-of-duty-strike-team.json](./41513-call-of-duty-strike-team.json) |
 | Call of Duty: The War Collection | 292856 | [292856-call-of-duty-the-war-collection.json](./292856-call-of-duty-the-war-collection.json) |
 | Call of Duty: Vanguard | 165067 | [165067-call-of-duty-vanguard.json](./165067-call-of-duty-vanguard.json) |
 | Call of Duty: Vanguard - Season Four | 205058 | [205058-call-of-duty-vanguard-season-four.json](./205058-call-of-duty-vanguard-season-four.json) |
@@ -639,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canyon Miner: Minecart Rush | 233110 | [233110-canyon-miner-minecart-rush.json](./233110-canyon-miner-minecart-rush.json) |
 | Canyon Rush | 291619 | [291619-canyon-rush.json](./291619-canyon-rush.json) |
 | Canyon Watch | 266264 | [266264-canyon-watch.json](./266264-canyon-watch.json) |
+| CanYouTilt | 41488 | [41488-canyoutilt.json](./41488-canyoutilt.json) |
 | Cap'n Marcela's Winter Wonderland | 310543 | [310543-capn-marcelas-winter-wonderland.json](./310543-capn-marcelas-winter-wonderland.json) |
 | Capacocha | 179139 | [179139-capacocha.json](./179139-capacocha.json) |
 | Caparace | 383966 | [383966-caparace.json](./383966-caparace.json) |
@@ -1349,6 +1351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casino Rogue | 304634 | [304634-casino-rogue.json](./304634-casino-rogue.json) |
 | Casino Roulette Royal | 166682 | [166682-casino-roulette-royal.json](./166682-casino-roulette-royal.json) |
 | Casino Simulator | 295316 | [295316-casino-simulator.json](./295316-casino-simulator.json) |
+| Casino Slot Machine | 41528 | [41528-casino-slot-machine.json](./41528-casino-slot-machine.json) |
 | Casino World | 303087 | [303087-casino-world.json](./303087-casino-world.json) |
 | Casino! | 68727 | [68727-casino.json](./68727-casino.json) |
 | Casinolife Poker | 139239 | [139239-casinolife-poker.json](./139239-casinolife-poker.json) |
@@ -2944,6 +2947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chex | 232978 | [232978-chex.json](./232978-chex.json) |
 | Cheyenne | 25957 | [25957-cheyenne.json](./25957-cheyenne.json) |
 | Chez Croggy | 264153 | [264153-chez-croggy.json](./264153-chez-croggy.json) |
+| Chez Maxime | 41527 | [41527-chez-maxime.json](./41527-chez-maxime.json) |
 | Chezz | 242660 | [242660-chezz.json](./242660-chezz.json) |
 | Chezz | 56445 | [56445-chezz.json](./56445-chezz.json) |
 | Chi | 301424 | [301424-chi.json](./301424-chi.json) |
@@ -3845,6 +3849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circular Fever | 284972 | [284972-circular-fever.json](./284972-circular-fever.json) |
 | Circular Logic Games | 264702 | [264702-circular-logic-games.json](./264702-circular-logic-games.json) |
 | Circulets | 39184 | [39184-circulets.json](./39184-circulets.json) |
+| Circulets: the game for families, friends and parties | 41503 | [41503-circulets-the-game-for-families-friends-and-parties.json](./41503-circulets-the-game-for-families-friends-and-parties.json) |
 | Circumference Encompass | 306955 | [306955-circumference-encompass.json](./306955-circumference-encompass.json) |
 | Circus | 12944 | [12944-circus.json](./12944-circus.json) |
 | Circus | 206349 | [206349-circus.json](./206349-circus.json) |
@@ -6219,6 +6224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CoolPaintr VR: Voxel | 270143 | [270143-coolpaintr-vr-voxel.json](./270143-coolpaintr-vr-voxel.json) |
 | CoolPaintrVR | 99771 | [99771-coolpaintrvr.json](./99771-coolpaintrvr.json) |
 | Coolson’s Chocolate Alphabet | 266835 | [266835-coolson-s-chocolate-alphabet.json](./266835-coolson-s-chocolate-alphabet.json) |
+| Coolson's Pocket Pack | 41515 | [41515-coolsons-pocket-pack.json](./41515-coolsons-pocket-pack.json) |
 | Cooly Skunk | 132647 | [132647-cooly-skunk.json](./132647-cooly-skunk.json) |
 | Coop Catacombs | 293895 | [293895-coop-catacombs.json](./293895-coop-catacombs.json) |
 | Coop Tank War | 111008 | [111008-coop-tank-war.json](./111008-coop-tank-war.json) |
