@@ -177,8 +177,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachinko Wars | 42230 | [42230-pachinko-wars.json](./42230-pachinko-wars.json) |
 | Pachinko Wars 2 | 42229 | [42229-pachinko-wars-2.json](./42229-pachinko-wars-2.json) |
 | Pachinko With Nick | 184121 | [184121-pachinko-with-nick.json](./184121-pachinko-with-nick.json) |
+| Pachio-kun 3: Pachi-Slot & Pachinko | 59507 | [59507-pachio-kun-3-pachi-slot-and-pachinko.json](./59507-pachio-kun-3-pachi-slot-and-pachinko.json) |
+| Pachio-kun FX: Maboroshi no Shima Daikessen | 59519 | [59519-pachio-kun-fx-maboroshi-no-shima-daikessen.json](./59519-pachio-kun-fx-maboroshi-no-shima-daikessen.json) |
 | Pachio-kun Game Gallery | 86125 | [86125-pachio-kun-game-gallery.json](./86125-pachio-kun-game-gallery.json) |
 | Pachio-kun Special | 42228 | [42228-pachio-kun-special.json](./42228-pachio-kun-special.json) |
+| Pachio-kun: Maboroshi no Densetsu | 59509 | [59509-pachio-kun-maboroshi-no-densetsu.json](./59509-pachio-kun-maboroshi-no-densetsu.json) |
+| Pachio-kun: Pachinko Land Adventures | 59511 | [59511-pachio-kun-pachinko-land-adventures.json](./59511-pachio-kun-pachinko-land-adventures.json) |
+| Pachio-kun: Puzzle Castle | 59514 | [59514-pachio-kun-puzzle-castle.json](./59514-pachio-kun-puzzle-castle.json) |
+| Pachio-kun: Warau Uchuu | 59508 | [59508-pachio-kun-warau-uchuu.json](./59508-pachio-kun-warau-uchuu.json) |
 | PachiPara 13: Super Umi to Pachipro Fuuunroku | 77996 | [77996-pachipara-13-super-umi-to-pachipro-fuuunroku.json](./77996-pachipara-13-super-umi-to-pachipro-fuuunroku.json) |
 | PachiPara 14: Kaze to Kumo to Super Umi in Okinawa | 61905 | [61905-pachipara-14-kaze-to-kumo-to-super-umi-in-okinawa.json](./61905-pachipara-14-kaze-to-kumo-to-super-umi-in-okinawa.json) |
 | PachiPara 3D: Ooumi Monogatari 2 with Agnes Lum - Pachi-Pro Fuuunroku Hana Kesareta License | 141149 | [141149-pachipara-3d-ooumi-monogatari-2-with-agnes-lum-pachi-pro-fuuunroku-hana-kesareta-license.json](./141149-pachipara-3d-ooumi-monogatari-2-with-agnes-lum-pachi-pro-fuuunroku-hana-kesareta-license.json) |
@@ -2179,6 +2185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Puzzle | 119025 | [119025-pet-puzzle.json](./119025-pet-puzzle.json) |
 | Pet Rescue Saga | 60077 | [60077-pet-rescue-saga.json](./60077-pet-rescue-saga.json) |
 | Pet Rock Duty | 278994 | [278994-pet-rock-duty.json](./278994-pet-rock-duty.json) |
+| Pet Run | 59488 | [59488-pet-run.json](./59488-pet-run.json) |
 | Pet Shop Simulator | 248906 | [248906-pet-shop-simulator.json](./248906-pet-shop-simulator.json) |
 | Pet Shop Snacks: Expansion Pack 1 | 237981 | [237981-pet-shop-snacks-expansion-pack-1.json](./237981-pet-shop-snacks-expansion-pack-1.json) |
 | Pet Shop Snacks: Expansion Pack 2 | 237982 | [237982-pet-shop-snacks-expansion-pack-2.json](./237982-pet-shop-snacks-expansion-pack-2.json) |
@@ -7750,6 +7757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle & Dragons X: Dragon Chapter | 125345 | [125345-puzzle-and-dragons-x-dragon-chapter.json](./125345-puzzle-and-dragons-x-dragon-chapter.json) |
 | Puzzle & Dragons X: God Chapter | 125344 | [125344-puzzle-and-dragons-x-god-chapter.json](./125344-puzzle-and-dragons-x-god-chapter.json) |
 | Puzzle & Dragons Z + Puzzle & Dragons: Super Mario Bros. Edition | 85357 | [85357-puzzle-and-dragons-z-puzzle-and-dragons-super-mario-bros-edition.json](./85357-puzzle-and-dragons-z-puzzle-and-dragons-super-mario-bros-edition.json) |
+| Puzzle & Dragons: Super Mario Bros. Edition | 59517 | [59517-puzzle-and-dragons-super-mario-bros-edition.json](./59517-puzzle-and-dragons-super-mario-bros-edition.json) |
 | Puzzle & Glory | 13105 | [13105-puzzle-and-glory.json](./13105-puzzle-and-glory.json) |
 | Puzzle & Maze | 152870 | [152870-puzzle-and-maze.json](./152870-puzzle-and-maze.json) |
 | Puzzle & Monarch | 345589 | [345589-puzzle-and-monarch.json](./345589-puzzle-and-monarch.json) |
