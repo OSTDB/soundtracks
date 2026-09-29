@@ -1735,6 +1735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby's Dream Land DX | 173146 | [173146-kirbys-dream-land-dx.json](./173146-kirbys-dream-land-dx.json) |
 | Kirby's Dream World | 243927 | [243927-kirbys-dream-world.json](./243927-kirbys-dream-world.json) |
 | Kirby's Dreamland Collision | 323916 | [323916-kirbys-dreamland-collision.json](./323916-kirbys-dreamland-collision.json) |
+| Kirby's Epic Yarn | 2184 | [2184-kirbys-epic-yarn.json](./2184-kirbys-epic-yarn.json) |
 | Kirchhoff's Revenge | 89398 | [89398-kirchhoffs-revenge.json](./89398-kirchhoffs-revenge.json) |
 | Kirikou | 50028 | [50028-kirikou.json](./50028-kirikou.json) |
 | Kiritan Island Okawari! | 204731 | [204731-kiritan-island-okawari.json](./204731-kiritan-island-okawari.json) |
@@ -1963,6 +1964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KMG Tournament: Kiss More Girls | 180690 | [180690-kmg-tournament-kiss-more-girls.json](./180690-kmg-tournament-kiss-more-girls.json) |
 | KMines | 234162 | [234162-kmines.json](./234162-kmines.json) |
 | KMON: Genesis | 254790 | [254790-kmon-genesis.json](./254790-kmon-genesis.json) |
+| Knack | 2957 | [2957-knack.json](./2957-knack.json) |
 | Knack' den Code | 78097 | [78097-knack-den-code.json](./78097-knack-den-code.json) |
 | Knee-deep in 2023 | 261822 | [261822-knee-deep-in-2023.json](./261822-knee-deep-in-2023.json) |
 | Knee-Deep in Kdizd | 260668 | [260668-knee-deep-in-kdizd.json](./260668-knee-deep-in-kdizd.json) |
