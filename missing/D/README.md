@@ -3193,6 +3193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny of a Wizard 2: Beyond the Vale | 102390 | [102390-destiny-of-a-wizard-2-beyond-the-vale.json](./102390-destiny-of-a-wizard-2-beyond-the-vale.json) |
 | Destiny of Altrais | 103427 | [103427-destiny-of-altrais.json](./103427-destiny-of-altrais.json) |
 | Destiny of an Emperor | 48064 | [48064-destiny-of-an-emperor.json](./48064-destiny-of-an-emperor.json) |
+| Destiny of Ancient Kingdoms | 32154 | [32154-destiny-of-ancient-kingdoms.json](./32154-destiny-of-ancient-kingdoms.json) |
 | Destiny of Heroes | 303008 | [303008-destiny-of-heroes.json](./303008-destiny-of-heroes.json) |
 | Destiny of Spirits | 42682 | [42682-destiny-of-spirits.json](./42682-destiny-of-spirits.json) |
 | Destiny of Thrones | 97322 | [97322-destiny-of-thrones.json](./97322-destiny-of-thrones.json) |
@@ -5598,6 +5599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle UFO | 246972 | [246972-doodle-ufo.json](./246972-doodle-ufo.json) |
 | Doodle War | 88102 | [88102-doodle-war.json](./88102-doodle-war.json) |
 | Doodle Wars Heroes | 174181 | [174181-doodle-wars-heroes.json](./174181-doodle-wars-heroes.json) |
+| Doodle What?! | 32153 | [32153-doodle-what.json](./32153-doodle-what.json) |
 | Doodle World | 142429 | [142429-doodle-world.json](./142429-doodle-world.json) |
 | DoodleBob and the Magic Pencil | 341323 | [341323-doodlebob-and-the-magic-pencil.json](./341323-doodlebob-and-the-magic-pencil.json) |
 | DoodleBob and the Magic Pencil DX | 341325 | [341325-doodlebob-and-the-magic-pencil-dx.json](./341325-doodlebob-and-the-magic-pencil-dx.json) |
