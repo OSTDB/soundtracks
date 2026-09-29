@@ -795,6 +795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlords of the Deck | 301805 | [301805-warlords-of-the-deck.json](./301805-warlords-of-the-deck.json) |
 | Warlords: Heroes | 101726 | [101726-warlords-heroes.json](./101726-warlords-heroes.json) |
 | Warlords.IO | 111729 | [111729-warlords-io.json](./111729-warlords-io.json) |
+| Warm Gun | 9686 | [9686-warm-gun.json](./9686-warm-gun.json) |
 | Warm Monkey | 331314 | [331314-warm-monkey.json](./331314-warm-monkey.json) |
 | Warm Potato | 307727 | [307727-warm-potato.json](./307727-warm-potato.json) |
 | Warm Snow: The End Of Karma | 277353 | [277353-warm-snow-the-end-of-karma.json](./277353-warm-snow-the-end-of-karma.json) |
@@ -2747,6 +2748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wirtschaftsgiganten | 98968 | [98968-wirtschaftsgiganten.json](./98968-wirtschaftsgiganten.json) |
 | Wise Escape From Prison | 368022 | [368022-wise-escape-from-prison.json](./368022-wise-escape-from-prison.json) |
 | Wise in the Heights | 358330 | [358330-wise-in-the-heights.json](./358330-wise-in-the-heights.json) |
+| Wisegal | 9366 | [9366-wisegal.json](./9366-wisegal.json) |
 | Wiseguys | 123538 | [123538-wiseguys.json](./123538-wiseguys.json) |
 | Wish | 196225 | [196225-wish.json](./196225-wish.json) |
 | Wish - Israfil Saga | 94897 | [94897-wish-israfil-saga.json](./94897-wish-israfil-saga.json) |
