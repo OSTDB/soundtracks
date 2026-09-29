@@ -663,6 +663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Show Time: NBA on NBC | 49902 | [49902-nba-show-time-nba-on-nbc.json](./49902-nba-show-time-nba-on-nbc.json) |
 | NBA Showdown | 45573 | [45573-nba-showdown.json](./45573-nba-showdown.json) |
 | NBA Street Homecourt | 7108 | [7108-nba-street-homecourt.json](./7108-nba-street-homecourt.json) |
+| NBA Street Showdown | 38479 | [38479-nba-street-showdown.json](./38479-nba-street-showdown.json) |
 | NBA Street Vol. 2 | 4036 | [4036-nba-street-vol-2.json](./4036-nba-street-vol-2.json) |
 | NBA Supercard | 142270 | [142270-nba-supercard.json](./142270-nba-supercard.json) |
 | NBA the Run | 309667 | [309667-nba-the-run.json](./309667-nba-the-run.json) |
