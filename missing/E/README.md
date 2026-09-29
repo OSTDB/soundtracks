@@ -944,6 +944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electronic Volleyball | 41573 | [41573-electronic-volleyball.json](./41573-electronic-volleyball.json) |
 | Electronic World Z | 150698 | [150698-electronic-world-z.json](./150698-electronic-world-z.json) |
 | Electronics Puzzle Lab 2 | 362342 | [362342-electronics-puzzle-lab-2.json](./362342-electronics-puzzle-lab-2.json) |
+| Electroplankton | 18340 | [18340-electroplankton.json](./18340-electroplankton.json) |
 | Elegant Sleuth: Mystic Family | 349311 | [349311-elegant-sleuth-mystic-family.json](./349311-elegant-sleuth-mystic-family.json) |
 | Elegy for Them Vigil | 315490 | [315490-elegy-for-them-vigil.json](./315490-elegy-for-them-vigil.json) |
 | Elegy of Fate | 305375 | [305375-elegy-of-fate.json](./305375-elegy-of-fate.json) |
@@ -1426,6 +1427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empires of Europe 1700 | 356164 | [356164-empires-of-europe-1700.json](./356164-empires-of-europe-1700.json) |
 | Empires of Sand | 344449 | [344449-empires-of-sand.json](./344449-empires-of-sand.json) |
 | Empires of Steel | 353851 | [353851-empires-of-steel.json](./353851-empires-of-steel.json) |
+| Empires of the Undergrowth | 18379 | [18379-empires-of-the-undergrowth.json](./18379-empires-of-the-undergrowth.json) |
 | Empires of the Undergrowth: Exploding Ants | 403591 | [403591-empires-of-the-undergrowth-exploding-ants.json](./403591-empires-of-the-undergrowth-exploding-ants.json) |
 | Empires of the Undergrowth: Supporter Pack | 403593 | [403593-empires-of-the-undergrowth-supporter-pack.json](./403593-empires-of-the-undergrowth-supporter-pack.json) |
 | Empires of the Void II | 189167 | [189167-empires-of-the-void-ii.json](./189167-empires-of-the-void-ii.json) |
