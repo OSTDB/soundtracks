@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.League Soccer Dream Eleven | 45274 | [45274-j-league-soccer-dream-eleven.json](./45274-j-league-soccer-dream-eleven.json) |
 | J.League Soccer Ole! Supporters | 64484 | [64484-j-league-soccer-ole-supporters.json](./64484-j-league-soccer-ole-supporters.json) |
 | J.League Soccer Prime Goal 3 | 220831 | [220831-j-league-soccer-prime-goal-3.json](./220831-j-league-soccer-prime-goal-3.json) |
+| J.League Soccer V-Shoot | 40344 | [40344-j-league-soccer-v-shoot.json](./40344-j-league-soccer-v-shoot.json) |
 | J.League Soccer: Prime Goal | 38330 | [38330-j-league-soccer-prime-goal.json](./38330-j-league-soccer-prime-goal.json) |
 | J.League Soccer: Prime Goal 2 | 38329 | [38329-j-league-soccer-prime-goal-2.json](./38329-j-league-soccer-prime-goal-2.json) |
 | J.League Supporter Soccer | 64980 | [64980-j-league-supporter-soccer.json](./64980-j-league-supporter-soccer.json) |
@@ -1022,6 +1023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John Deere: Busy Days in Deerfield Valley | 210131 | [210131-john-deere-busy-days-in-deerfield-valley.json](./210131-john-deere-busy-days-in-deerfield-valley.json) |
 | John Deere: Drive Green | 139805 | [139805-john-deere-drive-green.json](./139805-john-deere-drive-green.json) |
 | John Deere: North American Farmer | 210130 | [210130-john-deere-north-american-farmer.json](./210130-john-deere-north-american-farmer.json) |
+| John Elway's Team Quarterback | 40343 | [40343-john-elways-team-quarterback.json](./40343-john-elways-team-quarterback.json) |
 | John Fox | 303595 | [303595-john-fox.json](./303595-john-fox.json) |
 | John Fury’s First Fury | 402497 | [402497-john-fury-s-first-fury.json](./402497-john-fury-s-first-fury.json) |
 | John Gleep | 410343 | [410343-john-gleep.json](./410343-john-gleep.json) |
