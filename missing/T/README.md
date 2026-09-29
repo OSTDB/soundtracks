@@ -3023,6 +3023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Body Changer | 36203 | [36203-the-body-changer.json](./36203-the-body-changer.json) |
 | The Body Monstrous | 176502 | [176502-the-body-monstrous.json](./176502-the-body-monstrous.json) |
 | The Body Transparent | 362430 | [362430-the-body-transparent.json](./362430-the-body-transparent.json) |
+| The Body VR: Journey Inside a Cell | 33268 | [33268-the-body-vr-journey-inside-a-cell.json](./33268-the-body-vr-journey-inside-a-cell.json) |
 | The Bog's Heart | 176963 | [176963-the-bogs-heart.json](./176963-the-bogs-heart.json) |
 | The Boggy Region | 260940 | [260940-the-boggy-region.json](./260940-the-boggy-region.json) |
 | The Bogtavern | 236259 | [236259-the-bogtavern.json](./236259-the-bogtavern.json) |
@@ -4227,6 +4228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fiery Descent | 268475 | [268475-the-fiery-descent.json](./268475-the-fiery-descent.json) |
 | The Fifth Ark | 175701 | [175701-the-fifth-ark.json](./175701-the-fifth-ark.json) |
 | The Fifth Bell | 370770 | [370770-the-fifth-bell.json](./370770-the-fifth-bell.json) |
+| The Fifth Expedition | 33260 | [33260-the-fifth-expedition.json](./33260-the-fifth-expedition.json) |
 | The Fifth Paradox | 232710 | [232710-the-fifth-paradox.json](./232710-the-fifth-paradox.json) |
 | The Fifth Rite | 250951 | [250951-the-fifth-rite.json](./250951-the-fifth-rite.json) |
 | The Fight for Glorton | 196797 | [196797-the-fight-for-glorton.json](./196797-the-fight-for-glorton.json) |
@@ -6896,6 +6898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Reaper Survivors | 224760 | [224760-the-reaper-survivors.json](./224760-the-reaper-survivors.json) |
 | The Reason Why Raeliana Ended up at the Duke's Mansion: Heika's Colorful Day Out | 170832 | [170832-the-reason-why-raeliana-ended-up-at-the-dukes-mansion-heikas-colorful-day-out.json](./170832-the-reason-why-raeliana-ended-up-at-the-dukes-mansion-heikas-colorful-day-out.json) |
 | The Reasons for It. | 397080 | [397080-the-reasons-for-it.json](./397080-the-reasons-for-it.json) |
+| The Rebel | 33275 | [33275-the-rebel.json](./33275-the-rebel.json) |
 | The Rebirth of Kingdom Lo | 244868 | [244868-the-rebirth-of-kingdom-lo.json](./244868-the-rebirth-of-kingdom-lo.json) |
 | The Reconstruction | 130894 | [130894-the-reconstruction.json](./130894-the-reconstruction.json) |
 | The Recurrence | 289968 | [289968-the-recurrence.json](./289968-the-recurrence.json) |
@@ -7166,6 +7169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret of Middle City | 31133 | [31133-the-secret-of-middle-city.json](./31133-the-secret-of-middle-city.json) |
 | The Secret of Monkey Island: Special Edition | 65 | [65-the-secret-of-monkey-island-special-edition.json](./65-the-secret-of-monkey-island-special-edition.json) |
 | The Secret of NecroNancy | 283802 | [283802-the-secret-of-necronancy.json](./283802-the-secret-of-necronancy.json) |
+| The Secret of Pineview Forest | 33267 | [33267-the-secret-of-pineview-forest.json](./33267-the-secret-of-pineview-forest.json) |
 | The Secret of Raven Rock | 89708 | [89708-the-secret-of-raven-rock.json](./89708-the-secret-of-raven-rock.json) |
 | The Secret of Rooms | 207518 | [207518-the-secret-of-rooms.json](./207518-the-secret-of-rooms.json) |
 | The Secret of St. Brides | 12965 | [12965-the-secret-of-st-brides.json](./12965-the-secret-of-st-brides.json) |
@@ -11639,6 +11643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toree's 3D Platformer Collection | 218452 | [218452-torees-3d-platformer-collection.json](./218452-torees-3d-platformer-collection.json) |
 | Toree's Panic Pack | 308530 | [308530-torees-panic-pack.json](./308530-torees-panic-pack.json) |
 | Torej: Red Cubes | 61611 | [61611-torej-red-cubes.json](./61611-torej-red-cubes.json) |
+| Torgar's Quest | 33361 | [33361-torgars-quest.json](./33361-torgars-quest.json) |
 | Tori | 95218 | [95218-tori.json](./95218-tori.json) |
 | Tori Note | 289403 | [289403-tori-note.json](./289403-tori-note.json) |
 | Tori-Emaki | 206084 | [206084-tori-emaki.json](./206084-tori-emaki.json) |
@@ -14054,6 +14059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropical Alien Massacre | 308329 | [308329-tropical-alien-massacre.json](./308329-tropical-alien-massacre.json) |
 | Tropical Escape | 81198 | [81198-tropical-escape.json](./81198-tropical-escape.json) |
 | Tropical Farm HD | 175740 | [175740-tropical-farm-hd.json](./175740-tropical-farm-hd.json) |
+| Tropical Fish Shop 2 | 33298 | [33298-tropical-fish-shop-2.json](./33298-tropical-fish-shop-2.json) |
 | Tropical Hearts | 226444 | [226444-tropical-hearts.json](./226444-tropical-hearts.json) |
 | Tropical Princess - Makeup and Dressup Salon Game | 86855 | [86855-tropical-princess-makeup-and-dressup-salon-game.json](./86855-tropical-princess-makeup-and-dressup-salon-game.json) |
 | Tropical Resort Story | 208026 | [208026-tropical-resort-story.json](./208026-tropical-resort-story.json) |
