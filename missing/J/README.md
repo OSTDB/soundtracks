@@ -659,6 +659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Quest: Expeditions | 21279 | [21279-jewel-quest-expeditions.json](./21279-jewel-quest-expeditions.json) |
 | Jewel Quest: Heritage | 209994 | [209994-jewel-quest-heritage.json](./209994-jewel-quest-heritage.json) |
 | Jewel Quest: Match 3 Adventure | 376577 | [376577-jewel-quest-match-3-adventure.json](./376577-jewel-quest-match-3-adventure.json) |
+| Jewel Quest: Seven Seas - Collector's Edition | 31047 | [31047-jewel-quest-seven-seas-collectors-edition.json](./31047-jewel-quest-seven-seas-collectors-edition.json) |
 | Jewel Quest: The Sapphire Dragon | 210021 | [210021-jewel-quest-the-sapphire-dragon.json](./210021-jewel-quest-the-sapphire-dragon.json) |
 | Jewel Quest: The Sapphire Dragon | 85213 | [85213-jewel-quest-the-sapphire-dragon.json](./85213-jewel-quest-the-sapphire-dragon.json) |
 | Jewel Time Deluxe | 110322 | [110322-jewel-time-deluxe.json](./110322-jewel-time-deluxe.json) |
