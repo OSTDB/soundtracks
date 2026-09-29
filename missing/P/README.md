@@ -3136,6 +3136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Dreams | 260726 | [260726-pinball-dreams.json](./260726-pinball-dreams.json) |
 | Pinball Duel | 66642 | [66642-pinball-duel.json](./66642-pinball-duel.json) |
 | Pinball Dungeon | 177562 | [177562-pinball-dungeon.json](./177562-pinball-dungeon.json) |
+| Pinball Fantasies | 6023 | [6023-pinball-fantasies.json](./6023-pinball-fantasies.json) |
 | Pinball Fantasies Deluxe | 78624 | [78624-pinball-fantasies-deluxe.json](./78624-pinball-fantasies-deluxe.json) |
 | Pinball Fish | 246357 | [246357-pinball-fish.json](./246357-pinball-fish.json) |
 | Pinball for the CD-i | 131493 | [131493-pinball-for-the-cd-i.json](./131493-pinball-for-the-cd-i.json) |
@@ -5783,6 +5784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postal 2: Apocalypse Weekend | 3131 | [3131-postal-2-apocalypse-weekend.json](./3131-postal-2-apocalypse-weekend.json) |
 | Postal 2: CO-OP | 360077 | [360077-postal-2-co-op.json](./360077-postal-2-co-op.json) |
 | Postal F: The Thursday Expansion - A Mod for Friday Night Funkin'. | 298715 | [298715-postal-f-the-thursday-expansion-a-mod-for-friday-night-funkin.json](./298715-postal-f-the-thursday-expansion-a-mod-for-friday-night-funkin.json) |
+| Postal III | 3110 | [3110-postal-iii.json](./3110-postal-iii.json) |
 | Postal: Redux | 8716 | [8716-postal-redux.json](./8716-postal-redux.json) |
 | PostApo | 386421 | [386421-postapo.json](./386421-postapo.json) |
 | Postbound! | 291581 | [291581-postbound.json](./291581-postbound.json) |
@@ -7152,6 +7154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Worth: Forgather | 211812 | [211812-project-worth-forgather.json](./211812-project-worth-forgather.json) |
 | Project Wunderwaffe | 151085 | [151085-project-wunderwaffe.json](./151085-project-wunderwaffe.json) |
 | Project X | 377577 | [377577-project-x.json](./377577-project-x.json) |
+| Project X Zone | 6864 | [6864-project-x-zone.json](./6864-project-x-zone.json) |
 | Project X Zone: Limited Edition | 89877 | [89877-project-x-zone-limited-edition.json](./89877-project-x-zone-limited-edition.json) |
 | Project X: Love Potion Disaster | 218729 | [218729-project-x-love-potion-disaster.json](./218729-project-x-love-potion-disaster.json) |
 | Project Xinatra | 31934 | [31934-project-xinatra.json](./31934-project-xinatra.json) |
