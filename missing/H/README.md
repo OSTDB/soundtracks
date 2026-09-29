@@ -1934,6 +1934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Brain | 96717 | [96717-hello-brain.json](./96717-hello-brain.json) |
 | Hello Charlotte Ep.1: Junk Food, Gods and Teddy Bears | 30480 | [30480-hello-charlotte-ep-1-junk-food-gods-and-teddy-bears.json](./30480-hello-charlotte-ep-1-junk-food-gods-and-teddy-bears.json) |
 | Hello Charlotte Ep.2: Requiem Aeternam Deo | 135360 | [135360-hello-charlotte-ep-2-requiem-aeternam-deo.json](./135360-hello-charlotte-ep-2-requiem-aeternam-deo.json) |
+| Hello Charlotte Ep.3: Childhood's End | 76802 | [76802-hello-charlotte-ep-3-childhoods-end.json](./76802-hello-charlotte-ep-3-childhoods-end.json) |
 | Hello Charlotte: Heaven's Gate | 144382 | [144382-hello-charlotte-heavens-gate.json](./144382-hello-charlotte-heavens-gate.json) |
 | Hello Charlotte: Heaven's Gate | 405724 | [405724-hello-charlotte-heavens-gate.json](./405724-hello-charlotte-heavens-gate.json) |
 | Hello Color | 63932 | [63932-hello-color.json](./63932-hello-color.json) |
@@ -4071,6 +4072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home | 372448 | [372448-home.json](./372448-home.json) |
 | Home A Drone | 122421 | [122421-home-a-drone.json](./122421-home-a-drone.json) |
 | Home Again Home Again | 141627 | [141627-home-again-home-again.json](./141627-home-again-home-again.json) |
+| Home Alone | 4523 | [4523-home-alone.json](./4523-home-alone.json) |
 | Home Alone | 78598 | [78598-home-alone.json](./78598-home-alone.json) |
 | Home Alone | 78599 | [78599-home-alone.json](./78599-home-alone.json) |
 | Home Alone 2: Lost in New York | 243884 | [243884-home-alone-2-lost-in-new-york.json](./243884-home-alone-2-lost-in-new-york.json) |
