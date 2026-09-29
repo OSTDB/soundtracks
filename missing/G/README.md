@@ -713,6 +713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganbare Goemon Gaiden: Kieta Ougon Kiseru | 48613 | [48613-ganbare-goemon-gaiden-kieta-ougon-kiseru.json](./48613-ganbare-goemon-gaiden-kieta-ougon-kiseru.json) |
 | Ganbare Goemon: Kuru Nara Koi! - Ayashi Geikka no Kuroi Kage | 68750 | [68750-ganbare-goemon-kuru-nara-koi-ayashi-geikka-no-kuroi-kage.json](./68750-ganbare-goemon-kuru-nara-koi-ayashi-geikka-no-kuroi-kage.json) |
 | Ganbare Goemon: Mononoke Douchuu Tobidase Nabe-Bugyou! | 129173 | [129173-ganbare-goemon-mononoke-douchuu-tobidase-nabe-bugyou.json](./129173-ganbare-goemon-mononoke-douchuu-tobidase-nabe-bugyou.json) |
+| Ganbare Goemon: Seikuushi Dynamites Arawaru!! | 50053 | [50053-ganbare-goemon-seikuushi-dynamites-arawaru.json](./50053-ganbare-goemon-seikuushi-dynamites-arawaru.json) |
 | Ganbare Goemon: Tengu-tou no Gyakushuu! | 129172 | [129172-ganbare-goemon-tengu-tou-no-gyakushuu.json](./129172-ganbare-goemon-tengu-tou-no-gyakushuu.json) |
 | Ganbare Goemon: Toukai Douchuu Ooedo Tengurigaeshi no Maki | 73299 | [73299-ganbare-goemon-toukai-douchuu-ooedo-tengurigaeshi-no-maki.json](./73299-ganbare-goemon-toukai-douchuu-ooedo-tengurigaeshi-no-maki.json) |
 | Ganbare Morikawa Kun 2nd PET ON TV | 213887 | [213887-ganbare-morikawa-kun-2nd-pet-on-tv.json](./213887-ganbare-morikawa-kun-2nd-pet-on-tv.json) |
@@ -3297,6 +3298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gramik Paint Roller | 254129 | [254129-gramik-paint-roller.json](./254129-gramik-paint-roller.json) |
 | Grampage: Life at 67 | 415315 | [415315-grampage-life-at-67.json](./415315-grampage-life-at-67.json) |
 | Gran Carismo | 277008 | [277008-gran-carismo.json](./277008-gran-carismo.json) |
+| Gran Duel: Shinki Dungeon no Hihou | 50056 | [50056-gran-duel-shinki-dungeon-no-hihou.json](./50056-gran-duel-shinki-dungeon-no-hihou.json) |
 | Gran Empire | 149443 | [149443-gran-empire.json](./149443-gran-empire.json) |
 | Gran Text Auto | 60046 | [60046-gran-text-auto.json](./60046-gran-text-auto.json) |
 | Gran Tower: Wild Knights with Crazy Witches | 116460 | [116460-gran-tower-wild-knights-with-crazy-witches.json](./116460-gran-tower-wild-knights-with-crazy-witches.json) |
@@ -3901,6 +3903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gremlins | 25673 | [25673-gremlins.json](./25673-gremlins.json) |
 | Gremlins 2: The New Batch | 119197 | [119197-gremlins-2-the-new-batch.json](./119197-gremlins-2-the-new-batch.json) |
 | Gremlins Gizmo | 50623 | [50623-gremlins-gizmo.json](./50623-gremlins-gizmo.json) |
+| Gremlins Unleashed | 50035 | [50035-gremlins-unleashed.json](./50035-gremlins-unleashed.json) |
 | Gremlore | 275065 | [275065-gremlore.json](./275065-gremlore.json) |
 | Grems | 386710 | [386710-grems.json](./386710-grems.json) |
 | Grendel's Revenge | 370678 | [370678-grendels-revenge.json](./370678-grendels-revenge.json) |
