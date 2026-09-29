@@ -2044,6 +2044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Martian Successor Nadesico: Nadesico the Mission | 125366 | [125366-martian-successor-nadesico-nadesico-the-mission.json](./125366-martian-successor-nadesico-nadesico-the-mission.json) |
 | Martian Threat | 41568 | [41568-martian-threat.json](./41568-martian-threat.json) |
 | Martian Wars | 137692 | [137692-martian-wars.json](./137692-martian-wars.json) |
+| Martianoids | 39774 | [39774-martianoids.json](./39774-martianoids.json) |
 | Martin Mystère: Operation Dorian Gray | 9102 | [9102-martin-mystere-operation-dorian-gray.json](./9102-martin-mystere-operation-dorian-gray.json) |
 | Martin Mystery: Monster Invasion | 194613 | [194613-martin-mystery-monster-invasion.json](./194613-martin-mystery-monster-invasion.json) |
 | Martin The Let's Player | 257083 | [257083-martin-the-lets-player.json](./257083-martin-the-lets-player.json) |
@@ -4125,6 +4126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mermaids of Atlantis: The Riddle of the Magic Bubble | 48172 | [48172-mermaids-of-atlantis-the-riddle-of-the-magic-bubble.json](./48172-mermaids-of-atlantis-the-riddle-of-the-magic-bubble.json) |
 | Mermeows - Chill Cat Mermaids | 371459 | [371459-mermeows-chill-cat-mermaids.json](./371459-mermeows-chill-cat-mermaids.json) |
 | Merper VR | 75013 | [75013-merper-vr.json](./75013-merper-vr.json) |
+| Merri Puzzle | 39765 | [39765-merri-puzzle.json](./39765-merri-puzzle.json) |
 | Merriam-Webster Spell Jam | 69287 | [69287-merriam-webster-spell-jam.json](./69287-merriam-webster-spell-jam.json) |
 | Merrily Perilly | 104028 | [104028-merrily-perilly.json](./104028-merrily-perilly.json) |
 | Merry Christmas: Snowball Bubble | 187495 | [187495-merry-christmas-snowball-bubble.json](./187495-merry-christmas-snowball-bubble.json) |
@@ -6493,6 +6495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mole Mayhem | 346259 | [346259-mole-mayhem.json](./346259-mole-mayhem.json) |
 | Mole Mine Rocks 0.15 | 321164 | [321164-mole-mine-rocks-0-15.json](./321164-mole-mine-rocks-0-15.json) |
 | Mole Mole | 47523 | [47523-mole-mole.json](./47523-mole-mole.json) |
+| Mole Mole ! | 39771 | [39771-mole-mole.json](./39771-mole-mole.json) |
 | Mole Mole 2 | 47522 | [47522-mole-mole-2.json](./47522-mole-mole-2.json) |
 | Mole Patrol | 347686 | [347686-mole-patrol.json](./347686-mole-patrol.json) |
 | Mole Story: games for kids | 91108 | [91108-mole-story-games-for-kids.json](./91108-mole-story-games-for-kids.json) |
@@ -7714,6 +7717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motion Wulin | 373515 | [373515-motion-wulin.json](./373515-motion-wulin.json) |
 | Motioning Monument | 314679 | [314679-motioning-monument.json](./314679-motioning-monument.json) |
 | MotionSports: Adrenaline | 20215 | [20215-motionsports-adrenaline.json](./20215-motionsports-adrenaline.json) |
+| Motivo | 39759 | [39759-motivo.json](./39759-motivo.json) |
 | Moto Championship 26 | 385089 | [385089-moto-championship-26.json](./385089-moto-championship-26.json) |
 | Moto Extreme | 70342 | [70342-moto-extreme.json](./70342-moto-extreme.json) |
 | Moto GP: Ultimate racing technology | 8268 | [8268-moto-gp-ultimate-racing-technology.json](./8268-moto-gp-ultimate-racing-technology.json) |
@@ -7799,6 +7803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motor Mash | 44866 | [44866-motor-mash.json](./44866-motor-mash.json) |
 | Motor Mayhem | 43305 | [43305-motor-mayhem.json](./43305-motor-mayhem.json) |
 | Motor Money Crash! | 185552 | [185552-motor-money-crash.json](./185552-motor-money-crash.json) |
+| Motor Raid | 39798 | [39798-motor-raid.json](./39798-motor-raid.json) |
 | Motor Rally | 246387 | [246387-motor-rally.json](./246387-motor-rally.json) |
 | Motor Rally 2 | 246352 | [246352-motor-rally-2.json](./246352-motor-rally-2.json) |
 | Motor Storm | 247039 | [247039-motor-storm.json](./247039-motor-storm.json) |
