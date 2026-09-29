@@ -2184,6 +2184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightning Link | 386224 | [386224-lightning-link.json](./386224-lightning-link.json) |
 | Lightning Plan | 246344 | [246344-lightning-plan.json](./246344-lightning-plan.json) |
 | Lightning Returns: Final Fantasy XIII | 2449 | [2449-lightning-returns-final-fantasy-xiii.json](./2449-lightning-returns-final-fantasy-xiii.json) |
+| Lightning Swords | 46757 | [46757-lightning-swords.json](./46757-lightning-swords.json) |
 | Lightning Wings II | 123482 | [123482-lightning-wings-ii.json](./123482-lightning-wings-ii.json) |
 | Lightning: D-Day | 47984 | [47984-lightning-d-day.json](./47984-lightning-d-day.json) |
 | Lightomania | 120265 | [120265-lightomania.json](./120265-lightomania.json) |
@@ -2358,6 +2359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limsod | 177308 | [177308-limsod.json](./177308-limsod.json) |
 | Lina: Witches of the Moon | 411578 | [411578-lina-witches-of-the-moon.json](./411578-lina-witches-of-the-moon.json) |
 | Linch | 80978 | [80978-linch.json](./80978-linch.json) |
+| Lincity | 46721 | [46721-lincity.json](./46721-lincity.json) |
 | Lincoln Green | 231086 | [231086-lincoln-green.json](./231086-lincoln-green.json) |
 | Linda Crenshaw: The Dream Apartment | 181687 | [181687-linda-crenshaw-the-dream-apartment.json](./181687-linda-crenshaw-the-dream-apartment.json) |
 | Linda Cube | 94898 | [94898-linda-cube.json](./94898-linda-cube.json) |
@@ -4401,6 +4403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunorbit Deluxe | 342852 | [342852-lunorbit-deluxe.json](./342852-lunorbit-deluxe.json) |
 | Luòchén zhī Yù | 114382 | [114382-luochen-zhi-yu.json](./114382-luochen-zhi-yu.json) |
 | Luonnonvoimat | 390771 | [390771-luonnonvoimat.json](./390771-luonnonvoimat.json) |
+| Lupin III | 46760 | [46760-lupin-iii.json](./46760-lupin-iii.json) |
 | Lupin III Sansei: Cagliostro no Shiro Saikai | 302706 | [302706-lupin-iii-sansei-cagliostro-no-shiro-saikai.json](./302706-lupin-iii-sansei-cagliostro-no-shiro-saikai.json) |
 | Lupin III: Pandora no Isan | 76995 | [76995-lupin-iii-pandora-no-isan.json](./76995-lupin-iii-pandora-no-isan.json) |
 | Lupin III: The Master File | 66213 | [66213-lupin-iii-the-master-file.json](./66213-lupin-iii-the-master-file.json) |
