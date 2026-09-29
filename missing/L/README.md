@@ -2466,6 +2466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Link Letter | 53275 | [53275-link-letter.json](./53275-link-letter.json) |
 | Link of Hearts | 208012 | [208012-link-of-hearts.json](./208012-link-of-hearts.json) |
 | Link the animals | 117774 | [117774-link-the-animals.json](./117774-link-the-animals.json) |
+| Link Twin | 29055 | [29055-link-twin.json](./29055-link-twin.json) |
 | Link Wars | 153317 | [153317-link-wars.json](./153317-link-wars.json) |
 | Link: The Faces of Evil | 8532 | [8532-link-the-faces-of-evil.json](./8532-link-the-faces-of-evil.json) |
 | Link: The Unleashed Nexus - Restructured Heaven | 151756 | [151756-link-the-unleashed-nexus-restructured-heaven.json](./151756-link-the-unleashed-nexus-restructured-heaven.json) |
@@ -3966,6 +3967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Story | 259509 | [259509-love-story.json](./259509-love-story.json) |
 | Love Story of Sparrow | 114531 | [114531-love-story-of-sparrow.json](./114531-love-story-of-sparrow.json) |
 | Love Story: Choices Girl Games | 107010 | [107010-love-story-choices-girl-games.json](./107010-love-story-choices-girl-games.json) |
+| Love Story: Letters from the Past | 29095 | [29095-love-story-letters-from-the-past.json](./29095-love-story-letters-from-the-past.json) |
 | Love Story: The Way Home | 102187 | [102187-love-story-the-way-home.json](./102187-love-story-the-way-home.json) |
 | Love Sucks: Night One | 156516 | [156516-love-sucks-night-one.json](./156516-love-sucks-night-one.json) |
 | Love Sucks: Night Three | 303639 | [303639-love-sucks-night-three.json](./303639-love-sucks-night-three.json) |
