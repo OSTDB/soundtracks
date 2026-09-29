@@ -1570,6 +1570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles Double Pack | 78938 | [78938-teenage-mutant-ninja-turtles-double-pack.json](./78938-teenage-mutant-ninja-turtles-double-pack.json) |
 | Teenage Mutant Ninja Turtles Fast Forward: Ninja Training NYC | 146104 | [146104-teenage-mutant-ninja-turtles-fast-forward-ninja-training-nyc.json](./146104-teenage-mutant-ninja-turtles-fast-forward-ninja-training-nyc.json) |
 | Teenage Mutant Ninja Turtles II: The Arcade Game | 3816 | [3816-teenage-mutant-ninja-turtles-ii-the-arcade-game.json](./3816-teenage-mutant-ninja-turtles-ii-the-arcade-game.json) |
+| Teenage Mutant Ninja Turtles IV: Turtles in Time | 14697 | [14697-teenage-mutant-ninja-turtles-iv-turtles-in-time.json](./14697-teenage-mutant-ninja-turtles-iv-turtles-in-time.json) |
 | Teenage Mutant Ninja Turtles of Rage | 314988 | [314988-teenage-mutant-ninja-turtles-of-rage.json](./314988-teenage-mutant-ninja-turtles-of-rage.json) |
 | Teenage Mutant Ninja Turtles: Arcade Attack | 21156 | [21156-teenage-mutant-ninja-turtles-arcade-attack.json](./21156-teenage-mutant-ninja-turtles-arcade-attack.json) |
 | Teenage Mutant Ninja Turtles: Battle of the City | 146105 | [146105-teenage-mutant-ninja-turtles-battle-of-the-city.json](./146105-teenage-mutant-ninja-turtles-battle-of-the-city.json) |
@@ -5748,6 +5749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Ocarina of Time Online | 198341 | [198341-the-legend-of-zelda-ocarina-of-time-online.json](./198341-the-legend-of-zelda-ocarina-of-time-online.json) |
 | The Legend of Zelda: Oracle of Ages | 1041 | [1041-the-legend-of-zelda-oracle-of-ages.json](./1041-the-legend-of-zelda-oracle-of-ages.json) |
 | The Legend of Zelda: Oracle of Life Online | 324095 | [324095-the-legend-of-zelda-oracle-of-life-online.json](./324095-the-legend-of-zelda-oracle-of-life-online.json) |
+| The Legend of Zelda: Oracle of Seasons | 1032 | [1032-the-legend-of-zelda-oracle-of-seasons.json](./1032-the-legend-of-zelda-oracle-of-seasons.json) |
 | The Legend of Zelda: Parallel Worlds Remodel | 198543 | [198543-the-legend-of-zelda-parallel-worlds-remodel.json](./198543-the-legend-of-zelda-parallel-worlds-remodel.json) |
 | The Legend of Zelda: Perils of Darkness | 213041 | [213041-the-legend-of-zelda-perils-of-darkness.json](./213041-the-legend-of-zelda-perils-of-darkness.json) |
 | The Legend of Zelda: Picross | 172690 | [172690-the-legend-of-zelda-picross.json](./172690-the-legend-of-zelda-picross.json) |
@@ -5899,6 +5901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lonely Miner | 411121 | [411121-the-lonely-miner.json](./411121-the-lonely-miner.json) |
 | The Lonesome Guild | 333042 | [333042-the-lonesome-guild.json](./333042-the-lonesome-guild.json) |
 | The Long August Longing | 319712 | [319712-the-long-august-longing.json](./319712-the-long-august-longing.json) |
+| The Long Dark | 8347 | [8347-the-long-dark.json](./8347-the-long-dark.json) |
 | The Long Dark: Quiet Apocalypse Edition | 401672 | [401672-the-long-dark-quiet-apocalypse-edition.json](./401672-the-long-dark-quiet-apocalypse-edition.json) |
 | The Long Dark: Tales from the Far Territory | 227238 | [227238-the-long-dark-tales-from-the-far-territory.json](./227238-the-long-dark-tales-from-the-far-territory.json) |
 | The Long Desert Drive | 360047 | [360047-the-long-desert-drive.json](./360047-the-long-desert-drive.json) |
@@ -5912,6 +5915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Longest Drift | 175441 | [175441-the-longest-drift.json](./175441-the-longest-drift.json) |
 | The Longest Dungeon | 238602 | [238602-the-longest-dungeon.json](./238602-the-longest-dungeon.json) |
 | The Longest Five Minutes | 44078 | [44078-the-longest-five-minutes.json](./44078-the-longest-five-minutes.json) |
+| The Longest Journey | 895 | [895-the-longest-journey.json](./895-the-longest-journey.json) |
 | The Longest Journey Remastered | 27658 | [27658-the-longest-journey-remastered.json](./27658-the-longest-journey-remastered.json) |
 | The Longest Road | 177846 | [177846-the-longest-road.json](./177846-the-longest-road.json) |
 | The Longest Road | 364671 | [364671-the-longest-road.json](./364671-the-longest-road.json) |
@@ -6207,6 +6211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mesh | 88259 | [88259-the-mesh.json](./88259-the-mesh.json) |
 | The Message | 170458 | [170458-the-message.json](./170458-the-message.json) |
 | The Messenger | 44838 | [44838-the-messenger.json](./44838-the-messenger.json) |
+| The Messenger | 71628 | [71628-the-messenger.json](./71628-the-messenger.json) |
 | The Messenger: Picnic Panic Bundle | 237906 | [237906-the-messenger-picnic-panic-bundle.json](./237906-the-messenger-picnic-panic-bundle.json) |
 | The Meteorite | 191806 | [191806-the-meteorite.json](./191806-the-meteorite.json) |
 | The Metronomicon: Slay the Dance Floor - Indie Game Challenge Pack 1 | 224485 | [224485-the-metronomicon-slay-the-dance-floor-indie-game-challenge-pack-1.json](./224485-the-metronomicon-slay-the-dance-floor-indie-game-challenge-pack-1.json) |
@@ -8613,6 +8618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witcher 2: Assassins of Kings - Enhanced Edition | 20740 | [20740-the-witcher-2-assassins-of-kings-enhanced-edition.json](./20740-the-witcher-2-assassins-of-kings-enhanced-edition.json) |
 | The Witcher 3: Enhanced Edition - Redux | 283715 | [283715-the-witcher-3-enhanced-edition-redux.json](./283715-the-witcher-3-enhanced-edition-redux.json) |
 | The Witcher 3: Wild Hunt - Collector's Edition | 44549 | [44549-the-witcher-3-wild-hunt-collectors-edition.json](./44549-the-witcher-3-wild-hunt-collectors-edition.json) |
+| The Witcher 3: Wild Hunt - Complete Edition | 119402 | [119402-the-witcher-3-wild-hunt-complete-edition.json](./119402-the-witcher-3-wild-hunt-complete-edition.json) |
 | The Witcher 3: Wild Hunt - Complete Edition: 10th Anniversary Edition | 372654 | [372654-the-witcher-3-wild-hunt-complete-edition-10th-anniversary-edition.json](./372654-the-witcher-3-wild-hunt-complete-edition-10th-anniversary-edition.json) |
 | The Witcher 3: Wild Hunt - Songs of the Past | 403150 | [403150-the-witcher-3-wild-hunt-songs-of-the-past.json](./403150-the-witcher-3-wild-hunt-songs-of-the-past.json) |
 | The Witcher Franchise Bundle | 154960 | [154960-the-witcher-franchise-bundle.json](./154960-the-witcher-franchise-bundle.json) |
@@ -11856,6 +11862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: New World | 356258 | [356258-total-war-new-world.json](./356258-total-war-new-world.json) |
 | Total War: Pharaoh - Dynasty Edition | 250863 | [250863-total-war-pharaoh-dynasty-edition.json](./250863-total-war-pharaoh-dynasty-edition.json) |
 | Total War: Pharaoh Dynasties | 333730 | [333730-total-war-pharaoh-dynasties.json](./333730-total-war-pharaoh-dynasties.json) |
+| Total War: Rome II | 2359 | [2359-total-war-rome-ii.json](./2359-total-war-rome-ii.json) |
 | Total War: Rome II - Black Sea Colonies | 53824 | [53824-total-war-rome-ii-black-sea-colonies.json](./53824-total-war-rome-ii-black-sea-colonies.json) |
 | Total War: Rome II - Blood & Gore | 53826 | [53826-total-war-rome-ii-blood-and-gore.json](./53826-total-war-rome-ii-blood-and-gore.json) |
 | Total War: Rome II - Campaign Pack: Wrath of Sparta | 53830 | [53830-total-war-rome-ii-campaign-pack-wrath-of-sparta.json](./53830-total-war-rome-ii-campaign-pack-wrath-of-sparta.json) |
