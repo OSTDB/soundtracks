@@ -4980,6 +4980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frame Breaker | 304333 | [304333-frame-breaker.json](./304333-frame-breaker.json) |
 | Frame Cat | 353960 | [353960-frame-cat.json](./353960-frame-cat.json) |
 | Frame City Killer | 67948 | [67948-frame-city-killer.json](./67948-frame-city-killer.json) |
+| Frame Gride | 10908 | [10908-frame-gride.json](./10908-frame-gride.json) |
 | Frame Machina: OcularZero | 364060 | [364060-frame-machina-ocularzero.json](./364060-frame-machina-ocularzero.json) |
 | Frame of Mind | 142281 | [142281-frame-of-mind.json](./142281-frame-of-mind.json) |
 | Frame of Reference | 119594 | [119594-frame-of-reference.json](./119594-frame-of-reference.json) |
