@@ -484,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiders of the Apocalypse | 336000 | [336000-raiders-of-the-apocalypse.json](./336000-raiders-of-the-apocalypse.json) |
 | Raiders of the Broken Planet | 19011 | [19011-raiders-of-the-broken-planet.json](./19011-raiders-of-the-broken-planet.json) |
 | Raiders of the Broken Planet - Founders Pack | 82424 | [82424-raiders-of-the-broken-planet-founders-pack.json](./82424-raiders-of-the-broken-planet-founders-pack.json) |
+| Raiders of the Lost Ark | 18036 | [18036-raiders-of-the-lost-ark.json](./18036-raiders-of-the-lost-ark.json) |
 | Raiders Rise | 352365 | [352365-raiders-rise.json](./352365-raiders-rise.json) |
 | Raiders Run | 125440 | [125440-raiders-run.json](./125440-raiders-run.json) |
 | Raiders5 | 40166 | [40166-raiders5.json](./40166-raiders5.json) |
@@ -6004,6 +6005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rygar: The Legendary Adventure | 5134 | [5134-rygar-the-legendary-adventure.json](./5134-rygar-the-legendary-adventure.json) |
 | RYL: Path of the Emperor | 6548 | [6548-ryl-path-of-the-emperor.json](./6548-ryl-path-of-the-emperor.json) |
 | Rym 9000: Limited Edition | 167035 | [167035-rym-9000-limited-edition.json](./167035-rym-9000-limited-edition.json) |
+| Rymdkapsel | 18830 | [18830-rymdkapsel.json](./18830-rymdkapsel.json) |
 | RymdResa | 11735 | [11735-rymdresa.json](./11735-rymdresa.json) |
 | Ryo: The Haunted Office | 234538 | [234538-ryo-the-haunted-office.json](./234538-ryo-the-haunted-office.json) |
 | Ryojyoku Damashii: Ero Kenkyaku Den | 97367 | [97367-ryojyoku-damashii-ero-kenkyaku-den.json](./97367-ryojyoku-damashii-ero-kenkyaku-den.json) |
