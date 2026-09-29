@@ -223,6 +223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octagon - A Minimal Game with Maximum Challenge | 88290 | [88290-octagon-a-minimal-game-with-maximum-challenge.json](./88290-octagon-a-minimal-game-with-maximum-challenge.json) |
 | Octagon 2: Extreme Evolution | 175418 | [175418-octagon-2-extreme-evolution.json](./175418-octagon-2-extreme-evolution.json) |
 | Octagon Squad | 30211 | [30211-octagon-squad.json](./30211-octagon-squad.json) |
+| OctagonEdges | 59485 | [59485-octagonedges.json](./59485-octagonedges.json) |
 | Octagonis | 177856 | [177856-octagonis.json](./177856-octagonis.json) |
 | Octane100 | 359571 | [359571-octane100.json](./359571-octane100.json) |
 | Octapolis | 55030 | [55030-octapolis.json](./55030-octapolis.json) |
@@ -1151,6 +1152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One on One: Dr. J vs. Larry Bird | 69833 | [69833-one-on-one-dr-j-vs-larry-bird.json](./69833-one-on-one-dr-j-vs-larry-bird.json) |
 | One Paradox | 341507 | [341507-one-paradox.json](./341507-one-paradox.json) |
 | One Perfect Day | 264061 | [264061-one-perfect-day.json](./264061-one-perfect-day.json) |
+| One Piece 2: Pirate King | 59466 | [59466-one-piece-2-pirate-king.json](./59466-one-piece-2-pirate-king.json) |
 | One Piece Clicker | 212282 | [212282-one-piece-clicker.json](./212282-one-piece-clicker.json) |
 | One Piece Odyssey | 194837 | [194837-one-piece-odyssey.json](./194837-one-piece-odyssey.json) |
 | One Piece Odyssey: Jewelry Pack | 312109 | [312109-one-piece-odyssey-jewelry-pack.json](./312109-one-piece-odyssey-jewelry-pack.json) |
