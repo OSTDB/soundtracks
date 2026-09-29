@@ -2830,6 +2830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10: Omniverse 2 | 5310 | [5310-ben-10-omniverse-2.json](./5310-ben-10-omniverse-2.json) |
 | Ben 10: Power Trip | 136659 | [136659-ben-10-power-trip.json](./136659-ben-10-power-trip.json) |
 | Ben 10: Protector of Earth | 210263 | [210263-ben-10-protector-of-earth.json](./210263-ben-10-protector-of-earth.json) |
+| Ben 10: Protector of Earth | 2799 | [2799-ben-10-protector-of-earth.json](./2799-ben-10-protector-of-earth.json) |
 | Ben 10: Samurai Warrior | 220589 | [220589-ben-10-samurai-warrior.json](./220589-ben-10-samurai-warrior.json) |
 | Ben 10: Savage Pursuit | 142388 | [142388-ben-10-savage-pursuit.json](./142388-ben-10-savage-pursuit.json) |
 | Ben 10: Ultimate Alien - Cosmic Destruction | 377688 | [377688-ben-10-ultimate-alien-cosmic-destruction.json](./377688-ben-10-ultimate-alien-cosmic-destruction.json) |
@@ -5929,6 +5930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands: The Handsome Collection | 14548 | [14548-borderlands-the-handsome-collection.json](./14548-borderlands-the-handsome-collection.json) |
 | Borderlands: The Pre-Sequel - Handsome Jack Doppelganger | 186629 | [186629-borderlands-the-pre-sequel-handsome-jack-doppelganger.json](./186629-borderlands-the-pre-sequel-handsome-jack-doppelganger.json) |
 | Borderlands: The Pre-Sequel - Shock Drop Slaughter Pit | 13917 | [13917-borderlands-the-pre-sequel-shock-drop-slaughter-pit.json](./13917-borderlands-the-pre-sequel-shock-drop-slaughter-pit.json) |
+| Borderlands: The Zombie Island of Dr. Ned | 13913 | [13913-borderlands-the-zombie-island-of-dr-ned.json](./13913-borderlands-the-zombie-island-of-dr-ned.json) |
 | Borderlight | 115808 | [115808-borderlight.json](./115808-borderlight.json) |
 | Borderline | 6101 | [6101-borderline.json](./6101-borderline.json) |
 | Borderline Homicide | 245788 | [245788-borderline-homicide.json](./245788-borderline-homicide.json) |
