@@ -4329,6 +4329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disciples II Mobile | 314309 | [314309-disciples-ii-mobile.json](./314309-disciples-ii-mobile.json) |
 | Disciples II: Dark Prophecy | 6542 | [6542-disciples-ii-dark-prophecy.json](./6542-disciples-ii-dark-prophecy.json) |
 | Disciples II: Gallean's Return | 19351 | [19351-disciples-ii-galleans-return.json](./19351-disciples-ii-galleans-return.json) |
+| Disciples II: Gold Edition | 46619 | [46619-disciples-ii-gold-edition.json](./46619-disciples-ii-gold-edition.json) |
 | Disciples II: Guardians of the Light | 11403 | [11403-disciples-ii-guardians-of-the-light.json](./11403-disciples-ii-guardians-of-the-light.json) |
 | Disciples II: Rise of the Elves | 11404 | [11404-disciples-ii-rise-of-the-elves.json](./11404-disciples-ii-rise-of-the-elves.json) |
 | Disciples II: Rise of the Elves Gold | 224495 | [224495-disciples-ii-rise-of-the-elves-gold.json](./224495-disciples-ii-rise-of-the-elves-gold.json) |
@@ -4534,6 +4535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Animated Storybook: The Lion King | 214616 | [214616-disneys-animated-storybook-the-lion-king.json](./214616-disneys-animated-storybook-the-lion-king.json) |
 | Disney's Animated Storybook: Toy Story | 239203 | [239203-disneys-animated-storybook-toy-story.json](./239203-disneys-animated-storybook-toy-story.json) |
 | Disney's Arcade Frenzy | 120809 | [120809-disneys-arcade-frenzy.json](./120809-disneys-arcade-frenzy.json) |
+| Disney's Ariel: The Little Mermaid | 45628 | [45628-disneys-ariel-the-little-mermaid.json](./45628-disneys-ariel-the-little-mermaid.json) |
 | Disney's Atlantis: The Lost Empire | 248624 | [248624-disneys-atlantis-the-lost-empire.json](./248624-disneys-atlantis-the-lost-empire.json) |
 | Disney's Atlantis: The Lost Empire | 248625 | [248625-disneys-atlantis-the-lost-empire.json](./248625-disneys-atlantis-the-lost-empire.json) |
 | Disney's Atlantis: The Lost Empire | 9056 | [9056-disneys-atlantis-the-lost-empire.json](./9056-disneys-atlantis-the-lost-empire.json) |
@@ -4593,6 +4595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's The Little Mermaid: Magic in Two Kingdoms | 49404 | [49404-disneys-the-little-mermaid-magic-in-two-kingdoms.json](./49404-disneys-the-little-mermaid-magic-in-two-kingdoms.json) |
 | Disney's Tigger Activity Center | 209031 | [209031-disneys-tigger-activity-center.json](./209031-disneys-tigger-activity-center.json) |
 | Disney's Tigger's Honey Hunt | 3613 | [3613-disneys-tiggers-honey-hunt.json](./3613-disneys-tiggers-honey-hunt.json) |
+| Disney's Timon & Pumbaa's Jungle Games | 72032 | [72032-disneys-timon-and-pumbaas-jungle-games.json](./72032-disneys-timon-and-pumbaas-jungle-games.json) |
 | Disney's Toy Story | 198945 | [198945-disneys-toy-story.json](./198945-disneys-toy-story.json) |
 | Disney's Treasure Planet: Broadside Blast | 213035 | [213035-disneys-treasure-planet-broadside-blast.json](./213035-disneys-treasure-planet-broadside-blast.json) |
 | Disney's Treasure Planet: Etherium Rescue | 213037 | [213037-disneys-treasure-planet-etherium-rescue.json](./213037-disneys-treasure-planet-etherium-rescue.json) |
@@ -6794,6 +6797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw | 258014 | [258014-draw.json](./258014-draw.json) |
 | Draw & Guess Multiplayer | 348948 | [348948-draw-and-guess-multiplayer.json](./348948-draw-and-guess-multiplayer.json) |
 | Draw 2 Save: Stickman Puzzle | 208980 | [208980-draw-2-save-stickman-puzzle.json](./208980-draw-2-save-stickman-puzzle.json) |
+| Draw a Stickman: Epic | 5032 | [5032-draw-a-stickman-epic.json](./5032-draw-a-stickman-epic.json) |
 | Draw A Stickman: Episode 2 | 99999 | [99999-draw-a-stickman-episode-2.json](./99999-draw-a-stickman-episode-2.json) |
 | Draw and Color: Kawaii - Complete Edition | 242047 | [242047-draw-and-color-kawaii-complete-edition.json](./242047-draw-and-color-kawaii-complete-edition.json) |
 | Draw and Color: Kawaii - Director's Cut | 250361 | [250361-draw-and-color-kawaii-directors-cut.json](./250361-draw-and-color-kawaii-directors-cut.json) |
@@ -7780,6 +7784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dumb Roguelike-like RPG | 164517 | [164517-dumb-roguelike-like-rpg.json](./164517-dumb-roguelike-like-rpg.json) |
 | Dumb Stone | 55274 | [55274-dumb-stone.json](./55274-dumb-stone.json) |
 | Dumb Ways to Die | 80659 | [80659-dumb-ways-to-die.json](./80659-dumb-ways-to-die.json) |
+| Dumb Ways to Die 2: The Games | 57455 | [57455-dumb-ways-to-die-2-the-games.json](./57455-dumb-ways-to-die-2-the-games.json) |
 | Dumb Ways to Die 3: World Tour | 99133 | [99133-dumb-ways-to-die-3-world-tour.json](./99133-dumb-ways-to-die-3-world-tour.json) |
 | Dumb Ways to Die 4 | 248649 | [248649-dumb-ways-to-die-4.json](./248649-dumb-ways-to-die-4.json) |
 | Dumb Ways to Draw | 231864 | [231864-dumb-ways-to-draw.json](./231864-dumb-ways-to-draw.json) |
