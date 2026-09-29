@@ -353,6 +353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Ways to Die | 16745 | [16745-101-ways-to-die.json](./16745-101-ways-to-die.json) |
 | 101-in-1 Explosive Megamix | 23025 | [23025-101-in-1-explosive-megamix.json](./23025-101-in-1-explosive-megamix.json) |
 | 101-in-1 Games Anthology | 273970 | [273970-101-in-1-games-anthology.json](./273970-101-in-1-games-anthology.json) |
+| 1010: Block | 58253 | [58253-1010-block.json](./58253-1010-block.json) |
 | 1010Tro | 380685 | [380685-1010tro.json](./380685-1010tro.json) |
 | 1024 | 61866 | [61866-1024.json](./61866-1024.json) |
 | 1024 Cement Mixer | 308273 | [308273-1024-cement-mixer.json](./308273-1024-cement-mixer.json) |
