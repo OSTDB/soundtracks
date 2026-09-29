@@ -1971,6 +1971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AirHead Adam | 261325 | [261325-airhead-adam.json](./261325-airhead-adam.json) |
 | Airheads Jump | 344007 | [344007-airheads-jump.json](./344007-airheads-jump.json) |
 | Airheart: The Deluxe Edition | 52570 | [52570-airheart-the-deluxe-edition.json](./52570-airheart-the-deluxe-edition.json) |
+| Airi's World | 51430 | [51430-airis-world.json](./51430-airis-world.json) |
 | AirJet Fighter Sky Dominators: Aerial Assault | 268480 | [268480-airjet-fighter-sky-dominators-aerial-assault.json](./268480-airjet-fighter-sky-dominators-aerial-assault.json) |
 | Airlift | 15591 | [15591-airlift.json](./15591-airlift.json) |
 | Airline | 15592 | [15592-airline.json](./15592-airline.json) |
@@ -3779,6 +3780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel! | 177914 | [177914-angel.json](./177914-angel.json) |
 | Angel's Feather | 72737 | [72737-angels-feather.json](./72737-angels-feather.json) |
 | Angel's Feather: Kohaku no Hitomi | 44649 | [44649-angels-feather-kohaku-no-hitomi.json](./44649-angels-feather-kohaku-no-hitomi.json) |
+| Angel's Feather: Kuro no Zanei | 51428 | [51428-angels-feather-kuro-no-zanei.json](./51428-angels-feather-kuro-no-zanei.json) |
 | Angel's Lullaby | 330360 | [330360-angels-lullaby.json](./330360-angels-lullaby.json) |
 | Angel's Present: A Marl Kingdom Story | 76591 | [76591-angels-present-a-marl-kingdom-story.json](./76591-angels-present-a-marl-kingdom-story.json) |
 | Angel's Return | 401524 | [401524-angels-return.json](./401524-angels-return.json) |
