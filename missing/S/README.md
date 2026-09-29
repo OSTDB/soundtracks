@@ -12281,6 +12281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strawberry Note 3 | 343324 | [343324-strawberry-note-3.json](./343324-strawberry-note-3.json) |
 | Strawberry Park | 312732 | [312732-strawberry-park.json](./312732-strawberry-park.json) |
 | Strawberry Shortcake: Berry Rush | 259535 | [259535-strawberry-shortcake-berry-rush.json](./259535-strawberry-shortcake-berry-rush.json) |
+| Strawberry Shortcake: Summertime Adventure - Special Edition | 49501 | [49501-strawberry-shortcake-summertime-adventure-special-edition.json](./49501-strawberry-shortcake-summertime-adventure-special-edition.json) |
 | Strawberry Shortcake: Sweet Dreams | 49366 | [49366-strawberry-shortcake-sweet-dreams.json](./49366-strawberry-shortcake-sweet-dreams.json) |
 | Stray | 177394 | [177394-stray.json](./177394-stray.json) |
 | Stray Beasts | 256324 | [256324-stray-beasts.json](./256324-stray-beasts.json) |
