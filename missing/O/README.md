@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Occupation 2.5 | 159111 | [159111-occupation-2-5.json](./159111-occupation-2-5.json) |
 | Occupied | 383029 | [383029-occupied.json](./383029-occupied.json) |
 | Occupy Mars: The Game | 80936 | [80936-occupy-mars-the-game.json](./80936-occupy-mars-the-game.json) |
+| Occupy White Walls | 105594 | [105594-occupy-white-walls.json](./105594-occupy-white-walls.json) |
 | Ocda | 185117 | [185117-ocda.json](./185117-ocda.json) |
 | Ocean Cargo Manager | 415169 | [415169-ocean-cargo-manager.json](./415169-ocean-cargo-manager.json) |
 | Ocean City Killer | 353978 | [353978-ocean-city-killer.json](./353978-ocean-city-killer.json) |
