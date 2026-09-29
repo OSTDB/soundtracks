@@ -317,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Skateboarding | 248633 | [248633-backyard-skateboarding.json](./248633-backyard-skateboarding.json) |
 | Backyard Skateboarding | 49312 | [49312-backyard-skateboarding.json](./49312-backyard-skateboarding.json) |
 | Backyard Soccer 2004 | 72711 | [72711-backyard-soccer-2004.json](./72711-backyard-soccer-2004.json) |
+| Backyard Sports Football: Rookie Rush | 47408 | [47408-backyard-sports-football-rookie-rush.json](./47408-backyard-sports-football-rookie-rush.json) |
 | Backyard Sports: Baseball 2007 | 72798 | [72798-backyard-sports-baseball-2007.json](./72798-backyard-sports-baseball-2007.json) |
 | Backyard Sports: Basketball 2007 | 73785 | [73785-backyard-sports-basketball-2007.json](./73785-backyard-sports-basketball-2007.json) |
 | Backyard Sports: Sandlot Sluggers | 47383 | [47383-backyard-sports-sandlot-sluggers.json](./47383-backyard-sports-sandlot-sluggers.json) |
@@ -2673,6 +2674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bella-Anna's Head | 376554 | [376554-bella-annas-head.json](./376554-bella-annas-head.json) |
 | Belladonna | 9246 | [9246-belladonna.json](./9246-belladonna.json) |
 | Belladonna's Flight | 255344 | [255344-belladonnas-flight.json](./255344-belladonnas-flight.json) |
+| Bellator: MMA Onslaught | 47438 | [47438-bellator-mma-onslaught.json](./47438-bellator-mma-onslaught.json) |
 | Bellatores | 352257 | [352257-bellatores.json](./352257-bellatores.json) |
 | Belle Boomerang | 150127 | [150127-belle-boomerang.json](./150127-belle-boomerang.json) |
 | Belle-de-Nuit | 156552 | [156552-belle-de-nuit.json](./156552-belle-de-nuit.json) |
@@ -3555,10 +3557,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BioShock 2: Kill 'em Kindly | 374311 | [374311-bioshock-2-kill-em-kindly.json](./374311-bioshock-2-kill-em-kindly.json) |
 | Bioshock 2: Rapture Edition | 44571 | [44571-bioshock-2-rapture-edition.json](./44571-bioshock-2-rapture-edition.json) |
 | BioShock 2: Rapture Metro Pack | 374312 | [374312-bioshock-2-rapture-metro-pack.json](./374312-bioshock-2-rapture-metro-pack.json) |
+| BioShock 2: Special Edition | 47440 | [47440-bioshock-2-special-edition.json](./47440-bioshock-2-special-edition.json) |
 | BioShock Infinite: Industrial Revolution | 64441 | [64441-bioshock-infinite-industrial-revolution.json](./64441-bioshock-infinite-industrial-revolution.json) |
 | BioShock Infinite: Ultimate Songbird Edition | 41598 | [41598-bioshock-infinite-ultimate-songbird-edition.json](./41598-bioshock-infinite-ultimate-songbird-edition.json) |
 | BioShock: Limited Edition | 142228 | [142228-bioshock-limited-edition.json](./142228-bioshock-limited-edition.json) |
 | BioShock: The Collection | 19839 | [19839-bioshock-the-collection.json](./19839-bioshock-the-collection.json) |
+| BioShock: Ultimate Rapture Edition | 47467 | [47467-bioshock-ultimate-rapture-edition.json](./47467-bioshock-ultimate-rapture-edition.json) |
 | Biosmose | 260644 | [260644-biosmose.json](./260644-biosmose.json) |
 | Biosphere | 185531 | [185531-biosphere.json](./185531-biosphere.json) |
 | Biosupremacy | 29793 | [29793-biosupremacy.json](./29793-biosupremacy.json) |
@@ -3856,6 +3860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Clover: Quartet Knights - Royal Magic Knight Set: Blue | 224123 | [224123-black-clover-quartet-knights-royal-magic-knight-set-blue.json](./224123-black-clover-quartet-knights-royal-magic-knight-set-blue.json) |
 | Black Clover: Quartet Knights - Royal Magic Knight Set: Wizard King | 224122 | [224122-black-clover-quartet-knights-royal-magic-knight-set-wizard-king.json](./224122-black-clover-quartet-knights-royal-magic-knight-set-wizard-king.json) |
 | Black Code | 55840 | [55840-black-code.json](./55840-black-code.json) |
+| Black College Football: The Xperience | 47439 | [47439-black-college-football-the-xperience.json](./47439-black-college-football-the-xperience.json) |
 | Black Command | 107221 | [107221-black-command.json](./107221-black-command.json) |
 | Black Cycle | 226194 | [226194-black-cycle.json](./226194-black-cycle.json) |
 | Black Dahlia | 12405 | [12405-black-dahlia.json](./12405-black-dahlia.json) |
