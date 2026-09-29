@@ -615,6 +615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncanny Cat Golf | 323318 | [323318-uncanny-cat-golf.json](./323318-uncanny-cat-golf.json) |
 | Uncanny Islands | 81787 | [81787-uncanny-islands.json](./81787-uncanny-islands.json) |
 | Uncanyon | 416106 | [416106-uncanyon.json](./416106-uncanyon.json) |
+| Uncarta | 57757 | [57757-uncarta.json](./57757-uncarta.json) |
 | Uncensor Quest | 261773 | [261773-uncensor-quest.json](./261773-uncensor-quest.json) |
 | Unchained | 130262 | [130262-unchained.json](./130262-unchained.json) |
 | Unchained | 178075 | [178075-unchained.json](./178075-unchained.json) |
