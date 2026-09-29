@@ -910,6 +910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Sceptre d'Anubis | 304052 | [304052-le-sceptre-danubis.json](./304052-le-sceptre-danubis.json) |
 | Le Schmilblick | 118315 | [118315-le-schmilblick.json](./118315-le-schmilblick.json) |
 | Le Tour de France | 172668 | [172668-le-tour-de-france.json](./172668-le-tour-de-france.json) |
+| Le Tour de France: Centenary Edition | 43449 | [43449-le-tour-de-france-centenary-edition.json](./43449-le-tour-de-france-centenary-edition.json) |
 | Le Zoo | 346065 | [346065-le-zoo.json](./346065-le-zoo.json) |
 | Lead & Blood | 372687 | [372687-lead-and-blood.json](./372687-lead-and-blood.json) |
 | Lead and Gold: Gangs of the Wild West | 2041 | [2041-lead-and-gold-gangs-of-the-wild-west.json](./2041-lead-and-gold-gangs-of-the-wild-west.json) |
@@ -3183,6 +3184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonath Online | 34323 | [34323-lonath-online.json](./34323-lonath-online.json) |
 | London 2012: Official Mobile Game | 137015 | [137015-london-2012-official-mobile-game.json](./137015-london-2012-official-mobile-game.json) |
 | London 2012: The Official Video Game | 7055 | [7055-london-2012-the-official-video-game.json](./7055-london-2012-the-official-video-game.json) |
+| London Cab Challenge | 43470 | [43470-london-cab-challenge.json](./43470-london-cab-challenge.json) |
 | London Crazy Taxi | 235217 | [235217-london-crazy-taxi.json](./235217-london-crazy-taxi.json) |
 | London Detective Mysteria | 104261 | [104261-london-detective-mysteria.json](./104261-london-detective-mysteria.json) |
 | London Racer II | 12897 | [12897-london-racer-ii.json](./12897-london-racer-ii.json) |
