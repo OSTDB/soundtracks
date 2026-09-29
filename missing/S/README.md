@@ -9433,6 +9433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpectralClimb | 271281 | [271281-spectralclimb.json](./271281-spectralclimb.json) |
 | Spectralia | 312735 | [312735-spectralia.json](./312735-spectralia.json) |
 | Spectre | 59846 | [59846-spectre.json](./59846-spectre.json) |
+| Spectre Divide | 311967 | [311967-spectre-divide.json](./311967-spectre-divide.json) |
 | Spectre of Eternity | 210865 | [210865-spectre-of-eternity.json](./210865-spectre-of-eternity.json) |
 | Spectre's Library | 235971 | [235971-spectres-library.json](./235971-spectres-library.json) |
 | Spectres | 45359 | [45359-spectres.json](./45359-spectres.json) |
@@ -11176,6 +11177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: X-Wing | 168 | [168-star-wars-x-wing.json](./168-star-wars-x-wing.json) |
 | Star Wars: X-Wing Tour of Duty - B-Wing | 171 | [171-star-wars-x-wing-tour-of-duty-b-wing.json](./171-star-wars-x-wing-tour-of-duty-b-wing.json) |
 | Star Wars: X-Wing Tour of Duty - Imperial Pursuit | 173 | [173-star-wars-x-wing-tour-of-duty-imperial-pursuit.json](./173-star-wars-x-wing-tour-of-duty-imperial-pursuit.json) |
+| Star Wars: X-Wing vs. TIE Fighter | 170 | [170-star-wars-x-wing-vs-tie-fighter.json](./170-star-wars-x-wing-vs-tie-fighter.json) |
 | Star Wing | 385716 | [385716-star-wing.json](./385716-star-wing.json) |
 | Star Witch | 190224 | [190224-star-witch.json](./190224-star-witch.json) |
 | Star Wolves 3: Civil War | 9851 | [9851-star-wolves-3-civil-war.json](./9851-star-wolves-3-civil-war.json) |
@@ -15012,6 +15014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Street Fighter II: The New Challengers | 198933 | [198933-super-street-fighter-ii-the-new-challengers.json](./198933-super-street-fighter-ii-the-new-challengers.json) |
 | Super Street Fighter II: The New Challengers | 322210 | [322210-super-street-fighter-ii-the-new-challengers.json](./322210-super-street-fighter-ii-the-new-challengers.json) |
 | Super Street Fighter II: The New Challengers - Tiger Barcodzz | 198934 | [198934-super-street-fighter-ii-the-new-challengers-tiger-barcodzz.json](./198934-super-street-fighter-ii-the-new-challengers-tiger-barcodzz.json) |
+| Super Street Fighter IV: 3D Edition | 6895 | [6895-super-street-fighter-iv-3d-edition.json](./6895-super-street-fighter-iv-3d-edition.json) |
 | Super Street Fighter IV: Arcade Edition | 20586 | [20586-super-street-fighter-iv-arcade-edition.json](./20586-super-street-fighter-iv-arcade-edition.json) |
 | Super Street Fighter IV: Pachislot Edition | 69377 | [69377-super-street-fighter-iv-pachislot-edition.json](./69377-super-street-fighter-iv-pachislot-edition.json) |
 | Super Strip Fighter IV | 66653 | [66653-super-strip-fighter-iv.json](./66653-super-strip-fighter-iv.json) |
