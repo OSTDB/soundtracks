@@ -443,6 +443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Badge Emperor | 101732 | [101732-badge-emperor.json](./101732-badge-emperor.json) |
 | Badger Brawl | 177016 | [177016-badger-brawl.json](./177016-badger-brawl.json) |
 | BadLads | 131597 | [131597-badlads.json](./131597-badlads.json) |
+| Badland | 8901 | [8901-badland.json](./8901-badland.json) |
 | Badland Brawl | 77663 | [77663-badland-brawl.json](./77663-badland-brawl.json) |
 | Badland Caravan | 118296 | [118296-badland-caravan.json](./118296-badland-caravan.json) |
 | Badland Envoys | 129636 | [129636-badland-envoys.json](./129636-badland-envoys.json) |
@@ -2728,6 +2729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bejeweled | 8318 | [8318-bejeweled.json](./8318-bejeweled.json) |
 | Bejeweled 2 | 614 | [614-bejeweled-2.json](./614-bejeweled-2.json) |
 | Bejeweled 2 Deluxe | 14806 | [14806-bejeweled-2-deluxe.json](./14806-bejeweled-2-deluxe.json) |
+| Bejeweled 3 | 1978 | [1978-bejeweled-3.json](./1978-bejeweled-3.json) |
 | Bejeweled Blitz | 20435 | [20435-bejeweled-blitz.json](./20435-bejeweled-blitz.json) |
 | Bejeweled Classic | 187382 | [187382-bejeweled-classic.json](./187382-bejeweled-classic.json) |
 | Bejeweled Classic HD | 102591 | [102591-bejeweled-classic-hd.json](./102591-bejeweled-classic-hd.json) |
@@ -3614,6 +3616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biomorph | 213287 | [213287-biomorph.json](./213287-biomorph.json) |
 | Bionic Attack | 36527 | [36527-bionic-attack.json](./36527-bionic-attack.json) |
 | Bionic Chainsaw Pogo Gorilla | 14526 | [14526-bionic-chainsaw-pogo-gorilla.json](./14526-bionic-chainsaw-pogo-gorilla.json) |
+| Bionic Commando | 6914 | [6914-bionic-commando.json](./6914-bionic-commando.json) |
 | Bionic Commando | 9242 | [9242-bionic-commando.json](./9242-bionic-commando.json) |
 | Bionic Commando Rearmed 2 | 15858 | [15858-bionic-commando-rearmed-2.json](./15858-bionic-commando-rearmed-2.json) |
 | Bionic Commando: Elite Forces | 44077 | [44077-bionic-commando-elite-forces.json](./44077-bionic-commando-elite-forces.json) |
@@ -3635,6 +3638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biorhythm | 170531 | [170531-biorhythm.json](./170531-biorhythm.json) |
 | Biorhythm | 78373 | [78373-biorhythm.json](./78373-biorhythm.json) |
 | Bios | 26575 | [26575-bios.json](./26575-bios.json) |
+| BioShock | 214790 | [214790-bioshock.json](./214790-bioshock.json) |
 | Bioshock & Borderlands: The Shooter Collection | 150642 | [150642-bioshock-and-borderlands-the-shooter-collection.json](./150642-bioshock-and-borderlands-the-shooter-collection.json) |
 | BioShock 2: Kill 'em Kindly | 374311 | [374311-bioshock-2-kill-em-kindly.json](./374311-bioshock-2-kill-em-kindly.json) |
 | Bioshock 2: Rapture Edition | 44571 | [44571-bioshock-2-rapture-edition.json](./44571-bioshock-2-rapture-edition.json) |
