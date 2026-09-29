@@ -3676,6 +3676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riskant! | 263454 | [263454-riskant.json](./263454-riskant.json) |
 | Risky Roads | 300993 | [300993-risky-roads.json](./300993-risky-roads.json) |
 | Risky Sanctuary | 261772 | [261772-risky-sanctuary.json](./261772-risky-sanctuary.json) |
+| Ristorante Amore | 57173 | [57173-ristorante-amore.json](./57173-ristorante-amore.json) |
 | risTroyka | 142890 | [142890-ristroyka.json](./142890-ristroyka.json) |
 | Rita Hayworth Isn't In This Game | 112269 | [112269-rita-hayworth-isnt-in-this-game.json](./112269-rita-hayworth-isnt-in-this-game.json) |
 | Rite as Rain | 249851 | [249851-rite-as-rain.json](./249851-rite-as-rain.json) |
