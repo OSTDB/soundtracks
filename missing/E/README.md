@@ -1104,6 +1104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite Tanks | 139414 | [139414-elite-tanks.json](./139414-elite-tanks.json) |
 | Elite Trials | 96778 | [96778-elite-trials.json](./96778-elite-trials.json) |
 | Elite: Dangerous | 2955 | [2955-elite-dangerous.json](./2955-elite-dangerous.json) |
+| Elite: Dangerous - Horizons | 15442 | [15442-elite-dangerous-horizons.json](./15442-elite-dangerous-horizons.json) |
 | Elithian Races Mod | 280270 | [280270-elithian-races-mod.json](./280270-elithian-races-mod.json) |
 | Elitserien 96 | 45560 | [45560-elitserien-96.json](./45560-elitserien-96.json) |
 | Elixir | 145607 | [145607-elixir.json](./145607-elixir.json) |
@@ -2678,6 +2679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Etherium | 401481 | [401481-etherium.json](./401481-etherium.json) |
 | Etherium | 8923 | [8923-etherium.json](./8923-etherium.json) |
 | Etherjump | 219071 | [219071-etherjump.json](./219071-etherjump.json) |
+| Etherlords | 11407 | [11407-etherlords.json](./11407-etherlords.json) |
 | Etherlords | 344027 | [344027-etherlords.json](./344027-etherlords.json) |
 | Ethernal | 214438 | [214438-ethernal.json](./214438-ethernal.json) |
 | Ethernal War | 152855 | [152855-ethernal-war.json](./152855-ethernal-war.json) |
