@@ -212,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ochakai he no Shoutaijou | 246092 | [246092-ochakai-he-no-shoutaijou.json](./246092-ochakai-he-no-shoutaijou.json) |
 | Ochakumi | 78020 | [78020-ochakumi.json](./78020-ochakumi.json) |
 | Ochige Designer Tsukutte Pon! | 128361 | [128361-ochige-designer-tsukutte-pon.json](./128361-ochige-designer-tsukutte-pon.json) |
+| Ochin ni Toshi Puzzle Tonjan!? | 48798 | [48798-ochin-ni-toshi-puzzle-tonjan.json](./48798-ochin-ni-toshi-puzzle-tonjan.json) |
 | Ochre | 400963 | [400963-ochre.json](./400963-ochre.json) |
 | Oco | 125845 | [125845-oco.json](./125845-oco.json) |
 | Ocolast | 158027 | [158027-ocolast.json](./158027-ocolast.json) |
@@ -338,6 +339,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oedo Developer | 369089 | [369089-oedo-developer.json](./369089-oedo-developer.json) |
 | Oedo Trigger VR!! | 263229 | [263229-oedo-trigger-vr.json](./263229-oedo-trigger-vr.json) |
 | Oedo Trigger!! | 235735 | [235735-oedo-trigger.json](./235735-oedo-trigger.json) |
+| Oeka Kids: Anpanman no Hiragana Daisuki | 48800 | [48800-oeka-kids-anpanman-no-hiragana-daisuki.json](./48800-oeka-kids-anpanman-no-hiragana-daisuki.json) |
+| Oeka Kids: Anpanman to Oekaki Shiyou!! | 48799 | [48799-oeka-kids-anpanman-to-oekaki-shiyou.json](./48799-oeka-kids-anpanman-to-oekaki-shiyou.json) |
 | Oekaki Nokoshite Print Shichaou! Set | 327629 | [327629-oekaki-nokoshite-print-shichaou-set.json](./327629-oekaki-nokoshite-print-shichaou-set.json) |
 | Oekaki Programmer | 346041 | [346041-oekaki-programmer.json](./346041-oekaki-programmer.json) |
 | Oeuf | 375317 | [375317-oeuf.json](./375317-oeuf.json) |
@@ -1995,6 +1998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osmo Coding Jam | 100164 | [100164-osmo-coding-jam.json](./100164-osmo-coding-jam.json) |
 | Osmo Monster | 104667 | [104667-osmo-monster.json](./104667-osmo-monster.json) |
 | Osmorrow | 80933 | [80933-osmorrow.json](./80933-osmorrow.json) |
+| Osomatsu-kun: Back to the Me no Deppa no Maki | 48797 | [48797-osomatsu-kun-back-to-the-me-no-deppa-no-maki.json](./48797-osomatsu-kun-back-to-the-me-no-deppa-no-maki.json) |
 | Osomatsu-san Protagonist Contest Pokoball | 266478 | [266478-osomatsu-san-protagonist-contest-pokoball.json](./266478-osomatsu-san-protagonist-contest-pokoball.json) |
 | Osomatsu-san: Hesokuri Wars | 56477 | [56477-osomatsu-san-hesokuri-wars.json](./56477-osomatsu-san-hesokuri-wars.json) |
 | OSR Unhinged | 91946 | [91946-osr-unhinged.json](./91946-osr-unhinged.json) |
