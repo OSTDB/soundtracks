@@ -11017,6 +11017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek Bridge Crew: The Next Generation Bundle | 118846 | [118846-star-trek-bridge-crew-the-next-generation-bundle.json](./118846-star-trek-bridge-crew-the-next-generation-bundle.json) |
 | Star Trek Catan | 24191 | [24191-star-trek-catan.json](./24191-star-trek-catan.json) |
 | Star Trek First Contact | 362902 | [362902-star-trek-first-contact.json](./362902-star-trek-first-contact.json) |
+| Star Trek Fleet Command | 115414 | [115414-star-trek-fleet-command.json](./115414-star-trek-fleet-command.json) |
 | Star Trek II: The Wrath of Khan | 218425 | [218425-star-trek-ii-the-wrath-of-khan.json](./218425-star-trek-ii-the-wrath-of-khan.json) |
 | Star Trek III | 69258 | [69258-star-trek-iii.json](./69258-star-trek-iii.json) |
 | Star Trek Klingon | 51380 | [51380-star-trek-klingon.json](./51380-star-trek-klingon.json) |
@@ -14269,6 +14270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Kids Racing: Snow Edition | 249491 | [249491-super-kids-racing-snow-edition.json](./249491-super-kids-racing-snow-edition.json) |
 | Super Kill-Boi 9000 | 215705 | [215705-super-kill-boi-9000.json](./215705-super-kill-boi-9000.json) |
 | Super Killer Hornets: Resurrection | 54413 | [54413-super-killer-hornets-resurrection.json](./54413-super-killer-hornets-resurrection.json) |
+| Super Kirby Clash | 122229 | [122229-super-kirby-clash.json](./122229-super-kirby-clash.json) |
 | Super Kitty Tales | 180774 | [180774-super-kitty-tales.json](./180774-super-kitty-tales.json) |
 | Super Kiwi 64 | 197198 | [197198-super-kiwi-64.json](./197198-super-kiwi-64.json) |
 | Super Knockoff Versus | 82507 | [82507-super-knockoff-versus.json](./82507-super-knockoff-versus.json) |
@@ -14657,6 +14659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Monkey Ball | 2927 | [2927-super-monkey-ball.json](./2927-super-monkey-ball.json) |
 | Super Monkey Ball 2 | 2928 | [2928-super-monkey-ball-2.json](./2928-super-monkey-ball-2.json) |
 | Super Monkey Ball Stardust | 352178 | [352178-super-monkey-ball-stardust.json](./352178-super-monkey-ball-stardust.json) |
+| Super Monkey Ball: Banana Blitz HD | 120867 | [120867-super-monkey-ball-banana-blitz-hd.json](./120867-super-monkey-ball-banana-blitz-hd.json) |
 | Super Monkey Ball: Banana Mania | 152355 | [152355-super-monkey-ball-banana-mania.json](./152355-super-monkey-ball-banana-mania.json) |
 | Super Monkey Ball: Banana Mania - Digital Deluxe Edition | 158584 | [158584-super-monkey-ball-banana-mania-digital-deluxe-edition.json](./158584-super-monkey-ball-banana-mania-digital-deluxe-edition.json) |
 | Super Monkey Ball: Banana Mania - Launch Edition | 323951 | [323951-super-monkey-ball-banana-mania-launch-edition.json](./323951-super-monkey-ball-banana-mania-launch-edition.json) |
