@@ -4504,6 +4504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Godbeast | 108299 | [108299-the-godbeast.json](./108299-the-godbeast.json) |
 | The Goddess Robbery | 307906 | [307906-the-goddess-robbery.json](./307906-the-goddess-robbery.json) |
 | The Godfather | 13068 | [13068-the-godfather.json](./13068-the-godfather.json) |
+| The Godfather Collection | 46724 | [46724-the-godfather-collection.json](./46724-the-godfather-collection.json) |
 | The Godfather II | 575 | [575-the-godfather-ii.json](./575-the-godfather-ii.json) |
 | The Godfather: The Don's Edition | 20683 | [20683-the-godfather-the-dons-edition.json](./20683-the-godfather-the-dons-edition.json) |
 | The Godkiller: Chapter 1 | 163984 | [163984-the-godkiller-chapter-1.json](./163984-the-godkiller-chapter-1.json) |
@@ -5841,6 +5842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings Online: Kingdoms of Harad | 380534 | [380534-the-lord-of-the-rings-online-kingdoms-of-harad.json](./380534-the-lord-of-the-rings-online-kingdoms-of-harad.json) |
 | The Lord of the Rings Online: Legacy of Morgoth | 376581 | [376581-the-lord-of-the-rings-online-legacy-of-morgoth.json](./376581-the-lord-of-the-rings-online-legacy-of-morgoth.json) |
 | The Lord of the Rings Online: Minas Morgul | 275924 | [275924-the-lord-of-the-rings-online-minas-morgul.json](./275924-the-lord-of-the-rings-online-minas-morgul.json) |
+| The Lord of the Rings Online: Mordor | 46778 | [46778-the-lord-of-the-rings-online-mordor.json](./46778-the-lord-of-the-rings-online-mordor.json) |
 | The Lord of the Rings Online: Quad Pack | 169321 | [169321-the-lord-of-the-rings-online-quad-pack.json](./169321-the-lord-of-the-rings-online-quad-pack.json) |
 | The Lord of the Rings Online: Quest Pack: Legacy of the Necromancer | 384536 | [384536-the-lord-of-the-rings-online-quest-pack-legacy-of-the-necromancer.json](./384536-the-lord-of-the-rings-online-quest-pack-legacy-of-the-necromancer.json) |
 | The Lord of the Rings Online: Quest Pack: The Vales of Anduin | 384540 | [384540-the-lord-of-the-rings-online-quest-pack-the-vales-of-anduin.json](./384540-the-lord-of-the-rings-online-quest-pack-the-vales-of-anduin.json) |
@@ -9177,6 +9179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Boy | 55186 | [55186-thunder-boy.json](./55186-thunder-boy.json) |
 | Thunder Chase | 83503 | [83503-thunder-chase.json](./83503-thunder-chase.json) |
 | Thunder Cross | 46772 | [46772-thunder-cross.json](./46772-thunder-cross.json) |
+| Thunder Cross II | 46774 | [46774-thunder-cross-ii.json](./46774-thunder-cross-ii.json) |
 | Thunder Dragon 2 | 40247 | [40247-thunder-dragon-2.json](./40247-thunder-dragon-2.json) |
 | Thunder Five | 98050 | [98050-thunder-five.json](./98050-thunder-five.json) |
 | Thunder Force | 55055 | [55055-thunder-force.json](./55055-thunder-force.json) |
