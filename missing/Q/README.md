@@ -242,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quarrel | 20659 | [20659-quarrel.json](./20659-quarrel.json) |
 | Quarrel Hill | 295330 | [295330-quarrel-hill.json](./295330-quarrel-hill.json) |
 | Quartal | 370145 | [370145-quartal.json](./370145-quartal.json) |
+| Quarter Back Scramble: American Football Game | 48823 | [48823-quarter-back-scramble-american-football-game.json](./48823-quarter-back-scramble-american-football-game.json) |
 | Quarter Five | 355561 | [355561-quarter-five.json](./355561-quarter-five.json) |
 | Quarter Monkey | 233759 | [233759-quarter-monkey.json](./233759-quarter-monkey.json) |
 | Quarter Past Curse | 185548 | [185548-quarter-past-curse.json](./185548-quarter-past-curse.json) |
