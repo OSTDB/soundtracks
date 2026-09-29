@@ -4330,6 +4330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annihilation: Space Tycoon | 255794 | [255794-annihilation-space-tycoon.json](./255794-annihilation-space-tycoon.json) |
 | Annihilator | 94893 | [94893-annihilator.json](./94893-annihilator.json) |
 | Annihilith Of Abhorration | 271293 | [271293-annihilith-of-abhorration.json](./271293-annihilith-of-abhorration.json) |
+| Anniversary Collection Arcade Classics | 116390 | [116390-anniversary-collection-arcade-classics.json](./116390-anniversary-collection-arcade-classics.json) |
 | Anno 117: Pax Romana - Blooming Cities Pack | 408893 | [408893-anno-117-pax-romana-blooming-cities-pack.json](./408893-anno-117-pax-romana-blooming-cities-pack.json) |
 | Anno 117: Pax Romana - Marvellous Mosaic Pack | 408894 | [408894-anno-117-pax-romana-marvellous-mosaic-pack.json](./408894-anno-117-pax-romana-marvellous-mosaic-pack.json) |
 | Anno 117: Pax Romana - Year 1 Pass | 408895 | [408895-anno-117-pax-romana-year-1-pass.json](./408895-anno-117-pax-romana-year-1-pass.json) |
@@ -5945,6 +5946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Men: Turf Wars | 49314 | [49314-army-men-turf-wars.json](./49314-army-men-turf-wars.json) |
 | Army Men: World War | 44994 | [44994-army-men-world-war.json](./44994-army-men-world-war.json) |
 | Army Men: World War - Final Front | 43948 | [43948-army-men-world-war-final-front.json](./43948-army-men-world-war-final-front.json) |
+| Army Men: World War - Land Sea Air | 45097 | [45097-army-men-world-war-land-sea-air.json](./45097-army-men-world-war-land-sea-air.json) |
 | Army Moves | 11916 | [11916-army-moves.json](./11916-army-moves.json) |
 | Army of Ages | 286651 | [286651-army-of-ages.json](./286651-army-of-ages.json) |
 | Army of Darkness Doom 2 Total Conversion | 381149 | [381149-army-of-darkness-doom-2-total-conversion.json](./381149-army-of-darkness-doom-2-total-conversion.json) |
@@ -7428,6 +7430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automatum | 105302 | [105302-automatum.json](./105302-automatum.json) |
 | Automobiles and the Eisenhower Hiway System the Game | 111070 | [111070-automobiles-and-the-eisenhower-hiway-system-the-game.json](./111070-automobiles-and-the-eisenhower-hiway-system-the-game.json) |
 | Automobilista | 19442 | [19442-automobilista.json](./19442-automobilista.json) |
+| Automobilista 2 | 119811 | [119811-automobilista-2.json](./119811-automobilista-2.json) |
 | Automobilista 2: Adrenaline Pack Pt2 | 352745 | [352745-automobilista-2-adrenaline-pack-pt2.json](./352745-automobilista-2-adrenaline-pack-pt2.json) |
 | Automobilista 2: Circuit de Barcelona-Catalunya | 252694 | [252694-automobilista-2-circuit-de-barcelona-catalunya.json](./252694-automobilista-2-circuit-de-barcelona-catalunya.json) |
 | Automobilista 2: Endurance Pack Pt2 | 352739 | [352739-automobilista-2-endurance-pack-pt2.json](./352739-automobilista-2-endurance-pack-pt2.json) |
