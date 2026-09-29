@@ -1996,6 +1996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perch | 29944 | [29944-perch.json](./29944-perch.json) |
 | Perchang World | 400242 | [400242-perchang-world.json](./400242-perchang-world.json) |
 | Percipio | 339634 | [339634-percipio.json](./339634-percipio.json) |
+| Percussive VR | 31108 | [31108-percussive-vr.json](./31108-percussive-vr.json) |
 | Percy Penguin | 128467 | [128467-percy-penguin.json](./128467-percy-penguin.json) |
 | Percy's Last Stand | 118403 | [118403-percys-last-stand.json](./118403-percys-last-stand.json) |
 | Perdition | 121580 | [121580-perdition.json](./121580-perdition.json) |
@@ -2022,6 +2023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Dark Zero | 292158 | [292158-perfect-dark-zero.json](./292158-perfect-dark-zero.json) |
 | Perfect Dark Zero: Collector's Edition | 41596 | [41596-perfect-dark-zero-collectors-edition.json](./41596-perfect-dark-zero-collectors-edition.json) |
 | Perfect Fit | 243698 | [243698-perfect-fit.json](./243698-perfect-fit.json) |
+| Perfect Fit - Totemland | 31114 | [31114-perfect-fit-totemland.json](./31114-perfect-fit-totemland.json) |
 | Perfect Grind | 200746 | [200746-perfect-grind.json](./200746-perfect-grind.json) |
 | Perfect Heist 2 | 157499 | [157499-perfect-heist-2.json](./157499-perfect-heist-2.json) |
 | Perfect Heist 2: Historic Characters DLC | 274740 | [274740-perfect-heist-2-historic-characters-dlc.json](./274740-perfect-heist-2-historic-characters-dlc.json) |
@@ -2373,6 +2375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasmagoria | 221 | [221-phantasmagoria.json](./221-phantasmagoria.json) |
 | Phantasmal Exosteel | 377814 | [377814-phantasmal-exosteel.json](./377814-phantasmal-exosteel.json) |
 | Phantasmal: City of Darkness | 18793 | [18793-phantasmal-city-of-darkness.json](./18793-phantasmal-city-of-darkness.json) |
+| Phantasmat: Crucible Peak - Collector's Edition | 31066 | [31066-phantasmat-crucible-peak-collectors-edition.json](./31066-phantasmat-crucible-peak-collectors-edition.json) |
 | Phantasmat: Death in Hardcover - Collector’s Edition | 234556 | [234556-phantasmat-death-in-hardcover-collector-s-edition.json](./234556-phantasmat-death-in-hardcover-collector-s-edition.json) |
 | Phantasmat: Déjà Vu - Collector's Edition | 234555 | [234555-phantasmat-deja-vu-collectors-edition.json](./234555-phantasmat-deja-vu-collectors-edition.json) |
 | Phantasmat: Remains of Buried Memories - Collector's Edition | 234557 | [234557-phantasmat-remains-of-buried-memories-collectors-edition.json](./234557-phantasmat-remains-of-buried-memories-collectors-edition.json) |
