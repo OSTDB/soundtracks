@@ -2495,6 +2495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Change Maker | 71769 | [71769-change-maker.json](./71769-change-maker.json) |
 | Change: A Homeless Survival Experience | 109339 | [109339-change-a-homeless-survival-experience.json](./109339-change-a-homeless-survival-experience.json) |
 | Change: A Homeless Survival Experience - Living City Expansion | 199664 | [199664-change-a-homeless-survival-experience-living-city-expansion.json](./199664-change-a-homeless-survival-experience-living-city-expansion.json) |
+| Changed | 89955 | [89955-changed.json](./89955-changed.json) |
 | Changeling | 113896 | [113896-changeling.json](./113896-changeling.json) |
 | Changelog | 360569 | [360569-changelog.json](./360569-changelog.json) |
 | Changeover: Decisions | 96244 | [96244-changeover-decisions.json](./96244-changeover-decisions.json) |
@@ -3147,6 +3148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Child of Hope | 190228 | [190228-child-of-hope.json](./190228-child-of-hope.json) |
 | Child of Light: Limited Edition | 166238 | [166238-child-of-light-limited-edition.json](./166238-child-of-light-limited-edition.json) |
 | Child of Light: The Golem's Plight Pack | 170390 | [170390-child-of-light-the-golems-plight-pack.json](./170390-child-of-light-the-golems-plight-pack.json) |
+| Child of Light: Ultimate Edition | 99781 | [99781-child-of-light-ultimate-edition.json](./99781-child-of-light-ultimate-edition.json) |
 | Child of Luminescence | 350521 | [350521-child-of-luminescence.json](./350521-child-of-luminescence.json) |
 | Child of Ruin | 298876 | [298876-child-of-ruin.json](./298876-child-of-ruin.json) |
 | Child Phobia: Nightcoming Fears | 30084 | [30084-child-phobia-nightcoming-fears.json](./30084-child-phobia-nightcoming-fears.json) |
@@ -7466,6 +7468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creatures: Docking Station | 155011 | [155011-creatures-docking-station.json](./155011-creatures-docking-station.json) |
 | Creatures: Raised in Space | 46085 | [46085-creatures-raised-in-space.json](./46085-creatures-raised-in-space.json) |
 | Creaturing: Sea Wonders | 340561 | [340561-creaturing-sea-wonders.json](./340561-creaturing-sea-wonders.json) |
+| Creed: Rise to Glory | 102134 | [102134-creed-rise-to-glory.json](./102134-creed-rise-to-glory.json) |
 | Creep | 133462 | [133462-creep.json](./133462-creep.json) |
 | Creep Kick | 310197 | [310197-creep-kick.json](./310197-creep-kick.json) |
 | Creep Shock | 265429 | [265429-creep-shock.json](./265429-creep-shock.json) |
