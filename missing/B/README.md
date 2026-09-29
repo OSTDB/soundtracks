@@ -1369,6 +1369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basemental Gangs | 259230 | [259230-basemental-gangs.json](./259230-basemental-gangs.json) |
 | Bases and Bandits | 215145 | [215145-bases-and-bandits.json](./215145-bases-and-bandits.json) |
 | Bases Loaded | 7764 | [7764-bases-loaded.json](./7764-bases-loaded.json) |
+| Bases Loaded '96: Double Header | 46099 | [46099-bases-loaded-96-double-header.json](./46099-bases-loaded-96-double-header.json) |
 | Bases Loaded for Game Boy | 273096 | [273096-bases-loaded-for-game-boy.json](./273096-bases-loaded-for-game-boy.json) |
 | Bash Arena | 233450 | [233450-bash-arena.json](./233450-bash-arena.json) |
 | Bash It! | 252150 | [252150-bash-it.json](./252150-bash-it.json) |
@@ -3881,6 +3882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Emperor | 125471 | [125471-black-emperor.json](./125471-black-emperor.json) |
 | Black Fairy | 325841 | [325841-black-fairy.json](./325841-black-fairy.json) |
 | Black Fighter: Super Shadow Fight | 103887 | [103887-black-fighter-super-shadow-fight.json](./103887-black-fighter-super-shadow-fight.json) |
+| Black Fire | 46087 | [46087-black-fire.json](./46087-black-fire.json) |
 | Black Flower | 400966 | [400966-black-flower.json](./400966-black-flower.json) |
 | Black Friday: The Game | 68600 | [68600-black-friday-the-game.json](./68600-black-friday-the-game.json) |
 | Black Geyser: Couriers of Darkness - Tales of the Moon Cult | 379444 | [379444-black-geyser-couriers-of-darkness-tales-of-the-moon-cult.json](./379444-black-geyser-couriers-of-darkness-tales-of-the-moon-cult.json) |
