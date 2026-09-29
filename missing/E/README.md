@@ -1866,6 +1866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eOthello | 277283 | [277283-eothello.json](./277283-eothello.json) |
 | Epejsodion Dodgeball Defense | 166748 | [166748-epejsodion-dodgeball-defense.json](./166748-epejsodion-dodgeball-defense.json) |
 | Ephemeral Dreams, Eternal Love | 260116 | [260116-ephemeral-dreams-eternal-love.json](./260116-ephemeral-dreams-eternal-love.json) |
+| Ephemeral Fantasia | 44722 | [44722-ephemeral-fantasia.json](./44722-ephemeral-fantasia.json) |
 | Ephemeral Legend | 274979 | [274979-ephemeral-legend.json](./274979-ephemeral-legend.json) |
 | Ephemeral Tale | 127247 | [127247-ephemeral-tale.json](./127247-ephemeral-tale.json) |
 | Ephemeral: Miniature Garden | 222866 | [222866-ephemeral-miniature-garden.json](./222866-ephemeral-miniature-garden.json) |
@@ -2807,8 +2808,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eve Online: Revenant | 329685 | [329685-eve-online-revenant.json](./329685-eve-online-revenant.json) |
 | Eve Online: Zenith - Quadrant 3 | 329917 | [329917-eve-online-zenith-quadrant-3.json](./329917-eve-online-zenith-quadrant-3.json) |
 | EVE Vanguard | 277846 | [277846-eve-vanguard.json](./277846-eve-vanguard.json) |
+| Eve Zero | 44729 | [44729-eve-zero.json](./44729-eve-zero.json) |
 | Eve: Echoes | 111187 | [111187-eve-echoes.json](./111187-eve-echoes.json) |
 | Eve: Galaxy Conquest | 317843 | [317843-eve-galaxy-conquest.json](./317843-eve-galaxy-conquest.json) |
+| Eve: The Fatal Attraction | 44730 | [44730-eve-the-fatal-attraction.json](./44730-eve-the-fatal-attraction.json) |
 | Evel Knievel Evel-ution | 23533 | [23533-evel-knievel-evel-ution.json](./23533-evel-knievel-evel-ution.json) |
 | Even in Arcadia | 135022 | [135022-even-in-arcadia.json](./135022-even-in-arcadia.json) |
 | Even in Arcadia, There I Am | 136421 | [136421-even-in-arcadia-there-i-am.json](./136421-even-in-arcadia-there-i-am.json) |
@@ -3487,6 +3490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Overtake | 323528 | [323528-extreme-overtake.json](./323528-extreme-overtake.json) |
 | Extreme Painting Puzzle | 110504 | [110504-extreme-painting-puzzle.json](./110504-extreme-painting-puzzle.json) |
 | Extreme Pamplona | 139232 | [139232-extreme-pamplona.json](./139232-extreme-pamplona.json) |
+| Extreme Power | 44727 | [44727-extreme-power.json](./44727-extreme-power.json) |
 | Extreme Power Soccer | 247043 | [247043-extreme-power-soccer.json](./247043-extreme-power-soccer.json) |
 | Extreme QTE | 151747 | [151747-extreme-qte.json](./151747-extreme-qte.json) |
 | Extreme Rally Raid | 278523 | [278523-extreme-rally-raid.json](./278523-extreme-rally-raid.json) |
