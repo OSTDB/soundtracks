@@ -1484,6 +1484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patrician IV: Steam Special Edition | 90478 | [90478-patrician-iv-steam-special-edition.json](./90478-patrician-iv-steam-special-edition.json) |
 | Patricide | 366246 | [366246-patricide.json](./366246-patricide.json) |
 | Patrick | 135836 | [135836-patrick.json](./135836-patrick.json) |
+| Patrick's Parabox | 133227 | [133227-patricks-parabox.json](./133227-patricks-parabox.json) |
 | Patriotika RPG: Shadow World | 298343 | [298343-patriotika-rpg-shadow-world.json](./298343-patriotika-rpg-shadow-world.json) |
 | Patriots by John Dondzila | 84155 | [84155-patriots-by-john-dondzila.json](./84155-patriots-by-john-dondzila.json) |
 | Patriots Remix | 37704 | [37704-patriots-remix.json](./37704-patriots-remix.json) |
@@ -7237,6 +7238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: XD | 196595 | [196595-project-xd.json](./196595-project-xd.json) |
 | Project: Youtuber | 147301 | [147301-project-youtuber.json](./147301-project-youtuber.json) |
 | Project:Pong | 149440 | [149440-project-pong.json](./149440-project-pong.json) |
+| Project+ | 131887 | [131887-project.json](./131887-project.json) |
 | Projectile Fighter | 109490 | [109490-projectile-fighter.json](./109490-projectile-fighter.json) |
 | Projection Remains | 182514 | [182514-projection-remains.json](./182514-projection-remains.json) |
 | ProjectL | 63241 | [63241-projectl.json](./63241-projectl.json) |
