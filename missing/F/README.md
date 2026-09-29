@@ -388,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fake Happy End | 29922 | [29922-fake-happy-end.json](./29922-fake-happy-end.json) |
 | Fake Hostel | 166628 | [166628-fake-hostel.json](./166628-fake-hostel.json) |
 | Fake Signals | 236273 | [236273-fake-signals.json](./236273-fake-signals.json) |
+| Fake World | 55270 | [55270-fake-world.json](./55270-fake-world.json) |
 | Falafel Tycoon | 152837 | [152837-falafel-tycoon.json](./152837-falafel-tycoon.json) |
 | Falaz | 374811 | [374811-falaz.json](./374811-falaz.json) |
 | Falcão & a cornopopéia brasileira | 245041 | [245041-falcao-and-a-cornopopeia-brasileira.json](./245041-falcao-and-a-cornopopeia-brasileira.json) |
@@ -3475,6 +3476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flipper & Lopaka: The Secrets of the Deep | 62735 | [62735-flipper-and-lopaka-the-secrets-of-the-deep.json](./62735-flipper-and-lopaka-the-secrets-of-the-deep.json) |
 | Flipper & Unboxing House 2-in-1 | 414442 | [414442-flipper-and-unboxing-house-2-in-1.json](./414442-flipper-and-unboxing-house-2-in-1.json) |
 | Flipper Critters | 20693 | [20693-flipper-critters.json](./20693-flipper-critters.json) |
+| Flipper Hazard 4 | 55239 | [55239-flipper-hazard-4.json](./55239-flipper-hazard-4.json) |
 | Flipper Hazard 5 | 55442 | [55442-flipper-hazard-5.json](./55442-flipper-hazard-5.json) |
 | Flipper Mechanic | 117798 | [117798-flipper-mechanic.json](./117798-flipper-mechanic.json) |
 | Flipper Mechanic Simulator | 244789 | [244789-flipper-mechanic-simulator.json](./244789-flipper-mechanic-simulator.json) |
@@ -4621,6 +4623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune: Hoshi no Furi Sosogu Oka | 344480 | [344480-fortune-hoshi-no-furi-sosogu-oka.json](./344480-fortune-hoshi-no-furi-sosogu-oka.json) |
 | Fortune's Favor | 347323 | [347323-fortunes-favor.json](./347323-fortunes-favor.json) |
 | Fortune's Run | 165071 | [165071-fortunes-run.json](./165071-fortunes-run.json) |
+| Fortune's Tavern: Fantasy Tavern Simulation Remastered | 55292 | [55292-fortunes-tavern-fantasy-tavern-simulation-remastered.json](./55292-fortunes-tavern-fantasy-tavern-simulation-remastered.json) |
 | Fortune's Tavern: The Fantasy Tavern Simulator - Miniature Gods | 170311 | [170311-fortunes-tavern-the-fantasy-tavern-simulator-miniature-gods.json](./170311-fortunes-tavern-the-fantasy-tavern-simulator-miniature-gods.json) |
 | Forty Thieves Solitaire Collection | 166679 | [166679-forty-thieves-solitaire-collection.json](./166679-forty-thieves-solitaire-collection.json) |
 | Forward | 178014 | [178014-forward.json](./178014-forward.json) |
@@ -4846,6 +4849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frag | 110296 | [110296-frag.json](./110296-frag.json) |
 | Frag | 167251 | [167251-frag.json](./167251-frag.json) |
 | Frag Ops | 272322 | [272322-frag-ops.json](./272322-frag-ops.json) |
+| Frag the Tanks | 55261 | [55261-frag-the-tanks.json](./55261-frag-the-tanks.json) |
 | Frag-A-Friend | 408165 | [408165-frag-a-friend.json](./408165-frag-a-friend.json) |
 | Fraga | 397270 | [397270-fraga.json](./397270-fraga.json) |
 | Fragger | 94183 | [94183-fragger.json](./94183-fragger.json) |
