@@ -888,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanyo Pachinko Paradise | 55926 | [55926-sanyo-pachinko-paradise.json](./55926-sanyo-pachinko-paradise.json) |
 | Sanyo Pachinko Paradise 2: Umi Monogatari Special | 55942 | [55942-sanyo-pachinko-paradise-2-umi-monogatari-special.json](./55942-sanyo-pachinko-paradise-2-umi-monogatari-special.json) |
 | Sanyo Pachinko Paradise 3 | 55927 | [55927-sanyo-pachinko-paradise-3.json](./55927-sanyo-pachinko-paradise-3.json) |
+| Sanyo Pachinko Paradise 4 | 55954 | [55954-sanyo-pachinko-paradise-4.json](./55954-sanyo-pachinko-paradise-4.json) |
 | Sanyou Pachinko Paradise 5: Ukiuki Tairyouki | 138685 | [138685-sanyou-pachinko-paradise-5-ukiuki-tairyouki.json](./138685-sanyou-pachinko-paradise-5-ukiuki-tairyouki.json) |
 | Sanzen Sekai Yuugi: Re Multi Universe Myself | 103175 | [103175-sanzen-sekai-yuugi-re-multi-universe-myself.json](./103175-sanzen-sekai-yuugi-re-multi-universe-myself.json) |
 | Sanzensekai no Ko wo Koroshi | 399061 | [399061-sanzensekai-no-ko-wo-koroshi.json](./399061-sanzensekai-no-ko-wo-koroshi.json) |
@@ -4332,6 +4333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrouded Aspect | 345146 | [345146-shrouded-aspect.json](./345146-shrouded-aspect.json) |
 | Shrouded Siege | 374052 | [374052-shrouded-siege.json](./374052-shrouded-siege.json) |
 | Shtdn | 202225 | [202225-shtdn.json](./202225-shtdn.json) |
+| SHTF | 55980 | [55980-shtf.json](./55980-shtf.json) |
 | Shudu | 247017 | [247017-shudu.json](./247017-shudu.json) |
 | Shuffle Farm | 345568 | [345568-shuffle-farm.json](./345568-shuffle-farm.json) |
 | Shuffle in One | 259551 | [259551-shuffle-in-one.json](./259551-shuffle-in-one.json) |
@@ -8365,6 +8367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sound Soarer | 74357 | [74357-sound-soarer.json](./74357-sound-soarer.json) |
 | Sound Voltex Booth | 64128 | [64128-sound-voltex-booth.json](./64128-sound-voltex-booth.json) |
 | Sound Voltex II: Infinite Infection | 39859 | [39859-sound-voltex-ii-infinite-infection.json](./39859-sound-voltex-ii-infinite-infection.json) |
+| Sound Voltex III Gravity Wars: e-amusement cloud | 55948 | [55948-sound-voltex-iii-gravity-wars-e-amusement-cloud.json](./55948-sound-voltex-iii-gravity-wars-e-amusement-cloud.json) |
 | Sound Voltex III: Gravity Wars | 39883 | [39883-sound-voltex-iii-gravity-wars.json](./39883-sound-voltex-iii-gravity-wars.json) |
 | Sound Voltex IV: Heavenly Haven | 79244 | [79244-sound-voltex-iv-heavenly-haven.json](./79244-sound-voltex-iv-heavenly-haven.json) |
 | Sound Voltex Nabla | 382474 | [382474-sound-voltex-nabla.json](./382474-sound-voltex-nabla.json) |
@@ -11027,6 +11030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfall Numbers | 74753 | [74753-starfall-numbers.json](./74753-starfall-numbers.json) |
 | Starfall Online | 131612 | [131612-starfall-online.json](./131612-starfall-online.json) |
 | Starfall: Operation Outro | 298037 | [298037-starfall-operation-outro.json](./298037-starfall-operation-outro.json) |
+| Starfeld | 55953 | [55953-starfeld.json](./55953-starfeld.json) |
 | Starfield Digipick-Locking Minigame Simulator | 269304 | [269304-starfield-digipick-locking-minigame-simulator.json](./269304-starfield-digipick-locking-minigame-simulator.json) |
 | Starfield: Rev-8 | 314267 | [314267-starfield-rev-8.json](./314267-starfield-rev-8.json) |
 | Starfield: Shattered Space | 263480 | [263480-starfield-shattered-space.json](./263480-starfield-shattered-space.json) |
