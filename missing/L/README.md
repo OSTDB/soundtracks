@@ -803,6 +803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Law of Creation 2 | 193935 | [193935-law-of-creation-2.json](./193935-law-of-creation-2.json) |
 | Law of Dispute | 295393 | [295393-law-of-dispute.json](./295393-law-of-dispute.json) |
 | Law School | 347220 | [347220-law-school.json](./347220-law-school.json) |
+| LawBreakers | 11797 | [11797-lawbreakers.json](./11797-lawbreakers.json) |
 | Lawbringer | 234195 | [234195-lawbringer.json](./234195-lawbringer.json) |
 | Lawgivers | 127880 | [127880-lawgivers.json](./127880-lawgivers.json) |
 | Lawl | 130727 | [130727-lawl.json](./130727-lawl.json) |
@@ -3033,6 +3034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lobby Cam by Bryn Oh | 235468 | [235468-lobby-cam-by-bryn-oh.json](./235468-lobby-cam-by-bryn-oh.json) |
 | Lober Lobe | 311475 | [311475-lober-lobe.json](./311475-lober-lobe.json) |
 | Lobo | 86130 | [86130-lobo.json](./86130-lobo.json) |
+| Lobotomy Corporation | 30002 | [30002-lobotomy-corporation.json](./30002-lobotomy-corporation.json) |
 | Lobotrypo | 332254 | [332254-lobotrypo.json](./332254-lobotrypo.json) |
 | Lobster Bay | 42145 | [42145-lobster-bay.json](./42145-lobster-bay.json) |
 | Lobster Empire | 52769 | [52769-lobster-empire.json](./52769-lobster-empire.json) |
@@ -4324,6 +4326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LUL inc. | 186238 | [186238-lul-inc.json](./186238-lul-inc.json) |
 | Lula 3D | 3712 | [3712-lula-3d.json](./3712-lula-3d.json) |
 | Lula Virtual Babe | 94697 | [94697-lula-virtual-babe.json](./94697-lula-virtual-babe.json) |
+| Lula: The Sexy Empire | 11679 | [11679-lula-the-sexy-empire.json](./11679-lula-the-sexy-empire.json) |
 | Lulanda | 363006 | [363006-lulanda.json](./363006-lulanda.json) |
 | Lullaby | 256805 | [256805-lullaby.json](./256805-lullaby.json) |
 | Lullaby Data | 311639 | [311639-lullaby-data.json](./311639-lullaby-data.json) |
@@ -4386,6 +4389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminyte | 152720 | [152720-luminyte.json](./152720-luminyte.json) |
 | Lumiric Stage | 412264 | [412264-lumiric-stage.json](./412264-lumiric-stage.json) |
 | Lumiva Legacy | 265697 | [265697-lumiva-legacy.json](./265697-lumiva-legacy.json) |
+| Lumo | 19850 | [19850-lumo.json](./19850-lumo.json) |
 | Lumo 2 | 338546 | [338546-lumo-2.json](./338546-lumo-2.json) |
 | Lumo Idle Park | 400291 | [400291-lumo-idle-park.json](./400291-lumo-idle-park.json) |
 | Lumo's Cat | 14303 | [14303-lumos-cat.json](./14303-lumos-cat.json) |
