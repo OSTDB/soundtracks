@@ -960,6 +960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warspirits | 297483 | [297483-warspirits.json](./297483-warspirits.json) |
 | Warsword Conquest | 356193 | [356193-warsword-conquest.json](./356193-warsword-conquest.json) |
 | Wart's Turn-Based Revenge | 256794 | [256794-warts-turn-based-revenge.json](./256794-warts-turn-based-revenge.json) |
+| Wartale | 55864 | [55864-wartale.json](./55864-wartale.json) |
 | Wartales: The Pits | 322789 | [322789-wartales-the-pits.json](./322789-wartales-the-pits.json) |
 | Wartales: The Skelmar Invasion | 322788 | [322788-wartales-the-skelmar-invasion.json](./322788-wartales-the-skelmar-invasion.json) |
 | Wartales: The Tavern Opens! | 296870 | [296870-wartales-the-tavern-opens.json](./296870-wartales-the-tavern-opens.json) |
@@ -1504,6 +1505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to the Dreamscape | 103442 | [103442-welcome-to-the-dreamscape.json](./103442-welcome-to-the-dreamscape.json) |
 | Welcome to the Future | 70096 | [70096-welcome-to-the-future.json](./70096-welcome-to-the-future.json) |
 | Welcome to the Galaxy | 178639 | [178639-welcome-to-the-galaxy.json](./178639-welcome-to-the-galaxy.json) |
+| Welcome to the Game | 32478 | [32478-welcome-to-the-game.json](./32478-welcome-to-the-game.json) |
 | Welcome to the Game 2+ | 265928 | [265928-welcome-to-the-game-2.json](./265928-welcome-to-the-game-2.json) |
 | Welcome to the Game II | 68576 | [68576-welcome-to-the-game-ii.json](./68576-welcome-to-the-game-ii.json) |
 | Welcome to the Game III | 375315 | [375315-welcome-to-the-game-iii.json](./375315-welcome-to-the-game-iii.json) |
