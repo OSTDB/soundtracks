@@ -3143,6 +3143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chimeras: Inhuman Nature | 417544 | [417544-chimeras-inhuman-nature.json](./417544-chimeras-inhuman-nature.json) |
 | Chimeras: Mortal Medicine | 417570 | [417570-chimeras-mortal-medicine.json](./417570-chimeras-mortal-medicine.json) |
 | Chimeras: The Lost Film | 416624 | [416624-chimeras-the-lost-film.json](./416624-chimeras-the-lost-film.json) |
+| Chimeras: The Signs of Prophecy - Collector's Edition | 50755 | [50755-chimeras-the-signs-of-prophecy-collectors-edition.json](./50755-chimeras-the-signs-of-prophecy-collectors-edition.json) |
 | Chimeras: Tune of Revenge | 63816 | [63816-chimeras-tune-of-revenge.json](./63816-chimeras-tune-of-revenge.json) |
 | Chimeras: Tune of Revenge - Collector's Edition | 30263 | [30263-chimeras-tune-of-revenge-collectors-edition.json](./30263-chimeras-tune-of-revenge-collectors-edition.json) |
 | Chimes: A Kinetic Novel | 184102 | [184102-chimes-a-kinetic-novel.json](./184102-chimes-a-kinetic-novel.json) |
@@ -4164,6 +4165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Fingers | 237958 | [237958-clash-of-fingers.json](./237958-clash-of-fingers.json) |
 | Clash of Irons: Blitzkrieg | 157483 | [157483-clash-of-irons-blitzkrieg.json](./157483-clash-of-irons-blitzkrieg.json) |
 | Clash of Magic: Spectator Mode | 99027 | [99027-clash-of-magic-spectator-mode.json](./99027-clash-of-magic-spectator-mode.json) |
+| Clash of Robots | 50752 | [50752-clash-of-robots.json](./50752-clash-of-robots.json) |
 | Clash of Steel: World War II | 14500 | [14500-clash-of-steel-world-war-ii.json](./14500-clash-of-steel-world-war-ii.json) |
 | Clash of Steel: World War II, Europe 1939-45 | 71783 | [71783-clash-of-steel-world-war-ii-europe-1939-45.json](./71783-clash-of-steel-world-war-ii-europe-1939-45.json) |
 | Clash of Ten Sides | 348804 | [348804-clash-of-ten-sides.json](./348804-clash-of-ten-sides.json) |
@@ -6084,6 +6086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cook Out! | 250045 | [250045-cook-out.json](./250045-cook-out.json) |
 | Cook with Card | 406724 | [406724-cook-with-card.json](./406724-cook-with-card.json) |
 | Cook-A-Geddon | 265433 | [265433-cook-a-geddon.json](./265433-cook-a-geddon.json) |
+| Cook-Off Party | 50688 | [50688-cook-off-party.json](./50688-cook-off-party.json) |
 | Cook, Serve, Delicious! 3?! | 121500 | [121500-cook-serve-delicious-3.json](./121500-cook-serve-delicious-3.json) |
 | Cook'n'Slash | 244261 | [244261-cooknslash.json](./244261-cooknslash.json) |
 | Cookard | 298697 | [298697-cookard.json](./298697-cookard.json) |
