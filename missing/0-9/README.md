@@ -738,6 +738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2D Owen | 134578 | [134578-2d-owen.json](./134578-2d-owen.json) |
 | 2D Zombie Survival | 115044 | [115044-2d-zombie-survival.json](./115044-2d-zombie-survival.json) |
 | 2Dark: Deluxe Edition | 52545 | [52545-2dark-deluxe-edition.json](./52545-2dark-deluxe-edition.json) |
+| 2do Arukotoha Sand-R | 45451 | [45451-2do-arukotoha-sand-r.json](./45451-2do-arukotoha-sand-r.json) |
 | 2econds to Starlivht: Forever My Diamond | 144193 | [144193-2econds-to-starlivht-forever-my-diamond.json](./144193-2econds-to-starlivht-forever-my-diamond.json) |
 | 2econds to Starlivht: My Heart's Reflection | 144194 | [144194-2econds-to-starlivht-my-hearts-reflection.json](./144194-2econds-to-starlivht-my-hearts-reflection.json) |
 | 2in1: Application Driver and Serial Killer / Sniper | 147818 | [147818-2in1-application-driver-and-serial-killer-sniper.json](./147818-2in1-application-driver-and-serial-killer-sniper.json) |
@@ -969,6 +970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3T Games Compilation 3 | 60614 | [60614-3t-games-compilation-3.json](./60614-3t-games-compilation-3.json) |
 | 3T Games Compilation 4 | 60613 | [60613-3t-games-compilation-4.json](./60613-3t-games-compilation-4.json) |
 | 3x3 | 312887 | [312887-3x3.json](./312887-3x3.json) |
+| 3x3 Eyes: Kyuusei Koushu S | 45450 | [45450-3x3-eyes-kyuusei-koushu-s.json](./45450-3x3-eyes-kyuusei-koushu-s.json) |
 | 3x3 Eyes: Seima Kourin-den | 15886 | [15886-3x3-eyes-seima-kourin-den.json](./15886-3x3-eyes-seima-kourin-den.json) |
 | 3x3 Eyes: Tenrin-ou Genmu | 73304 | [73304-3x3-eyes-tenrin-ou-genmu.json](./73304-3x3-eyes-tenrin-ou-genmu.json) |
 | 3x3 mini-Shogi | 117119 | [117119-3x3-mini-shogi.json](./117119-3x3-mini-shogi.json) |
@@ -1123,6 +1125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 6 | 34296 | [34296-6.json](./34296-6.json) |
 | 6 Colors | 93366 | [93366-6-colors.json](./93366-6-colors.json) |
 | 6 Feet Under | 177938 | [177938-6-feet-under.json](./177938-6-feet-under.json) |
+| 6 Inch My Darling | 45449 | [45449-6-inch-my-darling.json](./45449-6-inch-my-darling.json) |
 | 6 Love Dominoes | 88421 | [88421-6-love-dominoes.json](./88421-6-love-dominoes.json) |
 | 6-7 | 386391 | [386391-6-7.json](./386391-6-7.json) |
 | 6-gatsu no Kimi to Boku | 412403 | [412403-6-gatsu-no-kimi-to-boku.json](./412403-6-gatsu-no-kimi-to-boku.json) |
