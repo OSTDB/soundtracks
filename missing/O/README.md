@@ -142,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Observer | 265130 | [265130-observer.json](./265130-observer.json) |
 | Observer Protocol: The Station - Final Shift | 350432 | [350432-observer-protocol-the-station-final-shift.json](./350432-observer-protocol-the-station-final-shift.json) |
 | Observer Protocol: The Station - First Shift | 345484 | [345484-observer-protocol-the-station-first-shift.json](./345484-observer-protocol-the-station-first-shift.json) |
+| Observer: System Redux | 132165 | [132165-observer-system-redux.json](./132165-observer-system-redux.json) |
 | Observer: System Redux - Deluxe Edition | 154532 | [154532-observer-system-redux-deluxe-edition.json](./154532-observer-system-redux-deluxe-edition.json) |
 | Obsessed: Night Shift | 365267 | [365267-obsessed-night-shift.json](./365267-obsessed-night-shift.json) |
 | Obsession | 184056 | [184056-obsession.json](./184056-obsession.json) |
@@ -704,6 +705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ollie Ollie Oxen Free | 60010 | [60010-ollie-ollie-oxen-free.json](./60010-ollie-ollie-oxen-free.json) |
 | Ollie's Follies | 25896 | [25896-ollies-follies.json](./25896-ollies-follies.json) |
 | Olliefrog Toad Skater | 204522 | [204522-olliefrog-toad-skater.json](./204522-olliefrog-toad-skater.json) |
+| OlliOlli World | 145782 | [145782-olliolli-world.json](./145782-olliolli-world.json) |
 | OlliOlli World: Close Encounter Skate Deck | 353282 | [353282-olliolli-world-close-encounter-skate-deck.json](./353282-olliolli-world-close-encounter-skate-deck.json) |
 | OlliOlli World: Expansion Pass | 293734 | [293734-olliolli-world-expansion-pass.json](./293734-olliolli-world-expansion-pass.json) |
 | OlliOlli World: Void Riders | 205034 | [205034-olliolli-world-void-riders.json](./205034-olliolli-world-void-riders.json) |
@@ -793,6 +795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omen Exitio: Hunger | 236941 | [236941-omen-exitio-hunger.json](./236941-omen-exitio-hunger.json) |
 | Omen Fall | 251805 | [251805-omen-fall.json](./251805-omen-fall.json) |
 | Omen of Sorrow | 27070 | [27070-omen-of-sorrow.json](./27070-omen-of-sorrow.json) |
+| Omensight | 80916 | [80916-omensight.json](./80916-omensight.json) |
 | Omensight: Definitive Edition | 112879 | [112879-omensight-definitive-edition.json](./112879-omensight-definitive-edition.json) |
 | Omerta | 413190 | [413190-omerta.json](./413190-omerta.json) |
 | Omerta Chinmoku no Okite: The Legacy | 287637 | [287637-omerta-chinmoku-no-okite-the-legacy.json](./287637-omerta-chinmoku-no-okite-the-legacy.json) |
@@ -1175,6 +1178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece Odyssey: Reunion of Memories | 252387 | [252387-one-piece-odyssey-reunion-of-memories.json](./252387-one-piece-odyssey-reunion-of-memories.json) |
 | One Piece Unlimited World Red: Chopper Edition | 223469 | [223469-one-piece-unlimited-world-red-chopper-edition.json](./223469-one-piece-unlimited-world-red-chopper-edition.json) |
 | One Piece: Bon! Bon! Journey!! | 117667 | [117667-one-piece-bon-bon-journey.json](./117667-one-piece-bon-bon-journey.json) |
+| One Piece: Burning Blood | 18443 | [18443-one-piece-burning-blood.json](./18443-one-piece-burning-blood.json) |
 | One Piece: Burning Blood - Character Pack | 171053 | [171053-one-piece-burning-blood-character-pack.json](./171053-one-piece-burning-blood-character-pack.json) |
 | One Piece: Burning Blood - Marineford Edition | 51534 | [51534-one-piece-burning-blood-marineford-edition.json](./51534-one-piece-burning-blood-marineford-edition.json) |
 | One Piece: Burning Blood - Platinum Luffy | 171051 | [171051-one-piece-burning-blood-platinum-luffy.json](./171051-one-piece-burning-blood-platinum-luffy.json) |
