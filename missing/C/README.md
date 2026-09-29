@@ -2499,6 +2499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Crafters | 265399 | [265399-chaos-crafters.json](./265399-chaos-crafters.json) |
 | Chaos Entropy | 320559 | [320559-chaos-entropy.json](./320559-chaos-entropy.json) |
 | Chaos Faction 2 | 192096 | [192096-chaos-faction-2.json](./192096-chaos-faction-2.json) |
+| Chaos Field: New Order | 43458 | [43458-chaos-field-new-order.json](./43458-chaos-field-new-order.json) |
 | Chaos Frenzy | 295347 | [295347-chaos-frenzy.json](./295347-chaos-frenzy.json) |
 | Chaos Front | 291490 | [291490-chaos-front.json](./291490-chaos-front.json) |
 | Chaos Galaxy 2 | 148997 | [148997-chaos-galaxy-2.json](./148997-chaos-galaxy-2.json) |
@@ -7198,6 +7199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Frog: Axel F Piano Tiles | 95870 | [95870-crazy-frog-axel-f-piano-tiles.json](./95870-crazy-frog-axel-f-piano-tiles.json) |
 | Crazy Fun Ball | 172151 | [172151-crazy-fun-ball.json](./172151-crazy-fun-ball.json) |
 | Crazy Gobbler | 66728 | [66728-crazy-gobbler.json](./66728-crazy-gobbler.json) |
+| Crazy Golf: World Tour | 43474 | [43474-crazy-golf-world-tour.json](./43474-crazy-golf-world-tour.json) |
 | Crazy Goose Simulator | 288304 | [288304-crazy-goose-simulator.json](./288304-crazy-goose-simulator.json) |
 | Crazy Guy | 238061 | [238061-crazy-guy.json](./238061-crazy-guy.json) |
 | Crazy Halloween | 310554 | [310554-crazy-halloween.json](./310554-crazy-halloween.json) |
