@@ -1864,6 +1864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CatClick | 311616 | [311616-catclick.json](./311616-catclick.json) |
 | CatClimber | 320550 | [320550-catclimber.json](./320550-catclimber.json) |
 | CatDog on Parade | 325082 | [325082-catdog-on-parade.json](./325082-catdog-on-parade.json) |
+| CatDog: Quest for the Golden Hydrant | 7569 | [7569-catdog-quest-for-the-golden-hydrant.json](./7569-catdog-quest-for-the-golden-hydrant.json) |
 | Catechesis | 276693 | [276693-catechesis.json](./276693-catechesis.json) |
 | Category Challenge | 246955 | [246955-category-challenge.json](./246955-category-challenge.json) |
 | Category I: Shisenjou no Survivor | 218981 | [218981-category-i-shisenjou-no-survivor.json](./218981-category-i-shisenjou-no-survivor.json) |
@@ -5930,6 +5931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquest of the World | 47293 | [47293-conquest-of-the-world.json](./47293-conquest-of-the-world.json) |
 | Conquest: Global Domination | 411737 | [411737-conquest-global-domination.json](./411737-conquest-global-domination.json) |
 | Conquest: Medieval Kingdoms | 147368 | [147368-conquest-medieval-kingdoms.json](./147368-conquest-medieval-kingdoms.json) |
+| Conquests of Camelot: The Search for the Grail | 7566 | [7566-conquests-of-camelot-the-search-for-the-grail.json](./7566-conquests-of-camelot-the-search-for-the-grail.json) |
 | Conquist | 205089 | [205089-conquist.json](./205089-conquist.json) |
 | Conquista: Tide of Wills | 415116 | [415116-conquista-tide-of-wills.json](./415116-conquista-tide-of-wills.json) |
 | Conquistador | 236918 | [236918-conquistador.json](./236918-conquistador.json) |
@@ -6560,6 +6562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Run | 348341 | [348341-cosmic-run.json](./348341-cosmic-run.json) |
 | Cosmic Scramble | 372589 | [372589-cosmic-scramble.json](./372589-cosmic-scramble.json) |
 | Cosmic Slime Defense | 287202 | [287202-cosmic-slime-defense.json](./287202-cosmic-slime-defense.json) |
+| Cosmic Soldier | 7544 | [7544-cosmic-soldier.json](./7544-cosmic-soldier.json) |
 | Cosmic Spacehead | 374682 | [374682-cosmic-spacehead.json](./374682-cosmic-spacehead.json) |
 | Cosmic Star Heroine | 27667 | [27667-cosmic-star-heroine.json](./27667-cosmic-star-heroine.json) |
 | Cosmic Storm | 80623 | [80623-cosmic-storm.json](./80623-cosmic-storm.json) |
@@ -8725,6 +8728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curve Fever | 63259 | [63259-curve-fever.json](./63259-curve-fever.json) |
 | Curved Space | 137680 | [137680-curved-space.json](./137680-curved-space.json) |
 | Curving Over It with Evgeny Podoynikov | 173179 | [173179-curving-over-it-with-evgeny-podoynikov.json](./173179-curving-over-it-with-evgeny-podoynikov.json) |
+| Curvy | 7497 | [7497-curvy.json](./7497-curvy.json) |
 | Custer's Revenge | 8529 | [8529-custers-revenge.json](./8529-custers-revenge.json) |
 | Custer's Revenge in Gensoukyou | 98448 | [98448-custers-revenge-in-gensoukyou.json](./98448-custers-revenge-in-gensoukyou.json) |
 | Custerd's Quest | 60635 | [60635-custerds-quest.json](./60635-custerds-quest.json) |
