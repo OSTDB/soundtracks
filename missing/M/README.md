@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 13 | 243259 | [243259-madden-nfl-13.json](./243259-madden-nfl-13.json) |
 | Madden NFL 13 Social | 243260 | [243260-madden-nfl-13-social.json](./243260-madden-nfl-13-social.json) |
 | Madden NFL 15 | 7882 | [7882-madden-nfl-15.json](./7882-madden-nfl-15.json) |
+| Madden NFL 16 | 11072 | [11072-madden-nfl-16.json](./11072-madden-nfl-16.json) |
 | Madden NFL 17 | 243658 | [243658-madden-nfl-17.json](./243658-madden-nfl-17.json) |
 | Madden NFL 18 | 28706 | [28706-madden-nfl-18.json](./28706-madden-nfl-18.json) |
 | Madden NFL 19: Hall of Fame Edition | 103213 | [103213-madden-nfl-19-hall-of-fame-edition.json](./103213-madden-nfl-19-hall-of-fame-edition.json) |
@@ -9456,6 +9457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myst IV: Revelation | 798 | [798-myst-iv-revelation.json](./798-myst-iv-revelation.json) |
 | Myst Mobile | 237366 | [237366-myst-mobile.json](./237366-myst-mobile.json) |
 | Myst of Guatemala | 311571 | [311571-myst-of-guatemala.json](./311571-myst-of-guatemala.json) |
+| Myst V: End of Ages | 8475 | [8475-myst-v-end-of-ages.json](./8475-myst-v-end-of-ages.json) |
 | Myst: Through the Ages Collection | 230816 | [230816-myst-through-the-ages-collection.json](./230816-myst-through-the-ages-collection.json) |
 | MyStar | 126595 | [126595-mystar.json](./126595-mystar.json) |
 | Mystereet: Detective Vacation | 122855 | [122855-mystereet-detective-vacation.json](./122855-mystereet-detective-vacation.json) |
