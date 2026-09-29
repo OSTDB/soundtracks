@@ -1952,6 +1952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whimre | 252228 | [252228-whimre.json](./252228-whimre.json) |
 | Whimsy Bake ＆ Craft | 349469 | [349469-whimsy-bake-and-craft.json](./349469-whimsy-bake-and-craft.json) |
 | Whip Dummy Crash | 174902 | [174902-whip-dummy-crash.json](./174902-whip-dummy-crash.json) |
+| Whip Rush | 28039 | [28039-whip-rush.json](./28039-whip-rush.json) |
 | Whip the Vote | 37379 | [37379-whip-the-vote.json](./37379-whip-the-vote.json) |
 | Whip the Worker | 263466 | [263466-whip-the-worker.json](./263466-whip-the-worker.json) |
 | Whiplash | 411608 | [411608-whiplash.json](./411608-whiplash.json) |
@@ -2065,6 +2066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Mirror | 214734 | [214734-white-mirror.json](./214734-white-mirror.json) |
 | White Night | 352190 | [352190-white-night.json](./352190-white-night.json) |
 | White Night | 8921 | [8921-white-night.json](./8921-white-night.json) |
+| White Noise 2 | 28112 | [28112-white-noise-2.json](./28112-white-noise-2.json) |
 | White Noise: Ghost Signal | 374145 | [374145-white-noise-ghost-signal.json](./374145-white-noise-ghost-signal.json) |
 | White Nothing | 103634 | [103634-white-nothing.json](./103634-white-nothing.json) |
 | White Pearl | 76663 | [76663-white-pearl.json](./76663-white-pearl.json) |
@@ -2259,6 +2261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Cheetah Sim 3D | 330725 | [330725-wild-cheetah-sim-3d.json](./330725-wild-cheetah-sim-3d.json) |
 | Wild Cosmos | 381862 | [381862-wild-cosmos.json](./381862-wild-cosmos.json) |
 | Wild Country | 151014 | [151014-wild-country.json](./151014-wild-country.json) |
+| Wild Deer Hunt Jungle Sniper | 28011 | [28011-wild-deer-hunt-jungle-sniper.json](./28011-wild-deer-hunt-jungle-sniper.json) |
 | Wild Downtown | 76704 | [76704-wild-downtown.json](./76704-wild-downtown.json) |
 | Wild Earth: Africa | 195802 | [195802-wild-earth-africa.json](./195802-wild-earth-africa.json) |
 | Wild Earth: African Safari | 50711 | [50711-wild-earth-african-safari.json](./50711-wild-earth-african-safari.json) |
