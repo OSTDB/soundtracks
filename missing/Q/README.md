@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quadremor | 235977 | [235977-quadremor.json](./235977-quadremor.json) |
 | Quadrilactic | 184400 | [184400-quadrilactic.json](./184400-quadrilactic.json) |
 | Quadrilateral Battle | 174846 | [174846-quadrilateral-battle.json](./174846-quadrilateral-battle.json) |
+| Quadrilateral Cowboy | 9014 | [9014-quadrilateral-cowboy.json](./9014-quadrilateral-cowboy.json) |
 | Quadrilateral Cowboy: Deluxe Edition | 53486 | [53486-quadrilateral-cowboy-deluxe-edition.json](./53486-quadrilateral-cowboy-deluxe-edition.json) |
 | Quadrillion Carrots | 415288 | [415288-quadrillion-carrots.json](./415288-quadrillion-carrots.json) |
 | Quadrium | 244865 | [244865-quadrium.json](./244865-quadrium.json) |
