@@ -1021,6 +1021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturday School | 171557 | [171557-saturday-school.json](./171557-saturday-school.json) |
 | Sature | 183450 | [183450-sature.json](./183450-sature.json) |
 | Saturn | 313467 | [313467-saturn.json](./313467-saturn.json) |
+| Saturn Bomberman | 28393 | [28393-saturn-bomberman.json](./28393-saturn-bomberman.json) |
 | Saturn Quest: R.U.N.E. 3000 | 221169 | [221169-saturn-quest-r-u-n-e-3000.json](./221169-saturn-quest-r-u-n-e-3000.json) |
 | Saturn Quest: Shadow of Planetus | 132792 | [132792-saturn-quest-shadow-of-planetus.json](./132792-saturn-quest-shadow-of-planetus.json) |
 | Saturn. Legacy | 403688 | [403688-saturn-legacy.json](./403688-saturn-legacy.json) |
@@ -4080,6 +4081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoal | 172039 | [172039-shoal.json](./172039-shoal.json) |
 | Shock Hop | 243089 | [243089-shock-hop.json](./243089-shock-hop.json) |
 | Shock Tactics | 18811 | [18811-shock-tactics.json](./18811-shock-tactics.json) |
+| Shock Troopers: 2nd Squad | 32778 | [32778-shock-troopers-2nd-squad.json](./32778-shock-troopers-2nd-squad.json) |
 | Shocked | 213458 | [213458-shocked.json](./213458-shocked.json) |
 | Shocking Twist | 308261 | [308261-shocking-twist.json](./308261-shocking-twist.json) |
 | Shockwave | 48084 | [48084-shockwave.json](./48084-shockwave.json) |
@@ -4382,6 +4384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shred! Remastered | 207278 | [207278-shred-remastered.json](./207278-shred-remastered.json) |
 | Shred! Remastered + Shred! 2 Bundle | 325013 | [325013-shred-remastered-shred-2-bundle.json](./325013-shred-remastered-shred-2-bundle.json) |
 | Shredded Faith | 306349 | [306349-shredded-faith.json](./306349-shredded-faith.json) |
+| Shredders | 136084 | [136084-shredders.json](./136084-shredders.json) |
 | Shredmill | 362906 | [362906-shredmill.json](./362906-shredmill.json) |
 | Shredsauce | 131358 | [131358-shredsauce.json](./131358-shredsauce.json) |
 | Shredz64 | 84268 | [84268-shredz64.json](./84268-shredz64.json) |
@@ -6475,6 +6478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Island | 105785 | [105785-smash-island.json](./105785-smash-island.json) |
 | Smash Karts | 130348 | [130348-smash-karts.json](./130348-smash-karts.json) |
 | Smash Land | 145571 | [145571-smash-land.json](./145571-smash-land.json) |
+| Smash Legends | 138592 | [138592-smash-legends.json](./138592-smash-legends.json) |
 | Smash MAGA! Trump Zombie Apocalypse | 168336 | [168336-smash-maga-trump-zombie-apocalypse.json](./168336-smash-maga-trump-zombie-apocalypse.json) |
 | Smash Mobs | 51551 | [51551-smash-mobs.json](./51551-smash-mobs.json) |
 | Smash Monkeys | 142850 | [142850-smash-monkeys.json](./142850-smash-monkeys.json) |
@@ -13855,6 +13859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bomberman BT | 198216 | [198216-super-bomberman-bt.json](./198216-super-bomberman-bt.json) |
 | Super Bomberman R | 26760 | [26760-super-bomberman-r.json](./26760-super-bomberman-r.json) |
 | Super Bomberman R 2 | 206807 | [206807-super-bomberman-r-2.json](./206807-super-bomberman-r-2.json) |
+| Super Bomberman R Online | 135826 | [135826-super-bomberman-r-online.json](./135826-super-bomberman-r-online.json) |
 | Super Bomberman R Online: Premium Pack | 150653 | [150653-super-bomberman-r-online-premium-pack.json](./150653-super-bomberman-r-online-premium-pack.json) |
 | Super Bomberman: Panic Bomber W | 42546 | [42546-super-bomberman-panic-bomber-w.json](./42546-super-bomberman-panic-bomber-w.json) |
 | Super BOO Quest | 110180 | [110180-super-boo-quest.json](./110180-super-boo-quest.json) |
@@ -14339,6 +14344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 3D All-Stars | 138225 | [138225-super-mario-3d-all-stars.json](./138225-super-mario-3d-all-stars.json) |
 | Super Mario 3D World | 229339 | [229339-super-mario-3d-world.json](./229339-super-mario-3d-world.json) |
 | Super Mario 3D World + Bowser's Fury | 138227 | [138227-super-mario-3d-world-bowsers-fury.json](./138227-super-mario-3d-world-bowsers-fury.json) |
+| Super Mario 63 | 137008 | [137008-super-mario-63.json](./137008-super-mario-63.json) |
 | Super Mario 64 1.5 Ztar Attack! | 135230 | [135230-super-mario-64-1-5-ztar-attack.json](./135230-super-mario-64-1-5-ztar-attack.json) |
 | Super Mario 64 2 | 175964 | [175964-super-mario-64-2.json](./175964-super-mario-64-2.json) |
 | Super Mario 64 3D World | 135228 | [135228-super-mario-64-3d-world.json](./135228-super-mario-64-3d-world.json) |
