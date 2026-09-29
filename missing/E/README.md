@@ -1881,6 +1881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic 90's Journey: The Legend of Elesha | 94869 | [94869-epic-90s-journey-the-legend-of-elesha.json](./94869-epic-90s-journey-the-legend-of-elesha.json) |
 | Epic Adventures: La Jangada | 114353 | [114353-epic-adventures-la-jangada.json](./114353-epic-adventures-la-jangada.json) |
 | Epic Ape Madness | 255758 | [255758-epic-ape-madness.json](./255758-epic-ape-madness.json) |
+| Epic Arena | 36121 | [36121-epic-arena.json](./36121-epic-arena.json) |
 | Epic Astro Story | 65482 | [65482-epic-astro-story.json](./65482-epic-astro-story.json) |
 | Epic Battle Dude | 62724 | [62724-epic-battle-dude.json](./62724-epic-battle-dude.json) |
 | Epic Battle Fantasy Collection | 199653 | [199653-epic-battle-fantasy-collection.json](./199653-epic-battle-fantasy-collection.json) |
