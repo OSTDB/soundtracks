@@ -178,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nankin | 95374 | [95374-nankin.json](./95374-nankin.json) |
 | Nankin no Adventure | 41401 | [41401-nankin-no-adventure.json](./41401-nankin-no-adventure.json) |
 | Nanny 911 | 206783 | [206783-nanny-911.json](./206783-nanny-911.json) |
+| Nannys Nightmare | 53397 | [53397-nannys-nightmare.json](./53397-nannys-nightmare.json) |
 | Nano Assault | 21075 | [21075-nano-assault.json](./21075-nano-assault.json) |
 | Nano Code:X | 410908 | [410908-nano-code-x.json](./410908-nano-code-x.json) |
 | Nano Dash | 103163 | [103163-nano-dash.json](./103163-nano-dash.json) |
@@ -432,6 +433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natural Fawn killers | 77401 | [77401-natural-fawn-killers.json](./77401-natural-fawn-killers.json) |
 | Natural Pressures | 265670 | [265670-natural-pressures.json](./265670-natural-pressures.json) |
 | Natural Selection 2 | 1335 | [1335-natural-selection-2.json](./1335-natural-selection-2.json) |
+| Natural Threat 2 | 53401 | [53401-natural-threat-2.json](./53401-natural-threat-2.json) |
 | Natural Unintelligence: Zueirama 2 | 345042 | [345042-natural-unintelligence-zueirama-2.json](./345042-natural-unintelligence-zueirama-2.json) |
 | Natural: Beyond Nature | 30887 | [30887-natural-beyond-nature.json](./30887-natural-beyond-nature.json) |
 | Naturalealia: Forest Determination | 157147 | [157147-naturalealia-forest-determination.json](./157147-naturalealia-forest-determination.json) |
@@ -572,8 +574,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA 2K12 | 256896 | [256896-nba-2k12.json](./256896-nba-2k12.json) |
 | NBA 2K12 | 256897 | [256897-nba-2k12.json](./256897-nba-2k12.json) |
 | NBA 2K12 | 5057 | [5057-nba-2k12.json](./5057-nba-2k12.json) |
+| NBA 2K16: Michael Jordan Edition | 53403 | [53403-nba-2k16-michael-jordan-edition.json](./53403-nba-2k16-michael-jordan-edition.json) |
+| NBA 2K16: Michael Jordan Special Edition | 53402 | [53402-nba-2k16-michael-jordan-special-edition.json](./53402-nba-2k16-michael-jordan-special-edition.json) |
+| NBA 2K17: Legend Edition | 53404 | [53404-nba-2k17-legend-edition.json](./53404-nba-2k17-legend-edition.json) |
+| NBA 2K17: Legend Edition Gold | 53405 | [53405-nba-2k17-legend-edition-gold.json](./53405-nba-2k17-legend-edition-gold.json) |
+| NBA 2K17: Legend Gold | 53406 | [53406-nba-2k17-legend-gold.json](./53406-nba-2k17-legend-gold.json) |
 | NBA 2K17: The Prelude | 83763 | [83763-nba-2k17-the-prelude.json](./83763-nba-2k17-the-prelude.json) |
 | NBA 2K18 | 26772 | [26772-nba-2k18.json](./26772-nba-2k18.json) |
+| NBA 2K18: Legend Edition | 53408 | [53408-nba-2k18-legend-edition.json](./53408-nba-2k18-legend-edition.json) |
+| NBA 2K18: Legend Gold Edition | 53407 | [53407-nba-2k18-legend-gold-edition.json](./53407-nba-2k18-legend-gold-edition.json) |
 | NBA 2K19 | 103218 | [103218-nba-2k19.json](./103218-nba-2k19.json) |
 | NBA 2K19: The Prelude | 110326 | [110326-nba-2k19-the-prelude.json](./110326-nba-2k19-the-prelude.json) |
 | NBA 2K2 | 4029 | [4029-nba-2k2.json](./4029-nba-2k2.json) |
@@ -710,6 +719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nebuchadnezzar: The Adventures of Sargon | 226718 | [226718-nebuchadnezzar-the-adventures-of-sargon.json](./226718-nebuchadnezzar-the-adventures-of-sargon.json) |
 | Nebula | 197412 | [197412-nebula.json](./197412-nebula.json) |
 | Nebula | 329118 | [329118-nebula.json](./329118-nebula.json) |
+| Nebula | 53395 | [53395-nebula.json](./53395-nebula.json) |
 | Nebula Cleanup Crew | 373520 | [373520-nebula-cleanup-crew.json](./373520-nebula-cleanup-crew.json) |
 | Nebula Nuker | 75830 | [75830-nebula-nuker.json](./75830-nebula-nuker.json) |
 | Nebula Online | 120181 | [120181-nebula-online.json](./120181-nebula-online.json) |
@@ -802,6 +812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: Carbon - Own the City | 248119 | [248119-need-for-speed-carbon-own-the-city.json](./248119-need-for-speed-carbon-own-the-city.json) |
 | Need for Speed: Carbon - Own the City | 248120 | [248120-need-for-speed-carbon-own-the-city.json](./248120-need-for-speed-carbon-own-the-city.json) |
 | Need for Speed: Collector's Series | 122269 | [122269-need-for-speed-collectors-series.json](./122269-need-for-speed-collectors-series.json) |
+| Need for Speed: Deluxe Edition | 53410 | [53410-need-for-speed-deluxe-edition.json](./53410-need-for-speed-deluxe-edition.json) |
 | Need for Speed: Heat | 119161 | [119161-need-for-speed-heat.json](./119161-need-for-speed-heat.json) |
 | Need for Speed: Heat - McLaren F1 Black Market Delivery | 140381 | [140381-need-for-speed-heat-mclaren-f1-black-market-delivery.json](./140381-need-for-speed-heat-mclaren-f1-black-market-delivery.json) |
 | Need for Speed: Heat - Red Bull Nissan 370Z | 140382 | [140382-need-for-speed-heat-red-bull-nissan-370z.json](./140382-need-for-speed-heat-red-bull-nissan-370z.json) |
@@ -873,6 +884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neighbourhood Necromancer | 36451 | [36451-neighbourhood-necromancer.json](./36451-neighbourhood-necromancer.json) |
 | Neighbours back From Hell | 139447 | [139447-neighbours-back-from-hell.json](./139447-neighbours-back-from-hell.json) |
 | Neighbours from Hell | 3132 | [3132-neighbours-from-hell.json](./3132-neighbours-from-hell.json) |
+| Neighbours from Hell Compilation | 53411 | [53411-neighbours-from-hell-compilation.json](./53411-neighbours-from-hell-compilation.json) |
 | Neighbours: The Adventure | 267373 | [267373-neighbours-the-adventure.json](./267373-neighbours-the-adventure.json) |
 | Neil The Nail | 270742 | [270742-neil-the-nail.json](./270742-neil-the-nail.json) |
 | Nekketsu Dodgeball-bu i | 191804 | [191804-nekketsu-dodgeball-bu-i.json](./191804-nekketsu-dodgeball-bu-i.json) |
@@ -1073,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Brood | 99599 | [99599-neon-brood.json](./99599-neon-brood.json) |
 | Neon Chrome | 18954 | [18954-neon-chrome.json](./18954-neon-chrome.json) |
 | Neon Chrome: Arena | 155075 | [155075-neon-chrome-arena.json](./155075-neon-chrome-arena.json) |
+| Neon Chrome: Deluxe Edition | 53412 | [53412-neon-chrome-deluxe-edition.json](./53412-neon-chrome-deluxe-edition.json) |
 | Neon Chrome: Overseer Edition | 143022 | [143022-neon-chrome-overseer-edition.json](./143022-neon-chrome-overseer-edition.json) |
 | Neon City Hacker | 322610 | [322610-neon-city-hacker.json](./322610-neon-city-hacker.json) |
 | Neon City of Desires | 260155 | [260155-neon-city-of-desires.json](./260155-neon-city-of-desires.json) |
@@ -1317,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neuroshima Hex | 22276 | [22276-neuroshima-hex.json](./22276-neuroshima-hex.json) |
 | Neuroslop | 409579 | [409579-neuroslop.json](./409579-neuroslop.json) |
 | NeuroSquad | 234042 | [234042-neurosquad.json](./234042-neurosquad.json) |
+| NeuroVoider: Deluxe Edition | 53413 | [53413-neurovoider-deluxe-edition.json](./53413-neurovoider-deluxe-edition.json) |
 | Neuroza | 335867 | [335867-neuroza.json](./335867-neuroza.json) |
 | Neuter Master | 372463 | [372463-neuter-master.json](./372463-neuter-master.json) |
 | Neutralized: Dark moon | 368680 | [368680-neutralized-dark-moon.json](./368680-neutralized-dark-moon.json) |
@@ -1520,6 +1534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Witch in Town | 143694 | [143694-new-witch-in-town.json](./143694-new-witch-in-town.json) |
 | New World | 263768 | [263768-new-world.json](./263768-new-world.json) |
 | New World | 291610 | [291610-new-world.json](./291610-new-world.json) |
+| New World Collection | 53414 | [53414-new-world-collection.json](./53414-new-world-collection.json) |
 | New World Computing Bundle | 154968 | [154968-new-world-computing-bundle.json](./154968-new-world-computing-bundle.json) |
 | New World Horizon | 114955 | [114955-new-world-horizon.json](./114955-new-world-horizon.json) |
 | New World Order | 19215 | [19215-new-world-order.json](./19215-new-world-order.json) |
@@ -1534,6 +1549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Yankee: Karma Tales | 235833 | [235833-new-yankee-karma-tales.json](./235833-new-yankee-karma-tales.json) |
 | New Yankee: Mary's Dark Side | 258010 | [258010-new-yankee-marys-dark-side.json](./258010-new-yankee-marys-dark-side.json) |
 | New Yankee: The Way of the Knight - Collector's Edition | 337255 | [337255-new-yankee-the-way-of-the-knight-collectors-edition.json](./337255-new-yankee-the-way-of-the-knight-collectors-edition.json) |
+| New Yankee: To the Queen! | 53415 | [53415-new-yankee-to-the-queen.json](./53415-new-yankee-to-the-queen.json) |
 | New Yankee: Under the Genie's Thumb | 170500 | [170500-new-yankee-under-the-genies-thumb.json](./170500-new-yankee-under-the-genies-thumb.json) |
 | New Year Girls | 191085 | [191085-new-year-girls.json](./191085-new-year-girls.json) |
 | New Year Simulator 2025 | 326390 | [326390-new-year-simulator-2025.json](./326390-new-year-simulator-2025.json) |
@@ -1543,7 +1559,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New York Bus Simulator | 33445 | [33445-new-york-bus-simulator.json](./33445-new-york-bus-simulator.json) |
 | New York City | 25698 | [25698-new-york-city.json](./25698-new-york-city.json) |
 | New York City Driver | 243696 | [243696-new-york-city-driver.json](./243696-new-york-city-driver.json) |
+| New York Collection | 53416 | [53416-new-york-collection.json](./53416-new-york-collection.json) |
 | New York Mysteries | 378774 | [378774-new-york-mysteries.json](./378774-new-york-mysteries.json) |
+| New York Mysteries | 53417 | [53417-new-york-mysteries.json](./53417-new-york-mysteries.json) |
 | New York Mysteries 3: The Lantern of Souls | 87664 | [87664-new-york-mysteries-3-the-lantern-of-souls.json](./87664-new-york-mysteries-3-the-lantern-of-souls.json) |
 | New York Mysteries: High Voltage | 34697 | [34697-new-york-mysteries-high-voltage.json](./34697-new-york-mysteries-high-voltage.json) |
 | New York Mysteries: Power of Art - Collector's Edition | 339642 | [339642-new-york-mysteries-power-of-art-collectors-edition.json](./339642-new-york-mysteries-power-of-art-collectors-edition.json) |
@@ -1993,6 +2011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightfall Conquest | 290725 | [290725-nightfall-conquest.json](./290725-nightfall-conquest.json) |
 | Nightfall Empress | 402896 | [402896-nightfall-empress.json](./402896-nightfall-empress.json) |
 | NightFall Hollow | 235310 | [235310-nightfall-hollow.json](./235310-nightfall-hollow.json) |
+| Nightfall Main Game Plus VR | 53418 | [53418-nightfall-main-game-plus-vr.json](./53418-nightfall-main-game-plus-vr.json) |
 | Nightfall Mysteries: Curse of the Opera | 125308 | [125308-nightfall-mysteries-curse-of-the-opera.json](./125308-nightfall-mysteries-curse-of-the-opera.json) |
 | Nightfall Terror: Trails of the Dead | 318558 | [318558-nightfall-terror-trails-of-the-dead.json](./318558-nightfall-terror-trails-of-the-dead.json) |
 | NightFell | 329671 | [329671-nightfell.json](./329671-nightfell.json) |
