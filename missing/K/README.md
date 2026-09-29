@@ -1252,6 +1252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Todoke: Sodateru Omoi | 66964 | [66964-kimi-ni-todoke-sodateru-omoi.json](./66964-kimi-ni-todoke-sodateru-omoi.json) |
 | Kimi no Hitomi ni Hit Me | 82803 | [82803-kimi-no-hitomi-ni-hit-me.json](./82803-kimi-no-hitomi-ni-hit-me.json) |
 | Kimi no Mirai | 251537 | [251537-kimi-no-mirai.json](./251537-kimi-no-mirai.json) |
@@ -2794,6 +2795,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyoufu Yawa | 397907 | [397907-kyoufu-yawa.json](./397907-kyoufu-yawa.json) |
 | Kyoukaisen no Horizon Portable | 64999 | [64999-kyoukaisen-no-horizon-portable.json](./64999-kyoukaisen-no-horizon-portable.json) |
 | Kyouko no Tame ni Kane wa Naru | 205081 | [205081-kyouko-no-tame-ni-kane-wa-naru.json](./205081-kyouko-no-tame-ni-kane-wa-naru.json) |
+| Kyouraku: Sanyo - Toyomaru Parlor! Parlor! | 37883 | [37883-kyouraku-sanyo-toyomaru-parlor-parlor.json](./37883-kyouraku-sanyo-toyomaru-parlor-parlor.json) |
+| Kyouraku: Sanyo - Toyomaru Parlor! Parlor! 2 | 37882 | [37882-kyouraku-sanyo-toyomaru-parlor-parlor-2.json](./37882-kyouraku-sanyo-toyomaru-parlor-parlor-2.json) |
+| Kyouraku: Sanyo - Toyomaru Parlor! Parlor! 3 | 37881 | [37881-kyouraku-sanyo-toyomaru-parlor-parlor-3.json](./37881-kyouraku-sanyo-toyomaru-parlor-parlor-3.json) |
+| Kyouraku: Sanyo - Toyomaru Parlor! Parlor! 4 | 37880 | [37880-kyouraku-sanyo-toyomaru-parlor-parlor-4.json](./37880-kyouraku-sanyo-toyomaru-parlor-parlor-4.json) |
+| Kyouraku: Sanyo - Toyomaru Parlor! Parlor! 5 | 37879 | [37879-kyouraku-sanyo-toyomaru-parlor-parlor-5.json](./37879-kyouraku-sanyo-toyomaru-parlor-parlor-5.json) |
 | Kyouren no Utage | 150561 | [150561-kyouren-no-utage.json](./150561-kyouren-no-utage.json) |
 | Kyouryuu Ikusei Battle RPG: Kyouryuu Monster | 329749 | [329749-kyouryuu-ikusei-battle-rpg-kyouryuu-monster.json](./329749-kyouryuu-ikusei-battle-rpg-kyouryuu-monster.json) |
 | Kyouryuu Sentai Zyuranger | 48437 | [48437-kyouryuu-sentai-zyuranger.json](./48437-kyouryuu-sentai-zyuranger.json) |
