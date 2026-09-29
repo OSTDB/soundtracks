@@ -1590,6 +1590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WetBread | 222934 | [222934-wetbread.json](./222934-wetbread.json) |
 | Wetpants | 121471 | [121471-wetpants.json](./121471-wetpants.json) |
 | Wetrix | 3637 | [3637-wetrix.json](./3637-wetrix.json) |
+| Wetrix GB | 50068 | [50068-wetrix-gb.json](./50068-wetrix-gb.json) |
 | Wetten Dass..? | 122283 | [122283-wetten-dass.json](./122283-wetten-dass.json) |
 | Wetter | 371477 | [371477-wetter.json](./371477-wetter.json) |
 | Wettop | 358871 | [358871-wettop.json](./358871-wettop.json) |
@@ -2949,11 +2950,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardry 6+7 | 127994 | [127994-wizardry-6-7.json](./127994-wizardry-6-7.json) |
 | Wizardry Chronicle | 172724 | [172724-wizardry-chronicle.json](./172724-wizardry-chronicle.json) |
 | Wizardry Dimguil | 139301 | [139301-wizardry-dimguil.json](./139301-wizardry-dimguil.json) |
+| Wizardry Empire | 50048 | [50048-wizardry-empire.json](./50048-wizardry-empire.json) |
 | Wizardry Empire II: Legacy of the Princess | 63828 | [63828-wizardry-empire-ii-legacy-of-the-princess.json](./63828-wizardry-empire-ii-legacy-of-the-princess.json) |
 | Wizardry Empire III: Ancestry of the Emperor | 63830 | [63830-wizardry-empire-iii-ancestry-of-the-emperor.json](./63830-wizardry-empire-iii-ancestry-of-the-emperor.json) |
+| Wizardry Empire: Fukkatsu no Tsue | 50049 | [50049-wizardry-empire-fukkatsu-no-tsue.json](./50049-wizardry-empire-fukkatsu-no-tsue.json) |
 | Wizardry Empire: Princess of the Ancient | 63826 | [63826-wizardry-empire-princess-of-the-ancient.json](./63826-wizardry-empire-princess-of-the-ancient.json) |
 | Wizardry I & II | 123080 | [123080-wizardry-i-and-ii.json](./123080-wizardry-i-and-ii.json) |
+| Wizardry II: Llylgamyn no Isan | 50047 | [50047-wizardry-ii-llylgamyn-no-isan.json](./50047-wizardry-ii-llylgamyn-no-isan.json) |
 | Wizardry III & IV | 123081 | [123081-wizardry-iii-and-iv.json](./123081-wizardry-iii-and-iv.json) |
+| Wizardry III: Diamond no Kishi | 50046 | [50046-wizardry-iii-diamond-no-kishi.json](./50046-wizardry-iii-diamond-no-kishi.json) |
 | Wizardry Perfect Pack | 136846 | [136846-wizardry-perfect-pack.json](./136846-wizardry-perfect-pack.json) |
 | Wizardry Squared | 149567 | [149567-wizardry-squared.json](./149567-wizardry-squared.json) |
 | Wizardry Twin Pack | 125955 | [125955-wizardry-twin-pack.json](./125955-wizardry-twin-pack.json) |
