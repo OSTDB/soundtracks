@@ -2806,6 +2806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Below the Crown | 363946 | [363946-below-the-crown.json](./363946-below-the-crown.json) |
 | Below the Ocean | 173312 | [173312-below-the-ocean.json](./173312-below-the-ocean.json) |
 | Below, Rusted Gods | 304148 | [304148-below-rusted-gods.json](./304148-below-rusted-gods.json) |
+| Beltmatic | 281960 | [281960-beltmatic.json](./281960-beltmatic.json) |
 | Beluflin: Beautiful Luminous Flying Insects | 325268 | [325268-beluflin-beautiful-luminous-flying-insects.json](./325268-beluflin-beautiful-luminous-flying-insects.json) |
 | Beluga | 256857 | [256857-beluga.json](./256857-beluga.json) |
 | Beluga Dreams | 268498 | [268498-beluga-dreams.json](./268498-beluga-dreams.json) |
@@ -4291,6 +4292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blades of Heaven | 72174 | [72174-blades-of-heaven.json](./72174-blades-of-heaven.json) |
 | Blades of Orterra | 89665 | [89665-blades-of-orterra.json](./89665-blades-of-orterra.json) |
 | Blades of Passage | 297482 | [297482-blades-of-passage.json](./297482-blades-of-passage.json) |
+| Blades of Steel | 280812 | [280812-blades-of-steel.json](./280812-blades-of-steel.json) |
 | Blades of Steel | 7788 | [7788-blades-of-steel.json](./7788-blades-of-steel.json) |
 | Blades of Thunder | 49309 | [49309-blades-of-thunder.json](./49309-blades-of-thunder.json) |
 | Blades of Time | 6918 | [6918-blades-of-time.json](./6918-blades-of-time.json) |
@@ -5243,6 +5245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue sky fighter | 129076 | [129076-blue-sky-fighter.json](./129076-blue-sky-fighter.json) |
 | Blue Sphere Madness | 332598 | [332598-blue-sphere-madness.json](./332598-blue-sphere-madness.json) |
 | Blue Sphere Plus | 216302 | [216302-blue-sphere-plus.json](./216302-blue-sphere-plus.json) |
+| Blue Stinger | 6715 | [6715-blue-stinger.json](./6715-blue-stinger.json) |
 | Blue Submarine No. 6: Antarctica | 78956 | [78956-blue-submarine-no-6-antarctica.json](./78956-blue-submarine-no-6-antarctica.json) |
 | Blue Sun Saga | 416863 | [416863-blue-sun-saga.json](./416863-blue-sun-saga.json) |
 | Blue Tear | 30308 | [30308-blue-tear.json](./30308-blue-tear.json) |
@@ -5671,6 +5674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman Selection | 56467 | [56467-bomberman-selection.json](./56467-bomberman-selection.json) |
 | Bomberman Tournament | 6334 | [6334-bomberman-tournament.json](./6334-bomberman-tournament.json) |
 | Bomberman Ultra | 44572 | [44572-bomberman-ultra.json](./44572-bomberman-ultra.json) |
+| Bomberman: Act Zero | 6925 | [6925-bomberman-act-zero.json](./6925-bomberman-act-zero.json) |
 | Bomberman: Bakufuu Sentai Bomberman | 59395 | [59395-bomberman-bakufuu-sentai-bomberman.json](./59395-bomberman-bakufuu-sentai-bomberman.json) |
 | Bomberman: Panic Bomber | 162409 | [162409-bomberman-panic-bomber.json](./162409-bomberman-panic-bomber.json) |
 | Bomberman: Panic Bomber | 39663 | [39663-bomberman-panic-bomber.json](./39663-bomberman-panic-bomber.json) |
@@ -6115,6 +6119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boulder Dash | 12942 | [12942-boulder-dash.json](./12942-boulder-dash.json) |
 | Boulder Dash | 280820 | [280820-boulder-dash.json](./280820-boulder-dash.json) |
 | Boulder Dash | 280821 | [280821-boulder-dash.json](./280821-boulder-dash.json) |
+| Boulder Dash | 280822 | [280822-boulder-dash.json](./280822-boulder-dash.json) |
 | Boulder Dash | 280823 | [280823-boulder-dash.json](./280823-boulder-dash.json) |
 | Boulder Dash | 280825 | [280825-boulder-dash.json](./280825-boulder-dash.json) |
 | Boulder Dash | 280826 | [280826-boulder-dash.json](./280826-boulder-dash.json) |
@@ -6446,6 +6451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Boost: Gamma Wave | 44064 | [44064-brain-boost-gamma-wave.json](./44064-brain-boost-gamma-wave.json) |
 | Brain Box on Physics Truck | 102109 | [102109-brain-box-on-physics-truck.json](./102109-brain-box-on-physics-truck.json) |
 | Brain Break | 141100 | [141100-brain-break.json](./141100-brain-break.json) |
+| Brain Challenge | 7281 | [7281-brain-challenge.json](./7281-brain-challenge.json) |
 | Brain Challenge Deluxe | 44587 | [44587-brain-challenge-deluxe.json](./44587-brain-challenge-deluxe.json) |
 | Brain Code | 321500 | [321500-brain-code.json](./321500-brain-code.json) |
 | Brain Damage | 239192 | [239192-brain-damage.json](./239192-brain-damage.json) |
@@ -6882,6 +6888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brewtopia | 319384 | [319384-brewtopia.json](./319384-brewtopia.json) |
 | Brian Clough's Football Fortunes | 12283 | [12283-brian-cloughs-football-fortunes.json](./12283-brian-cloughs-football-fortunes.json) |
 | Brian Lara Cricket | 94848 | [94848-brian-lara-cricket.json](./94848-brian-lara-cricket.json) |
+| Brian Lara International Cricket 2007 | 6927 | [6927-brian-lara-international-cricket-2007.json](./6927-brian-lara-international-cricket-2007.json) |
 | Brian the Brain | 151606 | [151606-brian-the-brain.json](./151606-brian-the-brain.json) |
 | Brian: The Novice Barbarian | 58825 | [58825-brian-the-novice-barbarian.json](./58825-brian-the-novice-barbarian.json) |
 | Brian's Redemption | 350450 | [350450-brians-redemption.json](./350450-brians-redemption.json) |
@@ -8160,6 +8167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buzz!: Brain of the World | 7282 | [7282-buzz-brain-of-the-world.json](./7282-buzz-brain-of-the-world.json) |
 | Buzz!: Quiz TV | 7283 | [7283-buzz-quiz-tv.json](./7283-buzz-quiz-tv.json) |
 | Buzz!: Quiz TV Special Edition | 268768 | [268768-buzz-quiz-tv-special-edition.json](./268768-buzz-quiz-tv-special-edition.json) |
+| Buzz!: Quiz World | 7284 | [7284-buzz-quiz-world.json](./7284-buzz-quiz-world.json) |
 | Buzz!: The Pop Quiz | 21360 | [21360-buzz-the-pop-quiz.json](./21360-buzz-the-pop-quiz.json) |
 | Buzzsaw | 60760 | [60760-buzzsaw.json](./60760-buzzsaw.json) |
 | Buzzsaw Cat | 184407 | [184407-buzzsaw-cat.json](./184407-buzzsaw-cat.json) |
