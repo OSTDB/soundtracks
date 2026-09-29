@@ -3855,6 +3855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinorubi | 173320 | [173320-shinorubi.json](./173320-shinorubi.json) |
 | Shinrai: Broken Beyond Despair | 32105 | [32105-shinrai-broken-beyond-despair.json](./32105-shinrai-broken-beyond-despair.json) |
 | Shinrei Gakkou kara no Dasshutsu | 150130 | [150130-shinrei-gakkou-kara-no-dasshutsu.json](./150130-shinrei-gakkou-kara-no-dasshutsu.json) |
+| Shinrei Jusatsushi Taroumaru | 45456 | [45456-shinrei-jusatsushi-taroumaru.json](./45456-shinrei-jusatsushi-taroumaru.json) |
 | Shinreigari: Ghost Hound DS | 123408 | [123408-shinreigari-ghost-hound-ds.json](./123408-shinreigari-ghost-hound-ds.json) |
 | Shinseiden Megaseed: Fukkatsu-hen | 261299 | [261299-shinseiden-megaseed-fukkatsu-hen.json](./261299-shinseiden-megaseed-fukkatsu-hen.json) |
 | Shinseiki Evangelion Mahjong Hokan Keikaku | 61676 | [61676-shinseiki-evangelion-mahjong-hokan-keikaku.json](./61676-shinseiki-evangelion-mahjong-hokan-keikaku.json) |
