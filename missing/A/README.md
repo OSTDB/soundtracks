@@ -1662,6 +1662,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Mythology: Tale of the Dragon | 13186 | [13186-age-of-mythology-tale-of-the-dragon.json](./13186-age-of-mythology-tale-of-the-dragon.json) |
 | Age of Pixels | 118261 | [118261-age-of-pixels.json](./118261-age-of-pixels.json) |
 | Age of Reforging: The Freelands | 171364 | [171364-age-of-reforging-the-freelands.json](./171364-age-of-reforging-the-freelands.json) |
+| Age of Sail | 9430 | [9430-age-of-sail.json](./9430-age-of-sail.json) |
+| Age of Sail II | 9428 | [9428-age-of-sail-ii.json](./9428-age-of-sail-ii.json) |
+| Age of Sail II: Privateer's Bounty | 9429 | [9429-age-of-sail-ii-privateers-bounty.json](./9429-age-of-sail-ii-privateers-bounty.json) |
 | Age of Sokoban | 152157 | [152157-age-of-sokoban.json](./152157-age-of-sokoban.json) |
 | Age of Speed | 326750 | [326750-age-of-speed.json](./326750-age-of-speed.json) |
 | Age of Speed 2 | 326751 | [326751-age-of-speed-2.json](./326751-age-of-speed-2.json) |
@@ -1732,6 +1735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agraelus, Wanna be MaN | 141737 | [141737-agraelus-wanna-be-man.json](./141737-agraelus-wanna-be-man.json) |
 | Agrarian developer | 283883 | [283883-agrarian-developer.json](./283883-agrarian-developer.json) |
 | AgrChamp | 240748 | [240748-agrchamp.json](./240748-agrchamp.json) |
+| Agricultural Simulator 2011 | 9537 | [9537-agricultural-simulator-2011.json](./9537-agricultural-simulator-2011.json) |
 | Agricultural Simulator 2012: Deluxe Edition | 36393 | [36393-agricultural-simulator-2012-deluxe-edition.json](./36393-agricultural-simulator-2012-deluxe-edition.json) |
 | Agricultural Simulator 2013: Collector's Edition | 25047 | [25047-agricultural-simulator-2013-collectors-edition.json](./25047-agricultural-simulator-2013-collectors-edition.json) |
 | Agricultural Simulator: Historical Farming | 9954 | [9954-agricultural-simulator-historical-farming.json](./9954-agricultural-simulator-historical-farming.json) |
@@ -4374,6 +4378,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Brick in Space | 95601 | [95601-another-brick-in-space.json](./95601-another-brick-in-space.json) |
 | Another Case Solved | 38915 | [38915-another-case-solved.json](./38915-another-case-solved.json) |
 | Another Century's Episode | 9566 | [9566-another-centurys-episode.json](./9566-another-centurys-episode.json) |
+| Another Century's Episode 2 | 9579 | [9579-another-centurys-episode-2.json](./9579-another-centurys-episode-2.json) |
+| Another Century's Episode 3: The Final | 9582 | [9582-another-centurys-episode-3-the-final.json](./9582-another-centurys-episode-3-the-final.json) |
 | Another Century's Episode: R | 7270 | [7270-another-centurys-episode-r.json](./7270-another-centurys-episode-r.json) |
 | Another Christmas Game | 326043 | [326043-another-christmas-game.json](./326043-another-christmas-game.json) |
 | Another Crabs Treasure Prototype | 371331 | [371331-another-crabs-treasure-prototype.json](./371331-another-crabs-treasure-prototype.json) |
@@ -7643,6 +7649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axis Mundi | 26942 | [26942-axis-mundi.json](./26942-axis-mundi.json) |
 | Axium's Box | 235453 | [235453-axiums-box.json](./235453-axiums-box.json) |
 | Axizon Labs: Zombies | 132213 | [132213-axizon-labs-zombies.json](./132213-axizon-labs-zombies.json) |
+| Axle | 9652 | [9652-axle.json](./9652-axle.json) |
 | Axo Away | 184065 | [184065-axo-away.json](./184065-axo-away.json) |
 | Axol's Quest | 369126 | [369126-axols-quest.json](./369126-axols-quest.json) |
 | Axolotl | 195486 | [195486-axolotl.json](./195486-axolotl.json) |
