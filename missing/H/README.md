@@ -3723,6 +3723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman Go: Definitive Edition | 21580 | [21580-hitman-go-definitive-edition.json](./21580-hitman-go-definitive-edition.json) |
 | Hitman Go: VR Edition | 23487 | [23487-hitman-go-vr-edition.json](./23487-hitman-go-vr-edition.json) |
 | Hitman HD Enhanced Collection | 113533 | [113533-hitman-hd-enhanced-collection.json](./113533-hitman-hd-enhanced-collection.json) |
+| Hitman HD Trilogy | 20749 | [20749-hitman-hd-trilogy.json](./20749-hitman-hd-trilogy.json) |
 | Hitman Reborn! | 174722 | [174722-hitman-reborn.json](./174722-hitman-reborn.json) |
 | Hitman Sniper: The Shadows | 144772 | [144772-hitman-sniper-the-shadows.json](./144772-hitman-sniper-the-shadows.json) |
 | Hitman World of Assassination | 233571 | [233571-hitman-world-of-assassination.json](./233571-hitman-world-of-assassination.json) |
@@ -5659,6 +5660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Treasure: The Legend of Macaron | 151653 | [151653-hyper-treasure-the-legend-of-macaron.json](./151653-hyper-treasure-the-legend-of-macaron.json) |
 | Hyper Turbo Boost | 292153 | [292153-hyper-turbo-boost.json](./292153-hyper-turbo-boost.json) |
 | Hyper V-Ball | 42609 | [42609-hyper-v-ball.json](./42609-hyper-v-ball.json) |
+| Hyper Void | 20966 | [20966-hyper-void.json](./20966-hyper-void.json) |
 | Hyper Wars | 243238 | [243238-hyper-wars.json](./243238-hyper-wars.json) |
 | Hyper Wars: The Mega Firestorm | 109046 | [109046-hyper-wars-the-mega-firestorm.json](./109046-hyper-wars-the-mega-firestorm.json) |
 | Hyper-Galactic Spiders from Mars | 109180 | [109180-hyper-galactic-spiders-from-mars.json](./109180-hyper-galactic-spiders-from-mars.json) |
