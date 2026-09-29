@@ -1802,6 +1802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where in the USA is Carmen Sandiego? (Enhanced) | 66348 | [66348-where-in-the-usa-is-carmen-sandiego-enhanced.json](./66348-where-in-the-usa-is-carmen-sandiego-enhanced.json) |
 | Where in the World Is Carmen Sandiego? | 251 | [251-where-in-the-world-is-carmen-sandiego.json](./251-where-in-the-world-is-carmen-sandiego.json) |
 | Where in the World is Carmen Sandiego? Enhanced Edition | 143640 | [143640-where-in-the-world-is-carmen-sandiego-enhanced-edition.json](./143640-where-in-the-world-is-carmen-sandiego-enhanced-edition.json) |
+| Where in the World Is Carmen Sandiego? Treasures of Knowledge | 58907 | [58907-where-in-the-world-is-carmen-sandiego-treasures-of-knowledge.json](./58907-where-in-the-world-is-carmen-sandiego-treasures-of-knowledge.json) |
 | Where in Time is Carmen Sandiego? | 336633 | [336633-where-in-time-is-carmen-sandiego.json](./336633-where-in-time-is-carmen-sandiego.json) |
 | Where in Time is Carmen Sandiego? | 4376 | [4376-where-in-time-is-carmen-sandiego.json](./4376-where-in-time-is-carmen-sandiego.json) |
 | Where is 2009? | 384055 | [384055-where-is-2009.json](./384055-where-is-2009.json) |
@@ -4111,6 +4112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K25: The Bloodline Edition Bonus Pack | 353990 | [353990-wwe-2k25-the-bloodline-edition-bonus-pack.json](./353990-wwe-2k25-the-bloodline-edition-bonus-pack.json) |
 | WWE 2K25: WrestleMania 41 Pack | 353991 | [353991-wwe-2k25-wrestlemania-41-pack.json](./353991-wwe-2k25-wrestlemania-41-pack.json) |
 | WWE 2K25: Wyatt Sicks Pack | 353992 | [353992-wwe-2k25-wyatt-sicks-pack.json](./353992-wwe-2k25-wyatt-sicks-pack.json) |
+| WWE Champions | 58888 | [58888-wwe-champions.json](./58888-wwe-champions.json) |
 | WWE Presents: Rockpocalypse | 63263 | [63263-wwe-presents-rockpocalypse.json](./63263-wwe-presents-rockpocalypse.json) |
 | WWE Raw 2: Ruthless Aggression | 24123 | [24123-wwe-raw-2-ruthless-aggression.json](./24123-wwe-raw-2-ruthless-aggression.json) |
 | WWE Slam | 57378 | [57378-wwe-slam.json](./57378-wwe-slam.json) |
