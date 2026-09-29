@@ -1456,6 +1456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Independence Day Run | 229039 | [229039-independence-day-run.json](./229039-independence-day-run.json) |
 | Independence War: Defiance | 62990 | [62990-independence-war-defiance.json](./62990-independence-war-defiance.json) |
 | Independence War: Deluxe Edition | 36201 | [36201-independence-war-deluxe-edition.json](./36201-independence-war-deluxe-edition.json) |
+| Independent Days | 26799 | [26799-independent-days.json](./26799-independent-days.json) |
 | Independent Games | 210063 | [210063-independent-games.json](./210063-independent-games.json) |
 | Indestructotank Anniversary Edition | 279748 | [279748-indestructotank-anniversary-edition.json](./279748-indestructotank-anniversary-edition.json) |
 | Indian Army: Mission Pok | 171399 | [171399-indian-army-mission-pok.json](./171399-indian-army-mission-pok.json) |
