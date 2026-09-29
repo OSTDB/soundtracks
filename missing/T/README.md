@@ -627,6 +627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of the Deck | 128998 | [128998-tales-of-the-deck.json](./128998-tales-of-the-deck.json) |
 | Tales of the Drunken Paladin | 191811 | [191811-tales-of-the-drunken-paladin.json](./191811-tales-of-the-drunken-paladin.json) |
 | Tales of the Elements: 2nd Chapter | 168848 | [168848-tales-of-the-elements-2nd-chapter.json](./168848-tales-of-the-elements-2nd-chapter.json) |
+| Tales of the Heroes: Twin Brave | 42760 | [42760-tales-of-the-heroes-twin-brave.json](./42760-tales-of-the-heroes-twin-brave.json) |
 | Tales of the Magic Ball | 239747 | [239747-tales-of-the-magic-ball.json](./239747-tales-of-the-magic-ball.json) |
 | Tales of the Neon Sea: Collector's Edition | 228733 | [228733-tales-of-the-neon-sea-collectors-edition.json](./228733-tales-of-the-neon-sea-collectors-edition.json) |
 | Tales of The Nightmares: Episode One | 352834 | [352834-tales-of-the-nightmares-episode-one.json](./352834-tales-of-the-nightmares-episode-one.json) |
@@ -643,6 +644,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of the Unknown: Volume I - The Bard's Tale | 394230 | [394230-tales-of-the-unknown-volume-i-the-bards-tale.json](./394230-tales-of-the-unknown-volume-i-the-bards-tale.json) |
 | Tales of the Unknown: Volume I - The Bard's Tale | 394234 | [394234-tales-of-the-unknown-volume-i-the-bards-tale.json](./394234-tales-of-the-unknown-volume-i-the-bards-tale.json) |
 | Tales of The White Knight | 320546 | [320546-tales-of-the-white-knight.json](./320546-tales-of-the-white-knight.json) |
+| Tales of the World: Radiant Mythology 2 | 42794 | [42794-tales-of-the-world-radiant-mythology-2.json](./42794-tales-of-the-world-radiant-mythology-2.json) |
+| Tales of the World: Radiant Mythology 3 | 42793 | [42793-tales-of-the-world-radiant-mythology-3.json](./42793-tales-of-the-world-radiant-mythology-3.json) |
 | Tales of the World: Reve Unitia | 61871 | [61871-tales-of-the-world-reve-unitia.json](./61871-tales-of-the-world-reve-unitia.json) |
 | Tales of Therapy | 226150 | [226150-tales-of-therapy.json](./226150-tales-of-therapy.json) |
 | Tales of Three Kingdoms: The Mortal World | 277579 | [277579-tales-of-three-kingdoms-the-mortal-world.json](./277579-tales-of-three-kingdoms-the-mortal-world.json) |
@@ -4894,6 +4897,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Idolmaster: Shiny Colors | 97876 | [97876-the-idolmaster-shiny-colors.json](./97876-the-idolmaster-shiny-colors.json) |
 | The Idolmaster: Shiny Colors - Song for Prism | 248115 | [248115-the-idolmaster-shiny-colors-song-for-prism.json](./248115-the-idolmaster-shiny-colors-song-for-prism.json) |
 | The Idolmaster: Shiny Colors - With Open() | 413755 | [413755-the-idolmaster-shiny-colors-with-open.json](./413755-the-idolmaster-shiny-colors-with-open.json) |
+| The Idolmaster: Shiny Festa - Funky Note | 42797 | [42797-the-idolmaster-shiny-festa-funky-note.json](./42797-the-idolmaster-shiny-festa-funky-note.json) |
+| The Idolmaster: Shiny Festa - Groovy Tune | 42795 | [42795-the-idolmaster-shiny-festa-groovy-tune.json](./42795-the-idolmaster-shiny-festa-groovy-tune.json) |
+| The Idolmaster: Shiny Festa - Honey Sound | 42796 | [42796-the-idolmaster-shiny-festa-honey-sound.json](./42796-the-idolmaster-shiny-festa-honey-sound.json) |
 | The Idolmaster: Shiny Festa - Melodic Disc | 60081 | [60081-the-idolmaster-shiny-festa-melodic-disc.json](./60081-the-idolmaster-shiny-festa-melodic-disc.json) |
 | The Idolmaster: Stella Stage | 68288 | [68288-the-idolmaster-stella-stage.json](./68288-the-idolmaster-stella-stage.json) |
 | The Ignition Factor | 42607 | [42607-the-ignition-factor.json](./42607-the-ignition-factor.json) |
@@ -6304,6 +6310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystery of Westington Manor | 61723 | [61723-the-mystery-of-westington-manor.json](./61723-the-mystery-of-westington-manor.json) |
 | The Mystery of Whiterock Castle | 67229 | [67229-the-mystery-of-whiterock-castle.json](./67229-the-mystery-of-whiterock-castle.json) |
 | The Mystery of Woolley Mountain | 52011 | [52011-the-mystery-of-woolley-mountain.json](./52011-the-mystery-of-woolley-mountain.json) |
+| The Mystery Team | 42775 | [42775-the-mystery-team.json](./42775-the-mystery-team.json) |
 | The Mystery Workshop | 104457 | [104457-the-mystery-workshop.json](./104457-the-mystery-workshop.json) |
 | The Mystic Fortune | 329063 | [329063-the-mystic-fortune.json](./329063-the-mystic-fortune.json) |
 | The Mystical Traveler | 342735 | [342735-the-mystical-traveler.json](./342735-the-mystical-traveler.json) |
@@ -10170,6 +10177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Woods PGA Tour 13: Masters Collector's Edition | 47419 | [47419-tiger-woods-pga-tour-13-masters-collectors-edition.json](./47419-tiger-woods-pga-tour-13-masters-collectors-edition.json) |
 | Tiger Woods PGA Tour 2000 | 249152 | [249152-tiger-woods-pga-tour-2000.json](./249152-tiger-woods-pga-tour-2000.json) |
 | Tiger Woods PGA Tour 2004 | 905 | [905-tiger-woods-pga-tour-2004.json](./905-tiger-woods-pga-tour-2004.json) |
+| Tiger Woods PGA Tour 2007 | 42805 | [42805-tiger-woods-pga-tour-2007.json](./42805-tiger-woods-pga-tour-2007.json) |
 | Tiger Woods PGA Tour 2008 | 51234 | [51234-tiger-woods-pga-tour-2008.json](./51234-tiger-woods-pga-tour-2008.json) |
 | Tiger Woods PGA Tour Golf | 206788 | [206788-tiger-woods-pga-tour-golf.json](./206788-tiger-woods-pga-tour-golf.json) |
 | Tigers on the Hunt | 59521 | [59521-tigers-on-the-hunt.json](./59521-tigers-on-the-hunt.json) |
@@ -14723,6 +14731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TwinBee | 4623 | [4623-twinbee.json](./4623-twinbee.json) |
 | TwinBee Complete Edition | 282653 | [282653-twinbee-complete-edition.json](./282653-twinbee-complete-edition.json) |
 | TwinBee Da!! | 282567 | [282567-twinbee-da.json](./282567-twinbee-da.json) |
+| TwinBee Portable | 42767 | [42767-twinbee-portable.json](./42767-twinbee-portable.json) |
 | TwinBee RPG | 149977 | [149977-twinbee-rpg.json](./149977-twinbee-rpg.json) |
 | Twincantation | 355017 | [355017-twincantation.json](./355017-twincantation.json) |
 | TwinCop | 51594 | [51594-twincop.json](./51594-twincop.json) |
