@@ -141,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Café Guile | 364495 | [364495-cafe-guile.json](./364495-cafe-guile.json) |
 | Cafe in the Clouds | 175923 | [175923-cafe-in-the-clouds.json](./175923-cafe-in-the-clouds.json) |
 | Café Machina | 414295 | [414295-cafe-machina.json](./414295-cafe-machina.json) |
+| Cafe Mahjongg | 52720 | [52720-cafe-mahjongg.json](./52720-cafe-mahjongg.json) |
 | Cafe Maid | 243764 | [243764-cafe-maid.json](./243764-cafe-maid.json) |
 | Cafe Owner Simulator | 191851 | [191851-cafe-owner-simulator.json](./191851-cafe-owner-simulator.json) |
 | Cafe Panic | 296075 | [296075-cafe-panic.json](./296075-cafe-panic.json) |
@@ -271,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops III - Game of the Year Edition | 202222 | [202222-call-of-duty-black-ops-iii-game-of-the-year-edition.json](./202222-call-of-duty-black-ops-iii-game-of-the-year-edition.json) |
 | Call of Duty: Black Ops III - Hardened Edition | 41615 | [41615-call-of-duty-black-ops-iii-hardened-edition.json](./41615-call-of-duty-black-ops-iii-hardened-edition.json) |
 | Call of Duty: Black Ops Mobile | 135300 | [135300-call-of-duty-black-ops-mobile.json](./135300-call-of-duty-black-ops-mobile.json) |
+| Call of Duty: Definitive Collection - Volume 1 | 52718 | [52718-call-of-duty-definitive-collection-volume-1.json](./52718-call-of-duty-definitive-collection-volume-1.json) |
 | Call of Duty: Endowment (C.O.D.E.) Warrior Pack | 276273 | [276273-call-of-duty-endowment-c-o-d-e-warrior-pack.json](./276273-call-of-duty-endowment-c-o-d-e-warrior-pack.json) |
 | Call of Duty: Future Warfare | 294871 | [294871-call-of-duty-future-warfare.json](./294871-call-of-duty-future-warfare.json) |
 | Call of Duty: Ghosts - Digital Hardened Edition | 240504 | [240504-call-of-duty-ghosts-digital-hardened-edition.json](./240504-call-of-duty-ghosts-digital-hardened-edition.json) |
@@ -363,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Callparin 2 | 158518 | [158518-callparin-2.json](./158518-callparin-2.json) |
 | Calluna | 173248 | [173248-calluna.json](./173248-calluna.json) |
 | Callus | 387375 | [387375-callus.json](./387375-callus.json) |
+| Cally's Caves Definitive Collection | 52714 | [52714-callys-caves-definitive-collection.json](./52714-callys-caves-definitive-collection.json) |
 | Calm Before The Storm | 316852 | [316852-calm-before-the-storm.json](./316852-calm-before-the-storm.json) |
 | Calm Cove | 272243 | [272243-calm-cove.json](./272243-calm-cove.json) |
 | Calm Down, Stalin VR | 286535 | [286535-calm-down-stalin-vr.json](./286535-calm-down-stalin-vr.json) |
@@ -414,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camp Phantom | 310542 | [310542-camp-phantom.json](./310542-camp-phantom.json) |
 | Camp Rock | 221995 | [221995-camp-rock.json](./221995-camp-rock.json) |
 | Camp Sunshine | 25605 | [25605-camp-sunshine.json](./25605-camp-sunshine.json) |
+| Camp Sunshine: Ultimate Edition | 52713 | [52713-camp-sunshine-ultimate-edition.json](./52713-camp-sunshine-ultimate-edition.json) |
 | Camp W | 99025 | [99025-camp-w.json](./99025-camp-w.json) |
 | Camp Wombo | 351010 | [351010-camp-wombo.json](./351010-camp-wombo.json) |
 | Campaign Antietam | 182260 | [182260-campaign-antietam.json](./182260-campaign-antietam.json) |
@@ -2999,7 +3003,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Invaders 3 Xmas | 89285 | [89285-chicken-invaders-3-xmas.json](./89285-chicken-invaders-3-xmas.json) |
 | Chicken Invaders 3: Easter Edition | 155576 | [155576-chicken-invaders-3-easter-edition.json](./155576-chicken-invaders-3-easter-edition.json) |
 | Chicken Invaders 4: Ultimate Omelette | 11716 | [11716-chicken-invaders-4-ultimate-omelette.json](./11716-chicken-invaders-4-ultimate-omelette.json) |
+| Chicken Invaders 5 Deluxe | 52743 | [52743-chicken-invaders-5-deluxe.json](./52743-chicken-invaders-5-deluxe.json) |
 | Chicken Invaders 5: Christmas Edition | 108464 | [108464-chicken-invaders-5-christmas-edition.json](./108464-chicken-invaders-5-christmas-edition.json) |
+| Chicken Invaders 5: Cluck of the Dark Side - Halloween Edition | 52742 | [52742-chicken-invaders-5-cluck-of-the-dark-side-halloween-edition.json](./52742-chicken-invaders-5-cluck-of-the-dark-side-halloween-edition.json) |
 | Chicken Journey | 204513 | [204513-chicken-journey.json](./204513-chicken-journey.json) |
 | Chicken Jump | 108521 | [108521-chicken-jump.json](./108521-chicken-jump.json) |
 | Chicken Jump, Puppy Jump | 355197 | [355197-chicken-jump-puppy-jump.json](./355197-chicken-jump-puppy-jump.json) |
@@ -3199,6 +3205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chipper & Sons Lumber Co. | 59984 | [59984-chipper-and-sons-lumber-co.json](./59984-chipper-and-sons-lumber-co.json) |
 | Chippy & Noppo | 240228 | [240228-chippy-and-noppo.json](./240228-chippy-and-noppo.json) |
 | Chiptune DJ | 106409 | [106409-chiptune-dj.json](./106409-chiptune-dj.json) |
+| Chiptune Runner | 52741 | [52741-chiptune-runner.json](./52741-chiptune-runner.json) |
 | Chiral | 146176 | [146176-chiral.json](./146176-chiral.json) |
 | Chiral | 309855 | [309855-chiral.json](./309855-chiral.json) |
 | Chiralmori | 287634 | [287634-chiralmori.json](./287634-chiralmori.json) |
@@ -3345,6 +3352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chopper Battle New Horizon | 75767 | [75767-chopper-battle-new-horizon.json](./75767-chopper-battle-new-horizon.json) |
 | Chopper Commando | 78716 | [78716-chopper-commando.json](./78716-chopper-commando.json) |
 | Chopper Hunt | 25671 | [25671-chopper-hunt.json](./25671-chopper-hunt.json) |
+| Chopper: Lethal darkness - Deluxe Edition | 52740 | [52740-chopper-lethal-darkness-deluxe-edition.json](./52740-chopper-lethal-darkness-deluxe-edition.json) |
 | Choppie's | 236541 | [236541-choppies.json](./236541-choppies.json) |
 | Chopping Together | 389581 | [389581-chopping-together.json](./389581-chopping-together.json) |
 | Choppy Cuts | 349383 | [349383-choppy-cuts.json](./349383-choppy-cuts.json) |
@@ -3557,6 +3565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of a Dark Lord: Episode 1 - Tides of Fate Complete | 36076 | [36076-chronicles-of-a-dark-lord-episode-1-tides-of-fate-complete.json](./36076-chronicles-of-a-dark-lord-episode-1-tides-of-fate-complete.json) |
 | Chronicles of a Dark Lord: Episode 2 War of the Abyss | 7856 | [7856-chronicles-of-a-dark-lord-episode-2-war-of-the-abyss.json](./7856-chronicles-of-a-dark-lord-episode-2-war-of-the-abyss.json) |
 | Chronicles of a Dark Lord: Episode II War of The Abyss | 35962 | [35962-chronicles-of-a-dark-lord-episode-ii-war-of-the-abyss.json](./35962-chronicles-of-a-dark-lord-episode-ii-war-of-the-abyss.json) |
+| Chronicles of a Dark Lord: Genesis | 52739 | [52739-chronicles-of-a-dark-lord-genesis.json](./52739-chronicles-of-a-dark-lord-genesis.json) |
 | Chronicles of Albian 2: The Wizbury School of Magic | 339644 | [339644-chronicles-of-albian-2-the-wizbury-school-of-magic.json](./339644-chronicles-of-albian-2-the-wizbury-school-of-magic.json) |
 | Chronicles of Albian: The Magic Convention | 232567 | [232567-chronicles-of-albian-the-magic-convention.json](./232567-chronicles-of-albian-the-magic-convention.json) |
 | Chronicles of Arcadia | 123541 | [123541-chronicles-of-arcadia.json](./123541-chronicles-of-arcadia.json) |
@@ -3576,6 +3585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of the Wolf | 258184 | [258184-chronicles-of-the-wolf.json](./258184-chronicles-of-the-wolf.json) |
 | Chronicles of Vinland | 81008 | [81008-chronicles-of-vinland.json](./81008-chronicles-of-vinland.json) |
 | Chronicles of Vipers | 253321 | [253321-chronicles-of-vipers.json](./253321-chronicles-of-vipers.json) |
+| Chronicles of Witches & Warlocks | 52738 | [52738-chronicles-of-witches-and-warlocks.json](./52738-chronicles-of-witches-and-warlocks.json) |
 | Chronicon | 35130 | [35130-chronicon.json](./35130-chronicon.json) |
 | Chronicon Complete | 242676 | [242676-chronicon-complete.json](./242676-chronicon-complete.json) |
 | Chroniric | 107251 | [107251-chroniric.json](./107251-chroniric.json) |
@@ -3738,6 +3748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinderella's Spark | 184037 | [184037-cinderellas-spark.json](./184037-cinderellas-spark.json) |
 | Cinders | 196163 | [196163-cinders.json](./196163-cinders.json) |
 | Cinderstone Online | 132149 | [132149-cinderstone-online.json](./132149-cinderstone-online.json) |
+| Cindy's Sundaes | 52736 | [52736-cindys-sundaes.json](./52736-cindys-sundaes.json) |
 | Cine Tracer | 112265 | [112265-cine-tracer.json](./112265-cine-tracer.json) |
 | Cinema Madness | 310551 | [310551-cinema-madness.json](./310551-cinema-madness.json) |
 | Cinema Manager | 157171 | [157171-cinema-manager.json](./157171-cinema-manager.json) |
@@ -3745,6 +3756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinema Simulator | 167581 | [167581-cinema-simulator.json](./167581-cinema-simulator.json) |
 | Cinema Theater Tycoon | 358377 | [358377-cinema-theater-tycoon.json](./358377-cinema-theater-tycoon.json) |
 | Cinematrix | 319218 | [319218-cinematrix.json](./319218-cinematrix.json) |
+| Cinemax Complete | 52735 | [52735-cinemax-complete.json](./52735-cinemax-complete.json) |
 | CineNerdle | 231638 | [231638-cinenerdle.json](./231638-cinenerdle.json) |
 | CineNerdle | 231639 | [231639-cinenerdle.json](./231639-cinenerdle.json) |
 | Cinnabar Nights | 314682 | [314682-cinnabar-nights.json](./314682-cinnabar-nights.json) |
@@ -3853,6 +3865,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CitaDrill | 329383 | [329383-citadrill.json](./329383-citadrill.json) |
 | Citalis | 25713 | [25713-citalis.json](./25713-citalis.json) |
 | Cities Domination | 319764 | [319764-cities-domination.json](./319764-cities-domination.json) |
+| Cities in Motion 2: Bus Mania | 52734 | [52734-cities-in-motion-2-bus-mania.json](./52734-cities-in-motion-2-bus-mania.json) |
+| Cities in Motion 2: European Cities | 52733 | [52733-cities-in-motion-2-european-cities.json](./52733-cities-in-motion-2-european-cities.json) |
+| Cities in Motion 2: Marvellous Monorails | 52730 | [52730-cities-in-motion-2-marvellous-monorails.json](./52730-cities-in-motion-2-marvellous-monorails.json) |
+| Cities in Motion 2: Trekking Trolleys | 52727 | [52727-cities-in-motion-2-trekking-trolleys.json](./52727-cities-in-motion-2-trekking-trolleys.json) |
+| Cities in Motion 2: Wending Waterbuses | 52725 | [52725-cities-in-motion-2-wending-waterbuses.json](./52725-cities-in-motion-2-wending-waterbuses.json) |
+| Cities in Motion Complete Collection | 52731 | [52731-cities-in-motion-complete-collection.json](./52731-cities-in-motion-complete-collection.json) |
+| Cities in Motion: Design Marvels | 52723 | [52723-cities-in-motion-design-marvels.json](./52723-cities-in-motion-design-marvels.json) |
+| Cities in Motion: Design Now | 52722 | [52722-cities-in-motion-design-now.json](./52722-cities-in-motion-design-now.json) |
+| Cities in Motion: German Cities | 52728 | [52728-cities-in-motion-german-cities.json](./52728-cities-in-motion-german-cities.json) |
+| Cities in Motion: Tokyo | 52724 | [52724-cities-in-motion-tokyo.json](./52724-cities-in-motion-tokyo.json) |
+| Cities in Motion: Ulm | 52721 | [52721-cities-in-motion-ulm.json](./52721-cities-in-motion-ulm.json) |
 | Cities of the World Jigsaw Puzzles - Amsterdam | 248707 | [248707-cities-of-the-world-jigsaw-puzzles-amsterdam.json](./248707-cities-of-the-world-jigsaw-puzzles-amsterdam.json) |
 | Cities of the World Jigsaw Puzzles - Istanbul | 248712 | [248712-cities-of-the-world-jigsaw-puzzles-istanbul.json](./248712-cities-of-the-world-jigsaw-puzzles-istanbul.json) |
 | Cities of the World Jigsaw Puzzles - London | 248708 | [248708-cities-of-the-world-jigsaw-puzzles-london.json](./248708-cities-of-the-world-jigsaw-puzzles-london.json) |
