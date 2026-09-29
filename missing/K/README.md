@@ -965,6 +965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick Your Astronaut | 187233 | [187233-kick-your-astronaut.json](./187233-kick-your-astronaut.json) |
 | Kick Yourself On | 351804 | [351804-kick-yourself-on.json](./351804-kick-yourself-on.json) |
 | Kick-Ass 2 | 17488 | [17488-kick-ass-2.json](./17488-kick-ass-2.json) |
+| Kick-Ass: The Game | 7545 | [7545-kick-ass-the-game.json](./7545-kick-ass-the-game.json) |
 | Kick-Bell | 369192 | [369192-kick-bell.json](./369192-kick-bell.json) |
 | Kick-Flight | 130350 | [130350-kick-flight.json](./130350-kick-flight.json) |
 | Kick-the-Can | 296101 | [296101-kick-the-can.json](./296101-kick-the-can.json) |
