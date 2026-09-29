@@ -576,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark & Under | 144371 | [144371-dark-and-under.json](./144371-dark-and-under.json) |
 | Dark 7 | 310528 | [310528-dark-7.json](./310528-dark-7.json) |
 | Dark Adelita | 350419 | [350419-dark-adelita.json](./350419-dark-adelita.json) |
+| Dark Adventure | 38529 | [38529-dark-adventure.json](./38529-dark-adventure.json) |
 | Dark Age of Camelot: Catacombs | 20202 | [20202-dark-age-of-camelot-catacombs.json](./20202-dark-age-of-camelot-catacombs.json) |
 | Dark Age of Camelot: Labyrinth of the Minotaur | 21415 | [21415-dark-age-of-camelot-labyrinth-of-the-minotaur.json](./21415-dark-age-of-camelot-labyrinth-of-the-minotaur.json) |
 | Dark Ages | 72251 | [72251-dark-ages.json](./72251-dark-ages.json) |
@@ -591,6 +592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Assassin: Trial Chambers | 339363 | [339363-dark-assassin-trial-chambers.json](./339363-dark-assassin-trial-chambers.json) |
 | Dark Astral | 263042 | [263042-dark-astral.json](./263042-dark-astral.json) |
 | Dark Auction | 264359 | [264359-dark-auction.json](./264359-dark-auction.json) |
+| Dark Avenger | 38510 | [38510-dark-avenger.json](./38510-dark-avenger.json) |
 | Dark Awake: The King Has No Name | 52183 | [52183-dark-awake-the-king-has-no-name.json](./52183-dark-awake-the-king-has-no-name.json) |
 | Dark Blood 2:The Cry of Souls | 291614 | [291614-dark-blood-2-the-cry-of-souls.json](./291614-dark-blood-2-the-cry-of-souls.json) |
 | Dark Blood: Beyond the Darkness | 291612 | [291612-dark-blood-beyond-the-darkness.json](./291612-dark-blood-beyond-the-darkness.json) |
@@ -2686,6 +2688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Go! | 209653 | [209653-demon-go.json](./209653-demon-go.json) |
 | Demon Grade | 75159 | [75159-demon-grade.json](./75159-demon-grade.json) |
 | Demon Heart | 158588 | [158588-demon-heart.json](./158588-demon-heart.json) |
+| Demon Heart: Pylon Wars | 38508 | [38508-demon-heart-pylon-wars.json](./38508-demon-heart-pylon-wars.json) |
 | Demon Hunt | 319555 | [319555-demon-hunt.json](./319555-demon-hunt.json) |
 | Demon Hunter | 31217 | [31217-demon-hunter.json](./31217-demon-hunter.json) |
 | Demon Hunter 2: New Chapter | 32774 | [32774-demon-hunter-2-new-chapter.json](./32774-demon-hunter-2-new-chapter.json) |
@@ -3340,6 +3343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detroit | 71813 | [71813-detroit.json](./71813-detroit.json) |
 | Detuned | 239317 | [239317-detuned.json](./239317-detuned.json) |
 | Deuces Wild: Video Poker | 147833 | [147833-deuces-wild-video-poker.json](./147833-deuces-wild-video-poker.json) |
+| Deul | 38507 | [38507-deul.json](./38507-deul.json) |
 | Deus | 10858 | [10858-deus.json](./10858-deus.json) |
 | Deus Cult | 298299 | [298299-deus-cult.json](./298299-deus-cult.json) |
 | Deus Ex Machina | 130344 | [130344-deus-ex-machina.json](./130344-deus-ex-machina.json) |
@@ -3383,6 +3387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Book: Hand-Drawn Action MMO | 146171 | [146171-devil-book-hand-drawn-action-mmo.json](./146171-devil-book-hand-drawn-action-mmo.json) |
 | Devil Cult Party | 305794 | [305794-devil-cult-party.json](./305794-devil-cult-party.json) |
 | Devil Dice | 28400 | [28400-devil-dice.json](./28400-devil-dice.json) |
+| Devil Eater | 38506 | [38506-devil-eater.json](./38506-devil-eater.json) |
 | Devil Edge | 169450 | [169450-devil-edge.json](./169450-devil-edge.json) |
 | Devil Engine: Ignition | 150601 | [150601-devil-engine-ignition.json](./150601-devil-engine-ignition.json) |
 | Devil Fish | 39633 | [39633-devil-fish.json](./39633-devil-fish.json) |
@@ -3935,6 +3940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dim Glow | 158193 | [158193-dim-glow.json](./158193-dim-glow.json) |
 | Dima Rescues Ira | 75157 | [75157-dima-rescues-ira.json](./75157-dima-rescues-ira.json) |
 | Dimachaerus | 301248 | [301248-dimachaerus.json](./301248-dimachaerus.json) |
+| Dimahoo | 38527 | [38527-dimahoo.json](./38527-dimahoo.json) |
 | Dime City | 94565 | [94565-dime-city.json](./94565-dime-city.json) |
 | Dimenseum | 396376 | [396376-dimenseum.json](./396376-dimenseum.json) |
 | Dimension Defenders | 405570 | [405570-dimension-defenders.json](./405570-dimension-defenders.json) |
