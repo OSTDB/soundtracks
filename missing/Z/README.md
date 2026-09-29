@@ -379,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Page | 216812 | [216812-zero-page.json](./216812-zero-page.json) |
 | Zero Parades: For Dead Spies | 361880 | [361880-zero-parades-for-dead-spies.json](./361880-zero-parades-for-dead-spies.json) |
 | Zero Piece | 266279 | [266279-zero-piece.json](./266279-zero-piece.json) |
+| Zero Pilot | 42754 | [42754-zero-pilot.json](./42754-zero-pilot.json) |
 | Zero Pilot: Dai-san-ji Sekai Taisen 1946 | 59359 | [59359-zero-pilot-dai-san-ji-sekai-taisen-1946.json](./59359-zero-pilot-dai-san-ji-sekai-taisen-1946.json) |
 | Zero Point Survivor | 371308 | [371308-zero-point-survivor.json](./371308-zero-point-survivor.json) |
 | Zero Protocol | 289338 | [289338-zero-protocol.json](./289338-zero-protocol.json) |
