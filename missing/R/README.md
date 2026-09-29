@@ -2624,6 +2624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resobeat | 377046 | [377046-resobeat.json](./377046-resobeat.json) |
 | Resolutiion | 121996 | [121996-resolutiion.json](./121996-resolutiion.json) |
 | Resonance | 276280 | [276280-resonance.json](./276280-resonance.json) |
+| Resonance | 6327 | [6327-resonance.json](./6327-resonance.json) |
 | Resonance in Orbit | 408192 | [408192-resonance-in-orbit.json](./408192-resonance-in-orbit.json) |
 | Resonance of Fate | 7159 | [7159-resonance-of-fate.json](./7159-resonance-of-fate.json) |
 | Resonance of Fate 4k/HD Edition | 109580 | [109580-resonance-of-fate-4k-hd-edition.json](./109580-resonance-of-fate-4k-hd-edition.json) |
