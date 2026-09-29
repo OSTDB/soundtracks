@@ -13867,6 +13867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricky Test 2018 | 105794 | [105794-tricky-test-2018.json](./105794-tricky-test-2018.json) |
 | Tricky Thief | 240180 | [240180-tricky-thief.json](./240180-tricky-thief.json) |
 | Tricky Tracks | 229335 | [229335-tricky-tracks.json](./229335-tricky-tracks.json) |
+| Tricky Truck | 22651 | [22651-tricky-truck.json](./22651-tricky-truck.json) |
 | Tricky Tube | 106524 | [106524-tricky-tube.json](./106524-tricky-tube.json) |
 | Tricky Typing | 195604 | [195604-tricky-typing.json](./195604-tricky-typing.json) |
 | Triclinium | 189046 | [189046-triclinium.json](./189046-triclinium.json) |
@@ -14095,6 +14096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trooper 1 | 74292 | [74292-trooper-1.json](./74292-trooper-1.json) |
 | Trophies | 286064 | [286064-trophies.json](./286064-trophies.json) |
 | Trophy | 143070 | [143070-trophy.json](./143070-trophy.json) |
+| Trophy Bass | 22625 | [22625-trophy-bass.json](./22625-trophy-bass.json) |
 | Trophy Hunt | 275129 | [275129-trophy-hunt.json](./275129-trophy-hunt.json) |
 | Trophy Knight | 219527 | [219527-trophy-knight.json](./219527-trophy-knight.json) |
 | Trophy Truck Racing Tour | 369650 | [369650-trophy-truck-racing-tour.json](./369650-trophy-truck-racing-tour.json) |
