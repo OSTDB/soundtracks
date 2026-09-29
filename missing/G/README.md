@@ -1535,6 +1535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gesshoku | 273346 | [273346-gesshoku.json](./273346-gesshoku.json) |
 | Gessou! Dangun Racer Onsoku Buster: Dangun Tama | 281457 | [281457-gessou-dangun-racer-onsoku-buster-dangun-tama.json](./281457-gessou-dangun-racer-onsoku-buster-dangun-tama.json) |
 | Gestalt_OS | 270657 | [270657-gestalt-os.json](./270657-gestalt-os.json) |
+| Gestalt: Steam & Cinder | 130076 | [130076-gestalt-steam-and-cinder.json](./130076-gestalt-steam-and-cinder.json) |
 | Gestalt: The Fifth Day | 275730 | [275730-gestalt-the-fifth-day.json](./275730-gestalt-the-fifth-day.json) |
 | Gestures Towards Divinity | 393510 | [393510-gestures-towards-divinity.json](./393510-gestures-towards-divinity.json) |
 | Gestüt: Ein Leben für die Pferde | 136369 | [136369-gestut-ein-leben-fur-die-pferde.json](./136369-gestut-ein-leben-fur-die-pferde.json) |
@@ -2730,6 +2731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godzilla: Destroy All Monsters Melee | 3935 | [3935-godzilla-destroy-all-monsters-melee.json](./3935-godzilla-destroy-all-monsters-melee.json) |
 | Godzilla: Destroy All Monsters Melee Remastered | 404939 | [404939-godzilla-destroy-all-monsters-melee-remastered.json](./404939-godzilla-destroy-all-monsters-melee-remastered.json) |
 | Godzilla: Doki-doki Kaijuu-tou!! | 75890 | [75890-godzilla-doki-doki-kaijuu-tou.json](./75890-godzilla-doki-doki-kaijuu-tou.json) |
+| Godzilla: Save the Earth | 5847 | [5847-godzilla-save-the-earth.json](./5847-godzilla-save-the-earth.json) |
 | Godzilla: The Game | 8731 | [8731-godzilla-the-game.json](./8731-godzilla-the-game.json) |
 | Godzilla: The Series | 75893 | [75893-godzilla-the-series.json](./75893-godzilla-the-series.json) |
 | Goemon: Mononoke Sugoroku | 3507 | [3507-goemon-mononoke-sugoroku.json](./3507-goemon-mononoke-sugoroku.json) |
@@ -3605,6 +3607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grater | 115629 | [115629-grater.json](./115629-grater.json) |
 | Gratia | 183021 | [183021-gratia.json](./183021-gratia.json) |
 | Gratuitous Animal Massacre | 119748 | [119748-gratuitous-animal-massacre.json](./119748-gratuitous-animal-massacre.json) |
+| Gratuitous Space Battles | 6256 | [6256-gratuitous-space-battles.json](./6256-gratuitous-space-battles.json) |
 | Gratuitous Space Battles: Galactic Conquest | 164341 | [164341-gratuitous-space-battles-galactic-conquest.json](./164341-gratuitous-space-battles-galactic-conquest.json) |
 | Gratuitous Space Battles: The Nomads | 164339 | [164339-gratuitous-space-battles-the-nomads.json](./164339-gratuitous-space-battles-the-nomads.json) |
 | Gratuitous Space Battles: The Order | 164342 | [164342-gratuitous-space-battles-the-order.json](./164342-gratuitous-space-battles-the-order.json) |
