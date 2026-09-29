@@ -261,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dali | 409075 | [409075-dali.json](./409075-dali.json) |
 | Dallyeola Pigu Wang | 125971 | [125971-dallyeola-pigu-wang.json](./125971-dallyeola-pigu-wang.json) |
 | Dalmatians 2 | 44846 | [44846-dalmatians-2.json](./44846-dalmatians-2.json) |
+| Dalmatians 3 | 43473 | [43473-dalmatians-3.json](./43473-dalmatians-3.json) |
 | Dalo | 207514 | [207514-dalo.json](./207514-dalo.json) |
 | Daloman Depths | 159139 | [159139-daloman-depths.json](./159139-daloman-depths.json) |
 | Dalton: The Awesome! | 263577 | [263577-dalton-the-awesome.json](./263577-dalton-the-awesome.json) |
@@ -4095,6 +4096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur | 139988 | [139988-dinosaur.json](./139988-dinosaur.json) |
 | Dinosaur | 310972 | [310972-dinosaur.json](./310972-dinosaur.json) |
 | Dinosaur Adventure | 114507 | [114507-dinosaur-adventure.json](./114507-dinosaur-adventure.json) |
+| Dinosaur Adventure | 43472 | [43472-dinosaur-adventure.json](./43472-dinosaur-adventure.json) |
 | Dinosaur Adventure 3-D | 69808 | [69808-dinosaur-adventure-3-d.json](./69808-dinosaur-adventure-3-d.json) |
 | Dinosaur Assassin: I-Evolution | 264013 | [264013-dinosaur-assassin-i-evolution.json](./264013-dinosaur-assassin-i-evolution.json) |
 | Dinosaur Battlegrounds | 57127 | [57127-dinosaur-battlegrounds.json](./57127-dinosaur-battlegrounds.json) |
