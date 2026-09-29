@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.E.R.C. | 26540 | [26540-m-e-r-c.json](./26540-m-e-r-c.json) |
 | M.E.S.S. | 313264 | [313264-m-e-s-s.json](./313264-m-e-s-s.json) |
 | M.I.A | 75044 | [75044-m-i-a.json](./75044-m-i-a.json) |
+| M.I.A.: Mission in Asia | 53384 | [53384-m-i-a-mission-in-asia.json](./53384-m-i-a-mission-in-asia.json) |
 | M.I.C.E. | 168676 | [168676-m-i-c-e.json](./168676-m-i-c-e.json) |
 | M.I.N.D. | 95234 | [95234-m-i-n-d.json](./95234-m-i-n-d.json) |
 | M.O.O.D.S. | 199487 | [199487-m-o-o-d-s.json](./199487-m-o-o-d-s.json) |
@@ -4627,6 +4628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Flight Simulator X: Acceleration | 713 | [713-microsoft-flight-simulator-x-acceleration.json](./713-microsoft-flight-simulator-x-acceleration.json) |
 | Microsoft Flight Simulator X: Deluxe Edition | 23775 | [23775-microsoft-flight-simulator-x-deluxe-edition.json](./23775-microsoft-flight-simulator-x-deluxe-edition.json) |
 | Microsoft Flight Simulator X: Iris F-15E/I/SG | 224498 | [224498-microsoft-flight-simulator-x-iris-f-15e-i-sg.json](./224498-microsoft-flight-simulator-x-iris-f-15e-i-sg.json) |
+| Microsoft Flight Simulator X: Mega Airport London Heathrow Xtended | 53362 | [53362-microsoft-flight-simulator-x-mega-airport-london-heathrow-xtended.json](./53362-microsoft-flight-simulator-x-mega-airport-london-heathrow-xtended.json) |
 | Microsoft Flight Simulator X: Steam Edition | 36261 | [36261-microsoft-flight-simulator-x-steam-edition.json](./36261-microsoft-flight-simulator-x-steam-edition.json) |
 | Microsoft Flight Simulator X: Steam Edition - 3D Lights Redux | 161889 | [161889-microsoft-flight-simulator-x-steam-edition-3d-lights-redux.json](./161889-microsoft-flight-simulator-x-steam-edition-3d-lights-redux.json) |
 | Microsoft Flight Simulator X: Steam Edition - 737 Extreme Sound | 161820 | [161820-microsoft-flight-simulator-x-steam-edition-737-extreme-sound.json](./161820-microsoft-flight-simulator-x-steam-edition-737-extreme-sound.json) |
@@ -4780,6 +4782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Middle Manager of Justice | 9133 | [9133-middle-manager-of-justice.json](./9133-middle-manager-of-justice.json) |
 | Middle-earth: Shadow of War - Definitive Edition | 106764 | [106764-middle-earth-shadow-of-war-definitive-edition.json](./106764-middle-earth-shadow-of-war-definitive-edition.json) |
 | Middle-earth: Shadow of War - Outlaw Tribe Nemesis | 164808 | [164808-middle-earth-shadow-of-war-outlaw-tribe-nemesis.json](./164808-middle-earth-shadow-of-war-outlaw-tribe-nemesis.json) |
+| Middle-earth: Shadow of War - Silver Edition | 53358 | [53358-middle-earth-shadow-of-war-silver-edition.json](./53358-middle-earth-shadow-of-war-silver-edition.json) |
 | Middle-earth: Shadow of War Mobile | 52198 | [52198-middle-earth-shadow-of-war-mobile.json](./52198-middle-earth-shadow-of-war-mobile.json) |
 | Miden Tower: Experience & SP x2 | 171021 | [171021-miden-tower-experience-and-sp-x2.json](./171021-miden-tower-experience-and-sp-x2.json) |
 | Miden Tower: Experience x3 | 171020 | [171020-miden-tower-experience-x3.json](./171020-miden-tower-experience-x3.json) |
@@ -4888,6 +4891,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiG Alley | 789 | [789-mig-alley.json](./789-mig-alley.json) |
 | MiG-29 Fulcrum | 229931 | [229931-mig-29-fulcrum.json](./229931-mig-29-fulcrum.json) |
 | Migawari Shoujo | 150571 | [150571-migawari-shoujo.json](./150571-migawari-shoujo.json) |
+| Might & Magic Collection | 53357 | [53357-might-and-magic-collection.json](./53357-might-and-magic-collection.json) |
+| Might & Magic Heroes VI: Complete Edition | 53356 | [53356-might-and-magic-heroes-vi-complete-edition.json](./53356-might-and-magic-heroes-vi-complete-edition.json) |
+| Might & Magic Heroes VII: Deluxe Edition | 53355 | [53355-might-and-magic-heroes-vii-deluxe-edition.json](./53355-might-and-magic-heroes-vii-deluxe-edition.json) |
 | Might & Magic: Clash of Heroes | 1889 | [1889-might-and-magic-clash-of-heroes.json](./1889-might-and-magic-clash-of-heroes.json) |
 | Might & Magic: Duel of Champions - Forgotten Wars | 52586 | [52586-might-and-magic-duel-of-champions-forgotten-wars.json](./52586-might-and-magic-duel-of-champions-forgotten-wars.json) |
 | Might & Magic: Elemental Guardians | 70707 | [70707-might-and-magic-elemental-guardians.json](./70707-might-and-magic-elemental-guardians.json) |
@@ -5761,6 +5767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mireille and Amrita, the Forest of Illusions | 188512 | [188512-mireille-and-amrita-the-forest-of-illusions.json](./188512-mireille-and-amrita-the-forest-of-illusions.json) |
 | Mirelaine | 360065 | [360065-mirelaine.json](./360065-mirelaine.json) |
 | Miriam: The Escape | 175703 | [175703-miriam-the-escape.json](./175703-miriam-the-escape.json) |
+| Miriel's Enchanted Mystery | 53386 | [53386-miriels-enchanted-mystery.json](./53386-miriels-enchanted-mystery.json) |
 | Mirk | 179584 | [179584-mirk.json](./179584-mirk.json) |
 | Mirko Polo | 298564 | [298564-mirko-polo.json](./298564-mirko-polo.json) |
 | Miro | 291051 | [291051-miro.json](./291051-miro.json) |
@@ -5855,6 +5862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss Princess Miss Pri | 204400 | [204400-miss-princess-miss-pri.json](./204400-miss-princess-miss-pri.json) |
 | Miss Spider's Sunny Patch Friends: Harvest Time Hop and Fly | 7979 | [7979-miss-spiders-sunny-patch-friends-harvest-time-hop-and-fly.json](./7979-miss-spiders-sunny-patch-friends-harvest-time-hop-and-fly.json) |
 | Miss Spider's Tea Party | 73804 | [73804-miss-spiders-tea-party.json](./73804-miss-spiders-tea-party.json) |
+| Miss Teri Tale | 53385 | [53385-miss-teri-tale.json](./53385-miss-teri-tale.json) |
 | Miss World '96 | 38567 | [38567-miss-world-96.json](./38567-miss-world-96.json) |
 | Missile Base | 13740 | [13740-missile-base.json](./13740-missile-base.json) |
 | Missile City AeroLeague | 249807 | [249807-missile-city-aeroleague.json](./249807-missile-city-aeroleague.json) |
@@ -6149,6 +6157,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mó Xiān Duì Duì Pèng | 359472 | [359472-mo-xian-dui-dui-peng.json](./359472-mo-xian-dui-dui-peng.json) |
 | Moadra | 190169 | [190169-moadra.json](./190169-moadra.json) |
 | Moai Alley | 332802 | [332802-moai-alley.json](./332802-moai-alley.json) |
+| Moai III: Trade Mission - Collector's Edition | 53382 | [53382-moai-iii-trade-mission-collectors-edition.json](./53382-moai-iii-trade-mission-collectors-edition.json) |
+| Moai IV: Terra Incognita | 53381 | [53381-moai-iv-terra-incognita.json](./53381-moai-iv-terra-incognita.json) |
 | Moaisland | 298140 | [298140-moaisland.json](./298140-moaisland.json) |
 | MOAR: Appeteaser | 209718 | [209718-moar-appeteaser.json](./209718-moar-appeteaser.json) |
 | Mob Control | 227808 | [227808-mob-control.json](./227808-mob-control.json) |
@@ -6859,6 +6869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster in the Dark: Remaster | 195275 | [195275-monster-in-the-dark-remaster.json](./195275-monster-in-the-dark-remaster.json) |
 | Monster Island | 295237 | [295237-monster-island.json](./295237-monster-island.json) |
 | Monster Island HD | 175739 | [175739-monster-island-hd.json](./175739-monster-island-hd.json) |
+| Monster Jam Battlegrounds | 53379 | [53379-monster-jam-battlegrounds.json](./53379-monster-jam-battlegrounds.json) |
 | Monster Jam Game | 260194 | [260194-monster-jam-game.json](./260194-monster-jam-game.json) |
 | Monster Jam Showdown: Bad News Travels Fast | 339291 | [339291-monster-jam-showdown-bad-news-travels-fast.json](./339291-monster-jam-showdown-bad-news-travels-fast.json) |
 | Monster Jam Showdown: Big Air Edition | 308808 | [308808-monster-jam-showdown-big-air-edition.json](./308808-monster-jam-showdown-big-air-edition.json) |
@@ -7043,6 +7054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MonsterTerritory | 167250 | [167250-monsterterritory.json](./167250-monsterterritory.json) |
 | Monsterthon | 39005 | [39005-monsterthon.json](./39005-monsterthon.json) |
 | Monsterwolf | 156009 | [156009-monsterwolf.json](./156009-monsterwolf.json) |
+| Monsti: Special Edition | 53378 | [53378-monsti-special-edition.json](./53378-monsti-special-edition.json) |
 | Monstir Iradicator | 221121 | [221121-monstir-iradicator.json](./221121-monstir-iradicator.json) |
 | Monstre de Coiffure | 207822 | [207822-monstre-de-coiffure.json](./207822-monstre-de-coiffure.json) |
 | Monstrix TCG Card Shop | 334083 | [334083-monstrix-tcg-card-shop.json](./334083-monstrix-tcg-card-shop.json) |
@@ -7054,6 +7066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monstrous Realms | 236202 | [236202-monstrous-realms.json](./236202-monstrous-realms.json) |
 | Monstrum | 10554 | [10554-monstrum.json](./10554-monstrum.json) |
 | Monstrum 2 | 119685 | [119685-monstrum-2.json](./119685-monstrum-2.json) |
+| Monstrum: Deluxe Edition | 53377 | [53377-monstrum-deluxe-edition.json](./53377-monstrum-deluxe-edition.json) |
 | Monsty Corp | 164509 | [164509-monsty-corp.json](./164509-monsty-corp.json) |
 | Monsty Corp: The Prequels | 296059 | [296059-monsty-corp-the-prequels.json](./296059-monsty-corp-the-prequels.json) |
 | Monsty Corp: The Sequels | 296058 | [296058-monsty-corp-the-sequels.json](./296058-monsty-corp-the-sequels.json) |
@@ -7118,6 +7131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Child | 108279 | [108279-moon-child.json](./108279-moon-child.json) |
 | Moon Chronicles | 8606 | [8606-moon-chronicles.json](./8606-moon-chronicles.json) |
 | Moon Colonization Project | 32237 | [32237-moon-colonization-project.json](./32237-moon-colonization-project.json) |
+| Moon Colonization Project: Deluxe Edition | 53375 | [53375-moon-colonization-project-deluxe-edition.json](./53375-moon-colonization-project-deluxe-edition.json) |
 | Moon Cresta | 18762 | [18762-moon-cresta.json](./18762-moon-cresta.json) |
 | Moon Crystal | 48620 | [48620-moon-crystal.json](./48620-moon-crystal.json) |
 | Moon Crystals | 172710 | [172710-moon-crystals.json](./172710-moon-crystals.json) |
@@ -7294,6 +7308,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mordfield Command | 304874 | [304874-mordfield-command.json](./304874-mordfield-command.json) |
 | Mordhau: Platinum Edition | 305495 | [305495-mordhau-platinum-edition.json](./305495-mordhau-platinum-edition.json) |
 | Mordheim: City of the Damned - Complete Edition | 121424 | [121424-mordheim-city-of-the-damned-complete-edition.json](./121424-mordheim-city-of-the-damned-complete-edition.json) |
+| Mordheim: City of the Damned - Doomweaver | 53373 | [53373-mordheim-city-of-the-damned-doomweaver.json](./53373-mordheim-city-of-the-damned-doomweaver.json) |
+| Mordheim: City of the Damned - The Poison Wind Globadier | 53372 | [53372-mordheim-city-of-the-damned-the-poison-wind-globadier.json](./53372-mordheim-city-of-the-damned-the-poison-wind-globadier.json) |
+| Mordheim: City of the Damned - The Smuggler | 53371 | [53371-mordheim-city-of-the-damned-the-smuggler.json](./53371-mordheim-city-of-the-damned-the-smuggler.json) |
+| Mordheim: City of the Damned - Undead | 53370 | [53370-mordheim-city-of-the-damned-undead.json](./53370-mordheim-city-of-the-damned-undead.json) |
+| Mordheim: City of the Damned - Witch Hunters | 53369 | [53369-mordheim-city-of-the-damned-witch-hunters.json](./53369-mordheim-city-of-the-damned-witch-hunters.json) |
+| Mordheim: City of the Damned - Wolf-Priest of Ulric | 53368 | [53368-mordheim-city-of-the-damned-wolf-priest-of-ulric.json](./53368-mordheim-city-of-the-damned-wolf-priest-of-ulric.json) |
 | Mordheim: Warband Skirmish | 34295 | [34295-mordheim-warband-skirmish.json](./34295-mordheim-warband-skirmish.json) |
 | More and More | 113057 | [113057-more-and-more.json](./113057-more-and-more.json) |
 | More Bloons | 261910 | [261910-more-bloons.json](./261910-more-bloons.json) |
@@ -7465,6 +7485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat X: Klassic Fatalities 2 | 340022 | [340022-mortal-kombat-x-klassic-fatalities-2.json](./340022-mortal-kombat-x-klassic-fatalities-2.json) |
 | Mortal Kombat X: Kold War Scorpion | 340201 | [340201-mortal-kombat-x-kold-war-scorpion.json](./340201-mortal-kombat-x-kold-war-scorpion.json) |
 | Mortal Kombat X: Predator | 164819 | [164819-mortal-kombat-x-predator.json](./164819-mortal-kombat-x-predator.json) |
+| Mortal Kombat X: Premium Edition | 53367 | [53367-mortal-kombat-x-premium-edition.json](./53367-mortal-kombat-x-premium-edition.json) |
 | Mortal Kombat X: Special Edition | 140997 | [140997-mortal-kombat-x-special-edition.json](./140997-mortal-kombat-x-special-edition.json) |
 | Mortal Kombat: Kollector's Edition | 44559 | [44559-mortal-kombat-kollectors-edition.json](./44559-mortal-kombat-kollectors-edition.json) |
 | Mortal Kombat: Komplete Edition | 2977 | [2977-mortal-kombat-komplete-edition.json](./2977-mortal-kombat-komplete-edition.json) |
@@ -7687,6 +7708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotoGP 14: Red Bull Rookies Cup DLC | 168357 | [168357-motogp-14-red-bull-rookies-cup-dlc.json](./168357-motogp-14-red-bull-rookies-cup-dlc.json) |
 | MotoGP 15 | 11275 | [11275-motogp-15.json](./11275-motogp-15.json) |
 | MotoGP 15: GP de Portugal Circuito Estoril | 168359 | [168359-motogp-15-gp-de-portugal-circuito-estoril.json](./168359-motogp-15-gp-de-portugal-circuito-estoril.json) |
+| MotoGP 15: Special Edition | 53366 | [53366-motogp-15-special-edition.json](./53366-motogp-15-special-edition.json) |
 | MotoGP 19 | 116136 | [116136-motogp-19.json](./116136-motogp-19.json) |
 | MotoGP 19: Historical Pack | 168362 | [168362-motogp-19-historical-pack.json](./168362-motogp-19-historical-pack.json) |
 | MotoGP 20: Historic Pack | 168361 | [168361-motogp-20-historic-pack.json](./168361-motogp-20-historic-pack.json) |
@@ -7731,6 +7753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotoRodeo | 40787 | [40787-motorodeo.json](./40787-motorodeo.json) |
 | Motorsiege: Warriors of Primetime | 44637 | [44637-motorsiege-warriors-of-primetime.json](./44637-motorsiege-warriors-of-primetime.json) |
 | Motorsport Manager | 19293 | [19293-motorsport-manager.json](./19293-motorsport-manager.json) |
+| Motorsport Manager - GT Series | 53365 | [53365-motorsport-manager-gt-series.json](./53365-motorsport-manager-gt-series.json) |
 | Motorsport Manager 2 | 408153 | [408153-motorsport-manager-2.json](./408153-motorsport-manager-2.json) |
 | Motorsport Manager Mobile 3 | 105772 | [105772-motorsport-manager-mobile-3.json](./105772-motorsport-manager-mobile-3.json) |
 | Motorstorm: 3D Rift | 74322 | [74322-motorstorm-3d-rift.json](./74322-motorstorm-3d-rift.json) |
@@ -7774,6 +7797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moubootaur Legends | 177425 | [177425-moubootaur-legends.json](./177425-moubootaur-legends.json) |
 | Mouja | 197958 | [197958-mouja.json](./197958-mouja.json) |
 | Mouldy Old Void | 303020 | [303020-mouldy-old-void.json](./303020-mouldy-old-void.json) |
+| Mount & Blade Full Collection | 53364 | [53364-mount-and-blade-full-collection.json](./53364-mount-and-blade-full-collection.json) |
 | Mount & Blade II: Bannerlord - War Sails | 336151 | [336151-mount-and-blade-ii-bannerlord-war-sails.json](./336151-mount-and-blade-ii-bannerlord-war-sails.json) |
 | Mount & Blade: Warband - Napoleonic Wars | 8784 | [8784-mount-and-blade-warband-napoleonic-wars.json](./8784-mount-and-blade-warband-napoleonic-wars.json) |
 | Mount Everest Story | 174331 | [174331-mount-everest-story.json](./174331-mount-everest-story.json) |
@@ -8036,6 +8060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Runner | 246474 | [246474-mr-runner.json](./246474-mr-runner.json) |
 | Mr. Saitou | 228357 | [228357-mr-saitou.json](./228357-mr-saitou.json) |
 | Mr. Setam: Lady Killer | 61118 | [61118-mr-setam-lady-killer.json](./61118-mr-setam-lady-killer.json) |
+| Mr. Shifty: Collector's Edition | 53388 | [53388-mr-shifty-collectors-edition.json](./53388-mr-shifty-collectors-edition.json) |
 | Mr. Shootem Breaks Out! | 266210 | [266210-mr-shootem-breaks-out.json](./266210-mr-shootem-breaks-out.json) |
 | Mr. Shorty | 337074 | [337074-mr-shorty.json](./337074-mr-shorty.json) |
 | Mr. Stackman | 395215 | [395215-mr-stackman.json](./395215-mr-stackman.json) |
@@ -8107,6 +8132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mt. Doubt | 101979 | [101979-mt-doubt.json](./101979-mt-doubt.json) |
 | MTB Dirt | 154999 | [154999-mtb-dirt.json](./154999-mtb-dirt.json) |
 | MTB DirtCross | 298860 | [298860-mtb-dirtcross.json](./298860-mtb-dirtcross.json) |
+| MTB Downhill Simulator | 53389 | [53389-mtb-downhill-simulator.json](./53389-mtb-downhill-simulator.json) |
 | MTF: Moth To a Flame | 379980 | [379980-mtf-moth-to-a-flame.json](./379980-mtf-moth-to-a-flame.json) |
 | Mtn Chaos | 257963 | [257963-mtn-chaos.json](./257963-mtn-chaos.json) |
 | MTP Target | 71566 | [71566-mtp-target.json](./71566-mtp-target.json) |
@@ -8547,6 +8573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX Nitro: Unleashed | 133400 | [133400-mx-nitro-unleashed.json](./133400-mx-nitro-unleashed.json) |
 | MX Racing World | 364704 | [364704-mx-racing-world.json](./364704-mx-racing-world.json) |
 | MX vs. ATV All Out: 2020 Pro Nationals Edition | 206779 | [206779-mx-vs-atv-all-out-2020-pro-nationals-edition.json](./206779-mx-vs-atv-all-out-2020-pro-nationals-edition.json) |
+| MX vs. ATV Collection | 53390 | [53390-mx-vs-atv-collection.json](./53390-mx-vs-atv-collection.json) |
 | MX vs. ATV Legends: 2023 AMA Pro Motocross Championship | 253898 | [253898-mx-vs-atv-legends-2023-ama-pro-motocross-championship.json](./253898-mx-vs-atv-legends-2023-ama-pro-motocross-championship.json) |
 | MX vs. ATV Legends: Track Pass | 350652 | [350652-mx-vs-atv-legends-track-pass.json](./350652-mx-vs-atv-legends-track-pass.json) |
 | MX vs. ATV: Legends - 2023 Track Pass | 287113 | [287113-mx-vs-atv-legends-2023-track-pass.json](./287113-mx-vs-atv-legends-2023-track-pass.json) |
@@ -8722,6 +8749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Fantasy Wedding | 73354 | [73354-my-fantasy-wedding.json](./73354-my-fantasy-wedding.json) |
 | My Farm | 107900 | [107900-my-farm.json](./107900-my-farm.json) |
 | My Farm | 85610 | [85610-my-farm.json](./85610-my-farm.json) |
+| My Farm Life | 53391 | [53391-my-farm-life.json](./53391-my-farm-life.json) |
 | My Father My Son | 188684 | [188684-my-father-my-son.json](./188684-my-father-my-son.json) |
 | My Favorite Dream Girls | 401695 | [401695-my-favorite-dream-girls.json](./401695-my-favorite-dream-girls.json) |
 | My Favorite Match | 179510 | [179510-my-favorite-match.json](./179510-my-favorite-match.json) |
@@ -9247,8 +9275,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysterious Adventure of Michael 2 | 190103 | [190103-mysterious-adventure-of-michael-2.json](./190103-mysterious-adventure-of-michael-2.json) |
 | Mysterious Blocks 2 | 152857 | [152857-mysterious-blocks-2.json](./152857-mysterious-blocks-2.json) |
 | Mysterious Castle | 205008 | [205008-mysterious-castle.json](./205008-mysterious-castle.json) |
+| Mysterious City Vegas | 53392 | [53392-mysterious-city-vegas.json](./53392-mysterious-city-vegas.json) |
 | Mysterious Forum and 7 Rumors | 115484 | [115484-mysterious-forum-and-7-rumors.json](./115484-mysterious-forum-and-7-rumors.json) |
 | Mysterious insects | 82468 | [82468-mysterious-insects.json](./82468-mysterious-insects.json) |
+| Mysterious Island Remastered | 53393 | [53393-mysterious-island-remastered.json](./53393-mysterious-island-remastered.json) |
 | Mysterious Island: A Hidden Object Adventure | 195758 | [195758-mysterious-island-a-hidden-object-adventure.json](./195758-mysterious-island-a-hidden-object-adventure.json) |
 | Mysterious Island: A Race Against Time and Hot Lava | 200136 | [200136-mysterious-island-a-race-against-time-and-hot-lava.json](./200136-mysterious-island-a-race-against-time-and-hot-lava.json) |
 | Mysterious Islandz | 322385 | [322385-mysterious-islandz.json](./322385-mysterious-islandz.json) |
@@ -9300,6 +9330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Manor | 88456 | [88456-mystery-manor.json](./88456-mystery-manor.json) |
 | Mystery Mansion | 353879 | [353879-mystery-mansion.json](./353879-mystery-mansion.json) |
 | Mystery Master: Felony! | 73291 | [73291-mystery-master-felony.json](./73291-mystery-master-felony.json) |
+| Mystery Masterpiece: The Moonstone | 53394 | [53394-mystery-masterpiece-the-moonstone.json](./53394-mystery-masterpiece-the-moonstone.json) |
 | Mystery Masters: Carnival of Crime - Collector's Edition | 201820 | [201820-mystery-masters-carnival-of-crime-collectors-edition.json](./201820-mystery-masters-carnival-of-crime-collectors-edition.json) |
 | Mystery Masters: Mysteries of the Heart | 201812 | [201812-mystery-masters-mysteries-of-the-heart.json](./201812-mystery-masters-mysteries-of-the-heart.json) |
 | Mystery Masters: Psycho Train - Deluxe Edition | 35884 | [35884-mystery-masters-psycho-train-deluxe-edition.json](./35884-mystery-masters-psycho-train-deluxe-edition.json) |
