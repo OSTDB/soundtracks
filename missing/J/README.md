@@ -1061,6 +1061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny 9: The Return | 124704 | [124704-johnny-9-the-return.json](./124704-johnny-9-the-return.json) |
 | Johnny Bonasera: Full Season | 147821 | [147821-johnny-bonasera-full-season.json](./147821-johnny-bonasera-full-season.json) |
 | Johnny Boy: Red Moon's Kiss | 188651 | [188651-johnny-boy-red-moons-kiss.json](./188651-johnny-boy-red-moons-kiss.json) |
+| Johnny Bravo in The Hukka-Mega-Mighty-Ultra-Extreme Date-O-Rama! | 3248 | [3248-johnny-bravo-in-the-hukka-mega-mighty-ultra-extreme-date-o-rama.json](./3248-johnny-bravo-in-the-hukka-mega-mighty-ultra-extreme-date-o-rama.json) |
 | Johnny Chainsaw | 154466 | [154466-johnny-chainsaw.json](./154466-johnny-chainsaw.json) |
 | Johnny Dynamite | 85212 | [85212-johnny-dynamite.json](./85212-johnny-dynamite.json) |
 | Johnny Hotshot | 21006 | [21006-johnny-hotshot.json](./21006-johnny-hotshot.json) |
@@ -1754,7 +1755,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Dance 2026 Edition | 381725 | [381725-just-dance-2026-edition.json](./381725-just-dance-2026-edition.json) |
 | Just Dance 3: Target Exclusive Edition | 375276 | [375276-just-dance-3-target-exclusive-edition.json](./375276-just-dance-3-target-exclusive-edition.json) |
 | Just Dance 4 | 3255 | [3255-just-dance-4.json](./3255-just-dance-4.json) |
+| Just Dance Kids | 3299 | [3299-just-dance-kids.json](./3299-just-dance-kids.json) |
+| Just Dance Wii 2 | 3298 | [3298-just-dance-wii-2.json](./3298-just-dance-wii-2.json) |
 | Just Dance Wii U | 15560 | [15560-just-dance-wii-u.json](./15560-just-dance-wii-u.json) |
+| Just Dance: Best Of | 3303 | [3303-just-dance-best-of.json](./3303-just-dance-best-of.json) |
 | Just Dance: Decades of Hits | 409690 | [409690-just-dance-decades-of-hits.json](./409690-just-dance-decades-of-hits.json) |
 | Just Dance: Vitality School | 250329 | [250329-just-dance-vitality-school.json](./250329-just-dance-vitality-school.json) |
 | Just Dance.exe | 292066 | [292066-just-dance-exe.json](./292066-just-dance-exe.json) |
