@@ -5075,6 +5075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Fun Day | 386991 | [386991-bloody-fun-day.json](./386991-bloody-fun-day.json) |
 | Bloody Heaven | 263995 | [263995-bloody-heaven.json](./263995-bloody-heaven.json) |
 | Bloody Heck | 261548 | [261548-bloody-heck.json](./261548-bloody-heck.json) |
+| Bloody Hell | 213501 | [213501-bloody-hell.json](./213501-bloody-hell.json) |
 | Bloody Layne | 174794 | [174794-bloody-layne.json](./174794-bloody-layne.json) |
 | Bloody Merc | 152814 | [152814-bloody-merc.json](./152814-bloody-merc.json) |
 | Bloody Roar 2 | 4140 | [4140-bloody-roar-2.json](./4140-bloody-roar-2.json) |
@@ -6710,6 +6711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breach Point | 118823 | [118823-breach-point.json](./118823-breach-point.json) |
 | Breach: Veil Demon DLC | 170327 | [170327-breach-veil-demon-dlc.json](./170327-breach-veil-demon-dlc.json) |
 | Bread | 178027 | [178027-bread.json](./178027-bread.json) |
+| Bread & Fred | 204524 | [204524-bread-and-fred.json](./204524-bread-and-fred.json) |
 | Bread Barbershop Differences | 219819 | [219819-bread-barbershop-differences.json](./219819-bread-barbershop-differences.json) |
 | Bread Fish Clicker | 306637 | [306637-bread-fish-clicker.json](./306637-bread-fish-clicker.json) |
 | Bread Kittens | 159352 | [159352-bread-kittens.json](./159352-bread-kittens.json) |
