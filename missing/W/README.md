@@ -4200,6 +4200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE | 220132 | [220132-wwe.json](./220132-wwe.json) |
 | WWE 2K Battlegrounds: Digital Deluxe Edition | 139826 | [139826-wwe-2k-battlegrounds-digital-deluxe-edition.json](./139826-wwe-2k-battlegrounds-digital-deluxe-edition.json) |
 | WWE 2K16 | 11057 | [11057-wwe-2k16.json](./11057-wwe-2k16.json) |
+| WWE 2K17 | 19516 | [19516-wwe-2k17.json](./19516-wwe-2k17.json) |
 | WWE 2K17: Accelerator | 168353 | [168353-wwe-2k17-accelerator.json](./168353-wwe-2k17-accelerator.json) |
 | WWE 2K17: Deluxe Edition | 52127 | [52127-wwe-2k17-deluxe-edition.json](./52127-wwe-2k17-deluxe-edition.json) |
 | WWE 2K17: Future Stars Pack | 168340 | [168340-wwe-2k17-future-stars-pack.json](./168340-wwe-2k17-future-stars-pack.json) |
