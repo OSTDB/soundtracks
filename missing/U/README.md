@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uboat Attack: Vortice DLC | 316234 | [316234-uboat-attack-vortice-dlc.json](./316234-uboat-attack-vortice-dlc.json) |
 | Uboat Attack: Zeppelin DLC | 316233 | [316233-uboat-attack-zeppelin-dlc.json](./316233-uboat-attack-zeppelin-dlc.json) |
 | Ubok. | 150160 | [150160-ubok.json](./150160-ubok.json) |
+| Ubongo Puzzle Adventure | 53946 | [53946-ubongo-puzzle-adventure.json](./53946-ubongo-puzzle-adventure.json) |
 | UBRocks | 90683 | [90683-ubrocks.json](./90683-ubrocks.json) |
 | Ubu | 356618 | [356618-ubu.json](./356618-ubu.json) |
 | Ubusuna | 61174 | [61174-ubusuna.json](./61174-ubusuna.json) |
@@ -264,7 +265,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Mah-Jongg | 228410 | [228410-ultimate-mah-jongg.json](./228410-ultimate-mah-jongg.json) |
 | Ultimate Mahjongg | 206058 | [206058-ultimate-mahjongg.json](./206058-ultimate-mahjongg.json) |
 | Ultimate Mahjongg 10 | 206057 | [206057-ultimate-mahjongg-10.json](./206057-ultimate-mahjongg-10.json) |
+| Ultimate Mahjongg 20 | 53942 | [53942-ultimate-mahjongg-20.json](./53942-ultimate-mahjongg-20.json) |
 | Ultimate MMA | 133385 | [133385-ultimate-mma.json](./133385-ultimate-mma.json) |
+| Ultimate Monster Trucks | 53941 | [53941-ultimate-monster-trucks.json](./53941-ultimate-monster-trucks.json) |
 | Ultimate Mortal Kombat 3 | 1621 | [1621-ultimate-mortal-kombat-3.json](./1621-ultimate-mortal-kombat-3.json) |
 | Ultimate Mortal Kombat 3 | 283814 | [283814-ultimate-mortal-kombat-3.json](./283814-ultimate-mortal-kombat-3.json) |
 | Ultimate Mortal Kombat 3 | 286690 | [286690-ultimate-mortal-kombat-3.json](./286690-ultimate-mortal-kombat-3.json) |
@@ -283,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Pro Basketball GM | 228122 | [228122-ultimate-pro-basketball-gm.json](./228122-ultimate-pro-basketball-gm.json) |
 | Ultimate Protector | 215679 | [215679-ultimate-protector.json](./215679-ultimate-protector.json) |
 | Ultimate Puzzle Games: Sudoku Edition | 124111 | [124111-ultimate-puzzle-games-sudoku-edition.json](./124111-ultimate-puzzle-games-sudoku-edition.json) |
+| Ultimate Puzzles 1500 | 53940 | [53940-ultimate-puzzles-1500.json](./53940-ultimate-puzzles-1500.json) |
 | Ultimate Racing 2D | 99538 | [99538-ultimate-racing-2d.json](./99538-ultimate-racing-2d.json) |
 | Ultimate Racing 2D 2 | 164891 | [164891-ultimate-racing-2d-2.json](./164891-ultimate-racing-2d-2.json) |
 | Ultimate Ragdoll Game | 329183 | [329183-ultimate-ragdoll-game.json](./329183-ultimate-ragdoll-game.json) |
@@ -805,6 +809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underground Sheriff | 223386 | [223386-underground-sheriff.json](./223386-underground-sheriff.json) |
 | Underground Station | 313227 | [313227-underground-station.json](./313227-underground-station.json) |
 | Underground Waifus TCG | 273365 | [273365-underground-waifus-tcg.json](./273365-underground-waifus-tcg.json) |
+| Underground-Mining-Simulator 2011 | 53938 | [53938-underground-mining-simulator-2011.json](./53938-underground-mining-simulator-2011.json) |
 | Undergrown | 244488 | [244488-undergrown.json](./244488-undergrown.json) |
 | Underhell | 144877 | [144877-underhell.json](./144877-underhell.json) |
 | Underhero | 36652 | [36652-underhero.json](./36652-underhero.json) |
@@ -1306,6 +1311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unsung Heroes: The Golden Mask | 124146 | [124146-unsung-heroes-the-golden-mask.json](./124146-unsung-heroes-the-golden-mask.json) |
 | Unsung Kingdom | 137486 | [137486-unsung-kingdom.json](./137486-unsung-kingdom.json) |
 | Unsung Knight | 163811 | [163811-unsung-knight.json](./163811-unsung-knight.json) |
+| Unsung Story | 53927 | [53927-unsung-story.json](./53927-unsung-story.json) |
 | Unsung Warriors | 113881 | [113881-unsung-warriors.json](./113881-unsung-warriors.json) |
 | Unsustainable: a god job | 180842 | [180842-unsustainable-a-god-job.json](./180842-unsustainable-a-god-job.json) |
 | Untameable | 313800 | [313800-untameable.json](./313800-untameable.json) |
