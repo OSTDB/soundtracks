@@ -2269,6 +2269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Rally Championship Plus NetLink Edition | 374707 | [374707-sega-rally-championship-plus-netlink-edition.json](./374707-sega-rally-championship-plus-netlink-edition.json) |
 | Sega Rally Online Arcade | 20592 | [20592-sega-rally-online-arcade.json](./20592-sega-rally-online-arcade.json) |
 | Sega Rally Revo | 209018 | [209018-sega-rally-revo.json](./209018-sega-rally-revo.json) |
+| Sega Ski Super G | 39796 | [39796-sega-ski-super-g.json](./39796-sega-ski-super-g.json) |
 | Sega Smash Pack | 136875 | [136875-sega-smash-pack.json](./136875-sega-smash-pack.json) |
 | Sega Smash Pack 2 | 74302 | [74302-sega-smash-pack-2.json](./74302-sega-smash-pack-2.json) |
 | Sega Smash Pack: Twin Pack | 136874 | [136874-sega-smash-pack-twin-pack.json](./136874-sega-smash-pack-twin-pack.json) |
@@ -2278,6 +2279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Superstars Tennis | 255326 | [255326-sega-superstars-tennis.json](./255326-sega-superstars-tennis.json) |
 | Sega Top Five | 78759 | [78759-sega-top-five.json](./78759-sega-top-five.json) |
 | Sega Top Ten | 78756 | [78756-sega-top-ten.json](./78756-sega-top-ten.json) |
+| Sega Touring Car Championship | 39795 | [39795-sega-touring-car-championship.json](./39795-sega-touring-car-championship.json) |
 | Sega Vintage Collection: Alex Kidd & Co. | 79259 | [79259-sega-vintage-collection-alex-kidd-and-co.json](./79259-sega-vintage-collection-alex-kidd-and-co.json) |
 | Sega Vintage Collection: ToeJam & Earl | 85812 | [85812-sega-vintage-collection-toejam-and-earl.json](./85812-sega-vintage-collection-toejam-and-earl.json) |
 | Sega World Drivers Championship | 293742 | [293742-sega-world-drivers-championship.json](./293742-sega-world-drivers-championship.json) |
@@ -5613,6 +5615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Shepherd | 117103 | [117103-sky-shepherd.json](./117103-sky-shepherd.json) |
 | Sky Skipper | 18546 | [18546-sky-skipper.json](./18546-sky-skipper.json) |
 | Sky Skipper | 288336 | [288336-sky-skipper.json](./288336-sky-skipper.json) |
+| Sky Smasher | 39800 | [39800-sky-smasher.json](./39800-sky-smasher.json) |
 | Sky Sojourn | 261839 | [261839-sky-sojourn.json](./261839-sky-sojourn.json) |
 | Sky Sports Football Manager | 94003 | [94003-sky-sports-football-manager.json](./94003-sky-sports-football-manager.json) |
 | Sky Squadron | 139477 | [139477-sky-squadron.json](./139477-sky-squadron.json) |
@@ -5798,6 +5801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SlasherRPG | 224515 | [224515-slasherrpg.json](./224515-slasherrpg.json) |
 | Slashing Night | 340365 | [340365-slashing-night.json](./340365-slashing-night.json) |
 | Slashing Samurai | 181779 | [181779-slashing-samurai.json](./181779-slashing-samurai.json) |
+| Slashout | 39792 | [39792-slashout.json](./39792-slashout.json) |
 | Slashvival | 115001 | [115001-slashvival.json](./115001-slashvival.json) |
 | Slashy Chords: Guitar Warriors | 256541 | [256541-slashy-chords-guitar-warriors.json](./256541-slashy-chords-guitar-warriors.json) |
 | Slashy Hero | 31357 | [31357-slashy-hero.json](./31357-slashy-hero.json) |
@@ -6828,6 +6832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Battle Princess Sayuki | 191180 | [191180-snow-battle-princess-sayuki.json](./191180-snow-battle-princess-sayuki.json) |
 | Snow Beast Chess | 355203 | [355203-snow-beast-chess.json](./355203-snow-beast-chess.json) |
 | Snow Blocks 2 | 272929 | [272929-snow-blocks-2.json](./272929-snow-blocks-2.json) |
+| Snow Board Championship | 39801 | [39801-snow-board-championship.json](./39801-snow-board-championship.json) |
 | Snow Bound Land | 77419 | [77419-snow-bound-land.json](./77419-snow-bound-land.json) |
 | Snow Break | 94210 | [94210-snow-break.json](./94210-snow-break.json) |
 | Snow Bros. 2: With New Elves | 39842 | [39842-snow-bros-2-with-new-elves.json](./39842-snow-bros-2-with-new-elves.json) |
@@ -7412,6 +7417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitar: Retro Picks | 305516 | [305516-solitar-retro-picks.json](./305516-solitar-retro-picks.json) |
 | Solitarius | 189035 | [189035-solitarius.json](./189035-solitarius.json) |
 | Solitary Cat | 273423 | [273423-solitary-cat.json](./273423-solitary-cat.json) |
+| Solitary Fighter | 39802 | [39802-solitary-fighter.json](./39802-solitary-fighter.json) |
 | Solitiare 95: The Classic Game | 108952 | [108952-solitiare-95-the-classic-game.json](./108952-solitiare-95-the-classic-game.json) |
 | Solitile | 353921 | [353921-solitile.json](./353921-solitile.json) |
 | Solitomb | 325859 | [325859-solitomb.json](./325859-solitomb.json) |
@@ -7454,6 +7460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solune | 272359 | [272359-solune.json](./272359-solune.json) |
 | Solus | 137016 | [137016-solus.json](./137016-solus.json) |
 | Solus Machina | 348340 | [348340-solus-machina.json](./348340-solus-machina.json) |
+| Solvalou | 39805 | [39805-solvalou.json](./39805-solvalou.json) |
 | Solve & Roll | 259552 | [259552-solve-and-roll.json](./259552-solve-and-roll.json) |
 | Solve et Coagula | 280910 | [280910-solve-et-coagula.json](./280910-solve-et-coagula.json) |
 | Solve This! Emoji Puzzle | 213596 | [213596-solve-this-emoji-puzzle.json](./213596-solve-this-emoji-puzzle.json) |
@@ -7681,6 +7688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Billiards | 261246 | [261246-sonic-billiards.json](./261246-sonic-billiards.json) |
 | Sonic Black Ace | 331957 | [331957-sonic-black-ace.json](./331957-sonic-black-ace.json) |
 | Sonic Blast | 202267 | [202267-sonic-blast.json](./202267-sonic-blast.json) |
+| Sonic Blast Man | 39804 | [39804-sonic-blast-man.json](./39804-sonic-blast-man.json) |
 | Sonic Blasters | 334140 | [334140-sonic-blasters.json](./334140-sonic-blasters.json) |
 | Sonic Blaze | 330512 | [330512-sonic-blaze.json](./330512-sonic-blaze.json) |
 | Sonic Boom | 12855 | [12855-sonic-boom.json](./12855-sonic-boom.json) |
@@ -8592,6 +8600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Cats Saga: Chapter II | 196024 | [196024-space-cats-saga-chapter-ii.json](./196024-space-cats-saga-chapter-ii.json) |
 | Space Channel 5: Ulala's Cosmic Attack | 23716 | [23716-space-channel-5-ulalas-cosmic-attack.json](./23716-space-channel-5-ulalas-cosmic-attack.json) |
 | Space Chase: Odyssey | 333599 | [333599-space-chase-odyssey.json](./333599-space-chase-odyssey.json) |
+| Space Chaser | 39803 | [39803-space-chaser.json](./39803-space-chaser.json) |
 | Space Cheese Defenders | 278511 | [278511-space-cheese-defenders.json](./278511-space-cheese-defenders.json) |
 | Space Chef | 132526 | [132526-space-chef.json](./132526-space-chef.json) |
 | Space Chicks | 60792 | [60792-space-chicks.json](./60792-space-chicks.json) |
@@ -9700,6 +9709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spikeout: Battle Street | 6056 | [6056-spikeout-battle-street.json](./6056-spikeout-battle-street.json) |
 | SpikeOut: Final Edition | 319157 | [319157-spikeout-final-edition.json](./319157-spikeout-final-edition.json) |
 | Spiker | 46869 | [46869-spiker.json](./46869-spiker.json) |
+| Spikers Battle | 39791 | [39791-spikers-battle.json](./39791-spikers-battle.json) |
 | Spikes Are Dangerous | 118434 | [118434-spikes-are-dangerous.json](./118434-spikes-are-dangerous.json) |
 | Spikey Walls | 59445 | [59445-spikey-walls.json](./59445-spikey-walls.json) |
 | Spikit | 31908 | [31908-spikit.json](./31908-spikit.json) |
@@ -10883,6 +10893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Vortex | 154021 | [154021-star-vortex.json](./154021-star-vortex.json) |
 | Star Voyage: Treasure Hunting | 301240 | [301240-star-voyage-treasure-hunting.json](./301240-star-voyage-treasure-hunting.json) |
 | Star Waker | 55275 | [55275-star-waker.json](./55275-star-waker.json) |
+| Star Warfare 2: Payback | 39784 | [39784-star-warfare-2-payback.json](./39784-star-warfare-2-payback.json) |
 | Star Warped | 71483 | [71483-star-warped.json](./71483-star-warped.json) |
 | Star Warrior | 94241 | [94241-star-warrior.json](./94241-star-warrior.json) |
 | Star Wars | 12858 | [12858-star-wars.json](./12858-star-wars.json) |
@@ -14716,6 +14727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sonic in Sonic the Hedgehog | 198527 | [198527-super-sonic-in-sonic-the-hedgehog.json](./198527-super-sonic-in-sonic-the-hedgehog.json) |
 | Super Sonic Racer | 87993 | [87993-super-sonic-racer.json](./87993-super-sonic-racer.json) |
 | Super Sonic Speed Course | 321115 | [321115-super-sonic-speed-course.json](./321115-super-sonic-speed-course.json) |
+| Super Sonic Surge | 39786 | [39786-super-sonic-surge.json](./39786-super-sonic-surge.json) |
 | Super Space Arcade | 260229 | [260229-super-space-arcade.json](./260229-super-space-arcade.json) |
 | Super Space Invaders | 12859 | [12859-super-space-invaders.json](./12859-super-space-invaders.json) |
 | Super Space Jump Man | 115628 | [115628-super-space-jump-man.json](./115628-super-space-jump-man.json) |
@@ -15924,6 +15936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symphony of Science | 271850 | [271850-symphony-of-science.json](./271850-symphony-of-science.json) |
 | Symphony of Souls | 253573 | [253573-symphony-of-souls.json](./253573-symphony-of-souls.json) |
 | Symphony of the Night | 181156 | [181156-symphony-of-the-night.json](./181156-symphony-of-the-night.json) |
+| Symphony of the Origin | 39783 | [39783-symphony-of-the-origin.json](./39783-symphony-of-the-origin.json) |
 | Symphony of War: Legends | 252370 | [252370-symphony-of-war-legends.json](./252370-symphony-of-war-legends.json) |
 | Symphony of War: The Nephilim Saga | 192840 | [192840-symphony-of-war-the-nephilim-saga.json](./192840-symphony-of-war-the-nephilim-saga.json) |
 | Symphorix | 333400 | [333400-symphorix.json](./333400-symphorix.json) |
