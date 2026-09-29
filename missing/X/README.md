@@ -359,6 +359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xibalba | 61156 | [61156-xibalba.json](./61156-xibalba.json) |
 | Xìbāo Zhànzhēng | 116112 | [116112-xibao-zhanzheng.json](./116112-xibao-zhanzheng.json) |
 | XII Stag | 43340 | [43340-xii-stag.json](./43340-xii-stag.json) |
+| XIII | 117509 | [117509-xiii.json](./117509-xiii.json) |
 | XIII Century: Blood of Europe | 9311 | [9311-xiii-century-blood-of-europe.json](./9311-xiii-century-blood-of-europe.json) |
 | XIII Century: Death or Glory | 9860 | [9860-xiii-century-death-or-glory.json](./9860-xiii-century-death-or-glory.json) |
 | Xile | 54731 | [54731-xile.json](./54731-xile.json) |
