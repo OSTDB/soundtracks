@@ -476,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultraviolet | 287149 | [287149-ultraviolet.json](./287149-ultraviolet.json) |
 | Ultrawings | 27323 | [27323-ultrawings.json](./27323-ultrawings.json) |
 | Ultrawings Flat | 113038 | [113038-ultrawings-flat.json](./113038-ultrawings-flat.json) |
+| Ultraworld Exodus | 36184 | [36184-ultraworld-exodus.json](./36184-ultraworld-exodus.json) |
 | Ultrazone | 268223 | [268223-ultrazone.json](./268223-ultrazone.json) |
 | Ultris: The Ultimate Tetris | 14520 | [14520-ultris-the-ultimate-tetris.json](./14520-ultris-the-ultimate-tetris.json) |
 | Ultron | 57133 | [57133-ultron.json](./57133-ultron.json) |
@@ -640,6 +641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncharted Waters | 351137 | [351137-uncharted-waters.json](./351137-uncharted-waters.json) |
 | Uncharted Waters IV with Power Up Kit | 145544 | [145544-uncharted-waters-iv-with-power-up-kit.json](./145544-uncharted-waters-iv-with-power-up-kit.json) |
 | Uncharted Waters Online | 102570 | [102570-uncharted-waters-online.json](./102570-uncharted-waters-online.json) |
+| Uncharted Waters Online: Episode Atlantis | 36252 | [36252-uncharted-waters-online-episode-atlantis.json](./36252-uncharted-waters-online-episode-atlantis.json) |
 | Uncharted Waters Origin | 138704 | [138704-uncharted-waters-origin.json](./138704-uncharted-waters-origin.json) |
 | Uncharted Waters: New Horizons | 102810 | [102810-uncharted-waters-new-horizons.json](./102810-uncharted-waters-new-horizons.json) |
 | Uncharted Waters: New Horizons | 38412 | [38412-uncharted-waters-new-horizons.json](./38412-uncharted-waters-new-horizons.json) |
