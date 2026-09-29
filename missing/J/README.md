@@ -1434,6 +1434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumper Platform | 231944 | [231944-jumper-platform.json](./231944-jumper-platform.json) |
 | Jumper Three | 79910 | [79910-jumper-three.json](./79910-jumper-three.json) |
 | Jumper, Jumpy Time Attack Adventure | 309367 | [309367-jumper-jumpy-time-attack-adventure.json](./309367-jumper-jumpy-time-attack-adventure.json) |
+| Jumper: Speedrun | 55253 | [55253-jumper-speedrun.json](./55253-jumper-speedrun.json) |
 | Jumper's Doom | 351634 | [351634-jumpers-doom.json](./351634-jumpers-doom.json) |
 | Jumpers League | 329960 | [329960-jumpers-league.json](./329960-jumpers-league.json) |
 | JumpFall.io | 327943 | [327943-jumpfall-io.json](./327943-jumpfall-io.json) |
@@ -1441,6 +1442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpgate Evolution | 94708 | [94708-jumpgate-evolution.json](./94708-jumpgate-evolution.json) |
 | Jumpgate: The Reconstruction Initiative | 765 | [765-jumpgate-the-reconstruction-initiative.json](./765-jumpgate-the-reconstruction-initiative.json) |
 | Jumpgrid | 111420 | [111420-jumpgrid.json](./111420-jumpgrid.json) |
+| JumpGuy | 55238 | [55238-jumpguy.json](./55238-jumpguy.json) |
 | JumpHead: Battle4Fun! | 108291 | [108291-jumphead-battle4fun.json](./108291-jumphead-battle4fun.json) |
 | Jumphobia | 55946 | [55946-jumphobia.json](./55946-jumphobia.json) |
 | Jumphobia XL | 57047 | [57047-jumphobia-xl.json](./57047-jumphobia-xl.json) |
