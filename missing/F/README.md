@@ -187,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faceless | 340047 | [340047-faceless.json](./340047-faceless.json) |
 | Faceless: Prologue | 320880 | [320880-faceless-prologue.json](./320880-faceless-prologue.json) |
 | Facemaker | 326621 | [326621-facemaker.json](./326621-facemaker.json) |
+| Facemaker | 40897 | [40897-facemaker.json](./40897-facemaker.json) |
 | Faceminer | 257986 | [257986-faceminer.json](./257986-faceminer.json) |
 | Faceoff Hockey 2016 | 58890 | [58890-faceoff-hockey-2016.json](./58890-faceoff-hockey-2016.json) |
 | FaceRig | 11305 | [11305-facerig.json](./11305-facerig.json) |
@@ -408,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falcon Beertender 2 | 286123 | [286123-falcon-beertender-2.json](./286123-falcon-beertender-2.json) |
 | Falcon BMS | 77298 | [77298-falcon-bms.json](./77298-falcon-bms.json) |
 | Falcon Operation: Counterstrike | 73738 | [73738-falcon-operation-counterstrike.json](./73738-falcon-operation-counterstrike.json) |
+| Falcon Patrol II | 40945 | [40945-falcon-patrol-ii.json](./40945-falcon-patrol-ii.json) |
 | Falcon Simulator | 86859 | [86859-falcon-simulator.json](./86859-falcon-simulator.json) |
 | Falcon Squad | 227953 | [227953-falcon-squad.json](./227953-falcon-squad.json) |
 | Falconet | 189102 | [189102-falconet.json](./189102-falconet.json) |
@@ -425,6 +427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall Dudes 3D | 136946 | [136946-fall-dudes-3d.json](./136946-fall-dudes-3d.json) |
 | Fall From Eden | 340053 | [340053-fall-from-eden.json](./340053-fall-from-eden.json) |
 | Fall Gummies | 146796 | [146796-fall-gummies.json](./146796-fall-gummies.json) |
+| Fall Guy | 40927 | [40927-fall-guy.json](./40927-fall-guy.json) |
 | Fall Guys World | 213892 | [213892-fall-guys-world.json](./213892-fall-guys-world.json) |
 | Fall Guys: Avian Angler Pack | 243797 | [243797-fall-guys-avian-angler-pack.json](./243797-fall-guys-avian-angler-pack.json) |
 | Fall Guys: Crow Pack | 243681 | [243681-fall-guys-crow-pack.json](./243681-fall-guys-crow-pack.json) |
@@ -2716,6 +2719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firestriker | 42553 | [42553-firestriker.json](./42553-firestriker.json) |
 | Fireteam Rogue | 42244 | [42244-fireteam-rogue.json](./42244-fireteam-rogue.json) |
 | Firetrack | 38926 | [38926-firetrack.json](./38926-firetrack.json) |
+| FireTrap | 40943 | [40943-firetrap.json](./40943-firetrap.json) |
 | FireTry | 128450 | [128450-firetry.json](./128450-firetry.json) |
 | FireTry: Capture the Flag | 167850 | [167850-firetry-capture-the-flag.json](./167850-firetry-capture-the-flag.json) |
 | Firewall | 230955 | [230955-firewall.json](./230955-firewall.json) |
@@ -3507,6 +3511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flipper Mechanic | 117798 | [117798-flipper-mechanic.json](./117798-flipper-mechanic.json) |
 | Flipper Mechanic Simulator | 244789 | [244789-flipper-mechanic-simulator.json](./244789-flipper-mechanic-simulator.json) |
 | Flipper Pool | 84342 | [84342-flipper-pool.json](./84342-flipper-pool.json) |
+| Flipper Slipper | 40896 | [40896-flipper-slipper.json](./40896-flipper-slipper.json) |
 | Flipper Volcano | 138134 | [138134-flipper-volcano.json](./138134-flipper-volcano.json) |
 | Flippin Misfits | 212809 | [212809-flippin-misfits.json](./212809-flippin-misfits.json) |
 | Flippin' Phones | 58884 | [58884-flippin-phones.json](./58884-flippin-phones.json) |
@@ -4634,6 +4639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune | 357312 | [357312-fortune.json](./357312-fortune.json) |
 | Fortune & Gloria | 105324 | [105324-fortune-and-gloria.json](./105324-fortune-and-gloria.json) |
 | Fortune Arterial | 91514 | [91514-fortune-arterial.json](./91514-fortune-arterial.json) |
+| Fortune Builder | 40895 | [40895-fortune-builder.json](./40895-fortune-builder.json) |
 | Fortune Cookie | 340238 | [340238-fortune-cookie.json](./340238-fortune-cookie.json) |
 | Fortune Cookie | 59928 | [59928-fortune-cookie.json](./59928-fortune-cookie.json) |
 | Fortune Cookie: More Cookies | 340239 | [340239-fortune-cookie-more-cookies.json](./340239-fortune-cookie-more-cookies.json) |
@@ -4989,6 +4995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frantic Dimension | 113514 | [113514-frantic-dimension.json](./113514-frantic-dimension.json) |
 | Frantic Flea | 42620 | [42620-frantic-flea.json](./42620-frantic-flea.json) |
 | Frantic Freddie | 55018 | [55018-frantic-freddie.json](./55018-frantic-freddie.json) |
+| Frantic Freddy | 40894 | [40894-frantic-freddy.json](./40894-frantic-freddy.json) |
 | Franz | 250301 | [250301-franz.json](./250301-franz.json) |
 | Franzen | 263443 | [263443-franzen.json](./263443-franzen.json) |
 | Fraud Camp: Survival Escape | 372455 | [372455-fraud-camp-survival-escape.json](./372455-fraud-camp-survival-escape.json) |
@@ -5393,6 +5400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogger | 288260 | [288260-frogger.json](./288260-frogger.json) |
 | Frogger | 288264 | [288264-frogger.json](./288264-frogger.json) |
 | Frogger | 341890 | [341890-frogger.json](./341890-frogger.json) |
+| Frogger 64 | 40917 | [40917-frogger-64.json](./40917-frogger-64.json) |
 | Frogger Evolution | 218547 | [218547-frogger-evolution.json](./218547-frogger-evolution.json) |
 | Frogger HD | 99998 | [99998-frogger-hd.json](./99998-frogger-hd.json) |
 | Frogger II: ThreeeDeep! | 11464 | [11464-frogger-ii-threeedeep.json](./11464-frogger-ii-threeedeep.json) |
