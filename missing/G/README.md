@@ -3760,6 +3760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Racers | 379054 | [379054-gravity-racers.json](./379054-gravity-racers.json) |
 | Gravity Range | 175333 | [175333-gravity-range.json](./175333-gravity-range.json) |
 | Gravity run | 153432 | [153432-gravity-run.json](./153432-gravity-run.json) |
+| Gravity Rush | 11701 | [11701-gravity-rush.json](./11701-gravity-rush.json) |
 | Gravity Rush Remastered: Collector's Edition | 205265 | [205265-gravity-rush-remastered-collectors-edition.json](./205265-gravity-rush-remastered-collectors-edition.json) |
 | Gravity Shifter | 157056 | [157056-gravity-shifter.json](./157056-gravity-shifter.json) |
 | Gravity Shots | 107112 | [107112-gravity-shots.json](./107112-gravity-shots.json) |
