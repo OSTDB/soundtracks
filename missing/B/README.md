@@ -1022,6 +1022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbershop Simulator | 220351 | [220351-barbershop-simulator.json](./220351-barbershop-simulator.json) |
 | Barbican Of Hell | 271796 | [271796-barbican-of-hell.json](./271796-barbican-of-hell.json) |
 | Barbie | 245570 | [245570-barbie.json](./245570-barbie.json) |
+| Barbie | 3307 | [3307-barbie.json](./3307-barbie.json) |
 | Barbie and Her Magical House | 142980 | [142980-barbie-and-her-magical-house.json](./142980-barbie-and-her-magical-house.json) |
 | Barbie and Her Sisters: Puppy Rescue | 25143 | [25143-barbie-and-her-sisters-puppy-rescue.json](./25143-barbie-and-her-sisters-puppy-rescue.json) |
 | Barbie and the Magic of Pegasus | 248681 | [248681-barbie-and-the-magic-of-pegasus.json](./248681-barbie-and-the-magic-of-pegasus.json) |
@@ -1030,6 +1031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie as Rapunzel | 293190 | [293190-barbie-as-rapunzel.json](./293190-barbie-as-rapunzel.json) |
 | Barbie as Rapunzel: A Creative Adventure | 23781 | [23781-barbie-as-rapunzel-a-creative-adventure.json](./23781-barbie-as-rapunzel-a-creative-adventure.json) |
 | Barbie as Sleeping Beauty | 200605 | [200605-barbie-as-sleeping-beauty.json](./200605-barbie-as-sleeping-beauty.json) |
+| Barbie as the Island Princess | 3309 | [3309-barbie-as-the-island-princess.json](./3309-barbie-as-the-island-princess.json) |
 | Barbie as the Princess and the Pauper | 200590 | [200590-barbie-as-the-princess-and-the-pauper.json](./200590-barbie-as-the-princess-and-the-pauper.json) |
 | Barbie Beauty Styler | 200601 | [200601-barbie-beauty-styler.json](./200601-barbie-beauty-styler.json) |
 | Barbie Dreamhouse Adventures | 255335 | [255335-barbie-dreamhouse-adventures.json](./255335-barbie-dreamhouse-adventures.json) |
@@ -1046,6 +1048,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie for Girls Softball | 245562 | [245562-barbie-for-girls-softball.json](./245562-barbie-for-girls-softball.json) |
 | Barbie for Girls Volleyball | 228545 | [228545-barbie-for-girls-volleyball.json](./228545-barbie-for-girls-volleyball.json) |
 | Barbie Girl | 260128 | [260128-barbie-girl.json](./260128-barbie-girl.json) |
+| Barbie Horse Adventures: Blue Ribbon Race | 3310 | [3310-barbie-horse-adventures-blue-ribbon-race.json](./3310-barbie-horse-adventures-blue-ribbon-race.json) |
+| Barbie Horse Adventures: Wild Horse Rescue | 3311 | [3311-barbie-horse-adventures-wild-horse-rescue.json](./3311-barbie-horse-adventures-wild-horse-rescue.json) |
 | Barbie in the 12 Dancing Princesses | 200591 | [200591-barbie-in-the-12-dancing-princesses.json](./200591-barbie-in-the-12-dancing-princesses.json) |
 | Barbie in the 12 Dancing Princesses | 293194 | [293194-barbie-in-the-12-dancing-princesses.json](./293194-barbie-in-the-12-dancing-princesses.json) |
 | Barbie Jewelry Designer | 200597 | [200597-barbie-jewelry-designer.json](./200597-barbie-jewelry-designer.json) |
@@ -1060,10 +1064,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie Rewind | 405096 | [405096-barbie-rewind.json](./405096-barbie-rewind.json) |
 | Barbie Sparkle Blast | 97319 | [97319-barbie-sparkle-blast.json](./97319-barbie-sparkle-blast.json) |
 | Barbie Storymaker | 144332 | [144332-barbie-storymaker.json](./144332-barbie-storymaker.json) |
+| Barbie Super Sports | 3313 | [3313-barbie-super-sports.json](./3313-barbie-super-sports.json) |
 | Barbie: Explorer | 3314 | [3314-barbie-explorer.json](./3314-barbie-explorer.json) |
 | Barbie: Fairytopia | 273990 | [273990-barbie-fairytopia.json](./273990-barbie-fairytopia.json) |
 | Barbie: Fun & Fashion Dogs | 117136 | [117136-barbie-fun-and-fashion-dogs.json](./117136-barbie-fun-and-fashion-dogs.json) |
 | Barbie: Gotta Have Games | 43884 | [43884-barbie-gotta-have-games.json](./43884-barbie-gotta-have-games.json) |
+| Barbie: Groom and Glam Pups | 3316 | [3316-barbie-groom-and-glam-pups.json](./3316-barbie-groom-and-glam-pups.json) |
 | Barbie: Horse Ride & Rescue | 398424 | [398424-barbie-horse-ride-and-rescue.json](./398424-barbie-horse-ride-and-rescue.json) |
 | Barbie: Let's Baby-Sit Baby Krissy | 293192 | [293192-barbie-lets-baby-sit-baby-krissy.json](./293192-barbie-lets-baby-sit-baby-krissy.json) |
 | Barbie: Let’s Make Music | 293198 | [293198-barbie-let-s-make-music.json](./293198-barbie-let-s-make-music.json) |
@@ -1074,6 +1080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie: Puppy Water Sliders | 293193 | [293193-barbie-puppy-water-sliders.json](./293193-barbie-puppy-water-sliders.json) |
 | Barbie: Shoe Hunt | 293197 | [293197-barbie-shoe-hunt.json](./293197-barbie-shoe-hunt.json) |
 | Barbie: Treasures in Time | 200596 | [200596-barbie-treasures-in-time.json](./200596-barbie-treasures-in-time.json) |
+| Barbie: Vacation Adventure | 3318 | [3318-barbie-vacation-adventure.json](./3318-barbie-vacation-adventure.json) |
 | Barbie's Game Room | 293188 | [293188-barbies-game-room.json](./293188-barbies-game-room.json) |
 | Barbie's Team Gymnastics | 59942 | [59942-barbies-team-gymnastics.json](./59942-barbies-team-gymnastics.json) |
 | Barboozeled | 214732 | [214732-barboozeled.json](./214732-barboozeled.json) |
@@ -3318,6 +3325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Loot | 345048 | [345048-big-loot.json](./345048-big-loot.json) |
 | Big Mac: The Mad Maintenance Man | 47221 | [47221-big-mac-the-mad-maintenance-man.json](./47221-big-mac-the-mad-maintenance-man.json) |
 | Big Mess | 176354 | [176354-big-mess.json](./176354-big-mess.json) |
+| Big Mountain 2000 | 3367 | [3367-big-mountain-2000.json](./3367-big-mountain-2000.json) |
 | Big Mountain Snowboarding | 88322 | [88322-big-mountain-snowboarding.json](./88322-big-mountain-snowboarding.json) |
 | Big Mutha Truckers | 3809 | [3809-big-mutha-truckers.json](./3809-big-mutha-truckers.json) |
 | Big Names Bonanza | 19683 | [19683-big-names-bonanza.json](./19683-big-names-bonanza.json) |
