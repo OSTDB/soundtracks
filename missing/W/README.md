@@ -1090,6 +1090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waterfall | 251196 | [251196-waterfall.json](./251196-waterfall.json) |
 | Waterfall Canyon | 223683 | [223683-waterfall-canyon.json](./223683-waterfall-canyon.json) |
 | Waterful | 404861 | [404861-waterful.json](./404861-waterful.json) |
+| Watergate Xtreme | 52090 | [52090-watergate-xtreme.json](./52090-watergate-xtreme.json) |
 | Watering a Flower | 183907 | [183907-watering-a-flower.json](./183907-watering-a-flower.json) |
 | Waterjacked! | 362330 | [362330-waterjacked.json](./362330-waterjacked.json) |
 | Waterloo | 12821 | [12821-waterloo.json](./12821-waterloo.json) |
@@ -2634,6 +2635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Olympic Games | 365676 | [365676-winter-olympic-games.json](./365676-winter-olympic-games.json) |
 | Winter Shard | 125413 | [125413-winter-shard.json](./125413-winter-shard.json) |
 | Winter Sports 2011: Go for Gold | 27645 | [27645-winter-sports-2011-go-for-gold.json](./27645-winter-sports-2011-go-for-gold.json) |
+| Winter Sports 2012: Feel the Spirit | 52136 | [52136-winter-sports-2012-feel-the-spirit.json](./52136-winter-sports-2012-feel-the-spirit.json) |
 | Winter Sports Games: 4K Edition | 192326 | [192326-winter-sports-games-4k-edition.json](./192326-winter-sports-games-4k-edition.json) |
 | Winter Sports: The Ultimate Challenge | 5284 | [5284-winter-sports-the-ultimate-challenge.json](./5284-winter-sports-the-ultimate-challenge.json) |
 | Winter Spring | 82187 | [82187-winter-spring.json](./82187-winter-spring.json) |
@@ -2652,6 +2654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Walk 2006 | 326780 | [326780-winter-walk-2006.json](./326780-winter-walk-2006.json) |
 | Winter Wally | 60036 | [60036-winter-wally.json](./60036-winter-wally.json) |
 | Winter With You | 188108 | [188108-winter-with-you.json](./188108-winter-with-you.json) |
+| Winter Wolves Classic Games Collection | 52135 | [52135-winter-wolves-classic-games-collection.json](./52135-winter-wolves-classic-games-collection.json) |
 | Winter Wonderland | 31179 | [31179-winter-wonderland.json](./31179-winter-wonderland.json) |
 | Winter Wonderland | 80461 | [80461-winter-wonderland.json](./80461-winter-wonderland.json) |
 | Winter Worm, Summer Grass | 127105 | [127105-winter-worm-summer-grass.json](./127105-winter-worm-summer-grass.json) |
@@ -2758,6 +2761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch It | 30408 | [30408-witch-it.json](./30408-witch-it.json) |
 | Witch Maker | 334321 | [334321-witch-maker.json](./334321-witch-maker.json) |
 | Witch n' Wiz | 179670 | [179670-witch-n-wiz.json](./179670-witch-n-wiz.json) |
+| Witch of Ice Kingdom Collection | 52134 | [52134-witch-of-ice-kingdom-collection.json](./52134-witch-of-ice-kingdom-collection.json) |
 | Witch Pachi | 334293 | [334293-witch-pachi.json](./334293-witch-pachi.json) |
 | Witch Play House | 372689 | [372689-witch-play-house.json](./372689-witch-play-house.json) |
 | Witch Potion | 221427 | [221427-witch-potion.json](./221427-witch-potion.json) |
@@ -3048,6 +3052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfenstein II: The Freedom Chronicles - Season Pass | 75847 | [75847-wolfenstein-ii-the-freedom-chronicles-season-pass.json](./75847-wolfenstein-ii-the-freedom-chronicles-season-pass.json) |
 | Wolfenstein II: The New Colossus - The Amazing Deeds of Captain Wilkins | 75846 | [75846-wolfenstein-ii-the-new-colossus-the-amazing-deeds-of-captain-wilkins.json](./75846-wolfenstein-ii-the-new-colossus-the-amazing-deeds-of-captain-wilkins.json) |
 | Wolfenstein II: The New Colossus - The Diaries of Agent Silent Death | 75845 | [75845-wolfenstein-ii-the-new-colossus-the-diaries-of-agent-silent-death.json](./75845-wolfenstein-ii-the-new-colossus-the-diaries-of-agent-silent-death.json) |
+| Wolfenstein II: The New Colossus Digital Deluxe Edition | 52133 | [52133-wolfenstein-ii-the-new-colossus-digital-deluxe-edition.json](./52133-wolfenstein-ii-the-new-colossus-digital-deluxe-edition.json) |
 | Wolfenstein VCS: The Next Mission | 77284 | [77284-wolfenstein-vcs-the-next-mission.json](./77284-wolfenstein-vcs-the-next-mission.json) |
 | Wolfenstein X: Hearts of Liberty | 143081 | [143081-wolfenstein-x-hearts-of-liberty.json](./143081-wolfenstein-x-hearts-of-liberty.json) |
 | Wolfenstein: Alt History Collection | 139958 | [139958-wolfenstein-alt-history-collection.json](./139958-wolfenstein-alt-history-collection.json) |
@@ -3196,6 +3201,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wood Walker | 395874 | [395874-wood-walker.json](./395874-wood-walker.json) |
 | Wood'N'Destroy | 396367 | [396367-woodndestroy.json](./396367-woodndestroy.json) |
 | Woodclicker | 101929 | [101929-woodclicker.json](./101929-woodclicker.json) |
+| Woodcutter Simulator 2011 | 52132 | [52132-woodcutter-simulator-2011.json](./52132-woodcutter-simulator-2011.json) |
+| Woodcutter Simulator 2012 | 52131 | [52131-woodcutter-simulator-2012.json](./52131-woodcutter-simulator-2012.json) |
 | Woodcutter Simulator 2013 | 16900 | [16900-woodcutter-simulator-2013.json](./16900-woodcutter-simulator-2013.json) |
 | Wooden House | 23726 | [23726-wooden-house.json](./23726-wooden-house.json) |
 | Wooden Nickel | 115663 | [115663-wooden-nickel.json](./115663-wooden-nickel.json) |
@@ -3291,6 +3298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Game | 88428 | [88428-word-game.json](./88428-word-game.json) |
 | Word Games - Order letters and create words | 96070 | [96070-word-games-order-letters-and-create-words.json](./96070-word-games-order-letters-and-create-words.json) |
 | Word Guru - Puzzle Word Game | 89233 | [89233-word-guru-puzzle-word-game.json](./89233-word-guru-puzzle-word-game.json) |
+| Word Harmony | 52130 | [52130-word-harmony.json](./52130-word-harmony.json) |
 | Word Jumblerama Blitz | 89575 | [89575-word-jumblerama-blitz.json](./89575-word-jumblerama-blitz.json) |
 | Word Killer: Revolution | 29968 | [29968-word-killer-revolution.json](./29968-word-killer-revolution.json) |
 | Word Killer: Zorgilonian Chronicles | 29967 | [29967-word-killer-zorgilonian-chronicles.json](./29967-word-killer-zorgilonian-chronicles.json) |
@@ -3468,6 +3476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World at War: WW2 Strategy MMO | 141899 | [141899-world-at-war-ww2-strategy-mmo.json](./141899-world-at-war-ww2-strategy-mmo.json) |
 | World Basketball Manager 2 | 44284 | [44284-world-basketball-manager-2.json](./44284-world-basketball-manager-2.json) |
 | World Basketball Manager Tycoon | 9365 | [9365-world-basketball-manager-tycoon.json](./9365-world-basketball-manager-tycoon.json) |
+| World Basketball Tycoon | 52129 | [52129-world-basketball-tycoon.json](./52129-world-basketball-tycoon.json) |
 | World Beast War | 138230 | [138230-world-beast-war.json](./138230-world-beast-war.json) |
 | World Bowling | 49005 | [49005-world-bowling.json](./49005-world-bowling.json) |
 | World Boxing | 48599 | [48599-world-boxing.json](./48599-world-boxing.json) |
@@ -3553,6 +3562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Mosaics 5 | 415909 | [415909-world-mosaics-5.json](./415909-world-mosaics-5.json) |
 | World Mosaics 7 | 415947 | [415947-world-mosaics-7.json](./415947-world-mosaics-7.json) |
 | World Mosaics IV | 135249 | [135249-world-mosaics-iv.json](./135249-world-mosaics-iv.json) |
+| World of Anikids | 52123 | [52123-world-of-anikids.json](./52123-world-of-anikids.json) |
 | World of Blade: Zombie Slasher | 245324 | [245324-world-of-blade-zombie-slasher.json](./245324-world-of-blade-zombie-slasher.json) |
 | World of Blocks | 273388 | [273388-world-of-blocks.json](./273388-world-of-blocks.json) |
 | World of Buh | 216821 | [216821-world-of-buh.json](./216821-world-of-buh.json) |
@@ -3590,6 +3600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Movies: Puzzle Game Challenge | 328463 | [328463-world-of-movies-puzzle-game-challenge.json](./328463-world-of-movies-puzzle-game-challenge.json) |
 | World of Myths | 112493 | [112493-world-of-myths.json](./112493-world-of-myths.json) |
 | World of One | 39012 | [39012-world-of-one.json](./39012-world-of-one.json) |
+| World of One: Holistic Edition | 52122 | [52122-world-of-one-holistic-edition.json](./52122-world-of-one-holistic-edition.json) |
 | World of Outlaws: Dirt Racing | 213356 | [213356-world-of-outlaws-dirt-racing.json](./213356-world-of-outlaws-dirt-racing.json) |
 | World of Outlaws: Dirt Racing 2023 - Ultimate Edition | 261877 | [261877-world-of-outlaws-dirt-racing-2023-ultimate-edition.json](./261877-world-of-outlaws-dirt-racing-2023-ultimate-edition.json) |
 | World of Outlaws: Dirt Racing 24 Gold Edition | 330341 | [330341-world-of-outlaws-dirt-racing-24-gold-edition.json](./330341-world-of-outlaws-dirt-racing-24-gold-edition.json) |
@@ -3767,6 +3778,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War II: Tank Commander | 205825 | [205825-world-war-ii-tank-commander.json](./205825-world-war-ii-tank-commander.json) |
 | World War II: TCG | 115174 | [115174-world-war-ii-tcg.json](./115174-world-war-ii-tcg.json) |
 | World War One | 21137 | [21137-world-war-one.json](./21137-world-war-one.json) |
+| World War One: Centennial Edition | 52113 | [52113-world-war-one-centennial-edition.json](./52113-world-war-one-centennial-edition.json) |
+| World War One: Gold Edition | 52114 | [52114-world-war-one-gold-edition.json](./52114-world-war-one-gold-edition.json) |
 | World War Party: Game of Trump | 75054 | [75054-world-war-party-game-of-trump.json](./75054-world-war-party-game-of-trump.json) |
 | World War Polygon | 175693 | [175693-world-war-polygon.json](./175693-world-war-polygon.json) |
 | World War Robot | 180713 | [180713-world-war-robot.json](./180713-world-war-robot.json) |
@@ -3889,6 +3902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms Revolution | 9334 | [9334-worms-revolution.json](./9334-worms-revolution.json) |
 | Worms Revolution: Customization Pack | 225085 | [225085-worms-revolution-customization-pack.json](./225085-worms-revolution-customization-pack.json) |
 | Worms Revolution: Deluxe Edition | 94889 | [94889-worms-revolution-deluxe-edition.json](./94889-worms-revolution-deluxe-edition.json) |
+| Worms Revolution: Gold Edition | 52111 | [52111-worms-revolution-gold-edition.json](./52111-worms-revolution-gold-edition.json) |
 | Worms Rumble: Action All-Stars Pack | 261333 | [261333-worms-rumble-action-all-stars-pack.json](./261333-worms-rumble-action-all-stars-pack.json) |
 | Worms Rumble: Bank Heist Double Pack | 225086 | [225086-worms-rumble-bank-heist-double-pack.json](./225086-worms-rumble-bank-heist-double-pack.json) |
 | Worms Rumble: Captain & Shark Double Pack | 225087 | [225087-worms-rumble-captain-and-shark-double-pack.json](./225087-worms-rumble-captain-and-shark-double-pack.json) |
@@ -3901,6 +3915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms: The Revolution Collection | 44577 | [44577-worms-the-revolution-collection.json](./44577-worms-the-revolution-collection.json) |
 | Worms: Ultimate Mayhem | 9333 | [9333-worms-ultimate-mayhem.json](./9333-worms-ultimate-mayhem.json) |
 | Worms: Ultimate Mayhem - Customization Pack | 225090 | [225090-worms-ultimate-mayhem-customization-pack.json](./225090-worms-ultimate-mayhem-customization-pack.json) |
+| Worms: Ultimate Mayhem - Deluxe Edition | 52112 | [52112-worms-ultimate-mayhem-deluxe-edition.json](./52112-worms-ultimate-mayhem-deluxe-edition.json) |
 | Wormspell | 317981 | [317981-wormspell.json](./317981-wormspell.json) |
 | Wormswarm | 275344 | [275344-wormswarm.json](./275344-wormswarm.json) |
 | Wormventures: Barrier 51 | 196132 | [196132-wormventures-barrier-51.json](./196132-wormventures-barrier-51.json) |
@@ -4080,7 +4095,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wunderverse | 106359 | [106359-wunderverse.json](./106359-wunderverse.json) |
 | Wunkfall | 413887 | [413887-wunkfall.json](./413887-wunkfall.json) |
 | Wuppo: Definitive Edition | 124120 | [124120-wuppo-definitive-edition.json](./124120-wuppo-definitive-edition.json) |
+| Wuppo: Special Edition | 52121 | [52121-wuppo-special-edition.json](./52121-wuppo-special-edition.json) |
 | Wuppo: Super Deluxe Edition | 118903 | [118903-wuppo-super-deluxe-edition.json](./118903-wuppo-super-deluxe-edition.json) |
+| Wuppo: Ultimate Edition | 52120 | [52120-wuppo-ultimate-edition.json](./52120-wuppo-ultimate-edition.json) |
 | Wurd Torn | 58230 | [58230-wurd-torn.json](./58230-wurd-torn.json) |
 | Wurdle | 105533 | [105533-wurdle.json](./105533-wurdle.json) |
 | Wurdweb | 165047 | [165047-wurdweb.json](./165047-wurdweb.json) |
@@ -4112,8 +4129,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K Battlegrounds: Digital Deluxe Edition | 139826 | [139826-wwe-2k-battlegrounds-digital-deluxe-edition.json](./139826-wwe-2k-battlegrounds-digital-deluxe-edition.json) |
 | WWE 2K16 | 11057 | [11057-wwe-2k16.json](./11057-wwe-2k16.json) |
 | WWE 2K17: Accelerator | 168353 | [168353-wwe-2k17-accelerator.json](./168353-wwe-2k17-accelerator.json) |
+| WWE 2K17: Deluxe Edition | 52127 | [52127-wwe-2k17-deluxe-edition.json](./52127-wwe-2k17-deluxe-edition.json) |
 | WWE 2K17: Future Stars Pack | 168340 | [168340-wwe-2k17-future-stars-pack.json](./168340-wwe-2k17-future-stars-pack.json) |
 | WWE 2K17: Hall of Fame Showcase | 168352 | [168352-wwe-2k17-hall-of-fame-showcase.json](./168352-wwe-2k17-hall-of-fame-showcase.json) |
+| WWE 2K17: Hall of Fame Showcase Edition | 52128 | [52128-wwe-2k17-hall-of-fame-showcase-edition.json](./52128-wwe-2k17-hall-of-fame-showcase-edition.json) |
 | WWE 2K17: Legends Pack | 168350 | [168350-wwe-2k17-legends-pack.json](./168350-wwe-2k17-legends-pack.json) |
 | WWE 2K17: New Moves Pack | 168354 | [168354-wwe-2k17-new-moves-pack.json](./168354-wwe-2k17-new-moves-pack.json) |
 | WWE 2K17: Nxt Edition | 205827 | [205827-wwe-2k17-nxt-edition.json](./205827-wwe-2k17-nxt-edition.json) |
