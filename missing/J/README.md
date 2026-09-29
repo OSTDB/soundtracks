@@ -1766,6 +1766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Crow Things | 264321 | [264321-just-crow-things.json](./264321-just-crow-things.json) |
 | Just Dance 2015 | 15559 | [15559-just-dance-2015.json](./15559-just-dance-2015.json) |
 | Just Dance 2018 | 37067 | [37067-just-dance-2018.json](./37067-just-dance-2018.json) |
+| Just Dance 2020 | 119256 | [119256-just-dance-2020.json](./119256-just-dance-2020.json) |
 | Just Dance 2022: Deluxe Edition | 182474 | [182474-just-dance-2022-deluxe-edition.json](./182474-just-dance-2022-deluxe-edition.json) |
 | Just Dance 2022: Ultimate Edition | 196292 | [196292-just-dance-2022-ultimate-edition.json](./196292-just-dance-2022-ultimate-edition.json) |
 | Just Dance 2023 Edition | 250330 | [250330-just-dance-2023-edition.json](./250330-just-dance-2023-edition.json) |
@@ -1784,6 +1785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Date Vegan | 368656 | [368656-just-date-vegan.json](./368656-just-date-vegan.json) |
 | Just deal with it! | 103397 | [103397-just-deal-with-it.json](./103397-just-deal-with-it.json) |
 | Just Death | 36073 | [36073-just-death.json](./36073-just-death.json) |
+| Just Die Already | 134784 | [134784-just-die-already.json](./134784-just-die-already.json) |
 | Just Dismantle | 393137 | [393137-just-dismantle.json](./393137-just-dismantle.json) |
 | Just Drift It ! | 122412 | [122412-just-drift-it.json](./122412-just-drift-it.json) |
 | Just Drive | 286004 | [286004-just-drive.json](./286004-just-drive.json) |
