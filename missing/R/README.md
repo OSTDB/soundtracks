@@ -526,6 +526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railroad Ink Challenge: Forest | 196142 | [196142-railroad-ink-challenge-forest.json](./196142-railroad-ink-challenge-forest.json) |
 | Railroad Scheduler | 295005 | [295005-railroad-scheduler.json](./295005-railroad-scheduler.json) |
 | Railroad Story HD | 175393 | [175393-railroad-story-hd.json](./175393-railroad-story-hd.json) |
+| Railroad Tycoon 3 | 840 | [840-railroad-tycoon-3.json](./840-railroad-tycoon-3.json) |
 | Railroad Tycoon Collection | 53490 | [53490-railroad-tycoon-collection.json](./53490-railroad-tycoon-collection.json) |
 | Railroad Tycoon II: The Second Century | 71480 | [71480-railroad-tycoon-ii-the-second-century.json](./71480-railroad-tycoon-ii-the-second-century.json) |
 | Railroad X | 16663 | [16663-railroad-x.json](./16663-railroad-x.json) |
@@ -1320,6 +1321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Arcade Bike | 126498 | [126498-real-arcade-bike.json](./126498-real-arcade-bike.json) |
 | Real Basketball | 89688 | [89688-real-basketball.json](./89688-real-basketball.json) |
 | Real Bird Fake Bird | 325241 | [325241-real-bird-fake-bird.json](./325241-real-bird-fake-bird.json) |
+| Real Bout Fatal Fury 2: The Newcomers | 46787 | [46787-real-bout-fatal-fury-2-the-newcomers.json](./46787-real-bout-fatal-fury-2-the-newcomers.json) |
 | Real Bout Fatal Fury Best Collection | 70941 | [70941-real-bout-fatal-fury-best-collection.json](./70941-real-bout-fatal-fury-best-collection.json) |
 | Real Bout Garou Densetsu Special: Dominated Mind | 43874 | [43874-real-bout-garou-densetsu-special-dominated-mind.json](./43874-real-bout-garou-densetsu-special-dominated-mind.json) |
 | Real Boxing 2: Remastered | 324127 | [324127-real-boxing-2-remastered.json](./324127-real-boxing-2-remastered.json) |
@@ -5867,6 +5869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Drunken Boxers | 158697 | [158697-russian-drunken-boxers.json](./158697-russian-drunken-boxers.json) |
 | Russian Fight Simulator | 263767 | [263767-russian-fight-simulator.json](./263767-russian-fight-simulator.json) |
 | Russian Fishing | 345561 | [345561-russian-fishing.json](./345561-russian-fishing.json) |
+| Russian Fishing 4 | 56012 | [56012-russian-fishing-4.json](./56012-russian-fishing-4.json) |
 | Russian Gangsta in Hell | 99063 | [99063-russian-gangsta-in-hell.json](./99063-russian-gangsta-in-hell.json) |
 | Russian Life Simulator | 118022 | [118022-russian-life-simulator.json](./118022-russian-life-simulator.json) |
 | Russian Mailman Simulator | 157496 | [157496-russian-mailman-simulator.json](./157496-russian-mailman-simulator.json) |
