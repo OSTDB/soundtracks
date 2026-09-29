@@ -1892,6 +1892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis | 131517 | [131517-tennis.json](./131517-tennis.json) |
 | Tennis | 131530 | [131530-tennis.json](./131530-tennis.json) |
 | Tennis | 131536 | [131536-tennis.json](./131536-tennis.json) |
+| Tennis | 20461 | [20461-tennis.json](./20461-tennis.json) |
 | Tennis | 217967 | [217967-tennis.json](./217967-tennis.json) |
 | Tennis | 64208 | [64208-tennis.json](./64208-tennis.json) |
 | Tennis | 74548 | [74548-tennis.json](./74548-tennis.json) |
@@ -3944,6 +3945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dusk Alliance | 250614 | [250614-the-dusk-alliance.json](./250614-the-dusk-alliance.json) |
 | The Dust Below | 183542 | [183542-the-dust-below.json](./183542-the-dust-below.json) |
 | The Dwarf Run | 34654 | [34654-the-dwarf-run.json](./34654-the-dwarf-run.json) |
+| The Dwarves | 13164 | [13164-the-dwarves.json](./13164-the-dwarves.json) |
 | The Dynasty Of Cats | 258009 | [258009-the-dynasty-of-cats.json](./258009-the-dynasty-of-cats.json) |
 | The E Ball | 108416 | [108416-the-e-ball.json](./108416-the-e-ball.json) |
 | The EA Games Collection | 30219 | [30219-the-ea-games-collection.json](./30219-the-ea-games-collection.json) |
@@ -4961,6 +4963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The IBM Basic Quiz | 79603 | [79603-the-ibm-basic-quiz.json](./79603-the-ibm-basic-quiz.json) |
 | The Iceberg | 180672 | [180672-the-iceberg.json](./180672-the-iceberg.json) |
 | The Icky Mr Fox | 299261 | [299261-the-icky-mr-fox.json](./299261-the-icky-mr-fox.json) |
+| The Ico & Shadow of the Colossus Collection | 21084 | [21084-the-ico-and-shadow-of-the-colossus-collection.json](./21084-the-ico-and-shadow-of-the-colossus-collection.json) |
 | The Idiot's Tale | 87956 | [87956-the-idiots-tale.json](./87956-the-idiots-tale.json) |
 | The Idle | 290006 | [290006-the-idle.json](./290006-the-idle.json) |
 | The Idle Forces: Army Tycoon | 245288 | [245288-the-idle-forces-army-tycoon.json](./245288-the-idle-forces-army-tycoon.json) |
@@ -7457,6 +7460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 3: Midnight Hollow | 14584 | [14584-the-sims-3-midnight-hollow.json](./14584-the-sims-3-midnight-hollow.json) |
 | The Sims 3: Roaring Heights | 14585 | [14585-the-sims-3-roaring-heights.json](./14585-the-sims-3-roaring-heights.json) |
 | The Sims 3: Seasons | 13114 | [13114-the-sims-3-seasons.json](./13114-the-sims-3-seasons.json) |
+| The Sims 3: Showtime | 10980 | [10980-the-sims-3-showtime.json](./10980-the-sims-3-showtime.json) |
 | The Sims 3: Sunlit Tides | 14579 | [14579-the-sims-3-sunlit-tides.json](./14579-the-sims-3-sunlit-tides.json) |
 | The Sims 4 Halloween Bundle | 272558 | [272558-the-sims-4-halloween-bundle.json](./272558-the-sims-4-halloween-bundle.json) |
 | The Sims 4 Love & Family Bundle | 366930 | [366930-the-sims-4-love-and-family-bundle.json](./366930-the-sims-4-love-and-family-bundle.json) |
@@ -7542,6 +7546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 5 | 222273 | [222273-the-sims-5.json](./222273-the-sims-5.json) |
 | The Sims Bustin' Out | 4151 | [4151-the-sims-bustin-out.json](./4151-the-sims-bustin-out.json) |
 | The Sims Carnival: Bumper Blast | 91768 | [91768-the-sims-carnival-bumper-blast.json](./91768-the-sims-carnival-bumper-blast.json) |
+| The Sims Castaway Stories | 13140 | [13140-the-sims-castaway-stories.json](./13140-the-sims-castaway-stories.json) |
 | The Sims Medieval | 10632 | [10632-the-sims-medieval.json](./10632-the-sims-medieval.json) |
 | The Sims Online | 13152 | [13152-the-sims-online.json](./13152-the-sims-online.json) |
 | The Sims: Legacy Collection | 329954 | [329954-the-sims-legacy-collection.json](./329954-the-sims-legacy-collection.json) |
@@ -8275,6 +8280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Twisting Trail of Clues | 295524 | [295524-the-twisting-trail-of-clues.json](./295524-the-twisting-trail-of-clues.json) |
 | The Two Body Problem | 411725 | [411725-the-two-body-problem.json](./411725-the-two-body-problem.json) |
 | The Two of Us | 185944 | [185944-the-two-of-us.json](./185944-the-two-of-us.json) |
+| The Typing of the Dead | 11605 | [11605-the-typing-of-the-dead.json](./11605-the-typing-of-the-dead.json) |
 | The Typing of the Dead: Overkill - Dancing with the Dead DLC | 53785 | [53785-the-typing-of-the-dead-overkill-dancing-with-the-dead-dlc.json](./53785-the-typing-of-the-dead-overkill-dancing-with-the-dead-dlc.json) |
 | The Typing of the Dead: Overkill - Filth DLC | 53786 | [53786-the-typing-of-the-dead-overkill-filth-dlc.json](./53786-the-typing-of-the-dead-overkill-filth-dlc.json) |
 | The Typing of the Dead: Overkill - Love at First Bite DLC | 53867 | [53867-the-typing-of-the-dead-overkill-love-at-first-bite-dlc.json](./53867-the-typing-of-the-dead-overkill-love-at-first-bite-dlc.json) |
@@ -11113,6 +11119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Todos Contra Tcheco | 321780 | [321780-todos-contra-tcheco.json](./321780-todos-contra-tcheco.json) |
 | Toe to Toe: Party Games | 196237 | [196237-toe-to-toe-party-games.json](./196237-toe-to-toe-party-games.json) |
 | Toeic Test DS Training | 124095 | [124095-toeic-test-ds-training.json](./124095-toeic-test-ds-training.json) |
+| ToeJam & Earl in Panic on Funkotron | 11123 | [11123-toejam-and-earl-in-panic-on-funkotron.json](./11123-toejam-and-earl-in-panic-on-funkotron.json) |
 | Toewr le Fence | 157143 | [157143-toewr-le-fence.json](./157143-toewr-le-fence.json) |
 | Tofu Drifter | 234600 | [234600-tofu-drifter.json](./234600-tofu-drifter.json) |
 | Tofu Go! 2: The Onsen Adventure | 242206 | [242206-tofu-go-2-the-onsen-adventure.json](./242206-tofu-go-2-the-onsen-adventure.json) |
@@ -12595,6 +12602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trace 2 | 103654 | [103654-trace-2.json](./103654-trace-2.json) |
 | Trace Blackout: The Perfect Crime Mystery | 401119 | [401119-trace-blackout-the-perfect-crime-mystery.json](./401119-trace-blackout-the-perfect-crime-mystery.json) |
 | Trace Hunters | 279101 | [279101-trace-hunters.json](./279101-trace-hunters.json) |
+| Trace Memory | 18595 | [18595-trace-memory.json](./18595-trace-memory.json) |
 | Trace of the past | 121559 | [121559-trace-of-the-past.json](./121559-trace-of-the-past.json) |
 | Trace of Time | 284337 | [284337-trace-of-time.json](./284337-trace-of-time.json) |
 | Tracery of Fate VR | 207496 | [207496-tracery-of-fate-vr.json](./207496-tracery-of-fate-vr.json) |
