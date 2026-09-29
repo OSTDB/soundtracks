@@ -3198,6 +3198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Now You See | 117439 | [117439-now-you-see.json](./117439-now-you-see.json) |
 | Now You Would Destroy the Earth | 235862 | [235862-now-you-would-destroy-the-earth.json](./235862-now-you-would-destroy-the-earth.json) |
 | Now You've Made Me Crabby | 183058 | [183058-now-youve-made-me-crabby.json](./183058-now-youve-made-me-crabby.json) |
+| Now! That's What I Call Music: Dance & Sing | 56550 | [56550-now-thats-what-i-call-music-dance-and-sing.json](./56550-now-thats-what-i-call-music-dance-and-sing.json) |
 | Nowa Online World | 318623 | [318623-nowa-online-world.json](./318623-nowa-online-world.json) |
 | NoWaitHero | 132237 | [132237-nowaithero.json](./132237-nowaithero.json) |
 | NoWayBack | 202661 | [202661-nowayback.json](./202661-nowayback.json) |
