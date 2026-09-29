@@ -1717,6 +1717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orb Of The Watcher | 285969 | [285969-orb-of-the-watcher.json](./285969-orb-of-the-watcher.json) |
 | Orb Overload | 151146 | [151146-orb-overload.json](./151146-orb-overload.json) |
 | Orb Tower | 331951 | [331951-orb-tower.json](./331951-orb-tower.json) |
+| Orb-3D | 48191 | [48191-orb-3d.json](./48191-orb-3d.json) |
 | Orb's Betrayal | 271732 | [271732-orbs-betrayal.json](./271732-orbs-betrayal.json) |
 | Orbals | 145437 | [145437-orbals.json](./145437-orbals.json) |
 | Orbatak | 217881 | [217881-orbatak.json](./217881-orbatak.json) |
