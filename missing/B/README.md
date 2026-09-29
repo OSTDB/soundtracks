@@ -2572,6 +2572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beeeeeeeam | 82765 | [82765-beeeeeeeam.json](./82765-beeeeeeeam.json) |
 | Beef Street | 343425 | [343425-beef-street.json](./343425-beef-street.json) |
 | BeeFender | 89267 | [89267-beefender.json](./89267-beefender.json) |
+| BeeFense | 29096 | [29096-beefense.json](./29096-beefense.json) |
 | Beeftown Beatdown | 238769 | [238769-beeftown-beatdown.json](./238769-beeftown-beatdown.json) |
 | Beefy Brad the Muscle Man | 265735 | [265735-beefy-brad-the-muscle-man.json](./265735-beefy-brad-the-muscle-man.json) |
 | Beehive Bedlam | 238469 | [238469-beehive-bedlam.json](./238469-beehive-bedlam.json) |
@@ -4782,6 +4783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Bowl III: Season 2 | 302463 | [302463-blood-bowl-iii-season-2.json](./302463-blood-bowl-iii-season-2.json) |
 | Blood Bowl III: Season 3 | 302464 | [302464-blood-bowl-iii-season-3.json](./302464-blood-bowl-iii-season-3.json) |
 | Blood Bowl III: Season 4 | 302466 | [302466-blood-bowl-iii-season-4.json](./302466-blood-bowl-iii-season-4.json) |
+| Blood Bowl Tablet | 29030 | [29030-blood-bowl-tablet.json](./29030-blood-bowl-tablet.json) |
 | Blood Bowl: Kerrunch | 34380 | [34380-blood-bowl-kerrunch.json](./34380-blood-bowl-kerrunch.json) |
 | Blood Branched Sakura | 129754 | [129754-blood-branched-sakura.json](./129754-blood-branched-sakura.json) |
 | Blood Bros. | 39612 | [39612-blood-bros.json](./39612-blood-bros.json) |
@@ -5548,6 +5550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BomberPengu | 286689 | [286689-bomberpengu.json](./286689-bomberpengu.json) |
 | Bomberpet | 189064 | [189064-bomberpet.json](./189064-bomberpet.json) |
 | Bombfest | 74464 | [74464-bombfest.json](./74464-bombfest.json) |
+| Bombinator | 29050 | [29050-bombinator.json](./29050-bombinator.json) |
 | Bombing Quest | 129796 | [129796-bombing-quest.json](./129796-bombing-quest.json) |
 | Bombing Wonderful | 228712 | [228712-bombing-wonderful.json](./228712-bombing-wonderful.json) |
 | Bombing!!: A Graffiti Sandbox | 144933 | [144933-bombing-a-graffiti-sandbox.json](./144933-bombing-a-graffiti-sandbox.json) |
@@ -5662,6 +5665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boobs Saga | 89322 | [89322-boobs-saga.json](./89322-boobs-saga.json) |
 | Booby Kids | 7796 | [7796-booby-kids.json](./7796-booby-kids.json) |
 | Boofie's Birthday Adventure | 340246 | [340246-boofies-birthday-adventure.json](./340246-boofies-birthday-adventure.json) |
+| Boofle's Home | 29068 | [29068-boofles-home.json](./29068-boofles-home.json) |
 | Boog Adventure | 155472 | [155472-boog-adventure.json](./155472-boog-adventure.json) |
 | Boogaloopers | 62752 | [62752-boogaloopers.json](./62752-boogaloopers.json) |
 | Boogerman | 242091 | [242091-boogerman.json](./242091-boogerman.json) |
@@ -6240,6 +6244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxman Adventures | 203896 | [203896-boxman-adventures.json](./203896-boxman-adventures.json) |
 | Boxocost | 144962 | [144962-boxocost.json](./144962-boxocost.json) |
 | Boxpast Lov3you | 392301 | [392301-boxpast-lov3you.json](./392301-boxpast-lov3you.json) |
+| Boxplosion | 29054 | [29054-boxplosion.json](./29054-boxplosion.json) |
 | BoxRunner | 107901 | [107901-boxrunner.json](./107901-boxrunner.json) |
 | Boxsplodings | 61911 | [61911-boxsplodings.json](./61911-boxsplodings.json) |
 | Boxstacker | 349369 | [349369-boxstacker.json](./349369-boxstacker.json) |
