@@ -973,6 +973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zooted | 240184 | [240184-zooted.json](./240184-zooted.json) |
 | Zootto Mahjong! | 37744 | [37744-zootto-mahjong.json](./37744-zootto-mahjong.json) |
 | ZooZooGo! | 64396 | [64396-zoozoogo.json](./64396-zoozoogo.json) |
+| Zorakk: The Conqueror | 57154 | [57154-zorakk-the-conqueror.json](./57154-zorakk-the-conqueror.json) |
 | Zoria and the Cursed Land | 152227 | [152227-zoria-and-the-cursed-land.json](./152227-zoria-and-the-cursed-land.json) |
 | Zoria: Age of Shattering - Ancestors' Weapon Pack | 402944 | [402944-zoria-age-of-shattering-ancestors-weapon-pack.json](./402944-zoria-age-of-shattering-ancestors-weapon-pack.json) |
 | Zork Collection | 137464 | [137464-zork-collection.json](./137464-zork-collection.json) |
