@@ -733,6 +733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gang Nations | 60592 | [60592-gang-nations.json](./60592-gang-nations.json) |
 | Gang of Dragon | 381227 | [381227-gang-of-dragon.json](./381227-gang-of-dragon.json) |
 | Gang of Four | 127053 | [127053-gang-of-four.json](./127053-gang-of-four.json) |
+| GangBusters | 46773 | [46773-gangbusters.json](./46773-gangbusters.json) |
 | Gangnam City Deluxe | 242207 | [242207-gangnam-city-deluxe.json](./242207-gangnam-city-deluxe.json) |
 | Gangs of Asia | 360068 | [360068-gangs-of-asia.json](./360068-gangs-of-asia.json) |
 | Gangs of Rikton | 167592 | [167592-gangs-of-rikton.json](./167592-gangs-of-rikton.json) |
@@ -3412,6 +3413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Prix Manager 2 | 71439 | [71439-grand-prix-manager-2.json](./71439-grand-prix-manager-2.json) |
 | Grand Prix Multiplication | 397211 | [397211-grand-prix-multiplication.json](./397211-grand-prix-multiplication.json) |
 | Grand Prix Racing | 147355 | [147355-grand-prix-racing.json](./147355-grand-prix-racing.json) |
+| Grand Prix Rally II | 46750 | [46750-grand-prix-rally-ii.json](./46750-grand-prix-rally-ii.json) |
 | Grand Prix Simulator | 13861 | [13861-grand-prix-simulator.json](./13861-grand-prix-simulator.json) |
 | Grand Saudi Hajwala | 374678 | [374678-grand-saudi-hajwala.json](./374678-grand-saudi-hajwala.json) |
 | Grand Slam | 20812 | [20812-grand-slam.json](./20812-grand-slam.json) |
@@ -4374,6 +4376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian's Oath | 31202 | [31202-guardians-oath.json](./31202-guardians-oath.json) |
 | Guardians Frontline | 144110 | [144110-guardians-frontline.json](./144110-guardians-frontline.json) |
 | Guardians of Altarris: The Sinless Blade | 322213 | [322213-guardians-of-altarris-the-sinless-blade.json](./322213-guardians-of-altarris-the-sinless-blade.json) |
+| Guardians of Atlas | 46726 | [46726-guardians-of-atlas.json](./46726-guardians-of-atlas.json) |
 | Guardians of Cloudia | 150083 | [150083-guardians-of-cloudia.json](./150083-guardians-of-cloudia.json) |
 | Guardians of Eden | 277360 | [277360-guardians-of-eden.json](./277360-guardians-of-eden.json) |
 | Guardians of Ember | 26692 | [26692-guardians-of-ember.json](./26692-guardians-of-ember.json) |
@@ -4388,6 +4391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians of the Wall | 396884 | [396884-guardians-of-the-wall.json](./396884-guardians-of-the-wall.json) |
 | Guardians of the Wild Sky | 347896 | [347896-guardians-of-the-wild-sky.json](./347896-guardians-of-the-wild-sky.json) |
 | Guardians of Victoria | 34882 | [34882-guardians-of-victoria.json](./34882-guardians-of-victoria.json) |
+| Guardians: Denjin Makai II | 46781 | [46781-guardians-denjin-makai-ii.json](./46781-guardians-denjin-makai-ii.json) |
 | Guardians: Royal Journey | 155003 | [155003-guardians-royal-journey.json](./155003-guardians-royal-journey.json) |
 | Guarding Goddess | 207331 | [207331-guarding-goddess.json](./207331-guarding-goddess.json) |
 | Guards of the Gate | 90168 | [90168-guards-of-the-gate.json](./90168-guards-of-the-gate.json) |
