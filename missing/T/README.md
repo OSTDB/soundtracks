@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T90 Tank Battle Simulator in VR | 193186 | [193186-t90-tank-battle-simulator-in-vr.json](./193186-t90-tank-battle-simulator-in-vr.json) |
 | Ta ga Tame ni Oni wa Naku | 163357 | [163357-ta-ga-tame-ni-oni-wa-naku.json](./163357-ta-ga-tame-ni-oni-wa-naku.json) |
 | Taaltris | 94699 | [94699-taaltris.json](./94699-taaltris.json) |
+| Taarradhin | 57179 | [57179-taarradhin.json](./57179-taarradhin.json) |
 | Tab + Notch | 401091 | [401091-tab-notch.json](./401091-tab-notch.json) |
 | Tabboz Simulator | 191239 | [191239-tabboz-simulator.json](./191239-tabboz-simulator.json) |
 | Tabby Cat's Great Catventure | 177423 | [177423-tabby-cats-great-catventure.json](./177423-tabby-cats-great-catventure.json) |
@@ -3941,6 +3942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elementalists Book 3 | 408177 | [408177-the-elementalists-book-3.json](./408177-the-elementalists-book-3.json) |
 | The Elephant E | 229040 | [229040-the-elephant-e.json](./229040-the-elephant-e.json) |
 | The Elevator | 326986 | [326986-the-elevator.json](./326986-the-elevator.json) |
+| The Elevator | 57174 | [57174-the-elevator.json](./57174-the-elevator.json) |
 | The Elevator Breakdown | 337700 | [337700-the-elevator-breakdown.json](./337700-the-elevator-breakdown.json) |
 | The Elevator Game | 176256 | [176256-the-elevator-game.json](./176256-the-elevator-game.json) |
 | The Elision Effect | 273415 | [273415-the-elision-effect.json](./273415-the-elision-effect.json) |
@@ -6353,6 +6355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Numzle | 233096 | [233096-the-numzle.json](./233096-the-numzle.json) |
 | The Nutcracker | 216997 | [216997-the-nutcracker.json](./216997-the-nutcracker.json) |
 | The Nutshack But It's A Game | 326591 | [326591-the-nutshack-but-its-a-game.json](./326591-the-nutshack-but-its-a-game.json) |
+| The Nutshack: The Game | 57165 | [57165-the-nutshack-the-game.json](./57165-the-nutshack-the-game.json) |
 | The Oath of the Dark Magic Queen | 181120 | [181120-the-oath-of-the-dark-magic-queen.json](./181120-the-oath-of-the-dark-magic-queen.json) |
 | The Obedience Experiment | 406893 | [406893-the-obedience-experiment.json](./406893-the-obedience-experiment.json) |
 | The Oblivion Asylum | 117676 | [117676-the-oblivion-asylum.json](./117676-the-oblivion-asylum.json) |
@@ -7693,6 +7696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tactics of War | 109881 | [109881-the-tactics-of-war.json](./109881-the-tactics-of-war.json) |
 | The Tail of the Serpent | 178681 | [178681-the-tail-of-the-serpent.json](./178681-the-tail-of-the-serpent.json) |
 | The Tale of (Your Name) | 282030 | [282030-the-tale-of-your-name.json](./282030-the-tale-of-your-name.json) |
+| The Tale of a Man named Tom | 57147 | [57147-the-tale-of-a-man-named-tom.json](./57147-the-tale-of-a-man-named-tom.json) |
 | The Tale of Despereaux | 51163 | [51163-the-tale-of-despereaux.json](./51163-the-tale-of-despereaux.json) |
 | The Tale of Doris and the Dragon | 79274 | [79274-the-tale-of-doris-and-the-dragon.json](./79274-the-tale-of-doris-and-the-dragon.json) |
 | The Tale of Doris and the Dragon - Episode 1 | 31613 | [31613-the-tale-of-doris-and-the-dragon-episode-1.json](./31613-the-tale-of-doris-and-the-dragon-episode-1.json) |
@@ -11388,6 +11392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toon Puzzle Island | 233083 | [233083-toon-puzzle-island.json](./233083-toon-puzzle-island.json) |
 | Toon Puzzle Quest | 108480 | [108480-toon-puzzle-quest.json](./108480-toon-puzzle-quest.json) |
 | Toon Roads: Race & Drift | 288315 | [288315-toon-roads-race-and-drift.json](./288315-toon-roads-race-and-drift.json) |
+| Toon Shooters the Freelancers | 57193 | [57193-toon-shooters-the-freelancers.json](./57193-toon-shooters-the-freelancers.json) |
 | Toon Tanks | 84947 | [84947-toon-tanks.json](./84947-toon-tanks.json) |
 | Toon War | 86238 | [86238-toon-war.json](./86238-toon-war.json) |
 | Toon Wars: Tank Battles | 87898 | [87898-toon-wars-tank-battles.json](./87898-toon-wars-tank-battles.json) |
