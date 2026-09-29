@@ -1471,6 +1471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Extella Link: Digital Deluxe Edition | 119067 | [119067-fate-extella-link-digital-deluxe-edition.json](./119067-fate-extella-link-digital-deluxe-edition.json) |
 | Fate/Extella: Celebration Box | 140007 | [140007-fate-extella-celebration-box.json](./140007-fate-extella-celebration-box.json) |
 | Fate/Extella: Regalia Box | 212318 | [212318-fate-extella-regalia-box.json](./212318-fate-extella-regalia-box.json) |
+| Fate/Extra | 12382 | [12382-fate-extra.json](./12382-fate-extra.json) |
 | Fate/Grand Order Lostbelt No. 1: Anastasia | 414302 | [414302-fate-grand-order-lostbelt-no-1-anastasia.json](./414302-fate-grand-order-lostbelt-no-1-anastasia.json) |
 | Fate/Grand Order Lostbelt No. 3: SIN | 414304 | [414304-fate-grand-order-lostbelt-no-3-sin.json](./414304-fate-grand-order-lostbelt-no-3-sin.json) |
 | Fate/Grand Order Lostbelt No. 5: Atlantis | 414306 | [414306-fate-grand-order-lostbelt-no-5-atlantis.json](./414306-fate-grand-order-lostbelt-no-5-atlantis.json) |
