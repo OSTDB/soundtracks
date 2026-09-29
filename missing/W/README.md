@@ -459,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Robots VR: The Skirmish | 55477 | [55477-war-robots-vr-the-skirmish.json](./55477-war-robots-vr-the-skirmish.json) |
 | War Robots: Frontiers - Lancelot Rising | 335099 | [335099-war-robots-frontiers-lancelot-rising.json](./335099-war-robots-frontiers-lancelot-rising.json) |
 | War Robots: Planet Defender | 127379 | [127379-war-robots-planet-defender.json](./127379-war-robots-planet-defender.json) |
+| War Room | 24001 | [24001-war-room.json](./24001-war-room.json) |
 | War Room | 335325 | [335325-war-room.json](./335325-war-room.json) |
 | War Room Football | 403797 | [403797-war-room-football.json](./403797-war-room-football.json) |
 | War Saber | 137689 | [137689-war-saber.json](./137689-war-saber.json) |
@@ -1706,6 +1707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What's for Dinner? | 363045 | [363045-whats-for-dinner.json](./363045-whats-for-dinner.json) |
 | What's Her face | 201271 | [201271-whats-her-face.json](./201271-whats-her-face.json) |
 | What's in the Attic? | 140593 | [140593-whats-in-the-attic.json](./140593-whats-in-the-attic.json) |
+| What's in the Picture: Animals | 23983 | [23983-whats-in-the-picture-animals.json](./23983-whats-in-the-picture-animals.json) |
 | What's Inside?? | 149467 | [149467-whats-inside.json](./149467-whats-inside.json) |
 | What's Michael? | 91763 | [91763-whats-michael.json](./91763-whats-michael.json) |
 | What's Missing? | 204981 | [204981-whats-missing.json](./204981-whats-missing.json) |
@@ -2561,6 +2563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wing of Darkness: Limited Edition | 140005 | [140005-wing-of-darkness-limited-edition.json](./140005-wing-of-darkness-limited-edition.json) |
 | Wing Over | 67674 | [67674-wing-over.json](./67674-wing-over.json) |
 | Wing Over 2 | 67667 | [67667-wing-over-2.json](./67667-wing-over-2.json) |
+| Wing War | 24014 | [24014-wing-war.json](./24014-wing-war.json) |
 | Winged | 307689 | [307689-winged.json](./307689-winged.json) |
 | Winged Sakura: Mindy's Arc 2 | 111049 | [111049-winged-sakura-mindys-arc-2.json](./111049-winged-sakura-mindys-arc-2.json) |
 | Winged Warrior III: The Nova Knight | 365274 | [365274-winged-warrior-iii-the-nova-knight.json](./365274-winged-warrior-iii-the-nova-knight.json) |
