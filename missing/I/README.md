@@ -587,6 +587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IDF-ASD | 195775 | [195775-idf-asd.json](./195775-idf-asd.json) |
 | Idili | 318972 | [318972-idili.json](./318972-idili.json) |
 | Idinaloq | 237300 | [237300-idinaloq.json](./237300-idinaloq.json) |
+| Idioctopus | 30072 | [30072-idioctopus.json](./30072-idioctopus.json) |
 | Idiom Royale | 392929 | [392929-idiom-royale.json](./392929-idiom-royale.json) |
 | Idiot | 158656 | [158656-idiot.json](./158656-idiot.json) |
 | Idiot Brain Evolution | 368013 | [368013-idiot-brain-evolution.json](./368013-idiot-brain-evolution.json) |
