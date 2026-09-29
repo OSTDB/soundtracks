@@ -3469,6 +3469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Simulator: VR | 30047 | [30047-flight-simulator-vr.json](./30047-flight-simulator-vr.json) |
 | Flight Squadron | 69887 | [69887-flight-squadron.json](./69887-flight-squadron.json) |
 | Flight Time | 347681 | [347681-flight-time.json](./347681-flight-time.json) |
+| Flight Unlimited | 3352 | [3352-flight-unlimited.json](./3352-flight-unlimited.json) |
 | Flight Unlimited 2K17 | 87550 | [87550-flight-unlimited-2k17.json](./87550-flight-unlimited-2k17.json) |
 | Flight Unlimited II | 714 | [714-flight-unlimited-ii.json](./714-flight-unlimited-ii.json) |
 | Flight Unlimited III | 715 | [715-flight-unlimited-iii.json](./715-flight-unlimited-iii.json) |
