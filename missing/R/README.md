@@ -4159,6 +4159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robotfindskitten | 205093 | [205093-robotfindskitten.json](./205093-robotfindskitten.json) |
 | Robotic Arm Simulator | 386697 | [386697-robotic-arm-simulator.json](./386697-robotic-arm-simulator.json) |
 | Robotic Worlds | 146692 | [146692-robotic-worlds.json](./146692-robotic-worlds.json) |
+| Robotica | 19744 | [19744-robotica.json](./19744-robotica.json) |
 | Robotica | 211292 | [211292-robotica.json](./211292-robotica.json) |
 | Robotica | 384783 | [384783-robotica.json](./384783-robotica.json) |
 | Robotics;Notes | 7162 | [7162-robotics-notes.json](./7162-robotics-notes.json) |
