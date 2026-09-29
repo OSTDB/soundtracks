@@ -3217,6 +3217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rick and Morty Game | 307573 | [307573-rick-and-morty-game.json](./307573-rick-and-morty-game.json) |
 | Rick and Morty Presents: Jerry's Game | 74299 | [74299-rick-and-morty-presents-jerrys-game.json](./74299-rick-and-morty-presents-jerrys-game.json) |
 | Rick and Morty: Virtual Rick-ality | 20459 | [20459-rick-and-morty-virtual-rick-ality.json](./20459-rick-and-morty-virtual-rick-ality.json) |
+| Rick Dangerous | 12202 | [12202-rick-dangerous.json](./12202-rick-dangerous.json) |
 | Rick Dangerous 2 | 12203 | [12203-rick-dangerous-2.json](./12203-rick-dangerous-2.json) |
 | Rick Ribbit in Ark Noodle's Math Challenge | 62688 | [62688-rick-ribbit-in-ark-noodles-math-challenge.json](./62688-rick-ribbit-in-ark-noodles-math-challenge.json) |
 | Rick Ribbit: Adventures in Early Learning | 62689 | [62689-rick-ribbit-adventures-in-early-learning.json](./62689-rick-ribbit-adventures-in-early-learning.json) |
@@ -5669,6 +5670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runaround Reaper | 276730 | [276730-runaround-reaper.json](./276730-runaround-reaper.json) |
 | Runaway | 40419 | [40419-runaway.json](./40419-runaway.json) |
 | Runaway 2: The Dream of the Turtle | 13227 | [13227-runaway-2-the-dream-of-the-turtle.json](./13227-runaway-2-the-dream-of-the-turtle.json) |
+| Runaway 3: A Twist of Fate | 13228 | [13228-runaway-3-a-twist-of-fate.json](./13228-runaway-3-a-twist-of-fate.json) |
 | Runaway Animals | 207360 | [207360-runaway-animals.json](./207360-runaway-animals.json) |
 | Runaway Bride | 288240 | [288240-runaway-bride.json](./288240-runaway-bride.json) |
 | Runaway Demon Bride | 136260 | [136260-runaway-demon-bride.json](./136260-runaway-demon-bride.json) |
