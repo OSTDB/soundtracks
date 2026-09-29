@@ -356,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Village | 233625 | [233625-fairy-village.json](./233625-fairy-village.json) |
 | FairyLand | 413711 | [413711-fairyland.json](./413711-fairyland.json) |
 | Fairyland Melody Magic | 68055 | [68055-fairyland-melody-magic.json](./68055-fairyland-melody-magic.json) |
+| Fairyland: Manuscript | 51431 | [51431-fairyland-manuscript.json](./51431-fairyland-manuscript.json) |
 | Fairyland: Power Dice | 103473 | [103473-fairyland-power-dice.json](./103473-fairyland-power-dice.json) |
 | Fairyside | 223480 | [223480-fairyside.json](./223480-fairyside.json) |
 | Fairytale | 47246 | [47246-fairytale.json](./47246-fairytale.json) |
@@ -1731,6 +1732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fern Wardrobe | 381226 | [381226-fern-wardrobe.json](./381226-fern-wardrobe.json) |
 | Fernageddon | 258196 | [258196-fernageddon.json](./258196-fernageddon.json) |
 | Fernandez Must Die | 12092 | [12092-fernandez-must-die.json](./12092-fernandez-must-die.json) |
+| Fernando Martin Basket Master | 51439 | [51439-fernando-martin-basket-master.json](./51439-fernando-martin-basket-master.json) |
 | Fernbus Simulator: Denmark | 254769 | [254769-fernbus-simulator-denmark.json](./254769-fernbus-simulator-denmark.json) |
 | Fernbus Simulator: Interlink HD | 311109 | [311109-fernbus-simulator-interlink-hd.json](./311109-fernbus-simulator-interlink-hd.json) |
 | Fernhoof Grove: Riding Academy | 410336 | [410336-fernhoof-grove-riding-academy.json](./410336-fernhoof-grove-riding-academy.json) |
