@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G Prime into the Rain | 32201 | [32201-g-prime-into-the-rain.json](./32201-g-prime-into-the-rain.json) |
 | G Warrior | 278666 | [278666-g-warrior.json](./278666-g-warrior.json) |
 | G-Darius | 39691 | [39691-g-darius.json](./39691-g-darius.json) |
+| G-Diffuser | 413108 | [413108-g-diffuser.json](./413108-g-diffuser.json) |
 | G-Dino's Jungle Adventure | 101630 | [101630-g-dinos-jungle-adventure.json](./101630-g-dinos-jungle-adventure.json) |
 | G-Force | 248561 | [248561-g-force.json](./248561-g-force.json) |
 | G-Force | 248562 | [248562-g-force.json](./248562-g-force.json) |
@@ -44,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives+: Stella Deus - The Spirit of Darkness | 374605 | [374605-g-mode-archives-stella-deus-the-spirit-of-darkness.json](./374605-g-mode-archives-stella-deus-the-spirit-of-darkness.json) |
 | G-Mode Archives+: Tantei Kibugawa Ryousuke Jiken-tan Vol. 14 - Rasen no Kan Satsujin Jiken | 295849 | [295849-g-mode-archives-tantei-kibugawa-ryousuke-jiken-tan-vol-14-rasen-no-kan-satsujin-jiken.json](./295849-g-mode-archives-tantei-kibugawa-ryousuke-jiken-tan-vol-14-rasen-no-kan-satsujin-jiken.json) |
 | G-Mode Archives+: Tantei Kibukawa Ryousuke Jikenbo Vol. 13 - Tasogare ha Ruri no Tsuioki | 279118 | [279118-g-mode-archives-tantei-kibukawa-ryousuke-jikenbo-vol-13-tasogare-ha-ruri-no-tsuioki.json](./279118-g-mode-archives-tantei-kibukawa-ryousuke-jikenbo-vol-13-tasogare-ha-ruri-no-tsuioki.json) |
+| G-Mode Archives+: Tantei Kibukawa Ryousuke Jikentan Vol. 17 - Midoumaru-tei Jiken | 413150 | [413150-g-mode-archives-tantei-kibukawa-ryousuke-jikentan-vol-17-midoumaru-tei-jiken.json](./413150-g-mode-archives-tantei-kibukawa-ryousuke-jikentan-vol-17-midoumaru-tei-jiken.json) |
 | G-Netix | 92830 | [92830-g-netix.json](./92830-g-netix.json) |
 | G-Scramble | 260753 | [260753-g-scramble.json](./260753-g-scramble.json) |
 | G-Switch 3 | 101770 | [101770-g-switch-3.json](./101770-g-switch-3.json) |
@@ -1003,6 +1005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gatekeeper | 222906 | [222906-gatekeeper.json](./222906-gatekeeper.json) |
 | Gatekeeper: Supporter Pack | 310401 | [310401-gatekeeper-supporter-pack.json](./310401-gatekeeper-supporter-pack.json) |
 | GatePass | 319987 | [319987-gatepass.json](./319987-gatepass.json) |
+| Gates and Violet | 413029 | [413029-gates-and-violet.json](./413029-gates-and-violet.json) |
 | Gates of Andaron | 209594 | [209594-gates-of-andaron.json](./209594-gates-of-andaron.json) |
 | Gates of Dawn | 13857 | [13857-gates-of-dawn.json](./13857-gates-of-dawn.json) |
 | Gates of Devoroth | 211288 | [211288-gates-of-devoroth.json](./211288-gates-of-devoroth.json) |
@@ -1909,6 +1912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GiAnt: Warfare | 172118 | [172118-giant-warfare.json](./172118-giant-warfare.json) |
 | Giant’s Heart | 349948 | [349948-giant-s-heart.json](./349948-giant-s-heart.json) |
 | Giant's Revenge | 25726 | [25726-giants-revenge.json](./25726-giants-revenge.json) |
+| Giantess Playground | 413114 | [413114-giantess-playground.json](./413114-giantess-playground.json) |
 | Giantfall | 381676 | [381676-giantfall.json](./381676-giantfall.json) |
 | Giants | 158196 | [158196-giants.json](./158196-giants.json) |
 | Giants | 405057 | [405057-giants.json](./405057-giants.json) |
@@ -3621,6 +3625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Values: Monaco | 52224 | [52224-grand-values-monaco.json](./52224-grand-values-monaco.json) |
 | Grand Vegas Casino | 401559 | [401559-grand-vegas-casino.json](./401559-grand-vegas-casino.json) |
 | Grand Vegas Mafia Crime: Fight to Survive | 98781 | [98781-grand-vegas-mafia-crime-fight-to-survive.json](./98781-grand-vegas-mafia-crime-fight-to-survive.json) |
+| Grand Voyage | 413141 | [413141-grand-voyage.json](./413141-grand-voyage.json) |
 | Grand War 2 | 247204 | [247204-grand-war-2.json](./247204-grand-war-2.json) |
 | Grand War: Rome | 244335 | [244335-grand-war-rome.json](./244335-grand-war-rome.json) |
 | Grand Wars: Mafia City | 174725 | [174725-grand-wars-mafia-city.json](./174725-grand-wars-mafia-city.json) |
