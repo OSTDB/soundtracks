@@ -700,6 +700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old Town Bus Simulator | 250959 | [250959-old-town-bus-simulator.json](./250959-old-town-bus-simulator.json) |
 | Old Watch | 76681 | [76681-old-watch.json](./76681-old-watch.json) |
 | Old World Blues | 321740 | [321740-old-world-blues.json](./321740-old-world-blues.json) |
+| Old World: Empires of the Indus | 400418 | [400418-old-world-empires-of-the-indus.json](./400418-old-world-empires-of-the-indus.json) |
 | Old World: Heroes of the Aegean | 199580 | [199580-old-world-heroes-of-the-aegean.json](./199580-old-world-heroes-of-the-aegean.json) |
 | Oldage | 72353 | [72353-oldage.json](./72353-oldage.json) |
 | OldBerserker | 180760 | [180760-oldberserker.json](./180760-oldberserker.json) |
