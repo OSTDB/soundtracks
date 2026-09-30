@@ -1048,6 +1048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gay Sex Simulator | 405059 | [405059-gay-sex-simulator.json](./405059-gay-sex-simulator.json) |
 | Gay Zodiac | 183034 | [183034-gay-zodiac.json](./183034-gay-zodiac.json) |
 | Gayandere | 215782 | [215782-gayandere.json](./215782-gayandere.json) |
+| Gaydorado | 87004 | [87004-gaydorado.json](./87004-gaydorado.json) |
 | Gaza SP | 279081 | [279081-gaza-sp.json](./279081-gaza-sp.json) |
 | Gaze At Maze | 101620 | [101620-gaze-at-maze.json](./101620-gaze-at-maze.json) |
 | Gaze of the Eyeless | 191089 | [191089-gaze-of-the-eyeless.json](./191089-gaze-of-the-eyeless.json) |
@@ -2471,6 +2472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Outside Simulator | 111491 | [111491-go-outside-simulator.json](./111491-go-outside-simulator.json) |
 | Go Over the Edge | 235755 | [235755-go-over-the-edge.json](./235755-go-over-the-edge.json) |
 | Go Plague Monkey! Go! | 60558 | [60558-go-plague-monkey-go.json](./60558-go-plague-monkey-go.json) |
+| Go Plane | 87041 | [87041-go-plane.json](./87041-go-plane.json) |
 | Go Quirk! | 340552 | [340552-go-quirk.json](./340552-go-quirk.json) |
 | Go Race Yourself | 200137 | [200137-go-race-yourself.json](./200137-go-race-yourself.json) |
 | Go Rocket | 153917 | [153917-go-rocket.json](./153917-go-rocket.json) |
