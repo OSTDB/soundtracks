@@ -1926,6 +1926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where the Seeds Fall | 416123 | [416123-where-the-seeds-fall.json](./416123-where-the-seeds-fall.json) |
 | Where the Stars Brought Us | 201549 | [201549-where-the-stars-brought-us.json](./201549-where-the-stars-brought-us.json) |
 | Where the Wild Things Are | 5278 | [5278-where-the-wild-things-are.json](./5278-where-the-wild-things-are.json) |
+| Where They Cremate the Roadkill | 68184 | [68184-where-they-cremate-the-roadkill.json](./68184-where-they-cremate-the-roadkill.json) |
 | Where They Wait | 342081 | [342081-where-they-wait.json](./342081-where-they-wait.json) |
 | Where Time Ends | 363568 | [363568-where-time-ends.json](./363568-where-time-ends.json) |
 | Where Time Stood Still | 12489 | [12489-where-time-stood-still.json](./12489-where-time-stood-still.json) |
@@ -3265,6 +3266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WonderLang French | 312549 | [312549-wonderlang-french.json](./312549-wonderlang-french.json) |
 | Wonderlang Korean | 345031 | [345031-wonderlang-korean.json](./345031-wonderlang-korean.json) |
 | WonderLang Spanish | 381733 | [381733-wonderlang-spanish.json](./381733-wonderlang-spanish.json) |
+| Wonderputt | 64053 | [64053-wonderputt.json](./64053-wonderputt.json) |
 | Wonderputt Forever | 187829 | [187829-wonderputt-forever.json](./187829-wonderputt-forever.json) |
 | Wonders of the Deep | 369214 | [369214-wonders-of-the-deep.json](./369214-wonders-of-the-deep.json) |
 | Wonders of Waldwea | 355557 | [355557-wonders-of-waldwea.json](./355557-wonders-of-waldwea.json) |
