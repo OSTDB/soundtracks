@@ -798,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega-Altro | 156117 | [156117-omega-altro.json](./156117-omega-altro.json) |
 | Omega: The Beginning | 117700 | [117700-omega-the-beginning.json](./117700-omega-the-beginning.json) |
 | OmegaBot | 154001 | [154001-omegabot.json](./154001-omegabot.json) |
+| Omegaland | 47983 | [47983-omegaland.json](./47983-omegaland.json) |
 | Omegalodon | 16637 | [16637-omegalodon.json](./16637-omegalodon.json) |
 | Omeganaut | 135032 | [135032-omeganaut.json](./135032-omeganaut.json) |
 | Omelet You Cook | 333100 | [333100-omelet-you-cook.json](./333100-omelet-you-cook.json) |
@@ -1205,6 +1206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Gigant Battle! | 47818 | [47818-one-piece-gigant-battle.json](./47818-one-piece-gigant-battle.json) |
 | One Piece: Grand Adventure | 4053 | [4053-one-piece-grand-adventure.json](./4053-one-piece-grand-adventure.json) |
 | One Piece: Grand Battle! 2 | 75743 | [75743-one-piece-grand-battle-2.json](./75743-one-piece-grand-battle-2.json) |
+| One Piece: Grand Cruise | 47292 | [47292-one-piece-grand-cruise.json](./47292-one-piece-grand-cruise.json) |
 | One Piece: Maboroshi no Grand Line Boukenki! | 75744 | [75744-one-piece-maboroshi-no-grand-line-boukenki.json](./75744-one-piece-maboroshi-no-grand-line-boukenki.json) |
 | One Piece: Mezase Kaizoku-ou! | 75737 | [75737-one-piece-mezase-kaizoku-ou.json](./75737-one-piece-mezase-kaizoku-ou.json) |
 | One Piece: Nanatsu Shima no Daihihou | 75747 | [75747-one-piece-nanatsu-shima-no-daihihou.json](./75747-one-piece-nanatsu-shima-no-daihihou.json) |
