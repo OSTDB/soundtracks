@@ -6057,6 +6057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slash Mr. M | 181152 | [181152-slash-mr-m.json](./181152-slash-mr-m.json) |
 | Slash of Bullet | 151675 | [151675-slash-of-bullet.json](./151675-slash-of-bullet.json) |
 | Slash of Sword 2 | 254157 | [254157-slash-of-sword-2.json](./254157-slash-of-sword-2.json) |
+| Slash Quest: The King Kabbage Mystery | 400405 | [400405-slash-quest-the-king-kabbage-mystery.json](./400405-slash-quest-the-king-kabbage-mystery.json) |
 | Slash Roll | 132081 | [132081-slash-roll.json](./132081-slash-roll.json) |
 | Slash Them All | 239626 | [239626-slash-them-all.json](./239626-slash-them-all.json) |
 | Slash'EM Extended | 351135 | [351135-slashem-extended.json](./351135-slashem-extended.json) |
@@ -10189,6 +10190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin to Survive | 386388 | [386388-spin-to-survive.json](./386388-spin-to-survive.json) |
 | Spinal Breakers | 39666 | [39666-spinal-breakers.json](./39666-spinal-breakers.json) |
 | Spinball | 110528 | [110528-spinball.json](./110528-spinball.json) |
+| SpinBound | 400417 | [400417-spinbound.json](./400417-spinbound.json) |
 | SpinDrive Ping Pong | 43354 | [43354-spindrive-ping-pong.json](./43354-spindrive-ping-pong.json) |
 | Spine | 165432 | [165432-spine.json](./165432-spine.json) |
 | Spine & Quill | 304630 | [304630-spine-and-quill.json](./304630-spine-and-quill.json) |
@@ -10494,6 +10496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Tales and Mummy Trails | 420659 | [420659-spooky-tales-and-mummy-trails.json](./420659-spooky-tales-and-mummy-trails.json) |
 | Spooky Town | 272565 | [272565-spooky-town.json](./272565-spooky-town.json) |
 | Spooky Typing: The Ghost Plague | 178097 | [178097-spooky-typing-the-ghost-plague.json](./178097-spooky-typing-the-ghost-plague.json) |
+| Spooky Walking Simulator | 400425 | [400425-spooky-walking-simulator.json](./400425-spooky-walking-simulator.json) |
 | Spooky's Jump Scare Mansion: The Doll House | 140550 | [140550-spookys-jump-scare-mansion-the-doll-house.json](./140550-spookys-jump-scare-mansion-the-doll-house.json) |
 | SpookyKillers | 191121 | [191121-spookykillers.json](./191121-spookykillers.json) |
 | Spoonman: Ballad of a Bonehead | 307708 | [307708-spoonman-ballad-of-a-bonehead.json](./307708-spoonman-ballad-of-a-bonehead.json) |
@@ -10602,6 +10605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spread Out! Hold Naar' Havok | 273632 | [273632-spread-out-hold-naar-havok.json](./273632-spread-out-hold-naar-havok.json) |
 | Spread: Transmission | 241387 | [241387-spread-transmission.json](./241387-spread-transmission.json) |
 | SpreadCheat | 322905 | [322905-spreadcheat.json](./322905-spreadcheat.json) |
+| Spreadsheets & Dungeons | 400388 | [400388-spreadsheets-and-dungeons.json](./400388-spreadsheets-and-dungeons.json) |
 | Spreadstorm | 76542 | [76542-spreadstorm.json](./76542-spreadstorm.json) |
 | Spriggan Powered | 38358 | [38358-spriggan-powered.json](./38358-spriggan-powered.json) |
 | Sprill & Ritchie: Adventures in Time | 54420 | [54420-sprill-and-ritchie-adventures-in-time.json](./54420-sprill-and-ritchie-adventures-in-time.json) |
@@ -11536,6 +11540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: X-Wing | 168 | [168-star-wars-x-wing.json](./168-star-wars-x-wing.json) |
 | Star Wars: X-Wing Tour of Duty - B-Wing | 171 | [171-star-wars-x-wing-tour-of-duty-b-wing.json](./171-star-wars-x-wing-tour-of-duty-b-wing.json) |
 | Star Wars: X-Wing Tour of Duty - Imperial Pursuit | 173 | [173-star-wars-x-wing-tour-of-duty-imperial-pursuit.json](./173-star-wars-x-wing-tour-of-duty-imperial-pursuit.json) |
+| Star Wars: X-Wing vs TIE Fighter - Balance of Power Campaigns | 400431 | [400431-star-wars-x-wing-vs-tie-fighter-balance-of-power-campaigns.json](./400431-star-wars-x-wing-vs-tie-fighter-balance-of-power-campaigns.json) |
 | Star Wars: X-Wing vs. TIE Fighter | 170 | [170-star-wars-x-wing-vs-tie-fighter.json](./170-star-wars-x-wing-vs-tie-fighter.json) |
 | Star Wing | 385716 | [385716-star-wing.json](./385716-star-wing.json) |
 | Star Witch | 190224 | [190224-star-witch.json](./190224-star-witch.json) |
@@ -14030,6 +14035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sun Wukong: Journey to the West | 184925 | [184925-sun-wukong-journey-to-the-west.json](./184925-sun-wukong-journey-to-the-west.json) |
 | Sun-Rise.exe | 264612 | [264612-sun-rise-exe.json](./264612-sun-rise-exe.json) |
 | Suna | 87948 | [87948-suna.json](./87948-suna.json) |
+| Sunbay City Stories: Tina from the Grand Auto Workshop | 400408 | [400408-sunbay-city-stories-tina-from-the-grand-auto-workshop.json](./400408-sunbay-city-stories-tina-from-the-grand-auto-workshop.json) |
 | Sunberry Valley | 356846 | [356846-sunberry-valley.json](./356846-sunberry-valley.json) |
 | Sunberry Village | 384778 | [384778-sunberry-village.json](./384778-sunberry-village.json) |
 | Sunbreak War | 373759 | [373759-sunbreak-war.json](./373759-sunbreak-war.json) |
