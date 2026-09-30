@@ -1159,6 +1159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman Raving Rabbids | 193363 | [193363-rayman-raving-rabbids.json](./193363-rayman-raving-rabbids.json) |
 | Rayman Raving Rabbids | 193366 | [193366-rayman-raving-rabbids.json](./193366-rayman-raving-rabbids.json) |
 | Rayman Raving Rabbids | 254520 | [254520-rayman-raving-rabbids.json](./254520-rayman-raving-rabbids.json) |
+| Rayman Raving Rabbids | 254521 | [254521-rayman-raving-rabbids.json](./254521-rayman-raving-rabbids.json) |
 | Rayman Raving Rabbids 2 | 193364 | [193364-rayman-raving-rabbids-2.json](./193364-rayman-raving-rabbids-2.json) |
 | Rayman Raving Rabbids 2 | 2745 | [2745-rayman-raving-rabbids-2.json](./2745-rayman-raving-rabbids-2.json) |
 | Rayman Raving Rabbids Activity Centre | 193368 | [193368-rayman-raving-rabbids-activity-centre.json](./193368-rayman-raving-rabbids-activity-centre.json) |
@@ -3507,6 +3508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift Wizard 2 | 270936 | [270936-rift-wizard-2.json](./270936-rift-wizard-2.json) |
 | Rift World | 148550 | [148550-rift-world.json](./148550-rift-world.json) |
 | Rift: Nightmare Tide | 19322 | [19322-rift-nightmare-tide.json](./19322-rift-nightmare-tide.json) |
+| Rift: Storm Legion | 1935 | [1935-rift-storm-legion.json](./1935-rift-storm-legion.json) |
 | Rift's Cave | 36079 | [36079-rifts-cave.json](./36079-rifts-cave.json) |
 | Riftborne | 398474 | [398474-riftborne.json](./398474-riftborne.json) |
 | Riftcast | 311635 | [311635-riftcast.json](./311635-riftcast.json) |
