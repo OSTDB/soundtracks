@@ -2951,13 +2951,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HexaWars | 260151 | [260151-hexawars.json](./260151-hexawars.json) |
 | Hexaword | 386725 | [386725-hexaword.json](./386725-hexaword.json) |
 | HexCasters | 181250 | [181250-hexcasters.json](./181250-hexcasters.json) |
+| Hexceed: Alphard | 397883 | [397883-hexceed-alphard.json](./397883-hexceed-alphard.json) |
+| Hexceed: Aquila | 397882 | [397882-hexceed-aquila.json](./397882-hexceed-aquila.json) |
+| Hexceed: Capricornus | 397881 | [397881-hexceed-capricornus.json](./397881-hexceed-capricornus.json) |
+| Hexceed: Centaurus | 397880 | [397880-hexceed-centaurus.json](./397880-hexceed-centaurus.json) |
+| Hexceed: Cetus | 397879 | [397879-hexceed-cetus.json](./397879-hexceed-cetus.json) |
 | Hexceed: Cogitare Pack | 224231 | [224231-hexceed-cogitare-pack.json](./224231-hexceed-cogitare-pack.json) |
 | Hexceed: Exsupero Pack | 224229 | [224229-hexceed-exsupero-pack.json](./224229-hexceed-exsupero-pack.json) |
 | Hexceed: Incipiam | 224228 | [224228-hexceed-incipiam.json](./224228-hexceed-incipiam.json) |
 | Hexceed: Insulam | 201595 | [201595-hexceed-insulam.json](./201595-hexceed-insulam.json) |
 | Hexceed: Progressum | 202762 | [202762-hexceed-progressum.json](./202762-hexceed-progressum.json) |
 | Hexceed: Rubrum | 295865 | [295865-hexceed-rubrum.json](./295865-hexceed-rubrum.json) |
+| Hexceed: Sirius | 397878 | [397878-hexceed-sirius.json](./397878-hexceed-sirius.json) |
 | Hexceed: Year 4 Pass | 295864 | [295864-hexceed-year-4-pass.json](./295864-hexceed-year-4-pass.json) |
+| Hexceed: Year 5 Season Pass! | 397888 | [397888-hexceed-year-5-season-pass.json](./397888-hexceed-year-5-season-pass.json) |
 | Hexcells Infinite | 11061 | [11061-hexcells-infinite.json](./11061-hexcells-infinite.json) |
 | Hexcells Plus | 11060 | [11060-hexcells-plus.json](./11060-hexcells-plus.json) |
 | HexChess 360 | 92506 | [92506-hexchess-360.json](./92506-hexchess-360.json) |
