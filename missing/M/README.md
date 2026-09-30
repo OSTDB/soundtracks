@@ -3425,6 +3425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Carrier Simulator | 392170 | [392170-mega-carrier-simulator.json](./392170-mega-carrier-simulator.json) |
 | Mega Cat Studios Collection 1 | 130688 | [130688-mega-cat-studios-collection-1.json](./130688-mega-cat-studios-collection-1.json) |
 | Mega City Void | 190105 | [190105-mega-city-void.json](./190105-mega-city-void.json) |
+| Mega Collection: 8 Amazing Games | 399785 | [399785-mega-collection-8-amazing-games.json](./399785-mega-collection-8-amazing-games.json) |
 | Mega Collection: 8 Amazing Games - Volume 2 | 409542 | [409542-mega-collection-8-amazing-games-volume-2.json](./409542-mega-collection-8-amazing-games-volume-2.json) |
 | Mega Custom Night | 389412 | [389412-mega-custom-night.json](./389412-mega-custom-night.json) |
 | Mega Dead Pixel | 120241 | [120241-mega-dead-pixel.json](./120241-mega-dead-pixel.json) |
@@ -9074,6 +9075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutual Secret | 107386 | [107386-mutual-secret.json](./107386-mutual-secret.json) |
 | Muumit ja Taikalamppu | 178047 | [178047-muumit-ja-taikalamppu.json](./178047-muumit-ja-taikalamppu.json) |
 | Muv-Luv | 11778 | [11778-muv-luv.json](./11778-muv-luv.json) |
+| Muv-Luv Unlimited: The Day After Ultimate Collection | 399799 | [399799-muv-luv-unlimited-the-day-after-ultimate-collection.json](./399799-muv-luv-unlimited-the-day-after-ultimate-collection.json) |
 | Muv-Luv VR | 33162 | [33162-muv-luv-vr.json](./33162-muv-luv-vr.json) |
 | Muzan: Chiniku no Ikenie | 67230 | [67230-muzan-chiniku-no-ikenie.json](./67230-muzan-chiniku-no-ikenie.json) |
 | Muzzle Velocity | 70947 | [70947-muzzle-velocity.json](./70947-muzzle-velocity.json) |
@@ -9748,6 +9750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MycoRelic | 274470 | [274470-mycorelic.json](./274470-mycorelic.json) |
 | Mycro | 152858 | [152858-mycro.json](./152858-mycro.json) |
 | Mycubium | 356294 | [356294-mycubium.json](./356294-mycubium.json) |
+| MyDear.exe | 399763 | [399763-mydear-exe.json](./399763-mydear-exe.json) |
 | MyDearest.exe | 391745 | [391745-mydearest-exe.json](./391745-mydearest-exe.json) |
 | MyDream | 35794 | [35794-mydream.json](./35794-mydream.json) |
 | MyDU | 365704 | [365704-mydu.json](./365704-mydu.json) |
