@@ -260,6 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fading Existence | 179029 | [179029-fading-existence.json](./179029-fading-existence.json) |
 | Fading Haven | 402260 | [402260-fading-haven.json](./402260-fading-haven.json) |
 | Fading Hearts | 16778 | [16778-fading-hearts.json](./16778-fading-hearts.json) |
+| Fading Light and Summer's Shadow | 411769 | [411769-fading-light-and-summers-shadow.json](./411769-fading-light-and-summers-shadow.json) |
 | Fading Light: Antiworld | 223425 | [223425-fading-light-antiworld.json](./223425-fading-light-antiworld.json) |
 | Fading Shadows | 42880 | [42880-fading-shadows.json](./42880-fading-shadows.json) |
 | Fading Skies | 291768 | [291768-fading-skies.json](./291768-fading-skies.json) |
@@ -956,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Mahjong Connect | 154357 | [154357-fantasy-mahjong-connect.json](./154357-fantasy-mahjong-connect.json) |
 | Fantasy Maiden Wars: Scarlet | 138718 | [138718-fantasy-maiden-wars-scarlet.json](./138718-fantasy-maiden-wars-scarlet.json) |
 | Fantasy Maiden's Odd Hideout | 124640 | [124640-fantasy-maidens-odd-hideout.json](./124640-fantasy-maidens-odd-hideout.json) |
+| Fantasy Miner: Idle Depths | 411749 | [411749-fantasy-miner-idle-depths.json](./411749-fantasy-miner-idle-depths.json) |
 | Fantasy Monarch | 119627 | [119627-fantasy-monarch.json](./119627-fantasy-monarch.json) |
 | Fantasy Monster Hunt | 346683 | [346683-fantasy-monster-hunt.json](./346683-fantasy-monster-hunt.json) |
 | Fantasy Mosaics | 57350 | [57350-fantasy-mosaics.json](./57350-fantasy-mosaics.json) |
@@ -4170,6 +4172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foodguessr | 293936 | [293936-foodguessr.json](./293936-foodguessr.json) |
 | Foodie Avenue | 250368 | [250368-foodie-avenue.json](./250368-foodie-avenue.json) |
 | Foodie Bear | 121608 | [121608-foodie-bear.json](./121608-foodie-bear.json) |
+| Foodie Blast: Block Puzzle | 411768 | [411768-foodie-blast-block-puzzle.json](./411768-foodie-blast-block-puzzle.json) |
 | Foodie Yama | 344439 | [344439-foodie-yama.json](./344439-foodie-yama.json) |
 | Foodo Kitchen | 23419 | [23419-foodo-kitchen.json](./23419-foodo-kitchen.json) |
 | FooFee | 277423 | [277423-foofee.json](./277423-foofee.json) |
@@ -4962,6 +4965,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four Lights | 406727 | [406727-four-lights.json](./406727-four-lights.json) |
 | Four Lights: Erie Ever route | 278131 | [278131-four-lights-erie-ever-route.json](./278131-four-lights-erie-ever-route.json) |
 | Four Lights: The 1st World - Iruka Route | 253437 | [253437-four-lights-the-1st-world-iruka-route.json](./253437-four-lights-the-1st-world-iruka-route.json) |
+| Four Lights: The 3rd World - Hari Route | 411773 | [411773-four-lights-the-3rd-world-hari-route.json](./411773-four-lights-the-3rd-world-hari-route.json) |
+| Four Lights: The 4th World - Märchen Route | 411774 | [411774-four-lights-the-4th-world-marchen-route.json](./411774-four-lights-the-4th-world-marchen-route.json) |
 | Four Million B.C. | 94719 | [94719-four-million-b-c.json](./94719-four-million-b-c.json) |
 | Four Mini Kingdoms War | 340240 | [340240-four-mini-kingdoms-war.json](./340240-four-mini-kingdoms-war.json) |
 | Four of a Kind: A Short Horror Anthology | 395831 | [395831-four-of-a-kind-a-short-horror-anthology.json](./395831-four-of-a-kind-a-short-horror-anthology.json) |
