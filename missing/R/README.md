@@ -5605,6 +5605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugrats: All Growed-Up | 7990 | [7990-rugrats-all-growed-up.json](./7990-rugrats-all-growed-up.json) |
 | Rugrats: Match-Master | 273878 | [273878-rugrats-match-master.json](./273878-rugrats-match-master.json) |
 | Rugrats: Retro Rewind Collection | 399837 | [399837-rugrats-retro-rewind-collection.json](./399837-rugrats-retro-rewind-collection.json) |
+| Rugrats: Royal Ransom | 2793 | [2793-rugrats-royal-ransom.json](./2793-rugrats-royal-ransom.json) |
 | Rugrats: Scavenger Hunt | 2786 | [2786-rugrats-scavenger-hunt.json](./2786-rugrats-scavenger-hunt.json) |
 | Rugrats: Studio Tour | 2788 | [2788-rugrats-studio-tour.json](./2788-rugrats-studio-tour.json) |
 | Rúguǒ Yīshēng Zhǐ Yǒu Sān Shí Suì | 121646 | [121646-ruguo-yisheng-zhi-you-san-shi-sui.json](./121646-ruguo-yisheng-zhi-you-san-shi-sui.json) |
