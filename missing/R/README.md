@@ -1745,6 +1745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recursudoku | 413194 | [413194-recursudoku.json](./413194-recursudoku.json) |
 | Recycle | 17300 | [17300-recycle.json](./17300-recycle.json) |
 | Recycle Master | 300851 | [300851-recycle-master.json](./300851-recycle-master.json) |
+| Recycle Shop Eco | 415993 | [415993-recycle-shop-eco.json](./415993-recycle-shop-eco.json) |
 | Recycler's Terminal | 116327 | [116327-recyclers-terminal.json](./116327-recyclers-terminal.json) |
 | Red | 196139 | [196139-red.json](./196139-red.json) |
 | Red | 29948 | [29948-red.json](./29948-red.json) |
@@ -2792,6 +2793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retribution: Universal Requiem | 164875 | [164875-retribution-universal-requiem.json](./164875-retribution-universal-requiem.json) |
 | Retrieval | 405598 | [405598-retrieval.json](./405598-retrieval.json) |
 | Retrieving the Past: Steam Edition | 195241 | [195241-retrieving-the-past-steam-edition.json](./195241-retrieving-the-past-steam-edition.json) |
+| ReTrime | 414466 | [414466-retrime.json](./414466-retrime.json) |
 | Retro | 171479 | [171479-retro.json](./171479-retro.json) |
 | Retro Abyss | 221677 | [221677-retro-abyss.json](./221677-retro-abyss.json) |
 | Retro Adventure | 308399 | [308399-retro-adventure.json](./308399-retro-adventure.json) |
@@ -3688,6 +3690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ripple in Dirac Sea | 253861 | [253861-ripple-in-dirac-sea.json](./253861-ripple-in-dirac-sea.json) |
 | Ripple Island | 48791 | [48791-ripple-island.json](./48791-ripple-island.json) |
 | Ripple Park | 405513 | [405513-ripple-park.json](./405513-ripple-park.json) |
+| RippleLoop | 416045 | [416045-rippleloop.json](./416045-rippleloop.json) |
 | Ripples | 239315 | [239315-ripples.json](./239315-ripples.json) |
 | Ripshot | 158041 | [158041-ripshot.json](./158041-ripshot.json) |
 | Riptale | 28313 | [28313-riptale.json](./28313-riptale.json) |
@@ -5062,6 +5065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rome Empire War: Strategy Games | 175702 | [175702-rome-empire-war-strategy-games.json](./175702-rome-empire-war-strategy-games.json) |
 | Rome Pathway to Power | 171554 | [171554-rome-pathway-to-power.json](./171554-rome-pathway-to-power.json) |
 | Rome: Caesar's Will | 73781 | [73781-rome-caesars-will.json](./73781-rome-caesars-will.json) |
+| Rome: Card Battles | 414490 | [414490-rome-card-battles.json](./414490-rome-card-battles.json) |
 | Rome: The Mystery of the Chronovisor | 244702 | [244702-rome-the-mystery-of-the-chronovisor.json](./244702-rome-the-mystery-of-the-chronovisor.json) |
 | Rome: Total War - Collection | 82069 | [82069-rome-total-war-collection.json](./82069-rome-total-war-collection.json) |
 | Rome: Total War - Gold Edition | 24146 | [24146-rome-total-war-gold-edition.json](./24146-rome-total-war-gold-edition.json) |
