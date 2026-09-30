@@ -1784,6 +1784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tell The Forest To F*ck Off | 135781 | [135781-tell-the-forest-to-f-ck-off.json](./135781-tell-the-forest-to-f-ck-off.json) |
 | Teller's Duty | 336022 | [336022-tellers-duty.json](./336022-tellers-duty.json) |
 | Telltale Batman Shadows Edition | 127560 | [127560-telltale-batman-shadows-edition.json](./127560-telltale-batman-shadows-edition.json) |
+| TellTale: Casino Murder Case | 395787 | [395787-telltale-casino-murder-case.json](./395787-telltale-casino-murder-case.json) |
 | Tellurian Defense | 73555 | [73555-tellurian-defense.json](./73555-tellurian-defense.json) |
 | Telly the TV | 314643 | [314643-telly-the-tv.json](./314643-telly-the-tv.json) |
 | Telly Turtle | 40905 | [40905-telly-turtle.json](./40905-telly-turtle.json) |
@@ -2855,6 +2856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ashes of the Fallen Fires | 181132 | [181132-the-ashes-of-the-fallen-fires.json](./181132-the-ashes-of-the-fallen-fires.json) |
 | The Asmodian Princesses and the Witch in the Forest | 199088 | [199088-the-asmodian-princesses-and-the-witch-in-the-forest.json](./199088-the-asmodian-princesses-and-the-witch-in-the-forest.json) |
 | The Assassins: PD Games Volume 01 | 267643 | [267643-the-assassins-pd-games-volume-01.json](./267643-the-assassins-pd-games-volume-01.json) |
+| The Assault: Survivor | 395780 | [395780-the-assault-survivor.json](./395780-the-assault-survivor.json) |
 | The Assistant's Turnabout | 303261 | [303261-the-assistants-turnabout.json](./303261-the-assistants-turnabout.json) |
 | The Asskickers | 9403 | [9403-the-asskickers.json](./9403-the-asskickers.json) |
 | The Asteroid Field | 280884 | [280884-the-asteroid-field.json](./280884-the-asteroid-field.json) |
