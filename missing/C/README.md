@@ -4225,6 +4225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Civil War: 1863 Gold | 107390 | [107390-civil-war-1863-gold.json](./107390-civil-war-1863-gold.json) |
 | Civil War: 1864 Gold | 99176 | [99176-civil-war-1864-gold.json](./99176-civil-war-1864-gold.json) |
 | Civil War: 1865 | 28795 | [28795-civil-war-1865.json](./28795-civil-war-1865.json) |
+| Civil War: Battle of Petersburg | 29657 | [29657-civil-war-battle-of-petersburg.json](./29657-civil-war-battle-of-petersburg.json) |
 | Civil War: Bull Run 1861 | 51549 | [51549-civil-war-bull-run-1861.json](./51549-civil-war-bull-run-1861.json) |
 | Civil War: Gettysburg | 55501 | [55501-civil-war-gettysburg.json](./55501-civil-war-gettysburg.json) |
 | Civil Warfare: Another Bullet in the War | 79136 | [79136-civil-warfare-another-bullet-in-the-war.json](./79136-civil-warfare-another-bullet-in-the-war.json) |
