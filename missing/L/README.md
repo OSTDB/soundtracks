@@ -4200,6 +4200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Cat: Dream Party | 247520 | [247520-lovely-cat-dream-party.json](./247520-lovely-cat-dream-party.json) |
 | Lovely Cat: Mermaid Castle | 247521 | [247521-lovely-cat-mermaid-castle.json](./247521-lovely-cat-mermaid-castle.json) |
 | Lovely Crush | 236925 | [236925-lovely-crush.json](./236925-lovely-crush.json) |
+| Lovely Deco House | 402426 | [402426-lovely-deco-house.json](./402426-lovely-deco-house.json) |
 | Lovely Farm | 264360 | [264360-lovely-farm.json](./264360-lovely-farm.json) |
 | Lovely Fox | 102918 | [102918-lovely-fox.json](./102918-lovely-fox.json) |
 | Lovely Fracture | 183363 | [183363-lovely-fracture.json](./183363-lovely-fracture.json) |
@@ -4236,6 +4237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovers in a Dangerous Spacetime | 12520 | [12520-lovers-in-a-dangerous-spacetime.json](./12520-lovers-in-a-dangerous-spacetime.json) |
 | Lovers in Playa Rosa | 241374 | [241374-lovers-in-playa-rosa.json](./241374-lovers-in-playa-rosa.json) |
 | Lovers of Aether | 117041 | [117041-lovers-of-aether.json](./117041-lovers-of-aether.json) |
+| Lovers’ Fun! | 402457 | [402457-lovers-fun.json](./402457-lovers-fun.json) |
 | Lovesick | 413796 | [413796-lovesick.json](./413796-lovesick.json) |
 | LoveSoTea | 250279 | [250279-lovesotea.json](./250279-lovesotea.json) |
 | Lovin House | 153845 | [153845-lovin-house.json](./153845-lovin-house.json) |
