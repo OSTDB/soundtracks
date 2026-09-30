@@ -165,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 Levels: 10 Monsters | 262292 | [262292-10-levels-10-monsters.json](./262292-10-levels-10-monsters.json) |
 | 10 Little Robots | 76621 | [76621-10-little-robots.json](./76621-10-little-robots.json) |
 | 10 Miles to Safety | 122809 | [122809-10-miles-to-safety.json](./122809-10-miles-to-safety.json) |
+| 10 Million Pixels | 413109 | [413109-10-million-pixels.json](./413109-10-million-pixels.json) |
 | 10 Minute Barbarian | 34776 | [34776-10-minute-barbarian.json](./34776-10-minute-barbarian.json) |
 | 10 Minute Massacre | 316985 | [316985-10-minute-massacre.json](./316985-10-minute-massacre.json) |
 | 10 Minutes Till Dawn | 202828 | [202828-10-minutes-till-dawn.json](./202828-10-minutes-till-dawn.json) |
