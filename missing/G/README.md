@@ -1932,6 +1932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gift | 95440 | [95440-gift.json](./95440-gift.json) |
 | Gift Drop Machine: Life Simulator | 390242 | [390242-gift-drop-machine-life-simulator.json](./390242-gift-drop-machine-life-simulator.json) |
 | Gift for You | 290702 | [290702-gift-for-you.json](./290702-gift-for-you.json) |
+| Gift From God | 411770 | [411770-gift-from-god.json](./411770-gift-from-god.json) |
 | Gift Giving Up | 141746 | [141746-gift-giving-up.json](./141746-gift-giving-up.json) |
 | Gift of Life: Key of Solomon | 88228 | [88228-gift-of-life-key-of-solomon.json](./88228-gift-of-life-key-of-solomon.json) |
 | Gift of Spring | 82189 | [82189-gift-of-spring.json](./82189-gift-of-spring.json) |
@@ -3117,6 +3118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gooba Ball | 300696 | [300696-gooba-ball.json](./300696-gooba-ball.json) |
 | GooBall | 146187 | [146187-gooball.json](./146187-gooball.json) |
 | Goober Arena | 320378 | [320378-goober-arena.json](./320378-goober-arena.json) |
+| Goobers | 411751 | [411751-goobers.json](./411751-goobers.json) |
 | Gooch Grundy's X-Decathlon | 73797 | [73797-gooch-grundys-x-decathlon.json](./73797-gooch-grundys-x-decathlon.json) |
 | GooCubelets 2 | 34249 | [34249-goocubelets-2.json](./34249-goocubelets-2.json) |
 | GooCubelets: Color Blocking | 44224 | [44224-goocubelets-color-blocking.json](./44224-goocubelets-color-blocking.json) |
