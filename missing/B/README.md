@@ -4649,6 +4649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blindsight: War of the Wardens | 248889 | [248889-blindsight-war-of-the-wardens.json](./248889-blindsight-war-of-the-wardens.json) |
 | Blinest | 228731 | [228731-blinest.json](./228731-blinest.json) |
 | Bling Bling Bankruptcy | 363943 | [363943-bling-bling-bankruptcy.json](./363943-bling-bling-bankruptcy.json) |
+| Blink | 27800 | [27800-blink.json](./27800-blink.json) |
 | Blink | 413761 | [413761-blink.json](./413761-blink.json) |
 | Blink and Die Replay | 319351 | [319351-blink-and-die-replay.json](./319351-blink-and-die-replay.json) |
 | Blink the Bulb | 31099 | [31099-blink-the-bulb.json](./31099-blink-the-bulb.json) |
@@ -4892,6 +4893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocks: New Tangram Puzzles | 101070 | [101070-blocks-new-tangram-puzzles.json](./101070-blocks-new-tangram-puzzles.json) |
 | Blocks! | 207281 | [207281-blocks.json](./207281-blocks.json) |
 | Blocks! | 295521 | [295521-blocks.json](./295521-blocks.json) |
+| Blockships | 27999 | [27999-blockships.json](./27999-blockships.json) |
 | Blockshock | 83482 | [83482-blockshock.json](./83482-blockshock.json) |
 | BlockShot Champion | 56783 | [56783-blockshot-champion.json](./56783-blockshot-champion.json) |
 | BlockStarPlanet | 55168 | [55168-blockstarplanet.json](./55168-blockstarplanet.json) |
@@ -6250,6 +6252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boule & Bill: Holiday time! | 67961 | [67961-boule-and-bill-holiday-time.json](./67961-boule-and-bill-holiday-time.json) |
 | BouleMan | 349508 | [349508-bouleman.json](./349508-bouleman.json) |
 | Bounce | 172047 | [172047-bounce.json](./172047-bounce.json) |
+| Bounce | 27679 | [27679-bounce.json](./27679-bounce.json) |
 | Bounce Arcade | 306945 | [306945-bounce-arcade.json](./306945-bounce-arcade.json) |
 | Bounce ASMR: Circle | 288911 | [288911-bounce-asmr-circle.json](./288911-bounce-asmr-circle.json) |
 | Bounce ASMR: Hexagon | 288913 | [288913-bounce-asmr-hexagon.json](./288913-bounce-asmr-hexagon.json) |
