@@ -2594,6 +2594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beautiful Desolation | 56914 | [56914-beautiful-desolation.json](./56914-beautiful-desolation.json) |
 | Beautiful Escape: Dungeoneer | 214574 | [214574-beautiful-escape-dungeoneer.json](./214574-beautiful-escape-dungeoneer.json) |
 | Beautiful Girl Fight School | 130207 | [130207-beautiful-girl-fight-school.json](./130207-beautiful-girl-fight-school.json) |
+| Beautiful Girls on Campus: Memories of Youth | 420678 | [420678-beautiful-girls-on-campus-memories-of-youth.json](./420678-beautiful-girls-on-campus-memories-of-youth.json) |
 | Beautiful Indie Worlds Bundle | 246112 | [246112-beautiful-indie-worlds-bundle.json](./246112-beautiful-indie-worlds-bundle.json) |
 | Beautiful Japanese Scenery: Animated Jigsaws | 31695 | [31695-beautiful-japanese-scenery-animated-jigsaws.json](./31695-beautiful-japanese-scenery-animated-jigsaws.json) |
 | Beautiful Mystic Defenders | 159748 | [159748-beautiful-mystic-defenders.json](./159748-beautiful-mystic-defenders.json) |
@@ -3458,6 +3459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Titty Teacher: Hentai School Life | 97667 | [97667-big-titty-teacher-hentai-school-life.json](./97667-big-titty-teacher-hentai-school-life.json) |
 | Big Top Solitaire | 386134 | [386134-big-top-solitaire.json](./386134-big-top-solitaire.json) |
 | Big TV Mary Bar | 48324 | [48324-big-tv-mary-bar.json](./48324-big-tv-mary-bar.json) |
+| Big Watermelon Galaxy | 420677 | [420677-big-watermelon-galaxy.json](./420677-big-watermelon-galaxy.json) |
 | Big Watermelon Match | 283295 | [283295-big-watermelon-match.json](./283295-big-watermelon-match.json) |
 | Big Win Football 2019 | 108590 | [108590-big-win-football-2019.json](./108590-big-win-football-2019.json) |
 | Big Yeetus | 260096 | [260096-big-yeetus.json](./260096-big-yeetus.json) |
@@ -7229,6 +7231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Dimensions | 350640 | [350640-broken-dimensions.json](./350640-broken-dimensions.json) |
 | Broken Dreams | 33495 | [33495-broken-dreams.json](./33495-broken-dreams.json) |
 | Broken Ecchi Gallery | 280748 | [280748-broken-ecchi-gallery.json](./280748-broken-ecchi-gallery.json) |
+| Broken Fields: Stay or Run? | 420676 | [420676-broken-fields-stay-or-run.json](./420676-broken-fields-stay-or-run.json) |
 | Broken God Awakening | 216791 | [216791-broken-god-awakening.json](./216791-broken-god-awakening.json) |
 | Broken Hearts Club: Blue Bird Blues | 120844 | [120844-broken-hearts-club-blue-bird-blues.json](./120844-broken-hearts-club-blue-bird-blues.json) |
 | Broken Hearts Island | 258990 | [258990-broken-hearts-island.json](./258990-broken-hearts-island.json) |
