@@ -785,6 +785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarioWare: D.I.Y. Showcase | 50705 | [50705-warioware-d-i-y-showcase.json](./50705-warioware-d-i-y-showcase.json) |
 | WarioWare: Get It Together! | 152358 | [152358-warioware-get-it-together.json](./152358-warioware-get-it-together.json) |
 | WarioWare: Twisted! | 1704 | [1704-warioware-twisted.json](./1704-warioware-twisted.json) |
+| Warium | 87768 | [87768-warium.json](./87768-warium.json) |
 | Warja | 277295 | [277295-warja.json](./277295-warja.json) |
 | Warka Flarka Flim Flam | 29942 | [29942-warka-flarka-flim-flam.json](./29942-warka-flarka-flim-flam.json) |
 | Warkanoid II: Wildlife | 122851 | [122851-warkanoid-ii-wildlife.json](./122851-warkanoid-ii-wildlife.json) |
@@ -1768,6 +1769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What's My Gender? | 102349 | [102349-whats-my-gender.json](./102349-whats-my-gender.json) |
 | What's on Agenda | 302508 | [302508-whats-on-agenda.json](./302508-whats-on-agenda.json) |
 | What's Outside | 278729 | [278729-whats-outside.json](./278729-whats-outside.json) |
+| What's Pixelated? | 88476 | [88476-whats-pixelated.json](./88476-whats-pixelated.json) |
 | What's Shenmue? | 93595 | [93595-whats-shenmue.json](./93595-whats-shenmue.json) |
 | What's the Difference? Spot It | 90182 | [90182-whats-the-difference-spot-it.json](./90182-whats-the-difference-spot-it.json) |
 | What's the Dog Doing? | 325553 | [325553-whats-the-dog-doing.json](./325553-whats-the-dog-doing.json) |
