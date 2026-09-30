@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Few Days With: The Fairies | 392953 | [392953-a-few-days-with-the-fairies.json](./392953-a-few-days-with-the-fairies.json) |
 | A Few Days With: Valentina | 337797 | [337797-a-few-days-with-valentina.json](./337797-a-few-days-with-valentina.json) |
 | A Few Minutes of Glory | 216159 | [216159-a-few-minutes-of-glory.json](./216159-a-few-minutes-of-glory.json) |
+| A Fighter’s Nova: Mindara | 391811 | [391811-a-fighter-s-nova-mindara.json](./391811-a-fighter-s-nova-mindara.json) |
 | A Finality with Sheji | 113852 | [113852-a-finality-with-sheji.json](./113852-a-finality-with-sheji.json) |
 | A Firefighter's Boxing Matches | 179136 | [179136-a-firefighters-boxing-matches.json](./179136-a-firefighters-boxing-matches.json) |
 | A Firm Handshake | 176349 | [176349-a-firm-handshake.json](./176349-a-firm-handshake.json) |
