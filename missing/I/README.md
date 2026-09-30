@@ -975,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikkitousen: Shining Dragon | 44645 | [44645-ikkitousen-shining-dragon.json](./44645-ikkitousen-shining-dragon.json) |
 | Ikoka Game | 273458 | [273458-ikoka-game.json](./273458-ikoka-game.json) |
 | Ikonei Island: An Earthlock Adventure | 197183 | [197183-ikonei-island-an-earthlock-adventure.json](./197183-ikonei-island-an-earthlock-adventure.json) |
+| Ikonoijoy Puzzle | 403117 | [403117-ikonoijoy-puzzle.json](./403117-ikonoijoy-puzzle.json) |
 | IKOU: Intelligenztrainer fur Kids | 269634 | [269634-ikou-intelligenztrainer-fur-kids.json](./269634-ikou-intelligenztrainer-fur-kids.json) |
 | Iktsua | 329930 | [329930-iktsua.json](./329930-iktsua.json) |
 | Ikun Go Go Go | 390628 | [390628-ikun-go-go-go.json](./390628-ikun-go-go-go.json) |
@@ -1498,6 +1499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incremental Epic Hero 2 | 197398 | [197398-incremental-epic-hero-2.json](./197398-incremental-epic-hero-2.json) |
 | Incremental Infinity | 390249 | [390249-incremental-infinity.json](./390249-incremental-infinity.json) |
 | Incremental Island | 295878 | [295878-incremental-island.json](./295878-incremental-island.json) |
+| Incremental Retro Racing | 403098 | [403098-incremental-retro-racing.json](./403098-incremental-retro-racing.json) |
 | Incremental School Tap Battle | 297647 | [297647-incremental-school-tap-battle.json](./297647-incremental-school-tap-battle.json) |
 | Increvaders | 418743 | [418743-increvaders.json](./418743-increvaders.json) |
 | Incubo | 113609 | [113609-incubo.json](./113609-incubo.json) |
@@ -1733,6 +1735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infidel | 12157 | [12157-infidel.json](./12157-infidel.json) |
 | Infierno Rubí | 294232 | [294232-infierno-rubi.json](./294232-infierno-rubi.json) |
 | Infiltrate | 22413 | [22413-infiltrate.json](./22413-infiltrate.json) |
+| Infiltrating Roudille | 403065 | [403065-infiltrating-roudille.json](./403065-infiltrating-roudille.json) |
 | Infiltrating Sam's Club | 278442 | [278442-infiltrating-sams-club.json](./278442-infiltrating-sams-club.json) |
 | Infiltration: Alone in Combat | 151196 | [151196-infiltration-alone-in-combat.json](./151196-infiltration-alone-in-combat.json) |
 | Infiltria | 113499 | [113499-infiltria.json](./113499-infiltria.json) |
