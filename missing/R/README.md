@@ -3749,6 +3749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risen 3: Titan Lords | 6142 | [6142-risen-3-titan-lords.json](./6142-risen-3-titan-lords.json) |
 | Risen 3: Titan Lords - Enhanced Edition | 42939 | [42939-risen-3-titan-lords-enhanced-edition.json](./42939-risen-3-titan-lords-enhanced-edition.json) |
 | Risen Dragons | 53514 | [53514-risen-dragons.json](./53514-risen-dragons.json) |
+| Risen Kingdom | 128025 | [128025-risen-kingdom.json](./128025-risen-kingdom.json) |
 | Risiko Chess | 274556 | [274556-risiko-chess.json](./274556-risiko-chess.json) |
 | Risimon | 315709 | [315709-risimon.json](./315709-risimon.json) |
 | Rising Angels: Fates Allegiance | 75215 | [75215-rising-angels-fates-allegiance.json](./75215-rising-angels-fates-allegiance.json) |
@@ -5555,6 +5556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugrats in Paris: The Movie | 249130 | [249130-rugrats-in-paris-the-movie.json](./249130-rugrats-in-paris-the-movie.json) |
 | Rugrats in Paris: The Movie | 2792 | [2792-rugrats-in-paris-the-movie.json](./2792-rugrats-in-paris-the-movie.json) |
 | Rugrats Munchin Land | 70346 | [70346-rugrats-munchin-land.json](./70346-rugrats-munchin-land.json) |
+| Rugrats: Adventures in Gameland | 264302 | [264302-rugrats-adventures-in-gameland.json](./264302-rugrats-adventures-in-gameland.json) |
 | Rugrats: Adventures in Gameland | 299152 | [299152-rugrats-adventures-in-gameland.json](./299152-rugrats-adventures-in-gameland.json) |
 | Rugrats: All Growed-Up | 7990 | [7990-rugrats-all-growed-up.json](./7990-rugrats-all-growed-up.json) |
 | Rugrats: Match-Master | 273878 | [273878-rugrats-match-master.json](./273878-rugrats-match-master.json) |
@@ -5987,6 +5989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusty Lake: Roots | 25222 | [25222-rusty-lake-roots.json](./25222-rusty-lake-roots.json) |
 | Rusty Orb | 95560 | [95560-rusty-orb.json](./95560-rusty-orb.json) |
 | Rusty Punk | 177923 | [177923-rusty-punk.json](./177923-rusty-punk.json) |
+| Rusty Rabbit | 267796 | [267796-rusty-rabbit.json](./267796-rusty-rabbit.json) |
 | Rusty Ride | 266794 | [266794-rusty-ride.json](./266794-rusty-ride.json) |
 | Rusty Road Racing | 324924 | [324924-rusty-road-racing.json](./324924-rusty-road-racing.json) |
 | Rusty Seas | 207319 | [207319-rusty-seas.json](./207319-rusty-seas.json) |
