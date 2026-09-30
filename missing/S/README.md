@@ -2729,6 +2729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serial Experiments Lain | 76448 | [76448-serial-experiments-lain.json](./76448-serial-experiments-lain.json) |
 | Serial Experiments Lain Bootleg | 245007 | [245007-serial-experiments-lain-bootleg.json](./245007-serial-experiments-lain-bootleg.json) |
 | Serial Hunter | 191572 | [191572-serial-hunter.json](./191572-serial-hunter.json) |
+| Serial Killers & Zombies: Horror Bundle | 393052 | [393052-serial-killers-and-zombies-horror-bundle.json](./393052-serial-killers-and-zombies-horror-bundle.json) |
 | Serial Lover | 133207 | [133207-serial-lover.json](./133207-serial-lover.json) |
 | Serial World | 301328 | [301328-serial-world.json](./301328-serial-world.json) |
 | Series Makers Tycoon | 173806 | [173806-series-makers-tycoon.json](./173806-series-makers-tycoon.json) |
@@ -5515,6 +5516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six Orders | 277615 | [277615-six-orders.json](./277615-six-orders.json) |
 | Six Rules | 124673 | [124673-six-rules.json](./124673-six-rules.json) |
 | Six Seals | 384533 | [384533-six-seals.json](./384533-six-seals.json) |
+| Six Seven Nights | 393049 | [393049-six-seven-nights.json](./393049-six-seven-nights.json) |
 | Six Shots | 176796 | [176796-six-shots.json](./176796-six-shots.json) |
 | Six Sided Sanctuary | 128390 | [128390-six-sided-sanctuary.json](./128390-six-sided-sanctuary.json) |
 | Six Sides of the World | 34930 | [34930-six-sides-of-the-world.json](./34930-six-sides-of-the-world.json) |
@@ -10440,6 +10442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob HeroPants | 8474 | [8474-spongebob-heropants.json](./8474-spongebob-heropants.json) |
 | SpongeBob in Run For The Krusty Krab | 382779 | [382779-spongebob-in-run-for-the-krusty-krab.json](./382779-spongebob-in-run-for-the-krusty-krab.json) |
 | SpongeBob Laptop | 293737 | [293737-spongebob-laptop.json](./293737-spongebob-laptop.json) |
+| SpongeBob PixelPants | 393091 | [393091-spongebob-pixelpants.json](./393091-spongebob-pixelpants.json) |
 | SpongeBob SolitairePants | 294177 | [294177-spongebob-solitairepants.json](./294177-spongebob-solitairepants.json) |
 | SpongeBob SquarePants | 220120 | [220120-spongebob-squarepants.json](./220120-spongebob-squarepants.json) |
 | SpongeBob SquarePants 3D Obstacle Odyssey | 46728 | [46728-spongebob-squarepants-3d-obstacle-odyssey.json](./46728-spongebob-squarepants-3d-obstacle-odyssey.json) |
@@ -13472,6 +13475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stunts | 11630 | [11630-stunts.json](./11630-stunts.json) |
 | Stunts above Clouds 2 | 296988 | [296988-stunts-above-clouds-2.json](./296988-stunts-above-clouds-2.json) |
 | Stunts Contest Extreme Cars | 216864 | [216864-stunts-contest-extreme-cars.json](./216864-stunts-contest-extreme-cars.json) |
+| Stunts Contest Police Car | 393016 | [393016-stunts-contest-police-car.json](./393016-stunts-contest-police-car.json) |
 | Stunts Contest: Beach Edition | 215710 | [215710-stunts-contest-beach-edition.json](./215710-stunts-contest-beach-edition.json) |
 | Stunts Contest: Super Bike | 215709 | [215709-stunts-contest-super-bike.json](./215709-stunts-contest-super-bike.json) |
 | Stupid Camera | 255992 | [255992-stupid-camera.json](./255992-stupid-camera.json) |
