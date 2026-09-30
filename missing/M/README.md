@@ -109,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machine Love 2069 | 247739 | [247739-machine-love-2069.json](./247739-machine-love-2069.json) |
 | Machine Match | 277338 | [277338-machine-match.json](./277338-machine-match.json) |
 | Machine Men | 299448 | [299448-machine-men.json](./299448-machine-men.json) |
+| Machine Mind | 328621 | [328621-machine-mind.json](./328621-machine-mind.json) |
 | Machine of Madness | 409547 | [409547-machine-of-madness.json](./409547-machine-of-madness.json) |
 | Machine Party | 397811 | [397811-machine-party.json](./397811-machine-party.json) |
 | Machine Ruin Self-Destruction Masturbation Life of the Sky Temple | 189971 | [189971-machine-ruin-self-destruction-masturbation-life-of-the-sky-temple.json](./189971-machine-ruin-self-destruction-masturbation-life-of-the-sky-temple.json) |
@@ -6425,6 +6426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam Gihren's Greed: Zeon Revolutionary War | 75727 | [75727-mobile-suit-gundam-gihrens-greed-zeon-revolutionary-war.json](./75727-mobile-suit-gundam-gihrens-greed-zeon-revolutionary-war.json) |
 | Mobile Suit Gundam SEED: Battle Assault | 49325 | [49325-mobile-suit-gundam-seed-battle-assault.json](./49325-mobile-suit-gundam-seed-battle-assault.json) |
 | Mobile Suit Gundam SEED: Battle Destiny | 75723 | [75723-mobile-suit-gundam-seed-battle-destiny.json](./75723-mobile-suit-gundam-seed-battle-destiny.json) |
+| Mobile Suit Gundam Seed: Battle Destiny Remastered | 331460 | [331460-mobile-suit-gundam-seed-battle-destiny-remastered.json](./331460-mobile-suit-gundam-seed-battle-destiny-remastered.json) |
 | Mobile Suit Gundam Side Story I: Sentritsu no Blue | 194943 | [194943-mobile-suit-gundam-side-story-i-sentritsu-no-blue.json](./194943-mobile-suit-gundam-side-story-i-sentritsu-no-blue.json) |
 | Mobile Suit Gundam Side Story II: Aoi wo Uketsugu Mono | 66077 | [66077-mobile-suit-gundam-side-story-ii-aoi-wo-uketsugu-mono.json](./66077-mobile-suit-gundam-side-story-ii-aoi-wo-uketsugu-mono.json) |
 | Mobile Suit Gundam Side Story III: Sabakareshi Mono | 66076 | [66076-mobile-suit-gundam-side-story-iii-sabakareshi-mono.json](./66076-mobile-suit-gundam-side-story-iii-sabakareshi-mono.json) |
@@ -6981,6 +6983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Collector | 143647 | [143647-monster-collector.json](./143647-monster-collector.json) |
 | Monster Combine TD | 85615 | [85615-monster-combine-td.json](./85615-monster-combine-td.json) |
 | Monster Commanders | 310720 | [310720-monster-commanders.json](./310720-monster-commanders.json) |
+| Monster Crown: Sin Eater | 327715 | [327715-monster-crown-sin-eater.json](./327715-monster-crown-sin-eater.json) |
 | Monster Dash | 18497 | [18497-monster-dash.json](./18497-monster-dash.json) |
 | Monster Desert | 233458 | [233458-monster-desert.json](./233458-monster-desert.json) |
 | Monster Dungeon | 192666 | [192666-monster-dungeon.json](./192666-monster-dungeon.json) |
@@ -7339,6 +7342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Montezuma's Revenge featuring Panama Joe | 12297 | [12297-montezumas-revenge-featuring-panama-joe.json](./12297-montezumas-revenge-featuring-panama-joe.json) |
 | Montezuma's Revenge Featuring Panama Joe | 46138 | [46138-montezumas-revenge-featuring-panama-joe.json](./46138-montezumas-revenge-featuring-panama-joe.json) |
 | Montezuma's Revenge: 8-Bit Edition | 234623 | [234623-montezumas-revenge-8-bit-edition.json](./234623-montezumas-revenge-8-bit-edition.json) |
+| Montezuma's Revenge: The 40th Anniversary Edition | 330130 | [330130-montezumas-revenge-the-40th-anniversary-edition.json](./330130-montezumas-revenge-the-40th-anniversary-edition.json) |
 | Montgomery Fox and the Revenge of Victor Draven | 226321 | [226321-montgomery-fox-and-the-revenge-of-victor-draven.json](./226321-montgomery-fox-and-the-revenge-of-victor-draven.json) |
 | Monthly Dystopia | 232397 | [232397-monthly-dystopia.json](./232397-monthly-dystopia.json) |
 | Monti: The Hidden Secret | 278989 | [278989-monti-the-hidden-secret.json](./278989-monti-the-hidden-secret.json) |
@@ -7481,6 +7485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlight Walks | 51178 | [51178-moonlight-walks.json](./51178-moonlight-walks.json) |
 | Moonlight Warrior | 117107 | [117107-moonlight-warrior.json](./117107-moonlight-warrior.json) |
 | Moonlighter | 27771 | [27771-moonlighter.json](./27771-moonlighter.json) |
+| Moonlighter 2: The Endless Vault | 324570 | [324570-moonlighter-2-the-endless-vault.json](./324570-moonlighter-2-the-endless-vault.json) |
 | Moonlighter: Between Dimensions | 119236 | [119236-moonlighter-between-dimensions.json](./119236-moonlighter-between-dimensions.json) |
 | Moonlit | 141094 | [141094-moonlit.json](./141094-moonlit.json) |
 | Moonlit | 263437 | [263437-moonlit.json](./263437-moonlit.json) |
