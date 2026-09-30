@@ -1496,6 +1496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teared | 287186 | [287186-teared.json](./287186-teared.json) |
 | Tearfallen | 298635 | [298635-tearfallen.json](./298635-tearfallen.json) |
 | Tearoom of Terror | 398590 | [398590-tearoom-of-terror.json](./398590-tearoom-of-terror.json) |
+| Tears Apart | 400422 | [400422-tears-apart.json](./400422-tears-apart.json) |
 | Tears Fall Low | 245919 | [245919-tears-fall-low.json](./245919-tears-fall-low.json) |
 | Tears of a Dragon | 29798 | [29798-tears-of-a-dragon.json](./29798-tears-of-a-dragon.json) |
 | Tears of a Prophet | 174203 | [174203-tears-of-a-prophet.json](./174203-tears-of-a-prophet.json) |
@@ -1595,6 +1596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teddy Floppy Ear: Mountain Adventure | 36002 | [36002-teddy-floppy-ear-mountain-adventure.json](./36002-teddy-floppy-ear-mountain-adventure.json) |
 | Teddy Gangs | 124072 | [124072-teddy-gangs.json](./124072-teddy-gangs.json) |
 | Teddy Horses | 374149 | [374149-teddy-horses.json](./374149-teddy-horses.json) |
+| Teddy Is Coming | 400421 | [400421-teddy-is-coming.json](./400421-teddy-is-coming.json) |
 | Teddy Roller 1 | 323534 | [323534-teddy-roller-1.json](./323534-teddy-roller-1.json) |
 | Teddy Terror | 25845 | [25845-teddy-terror.json](./25845-teddy-terror.json) |
 | Teddy the Wanderer: Kayaking | 112121 | [112121-teddy-the-wanderer-kayaking.json](./112121-teddy-the-wanderer-kayaking.json) |
@@ -2997,6 +2999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Battles of Napoleon | 54436 | [54436-the-battles-of-napoleon.json](./54436-the-battles-of-napoleon.json) |
 | The Battles of Spwak 3 | 126601 | [126601-the-battles-of-spwak-3.json](./126601-the-battles-of-spwak-3.json) |
 | The Baumman Box | 372452 | [372452-the-baumman-box.json](./372452-the-baumman-box.json) |
+| The Bazaar: Karnok | 400415 | [400415-the-bazaar-karnok.json](./400415-the-bazaar-karnok.json) |
 | The Bean Machine | 408228 | [408228-the-bean-machine.json](./408228-the-bean-machine.json) |
 | The Bean Trials | 337665 | [337665-the-bean-trials.json](./337665-the-bean-trials.json) |
 | The Beanstalk | 82041 | [82041-the-beanstalk.json](./82041-the-beanstalk.json) |
@@ -5512,6 +5515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kings Crusade: New Allies | 10976 | [10976-the-kings-crusade-new-allies.json](./10976-the-kings-crusade-new-allies.json) |
 | The Kings Crusade: Teutonic Knights | 10977 | [10977-the-kings-crusade-teutonic-knights.json](./10977-the-kings-crusade-teutonic-knights.json) |
 | The Kings of Limbo | 184498 | [184498-the-kings-of-limbo.json](./184498-the-kings-of-limbo.json) |
+| The Kingsward | 400393 | [400393-the-kingsward.json](./400393-the-kingsward.json) |
 | The Kite | 111664 | [111664-the-kite.json](./111664-the-kite.json) |
 | The Klaxo Radio Hour | 122846 | [122846-the-klaxo-radio-hour.json](./122846-the-klaxo-radio-hour.json) |
 | The Knight Dance | 301377 | [301377-the-knight-dance.json](./301377-the-knight-dance.json) |
@@ -9504,6 +9508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thomas' Tales | 195614 | [195614-thomas-tales.json](./195614-thomas-tales.json) |
 | Thoom | 311069 | [311069-thoom.json](./311069-thoom.json) |
 | Thor | 95414 | [95414-thor.json](./95414-thor.json) |
+| Thor: God of Thunder | 400413 | [400413-thor-god-of-thunder.json](./400413-thor-god-of-thunder.json) |
 | Thor: Son of Asgard | 65601 | [65601-thor-son-of-asgard.json](./65601-thor-son-of-asgard.json) |
 | Thor: The Dark World - The Official Game | 62214 | [62214-thor-the-dark-world-the-official-game.json](./62214-thor-the-dark-world-the-official-game.json) |
 | Thor's Legacy | 298135 | [298135-thors-legacy.json](./298135-thors-legacy.json) |
@@ -11007,6 +11012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tincan | 333076 | [333076-tincan.json](./333076-tincan.json) |
 | Tincan HD | 333079 | [333079-tincan-hd.json](./333079-tincan-hd.json) |
 | Tincan! Escape | 85444 | [85444-tincan-escape.json](./85444-tincan-escape.json) |
+| Tindark | 400436 | [400436-tindark.json](./400436-tindark.json) |
 | Tingus Goose | 285342 | [285342-tingus-goose.json](./285342-tingus-goose.json) |
 | Tinicraft | 184381 | [184381-tinicraft.json](./184381-tinicraft.json) |
 | Tinier Me | 327215 | [327215-tinier-me.json](./327215-tinier-me.json) |
@@ -11521,6 +11527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Together | 82054 | [82054-together.json](./82054-together.json) |
 | Together | 96269 | [96269-together.json](./96269-together.json) |
 | Together After Dark | 286654 | [286654-together-after-dark.json](./286654-together-after-dark.json) |
+| Together Again: A "Lake's Funland" Story | 400432 | [400432-together-again-a-lakes-funland-story.json](./400432-together-again-a-lakes-funland-story.json) |
 | Together Bnb | 146310 | [146310-together-bnb.json](./146310-together-bnb.json) |
 | Together My Headers | 190977 | [190977-together-my-headers.json](./190977-together-my-headers.json) |
 | Together Tree: Romance 911 | 244494 | [244494-together-tree-romance-911.json](./244494-together-tree-romance-911.json) |
