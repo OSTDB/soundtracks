@@ -5150,6 +5150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gute Zeiten Schlechte Zeiten Quiz | 281539 | [281539-gute-zeiten-schlechte-zeiten-quiz.json](./281539-gute-zeiten-schlechte-zeiten-quiz.json) |
 | Gütertrennung | 86017 | [86017-gutertrennung.json](./86017-gutertrennung.json) |
 | Guts 'N Goals: Preseason | 137484 | [137484-guts-n-goals-preseason.json](./137484-guts-n-goals-preseason.json) |
+| Guts 'n Grunts Sr. | 397874 | [397874-guts-n-grunts-sr.json](./397874-guts-n-grunts-sr.json) |
 | Guts and Syringes | 94766 | [94766-guts-and-syringes.json](./94766-guts-and-syringes.json) |
 | Guts'n | 40183 | [40183-gutsn.json](./40183-gutsn.json) |
 | Gutsy Grid | 402438 | [402438-gutsy-grid.json](./402438-gutsy-grid.json) |
