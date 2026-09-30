@@ -3017,6 +3017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Node Math | 370712 | [370712-node-math.json](./370712-node-math.json) |
 | Node RPG | 373008 | [373008-node-rpg.json](./373008-node-rpg.json) |
 | Node: The Last Favor of the Antarii | 287726 | [287726-node-the-last-favor-of-the-antarii.json](./287726-node-the-last-favor-of-the-antarii.json) |
+| NodeCore | 396526 | [396526-nodecore.json](./396526-nodecore.json) |
 | Nodemind: Dynamic Core | 397255 | [397255-nodemind-dynamic-core.json](./397255-nodemind-dynamic-core.json) |
 | Nodes | 203250 | [203250-nodes.json](./203250-nodes.json) |
 | Nodes of Yesod | 23059 | [23059-nodes-of-yesod.json](./23059-nodes-of-yesod.json) |
