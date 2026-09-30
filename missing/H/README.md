@@ -1023,6 +1023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon: Animal Parade | 3390 | [3390-harvest-moon-animal-parade.json](./3390-harvest-moon-animal-parade.json) |
 | Harvest Moon: Back to Nature | 239201 | [239201-harvest-moon-back-to-nature.json](./239201-harvest-moon-back-to-nature.json) |
 | Harvest Moon: Back to Nature | 3380 | [3380-harvest-moon-back-to-nature.json](./3380-harvest-moon-back-to-nature.json) |
+| Harvest Moon: Boy & Girl | 42889 | [42889-harvest-moon-boy-and-girl.json](./42889-harvest-moon-boy-and-girl.json) |
 | Harvest Moon: Echoes of Teradea | 400976 | [400976-harvest-moon-echoes-of-teradea.json](./400976-harvest-moon-echoes-of-teradea.json) |
 | Harvest Moon: Hero of Leaf Valley | 42887 | [42887-harvest-moon-hero-of-leaf-valley.json](./42887-harvest-moon-hero-of-leaf-valley.json) |
 | Harvest Moon: Intuitive Ranch Master | 219076 | [219076-harvest-moon-intuitive-ranch-master.json](./219076-harvest-moon-intuitive-ranch-master.json) |
@@ -5232,6 +5233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hugo Troll Race | 64496 | [64496-hugo-troll-race.json](./64496-hugo-troll-race.json) |
 | Hugo: Black Diamond Fever | 23556 | [23556-hugo-black-diamond-fever.json](./23556-hugo-black-diamond-fever.json) |
 | Hugo: Bukkazoom | 165052 | [165052-hugo-bukkazoom.json](./165052-hugo-bukkazoom.json) |
+| Hugo: Cannon Cruise | 43547 | [43547-hugo-cannon-cruise.json](./43547-hugo-cannon-cruise.json) |
 | Hugo: De Første Tegn | 301394 | [301394-hugo-de-f-rste-tegn.json](./301394-hugo-de-f-rste-tegn.json) |
 | Hugo: Frog Fighter | 25666 | [25666-hugo-frog-fighter.json](./25666-hugo-frog-fighter.json) |
 | Hugo: Heroes of the Savannah | 286614 | [286614-hugo-heroes-of-the-savannah.json](./286614-hugo-heroes-of-the-savannah.json) |
