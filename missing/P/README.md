@@ -2454,6 +2454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasy Star Online 2: Vivienne Pack | 225862 | [225862-phantasy-star-online-2-vivienne-pack.json](./225862-phantasy-star-online-2-vivienne-pack.json) |
 | Phantasy Star Online Episode I & II | 9890 | [9890-phantasy-star-online-episode-i-and-ii.json](./9890-phantasy-star-online-episode-i-and-ii.json) |
 | Phantasy Star Online Ver. 2 | 45812 | [45812-phantasy-star-online-ver-2.json](./45812-phantasy-star-online-ver-2.json) |
+| Phantasy Star Portable 2 | 19256 | [19256-phantasy-star-portable-2.json](./19256-phantasy-star-portable-2.json) |
 | Phantasy Star Universe | 7129 | [7129-phantasy-star-universe.json](./7129-phantasy-star-universe.json) |
 | Phantasy Star Universe: Ambition of the Illuminus | 21501 | [21501-phantasy-star-universe-ambition-of-the-illuminus.json](./21501-phantasy-star-universe-ambition-of-the-illuminus.json) |
 | Phantasy Star Zero Mini | 69330 | [69330-phantasy-star-zero-mini.json](./69330-phantasy-star-zero-mini.json) |
@@ -5239,6 +5240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokor | 397770 | [397770-pokor.json](./397770-pokor.json) |
 | Pokris | 116099 | [116099-pokris.json](./116099-pokris.json) |
 | Pokubittu | 97836 | [97836-pokubittu.json](./97836-pokubittu.json) |
+| Polandball: Can into Space! | 19679 | [19679-polandball-can-into-space.json](./19679-polandball-can-into-space.json) |
 | Polar Bear Cub: games for kids | 90028 | [90028-polar-bear-cub-games-for-kids.json](./90028-polar-bear-cub-games-for-kids.json) |
 | Polar Bear Game | 234574 | [234574-polar-bear-game.json](./234574-polar-bear-game.json) |
 | Polar Bear in Space! | 250934 | [250934-polar-bear-in-space.json](./250934-polar-bear-in-space.json) |
