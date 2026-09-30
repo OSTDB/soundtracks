@@ -890,6 +890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garfield Kart: Furious Racing | 121230 | [121230-garfield-kart-furious-racing.json](./121230-garfield-kart-furious-racing.json) |
 | Garfield Labyrinth | 153452 | [153452-garfield-labyrinth.json](./153452-garfield-labyrinth.json) |
 | Garfield Rush | 130887 | [130887-garfield-rush.json](./130887-garfield-rush.json) |
+| Garfield Snack Time | 99217 | [99217-garfield-snack-time.json](./99217-garfield-snack-time.json) |
 | Garfield: A Tail of Two Kitties - Garfield's Maze Game | 325089 | [325089-garfield-a-tail-of-two-kitties-garfields-maze-game.json](./325089-garfield-a-tail-of-two-kitties-garfields-maze-game.json) |
 | Garfield: A Tail of Two Kitties - Odie's Photo Album Game | 325088 | [325088-garfield-a-tail-of-two-kitties-odies-photo-album-game.json](./325088-garfield-a-tail-of-two-kitties-odies-photo-album-game.json) |
 | Garfield: Attack of the Mutant Lasagna | 73339 | [73339-garfield-attack-of-the-mutant-lasagna.json](./73339-garfield-attack-of-the-mutant-lasagna.json) |
@@ -3609,6 +3610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandmaster's Revenge | 215355 | [215355-grandmasters-revenge.json](./215355-grandmasters-revenge.json) |
 | Grandmother's Tale | 153872 | [153872-grandmothers-tale.json](./153872-grandmothers-tale.json) |
 | Grandpa Rally | 255730 | [255730-grandpa-rally.json](./255730-grandpa-rally.json) |
+| Grandpa: The Horror Game | 99307 | [99307-grandpa-the-horror-game.json](./99307-grandpa-the-horror-game.json) |
 | Grandpa's House | 257900 | [257900-grandpas-house.json](./257900-grandpas-house.json) |
 | Grandpa's Workshop | 68925 | [68925-grandpas-workshop.json](./68925-grandpas-workshop.json) |
 | Grandpurrents | 149469 | [149469-grandpurrents.json](./149469-grandpurrents.json) |
