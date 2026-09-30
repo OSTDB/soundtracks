@@ -4525,6 +4525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blastroid | 390803 | [390803-blastroid.json](./390803-blastroid.json) |
 | Blastron | 388732 | [388732-blastron.json](./388732-blastron.json) |
 | BlastZone 2 | 35756 | [35756-blastzone-2.json](./35756-blastzone-2.json) |
+| Blau | 402453 | [402453-blau.json](./402453-blau.json) |
 | Blautopf VR: Geheimnis der Lau | 119772 | [119772-blautopf-vr-geheimnis-der-lau.json](./119772-blautopf-vr-geheimnis-der-lau.json) |
 | BlayzBloo: Super Melee Brawlers Battle Royale | 67246 | [67246-blayzbloo-super-melee-brawlers-battle-royale.json](./67246-blayzbloo-super-melee-brawlers-battle-royale.json) |
 | BlazBlue Cross Tag Battle: Additional Color Set 1 | 332824 | [332824-blazblue-cross-tag-battle-additional-color-set-1.json](./332824-blazblue-cross-tag-battle-additional-color-set-1.json) |
@@ -8439,6 +8440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Byte Rider | 234011 | [234011-byte-rider.json](./234011-byte-rider.json) |
 | Byte Wars | 360578 | [360578-byte-wars.json](./360578-byte-wars.json) |
 | Byter | 319575 | [319575-byter.json](./319575-byter.json) |
+| Bytes and Knights Adventure | 402433 | [402433-bytes-and-knights-adventure.json](./402433-bytes-and-knights-adventure.json) |
 | Bytes: The Reverse Tower Defense | 244707 | [244707-bytes-the-reverse-tower-defense.json](./244707-bytes-the-reverse-tower-defense.json) |
 | Bytesize | 263489 | [263489-bytesize.json](./263489-bytesize.json) |
 | Bythzkel-Sombréa | 311820 | [311820-bythzkel-sombrea.json](./311820-bythzkel-sombrea.json) |
