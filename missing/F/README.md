@@ -2402,6 +2402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fight 2 | 1656 | [1656-final-fight-2.json](./1656-final-fight-2.json) |
 | Final Fight 3 | 223016 | [223016-final-fight-3.json](./223016-final-fight-3.json) |
 | Final Fight Guy | 42554 | [42554-final-fight-guy.json](./42554-final-fight-guy.json) |
+| Final Fight MD | 407523 | [407523-final-fight-md.json](./407523-final-fight-md.json) |
 | Final Fight One | 1663 | [1663-final-fight-one.json](./1663-final-fight-one.json) |
 | Final Fight: Streetwise | 1660 | [1660-final-fight-streetwise.json](./1660-final-fight-streetwise.json) |
 | Final Fighter | 109207 | [109207-final-fighter.json](./109207-final-fighter.json) |
@@ -3142,6 +3143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fit Cats | 382188 | [382188-fit-cats.json](./382188-fit-cats.json) |
 | Fit Fantasy | 144268 | [144268-fit-fantasy.json](./144268-fit-fantasy.json) |
 | Fit For A King | 121200 | [121200-fit-for-a-king.json](./121200-fit-for-a-king.json) |
+| Fit Happens | 407485 | [407485-fit-happens.json](./407485-fit-happens.json) |
 | Fit In | 113055 | [113055-fit-in.json](./113055-fit-in.json) |
 | Fit Music for Wii U | 61696 | [61696-fit-music-for-wii-u.json](./61696-fit-music-for-wii-u.json) |
 | Fit My Cat | 284930 | [284930-fit-my-cat.json](./284930-fit-my-cat.json) |
@@ -5652,6 +5654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froggerty Arcade 2 | 189185 | [189185-froggerty-arcade-2.json](./189185-froggerty-arcade-2.json) |
 | Froggie: A Retro Platformer | 211968 | [211968-froggie-a-retro-platformer.json](./211968-froggie-a-retro-platformer.json) |
 | Froggin' Around | 265777 | [265777-froggin-around.json](./265777-froggin-around.json) |
+| Froggle | 407506 | [407506-froggle.json](./407506-froggle.json) |
 | Froggo | 115678 | [115678-froggo.json](./115678-froggo.json) |
 | Froggo's Adventure: Drifting Sky | 326759 | [326759-froggos-adventure-drifting-sky.json](./326759-froggos-adventure-drifting-sky.json) |
 | Froggo's Quest | 418715 | [418715-froggos-quest.json](./418715-froggos-quest.json) |
