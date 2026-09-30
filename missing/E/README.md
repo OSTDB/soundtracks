@@ -1252,6 +1252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elysion 2: Genes of the saints | 225882 | [225882-elysion-2-genes-of-the-saints.json](./225882-elysion-2-genes-of-the-saints.json) |
 | Elysium | 266763 | [266763-elysium.json](./266763-elysium.json) |
 | Elysium | 339126 | [339126-elysium.json](./339126-elysium.json) |
+| Elysium | 408857 | [408857-elysium.json](./408857-elysium.json) |
 | Elysium City | 212768 | [212768-elysium-city.json](./212768-elysium-city.json) |
 | Elysium Infinity | 237668 | [237668-elysium-infinity.json](./237668-elysium-infinity.json) |
 | Elysium Lost | 219823 | [219823-elysium-lost.json](./219823-elysium-lost.json) |
