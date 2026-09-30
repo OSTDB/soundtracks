@@ -395,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Callus | 387375 | [387375-callus.json](./387375-callus.json) |
 | Cally's Caves Definitive Collection | 52714 | [52714-callys-caves-definitive-collection.json](./52714-callys-caves-definitive-collection.json) |
 | Calm Before The Storm | 316852 | [316852-calm-before-the-storm.json](./316852-calm-before-the-storm.json) |
+| Calm Cards: Klondike | 88356 | [88356-calm-cards-klondike.json](./88356-calm-cards-klondike.json) |
 | Calm Cove | 272243 | [272243-calm-cove.json](./272243-calm-cove.json) |
 | Calm Down, Stalin | 32011 | [32011-calm-down-stalin.json](./32011-calm-down-stalin.json) |
 | Calm Down, Stalin VR | 286535 | [286535-calm-down-stalin-vr.json](./286535-calm-down-stalin-vr.json) |
@@ -2978,6 +2979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Player 2150 | 70473 | [70473-chess-player-2150.json](./70473-chess-player-2150.json) |
 | Chess Plus+ | 86901 | [86901-chess-plus.json](./86901-chess-plus.json) |
 | Chess Prime 3D Pro | 86834 | [86834-chess-prime-3d-pro.json](./86834-chess-prime-3d-pro.json) |
+| Chess Pro 3D | 88419 | [88419-chess-pro-3d.json](./88419-chess-pro-3d.json) |
 | Chess Pro with Coach - Learn,Play & Online Friends | 90792 | [90792-chess-pro-with-coach-learn-play-and-online-friends.json](./90792-chess-pro-with-coach-learn-play-and-online-friends.json) |
 | Chess Puzzle Adventure | 174290 | [174290-chess-puzzle-adventure.json](./174290-chess-puzzle-adventure.json) |
 | Chess Puzzles | 103644 | [103644-chess-puzzles.json](./103644-chess-puzzles.json) |
@@ -6140,6 +6142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction Simulator 2015: St. John's Hospital Fuchsberg | 168915 | [168915-construction-simulator-2015-st-johns-hospital-fuchsberg.json](./168915-construction-simulator-2015-st-johns-hospital-fuchsberg.json) |
 | Construction Simulator 2015: Vertical Skyline | 168917 | [168917-construction-simulator-2015-vertical-skyline.json](./168917-construction-simulator-2015-vertical-skyline.json) |
 | Construction Simulator 4 | 292143 | [292143-construction-simulator-4.json](./292143-construction-simulator-4.json) |
+| Construction Simulator PRO | 88470 | [88470-construction-simulator-pro.json](./88470-construction-simulator-pro.json) |
 | Construction Simulator: Extended Edition | 218476 | [218476-construction-simulator-extended-edition.json](./218476-construction-simulator-extended-edition.json) |
 | Construction Simulator: JCB Pack | 246399 | [246399-construction-simulator-jcb-pack.json](./246399-construction-simulator-jcb-pack.json) |
 | Construction Simulator: SANY Pack | 266746 | [266746-construction-simulator-sany-pack.json](./266746-construction-simulator-sany-pack.json) |
@@ -7216,6 +7219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crappy Climber | 135746 | [135746-crappy-climber.json](./135746-crappy-climber.json) |
 | Crappy Game | 283808 | [283808-crappy-game.json](./283808-crappy-game.json) |
 | Craps | 386682 | [386682-craps.json](./386682-craps.json) |
+| Craps | 88483 | [88483-craps.json](./88483-craps.json) |
 | Craps HD | 89674 | [89674-craps-hd.json](./89674-craps-hd.json) |
 | Crapshoot | 380095 | [380095-crapshoot.json](./380095-crapshoot.json) |
 | CrapShoot | 319239 | [319239-crapshoot.json](./319239-crapshoot.json) |
@@ -7684,6 +7688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cribbage HD | 91118 | [91118-cribbage-hd.json](./91118-cribbage-hd.json) |
 | Cribbage JD | 144781 | [144781-cribbage-jd.json](./144781-cribbage-jd.json) |
 | Cribbage Pro | 141872 | [141872-cribbage-pro.json](./141872-cribbage-pro.json) |
+| Cribbage Solitaire | 88446 | [88446-cribbage-solitaire.json](./88446-cribbage-solitaire.json) |
 | Cribbage With Grandpas | 94781 | [94781-cribbage-with-grandpas.json](./94781-cribbage-with-grandpas.json) |
 | Cribbage: Classic Card Game | 87704 | [87704-cribbage-classic-card-game.json](./87704-cribbage-classic-card-game.json) |
 | Cribbish | 333197 | [333197-cribbish.json](./333197-cribbish.json) |
