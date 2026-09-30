@@ -2362,8 +2362,25 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Somnium | 302507 | [302507-escape-from-somnium.json](./302507-escape-from-somnium.json) |
 | Escape From Sunveil Starport | 299430 | [299430-escape-from-sunveil-starport.json](./299430-escape-from-sunveil-starport.json) |
 | Escape from Tarkov: Bear - Arktika | 399106 | [399106-escape-from-tarkov-bear-arktika.json](./399106-escape-from-tarkov-bear-arktika.json) |
+| Escape from Tarkov: Bear - Classic | 399113 | [399113-escape-from-tarkov-bear-classic.json](./399113-escape-from-tarkov-bear-classic.json) |
+| Escape from Tarkov: Bear - Cyclone | 399115 | [399115-escape-from-tarkov-bear-cyclone.json](./399115-escape-from-tarkov-bear-cyclone.json) |
+| Escape from Tarkov: Bear - G99 | 399116 | [399116-escape-from-tarkov-bear-g99.json](./399116-escape-from-tarkov-bear-g99.json) |
+| Escape from Tarkov: Bear - Instructor | 399114 | [399114-escape-from-tarkov-bear-instructor.json](./399114-escape-from-tarkov-bear-instructor.json) |
+| Escape from Tarkov: Bear - Morozko | 399128 | [399128-escape-from-tarkov-bear-morozko.json](./399128-escape-from-tarkov-bear-morozko.json) |
+| Escape from Tarkov: Bear - Nord | 399108 | [399108-escape-from-tarkov-bear-nord.json](./399108-escape-from-tarkov-bear-nord.json) |
+| Escape from Tarkov: Bear - Oldschool | 399112 | [399112-escape-from-tarkov-bear-oldschool.json](./399112-escape-from-tarkov-bear-oldschool.json) |
+| Escape from Tarkov: Bear - Vacation | 399123 | [399123-escape-from-tarkov-bear-vacation.json](./399123-escape-from-tarkov-bear-vacation.json) |
+| Escape from Tarkov: Bear - Zaslon | 399110 | [399110-escape-from-tarkov-bear-zaslon.json](./399110-escape-from-tarkov-bear-zaslon.json) |
 | Escape from Tarkov: Usec - AC Ranger Green | 399107 | [399107-escape-from-tarkov-usec-ac-ranger-green.json](./399107-escape-from-tarkov-usec-ac-ranger-green.json) |
+| Escape from Tarkov: Usec - Day off | 399109 | [399109-escape-from-tarkov-usec-day-off.json](./399109-escape-from-tarkov-usec-day-off.json) |
+| Escape from Tarkov: Usec - Deadly Frog | 399118 | [399118-escape-from-tarkov-usec-deadly-frog.json](./399118-escape-from-tarkov-usec-deadly-frog.json) |
 | Escape from Tarkov: Usec - Fahrenheit | 399105 | [399105-escape-from-tarkov-usec-fahrenheit.json](./399105-escape-from-tarkov-usec-fahrenheit.json) |
+| Escape from Tarkov: Usec - Night Patrol | 399125 | [399125-escape-from-tarkov-usec-night-patrol.json](./399125-escape-from-tarkov-usec-night-patrol.json) |
+| Escape from Tarkov: Usec - Scadi | 399119 | [399119-escape-from-tarkov-usec-scadi.json](./399119-escape-from-tarkov-usec-scadi.json) |
+| Escape from Tarkov: Usec - Special Ops | 399124 | [399124-escape-from-tarkov-usec-special-ops.json](./399124-escape-from-tarkov-usec-special-ops.json) |
+| Escape from Tarkov: Usec - Urban Responder | 399117 | [399117-escape-from-tarkov-usec-urban-responder.json](./399117-escape-from-tarkov-usec-urban-responder.json) |
+| Escape from Tarkov: Usec - Vanguard | 399126 | [399126-escape-from-tarkov-usec-vanguard.json](./399126-escape-from-tarkov-usec-vanguard.json) |
+| Escape from Tarkov: Usec - Woodland Infiltrator | 399127 | [399127-escape-from-tarkov-usec-woodland-infiltrator.json](./399127-escape-from-tarkov-usec-woodland-infiltrator.json) |
 | Escape from Tatris | 167587 | [167587-escape-from-tatris.json](./167587-escape-from-tatris.json) |
 | Escape From Terror City | 142882 | [142882-escape-from-terror-city.json](./142882-escape-from-terror-city.json) |
 | Escape from Tethys | 103256 | [103256-escape-from-tethys.json](./103256-escape-from-tethys.json) |
