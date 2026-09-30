@@ -6484,6 +6484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cops N Robbers: Prison Games 2 | 400443 | [400443-cops-n-robbers-prison-games-2.json](./400443-cops-n-robbers-prison-games-2.json) |
 | Copta Snatch | 73865 | [73865-copta-snatch.json](./73865-copta-snatch.json) |
 | Copter | 291600 | [291600-copter.json](./291600-copter.json) |
+| Copter and Sky | 32101 | [32101-copter-and-sky.json](./32101-copter-and-sky.json) |
 | Copter Cove | 353980 | [353980-copter-cove.json](./353980-copter-cove.json) |
 | Copy Kitty | 22443 | [22443-copy-kitty.json](./22443-copy-kitty.json) |
 | Copycat | 255631 | [255631-copycat.json](./255631-copycat.json) |
