@@ -3412,6 +3412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective S | 159089 | [159089-detective-s.json](./159089-detective-s.json) |
 | Detective School Club | 304597 | [304597-detective-school-club.json](./304597-detective-school-club.json) |
 | Detective Secrets Solitaire: The Greyhall Mystery | 417508 | [417508-detective-secrets-solitaire-the-greyhall-mystery.json](./417508-detective-secrets-solitaire-the-greyhall-mystery.json) |
+| Detective Sherlock Pug | 111976 | [111976-detective-sherlock-pug.json](./111976-detective-sherlock-pug.json) |
 | Detective Sir Biscuit in Green Burguer Mystery | 310580 | [310580-detective-sir-biscuit-in-green-burguer-mystery.json](./310580-detective-sir-biscuit-in-green-burguer-mystery.json) |
 | Detective Solitaire: Butler Story 2 | 242580 | [242580-detective-solitaire-butler-story-2.json](./242580-detective-solitaire-butler-story-2.json) |
 | Detective Solitaire: Butler Story 3 | 258947 | [258947-detective-solitaire-butler-story-3.json](./258947-detective-solitaire-butler-story-3.json) |
@@ -3477,6 +3478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deuteros: The Next Millennium | 9575 | [9575-deuteros-the-next-millennium.json](./9575-deuteros-the-next-millennium.json) |
 | Deutschland sucht den Superstar | 130904 | [130904-deutschland-sucht-den-superstar.json](./130904-deutschland-sucht-den-superstar.json) |
 | Dev Inc | 152835 | [152835-dev-inc.json](./152835-dev-inc.json) |
+| Dev_me | 111945 | [111945-dev-me.json](./111945-dev-me.json) |
 | Deva | 403684 | [403684-deva.json](./403684-deva.json) |
 | Deva: The Haunted Game | 148513 | [148513-deva-the-haunted-game.json](./148513-deva-the-haunted-game.json) |
 | Devader | 68765 | [68765-devader.json](./68765-devader.json) |
