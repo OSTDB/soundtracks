@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth | 78506 | [78506-labyrinth.json](./78506-labyrinth.json) |
 | Labyrinth 2 | 155663 | [155663-labyrinth-2.json](./155663-labyrinth-2.json) |
 | Labyrinth 3 | 171066 | [171066-labyrinth-3.json](./171066-labyrinth-3.json) |
+| Labyrinth City: Pierre the Maze Detective | 145786 | [145786-labyrinth-city-pierre-the-maze-detective.json](./145786-labyrinth-city-pierre-the-maze-detective.json) |
 | Labyrinth Lunacy | 104694 | [104694-labyrinth-lunacy.json](./104694-labyrinth-lunacy.json) |
 | Labyrinth Master | 356672 | [356672-labyrinth-master.json](./356672-labyrinth-master.json) |
 | Labyrinth of death | 191177 | [191177-labyrinth-of-death.json](./191177-labyrinth-of-death.json) |
