@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Observance of Homeland | 368151 | [368151-observance-of-homeland.json](./368151-observance-of-homeland.json) |
 | Observation at Freddy's | 318639 | [318639-observation-at-freddys.json](./318639-observation-at-freddys.json) |
 | Observation Daruma Log | 400262 | [400262-observation-daruma-log.json](./400262-observation-daruma-log.json) |
+| Observation Protocol | 416032 | [416032-observation-protocol.json](./416032-observation-protocol.json) |
 | Observe | 410313 | [410313-observe.json](./410313-observe.json) |
 | Observer | 19545 | [19545-observer.json](./19545-observer.json) |
 | Observer | 265130 | [265130-observer.json](./265130-observer.json) |
@@ -237,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octapolis | 55030 | [55030-octapolis.json](./55030-octapolis.json) |
 | Octave | 180675 | [180675-octave.json](./180675-octave.json) |
 | Octavio Camacho | 247537 | [247537-octavio-camacho.json](./247537-octavio-camacho.json) |
+| Octbuster: Video Rental Store Cleanup | 414500 | [414500-octbuster-video-rental-store-cleanup.json](./414500-octbuster-video-rental-store-cleanup.json) |
 | Octillery Vs. Collection | 399055 | [399055-octillery-vs-collection.json](./399055-octillery-vs-collection.json) |
 | Octo Crank | 418589 | [418589-octo-crank.json](./418589-octo-crank.json) |
 | Octo Curse | 251015 | [251015-octo-curse.json](./251015-octo-curse.json) |
