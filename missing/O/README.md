@@ -509,6 +509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ogantto | 349332 | [349332-ogantto.json](./349332-ogantto.json) |
 | Ogopogo | 158539 | [158539-ogopogo.json](./158539-ogopogo.json) |
 | Ogora | 323936 | [323936-ogora.json](./323936-ogora.json) |
+| Ogre | 54713 | [54713-ogre.json](./54713-ogre.json) |
 | Ogre Battle Gaiden | 66085 | [66085-ogre-battle-gaiden.json](./66085-ogre-battle-gaiden.json) |
 | Ogre Battle: The March of the Black Queen | 9805 | [9805-ogre-battle-the-march-of-the-black-queen.json](./9805-ogre-battle-the-march-of-the-black-queen.json) |
 | Ogre Chambers 2222 | 369740 | [369740-ogre-chambers-2222.json](./369740-ogre-chambers-2222.json) |
