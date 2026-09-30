@@ -5040,6 +5040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Household Budget Management | 42197 | [42197-household-budget-management.json](./42197-household-budget-management.json) |
 | Housekeeper: Anomaly | 350532 | [350532-housekeeper-anomaly.json](./350532-housekeeper-anomaly.json) |
 | Housekeeping to Room 501 | 325267 | [325267-housekeeping-to-room-501.json](./325267-housekeeping-to-room-501.json) |
+| Housekeeping VR | 30497 | [30497-housekeeping-vr.json](./30497-housekeeping-vr.json) |
 | Housemates | 291063 | [291063-housemates.json](./291063-housemates.json) |
 | Houserot | 176484 | [176484-houserot.json](./176484-houserot.json) |
 | Houshin Engi | 125424 | [125424-houshin-engi.json](./125424-houshin-engi.json) |
