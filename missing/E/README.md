@@ -1456,6 +1456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empires of the Void II | 189167 | [189167-empires-of-the-void-ii.json](./189167-empires-of-the-void-ii.json) |
 | Empires: Dawn of the Modern World | 678 | [678-empires-dawn-of-the-modern-world.json](./678-empires-dawn-of-the-modern-world.json) |
 | Employee Rules of the Night Strings | 309361 | [309361-employee-rules-of-the-night-strings.json](./309361-employee-rules-of-the-night-strings.json) |
+| Empress of The Deep 2: Song of The Blue Whale | 17369 | [17369-empress-of-the-deep-2-song-of-the-blue-whale.json](./17369-empress-of-the-deep-2-song-of-the-blue-whale.json) |
 | Empress of the Deep 3: Legacy of the Phoenix | 294209 | [294209-empress-of-the-deep-3-legacy-of-the-phoenix.json](./294209-empress-of-the-deep-3-legacy-of-the-phoenix.json) |
 | Empress of the Deep: The Darkest Secret | 17368 | [17368-empress-of-the-deep-the-darkest-secret.json](./17368-empress-of-the-deep-the-darkest-secret.json) |
 | Empress's Choice | 245047 | [245047-empresss-choice.json](./245047-empresss-choice.json) |
@@ -2452,6 +2453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Game | 25848 | [25848-escape-the-game.json](./25848-escape-the-game.json) |
 | Escape the Grid VR | 102350 | [102350-escape-the-grid-vr.json](./102350-escape-the-grid-vr.json) |
 | Escape the Loop | 30183 | [30183-escape-the-loop.json](./30183-escape-the-loop.json) |
+| Escape The Lost Kingdom: The Forgotten Pharaoh | 17293 | [17293-escape-the-lost-kingdom-the-forgotten-pharaoh.json](./17293-escape-the-lost-kingdom-the-forgotten-pharaoh.json) |
 | Escape the Mad Empire | 217233 | [217233-escape-the-mad-empire.json](./217233-escape-the-mad-empire.json) |
 | Escape the Marine Lab | 406693 | [406693-escape-the-marine-lab.json](./406693-escape-the-marine-lab.json) |
 | Escape the Mazes | 90483 | [90483-escape-the-mazes.json](./90483-escape-the-mazes.json) |
@@ -3153,6 +3155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil of Demons: Algailah | 243948 | [243948-evil-of-demons-algailah.json](./243948-evil-of-demons-algailah.json) |
 | Evil of Fate | 373549 | [373549-evil-of-fate.json](./373549-evil-of-fate.json) |
 | Evil Officer | 259596 | [259596-evil-officer.json](./259596-evil-officer.json) |
+| Evil Pumpkin: The Lost Halloween | 17387 | [17387-evil-pumpkin-the-lost-halloween.json](./17387-evil-pumpkin-the-lost-halloween.json) |
 | Evil Reap | 196170 | [196170-evil-reap.json](./196170-evil-reap.json) |
 | Evil Resistance: Morning of the Dead | 55183 | [55183-evil-resistance-morning-of-the-dead.json](./55183-evil-resistance-morning-of-the-dead.json) |
 | Evil Returns | 299768 | [299768-evil-returns.json](./299768-evil-returns.json) |
@@ -3245,6 +3248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolve! Lite | 60256 | [60256-evolve-lite.json](./60256-evolve-lite.json) |
 | Evony: The King's Return | 197880 | [197880-evony-the-kings-return.json](./197880-evony-the-kings-return.json) |
 | Evoplasm | 309859 | [309859-evoplasm.json](./309859-evoplasm.json) |
+| Evopollution | 17313 | [17313-evopollution.json](./17313-evopollution.json) |
 | Evorevo | 236839 | [236839-evorevo.json](./236839-evorevo.json) |
 | Evospace | 114069 | [114069-evospace.json](./114069-evospace.json) |
 | EvoSprout | 382288 | [382288-evosprout.json](./382288-evosprout.json) |
