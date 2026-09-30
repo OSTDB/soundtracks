@@ -2617,6 +2617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nirih | 348325 | [348325-nirih.json](./348325-nirih.json) |
 | Nirmita | 197367 | [197367-nirmita.json](./197367-nirmita.json) |
 | Nirvana | 331687 | [331687-nirvana.json](./331687-nirvana.json) |
+| Nirvana Pilot Yume | 75518 | [75518-nirvana-pilot-yume.json](./75518-nirvana-pilot-yume.json) |
 | Nirvana Pilot Yume: Deluxe Edition | 208045 | [208045-nirvana-pilot-yume-deluxe-edition.json](./208045-nirvana-pilot-yume-deluxe-edition.json) |
 | Nirvana Revenge | 66044 | [66044-nirvana-revenge.json](./66044-nirvana-revenge.json) |
 | Nirvana: Game of Life | 191261 | [191261-nirvana-game-of-life.json](./191261-nirvana-game-of-life.json) |
@@ -2712,6 +2713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Horizon | 109572 | [109572-no-horizon.json](./109572-no-horizon.json) |
 | No Internet | 292053 | [292053-no-internet.json](./292053-no-internet.json) |
 | No JetPacks For Chattini | 346015 | [346015-no-jetpacks-for-chattini.json](./346015-no-jetpacks-for-chattini.json) |
+| No King No Kingdom | 75606 | [75606-no-king-no-kingdom.json](./75606-no-king-no-kingdom.json) |
 | No Kings Tiny Defenders | 376455 | [376455-no-kings-tiny-defenders.json](./376455-no-kings-tiny-defenders.json) |
 | No Light | 150684 | [150684-no-light.json](./150684-no-light.json) |
 | No Lights | 52080 | [52080-no-lights.json](./52080-no-lights.json) |
@@ -2937,6 +2939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noctuary: New Journey | 370210 | [370210-noctuary-new-journey.json](./370210-noctuary-new-journey.json) |
 | Nocturnal | 234740 | [234740-nocturnal.json](./234740-nocturnal.json) |
 | Nocturnal Echoes | 414419 | [414419-nocturnal-echoes.json](./414419-nocturnal-echoes.json) |
+| Nocturnal Hunt | 75762 | [75762-nocturnal-hunt.json](./75762-nocturnal-hunt.json) |
 | Nocturnal Nemesis | 341483 | [341483-nocturnal-nemesis.json](./341483-nocturnal-nemesis.json) |
 | Nocturnal Quest | 386416 | [386416-nocturnal-quest.json](./386416-nocturnal-quest.json) |
 | Nocturnal Throne | 373732 | [373732-nocturnal-throne.json](./373732-nocturnal-throne.json) |
