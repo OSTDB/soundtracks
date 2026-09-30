@@ -912,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IGT Aztec Temple | 25064 | [25064-igt-aztec-temple.json](./25064-igt-aztec-temple.json) |
 | IGT Slots Paradise Garden | 17793 | [17793-igt-slots-paradise-garden.json](./17793-igt-slots-paradise-garden.json) |
 | IguaRPG 2 | 314033 | [314033-iguarpg-2.json](./314033-iguarpg-2.json) |
+| iGun Pro | 88473 | [88473-igun-pro.json](./88473-igun-pro.json) |
 | iGun Pro 2 | 86959 | [86959-igun-pro-2.json](./86959-igun-pro-2.json) |
 | IHF Handball Challenge 12 | 10433 | [10433-ihf-handball-challenge-12.json](./10433-ihf-handball-challenge-12.json) |
 | IHF Handball Challenge 14 | 17088 | [17088-ihf-handball-challenge-14.json](./17088-ihf-handball-challenge-14.json) |
@@ -2619,6 +2620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IPS 13: All Signals Lost | 369012 | [369012-ips-13-all-signals-lost.json](./369012-ips-13-all-signals-lost.json) |
 | Ipuppet Presents: Colin's Classic Cards | 210022 | [210022-ipuppet-presents-colins-classic-cards.json](./210022-ipuppet-presents-colins-classic-cards.json) |
 | IPuppy World | 175290 | [175290-ipuppy-world.json](./175290-ipuppy-world.json) |
+| iPyramid - Pyramid Solitaire | 88378 | [88378-ipyramid-pyramid-solitaire.json](./88378-ipyramid-pyramid-solitaire.json) |
 | IQ Dungeon | 199904 | [199904-iq-dungeon.json](./199904-iq-dungeon.json) |
 | IQ Jump | 194295 | [194295-iq-jump.json](./194295-iq-jump.json) |
 | IQ Logic Codes: Number & Letter Puzzles | 415062 | [415062-iq-logic-codes-number-and-letter-puzzles.json](./415062-iq-logic-codes-number-and-letter-puzzles.json) |
