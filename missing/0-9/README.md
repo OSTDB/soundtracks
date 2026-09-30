@@ -1299,6 +1299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8bit Ninja | 232005 | [232005-8bit-ninja.json](./232005-8bit-ninja.json) |
 | 8bit-Collection Jaleco Vol. 01 | 97885 | [97885-8bit-collection-jaleco-vol-01.json](./97885-8bit-collection-jaleco-vol-01.json) |
 | 8BitBoy | 17331 | [17331-8bitboy.json](./17331-8bitboy.json) |
+| 8BitMMO | 30232 | [30232-8bitmmo.json](./30232-8bitmmo.json) |
 | 8Floor Bundle 3 in 1 | 273940 | [273940-8floor-bundle-3-in-1.json](./273940-8floor-bundle-3-in-1.json) |
 | 8Floor Bundle 4 in 1 | 259835 | [259835-8floor-bundle-4-in-1.json](./259835-8floor-bundle-4-in-1.json) |
 | 8Floor Bundle 4 in 1 part 3 | 331450 | [331450-8floor-bundle-4-in-1-part-3.json](./331450-8floor-bundle-4-in-1-part-3.json) |
