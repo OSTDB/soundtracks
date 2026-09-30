@@ -1733,6 +1733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heisei Kyouiku Iinkai Jr. Mezase Yuutousei | 303758 | [303758-heisei-kyouiku-iinkai-jr-mezase-yuutousei.json](./303758-heisei-kyouiku-iinkai-jr-mezase-yuutousei.json) |
 | Heisei Tensai Bakabon | 249763 | [249763-heisei-tensai-bakabon.json](./249763-heisei-tensai-bakabon.json) |
 | Heisei Tensai Bakabon Minna de Family Resturant ni Iku no da! | 249764 | [249764-heisei-tensai-bakabon-minna-de-family-resturant-ni-iku-no-da.json](./249764-heisei-tensai-bakabon-minna-de-family-resturant-ni-iku-no-da.json) |
+| Heisen-Bro Hustler | 419898 | [419898-heisen-bro-hustler.json](./419898-heisen-bro-hustler.json) |
 | Heist | 111050 | [111050-heist.json](./111050-heist.json) |
 | Heist | 84304 | [84304-heist.json](./84304-heist.json) |
 | Heist Day | 153983 | [153983-heist-day.json](./153983-heist-day.json) |
@@ -2471,6 +2472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Her | 105347 | [105347-her.json](./105347-her.json) |
 | Her 2: I Want to See You Again | 114821 | [114821-her-2-i-want-to-see-you-again.json](./114821-her-2-i-want-to-see-you-again.json) |
 | Her Apartment | 323898 | [323898-her-apartment.json](./323898-her-apartment.json) |
+| Her Heart, Anew | 419951 | [419951-her-heart-anew.json](./419951-her-heart-anew.json) |
 | Her Heart's Desire: A Landlord Epic | 224235 | [224235-her-hearts-desire-a-landlord-epic.json](./224235-her-hearts-desire-a-landlord-epic.json) |
 | Her Knights | 78735 | [78735-her-knights.json](./78735-her-knights.json) |
 | Her Knights: All for the Princess | 66048 | [66048-her-knights-all-for-the-princess.json](./66048-her-knights-all-for-the-princess.json) |
@@ -3943,6 +3945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hold Fast | 13006 | [13006-hold-fast.json](./13006-hold-fast.json) |
 | Hold My Beer | 51581 | [51581-hold-my-beer.json](./51581-hold-my-beer.json) |
 | Hold My Hand (Or Let Go) | 412537 | [412537-hold-my-hand-or-let-go.json](./412537-hold-my-hand-or-let-go.json) |
+| Hold On | 419843 | [419843-hold-on.json](./419843-hold-on.json) |
 | Hold Position:Zombie | 239586 | [239586-hold-position-zombie.json](./239586-hold-position-zombie.json) |
 | Hold the Door | 244742 | [244742-hold-the-door.json](./244742-hold-the-door.json) |
 | Hold the Line: The American Revolution | 55518 | [55518-hold-the-line-the-american-revolution.json](./55518-hold-the-line-the-american-revolution.json) |
