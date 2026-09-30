@@ -1791,6 +1791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostbusters II | 14555 | [14555-ghostbusters-ii.json](./14555-ghostbusters-ii.json) |
 | Ghostbusters II | 266840 | [266840-ghostbusters-ii.json](./266840-ghostbusters-ii.json) |
 | Ghostbusters Puzzle Fighter | 60235 | [60235-ghostbusters-puzzle-fighter.json](./60235-ghostbusters-puzzle-fighter.json) |
+| Ghostbusters VR: Now Hiring | 27932 | [27932-ghostbusters-vr-now-hiring.json](./27932-ghostbusters-vr-now-hiring.json) |
 | Ghostbusters: Dimension | 246631 | [246631-ghostbusters-dimension.json](./246631-ghostbusters-dimension.json) |
 | Ghostbusters: Rise of the Ghost Lord | 228529 | [228529-ghostbusters-rise-of-the-ghost-lord.json](./228529-ghostbusters-rise-of-the-ghost-lord.json) |
 | Ghostbusters: Sanctum of Slime | 14849 | [14849-ghostbusters-sanctum-of-slime.json](./14849-ghostbusters-sanctum-of-slime.json) |
@@ -4869,6 +4870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunDeck 100 | 270070 | [270070-gundeck-100.json](./270070-gundeck-100.json) |
 | Gundemonium | 365664 | [365664-gundemonium.json](./365664-gundemonium.json) |
 | Gundemonium Collection | 138096 | [138096-gundemonium-collection.json](./138096-gundemonium-collection.json) |
+| Gundemonium Recollection | 27949 | [27949-gundemonium-recollection.json](./27949-gundemonium-recollection.json) |
 | Gundemoniums | 187858 | [187858-gundemoniums.json](./187858-gundemoniums.json) |
 | Gundertale | 336351 | [336351-gundertale.json](./336351-gundertale.json) |
 | Gundham's Calamitous Quest for Coochie | 227212 | [227212-gundhams-calamitous-quest-for-coochie.json](./227212-gundhams-calamitous-quest-for-coochie.json) |
