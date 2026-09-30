@@ -1317,6 +1317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi sae Ireba: Episode Sutelz | 311494 | [311494-kimi-sae-ireba-episode-sutelz.json](./311494-kimi-sae-ireba-episode-sutelz.json) |
 | Kimi to Boku to no Kishi no Hibi: Rakuen no Chevalier | 194583 | [194583-kimi-to-boku-to-no-kishi-no-hibi-rakuen-no-chevalier.json](./194583-kimi-to-boku-to-no-kishi-no-hibi-rakuen-no-chevalier.json) |
 | Kimi to Koi Shite Musubarete | 394886 | [394886-kimi-to-koi-shite-musubarete.json](./394886-kimi-to-koi-shite-musubarete.json) |
+| Kimi to Koishite, Soshite Sotsugyou Suru | 395153 | [395153-kimi-to-koishite-soshite-sotsugyou-suru.json](./395153-kimi-to-koishite-soshite-sotsugyou-suru.json) |
 | Kimi to Mezameru Ikutsuka no Houhou | 398997 | [398997-kimi-to-mezameru-ikutsuka-no-houhou.json](./398997-kimi-to-mezameru-ikutsuka-no-houhou.json) |
 | Kimi to Yumemishi | 194582 | [194582-kimi-to-yumemishi.json](./194582-kimi-to-yumemishi.json) |
 | Kimi wa Hero ~ Taiketsu! | 74766 | [74766-kimi-wa-hero-taiketsu.json](./74766-kimi-wa-hero-taiketsu.json) |
@@ -2622,6 +2623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KPatience | 134532 | [134532-kpatience.json](./134532-kpatience.json) |
 | Kpop idol Dress Up | 420670 | [420670-kpop-idol-dress-up.json](./420670-kpop-idol-dress-up.json) |
 | Kpop Love Idol Maker Manager | 297017 | [297017-kpop-love-idol-maker-manager.json](./297017-kpop-love-idol-maker-manager.json) |
+| Kraa | 395141 | [395141-kraa.json](./395141-kraa.json) |
 | Kraal | 142366 | [142366-kraal.json](./142366-kraal.json) |
 | Krabat: The Secret of the Sorbian King | 186722 | [186722-krabat-the-secret-of-the-sorbian-king.json](./186722-krabat-the-secret-of-the-sorbian-king.json) |
 | KrabbitWorld Origins | 67297 | [67297-krabbitworld-origins.json](./67297-krabbitworld-origins.json) |
