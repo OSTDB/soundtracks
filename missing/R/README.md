@@ -1663,6 +1663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recall | 154397 | [154397-recall.json](./154397-recall.json) |
 | Recapture the Castle | 173062 | [173062-recapture-the-castle.json](./173062-recapture-the-castle.json) |
 | ReCast FF3: War of the Magitek | 339255 | [339255-recast-ff3-war-of-the-magitek.json](./339255-recast-ff3-war-of-the-magitek.json) |
+| Recess | 406223 | [406223-recess.json](./406223-recess.json) |
 | Recesses | 317409 | [317409-recesses.json](./317409-recesses.json) |
 | Recettear: An Item Shop's Tale | 12524 | [12524-recettear-an-item-shops-tale.json](./12524-recettear-an-item-shops-tale.json) |
 | Recharge Complete | 75171 | [75171-recharge-complete.json](./75171-recharge-complete.json) |
@@ -2115,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflectile | 247546 | [247546-reflectile.json](./247546-reflectile.json) |
 | Reflecting Fate | 43434 | [43434-reflecting-fate.json](./43434-reflecting-fate.json) |
 | Reflection | 201694 | [201694-reflection.json](./201694-reflection.json) |
+| Reflection Arena | 406227 | [406227-reflection-arena.json](./406227-reflection-arena.json) |
 | Reflection Link | 303061 | [303061-reflection-link.json](./303061-reflection-link.json) |
 | Reflection of Loneliness | 184576 | [184576-reflection-of-loneliness.json](./184576-reflection-of-loneliness.json) |
 | Reflection of Mine | 27544 | [27544-reflection-of-mine.json](./27544-reflection-of-mine.json) |
