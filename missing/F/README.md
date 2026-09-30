@@ -1507,6 +1507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Grand Order Lostbelt No. 6: Avalon Le Fae | 346782 | [346782-fate-grand-order-lostbelt-no-6-avalon-le-fae.json](./346782-fate-grand-order-lostbelt-no-6-avalon-le-fae.json) |
 | Fate/Grand Order VR feat. Mash Kyrielight | 26933 | [26933-fate-grand-order-vr-feat-mash-kyrielight.json](./26933-fate-grand-order-vr-feat-mash-kyrielight.json) |
 | Fate/Grand Order Waltz in the Moonlight/Lostroom | 138703 | [138703-fate-grand-order-waltz-in-the-moonlight-lostroom.json](./138703-fate-grand-order-waltz-in-the-moonlight-lostroom.json) |
+| Fate/Grand Order: Babylonia | 414462 | [414462-fate-grand-order-babylonia.json](./414462-fate-grand-order-babylonia.json) |
 | Fate/Grand Order: Epic of Remnant EX - SE.RA.PH | 414365 | [414365-fate-grand-order-epic-of-remnant-ex-se-ra-ph.json](./414365-fate-grand-order-epic-of-remnant-ex-se-ra-ph.json) |
 | Fate/Grand Order: Epic of Remnant I - Shinjuku | 414364 | [414364-fate-grand-order-epic-of-remnant-i-shinjuku.json](./414364-fate-grand-order-epic-of-remnant-i-shinjuku.json) |
 | Fate/Grand Order: Epic of Remnant III - Shimousa | 414363 | [414363-fate-grand-order-epic-of-remnant-iii-shimousa.json](./414363-fate-grand-order-epic-of-remnant-iii-shimousa.json) |
@@ -1609,6 +1610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear of Biosec | 332537 | [332537-fear-of-biosec.json](./332537-fear-of-biosec.json) |
 | Fear of Bugs: The Fear Experience | 218991 | [218991-fear-of-bugs-the-fear-experience.json](./218991-fear-of-bugs-the-fear-experience.json) |
 | Fear of Clowns | 28420 | [28420-fear-of-clowns.json](./28420-fear-of-clowns.json) |
+| Fear of Faith | 414514 | [414514-fear-of-faith.json](./414514-fear-of-faith.json) |
 | Fear of Fear | 294292 | [294292-fear-of-fear.json](./294292-fear-of-fear.json) |
 | Fear of Hot Water Ghost | 335685 | [335685-fear-of-hot-water-ghost.json](./335685-fear-of-hot-water-ghost.json) |
 | Fear Of The Dark | 308244 | [308244-fear-of-the-dark.json](./308244-fear-of-the-dark.json) |
@@ -4083,6 +4085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fold & Cut | 255744 | [255744-fold-and-cut.json](./255744-fold-and-cut.json) |
 | Fold the World | 348800 | [348800-fold-the-world.json](./348800-fold-the-world.json) |
 | Folder Dungeon | 267357 | [267357-folder-dungeon.json](./267357-folder-dungeon.json) |
+| Folder Folder Folder | 414493 | [414493-folder-folder-folder.json](./414493-folder-folder-folder.json) |
 | Folding Maze | 195700 | [195700-folding-maze.json](./195700-folding-maze.json) |
 | Foldit | 92609 | [92609-foldit.json](./92609-foldit.json) |
 | Foldy's OS Quest | 335865 | [335865-foldys-os-quest.json](./335865-foldys-os-quest.json) |
