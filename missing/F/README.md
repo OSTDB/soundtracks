@@ -918,6 +918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Girl Puzzle | 368132 | [368132-fantasy-girl-puzzle.json](./368132-fantasy-girl-puzzle.json) |
 | Fantasy Girls | 310732 | [310732-fantasy-girls.json](./310732-fantasy-girls.json) |
 | Fantasy Gladiators | 148932 | [148932-fantasy-gladiators.json](./148932-fantasy-gladiators.json) |
+| Fantasy Grounds | 30234 | [30234-fantasy-grounds.json](./30234-fantasy-grounds.json) |
 | Fantasy Hentai Quest | 210856 | [210856-fantasy-hentai-quest.json](./210856-fantasy-hentai-quest.json) |
 | Fantasy Hero Biography | 119561 | [119561-fantasy-hero-biography.json](./119561-fantasy-hero-biography.json) |
 | Fantasy Hero Manager | 118396 | [118396-fantasy-hero-manager.json](./118396-fantasy-hero-manager.json) |
@@ -2877,6 +2878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Steps | 263217 | [263217-first-steps.json](./263217-first-steps.json) |
 | First Steps in Learning About Pregnancy | 367040 | [367040-first-steps-in-learning-about-pregnancy.json](./367040-first-steps-in-learning-about-pregnancy.json) |
 | First Strike | 24942 | [24942-first-strike.json](./24942-first-strike.json) |
+| First Strike Final Hour | 29582 | [29582-first-strike-final-hour.json](./29582-first-strike-final-hour.json) |
 | First They're Sour | 179186 | [179186-first-theyre-sour.json](./179186-first-theyre-sour.json) |
 | First Things First | 60006 | [60006-first-things-first.json](./60006-first-things-first.json) |
 | First Time in Hawaii | 236002 | [236002-first-time-in-hawaii.json](./236002-first-time-in-hawaii.json) |
@@ -4571,6 +4573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Form of a Legend | 132800 | [132800-form-of-a-legend.json](./132800-form-of-a-legend.json) |
 | Formaggio 2 | 327365 | [327365-formaggio-2.json](./327365-formaggio-2.json) |
 | Format | 312580 | [312580-format.json](./312580-format.json) |
+| Formata | 29754 | [29754-formata.json](./29754-formata.json) |
 | Formation | 258690 | [258690-formation.json](./258690-formation.json) |
 | Formation Soccer '97: The Road to France | 286577 | [286577-formation-soccer-97-the-road-to-france.json](./286577-formation-soccer-97-the-road-to-france.json) |
 | Formation Soccer '98 - Ganbare Nippon in France | 286578 | [286578-formation-soccer-98-ganbare-nippon-in-france.json](./286578-formation-soccer-98-ganbare-nippon-in-france.json) |
