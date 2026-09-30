@@ -956,6 +956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sapphire Lung | 181685 | [181685-sapphire-lung.json](./181685-sapphire-lung.json) |
 | Sapphire Moon: Forever Memories | 215669 | [215669-sapphire-moon-forever-memories.json](./215669-sapphire-moon-forever-memories.json) |
 | Sapphire Moon: Your Best Wishes | 111230 | [111230-sapphire-moon-your-best-wishes.json](./111230-sapphire-moon-your-best-wishes.json) |
+| Sapphire Tempest | 401724 | [401724-sapphire-tempest.json](./401724-sapphire-tempest.json) |
 | SAR: Search and Rescue | 40187 | [40187-sar-search-and-rescue.json](./40187-sar-search-and-rescue.json) |
 | Saraab | 386723 | [386723-saraab.json](./386723-saraab.json) |
 | Sarah and the Lonely Key | 218967 | [218967-sarah-and-the-lonely-key.json](./218967-sarah-and-the-lonely-key.json) |
@@ -4878,6 +4879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hunter Patrol Disk #2 | 77311 | [77311-silent-hunter-patrol-disk-2.json](./77311-silent-hunter-patrol-disk-2.json) |
 | Silent Infinity | 202366 | [202366-silent-infinity.json](./202366-silent-infinity.json) |
 | Silent Iron | 94866 | [94866-silent-iron.json](./94866-silent-iron.json) |
+| Silent Möbius | 401739 | [401739-silent-mobius.json](./401739-silent-mobius.json) |
 | Silent Mobius: Case - Titanic | 214432 | [214432-silent-mobius-case-titanic.json](./214432-silent-mobius-case-titanic.json) |
 | Silent Mobius: Genei no Datenshi | 166498 | [166498-silent-mobius-genei-no-datenshi.json](./166498-silent-mobius-genei-no-datenshi.json) |
 | Silent Night | 110391 | [110391-silent-night.json](./110391-silent-night.json) |
@@ -5916,6 +5918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkyDribble | 253429 | [253429-skydribble.json](./253429-skydribble.json) |
 | SkyDrift | 9424 | [9424-skydrift.json](./9424-skydrift.json) |
 | SkyDrop | 384672 | [384672-skydrop.json](./384672-skydrop.json) |
+| SkyDungeon Shinobigaeshi Peak | 401709 | [401709-skydungeon-shinobigaeshi-peak.json](./401709-skydungeon-shinobigaeshi-peak.json) |
 | Skye | 408039 | [408039-skye.json](./408039-skye.json) |
 | Skye in the Sky | 359416 | [359416-skye-in-the-sky.json](./359416-skye-in-the-sky.json) |
 | Skye Revival | 329399 | [329399-skye-revival.json](./329399-skye-revival.json) |
@@ -7222,6 +7225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowday! | 310945 | [310945-snowday.json](./310945-snowday.json) |
 | Snowdome | 260961 | [260961-snowdome.json](./260961-snowdome.json) |
 | Snowdreams -lost in winter- | 146324 | [146324-snowdreams-lost-in-winter.json](./146324-snowdreams-lost-in-winter.json) |
+| Snowdrift | 401698 | [401698-snowdrift.json](./401698-snowdrift.json) |
 | Snowdrop Escape | 170562 | [170562-snowdrop-escape.json](./170562-snowdrop-escape.json) |
 | Snowdrop the Blade Master | 265629 | [265629-snowdrop-the-blade-master.json](./265629-snowdrop-the-blade-master.json) |
 | SnowFall | 81929 | [81929-snowfall.json](./81929-snowfall.json) |
@@ -7557,6 +7561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Jetman: Hunt for the Golden Warpship | 7853 | [7853-solar-jetman-hunt-for-the-golden-warpship.json](./7853-solar-jetman-hunt-for-the-golden-warpship.json) |
 | Solar Kingdoms: Human Survival | 295568 | [295568-solar-kingdoms-human-survival.json](./295568-solar-kingdoms-human-survival.json) |
 | Solar Minotaur Rescue Frenzy | 66133 | [66133-solar-minotaur-rescue-frenzy.json](./66133-solar-minotaur-rescue-frenzy.json) |
+| Solar Nations 2 | 401711 | [401711-solar-nations-2.json](./401711-solar-nations-2.json) |
 | Solar Pall | 267443 | [267443-solar-pall.json](./267443-solar-pall.json) |
 | Solar Plexus | 40754 | [40754-solar-plexus.json](./40754-solar-plexus.json) |
 | Solar Purge | 109698 | [109698-solar-purge.json](./109698-solar-purge.json) |
@@ -16758,6 +16763,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: Caravan Palace - "Tattoos" | 356183 | [356183-synth-riders-caravan-palace-tattoos.json](./356183-synth-riders-caravan-palace-tattoos.json) |
 | Synth Riders: Challenges+ Update | 341049 | [341049-synth-riders-challenges-update.json](./341049-synth-riders-challenges-update.json) |
 | Synth Riders: Charli xcx - "Apple" | 352399 | [352399-synth-riders-charli-xcx-apple.json](./352399-synth-riders-charli-xcx-apple.json) |
+| Synth Riders: Crypt of The NecroDancer Music Pack | 401744 | [401744-synth-riders-crypt-of-the-necrodancer-music-pack.json](./401744-synth-riders-crypt-of-the-necrodancer-music-pack.json) |
+| Synth Riders: Crypt of The NecroDancer Music Pack | 401745 | [401745-synth-riders-crypt-of-the-necrodancer-music-pack.json](./401745-synth-riders-crypt-of-the-necrodancer-music-pack.json) |
 | Synth Riders: Cut Capers - "Let's Start Again (Odd Chap Remix)" | 288234 | [288234-synth-riders-cut-capers-lets-start-again-odd-chap-remix.json](./288234-synth-riders-cut-capers-lets-start-again-odd-chap-remix.json) |
 | Synth Riders: Daryl Hall & John Oates - "Out of Touch" | 353389 | [353389-synth-riders-daryl-hall-and-john-oates-out-of-touch.json](./353389-synth-riders-daryl-hall-and-john-oates-out-of-touch.json) |
 | Synth Riders: Devo - "Whip It" | 298700 | [298700-synth-riders-devo-whip-it.json](./298700-synth-riders-devo-whip-it.json) |
