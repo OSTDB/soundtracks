@@ -594,6 +594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sammon Salat | 294208 | [294208-sammon-salat.json](./294208-sammon-salat.json) |
 | Sammy Lightfoot | 23885 | [23885-sammy-lightfoot.json](./23885-sammy-lightfoot.json) |
 | Sammy Sosa High Heat Baseball 2001: Championship Edition | 206669 | [206669-sammy-sosa-high-heat-baseball-2001-championship-edition.json](./206669-sammy-sosa-high-heat-baseball-2001-championship-edition.json) |
+| Sammy The Sharky | 411081 | [411081-sammy-the-sharky.json](./411081-sammy-the-sharky.json) |
 | Samochodowy Wojownik | 150529 | [150529-samochodowy-wojownik.json](./150529-samochodowy-wojownik.json) |
 | Samoliotik | 33317 | [33317-samoliotik.json](./33317-samoliotik.json) |
 | Samorost | 15731 | [15731-samorost.json](./15731-samorost.json) |
@@ -7020,6 +7021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Elite V2: The Landwehr Canal | 10879 | [10879-sniper-elite-v2-the-landwehr-canal.json](./10879-sniper-elite-v2-the-landwehr-canal.json) |
 | Sniper Elite VR | 116466 | [116466-sniper-elite-vr.json](./116466-sniper-elite-vr.json) |
 | Sniper Elite: Nazi Zombie Army 2 | 10877 | [10877-sniper-elite-nazi-zombie-army-2.json](./10877-sniper-elite-nazi-zombie-army-2.json) |
+| Sniper Game | 411050 | [411050-sniper-game.json](./411050-sniper-game.json) |
 | Sniper Ghost Warrior Contracts & Sniper: Ghost Warrior 3: Unlimited Edition | 173161 | [173161-sniper-ghost-warrior-contracts-and-sniper-ghost-warrior-3-unlimited-edition.json](./173161-sniper-ghost-warrior-contracts-and-sniper-ghost-warrior-3-unlimited-edition.json) |
 | Sniper Ghost Warrior Contracts 2 | 138980 | [138980-sniper-ghost-warrior-contracts-2.json](./138980-sniper-ghost-warrior-contracts-2.json) |
 | Sniper Ghost Warrior Contracts 2: Butcher's Banquet | 159362 | [159362-sniper-ghost-warrior-contracts-2-butchers-banquet.json](./159362-sniper-ghost-warrior-contracts-2-butchers-banquet.json) |
@@ -8827,6 +8829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | South Surfers Park | 96716 | [96716-south-surfers-park.json](./96716-south-surfers-park.json) |
 | Southbound | 391602 | [391602-southbound.json](./391602-southbound.json) |
 | Southern Legends: The Temple Defenders | 236382 | [236382-southern-legends-the-temple-defenders.json](./236382-southern-legends-the-temple-defenders.json) |
+| Southern Lights: Broken Frequency | 410943 | [410943-southern-lights-broken-frequency.json](./410943-southern-lights-broken-frequency.json) |
 | Southern Monsters | 139315 | [139315-southern-monsters.json](./139315-southern-monsters.json) |
 | Southern Princesses | 212801 | [212801-southern-princesses.json](./212801-southern-princesses.json) |
 | Souzou Cliff | 181400 | [181400-souzou-cliff.json](./181400-souzou-cliff.json) |
@@ -11994,6 +11997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay Sane | 294253 | [294253-stay-sane.json](./294253-stay-sane.json) |
 | Stay Tooned! | 13786 | [13786-stay-tooned.json](./13786-stay-tooned.json) |
 | Stay Woke Etheral Edition | 75499 | [75499-stay-woke-etheral-edition.json](./75499-stay-woke-etheral-edition.json) |
+| Stay: Ember's Desktop Adventures | 411078 | [411078-stay-embers-desktop-adventures.json](./411078-stay-embers-desktop-adventures.json) |
 | Stay? | 184073 | [184073-stay.json](./184073-stay.json) |
 | Stay.: Fragments of Memories | 308972 | [308972-stay-fragments-of-memories.json](./308972-stay-fragments-of-memories.json) |
 | Staying Together | 129647 | [129647-staying-together.json](./129647-staying-together.json) |
@@ -13310,6 +13314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Students of Psionic Power | 211260 | [211260-students-of-psionic-power.json](./211260-students-of-psionic-power.json) |
 | Students' Horrible Stories: FIN | 147417 | [147417-students-horrible-stories-fin.json](./147417-students-horrible-stories-fin.json) |
 | Studio 100 Speeleiland | 130913 | [130913-studio-100-speeleiland.json](./130913-studio-100-speeleiland.json) |
+| Studio Sim: The Painting Game | 410942 | [410942-studio-sim-the-painting-game.json](./410942-studio-sim-the-painting-game.json) |
 | Study Arcade | 367497 | [367497-study-arcade.json](./367497-study-arcade.json) |
 | Study Time Anomaly | 369597 | [369597-study-time-anomaly.json](./369597-study-time-anomaly.json) |
 | Stuff'd | 228472 | [228472-stuffd.json](./228472-stuffd.json) |
