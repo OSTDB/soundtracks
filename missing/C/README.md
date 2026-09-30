@@ -2715,6 +2715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charly Diams | 39114 | [39114-charly-diams.json](./39114-charly-diams.json) |
 | Charm | 232657 | [232657-charm.json](./232657-charm.json) |
 | Charm & Clue 2 | 417505 | [417505-charm-and-clue-2.json](./417505-charm-and-clue-2.json) |
+| Charm & Clue 2: Collector's Edition | 416782 | [416782-charm-and-clue-2-collectors-edition.json](./416782-charm-and-clue-2-collectors-edition.json) |
 | Charm & Clue: Collector's Edition | 417506 | [417506-charm-and-clue-collectors-edition.json](./417506-charm-and-clue-collectors-edition.json) |
 | Charm Girls Club: My Fashion Mall | 68084 | [68084-charm-girls-club-my-fashion-mall.json](./68084-charm-girls-club-my-fashion-mall.json) |
 | Charm Girls Club: My Fashion Show | 68085 | [68085-charm-girls-club-my-fashion-show.json](./68085-charm-girls-club-my-fashion-show.json) |
@@ -3309,6 +3310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | China Syndrome | 18554 | [18554-china-syndrome.json](./18554-china-syndrome.json) |
 | China Warrior | 42127 | [42127-china-warrior.json](./42127-china-warrior.json) |
 | Chinami Holic | 387661 | [387661-chinami-holic.json](./387661-chinami-holic.json) |
+| ChinanaGo! | 416732 | [416732-chinanago.json](./416732-chinanago.json) |
 | Chinatown | 272012 | [272012-chinatown.json](./272012-chinatown.json) |
 | Chinatown Detective Agency | 125715 | [125715-chinatown-detective-agency.json](./125715-chinatown-detective-agency.json) |
 | Chinbu's Adventure: Ice World | 171940 | [171940-chinbus-adventure-ice-world.json](./171940-chinbus-adventure-ice-world.json) |
@@ -3668,6 +3670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Wonderland 14 | 417593 | [417593-christmas-wonderland-14.json](./417593-christmas-wonderland-14.json) |
 | Christmas Wonderland 15 | 417594 | [417594-christmas-wonderland-15.json](./417594-christmas-wonderland-15.json) |
 | Christmas Wonderland 16 | 417595 | [417595-christmas-wonderland-16.json](./417595-christmas-wonderland-16.json) |
+| Christmas Wonderland 16: Collector's Edition | 416785 | [416785-christmas-wonderland-16-collectors-edition.json](./416785-christmas-wonderland-16-collectors-edition.json) |
 | Christmas Wonderland 7 | 226426 | [226426-christmas-wonderland-7.json](./226426-christmas-wonderland-7.json) |
 | Christmas Wonderland 8 | 417622 | [417622-christmas-wonderland-8.json](./417622-christmas-wonderland-8.json) |
 | Christmas Wonderland 9 | 417623 | [417623-christmas-wonderland-9.json](./417623-christmas-wonderland-9.json) |
@@ -4303,6 +4306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clair Obscur: Expedition 33 – Deluxe Edition | 333209 | [333209-clair-obscur-expedition-33-deluxe-edition.json](./333209-clair-obscur-expedition-33-deluxe-edition.json) |
 | Claire | 10082 | [10082-claire.json](./10082-claire.json) |
 | Claire Darksage and the Accursed Objects: Collector's Editon | 362828 | [362828-claire-darksage-and-the-accursed-objects-collectors-editon.json](./362828-claire-darksage-and-the-accursed-objects-collectors-editon.json) |
+| Claire Darksage and the Penumbra Deaths: Collector's Edition | 416780 | [416780-claire-darksage-and-the-penumbra-deaths-collectors-edition.json](./416780-claire-darksage-and-the-penumbra-deaths-collectors-edition.json) |
 | Claire's Cruisin' Cafe: Fest Frenzy | 266310 | [266310-claires-cruisin-cafe-fest-frenzy.json](./266310-claires-cruisin-cafe-fest-frenzy.json) |
 | Claire's Cruisin' Cafe: High Seas Cuisine | 193445 | [193445-claires-cruisin-cafe-high-seas-cuisine.json](./193445-claires-cruisin-cafe-high-seas-cuisine.json) |
 | Clairvoyance | 115488 | [115488-clairvoyance.json](./115488-clairvoyance.json) |
@@ -4896,6 +4900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clutch | 16049 | [16049-clutch.json](./16049-clutch.json) |
 | Clutch Hitter | 369246 | [369246-clutch-hitter.json](./369246-clutch-hitter.json) |
 | Clutter 18: Joe's Ultimate Challenge - Collector's Edition | 369562 | [369562-clutter-18-joes-ultimate-challenge-collectors-edition.json](./369562-clutter-18-joes-ultimate-challenge-collectors-edition.json) |
+| Clutter 19: Survey Says What? - Collector's Edition | 416781 | [416781-clutter-19-survey-says-what-collectors-edition.json](./416781-clutter-19-survey-says-what-collectors-edition.json) |
 | Clutter Craze | 82188 | [82188-clutter-craze.json](./82188-clutter-craze.json) |
 | Clutter III : Who Is The Void? | 318199 | [318199-clutter-iii-who-is-the-void.json](./318199-clutter-iii-who-is-the-void.json) |
 | Clutter Puzzle Magazine Vol. 15 No. 1: Collector's Edition | 281999 | [281999-clutter-puzzle-magazine-vol-15-no-1-collectors-edition.json](./281999-clutter-puzzle-magazine-vol-15-no-1-collectors-edition.json) |
@@ -7811,6 +7816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criminal Archives: City on Fire - Collector's Edition | 186330 | [186330-criminal-archives-city-on-fire-collectors-edition.json](./186330-criminal-archives-city-on-fire-collectors-edition.json) |
 | Criminal Archives: Murder in the Pages - Collector's Edition | 294989 | [294989-criminal-archives-murder-in-the-pages-collectors-edition.json](./294989-criminal-archives-murder-in-the-pages-collectors-edition.json) |
 | Criminal Archives: Murder in the Pages DLC | 294990 | [294990-criminal-archives-murder-in-the-pages-dlc.json](./294990-criminal-archives-murder-in-the-pages-dlc.json) |
+| Criminal Archives: Symphony of Death - Collector's Edition | 416772 | [416772-criminal-archives-symphony-of-death-collectors-edition.json](./416772-criminal-archives-symphony-of-death-collectors-edition.json) |
 | Criminal Attraction | 296673 | [296673-criminal-attraction.json](./296673-criminal-attraction.json) |
 | Criminal Case: Mysteries | 262385 | [262385-criminal-case-mysteries.json](./262385-criminal-case-mysteries.json) |
 | Criminal Case: Pacific Bay | 96261 | [96261-criminal-case-pacific-bay.json](./96261-criminal-case-pacific-bay.json) |
