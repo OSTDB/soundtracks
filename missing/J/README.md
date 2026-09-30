@@ -161,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaded Journey | 180109 | [180109-jaded-journey.json](./180109-jaded-journey.json) |
 | Jaden & Jasmine: Lost Memories | 259600 | [259600-jaden-and-jasmine-lost-memories.json](./259600-jaden-and-jasmine-lost-memories.json) |
 | Jaden's Nether Expansion | 344016 | [344016-jadens-nether-expansion.json](./344016-jadens-nether-expansion.json) |
+| Jaderaze Inferno | 412465 | [412465-jaderaze-inferno.json](./412465-jaderaze-inferno.json) |
 | Jägermörder 2: Terra Nova | 262426 | [262426-jagermorder-2-terra-nova.json](./262426-jagermorder-2-terra-nova.json) |
 | Jagged Alliance | 7 | [7-jagged-alliance.json](./7-jagged-alliance.json) |
 | Jagged Alliance 2 Platinum | 53252 | [53252-jagged-alliance-2-platinum.json](./53252-jagged-alliance-2-platinum.json) |
