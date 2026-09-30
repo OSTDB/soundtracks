@@ -691,6 +691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainy Day Spider Solitaire | 366447 | [366447-rainy-day-spider-solitaire.json](./366447-rainy-day-spider-solitaire.json) |
 | Rainy Day Spider Solitaire HD | 354996 | [354996-rainy-day-spider-solitaire-hd.json](./354996-rainy-day-spider-solitaire-hd.json) |
 | Rainy Morning Kitchen Fire Blues | 135778 | [135778-rainy-morning-kitchen-fire-blues.json](./135778-rainy-morning-kitchen-fire-blues.json) |
+| Rainy Season | 119732 | [119732-rainy-season.json](./119732-rainy-season.json) |
 | Rainy single room | 205588 | [205588-rainy-single-room.json](./205588-rainy-single-room.json) |
 | RainyCloud | 224542 | [224542-rainycloud.json](./224542-rainycloud.json) |
 | Rainyday | 67905 | [67905-rainyday.json](./67905-rainyday.json) |
@@ -5802,6 +5803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Factory 6 | 250924 | [250924-rune-factory-6.json](./250924-rune-factory-6.json) |
 | Rune Factory Frontier | 5132 | [5132-rune-factory-frontier.json](./5132-rune-factory-frontier.json) |
 | Rune Factory: Tides of Destiny | 5133 | [5133-rune-factory-tides-of-destiny.json](./5133-rune-factory-tides-of-destiny.json) |
+| Rune Girl | 118976 | [118976-rune-girl.json](./118976-rune-girl.json) |
 | Rune Golf | 260245 | [260245-rune-golf.json](./260245-rune-golf.json) |
 | Rune Gunner | 383475 | [383475-rune-gunner.json](./383475-rune-gunner.json) |
 | Rune II | 55149 | [55149-rune-ii.json](./55149-rune-ii.json) |
