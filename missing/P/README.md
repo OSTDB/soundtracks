@@ -1844,6 +1844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peeking at the peak | 278387 | [278387-peeking-at-the-peak.json](./278387-peeking-at-the-peak.json) |
 | Peel a Banana | 368557 | [368557-peel-a-banana.json](./368557-peel-a-banana.json) |
 | Peepers Paradise | 341586 | [341586-peepers-paradise.json](./341586-peepers-paradise.json) |
+| Peeping | 389669 | [389669-peeping.json](./389669-peeping.json) |
 | Peeping Tom | 284399 | [284399-peeping-tom.json](./284399-peeping-tom.json) |
 | Peer Gynt the Game | 126586 | [126586-peer-gynt-the-game.json](./126586-peer-gynt-the-game.json) |
 | Peer Pressure | 404397 | [404397-peer-pressure.json](./404397-peer-pressure.json) |
@@ -7646,6 +7647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PS!Outertale | 313279 | [313279-ps-outertale.json](./313279-ps-outertale.json) |
 | Psalm VR | 343853 | [343853-psalm-vr.json](./343853-psalm-vr.json) |
 | Psebay | 43063 | [43063-psebay.json](./43063-psebay.json) |
+| Pseudo Collision | 389657 | [389657-pseudo-collision.json](./389657-pseudo-collision.json) |
 | Pseudo-Haunting | 272948 | [272948-pseudo-haunting.json](./272948-pseudo-haunting.json) |
 | Pseudoku | 337638 | [337638-pseudoku.json](./337638-pseudoku.json) |
 | Psi Chess | 58251 | [58251-psi-chess.json](./58251-psi-chess.json) |
