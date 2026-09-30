@@ -4260,6 +4260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucid Trips | 26803 | [26803-lucid-trips.json](./26803-lucid-trips.json) |
 | Lucid9: Inciting Incident | 80553 | [80553-lucid9-inciting-incident.json](./80553-lucid9-inciting-incident.json) |
 | Lucido Cancels Everything | 295309 | [295309-lucido-cancels-everything.json](./295309-lucido-cancels-everything.json) |
+| Lucie | 90834 | [90834-lucie.json](./90834-lucie.json) |
 | Lucie's Bistro | 215787 | [215787-lucies-bistro.json](./215787-lucies-bistro.json) |
 | Luciel Angel Mission | 314060 | [314060-luciel-angel-mission.json](./314060-luciel-angel-mission.json) |
 | Lucifer Ring | 43873 | [43873-lucifer-ring.json](./43873-lucifer-ring.json) |
@@ -4505,6 +4506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunadra: Luna Awakens the Legendary Dragon | 406938 | [406938-lunadra-luna-awakens-the-legendary-dragon.json](./406938-lunadra-luna-awakens-the-legendary-dragon.json) |
 | Lunaela | 200430 | [200430-lunaela.json](./200430-lunaela.json) |
 | Lunaform | 44131 | [44131-lunaform.json](./44131-lunaform.json) |
+| Lunapark VR | 90823 | [90823-lunapark-vr.json](./90823-lunapark-vr.json) |
 | LunaQuest | 190473 | [190473-lunaquest.json](./190473-lunaquest.json) |
 | Lunar Assault 64 | 145457 | [145457-lunar-assault-64.json](./145457-lunar-assault-64.json) |
 | Lunar Ball | 92281 | [92281-lunar-ball.json](./92281-lunar-ball.json) |
