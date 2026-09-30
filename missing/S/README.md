@@ -1673,6 +1673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scraps and Patches | 111726 | [111726-scraps-and-patches.json](./111726-scraps-and-patches.json) |
 | Scraps of the Machine | 377683 | [377683-scraps-of-the-machine.json](./377683-scraps-of-the-machine.json) |
 | Scraps: Hellmouth Creek | 391580 | [391580-scraps-hellmouth-creek.json](./391580-scraps-hellmouth-creek.json) |
+| Scraps: Modular Vehicle Combat | 12816 | [12816-scraps-modular-vehicle-combat.json](./12816-scraps-modular-vehicle-combat.json) |
 | Scraptail: Down the Drain | 278514 | [278514-scraptail-down-the-drain.json](./278514-scraptail-down-the-drain.json) |
 | Scrapvival | 190150 | [190150-scrapvival.json](./190150-scrapvival.json) |
 | Scrapyard Dog | 12338 | [12338-scrapyard-dog.json](./12338-scrapyard-dog.json) |
@@ -9945,6 +9946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spica Adventure | 60051 | [60051-spica-adventure.json](./60051-spica-adventure.json) |
 | Spice and Wolf: The Wind that Spans the Sea | 123448 | [123448-spice-and-wolf-the-wind-that-spans-the-sea.json](./123448-spice-and-wolf-the-wind-that-spans-the-sea.json) |
 | Spice Evaders | 180583 | [180583-spice-evaders.json](./180583-spice-evaders.json) |
+| Spice Road | 17287 | [17287-spice-road.json](./17287-spice-road.json) |
 | Spice World | 44907 | [44907-spice-world.json](./44907-spice-world.json) |
 | Spicy Fruit | 293678 | [293678-spicy-fruit.json](./293678-spicy-fruit.json) |
 | Spider | 320132 | [320132-spider.json](./320132-spider.json) |
@@ -16248,6 +16250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweety Kitty | 219560 | [219560-sweety-kitty.json](./219560-sweety-kitty.json) |
 | Sweety Kitty 2 | 224774 | [224774-sweety-kitty-2.json](./224774-sweety-kitty-2.json) |
 | Sweety Sweets | 259024 | [259024-sweety-sweets.json](./259024-sweety-sweets.json) |
+| Sweezy Gunner | 17306 | [17306-sweezy-gunner.json](./17306-sweezy-gunner.json) |
 | Swell | 262974 | [262974-swell.json](./262974-swell.json) |
 | Swelldone | 280900 | [280900-swelldone.json](./280900-swelldone.json) |
 | Swervle | 413686 | [413686-swervle.json](./413686-swervle.json) |
