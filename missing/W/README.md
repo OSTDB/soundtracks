@@ -1768,6 +1768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What the hen! | 120244 | [120244-what-the-hen.json](./120244-what-the-hen.json) |
 | What the Pho: restaurant startup stories | 132799 | [132799-what-the-pho-restaurant-startup-stories.json](./132799-what-the-pho-restaurant-startup-stories.json) |
 | What the Stars Forgot | 375983 | [375983-what-the-stars-forgot.json](./375983-what-the-stars-forgot.json) |
+| What They Gave Us | 407391 | [407391-what-they-gave-us.json](./407391-what-they-gave-us.json) |
 | What Trash? | 158684 | [158684-what-trash.json](./158684-what-trash.json) |
 | What Was Here? 1-Minute Memory Quiz!! | 420687 | [420687-what-was-here-1-minute-memory-quiz.json](./420687-what-was-here-1-minute-memory-quiz.json) |
 | What Was Home | 374148 | [374148-what-was-home.json](./374148-what-was-home.json) |
