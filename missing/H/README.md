@@ -1960,6 +1960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellish Inc. | 77425 | [77425-hellish-inc.json](./77425-hellish-inc.json) |
 | Hellish Quart | 139472 | [139472-hellish-quart.json](./139472-hellish-quart.json) |
 | Hellivery | 364676 | [364676-hellivery.json](./364676-hellivery.json) |
+| Hellkick | 418557 | [418557-hellkick.json](./418557-hellkick.json) |
 | Hellkid: Hook & Jump | 184071 | [184071-hellkid-hook-and-jump.json](./184071-hellkid-hook-and-jump.json) |
 | Hellmate | 338725 | [338725-hellmate.json](./338725-hellmate.json) |
 | Hellmet: Seven Circles Down | 278432 | [278432-hellmet-seven-circles-down.json](./278432-hellmet-seven-circles-down.json) |
