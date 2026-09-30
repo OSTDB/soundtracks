@@ -2297,6 +2297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloom | 3030 | [3030-gloom.json](./3030-gloom.json) |
 | Gloom | 77750 | [77750-gloom.json](./77750-gloom.json) |
 | Gloom | 78126 | [78126-gloom.json](./78126-gloom.json) |
+| Gloom Gate | 417428 | [417428-gloom-gate.json](./417428-gloom-gate.json) |
 | Gloom: Digital Edition | 197770 | [197770-gloom-digital-edition.json](./197770-gloom-digital-edition.json) |
 | Gloom: Unhappy Homes | 168770 | [168770-gloom-unhappy-homes.json](./168770-gloom-unhappy-homes.json) |
 | Gloomhaven | 106803 | [106803-gloomhaven.json](./106803-gloomhaven.json) |
@@ -2386,6 +2387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glyphs of Gitzan | 300997 | [300997-glyphs-of-gitzan.json](./300997-glyphs-of-gitzan.json) |
 | Glyphs of the Pharaohs | 177002 | [177002-glyphs-of-the-pharaohs.json](./177002-glyphs-of-the-pharaohs.json) |
 | Glyphscape | 349401 | [349401-glyphscape.json](./349401-glyphscape.json) |
+| Glyphwing: World Geography | 417444 | [417444-glyphwing-world-geography.json](./417444-glyphwing-world-geography.json) |
 | Gnarbike Trials 2 | 284489 | [284489-gnarbike-trials-2.json](./284489-gnarbike-trials-2.json) |
 | Gnaughty Gnomes | 346030 | [346030-gnaughty-gnomes.json](./346030-gnaughty-gnomes.json) |
 | Gnilley | 261307 | [261307-gnilley.json](./261307-gnilley.json) |
@@ -4175,6 +4177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Griffin | 353993 | [353993-griffin.json](./353993-griffin.json) |
 | Griffin Card | 182847 | [182847-griffin-card.json](./182847-griffin-card.json) |
 | Griffin Simulator | 106778 | [106778-griffin-simulator.json](./106778-griffin-simulator.json) |
+| Griffophone Rider | 417562 | [417562-griffophone-rider.json](./417562-griffophone-rider.json) |
 | Griftlands: Nintendo Switch Edition | 140501 | [140501-griftlands-nintendo-switch-edition.json](./140501-griftlands-nintendo-switch-edition.json) |
 | Grigala Runner | 110140 | [110140-grigala-runner.json](./110140-grigala-runner.json) |
 | Grill-Off with Ultra Hand! | 50696 | [50696-grill-off-with-ultra-hand.json](./50696-grill-off-with-ultra-hand.json) |
