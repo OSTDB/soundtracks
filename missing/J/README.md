@@ -1074,6 +1074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John Christian | 155001 | [155001-john-christian.json](./155001-john-christian.json) |
 | John Christian 2 | 195141 | [195141-john-christian-2.json](./195141-john-christian-2.json) |
 | John Christian 3.0 | 274458 | [274458-john-christian-3-0.json](./274458-john-christian-3-0.json) |
+| John Daly's ProStroke Golf | 21738 | [21738-john-dalys-prostroke-golf.json](./21738-john-dalys-prostroke-golf.json) |
 | John Deere American Farmer: Deluxe Edition | 210132 | [210132-john-deere-american-farmer-deluxe-edition.json](./210132-john-deere-american-farmer-deluxe-edition.json) |
 | John Deere: American Builder Deluxe | 79589 | [79589-john-deere-american-builder-deluxe.json](./79589-john-deere-american-builder-deluxe.json) |
 | John Deere: Busy Days in Deerfield Valley | 210131 | [210131-john-deere-busy-days-in-deerfield-valley.json](./210131-john-deere-busy-days-in-deerfield-valley.json) |
