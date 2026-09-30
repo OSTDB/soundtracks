@@ -3765,6 +3765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravebound Dash | 402903 | [402903-gravebound-dash.json](./402903-gravebound-dash.json) |
 | GraveBoy CrowFeet: A Quest for Skulls | 405030 | [405030-graveboy-crowfeet-a-quest-for-skulls.json](./405030-graveboy-crowfeet-a-quest-for-skulls.json) |
 | Gravedigger | 94557 | [94557-gravedigger.json](./94557-gravedigger.json) |
+| Gravehold: Survival | 399136 | [399136-gravehold-survival.json](./399136-gravehold-survival.json) |
 | Gravel | 27514 | [27514-gravel.json](./27514-gravel.json) |
 | Gravel Gang | 243791 | [243791-gravel-gang.json](./243791-gravel-gang.json) |
 | Gravel: Armored Operation | 167805 | [167805-gravel-armored-operation.json](./167805-gravel-armored-operation.json) |
