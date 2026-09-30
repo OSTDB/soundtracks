@@ -1591,6 +1591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voidline | 408037 | [408037-voidline.json](./408037-voidline.json) |
 | Voidnomaly | 378415 | [378415-voidnomaly.json](./378415-voidnomaly.json) |
 | VoidOut Parkour | 155660 | [155660-voidout-parkour.json](./155660-voidout-parkour.json) |
+| VoidReaver | 392408 | [392408-voidreaver.json](./392408-voidreaver.json) |
 | Voidrel | 408996 | [408996-voidrel.json](./408996-voidrel.json) |
 | Voidrun | 232011 | [232011-voidrun.json](./232011-voidrun.json) |
 | Voidrunner | 377287 | [377287-voidrunner.json](./377287-voidrunner.json) |
