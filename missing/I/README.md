@@ -1365,6 +1365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Style | 276243 | [276243-in-style.json](./276243-in-style.json) |
 | In Sync: 2 Fun Balls | 208028 | [208028-in-sync-2-fun-balls.json](./208028-in-sync-2-fun-balls.json) |
 | In Ten Years | 329151 | [329151-in-ten-years.json](./329151-in-ten-years.json) |
+| In Tenebris | 405683 | [405683-in-tenebris.json](./405683-in-tenebris.json) |
 | In the 1st Degree | 22601 | [22601-in-the-1st-degree.json](./22601-in-the-1st-degree.json) |
 | In the alley: Our hometown | 221415 | [221415-in-the-alley-our-hometown.json](./221415-in-the-alley-our-hometown.json) |
 | In the Black | 125370 | [125370-in-the-black.json](./125370-in-the-black.json) |
@@ -2838,6 +2839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isabelle | 112337 | [112337-isabelle.json](./112337-isabelle.json) |
 | Isabelle 64 | 135266 | [135266-isabelle-64.json](./135266-isabelle-64.json) |
 | Isadora's Edge | 329969 | [329969-isadoras-edge.json](./329969-isadoras-edge.json) |
+| Isagi's Bartending Diary | 405634 | [405634-isagis-bartending-diary.json](./405634-isagis-bartending-diary.json) |
 | Isaiah 24:4-6 | 228973 | [228973-isaiah-24-4-6.json](./228973-isaiah-24-4-6.json) |
 | Isane Insects: The Inception | 53255 | [53255-isane-insects-the-inception.json](./53255-isane-insects-the-inception.json) |
 | Iscoot | 392153 | [392153-iscoot.json](./392153-iscoot.json) |
