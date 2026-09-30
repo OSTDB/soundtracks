@@ -1380,6 +1380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pastel Island | 268444 | [268444-pastel-island.json](./268444-pastel-island.json) |
 | Pastel Lime | 210633 | [210633-pastel-lime.json](./210633-pastel-lime.json) |
 | Pastel Putter | 218409 | [218409-pastel-putter.json](./218409-pastel-putter.json) |
+| Pastimes | 415198 | [415198-pastimes.json](./415198-pastimes.json) |
 | Pastor | 411604 | [411604-pastor.json](./411604-pastor.json) |
 | Pastor's Lake: The Game | 285540 | [285540-pastors-lake-the-game.json](./285540-pastors-lake-the-game.json) |
 | Pastoral | 228688 | [228688-pastoral.json](./228688-pastoral.json) |
@@ -1525,6 +1526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patrolling the Highway | 359409 | [359409-patrolling-the-highway.json](./359409-patrolling-the-highway.json) |
 | Patron | 152393 | [152393-patron.json](./152393-patron.json) |
 | Pattern | 112449 | [112449-pattern.json](./112449-pattern.json) |
+| Pattern Pulse | 415233 | [415233-pattern-pulse.json](./415233-pattern-pulse.json) |
 | Pattern Survivors: Bullet Hell | 348970 | [348970-pattern-survivors-bullet-hell.json](./348970-pattern-survivors-bullet-hell.json) |
 | Pattern Thinking Puzzle Build It Before 10 | 362365 | [362365-pattern-thinking-puzzle-build-it-before-10.json](./362365-pattern-thinking-puzzle-build-it-before-10.json) |
 | Patterna | 31999 | [31999-patterna.json](./31999-patterna.json) |
@@ -1859,6 +1861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peggy's Farm | 274048 | [274048-peggys-farm.json](./274048-peggys-farm.json) |
 | Peggy's Post | 365093 | [365093-peggys-post.json](./365093-peggys-post.json) |
 | Peglin | 133512 | [133512-peglin.json](./133512-peglin.json) |
+| Pegs of Hell | 416008 | [416008-pegs-of-hell.json](./416008-pegs-of-hell.json) |
 | Pegture | 389722 | [389722-pegture.json](./389722-pegture.json) |
 | Pegzo | 78073 | [78073-pegzo.json](./78073-pegzo.json) |
 | Peh Pai | 91361 | [91361-peh-pai.json](./91361-peh-pai.json) |
@@ -4676,6 +4679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocke-Kano: Shizuka Houjouin | 166553 | [166553-pocke-kano-shizuka-houjouin.json](./166553-pocke-kano-shizuka-houjouin.json) |
 | Pocke-Kano: Yumi Aida | 166552 | [166552-pocke-kano-yumi-aida.json](./166552-pocke-kano-yumi-aida.json) |
 | Pocket Action: Pro Football | 245423 | [245423-pocket-action-pro-football.json](./245423-pocket-action-pro-football.json) |
+| Pocket Adventurer | 416043 | [416043-pocket-adventurer.json](./416043-pocket-adventurer.json) |
 | Pocket Ants | 193954 | [193954-pocket-ants.json](./193954-pocket-ants.json) |
 | Pocket Arcade Story DX | 208033 | [208033-pocket-arcade-story-dx.json](./208033-pocket-arcade-story-dx.json) |
 | Pocket Assault | 118818 | [118818-pocket-assault.json](./118818-pocket-assault.json) |
@@ -5056,6 +5060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Go: Season of Legends | 218502 | [218502-pokemon-go-season-of-legends.json](./218502-pokemon-go-season-of-legends.json) |
 | Pokémon Go: Season of Light | 215759 | [215759-pokemon-go-season-of-light.json](./215759-pokemon-go-season-of-light.json) |
 | Pokémon Go: Season of Mischief | 218487 | [218487-pokemon-go-season-of-mischief.json](./218487-pokemon-go-season-of-mischief.json) |
+| Pokémon Go: Twilight Trails | 415236 | [415236-pokemon-go-twilight-trails.json](./415236-pokemon-go-twilight-trails.json) |
 | Pokémon Goita | 377713 | [377713-pokemon-goita.json](./377713-pokemon-goita.json) |
 | Pokémon Gold and Silver 97: Reforged | 203224 | [203224-pokemon-gold-and-silver-97-reforged.json](./203224-pokemon-gold-and-silver-97-reforged.json) |
 | Pokémon Gratia | 318562 | [318562-pokemon-gratia.json](./318562-pokemon-gratia.json) |
@@ -5327,6 +5332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Chopper | 87917 | [87917-police-chopper.json](./87917-police-chopper.json) |
 | Police Enforcement VR : 1-K-27 | 97014 | [97014-police-enforcement-vr-1-k-27.json](./97014-police-enforcement-vr-1-k-27.json) |
 | Police Helicopter Simulator | 111959 | [111959-police-helicopter-simulator.json](./111959-police-helicopter-simulator.json) |
+| Police Officer | 415218 | [415218-police-officer.json](./415218-police-officer.json) |
 | Police on Duty | 209656 | [209656-police-on-duty.json](./209656-police-on-duty.json) |
 | Police on Duty 2 | 295773 | [295773-police-on-duty-2.json](./295773-police-on-duty-2.json) |
 | Police Patrol | 96900 | [96900-police-patrol.json](./96900-police-patrol.json) |
@@ -7438,6 +7444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prospector | 91935 | [91935-prospector.json](./91935-prospector.json) |
 | Prospector Stanley | 183553 | [183553-prospector-stanley.json](./183553-prospector-stanley.json) |
 | Prospekt | 22149 | [22149-prospekt.json](./22149-prospekt.json) |
+| Prospera | 415184 | [415184-prospera.json](./415184-prospera.json) |
 | Prospero | 237524 | [237524-prospero.json](./237524-prospero.json) |
 | Prospice | 374812 | [374812-prospice.json](./374812-prospice.json) |
 | Prost Grand Prix 1998 | 78696 | [78696-prost-grand-prix-1998.json](./78696-prost-grand-prix-1998.json) |
