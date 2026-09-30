@@ -1593,6 +1593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After the War | 5713 | [5713-after-the-war.json](./5713-after-the-war.json) |
 | After Wave: Downfall | 212284 | [212284-after-wave-downfall.json](./212284-after-wave-downfall.json) |
 | After Work | 360586 | [360586-after-work.json](./360586-after-work.json) |
+| After Work | 417423 | [417423-after-work.json](./417423-after-work.json) |
 | After-H : Zombies | 141798 | [141798-after-h-zombies.json](./141798-after-h-zombies.json) |
 | After-H: Battle Arena | 141797 | [141797-after-h-battle-arena.json](./141797-after-h-battle-arena.json) |
 | After-H: Legend of Mars | 141799 | [141799-after-h-legend-of-mars.json](./141799-after-h-legend-of-mars.json) |
@@ -2912,6 +2913,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All in Abyss: Judge the Fake | 302693 | [302693-all-in-abyss-judge-the-fake.json](./302693-all-in-abyss-judge-the-fake.json) |
 | All In Everyday | 326091 | [326091-all-in-everyday.json](./326091-all-in-everyday.json) |
 | All in One Adventure VR | 368663 | [368663-all-in-one-adventure-vr.json](./368663-all-in-one-adventure-vr.json) |
+| All In One Sports: Four Ball Billiards | 417371 | [417371-all-in-one-sports-four-ball-billiards.json](./417371-all-in-one-sports-four-ball-billiards.json) |
+| All In One Sports: Hockey | 417369 | [417369-all-in-one-sports-hockey.json](./417369-all-in-one-sports-hockey.json) |
+| All In One Sports: Soccer | 417370 | [417370-all-in-one-sports-soccer.json](./417370-all-in-one-sports-soccer.json) |
+| All In One Sports: Three Cushion Billiards | 417372 | [417372-all-in-one-sports-three-cushion-billiards.json](./417372-all-in-one-sports-three-cushion-billiards.json) |
 | All in Vain | 392139 | [392139-all-in-vain.json](./392139-all-in-vain.json) |
 | All in! Bundle | 164807 | [164807-all-in-bundle.json](./164807-all-in-bundle.json) |
 | All is Fair in Dust and Air | 142266 | [142266-all-is-fair-in-dust-and-air.json](./142266-all-is-fair-in-dust-and-air.json) |
@@ -5837,6 +5842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aries: Origins | 142865 | [142865-aries-origins.json](./142865-aries-origins.json) |
 | Arifureta: From Commonplace to World's Strongest - Rebellion Soul | 390534 | [390534-arifureta-from-commonplace-to-worlds-strongest-rebellion-soul.json](./390534-arifureta-from-commonplace-to-worlds-strongest-rebellion-soul.json) |
 | Arigatou, Ningen-san! | 135030 | [135030-arigatou-ningen-san.json](./135030-arigatou-ningen-san.json) |
+| Arijigoku | 417489 | [417489-arijigoku.json](./417489-arijigoku.json) |
 | Arima Lodge | 326630 | [326630-arima-lodge.json](./326630-arima-lodge.json) |
 | Arindama | 378898 | [378898-arindama.json](./378898-arindama.json) |
 | Arinn | 261787 | [261787-arinn.json](./261787-arinn.json) |
