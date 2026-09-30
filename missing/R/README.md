@@ -2224,6 +2224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reknum: Origins Collection | 182476 | [182476-reknum-origins-collection.json](./182476-reknum-origins-collection.json) |
 | Reknum: Origins Collection - Limited Edition | 182477 | [182477-reknum-origins-collection-limited-edition.json](./182477-reknum-origins-collection-limited-edition.json) |
 | Rekoil | 7666 | [7666-rekoil.json](./7666-rekoil.json) |
+| Rekoil: Liberator | 20867 | [20867-rekoil-liberator.json](./20867-rekoil-liberator.json) |
 | Reksio i Czarodzieje | 82038 | [82038-reksio-i-czarodzieje.json](./82038-reksio-i-czarodzieje.json) |
 | Reksio i Kapitan Nemo | 156177 | [156177-reksio-i-kapitan-nemo.json](./156177-reksio-i-kapitan-nemo.json) |
 | Reksio i Kretes: Sermageddon | 327397 | [327397-reksio-i-kretes-sermageddon.json](./327397-reksio-i-kretes-sermageddon.json) |
@@ -4304,6 +4305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock 'N Racing Bundle Off Road & Grand Prix | 147797 | [147797-rock-n-racing-bundle-off-road-and-grand-prix.json](./147797-rock-n-racing-bundle-off-road-and-grand-prix.json) |
 | Rock 'N Racing Bundle Off Road & Rally | 147798 | [147798-rock-n-racing-bundle-off-road-and-rally.json](./147798-rock-n-racing-bundle-off-road-and-rally.json) |
 | Rock 'N Racing Off Road | 86249 | [86249-rock-n-racing-off-road.json](./86249-rock-n-racing-off-road.json) |
+| Rock 'N Racing Off Road DX | 20959 | [20959-rock-n-racing-off-road-dx.json](./20959-rock-n-racing-off-road-dx.json) |
 | Rock 'N Roll | 90647 | [90647-rock-n-roll.json](./90647-rock-n-roll.json) |
 | Rock 'N' Roll Defense | 33583 | [33583-rock-n-roll-defense.json](./33583-rock-n-roll-defense.json) |
 | Rock 'n' Roll Will Never Die! | 199358 | [199358-rock-n-roll-will-never-die.json](./199358-rock-n-roll-will-never-die.json) |
