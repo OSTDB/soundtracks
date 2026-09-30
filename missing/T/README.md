@@ -2786,6 +2786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Anomaly Demo | 111208 | [111208-the-anomaly-demo.json](./111208-the-anomaly-demo.json) |
 | The Anomaly Experiment | 342048 | [342048-the-anomaly-experiment.json](./342048-the-anomaly-experiment.json) |
 | The Anomaly Project | 312378 | [312378-the-anomaly-project.json](./312378-the-anomaly-project.json) |
+| The Anomaly Unit | 389695 | [389695-the-anomaly-unit.json](./389695-the-anomaly-unit.json) |
 | The Another World | 386889 | [386889-the-another-world.json](./386889-the-another-world.json) |
 | The Answer is 42 | 127234 | [127234-the-answer-is-42.json](./127234-the-answer-is-42.json) |
 | The Ant Bully | 206163 | [206163-the-ant-bully.json](./206163-the-ant-bully.json) |
@@ -4034,6 +4035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Drafting Table | 231645 | [231645-the-drafting-table.json](./231645-the-drafting-table.json) |
 | The Dragon and the Djinn | 189166 | [189166-the-dragon-and-the-djinn.json](./189166-the-dragon-and-the-djinn.json) |
 | The Dragon Apprentice | 196883 | [196883-the-dragon-apprentice.json](./196883-the-dragon-apprentice.json) |
+| The Dragon Princess | 389693 | [389693-the-dragon-princess.json](./389693-the-dragon-princess.json) |
 | The Dragon Queen | 238526 | [238526-the-dragon-queen.json](./238526-the-dragon-queen.json) |
 | The Dragon Sword | 149934 | [149934-the-dragon-sword.json](./149934-the-dragon-sword.json) |
 | The Dragon, Thyme | 280779 | [280779-the-dragon-thyme.json](./280779-the-dragon-thyme.json) |
@@ -4978,6 +4980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Haunting of Joni Evers | 290008 | [290008-the-haunting-of-joni-evers.json](./290008-the-haunting-of-joni-evers.json) |
 | The Hauntings | 164988 | [164988-the-hauntings.json](./164988-the-hauntings.json) |
 | The Hauntings: Surveillance | 202367 | [202367-the-hauntings-surveillance.json](./202367-the-hauntings-surveillance.json) |
+| The Headlands | 389687 | [389687-the-headlands.json](./389687-the-headlands.json) |
 | The Headsman | 153412 | [153412-the-headsman.json](./153412-the-headsman.json) |
 | The Heart Defenders | 224778 | [224778-the-heart-defenders.json](./224778-the-heart-defenders.json) |
 | The Heart of Darkness | 164909 | [164909-the-heart-of-darkness.json](./164909-the-heart-of-darkness.json) |
@@ -5010,6 +5013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Help Desk | 149493 | [149493-the-help-desk.json](./149493-the-help-desk.json) |
 | The Helper | 224643 | [224643-the-helper.json](./224643-the-helper.json) |
 | The Henchmen | 220674 | [220674-the-henchmen.json](./220674-the-henchmen.json) |
+| The Henchmen | 389670 | [389670-the-henchmen.json](./389670-the-henchmen.json) |
 | The Henry Stickmin Collection | 120710 | [120710-the-henry-stickmin-collection.json](./120710-the-henry-stickmin-collection.json) |
 | The Hepatica Spring | 190222 | [190222-the-hepatica-spring.json](./190222-the-hepatica-spring.json) |
 | The Hermit | 111221 | [111221-the-hermit.json](./111221-the-hermit.json) |
@@ -5537,6 +5541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King's Side Castle | 418590 | [418590-the-kings-side-castle.json](./418590-the-kings-side-castle.json) |
 | The Kingdom of Christmas: Santa's Elves | 328474 | [328474-the-kingdom-of-christmas-santas-elves.json](./328474-the-kingdom-of-christmas-santas-elves.json) |
 | The Kingdom of God | 371479 | [371479-the-kingdom-of-god.json](./371479-the-kingdom-of-god.json) |
+| The Kingdoms of Ædloran | 389674 | [389674-the-kingdoms-of-dloran.json](./389674-the-kingdoms-of-dloran.json) |
 | The Kings Crusade: Arabian Nights | 10975 | [10975-the-kings-crusade-arabian-nights.json](./10975-the-kings-crusade-arabian-nights.json) |
 | The Kings Crusade: New Allies | 10976 | [10976-the-kings-crusade-new-allies.json](./10976-the-kings-crusade-new-allies.json) |
 | The Kings Crusade: Teutonic Knights | 10977 | [10977-the-kings-crusade-teutonic-knights.json](./10977-the-kings-crusade-teutonic-knights.json) |
