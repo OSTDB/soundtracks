@@ -824,6 +824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamamon | 380687 | [380687-tamamon.json](./380687-tamamon.json) |
 | Tamara In The Forsaken Dungeon | 276284 | [276284-tamara-in-the-forsaken-dungeon.json](./276284-tamara-in-the-forsaken-dungeon.json) |
 | Tamarak Trail | 240982 | [240982-tamarak-trail.json](./240982-tamarak-trail.json) |
+| Tamarin | 117735 | [117735-tamarin.json](./117735-tamarin.json) |
 | Tamas: Shadowveil | 410963 | [410963-tamas-shadowveil.json](./410963-tamas-shadowveil.json) |
 | Tamashi Party | 196673 | [196673-tamashi-party.json](./196673-tamashi-party.json) |
 | Tamashi: Rise of Yokai | 196586 | [196586-tamashi-rise-of-yokai.json](./196586-tamashi-rise-of-yokai.json) |
@@ -939,6 +940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank it! | 30834 | [30834-tank-it.json](./30834-tank-it.json) |
 | Tank Kingdoms | 238525 | [238525-tank-kingdoms.json](./238525-tank-kingdoms.json) |
 | Tank Legend Online: League of Tanks | 237961 | [237961-tank-legend-online-league-of-tanks.json](./237961-tank-legend-online-league-of-tanks.json) |
+| Tank Maniacs | 117710 | [117710-tank-maniacs.json](./117710-tank-maniacs.json) |
 | Tank Master | 200733 | [200733-tank-master.json](./200733-tank-master.json) |
 | Tank Maze | 293076 | [293076-tank-maze.json](./293076-tank-maze.json) |
 | Tank Mechanic Simulator: Cromwell Mk.IV | 391333 | [391333-tank-mechanic-simulator-cromwell-mk-iv.json](./391333-tank-mechanic-simulator-cromwell-mk-iv.json) |
@@ -2268,6 +2270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetracosm | 151585 | [151585-tetracosm.json](./151585-tetracosm.json) |
 | Tetrageddon | 143484 | [143484-tetrageddon.json](./143484-tetrageddon.json) |
 | Tetrageddon Games | 255016 | [255016-tetrageddon-games.json](./255016-tetrageddon-games.json) |
+| Tetragon | 116590 | [116590-tetragon.json](./116590-tetragon.json) |
 | Tetragun | 183881 | [183881-tetragun.json](./183881-tetragun.json) |
 | TetraLogical | 115531 | [115531-tetralogical.json](./115531-tetralogical.json) |
 | TetraMage | 244712 | [244712-tetramage.json](./244712-tetramage.json) |
@@ -2505,6 +2508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 7th Annual Vanilla Level Design Contest: Collaboration Hack | 228392 | [228392-the-7th-annual-vanilla-level-design-contest-collaboration-hack.json](./228392-the-7th-annual-vanilla-level-design-contest-collaboration-hack.json) |
 | The 7th Circle: Endless Nightmare | 99081 | [99081-the-7th-circle-endless-nightmare.json](./99081-the-7th-circle-endless-nightmare.json) |
 | The 7th Guest VR | 251565 | [251565-the-7th-guest-vr.json](./251565-the-7th-guest-vr.json) |
+| The 7th Guest: 25th Anniversary Edition | 116545 | [116545-the-7th-guest-25th-anniversary-edition.json](./116545-the-7th-guest-25th-anniversary-edition.json) |
 | The 7th Melee: Sonic's Heroes | 330719 | [330719-the-7th-melee-sonics-heroes.json](./330719-the-7th-melee-sonics-heroes.json) |
 | The 7th Shift | 415873 | [415873-the-7th-shift.json](./415873-the-7th-shift.json) |
 | The 7th Sign Project | 201675 | [201675-the-7th-sign-project.json](./201675-the-7th-sign-project.json) |
@@ -5994,6 +5998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Long Drift | 392303 | [392303-the-long-drift.json](./392303-the-long-drift.json) |
 | The Long Drive | 122589 | [122589-the-long-drive.json](./122589-the-long-drive.json) |
 | The Long Gate | 127215 | [127215-the-long-gate.json](./127215-the-long-gate.json) |
+| The Long Return | 117351 | [117351-the-long-return.json](./117351-the-long-return.json) |
 | The Long Run | 136230 | [136230-the-long-run.json](./136230-the-long-run.json) |
 | The Long Sky VR | 132790 | [132790-the-long-sky-vr.json](./132790-the-long-sky-vr.json) |
 | The Long Tale | 342144 | [342144-the-long-tale.json](./342144-the-long-tale.json) |
@@ -7352,6 +7357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret of the Four Winds | 388965 | [388965-the-secret-of-the-four-winds.json](./388965-the-secret-of-the-four-winds.json) |
 | The Secret of Varonis | 244780 | [244780-the-secret-of-varonis.json](./244780-the-secret-of-varonis.json) |
 | The Secret Ops | 232933 | [232933-the-secret-ops.json](./232933-the-secret-ops.json) |
+| The Secret Order 7: Shadow Breach | 115584 | [115584-the-secret-order-7-shadow-breach.json](./115584-the-secret-order-7-shadow-breach.json) |
 | The Secret Order 8: Return to the Buried Kingdom | 127205 | [127205-the-secret-order-8-return-to-the-buried-kingdom.json](./127205-the-secret-order-8-return-to-the-buried-kingdom.json) |
 | The Secret Order Collection | 53780 | [53780-the-secret-order-collection.json](./53780-the-secret-order-collection.json) |
 | The Secret Pyramid | 225184 | [225184-the-secret-pyramid.json](./225184-the-secret-pyramid.json) |
@@ -8786,6 +8792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wizards Arena | 348760 | [348760-the-wizards-arena.json](./348760-the-wizards-arena.json) |
 | The Wizards of Trinity Bellwoods | 58265 | [58265-the-wizards-of-trinity-bellwoods.json](./58265-the-wizards-of-trinity-bellwoods.json) |
 | The Wizards Pet | 108955 | [108955-the-wizards-pet.json](./108955-the-wizards-pet.json) |
+| The Wizards: Enhanced Edition | 116134 | [116134-the-wizards-enhanced-edition.json](./116134-the-wizards-enhanced-edition.json) |
 | The Wolf Among Us 2 | 51523 | [51523-the-wolf-among-us-2.json](./51523-the-wolf-among-us-2.json) |
 | The Wolf Among Us: Episode 1 - Faith | 127107 | [127107-the-wolf-among-us-episode-1-faith.json](./127107-the-wolf-among-us-episode-1-faith.json) |
 | The Wolf Among Us: Episode 2 - Smoke and Mirrors | 127108 | [127108-the-wolf-among-us-episode-2-smoke-and-mirrors.json](./127108-the-wolf-among-us-episode-2-smoke-and-mirrors.json) |
@@ -10818,6 +10825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Combat Arena | 154015 | [154015-tiny-combat-arena.json](./154015-tiny-combat-arena.json) |
 | Tiny Crate | 177568 | [177568-tiny-crate.json](./177568-tiny-crate.json) |
 | Tiny Crown | 401562 | [401562-tiny-crown.json](./401562-tiny-crown.json) |
+| Tiny Dangerous Dungeons | 114972 | [114972-tiny-dangerous-dungeons.json](./114972-tiny-dangerous-dungeons.json) |
 | Tiny Dangerous Dungeons Remake | 333369 | [333369-tiny-dangerous-dungeons-remake.json](./333369-tiny-dangerous-dungeons-remake.json) |
 | Tiny Defender | 149538 | [149538-tiny-defender.json](./149538-tiny-defender.json) |
 | Tiny Defense 2 | 102602 | [102602-tiny-defense-2.json](./102602-tiny-defense-2.json) |
@@ -12319,6 +12327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Madan Zan: Unbelieved Heroes | 206741 | [206741-touhou-madan-zan-unbelieved-heroes.json](./206741-touhou-madan-zan-unbelieved-heroes.json) |
 | Touhou Mahoujou: Book of Star Mythology | 246669 | [246669-touhou-mahoujou-book-of-star-mythology.json](./246669-touhou-mahoujou-book-of-star-mythology.json) |
 | Touhou Maiden | 252171 | [252171-touhou-maiden.json](./252171-touhou-maiden.json) |
+| Touhou Makuka Sai: Fantastic Danmaku Festival | 106400 | [106400-touhou-makuka-sai-fantastic-danmaku-festival.json](./106400-touhou-makuka-sai-fantastic-danmaku-festival.json) |
 | Touhou Makuka Sai: Fantastic Danmaku Festival Part III | 331125 | [331125-touhou-makuka-sai-fantastic-danmaku-festival-part-iii.json](./331125-touhou-makuka-sai-fantastic-danmaku-festival-part-iii.json) |
 | Touhou Mashousei: Fairies of Sorcery | 280178 | [280178-touhou-mashousei-fairies-of-sorcery.json](./280178-touhou-mashousei-fairies-of-sorcery.json) |
 | Touhou Mechanical Scrollery | 130061 | [130061-touhou-mechanical-scrollery.json](./130061-touhou-mechanical-scrollery.json) |
@@ -12658,6 +12667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Township | 19526 | [19526-township.json](./19526-township.json) |
 | Townsmen | 32428 | [32428-townsmen.json](./32428-townsmen.json) |
 | Townsmen Racing | 198367 | [198367-townsmen-racing.json](./198367-townsmen-racing.json) |
+| Townsmen: A Kingdom Rebuilt | 115912 | [115912-townsmen-a-kingdom-rebuilt.json](./115912-townsmen-a-kingdom-rebuilt.json) |
 | Townsmen: A Kingdom Rebuilt - The Seaside Empire | 155067 | [155067-townsmen-a-kingdom-rebuilt-the-seaside-empire.json](./155067-townsmen-a-kingdom-rebuilt-the-seaside-empire.json) |
 | Townville, the Show | 132178 | [132178-townville-the-show.json](./132178-townville-the-show.json) |
 | TowOrbs | 413726 | [413726-toworbs.json](./413726-toworbs.json) |
