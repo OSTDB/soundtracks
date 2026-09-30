@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F.A Cup Football | 93372 | [93372-f-a-cup-football.json](./93372-f-a-cup-football.json) |
 | F.A.C.E.S. | 57163 | [57163-f-a-c-e-s.json](./57163-f-a-c-e-s.json) |
 | F.A.G.E.N. | 413041 | [413041-f-a-g-e-n.json](./413041-f-a-g-e-n.json) |
+| F.A.R.M.S.: Chill Factory | 389684 | [389684-f-a-r-m-s-chill-factory.json](./389684-f-a-r-m-s-chill-factory.json) |
 | F.E.A.R. 3 | 514 | [514-f-e-a-r-3.json](./514-f-e-a-r-3.json) |
 | F.E.A.R. Combat | 77261 | [77261-f-e-a-r-combat.json](./77261-f-e-a-r-combat.json) |
 | F.E.A.R. Extraction Point | 518 | [518-f-e-a-r-extraction-point.json](./518-f-e-a-r-extraction-point.json) |
@@ -2753,6 +2754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Lookout: Abandoned Post | 401664 | [401664-fire-lookout-abandoned-post.json](./401664-fire-lookout-abandoned-post.json) |
 | Fire Man | 247018 | [247018-fire-man.json](./247018-fire-man.json) |
 | Fire Opal | 153875 | [153875-fire-opal.json](./153875-fire-opal.json) |
+| Fire Pit: Throw Things Into the Fire | 389688 | [389688-fire-pit-throw-things-into-the-fire.json](./389688-fire-pit-throw-things-into-the-fire.json) |
 | Fire Power | 110821 | [110821-fire-power.json](./110821-fire-power.json) |
 | Fire Pro Joshi: All Star Dream Slam | 42614 | [42614-fire-pro-joshi-all-star-dream-slam.json](./42614-fire-pro-joshi-all-star-dream-slam.json) |
 | Fire Pro Wrestling Gaiden | 45534 | [45534-fire-pro-wrestling-gaiden.json](./45534-fire-pro-wrestling-gaiden.json) |
@@ -3378,6 +3380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flanker 2.5 | 709 | [709-flanker-2-5.json](./709-flanker-2-5.json) |
 | Flap Demon | 158646 | [158646-flap-demon.json](./158646-flap-demon.json) |
 | Flap Happy | 307102 | [307102-flap-happy.json](./307102-flap-happy.json) |
+| FlapDeath | 389672 | [389672-flapdeath.json](./389672-flapdeath.json) |
 | FlapOTron | 58760 | [58760-flapotron.json](./58760-flapotron.json) |
 | Flappatron: Episode 2 (Chapters 4-7) | 168847 | [168847-flappatron-episode-2-chapters-4-7.json](./168847-flappatron-episode-2-chapters-4-7.json) |
 | Flappatron: Episode 3 (Chapters 8 - 10) | 168846 | [168846-flappatron-episode-3-chapters-8-10.json](./168846-flappatron-episode-3-chapters-8-10.json) |
@@ -5968,6 +5971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Switch | 265599 | [265599-fruit-switch.json](./265599-fruit-switch.json) |
 | Fruit Thieves | 183548 | [183548-fruit-thieves.json](./183548-fruit-thieves.json) |
 | Fruit Warrior AR | 241047 | [241047-fruit-warrior-ar.json](./241047-fruit-warrior-ar.json) |
+| Fruitbearer | 389696 | [389696-fruitbearer.json](./389696-fruitbearer.json) |
 | Fruitimo! | 352216 | [352216-fruitimo.json](./352216-fruitimo.json) |
 | Fruitio | 294288 | [294288-fruitio.json](./294288-fruitio.json) |
 | Fruits | 314413 | [314413-fruits.json](./314413-fruits.json) |
