@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives+: Moe Pro - Moero!! Pro Yakyuu | 260682 | [260682-g-mode-archives-moe-pro-moero-pro-yakyuu.json](./260682-g-mode-archives-moe-pro-moero-pro-yakyuu.json) |
 | G-Mode Archives+: Momoko no Kasei Bowling - La Mars Cup | 266172 | [266172-g-mode-archives-momoko-no-kasei-bowling-la-mars-cup.json](./266172-g-mode-archives-momoko-no-kasei-bowling-la-mars-cup.json) |
 | G-Mode Archives+: Monstre Waltz | 388382 | [388382-g-mode-archives-monstre-waltz.json](./388382-g-mode-archives-monstre-waltz.json) |
+| G-Mode Archives+: Ridge Racer | 416050 | [416050-g-mode-archives-ridge-racer.json](./416050-g-mode-archives-ridge-racer.json) |
 | G-Mode Archives+: Saiko Mystery Series Vol.3 - Sin | 260681 | [260681-g-mode-archives-saiko-mystery-series-vol-3-sin.json](./260681-g-mode-archives-saiko-mystery-series-vol-3-sin.json) |
 | G-Mode Archives+: Saiko Mystery Series Vol.5 - Cold Rain | 276453 | [276453-g-mode-archives-saiko-mystery-series-vol-5-cold-rain.json](./276453-g-mode-archives-saiko-mystery-series-vol-5-cold-rain.json) |
 | G-Mode Archives+: Stella Deus - The Spirit of Darkness | 374605 | [374605-g-mode-archives-stella-deus-the-spirit-of-darkness.json](./374605-g-mode-archives-stella-deus-the-spirit-of-darkness.json) |
@@ -1188,6 +1189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Mining | 223944 | [223944-gem-mining.json](./223944-gem-mining.json) |
 | Gem Monster | 30261 | [30261-gem-monster.json](./30261-gem-monster.json) |
 | Gem of Destiny | 304157 | [304157-gem-of-destiny.json](./304157-gem-of-destiny.json) |
+| Gem Party | 416027 | [416027-gem-party.json](./416027-gem-party.json) |
 | Gem Phrase | 237379 | [237379-gem-phrase.json](./237379-gem-phrase.json) |
 | Gem Quest: Rush | 416643 | [416643-gem-quest-rush.json](./416643-gem-quest-rush.json) |
 | Gem Rifts | 188498 | [188498-gem-rifts.json](./188498-gem-rifts.json) |
@@ -1698,6 +1700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Blade | 23442 | [23442-ghost-blade.json](./23442-ghost-blade.json) |
 | Ghost Blood | 391320 | [391320-ghost-blood.json](./391320-ghost-blood.json) |
 | Ghost Bros | 224236 | [224236-ghost-bros.json](./224236-ghost-bros.json) |
+| Ghost Case | 415228 | [415228-ghost-case.json](./415228-ghost-case.json) |
 | Ghost Castle | 192821 | [192821-ghost-castle.json](./192821-ghost-castle.json) |
 | Ghost Castle: Gengar's Love Quest | 357418 | [357418-ghost-castle-gengars-love-quest.json](./357418-ghost-castle-gengars-love-quest.json) |
 | Ghost Catchers | 272294 | [272294-ghost-catchers.json](./272294-ghost-catchers.json) |
@@ -1996,6 +1999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ginger: The Tooth Fairy | 209134 | [209134-ginger-the-tooth-fairy.json](./209134-ginger-the-tooth-fairy.json) |
 | Ginger's Letter to Santa | 326745 | [326745-gingers-letter-to-santa.json](./326745-gingers-letter-to-santa.json) |
 | Gingerbread Holiday | 373006 | [373006-gingerbread-holiday.json](./373006-gingerbread-holiday.json) |
+| Giniro no Tou | 416051 | [416051-giniro-no-tou.json](./416051-giniro-no-tou.json) |
 | Ginkgo | 144975 | [144975-ginkgo.json](./144975-ginkgo.json) |
 | Ginnung | 224238 | [224238-ginnung.json](./224238-ginnung.json) |
 | Ginsei Igo 2: Next Generation | 194456 | [194456-ginsei-igo-2-next-generation.json](./194456-ginsei-igo-2-next-generation.json) |
@@ -2483,6 +2487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Long! | 136444 | [136444-go-long.json](./136444-go-long.json) |
 | Go Mecha Ball | 253102 | [253102-go-mecha-ball.json](./253102-go-mecha-ball.json) |
 | Go Mission: Space Travel | 21632 | [21632-go-mission-space-travel.json](./21632-go-mission-space-travel.json) |
+| Go Next! | 415995 | [415995-go-next.json](./415995-go-next.json) |
 | Go Noodle | 275687 | [275687-go-noodle.json](./275687-go-noodle.json) |
 | Go Nutz | 217271 | [217271-go-nutz.json](./217271-go-nutz.json) |
 | Go Outside Simulator | 111491 | [111491-go-outside-simulator.json](./111491-go-outside-simulator.json) |
@@ -2567,6 +2572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat!Goat! | 242481 | [242481-goat-goat.json](./242481-goat-goat.json) |
 | Goat's Tale 2: Plus | 236770 | [236770-goats-tale-2-plus.json](./236770-goats-tale-2-plus.json) |
 | Goats on a Bridge | 10367 | [10367-goats-on-a-bridge.json](./10367-goats-on-a-bridge.json) |
+| Gob | 415231 | [415231-gob.json](./415231-gob.json) |
 | Gob Johnson's Downhill Marmalade | 333169 | [333169-gob-johnsons-downhill-marmalade.json](./333169-gob-johnsons-downhill-marmalade.json) |
 | Gob! | 257447 | [257447-gob.json](./257447-gob.json) |
 | Goban | 95567 | [95567-goban.json](./95567-goban.json) |
@@ -4170,6 +4176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GridWars | 92989 | [92989-gridwars.json](./92989-gridwars.json) |
 | Gridworld | 34617 | [34617-gridworld.json](./34617-gridworld.json) |
 | Gridz | 229815 | [229815-gridz.json](./229815-gridz.json) |
+| Grief | 415253 | [415253-grief.json](./415253-grief.json) |
 | Grief Like a Stray Dog | 195531 | [195531-grief-like-a-stray-dog.json](./195531-grief-like-a-stray-dog.json) |
 | Grief Trigger | 236514 | [236514-grief-trigger.json](./236514-grief-trigger.json) |
 | Grief: How to say goodbye | 182851 | [182851-grief-how-to-say-goodbye.json](./182851-grief-how-to-say-goodbye.json) |
