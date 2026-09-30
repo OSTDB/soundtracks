@@ -718,6 +718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballistic | 29767 | [29767-ballistic.json](./29767-ballistic.json) |
 | Ballistic | 80488 | [80488-ballistic.json](./80488-ballistic.json) |
 | Ballistic Brews | 415866 | [415866-ballistic-brews.json](./415866-ballistic-brews.json) |
+| Ballistic Mini Golf | 74117 | [74117-ballistic-mini-golf.json](./74117-ballistic-mini-golf.json) |
 | Ballistic Overkill | 17320 | [17320-ballistic-overkill.json](./17320-ballistic-overkill.json) |
 | Ballistic Tanks | 32327 | [32327-ballistic-tanks.json](./32327-ballistic-tanks.json) |
 | Ballistic: The story of Marble and the Energy Core | 240738 | [240738-ballistic-the-story-of-marble-and-the-energy-core.json](./240738-ballistic-the-story-of-marble-and-the-energy-core.json) |
@@ -1344,6 +1345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bart Bird | 26935 | [26935-bart-bird.json](./26935-bart-bird.json) |
 | Bart's Nightmare Redux | 219272 | [219272-barts-nightmare-redux.json](./219272-barts-nightmare-redux.json) |
 | Bartender Hustle | 153899 | [153899-bartender-hustle.json](./153899-bartender-hustle.json) |
+| Bartender VR Simulator | 74216 | [74216-bartender-vr-simulator.json](./74216-bartender-vr-simulator.json) |
 | Bartenders | 244205 | [244205-bartenders.json](./244205-bartenders.json) |
 | Bartholomew.exe | 358899 | [358899-bartholomew-exe.json](./358899-bartholomew-exe.json) |
 | Bartlow's Dread Machine | 128934 | [128934-bartlows-dread-machine.json](./128934-bartlows-dread-machine.json) |
@@ -3494,6 +3496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Racer 2018 | 105866 | [105866-bike-racer-2018.json](./105866-bike-racer-2018.json) |
 | Bike Racing | 91109 | [91109-bike-racing.json](./91109-bike-racing.json) |
 | Bike Rush | 227508 | [227508-bike-rush.json](./227508-bike-rush.json) |
+| Bike Rush | 73170 | [73170-bike-rush.json](./73170-bike-rush.json) |
 | Bike Stunt Master | 105960 | [105960-bike-stunt-master.json](./105960-bike-stunt-master.json) |
 | Bike Trials Offroad 2 | 255035 | [255035-bike-trials-offroad-2.json](./255035-bike-trials-offroad-2.json) |
 | Bike Unchained | 255737 | [255737-bike-unchained.json](./255737-bike-unchained.json) |
@@ -4415,6 +4418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Judgment | 324328 | [324328-blast-judgment.json](./324328-blast-judgment.json) |
 | Blast Killer | 338280 | [338280-blast-killer.json](./338280-blast-killer.json) |
 | Blast Lacrosse | 44876 | [44876-blast-lacrosse.json](./44876-blast-lacrosse.json) |
+| Blast Lander | 74125 | [74125-blast-lander.json](./74125-blast-lander.json) |
 | Blast Linkers | 399616 | [399616-blast-linkers.json](./399616-blast-linkers.json) |
 | Blast Motors | 235298 | [235298-blast-motors.json](./235298-blast-motors.json) |
 | Blast Off | 136855 | [136855-blast-off.json](./136855-blast-off.json) |
@@ -6497,6 +6501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boy and the Seagull | 197649 | [197649-boy-and-the-seagull.json](./197649-boy-and-the-seagull.json) |
 | Boy Beats World | 127337 | [127337-boy-beats-world.json](./127337-boy-beats-world.json) |
 | Boy Goes to Space | 128584 | [128584-boy-goes-to-space.json](./128584-boy-goes-to-space.json) |
+| Boy Next Door | 74120 | [74120-boy-next-door.json](./74120-boy-next-door.json) |
 | Boy vs. Genius | 119014 | [119014-boy-vs-genius.json](./119014-boy-vs-genius.json) |
 | Boy's Love | 101358 | [101358-boys-love.json](./101358-boys-love.json) |
 | Boyfriend Dungeon: Secret Weapons | 228681 | [228681-boyfriend-dungeon-secret-weapons.json](./228681-boyfriend-dungeon-secret-weapons.json) |
@@ -6654,6 +6659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brasil Simuleitor | 244371 | [244371-brasil-simuleitor.json](./244371-brasil-simuleitor.json) |
 | Brasília Defense | 404817 | [404817-brasilia-defense.json](./404817-brasilia-defense.json) |
 | Brass | 302431 | [302431-brass.json](./302431-brass.json) |
+| Brass | 68443 | [68443-brass.json](./68443-brass.json) |
 | Brass & Bramble | 371467 | [371467-brass-and-bramble.json](./371467-brass-and-bramble.json) |
 | Brass Lament | 343277 | [343277-brass-lament.json](./343277-brass-lament.json) |
 | Brass Necessity | 292324 | [292324-brass-necessity.json](./292324-brass-necessity.json) |
