@@ -385,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Bots Rises | 27758 | [27758-bad-bots-rises.json](./27758-bad-bots-rises.json) |
 | Bad Boy Brother | 376758 | [376758-bad-boy-brother.json](./376758-bad-boy-brother.json) |
 | Bad Business | 118304 | [118304-bad-business.json](./118304-bad-business.json) |
+| Bad Bytes | 391826 | [391826-bad-bytes.json](./391826-bad-bytes.json) |
 | Bad Cat | 12398 | [12398-bad-cat.json](./12398-bad-cat.json) |
 | Bad Caterpillar | 33411 | [33411-bad-caterpillar.json](./33411-bad-caterpillar.json) |
 | Bad Cheese | 320146 | [320146-bad-cheese.json](./320146-bad-cheese.json) |
@@ -1791,6 +1792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle for the Board | 259091 | [259091-battle-for-the-board.json](./259091-battle-for-the-board.json) |
 | Battle for the Kingdom | 156631 | [156631-battle-for-the-kingdom.json](./156631-battle-for-the-kingdom.json) |
 | Battle for the Mountain Throne | 98456 | [98456-battle-for-the-mountain-throne.json](./98456-battle-for-the-mountain-throne.json) |
+| Battle for the Raise | 391817 | [391817-battle-for-the-raise.json](./391817-battle-for-the-raise.json) |
 | Battle for the Sun | 24338 | [24338-battle-for-the-sun.json](./24338-battle-for-the-sun.json) |
 | Battle for the Void | 248901 | [248901-battle-for-the-void.json](./248901-battle-for-the-void.json) |
 | Battle for Wesnoth HD | 94778 | [94778-battle-for-wesnoth-hd.json](./94778-battle-for-wesnoth-hd.json) |
@@ -6477,6 +6479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling | 291999 | [291999-bowling.json](./291999-bowling.json) |
 | Bowling | 300414 | [300414-bowling.json](./300414-bowling.json) |
 | Bowling | 317634 | [317634-bowling.json](./317634-bowling.json) |
+| Bowling 2000 | 391790 | [391790-bowling-2000.json](./391790-bowling-2000.json) |
 | Bowling 3D | 42776 | [42776-bowling-3d.json](./42776-bowling-3d.json) |
 | Bowling 3D Extreme | 89226 | [89226-bowling-3d-extreme.json](./89226-bowling-3d-extreme.json) |
 | Bowling Alley | 230840 | [230840-bowling-alley.json](./230840-bowling-alley.json) |
@@ -7332,6 +7335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Ecchi Gallery | 280748 | [280748-broken-ecchi-gallery.json](./280748-broken-ecchi-gallery.json) |
 | Broken Fields: Stay or Run? | 420676 | [420676-broken-fields-stay-or-run.json](./420676-broken-fields-stay-or-run.json) |
 | Broken God Awakening | 216791 | [216791-broken-god-awakening.json](./216791-broken-god-awakening.json) |
+| Broken Hearts | 391793 | [391793-broken-hearts.json](./391793-broken-hearts.json) |
 | Broken Hearts Club: Blue Bird Blues | 120844 | [120844-broken-hearts-club-blue-bird-blues.json](./120844-broken-hearts-club-blue-bird-blues.json) |
 | Broken Hearts Island | 258990 | [258990-broken-hearts-island.json](./258990-broken-hearts-island.json) |
 | Broken Hearts: A Soldier's Duty | 206685 | [206685-broken-hearts-a-soldiers-duty.json](./206685-broken-hearts-a-soldiers-duty.json) |
@@ -7755,6 +7759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Too! | 45524 | [45524-bug-too.json](./45524-bug-too.json) |
 | Bug Village | 94203 | [94203-bug-village.json](./94203-bug-village.json) |
 | Bug-o-Buster | 322985 | [322985-bug-o-buster.json](./322985-bug-o-buster.json) |
+| BugAboo | 391796 | [391796-bugaboo.json](./391796-bugaboo.json) |
 | Bugaboo Pocket | 198221 | [198221-bugaboo-pocket.json](./198221-bugaboo-pocket.json) |
 | BuGarden | 392302 | [392302-bugarden.json](./392302-bugarden.json) |
 | Bugatron | 69332 | [69332-bugatron.json](./69332-bugatron.json) |
@@ -8350,6 +8355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Busy Bea's Halftime Hustle | 349295 | [349295-busy-beas-halftime-hustle.json](./349295-busy-beas-halftime-hustle.json) |
 | Busy Scissors | 50594 | [50594-busy-scissors.json](./50594-busy-scissors.json) |
 | But That Was [Yesterday] | 203353 | [203353-but-that-was-yesterday.json](./203353-but-that-was-yesterday.json) |
+| But Why? | 391821 | [391821-but-why.json](./391821-but-why.json) |
 | But You Seem Fine | 120267 | [120267-but-you-seem-fine.json](./120267-but-you-seem-fine.json) |
 | Buta | 204413 | [204413-buta.json](./204413-buta.json) |
 | Buta Hime-sama | 82971 | [82971-buta-hime-sama.json](./82971-buta-hime-sama.json) |
