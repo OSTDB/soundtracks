@@ -1935,6 +1935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellescape | 392459 | [392459-hellescape.json](./392459-hellescape.json) |
 | HellEscape | 215349 | [215349-hellescape.json](./215349-hellescape.json) |
 | Hellevator | 150120 | [150120-hellevator.json](./150120-hellevator.json) |
+| Hellevator | 417429 | [417429-hellevator.json](./417429-hellevator.json) |
 | Hellevators | 286035 | [286035-hellevators.json](./286035-hellevators.json) |
 | Hellfighter | 92458 | [92458-hellfighter.json](./92458-hellfighter.json) |
 | Hellfire | 319022 | [319022-hellfire.json](./319022-hellfire.json) |
@@ -4421,6 +4422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hooked On Speed | 316604 | [316604-hooked-on-speed.json](./316604-hooked-on-speed.json) |
 | Hooked on You: A Dead by Daylight Dating Sim | 202141 | [202141-hooked-on-you-a-dead-by-daylight-dating-sim.json](./202141-hooked-on-you-a-dead-by-daylight-dating-sim.json) |
 | Hooked! Again: Real Motion Fishing | 50627 | [50627-hooked-again-real-motion-fishing.json](./50627-hooked-again-real-motion-fishing.json) |
+| Hookeye | 417465 | [417465-hookeye.json](./417465-hookeye.json) |
 | Hooking Season | 211192 | [211192-hooking-season.json](./211192-hooking-season.json) |
 | Hooligan Crusoe | 283841 | [283841-hooligan-crusoe.json](./283841-hooligan-crusoe.json) |
 | Hooligan Simulator 2023: You vs. System | 277917 | [277917-hooligan-simulator-2023-you-vs-system.json](./277917-hooligan-simulator-2023-you-vs-system.json) |
@@ -4439,6 +4441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoop Smash | 116418 | [116418-hoop-smash.json](./116418-hoop-smash.json) |
 | Hooplord | 132611 | [132611-hooplord.json](./132611-hooplord.json) |
 | Hoops Madness | 140354 | [140354-hoops-madness.json](./140354-hoops-madness.json) |
+| Hoops Mania | 417382 | [417382-hoops-mania.json](./417382-hoops-mania.json) |
 | Hoops: Shut Up and Jam | 245294 | [245294-hoops-shut-up-and-jam.json](./245294-hoops-shut-up-and-jam.json) |
 | Hoops: Shut Up and Jam 2 | 245293 | [245293-hoops-shut-up-and-jam-2.json](./245293-hoops-shut-up-and-jam-2.json) |
 | Hooray for Maths | 318034 | [318034-hooray-for-maths.json](./318034-hooray-for-maths.json) |
@@ -4950,6 +4953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Houkago no Senpai | 127961 | [127961-houkago-no-senpai.json](./127961-houkago-no-senpai.json) |
 | Houkago Shounen | 109060 | [109060-houkago-shounen.json](./109060-houkago-shounen.json) |
 | Houkago wa Gin no Shirabe | 218475 | [218475-houkago-wa-gin-no-shirabe.json](./218475-houkago-wa-gin-no-shirabe.json) |
+| Houm | 417430 | [417430-houm.json](./417430-houm.json) |
 | Houma Hunter Lime | 117027 | [117027-houma-hunter-lime.json](./117027-houma-hunter-lime.json) |
 | Houma Hunter Lime Dai 02 Wa | 117028 | [117028-houma-hunter-lime-dai-02-wa.json](./117028-houma-hunter-lime-dai-02-wa.json) |
 | Houma Hunter Lime Dai 03 Wa | 117029 | [117029-houma-hunter-lime-dai-03-wa.json](./117029-houma-hunter-lime-dai-03-wa.json) |
