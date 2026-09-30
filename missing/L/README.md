@@ -1071,6 +1071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left Alive: Mech Edition | 111022 | [111022-left-alive-mech-edition.json](./111022-left-alive-mech-edition.json) |
 | Left at Home | 241488 | [241488-left-at-home.json](./241488-left-at-home.json) |
 | Left Behind: Eternal Forces | 20614 | [20614-left-behind-eternal-forces.json](./20614-left-behind-eternal-forces.json) |
+| Left Brain Right Brain | 20771 | [20771-left-brain-right-brain.json](./20771-left-brain-right-brain.json) |
 | Left Drift Right Shift Orbit | 108640 | [108640-left-drift-right-shift-orbit.json](./108640-left-drift-right-shift-orbit.json) |
 | Left in the Dark: No One on Board | 17144 | [17144-left-in-the-dark-no-one-on-board.json](./17144-left-in-the-dark-no-one-on-board.json) |
 | Left on Read | 137527 | [137527-left-on-read.json](./137527-left-on-read.json) |
@@ -1333,6 +1334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Tzonac: The Great Dungeon Escape | 229611 | [229611-legends-of-tzonac-the-great-dungeon-escape.json](./229611-legends-of-tzonac-the-great-dungeon-escape.json) |
 | Legends of Valour | 12903 | [12903-legends-of-valour.json](./12903-legends-of-valour.json) |
 | Legends of War | 20014 | [20014-legends-of-war.json](./20014-legends-of-war.json) |
+| Legends of War: Patton | 20015 | [20015-legends-of-war-patton.json](./20015-legends-of-war-patton.json) |
 | Legends of Wrestling | 3974 | [3974-legends-of-wrestling.json](./3974-legends-of-wrestling.json) |
 | Legends of Zork | 69302 | [69302-legends-of-zork.json](./69302-legends-of-zork.json) |
 | Legends Scrolls | 247215 | [247215-legends-scrolls.json](./247215-legends-scrolls.json) |
