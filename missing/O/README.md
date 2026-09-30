@@ -2159,6 +2159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otiiz's adventure - Sushi Champ | 113178 | [113178-otiizs-adventure-sushi-champ.json](./113178-otiizs-adventure-sushi-champ.json) |
 | Otis | 64428 | [64428-otis.json](./64428-otis.json) |
 | Otisdub Tag Plus | 417651 | [417651-otisdub-tag-plus.json](./417651-otisdub-tag-plus.json) |
+| Otoca D'or | 395764 | [395764-otoca-dor.json](./395764-otoca-dor.json) |
 | Otogi: Myth of Demons | 5975 | [5975-otogi-myth-of-demons.json](./5975-otogi-myth-of-demons.json) |
 | Otogi: Spirit Agents | 28122 | [28122-otogi-spirit-agents.json](./28122-otogi-spirit-agents.json) |
 | Otokiyome | 241380 | [241380-otokiyome.json](./241380-otokiyome.json) |
