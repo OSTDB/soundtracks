@@ -2654,6 +2654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Separium: 12th Elevator | 336541 | [336541-separium-12th-elevator.json](./336541-separium-12th-elevator.json) |
 | Sephiria | 278379 | [278379-sephiria.json](./278379-sephiria.json) |
 | Sepium | 390240 | [390240-sepium.json](./390240-sepium.json) |
+| Septar | 408236 | [408236-septar.json](./408236-septar.json) |
 | Septem: The Preparation | 384639 | [384639-septem-the-preparation.json](./384639-septem-the-preparation.json) |
 | September 1999 | 110468 | [110468-september-1999.json](./110468-september-1999.json) |
 | September 7th | 230769 | [230769-september-7th.json](./230769-september-7th.json) |
@@ -4822,6 +4823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Depth 2: Pacific | 272932 | [272932-silent-depth-2-pacific.json](./272932-silent-depth-2-pacific.json) |
 | Silent Doom | 115176 | [115176-silent-doom.json](./115176-silent-doom.json) |
 | Silent Dragon US | 39850 | [39850-silent-dragon-us.json](./39850-silent-dragon-us.json) |
+| Silent Dread: Last Order | 408116 | [408116-silent-dread-last-order.json](./408116-silent-dread-last-order.json) |
 | Silent Escape: Induction | 127945 | [127945-silent-escape-induction.json](./127945-silent-escape-induction.json) |
 | Silent Fangs: Stealthy Vampire's Tale | 371264 | [371264-silent-fangs-stealthy-vampires-tale.json](./371264-silent-fangs-stealthy-vampires-tale.json) |
 | Silent Frontiers | 304606 | [304606-silent-frontiers.json](./304606-silent-frontiers.json) |
@@ -5758,6 +5760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skunny: Save Our Pizzas! | 73839 | [73839-skunny-save-our-pizzas.json](./73839-skunny-save-our-pizzas.json) |
 | Skunny: Special Edition | 46732 | [46732-skunny-special-edition.json](./46732-skunny-special-edition.json) |
 | Skunny's Desert Raid | 71045 | [71045-skunnys-desert-raid.json](./71045-skunnys-desert-raid.json) |
+| Sky 2120 | 408216 | [408216-sky-2120.json](./408216-sky-2120.json) |
 | Sky Aces | 343990 | [343990-sky-aces.json](./343990-sky-aces.json) |
 | Sky Aces | 54365 | [54365-sky-aces.json](./54365-sky-aces.json) |
 | Sky Aces 2 | 295937 | [295937-sky-aces-2.json](./295937-sky-aces-2.json) |
@@ -8426,6 +8429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sono Hanabira ni Kuchizuke wo: Tenshi-tachi no Harukoi | 12272 | [12272-sono-hanabira-ni-kuchizuke-wo-tenshi-tachi-no-harukoi.json](./12272-sono-hanabira-ni-kuchizuke-wo-tenshi-tachi-no-harukoi.json) |
 | Sono Hanabira: YuriCycle | 251697 | [251697-sono-hanabira-yuricycle.json](./251697-sono-hanabira-yuricycle.json) |
 | Sono Kaori de Mitasaretai: #7b5544 no Koi wo Shita Watashi no Hajimete wo Master ni Agetai | 412315 | [412315-sono-kaori-de-mitasaretai-7b5544-no-koi-wo-shita-watashi-no-hajimete-wo-master-ni-agetai.json](./412315-sono-kaori-de-mitasaretai-7b5544-no-koi-wo-shita-watashi-no-hajimete-wo-master-ni-agetai.json) |
+| Sonoklo | 408212 | [408212-sonoklo.json](./408212-sonoklo.json) |
 | Sonority | 137045 | [137045-sonority.json](./137045-sonority.json) |
 | SONpc | 330874 | [330874-sonpc.json](./330874-sonpc.json) |
 | Sons of Eye Championship | 132006 | [132006-sons-of-eye-championship.json](./132006-sons-of-eye-championship.json) |
@@ -11106,6 +11110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Evil | 243936 | [243936-star-evil.json](./243936-star-evil.json) |
 | Star Exodus | 217306 | [217306-star-exodus.json](./217306-star-exodus.json) |
 | Star Fiction | 348276 | [348276-star-fiction.json](./348276-star-fiction.json) |
+| Star Fire | 408210 | [408210-star-fire.json](./408210-star-fire.json) |
 | Star Fire: Eternal Cycle | 316656 | [316656-star-fire-eternal-cycle.json](./316656-star-fire-eternal-cycle.json) |
 | Star Firebirds | 30215 | [30215-star-firebirds.json](./30215-star-firebirds.json) |
 | Star Fleet I: The War Begins! | 25939 | [25939-star-fleet-i-the-war-begins.json](./25939-star-fleet-i-the-war-begins.json) |
@@ -12032,6 +12037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stealth Horror: Grand Daddy | 97098 | [97098-stealth-horror-grand-daddy.json](./97098-stealth-horror-grand-daddy.json) |
 | Stealth Inc: A Clone in the Dark - Ultimate Edition | 52872 | [52872-stealth-inc-a-clone-in-the-dark-ultimate-edition.json](./52872-stealth-inc-a-clone-in-the-dark-ultimate-edition.json) |
 | Stealth Inc. 2: A Game of Clones Deluxe | 51893 | [51893-stealth-inc-2-a-game-of-clones-deluxe.json](./51893-stealth-inc-2-a-game-of-clones-deluxe.json) |
+| Stealth Init | 408240 | [408240-stealth-init.json](./408240-stealth-init.json) |
 | Stealth Operative Syn: Virtual Training | 406221 | [406221-stealth-operative-syn-virtual-training.json](./406221-stealth-operative-syn-virtual-training.json) |
 | Stealth Prankster | 180126 | [180126-stealth-prankster.json](./180126-stealth-prankster.json) |
 | Stealth Raider | 399006 | [399006-stealth-raider.json](./399006-stealth-raider.json) |
@@ -12167,6 +12173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Salvo | 145545 | [145545-steel-salvo.json](./145545-steel-salvo.json) |
 | Steel Sand Mars Chronicles: Survival Simulator | 294834 | [294834-steel-sand-mars-chronicles-survival-simulator.json](./294834-steel-sand-mars-chronicles-survival-simulator.json) |
 | Steel Seraph | 117167 | [117167-steel-seraph.json](./117167-steel-seraph.json) |
+| Steel Seraphim: Proving Grounds | 408225 | [408225-steel-seraphim-proving-grounds.json](./408225-steel-seraphim-proving-grounds.json) |
 | Steel Shell | 192809 | [192809-steel-shell.json](./192809-steel-shell.json) |
 | Steel Skirmish: Reloaded | 379347 | [379347-steel-skirmish-reloaded.json](./379347-steel-skirmish-reloaded.json) |
 | Steel Soul | 294133 | [294133-steel-soul.json](./294133-steel-soul.json) |
@@ -16084,6 +16091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sven-Göran Eriksson's World Manager | 136991 | [136991-sven-goran-erikssons-world-manager.json](./136991-sven-goran-erikssons-world-manager.json) |
 | Sven: Completely Screwed | 247619 | [247619-sven-completely-screwed.json](./247619-sven-completely-screwed.json) |
 | Sverigespelet | 300684 | [300684-sverigespelet.json](./300684-sverigespelet.json) |
+| Sveta Sky AI | 408200 | [408200-sveta-sky-ai.json](./408200-sveta-sky-ai.json) |
 | SVETIK | 394507 | [394507-svetik.json](./394507-svetik.json) |
 | SVG-001 Puzzle | 312687 | [312687-svg-001-puzzle.json](./312687-svg-001-puzzle.json) |
 | Svrvive: The Deus Helix | 26121 | [26121-svrvive-the-deus-helix.json](./26121-svrvive-the-deus-helix.json) |
