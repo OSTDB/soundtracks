@@ -1373,6 +1373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Cribbage | 73223 | [73223-king-cribbage.json](./73223-king-cribbage.json) |
 | King Datchi | 244890 | [244890-king-datchi.json](./244890-king-datchi.json) |
 | King Erik | 112725 | [112725-king-erik.json](./112725-king-erik.json) |
+| King Exit | 63715 | [63715-king-exit.json](./63715-king-exit.json) |
 | King Flappy | 97460 | [97460-king-flappy.json](./97460-king-flappy.json) |
 | King God Domain | 159726 | [159726-king-god-domain.json](./159726-king-god-domain.json) |
 | King Hajwala | 153867 | [153867-king-hajwala.json](./153867-king-hajwala.json) |
