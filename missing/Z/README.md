@@ -1065,6 +1065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zuma's Revenge! | 8322 | [8322-zumas-revenge.json](./8322-zumas-revenge.json) |
 | Zumania: Magic Casual Puzzle | 175813 | [175813-zumania-magic-casual-puzzle.json](./175813-zumania-magic-casual-puzzle.json) |
 | Zumba Fitness 2 | 5306 | [5306-zumba-fitness-2.json](./5306-zumba-fitness-2.json) |
+| Zumba Fitness Rush | 47389 | [47389-zumba-fitness-rush.json](./47389-zumba-fitness-rush.json) |
 | Zumba Kids | 5309 | [5309-zumba-kids.json](./5309-zumba-kids.json) |
 | Zumba World: The Crazy Marble Dimension | 389076 | [389076-zumba-world-the-crazy-marble-dimension.json](./389076-zumba-world-the-crazy-marble-dimension.json) |
 | Zumba: Dragon's Marble Trial | 381714 | [381714-zumba-dragons-marble-trial.json](./381714-zumba-dragons-marble-trial.json) |
