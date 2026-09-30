@@ -5202,6 +5202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milaneseria | 365300 | [365300-milaneseria.json](./365300-milaneseria.json) |
 | Milano no Arbeit Collection | 64930 | [64930-milano-no-arbeit-collection.json](./64930-milano-no-arbeit-collection.json) |
 | Milanoir | 37852 | [37852-milanoir.json](./37852-milanoir.json) |
+| Milanoir: Special Edition | 28358 | [28358-milanoir-special-edition.json](./28358-milanoir-special-edition.json) |
 | Mile 27 | 413767 | [413767-mile-27.json](./413767-mile-27.json) |
 | Mile Bones | 83480 | [83480-mile-bones.json](./83480-mile-bones.json) |
 | Mile High Taxi | 217387 | [217387-mile-high-taxi.json](./217387-mile-high-taxi.json) |
@@ -7644,6 +7645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moria | 77304 | [77304-moria.json](./77304-moria.json) |
 | MoriArashi | 205235 | [205235-moriarashi.json](./205235-moriarashi.json) |
 | Moriarty: Endgame VR | 29069 | [29069-moriarty-endgame-vr.json](./29069-moriarty-endgame-vr.json) |
+| Moribund | 27882 | [27882-moribund.json](./27882-moribund.json) |
 | Moribunderland | 183964 | [183964-moribunderland.json](./183964-moribunderland.json) |
 | Morikomori Life | 262977 | [262977-morikomori-life.json](./262977-morikomori-life.json) |
 | Morita Kazuo no Shogi | 48817 | [48817-morita-kazuo-no-shogi.json](./48817-morita-kazuo-no-shogi.json) |
