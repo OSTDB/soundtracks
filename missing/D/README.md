@@ -605,6 +605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark and Light Mobile | 227497 | [227497-dark-and-light-mobile.json](./227497-dark-and-light-mobile.json) |
 | Dark and Light: Tales of Gaia | 51999 | [51999-dark-and-light-tales-of-gaia.json](./51999-dark-and-light-tales-of-gaia.json) |
 | Dark Angael | 206964 | [206964-dark-angael.json](./206964-dark-angael.json) |
+| Dark Angels: Masquerade of Shadows | 30383 | [30383-dark-angels-masquerade-of-shadows.json](./30383-dark-angels-masquerade-of-shadows.json) |
 | Dark Arcana: The Carnival | 10137 | [10137-dark-arcana-the-carnival.json](./10137-dark-arcana-the-carnival.json) |
 | Dark Arena | 6367 | [6367-dark-arena.json](./6367-dark-arena.json) |
 | Dark Army Resurrection | 250328 | [250328-dark-army-resurrection.json](./250328-dark-army-resurrection.json) |
@@ -7192,6 +7193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream.exe: A Markiplier Fan Game | 159180 | [159180-dream-exe-a-markiplier-fan-game.json](./159180-dream-exe-a-markiplier-fan-game.json) |
 | Dreamblood | 280903 | [280903-dreamblood.json](./280903-dreamblood.json) |
 | Dreamboat | 295806 | [295806-dreamboat.json](./295806-dreamboat.json) |
+| Dreamcage Escape | 30488 | [30488-dreamcage-escape.json](./30488-dreamcage-escape.json) |
 | DreamCatcher | 312588 | [312588-dreamcatcher.json](./312588-dreamcatcher.json) |
 | DreamCatcher: Reflections - Volume 1 | 154972 | [154972-dreamcatcher-reflections-volume-1.json](./154972-dreamcatcher-reflections-volume-1.json) |
 | Dreamcore95 Idle | 322138 | [322138-dreamcore95-idle.json](./322138-dreamcore95-idle.json) |
