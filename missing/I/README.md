@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Had Another Dream About You Last Night | 142403 | [142403-i-had-another-dream-about-you-last-night.json](./142403-i-had-another-dream-about-you-last-night.json) |
 | I Had the Strangest Dream, Ivan | 201327 | [201327-i-had-the-strangest-dream-ivan.json](./201327-i-had-the-strangest-dream-ivan.json) |
 | I Hate Heroes | 98988 | [98988-i-hate-heroes.json](./98988-i-hate-heroes.json) |
+| I Hate Santa | 30462 | [30462-i-hate-santa.json](./30462-i-hate-santa.json) |
 | I hate this game | 114278 | [114278-i-hate-this-game.json](./114278-i-hate-this-game.json) |
 | I Hate You | 215771 | [215771-i-hate-you.json](./215771-i-hate-you.json) |
 | I Have a Dream | 255703 | [255703-i-have-a-dream.json](./255703-i-have-a-dream.json) |
@@ -1045,6 +1046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | illWill | 191579 | [191579-illwill.json](./191579-illwill.json) |
 | Illwind | 251835 | [251835-illwind.json](./251835-illwind.json) |
 | Illyriad | 85880 | [85880-illyriad.json](./85880-illyriad.json) |
+| Illyriad - 4X Grand Strategy MMO | 30437 | [30437-illyriad-4x-grand-strategy-mmo.json](./30437-illyriad-4x-grand-strategy-mmo.json) |
 | Ilomilo: Autumn Tale | 288340 | [288340-ilomilo-autumn-tale.json](./288340-ilomilo-autumn-tale.json) |
 | Iltami | 311646 | [311646-iltami.json](./311646-iltami.json) |
 | iLudo | 90359 | [90359-iludo.json](./90359-iludo.json) |
@@ -2019,6 +2021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inner Seasons | 258964 | [258964-inner-seasons.json](./258964-inner-seasons.json) |
 | Inner silence | 29869 | [29869-inner-silence.json](./29869-inner-silence.json) |
 | Inner Voice | 358966 | [358966-inner-voice.json](./358966-inner-voice.json) |
+| Inner Voices | 30429 | [30429-inner-voices.json](./30429-inner-voices.json) |
 | Inner Worlds | 70482 | [70482-inner-worlds.json](./70482-inner-worlds.json) |
 | Innerchild VR | 332607 | [332607-innerchild-vr.json](./332607-innerchild-vr.json) |
 | InnerCube | 35879 | [35879-innercube.json](./35879-innercube.json) |
