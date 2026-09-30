@@ -1649,6 +1649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vos en Haas: Het plan van Haas | 98923 | [98923-vos-en-haas-het-plan-van-haas.json](./98923-vos-en-haas-het-plan-van-haas.json) |
 | Vosphia | 224558 | [224558-vosphia.json](./224558-vosphia.json) |
 | Vostok 2061 | 216849 | [216849-vostok-2061.json](./216849-vostok-2061.json) |
+| Vote: The Game | 93554 | [93554-vote-the-game.json](./93554-vote-the-game.json) |
 | Vovu | 57745 | [57745-vovu.json](./57745-vovu.json) |
 | Vow | 347342 | [347342-vow.json](./347342-vow.json) |
 | Vow of Heroes | 106981 | [106981-vow-of-heroes.json](./106981-vow-of-heroes.json) |
@@ -1662,6 +1663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vox Populi: Spain 2023 | 258042 | [258042-vox-populi-spain-2023.json](./258042-vox-populi-spain-2023.json) |
 | Vox Populi: USA 2024 | 309464 | [309464-vox-populi-usa-2024.json](./309464-vox-populi-usa-2024.json) |
 | Voxatron | 51288 | [51288-voxatron.json](./51288-voxatron.json) |
+| Voxel - 3D Color by Number | 95094 | [95094-voxel-3d-color-by-number.json](./95094-voxel-3d-color-by-number.json) |
 | Voxel Blast | 34652 | [34652-voxel-blast.json](./34652-voxel-blast.json) |
 | Voxel Delvers | 381686 | [381686-voxel-delvers.json](./381686-voxel-delvers.json) |
 | Voxel Doodle - Color By Number 3D | 105964 | [105964-voxel-doodle-color-by-number-3d.json](./105964-voxel-doodle-color-by-number-3d.json) |
