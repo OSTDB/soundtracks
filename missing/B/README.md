@@ -3283,6 +3283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bibi & Tina: Jump & Ride | 148356 | [148356-bibi-and-tina-jump-and-ride.json](./148356-bibi-and-tina-jump-and-ride.json) |
 | Bibi & Tina: Mikoschs großer Auftritt | 151206 | [151206-bibi-and-tina-mikoschs-gro-er-auftritt.json](./151206-bibi-and-tina-mikoschs-gro-er-auftritt.json) |
 | Bibi & Tina: New Adventures with Horses | 194979 | [194979-bibi-and-tina-new-adventures-with-horses.json](./194979-bibi-and-tina-new-adventures-with-horses.json) |
+| Bibi & Tina: Ready, Set, Ride! | 417439 | [417439-bibi-and-tina-ready-set-ride.json](./417439-bibi-and-tina-ready-set-ride.json) |
 | Bibi Blocksberg: Big Broom Race 4 | 375406 | [375406-bibi-blocksberg-big-broom-race-4.json](./375406-bibi-blocksberg-big-broom-race-4.json) |
 | Bibi Blocksberg: Der Magische Hexenkreis | 199069 | [199069-bibi-blocksberg-der-magische-hexenkreis.json](./199069-bibi-blocksberg-der-magische-hexenkreis.json) |
 | Bibi Blocksberg: Der verhexte Schloss-Schatz | 148498 | [148498-bibi-blocksberg-der-verhexte-schloss-schatz.json](./148498-bibi-blocksberg-der-verhexte-schloss-schatz.json) |
@@ -3326,6 +3327,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Adventure of Fighting Chicken | 163848 | [163848-big-adventure-of-fighting-chicken.json](./163848-big-adventure-of-fighting-chicken.json) |
 | Big Adventure: Trip to Europe | 237359 | [237359-big-adventure-trip-to-europe.json](./237359-big-adventure-trip-to-europe.json) |
 | Big Adventure: Trip to Europe 10 - Collector's Edition | 338699 | [338699-big-adventure-trip-to-europe-10-collectors-edition.json](./338699-big-adventure-trip-to-europe-10-collectors-edition.json) |
+| Big Adventure: Trip to Europe 11 | 417373 | [417373-big-adventure-trip-to-europe-11.json](./417373-big-adventure-trip-to-europe-11.json) |
+| Big Adventure: Trip to Europe 3 | 417375 | [417375-big-adventure-trip-to-europe-3.json](./417375-big-adventure-trip-to-europe-3.json) |
+| Big Adventure: Trip to Europe 4 | 417376 | [417376-big-adventure-trip-to-europe-4.json](./417376-big-adventure-trip-to-europe-4.json) |
+| Big Adventure: Trip to Europe 5 | 417377 | [417377-big-adventure-trip-to-europe-5.json](./417377-big-adventure-trip-to-europe-5.json) |
+| Big Adventure: Trip to Europe 6 | 417378 | [417378-big-adventure-trip-to-europe-6.json](./417378-big-adventure-trip-to-europe-6.json) |
+| Big Adventure: Trip to Europe 7 | 417379 | [417379-big-adventure-trip-to-europe-7.json](./417379-big-adventure-trip-to-europe-7.json) |
+| Big Adventure: Trip to Europe 9 | 417380 | [417380-big-adventure-trip-to-europe-9.json](./417380-big-adventure-trip-to-europe-9.json) |
 | Big Bad Sudoku Book | 267334 | [267334-big-bad-sudoku-book.json](./267334-big-bad-sudoku-book.json) |
 | Big Ball Sports | 275876 | [275876-big-ball-sports.json](./275876-big-ball-sports.json) |
 | Big Bang Billiards | 75819 | [75819-big-bang-billiards.json](./75819-big-bang-billiards.json) |
@@ -5364,6 +5372,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue's Room: Coloring With Blue | 220077 | [220077-blues-room-coloring-with-blue.json](./220077-blues-room-coloring-with-blue.json) |
 | Blue* | 130819 | [130819-blue.json](./130819-blue.json) |
 | BlueAge | 312890 | [312890-blueage.json](./312890-blueage.json) |
+| Bluebeard's Castle | 417390 | [417390-bluebeards-castle.json](./417390-bluebeards-castle.json) |
+| Bluebeard's Castle: Son of the Heartless | 417391 | [417391-bluebeards-castle-son-of-the-heartless.json](./417391-bluebeards-castle-son-of-the-heartless.json) |
 | Blueberry Garden | 9983 | [9983-blueberry-garden.json](./9983-blueberry-garden.json) |
 | Blueberry Weather | 353869 | [353869-blueberry-weather.json](./353869-blueberry-weather.json) |
 | BlueBete | 137556 | [137556-bluebete.json](./137556-bluebete.json) |
@@ -5852,6 +5862,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonez Adventures: Tomb of Fulaos | 120874 | [120874-bonez-adventures-tomb-of-fulaos.json](./120874-bonez-adventures-tomb-of-fulaos.json) |
 | Bonfire Kingdom | 260413 | [260413-bonfire-kingdom.json](./260413-bonfire-kingdom.json) |
 | Bonfire Peaks: Lost Memories | 203901 | [203901-bonfire-peaks-lost-memories.json](./203901-bonfire-peaks-lost-memories.json) |
+| Bonfire Stories: Manifest Horror | 417393 | [417393-bonfire-stories-manifest-horror.json](./417393-bonfire-stories-manifest-horror.json) |
+| Bonfire Stories: Manifest Horror - Collector's Edition | 417394 | [417394-bonfire-stories-manifest-horror-collectors-edition.json](./417394-bonfire-stories-manifest-horror-collectors-edition.json) |
 | BongBongCapy | 400862 | [400862-bongbongcapy.json](./400862-bongbongcapy.json) |
 | Bongo Cat | 334486 | [334486-bongo-cat.json](./334486-bongo-cat.json) |
 | Bongo Loves the Bible | 146262 | [146262-bongo-loves-the-bible.json](./146262-bongo-loves-the-bible.json) |
@@ -5869,6 +5881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonk's Revenge | 228469 | [228469-bonks-revenge.json](./228469-bonks-revenge.json) |
 | Bonkers | 177539 | [177539-bonkers.json](./177539-bonkers.json) |
 | Bonkers | 78677 | [78677-bonkers.json](./78677-bonkers.json) |
+| Bonkhope | 417425 | [417425-bonkhope.json](./417425-bonkhope.json) |
 | Bonkies | 105344 | [105344-bonkies.json](./105344-bonkies.json) |
 | Bonnie Blob in Shapeville | 323368 | [323368-bonnie-blob-in-shapeville.json](./323368-bonnie-blob-in-shapeville.json) |
 | Bonnie Fell | 329113 | [329113-bonnie-fell.json](./329113-bonnie-fell.json) |
@@ -7780,6 +7793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet | 84189 | [84189-bullet.json](./84189-bullet.json) |
 | Bullet Angel | 143101 | [143101-bullet-angel.json](./143101-bullet-angel.json) |
 | Bullet Art | 156680 | [156680-bullet-art.json](./156680-bullet-art.json) |
+| Bullet Barrage Basketball | 417367 | [417367-bullet-barrage-basketball.json](./417367-bullet-barrage-basketball.json) |
 | Bullet Bash | 205246 | [205246-bullet-bash.json](./205246-bullet-bash.json) |
 | Bullet Battle | 174721 | [174721-bullet-battle.json](./174721-bullet-battle.json) |
 | Bullet Bill | 230752 | [230752-bullet-bill.json](./230752-bullet-bill.json) |
