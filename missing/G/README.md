@@ -1047,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gauntlet: The Third Encounter | 7295 | [7295-gauntlet-the-third-encounter.json](./7295-gauntlet-the-third-encounter.json) |
 | Gay Battlegrounds | 105354 | [105354-gay-battlegrounds.json](./105354-gay-battlegrounds.json) |
 | Gay Guys | 368117 | [368117-gay-guys.json](./368117-gay-guys.json) |
+| Gay It Loud | 416763 | [416763-gay-it-loud.json](./416763-gay-it-loud.json) |
 | Gay Sex Adventures: Episode 8 | 304857 | [304857-gay-sex-adventures-episode-8.json](./304857-gay-sex-adventures-episode-8.json) |
 | Gay Sex Simulator | 405059 | [405059-gay-sex-simulator.json](./405059-gay-sex-simulator.json) |
 | Gay World | 81954 | [81954-gay-world.json](./81954-gay-world.json) |
