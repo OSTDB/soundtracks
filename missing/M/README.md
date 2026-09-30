@@ -3312,6 +3312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Mayhem | 40716 | [40716-medieval-mayhem.json](./40716-medieval-mayhem.json) |
 | Medieval Mayhem | 75009 | [75009-medieval-mayhem.json](./75009-medieval-mayhem.json) |
 | Medieval Nightt: Part 1 | 311804 | [311804-medieval-nightt-part-1.json](./311804-medieval-nightt-part-1.json) |
+| Medieval Quest | 406848 | [406848-medieval-quest.json](./406848-medieval-quest.json) |
 | Medieval Questionnaire | 288816 | [288816-medieval-questionnaire.json](./288816-medieval-questionnaire.json) |
 | Medieval Real Estate | 81773 | [81773-medieval-real-estate.json](./81773-medieval-real-estate.json) |
 | Medieval Remembrance | 189945 | [189945-medieval-remembrance.json](./189945-medieval-remembrance.json) |
@@ -5600,6 +5601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Biome Settlers Pack 2 | 302660 | [302660-minecraft-biome-settlers-pack-2.json](./302660-minecraft-biome-settlers-pack-2.json) |
 | Minecraft: Cartoon Mobs HD Skin Pack | 324891 | [324891-minecraft-cartoon-mobs-hd-skin-pack.json](./324891-minecraft-cartoon-mobs-hd-skin-pack.json) |
 | Minecraft: Caves & Cliffs - Part II | 223159 | [223159-minecraft-caves-and-cliffs-part-ii.json](./223159-minecraft-caves-and-cliffs-part-ii.json) |
+| Minecraft: Chaos Cubed | 406874 | [406874-minecraft-chaos-cubed.json](./406874-minecraft-chaos-cubed.json) |
 | Minecraft: Classic Skin Pack 5 | 257344 | [257344-minecraft-classic-skin-pack-5.json](./257344-minecraft-classic-skin-pack-5.json) |
 | Minecraft: Conservation Quest | 324883 | [324883-minecraft-conservation-quest.json](./324883-minecraft-conservation-quest.json) |
 | Minecraft: Dairycraft | 366815 | [366815-minecraft-dairycraft.json](./366815-minecraft-dairycraft.json) |
@@ -7360,6 +7362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Seek | 168219 | [168219-monster-seek.json](./168219-monster-seek.json) |
 | Monster shooter | 108951 | [108951-monster-shooter.json](./108951-monster-shooter.json) |
 | Monster Shooter | 290700 | [290700-monster-shooter.json](./290700-monster-shooter.json) |
+| Monster Shop Simulator | 406858 | [406858-monster-shop-simulator.json](./406858-monster-shop-simulator.json) |
 | Monster Slayer: Motion Edition | 363413 | [363413-monster-slayer-motion-edition.json](./363413-monster-slayer-motion-edition.json) |
 | Monster Slayers Incorporated | 372110 | [372110-monster-slayers-incorporated.json](./372110-monster-slayers-incorporated.json) |
 | Monster Slayers: Fire and Steel | 169330 | [169330-monster-slayers-fire-and-steel.json](./169330-monster-slayers-fire-and-steel.json) |
@@ -7862,10 +7865,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 11: DC Elseworlds Skin Pack | 298557 | [298557-mortal-kombat-11-dc-elseworlds-skin-pack.json](./298557-mortal-kombat-11-dc-elseworlds-skin-pack.json) |
 | Mortal Kombat 11: Double Feature Skin Pack | 305856 | [305856-mortal-kombat-11-double-feature-skin-pack.json](./305856-mortal-kombat-11-double-feature-skin-pack.json) |
 | Mortal Kombat 11: Fujin | 139439 | [139439-mortal-kombat-11-fujin.json](./139439-mortal-kombat-11-fujin.json) |
+| Mortal Kombat 11: Klassic Cassie | 406877 | [406877-mortal-kombat-11-klassic-cassie.json](./406877-mortal-kombat-11-klassic-cassie.json) |
 | Mortal Kombat 11: Kollector's Edition | 136267 | [136267-mortal-kombat-11-kollectors-edition.json](./136267-mortal-kombat-11-kollectors-edition.json) |
 | Mortal Kombat 11: Kombat Pack | 133278 | [133278-mortal-kombat-11-kombat-pack.json](./133278-mortal-kombat-11-kombat-pack.json) |
 | Mortal Kombat 11: Kombat Pack 2 | 139445 | [139445-mortal-kombat-11-kombat-pack-2.json](./139445-mortal-kombat-11-kombat-pack-2.json) |
 | Mortal Kombat 11: Mileena | 139442 | [139442-mortal-kombat-11-mileena.json](./139442-mortal-kombat-11-mileena.json) |
+| Mortal Kombat 11: Ninja Mime Johnny Cage | 406880 | [406880-mortal-kombat-11-ninja-mime-johnny-cage.json](./406880-mortal-kombat-11-ninja-mime-johnny-cage.json) |
 | Mortal Kombat 11: Rain | 139443 | [139443-mortal-kombat-11-rain.json](./139443-mortal-kombat-11-rain.json) |
 | Mortal Kombat 11: Rambo | 139444 | [139444-mortal-kombat-11-rambo.json](./139444-mortal-kombat-11-rambo.json) |
 | Mortal Kombat 11: RoboCop | 139440 | [139440-mortal-kombat-11-robocop.json](./139440-mortal-kombat-11-robocop.json) |
