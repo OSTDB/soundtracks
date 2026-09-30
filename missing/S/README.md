@@ -1248,6 +1248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scanner Sombre | 28224 | [28224-scanner-sombre.json](./28224-scanner-sombre.json) |
 | Scanner Sombre Pack | 154462 | [154462-scanner-sombre-pack.json](./154462-scanner-sombre-pack.json) |
 | Scape | 287782 | [287782-scape.json](./287782-scape.json) |
+| Scape | 415979 | [415979-scape.json](./415979-scape.json) |
 | Scapeghost | 12208 | [12208-scapeghost.json](./12208-scapeghost.json) |
 | Scapeland | 33493 | [33493-scapeland.json](./33493-scapeland.json) |
 | Scapewatch | 401089 | [401089-scapewatch.json](./401089-scapewatch.json) |
@@ -4195,6 +4196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shojo Warriors | 340375 | [340375-shojo-warriors.json](./340375-shojo-warriors.json) |
 | Shokrok Throwdown | 73283 | [73283-shokrok-throwdown.json](./73283-shokrok-throwdown.json) |
 | Shoku Iku Series 1: Soreike! Anpanman: Sukikirai Nai Ko Genki na Ko! | 327607 | [327607-shoku-iku-series-1-soreike-anpanman-sukikirai-nai-ko-genki-na-ko.json](./327607-shoku-iku-series-1-soreike-anpanman-sukikirai-nai-ko-genki-na-ko.json) |
+| Shoku Pain | 415986 | [415986-shoku-pain.json](./415986-shoku-pain.json) |
 | Shokugeki no Soma: Yuujou to Kizuna no Hitosara | 222523 | [222523-shokugeki-no-soma-yuujou-to-kizuna-no-hitosara.json](./222523-shokugeki-no-soma-yuujou-to-kizuna-no-hitosara.json) |
 | Shokuho | 356163 | [356163-shokuho.json](./356163-shokuho.json) |
 | Shokuma Gaiden 3 | 97375 | [97375-shokuma-gaiden-3.json](./97375-shokuma-gaiden-3.json) |
@@ -5391,6 +5393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sirius 7 | 93516 | [93516-sirius-7.json](./93516-sirius-7.json) |
 | Sirius: Age of the Free Agents | 115075 | [115075-sirius-age-of-the-free-agents.json](./115075-sirius-age-of-the-free-agents.json) |
 | SirKwitz | 306336 | [306336-sirkwitz.json](./306336-sirkwitz.json) |
+| Sister Lesson | 416016 | [416016-sister-lesson.json](./416016-sister-lesson.json) |
 | Sister Location: MA | 230756 | [230756-sister-location-ma.json](./230756-sister-location-ma.json) |
 | Sister Lumina and the Hypnosis Cult | 327395 | [327395-sister-lumina-and-the-hypnosis-cult.json](./327395-sister-lumina-and-the-hypnosis-cult.json) |
 | Sister Red | 385867 | [385867-sister-red.json](./385867-sister-red.json) |
@@ -8650,6 +8653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoulBound | 215932 | [215932-soulbound.json](./215932-soulbound.json) |
 | SoulCalibur II | 1565 | [1565-soulcalibur-ii.json](./1565-soulcalibur-ii.json) |
 | Soulcalibur II Plus | 384776 | [384776-soulcalibur-ii-plus.json](./384776-soulcalibur-ii-plus.json) |
+| SoulCalibur II: Recompiled | 415181 | [415181-soulcalibur-ii-recompiled.json](./415181-soulcalibur-ii-recompiled.json) |
 | SoulCalibur III: Arcade Edition | 299306 | [299306-soulcalibur-iii-arcade-edition.json](./299306-soulcalibur-iii-arcade-edition.json) |
 | Soulcalibur Legends | 5170 | [5170-soulcalibur-legends.json](./5170-soulcalibur-legends.json) |
 | SoulCalibur V | 1013 | [1013-soulcalibur-v.json](./1013-soulcalibur-v.json) |
@@ -8860,6 +8864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Bandits | 42176 | [42176-space-bandits.json](./42176-space-bandits.json) |
 | Space Bar | 411582 | [411582-space-bar.json](./411582-space-bar.json) |
 | Space Bar at the End of the Galaxy | 171005 | [171005-space-bar-at-the-end-of-the-galaxy.json](./171005-space-bar-at-the-end-of-the-galaxy.json) |
+| Space Base | 415230 | [415230-space-base.json](./415230-space-base.json) |
 | Space Battalion Alpha | 186194 | [186194-space-battalion-alpha.json](./186194-space-battalion-alpha.json) |
 | Space Battle | 160158 | [160158-space-battle.json](./160158-space-battle.json) |
 | Space Battle | 18740 | [18740-space-battle.json](./18740-space-battle.json) |
@@ -10202,6 +10207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit X Strike | 319729 | [319729-spirit-x-strike.json](./319729-spirit-x-strike.json) |
 | Spirit-Capture Net | 383359 | [383359-spirit-capture-net.json](./383359-spirit-capture-net.json) |
 | Spirit: Lucky's Big Adventure | 143055 | [143055-spirit-luckys-big-adventure.json](./143055-spirit-luckys-big-adventure.json) |
+| Spiritbound: The Goddess's Quest | 415183 | [415183-spiritbound-the-goddesss-quest.json](./415183-spiritbound-the-goddesss-quest.json) |
 | Spirited Heart Deluxe | 17286 | [17286-spirited-heart-deluxe.json](./17286-spirited-heart-deluxe.json) |
 | Spirited Soul | 61124 | [61124-spirited-soul.json](./61124-spirited-soul.json) |
 | Spirited Thief | 169882 | [169882-spirited-thief.json](./169882-spirited-thief.json) |
@@ -10744,6 +10750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squaredle | 213881 | [213881-squaredle.json](./213881-squaredle.json) |
 | Squareface | 31585 | [31585-squareface.json](./31585-squareface.json) |
 | Squarelets | 297054 | [297054-squarelets.json](./297054-squarelets.json) |
+| Squarelings | 416009 | [416009-squarelings.json](./416009-squarelings.json) |
 | Squarely | 364574 | [364574-squarely.json](./364574-squarely.json) |
 | Squarena | 191829 | [191829-squarena.json](./191829-squarena.json) |
 | Squarepinski | 372994 | [372994-squarepinski.json](./372994-squarepinski.json) |
@@ -11610,6 +11617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlight | 181804 | [181804-starlight.json](./181804-starlight.json) |
 | Starlight | 247552 | [247552-starlight.json](./247552-starlight.json) |
 | Starlight Attack | 198520 | [198520-starlight-attack.json](./198520-starlight-attack.json) |
+| Starlight Cove | 415987 | [415987-starlight-cove.json](./415987-starlight-cove.json) |
 | Starlight Explorers | 179204 | [179204-starlight-explorers.json](./179204-starlight-explorers.json) |
 | Starlight Idol: Colorful Top Stage! | 194586 | [194586-starlight-idol-colorful-top-stage.json](./194586-starlight-idol-colorful-top-stage.json) |
 | Starlight Inception | 16662 | [16662-starlight-inception.json](./16662-starlight-inception.json) |
@@ -12554,6 +12562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stonebot Adventures | 154433 | [154433-stonebot-adventures.json](./154433-stonebot-adventures.json) |
 | Stonebound | 378924 | [378924-stonebound.json](./378924-stonebound.json) |
 | Stoned | 352202 | [352202-stoned.json](./352202-stoned.json) |
+| Stonefall | 416058 | [416058-stonefall.json](./416058-stonefall.json) |
 | Stonefly | 144171 | [144171-stonefly.json](./144171-stonefly.json) |
 | Stonegate | 270213 | [270213-stonegate.json](./270213-stonegate.json) |
 | Stoneguard | 285983 | [285983-stoneguard.json](./285983-stoneguard.json) |
@@ -16026,6 +16035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sveerz Deluxe | 78378 | [78378-sveerz-deluxe.json](./78378-sveerz-deluxe.json) |
 | Sven Bømwøllen | 93079 | [93079-sven-b-mw-llen.json](./93079-sven-b-mw-llen.json) |
 | Sven Gordan Paranormal Parody | 326800 | [326800-sven-gordan-paranormal-parody.json](./326800-sven-gordan-paranormal-parody.json) |
+| Sven Rescues a Princess | 415195 | [415195-sven-rescues-a-princess.json](./415195-sven-rescues-a-princess.json) |
 | Sven-Göran Eriksson's World Manager | 136991 | [136991-sven-goran-erikssons-world-manager.json](./136991-sven-goran-erikssons-world-manager.json) |
 | Sven: Completely Screwed | 247619 | [247619-sven-completely-screwed.json](./247619-sven-completely-screwed.json) |
 | Sverigespelet | 300684 | [300684-sverigespelet.json](./300684-sverigespelet.json) |
