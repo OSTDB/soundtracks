@@ -2173,6 +2173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aisling and the Tavern of Elves | 169855 | [169855-aisling-and-the-tavern-of-elves.json](./169855-aisling-and-the-tavern-of-elves.json) |
 | Aiso | 81774 | [81774-aiso.json](./81774-aiso.json) |
 | Aisu Kuriimu Simulator | 186730 | [186730-aisu-kuriimu-simulator.json](./186730-aisu-kuriimu-simulator.json) |
+| Aisu Paradise | 119048 | [119048-aisu-paradise.json](./119048-aisu-paradise.json) |
 | Aiten Eishi: Blue Guardians | 252408 | [252408-aiten-eishi-blue-guardians.json](./252408-aiten-eishi-blue-guardians.json) |
 | Aitta: Finnish folktales | 203868 | [203868-aitta-finnish-folktales.json](./203868-aitta-finnish-folktales.json) |
 | Aivern | 341148 | [341148-aivern.json](./341148-aivern.json) |
@@ -7722,6 +7723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aw Heck, War! | 241302 | [241302-aw-heck-war.json](./241302-aw-heck-war.json) |
 | AWA | 32877 | [32877-awa.json](./32877-awa.json) |
 | AWA 2024 | 278169 | [278169-awa-2024.json](./278169-awa-2024.json) |
+| Awaiting Salvation | 119737 | [119737-awaiting-salvation.json](./119737-awaiting-salvation.json) |
 | Awake | 343247 | [343247-awake.json](./343247-awake.json) |
 | Awake: Definitive Edition | 113787 | [113787-awake-definitive-edition.json](./113787-awake-definitive-edition.json) |
 | AwakeMUD | 228698 | [228698-awakemud.json](./228698-awakemud.json) |
@@ -7753,6 +7755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awareness | 244880 | [244880-awareness.json](./244880-awareness.json) |
 | Awareness Test: The Robot Bar | 179572 | [179572-awareness-test-the-robot-bar.json](./179572-awareness-test-the-robot-bar.json) |
 | Away from beauty | 115077 | [115077-away-from-beauty.json](./115077-away-from-beauty.json) |
+| Away From Earth: Titan | 117437 | [117437-away-from-earth-titan.json](./117437-away-from-earth-titan.json) |
 | Away From Life | 207301 | [207301-away-from-life.json](./207301-away-from-life.json) |
 | Away from the light | 287732 | [287732-away-from-the-light.json](./287732-away-from-the-light.json) |
 | Away in the Woods | 225765 | [225765-away-in-the-woods.json](./225765-away-in-the-woods.json) |
