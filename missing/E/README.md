@@ -429,6 +429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes: Operation Stranglehold | 334666 | [334666-echoes-operation-stranglehold.json](./334666-echoes-operation-stranglehold.json) |
 | Echoes: Season 1 - Greenhearth | 366902 | [366902-echoes-season-1-greenhearth.json](./366902-echoes-season-1-greenhearth.json) |
 | EchoEvade | 386295 | [386295-echoevade.json](./386295-echoevade.json) |
+| Echoland | 415209 | [415209-echoland.json](./415209-echoland.json) |
 | Echolight | 287712 | [287712-echolight.json](./287712-echolight.json) |
 | Echoplex | 25237 | [25237-echoplex.json](./25237-echoplex.json) |
 | EchoShell | 382434 | [382434-echoshell.json](./382434-echoshell.json) |
@@ -900,6 +901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldritch Town | 258540 | [258540-eldritch-town.json](./258540-eldritch-town.json) |
 | Eldritch University | 121475 | [121475-eldritch-university.json](./121475-eldritch-university.json) |
 | Eldritch Verdict | 316630 | [316630-eldritch-verdict.json](./316630-eldritch-verdict.json) |
+| Eldritch Wildlife Tours | 415215 | [415215-eldritch-wildlife-tours.json](./415215-eldritch-wildlife-tours.json) |
 | Eldritch World | 137610 | [137610-eldritch-world.json](./137610-eldritch-world.json) |
 | Eldritchvania | 223680 | [223680-eldritchvania.json](./223680-eldritchvania.json) |
 | Eldrum: Untold | 202863 | [202863-eldrum-untold.json](./202863-eldrum-untold.json) |
@@ -1093,6 +1095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elf Epizode One | 114356 | [114356-elf-epizode-one.json](./114356-elf-epizode-one.json) |
 | Elf Girl Pinball | 212891 | [212891-elf-girl-pinball.json](./212891-elf-girl-pinball.json) |
 | Elf Manor | 126422 | [126422-elf-manor.json](./126422-elf-manor.json) |
+| Elf no Oyome-san: Harem Kon Suishou | 416018 | [416018-elf-no-oyome-san-harem-kon-suishou.json](./416018-elf-no-oyome-san-harem-kon-suishou.json) |
 | Elf-Mail | 178524 | [178524-elf-mail.json](./178524-elf-mail.json) |
 | Elf-World: Three Kingdoms | 61888 | [61888-elf-world-three-kingdoms.json](./61888-elf-world-three-kingdoms.json) |
 | Elfblade | 152209 | [152209-elfblade.json](./152209-elfblade.json) |
@@ -1395,6 +1398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emoji Wars | 397649 | [397649-emoji-wars.json](./397649-emoji-wars.json) |
 | Emoji-Connect | 291989 | [291989-emoji-connect.json](./291989-emoji-connect.json) |
 | Emorrior | 197876 | [197876-emorrior.json](./197876-emorrior.json) |
+| Emory Cole & The Secret at Greymar Point | 415243 | [415243-emory-cole-and-the-secret-at-greymar-point.json](./415243-emory-cole-and-the-secret-at-greymar-point.json) |
 | Emote Farming Simulator | 173082 | [173082-emote-farming-simulator.json](./173082-emote-farming-simulator.json) |
 | Emote Guesser | 252732 | [252732-emote-guesser.json](./252732-emote-guesser.json) |
 | EmoteGuesser | 232687 | [232687-emoteguesser.json](./232687-emoteguesser.json) |
@@ -2324,6 +2328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Naraka | 149961 | [149961-escape-from-naraka.json](./149961-escape-from-naraka.json) |
 | Escape from NOM | 65225 | [65225-escape-from-nom.json](./65225-escape-from-nom.json) |
 | Escape from Nowhere | 158499 | [158499-escape-from-nowhere.json](./158499-escape-from-nowhere.json) |
+| Escape from Playtime | 415180 | [415180-escape-from-playtime.json](./415180-escape-from-playtime.json) |
 | Escape From Prison Multiplayer | 337823 | [337823-escape-from-prison-multiplayer.json](./337823-escape-from-prison-multiplayer.json) |
 | Escape from Puzzlegate | 34373 | [34373-escape-from-puzzlegate.json](./34373-escape-from-puzzlegate.json) |
 | Escape from Rio de Janeiro | 104456 | [104456-escape-from-rio-de-janeiro.json](./104456-escape-from-rio-de-janeiro.json) |
@@ -2944,6 +2949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eve: Galaxy Conquest | 317843 | [317843-eve-galaxy-conquest.json](./317843-eve-galaxy-conquest.json) |
 | Eve: The Fatal Attraction | 44730 | [44730-eve-the-fatal-attraction.json](./44730-eve-the-fatal-attraction.json) |
 | Evel Knievel Evel-ution | 23533 | [23533-evel-knievel-evel-ution.json](./23533-evel-knievel-evel-ution.json) |
+| Eveline | 416057 | [416057-eveline.json](./416057-eveline.json) |
 | Even in Arcadia | 135022 | [135022-even-in-arcadia.json](./135022-even-in-arcadia.json) |
 | Even in Arcadia, There I Am | 136421 | [136421-even-in-arcadia-there-i-am.json](./136421-even-in-arcadia-there-i-am.json) |
 | Even Lovers Drown | 408772 | [408772-even-lovers-drown.json](./408772-even-lovers-drown.json) |
@@ -3437,6 +3443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exodus: Sunflower on the Horizon | 257977 | [257977-exodus-sunflower-on-the-horizon.json](./257977-exodus-sunflower-on-the-horizon.json) |
 | Exodus: The Last War | 69930 | [69930-exodus-the-last-war.json](./69930-exodus-the-last-war.json) |
 | ExoFrontier: Venus | 319724 | [319724-exofrontier-venus.json](./319724-exofrontier-venus.json) |
+| Exogear | 415210 | [415210-exogear.json](./415210-exogear.json) |
 | Exogen VR Experience | 117049 | [117049-exogen-vr-experience.json](./117049-exogen-vr-experience.json) |
 | Exogenesis: The Erebus Cycle | 390518 | [390518-exogenesis-the-erebus-cycle.json](./390518-exogenesis-the-erebus-cycle.json) |
 | Exojet + | 41546 | [41546-exojet.json](./41546-exojet.json) |
