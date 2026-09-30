@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raanaa: The Shaman Girl - The Windman's Land | 321148 | [321148-raanaa-the-shaman-girl-the-windmans-land.json](./321148-raanaa-the-shaman-girl-the-windmans-land.json) |
 | Raanaa: The Shaman Girl - Valhalla | 342142 | [342142-raanaa-the-shaman-girl-valhalla.json](./342142-raanaa-the-shaman-girl-valhalla.json) |
 | Rabanaz | 403571 | [403571-rabanaz.json](./403571-rabanaz.json) |
+| Rabauken: Spirit Resort | 400394 | [400394-rabauken-spirit-resort.json](./400394-rabauken-spirit-resort.json) |
 | Rabbi-T | 240780 | [240780-rabbi-t.json](./240780-rabbi-t.json) |
 | Rabbids Big Bang | 61635 | [61635-rabbids-big-bang.json](./61635-rabbids-big-bang.json) |
 | Rabbids Crazy Rush | 90356 | [90356-rabbids-crazy-rush.json](./90356-rabbids-crazy-rush.json) |
@@ -682,6 +683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raining Blobs | 24050 | [24050-raining-blobs.json](./24050-raining-blobs.json) |
 | Raining blocks | 81764 | [81764-raining-blocks.json](./81764-raining-blocks.json) |
 | Raining City: Millions Recollections | 305310 | [305310-raining-city-millions-recollections.json](./305310-raining-city-millions-recollections.json) |
+| Raining Lead | 400410 | [400410-raining-lead.json](./400410-raining-lead.json) |
 | Rainmaker: Ultimate Trading Game | 233215 | [233215-rainmaker-ultimate-trading-game.json](./233215-rainmaker-ultimate-trading-game.json) |
 | Rainman | 264582 | [264582-rainman.json](./264582-rainman.json) |
 | Rainshade | 204491 | [204491-rainshade.json](./204491-rainshade.json) |
@@ -991,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rat Climber | 330135 | [330135-rat-climber.json](./330135-rat-climber.json) |
 | Rat Farm | 414418 | [414418-rat-farm.json](./414418-rat-farm.json) |
 | Rat King | 394876 | [394876-rat-king.json](./394876-rat-king.json) |
+| Rat of Infinity: Idle Clicker | 400397 | [400397-rat-of-infinity-idle-clicker.json](./400397-rat-of-infinity-idle-clicker.json) |
 | Rat on a Snowboard | 88516 | [88516-rat-on-a-snowboard.json](./88516-rat-on-a-snowboard.json) |
 | Rat on the Run | 78607 | [78607-rat-on-the-run.json](./78607-rat-on-the-run.json) |
 | Rat Race | 288824 | [288824-rat-race.json](./288824-rat-race.json) |
@@ -2617,6 +2620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil | 288943 | [288943-resident-evil.json](./288943-resident-evil.json) |
 | Resident Evil | 396732 | [396732-resident-evil.json](./396732-resident-evil.json) |
 | Resident Evil 0 | 15108 | [15108-resident-evil-0.json](./15108-resident-evil-0.json) |
+| Resident Evil 1.5: Battle Coliseum | 400424 | [400424-resident-evil-1-5-battle-coliseum.json](./400424-resident-evil-1-5-battle-coliseum.json) |
 | Resident Evil 2 | 210710 | [210710-resident-evil-2.json](./210710-resident-evil-2.json) |
 | Resident Evil 2 + Resident Evil 3 Bundle | 167078 | [167078-resident-evil-2-resident-evil-3-bundle.json](./167078-resident-evil-2-resident-evil-3-bundle.json) |
 | Resident Evil 2: Collector's Edition | 105979 | [105979-resident-evil-2-collectors-edition.json](./105979-resident-evil-2-collectors-edition.json) |
@@ -2692,6 +2696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Residuum | 239752 | [239752-residuum.json](./239752-residuum.json) |
 | Resilience | 273443 | [273443-resilience.json](./273443-resilience.json) |
 | Resilience: Wave Survival | 33851 | [33851-resilience-wave-survival.json](./33851-resilience-wave-survival.json) |
+| Resilient | 400390 | [400390-resilient.json](./400390-resilient.json) |
 | Resist Resist Resist | 299153 | [299153-resist-resist-resist.json](./299153-resist-resist-resist.json) |
 | Resistance | 172166 | [172166-resistance.json](./172166-resistance.json) |
 | Resistance 2 | 3205 | [3205-resistance-2.json](./3205-resistance-2.json) |
@@ -3081,6 +3086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverse Crawl | 28182 | [28182-reverse-crawl.json](./28182-reverse-crawl.json) |
 | Reverse Defenders | 150174 | [150174-reverse-defenders.json](./150174-reverse-defenders.json) |
 | Reverse Dream | 202327 | [202327-reverse-dream.json](./202327-reverse-dream.json) |
+| Reverse Dream of the Menasphere | 400430 | [400430-reverse-dream-of-the-menasphere.json](./400430-reverse-dream-of-the-menasphere.json) |
 | Reverse Dyson Ball: Portal Tower | 311997 | [311997-reverse-dyson-ball-portal-tower.json](./311997-reverse-dyson-ball-portal-tower.json) |
 | Reverse Fantasy Legend | 174676 | [174676-reverse-fantasy-legend.json](./174676-reverse-fantasy-legend.json) |
 | Reverse Fantasy Legend 2 | 174795 | [174795-reverse-fantasy-legend-2.json](./174795-reverse-fantasy-legend-2.json) |
@@ -3573,6 +3579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift Walker | 256905 | [256905-rift-walker.json](./256905-rift-walker.json) |
 | Rift Walker | 293677 | [293677-rift-walker.json](./293677-rift-walker.json) |
 | Rift Wizard 2 | 270936 | [270936-rift-wizard-2.json](./270936-rift-wizard-2.json) |
+| Rift Wizard 3 | 400404 | [400404-rift-wizard-3.json](./400404-rift-wizard-3.json) |
 | Rift World | 148550 | [148550-rift-world.json](./148550-rift-world.json) |
 | Rift: Nightmare Tide | 19322 | [19322-rift-nightmare-tide.json](./19322-rift-nightmare-tide.json) |
 | Rift: Storm Legion | 1935 | [1935-rift-storm-legion.json](./1935-rift-storm-legion.json) |
@@ -4744,6 +4751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Fable III | 113389 | [113389-rogue-fable-iii.json](./113389-rogue-fable-iii.json) |
 | Rogue Fable IV | 280260 | [280260-rogue-fable-iv.json](./280260-rogue-fable-iv.json) |
 | Rogue Factory | 317996 | [317996-rogue-factory.json](./317996-rogue-factory.json) |
+| Rogue Fantasy: Ever-Shifting Worlds | 400385 | [400385-rogue-fantasy-ever-shifting-worlds.json](./400385-rogue-fantasy-ever-shifting-worlds.json) |
 | Rogue Fighter | 32100 | [32100-rogue-fighter.json](./32100-rogue-fighter.json) |
 | Rogue Flight | 318086 | [318086-rogue-flight.json](./318086-rogue-flight.json) |
 | Rogue Fortune | 415285 | [415285-rogue-fortune.json](./415285-rogue-fortune.json) |
