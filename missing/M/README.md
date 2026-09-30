@@ -3741,6 +3741,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MegaRamp | 169789 | [169789-megaramp.json](./169789-megaramp.json) |
 | MegaRats | 31101 | [31101-megarats.json](./31101-megarats.json) |
 | Megaspectre | 70361 | [70361-megaspectre.json](./70361-megaspectre.json) |
+| Megasuki!: Kanojo to Boku no Megane Jijou - Amou Haruka-hen | 416600 | [416600-megasuki-kanojo-to-boku-no-megane-jijou-amou-haruka-hen.json](./416600-megasuki-kanojo-to-boku-no-megane-jijou-amou-haruka-hen.json) |
+| Megasuki!: Kanojo to Boku no Megane Jijou - Azumino G Sakurako-hen | 416602 | [416602-megasuki-kanojo-to-boku-no-megane-jijou-azumino-g-sakurako-hen.json](./416602-megasuki-kanojo-to-boku-no-megane-jijou-azumino-g-sakurako-hen.json) |
+| Megasuki!: Kanojo to Boku no Megane Jijou - Toono Shiori-hen | 416603 | [416603-megasuki-kanojo-to-boku-no-megane-jijou-toono-shiori-hen.json](./416603-megasuki-kanojo-to-boku-no-megane-jijou-toono-shiori-hen.json) |
 | Megatack | 38576 | [38576-megatack.json](./38576-megatack.json) |
 | Megaton Musashi W: V Navigator "Dragon" | 301016 | [301016-megaton-musashi-w-v-navigator-dragon.json](./301016-megaton-musashi-w-v-navigator-dragon.json) |
 | Megaton Musashi W: V Navigator "Jibanyan" | 301014 | [301014-megaton-musashi-w-v-navigator-jibanyan.json](./301014-megaton-musashi-w-v-navigator-jibanyan.json) |
@@ -3786,6 +3789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megurine Luka no Jikenbo | 264358 | [264358-megurine-luka-no-jikenbo.json](./264358-megurine-luka-no-jikenbo.json) |
 | Mei Paranormies 2 | 410236 | [410236-mei-paranormies-2.json](./410236-mei-paranormies-2.json) |
 | Mei Qi: Season 6 | 170375 | [170375-mei-qi-season-6.json](./170375-mei-qi-season-6.json) |
+| Meian | 416759 | [416759-meian.json](./416759-meian.json) |
 | Meian | 97673 | [97673-meian.json](./97673-meian.json) |
 | MeiaUm: Escaping the Pix | 329373 | [329373-meiaum-escaping-the-pix.json](./329373-meiaum-escaping-the-pix.json) |
 | Meiji Ishin | 48781 | [48781-meiji-ishin.json](./48781-meiji-ishin.json) |
