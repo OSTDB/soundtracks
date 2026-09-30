@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cafeworld | 177027 | [177027-cafeworld.json](./177027-cafeworld.json) |
 | Cage Fight | 257406 | [257406-cage-fight.json](./257406-cage-fight.json) |
 | Cage Fight 3D | 220054 | [220054-cage-fight-3d.json](./220054-cage-fight-3d.json) |
+| Cage in My Head in My Cage in My Head in My | 389686 | [389686-cage-in-my-head-in-my-cage-in-my-head-in-my.json](./389686-cage-in-my-head-in-my-cage-in-my-head-in-my.json) |
 | Cage-Face: Case 2 - The Sewer | 193432 | [193432-cage-face-case-2-the-sewer.json](./193432-cage-face-case-2-the-sewer.json) |
 | Cagebreak | 60568 | [60568-cagebreak.json](./60568-cagebreak.json) |
 | Caged Bird Don't Fly Caught in a Wire Sing Like a Good Canary Come When Called | 122335 | [122335-caged-bird-dont-fly-caught-in-a-wire-sing-like-a-good-canary-come-when-called.json](./122335-caged-bird-dont-fly-caught-in-a-wire-sing-like-a-good-canary-come-when-called.json) |
@@ -864,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain's Big Day | 176259 | [176259-captains-big-day.json](./176259-captains-big-day.json) |
 | Captain's Call | 403130 | [403130-captains-call.json](./403130-captains-call.json) |
 | Captain's Room | 181130 | [181130-captains-room.json](./181130-captains-room.json) |
+| CaptchaWare | 389659 | [389659-captchaware.json](./389659-captchaware.json) |
 | Captive | 196698 | [196698-captive.json](./196698-captive.json) |
 | Captive Love Melty Holic | 416078 | [416078-captive-love-melty-holic.json](./416078-captive-love-melty-holic.json) |
 | CaptMeow | 385832 | [385832-captmeow.json](./385832-captmeow.json) |
@@ -1393,6 +1395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Case | 323550 | [323550-case.json](./323550-case.json) |
 | Case #8 | 18212 | [18212-case-8.json](./18212-case-8.json) |
 | Case 00: The Cannibal Boy | 150093 | [150093-case-00-the-cannibal-boy.json](./150093-case-00-the-cannibal-boy.json) |
+| Case 1963 | 389678 | [389678-case-1963.json](./389678-case-1963.json) |
 | Case 2: Animatronics Survival | 99300 | [99300-case-2-animatronics-survival.json](./99300-case-2-animatronics-survival.json) |
 | Case Blind: Stolen Route | 358283 | [358283-case-blind-stolen-route.json](./358283-case-blind-stolen-route.json) |
 | Case Clicker | 194565 | [194565-case-clicker.json](./194565-case-clicker.json) |
@@ -5750,6 +5753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Come on in! Succubus-san: I'll Have Your Semen Tonight, too Hungry Mere Squeezes Out Your Semen | 385838 | [385838-come-on-in-succubus-san-ill-have-your-semen-tonight-too-hungry-mere-squeezes-out-your-semen.json](./385838-come-on-in-succubus-san-ill-have-your-semen-tonight-too-hungry-mere-squeezes-out-your-semen.json) |
 | Come on Kitty | 214521 | [214521-come-on-kitty.json](./214521-come-on-kitty.json) |
 | Come on Picot | 47559 | [47559-come-on-picot.json](./47559-come-on-picot.json) |
+| Come Out Guys | 389680 | [389680-come-out-guys.json](./389680-come-out-guys.json) |
 | Come Out, Cat | 363947 | [363947-come-out-cat.json](./363947-come-out-cat.json) |
 | Come To Dust | 283730 | [283730-come-to-dust.json](./283730-come-to-dust.json) |
 | Come to Jesus | 179726 | [179726-come-to-jesus.json](./179726-come-to-jesus.json) |
