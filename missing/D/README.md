@@ -1612,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive 5: Last Round - Character: Mai Shiranui | 246628 | [246628-dead-or-alive-5-last-round-character-mai-shiranui.json](./246628-dead-or-alive-5-last-round-character-mai-shiranui.json) |
 | Dead or Alive 5: Last Round - Character: Naotora Ii | 246409 | [246409-dead-or-alive-5-last-round-character-naotora-ii.json](./246409-dead-or-alive-5-last-round-character-naotora-ii.json) |
 | Dead or Alive 5: Last Round - Core Fighters Character: Honoka | 275144 | [275144-dead-or-alive-5-last-round-core-fighters-character-honoka.json](./275144-dead-or-alive-5-last-round-core-fighters-character-honoka.json) |
+| Dead or Alive 6 Last Round | 389425 | [389425-dead-or-alive-6-last-round.json](./389425-dead-or-alive-6-last-round.json) |
 | Dead or Alive 6: Energy Up! Training Wear Set | 225904 | [225904-dead-or-alive-6-energy-up-training-wear-set.json](./225904-dead-or-alive-6-energy-up-training-wear-set.json) |
 | Dead or Alive 6: Nyotengu | 341667 | [341667-dead-or-alive-6-nyotengu.json](./341667-dead-or-alive-6-nyotengu.json) |
 | Dead or Alive New Project | 389426 | [389426-dead-or-alive-new-project.json](./389426-dead-or-alive-new-project.json) |
@@ -3271,6 +3272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroy All Cars | 337203 | [337203-destroy-all-cars.json](./337203-destroy-all-cars.json) |
 | Destroy All Humans! 2 | 2652 | [2652-destroy-all-humans-2.json](./2652-destroy-all-humans-2.json) |
 | Destroy All Humans! 2: Reprobed - Challenge Accepted | 220596 | [220596-destroy-all-humans-2-reprobed-challenge-accepted.json](./220596-destroy-all-humans-2-reprobed-challenge-accepted.json) |
+| Destroy All Humans! Big Willy Unleashed | 2716 | [2716-destroy-all-humans-big-willy-unleashed.json](./2716-destroy-all-humans-big-willy-unleashed.json) |
 | Destroy All Humans! Path of the Furon | 2717 | [2717-destroy-all-humans-path-of-the-furon.json](./2717-destroy-all-humans-path-of-the-furon.json) |
 | Destroy All Humans!: Clone Carnage | 203364 | [203364-destroy-all-humans-clone-carnage.json](./203364-destroy-all-humans-clone-carnage.json) |
 | Destroy All Letters | 312763 | [312763-destroy-all-letters.json](./312763-destroy-all-letters.json) |
@@ -6638,6 +6640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest VII Reimagined: White Wolf Costume | 375191 | [375191-dragon-quest-vii-reimagined-white-wolf-costume.json](./375191-dragon-quest-vii-reimagined-white-wolf-costume.json) |
 | Dragon Quest VIII: Journey of the Cursed King | 145528 | [145528-dragon-quest-viii-journey-of-the-cursed-king.json](./145528-dragon-quest-viii-journey-of-the-cursed-king.json) |
 | Dragon Quest VIII: Journey of the Cursed King | 205649 | [205649-dragon-quest-viii-journey-of-the-cursed-king.json](./205649-dragon-quest-viii-journey-of-the-cursed-king.json) |
+| Dragon Quest Wars | 1825 | [1825-dragon-quest-wars.json](./1825-dragon-quest-wars.json) |
 | Dragon Quest X Offline: Deluxe Edition | 174127 | [174127-dragon-quest-x-offline-deluxe-edition.json](./174127-dragon-quest-x-offline-deluxe-edition.json) |
 | Dragon Quest X: All In One Package | 44101 | [44101-dragon-quest-x-all-in-one-package.json](./44101-dragon-quest-x-all-in-one-package.json) |
 | Dragon Quest X: All In One Package - Versions 1-6 | 222408 | [222408-dragon-quest-x-all-in-one-package-versions-1-6.json](./222408-dragon-quest-x-all-in-one-package-versions-1-6.json) |
