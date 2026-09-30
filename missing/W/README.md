@@ -2289,6 +2289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Arms 3 | 1679 | [1679-wild-arms-3.json](./1679-wild-arms-3.json) |
 | Wild Arms 4 | 1681 | [1681-wild-arms-4.json](./1681-wild-arms-4.json) |
 | Wild Arms Alter Code: F | 1680 | [1680-wild-arms-alter-code-f.json](./1680-wild-arms-alter-code-f.json) |
+| Wild Bastards | 278602 | [278602-wild-bastards.json](./278602-wild-bastards.json) |
 | Wild Beyond | 124696 | [124696-wild-beyond.json](./124696-wild-beyond.json) |
 | Wild Buster: Heroes of Titan | 75152 | [75152-wild-buster-heroes-of-titan.json](./75152-wild-buster-heroes-of-titan.json) |
 | Wild Card | 37349 | [37349-wild-card.json](./37349-wild-card.json) |
