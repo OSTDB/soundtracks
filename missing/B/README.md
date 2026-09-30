@@ -6167,6 +6167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boti: Byteland Overclocked - Bit Racing | 327814 | [327814-boti-byteland-overclocked-bit-racing.json](./327814-boti-byteland-overclocked-bit-racing.json) |
 | Boti: Byteland Overclocked - Bitosaurus | 327813 | [327813-boti-byteland-overclocked-bitosaurus.json](./327813-boti-byteland-overclocked-bitosaurus.json) |
 | Botics | 14336 | [14336-botics.json](./14336-botics.json) |
+| Botlike: A Robot's Rampage | 53310 | [53310-botlike-a-robots-rampage.json](./53310-botlike-a-robots-rampage.json) |
 | BotMobile | 293111 | [293111-botmobile.json](./293111-botmobile.json) |
 | Boto Labo | 405052 | [405052-boto-labo.json](./405052-boto-labo.json) |
 | Botolo | 26572 | [26572-botolo.json](./26572-botolo.json) |
