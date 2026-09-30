@@ -3038,6 +3038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depression Presented Ludically in the Style of a Videogame | 342905 | [342905-depression-presented-ludically-in-the-style-of-a-videogame.json](./342905-depression-presented-ludically-in-the-style-of-a-videogame.json) |
 | Depression the Game | 103456 | [103456-depression-the-game.json](./103456-depression-the-game.json) |
 | Deprision | 325707 | [325707-deprision.json](./325707-deprision.json) |
+| Deprived | 390754 | [390754-deprived.json](./390754-deprived.json) |
 | Depth | 11291 | [11291-depth.json](./11291-depth.json) |
 | Depth Ascend | 311644 | [311644-depth-ascend.json](./311644-depth-ascend.json) |
 | Depth Charge | 282718 | [282718-depth-charge.json](./282718-depth-charge.json) |
@@ -3823,6 +3824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Make 10! | 314860 | [314860-dice-make-10.json](./314860-dice-make-10.json) |
 | Dice Mice | 184615 | [184615-dice-mice.json](./184615-dice-mice.json) |
 | Dice Nights | 414435 | [414435-dice-nights.json](./414435-dice-nights.json) |
+| Dice Odyssey | 390736 | [390736-dice-odyssey.json](./390736-dice-odyssey.json) |
 | Dice of Fate | 136867 | [136867-dice-of-fate.json](./136867-dice-of-fate.json) |
 | Dice of Kalma | 357258 | [357258-dice-of-kalma.json](./357258-dice-of-kalma.json) |
 | Dice of Knights | 166612 | [166612-dice-of-knights.json](./166612-dice-of-knights.json) |
