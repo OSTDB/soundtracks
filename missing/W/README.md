@@ -311,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanderlust Travel Stories | 120902 | [120902-wanderlust-travel-stories.json](./120902-wanderlust-travel-stories.json) |
 | Wanderlust: The Bermuda Secret | 187947 | [187947-wanderlust-the-bermuda-secret.json](./187947-wanderlust-the-bermuda-secret.json) |
 | Wanderlust: The Magnificent Journey | 346600 | [346600-wanderlust-the-magnificent-journey.json](./346600-wanderlust-the-magnificent-journey.json) |
+| Wanderlust: Transsiberian | 132503 | [132503-wanderlust-transsiberian.json](./132503-wanderlust-transsiberian.json) |
 | Wandness | 298158 | [298158-wandness.json](./298158-wandness.json) |
 | Wandrill | 348789 | [348789-wandrill.json](./348789-wandrill.json) |
 | Wands | 56982 | [56982-wands.json](./56982-wands.json) |
@@ -1256,6 +1257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Are Infinity | 283744 | [283744-we-are-infinity.json](./283744-we-are-infinity.json) |
 | We are Legion: Rome | 120916 | [120916-we-are-legion-rome.json](./120916-we-are-legion-rome.json) |
 | We Are Live | 157034 | [157034-we-are-live.json](./157034-we-are-live.json) |
+| We Are OFK | 152177 | [152177-we-are-ofk.json](./152177-we-are-ofk.json) |
 | We Are Out of Food, Milton. | 250323 | [250323-we-are-out-of-food-milton.json](./250323-we-are-out-of-food-milton.json) |
 | We Are Prophet | 400864 | [400864-we-are-prophet.json](./400864-we-are-prophet.json) |
 | We Are Sisters | 418704 | [418704-we-are-sisters.json](./418704-we-are-sisters.json) |
@@ -4065,6 +4067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrain | 302348 | [302348-wrain.json](./302348-wrain.json) |
 | Wraith | 125994 | [125994-wraith.json](./125994-wraith.json) |
 | Wraith VR | 187515 | [187515-wraith-vr.json](./187515-wraith-vr.json) |
+| Wraith: The Oblivion - Afterlife | 135110 | [135110-wraith-the-oblivion-afterlife.json](./135110-wraith-the-oblivion-afterlife.json) |
 | Wrangel Island | 220631 | [220631-wrangel-island.json](./220631-wrangel-island.json) |
 | Wrangle Ranch | 364700 | [364700-wrangle-ranch.json](./364700-wrangle-ranch.json) |
 | Wrangler | 94540 | [94540-wrangler.json](./94540-wrangler.json) |
@@ -4139,6 +4142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrestle Kingdom 2: Pro Wrestling Sekai Taisen | 44715 | [44715-wrestle-kingdom-2-pro-wrestling-sekai-taisen.json](./44715-wrestle-kingdom-2-pro-wrestling-sekai-taisen.json) |
 | Wrestle Story | 244509 | [244509-wrestle-story.json](./244509-wrestle-story.json) |
 | Wrestledunk Sports | 153361 | [153361-wrestledunk-sports.json](./153361-wrestledunk-sports.json) |
+| WrestleQuest | 194466 | [194466-wrestlequest.json](./194466-wrestlequest.json) |
 | Wrestler Rush | 302419 | [302419-wrestler-rush.json](./302419-wrestler-rush.json) |
 | Wrestlers Without Boundaries | 102356 | [102356-wrestlers-without-boundaries.json](./102356-wrestlers-without-boundaries.json) |
 | Wrestling Empire | 142449 | [142449-wrestling-empire.json](./142449-wrestling-empire.json) |
