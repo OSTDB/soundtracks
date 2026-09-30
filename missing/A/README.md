@@ -1516,6 +1516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aery: Peace of Mind 4 | 377272 | [377272-aery-peace-of-mind-4.json](./377272-aery-peace-of-mind-4.json) |
 | Aery: Stone Age | 283895 | [283895-aery-stone-age.json](./283895-aery-stone-age.json) |
 | Aery: Surreal World | 411807 | [411807-aery-surreal-world.json](./411807-aery-surreal-world.json) |
+| Aery: The King's Messenger | 393040 | [393040-aery-the-kings-messenger.json](./393040-aery-the-kings-messenger.json) |
 | Aery: Viking Saga | 364086 | [364086-aery-viking-saga.json](./364086-aery-viking-saga.json) |
 | Aeschylus: Death | 379564 | [379564-aeschylus-death.json](./379564-aeschylus-death.json) |
 | Aesculap OrthoPilot Elite VR Palpation | 57031 | [57031-aesculap-orthopilot-elite-vr-palpation.json](./57031-aesculap-orthopilot-elite-vr-palpation.json) |
@@ -2212,6 +2213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airship: Kingdoms Adrift | 231336 | [231336-airship-kingdoms-adrift.json](./231336-airship-kingdoms-adrift.json) |
 | Airships: Conquer the Skies | 35934 | [35934-airships-conquer-the-skies.json](./35934-airships-conquer-the-skies.json) |
 | Airships: Heroes and Villains | 244353 | [244353-airships-heroes-and-villains.json](./244353-airships-heroes-and-villains.json) |
+| Airsoft Allstars | 393023 | [393023-airsoft-allstars.json](./393023-airsoft-allstars.json) |
 | Airsoft Bomb | 102575 | [102575-airsoft-bomb.json](./102575-airsoft-bomb.json) |
 | Airsoft Range | 312192 | [312192-airsoft-range.json](./312192-airsoft-range.json) |
 | Airstrife: Assault of the Aviators | 143691 | [143691-airstrife-assault-of-the-aviators.json](./143691-airstrife-assault-of-the-aviators.json) |
@@ -6446,6 +6448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascent of Ashes | 226229 | [226229-ascent-of-ashes.json](./226229-ascent-of-ashes.json) |
 | Ascent of Eternity | 343427 | [343427-ascent-of-eternity.json](./343427-ascent-of-eternity.json) |
 | Ascent of Kings | 85506 | [85506-ascent-of-kings.json](./85506-ascent-of-kings.json) |
+| Ascent of the Last Colossus | 393010 | [393010-ascent-of-the-last-colossus.json](./393010-ascent-of-the-last-colossus.json) |
 | Ascent Quest | 264138 | [264138-ascent-quest.json](./264138-ascent-quest.json) |
 | Ascent: Rivals | 288339 | [288339-ascent-rivals.json](./288339-ascent-rivals.json) |
 | ASCII Game Series: Beginning | 334774 | [334774-ascii-game-series-beginning.json](./334774-ascii-game-series-beginning.json) |
