@@ -8439,6 +8439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Twilight Witch | 287709 | [287709-the-twilight-witch.json](./287709-the-twilight-witch.json) |
 | The Twilight Zone | 12804 | [12804-the-twilight-zone.json](./12804-the-twilight-zone.json) |
 | The Twilight Zone II: Final Dreams | 274008 | [274008-the-twilight-zone-ii-final-dreams.json](./274008-the-twilight-zone-ii-final-dreams.json) |
+| The Twins | 128337 | [128337-the-twins.json](./128337-the-twins.json) |
 | The Twisted Dream | 323354 | [323354-the-twisted-dream.json](./323354-the-twisted-dream.json) |
 | The Twisting Trail of Clues | 295524 | [295524-the-twisting-trail-of-clues.json](./295524-the-twisting-trail-of-clues.json) |
 | The Two Body Problem | 411725 | [411725-the-two-body-problem.json](./411725-the-two-body-problem.json) |
@@ -11562,6 +11563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six Extraction | 119262 | [119262-tom-clancys-rainbow-six-extraction.json](./119262-tom-clancys-rainbow-six-extraction.json) |
 | Tom Clancy's Rainbow Six Extraction: Deluxe Edition | 152335 | [152335-tom-clancys-rainbow-six-extraction-deluxe-edition.json](./152335-tom-clancys-rainbow-six-extraction-deluxe-edition.json) |
 | Tom Clancy's Rainbow Six Extraction: Limited Edition | 152336 | [152336-tom-clancys-rainbow-six-extraction-limited-edition.json](./152336-tom-clancys-rainbow-six-extraction-limited-edition.json) |
+| Tom Clancy's Rainbow Six Mission Pack: Eagle Watch | 1841 | [1841-tom-clancys-rainbow-six-mission-pack-eagle-watch.json](./1841-tom-clancys-rainbow-six-mission-pack-eagle-watch.json) |
 | Tom Clancy's Rainbow Six Siege X | 349484 | [349484-tom-clancys-rainbow-six-siege-x.json](./349484-tom-clancys-rainbow-six-siege-x.json) |
 | Tom Clancy's Rainbow Six Siege: Complete Edition | 53820 | [53820-tom-clancys-rainbow-six-siege-complete-edition.json](./53820-tom-clancys-rainbow-six-siege-complete-edition.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Blood Orchid | 55167 | [55167-tom-clancys-rainbow-six-siege-operation-blood-orchid.json](./55167-tom-clancys-rainbow-six-siege-operation-blood-orchid.json) |
@@ -11576,6 +11578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six Siege: Operator Edition | 146125 | [146125-tom-clancys-rainbow-six-siege-operator-edition.json](./146125-tom-clancys-rainbow-six-siege-operator-edition.json) |
 | Tom Clancy's Rainbow Six Siege: Year 2 HK SDU Special Edition | 167157 | [167157-tom-clancys-rainbow-six-siege-year-2-hk-sdu-special-edition.json](./167157-tom-clancys-rainbow-six-siege-year-2-hk-sdu-special-edition.json) |
 | Tom Clancy's Rainbow Six Siege: Year 3 Advanced Edition | 167162 | [167162-tom-clancys-rainbow-six-siege-year-3-advanced-edition.json](./167162-tom-clancys-rainbow-six-siege-year-3-advanced-edition.json) |
+| Tom Clancy's Rainbow Six: Rogue Spear - Black Thorn | 1846 | [1846-tom-clancys-rainbow-six-rogue-spear-black-thorn.json](./1846-tom-clancys-rainbow-six-rogue-spear-black-thorn.json) |
 | Tom Clancy's Rainbow Six: Vegas | 314292 | [314292-tom-clancys-rainbow-six-vegas.json](./314292-tom-clancys-rainbow-six-vegas.json) |
 | Tom Clancy's Rainbow Six: Vegas 2 / Tom Clancy's Ghost Recon: Advanced Warfighter 2 | 130809 | [130809-tom-clancys-rainbow-six-vegas-2-tom-clancys-ghost-recon-advanced-warfighter-2.json](./130809-tom-clancys-rainbow-six-vegas-2-tom-clancys-ghost-recon-advanced-warfighter-2.json) |
 | Tom Clancy's Rainbow Six: Vegas Collection | 295251 | [295251-tom-clancys-rainbow-six-vegas-collection.json](./295251-tom-clancys-rainbow-six-vegas-collection.json) |
