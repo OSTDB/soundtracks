@@ -311,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backstage: Murdered Sleep | 297777 | [297777-backstage-murdered-sleep.json](./297777-backstage-murdered-sleep.json) |
 | Backstory | 406102 | [406102-backstory.json](./406102-backstory.json) |
 | Backstreet Billiards | 94359 | [94359-backstreet-billiards.json](./94359-backstreet-billiards.json) |
+| Backtrace: Mechanisms for Forgetting | 419849 | [419849-backtrace-mechanisms-for-forgetting.json](./419849-backtrace-mechanisms-for-forgetting.json) |
 | Backward Poiesis | 297776 | [297776-backward-poiesis.json](./297776-backward-poiesis.json) |
 | Backwards | 179176 | [179176-backwards.json](./179176-backwards.json) |
 | Backwards Mario World | 215150 | [215150-backwards-mario-world.json](./215150-backwards-mario-world.json) |
@@ -7459,6 +7460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Battle | 333378 | [333378-bubble-battle.json](./333378-bubble-battle.json) |
 | Bubble Bird | 250395 | [250395-bubble-bird.json](./250395-bubble-bird.json) |
 | Bubble Blobb | 386703 | [386703-bubble-blobb.json](./386703-bubble-blobb.json) |
+| Bubble Blow | 419835 | [419835-bubble-blow.json](./419835-bubble-blow.json) |
 | Bubble Blowout | 25704 | [25704-bubble-blowout.json](./25704-bubble-blowout.json) |
 | Bubble Bobble | 194439 | [194439-bubble-bobble.json](./194439-bubble-bobble.json) |
 | Bubble Bobble | 194442 | [194442-bubble-bobble.json](./194442-bubble-bobble.json) |
