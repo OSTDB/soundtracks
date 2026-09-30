@@ -1751,6 +1751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opus Collection: The Day We Found Earth + Rocket of Whispers | 111912 | [111912-opus-collection-the-day-we-found-earth-rocket-of-whispers.json](./111912-opus-collection-the-day-we-found-earth-rocket-of-whispers.json) |
 | Opus Ludum | 169379 | [169379-opus-ludum.json](./169379-opus-ludum.json) |
 | Opus Magnum | 74545 | [74545-opus-magnum.json](./74545-opus-magnum.json) |
+| Opus Magnum: De Re Metallica | 391819 | [391819-opus-magnum-de-re-metallica.json](./391819-opus-magnum-de-re-metallica.json) |
 | Opus: Collector's Edition | 186904 | [186904-opus-collectors-edition.json](./186904-opus-collectors-edition.json) |
 | Opus: Rocket of Whispers | 77569 | [77569-opus-rocket-of-whispers.json](./77569-opus-rocket-of-whispers.json) |
 | Oquonie | 60514 | [60514-oquonie.json](./60514-oquonie.json) |
