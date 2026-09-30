@@ -2922,6 +2922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Littlest Pet Shop: City Friends | 48022 | [48022-littlest-pet-shop-city-friends.json](./48022-littlest-pet-shop-city-friends.json) |
 | Littlest Pet Shop: Country Friends | 48021 | [48021-littlest-pet-shop-country-friends.json](./48021-littlest-pet-shop-country-friends.json) |
 | Littlest Pet Shop: Spring | 68040 | [68040-littlest-pet-shop-spring.json](./68040-littlest-pet-shop-spring.json) |
+| Littlest Pet Shop: Winter | 47908 | [47908-littlest-pet-shop-winter.json](./47908-littlest-pet-shop-winter.json) |
 | LittleWarGame | 9625 | [9625-littlewargame.json](./9625-littlewargame.json) |
 | Littlewitch Parfait: Kuroneko Mahouten Monogatari | 56559 | [56559-littlewitch-parfait-kuroneko-mahouten-monogatari.json](./56559-littlewitch-parfait-kuroneko-mahouten-monogatari.json) |
 | Littlewitch Romanesque: Editio Regia | 35757 | [35757-littlewitch-romanesque-editio-regia.json](./35757-littlewitch-romanesque-editio-regia.json) |
