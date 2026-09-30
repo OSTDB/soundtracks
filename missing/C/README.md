@@ -1390,6 +1390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casino Clicker: Vegas Style | 373221 | [373221-casino-clicker-vegas-style.json](./373221-casino-clicker-vegas-style.json) |
 | Casino Conqueror | 273376 | [273376-casino-conqueror.json](./273376-casino-conqueror.json) |
 | Casino De Pink | 41372 | [41372-casino-de-pink.json](./41372-casino-de-pink.json) |
+| Casino FunPak | 117931 | [117931-casino-funpak.json](./117931-casino-funpak.json) |
 | Casino Inc: The Management | 70951 | [70951-casino-inc-the-management.json](./70951-casino-inc-the-management.json) |
 | Casino Kid II | 48101 | [48101-casino-kid-ii.json](./48101-casino-kid-ii.json) |
 | Casino Mogul | 73759 | [73759-casino-mogul.json](./73759-casino-mogul.json) |
@@ -3317,6 +3318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chipmatic | 355037 | [355037-chipmatic.json](./355037-chipmatic.json) |
 | Chipmonk! | 114947 | [114947-chipmonk.json](./114947-chipmonk.json) |
 | Chipper & Sons Lumber Co. | 59984 | [59984-chipper-and-sons-lumber-co.json](./59984-chipper-and-sons-lumber-co.json) |
+| Chippy | 117217 | [117217-chippy.json](./117217-chippy.json) |
 | Chippy & Noppo | 240228 | [240228-chippy-and-noppo.json](./240228-chippy-and-noppo.json) |
 | Chiptune DJ | 106409 | [106409-chiptune-dj.json](./106409-chiptune-dj.json) |
 | Chiptune Runner | 52741 | [52741-chiptune-runner.json](./52741-chiptune-runner.json) |
@@ -7698,6 +7700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Faith | 376477 | [376477-crimson-faith.json](./376477-crimson-faith.json) |
 | Crimson Frontier | 335864 | [335864-crimson-frontier.json](./335864-crimson-frontier.json) |
 | Crimson Furnace | 381626 | [381626-crimson-furnace.json](./381626-crimson-furnace.json) |
+| Crimson Gray: Dusk and Dawn | 105368 | [105368-crimson-gray-dusk-and-dawn.json](./105368-crimson-gray-dusk-and-dawn.json) |
 | Crimson Hills | 29067 | [29067-crimson-hills.json](./29067-crimson-hills.json) |
 | Crimson Horror | 374624 | [374624-crimson-horror.json](./374624-crimson-horror.json) |
 | Crimson Hotel | 121645 | [121645-crimson-hotel.json](./121645-crimson-hotel.json) |
