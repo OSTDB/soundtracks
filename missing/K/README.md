@@ -247,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamen Rider Ghost: Game de Kaigan!! | 59464 | [59464-kamen-rider-ghost-game-de-kaigan.json](./59464-kamen-rider-ghost-game-de-kaigan.json) |
 | Kamen Rider Kabuto | 91886 | [91886-kamen-rider-kabuto.json](./91886-kamen-rider-kabuto.json) |
 | Kamen Rider Kuuga | 43863 | [43863-kamen-rider-kuuga.json](./43863-kamen-rider-kuuga.json) |
+| Kamen Rider Ryuki | 44858 | [44858-kamen-rider-ryuki.json](./44858-kamen-rider-ryuki.json) |
 | Kamen Rider V3 | 43862 | [43862-kamen-rider-v3.json](./43862-kamen-rider-v3.json) |
 | Kamen Rider: Battride War | 63358 | [63358-kamen-rider-battride-war.json](./63358-kamen-rider-battride-war.json) |
 | Kamen Rider: Battride War II | 62184 | [62184-kamen-rider-battride-war-ii.json](./62184-kamen-rider-battride-war-ii.json) |
@@ -787,6 +788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ken Griffey Jr. Presents Major League Baseball | 299308 | [299308-ken-griffey-jr-presents-major-league-baseball.json](./299308-ken-griffey-jr-presents-major-league-baseball.json) |
 | Ken Griffey Jr.'s Horrible Tower | 382786 | [382786-ken-griffey-jr-s-horrible-tower.json](./382786-ken-griffey-jr-s-horrible-tower.json) |
 | Ken Griffey Jr.'s Slugfest | 3531 | [3531-ken-griffey-jr-s-slugfest.json](./3531-ken-griffey-jr-s-slugfest.json) |
+| Ken Griffey Jr.'s Winning Run | 42507 | [42507-ken-griffey-jr-s-winning-run.json](./42507-ken-griffey-jr-s-winning-run.json) |
 | Ken to Mahou to Gakuen Mono: Anniversary Edition | 96495 | [96495-ken-to-mahou-to-gakuen-mono-anniversary-edition.json](./96495-ken-to-mahou-to-gakuen-mono-anniversary-edition.json) |
 | Ken to Mahou to Gakuen Mono. 3 | 44582 | [44582-ken-to-mahou-to-gakuen-mono-3.json](./44582-ken-to-mahou-to-gakuen-mono-3.json) |
 | Ken to Mahou to Gakuen Mono. Final: Shinnyusei wa Ohimesama! | 63896 | [63896-ken-to-mahou-to-gakuen-mono-final-shinnyusei-wa-ohimesama.json](./63896-ken-to-mahou-to-gakuen-mono-final-shinnyusei-wa-ohimesama.json) |
