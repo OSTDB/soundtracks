@@ -2659,6 +2659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Missions: The Amazing Arcade Adventure Grades 3-5 | 209545 | [209545-math-missions-the-amazing-arcade-adventure-grades-3-5.json](./209545-math-missions-the-amazing-arcade-adventure-grades-3-5.json) |
 | Math Missions: The Race to Spectacle City Arcade K-2 | 209544 | [209544-math-missions-the-race-to-spectacle-city-arcade-k-2.json](./209544-math-missions-the-race-to-spectacle-city-arcade-k-2.json) |
 | Math Munchers Deluxe | 57659 | [57659-math-munchers-deluxe.json](./57659-math-munchers-deluxe.json) |
+| Math Pals: Monster Mania | 420695 | [420695-math-pals-monster-mania.json](./420695-math-pals-monster-mania.json) |
 | Math Parkour | 241513 | [241513-math-parkour.json](./241513-math-parkour.json) |
 | Math Path | 391042 | [391042-math-path.json](./391042-math-path.json) |
 | Math Patrol: The Kleptoid Threat | 49475 | [49475-math-patrol-the-kleptoid-threat.json](./49475-math-patrol-the-kleptoid-threat.json) |
@@ -9379,6 +9380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Magic Florist | 146773 | [146773-my-magic-florist.json](./146773-my-magic-florist.json) |
 | My Magical Demon Lover | 109628 | [109628-my-magical-demon-lover.json](./109628-my-magical-demon-lover.json) |
 | My Make-Up | 93985 | [93985-my-make-up.json](./93985-my-make-up.json) |
+| My Mart | 420668 | [420668-my-mart.json](./420668-my-mart.json) |
 | My Mates | 346244 | [346244-my-mates.json](./346244-my-mates.json) |
 | My Melody Angel Book: Denshi Techou & Enjoy Game | 196254 | [196254-my-melody-angel-book-denshi-techou-and-enjoy-game.json](./196254-my-melody-angel-book-denshi-techou-and-enjoy-game.json) |
 | My Mermaid Girlfriend | 208366 | [208366-my-mermaid-girlfriend.json](./208366-my-mermaid-girlfriend.json) |
@@ -9468,6 +9470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Service Area | 212476 | [212476-my-service-area.json](./212476-my-service-area.json) |
 | My Sexual Hospitalization | 215890 | [215890-my-sexual-hospitalization.json](./215890-my-sexual-hospitalization.json) |
 | My Sexy Anthro: Fluttertime! | 273944 | [273944-my-sexy-anthro-fluttertime.json](./273944-my-sexy-anthro-fluttertime.json) |
+| My Sexy Boss: Office Romance Boys | 420667 | [420667-my-sexy-boss-office-romance-boys.json](./420667-my-sexy-boss-office-romance-boys.json) |
 | My Sexy Fairies | 415161 | [415161-my-sexy-fairies.json](./415161-my-sexy-fairies.json) |
 | My Sexy Neighbor | 291061 | [291061-my-sexy-neighbor.json](./291061-my-sexy-neighbor.json) |
 | My Sexy Waitress | 155548 | [155548-my-sexy-waitress.json](./155548-my-sexy-waitress.json) |
