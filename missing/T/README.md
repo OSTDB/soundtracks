@@ -1949,6 +1949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Cup | 123005 | [123005-tennis-cup.json](./123005-tennis-cup.json) |
 | Tennis Elbow | 197896 | [197896-tennis-elbow.json](./197896-tennis-elbow.json) |
 | Tennis Elbow 2013 | 35830 | [35830-tennis-elbow-2013.json](./35830-tennis-elbow-2013.json) |
+| Tennis Elbow Manager 2 | 99576 | [99576-tennis-elbow-manager-2.json](./99576-tennis-elbow-manager-2.json) |
 | Tennis Esports | 280871 | [280871-tennis-esports.json](./280871-tennis-esports.json) |
 | Tennis Game in Roaring ’20s | 248064 | [248064-tennis-game-in-roaring-20s.json](./248064-tennis-game-in-roaring-20s.json) |
 | Tennis In Hell | 250991 | [250991-tennis-in-hell.json](./250991-tennis-in-hell.json) |
@@ -2937,6 +2938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Battle Cats POP! | 19898 | [19898-the-battle-cats-pop.json](./19898-the-battle-cats-pop.json) |
 | The Battle for Christmas | 326210 | [326210-the-battle-for-christmas.json](./326210-the-battle-for-christmas.json) |
 | The Battle for Sector 219 | 33184 | [33184-the-battle-for-sector-219.json](./33184-the-battle-for-sector-219.json) |
+| The Battle for the Hut | 99671 | [99671-the-battle-for-the-hut.json](./99671-the-battle-for-the-hut.json) |
 | The Battle of Angels | 156603 | [156603-the-battle-of-angels.json](./156603-the-battle-of-angels.json) |
 | The Battle of Aurinoxia | 304368 | [304368-the-battle-of-aurinoxia.json](./304368-the-battle-of-aurinoxia.json) |
 | The Battle of Embers | 287206 | [287206-the-battle-of-embers.json](./287206-the-battle-of-embers.json) |
@@ -11129,6 +11131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TitTok 2 | 173222 | [173222-tittok-2.json](./173222-tittok-2.json) |
 | TitTok 3 | 202124 | [202124-tittok-3.json](./202124-tittok-3.json) |
 | TitTok Kitty: Pussy | 235183 | [235183-tittok-kitty-pussy.json](./235183-tittok-kitty-pussy.json) |
+| Titty Crush | 99701 | [99701-titty-crush.json](./99701-titty-crush.json) |
 | Titty World | 334675 | [334675-titty-world.json](./334675-titty-world.json) |
 | Titus the Fox | 65798 | [65798-titus-the-fox.json](./65798-titus-the-fox.json) |
 | Tivits: Math Game | 108967 | [108967-tivits-math-game.json](./108967-tivits-math-game.json) |
@@ -12086,6 +12089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tortuga: A Pirate's Tale | 214399 | [214399-tortuga-a-pirates-tale.json](./214399-tortuga-a-pirates-tale.json) |
 | Torture | 268464 | [268464-torture.json](./268464-torture.json) |
 | Torture | 276458 | [276458-torture.json](./276458-torture.json) |
+| Torture Chamber | 99673 | [99673-torture-chamber.json](./99673-torture-chamber.json) |
 | Tortured Souls | 293224 | [293224-tortured-souls.json](./293224-tortured-souls.json) |
 | Torus | 214725 | [214725-torus.json](./214725-torus.json) |
 | Torus Zero: Dare ga Neko wo Koroshita ka | 340384 | [340384-torus-zero-dare-ga-neko-wo-koroshita-ka.json](./340384-torus-zero-dare-ga-neko-wo-koroshita-ka.json) |
@@ -14415,6 +14419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Vault: Mixed Trivia | 52779 | [52779-trivia-vault-mixed-trivia.json](./52779-trivia-vault-mixed-trivia.json) |
 | Trivia Vault: Movie Trivia | 99663 | [99663-trivia-vault-movie-trivia.json](./99663-trivia-vault-movie-trivia.json) |
 | Trivia Vault: Music Trivia | 104219 | [104219-trivia-vault-music-trivia.json](./104219-trivia-vault-music-trivia.json) |
+| Trivia Vault: Soccer Trivia | 99432 | [99432-trivia-vault-soccer-trivia.json](./99432-trivia-vault-soccer-trivia.json) |
 | Trivia Vault: Toy Trivia | 101614 | [101614-trivia-vault-toy-trivia.json](./101614-trivia-vault-toy-trivia.json) |
 | Trivia Vault: TV Trivia | 100150 | [100150-trivia-vault-tv-trivia.json](./100150-trivia-vault-tv-trivia.json) |
 | Trivia Vault: Video Game Trivia Deluxe | 74339 | [74339-trivia-vault-video-game-trivia-deluxe.json](./74339-trivia-vault-video-game-trivia-deluxe.json) |
@@ -15303,6 +15308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted! | 95382 | [95382-twisted.json](./95382-twisted.json) |
 | Twistedland VR | 160132 | [160132-twistedland-vr.json](./160132-twistedland-vr.json) |
 | Twister | 91394 | [91394-twister.json](./91394-twister.json) |
+| Twister - Best Ride Simulators | 96804 | [96804-twister-best-ride-simulators.json](./96804-twister-best-ride-simulators.json) |
 | Twister Mania | 20216 | [20216-twister-mania.json](./20216-twister-mania.json) |
 | Twister Road | 125251 | [125251-twister-road.json](./125251-twister-road.json) |
 | Twistingo | 206061 | [206061-twistingo.json](./206061-twistingo.json) |
