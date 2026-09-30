@@ -733,6 +733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papair | 57148 | [57148-papair.json](./57148-papair.json) |
 | Papao: The Legend of the Bogeyman | 372544 | [372544-papao-the-legend-of-the-bogeyman.json](./372544-papao-the-legend-of-the-bogeyman.json) |
 | Paparazzi | 379586 | [379586-paparazzi.json](./379586-paparazzi.json) |
+| Papaya Plaza | 403774 | [403774-papaya-plaza.json](./403774-papaya-plaza.json) |
 | Pape Rangers | 294131 | [294131-pape-rangers.json](./294131-pape-rangers.json) |
 | Paper 2: Origami Refolded | 333641 | [333641-paper-2-origami-refolded.json](./333641-paper-2-origami-refolded.json) |
 | Paper Airplane Flying Game | 414452 | [414452-paper-airplane-flying-game.json](./414452-paper-airplane-flying-game.json) |
@@ -843,6 +844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papercut Art Gallery: Nature | 292854 | [292854-papercut-art-gallery-nature.json](./292854-papercut-art-gallery-nature.json) |
 | Paperhead Ep. 0 | 321587 | [321587-paperhead-ep-0.json](./321587-paperhead-ep-0.json) |
 | PaperKlay | 204531 | [204531-paperklay.json](./204531-paperklay.json) |
+| Paperly | 403748 | [403748-paperly.json](./403748-paperly.json) |
 | Paperly: Paper Plane Adventure | 194040 | [194040-paperly-paper-plane-adventure.json](./194040-paperly-paper-plane-adventure.json) |
 | Paperman | 385577 | [385577-paperman.json](./385577-paperman.json) |
 | PaperPlanets | 106612 | [106612-paperplanets.json](./106612-paperplanets.json) |
@@ -4636,6 +4638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plumber Game: Water Pipe Line Connecting | 96002 | [96002-plumber-game-water-pipe-line-connecting.json](./96002-plumber-game-water-pipe-line-connecting.json) |
 | Plumber No More | 184109 | [184109-plumber-no-more.json](./184109-plumber-no-more.json) |
 | Plumber Waluigi | 323352 | [323352-plumber-waluigi.json](./323352-plumber-waluigi.json) |
+| Plumber World | 403752 | [403752-plumber-world.json](./403752-plumber-world.json) |
 | Plumbers Creed | 178667 | [178667-plumbers-creed.json](./178667-plumbers-creed.json) |
 | Plumbers Don't Wear Ties | 4251 | [4251-plumbers-dont-wear-ties.json](./4251-plumbers-dont-wear-ties.json) |
 | Plumbers Don't Wear Ties: But They Do Carry Shotguns | 271316 | [271316-plumbers-dont-wear-ties-but-they-do-carry-shotguns.json](./271316-plumbers-dont-wear-ties-but-they-do-carry-shotguns.json) |
