@@ -4444,6 +4444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shred BackCountry | 174268 | [174268-shred-backcountry.json](./174268-shred-backcountry.json) |
 | Shred Off | 331955 | [331955-shred-off.json](./331955-shred-off.json) |
 | Shred-A-Bunch! | 248030 | [248030-shred-a-bunch.json](./248030-shred-a-bunch.json) |
+| Shred! | 34974 | [34974-shred.json](./34974-shred.json) |
 | Shred! 2 - ft Sam Pilgrim | 104447 | [104447-shred-2-ft-sam-pilgrim.json](./104447-shred-2-ft-sam-pilgrim.json) |
 | Shred! Remastered | 207278 | [207278-shred-remastered.json](./207278-shred-remastered.json) |
 | Shred! Remastered + Shred! 2 Bundle | 325013 | [325013-shred-remastered-shred-2-bundle.json](./325013-shred-remastered-shred-2-bundle.json) |
@@ -5429,6 +5430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six Seals | 384533 | [384533-six-seals.json](./384533-six-seals.json) |
 | Six Shots | 176796 | [176796-six-shots.json](./176796-six-shots.json) |
 | Six Sided Sanctuary | 128390 | [128390-six-sided-sanctuary.json](./128390-six-sided-sanctuary.json) |
+| Six Sides of the World | 34930 | [34930-six-sides-of-the-world.json](./34930-six-sides-of-the-world.json) |
 | Six Sides of the World Enhanced | 147980 | [147980-six-sides-of-the-world-enhanced.json](./147980-six-sides-of-the-world-enhanced.json) |
 | Six textures | 271297 | [271297-six-textures.json](./271297-six-textures.json) |
 | Six Textures #3 | 321123 | [321123-six-textures-3.json](./321123-six-textures-3.json) |
@@ -7444,6 +7446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sol Sestancia | 310592 | [310592-sol-sestancia.json](./310592-sol-sestancia.json) |
 | Sol Source Online | 26718 | [26718-sol-source-online.json](./26718-sol-source-online.json) |
 | Sol Standard | 184412 | [184412-sol-standard.json](./184412-sol-standard.json) |
+| Sol Trader | 34611 | [34611-sol-trader.json](./34611-sol-trader.json) |
 | Sol Trigger | 38467 | [38467-sol-trigger.json](./38467-sol-trigger.json) |
 | Sol Wars | 105556 | [105556-sol-wars.json](./105556-sol-wars.json) |
 | Sol-Rui: After Mini | 331104 | [331104-sol-rui-after-mini.json](./331104-sol-rui-after-mini.json) |
@@ -9347,6 +9350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacecats with Lasers VR | 30262 | [30262-spacecats-with-lasers-vr.json](./30262-spacecats-with-lasers-vr.json) |
 | SpaceColorsRunner | 123446 | [123446-spacecolorsrunner.json](./123446-spacecolorsrunner.json) |
 | SpaceCombat | 94862 | [94862-spacecombat.json](./94862-spacecombat.json) |
+| SpaceCorn | 35000 | [35000-spacecorn.json](./35000-spacecorn.json) |
 | SpaceCorp: 2025-2300AD | 352297 | [352297-spacecorp-2025-2300ad.json](./352297-spacecorp-2025-2300ad.json) |
 | Spacecraft Tactics | 274038 | [274038-spacecraft-tactics.json](./274038-spacecraft-tactics.json) |
 | Spacecraft War | 109879 | [109879-spacecraft-war.json](./109879-spacecraft-war.json) |
@@ -10960,6 +10964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Chef: Cooking Game | 105517 | [105517-star-chef-cooking-game.json](./105517-star-chef-cooking-game.json) |
 | Star Child | 37090 | [37090-star-child.json](./37090-star-child.json) |
 | Star Chindy | 175420 | [175420-star-chindy.json](./175420-star-chindy.json) |
+| Star Chronicles: Delta Quadrant | 34953 | [34953-star-chronicles-delta-quadrant.json](./34953-star-chronicles-delta-quadrant.json) |
 | Star Clash | 88463 | [88463-star-clash.json](./88463-star-clash.json) |
 | Star Climber | 317455 | [317455-star-climber.json](./317455-star-climber.json) |
 | Star Command | 10258 | [10258-star-command.json](./10258-star-command.json) |
@@ -14273,6 +14278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dungeon Boy 2 | 86576 | [86576-super-dungeon-boy-2.json](./86576-super-dungeon-boy-2.json) |
 | Super Dungeon Bros Mega Bundle Pack | 82413 | [82413-super-dungeon-bros-mega-bundle-pack.json](./82413-super-dungeon-bros-mega-bundle-pack.json) |
 | Super Dungeon Muncher | 311602 | [311602-super-dungeon-muncher.json](./311602-super-dungeon-muncher.json) |
+| Super Dungeon Run | 34942 | [34942-super-dungeon-run.json](./34942-super-dungeon-run.json) |
 | Super Dunkman | 134700 | [134700-super-dunkman.json](./134700-super-dunkman.json) |
 | Super Duper Flying Genocide 2017 | 34004 | [34004-super-duper-flying-genocide-2017.json](./34004-super-duper-flying-genocide-2017.json) |
 | Super Duper Party Pooper | 19680 | [19680-super-duper-party-pooper.json](./19680-super-duper-party-pooper.json) |
