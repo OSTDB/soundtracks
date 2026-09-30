@@ -162,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wales Interactive VR Bundle | 119086 | [119086-wales-interactive-vr-bundle.json](./119086-wales-interactive-vr-bundle.json) |
 | Walfie's Nonograms | 389599 | [389599-walfies-nonograms.json](./389599-walfies-nonograms.json) |
 | Waligie 3: On Mars | 318032 | [318032-waligie-3-on-mars.json](./318032-waligie-3-on-mars.json) |
+| Walk Around And Do Nothing | 392358 | [392358-walk-around-and-do-nothing.json](./392358-walk-around-and-do-nothing.json) |
 | Walk Around the World | 414532 | [414532-walk-around-the-world.json](./414532-walk-around-the-world.json) |
 | Walk Home | 183069 | [183069-walk-home.json](./183069-walk-home.json) |
 | Walk in the Rain | 185092 | [185092-walk-in-the-rain.json](./185092-walk-in-the-rain.json) |
@@ -1887,6 +1888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When I Said "It's Ok To Be Cringe" I Didn't Mean Like That | 300677 | [300677-when-i-said-its-ok-to-be-cringe-i-didnt-mean-like-that.json](./300677-when-i-said-its-ok-to-be-cringe-i-didnt-mean-like-that.json) |
 | When I was a boycow | 178675 | [178675-when-i-was-a-boycow.json](./178675-when-i-was-a-boycow.json) |
 | When I Was Young | 117549 | [117549-when-i-was-young.json](./117549-when-i-was-young.json) |
+| When I’m Not Drawing | 392405 | [392405-when-i-m-not-drawing.json](./392405-when-i-m-not-drawing.json) |
 | When in Rome 1: Accounting for Taste | 216340 | [216340-when-in-rome-1-accounting-for-taste.json](./216340-when-in-rome-1-accounting-for-taste.json) |
 | When It Hits the Fan | 56593 | [56593-when-it-hits-the-fan.json](./56593-when-it-hits-the-fan.json) |
 | When It Rains | 397045 | [397045-when-it-rains.json](./397045-when-it-rains.json) |
