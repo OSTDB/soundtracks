@@ -158,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ukosz | 319181 | [319181-ukosz.json](./319181-ukosz.json) |
 | Ukraina Battle Tank!: Putin Edition | 207372 | [207372-ukraina-battle-tank-putin-edition.json](./207372-ukraina-battle-tank-putin-edition.json) |
 | Ukraine War 2022 | 287734 | [287734-ukraine-war-2022.json](./287734-ukraine-war-2022.json) |
+| Ukrainian ball in search of gas | 91409 | [91409-ukrainian-ball-in-search-of-gas.json](./91409-ukrainian-ball-in-search-of-gas.json) |
 | Uktena | 150596 | [150596-uktena.json](./150596-uktena.json) |
 | Uktena 64 | 392159 | [392159-uktena-64.json](./392159-uktena-64.json) |
 | UldreVoid | 133206 | [133206-uldrevoid.json](./133206-uldrevoid.json) |
