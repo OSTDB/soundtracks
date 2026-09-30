@@ -352,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo Night: Beyond | 9515 | [9515-echo-night-beyond.json](./9515-echo-night-beyond.json) |
 | Echo Night: The First Voyage | 213604 | [213604-echo-night-the-first-voyage.json](./213604-echo-night-the-first-voyage.json) |
 | Echo of Extinction | 274039 | [274039-echo-of-extinction.json](./274039-echo-of-extinction.json) |
+| Echo of Humanity | 390723 | [390723-echo-of-humanity.json](./390723-echo-of-humanity.json) |
 | Echo of Mobius | 303509 | [303509-echo-of-mobius.json](./303509-echo-of-mobius.json) |
 | Echo of Prypiat | 303508 | [303508-echo-of-prypiat.json](./303508-echo-of-prypiat.json) |
 | Echo of the Last Light | 226812 | [226812-echo-of-the-last-light.json](./226812-echo-of-the-last-light.json) |
@@ -405,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Nara | 348321 | [348321-echoes-of-nara.json](./348321-echoes-of-nara.json) |
 | Echoes of Nocturnal Chords | 284335 | [284335-echoes-of-nocturnal-chords.json](./284335-echoes-of-nocturnal-chords.json) |
 | Echoes of Nothing | 359059 | [359059-echoes-of-nothing.json](./359059-echoes-of-nothing.json) |
+| Echoes of Pinebridge | 390719 | [390719-echoes-of-pinebridge.json](./390719-echoes-of-pinebridge.json) |
 | Echoes of Sin: Confusion | 400239 | [400239-echoes-of-sin-confusion.json](./400239-echoes-of-sin-confusion.json) |
 | Echoes of Somewhere: Series 1 | 240801 | [240801-echoes-of-somewhere-series-1.json](./240801-echoes-of-somewhere-series-1.json) |
 | Echoes of Steel | 277851 | [277851-echoes-of-steel.json](./277851-echoes-of-steel.json) |
@@ -553,6 +555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge of Atlantis | 28946 | [28946-edge-of-atlantis.json](./28946-edge-of-atlantis.json) |
 | Edge of Dawn | 135799 | [135799-edge-of-dawn.json](./135799-edge-of-dawn.json) |
 | Edge of Dead: Under a Uranium Sky | 150597 | [150597-edge-of-dead-under-a-uranium-sky.json](./150597-edge-of-dead-under-a-uranium-sky.json) |
+| Edge of Destruction | 390741 | [390741-edge-of-destruction.json](./390741-edge-of-destruction.json) |
 | Edge Of Dread | 388723 | [388723-edge-of-dread.json](./388723-edge-of-dread.json) |
 | Edge of Elsewhere | 168661 | [168661-edge-of-elsewhere.json](./168661-edge-of-elsewhere.json) |
 | Edge of Extinction | 349323 | [349323-edge-of-extinction.json](./349323-edge-of-extinction.json) |
@@ -1657,6 +1660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Drive | 234610 | [234610-endless-drive.json](./234610-endless-drive.json) |
 | Endless Dungeon | 109970 | [109970-endless-dungeon.json](./109970-endless-dungeon.json) |
 | Endless Dungeon: Ichiban And Kiryu Skin Pack | 289422 | [289422-endless-dungeon-ichiban-and-kiryu-skin-pack.json](./289422-endless-dungeon-ichiban-and-kiryu-skin-pack.json) |
+| Endless Escalation | 390742 | [390742-endless-escalation.json](./390742-endless-escalation.json) |
 | Endless Escape | 38912 | [38912-endless-escape.json](./38912-endless-escape.json) |
 | Endless Evolution | 390641 | [390641-endless-evolution.json](./390641-endless-evolution.json) |
 | Endless Fables 3: Dark Moor | 105085 | [105085-endless-fables-3-dark-moor.json](./105085-endless-fables-3-dark-moor.json) |
