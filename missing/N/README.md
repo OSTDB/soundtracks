@@ -378,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR Challenge | 49957 | [49957-nascar-challenge.json](./49957-nascar-challenge.json) |
 | NASCAR Heat | 49956 | [49956-nascar-heat.json](./49956-nascar-heat.json) |
 | NASCAR Heat 2002 | 248619 | [248619-nascar-heat-2002.json](./248619-nascar-heat-2002.json) |
+| NASCAR Heat 4 | 120487 | [120487-nascar-heat-4.json](./120487-nascar-heat-4.json) |
 | NASCAR Heat 5 | 134370 | [134370-nascar-heat-5.json](./134370-nascar-heat-5.json) |
 | NASCAR Heat 5: Ultimate Edition | 164815 | [164815-nascar-heat-5-ultimate-edition.json](./164815-nascar-heat-5-ultimate-edition.json) |
 | NASCAR Heat Bundle | 273941 | [273941-nascar-heat-bundle.json](./273941-nascar-heat-bundle.json) |
@@ -1470,6 +1471,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverwinter Nights: Diamond | 50323 | [50323-neverwinter-nights-diamond.json](./50323-neverwinter-nights-diamond.json) |
 | Neverwinter Nights: Enhanced Edition - Doom of Icewind Dale | 332626 | [332626-neverwinter-nights-enhanced-edition-doom-of-icewind-dale.json](./332626-neverwinter-nights-enhanced-edition-doom-of-icewind-dale.json) |
 | Neverwinter Nights: Gold Edition | 210036 | [210036-neverwinter-nights-gold-edition.json](./210036-neverwinter-nights-gold-edition.json) |
+| Neverwinter Nights: Pirates of the Sword Coast | 124906 | [124906-neverwinter-nights-pirates-of-the-sword-coast.json](./124906-neverwinter-nights-pirates-of-the-sword-coast.json) |
+| Neverwinter Nights: Wyvern Crown of Cormyr | 124892 | [124892-neverwinter-nights-wyvern-crown-of-cormyr.json](./124892-neverwinter-nights-wyvern-crown-of-cormyr.json) |
 | Neverwinter: Storm King's Thunder | 26867 | [26867-neverwinter-storm-kings-thunder.json](./26867-neverwinter-storm-kings-thunder.json) |
 | Neverwinter: Undermountain | 115474 | [115474-neverwinter-undermountain.json](./115474-neverwinter-undermountain.json) |
 | Neverwood | 401788 | [401788-neverwood.json](./401788-neverwood.json) |
