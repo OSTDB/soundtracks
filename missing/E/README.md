@@ -2567,6 +2567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESPN NFL PrimeTime 2002 | 23447 | [23447-espn-nfl-primetime-2002.json](./23447-espn-nfl-primetime-2002.json) |
 | ESPN NHL 2K5 | 5826 | [5826-espn-nhl-2k5.json](./5826-espn-nhl-2k5.json) |
 | ESPN Speed World | 46217 | [46217-espn-speed-world.json](./46217-espn-speed-world.json) |
+| ESPN Sports Connection | 28334 | [28334-espn-sports-connection.json](./28334-espn-sports-connection.json) |
 | ESPN Sunday Night NFL | 5382 | [5382-espn-sunday-night-nfl.json](./5382-espn-sunday-night-nfl.json) |
 | ESPN X Games Skateboarding | 248752 | [248752-espn-x-games-skateboarding.json](./248752-espn-x-games-skateboarding.json) |
 | ESPNU College Town | 93571 | [93571-espnu-college-town.json](./93571-espnu-college-town.json) |
@@ -2872,6 +2873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evan Quest 2 | 192929 | [192929-evan-quest-2.json](./192929-evan-quest-2.json) |
 | Evander Holyfield's Real Deal Boxing | 45557 | [45557-evander-holyfields-real-deal-boxing.json](./45557-evander-holyfields-real-deal-boxing.json) |
 | Evanesce Theory | 399738 | [399738-evanesce-theory.json](./399738-evanesce-theory.json) |
+| Evangeline | 26284 | [26284-evangeline.json](./26284-evangeline.json) |
 | Evangeline's Defense | 203556 | [203556-evangelines-defense.json](./203556-evangelines-defense.json) |
 | Evangelion: Breaking Dawn | 382795 | [382795-evangelion-breaking-dawn.json](./382795-evangelion-breaking-dawn.json) |
 | Evangelion: Jo | 67657 | [67657-evangelion-jo.json](./67657-evangelion-jo.json) |
