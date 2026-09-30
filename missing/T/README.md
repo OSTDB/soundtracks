@@ -7647,6 +7647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Silence Outside | 75928 | [75928-the-silence-outside.json](./75928-the-silence-outside.json) |
 | The Silent Age | 11444 | [11444-the-silent-age.json](./11444-the-silent-age.json) |
 | The Silent Cartographer: Evolved | 375319 | [375319-the-silent-cartographer-evolved.json](./375319-the-silent-cartographer-evolved.json) |
+| The Silent Expedition Echo Protocol | 407468 | [407468-the-silent-expedition-echo-protocol.json](./407468-the-silent-expedition-echo-protocol.json) |
 | The Silent Forests | 289964 | [289964-the-silent-forests.json](./289964-the-silent-forests.json) |
 | The Silent Hill Collection | 43551 | [43551-the-silent-hill-collection.json](./43551-the-silent-hill-collection.json) |
 | The Silent Hill Experience | 77256 | [77256-the-silent-hill-experience.json](./77256-the-silent-hill-experience.json) |
