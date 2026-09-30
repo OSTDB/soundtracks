@@ -941,6 +941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electrodash | 159725 | [159725-electrodash.json](./159725-electrodash.json) |
 | Electrogical | 262107 | [262107-electrogical.json](./262107-electrogical.json) |
 | Electrolight | 319192 | [319192-electrolight.json](./319192-electrolight.json) |
+| Electromaze Defense | 81803 | [81803-electromaze-defense.json](./81803-electromaze-defense.json) |
 | Electron Flux | 264710 | [264710-electron-flux.json](./264710-electron-flux.json) |
 | Electron Handsome Boy | 201312 | [201312-electron-handsome-boy.json](./201312-electron-handsome-boy.json) |
 | Electron Zaraftor | 276295 | [276295-electron-zaraftor.json](./276295-electron-zaraftor.json) |
