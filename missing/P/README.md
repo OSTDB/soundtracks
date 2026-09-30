@@ -6504,6 +6504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess and Fairytales Jigsaw Puzzles | 221261 | [221261-princess-and-fairytales-jigsaw-puzzles.json](./221261-princess-and-fairytales-jigsaw-puzzles.json) |
 | Princess and Frog | 42181 | [42181-princess-and-frog.json](./42181-princess-and-frog.json) |
 | Princess and the Ice Dragon | 237660 | [237660-princess-and-the-ice-dragon.json](./237660-princess-and-the-ice-dragon.json) |
+| Princess Battles | 35686 | [35686-princess-battles.json](./35686-princess-battles.json) |
 | Princess Burst | 382279 | [382279-princess-burst.json](./382279-princess-burst.json) |
 | Princess Coloring Book + | 87326 | [87326-princess-coloring-book.json](./87326-princess-coloring-book.json) |
 | Princess Connect! | 22792 | [22792-princess-connect.json](./22792-princess-connect.json) |
@@ -6804,6 +6805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Pilkki | 169332 | [169332-pro-pilkki.json](./169332-pro-pilkki.json) |
 | Pro Pilkki 2 | 93597 | [93597-pro-pilkki-2.json](./93597-pro-pilkki-2.json) |
 | Pro Pinball | 18333 | [18333-pro-pinball.json](./18333-pro-pinball.json) |
+| Pro Pinball Ultra | 36376 | [36376-pro-pinball-ultra.json](./36376-pro-pinball-ultra.json) |
 | Pro Pinball: Fantastic Journey | 43877 | [43877-pro-pinball-fantastic-journey.json](./43877-pro-pinball-fantastic-journey.json) |
 | Pro Pinball: Timeshock! | 12905 | [12905-pro-pinball-timeshock.json](./12905-pro-pinball-timeshock.json) |
 | Pro Pool | 49952 | [49952-pro-pool.json](./49952-pro-pool.json) |
