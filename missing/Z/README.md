@@ -895,6 +895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZombieSquad | 216475 | [216475-zombiesquad.json](./216475-zombiesquad.json) |
 | Zombietron 1: Cemetery Guy | 94555 | [94555-zombietron-1-cemetery-guy.json](./94555-zombietron-1-cemetery-guy.json) |
 | ZombieVan Drive | 156972 | [156972-zombievan-drive.json](./156972-zombievan-drive.json) |
+| Zombieville USA | 69191 | [69191-zombieville-usa.json](./69191-zombieville-usa.json) |
 | ZombieVital DG | 147267 | [147267-zombievital-dg.json](./147267-zombievital-dg.json) |
 | Zombiewood: Survival Shooter | 294237 | [294237-zombiewood-survival-shooter.json](./294237-zombiewood-survival-shooter.json) |
 | ZombieZoid Zenith | 34435 | [34435-zombiezoid-zenith.json](./34435-zombiezoid-zenith.json) |
