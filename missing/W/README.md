@@ -4017,6 +4017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World2D Re | 262282 | [262282-world2d-re.json](./262282-world2d-re.json) |
 | WorldCraft: mini sandbox world | 89247 | [89247-worldcraft-mini-sandbox-world.json](./89247-worldcraft-mini-sandbox-world.json) |
 | WorldCup Super Stadium | 268526 | [268526-worldcup-super-stadium.json](./268526-worldcup-super-stadium.json) |
+| Worldforge: Construct & Destroy | 413125 | [413125-worldforge-construct-and-destroy.json](./413125-worldforge-construct-and-destroy.json) |
 | WorldGuessr | 315679 | [315679-worldguessr.json](./315679-worldguessr.json) |
 | Worldless | 214709 | [214709-worldless.json](./214709-worldless.json) |
 | WorldNeverland: Black Modern Wedding Outfit Set | 301018 | [301018-worldneverland-black-modern-wedding-outfit-set.json](./301018-worldneverland-black-modern-wedding-outfit-set.json) |
