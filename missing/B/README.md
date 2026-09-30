@@ -280,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Escape Together | 220348 | [220348-backrooms-escape-together.json](./220348-backrooms-escape-together.json) |
 | Backrooms: Eternals | 408307 | [408307-backrooms-eternals.json](./408307-backrooms-eternals.json) |
 | Backrooms: Exit from Supermarket | 333729 | [333729-backrooms-exit-from-supermarket.json](./333729-backrooms-exit-from-supermarket.json) |
+| Backrooms: Fade | 409742 | [409742-backrooms-fade.json](./409742-backrooms-fade.json) |
 | Backrooms: Found Footage | 338186 | [338186-backrooms-found-footage.json](./338186-backrooms-found-footage.json) |
 | Backrooms: Hide Together | 340939 | [340939-backrooms-hide-together.json](./340939-backrooms-hide-together.json) |
 | Backrooms: Inside the Escape | 324985 | [324985-backrooms-inside-the-escape.json](./324985-backrooms-inside-the-escape.json) |
@@ -287,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Lost Place | 290543 | [290543-backrooms-lost-place.json](./290543-backrooms-lost-place.json) |
 | Backrooms: Maintenance | 308905 | [308905-backrooms-maintenance.json](./308905-backrooms-maintenance.json) |
 | Backrooms: Meg Archives | 292297 | [292297-backrooms-meg-archives.json](./292297-backrooms-meg-archives.json) |
+| Backrooms: Multiverse | 409744 | [409744-backrooms-multiverse.json](./409744-backrooms-multiverse.json) |
 | Backrooms: No Escape | 389726 | [389726-backrooms-no-escape.json](./389726-backrooms-no-escape.json) |
 | Backrooms: No Return | 236777 | [236777-backrooms-no-return.json](./236777-backrooms-no-return.json) |
 | Backrooms: One | 406835 | [406835-backrooms-one.json](./406835-backrooms-one.json) |
