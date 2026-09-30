@@ -5241,6 +5241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freebot : Battle for FreeWeb | 103640 | [103640-freebot-battle-for-freeweb.json](./103640-freebot-battle-for-freeweb.json) |
 | FreeCell | 383490 | [383490-freecell.json](./383490-freecell.json) |
 | FreeCell Solitaire Classic Card Game | 340247 | [340247-freecell-solitaire-classic-card-game.json](./340247-freecell-solitaire-classic-card-game.json) |
+| FreeDiver: Triton Down | 117797 | [117797-freediver-triton-down.json](./117797-freediver-triton-down.json) |
 | Freedom | 271995 | [271995-freedom.json](./271995-freedom.json) |
 | Freedom Bridge | 115034 | [115034-freedom-bridge.json](./115034-freedom-bridge.json) |
 | Freedom Cry | 34653 | [34653-freedom-cry.json](./34653-freedom-cry.json) |
