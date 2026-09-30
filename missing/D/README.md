@@ -429,6 +429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dandy Ace | 116533 | [116533-dandy-ace.json](./116533-dandy-ace.json) |
 | Dandy Boy Halloween Adventure | 292056 | [292056-dandy-boy-halloween-adventure.json](./292056-dandy-boy-halloween-adventure.json) |
 | Dandy Dungeon: Legend of Brave Yamada | 27104 | [27104-dandy-dungeon-legend-of-brave-yamada.json](./27104-dandy-dungeon-legend-of-brave-yamada.json) |
+| Dandy: Or a Brief Glimpse into the Life of the Candy Alchemist | 34975 | [34975-dandy-or-a-brief-glimpse-into-the-life-of-the-candy-alchemist.json](./34975-dandy-or-a-brief-glimpse-into-the-life-of-the-candy-alchemist.json) |
 | Dandy: Or a Brief Glimpse Into the Life of the Candy Alchemist | 59985 | [59985-dandy-or-a-brief-glimpse-into-the-life-of-the-candy-alchemist.json](./59985-dandy-or-a-brief-glimpse-into-the-life-of-the-candy-alchemist.json) |
 | Daneta | 125456 | [125456-daneta.json](./125456-daneta.json) |
 | Daneta2 | 125455 | [125455-daneta2.json](./125455-daneta2.json) |
@@ -3555,6 +3556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Academy DxD | 386251 | [386251-devils-academy-dxd.json](./386251-devils-academy-dxd.json) |
 | Devil's Advocate: Alexander Twist | 224581 | [224581-devils-advocate-alexander-twist.json](./224581-devils-advocate-alexander-twist.json) |
 | Devil's Affliction | 26681 | [26681-devils-affliction.json](./26681-devils-affliction.json) |
+| Devil's Bluff | 34941 | [34941-devils-bluff.json](./34941-devils-bluff.json) |
 | Devil's Crown | 13592 | [13592-devils-crown.json](./13592-devils-crown.json) |
 | Devil's Dare | 8798 | [8798-devils-dare.json](./8798-devils-dare.json) |
 | Devil's Deck: Astray Destiny | 207370 | [207370-devils-deck-astray-destiny.json](./207370-devils-deck-astray-destiny.json) |
@@ -3585,6 +3587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devilition | 318597 | [318597-devilition.json](./318597-devilition.json) |
 | Devilman | 43896 | [43896-devilman.json](./43896-devilman.json) |
 | Devilman | 80868 | [80868-devilman.json](./80868-devilman.json) |
+| Devilry | 34936 | [34936-devilry.json](./34936-devilry.json) |
 | Devils Due | 359520 | [359520-devils-due.json](./359520-devils-due.json) |
 | Devils of the Deep | 294738 | [294738-devils-of-the-deep.json](./294738-devils-of-the-deep.json) |
 | Devils Share | 26513 | [26513-devils-share.json](./26513-devils-share.json) |
@@ -4132,6 +4135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diner Dash Mobile | 104663 | [104663-diner-dash-mobile.json](./104663-diner-dash-mobile.json) |
 | Diner Dash: Family Style | 366420 | [366420-diner-dash-family-style.json](./366420-diner-dash-family-style.json) |
 | Diner Dash: Hometown Hero | 16070 | [16070-diner-dash-hometown-hero.json](./16070-diner-dash-hometown-hero.json) |
+| Diner Mania | 34984 | [34984-diner-mania.json](./34984-diner-mania.json) |
 | Diner Out | 314520 | [314520-diner-out.json](./314520-diner-out.json) |
 | Diner Runners | 192802 | [192802-diner-runners.json](./192802-diner-runners.json) |
 | Diner Simulator: Horror Story | 326200 | [326200-diner-simulator-horror-story.json](./326200-diner-simulator-horror-story.json) |
@@ -7345,6 +7349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift 'N' Thrift | 311663 | [311663-drift-n-thrift.json](./311663-drift-n-thrift.json) |
 | Drift 19 | 47161 | [47161-drift-19.json](./47161-drift-19.json) |
 | Drift 4000 | 100352 | [100352-drift-4000.json](./100352-drift-4000.json) |
+| Drift 84 | 34980 | [34980-drift-84.json](./34980-drift-84.json) |
 | Drift Alone | 126631 | [126631-drift-alone.json](./126631-drift-alone.json) |
 | Drift Apocalypse | 296091 | [296091-drift-apocalypse.json](./296091-drift-apocalypse.json) |
 | Drift Boss | 145531 | [145531-drift-boss.json](./145531-drift-boss.json) |
