@@ -5250,6 +5250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoDonPachi Resurrection: Deluxe Edition | 22933 | [22933-dodonpachi-resurrection-deluxe-edition.json](./22933-dodonpachi-resurrection-deluxe-edition.json) |
 | Dodonpachi True Death exA Label | 219161 | [219161-dodonpachi-true-death-exa-label.json](./219161-dodonpachi-true-death-exa-label.json) |
 | DoDonPachi Unlimited | 264093 | [264093-dodonpachi-unlimited.json](./264093-dodonpachi-unlimited.json) |
+| DoDoon | 390178 | [390178-dodoon.json](./390178-dodoon.json) |
 | Does Canned Rice Dream of a Napkin Heap? | 141752 | [141752-does-canned-rice-dream-of-a-napkin-heap.json](./141752-does-canned-rice-dream-of-a-napkin-heap.json) |
 | Does It Shoot? | 88174 | [88174-does-it-shoot.json](./88174-does-it-shoot.json) |
 | Does It Stack?: Full Stack Edition | 278672 | [278672-does-it-stack-full-stack-edition.json](./278672-does-it-stack-full-stack-edition.json) |
@@ -5883,6 +5884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle War | 88102 | [88102-doodle-war.json](./88102-doodle-war.json) |
 | Doodle Wars Heroes | 174181 | [174181-doodle-wars-heroes.json](./174181-doodle-wars-heroes.json) |
 | Doodle What?! | 32153 | [32153-doodle-what.json](./32153-doodle-what.json) |
+| Doodle Wipeout | 390195 | [390195-doodle-wipeout.json](./390195-doodle-wipeout.json) |
 | Doodle World | 142429 | [142429-doodle-world.json](./142429-doodle-world.json) |
 | DoodleBob and the Magic Pencil | 341323 | [341323-doodlebob-and-the-magic-pencil.json](./341323-doodlebob-and-the-magic-pencil.json) |
 | DoodleBob and the Magic Pencil DX | 341325 | [341325-doodlebob-and-the-magic-pencil-dx.json](./341325-doodlebob-and-the-magic-pencil-dx.json) |
