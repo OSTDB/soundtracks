@@ -475,6 +475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly Jam Blast | 105882 | [105882-jelly-jam-blast.json](./105882-jelly-jam-blast.json) |
 | Jelly Juice | 88438 | [88438-jelly-juice.json](./88438-jelly-juice.json) |
 | Jelly Jump | 147411 | [147411-jelly-jump.json](./147411-jelly-jump.json) |
+| Jelly Killer | 33538 | [33538-jelly-killer.json](./33538-jelly-killer.json) |
 | Jelly Lab Reloaded | 246082 | [246082-jelly-lab-reloaded.json](./246082-jelly-lab-reloaded.json) |
 | Jelly Monsters | 60573 | [60573-jelly-monsters.json](./60573-jelly-monsters.json) |
 | Jelly no Puzzle | 141197 | [141197-jelly-no-puzzle.json](./141197-jelly-no-puzzle.json) |
@@ -1560,6 +1561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumping With Friends | 411120 | [411120-jumping-with-friends.json](./411120-jumping-with-friends.json) |
 | Jumping! | 209655 | [209655-jumping.json](./209655-jumping.json) |
 | JumpingBoy | 111868 | [111868-jumpingboy.json](./111868-jumpingboy.json) |
+| Jumpix Jump | 33487 | [33487-jumpix-jump.json](./33487-jumpix-jump.json) |
 | JumpJumpJump! | 335086 | [335086-jumpjumpjump.json](./335086-jumpjumpjump.json) |
 | Jumplats | 295889 | [295889-jumplats.json](./295889-jumplats.json) |
 | Jumplight Odyssey | 229965 | [229965-jumplight-odyssey.json](./229965-jumplight-odyssey.json) |
