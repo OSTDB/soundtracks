@@ -2089,6 +2089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlerite Royale: All Champions Pack | 168365 | [168365-battlerite-royale-all-champions-pack.json](./168365-battlerite-royale-all-champions-pack.json) |
 | Battlers of Ekrasys | 339948 | [339948-battlers-of-ekrasys.json](./339948-battlers-of-ekrasys.json) |
 | BattleRush | 75941 | [75941-battlerush.json](./75941-battlerush.json) |
+| BattleRush: Ardennes Assault | 112474 | [112474-battlerush-ardennes-assault.json](./112474-battlerush-ardennes-assault.json) |
 | Battles Ages | 99754 | [99754-battles-ages.json](./99754-battles-ages.json) |
 | Battles For Spain | 120869 | [120869-battles-for-spain.json](./120869-battles-for-spain.json) |
 | Battles Game | 370135 | [370135-battles-game.json](./370135-battles-game.json) |
@@ -2174,6 +2175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bay Bell | 218980 | [218980-bay-bell.json](./218980-bay-bell.json) |
 | Bay Route | 39616 | [39616-bay-route.json](./39616-bay-route.json) |
 | Bayala: The Game | 124134 | [124134-bayala-the-game.json](./124134-bayala-the-game.json) |
+| Bayani | 112611 | [112611-bayani.json](./112611-bayani.json) |
 | Bayern Munich Club Football | 267885 | [267885-bayern-munich-club-football.json](./267885-bayern-munich-club-football.json) |
 | Bayern Munich Club Football 2005 | 267901 | [267901-bayern-munich-club-football-2005.json](./267901-bayern-munich-club-football-2005.json) |
 | Bayonetta 2 | 279336 | [279336-bayonetta-2.json](./279336-bayonetta-2.json) |
@@ -2491,6 +2493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Slug Hyperway | 208030 | [208030-beat-slug-hyperway.json](./208030-beat-slug-hyperway.json) |
 | Beat Souls | 149031 | [149031-beat-souls.json](./149031-beat-souls.json) |
 | Beat Speller | 398545 | [398545-beat-speller.json](./398545-beat-speller.json) |
+| Beat Stickman: Infinity Clones | 112072 | [112072-beat-stickman-infinity-clones.json](./112072-beat-stickman-infinity-clones.json) |
 | Beat the Beat! | 262376 | [262376-beat-the-beat.json](./262376-beat-the-beat.json) |
 | Beat the Blitz | 87962 | [87962-beat-the-blitz.json](./87962-beat-the-blitz.json) |
 | Beat the Boss 2 | 86786 | [86786-beat-the-boss-2.json](./86786-beat-the-boss-2.json) |
