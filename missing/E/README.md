@@ -559,6 +559,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge of Grief | 254760 | [254760-edge-of-grief.json](./254760-edge-of-grief.json) |
 | Edge of Memories | 333201 | [333201-edge-of-memories.json](./333201-edge-of-memories.json) |
 | Edge of Nowhere | 11159 | [11159-edge-of-nowhere.json](./11159-edge-of-nowhere.json) |
+| Edge of Reality: Call of the Hills - Collector's Edition | 397149 | [397149-edge-of-reality-call-of-the-hills-collectors-edition.json](./397149-edge-of-reality-call-of-the-hills-collectors-edition.json) |
+| Edge of Reality: Fatal Luck - Collector's Edition | 397143 | [397143-edge-of-reality-fatal-luck-collectors-edition.json](./397143-edge-of-reality-fatal-luck-collectors-edition.json) |
+| Edge of Reality: Hunter's Legacy - Collector's Edition | 397145 | [397145-edge-of-reality-hunters-legacy-collectors-edition.json](./397145-edge-of-reality-hunters-legacy-collectors-edition.json) |
+| Edge of Reality: Island of Shadows - Collector's Edition | 397153 | [397153-edge-of-reality-island-of-shadows-collectors-edition.json](./397153-edge-of-reality-island-of-shadows-collectors-edition.json) |
+| Edge of Reality: Lethal Predictions - Collector's Edition | 397141 | [397141-edge-of-reality-lethal-predictions-collectors-edition.json](./397141-edge-of-reality-lethal-predictions-collectors-edition.json) |
+| Edge of Reality: Mark of Fate - Collector's Edition | 397147 | [397147-edge-of-reality-mark-of-fate-collectors-edition.json](./397147-edge-of-reality-mark-of-fate-collectors-edition.json) |
+| Edge of Reality: Ring of Destiny - Collector's Edition | 397139 | [397139-edge-of-reality-ring-of-destiny-collectors-edition.json](./397139-edge-of-reality-ring-of-destiny-collectors-edition.json) |
 | Edge of Sanity | 214504 | [214504-edge-of-sanity.json](./214504-edge-of-sanity.json) |
 | Edge of Soul: Ragnarok | 284919 | [284919-edge-of-soul-ragnarok.json](./284919-edge-of-soul-ragnarok.json) |
 | Edge of Survival | 272268 | [272268-edge-of-survival.json](./272268-edge-of-survival.json) |
@@ -3024,6 +3031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ever Maiden: Daraku no Sono no Otome-tachi | 249497 | [249497-ever-maiden-daraku-no-sono-no-otome-tachi.json](./249497-ever-maiden-daraku-no-sono-no-otome-tachi.json) |
 | Ever Planet | 67290 | [67290-ever-planet.json](./67290-ever-planet.json) |
 | Ever Seen A Cat? 3 | 211179 | [211179-ever-seen-a-cat-3.json](./211179-ever-seen-a-cat-3.json) |
+| Everbark | 397202 | [397202-everbark.json](./397202-everbark.json) |
 | Everbee | 270130 | [270130-everbee.json](./270130-everbee.json) |
 | Everblade | 192806 | [192806-everblade.json](./192806-everblade.json) |
 | Everbloom | 178663 | [178663-everbloom.json](./178663-everbloom.json) |
