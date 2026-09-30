@@ -796,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Coco | 353884 | [353884-el-coco.json](./353884-el-coco.json) |
 | El Dorado | 312880 | [312880-el-dorado.json](./312880-el-dorado.json) |
 | El gaucho Martín Fierro | 340035 | [340035-el-gaucho-martin-fierro.json](./340035-el-gaucho-martin-fierro.json) |
+| El Hijo: A Wild West Tale | 25227 | [25227-el-hijo-a-wild-west-tale.json](./25227-el-hijo-a-wild-west-tale.json) |
 | El Hincha Rusia 2018 | 104053 | [104053-el-hincha-rusia-2018.json](./104053-el-hincha-rusia-2018.json) |
 | El Internado Laguna Negra | 144305 | [144305-el-internado-laguna-negra.json](./144305-el-internado-laguna-negra.json) |
 | El lacasito de Gandalf | 320990 | [320990-el-lacasito-de-gandalf.json](./320990-el-lacasito-de-gandalf.json) |
