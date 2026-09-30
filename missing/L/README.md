@@ -3074,6 +3074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lizard Simulator | 406306 | [406306-lizard-simulator.json](./406306-lizard-simulator.json) |
 | Lizard Slayer | 270170 | [270170-lizard-slayer.json](./270170-lizard-slayer.json) |
 | Lizard Slayer | 405618 | [405618-lizard-slayer.json](./405618-lizard-slayer.json) |
+| Lizard State | 396531 | [396531-lizard-state.json](./396531-lizard-state.json) |
 | Lizard Survival Duo | 369728 | [369728-lizard-survival-duo.json](./369728-lizard-survival-duo.json) |
 | Lizard Tower: The Abyss | 283751 | [283751-lizard-tower-the-abyss.json](./283751-lizard-tower-the-abyss.json) |
 | Lizardmen | 72178 | [72178-lizardmen.json](./72178-lizardmen.json) |
