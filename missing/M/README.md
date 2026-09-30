@@ -4829,6 +4829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Flight Simulator 3.0 | 3355 | [3355-microsoft-flight-simulator-3-0.json](./3355-microsoft-flight-simulator-3-0.json) |
 | Microsoft Flight Simulator 4.0 | 3356 | [3356-microsoft-flight-simulator-4-0.json](./3356-microsoft-flight-simulator-4-0.json) |
 | Microsoft Flight Simulator 4.0: Aircraft & Scenery Designer | 84204 | [84204-microsoft-flight-simulator-4-0-aircraft-and-scenery-designer.json](./84204-microsoft-flight-simulator-4-0-aircraft-and-scenery-designer.json) |
+| Microsoft Flight Simulator 5.1 | 3358 | [3358-microsoft-flight-simulator-5-1.json](./3358-microsoft-flight-simulator-5-1.json) |
 | Microsoft Flight Simulator 5.1: Scenery Pack | 209452 | [209452-microsoft-flight-simulator-5-1-scenery-pack.json](./209452-microsoft-flight-simulator-5-1-scenery-pack.json) |
 | Microsoft Flight Simulator 5.1: The Virtual Squadron | 141224 | [141224-microsoft-flight-simulator-5-1-the-virtual-squadron.json](./141224-microsoft-flight-simulator-5-1-the-virtual-squadron.json) |
 | Microsoft Flight Simulator for Windows 95 | 3359 | [3359-microsoft-flight-simulator-for-windows-95.json](./3359-microsoft-flight-simulator-for-windows-95.json) |
@@ -8753,6 +8754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musasabi | 122375 | [122375-musasabi.json](./122375-musasabi.json) |
 | Musashi no Bouken | 48688 | [48688-musashi-no-bouken.json](./48688-musashi-no-bouken.json) |
 | Musashi vs. Cthulhu | 127465 | [127465-musashi-vs-cthulhu.json](./127465-musashi-vs-cthulhu.json) |
+| Musashi: Samurai Legend | 1811 | [1811-musashi-samurai-legend.json](./1811-musashi-samurai-legend.json) |
 | Muscle Car 76 | 210111 | [210111-muscle-car-76.json](./210111-muscle-car-76.json) |
 | Muscle Car Robot | 117178 | [117178-muscle-car-robot.json](./117178-muscle-car-robot.json) |
 | Muscle Girl Lisa: Training Diary | 310063 | [310063-muscle-girl-lisa-training-diary.json](./310063-muscle-girl-lisa-training-diary.json) |
