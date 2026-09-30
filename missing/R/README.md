@@ -5200,6 +5200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooted | 194616 | [194616-rooted.json](./194616-rooted.json) |
 | Rooten | 155659 | [155659-rooten.json](./155659-rooten.json) |
 | Rootless | 183036 | [183036-rootless.json](./183036-rootless.json) |
+| Rootlify | 413110 | [413110-rootlify.json](./413110-rootlify.json) |
 | Rootman: Bodycam Horror Footage | 238197 | [238197-rootman-bodycam-horror-footage.json](./238197-rootman-bodycam-horror-footage.json) |
 | Rootnote | 402529 | [402529-rootnote.json](./402529-rootnote.json) |
 | Roots | 249440 | [249440-roots.json](./249440-roots.json) |
@@ -5433,6 +5434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Envoy 3: Collector's Edition | 132804 | [132804-royal-envoy-3-collectors-edition.json](./132804-royal-envoy-3-collectors-edition.json) |
 | Royal Escape | 71203 | [71203-royal-escape.json](./71203-royal-escape.json) |
 | Royal Farm | 254750 | [254750-royal-farm.json](./254750-royal-farm.json) |
+| Royal Flux: The Astral Shadow Plague | 413138 | [413138-royal-flux-the-astral-shadow-plague.json](./413138-royal-flux-the-astral-shadow-plague.json) |
 | Royal Garden Tales | 95878 | [95878-royal-garden-tales.json](./95878-royal-garden-tales.json) |
 | Royal Gems | 116332 | [116332-royal-gems.json](./116332-royal-gems.json) |
 | Royal Jigsaw | 108265 | [108265-royal-jigsaw.json](./108265-royal-jigsaw.json) |
@@ -5550,6 +5552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubber Ninjas | 75143 | [75143-rubber-ninjas.json](./75143-rubber-ninjas.json) |
 | Rubber Royale | 244269 | [244269-rubber-royale.json](./244269-rubber-royale.json) |
 | Rubbish Island | 378890 | [378890-rubbish-island.json](./378890-rubbish-island.json) |
+| Rubble Rampage | 413127 | [413127-rubble-rampage.json](./413127-rubble-rampage.json) |
 | Rubble the Engineer | 359414 | [359414-rubble-the-engineer.json](./359414-rubble-the-engineer.json) |
 | Rubble Trouble | 13753 | [13753-rubble-trouble.json](./13753-rubble-trouble.json) |
 | Rubble Trouble Moscow | 326730 | [326730-rubble-trouble-moscow.json](./326730-rubble-trouble-moscow.json) |
