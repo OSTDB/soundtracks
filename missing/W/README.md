@@ -1774,6 +1774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Trash? | 158684 | [158684-what-trash.json](./158684-what-trash.json) |
 | What Was Here? 1-Minute Memory Quiz!! | 420687 | [420687-what-was-here-1-minute-memory-quiz.json](./420687-what-was-here-1-minute-memory-quiz.json) |
 | What Was Home | 374148 | [374148-what-was-home.json](./374148-what-was-home.json) |
+| What We Carry | 405565 | [405565-what-we-carry.json](./405565-what-we-carry.json) |
 | What Would You Do? | 31396 | [31396-what-would-you-do.json](./31396-what-would-you-do.json) |
 | What would you like to have today? | 177855 | [177855-what-would-you-like-to-have-today.json](./177855-what-would-you-like-to-have-today.json) |
 | What, the fox | 382456 | [382456-what-the-fox.json](./382456-what-the-fox.json) |
@@ -1913,6 +1914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where are You? | 292067 | [292067-where-are-you.json](./292067-where-are-you.json) |
 | Where Birds Sleep | 136451 | [136451-where-birds-sleep.json](./136451-where-birds-sleep.json) |
 | Where Cards Fall | 27271 | [27271-where-cards-fall.json](./27271-where-cards-fall.json) |
+| Where Control Ends | 405564 | [405564-where-control-ends.json](./405564-where-control-ends.json) |
 | Where Did I Put It? | 223472 | [223472-where-did-i-put-it.json](./223472-where-did-i-put-it.json) |
 | Where Do I Fit? | 177489 | [177489-where-do-i-fit.json](./177489-where-do-i-fit.json) |
 | Where Giants Fall | 403137 | [403137-where-giants-fall.json](./403137-where-giants-fall.json) |
