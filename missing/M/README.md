@@ -5688,6 +5688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Time Capsule | 343905 | [343905-minecraft-time-capsule.json](./343905-minecraft-time-capsule.json) |
 | Minecraft: Trial Chamber Legends | 307729 | [307729-minecraft-trial-chamber-legends.json](./307729-minecraft-trial-chamber-legends.json) |
 | Minecraft: Tricky Trials | 272821 | [272821-minecraft-tricky-trials.json](./272821-minecraft-tricky-trials.json) |
+| Minecraft: Ultimate Collection | 397759 | [397759-minecraft-ultimate-collection.json](./397759-minecraft-ultimate-collection.json) |
 | Minecraft: Uncrafting Items Mod | 343906 | [343906-minecraft-uncrafting-items-mod.json](./343906-minecraft-uncrafting-items-mod.json) |
 | Minecraft: Universal Studios Experience | 299204 | [299204-minecraft-universal-studios-experience.json](./299204-minecraft-universal-studios-experience.json) |
 | Minecraft: Vault-Tec Mash-up | 235319 | [235319-minecraft-vault-tec-mash-up.json](./235319-minecraft-vault-tec-mash-up.json) |
