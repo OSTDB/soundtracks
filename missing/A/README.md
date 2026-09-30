@@ -490,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Timeless Story | 124669 | [124669-a-timeless-story.json](./124669-a-timeless-story.json) |
 | A Tiny Eternity | 318177 | [318177-a-tiny-eternity.json](./318177-a-tiny-eternity.json) |
 | A Tithe in Blood | 304683 | [304683-a-tithe-in-blood.json](./304683-a-tithe-in-blood.json) |
+| A Todas Las Lagartijas Que Atrapé | 399761 | [399761-a-todas-las-lagartijas-que-atrape.json](./399761-a-todas-las-lagartijas-que-atrape.json) |
 | A Tofu Tail | 58803 | [58803-a-tofu-tail.json](./58803-a-tofu-tail.json) |
 | A Tome in the Attic | 363975 | [363975-a-tome-in-the-attic.json](./363975-a-tome-in-the-attic.json) |
 | A Top-Down Job: Blood Gain | 109866 | [109866-a-top-down-job-blood-gain.json](./109866-a-top-down-job-blood-gain.json) |
@@ -1172,6 +1173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Address1 | 265648 | [265648-address1.json](./265648-address1.json) |
 | Addy: Do You Speak English? | 269541 | [269541-addy-do-you-speak-english.json](./269541-addy-do-you-speak-english.json) |
 | Adebana Sacrament: Seinaru Miwaza to Akuryoutsuki no Shoujo-tachi | 77948 | [77948-adebana-sacrament-seinaru-miwaza-to-akuryoutsuki-no-shoujo-tachi.json](./77948-adebana-sacrament-seinaru-miwaza-to-akuryoutsuki-no-shoujo-tachi.json) |
+| ADElaide | 399770 | [399770-adelaide.json](./399770-adelaide.json) |
 | Adelamyth: Casual Idle RPG | 223932 | [223932-adelamyth-casual-idle-rpg.json](./223932-adelamyth-casual-idle-rpg.json) |
 | Adelantado Trilogy: Book Two | 76652 | [76652-adelantado-trilogy-book-two.json](./76652-adelantado-trilogy-book-two.json) |
 | Aden | 224770 | [224770-aden.json](./224770-aden.json) |
@@ -1525,6 +1527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aether Way | 113506 | [113506-aether-way.json](./113506-aether-way.json) |
 | Aether: Wizard Life | 235487 | [235487-aether-wizard-life.json](./235487-aether-wizard-life.json) |
 | Aether’s Echo: Yazid’s Paradox | 379569 | [379569-aether-s-echo-yazid-s-paradox.json](./379569-aether-s-echo-yazid-s-paradox.json) |
+| AetherCycle | 399767 | [399767-aethercycle.json](./399767-aethercycle.json) |
 | Aetherdrift | 384194 | [384194-aetherdrift.json](./384194-aetherdrift.json) |
 | Aetherial | 357786 | [357786-aetherial.json](./357786-aetherial.json) |
 | Aetherica: Echoes of Exodus | 391868 | [391868-aetherica-echoes-of-exodus.json](./391868-aetherica-echoes-of-exodus.json) |
@@ -2436,6 +2439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemist's Apprentice | 341889 | [341889-alchemists-apprentice.json](./341889-alchemists-apprentice.json) |
 | Alchemist's Apprentice 2: Strength of Stones | 341901 | [341901-alchemists-apprentice-2-strength-of-stones.json](./341901-alchemists-apprentice-2-strength-of-stones.json) |
 | Alchemist's Castle | 74449 | [74449-alchemists-castle.json](./74449-alchemists-castle.json) |
+| Alchemist's Garden | 399764 | [399764-alchemists-garden.json](./399764-alchemists-garden.json) |
 | Alchemist's Mountain | 173292 | [173292-alchemists-mountain.json](./173292-alchemists-mountain.json) |
 | Alchemist's Secret | 297059 | [297059-alchemists-secret.json](./297059-alchemists-secret.json) |
 | Alchemistress Vivi | 287142 | [287142-alchemistress-vivi.json](./287142-alchemistress-vivi.json) |
@@ -2890,6 +2894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliya | 278728 | [278728-aliya.json](./278728-aliya.json) |
 | Aliya's Awakening: Dooge 2042 | 341887 | [341887-aliyas-awakening-dooge-2042.json](./341887-aliyas-awakening-dooge-2042.json) |
 | Alizarin Tetris | 93028 | [93028-alizarin-tetris.json](./93028-alizarin-tetris.json) |
+| Alize | 399762 | [399762-alize.json](./399762-alize.json) |
 | Alkali | 154412 | [154412-alkali.json](./154412-alkali.json) |
 | Alkaline | 195492 | [195492-alkaline.json](./195492-alkaline.json) |
 | Alkey the Brave | 226214 | [226214-alkey-the-brave.json](./226214-alkey-the-brave.json) |
@@ -3074,6 +3079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alliance Tales: Battle for the Frontier | 380568 | [380568-alliance-tales-battle-for-the-frontier.json](./380568-alliance-tales-battle-for-the-frontier.json) |
 | Alliance: Future Combat | 61681 | [61681-alliance-future-combat.json](./61681-alliance-future-combat.json) |
 | Alliance: Heroes of the Spire | 76545 | [76545-alliance-heroes-of-the-spire.json](./76545-alliance-heroes-of-the-spire.json) |
+| Allie's Story | 399773 | [399773-allies-story.json](./399773-allies-story.json) |
 | Allied Ambush | 160229 | [160229-allied-ambush.json](./160229-allied-ambush.json) |
 | Allied General | 14427 | [14427-allied-general.json](./14427-allied-general.json) |
 | Allied Star Police | 22336 | [22336-allied-star-police.json](./22336-allied-star-police.json) |
@@ -4534,6 +4540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anodyne Mobile | 108454 | [108454-anodyne-mobile.json](./108454-anodyne-mobile.json) |
 | Anoldor | 181300 | [181300-anoldor.json](./181300-anoldor.json) |
 | Anolock | 211433 | [211433-anolock.json](./211433-anolock.json) |
+| Anoma | 399681 | [399681-anoma.json](./399681-anoma.json) |
 | Anomalia | 211142 | [211142-anomalia.json](./211142-anomalia.json) |
 | Anomalice | 172695 | [172695-anomalice.json](./172695-anomalice.json) |
 | Anomalies Detective | 325068 | [325068-anomalies-detective.json](./325068-anomalies-detective.json) |
@@ -6472,6 +6479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashen Knights: One Passage | 211181 | [211181-ashen-knights-one-passage.json](./211181-ashen-knights-one-passage.json) |
 | Ashen of Thrones | 413886 | [413886-ashen-of-thrones.json](./413886-ashen-of-thrones.json) |
 | Ashen Sky | 299596 | [299596-ashen-sky.json](./299596-ashen-sky.json) |
+| Ashen Throne | 399765 | [399765-ashen-throne.json](./399765-ashen-throne.json) |
 | Ashen World | 379451 | [379451-ashen-world.json](./379451-ashen-world.json) |
 | Asher | 33483 | [33483-asher.json](./33483-asher.json) |
 | Asher Descent | 405612 | [405612-asher-descent.json](./405612-asher-descent.json) |
