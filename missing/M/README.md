@@ -410,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia Reigns: Power And Blood | 318405 | [318405-mafia-reigns-power-and-blood.json](./318405-mafia-reigns-power-and-blood.json) |
 | Mafia Rush | 20727 | [20727-mafia-rush.json](./20727-mafia-rush.json) |
 | Mafia Simulator | 304570 | [304570-mafia-simulator.json](./304570-mafia-simulator.json) |
+| Mafia Transporter 3D - Transportation Simulator for Mafia Racing Drivers 9+ | 88379 | [88379-mafia-transporter-3d-transportation-simulator-for-mafia-racing-drivers-9.json](./88379-mafia-transporter-3d-transportation-simulator-for-mafia-racing-drivers-9.json) |
 | Mafia Wars | 52206 | [52206-mafia-wars.json](./52206-mafia-wars.json) |
 | Mafia Wars Shakedown | 65555 | [65555-mafia-wars-shakedown.json](./65555-mafia-wars-shakedown.json) |
 | Mafia Wars: Yakuza | 319171 | [319171-mafia-wars-yakuza.json](./319171-mafia-wars-yakuza.json) |
@@ -902,6 +903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Deluxe 2: Astral Planes | 105996 | [105996-mahjong-deluxe-2-astral-planes.json](./105996-mahjong-deluxe-2-astral-planes.json) |
 | Mahjong Detective: The Stolen Love | 295919 | [295919-mahjong-detective-the-stolen-love.json](./295919-mahjong-detective-the-stolen-love.json) |
 | Mahjong Elements HD | 174371 | [174371-mahjong-elements-hd.json](./174371-mahjong-elements-hd.json) |
+| Mahjong Elements HDX | 88370 | [88370-mahjong-elements-hdx.json](./88370-mahjong-elements-hdx.json) |
 | Mahjong Escape: Ancient China | 135673 | [135673-mahjong-escape-ancient-china.json](./135673-mahjong-escape-ancient-china.json) |
 | Mahjong Escape: Ancient Japan | 202093 | [202093-mahjong-escape-ancient-japan.json](./202093-mahjong-escape-ancient-japan.json) |
 | Mahjong Fest: Winterland | 113163 | [113163-mahjong-fest-winterland.json](./113163-mahjong-fest-winterland.json) |
@@ -1351,6 +1353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manatee | 311249 | [311249-manatee.json](./311249-manatee.json) |
 | Manaulyn | 296971 | [296971-manaulyn.json](./296971-manaulyn.json) |
 | Manbomber | 283749 | [283749-manbomber.json](./283749-manbomber.json) |
+| Mancala Pro | 87863 | [87863-mancala-pro.json](./87863-mancala-pro.json) |
 | Mancala Snails | 321617 | [321617-mancala-snails.json](./321617-mancala-snails.json) |
 | Manchester United | 72167 | [72167-manchester-united.json](./72167-manchester-united.json) |
 | Manchester United Club Football | 52013 | [52013-manchester-united-club-football.json](./52013-manchester-united-club-football.json) |
@@ -5668,6 +5671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper | 327606 | [327606-minesweeper.json](./327606-minesweeper.json) |
 | Minesweeper | 413617 | [413617-minesweeper.json](./413617-minesweeper.json) |
 | Minesweeper | 89153 | [89153-minesweeper.json](./89153-minesweeper.json) |
+| Minesweeper !! | 88352 | [88352-minesweeper.json](./88352-minesweeper.json) |
 | Minesweeper But the First Tile is Always a Mine | 327378 | [327378-minesweeper-but-the-first-tile-is-always-a-mine.json](./327378-minesweeper-but-the-first-tile-is-always-a-mine.json) |
 | Minesweeper Challenge | 96705 | [96705-minesweeper-challenge.json](./96705-minesweeper-challenge.json) |
 | Minesweeper Collector 2 | 275090 | [275090-minesweeper-collector-2.json](./275090-minesweeper-collector-2.json) |
