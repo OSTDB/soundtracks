@@ -4259,6 +4259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blacksmith Village | 156109 | [156109-blacksmith-village.json](./156109-blacksmith-village.json) |
 | Blacksmith War | 201803 | [201803-blacksmith-war.json](./201803-blacksmith-war.json) |
 | Blacksmith Weapon Merchant | 213987 | [213987-blacksmith-weapon-merchant.json](./213987-blacksmith-weapon-merchant.json) |
+| Blacksmith: Dark Times | 105012 | [105012-blacksmith-dark-times.json](./105012-blacksmith-dark-times.json) |
 | Blacksmith's Master | 184895 | [184895-blacksmiths-master.json](./184895-blacksmiths-master.json) |
 | Blackstead | 217828 | [217828-blackstead.json](./217828-blackstead.json) |
 | BlackSteel | 105301 | [105301-blacksteel.json](./105301-blacksteel.json) |
@@ -5004,6 +5005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Message | 350503 | [350503-blood-message.json](./350503-blood-message.json) |
 | Blood Metal | 137449 | [137449-blood-metal.json](./137449-blood-metal.json) |
 | Blood Midnight Blossom | 258221 | [258221-blood-midnight-blossom.json](./258221-blood-midnight-blossom.json) |
+| Blood Money | 105108 | [105108-blood-money.json](./105108-blood-money.json) |
 | Blood Money | 11968 | [11968-blood-money.json](./11968-blood-money.json) |
 | Blood Money | 411673 | [411673-blood-money.json](./411673-blood-money.json) |
 | Blood Moon: The Last Stand | 90815 | [90815-blood-moon-the-last-stand.json](./90815-blood-moon-the-last-stand.json) |
@@ -7940,6 +7942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burasagatte Iru Kiji | 261809 | [261809-burasagatte-iru-kiji.json](./261809-burasagatte-iru-kiji.json) |
 | Burden 2: Remnants | 229643 | [229643-burden-2-remnants.json](./229643-burden-2-remnants.json) |
 | Burden of 80 Proof | 230248 | [230248-burden-of-80-proof.json](./230248-burden-of-80-proof.json) |
+| Burden of Proof | 105198 | [105198-burden-of-proof.json](./105198-burden-of-proof.json) |
 | Burden RPG | 388403 | [388403-burden-rpg.json](./388403-burden-rpg.json) |
 | Burg Battle | 153391 | [153391-burg-battle.json](./153391-burg-battle.json) |
 | Burg Schreckenstein: Der Dieb von Burg Schreckenstein | 376559 | [376559-burg-schreckenstein-der-dieb-von-burg-schreckenstein.json](./376559-burg-schreckenstein-der-dieb-von-burg-schreckenstein.json) |
