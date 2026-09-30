@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dab on 'em Haterz | 81781 | [81781-dab-on-em-haterz.json](./81781-dab-on-em-haterz.json) |
 | Dabado | 109431 | [109431-dabado.json](./109431-dabado.json) |
 | Dabda | 90615 | [90615-dabda.json](./90615-dabda.json) |
+| Dabman: When the Haters Dab Back | 104936 | [104936-dabman-when-the-haters-dab-back.json](./104936-dabman-when-the-haters-dab-back.json) |
 | DaCapo Delivers | 152832 | [152832-dacapo-delivers.json](./152832-dacapo-delivers.json) |
 | Dacholer | 196168 | [196168-dacholer.json](./196168-dacholer.json) |
 | DACHstudio Jigsaw Puzzle Box: Vanlau's Tinybuns | 289862 | [289862-dachstudio-jigsaw-puzzle-box-vanlaus-tinybuns.json](./289862-dachstudio-jigsaw-puzzle-box-vanlaus-tinybuns.json) |
@@ -3347,6 +3348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DestructoPod | 119710 | [119710-destructopod.json](./119710-destructopod.json) |
 | Destructor | 24019 | [24019-destructor.json](./24019-destructor.json) |
 | Desynced | 230222 | [230222-desynced.json](./230222-desynced.json) |
+| Detached: Non-VR Edition | 105080 | [105080-detached-non-vr-edition.json](./105080-detached-non-vr-edition.json) |
 | Detail Hunter | 322982 | [322982-detail-hunter.json](./322982-detail-hunter.json) |
 | DeTails | 355129 | [355129-details.json](./355129-details.json) |
 | Detained: Too Good for School | 152148 | [152148-detained-too-good-for-school.json](./152148-detained-too-good-for-school.json) |
@@ -4034,6 +4036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Pinball: Last Gladiators | 19737 | [19737-digital-pinball-last-gladiators.json](./19737-digital-pinball-last-gladiators.json) |
 | Digital Pinball: Necronomicon | 45453 | [45453-digital-pinball-necronomicon.json](./45453-digital-pinball-necronomicon.json) |
 | Digital Processing | 400284 | [400284-digital-processing.json](./400284-digital-processing.json) |
+| Digital Resistance | 105189 | [105189-digital-resistance.json](./105189-digital-resistance.json) |
 | Digital Runner | 93725 | [93725-digital-runner.json](./93725-digital-runner.json) |
 | Digital Spacecade | 28181 | [28181-digital-spacecade.json](./28181-digital-spacecade.json) |
 | Digital Survivor | 411728 | [411728-digital-survivor.json](./411728-digital-survivor.json) |
@@ -4121,6 +4124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diner Simulator: Horror Story | 326200 | [326200-diner-simulator-horror-story.json](./326200-diner-simulator-horror-story.json) |
 | Ding Dong Dang | 302470 | [302470-ding-dong-dang.json](./302470-ding-dong-dang.json) |
 | Ding Dong Pitch | 379555 | [379555-ding-dong-pitch.json](./379555-ding-dong-pitch.json) |
+| Ding Dong VR | 105174 | [105174-ding-dong-vr.json](./105174-ding-dong-vr.json) |
 | Ding! MONO | 270634 | [270634-ding-mono.json](./270634-ding-mono.json) |
 | DingDingDing | 109719 | [109719-dingdingding.json](./109719-dingdingding.json) |
 | Dingletopia: Nation Under Siege (by Orcs) | 133410 | [133410-dingletopia-nation-under-siege-by-orcs.json](./133410-dingletopia-nation-under-siege-by-orcs.json) |
@@ -6053,6 +6057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dottie Dreads Nought | 313475 | [313475-dottie-dreads-nought.json](./313475-dottie-dreads-nought.json) |
 | Dotty | 265692 | [265692-dotty.json](./265692-dotty.json) |
 | Dotzz | 26536 | [26536-dotzz.json](./26536-dotzz.json) |
+| Double | 104921 | [104921-double.json](./104921-double.json) |
 | Double Agent | 57164 | [57164-double-agent.json](./57164-double-agent.json) |
 | Double Axle | 39870 | [39870-double-axle.json](./39870-double-axle.json) |
 | Double Block | 172533 | [172533-double-block.json](./172533-double-block.json) |
@@ -8325,6 +8330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of Shalnor | 187480 | [187480-dungeons-of-shalnor.json](./187480-dungeons-of-shalnor.json) |
 | Dungeons of Sundaria | 208473 | [208473-dungeons-of-sundaria.json](./208473-dungeons-of-sundaria.json) |
 | Dungeons of Tal'Doria | 79362 | [79362-dungeons-of-taldoria.json](./79362-dungeons-of-taldoria.json) |
+| Dungeons of the Fallen | 105025 | [105025-dungeons-of-the-fallen.json](./105025-dungeons-of-the-fallen.json) |
 | Dungeons of Voidria | 153941 | [153941-dungeons-of-voidria.json](./153941-dungeons-of-voidria.json) |
 | Dungeons, Dungeons and more... Dice? | 361724 | [361724-dungeons-dungeons-and-more-dice.json](./361724-dungeons-dungeons-and-more-dice.json) |
 | Dungeons: Game of the Year Edition | 138052 | [138052-dungeons-game-of-the-year-edition.json](./138052-dungeons-game-of-the-year-edition.json) |
