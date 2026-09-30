@@ -1707,6 +1707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whale Rock: All Games Bundle | 249802 | [249802-whale-rock-all-games-bundle.json](./249802-whale-rock-all-games-bundle.json) |
 | Whale Singer: Rise of the Leviathan | 334899 | [334899-whale-singer-rise-of-the-leviathan.json](./334899-whale-singer-rise-of-the-leviathan.json) |
 | Whale Trail | 65473 | [65473-whale-trail.json](./65473-whale-trail.json) |
+| Whale Trail Frenzy | 411629 | [411629-whale-trail-frenzy.json](./411629-whale-trail-frenzy.json) |
 | Whalefall Haven | 349400 | [349400-whalefall-haven.json](./349400-whalefall-haven.json) |
 | Wham the Music Box | 45314 | [45314-wham-the-music-box.json](./45314-wham-the-music-box.json) |
 | What a Ball | 225727 | [225727-what-a-ball.json](./225727-what-a-ball.json) |
@@ -3163,6 +3164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wobble Warriors | 261558 | [261558-wobble-warriors.json](./261558-wobble-warriors.json) |
 | Wobble Wobble | 397923 | [397923-wobble-wobble.json](./397923-wobble-wobble.json) |
 | Wobbly Bobbly | 69882 | [69882-wobbly-bobbly.json](./69882-wobbly-bobbly.json) |
+| Wobbly Heist | 411623 | [411623-wobbly-heist.json](./411623-wobbly-heist.json) |
 | Wobbuffet's Puzzle Pack | 233984 | [233984-wobbuffets-puzzle-pack.json](./233984-wobbuffets-puzzle-pack.json) |
 | Wodopom | 315677 | [315677-wodopom.json](./315677-wodopom.json) |
 | Woim | 404431 | [404431-woim.json](./404431-woim.json) |
