@@ -1273,6 +1273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barkane: The Folds of Calamity | 323718 | [323718-barkane-the-folds-of-calamity.json](./323718-barkane-the-folds-of-calamity.json) |
 | Barkelona | 251847 | [251847-barkelona.json](./251847-barkelona.json) |
 | Barker Bill's Trick Shooting | 9875 | [9875-barker-bills-trick-shooting.json](./9875-barker-bills-trick-shooting.json) |
+| Barking from the Dark | 392404 | [392404-barking-from-the-dark.json](./392404-barking-from-the-dark.json) |
 | Barking Irons | 57328 | [57328-barking-irons.json](./57328-barking-irons.json) |
 | Barko | 413751 | [413751-barko.json](./413751-barko.json) |
 | Barman Simulator | 334465 | [334465-barman-simulator.json](./334465-barman-simulator.json) |
@@ -7050,6 +7051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakthrough | 336686 | [336686-breakthrough.json](./336686-breakthrough.json) |
 | BreakThrough | 391866 | [391866-breakthrough.json](./391866-breakthrough.json) |
 | Breakthrough in the Ardennes | 25618 | [25618-breakthrough-in-the-ardennes.json](./25618-breakthrough-in-the-ardennes.json) |
+| BreakThrough Time | 392378 | [392378-breakthrough-time.json](./392378-breakthrough-time.json) |
 | BreakThru | 13437 | [13437-breakthru.json](./13437-breakthru.json) |
 | Breakthru in 3D | 169228 | [169228-breakthru-in-3d.json](./169228-breakthru-in-3d.json) |
 | BreakThru! | 7800 | [7800-breakthru.json](./7800-breakthru.json) |
