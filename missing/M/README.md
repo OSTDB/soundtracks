@@ -1326,6 +1326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mamorukun Curse! | 7065 | [7065-mamorukun-curse.json](./7065-mamorukun-curse.json) |
 | Mamorukun ReCurse! | 342851 | [342851-mamorukun-recurse.json](./342851-mamorukun-recurse.json) |
 | Mamusphere of the Forgotten | 124621 | [124621-mamusphere-of-the-forgotten.json](./124621-mamusphere-of-the-forgotten.json) |
+| Mamzer Corp | 404991 | [404991-mamzer-corp.json](./404991-mamzer-corp.json) |
 | Man and Dog: Small Game Hunt | 337651 | [337651-man-and-dog-small-game-hunt.json](./337651-man-and-dog-small-game-hunt.json) |
 | Man Face Spider I | 132773 | [132773-man-face-spider-i.json](./132773-man-face-spider-i.json) |
 | Man For Takeaway | 323844 | [323844-man-for-takeaway.json](./323844-man-for-takeaway.json) |
@@ -3010,6 +3011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MDF: Magical Defense Force - Chapters 10-18 | 285445 | [285445-mdf-magical-defense-force-chapters-10-18.json](./285445-mdf-magical-defense-force-chapters-10-18.json) |
 | mdiapp+ SE | 74347 | [74347-mdiapp-se.json](./74347-mdiapp-se.json) |
 | MDK2: Armageddon | 414467 | [414467-mdk2-armageddon.json](./414467-mdk2-armageddon.json) |
+| MDT: Make It or Die Trying | 405000 | [405000-mdt-make-it-or-die-trying.json](./405000-mdt-make-it-or-die-trying.json) |
 | Me | 145034 | [145034-me.json](./145034-me.json) |
 | Me & My Katamari | 6455 | [6455-me-and-my-katamari.json](./6455-me-and-my-katamari.json) |
 | Me & My Robot Friend | 128595 | [128595-me-and-my-robot-friend.json](./128595-me-and-my-robot-friend.json) |
@@ -3962,6 +3964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memento Vivere | 161355 | [161355-memento-vivere.json](./161355-memento-vivere.json) |
 | Memento*Fragment | 410256 | [410256-memento-fragment.json](./410256-memento-fragment.json) |
 | Memes | 51564 | [51564-memes.json](./51564-memes.json) |
+| Memesteine Files | 405035 | [405035-memesteine-files.json](./405035-memesteine-files.json) |
 | Memetyper | 67926 | [67926-memetyper.json](./67926-memetyper.json) |
 | MemGame | 128641 | [128641-memgame.json](./128641-memgame.json) |
 | Memo Blox | 304373 | [304373-memo-blox.json](./304373-memo-blox.json) |
@@ -4500,6 +4503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Slug Anthology | 5004 | [5004-metal-slug-anthology.json](./5004-metal-slug-anthology.json) |
 | Metal Slug Collection | 51223 | [51223-metal-slug-collection.json](./51223-metal-slug-collection.json) |
 | Metal Slug Defense | 35593 | [35593-metal-slug-defense.json](./35593-metal-slug-defense.json) |
+| Metal Slug Defense: "KOF Pack" Vol.1 | 405013 | [405013-metal-slug-defense-kof-pack-vol-1.json](./405013-metal-slug-defense-kof-pack-vol-1.json) |
 | Metal Slug Revolution | 98432 | [98432-metal-slug-revolution.json](./98432-metal-slug-revolution.json) |
 | Metal Slug Rush | 409737 | [409737-metal-slug-rush.json](./409737-metal-slug-rush.json) |
 | Metal Slug SB Fanthology | 324895 | [324895-metal-slug-sb-fanthology.json](./324895-metal-slug-sb-fanthology.json) |
@@ -5826,6 +5830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Motor Racing X | 126194 | [126194-mini-motor-racing-x.json](./126194-mini-motor-racing-x.json) |
 | Mini Motor Racing X: Digital Deluxe Edition | 132167 | [132167-mini-motor-racing-x-digital-deluxe-edition.json](./132167-mini-motor-racing-x-digital-deluxe-edition.json) |
 | Mini Motorways: Creative Mode | 347897 | [347897-mini-motorways-creative-mode.json](./347897-mini-motorways-creative-mode.json) |
+| Mini Murder Mysteries | 405019 | [405019-mini-murder-mysteries.json](./405019-mini-murder-mysteries.json) |
 | Mini Pipes | 195147 | [195147-mini-pipes.json](./195147-mini-pipes.json) |
 | Mini Pocket Racers | 238394 | [238394-mini-pocket-racers.json](./238394-mini-pocket-racers.json) |
 | Mini Puzzle Balls | 147784 | [147784-mini-puzzle-balls.json](./147784-mini-puzzle-balls.json) |
