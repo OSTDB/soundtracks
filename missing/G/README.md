@@ -2129,6 +2129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GizmoLab VR | 290682 | [290682-gizmolab-vr.json](./290682-gizmolab-vr.json) |
 | Gizmos: Riddle of the Universe | 384676 | [384676-gizmos-riddle-of-the-universe.json](./384676-gizmos-riddle-of-the-universe.json) |
 | Gizmos: Spirit of the Christmas | 156678 | [156678-gizmos-spirit-of-the-christmas.json](./156678-gizmos-spirit-of-the-christmas.json) |
+| GL Golf | 88347 | [88347-gl-golf.json](./88347-gl-golf.json) |
 | GL-117 Action Flight Simulator | 51245 | [51245-gl-117-action-flight-simulator.json](./51245-gl-117-action-flight-simulator.json) |
 | Glace | 79621 | [79621-glace.json](./79621-glace.json) |
 | Glacier 3: The Meltdown | 16902 | [16902-glacier-3-the-meltdown.json](./16902-glacier-3-the-meltdown.json) |
@@ -4581,6 +4582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guess the Flags: A Fun Quiz | 55136 | [55136-guess-the-flags-a-fun-quiz.json](./55136-guess-the-flags-a-fun-quiz.json) |
 | Guess The Movie | 273111 | [273111-guess-the-movie.json](./273111-guess-the-movie.json) |
 | Guess the Movie :- Funnier One | 23903 | [23903-guess-the-movie-funnier-one.json](./23903-guess-the-movie-funnier-one.json) |
+| Guess the Person? | 88466 | [88466-guess-the-person.json](./88466-guess-the-person.json) |
 | Guess the Word | 277341 | [277341-guess-the-word.json](./277341-guess-the-word.json) |
 | Guess Where You Are | 320164 | [320164-guess-where-you-are.json](./320164-guess-where-you-are.json) |
 | Guess who ? | 104929 | [104929-guess-who.json](./104929-guess-who.json) |
