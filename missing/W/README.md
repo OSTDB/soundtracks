@@ -769,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhawk | 371272 | [371272-warhawk.json](./371272-warhawk.json) |
 | Warhead Circus | 383028 | [383028-warhead-circus.json](./383028-warhead-circus.json) |
 | Warhead Vanguard | 409655 | [409655-warhead-vanguard.json](./409655-warhead-vanguard.json) |
+| Warheads & Overheads | 410397 | [410397-warheads-and-overheads.json](./410397-warheads-and-overheads.json) |
 | Warhound | 378158 | [378158-warhound.json](./378158-warhound.json) |
 | Wario and the Tower of Garlic | 399080 | [399080-wario-and-the-tower-of-garlic.json](./399080-wario-and-the-tower-of-garlic.json) |
 | Wario Date | 252824 | [252824-wario-date.json](./252824-wario-date.json) |
