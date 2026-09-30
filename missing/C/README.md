@@ -502,6 +502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can We Start Over? | 321777 | [321777-can-we-start-over.json](./321777-can-we-start-over.json) |
 | Can You Beat the Square? | 176419 | [176419-can-you-beat-the-square.json](./176419-can-you-beat-the-square.json) |
 | Can You Come In? | 144235 | [144235-can-you-come-in.json](./144235-can-you-come-in.json) |
+| Can You Cook My Last Meal? | 411753 | [411753-can-you-cook-my-last-meal.json](./411753-can-you-cook-my-last-meal.json) |
 | Can You Eat by Yourself | 76660 | [76660-can-you-eat-by-yourself.json](./76660-can-you-eat-by-yourself.json) |
 | Can You Escape | 189033 | [189033-can-you-escape.json](./189033-can-you-escape.json) |
 | Can You Escape | 88475 | [88475-can-you-escape.json](./88475-can-you-escape.json) |
@@ -3085,6 +3086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chi Project | 324315 | [324315-chi-project.json](./324315-chi-project.json) |
 | Chiaroscuro | 138739 | [138739-chiaroscuro.json](./138739-chiaroscuro.json) |
 | Chiaroscuro Imago | 377300 | [377300-chiaroscuro-imago.json](./377300-chiaroscuro-imago.json) |
+| Chiaroscuro Lovers | 411772 | [411772-chiaroscuro-lovers.json](./411772-chiaroscuro-lovers.json) |
 | Chiaroscuro: O Jogo | 210649 | [210649-chiaroscuro-o-jogo.json](./210649-chiaroscuro-o-jogo.json) |
 | Chiasm | 149482 | [149482-chiasm.json](./149482-chiasm.json) |
 | Chibi 3D Online RPG Sandbox | 300372 | [300372-chibi-3d-online-rpg-sandbox.json](./300372-chibi-3d-online-rpg-sandbox.json) |
@@ -3372,6 +3374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chippy & Noppo | 240228 | [240228-chippy-and-noppo.json](./240228-chippy-and-noppo.json) |
 | Chiptune DJ | 106409 | [106409-chiptune-dj.json](./106409-chiptune-dj.json) |
 | Chiptune Runner | 52741 | [52741-chiptune-runner.json](./52741-chiptune-runner.json) |
+| Chiqing Meimei Shaxue de Xiongkong Riji | 411775 | [411775-chiqing-meimei-shaxue-de-xiongkong-riji.json](./411775-chiqing-meimei-shaxue-de-xiongkong-riji.json) |
 | Chiral | 146176 | [146176-chiral.json](./146176-chiral.json) |
 | Chiral | 309855 | [309855-chiral.json](./309855-chiral.json) |
 | Chiralmori | 287634 | [287634-chiralmori.json](./287634-chiralmori.json) |
@@ -6000,6 +6003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Condemned 2: Bloodshot | 6943 | [6943-condemned-2-bloodshot.json](./6943-condemned-2-bloodshot.json) |
 | Condemned: Criminal Origins | 6942 | [6942-condemned-criminal-origins.json](./6942-condemned-criminal-origins.json) |
 | Condo | 349936 | [349936-condo.json](./349936-condo.json) |
+| Condom Commander | 411628 | [411628-condom-commander.json](./411628-condom-commander.json) |
 | Condominium | 333356 | [333356-condominium.json](./333356-condominium.json) |
 | Condominium: No Exit | 411793 | [411793-condominium-no-exit.json](./411793-condominium-no-exit.json) |
 | Condor | 47268 | [47268-condor.json](./47268-condor.json) |
