@@ -411,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Day 2 Mahjong | 100216 | [100216-sakura-day-2-mahjong.json](./100216-sakura-day-2-mahjong.json) |
 | Sakura Dimensions | 292694 | [292694-sakura-dimensions.json](./292694-sakura-dimensions.json) |
 | Sakura Drift | 401772 | [401772-sakura-drift.json](./401772-sakura-drift.json) |
+| Sakura Dungeon | 34340 | [34340-sakura-dungeon.json](./34340-sakura-dungeon.json) |
 | Sakura Gamer 2 | 127212 | [127212-sakura-gamer-2.json](./127212-sakura-gamer-2.json) |
 | Sakura Halloween | 135891 | [135891-sakura-halloween.json](./135891-sakura-halloween.json) |
 | Sakura High School Love Story | 299884 | [299884-sakura-high-school-love-story.json](./299884-sakura-high-school-love-story.json) |
@@ -7026,6 +7027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow War | 211160 | [211160-snow-war.json](./211160-snow-war.json) |
 | Snow Wave | 91551 | [91551-snow-wave.json](./91551-snow-wave.json) |
 | Snow White and the Seven Dwarfs | 77396 | [77396-snow-white-and-the-seven-dwarfs.json](./77396-snow-white-and-the-seven-dwarfs.json) |
+| Snow White in Happily Ever After | 42582 | [42582-snow-white-in-happily-ever-after.json](./42582-snow-white-in-happily-ever-after.json) |
 | Snow World | 176972 | [176972-snow-world.json](./176972-snow-world.json) |
 | Snow! | 180771 | [180771-snow.json](./180771-snow.json) |
 | Snow! | 376566 | [376566-snow.json](./376566-snow.json) |
@@ -9028,6 +9030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Maze | 345522 | [345522-space-maze.json](./345522-space-maze.json) |
 | Space Mech Pilot: The Universe Drive | 205125 | [205125-space-mech-pilot-the-universe-drive.json](./205125-space-mech-pilot-the-universe-drive.json) |
 | Space Mechanic Simulator | 90650 | [90650-space-mechanic-simulator.json](./90650-space-mechanic-simulator.json) |
+| Space Megaforce | 42583 | [42583-space-megaforce.json](./42583-space-megaforce.json) |
 | Space Memory TDG | 412970 | [412970-space-memory-tdg.json](./412970-space-memory-tdg.json) |
 | Space Memory: Dogs | 357864 | [357864-space-memory-dogs.json](./357864-space-memory-dogs.json) |
 | Space Memory: Fairies | 412387 | [412387-space-memory-fairies.json](./412387-space-memory-fairies.json) |
@@ -9818,6 +9821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spica Adventure | 60051 | [60051-spica-adventure.json](./60051-spica-adventure.json) |
 | Spice and Wolf: The Wind that Spans the Sea | 123448 | [123448-spice-and-wolf-the-wind-that-spans-the-sea.json](./123448-spice-and-wolf-the-wind-that-spans-the-sea.json) |
 | Spice Evaders | 180583 | [180583-spice-evaders.json](./180583-spice-evaders.json) |
+| Spice World | 44907 | [44907-spice-world.json](./44907-spice-world.json) |
 | Spicy Fruit | 293678 | [293678-spicy-fruit.json](./293678-spicy-fruit.json) |
 | Spider | 320132 | [320132-spider.json](./320132-spider.json) |
 | Spider | 379979 | [379979-spider.json](./379979-spider.json) |
@@ -10214,6 +10218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob: Krusty Cook-Off | 130748 | [130748-spongebob-krusty-cook-off.json](./130748-spongebob-krusty-cook-off.json) |
 | SpongeBob's Atlantis Squarepantis | 221834 | [221834-spongebobs-atlantis-squarepantis.json](./221834-spongebobs-atlantis-squarepantis.json) |
 | SpongeBob's Atlantis Squarepantis | 43312 | [43312-spongebobs-atlantis-squarepantis.json](./43312-spongebobs-atlantis-squarepantis.json) |
+| SpongeBob's Atlantis Squarepantis | 43647 | [43647-spongebobs-atlantis-squarepantis.json](./43647-spongebobs-atlantis-squarepantis.json) |
 | SpongeBob's Atlantis SquarePantis SquareOff | 286583 | [286583-spongebobs-atlantis-squarepantis-squareoff.json](./286583-spongebobs-atlantis-squarepantis-squareoff.json) |
 | SpongeBob's Game Frenzy | 88949 | [88949-spongebobs-game-frenzy.json](./88949-spongebobs-game-frenzy.json) |
 | SpongeBob’s Idle Adventures | 266907 | [266907-spongebob-s-idle-adventures.json](./266907-spongebob-s-idle-adventures.json) |
@@ -12767,6 +12772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter Alpha: Warriors' Dreams | 243819 | [243819-street-fighter-alpha-warriors-dreams.json](./243819-street-fighter-alpha-warriors-dreams.json) |
 | Street Fighter Alpha: Warriors' Dreams | 6702 | [6702-street-fighter-alpha-warriors-dreams.json](./6702-street-fighter-alpha-warriors-dreams.json) |
 | Street Fighter Battle Combination | 55065 | [55065-street-fighter-battle-combination.json](./55065-street-fighter-battle-combination.json) |
+| Street Fighter Collection 2 | 44911 | [44911-street-fighter-collection-2.json](./44911-street-fighter-collection-2.json) |
 | Street Fighter EX | 39319 | [39319-street-fighter-ex.json](./39319-street-fighter-ex.json) |
 | Street Fighter II | 198927 | [198927-street-fighter-ii.json](./198927-street-fighter-ii.json) |
 | Street Fighter II | 198928 | [198928-street-fighter-ii.json](./198928-street-fighter-ii.json) |
@@ -13878,6 +13884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Barista | 128408 | [128408-super-barista.json](./128408-super-barista.json) |
 | Super Baseball | 81283 | [81283-super-baseball.json](./81283-super-baseball.json) |
 | Super Baseball 2020 | 46193 | [46193-super-baseball-2020.json](./46193-super-baseball-2020.json) |
+| Super Baseball Simulator 1.000 | 42601 | [42601-super-baseball-simulator-1-000.json](./42601-super-baseball-simulator-1-000.json) |
 | Super Basketball AR | 107005 | [107005-super-basketball-ar.json](./107005-super-basketball-ar.json) |
 | Super Battle Golf | 387070 | [387070-super-battle-golf.json](./387070-super-battle-golf.json) |
 | Super Battle Golf: Attack on City | 410350 | [410350-super-battle-golf-attack-on-city.json](./410350-super-battle-golf-attack-on-city.json) |
@@ -14004,6 +14011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Cobra | 346134 | [346134-super-cobra.json](./346134-super-cobra.json) |
 | Super Code Strike | 145014 | [145014-super-code-strike.json](./145014-super-code-strike.json) |
 | Super Colapse! 3 | 19342 | [19342-super-colapse-3.json](./19342-super-colapse-3.json) |
+| Super Collapse 3 | 42881 | [42881-super-collapse-3.json](./42881-super-collapse-3.json) |
 | Super Collapse! | 84244 | [84244-super-collapse.json](./84244-super-collapse.json) |
 | Super Collapse! Puzzle Gallery 2 | 201281 | [201281-super-collapse-puzzle-gallery-2.json](./201281-super-collapse-puzzle-gallery-2.json) |
 | Super Collapse! Puzzle Gallery 3 | 201282 | [201282-super-collapse-puzzle-gallery-3.json](./201282-super-collapse-puzzle-gallery-3.json) |
@@ -14799,6 +14807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super NicoNico Kart | 198462 | [198462-super-niconico-kart.json](./198462-super-niconico-kart.json) |
 | Super Night at the Gates of Hell | 263538 | [263538-super-night-at-the-gates-of-hell.json](./263538-super-night-at-the-gates-of-hell.json) |
 | Super Night Riders S1 | 193196 | [193196-super-night-riders-s1.json](./193196-super-night-riders-s1.json) |
+| Super Ninja Boy | 42603 | [42603-super-ninja-boy.json](./42603-super-ninja-boy.json) |
 | Super Ninja Hero VR | 31164 | [31164-super-ninja-hero-vr.json](./31164-super-ninja-hero-vr.json) |
 | Super Ninja Meow Cat | 115165 | [115165-super-ninja-meow-cat.json](./115165-super-ninja-meow-cat.json) |
 | Super Ninja Noodle Chef | 185598 | [185598-super-ninja-noodle-chef.json](./185598-super-ninja-noodle-chef.json) |
@@ -14821,6 +14830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Off Road | 365893 | [365893-super-off-road.json](./365893-super-off-road.json) |
 | Super Off Road | 365894 | [365894-super-off-road.json](./365894-super-off-road.json) |
 | Super Off Road Track Pack | 245280 | [245280-super-off-road-track-pack.json](./245280-super-off-road-track-pack.json) |
+| Super Off Road: The Baja | 42575 | [42575-super-off-road-the-baja.json](./42575-super-off-road-the-baja.json) |
 | Super Orb Bros. | 142396 | [142396-super-orb-bros.json](./142396-super-orb-bros.json) |
 | Super Orbit | 344563 | [344563-super-orbit.json](./344563-super-orbit.json) |
 | Super Orbital Mega Drift II | 339477 | [339477-super-orbital-mega-drift-ii.json](./339477-super-orbital-mega-drift-ii.json) |
@@ -15179,6 +15189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Tennis Champs | 56442 | [56442-super-tennis-champs.json](./56442-super-tennis-champs.json) |
 | Super Terrible Project | 222914 | [222914-super-terrible-project.json](./222914-super-terrible-project.json) |
 | Super Tetris | 46116 | [46116-super-tetris.json](./46116-super-tetris.json) |
+| Super Tetris 3 | 42531 | [42531-super-tetris-3.json](./42531-super-tetris-3.json) |
 | Super Thunder Blade | 4471 | [4471-super-thunder-blade.json](./4471-super-thunder-blade.json) |
 | Super Time Force | 5336 | [5336-super-time-force.json](./5336-super-time-force.json) |
 | Super Tits Rush | 86752 | [86752-super-tits-rush.json](./86752-super-tits-rush.json) |
@@ -16214,6 +16225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword: Depths of the Void | 216193 | [216193-sword-depths-of-the-void.json](./216193-sword-depths-of-the-void.json) |
 | Sword&Magic | 226153 | [226153-sword-and-magic.json](./226153-sword-and-magic.json) |
 | Swordash | 259564 | [259564-swordash.json](./259564-swordash.json) |
+| Swordbreaker the Game | 34192 | [34192-swordbreaker-the-game.json](./34192-swordbreaker-the-game.json) |
 | Swordbreaker: Back to the Castle | 113751 | [113751-swordbreaker-back-to-the-castle.json](./113751-swordbreaker-back-to-the-castle.json) |
 | Swordfight | 40794 | [40794-swordfight.json](./40794-swordfight.json) |
 | Swordia | 309882 | [309882-swordia.json](./309882-swordia.json) |
