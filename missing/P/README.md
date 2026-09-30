@@ -7685,6 +7685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychroma | 204534 | [204534-psychroma.json](./204534-psychroma.json) |
 | Psycron | 145676 | [145676-psycron.json](./145676-psycron.json) |
 | Psycutlery | 135137 | [135137-psycutlery.json](./135137-psycutlery.json) |
+| Psyhonds | 402418 | [402418-psyhonds.json](./402418-psyhonds.json) |
 | PsyHotel | 132197 | [132197-psyhotel.json](./132197-psyhotel.json) |
 | Psyia | 111670 | [111670-psyia.json](./111670-psyia.json) |
 | Psyko | 295909 | [295909-psyko.json](./295909-psyko.json) |
@@ -7711,6 +7712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pub Sim | 311277 | [311277-pub-sim.json](./311277-pub-sim.json) |
 | Pub Simulator | 127863 | [127863-pub-simulator.json](./127863-pub-simulator.json) |
 | Pub Toilet Simulator 25 | 339798 | [339798-pub-toilet-simulator-25.json](./339798-pub-toilet-simulator-25.json) |
+| Puber Lario Mand | 402466 | [402466-puber-lario-mand.json](./402466-puber-lario-mand.json) |
 | Pubes | 406284 | [406284-pubes.json](./406284-pubes.json) |
 | PUBG Lite | 124036 | [124036-pubg-lite.json](./124036-pubg-lite.json) |
 | PUBG Mobile Lite | 124773 | [124773-pubg-mobile-lite.json](./124773-pubg-mobile-lite.json) |
