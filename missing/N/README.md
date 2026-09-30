@@ -1288,6 +1288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neptunia GameMaker R:Evolution | 247467 | [247467-neptunia-gamemaker-r-evolution.json](./247467-neptunia-gamemaker-r-evolution.json) |
 | Neptunia reVerse | 139072 | [139072-neptunia-reverse.json](./139072-neptunia-reverse.json) |
 | Neptunia reVerse: Day One Edition | 142370 | [142370-neptunia-reverse-day-one-edition.json](./142370-neptunia-reverse-day-one-edition.json) |
+| Neptunia Riders vs. Dogoos | 317845 | [317845-neptunia-riders-vs-dogoos.json](./317845-neptunia-riders-vs-dogoos.json) |
 | Neptunia: Virtual Stars | 135338 | [135338-neptunia-virtual-stars.json](./135338-neptunia-virtual-stars.json) |
 | Neptunia: Virtual Stars - Emotional Limited Edition | 167057 | [167057-neptunia-virtual-stars-emotional-limited-edition.json](./167057-neptunia-virtual-stars-emotional-limited-edition.json) |
 | Neptunia: Virtual Stars - VIP Edition | 186890 | [186890-neptunia-virtual-stars-vip-edition.json](./186890-neptunia-virtual-stars-vip-edition.json) |
@@ -1806,6 +1807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 2005 | 4043 | [4043-nhl-2005.json](./4043-nhl-2005.json) |
 | NHL 22 | 165197 | [165197-nhl-22.json](./165197-nhl-22.json) |
 | NHL 23 | 214675 | [214675-nhl-23.json](./214675-nhl-23.json) |
+| NHL 25 | 314499 | [314499-nhl-25.json](./314499-nhl-25.json) |
 | NHL 27 | 408771 | [408771-nhl-27.json](./408771-nhl-27.json) |
 | NHL 2K2 | 8840 | [8840-nhl-2k2.json](./8840-nhl-2k2.json) |
 | NHL 2K3 | 4045 | [4045-nhl-2k3.json](./4045-nhl-2k3.json) |
@@ -2269,6 +2271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niko and the Cubic Curse | 169339 | [169339-niko-and-the-cubic-curse.json](./169339-niko-and-the-cubic-curse.json) |
 | Niko Niko Pun | 42057 | [42057-niko-niko-pun.json](./42057-niko-niko-pun.json) |
 | Niko: Through the Dream | 17323 | [17323-niko-through-the-dream.json](./17323-niko-through-the-dream.json) |
+| Nikoderiko: The Magical World | 305108 | [305108-nikoderiko-the-magical-world.json](./305108-nikoderiko-the-magical-world.json) |
 | Nikola's Fate | 329678 | [329678-nikolas-fate.json](./329678-nikolas-fate.json) |
 | Nikolai's Knights | 205127 | [205127-nikolais-knights.json](./205127-nikolais-knights.json) |
 | Nikolai's Mysteries | 205128 | [205128-nikolais-mysteries.json](./205128-nikolais-mysteries.json) |
