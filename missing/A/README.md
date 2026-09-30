@@ -608,6 +608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.N.O.N.Y.M.U.S. | 279027 | [279027-a-n-o-n-y-m-u-s.json](./279027-a-n-o-n-y-m-u-s.json) |
 | A.R.C: Alien raid combat | 165707 | [165707-a-r-c-alien-raid-combat.json](./165707-a-r-c-alien-raid-combat.json) |
 | A.R.C. | 58867 | [58867-a-r-c.json](./58867-a-r-c.json) |
+| A.R.E.S. Extinction Agenda EX | 36270 | [36270-a-r-e-s-extinction-agenda-ex.json](./36270-a-r-e-s-extinction-agenda-ex.json) |
 | A.R.S.E.N.A.L. Taste of Power | 204341 | [204341-a-r-s-e-n-a-l-taste-of-power.json](./204341-a-r-s-e-n-a-l-taste-of-power.json) |
 | A.S.H. | 99614 | [99614-a-s-h.json](./99614-a-s-h.json) |
 | A.S.S.: Awesome Street Skaters | 245907 | [245907-a-s-s-awesome-street-skaters.json](./245907-a-s-s-awesome-street-skaters.json) |
@@ -7682,6 +7683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aveyond 1: Rhen's Quest | 10010 | [10010-aveyond-1-rhens-quest.json](./10010-aveyond-1-rhens-quest.json) |
 | Aveyond 2: Ean's Quest | 10011 | [10011-aveyond-2-eans-quest.json](./10011-aveyond-2-eans-quest.json) |
 | Aveyond 3-3: The Lost Orb | 36241 | [36241-aveyond-3-3-the-lost-orb.json](./36241-aveyond-3-3-the-lost-orb.json) |
+| Aveyond 3-4: The Darkthrop Prophecy | 36242 | [36242-aveyond-3-4-the-darkthrop-prophecy.json](./36242-aveyond-3-4-the-darkthrop-prophecy.json) |
 | Aveyond 3: Orbs of Magic - Chapter 1: Lord of Twilight | 10012 | [10012-aveyond-3-orbs-of-magic-chapter-1-lord-of-twilight.json](./10012-aveyond-3-orbs-of-magic-chapter-1-lord-of-twilight.json) |
 | Aveyond 3: Orbs of Magic - Chapter 2: Gates of Night | 10013 | [10013-aveyond-3-orbs-of-magic-chapter-2-gates-of-night.json](./10013-aveyond-3-orbs-of-magic-chapter-2-gates-of-night.json) |
 | Aveyond 3: Orbs of Magic - Chapter 3: The Lost Orb | 10014 | [10014-aveyond-3-orbs-of-magic-chapter-3-the-lost-orb.json](./10014-aveyond-3-orbs-of-magic-chapter-3-the-lost-orb.json) |
