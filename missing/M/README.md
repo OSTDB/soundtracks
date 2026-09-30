@@ -8175,6 +8175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mount Everest Story | 174331 | [174331-mount-everest-story.json](./174331-mount-everest-story.json) |
 | Mount Farewell | 221178 | [221178-mount-farewell.json](./221178-mount-farewell.json) |
 | Mount Lomyst | 369112 | [369112-mount-lomyst.json](./369112-mount-lomyst.json) |
+| Mount Wingsuit | 32082 | [32082-mount-wingsuit.json](./32082-mount-wingsuit.json) |
 | Mount Your Friends | 15916 | [15916-mount-your-friends.json](./15916-mount-your-friends.json) |
 | Mountain 78 | 338212 | [338212-mountain-78.json](./338212-mountain-78.json) |
 | Mountain Bike Hill Climb Race: Real 2D Arcade Dirt Racing Games | 173137 | [173137-mountain-bike-hill-climb-race-real-2d-arcade-dirt-racing-games.json](./173137-mountain-bike-hill-climb-race-real-2d-arcade-dirt-racing-games.json) |
