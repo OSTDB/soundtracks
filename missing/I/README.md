@@ -3093,6 +3093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Always Monday | 26222 | [26222-its-always-monday.json](./26222-its-always-monday.json) |
 | It's Always Sunny: The Gang Goes Mobile | 110286 | [110286-its-always-sunny-the-gang-goes-mobile.json](./110286-its-always-sunny-the-gang-goes-mobile.json) |
 | It's Breaking Out | 358347 | [358347-its-breaking-out.json](./358347-its-breaking-out.json) |
+| It's Chopping Time!: Gold Edition | 406871 | [406871-its-chopping-time-gold-edition.json](./406871-its-chopping-time-gold-edition.json) |
 | It's Christmas Bundle! | 234307 | [234307-its-christmas-bundle.json](./234307-its-christmas-bundle.json) |
 | It's Dark | 207779 | [207779-its-dark.json](./207779-its-dark.json) |
 | It's Dark Inside | 235675 | [235675-its-dark-inside.json](./235675-its-dark-inside.json) |
