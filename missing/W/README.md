@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | W.O.T.E: Waking On The Endtimes | 309875 | [309875-w-o-t-e-waking-on-the-endtimes.json](./309875-w-o-t-e-waking-on-the-endtimes.json) |
 | W.T. | 151689 | [151689-w-t.json](./151689-w-t.json) |
 | W2000_CHAN_>W<.exe | 383932 | [383932-w2000-chan-w-exe.json](./383932-w2000-chan-w-exe.json) |
+| W3llidk’s Bean Game | 406260 | [406260-w3llidk-s-bean-game.json](./406260-w3llidk-s-bean-game.json) |
 | W4RR-i/o-RS | 75910 | [75910-w4rr-i-o-rs.json](./75910-w4rr-i-o-rs.json) |
 | Wa ga Ryuu wo Miyo: Pride of the Dragon Peace | 227795 | [227795-wa-ga-ryuu-wo-miyo-pride-of-the-dragon-peace.json](./227795-wa-ga-ryuu-wo-miyo-pride-of-the-dragon-peace.json) |
 | Waba | 104821 | [104821-waba.json](./104821-waba.json) |
@@ -2238,6 +2239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Wants to Be a Millionaire: US Movies 70s DLC Pack | 293390 | [293390-who-wants-to-be-a-millionaire-us-movies-70s-dlc-pack.json](./293390-who-wants-to-be-a-millionaire-us-movies-70s-dlc-pack.json) |
 | Who Wants To Be A Millionaire? 2013 | 314041 | [314041-who-wants-to-be-a-millionaire-2013.json](./314041-who-wants-to-be-a-millionaire-2013.json) |
 | Who Wants to Be a Murderer? | 292116 | [292116-who-wants-to-be-a-murderer.json](./292116-who-wants-to-be-a-murderer.json) |
+| Who Wants To Be King?! | 406257 | [406257-who-wants-to-be-king.json](./406257-who-wants-to-be-king.json) |
 | Who Wants to Strip this Babe? Streamer Girl | 248924 | [248924-who-wants-to-strip-this-babe-streamer-girl.json](./248924-who-wants-to-strip-this-babe-streamer-girl.json) |
 | Who Wants to Win a Banana Hoard? | 328606 | [328606-who-wants-to-win-a-banana-hoard.json](./328606-who-wants-to-win-a-banana-hoard.json) |
 | Who's at the Door? | 347265 | [347265-whos-at-the-door.json](./347265-whos-at-the-door.json) |
@@ -3862,6 +3864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Titans | 230933 | [230933-world-of-titans.json](./230933-world-of-titans.json) |
 | World of Turtle | 132043 | [132043-world-of-turtle.json](./132043-world-of-turtle.json) |
 | World of Vasnar | 356190 | [356190-world-of-vasnar.json](./356190-world-of-vasnar.json) |
+| World of Vespuccia Bundle | 406330 | [406330-world-of-vespuccia-bundle.json](./406330-world-of-vespuccia-bundle.json) |
 | World of Warcraft Classic: Season of Discovery | 275175 | [275175-world-of-warcraft-classic-season-of-discovery.json](./275175-world-of-warcraft-classic-season-of-discovery.json) |
 | World of Warcraft: Battle for Azeroth | 75380 | [75380-world-of-warcraft-battle-for-azeroth.json](./75380-world-of-warcraft-battle-for-azeroth.json) |
 | World of Warcraft: Burning Crusade Classic - Anniversary Edition | 390778 | [390778-world-of-warcraft-burning-crusade-classic-anniversary-edition.json](./390778-world-of-warcraft-burning-crusade-classic-anniversary-edition.json) |
