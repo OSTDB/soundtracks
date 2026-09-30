@@ -1484,6 +1484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeronautica Imperialis: Flight Command - Skulls Pack | 162754 | [162754-aeronautica-imperialis-flight-command-skulls-pack.json](./162754-aeronautica-imperialis-flight-command-skulls-pack.json) |
 | Aerospace Forces | 101387 | [101387-aerospace-forces.json](./101387-aerospace-forces.json) |
 | Aerostar | 7746 | [7746-aerostar.json](./7746-aerostar.json) |
+| Aerovice Frutiger World | 411785 | [411785-aerovice-frutiger-world.json](./411785-aerovice-frutiger-world.json) |
 | AeroWings | 3709 | [3709-aerowings.json](./3709-aerowings.json) |
 | AeroWings 2: Airstrike | 3708 | [3708-aerowings-2-airstrike.json](./3708-aerowings-2-airstrike.json) |
 | Aery: A Journey Beyond Time | 143599 | [143599-aery-a-journey-beyond-time.json](./143599-aery-a-journey-beyond-time.json) |
@@ -3181,6 +3182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alphabet Zoo | 12291 | [12291-alphabet-zoo.json](./12291-alphabet-zoo.json) |
 | Alphabet: Play with the ABCs | 206109 | [206109-alphabet-play-with-the-abcs.json](./206109-alphabet-play-with-the-abcs.json) |
 | Alphabets Machine | 89695 | [89695-alphabets-machine.json](./89695-alphabets-machine.json) |
+| Alphabetto's | 411622 | [411622-alphabettos.json](./411622-alphabettos.json) |
 | Alphabetty Saga | 116974 | [116974-alphabetty-saga.json](./116974-alphabetty-saga.json) |
 | AlphaBounce | 66781 | [66781-alphabounce.json](./66781-alphabounce.json) |
 | Alphacity | 270722 | [270722-alphacity.json](./270722-alphacity.json) |
@@ -6193,6 +6195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Master 2 | 227374 | [227374-art-master-2.json](./227374-art-master-2.json) |
 | Art na Esagashi Adventure | 251529 | [251529-art-na-esagashi-adventure.json](./251529-art-na-esagashi-adventure.json) |
 | Art of Balance Touch! | 47654 | [47654-art-of-balance-touch.json](./47654-art-of-balance-touch.json) |
+| Art of Battle | 411747 | [411747-art-of-battle.json](./411747-art-of-battle.json) |
 | Art of Boxing | 129037 | [129037-art-of-boxing.json](./129037-art-of-boxing.json) |
 | Art of Destruction | 152831 | [152831-art-of-destruction.json](./152831-art-of-destruction.json) |
 | Art of Fauna: Cozy Puzzles+ | 415280 | [415280-art-of-fauna-cozy-puzzles.json](./415280-art-of-fauna-cozy-puzzles.json) |
@@ -7069,6 +7072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | At Ishtar's Gate | 142493 | [142493-at-ishtars-gate.json](./142493-at-ishtars-gate.json) |
 | At Least There is Ceda Cedovic | 138591 | [138591-at-least-there-is-ceda-cedovic.json](./138591-at-least-there-is-ceda-cedovic.json) |
 | At Night | 377303 | [377303-at-night.json](./377303-at-night.json) |
+| At Run Time | 411637 | [411637-at-run-time.json](./411637-at-run-time.json) |
 | At Sixes and Sevens | 342771 | [342771-at-sixes-and-sevens.json](./342771-at-sixes-and-sevens.json) |
 | At Sundown: Shots in the Dark | 27998 | [27998-at-sundown-shots-in-the-dark.json](./27998-at-sundown-shots-in-the-dark.json) |
 | At the Behest of the Pike: Time to Run | 153894 | [153894-at-the-behest-of-the-pike-time-to-run.json](./153894-at-the-behest-of-the-pike-time-to-run.json) |
