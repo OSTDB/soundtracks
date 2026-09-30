@@ -706,6 +706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Dinosaur Tour | 42014 | [42014-magical-dinosaur-tour.json](./42014-magical-dinosaur-tour.json) |
 | Magical Drop | 71552 | [71552-magical-drop.json](./71552-magical-drop.json) |
 | Magical Drop III: Toretate Zoukangou! | 171031 | [171031-magical-drop-iii-toretate-zoukangou.json](./171031-magical-drop-iii-toretate-zoukangou.json) |
+| Magical Drop VI | 221060 | [221060-magical-drop-vi.json](./221060-magical-drop-vi.json) |
 | Magical Escape | 194660 | [194660-magical-escape.json](./194660-magical-escape.json) |
 | Magical Fantasista II | 292071 | [292071-magical-fantasista-ii.json](./292071-magical-fantasista-ii.json) |
 | Magical Girl | 158086 | [158086-magical-girl.json](./158086-magical-girl.json) |
@@ -1992,6 +1993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Markham | 40361 | [40361-markham.json](./40361-markham.json) |
 | Marki Game Collection | 260243 | [260243-marki-game-collection.json](./260243-marki-game-collection.json) |
 | Marko | 19774 | [19774-marko.json](./19774-marko.json) |
+| Marko: Beyond Brave | 223167 | [223167-marko-beyond-brave.json](./223167-marko-beyond-brave.json) |
 | Marksman Shooting | 245298 | [245298-marksman-shooting.json](./245298-marksman-shooting.json) |
 | MarksmanVR | 28878 | [28878-marksmanvr.json](./28878-marksmanvr.json) |
 | Marktopia | 365154 | [365154-marktopia.json](./365154-marktopia.json) |
@@ -2853,6 +2855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze and Dagger | 103647 | [103647-maze-and-dagger.json](./103647-maze-and-dagger.json) |
 | Maze Ball Neon | 176367 | [176367-maze-ball-neon.json](./176367-maze-ball-neon.json) |
 | Maze Bandit | 43177 | [43177-maze-bandit.json](./43177-maze-bandit.json) |
+| Maze Blaze | 219287 | [219287-maze-blaze.json](./219287-maze-blaze.json) |
 | Maze City: A Cyberpunk Lost and Found Centre | 217241 | [217241-maze-city-a-cyberpunk-lost-and-found-centre.json](./217241-maze-city-a-cyberpunk-lost-and-found-centre.json) |
 | Maze Company | 326093 | [326093-maze-company.json](./326093-maze-company.json) |
 | Maze Crusher | 104827 | [104827-maze-crusher.json](./104827-maze-crusher.json) |
@@ -5943,6 +5946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miracle Warrior of Mountains and Seas | 153345 | [153345-miracle-warrior-of-mountains-and-seas.json](./153345-miracle-warrior-of-mountains-and-seas.json) |
 | Miracle Warriors: Seal of the Dark Lord | 47526 | [47526-miracle-warriors-seal-of-the-dark-lord.json](./47526-miracle-warriors-seal-of-the-dark-lord.json) |
 | Miraculous: Paris Under Siege | 314019 | [314019-miraculous-paris-under-siege.json](./314019-miraculous-paris-under-siege.json) |
+| Miraculous: Rise of the Sphinx | 216552 | [216552-miraculous-rise-of-the-sphinx.json](./216552-miraculous-rise-of-the-sphinx.json) |
 | Miraculous: Rise of the Sphinx - Ultimate Edition | 223565 | [223565-miraculous-rise-of-the-sphinx-ultimate-edition.json](./223565-miraculous-rise-of-the-sphinx-ultimate-edition.json) |
 | Miraculum: The Last Revelation | 63927 | [63927-miraculum-the-last-revelation.json](./63927-miraculum-the-last-revelation.json) |
 | Mirador | 116939 | [116939-mirador.json](./116939-mirador.json) |
@@ -9852,6 +9856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythborne | 23642 | [23642-mythborne.json](./23642-mythborne.json) |
 | MythBusters: The First Experiment | 199095 | [199095-mythbusters-the-first-experiment.json](./199095-mythbusters-the-first-experiment.json) |
 | Mythfall | 304752 | [304752-mythfall.json](./304752-mythfall.json) |
+| MythForce | 197712 | [197712-mythforce.json](./197712-mythforce.json) |
 | Mythia | 299866 | [299866-mythia.json](./299866-mythia.json) |
 | Mythic Blades | 72740 | [72740-mythic-blades.json](./72740-mythic-blades.json) |
 | Mythic Defender | 195616 | [195616-mythic-defender.json](./195616-mythic-defender.json) |
