@@ -2355,6 +2355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Shapes | 133382 | [133382-out-of-shapes.json](./133382-out-of-shapes.json) |
 | Out of Sight | 199126 | [199126-out-of-sight.json](./199126-out-of-sight.json) |
 | Out of Sight | 312565 | [312565-out-of-sight.json](./312565-out-of-sight.json) |
+| Out of Sight: Stage Fright | 387593 | [387593-out-of-sight-stage-fright.json](./387593-out-of-sight-stage-fright.json) |
 | Out of Space | 111772 | [111772-out-of-space.json](./111772-out-of-space.json) |
 | Out of Stock! | 346588 | [346588-out-of-stock.json](./346588-out-of-stock.json) |
 | Out of Sync | 397159 | [397159-out-of-sync.json](./397159-out-of-sync.json) |
