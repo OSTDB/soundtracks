@@ -625,6 +625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon Basket HD | 232177 | [232177-cannon-basket-hd.json](./232177-cannon-basket-hd.json) |
 | Cannon Bird 3 | 325560 | [325560-cannon-bird-3.json](./325560-cannon-bird-3.json) |
 | Cannon Blaster 3 | 335470 | [335470-cannon-blaster-3.json](./335470-cannon-blaster-3.json) |
+| Cannon Brawl | 13675 | [13675-cannon-brawl.json](./13675-cannon-brawl.json) |
 | Cannon Canines | 190216 | [190216-cannon-canines.json](./190216-cannon-canines.json) |
 | Cannon Father | 134600 | [134600-cannon-father.json](./134600-cannon-father.json) |
 | Cannon Fire | 83602 | [83602-cannon-fire.json](./83602-cannon-fire.json) |
@@ -1501,6 +1502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle of The Dark Ages | 271754 | [271754-castle-of-the-dark-ages.json](./271754-castle-of-the-dark-ages.json) |
 | Castle of the Land | 153356 | [153356-castle-of-the-land.json](./153356-castle-of-the-land.json) |
 | Castle of the Red Prince | 186632 | [186632-castle-of-the-red-prince.json](./186632-castle-of-the-red-prince.json) |
+| Castle of the Winds | 14446 | [14446-castle-of-the-winds.json](./14446-castle-of-the-winds.json) |
 | Castle of the Winds 2 | 14447 | [14447-castle-of-the-winds-2.json](./14447-castle-of-the-winds-2.json) |
 | Castle of Venia | 108423 | [108423-castle-of-venia.json](./108423-castle-of-venia.json) |
 | Castle of Void | 264713 | [264713-castle-of-void.json](./264713-castle-of-void.json) |
@@ -2975,6 +2977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChessLocke | 144118 | [144118-chesslocke.json](./144118-chesslocke.json) |
 | Chessmaster | 23714 | [23714-chessmaster.json](./23714-chessmaster.json) |
 | Chessmaster | 343921 | [343921-chessmaster.json](./343921-chessmaster.json) |
+| Chessmaster 10th Edition | 15883 | [15883-chessmaster-10th-edition.json](./15883-chessmaster-10th-edition.json) |
 | Chessmaster 5500 | 631 | [631-chessmaster-5500.json](./631-chessmaster-5500.json) |
 | Chessmaster 7000 | 15880 | [15880-chessmaster-7000.json](./15880-chessmaster-7000.json) |
 | Chessmaster 8000 | 15881 | [15881-chessmaster-8000.json](./15881-chessmaster-8000.json) |
@@ -4078,6 +4081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Legends: The Ghost of Misty Hill - Collector's Edition | 251844 | [251844-city-legends-the-ghost-of-misty-hill-collectors-edition.json](./251844-city-legends-the-ghost-of-misty-hill-collectors-edition.json) |
 | City Legends: The Ghost of Misty Hill - DLC | 252238 | [252238-city-legends-the-ghost-of-misty-hill-dlc.json](./252238-city-legends-the-ghost-of-misty-hill-dlc.json) |
 | City Legends: Trapped In Mirror - Collector's Edition | 212835 | [212835-city-legends-trapped-in-mirror-collectors-edition.json](./212835-city-legends-trapped-in-mirror-collectors-edition.json) |
+| City Life 2008 | 15719 | [15719-city-life-2008.json](./15719-city-life-2008.json) |
 | City Life: World Edition | 206347 | [206347-city-life-world-edition.json](./206347-city-life-world-edition.json) |
 | City Limits | 208438 | [208438-city-limits.json](./208438-city-limits.json) |
 | City Living: Urban Stories | 106746 | [106746-city-living-urban-stories.json](./106746-city-living-urban-stories.json) |
