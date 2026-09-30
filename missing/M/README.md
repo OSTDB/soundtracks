@@ -2993,6 +2993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | McTetris | 230831 | [230831-mctetris.json](./230831-mctetris.json) |
 | MDF: Magical Defense Force - Chapters 10-18 | 285445 | [285445-mdf-magical-defense-force-chapters-10-18.json](./285445-mdf-magical-defense-force-chapters-10-18.json) |
 | mdiapp+ SE | 74347 | [74347-mdiapp-se.json](./74347-mdiapp-se.json) |
+| MDK2: Armageddon | 414467 | [414467-mdk2-armageddon.json](./414467-mdk2-armageddon.json) |
 | Me | 145034 | [145034-me.json](./145034-me.json) |
 | Me & My Katamari | 6455 | [6455-me-and-my-katamari.json](./6455-me-and-my-katamari.json) |
 | Me & My Robot Friend | 128595 | [128595-me-and-my-robot-friend.json](./128595-me-and-my-robot-friend.json) |
@@ -3596,6 +3597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Marble World 2 | 157671 | [157671-mega-marble-world-2.json](./157671-mega-marble-world-2.json) |
 | Mega Mario | 307712 | [307712-mega-mario.json](./307712-mega-mario.json) |
 | Mega Mario World 2: Awakened Power | 229347 | [229347-mega-mario-world-2-awakened-power.json](./229347-mega-mario-world-2-awakened-power.json) |
+| Mega Mash Mons | 414506 | [414506-mega-mash-mons.json](./414506-mega-mash-mons.json) |
 | Mega Match | 209530 | [209530-mega-match.json](./209530-mega-match.json) |
 | Mega Math | 19670 | [19670-mega-math.json](./19670-mega-math.json) |
 | Mega Maze | 44287 | [44287-mega-maze.json](./44287-mega-maze.json) |
@@ -5499,6 +5501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindlock: The Apartment | 275333 | [275333-mindlock-the-apartment.json](./275333-mindlock-the-apartment.json) |
 | MindMessenger | 342156 | [342156-mindmessenger.json](./342156-mindmessenger.json) |
 | Mindnight | 52260 | [52260-mindnight.json](./52260-mindnight.json) |
+| Minds Define Us | 414511 | [414511-minds-define-us.json](./414511-minds-define-us.json) |
 | Minds of Nations | 128985 | [128985-minds-of-nations.json](./128985-minds-of-nations.json) |
 | MindScape: Verenna | 274760 | [274760-mindscape-verenna.json](./274760-mindscape-verenna.json) |
 | Mindset | 68616 | [68616-mindset.json](./68616-mindset.json) |
@@ -5809,6 +5812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Rollers | 36518 | [36518-mini-rollers.json](./36518-mini-rollers.json) |
 | Mini Royale | 201020 | [201020-mini-royale.json](./201020-mini-royale.json) |
 | Mini Ship Wars | 155468 | [155468-mini-ship-wars.json](./155468-mini-ship-wars.json) |
+| Mini Soccer Star | 414515 | [414515-mini-soccer-star.json](./414515-mini-soccer-star.json) |
 | Mini Speedy Racers | 240212 | [240212-mini-speedy-racers.json](./240212-mini-speedy-racers.json) |
 | Mini Star Quest | 344948 | [344948-mini-star-quest.json](./344948-mini-star-quest.json) |
 | Mini Star Survivor | 262902 | [262902-mini-star-survivor.json](./262902-mini-star-survivor.json) |
@@ -8496,6 +8500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr.Addon in Sulpicius Gallus M | 187384 | [187384-mr-addon-in-sulpicius-gallus-m.json](./187384-mr-addon-in-sulpicius-gallus-m.json) |
 | Mr.Jezko | 86579 | [86579-mr-jezko.json](./86579-mr-jezko.json) |
 | MR.KungFu | 174737 | [174737-mr-kungfu.json](./174737-mr-kungfu.json) |
+| Mr.Mag: The Dark Side Within | 414535 | [414535-mr-mag-the-dark-side-within.json](./414535-mr-mag-the-dark-side-within.json) |
 | Mr.Mine | 157130 | [157130-mr-mine.json](./157130-mr-mine.json) |
 | Mr.Ninja!! Fever | 248283 | [248283-mr-ninja-fever.json](./248283-mr-ninja-fever.json) |
 | Mr.President! | 24972 | [24972-mr-president.json](./24972-mr-president.json) |
@@ -9083,6 +9088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Boyfriend's a Werecat! | 169362 | [169362-my-boyfriends-a-werecat.json](./169362-my-boyfriends-a-werecat.json) |
 | My Breast Friend Sally | 286500 | [286500-my-breast-friend-sally.json](./286500-my-breast-friend-sally.json) |
 | My Brick Breaker | 307158 | [307158-my-brick-breaker.json](./307158-my-brick-breaker.json) |
+| My Brother Hacker | 414478 | [414478-my-brother-hacker.json](./414478-my-brother-hacker.json) |
 | My Brother is a Superhero | 242559 | [242559-my-brother-is-a-superhero.json](./242559-my-brother-is-a-superhero.json) |
 | My brother lives in a canyon | 152725 | [152725-my-brother-lives-in-a-canyon.json](./152725-my-brother-lives-in-a-canyon.json) |
 | My Brother Rabbit | 104522 | [104522-my-brother-rabbit.json](./104522-my-brother-rabbit.json) |
