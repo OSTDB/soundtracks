@@ -1330,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NERO: Neuro-Evolving Robotic Operatives | 7616 | [7616-nero-neuro-evolving-robotic-operatives.json](./7616-nero-neuro-evolving-robotic-operatives.json) |
 | Nerts Extreme | 107660 | [107660-nerts-extreme.json](./107660-nerts-extreme.json) |
 | Nerts!: Online | 142226 | [142226-nerts-online.json](./142226-nerts-online.json) |
+| Nertz Solitaire | 405645 | [405645-nertz-solitaire.json](./405645-nertz-solitaire.json) |
 | Nerus | 141125 | [141125-nerus.json](./141125-nerus.json) |
 | Nerve Me | 125833 | [125833-nerve-me.json](./125833-nerve-me.json) |
 | Nervous Brickdown | 9507 | [9507-nervous-brickdown.json](./9507-nervous-brickdown.json) |
