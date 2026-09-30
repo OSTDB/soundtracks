@@ -6082,6 +6082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connect the Circuit 1000 | 328544 | [328544-connect-the-circuit-1000.json](./328544-connect-the-circuit-1000.json) |
 | Connect the Dots | 151551 | [151551-connect-the-dots.json](./151551-connect-the-dots.json) |
 | Connect the Dots | 356634 | [356634-connect-the-dots.json](./356634-connect-the-dots.json) |
+| Connect the Stars | 409616 | [409616-connect-the-stars.json](./409616-connect-the-stars.json) |
 | Connect the World | 300700 | [300700-connect-the-world.json](./300700-connect-the-world.json) |
 | Connect Word | 352256 | [352256-connect-word.json](./352256-connect-word.json) |
 | Connect/Words | 87696 | [87696-connect-words.json](./87696-connect-words.json) |
@@ -6160,6 +6161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Console Archives: Hercules no Eikou II - Taitan no Metsubou | 410364 | [410364-console-archives-hercules-no-eikou-ii-taitan-no-metsubou.json](./410364-console-archives-hercules-no-eikou-ii-taitan-no-metsubou.json) |
 | Console Archives: Master of Monsters - Disciples of Gaia | 401691 | [401691-console-archives-master-of-monsters-disciples-of-gaia.json](./401691-console-archives-master-of-monsters-disciples-of-gaia.json) |
 | Console Archives: Nobunaga's Ambition | 394383 | [394383-console-archives-nobunagas-ambition.json](./394383-console-archives-nobunagas-ambition.json) |
+| Console Archives: Rhapsody - A Musical Adventure | 409617 | [409617-console-archives-rhapsody-a-musical-adventure.json](./409617-console-archives-rhapsody-a-musical-adventure.json) |
 | Console Archives: Rhapsody II - Ballad of the Little Princess | 415220 | [415220-console-archives-rhapsody-ii-ballad-of-the-little-princess.json](./415220-console-archives-rhapsody-ii-ballad-of-the-little-princess.json) |
 | Console Archives: T.R.A.G. - Tactical Rescue Assault Group: Mission of Mercy | 408738 | [408738-console-archives-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json](./408738-console-archives-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json) |
 | Console Archives: The Conveni | 411151 | [411151-console-archives-the-conveni.json](./411151-console-archives-the-conveni.json) |
@@ -7063,6 +7065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowbots and Aliens | 31595 | [31595-cowbots-and-aliens.json](./31595-cowbots-and-aliens.json) |
 | Cowboy | 346053 | [346053-cowboy.json](./346053-cowboy.json) |
 | Cowboy 3030 | 266220 | [266220-cowboy-3030.json](./266220-cowboy-3030.json) |
+| Cowboy Busy: Mowdown | 409743 | [409743-cowboy-busy-mowdown.json](./409743-cowboy-busy-mowdown.json) |
 | Cowboy Carl | 306456 | [306456-cowboy-carl.json](./306456-cowboy-carl.json) |
 | Cowboy Escape | 88233 | [88233-cowboy-escape.json](./88233-cowboy-escape.json) |
 | Cowboy Gold Round-Up | 103867 | [103867-cowboy-gold-round-up.json](./103867-cowboy-gold-round-up.json) |
@@ -8587,6 +8590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube | 339350 | [339350-cube.json](./339350-cube.json) |
 | Cube | 385600 | [385600-cube.json](./385600-cube.json) |
 | Cube | 396933 | [396933-cube.json](./396933-cube.json) |
+| Cube & Seek | 409711 | [409711-cube-and-seek.json](./409711-cube-and-seek.json) |
 | Cube & Star: An Arbitrary Love | 16812 | [16812-cube-and-star-an-arbitrary-love.json](./16812-cube-and-star-an-arbitrary-love.json) |
 | Cube 2x1 | 267970 | [267970-cube-2x1.json](./267970-cube-2x1.json) |
 | Cube 2x1 RailFarm | 331994 | [331994-cube-2x1-railfarm.json](./331994-cube-2x1-railfarm.json) |
