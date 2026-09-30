@@ -1281,6 +1281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary Slide 2: Platinum Edition | 266814 | [266814-legendary-slide-2-platinum-edition.json](./266814-legendary-slide-2-platinum-edition.json) |
 | Legendary Spell: Deluxe Edition | 395679 | [395679-legendary-spell-deluxe-edition.json](./395679-legendary-spell-deluxe-edition.json) |
 | Legendary Tales | 157175 | [157175-legendary-tales.json](./157175-legendary-tales.json) |
+| Legendary Tales V: Price of Power - Collector's Edition | 416783 | [416783-legendary-tales-v-price-of-power-collectors-edition.json](./416783-legendary-tales-v-price-of-power-collectors-edition.json) |
 | Legendary Tales: Cataclysm | 186322 | [186322-legendary-tales-cataclysm.json](./186322-legendary-tales-cataclysm.json) |
 | Legendary Tales: Dawn of History | 413598 | [413598-legendary-tales-dawn-of-history.json](./413598-legendary-tales-dawn-of-history.json) |
 | Legendary Tales: Stories | 287165 | [287165-legendary-tales-stories.json](./287165-legendary-tales-stories.json) |
@@ -2407,6 +2408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limbs | 238751 | [238751-limbs.json](./238751-limbs.json) |
 | Limbus Company | 194106 | [194106-limbus-company.json](./194106-limbus-company.json) |
 | Limbus Company: Season 5 - Oblivion | 319013 | [319013-limbus-company-season-5-oblivion.json](./319013-limbus-company-season-5-oblivion.json) |
+| Limbus Company: Season 8 - Punctum | 416722 | [416722-limbus-company-season-8-punctum.json](./416722-limbus-company-season-8-punctum.json) |
 | Limbus Stable | 352213 | [352213-limbus-stable.json](./352213-limbus-stable.json) |
 | Lime Ergot | 138142 | [138142-lime-ergot.json](./138142-lime-ergot.json) |
 | Lime Juice | 323719 | [323719-lime-juice.json](./323719-lime-juice.json) |
