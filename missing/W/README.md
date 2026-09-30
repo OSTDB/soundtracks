@@ -1120,6 +1120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Park: Fun Water Slides | 96974 | [96974-water-park-fun-water-slides.json](./96974-water-park-fun-water-slides.json) |
 | Water Pipeline | 55235 | [55235-water-pipeline.json](./55235-water-pipeline.json) |
 | Water Pipes | 104092 | [104092-water-pipes.json](./104092-water-pipes.json) |
+| Water Planet | 27297 | [27297-water-planet.json](./27297-water-planet.json) |
 | Water Polo | 346104 | [346104-water-polo.json](./346104-water-polo.json) |
 | Water Rain | 158077 | [158077-water-rain.json](./158077-water-rain.json) |
 | Water Search | 224753 | [224753-water-search.json](./224753-water-search.json) |
@@ -1245,6 +1246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wayne Gretzky Hockey 3 | 15511 | [15511-wayne-gretzky-hockey-3.json](./15511-wayne-gretzky-hockey-3.json) |
 | Wayne Gretzky's 3D Hockey | 3630 | [3630-wayne-gretzkys-3d-hockey.json](./3630-wayne-gretzkys-3d-hockey.json) |
 | Wayne's World | 198954 | [198954-waynes-world.json](./198954-waynes-world.json) |
+| WayOut 2: Hex | 27334 | [27334-wayout-2-hex.json](./27334-wayout-2-hex.json) |
 | Ways | 323521 | [323521-ways.json](./323521-ways.json) |
 | Ways of Alchemy | 333069 | [333069-ways-of-alchemy.json](./333069-ways-of-alchemy.json) |
 | Ways Unknown | 408278 | [408278-ways-unknown.json](./408278-ways-unknown.json) |
@@ -1620,6 +1622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Westbound: Perils Ranch | 323325 | [323325-westbound-perils-ranch.json](./323325-westbound-perils-ranch.json) |
 | Westbound: Pioneer Adventure | 39170 | [39170-westbound-pioneer-adventure.json](./39170-westbound-pioneer-adventure.json) |
 | Westerlands: Girly runaways story | 147247 | [147247-westerlands-girly-runaways-story.json](./147247-westerlands-girly-runaways-story.json) |
+| Western 1849 Reloaded | 27335 | [27335-western-1849-reloaded.json](./27335-western-1849-reloaded.json) |
 | Western Adventure - Cowboy Revenge 3D | 99186 | [99186-western-adventure-cowboy-revenge-3d.json](./99186-western-adventure-cowboy-revenge-3d.json) |
 | Western Bank VR | 76678 | [76678-western-bank-vr.json](./76678-western-bank-vr.json) |
 | Western Press: TF2 Heavy | 228462 | [228462-western-press-tf2-heavy.json](./228462-western-press-tf2-heavy.json) |
@@ -2856,6 +2859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wisps of the Elements | 312544 | [312544-wisps-of-the-elements.json](./312544-wisps-of-the-elements.json) |
 | Wisps: The Redeeming | 2961 | [2961-wisps-the-redeeming.json](./2961-wisps-the-redeeming.json) |
 | Wissen Heroes | 123501 | [123501-wissen-heroes.json](./123501-wissen-heroes.json) |
+| Witanlore: Dreamtime | 27309 | [27309-witanlore-dreamtime.json](./27309-witanlore-dreamtime.json) |
 | Witch | 120153 | [120153-witch.json](./120153-witch.json) |
 | Witch | 299159 | [299159-witch.json](./299159-witch.json) |
 | Witch & Cats | 258177 | [258177-witch-and-cats.json](./258177-witch-and-cats.json) |
