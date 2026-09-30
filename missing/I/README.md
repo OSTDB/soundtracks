@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I am Titan | 301005 | [301005-i-am-titan.json](./301005-i-am-titan.json) |
 | I Am Your Beast VR | 360781 | [360781-i-am-your-beast-vr.json](./360781-i-am-your-beast-vr.json) |
 | I Am Your Beast: Cold Sweat Update | 335994 | [335994-i-am-your-beast-cold-sweat-update.json](./335994-i-am-your-beast-cold-sweat-update.json) |
+| I Am Your Beast: Quitting Time | 418506 | [418506-i-am-your-beast-quitting-time.json](./418506-i-am-your-beast-quitting-time.json) |
 | I Am Your Beast: Support Group Update | 334704 | [334704-i-am-your-beast-support-group-update.json](./334704-i-am-your-beast-support-group-update.json) |
 | I Am: A Story of Awakenings | 154993 | [154993-i-am-a-story-of-awakenings.json](./154993-i-am-a-story-of-awakenings.json) |
 | I Ask The Cube Where To Go | 290481 | [290481-i-ask-the-cube-where-to-go.json](./290481-i-ask-the-cube-where-to-go.json) |
@@ -1579,6 +1580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indoor Soccer for the TI 99/4A | 93990 | [93990-indoor-soccer-for-the-ti-99-4a.json](./93990-indoor-soccer-for-the-ti-99-4a.json) |
 | Indoor Sports World | 52246 | [52246-indoor-sports-world.json](./52246-indoor-sports-world.json) |
 | Indoors: The Alston Manor | 269005 | [269005-indoors-the-alston-manor.json](./269005-indoors-the-alston-manor.json) |
+| Indoors: Trespasser | 418544 | [418544-indoors-trespasser.json](./418544-indoors-trespasser.json) |
 | Induction | 18194 | [18194-induction.json](./18194-induction.json) |
 | Inductor | 211282 | [211282-inductor.json](./211282-inductor.json) |
 | Indulge | 414312 | [414312-indulge.json](./414312-indulge.json) |
