@@ -1790,6 +1790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent XXL und das Geheimnis der Quadrate | 113470 | [113470-agent-xxl-und-das-geheimnis-der-quadrate.json](./113470-agent-xxl-und-das-geheimnis-der-quadrate.json) |
 | Agent-00 | 140355 | [140355-agent-00.json](./140355-agent-00.json) |
 | Agent: osoboye zadaniye | 132158 | [132158-agent-osoboye-zadaniye.json](./132158-agent-osoboye-zadaniye.json) |
+| Agents 404 | 408224 | [408224-agents-404.json](./408224-agents-404.json) |
 | Agents of Groove | 325644 | [325644-agents-of-groove.json](./325644-agents-of-groove.json) |
 | Agents of Mayhem: Johnny Gat | 118271 | [118271-agents-of-mayhem-johnny-gat.json](./118271-agents-of-mayhem-johnny-gat.json) |
 | Agents of Mayhem: Lazarus | 118270 | [118270-agents-of-mayhem-lazarus.json](./118270-agents-of-mayhem-lazarus.json) |
@@ -4975,6 +4976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apostate | 240760 | [240760-apostate.json](./240760-apostate.json) |
 | Apoth | 238509 | [238509-apoth.json](./238509-apoth.json) |
 | Apothecarium: The Renaissance of Evil | 59907 | [59907-apothecarium-the-renaissance-of-evil.json](./59907-apothecarium-the-renaissance-of-evil.json) |
+| Apothecary of Ashes | 408213 | [408213-apothecary-of-ashes.json](./408213-apothecary-of-ashes.json) |
 | Apothecurse | 334175 | [334175-apothecurse.json](./334175-apothecurse.json) |
 | Apotheker | 141880 | [141880-apotheker.json](./141880-apotheker.json) |
 | Apotheon | 9016 | [9016-apotheon.json](./9016-apotheon.json) |
@@ -6448,6 +6450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asheron's Call: Throne of Destiny | 23736 | [23736-asherons-call-throne-of-destiny.json](./23736-asherons-call-throne-of-destiny.json) |
 | Ashes 2 | 119774 | [119774-ashes-2.json](./119774-ashes-2.json) |
 | Ashes Cricket | 68282 | [68282-ashes-cricket.json](./68282-ashes-cricket.json) |
+| Ashes Nomad | 408126 | [408126-ashes-nomad.json](./408126-ashes-nomad.json) |
 | Ashes of Arcanum | 264687 | [264687-ashes-of-arcanum.json](./264687-ashes-of-arcanum.json) |
 | Ashes of Arcanum: Antique Pack | 313674 | [313674-ashes-of-arcanum-antique-pack.json](./313674-ashes-of-arcanum-antique-pack.json) |
 | Ashes of Arcanum: Aves Pack | 313677 | [313677-ashes-of-arcanum-aves-pack.json](./313677-ashes-of-arcanum-aves-pack.json) |
