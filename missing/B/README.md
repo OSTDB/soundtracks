@@ -294,6 +294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: No Return | 236777 | [236777-backrooms-no-return.json](./236777-backrooms-no-return.json) |
 | Backrooms: One | 406835 | [406835-backrooms-one.json](./406835-backrooms-one.json) |
 | Backrooms: Perpetual | 205072 | [205072-backrooms-perpetual.json](./205072-backrooms-perpetual.json) |
+| Backrooms: Poolrooms | 389062 | [389062-backrooms-poolrooms.json](./389062-backrooms-poolrooms.json) |
 | Backrooms: Realm of Shadows | 247513 | [247513-backrooms-realm-of-shadows.json](./247513-backrooms-realm-of-shadows.json) |
 | Backrooms: Rebirth | 290916 | [290916-backrooms-rebirth.json](./290916-backrooms-rebirth.json) |
 | Backrooms: Reminiscence | 366831 | [366831-backrooms-reminiscence.json](./366831-backrooms-reminiscence.json) |
@@ -1306,6 +1307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barnyard Games For Kids | 96737 | [96737-barnyard-games-for-kids.json](./96737-barnyard-games-for-kids.json) |
 | Barnyard Mahjong | 90736 | [90736-barnyard-mahjong.json](./90736-barnyard-mahjong.json) |
 | Barnyard Mahjong 3 | 32156 | [32156-barnyard-mahjong-3.json](./32156-barnyard-mahjong-3.json) |
+| Barnyard Sherlock Hooves | 389032 | [389032-barnyard-sherlock-hooves.json](./389032-barnyard-sherlock-hooves.json) |
 | Baro Kart | 259009 | [259009-baro-kart.json](./259009-baro-kart.json) |
 | Barold | 220135 | [220135-barold.json](./220135-barold.json) |
 | BaroMaro | 304689 | [304689-baromaro.json](./304689-baromaro.json) |
@@ -4998,6 +5000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocky Space Puzzle | 106733 | [106733-blocky-space-puzzle.json](./106733-blocky-space-puzzle.json) |
 | Blocky XMas | 101769 | [101769-blocky-xmas.json](./101769-blocky-xmas.json) |
 | Blockz VS Ballz | 111013 | [111013-blockz-vs-ballz.json](./111013-blockz-vs-ballz.json) |
+| Bloclash | 389045 | [389045-bloclash.json](./389045-bloclash.json) |
 | Blocus | 313263 | [313263-blocus.json](./313263-blocus.json) |
 | Blofeld X | 269108 | [269108-blofeld-x.json](./269108-blofeld-x.json) |
 | bLogic Blox | 110767 | [110767-blogic-blox.json](./110767-blogic-blox.json) |
@@ -6014,6 +6017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Book of Beasts | 141179 | [141179-book-of-beasts.json](./141179-book-of-beasts.json) |
 | Book of Coin | 221113 | [221113-book-of-coin.json](./221113-book-of-coin.json) |
 | Book of Demons | 22747 | [22747-book-of-demons.json](./22747-book-of-demons.json) |
+| Book of Korvald | 389046 | [389046-book-of-korvald.json](./389046-book-of-korvald.json) |
 | Book of Mario | 159321 | [159321-book-of-mario.json](./159321-book-of-mario.json) |
 | Book of Mario: Thousands of Doors | 159323 | [159323-book-of-mario-thousands-of-doors.json](./159323-book-of-mario-thousands-of-doors.json) |
 | Book of Myko | 350455 | [350455-book-of-myko.json](./350455-book-of-myko.json) |
@@ -7820,6 +7824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build a Cat Tower to reach the Fish | 413102 | [413102-build-a-cat-tower-to-reach-the-fish.json](./413102-build-a-cat-tower-to-reach-the-fish.json) |
 | Build a Flexible Brain! Shape Search | 401110 | [401110-build-a-flexible-brain-shape-search.json](./401110-build-a-flexible-brain-shape-search.json) |
 | Build a Game Universe | 34814 | [34814-build-a-game-universe.json](./34814-build-a-game-universe.json) |
+| Build A Queen | 389047 | [389047-build-a-queen.json](./389047-build-a-queen.json) |
 | Build A Queen: Pirate Edition | 399812 | [399812-build-a-queen-pirate-edition.json](./399812-build-a-queen-pirate-edition.json) |
 | Build A Train 2 | 100728 | [100728-build-a-train-2.json](./100728-build-a-train-2.json) |
 | Build and Discover: America | 217322 | [217322-build-and-discover-america.json](./217322-build-and-discover-america.json) |
