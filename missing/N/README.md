@@ -1248,6 +1248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Tide | 120912 | [120912-neon-tide.json](./120912-neon-tide.json) |
 | Neon Tower Blast | 120757 | [120757-neon-tower-blast.json](./120757-neon-tower-blast.json) |
 | Neon Trap Defense | 185526 | [185526-neon-trap-defense.json](./185526-neon-trap-defense.json) |
+| Neon Ultra | 31296 | [31296-neon-ultra.json](./31296-neon-ultra.json) |
 | Neon Village | 302358 | [302358-neon-village.json](./302358-neon-village.json) |
 | Neon Void Runner | 96905 | [96905-neon-void-runner.json](./96905-neon-void-runner.json) |
 | Neon Wars | 312925 | [312925-neon-wars.json](./312925-neon-wars.json) |
@@ -2010,6 +2011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Fighter | 41570 | [41570-night-fighter.json](./41570-night-fighter.json) |
 | Night Flight | 297492 | [297492-night-flight.json](./297492-night-flight.json) |
 | Night Flight | 42137 | [42137-night-flight.json](./42137-night-flight.json) |
+| Night Forest | 31285 | [31285-night-forest.json](./31285-night-forest.json) |
 | Night Fright | 318402 | [318402-night-fright.json](./318402-night-fright.json) |
 | Night Furries | 367512 | [367512-night-furries.json](./367512-night-furries.json) |
 | Night Gal Summer | 229340 | [229340-night-gal-summer.json](./229340-night-gal-summer.json) |
@@ -3247,6 +3249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not A Fake Game | 366868 | [366868-not-a-fake-game.json](./366868-not-a-fake-game.json) |
 | Not a Hero | 6045 | [6045-not-a-hero.json](./6045-not-a-hero.json) |
 | Not a Hero - Me, Myself & Bunnylord | 140548 | [140548-not-a-hero-me-myself-and-bunnylord.json](./140548-not-a-hero-me-myself-and-bunnylord.json) |
+| Not a Hero: Super Snazzy Edition | 32038 | [32038-not-a-hero-super-snazzy-edition.json](./32038-not-a-hero-super-snazzy-edition.json) |
 | Not a Prank | 118977 | [118977-not-a-prank.json](./118977-not-a-prank.json) |
 | Not Again, Hero | 364684 | [364684-not-again-hero.json](./364684-not-again-hero.json) |
 | Not All There | 229781 | [229781-not-all-there.json](./229781-not-all-there.json) |
