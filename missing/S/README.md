@@ -1283,6 +1283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlet Lake | 253872 | [253872-scarlet-lake.json](./253872-scarlet-lake.json) |
 | Scarlet Manor: The Heir | 272937 | [272937-scarlet-manor-the-heir.json](./272937-scarlet-manor-the-heir.json) |
 | Scarlet Nexus: Ultimate Edition | 188044 | [188044-scarlet-nexus-ultimate-edition.json](./188044-scarlet-nexus-ultimate-edition.json) |
+| Scarlet Prism | 413819 | [413819-scarlet-prism.json](./413819-scarlet-prism.json) |
 | Scarlet Republics | 156693 | [156693-scarlet-republics.json](./156693-scarlet-republics.json) |
 | Scarlet Sails | 59689 | [59689-scarlet-sails.json](./59689-scarlet-sails.json) |
 | Scarlet Sand Sojourn | 266202 | [266202-scarlet-sand-sojourn.json](./266202-scarlet-sand-sojourn.json) |
@@ -3667,6 +3668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelf Heroes | 336147 | [336147-shelf-heroes.json](./336147-shelf-heroes.json) |
 | Shelf-Employed | 413903 | [413903-shelf-employed.json](./413903-shelf-employed.json) |
 | ShelfLife: Art School Detective | 266769 | [266769-shelflife-art-school-detective.json](./266769-shelflife-art-school-detective.json) |
+| Shell as Hard as Steel | 413847 | [413847-shell-as-hard-as-steel.json](./413847-shell-as-hard-as-steel.json) |
 | Shell Corp | 129748 | [129748-shell-corp.json](./129748-shell-corp.json) |
 | Shell Increment | 390654 | [390654-shell-increment.json](./390654-shell-increment.json) |
 | Shell Is Cool | 328048 | [328048-shell-is-cool.json](./328048-shell-is-cool.json) |
@@ -4684,6 +4686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SideWinder | 12850 | [12850-sidewinder.json](./12850-sidewinder.json) |
 | Sidewinder 2 | 66656 | [66656-sidewinder-2.json](./66656-sidewinder-2.json) |
 | Sidewinder Max | 322940 | [322940-sidewinder-max.json](./322940-sidewinder-max.json) |
+| Sidius Nova | 413813 | [413813-sidius-nova.json](./413813-sidius-nova.json) |
 | Siege | 78612 | [78612-siege.json](./78612-siege.json) |
 | Siege and Destroy | 29802 | [29802-siege-and-destroy.json](./29802-siege-and-destroy.json) |
 | Siege Hammer | 31105 | [31105-siege-hammer.json](./31105-siege-hammer.json) |
@@ -8431,6 +8434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sora | 18569 | [18569-sora.json](./18569-sora.json) |
 | Sora no Ao to Shiro to | 368646 | [368646-sora-no-ao-to-shiro-to.json](./368646-sora-no-ao-to-shiro-to.json) |
 | Sora no Fudousan | 112523 | [112523-sora-no-fudousan.json](./112523-sora-no-fudousan.json) |
+| Sora no Hiraketa Basho: Chord:OOC | 413830 | [413830-sora-no-hiraketa-basho-chord-ooc.json](./413830-sora-no-hiraketa-basho-chord-ooc.json) |
 | Sora no Iro, Mizu no Iro | 72718 | [72718-sora-no-iro-mizu-no-iro.json](./72718-sora-no-iro-mizu-no-iro.json) |
 | Sora o Aogite Kumo Takaku | 62733 | [62733-sora-o-aogite-kumo-takaku.json](./62733-sora-o-aogite-kumo-takaku.json) |
 | Sora Tobu Henry | 231506 | [231506-sora-tobu-henry.json](./231506-sora-tobu-henry.json) |
@@ -11617,6 +11621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starless Abyss | 319573 | [319573-starless-abyss.json](./319573-starless-abyss.json) |
 | Starless: Nymphomaniacs' Paradise | 19946 | [19946-starless-nymphomaniacs-paradise.json](./19946-starless-nymphomaniacs-paradise.json) |
 | Starlet Disorder | 380671 | [380671-starlet-disorder.json](./380671-starlet-disorder.json) |
+| Starlife | 413802 | [413802-starlife.json](./413802-starlife.json) |
 | Starlight | 181804 | [181804-starlight.json](./181804-starlight.json) |
 | Starlight | 247552 | [247552-starlight.json](./247552-starlight.json) |
 | Starlight Attack | 198520 | [198520-starlight-attack.json](./198520-starlight-attack.json) |
@@ -13395,6 +13400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suber Driver | 189079 | [189079-suber-driver.json](./189079-suber-driver.json) |
 | Subject 26 | 178497 | [178497-subject-26.json](./178497-subject-26.json) |
 | Subject 264 | 30959 | [30959-subject-264.json](./30959-subject-264.json) |
+| Subject: Dinha | 413857 | [413857-subject-dinha.json](./413857-subject-dinha.json) |
 | Subject:Love | 305850 | [305850-subject-love.json](./305850-subject-love.json) |
 | Subjectivation | 341910 | [341910-subjectivation.json](./341910-subjectivation.json) |
 | Sublight | 377057 | [377057-sublight.json](./377057-sublight.json) |
@@ -16013,6 +16019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suspicious Shuffle | 219557 | [219557-suspicious-shuffle.json](./219557-suspicious-shuffle.json) |
 | Sustainable Shaun | 207839 | [207839-sustainable-shaun.json](./207839-sustainable-shaun.json) |
 | Sustenance | 316986 | [316986-sustenance.json](./316986-sustenance.json) |
+| Susuki Kaidan | 413865 | [413865-susuki-kaidan.json](./413865-susuki-kaidan.json) |
 | Susume Choujou Genshou Kenkyuubu! | 66209 | [66209-susume-choujou-genshou-kenkyuubu.json](./66209-susume-choujou-genshou-kenkyuubu.json) |
 | Susume Tactics | 193724 | [193724-susume-tactics.json](./193724-susume-tactics.json) |
 | Susume! Kaizoku: Be Pirates! | 200661 | [200661-susume-kaizoku-be-pirates.json](./200661-susume-kaizoku-be-pirates.json) |
