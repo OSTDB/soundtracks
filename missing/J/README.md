@@ -608,6 +608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JetPilot GoNow Demo | 136233 | [136233-jetpilot-gonow-demo.json](./136233-jetpilot-gonow-demo.json) |
 | jetPin | 141166 | [141166-jetpin.json](./141166-jetpin.json) |
 | Jetrats Defense | 233750 | [233750-jetrats-defense.json](./233750-jetrats-defense.json) |
+| Jetrunner | 296332 | [296332-jetrunner.json](./296332-jetrunner.json) |
 | Jets A Blazin' | 249865 | [249865-jets-a-blazin.json](./249865-jets-a-blazin.json) |
 | Jets Killer | 291472 | [291472-jets-killer.json](./291472-jets-killer.json) |
 | Jets'n'Guns 2 | 112638 | [112638-jetsnguns-2.json](./112638-jetsnguns-2.json) |
