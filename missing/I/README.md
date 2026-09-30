@@ -1216,6 +1216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperator: Rome - Premium Edition | 139915 | [139915-imperator-rome-premium-edition.json](./139915-imperator-rome-premium-edition.json) |
 | Imperator: Rome - The Punic Wars Content Pack | 154496 | [154496-imperator-rome-the-punic-wars-content-pack.json](./154496-imperator-rome-the-punic-wars-content-pack.json) |
 | Imperfect Garden | 358297 | [358297-imperfect-garden.json](./358297-imperfect-garden.json) |
+| Imperfections | 414502 | [414502-imperfections.json](./414502-imperfections.json) |
 | Imperi | 75791 | [75791-imperi.json](./75791-imperi.json) |
 | Imperi II | 100591 | [100591-imperi-ii.json](./100591-imperi-ii.json) |
 | Imperial Destiny: Path of Gold | 231939 | [231939-imperial-destiny-path-of-gold.json](./231939-imperial-destiny-path-of-gold.json) |
