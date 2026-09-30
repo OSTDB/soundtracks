@@ -2756,6 +2756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Anthurium | 115767 | [115767-the-anthurium.json](./115767-the-anthurium.json) |
 | The Anti-Gravity Machine | 359420 | [359420-the-anti-gravity-machine.json](./359420-the-anti-gravity-machine.json) |
 | The Anything Gallery | 177029 | [177029-the-anything-gallery.json](./177029-the-anything-gallery.json) |
+| The Apartment | 81900 | [81900-the-apartment.json](./81900-the-apartment.json) |
 | The Apartment 57 | 327867 | [327867-the-apartment-57.json](./327867-the-apartment-57.json) |
 | The Ape Painting | 240241 | [240241-the-ape-painting.json](./240241-the-ape-painting.json) |
 | The Aperture Dilemma | 378905 | [378905-the-aperture-dilemma.json](./378905-the-aperture-dilemma.json) |
@@ -12981,6 +12982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffix | 118755 | [118755-traffix.json](./118755-traffix.json) |
 | Traffix 3D | 296071 | [296071-traffix-3d.json](./296071-traffix-3d.json) |
 | Trafic Road Rush | 111869 | [111869-trafic-road-rush.json](./111869-trafic-road-rush.json) |
+| Trafico | 81797 | [81797-trafico.json](./81797-trafico.json) |
 | Tragedy of Prince Rupert | 50891 | [50891-tragedy-of-prince-rupert.json](./50891-tragedy-of-prince-rupert.json) |
 | Tragedy Theater | 260164 | [260164-tragedy-theater.json](./260164-tragedy-theater.json) |
 | Trago | 104066 | [104066-trago.json](./104066-trago.json) |
