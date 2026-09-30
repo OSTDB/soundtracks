@@ -3694,6 +3694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granular Moon | 383661 | [383661-granular-moon.json](./383661-granular-moon.json) |
 | Granvil's Fairytale | 203309 | [203309-granvils-fairytale.json](./203309-granvils-fairytale.json) |
 | Grapefruit | 304203 | [304203-grapefruit.json](./304203-grapefruit.json) |
+| Graph TD: Cosmic | 395104 | [395104-graph-td-cosmic.json](./395104-graph-td-cosmic.json) |
 | Graphic Mahjong | 91959 | [91959-graphic-mahjong.json](./91959-graphic-mahjong.json) |
 | Graphic Tower Defense | 348767 | [348767-graphic-tower-defense.json](./348767-graphic-tower-defense.json) |
 | Graphomata | 288878 | [288878-graphomata.json](./288878-graphomata.json) |
@@ -5171,6 +5172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guys with Magnets | 405741 | [405741-guys-with-magnets.json](./405741-guys-with-magnets.json) |
 | Guzzler | 13865 | [13865-guzzler.json](./13865-guzzler.json) |
 | Gverse | 236913 | [236913-gverse.json](./236913-gverse.json) |
+| GWARP | 395152 | [395152-gwarp.json](./395152-gwarp.json) |
 | Gwen the Magic Nanny | 54076 | [54076-gwen-the-magic-nanny.json](./54076-gwen-the-magic-nanny.json) |
 | GwenBlade 2: Halloween | 340406 | [340406-gwenblade-2-halloween.json](./340406-gwenblade-2-halloween.json) |
 | Gwendolyn: Pursuit of a Princess | 25830 | [25830-gwendolyn-pursuit-of-a-princess.json](./25830-gwendolyn-pursuit-of-a-princess.json) |
