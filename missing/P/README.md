@@ -1078,6 +1078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parasol Fall | 231632 | [231632-parasol-fall.json](./231632-parasol-fall.json) |
 | Parasol Stars: Rainbow Islands 2 | 39027 | [39027-parasol-stars-rainbow-islands-2.json](./39027-parasol-stars-rainbow-islands-2.json) |
 | Parasol Stars: Rainbow Islands II | 316080 | [316080-parasol-stars-rainbow-islands-ii.json](./316080-parasol-stars-rainbow-islands-ii.json) |
+| Parasol Stars: Rainbow Islands II | 48278 | [48278-parasol-stars-rainbow-islands-ii.json](./48278-parasol-stars-rainbow-islands-ii.json) |
 | Parasol Stars: The Story of Bubble Bobble III | 42101 | [42101-parasol-stars-the-story-of-bubble-bobble-iii.json](./42101-parasol-stars-the-story-of-bubble-bobble-iii.json) |
 | Parasomnia Verum | 153972 | [153972-parasomnia-verum.json](./153972-parasomnia-verum.json) |
 | Parasomnia: No Rem | 318531 | [318531-parasomnia-no-rem.json](./318531-parasomnia-no-rem.json) |
@@ -1921,6 +1922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin Rocketeer | 351610 | [351610-penguin-rocketeer.json](./351610-penguin-rocketeer.json) |
 | Penguin Take-Off!! | 305515 | [305515-penguin-take-off.json](./305515-penguin-take-off.json) |
 | Penguin Wars | 392168 | [392168-penguin-wars.json](./392168-penguin-wars.json) |
+| Penguin Wars | 48919 | [48919-penguin-wars.json](./48919-penguin-wars.json) |
 | Penguin Wars | 52022 | [52022-penguin-wars.json](./52022-penguin-wars.json) |
 | Penguin Weapons | 405067 | [405067-penguin-weapons.json](./405067-penguin-weapons.json) |
 | Penguin with a Pumpgun | 235869 | [235869-penguin-with-a-pumpgun.json](./235869-penguin-with-a-pumpgun.json) |
@@ -7976,6 +7978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Puyo | 146876 | [146876-puyo-puyo.json](./146876-puyo-puyo.json) |
 | Puyo Puyo | 249773 | [249773-puyo-puyo.json](./249773-puyo-puyo.json) |
 | Puyo Puyo 2 | 84798 | [84798-puyo-puyo-2.json](./84798-puyo-puyo-2.json) |
+| Puyo Puyo 7 | 50727 | [50727-puyo-puyo-7.json](./50727-puyo-puyo-7.json) |
 | Puyo Puyo CD | 250339 | [250339-puyo-puyo-cd.json](./250339-puyo-puyo-cd.json) |
 | Puyo Puyo CD Tsuu | 250297 | [250297-puyo-puyo-cd-tsuu.json](./250297-puyo-puyo-cd-tsuu.json) |
 | Puyo Puyo Fever Habanero | 252125 | [252125-puyo-puyo-fever-habanero.json](./252125-puyo-puyo-fever-habanero.json) |
