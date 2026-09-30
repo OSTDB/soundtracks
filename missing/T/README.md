@@ -738,6 +738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talisman: Origins - Beyond the Veil | 149003 | [149003-talisman-origins-beyond-the-veil.json](./149003-talisman-origins-beyond-the-veil.json) |
 | Talisman: Origins - The Eternal Conflict | 149005 | [149005-talisman-origins-the-eternal-conflict.json](./149005-talisman-origins-the-eternal-conflict.json) |
 | Talisman: Origins - The Legend of Pandora's Box | 149006 | [149006-talisman-origins-the-legend-of-pandoras-box.json](./149006-talisman-origins-the-legend-of-pandoras-box.json) |
+| Talisman: Prologue | 10953 | [10953-talisman-prologue.json](./10953-talisman-prologue.json) |
 | Talisman: The Ancient Beasts | 148511 | [148511-talisman-the-ancient-beasts.json](./148511-talisman-the-ancient-beasts.json) |
 | Talisman: The Cataclysm | 149020 | [149020-talisman-the-cataclysm.json](./149020-talisman-the-cataclysm.json) |
 | Talisman: The Dragon | 149009 | [149009-talisman-the-dragon.json](./149009-talisman-the-dragon.json) |
@@ -4728,6 +4729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gray Wolf and The Little Lamb | 245003 | [245003-the-gray-wolf-and-the-little-lamb.json](./245003-the-gray-wolf-and-the-little-lamb.json) |
 | The Great | 211959 | [211959-the-great.json](./211959-the-great.json) |
 | The Great Ace Attorney: Adventures | 76244 | [76244-the-great-ace-attorney-adventures.json](./76244-the-great-ace-attorney-adventures.json) |
+| The Great Art Race | 10690 | [10690-the-great-art-race.json](./10690-the-great-art-race.json) |
 | The Great Basement Escape | 385192 | [385192-the-great-basement-escape.json](./385192-the-great-basement-escape.json) |
 | The Great Bathroom Escape | 385190 | [385190-the-great-bathroom-escape.json](./385190-the-great-bathroom-escape.json) |
 | The Great Battle III | 66671 | [66671-the-great-battle-iii.json](./66671-the-great-battle-iii.json) |
@@ -5267,6 +5269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Joy of Kaizo with Bob Ross | 268195 | [268195-the-joy-of-kaizo-with-bob-ross.json](./268195-the-joy-of-kaizo-with-bob-ross.json) |
 | The Joy of Putting | 386699 | [386699-the-joy-of-putting.json](./386699-the-joy-of-putting.json) |
 | The Joy of Sex | 46561 | [46561-the-joy-of-sex.json](./46561-the-joy-of-sex.json) |
+| The Joylancer: Legendary Motor Knight | 10974 | [10974-the-joylancer-legendary-motor-knight.json](./10974-the-joylancer-legendary-motor-knight.json) |
 | The Judgement Chamber | 243656 | [243656-the-judgement-chamber.json](./243656-the-judgement-chamber.json) |
 | The Judgement of Q | 173272 | [173272-the-judgement-of-q.json](./173272-the-judgement-of-q.json) |
 | The Judgment Collection | 342629 | [342629-the-judgment-collection.json](./342629-the-judgment-collection.json) |
@@ -5743,7 +5746,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of GEML: Awakening | 307589 | [307589-the-legend-of-geml-awakening.json](./307589-the-legend-of-geml-awakening.json) |
 | The Legend of Gwen | 223177 | [223177-the-legend-of-gwen.json](./223177-the-legend-of-gwen.json) |
 | The Legend of Heavenly Mist | 183031 | [183031-the-legend-of-heavenly-mist.json](./183031-the-legend-of-heavenly-mist.json) |
+| The Legend of Heroes II: Prophecy of the Moonlight Witch | 10942 | [10942-the-legend-of-heroes-ii-prophecy-of-the-moonlight-witch.json](./10942-the-legend-of-heroes-ii-prophecy-of-the-moonlight-witch.json) |
+| The Legend of Heroes III: Song of the Ocean | 10944 | [10944-the-legend-of-heroes-iii-song-of-the-ocean.json](./10944-the-legend-of-heroes-iii-song-of-the-ocean.json) |
 | The Legend of Heroes in the Jianghu | 210864 | [210864-the-legend-of-heroes-in-the-jianghu.json](./210864-the-legend-of-heroes-in-the-jianghu.json) |
+| The Legend of Heroes: A Tear of Vermillion | 10943 | [10943-the-legend-of-heroes-a-tear-of-vermillion.json](./10943-the-legend-of-heroes-a-tear-of-vermillion.json) |
 | The Legend of Heroes: Ao no Kiseki Evolution | 202822 | [202822-the-legend-of-heroes-ao-no-kiseki-evolution.json](./202822-the-legend-of-heroes-ao-no-kiseki-evolution.json) |
 | The Legend of Heroes: Kuro no Kiseki II: Crimson Sin - Limited Edition | 205272 | [205272-the-legend-of-heroes-kuro-no-kiseki-ii-crimson-sin-limited-edition.json](./205272-the-legend-of-heroes-kuro-no-kiseki-ii-crimson-sin-limited-edition.json) |
 | The Legend of Heroes: Kuro no Kiseki II: Crimson Sin - Scenario Book Limited Edition | 205256 | [205256-the-legend-of-heroes-kuro-no-kiseki-ii-crimson-sin-scenario-book-limited-edition.json](./205256-the-legend-of-heroes-kuro-no-kiseki-ii-crimson-sin-scenario-book-limited-edition.json) |
@@ -8028,6 +8034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Swoop 64 | 145429 | [145429-the-swoop-64.json](./145429-the-swoop-64.json) |
 | The Sword and the Slime | 121455 | [121455-the-sword-and-the-slime.json](./121455-the-sword-and-the-slime.json) |
 | The Sword of Ares for Quake | 196720 | [196720-the-sword-of-ares-for-quake.json](./196720-the-sword-of-ares-for-quake.json) |
+| The Sword of Etheria | 10901 | [10901-the-sword-of-etheria.json](./10901-the-sword-of-etheria.json) |
 | The Sword of Hope | 10946 | [10946-the-sword-of-hope.json](./10946-the-sword-of-hope.json) |
 | The Sword of Hope II | 10947 | [10947-the-sword-of-hope-ii.json](./10947-the-sword-of-hope-ii.json) |
 | The Sword Witch's Apprentice | 351037 | [351037-the-sword-witchs-apprentice.json](./351037-the-sword-witchs-apprentice.json) |
@@ -9687,6 +9694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidal Nexus Online | 310002 | [310002-tidal-nexus-online.json](./310002-tidal-nexus-online.json) |
 | Tidal Towns | 341863 | [341863-tidal-towns.json](./341863-tidal-towns.json) |
 | Tidal Tribe | 116582 | [116582-tidal-tribe.json](./116582-tidal-tribe.json) |
+| Tidalis | 10991 | [10991-tidalis.json](./10991-tidalis.json) |
 | Tiddy Bounce | 156061 | [156061-tiddy-bounce.json](./156061-tiddy-bounce.json) |
 | Tide of Thieves | 216501 | [216501-tide-of-thieves.json](./216501-tide-of-thieves.json) |
 | Tide: 1927 | 368034 | [368034-tide-1927.json](./368034-tide-1927.json) |
@@ -11015,6 +11023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TinyCraft Town | 362298 | [362298-tinycraft-town.json](./362298-tinycraft-town.json) |
 | Tinyfolks | 197266 | [197266-tinyfolks.json](./197266-tinyfolks.json) |
 | TinyHoopers | 323964 | [323964-tinyhoopers.json](./323964-tinyhoopers.json) |
+| TinyKeep | 10993 | [10993-tinykeep.json](./10993-tinykeep.json) |
 | Tinykin | 152267 | [152267-tinykin.json](./152267-tinykin.json) |
 | Tinymon | 320308 | [320308-tinymon.json](./320308-tinymon.json) |
 | TinyRogue | 311288 | [311288-tinyrogue.json](./311288-tinyrogue.json) |
@@ -13456,6 +13465,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Plus: Tidewater Point Railroad 2.0 | 205532 | [205532-trainz-plus-tidewater-point-railroad-2-0.json](./205532-trainz-plus-tidewater-point-railroad-2-0.json) |
 | Trainz Plus: Trainz Model Railroad - The Chuck Ewe Pharlie Railroad | 264116 | [264116-trainz-plus-trainz-model-railroad-the-chuck-ewe-pharlie-railroad.json](./264116-trainz-plus-trainz-model-railroad-the-chuck-ewe-pharlie-railroad.json) |
 | Trainz Plus: VR C Locomotive - RailFirst / CFCLA | 401630 | [401630-trainz-plus-vr-c-locomotive-railfirst-cfcla.json](./401630-trainz-plus-vr-c-locomotive-railfirst-cfcla.json) |
+| Trainz Railroad Simulator 2004 | 11013 | [11013-trainz-railroad-simulator-2004.json](./11013-trainz-railroad-simulator-2004.json) |
+| Trainz Railroad Simulator 2006 | 11014 | [11014-trainz-railroad-simulator-2006.json](./11014-trainz-railroad-simulator-2006.json) |
 | Trainz Railroad Simulator 2006: Routes Volume 1 | 206164 | [206164-trainz-railroad-simulator-2006-routes-volume-1.json](./206164-trainz-railroad-simulator-2006-routes-volume-1.json) |
 | Trainz Railroad Simulator 2006: Routes Volume 2 | 206165 | [206165-trainz-railroad-simulator-2006-routes-volume-2.json](./206165-trainz-railroad-simulator-2006-routes-volume-2.json) |
 | Trainz Railroad Simulator 2006: Routes Volume 3 | 206166 | [206166-trainz-railroad-simulator-2006-routes-volume-3.json](./206166-trainz-railroad-simulator-2006-routes-volume-3.json) |
@@ -14701,6 +14712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trying to Sing in Static | 230291 | [230291-trying-to-sing-in-static.json](./230291-trying-to-sing-in-static.json) |
 | Tryment | 318057 | [318057-tryment.json](./318057-tryment.json) |
 | Trypan | 392263 | [392263-trypan.json](./392263-trypan.json) |
+| Tryst | 11030 | [11030-tryst.json](./11030-tryst.json) |
 | TS Marketplace: 1800s Rolling Stock Pack 02 Add-On | 227296 | [227296-ts-marketplace-1800s-rolling-stock-pack-02-add-on.json](./227296-ts-marketplace-1800s-rolling-stock-pack-02-add-on.json) |
 | TS Marketplace: B&O Mountain Subdivision Scenario Pack 01 | 227287 | [227287-ts-marketplace-b-and-o-mountain-subdivision-scenario-pack-01.json](./227287-ts-marketplace-b-and-o-mountain-subdivision-scenario-pack-01.json) |
 | TS Marketplace: BDA 80t Bogie Bolster Wagon Pack | 227279 | [227279-ts-marketplace-bda-80t-bogie-bolster-wagon-pack.json](./227279-ts-marketplace-bda-80t-bogie-bolster-wagon-pack.json) |
