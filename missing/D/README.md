@@ -816,6 +816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Romance: Vampire Origins - Collector's Edition | 209716 | [209716-dark-romance-vampire-origins-collectors-edition.json](./209716-dark-romance-vampire-origins-collectors-edition.json) |
 | Dark Room | 129640 | [129640-dark-room.json](./129640-dark-room.json) |
 | Dark Room | 356630 | [356630-dark-room.json](./356630-dark-room.json) |
+| Dark Room | 405623 | [405623-dark-room.json](./405623-dark-room.json) |
 | Dark Rooms | 240346 | [240346-dark-rooms.json](./240346-dark-rooms.json) |
 | Dark Rose Valkyrie: Limited Edition | 167148 | [167148-dark-rose-valkyrie-limited-edition.json](./167148-dark-rose-valkyrie-limited-edition.json) |
 | Dark Rose Valkyrie: Limited Edition Famitsu DX Pack | 167147 | [167147-dark-rose-valkyrie-limited-edition-famitsu-dx-pack.json](./167147-dark-rose-valkyrie-limited-edition-famitsu-dx-pack.json) |
@@ -1941,6 +1942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Lighthouse | 384230 | [384230-dear-lighthouse.json](./384230-dear-lighthouse.json) |
 | Dear Mariko | 124638 | [124638-dear-mariko.json](./124638-dear-mariko.json) |
 | Dear Mom: My Letter to You | 164965 | [164965-dear-mom-my-letter-to-you.json](./164965-dear-mom-my-letter-to-you.json) |
+| Dear My Bot | 405635 | [405635-dear-my-bot.json](./405635-dear-my-bot.json) |
 | Dear My Cat | 200453 | [200453-dear-my-cat.json](./200453-dear-my-cat.json) |
 | Dear My Friend: Love Like Powdery Snow | 380665 | [380665-dear-my-friend-love-like-powdery-snow.json](./380665-dear-my-friend-love-like-powdery-snow.json) |
 | Dear My God | 205611 | [205611-dear-my-god.json](./205611-dear-my-god.json) |
@@ -6034,6 +6036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doradora Panic | 151679 | [151679-doradora-panic.json](./151679-doradora-panic.json) |
 | Doraemon 2: Nobita to Hikari no Shinden | 3473 | [3473-doraemon-2-nobita-to-hikari-no-shinden.json](./3473-doraemon-2-nobita-to-hikari-no-shinden.json) |
 | Doraemon 3: Nobita no Machi SOS! | 3474 | [3474-doraemon-3-nobita-no-machi-sos.json](./3474-doraemon-3-nobita-no-machi-sos.json) |
+| Doraemon Comic Traveler | 405668 | [405668-doraemon-comic-traveler.json](./405668-doraemon-comic-traveler.json) |
 | Doraemon Gadget Rush | 259527 | [259527-doraemon-gadget-rush.json](./259527-doraemon-gadget-rush.json) |
 | Doraemon no Eawase Montage | 376530 | [376530-doraemon-no-eawase-montage.json](./376530-doraemon-no-eawase-montage.json) |
 | Doraemon no Study Boy: Kuku Game | 65537 | [65537-doraemon-no-study-boy-kuku-game.json](./65537-doraemon-no-study-boy-kuku-game.json) |
