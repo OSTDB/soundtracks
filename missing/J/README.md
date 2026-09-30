@@ -1801,6 +1801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just a Little Purr Suit | 326228 | [326228-just-a-little-purr-suit.json](./326228-just-a-little-purr-suit.json) |
 | Just a Lullaby | 305522 | [305522-just-a-lullaby.json](./305522-just-a-lullaby.json) |
 | Just A Mapset | 268974 | [268974-just-a-mapset.json](./268974-just-a-mapset.json) |
+| Just a Simple Turn-based RPG | 390180 | [390180-just-a-simple-turn-based-rpg.json](./390180-just-a-simple-turn-based-rpg.json) |
 | Just a To the Moon Series Beach Episode | 220535 | [220535-just-a-to-the-moon-series-beach-episode.json](./220535-just-a-to-the-moon-series-beach-episode.json) |
 | Just A Walk In The Park | 253927 | [253927-just-a-walk-in-the-park.json](./253927-just-a-walk-in-the-park.json) |
 | Just Act Natural: Museum | 295388 | [295388-just-act-natural-museum.json](./295388-just-act-natural-museum.json) |
