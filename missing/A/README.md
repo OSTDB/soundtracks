@@ -1776,6 +1776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agony of a Dying MMO | 136415 | [136415-agony-of-a-dying-mmo.json](./136415-agony-of-a-dying-mmo.json) |
 | Agora | 211419 | [211419-agora.json](./211419-agora.json) |
 | Agora | 357804 | [357804-agora.json](./357804-agora.json) |
+| AGOS: A Game of Space | 138768 | [138768-agos-a-game-of-space.json](./138768-agos-a-game-of-space.json) |
 | Agraelus, Wanna be MaN | 141737 | [141737-agraelus-wanna-be-man.json](./141737-agraelus-wanna-be-man.json) |
 | Agrarian developer | 283883 | [283883-agrarian-developer.json](./283883-agrarian-developer.json) |
 | AgrChamp | 240748 | [240748-agrchamp.json](./240748-agrchamp.json) |
@@ -6876,6 +6877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrocop | 295848 | [295848-astrocop.json](./295848-astrocop.json) |
 | Astrodition | 149583 | [149583-astrodition.json](./149583-astrodition.json) |
 | Astrodle | 291592 | [291592-astrodle.json](./291592-astrodle.json) |
+| Astrodogs | 138055 | [138055-astrodogs.json](./138055-astrodogs.json) |
 | Astrodrifter | 304682 | [304682-astrodrifter.json](./304682-astrodrifter.json) |
 | AstroFire | 82500 | [82500-astrofire.json](./82500-astrofire.json) |
 | Astroflux | 32875 | [32875-astroflux.json](./32875-astroflux.json) |
