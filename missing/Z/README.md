@@ -614,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombeer: Delivery Mission | 159824 | [159824-zombeer-delivery-mission.json](./159824-zombeer-delivery-mission.json) |
 | ZomBees: Bee The Swarm | 58877 | [58877-zombees-bee-the-swarm.json](./58877-zombees-bee-the-swarm.json) |
 | Zombeo and Vampireta | 399696 | [399696-zombeo-and-vampireta.json](./399696-zombeo-and-vampireta.json) |
+| Zombi | 2279 | [2279-zombi.json](./2279-zombi.json) |
 | Zombi Rockstar | 245844 | [245844-zombi-rockstar.json](./245844-zombi-rockstar.json) |
 | Zombidle | 70384 | [70384-zombidle.json](./70384-zombidle.json) |
 | Zombie | 26894 | [26894-zombie.json](./26894-zombie.json) |
