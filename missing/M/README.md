@@ -2602,6 +2602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Bingo | 201167 | [201167-math-bingo.json](./201167-math-bingo.json) |
 | Math Blaster Ages 4-6 | 58816 | [58816-math-blaster-ages-4-6.json](./58816-math-blaster-ages-4-6.json) |
 | Math Blaster Ages 6-8 | 250608 | [250608-math-blaster-ages-6-8.json](./250608-math-blaster-ages-6-8.json) |
+| Math Blaster HyperBlast 2 HD | 93652 | [93652-math-blaster-hyperblast-2-hd.json](./93652-math-blaster-hyperblast-2-hd.json) |
 | Math Blazer | 92643 | [92643-math-blazer.json](./92643-math-blazer.json) |
 | Math Bridges: Learn Bridging to friendly numbers | 97140 | [97140-math-bridges-learn-bridging-to-friendly-numbers.json](./97140-math-bridges-learn-bridging-to-friendly-numbers.json) |
 | Math C | 106554 | [106554-math-c.json](./106554-math-c.json) |
@@ -6717,6 +6718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momoe Link | 183052 | [183052-momoe-link.json](./183052-momoe-link.json) |
 | Momogatari | 258526 | [258526-momogatari.json](./258526-momogatari.json) |
 | Momogical | 181683 | [181683-momogical.json](./181683-momogical.json) |
+| Momoiro Closet | 95173 | [95173-momoiro-closet.json](./95173-momoiro-closet.json) |
 | Momoiro Zousan | 295039 | [295039-momoiro-zousan.json](./295039-momoiro-zousan.json) |
 | Momoka | 333192 | [333192-momoka.json](./333192-momoka.json) |
 | Momokan | 97490 | [97490-momokan.json](./97490-momokan.json) |
