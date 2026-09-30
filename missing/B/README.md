@@ -7901,6 +7901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buns: Bunny Survivor | 215039 | [215039-buns-bunny-survivor.json](./215039-buns-bunny-survivor.json) |
 | Bunt Girl | 178669 | [178669-bunt-girl.json](./178669-bunt-girl.json) |
 | Buoy Boy | 233768 | [233768-buoy-boy.json](./233768-buoy-boy.json) |
+| Buoyancy | 115347 | [115347-buoyancy.json](./115347-buoyancy.json) |
 | Burai Fighter Deluxe | 48960 | [48960-burai-fighter-deluxe.json](./48960-burai-fighter-deluxe.json) |
 | Buraigun: Galaxy Storm | 151561 | [151561-buraigun-galaxy-storm.json](./151561-buraigun-galaxy-storm.json) |
 | Burak Bahar's Unseen Anchor | 83594 | [83594-burak-bahars-unseen-anchor.json](./83594-burak-bahars-unseen-anchor.json) |
@@ -7981,6 +7982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burn! SuperTrucks | 142836 | [142836-burn-supertrucks.json](./142836-burn-supertrucks.json) |
 | Burn. Pulse. Detach. | 143115 | [143115-burn-pulse-detach.json](./143115-burn-pulse-detach.json) |
 | Burned Horizons | 391166 | [391166-burned-horizons.json](./391166-burned-horizons.json) |
+| Burned Land | 114883 | [114883-burned-land.json](./114883-burned-land.json) |
 | Burned One | 365157 | [365157-burned-one.json](./365157-burned-one.json) |
 | Burned Out | 317456 | [317456-burned-out.json](./317456-burned-out.json) |
 | Burnin' Rubber | 172601 | [172601-burnin-rubber.json](./172601-burnin-rubber.json) |
