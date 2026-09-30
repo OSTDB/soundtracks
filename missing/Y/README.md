@@ -631,6 +631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Personal Chill Apartment | 199365 | [199365-your-personal-chill-apartment.json](./199365-your-personal-chill-apartment.json) |
 | Your Principal | 126596 | [126596-your-principal.json](./126596-your-principal.json) |
 | Your Riding School | 149004 | [149004-your-riding-school.json](./149004-your-riding-school.json) |
+| Your Shape Fitness Evolved 2013 | 28347 | [28347-your-shape-fitness-evolved-2013.json](./28347-your-shape-fitness-evolved-2013.json) |
 | Your Shots Count | 277815 | [277815-your-shots-count.json](./277815-your-shots-count.json) |
 | Your Sinclair Four Pack December 1990 | 74079 | [74079-your-sinclair-four-pack-december-1990.json](./74079-your-sinclair-four-pack-december-1990.json) |
 | Your Sinclair Magnificent 7 February 1992 | 96509 | [96509-your-sinclair-magnificent-7-february-1992.json](./96509-your-sinclair-magnificent-7-february-1992.json) |
