@@ -438,6 +438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camelot 2: The Holy Grail | 247766 | [247766-camelot-2-the-holy-grail.json](./247766-camelot-2-the-holy-grail.json) |
 | Camelot II: The Holy Grail - Collector's Edition | 417499 | [417499-camelot-ii-the-holy-grail-collectors-edition.json](./417499-camelot-ii-the-holy-grail-collectors-edition.json) |
 | Camelot Warriors | 13461 | [13461-camelot-warriors.json](./13461-camelot-warriors.json) |
+| CamelVsPirates | 395811 | [395811-camelvspirates.json](./395811-camelvspirates.json) |
 | Camera | 307051 | [307051-camera.json](./307051-camera.json) |
 | Camera Anima | 259647 | [259647-camera-anima.json](./259647-camera-anima.json) |
 | Camera Birds | 245319 | [245319-camera-birds.json](./245319-camera-birds.json) |
@@ -1835,6 +1836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat-Car Mission | 359421 | [359421-cat-car-mission.json](./359421-cat-car-mission.json) |
 | Cat-Like Concentration | 276721 | [276721-cat-like-concentration.json](./276721-cat-like-concentration.json) |
 | Cat-Ptured | 336159 | [336159-cat-ptured.json](./336159-cat-ptured.json) |
+| Cat-up! | 395769 | [395769-cat-up.json](./395769-cat-up.json) |
 | Cat'n'Robot: Idle Defense | 174912 | [174912-catnrobot-idle-defense.json](./174912-catnrobot-idle-defense.json) |
 | Cat's Cosmic Atlas | 258012 | [258012-cats-cosmic-atlas.json](./258012-cats-cosmic-atlas.json) |
 | Cat's Cosmic Atlas: Definitive Edition | 288286 | [288286-cats-cosmic-atlas-definitive-edition.json](./288286-cats-cosmic-atlas-definitive-edition.json) |
@@ -5097,6 +5099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codename Kids Next Door: Operation B.E.S.T. | 342736 | [342736-codename-kids-next-door-operation-b-e-s-t.json](./342736-codename-kids-next-door-operation-b-e-s-t.json) |
 | Codename Kids Next Door: Tummy Trouble | 349934 | [349934-codename-kids-next-door-tummy-trouble.json](./349934-codename-kids-next-door-tummy-trouble.json) |
 | Codename Mallow | 139251 | [139251-codename-mallow.json](./139251-codename-mallow.json) |
+| Codename Medusa | 395792 | [395792-codename-medusa.json](./395792-codename-medusa.json) |
 | Codename Nemesis | 113646 | [113646-codename-nemesis.json](./113646-codename-nemesis.json) |
 | Codename Prodigy | 156020 | [156020-codename-prodigy.json](./156020-codename-prodigy.json) |
 | Codename: Bakery Girl | 113467 | [113467-codename-bakery-girl.json](./113467-codename-bakery-girl.json) |
@@ -7918,6 +7921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criminally Overdue | 179055 | [179055-criminally-overdue.json](./179055-criminally-overdue.json) |
 | Crimson | 343262 | [343262-crimson.json](./343262-crimson.json) |
 | Crimson Angel | 339339 | [339339-crimson-angel.json](./339339-crimson-angel.json) |
+| Crimson Broadcast | 395765 | [395765-crimson-broadcast.json](./395765-crimson-broadcast.json) |
 | Crimson Connect Origin | 238521 | [238521-crimson-connect-origin.json](./238521-crimson-connect-origin.json) |
 | Crimson Defense | 95226 | [95226-crimson-defense.json](./95226-crimson-defense.json) |
 | Crimson Desert: Charting the Unknown | 416102 | [416102-crimson-desert-charting-the-unknown.json](./416102-crimson-desert-charting-the-unknown.json) |
@@ -9356,6 +9360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberdimension Neptunia: 4 Goddesses Online - Royal Edition | 212313 | [212313-cyberdimension-neptunia-4-goddesses-online-royal-edition.json](./212313-cyberdimension-neptunia-4-goddesses-online-royal-edition.json) |
 | Cyberdreams | 140045 | [140045-cyberdreams.json](./140045-cyberdreams.json) |
 | CyberDrifter | 29152 | [29152-cyberdrifter.json](./29152-cyberdrifter.json) |
+| CyberDrive 2077 | 395806 | [395806-cyberdrive-2077.json](./395806-cyberdrive-2077.json) |
 | Cyberdrome | 113511 | [113511-cyberdrome.json](./113511-cyberdrome.json) |
 | Cyberdyne Warrior | 47234 | [47234-cyberdyne-warrior.json](./47234-cyberdyne-warrior.json) |
 | Cyberference | 244490 | [244490-cyberference.json](./244490-cyberference.json) |
