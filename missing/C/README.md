@@ -587,6 +587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Lattice | 245830 | [245830-candy-lattice.json](./245830-candy-lattice.json) |
 | Candy Legend | 105784 | [105784-candy-legend.json](./105784-candy-legend.json) |
 | Candy Maid | 224777 | [224777-candy-maid.json](./224777-candy-maid.json) |
+| Candy Makeup Beauty Game | 86790 | [86790-candy-makeup-beauty-game.json](./86790-candy-makeup-beauty-game.json) |
 | Candy Mandy | 114956 | [114956-candy-mandy.json](./114956-candy-mandy.json) |
 | Candy Mania Star | 87094 | [87094-candy-mania-star.json](./87094-candy-mania-star.json) |
 | Candy Mountain Massacre | 270206 | [270206-candy-mountain-massacre.json](./270206-candy-mountain-massacre.json) |
@@ -4581,6 +4582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cliff Rush 3D | 322986 | [322986-cliff-rush-3d.json](./322986-cliff-rush-3d.json) |
 | Cliffhanger | 5370 | [5370-cliffhanger.json](./5370-cliffhanger.json) |
 | Cliffhanger | 81446 | [81446-cliffhanger.json](./81446-cliffhanger.json) |
+| Cliffhanger - Chat Stories | 87042 | [87042-cliffhanger-chat-stories.json](./87042-cliffhanger-chat-stories.json) |
 | Cliffhorse | 18446 | [18446-cliffhorse.json](./18446-cliffhorse.json) |
 | Clifford the Big Red Dog: Learning Activities | 255656 | [255656-clifford-the-big-red-dog-learning-activities.json](./255656-clifford-the-big-red-dog-learning-activities.json) |
 | Clifford: Ready-to-Read | 230359 | [230359-clifford-ready-to-read.json](./230359-clifford-ready-to-read.json) |
@@ -4696,6 +4698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Close to the Sun | 55027 | [55027-close-to-the-sun.json](./55027-close-to-the-sun.json) |
 | Close to You | 217874 | [217874-close-to-you.json](./217874-close-to-you.json) |
 | Close to: Inori no Oka | 196027 | [196027-close-to-inori-no-oka.json](./196027-close-to-inori-no-oka.json) |
+| Close Up Pics - Fun Word Games | 87035 | [87035-close-up-pics-fun-word-games.json](./87035-close-up-pics-fun-word-games.json) |
 | Close Your Eyes | 133323 | [133323-close-your-eyes.json](./133323-close-your-eyes.json) |
 | CloseCall | 155991 | [155991-closecall.json](./155991-closecall.json) |
 | Closed Circuit | 254175 | [254175-closed-circuit.json](./254175-closed-circuit.json) |
@@ -5512,6 +5515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ColorTris | 178620 | [178620-colortris.json](./178620-colortris.json) |
 | ColorUs : My Coloring Books | 99401 | [99401-colorus-my-coloring-books.json](./99401-colorus-my-coloring-books.json) |
 | ColorZ | 21043 | [21043-colorz.json](./21043-colorz.json) |
+| ColorZ - 3D Pixel Art | 87007 | [87007-colorz-3d-pixel-art.json](./87007-colorz-3d-pixel-art.json) |
 | Colossal Cave | 215119 | [215119-colossal-cave.json](./215119-colossal-cave.json) |
 | Colossal Cave Adventure | 265733 | [265733-colossal-cave-adventure.json](./265733-colossal-cave-adventure.json) |
 | Colossal Cave VR | 253587 | [253587-colossal-cave-vr.json](./253587-colossal-cave-vr.json) |
@@ -5525,6 +5529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colour Bind | 10101 | [10101-colour-bind.json](./10101-colour-bind.json) |
 | Colour Clash | 94228 | [94228-colour-clash.json](./94228-colour-clash.json) |
 | Colour My Fate | 384053 | [384053-colour-my-fate.json](./384053-colour-my-fate.json) |
+| Colour Switch Dash | 87018 | [87018-colour-switch-dash.json](./87018-colour-switch-dash.json) |
 | Colourblind | 235830 | [235830-colourblind.json](./235830-colourblind.json) |
 | Colourise | 29897 | [29897-colourise.json](./29897-colourise.json) |
 | ColourS | 229381 | [229381-colours.json](./229381-colours.json) |
