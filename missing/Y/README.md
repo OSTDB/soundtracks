@@ -673,6 +673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys Altago | 111847 | [111847-ys-altago.json](./111847-ys-altago.json) |
 | Ys Foliage Ocean in Celceta: Kai | 288377 | [288377-ys-foliage-ocean-in-celceta-kai.json](./288377-ys-foliage-ocean-in-celceta-kai.json) |
 | Ys I & II Chronicles | 21020 | [21020-ys-i-and-ii-chronicles.json](./21020-ys-i-and-ii-chronicles.json) |
+| Ys II: Ancient Ys Vanished - The Final Chapter | 15449 | [15449-ys-ii-ancient-ys-vanished-the-final-chapter.json](./15449-ys-ii-ancient-ys-vanished-the-final-chapter.json) |
 | Ys III: Wanderers from Ys | 201313 | [201313-ys-iii-wanderers-from-ys.json](./201313-ys-iii-wanderers-from-ys.json) |
 | Ys IV: Mask of the Sun | 15451 | [15451-ys-iv-mask-of-the-sun.json](./15451-ys-iv-mask-of-the-sun.json) |
 | Ys IV: The Dawn of Ys | 15452 | [15452-ys-iv-the-dawn-of-ys.json](./15452-ys-iv-the-dawn-of-ys.json) |
