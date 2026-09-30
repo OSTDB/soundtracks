@@ -896,6 +896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garfield's Escape | 63869 | [63869-garfields-escape.json](./63869-garfields-escape.json) |
 | Garfield's Gem | 63861 | [63861-garfields-gem.json](./63861-garfields-gem.json) |
 | Garfield's Nightmare | 67853 | [67853-garfields-nightmare.json](./67853-garfields-nightmare.json) |
+| Garfield's Scary Scavenger Hunt | 124418 | [124418-garfields-scary-scavenger-hunt.json](./124418-garfields-scary-scavenger-hunt.json) |
 | Garfield's Wild Ride | 25163 | [25163-garfields-wild-ride.json](./25163-garfields-wild-ride.json) |
 | Gargantua | 80241 | [80241-gargantua.json](./80241-gargantua.json) |
 | Gargolite | 183507 | [183507-gargolite.json](./183507-gargolite.json) |
@@ -3780,6 +3781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Dash | 287225 | [287225-gravity-dash.json](./287225-gravity-dash.json) |
 | Gravity Dash 2 | 91092 | [91092-gravity-dash-2.json](./91092-gravity-dash-2.json) |
 | Gravity Den | 33177 | [33177-gravity-den.json](./33177-gravity-den.json) |
+| Gravity Duck | 121815 | [121815-gravity-duck.json](./121815-gravity-duck.json) |
 | Gravity Falls: Legend of the Gnome Gemulets | 44014 | [44014-gravity-falls-legend-of-the-gnome-gemulets.json](./44014-gravity-falls-legend-of-the-gnome-gemulets.json) |
 | Gravity Flip | 190204 | [190204-gravity-flip.json](./190204-gravity-flip.json) |
 | Gravity Games Bike: Street Vert Dirt | 5851 | [5851-gravity-games-bike-street-vert-dirt.json](./5851-gravity-games-bike-street-vert-dirt.json) |
