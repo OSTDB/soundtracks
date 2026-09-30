@@ -1001,6 +1001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warsword Conquest | 356193 | [356193-warsword-conquest.json](./356193-warsword-conquest.json) |
 | Wart's Turn-Based Revenge | 256794 | [256794-warts-turn-based-revenge.json](./256794-warts-turn-based-revenge.json) |
 | Wartale | 55864 | [55864-wartale.json](./55864-wartale.json) |
+| Wartales: Contract - Fires in the Capital | 395803 | [395803-wartales-contract-fires-in-the-capital.json](./395803-wartales-contract-fires-in-the-capital.json) |
 | Wartales: The Pits | 322789 | [322789-wartales-the-pits.json](./322789-wartales-the-pits.json) |
 | Wartales: The Skelmar Invasion | 322788 | [322788-wartales-the-skelmar-invasion.json](./322788-wartales-the-skelmar-invasion.json) |
 | Wartales: The Tavern Opens! | 296870 | [296870-wartales-the-tavern-opens.json](./296870-wartales-the-tavern-opens.json) |
@@ -1185,6 +1186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wave Arrow | 106374 | [106374-wave-arrow.json](./106374-wave-arrow.json) |
 | Wave Buxters | 329574 | [329574-wave-buxters.json](./329574-wave-buxters.json) |
 | Wave Circles | 117840 | [117840-wave-circles.json](./117840-wave-circles.json) |
+| Wave Gods: Ammo Night | 395781 | [395781-wave-gods-ammo-night.json](./395781-wave-gods-ammo-night.json) |
 | Wave Machine | 179602 | [179602-wave-machine.json](./179602-wave-machine.json) |
 | Wave Magic VR | 31723 | [31723-wave-magic-vr.json](./31723-wave-magic-vr.json) |
 | Wave Mechanics | 34871 | [34871-wave-mechanics.json](./34871-wave-mechanics.json) |
@@ -1375,6 +1377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We're Here, Papa | 410922 | [410922-were-here-papa.json](./410922-were-here-papa.json) |
 | We're in the Same Boat | 399704 | [399704-were-in-the-same-boat.json](./399704-were-in-the-same-boat.json) |
 | We'reWolves | 270645 | [270645-werewolves.json](./270645-werewolves.json) |
+| Weabot | 395788 | [395788-weabot.json](./395788-weabot.json) |
 | Weak Soul | 247741 | [247741-weak-soul.json](./247741-weak-soul.json) |
 | Weak Warrior | 61115 | [61115-weak-warrior.json](./61115-weak-warrior.json) |
 | Weakest Demon King: Escape! You Cannot Defeat the Female Heroines! | 82874 | [82874-weakest-demon-king-escape-you-cannot-defeat-the-female-heroines.json](./82874-weakest-demon-king-escape-you-cannot-defeat-the-female-heroines.json) |
@@ -2873,6 +2876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wireball | 121721 | [121721-wireball.json](./121721-wireball.json) |
 | Wired | 105334 | [105334-wired.json](./105334-wired.json) |
 | Wired | 307616 | [307616-wired.json](./307616-wired.json) |
+| Wired Tokyo | 395793 | [395793-wired-tokyo.json](./395793-wired-tokyo.json) |
 | Wired Witch | 413788 | [413788-wired-witch.json](./413788-wired-witch.json) |
 | Wirehead | 5462 | [5462-wirehead.json](./5462-wirehead.json) |
 | Wirtschaftsgiganten | 98968 | [98968-wirtschaftsgiganten.json](./98968-wirtschaftsgiganten.json) |
