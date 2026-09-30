@@ -1688,6 +1688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Usual John | 105141 | [105141-usual-john.json](./105141-usual-john.json) |
 | Usual June | 279615 | [279615-usual-june.json](./279615-usual-june.json) |
 | Usurper of Fire | 408035 | [408035-usurper-of-fire.json](./408035-usurper-of-fire.json) |
+| Usurper Reborn | 400414 | [400414-usurper-reborn.json](./400414-usurper-reborn.json) |
 | UT Adventure | 294861 | [294861-ut-adventure.json](./294861-ut-adventure.json) |
 | UT Realms Reborn | 122992 | [122992-ut-realms-reborn.json](./122992-ut-realms-reborn.json) |
 | Ut: Kissy Cutie | 179615 | [179615-ut-kissy-cutie.json](./179615-ut-kissy-cutie.json) |
