@@ -4143,6 +4143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimensionless | 241296 | [241296-dimensionless.json](./241296-dimensionless.json) |
 | Dimensions | 141810 | [141810-dimensions.json](./141810-dimensions.json) |
 | Dimensions | 249474 | [249474-dimensions.json](./249474-dimensions.json) |
+| Dimensions 2 | 408955 | [408955-dimensions-2.json](./408955-dimensions-2.json) |
 | Dimensity | 16152 | [16152-dimensity.json](./16152-dimensity.json) |
 | Dimeo's Jukebox | 143033 | [143033-dimeos-jukebox.json](./143033-dimeos-jukebox.json) |
 | Dimhaven: The Lost Source | 253578 | [253578-dimhaven-the-lost-source.json](./253578-dimhaven-the-lost-source.json) |
@@ -6190,6 +6191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Kick Heroes | 29511 | [29511-double-kick-heroes.json](./29511-double-kick-heroes.json) |
 | Double Line | 141854 | [141854-double-line.json](./141854-double-line.json) |
 | Double Match | 83458 | [83458-double-match.json](./83458-double-match.json) |
+| Double Panda | 408994 | [408994-double-panda.json](./408994-double-panda.json) |
 | Double Puzzled | 243794 | [243794-double-puzzled.json](./243794-double-puzzled.json) |
 | Double Reaction! Plus | 175973 | [175973-double-reaction-plus.json](./175973-double-reaction-plus.json) |
 | Double Shoulders | 338800 | [338800-double-shoulders.json](./338800-double-shoulders.json) |
@@ -7907,6 +7909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ducky Dan | 94212 | [94212-ducky-dan.json](./94212-ducky-dan.json) |
 | Ducky Dash | 320761 | [320761-ducky-dash.json](./320761-ducky-dash.json) |
 | Ducky's Delivery Service | 241902 | [241902-duckys-delivery-service.json](./241902-duckys-delivery-service.json) |
+| Duco | 408956 | [408956-duco.json](./408956-duco.json) |
 | DUD Detective Ulysses Day | 379049 | [379049-dud-detective-ulysses-day.json](./379049-dud-detective-ulysses-day.json) |
 | Dude Cops | 107195 | [107195-dude-cops.json](./107195-dude-cops.json) |
 | Dude My House Is Haunted | 362354 | [362354-dude-my-house-is-haunted.json](./362354-dude-my-house-is-haunted.json) |
