@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Men: Mutant Academy | 259648 | [259648-x-men-mutant-academy.json](./259648-x-men-mutant-academy.json) |
 | X-Men: Next Dimension | 4577 | [4577-x-men-next-dimension.json](./4577-x-men-next-dimension.json) |
 | X-Men: The Official Game | 200902 | [200902-x-men-the-official-game.json](./200902-x-men-the-official-game.json) |
+| X-Men: The Official Game | 218615 | [218615-x-men-the-official-game.json](./218615-x-men-the-official-game.json) |
 | X-Men: The Official Game | 248534 | [248534-x-men-the-official-game.json](./248534-x-men-the-official-game.json) |
 | X-Men: The Official Game | 4578 | [4578-x-men-the-official-game.json](./4578-x-men-the-official-game.json) |
 | X-Men: Wolverine's Rage | 49899 | [49899-x-men-wolverines-rage.json](./49899-x-men-wolverines-rage.json) |
