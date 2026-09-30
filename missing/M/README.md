@@ -936,6 +936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Ou Densetsu | 91932 | [91932-mahjong-ou-densetsu.json](./91932-mahjong-ou-densetsu.json) |
 | Mahjong Palace | 89230 | [89230-mahjong-palace.json](./89230-mahjong-palace.json) |
 | Mahjong Party Pack | 268203 | [268203-mahjong-party-pack.json](./268203-mahjong-party-pack.json) |
+| Mahjong Pretty Girls Battle: School Girls Edition | 34986 | [34986-mahjong-pretty-girls-battle-school-girls-edition.json](./34986-mahjong-pretty-girls-battle-school-girls-edition.json) |
 | Mahjong Pretty Manga Girls | 105105 | [105105-mahjong-pretty-manga-girls.json](./105105-mahjong-pretty-manga-girls.json) |
 | Mahjong Realms | 336012 | [336012-mahjong-realms.json](./336012-mahjong-realms.json) |
 | Mahjong Roadshow | 29205 | [29205-mahjong-roadshow.json](./29205-mahjong-roadshow.json) |
@@ -5891,6 +5892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minion Masters: Zealous Inferno | 330729 | [330729-minion-masters-zealous-inferno.json](./330729-minion-masters-zealous-inferno.json) |
 | Minion Quest: The Search for Bowser | 266891 | [266891-minion-quest-the-search-for-bowser.json](./266891-minion-quest-the-search-for-bowser.json) |
 | Minion Rumble | 338349 | [338349-minion-rumble.json](./338349-minion-rumble.json) |
+| MiniOne Racing | 34989 | [34989-minione-racing.json](./34989-minione-racing.json) |
 | Minions | 59896 | [59896-minions.json](./59896-minions.json) |
 | Minions of Elden | 176423 | [176423-minions-of-elden.json](./176423-minions-of-elden.json) |
 | Minions of Elden Online | 170924 | [170924-minions-of-elden-online.json](./170924-minions-of-elden-online.json) |
@@ -9406,6 +9408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Own Hero Party | 412980 | [412980-my-own-hero-party.json](./412980-my-own-hero-party.json) |
 | My Own Murder | 345049 | [345049-my-own-murder.json](./345049-my-own-murder.json) |
 | My Own Sweet Dionaea | 382213 | [382213-my-own-sweet-dionaea.json](./382213-my-own-sweet-dionaea.json) |
+| My Paper Boat | 34979 | [34979-my-paper-boat.json](./34979-my-paper-boat.json) |
 | My Parents are Aliens | 325556 | [325556-my-parents-are-aliens.json](./325556-my-parents-are-aliens.json) |
 | My Party Needs an Alchemist | 315036 | [315036-my-party-needs-an-alchemist.json](./315036-my-party-needs-an-alchemist.json) |
 | My Peephole: Hotel Harborview | 372670 | [372670-my-peephole-hotel-harborview.json](./372670-my-peephole-hotel-harborview.json) |
