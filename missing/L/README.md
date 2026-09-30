@@ -399,6 +399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Langrisser Re:Incarnation Tensei | 20080 | [20080-langrisser-re-incarnation-tensei.json](./20080-langrisser-re-incarnation-tensei.json) |
 | Langrisser V: The End of Legend | 78665 | [78665-langrisser-v-the-end-of-legend.json](./78665-langrisser-v-the-end-of-legend.json) |
 | Langrisser: Hikari no Matsuei | 42010 | [42010-langrisser-hikari-no-matsuei.json](./42010-langrisser-hikari-no-matsuei.json) |
+| Langrisser: Sea of Sword | 411065 | [411065-langrisser-sea-of-sword.json](./411065-langrisser-sea-of-sword.json) |
 | LanguageGuessr | 259618 | [259618-languageguessr.json](./259618-languageguessr.json) |
 | Laniakea | 304714 | [304714-laniakea.json](./304714-laniakea.json) |
 | Lanista: Shadows and Dust | 294283 | [294283-lanista-shadows-and-dust.json](./294283-lanista-shadows-and-dust.json) |
