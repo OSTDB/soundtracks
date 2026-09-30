@@ -638,6 +638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Otherworldly Harem | 235723 | [235723-your-otherworldly-harem.json](./235723-your-otherworldly-harem.json) |
 | Your Own Cozy Motel | 409729 | [409729-your-own-cozy-motel.json](./409729-your-own-cozy-motel.json) |
 | Your Painting, Sir | 383657 | [383657-your-painting-sir.json](./383657-your-painting-sir.json) |
+| Your Party Died Again | 404990 | [404990-your-party-died-again.json](./404990-your-party-died-again.json) |
 | Your Personal Chill Apartment | 199365 | [199365-your-personal-chill-apartment.json](./199365-your-personal-chill-apartment.json) |
 | Your Principal | 126596 | [126596-your-principal.json](./126596-your-principal.json) |
 | Your Riding School | 149004 | [149004-your-riding-school.json](./149004-your-riding-school.json) |
