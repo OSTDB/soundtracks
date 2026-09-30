@@ -111,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zanac | 292025 | [292025-zanac.json](./292025-zanac.json) |
 | Zanac X Zanac | 46083 | [46083-zanac-x-zanac.json](./46083-zanac-x-zanac.json) |
 | Zane | 233734 | [233734-zane.json](./233734-zane.json) |
+| Zanerdin: The Unbound | 391286 | [391286-zanerdin-the-unbound.json](./391286-zanerdin-the-unbound.json) |
 | Zanfium Tower | 173838 | [173838-zanfium-tower.json](./173838-zanfium-tower.json) |
 | Zangeki Warp | 30287 | [30287-zangeki-warp.json](./30287-zangeki-warp.json) |
 | Zangus | 313249 | [313249-zangus.json](./313249-zangus.json) |
