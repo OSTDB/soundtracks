@@ -1825,6 +1825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbital Racer | 74130 | [74130-orbital-racer.json](./74130-orbital-racer.json) |
 | Orbital Siege | 365057 | [365057-orbital-siege.json](./365057-orbital-siege.json) |
 | Orbital Strike VR | 136464 | [136464-orbital-strike-vr.json](./136464-orbital-strike-vr.json) |
+| Orbital Traffic Controller | 399778 | [399778-orbital-traffic-controller.json](./399778-orbital-traffic-controller.json) |
 | Orbital X | 31797 | [31797-orbital-x.json](./31797-orbital-x.json) |
 | Orbitals | 381237 | [381237-orbitals.json](./381237-orbitals.json) |
 | Orbiter 2016 | 139258 | [139258-orbiter-2016.json](./139258-orbiter-2016.json) |
@@ -2383,6 +2384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak Survivors | 317976 | [317976-outbreak-survivors.json](./317976-outbreak-survivors.json) |
 | Outbreak Zero | 365085 | [365085-outbreak-zero.json](./365085-outbreak-zero.json) |
 | Outbreak Zombie Plague | 291528 | [291528-outbreak-zombie-plague.json](./291528-outbreak-zombie-plague.json) |
+| Outbreak Zombie Survival Collection | 399800 | [399800-outbreak-zombie-survival-collection.json](./399800-outbreak-zombie-survival-collection.json) |
 | Outbreak: Blood & Teeth Collection | 304365 | [304365-outbreak-blood-and-teeth-collection.json](./304365-outbreak-blood-and-teeth-collection.json) |
 | Outbreak: Blood and Death Collection | 331433 | [331433-outbreak-blood-and-death-collection.json](./331433-outbreak-blood-and-death-collection.json) |
 | Outbreak: Campout Collection | 331432 | [331432-outbreak-campout-collection.json](./331432-outbreak-campout-collection.json) |
