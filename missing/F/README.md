@@ -1511,6 +1511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Grand Order: Epic of Remnant I - Shinjuku | 414364 | [414364-fate-grand-order-epic-of-remnant-i-shinjuku.json](./414364-fate-grand-order-epic-of-remnant-i-shinjuku.json) |
 | Fate/Grand Order: Epic of Remnant III - Shimousa | 414363 | [414363-fate-grand-order-epic-of-remnant-iii-shimousa.json](./414363-fate-grand-order-epic-of-remnant-iii-shimousa.json) |
 | Fate/Grand Order: Epic of Remnant IV - Salem | 414362 | [414362-fate-grand-order-epic-of-remnant-iv-salem.json](./414362-fate-grand-order-epic-of-remnant-iv-salem.json) |
+| Fate/Grand Order: Final Singularity - Solomon | 415255 | [415255-fate-grand-order-final-singularity-solomon.json](./415255-fate-grand-order-final-singularity-solomon.json) |
 | Fate/Grand Order: Naraka Mandala - Heian-kyo | 416642 | [416642-fate-grand-order-naraka-mandala-heian-kyo.json](./416642-fate-grand-order-naraka-mandala-heian-kyo.json) |
 | Fate/Grand Order: Ordeal Call I - Paper Moon | 414359 | [414359-fate-grand-order-ordeal-call-i-paper-moon.json](./414359-fate-grand-order-ordeal-call-i-paper-moon.json) |
 | Fate/Hollow Ataraxia | 275640 | [275640-fate-hollow-ataraxia.json](./275640-fate-hollow-ataraxia.json) |
@@ -2974,6 +2975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Tank Simulator | 383958 | [383958-fish-tank-simulator.json](./383958-fish-tank-simulator.json) |
 | Fish Tanks | 144795 | [144795-fish-tanks.json](./144795-fish-tanks.json) |
 | Fish the Detective! | 219675 | [219675-fish-the-detective.json](./219675-fish-the-detective.json) |
+| Fish Them All! | 415988 | [415988-fish-them-all.json](./415988-fish-them-all.json) |
 | Fish Time | 355223 | [355223-fish-time.json](./355223-fish-time.json) |
 | Fish to Dish: Idle Sushi | 344540 | [344540-fish-to-dish-idle-sushi.json](./344540-fish-to-dish-idle-sushi.json) |
 | Fish Tycoon | 29117 | [29117-fish-tycoon.json](./29117-fish-tycoon.json) |
