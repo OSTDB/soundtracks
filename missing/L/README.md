@@ -778,6 +778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Launch Break | 135788 | [135788-launch-break.json](./135788-launch-break.json) |
 | Launch Dude | 339285 | [339285-launch-dude.json](./339285-launch-dude.json) |
 | Launch The Baby | 246413 | [246413-launch-the-baby.json](./246413-launch-the-baby.json) |
+| Launch Window | 412486 | [412486-launch-window.json](./412486-launch-window.json) |
 | Launcher | 358923 | [358923-launcher.json](./358923-launcher.json) |
 | Launcher Heroes | 236817 | [236817-launcher-heroes.json](./236817-launcher-heroes.json) |
 | Launderley | 374304 | [374304-launderley.json](./374304-launderley.json) |
@@ -3178,6 +3179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locked-In | 146138 | [146138-locked-in.json](./146138-locked-in.json) |
 | Locked-in syndrome | 33787 | [33787-locked-in-syndrome.json](./33787-locked-in-syndrome.json) |
 | Lockes the Thief | 211793 | [211793-lockes-the-thief.json](./211793-lockes-the-thief.json) |
+| Lockey | 412471 | [412471-lockey.json](./412471-lockey.json) |
 | Locksmith | 413897 | [413897-locksmith.json](./413897-locksmith.json) |
 | Locksmith | 48906 | [48906-locksmith.json](./48906-locksmith.json) |
 | Loco | 138123 | [138123-loco.json](./138123-loco.json) |
