@@ -295,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Rebirth | 290916 | [290916-backrooms-rebirth.json](./290916-backrooms-rebirth.json) |
 | Backrooms: Reminiscence | 366831 | [366831-backrooms-reminiscence.json](./366831-backrooms-reminiscence.json) |
 | Backrooms: Run For Your Life! | 263997 | [263997-backrooms-run-for-your-life.json](./263997-backrooms-run-for-your-life.json) |
+| Backrooms: Splatter | 410300 | [410300-backrooms-splatter.json](./410300-backrooms-splatter.json) |
 | Backrooms: The Old Watcher | 407412 | [407412-backrooms-the-old-watcher.json](./407412-backrooms-the-old-watcher.json) |
 | Backrooms: The Project | 239762 | [239762-backrooms-the-project.json](./239762-backrooms-the-project.json) |
 | Backrooms: The Silence | 339449 | [339449-backrooms-the-silence.json](./339449-backrooms-the-silence.json) |
@@ -2946,6 +2947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beneath The Brine | 327376 | [327376-beneath-the-brine.json](./327376-beneath-the-brine.json) |
 | Beneath the Cardboard | 201286 | [201286-beneath-the-cardboard.json](./201286-beneath-the-cardboard.json) |
 | Beneath the Cherry Trees | 90567 | [90567-beneath-the-cherry-trees.json](./90567-beneath-the-cherry-trees.json) |
+| Beneath The Hill | 410298 | [410298-beneath-the-hill.json](./410298-beneath-the-hill.json) |
 | Beneath the Lighthouse | 59378 | [59378-beneath-the-lighthouse.json](./59378-beneath-the-lighthouse.json) |
 | Beneath the Mind | 336630 | [336630-beneath-the-mind.json](./336630-beneath-the-mind.json) |
 | Beneath the Mountain | 173299 | [173299-beneath-the-mountain.json](./173299-beneath-the-mountain.json) |
@@ -4465,6 +4467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast-a-Bug! | 324338 | [324338-blast-a-bug.json](./324338-blast-a-bug.json) |
 | Blast-Axis | 119542 | [119542-blast-axis.json](./119542-blast-axis.json) |
 | Blast! | 15675 | [15675-blast.json](./15675-blast.json) |
+| Blast'N Bounty | 410376 | [410376-blastn-bounty.json](./410376-blastn-bounty.json) |
 | Blastar | 14317 | [14317-blastar.json](./14317-blastar.json) |
 | Blastarock! | 196842 | [196842-blastarock.json](./196842-blastarock.json) |
 | Blastboard | 129124 | [129124-blastboard.json](./129124-blastboard.json) |
@@ -4508,6 +4511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlazBlue Cross Tag Battle: Additional Color Set 1 | 332824 | [332824-blazblue-cross-tag-battle-additional-color-set-1.json](./332824-blazblue-cross-tag-battle-additional-color-set-1.json) |
 | BlazBlue Cross Tag Battle: Additional Color Set 2 | 332825 | [332825-blazblue-cross-tag-battle-additional-color-set-2.json](./332825-blazblue-cross-tag-battle-additional-color-set-2.json) |
 | BlazBlue Cross Tag Battle: Additional Color Set 3 | 332826 | [332826-blazblue-cross-tag-battle-additional-color-set-3.json](./332826-blazblue-cross-tag-battle-additional-color-set-3.json) |
+| BlazBlue Entropy Effect X: Nintendo Switch 2 Edition Upgrade Pack | 410400 | [410400-blazblue-entropy-effect-x-nintendo-switch-2-edition-upgrade-pack.json](./410400-blazblue-entropy-effect-x-nintendo-switch-2-edition-upgrade-pack.json) |
 | BlazBlue Mobile Battle | 79216 | [79216-blazblue-mobile-battle.json](./79216-blazblue-mobile-battle.json) |
 | BlazBlue Revolution Reburning | 38977 | [38977-blazblue-revolution-reburning.json](./38977-blazblue-revolution-reburning.json) |
 | BlazBlue: Calamity Trigger Portable | 46018 | [46018-blazblue-calamity-trigger-portable.json](./46018-blazblue-calamity-trigger-portable.json) |
@@ -5491,6 +5495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob the Builder: Fix it Fun! | 49879 | [49879-bob-the-builder-fix-it-fun.json](./49879-bob-the-builder-fix-it-fun.json) |
 | Bob the Elementalist | 267489 | [267489-bob-the-elementalist.json](./267489-bob-the-elementalist.json) |
 | Bob the Goose | 213476 | [213476-bob-the-goose.json](./213476-bob-the-goose.json) |
+| Bob The Mad Rabbit | 410402 | [410402-bob-the-mad-rabbit.json](./410402-bob-the-mad-rabbit.json) |
 | Bob the Robber 5 | 187970 | [187970-bob-the-robber-5.json](./187970-bob-the-robber-5.json) |
 | Bob Venture 3D Level Editor | 130199 | [130199-bob-venture-3d-level-editor.json](./130199-bob-venture-3d-level-editor.json) |
 | Bob vs the Mob | 57670 | [57670-bob-vs-the-mob.json](./57670-bob-vs-the-mob.json) |
