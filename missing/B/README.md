@@ -650,6 +650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Boy Simulator | 412511 | [412511-ball-boy-simulator.json](./412511-ball-boy-simulator.json) |
 | Ball Breaker 3D | 78036 | [78036-ball-breaker-3d.json](./78036-ball-breaker-3d.json) |
 | Ball Bulét | 304632 | [304632-ball-bulet.json](./304632-ball-bulet.json) |
+| Ball Buster Breakout | 404372 | [404372-ball-buster-breakout.json](./404372-ball-buster-breakout.json) |
 | Ball Cannon | 327984 | [327984-ball-cannon.json](./327984-ball-cannon.json) |
 | Ball Drop | 243703 | [243703-ball-drop.json](./243703-ball-drop.json) |
 | Ball Drop | 338188 | [338188-ball-drop.json](./338188-ball-drop.json) |
@@ -6140,6 +6141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderus: Angels & Demons | 150547 | [150547-borderus-angels-and-demons.json](./150547-borderus-angels-and-demons.json) |
 | Bore Blasters | 250809 | [250809-bore-blasters.json](./250809-bore-blasters.json) |
 | Boreal Tenebrae | 195729 | [195729-boreal-tenebrae.json](./195729-boreal-tenebrae.json) |
+| Boreal Tenebrae Act 0 | 404353 | [404353-boreal-tenebrae-act-0.json](./404353-boreal-tenebrae-act-0.json) |
 | Boreal Tenebrae: Deluxe Definitive Edition | 259582 | [259582-boreal-tenebrae-deluxe-definitive-edition.json](./259582-boreal-tenebrae-deluxe-definitive-edition.json) |
 | Boreal Tenebrae: Deluxe Extended Edition | 250366 | [250366-boreal-tenebrae-deluxe-extended-edition.json](./250366-boreal-tenebrae-deluxe-extended-edition.json) |
 | Boreal Tenebrae: Deluxe Ultimate Edition | 247753 | [247753-boreal-tenebrae-deluxe-ultimate-edition.json](./247753-boreal-tenebrae-deluxe-ultimate-edition.json) |
