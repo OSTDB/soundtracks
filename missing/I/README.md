@@ -1053,6 +1053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illusions | 40893 | [40893-illusions.json](./40893-illusions.json) |
 | Illusions 360 | 67971 | [67971-illusions-360.json](./67971-illusions-360.json) |
 | Illusory Dreamlight 1: Deprimerie | 186174 | [186174-illusory-dreamlight-1-deprimerie.json](./186174-illusory-dreamlight-1-deprimerie.json) |
+| Illustack | 401041 | [401041-illustack.json](./401041-illustack.json) |
 | Illvelo Swamp Happy Together | 383529 | [383529-illvelo-swamp-happy-together.json](./383529-illvelo-swamp-happy-together.json) |
 | Illville: Return instructions | 75180 | [75180-illville-return-instructions.json](./75180-illville-return-instructions.json) |
 | illWill | 191579 | [191579-illwill.json](./191579-illwill.json) |
@@ -2706,6 +2707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irmão Grande & Brasileiro 2 | 163461 | [163461-irmao-grande-and-brasileiro-2.json](./163461-irmao-grande-and-brasileiro-2.json) |
 | Irochi Mikke! | 276464 | [276464-irochi-mikke.json](./276464-irochi-mikke.json) |
 | Iron & Blood: Warriors of Ravenloft | 20608 | [20608-iron-and-blood-warriors-of-ravenloft.json](./20608-iron-and-blood-warriors-of-ravenloft.json) |
+| Iron & Ivory | 401037 | [401037-iron-and-ivory.json](./401037-iron-and-ivory.json) |
 | Iron & Rust: Complete Edition | 183985 | [183985-iron-and-rust-complete-edition.json](./183985-iron-and-rust-complete-edition.json) |
 | Iron Aces: Heroes of WWII | 210024 | [210024-iron-aces-heroes-of-wwii.json](./210024-iron-aces-heroes-of-wwii.json) |
 | Iron Age | 173054 | [173054-iron-age.json](./173054-iron-age.json) |
