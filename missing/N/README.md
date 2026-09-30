@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N.O.V.A. 3 | 38883 | [38883-n-o-v-a-3.json](./38883-n-o-v-a-3.json) |
 | N.O.V.A. 3: Freedom Edition | 38930 | [38930-n-o-v-a-3-freedom-edition.json](./38930-n-o-v-a-3-freedom-edition.json) |
 | N.O.V.A. Legacy | 39004 | [39004-n-o-v-a-legacy.json](./39004-n-o-v-a-legacy.json) |
+| N.Ukeme | 418519 | [418519-n-ukeme.json](./418519-n-ukeme.json) |
 | N.Y.Zombies 2 | 86907 | [86907-n-y-zombies-2.json](./86907-n-y-zombies-2.json) |
 | N+ | 8749 | [8749-n.json](./8749-n.json) |
 | N++: Ultimate Edition | 81203 | [81203-n-ultimate-edition.json](./81203-n-ultimate-edition.json) |
@@ -1246,6 +1247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Struct: Desperation Column | 187444 | [187444-neon-struct-desperation-column.json](./187444-neon-struct-desperation-column.json) |
 | Neon Struct: Die Augen der Welt | 17571 | [17571-neon-struct-die-augen-der-welt.json](./17571-neon-struct-die-augen-der-welt.json) |
 | Neon Sundown | 193421 | [193421-neon-sundown.json](./193421-neon-sundown.json) |
+| Neon Survivor | 418542 | [418542-neon-survivor.json](./418542-neon-survivor.json) |
 | Neon Sword | 107169 | [107169-neon-sword.json](./107169-neon-sword.json) |
 | Neon Tail | 119431 | [119431-neon-tail.json](./119431-neon-tail.json) |
 | Neon Tide | 120912 | [120912-neon-tide.json](./120912-neon-tide.json) |
@@ -1641,6 +1643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Yankee in King Arthur's Court 4 | 117825 | [117825-new-yankee-in-king-arthurs-court-4.json](./117825-new-yankee-in-king-arthurs-court-4.json) |
 | New Yankee in King Arthur's Court 5 | 118260 | [118260-new-yankee-in-king-arthurs-court-5.json](./118260-new-yankee-in-king-arthurs-court-5.json) |
 | New Yankee in Santa's Service | 32990 | [32990-new-yankee-in-santas-service.json](./32990-new-yankee-in-santas-service.json) |
+| New Yankee: Jelly Chaos | 418540 | [418540-new-yankee-jelly-chaos.json](./418540-new-yankee-jelly-chaos.json) |
 | New Yankee: Jelly Chaos - Collector's Edition | 417515 | [417515-new-yankee-jelly-chaos-collectors-edition.json](./417515-new-yankee-jelly-chaos-collectors-edition.json) |
 | New Yankee: Karma Tales | 235833 | [235833-new-yankee-karma-tales.json](./235833-new-yankee-karma-tales.json) |
 | New Yankee: Mary's Dark Side | 258010 | [258010-new-yankee-marys-dark-side.json](./258010-new-yankee-marys-dark-side.json) |
