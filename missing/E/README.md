@@ -2115,6 +2115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EreaDrone Simulator | 104189 | [104189-ereadrone-simulator.json](./104189-ereadrone-simulator.json) |
 | Ereban: Shadow Legacy | 204624 | [204624-ereban-shadow-legacy.json](./204624-ereban-shadow-legacy.json) |
 | Erectus the Game | 115188 | [115188-erectus-the-game.json](./115188-erectus-the-game.json) |
+| Eredia: The Diary of Heroes | 90718 | [90718-eredia-the-diary-of-heroes.json](./90718-eredia-the-diary-of-heroes.json) |
 | Erefia | 44212 | [44212-erefia.json](./44212-erefia.json) |
 | Eremidia: Archivist's Curse | 208588 | [208588-eremidia-archivists-curse.json](./208588-eremidia-archivists-curse.json) |
 | Erenshor | 245825 | [245825-erenshor.json](./245825-erenshor.json) |
