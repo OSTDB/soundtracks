@@ -1359,6 +1359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kindred | 313888 | [313888-kindred.json](./313888-kindred.json) |
 | Kindred [SnowBound] | 402522 | [402522-kindred-snowbound.json](./402522-kindred-snowbound.json) |
 | Kindred Fates | 129154 | [129154-kindred-fates.json](./129154-kindred-fates.json) |
+| Kindred Fates: Combat Arena | 393012 | [393012-kindred-fates-combat-arena.json](./393012-kindred-fates-combat-arena.json) |
 | Kindred Spirits Complete Collection | 53240 | [53240-kindred-spirits-complete-collection.json](./53240-kindred-spirits-complete-collection.json) |
 | Kindred Spirits on the Roof: Full Chorus | 124804 | [124804-kindred-spirits-on-the-roof-full-chorus.json](./124804-kindred-spirits-on-the-roof-full-chorus.json) |
 | Kindred: High Tide | 373210 | [373210-kindred-high-tide.json](./373210-kindred-high-tide.json) |
