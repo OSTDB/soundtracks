@@ -1473,6 +1473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scientific Project: Optic | 258431 | [258431-scientific-project-optic.json](./258431-scientific-project-optic.json) |
 | Scientific Shutdown | 156123 | [156123-scientific-shutdown.json](./156123-scientific-shutdown.json) |
 | Scientific Terms Extreme | 107125 | [107125-scientific-terms-extreme.json](./107125-scientific-terms-extreme.json) |
+| Scientist and Alchemist | 413140 | [413140-scientist-and-alchemist.json](./413140-scientist-and-alchemist.json) |
 | Scientist Hunt | 248299 | [248299-scientist-hunt.json](./248299-scientist-hunt.json) |
 | Scientist Slaughterhouse | 221665 | [221665-scientist-slaughterhouse.json](./221665-scientist-slaughterhouse.json) |
 | Scikor Final Scale | 121743 | [121743-scikor-final-scale.json](./121743-scikor-final-scale.json) |
@@ -2187,6 +2188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sector 666 | 308256 | [308256-sector-666.json](./308256-sector-666.json) |
 | Sector 724 | 76967 | [76967-sector-724.json](./76967-sector-724.json) |
 | Sector 82 | 181149 | [181149-sector-82.json](./181149-sector-82.json) |
+| Sector 86 | 413152 | [413152-sector-86.json](./413152-sector-86.json) |
 | Sector a Training Facilitea | 253029 | [253029-sector-a-training-facilitea.json](./253029-sector-a-training-facilitea.json) |
 | Sector Alpha | 183518 | [183518-sector-alpha.json](./183518-sector-alpha.json) |
 | Sector Alpha | 301339 | [301339-sector-alpha.json](./301339-sector-alpha.json) |
@@ -2194,6 +2196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sector Lockdown | 382335 | [382335-sector-lockdown.json](./382335-sector-lockdown.json) |
 | Sector Six | 32924 | [32924-sector-six.json](./32924-sector-six.json) |
 | Sector Strike | 145016 | [145016-sector-strike.json](./145016-sector-strike.json) |
+| Sector War | 413131 | [413131-sector-war.json](./413131-sector-war.json) |
 | Sector Zero | 35783 | [35783-sector-zero.json](./35783-sector-zero.json) |
 | SectorA23 | 182552 | [182552-sectora23.json](./182552-sectora23.json) |
 | Sectron | 401629 | [401629-sectron.json](./401629-sectron.json) |
@@ -5225,6 +5228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sin Chronicle | 172765 | [172765-sin-chronicle.json](./172765-sin-chronicle.json) |
 | Sin City | 77967 | [77967-sin-city.json](./77967-sin-city.json) |
 | SiN Episodes: Emergence | 14788 | [14788-sin-episodes-emergence.json](./14788-sin-episodes-emergence.json) |
+| Sin or Suffer | 413137 | [413137-sin-or-suffer.json](./413137-sin-or-suffer.json) |
 | Sin Slayers: Enhanced Edition | 148002 | [148002-sin-slayers-enhanced-edition.json](./148002-sin-slayers-enhanced-edition.json) |
 | Sin Slayers: Pharmacist | 155061 | [155061-sin-slayers-pharmacist.json](./155061-sin-slayers-pharmacist.json) |
 | Sin Slayers: Reign of The 8th | 291758 | [291758-sin-slayers-reign-of-the-8th.json](./291758-sin-slayers-reign-of-the-8th.json) |
@@ -5527,6 +5531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skateboarding | 358842 | [358842-skateboarding.json](./358842-skateboarding.json) |
 | Skateboarding: Breakthrough Gaming Arcade | 143632 | [143632-skateboarding-breakthrough-gaming-arcade.json](./143632-skateboarding-breakthrough-gaming-arcade.json) |
 | Skatebound | 400494 | [400494-skatebound.json](./400494-skatebound.json) |
+| Skatebug | 413101 | [413101-skatebug.json](./413101-skatebug.json) |
 | Skategirl Destroys the Universe | 147275 | [147275-skategirl-destroys-the-universe.json](./147275-skategirl-destroys-the-universe.json) |
 | Skatelander | 345149 | [345149-skatelander.json](./345149-skatelander.json) |
 | Skatemasta Tcheco | 118401 | [118401-skatemasta-tcheco.json](./118401-skatemasta-tcheco.json) |
@@ -6619,6 +6624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Pixel Racing | 33154 | [33154-smash-pixel-racing.json](./33154-smash-pixel-racing.json) |
 | Smash Realm | 402941 | [402941-smash-realm.json](./402941-smash-realm.json) |
 | Smash Remix | 132637 | [132637-smash-remix.json](./132637-smash-remix.json) |
+| Smash Remix +Extra | 413132 | [413132-smash-remix-extra.json](./413132-smash-remix-extra.json) |
 | Smash Remix: Version 1.1.0 | 255783 | [255783-smash-remix-version-1-1-0.json](./255783-smash-remix-version-1-1-0.json) |
 | Smash Remix: Version 1.2.0 | 255784 | [255784-smash-remix-version-1-2-0.json](./255784-smash-remix-version-1-2-0.json) |
 | Smash Remix: Version 1.3.0 | 255786 | [255786-smash-remix-version-1-3-0.json](./255786-smash-remix-version-1-3-0.json) |
@@ -16568,6 +16574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sylvie Lime | 230501 | [230501-sylvie-lime.json](./230501-sylvie-lime.json) |
 | Sylvie RPG: 7 Elf Apocalypse | 292830 | [292830-sylvie-rpg-7-elf-apocalypse.json](./292830-sylvie-rpg-7-elf-apocalypse.json) |
 | Sylvio and the Mountains Giants | 236536 | [236536-sylvio-and-the-mountains-giants.json](./236536-sylvio-and-the-mountains-giants.json) |
+| Sym Shepherd | 413143 | [413143-sym-shepherd.json](./413143-sym-shepherd.json) |
 | Sym-Bionic Titan: Teenage Warriors | 319177 | [319177-sym-bionic-titan-teenage-warriors.json](./319177-sym-bionic-titan-teenage-warriors.json) |
 | Symb Eco | 77362 | [77362-symb-eco.json](./77362-symb-eco.json) |
 | Symbiogenesis | 302964 | [302964-symbiogenesis.json](./302964-symbiogenesis.json) |
