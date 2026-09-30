@@ -1393,6 +1393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legion Was Here | 347168 | [347168-legion-was-here.json](./347168-legion-was-here.json) |
 | Legion: Dead Metal | 249214 | [249214-legion-dead-metal.json](./249214-legion-dead-metal.json) |
 | Legion: Legend of Excalibur | 44714 | [44714-legion-legend-of-excalibur.json](./44714-legion-legend-of-excalibur.json) |
+| Legionbound | 387609 | [387609-legionbound.json](./387609-legionbound.json) |
 | Legionnaire | 23968 | [23968-legionnaire.json](./23968-legionnaire.json) |
 | Legionnaire | 81453 | [81453-legionnaire.json](./81453-legionnaire.json) |
 | Legions of Chaos | 220180 | [220180-legions-of-chaos.json](./220180-legions-of-chaos.json) |
@@ -3903,6 +3904,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Mind | 405022 | [405022-lost-mind.json](./405022-lost-mind.json) |
 | Lost Museum: Echoes of the Chromageists | 416055 | [416055-lost-museum-echoes-of-the-chromageists.json](./416055-lost-museum-echoes-of-the-chromageists.json) |
 | Lost my Collection of 100 Shells | 359574 | [359574-lost-my-collection-of-100-shells.json](./359574-lost-my-collection-of-100-shells.json) |
+| Lost My Collection of Fish | 387594 | [387594-lost-my-collection-of-fish.json](./387594-lost-my-collection-of-fish.json) |
+| Lost My Collection of Fish 2 | 387626 | [387626-lost-my-collection-of-fish-2.json](./387626-lost-my-collection-of-fish-2.json) |
 | Lost Nomad | 297630 | [297630-lost-nomad.json](./297630-lost-nomad.json) |
 | Lost Oasis | 334099 | [334099-lost-oasis.json](./334099-lost-oasis.json) |
 | Lost Oddies | 243097 | [243097-lost-oddies.json](./243097-lost-oddies.json) |
