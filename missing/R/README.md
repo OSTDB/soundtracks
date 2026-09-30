@@ -250,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Life | 396598 | [396598-racing-life.json](./396598-racing-life.json) |
 | Racing Madness | 68972 | [68972-racing-madness.json](./68972-racing-madness.json) |
 | Racing Madness 2 | 73334 | [73334-racing-madness-2.json](./73334-racing-madness-2.json) |
+| Racing Manager | 390198 | [390198-racing-manager.json](./390198-racing-manager.json) |
 | Racing Manager 2014 | 9419 | [9419-racing-manager-2014.json](./9419-racing-manager-2014.json) |
 | Racing Megapack | 317964 | [317964-racing-megapack.json](./317964-racing-megapack.json) |
 | Racing Penguin: Slide and Fly! | 86973 | [86973-racing-penguin-slide-and-fly.json](./86973-racing-penguin-slide-and-fly.json) |
@@ -2166,6 +2167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflectron | 42048 | [42048-reflectron.json](./42048-reflectron.json) |
 | Reflex | 86345 | [86345-reflex.json](./86345-reflex.json) |
 | Reflex Master: Sight | 342729 | [342729-reflex-master-sight.json](./342729-reflex-master-sight.json) |
+| Reflex Run | 390190 | [390190-reflex-run.json](./390190-reflex-run.json) |
 | Reflex Strike - Reaction Time Counter | 101050 | [101050-reflex-strike-reaction-time-counter.json](./101050-reflex-strike-reaction-time-counter.json) |
 | Reflex Unit AR | 197758 | [197758-reflex-unit-ar.json](./197758-reflex-unit-ar.json) |
 | Reflex Unit: Strike Ops | 304653 | [304653-reflex-unit-strike-ops.json](./304653-reflex-unit-strike-ops.json) |
@@ -2201,6 +2203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regions of Ruin | 61884 | [61884-regions-of-ruin.json](./61884-regions-of-ruin.json) |
 | Regions of Ruin: Sieges | 171959 | [171959-regions-of-ruin-sieges.json](./171959-regions-of-ruin-sieges.json) |
 | Regnum | 55987 | [55987-regnum.json](./55987-regnum.json) |
+| Regnum Idle | 390210 | [390210-regnum-idle.json](./390210-regnum-idle.json) |
 | Regola | 119593 | [119593-regola.json](./119593-regola.json) |
 | Regret | 391791 | [391791-regret.json](./391791-regret.json) |
 | Regretful Ghosts | 318542 | [318542-regretful-ghosts.json](./318542-regretful-ghosts.json) |
@@ -2217,6 +2220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regulus: The Advent | 373720 | [373720-regulus-the-advent.json](./373720-regulus-the-advent.json) |
 | Rehaunted | 410924 | [410924-rehaunted.json](./410924-rehaunted.json) |
 | Rehtona | 113857 | [113857-rehtona.json](./113857-rehtona.json) |
+| Rei and the Floating City | 390181 | [390181-rei-and-the-floating-city.json](./390181-rei-and-the-floating-city.json) |
 | Reigen Doushi | 215135 | [215135-reigen-doushi.json](./215135-reigen-doushi.json) |
 | Reign and Ruin | 211662 | [211662-reign-and-ruin.json](./211662-reign-and-ruin.json) |
 | Reign Down | 280348 | [280348-reign-down.json](./280348-reign-down.json) |
@@ -4188,6 +4192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robert on Earth | 303044 | [303044-robert-on-earth.json](./303044-robert-on-earth.json) |
 | Robert Robie and the Idols of Jade | 189187 | [189187-robert-robie-and-the-idols-of-jade.json](./189187-robert-robie-and-the-idols-of-jade.json) |
 | Robert: Space Stories and Battles | 190064 | [190064-robert-space-stories-and-battles.json](./190064-robert-space-stories-and-battles.json) |
+| Robertinho Adventures | 390179 | [390179-robertinho-adventures.json](./390179-robertinho-adventures.json) |
 | Robes | 176343 | [176343-robes.json](./176343-robes.json) |
 | Robicon | 373764 | [373764-robicon.json](./373764-robicon.json) |
 | Robin & Orchid | 60013 | [60013-robin-and-orchid.json](./60013-robin-and-orchid.json) |
