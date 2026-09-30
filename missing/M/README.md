@@ -696,6 +696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Animal Farm | 366423 | [366423-magical-animal-farm.json](./366423-magical-animal-farm.json) |
 | Magical Battle Arena | 145447 | [145447-magical-battle-arena.json](./145447-magical-battle-arena.json) |
 | Magical Battle Arena: Complete Form | 61320 | [61320-magical-battle-arena-complete-form.json](./61320-magical-battle-arena-complete-form.json) |
+| Magical Battle Festa | 17218 | [17218-magical-battle-festa.json](./17218-magical-battle-festa.json) |
 | Magical Beat | 52549 | [52549-magical-beat.json](./52549-magical-beat.json) |
 | Magical Blaster | 151741 | [151741-magical-blaster.json](./151741-magical-blaster.json) |
 | Magical Boco | 313464 | [313464-magical-boco.json](./313464-magical-boco.json) |
@@ -4169,6 +4170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merchant in Dungeon | 240788 | [240788-merchant-in-dungeon.json](./240788-merchant-in-dungeon.json) |
 | Merchant's Game | 164519 | [164519-merchants-game.json](./164519-merchants-game.json) |
 | Merchants & Mercenaries | 30846 | [30846-merchants-and-mercenaries.json](./30846-merchants-and-mercenaries.json) |
+| Merchants of Kaidan | 17288 | [17288-merchants-of-kaidan.json](./17288-merchants-of-kaidan.json) |
 | Merchants of Sol | 207380 | [207380-merchants-of-sol.json](./207380-merchants-of-sol.json) |
 | Merciful Girl | 223957 | [223957-merciful-girl.json](./223957-merciful-girl.json) |
 | Merciless Podium | 86897 | [86897-merciless-podium.json](./86897-merciless-podium.json) |
@@ -5336,6 +5338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Million Onion Hotel | 62068 | [62068-million-onion-hotel.json](./62068-million-onion-hotel.json) |
 | Million to One Hero | 109609 | [109609-million-to-one-hero.json](./109609-million-to-one-hero.json) |
 | Millionaire Dancer | 117098 | [117098-millionaire-dancer.json](./117098-millionaire-dancer.json) |
+| Millionaire Manor | 17371 | [17371-millionaire-manor.json](./17371-millionaire-manor.json) |
 | Millionaire Manor, Robin's Quest, Escape the Lost Kingdom and the Hidden Object Show 2 | 209510 | [209510-millionaire-manor-robins-quest-escape-the-lost-kingdom-and-the-hidden-object-show-2.json](./209510-millionaire-manor-robins-quest-escape-the-lost-kingdom-and-the-hidden-object-show-2.json) |
 | Millionaire Obby | 401099 | [401099-millionaire-obby.json](./401099-millionaire-obby.json) |
 | Millipede | 198820 | [198820-millipede.json](./198820-millipede.json) |
@@ -7040,6 +7043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Boy and the Cursed Kingdom | 25599 | [25599-monster-boy-and-the-cursed-kingdom.json](./25599-monster-boy-and-the-cursed-kingdom.json) |
 | Monster Busters: Hexa Blast | 242793 | [242793-monster-busters-hexa-blast.json](./242793-monster-busters-hexa-blast.json) |
 | Monster Care Simulator | 326387 | [326387-monster-care-simulator.json](./326387-monster-care-simulator.json) |
+| Monster Challenge Circus | 17395 | [17395-monster-challenge-circus.json](./17395-monster-challenge-circus.json) |
 | Monster Charmer | 310724 | [310724-monster-charmer.json](./310724-monster-charmer.json) |
 | Monster Chase | 60566 | [60566-monster-chase.json](./60566-monster-chase.json) |
 | Monster Chef | 91086 | [91086-monster-chef.json](./91086-monster-chef.json) |
