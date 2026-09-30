@@ -2211,6 +2211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final 5: Survival! | 234332 | [234332-final-5-survival.json](./234332-final-5-survival.json) |
 | Final Armada | 43297 | [43297-final-armada.json](./43297-final-armada.json) |
 | Final Assault | 39115 | [39115-final-assault.json](./39115-final-assault.json) |
+| Final Assault | 94615 | [94615-final-assault.json](./94615-final-assault.json) |
 | Final Blade | 115187 | [115187-final-blade.json](./115187-final-blade.json) |
 | Final Blaster | 37713 | [37713-final-blaster.json](./37713-final-blaster.json) |
 | Final Blockade | 203567 | [203567-final-blockade.json](./203567-final-blockade.json) |
@@ -3586,6 +3587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip Words | 77381 | [77381-flip-words.json](./77381-flip-words.json) |
 | Flip-Flop Fury | 402521 | [402521-flip-flop-fury.json](./402521-flip-flop-fury.json) |
 | Flip-It | 159167 | [159167-flip-it.json](./159167-flip-it.json) |
+| Flip: Surfing Colors | 95098 | [95098-flip-surfing-colors.json](./95098-flip-surfing-colors.json) |
 | Flip! The Cartoon Strategy Game | 57086 | [57086-flip-the-cartoon-strategy-game.json](./57086-flip-the-cartoon-strategy-game.json) |
 | Flip's Escape | 64646 | [64646-flips-escape.json](./64646-flips-escape.json) |
 | Flip＊Flop: Innocence Overclock | 397244 | [397244-flip-flop-innocence-overclock.json](./397244-flip-flop-innocence-overclock.json) |
@@ -5473,6 +5475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fritz & Chesster: Chess for Aliens | 356723 | [356723-fritz-and-chesster-chess-for-aliens.json](./356723-fritz-and-chesster-chess-for-aliens.json) |
 | Fritz & Chesster's Chess for Winners | 84182 | [84182-fritz-and-chessters-chess-for-winners.json](./84182-fritz-and-chessters-chess-for-winners.json) |
 | Fritz 19: Steam Edition | 280203 | [280203-fritz-19-steam-edition.json](./280203-fritz-19-steam-edition.json) |
+| Fritz 8 | 93016 | [93016-fritz-8.json](./93016-fritz-8.json) |
 | Fritz 9: Play Chess | 130848 | [130848-fritz-9-play-chess.json](./130848-fritz-9-play-chess.json) |
 | Fritz Chess 13 | 25054 | [25054-fritz-chess-13.json](./25054-fritz-chess-13.json) |
 | Fritz Chess 14 | 17050 | [17050-fritz-chess-14.json](./17050-fritz-chess-14.json) |
