@@ -2446,6 +2446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renaissance Fighters | 220187 | [220187-renaissance-fighters.json](./220187-renaissance-fighters.json) |
 | Renaissance Kingdom Wars | 278968 | [278968-renaissance-kingdom-wars.json](./278968-renaissance-kingdom-wars.json) |
 | Renard's Skin Care Routine | 378901 | [378901-renards-skin-care-routine.json](./378901-renards-skin-care-routine.json) |
+| Renascor | 389677 | [389677-renascor.json](./389677-renascor.json) |
 | Rencia | 120925 | [120925-rencia.json](./120925-rencia.json) |
 | Rend | 27770 | [27770-rend.json](./27770-rend.json) |
 | Rendering Ranger: R2 | 38369 | [38369-rendering-ranger-r2.json](./38369-rendering-ranger-r2.json) |
