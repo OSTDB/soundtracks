@@ -3995,6 +3995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love 3: Love Cube | 117876 | [117876-love-3-love-cube.json](./117876-love-3-love-cube.json) |
 | Love Accident | 186829 | [186829-love-accident.json](./186829-love-accident.json) |
 | Love Affairs | 303785 | [303785-love-affairs.json](./303785-love-affairs.json) |
+| Love All My Girls | 406866 | [406866-love-all-my-girls.json](./406866-love-all-my-girls.json) |
 | Love Alt Delete | 419911 | [419911-love-alt-delete.json](./419911-love-alt-delete.json) |
 | Love Always Runs Away | 362885 | [362885-love-always-runs-away.json](./362885-love-always-runs-away.json) |
 | Love Amidst the Timeless Rift | 284398 | [284398-love-amidst-the-timeless-rift.json](./284398-love-amidst-the-timeless-rift.json) |
@@ -4328,6 +4329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luckrot | 351706 | [351706-luckrot.json](./351706-luckrot.json) |
 | Lucky 21 | 241337 | [241337-lucky-21.json](./241337-lucky-21.json) |
 | Lucky Break: Dating in New York | 372684 | [372684-lucky-break-dating-in-new-york.json](./372684-lucky-break-dating-in-new-york.json) |
+| Lucky Charms | 406862 | [406862-lucky-charms.json](./406862-lucky-charms.json) |
 | Lucky Coins | 175264 | [175264-lucky-coins.json](./175264-lucky-coins.json) |
 | Lucky day | 166750 | [166750-lucky-day.json](./166750-lucky-day.json) |
 | Lucky Dog 1 | 147444 | [147444-lucky-dog-1.json](./147444-lucky-dog-1.json) |
