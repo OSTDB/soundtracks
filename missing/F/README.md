@@ -3625,6 +3625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fling with a Tiefling | 322001 | [322001-fling-with-a-tiefling.json](./322001-fling-with-a-tiefling.json) |
 | Fling! | 264361 | [264361-fling.json](./264361-fling.json) |
 | Fling! | 343986 | [343986-fling.json](./343986-fling.json) |
+| Flingin' Poo | 394475 | [394475-flingin-poo.json](./394475-flingin-poo.json) |
 | Flint | 368493 | [368493-flint.json](./368493-flint.json) |
 | Flint and Charlie | 19957 | [19957-flint-and-charlie.json](./19957-flint-and-charlie.json) |
 | Flint: Treasure of Oblivion | 295635 | [295635-flint-treasure-of-oblivion.json](./295635-flint-treasure-of-oblivion.json) |
