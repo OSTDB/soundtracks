@@ -2930,6 +2930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pid | 1892 | [1892-pid.json](./1892-pid.json) |
 | Pid | 225890 | [225890-pid.json](./225890-pid.json) |
 | Pido1 | 105367 | [105367-pido1.json](./105367-pido1.json) |
+| Pie Die: Pewdiepie Edition | 88444 | [88444-pie-die-pewdiepie-edition.json](./88444-pie-die-pewdiepie-edition.json) |
 | Pie in the Sky | 298346 | [298346-pie-in-the-sky.json](./298346-pie-in-the-sky.json) |
 | Pie Jackers | 209963 | [209963-pie-jackers.json](./209963-pie-jackers.json) |
 | Pie O'Clock! | 190965 | [190965-pie-oclock.json](./190965-pie-oclock.json) |
@@ -3461,6 +3462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirarucu's Money Rush | 301023 | [301023-pirarucus-money-rush.json](./301023-pirarucus-money-rush.json) |
 | Pirate | 41424 | [41424-pirate.json](./41424-pirate.json) |
 | Pirate Adventure | 176799 | [176799-pirate-adventure.json](./176799-pirate-adventure.json) |
+| Pirate Adventures lite: hidden object game | 88358 | [88358-pirate-adventures-lite-hidden-object-game.json](./88358-pirate-adventures-lite-hidden-object-game.json) |
 | Pirate Adventures: hidden object game | 104630 | [104630-pirate-adventures-hidden-object-game.json](./104630-pirate-adventures-hidden-object-game.json) |
 | Pirate Blast | 175715 | [175715-pirate-blast.json](./175715-pirate-blast.json) |
 | Pirate Boom | 176298 | [176298-pirate-boom.json](./176298-pirate-boom.json) |
@@ -6281,6 +6283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prequel | 388971 | [388971-prequel.json](./388971-prequel.json) |
 | Preschool & Kindergarten 2 | 88279 | [88279-preschool-and-kindergarten-2.json](./88279-preschool-and-kindergarten-2.json) |
 | Preschool & Kindergarten Games | 88268 | [88268-preschool-and-kindergarten-games.json](./88268-preschool-and-kindergarten-games.json) |
+| Preschool ABC Number and Letter Puzzle Game | 88355 | [88355-preschool-abc-number-and-letter-puzzle-game.json](./88355-preschool-abc-number-and-letter-puzzle-game.json) |
 | Preschool All-In-One | 99138 | [99138-preschool-all-in-one.json](./99138-preschool-all-in-one.json) |
 | Preschool EduKitchen | 90799 | [90799-preschool-edukitchen.json](./90799-preschool-edukitchen.json) |
 | Preschool Games Kids Learning | 107650 | [107650-preschool-games-kids-learning.json](./107650-preschool-games-kids-learning.json) |
@@ -6753,6 +6756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Farm Manager | 75108 | [75108-pro-farm-manager.json](./75108-pro-farm-manager.json) |
 | Pro Fishing Challenge | 78688 | [78688-pro-fishing-challenge.json](./78688-pro-fishing-challenge.json) |
 | Pro Fishing Simulator: Predator Edition | 115022 | [115022-pro-fishing-simulator-predator-edition.json](./115022-pro-fishing-simulator-predator-edition.json) |
+| Pro Flight Simulator New York Premium Edition | 88363 | [88363-pro-flight-simulator-new-york-premium-edition.json](./88363-pro-flight-simulator-new-york-premium-edition.json) |
 | Pro Flight Simulator: Deluxe | 324128 | [324128-pro-flight-simulator-deluxe.json](./324128-pro-flight-simulator-deluxe.json) |
 | Pro Foosball | 63831 | [63831-pro-foosball.json](./63831-pro-foosball.json) |
 | Pro Football | 289866 | [289866-pro-football.json](./289866-pro-football.json) |
