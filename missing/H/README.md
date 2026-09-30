@@ -372,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo 3 & Fable II Double Pack | 141865 | [141865-halo-3-and-fable-ii-double-pack.json](./141865-halo-3-and-fable-ii-double-pack.json) |
 | Halo 3: Legendary Edition | 43955 | [43955-halo-3-legendary-edition.json](./43955-halo-3-legendary-edition.json) |
 | Halo 3: The Battlefront Pack | 332561 | [332561-halo-3-the-battlefront-pack.json](./332561-halo-3-the-battlefront-pack.json) |
+| Halo 4: Champions Bundle | 20855 | [20855-halo-4-champions-bundle.json](./20855-halo-4-champions-bundle.json) |
 | Halo 4: King of the Hill Fueled by Mountain Dew | 77343 | [77343-halo-4-king-of-the-hill-fueled-by-mountain-dew.json](./77343-halo-4-king-of-the-hill-fueled-by-mountain-dew.json) |
 | Halo Beats! | 129018 | [129018-halo-beats.json](./129018-halo-beats.json) |
 | Halo CE+ | 276775 | [276775-halo-ce.json](./276775-halo-ce.json) |
@@ -2612,6 +2613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero's Quest: Automatic Roguelite RPG | 199663 | [199663-heros-quest-automatic-roguelite-rpg.json](./199663-heros-quest-automatic-roguelite-rpg.json) |
 | Hero's Quest: Lost Memories | 251836 | [251836-heros-quest-lost-memories.json](./251836-heros-quest-lost-memories.json) |
 | Hero's Realm | 122883 | [122883-heros-realm.json](./122883-heros-realm.json) |
+| Hero's Saga Laevatein Tactics | 21034 | [21034-heros-saga-laevatein-tactics.json](./21034-heros-saga-laevatein-tactics.json) |
 | Hero's Song | 25870 | [25870-heros-song.json](./25870-heros-song.json) |
 | Hero's War | 224214 | [224214-heros-war.json](./224214-heros-war.json) |
 | Hero's Way | 253322 | [253322-heros-way.json](./253322-heros-way.json) |
@@ -5779,6 +5781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperspace | 303551 | [303551-hyperspace.json](./303551-hyperspace.json) |
 | Hyperspace Deck Command | 287766 | [287766-hyperspace-deck-command.json](./287766-hyperspace-deck-command.json) |
 | Hyperspace Hub Manager | 357264 | [357264-hyperspace-hub-manager.json](./357264-hyperspace-hub-manager.json) |
+| Hyperspace Invaders II: Pixel Edition | 20923 | [20923-hyperspace-invaders-ii-pixel-edition.json](./20923-hyperspace-invaders-ii-pixel-edition.json) |
 | Hyperspace Services | 184085 | [184085-hyperspace-services.json](./184085-hyperspace-services.json) |
 | Hyperspace Throw Patrol | 184991 | [184991-hyperspace-throw-patrol.json](./184991-hyperspace-throw-patrol.json) |
 | Hyperspeed - Race with Friends | 115450 | [115450-hyperspeed-race-with-friends.json](./115450-hyperspeed-race-with-friends.json) |
