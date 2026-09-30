@@ -3902,6 +3902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melli's Retro Land | 270414 | [270414-mellis-retro-land.json](./270414-mellis-retro-land.json) |
 | Mello | 188917 | [188917-mello.json](./188917-mello.json) |
 | Mello Haunted House | 207497 | [207497-mello-haunted-house.json](./207497-mello-haunted-house.json) |
+| Mellow's PillowLand | 389013 | [389013-mellows-pillowland.json](./389013-mellows-pillowland.json) |
 | Mellstroy Survivor | 369753 | [369753-mellstroy-survivor.json](./369753-mellstroy-survivor.json) |
 | Melo's Cat Cafe | 307568 | [307568-melos-cat-cafe.json](./307568-melos-cat-cafe.json) |
 | Melod | 235145 | [235145-melod.json](./235145-melod.json) |
@@ -6711,6 +6712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern Mud | 377691 | [377691-modern-mud.json](./377691-modern-mud.json) |
 | Modern Museum | 305524 | [305524-modern-museum.json](./305524-modern-museum.json) |
 | Modern Naval Warfare | 186903 | [186903-modern-naval-warfare.json](./186903-modern-naval-warfare.json) |
+| Modern Naval Warfare: Sea Combat | 389067 | [389067-modern-naval-warfare-sea-combat.json](./389067-modern-naval-warfare-sea-combat.json) |
 | Modern Road-Like | 104041 | [104041-modern-road-like.json](./104041-modern-road-like.json) |
 | Modern Towers | 140988 | [140988-modern-towers.json](./140988-modern-towers.json) |
 | Modern War | 100206 | [100206-modern-war.json](./100206-modern-war.json) |
@@ -9382,9 +9384,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hero Academia All's Justice: 20 Costumes Pack | 393720 | [393720-my-hero-academia-alls-justice-20-costumes-pack.json](./393720-my-hero-academia-alls-justice-20-costumes-pack.json) |
 | My Hero Academia All's Justice: 7 HUD Banners Set | 393715 | [393715-my-hero-academia-alls-justice-7-hud-banners-set.json](./393715-my-hero-academia-alls-justice-7-hud-banners-set.json) |
 | My Hero Academia All's Justice: Opera Costume Pack | 393719 | [393719-my-hero-academia-alls-justice-opera-costume-pack.json](./393719-my-hero-academia-alls-justice-opera-costume-pack.json) |
+| My Hero Academia All's Justice: Playable Character Early Unlock Pack | 389048 | [389048-my-hero-academia-alls-justice-playable-character-early-unlock-pack.json](./389048-my-hero-academia-alls-justice-playable-character-early-unlock-pack.json) |
 | My Hero Academia All's Justice: Playable Character Star and Stripe | 393721 | [393721-my-hero-academia-alls-justice-playable-character-star-and-stripe.json](./393721-my-hero-academia-alls-justice-playable-character-star-and-stripe.json) |
 | My Hero Academia All's Justice: School Uniform: Himiko Toga | 393718 | [393718-my-hero-academia-alls-justice-school-uniform-himiko-toga.json](./393718-my-hero-academia-alls-justice-school-uniform-himiko-toga.json) |
 | My Hero Academia All's Justice: Season Pass | 393723 | [393723-my-hero-academia-alls-justice-season-pass.json](./393723-my-hero-academia-alls-justice-season-pass.json) |
+| My Hero Academia All's Justice: U.A. Quest Costume Pack | 389036 | [389036-my-hero-academia-alls-justice-u-a-quest-costume-pack.json](./389036-my-hero-academia-alls-justice-u-a-quest-costume-pack.json) |
 | My Hero Academia: All's Justice - DLC Character 4 | 414446 | [414446-my-hero-academia-alls-justice-dlc-character-4.json](./414446-my-hero-academia-alls-justice-dlc-character-4.json) |
 | My Hero Academia: All's Justice - DLC Character 5 | 414447 | [414447-my-hero-academia-alls-justice-dlc-character-5.json](./414447-my-hero-academia-alls-justice-dlc-character-5.json) |
 | My Hero Academia: All's Justice - Playable Character Izuku Midoriya Overlay Full Style | 414448 | [414448-my-hero-academia-alls-justice-playable-character-izuku-midoriya-overlay-full-style.json](./414448-my-hero-academia-alls-justice-playable-character-izuku-midoriya-overlay-full-style.json) |
