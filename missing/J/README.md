@@ -423,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jay and Silent Bob: Chronic Blunt Punch | 28284 | [28284-jay-and-silent-bob-chronic-blunt-punch.json](./28284-jay-and-silent-bob-chronic-blunt-punch.json) |
 | Jay's Walkin' | 156554 | [156554-jays-walkin.json](./156554-jays-walkin.json) |
 | Jayce | 177500 | [177500-jayce.json](./177500-jayce.json) |
+| Jaywalk: An Endless Arcade Hopper Game | 406233 | [406233-jaywalk-an-endless-arcade-hopper-game.json](./406233-jaywalk-an-endless-arcade-hopper-game.json) |
 | Jazz and Faust | 127331 | [127331-jazz-and-faust.json](./127331-jazz-and-faust.json) |
 | Jazz It Up | 177994 | [177994-jazz-it-up.json](./177994-jazz-it-up.json) |
 | Jazz Jackrabbit 2 | 764 | [764-jazz-jackrabbit-2.json](./764-jazz-jackrabbit-2.json) |
@@ -1191,6 +1192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jolly's Hardcore Mod | 269866 | [269866-jollys-hardcore-mod.json](./269866-jollys-hardcore-mod.json) |
 | JollyWorld | 162408 | [162408-jollyworld.json](./162408-jollyworld.json) |
 | Jolt Family Robot Racer | 85217 | [85217-jolt-family-robot-racer.json](./85217-jolt-family-robot-racer.json) |
+| Jolt: Neon Breaker | 406234 | [406234-jolt-neon-breaker.json](./406234-jolt-neon-breaker.json) |
 | Jon Shafer's At the Gates | 8423 | [8423-jon-shafers-at-the-gates.json](./8423-jon-shafers-at-the-gates.json) |
 | Jonah Barrington's Squash | 72155 | [72155-jonah-barringtons-squash.json](./72155-jonah-barringtons-squash.json) |
 | Jonah: A VeggieTales Game | 80600 | [80600-jonah-a-veggietales-game.json](./80600-jonah-a-veggietales-game.json) |
