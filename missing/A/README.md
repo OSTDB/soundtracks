@@ -5641,6 +5641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archipelago: A Survival Game | 88455 | [88455-archipelago-a-survival-game.json](./88455-archipelago-a-survival-game.json) |
 | Archipelago: Island Survival | 297787 | [297787-archipelago-island-survival.json](./297787-archipelago-island-survival.json) |
 | Archipelago: Navigable VR Comic | 29822 | [29822-archipelago-navigable-vr-comic.json](./29822-archipelago-navigable-vr-comic.json) |
+| Archipeo | 407384 | [407384-archipeo.json](./407384-archipeo.json) |
 | Architect | 182900 | [182900-architect.json](./182900-architect.json) |
 | Architect | 326623 | [326623-architect.json](./326623-architect.json) |
 | Architect Life: A House Design Simulator | 144766 | [144766-architect-life-a-house-design-simulator.json](./144766-architect-life-a-house-design-simulator.json) |
@@ -7680,6 +7681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avalanche Snowboarding | 214763 | [214763-avalanche-snowboarding.json](./214763-avalanche-snowboarding.json) |
 | Avalanche! | 255354 | [255354-avalanche.json](./255354-avalanche.json) |
 | Avalanches | 188511 | [188511-avalanches.json](./188511-avalanches.json) |
+| Avalar: Shadow War | 407395 | [407395-avalar-shadow-war.json](./407395-avalar-shadow-war.json) |
 | Avalis Dungeon: Chapter 3 | 303016 | [303016-avalis-dungeon-chapter-3.json](./303016-avalis-dungeon-chapter-3.json) |
 | Avalon | 229775 | [229775-avalon.json](./229775-avalon.json) |
 | Avalon | 23068 | [23068-avalon.json](./23068-avalon.json) |
