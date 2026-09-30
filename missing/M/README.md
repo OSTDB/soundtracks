@@ -399,6 +399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia Alive | 68686 | [68686-mafia-alive.json](./68686-mafia-alive.json) |
 | Mafia Clicker | 241956 | [241956-mafia-clicker.json](./241956-mafia-clicker.json) |
 | Mafia Gambling | 89266 | [89266-mafia-gambling.json](./89266-mafia-gambling.json) |
+| Mafia Hotel | 416006 | [416006-mafia-hotel.json](./416006-mafia-hotel.json) |
 | Mafia II: Director's Cut | 47385 | [47385-mafia-ii-directors-cut.json](./47385-mafia-ii-directors-cut.json) |
 | Mafia II: The Betrayal of Jimmy | 18395 | [18395-mafia-ii-the-betrayal-of-jimmy.json](./18395-mafia-ii-the-betrayal-of-jimmy.json) |
 | Mafia III: Definitive Edition | 134073 | [134073-mafia-iii-definitive-edition.json](./134073-mafia-iii-definitive-edition.json) |
@@ -2124,6 +2125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Martha Madison: Simple Machines Volume 1 | 83957 | [83957-martha-madison-simple-machines-volume-1.json](./83957-martha-madison-simple-machines-volume-1.json) |
 | Martha Madison: Simple Machines Volume 2 | 83958 | [83958-martha-madison-simple-machines-volume-2.json](./83958-martha-madison-simple-machines-volume-2.json) |
 | Martha Madison: Waves | 83962 | [83962-martha-madison-waves.json](./83962-martha-madison-waves.json) |
+| Martha's Dolls 2 | 415990 | [415990-marthas-dolls-2.json](./415990-marthas-dolls-2.json) |
 | Martial Arts Peerless War | 259000 | [259000-martial-arts-peerless-war.json](./259000-martial-arts-peerless-war.json) |
 | Martial Arts Tycoon: Brazil | 253906 | [253906-martial-arts-tycoon-brazil.json](./253906-martial-arts-tycoon-brazil.json) |
 | Martial Arts: God of War | 294271 | [294271-martial-arts-god-of-war.json](./294271-martial-arts-god-of-war.json) |
@@ -2617,6 +2619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mate in Eleven | 364104 | [364104-mate-in-eleven.json](./364104-mate-in-eleven.json) |
 | Mate-in-Two | 347703 | [347703-mate-in-two.json](./347703-mate-in-two.json) |
 | Matel Gear II | 267366 | [267366-matel-gear-ii.json](./267366-matel-gear-ii.json) |
+| Matelotes | 415182 | [415182-matelotes.json](./415182-matelotes.json) |
 | Maten Densetsu: Senritsu no Ooparts | 37931 | [37931-maten-densetsu-senritsu-no-ooparts.json](./37931-maten-densetsu-senritsu-no-ooparts.json) |
 | Maten no Soumetsu | 46073 | [46073-maten-no-soumetsu.json](./46073-maten-no-soumetsu.json) |
 | Matendouji | 215140 | [215140-matendouji.json](./215140-matendouji.json) |
@@ -3233,6 +3236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medchess | 240781 | [240781-medchess.json](./240781-medchess.json) |
 | MedCorps | 58758 | [58758-medcorps.json](./58758-medcorps.json) |
 | MedEvil | 262289 | [262289-medevil.json](./262289-medevil.json) |
+| Media Basket Manager | 415240 | [415240-media-basket-manager.json](./415240-media-basket-manager.json) |
 | MediAevi | 383479 | [383479-mediaevi.json](./383479-mediaevi.json) |
 | Mediatonic Combo! | 118915 | [118915-mediatonic-combo.json](./118915-mediatonic-combo.json) |
 | Mediator | 355237 | [355237-mediator.json](./355237-mediator.json) |
@@ -3260,6 +3264,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Delivery | 263519 | [263519-medieval-delivery.json](./263519-medieval-delivery.json) |
 | Medieval Dungeon | 230952 | [230952-medieval-dungeon.json](./230952-medieval-dungeon.json) |
 | Medieval Dynasty: Echoes of Nature | 366852 | [366852-medieval-dynasty-echoes-of-nature.json](./366852-medieval-dynasty-echoes-of-nature.json) |
+| Medieval Dynasty: Hunting Pack | 415186 | [415186-medieval-dynasty-hunting-pack.json](./415186-medieval-dynasty-hunting-pack.json) |
+| Medieval Dynasty: The Backwood | 415188 | [415188-medieval-dynasty-the-backwood.json](./415188-medieval-dynasty-the-backwood.json) |
 | Medieval Escape 2 | 397066 | [397066-medieval-escape-2.json](./397066-medieval-escape-2.json) |
 | Medieval Fantasy: Jigsaw Puzzle | 313148 | [313148-medieval-fantasy-jigsaw-puzzle.json](./313148-medieval-fantasy-jigsaw-puzzle.json) |
 | Medieval Fantasy: Jigsaw Puzzle - Eerie Darkness | 314889 | [314889-medieval-fantasy-jigsaw-puzzle-eerie-darkness.json](./314889-medieval-fantasy-jigsaw-puzzle-eerie-darkness.json) |
@@ -4130,6 +4136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meow Music | 103912 | [103912-meow-music.json](./103912-meow-music.json) |
 | Meow Nights | 183540 | [183540-meow-nights.json](./183540-meow-nights.json) |
 | Meow Path 2 | 360741 | [360741-meow-path-2.json](./360741-meow-path-2.json) |
+| Meow Star Archives | 415223 | [415223-meow-star-archives.json](./415223-meow-star-archives.json) |
 | Meow Survivors | 389579 | [389579-meow-survivors.json](./389579-meow-survivors.json) |
 | Meow Time Machine: Munch | 335269 | [335269-meow-time-machine-munch.json](./335269-meow-time-machine-munch.json) |
 | Meow Time Machine: Newton | 339937 | [339937-meow-time-machine-newton.json](./339937-meow-time-machine-newton.json) |
@@ -4199,6 +4206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercury Rising | 332809 | [332809-mercury-rising.json](./332809-mercury-rising.json) |
 | Mercury: Cascade into Madness | 52257 | [52257-mercury-cascade-into-madness.json](./52257-mercury-cascade-into-madness.json) |
 | Mercy Incore | 388387 | [388387-mercy-incore.json](./388387-mercy-incore.json) |
+| Mercyrail: Havenbound | 415191 | [415191-mercyrail-havenbound.json](./415191-mercyrail-havenbound.json) |
 | Merely A Chip | 309129 | [309129-merely-a-chip.json](./309129-merely-a-chip.json) |
 | Merely a Regret | 176922 | [176922-merely-a-regret.json](./176922-merely-a-regret.json) |
 | Merendam 2: Diary of Two Shaman Sisters | 70409 | [70409-merendam-2-diary-of-two-shaman-sisters.json](./70409-merendam-2-diary-of-two-shaman-sisters.json) |
@@ -6796,6 +6804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momogatari | 258526 | [258526-momogatari.json](./258526-momogatari.json) |
 | Momogical | 181683 | [181683-momogical.json](./181683-momogical.json) |
 | Momoiro Closet | 95173 | [95173-momoiro-closet.json](./95173-momoiro-closet.json) |
+| Momoiro Okami no Honoka-san: Ikenai, O-mo-te-na-shi | 416025 | [416025-momoiro-okami-no-honoka-san-ikenai-o-mo-te-na-shi.json](./416025-momoiro-okami-no-honoka-san-ikenai-o-mo-te-na-shi.json) |
 | Momoiro Zousan | 295039 | [295039-momoiro-zousan.json](./295039-momoiro-zousan.json) |
 | Momoka | 333192 | [333192-momoka.json](./333192-momoka.json) |
 | Momokan | 97490 | [97490-momokan.json](./97490-momokan.json) |
@@ -6955,6 +6964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkeys to the Moon | 57097 | [57097-monkeys-to-the-moon.json](./57097-monkeys-to-the-moon.json) |
 | Monkeys With Guns | 177414 | [177414-monkeys-with-guns.json](./177414-monkeys-with-guns.json) |
 | Monkeys!! | 179506 | [179506-monkeys.json](./179506-monkeys.json) |
+| Monkeys!! | 416023 | [416023-monkeys.json](./416023-monkeys.json) |
 | Monkeyshines | 41566 | [41566-monkeyshines.json](./41566-monkeyshines.json) |
 | Monkeytype | 137456 | [137456-monkeytype.json](./137456-monkeytype.json) |
 | MONMUSU | 75970 | [75970-monmusu.json](./75970-monmusu.json) |
@@ -9648,6 +9658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Zoo | 50707 | [50707-my-zoo.json](./50707-my-zoo.json) |
 | Mycelium | 295350 | [295350-mycelium.json](./295350-mycelium.json) |
 | Mycelium Conquest | 401813 | [401813-mycelium-conquest.json](./401813-mycelium-conquest.json) |
+| Mycelium Protocol | 416000 | [416000-mycelium-protocol.json](./416000-mycelium-protocol.json) |
 | Mycelium: The Silent Contract | 343357 | [343357-mycelium-the-silent-contract.json](./343357-mycelium-the-silent-contract.json) |
 | Mychess | 73301 | [73301-mychess.json](./73301-mychess.json) |
 | Mychess II | 59886 | [59886-mychess-ii.json](./59886-mychess-ii.json) |
