@@ -1785,6 +1785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam G Generation Cross Rays: Added Dispatch Mission Set 4 | 225078 | [225078-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-4.json](./225078-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-4.json) |
 | SD Gundam G Generation Cross Rays: Expansion Pack | 225079 | [225079-sd-gundam-g-generation-cross-rays-expansion-pack.json](./225079-sd-gundam-g-generation-cross-rays-expansion-pack.json) |
 | SD Gundam G Generation Cross Rays: Platinum Edition | 142371 | [142371-sd-gundam-g-generation-cross-rays-platinum-edition.json](./142371-sd-gundam-g-generation-cross-rays-platinum-edition.json) |
+| SD Gundam G Generation Genesis | 75731 | [75731-sd-gundam-g-generation-genesis.json](./75731-sd-gundam-g-generation-genesis.json) |
 | SD Gundam G Generation Touch | 66372 | [66372-sd-gundam-g-generation-touch.json](./66372-sd-gundam-g-generation-touch.json) |
 | SD Gundam G Generation Wars | 69325 | [69325-sd-gundam-g-generation-wars.json](./69325-sd-gundam-g-generation-wars.json) |
 | SD Gundam G Generation World | 75732 | [75732-sd-gundam-g-generation-world.json](./75732-sd-gundam-g-generation-world.json) |
@@ -1977,6 +1978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Season of Mystery: The Cherry Blossom Murders | 9326 | [9326-season-of-mystery-the-cherry-blossom-murders.json](./9326-season-of-mystery-the-cherry-blossom-murders.json) |
 | Season Ticket Baseball | 206642 | [206642-season-ticket-baseball.json](./206642-season-ticket-baseball.json) |
 | Season Up | 95603 | [95603-season-up.json](./95603-season-up.json) |
+| Season's Beatings | 76350 | [76350-seasons-beatings.json](./76350-seasons-beatings.json) |
 | Seasonal Affectiveness Disorder | 260789 | [260789-seasonal-affectiveness-disorder.json](./260789-seasonal-affectiveness-disorder.json) |
 | Seasonaut | 384671 | [384671-seasonaut.json](./384671-seasonaut.json) |
 | SeasonPark | 263440 | [263440-seasonpark.json](./263440-seasonpark.json) |
@@ -4900,6 +4902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Level Pack | 289884 | [289884-silver-level-pack.json](./289884-silver-level-pack.json) |
 | Silver Malfeasant | 345001 | [345001-silver-malfeasant.json](./345001-silver-malfeasant.json) |
 | Silver Millennium | 40251 | [40251-silver-millennium.json](./40251-silver-millennium.json) |
+| Silver Nornir | 68990 | [68990-silver-nornir.json](./68990-silver-nornir.json) |
 | Silver Palace | 343335 | [343335-silver-palace.json](./343335-silver-palace.json) |
 | Silver Sonic: Rise of the Death Egg | 231467 | [231467-silver-sonic-rise-of-the-death-egg.json](./231467-silver-sonic-rise-of-the-death-egg.json) |
 | Silver Sonic: The Crystal Islands | 302142 | [302142-silver-sonic-the-crystal-islands.json](./302142-silver-sonic-the-crystal-islands.json) |
@@ -7438,6 +7441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Struggle | 17984 | [17984-solar-struggle.json](./17984-solar-struggle.json) |
 | Solar Survivors | 238766 | [238766-solar-survivors.json](./238766-solar-survivors.json) |
 | Solar Sweets | 311244 | [311244-solar-sweets.json](./311244-solar-sweets.json) |
+| Solar System | 75388 | [75388-solar-system.json](./75388-solar-system.json) |
 | Solar System Colonist | 161261 | [161261-solar-system-colonist.json](./161261-solar-system-colonist.json) |
 | Solar System Conflict | 35768 | [35768-solar-system-conflict.json](./35768-solar-system-conflict.json) |
 | Solar Systems For Kids | 257457 | [257457-solar-systems-for-kids.json](./257457-solar-systems-for-kids.json) |
@@ -14775,6 +14779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Meat Boy Handheld! | 77317 | [77317-super-meat-boy-handheld.json](./77317-super-meat-boy-handheld.json) |
 | Super Meat Boy: The Game | 77316 | [77316-super-meat-boy-the-game.json](./77316-super-meat-boy-the-game.json) |
 | Super Meat Boy: Ultra Edition | 20620 | [20620-super-meat-boy-ultra-edition.json](./20620-super-meat-boy-ultra-edition.json) |
+| Super Meat Shooter | 75635 | [75635-super-meat-shooter.json](./75635-super-meat-shooter.json) |
 | Super Meat Shooter: Happy Meat Winter | 172116 | [172116-super-meat-shooter-happy-meat-winter.json](./172116-super-meat-shooter-happy-meat-winter.json) |
 | Super Mecha Lifter 4000 | 363916 | [363916-super-mecha-lifter-4000.json](./363916-super-mecha-lifter-4000.json) |
 | Super Mega Baseball 2: El Viejo Stadium | 171906 | [171906-super-mega-baseball-2-el-viejo-stadium.json](./171906-super-mega-baseball-2-el-viejo-stadium.json) |
