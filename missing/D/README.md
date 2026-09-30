@@ -2898,6 +2898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demonic Bundle | 192305 | [192305-demonic-bundle.json](./192305-demonic-bundle.json) |
 | Demonic Crusade | 298896 | [298896-demonic-crusade.json](./298896-demonic-crusade.json) |
 | Demonic Defence 3 | 380695 | [380695-demonic-defence-3.json](./380695-demonic-defence-3.json) |
+| Demonic Gauntlet | 403120 | [403120-demonic-gauntlet.json](./403120-demonic-gauntlet.json) |
 | Demonic Labyrinth | 237074 | [237074-demonic-labyrinth.json](./237074-demonic-labyrinth.json) |
 | Demonic Libido | 262427 | [262427-demonic-libido.json](./262427-demonic-libido.json) |
 | Demonk | 347239 | [347239-demonk.json](./347239-demonk.json) |
@@ -3573,6 +3574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil May Cry 5: Mega Buster | 370873 | [370873-devil-may-cry-5-mega-buster.json](./370873-devil-may-cry-5-mega-buster.json) |
 | Devil May Cry 5: Monkey Business | 370875 | [370875-devil-may-cry-5-monkey-business.json](./370875-devil-may-cry-5-monkey-business.json) |
 | Devil May Cry 5: Playable Character - Vergil | 169336 | [169336-devil-may-cry-5-playable-character-vergil.json](./169336-devil-may-cry-5-playable-character-vergil.json) |
+| Devil May Cry Dead Shot | 403068 | [403068-devil-may-cry-dead-shot.json](./403068-devil-may-cry-dead-shot.json) |
 | Devil May Cry HD Collection | 20734 | [20734-devil-may-cry-hd-collection.json](./20734-devil-may-cry-hd-collection.json) |
 | Devil May Cry HD Collection & 4 Special Edition Bundle | 218517 | [218517-devil-may-cry-hd-collection-and-4-special-edition-bundle.json](./218517-devil-may-cry-hd-collection-and-4-special-edition-bundle.json) |
 | Devil May Cry Triple Pack | 218404 | [218404-devil-may-cry-triple-pack.json](./218404-devil-may-cry-triple-pack.json) |
@@ -7213,6 +7215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Park Story | 175874 | [175874-dream-park-story.json](./175874-dream-park-story.json) |
 | Dream Peak | 390781 | [390781-dream-peak.json](./390781-dream-peak.json) |
 | Dream Piano Tiles 2018 | 107665 | [107665-dream-piano-tiles-2018.json](./107665-dream-piano-tiles-2018.json) |
+| Dream Pinball 3D: Digital Deluxe Edition | 402953 | [402953-dream-pinball-3d-digital-deluxe-edition.json](./402953-dream-pinball-3d-digital-deluxe-edition.json) |
 | Dream Ploy Will | 242672 | [242672-dream-ploy-will.json](./242672-dream-ploy-will.json) |
 | Dream Racer V1 | 125907 | [125907-dream-racer-v1.json](./125907-dream-racer-v1.json) |
 | Dream Riders | 406861 | [406861-dream-riders.json](./406861-dream-riders.json) |
