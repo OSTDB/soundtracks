@@ -571,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handball Action Total | 76617 | [76617-handball-action-total.json](./76617-handball-action-total.json) |
 | Handball Manager 2022 | 193497 | [193497-handball-manager-2022.json](./193497-handball-manager-2022.json) |
 | Handdogg | 185154 | [185154-handdogg.json](./185154-handdogg.json) |
+| Handgun Football | 391243 | [391243-handgun-football.json](./391243-handgun-football.json) |
 | Handheld Pinball - Robot, Pirate, & Holiday Themes | 108452 | [108452-handheld-pinball-robot-pirate-and-holiday-themes.json](./108452-handheld-pinball-robot-pirate-and-holiday-themes.json) |
 | Handle With Care | 133864 | [133864-handle-with-care.json](./133864-handle-with-care.json) |
 | Handlime | 402439 | [402439-handlime.json](./402439-handlime.json) |
@@ -1971,6 +1972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellfire | 321796 | [321796-hellfire.json](./321796-hellfire.json) |
 | Hellfire | 370763 | [370763-hellfire.json](./370763-hellfire.json) |
 | Hellfire Attack | 71587 | [71587-hellfire-attack.json](./71587-hellfire-attack.json) |
+| Hellfire Hair | 391301 | [391301-hellfire-hair.json](./391301-hellfire-hair.json) |
 | Hellfire Poncho | 283754 | [283754-hellfire-poncho.json](./283754-hellfire-poncho.json) |
 | Hellfire Saga | 234906 | [234906-hellfire-saga.json](./234906-hellfire-saga.json) |
 | Hellfire Zone | 68755 | [68755-hellfire-zone.json](./68755-hellfire-zone.json) |
