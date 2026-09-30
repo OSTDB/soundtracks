@@ -1573,6 +1573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End War RTS 2 | 160234 | [160234-end-war-rts-2.json](./160234-end-war-rts-2.json) |
 | Endangered | 32077 | [32077-endangered.json](./32077-endangered.json) |
 | Endarchy | 327340 | [327340-endarchy.json](./327340-endarchy.json) |
+| Endciv | 33502 | [33502-endciv.json](./33502-endciv.json) |
 | Endeavor | 228677 | [228677-endeavor.json](./228677-endeavor.json) |
 | Endeavour Survival | 28036 | [28036-endeavour-survival.json](./28036-endeavour-survival.json) |
 | Ender IO | 232676 | [232676-ender-io.json](./232676-ender-io.json) |
