@@ -1568,6 +1568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Blaster | 210043 | [210043-marble-blaster.json](./210043-marble-blaster.json) |
 | Marble Bloomers | 127962 | [127962-marble-bloomers.json](./127962-marble-bloomers.json) |
 | Marble Champions | 276739 | [276739-marble-champions.json](./276739-marble-champions.json) |
+| Marble Evolution | 419960 | [419960-marble-evolution.json](./419960-marble-evolution.json) |
 | Marble Jetpack | 26720 | [26720-marble-jetpack.json](./26720-marble-jetpack.json) |
 | Marble Knights | 141143 | [141143-marble-knights.json](./141143-marble-knights.json) |
 | Marble Machine | 58221 | [58221-marble-machine.json](./58221-marble-machine.json) |
@@ -3911,6 +3912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Membrillo Hid My Socks | 402527 | [402527-membrillo-hid-my-socks.json](./402527-membrillo-hid-my-socks.json) |
 | Meme Barley-Break | 112351 | [112351-meme-barley-break.json](./112351-meme-barley-break.json) |
 | Meme Challenge: Dank Memes | 224000 | [224000-meme-challenge-dank-memes.json](./224000-meme-challenge-dank-memes.json) |
+| Meme Classics 2 | 419944 | [419944-meme-classics-2.json](./419944-meme-classics-2.json) |
 | Meme Lordz | 198239 | [198239-meme-lordz.json](./198239-meme-lordz.json) |
 | Meme Quiz | 243128 | [243128-meme-quiz.json](./243128-meme-quiz.json) |
 | Meme Wars | 366827 | [366827-meme-wars.json](./366827-meme-wars.json) |
@@ -4308,6 +4310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mess Adventures | 153329 | [153329-mess-adventures.json](./153329-mess-adventures.json) |
 | Mess Adventures 2 | 187819 | [187819-mess-adventures-2.json](./187819-mess-adventures-2.json) |
 | Mess Cleanup | 166765 | [166765-mess-cleanup.json](./166765-mess-cleanup.json) |
+| Mess in the Toy Shop | 419827 | [419827-mess-in-the-toy-shop.json](./419827-mess-in-the-toy-shop.json) |
 | Message From Aliens | 415077 | [415077-message-from-aliens.json](./415077-message-from-aliens.json) |
 | Message from Andromeda | 13014 | [13014-message-from-andromeda.json](./13014-message-from-andromeda.json) |
 | Message Quest | 13665 | [13665-message-quest.json](./13665-message-quest.json) |
