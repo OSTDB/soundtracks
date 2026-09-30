@@ -2091,6 +2091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reel Fishing Challenge II | 85573 | [85573-reel-fishing-challenge-ii.json](./85573-reel-fishing-challenge-ii.json) |
 | Reel Fishing: Ocean Challenge | 85574 | [85574-reel-fishing-ocean-challenge.json](./85574-reel-fishing-ocean-challenge.json) |
 | Reel Gold | 263473 | [263473-reel-gold.json](./263473-reel-gold.json) |
+| Reel Greed | 401749 | [401749-reel-greed.json](./401749-reel-greed.json) |
 | Reel it! Ocean Fishing | 362350 | [362350-reel-it-ocean-fishing.json](./362350-reel-it-ocean-fishing.json) |
 | Reel it! World Fishing | 403749 | [403749-reel-it-world-fishing.json](./403749-reel-it-world-fishing.json) |
 | Reel Talk: A Thoughtful Fishcussion | 408172 | [408172-reel-talk-a-thoughtful-fishcussion.json](./408172-reel-talk-a-thoughtful-fishcussion.json) |
@@ -3070,6 +3071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverse 1999: Spring Unending | 397101 | [397101-reverse-1999-spring-unending.json](./397101-reverse-1999-spring-unending.json) |
 | Reverse 1999: The Haunted Highway | 343346 | [343346-reverse-1999-the-haunted-highway.json](./343346-reverse-1999-the-haunted-highway.json) |
 | Reverse 1999: The Theft of the Rimet Cup | 279785 | [279785-reverse-1999-the-theft-of-the-rimet-cup.json](./279785-reverse-1999-the-theft-of-the-rimet-cup.json) |
+| Reverse 1999: The Turquoise Serpent Club | 401741 | [401741-reverse-1999-the-turquoise-serpent-club.json](./401741-reverse-1999-the-turquoise-serpent-club.json) |
 | Reverse 1999: Tristes Tropiques | 343347 | [343347-reverse-1999-tristes-tropiques.json](./343347-reverse-1999-tristes-tropiques.json) |
 | Reverse 1999: Vereinsamt | 340223 | [340223-reverse-1999-vereinsamt.json](./340223-reverse-1999-vereinsamt.json) |
 | Reverse Basket | 87667 | [87667-reverse-basket.json](./87667-reverse-basket.json) |
@@ -3528,10 +3530,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift Miner | 375446 | [375446-rift-miner.json](./375446-rift-miner.json) |
 | Rift Mobile | 38902 | [38902-rift-mobile.json](./38902-rift-mobile.json) |
 | Rift of the NecroDancer | 214492 | [214492-rift-of-the-necrodancer.json](./214492-rift-of-the-necrodancer.json) |
+| Rift of the NecroDancer x Super Meat Boy | 401751 | [401751-rift-of-the-necrodancer-x-super-meat-boy.json](./401751-rift-of-the-necrodancer-x-super-meat-boy.json) |
 | Rift of the NecroDancer: Celeste - "Confronting Myself" | 352268 | [352268-rift-of-the-necrodancer-celeste-confronting-myself.json](./352268-rift-of-the-necrodancer-celeste-confronting-myself.json) |
 | Rift of the NecroDancer: Celeste - "Reach for the Summit" | 352270 | [352270-rift-of-the-necrodancer-celeste-reach-for-the-summit.json](./352270-rift-of-the-necrodancer-celeste-reach-for-the-summit.json) |
 | Rift of the NecroDancer: Celeste - "Resurrections" | 352269 | [352269-rift-of-the-necrodancer-celeste-resurrections.json](./352269-rift-of-the-necrodancer-celeste-resurrections.json) |
 | Rift of the NecroDancer: Celeste - "Scattered and Lost" | 352267 | [352267-rift-of-the-necrodancer-celeste-scattered-and-lost.json](./352267-rift-of-the-necrodancer-celeste-scattered-and-lost.json) |
+| Rift of the NecroDancer: Celeste Music Pack | 401754 | [401754-rift-of-the-necrodancer-celeste-music-pack.json](./401754-rift-of-the-necrodancer-celeste-music-pack.json) |
 | Rift of the NecroDancer: Hatsune Miku - "Intergalactic Bound" | 352279 | [352279-rift-of-the-necrodancer-hatsune-miku-intergalactic-bound.json](./352279-rift-of-the-necrodancer-hatsune-miku-intergalactic-bound.json) |
 | Rift of the NecroDancer: Hatsune Miku - "Just 1dB Louder" | 352278 | [352278-rift-of-the-necrodancer-hatsune-miku-just-1db-louder.json](./352278-rift-of-the-necrodancer-hatsune-miku-just-1db-louder.json) |
 | Rift of the NecroDancer: Hatsune Miku - "M@gical Cure! Love Shot!" | 352276 | [352276-rift-of-the-necrodancer-hatsune-miku-m-gical-cure-love-shot.json](./352276-rift-of-the-necrodancer-hatsune-miku-m-gical-cure-love-shot.json) |
@@ -3551,6 +3555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift of the NecroDancer: Pizza Tower - "The Death That I Deservioli" | 352272 | [352272-rift-of-the-necrodancer-pizza-tower-the-death-that-i-deservioli.json](./352272-rift-of-the-necrodancer-pizza-tower-the-death-that-i-deservioli.json) |
 | Rift of the NecroDancer: Pizza Tower - "Unexpectancy, Pt. 3" | 352273 | [352273-rift-of-the-necrodancer-pizza-tower-unexpectancy-pt-3.json](./352273-rift-of-the-necrodancer-pizza-tower-unexpectancy-pt-3.json) |
 | Rift of the NecroDancer: Pizza Tower - "World Wide Noise" | 352274 | [352274-rift-of-the-necrodancer-pizza-tower-world-wide-noise.json](./352274-rift-of-the-necrodancer-pizza-tower-world-wide-noise.json) |
+| Rift of the NecroDancer: Pizza Tower Music Pack | 401756 | [401756-rift-of-the-necrodancer-pizza-tower-music-pack.json](./401756-rift-of-the-necrodancer-pizza-tower-music-pack.json) |
 | Rift of the NecroDancer: Shovel Knight - "An Underlying Problem (The Lost City)" - Jake Kaufman | 375964 | [375964-rift-of-the-necrodancer-shovel-knight-an-underlying-problem-the-lost-city-jake-kaufman.json](./375964-rift-of-the-necrodancer-shovel-knight-an-underlying-problem-the-lost-city-jake-kaufman.json) |
 | Rift of the NecroDancer: Shovel Knight - "High Above the Land (The Flying Machine)" - Jake Kaufman | 375965 | [375965-rift-of-the-necrodancer-shovel-knight-high-above-the-land-the-flying-machine-jake-kaufman.json](./375965-rift-of-the-necrodancer-shovel-knight-high-above-the-land-the-flying-machine-jake-kaufman.json) |
 | Rift of the NecroDancer: Shovel Knight - "In the Halls of the Usurper (Pridemoor Keep)" - Jake Kaufman | 375966 | [375966-rift-of-the-necrodancer-shovel-knight-in-the-halls-of-the-usurper-pridemoor-keep-jake-kaufman.json](./375966-rift-of-the-necrodancer-shovel-knight-in-the-halls-of-the-usurper-pridemoor-keep-jake-kaufman.json) |
