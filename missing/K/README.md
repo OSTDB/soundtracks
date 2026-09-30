@@ -468,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karm: Early Access Archives | 303605 | [303605-karm-early-access-archives.json](./303605-karm-early-access-archives.json) |
 | Karma | 356868 | [356868-karma.json](./356868-karma.json) |
 | Karma - A Visual Novel About A Dystopia. | 124192 | [124192-karma-a-visual-novel-about-a-dystopia.json](./124192-karma-a-visual-novel-about-a-dystopia.json) |
+| Karma City Police | 132198 | [132198-karma-city-police.json](./132198-karma-city-police.json) |
 | Karma Crown | 189944 | [189944-karma-crown.json](./189944-karma-crown.json) |
 | Karma Flow 2: Tears of a Ghost | 164997 | [164997-karma-flow-2-tears-of-a-ghost.json](./164997-karma-flow-2-tears-of-a-ghost.json) |
 | Karma II | 316288 | [316288-karma-ii.json](./316288-karma-ii.json) |
@@ -1031,6 +1032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiddy Memory | 221264 | [221264-kiddy-memory.json](./221264-kiddy-memory.json) |
 | Kidgames | 131351 | [131351-kidgames.json](./131351-kidgames.json) |
 | Kidname: Iceboy | 323333 | [323333-kidname-iceboy.json](./323333-kidname-iceboy.json) |
+| Kidnapped Girl | 144969 | [144969-kidnapped-girl.json](./144969-kidnapped-girl.json) |
 | Kidnappers | 301610 | [301610-kidnappers.json](./301610-kidnappers.json) |
 | Kidney Stone Clicker | 369630 | [369630-kidney-stone-clicker.json](./369630-kidney-stone-clicker.json) |
 | Kido Keisatstsu Patlabor: Griffon-hen | 75897 | [75897-kido-keisatstsu-patlabor-griffon-hen.json](./75897-kido-keisatstsu-patlabor-griffon-hen.json) |
