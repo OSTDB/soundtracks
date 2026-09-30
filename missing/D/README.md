@@ -4785,6 +4785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distorted Travesty | 54745 | [54745-distorted-travesty.json](./54745-distorted-travesty.json) |
 | Distorted Travesty 2: The Sequel to the Prequel | 54746 | [54746-distorted-travesty-2-the-sequel-to-the-prequel.json](./54746-distorted-travesty-2-the-sequel-to-the-prequel.json) |
 | Distorted world | 157030 | [157030-distorted-world.json](./157030-distorted-world.json) |
+| Distorted: Night Shift Anomalies | 420693 | [420693-distorted-night-shift-anomalies.json](./420693-distorted-night-shift-anomalies.json) |
 | Distortion Nation | 135048 | [135048-distortion-nation.json](./135048-distortion-nation.json) |
 | Distraint Collection | 186910 | [186910-distraint-collection.json](./186910-distraint-collection.json) |
 | Distraint: Pocket Pixel Horror | 134442 | [134442-distraint-pocket-pixel-horror.json](./134442-distraint-pocket-pixel-horror.json) |
@@ -5942,6 +5943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doors Quest Demo | 101593 | [101593-doors-quest-demo.json](./101593-doors-quest-demo.json) |
 | Doors: Awakening | 132014 | [132014-doors-awakening.json](./132014-doors-awakening.json) |
 | Doortal | 159065 | [159065-doortal.json](./159065-doortal.json) |
+| Doorway to Nightmares: Terrifying Tales | 420683 | [420683-doorway-to-nightmares-terrifying-tales.json](./420683-doorway-to-nightmares-terrifying-tales.json) |
 | Doorways | 185655 | [185655-doorways.json](./185655-doorways.json) |
 | Doorways: Old Prototype | 26528 | [26528-doorways-old-prototype.json](./26528-doorways-old-prototype.json) |
 | Doorz | 339939 | [339939-doorz.json](./339939-doorz.json) |
@@ -7117,6 +7119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Hacker | 191084 | [191084-dream-hacker.json](./191084-dream-hacker.json) |
 | Dream Hard | 184912 | [184912-dream-hard.json](./184912-dream-hard.json) |
 | Dream Hearts Dream | 212765 | [212765-dream-hearts-dream.json](./212765-dream-hearts-dream.json) |
+| Dream Hike | 420684 | [420684-dream-hike.json](./420684-dream-hike.json) |
 | Dream Hollow | 350416 | [350416-dream-hollow.json](./350416-dream-hollow.json) |
 | Dream Home | 127082 | [127082-dream-home.json](./127082-dream-home.json) |
 | Dream Hopper | 200139 | [200139-dream-hopper.json](./200139-dream-hopper.json) |
