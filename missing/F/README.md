@@ -601,6 +601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Shadows | 60779 | [60779-fallen-shadows.json](./60779-fallen-shadows.json) |
 | Fallen Spirit | 188518 | [188518-fallen-spirit.json](./188518-fallen-spirit.json) |
 | Fallen Star | 322177 | [322177-fallen-star.json](./322177-fallen-star.json) |
+| Fallen Starborn | 401042 | [401042-fallen-starborn.json](./401042-fallen-starborn.json) |
 | Fallen Threats | 110170 | [110170-fallen-threats.json](./110170-fallen-threats.json) |
 | Fallen, the last light | 164267 | [164267-fallen-the-last-light.json](./164267-fallen-the-last-light.json) |
 | Fallen: Town of Heritage and Makina the Blazing Hair | 82831 | [82831-fallen-town-of-heritage-and-makina-the-blazing-hair.json](./82831-fallen-town-of-heritage-and-makina-the-blazing-hair.json) |
