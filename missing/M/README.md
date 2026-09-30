@@ -5744,6 +5744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner 2049er | 345480 | [345480-miner-2049er.json](./345480-miner-2049er.json) |
 | Miner 2049er II | 59505 | [59505-miner-2049er-ii.json](./59505-miner-2049er-ii.json) |
 | Miner Clicker | 291477 | [291477-miner-clicker.json](./291477-miner-clicker.json) |
+| Miner Clicker | 387598 | [387598-miner-clicker.json](./387598-miner-clicker.json) |
 | Miner Escape: Puzzle Adventure | 296425 | [296425-miner-escape-puzzle-adventure.json](./296425-miner-escape-puzzle-adventure.json) |
 | Miner Man | 391215 | [391215-miner-man.json](./391215-miner-man.json) |
 | Miner Problem | 180117 | [180117-miner-problem.json](./180117-miner-problem.json) |
