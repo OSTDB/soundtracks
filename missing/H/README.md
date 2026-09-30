@@ -4448,6 +4448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hook: Complete Edition | 340742 | [340742-hook-complete-edition.json](./340742-hook-complete-edition.json) |
 | Hookbots | 112138 | [112138-hookbots.json](./112138-hookbots.json) |
 | HookCat | 159267 | [159267-hookcat.json](./159267-hookcat.json) |
+| Hooked | 405653 | [405653-hooked.json](./405653-hooked.json) |
 | Hooked on Bass Fishing | 78610 | [78610-hooked-on-bass-fishing.json](./78610-hooked-on-bass-fishing.json) |
 | Hooked On Speed | 316604 | [316604-hooked-on-speed.json](./316604-hooked-on-speed.json) |
 | Hooked on You: A Dead by Daylight Dating Sim | 202141 | [202141-hooked-on-you-a-dead-by-daylight-dating-sim.json](./202141-hooked-on-you-a-dead-by-daylight-dating-sim.json) |
@@ -4589,6 +4590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizon Odyssey | 158558 | [158558-horizon-odyssey.json](./158558-horizon-odyssey.json) |
 | Horizon of History | 30763 | [30763-horizon-of-history.json](./30763-horizon-of-history.json) |
 | Horizon Riders | 84516 | [84516-horizon-riders.json](./84516-horizon-riders.json) |
+| Horizon Sandbox | 405631 | [405631-horizon-sandbox.json](./405631-horizon-sandbox.json) |
 | Horizon Shift | 17896 | [17896-horizon-shift.json](./17896-horizon-shift.json) |
 | Horizon Source | 86511 | [86511-horizon-source.json](./86511-horizon-source.json) |
 | Horizon V | 24880 | [24880-horizon-v.json](./24880-horizon-v.json) |
