@@ -902,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa World | 273431 | [273431-santa-world.json](./273431-santa-world.json) |
 | Santa's Big Adventures | 30075 | [30075-santas-big-adventures.json](./30075-santas-big-adventures.json) |
 | Santa's Big Sack | 380442 | [380442-santas-big-sack.json](./380442-santas-big-sack.json) |
+| Santa's Burnout | 390223 | [390223-santas-burnout.json](./390223-santas-burnout.json) |
 | Santa's Christmas Solitaire | 30362 | [30362-santas-christmas-solitaire.json](./30362-santas-christmas-solitaire.json) |
 | Santa's Christmas Solitaire 3 | 337283 | [337283-santas-christmas-solitaire-3.json](./337283-santas-christmas-solitaire-3.json) |
 | Santa's Christmas Story 2 The Frozen Gift War | 376762 | [376762-santas-christmas-story-2-the-frozen-gift-war.json](./376762-santas-christmas-story-2-the-frozen-gift-war.json) |
@@ -1483,6 +1484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schwebebahn Simulator 2013 | 241490 | [241490-schwebebahn-simulator-2013.json](./241490-schwebebahn-simulator-2013.json) |
 | Sci-Fi Channel Trivia Game | 98802 | [98802-sci-fi-channel-trivia-game.json](./98802-sci-fi-channel-trivia-game.json) |
 | Sci-Fi Racer Simulator | 283245 | [283245-sci-fi-racer-simulator.json](./283245-sci-fi-racer-simulator.json) |
+| Scicry | 390206 | [390206-scicry.json](./390206-scicry.json) |
 | Science Art: Jigsaw Puzzle | 106748 | [106748-science-art-jigsaw-puzzle.json](./106748-science-art-jigsaw-puzzle.json) |
 | Science Fiction Classics | 78670 | [78670-science-fiction-classics.json](./78670-science-fiction-classics.json) |
 | Science Girls | 340006 | [340006-science-girls.json](./340006-science-girls.json) |
@@ -12336,6 +12338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stella Fantasy | 220582 | [220582-stella-fantasy.json](./220582-stella-fantasy.json) |
 | Stella Gladio | 326075 | [326075-stella-gladio.json](./326075-stella-gladio.json) |
 | Stella Glow | 11459 | [11459-stella-glow.json](./11459-stella-glow.json) |
+| Stella Incus | 390222 | [390222-stella-incus.json](./390222-stella-incus.json) |
 | Stella Nova | 407466 | [407466-stella-nova.json](./407466-stella-nova.json) |
 | Stella of the End: First Press Limited Edition | 379954 | [379954-stella-of-the-end-first-press-limited-edition.json](./379954-stella-of-the-end-first-press-limited-edition.json) |
 | Stella Supernova: The Astral Vale | 417538 | [417538-stella-supernova-the-astral-vale.json](./417538-stella-supernova-the-astral-vale.json) |
@@ -12371,6 +12374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Freight: Echoes of the Void | 353977 | [353977-stellar-freight-echoes-of-the-void.json](./353977-stellar-freight-echoes-of-the-void.json) |
 | Stellar Gun | 167146 | [167146-stellar-gun.json](./167146-stellar-gun.json) |
 | Stellar Howl: Galactic Repairs | 417368 | [417368-stellar-howl-galactic-repairs.json](./417368-stellar-howl-galactic-repairs.json) |
+| Stellar Industrialist | 390182 | [390182-stellar-industrialist.json](./390182-stellar-industrialist.json) |
 | Stellar Initiative | 261784 | [261784-stellar-initiative.json](./261784-stellar-initiative.json) |
 | Stellar Insurgency | 239760 | [239760-stellar-insurgency.json](./239760-stellar-insurgency.json) |
 | Stellar Interface + Sudoku Zenkai | 283224 | [283224-stellar-interface-sudoku-zenkai.json](./283224-stellar-interface-sudoku-zenkai.json) |
@@ -16946,6 +16950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | System Intrusion | 169367 | [169367-system-intrusion.json](./169367-system-intrusion.json) |
 | System Mania | 54423 | [54423-system-mania.json](./54423-system-mania.json) |
 | System of Souls | 204995 | [204995-system-of-souls.json](./204995-system-of-souls.json) |
+| System Overload | 390218 | [390218-system-overload.json](./390218-system-overload.json) |
 | System Override | 277604 | [277604-system-override.json](./277604-system-override.json) |
 | System Purge | 182381 | [182381-system-purge.json](./182381-system-purge.json) |
 | System Reject | 321959 | [321959-system-reject.json](./321959-system-reject.json) |
