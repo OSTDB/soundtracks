@@ -598,6 +598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balanced | 320309 | [320309-balanced.json](./320309-balanced.json) |
 | Balancefield | 180826 | [180826-balancefield.json](./180826-balancefield.json) |
 | Balancing Cats | 330833 | [330833-balancing-cats.json](./330833-balancing-cats.json) |
+| Balathrone | 390720 | [390720-balathrone.json](./390720-balathrone.json) |
 | Balatro: Cryptid | 331968 | [331968-balatro-cryptid.json](./331968-balatro-cryptid.json) |
 | Balatro: Special Edition | 323893 | [323893-balatro-special-edition.json](./323893-balatro-special-edition.json) |
 | Balconing Simulator 2020 | 127988 | [127988-balconing-simulator-2020.json](./127988-balconing-simulator-2020.json) |
@@ -1569,6 +1570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basterd Blitz | 276703 | [276703-basterd-blitz.json](./276703-basterd-blitz.json) |
 | Bastion of Beginnings | 297783 | [297783-bastion-of-beginnings.json](./297783-bastion-of-beginnings.json) |
 | Bastionforge | 368651 | [368651-bastionforge.json](./368651-bastionforge.json) |
+| BastionOS | 390744 | [390744-bastionos.json](./390744-bastionos.json) |
 | Bastyrion: Endless Tide | 398573 | [398573-bastyrion-endless-tide.json](./398573-bastyrion-endless-tide.json) |
 | Bat | 152136 | [152136-bat.json](./152136-bat.json) |
 | Bat Blast! | 275880 | [275880-bat-blast.json](./275880-bat-blast.json) |
@@ -3891,6 +3893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birds With Feelings | 118177 | [118177-birds-with-feelings.json](./118177-birds-with-feelings.json) |
 | Birds'n'Blocks | 88843 | [88843-birdsnblocks.json](./88843-birdsnblocks.json) |
 | Birds'n'Blocks 2 | 87694 | [87694-birdsnblocks-2.json](./87694-birdsnblocks-2.json) |
+| Birdwatching | 390738 | [390738-birdwatching.json](./390738-birdwatching.json) |
 | Birkanoid | 178547 | [178547-birkanoid.json](./178547-birkanoid.json) |
 | Birmingham City Club Football 2005 | 267894 | [267894-birmingham-city-club-football-2005.json](./267894-birmingham-city-club-football-2005.json) |
 | Birmingham's Ghosts: Fear and Loathing | 248675 | [248675-birminghams-ghosts-fear-and-loathing.json](./248675-birminghams-ghosts-fear-and-loathing.json) |
@@ -6830,6 +6833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Prove | 91891 | [91891-brave-prove.json](./91891-brave-prove.json) |
 | Brave Quest | 296378 | [296378-brave-quest.json](./296378-brave-quest.json) |
 | Brave Rabbit's Adventure in the Underworld | 184404 | [184404-brave-rabbits-adventure-in-the-underworld.json](./184404-brave-rabbits-adventure-in-the-underworld.json) |
+| Brave Rounds | 390759 | [390759-brave-rounds.json](./390759-brave-rounds.json) |
 | Brave Shot 2 | 286666 | [286666-brave-shot-2.json](./286666-brave-shot-2.json) |
 | Brave Soldier: Invasion of Cyborgs | 227856 | [227856-brave-soldier-invasion-of-cyborgs.json](./227856-brave-soldier-invasion-of-cyborgs.json) |
 | Brave Story: New Traveler | 14607 | [14607-brave-story-new-traveler.json](./14607-brave-story-new-traveler.json) |
