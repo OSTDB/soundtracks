@@ -3112,6 +3112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha vs. Zet | 130380 | [130380-alpha-vs-zet.json](./130380-alpha-vs-zet.json) |
 | Alpha-1 | 14250 | [14250-alpha-1.json](./14250-alpha-1.json) |
 | Alpha-Nighthawk | 222841 | [222841-alpha-nighthawk.json](./222841-alpha-nighthawk.json) |
+| Alphabear | 19954 | [19954-alphabear.json](./19954-alphabear.json) |
 | Alphabear Hustle | 396230 | [396230-alphabear-hustle.json](./396230-alphabear-hustle.json) |
 | Alphabet | 314293 | [314293-alphabet.json](./314293-alphabet.json) |
 | Alphabet Express | 206656 | [206656-alphabet-express.json](./206656-alphabet-express.json) |
