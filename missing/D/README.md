@@ -945,6 +945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkest Maze | 99224 | [99224-darkest-maze.json](./99224-darkest-maze.json) |
 | Darkest Moon | 132001 | [132001-darkest-moon.json](./132001-darkest-moon.json) |
 | Darkest of Days | 4219 | [4219-darkest-of-days.json](./4219-darkest-of-days.json) |
+| Darkest Path | 400399 | [400399-darkest-path.json](./400399-darkest-path.json) |
 | Darkest Rogue: Slingshot RPG | 174312 | [174312-darkest-rogue-slingshot-rpg.json](./174312-darkest-rogue-slingshot-rpg.json) |
 | Darkest Valley | 139397 | [139397-darkest-valley.json](./139397-darkest-valley.json) |
 | Darkest Wave | 229818 | [229818-darkest-wave.json](./229818-darkest-wave.json) |
@@ -5444,6 +5445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domain Owner | 312203 | [312203-domain-owner.json](./312203-domain-owner.json) |
 | Domains of Dusk | 217290 | [217290-domains-of-dusk.json](./217290-domains-of-dusk.json) |
 | Dome Keeper: Deluxe Edition | 402958 | [402958-dome-keeper-deluxe-edition.json](./402958-dome-keeper-deluxe-edition.json) |
+| Dome Keeper: The Lost Keepers | 400396 | [400396-dome-keeper-the-lost-keepers.json](./400396-dome-keeper-the-lost-keepers.json) |
 | Dome-King Cabbage | 152283 | [152283-dome-king-cabbage.json](./152283-dome-king-cabbage.json) |
 | Domefender | 410927 | [410927-domefender.json](./410927-domefender.json) |
 | Domenation | 277858 | [277858-domenation.json](./277858-domenation.json) |
