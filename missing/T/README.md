@@ -6237,6 +6237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Files of Sherlock Holmes: The Case of the Serrated Scalpel | 4316 | [4316-the-lost-files-of-sherlock-holmes-the-case-of-the-serrated-scalpel.json](./4316-the-lost-files-of-sherlock-holmes-the-case-of-the-serrated-scalpel.json) |
 | The Lost Fountain | 96060 | [96060-the-lost-fountain.json](./96060-the-lost-fountain.json) |
 | The Lost Frames | 309134 | [309134-the-lost-frames.json](./309134-the-lost-frames.json) |
+| The Lost Froglins | 401070 | [401070-the-lost-froglins.json](./401070-the-lost-froglins.json) |
 | The Lost Game | 119734 | [119734-the-lost-game.json](./119734-the-lost-game.json) |
 | The Lost Girl | 225769 | [225769-the-lost-girl.json](./225769-the-lost-girl.json) |
 | The Lost Heir 2: Forging a Kingdom | 33593 | [33593-the-lost-heir-2-forging-a-kingdom.json](./33593-the-lost-heir-2-forging-a-kingdom.json) |
@@ -6371,6 +6372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Man Who Killed Time | 59681 | [59681-the-man-who-killed-time.json](./59681-the-man-who-killed-time.json) |
 | The Man Who Walked | 374051 | [374051-the-man-who-walked.json](./374051-the-man-who-walked.json) |
 | The Manager | 79581 | [79581-the-manager.json](./79581-the-manager.json) |
+| The Manaworks | 401052 | [401052-the-manaworks.json](./401052-the-manaworks.json) |
 | The Mandate | 61567 | [61567-the-mandate.json](./61567-the-mandate.json) |
 | The Manhole: New and Enhanced | 73310 | [73310-the-manhole-new-and-enhanced.json](./73310-the-manhole-new-and-enhanced.json) |
 | The Mannequin | 179740 | [179740-the-mannequin.json](./179740-the-mannequin.json) |
@@ -13884,6 +13886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transball | 47554 | [47554-transball.json](./47554-transball.json) |
 | TransBot | 29136 | [29136-transbot.json](./29136-transbot.json) |
 | Transcend | 94916 | [94916-transcend.json](./94916-transcend.json) |
+| Transcendence in the Poolrooms | 401031 | [401031-transcendence-in-the-poolrooms.json](./401031-transcendence-in-the-poolrooms.json) |
 | Transcender | 140484 | [140484-transcender.json](./140484-transcender.json) |
 | Transcontinental | 328281 | [328281-transcontinental.json](./328281-transcontinental.json) |
 | Transfer of Essence | 156031 | [156031-transfer-of-essence.json](./156031-transfer-of-essence.json) |
