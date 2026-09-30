@@ -3351,6 +3351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nothing to Lose | 237620 | [237620-nothing-to-lose.json](./237620-nothing-to-lose.json) |
 | NotHog | 275673 | [275673-nothog.json](./275673-nothog.json) |
 | Notice | 277337 | [277337-notice.json](./277337-notice.json) |
+| Notice Me Senpai | 403753 | [403753-notice-me-senpai.json](./403753-notice-me-senpai.json) |
 | Notmads | 211700 | [211700-notmads.json](./211700-notmads.json) |
 | Notmycar | 85834 | [85834-notmycar.json](./85834-notmycar.json) |
 | Notoris: The Goblin War | 191174 | [191174-notoris-the-goblin-war.json](./191174-notoris-the-goblin-war.json) |
