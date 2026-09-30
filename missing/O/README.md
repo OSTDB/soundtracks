@@ -1809,6 +1809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbo | 292822 | [292822-orbo.json](./292822-orbo.json) |
 | Orbo's Exodus | 314907 | [314907-orbos-exodus.json](./314907-orbos-exodus.json) |
 | Orbo's Odyssey | 260493 | [260493-orbos-odyssey.json](./260493-orbos-odyssey.json) |
+| Orborun | 10643 | [10643-orborun.json](./10643-orborun.json) |
 | Orbos | 90123 | [90123-orbos.json](./90123-orbos.json) |
 | OrbQuest: The Search for Seven Wards | 140450 | [140450-orbquest-the-search-for-seven-wards.json](./140450-orbquest-the-search-for-seven-wards.json) |
 | Orbs Match | 88157 | [88157-orbs-match.json](./88157-orbs-match.json) |
@@ -2062,6 +2063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osterity | 308276 | [308276-osterity.json](./308276-osterity.json) |
 | Osteya: Adventures | 102096 | [102096-osteya-adventures.json](./102096-osteya-adventures.json) |
 | Ostrich Farm | 277329 | [277329-ostrich-farm.json](./277329-ostrich-farm.json) |
+| Ostrich Island | 10645 | [10645-ostrich-island.json](./10645-ostrich-island.json) |
 | Ostrofa | 115784 | [115784-ostrofa.json](./115784-ostrofa.json) |
 | Ostron | 78989 | [78989-ostron.json](./78989-ostron.json) |
 | Osu! | 3012 | [3012-osu.json](./3012-osu.json) |
@@ -2164,6 +2166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ottomax | 257346 | [257346-ottomax.json](./257346-ottomax.json) |
 | Ottopunk | 181858 | [181858-ottopunk.json](./181858-ottopunk.json) |
 | Ottopunks: Gangs of Bosphorus | 250943 | [250943-ottopunks-gangs-of-bosphorus.json](./250943-ottopunks-gangs-of-bosphorus.json) |
+| OTTTD | 10646 | [10646-otttd.json](./10646-otttd.json) |
 | OTurret | 273434 | [273434-oturret.json](./273434-oturret.json) |
 | Ou | 151666 | [151666-ou.json](./151666-ou.json) |
 | Ou Dorobou Jing: Devil Version | 146341 | [146341-ou-dorobou-jing-devil-version.json](./146341-ou-dorobou-jing-devil-version.json) |
