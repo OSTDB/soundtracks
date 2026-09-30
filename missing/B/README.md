@@ -1699,6 +1699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Brigade | 166167 | [166167-battle-brigade.json](./166167-battle-brigade.json) |
 | Battle Brothers | 14394 | [14394-battle-brothers.json](./14394-battle-brothers.json) |
 | Battle Brothers: Blazing Deserts | 155069 | [155069-battle-brothers-blazing-deserts.json](./155069-battle-brothers-blazing-deserts.json) |
+| Battle Bruise | 28320 | [28320-battle-bruise.json](./28320-battle-bruise.json) |
 | Battle Bugs | 12402 | [12402-battle-bugs.json](./12402-battle-bugs.json) |
 | Battle Capacity | 332815 | [332815-battle-capacity.json](./332815-battle-capacity.json) |
 | Battle Cars | 224095 | [224095-battle-cars.json](./224095-battle-cars.json) |
@@ -1888,6 +1889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Ready | 154413 | [154413-battle-ready.json](./154413-battle-ready.json) |
 | Battle Realms: Zen Edition | 137532 | [137532-battle-realms-zen-edition.json](./137532-battle-realms-zen-edition.json) |
 | Battle Records of Rota | 264021 | [264021-battle-records-of-rota.json](./264021-battle-records-of-rota.json) |
+| Battle Riders | 28281 | [28281-battle-riders.json](./28281-battle-riders.json) |
 | Battle Rift | 211428 | [211428-battle-rift.json](./211428-battle-rift.json) |
 | Battle Robot Damashii | 63833 | [63833-battle-robot-damashii.json](./63833-battle-robot-damashii.json) |
 | Battle Round | 127016 | [127016-battle-round.json](./127016-battle-round.json) |
