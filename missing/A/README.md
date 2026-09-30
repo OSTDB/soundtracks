@@ -3107,6 +3107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Accident: Terra Nova | 256878 | [256878-alpha-accident-terra-nova.json](./256878-alpha-accident-terra-nova.json) |
 | Alpha and Omega | 98810 | [98810-alpha-and-omega.json](./98810-alpha-and-omega.json) |
 | Alpha Beam With Ernie | 3252 | [3252-alpha-beam-with-ernie.json](./3252-alpha-beam-with-ernie.json) |
+| Alpha Black Zero: Intrepid Protocol | 73232 | [73232-alpha-black-zero-intrepid-protocol.json](./73232-alpha-black-zero-intrepid-protocol.json) |
 | Alpha Centauri | 261818 | [261818-alpha-centauri.json](./261818-alpha-centauri.json) |
 | Alpha Centauri Space Force | 156165 | [156165-alpha-centauri-space-force.json](./156165-alpha-centauri-space-force.json) |
 | Alpha Ceti TD | 389741 | [389741-alpha-ceti-td.json](./389741-alpha-ceti-td.json) |
@@ -3838,6 +3839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Russian Life Simulator | 278177 | [278177-ancient-russian-life-simulator.json](./278177-ancient-russian-life-simulator.json) |
 | Ancient Sacrifice | 236297 | [236297-ancient-sacrifice.json](./236297-ancient-sacrifice.json) |
 | Ancient Shadows: Awakening | 351121 | [351121-ancient-shadows-awakening.json](./351121-ancient-shadows-awakening.json) |
+| Ancient Siberia | 68471 | [68471-ancient-siberia.json](./68471-ancient-siberia.json) |
 | Ancient Souls Tamag | 167676 | [167676-ancient-souls-tamag.json](./167676-ancient-souls-tamag.json) |
 | Ancient Stars | 277014 | [277014-ancient-stars.json](./277014-ancient-stars.json) |
 | Ancient Stories: Gods of Egypt | 119684 | [119684-ancient-stories-gods-of-egypt.json](./119684-ancient-stories-gods-of-egypt.json) |
@@ -7938,6 +7940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azumi and the Vertical Slice | 257075 | [257075-azumi-and-the-vertical-slice.json](./257075-azumi-and-the-vertical-slice.json) |
 | Azur Lane: Crosswave | 109475 | [109475-azur-lane-crosswave.json](./109475-azur-lane-crosswave.json) |
 | Azur Lane: Crosswave - Commanders Calendar Edition | 139918 | [139918-azur-lane-crosswave-commanders-calendar-edition.json](./139918-azur-lane-crosswave-commanders-calendar-edition.json) |
+| Azura | 74218 | [74218-azura.json](./74218-azura.json) |
 | Azurael's Circle: Chapter 3 | 112368 | [112368-azuraels-circle-chapter-3.json](./112368-azuraels-circle-chapter-3.json) |
 | Azurael's Circle: Chapter 5 | 168836 | [168836-azuraels-circle-chapter-5.json](./168836-azuraels-circle-chapter-5.json) |
 | Azuran Tales: Trials | 99165 | [99165-azuran-tales-trials.json](./99165-azuran-tales-trials.json) |
