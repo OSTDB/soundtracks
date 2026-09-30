@@ -3030,6 +3030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's a Wrap! | 167573 | [167573-its-a-wrap.json](./167573-its-a-wrap.json) |
 | It's About the Journey | 121548 | [121548-its-about-the-journey.json](./121548-its-about-the-journey.json) |
 | It's all in your mind | 181394 | [181394-its-all-in-your-mind.json](./181394-its-all-in-your-mind.json) |
+| It's Always Monday | 26222 | [26222-its-always-monday.json](./26222-its-always-monday.json) |
 | It's Always Sunny: The Gang Goes Mobile | 110286 | [110286-its-always-sunny-the-gang-goes-mobile.json](./110286-its-always-sunny-the-gang-goes-mobile.json) |
 | It's Breaking Out | 358347 | [358347-its-breaking-out.json](./358347-its-breaking-out.json) |
 | It's Christmas Bundle! | 234307 | [234307-its-christmas-bundle.json](./234307-its-christmas-bundle.json) |
