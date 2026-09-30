@@ -910,6 +910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bang | 38547 | [38547-bang.json](./38547-bang.json) |
 | Bang 2 Busters | 40189 | [40189-bang-2-busters.json](./40189-bang-2-busters.json) |
 | Bang Bang Ball | 40268 | [40268-bang-bang-ball.json](./40268-bang-bang-ball.json) |
+| Bang Bang Fruit | 29557 | [29557-bang-bang-fruit.json](./29557-bang-bang-fruit.json) |
 | Bang Bang Fruit 2 | 74373 | [74373-bang-bang-fruit-2.json](./74373-bang-bang-fruit-2.json) |
 | Bang Bang Girls: Moe Panic | 376757 | [376757-bang-bang-girls-moe-panic.json](./376757-bang-bang-girls-moe-panic.json) |
 | Bang Bang Homeroom | 82736 | [82736-bang-bang-homeroom.json](./82736-bang-bang-homeroom.json) |
@@ -3090,6 +3091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Betray Me Not | 239679 | [239679-betray-me-not.json](./239679-betray-me-not.json) |
 | Betrayal At Club Low | 194803 | [194803-betrayal-at-club-low.json](./194803-betrayal-at-club-low.json) |
 | Betrayal Beach: Supporter Pack | 310051 | [310051-betrayal-beach-supporter-pack.json](./310051-betrayal-beach-supporter-pack.json) |
+| Betrayal Collection | 30409 | [30409-betrayal-collection.json](./30409-betrayal-collection.json) |
 | Betrayal.io | 139300 | [139300-betrayal-io.json](./139300-betrayal-io.json) |
 | Betrayed Alliance: Book 2 | 239894 | [239894-betrayed-alliance-book-2.json](./239894-betrayed-alliance-book-2.json) |
 | Betrayer | 7711 | [7711-betrayer.json](./7711-betrayer.json) |
@@ -5002,6 +5004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Gear | 42020 | [42020-blood-gear.json](./42020-blood-gear.json) |
 | Blood girl | 177854 | [177854-blood-girl.json](./177854-blood-girl.json) |
 | Blood Golf | 264083 | [264083-blood-golf.json](./264083-blood-golf.json) |
+| Blood Harvest | 29565 | [29565-blood-harvest.json](./29565-blood-harvest.json) |
 | Blood Idol Wakabayashi | 124676 | [124676-blood-idol-wakabayashi.json](./124676-blood-idol-wakabayashi.json) |
 | Blood II: Revelations | 127929 | [127929-blood-ii-revelations.json](./127929-blood-ii-revelations.json) |
 | Blood II: The Chosen | 11265 | [11265-blood-ii-the-chosen.json](./11265-blood-ii-the-chosen.json) |
