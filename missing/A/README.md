@@ -1939,6 +1939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ailse of Shadows | 410227 | [410227-ailse-of-shadows.json](./410227-ailse-of-shadows.json) |
 | Ailuri | 189192 | [189192-ailuri.json](./189192-ailuri.json) |
 | Aim & Shoot | 358841 | [358841-aim-and-shoot.json](./358841-aim-and-shoot.json) |
+| Aim Beat Charm | 401762 | [401762-aim-beat-charm.json](./401762-aim-beat-charm.json) |
 | Aim Bot | 114343 | [114343-aim-bot.json](./114343-aim-bot.json) |
 | Aim Camp | 312676 | [312676-aim-camp.json](./312676-aim-camp.json) |
 | Aim Champions: Gun Shooter Simulator | 205025 | [205025-aim-champions-gun-shooter-simulator.json](./205025-aim-champions-gun-shooter-simulator.json) |
@@ -4883,6 +4884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apes.io | 240311 | [240311-apes-io.json](./240311-apes-io.json) |
 | Apewar | 241939 | [241939-apewar.json](./241939-apewar.json) |
 | Apex | 5728 | [5728-apex.json](./5728-apex.json) |
+| Apex 2026: Rise of Legends | 401727 | [401727-apex-2026-rise-of-legends.json](./401727-apex-2026-rise-of-legends.json) |
 | Apex Arena | 104237 | [104237-apex-arena.json](./104237-apex-arena.json) |
 | Apex Drift Tokyo Streets | 323305 | [323305-apex-drift-tokyo-streets.json](./323305-apex-drift-tokyo-streets.json) |
 | Apex Gun | 247038 | [247038-apex-gun.json](./247038-apex-gun.json) |
