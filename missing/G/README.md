@@ -2727,6 +2727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods & Guardians | 256840 | [256840-gods-and-guardians.json](./256840-gods-and-guardians.json) |
 | Gods & Heroes | 13858 | [13858-gods-and-heroes.json](./13858-gods-and-heroes.json) |
 | Gods & Heroes: Rome Rising | 10368 | [10368-gods-and-heroes-rome-rising.json](./10368-gods-and-heroes-rome-rising.json) |
+| Gods and Idols | 33950 | [33950-gods-and-idols.json](./33950-gods-and-idols.json) |
 | Gods and Nemesis: of Ghosts from Dragons | 31884 | [31884-gods-and-nemesis-of-ghosts-from-dragons.json](./31884-gods-and-nemesis-of-ghosts-from-dragons.json) |
 | Gods of Almagest | 214514 | [214514-gods-of-almagest.json](./214514-gods-of-almagest.json) |
 | Gods of Angling | 396215 | [396215-gods-of-angling.json](./396215-gods-of-angling.json) |
@@ -3959,6 +3960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Farm 2 | 385048 | [385048-green-farm-2.json](./385048-green-farm-2.json) |
 | Green Farm 3 | 380674 | [380674-green-farm-3.json](./380674-green-farm-3.json) |
 | Green Field Silver Tree | 117689 | [117689-green-field-silver-tree.json](./117689-green-field-silver-tree.json) |
+| Green Game: TimeSwapper | 33753 | [33753-green-game-timeswapper.json](./33753-green-game-timeswapper.json) |
 | Green Guy Goes Grappling 2 | 255065 | [255065-green-guy-goes-grappling-2.json](./255065-green-guy-goes-grappling-2.json) |
 | Green Hell | 101461 | [101461-green-hell.json](./101461-green-hell.json) |
 | Green Hell VR | 152223 | [152223-green-hell-vr.json](./152223-green-hell-vr.json) |
