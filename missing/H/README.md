@@ -4634,6 +4634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horny Witch Hunt | 212200 | [212200-horny-witch-hunt.json](./212200-horny-witch-hunt.json) |
 | Horny Wives' Yoga Class | 393797 | [393797-horny-wives-yoga-class.json](./393797-horny-wives-yoga-class.json) |
 | Horobi Kuchiru Sekai ni Tsuioku no Hanataba wo | 198365 | [198365-horobi-kuchiru-sekai-ni-tsuioku-no-hanataba-wo.json](./198365-horobi-kuchiru-sekai-ni-tsuioku-no-hanataba-wo.json) |
+| HoRoyal: Hololive Battle Royal | 403080 | [403080-horoyal-hololive-battle-royal.json](./403080-horoyal-hololive-battle-royal.json) |
 | Horrible Histories: Ruthless Romans | 21286 | [21286-horrible-histories-ruthless-romans.json](./21286-horrible-histories-ruthless-romans.json) |
 | Horribunnies | 130178 | [130178-horribunnies.json](./130178-horribunnies.json) |
 | Horrid Henry's Horrid Adventure | 269630 | [269630-horrid-henrys-horrid-adventure.json](./269630-horrid-henrys-horrid-adventure.json) |
@@ -5314,6 +5315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hudson x Greeeen Live!? Deeees!? | 97682 | [97682-hudson-x-greeeen-live-deeees.json](./97682-hudson-x-greeeen-live-deeees.json) |
 | Hue | 18927 | [18927-hue.json](./18927-hue.json) |
 | Hue change | 184379 | [184379-hue-change.json](./184379-hue-change.json) |
+| Hue Factory | 403067 | [403067-hue-factory.json](./403067-hue-factory.json) |
 | Hue Hooligans | 323856 | [323856-hue-hooligans.json](./323856-hue-hooligans.json) |
 | Hue Hop | 311642 | [311642-hue-hop.json](./311642-hue-hop.json) |
 | Hue, Pulse | 334312 | [334312-hue-pulse.json](./334312-hue-pulse.json) |
@@ -5682,6 +5684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hv Rebellion | 184568 | [184568-hv-rebellion.json](./184568-hv-rebellion.json) |
 | HVR | 91099 | [91099-hvr.json](./91099-hvr.json) |
 | HVRGun | 29707 | [29707-hvrgun.json](./29707-hvrgun.json) |
+| Hwaet! The Vercelli Book Saga | 403085 | [403085-hwaet-the-vercelli-book-saga.json](./403085-hwaet-the-vercelli-book-saga.json) |
 | Hwajilguji | 219147 | [219147-hwajilguji.json](./219147-hwajilguji.json) |
 | HWY 17 | 252093 | [252093-hwy-17.json](./252093-hwy-17.json) |
 | Hyacinth | 225747 | [225747-hyacinth.json](./225747-hyacinth.json) |
