@@ -263,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Advanced Warfare - Atlas Digital Pack | 25973 | [25973-call-of-duty-advanced-warfare-atlas-digital-pack.json](./25973-call-of-duty-advanced-warfare-atlas-digital-pack.json) |
 | Call of Duty: Advanced Warfare - Dubbed Edition | 201043 | [201043-call-of-duty-advanced-warfare-dubbed-edition.json](./201043-call-of-duty-advanced-warfare-dubbed-edition.json) |
 | Call of Duty: Advanced Warfare - Gold Edition | 99788 | [99788-call-of-duty-advanced-warfare-gold-edition.json](./99788-call-of-duty-advanced-warfare-gold-edition.json) |
+| Call of Duty: Black Ops | 135299 | [135299-call-of-duty-black-ops.json](./135299-call-of-duty-black-ops.json) |
 | Call of Duty: Black Ops | 343819 | [343819-call-of-duty-black-ops.json](./343819-call-of-duty-black-ops.json) |
 | Call of Duty: Black Ops - Annihilation | 22636 | [22636-call-of-duty-black-ops-annihilation.json](./22636-call-of-duty-black-ops-annihilation.json) |
 | Call of Duty: Black Ops - Gold Edition | 118925 | [118925-call-of-duty-black-ops-gold-edition.json](./118925-call-of-duty-black-ops-gold-edition.json) |
@@ -4762,6 +4763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clue: Secrets & Spies | 366414 | [366414-clue-secrets-and-spies.json](./366414-clue-secrets-and-spies.json) |
 | Clue/Cluedo | 262646 | [262646-clue-cluedo.json](./262646-clue-cluedo.json) |
 | Clue/Cluedo: Black Adder Resort Bundle | 262647 | [262647-clue-cluedo-black-adder-resort-bundle.json](./262647-clue-cluedo-black-adder-resort-bundle.json) |
+| Clue/Cluedo: Classic | 99301 | [99301-clue-cluedo-classic.json](./99301-clue-cluedo-classic.json) |
 | Clue/Cluedo: Halloween Records | 328997 | [328997-clue-cluedo-halloween-records.json](./328997-clue-cluedo-halloween-records.json) |
 | Clue/Cluedo: Sherlock Suspect Pack | 407418 | [407418-clue-cluedo-sherlock-suspect-pack.json](./407418-clue-cluedo-sherlock-suspect-pack.json) |
 | Clue/Cluedo: The Ultimate Detective’s Package | 260740 | [260740-clue-cluedo-the-ultimate-detective-s-package.json](./260740-clue-cluedo-the-ultimate-detective-s-package.json) |
@@ -8274,6 +8276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Confines | 69319 | [69319-crystal-confines.json](./69319-crystal-confines.json) |
 | Crystal core | 124212 | [124212-crystal-core.json](./124212-crystal-core.json) |
 | Crystal Cosmos | 32244 | [32244-crystal-cosmos.json](./32244-crystal-cosmos.json) |
+| Crystal Crisis | 101152 | [101152-crystal-crisis.json](./101152-crystal-crisis.json) |
 | Crystal Defender | 221126 | [221126-crystal-defender.json](./221126-crystal-defender.json) |
 | Crystal Defenders R1 | 21126 | [21126-crystal-defenders-r1.json](./21126-crystal-defenders-r1.json) |
 | Crystal Defenders R2 | 21133 | [21133-crystal-defenders-r2.json](./21133-crystal-defenders-r2.json) |
