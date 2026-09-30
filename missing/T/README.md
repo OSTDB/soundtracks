@@ -2824,6 +2824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Archipelago | 180765 | [180765-the-archipelago.json](./180765-the-archipelago.json) |
 | The Architect: Paris | 74414 | [74414-the-architect-paris.json](./74414-the-architect-paris.json) |
 | The Architects of the Universe: The Orbital Wars | 402294 | [402294-the-architects-of-the-universe-the-orbital-wars.json](./402294-the-architects-of-the-universe-the-orbital-wars.json) |
+| The Archive | 387637 | [387637-the-archive.json](./387637-the-archive.json) |
 | The Archives of Evil Dr BA | 135702 | [135702-the-archives-of-evil-dr-ba.json](./135702-the-archives-of-evil-dr-ba.json) |
 | The Area 51 Secret: Boombox Killer | 127024 | [127024-the-area-51-secret-boombox-killer.json](./127024-the-area-51-secret-boombox-killer.json) |
 | The Area Where You Can't Place Arrows | 185529 | [185529-the-area-where-you-cant-place-arrows.json](./185529-the-area-where-you-cant-place-arrows.json) |
@@ -3098,6 +3099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bigs 2 | 4716 | [4716-the-bigs-2.json](./4716-the-bigs-2.json) |
 | The Bikini Bottom Massacre | 269582 | [269582-the-bikini-bottom-massacre.json](./269582-the-bikini-bottom-massacre.json) |
 | The Bilestoad | 39780 | [39780-the-bilestoad.json](./39780-the-bilestoad.json) |
+| The Billion Clicker | 387596 | [387596-the-billion-clicker.json](./387596-the-billion-clicker.json) |
 | The Billionaire's Baby | 313890 | [313890-the-billionaires-baby.json](./313890-the-billionaires-baby.json) |
 | The Binding of Isaac: Afterbirth | 13177 | [13177-the-binding-of-isaac-afterbirth.json](./13177-the-binding-of-isaac-afterbirth.json) |
 | The Binding of Isaac: Antibirth | 103333 | [103333-the-binding-of-isaac-antibirth.json](./103333-the-binding-of-isaac-antibirth.json) |
@@ -6612,6 +6614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Most Beautiful Room in the World | 273413 | [273413-the-most-beautiful-room-in-the-world.json](./273413-the-most-beautiful-room-in-the-world.json) |
 | The Most Boring Life Ever | 161758 | [161758-the-most-boring-life-ever.json](./161758-the-most-boring-life-ever.json) |
 | The Most Desperate Angel | 205672 | [205672-the-most-desperate-angel.json](./205672-the-most-desperate-angel.json) |
+| The Most Difficult Ball Game | 387617 | [387617-the-most-difficult-ball-game.json](./387617-the-most-difficult-ball-game.json) |
 | The Most Searched Playground | 280229 | [280229-the-most-searched-playground.json](./280229-the-most-searched-playground.json) |
 | The Most Searched Playground: Paris 2024 | 311458 | [311458-the-most-searched-playground-paris-2024.json](./311458-the-most-searched-playground-paris-2024.json) |
 | The Most Terrible Time of the Year | 318418 | [318418-the-most-terrible-time-of-the-year.json](./318418-the-most-terrible-time-of-the-year.json) |
@@ -7312,6 +7315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Relief of Impact | 179751 | [179751-the-relief-of-impact.json](./179751-the-relief-of-impact.json) |
 | The Remainder: Act 1 | 170855 | [170855-the-remainder-act-1.json](./170855-the-remainder-act-1.json) |
 | The Remainder: Act 2 | 171387 | [171387-the-remainder-act-2.json](./171387-the-remainder-act-2.json) |
+| The Remains and The Residue | 387618 | [387618-the-remains-and-the-residue.json](./387618-the-remains-and-the-residue.json) |
 | The Remains of El Dorado | 184570 | [184570-the-remains-of-el-dorado.json](./184570-the-remains-of-el-dorado.json) |
 | The Remission of Sins | 149042 | [149042-the-remission-of-sins.json](./149042-the-remission-of-sins.json) |
 | The Remote Outpost | 268726 | [268726-the-remote-outpost.json](./268726-the-remote-outpost.json) |
@@ -11135,6 +11139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Football | 191182 | [191182-tiny-football.json](./191182-tiny-football.json) |
 | Tiny Fortress | 409645 | [409645-tiny-fortress.json](./409645-tiny-fortress.json) |
 | Tiny Fragments | 142360 | [142360-tiny-fragments.json](./142360-tiny-fragments.json) |
+| Tiny Friends Desktop Pet | 387630 | [387630-tiny-friends-desktop-pet.json](./387630-tiny-friends-desktop-pet.json) |
 | Tiny Galaxy | 84951 | [84951-tiny-galaxy.json](./84951-tiny-galaxy.json) |
 | Tiny Games: Knights & Dragons | 84950 | [84950-tiny-games-knights-and-dragons.json](./84950-tiny-games-knights-and-dragons.json) |
 | Tiny Garden | 300390 | [300390-tiny-garden.json](./300390-tiny-garden.json) |
@@ -12884,6 +12889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Wishes 4: Shaka | 356769 | [356769-tower-of-wishes-4-shaka.json](./356769-tower-of-wishes-4-shaka.json) |
 | Tower Offensive | 177836 | [177836-tower-offensive.json](./177836-tower-offensive.json) |
 | Tower Princess | 115661 | [115661-tower-princess.json](./115661-tower-princess.json) |
+| Tower Shield | 387588 | [387588-tower-shield.json](./387588-tower-shield.json) |
 | Tower Skydiver | 226436 | [226436-tower-skydiver.json](./226436-tower-skydiver.json) |
 | Tower Stack | 258031 | [258031-tower-stack.json](./258031-tower-stack.json) |
 | Tower Stack | 265743 | [265743-tower-stack.json](./265743-tower-stack.json) |
