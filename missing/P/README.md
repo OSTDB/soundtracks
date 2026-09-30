@@ -2947,6 +2947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pier Game | 340543 | [340543-pier-game.json](./340543-pier-game.json) |
 | Pier57 Autocracy | 80470 | [80470-pier57-autocracy.json](./80470-pier57-autocracy.json) |
 | Piercing Fortress Europa | 129591 | [129591-piercing-fortress-europa.json](./129591-piercing-fortress-europa.json) |
+| Pierhead Arcade | 33687 | [33687-pierhead-arcade.json](./33687-pierhead-arcade.json) |
 | Pierhead Arcade 2 | 188081 | [188081-pierhead-arcade-2.json](./188081-pierhead-arcade-2.json) |
 | Pierre le Chef is... Out to Lunch | 39042 | [39042-pierre-le-chef-is-out-to-lunch.json](./39042-pierre-le-chef-is-out-to-lunch.json) |
 | Pierrot à la Mode | 340572 | [340572-pierrot-a-la-mode.json](./340572-pierrot-a-la-mode.json) |
@@ -6519,6 +6520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princesses Never Lose! | 117701 | [117701-princesses-never-lose.json](./117701-princesses-never-lose.json) |
 | PrincessGuardians | 114563 | [114563-princessguardians.json](./114563-princessguardians.json) |
 | PrincessGuardiansParodyH | 118343 | [118343-princessguardiansparodyh.json](./118343-princessguardiansparodyh.json) |
+| Principia: Master of Science | 32826 | [32826-principia-master-of-science.json](./32826-principia-master-of-science.json) |
 | Pringles | 45559 | [45559-pringles.json](./45559-pringles.json) |
 | Pringles Chip Racer | 335431 | [335431-pringles-chip-racer.json](./335431-pringles-chip-racer.json) |
 | Prinny 1 & 2: Exploded and Reloaded | 133809 | [133809-prinny-1-and-2-exploded-and-reloaded.json](./133809-prinny-1-and-2-exploded-and-reloaded.json) |
@@ -6966,6 +6968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project CARS: Logitech Livery Pack | 353279 | [353279-project-cars-logitech-livery-pack.json](./353279-project-cars-logitech-livery-pack.json) |
 | Project CARS: Modified Car Pack | 120195 | [120195-project-cars-modified-car-pack.json](./120195-project-cars-modified-car-pack.json) |
 | Project CARS: Old Vs New Car Pack | 120194 | [120194-project-cars-old-vs-new-car-pack.json](./120194-project-cars-old-vs-new-car-pack.json) |
+| Project CARS: Pagani Edition | 33862 | [33862-project-cars-pagani-edition.json](./33862-project-cars-pagani-edition.json) |
 | Project CARS: Pagani Nürburgring Combined Track Expansion | 120187 | [120187-project-cars-pagani-nurburgring-combined-track-expansion.json](./120187-project-cars-pagani-nurburgring-combined-track-expansion.json) |
 | Project CARS: Racing Icons Car Pack | 120197 | [120197-project-cars-racing-icons-car-pack.json](./120197-project-cars-racing-icons-car-pack.json) |
 | Project CARS: Renault Sport Car Pack | 120190 | [120190-project-cars-renault-sport-car-pack.json](./120190-project-cars-renault-sport-car-pack.json) |
@@ -7312,6 +7315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ProjectL | 63241 | [63241-projectl.json](./63241-projectl.json) |
 | ProjectNimbus | 100205 | [100205-projectnimbus.json](./100205-projectnimbus.json) |
 | Projector | 202937 | [202937-projector.json](./202937-projector.json) |
+| Projector Face | 33820 | [33820-projector-face.json](./33820-projector-face.json) |
 | ProjectRIK | 60244 | [60244-projectrik.json](./60244-projectrik.json) |
 | ProjectTeo | 149932 | [149932-projectteo.json](./149932-projectteo.json) |
 | Projekt Everblood | 213590 | [213590-projekt-everblood.json](./213590-projekt-everblood.json) |
@@ -7539,6 +7543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycho-Pass: Mandatory Happiness - Limited Edition | 166186 | [166186-psycho-pass-mandatory-happiness-limited-edition.json](./166186-psycho-pass-mandatory-happiness-limited-edition.json) |
 | Psycho-unstable Journey | 180792 | [180792-psycho-unstable-journey.json](./180792-psycho-unstable-journey.json) |
 | Psychoballs | 89401 | [89401-psychoballs.json](./89401-psychoballs.json) |
+| Psychocat: The Answer | 33811 | [33811-psychocat-the-answer.json](./33811-psychocat-the-answer.json) |
 | PsychoCudgel | 316641 | [316641-psychocudgel.json](./316641-psychocudgel.json) |
 | Psychofinger | 273436 | [273436-psychofinger.json](./273436-psychofinger.json) |
 | Psychofunk | 161776 | [161776-psychofunk.json](./161776-psychofunk.json) |
@@ -8361,6 +8366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pythagorea | 57739 | [57739-pythagorea.json](./57739-pythagorea.json) |
 | Pythagorea 60° | 309096 | [309096-pythagorea-60.json](./309096-pythagorea-60.json) |
 | Pythagorean Complex | 130288 | [130288-pythagorean-complex.json](./130288-pythagorean-complex.json) |
+| Pythagoria | 33723 | [33723-pythagoria.json](./33723-pythagoria.json) |
 | Pythian | 163922 | [163922-pythian.json](./163922-pythian.json) |
 | Pytho's Mask | 60016 | [60016-pythos-mask.json](./60016-pythos-mask.json) |
 | Pythonmancer | 298161 | [298161-pythonmancer.json](./298161-pythonmancer.json) |
