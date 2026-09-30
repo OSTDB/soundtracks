@@ -1172,6 +1172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted | 377571 | [377571-haunted.json](./377571-haunted.json) |
 | Haunted Abbey | 13725 | [13725-haunted-abbey.json](./13725-haunted-abbey.json) |
 | Haunted Adventure II - Redemption | 279667 | [279667-haunted-adventure-ii-redemption.json](./279667-haunted-adventure-ii-redemption.json) |
+| Haunted Bar Simulator | 407489 | [407489-haunted-bar-simulator.json](./407489-haunted-bar-simulator.json) |
 | Haunted by Evil | 132663 | [132663-haunted-by-evil.json](./132663-haunted-by-evil.json) |
 | Haunted Casino | 246910 | [246910-haunted-casino.json](./246910-haunted-casino.json) |
 | Haunted Cities Volume 4 | 140618 | [140618-haunted-cities-volume-4.json](./140618-haunted-cities-volume-4.json) |
@@ -1509,6 +1510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeartBound | 377566 | [377566-heartbound.json](./377566-heartbound.json) |
 | Heartbreaker: The Visual Novel | 306454 | [306454-heartbreaker-the-visual-novel.json](./306454-heartbreaker-the-visual-novel.json) |
 | Heartburn | 301968 | [301968-heartburn.json](./301968-heartburn.json) |
+| HeartCore Descent | 407381 | [407381-heartcore-descent.json](./407381-heartcore-descent.json) |
 | HeartFix Express | 391195 | [391195-heartfix-express.json](./391195-heartfix-express.json) |
 | Heartful Memories: Little Witch Parfait 2 | 332419 | [332419-heartful-memories-little-witch-parfait-2.json](./332419-heartful-memories-little-witch-parfait-2.json) |
 | Hearth's Light: Potion Shop | 239669 | [239669-hearths-light-potion-shop.json](./239669-hearths-light-potion-shop.json) |
@@ -4224,6 +4226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Safety Hotline: Seasonal Worker | 317001 | [317001-home-safety-hotline-seasonal-worker.json](./317001-home-safety-hotline-seasonal-worker.json) |
 | Home Simulator | 292169 | [292169-home-simulator.json](./292169-home-simulator.json) |
 | Home Snatch | 311791 | [311791-home-snatch.json](./311791-home-snatch.json) |
+| Home Store Simulator | 407486 | [407486-home-store-simulator.json](./407486-home-store-simulator.json) |
 | Home Story: 1971 | 101747 | [101747-home-story-1971.json](./101747-home-story-1971.json) |
 | Home Street: Dream House Sim | 90555 | [90555-home-street-dream-house-sim.json](./90555-home-street-dream-house-sim.json) |
 | Home Sweet Home | 346116 | [346116-home-sweet-home.json](./346116-home-sweet-home.json) |
