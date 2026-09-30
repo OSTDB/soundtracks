@@ -1672,6 +1672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recall | 154397 | [154397-recall.json](./154397-recall.json) |
 | Recapture the Castle | 173062 | [173062-recapture-the-castle.json](./173062-recapture-the-castle.json) |
 | ReCast FF3: War of the Magitek | 339255 | [339255-recast-ff3-war-of-the-magitek.json](./339255-recast-ff3-war-of-the-magitek.json) |
+| Receiver 2 & Receiver | 394471 | [394471-receiver-2-and-receiver.json](./394471-receiver-2-and-receiver.json) |
 | Recess | 406223 | [406223-recess.json](./406223-recess.json) |
 | Recesses | 317409 | [317409-recesses.json](./317409-recesses.json) |
 | Recettear: An Item Shop's Tale | 12524 | [12524-recettear-an-item-shops-tale.json](./12524-recettear-an-item-shops-tale.json) |
@@ -1871,6 +1872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Horizon | 128643 | [128643-red-horizon.json](./128643-red-horizon.json) |
 | Red Horizon | 52744 | [52744-red-horizon.json](./52744-red-horizon.json) |
 | Red Hot Ricochet | 83610 | [83610-red-hot-ricochet.json](./83610-red-hot-ricochet.json) |
+| Red Howl | 394487 | [394487-red-howl.json](./394487-red-howl.json) |
 | Red Imposter | 349926 | [349926-red-imposter.json](./349926-red-imposter.json) |
 | Red Island | 120393 | [120393-red-island.json](./120393-red-island.json) |
 | Red Johnson's Chronicles: One Against All | 25177 | [25177-red-johnsons-chronicles-one-against-all.json](./25177-red-johnsons-chronicles-one-against-all.json) |
@@ -3621,6 +3623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riichi City | 187355 | [187355-riichi-city.json](./187355-riichi-city.json) |
 | Riichi Mahjong | 403729 | [403729-riichi-mahjong.json](./403729-riichi-mahjong.json) |
 | RiiMajor | 294771 | [294771-riimajor.json](./294771-riimajor.json) |
+| RIIP | 394445 | [394445-riip.json](./394445-riip.json) |
 | RiiPlay | 294784 | [294784-riiplay.json](./294784-riiplay.json) |
 | Rika Suzuki | 97328 | [97328-rika-suzuki.json](./97328-rika-suzuki.json) |
 | Riki 8Bit Game Collection | 322554 | [322554-riki-8bit-game-collection.json](./322554-riki-8bit-game-collection.json) |
@@ -4055,6 +4058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Homeward 3: Underwater World | 120951 | [120951-road-homeward-3-underwater-world.json](./120951-road-homeward-3-underwater-world.json) |
 | Road Homeward 4: Last Step | 123557 | [123557-road-homeward-4-last-step.json](./123557-road-homeward-4-last-step.json) |
 | Road Homeward: Open World | 127312 | [127312-road-homeward-open-world.json](./127312-road-homeward-open-world.json) |
+| Road Jumper | 394482 | [394482-road-jumper.json](./394482-road-jumper.json) |
 | Road Legends | 90128 | [90128-road-legends.json](./90128-road-legends.json) |
 | Road Madness | 33140 | [33140-road-madness.json](./33140-road-madness.json) |
 | Road Maintenance Simulator | 193766 | [193766-road-maintenance-simulator.json](./193766-road-maintenance-simulator.json) |
@@ -4176,6 +4180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robes | 176343 | [176343-robes.json](./176343-robes.json) |
 | Robicon | 373764 | [373764-robicon.json](./373764-robicon.json) |
 | Robin & Orchid | 60013 | [60013-robin-and-orchid.json](./60013-robin-and-orchid.json) |
+| Robin Hood: Forest Adventures | 394460 | [394460-robin-hood-forest-adventures.json](./394460-robin-hood-forest-adventures.json) |
 | Robin Hood: Sherwood Defenders | 330262 | [330262-robin-hood-sherwood-defenders.json](./330262-robin-hood-sherwood-defenders.json) |
 | Robin Hood: The Siege | 141092 | [141092-robin-hood-the-siege.json](./141092-robin-hood-the-siege.json) |
 | Robin Hood's Quest | 43558 | [43558-robin-hoods-quest.json](./43558-robin-hoods-quest.json) |
