@@ -1964,6 +1964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mariuccha Alchemy Queen | 149449 | [149449-mariuccha-alchemy-queen.json](./149449-mariuccha-alchemy-queen.json) |
 | Mark My Words | 360016 | [360016-mark-my-words.json](./360016-mark-my-words.json) |
 | Mark of Cain | 391741 | [391741-mark-of-cain.json](./391741-mark-of-cain.json) |
+| Mark of the Deep | 251771 | [251771-mark-of-the-deep.json](./251771-mark-of-the-deep.json) |
 | Mark of the Deep: Deluxe Edition | 402957 | [402957-mark-of-the-deep-deluxe-edition.json](./402957-mark-of-the-deep-deluxe-edition.json) |
 | Mark of the Ninja: Remastered | 94969 | [94969-mark-of-the-ninja-remastered.json](./94969-mark-of-the-ninja-remastered.json) |
 | Mark of the Ninja: Special Edition DLC | 26891 | [26891-mark-of-the-ninja-special-edition-dlc.json](./26891-mark-of-the-ninja-special-edition-dlc.json) |
@@ -9762,6 +9763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Tavern | 390667 | [390667-mystic-tavern.json](./390667-mystic-tavern.json) |
 | Mystic Totem | 246355 | [246355-mystic-totem.json](./246355-mystic-totem.json) |
 | Mystic Tower Legends | 341354 | [341354-mystic-tower-legends.json](./341354-mystic-tower-legends.json) |
+| Mystic Towers | 2519 | [2519-mystic-towers.json](./2519-mystic-towers.json) |
 | Mystic Vale: Mana Storm | 170956 | [170956-mystic-vale-mana-storm.json](./170956-mystic-vale-mana-storm.json) |
 | Mystic Vale: Vale of Magic | 170955 | [170955-mystic-vale-vale-of-magic.json](./170955-mystic-vale-vale-of-magic.json) |
 | Mystic Vale: Vale of the Wild | 170957 | [170957-mystic-vale-vale-of-the-wild.json](./170957-mystic-vale-vale-of-the-wild.json) |
