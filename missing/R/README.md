@@ -199,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race07 | 50162 | [50162-race07.json](./50162-race07.json) |
 | Raceborn | 311638 | [311638-raceborn.json](./311638-raceborn.json) |
 | Racecraft | 18188 | [18188-racecraft.json](./18188-racecraft.json) |
+| Raceland | 81906 | [81906-raceland.json](./81906-raceland.json) |
 | RaceLeague | 168128 | [168128-raceleague.json](./168128-raceleague.json) |
 | Racer | 282668 | [282668-racer.json](./282668-racer.json) |
 | Racer | 79859 | [79859-racer.json](./79859-racer.json) |
@@ -1329,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reader Rabbit: Thinking Adventures Ages 4-6 | 144857 | [144857-reader-rabbit-thinking-adventures-ages-4-6.json](./144857-reader-rabbit-thinking-adventures-ages-4-6.json) |
 | Reader Rabbit's Toddler | 73297 | [73297-reader-rabbits-toddler.json](./73297-reader-rabbits-toddler.json) |
 | Reading Raven | 104090 | [104090-reading-raven.json](./104090-reading-raven.json) |
+| Reading Simulator | 81809 | [81809-reading-simulator.json](./81809-reading-simulator.json) |
 | Reading World VR | 296082 | [296082-reading-world-vr.json](./296082-reading-world-vr.json) |
 | Ready 2 Rumble Boxing: Round 2 | 249128 | [249128-ready-2-rumble-boxing-round-2.json](./249128-ready-2-rumble-boxing-round-2.json) |
 | Ready 2 Rumble Boxing: Round 2 | 3587 | [3587-ready-2-rumble-boxing-round-2.json](./3587-ready-2-rumble-boxing-round-2.json) |
@@ -6105,6 +6107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rygar | 6856 | [6856-rygar.json](./6856-rygar.json) |
 | Rygar: The Legendary Adventure | 5134 | [5134-rygar-the-legendary-adventure.json](./5134-rygar-the-legendary-adventure.json) |
 | RYL: Path of the Emperor | 6548 | [6548-ryl-path-of-the-emperor.json](./6548-ryl-path-of-the-emperor.json) |
+| Rym 9000 | 81867 | [81867-rym-9000.json](./81867-rym-9000.json) |
 | Rym 9000: Limited Edition | 167035 | [167035-rym-9000-limited-edition.json](./167035-rym-9000-limited-edition.json) |
 | Rymdkapsel | 18830 | [18830-rymdkapsel.json](./18830-rymdkapsel.json) |
 | RymdResa | 11735 | [11735-rymdresa.json](./11735-rymdresa.json) |
