@@ -360,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance of the Stereomancer | 364692 | [364692-dance-of-the-stereomancer.json](./364692-dance-of-the-stereomancer.json) |
 | Dance of the Vampires | 168323 | [168323-dance-of-the-vampires.json](./168323-dance-of-the-vampires.json) |
 | Dance On | 54685 | [54685-dance-on.json](./54685-dance-on.json) |
+| Dance on Broadway | 2663 | [2663-dance-on-broadway.json](./2663-dance-on-broadway.json) |
 | Dance Praise 2: The ReMix | 209002 | [209002-dance-praise-2-the-remix.json](./209002-dance-praise-2-the-remix.json) |
 | Dance Praise: The Original | 209001 | [209001-dance-praise-the-original.json](./209001-dance-praise-the-original.json) |
 | Dance School Stories | 89824 | [89824-dance-school-stories.json](./89824-dance-school-stories.json) |
@@ -799,6 +800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Reign: The Future of War - Battles of the Outer Rim | 73771 | [73771-dark-reign-the-future-of-war-battles-of-the-outer-rim.json](./73771-dark-reign-the-future-of-war-battles-of-the-outer-rim.json) |
 | Dark Reign: The Future of War - Rise of the Shadowhand | 658 | [658-dark-reign-the-future-of-war-rise-of-the-shadowhand.json](./658-dark-reign-the-future-of-war-rise-of-the-shadowhand.json) |
 | Dark Ride Escape | 310577 | [310577-dark-ride-escape.json](./310577-dark-ride-escape.json) |
+| Dark Rift | 3468 | [3468-dark-rift.json](./3468-dark-rift.json) |
 | Dark Romance: Ashville | 139798 | [139798-dark-romance-ashville.json](./139798-dark-romance-ashville.json) |
 | Dark Romance: Heart of the Beast HD | 88814 | [88814-dark-romance-heart-of-the-beast-hd.json](./88814-dark-romance-heart-of-the-beast-hd.json) |
 | Dark Romance: Hunchback of Notre-Dame - Collector's Edition | 116108 | [116108-dark-romance-hunchback-of-notre-dame-collectors-edition.json](./116108-dark-romance-hunchback-of-notre-dame-collectors-edition.json) |
@@ -948,6 +950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkion | 212813 | [212813-darkion.json](./212813-darkion.json) |
 | Darkland | 134439 | [134439-darkland.json](./134439-darkland.json) |
 | Darklands: Awakening | 164520 | [164520-darklands-awakening.json](./164520-darklands-awakening.json) |
+| Darklight Conflict | 2399 | [2399-darklight-conflict.json](./2399-darklight-conflict.json) |
 | Darklin Wars | 129769 | [129769-darklin-wars.json](./129769-darklin-wars.json) |
 | Darklord's Tower | 360021 | [360021-darklords-tower.json](./360021-darklords-tower.json) |
 | Darkman | 12037 | [12037-darkman.json](./12037-darkman.json) |
@@ -2419,6 +2422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Def Jam Fight for NY Mobile | 209012 | [209012-def-jam-fight-for-ny-mobile.json](./209012-def-jam-fight-for-ny-mobile.json) |
 | Def Leppard: Let's Rock It! | 254164 | [254164-def-leppard-lets-rock-it.json](./254164-def-leppard-lets-rock-it.json) |
 | Defaction | 178537 | [178537-defaction.json](./178537-defaction.json) |
+| Defcon 5 | 2505 | [2505-defcon-5.json](./2505-defcon-5.json) |
 | Defcon 5 | 39776 | [39776-defcon-5.json](./39776-defcon-5.json) |
 | Defeat Me | 321507 | [321507-defeat-me.json](./321507-defeat-me.json) |
 | Defeat the Beat | 112485 | [112485-defeat-the-beat.json](./112485-defeat-the-beat.json) |
@@ -7593,6 +7597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drugz: 2D Drug Empire Simulator | 253398 | [253398-drugz-2d-drug-empire-simulator.json](./253398-drugz-2d-drug-empire-simulator.json) |
 | Druid | 13613 | [13613-druid.json](./13613-druid.json) |
 | Druid | 305921 | [305921-druid.json](./305921-druid.json) |
+| Druid: Daemons of the Mind | 2506 | [2506-druid-daemons-of-the-mind.json](./2506-druid-daemons-of-the-mind.json) |
 | Druid's Tale: Crystal Cave | 61653 | [61653-druids-tale-crystal-cave.json](./61653-druids-tale-crystal-cave.json) |
 | Drum Box | 187360 | [187360-drum-box.json](./187360-drum-box.json) |
 | Drum Girl | 232140 | [232140-drum-girl.json](./232140-drum-girl.json) |
