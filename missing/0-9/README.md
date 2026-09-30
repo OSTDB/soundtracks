@@ -455,6 +455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 13th Friday Night: Funk Blood | 314500 | [314500-13th-friday-night-funk-blood.json](./314500-13th-friday-night-funk-blood.json) |
 | 14 Locks | 225637 | [225637-14-locks.json](./225637-14-locks.json) |
 | 14 Minesweeper Variants 2 | 272869 | [272869-14-minesweeper-variants-2.json](./272869-14-minesweeper-variants-2.json) |
+| 1406 | 116102 | [116102-1406.json](./116102-1406.json) |
 | 1414: Crossroads | 241301 | [241301-1414-crossroads.json](./241301-1414-crossroads.json) |
 | 1428: Shadows over Silesia | 130261 | [130261-1428-shadows-over-silesia.json](./130261-1428-shadows-over-silesia.json) |
 | 1428: Shadows over Silesia - Deluxe Edition | 246634 | [246634-1428-shadows-over-silesia-deluxe-edition.json](./246634-1428-shadows-over-silesia-deluxe-edition.json) |
