@@ -1782,6 +1782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Stories 2 | 150607 | [150607-ghost-stories-2.json](./150607-ghost-stories-2.json) |
 | Ghost Story | 184585 | [184585-ghost-story.json](./184585-ghost-story.json) |
 | Ghost Story | 311269 | [311269-ghost-story.json](./311269-ghost-story.json) |
+| Ghost Strike | 410384 | [410384-ghost-strike.json](./410384-ghost-strike.json) |
 | Ghost Study | 229328 | [229328-ghost-study.json](./229328-ghost-study.json) |
 | Ghost Suburb II: From Beyond Sleep into the Eyes of Madness | 124602 | [124602-ghost-suburb-ii-from-beyond-sleep-into-the-eyes-of-madness.json](./124602-ghost-suburb-ii-from-beyond-sleep-into-the-eyes-of-madness.json) |
 | Ghost Suburb Zero | 169884 | [169884-ghost-suburb-zero.json](./169884-ghost-suburb-zero.json) |
@@ -2819,6 +2820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goethe's Last Laugh | 376569 | [376569-goethes-last-laugh.json](./376569-goethes-last-laugh.json) |
 | Goetia: The Infinite Tower | 222511 | [222511-goetia-the-infinite-tower.json](./222511-goetia-the-infinite-tower.json) |
 | GoetiaX | 145665 | [145665-goetiax.json](./145665-goetiax.json) |
+| GoGeez | 410296 | [410296-gogeez.json](./410296-gogeez.json) |
 | Gogetsuji Legends | 37341 | [37341-gogetsuji-legends.json](./37341-gogetsuji-legends.json) |
 | Gogo I-Land | 344573 | [344573-gogo-i-land.json](./344573-gogo-i-land.json) |
 | GoGo Sentai Boukenger Kazu to Katachi wo Oboeyou! | 327590 | [327590-gogo-sentai-boukenger-kazu-to-katachi-wo-oboeyou.json](./327590-gogo-sentai-boukenger-kazu-to-katachi-wo-oboeyou.json) |
