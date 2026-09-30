@@ -209,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jake Hunter Unleashed 3: Picture Perfect | 349485 | [349485-jake-hunter-unleashed-3-picture-perfect.json](./349485-jake-hunter-unleashed-3-picture-perfect.json) |
 | Jake Hunter Unleashed 4: Behind Closed Doors | 349486 | [349486-jake-hunter-unleashed-4-behind-closed-doors.json](./349486-jake-hunter-unleashed-4-behind-closed-doors.json) |
 | Jake Hunter Unleashed 5: Last Christmas | 349487 | [349487-jake-hunter-unleashed-5-last-christmas.json](./349487-jake-hunter-unleashed-5-last-christmas.json) |
+| Jake Hunter: Detective Chronicles | 21049 | [21049-jake-hunter-detective-chronicles.json](./21049-jake-hunter-detective-chronicles.json) |
 | Jake's Apple Harvest | 258548 | [258548-jakes-apple-harvest.json](./258548-jakes-apple-harvest.json) |
 | Jake's Halloween Night | 216770 | [216770-jakes-halloween-night.json](./216770-jakes-halloween-night.json) |
 | Jakers: The Adventures of Piggley Winks | 19653 | [19653-jakers-the-adventures-of-piggley-winks.json](./19653-jakers-the-adventures-of-piggley-winks.json) |
@@ -402,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaws of Hell | 349322 | [349322-jaws-of-hell.json](./349322-jaws-of-hell.json) |
 | Jaws Unleashed | 2632 | [2632-jaws-unleashed.json](./2632-jaws-unleashed.json) |
 | Jaws: Retro Edition | 381120 | [381120-jaws-retro-edition.json](./381120-jaws-retro-edition.json) |
+| Jaws: Ultimate Predator | 19931 | [19931-jaws-ultimate-predator.json](./19931-jaws-ultimate-predator.json) |
 | Jaws! | 220588 | [220588-jaws.json](./220588-jaws.json) |
 | JawshRPG | 316280 | [316280-jawshrpg.json](./316280-jawshrpg.json) |
 | Jax Payne – Part 1 | 252102 | [252102-jax-payne-part-1.json](./252102-jax-payne-part-1.json) |
@@ -1061,6 +1063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John Deere: American Builder Deluxe | 79589 | [79589-john-deere-american-builder-deluxe.json](./79589-john-deere-american-builder-deluxe.json) |
 | John Deere: Busy Days in Deerfield Valley | 210131 | [210131-john-deere-busy-days-in-deerfield-valley.json](./210131-john-deere-busy-days-in-deerfield-valley.json) |
 | John Deere: Drive Green | 139805 | [139805-john-deere-drive-green.json](./139805-john-deere-drive-green.json) |
+| John Deere: Harvest in the Heartland | 20896 | [20896-john-deere-harvest-in-the-heartland.json](./20896-john-deere-harvest-in-the-heartland.json) |
 | John Deere: North American Farmer | 210130 | [210130-john-deere-north-american-farmer.json](./210130-john-deere-north-american-farmer.json) |
 | John Elway's Team Quarterback | 40343 | [40343-john-elways-team-quarterback.json](./40343-john-elways-team-quarterback.json) |
 | John Fox | 303595 | [303595-john-fox.json](./303595-john-fox.json) |
@@ -1088,6 +1091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Dynamite | 85212 | [85212-johnny-dynamite.json](./85212-johnny-dynamite.json) |
 | Johnny Hotshot | 21006 | [21006-johnny-hotshot.json](./21006-johnny-hotshot.json) |
 | Johnny Impossible | 21013 | [21013-johnny-impossible.json](./21013-johnny-impossible.json) |
+| Johnny Kung-Fu | 21038 | [21038-johnny-kung-fu.json](./21038-johnny-kung-fu.json) |
 | Johnny Mnemonic | 73241 | [73241-johnny-mnemonic.json](./73241-johnny-mnemonic.json) |
 | Johnny Nero Action Hero | 72993 | [72993-johnny-nero-action-hero.json](./72993-johnny-nero-action-hero.json) |
 | Johnny Platform Saves Xmas! | 67250 | [67250-johnny-platform-saves-xmas.json](./67250-johnny-platform-saves-xmas.json) |
