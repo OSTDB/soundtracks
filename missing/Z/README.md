@@ -358,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeramida | 274018 | [274018-zeramida.json](./274018-zeramida.json) |
 | Zeran's Folly | 54496 | [54496-zerans-folly.json](./54496-zerans-folly.json) |
 | Zereoton Hauntings | 360662 | [360662-zereoton-hauntings.json](./360662-zereoton-hauntings.json) |
+| Zereoton Hauntings 2 | 403649 | [403649-zereoton-hauntings-2.json](./403649-zereoton-hauntings-2.json) |
 | Zeriliah Chronicles | 153924 | [153924-zeriliah-chronicles.json](./153924-zeriliah-chronicles.json) |
 | Zerko | 289878 | [289878-zerko.json](./289878-zerko.json) |
 | Zero 5 | 40818 | [40818-zero-5.json](./40818-zero-5.json) |
