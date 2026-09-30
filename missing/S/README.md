@@ -1082,6 +1082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savage Skies | 47314 | [47314-savage-skies.json](./47314-savage-skies.json) |
 | Savage Tower Defense | 158715 | [158715-savage-tower-defense.json](./158715-savage-tower-defense.json) |
 | Savage Turret | 248074 | [248074-savage-turret.json](./248074-savage-turret.json) |
+| Savage: Resurrection | 19277 | [19277-savage-resurrection.json](./19277-savage-resurrection.json) |
 | Savage: The Battle for Newerth | 2247 | [2247-savage-the-battle-for-newerth.json](./2247-savage-the-battle-for-newerth.json) |
 | Savage: The Shard of Gosen | 34332 | [34332-savage-the-shard-of-gosen.json](./34332-savage-the-shard-of-gosen.json) |
 | Savage: The Ultimate Quest for Survival | 69890 | [69890-savage-the-ultimate-quest-for-survival.json](./69890-savage-the-ultimate-quest-for-survival.json) |
@@ -1976,6 +1977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Season Marbles: Autumn | 337628 | [337628-season-marbles-autumn.json](./337628-season-marbles-autumn.json) |
 | Season Marbles: Summer | 337629 | [337629-season-marbles-summer.json](./337629-season-marbles-summer.json) |
 | Season Marbles: Winter | 337627 | [337627-season-marbles-winter.json](./337627-season-marbles-winter.json) |
+| Season Match 3: Curse of the Witch Crow | 17789 | [17789-season-match-3-curse-of-the-witch-crow.json](./17789-season-match-3-curse-of-the-witch-crow.json) |
 | Season of Mystery: The Cherry Blossom Murders | 9326 | [9326-season-of-mystery-the-cherry-blossom-murders.json](./9326-season-of-mystery-the-cherry-blossom-murders.json) |
 | Season Ticket Baseball | 206642 | [206642-season-ticket-baseball.json](./206642-season-ticket-baseball.json) |
 | Season Up | 95603 | [95603-season-up.json](./95603-season-up.json) |
@@ -5848,6 +5850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyguard 0: Air Arcade | 259097 | [259097-skyguard-0-air-arcade.json](./259097-skyguard-0-air-arcade.json) |
 | Skyhammer | 40807 | [40807-skyhammer.json](./40807-skyhammer.json) |
 | SKYHILL: Black Mist | 117770 | [117770-skyhill-black-mist.json](./117770-skyhill-black-mist.json) |
+| Skyhook | 19303 | [19303-skyhook.json](./19303-skyhook.json) |
 | SkyIsland | 238062 | [238062-skyisland.json](./238062-skyisland.json) |
 | Skyjet | 47245 | [47245-skyjet.json](./47245-skyjet.json) |
 | SkyJumper | 190732 | [190732-skyjumper.json](./190732-skyjumper.json) |
@@ -7301,6 +7304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Socks! | 389699 | [389699-socks.json](./389699-socks.json) |
 | SOCOM 4: U.S. Navy SEALs | 7459 | [7459-socom-4-u-s-navy-seals.json](./7459-socom-4-u-s-navy-seals.json) |
 | SOCOM II: U.S. Navy SEALs | 8240 | [8240-socom-ii-u-s-navy-seals.json](./8240-socom-ii-u-s-navy-seals.json) |
+| SOCOM: U.S. Navy SEALs Fireteam Bravo 2 | 19431 | [19431-socom-u-s-navy-seals-fireteam-bravo-2.json](./19431-socom-u-s-navy-seals-fireteam-bravo-2.json) |
 | Socrates Jones: Pro Philosopher | 122894 | [122894-socrates-jones-pro-philosopher.json](./122894-socrates-jones-pro-philosopher.json) |
 | Soctics League | 208623 | [208623-soctics-league.json](./208623-soctics-league.json) |
 | Socxel | 180049 | [180049-socxel.json](./180049-socxel.json) |
@@ -9818,6 +9822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellslinger Towns | 295335 | [295335-spellslinger-towns.json](./295335-spellslinger-towns.json) |
 | Spellsouls - Duel of Legends | 26908 | [26908-spellsouls-duel-of-legends.json](./26908-spellsouls-duel-of-legends.json) |
 | Spellstone | 26794 | [26794-spellstone.json](./26794-spellstone.json) |
+| Spellsword | 19905 | [19905-spellsword.json](./19905-spellsword.json) |
 | Spellsword | 259262 | [259262-spellsword.json](./259262-spellsword.json) |
 | Spellsword Cards: Origins | 118104 | [118104-spellsword-cards-origins.json](./118104-spellsword-cards-origins.json) |
 | Spellsworn | 26573 | [26573-spellsworn.json](./26573-spellsworn.json) |
@@ -11194,6 +11199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Legacy | 7193 | [7193-star-trek-legacy.json](./7193-star-trek-legacy.json) |
 | Star Trek: Legends - Complete Edition | 331851 | [331851-star-trek-legends-complete-edition.json](./331851-star-trek-legends-complete-edition.json) |
 | Star Trek: Legends - Spock Edition | 385209 | [385209-star-trek-legends-spock-edition.json](./385209-star-trek-legends-spock-edition.json) |
+| Star Trek: New Worlds | 19425 | [19425-star-trek-new-worlds.json](./19425-star-trek-new-worlds.json) |
 | Star Trek: Starfleet Academy | 23946 | [23946-star-trek-starfleet-academy.json](./23946-star-trek-starfleet-academy.json) |
 | Star Trek: Starfleet Command III | 19416 | [19416-star-trek-starfleet-command-iii.json](./19416-star-trek-starfleet-command-iii.json) |
 | Star Trek: Strategic Operations Simulator | 12319 | [12319-star-trek-strategic-operations-simulator.json](./12319-star-trek-strategic-operations-simulator.json) |
@@ -11480,6 +11486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarFringe: Adversus | 33148 | [33148-starfringe-adversus.json](./33148-starfringe-adversus.json) |
 | Starfront: Collision | 87701 | [87701-starfront-collision.json](./87701-starfront-collision.json) |
 | Starfuse | 260214 | [260214-starfuse.json](./260214-starfuse.json) |
+| Stargate | 19689 | [19689-stargate.json](./19689-stargate.json) |
 | Stargate | 245393 | [245393-stargate.json](./245393-stargate.json) |
 | Stargate | 346142 | [346142-stargate.json](./346142-stargate.json) |
 | Stargate Bullet | 379896 | [379896-stargate-bullet.json](./379896-stargate-bullet.json) |
@@ -14209,6 +14216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dungeon Muncher | 311602 | [311602-super-dungeon-muncher.json](./311602-super-dungeon-muncher.json) |
 | Super Dunkman | 134700 | [134700-super-dunkman.json](./134700-super-dunkman.json) |
 | Super Duper Flying Genocide 2017 | 34004 | [34004-super-duper-flying-genocide-2017.json](./34004-super-duper-flying-genocide-2017.json) |
+| Super Duper Party Pooper | 19680 | [19680-super-duper-party-pooper.json](./19680-super-duper-party-pooper.json) |
 | Super Durak | 174336 | [174336-super-durak.json](./174336-super-durak.json) |
 | Super Dynamite Fishing | 61126 | [61126-super-dynamite-fishing.json](./61126-super-dynamite-fishing.json) |
 | Super DynoStory | 215025 | [215025-super-dynostory.json](./215025-super-dynostory.json) |
