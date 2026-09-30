@@ -1435,6 +1435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teach My Little Sister How to Drive | 373092 | [373092-teach-my-little-sister-how-to-drive.json](./373092-teach-my-little-sister-how-to-drive.json) |
 | Teacher Seduction | 276160 | [276160-teacher-seduction.json](./276160-teacher-seduction.json) |
 | Teachers. With Love and Passion | 250441 | [250441-teachers-with-love-and-passion.json](./250441-teachers-with-love-and-passion.json) |
+| Teachers. With Love and Passion. | 390717 | [390717-teachers-with-love-and-passion.json](./390717-teachers-with-love-and-passion.json) |
 | TeaChess | 188036 | [188036-teachess.json](./188036-teachess.json) |
 | Teacup | 214023 | [214023-teacup.json](./214023-teacup.json) |
 | Teahouse of the Gods | 226192 | [226192-teahouse-of-the-gods.json](./226192-teahouse-of-the-gods.json) |
@@ -13271,6 +13272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Merger | 108472 | [108472-train-merger.json](./108472-train-merger.json) |
 | Train Metropolis | 333085 | [333085-train-metropolis.json](./333085-train-metropolis.json) |
 | Train Miner | 344443 | [344443-train-miner.json](./344443-train-miner.json) |
+| Train Misconductor | 390727 | [390727-train-misconductor.json](./390727-train-misconductor.json) |
 | Train No. 7 | 163960 | [163960-train-no-7.json](./163960-train-no-7.json) |
 | Train of Afterlife | 35939 | [35939-train-of-afterlife.json](./35939-train-of-afterlife.json) |
 | Train Plus Japan: Drive Western Japan Trains! - Rapid Service Edition | 412568 | [412568-train-plus-japan-drive-western-japan-trains-rapid-service-edition.json](./412568-train-plus-japan-drive-western-japan-trains-rapid-service-edition.json) |
@@ -14300,6 +14302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasures of the Serengeti | 206073 | [206073-treasures-of-the-serengeti.json](./206073-treasures-of-the-serengeti.json) |
 | TreasureTails | 386422 | [386422-treasuretails.json](./386422-treasuretails.json) |
 | Treble Cat | 89690 | [89690-treble-cat.json](./89690-treble-cat.json) |
+| Treble-Basie | 390756 | [390756-treble-basie.json](./390756-treble-basie.json) |
 | Trebuchet | 36086 | [36086-trebuchet.json](./36086-trebuchet.json) |
 | Trebuchet Town | 175993 | [175993-trebuchet-town.json](./175993-trebuchet-town.json) |
 | Tree Kingdoms | 345485 | [345485-tree-kingdoms.json](./345485-tree-kingdoms.json) |
@@ -15282,6 +15285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turkey Runner | 404422 | [404422-turkey-runner.json](./404422-turkey-runner.json) |
 | Turkey Stuffin' | 62690 | [62690-turkey-stuffin.json](./62690-turkey-stuffin.json) |
 | Turkmenchay | 362858 | [362858-turkmenchay.json](./362858-turkmenchay.json) |
+| Turleon | 390755 | [390755-turleon.json](./390755-turleon.json) |
 | Turlock Holmes | 286086 | [286086-turlock-holmes.json](./286086-turlock-holmes.json) |
 | Turma da Mônica em O Resgate | 246679 | [246679-turma-da-monica-em-o-resgate.json](./246679-turma-da-monica-em-o-resgate.json) |
 | Turma da Mônica na Terra dos Monstros | 98931 | [98931-turma-da-monica-na-terra-dos-monstros.json](./98931-turma-da-monica-na-terra-dos-monstros.json) |
@@ -15608,6 +15612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Days | 356898 | [356898-two-days.json](./356898-two-days.json) |
 | Two Days to the Race | 304179 | [304179-two-days-to-the-race.json](./304179-two-days-to-the-race.json) |
 | Two Die | 142501 | [142501-two-die.json](./142501-two-die.json) |
+| Two Dollar Suits | 390753 | [390753-two-dollar-suits.json](./390753-two-dollar-suits.json) |
 | Two Doors | 305928 | [305928-two-doors.json](./305928-two-doors.json) |
 | Two Escapes | 55286 | [55286-two-escapes.json](./55286-two-escapes.json) |
 | Two Eyes | 175271 | [175271-two-eyes.json](./175271-two-eyes.json) |
