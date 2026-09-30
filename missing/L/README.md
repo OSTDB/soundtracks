@@ -1752,6 +1752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Learn Japanese! Kanji Sudoku | 306440 | [306440-lets-learn-japanese-kanji-sudoku.json](./306440-lets-learn-japanese-kanji-sudoku.json) |
 | Let's Learn Korean! Hangul | 367521 | [367521-lets-learn-korean-hangul.json](./367521-lets-learn-korean-hangul.json) |
 | Let's Learn Korean! Vocabulary | 367522 | [367522-lets-learn-korean-vocabulary.json](./367522-lets-learn-korean-vocabulary.json) |
+| Let's Learn Lingít | 391296 | [391296-lets-learn-lingit.json](./391296-lets-learn-lingit.json) |
 | Let's Learn Shogi | 168643 | [168643-lets-learn-shogi.json](./168643-lets-learn-shogi.json) |
 | Let's Learn Xaad Kil | 303627 | [303627-lets-learn-xaad-kil.json](./303627-lets-learn-xaad-kil.json) |
 | Let's Mahjong | 388356 | [388356-lets-mahjong.json](./388356-lets-mahjong.json) |
@@ -2343,6 +2344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightworkers | 203872 | [203872-lightworkers.json](./203872-lightworkers.json) |
 | Lightyear Frontier | 163456 | [163456-lightyear-frontier.json](./163456-lightyear-frontier.json) |
 | Lightyears from Home | 124634 | [124634-lightyears-from-home.json](./124634-lightyears-from-home.json) |
+| Ligmanauts | 391283 | [391283-ligmanauts.json](./391283-ligmanauts.json) |
 | Ligmar | 361692 | [361692-ligmar.json](./361692-ligmar.json) |
 | Ligo | 258539 | [258539-ligo.json](./258539-ligo.json) |
 | Lihue | 163210 | [163210-lihue.json](./163210-lihue.json) |
@@ -4000,6 +4002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lotus: Lost Memories | 346655 | [346655-lotus-lost-memories.json](./346655-lotus-lost-memories.json) |
 | Lotus: The Self-Made Witch | 226674 | [226674-lotus-the-self-made-witch.json](./226674-lotus-the-self-made-witch.json) |
 | LotusMeditation | 403193 | [403193-lotusmeditation.json](./403193-lotusmeditation.json) |
+| Lotzo and The Ray of Light | 391251 | [391251-lotzo-and-the-ray-of-light.json](./391251-lotzo-and-the-ray-of-light.json) |
 | Lou's Lagoon | 214706 | [214706-lous-lagoon.json](./214706-lous-lagoon.json) |
 | Loud or Quiet | 74341 | [74341-loud-or-quiet.json](./74341-loud-or-quiet.json) |
 | Louder Than Words: The Story of a Field Trip | 195647 | [195647-louder-than-words-the-story-of-a-field-trip.json](./195647-louder-than-words-the-story-of-a-field-trip.json) |
