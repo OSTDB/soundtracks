@@ -371,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate VR Collection | 108863 | [108863-ultimate-vr-collection.json](./108863-ultimate-vr-collection.json) |
 | Ultimate Waifu Battle Online | 219530 | [219530-ultimate-waifu-battle-online.json](./219530-ultimate-waifu-battle-online.json) |
 | Ultimate Wall Defense Force | 149566 | [149566-ultimate-wall-defense-force.json](./149566-ultimate-wall-defense-force.json) |
+| Ultimate Wizard | 398392 | [398392-ultimate-wizard.json](./398392-ultimate-wizard.json) |
 | Ultimate Yahtzee | 69218 | [69218-ultimate-yahtzee.json](./69218-ultimate-yahtzee.json) |
 | Ultimate Zombie Defense | 127723 | [127723-ultimate-zombie-defense.json](./127723-ultimate-zombie-defense.json) |
 | Ultimate Zombie Defense 2 | 211801 | [211801-ultimate-zombie-defense-2.json](./211801-ultimate-zombie-defense-2.json) |
@@ -985,6 +986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unfabulous | 18306 | [18306-unfabulous.json](./18306-unfabulous.json) |
 | Unfair Flips | 367451 | [367451-unfair-flips.json](./367451-unfair-flips.json) |
 | Unfair Mario | 225008 | [225008-unfair-mario.json](./225008-unfair-mario.json) |
+| Unfair War: Survivors | 398394 | [398394-unfair-war-survivors.json](./398394-unfair-war-survivors.json) |
 | Unfated | 267672 | [267672-unfated.json](./267672-unfated.json) |
 | Unfated | 410974 | [410974-unfated.json](./410974-unfated.json) |
 | Unfathomable Villa | 112971 | [112971-unfathomable-villa.json](./112971-unfathomable-villa.json) |
@@ -1145,6 +1147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Universal Studios Theme Parks Adventure Adventure | 237342 | [237342-universal-studios-theme-parks-adventure-adventure.json](./237342-universal-studios-theme-parks-adventure-adventure.json) |
 | Universal Truck Simulator | 220211 | [220211-universal-truck-simulator.json](./220211-universal-truck-simulator.json) |
 | Universal Warrior | 70115 | [70115-universal-warrior.json](./70115-universal-warrior.json) |
+| Universal Weirdness | 398503 | [398503-universal-weirdness.json](./398503-universal-weirdness.json) |
 | Universally Loved | 106561 | [106561-universally-loved.json](./106561-universally-loved.json) |
 | Universe | 130867 | [130867-universe.json](./130867-universe.json) |
 | Universe | 13088 | [13088-universe.json](./13088-universe.json) |
