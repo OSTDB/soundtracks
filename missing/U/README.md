@@ -601,6 +601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UMS: The Universal Military Simulator | 37154 | [37154-ums-the-universal-military-simulator.json](./37154-ums-the-universal-military-simulator.json) |
 | Umurangi Generation | 131631 | [131631-umurangi-generation.json](./131631-umurangi-generation.json) |
 | Un juego de huevos | 81390 | [81390-un-juego-de-huevos.json](./81390-un-juego-de-huevos.json) |
+| Un Petit Noel | 406843 | [406843-un-petit-noel.json](./406843-un-petit-noel.json) |
 | Un-Matching Game | 307293 | [307293-un-matching-game.json](./307293-un-matching-game.json) |
 | Un:logical | 320393 | [320393-un-logical.json](./320393-un-logical.json) |
 | Un/Fragment | 289925 | [289925-un-fragment.json](./289925-un-fragment.json) |
