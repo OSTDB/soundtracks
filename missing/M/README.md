@@ -1127,6 +1127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make a Path for the Chicken | 165624 | [165624-make-a-path-for-the-chicken.json](./165624-make-a-path-for-the-chicken.json) |
 | Make a Scene: Dinosaurs | 96044 | [96044-make-a-scene-dinosaurs.json](./96044-make-a-scene-dinosaurs.json) |
 | Make a Scene: Under the Sea | 101073 | [101073-make-a-scene-under-the-sea.json](./101073-make-a-scene-under-the-sea.json) |
+| Make America Great Again: The Trump Presidency | 31663 | [31663-make-america-great-again-the-trump-presidency.json](./31663-make-america-great-again-the-trump-presidency.json) |
 | Make Border Great Again! | 74345 | [74345-make-border-great-again.json](./74345-make-border-great-again.json) |
 | Make Candy | 175368 | [175368-make-candy.json](./175368-make-candy.json) |
 | Make Capybara Happy | 335248 | [335248-make-capybara-happy.json](./335248-make-capybara-happy.json) |
@@ -2187,6 +2188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel vs. Capcom: Infinite & Beyond | 305345 | [305345-marvel-vs-capcom-infinite-and-beyond.json](./305345-marvel-vs-capcom-infinite-and-beyond.json) |
 | Marvel: Avengers Alliance | 77283 | [77283-marvel-avengers-alliance.json](./77283-marvel-avengers-alliance.json) |
 | Marvel: Avengers Alliance 2 | 59380 | [59380-marvel-avengers-alliance-2.json](./59380-marvel-avengers-alliance-2.json) |
+| Marvel: Powers United VR | 51411 | [51411-marvel-powers-united-vr.json](./51411-marvel-powers-united-vr.json) |
 | Marvel: Ultimate Alliance | 197883 | [197883-marvel-ultimate-alliance.json](./197883-marvel-ultimate-alliance.json) |
 | Marvel: Ultimate Alliance | 4999 | [4999-marvel-ultimate-alliance.json](./4999-marvel-ultimate-alliance.json) |
 | Marvel's Avengers Definitive Edition | 259466 | [259466-marvels-avengers-definitive-edition.json](./259466-marvels-avengers-definitive-edition.json) |
@@ -4102,6 +4104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercenaries Series Bundle | 175818 | [175818-mercenaries-series-bundle.json](./175818-mercenaries-series-bundle.json) |
 | Mercenaries Wings: The False Phoenix | 104789 | [104789-mercenaries-wings-the-false-phoenix.json](./104789-mercenaries-wings-the-false-phoenix.json) |
 | Mercenaries: Playground of Destruction | 2683 | [2683-mercenaries-playground-of-destruction.json](./2683-mercenaries-playground-of-destruction.json) |
+| Mercenary Force | 48917 | [48917-mercenary-force.json](./48917-mercenary-force.json) |
 | Mercenary Ops | 65175 | [65175-mercenary-ops.json](./65175-mercenary-ops.json) |
 | Mercenary: The Second City | 15500 | [15500-mercenary-the-second-city.json](./15500-mercenary-the-second-city.json) |
 | Mercforce: 30X1 | 120380 | [120380-mercforce-30x1.json](./120380-mercforce-30x1.json) |
@@ -5399,6 +5402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MindLess | 128457 | [128457-mindless.json](./128457-mindless.json) |
 | Mindlock: The Apartment | 275333 | [275333-mindlock-the-apartment.json](./275333-mindlock-the-apartment.json) |
 | MindMessenger | 342156 | [342156-mindmessenger.json](./342156-mindmessenger.json) |
+| Mindnight | 52260 | [52260-mindnight.json](./52260-mindnight.json) |
 | Minds of Nations | 128985 | [128985-minds-of-nations.json](./128985-minds-of-nations.json) |
 | MindScape: Verenna | 274760 | [274760-mindscape-verenna.json](./274760-mindscape-verenna.json) |
 | Mindset | 68616 | [68616-mindset.json](./68616-mindset.json) |
@@ -8439,6 +8443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mudbird | 335272 | [335272-mudbird.json](./335272-mudbird.json) |
 | Mudborne | 242538 | [242538-mudborne.json](./242538-mudborne.json) |
 | Muddy Heights | 223678 | [223678-muddy-heights.json](./223678-muddy-heights.json) |
+| Muddy Heights 2 | 32939 | [32939-muddy-heights-2.json](./32939-muddy-heights-2.json) |
 | Mudflood | 408066 | [408066-mudflood.json](./408066-mudflood.json) |
 | MudGate | 217009 | [217009-mudgate.json](./217009-mudgate.json) |
 | Mudkip Goes to Walmart then Dies | 140023 | [140023-mudkip-goes-to-walmart-then-dies.json](./140023-mudkip-goes-to-walmart-then-dies.json) |
