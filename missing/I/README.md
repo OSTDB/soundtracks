@@ -531,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icebreakers | 66963 | [66963-icebreakers.json](./66963-icebreakers.json) |
 | Icebroken | 410335 | [410335-icebroken.json](./410335-icebroken.json) |
 | Iceburg | 373525 | [373525-iceburg.json](./373525-iceburg.json) |
+| Iced Fish | 402441 | [402441-iced-fish.json](./402441-iced-fish.json) |
 | Iced In | 132120 | [132120-iced-in.json](./132120-iced-in.json) |
 | Icee Maker | 159259 | [159259-icee-maker.json](./159259-icee-maker.json) |
 | Icee Slush Rush | 352751 | [352751-icee-slush-rush.json](./352751-icee-slush-rush.json) |
@@ -1173,6 +1174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Space God | 164893 | [164893-immortal-space-god.json](./164893-immortal-space-god.json) |
 | Immortal Tales of Rebirth | 231852 | [231852-immortal-tales-of-rebirth.json](./231852-immortal-tales-of-rebirth.json) |
 | Immortal Truth | 33087 | [33087-immortal-truth.json](./33087-immortal-truth.json) |
+| Immortal Wayfarer | 402420 | [402420-immortal-wayfarer.json](./402420-immortal-wayfarer.json) |
 | Immortal: And the Death that Follows | 217325 | [217325-immortal-and-the-death-that-follows.json](./217325-immortal-and-the-death-that-follows.json) |
 | Immortal: Unchained | 55038 | [55038-immortal-unchained.json](./55038-immortal-unchained.json) |
 | Immortal: Unchained - Storm Breaker | 118202 | [118202-immortal-unchained-storm-breaker.json](./118202-immortal-unchained-storm-breaker.json) |
