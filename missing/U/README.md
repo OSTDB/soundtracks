@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFObia | 217240 | [217240-ufobia.json](./217240-ufobia.json) |
 | Ufophilia | 368145 | [368145-ufophilia.json](./368145-ufophilia.json) |
 | UfoPilot: The Phadt Menace - Steam Edition | 162707 | [162707-ufopilot-the-phadt-menace-steam-edition.json](./162707-ufopilot-the-phadt-menace-steam-edition.json) |
+| UFOre: Space Idle | 389694 | [389694-ufore-space-idle.json](./389694-ufore-space-idle.json) |
 | UFOs Love Cows | 60513 | [60513-ufos-love-cows.json](./60513-ufos-love-cows.json) |
 | Ufouria: The Saga 2 | 274086 | [274086-ufouria-the-saga-2.json](./274086-ufouria-the-saga-2.json) |
 | UFS League | 207883 | [207883-ufs-league.json](./207883-ufs-league.json) |
@@ -1476,6 +1477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unwelcome | 262285 | [262285-unwelcome.json](./262285-unwelcome.json) |
 | Unwelcome Guest | 337453 | [337453-unwelcome-guest.json](./337453-unwelcome-guest.json) |
 | Unwell Known | 152829 | [152829-unwell-known.json](./152829-unwell-known.json) |
+| Unwilling Host | 389698 | [389698-unwilling-host.json](./389698-unwilling-host.json) |
 | Unwilting | 323345 | [323345-unwilting.json](./323345-unwilting.json) |
 | Unwind | 57065 | [57065-unwind.json](./57065-unwind.json) |
 | unWorded | 74210 | [74210-unworded.json](./74210-unworded.json) |
