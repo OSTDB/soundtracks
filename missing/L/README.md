@@ -3829,6 +3829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Life: Origins | 207758 | [207758-lost-life-origins.json](./207758-lost-life-origins.json) |
 | Lost Light | 210887 | [210887-lost-light.json](./210887-lost-light.json) |
 | Lost Love Island | 278148 | [278148-lost-love-island.json](./278148-lost-love-island.json) |
+| Lost Marbles | 36365 | [36365-lost-marbles.json](./36365-lost-marbles.json) |
 | Lost Maria: Namonaki Hana | 394168 | [394168-lost-maria-namonaki-hana.json](./394168-lost-maria-namonaki-hana.json) |
 | Lost Mastery | 304633 | [304633-lost-mastery.json](./304633-lost-mastery.json) |
 | Lost Maze | 256220 | [256220-lost-maze.json](./256220-lost-maze.json) |
