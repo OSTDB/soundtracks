@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthworm Jim HD | 20420 | [20420-earthworm-jim-hd.json](./20420-earthworm-jim-hd.json) |
 | Earthworm Jim: Menace 2 the Galaxy | 3482 | [3482-earthworm-jim-menace-2-the-galaxy.json](./3482-earthworm-jim-menace-2-the-galaxy.json) |
 | EarthWorms | 51952 | [51952-earthworms.json](./51952-earthworms.json) |
+| EarthX | 119461 | [119461-earthx.json](./119461-earthx.json) |
 | EarWorm | 340931 | [340931-earworm.json](./340931-earworm.json) |
 | Ease Out | 224544 | [224544-ease-out.json](./224544-ease-out.json) |
 | Eason | 192695 | [192695-eason.json](./192695-eason.json) |
@@ -286,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eBaseball: Pro Spirit 2026 | 410262 | [410262-ebaseball-pro-spirit-2026.json](./410262-ebaseball-pro-spirit-2026.json) |
 | Eberouge | 97318 | [97318-eberouge.json](./97318-eberouge.json) |
 | EbiTapes | 238731 | [238731-ebitapes.json](./238731-ebitapes.json) |
+| Ebola | 119556 | [119556-ebola.json](./119556-ebola.json) |
 | Ebola 3 | 216312 | [216312-ebola-3.json](./216312-ebola-3.json) |
 | Ebonstar | 57627 | [57627-ebonstar.json](./57627-ebonstar.json) |
 | Ebontale | 179184 | [179184-ebontale.json](./179184-ebontale.json) |
@@ -1653,6 +1655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Online | 57183 | [57183-endless-online.json](./57183-endless-online.json) |
 | Endless Pursuit | 183532 | [183532-endless-pursuit.json](./183532-endless-pursuit.json) |
 | Endless Reach | 358964 | [358964-endless-reach.json](./358964-endless-reach.json) |
+| Endless RPG | 119705 | [119705-endless-rpg.json](./119705-endless-rpg.json) |
 | Endless Rush | 261857 | [261857-endless-rush.json](./261857-endless-rush.json) |
 | Endless Salvation | 333168 | [333168-endless-salvation.json](./333168-endless-salvation.json) |
 | Endless Samurai | 235740 | [235740-endless-samurai.json](./235740-endless-samurai.json) |
@@ -3439,6 +3442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ExoSoul | 257974 | [257974-exosoul.json](./257974-exosoul.json) |
 | ExoSphere | 57048 | [57048-exosphere.json](./57048-exosphere.json) |
 | Exostorm | 35725 | [35725-exostorm.json](./35725-exostorm.json) |
+| ExoTanks MOBA | 119528 | [119528-exotanks-moba.json](./119528-exotanks-moba.json) |
 | Exotic | 186847 | [186847-exotic.json](./186847-exotic.json) |
 | Exotic Kosmos | 258971 | [258971-exotic-kosmos.json](./258971-exotic-kosmos.json) |
 | Exotic Matter | 75107 | [75107-exotic-matter.json](./75107-exotic-matter.json) |
