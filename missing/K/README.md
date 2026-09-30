@@ -1480,6 +1480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Path Solitaire | 201053 | [201053-kings-path-solitaire.json](./201053-kings-path-solitaire.json) |
 | King's Quest 4+5+6 | 154935 | [154935-kings-quest-4-5-6.json](./154935-kings-quest-4-5-6.json) |
 | King's Quest Collection | 27852 | [27852-kings-quest-collection.json](./27852-kings-quest-collection.json) |
+| King's Quest II: Romancing the Stones | 77309 | [77309-kings-quest-ii-romancing-the-stones.json](./77309-kings-quest-ii-romancing-the-stones.json) |
 | King's Quest IV: The Perils of Rosella Retold | 230506 | [230506-kings-quest-iv-the-perils-of-rosella-retold.json](./230506-kings-quest-iv-the-perils-of-rosella-retold.json) |
 | King's Quest V: Absence Makes the Heart Go Yonder! | 2238 | [2238-kings-quest-v-absence-makes-the-heart-go-yonder.json](./2238-kings-quest-v-absence-makes-the-heart-go-yonder.json) |
 | King's Quest: Chapter 5 - The Good Knight | 28065 | [28065-kings-quest-chapter-5-the-good-knight.json](./28065-kings-quest-chapter-5-the-good-knight.json) |
