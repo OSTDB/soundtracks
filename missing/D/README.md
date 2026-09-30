@@ -5754,6 +5754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle God Blitz | 68341 | [68341-doodle-god-blitz.json](./68341-doodle-god-blitz.json) |
 | Doodle God Blitz HD | 106080 | [106080-doodle-god-blitz-hd.json](./106080-doodle-god-blitz-hd.json) |
 | Doodle God Bundle | 119072 | [119072-doodle-god-bundle.json](./119072-doodle-god-bundle.json) |
+| Doodle God HD | 88467 | [88467-doodle-god-hd.json](./88467-doodle-god-hd.json) |
 | Doodle God Ultimate Collection | 118153 | [118153-doodle-god-ultimate-collection.json](./118153-doodle-god-ultimate-collection.json) |
 | Doodle God: Alchemy Jam | 80911 | [80911-doodle-god-alchemy-jam.json](./80911-doodle-god-alchemy-jam.json) |
 | Doodle God: Evolution | 114180 | [114180-doodle-god-evolution.json](./114180-doodle-god-evolution.json) |
@@ -7066,6 +7067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Day: Bella Italia | 89231 | [89231-dream-day-bella-italia.json](./89231-dream-day-bella-italia.json) |
 | Dream Day: First Home | 209171 | [209171-dream-day-first-home.json](./209171-dream-day-first-home.json) |
 | Dream Day: Honeymoon | 209172 | [209172-dream-day-honeymoon.json](./209172-dream-day-honeymoon.json) |
+| Dream Day: True Love | 88458 | [88458-dream-day-true-love.json](./88458-dream-day-true-love.json) |
 | Dream Day: Viva Las Vegas | 87284 | [87284-dream-day-viva-las-vegas.json](./87284-dream-day-viva-las-vegas.json) |
 | Dream Day: Wedding | 209173 | [209173-dream-day-wedding.json](./209173-dream-day-wedding.json) |
 | Dream Distortion | 375830 | [375830-dream-distortion.json](./375830-dream-distortion.json) |
