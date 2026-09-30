@@ -5257,6 +5257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose Cottage | 286673 | [286673-rose-cottage.json](./286673-rose-cottage.json) |
 | Rose Guns Days: Season 1 | 274213 | [274213-rose-guns-days-season-1.json](./274213-rose-guns-days-season-1.json) |
 | Rose Guns Days: Season 1 | 326598 | [326598-rose-guns-days-season-1.json](./326598-rose-guns-days-season-1.json) |
+| Rose Guns Days: Season 2 | 408960 | [408960-rose-guns-days-season-2.json](./408960-rose-guns-days-season-2.json) |
 | Rose Hips | 395037 | [395037-rose-hips.json](./395037-rose-hips.json) |
 | Rose of Longevity | 326822 | [326822-rose-of-longevity.json](./326822-rose-of-longevity.json) |
 | Rose of Meat | 392161 | [392161-rose-of-meat.json](./392161-rose-of-meat.json) |
@@ -5368,6 +5369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoundUrbs | 350413 | [350413-roundurbs.json](./350413-roundurbs.json) |
 | Roundy | 38919 | [38919-roundy.json](./38919-roundy.json) |
 | RoundZ | 371910 | [371910-roundz.json](./371910-roundz.json) |
+| Route | 408971 | [408971-route.json](./408971-route.json) |
 | Route 13 | 253864 | [253864-route-13.json](./253864-route-13.json) |
 | Route 66 Simulator | 151094 | [151094-route-66-simulator.json](./151094-route-66-simulator.json) |
 | Route Candle for Steam | 90560 | [90560-route-candle-for-steam.json](./90560-route-candle-for-steam.json) |
