@@ -833,6 +833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3-in-1 Christmas Collection | 331411 | [331411-3-in-1-christmas-collection.json](./331411-3-in-1-christmas-collection.json) |
 | 3-in-1 fun bundle | 223575 | [223575-3-in-1-fun-bundle.json](./223575-3-in-1-fun-bundle.json) |
 | 3-in-One Game Compilation | 92275 | [92275-3-in-one-game-compilation.json](./92275-3-in-one-game-compilation.json) |
+| 3-Letter Competitive Crossword | 416745 | [416745-3-letter-competitive-crossword.json](./416745-3-letter-competitive-crossword.json) |
 | 3-nen B-Gumi Kinpachi-sensei: Densetsu no Kyoudan ni Tate! | 65022 | [65022-3-nen-b-gumi-kinpachi-sensei-densetsu-no-kyoudan-ni-tate.json](./65022-3-nen-b-gumi-kinpachi-sensei-densetsu-no-kyoudan-ni-tate.json) |
 | 3, 2, 1, Survive! | 102387 | [102387-3-2-1-survive.json](./102387-3-2-1-survive.json) |
 | 3, 2, 1...SuperCrash! | 42786 | [42786-3-2-1-supercrash.json](./42786-3-2-1-supercrash.json) |
