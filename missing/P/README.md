@@ -2382,6 +2382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pettson o Findus i Trädgården | 70121 | [70121-pettson-o-findus-i-tradgarden.json](./70121-pettson-o-findus-i-tradgarden.json) |
 | Pettson o Findus: Julkalender | 286112 | [286112-pettson-o-findus-julkalender.json](./286112-pettson-o-findus-julkalender.json) |
 | Pettsons julspel | 286111 | [286111-pettsons-julspel.json](./286111-pettsons-julspel.json) |
+| Petty Ungodliness | 411757 | [411757-petty-ungodliness.json](./411757-petty-ungodliness.json) |
 | Petunia the Yellow Mouse | 62278 | [62278-petunia-the-yellow-mouse.json](./62278-petunia-the-yellow-mouse.json) |
 | PetVille | 309123 | [309123-petville.json](./309123-petville.json) |
 | PetWings | 9121 | [9121-petwings.json](./9121-petwings.json) |
@@ -2588,6 +2589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phat Phrog Clicker | 314308 | [314308-phat-phrog-clicker.json](./314308-phat-phrog-clicker.json) |
 | Phenocore | 194308 | [194308-phenocore.json](./194308-phenocore.json) |
 | Phenomenal Car Park Simulator | 124220 | [124220-phenomenal-car-park-simulator.json](./124220-phenomenal-car-park-simulator.json) |
+| Pheonix II | 411746 | [411746-pheonix-ii.json](./411746-pheonix-ii.json) |
 | Phi: The Broken Strings | 332599 | [332599-phi-the-broken-strings.json](./332599-phi-the-broken-strings.json) |
 | Phi's Star Challenge | 393099 | [393099-phis-star-challenge.json](./393099-phis-star-challenge.json) |
 | Phibos | 243394 | [243394-phibos.json](./243394-phibos.json) |
@@ -6663,6 +6665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Escape io | 347147 | [347147-prison-escape-io.json](./347147-prison-escape-io.json) |
 | Prison Escape Puzzle | 100151 | [100151-prison-escape-puzzle.json](./100151-prison-escape-puzzle.json) |
 | Prison Escape Simulator | 345684 | [345684-prison-escape-simulator.json](./345684-prison-escape-simulator.json) |
+| Prison Escape Simulator 2026 | 411738 | [411738-prison-escape-simulator-2026.json](./411738-prison-escape-simulator-2026.json) |
 | Prison Escape Simulator: Breakout Master | 311056 | [311056-prison-escape-simulator-breakout-master.json](./311056-prison-escape-simulator-breakout-master.json) |
 | Prison Fighters | 408286 | [408286-prison-fighters.json](./408286-prison-fighters.json) |
 | Prison Fights Simulator | 310168 | [310168-prison-fights-simulator.json](./310168-prison-fights-simulator.json) |
@@ -7254,6 +7257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Screwed | 236293 | [236293-project-screwed.json](./236293-project-screwed.json) |
 | Project Seaborne | 417447 | [417447-project-seaborne.json](./417447-project-seaborne.json) |
 | Project Search | 325637 | [325637-project-search.json](./325637-project-search.json) |
+| Project Sekai: Ayakashi Yokochou no Natsuyasumi | 411777 | [411777-project-sekai-ayakashi-yokochou-no-natsuyasumi.json](./411777-project-sekai-ayakashi-yokochou-no-natsuyasumi.json) |
 | Project Sekuter | 317606 | [317606-project-sekuter.json](./317606-project-sekuter.json) |
 | Project Sever | 368581 | [368581-project-sever.json](./368581-project-sever.json) |
 | Project SF2 | 174833 | [174833-project-sf2.json](./174833-project-sf2.json) |
