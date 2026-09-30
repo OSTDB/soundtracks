@@ -3595,6 +3595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dexoriality | 130824 | [130824-dexoriality.json](./130824-dexoriality.json) |
 | Dexter Stardust | 213337 | [213337-dexter-stardust.json](./213337-dexter-stardust.json) |
 | Dexter: Hidden Darkness | 59845 | [59845-dexter-hidden-darkness.json](./59845-dexter-hidden-darkness.json) |
+| Dexter's Laboratory Security Alert! | 23608 | [23608-dexters-laboratory-security-alert.json](./23608-dexters-laboratory-security-alert.json) |
 | Dexter's Laboratory: Science Ain't Fair | 8003 | [8003-dexters-laboratory-science-aint-fair.json](./8003-dexters-laboratory-science-aint-fair.json) |
 | Dexterity | 91263 | [91263-dexterity.json](./91263-dexterity.json) |
 | Dexterity Ball 3D | 34445 | [34445-dexterity-ball-3d.json](./34445-dexterity-ball-3d.json) |
@@ -6436,6 +6437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Age: Origins Collector's Edition | 21765 | [21765-dragon-age-origins-collectors-edition.json](./21765-dragon-age-origins-collectors-edition.json) |
 | Dragon and Mahjong | 402371 | [402371-dragon-and-mahjong.json](./402371-dragon-and-mahjong.json) |
 | Dragon Arena | 392911 | [392911-dragon-arena.json](./392911-dragon-arena.json) |
+| Dragon Atlas | 23635 | [23635-dragon-atlas.json](./23635-dragon-atlas.json) |
 | Dragon Ball | 38662 | [38662-dragon-ball.json](./38662-dragon-ball.json) |
 | Dragon Ball 3: Goku-den | 48679 | [48679-dragon-ball-3-goku-den.json](./48679-dragon-ball-3-goku-den.json) |
 | Dragon Ball Budokai AF | 180246 | [180246-dragon-ball-budokai-af.json](./180246-dragon-ball-budokai-af.json) |
@@ -6643,6 +6645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Oath | 59945 | [59945-dragon-oath.json](./59945-dragon-oath.json) |
 | Dragon of Calon Valley | 323737 | [323737-dragon-of-calon-valley.json](./323737-dragon-of-calon-valley.json) |
 | Dragon of Steelthorne | 287753 | [287753-dragon-of-steelthorne.json](./287753-dragon-of-steelthorne.json) |
+| Dragon Pals | 23591 | [23591-dragon-pals.json](./23591-dragon-pals.json) |
 | Dragon Perception | 74474 | [74474-dragon-perception.json](./74474-dragon-perception.json) |
 | Dragon Pet | 322163 | [322163-dragon-pet.json](./322163-dragon-pet.json) |
 | Dragon Pink: The Hero Castle | 66168 | [66168-dragon-pink-the-hero-castle.json](./66168-dragon-pink-the-hero-castle.json) |
