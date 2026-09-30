@@ -7069,6 +7069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snot Put | 270761 | [270761-snot-put.json](./270761-snot-put.json) |
 | SnOut 2 | 192827 | [192827-snout-2.json](./192827-snout-2.json) |
 | Snout Clout | 184930 | [184930-snout-clout.json](./184930-snout-clout.json) |
+| Snouty And The Great Rift | 417366 | [417366-snouty-and-the-great-rift.json](./417366-snouty-and-the-great-rift.json) |
 | Snow | 6749 | [6749-snow.json](./6749-snow.json) |
 | Snow Aces League | 371428 | [371428-snow-aces-league.json](./371428-snow-aces-league.json) |
 | Snow Angel | 264127 | [264127-snow-angel.json](./264127-snow-angel.json) |
@@ -7394,6 +7395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Software Manager | 78597 | [78597-software-manager.json](./78597-software-manager.json) |
 | Software Tycoon: Der Spielemanager | 243953 | [243953-software-tycoon-der-spielemanager.json](./243953-software-tycoon-der-spielemanager.json) |
 | SOG: Vietnam | 345606 | [345606-sog-vietnam.json](./345606-sog-vietnam.json) |
+| Soggy Froggy | 417431 | [417431-soggy-froggy.json](./417431-soggy-froggy.json) |
 | Sogo Vego | 161353 | [161353-sogo-vego.json](./161353-sogo-vego.json) |
 | Sohee | 355020 | [355020-sohee.json](./355020-sohee.json) |
 | Soi Kano: Gyutto Dakishimete | 98376 | [98376-soi-kano-gyutto-dakishimete.json](./98376-soi-kano-gyutto-dakishimete.json) |
@@ -8163,6 +8165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Reshuffled | 331706 | [331706-sonic-reshuffled.json](./331706-sonic-reshuffled.json) |
 | Sonic Revolution | 331869 | [331869-sonic-revolution.json](./331869-sonic-revolution.json) |
 | Sonic Riders | 4158 | [4158-sonic-riders.json](./4158-sonic-riders.json) |
+| Sonic Riders Enhanced | 417435 | [417435-sonic-riders-enhanced.json](./417435-sonic-riders-enhanced.json) |
 | Sonic Riders Future | 374698 | [374698-sonic-riders-future.json](./374698-sonic-riders-future.json) |
 | Sonic Riders Regravitified | 172112 | [172112-sonic-riders-regravitified.json](./172112-sonic-riders-regravitified.json) |
 | Sonic Riders Tournament Edition 2.0 | 337111 | [337111-sonic-riders-tournament-edition-2-0.json](./337111-sonic-riders-tournament-edition-2-0.json) |
@@ -8350,6 +8353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic: Scorched Quest | 198565 | [198565-sonic-scorched-quest.json](./198565-sonic-scorched-quest.json) |
 | Sonic: The Blue Blur | 332611 | [332611-sonic-the-blue-blur.json](./332611-sonic-the-blue-blur.json) |
 | Sonic: The Chaos Effect | 330712 | [330712-sonic-the-chaos-effect.json](./330712-sonic-the-chaos-effect.json) |
+| Sonic: The Exe Game | 417606 | [417606-sonic-the-exe-game.json](./417606-sonic-the-exe-game.json) |
 | Sonic: The Next Episode | 330863 | [330863-sonic-the-next-episode.json](./330863-sonic-the-next-episode.json) |
 | Sonic.EXE | 45556 | [45556-sonic-exe.json](./45556-sonic-exe.json) |
 | Sonic.Exe 2: The Game | 341904 | [341904-sonic-exe-2-the-game.json](./341904-sonic-exe-2-the-game.json) |
@@ -12088,6 +12092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Force | 39670 | [39670-steel-force.json](./39670-steel-force.json) |
 | Steel Graves | 143583 | [143583-steel-graves.json](./143583-steel-graves.json) |
 | Steel Guardian | 204364 | [204364-steel-guardian.json](./204364-steel-guardian.json) |
+| Steel Gullet | 417436 | [417436-steel-gullet.json](./417436-steel-gullet.json) |
 | Steel Harbinger | 9584 | [9584-steel-harbinger.json](./9584-steel-harbinger.json) |
 | Steel Hearts | 337703 | [337703-steel-hearts.json](./337703-steel-hearts.json) |
 | Steel Heaven | 389718 | [389718-steel-heaven.json](./389718-steel-heaven.json) |
@@ -12207,6 +12212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Fight | 218978 | [218978-stellar-fight.json](./218978-stellar-fight.json) |
 | Stellar Freight: Echoes of the Void | 353977 | [353977-stellar-freight-echoes-of-the-void.json](./353977-stellar-freight-echoes-of-the-void.json) |
 | Stellar Gun | 167146 | [167146-stellar-gun.json](./167146-stellar-gun.json) |
+| Stellar Howl: Galactic Repairs | 417368 | [417368-stellar-howl-galactic-repairs.json](./417368-stellar-howl-galactic-repairs.json) |
 | Stellar Initiative | 261784 | [261784-stellar-initiative.json](./261784-stellar-initiative.json) |
 | Stellar Insurgency | 239760 | [239760-stellar-insurgency.json](./239760-stellar-insurgency.json) |
 | Stellar Interface + Sudoku Zenkai | 283224 | [283224-stellar-interface-sudoku-zenkai.json](./283224-stellar-interface-sudoku-zenkai.json) |
@@ -16079,6 +16085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SwapStar | 252394 | [252394-swapstar.json](./252394-swapstar.json) |
 | SwapTales: Leon! | 116439 | [116439-swaptales-leon.json](./116439-swaptales-leon.json) |
 | Swarm 2 | 280060 | [280060-swarm-2.json](./280060-swarm-2.json) |
+| Swarm Harvest | 417418 | [417418-swarm-harvest.json](./417418-swarm-harvest.json) |
 | Swarm Hunter | 345557 | [345557-swarm-hunter.json](./345557-swarm-hunter.json) |
 | Swarm Me | 374722 | [374722-swarm-me.json](./374722-swarm-me.json) |
 | Swarm Queen | 68837 | [68837-swarm-queen.json](./68837-swarm-queen.json) |
