@@ -132,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tachanka Simulator | 312906 | [312906-tachanka-simulator.json](./312906-tachanka-simulator.json) |
 | Tachyon | 369771 | [369771-tachyon.json](./369771-tachyon.json) |
 | Tachyon Fire | 410916 | [410916-tachyon-fire.json](./410916-tachyon-fire.json) |
+| Tachyon Project | 19976 | [19976-tachyon-project.json](./19976-tachyon-project.json) |
 | Tachyon Project: Limited Edition | 166235 | [166235-tachyon-project-limited-edition.json](./166235-tachyon-project-limited-edition.json) |
 | Tachyon: The Fringe | 357 | [357-tachyon-the-fringe.json](./357-tachyon-the-fringe.json) |
 | Tachyons | 176425 | [176425-tachyons.json](./176425-tachyons.json) |
@@ -2242,6 +2243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tether | 114816 | [114816-tether.json](./114816-tether.json) |
 | Tether | 186336 | [186336-tether.json](./186336-tether.json) |
 | Tether | 333088 | [333088-tether.json](./333088-tether.json) |
+| Tethered | 25336 | [25336-tethered.json](./25336-tethered.json) |
 | Tetjis | 361756 | [361756-tetjis.json](./361756-tetjis.json) |
 | Tetnis | 93522 | [93522-tetnis.json](./93522-tetnis.json) |
 | Tetr.io: Season 2 | 363973 | [363973-tetr-io-season-2.json](./363973-tetr-io-season-2.json) |
@@ -2641,6 +2643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Alfonzone | 256890 | [256890-the-alfonzone.json](./256890-the-alfonzone.json) |
 | The Alien Island: 3D-Version | 174636 | [174636-the-alien-island-3d-version.json](./174636-the-alien-island-3d-version.json) |
 | The Alien Trials | 149578 | [149578-the-alien-trials.json](./149578-the-alien-trials.json) |
+| The Alliance Alive | 25068 | [25068-the-alliance-alive.json](./25068-the-alliance-alive.json) |
 | The Alliance Alive HD Remastered | 115989 | [115989-the-alliance-alive-hd-remastered.json](./115989-the-alliance-alive-hd-remastered.json) |
 | The Alligator People | 46893 | [46893-the-alligator-people.json](./46893-the-alligator-people.json) |
 | The Almost Gone | 74787 | [74787-the-almost-gone.json](./74787-the-almost-gone.json) |
@@ -4383,6 +4386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fixer of the Adventurer's Guild | 287106 | [287106-the-fixer-of-the-adventurers-guild.json](./287106-the-fixer-of-the-adventurers-guild.json) |
 | The Fixies | 296083 | [296083-the-fixies.json](./296083-the-fixies.json) |
 | The Flake Factory | 108293 | [108293-the-flake-factory.json](./108293-the-flake-factory.json) |
+| The Flame in the Flood: Complete Edition | 26181 | [26181-the-flame-in-the-flood-complete-edition.json](./26181-the-flame-in-the-flood-complete-edition.json) |
 | The Flame's Heir | 301278 | [301278-the-flames-heir.json](./301278-the-flames-heir.json) |
 | The Flames | 176510 | [176510-the-flames.json](./176510-the-flames.json) |
 | The Flat | 262910 | [262910-the-flat.json](./262910-the-flat.json) |
