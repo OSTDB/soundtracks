@@ -1430,6 +1430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fat Dot | 179145 | [179145-fat-dot.json](./179145-fat-dot.json) |
 | Fat Dude Simulator | 117567 | [117567-fat-dude-simulator.json](./117567-fat-dude-simulator.json) |
 | Fat fat evil cat | 413153 | [413153-fat-fat-evil-cat.json](./413153-fat-fat-evil-cat.json) |
+| Fat Fleet | 396530 | [396530-fat-fleet.json](./396530-fat-fleet.json) |
 | Fat Foods | 82002 | [82002-fat-foods.json](./82002-fat-foods.json) |
 | Fat Fritz 2.0 SE | 155545 | [155545-fat-fritz-2-0-se.json](./155545-fat-fritz-2-0-se.json) |
 | Fat Hobo: Hobocop Saves Christmas | 410970 | [410970-fat-hobo-hobocop-saves-christmas.json](./410970-fat-hobo-hobocop-saves-christmas.json) |
@@ -4377,6 +4378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Honor: Yasuke the Brave – Shugoki Hero Skin | 408963 | [408963-for-honor-yasuke-the-brave-shugoki-hero-skin.json](./408963-for-honor-yasuke-the-brave-shugoki-hero-skin.json) |
 | For Love of Evil | 271779 | [271779-for-love-of-evil.json](./271779-for-love-of-evil.json) |
 | For Madman Only | 183379 | [183379-for-madman-only.json](./183379-for-madman-only.json) |
+| For Me | 396500 | [396500-for-me.json](./396500-for-me.json) |
 | For My Babies | 270770 | [270770-for-my-babies.json](./270770-for-my-babies.json) |
 | For My Babies 8 | 271246 | [271246-for-my-babies-8.json](./271246-for-my-babies-8.json) |
 | For Political Lovers, a Little Utopia Sketch | 128612 | [128612-for-political-lovers-a-little-utopia-sketch.json](./128612-for-political-lovers-a-little-utopia-sketch.json) |
@@ -5391,6 +5393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freelancer: HD Edition | 269642 | [269642-freelancer-hd-edition.json](./269642-freelancer-hd-edition.json) |
 | Freelancers: Rogue Skies | 372528 | [372528-freelancers-rogue-skies.json](./372528-freelancers-rogue-skies.json) |
 | Freeland | 316098 | [316098-freeland.json](./316098-freeland.json) |
+| Freelands | 396529 | [396529-freelands.json](./396529-freelands.json) |
 | Freeline! | 404923 | [404923-freeline.json](./404923-freeline.json) |
 | Freeman | 253604 | [253604-freeman.json](./253604-freeman.json) |
 | Freeman: Guerrilla Warfare | 78538 | [78538-freeman-guerrilla-warfare.json](./78538-freeman-guerrilla-warfare.json) |
