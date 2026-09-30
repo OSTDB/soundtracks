@@ -4051,9 +4051,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixicharm Collection 1 | 320377 | [320377-pixicharm-collection-1.json](./320377-pixicharm-collection-1.json) |
 | Pixicharm Collection 2 | 334080 | [334080-pixicharm-collection-2.json](./334080-pixicharm-collection-2.json) |
 | Pixicharm: Acornflare | 389416 | [389416-pixicharm-acornflare.json](./389416-pixicharm-acornflare.json) |
+| Pixicharm: BitPew | 392346 | [392346-pixicharm-bitpew.json](./392346-pixicharm-bitpew.json) |
 | Pixicharm: Bus Coinventure | 332538 | [332538-pixicharm-bus-coinventure.json](./332538-pixicharm-bus-coinventure.json) |
 | Pixicharm: Cavrielle | 374716 | [374716-pixicharm-cavrielle.json](./374716-pixicharm-cavrielle.json) |
 | Pixicharm: Celestibun | 378768 | [378768-pixicharm-celestibun.json](./378768-pixicharm-celestibun.json) |
+| Pixicharm: Cluckbit | 392347 | [392347-pixicharm-cluckbit.json](./392347-pixicharm-cluckbit.json) |
 | Pixicharm: Goo Patrol | 373564 | [373564-pixicharm-goo-patrol.json](./373564-pixicharm-goo-patrol.json) |
 | Pixicharm: Hallowkinz | 378767 | [378767-pixicharm-hallowkinz.json](./378767-pixicharm-hallowkinz.json) |
 | Pixicharm: Mariana Gold | 335081 | [335081-pixicharm-mariana-gold.json](./335081-pixicharm-mariana-gold.json) |
@@ -4062,8 +4064,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixicharm: Spartunex | 361698 | [361698-pixicharm-spartunex.json](./361698-pixicharm-spartunex.json) |
 | Pixicharm: Speedy Squire | 335964 | [335964-pixicharm-speedy-squire.json](./335964-pixicharm-speedy-squire.json) |
 | Pixicharm: Starry Blast | 333528 | [333528-pixicharm-starry-blast.json](./333528-pixicharm-starry-blast.json) |
+| Pixicharm: Tankbit | 392349 | [392349-pixicharm-tankbit.json](./392349-pixicharm-tankbit.json) |
+| Pixicharm: Timbershot | 392350 | [392350-pixicharm-timbershot.json](./392350-pixicharm-timbershot.json) |
 | Pixicharm: TuttiRun | 353972 | [353972-pixicharm-tuttirun.json](./353972-pixicharm-tuttirun.json) |
 | Pixicharm: Vesprax | 377706 | [377706-pixicharm-vesprax.json](./377706-pixicharm-vesprax.json) |
+| Pixicharm: Zippyron | 392351 | [392351-pixicharm-zippyron.json](./392351-pixicharm-zippyron.json) |
 | Pixie Panic Garden | 110526 | [110526-pixie-panic-garden.json](./110526-pixie-panic-garden.json) |
 | Pixie Pete | 25688 | [25688-pixie-pete.json](./25688-pixie-pete.json) |
 | Pixie Plates: Ember Peaks DLC | 399803 | [399803-pixie-plates-ember-peaks-dlc.json](./399803-pixie-plates-ember-peaks-dlc.json) |
@@ -4419,6 +4424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plastic Battlegrounds | 363959 | [363959-plastic-battlegrounds.json](./363959-plastic-battlegrounds.json) |
 | Plastic Beach | 285599 | [285599-plastic-beach.json](./285599-plastic-beach.json) |
 | Plastic Invasion: A Super Magical Mermaid Adventure | 302128 | [302128-plastic-invasion-a-super-magical-mermaid-adventure.json](./302128-plastic-invasion-a-super-magical-mermaid-adventure.json) |
+| Plastic Lust | 392357 | [392357-plastic-lust.json](./392357-plastic-lust.json) |
 | Plastic Model | 229684 | [229684-plastic-model.json](./229684-plastic-model.json) |
 | Plastic Playground | 33116 | [33116-plastic-playground.json](./33116-plastic-playground.json) |
 | Plastic Soldiers | 111701 | [111701-plastic-soldiers.json](./111701-plastic-soldiers.json) |
@@ -5949,6 +5955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Post Haste | 111881 | [111881-post-haste.json](./111881-post-haste.json) |
 | Post Hello | 118449 | [118449-post-hello.json](./118449-post-hello.json) |
 | Post Hero | 239923 | [239923-post-hero.json](./239923-post-hero.json) |
+| Post Hero: Bedbeard's Revenge | 392395 | [392395-post-hero-bedbeards-revenge.json](./392395-post-hero-bedbeards-revenge.json) |
 | Post Impact | 395188 | [395188-post-impact.json](./395188-post-impact.json) |
 | Post Memory | 318530 | [318530-post-memory.json](./318530-post-memory.json) |
 | Post Scriptum CTG: Collectible Token Game | 129676 | [129676-post-scriptum-ctg-collectible-token-game.json](./129676-post-scriptum-ctg-collectible-token-game.json) |
@@ -6008,6 +6015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potato Vs. Potato | 341560 | [341560-potato-vs-potato.json](./341560-potato-vs-potato.json) |
 | PotDuckRun | 364677 | [364677-potduckrun.json](./364677-potduckrun.json) |
 | Potential Man | 411102 | [411102-potential-man.json](./411102-potential-man.json) |
+| Pothead | 392362 | [392362-pothead.json](./392362-pothead.json) |
 | Potion Commotion | 130128 | [130128-potion-commotion.json](./130128-potion-commotion.json) |
 | Potion Commotion | 246494 | [246494-potion-commotion.json](./246494-potion-commotion.json) |
 | Potion Commotion: Heart Edition | 135697 | [135697-potion-commotion-heart-edition.json](./135697-potion-commotion-heart-edition.json) |
@@ -7608,6 +7616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proviant | 90618 | [90618-proviant.json](./90618-proviant.json) |
 | Provide Relief | 272008 | [272008-provide-relief.json](./272008-provide-relief.json) |
 | Provider | 164919 | [164919-provider.json](./164919-provider.json) |
+| Province Simulator | 392384 | [392384-province-simulator.json](./392384-province-simulator.json) |
 | Province: Suroste | 413238 | [413238-province-suroste.json](./413238-province-suroste.json) |
 | Provincies | 68728 | [68728-provincies.json](./68728-provincies.json) |
 | Provoron | 258977 | [258977-provoron.json](./258977-provoron.json) |
