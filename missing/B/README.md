@@ -1977,6 +1977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleClaws | 297784 | [297784-battleclaws.json](./297784-battleclaws.json) |
 | Battlecon: Online - Season 1 | 174140 | [174140-battlecon-online-season-1.json](./174140-battlecon-online-season-1.json) |
 | Battlecon: Online - Season 2 | 174141 | [174141-battlecon-online-season-2.json](./174141-battlecon-online-season-2.json) |
+| BattleCore Arena | 65825 | [65825-battlecore-arena.json](./65825-battlecore-arena.json) |
 | BattleCourt | 132219 | [132219-battlecourt.json](./132219-battlecourt.json) |
 | BattleCrew: Space Pirates | 26807 | [26807-battlecrew-space-pirates.json](./26807-battlecrew-space-pirates.json) |
 | BattleCross | 266827 | [266827-battlecross.json](./266827-battlecross.json) |
@@ -3869,6 +3870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Bullet | 75014 | [75014-bit-bullet.json](./75014-bit-bullet.json) |
 | Bit City | 174681 | [174681-bit-city.json](./174681-bit-city.json) |
 | Bit Dancer | 351611 | [351611-bit-dancer.json](./351611-bit-dancer.json) |
+| Bit Dungeon | 60772 | [60772-bit-dungeon.json](./60772-bit-dungeon.json) |
 | Bit Evolution | 35966 | [35966-bit-evolution.json](./35966-bit-evolution.json) |
 | Bit Generations: Boundish | 94200 | [94200-bit-generations-boundish.json](./94200-bit-generations-boundish.json) |
 | Bit Generations: Dialhex | 251173 | [251173-bit-generations-dialhex.json](./251173-bit-generations-dialhex.json) |
@@ -5172,6 +5174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloons Player Pack 4 | 335454 | [335454-bloons-player-pack-4.json](./335454-bloons-player-pack-4.json) |
 | Bloons Player Pack 5 | 335450 | [335450-bloons-player-pack-5.json](./335450-bloons-player-pack-5.json) |
 | Bloons Super Monkey | 63400 | [63400-bloons-super-monkey.json](./63400-bloons-super-monkey.json) |
+| Bloons Super Monkey 2 | 63399 | [63399-bloons-super-monkey-2.json](./63399-bloons-super-monkey-2.json) |
 | Bloons TD | 144754 | [144754-bloons-td.json](./144754-bloons-td.json) |
 | Bloons TD 5 | 17520 | [17520-bloons-td-5.json](./17520-bloons-td-5.json) |
 | Bloons TD 5 HD | 88911 | [88911-bloons-td-5-hd.json](./88911-bloons-td-5-hd.json) |
@@ -5707,6 +5710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman Quest | 49837 | [49837-bomberman-quest.json](./49837-bomberman-quest.json) |
 | Bomberman Reprint | 198212 | [198212-bomberman-reprint.json](./198212-bomberman-reprint.json) |
 | Bomberman Selection | 56467 | [56467-bomberman-selection.json](./56467-bomberman-selection.json) |
+| Bomberman Story DS | 66613 | [66613-bomberman-story-ds.json](./66613-bomberman-story-ds.json) |
 | Bomberman Tournament | 6334 | [6334-bomberman-tournament.json](./6334-bomberman-tournament.json) |
 | Bomberman Ultra | 44572 | [44572-bomberman-ultra.json](./44572-bomberman-ultra.json) |
 | Bomberman: Act Zero | 6925 | [6925-bomberman-act-zero.json](./6925-bomberman-act-zero.json) |
@@ -7879,6 +7883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buns: Bunny Survivor | 215039 | [215039-buns-bunny-survivor.json](./215039-buns-bunny-survivor.json) |
 | Bunt Girl | 178669 | [178669-bunt-girl.json](./178669-bunt-girl.json) |
 | Buoy Boy | 233768 | [233768-buoy-boy.json](./233768-buoy-boy.json) |
+| Burai Fighter Deluxe | 48960 | [48960-burai-fighter-deluxe.json](./48960-burai-fighter-deluxe.json) |
 | Buraigun: Galaxy Storm | 151561 | [151561-buraigun-galaxy-storm.json](./151561-buraigun-galaxy-storm.json) |
 | Burak Bahar's Unseen Anchor | 83594 | [83594-burak-bahars-unseen-anchor.json](./83594-burak-bahars-unseen-anchor.json) |
 | Buramato | 214744 | [214744-buramato.json](./214744-buramato.json) |
