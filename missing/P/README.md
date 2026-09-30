@@ -7016,6 +7016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professora Abelha Aprendendo Figuras Geométricas | 294437 | [294437-professora-abelha-aprendendo-figuras-geometricas.json](./294437-professora-abelha-aprendendo-figuras-geometricas.json) |
 | Profiler: The Hopscotch Killer - Extended Edition | 262360 | [262360-profiler-the-hopscotch-killer-extended-edition.json](./262360-profiler-the-hopscotch-killer-extended-edition.json) |
 | Profiles of the Forgotten | 123419 | [123419-profiles-of-the-forgotten.json](./123419-profiles-of-the-forgotten.json) |
+| PROFITS 2167: Planetary Resource Optimization & Freight Infrastructure Technician Simulator | 397201 | [397201-profits-2167-planetary-resource-optimization-and-freight-infrastructure-technician-simulator.json](./397201-profits-2167-planetary-resource-optimization-and-freight-infrastructure-technician-simulator.json) |
 | Profound | 277594 | [277594-profound.json](./277594-profound.json) |
 | Profundum | 112769 | [112769-profundum.json](./112769-profundum.json) |
 | Profundus | 341468 | [341468-profundus.json](./341468-profundus.json) |
