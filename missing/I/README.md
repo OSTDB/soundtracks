@@ -2352,6 +2352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Track & Field 2000 | 3517 | [3517-international-track-and-field-2000.json](./3517-international-track-and-field-2000.json) |
 | International Volleyball 2004 | 204700 | [204700-international-volleyball-2004.json](./204700-international-volleyball-2004.json) |
 | Internet Addicted Youth 2005 | 259080 | [259080-internet-addicted-youth-2005.json](./259080-internet-addicted-youth-2005.json) |
+| Internet Cafe 98 | 412441 | [412441-internet-cafe-98.json](./412441-internet-cafe-98.json) |
 | Internet Cafe Manager 2025 | 323306 | [323306-internet-cafe-manager-2025.json](./323306-internet-cafe-manager-2025.json) |
 | Internet Cafe Simulator 2025 | 324999 | [324999-internet-cafe-simulator-2025.json](./324999-internet-cafe-simulator-2025.json) |
 | Internet Entrepreneurship Simulator | 348781 | [348781-internet-entrepreneurship-simulator.json](./348781-internet-entrepreneurship-simulator.json) |
