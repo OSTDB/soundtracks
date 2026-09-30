@@ -1050,6 +1050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardboard Ground | 119730 | [119730-cardboard-ground.json](./119730-cardboard-ground.json) |
 | Cardborne | 390144 | [390144-cardborne.json](./390144-cardborne.json) |
 | Cardbot | 159819 | [159819-cardbot.json](./159819-cardbot.json) |
+| Cardbound Heroes | 399138 | [399138-cardbound-heroes.json](./399138-cardbound-heroes.json) |
 | Cardburners | 346229 | [346229-cardburners.json](./346229-cardburners.json) |
 | Cardcaptor Sakura: Clow Card Magic | 69577 | [69577-cardcaptor-sakura-clow-card-magic.json](./69577-cardcaptor-sakura-clow-card-magic.json) |
 | Cardcaptor Sakura: Happiness Memories | 107654 | [107654-cardcaptor-sakura-happiness-memories.json](./107654-cardcaptor-sakura-happiness-memories.json) |
@@ -5859,6 +5860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commandos Pro Simulator | 287761 | [287761-commandos-pro-simulator.json](./287761-commandos-pro-simulator.json) |
 | Commandos: Behind Enemy Lines | 879 | [879-commandos-behind-enemy-lines.json](./879-commandos-behind-enemy-lines.json) |
 | Commandos: Origins | 255936 | [255936-commandos-origins.json](./255936-commandos-origins.json) |
+| Commandos: Origins - No Man Left Behind | 399159 | [399159-commandos-origins-no-man-left-behind.json](./399159-commandos-origins-no-man-left-behind.json) |
 | Commandos: Origins - Shadows over Crete | 377670 | [377670-commandos-origins-shadows-over-crete.json](./377670-commandos-origins-shadows-over-crete.json) |
 | Commands & Colors: The Great War | 33342 | [33342-commands-and-colors-the-great-war.json](./33342-commands-and-colors-the-great-war.json) |
 | Comme Tu Veux | 327181 | [327181-comme-tu-veux.json](./327181-comme-tu-veux.json) |
@@ -7172,6 +7174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Liora | 400883 | [400883-cozy-liora.json](./400883-cozy-liora.json) |
 | Cozy Marbles | 292519 | [292519-cozy-marbles.json](./292519-cozy-marbles.json) |
 | Cozy Meadow | 335353 | [335353-cozy-meadow.json](./335353-cozy-meadow.json) |
+| Cozy Mozy | 399153 | [399153-cozy-mozy.json](./399153-cozy-mozy.json) |
 | Cozy Night | 295784 | [295784-cozy-night.json](./295784-cozy-night.json) |
 | Cozy Night | 337709 | [337709-cozy-night.json](./337709-cozy-night.json) |
 | Cozy Offroad Simulator Together | 405571 | [405571-cozy-offroad-simulator-together.json](./405571-cozy-offroad-simulator-together.json) |
