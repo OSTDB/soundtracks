@@ -2006,6 +2006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Innocence or Money: Season 2 - Episode 1 | 340754 | [340754-innocence-or-money-season-2-episode-1.json](./340754-innocence-or-money-season-2-episode-1.json) |
 | Innocent Critters | 238723 | [238723-innocent-critters.json](./238723-innocent-critters.json) |
 | Innocent Girl | 169369 | [169369-innocent-girl.json](./169369-innocent-girl.json) |
+| Innocent Life: A Futuristic Harvest Moon | 42852 | [42852-innocent-life-a-futuristic-harvest-moon.json](./42852-innocent-life-a-futuristic-harvest-moon.json) |
 | Innocent Stuck-up Girls! | 251517 | [251517-innocent-stuck-up-girls.json](./251517-innocent-stuck-up-girls.json) |
 | Innocent Tears | 73742 | [73742-innocent-tears.json](./73742-innocent-tears.json) |
 | Innocent Tour | 270756 | [270756-innocent-tour.json](./270756-innocent-tour.json) |
