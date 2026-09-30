@@ -4195,6 +4195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Cousin Squad | 338286 | [338286-dinosaur-cousin-squad.json](./338286-dinosaur-cousin-squad.json) |
 | Dinosaur Discovery | 109172 | [109172-dinosaur-discovery.json](./109172-dinosaur-discovery.json) |
 | Dinosaur Games Simulator 2018 | 105967 | [105967-dinosaur-games-simulator-2018.json](./105967-dinosaur-games-simulator-2018.json) |
+| Dinosaur Hunt | 34491 | [34491-dinosaur-hunt.json](./34491-dinosaur-hunt.json) |
 | Dinosaur Hunt Puzzle | 103645 | [103645-dinosaur-hunt-puzzle.json](./103645-dinosaur-hunt-puzzle.json) |
 | Dinosaur Hunt: Vampires, Gargoyles, Mutants Hunter Expansion Pack | 169320 | [169320-dinosaur-hunt-vampires-gargoyles-mutants-hunter-expansion-pack.json](./169320-dinosaur-hunt-vampires-gargoyles-mutants-hunter-expansion-pack.json) |
 | Dinosaur Hunter | 98984 | [98984-dinosaur-hunter.json](./98984-dinosaur-hunter.json) |
@@ -6207,6 +6208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Emoji | 181147 | [181147-dr-emoji.json](./181147-dr-emoji.json) |
 | Dr. Finklestein's Marvelous Room | 275560 | [275560-dr-finklesteins-marvelous-room.json](./275560-dr-finklesteins-marvelous-room.json) |
 | Dr. Franken | 369599 | [369599-dr-franken.json](./369599-dr-franken.json) |
+| Dr. Franken | 48949 | [48949-dr-franken.json](./48949-dr-franken.json) |
 | Dr. Fruit | 133789 | [133789-dr-fruit.json](./133789-dr-fruit.json) |
 | Dr. Jekyll and Mr. Hyde | 7961 | [7961-dr-jekyll-and-mr-hyde.json](./7961-dr-jekyll-and-mr-hyde.json) |
 | Dr. Kamasutra 2 | 336027 | [336027-dr-kamasutra-2.json](./336027-dr-kamasutra-2.json) |
