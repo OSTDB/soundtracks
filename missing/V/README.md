@@ -1359,6 +1359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Visit Bloofpiter Today | 302510 | [302510-visit-bloofpiter-today.json](./302510-visit-bloofpiter-today.json) |
 | Visit Once | 147469 | [147469-visit-once.json](./147469-visit-once.json) |
 | Visitations | 156610 | [156610-visitations.json](./156610-visitations.json) |
+| Visite virtuelle de l'Assemblée nationale | 408991 | [408991-visite-virtuelle-de-lassemblee-nationale.json](./408991-visite-virtuelle-de-lassemblee-nationale.json) |
 | Visiting a Celebrity | 160220 | [160220-visiting-a-celebrity.json](./160220-visiting-a-celebrity.json) |
 | Visiting Battleship Island: A Photographer's Chronicle | 308870 | [308870-visiting-battleship-island-a-photographers-chronicle.json](./308870-visiting-battleship-island-a-photographers-chronicle.json) |
 | Visitor | 104903 | [104903-visitor.json](./104903-visitor.json) |
