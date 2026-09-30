@@ -381,6 +381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Quick One Before Azathoth Devours Fodrian | 271299 | [271299-a-quick-one-before-azathoth-devours-fodrian.json](./271299-a-quick-one-before-azathoth-devours-fodrian.json) |
 | A Rally of Trust | 337698 | [337698-a-rally-of-trust.json](./337698-a-rally-of-trust.json) |
 | A Rat Fell in Love with a Human Girl | 82988 | [82988-a-rat-fell-in-love-with-a-human-girl.json](./82988-a-rat-fell-in-love-with-a-human-girl.json) |
+| A Rat's Quest: The Way Back Home - Season 2 | 399152 | [399152-a-rats-quest-the-way-back-home-season-2.json](./399152-a-rats-quest-the-way-back-home-season-2.json) |
 | A Raven Monologue | 81092 | [81092-a-raven-monologue.json](./81092-a-raven-monologue.json) |
 | A Recipe for Survival | 356142 | [356142-a-recipe-for-survival.json](./356142-a-recipe-for-survival.json) |
 | A Red Boat | 229918 | [229918-a-red-boat.json](./229918-a-red-boat.json) |
@@ -1737,7 +1738,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Gladiators | 33545 | [33545-age-of-gladiators.json](./33545-age-of-gladiators.json) |
 | Age of Gladiators II | 41959 | [41959-age-of-gladiators-ii.json](./41959-age-of-gladiators-ii.json) |
 | Age of Gods | 399092 | [399092-age-of-gods.json](./399092-age-of-gods.json) |
+| Age of Gods: Drakonis Faction | 399102 | [399102-age-of-gods-drakonis-faction.json](./399102-age-of-gods-drakonis-faction.json) |
 | Age of Gods: Equinox Campaign | 399094 | [399094-age-of-gods-equinox-campaign.json](./399094-age-of-gods-equinox-campaign.json) |
+| Age of Gods: Igneous Faction | 399103 | [399103-age-of-gods-igneous-faction.json](./399103-age-of-gods-igneous-faction.json) |
+| Age of Gods: Sanctus Campaign | 399100 | [399100-age-of-gods-sanctus-campaign.json](./399100-age-of-gods-sanctus-campaign.json) |
+| Age of Gods: Spirit Faction | 399101 | [399101-age-of-gods-spirit-faction.json](./399101-age-of-gods-spirit-faction.json) |
 | Age of Grit | 61074 | [61074-age-of-grit.json](./61074-age-of-grit.json) |
 | Age of Heroes II: Underground Horror | 320973 | [320973-age-of-heroes-ii-underground-horror.json](./320973-age-of-heroes-ii-underground-horror.json) |
 | Age of Heroes VR | 51381 | [51381-age-of-heroes-vr.json](./51381-age-of-heroes-vr.json) |
@@ -3100,6 +3105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alluna and Brie | 117033 | [117033-alluna-and-brie.json](./117033-alluna-and-brie.json) |
 | Allura: The Three Realms | 148970 | [148970-allura-the-three-realms.json](./148970-allura-the-three-realms.json) |
 | Alma | 80915 | [80915-alma.json](./80915-alma.json) |
+| Almanac: Detective Agency | 399143 | [399143-almanac-detective-agency.json](./399143-almanac-detective-agency.json) |
 | Almanaque Recreio | 227215 | [227215-almanaque-recreio.json](./227215-almanaque-recreio.json) |
 | Almari | 167076 | [167076-almari.json](./167076-almari.json) |
 | Almastriga: Relics of Azathoth | 156618 | [156618-almastriga-relics-of-azathoth.json](./156618-almastriga-relics-of-azathoth.json) |
@@ -3334,6 +3340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alzara: Radiant Echoes | 300878 | [300878-alzara-radiant-echoes.json](./300878-alzara-radiant-echoes.json) |
 | Alzheimer's: Memories | 160230 | [160230-alzheimers-memories.json](./160230-alzheimers-memories.json) |
 | Am I AI | 263573 | [263573-am-i-ai.json](./263573-am-i-ai.json) |
+| Am I Here? | 399160 | [399160-am-i-here.json](./399160-am-i-here.json) |
 | Am I Hero? | 169338 | [169338-am-i-hero.json](./169338-am-i-hero.json) |
 | Am I Live | 333075 | [333075-am-i-live.json](./333075-am-i-live.json) |
 | Am I Nima | 329692 | [329692-am-i-nima.json](./329692-am-i-nima.json) |
