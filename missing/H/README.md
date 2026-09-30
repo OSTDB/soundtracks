@@ -928,6 +928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harmagedon | 340416 | [340416-harmagedon.json](./340416-harmagedon.json) |
 | Harmful | 216170 | [216170-harmful.json](./216170-harmful.json) |
 | HarmoKnight | 18156 | [18156-harmoknight.json](./18156-harmoknight.json) |
+| Harmolinks | 404384 | [404384-harmolinks.json](./404384-harmolinks.json) |
 | Harmoni | 296903 | [296903-harmoni.json](./296903-harmoni.json) |
 | Harmonia | 138141 | [138141-harmonia.json](./138141-harmonia.json) |
 | Harmonia Heart | 206181 | [206181-harmonia-heart.json](./206181-harmonia-heart.json) |
@@ -4485,6 +4486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hop for the Best | 206945 | [206945-hop-for-the-best.json](./206945-hop-for-the-best.json) |
 | Hop Hop Hop | 348950 | [348950-hop-hop-hop.json](./348950-hop-hop-hop.json) |
 | Hop Hop Miner | 181707 | [181707-hop-hop-miner.json](./181707-hop-hop-miner.json) |
+| Hop Hop! Donut | 404370 | [404370-hop-hop-donut.json](./404370-hop-hop-donut.json) |
 | Hop Island | 270635 | [270635-hop-island.json](./270635-hop-island.json) |
 | Hop n Pee Dreams VR | 259094 | [259094-hop-n-pee-dreams-vr.json](./259094-hop-n-pee-dreams-vr.json) |
 | Hop N' Drop | 265186 | [265186-hop-n-drop.json](./265186-hop-n-drop.json) |
