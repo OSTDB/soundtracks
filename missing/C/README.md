@@ -926,6 +926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Physics Simulator: Trucks + Missions DLC | 155107 | [155107-car-physics-simulator-trucks-missions-dlc.json](./155107-car-physics-simulator-trucks-missions-dlc.json) |
 | Car Polo | 19371 | [19371-car-polo.json](./19371-car-polo.json) |
 | Car Puzzle for Toddlers and Kids | 227775 | [227775-car-puzzle-for-toddlers-and-kids.json](./227775-car-puzzle-for-toddlers-and-kids.json) |
+| Car Puzzler | 81919 | [81919-car-puzzler.json](./81919-car-puzzler.json) |
 | Car Race | 346087 | [346087-car-race.json](./346087-car-race.json) |
 | Car Racing Challenge | 43243 | [43243-car-racing-challenge.json](./43243-car-racing-challenge.json) |
 | Car Racing Extreme | 99398 | [99398-car-racing-extreme.json](./99398-car-racing-extreme.json) |
@@ -1414,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casino Roulette Royal | 166682 | [166682-casino-roulette-royal.json](./166682-casino-roulette-royal.json) |
 | Casino Simulator | 295316 | [295316-casino-simulator.json](./295316-casino-simulator.json) |
 | Casino Slot Machine | 41528 | [41528-casino-slot-machine.json](./41528-casino-slot-machine.json) |
+| Casino Slot Machines | 81794 | [81794-casino-slot-machines.json](./81794-casino-slot-machines.json) |
 | Casino World | 303087 | [303087-casino-world.json](./303087-casino-world.json) |
 | Casino! | 68727 | [68727-casino.json](./68727-casino.json) |
 | Casinolife Poker | 139239 | [139239-casinolife-poker.json](./139239-casinolife-poker.json) |
@@ -7505,6 +7507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Penguin Catapult 2 | 67968 | [67968-crazy-penguin-catapult-2.json](./67968-crazy-penguin-catapult-2.json) |
 | Crazy Penguin Diner Run | 101974 | [101974-crazy-penguin-diner-run.json](./101974-crazy-penguin-diner-run.json) |
 | Crazy People | 273960 | [273960-crazy-people.json](./273960-crazy-people.json) |
+| Crazy Pirate | 81872 | [81872-crazy-pirate.json](./81872-crazy-pirate.json) |
 | Crazy Pirate Slots | 232364 | [232364-crazy-pirate-slots.json](./232364-crazy-pirate-slots.json) |
 | Crazy Pitcher | 227255 | [227255-crazy-pitcher.json](./227255-crazy-pitcher.json) |
 | Crazy Pizza Boy | 242214 | [242214-crazy-pizza-boy.json](./242214-crazy-pizza-boy.json) |
@@ -7709,6 +7712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cricket Captain 2025 | 351614 | [351614-cricket-captain-2025.json](./351614-cricket-captain-2025.json) |
 | Cricket Carlson | 125821 | [125821-cricket-carlson.json](./125821-cricket-carlson.json) |
 | Cricket Challenge | 85560 | [85560-cricket-challenge.json](./85560-cricket-challenge.json) |
+| Cricket Club | 81886 | [81886-cricket-club.json](./81886-cricket-club.json) |
 | Cricket Heroes: VR | 295785 | [295785-cricket-heroes-vr.json](./295785-cricket-heroes-vr.json) |
 | Cricket League | 242218 | [242218-cricket-league.json](./242218-cricket-league.json) |
 | Cricket Manager 27 | 414308 | [414308-cricket-manager-27.json](./414308-cricket-manager-27.json) |
