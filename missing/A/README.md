@@ -701,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abismo | 380389 | [380389-abismo.json](./380389-abismo.json) |
 | Abject Abyss | 337788 | [337788-abject-abyss.json](./337788-abject-abyss.json) |
 | Ablaze Ascent | 192317 | [192317-ablaze-ascent.json](./192317-ablaze-ascent.json) |
+| Able Black | 30478 | [30478-able-black.json](./30478-able-black.json) |
 | Ablepsia | 67912 | [67912-ablepsia.json](./67912-ablepsia.json) |
 | Abnimality | 283872 | [283872-abnimality.json](./283872-abnimality.json) |
 | Abnormal Stairs | 316639 | [316639-abnormal-stairs.json](./316639-abnormal-stairs.json) |
@@ -1701,6 +1702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires: World Domination | 145567 | [145567-age-of-empires-world-domination.json](./145567-age-of-empires-world-domination.json) |
 | Age of Enchantment | 312672 | [312672-age-of-enchantment.json](./312672-age-of-enchantment.json) |
 | Age of Explorers | 396377 | [396377-age-of-explorers.json](./396377-age-of-explorers.json) |
+| Age of Farming | 30500 | [30500-age-of-farming.json](./30500-age-of-farming.json) |
 | Age of Fear 2: The Chaos Lord Gold | 180125 | [180125-age-of-fear-2-the-chaos-lord-gold.json](./180125-age-of-fear-2-the-chaos-lord-gold.json) |
 | Age of Fear 3: The Legend | 51550 | [51550-age-of-fear-3-the-legend.json](./51550-age-of-fear-3-the-legend.json) |
 | Age of Fear: The Undead King | 9952 | [9952-age-of-fear-the-undead-king.json](./9952-age-of-fear-the-undead-king.json) |
@@ -3646,6 +3648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among School Girls | 165006 | [165006-among-school-girls.json](./165006-among-school-girls.json) |
 | Among Stars | 211405 | [211405-among-stars.json](./211405-among-stars.json) |
 | Among the Dead Ones | 174671 | [174671-among-the-dead-ones.json](./174671-among-the-dead-ones.json) |
+| Among the Innocent: A Stricken Tale | 30439 | [30439-among-the-innocent-a-stricken-tale.json](./30439-among-the-innocent-a-stricken-tale.json) |
 | Among the Monolyths | 180786 | [180786-among-the-monolyths.json](./180786-among-the-monolyths.json) |
 | Among the Others | 313325 | [313325-among-the-others.json](./313325-among-the-others.json) |
 | Among the Sleep: Enhanced Edition | 114411 | [114411-among-the-sleep-enhanced-edition.json](./114411-among-the-sleep-enhanced-edition.json) |
@@ -3756,6 +3759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anaon | 274031 | [274031-anaon.json](./274031-anaon.json) |
 | Anarch | 184403 | [184403-anarch.json](./184403-anarch.json) |
 | Anarchy | 201298 | [201298-anarchy.json](./201298-anarchy.json) |
+| Anarchy Arcade | 30373 | [30373-anarchy-arcade.json](./30373-anarchy-arcade.json) |
 | Anarchy City 1: Atomic Version | 272002 | [272002-anarchy-city-1-atomic-version.json](./272002-anarchy-city-1-atomic-version.json) |
 | Anarchy City 2: Neighbourhood Nightmare | 272003 | [272003-anarchy-city-2-neighbourhood-nightmare.json](./272003-anarchy-city-2-neighbourhood-nightmare.json) |
 | Anarchy City 3: Zero Tolerance | 272004 | [272004-anarchy-city-3-zero-tolerance.json](./272004-anarchy-city-3-zero-tolerance.json) |
@@ -3824,6 +3828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Future | 82040 | [82040-ancient-future.json](./82040-ancient-future.json) |
 | Ancient Gladiators | 187251 | [187251-ancient-gladiators.json](./187251-ancient-gladiators.json) |
 | Ancient Glory | 129129 | [129129-ancient-glory.json](./129129-ancient-glory.json) |
+| Ancient Guardian | 30479 | [30479-ancient-guardian.json](./30479-ancient-guardian.json) |
 | Ancient Guardians: The Dragon | 234203 | [234203-ancient-guardians-the-dragon.json](./234203-ancient-guardians-the-dragon.json) |
 | Ancient Islands | 192031 | [192031-ancient-islands.json](./192031-ancient-islands.json) |
 | Ancient Islands | 192835 | [192835-ancient-islands.json](./192835-ancient-islands.json) |
@@ -5569,6 +5574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archery Land | 214036 | [214036-archery-land.json](./214036-archery-land.json) |
 | Archery Legend | 319942 | [319942-archery-legend.json](./319942-archery-legend.json) |
 | Archery Physics Objects Destruction Apple shooter | 100824 | [100824-archery-physics-objects-destruction-apple-shooter.json](./100824-archery-physics-objects-destruction-apple-shooter.json) |
+| Archery Practice VR | 29558 | [29558-archery-practice-vr.json](./29558-archery-practice-vr.json) |
 | Archery Pro | 311606 | [311606-archery-pro.json](./311606-archery-pro.json) |
 | Archery Showdown | 272788 | [272788-archery-showdown.json](./272788-archery-showdown.json) |
 | Archery Simulator | 217379 | [217379-archery-simulator.json](./217379-archery-simulator.json) |
@@ -7977,6 +7983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azure Striker Gunvolt 2 | 18197 | [18197-azure-striker-gunvolt-2.json](./18197-azure-striker-gunvolt-2.json) |
 | Azure Striker Gunvolt 3: Ex Image Pulses - Nova and Desna pack | 265595 | [265595-azure-striker-gunvolt-3-ex-image-pulses-nova-and-desna-pack.json](./265595-azure-striker-gunvolt-3-ex-image-pulses-nova-and-desna-pack.json) |
 | Azure Striker Gunvolt: Striker Pack | 29529 | [29529-azure-striker-gunvolt-striker-pack.json](./29529-azure-striker-gunvolt-striker-pack.json) |
+| Azurea Juncture | 30454 | [30454-azurea-juncture.json](./30454-azurea-juncture.json) |
 | Azurea: Sora no Uta | 216219 | [216219-azurea-sora-no-uta.json](./216219-azurea-sora-no-uta.json) |
 | Azurebreak Heroes | 121560 | [121560-azurebreak-heroes.json](./121560-azurebreak-heroes.json) |
 | Azurian Attack | 46771 | [46771-azurian-attack.json](./46771-azurian-attack.json) |
