@@ -4085,6 +4085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Potatoes! A Weapon Shop?!: Spud Tales - Journey to Olympus | 124836 | [124836-holy-potatoes-a-weapon-shop-spud-tales-journey-to-olympus.json](./124836-holy-potatoes-a-weapon-shop-spud-tales-journey-to-olympus.json) |
 | Holy Potatoes! Compedium: Badge Edition | 139833 | [139833-holy-potatoes-compedium-badge-edition.json](./139833-holy-potatoes-compedium-badge-edition.json) |
 | Holy Potatoes! Compendium | 137674 | [137674-holy-potatoes-compendium.json](./137674-holy-potatoes-compendium.json) |
+| Holy Road | 115216 | [115216-holy-road.json](./115216-holy-road.json) |
 | Holy Shift | 320337 | [320337-holy-shift.json](./320337-holy-shift.json) |
 | Holy Ship | 249196 | [249196-holy-ship.json](./249196-holy-ship.json) |
 | Holy Shit | 202726 | [202726-holy-shit.json](./202726-holy-shit.json) |
@@ -5418,6 +5419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt | 95447 | [95447-hunt.json](./95447-hunt.json) |
 | Hunt 'n Sneak | 111193 | [111193-hunt-n-sneak.json](./111193-hunt-n-sneak.json) |
 | Hunt and Fight | 291223 | [291223-hunt-and-fight.json](./291223-hunt-and-fight.json) |
+| Hunt and Snare | 111269 | [111269-hunt-and-snare.json](./111269-hunt-and-snare.json) |
 | Hunt Arena: Fire Battle Royale | 260710 | [260710-hunt-arena-fire-battle-royale.json](./260710-hunt-arena-fire-battle-royale.json) |
 | Hunt Asylum Together | 406702 | [406702-hunt-asylum-together.json](./406702-hunt-asylum-together.json) |
 | Hunt Cook: Catch and Serve | 308356 | [308356-hunt-cook-catch-and-serve.json](./308356-hunt-cook-catch-and-serve.json) |
