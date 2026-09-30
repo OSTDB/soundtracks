@@ -1287,6 +1287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cars and Trucks: preschool toddler learning games, learn shapes & colors | 90140 | [90140-cars-and-trucks-preschool-toddler-learning-games-learn-shapes-and-colors.json](./90140-cars-and-trucks-preschool-toddler-learning-games-learn-shapes-and-colors.json) |
 | Cars Mater-National Championship | 281854 | [281854-cars-mater-national-championship.json](./281854-cars-mater-national-championship.json) |
 | Cars Mater-National Championship | 4748 | [4748-cars-mater-national-championship.json](./4748-cars-mater-national-championship.json) |
+| Cars Toon | 36249 | [36249-cars-toon.json](./36249-cars-toon.json) |
 | Cars Toon: Tokyo Mater | 230550 | [230550-cars-toon-tokyo-mater.json](./230550-cars-toon-tokyo-mater.json) |
 | Cars vs Train | 230939 | [230939-cars-vs-train.json](./230939-cars-vs-train.json) |
 | Cars vs. TNT | 179154 | [179154-cars-vs-tnt.json](./179154-cars-vs-tnt.json) |
@@ -1834,6 +1835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catacombs | 25918 | [25918-catacombs.json](./25918-catacombs.json) |
 | Catacombs 1: Demon War | 43505 | [43505-catacombs-1-demon-war.json](./43505-catacombs-1-demon-war.json) |
 | Catacombs of the Phantoms | 356691 | [356691-catacombs-of-the-phantoms.json](./356691-catacombs-of-the-phantoms.json) |
+| Catacombs of the Undercity | 35682 | [35682-catacombs-of-the-undercity.json](./35682-catacombs-of-the-undercity.json) |
 | Catacombs Pack | 154420 | [154420-catacombs-pack.json](./154420-catacombs-pack.json) |
 | Catacombs: The Asper Case | 235854 | [235854-catacombs-the-asper-case.json](./235854-catacombs-the-asper-case.json) |
 | Cataegis : The White Wind | 35920 | [35920-cataegis-the-white-wind.json](./35920-cataegis-the-white-wind.json) |
@@ -5522,6 +5524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colossal Cave | 215119 | [215119-colossal-cave.json](./215119-colossal-cave.json) |
 | Colossal Cave Adventure | 265733 | [265733-colossal-cave-adventure.json](./265733-colossal-cave-adventure.json) |
 | Colossal Cave VR | 253587 | [253587-colossal-cave-vr.json](./253587-colossal-cave-vr.json) |
+| Colossal Kaiju Combat: Kaijuland Battles | 36353 | [36353-colossal-kaiju-combat-kaijuland-battles.json](./36353-colossal-kaiju-combat-kaijuland-battles.json) |
 | Colossal Saga | 126663 | [126663-colossal-saga.json](./126663-colossal-saga.json) |
 | Colossatron: Cosmic Crisis | 317377 | [317377-colossatron-cosmic-crisis.json](./317377-colossatron-cosmic-crisis.json) |
 | Colossatron: Massive World Threat | 62546 | [62546-colossatron-massive-world-threat.json](./62546-colossatron-massive-world-threat.json) |
@@ -5815,6 +5818,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Company of Heroes 2: Soviet Commander - Tank Hunter Tactics | 168292 | [168292-company-of-heroes-2-soviet-commander-tank-hunter-tactics.json](./168292-company-of-heroes-2-soviet-commander-tank-hunter-tactics.json) |
 | Company of Heroes 2: Soviet Commander - Terror Tactics | 168293 | [168293-company-of-heroes-2-soviet-commander-terror-tactics.json](./168293-company-of-heroes-2-soviet-commander-terror-tactics.json) |
 | Company of Heroes 2: The British Forces | 11496 | [11496-company-of-heroes-2-the-british-forces.json](./11496-company-of-heroes-2-the-british-forces.json) |
+| Company of Heroes 2: The Western Front Armies - Oberkommando West | 36375 | [36375-company-of-heroes-2-the-western-front-armies-oberkommando-west.json](./36375-company-of-heroes-2-the-western-front-armies-oberkommando-west.json) |
+| Company of Heroes 2: The Western Front Armies - US Forces | 36374 | [36374-company-of-heroes-2-the-western-front-armies-us-forces.json](./36374-company-of-heroes-2-the-western-front-armies-us-forces.json) |
 | Company of Heroes 2: US Forces Commander - Rifle Company | 168290 | [168290-company-of-heroes-2-us-forces-commander-rifle-company.json](./168290-company-of-heroes-2-us-forces-commander-rifle-company.json) |
 | Company of Heroes 2: Victory at Stalingrad | 52834 | [52834-company-of-heroes-2-victory-at-stalingrad.json](./52834-company-of-heroes-2-victory-at-stalingrad.json) |
 | Company of Heroes 3 | 156150 | [156150-company-of-heroes-3.json](./156150-company-of-heroes-3.json) |
