@@ -1634,6 +1634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Fire: Afghanistan | 982 | [982-heavy-fire-afghanistan.json](./982-heavy-fire-afghanistan.json) |
 | Heavy Fire: Black Arms | 65497 | [65497-heavy-fire-black-arms.json](./65497-heavy-fire-black-arms.json) |
 | Heavy Fire: Black Arms 3D | 85628 | [85628-heavy-fire-black-arms-3d.json](./85628-heavy-fire-black-arms-3d.json) |
+| Heavy Fire: Special Operations 3D | 23589 | [23589-heavy-fire-special-operations-3d.json](./23589-heavy-fire-special-operations-3d.json) |
 | Heavy Front | 380710 | [380710-heavy-front.json](./380710-heavy-front.json) |
 | Heavy Gear | 51364 | [51364-heavy-gear.json](./51364-heavy-gear.json) |
 | Heavy Gear Assault | 26704 | [26704-heavy-gear-assault.json](./26704-heavy-gear-assault.json) |
@@ -1975,6 +1976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Guest | 140605 | [140605-hello-guest.json](./140605-hello-guest.json) |
 | Hello Helix | 108494 | [108494-hello-helix.json](./108494-hello-helix.json) |
 | Hello Hello | 184492 | [184492-hello-hello.json](./184492-hello-hello.json) |
+| Hello Hero | 23590 | [23590-hello-hero.json](./23590-hello-hero.json) |
 | Hello inc VR | 28941 | [28941-hello-inc-vr.json](./28941-hello-inc-vr.json) |
 | Hello Kitty & Friends: Rock n' World Tour | 83210 | [83210-hello-kitty-and-friends-rock-n-world-tour.json](./83210-hello-kitty-and-friends-rock-n-world-tour.json) |
 | Hello Kitty and Friends: Happiness Parade | 204458 | [204458-hello-kitty-and-friends-happiness-parade.json](./204458-hello-kitty-and-friends-happiness-parade.json) |
