@@ -3330,6 +3330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BibleGirl's Big Apple | 56448 | [56448-biblegirls-big-apple.json](./56448-biblegirls-big-apple.json) |
 | Biblically Inaccurate | 374043 | [374043-biblically-inaccurate.json](./374043-biblically-inaccurate.json) |
 | Biblios: Tome of Darkness | 306343 | [306343-biblios-tome-of-darkness.json](./306343-biblios-tome-of-darkness.json) |
+| Biblioteksspel | 393749 | [393749-biblioteksspel.json](./393749-biblioteksspel.json) |
 | Biblistry | 58797 | [58797-biblistry.json](./58797-biblistry.json) |
 | Bibou | 32916 | [32916-bibou.json](./32916-bibou.json) |
 | Bic's Christmas Tale | 317344 | [317344-bics-christmas-tale.json](./317344-bics-christmas-tale.json) |
@@ -6048,6 +6049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Slingers | 142879 | [142879-boom-slingers.json](./142879-boom-slingers.json) |
 | Boom Zoo | 297226 | [297226-boom-zoo.json](./297226-boom-zoo.json) |
 | Boom-Bahh | 43537 | [43537-boom-bahh.json](./43537-boom-bahh.json) |
+| Boom-Bap!! | 393739 | [393739-boom-bap.json](./393739-boom-bap.json) |
 | Boom! | 203894 | [203894-boom.json](./203894-boom.json) |
 | Boom! | 251582 | [251582-boom.json](./251582-boom.json) |
 | Boom! Boom! | 115691 | [115691-boom-boom.json](./115691-boom-boom.json) |
