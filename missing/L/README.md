@@ -3608,6 +3608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord Monarch | 37941 | [37941-lord-monarch.json](./37941-lord-monarch.json) |
 | Lord Monarch: Tokoton Sentou Densetsu | 46074 | [46074-lord-monarch-tokoton-sentou-densetsu.json](./46074-lord-monarch-tokoton-sentou-densetsu.json) |
 | Lord O' Pirates | 258528 | [258528-lord-o-pirates.json](./258528-lord-o-pirates.json) |
+| Lord of Anatolia | 390208 | [390208-lord-of-anatolia.json](./390208-lord-of-anatolia.json) |
 | Lord of Apocalypse | 92600 | [92600-lord-of-apocalypse.json](./92600-lord-of-apocalypse.json) |
 | Lord of Bones | 236265 | [236265-lord-of-bones.json](./236265-lord-of-bones.json) |
 | Lord of Darkness | 42586 | [42586-lord-of-darkness.json](./42586-lord-of-darkness.json) |
