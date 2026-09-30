@@ -3973,6 +3973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hold On | 419843 | [419843-hold-on.json](./419843-hold-on.json) |
 | Hold Position:Zombie | 239586 | [239586-hold-position-zombie.json](./239586-hold-position-zombie.json) |
 | Hold the Door | 244742 | [244742-hold-the-door.json](./244742-hold-the-door.json) |
+| Hold The Line | 408209 | [408209-hold-the-line.json](./408209-hold-the-line.json) |
 | Hold the Line: The American Revolution | 55518 | [55518-hold-the-line-the-american-revolution.json](./55518-hold-the-line-the-american-revolution.json) |
 | Hold the Mine | 362284 | [362284-hold-the-mine.json](./362284-hold-the-mine.json) |
 | Hold The Noise | 292286 | [292286-hold-the-noise.json](./292286-hold-the-noise.json) |
