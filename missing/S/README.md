@@ -8854,6 +8854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Empires III | 15651 | [15651-space-empires-iii.json](./15651-space-empires-iii.json) |
 | Space Empires IV | 15611 | [15611-space-empires-iv.json](./15611-space-empires-iv.json) |
 | Space Empires IV Deluxe | 19350 | [19350-space-empires-iv-deluxe.json](./19350-space-empires-iv-deluxe.json) |
+| Space Empires V | 15614 | [15614-space-empires-v.json](./15614-space-empires-v.json) |
 | Space Empires: Starfury | 15652 | [15652-space-empires-starfury.json](./15652-space-empires-starfury.json) |
 | Space Endeavor | 173266 | [173266-space-endeavor.json](./173266-space-endeavor.json) |
 | Space Engineers 2 | 326578 | [326578-space-engineers-2.json](./326578-space-engineers-2.json) |
@@ -10495,6 +10496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Snatcher | 73817 | [73817-spy-snatcher.json](./73817-spy-snatcher.json) |
 | Spy Story | 142350 | [142350-spy-story.json](./142350-spy-story.json) |
 | Spy Tactics | 120359 | [120359-spy-tactics.json](./120359-spy-tactics.json) |
+| Spy vs. Spy II: The Island Caper | 12772 | [12772-spy-vs-spy-ii-the-island-caper.json](./12772-spy-vs-spy-ii-the-island-caper.json) |
 | Spy Vs. Spy: Volumes I & II | 77397 | [77397-spy-vs-spy-volumes-i-and-ii.json](./77397-spy-vs-spy-volumes-i-and-ii.json) |
 | Spy x Anya: Operation Memories - Deluxe Outing Pack | 308814 | [308814-spy-x-anya-operation-memories-deluxe-outing-pack.json](./308814-spy-x-anya-operation-memories-deluxe-outing-pack.json) |
 | Spy x Anya: Operation Memories - Excited Outifit Pack | 308815 | [308815-spy-x-anya-operation-memories-excited-outifit-pack.json](./308815-spy-x-anya-operation-memories-excited-outifit-pack.json) |
@@ -11351,6 +11353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarCraft: Retribution | 66116 | [66116-starcraft-retribution.json](./66116-starcraft-retribution.json) |
 | Starcraft: Stellar Forces | 135274 | [135274-starcraft-stellar-forces.json](./135274-starcraft-stellar-forces.json) |
 | StarCraft: Stratospace | 135273 | [135273-starcraft-stratospace.json](./135273-starcraft-stratospace.json) |
+| StarCrawlers | 15197 | [15197-starcrawlers.json](./15197-starcrawlers.json) |
 | Starcrest Saga | 394368 | [394368-starcrest-saga.json](./394368-starcrest-saga.json) |
 | Starcross Arena | 111901 | [111901-starcross-arena.json](./111901-starcross-arena.json) |
 | StarCrossed | 28770 | [28770-starcrossed.json](./28770-starcrossed.json) |
