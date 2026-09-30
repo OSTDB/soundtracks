@@ -289,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ebanashi: Kaiwa | 195216 | [195216-ebanashi-kaiwa.json](./195216-ebanashi-kaiwa.json) |
 | EBaseball MLB Pro Spirit | 321590 | [321590-ebaseball-mlb-pro-spirit.json](./321590-ebaseball-mlb-pro-spirit.json) |
 | eBaseball Professional Yakyuu Spirits 2021: Grand Slam | 143624 | [143624-ebaseball-professional-yakyuu-spirits-2021-grand-slam.json](./143624-ebaseball-professional-yakyuu-spirits-2021-grand-slam.json) |
+| EBaseball: Pro Spirit | 393762 | [393762-ebaseball-pro-spirit.json](./393762-ebaseball-pro-spirit.json) |
 | eBaseball: Pro Spirit 2026 | 410262 | [410262-ebaseball-pro-spirit-2026.json](./410262-ebaseball-pro-spirit-2026.json) |
 | Eberouge | 97318 | [97318-eberouge.json](./97318-eberouge.json) |
 | EbiTapes | 238731 | [238731-ebitapes.json](./238731-ebitapes.json) |
@@ -2780,6 +2781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Vault | 286083 | [286083-eternal-vault.json](./286083-eternal-vault.json) |
 | Eternal Warfare | 166617 | [166617-eternal-warfare.json](./166617-eternal-warfare.json) |
 | Eternal Wheel | 64961 | [64961-eternal-wheel.json](./64961-eternal-wheel.json) |
+| Eternal Zone Online | 393761 | [393761-eternal-zone-online.json](./393761-eternal-zone-online.json) |
 | Eternally Us | 123002 | [123002-eternally-us.json](./123002-eternally-us.json) |
 | Eternally Yours | 261545 | [261545-eternally-yours.json](./261545-eternally-yours.json) |
 | Eternals' Path | 249999 | [249999-eternals-path.json](./249999-eternals-path.json) |
@@ -3066,6 +3068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everhold | 413879 | [413879-everhold.json](./413879-everhold.json) |
 | Everhood | 132083 | [132083-everhood.json](./132083-everhood.json) |
 | Everhood 2 | 253100 | [253100-everhood-2.json](./253100-everhood-2.json) |
+| Everhood Hunters | 393729 | [393729-everhood-hunters.json](./393729-everhood-hunters.json) |
 | Evering | 182386 | [182386-evering.json](./182386-evering.json) |
 | Everlands | 200130 | [200130-everlands.json](./200130-everlands.json) |
 | Everlasting Guilt | 155084 | [155084-everlasting-guilt.json](./155084-everlasting-guilt.json) |
