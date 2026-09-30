@@ -4305,6 +4305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack In Space | 88200 | [88200-blackjack-in-space.json](./88200-blackjack-in-space.json) |
 | Blackjack Player | 88437 | [88437-blackjack-player.json](./88437-blackjack-player.json) |
 | Blackjack Roulette | 380530 | [380530-blackjack-roulette.json](./380530-blackjack-roulette.json) |
+| Blackjack Roulette | 390217 | [390217-blackjack-roulette.json](./390217-blackjack-roulette.json) |
 | Blackjack Simulator 2024 | 266297 | [266297-blackjack-simulator-2024.json](./266297-blackjack-simulator-2024.json) |
 | Blackjack story | 180119 | [180119-blackjack-story.json](./180119-blackjack-story.json) |
 | Blackjack Tavern | 325071 | [325071-blackjack-tavern.json](./325071-blackjack-tavern.json) |
@@ -8457,6 +8458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | By Bait or By Bullet | 369238 | [369238-by-bait-or-by-bullet.json](./369238-by-bait-or-by-bullet.json) |
 | By Grit Alone | 306947 | [306947-by-grit-alone.json](./306947-by-grit-alone.json) |
 | By Moonlight | 114968 | [114968-by-moonlight.json](./114968-by-moonlight.json) |
+| By Myself | 390185 | [390185-by-myself.json](./390185-by-myself.json) |
 | By Sword & Road | 394371 | [394371-by-sword-and-road.json](./394371-by-sword-and-road.json) |
 | By the King's Command | 399008 | [399008-by-the-kings-command.json](./399008-by-the-kings-command.json) |
 | By the Numbers | 413892 | [413892-by-the-numbers.json](./413892-by-the-numbers.json) |
