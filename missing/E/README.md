@@ -2564,6 +2564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Esklavos C7 | 315073 | [315073-esklavos-c7.json](./315073-esklavos-c7.json) |
 | Esklavos C8 | 315074 | [315074-esklavos-c8.json](./315074-esklavos-c8.json) |
 | Esklavos C9 | 315075 | [315075-esklavos-c9.json](./315075-esklavos-c9.json) |
+| Eslabong | 411092 | [411092-eslabong.json](./411092-eslabong.json) |
 | Eslander | 120993 | [120993-eslander.json](./120993-eslander.json) |
 | ESmart 2.0 | 269605 | [269605-esmart-2-0.json](./269605-esmart-2-0.json) |
 | ESMO: Esports Manager Online | 375291 | [375291-esmo-esports-manager-online.json](./375291-esmo-esports-manager-online.json) |
@@ -3476,6 +3477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exorcism Agency | 355208 | [355208-exorcism-agency.json](./355208-exorcism-agency.json) |
 | Exorcism Express | 181153 | [181153-exorcism-express.json](./181153-exorcism-express.json) |
 | Exorcism: Case Zero | 72489 | [72489-exorcism-case-zero.json](./72489-exorcism-case-zero.json) |
+| Exorcist | 411051 | [411051-exorcist.json](./411051-exorcist.json) |
 | Exorcist 2: Crow Magic | 236845 | [236845-exorcist-2-crow-magic.json](./236845-exorcist-2-crow-magic.json) |
 | Exorcist Onmyoji | 304875 | [304875-exorcist-onmyoji.json](./304875-exorcist-onmyoji.json) |
 | Exorcist Simulator | 259005 | [259005-exorcist-simulator.json](./259005-exorcist-simulator.json) |
