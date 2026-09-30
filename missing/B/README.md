@@ -5355,6 +5355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Ridge Hunting | 265390 | [265390-blue-ridge-hunting.json](./265390-blue-ridge-hunting.json) |
 | Blue Roses: Yousei to Aoi Hitomi no Senshi-tachi | 56538 | [56538-blue-roses-yousei-to-aoi-hitomi-no-senshi-tachi.json](./56538-blue-roses-yousei-to-aoi-hitomi-no-senshi-tachi.json) |
 | Blue Sango | 263595 | [263595-blue-sango.json](./263595-blue-sango.json) |
+| Blue Sign | 412477 | [412477-blue-sign.json](./412477-blue-sign.json) |
 | Blue Skies | 63858 | [63858-blue-skies.json](./63858-blue-skies.json) |
 | Blue sky fighter | 129076 | [129076-blue-sky-fighter.json](./129076-blue-sky-fighter.json) |
 | Blue Solar: Chaos War | 32057 | [32057-blue-solar-chaos-war.json](./32057-blue-solar-chaos-war.json) |
@@ -5667,6 +5668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bolo | 376750 | [376750-bolo.json](./376750-bolo.json) |
 | Bolo | 95468 | [95468-bolo.json](./95468-bolo.json) |
 | Bolo Ball | 94224 | [94224-bolo-ball.json](./94224-bolo-ball.json) |
+| Bolsheviktion 2: Yurovsky's Revenge | 412479 | [412479-bolsheviktion-2-yurovskys-revenge.json](./412479-bolsheviktion-2-yurovskys-revenge.json) |
 | Bolt | 222926 | [222926-bolt.json](./222926-bolt.json) |
 | Bolt | 4723 | [4723-bolt.json](./4723-bolt.json) |
 | Bolt Action | 380996 | [380996-bolt-action.json](./380996-bolt-action.json) |
@@ -6176,6 +6178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boss Pit | 394823 | [394823-boss-pit.json](./394823-boss-pit.json) |
 | Boss Rush: Mythology | 141079 | [141079-boss-rush-mythology.json](./141079-boss-rush-mythology.json) |
 | Boss Simulator | 293109 | [293109-boss-simulator.json](./293109-boss-simulator.json) |
+| Boss Slayers | 412466 | [412466-boss-slayers.json](./412466-boss-slayers.json) |
 | Boss Up | 365056 | [365056-boss-up.json](./365056-boss-up.json) |
 | Boss! | 60766 | [60766-boss.json](./60766-boss.json) |
 | Bossfight Tactics | 346141 | [346141-bossfight-tactics.json](./346141-bossfight-tactics.json) |
@@ -7029,6 +7032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breu: Shadow Hunt | 233634 | [233634-breu-shadow-hunt.json](./233634-breu-shadow-hunt.json) |
 | Brew & Brawl: Gnomes vs. Dwarves | 140530 | [140530-brew-and-brawl-gnomes-vs-dwarves.json](./140530-brew-and-brawl-gnomes-vs-dwarves.json) |
 | Brew & Dash | 381282 | [381282-brew-and-dash.json](./381282-brew-and-dash.json) |
+| Brew & Defend | 412495 | [412495-brew-and-defend.json](./412495-brew-and-defend.json) |
 | Brew-Ha | 89386 | [89386-brew-ha.json](./89386-brew-ha.json) |
 | Brewconomy | 372656 | [372656-brewconomy.json](./372656-brewconomy.json) |
 | Brewer | 117386 | [117386-brewer.json](./117386-brewer.json) |
