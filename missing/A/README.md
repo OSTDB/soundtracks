@@ -112,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Desert Christmas Story | 235974 | [235974-a-desert-christmas-story.json](./235974-a-desert-christmas-story.json) |
 | A Detective Game | 302498 | [302498-a-detective-game.json](./302498-a-detective-game.json) |
 | A Detective's Novel | 27921 | [27921-a-detectives-novel.json](./27921-a-detectives-novel.json) |
+| A Diamond Display | 397163 | [397163-a-diamond-display.json](./397163-a-diamond-display.json) |
 | A different summer | 278426 | [278426-a-different-summer.json](./278426-a-different-summer.json) |
 | A Difficult Game About Climbing | 283892 | [283892-a-difficult-game-about-climbing.json](./283892-a-difficult-game-about-climbing.json) |
 | A Difficult Game About Rolling: ReUpRise | 293739 | [293739-a-difficult-game-about-rolling-reuprise.json](./293739-a-difficult-game-about-rolling-reuprise.json) |
@@ -237,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Kishoutenketsu in the Countryside | 134688 | [134688-a-kishoutenketsu-in-the-countryside.json](./134688-a-kishoutenketsu-in-the-countryside.json) |
 | A Kiss for the Petals - Remembering How We Met | 34585 | [34585-a-kiss-for-the-petals-remembering-how-we-met.json](./34585-a-kiss-for-the-petals-remembering-how-we-met.json) |
 | A Kiss Of Salt Water | 301907 | [301907-a-kiss-of-salt-water.json](./301907-a-kiss-of-salt-water.json) |
+| A Kitten Seeks the Moon | 397177 | [397177-a-kitten-seeks-the-moon.json](./397177-a-kitten-seeks-the-moon.json) |
 | A Knight Never Yields | 148486 | [148486-a-knight-never-yields.json](./148486-a-knight-never-yields.json) |
 | A Knight's Devotion | 238410 | [238410-a-knights-devotion.json](./238410-a-knights-devotion.json) |
 | A Knight's Life | 197750 | [197750-a-knights-life.json](./197750-a-knights-life.json) |
