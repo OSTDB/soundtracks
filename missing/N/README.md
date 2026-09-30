@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namachuukei 68 | 127787 | [127787-namachuukei-68.json](./127787-namachuukei-68.json) |
 | Namaiki Dark Elf 3 Shimai ga Boku ni Nakadashi o Motomeru. | 108976 | [108976-namaiki-dark-elf-3-shimai-ga-boku-ni-nakadashi-o-motomeru.json](./108976-namaiki-dark-elf-3-shimai-ga-boku-ni-nakadashi-o-motomeru.json) |
 | Namakorium | 363010 | [363010-namakorium.json](./363010-namakorium.json) |
+| Namariel Legends: Iron Lord - Premium Edition | 36273 | [36273-namariel-legends-iron-lord-premium-edition.json](./36273-namariel-legends-iron-lord-premium-edition.json) |
 | Namco All-Stars: Dig Dug | 284372 | [284372-namco-all-stars-dig-dug.json](./284372-namco-all-stars-dig-dug.json) |
 | Namco All-Stars: Pac-Man | 284371 | [284371-namco-all-stars-pac-man.json](./284371-namco-all-stars-pac-man.json) |
 | Namco All-Stars: Pac-Man and Dig Dug | 284373 | [284373-namco-all-stars-pac-man-and-dig-dug.json](./284373-namco-all-stars-pac-man-and-dig-dug.json) |
@@ -1230,6 +1231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Runners | 288831 | [288831-neon-runners.json](./288831-neon-runners.json) |
 | Neon Rush | 290554 | [290554-neon-rush.json](./290554-neon-rush.json) |
 | Neon Sex Dream | 231352 | [231352-neon-sex-dream.json](./231352-neon-sex-dream.json) |
+| Neon Shadow | 36331 | [36331-neon-shadow.json](./36331-neon-shadow.json) |
 | Neon Ships: The Type'em Up Shooter | 143707 | [143707-neon-ships-the-typeem-up-shooter.json](./143707-neon-ships-the-typeem-up-shooter.json) |
 | Neon Shooter | 158651 | [158651-neon-shooter.json](./158651-neon-shooter.json) |
 | Neon Snap | 140597 | [140597-neon-snap.json](./140597-neon-snap.json) |
