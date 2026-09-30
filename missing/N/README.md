@@ -1499,6 +1499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverwinter: Undermountain | 115474 | [115474-neverwinter-undermountain.json](./115474-neverwinter-undermountain.json) |
 | Neverwood | 401788 | [401788-neverwood.json](./401788-neverwood.json) |
 | Nevrosa: Escape | 68172 | [68172-nevrosa-escape.json](./68172-nevrosa-escape.json) |
+| Nevrosa: Prelude | 27446 | [27446-nevrosa-prelude.json](./27446-nevrosa-prelude.json) |
 | Nevrosa: Primal Ritual | 118427 | [118427-nevrosa-primal-ritual.json](./118427-nevrosa-primal-ritual.json) |
 | Nevrosa: Spider Song | 118810 | [118810-nevrosa-spider-song.json](./118810-nevrosa-spider-song.json) |
 | Nevryon | 261332 | [261332-nevryon.json](./261332-nevryon.json) |
@@ -2441,6 +2442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Girls: Kunoichi Puzzle | 315840 | [315840-ninja-girls-kunoichi-puzzle.json](./315840-ninja-girls-kunoichi-puzzle.json) |
 | Ninja Glove | 338937 | [338937-ninja-glove.json](./338937-ninja-glove.json) |
 | Ninja Golf | 11121 | [11121-ninja-golf.json](./11121-ninja-golf.json) |
+| Ninja Guy | 27582 | [27582-ninja-guy.json](./27582-ninja-guy.json) |
 | Ninja Hagakure | 215621 | [215621-ninja-hagakure.json](./215621-ninja-hagakure.json) |
 | Ninja Hamster | 39150 | [39150-ninja-hamster.json](./39150-ninja-hamster.json) |
 | Ninja Hands | 266254 | [266254-ninja-hands.json](./266254-ninja-hands.json) |
