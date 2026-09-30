@@ -3990,6 +3990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River Climbing | 333166 | [333166-river-climbing.json](./333166-river-climbing.json) |
 | River Crossing IQ - Trivia Quiz | 117749 | [117749-river-crossing-iq-trivia-quiz.json](./117749-river-crossing-iq-trivia-quiz.json) |
 | River God: Enshrouded Current | 304627 | [304627-river-god-enshrouded-current.json](./304627-river-god-enshrouded-current.json) |
+| River King | 398492 | [398492-river-king.json](./398492-river-king.json) |
 | River King: A Wonderful Journey | 20518 | [20518-river-king-a-wonderful-journey.json](./20518-river-king-a-wonderful-journey.json) |
 | River King: Mystic Valley | 20520 | [20520-river-king-mystic-valley.json](./20520-river-king-mystic-valley.json) |
 | River Legends | 174206 | [174206-river-legends.json](./174206-river-legends.json) |
