@@ -1983,6 +1983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death from Unknown: Survival | 93710 | [93710-death-from-unknown-survival.json](./93710-death-from-unknown-survival.json) |
 | Death Game | 206153 | [206153-death-game.json](./206153-death-game.json) |
 | Death Game Hotel | 251554 | [251554-death-game-hotel.json](./251554-death-game-hotel.json) |
+| Death Goat | 19873 | [19873-death-goat.json](./19873-death-goat.json) |
 | Death Hall | 116377 | [116377-death-hall.json](./116377-death-hall.json) |
 | Death Imminent | 379014 | [379014-death-imminent.json](./379014-death-imminent.json) |
 | Death in a Party | 381738 | [381738-death-in-a-party.json](./381738-death-in-a-party.json) |
