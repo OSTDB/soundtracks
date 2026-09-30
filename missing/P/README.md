@@ -4441,6 +4441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platform Racing 2 | 98010 | [98010-platform-racing-2.json](./98010-platform-racing-2.json) |
 | Platform Roll | 207535 | [207535-platform-roll.json](./207535-platform-roll.json) |
 | Platform Run | 324296 | [324296-platform-run.json](./324296-platform-run.json) |
+| Platform Terror | 393743 | [393743-platform-terror.json](./393743-platform-terror.json) |
 | Platform Tower | 249230 | [249230-platform-tower.json](./249230-platform-tower.json) |
 | Platformance: Castle Pain | 66389 | [66389-platformance-castle-pain.json](./66389-platformance-castle-pain.json) |
 | Platformer Execute | 163980 | [163980-platformer-execute.json](./163980-platformer-execute.json) |
@@ -5377,6 +5378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Chase Crime: Racing Car | 107672 | [107672-police-chase-crime-racing-car.json](./107672-police-chase-crime-racing-car.json) |
 | Police Chopper | 87917 | [87917-police-chopper.json](./87917-police-chopper.json) |
 | Police Enforcement VR : 1-K-27 | 97014 | [97014-police-enforcement-vr-1-k-27.json](./97014-police-enforcement-vr-1-k-27.json) |
+| Police Girls | 393765 | [393765-police-girls.json](./393765-police-girls.json) |
 | Police Helicopter Simulator | 111959 | [111959-police-helicopter-simulator.json](./111959-police-helicopter-simulator.json) |
 | Police Officer | 415218 | [415218-police-officer.json](./415218-police-officer.json) |
 | Police on Duty | 209656 | [209656-police-on-duty.json](./209656-police-on-duty.json) |
