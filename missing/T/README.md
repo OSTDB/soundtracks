@@ -2170,6 +2170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terraria: The Stars Above | 223034 | [223034-terraria-the-stars-above.json](./223034-terraria-the-stars-above.json) |
 | TerrariaCraft | 300699 | [300699-terrariacraft.json](./300699-terrariacraft.json) |
 | Terrarium: Garden Idle | 116433 | [116433-terrarium-garden-idle.json](./116433-terrarium-garden-idle.json) |
+| Terrarium.live | 405646 | [405646-terrarium-live.json](./405646-terrarium-live.json) |
 | TerraScape | 239642 | [239642-terrascape.json](./239642-terrascape.json) |
 | TerraStorm | 289314 | [289314-terrastorm.json](./289314-terrastorm.json) |
 | TerraTech Legion | 348307 | [348307-terratech-legion.json](./348307-terratech-legion.json) |
@@ -2709,6 +2710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Alpha 001 | 168369 | [168369-the-alpha-001.json](./168369-the-alpha-001.json) |
 | The Alpha Wolf | 244258 | [244258-the-alpha-wolf.json](./244258-the-alpha-wolf.json) |
 | The Alpine Encounter | 12252 | [12252-the-alpine-encounter.json](./12252-the-alpine-encounter.json) |
+| The Alternate Universe | 405648 | [405648-the-alternate-universe.json](./405648-the-alternate-universe.json) |
 | The Alters: Signature Edition | 381720 | [381720-the-alters-signature-edition.json](./381720-the-alters-signature-edition.json) |
 | The Amazeing Labyrinth | 57085 | [57085-the-amazeing-labyrinth.json](./57085-the-amazeing-labyrinth.json) |
 | The Amazing Adventures of ANSI Dude | 79231 | [79231-the-amazing-adventures-of-ansi-dude.json](./79231-the-amazing-adventures-of-ansi-dude.json) |
@@ -3060,6 +3062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Big KO! | 15671 | [15671-the-big-ko.json](./15671-the-big-ko.json) |
 | The Big Lebowski Bowling | 312336 | [312336-the-big-lebowski-bowling.json](./312336-the-big-lebowski-bowling.json) |
 | The Big Mining | 235866 | [235866-the-big-mining.json](./235866-the-big-mining.json) |
+| The Big Number | 405629 | [405629-the-big-number.json](./405629-the-big-number.json) |
 | The Big One | 239081 | [239081-the-big-one.json](./239081-the-big-one.json) |
 | The Big Picture | 206346 | [206346-the-big-picture.json](./206346-the-big-picture.json) |
 | The Big Red Adventure | 12404 | [12404-the-big-red-adventure.json](./12404-the-big-red-adventure.json) |
@@ -3182,6 +3185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Book of Weapons | 197360 | [197360-the-book-of-weapons.json](./197360-the-book-of-weapons.json) |
 | The Book of Yorle: Save the Village | 169964 | [169964-the-book-of-yorle-save-the-village.json](./169964-the-book-of-yorle-save-the-village.json) |
 | The Books Tale: A Hop Adventure | 249844 | [249844-the-books-tale-a-hop-adventure.json](./249844-the-books-tale-a-hop-adventure.json) |
+| The Boomies Show | 405633 | [405633-the-boomies-show.json](./405633-the-boomies-show.json) |
 | The Boondock Saints Video Game | 95391 | [95391-the-boondock-saints-video-game.json](./95391-the-boondock-saints-video-game.json) |
 | The Boons of IIUIR | 374690 | [374690-the-boons-of-iiuir.json](./374690-the-boons-of-iiuir.json) |
 | The Borderless | 406117 | [406117-the-borderless.json](./406117-the-borderless.json) |
@@ -7642,6 +7646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Show Must Go On | 179583 | [179583-the-show-must-go-on.json](./179583-the-show-must-go-on.json) |
 | The Showdown Effect | 9070 | [9070-the-showdown-effect.json](./9070-the-showdown-effect.json) |
 | The Showdown Effect: Deluxe Edition | 53779 | [53779-the-showdown-effect-deluxe-edition.json](./53779-the-showdown-effect-deluxe-edition.json) |
+| The Shu Legend | 405566 | [405566-the-shu-legend.json](./405566-the-shu-legend.json) |
 | The Siege of Brimir | 231394 | [231394-the-siege-of-brimir.json](./231394-the-siege-of-brimir.json) |
 | The Siege of Jeomdo | 258199 | [258199-the-siege-of-jeomdo.json](./258199-the-siege-of-jeomdo.json) |
 | The Sign | 241634 | [241634-the-sign.json](./241634-the-sign.json) |
