@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F.I.S.T.: Forged In Shadow Torch - Limited Edition | 284481 | [284481-f-i-s-t-forged-in-shadow-torch-limited-edition.json](./284481-f-i-s-t-forged-in-shadow-torch-limited-edition.json) |
 | F.I.T. | 287752 | [287752-f-i-t.json](./287752-f-i-t.json) |
 | F.O.S | 144257 | [144257-f-o-s.json](./144257-f-o-s.json) |
+| F.R.A.X: Blackout | 403127 | [403127-f-r-a-x-blackout.json](./403127-f-r-a-x-blackout.json) |
 | F*ck Stalin | 286056 | [286056-f-ck-stalin.json](./286056-f-ck-stalin.json) |
 | F*ck the HELL out | 337150 | [337150-f-ck-the-hell-out.json](./337150-f-ck-the-hell-out.json) |
 | F*ck This Game | 191129 | [191129-f-ck-this-game.json](./191129-f-ck-this-game.json) |
