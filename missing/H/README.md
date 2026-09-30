@@ -552,6 +552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hand Held Boggle | 239337 | [239337-hand-held-boggle.json](./239337-hand-held-boggle.json) |
 | Hand Maid Mahjong 2 | 97823 | [97823-hand-maid-mahjong-2.json](./97823-hand-maid-mahjong-2.json) |
 | Hand Meat Walker | 372683 | [372683-hand-meat-walker.json](./372683-hand-meat-walker.json) |
+| Hand of Daggers | 398393 | [398393-hand-of-daggers.json](./398393-hand-of-daggers.json) |
 | Hand of Doom | 201681 | [201681-hand-of-doom.json](./201681-hand-of-doom.json) |
 | Hand of Fate 2: The Servant and the Beast | 111062 | [111062-hand-of-fate-2-the-servant-and-the-beast.json](./111062-hand-of-fate-2-the-servant-and-the-beast.json) |
 | Hand of Seasons | 298687 | [298687-hand-of-seasons.json](./298687-hand-of-seasons.json) |
@@ -1023,6 +1024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harukanaru Toki no Naka de: Yume no Ukihashi | 70661 | [70661-harukanaru-toki-no-naka-de-yume-no-ukihashi.json](./70661-harukanaru-toki-no-naka-de-yume-no-ukihashi.json) |
 | Harukaze Sentai V-Force | 108837 | [108837-harukaze-sentai-v-force.json](./108837-harukaze-sentai-v-force.json) |
 | Harukuru: Spring has Come True? | 332633 | [332633-harukuru-spring-has-come-true.json](./332633-harukuru-spring-has-come-true.json) |
+| Haruna: Spring | 398513 | [398513-haruna-spring.json](./398513-haruna-spring.json) |
 | Harvest | 229365 | [229365-harvest.json](./229365-harvest.json) |
 | Harvest | 99400 | [99400-harvest.json](./99400-harvest.json) |
 | Harvest Bliss | 302374 | [302374-harvest-bliss.json](./302374-harvest-bliss.json) |
@@ -1955,6 +1957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellescape | 392459 | [392459-hellescape.json](./392459-hellescape.json) |
 | HellEscape | 215349 | [215349-hellescape.json](./215349-hellescape.json) |
 | Hellevator | 150120 | [150120-hellevator.json](./150120-hellevator.json) |
+| Hellevator | 398515 | [398515-hellevator.json](./398515-hellevator.json) |
 | Hellevator | 417429 | [417429-hellevator.json](./417429-hellevator.json) |
 | Hellevators | 286035 | [286035-hellevators.json](./286035-hellevators.json) |
 | Hellfighter | 92458 | [92458-hellfighter.json](./92458-hellfighter.json) |
@@ -2826,6 +2829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes vs. Hordes | 243120 | [243120-heroes-vs-hordes.json](./243120-heroes-vs-hordes.json) |
 | Heroes War | 200722 | [200722-heroes-war.json](./200722-heroes-war.json) |
 | Heroes War: Counterattack | 141119 | [141119-heroes-war-counterattack.json](./141119-heroes-war-counterattack.json) |
+| Heroes, Warlords and Ruin | 398533 | [398533-heroes-warlords-and-ruin.json](./398533-heroes-warlords-and-ruin.json) |
 | Heroes: The Official Mobile Game | 264132 | [264132-heroes-the-official-mobile-game.json](./264132-heroes-the-official-mobile-game.json) |
 | HeroField: Game Craft | 368514 | [368514-herofield-game-craft.json](./368514-herofield-game-craft.json) |
 | Heroglobin: Monster Hospital | 311122 | [311122-heroglobin-monster-hospital.json](./311122-heroglobin-monster-hospital.json) |
@@ -2874,6 +2878,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heterotopias: In the 1989 Future | 125911 | [125911-heterotopias-in-the-1989-future.json](./125911-heterotopias-in-the-1989-future.json) |
 | Hets | 125854 | [125854-hets.json](./125854-hets.json) |
 | Heva Clonia Online | 62744 | [62744-heva-clonia-online.json](./62744-heva-clonia-online.json) |
+| Hevel | 398529 | [398529-hevel.json](./398529-hevel.json) |
+| Hevel Isle | 398526 | [398526-hevel-isle.json](./398526-hevel-isle.json) |
 | HewDraw Remix | 242804 | [242804-hewdraw-remix.json](./242804-hewdraw-remix.json) |
 | Hex | 308383 | [308383-hex.json](./308383-hex.json) |
 | Hex | 322575 | [322575-hex.json](./322575-hex.json) |
