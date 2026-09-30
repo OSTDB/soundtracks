@@ -3860,6 +3860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hobble | 192362 | [192362-hobble.json](./192362-hobble.json) |
 | Hobble-Wobble | 388221 | [388221-hobble-wobble.json](./388221-hobble-wobble.json) |
 | Hobbs Home | 169871 | [169871-hobbs-home.json](./169871-hobbs-home.json) |
+| Hobby Farm Free | 87072 | [87072-hobby-farm-free.json](./87072-hobby-farm-free.json) |
 | Hobby Horse: First Ride | 357852 | [357852-hobby-horse-first-ride.json](./357852-hobby-horse-first-ride.json) |
 | Hobby Module | 74413 | [74413-hobby-module.json](./74413-hobby-module.json) |
 | Hobgoblins Against Dwarfs | 296915 | [296915-hobgoblins-against-dwarfs.json](./296915-hobgoblins-against-dwarfs.json) |
@@ -5197,6 +5198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoyle Official Book of Games: Volume 1 | 57604 | [57604-hoyle-official-book-of-games-volume-1.json](./57604-hoyle-official-book-of-games-volume-1.json) |
 | Hoyle Official Book of Games: Volume 2 | 73331 | [73331-hoyle-official-book-of-games-volume-2.json](./73331-hoyle-official-book-of-games-volume-2.json) |
 | Hoyle Official Card Games Collection | 34590 | [34590-hoyle-official-card-games-collection.json](./34590-hoyle-official-card-games-collection.json) |
+| Hoyle Official Casino Games Collection | 87061 | [87061-hoyle-official-casino-games-collection.json](./87061-hoyle-official-casino-games-collection.json) |
 | Hoyle Parlor Games | 89693 | [89693-hoyle-parlor-games.json](./89693-hoyle-parlor-games.json) |
 | Hoyle Puzzle & Board Games | 25013 | [25013-hoyle-puzzle-and-board-games.json](./25013-hoyle-puzzle-and-board-games.json) |
 | Hoyle Puzzle & Board Games 2005 | 97127 | [97127-hoyle-puzzle-and-board-games-2005.json](./97127-hoyle-puzzle-and-board-games-2005.json) |
