@@ -4031,6 +4031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Poring | 74326 | [74326-angel-poring.json](./74326-angel-poring.json) |
 | Angel Precario | 90132 | [90132-angel-precario.json](./90132-angel-precario.json) |
 | Angel Present | 267405 | [267405-angel-present.json](./267405-angel-present.json) |
+| Angel Rhapsody | 397871 | [397871-angel-rhapsody.json](./397871-angel-rhapsody.json) |
 | Angel Senki | 84334 | [84334-angel-senki.json](./84334-angel-senki.json) |
 | Angel Sex Pet | 158038 | [158038-angel-sex-pet.json](./158038-angel-sex-pet.json) |
 | Angel Spirit | 293088 | [293088-angel-spirit.json](./293088-angel-spirit.json) |
