@@ -1381,6 +1381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Food Chef | 234745 | [234745-fast-food-chef.json](./234745-fast-food-chef.json) |
 | Fast Food Crisis | 266523 | [266523-fast-food-crisis.json](./266523-fast-food-crisis.json) |
 | Fast Food Frog | 358881 | [358881-fast-food-frog.json](./358881-fast-food-frog.json) |
+| Fast Food Funkin' | 408121 | [408121-fast-food-funkin.json](./408121-fast-food-funkin.json) |
 | Fast Food Manager 2 | 347719 | [347719-fast-food-manager-2.json](./347719-fast-food-manager-2.json) |
 | Fast Food Never More | 127241 | [127241-fast-food-never-more.json](./127241-fast-food-never-more.json) |
 | Fast Food On The Beach! | 321333 | [321333-fast-food-on-the-beach.json](./321333-fast-food-on-the-beach.json) |
@@ -1853,6 +1854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Festival Journey: Venetian Masquerade - Collector's Edition | 350490 | [350490-festival-journey-venetian-masquerade-collectors-edition.json](./350490-festival-journey-venetian-masquerade-collectors-edition.json) |
 | Festival of the Spirit | 183541 | [183541-festival-of-the-spirit.json](./183541-festival-of-the-spirit.json) |
 | Festival Tycoon: Water for All! | 226701 | [226701-festival-tycoon-water-for-all.json](./226701-festival-tycoon-water-for-all.json) |
+| Festive Themed Santa Killer Simulator | 408120 | [408120-festive-themed-santa-killer-simulator.json](./408120-festive-themed-santa-killer-simulator.json) |
 | Fetch | 381016 | [381016-fetch.json](./381016-fetch.json) |
 | Fetch Quest | 140552 | [140552-fetch-quest.json](./140552-fetch-quest.json) |
 | Fetch Quest | 179617 | [179617-fetch-quest.json](./179617-fetch-quest.json) |
@@ -1935,6 +1937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Field Combat DX | 361327 | [361327-field-combat-dx.json](./361327-field-combat-dx.json) |
 | Field Commander | 42873 | [42873-field-commander.json](./42873-field-commander.json) |
 | Field Day | 40332 | [40332-field-day.json](./40332-field-day.json) |
+| Field Day | 408217 | [408217-field-day.json](./408217-field-day.json) |
 | Field Goal | 172656 | [172656-field-goal.json](./172656-field-goal.json) |
 | Field of Enemies | 374058 | [374058-field-of-enemies.json](./374058-field-of-enemies.json) |
 | Field of Fate | 184622 | [184622-field-of-fate.json](./184622-field-of-fate.json) |
@@ -4362,6 +4365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Runner Night | 195720 | [195720-for-runner-night.json](./195720-for-runner-night.json) |
 | For Sale | 328269 | [328269-for-sale.json](./328269-for-sale.json) |
 | For Stella | 392276 | [392276-for-stella.json](./392276-for-stella.json) |
+| For The Fatherland | 408123 | [408123-for-the-fatherland.json](./408123-for-the-fatherland.json) |
 | For the Fish in the Bottle | 402919 | [402919-for-the-fish-in-the-bottle.json](./402919-for-the-fish-in-the-bottle.json) |
 | For The Freedom! | 240770 | [240770-for-the-freedom.json](./240770-for-the-freedom.json) |
 | For the Glory of Gods TCG | 311115 | [311115-for-the-glory-of-gods-tcg.json](./311115-for-the-glory-of-gods-tcg.json) |
