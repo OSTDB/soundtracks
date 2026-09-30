@@ -1466,6 +1466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart of the Emberstone: Coliseum | 81767 | [81767-heart-of-the-emberstone-coliseum.json](./81767-heart-of-the-emberstone-coliseum.json) |
 | Heart of the Hedgehog | 330288 | [330288-heart-of-the-hedgehog.json](./330288-heart-of-the-hedgehog.json) |
 | Heart of the House | 75203 | [75203-heart-of-the-house.json](./75203-heart-of-the-house.json) |
+| Heart of the Machine | 217017 | [217017-heart-of-the-machine.json](./217017-heart-of-the-machine.json) |
 | Heart of the Mountain | 405722 | [405722-heart-of-the-mountain.json](./405722-heart-of-the-mountain.json) |
 | Heart of the Woods | 102326 | [102326-heart-of-the-woods.json](./102326-heart-of-the-woods.json) |
 | Heart on Your Sleeve | 178533 | [178533-heart-on-your-sleeve.json](./178533-heart-on-your-sleeve.json) |
@@ -4199,6 +4200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homesickened | 244991 | [244991-homesickened.json](./244991-homesickened.json) |
 | Homesickness | 344341 | [344341-homesickness.json](./344341-homesickness.json) |
 | Homestar VR | 105508 | [105508-homestar-vr.json](./105508-homestar-vr.json) |
+| Homestead Arcana | 217635 | [217635-homestead-arcana.json](./217635-homestead-arcana.json) |
 | Homestead Online | 337668 | [337668-homestead-online.json](./337668-homestead-online.json) |
 | Hometown Poker Hero | 54085 | [54085-hometown-poker-hero.json](./54085-hometown-poker-hero.json) |
 | Homeward | 188126 | [188126-homeward.json](./188126-homeward.json) |
