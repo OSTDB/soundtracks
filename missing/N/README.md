@@ -2680,6 +2680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitro Back | 216985 | [216985-nitro-back.json](./216985-nitro-back.json) |
 | Nitro Ball | 40983 | [40983-nitro-ball.json](./40983-nitro-ball.json) |
 | Nitro Boost Challenge | 72624 | [72624-nitro-boost-challenge.json](./72624-nitro-boost-challenge.json) |
+| Nitro City Racing | 397875 | [397875-nitro-city-racing.json](./397875-nitro-city-racing.json) |
 | Nitro Derby | 280786 | [280786-nitro-derby.json](./280786-nitro-derby.json) |
 | Nitro Express | 313096 | [313096-nitro-express.json](./313096-nitro-express.json) |
 | Nitro Gen Omega | 319146 | [319146-nitro-gen-omega.json](./319146-nitro-gen-omega.json) |
