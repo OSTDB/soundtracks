@@ -394,6 +394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xixit | 94532 | [94532-xixit.json](./94532-xixit.json) |
 | Xjump | 291602 | [291602-xjump.json](./291602-xjump.json) |
 | xkcd: Hoverboard | 59459 | [59459-xkcd-hoverboard.json](./59459-xkcd-hoverboard.json) |
+| Xlands | 403750 | [403750-xlands.json](./403750-xlands.json) |
 | XLR | 33394 | [33394-xlr.json](./33394-xlr.json) |
 | Xmas Boom | 254136 | [254136-xmas-boom.json](./254136-xmas-boom.json) |
 | Xmas Jam 2017 | 271230 | [271230-xmas-jam-2017.json](./271230-xmas-jam-2017.json) |
