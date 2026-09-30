@@ -647,6 +647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venatio | 188073 | [188073-venatio.json](./188073-venatio.json) |
 | Venatrix | 267369 | [267369-venatrix.json](./267369-venatrix.json) |
 | Vendetta Forever | 313771 | [313771-vendetta-forever.json](./313771-vendetta-forever.json) |
+| Vendetta Online | 2450 | [2450-vendetta-online.json](./2450-vendetta-online.json) |
 | Vendetta: Curse of Raven's Cry - Deluxe Edition | 53875 | [53875-vendetta-curse-of-ravens-cry-deluxe-edition.json](./53875-vendetta-curse-of-ravens-cry-deluxe-edition.json) |
 | Vendetta: Mafia Wars | 216856 | [216856-vendetta-mafia-wars.json](./216856-vendetta-mafia-wars.json) |
 | Vending Machine Simulator 2025 | 366225 | [366225-vending-machine-simulator-2025.json](./366225-vending-machine-simulator-2025.json) |
@@ -1253,6 +1254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Pet Unicorn | 88151 | [88151-virtual-pet-unicorn.json](./88151-virtual-pet-unicorn.json) |
 | Virtual Pool 4 | 36070 | [36070-virtual-pool-4.json](./36070-virtual-pool-4.json) |
 | Virtual Pool 4 Online | 91991 | [91991-virtual-pool-4-online.json](./91991-virtual-pool-4-online.json) |
+| Virtual Pool 64 | 3624 | [3624-virtual-pool-64.json](./3624-virtual-pool-64.json) |
 | Virtual Pool Hall | 93142 | [93142-virtual-pool-hall.json](./93142-virtual-pool-hall.json) |
 | Virtual Pro Wrestling 2: Oudou Keishou | 3625 | [3625-virtual-pro-wrestling-2-oudou-keishou.json](./3625-virtual-pro-wrestling-2-oudou-keishou.json) |
 | Virtual Pro Wrestling 64 | 3626 | [3626-virtual-pro-wrestling-64.json](./3626-virtual-pro-wrestling-64.json) |
