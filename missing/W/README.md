@@ -1758,6 +1758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Heart Heard Of, Ghost Guessed | 230389 | [230389-what-heart-heard-of-ghost-guessed.json](./230389-what-heart-heard-of-ghost-guessed.json) |
 | What I left behind | 184054 | [184054-what-i-left-behind.json](./184054-what-i-left-behind.json) |
 | What if Adventure Time was a 3D Anime | 234038 | [234038-what-if-adventure-time-was-a-3d-anime.json](./234038-what-if-adventure-time-was-a-3d-anime.json) |
+| What Is Death? | 390187 | [390187-what-is-death.json](./390187-what-is-death.json) |
 | What Is Love?: Vol. 1 | 203921 | [203921-what-is-love-vol-1.json](./203921-what-is-love-vol-1.json) |
 | What is My Name | 305538 | [305538-what-is-my-name.json](./305538-what-is-my-name.json) |
 | What is Older? | 374674 | [374674-what-is-older.json](./374674-what-is-older.json) |
@@ -1992,6 +1993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where the Demon Lurks | 209631 | [209631-where-the-demon-lurks.json](./209631-where-the-demon-lurks.json) |
 | Where the Forest Lies | 364532 | [364532-where-the-forest-lies.json](./364532-where-the-forest-lies.json) |
 | Where the Fuck is Richard? | 62777 | [62777-where-the-fuck-is-richard.json](./62777-where-the-fuck-is-richard.json) |
+| Where the Hell Am I? | 390211 | [390211-where-the-hell-am-i.json](./390211-where-the-hell-am-i.json) |
 | Where the Music Dies | 277344 | [277344-where-the-music-dies.json](./277344-where-the-music-dies.json) |
 | Where the Redwood Ends | 416808 | [416808-where-the-redwood-ends.json](./416808-where-the-redwood-ends.json) |
 | Where the river dies | 120250 | [120250-where-the-river-dies.json](./120250-where-the-river-dies.json) |
@@ -4040,6 +4042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War: Fury Wave | 316236 | [316236-world-war-fury-wave.json](./316236-world-war-fury-wave.json) |
 | World Wars | 40244 | [40244-world-wars.json](./40244-world-wars.json) |
 | World Without Reason | 284410 | [284410-world-without-reason.json](./284410-world-without-reason.json) |
+| World Without Time | 390214 | [390214-world-without-time.json](./390214-world-without-time.json) |
 | World Wonders Hidden Histories 3 | 364105 | [364105-world-wonders-hidden-histories-3.json](./364105-world-wonders-hidden-histories-3.json) |
 | World Zero | 219682 | [219682-world-zero.json](./219682-world-zero.json) |
 | World-Wide Adventure! Collection | 222381 | [222381-world-wide-adventure-collection.json](./222381-world-wide-adventure-collection.json) |
