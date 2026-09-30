@@ -443,6 +443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eclectic Custom Night | 317220 | [317220-eclectic-custom-night.json](./317220-eclectic-custom-night.json) |
 | Eclectic Guests | 178674 | [178674-eclectic-guests.json](./178674-eclectic-guests.json) |
 | Eclectic Shell | 328265 | [328265-eclectic-shell.json](./328265-eclectic-shell.json) |
+| Eclesiar | 416717 | [416717-eclesiar.json](./416717-eclesiar.json) |
 | Eclipse | 172192 | [172192-eclipse.json](./172192-eclipse.json) |
 | Eclipse | 216246 | [216246-eclipse.json](./216246-eclipse.json) |
 | Eclipse | 218163 | [218163-eclipse.json](./218163-eclipse.json) |
@@ -595,6 +596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EEP Train Simulator Mission | 33266 | [33266-eep-train-simulator-mission.json](./33266-eep-train-simulator-mission.json) |
 | Eerie Dossier: The Haunted Apartment | 391339 | [391339-eerie-dossier-the-haunted-apartment.json](./391339-eerie-dossier-the-haunted-apartment.json) |
 | Eerie Excavation | 301847 | [301847-eerie-excavation.json](./301847-eerie-excavation.json) |
+| Eerie Night: Escape from the Funfair - Collector's Edition | 416775 | [416775-eerie-night-escape-from-the-funfair-collectors-edition.json](./416775-eerie-night-escape-from-the-funfair-collectors-edition.json) |
 | Eerie Worlds | 351704 | [351704-eerie-worlds.json](./351704-eerie-worlds.json) |
 | Eerskraft | 220058 | [220058-eerskraft.json](./220058-eerskraft.json) |
 | Eevoo II | 233769 | [233769-eevoo-ii.json](./233769-eevoo-ii.json) |
@@ -2731,6 +2733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternity | 313863 | [313863-eternity.json](./313863-eternity.json) |
 | Eternity Convergence | 156135 | [156135-eternity-convergence.json](./156135-eternity-convergence.json) |
 | Eternity Guards | 148488 | [148488-eternity-guards.json](./148488-eternity-guards.json) |
+| Eternity Lost: Mystery of Aurum - Collector's Edition | 416770 | [416770-eternity-lost-mystery-of-aurum-collectors-edition.json](./416770-eternity-lost-mystery-of-aurum-collectors-edition.json) |
 | Eternity Warriors | 38502 | [38502-eternity-warriors.json](./38502-eternity-warriors.json) |
 | Eternity Warriors VR | 54652 | [54652-eternity-warriors-vr.json](./54652-eternity-warriors-vr.json) |
 | Eternium: Mage and Minions | 193967 | [193967-eternium-mage-and-minions.json](./193967-eternium-mage-and-minions.json) |
@@ -3272,6 +3275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ex Life | 140527 | [140527-ex-life.json](./140527-ex-life.json) |
 | Ex Machina: Arcade | 17171 | [17171-ex-machina-arcade.json](./17171-ex-machina-arcade.json) |
 | Ex Natura: Nature Corrupted | 192395 | [192395-ex-natura-nature-corrupted.json](./192395-ex-natura-nature-corrupted.json) |
+| Ex Nihilo | 416747 | [416747-ex-nihilo.json](./416747-ex-nihilo.json) |
 | Ex Oblivione | 61148 | [61148-ex-oblivione.json](./61148-ex-oblivione.json) |
 | Ex Sanguis | 346768 | [346768-ex-sanguis.json](./346768-ex-sanguis.json) |
 | Ex Shooter: Triple Bundle Pack | 218467 | [218467-ex-shooter-triple-bundle-pack.json](./218467-ex-shooter-triple-bundle-pack.json) |
