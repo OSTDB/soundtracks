@@ -366,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madou Monogatari III: Kyuukyoku Joou-sama | 45266 | [45266-madou-monogatari-iii-kyuukyoku-joou-sama.json](./45266-madou-monogatari-iii-kyuukyoku-joou-sama.json) |
 | Madou Monogatari: Hanamaru Daiyouchienji | 110397 | [110397-madou-monogatari-hanamaru-daiyouchienji.json](./110397-madou-monogatari-hanamaru-daiyouchienji.json) |
 | Madou Monogatari: Tower of the Magician | 252162 | [252162-madou-monogatari-tower-of-the-magician.json](./252162-madou-monogatari-tower-of-the-magician.json) |
+| Madout Big City | 29580 | [29580-madout-big-city.json](./29580-madout-big-city.json) |
 | MADrigal CD Collection | 365110 | [365110-madrigal-cd-collection.json](./365110-madrigal-cd-collection.json) |
 | Madrobot X | 31793 | [31793-madrobot-x.json](./31793-madrobot-x.json) |
 | Mads, Morfar og Miljøstrup | 59950 | [59950-mads-morfar-og-milj-strup.json](./59950-mads-morfar-og-milj-strup.json) |
@@ -420,6 +421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magalumina | 392932 | [392932-magalumina.json](./392932-magalumina.json) |
 | Magatsu Barai | 172730 | [172730-magatsu-barai.json](./172730-magatsu-barai.json) |
 | Magatsu Wahrheit | 194004 | [194004-magatsu-wahrheit.json](./194004-magatsu-wahrheit.json) |
+| Magazine Editor | 29433 | [29433-magazine-editor.json](./29433-magazine-editor.json) |
 | Mage and Minions | 15468 | [15468-mage-and-minions.json](./15468-mage-and-minions.json) |
 | Mage and Monsters | 209682 | [209682-mage-and-monsters.json](./209682-mage-and-monsters.json) |
 | Mage and the Grimoire of Beast | 293203 | [293203-mage-and-the-grimoire-of-beast.json](./293203-mage-and-the-grimoire-of-beast.json) |
@@ -2344,6 +2346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Massive Defense | 239740 | [239740-massive-defense.json](./239740-massive-defense.json) |
 | Massive Galaxy | 89669 | [89669-massive-galaxy.json](./89669-massive-galaxy.json) |
 | Massive Warfare: Aftermath | 347878 | [347878-massive-warfare-aftermath.json](./347878-massive-warfare-aftermath.json) |
+| Mastema: Out of Hell | 29424 | [29424-mastema-out-of-hell.json](./29424-mastema-out-of-hell.json) |
 | Master Archer | 185544 | [185544-master-archer.json](./185544-master-archer.json) |
 | Master Arena | 97280 | [97280-master-arena.json](./97280-master-arena.json) |
 | Master Bass | 267344 | [267344-master-bass.json](./267344-master-bass.json) |
@@ -4619,6 +4622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MFTK: Survivors | 408193 | [408193-mftk-survivors.json](./408193-mftk-survivors.json) |
 | MGP Manager | 260382 | [260382-mgp-manager.json](./260382-mgp-manager.json) |
 | MH17 Strikes Back | 329375 | [329375-mh17-strikes-back.json](./329375-mh17-strikes-back.json) |
+| MHRD | 29883 | [29883-mhrd.json](./29883-mhrd.json) |
 | Mhystaria | 347775 | [347775-mhystaria.json](./347775-mhystaria.json) |
 | MHZ | 369219 | [369219-mhz.json](./369219-mhz.json) |
 | Mi Espada | 288825 | [288825-mi-espada.json](./288825-mi-espada.json) |
@@ -6233,6 +6237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mito Koumon II: Sekai Manyuu Ki | 48773 | [48773-mito-koumon-ii-sekai-manyuu-ki.json](./48773-mito-koumon-ii-sekai-manyuu-ki.json) |
 | Mitoosis | 144788 | [144788-mitoosis.json](./144788-mitoosis.json) |
 | Mitos.is: The Game | 34786 | [34786-mitos-is-the-game.json](./34786-mitos-is-the-game.json) |
+| Mitosis | 29959 | [29959-mitosis.json](./29959-mitosis.json) |
 | Mitoza | 144270 | [144270-mitoza.json](./144270-mitoza.json) |
 | Mitrasphere | 146911 | [146911-mitrasphere.json](./146911-mitrasphere.json) |
 | MITS: Monsters in the Shadows | 198376 | [198376-mits-monsters-in-the-shadows.json](./198376-mits-monsters-in-the-shadows.json) |
@@ -7350,6 +7355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monument Valley: Panoramic Edition | 203331 | [203331-monument-valley-panoramic-edition.json](./203331-monument-valley-panoramic-edition.json) |
 | Monument Valley+ | 145466 | [145466-monument-valley.json](./145466-monument-valley.json) |
 | Monument: Ultimate Edition | 317249 | [317249-monument-ultimate-edition.json](./317249-monument-ultimate-edition.json) |
+| Monumental Failure | 29940 | [29940-monumental-failure.json](./29940-monumental-failure.json) |
 | Monuments Flipper | 132741 | [132741-monuments-flipper.json](./132741-monuments-flipper.json) |
 | Monuments of Mars 2 | 300404 | [300404-monuments-of-mars-2.json](./300404-monuments-of-mars-2.json) |
 | Monzo VR | 26829 | [26829-monzo-vr.json](./26829-monzo-vr.json) |
@@ -7643,6 +7649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morphcat Games Collection 1 | 191899 | [191899-morphcat-games-collection-1.json](./191899-morphcat-games-collection-1.json) |
 | Morpheus | 40966 | [40966-morpheus.json](./40966-morpheus.json) |
 | Morphies Law | 25633 | [25633-morphies-law.json](./25633-morphies-law.json) |
+| Morphine | 26520 | [26520-morphine.json](./26520-morphine.json) |
 | Morphite | 27314 | [27314-morphite.json](./27314-morphite.json) |
 | Morphology | 185075 | [185075-morphology.json](./185075-morphology.json) |
 | Morphopolis | 9768 | [9768-morphopolis.json](./9768-morphopolis.json) |
