@@ -457,6 +457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura-iro Tetra Prism | 325451 | [325451-sakura-iro-tetra-prism.json](./325451-sakura-iro-tetra-prism.json) |
 | Sakura, Moyu.: As the Night's, Reincarnation | 137106 | [137106-sakura-moyu-as-the-nights-reincarnation.json](./137106-sakura-moyu-as-the-nights-reincarnation.json) |
 | Sakuraba Ema's Intertwining Threshold | 418771 | [418771-sakuraba-emas-intertwining-threshold.json](./418771-sakuraba-emas-intertwining-threshold.json) |
+| Sakuya Izayoi Gives You Advice and Dabs | 129389 | [129389-sakuya-izayoi-gives-you-advice-and-dabs.json](./129389-sakuya-izayoi-gives-you-advice-and-dabs.json) |
 | Sal. | 266231 | [266231-sal.json](./266231-sal.json) |
 | Salaam | 127341 | [127341-salaam.json](./127341-salaam.json) |
 | Salacot Jack: Deluxe | 316400 | [316400-salacot-jack-deluxe.json](./316400-salacot-jack-deluxe.json) |
@@ -3909,6 +3910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Hotel: Lost in Nowhere | 102364 | [102364-shining-hotel-lost-in-nowhere.json](./102364-shining-hotel-lost-in-nowhere.json) |
 | Shining in the Darkness | 9406 | [9406-shining-in-the-darkness.json](./9406-shining-in-the-darkness.json) |
 | Shining Lore | 316800 | [316800-shining-lore.json](./316800-shining-lore.json) |
+| Shining Nikki | 145944 | [145944-shining-nikki.json](./145944-shining-nikki.json) |
 | Shining Orb Prequel | 109704 | [109704-shining-orb-prequel.json](./109704-shining-orb-prequel.json) |
 | Shining Resonance | 44561 | [44561-shining-resonance.json](./44561-shining-resonance.json) |
 | Shining Resonance Refrain: Draconic Launch Edition | 136281 | [136281-shining-resonance-refrain-draconic-launch-edition.json](./136281-shining-resonance-refrain-draconic-launch-edition.json) |
@@ -5301,6 +5303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sir Fallen: Supporter Pack | 312008 | [312008-sir-fallen-supporter-pack.json](./312008-sir-fallen-supporter-pack.json) |
 | Sir Fred | 270668 | [270668-sir-fred.json](./270668-sir-fred.json) |
 | Sir Loin | 93997 | [93997-sir-loin.json](./93997-sir-loin.json) |
+| Sir Lovelot | 132982 | [132982-sir-lovelot.json](./132982-sir-lovelot.json) |
 | Sir Noggin | 376556 | [376556-sir-noggin.json](./376556-sir-noggin.json) |
 | Sir Stretchalot: The Plight of the Elves | 216227 | [216227-sir-stretchalot-the-plight-of-the-elves.json](./216227-sir-stretchalot-the-plight-of-the-elves.json) |
 | Sir Whoopass & Switchball HD Bundle | 244792 | [244792-sir-whoopass-and-switchball-hd-bundle.json](./244792-sir-whoopass-and-switchball-hd-bundle.json) |
@@ -5652,6 +5655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skullstone | 26885 | [26885-skullstone.json](./26885-skullstone.json) |
 | Skulltiverse | 259662 | [259662-skulltiverse.json](./259662-skulltiverse.json) |
 | Skulltiverse II | 388719 | [388719-skulltiverse-ii.json](./388719-skulltiverse-ii.json) |
+| Skully | 133902 | [133902-skully.json](./133902-skully.json) |
 | Skully Bunnies | 335287 | [335287-skully-bunnies.json](./335287-skully-bunnies.json) |
 | Skullz | 178551 | [178551-skullz.json](./178551-skullz.json) |
 | Skunny Kart | 46731 | [46731-skunny-kart.json](./46731-skunny-kart.json) |
@@ -8969,6 +8973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Invaders Anniversary | 69888 | [69888-space-invaders-anniversary.json](./69888-space-invaders-anniversary.json) |
 | Space Invaders Evolution | 42761 | [42761-space-invaders-evolution.json](./42761-space-invaders-evolution.json) |
 | Space Invaders Extreme Z | 79611 | [79611-space-invaders-extreme-z.json](./79611-space-invaders-extreme-z.json) |
+| Space Invaders Forever | 139864 | [139864-space-invaders-forever.json](./139864-space-invaders-forever.json) |
 | Space Invaders II | 46839 | [46839-space-invaders-ii.json](./46839-space-invaders-ii.json) |
 | Space Invaders Micro Player | 229786 | [229786-space-invaders-micro-player.json](./229786-space-invaders-micro-player.json) |
 | Space Invaders Part II | 246397 | [246397-space-invaders-part-ii.json](./246397-space-invaders-part-ii.json) |
@@ -11625,6 +11630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stars of the Screen | 232677 | [232677-stars-of-the-screen.json](./232677-stars-of-the-screen.json) |
 | Stars Shooter | 245301 | [245301-stars-shooter.json](./245301-stars-shooter.json) |
 | Stars Survivor | 291481 | [291481-stars-survivor.json](./291481-stars-survivor.json) |
+| Starsand | 152754 | [152754-starsand.json](./152754-starsand.json) |
 | Starsand Island | 310885 | [310885-starsand-island.json](./310885-starsand-island.json) |
 | Starseed Harmonies | 385553 | [385553-starseed-harmonies.json](./385553-starseed-harmonies.json) |
 | Starshapes | 249864 | [249864-starshapes.json](./249864-starshapes.json) |
@@ -12312,6 +12318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stitch. | 225655 | [225655-stitch.json](./225655-stitch.json) |
 | Stitch's Blazing Lasers | 342673 | [342673-stitchs-blazing-lasers.json](./342673-stitchs-blazing-lasers.json) |
 | Stitch's Escape Game | 326769 | [326769-stitchs-escape-game.json](./326769-stitchs-escape-game.json) |
+| Stitchy in Tooki Trouble | 145804 | [145804-stitchy-in-tooki-trouble.json](./145804-stitchy-in-tooki-trouble.json) |
 | Stix: Combat Devolved | 190699 | [190699-stix-combat-devolved.json](./190699-stix-combat-devolved.json) |
 | STLD Redux: Episode 02 | 34895 | [34895-stld-redux-episode-02.json](./34895-stld-redux-episode-02.json) |
 | Stlthscpe | 284320 | [284320-stlthscpe.json](./284320-stlthscpe.json) |
@@ -12708,6 +12715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stream Typers | 206738 | [206738-stream-typers.json](./206738-stream-typers.json) |
 | Streamchat: Horror Live | 405699 | [405699-streamchat-horror-live.json](./405699-streamchat-horror-live.json) |
 | Streamer Content: A Simple Mechanic, a Simple Game | 358361 | [358361-streamer-content-a-simple-mechanic-a-simple-game.json](./358361-streamer-content-a-simple-mechanic-a-simple-game.json) |
+| Streamer Daily | 130275 | [130275-streamer-daily.json](./130275-streamer-daily.json) |
 | Streamer Future Wars | 204697 | [204697-streamer-future-wars.json](./204697-streamer-future-wars.json) |
 | Streamer Mini Games Collection | 324508 | [324508-streamer-mini-games-collection.json](./324508-streamer-mini-games-collection.json) |
 | Streamer Party | 384105 | [384105-streamer-party.json](./384105-streamer-party.json) |
