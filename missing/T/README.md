@@ -2573,6 +2573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Absence of Miriam Lane | 219792 | [219792-the-absence-of-miriam-lane.json](./219792-the-absence-of-miriam-lane.json) |
 | The Absolutely Hilarious Cat Game | 153959 | [153959-the-absolutely-hilarious-cat-game.json](./153959-the-absolutely-hilarious-cat-game.json) |
 | The Abyss | 237353 | [237353-the-abyss.json](./237353-the-abyss.json) |
+| The Abyss Below | 408981 | [408981-the-abyss-below.json](./408981-the-abyss-below.json) |
 | The Abyss Has Walls | 195760 | [195760-the-abyss-has-walls.json](./195760-the-abyss-has-walls.json) |
 | The Abyss: Incident at Europa | 74076 | [74076-the-abyss-incident-at-europa.json](./74076-the-abyss-incident-at-europa.json) |
 | The Abyssal Diplomat | 400939 | [400939-the-abyssal-diplomat.json](./400939-the-abyssal-diplomat.json) |
@@ -11725,6 +11726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Splinter Cell: Pandora Tomorrow HD | 100002 | [100002-tom-clancys-splinter-cell-pandora-tomorrow-hd.json](./100002-tom-clancys-splinter-cell-pandora-tomorrow-hd.json) |
 | Tom Clancy's SSN | 57686 | [57686-tom-clancys-ssn.json](./57686-tom-clancys-ssn.json) |
 | Tom Clancy’s The Division - Definitive Edition | 394852 | [394852-tom-clancy-s-the-division-definitive-edition.json](./394852-tom-clancy-s-the-division-definitive-edition.json) |
+| Tom Clancy's The Division 2 - Bedlam Pack | 408973 | [408973-tom-clancys-the-division-2-bedlam-pack.json](./408973-tom-clancys-the-division-2-bedlam-pack.json) |
 | Tom Clancy's The Division 2: Fang Pack | 408900 | [408900-tom-clancys-the-division-2-fang-pack.json](./408900-tom-clancys-the-division-2-fang-pack.json) |
 | Tom Clancy's The Division 2: Gold Steelbook Edition | 79862 | [79862-tom-clancys-the-division-2-gold-steelbook-edition.json](./79862-tom-clancys-the-division-2-gold-steelbook-edition.json) |
 | Tom Clancy’s The Division 2: Into the Dark Bundle | 408897 | [408897-tom-clancy-s-the-division-2-into-the-dark-bundle.json](./408897-tom-clancy-s-the-division-2-into-the-dark-bundle.json) |
@@ -11799,6 +11801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider: Hashep Oasis | 328588 | [328588-tomb-raider-hashep-oasis.json](./328588-tomb-raider-hashep-oasis.json) |
 | Tomb Raider: Legacy of Atlantis | 381235 | [381235-tomb-raider-legacy-of-atlantis.json](./381235-tomb-raider-legacy-of-atlantis.json) |
 | Tomb Raider: Legend | 146717 | [146717-tomb-raider-legend.json](./146717-tomb-raider-legend.json) |
+| Tomb Raider: Lost and Found | 408978 | [408978-tomb-raider-lost-and-found.json](./408978-tomb-raider-lost-and-found.json) |
 | Tomb Raider: Shanty Town | 172133 | [172133-tomb-raider-shanty-town.json](./172133-tomb-raider-shanty-town.json) |
 | Tomb Raider: Survival Edition | 53817 | [53817-tomb-raider-survival-edition.json](./53817-tomb-raider-survival-edition.json) |
 | Tomb Raider: The Action Adventure | 123009 | [123009-tomb-raider-the-action-adventure.json](./123009-tomb-raider-the-action-adventure.json) |
@@ -12941,6 +12944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Story 2: Woody Sousaku Daisakusen!! | 58850 | [58850-toy-story-2-woody-sousaku-daisakusen.json](./58850-toy-story-2-woody-sousaku-daisakusen.json) |
 | Toy Story 3 | 230554 | [230554-toy-story-3.json](./230554-toy-story-3.json) |
 | Toy Story 3 | 287629 | [287629-toy-story-3.json](./287629-toy-story-3.json) |
+| Toy Story 3 | 408990 | [408990-toy-story-3.json](./408990-toy-story-3.json) |
 | Toy Story 3: The Video Game | 202117 | [202117-toy-story-3-the-video-game.json](./202117-toy-story-3-the-video-game.json) |
 | Toy Story Activity Center | 79896 | [79896-toy-story-activity-center.json](./79896-toy-story-activity-center.json) |
 | Toy Story Drop! | 116973 | [116973-toy-story-drop.json](./116973-toy-story-drop.json) |
