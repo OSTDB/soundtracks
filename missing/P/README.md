@@ -6816,6 +6816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Procedural Soccer | 173228 | [173228-procedural-soccer.json](./173228-procedural-soccer.json) |
 | Procemon: You Must Catch Them | 369727 | [369727-procemon-you-must-catch-them.json](./369727-procemon-you-must-catch-them.json) |
 | Process | 60528 | [60528-process.json](./60528-process.json) |
+| Process of Elimination | 216583 | [216583-process-of-elimination.json](./216583-process-of-elimination.json) |
 | Procession Engine | 413079 | [413079-procession-engine.json](./413079-procession-engine.json) |
 | Procrastinaut | 270951 | [270951-procrastinaut.json](./270951-procrastinaut.json) |
 | ProcrastiTyper | 202805 | [202805-procrastityper.json](./202805-procrastityper.json) |
