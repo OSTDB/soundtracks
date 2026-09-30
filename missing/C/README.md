@@ -3371,6 +3371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinmoku no Kantai | 299821 | [299821-chinmoku-no-kantai.json](./299821-chinmoku-no-kantai.json) |
 | Chinomikon | 55269 | [55269-chinomikon.json](./55269-chinomikon.json) |
 | Chip ‘n Clawz vs. The Brainioids | 333089 | [333089-chip-n-clawz-vs-the-brainioids.json](./333089-chip-n-clawz-vs-the-brainioids.json) |
+| Chip 'n Clawz vs. The Brainioids: Going Underground | 398527 | [398527-chip-n-clawz-vs-the-brainioids-going-underground.json](./398527-chip-n-clawz-vs-the-brainioids-going-underground.json) |
 | Chip Beat Blaster | 232145 | [232145-chip-beat-blaster.json](./232145-chip-beat-blaster.json) |
 | Chip Buster | 13703 | [13703-chip-buster.json](./13703-chip-buster.json) |
 | Chip McCallahan in Sonic the Hedgehog 2 | 323860 | [323860-chip-mccallahan-in-sonic-the-hedgehog-2.json](./323860-chip-mccallahan-in-sonic-the-hedgehog-2.json) |
@@ -5906,6 +5907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Company of Heroes 3 | 156150 | [156150-company-of-heroes-3.json](./156150-company-of-heroes-3.json) |
 | Company of Heroes 3: Console Edition | 228537 | [228537-company-of-heroes-3-console-edition.json](./228537-company-of-heroes-3-console-edition.json) |
 | Company of Heroes 3: Console Launch Edition | 247187 | [247187-company-of-heroes-3-console-launch-edition.json](./247187-company-of-heroes-3-console-launch-edition.json) |
+| Company of Heroes 3: Dare & Destroy | 398517 | [398517-company-of-heroes-3-dare-and-destroy.json](./398517-company-of-heroes-3-dare-and-destroy.json) |
 | Company of Heroes 3: Endure & Defy | 376703 | [376703-company-of-heroes-3-endure-and-defy.json](./376703-company-of-heroes-3-endure-and-defy.json) |
 | Company of Heroes 3: Hammer & Shield | 277019 | [277019-company-of-heroes-3-hammer-and-shield.json](./277019-company-of-heroes-3-hammer-and-shield.json) |
 | Company of Heroes 3: Hammer & Shield Battlegroup Pack | 400401 | [400401-company-of-heroes-3-hammer-and-shield-battlegroup-pack.json](./400401-company-of-heroes-3-hammer-and-shield-battlegroup-pack.json) |
@@ -6247,6 +6249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction Simulator 2015: Vertical Skyline | 168917 | [168917-construction-simulator-2015-vertical-skyline.json](./168917-construction-simulator-2015-vertical-skyline.json) |
 | Construction Simulator 4 | 292143 | [292143-construction-simulator-4.json](./292143-construction-simulator-4.json) |
 | Construction Simulator PRO | 88470 | [88470-construction-simulator-pro.json](./88470-construction-simulator-pro.json) |
+| Construction Simulator: Evolution | 398522 | [398522-construction-simulator-evolution.json](./398522-construction-simulator-evolution.json) |
 | Construction Simulator: Extended Edition | 218476 | [218476-construction-simulator-extended-edition.json](./218476-construction-simulator-extended-edition.json) |
 | Construction Simulator: JCB Pack | 246399 | [246399-construction-simulator-jcb-pack.json](./246399-construction-simulator-jcb-pack.json) |
 | Construction Simulator: SANY Pack | 266746 | [266746-construction-simulator-sany-pack.json](./266746-construction-simulator-sany-pack.json) |
@@ -9329,6 +9332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber-ART | 377689 | [377689-cyber-art.json](./377689-cyber-art.json) |
 | Cyber-Assassin | 269272 | [269272-cyber-assassin.json](./269272-cyber-assassin.json) |
 | Cyber-Cop | 80869 | [80869-cyber-cop.json](./80869-cyber-cop.json) |
+| Cyber92 Datawar | 398491 | [398491-cyber92-datawar.json](./398491-cyber92-datawar.json) |
 | CyberArena | 338211 | [338211-cyberarena.json](./338211-cyberarena.json) |
 | Cyberball | 12022 | [12022-cyberball.json](./12022-cyberball.json) |
 | Cyberball 2072 | 23070 | [23070-cyberball-2072.json](./23070-cyberball-2072.json) |
