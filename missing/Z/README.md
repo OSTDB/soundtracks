@@ -798,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Shooter: Pandemic Unkilled | 174667 | [174667-zombie-shooter-pandemic-unkilled.json](./174667-zombie-shooter-pandemic-unkilled.json) |
 | Zombie Shooting Star | 209713 | [209713-zombie-shooting-star.json](./209713-zombie-shooting-star.json) |
 | Zombie Shot | 285581 | [285581-zombie-shot.json](./285581-zombie-shot.json) |
+| Zombie Siege | 420653 | [420653-zombie-siege.json](./420653-zombie-siege.json) |
 | Zombie Skape | 84968 | [84968-zombie-skape.json](./84968-zombie-skape.json) |
 | Zombie Slapper | 220648 | [220648-zombie-slapper.json](./220648-zombie-slapper.json) |
 | Zombie Slayer | 166713 | [166713-zombie-slayer.json](./166713-zombie-slayer.json) |
