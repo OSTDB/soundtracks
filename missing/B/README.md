@@ -301,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: The Old Watcher | 407412 | [407412-backrooms-the-old-watcher.json](./407412-backrooms-the-old-watcher.json) |
 | Backrooms: The Project | 239762 | [239762-backrooms-the-project.json](./239762-backrooms-the-project.json) |
 | Backrooms: The Silence | 339449 | [339449-backrooms-the-silence.json](./339449-backrooms-the-silence.json) |
+| Backrooms: The Void | 407469 | [407469-backrooms-the-void.json](./407469-backrooms-the-void.json) |
 | BackRooms's 1995 The Lost Footage: Chapter 1 | 298562 | [298562-backroomss-1995-the-lost-footage-chapter-1.json](./298562-backroomss-1995-the-lost-footage-chapter-1.json) |
 | BackRooms's 1995: The Lost Footage - Chapter1 | 303097 | [303097-backroomss-1995-the-lost-footage-chapter1.json](./303097-backroomss-1995-the-lost-footage-chapter1.json) |
 | Backseat Champions | 389098 | [389098-backseat-champions.json](./389098-backseat-champions.json) |
@@ -2088,6 +2089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlejack: Blackjack RPG | 91992 | [91992-battlejack-blackjack-rpg.json](./91992-battlejack-blackjack-rpg.json) |
 | BattleLand: Warrior vs. Monster | 263574 | [263574-battleland-warrior-vs-monster.json](./263574-battleland-warrior-vs-monster.json) |
 | Battlelands Royale | 104311 | [104311-battlelands-royale.json](./104311-battlelands-royale.json) |
+| Battlemage Ascension | 407467 | [407467-battlemage-ascension.json](./407467-battlemage-ascension.json) |
 | Battlemage: Magic by Mail | 154355 | [154355-battlemage-magic-by-mail.json](./154355-battlemage-magic-by-mail.json) |
 | Battlemals | 26695 | [26695-battlemals.json](./26695-battlemals.json) |
 | Battlemaster | 11947 | [11947-battlemaster.json](./11947-battlemaster.json) |
@@ -5985,6 +5987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Books of Grandura | 245806 | [245806-books-of-grandura.json](./245806-books-of-grandura.json) |
 | Bookshop Simulator | 337720 | [337720-bookshop-simulator.json](./337720-bookshop-simulator.json) |
 | Bookstore Dream | 62950 | [62950-bookstore-dream.json](./62950-bookstore-dream.json) |
+| BookStore Simulator | 407491 | [407491-bookstore-simulator.json](./407491-bookstore-simulator.json) |
 | Bookworm | 316279 | [316279-bookworm.json](./316279-bookworm.json) |
 | Bookworm | 8325 | [8325-bookworm.json](./8325-bookworm.json) |
 | Bookworm Adventures Deluxe | 353868 | [353868-bookworm-adventures-deluxe.json](./353868-bookworm-adventures-deluxe.json) |
@@ -6534,6 +6537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxing Go | 293112 | [293112-boxing-go.json](./293112-boxing-go.json) |
 | Boxing Gym Story | 174339 | [174339-boxing-gym-story.json](./174339-boxing-gym-story.json) |
 | Boxing Legends of the Ring | 38366 | [38366-boxing-legends-of-the-ring.json](./38366-boxing-legends-of-the-ring.json) |
+| Boxing Life Simulator | 407483 | [407483-boxing-life-simulator.json](./407483-boxing-life-simulator.json) |
 | Boxing Revolution: Boxing Games - Knock Out | 104434 | [104434-boxing-revolution-boxing-games-knock-out.json](./104434-boxing-revolution-boxing-games-knock-out.json) |
 | Boxing Saga | 31364 | [31364-boxing-saga.json](./31364-boxing-saga.json) |
 | Boxing School | 110119 | [110119-boxing-school.json](./110119-boxing-school.json) |
@@ -7654,6 +7658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Budget Backrooms | 266290 | [266290-budget-backrooms.json](./266290-budget-backrooms.json) |
 | Budget Cuts 2: Mission Insolvency | 119340 | [119340-budget-cuts-2-mission-insolvency.json](./119340-budget-cuts-2-mission-insolvency.json) |
 | Budget Rate Stigmata | 362855 | [362855-budget-rate-stigmata.json](./362855-budget-rate-stigmata.json) |
+| Budget Renovation Simulator | 407482 | [407482-budget-renovation-simulator.json](./407482-budget-renovation-simulator.json) |
 | Buenos Aires Mirror Line | 391162 | [391162-buenos-aires-mirror-line.json](./391162-buenos-aires-mirror-line.json) |
 | Buff Doge | 219066 | [219066-buff-doge.json](./219066-buff-doge.json) |
 | Buff Huckem Fully Wrecked | 270187 | [270187-buff-huckem-fully-wrecked.json](./270187-buff-huckem-fully-wrecked.json) |
