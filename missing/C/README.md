@@ -1184,6 +1184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnival | 297810 | [297810-carnival.json](./297810-carnival.json) |
 | Carnival and Girls | 170915 | [170915-carnival-and-girls.json](./170915-carnival-and-girls.json) |
 | Carnival Games | 108759 | [108759-carnival-games.json](./108759-carnival-games.json) |
+| Carnival Games VR | 25339 | [25339-carnival-games-vr.json](./25339-carnival-games-vr.json) |
 | Carnival Hammer | 335993 | [335993-carnival-hammer.json](./335993-carnival-hammer.json) |
 | Carnival Massacre | 25701 | [25701-carnival-massacre.json](./25701-carnival-massacre.json) |
 | Carnival of Souls | 309526 | [309526-carnival-of-souls.json](./309526-carnival-of-souls.json) |
@@ -5908,6 +5909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confusing game | 148340 | [148340-confusing-game.json](./148340-confusing-game.json) |
 | Confusion Constructions | 279074 | [279074-confusion-constructions.json](./279074-confusion-constructions.json) |
 | Confusion Readily Achieved Perspectively Through Unrealistic Relative Dimensions | 283740 | [283740-confusion-readily-achieved-perspectively-through-unrealistic-relative-dimensions.json](./283740-confusion-readily-achieved-perspectively-through-unrealistic-relative-dimensions.json) |
+| Conga Master | 24445 | [24445-conga-master.json](./24445-conga-master.json) |
 | Congestion 1024 | 196247 | [196247-congestion-1024.json](./196247-congestion-1024.json) |
 | Conglomerate 451: Overloaded | 151596 | [151596-conglomerate-451-overloaded.json](./151596-conglomerate-451-overloaded.json) |
 | Congo Bongo | 282063 | [282063-congo-bongo.json](./282063-congo-bongo.json) |
@@ -7541,6 +7543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepy | 270744 | [270744-creepy.json](./270744-creepy.json) |
 | Creepy & Cute Pixel Plushy Craft | 336900 | [336900-creepy-and-cute-pixel-plushy-craft.json](./336900-creepy-and-cute-pixel-plushy-craft.json) |
 | Creepy Camping | 367515 | [367515-creepy-camping.json](./367515-creepy-camping.json) |
+| Creepy Castle | 25567 | [25567-creepy-castle.json](./25567-creepy-castle.json) |
 | Creepy Claus | 322373 | [322373-creepy-claus.json](./322373-creepy-claus.json) |
 | Creepy Clown Revenge | 28054 | [28054-creepy-clown-revenge.json](./28054-creepy-clown-revenge.json) |
 | Creepy Corridors | 23902 | [23902-creepy-corridors.json](./23902-creepy-corridors.json) |
