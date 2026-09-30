@@ -2139,6 +2139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting of School | 306953 | [306953-fighting-of-school.json](./306953-fighting-of-school.json) |
 | Fighting Rogue | 358487 | [358487-fighting-rogue.json](./358487-fighting-rogue.json) |
 | Fighting Simulator | 326423 | [326423-fighting-simulator.json](./326423-fighting-simulator.json) |
+| Fighting Simulator: 2 in 1 Flying Warriors | 64795 | [64795-fighting-simulator-2-in-1-flying-warriors.json](./64795-fighting-simulator-2-in-1-flying-warriors.json) |
 | Fighting Soccer | 12097 | [12097-fighting-soccer.json](./12097-fighting-soccer.json) |
 | Fighting Steel: World War II Surface Combat 1939-1942 | 78006 | [78006-fighting-steel-world-war-ii-surface-combat-1939-1942.json](./78006-fighting-steel-world-war-ii-surface-combat-1939-1942.json) |
 | Fighting Vipers | 291605 | [291605-fighting-vipers.json](./291605-fighting-vipers.json) |
@@ -2903,6 +2904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Bone | 226156 | [226156-fish-bone.json](./226156-fish-bone.json) |
 | Fish Catcher | 105374 | [105374-fish-catcher.json](./105374-fish-catcher.json) |
 | Fish Chips and Bombs | 311637 | [311637-fish-chips-and-bombs.json](./311637-fish-chips-and-bombs.json) |
+| Fish Dude | 48946 | [48946-fish-dude.json](./48946-fish-dude.json) |
 | Fish Duel | 109686 | [109686-fish-duel.json](./109686-fish-duel.json) |
 | Fish Eyes | 383959 | [383959-fish-eyes.json](./383959-fish-eyes.json) |
 | Fish Face | 353895 | [353895-fish-face.json](./353895-fish-face.json) |
@@ -6111,6 +6113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furby Island | 233987 | [233987-furby-island.json](./233987-furby-island.json) |
 | Furcadia | 18343 | [18343-furcadia.json](./18343-furcadia.json) |
 | Furcadia: The Second Dreaming | 300875 | [300875-furcadia-the-second-dreaming.json](./300875-furcadia-the-second-dreaming.json) |
+| Fureraba: Friend to Lover | 60763 | [60763-fureraba-friend-to-lover.json](./60763-fureraba-friend-to-lover.json) |
 | Fureraba: Friend to Lover - Mini Fandisk | 77936 | [77936-fureraba-friend-to-lover-mini-fandisk.json](./77936-fureraba-friend-to-lover-mini-fandisk.json) |
 | Furi | 17026 | [17026-furi.json](./17026-furi.json) |
 | Furi: Onnamusha | 200436 | [200436-furi-onnamusha.json](./200436-furi-onnamusha.json) |
