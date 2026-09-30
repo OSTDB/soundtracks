@@ -260,6 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty 4: Survival Mode | 299136 | [299136-call-of-duty-4-survival-mode.json](./299136-call-of-duty-4-survival-mode.json) |
 | Call of Duty Endowment (C.O.D.E.) Knight Recon: Tracer Pack | 310052 | [310052-call-of-duty-endowment-c-o-d-e-knight-recon-tracer-pack.json](./310052-call-of-duty-endowment-c-o-d-e-knight-recon-tracer-pack.json) |
 | Call of Duty Tactics | 276488 | [276488-call-of-duty-tactics.json](./276488-call-of-duty-tactics.json) |
+| Call of Duty: Advanced Warfare - Ascendance | 20890 | [20890-call-of-duty-advanced-warfare-ascendance.json](./20890-call-of-duty-advanced-warfare-ascendance.json) |
 | Call of Duty: Advanced Warfare - Atlas Digital Pack | 25973 | [25973-call-of-duty-advanced-warfare-atlas-digital-pack.json](./25973-call-of-duty-advanced-warfare-atlas-digital-pack.json) |
 | Call of Duty: Advanced Warfare - Dubbed Edition | 201043 | [201043-call-of-duty-advanced-warfare-dubbed-edition.json](./201043-call-of-duty-advanced-warfare-dubbed-edition.json) |
 | Call of Duty: Advanced Warfare - Gold Edition | 99788 | [99788-call-of-duty-advanced-warfare-gold-edition.json](./99788-call-of-duty-advanced-warfare-gold-edition.json) |
@@ -279,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops II - Nuketown 2025 | 295256 | [295256-call-of-duty-black-ops-ii-nuketown-2025.json](./295256-call-of-duty-black-ops-ii-nuketown-2025.json) |
 | Call of Duty: Black Ops II - Nuketown Zombies | 295255 | [295255-call-of-duty-black-ops-ii-nuketown-zombies.json](./295255-call-of-duty-black-ops-ii-nuketown-zombies.json) |
 | Call of Duty: Black Ops II - Uprising | 20154 | [20154-call-of-duty-black-ops-ii-uprising.json](./20154-call-of-duty-black-ops-ii-uprising.json) |
+| Call of Duty: Black Ops II - Vengeance | 20854 | [20854-call-of-duty-black-ops-ii-vengeance.json](./20854-call-of-duty-black-ops-ii-vengeance.json) |
 | Call of Duty: Black Ops III - Awakening | 19948 | [19948-call-of-duty-black-ops-iii-awakening.json](./19948-call-of-duty-black-ops-iii-awakening.json) |
 | Call of Duty: Black Ops III - Descent | 20292 | [20292-call-of-duty-black-ops-iii-descent.json](./20292-call-of-duty-black-ops-iii-descent.json) |
 | Call of Duty: Black Ops III - Game of the Year Edition | 202222 | [202222-call-of-duty-black-ops-iii-game-of-the-year-edition.json](./202222-call-of-duty-black-ops-iii-game-of-the-year-edition.json) |
@@ -377,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Callbreak League | 237635 | [237635-callbreak-league.json](./237635-callbreak-league.json) |
 | Caller of the Crows | 348857 | [348857-caller-of-the-crows.json](./348857-caller-of-the-crows.json) |
 | Calling | 403030 | [403030-calling.json](./403030-calling.json) |
+| Calling All Cars! | 20701 | [20701-calling-all-cars.json](./20701-calling-all-cars.json) |
 | Calling All Mixels | 61143 | [61143-calling-all-mixels.json](./61143-calling-all-mixels.json) |
 | Calling Card | 297564 | [297564-calling-card.json](./297564-calling-card.json) |
 | Calling Home | 245792 | [245792-calling-home.json](./245792-calling-home.json) |
@@ -1188,6 +1191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnival Games | 108759 | [108759-carnival-games.json](./108759-carnival-games.json) |
 | Carnival Games VR | 25339 | [25339-carnival-games-vr.json](./25339-carnival-games-vr.json) |
 | Carnival Hammer | 335993 | [335993-carnival-hammer.json](./335993-carnival-hammer.json) |
+| Carnival Island | 20826 | [20826-carnival-island.json](./20826-carnival-island.json) |
 | Carnival Massacre | 25701 | [25701-carnival-massacre.json](./25701-carnival-massacre.json) |
 | Carnival of Souls | 309526 | [309526-carnival-of-souls.json](./309526-carnival-of-souls.json) |
 | Carnivore! | 413214 | [413214-carnivore.json](./413214-carnivore.json) |
@@ -1362,6 +1366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casenology | 382778 | [382778-casenology.json](./382778-casenology.json) |
 | Casey Duck: Butter Duck | 218408 | [218408-casey-duck-butter-duck.json](./218408-casey-duck-butter-duck.json) |
 | Casey Noir and Carved Pumpkin's Latte | 353967 | [353967-casey-noir-and-carved-pumpkins-latte.json](./353967-casey-noir-and-carved-pumpkins-latte.json) |
+| Casey Powell Lacrosse 16 | 20969 | [20969-casey-powell-lacrosse-16.json](./20969-casey-powell-lacrosse-16.json) |
 | Casey Powell Lacrosse 18 | 96477 | [96477-casey-powell-lacrosse-18.json](./96477-casey-powell-lacrosse-18.json) |
 | Cash Cleaner Simulator | 297943 | [297943-cash-cleaner-simulator.json](./297943-cash-cleaner-simulator.json) |
 | Cash Cow: Anniversary Edition | 90837 | [90837-cash-cow-anniversary-edition.json](./90837-cash-cow-anniversary-edition.json) |
@@ -2394,6 +2399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chainmap Chaos | 271232 | [271232-chainmap-chaos.json](./271232-chainmap-chaos.json) |
 | ChainMonsters | 124148 | [124148-chainmonsters.json](./124148-chainmonsters.json) |
 | Chainphoria | 200059 | [200059-chainphoria.json](./200059-chainphoria.json) |
+| Chains | 15781 | [15781-chains.json](./15781-chains.json) |
 | Chains of Fury | 125213 | [125213-chains-of-fury.json](./125213-chains-of-fury.json) |
 | Chains Of Reality | 334196 | [334196-chains-of-reality.json](./334196-chains-of-reality.json) |
 | Chains on Sand | 372001 | [372001-chains-on-sand.json](./372001-chains-on-sand.json) |
@@ -2719,6 +2725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chased | 221684 | [221684-chased.json](./221684-chased.json) |
 | Chased Around the World | 211963 | [211963-chased-around-the-world.json](./211963-chased-around-the-world.json) |
 | Chaseway | 179586 | [179586-chaseway.json](./179586-chaseway.json) |
+| Chasing Aurora | 20882 | [20882-chasing-aurora.json](./20882-chasing-aurora.json) |
 | Chasing Bottaflies | 286567 | [286567-chasing-bottaflies.json](./286567-chasing-bottaflies.json) |
 | Chasing Demons | 150553 | [150553-chasing-demons.json](./150553-chasing-demons.json) |
 | Chasing Kaleidorider | 343321 | [343321-chasing-kaleidorider.json](./343321-chasing-kaleidorider.json) |
@@ -4136,6 +4143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Stories: The Professor's Secret - Collector's Edition | 362839 | [362839-city-of-stories-the-professors-secret-collectors-edition.json](./362839-city-of-stories-the-professors-secret-collectors-edition.json) |
 | City of the Evil Dead | 282129 | [282129-city-of-the-evil-dead.json](./282129-city-of-the-evil-dead.json) |
 | City of Thugs | 154025 | [154025-city-of-thugs.json](./154025-city-of-thugs.json) |
+| City of Villains | 20457 | [20457-city-of-villains.json](./20457-city-of-villains.json) |
 | City of Voices | 327414 | [327414-city-of-voices.json](./327414-city-of-voices.json) |
 | City Parking Driver: Draw The Path Simulator | 271839 | [271839-city-parking-driver-draw-the-path-simulator.json](./271839-city-parking-driver-draw-the-path-simulator.json) |
 | City Patrol: Police | 97925 | [97925-city-patrol-police.json](./97925-city-patrol-police.json) |
@@ -6687,6 +6695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo's Delivery and Logistics | 269037 | [269037-cosmos-delivery-and-logistics.json](./269037-cosmos-delivery-and-logistics.json) |
 | Cosmo's Industry | 374841 | [374841-cosmos-industry.json](./374841-cosmos-industry.json) |
 | Cosmoblaster Exodia | 192939 | [192939-cosmoblaster-exodia.json](./192939-cosmoblaster-exodia.json) |
+| Cosmochoria | 17230 | [17230-cosmochoria.json](./17230-cosmochoria.json) |
 | Cosmodread | 144994 | [144994-cosmodread.json](./144994-cosmodread.json) |
 | CosmoDreamer | 151677 | [151677-cosmodreamer.json](./151677-cosmodreamer.json) |
 | CosmoDrive:Infinity | 147932 | [147932-cosmodrive-infinity.json](./147932-cosmodrive-infinity.json) |
@@ -8562,6 +8571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubix Classic | 67981 | [67981-cubix-classic.json](./67981-cubix-classic.json) |
 | Cubix Robots for Everyone: Showdown | 242806 | [242806-cubix-robots-for-everyone-showdown.json](./242806-cubix-robots-for-everyone-showdown.json) |
 | Cubix: Robots For Everyone - Race 'N Robots | 49897 | [49897-cubix-robots-for-everyone-race-n-robots.json](./49897-cubix-robots-for-everyone-race-n-robots.json) |
+| Cubixx HD | 20632 | [20632-cubixx-hd.json](./20632-cubixx-hd.json) |
 | Cubiya | 164881 | [164881-cubiya.json](./164881-cubiya.json) |
 | Cubob | 229006 | [229006-cubob.json](./229006-cubob.json) |
 | Cuboid | 23024 | [23024-cuboid.json](./23024-cuboid.json) |
