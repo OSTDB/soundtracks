@@ -566,6 +566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Days of Future | 226446 | [226446-last-days-of-future.json](./226446-last-days-of-future.json) |
 | Last Days of Spring 2: Deluxe Edition | 53264 | [53264-last-days-of-spring-2-deluxe-edition.json](./53264-last-days-of-spring-2-deluxe-edition.json) |
 | Last Days of Spring Visual Novel | 34322 | [34322-last-days-of-spring-visual-novel.json](./34322-last-days-of-spring-visual-novel.json) |
+| Last Days of Tascaria | 99595 | [99595-last-days-of-tascaria.json](./99595-last-days-of-tascaria.json) |
 | Last Defender | 310562 | [310562-last-defender.json](./310562-last-defender.json) |
 | Last Defenders | 173045 | [173045-last-defenders.json](./173045-last-defenders.json) |
 | Last Dolls | 382318 | [382318-last-dolls.json](./382318-last-dolls.json) |
@@ -1586,6 +1587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lempo | 214175 | [214175-lempo.json](./214175-lempo.json) |
 | Lems | 102975 | [102975-lems.json](./102975-lems.json) |
 | Lemures Blue's 2 A.M. | 137068 | [137068-lemures-blues-2-a-m.json](./137068-lemures-blues-2-a-m.json) |
+| Lenin - The Lion | 99626 | [99626-lenin-the-lion.json](./99626-lenin-the-lion.json) |
 | Lenin Simulator | 195180 | [195180-lenin-simulator.json](./195180-lenin-simulator.json) |
 | Lennod Jump Game | 384542 | [384542-lennod-jump-game.json](./384542-lennod-jump-game.json) |
 | Lennus II: Fuuin no Shito | 38376 | [38376-lennus-ii-fuuin-no-shito.json](./38376-lennus-ii-fuuin-no-shito.json) |
