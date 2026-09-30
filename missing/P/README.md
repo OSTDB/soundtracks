@@ -446,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pale Sand, Dark Skies | 179508 | [179508-pale-sand-dark-skies.json](./179508-pale-sand-dark-skies.json) |
 | Pale Tide | 403823 | [403823-pale-tide.json](./403823-pale-tide.json) |
 | Paleo Dive | 416816 | [416816-paleo-dive.json](./416816-paleo-dive.json) |
+| Paleo Pines | 133454 | [133454-paleo-pines.json](./133454-paleo-pines.json) |
 | Paleo Pines: Halloween Bundle | 317956 | [317956-paleo-pines-halloween-bundle.json](./317956-paleo-pines-halloween-bundle.json) |
 | Paleo Pines: Spooktacular DLC | 360598 | [360598-paleo-pines-spooktacular-dlc.json](./360598-paleo-pines-spooktacular-dlc.json) |
 | Paleo Pines: Trick or Treat DLC | 360597 | [360597-paleo-pines-trick-or-treat-dlc.json](./360597-paleo-pines-trick-or-treat-dlc.json) |
@@ -5069,6 +5070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Sacred Gold | 145626 | [145626-pokemon-sacred-gold.json](./145626-pokemon-sacred-gold.json) |
 | Pokemon Saiph 2 | 272886 | [272886-pokemon-saiph-2.json](./272886-pokemon-saiph-2.json) |
 | Pokémon Sapphire Version | 355533 | [355533-pokemon-sapphire-version.json](./355533-pokemon-sapphire-version.json) |
+| Pokémon Scarlet and Pokémon Violet Double Pack | 203516 | [203516-pokemon-scarlet-and-pokemon-violet-double-pack.json](./203516-pokemon-scarlet-and-pokemon-violet-double-pack.json) |
 | Pokémon Scarlet: The Hidden Treasure of Area Zero - Part 2: The Indigo Disk | 239932 | [239932-pokemon-scarlet-the-hidden-treasure-of-area-zero-part-2-the-indigo-disk.json](./239932-pokemon-scarlet-the-hidden-treasure-of-area-zero-part-2-the-indigo-disk.json) |
 | Pokémon Shield | 115653 | [115653-pokemon-shield.json](./115653-pokemon-shield.json) |
 | Pokémon Showdown | 87797 | [87797-pokemon-showdown.json](./87797-pokemon-showdown.json) |
