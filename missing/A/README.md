@@ -795,6 +795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss | 8524 | [8524-abyss.json](./8524-abyss.json) |
 | Abyss and Dungeon | 292164 | [292164-abyss-and-dungeon.json](./292164-abyss-and-dungeon.json) |
 | Abyss Chaser | 332446 | [332446-abyss-chaser.json](./332446-abyss-chaser.json) |
+| Abyss Crawlers Plus | 88465 | [88465-abyss-crawlers-plus.json](./88465-abyss-crawlers-plus.json) |
 | Abyss Eschaton Survivors | 348852 | [348852-abyss-eschaton-survivors.json](./348852-abyss-eschaton-survivors.json) |
 | Abyss King | 199485 | [199485-abyss-king.json](./199485-abyss-king.json) |
 | Abyss Kitchen | 341028 | [341028-abyss-kitchen.json](./341028-abyss-kitchen.json) |
@@ -7174,6 +7175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlantis Quest | 73744 | [73744-atlantis-quest.json](./73744-atlantis-quest.json) |
 | Atlantis-6 | 147472 | [147472-atlantis-6.json](./147472-atlantis-6.json) |
 | Atlantis: Evolution | 19446 | [19446-atlantis-evolution.json](./19446-atlantis-evolution.json) |
+| Atlantis: Mysteries of Ancient Inventors | 88345 | [88345-atlantis-mysteries-of-ancient-inventors.json](./88345-atlantis-mysteries-of-ancient-inventors.json) |
 | Atlantis: The Last Resort | 45947 | [45947-atlantis-the-last-resort.json](./45947-atlantis-the-last-resort.json) |
 | Atlantis: The Lost Empire - The Lost Games | 132153 | [132153-atlantis-the-lost-empire-the-lost-games.json](./132153-atlantis-the-lost-empire-the-lost-games.json) |
 | Atlantis: Underwater Tycoon | 24091 | [24091-atlantis-underwater-tycoon.json](./24091-atlantis-underwater-tycoon.json) |
