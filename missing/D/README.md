@@ -1157,6 +1157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date or Destiny: Kiss or Miss | 348880 | [348880-date-or-destiny-kiss-or-miss.json](./348880-date-or-destiny-kiss-or-miss.json) |
 | Date or Die | 56508 | [56508-date-or-die.json](./56508-date-or-die.json) |
 | Date Plus | 358498 | [358498-date-plus.json](./358498-date-plus.json) |
+| Date Senbei | 412450 | [412450-date-senbei.json](./412450-date-senbei.json) |
 | Date the Difference | 392299 | [392299-date-the-difference.json](./392299-date-the-difference.json) |
 | Date Us, You Won't | 215229 | [215229-date-us-you-wont.json](./215229-date-us-you-wont.json) |
 | Date Warp | 17400 | [17400-date-warp.json](./17400-date-warp.json) |
@@ -2737,6 +2738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delysium | 238078 | [238078-delysium.json](./238078-delysium.json) |
 | DEM_Stage_Zero | 127369 | [127369-dem-stage-zero.json](./127369-dem-stage-zero.json) |
 | DeMagnete VR | 115066 | [115066-demagnete-vr.json](./115066-demagnete-vr.json) |
+| Demake86 | 412460 | [412460-demake86.json](./412460-demake86.json) |
 | Demand Dial Exorcist | 366888 | [366888-demand-dial-exorcist.json](./366888-demand-dial-exorcist.json) |
 | Demencia | 202352 | [202352-demencia.json](./202352-demencia.json) |
 | Dementia | 184583 | [184583-dementia.json](./184583-dementia.json) |
@@ -2927,6 +2929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Denev | 108465 | [108465-denev.json](./108465-denev.json) |
 | Dengeki Bunko: Fighting Climax | 11448 | [11448-dengeki-bunko-fighting-climax.json](./11448-dengeki-bunko-fighting-climax.json) |
 | Dengeki Bunko: Fighting Climax Ignition - Mobile Version | 52139 | [52139-dengeki-bunko-fighting-climax-ignition-mobile-version.json](./52139-dengeki-bunko-fighting-climax-ignition-mobile-version.json) |
+| Dengeki Nurse | 412440 | [412440-dengeki-nurse.json](./412440-dengeki-nurse.json) |
 | Dengeki Nurse | 67241 | [67241-dengeki-nurse.json](./67241-dengeki-nurse.json) |
 | Dengeki Nurse 2: More Sexy | 67233 | [67233-dengeki-nurse-2-more-sexy.json](./67233-dengeki-nurse-2-more-sexy.json) |
 | Dengeki Stryker | 64954 | [64954-dengeki-stryker.json](./64954-dengeki-stryker.json) |
@@ -3201,6 +3204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Garden | 177478 | [177478-desktop-garden.json](./177478-desktop-garden.json) |
 | Desktop Hacker | 203953 | [203953-desktop-hacker.json](./203953-desktop-hacker.json) |
 | Desktop Heroes | 361291 | [361291-desktop-heroes.json](./361291-desktop-heroes.json) |
+| Desktop Island: Idle Together! | 412456 | [412456-desktop-island-idle-together.json](./412456-desktop-island-idle-together.json) |
 | Desktop Mark | 253589 | [253589-desktop-mark.json](./253589-desktop-mark.json) |
 | Desktop Pals | 306687 | [306687-desktop-pals.json](./306687-desktop-pals.json) |
 | Desktop Pasture | 360667 | [360667-desktop-pasture.json](./360667-desktop-pasture.json) |
@@ -6244,6 +6248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Down Load | 37716 | [37716-down-load.json](./37716-down-load.json) |
 | Down Load 2 | 85810 | [85810-down-load-2.json](./85810-down-load-2.json) |
 | Down Means Up | 121561 | [121561-down-means-up.json](./121561-down-means-up.json) |
+| Down Pit | 412348 | [412348-down-pit.json](./412348-down-pit.json) |
 | Down the Drain | 256830 | [256830-down-the-drain.json](./256830-down-the-drain.json) |
 | Down the Hill! | 259239 | [259239-down-the-hill.json](./259239-down-the-hill.json) |
 | Down the Hole | 133813 | [133813-down-the-hole.json](./133813-down-the-hole.json) |
@@ -8489,6 +8494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dust and Sorcery | 385222 | [385222-dust-and-sorcery.json](./385222-dust-and-sorcery.json) |
 | Dust Bunnies | 185554 | [185554-dust-bunnies.json](./185554-dust-bunnies.json) |
 | Dust Bunny | 342764 | [342764-dust-bunny.json](./342764-dust-bunny.json) |
+| Dust Bunny Simulator | 412484 | [412484-dust-bunny-simulator.json](./412484-dust-bunny-simulator.json) |
 | Dust Courier | 285984 | [285984-dust-courier.json](./285984-dust-courier.json) |
 | Dust Dasher | 135280 | [135280-dust-dasher.json](./135280-dust-dasher.json) |
 | Dust Devil | 256798 | [256798-dust-devil.json](./256798-dust-devil.json) |
