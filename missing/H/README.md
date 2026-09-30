@@ -2344,6 +2344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Puzzle Simulator 3 | 409530 | [409530-hentai-puzzle-simulator-3.json](./409530-hentai-puzzle-simulator-3.json) |
 | Hentai Puzzle XXX | 378807 | [378807-hentai-puzzle-xxx.json](./378807-hentai-puzzle-xxx.json) |
 | Hentai Puzzle: Clarise | 289439 | [289439-hentai-puzzle-clarise.json](./289439-hentai-puzzle-clarise.json) |
+| Hentai Puzzle: Doki Doki Dress-Up | 420690 | [420690-hentai-puzzle-doki-doki-dress-up.json](./420690-hentai-puzzle-doki-doki-dress-up.json) |
 | Hentai Puzzle: Girls | 304562 | [304562-hentai-puzzle-girls.json](./304562-hentai-puzzle-girls.json) |
 | Hentai Queens | 149431 | [149431-hentai-queens.json](./149431-hentai-queens.json) |
 | Hentai Rika | 340448 | [340448-hentai-rika.json](./340448-hentai-rika.json) |
@@ -3113,7 +3114,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Garden Word Scramble | 233748 | [233748-hidden-garden-word-scramble.json](./233748-hidden-garden-word-scramble.json) |
 | Hidden Gardens | 108262 | [108262-hidden-gardens.json](./108262-hidden-gardens.json) |
 | Hidden Gems, Hidden Secrets | 240499 | [240499-hidden-gems-hidden-secrets.json](./240499-hidden-gems-hidden-secrets.json) |
+| Hidden Girls: Bikini Dreams | 420673 | [420673-hidden-girls-bikini-dreams.json](./420673-hidden-girls-bikini-dreams.json) |
 | Hidden Girls: Quiet Beauty | 415059 | [415059-hidden-girls-quiet-beauty.json](./415059-hidden-girls-quiet-beauty.json) |
+| Hidden Girls: Tropical Vibes | 420672 | [420672-hidden-girls-tropical-vibes.json](./420672-hidden-girls-tropical-vibes.json) |
 | Hidden Harbor 2 Top-Down 3D | 226676 | [226676-hidden-harbor-2-top-down-3d.json](./226676-hidden-harbor-2-top-down-3d.json) |
 | Hidden Harbor Top-Down 3D | 195247 | [195247-hidden-harbor-top-down-3d.json](./195247-hidden-harbor-top-down-3d.json) |
 | Hidden Horror Photo Exhibition | 399643 | [399643-hidden-horror-photo-exhibition.json](./399643-hidden-horror-photo-exhibition.json) |
