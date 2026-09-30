@@ -1086,6 +1086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardfight!! Vanguard: Ride to Victory!! | 81457 | [81457-cardfight-vanguard-ride-to-victory.json](./81457-cardfight-vanguard-ride-to-victory.json) |
 | Cardfight!!: Additional Card Set Vol.6 [D-BT09] - Dragontree Invasion | 267666 | [267666-cardfight-additional-card-set-vol-6-d-bt09-dragontree-invasion.json](./267666-cardfight-additional-card-set-vol-6-d-bt09-dragontree-invasion.json) |
 | Cardfight!!: Rare Card Set 14 [D-BT09] - Dragontree Invasion | 267441 | [267441-cardfight-rare-card-set-14-d-bt09-dragontree-invasion.json](./267441-cardfight-rare-card-set-14-d-bt09-dragontree-invasion.json) |
+| CardForge | 397837 | [397837-cardforge.json](./397837-cardforge.json) |
 | Cardiac Powder | 226294 | [226294-cardiac-powder.json](./226294-cardiac-powder.json) |
 | Cardinal Arc: Konton no Fuusatsu | 43284 | [43284-cardinal-arc-konton-no-fuusatsu.json](./43284-cardinal-arc-konton-no-fuusatsu.json) |
 | Cardinal Chains | 96221 | [96221-cardinal-chains.json](./96221-cardinal-chains.json) |
@@ -4879,6 +4880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club Penguin: Game Day! | 92058 | [92058-club-penguin-game-day.json](./92058-club-penguin-game-day.json) |
 | Club Pinball | 243691 | [243691-club-pinball.json](./243691-club-pinball.json) |
 | Club Soccer Director 2018 | 55160 | [55160-club-soccer-director-2018.json](./55160-club-soccer-director-2018.json) |
+| Club Sports Collection Upgrade Edition | 397887 | [397887-club-sports-collection-upgrade-edition.json](./397887-club-sports-collection-upgrade-edition.json) |
 | Club Sports Collection: Definitive Edition | 400198 | [400198-club-sports-collection-definitive-edition.json](./400198-club-sports-collection-definitive-edition.json) |
 | Club Sports Collection: Premium Edition | 395676 | [395676-club-sports-collection-premium-edition.json](./395676-club-sports-collection-premium-edition.json) |
 | Club Vanentine | 228689 | [228689-club-vanentine.json](./228689-club-vanentine.json) |
@@ -5486,6 +5488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Book - Halloween | 87110 | [87110-coloring-book-halloween.json](./87110-coloring-book-halloween.json) |
 | Coloring Book for Ladybug & Cat Noir | 96011 | [96011-coloring-book-for-ladybug-and-cat-noir.json](./96011-coloring-book-for-ladybug-and-cat-noir.json) |
 | Coloring Book Series: Aquarium | 283280 | [283280-coloring-book-series-aquarium.json](./283280-coloring-book-series-aquarium.json) |
+| Coloring Book: Animals Edition - 90 drawings | 397873 | [397873-coloring-book-animals-edition-90-drawings.json](./397873-coloring-book-animals-edition-90-drawings.json) |
 | Coloring Book: Bundle For Kids - 140 drawings | 284510 | [284510-coloring-book-bundle-for-kids-140-drawings.json](./284510-coloring-book-bundle-for-kids-140-drawings.json) |
 | Coloring Book: Complete Bundle - 410 drawings | 283191 | [283191-coloring-book-complete-bundle-410-drawings.json](./283191-coloring-book-complete-bundle-410-drawings.json) |
 | Coloring Book: Cute Edition | 332514 | [332514-coloring-book-cute-edition.json](./332514-coloring-book-cute-edition.json) |
@@ -8922,6 +8925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cunt Wars | 140570 | [140570-cunt-wars.json](./140570-cunt-wars.json) |
 | Cup and Counter: Coffee Shop Simulator | 392774 | [392774-cup-and-counter-coffee-shop-simulator.json](./392774-cup-and-counter-coffee-shop-simulator.json) |
 | Cup Heroes: Beginner Merge Bundle | 414455 | [414455-cup-heroes-beginner-merge-bundle.json](./414455-cup-heroes-beginner-merge-bundle.json) |
+| Cup Heroes: Diamond Bag Bundle | 397885 | [397885-cup-heroes-diamond-bag-bundle.json](./397885-cup-heroes-diamond-bag-bundle.json) |
 | Cup Manager | 93170 | [93170-cup-manager.json](./93170-cup-manager.json) |
 | Cup of Ethanol | 249281 | [249281-cup-of-ethanol.json](./249281-cup-of-ethanol.json) |
 | Cupcake Baker | 87719 | [87719-cupcake-baker.json](./87719-cupcake-baker.json) |
