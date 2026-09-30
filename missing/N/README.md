@@ -3087,6 +3087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nolean: The Space Bartender | 334891 | [334891-nolean-the-space-bartender.json](./334891-nolean-the-space-bartender.json) |
 | NoLimits 2: Roller Coaster Simulation - Professional License | 315485 | [315485-nolimits-2-roller-coaster-simulation-professional-license.json](./315485-nolimits-2-roller-coaster-simulation-professional-license.json) |
 | Noloinstale | 372087 | [372087-noloinstale.json](./372087-noloinstale.json) |
+| NolyRhythm | 390731 | [390731-nolyrhythm.json](./390731-nolyrhythm.json) |
 | Nom Nom Nom | 209650 | [209650-nom-nom-nom.json](./209650-nom-nom-nom.json) |
 | Nom Nom: Cozy Forest Café | 258535 | [258535-nom-nom-cozy-forest-cafe.json](./258535-nom-nom-cozy-forest-cafe.json) |
 | Nomad | 403796 | [403796-nomad.json](./403796-nomad.json) |
