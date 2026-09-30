@@ -1082,6 +1082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Henk | 14550 | [14550-action-henk.json](./14550-action-henk.json) |
 | Action Hollywood | 46767 | [46767-action-hollywood.json](./46767-action-hollywood.json) |
 | Action in the North Atlantic | 70452 | [70452-action-in-the-north-atlantic.json](./70452-action-in-the-north-atlantic.json) |
+| Action Janken | 404997 | [404997-action-janken.json](./404997-action-janken.json) |
 | Action Man A.T.O.M.: Alpha Teens on Machines | 83248 | [83248-action-man-a-t-o-m-alpha-teens-on-machines.json](./83248-action-man-a-t-o-m-alpha-teens-on-machines.json) |
 | Action Man: Destruction X | 44848 | [44848-action-man-destruction-x.json](./44848-action-man-destruction-x.json) |
 | Action News Heroes | 51614 | [51614-action-news-heroes.json](./51614-action-news-heroes.json) |
@@ -4528,6 +4529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomalies Detective | 325068 | [325068-anomalies-detective.json](./325068-anomalies-detective.json) |
 | Anomalistic Revolution | 226235 | [226235-anomalistic-revolution.json](./226235-anomalistic-revolution.json) |
 | Anomalith | 402530 | [402530-anomalith.json](./402530-anomalith.json) |
+| Anomalogenos | 404998 | [404998-anomalogenos.json](./404998-anomalogenos.json) |
 | Anomalous Materials | 252095 | [252095-anomalous-materials.json](./252095-anomalous-materials.json) |
 | Anomalous Veil | 407323 | [407323-anomalous-veil.json](./407323-anomalous-veil.json) |
 | Anomalous Zone | 211434 | [211434-anomalous-zone.json](./211434-anomalous-zone.json) |
@@ -4854,6 +4856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apathy: Rental Kazoku | 212254 | [212254-apathy-rental-kazoku.json](./212254-apathy-rental-kazoku.json) |
 | APB | 37097 | [37097-apb.json](./37097-apb.json) |
 | APB: All Points Bulletin | 23369 | [23369-apb-all-points-bulletin.json](./23369-apb-all-points-bulletin.json) |
+| APE | 404982 | [404982-ape.json](./404982-ape.json) |
 | Ape Academy 2 | 37047 | [37047-ape-academy-2.json](./37047-ape-academy-2.json) |
 | Ape Escape | 146296 | [146296-ape-escape.json](./146296-ape-escape.json) |
 | Ape Escape 3 | 6064 | [6064-ape-escape-3.json](./6064-ape-escape-3.json) |
