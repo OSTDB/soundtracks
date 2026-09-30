@@ -2407,6 +2407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChainMonsters | 124148 | [124148-chainmonsters.json](./124148-chainmonsters.json) |
 | Chainphoria | 200059 | [200059-chainphoria.json](./200059-chainphoria.json) |
 | Chains | 15781 | [15781-chains.json](./15781-chains.json) |
+| Chains of Freedom | 324581 | [324581-chains-of-freedom.json](./324581-chains-of-freedom.json) |
 | Chains of Fury | 125213 | [125213-chains-of-fury.json](./125213-chains-of-fury.json) |
 | Chains Of Reality | 334196 | [334196-chains-of-reality.json](./334196-chains-of-reality.json) |
 | Chains on Sand | 372001 | [372001-chains-on-sand.json](./372001-chains-on-sand.json) |
@@ -4177,6 +4178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Takeover: Fierce Animals | 309085 | [309085-city-takeover-fierce-animals.json](./309085-city-takeover-fierce-animals.json) |
 | City Takeover: Gentle Animals | 309086 | [309086-city-takeover-gentle-animals.json](./309086-city-takeover-gentle-animals.json) |
 | City Takeover: Wild Edition | 364096 | [364096-city-takeover-wild-edition.json](./364096-city-takeover-wild-edition.json) |
+| City Tales: Medieval Era | 324584 | [324584-city-tales-medieval-era.json](./324584-city-tales-medieval-era.json) |
 | City Trader | 94368 | [94368-city-trader.json](./94368-city-trader.json) |
 | City Traffic Car Driving Parking Career Simulator | 86958 | [86958-city-traffic-car-driving-parking-career-simulator.json](./86958-city-traffic-car-driving-parking-career-simulator.json) |
 | City Transport Simulator: Bus | 359609 | [359609-city-transport-simulator-bus.json](./359609-city-transport-simulator-bus.json) |
@@ -4324,6 +4326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClashofHunter | 130794 | [130794-clashofhunter.json](./130794-clashofhunter.json) |
 | Class of Heroes 2 | 20999 | [20999-class-of-heroes-2.json](./20999-class-of-heroes-2.json) |
 | Class of Heroes 3 | 65563 | [65563-class-of-heroes-3.json](./65563-class-of-heroes-3.json) |
+| Class of Heroes 3: Remaster | 325303 | [325303-class-of-heroes-3-remaster.json](./325303-class-of-heroes-3-remaster.json) |
 | Class Trip Crush | 238411 | [238411-class-trip-crush.json](./238411-class-trip-crush.json) |
 | Class4 (working title) | 131466 | [131466-class4-working-title.json](./131466-class4-working-title.json) |
 | Classic Adventures: The Great Gatsby | 417686 | [417686-classic-adventures-the-great-gatsby.json](./417686-classic-adventures-the-great-gatsby.json) |
