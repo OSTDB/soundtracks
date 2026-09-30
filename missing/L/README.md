@@ -3883,6 +3883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Sector Online | 62815 | [62815-lost-sector-online.json](./62815-lost-sector-online.json) |
 | Lost Shipwreck | 72367 | [72367-lost-shipwreck.json](./72367-lost-shipwreck.json) |
 | Lost Snowmen | 187983 | [187983-lost-snowmen.json](./187983-lost-snowmen.json) |
+| Lost Socks: Naughty Brothers | 32053 | [32053-lost-socks-naughty-brothers.json](./32053-lost-socks-naughty-brothers.json) |
 | Lost Soul | 184128 | [184128-lost-soul.json](./184128-lost-soul.json) |
 | Lost Soul | 250888 | [250888-lost-soul.json](./250888-lost-soul.json) |
 | Lost Soul | 50115 | [50115-lost-soul.json](./50115-lost-soul.json) |
