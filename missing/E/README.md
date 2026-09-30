@@ -3343,6 +3343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exilio | 218712 | [218712-exilio.json](./218712-exilio.json) |
 | Exipath | 400900 | [400900-exipath.json](./400900-exipath.json) |
 | Exist | 212488 | [212488-exist.json](./212488-exist.json) |
+| Exist | 88472 | [88472-exist.json](./88472-exist.json) |
 | Existence | 113056 | [113056-existence.json](./113056-existence.json) |
 | Existence = !Existence; | 110168 | [110168-existence-existence.json](./110168-existence-existence.json) |
 | Existensis | 149445 | [149445-existensis.json](./149445-existensis.json) |
@@ -3595,6 +3596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Evolution: Drive to Divinity | 216740 | [216740-extreme-evolution-drive-to-divinity.json](./216740-extreme-evolution-drive-to-divinity.json) |
 | Extreme flight | 118411 | [118411-extreme-flight.json](./118411-extreme-flight.json) |
 | Extreme Formula Championship | 101592 | [101592-extreme-formula-championship.json](./101592-extreme-formula-championship.json) |
+| Extreme Formula Championship 2015 | 88450 | [88450-extreme-formula-championship-2015.json](./88450-extreme-formula-championship-2015.json) |
 | Extreme Ghostbusters: Code Ecto-1 | 129158 | [129158-extreme-ghostbusters-code-ecto-1.json](./129158-extreme-ghostbusters-code-ecto-1.json) |
 | Extreme Go-Kart Racing | 45306 | [45306-extreme-go-kart-racing.json](./45306-extreme-go-kart-racing.json) |
 | Extreme Hangman 2 | 62255 | [62255-extreme-hangman-2.json](./62255-extreme-hangman-2.json) |
