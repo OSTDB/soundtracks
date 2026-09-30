@@ -4375,6 +4375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ford Racing 3 | 4870 | [4870-ford-racing-3.json](./4870-ford-racing-3.json) |
 | Ford Simulator III | 80646 | [80646-ford-simulator-iii.json](./80646-ford-simulator-iii.json) |
 | Ford vs. Chevy | 5838 | [5838-ford-vs-chevy.json](./5838-ford-vs-chevy.json) |
+| Forebearers | 112704 | [112704-forebearers.json](./112704-forebearers.json) |
 | Forebears | 211934 | [211934-forebears.json](./211934-forebears.json) |
 | Forecast Death | 382758 | [382758-forecast-death.json](./382758-forecast-death.json) |
 | Foreclosed | 134579 | [134579-foreclosed.json](./134579-foreclosed.json) |
@@ -4584,6 +4585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forklift Racer | 253948 | [253948-forklift-racer.json](./253948-forklift-racer.json) |
 | Forklift Simulator | 293134 | [293134-forklift-simulator.json](./293134-forklift-simulator.json) |
 | Forklift Simulator | 326425 | [326425-forklift-simulator.json](./326425-forklift-simulator.json) |
+| Forklift Simulator 2019 | 112048 | [112048-forklift-simulator-2019.json](./112048-forklift-simulator-2019.json) |
 | Forklift Simulator 2023 | 255158 | [255158-forklift-simulator-2023.json](./255158-forklift-simulator-2023.json) |
 | Forklift Simulator 2024 | 283729 | [283729-forklift-simulator-2024.json](./283729-forklift-simulator-2024.json) |
 | Forklore | 196803 | [196803-forklore.json](./196803-forklore.json) |
@@ -5623,6 +5625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogz | 329159 | [329159-frogz.json](./329159-frogz.json) |
 | From Basement with Love | 384057 | [384057-from-basement-with-love.json](./384057-from-basement-with-love.json) |
 | From Below | 415065 | [415065-from-below.json](./415065-from-below.json) |
+| From Beyond Prologue | 112624 | [112624-from-beyond-prologue.json](./112624-from-beyond-prologue.json) |
 | From By | 348422 | [348422-from-by.json](./348422-from-by.json) |
 | From Cheese | 370807 | [370807-from-cheese.json](./370807-from-cheese.json) |
 | From Day to Day | 151106 | [151106-from-day-to-day.json](./151106-from-day-to-day.json) |
