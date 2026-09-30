@@ -965,6 +965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acheron's Souls | 150121 | [150121-acherons-souls.json](./150121-acherons-souls.json) |
 | Achi: Strategy Game | 142973 | [142973-achi-strategy-game.json](./142973-achi-strategy-game.json) |
 | Achievement Chevo Lurker: Achievement Exodus | 72483 | [72483-achievement-chevo-lurker-achievement-exodus.json](./72483-achievement-chevo-lurker-achievement-exodus.json) |
+| Achievement Clicker 2019 | 95223 | [95223-achievement-clicker-2019.json](./95223-achievement-clicker-2019.json) |
 | Achievement Clicker 2020 | 104084 | [104084-achievement-clicker-2020.json](./104084-achievement-clicker-2020.json) |
 | Achievement Collector: Cat | 107682 | [107682-achievement-collector-cat.json](./107682-achievement-collector-cat.json) |
 | Achievement Collector: Space | 110522 | [110522-achievement-collector-space.json](./110522-achievement-collector-space.json) |
@@ -980,6 +981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Hunter: Samurai | 334772 | [334772-achievement-hunter-samurai.json](./334772-achievement-hunter-samurai.json) |
 | Achievement Hunter: Thief | 334762 | [334762-achievement-hunter-thief.json](./334762-achievement-hunter-thief.json) |
 | Achievement Hunter: Witch | 334780 | [334780-achievement-hunter-witch.json](./334780-achievement-hunter-witch.json) |
+| Achievement Idler Black | 95124 | [95124-achievement-idler-black.json](./95124-achievement-idler-black.json) |
 | Achievement Lurker: Ballad of the Shimapan Warrior - King of Panties | 102133 | [102133-achievement-lurker-ballad-of-the-shimapan-warrior-king-of-panties.json](./102133-achievement-lurker-ballad-of-the-shimapan-warrior-king-of-panties.json) |
 | Achievement Lurker: Easiest Cosmetic Numbers | 90120 | [90120-achievement-lurker-easiest-cosmetic-numbers.json](./90120-achievement-lurker-easiest-cosmetic-numbers.json) |
 | Achievement Lurker: We Give Up! | 81624 | [81624-achievement-lurker-we-give-up.json](./81624-achievement-lurker-we-give-up.json) |
@@ -1780,6 +1782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agraelus, Wanna be MaN | 141737 | [141737-agraelus-wanna-be-man.json](./141737-agraelus-wanna-be-man.json) |
 | Agrarian developer | 283883 | [283883-agrarian-developer.json](./283883-agrarian-developer.json) |
 | AgrChamp | 240748 | [240748-agrchamp.json](./240748-agrchamp.json) |
+| Agricola | 88316 | [88316-agricola.json](./88316-agricola.json) |
 | Agricultural Simulator 2011 | 9537 | [9537-agricultural-simulator-2011.json](./9537-agricultural-simulator-2011.json) |
 | Agricultural Simulator 2012: Deluxe Edition | 36393 | [36393-agricultural-simulator-2012-deluxe-edition.json](./36393-agricultural-simulator-2012-deluxe-edition.json) |
 | Agricultural Simulator 2013: Collector's Edition | 25047 | [25047-agricultural-simulator-2013-collectors-edition.json](./25047-agricultural-simulator-2013-collectors-edition.json) |
@@ -5217,6 +5220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Metal Black | 225889 | [225889-arcade-archives-metal-black.json](./225889-arcade-archives-metal-black.json) |
 | Arcade Archives: Metamorphic Force | 320940 | [320940-arcade-archives-metamorphic-force.json](./320940-arcade-archives-metamorphic-force.json) |
 | Arcade Archives: Midnight Landing | 375404 | [375404-arcade-archives-midnight-landing.json](./375404-arcade-archives-midnight-landing.json) |
+| Arcade Archives: Moon Patrol | 95050 | [95050-arcade-archives-moon-patrol.json](./95050-arcade-archives-moon-patrol.json) |
 | Arcade Archives: Mr. Goemon | 99763 | [99763-arcade-archives-mr-goemon.json](./99763-arcade-archives-mr-goemon.json) |
 | Arcade Archives: Mutant Night | 121427 | [121427-arcade-archives-mutant-night.json](./121427-arcade-archives-mutant-night.json) |
 | Arcade Archives: Mystic Warriors | 282155 | [282155-arcade-archives-mystic-warriors.json](./282155-arcade-archives-mystic-warriors.json) |
