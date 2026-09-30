@@ -398,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pair Room | 393806 | [393806-pair-room.json](./393806-pair-room.json) |
 | Pair Up | 303111 | [303111-pair-up.json](./303111-pair-up.json) |
 | Pair Up | 359395 | [359395-pair-up.json](./359395-pair-up.json) |
+| Paironix | 408949 | [408949-paironix.json](./408949-paironix.json) |
 | Pairs | 91372 | [91372-pairs.json](./91372-pairs.json) |
 | Pairs & Perils | 315042 | [315042-pairs-and-perils.json](./315042-pairs-and-perils.json) |
 | Pairs and Rotors | 67394 | [67394-pairs-and-rotors.json](./67394-pairs-and-rotors.json) |
@@ -5260,6 +5261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Pop! | 209145 | [209145-poker-pop.json](./209145-poker-pop.json) |
 | Poker Pretty Girls Battle: Fantasy World Edition | 146175 | [146175-poker-pretty-girls-battle-fantasy-world-edition.json](./146175-poker-pretty-girls-battle-fantasy-world-edition.json) |
 | Poker Pretty Girls Battle: Texas Hold'em | 34324 | [34324-poker-pretty-girls-battle-texas-holdem.json](./34324-poker-pretty-girls-battle-texas-holdem.json) |
+| Poker Puzzle Pokers Wii | 408944 | [408944-poker-puzzle-pokers-wii.json](./408944-poker-puzzle-pokers-wii.json) |
 | Poker Squ♠res | 81285 | [81285-poker-squ-res.json](./81285-poker-squ-res.json) |
 | Poker Squares | 131523 | [131523-poker-squares.json](./131523-poker-squares.json) |
 | Poker Superstars: Invitational Tournament | 61699 | [61699-poker-superstars-invitational-tournament.json](./61699-poker-superstars-invitational-tournament.json) |
@@ -5294,6 +5296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokkén Tournament: Update Ver.N01 | 300364 | [300364-pokken-tournament-update-ver-n01.json](./300364-pokken-tournament-update-ver-n01.json) |
 | Poko Memorial: 18th Hole Miniature Golf | 73537 | [73537-poko-memorial-18th-hole-miniature-golf.json](./73537-poko-memorial-18th-hole-miniature-golf.json) |
 | Pokor | 397770 | [397770-pokor.json](./397770-pokor.json) |
+| Pokosuka Racing | 408945 | [408945-pokosuka-racing.json](./408945-pokosuka-racing.json) |
 | Pokris | 116099 | [116099-pokris.json](./116099-pokris.json) |
 | Pokubittu | 97836 | [97836-pokubittu.json](./97836-pokubittu.json) |
 | Polandball: Can into Space! | 19679 | [19679-polandball-can-into-space.json](./19679-polandball-can-into-space.json) |
@@ -5750,6 +5753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poppit! Party | 354993 | [354993-poppit-party.json](./354993-poppit-party.json) |
 | Poppit! Sprint | 366445 | [366445-poppit-sprint.json](./366445-poppit-sprint.json) |
 | Poppix | 105535 | [105535-poppix.json](./105535-poppix.json) |
+| Popple to Mahou no Crayon | 408947 | [408947-popple-to-mahou-no-crayon.json](./408947-popple-to-mahou-no-crayon.json) |
 | Poppy Birds | 267955 | [267955-poppy-birds.json](./267955-poppy-birds.json) |
 | Poppy It! Playtime | 281420 | [281420-poppy-it-playtime.json](./281420-poppy-it-playtime.json) |
 | Poppy Kart | 13884 | [13884-poppy-kart.json](./13884-poppy-kart.json) |
