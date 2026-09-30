@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valentines Desire: Steam Edition | 130956 | [130956-valentines-desire-steam-edition.json](./130956-valentines-desire-steam-edition.json) |
 | Valentines Otome | 125411 | [125411-valentines-otome.json](./125411-valentines-otome.json) |
 | Valentino Rossi the Game Compact | 31978 | [31978-valentino-rossi-the-game-compact.json](./31978-valentino-rossi-the-game-compact.json) |
+| Valentino Rossi: The Game | 24681 | [24681-valentino-rossi-the-game.json](./24681-valentino-rossi-the-game.json) |
 | Valentino Rossi: The Game - Digital Deluxe | 118943 | [118943-valentino-rossi-the-game-digital-deluxe.json](./118943-valentino-rossi-the-game-digital-deluxe.json) |
 | Valentino Rossi: The Game - MotoGP Legendary Bikes | 167849 | [167849-valentino-rossi-the-game-motogp-legendary-bikes.json](./167849-valentino-rossi-the-game-motogp-legendary-bikes.json) |
 | Valentino Rossi: The Game - Real Events: 2015 MotoGP Season | 168360 | [168360-valentino-rossi-the-game-real-events-2015-motogp-season.json](./168360-valentino-rossi-the-game-real-events-2015-motogp-season.json) |
@@ -1004,6 +1005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Rise | 246290 | [246290-viking-rise.json](./246290-viking-rise.json) |
 | Viking Rush: Clan Defenders' Glory Clash Chronicle | 235147 | [235147-viking-rush-clan-defenders-glory-clash-chronicle.json](./235147-viking-rush-clan-defenders-glory-clash-chronicle.json) |
 | Viking Sisters | 117812 | [117812-viking-sisters.json](./117812-viking-sisters.json) |
+| Viking Squad | 24837 | [24837-viking-squad.json](./24837-viking-squad.json) |
 | Viking Story | 158512 | [158512-viking-story.json](./158512-viking-story.json) |
 | Viking Survivors | 243623 | [243623-viking-survivors.json](./243623-viking-survivors.json) |
 | Viking Village | 88823 | [88823-viking-village.json](./88823-viking-village.json) |
@@ -1442,6 +1444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vodobanka | 207831 | [207831-vodobanka.json](./207831-vodobanka.json) |
 | Vogue | 183884 | [183884-vogue.json](./183884-vogue.json) |
 | Vohenn | 387538 | [387538-vohenn.json](./387538-vohenn.json) |
+| Voi | 25788 | [25788-voi.json](./25788-voi.json) |
 | Voice | 191246 | [191246-voice.json](./191246-voice.json) |
 | Voice Actress II | 104801 | [104801-voice-actress-ii.json](./104801-voice-actress-ii.json) |
 | Voice Changer 360 | 80639 | [80639-voice-changer-360.json](./80639-voice-changer-360.json) |
