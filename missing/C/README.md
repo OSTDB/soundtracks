@@ -1112,6 +1112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cards of the Dead | 147335 | [147335-cards-of-the-dead.json](./147335-cards-of-the-dead.json) |
 | Cards of the Dreaming Dragons | 207531 | [207531-cards-of-the-dreaming-dragons.json](./207531-cards-of-the-dreaming-dragons.json) |
 | Cards of the Realm | 246916 | [246916-cards-of-the-realm.json](./246916-cards-of-the-realm.json) |
+| Cards On The Table | 412462 | [412462-cards-on-the-table.json](./412462-cards-on-the-table.json) |
 | Cards Survivors | 246487 | [246487-cards-survivors.json](./246487-cards-survivors.json) |
 | Cards We're Dealt | 244741 | [244741-cards-were-dealt.json](./244741-cards-were-dealt.json) |
 | Cards with Personalities Classic | 291620 | [291620-cards-with-personalities-classic.json](./291620-cards-with-personalities-classic.json) |
@@ -1708,6 +1709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat City | 260227 | [260227-cat-city.json](./260227-cat-city.json) |
 | Cat Clean Ocean | 320916 | [320916-cat-clean-ocean.json](./320916-cat-clean-ocean.json) |
 | Cat Clinic Simulator: Vet Hospital | 364075 | [364075-cat-clinic-simulator-vet-hospital.json](./364075-cat-clinic-simulator-vet-hospital.json) |
+| Cat Crisis | 412438 | [412438-cat-crisis.json](./412438-cat-crisis.json) |
 | Cat Dance | 178007 | [178007-cat-dance.json](./178007-cat-dance.json) |
 | Cat Dash Go | 236232 | [236232-cat-dash-go.json](./236232-cat-dash-go.json) |
 | Cat Demon Island | 109903 | [109903-cat-demon-island.json](./109903-cat-demon-island.json) |
@@ -1827,6 +1829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat's Vote | 274509 | [274509-cats-vote.json](./274509-cats-vote.json) |
 | Cat's Wars | 369097 | [369097-cats-wars.json](./369097-cats-wars.json) |
 | Cat&rooms | 119711 | [119711-cat-and-rooms.json](./119711-cat-and-rooms.json) |
+| Cata-Bomb | 412437 | [412437-cata-bomb.json](./412437-cata-bomb.json) |
 | Cataclismo | 250162 | [250162-cataclismo.json](./250162-cataclismo.json) |
 | Cataclismo: The Old Kingdom | 411100 | [411100-cataclismo-the-old-kingdom.json](./411100-cataclismo-the-old-kingdom.json) |
 | Cataclysm | 250651 | [250651-cataclysm.json](./250651-cataclysm.json) |
@@ -7097,6 +7100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Days | 209604 | [209604-cozy-days.json](./209604-cozy-days.json) |
 | Cozy Designer | 295783 | [295783-cozy-designer.json](./295783-cozy-designer.json) |
 | Cozy Escapes | 279006 | [279006-cozy-escapes.json](./279006-cozy-escapes.json) |
+| Cozy Farm Life Simulator | 412458 | [412458-cozy-farm-life-simulator.json](./412458-cozy-farm-life-simulator.json) |
 | Cozy Farming 3 in 1 Collection | 328546 | [328546-cozy-farming-3-in-1-collection.json](./328546-cozy-farming-3-in-1-collection.json) |
 | Cozy Fishing Life | 416673 | [416673-cozy-fishing-life.json](./416673-cozy-fishing-life.json) |
 | Cozy Forest | 369084 | [369084-cozy-forest.json](./369084-cozy-forest.json) |
@@ -7513,6 +7517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Factory | 24070 | [24070-crazy-factory.json](./24070-crazy-factory.json) |
 | Crazy Fairies | 63267 | [63267-crazy-fairies.json](./63267-crazy-fairies.json) |
 | Crazy Farm 2 | 120354 | [120354-crazy-farm-2.json](./120354-crazy-farm-2.json) |
+| Crazy Farm: Roguelike Idle Building Game | 412497 | [412497-crazy-farm-roguelike-idle-building-game.json](./412497-crazy-farm-roguelike-idle-building-game.json) |
 | Crazy Fatties | 188930 | [188930-crazy-fatties.json](./188930-crazy-fatties.json) |
 | Crazy Flasher 3 | 62165 | [62165-crazy-flasher-3.json](./62165-crazy-flasher-3.json) |
 | Crazy Flasher Series 2021 | 157146 | [157146-crazy-flasher-series-2021.json](./157146-crazy-flasher-series-2021.json) |
