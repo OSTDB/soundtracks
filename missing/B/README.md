@@ -1772,6 +1772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle for Atlantis | 341135 | [341135-battle-for-atlantis.json](./341135-battle-for-atlantis.json) |
 | Battle for Borders | 236802 | [236802-battle-for-borders.json](./236802-battle-for-borders.json) |
 | Battle for Cloud 9 | 337285 | [337285-battle-for-cloud-9.json](./337285-battle-for-cloud-9.json) |
+| Battle For Crown: Multiplayer | 405644 | [405644-battle-for-crown-multiplayer.json](./405644-battle-for-crown-multiplayer.json) |
 | Battle For Dream Island Again 5b | 138011 | [138011-battle-for-dream-island-again-5b.json](./138011-battle-for-dream-island-again-5b.json) |
 | Battle for Graxia | 50814 | [50814-battle-for-graxia.json](./50814-battle-for-graxia.json) |
 | Battle For It All | 87192 | [87192-battle-for-it-all.json](./87192-battle-for-it-all.json) |
@@ -6930,6 +6931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Nine: World Billiards Tournament | 5755 | [5755-break-nine-world-billiards-tournament.json](./5755-break-nine-world-billiards-tournament.json) |
 | Break Point | 257351 | [257351-break-point.json](./257351-break-point.json) |
 | Break Point | 337697 | [337697-break-point.json](./337697-break-point.json) |
+| Break Point: Brace & Breach | 405567 | [405567-break-point-brace-and-breach.json](./405567-break-point-brace-and-breach.json) |
 | Break Space: Out of Bounds | 158694 | [158694-break-space-out-of-bounds.json](./158694-break-space-out-of-bounds.json) |
 | Break Street | 25783 | [25783-break-street.json](./25783-break-street.json) |
 | Break Tactics | 85516 | [85516-break-tactics.json](./85516-break-tactics.json) |
@@ -8355,6 +8357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Button VR Expeditions | 247762 | [247762-button-vr-expeditions.json](./247762-button-vr-expeditions.json) |
 | ButtonHunt 3 | 272787 | [272787-buttonhunt-3.json](./272787-buttonhunt-3.json) |
 | Buttons Up! | 386419 | [386419-buttons-up.json](./386419-buttons-up.json) |
+| Buttons Up! 2 | 405568 | [405568-buttons-up-2.json](./405568-buttons-up-2.json) |
 | Buy a Croquette! | 360750 | [360750-buy-a-croquette.json](./360750-buy-a-croquette.json) |
 | Buy Low Sell High | 109707 | [109707-buy-low-sell-high.json](./109707-buy-low-sell-high.json) |
 | Buy Me Some Soup | 188682 | [188682-buy-me-some-soup.json](./188682-buy-me-some-soup.json) |
