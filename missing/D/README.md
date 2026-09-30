@@ -5535,6 +5535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominos | 88431 | [88431-dominos.json](./88431-dominos.json) |
 | Dominos Pro | 86694 | [86694-dominos-pro.json](./86694-dominos-pro.json) |
 | Dominos Pro | 86873 | [86873-dominos-pro.json](./86873-dominos-pro.json) |
+| Dominot | 389023 | [389023-dominot.json](./389023-dominot.json) |
 | Dominus 2 | 106421 | [106421-dominus-2.json](./106421-dominus-2.json) |
 | Dominus Diabolicus | 294764 | [294764-dominus-diabolicus.json](./294764-dominus-diabolicus.json) |
 | Dominus Galaxia | 124744 | [124744-dominus-galaxia.json](./124744-dominus-galaxia.json) |
@@ -7673,6 +7674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Attack! | 124707 | [124707-drone-attack.json](./124707-drone-attack.json) |
 | Drone Combat | 127013 | [127013-drone-combat.json](./127013-drone-combat.json) |
 | Drone Crash Course | 190171 | [190171-drone-crash-course.json](./190171-drone-crash-course.json) |
+| Drone Delivery Express: City Simulator | 389052 | [389052-drone-delivery-express-city-simulator.json](./389052-drone-delivery-express-city-simulator.json) |
 | Drone Investigations | 127866 | [127866-drone-investigations.json](./127866-drone-investigations.json) |
 | Drone Lander | 23859 | [23859-drone-lander.json](./23859-drone-lander.json) |
 | Drone Race Simulator Pilot Flight School Airplane Games Jet 2023 | 227515 | [227515-drone-race-simulator-pilot-flight-school-airplane-games-jet-2023.json](./227515-drone-race-simulator-pilot-flight-school-airplane-games-jet-2023.json) |
