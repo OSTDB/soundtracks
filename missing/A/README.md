@@ -893,6 +893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACE / ACE 2 | 138690 | [138690-ace-ace-2.json](./138690-ace-ace-2.json) |
 | Ace Angler | 144863 | [144863-ace-angler.json](./144863-ace-angler.json) |
 | Ace Angler | 292017 | [292017-ace-angler.json](./292017-ace-angler.json) |
+| Ace Angler: Fishing Spirits | 222795 | [222795-ace-angler-fishing-spirits.json](./222795-ace-angler-fishing-spirits.json) |
 | Ace Armstrong vs. The Alien Scumbags! | 42784 | [42784-ace-armstrong-vs-the-alien-scumbags.json](./42784-ace-armstrong-vs-the-alien-scumbags.json) |
 | Ace Attorney Investigations 0: Quercus Alba Dating Simulator | 237350 | [237350-ace-attorney-investigations-0-quercus-alba-dating-simulator.json](./237350-ace-attorney-investigations-0-quercus-alba-dating-simulator.json) |
 | Ace Attorney Investigations 2: Prosecutor's Gambit | 307145 | [307145-ace-attorney-investigations-2-prosecutors-gambit.json](./307145-ace-attorney-investigations-2-prosecutors-gambit.json) |
@@ -3131,6 +3132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alphadia 2 | 38964 | [38964-alphadia-2.json](./38964-alphadia-2.json) |
 | Alphadia Genesis | 17849 | [17849-alphadia-genesis.json](./17849-alphadia-genesis.json) |
 | Alphadia III | 365177 | [365177-alphadia-iii.json](./365177-alphadia-iii.json) |
+| Alphadia Neo | 216120 | [216120-alphadia-neo.json](./216120-alphadia-neo.json) |
 | Alphageddon | 293086 | [293086-alphageddon.json](./293086-alphageddon.json) |
 | AlphaLink | 173170 | [173170-alphalink.json](./173170-alphalink.json) |
 | AlphaMan | 308344 | [308344-alphaman.json](./308344-alphaman.json) |
