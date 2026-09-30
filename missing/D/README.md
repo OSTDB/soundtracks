@@ -116,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dadish 3D | 294865 | [294865-dadish-3d.json](./294865-dadish-3d.json) |
 | Dadlympics | 265146 | [265146-dadlympics.json](./265146-dadlympics.json) |
 | Dadum The Dice | 386833 | [386833-dadum-the-dice.json](./386833-dadum-the-dice.json) |
+| Daedalian Opus | 48951 | [48951-daedalian-opus.json](./48951-daedalian-opus.json) |
 | Daedalic Complex | 111465 | [111465-daedalic-complex.json](./111465-daedalic-complex.json) |
 | Daedalus | 282003 | [282003-daedalus.json](./282003-daedalus.json) |
 | Daedalus Versus Minotaur | 250345 | [250345-daedalus-versus-minotaur.json](./250345-daedalus-versus-minotaur.json) |
@@ -525,6 +526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danko and treasure map | 29990 | [29990-danko-and-treasure-map.json](./29990-danko-and-treasure-map.json) |
 | DanLab's Golf | 315825 | [315825-danlabs-golf.json](./315825-danlabs-golf.json) |
 | DanMachi Battle Chronicle | 263485 | [263485-danmachi-battle-chronicle.json](./263485-danmachi-battle-chronicle.json) |
+| DanMachi: Memoria Freese | 47158 | [47158-danmachi-memoria-freese.json](./47158-danmachi-memoria-freese.json) |
 | Danmakai: Red Forbidden Fruit | 140040 | [140040-danmakai-red-forbidden-fruit.json](./140040-danmakai-red-forbidden-fruit.json) |
 | Danmaku Juuenka: Danmaku Card Battle | 215365 | [215365-danmaku-juuenka-danmaku-card-battle.json](./215365-danmaku-juuenka-danmaku-card-battle.json) |
 | Danmaku Kentei Shiken: DaiOuJou-hen | 296056 | [296056-danmaku-kentei-shiken-daioujou-hen.json](./296056-danmaku-kentei-shiken-daioujou-hen.json) |
@@ -1545,6 +1547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead GroundZ | 99038 | [99038-dead-groundz.json](./99038-dead-groundz.json) |
 | Dead Hearts | 156563 | [156563-dead-hearts.json](./156563-dead-hearts.json) |
 | Dead Heat | 284966 | [284966-dead-heat.json](./284966-dead-heat.json) |
+| Dead Heat Scramble | 48950 | [48950-dead-heat-scramble.json](./48950-dead-heat-scramble.json) |
 | Dead Hook | 252209 | [252209-dead-hook.json](./252209-dead-hook.json) |
 | Dead Horizon | 52772 | [52772-dead-horizon.json](./52772-dead-horizon.json) |
 | Dead Hospital | 406174 | [406174-dead-hospital.json](./406174-dead-hospital.json) |
@@ -3895,6 +3898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig Dug | 2636 | [2636-dig-dug.json](./2636-dig-dug.json) |
 | Dig Dug Arrangement | 132160 | [132160-dig-dug-arrangement.json](./132160-dig-dug-arrangement.json) |
 | Dig Dug Arrangement | 178410 | [178410-dig-dug-arrangement.json](./178410-dig-dug-arrangement.json) |
+| Dig Dug: Digging Strike | 47729 | [47729-dig-dug-digging-strike.json](./47729-dig-dug-digging-strike.json) |
 | Dig Dungeon: Roguelike | 233498 | [233498-dig-dungeon-roguelike.json](./233498-dig-dungeon-roguelike.json) |
 | Dig for TCG Cards With Your Friends | 409765 | [409765-dig-for-tcg-cards-with-your-friends.json](./409765-dig-for-tcg-cards-with-your-friends.json) |
 | Dig Girl | 260197 | [260197-dig-girl.json](./260197-dig-girl.json) |
@@ -3919,6 +3923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digerati Presents: The Dungeon Crawl Vol. 1 | 147884 | [147884-digerati-presents-the-dungeon-crawl-vol-1.json](./147884-digerati-presents-the-dungeon-crawl-vol-1.json) |
 | Digfender | 109064 | [109064-digfender.json](./109064-digfender.json) |
 | Digger | 172721 | [172721-digger.json](./172721-digger.json) |
+| Digger Dan DX | 47662 | [47662-digger-dan-dx.json](./47662-digger-dan-dx.json) |
 | Digger Man | 39631 | [39631-digger-man.json](./39631-digger-man.json) |
 | Digger Online | 17084 | [17084-digger-online.json](./17084-digger-online.json) |
 | Digger T. Rock: The Legend of the Lost City | 12932 | [12932-digger-t-rock-the-legend-of-the-lost-city.json](./12932-digger-t-rock-the-legend-of-the-lost-city.json) |
@@ -4631,6 +4636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Hercules Action Game | 9814 | [9814-disneys-hercules-action-game.json](./9814-disneys-hercules-action-game.json) |
 | Disney's Hercules: Animated Storybook | 139313 | [139313-disneys-hercules-animated-storybook.json](./139313-disneys-hercules-animated-storybook.json) |
 | Disney's Hot Shots: Timon and Pumbaa's Jungle Pinball | 109480 | [109480-disneys-hot-shots-timon-and-pumbaas-jungle-pinball.json](./109480-disneys-hot-shots-timon-and-pumbaas-jungle-pinball.json) |
+| Disney's Kim Possible: Kimmunicator | 47728 | [47728-disneys-kim-possible-kimmunicator.json](./47728-disneys-kim-possible-kimmunicator.json) |
 | Disney's Lilo & Stitch: Hawaiian Adventure | 98558 | [98558-disneys-lilo-and-stitch-hawaiian-adventure.json](./98558-disneys-lilo-and-stitch-hawaiian-adventure.json) |
 | Disney's Magic Artist Studio | 51281 | [51281-disneys-magic-artist-studio.json](./51281-disneys-magic-artist-studio.json) |
 | Disney's Magical Quest 2 Starring Mickey & Minnie | 188634 | [188634-disneys-magical-quest-2-starring-mickey-and-minnie.json](./188634-disneys-magical-quest-2-starring-mickey-and-minnie.json) |
@@ -6087,6 +6093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dragon II: The Revenge | 281525 | [281525-double-dragon-ii-the-revenge.json](./281525-double-dragon-ii-the-revenge.json) |
 | Double Dragon III: The Sacred Stones | 79335 | [79335-double-dragon-iii-the-sacred-stones.json](./79335-double-dragon-iii-the-sacred-stones.json) |
 | Double Dragon Revive: Additional Character Color | 375155 | [375155-double-dragon-revive-additional-character-color.json](./375155-double-dragon-revive-additional-character-color.json) |
+| Double Dribble: 5 on 5 | 48952 | [48952-double-dribble-5-on-5.json](./48952-double-dribble-5-on-5.json) |
 | Double Dungeons | 206965 | [206965-double-dungeons.json](./206965-double-dungeons.json) |
 | Double Dunk | 18007 | [18007-double-dunk.json](./18007-double-dunk.json) |
 | Double Eagle | 98257 | [98257-double-eagle.json](./98257-double-eagle.json) |
@@ -6256,6 +6263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Mario | 3476 | [3476-dr-mario.json](./3476-dr-mario.json) |
 | Dr. Mario 64 | 3475 | [3475-dr-mario-64.json](./3475-dr-mario-64.json) |
 | Dr. Mario BS Ban | 134437 | [134437-dr-mario-bs-ban.json](./134437-dr-mario-bs-ban.json) |
+| Dr. Mario Express | 47847 | [47847-dr-mario-express.json](./47847-dr-mario-express.json) |
 | Dr. Mario Mania | 357345 | [357345-dr-mario-mania.json](./357345-dr-mario-mania.json) |
 | Dr. Mario Online Rx | 21910 | [21910-dr-mario-online-rx.json](./21910-dr-mario-online-rx.json) |
 | Dr. Mario World House Calls | 42602 | [42602-dr-mario-world-house-calls.json](./42602-dr-mario-world-house-calls.json) |
@@ -6707,6 +6715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Saga | 15888 | [15888-dragon-saga.json](./15888-dragon-saga.json) |
 | Dragon Side II: The Twisted Speare | 122988 | [122988-dragon-side-ii-the-twisted-speare.json](./122988-dragon-side-ii-the-twisted-speare.json) |
 | Dragon Simulator Multiplayer | 111350 | [111350-dragon-simulator-multiplayer.json](./111350-dragon-simulator-multiplayer.json) |
+| Dragon Sinker | 38504 | [38504-dragon-sinker.json](./38504-dragon-sinker.json) |
 | Dragon Sisters | 43265 | [43265-dragon-sisters.json](./43265-dragon-sisters.json) |
 | Dragon Slayer | 293747 | [293747-dragon-slayer.json](./293747-dragon-slayer.json) |
 | Dragon Slayer | 80519 | [80519-dragon-slayer.json](./80519-dragon-slayer.json) |
