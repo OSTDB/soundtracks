@@ -9802,6 +9802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpeedRage | 72041 | [72041-speedrage.json](./72041-speedrage.json) |
 | Speedrun Squid | 185133 | [185133-speedrun-squid.json](./185133-speedrun-squid.json) |
 | Speedrun the Game | 159309 | [159309-speedrun-the-game.json](./159309-speedrun-the-game.json) |
+| Speedrun World | 405669 | [405669-speedrun-world.json](./405669-speedrun-world.json) |
 | Speedrunner's Paradise: Sky is the limit | 215716 | [215716-speedrunners-paradise-sky-is-the-limit.json](./215716-speedrunners-paradise-sky-is-the-limit.json) |
 | SpeedRunners | 9527 | [9527-speedrunners.json](./9527-speedrunners.json) |
 | SpeedRunners: FortKnight's Fast Faction | 238042 | [238042-speedrunners-fortknights-fast-faction.json](./238042-speedrunners-fortknights-fast-faction.json) |
@@ -12543,6 +12544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Still Sword for Adult | 67258 | [67258-still-sword-for-adult.json](./67258-still-sword-for-adult.json) |
 | Still There | 119886 | [119886-still-there.json](./119886-still-there.json) |
 | Still Time | 69244 | [69244-still-time.json](./69244-still-time.json) |
+| StillAsleep | 405745 | [405745-stillasleep.json](./405745-stillasleep.json) |
 | Stillborn Slayer | 189039 | [189039-stillborn-slayer.json](./189039-stillborn-slayer.json) |
 | Stillwater | 191558 | [191558-stillwater.json](./191558-stillwater.json) |
 | Stillwater | 398402 | [398402-stillwater.json](./398402-stillwater.json) |
@@ -14143,6 +14145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Arcade Football | 19084 | [19084-super-arcade-football.json](./19084-super-arcade-football.json) |
 | Super Arcade Pinball | 217980 | [217980-super-arcade-pinball.json](./217980-super-arcade-pinball.json) |
 | Super Arcade Soccer | 115136 | [115136-super-arcade-soccer.json](./115136-super-arcade-soccer.json) |
+| Super Arcade Soccer 2026 | 405743 | [405743-super-arcade-soccer-2026.json](./405743-super-arcade-soccer-2026.json) |
 | Super Army of Tentacles 3: The Search for Army of Tentacles 2 - Isle of the Cat Girls | 225902 | [225902-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-isle-of-the-cat-girls.json](./225902-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-isle-of-the-cat-girls.json) |
 | Super Artificial Intelligence Psike | 216871 | [216871-super-artificial-intelligence-psike.json](./216871-super-artificial-intelligence-psike.json) |
 | Super Asqr | 199370 | [199370-super-asqr.json](./199370-super-asqr.json) |
