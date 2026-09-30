@@ -5918,6 +5918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skytail | 380571 | [380571-skytail.json](./380571-skytail.json) |
 | SkyTemple Randomizer | 342172 | [342172-skytemple-randomizer.json](./342172-skytemple-randomizer.json) |
 | SkyTrip America | 208916 | [208916-skytrip-america.json](./208916-skytrip-america.json) |
+| Skytropolis | 74255 | [74255-skytropolis.json](./74255-skytropolis.json) |
 | Skyts | 279042 | [279042-skyts.json](./279042-skyts.json) |
 | Skyvern | 350422 | [350422-skyvern.json](./350422-skyvern.json) |
 | Skyward | 117099 | [117099-skyward.json](./117099-skyward.json) |
@@ -9631,6 +9632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpectrumTap | 41501 | [41501-spectrumtap.json](./41501-spectrumtap.json) |
 | Specvaders | 137557 | [137557-specvaders.json](./137557-specvaders.json) |
 | Spediteur | 293708 | [293708-spediteur.json](./293708-spediteur.json) |
+| Speebot | 74342 | [74342-speebot.json](./74342-speebot.json) |
 | Speechbound: A Language RPG | 265593 | [265593-speechbound-a-language-rpg.json](./265593-speechbound-a-language-rpg.json) |
 | Speechless | 166736 | [166736-speechless.json](./166736-speechless.json) |
 | Speed | 261245 | [261245-speed.json](./261245-speed.json) |
@@ -12326,6 +12328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickility | 345101 | [345101-stickility.json](./345101-stickility.json) |
 | Sticklings | 197747 | [197747-sticklings.json](./197747-sticklings.json) |
 | Sticklings Deluxe | 266828 | [266828-sticklings-deluxe.json](./266828-sticklings-deluxe.json) |
+| Stickman - Killer of Apples | 74235 | [74235-stickman-killer-of-apples.json](./74235-stickman-killer-of-apples.json) |
 | Stickman 3D Tennis: Deluxe | 404210 | [404210-stickman-3d-tennis-deluxe.json](./404210-stickman-3d-tennis-deluxe.json) |
 | Stickman 3D Wingsuit: Deluxe | 406699 | [406699-stickman-3d-wingsuit-deluxe.json](./406699-stickman-3d-wingsuit-deluxe.json) |
 | Stickman Adventure | 311127 | [311127-stickman-adventure.json](./311127-stickman-adventure.json) |
