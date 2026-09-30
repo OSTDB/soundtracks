@@ -4682,6 +4682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula 1 Simulator | 12998 | [12998-formula-1-simulator.json](./12998-formula-1-simulator.json) |
 | Formula 1: Championship Edition | 8295 | [8295-formula-1-championship-edition.json](./8295-formula-1-championship-edition.json) |
 | Formula 11 Mini Racing | 411563 | [411563-formula-11-mini-racing.json](./411563-formula-11-mini-racing.json) |
+| Formula 2026: Rise of Legends | 401728 | [401728-formula-2026-rise-of-legends.json](./401728-formula-2026-rise-of-legends.json) |
 | Formula 2D: Steer To Persevere | 212833 | [212833-formula-2d-steer-to-persevere.json](./212833-formula-2d-steer-to-persevere.json) |
 | Formula 500 | 230861 | [230861-formula-500.json](./230861-formula-500.json) |
 | Formula Bit Racing DX | 207275 | [207275-formula-bit-racing-dx.json](./207275-formula-bit-racing-dx.json) |
