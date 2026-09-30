@@ -1587,6 +1587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fawning Over a Corpse | 266862 | [266862-fawning-over-a-corpse.json](./266862-fawning-over-a-corpse.json) |
 | Fax These to Smith!!! | 128562 | [128562-fax-these-to-smith.json](./128562-fax-these-to-smith.json) |
 | Faxion | 92271 | [92271-faxion.json](./92271-faxion.json) |
+| Faybound: Veils of Magic | 405562 | [405562-faybound-veils-of-magic.json](./405562-faybound-veils-of-magic.json) |
 | Faye Falling | 189136 | [189136-faye-falling.json](./189136-faye-falling.json) |
 | Faye: A Tale of Shadow | 192885 | [192885-faye-a-tale-of-shadow.json](./192885-faye-a-tale-of-shadow.json) |
 | Faylinn's Quest | 173840 | [173840-faylinns-quest.json](./173840-faylinns-quest.json) |
@@ -1787,6 +1788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fencing Champ | 247044 | [247044-fencing-champ.json](./247044-fencing-champ.json) |
 | Fencing Girl | 186863 | [186863-fencing-girl.json](./186863-fencing-girl.json) |
 | Fency Krabby | 185146 | [185146-fency-krabby.json](./185146-fency-krabby.json) |
+| Fenestra | 405641 | [405641-fenestra.json](./405641-fenestra.json) |
 | Fenestra: My Focus, Her Future | 415956 | [415956-fenestra-my-focus-her-future.json](./415956-fenestra-my-focus-her-future.json) |
 | Feng Shui: Meowjong | 348796 | [348796-feng-shui-meowjong.json](./348796-feng-shui-meowjong.json) |
 | Fengdu: Chronicles of Battle | 318064 | [318064-fengdu-chronicles-of-battle.json](./318064-fengdu-chronicles-of-battle.json) |
