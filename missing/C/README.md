@@ -212,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calamity | 364103 | [364103-calamity.json](./364103-calamity.json) |
 | Calamity Angels: Special Delivery - Digital Deluxe Edition | 391861 | [391861-calamity-angels-special-delivery-digital-deluxe-edition.json](./391861-calamity-angels-special-delivery-digital-deluxe-edition.json) |
 | Calamity Annie | 72689 | [72689-calamity-annie.json](./72689-calamity-annie.json) |
+| Calamity Cait | 413806 | [413806-calamity-cait.json](./413806-calamity-cait.json) |
 | Calamity Creatures | 217266 | [217266-calamity-creatures.json](./217266-calamity-creatures.json) |
 | Calavera: Day of the Dead - Collector's Edition | 28877 | [28877-calavera-day-of-the-dead-collectors-edition.json](./28877-calavera-day-of-the-dead-collectors-edition.json) |
 | Calciobit | 49522 | [49522-calciobit.json](./49522-calciobit.json) |
@@ -5033,6 +5034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code: D-Blood | 139222 | [139222-code-d-blood.json](./139222-code-d-blood.json) |
 | Code: Dead Ends | 254612 | [254612-code-dead-ends.json](./254612-code-dead-ends.json) |
 | Code: Europe | 73848 | [73848-code-europe.json](./73848-code-europe.json) |
+| Code: OOC | 413828 | [413828-code-ooc.json](./413828-code-ooc.json) |
 | Code: Realize - Future Blessings | 41821 | [41821-code-realize-future-blessings.json](./41821-code-realize-future-blessings.json) |
 | Code: Realize - Guardian of Rebirth | 19475 | [19475-code-realize-guardian-of-rebirth.json](./19475-code-realize-guardian-of-rebirth.json) |
 | Code: Realize ~Future Blessings~ Day One Edition | 136263 | [136263-code-realize-future-blessings-day-one-edition.json](./136263-code-realize-future-blessings-day-one-edition.json) |
