@@ -5796,6 +5796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argonauts Agency: Missing Daughter - Collector's Edition | 357419 | [357419-argonauts-agency-missing-daughter-collectors-edition.json](./357419-argonauts-agency-missing-daughter-collectors-edition.json) |
 | Argonauts Agency: Pandora's Box | 117094 | [117094-argonauts-agency-pandoras-box.json](./117094-argonauts-agency-pandoras-box.json) |
 | Argonauts Agency: Pandora's Box - Collector's Edition | 357420 | [357420-argonauts-agency-pandoras-box-collectors-edition.json](./357420-argonauts-agency-pandoras-box-collectors-edition.json) |
+| Argonauts Agency: Secret of the Labyrinth | 418539 | [418539-argonauts-agency-secret-of-the-labyrinth.json](./418539-argonauts-agency-secret-of-the-labyrinth.json) |
 | Argonauts Agency: When Spring Withered | 412260 | [412260-argonauts-agency-when-spring-withered.json](./412260-argonauts-agency-when-spring-withered.json) |
 | Argonauts Path | 309492 | [309492-argonauts-path.json](./309492-argonauts-path.json) |
 | Argonisos | 224625 | [224625-argonisos.json](./224625-argonisos.json) |
