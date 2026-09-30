@@ -860,6 +860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rand-O-mazE | 110359 | [110359-rand-o-maze.json](./110359-rand-o-maze.json) |
 | Randnet Disk | 94725 | [94725-randnet-disk.json](./94725-randnet-disk.json) |
 | Random Acts of Madness | 270173 | [270173-random-acts-of-madness.json](./270173-random-acts-of-madness.json) |
+| Random Coin | 411083 | [411083-random-coin.json](./411083-random-coin.json) |
 | Random Deck | 341309 | [341309-random-deck.json](./341309-random-deck.json) |
 | Random Dice | 137650 | [137650-random-dice.json](./137650-random-dice.json) |
 | Random Dice: Go | 239620 | [239620-random-dice-go.json](./239620-random-dice-go.json) |
@@ -2385,6 +2386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remote Planets | 224766 | [224766-remote-planets.json](./224766-remote-planets.json) |
 | Remote Presence | 275634 | [275634-remote-presence.json](./275634-remote-presence.json) |
 | Remote Racers | 84830 | [84830-remote-racers.json](./84830-remote-racers.json) |
+| Remote Union | 410941 | [410941-remote-union.json](./410941-remote-union.json) |
 | Remote Virtual Cockpit | 109010 | [109010-remote-virtual-cockpit.json](./109010-remote-virtual-cockpit.json) |
 | Remothered: Broken Porcelain | 117309 | [117309-remothered-broken-porcelain.json](./117309-remothered-broken-porcelain.json) |
 | Remothered: Broken Porcelain Remastered | 409008 | [409008-remothered-broken-porcelain-remastered.json](./409008-remothered-broken-porcelain-remastered.json) |
@@ -3849,6 +3851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risk of Rain 2: Devotion Update | 306700 | [306700-risk-of-rain-2-devotion-update.json](./306700-risk-of-rain-2-devotion-update.json) |
 | Risk of Rain 2: Hallowed Concepts | 397819 | [397819-risk-of-rain-2-hallowed-concepts.json](./397819-risk-of-rain-2-hallowed-concepts.json) |
 | Risk of Rain 2: Seekers of the Storm | 276287 | [276287-risk-of-rain-2-seekers-of-the-storm.json](./276287-risk-of-rain-2-seekers-of-the-storm.json) |
+| Risk of Rain 2: Stagnant Pipeworks | 410940 | [410940-risk-of-rain-2-stagnant-pipeworks.json](./410940-risk-of-rain-2-stagnant-pipeworks.json) |
 | Risk of Rain 2: Starstorm 2 | 310529 | [310529-risk-of-rain-2-starstorm-2.json](./310529-risk-of-rain-2-starstorm-2.json) |
 | Risk of Rain Returns | 229794 | [229794-risk-of-rain-returns.json](./229794-risk-of-rain-returns.json) |
 | Risk of Rain: Meridian | 316994 | [316994-risk-of-rain-meridian.json](./316994-risk-of-rain-meridian.json) |
@@ -5183,6 +5186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roost | 329111 | [329111-roost.json](./329111-roost.json) |
 | Rooster | 301367 | [301367-rooster.json](./301367-rooster.json) |
 | Rooster | 62722 | [62722-rooster.json](./62722-rooster.json) |
+| Rooster Booster 3D | 410945 | [410945-rooster-booster-3d.json](./410945-rooster-booster-3d.json) |
 | Rooster II | 62696 | [62696-rooster-ii.json](./62696-rooster-ii.json) |
 | Rooster: Princess Rescue | 409558 | [409558-rooster-princess-rescue.json](./409558-rooster-princess-rescue.json) |
 | Root | 139145 | [139145-root.json](./139145-root.json) |
