@@ -1836,6 +1836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Pinball | 142871 | [142871-infinity-pinball.json](./142871-infinity-pinball.json) |
 | Infinity Pipe | 120843 | [120843-infinity-pipe.json](./120843-infinity-pipe.json) |
 | Infinity R | 340752 | [340752-infinity-r.json](./340752-infinity-r.json) |
+| Infinity Racer | 105235 | [105235-infinity-racer.json](./105235-infinity-racer.json) |
 | Infinity Rising | 315056 | [315056-infinity-rising.json](./315056-infinity-rising.json) |
 | Infinity Run | 105875 | [105875-infinity-run.json](./105875-infinity-run.json) |
 | Infinity Runner | 17097 | [17097-infinity-runner.json](./17097-infinity-runner.json) |
@@ -3085,6 +3086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Time | 201246 | [201246-its-time.json](./201246-its-time.json) |
 | It's Time | 23888 | [23888-its-time.json](./23888-its-time.json) |
 | It's Too Late to Apologize | 401642 | [401642-its-too-late-to-apologize.json](./401642-its-too-late-to-apologize.json) |
+| It's You: A Breakup Story | 105097 | [105097-its-you-a-breakup-story.json](./105097-its-you-a-breakup-story.json) |
 | It'sRoachTime! | 192873 | [192873-itsroachtime.json](./192873-itsroachtime.json) |
 | Itacante: La Cité des robots | 327995 | [327995-itacante-la-cite-des-robots.json](./327995-itacante-la-cite-des-robots.json) |
 | Itachi: Haunted Abodes - Wandering Through 2000s Tokyo Culture | 369761 | [369761-itachi-haunted-abodes-wandering-through-2000s-tokyo-culture.json](./369761-itachi-haunted-abodes-wandering-through-2000s-tokyo-culture.json) |
