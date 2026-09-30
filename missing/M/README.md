@@ -3860,6 +3860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mekanizm | 72332 | [72332-mekanizm.json](./72332-mekanizm.json) |
 | Mekazoo | 19203 | [19203-mekazoo.json](./19203-mekazoo.json) |
 | Mel The Cat | 375433 | [375433-mel-the-cat.json](./375433-mel-the-cat.json) |
+| Mel The Pyramid Cat | 401742 | [401742-mel-the-pyramid-cat.json](./401742-mel-the-pyramid-cat.json) |
 | Mel-Practice | 402481 | [402481-mel-practice.json](./402481-mel-practice.json) |
 | Melancholia Maze | 366305 | [366305-melancholia-maze.json](./366305-melancholia-maze.json) |
 | Melancholic Dreamtower | 322727 | [322727-melancholic-dreamtower.json](./322727-melancholic-dreamtower.json) |
