@@ -2907,6 +2907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Magic 800 | 109897 | [109897-gold-magic-800.json](./109897-gold-magic-800.json) |
 | Gold Miner | 173064 | [173064-gold-miner.json](./173064-gold-miner.json) |
 | Gold Miner | 194800 | [194800-gold-miner.json](./194800-gold-miner.json) |
+| Gold Miner | 393092 | [393092-gold-miner.json](./393092-gold-miner.json) |
 | Gold Miner 8bit HD | 91124 | [91124-gold-miner-8bit-hd.json](./91124-gold-miner-8bit-hd.json) |
 | Gold Miner Challenger | 215360 | [215360-gold-miner-challenger.json](./215360-gold-miner-challenger.json) |
 | Gold Miner Joe | 94580 | [94580-gold-miner-joe.json](./94580-gold-miner-joe.json) |
