@@ -3120,6 +3120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pile of Cards | 71014 | [71014-pile-of-cards.json](./71014-pile-of-cards.json) |
 | Pile the Box | 246476 | [246476-pile-the-box.json](./246476-pile-the-box.json) |
 | Pile Up! Bakery | 66657 | [66657-pile-up-bakery.json](./66657-pile-up-bakery.json) |
+| Pileus Bad Trip | 391784 | [391784-pileus-bad-trip.json](./391784-pileus-bad-trip.json) |
 | Pilfer | 388710 | [388710-pilfer.json](./388710-pilfer.json) |
 | Pilgrim | 229788 | [229788-pilgrim.json](./229788-pilgrim.json) |
 | Pilgrim | 301813 | [301813-pilgrim.json](./301813-pilgrim.json) |
@@ -4741,6 +4742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Cowboy | 175437 | [175437-pocket-cowboy.json](./175437-pocket-cowboy.json) |
 | Pocket Crystal League | 202258 | [202258-pocket-crystal-league.json](./202258-pocket-crystal-league.json) |
 | Pocket Dogfights | 96224 | [96224-pocket-dogfights.json](./96224-pocket-dogfights.json) |
+| Pocket Drift Rally | 391833 | [391833-pocket-drift-rally.json](./391833-pocket-drift-rally.json) |
 | Pocket Family GB | 180201 | [180201-pocket-family-gb.json](./180201-pocket-family-gb.json) |
 | Pocket Family GB2 | 180202 | [180202-pocket-family-gb2.json](./180202-pocket-family-gb2.json) |
 | Pocket Farm | 232176 | [232176-pocket-farm.json](./232176-pocket-farm.json) |
@@ -6526,6 +6528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primavera Lihbor | 295538 | [295538-primavera-lihbor.json](./295538-primavera-lihbor.json) |
 | Prime | 291783 | [291783-prime.json](./291783-prime.json) |
 | Prime Elements | 99403 | [99403-prime-elements.json](./99403-prime-elements.json) |
+| Prime Monster | 391820 | [391820-prime-monster.json](./391820-prime-monster.json) |
 | Prime Mosaic | 337639 | [337639-prime-mosaic.json](./337639-prime-mosaic.json) |
 | Prime T!me: Der Fernsehmanager | 98938 | [98938-prime-t-me-der-fernsehmanager.json](./98938-prime-t-me-der-fernsehmanager.json) |
 | Prime Time | 54714 | [54714-prime-time.json](./54714-prime-time.json) |
@@ -6677,6 +6680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prism | 290392 | [290392-prism.json](./290392-prism.json) |
 | Prism | 33514 | [33514-prism.json](./33514-prism.json) |
 | Prism | 363035 | [363035-prism.json](./363035-prism.json) |
+| Prism | 391823 | [391823-prism.json](./391823-prism.json) |
 | Prism Break | 102171 | [102171-prism-break.json](./102171-prism-break.json) |
 | Prism Crush | 372131 | [372131-prism-crush.json](./372131-prism-crush.json) |
 | Prism Hotel Murder Case: Super Mystery Wars - Episode Conan | 310012 | [310012-prism-hotel-murder-case-super-mystery-wars-episode-conan.json](./310012-prism-hotel-murder-case-super-mystery-wars-episode-conan.json) |
