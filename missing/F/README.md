@@ -642,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Slime | 102315 | [102315-falling-slime.json](./102315-falling-slime.json) |
 | Falling Stars | 359397 | [359397-falling-stars.json](./359397-falling-stars.json) |
 | Falling Up | 134678 | [134678-falling-up.json](./134678-falling-up.json) |
+| Falling with Ice Phoenix!: Cozy Version | 387625 | [387625-falling-with-ice-phoenix-cozy-version.json](./387625-falling-with-ice-phoenix-cozy-version.json) |
 | Fallingstar | 177865 | [177865-fallingstar.json](./177865-fallingstar.json) |
 | FallMan | 60560 | [60560-fallman.json](./60560-fallman.json) |
 | Fallout 3: Game of the Year Edition | 21892 | [21892-fallout-3-game-of-the-year-edition.json](./21892-fallout-3-game-of-the-year-edition.json) |
@@ -3267,6 +3268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Frickbears 2 | 395010 | [395010-five-nights-at-frickbears-2.json](./395010-five-nights-at-frickbears-2.json) |
 | Five Nights at Friedrich's | 381852 | [381852-five-nights-at-friedrichs.json](./381852-five-nights-at-friedrichs.json) |
 | Five Nights At Ghost House | 175737 | [175737-five-nights-at-ghost-house.json](./175737-five-nights-at-ghost-house.json) |
+| Five Nights at Grasos's | 387586 | [387586-five-nights-at-grasoss.json](./387586-five-nights-at-grasoss.json) |
 | Five Nights at Haunted House | 281468 | [281468-five-nights-at-haunted-house.json](./281468-five-nights-at-haunted-house.json) |
 | Five Nights at Jaygi's: Into Dreams... | 322379 | [322379-five-nights-at-jaygis-into-dreams.json](./322379-five-nights-at-jaygis-into-dreams.json) |
 | Five Nights at Kyle's 2 | 179724 | [179724-five-nights-at-kyles-2.json](./179724-five-nights-at-kyles-2.json) |
@@ -3469,6 +3471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flashy Maze | 130742 | [130742-flashy-maze.json](./130742-flashy-maze.json) |
 | Flaskoman | 153852 | [153852-flaskoman.json](./153852-flaskoman.json) |
 | Flat & Fluffy | 297075 | [297075-flat-and-fluffy.json](./297075-flat-and-fluffy.json) |
+| Flat Galaxy: An Idlemare | 387623 | [387623-flat-galaxy-an-idlemare.json](./387623-flat-galaxy-an-idlemare.json) |
 | Flat Heroes | 31898 | [31898-flat-heroes.json](./31898-flat-heroes.json) |
 | Flat Kingdom | 18795 | [18795-flat-kingdom.json](./18795-flat-kingdom.json) |
 | Flat Path | 31734 | [31734-flat-path.json](./31734-flat-path.json) |
