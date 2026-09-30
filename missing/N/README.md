@@ -1955,6 +1955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nicolas Eymerich The Inquisitor Book II: The Village | 36332 | [36332-nicolas-eymerich-the-inquisitor-book-ii-the-village.json](./36332-nicolas-eymerich-the-inquisitor-book-ii-the-village.json) |
 | Nicolas Eymerich the Inquisitor: Book 1 - The Plague | 36410 | [36410-nicolas-eymerich-the-inquisitor-book-1-the-plague.json](./36410-nicolas-eymerich-the-inquisitor-book-1-the-plague.json) |
 | Nicolás the Sea Urchin | 265930 | [265930-nicolas-the-sea-urchin.json](./265930-nicolas-the-sea-urchin.json) |
+| Nicotine Merchant Simulator | 415193 | [415193-nicotine-merchant-simulator.json](./415193-nicotine-merchant-simulator.json) |
 | Nictheroy | 154031 | [154031-nictheroy.json](./154031-nictheroy.json) |
 | Nidhogg | 5551 | [5551-nidhogg.json](./5551-nidhogg.json) |
 | Nidhogg 2 | 24482 | [24482-nidhogg-2.json](./24482-nidhogg-2.json) |
@@ -2077,6 +2078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of the Stars | 332395 | [332395-night-of-the-stars.json](./332395-night-of-the-stars.json) |
 | Night of the Wererat | 216986 | [216986-night-of-the-wererat.json](./216986-night-of-the-wererat.json) |
 | Night of the Wordsmith | 64985 | [64985-night-of-the-wordsmith.json](./64985-night-of-the-wordsmith.json) |
+| Night of the X-mas Trees | 415247 | [415247-night-of-the-x-mas-trees.json](./415247-night-of-the-x-mas-trees.json) |
 | Night of Wolves | 257968 | [257968-night-of-wolves.json](./257968-night-of-wolves.json) |
 | Night Plane | 378426 | [378426-night-plane.json](./378426-night-plane.json) |
 | Night Poetry | 264669 | [264669-night-poetry.json](./264669-night-poetry.json) |
