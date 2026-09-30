@@ -629,6 +629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Blade | 237671 | [237671-samurai-blade.json](./237671-samurai-blade.json) |
 | Samurai Bloodshow | 92500 | [92500-samurai-bloodshow.json](./92500-samurai-bloodshow.json) |
 | Samurai Bringer | 192434 | [192434-samurai-bringer.json](./192434-samurai-bringer.json) |
+| Samurai Bringer: Rampage | 401044 | [401044-samurai-bringer-rampage.json](./401044-samurai-bringer-rampage.json) |
 | Samurai Cats | 131363 | [131363-samurai-cats.json](./131363-samurai-cats.json) |
 | Samurai Champloo: Sidetracked | 19625 | [19625-samurai-champloo-sidetracked.json](./19625-samurai-champloo-sidetracked.json) |
 | Samurai Chess | 149571 | [149571-samurai-chess.json](./149571-samurai-chess.json) |
@@ -3642,6 +3643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shawl | 56527 | [56527-shawl.json](./56527-shawl.json) |
 | Shaylushay Treasure Expedition | 275715 | [275715-shaylushay-treasure-expedition.json](./275715-shaylushay-treasure-expedition.json) |
 | Shazabi and the Cantina Catacombs | 230542 | [230542-shazabi-and-the-cantina-catacombs.json](./230542-shazabi-and-the-cantina-catacombs.json) |
+| She Couldn't Do Anything | 401048 | [401048-she-couldnt-do-anything.json](./401048-she-couldnt-do-anything.json) |
 | She Danced in the Wind Like a Holographic Dream Before the World Died | 390004 | [390004-she-danced-in-the-wind-like-a-holographic-dream-before-the-world-died.json](./390004-she-danced-in-the-wind-like-a-holographic-dream-before-the-world-died.json) |
 | She Doesn't Walk | 156021 | [156021-she-doesnt-walk.json](./156021-she-doesnt-walk.json) |
 | She Fell Off | 260160 | [260160-she-fell-off.json](./260160-she-fell-off.json) |
@@ -12648,6 +12650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Wheel 2: Bee Legend | 235139 | [235139-stone-wheel-2-bee-legend.json](./235139-stone-wheel-2-bee-legend.json) |
 | StoneBack | 180032 | [180032-stoneback.json](./180032-stoneback.json) |
 | StoneBack \| Prehistory | 32067 | [32067-stoneback-prehistory.json](./32067-stoneback-prehistory.json) |
+| Stoneborn | 401028 | [401028-stoneborn.json](./401028-stoneborn.json) |
 | Stonebot Adventures | 154433 | [154433-stonebot-adventures.json](./154433-stonebot-adventures.json) |
 | Stonebound | 378924 | [378924-stonebound.json](./378924-stonebound.json) |
 | Stoned | 352202 | [352202-stoned.json](./352202-stoned.json) |
@@ -12740,6 +12743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm Swordsman | 190733 | [190733-storm-swordsman.json](./190733-storm-swordsman.json) |
 | Storm Tale 2 & Ancient Relics: Adventure Bundle | 387681 | [387681-storm-tale-2-and-ancient-relics-adventure-bundle.json](./387681-storm-tale-2-and-ancient-relics-adventure-bundle.json) |
 | Storm The Court | 296470 | [296470-storm-the-court.json](./296470-storm-the-court.json) |
+| Storm the Field | 401067 | [401067-storm-the-field.json](./401067-storm-the-field.json) |
 | Storm United | 36153 | [36153-storm-united.json](./36153-storm-united.json) |
 | Storm VR | 33175 | [33175-storm-vr.json](./33175-storm-vr.json) |
 | Storm Wars | 56482 | [56482-storm-wars.json](./56482-storm-wars.json) |
@@ -13585,6 +13589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Successfully Learning German: Year 3 | 85407 | [85407-successfully-learning-german-year-3.json](./85407-successfully-learning-german-year-3.json) |
 | Successfully Learning German: Year 4 | 85406 | [85406-successfully-learning-german-year-4.json](./85406-successfully-learning-german-year-4.json) |
 | Successor of the Moon | 115578 | [115578-successor-of-the-moon.json](./115578-successor-of-the-moon.json) |
+| Succubi Domini | 401043 | [401043-succubi-domini.json](./401043-succubi-domini.json) |
 | SuccuBoss | 367057 | [367057-succuboss.json](./367057-succuboss.json) |
 | Succubus | 114156 | [114156-succubus.json](./114156-succubus.json) |
 | Succubus Challenge | 339651 | [339651-succubus-challenge.json](./339651-succubus-challenge.json) |
@@ -13726,6 +13731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudokuball Detective | 10930 | [10930-sudokuball-detective.json](./10930-sudokuball-detective.json) |
 | SudoKube | 193451 | [193451-sudokube.json](./193451-sudokube.json) |
 | Sudokuro: Sudoku & Kakuro Games | 337677 | [337677-sudokuro-sudoku-and-kakuro-games.json](./337677-sudokuro-sudoku-and-kakuro-games.json) |
+| Suduce-U | 401066 | [401066-suduce-u.json](./401066-suduce-u.json) |
 | Sue Shi Survival | 219584 | [219584-sue-shi-survival.json](./219584-sue-shi-survival.json) |
 | Sue's Chocolate Candy Maker | 293211 | [293211-sues-chocolate-candy-maker.json](./293211-sues-chocolate-candy-maker.json) |
 | Sue's Potato Farm | 293210 | [293210-sues-potato-farm.json](./293210-sues-potato-farm.json) |
@@ -16113,6 +16119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suspension Railroad Simulator | 85414 | [85414-suspension-railroad-simulator.json](./85414-suspension-railroad-simulator.json) |
 | Suspicious Person Information | 275904 | [275904-suspicious-person-information.json](./275904-suspicious-person-information.json) |
 | Suspicious Shuffle | 219557 | [219557-suspicious-shuffle.json](./219557-suspicious-shuffle.json) |
+| Sussy Cat | 401075 | [401075-sussy-cat.json](./401075-sussy-cat.json) |
 | Sustainable Shaun | 207839 | [207839-sustainable-shaun.json](./207839-sustainable-shaun.json) |
 | Sustenance | 316986 | [316986-sustenance.json](./316986-sustenance.json) |
 | Susuki Kaidan | 413865 | [413865-susuki-kaidan.json](./413865-susuki-kaidan.json) |
