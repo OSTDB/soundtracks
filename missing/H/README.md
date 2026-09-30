@@ -2878,6 +2878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HesGames | 84269 | [84269-hesgames.json](./84269-hesgames.json) |
 | Hesperian Wars | 229367 | [229367-hesperian-wars.json](./229367-hesperian-wars.json) |
 | Hessian Landing | 386268 | [386268-hessian-landing.json](./386268-hessian-landing.json) |
+| HestiaFort | 393046 | [393046-hestiafort.json](./393046-hestiafort.json) |
 | Het Labyrint van Toetanchamon | 69901 | [69901-het-labyrint-van-toetanchamon.json](./69901-het-labyrint-van-toetanchamon.json) |
 | Heterodox | 147484 | [147484-heterodox.json](./147484-heterodox.json) |
 | Heterotopias: In the 1989 Future | 125911 | [125911-heterotopias-in-the-1989-future.json](./125911-heterotopias-in-the-1989-future.json) |
@@ -5709,6 +5710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Husk | 179682 | [179682-husk.json](./179682-husk.json) |
 | Husk | 18966 | [18966-husk.json](./18966-husk.json) |
 | Husky's Adventures | 152733 | [152733-huskys-adventures.json](./152733-huskys-adventures.json) |
+| Hustle Battle: Card Gamers | 393003 | [393003-hustle-battle-card-gamers.json](./393003-hustle-battle-card-gamers.json) |
 | Hustle Cat | 33277 | [33277-hustle-cat.json](./33277-hustle-cat.json) |
 | Hustle Quest: Historia of Urth | 299155 | [299155-hustle-quest-historia-of-urth.json](./299155-hustle-quest-historia-of-urth.json) |
 | Hustler | 92282 | [92282-hustler.json](./92282-hustler.json) |
