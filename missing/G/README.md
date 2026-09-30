@@ -616,6 +616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Thrones: A Telltale Games Series - Episode 6: The Ice Dragon | 127072 | [127072-game-of-thrones-a-telltale-games-series-episode-6-the-ice-dragon.json](./127072-game-of-thrones-a-telltale-games-series-episode-6-the-ice-dragon.json) |
 | Game of Thrones: Beyond the Wall - Blood Bound | 171636 | [171636-game-of-thrones-beyond-the-wall-blood-bound.json](./171636-game-of-thrones-beyond-the-wall-blood-bound.json) |
 | Game of Thrones: Seven Kingdoms | 110315 | [110315-game-of-thrones-seven-kingdoms.json](./110315-game-of-thrones-seven-kingdoms.json) |
+| Game Over | 13854 | [13854-game-over.json](./13854-game-over.json) |
 | Game Over Gopher | 336924 | [336924-game-over-gopher.json](./336924-game-over-gopher.json) |
 | Game Over II | 46658 | [46658-game-over-ii.json](./46658-game-over-ii.json) |
 | Game Over Quest | 122330 | [122330-game-over-quest.json](./122330-game-over-quest.json) |
@@ -1775,6 +1776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost's Way | 180182 | [180182-ghosts-way.json](./180182-ghosts-way.json) |
 | Ghostbane | 286621 | [286621-ghostbane.json](./286621-ghostbane.json) |
 | Ghostbusters | 4534 | [4534-ghostbusters.json](./4534-ghostbusters.json) |
+| Ghostbusters II | 14552 | [14552-ghostbusters-ii.json](./14552-ghostbusters-ii.json) |
 | Ghostbusters II | 14555 | [14555-ghostbusters-ii.json](./14555-ghostbusters-ii.json) |
 | Ghostbusters II | 266840 | [266840-ghostbusters-ii.json](./266840-ghostbusters-ii.json) |
 | Ghostbusters Puzzle Fighter | 60235 | [60235-ghostbusters-puzzle-fighter.json](./60235-ghostbusters-puzzle-fighter.json) |
@@ -2414,6 +2416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Fight Fantastic! | 127364 | [127364-go-fight-fantastic.json](./127364-go-fight-fantastic.json) |
 | Go Fish! | 106750 | [106750-go-fish.json](./106750-go-fish.json) |
 | Go Fish! | 40717 | [40717-go-fish.json](./40717-go-fish.json) |
+| Go Go Ackman | 15926 | [15926-go-go-ackman.json](./15926-go-go-ackman.json) |
 | Go Go Ackman | 83923 | [83923-go-go-ackman.json](./83923-go-go-ackman.json) |
 | Go Go Galago | 61732 | [61732-go-go-galago.json](./61732-go-go-galago.json) |
 | Go Go Jump!! | 244221 | [244221-go-go-jump.json](./244221-go-go-jump.json) |
@@ -3273,6 +3276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gothic 3 | 2263 | [2263-gothic-3.json](./2263-gothic-3.json) |
 | Gothic 3: Collector's Edition | 133884 | [133884-gothic-3-collectors-edition.json](./133884-gothic-3-collectors-edition.json) |
 | Gothic 3: Enhanced Gold Edition | 133886 | [133886-gothic-3-enhanced-gold-edition.json](./133886-gothic-3-enhanced-gold-edition.json) |
+| Gothic 3: Forsaken Gods - Enhanced Edition | 10371 | [10371-gothic-3-forsaken-gods-enhanced-edition.json](./10371-gothic-3-forsaken-gods-enhanced-edition.json) |
 | Gothic 3: Game of the Year Edition | 133885 | [133885-gothic-3-game-of-the-year-edition.json](./133885-gothic-3-game-of-the-year-edition.json) |
 | Gothic Classic | 260799 | [260799-gothic-classic.json](./260799-gothic-classic.json) |
 | Gothic Classic Khorinis Saga | 300389 | [300389-gothic-classic-khorinis-saga.json](./300389-gothic-classic-khorinis-saga.json) |
@@ -4738,6 +4742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Factory Simulator | 326421 | [326421-gun-factory-simulator.json](./326421-gun-factory-simulator.json) |
 | Gun Fighting | 279008 | [279008-gun-fighting.json](./279008-gun-fighting.json) |
 | Gun Fire: AI Rebellion | 328523 | [328523-gun-fire-ai-rebellion.json](./328523-gun-fire-ai-rebellion.json) |
+| Gun Force II | 10450 | [10450-gun-force-ii.json](./10450-gun-force-ii.json) |
 | Gun Frontier | 39681 | [39681-gun-frontier.json](./39681-gun-frontier.json) |
 | Gun Gladiator | 287749 | [287749-gun-gladiator.json](./287749-gun-gladiator.json) |
 | Gun Godz | 31439 | [31439-gun-godz.json](./31439-gun-godz.json) |
