@@ -1970,6 +1970,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orion Everton: Mysteries of Metrosomia | 291774 | [291774-orion-everton-mysteries-of-metrosomia.json](./291774-orion-everton-mysteries-of-metrosomia.json) |
 | Orion Sandbox | 395783 | [395783-orion-sandbox.json](./395783-orion-sandbox.json) |
 | Orion shadow of jerboa | 127339 | [127339-orion-shadow-of-jerboa.json](./127339-orion-shadow-of-jerboa.json) |
+| Orion Trail | 34971 | [34971-orion-trail.json](./34971-orion-trail.json) |
+| Orion: A Sci-Fi Visual Novel | 34962 | [34962-orion-a-sci-fi-visual-novel.json](./34962-orion-a-sci-fi-visual-novel.json) |
 | Orion: Dino Beatdown - Jurassic Edition | 93631 | [93631-orion-dino-beatdown-jurassic-edition.json](./93631-orion-dino-beatdown-jurassic-edition.json) |
 | Orion's End | 211797 | [211797-orions-end.json](./211797-orions-end.json) |
 | Orions: Legend of Wizards | 23269 | [23269-orions-legend-of-wizards.json](./23269-orions-legend-of-wizards.json) |
@@ -2583,6 +2585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Over the Hedge: Hammy Goes Nuts! | 358372 | [358372-over-the-hedge-hammy-goes-nuts.json](./358372-over-the-hedge-hammy-goes-nuts.json) |
 | Over the Hedge: Hammy Goes Nuts! | 358374 | [358374-over-the-hedge-hammy-goes-nuts.json](./358374-over-the-hedge-hammy-goes-nuts.json) |
 | Over the Hill | 329124 | [329124-over-the-hill.json](./329124-over-the-hill.json) |
+| Over the Hills and Far Away | 34615 | [34615-over-the-hills-and-far-away.json](./34615-over-the-hills-and-far-away.json) |
 | Over the Net | 295907 | [295907-over-the-net.json](./295907-over-the-net.json) |
 | Over the Net | 87181 | [87181-over-the-net.json](./87181-over-the-net.json) |
 | Over The Phone | 282676 | [282676-over-the-phone.json](./282676-over-the-phone.json) |
