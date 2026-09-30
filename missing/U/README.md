@@ -1121,6 +1121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Universal Nuts | 91955 | [91955-universal-nuts.json](./91955-universal-nuts.json) |
 | Universal Power | 276154 | [276154-universal-power.json](./276154-universal-power.json) |
 | Universal Slot Street | 220297 | [220297-universal-slot-street.json](./220297-universal-slot-street.json) |
+| Universal Soldier | 38415 | [38415-universal-soldier.json](./38415-universal-soldier.json) |
 | Universal Space Station | 116989 | [116989-universal-space-station.json](./116989-universal-space-station.json) |
 | Universal Studios Monsters: Monsterville | 12904 | [12904-universal-studios-monsters-monsterville.json](./12904-universal-studios-monsters-monsterville.json) |
 | Universal Studios Theme Parks Adventure Adventure | 237342 | [237342-universal-studios-theme-parks-adventure-adventure.json](./237342-universal-studios-theme-parks-adventure-adventure.json) |
