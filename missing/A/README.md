@@ -6356,6 +6356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashton's Family Resort | 52604 | [52604-ashtons-family-resort.json](./52604-ashtons-family-resort.json) |
 | Ashura Blaster | 38516 | [38516-ashura-blaster.json](./38516-ashura-blaster.json) |
 | Ashura: Dark Reign | 326818 | [326818-ashura-dark-reign.json](./326818-ashura-dark-reign.json) |
+| Ashwalkers: A Survival Journey | 138669 | [138669-ashwalkers-a-survival-journey.json](./138669-ashwalkers-a-survival-journey.json) |
 | Ashwood Conspiracy | 336696 | [336696-ashwood-conspiracy.json](./336696-ashwood-conspiracy.json) |
 | Ashworld | 43120 | [43120-ashworld.json](./43120-ashworld.json) |
 | AsiaKingdom | 302343 | [302343-asiakingdom.json](./302343-asiakingdom.json) |
@@ -7832,6 +7833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aztec Tomb Adventure | 25853 | [25853-aztec-tomb-adventure.json](./25853-aztec-tomb-adventure.json) |
 | Aztec Tower | 114332 | [114332-aztec-tower.json](./114332-aztec-tower.json) |
 | Aztec Wars | 80628 | [80628-aztec-wars.json](./80628-aztec-wars.json) |
+| Aztech Forgotten Gods | 145783 | [145783-aztech-forgotten-gods.json](./145783-aztech-forgotten-gods.json) |
 | Aztlán Codex: El códice de los ancestros | 304684 | [304684-aztlan-codex-el-codice-de-los-ancestros.json](./304684-aztlan-codex-el-codice-de-los-ancestros.json) |
 | Aztlan Uncovered | 201308 | [201308-aztlan-uncovered.json](./201308-aztlan-uncovered.json) |
 | Azu Quiz Daioh | 98059 | [98059-azu-quiz-daioh.json](./98059-azu-quiz-daioh.json) |
