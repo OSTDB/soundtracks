@@ -1501,6 +1501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearthstone: One Night in Karazhan | 21976 | [21976-hearthstone-one-night-in-karazhan.json](./21976-hearthstone-one-night-in-karazhan.json) |
 | Hearthstone: Perils in Paradise | 325842 | [325842-hearthstone-perils-in-paradise.json](./325842-hearthstone-perils-in-paradise.json) |
 | Hearthstone: Rastakhan's Rumble | 111655 | [111655-hearthstone-rastakhans-rumble.json](./111655-hearthstone-rastakhans-rumble.json) |
+| Hearthstone: Saviors of Uldum | 121499 | [121499-hearthstone-saviors-of-uldum.json](./121499-hearthstone-saviors-of-uldum.json) |
 | Hearthstone: Scholomance Academy | 138798 | [138798-hearthstone-scholomance-academy.json](./138798-hearthstone-scholomance-academy.json) |
 | Hearthstone: The Boomsday Project | 105125 | [105125-hearthstone-the-boomsday-project.json](./105125-hearthstone-the-boomsday-project.json) |
 | Hearthstone: The Grand Tournament | 21973 | [21973-hearthstone-the-grand-tournament.json](./21973-hearthstone-the-grand-tournament.json) |
@@ -2638,6 +2639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes and Forsaken: The Official Wheel of Time Digital Card Game | 362304 | [362304-heroes-and-forsaken-the-official-wheel-of-time-digital-card-game.json](./362304-heroes-and-forsaken-the-official-wheel-of-time-digital-card-game.json) |
 | Heroes and Test of Succubus | 294165 | [294165-heroes-and-test-of-succubus.json](./294165-heroes-and-test-of-succubus.json) |
 | Heroes Call | 22209 | [22209-heroes-call.json](./22209-heroes-call.json) |
+| Heroes Chronicles: All Chapters | 124971 | [124971-heroes-chronicles-all-chapters.json](./124971-heroes-chronicles-all-chapters.json) |
 | Heroes Chronicles: Clash of the Dragons | 8435 | [8435-heroes-chronicles-clash-of-the-dragons.json](./8435-heroes-chronicles-clash-of-the-dragons.json) |
 | Heroes Chronicles: Conquest of the Underworld | 7867 | [7867-heroes-chronicles-conquest-of-the-underworld.json](./7867-heroes-chronicles-conquest-of-the-underworld.json) |
 | Heroes Chronicles: Masters of the Elements | 8434 | [8434-heroes-chronicles-masters-of-the-elements.json](./8434-heroes-chronicles-masters-of-the-elements.json) |
