@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | #Drive | 147262 | [147262-drive.json](./147262-drive.json) |
 | #Halloween, Super Puzzles Dream | 147438 | [147438-halloween-super-puzzles-dream.json](./147438-halloween-super-puzzles-dream.json) |
 | #IDARB | 9888 | [9888-idarb.json](./9888-idarb.json) |
+| #Killallzombies | 26369 | [26369-killallzombies.json](./26369-killallzombies.json) |
 | #NoLimitFantasy, Super Puzzles Dream | 146680 | [146680-nolimitfantasy-super-puzzles-dream.json](./146680-nolimitfantasy-super-puzzles-dream.json) |
 | #OneRoom | 106639 | [106639-oneroom.json](./106639-oneroom.json) |
 | #SelfCare | 106771 | [106771-selfcare.json](./106771-selfcare.json) |
@@ -459,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1492: Colonization of the New World | 373086 | [373086-1492-colonization-of-the-new-world.json](./373086-1492-colonization-of-the-new-world.json) |
 | 14Days | 98412 | [98412-14days.json](./98412-14days.json) |
 | 14Days in Dream | 93745 | [93745-14days-in-dream.json](./93745-14days-in-dream.json) |
+| 15 Days | 26208 | [26208-15-days.json](./26208-15-days.json) |
 | 15 Defense | 90474 | [90474-15-defense.json](./90474-15-defense.json) |
 | 15 in 1 Solitaire | 187457 | [187457-15-in-1-solitaire.json](./187457-15-in-1-solitaire.json) |
 | 15 Minutes | 308342 | [308342-15-minutes.json](./308342-15-minutes.json) |
