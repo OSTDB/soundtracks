@@ -478,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiden II | 8855 | [8855-raiden-ii.json](./8855-raiden-ii.json) |
 | Raiden III x Mikado Maniax: Deluxe Edition | 234207 | [234207-raiden-iii-x-mikado-maniax-deluxe-edition.json](./234207-raiden-iii-x-mikado-maniax-deluxe-edition.json) |
 | Raiden IV | 7154 | [7154-raiden-iv.json](./7154-raiden-iv.json) |
+| Raiden IV x Mikado Remix | 141863 | [141863-raiden-iv-x-mikado-remix.json](./141863-raiden-iv-x-mikado-remix.json) |
 | Raiden Nova | 319140 | [319140-raiden-nova.json](./319140-raiden-nova.json) |
 | Raiden Trad | 46211 | [46211-raiden-trad.json](./46211-raiden-trad.json) |
 | Raiden V: Director's Cut - Limited Edition | 136319 | [136319-raiden-v-directors-cut-limited-edition.json](./136319-raiden-v-directors-cut-limited-edition.json) |
@@ -4300,6 +4301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Band 3: Deluxe | 303612 | [303612-rock-band-3-deluxe.json](./303612-rock-band-3-deluxe.json) |
 | Rock Band 4: 6th Anniversary Free DLC Pack | 365736 | [365736-rock-band-4-6th-anniversary-free-dlc-pack.json](./365736-rock-band-4-6th-anniversary-free-dlc-pack.json) |
 | Rock Band 4: Any Other Heart | 366816 | [366816-rock-band-4-any-other-heart.json](./366816-rock-band-4-any-other-heart.json) |
+| Rock Band 4: Rivals Expansion | 175664 | [175664-rock-band-4-rivals-expansion.json](./175664-rock-band-4-rivals-expansion.json) |
 | Rock Band 4: Who Am I? (What's My Name?) | 371863 | [371863-rock-band-4-who-am-i-whats-my-name.json](./371863-rock-band-4-who-am-i-whats-my-name.json) |
 | Rock Band Blitz | 2696 | [2696-rock-band-blitz.json](./2696-rock-band-blitz.json) |
 | Rock Band Sessions | 250663 | [250663-rock-band-sessions.json](./250663-rock-band-sessions.json) |
