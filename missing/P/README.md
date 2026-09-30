@@ -1513,6 +1513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patrolling Mars | 276289 | [276289-patrolling-mars.json](./276289-patrolling-mars.json) |
 | Patrolling the Highway | 359409 | [359409-patrolling-the-highway.json](./359409-patrolling-the-highway.json) |
 | Patron | 152393 | [152393-patron.json](./152393-patron.json) |
+| Pattern | 112449 | [112449-pattern.json](./112449-pattern.json) |
 | Pattern Survivors: Bullet Hell | 348970 | [348970-pattern-survivors-bullet-hell.json](./348970-pattern-survivors-bullet-hell.json) |
 | Pattern Thinking Puzzle Build It Before 10 | 362365 | [362365-pattern-thinking-puzzle-build-it-before-10.json](./362365-pattern-thinking-puzzle-build-it-before-10.json) |
 | Patterns | 131534 | [131534-patterns.json](./131534-patterns.json) |
@@ -5294,6 +5295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Chase Crime: Racing Car | 107672 | [107672-police-chase-crime-racing-car.json](./107672-police-chase-crime-racing-car.json) |
 | Police Chopper | 87917 | [87917-police-chopper.json](./87917-police-chopper.json) |
 | Police Enforcement VR : 1-K-27 | 97014 | [97014-police-enforcement-vr-1-k-27.json](./97014-police-enforcement-vr-1-k-27.json) |
+| Police Helicopter Simulator | 111959 | [111959-police-helicopter-simulator.json](./111959-police-helicopter-simulator.json) |
 | Police on Duty | 209656 | [209656-police-on-duty.json](./209656-police-on-duty.json) |
 | Police on Duty 2 | 295773 | [295773-police-on-duty-2.json](./295773-police-on-duty-2.json) |
 | Police Patrol | 96900 | [96900-police-patrol.json](./96900-police-patrol.json) |
@@ -6008,6 +6010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Gate | 42130 | [42130-power-gate.json](./42130-power-gate.json) |
 | Power Gig: Rise of the SixString | 7135 | [7135-power-gig-rise-of-the-sixstring.json](./7135-power-gig-rise-of-the-sixstring.json) |
 | Power Grounds | 197774 | [197774-power-grounds.json](./197774-power-grounds.json) |
+| Power Gunner | 112390 | [112390-power-gunner.json](./112390-power-gunner.json) |
 | Power Guy World | 339266 | [339266-power-guy-world.json](./339266-power-guy-world.json) |
 | Power Hands | 223982 | [223982-power-hands.json](./223982-power-hands.json) |
 | Power Hour | 11054 | [11054-power-hour.json](./11054-power-hour.json) |
