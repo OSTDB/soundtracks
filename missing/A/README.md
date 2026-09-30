@@ -245,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Lab of One's Own | 177848 | [177848-a-lab-of-ones-own.json](./177848-a-lab-of-ones-own.json) |
 | A Last Will and Testament | 203869 | [203869-a-last-will-and-testament.json](./203869-a-last-will-and-testament.json) |
 | A Legend of Wisdom | 232962 | [232962-a-legend-of-wisdom.json](./232962-a-legend-of-wisdom.json) |
+| A Legionary's Life | 117101 | [117101-a-legionarys-life.json](./117101-a-legionarys-life.json) |
 | A Letter For You! | 184082 | [184082-a-letter-for-you.json](./184082-a-letter-for-you.json) |
 | A Life of Logic | 256243 | [256243-a-life-of-logic.json](./256243-a-life-of-logic.json) |
 | A Light Inside | 109173 | [109173-a-light-inside.json](./109173-a-light-inside.json) |
@@ -986,6 +987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achromatic | 203807 | [203807-achromatic.json](./203807-achromatic.json) |
 | Achtung Franz: Quest for Wine | 314993 | [314993-achtung-franz-quest-for-wine.json](./314993-achtung-franz-quest-for-wine.json) |
 | Achtung Spitfire | 86015 | [86015-achtung-spitfire.json](./86015-achtung-spitfire.json) |
+| Achtung! Cthulhu Tactics | 106562 | [106562-achtung-cthulhu-tactics.json](./106562-achtung-cthulhu-tactics.json) |
 | Acid Drop | 11111 | [11111-acid-drop.json](./11111-acid-drop.json) |
 | Acid Drops | 15588 | [15588-acid-drops.json](./15588-acid-drops.json) |
 | Acid Moon | 135092 | [135092-acid-moon.json](./135092-acid-moon.json) |
@@ -5276,6 +5278,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Bundle | 294821 | [294821-arcade-bundle.json](./294821-arcade-bundle.json) |
 | Arcade Cats | 252704 | [252704-arcade-cats.json](./252704-arcade-cats.json) |
 | Arcade Chess | 12393 | [12393-arcade-chess.json](./12393-arcade-chess.json) |
+| Arcade Classic No. 1: Asteroids / Missile Command | 117925 | [117925-arcade-classic-no-1-asteroids-missile-command.json](./117925-arcade-classic-no-1-asteroids-missile-command.json) |
+| Arcade Classic No. 2: Centipede / Millipede | 117924 | [117924-arcade-classic-no-2-centipede-millipede.json](./117924-arcade-classic-no-2-centipede-millipede.json) |
 | Arcade Classics: Seawolf II and Gun Fight | 130282 | [130282-arcade-classics-seawolf-ii-and-gun-fight.json](./130282-arcade-classics-seawolf-ii-and-gun-fight.json) |
 | Arcade Crossy Road | 228367 | [228367-arcade-crossy-road.json](./228367-arcade-crossy-road.json) |
 | Arcade Flight | 203529 | [203529-arcade-flight.json](./203529-arcade-flight.json) |
@@ -6331,6 +6335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes of Equestria | 121722 | [121722-ashes-of-equestria.json](./121722-ashes-of-equestria.json) |
 | Ashes of Immortality Trilogy | 52607 | [52607-ashes-of-immortality-trilogy.json](./52607-ashes-of-immortality-trilogy.json) |
 | Ashes of Kardoria | 386145 | [386145-ashes-of-kardoria.json](./386145-ashes-of-kardoria.json) |
+| Ashes of Oahu | 116196 | [116196-ashes-of-oahu.json](./116196-ashes-of-oahu.json) |
 | Ashes of Paradise | 377808 | [377808-ashes-of-paradise.json](./377808-ashes-of-paradise.json) |
 | Ashes of Paradise | 379042 | [379042-ashes-of-paradise.json](./379042-ashes-of-paradise.json) |
 | Ashes of Sombtir | 275883 | [275883-ashes-of-sombtir.json](./275883-ashes-of-sombtir.json) |
