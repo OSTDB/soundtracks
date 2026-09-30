@@ -7087,6 +7087,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Prince Edward | 256314 | [256314-the-prince-edward.json](./256314-the-prince-edward.json) |
 | The Prince is a 10, But... | 395850 | [395850-the-prince-is-a-10-but.json](./395850-the-prince-is-a-10-but.json) |
 | The Prince is Dead | 239877 | [239877-the-prince-is-dead.json](./239877-the-prince-is-dead.json) |
+| The Prince of Tennis: Doki Doki Survival - Eternal Passion! Tie Break Game | 395102 | [395102-the-prince-of-tennis-doki-doki-survival-eternal-passion-tie-break-game.json](./395102-the-prince-of-tennis-doki-doki-survival-eternal-passion-tie-break-game.json) |
+| The Prince of Tennis: Sweet School Festival 0-40 and more… | 395097 | [395097-the-prince-of-tennis-sweet-school-festival-0-40-and-more.json](./395097-the-prince-of-tennis-sweet-school-festival-0-40-and-more.json) |
 | The Prince's Keeper | 412310 | [412310-the-princes-keeper.json](./412310-the-princes-keeper.json) |
 | The Princess and the Frog | 17753 | [17753-the-princess-and-the-frog.json](./17753-the-princess-and-the-frog.json) |
 | The Princess and the Pauper: Storybook Adventures | 293199 | [293199-the-princess-and-the-pauper-storybook-adventures.json](./293199-the-princess-and-the-pauper-storybook-adventures.json) |
