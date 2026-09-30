@@ -4263,6 +4263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claire's Cruisin' Cafe: High Seas Cuisine | 193445 | [193445-claires-cruisin-cafe-high-seas-cuisine.json](./193445-claires-cruisin-cafe-high-seas-cuisine.json) |
 | Clairvoyance | 115488 | [115488-clairvoyance.json](./115488-clairvoyance.json) |
 | Clairvoyant: The Magician Mystery | 417685 | [417685-clairvoyant-the-magician-mystery.json](./417685-clairvoyant-the-magician-mystery.json) |
+| Clam Man | 114921 | [114921-clam-man.json](./114921-clam-man.json) |
 | Clamb | 278553 | [278553-clamb.json](./278553-clamb.json) |
 | Clan and Crown | 402939 | [402939-clan-and-crown.json](./402939-clan-and-crown.json) |
 | Clan Generator | 212244 | [212244-clan-generator.json](./212244-clan-generator.json) |
@@ -5048,6 +5049,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cogito Ergo Sum | 299852 | [299852-cogito-ergo-sum.json](./299852-cogito-ergo-sum.json) |
 | Cogmo | 286072 | [286072-cogmo.json](./286072-cogmo.json) |
 | Cognition Method | 211219 | [211219-cognition-method.json](./211219-cognition-method.json) |
+| Cognition: An Erica Reed Thriller - Episode 2: The Wise Monkey | 114985 | [114985-cognition-an-erica-reed-thriller-episode-2-the-wise-monkey.json](./114985-cognition-an-erica-reed-thriller-episode-2-the-wise-monkey.json) |
+| Cognition: An Erica Reed Thriller - Episode 3: The Oracle | 114986 | [114986-cognition-an-erica-reed-thriller-episode-3-the-oracle.json](./114986-cognition-an-erica-reed-thriller-episode-3-the-oracle.json) |
+| Cognition: An Erica Reed Thriller - Episode 4: The Cain Killer | 114987 | [114987-cognition-an-erica-reed-thriller-episode-4-the-cain-killer.json](./114987-cognition-an-erica-reed-thriller-episode-4-the-cain-killer.json) |
 | Cognitive Dissonance: A SiIvaGunner Christmas Comeback Crisis Side Story | 326956 | [326956-cognitive-dissonance-a-siivagunner-christmas-comeback-crisis-side-story.json](./326956-cognitive-dissonance-a-siivagunner-christmas-comeback-crisis-side-story.json) |
 | Cognizant Protocol | 51557 | [51557-cognizant-protocol.json](./51557-cognizant-protocol.json) |
 | Cogs and Carnage | 291215 | [291215-cogs-and-carnage.json](./291215-cogs-and-carnage.json) |
@@ -7601,6 +7605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepy Support | 345029 | [345029-creepy-support.json](./345029-creepy-support.json) |
 | Creepy Tale 3: Ingrid Penance | 211024 | [211024-creepy-tale-3-ingrid-penance.json](./211024-creepy-tale-3-ingrid-penance.json) |
 | Creepy Tale Bundle | 193739 | [193739-creepy-tale-bundle.json](./193739-creepy-tale-bundle.json) |
+| Creepy Vision | 114823 | [114823-creepy-vision.json](./114823-creepy-vision.json) |
 | Creepy Waves FM: Bugs Fixer | 322724 | [322724-creepy-waves-fm-bugs-fixer.json](./322724-creepy-waves-fm-bugs-fixer.json) |
 | CreepyDates | 408876 | [408876-creepydates.json](./408876-creepydates.json) |
 | Creepypasta Land | 130346 | [130346-creepypasta-land.json](./130346-creepypasta-land.json) |
@@ -7608,6 +7613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepytape Rewind: Not From Here | 399002 | [399002-creepytape-rewind-not-from-here.json](./399002-creepytape-rewind-not-from-here.json) |
 | Crelabeth: Unholy Lands | 229156 | [229156-crelabeth-unholy-lands.json](./229156-crelabeth-unholy-lands.json) |
 | Creme de la Creme | 126884 | [126884-creme-de-la-creme.json](./126884-creme-de-la-creme.json) |
+| Creo God Simulator | 115401 | [115401-creo-god-simulator.json](./115401-creo-god-simulator.json) |
 | Crepe Master! | 394504 | [394504-crepe-master.json](./394504-crepe-master.json) |
 | Crescendo Of Dreams + Surmounting Terror | 271490 | [271490-crescendo-of-dreams-surmounting-terror.json](./271490-crescendo-of-dreams-surmounting-terror.json) |
 | Crescent Bloom | 215095 | [215095-crescent-bloom.json](./215095-crescent-bloom.json) |
