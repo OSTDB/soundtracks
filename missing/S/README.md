@@ -1523,6 +1523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Score International Baja 1000 | 7446 | [7446-score-international-baja-1000.json](./7446-score-international-baja-1000.json) |
 | Score Rush Extended | 19854 | [19854-score-rush-extended.json](./19854-score-rush-extended.json) |
 | Score! Hero | 15851 | [15851-score-hero.json](./15851-score-hero.json) |
+| Score! Match | 91215 | [91215-score-match.json](./91215-score-match.json) |
 | Scorn | 262084 | [262084-scorn.json](./262084-scorn.json) |
 | Scorn: Deluxe Edition | 205002 | [205002-scorn-deluxe-edition.json](./205002-scorn-deluxe-edition.json) |
 | Scorpion | 22729 | [22729-scorpion.json](./22729-scorpion.json) |
@@ -5485,6 +5486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skaza | 141159 | [141159-skaza.json](./141159-skaza.json) |
 | Skeal | 185682 | [185682-skeal.json](./185682-skeal.json) |
 | Skedaddling In Egypt | 244244 | [244244-skedaddling-in-egypt.json](./244244-skedaddling-in-egypt.json) |
+| Skee-Ball | 94020 | [94020-skee-ball.json](./94020-skee-ball.json) |
 | Skeet: VR Target Shooting | 33453 | [33453-skeet-vr-target-shooting.json](./33453-skeet-vr-target-shooting.json) |
 | Skeeter's Grid | 190082 | [190082-skeeters-grid.json](./190082-skeeters-grid.json) |
 | Skeetshoot | 81284 | [81284-skeetshoot.json](./81284-skeetshoot.json) |
@@ -7624,6 +7626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitude | 287232 | [287232-solitude.json](./287232-solitude.json) |
 | Solitude Underwater | 213319 | [213319-solitude-underwater.json](./213319-solitude-underwater.json) |
 | Solitude: Escape of Head | 102939 | [102939-solitude-escape-of-head.json](./102939-solitude-escape-of-head.json) |
+| Solium Infernum | 92627 | [92627-solium-infernum.json](./92627-solium-infernum.json) |
 | Solium Infernum: Belphegor, Paragon of Impiety | 298101 | [298101-solium-infernum-belphegor-paragon-of-impiety.json](./298101-solium-infernum-belphegor-paragon-of-impiety.json) |
 | Sollarion | 238586 | [238586-sollarion.json](./238586-sollarion.json) |
 | Solm | 183079 | [183079-solm.json](./183079-solm.json) |
@@ -10546,6 +10549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy x Anya: Operation Memories - Excited Outifit Pack | 308815 | [308815-spy-x-anya-operation-memories-excited-outifit-pack.json](./308815-spy-x-anya-operation-memories-excited-outifit-pack.json) |
 | Spy x Anya: Operation Memories - Thrilling Outfit Pack | 308816 | [308816-spy-x-anya-operation-memories-thrilling-outfit-pack.json](./308816-spy-x-anya-operation-memories-thrilling-outfit-pack.json) |
 | Spy-der Pig | 297005 | [297005-spy-der-pig.json](./297005-spy-der-pig.json) |
+| Spyder | 93470 | [93470-spyder.json](./93470-spyder.json) |
 | Spyhack | 90138 | [90138-spyhack.json](./90138-spyhack.json) |
 | SpyHunt | 330294 | [330294-spyhunt.json](./330294-spyhunt.json) |
 | SpyHunter | 4166 | [4166-spyhunter.json](./4166-spyhunter.json) |
@@ -11919,6 +11923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steampunk Syndicate | 29666 | [29666-steampunk-syndicate.json](./29666-steampunk-syndicate.json) |
 | Steampunk Timer | 152797 | [152797-steampunk-timer.json](./152797-steampunk-timer.json) |
 | Steampunk Tower | 142333 | [142333-steampunk-tower.json](./142333-steampunk-tower.json) |
+| Steampunk Tower 2 | 95113 | [95113-steampunk-tower-2.json](./95113-steampunk-tower-2.json) |
 | Steamroll | 20361 | [20361-steamroll.json](./20361-steamroll.json) |
 | Steamroller | 40911 | [40911-steamroller.json](./40911-steamroller.json) |
 | SteamRush | 295278 | [295278-steamrush.json](./295278-steamrush.json) |
@@ -14048,6 +14053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Cave Boy: Forsaken Dungeon | 31190 | [31190-super-cave-boy-forsaken-dungeon.json](./31190-super-cave-boy-forsaken-dungeon.json) |
 | Super Chains | 112941 | [112941-super-chains.json](./112941-super-chains.json) |
 | Super Champion Baseball | 125337 | [125337-super-champion-baseball.json](./125337-super-champion-baseball.json) |
+| Super Chariot | 93661 | [93661-super-chariot.json](./93661-super-chariot.json) |
 | Super Chase: Criminal Termination | 40430 | [40430-super-chase-criminal-termination.json](./40430-super-chase-criminal-termination.json) |
 | Super Chibi Knight | 36438 | [36438-super-chibi-knight.json](./36438-super-chibi-knight.json) |
 | Super Chick Sisters | 140535 | [140535-super-chick-sisters.json](./140535-super-chick-sisters.json) |
