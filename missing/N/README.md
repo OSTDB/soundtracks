@@ -3358,6 +3358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noukin Mahoutsukai ha Shingaku Shitai | 282611 | [282611-noukin-mahoutsukai-ha-shingaku-shitai.json](./282611-noukin-mahoutsukai-ha-shingaku-shitai.json) |
 | Noukk | 197757 | [197757-noukk.json](./197757-noukk.json) |
 | Noumisou Journey | 274557 | [274557-noumisou-journey.json](./274557-noumisou-journey.json) |
+| Noun Town: Learn & Chill | 408986 | [408986-noun-town-learn-and-chill.json](./408986-noun-town-learn-and-chill.json) |
 | Nounishpunk | 264649 | [264649-nounishpunk.json](./264649-nounishpunk.json) |
 | Nour: Play with Your Food | 138619 | [138619-nour-play-with-your-food.json](./138619-nour-play-with-your-food.json) |
 | Nourish | 279709 | [279709-nourish.json](./279709-nourish.json) |
