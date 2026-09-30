@@ -1741,6 +1741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recursive Ruin | 187389 | [187389-recursive-ruin.json](./187389-recursive-ruin.json) |
 | Recursor | 182274 | [182274-recursor.json](./182274-recursor.json) |
 | Recursudoku | 413194 | [413194-recursudoku.json](./413194-recursudoku.json) |
+| Recycle | 17300 | [17300-recycle.json](./17300-recycle.json) |
 | Recycle Master | 300851 | [300851-recycle-master.json](./300851-recycle-master.json) |
 | Recycler's Terminal | 116327 | [116327-recyclers-terminal.json](./116327-recyclers-terminal.json) |
 | Red | 196139 | [196139-red.json](./196139-red.json) |
@@ -4571,6 +4572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockmen R: Dr. Wily no Gyakushuu | 80225 | [80225-rockmen-r-dr-wily-no-gyakushuu.json](./80225-rockmen-r-dr-wily-no-gyakushuu.json) |
 | Rockmorse | 181367 | [181367-rockmorse.json](./181367-rockmorse.json) |
 | Rocko's Modern Life: Match-Master | 273876 | [273876-rockos-modern-life-match-master.json](./273876-rockos-modern-life-match-master.json) |
+| Rocko's Quest | 17345 | [17345-rockos-quest.json](./17345-rockos-quest.json) |
 | Rocks N' Rockets | 84849 | [84849-rocks-n-rockets.json](./84849-rocks-n-rockets.json) |
 | Rocks Rider | 262059 | [262059-rocks-rider.json](./262059-rocks-rider.json) |
 | Rocks'n'Gems | 169451 | [169451-rocksngems.json](./169451-rocksngems.json) |
@@ -4753,6 +4755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Samurai | 266278 | [266278-rogue-samurai.json](./266278-rogue-samurai.json) |
 | Rogue Sentry | 142987 | [142987-rogue-sentry.json](./142987-rogue-sentry.json) |
 | Rogue Shell | 395553 | [395553-rogue-shell.json](./395553-rogue-shell.json) |
+| Rogue Shooter: The FPS Roguelike | 17307 | [17307-rogue-shooter-the-fps-roguelike.json](./17307-rogue-shooter-the-fps-roguelike.json) |
 | Rogue Slash | 117647 | [117647-rogue-slash.json](./117647-rogue-slash.json) |
 | Rogue Slasher | 269092 | [269092-rogue-slasher.json](./269092-rogue-slasher.json) |
 | Rogue Slime | 388018 | [388018-rogue-slime.json](./388018-rogue-slime.json) |
@@ -5123,6 +5126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rookie Guard and the Queen | 280259 | [280259-rookie-guard-and-the-queen.json](./280259-rookie-guard-and-the-queen.json) |
 | Rookie Math Pro | 102205 | [102205-rookie-math-pro.json](./102205-rookie-math-pro.json) |
 | Rookie Tank | 116357 | [116357-rookie-tank.json](./116357-rookie-tank.json) |
+| Rooks Keep | 17373 | [17373-rooks-keep.json](./17373-rooks-keep.json) |
 | Room | 291092 | [291092-room.json](./291092-room.json) |
 | Room 14 | 301855 | [301855-room-14.json](./301855-room-14.json) |
 | Room 40 | 120364 | [120364-room-40.json](./120364-room-40.json) |
