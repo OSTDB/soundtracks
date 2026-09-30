@@ -4139,6 +4139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meow Cat Village | 314471 | [314471-meow-cat-village.json](./314471-meow-cat-village.json) |
 | Meow Defence | 214159 | [214159-meow-defence.json](./214159-meow-defence.json) |
 | Meow Meoww | 265415 | [265415-meow-meoww.json](./265415-meow-meoww.json) |
+| Meow Moments: Celebrating Frost & Flora | 410375 | [410375-meow-moments-celebrating-frost-and-flora.json](./410375-meow-moments-celebrating-frost-and-flora.json) |
 | Meow Moments: Celebrating Geeks & Athletes | 342234 | [342234-meow-moments-celebrating-geeks-and-athletes.json](./342234-meow-moments-celebrating-geeks-and-athletes.json) |
 | Meow Moments: Celebrating Renewal & Romance | 325008 | [325008-meow-moments-celebrating-renewal-and-romance.json](./325008-meow-moments-celebrating-renewal-and-romance.json) |
 | Meow Moments: Valentine's Day | 289844 | [289844-meow-moments-valentines-day.json](./289844-meow-moments-valentines-day.json) |
@@ -6049,6 +6050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirador | 116939 | [116939-mirador.json](./116939-mirador.json) |
 | Mirage | 247761 | [247761-mirage.json](./247761-mirage.json) |
 | Mirage | 371353 | [371353-mirage.json](./371353-mirage.json) |
+| Mirage | 410391 | [410391-mirage.json](./410391-mirage.json) |
 | Mirage In Darkness | 211810 | [211810-mirage-in-darkness.json](./211810-mirage-in-darkness.json) |
 | Mirage Motel | 183061 | [183061-mirage-motel.json](./183061-mirage-motel.json) |
 | Mirage Noir | 309655 | [309655-mirage-noir.json](./309655-mirage-noir.json) |
@@ -8410,6 +8412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Bullfrog | 198831 | [198831-mr-bullfrog.json](./198831-mr-bullfrog.json) |
 | Mr. Catfish's Singles Retreat Event Extravaganza!!! | 122353 | [122353-mr-catfishs-singles-retreat-event-extravaganza.json](./122353-mr-catfishs-singles-retreat-event-extravaganza.json) |
 | Mr. Cheesy | 182937 | [182937-mr-cheesy.json](./182937-mr-cheesy.json) |
+| Mr. Cockatrice | 410394 | [410394-mr-cockatrice.json](./410394-mr-cockatrice.json) |
 | Mr. Cool | 23890 | [23890-mr-cool.json](./23890-mr-cool.json) |
 | Mr. Crab 2 | 57145 | [57145-mr-crab-2.json](./57145-mr-crab-2.json) |
 | Mr. Do! | 297491 | [297491-mr-do.json](./297491-mr-do.json) |
