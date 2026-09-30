@@ -7743,6 +7743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dual Eclipse | 309848 | [309848-dual-eclipse.json](./309848-dual-eclipse.json) |
 | Dual Force | 413669 | [413669-dual-force.json](./413669-dual-force.json) |
 | Dual Fury | 187842 | [187842-dual-fury.json](./187842-dual-fury.json) |
+| Dual Gear | 33551 | [33551-dual-gear.json](./33551-dual-gear.json) |
 | Dual Hearts | 44717 | [44717-dual-hearts.json](./44717-dual-hearts.json) |
 | Dual Heroes | 3477 | [3477-dual-heroes.json](./3477-dual-heroes.json) |
 | Dual Orb | 15906 | [15906-dual-orb.json](./15906-dual-orb.json) |
