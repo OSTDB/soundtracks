@@ -6397,6 +6397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Convict Team Tactics | 326264 | [326264-convict-team-tactics.json](./326264-convict-team-tactics.json) |
 | Convicted Galaxy | 30902 | [30902-convicted-galaxy.json](./30902-convicted-galaxy.json) |
 | Conviction | 260181 | [260181-conviction.json](./260181-conviction.json) |
+| Conviction Chronicles | 404993 | [404993-conviction-chronicles.json](./404993-conviction-chronicles.json) |
 | Convrgence | 269281 | [269281-convrgence.json](./269281-convrgence.json) |
 | Conway | 282112 | [282112-conway.json](./282112-conway.json) |
 | CoogyLoop | 242567 | [242567-coogyloop.json](./242567-coogyloop.json) |
@@ -8020,6 +8021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crone | 408087 | [408087-crone.json](./408087-crone.json) |
 | Cronicas de Landulph | 170432 | [170432-cronicas-de-landulph.json](./170432-cronicas-de-landulph.json) |
 | Crónicas de Nueva Estrella Uno | 339340 | [339340-cronicas-de-nueva-estrella-uno.json](./339340-cronicas-de-nueva-estrella-uno.json) |
+| Cronos: Lazarus | 404917 | [404917-cronos-lazarus.json](./404917-cronos-lazarus.json) |
 | Cronostase Electric Collection | 225899 | [225899-cronostase-electric-collection.json](./225899-cronostase-electric-collection.json) |
 | Cronous Online | 213028 | [213028-cronous-online.json](./213028-cronous-online.json) |
 | Cronus Monument | 293235 | [293235-cronus-monument.json](./293235-cronus-monument.json) |
