@@ -2593,6 +2593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reset | 305373 | [305373-reset.json](./305373-reset.json) |
 | Reset Co. | 180620 | [180620-reset-co.json](./180620-reset-co.json) |
 | Reset Day | 396552 | [396552-reset-day.json](./396552-reset-day.json) |
+| Resettle | 417573 | [417573-resettle.json](./417573-resettle.json) |
 | Reshape | 255729 | [255729-reshape.json](./255729-reshape.json) |
 | Reshape | 293634 | [293634-reshape.json](./293634-reshape.json) |
 | Reshine | 399078 | [399078-reshine.json](./399078-reshine.json) |
@@ -5583,6 +5584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rucoy 2: Mirror World MMORPG | 231916 | [231916-rucoy-2-mirror-world-mmorpg.json](./231916-rucoy-2-mirror-world-mmorpg.json) |
 | Rucoy Online | 76572 | [76572-rucoy-online.json](./76572-rucoy-online.json) |
 | Ruction: The Golden Tablet | 32207 | [32207-ruction-the-golden-tablet.json](./32207-ruction-the-golden-tablet.json) |
+| Rude Supermarket Simulator | 417383 | [417383-rude-supermarket-simulator.json](./417383-rude-supermarket-simulator.json) |
 | Rudimentary Unfinished Shooter Entry | 413891 | [413891-rudimentary-unfinished-shooter-entry.json](./413891-rudimentary-unfinished-shooter-entry.json) |
 | Rudo Resurrection | 66646 | [66646-rudo-resurrection.json](./66646-rudo-resurrection.json) |
 | Rudolf's Very Good, No Bad Day-o | 412543 | [412543-rudolfs-very-good-no-bad-day-o.json](./412543-rudolfs-very-good-no-bad-day-o.json) |
