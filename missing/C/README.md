@@ -7746,6 +7746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Faith | 376477 | [376477-crimson-faith.json](./376477-crimson-faith.json) |
 | Crimson Frontier | 335864 | [335864-crimson-frontier.json](./335864-crimson-frontier.json) |
 | Crimson Furnace | 381626 | [381626-crimson-furnace.json](./381626-crimson-furnace.json) |
+| Crimson Gem Saga | 19640 | [19640-crimson-gem-saga.json](./19640-crimson-gem-saga.json) |
 | Crimson Gray: Dusk and Dawn | 105368 | [105368-crimson-gray-dusk-and-dawn.json](./105368-crimson-gray-dusk-and-dawn.json) |
 | Crimson Hills | 29067 | [29067-crimson-hills.json](./29067-crimson-hills.json) |
 | Crimson Horror | 374624 | [374624-crimson-horror.json](./374624-crimson-horror.json) |
@@ -8602,6 +8603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CubicPanic | 98980 | [98980-cubicpanic.json](./98980-cubicpanic.json) |
 | Cubidle | 311473 | [311473-cubidle.json](./311473-cubidle.json) |
 | Cubik | 294301 | [294301-cubik.json](./294301-cubik.json) |
+| Cubikolor | 19888 | [19888-cubikolor.json](./19888-cubikolor.json) |
 | Cubin | 299744 | [299744-cubin.json](./299744-cubin.json) |
 | Cubin II | 368485 | [368485-cubin-ii.json](./368485-cubin-ii.json) |
 | Cubinko | 234066 | [234066-cubinko.json](./234066-cubinko.json) |
