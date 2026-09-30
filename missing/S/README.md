@@ -2568,6 +2568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senity: The Game | 116329 | [116329-senity-the-game.json](./116329-senity-the-game.json) |
 | Senjin Aleste | 165428 | [165428-senjin-aleste.json](./165428-senjin-aleste.json) |
 | Senjo no Valkyria Duel | 77367 | [77367-senjo-no-valkyria-duel.json](./77367-senjo-no-valkyria-duel.json) |
+| Senkai Livin' | 392345 | [392345-senkai-livin.json](./392345-senkai-livin.json) |
 | Senkaiden Ni: TV Animation Senkaiden Houshin Engi Yori | 37313 | [37313-senkaiden-ni-tv-animation-senkaiden-houshin-engi-yori.json](./37313-senkaiden-ni-tv-animation-senkaiden-houshin-engi-yori.json) |
 | Senko no Ronde 2 | 29137 | [29137-senko-no-ronde-2.json](./29137-senko-no-ronde-2.json) |
 | Senko no Ronde 2: Limited Edition | 212315 | [212315-senko-no-ronde-2-limited-edition.json](./212315-senko-no-ronde-2-limited-edition.json) |
@@ -6055,6 +6056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slammer Caps Xtreme | 358854 | [358854-slammer-caps-xtreme.json](./358854-slammer-caps-xtreme.json) |
 | Slampunks | 360759 | [360759-slampunks.json](./360759-slampunks.json) |
 | Slamslide | 183594 | [183594-slamslide.json](./183594-slamslide.json) |
+| Slamwall | 392410 | [392410-slamwall.json](./392410-slamwall.json) |
 | Slap Circle | 237644 | [237644-slap-circle.json](./237644-slap-circle.json) |
 | Slap City | 87935 | [87935-slap-city.json](./87935-slap-city.json) |
 | Slap Fight | 37296 | [37296-slap-fight.json](./37296-slap-fight.json) |
@@ -6555,6 +6557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SM64 Coop DX: Bananza Kong | 386853 | [386853-sm64-coop-dx-bananza-kong.json](./386853-sm64-coop-dx-bananza-kong.json) |
 | SM64 Coop DX: Super Mario World in Super Mario 64 | 360171 | [360171-sm64-coop-dx-super-mario-world-in-super-mario-64.json](./360171-sm64-coop-dx-super-mario-world-in-super-mario-64.json) |
 | SM64 Generations | 195080 | [195080-sm64-generations.json](./195080-sm64-generations.json) |
+| SM64 GeSEGKt | 392354 | [392354-sm64-gesegkt.json](./392354-sm64-gesegkt.json) |
 | SM64 Power Star Madness | 358286 | [358286-sm64-power-star-madness.json](./358286-sm64-power-star-madness.json) |
 | SM64 Royal Legacy PC Port | 378269 | [378269-sm64-royal-legacy-pc-port.json](./378269-sm64-royal-legacy-pc-port.json) |
 | SM64 Sapphire | 133993 | [133993-sm64-sapphire.json](./133993-sm64-sapphire.json) |
@@ -11077,6 +11080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stamp Smash | 82184 | [82184-stamp-smash.json](./82184-stamp-smash.json) |
 | Stampede | 5704 | [5704-stampede.json](./5704-stampede.json) |
 | Stampede Racing Royale | 252849 | [252849-stampede-racing-royale.json](./252849-stampede-racing-royale.json) |
+| Stampholder Value | 392389 | [392389-stampholder-value.json](./392389-stampholder-value.json) |
 | Stamps ‘n Papers | 346694 | [346694-stamps-n-papers.json](./346694-stamps-n-papers.json) |
 | Stan | 326277 | [326277-stan.json](./326277-stan.json) |
 | StanÇact: Sexy Tenacious Girls | 264621 | [264621-stancact-sexy-tenacious-girls.json](./264621-stancact-sexy-tenacious-girls.json) |
@@ -12021,6 +12025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starway Ateez | 315487 | [315487-starway-ateez.json](./315487-starway-ateez.json) |
 | Starweaver Express: Per Aspera Ad Astra | 391752 | [391752-starweaver-express-per-aspera-ad-astra.json](./391752-starweaver-express-per-aspera-ad-astra.json) |
 | StarWheels | 119041 | [119041-starwheels.json](./119041-starwheels.json) |
+| Starwind | 392363 | [392363-starwind.json](./392363-starwind.json) |
 | Starwinder: The Ultimate Space Race | 72069 | [72069-starwinder-the-ultimate-space-race.json](./72069-starwinder-the-ultimate-space-race.json) |
 | Starwisp Hyperdrive | 217023 | [217023-starwisp-hyperdrive.json](./217023-starwisp-hyperdrive.json) |
 | Stary | 113644 | [113644-stary.json](./113644-stary.json) |
