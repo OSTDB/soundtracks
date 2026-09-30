@@ -1451,6 +1451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Up and Up | 102973 | [102973-up-and-up.json](./102973-up-and-up.json) |
 | Up Down Z | 136235 | [136235-up-down-z.json](./136235-up-down-z.json) |
 | Up for Grabs | 268025 | [268025-up-for-grabs.json](./268025-up-for-grabs.json) |
+| Up Left Out | 103375 | [103375-up-left-out.json](./103375-up-left-out.json) |
 | Up on the Rooftop | 130235 | [130235-up-on-the-rooftop.json](./130235-up-on-the-rooftop.json) |
 | Up or Fall | 343243 | [343243-up-or-fall.json](./343243-up-or-fall.json) |
 | Up or Out | 105317 | [105317-up-or-out.json](./105317-up-or-out.json) |
