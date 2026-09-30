@@ -11370,6 +11370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starblade | 138827 | [138827-starblade.json](./138827-starblade.json) |
 | Starblaze | 42133 | [42133-starblaze.json](./42133-starblaze.json) |
 | Starblind | 293175 | [293175-starblind.json](./293175-starblind.json) |
+| Starblood Arena | 26231 | [26231-starblood-arena.json](./26231-starblood-arena.json) |
 | StarBlox Inc. | 124060 | [124060-starblox-inc.json](./124060-starblox-inc.json) |
 | Starboard | 192366 | [192366-starboard.json](./192366-starboard.json) |
 | Starboard | 334157 | [334157-starboard.json](./334157-starboard.json) |
@@ -12377,6 +12378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stitch. | 225655 | [225655-stitch.json](./225655-stitch.json) |
 | Stitch's Blazing Lasers | 342673 | [342673-stitchs-blazing-lasers.json](./342673-stitchs-blazing-lasers.json) |
 | Stitch's Escape Game | 326769 | [326769-stitchs-escape-game.json](./326769-stitchs-escape-game.json) |
+| Stitched | 28121 | [28121-stitched.json](./28121-stitched.json) |
 | Stitchy in Tooki Trouble | 145804 | [145804-stitchy-in-tooki-trouble.json](./145804-stitchy-in-tooki-trouble.json) |
 | Stix: Combat Devolved | 190699 | [190699-stix-combat-devolved.json](./190699-stix-combat-devolved.json) |
 | STLD Redux: Episode 02 | 34895 | [34895-stld-redux-episode-02.json](./34895-stld-redux-episode-02.json) |
@@ -13746,6 +13748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summum | 181402 | [181402-summum.json](./181402-summum.json) |
 | Summum Aeterna | 204692 | [204692-summum-aeterna.json](./204692-summum-aeterna.json) |
 | Sumo | 303084 | [303084-sumo.json](./303084-sumo.json) |
+| Sumoman | 28026 | [28026-sumoman.json](./28026-sumoman.json) |
 | Sump | 278460 | [278460-sump.json](./278460-sump.json) |
 | Sumtune | 236399 | [236399-sumtune.json](./236399-sumtune.json) |
 | Sumy Shelltris: Iceblocks 1 | 197388 | [197388-sumy-shelltris-iceblocks-1.json](./197388-sumy-shelltris-iceblocks-1.json) |
