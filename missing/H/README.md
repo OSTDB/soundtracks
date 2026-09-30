@@ -1650,6 +1650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Fire: Afghanistan | 982 | [982-heavy-fire-afghanistan.json](./982-heavy-fire-afghanistan.json) |
 | Heavy Fire: Black Arms | 65497 | [65497-heavy-fire-black-arms.json](./65497-heavy-fire-black-arms.json) |
 | Heavy Fire: Black Arms 3D | 85628 | [85628-heavy-fire-black-arms-3d.json](./85628-heavy-fire-black-arms-3d.json) |
+| Heavy Fire: Special Operations | 408862 | [408862-heavy-fire-special-operations.json](./408862-heavy-fire-special-operations.json) |
 | Heavy Fire: Special Operations 3D | 23589 | [23589-heavy-fire-special-operations-3d.json](./23589-heavy-fire-special-operations-3d.json) |
 | Heavy Front | 380710 | [380710-heavy-front.json](./380710-heavy-front.json) |
 | Heavy Gear | 51364 | [51364-heavy-gear.json](./51364-heavy-gear.json) |
@@ -3006,6 +3007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexxaris | 301817 | [301817-hexxaris.json](./301817-hexxaris.json) |
 | Hexxen: Hunters | 262676 | [262676-hexxen-hunters.json](./262676-hexxen-hunters.json) |
 | Hexyz Force | 42884 | [42884-hexyz-force.json](./42884-hexyz-force.json) |
+| Hexzen | 408950 | [408950-hexzen.json](./408950-hexzen.json) |
 | Hey Arnold!: Match-Master | 273883 | [273883-hey-arnold-match-master.json](./273883-hey-arnold-match-master.json) |
 | Hey Bobby! | 331697 | [331697-hey-bobby.json](./331697-hey-bobby.json) |
 | Hey Duggee: The Big Outdoor App | 88308 | [88308-hey-duggee-the-big-outdoor-app.json](./88308-hey-duggee-the-big-outdoor-app.json) |
@@ -5672,6 +5674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HWY 17 | 252093 | [252093-hwy-17.json](./252093-hwy-17.json) |
 | Hyacinth | 225747 | [225747-hyacinth.json](./225747-hyacinth.json) |
 | Hyacinthus | 120942 | [120942-hyacinthus.json](./120942-hyacinthus.json) |
+| Hyakka Ryoran Master Samurai Chronicles | 408853 | [408853-hyakka-ryoran-master-samurai-chronicles.json](./408853-hyakka-ryoran-master-samurai-chronicles.json) |
 | Hyakka Ryouran Elixir | 60776 | [60776-hyakka-ryouran-elixir.json](./60776-hyakka-ryouran-elixir.json) |
 | Hyakkano: 100 Girlfriends | 408167 | [408167-hyakkano-100-girlfriends.json](./408167-hyakkano-100-girlfriends.json) |
 | Hyakki Yako Survivor | 331332 | [331332-hyakki-yako-survivor.json](./331332-hyakki-yako-survivor.json) |
