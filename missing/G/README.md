@@ -2317,6 +2317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Globulation 2 | 124609 | [124609-globulation-2.json](./124609-globulation-2.json) |
 | Globulos Mania | 62447 | [62447-globulos-mania.json](./62447-globulos-mania.json) |
 | Globy | 326061 | [326061-globy.json](./326061-globy.json) |
+| Glocktopus | 397195 | [397195-glocktopus.json](./397195-glocktopus.json) |
 | Gloctopus | 345682 | [345682-gloctopus.json](./345682-gloctopus.json) |
 | Glogwillette | 306968 | [306968-glogwillette.json](./306968-glogwillette.json) |
 | Gloom | 151203 | [151203-gloom.json](./151203-gloom.json) |
