@@ -1104,6 +1104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zusar Vasar | 58167 | [58167-zusar-vasar.json](./58167-zusar-vasar.json) |
 | Zusi 3: Aerosoft Edition | 117612 | [117612-zusi-3-aerosoft-edition.json](./117612-zusi-3-aerosoft-edition.json) |
 | Zutto Atai no Turn! | 216458 | [216458-zutto-atai-no-turn.json](./216458-zutto-atai-no-turn.json) |
+| Zutto Tsukushite Ageru no! | 410951 | [410951-zutto-tsukushite-ageru-no.json](./410951-zutto-tsukushite-ageru-no.json) |
 | Zwaard | 235973 | [235973-zwaard.json](./235973-zwaard.json) |
 | Zwackery | 40975 | [40975-zwackery.json](./40975-zwackery.json) |
 | Zwamman | 395176 | [395176-zwamman.json](./395176-zwamman.json) |
