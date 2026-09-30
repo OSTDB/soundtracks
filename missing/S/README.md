@@ -3992,6 +3992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiny Ninjas | 36479 | [36479-shiny-ninjas.json](./36479-shiny-ninjas.json) |
 | Shiny Sisters | 336596 | [336596-shiny-sisters.json](./336596-shiny-sisters.json) |
 | Shiny Summer | 164897 | [164897-shiny-summer.json](./164897-shiny-summer.json) |
+| Shiny the Firefly | 10823 | [10823-shiny-the-firefly.json](./10823-shiny-the-firefly.json) |
 | Shiny-Man-Adventures | 211751 | [211751-shiny-man-adventures.json](./211751-shiny-man-adventures.json) |
 | Shiny: Deluxe Edition | 118929 | [118929-shiny-deluxe-edition.json](./118929-shiny-deluxe-edition.json) |
 | Shinya Ichizoku: The Battle for Hokkaido's Delicious Foods | 186908 | [186908-shinya-ichizoku-the-battle-for-hokkaidos-delicious-foods.json](./186908-shinya-ichizoku-the-battle-for-hokkaidos-delicious-foods.json) |
@@ -5609,6 +5610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkillGrid | 392785 | [392785-skillgrid.json](./392785-skillgrid.json) |
 | Skills and Slimes | 340367 | [340367-skills-and-slimes.json](./340367-skills-and-slimes.json) |
 | SkillTeam | 344019 | [344019-skillteam.json](./344019-skillteam.json) |
+| Skilltree Saga | 10834 | [10834-skilltree-saga.json](./10834-skilltree-saga.json) |
 | Skillwarz | 109186 | [109186-skillwarz.json](./109186-skillwarz.json) |
 | Skillwood | 284404 | [284404-skillwood.json](./284404-skillwood.json) |
 | Skillz: The DJ Game | 79213 | [79213-skillz-the-dj-game.json](./79213-skillz-the-dj-game.json) |
@@ -5905,6 +5907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyward | 117099 | [117099-skyward.json](./117099-skyward.json) |
 | Skyward | 193447 | [193447-skyward.json](./193447-skyward.json) |
 | Skyward Battles | 334855 | [334855-skyward-battles.json](./334855-skyward-battles.json) |
+| Skyward Collapse | 9328 | [9328-skyward-collapse.json](./9328-skyward-collapse.json) |
 | Skyward Collapse: Nihon no Mura | 10871 | [10871-skyward-collapse-nihon-no-mura.json](./10871-skyward-collapse-nihon-no-mura.json) |
 | Skyward Journey | 320367 | [320367-skyward-journey.json](./320367-skyward-journey.json) |
 | Skywatching | 177303 | [177303-skywatching.json](./177303-skywatching.json) |
@@ -11507,6 +11510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarHeroes | 221262 | [221262-starheroes.json](./221262-starheroes.json) |
 | Staring Time | 272832 | [272832-staring-time.json](./272832-staring-time.json) |
 | Starion | 23056 | [23056-starion.json](./23056-starion.json) |
+| Starion Tactics | 10891 | [10891-starion-tactics.json](./10891-starion-tactics.json) |
 | Stark Penitentiary | 161892 | [161892-stark-penitentiary.json](./161892-stark-penitentiary.json) |
 | Starkid's Obstacle Course | 111199 | [111199-starkids-obstacle-course.json](./111199-starkids-obstacle-course.json) |
 | StarL2 | 274570 | [274570-starl2.json](./274570-starl2.json) |
@@ -11973,6 +11977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | STED: Iseki Wakusei no Yabou | 48703 | [48703-sted-iseki-wakusei-no-yabou.json](./48703-sted-iseki-wakusei-no-yabou.json) |
 | Steel | 329915 | [329915-steel.json](./329915-steel.json) |
 | Steel | 74310 | [74310-steel.json](./74310-steel.json) |
+| Steel & Steam: Episode 1 | 10927 | [10927-steel-and-steam-episode-1.json](./10927-steel-and-steam-episode-1.json) |
 | Steel and Flesh | 174850 | [174850-steel-and-flesh.json](./174850-steel-and-flesh.json) |
 | Steel Arena: Robot War | 90080 | [90080-steel-arena-robot-war.json](./90080-steel-arena-robot-war.json) |
 | Steel Artery: Train City Builder | 371311 | [371311-steel-artery-train-city-builder.json](./371311-steel-artery-train-city-builder.json) |
@@ -12541,6 +12546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm United | 36153 | [36153-storm-united.json](./36153-storm-united.json) |
 | Storm VR | 33175 | [33175-storm-vr.json](./33175-storm-vr.json) |
 | Storm Wars | 56482 | [56482-storm-wars.json](./56482-storm-wars.json) |
+| Storm: Frontline Nation | 10928 | [10928-storm-frontline-nation.json](./10928-storm-frontline-nation.json) |
 | Stormball | 77379 | [77379-stormball.json](./77379-stormball.json) |
 | Stormbane | 258956 | [258956-stormbane.json](./258956-stormbane.json) |
 | Stormbinders | 336520 | [336520-stormbinders.json](./336520-stormbinders.json) |
