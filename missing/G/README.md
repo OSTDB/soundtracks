@@ -2083,6 +2083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl Who Cried Wolf | 298891 | [298891-girl-who-cried-wolf.json](./298891-girl-who-cried-wolf.json) |
 | Girl with a Big Sword | 110174 | [110174-girl-with-a-big-sword.json](./110174-girl-with-a-big-sword.json) |
 | Girl with a Heart of | 64906 | [64906-girl-with-a-heart-of.json](./64906-girl-with-a-heart-of.json) |
+| Girl With Gun | 390203 | [390203-girl-with-gun.json](./390203-girl-with-gun.json) |
 | Girl Zone | 66945 | [66945-girl-zone.json](./66945-girl-zone.json) |
 | Girl!Panic!!! | 415108 | [415108-girl-panic.json](./415108-girl-panic.json) |
 | Girl.exe | 171401 | [171401-girl-exe.json](./171401-girl-exe.json) |
