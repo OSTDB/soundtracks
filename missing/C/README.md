@@ -1158,6 +1158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carmageddon: Max Damage | 18075 | [18075-carmageddon-max-damage.json](./18075-carmageddon-max-damage.json) |
 | Carmageddon: Splat Pack | 2403 | [2403-carmageddon-splat-pack.json](./2403-carmageddon-splat-pack.json) |
 | Carmageddon: TDR 2000 | 246896 | [246896-carmageddon-tdr-2000.json](./246896-carmageddon-tdr-2000.json) |
+| Carmen Sandiego | 316681 | [316681-carmen-sandiego.json](./316681-carmen-sandiego.json) |
 | Carmen Sandiego Adventures in Math: The Island of Diamonds | 85554 | [85554-carmen-sandiego-adventures-in-math-the-island-of-diamonds.json](./85554-carmen-sandiego-adventures-in-math-the-island-of-diamonds.json) |
 | Carmen Sandiego Word Detective | 73312 | [73312-carmen-sandiego-word-detective.json](./73312-carmen-sandiego-word-detective.json) |
 | Carmen Sandiego: 40th Anniversary Edition | 400999 | [400999-carmen-sandiego-40th-anniversary-edition.json](./400999-carmen-sandiego-40th-anniversary-edition.json) |
@@ -1969,6 +1970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats and Seek: Tokyo | 315298 | [315298-cats-and-seek-tokyo.json](./315298-cats-and-seek-tokyo.json) |
 | Cats are Cute: Pop Time! | 322124 | [322124-cats-are-cute-pop-time.json](./322124-cats-are-cute-pop-time.json) |
 | Cats Are Jerks | 232172 | [232172-cats-are-jerks.json](./232172-cats-are-jerks.json) |
+| Cats are Liquid: A Better Place | 126727 | [126727-cats-are-liquid-a-better-place.json](./126727-cats-are-liquid-a-better-place.json) |
 | Cats Around Us: Black Cat | 347859 | [347859-cats-around-us-black-cat.json](./347859-cats-around-us-black-cat.json) |
 | Cats Away | 352180 | [352180-cats-away.json](./352180-cats-away.json) |
 | Cats Bounce Ball | 338189 | [338189-cats-bounce-ball.json](./338189-cats-bounce-ball.json) |
@@ -2398,6 +2400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chainsaw Juice King | 321143 | [321143-chainsaw-juice-king.json](./321143-chainsaw-juice-king.json) |
 | Chainsaw Maniac | 289402 | [289402-chainsaw-maniac.json](./289402-chainsaw-maniac.json) |
 | Chainsaw Snuff Shots | 349477 | [349477-chainsaw-snuff-shots.json](./349477-chainsaw-snuff-shots.json) |
+| ChainStaff | 304750 | [304750-chainstaff.json](./304750-chainstaff.json) |
 | Chainworm Kommando | 257350 | [257350-chainworm-kommando.json](./257350-chainworm-kommando.json) |
 | Chair Simulator | 146871 | [146871-chair-simulator.json](./146871-chair-simulator.json) |
 | Chairs | 281987 | [281987-chairs.json](./281987-chairs.json) |
@@ -3288,6 +3291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chineze | 96712 | [96712-chineze.json](./96712-chineze.json) |
 | Chinmoku no Kantai | 299821 | [299821-chinmoku-no-kantai.json](./299821-chinmoku-no-kantai.json) |
 | Chinomikon | 55269 | [55269-chinomikon.json](./55269-chinomikon.json) |
+| Chip ‘n Clawz vs. The Brainioids | 333089 | [333089-chip-n-clawz-vs-the-brainioids.json](./333089-chip-n-clawz-vs-the-brainioids.json) |
 | Chip Beat Blaster | 232145 | [232145-chip-beat-blaster.json](./232145-chip-beat-blaster.json) |
 | Chip Buster | 13703 | [13703-chip-buster.json](./13703-chip-buster.json) |
 | Chip McCallahan in Sonic the Hedgehog 2 | 323860 | [323860-chip-mccallahan-in-sonic-the-hedgehog-2.json](./323860-chip-mccallahan-in-sonic-the-hedgehog-2.json) |
@@ -3632,6 +3636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromacell | 290540 | [290540-chromacell.json](./290540-chromacell.json) |
 | Chromadrome | 73511 | [73511-chromadrome.json](./73511-chromadrome.json) |
 | ChromaGun | 23245 | [23245-chromagun.json](./23245-chromagun.json) |
+| ChromaGun 2: Dye Hard | 305224 | [305224-chromagun-2-dye-hard.json](./305224-chromagun-2-dye-hard.json) |
 | Chromahertz | 211739 | [211739-chromahertz.json](./211739-chromahertz.json) |
 | Chromancer | 63008 | [63008-chromancer.json](./63008-chromancer.json) |
 | Chromarena | 188666 | [188666-chromarena.json](./188666-chromarena.json) |
@@ -4360,6 +4365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classified Stories: Color Out of Space | 190951 | [190951-classified-stories-color-out-of-space.json](./190951-classified-stories-color-out-of-space.json) |
 | Classified Stories: The Tome of Myrkah | 109725 | [109725-classified-stories-the-tome-of-myrkah.json](./109725-classified-stories-the-tome-of-myrkah.json) |
 | Classified: Death in the Alley | 253991 | [253991-classified-death-in-the-alley.json](./253991-classified-death-in-the-alley.json) |
+| Classified: France '44 | 253409 | [253409-classified-france-44.json](./253409-classified-france-44.json) |
 | Classified: France '44 - Agent | 309658 | [309658-classified-france-44-agent.json](./309658-classified-france-44-agent.json) |
 | Classified: France '44 - Guerrilla | 289856 | [289856-classified-france-44-guerrilla.json](./289856-classified-france-44-guerrilla.json) |
 | Classified: France '44 - Resistance Kit | 289857 | [289857-classified-france-44-resistance-kit.json](./289857-classified-france-44-resistance-kit.json) |
@@ -5147,6 +5153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collector D Bangai-hen | 299823 | [299823-collector-d-bangai-hen.json](./299823-collector-d-bangai-hen.json) |
 | Collector Thief | 190971 | [190971-collector-thief.json](./190971-collector-thief.json) |
 | Collector: 10 Lives Challenge | 370313 | [370313-collector-10-lives-challenge.json](./370313-collector-10-lives-challenge.json) |
+| Collector's Cove | 298696 | [298696-collectors-cove.json](./298696-collectors-cove.json) |
 | Collector's Edition: 101 Incredible Games! | 205799 | [205799-collectors-edition-101-incredible-games.json](./205799-collectors-edition-101-incredible-games.json) |
 | Collector's Edition: 251 Awesome Games! | 110319 | [110319-collectors-edition-251-awesome-games.json](./110319-collectors-edition-251-awesome-games.json) |
 | College Bball Coach | 78544 | [78544-college-bball-coach.json](./78544-college-bball-coach.json) |
