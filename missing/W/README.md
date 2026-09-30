@@ -586,6 +586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warfield | 144232 | [144232-warfield.json](./144232-warfield.json) |
 | WarFire: Deluxe Edition | 53886 | [53886-warfire-deluxe-edition.json](./53886-warfire-deluxe-edition.json) |
 | Warforged | 114193 | [114193-warforged.json](./114193-warforged.json) |
+| WarForwards | 119531 | [119531-warforwards.json](./119531-warforwards.json) |
 | Warframe: 1999 | 263563 | [263563-warframe-1999.json](./263563-warframe-1999.json) |
 | Warframe: Abyss of Dagath | 263531 | [263531-warframe-abyss-of-dagath.json](./263531-warframe-abyss-of-dagath.json) |
 | Warframe: Angels of the Zariman - Chrysalith Pack | 223706 | [223706-warframe-angels-of-the-zariman-chrysalith-pack.json](./223706-warframe-angels-of-the-zariman-chrysalith-pack.json) |
@@ -1316,6 +1317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Love Katamari Reroll + Royal Reverie - Katamari Damacy Series Music Bundle | 272559 | [272559-we-love-katamari-reroll-royal-reverie-katamari-damacy-series-music-bundle.json](./272559-we-love-katamari-reroll-royal-reverie-katamari-damacy-series-music-bundle.json) |
 | We Love Katamari Reroll + Royal Reverie: Deluxe Edition | 251602 | [251602-we-love-katamari-reroll-royal-reverie-deluxe-edition.json](./251602-we-love-katamari-reroll-royal-reverie-deluxe-edition.json) |
 | We Love Katamari REROLL+ Royal Reverie: Special Edition | 251688 | [251688-we-love-katamari-reroll-royal-reverie-special-edition.json](./251688-we-love-katamari-reroll-royal-reverie-special-edition.json) |
+| We Met in May | 119482 | [119482-we-met-in-may.json](./119482-we-met-in-may.json) |
 | We Need an Army | 363952 | [363952-we-need-an-army.json](./363952-we-need-an-army.json) |
 | We Need the Sun | 185610 | [185610-we-need-the-sun.json](./185610-we-need-the-sun.json) |
 | We Pretend | 410338 | [410338-we-pretend.json](./410338-we-pretend.json) |
