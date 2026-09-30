@@ -686,6 +686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Warriors: Spirit of Sanada | 27272 | [27272-samurai-warriors-spirit-of-sanada.json](./27272-samurai-warriors-spirit-of-sanada.json) |
 | Samurai Warriors: Xtreme Legends | 12298 | [12298-samurai-warriors-xtreme-legends.json](./12298-samurai-warriors-xtreme-legends.json) |
 | Samurai Wars | 196342 | [196342-samurai-wars.json](./196342-samurai-wars.json) |
+| Samurai Wars | 32025 | [32025-samurai-wars.json](./32025-samurai-wars.json) |
 | Samurai Wish | 107890 | [107890-samurai-wish.json](./107890-samurai-wish.json) |
 | Samurai Zero | 139375 | [139375-samurai-zero.json](./139375-samurai-zero.json) |
 | Samurai: Ronin's Path | 127764 | [127764-samurai-ronins-path.json](./127764-samurai-ronins-path.json) |
@@ -2123,6 +2124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Quest | 41108 | [41108-secret-quest.json](./41108-secret-quest.json) |
 | Secret Reflections Collection | 201864 | [201864-secret-reflections-collection.json](./201864-secret-reflections-collection.json) |
 | Secret Romance With Streamer Girls | 251526 | [251526-secret-romance-with-streamer-girls.json](./251526-secret-romance-with-streamer-girls.json) |
+| Secret Santa | 32098 | [32098-secret-santa.json](./32098-secret-santa.json) |
 | Secret Savings | 114383 | [114383-secret-savings.json](./114383-secret-savings.json) |
 | Secret School | 290498 | [290498-secret-school.json](./290498-secret-school.json) |
 | Secret Scout in the Temple of Demise | 48200 | [48200-secret-scout-in-the-temple-of-demise.json](./48200-secret-scout-in-the-temple-of-demise.json) |
@@ -4711,6 +4713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sifunight Fighters | 221711 | [221711-sifunight-fighters.json](./221711-sifunight-fighters.json) |
 | Sig | 103460 | [103460-sig.json](./103460-sig.json) |
 | Sig | 231087 | [231087-sig.json](./231087-sig.json) |
+| Sig.Null | 32071 | [32071-sig-null.json](./32071-sig-null.json) |
 | SIGame | 285584 | [285584-sigame.json](./285584-sigame.json) |
 | SIght | 243649 | [243649-sight.json](./243649-sight.json) |
 | Sight Blight | 249726 | [249726-sight-blight.json](./249726-sight-blight.json) |
@@ -7590,6 +7593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Antics Ultimate Plus | 54388 | [54388-solitaire-antics-ultimate-plus.json](./54388-solitaire-antics-ultimate-plus.json) |
 | Solitaire Battle | 353365 | [353365-solitaire-battle.json](./353365-solitaire-battle.json) |
 | Solitaire Battle Royal | 111907 | [111907-solitaire-battle-royal.json](./111907-solitaire-battle-royal.json) |
+| Solitaire Beach Season | 31284 | [31284-solitaire-beach-season.json](./31284-solitaire-beach-season.json) |
 | Solitaire Beach Season 2 | 95559 | [95559-solitaire-beach-season-2.json](./95559-solitaire-beach-season-2.json) |
 | Solitaire Bliss Collection | 117176 | [117176-solitaire-bliss-collection.json](./117176-solitaire-bliss-collection.json) |
 | Solitaire Card Deck Game '23 | 231896 | [231896-solitaire-card-deck-game-23.json](./231896-solitaire-card-deck-game-23.json) |
@@ -8649,6 +8653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoulFrost | 90653 | [90653-soulfrost.json](./90653-soulfrost.json) |
 | SoulfulLand | 126604 | [126604-soulfulland.json](./126604-soulfulland.json) |
 | Soulgrave | 412294 | [412294-soulgrave.json](./412294-soulgrave.json) |
+| SoulHunt | 32121 | [32121-soulhunt.json](./32121-soulhunt.json) |
 | Soulitaire | 204520 | [204520-soulitaire.json](./204520-soulitaire.json) |
 | Soulivion | 285607 | [285607-soulivion.json](./285607-soulivion.json) |
 | Soulivion II | 288821 | [288821-soulivion-ii.json](./288821-soulivion-ii.json) |
@@ -11116,6 +11121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Point Explorer | 150563 | [150563-star-point-explorer.json](./150563-star-point-explorer.json) |
 | Star Post | 47253 | [47253-star-post.json](./47253-star-post.json) |
 | Star Prince Dress up game | 184061 | [184061-star-prince-dress-up-game.json](./184061-star-prince-dress-up-game.json) |
+| Star Project | 32068 | [32068-star-project.json](./32068-star-project.json) |
 | Star Quest | 249861 | [249861-star-quest.json](./249861-star-quest.json) |
 | Star Quest 1 in the 27th Century | 14511 | [14511-star-quest-1-in-the-27th-century.json](./14511-star-quest-1-in-the-27th-century.json) |
 | Star Racer | 270085 | [270085-star-racer.json](./270085-star-racer.json) |
@@ -11199,6 +11205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Swapper | 94728 | [94728-star-swapper.json](./94728-star-swapper.json) |
 | Star Sword | 221972 | [221972-star-sword.json](./221972-star-sword.json) |
 | Star System Battle | 309463 | [309463-star-system-battle.json](./309463-star-system-battle.json) |
+| Star Tactics | 32001 | [32001-star-tactics.json](./32001-star-tactics.json) |
 | Star Tactics Redux | 169965 | [169965-star-tactics-redux.json](./169965-star-tactics-redux.json) |
 | Star Tactics Redux: Clash of Fleets | 95856 | [95856-star-tactics-redux-clash-of-fleets.json](./95856-star-tactics-redux-clash-of-fleets.json) |
 | Star Tactics Redux: Expeditions | 169952 | [169952-star-tactics-redux-expeditions.json](./169952-star-tactics-redux-expeditions.json) |
@@ -13114,6 +13121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Witches: Doki! Otome Darake no Jouriku Sakusen | 69278 | [69278-strike-witches-doki-otome-darake-no-jouriku-sakusen.json](./69278-strike-witches-doki-otome-darake-no-jouriku-sakusen.json) |
 | Strike Witches: Soukuu no Dengekisen - Shin Taichou Funtousuru! | 124061 | [124061-strike-witches-soukuu-no-dengekisen-shin-taichou-funtousuru.json](./124061-strike-witches-soukuu-no-dengekisen-shin-taichou-funtousuru.json) |
 | Strike Zone Baseball | 40432 | [40432-strike-zone-baseball.json](./40432-strike-zone-baseball.json) |
+| Strike.is: The Game | 32046 | [32046-strike-is-the-game.json](./32046-strike-is-the-game.json) |
 | Strikeforce | 361229 | [361229-strikeforce.json](./361229-strikeforce.json) |
 | StrikeNet | 339655 | [339655-strikenet.json](./339655-strikenet.json) |
 | Striker | 237503 | [237503-striker.json](./237503-striker.json) |
