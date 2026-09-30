@@ -1855,6 +1855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Cure | 43965 | [43965-infinity-cure.json](./43965-infinity-cure.json) |
 | Infinity Dive | 181839 | [181839-infinity-dive.json](./181839-infinity-dive.json) |
 | Infinity Dungeons | 203569 | [203569-infinity-dungeons.json](./203569-infinity-dungeons.json) |
+| Infinity Fury | 401760 | [401760-infinity-fury.json](./401760-infinity-fury.json) |
 | Infinity Girl | 191217 | [191217-infinity-girl.json](./191217-infinity-girl.json) |
 | Infinity Is What We Will Be | 286102 | [286102-infinity-is-what-we-will-be.json](./286102-infinity-is-what-we-will-be.json) |
 | Infinity Kingdom | 143085 | [143085-infinity-kingdom.json](./143085-infinity-kingdom.json) |
