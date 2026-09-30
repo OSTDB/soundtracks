@@ -2979,6 +2979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piggy Peter's Adventure | 118979 | [118979-piggy-peters-adventure.json](./118979-piggy-peters-adventure.json) |
 | Piggy Piggy: Boom | 251659 | [251659-piggy-piggy-boom.json](./251659-piggy-piggy-boom.json) |
 | Piggy Pile! | 87359 | [87359-piggy-pile.json](./87359-piggy-pile.json) |
+| Piggy Poggy Pog | 75904 | [75904-piggy-poggy-pog.json](./75904-piggy-poggy-pog.json) |
 | Piggy Run Escape | 226746 | [226746-piggy-run-escape.json](./226746-piggy-run-escape.json) |
 | Piggy Wiggy | 267335 | [267335-piggy-wiggy.json](./267335-piggy-wiggy.json) |
 | Piggy: Chapter 1 | 246093 | [246093-piggy-chapter-1.json](./246093-piggy-chapter-1.json) |
@@ -6914,6 +6915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project 2/3 | 322933 | [322933-project-2-3.json](./322933-project-2-3.json) |
 | Project 3 VR | 98586 | [98586-project-3-vr.json](./98586-project-3-vr.json) |
 | Project 44: Enlightenment | 220657 | [220657-project-44-enlightenment.json](./220657-project-44-enlightenment.json) |
+| Project 5: Sightseer | 76122 | [76122-project-5-sightseer.json](./76122-project-5-sightseer.json) |
 | Project 83113 | 22267 | [22267-project-83113.json](./22267-project-83113.json) |
 | Project A 2: Shijou Saidai no Hyouteki | 97296 | [97296-project-a-2-shijou-saidai-no-hyouteki.json](./97296-project-a-2-shijou-saidai-no-hyouteki.json) |
 | Project A-ko | 260109 | [260109-project-a-ko.json](./260109-project-a-ko.json) |
