@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game About Flicking A Switch | 287146 | [287146-a-game-about-flicking-a-switch.json](./287146-a-game-about-flicking-a-switch.json) |
 | A Game About Getting Bigger | 405583 | [405583-a-game-about-getting-bigger.json](./405583-a-game-about-getting-bigger.json) |
 | A Game About My Cat | 303749 | [303749-a-game-about-my-cat.json](./303749-a-game-about-my-cat.json) |
+| A Game About Opening a Chest | 390749 | [390749-a-game-about-opening-a-chest.json](./390749-a-game-about-opening-a-chest.json) |
 | A Game of Concentration | 40723 | [40723-a-game-of-concentration.json](./40723-a-game-of-concentration.json) |
 | A Game of Dwarves: Star Dwarves | 171034 | [171034-a-game-of-dwarves-star-dwarves.json](./171034-a-game-of-dwarves-star-dwarves.json) |
 | A Game of Tennis | 92621 | [92621-a-game-of-tennis.json](./92621-a-game-of-tennis.json) |
@@ -2441,6 +2442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemia Story | 109917 | [109917-alchemia-story.json](./109917-alchemia-story.json) |
 | Alchemic Cutie | 107171 | [107171-alchemic-cutie.json](./107171-alchemic-cutie.json) |
 | Alchemic Maze | 82492 | [82492-alchemic-maze.json](./82492-alchemic-maze.json) |
+| Alchemic Phone, Pocket Alchemy | 390763 | [390763-alchemic-phone-pocket-alchemy.json](./390763-alchemic-phone-pocket-alchemy.json) |
 | Alchemica | 369739 | [369739-alchemica.json](./369739-alchemica.json) |
 | Alchemica: A Romance of Three Dimensions | 183963 | [183963-alchemica-a-romance-of-three-dimensions.json](./183963-alchemica-a-romance-of-three-dimensions.json) |
 | Alchemical Inc. | 190141 | [190141-alchemical-inc.json](./190141-alchemical-inc.json) |
@@ -3328,6 +3330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alto's Adventure | 18130 | [18130-altos-adventure.json](./18130-altos-adventure.json) |
 | Alto's Odyssey | 26428 | [26428-altos-odyssey.json](./26428-altos-odyssey.json) |
 | Altruism | 147451 | [147451-altruism.json](./147451-altruism.json) |
+| Alty's Dinner | 390762 | [390762-altys-dinner.json](./390762-altys-dinner.json) |
 | Alucinod | 118422 | [118422-alucinod.json](./118422-alucinod.json) |
 | Alühn | 320332 | [320332-aluhn.json](./320332-aluhn.json) |
 | Alula | 185428 | [185428-alula.json](./185428-alula.json) |
@@ -4058,6 +4061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Zero | 398592 | [398592-angel-zero.json](./398592-angel-zero.json) |
 | Angel, Devil, Elf and Me! | 111089 | [111089-angel-devil-elf-and-me.json](./111089-angel-devil-elf-and-me.json) |
 | Angel! | 177914 | [177914-angel.json](./177914-angel.json) |
+| Angel's Dreams | 390733 | [390733-angels-dreams.json](./390733-angels-dreams.json) |
 | Angel's Feather | 72737 | [72737-angels-feather.json](./72737-angels-feather.json) |
 | Angel's Feather: Kohaku no Hitomi | 44649 | [44649-angels-feather-kohaku-no-hitomi.json](./44649-angels-feather-kohaku-no-hitomi.json) |
 | Angel's Feather: Kuro no Zanei | 51428 | [51428-angels-feather-kuro-no-zanei.json](./51428-angels-feather-kuro-no-zanei.json) |
@@ -6407,6 +6411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arvale | 14787 | [14787-arvale.json](./14787-arvale.json) |
 | Arvis Punch | 329015 | [329015-arvis-punch.json](./329015-arvis-punch.json) |
 | Arvita | 115802 | [115802-arvita.json](./115802-arvita.json) |
+| ArvusForge | 390724 | [390724-arvusforge.json](./390724-arvusforge.json) |
 | Arwinia | 141074 | [141074-arwinia.json](./141074-arwinia.json) |
 | Arx Fatalis | 602 | [602-arx-fatalis.json](./602-arx-fatalis.json) |
 | Arx, After the Reckoning | 228694 | [228694-arx-after-the-reckoning.json](./228694-arx-after-the-reckoning.json) |
