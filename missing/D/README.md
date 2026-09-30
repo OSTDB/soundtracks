@@ -3467,6 +3467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detectives United III: Timeless Voyage - Collector's Edition | 129708 | [129708-detectives-united-iii-timeless-voyage-collectors-edition.json](./129708-detectives-united-iii-timeless-voyage-collectors-edition.json) |
 | Detectives United: Origins - Collector's Edition | 248337 | [248337-detectives-united-origins-collectors-edition.json](./248337-detectives-united-origins-collectors-edition.json) |
 | Detectives United: Vengeance from the Past | 416702 | [416702-detectives-united-vengeance-from-the-past.json](./416702-detectives-united-vengeance-from-the-past.json) |
+| Detectives United: Vengeance from the Past - Collector's Edition | 409718 | [409718-detectives-united-vengeance-from-the-past-collectors-edition.json](./409718-detectives-united-vengeance-from-the-past-collectors-edition.json) |
 | Detectivez | 113683 | [113683-detectivez.json](./113683-detectivez.json) |
 | Detector | 68349 | [68349-detector.json](./68349-detector.json) |
 | Detention | 26776 | [26776-detention.json](./26776-detention.json) |
@@ -7367,6 +7368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dredge: The Iron Rig | 305098 | [305098-dredge-the-iron-rig.json](./305098-dredge-the-iron-rig.json) |
 | Dredge: The Pale Reach | 270502 | [270502-dredge-the-pale-reach.json](./270502-dredge-the-pale-reach.json) |
 | Dreem Ascension | 393506 | [393506-dreem-ascension.json](./393506-dreem-ascension.json) |
+| DREGS | 409618 | [409618-dregs.json](./409618-dregs.json) |
 | Drehmal: Apotheosis | 336548 | [336548-drehmal-apotheosis.json](./336548-drehmal-apotheosis.json) |
 | Dreii | 36296 | [36296-dreii.json](./36296-dreii.json) |
 | Drelbs | 13841 | [13841-drelbs.json](./13841-drelbs.json) |
@@ -7509,6 +7511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive Me to Hell | 253969 | [253969-drive-me-to-hell.json](./253969-drive-me-to-hell.json) |
 | Drive Megapolis | 31659 | [31659-drive-megapolis.json](./31659-drive-megapolis.json) |
 | Drive On Lucy | 323299 | [323299-drive-on-lucy.json](./323299-drive-on-lucy.json) |
+| Drive Real Truck SImulator | 409625 | [409625-drive-real-truck-simulator.json](./409625-drive-real-truck-simulator.json) |
 | Drive Simulator 2016 | 90673 | [90673-drive-simulator-2016.json](./90673-drive-simulator-2016.json) |
 | Drive Thru | 365860 | [365860-drive-thru.json](./365860-drive-thru.json) |
 | Drive to Hell | 36135 | [36135-drive-to-hell.json](./36135-drive-to-hell.json) |
