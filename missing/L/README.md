@@ -1102,6 +1102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of Epstein: Bad Omen | 244478 | [244478-legacy-of-epstein-bad-omen.json](./244478-legacy-of-epstein-bad-omen.json) |
 | Legacy of Flan | 243942 | [243942-legacy-of-flan.json](./243942-legacy-of-flan.json) |
 | Legacy of Heroes | 256876 | [256876-legacy-of-heroes.json](./256876-legacy-of-heroes.json) |
+| Legacy of Kain: Ascendance | 389453 | [389453-legacy-of-kain-ascendance.json](./389453-legacy-of-kain-ascendance.json) |
 | Legacy of Kain: Dead Sun | 141216 | [141216-legacy-of-kain-dead-sun.json](./141216-legacy-of-kain-dead-sun.json) |
 | Legacy of Kain: Defiance | 367956 | [367956-legacy-of-kain-defiance.json](./367956-legacy-of-kain-defiance.json) |
 | Legacy of Kain: Soul Reaver | 4122 | [4122-legacy-of-kain-soul-reaver.json](./4122-legacy-of-kain-soul-reaver.json) |
