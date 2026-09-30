@@ -3178,6 +3178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Fun | 43245 | [43245-pinball-fun.json](./43245-pinball-fun.json) |
 | Pinball FX | 185795 | [185795-pinball-fx.json](./185795-pinball-fx.json) |
 | Pinball FX 2: Marvel Pinball - Vengeance and Virtue | 20822 | [20822-pinball-fx-2-marvel-pinball-vengeance-and-virtue.json](./20822-pinball-fx-2-marvel-pinball-vengeance-and-virtue.json) |
+| Pinball FX VR | 332437 | [332437-pinball-fx-vr.json](./332437-pinball-fx-vr.json) |
 | Pinball FX: Bethesda Pinball | 386718 | [386718-pinball-fx-bethesda-pinball.json](./386718-pinball-fx-bethesda-pinball.json) |
 | Pinball FX: Buccaneer | 395544 | [395544-pinball-fx-buccaneer.json](./395544-pinball-fx-buccaneer.json) |
 | Pinball FX: Camp Bloodbrook | 324484 | [324484-pinball-fx-camp-bloodbrook.json](./324484-pinball-fx-camp-bloodbrook.json) |
