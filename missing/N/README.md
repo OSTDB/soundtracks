@@ -1409,6 +1409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neural Gear | 93545 | [93545-neural-gear.json](./93545-neural-gear.json) |
 | Neural Maze | 415283 | [415283-neural-maze.json](./415283-neural-maze.json) |
 | Neural Nest | 244206 | [244206-neural-nest.json](./244206-neural-nest.json) |
+| Neural Requiem | 389662 | [389662-neural-requiem.json](./389662-neural-requiem.json) |
 | Neuralimina | 382215 | [382215-neuralimina.json](./382215-neuralimina.json) |
 | Neuro | 141857 | [141857-neuro.json](./141857-neuro.json) |
 | Neuro Hacker | 278733 | [278733-neuro-hacker.json](./278733-neuro-hacker.json) |
@@ -3154,6 +3155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noodle Arm Royale | 61736 | [61736-noodle-arm-royale.json](./61736-noodle-arm-royale.json) |
 | Noodle Cable | 409706 | [409706-noodle-cable.json](./409706-noodle-cable.json) |
 | Noodle Fight | 269313 | [269313-noodle-fight.json](./269313-noodle-fight.json) |
+| Noodle Hustle | 389675 | [389675-noodle-hustle.json](./389675-noodle-hustle.json) |
 | Noodle Jump | 417502 | [417502-noodle-jump.json](./417502-noodle-jump.json) |
 | Noodle Party | 209680 | [209680-noodle-party.json](./209680-noodle-party.json) |
 | Noodleman.io party games | 332563 | [332563-noodleman-io-party-games.json](./332563-noodleman-io-party-games.json) |
