@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T13:51:05.659Z",
-  "total_soundtracks": 1455,
+  "generated_at": "2026-09-30T20:15:26.475Z",
+  "total_soundtracks": 1456,
   "games": [
     {
       "igdb_id": 7522,
@@ -9459,6 +9459,20 @@
           "spotify_url": "https://music.apple.com/us/album/minecraft-dungeons-ultimate-additions-original-game/1582949423?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1582949423"
+        }
+      ]
+    },
+    {
+      "igdb_id": 395525,
+      "game_name": "Minecraft Dungeons II",
+      "game_url": "https://ostdb.net/games/minecraft-dungeons-ii",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273594e0787792ac32bba0cc786",
+      "albums": [
+        {
+          "album_name": "Minecraft Dungeons II (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4hc3HIPQ1zWX6X6wrWjYa5",
+          "apple_music_url": "https://music.apple.com/us/album/minecraft-dungeons-ii-original-game-soundtrack/6815723069",
+          "album_link_url": ""
         }
       ]
     },
