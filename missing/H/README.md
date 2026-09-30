@@ -631,6 +631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hannah and the Kreludor Caves | 338381 | [338381-hannah-and-the-kreludor-caves.json](./338381-hannah-and-the-kreludor-caves.json) |
 | Hannah and the Pirate Caves | 338358 | [338358-hannah-and-the-pirate-caves.json](./338358-hannah-and-the-pirate-caves.json) |
 | Hannah Montana: DVD Game | 228444 | [228444-hannah-montana-dvd-game.json](./228444-hannah-montana-dvd-game.json) |
+| Hannah Montana: Music Jam | 21514 | [21514-hannah-montana-music-jam.json](./21514-hannah-montana-music-jam.json) |
 | Hannah Montana: One in a Million | 220093 | [220093-hannah-montana-one-in-a-million.json](./220093-hannah-montana-one-in-a-million.json) |
 | Hannah Montana: Pop Star Exclusive | 79855 | [79855-hannah-montana-pop-star-exclusive.json](./79855-hannah-montana-pop-star-exclusive.json) |
 | Hannah Montana: Pop Tour | 221686 | [221686-hannah-montana-pop-tour.json](./221686-hannah-montana-pop-tour.json) |
@@ -2570,6 +2571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero of Fate: Darkness Land | 292647 | [292647-hero-of-fate-darkness-land.json](./292647-hero-of-fate-darkness-land.json) |
 | Hero of Law | 351679 | [351679-hero-of-law.json](./351679-hero-of-law.json) |
 | Hero of Not Our Time | 144818 | [144818-hero-of-not-our-time.json](./144818-hero-of-not-our-time.json) |
+| Hero of Sparta | 21690 | [21690-hero-of-sparta.json](./21690-hero-of-sparta.json) |
 | Hero of the Galactic Core | 55512 | [55512-hero-of-the-galactic-core.json](./55512-hero-of-the-galactic-core.json) |
 | Hero of the Hive | 311600 | [311600-hero-of-the-hive.json](./311600-hero-of-the-hive.json) |
 | Hero of the Kingdom | 9638 | [9638-hero-of-the-kingdom.json](./9638-hero-of-the-kingdom.json) |
@@ -3397,6 +3399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High School Girl Life Simulator | 102757 | [102757-high-school-girl-life-simulator.json](./102757-high-school-girl-life-simulator.json) |
 | High School Girl Simulator 3D | 299905 | [299905-high-school-girl-simulator-3d.json](./299905-high-school-girl-simulator-3d.json) |
 | High School Maze 3D | 297633 | [297633-high-school-maze-3d.json](./297633-high-school-maze-3d.json) |
+| High School Musical 2: Work This Out! | 21371 | [21371-high-school-musical-2-work-this-out.json](./21371-high-school-musical-2-work-this-out.json) |
 | High School Musical 3: Senior Year | 138091 | [138091-high-school-musical-3-senior-year.json](./138091-high-school-musical-3-senior-year.json) |
 | High School Musical Makin' the Cut! | 44063 | [44063-high-school-musical-makin-the-cut.json](./44063-high-school-musical-makin-the-cut.json) |
 | High School Musical: All Together Now | 220094 | [220094-high-school-musical-all-together-now.json](./220094-high-school-musical-all-together-now.json) |
