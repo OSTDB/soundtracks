@@ -7442,6 +7442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATV Racers | 62261 | [62261-atv-racers.json](./62261-atv-racers.json) |
 | ATV Thunder Ridge Riders | 49369 | [49369-atv-thunder-ridge-riders.json](./49369-atv-thunder-ridge-riders.json) |
 | Atypian | 369046 | [369046-atypian.json](./369046-atypian.json) |
+| Au Pays des PooYoos: Activités d'Éveil | 408976 | [408976-au-pays-des-pooyoos-activites-deveil.json](./408976-au-pays-des-pooyoos-activites-deveil.json) |
 | Au Sable | 125855 | [125855-au-sable.json](./125855-au-sable.json) |
 | Aube | 104450 | [104450-aube.json](./104450-aube.json) |
 | Auction | 192701 | [192701-auction.json](./192701-auction.json) |
