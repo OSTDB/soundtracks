@@ -5962,6 +5962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armor Battle | 245574 | [245574-armor-battle.json](./245574-armor-battle.json) |
 | Armor Battle | 305274 | [305274-armor-battle.json](./305274-armor-battle.json) |
 | Armor Blitz | 276698 | [276698-armor-blitz.json](./276698-armor-blitz.json) |
+| Armor Clash | 34622 | [34622-armor-clash.json](./34622-armor-clash.json) |
 | Armor Clash 2022 | 188092 | [188092-armor-clash-2022.json](./188092-armor-clash-2022.json) |
 | Armor Clash II | 30338 | [30338-armor-clash-ii.json](./30338-armor-clash-ii.json) |
 | Armor Clash VR | 31827 | [31827-armor-clash-vr.json](./31827-armor-clash-vr.json) |
@@ -7847,6 +7848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axiom Verge | 8652 | [8652-axiom-verge.json](./8652-axiom-verge.json) |
 | Axiom Verge 1 & 2 Double Pack | 172714 | [172714-axiom-verge-1-and-2-double-pack.json](./172714-axiom-verge-1-and-2-double-pack.json) |
 | Axiom Verge: Multiverse Edition | 75864 | [75864-axiom-verge-multiverse-edition.json](./75864-axiom-verge-multiverse-edition.json) |
+| Axion | 34999 | [34999-axion.json](./34999-axion.json) |
 | Axios Football | 338173 | [338173-axios-football.json](./338173-axios-football.json) |
 | Axis and Allies | 24171 | [24171-axis-and-allies.json](./24171-axis-and-allies.json) |
 | Axis Football 2023 | 213436 | [213436-axis-football-2023.json](./213436-axis-football-2023.json) |
