@@ -4445,6 +4445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrek Treasure Hunt | 44967 | [44967-shrek-treasure-hunt.json](./44967-shrek-treasure-hunt.json) |
 | Shrek: Fairy Tale Freakdown | 18576 | [18576-shrek-fairy-tale-freakdown.json](./18576-shrek-fairy-tale-freakdown.json) |
 | Shrek: Fire Donkey | 229066 | [229066-shrek-fire-donkey.json](./229066-shrek-fire-donkey.json) |
+| Shrek: Ogres and Dronkeys | 47860 | [47860-shrek-ogres-and-dronkeys.json](./47860-shrek-ogres-and-dronkeys.json) |
 | Shrek: The Forbidden Onion | 359043 | [359043-shrek-the-forbidden-onion.json](./359043-shrek-the-forbidden-onion.json) |
 | Shrek's Vacation | 230274 | [230274-shreks-vacation.json](./230274-shreks-vacation.json) |
 | Shriddle | 143006 | [143006-shriddle.json](./143006-shriddle.json) |
