@@ -8553,6 +8553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DX Legends | 334319 | [334319-dx-legends.json](./334319-dx-legends.json) |
 | DX-Ball | 19224 | [19224-dx-ball.json](./19224-dx-ball.json) |
 | Dyad | 242079 | [242079-dyad.json](./242079-dyad.json) |
+| Dye | 27288 | [27288-dye.json](./27288-dye.json) |
 | Dyebreaker | 349389 | [349389-dyebreaker.json](./349389-dyebreaker.json) |
 | Dyflexion | 189067 | [189067-dyflexion.json](./189067-dyflexion.json) |
 | Dyg | 208581 | [208581-dyg.json](./208581-dyg.json) |
