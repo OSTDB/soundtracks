@@ -3770,6 +3770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Blaze | 288836 | [288836-dice-blaze.json](./288836-dice-blaze.json) |
 | Dice Brawl: Captain's League | 108960 | [108960-dice-brawl-captains-league.json](./108960-dice-brawl-captains-league.json) |
 | Dice Breaker | 26849 | [26849-dice-breaker.json](./26849-dice-breaker.json) |
+| Dice Carnival | 406262 | [406262-dice-carnival.json](./406262-dice-carnival.json) |
 | Dice City Roller | 366417 | [366417-dice-city-roller.json](./366417-dice-city-roller.json) |
 | Dice Craft | 252156 | [252156-dice-craft.json](./252156-dice-craft.json) |
 | Dice Crypt | 266317 | [266317-dice-crypt.json](./266317-dice-crypt.json) |
