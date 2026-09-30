@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B-Sides | 183582 | [183582-b-sides.json](./183582-b-sides.json) |
 | B-Wings | 273080 | [273080-b-wings.json](./273080-b-wings.json) |
 | B. C. Story | 39879 | [39879-b-c-story.json](./39879-b-c-story.json) |
+| B.A.D Battle Armor Division | 34960 | [34960-b-a-d-battle-armor-division.json](./34960-b-a-d-battle-armor-division.json) |
 | B.A.D. | 362277 | [362277-b-a-d.json](./362277-b-a-d.json) |
 | B.A.L.L.O | 338753 | [338753-b-a-l-l-o.json](./338753-b-a-l-l-o.json) |
 | B.A.N.K. | 346766 | [346766-b-a-n-k.json](./346766-b-a-n-k.json) |
@@ -1025,6 +1026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baratin: The Video Game | 374085 | [374085-baratin-the-video-game.json](./374085-baratin-the-video-game.json) |
 | Barb | 191812 | [191812-barb.json](./191812-barb.json) |
 | Barb Wire | 92451 | [92451-barb-wire.json](./92451-barb-wire.json) |
+| Barbara-ian | 35006 | [35006-barbara-ian.json](./35006-barbara-ian.json) |
 | Barbarian | 206238 | [206238-barbarian.json](./206238-barbarian.json) |
 | Barbarian | 376532 | [376532-barbarian.json](./376532-barbarian.json) |
 | Barbarian | 3793 | [3793-barbarian.json](./3793-barbarian.json) |
@@ -6123,6 +6125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boshi Techou DS with 'Akachan Massage' | 269669 | [269669-boshi-techou-ds-with-akachan-massage.json](./269669-boshi-techou-ds-with-akachan-massage.json) |
 | Boson X | 7730 | [7730-boson-x.json](./7730-boson-x.json) |
 | Bosorka | 223445 | [223445-bosorka.json](./223445-bosorka.json) |
+| Boss 101 | 34959 | [34959-boss-101.json](./34959-boss-101.json) |
 | Boss 101 with S.T.E.V.E. and Max | 59844 | [59844-boss-101-with-s-t-e-v-e-and-max.json](./59844-boss-101-with-s-t-e-v-e-and-max.json) |
 | Boss Barrage | 110986 | [110986-boss-barrage.json](./110986-boss-barrage.json) |
 | Boss Hunter | 233485 | [233485-boss-hunter.json](./233485-boss-hunter.json) |
