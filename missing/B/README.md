@@ -1896,6 +1896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Sea | 268479 | [268479-battle-sea.json](./268479-battle-sea.json) |
 | Battle Shapers | 244184 | [244184-battle-shapers.json](./244184-battle-shapers.json) |
 | Battle Ship Clapton II | 47547 | [47547-battle-ship-clapton-ii.json](./47547-battle-ship-clapton-ii.json) |
+| Battle Ships | 13869 | [13869-battle-ships.json](./13869-battle-ships.json) |
 | Battle Simulator | 103836 | [103836-battle-simulator.json](./103836-battle-simulator.json) |
 | Battle Skin Panic | 91463 | [91463-battle-skin-panic.json](./91463-battle-skin-panic.json) |
 | Battle Slugs | 261522 | [261522-battle-slugs.json](./261522-battle-slugs.json) |
@@ -4266,6 +4267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Dancer: Lineage of Light | 269079 | [269079-blade-dancer-lineage-of-light.json](./269079-blade-dancer-lineage-of-light.json) |
 | Blade Exload | 231872 | [231872-blade-exload.json](./231872-blade-exload.json) |
 | Blade Kitten | 14847 | [14847-blade-kitten.json](./14847-blade-kitten.json) |
+| Blade Master | 10458 | [10458-blade-master.json](./10458-blade-master.json) |
 | Blade Mistress | 57888 | [57888-blade-mistress.json](./57888-blade-mistress.json) |
 | Blade of Chaos: Immortal Titan | 224093 | [224093-blade-of-chaos-immortal-titan.json](./224093-blade-of-chaos-immortal-titan.json) |
 | Blade of Dawn | 322361 | [322361-blade-of-dawn.json](./322361-blade-of-dawn.json) |
@@ -6245,6 +6247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounded Box | 176426 | [176426-bounded-box.json](./176426-bounded-box.json) |
 | Boundel | 33230 | [33230-boundel.json](./33230-boundel.json) |
 | Bounden | 61876 | [61876-bounden.json](./61876-bounden.json) |
+| Boundless | 14365 | [14365-boundless.json](./14365-boundless.json) |
 | Boundless | 369560 | [369560-boundless.json](./369560-boundless.json) |
 | Boundless Skies | 278969 | [278969-boundless-skies.json](./278969-boundless-skies.json) |
 | Bounters | 199119 | [199119-bounters.json](./199119-bounters.json) |
@@ -7095,6 +7098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brittle | 278684 | [278684-brittle.json](./278684-brittle.json) |
 | Brittle Blue | 184591 | [184591-brittle-blue.json](./184591-brittle-blue.json) |
 | Brittle Buildings | 180841 | [180841-brittle-buildings.json](./180841-brittle-buildings.json) |
+| Brix | 14458 | [14458-brix.json](./14458-brix.json) |
 | Brix and Trix | 237955 | [237955-brix-and-trix.json](./237955-brix-and-trix.json) |
 | Brix II Deluxe | 148451 | [148451-brix-ii-deluxe.json](./148451-brix-ii-deluxe.json) |
 | Brix VR | 116324 | [116324-brix-vr.json](./116324-brix-vr.json) |
@@ -7259,6 +7263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutal Rage | 132657 | [132657-brutal-rage.json](./132657-brutal-rage.json) |
 | Brutal Runner | 81049 | [81049-brutal-runner.json](./81049-brutal-runner.json) |
 | Brutal Scales | 119704 | [119704-brutal-scales.json](./119704-brutal-scales.json) |
+| Brutal Sports Football | 14350 | [14350-brutal-sports-football.json](./14350-brutal-sports-football.json) |
 | Brutal Sports Football | 40814 | [40814-brutal-sports-football.json](./40814-brutal-sports-football.json) |
 | Brutal Street 2 | 103893 | [103893-brutal-street-2.json](./103893-brutal-street-2.json) |
 | Brutal Strike | 235459 | [235459-brutal-strike.json](./235459-brutal-strike.json) |
