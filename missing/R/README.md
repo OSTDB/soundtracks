@@ -1004,6 +1004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratocalypse | 381137 | [381137-ratocalypse.json](./381137-ratocalypse.json) |
 | Ratomon | 151041 | [151041-ratomon.json](./151041-ratomon.json) |
 | RatPark | 206355 | [206355-ratpark.json](./206355-ratpark.json) |
+| Ratropolis | 121270 | [121270-ratropolis.json](./121270-ratropolis.json) |
 | Rats Invasion | 96673 | [96673-rats-invasion.json](./96673-rats-invasion.json) |
 | Rats Invasion 2 | 86889 | [86889-rats-invasion-2.json](./86889-rats-invasion-2.json) |
 | Ratstronaut | 362912 | [362912-ratstronaut.json](./362912-ratstronaut.json) |
@@ -2737,6 +2738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReThink \| Evolved 4 | 132592 | [132592-rethink-evolved-4.json](./132592-rethink-evolved-4.json) |
 | ReThink 4 | 148457 | [148457-rethink-4.json](./148457-rethink-4.json) |
 | Reticle Star | 210097 | [210097-reticle-star.json](./210097-reticle-star.json) |
+| Retimed | 76921 | [76921-retimed.json](./76921-retimed.json) |
 | Retired Men's Nude Beach Volleyball League | 163452 | [163452-retired-mens-nude-beach-volleyball-league.json](./163452-retired-mens-nude-beach-volleyball-league.json) |
 | Retirement Home Tower Defense | 340569 | [340569-retirement-home-tower-defense.json](./340569-retirement-home-tower-defense.json) |
 | Retne | 54526 | [54526-retne.json](./54526-retne.json) |
@@ -2883,6 +2885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return to ... | 348960 | [348960-return-to.json](./348960-return-to.json) |
 | Return to Abyss | 233251 | [233251-return-to-abyss.json](./233251-return-to-abyss.json) |
 | Return to Basic Killing | 274032 | [274032-return-to-basic-killing.json](./274032-return-to-basic-killing.json) |
+| Return to Castle Wolfenstein: Operation Resurrection | 77219 | [77219-return-to-castle-wolfenstein-operation-resurrection.json](./77219-return-to-castle-wolfenstein-operation-resurrection.json) |
 | Return to Castle Wolfenstein: Tides of War | 77220 | [77220-return-to-castle-wolfenstein-tides-of-war.json](./77220-return-to-castle-wolfenstein-tides-of-war.json) |
 | Return to College Age | 355226 | [355226-return-to-college-age.json](./355226-return-to-college-age.json) |
 | Return to Cube Planet | 118651 | [118651-return-to-cube-planet.json](./118651-return-to-cube-planet.json) |
@@ -5279,6 +5282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Routes | 112509 | [112509-routes.json](./112509-routes.json) |
 | RouteWhom | 394513 | [394513-routewhom.json](./394513-routewhom.json) |
 | Routine | 8948 | [8948-routine.json](./8948-routine.json) |
+| Routine Feat | 125052 | [125052-routine-feat.json](./125052-routine-feat.json) |
 | Rouvy | 319175 | [319175-rouvy.json](./319175-rouvy.json) |
 | Rova | 297209 | [297209-rova.json](./297209-rova.json) |
 | Rover Builder | 65829 | [65829-rover-builder.json](./65829-rover-builder.json) |
