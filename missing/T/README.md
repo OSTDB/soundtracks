@@ -3415,6 +3415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chronos Principle | 153964 | [153964-the-chronos-principle.json](./153964-the-chronos-principle.json) |
 | The Church in the Darkness | 18113 | [18113-the-church-in-the-darkness.json](./18113-the-church-in-the-darkness.json) |
 | The Church of Cheesus Crisp: An All You Can Pray Buffet | 159364 | [159364-the-church-of-cheesus-crisp-an-all-you-can-pray-buffet.json](./159364-the-church-of-cheesus-crisp-an-all-you-can-pray-buffet.json) |
+| The Cinder War | 410393 | [410393-the-cinder-war.json](./410393-the-cinder-war.json) |
 | The Cinderling | 404855 | [404855-the-cinderling.json](./404855-the-cinderling.json) |
 | The Circle: Martial Arts Fighter | 206189 | [206189-the-circle-martial-arts-fighter.json](./206189-the-circle-martial-arts-fighter.json) |
 | The Circulation of Shadows | 271462 | [271462-the-circulation-of-shadows.json](./271462-the-circulation-of-shadows.json) |
