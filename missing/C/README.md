@@ -9237,6 +9237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyan Avenger | 278999 | [278999-cyan-avenger.json](./278999-cyan-avenger.json) |
 | Cyan's Snow House | 289446 | [289446-cyans-snow-house.json](./289446-cyans-snow-house.json) |
 | Cyanide & Happiness: Freakpocalypse - Episode 1 | 147983 | [147983-cyanide-and-happiness-freakpocalypse-episode-1.json](./147983-cyanide-and-happiness-freakpocalypse-episode-1.json) |
+| Cyanide Angel | 397162 | [397162-cyanide-angel.json](./397162-cyanide-angel.json) |
 | CybArena | 326244 | [326244-cybarena.json](./326244-cybarena.json) |
 | Cybel | 142887 | [142887-cybel.json](./142887-cybel.json) |
 | Cyber | 185031 | [185031-cyber.json](./185031-cyber.json) |
