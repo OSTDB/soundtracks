@@ -2457,6 +2457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildlife Hunter: Survival | 250437 | [250437-wildlife-hunter-survival.json](./250437-wildlife-hunter-survival.json) |
 | Wildlife Park | 17591 | [17591-wildlife-park.json](./17591-wildlife-park.json) |
 | Wildlife Park 2 | 17491 | [17491-wildlife-park-2.json](./17491-wildlife-park-2.json) |
+| Wildlife Park 2 - Horses | 36286 | [36286-wildlife-park-2-horses.json](./36286-wildlife-park-2-horses.json) |
 | Wildlife Park 2: Kitz (fawn) | 163274 | [163274-wildlife-park-2-kitz-fawn.json](./163274-wildlife-park-2-kitz-fawn.json) |
 | Wildlife Park 2: Ultimate Edition | 53913 | [53913-wildlife-park-2-ultimate-edition.json](./53913-wildlife-park-2-ultimate-edition.json) |
 | Wildlife Park 3 | 17177 | [17177-wildlife-park-3.json](./17177-wildlife-park-3.json) |
@@ -4003,6 +4004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WorldNeverland: White Modern Wedding Outfit Set | 298593 | [298593-worldneverland-white-modern-wedding-outfit-set.json](./298593-worldneverland-white-modern-wedding-outfit-set.json) |
 | WorldQuest | 101609 | [101609-worldquest.json](./101609-worldquest.json) |
 | Worldquiz | 243084 | [243084-worldquiz.json](./243084-worldquiz.json) |
+| Worlds | 36277 | [36277-worlds.json](./36277-worlds.json) |
 | Worlds | 381007 | [381007-worlds.json](./381007-worlds.json) |
 | Worlds Align: Deadly Dream | 187945 | [187945-worlds-align-deadly-dream.json](./187945-worlds-align-deadly-dream.json) |
 | Worlds and World's End | 397228 | [397228-worlds-and-worlds-end.json](./397228-worlds-and-worlds-end.json) |
