@@ -1334,6 +1334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haydee 3 | 333073 | [333073-haydee-3.json](./333073-haydee-3.json) |
 | Haypi Monster 3 | 129610 | [129610-haypi-monster-3.json](./129610-haypi-monster-3.json) |
 | Haywire | 180825 | [180825-haywire.json](./180825-haywire.json) |
+| Haywire | 400380 | [400380-haywire.json](./400380-haywire.json) |
 | Haywire Hospital | 233639 | [233639-haywire-hospital.json](./233639-haywire-hospital.json) |
 | Hazar | 384068 | [384068-hazar.json](./384068-hazar.json) |
 | Hazard | 186147 | [186147-hazard.json](./186147-hazard.json) |
@@ -4080,6 +4081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Victory | 259529 | [259529-hollow-victory.json](./259529-hollow-victory.json) |
 | Hollow World: Dark Knight | 231055 | [231055-hollow-world-dark-knight.json](./231055-hollow-world-dark-knight.json) |
 | Hollowbody | 215682 | [215682-hollowbody.json](./215682-hollowbody.json) |
+| Hollowed Oath | 400395 | [400395-hollowed-oath.json](./400395-hollowed-oath.json) |
 | Hollowglass | 335998 | [335998-hollowglass.json](./335998-hollowglass.json) |
 | Hollowmoor | 217328 | [217328-hollowmoor.json](./217328-hollowmoor.json) |
 | HollowPath | 221429 | [221429-hollowpath.json](./221429-hollowpath.json) |
@@ -5726,6 +5728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydra: Poseidon's Сonspiracy | 342645 | [342645-hydra-poseidons-onspiracy.json](./342645-hydra-poseidons-onspiracy.json) |
 | Hydrangea | 299171 | [299171-hydrangea.json](./299171-hydrangea.json) |
 | Hydraulic Empire | 34969 | [34969-hydraulic-empire.json](./34969-hydraulic-empire.json) |
+| Hydraulic Press Pocket | 400391 | [400391-hydraulic-press-pocket.json](./400391-hydraulic-press-pocket.json) |
 | Hydro Thunder | 3370 | [3370-hydro-thunder.json](./3370-hydro-thunder.json) |
 | Hydrofoil Generation | 190237 | [190237-hydrofoil-generation.json](./190237-hydrofoil-generation.json) |
 | Hydrofusion Substation | 270677 | [270677-hydrofusion-substation.json](./270677-hydrofusion-substation.json) |
