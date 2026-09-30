@@ -6199,6 +6199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mistia - The Kingdom of Krasten | 140464 | [140464-mistia-the-kingdom-of-krasten.json](./140464-mistia-the-kingdom-of-krasten.json) |
 | Misticheskii Ostrov | 99185 | [99185-misticheskii-ostrov.json](./99185-misticheskii-ostrov.json) |
 | Mistletoe Hotel | 323731 | [323731-mistletoe-hotel.json](./323731-mistletoe-hotel.json) |
+| Mistover | 116145 | [116145-mistover.json](./116145-mistover.json) |
 | Mistress Marigold's Home Improvement | 369774 | [369774-mistress-marigolds-home-improvement.json](./369774-mistress-marigolds-home-improvement.json) |
 | Mistress of Maids | 86510 | [86510-mistress-of-maids.json](./86510-mistress-of-maids.json) |
 | Mistress of Maids: First Castle | 115627 | [115627-mistress-of-maids-first-castle.json](./115627-mistress-of-maids-first-castle.json) |
@@ -8880,6 +8881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX vs. ATV Collection | 53390 | [53390-mx-vs-atv-collection.json](./53390-mx-vs-atv-collection.json) |
 | MX vs. ATV Legends: 2023 AMA Pro Motocross Championship | 253898 | [253898-mx-vs-atv-legends-2023-ama-pro-motocross-championship.json](./253898-mx-vs-atv-legends-2023-ama-pro-motocross-championship.json) |
 | MX vs. ATV Legends: Track Pass | 350652 | [350652-mx-vs-atv-legends-track-pass.json](./350652-mx-vs-atv-legends-track-pass.json) |
+| MX vs. ATV: All Out - Anniversary Edition | 115472 | [115472-mx-vs-atv-all-out-anniversary-edition.json](./115472-mx-vs-atv-all-out-anniversary-edition.json) |
 | MX vs. ATV: Legends - 2023 Track Pass | 287113 | [287113-mx-vs-atv-legends-2023-track-pass.json](./287113-mx-vs-atv-legends-2023-track-pass.json) |
 | MX vs. ATV: Legends - 2024 Monster Energy Supercross Championship | 295398 | [295398-mx-vs-atv-legends-2024-monster-energy-supercross-championship.json](./295398-mx-vs-atv-legends-2024-monster-energy-supercross-championship.json) |
 | MX vs. ATV: Legends - 2025 Monster Energy Supercross Championship | 350639 | [350639-mx-vs-atv-legends-2025-monster-energy-supercross-championship.json](./350639-mx-vs-atv-legends-2025-monster-energy-supercross-championship.json) |
