@@ -2780,6 +2780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Setteeh | 312883 | [312883-setteeh.json](./312883-setteeh.json) |
 | Settle | 397075 | [397075-settle.json](./397075-settle.json) |
 | Settle and Battle: New Empires | 324295 | [324295-settle-and-battle-new-empires.json](./324295-settle-and-battle-new-empires.json) |
+| Settlement: Colossus | 53589 | [53589-settlement-colossus.json](./53589-settlement-colossus.json) |
 | Settlements | 81671 | [81671-settlements.json](./81671-settlements.json) |
 | Settlements Rising | 245838 | [245838-settlements-rising.json](./245838-settlements-rising.json) |
 | Settlemoon | 253593 | [253593-settlemoon.json](./253593-settlemoon.json) |
@@ -4328,6 +4329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopping Match | 264014 | [264014-shopping-match.json](./264014-shopping-match.json) |
 | Shopping Sort | 303046 | [303046-shopping-sort.json](./303046-shopping-sort.json) |
 | Shopping Spree | 349871 | [349871-shopping-spree.json](./349871-shopping-spree.json) |
+| Shopping Tycoon | 54514 | [54514-shopping-tycoon.json](./54514-shopping-tycoon.json) |
 | Shoppy Mart | 60067 | [60067-shoppy-mart.json](./60067-shoppy-mart.json) |
 | Shoppy Mart: Steam Edition | 90633 | [90633-shoppy-mart-steam-edition.json](./90633-shoppy-mart-steam-edition.json) |
 | Shore Doodle | 340373 | [340373-shore-doodle.json](./340373-shore-doodle.json) |
@@ -7601,6 +7603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Deluxe Bundle: 3 in 1 | 147801 | [147801-solitaire-deluxe-bundle-3-in-1.json](./147801-solitaire-deluxe-bundle-3-in-1.json) |
 | Solitaire Dozen Gold | 146916 | [146916-solitaire-dozen-gold.json](./146916-solitaire-dozen-gold.json) |
 | Solitaire Egypt | 25063 | [25063-solitaire-egypt.json](./25063-solitaire-egypt.json) |
+| Solitaire Epic | 53628 | [53628-solitaire-epic.json](./53628-solitaire-epic.json) |
 | Solitaire Fish Klondike | 220047 | [220047-solitaire-fish-klondike.json](./220047-solitaire-fish-klondike.json) |
 | Solitaire Freecell - card game | 88414 | [88414-solitaire-freecell-card-game.json](./88414-solitaire-freecell-card-game.json) |
 | Solitaire Grand Harvest | 321601 | [321601-solitaire-grand-harvest.json](./321601-solitaire-grand-harvest.json) |
@@ -8648,6 +8651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoulPactum | 342773 | [342773-soulpactum.json](./342773-soulpactum.json) |
 | Soulrise | 295544 | [295544-soulrise.json](./295544-soulrise.json) |
 | Souls | 261255 | [261255-souls.json](./261255-souls.json) |
+| Souls | 51417 | [51417-souls.json](./51417-souls.json) |
 | Souls Divided | 410228 | [410228-souls-divided.json](./410228-souls-divided.json) |
 | Souls End | 345667 | [345667-souls-end.json](./345667-souls-end.json) |
 | Souls of Darkon | 12966 | [12966-souls-of-darkon.json](./12966-souls-of-darkon.json) |
@@ -15124,6 +15128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Salome World | 296508 | [296508-super-salome-world.json](./296508-super-salome-world.json) |
 | Super Sam Adventures | 343991 | [343991-super-sam-adventures.json](./343991-super-sam-adventures.json) |
 | Super Samtong | 92509 | [92509-super-samtong.json](./92509-super-samtong.json) |
+| Super Samurai Rampage | 54500 | [54500-super-samurai-rampage.json](./54500-super-samurai-rampage.json) |
 | Super Sangokushi | 42226 | [42226-super-sangokushi.json](./42226-super-sangokushi.json) |
 | Super Sans Race Running | 221710 | [221710-super-sans-race-running.json](./221710-super-sans-race-running.json) |
 | Super Scary Cylinder | 390135 | [390135-super-scary-cylinder.json](./390135-super-scary-cylinder.json) |
