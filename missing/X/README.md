@@ -306,6 +306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenonauts | 8508 | [8508-xenonauts.json](./8508-xenonauts.json) |
 | Xenonauts 2 | 19408 | [19408-xenonauts-2.json](./19408-xenonauts-2.json) |
 | Xenopathy | 183043 | [183043-xenopathy.json](./183043-xenopathy.json) |
+| XenoRaptor | 17355 | [17355-xenoraptor.json](./17355-xenoraptor.json) |
 | Xenos Defense | 121480 | [121480-xenos-defense.json](./121480-xenos-defense.json) |
 | Xenos: Cartoon Creature Catcher | 272890 | [272890-xenos-cartoon-creature-catcher.json](./272890-xenos-cartoon-creature-catcher.json) |
 | Xenosaga Episode I: Der Wille zur Macht - Reloaded | 221670 | [221670-xenosaga-episode-i-der-wille-zur-macht-reloaded.json](./221670-xenosaga-episode-i-der-wille-zur-macht-reloaded.json) |
@@ -448,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XS Moto | 49350 | [49350-xs-moto.json](./49350-xs-moto.json) |
 | Xscorch | 63240 | [63240-xscorch.json](./63240-xscorch.json) |
 | XSpelunker | 360106 | [360106-xspelunker.json](./360106-xspelunker.json) |
+| Xsyon: Prelude | 17342 | [17342-xsyon-prelude.json](./17342-xsyon-prelude.json) |
 | Xtodie | 62991 | [62991-xtodie.json](./62991-xtodie.json) |
 | Xtom 3D | 45978 | [45978-xtom-3d.json](./45978-xtom-3d.json) |
 | Xtract | 277966 | [277966-xtract.json](./277966-xtract.json) |
