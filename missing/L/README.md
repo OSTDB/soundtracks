@@ -195,6 +195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ladies and Gentlemen, It's the Turnabout Show! | 318803 | [318803-ladies-and-gentlemen-its-the-turnabout-show.json](./318803-ladies-and-gentlemen-its-the-turnabout-show.json) |
 | Ladies of Sorrow: Night One | 323551 | [323551-ladies-of-sorrow-night-one.json](./323551-ladies-of-sorrow-night-one.json) |
 | Ladra | 34769 | [34769-ladra.json](./34769-ladra.json) |
+| Lady At The Costco Gave Me Her Extra Hot Dog Soda Combo | 399751 | [399751-lady-at-the-costco-gave-me-her-extra-hot-dog-soda-combo.json](./399751-lady-at-the-costco-gave-me-her-extra-hot-dog-soda-combo.json) |
 | Lady Blue | 376688 | [376688-lady-blue.json](./376688-lady-blue.json) |
 | Lady Bug Arcade | 332638 | [332638-lady-bug-arcade.json](./332638-lady-bug-arcade.json) |
 | Lady Death Demonicron | 310761 | [310761-lady-death-demonicron.json](./310761-lady-death-demonicron.json) |
@@ -2032,6 +2033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Licačka | 254422 | [254422-licacka.json](./254422-licacka.json) |
 | Licca-chan ni Naritai! | 58848 | [58848-licca-chan-ni-naritai.json](./58848-licca-chan-ni-naritai.json) |
 | Lich Legend | 159238 | [159238-lich-legend.json](./159238-lich-legend.json) |
+| Lich of Might | 399777 | [399777-lich-of-might.json](./399777-lich-of-might.json) |
 | Lichdom: Battlemage | 7443 | [7443-lichdom-battlemage.json](./7443-lichdom-battlemage.json) |
 | Lichenia | 138271 | [138271-lichenia.json](./138271-lichenia.json) |
 | Lichess | 122008 | [122008-lichess.json](./122008-lichess.json) |
@@ -2674,6 +2676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LIT: Bend the Light | 126621 | [126621-lit-bend-the-light.json](./126621-lit-bend-the-light.json) |
 | Liteboxer | 125949 | [125949-liteboxer.json](./125949-liteboxer.json) |
 | LiteracyPlanet: Word Mania | 203372 | [203372-literacyplanet-word-mania.json](./203372-literacyplanet-word-mania.json) |
+| Literalchemy | 399680 | [399680-literalchemy.json](./399680-literalchemy.json) |
 | Literally Free Will (From Prison) | 180750 | [180750-literally-free-will-from-prison.json](./180750-literally-free-will-from-prison.json) |
 | Literally Just Pixels On A Screen | 340922 | [340922-literally-just-pixels-on-a-screen.json](./340922-literally-just-pixels-on-a-screen.json) |
 | Litguy Adventure | 213390 | [213390-litguy-adventure.json](./213390-litguy-adventure.json) |
