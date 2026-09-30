@@ -2080,6 +2080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispered Secrets: In the Cards - Collector's Edition | 362836 | [362836-whispered-secrets-in-the-cards-collectors-edition.json](./362836-whispered-secrets-in-the-cards-collectors-edition.json) |
 | Whispered Secrets: Morbid Obsession - Collector's Edition | 362837 | [362837-whispered-secrets-morbid-obsession-collectors-edition.json](./362837-whispered-secrets-morbid-obsession-collectors-edition.json) |
 | Whispered Secrets: Poisoner's Masquerade | 416626 | [416626-whispered-secrets-poisoners-masquerade.json](./416626-whispered-secrets-poisoners-masquerade.json) |
+| Whispered Secrets: Poisoner's Masquerade - Collector's Edition | 409717 | [409717-whispered-secrets-poisoners-masquerade-collectors-edition.json](./409717-whispered-secrets-poisoners-masquerade-collectors-edition.json) |
 | Whispered Secrets: Ripple of the Heart | 187972 | [187972-whispered-secrets-ripple-of-the-heart.json](./187972-whispered-secrets-ripple-of-the-heart.json) |
 | Whispered Stories: Sandman | 175803 | [175803-whispered-stories-sandman.json](./175803-whispered-stories-sandman.json) |
 | Whispering Death | 312551 | [312551-whispering-death.json](./312551-whispering-death.json) |
@@ -2495,6 +2496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildlife VR | 32111 | [32111-wildlife-vr.json](./32111-wildlife-vr.json) |
 | Wildmagic Wizardry | 270106 | [270106-wildmagic-wizardry.json](./270106-wildmagic-wizardry.json) |
 | Wildmender | 204541 | [204541-wildmender.json](./204541-wildmender.json) |
+| WildRoot | 409708 | [409708-wildroot.json](./409708-wildroot.json) |
 | Wilds of the Realmwalker | 356747 | [356747-wilds-of-the-realmwalker.json](./356747-wilds-of-the-realmwalker.json) |
 | Wilds.io | 79877 | [79877-wilds-io.json](./79877-wilds-io.json) |
 | Wildseed | 356170 | [356170-wildseed.json](./356170-wildseed.json) |
