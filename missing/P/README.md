@@ -5135,6 +5135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Omega Ruby and Pokémon Alpha Sapphire Dual Pack | 159108 | [159108-pokemon-omega-ruby-and-pokemon-alpha-sapphire-dual-pack.json](./159108-pokemon-omega-ruby-and-pokemon-alpha-sapphire-dual-pack.json) |
 | Pokémon Online | 311459 | [311459-pokemon-online.json](./311459-pokemon-online.json) |
 | Pokémon Orange | 141203 | [141203-pokemon-orange.json](./141203-pokemon-orange.json) |
+| Pokémon Origins | 395775 | [395775-pokemon-origins.json](./395775-pokemon-origins.json) |
 | Pokémon Party Mini | 66031 | [66031-pokemon-party-mini.json](./66031-pokemon-party-mini.json) |
 | Pokémon Pathways | 154415 | [154415-pokemon-pathways.json](./154415-pokemon-pathways.json) |
 | Pokémon Pearl Version | 1518 | [1518-pokemon-pearl-version.json](./1518-pokemon-pearl-version.json) |
