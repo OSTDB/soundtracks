@@ -233,6 +233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | California Swingers Club: Season 1 - Sea Swap | 289850 | [289850-california-swingers-club-season-1-sea-swap.json](./289850-california-swingers-club-season-1-sea-swap.json) |
 | Californication | 192403 | [192403-californication.json](./192403-californication.json) |
 | Californium | 18351 | [18351-californium.json](./18351-californium.json) |
+| Caligo | 65840 | [65840-caligo.json](./65840-caligo.json) |
 | Calipso | 39610 | [39610-calipso.json](./39610-calipso.json) |
 | Calisteo | 238981 | [238981-calisteo.json](./238981-calisteo.json) |
 | Call Center | 287208 | [287208-call-center.json](./287208-call-center.json) |
@@ -6540,6 +6541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corridor Maze: Home Cleanup | 291251 | [291251-corridor-maze-home-cleanup.json](./291251-corridor-maze-home-cleanup.json) |
 | Corridor of Time | 114524 | [114524-corridor-of-time.json](./114524-corridor-of-time.json) |
 | Corridor Sigma | 199382 | [199382-corridor-sigma.json](./199382-corridor-sigma.json) |
+| Corridor Z | 60298 | [60298-corridor-z.json](./60298-corridor-z.json) |
 | Corridors of Their Memories | 149093 | [149093-corridors-of-their-memories.json](./149093-corridors-of-their-memories.json) |
 | Corrosion Protocol | 377073 | [377073-corrosion-protocol.json](./377073-corrosion-protocol.json) |
 | Corrosion: Cold Winter Waiting | 126027 | [126027-corrosion-cold-winter-waiting.json](./126027-corrosion-cold-winter-waiting.json) |
@@ -9255,6 +9257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cypher: Cyberpunk Text Adventure | 64616 | [64616-cypher-cyberpunk-text-adventure.json](./64616-cypher-cyberpunk-text-adventure.json) |
 | Cyra and the Beacon Path | 203962 | [203962-cyra-and-the-beacon-path.json](./203962-cyra-and-the-beacon-path.json) |
 | Cyrah's Ascent | 201558 | [201558-cyrahs-ascent.json](./201558-cyrahs-ascent.json) |
+| Cyraid | 48953 | [48953-cyraid.json](./48953-cyraid.json) |
 | Cyril Cyberpunk | 19339 | [19339-cyril-cyberpunk.json](./19339-cyril-cyberpunk.json) |
 | Cyroad | 128570 | [128570-cyroad.json](./128570-cyroad.json) |
 | Cyrtabor | 159271 | [159271-cyrtabor.json](./159271-cyrtabor.json) |
