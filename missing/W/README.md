@@ -1171,6 +1171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WattGames | 298138 | [298138-wattgames.json](./298138-wattgames.json) |
 | Wauies | 81760 | [81760-wauies.json](./81760-wauies.json) |
 | Wave | 152147 | [152147-wave.json](./152147-wave.json) |
+| Wave 43 | 408124 | [408124-wave-43.json](./408124-wave-43.json) |
 | Wave Arrow | 106374 | [106374-wave-arrow.json](./106374-wave-arrow.json) |
 | Wave Buxters | 329574 | [329574-wave-buxters.json](./329574-wave-buxters.json) |
 | Wave Circles | 117840 | [117840-wave-circles.json](./117840-wave-circles.json) |
@@ -2108,6 +2109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers of Silence | 296517 | [296517-whispers-of-silence.json](./296517-whispers-of-silence.json) |
 | Whispers of The Abyss | 301269 | [301269-whispers-of-the-abyss.json](./301269-whispers-of-the-abyss.json) |
 | Whispers of the Citadel | 275136 | [275136-whispers-of-the-citadel.json](./275136-whispers-of-the-citadel.json) |
+| Whispers of the Requiem | 408115 | [408115-whispers-of-the-requiem.json](./408115-whispers-of-the-requiem.json) |
 | Whispers of The Shadow | 312550 | [312550-whispers-of-the-shadow.json](./312550-whispers-of-the-shadow.json) |
 | Whispers of the Tallgrass | 398959 | [398959-whispers-of-the-tallgrass.json](./398959-whispers-of-the-tallgrass.json) |
 | Whispers of the Void | 358378 | [358378-whispers-of-the-void.json](./358378-whispers-of-the-void.json) |
