@@ -2641,6 +2641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauty and the Beast | 292649 | [292649-beauty-and-the-beast.json](./292649-beauty-and-the-beast.json) |
 | Beauty and the Beast | 63376 | [63376-beauty-and-the-beast.json](./63376-beauty-and-the-beast.json) |
 | Beauty and Violence: Valkyries | 122299 | [122299-beauty-and-violence-valkyries.json](./122299-beauty-and-violence-valkyries.json) |
+| Beauty Clicker 2 | 389646 | [389646-beauty-clicker-2.json](./389646-beauty-clicker-2.json) |
 | Beauty from Wisdom | 236372 | [236372-beauty-from-wisdom.json](./236372-beauty-from-wisdom.json) |
 | Beauty Jigsaw: Image Pack | 357874 | [357874-beauty-jigsaw-image-pack.json](./357874-beauty-jigsaw-image-pack.json) |
 | Beauty Lawyer Victoria 2 | 200058 | [200058-beauty-lawyer-victoria-2.json](./200058-beauty-lawyer-victoria-2.json) |
@@ -3596,6 +3597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bille & Trille: Nu er det Jul igen | 91449 | [91449-bille-and-trille-nu-er-det-jul-igen.json](./91449-bille-and-trille-nu-er-det-jul-igen.json) |
 | Billgard | 329169 | [329169-billgard.json](./329169-billgard.json) |
 | Billiard Japonais | 92291 | [92291-billiard-japonais.json](./92291-billiard-japonais.json) |
+| Billiard Rampage | 389682 | [389682-billiard-rampage.json](./389682-billiard-rampage.json) |
 | Billiard: VR | 30197 | [30197-billiard-vr.json](./30197-billiard-vr.json) |
 | Billiards | 362425 | [362425-billiards.json](./362425-billiards.json) |
 | Billiards Champ 3D | 146731 | [146731-billiards-champ-3d.json](./146731-billiards-champ-3d.json) |
@@ -7031,6 +7033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breaking Good | 51968 | [51968-breaking-good.json](./51968-breaking-good.json) |
 | Breaking Mad | 123515 | [123515-breaking-mad.json](./123515-breaking-mad.json) |
 | Breaking Survivors | 258968 | [258968-breaking-survivors.json](./258968-breaking-survivors.json) |
+| Breaking Up Is Hard To Do | 389660 | [389660-breaking-up-is-hard-to-do.json](./389660-breaking-up-is-hard-to-do.json) |
 | Breaking Wheel | 30857 | [30857-breaking-wheel.json](./30857-breaking-wheel.json) |
 | BreakingPoint | 395095 | [395095-breakingpoint.json](./395095-breakingpoint.json) |
 | Breakline | 147279 | [147279-breakline.json](./147279-breakline.json) |
