@@ -368,6 +368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest Eternal | 290954 | [290954-quest-eternal.json](./290954-quest-eternal.json) |
 | Quest for Camelot: Dragon Games | 320992 | [320992-quest-for-camelot-dragon-games.json](./320992-quest-for-camelot-dragon-games.json) |
 | Quest for Cathay Kingdom Mah Jong | 367446 | [367446-quest-for-cathay-kingdom-mah-jong.json](./367446-quest-for-cathay-kingdom-mah-jong.json) |
+| Quest for Choices: Ivan's Tale - Chapter 0+1 | 392393 | [392393-quest-for-choices-ivans-tale-chapter-0-1.json](./392393-quest-for-choices-ivans-tale-chapter-0-1.json) |
 | Quest For Corgi Butts | 328050 | [328050-quest-for-corgi-butts.json](./328050-quest-for-corgi-butts.json) |
 | Quest for Glory II: Trial by Fire | 1894 | [1894-quest-for-glory-ii-trial-by-fire.json](./1894-quest-for-glory-ii-trial-by-fire.json) |
 | Quest for Glory V: Dragon Fire | 1897 | [1897-quest-for-glory-v-dragon-fire.json](./1897-quest-for-glory-v-dragon-fire.json) |
