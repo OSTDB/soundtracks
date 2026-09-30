@@ -1491,6 +1491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverwood | 401788 | [401788-neverwood.json](./401788-neverwood.json) |
 | Nevrosa: Escape | 68172 | [68172-nevrosa-escape.json](./68172-nevrosa-escape.json) |
 | Nevrosa: Primal Ritual | 118427 | [118427-nevrosa-primal-ritual.json](./118427-nevrosa-primal-ritual.json) |
+| Nevrosa: Spider Song | 118810 | [118810-nevrosa-spider-song.json](./118810-nevrosa-spider-song.json) |
 | Nevryon | 261332 | [261332-nevryon.json](./261332-nevryon.json) |
 | Nevsky Run | 110389 | [110389-nevsky-run.json](./110389-nevsky-run.json) |
 | Nevsky Titbit | 250597 | [250597-nevsky-titbit.json](./250597-nevsky-titbit.json) |
