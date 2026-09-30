@@ -578,6 +578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hands of Time | 49927 | [49927-hands-of-time.json](./49927-hands-of-time.json) |
 | Hands On! Tangrams | 48043 | [48043-hands-on-tangrams.json](./48043-hands-on-tangrams.json) |
 | Hands Over | 403826 | [403826-hands-over.json](./403826-hands-over.json) |
+| Hands up | 395149 | [395149-hands-up.json](./395149-hands-up.json) |
 | Handshakes: Hands On | 233010 | [233010-handshakes-hands-on.json](./233010-handshakes-hands-on.json) |
 | Handsome Mr. Frog | 31905 | [31905-handsome-mr-frog.json](./31905-handsome-mr-frog.json) |
 | HandsON | 158232 | [158232-handson.json](./158232-handson.json) |
@@ -1295,6 +1296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Havoc Runner | 148557 | [148557-havoc-runner.json](./148557-havoc-runner.json) |
 | Havsala: Into the Soul Palace | 193493 | [193493-havsala-into-the-soul-palace.json](./193493-havsala-into-the-soul-palace.json) |
 | Hawaii Detective: Killing of a Krypto King | 251806 | [251806-hawaii-detective-killing-of-a-krypto-king.json](./251806-hawaii-detective-killing-of-a-krypto-king.json) |
+| Hawaii High: Mystery of the Tiki | 395094 | [395094-hawaii-high-mystery-of-the-tiki.json](./395094-hawaii-high-mystery-of-the-tiki.json) |
 | Hawaii Resort | 86572 | [86572-hawaii-resort.json](./86572-hawaii-resort.json) |
 | Hawaiian Explorer: Lost Island | 53172 | [53172-hawaiian-explorer-lost-island.json](./53172-hawaiian-explorer-lost-island.json) |
 | Hawaiian Explorer: Pearl Harbor | 53171 | [53171-hawaiian-explorer-pearl-harbor.json](./53171-hawaiian-explorer-pearl-harbor.json) |
@@ -5064,6 +5066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Flipper: Pets | 171462 | [171462-house-flipper-pets.json](./171462-house-flipper-pets.json) |
 | House Hopper | 250281 | [250281-house-hopper.json](./250281-house-hopper.json) |
 | House in the village by the river v2.0 | 173813 | [173813-house-in-the-village-by-the-river-v2-0.json](./173813-house-in-the-village-by-the-river-v2-0.json) |
+| House in the Woods | 395108 | [395108-house-in-the-woods.json](./395108-house-in-the-woods.json) |
 | House M.D. Episode 5: Under the Big Top | 65508 | [65508-house-m-d-episode-5-under-the-big-top.json](./65508-house-m-d-episode-5-under-the-big-top.json) |
 | House M.D.: Episode 1 - Globetrotting | 85178 | [85178-house-m-d-episode-1-globetrotting.json](./85178-house-m-d-episode-1-globetrotting.json) |
 | House M.D.: Episode 2 - Blue Meanie | 85177 | [85177-house-m-d-episode-2-blue-meanie.json](./85177-house-m-d-episode-2-blue-meanie.json) |
