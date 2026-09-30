@@ -2271,6 +2271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cellchemist | 389731 | [389731-cellchemist.json](./389731-cellchemist.json) |
 | CellCraft | 132122 | [132122-cellcraft.json](./132122-cellcraft.json) |
 | Celldom Classic | 404823 | [404823-celldom-classic.json](./404823-celldom-classic.json) |
+| CellFactor: Psychokinetic Wars | 21673 | [21673-cellfactor-psychokinetic-wars.json](./21673-cellfactor-psychokinetic-wars.json) |
 | Cellings | 190202 | [190202-cellings.json](./190202-cellings.json) |
 | Cellitaire | 338713 | [338713-cellitaire.json](./338713-cellitaire.json) |
 | Cellmons | 204562 | [204562-cellmons.json](./204562-cellmons.json) |
@@ -2434,6 +2435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Challenge 100 | 359419 | [359419-challenge-100.json](./359419-challenge-100.json) |
 | Challenge Dream Cat | 179997 | [179997-challenge-dream-cat.json](./179997-challenge-dream-cat.json) |
 | Challenge from Kiyoshi | 141772 | [141772-challenge-from-kiyoshi.json](./141772-challenge-from-kiyoshi.json) |
+| Challenge Me: Math Workout | 21639 | [21639-challenge-me-math-workout.json](./21639-challenge-me-math-workout.json) |
 | Challenge of the Dragon | 48294 | [48294-challenge-of-the-dragon.json](./48294-challenge-of-the-dragon.json) |
 | Challenge of the Tentacle | 217872 | [217872-challenge-of-the-tentacle.json](./217872-challenge-of-the-tentacle.json) |
 | Challenge Party | 149518 | [149518-challenge-party.json](./149518-challenge-party.json) |
@@ -4673,6 +4675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Close Combat | 637 | [637-close-combat.json](./637-close-combat.json) |
 | Close Combat III: The Russian Front | 638 | [638-close-combat-iii-the-russian-front.json](./638-close-combat-iii-the-russian-front.json) |
 | Close Combat: A Bridge Too Far | 639 | [639-close-combat-a-bridge-too-far.json](./639-close-combat-a-bridge-too-far.json) |
+| Close Combat: Modern Tactics | 21519 | [21519-close-combat-modern-tactics.json](./21519-close-combat-modern-tactics.json) |
 | Close Contact | 149923 | [149923-close-contact.json](./149923-close-contact.json) |
 | Close Encounter VR | 388407 | [388407-close-encounter-vr.json](./388407-close-encounter-vr.json) |
 | Close Encounters | 323288 | [323288-close-encounters.json](./323288-close-encounters.json) |
@@ -4985,6 +4988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code5erpent | 281998 | [281998-code5erpent.json](./281998-code5erpent.json) |
 | Codebreaker Puzzle 1000! ENG & JAN | 147958 | [147958-codebreaker-puzzle-1000-eng-and-jan.json](./147958-codebreaker-puzzle-1000-eng-and-jan.json) |
 | Codebreakers VR | 318181 | [318181-codebreakers-vr.json](./318181-codebreakers-vr.json) |
+| Coded Arms | 21619 | [21619-coded-arms.json](./21619-coded-arms.json) |
 | Coded Black | 347784 | [347784-coded-black.json](./347784-coded-black.json) |
 | Codedoor | 281997 | [281997-codedoor.json](./281997-codedoor.json) |
 | Codemakers | 193411 | [193411-codemakers.json](./193411-codemakers.json) |
