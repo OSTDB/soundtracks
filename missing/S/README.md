@@ -195,6 +195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saddies: Attack!! | 60610 | [60610-saddies-attack.json](./60610-saddies-attack.json) |
 | Saddle Up: Time to Ride | 64114 | [64114-saddle-up-time-to-ride.json](./64114-saddle-up-time-to-ride.json) |
 | Sadhana | 364598 | [364598-sadhana.json](./364598-sadhana.json) |
+| Sadist II: Ostatni Krzyk | 404380 | [404380-sadist-ii-ostatni-krzyk.json](./404380-sadist-ii-ostatni-krzyk.json) |
 | Sadko | 397674 | [397674-sadko.json](./397674-sadko.json) |
 | Sadness & Solitude | 61149 | [61149-sadness-and-solitude.json](./61149-sadness-and-solitude.json) |
 | Sadness of Valor | 159070 | [159070-sadness-of-valor.json](./159070-sadness-of-valor.json) |
@@ -730,6 +731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sancticide | 291154 | [291154-sancticide.json](./291154-sancticide.json) |
 | Sanction | 203533 | [203533-sanction.json](./203533-sanction.json) |
 | Sanctity | 282551 | [282551-sanctity.json](./282551-sanctity.json) |
+| Sanctuaries | 404390 | [404390-sanctuaries.json](./404390-sanctuaries.json) |
 | Sanctuarium Online | 191858 | [191858-sanctuarium-online.json](./191858-sanctuarium-online.json) |
 | Sanctuary VR | 30182 | [30182-sanctuary-vr.json](./30182-sanctuary-vr.json) |
 | Sanctum 2: Road to Elysion | 10806 | [10806-sanctum-2-road-to-elysion.json](./10806-sanctum-2-road-to-elysion.json) |
@@ -2479,6 +2481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Self-Portrait, Vomit on Concrete | 309962 | [309962-self-portrait-vomit-on-concrete.json](./309962-self-portrait-vomit-on-concrete.json) |
 | Selfie : Sisters of the Amniotic Lens | 17176 | [17176-selfie-sisters-of-the-amniotic-lens.json](./17176-selfie-sisters-of-the-amniotic-lens.json) |
 | Selfie Games: A TV Party Game | 112149 | [112149-selfie-games-a-tv-party-game.json](./112149-selfie-games-a-tv-party-game.json) |
+| Selfie Worm | 404362 | [404362-selfie-worm.json](./404362-selfie-worm.json) |
 | Selfmade Devil | 170546 | [170546-selfmade-devil.json](./170546-selfmade-devil.json) |
 | Selfpolis | 217289 | [217289-selfpolis.json](./217289-selfpolis.json) |
 | Selini | 159885 | [159885-selini.json](./159885-selini.json) |
@@ -2739,6 +2742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Solitaire | 84236 | [84236-serious-solitaire.json](./84236-serious-solitaire.json) |
 | Serious Survivors | 348774 | [348774-serious-survivors.json](./348774-serious-survivors.json) |
 | Seriously Warped Deathmatch | 361921 | [361921-seriously-warped-deathmatch.json](./361921-seriously-warped-deathmatch.json) |
+| SerMon | 404386 | [404386-sermon.json](./404386-sermon.json) |
 | Seroutte | 234575 | [234575-seroutte.json](./234575-seroutte.json) |
 | Serpent | 360187 | [360187-serpent.json](./360187-serpent.json) |
 | Serpent | 49021 | [49021-serpent.json](./49021-serpent.json) |
@@ -4064,6 +4068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship Graveyard Simulator Collection | 331407 | [331407-ship-graveyard-simulator-collection.json](./331407-ship-graveyard-simulator-collection.json) |
 | Ship Graveyard Simulator: Submarines | 197405 | [197405-ship-graveyard-simulator-submarines.json](./197405-ship-graveyard-simulator-submarines.json) |
 | Ship Happens | 378432 | [378432-ship-happens.json](./378432-ship-happens.json) |
+| Ship Happens | 404389 | [404389-ship-happens.json](./404389-ship-happens.json) |
 | Ship It | 31747 | [31747-ship-it.json](./31747-ship-it.json) |
 | Ship Miner | 402999 | [402999-ship-miner.json](./402999-ship-miner.json) |
 | Ship of Dreams | 313892 | [313892-ship-of-dreams.json](./313892-ship-of-dreams.json) |
@@ -9341,6 +9346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Survival | 183863 | [183863-space-survival.json](./183863-space-survival.json) |
 | Space Survival | 32932 | [32932-space-survival.json](./32932-space-survival.json) |
 | Space Survivor | 245334 | [245334-space-survivor.json](./245334-space-survivor.json) |
+| Space Survivor VR AR | 404354 | [404354-space-survivor-vr-ar.json](./404354-space-survivor-vr-ar.json) |
 | Space Swap 110% | 392950 | [392950-space-swap-110.json](./392950-space-swap-110.json) |
 | Space Tail | 361876 | [361876-space-tail.json](./361876-space-tail.json) |
 | Space Tail: Every Journey Leads Home | 216885 | [216885-space-tail-every-journey-leads-home.json](./216885-space-tail-every-journey-leads-home.json) |
@@ -10684,6 +10690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Guy Memory Abstraction Bundle | 400204 | [400204-spy-guy-memory-abstraction-bundle.json](./400204-spy-guy-memory-abstraction-bundle.json) |
 | Spy Guy Memory: Indonesia | 364102 | [364102-spy-guy-memory-indonesia.json](./364102-spy-guy-memory-indonesia.json) |
 | Spy Guy The Circus Mission Edition | 364093 | [364093-spy-guy-the-circus-mission-edition.json](./364093-spy-guy-the-circus-mission-edition.json) |
+| Spy Guy: Vacation Bundle | 404287 | [404287-spy-guy-vacation-bundle.json](./404287-spy-guy-vacation-bundle.json) |
 | Spy Hunter | 21042 | [21042-spy-hunter.json](./21042-spy-hunter.json) |
 | Spy Hunter | 287079 | [287079-spy-hunter.json](./287079-spy-hunter.json) |
 | Spy Hunter Returns | 297466 | [297466-spy-hunter-returns.json](./297466-spy-hunter-returns.json) |
