@@ -1030,6 +1030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gateworlds | 270155 | [270155-gateworlds.json](./270155-gateworlds.json) |
 | Gather CCG | 401543 | [401543-gather-ccg.json](./401543-gather-ccg.json) |
 | Gather the Gems! | 100013 | [100013-gather-the-gems.json](./100013-gather-the-gems.json) |
+| Gathera | 405563 | [405563-gathera.json](./405563-gathera.json) |
 | Gathering Our Childhoods | 249756 | [249756-gathering-our-childhoods.json](./249756-gathering-our-childhoods.json) |
 | Gator Brigade | 321565 | [321565-gator-brigade.json](./321565-gator-brigade.json) |
 | Gator Parade | 123533 | [123533-gator-parade.json](./123533-gator-parade.json) |
@@ -5132,6 +5133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guts 'N Goals: Preseason | 137484 | [137484-guts-n-goals-preseason.json](./137484-guts-n-goals-preseason.json) |
 | Guts and Syringes | 94766 | [94766-guts-and-syringes.json](./94766-guts-and-syringes.json) |
 | Guts'n | 40183 | [40183-gutsn.json](./40183-gutsn.json) |
+| Gutted: Infested Crypts | 405682 | [405682-gutted-infested-crypts.json](./405682-gutted-infested-crypts.json) |
 | Gutter: The Perished | 296902 | [296902-gutter-the-perished.json](./296902-gutter-the-perished.json) |
 | Gutter: The Reject | 257691 | [257691-gutter-the-reject.json](./257691-gutter-the-reject.json) |
 | Gutterball 2 | 344018 | [344018-gutterball-2.json](./344018-gutterball-2.json) |
@@ -5143,6 +5145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guwange Ruga Daioujou XII Kizuna Down | 377699 | [377699-guwange-ruga-daioujou-xii-kizuna-down.json](./377699-guwange-ruga-daioujou-xii-kizuna-down.json) |
 | Guy Spy and the Crystals of Armageddon | 12130 | [12130-guy-spy-and-the-crystals-of-armageddon.json](./12130-guy-spy-and-the-crystals-of-armageddon.json) |
 | Guy vs. The Wicked and Nefarious Land | 62413 | [62413-guy-vs-the-wicked-and-nefarious-land.json](./62413-guy-vs-the-wicked-and-nefarious-land.json) |
+| Guys with Magnets | 405741 | [405741-guys-with-magnets.json](./405741-guys-with-magnets.json) |
 | Guzzler | 13865 | [13865-guzzler.json](./13865-guzzler.json) |
 | Gverse | 236913 | [236913-gverse.json](./236913-gverse.json) |
 | Gwen the Magic Nanny | 54076 | [54076-gwen-the-magic-nanny.json](./54076-gwen-the-magic-nanny.json) |
