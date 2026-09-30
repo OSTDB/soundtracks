@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T12:33:15.508Z",
-  "total_missing": 144726,
+  "generated_at": "2026-09-30T12:48:27.958Z",
+  "total_missing": 144776,
   "games": [
     {
       "igdb_id": 186066,
@@ -4136,6 +4136,11 @@
       "igdb_id": 92275,
       "game_name": "3-in-One Game Compilation",
       "file": "missing/0-9/92275-3-in-one-game-compilation.json"
+    },
+    {
+      "igdb_id": 416745,
+      "game_name": "3-Letter Competitive Crossword",
+      "file": "missing/0-9/416745-3-letter-competitive-crossword.json"
     },
     {
       "igdb_id": 65022,
@@ -14231,6 +14236,11 @@
       "igdb_id": 17839,
       "game_name": "aerofly RC 7",
       "file": "missing/A/17839-aerofly-rc-7.json"
+    },
+    {
+      "igdb_id": 416623,
+      "game_name": "Aerolicious",
+      "file": "missing/A/416623-aerolicious.json"
     },
     {
       "igdb_id": 124175,
@@ -102393,6 +102403,11 @@
       "file": "missing/C/417505-charm-and-clue-2.json"
     },
     {
+      "igdb_id": 416782,
+      "game_name": "Charm & Clue 2: Collector's Edition",
+      "file": "missing/C/416782-charm-and-clue-2-collectors-edition.json"
+    },
+    {
       "igdb_id": 417506,
       "game_name": "Charm & Clue: Collector's Edition",
       "file": "missing/C/417506-charm-and-clue-collectors-edition.json"
@@ -105363,6 +105378,11 @@
       "file": "missing/C/387661-chinami-holic.json"
     },
     {
+      "igdb_id": 416732,
+      "game_name": "ChinanaGo!",
+      "file": "missing/C/416732-chinanago.json"
+    },
+    {
       "igdb_id": 272012,
       "game_name": "Chinatown",
       "file": "missing/C/272012-chinatown.json"
@@ -107156,6 +107176,11 @@
       "igdb_id": 417595,
       "game_name": "Christmas Wonderland 16",
       "file": "missing/C/417595-christmas-wonderland-16.json"
+    },
+    {
+      "igdb_id": 416785,
+      "game_name": "Christmas Wonderland 16: Collector's Edition",
+      "file": "missing/C/416785-christmas-wonderland-16-collectors-edition.json"
     },
     {
       "igdb_id": 226426,
@@ -110333,6 +110358,11 @@
       "file": "missing/C/362828-claire-darksage-and-the-accursed-objects-collectors-editon.json"
     },
     {
+      "igdb_id": 416780,
+      "game_name": "Claire Darksage and the Penumbra Deaths: Collector's Edition",
+      "file": "missing/C/416780-claire-darksage-and-the-penumbra-deaths-collectors-edition.json"
+    },
+    {
       "igdb_id": 266310,
       "game_name": "Claire's Cruisin' Cafe: Fest Frenzy",
       "file": "missing/C/266310-claires-cruisin-cafe-fest-frenzy.json"
@@ -113296,6 +113326,11 @@
       "igdb_id": 369562,
       "game_name": "Clutter 18: Joe's Ultimate Challenge - Collector's Edition",
       "file": "missing/C/369562-clutter-18-joes-ultimate-challenge-collectors-edition.json"
+    },
+    {
+      "igdb_id": 416781,
+      "game_name": "Clutter 19: Survey Says What? - Collector's Edition",
+      "file": "missing/C/416781-clutter-19-survey-says-what-collectors-edition.json"
     },
     {
       "igdb_id": 82188,
@@ -127871,6 +127906,11 @@
       "igdb_id": 294990,
       "game_name": "Criminal Archives: Murder in the Pages DLC",
       "file": "missing/C/294990-criminal-archives-murder-in-the-pages-dlc.json"
+    },
+    {
+      "igdb_id": 416772,
+      "game_name": "Criminal Archives: Symphony of Death - Collector's Edition",
+      "file": "missing/C/416772-criminal-archives-symphony-of-death-collectors-edition.json"
     },
     {
       "igdb_id": 296673,
@@ -148808,6 +148848,11 @@
       "file": "missing/D/92611-dejiko-no-mahjong-party.json"
     },
     {
+      "igdb_id": 416712,
+      "game_name": "Deka Nomos",
+      "file": "missing/D/416712-deka-nomos.json"
+    },
+    {
       "igdb_id": 64928,
       "game_name": "Deka Voice",
       "file": "missing/D/64928-deka-voice.json"
@@ -149206,6 +149251,11 @@
       "igdb_id": 319816,
       "game_name": "Delta",
       "file": "missing/D/319816-delta.json"
+    },
+    {
+      "igdb_id": 416726,
+      "game_name": "Delta 4: Terminal Protocol",
+      "file": "missing/D/416726-delta-4-terminal-protocol.json"
     },
     {
       "igdb_id": 183339,
@@ -152833,6 +152883,11 @@
       "file": "missing/D/221819-detective-clean.json"
     },
     {
+      "igdb_id": 416774,
+      "game_name": "Detective Club: Carnival of Secrets - Collector's Edition",
+      "file": "missing/D/416774-detective-club-carnival-of-secrets-collectors-edition.json"
+    },
+    {
       "igdb_id": 416699,
       "game_name": "Detective Club: Gallery of Shadows",
       "file": "missing/D/416699-detective-club-gallery-of-shadows.json"
@@ -155291,6 +155346,11 @@
       "igdb_id": 153891,
       "game_name": "Die Like a Hero",
       "file": "missing/D/153891-die-like-a-hero.json"
+    },
+    {
+      "igdb_id": 416777,
+      "game_name": "Die Meeple",
+      "file": "missing/D/416777-die-meeple.json"
     },
     {
       "igdb_id": 214161,
@@ -181573,6 +181633,11 @@
       "file": "missing/E/328265-eclectic-shell.json"
     },
     {
+      "igdb_id": 416717,
+      "game_name": "Eclesiar",
+      "file": "missing/E/416717-eclesiar.json"
+    },
+    {
       "igdb_id": 172192,
       "game_name": "Eclipse",
       "file": "missing/E/172192-eclipse.json"
@@ -182336,6 +182401,11 @@
       "igdb_id": 301847,
       "game_name": "Eerie Excavation",
       "file": "missing/E/301847-eerie-excavation.json"
+    },
+    {
+      "igdb_id": 416775,
+      "game_name": "Eerie Night: Escape from the Funfair - Collector's Edition",
+      "file": "missing/E/416775-eerie-night-escape-from-the-funfair-collectors-edition.json"
     },
     {
       "igdb_id": 351704,
@@ -193033,6 +193103,11 @@
       "file": "missing/E/148488-eternity-guards.json"
     },
     {
+      "igdb_id": 416770,
+      "game_name": "Eternity Lost: Mystery of Aurum - Collector's Edition",
+      "file": "missing/E/416770-eternity-lost-mystery-of-aurum-collectors-edition.json"
+    },
+    {
       "igdb_id": 38502,
       "game_name": "Eternity Warriors",
       "file": "missing/E/38502-eternity-warriors.json"
@@ -195736,6 +195811,11 @@
       "igdb_id": 192395,
       "game_name": "Ex Natura: Nature Corrupted",
       "file": "missing/E/192395-ex-natura-nature-corrupted.json"
+    },
+    {
+      "igdb_id": 416747,
+      "game_name": "Ex Nihilo",
+      "file": "missing/E/416747-ex-nihilo.json"
     },
     {
       "igdb_id": 61148,
@@ -205633,6 +205713,11 @@
       "file": "missing/F/414362-fate-grand-order-epic-of-remnant-iv-salem.json"
     },
     {
+      "igdb_id": 416642,
+      "game_name": "Fate/Grand Order: Naraka Mandala - Heian-kyo",
+      "file": "missing/F/416642-fate-grand-order-naraka-mandala-heian-kyo.json"
+    },
+    {
       "igdb_id": 414359,
       "game_name": "Fate/Grand Order: Ordeal Call I - Paper Moon",
       "file": "missing/F/414359-fate-grand-order-ordeal-call-i-paper-moon.json"
@@ -207261,6 +207346,11 @@
       "igdb_id": 386869,
       "game_name": "Festival Journey: Highland Dreams - Collector's Edition",
       "file": "missing/F/386869-festival-journey-highland-dreams-collectors-edition.json"
+    },
+    {
+      "igdb_id": 416786,
+      "game_name": "Festival Journey: Secrets of Rio - Collector's Edition",
+      "file": "missing/F/416786-festival-journey-secrets-of-rio-collectors-edition.json"
     },
     {
       "igdb_id": 350490,
@@ -235583,6 +235673,11 @@
       "file": "missing/G/368117-gay-guys.json"
     },
     {
+      "igdb_id": 416763,
+      "game_name": "Gay It Loud",
+      "file": "missing/G/416763-gay-it-loud.json"
+    },
+    {
       "igdb_id": 304857,
       "game_name": "Gay Sex Adventures: Episode 8",
       "file": "missing/G/304857-gay-sex-adventures-episode-8.json"
@@ -256243,6 +256338,11 @@
       "file": "missing/H/88445-h-solitaire.json"
     },
     {
+      "igdb_id": 416728,
+      "game_name": "H to Maid to Mujintou",
+      "file": "missing/H/416728-h-to-maid-to-mujintou.json"
+    },
+    {
       "igdb_id": 413760,
       "game_name": "H to Maid to My Home",
       "file": "missing/H/413760-h-to-maid-to-my-home.json"
@@ -271853,6 +271953,11 @@
       "file": "missing/H/343784-hidden-lands.json"
     },
     {
+      "igdb_id": 416709,
+      "game_name": "Hidden Legacy: Dark Heirloom",
+      "file": "missing/H/416709-hidden-legacy-dark-heirloom.json"
+    },
+    {
       "igdb_id": 360637,
       "game_name": "Hidden Legacy: Dark Heirloom - Collector's Edition",
       "file": "missing/H/360637-hidden-legacy-dark-heirloom-collectors-edition.json"
@@ -287156,6 +287261,11 @@
       "igdb_id": 242822,
       "game_name": "I Was in the War",
       "file": "missing/I/242822-i-was-in-the-war.json"
+    },
+    {
+      "igdb_id": 416738,
+      "game_name": "I Was Late Because A Dry-Eyed Alien Stole My Pen!",
+      "file": "missing/I/416738-i-was-late-because-a-dry-eyed-alien-stole-my-pen.json"
     },
     {
       "igdb_id": 203245,
@@ -306926,6 +307036,11 @@
       "igdb_id": 362853,
       "game_name": "Jixo 3: Hidden Horizons - Collector's Edition",
       "file": "missing/J/362853-jixo-3-hidden-horizons-collectors-edition.json"
+    },
+    {
+      "igdb_id": 416784,
+      "game_name": "Jixo 4: Magical Nights - Collector’s Edition",
+      "file": "missing/J/416784-jixo-4-magical-nights-collector-s-edition.json"
     },
     {
       "igdb_id": 337282,
@@ -332648,6 +332763,11 @@
       "file": "missing/L/157175-legendary-tales.json"
     },
     {
+      "igdb_id": 416783,
+      "game_name": "Legendary Tales V: Price of Power - Collector's Edition",
+      "file": "missing/L/416783-legendary-tales-v-price-of-power-collectors-edition.json"
+    },
+    {
       "igdb_id": 186322,
       "game_name": "Legendary Tales: Cataclysm",
       "file": "missing/L/186322-legendary-tales-cataclysm.json"
@@ -338276,6 +338396,11 @@
       "igdb_id": 319013,
       "game_name": "Limbus Company: Season 5 - Oblivion",
       "file": "missing/L/319013-limbus-company-season-5-oblivion.json"
+    },
+    {
+      "igdb_id": 416722,
+      "game_name": "Limbus Company: Season 8 - Punctum",
+      "file": "missing/L/416722-limbus-company-season-8-punctum.json"
     },
     {
       "igdb_id": 352213,
@@ -368543,6 +368668,21 @@
       "file": "missing/M/70361-megaspectre.json"
     },
     {
+      "igdb_id": 416600,
+      "game_name": "Megasuki!: Kanojo to Boku no Megane Jijou - Amou Haruka-hen",
+      "file": "missing/M/416600-megasuki-kanojo-to-boku-no-megane-jijou-amou-haruka-hen.json"
+    },
+    {
+      "igdb_id": 416602,
+      "game_name": "Megasuki!: Kanojo to Boku no Megane Jijou - Azumino G Sakurako-hen",
+      "file": "missing/M/416602-megasuki-kanojo-to-boku-no-megane-jijou-azumino-g-sakurako-hen.json"
+    },
+    {
+      "igdb_id": 416603,
+      "game_name": "Megasuki!: Kanojo to Boku no Megane Jijou - Toono Shiori-hen",
+      "file": "missing/M/416603-megasuki-kanojo-to-boku-no-megane-jijou-toono-shiori-hen.json"
+    },
+    {
       "igdb_id": 38576,
       "game_name": "Megatack",
       "file": "missing/M/38576-megatack.json"
@@ -368766,6 +368906,11 @@
       "igdb_id": 170375,
       "game_name": "Mei Qi: Season 6",
       "file": "missing/M/170375-mei-qi-season-6.json"
+    },
+    {
+      "igdb_id": 416759,
+      "game_name": "Meian",
+      "file": "missing/M/416759-meian.json"
     },
     {
       "igdb_id": 97673,
@@ -410118,6 +410263,11 @@
       "file": "missing/N/109747-night-magic.json"
     },
     {
+      "igdb_id": 416767,
+      "game_name": "Night Maniac: The Origin Of Steven",
+      "file": "missing/N/416767-night-maniac-the-origin-of-steven.json"
+    },
+    {
       "igdb_id": 25138,
       "game_name": "Night Mission Pinball",
       "file": "missing/N/25138-night-mission-pinball.json"
@@ -418216,6 +418366,11 @@
       "igdb_id": 133220,
       "game_name": "Nyanco Space",
       "file": "missing/N/133220-nyanco-space.json"
+    },
+    {
+      "igdb_id": 416750,
+      "game_name": "Nyancrement",
+      "file": "missing/N/416750-nyancrement.json"
     },
     {
       "igdb_id": 205096,
@@ -459953,6 +460108,11 @@
       "file": "missing/P/98223-pongis.json"
     },
     {
+      "igdb_id": 416654,
+      "game_name": "Pongis 2",
+      "file": "missing/P/416654-pongis-2.json"
+    },
+    {
       "igdb_id": 126000,
       "game_name": "Pongis Jump",
       "file": "missing/P/126000-pongis-jump.json"
@@ -465708,6 +465868,11 @@
       "file": "missing/P/285470-prisoners.json"
     },
     {
+      "igdb_id": 416713,
+      "game_name": "Prisoners Chess",
+      "file": "missing/P/416713-prisoners-chess.json"
+    },
+    {
       "igdb_id": 333358,
       "game_name": "Prisoners of Ulag'Bol",
       "file": "missing/P/333358-prisoners-of-ulagbol.json"
@@ -469323,6 +469488,11 @@
       "file": "missing/P/39195-prop-hunt-portable.json"
     },
     {
+      "igdb_id": 416793,
+      "game_name": "Prop Revolt",
+      "file": "missing/P/416793-prop-revolt.json"
+    },
+    {
       "igdb_id": 355620,
       "game_name": "Prop Sumo",
       "file": "missing/P/355620-prop-sumo.json"
@@ -472763,6 +472933,11 @@
       "file": "missing/P/367944-puyo-sokoban.json"
     },
     {
+      "igdb_id": 416601,
+      "game_name": "Puzigo",
+      "file": "missing/P/416601-puzigo.json"
+    },
+    {
       "igdb_id": 68930,
       "game_name": "Puzkend",
       "file": "missing/P/68930-puzkend.json"
@@ -474006,6 +474181,11 @@
       "igdb_id": 157039,
       "game_name": "Puzzletronics Digital Infinite",
       "file": "missing/P/157039-puzzletronics-digital-infinite.json"
+    },
+    {
+      "igdb_id": 416764,
+      "game_name": "Puzzlez: A Shapez Game",
+      "file": "missing/P/416764-puzzlez-a-shapez-game.json"
     },
     {
       "igdb_id": 224541,
@@ -480936,6 +481116,11 @@
       "igdb_id": 404255,
       "game_name": "Raise-a-Wish",
       "file": "missing/R/404255-raise-a-wish.json"
+    },
+    {
+      "igdb_id": 416734,
+      "game_name": "Raise, Rise & Die",
+      "file": "missing/R/416734-raise-rise-and-die.json"
     },
     {
       "igdb_id": 222500,
@@ -526253,6 +526438,11 @@
       "file": "missing/S/413045-she-is.json"
     },
     {
+      "igdb_id": 416718,
+      "game_name": "She Never Left",
+      "file": "missing/S/416718-she-never-left.json"
+    },
+    {
       "igdb_id": 50511,
       "game_name": "She Save",
       "file": "missing/S/50511-she-save.json"
@@ -557218,6 +557408,11 @@
       "file": "missing/S/311594-spellarium-11.json"
     },
     {
+      "igdb_id": 416771,
+      "game_name": "Spellarium 14: Collector's Edition",
+      "file": "missing/S/416771-spellarium-14-collectors-edition.json"
+    },
+    {
       "igdb_id": 298089,
       "game_name": "Spellarium 2",
       "file": "missing/S/298089-spellarium-2.json"
@@ -560116,6 +560311,11 @@
       "igdb_id": 418536,
       "game_name": "Spooky Dwellers 4",
       "file": "missing/S/418536-spooky-dwellers-4.json"
+    },
+    {
+      "igdb_id": 416773,
+      "game_name": "Spooky Dwellers 5: Collector's Edition",
+      "file": "missing/S/416773-spooky-dwellers-5-collectors-edition.json"
     },
     {
       "igdb_id": 219681,
@@ -604143,6 +604343,11 @@
       "file": "missing/T/262538-thank-goodness-youre-here.json"
     },
     {
+      "igdb_id": 416605,
+      "game_name": "Thank You Bus Driver",
+      "file": "missing/T/416605-thank-you-bus-driver.json"
+    },
+    {
       "igdb_id": 312791,
       "game_name": "Thank You For Your Application",
       "file": "missing/T/312791-thank-you-for-your-application.json"
@@ -609241,6 +609446,11 @@
       "igdb_id": 238210,
       "game_name": "The Collector",
       "file": "missing/T/238210-the-collector.json"
+    },
+    {
+      "igdb_id": 416776,
+      "game_name": "The Collector’s Curio Cabinet: Toy Soldiers",
+      "file": "missing/T/416776-the-collector-s-curio-cabinet-toy-soldiers.json"
     },
     {
       "igdb_id": 306485,
@@ -616338,6 +616548,11 @@
       "file": "missing/T/264355-the-harlem-shake-vs-gangnam-dance-game.json"
     },
     {
+      "igdb_id": 416708,
+      "game_name": "The Harmony Chronicles: Cat Out of the Bag",
+      "file": "missing/T/416708-the-harmony-chronicles-cat-out-of-the-bag.json"
+    },
+    {
       "igdb_id": 319771,
       "game_name": "The Harmony Chronicles: Chaos Realms - Collector's Edition",
       "file": "missing/T/319771-the-harmony-chronicles-chaos-realms-collectors-edition.json"
@@ -617451,6 +617666,11 @@
       "igdb_id": 97876,
       "game_name": "The Idolmaster: Shiny Colors",
       "file": "missing/T/97876-the-idolmaster-shiny-colors.json"
+    },
+    {
+      "igdb_id": 416719,
+      "game_name": "The Idolmaster: Shiny Colors - A.X.E.8: Illumination Stars",
+      "file": "missing/T/416719-the-idolmaster-shiny-colors-a-x-e-8-illumination-stars.json"
     },
     {
       "igdb_id": 248115,
@@ -619471,6 +619691,11 @@
       "igdb_id": 221115,
       "game_name": "The Land Beneath Us",
       "file": "missing/T/221115-the-land-beneath-us.json"
+    },
+    {
+      "igdb_id": 416757,
+      "game_name": "The Land Beyond the Forest",
+      "file": "missing/T/416757-the-land-beyond-the-forest.json"
     },
     {
       "igdb_id": 381730,
@@ -624081,6 +624306,11 @@
       "igdb_id": 405582,
       "game_name": "The Ministry for Anomaly Observation",
       "file": "missing/T/405582-the-ministry-for-anomaly-observation.json"
+    },
+    {
+      "igdb_id": 416606,
+      "game_name": "The Miracle Of San Martin",
+      "file": "missing/T/416606-the-miracle-of-san-martin.json"
     },
     {
       "igdb_id": 25057,
@@ -634771,6 +635001,11 @@
       "igdb_id": 377077,
       "game_name": "The Unseen Fears: Body Thief - Collector's Edition",
       "file": "missing/T/377077-the-unseen-fears-body-thief-collectors-edition.json"
+    },
+    {
+      "igdb_id": 416788,
+      "game_name": "The Unseen Fears: Inner Darkness - Collector's Edition",
+      "file": "missing/T/416788-the-unseen-fears-inner-darkness-collectors-edition.json"
     },
     {
       "igdb_id": 187937,
@@ -648198,6 +648433,11 @@
       "file": "missing/T/254754-to-be-a-king-volume-1.json"
     },
     {
+      "igdb_id": 416765,
+      "game_name": "To Be Besieged",
+      "file": "missing/T/416765-to-be-besieged.json"
+    },
+    {
       "igdb_id": 289941,
       "game_name": "To Be In Love With Girls Group",
       "file": "missing/T/289941-to-be-in-love-with-girls-group.json"
@@ -651516,6 +651756,11 @@
       "igdb_id": 204449,
       "game_name": "Too Hot to Handle: Love is a Game",
       "file": "missing/T/204449-too-hot-to-handle-love-is-a-game.json"
+    },
+    {
+      "igdb_id": 416739,
+      "game_name": "Too Hot to Hold",
+      "file": "missing/T/416739-too-hot-to-hold.json"
     },
     {
       "igdb_id": 292152,
@@ -678816,6 +679061,11 @@
       "igdb_id": 311108,
       "game_name": "Vacation Adventures: Park Ranger 16 - Collectors Edition",
       "file": "missing/V/311108-vacation-adventures-park-ranger-16-collectors-edition.json"
+    },
+    {
+      "igdb_id": 416779,
+      "game_name": "Vacation Adventures: Park Ranger 18 - Collectors Edition",
+      "file": "missing/V/416779-vacation-adventures-park-ranger-18-collectors-edition.json"
     },
     {
       "igdb_id": 85465,
