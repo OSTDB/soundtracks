@@ -2401,6 +2401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remnant Protocol | 236496 | [236496-remnant-protocol.json](./236496-remnant-protocol.json) |
 | Remnant: From the Ashes - Swamps of Corsus | 132138 | [132138-remnant-from-the-ashes-swamps-of-corsus.json](./132138-remnant-from-the-ashes-swamps-of-corsus.json) |
 | Remnants | 168318 | [168318-remnants.json](./168318-remnants.json) |
+| Remnants of a Scare | 387611 | [387611-remnants-of-a-scare.json](./387611-remnants-of-a-scare.json) |
 | Remnants of Flesh | 322608 | [322608-remnants-of-flesh.json](./322608-remnants-of-flesh.json) |
 | Remnants of Isolation | 28032 | [28032-remnants-of-isolation.json](./28032-remnants-of-isolation.json) |
 | Remnants of Naezith | 29520 | [29520-remnants-of-naezith.json](./29520-remnants-of-naezith.json) |
@@ -4734,6 +4735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rodea the Sky Soldier | 138792 | [138792-rodea-the-sky-soldier.json](./138792-rodea-the-sky-soldier.json) |
 | Rodea the Sky Soldier: Launch Day Edition | 89892 | [89892-rodea-the-sky-soldier-launch-day-edition.json](./89892-rodea-the-sky-soldier-launch-day-edition.json) |
 | Rodea: The Sky Soldier Limited Edition | 51188 | [51188-rodea-the-sky-soldier-limited-edition.json](./51188-rodea-the-sky-soldier-limited-edition.json) |
+| Rodent Company | 387587 | [387587-rodent-company.json](./387587-rodent-company.json) |
 | Rodent Rampage | 393127 | [393127-rodent-rampage.json](./393127-rodent-rampage.json) |
 | Rodent Retribution | 275707 | [275707-rodent-retribution.json](./275707-rodent-retribution.json) |
 | Rodent Rumble | 272943 | [272943-rodent-rumble.json](./272943-rodent-rumble.json) |
