@@ -1393,6 +1393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schnappi: 3 Fun-Games | 96526 | [96526-schnappi-3-fun-games.json](./96526-schnappi-3-fun-games.json) |
 | Schola Spiritus | 383358 | [383358-schola-spiritus.json](./383358-schola-spiritus.json) |
 | Scholar | 200431 | [200431-scholar.json](./200431-scholar.json) |
+| Scholar Adventure: Lost Night | 418529 | [418529-scholar-adventure-lost-night.json](./418529-scholar-adventure-lost-night.json) |
 | Scholar Adventure: Mystery of Silence | 361808 | [361808-scholar-adventure-mystery-of-silence.json](./361808-scholar-adventure-mystery-of-silence.json) |
 | Scholar of the Arcane Arts | 188615 | [188615-scholar-of-the-arcane-arts.json](./188615-scholar-of-the-arcane-arts.json) |
 | Scholastic Animal Genius | 91744 | [91744-scholastic-animal-genius.json](./91744-scholastic-animal-genius.json) |
@@ -4634,7 +4635,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization VI: Mona Megistus Pack | 278742 | [278742-sid-meiers-civilization-vi-mona-megistus-pack.json](./278742-sid-meiers-civilization-vi-mona-megistus-pack.json) |
 | Sid Meier's Civilization VI: Yorha Squadron Pack | 276781 | [276781-sid-meiers-civilization-vi-yorha-squadron-pack.json](./276781-sid-meiers-civilization-vi-yorha-squadron-pack.json) |
 | Sid Meier's Civilization VII: Arcade Edition | 385294 | [385294-sid-meiers-civilization-vii-arcade-edition.json](./385294-sid-meiers-civilization-vii-arcade-edition.json) |
+| Sid Meier's Civilization VII: Brush and Blade Collection | 418585 | [418585-sid-meiers-civilization-vii-brush-and-blade-collection.json](./418585-sid-meiers-civilization-vii-brush-and-blade-collection.json) |
+| Sid Meier's Civilization VII: Brush and Blade Collection - Wonder Pack | 418584 | [418584-sid-meiers-civilization-vii-brush-and-blade-collection-wonder-pack.json](./418584-sid-meiers-civilization-vii-brush-and-blade-collection-wonder-pack.json) |
 | Sid Meier's Civilization VII: Deluxe Edition | 315854 | [315854-sid-meiers-civilization-vii-deluxe-edition.json](./315854-sid-meiers-civilization-vii-deluxe-edition.json) |
+| Sid Meier's Civilization VII: Earthrise | 418583 | [418583-sid-meiers-civilization-vii-earthrise.json](./418583-sid-meiers-civilization-vii-earthrise.json) |
 | Sid Meier's Civilization VII: Founders Edition | 315853 | [315853-sid-meiers-civilization-vii-founders-edition.json](./315853-sid-meiers-civilization-vii-founders-edition.json) |
 | Sid Meier's Civilization VII: Heian Japan Pack | 411598 | [411598-sid-meiers-civilization-vii-heian-japan-pack.json](./411598-sid-meiers-civilization-vii-heian-japan-pack.json) |
 | Sid Meier's Civilization VII: Sengoku Japan Pack | 411599 | [411599-sid-meiers-civilization-vii-sengoku-japan-pack.json](./411599-sid-meiers-civilization-vii-sengoku-japan-pack.json) |
@@ -6253,6 +6257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Jumper | 34316 | [34316-slime-jumper.json](./34316-slime-jumper.json) |
 | Slime Killer | 163910 | [163910-slime-killer.json](./163910-slime-killer.json) |
 | Slime Kingdom | 102192 | [102192-slime-kingdom.json](./102192-slime-kingdom.json) |
+| Slime Lab | 418582 | [418582-slime-lab.json](./418582-slime-lab.json) |
 | Slime Labs | 152791 | [152791-slime-labs.json](./152791-slime-labs.json) |
 | Slime Land Adventures | 220056 | [220056-slime-land-adventures.json](./220056-slime-land-adventures.json) |
 | Slime Legion | 242238 | [242238-slime-legion.json](./242238-slime-legion.json) |
@@ -10378,6 +10383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Castle | 47235 | [47235-spooky-castle.json](./47235-spooky-castle.json) |
 | Spooky Chase | 136485 | [136485-spooky-chase.json](./136485-spooky-chase.json) |
 | Spooky Dwellers 2: Collector's Edition | 272350 | [272350-spooky-dwellers-2-collectors-edition.json](./272350-spooky-dwellers-2-collectors-edition.json) |
+| Spooky Dwellers 4 | 418536 | [418536-spooky-dwellers-4.json](./418536-spooky-dwellers-4.json) |
 | Spooky Halloween in the Voxel World | 219681 | [219681-spooky-halloween-in-the-voxel-world.json](./219681-spooky-halloween-in-the-voxel-world.json) |
 | Spooky Hoofs | 90394 | [90394-spooky-hoofs.json](./90394-spooky-hoofs.json) |
 | Spooky House | 179715 | [179715-spooky-house.json](./179715-spooky-house.json) |
@@ -12131,6 +12137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Worker | 299481 | [299481-steel-worker.json](./299481-steel-worker.json) |
 | Steel Wound | 217310 | [217310-steel-wound.json](./217310-steel-wound.json) |
 | SteelBlade Shop Simulator | 382322 | [382322-steelblade-shop-simulator.json](./382322-steelblade-shop-simulator.json) |
+| Steelborn: Tank Idle RPG | 418517 | [418517-steelborn-tank-idle-rpg.json](./418517-steelborn-tank-idle-rpg.json) |
 | Steelpaw | 124141 | [124141-steelpaw.json](./124141-steelpaw.json) |
 | SteelPinion | 192703 | [192703-steelpinion.json](./192703-steelpinion.json) |
 | SteelRacer | 250939 | [250939-steelracer.json](./250939-steelracer.json) |
@@ -12450,6 +12457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stikir | 110941 | [110941-stikir.json](./110941-stikir.json) |
 | Still Alive DS | 270389 | [270389-still-alive-ds.json](./270389-still-alive-ds.json) |
 | Still Alive: Hollowed Horizon | 355075 | [355075-still-alive-hollowed-horizon.json](./355075-still-alive-hollowed-horizon.json) |
+| Still Breathing | 418545 | [418545-still-breathing.json](./418545-still-breathing.json) |
 | Still Dark at Dawn | 111028 | [111028-still-dark-at-dawn.json](./111028-still-dark-at-dawn.json) |
 | Still Here... Flight Adventure | 99178 | [99178-still-here-flight-adventure.json](./99178-still-here-flight-adventure.json) |
 | Still Heroes | 197963 | [197963-still-heroes.json](./197963-still-heroes.json) |
@@ -16242,6 +16250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweetheart | 415166 | [415166-sweetheart.json](./415166-sweetheart.json) |
 | Sweetie Candy Maze: Blackberry | 412383 | [412383-sweetie-candy-maze-blackberry.json](./412383-sweetie-candy-maze-blackberry.json) |
 | Sweetie Candy Maze: Brown Chocolate | 398322 | [398322-sweetie-candy-maze-brown-chocolate.json](./398322-sweetie-candy-maze-brown-chocolate.json) |
+| Sweetie Candy Maze: Crimson Strawberry | 418576 | [418576-sweetie-candy-maze-crimson-strawberry.json](./418576-sweetie-candy-maze-crimson-strawberry.json) |
 | Sweetie Candy Maze: Lime | 399728 | [399728-sweetie-candy-maze-lime.json](./399728-sweetie-candy-maze-lime.json) |
 | Sweetie Candy Maze: Purple Grape | 379041 | [379041-sweetie-candy-maze-purple-grape.json](./379041-sweetie-candy-maze-purple-grape.json) |
 | Sweetie Candy Maze: Red Cherry | 359517 | [359517-sweetie-candy-maze-red-cherry.json](./359517-sweetie-candy-maze-red-cherry.json) |
