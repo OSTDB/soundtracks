@@ -293,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I was here | 68681 | [68681-i-was-here.json](./68681-i-was-here.json) |
 | I Was Here | 179047 | [179047-i-was-here.json](./179047-i-was-here.json) |
 | I Was in the War | 242822 | [242822-i-was-in-the-war.json](./242822-i-was-in-the-war.json) |
+| I Was Late Because A Dry-Eyed Alien Stole My Pen! | 416738 | [416738-i-was-late-because-a-dry-eyed-alien-stole-my-pen.json](./416738-i-was-late-because-a-dry-eyed-alien-stole-my-pen.json) |
 | I Was Lost | 203245 | [203245-i-was-lost.json](./203245-i-was-lost.json) |
 | I Was Wrong | 207499 | [207499-i-was-wrong.json](./207499-i-was-wrong.json) |
 | I Will Be Your Eyes | 126649 | [126649-i-will-be-your-eyes.json](./126649-i-will-be-your-eyes.json) |
