@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T19:57:14.861Z",
-  "total_missing": 146226,
+  "generated_at": "2026-09-30T20:03:22.828Z",
+  "total_missing": 146276,
   "games": [
     {
       "igdb_id": 186066,
@@ -17921,6 +17921,11 @@
       "igdb_id": 45430,
       "game_name": "Airs Adventure",
       "file": "missing/A/45430-airs-adventure.json"
+    },
+    {
+      "igdb_id": 396536,
+      "game_name": "Airship 2: Kingdoms Ablaze",
+      "file": "missing/A/396536-airship-2-kingdoms-ablaze.json"
     },
     {
       "igdb_id": 231336,
@@ -60173,6 +60178,11 @@
       "file": "missing/B/251598-beat-them-up-street-fight-band-simulator.json"
     },
     {
+      "igdb_id": 396495,
+      "game_name": "Beat This Game To See Hot Lady",
+      "file": "missing/B/396495-beat-this-game-to-see-hot-lady.json"
+    },
+    {
       "igdb_id": 91439,
       "game_name": "Beat Time",
       "file": "missing/B/91439-beat-time.json"
@@ -80343,6 +80353,11 @@
       "file": "missing/B/29054-boxplosion.json"
     },
     {
+      "igdb_id": 396520,
+      "game_name": "Boxroom",
+      "file": "missing/B/396520-boxroom.json"
+    },
+    {
       "igdb_id": 107901,
       "game_name": "BoxRunner",
       "file": "missing/B/107901-boxrunner.json"
@@ -85301,6 +85316,11 @@
       "igdb_id": 87321,
       "game_name": "Bubble Crackle",
       "file": "missing/B/87321-bubble-crackle.json"
+    },
+    {
+      "igdb_id": 396487,
+      "game_name": "Bubble de House de OOO: Ofuro Maker no Showroom ga Sharehouse de...",
+      "file": "missing/B/396487-bubble-de-house-de-ooo-ofuro-maker-no-showroom-ga-sharehouse-de.json"
     },
     {
       "igdb_id": 183341,
@@ -114911,6 +114931,11 @@
       "igdb_id": 8453,
       "game_name": "Code Lyoko: Get Ready to Virtualize",
       "file": "missing/C/8453-code-lyoko-get-ready-to-virtualize.json"
+    },
+    {
+      "igdb_id": 396524,
+      "game_name": "Code My Robot Vacuum",
+      "file": "missing/C/396524-code-my-robot-vacuum.json"
     },
     {
       "igdb_id": 292307,
@@ -156311,6 +156336,11 @@
       "igdb_id": 217006,
       "game_name": "Dice Guy",
       "file": "missing/D/217006-dice-guy.json"
+    },
+    {
+      "igdb_id": 396504,
+      "game_name": "Dice Heroes",
+      "file": "missing/D/396504-dice-heroes.json"
     },
     {
       "igdb_id": 379013,
@@ -207478,6 +207508,11 @@
       "file": "missing/F/413153-fat-fat-evil-cat.json"
     },
     {
+      "igdb_id": 396530,
+      "game_name": "Fat Fleet",
+      "file": "missing/F/396530-fat-fleet.json"
+    },
+    {
       "igdb_id": 82002,
       "game_name": "Fat Foods",
       "file": "missing/F/82002-fat-foods.json"
@@ -222213,6 +222248,11 @@
       "file": "missing/F/183379-for-madman-only.json"
     },
     {
+      "igdb_id": 396500,
+      "game_name": "For Me",
+      "file": "missing/F/396500-for-me.json"
+    },
+    {
       "igdb_id": 270770,
       "game_name": "For My Babies",
       "file": "missing/F/270770-for-my-babies.json"
@@ -227281,6 +227321,11 @@
       "igdb_id": 316098,
       "game_name": "Freeland",
       "file": "missing/F/316098-freeland.json"
+    },
+    {
+      "igdb_id": 396529,
+      "game_name": "Freelands",
+      "file": "missing/F/396529-freelands.json"
     },
     {
       "igdb_id": 404923,
@@ -272358,6 +272403,11 @@
       "file": "missing/H/74363-heros-descent.json"
     },
     {
+      "igdb_id": 396481,
+      "game_name": "Hero's Destiny",
+      "file": "missing/H/396481-heros-destiny.json"
+    },
+    {
       "igdb_id": 157706,
       "game_name": "Hero's Everyday Life",
       "file": "missing/H/157706-heros-everyday-life.json"
@@ -280528,6 +280578,11 @@
       "file": "missing/H/105508-homestar-vr.json"
     },
     {
+      "igdb_id": 396492,
+      "game_name": "Homestay à la Mode",
+      "file": "missing/H/396492-homestay-a-la-mode.json"
+    },
+    {
       "igdb_id": 217635,
       "game_name": "Homestead Arcana",
       "file": "missing/H/217635-homestead-arcana.json"
@@ -282901,6 +282956,11 @@
       "igdb_id": 269869,
       "game_name": "Hoshi wo Miru Hito: Bad Ebuna Patch 2",
       "file": "missing/H/269869-hoshi-wo-miru-hito-bad-ebuna-patch-2.json"
+    },
+    {
+      "igdb_id": 396476,
+      "game_name": "Hoshiwari x Yoizanai",
+      "file": "missing/H/396476-hoshiwari-x-yoizanai.json"
     },
     {
       "igdb_id": 144889,
@@ -316558,6 +316618,11 @@
       "file": "missing/K/130768-kamikuishiki-mura-monogatari.json"
     },
     {
+      "igdb_id": 396484,
+      "game_name": "Kamikura Hina no Himitsu: Gohoubi ha Watashi no Karada",
+      "file": "missing/K/396484-kamikura-hina-no-himitsu-gohoubi-ha-watashi-no-karada.json"
+    },
+    {
       "igdb_id": 118287,
       "game_name": "Kamimachi Site - Dating story",
       "file": "missing/K/118287-kamimachi-site-dating-story.json"
@@ -323561,6 +323626,11 @@
       "igdb_id": 243670,
       "game_name": "Kingsvein",
       "file": "missing/K/243670-kingsvein.json"
+    },
+    {
+      "igdb_id": 396493,
+      "game_name": "Kinguin: Become a Streaming Legend",
+      "file": "missing/K/396493-kinguin-become-a-streaming-legend.json"
     },
     {
       "igdb_id": 194939,
@@ -345218,6 +345288,11 @@
       "file": "missing/L/405618-lizard-slayer.json"
     },
     {
+      "igdb_id": 396531,
+      "game_name": "Lizard State",
+      "file": "missing/L/396531-lizard-state.json"
+    },
+    {
       "igdb_id": 369728,
       "game_name": "Lizard Survival Duo",
       "file": "missing/L/369728-lizard-survival-duo.json"
@@ -365678,6 +365753,11 @@
       "file": "missing/M/29424-mastema-out-of-hell.json"
     },
     {
+      "igdb_id": 396522,
+      "game_name": "Master Alchemist Simulator",
+      "file": "missing/M/396522-master-alchemist-simulator.json"
+    },
+    {
       "igdb_id": 185544,
       "game_name": "Master Archer",
       "file": "missing/M/185544-master-archer.json"
@@ -374606,6 +374686,11 @@
       "igdb_id": 118799,
       "game_name": "Meowk and Frocco",
       "file": "missing/M/118799-meowk-and-frocco.json"
+    },
+    {
+      "igdb_id": 396494,
+      "game_name": "Meowker: Desktop Cat Companion",
+      "file": "missing/M/396494-meowker-desktop-cat-companion.json"
     },
     {
       "igdb_id": 283724,
@@ -419358,6 +419443,11 @@
       "file": "missing/N/287726-node-the-last-favor-of-the-antarii.json"
     },
     {
+      "igdb_id": 396526,
+      "game_name": "NodeCore",
+      "file": "missing/N/396526-nodecore.json"
+    },
+    {
       "igdb_id": 397255,
       "game_name": "Nodemind: Dynamic Core",
       "file": "missing/N/397255-nodemind-dynamic-core.json"
@@ -462483,6 +462573,11 @@
       "file": "missing/P/334655-pokemon-hg-ss-golden-edition.json"
     },
     {
+      "igdb_id": 396514,
+      "game_name": "Pokémon Hoenn's Last Wish",
+      "file": "missing/P/396514-pokemon-hoenns-last-wish.json"
+    },
+    {
       "igdb_id": 141960,
       "game_name": "Pokémon Home",
       "file": "missing/P/141960-pokemon-home.json"
@@ -473938,6 +474033,11 @@
       "file": "missing/P/395571-project-catalepsy.json"
     },
     {
+      "igdb_id": 396528,
+      "game_name": "Project: Colt",
+      "file": "missing/P/396528-project-colt.json"
+    },
+    {
       "igdb_id": 220658,
       "game_name": "Project: Dream",
       "file": "missing/P/220658-project-dream.json"
@@ -475331,6 +475431,11 @@
       "igdb_id": 239734,
       "game_name": "Psycho Fear",
       "file": "missing/P/239734-psycho-fear.json"
+    },
+    {
+      "igdb_id": 396477,
+      "game_name": "Psycho Inn",
+      "file": "missing/P/396477-psycho-inn.json"
     },
     {
       "igdb_id": 30036,
@@ -477046,6 +477151,11 @@
       "igdb_id": 221700,
       "game_name": "Pure-hearted Gyaru and the Shape of Happiness",
       "file": "missing/P/221700-pure-hearted-gyaru-and-the-shape-of-happiness.json"
+    },
+    {
+      "igdb_id": 396498,
+      "game_name": "Purely x Cation",
+      "file": "missing/P/396498-purely-x-cation.json"
     },
     {
       "igdb_id": 23784,
@@ -515803,6 +515913,11 @@
       "file": "missing/S/301886-sakura-isekai-adventure-2.json"
     },
     {
+      "igdb_id": 396503,
+      "game_name": "Sakura Kanji Ketchi",
+      "file": "missing/S/396503-sakura-kanji-ketchi.json"
+    },
+    {
       "igdb_id": 137622,
       "game_name": "Sakura Knight 2",
       "file": "missing/S/137622-sakura-knight-2.json"
@@ -532973,6 +533088,11 @@
       "file": "missing/S/55839-shiin.json"
     },
     {
+      "igdb_id": 396485,
+      "game_name": "Shiina Maho no Himitsu: Name ha H de Omoitsukimasu",
+      "file": "missing/S/396485-shiina-maho-no-himitsu-name-ha-h-de-omoitsukimasu.json"
+    },
+    {
       "igdb_id": 320725,
       "game_name": "Shiina Taki's Decameron",
       "file": "missing/S/320725-shiina-takis-decameron.json"
@@ -534301,6 +534421,11 @@
       "igdb_id": 298166,
       "game_name": "Shipwrecked: Lost Colony",
       "file": "missing/S/298166-shipwrecked-lost-colony.json"
+    },
+    {
+      "igdb_id": 396491,
+      "game_name": "Shíqǔ Bǎoshí Hòu Yìwài Juéxǐngle Fùzhì Mówáng Lìliàng de Nì Tiān Jìnéng",
+      "file": "missing/S/396491-shiqu-baoshi-hou-yiwai-juexingle-fuzhi-mowang-liliang-de-ni-tian-jineng.json"
     },
     {
       "igdb_id": 65020,
@@ -540706,6 +540831,11 @@
       "igdb_id": 388053,
       "game_name": "Sintropia Fruits Together",
       "file": "missing/S/388053-sintropia-fruits-together.json"
+    },
+    {
+      "igdb_id": 396479,
+      "game_name": "Sinuca de Bar",
+      "file": "missing/S/396479-sinuca-de-bar.json"
     },
     {
       "igdb_id": 219141,
@@ -554941,6 +555071,11 @@
       "igdb_id": 337111,
       "game_name": "Sonic Riders Tournament Edition 2.0",
       "file": "missing/S/337111-sonic-riders-tournament-edition-2-0.json"
+    },
+    {
+      "igdb_id": 396533,
+      "game_name": "Sonic Riders: Tournament Edition",
+      "file": "missing/S/396533-sonic-riders-tournament-edition.json"
     },
     {
       "igdb_id": 299875,
@@ -576658,6 +576793,11 @@
       "file": "missing/S/41952-still-not-dead.json"
     },
     {
+      "igdb_id": 396499,
+      "game_name": "Still Room: I Miss You",
+      "file": "missing/S/396499-still-room-i-miss-you.json"
+    },
+    {
       "igdb_id": 415924,
       "game_name": "Still Rooms",
       "file": "missing/S/415924-still-rooms.json"
@@ -582816,6 +582956,11 @@
       "igdb_id": 61613,
       "game_name": "Suicide Adventures",
       "file": "missing/S/61613-suicide-adventures.json"
+    },
+    {
+      "igdb_id": 396523,
+      "game_name": "Suicide Drive",
+      "file": "missing/S/396523-suicide-drive.json"
     },
     {
       "igdb_id": 40963,
@@ -593803,6 +593948,11 @@
       "file": "missing/S/236795-survive-the-orcs.json"
     },
     {
+      "igdb_id": 396490,
+      "game_name": "Survive the Spin",
+      "file": "missing/S/396490-survive-the-spin.json"
+    },
+    {
       "igdb_id": 348784,
       "game_name": "Survive the Swarm",
       "file": "missing/S/348784-survive-the-swarm.json"
@@ -597056,6 +597206,11 @@
       "igdb_id": 323346,
       "game_name": "Sycamore",
       "file": "missing/S/323346-sycamore.json"
+    },
+    {
+      "igdb_id": 396497,
+      "game_name": "Sycophant",
+      "file": "missing/S/396497-sycophant.json"
     },
     {
       "igdb_id": 247483,
@@ -656093,6 +656248,11 @@
       "file": "missing/T/111715-toilet-simulator.json"
     },
     {
+      "igdb_id": 396525,
+      "game_name": "Toilet Treasures",
+      "file": "missing/T/396525-toilet-treasures.json"
+    },
+    {
       "igdb_id": 304586,
       "game_name": "Toilet Zone",
       "file": "missing/T/304586-toilet-zone.json"
@@ -660448,6 +660608,11 @@
       "file": "missing/T/32070-totem.json"
     },
     {
+      "igdb_id": 396483,
+      "game_name": "Totem",
+      "file": "missing/T/396483-totem.json"
+    },
+    {
       "igdb_id": 133974,
       "game_name": "Tôtem",
       "file": "missing/T/133974-totem.json"
@@ -662483,9 +662648,29 @@
       "file": "missing/T/195130-tower-words.json"
     },
     {
+      "igdb_id": 396509,
+      "game_name": "Tower! Simulator 3: CYVR Airport",
+      "file": "missing/T/396509-tower-simulator-3-cyvr-airport.json"
+    },
+    {
+      "igdb_id": 396511,
+      "game_name": "Tower! Simulator 3: EDDB Airport",
+      "file": "missing/T/396511-tower-simulator-3-eddb-airport.json"
+    },
+    {
       "igdb_id": 353327,
       "game_name": "Tower! Simulator 3: EDDF Airport",
       "file": "missing/T/353327-tower-simulator-3-eddf-airport.json"
+    },
+    {
+      "igdb_id": 396507,
+      "game_name": "Tower! Simulator 3: EDDH Airport",
+      "file": "missing/T/396507-tower-simulator-3-eddh-airport.json"
+    },
+    {
+      "igdb_id": 396515,
+      "game_name": "Tower! Simulator 3: EDDL Airport",
+      "file": "missing/T/396515-tower-simulator-3-eddl-airport.json"
     },
     {
       "igdb_id": 353313,
@@ -662501,6 +662686,11 @@
       "igdb_id": 353331,
       "game_name": "Tower! Simulator 3: EHAM Airport",
       "file": "missing/T/353331-tower-simulator-3-eham-airport.json"
+    },
+    {
+      "igdb_id": 396502,
+      "game_name": "Tower! Simulator 3: EHEH Airport",
+      "file": "missing/T/396502-tower-simulator-3-eheh-airport.json"
     },
     {
       "igdb_id": 288906,
@@ -662528,6 +662718,16 @@
       "file": "missing/T/353318-tower-simulator-3-kbos-airport.json"
     },
     {
+      "igdb_id": 396518,
+      "game_name": "Tower! Simulator 3: KDFW Airport",
+      "file": "missing/T/396518-tower-simulator-3-kdfw-airport.json"
+    },
+    {
+      "igdb_id": 396505,
+      "game_name": "Tower! Simulator 3: KEWR Airport",
+      "file": "missing/T/396505-tower-simulator-3-kewr-airport.json"
+    },
+    {
       "igdb_id": 298704,
       "game_name": "Tower! Simulator 3: KIAH Airport",
       "file": "missing/T/298704-tower-simulator-3-kiah-airport.json"
@@ -662536,6 +662736,11 @@
       "igdb_id": 298091,
       "game_name": "Tower! Simulator 3: KMCO Airport",
       "file": "missing/T/298091-tower-simulator-3-kmco-airport.json"
+    },
+    {
+      "igdb_id": 396508,
+      "game_name": "Tower! Simulator 3: KORD Airport",
+      "file": "missing/T/396508-tower-simulator-3-kord-airport.json"
     },
     {
       "igdb_id": 311097,
@@ -662563,6 +662768,16 @@
       "file": "missing/T/278505-tower-simulator-3-lebl-airport.json"
     },
     {
+      "igdb_id": 396506,
+      "game_name": "Tower! Simulator 3: LFPG Airport",
+      "file": "missing/T/396506-tower-simulator-3-lfpg-airport.json"
+    },
+    {
+      "igdb_id": 396512,
+      "game_name": "Tower! Simulator 3: LGAV Airport",
+      "file": "missing/T/396512-tower-simulator-3-lgav-airport.json"
+    },
+    {
       "igdb_id": 353325,
       "game_name": "Tower! Simulator 3: LSZH Airport",
       "file": "missing/T/353325-tower-simulator-3-lszh-airport.json"
@@ -662578,9 +662793,24 @@
       "file": "missing/T/236836-tower-simulator-3-omdb-airport.json"
     },
     {
+      "igdb_id": 396510,
+      "game_name": "Tower! Simulator 3: PANC Airport",
+      "file": "missing/T/396510-tower-simulator-3-panc-airport.json"
+    },
+    {
       "igdb_id": 310044,
       "game_name": "Tower! Simulator 3: RJTT Airport",
       "file": "missing/T/310044-tower-simulator-3-rjtt-airport.json"
+    },
+    {
+      "igdb_id": 396513,
+      "game_name": "Tower! Simulator 3: WSSS Airport",
+      "file": "missing/T/396513-tower-simulator-3-wsss-airport.json"
+    },
+    {
+      "igdb_id": 396516,
+      "game_name": "Tower! Simulator 3: ZSPD Airport",
+      "file": "missing/T/396516-tower-simulator-3-zspd-airport.json"
     },
     {
       "igdb_id": 33091,
@@ -665031,6 +665261,11 @@
       "igdb_id": 363370,
       "game_name": "Train Sim World 6",
       "file": "missing/T/363370-train-sim-world-6.json"
+    },
+    {
+      "igdb_id": 396521,
+      "game_name": "Train Sim World 6: BR Class 90 Electric Freight Loco",
+      "file": "missing/T/396521-train-sim-world-6-br-class-90-electric-freight-loco.json"
     },
     {
       "igdb_id": 412420,
@@ -679763,6 +679998,11 @@
       "file": "missing/U/81390-un-juego-de-huevos.json"
     },
     {
+      "igdb_id": 396527,
+      "game_name": "Un Paseo Por Villa Tronco",
+      "file": "missing/U/396527-un-paseo-por-villa-tronco.json"
+    },
+    {
       "igdb_id": 406843,
       "game_name": "Un Petit Noel",
       "file": "missing/U/406843-un-petit-noel.json"
@@ -679941,6 +680181,11 @@
       "igdb_id": 167249,
       "game_name": "Unbound",
       "file": "missing/U/167249-unbound.json"
+    },
+    {
+      "igdb_id": 396496,
+      "game_name": "Unbounded",
+      "file": "missing/U/396496-unbounded.json"
     },
     {
       "igdb_id": 304642,
@@ -720646,6 +720891,11 @@
       "igdb_id": 355013,
       "game_name": "Yahtzee! Wild",
       "file": "missing/Y/355013-yahtzee-wild.json"
+    },
+    {
+      "igdb_id": 396482,
+      "game_name": "Yakan Kouen",
+      "file": "missing/Y/396482-yakan-kouen.json"
     },
     {
       "igdb_id": 84934,
