@@ -4656,6 +4656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hornet the Vanguard | 303572 | [303572-hornet-the-vanguard.json](./303572-hornet-the-vanguard.json) |
 | Horns of Fear | 74436 | [74436-horns-of-fear.json](./74436-horns-of-fear.json) |
 | Horns of Justice | 211290 | [211290-horns-of-justice.json](./211290-horns-of-justice.json) |
+| Horny Academy | 390747 | [390747-horny-academy.json](./390747-horny-academy.json) |
 | Horny Alice: Gothic Run | 148341 | [148341-horny-alice-gothic-run.json](./148341-horny-alice-gothic-run.json) |
 | Horny Clinic | 226188 | [226188-horny-clinic.json](./226188-horny-clinic.json) |
 | Horny Dungeon | 272285 | [272285-horny-dungeon.json](./272285-horny-dungeon.json) |
