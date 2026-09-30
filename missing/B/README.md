@@ -2757,6 +2757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before You Die | 185434 | [185434-before-you-die.json](./185434-before-you-die.json) |
 | Before Your Eyes | 91477 | [91477-before-your-eyes.json](./91477-before-your-eyes.json) |
 | Befriendus | 179700 | [179700-befriendus.json](./179700-befriendus.json) |
+| Beggar Simulator: Istanbul | 413815 | [413815-beggar-simulator-istanbul.json](./413815-beggar-simulator-istanbul.json) |
 | Beggar to Emperor | 353367 | [353367-beggar-to-emperor.json](./353367-beggar-to-emperor.json) |
 | Beggar's Life | 391612 | [391612-beggars-life.json](./391612-beggars-life.json) |
 | Beggar's Road | 406195 | [406195-beggars-road.json](./406195-beggars-road.json) |
