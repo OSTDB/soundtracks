@@ -1600,6 +1600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdoms of Amalur: Re-Reckoning - Collector’s Edition | 138200 | [138200-kingdoms-of-amalur-re-reckoning-collector-s-edition.json](./138200-kingdoms-of-amalur-re-reckoning-collector-s-edition.json) |
 | Kingdoms of Amalur: Re-Reckoning - Fate Edition | 138198 | [138198-kingdoms-of-amalur-re-reckoning-fate-edition.json](./138198-kingdoms-of-amalur-re-reckoning-fate-edition.json) |
 | Kingdoms of Amalur: Reckoning | 1059 | [1059-kingdoms-of-amalur-reckoning.json](./1059-kingdoms-of-amalur-reckoning.json) |
+| Kingdoms of Amalur: Reckoning - Teeth of Naros | 14676 | [14676-kingdoms-of-amalur-reckoning-teeth-of-naros.json](./14676-kingdoms-of-amalur-reckoning-teeth-of-naros.json) |
 | Kingdoms of Dice: The Elonia Chronicles | 360685 | [360685-kingdoms-of-dice-the-elonia-chronicles.json](./360685-kingdoms-of-dice-the-elonia-chronicles.json) |
 | Kingdoms of England | 55988 | [55988-kingdoms-of-england.json](./55988-kingdoms-of-england.json) |
 | Kingdoms of Germany | 65441 | [65441-kingdoms-of-germany.json](./65441-kingdoms-of-germany.json) |
