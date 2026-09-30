@@ -5082,6 +5082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Gratia | 318562 | [318562-pokemon-gratia.json](./318562-pokemon-gratia.json) |
 | Pokemon HG/SS Golden Edition | 334655 | [334655-pokemon-hg-ss-golden-edition.json](./334655-pokemon-hg-ss-golden-edition.json) |
 | Pokémon Home | 141960 | [141960-pokemon-home.json](./141960-pokemon-home.json) |
+| Pokémon Infinite Fusion 2: Hoenn | 406249 | [406249-pokemon-infinite-fusion-2-hoenn.json](./406249-pokemon-infinite-fusion-2-hoenn.json) |
 | Pokémon Island | 202405 | [202405-pokemon-island.json](./202405-pokemon-island.json) |
 | Pokemon Kalos Crystal | 304731 | [304731-pokemon-kalos-crystal.json](./304731-pokemon-kalos-crystal.json) |
 | Pokémon Kanto Ultimate | 250926 | [250926-pokemon-kanto-ultimate.json](./250926-pokemon-kanto-ultimate.json) |
@@ -5489,6 +5490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polygon Mayhem | 411736 | [411736-polygon-mayhem.json](./411736-polygon-mayhem.json) |
 | Polygon Race | 262932 | [262932-polygon-race.json](./262932-polygon-race.json) |
 | Polygon Survival | 269111 | [269111-polygon-survival.json](./269111-polygon-survival.json) |
+| Polygon War | 406163 | [406163-polygon-war.json](./406163-polygon-war.json) |
 | Polygonal Passage | 298103 | [298103-polygonal-passage.json](./298103-polygonal-passage.json) |
 | Polygonauts | 25785 | [25785-polygonauts.json](./25785-polygonauts.json) |
 | Polygone | 108044 | [108044-polygone.json](./108044-polygone.json) |
@@ -7079,6 +7081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Cerberus | 42875 | [42875-project-cerberus.json](./42875-project-cerberus.json) |
 | Project Chameleon | 279584 | [279584-project-chameleon.json](./279584-project-chameleon.json) |
 | Project Chemistry | 132116 | [132116-project-chemistry.json](./132116-project-chemistry.json) |
+| Project Chernaya | 406246 | [406246-project-chernaya.json](./406246-project-chernaya.json) |
 | Project Cobalt | 366310 | [366310-project-cobalt.json](./366310-project-cobalt.json) |
 | Project Colored Mountains | 264095 | [264095-project-colored-mountains.json](./264095-project-colored-mountains.json) |
 | Project Combat | 125922 | [125922-project-combat.json](./125922-project-combat.json) |
