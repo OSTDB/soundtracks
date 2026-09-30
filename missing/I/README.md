@@ -742,6 +742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Mythical Beasts | 387327 | [387327-idle-mythical-beasts.json](./387327-idle-mythical-beasts.json) |
 | Idle Ocean Cleaner Eco Tycoon | 247211 | [247211-idle-ocean-cleaner-eco-tycoon.json](./247211-idle-ocean-cleaner-eco-tycoon.json) |
 | Idle of the Dead | 413772 | [413772-idle-of-the-dead.json](./413772-idle-of-the-dead.json) |
+| Idle Offworld Foundry | 410399 | [410399-idle-offworld-foundry.json](./410399-idle-offworld-foundry.json) |
 | Idle Outpost | 302674 | [302674-idle-outpost.json](./302674-idle-outpost.json) |
 | Idle Paladin | 192181 | [192181-idle-paladin.json](./192181-idle-paladin.json) |
 | Idle Percent | 277345 | [277345-idle-percent.json](./277345-idle-percent.json) |
