@@ -2601,6 +2601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phasmonauts | 310730 | [310730-phasmonauts.json](./310730-phasmonauts.json) |
 | Phat Phrog | 30892 | [30892-phat-phrog.json](./30892-phat-phrog.json) |
 | Phat Phrog Clicker | 314308 | [314308-phat-phrog-clicker.json](./314308-phat-phrog-clicker.json) |
+| Phazika | 398520 | [398520-phazika.json](./398520-phazika.json) |
 | Phenocore | 194308 | [194308-phenocore.json](./194308-phenocore.json) |
 | Phenomenal Car Park Simulator | 124220 | [124220-phenomenal-car-park-simulator.json](./124220-phenomenal-car-park-simulator.json) |
 | Pheonix II | 411746 | [411746-pheonix-ii.json](./411746-pheonix-ii.json) |
@@ -4509,6 +4510,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playboy: The Mansion - Private Party | 68037 | [68037-playboy-the-mansion-private-party.json](./68037-playboy-the-mansion-private-party.json) |
 | PlayChapas | 177934 | [177934-playchapas.json](./177934-playchapas.json) |
 | Playdate Bunny Bundle | 245320 | [245320-playdate-bunny-bundle.json](./245320-playdate-bunny-bundle.json) |
+| Playdate Season 1 | 398519 | [398519-playdate-season-1.json](./398519-playdate-season-1.json) |
+| Playdate Season 3 | 398535 | [398535-playdate-season-3.json](./398535-playdate-season-3.json) |
 | Player 9 | 132095 | [132095-player-9.json](./132095-player-9.json) |
 | Player Manager 2001 | 50025 | [50025-player-manager-2001.json](./50025-player-manager-2001.json) |
 | Player's Eleven | 129230 | [129230-players-eleven.json](./129230-players-eleven.json) |
@@ -5808,6 +5811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Populous DS | 8898 | [8898-populous-ds.json](./8898-populous-ds.json) |
 | Populous: The Beginning | 5525 | [5525-populous-the-beginning.json](./5525-populous-the-beginning.json) |
 | Populus Run | 145513 | [145513-populus-run.json](./145513-populus-run.json) |
+| Popup.exe | 398504 | [398504-popup-exe.json](./398504-popup-exe.json) |
 | Poramid | 185438 | [185438-poramid.json](./185438-poramid.json) |
 | Porcelain Tales | 186031 | [186031-porcelain-tales.json](./186031-porcelain-tales.json) |
 | Porcini | 148999 | [148999-porcini.json](./148999-porcini.json) |
@@ -7048,6 +7052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Angels | 203310 | [203310-project-angels.json](./203310-project-angels.json) |
 | Project Anomaly | 193952 | [193952-project-anomaly.json](./193952-project-anomaly.json) |
 | Project Anomaly: Urban Supernatural Investigator | 200700 | [200700-project-anomaly-urban-supernatural-investigator.json](./200700-project-anomaly-urban-supernatural-investigator.json) |
+| Project Ants | 398506 | [398506-project-ants.json](./398506-project-ants.json) |
 | Project Apparition | 259100 | [259100-project-apparition.json](./259100-project-apparition.json) |
 | Project Arena | 197374 | [197374-project-arena.json](./197374-project-arena.json) |
 | Project Arms | 138043 | [138043-project-arms.json](./138043-project-arms.json) |
