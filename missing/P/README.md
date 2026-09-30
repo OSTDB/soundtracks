@@ -1399,6 +1399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PatchCon! Defend the Library | 202948 | [202948-patchcon-defend-the-library.json](./202948-patchcon-defend-the-library.json) |
 | Patched World | 237481 | [237481-patched-world.json](./237481-patched-world.json) |
 | Patchman vs. Blue Squares | 90119 | [90119-patchman-vs-blue-squares.json](./90119-patchman-vs-blue-squares.json) |
+| Patchman vs. Red Circles | 35012 | [35012-patchman-vs-red-circles.json](./35012-patchman-vs-red-circles.json) |
 | Patchouli's Adventure In Doll's House | 293707 | [293707-patchoulis-adventure-in-dolls-house.json](./293707-patchoulis-adventure-in-dolls-house.json) |
 | Patchwork Girl | 180242 | [180242-patchwork-girl.json](./180242-patchwork-girl.json) |
 | Patchwork Heroes | 42851 | [42851-patchwork-heroes.json](./42851-patchwork-heroes.json) |
@@ -2963,6 +2964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pien | 144144 | [144144-pien.json](./144144-pien.json) |
 | Pier Game | 340543 | [340543-pier-game.json](./340543-pier-game.json) |
 | Pier57 Autocracy | 80470 | [80470-pier57-autocracy.json](./80470-pier57-autocracy.json) |
+| Piercing Blow | 34944 | [34944-piercing-blow.json](./34944-piercing-blow.json) |
 | Piercing Fortress Europa | 129591 | [129591-piercing-fortress-europa.json](./129591-piercing-fortress-europa.json) |
 | Pierhead Arcade | 33687 | [33687-pierhead-arcade.json](./33687-pierhead-arcade.json) |
 | Pierhead Arcade 2 | 188081 | [188081-pierhead-arcade-2.json](./188081-pierhead-arcade-2.json) |
