@@ -1161,6 +1161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Addams Family Pinball | 356275 | [356275-addams-family-pinball.json](./356275-addams-family-pinball.json) |
 | AddForce | 61881 | [61881-addforce.json](./61881-addforce.json) |
 | Addiction Pinball | 69860 | [69860-addiction-pinball.json](./69860-addiction-pinball.json) |
+| Addie Shen | 402432 | [402432-addie-shen.json](./402432-addie-shen.json) |
 | Addition | 76606 | [76606-addition.json](./76606-addition.json) |
 | Addition and Subtraction 1 | 42191 | [42191-addition-and-subtraction-1.json](./42191-addition-and-subtraction-1.json) |
 | Addition and Subtraction 2 | 42193 | [42193-addition-and-subtraction-2.json](./42193-addition-and-subtraction-2.json) |
@@ -3351,6 +3352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amamane 2: Limited Edition | 167038 | [167038-amamane-2-limited-edition.json](./167038-amamane-2-limited-edition.json) |
 | Amamane 2: Premium Edition | 146805 | [146805-amamane-2-premium-edition.json](./146805-amamane-2-premium-edition.json) |
 | Amanaha hockey | 329164 | [329164-amanaha-hockey.json](./329164-amanaha-hockey.json) |
+| Amanatsu Adolescence | 402451 | [402451-amanatsu-adolescence.json](./402451-amanatsu-adolescence.json) |
 | Amanatsu Location | 413057 | [413057-amanatsu-location.json](./413057-amanatsu-location.json) |
 | Amanatsu: Perfect Edition | 297063 | [297063-amanatsu-perfect-edition.json](./297063-amanatsu-perfect-edition.json) |
 | Amanda Rose: The Game of Time | 52399 | [52399-amanda-rose-the-game-of-time.json](./52399-amanda-rose-the-game-of-time.json) |
@@ -4056,6 +4058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angels of Amsterdam | 223488 | [223488-angels-of-amsterdam.json](./223488-angels-of-amsterdam.json) |
 | Angels of Death Episode.Eddie | 137047 | [137047-angels-of-death-episode-eddie.json](./137047-angels-of-death-episode-eddie.json) |
 | Angels of Fasaria | 36110 | [36110-angels-of-fasaria.json](./36110-angels-of-fasaria.json) |
+| Angels Online Global | 402430 | [402430-angels-online-global.json](./402430-angels-online-global.json) |
 | Angels vs. Devils | 72046 | [72046-angels-vs-devils.json](./72046-angels-vs-devils.json) |
 | Angenehm Platz -Kleiner Garten Sie Erstellen | 82060 | [82060-angenehm-platz-kleiner-garten-sie-erstellen.json](./82060-angenehm-platz-kleiner-garten-sie-erstellen.json) |
 | Anger of Stick 4 | 237643 | [237643-anger-of-stick-4.json](./237643-anger-of-stick-4.json) |
@@ -8006,6 +8009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azangara | 77375 | [77375-azangara.json](./77375-azangara.json) |
 | Azar | 186767 | [186767-azar.json](./186767-azar.json) |
 | Azathoth-D: Youtou Saisoku Densetsu | 144954 | [144954-azathoth-d-youtou-saisoku-densetsu.json](./144954-azathoth-d-youtou-saisoku-densetsu.json) |
+| Azato Kawaii Ayase-chan! | 402458 | [402458-azato-kawaii-ayase-chan.json](./402458-azato-kawaii-ayase-chan.json) |
 | Azayaka na Irodori no Naka de Kimi Rashiku: Premium Edition | 212323 | [212323-azayaka-na-irodori-no-naka-de-kimi-rashiku-premium-edition.json](./212323-azayaka-na-irodori-no-naka-de-kimi-rashiku-premium-edition.json) |
 | Azazel | 170020 | [170020-azazel.json](./170020-azazel.json) |
 | Azazel's Christmas Fable | 221174 | [221174-azazels-christmas-fable.json](./221174-azazels-christmas-fable.json) |
