@@ -1758,6 +1758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heli-Cats | 238758 | [238758-heli-cats.json](./238758-heli-cats.json) |
 | Heli-Commando 2017 | 61885 | [61885-heli-commando-2017.json](./61885-heli-commando-2017.json) |
 | Heli-Yeah! Bundle | 154962 | [154962-heli-yeah-bundle.json](./154962-heli-yeah-bundle.json) |
+| Heliborne | 33764 | [33764-heliborne.json](./33764-heliborne.json) |
 | Helichapter X | 287110 | [287110-helichapter-x.json](./287110-helichapter-x.json) |
 | Heliconian: Starship Crew Control | 133403 | [133403-heliconian-starship-crew-control.json](./133403-heliconian-starship-crew-control.json) |
 | Helicopter 2015: Natural Disasters | 53184 | [53184-helicopter-2015-natural-disasters.json](./53184-helicopter-2015-natural-disasters.json) |
@@ -2732,6 +2733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of the Obelisk | 62761 | [62761-heroes-of-the-obelisk.json](./62761-heroes-of-the-obelisk.json) |
 | Heroes of the Offworld Arena | 102371 | [102371-heroes-of-the-offworld-arena.json](./102371-heroes-of-the-offworld-arena.json) |
 | Heroes of the Pacific | 5861 | [5861-heroes-of-the-pacific.json](./5861-heroes-of-the-pacific.json) |
+| Heroes of the Seven Seas | 33673 | [33673-heroes-of-the-seven-seas.json](./33673-heroes-of-the-seven-seas.json) |
 | Heroes of the Three Kingdoms 2 | 143499 | [143499-heroes-of-the-three-kingdoms-2.json](./143499-heroes-of-the-three-kingdoms-2.json) |
 | Heroes of the Three Kingdoms 3 | 143504 | [143504-heroes-of-the-three-kingdoms-3.json](./143504-heroes-of-the-three-kingdoms-3.json) |
 | Heroes of the Three Kingdoms 7 | 143522 | [143522-heroes-of-the-three-kingdoms-7.json](./143522-heroes-of-the-three-kingdoms-7.json) |
@@ -4121,6 +4123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Darkness: Escape | 76710 | [76710-home-darkness-escape.json](./76710-home-darkness-escape.json) |
 | Home Deco Builder | 334096 | [334096-home-deco-builder.json](./334096-home-deco-builder.json) |
 | Home Defender | 278538 | [278538-home-defender.json](./278538-home-defender.json) |
+| Home Design 3D | 34050 | [34050-home-design-3d.json](./34050-home-design-3d.json) |
 | Home Design Makeover! | 90416 | [90416-home-design-makeover.json](./90416-home-design-makeover.json) |
 | Home Designer Makeover Blast: Jason's Industrial Loft | 255068 | [255068-home-designer-makeover-blast-jasons-industrial-loft.json](./255068-home-designer-makeover-blast-jasons-industrial-loft.json) |
 | Home Designer Makeover Blast: Liam & Beth's Studio Apartment | 255069 | [255069-home-designer-makeover-blast-liam-and-beths-studio-apartment.json](./255069-home-designer-makeover-blast-liam-and-beths-studio-apartment.json) |
@@ -4964,6 +4967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Golf | 125252 | [125252-house-of-golf.json](./125252-house-of-golf.json) |
 | House of Golf 2 | 303573 | [303573-house-of-golf-2.json](./303573-house-of-golf-2.json) |
 | House of Heists | 398406 | [398406-house-of-heists.json](./398406-house-of-heists.json) |
+| House of Hell | 34049 | [34049-house-of-hell.json](./34049-house-of-hell.json) |
 | House of Horror: Outside is Better | 326223 | [326223-house-of-horror-outside-is-better.json](./326223-house-of-horror-outside-is-better.json) |
 | House of Jigsaw: A Day at the Park | 273479 | [273479-house-of-jigsaw-a-day-at-the-park.json](./273479-house-of-jigsaw-a-day-at-the-park.json) |
 | House of Jigsaw: Amazing Birds | 273480 | [273480-house-of-jigsaw-amazing-birds.json](./273480-house-of-jigsaw-amazing-birds.json) |
@@ -5613,6 +5617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydra | 12152 | [12152-hydra.json](./12152-hydra.json) |
 | Hydra | 126444 | [126444-hydra.json](./126444-hydra.json) |
 | Hydra Hide Land | 337467 | [337467-hydra-hide-land.json](./337467-hydra-hide-land.json) |
+| Hydra Slayer | 33776 | [33776-hydra-slayer.json](./33776-hydra-slayer.json) |
 | Hydra: Poseidon's Сonspiracy | 342645 | [342645-hydra-poseidons-onspiracy.json](./342645-hydra-poseidons-onspiracy.json) |
 | Hydrangea | 299171 | [299171-hydrangea.json](./299171-hydrangea.json) |
 | Hydro Thunder | 3370 | [3370-hydro-thunder.json](./3370-hydro-thunder.json) |
