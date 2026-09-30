@@ -1213,6 +1213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlimited Fight Ultimate Strike | 235353 | [235353-unlimited-fight-ultimate-strike.json](./235353-unlimited-fight-ultimate-strike.json) |
 | Unlimited Hearts | 67243 | [67243-unlimited-hearts.json](./67243-unlimited-hearts.json) |
 | Unline | 278501 | [278501-unline.json](./278501-unline.json) |
+| Unload | 412472 | [412472-unload.json](./412472-unload.json) |
 | Unlock Me | 114165 | [114165-unlock-me.json](./114165-unlock-me.json) |
 | Unlock Me | 338587 | [338587-unlock-me.json](./338587-unlock-me.json) |
 | Unlock the Block | 166756 | [166756-unlock-the-block.json](./166756-unlock-the-block.json) |
