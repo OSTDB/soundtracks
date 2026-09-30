@@ -3608,6 +3608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numbers & Letters | 220612 | [220612-numbers-and-letters.json](./220612-numbers-and-letters.json) |
 | Numbers & Nodes | 329017 | [329017-numbers-and-nodes.json](./329017-numbers-and-nodes.json) |
 | Numbers Destiny | 341489 | [341489-numbers-destiny.json](./341489-numbers-destiny.json) |
+| Numbers Go Up | 401069 | [401069-numbers-go-up.json](./401069-numbers-go-up.json) |
 | Numbershark 5 | 286602 | [286602-numbershark-5.json](./286602-numbershark-5.json) |
 | Numbskull | 308343 | [308343-numbskull.json](./308343-numbskull.json) |
 | Numenclature | 357249 | [357249-numenclature.json](./357249-numenclature.json) |
