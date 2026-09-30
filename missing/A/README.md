@@ -1773,6 +1773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent Action | 138003 | [138003-agent-action.json](./138003-agent-action.json) |
 | Agent Alice | 60490 | [60490-agent-alice.json](./60490-agent-alice.json) |
 | Agent Armstrong | 11293 | [11293-agent-armstrong.json](./11293-agent-armstrong.json) |
+| Agent Dark | 409693 | [409693-agent-dark.json](./409693-agent-dark.json) |
 | Agent from C.O.G.O.O. | 234598 | [234598-agent-from-c-o-g-o-o.json](./234598-agent-from-c-o-g-o-o.json) |
 | Agent Gumball: Roguelike Spy Game | 86835 | [86835-agent-gumball-roguelike-spy-game.json](./86835-agent-gumball-roguelike-spy-game.json) |
 | Agent Hugo: Hula Holiday | 43512 | [43512-agent-hugo-hula-holiday.json](./43512-agent-hugo-hula-holiday.json) |
@@ -2724,6 +2725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Legacy | 14419 | [14419-alien-legacy.json](./14419-alien-legacy.json) |
 | Alien Legion | 14243 | [14243-alien-legion.json](./14243-alien-legion.json) |
 | Alien Makeout Simulator | 229625 | [229625-alien-makeout-simulator.json](./229625-alien-makeout-simulator.json) |
+| Alien Maker | 409730 | [409730-alien-maker.json](./409730-alien-maker.json) |
 | Alien Marauder | 163835 | [163835-alien-marauder.json](./163835-alien-marauder.json) |
 | Alien Mayhem | 76951 | [76951-alien-mayhem.json](./76951-alien-mayhem.json) |
 | Alien Mind | 72153 | [72153-alien-mind.json](./72153-alien-mind.json) |
@@ -4409,6 +4411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AnimuJump | 238628 | [238628-animujump.json](./238628-animujump.json) |
 | Animus: Revenant | 151601 | [151601-animus-revenant.json](./151601-animus-revenant.json) |
 | Aniquilation | 132152 | [132152-aniquilation.json](./132152-aniquilation.json) |
+| Aniquiz | 409619 | [409619-aniquiz.json](./409619-aniquiz.json) |
 | Anise Flowers | 185129 | [185129-anise-flowers.json](./185129-anise-flowers.json) |
 | Anita's Camp | 310539 | [310539-anitas-camp.json](./310539-anitas-camp.json) |
 | Anita's Job | 310538 | [310538-anitas-job.json](./310538-anitas-job.json) |
@@ -5548,6 +5551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcania: Gothic 4 | 3234 | [3234-arcania-gothic-4.json](./3234-arcania-gothic-4.json) |
 | Arcanight | 25760 | [25760-arcanight.json](./25760-arcanight.json) |
 | Arcanion: Tale of Magi | 149026 | [149026-arcanion-tale-of-magi.json](./149026-arcanion-tale-of-magi.json) |
+| Arcanion: The Mekanos Invasion | 409722 | [409722-arcanion-the-mekanos-invasion.json](./409722-arcanion-the-mekanos-invasion.json) |
 | Arcanist Revival | 110181 | [110181-arcanist-revival.json](./110181-arcanist-revival.json) |
 | Arcanists | 62268 | [62268-arcanists.json](./62268-arcanists.json) |
 | Arcanists 2 | 245802 | [245802-arcanists-2.json](./245802-arcanists-2.json) |
@@ -5644,6 +5648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archive 1985 | 276249 | [276249-archive-1985.json](./276249-archive-1985.json) |
 | Archiver | 362909 | [362909-archiver.json](./362909-archiver.json) |
 | ArchLord | 20598 | [20598-archlord.json](./20598-archlord.json) |
+| Archmage Idle | 409719 | [409719-archmage-idle.json](./409719-archmage-idle.json) |
 | Archmage Ricka | 211440 | [211440-archmage-ricka.json](./211440-archmage-ricka.json) |
 | Archmage Rises | 31937 | [31937-archmage-rises.json](./31937-archmage-rises.json) |
 | ArchOlden | 248018 | [248018-archolden.json](./248018-archolden.json) |
@@ -6183,6 +6188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arson & Plunder: Unleashed | 36323 | [36323-arson-and-plunder-unleashed.json](./36323-arson-and-plunder-unleashed.json) |
 | Arson and Plunder | 9985 | [9985-arson-and-plunder.json](./9985-arson-and-plunder.json) |
 | Arsonist | 113858 | [113858-arsonist.json](./113858-arsonist.json) |
+| Arsonist '24 Director's Cut | 409745 | [409745-arsonist-24-directors-cut.json](./409745-arsonist-24-directors-cut.json) |
 | Arsonist Heaven | 208334 | [208334-arsonist-heaven.json](./208334-arsonist-heaven.json) |
 | Arsonist Heaven Remastered | 238440 | [238440-arsonist-heaven-remastered.json](./238440-arsonist-heaven-remastered.json) |
 | ArsonVille | 25729 | [25729-arsonville.json](./25729-arsonville.json) |
@@ -6569,6 +6575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Alliance | 304680 | [304680-assassins-alliance.json](./304680-assassins-alliance.json) |
 | Assassin's Creed American History Pack | 219000 | [219000-assassins-creed-american-history-pack.json](./219000-assassins-creed-american-history-pack.json) |
 | Assassin's Creed Antiquity Pack | 164782 | [164782-assassins-creed-antiquity-pack.json](./164782-assassins-creed-antiquity-pack.json) |
+| Assassin's Creed Black Flag Resynced: Deluxe Edition | 409613 | [409613-assassins-creed-black-flag-resynced-deluxe-edition.json](./409613-assassins-creed-black-flag-resynced-deluxe-edition.json) |
 | Assassin's Creed Brotherhood: The Da Vinci Disappearance | 8216 | [8216-assassins-creed-brotherhood-the-da-vinci-disappearance.json](./8216-assassins-creed-brotherhood-the-da-vinci-disappearance.json) |
 | Assassin's Creed Chronicles: India | 14902 | [14902-assassins-creed-chronicles-india.json](./14902-assassins-creed-chronicles-india.json) |
 | Assassin's Creed Ezio Auditore Pack | 219007 | [219007-assassins-creed-ezio-auditore-pack.json](./219007-assassins-creed-ezio-auditore-pack.json) |
