@@ -1334,6 +1334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Judas | 228527 | [228527-judas.json](./228527-judas.json) |
 | Judas | 29714 | [29714-judas.json](./29714-judas.json) |
 | Jude | 172141 | [172141-jude.json](./172141-jude.json) |
+| Judero | 221649 | [221649-judero.json](./221649-judero.json) |
 | Judge Dredd | 4387 | [4387-judge-dredd.json](./4387-judge-dredd.json) |
 | Judge Dredd: Dredd Vs. Death | 3961 | [3961-judge-dredd-dredd-vs-death.json](./3961-judge-dredd-dredd-vs-death.json) |
 | Judge of Hasoon | 296928 | [296928-judge-of-hasoon.json](./296928-judge-of-hasoon.json) |
