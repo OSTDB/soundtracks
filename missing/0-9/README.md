@@ -1369,6 +1369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 99 Bottles of Beer | 249256 | [249256-99-bottles-of-beer.json](./249256-99-bottles-of-beer.json) |
 | 99 Cars: Zig Zag Racer | 240209 | [240209-99-cars-zig-zag-racer.json](./240209-99-cars-zig-zag-racer.json) |
 | 99 Dead Pirates | 240886 | [240886-99-dead-pirates.json](./240886-99-dead-pirates.json) |
+| 99 Nights In The Apocalypse | 414522 | [414522-99-nights-in-the-apocalypse.json](./414522-99-nights-in-the-apocalypse.json) |
 | 99 no Namida | 66970 | [66970-99-no-namida.json](./66970-99-no-namida.json) |
 | 99 Problems | 353316 | [353316-99-problems.json](./353316-99-problems.json) |
 | 99 Spirits | 9937 | [9937-99-spirits.json](./9937-99-spirits.json) |
