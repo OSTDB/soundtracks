@@ -299,6 +299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jane's F/A-18 | 687 | [687-janes-f-a-18.json](./687-janes-f-a-18.json) |
 | Jane's Hotel | 20549 | [20549-janes-hotel.json](./20549-janes-hotel.json) |
 | Jane's Hotel | 210009 | [210009-janes-hotel.json](./210009-janes-hotel.json) |
+| Jane's Hotel Mania | 54135 | [54135-janes-hotel-mania.json](./54135-janes-hotel-mania.json) |
 | Janga | 121629 | [121629-janga.json](./121629-janga.json) |
 | Janggi for Kakao | 126002 | [126002-janggi-for-kakao.json](./126002-janggi-for-kakao.json) |
 | Janggun | 145638 | [145638-janggun.json](./145638-janggun.json) |
@@ -1042,6 +1043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joe Blade | 12161 | [12161-joe-blade.json](./12161-joe-blade.json) |
 | Joe Blunt Up In Smoke | 123507 | [123507-joe-blunt-up-in-smoke.json](./123507-joe-blunt-up-in-smoke.json) |
 | Joe Danger: Special Edition | 24235 | [24235-joe-danger-special-edition.json](./24235-joe-danger-special-edition.json) |
+| Joe Dever's Lone Wolf | 53247 | [53247-joe-devers-lone-wolf.json](./53247-joe-devers-lone-wolf.json) |
 | Joe Dungeon | 236206 | [236206-joe-dungeon.json](./236206-joe-dungeon.json) |
 | Joe Gunn | 77385 | [77385-joe-gunn.json](./77385-joe-gunn.json) |
 | Joe is Not Lost: Jigsaw Landscapes | 284900 | [284900-joe-is-not-lost-jigsaw-landscapes.json](./284900-joe-is-not-lost-jigsaw-landscapes.json) |
@@ -1304,6 +1306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joy Life 4 | 336636 | [336636-joy-life-4.json](./336636-joy-life-4.json) |
 | Joy Match 3D | 255796 | [255796-joy-match-3d.json](./255796-joy-match-3d.json) |
 | Joy of Ping Pong | 230844 | [230844-joy-of-ping-pong.json](./230844-joy-of-ping-pong.json) |
+| Joy Pony | 54456 | [54456-joy-pony.json](./54456-joy-pony.json) |
 | Joy the Pug | 144187 | [144187-joy-the-pug.json](./144187-joy-the-pug.json) |
 | Joydoor | 108061 | [108061-joydoor.json](./108061-joydoor.json) |
 | Joyfess: Martin's Secret Recipe | 126521 | [126521-joyfess-martins-secret-recipe.json](./126521-joyfess-martins-secret-recipe.json) |
