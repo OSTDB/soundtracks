@@ -658,6 +658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abandoned Archive | 190083 | [190083-abandoned-archive.json](./190083-abandoned-archive.json) |
 | Abandoned Drive-in | 234018 | [234018-abandoned-drive-in.json](./234018-abandoned-drive-in.json) |
 | Abandoned Hospital VR | 31878 | [31878-abandoned-hospital-vr.json](./31878-abandoned-hospital-vr.json) |
+| Abandoned Knight | 33508 | [33508-abandoned-knight.json](./33508-abandoned-knight.json) |
 | Abandoned Life | 164513 | [164513-abandoned-life.json](./164513-abandoned-life.json) |
 | Abandoned Well | 73550 | [73550-abandoned-well.json](./73550-abandoned-well.json) |
 | Abandoned: Chestnut Lodge Asylum | 34552 | [34552-abandoned-chestnut-lodge-asylum.json](./34552-abandoned-chestnut-lodge-asylum.json) |
@@ -1869,6 +1870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI.Gears: Team Tag Battle | 277312 | [277312-ai-gears-team-tag-battle.json](./277312-ai-gears-team-tag-battle.json) |
 | AI.VI | 303258 | [303258-ai-vi.json](./303258-ai-vi.json) |
 | AI2U: With You 'Til The End | 293905 | [293905-ai2u-with-you-til-the-end.json](./293905-ai2u-with-you-til-the-end.json) |
+| Aiball | 32852 | [32852-aiball.json](./32852-aiball.json) |
 | Aibeya 2 | 150039 | [150039-aibeya-2.json](./150039-aibeya-2.json) |
 | Aibou DS | 269543 | [269543-aibou-ds.json](./269543-aibou-ds.json) |
 | AiCaterine | 259248 | [259248-aicaterine.json](./259248-aicaterine.json) |
@@ -2132,6 +2134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Flight Administrator Simulator & Air Traffic-Sky Airplane Sim Plane | 220873 | [220873-airport-flight-administrator-simulator-and-air-traffic-sky-airplane-sim-plane.json](./220873-airport-flight-administrator-simulator-and-air-traffic-sky-airplane-sim-plane.json) |
 | Airport Inspector | 382320 | [382320-airport-inspector.json](./382320-airport-inspector.json) |
 | Airport Link: Connect Near Me | 290465 | [290465-airport-link-connect-near-me.json](./290465-airport-link-connect-near-me.json) |
+| Airport Madness 3D | 33481 | [33481-airport-madness-3d.json](./33481-airport-madness-3d.json) |
 | Airport Madness Collection | 52566 | [52566-airport-madness-collection.json](./52566-airport-madness-collection.json) |
 | Airport Mania: First Flight HD | 175282 | [175282-airport-mania-first-flight-hd.json](./175282-airport-mania-first-flight-hd.json) |
 | Airport Master | 208904 | [208904-airport-master.json](./208904-airport-master.json) |
@@ -3079,6 +3082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone in the Outback | 226215 | [226215-alone-in-the-outback.json](./226215-alone-in-the-outback.json) |
 | Alone in the School | 302385 | [302385-alone-in-the-school.json](./302385-alone-in-the-school.json) |
 | Alone in the Stars: Survivor | 334886 | [334886-alone-in-the-stars-survivor.json](./334886-alone-in-the-stars-survivor.json) |
+| Alone K.W. | 33539 | [33539-alone-k-w.json](./33539-alone-k-w.json) |
 | Alone on Mars | 165544 | [165544-alone-on-mars.json](./165544-alone-on-mars.json) |
 | Alone To Melt | 365753 | [365753-alone-to-melt.json](./365753-alone-to-melt.json) |
 | Alone With a Bunch of Robots | 115158 | [115158-alone-with-a-bunch-of-robots.json](./115158-alone-with-a-bunch-of-robots.json) |
@@ -3519,6 +3523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Pickers: The Road Less Traveled | 65204 | [65204-american-pickers-the-road-less-traveled.json](./65204-american-pickers-the-road-less-traveled.json) |
 | American Poker | 14252 | [14252-american-poker.json](./14252-american-poker.json) |
 | American Pool | 43928 | [43928-american-pool.json](./43928-american-pool.json) |
+| American Powerhaul Train Simulator | 33522 | [33522-american-powerhaul-train-simulator.json](./33522-american-powerhaul-train-simulator.json) |
 | American Railroads: Summit River & Pine Valley | 96855 | [96855-american-railroads-summit-river-and-pine-valley.json](./96855-american-railroads-summit-river-and-pine-valley.json) |
 | American Speedway | 38524 | [38524-american-speedway.json](./38524-american-speedway.json) |
 | American Truck Simulator | 9667 | [9667-american-truck-simulator.json](./9667-american-truck-simulator.json) |
@@ -3912,6 +3917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andromeda Survivors | 219677 | [219677-andromeda-survivors.json](./219677-andromeda-survivors.json) |
 | Andromeda Zombies Colonies | 233221 | [233221-andromeda-zombies-colonies.json](./233221-andromeda-zombies-colonies.json) |
 | Andromeda: Rebirth of Humanity | 148973 | [148973-andromeda-rebirth-of-humanity.json](./148973-andromeda-rebirth-of-humanity.json) |
+| Andromedum | 33138 | [33138-andromedum.json](./33138-andromedum.json) |
 | Andromis | 377085 | [377085-andromis.json](./377085-andromis.json) |
 | Andromium | 94740 | [94740-andromium.json](./94740-andromium.json) |
 | Androne | 42155 | [42155-androne.json](./42155-androne.json) |
@@ -6378,6 +6384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashen of Thrones | 413886 | [413886-ashen-of-thrones.json](./413886-ashen-of-thrones.json) |
 | Ashen Sky | 299596 | [299596-ashen-sky.json](./299596-ashen-sky.json) |
 | Ashen World | 379451 | [379451-ashen-world.json](./379451-ashen-world.json) |
+| Asher | 33483 | [33483-asher.json](./33483-asher.json) |
 | Asher Descent | 405612 | [405612-asher-descent.json](./405612-asher-descent.json) |
 | Asheron's Call: Dark Majesty | 23735 | [23735-asherons-call-dark-majesty.json](./23735-asherons-call-dark-majesty.json) |
 | Asheron's Call: Throne of Destiny | 23736 | [23736-asherons-call-throne-of-destiny.json](./23736-asherons-call-throne-of-destiny.json) |
@@ -7380,6 +7387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Audica: Chvrches - "The Mother We Share" | 358947 | [358947-audica-chvrches-the-mother-we-share.json](./358947-audica-chvrches-the-mother-we-share.json) |
 | Audica: Maroon 5 ft. Christina Aguilera - "Moves Like Jagger" | 358944 | [358944-audica-maroon-5-ft-christina-aguilera-moves-like-jagger.json](./358944-audica-maroon-5-ft-christina-aguilera-moves-like-jagger.json) |
 | Audica: Nicki Minaj - "Starships" | 358943 | [358943-audica-nicki-minaj-starships.json](./358943-audica-nicki-minaj-starships.json) |
+| Audio Arena | 33141 | [33141-audio-arena.json](./33141-audio-arena.json) |
 | Audio Clash: Battle of the Bands | 152128 | [152128-audio-clash-battle-of-the-bands.json](./152128-audio-clash-battle-of-the-bands.json) |
 | Audio Drive 2 VR | 338181 | [338181-audio-drive-2-vr.json](./338181-audio-drive-2-vr.json) |
 | Audio Forager | 83963 | [83963-audio-forager.json](./83963-audio-forager.json) |
