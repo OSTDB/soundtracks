@@ -3325,6 +3325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ping Pong | 86218 | [86218-ping-pong.json](./86218-ping-pong.json) |
 | Ping Pong 3D | 90348 | [90348-ping-pong-3d.json](./90348-ping-pong-3d.json) |
 | Ping Pong League | 32252 | [32252-ping-pong-league.json](./32252-ping-pong-league.json) |
+| Ping Pong Pow | 23605 | [23605-ping-pong-pow.json](./23605-ping-pong-pow.json) |
 | Ping Pong Space | 130965 | [130965-ping-pong-space.json](./130965-ping-pong-space.json) |
 | Ping Pong Trick Shot | 56779 | [56779-ping-pong-trick-shot.json](./56779-ping-pong-trick-shot.json) |
 | Ping Pong Trick Shot 2 | 84823 | [84823-ping-pong-trick-shot-2.json](./84823-ping-pong-trick-shot-2.json) |
@@ -3540,6 +3541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates: Duels on the High Seas | 21274 | [21274-pirates-duels-on-the-high-seas.json](./21274-pirates-duels-on-the-high-seas.json) |
 | Pirates: Legend of the Black Buccaneer | 11286 | [11286-pirates-legend-of-the-black-buccaneer.json](./11286-pirates-legend-of-the-black-buccaneer.json) |
 | Pirates: Mystery of the Skeletons Island | 133425 | [133425-pirates-mystery-of-the-skeletons-island.json](./133425-pirates-mystery-of-the-skeletons-island.json) |
+| Pirates: Tides of Fortune | 23592 | [23592-pirates-tides-of-fortune.json](./23592-pirates-tides-of-fortune.json) |
 | Pirates! Gold | 9232 | [9232-pirates-gold.json](./9232-pirates-gold.json) |
 | Pirates! Gold Plus | 36216 | [36216-pirates-gold-plus.json](./36216-pirates-gold-plus.json) |
 | Pirates! Showdown: Enhanced Edition | 289318 | [289318-pirates-showdown-enhanced-edition.json](./289318-pirates-showdown-enhanced-edition.json) |
@@ -4740,6 +4742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PocketSports Football HD | 64684 | [64684-pocketsports-football-hd.json](./64684-pocketsports-football-hd.json) |
 | PocketWarwick | 64345 | [64345-pocketwarwick.json](./64345-pocketwarwick.json) |
 | Pockey | 81177 | [81177-pockey.json](./81177-pockey.json) |
+| Pockie Pirates | 23594 | [23594-pockie-pirates.json](./23594-pockie-pirates.json) |
 | Pocky & Rocky with Becky | 1537 | [1537-pocky-and-rocky-with-becky.json](./1537-pocky-and-rocky-with-becky.json) |
 | Poco's Maze Adventure | 319190 | [319190-pocos-maze-adventure.json](./319190-pocos-maze-adventure.json) |
 | Pocohontos | 225732 | [225732-pocohontos.json](./225732-pocohontos.json) |
