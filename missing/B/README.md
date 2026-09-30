@@ -4350,6 +4350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaine Bananatree | 97458 | [97458-blaine-bananatree.json](./97458-blaine-bananatree.json) |
 | Blair Witch | 119298 | [119298-blair-witch.json](./119298-blair-witch.json) |
 | Blair Witch Volume 2: The Legend of Coffin Rock | 18490 | [18490-blair-witch-volume-2-the-legend-of-coffin-rock.json](./18490-blair-witch-volume-2-the-legend-of-coffin-rock.json) |
+| Blair Witch Volume 3: The Elly Kedward Tale | 18491 | [18491-blair-witch-volume-3-the-elly-kedward-tale.json](./18491-blair-witch-volume-3-the-elly-kedward-tale.json) |
 | Blair Witch: Deluxe Edition | 154467 | [154467-blair-witch-deluxe-edition.json](./154467-blair-witch-deluxe-edition.json) |
 | Blake and Mortimer: The Curse of the Thirty Denarii | 89374 | [89374-blake-and-mortimer-the-curse-of-the-thirty-denarii.json](./89374-blake-and-mortimer-the-curse-of-the-thirty-denarii.json) |
 | Blake Stone: Planet Strike | 8490 | [8490-blake-stone-planet-strike.json](./8490-blake-stone-planet-strike.json) |
@@ -7173,6 +7174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Armor | 31900 | [31900-broken-armor.json](./31900-broken-armor.json) |
 | Broken Banners | 192839 | [192839-broken-banners.json](./192839-broken-banners.json) |
 | Broken Blades | 152787 | [152787-broken-blades.json](./152787-broken-blades.json) |
+| Broken Bots | 19681 | [19681-broken-bots.json](./19681-broken-bots.json) |
 | Broken Boughs | 218993 | [218993-broken-boughs.json](./218993-broken-boughs.json) |
 | Broken Build Simulator | 217415 | [217415-broken-build-simulator.json](./217415-broken-build-simulator.json) |
 | Broken Cavalier | 214052 | [214052-broken-cavalier.json](./214052-broken-cavalier.json) |
@@ -7240,6 +7242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brooklyn Sentai: Episode One | 132729 | [132729-brooklyn-sentai-episode-one.json](./132729-brooklyn-sentai-episode-one.json) |
 | Brooklyn Trash King | 172508 | [172508-brooklyn-trash-king.json](./172508-brooklyn-trash-king.json) |
 | Brooks in Wild West | 272258 | [272258-brooks-in-wild-west.json](./272258-brooks-in-wild-west.json) |
+| Brooktown High | 19255 | [19255-brooktown-high.json](./19255-brooktown-high.json) |
 | Brookwood: Pocket Tactics | 329696 | [329696-brookwood-pocket-tactics.json](./329696-brookwood-pocket-tactics.json) |
 | Broom Broom | 387655 | [387655-broom-broom.json](./387655-broom-broom.json) |
 | Broom Racer | 405525 | [405525-broom-racer.json](./405525-broom-racer.json) |
@@ -7697,6 +7700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Built Different | 215029 | [215029-built-different.json](./215029-built-different.json) |
 | Built for Speed | 242681 | [242681-built-for-speed.json](./242681-built-for-speed.json) |
 | Buissons | 123543 | [123543-buissons.json](./123543-buissons.json) |
+| Bujingai: The Forsaken City | 19413 | [19413-bujingai-the-forsaken-city.json](./19413-bujingai-the-forsaken-city.json) |
 | Buka | 96028 | [96028-buka.json](./96028-buka.json) |
 | Buku Sudoku | 74407 | [74407-buku-sudoku.json](./74407-buku-sudoku.json) |
 | Buku Sudoku Mahjongg Kakuro | 206693 | [206693-buku-sudoku-mahjongg-kakuro.json](./206693-buku-sudoku-mahjongg-kakuro.json) |
