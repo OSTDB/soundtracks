@@ -1573,6 +1573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bastion of Beginnings | 297783 | [297783-bastion-of-beginnings.json](./297783-bastion-of-beginnings.json) |
 | Bastionforge | 368651 | [368651-bastionforge.json](./368651-bastionforge.json) |
 | BastionOS | 390744 | [390744-bastionos.json](./390744-bastionos.json) |
+| Baston | 388344 | [388344-baston.json](./388344-baston.json) |
 | Bastyrion: Endless Tide | 398573 | [398573-bastyrion-endless-tide.json](./398573-bastyrion-endless-tide.json) |
 | Bat | 152136 | [152136-bat.json](./152136-bat.json) |
 | Bat Blast! | 275880 | [275880-bat-blast.json](./275880-bat-blast.json) |
@@ -2783,6 +2784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before the Needle Lifts | 303754 | [303754-before-the-needle-lifts.json](./303754-before-the-needle-lifts.json) |
 | Before the Night | 189049 | [189049-before-the-night.json](./189049-before-the-night.json) |
 | Before the Sun Sets | 384619 | [384619-before-the-sun-sets.json](./384619-before-the-sun-sets.json) |
+| Before the Walls Break | 388298 | [388298-before-the-walls-break.json](./388298-before-the-walls-break.json) |
 | Before They Leave | 184918 | [184918-before-they-leave.json](./184918-before-they-leave.json) |
 | Before Times | 398359 | [398359-before-times.json](./398359-before-times.json) |
 | Before We Leave | 120878 | [120878-before-we-leave.json](./120878-before-we-leave.json) |
@@ -5109,6 +5111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Money | 105108 | [105108-blood-money.json](./105108-blood-money.json) |
 | Blood Money | 11968 | [11968-blood-money.json](./11968-blood-money.json) |
 | Blood Money | 411673 | [411673-blood-money.json](./411673-blood-money.json) |
+| Blood Money: Lethal Eden | 388296 | [388296-blood-money-lethal-eden.json](./388296-blood-money-lethal-eden.json) |
 | Blood Moon: The Last Stand | 90815 | [90815-blood-moon-the-last-stand.json](./90815-blood-moon-the-last-stand.json) |
 | Blood Night | 326976 | [326976-blood-night.json](./326976-blood-night.json) |
 | Blood nor Water | 109503 | [109503-blood-nor-water.json](./109503-blood-nor-water.json) |
@@ -6820,6 +6823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Dwarves | 188558 | [188558-brave-dwarves.json](./188558-brave-dwarves.json) |
 | Brave Dwarves 2 | 144265 | [144265-brave-dwarves-2.json](./144265-brave-dwarves-2.json) |
 | Brave Dwarves: Back for Treasures | 73533 | [73533-brave-dwarves-back-for-treasures.json](./73533-brave-dwarves-back-for-treasures.json) |
+| Brave Dwarves: Creeping Shadows | 388323 | [388323-brave-dwarves-creeping-shadows.json](./388323-brave-dwarves-creeping-shadows.json) |
 | Brave Fighter 2: Frontier Free | 38952 | [38952-brave-fighter-2-frontier-free.json](./38952-brave-fighter-2-frontier-free.json) |
 | Brave Fighter: Demon Revenge | 38953 | [38953-brave-fighter-demon-revenge.json](./38953-brave-fighter-demon-revenge.json) |
 | Brave Firefighters: Real Life Heroes | 68307 | [68307-brave-firefighters-real-life-heroes.json](./68307-brave-firefighters-real-life-heroes.json) |
@@ -7739,6 +7743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buffy the Vampire Slayer | 206690 | [206690-buffy-the-vampire-slayer.json](./206690-buffy-the-vampire-slayer.json) |
 | Buffy the Vampire Slayer: Chaos Bleeds | 3837 | [3837-buffy-the-vampire-slayer-chaos-bleeds.json](./3837-buffy-the-vampire-slayer-chaos-bleeds.json) |
 | Buffy the Vampire Slayer: Sacrifice | 21130 | [21130-buffy-the-vampire-slayer-sacrifice.json](./21130-buffy-the-vampire-slayer-sacrifice.json) |
+| Bufo Jump | 388315 | [388315-bufo-jump.json](./388315-bufo-jump.json) |
 | Bufo Merge | 374283 | [374283-bufo-merge.json](./374283-bufo-merge.json) |
 | Bug & Seek | 271464 | [271464-bug-and-seek.json](./271464-bug-and-seek.json) |
 | Bug & Seek: Weevils DLC | 298342 | [298342-bug-and-seek-weevils-dlc.json](./298342-bug-and-seek-weevils-dlc.json) |
