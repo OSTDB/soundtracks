@@ -6322,6 +6322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Together | 347165 | [347165-art-together.json](./347165-art-together.json) |
 | Art World | 82186 | [82186-art-world.json](./82186-art-world.json) |
 | Art-O-Ween: Night at the Gallery | 236811 | [236811-art-o-ween-night-at-the-gallery.json](./236811-art-o-ween-night-at-the-gallery.json) |
+| Art-Therapy: Diamonds | 388337 | [388337-art-therapy-diamonds.json](./388337-art-therapy-diamonds.json) |
 | Art-Therapy: Jigsaw Puzzle | 357873 | [357873-art-therapy-jigsaw-puzzle.json](./357873-art-therapy-jigsaw-puzzle.json) |
 | Art-Therapy: Portraits | 389119 | [389119-art-therapy-portraits.json](./389119-art-therapy-portraits.json) |
 | Art7 | 208429 | [208429-art7.json](./208429-art7.json) |
