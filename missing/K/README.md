@@ -391,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaperfahrt | 414347 | [414347-kaperfahrt.json](./414347-kaperfahrt.json) |
 | Kapi Hospital | 260739 | [260739-kapi-hospital.json](./260739-kapi-hospital.json) |
 | Kapih | 332262 | [332262-kapih.json](./332262-kapih.json) |
+| Kapka The Game | 416014 | [416014-kapka-the-game.json](./416014-kapka-the-game.json) |
 | Kappa Nittori-chan | 205790 | [205790-kappa-nittori-chan.json](./205790-kappa-nittori-chan.json) |
 | Kappa Quest | 338296 | [338296-kappa-quest.json](./338296-kappa-quest.json) |
 | Kappa-kun to Asobou: Kappa-kun to Ota no Shimikai | 64439 | [64439-kappa-kun-to-asobou-kappa-kun-to-ota-no-shimikai.json](./64439-kappa-kun-to-asobou-kappa-kun-to-ota-no-shimikai.json) |
@@ -935,6 +936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KFC: Match Out the Yummies | 378157 | [378157-kfc-match-out-the-yummies.json](./378157-kfc-match-out-the-yummies.json) |
 | KFZ | 219663 | [219663-kfz.json](./219663-kfz.json) |
 | KGB Super Spy | 92633 | [92633-kgb-super-spy.json](./92633-kgb-super-spy.json) |
+| Khalco Farm | 414505 | [414505-khalco-farm.json](./414505-khalco-farm.json) |
 | Khan: Absolute Power | 33293 | [33293-khan-absolute-power.json](./33293-khan-absolute-power.json) |
 | Khan: Myth of the Wind | 145603 | [145603-khan-myth-of-the-wind.json](./145603-khan-myth-of-the-wind.json) |
 | Khaos Wind | 111894 | [111894-khaos-wind.json](./111894-khaos-wind.json) |
@@ -1149,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill Loop | 409824 | [409824-kill-loop.json](./409824-kill-loop.json) |
 | Kill Me If You Can | 292293 | [292293-kill-me-if-you-can.json](./292293-kill-me-if-you-can.json) |
 | Kill Me If You Can: Multiplayer Edition | 378317 | [378317-kill-me-if-you-can-multiplayer-edition.json](./378317-kill-me-if-you-can-multiplayer-edition.json) |
+| Kill Me Yesterday | 415999 | [415999-kill-me-yesterday.json](./415999-kill-me-yesterday.json) |
 | Kill PC | 121728 | [121728-kill-pc.json](./121728-kill-pc.json) |
 | Kill Shot Bravo | 59478 | [59478-kill-shot-bravo.json](./59478-kill-shot-bravo.json) |
 | Kill the Bad Guy | 10481 | [10481-kill-the-bad-guy.json](./10481-kill-the-bad-guy.json) |
@@ -1797,6 +1800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kisaragi Gold Star: Nonstop Go Go!! | 272535 | [272535-kisaragi-gold-star-nonstop-go-go.json](./272535-kisaragi-gold-star-nonstop-go-go.json) |
 | Kisaragi no Hougyoku | 32132 | [32132-kisaragi-no-hougyoku.json](./32132-kisaragi-no-hougyoku.json) |
 | Kisaragi's Dangerously Erotic Certification Exam! Resistance Is Futile | 82752 | [82752-kisaragis-dangerously-erotic-certification-exam-resistance-is-futile.json](./82752-kisaragis-dangerously-erotic-certification-exam-resistance-is-futile.json) |
+| Kisei Joker | 417457 | [417457-kisei-joker.json](./417457-kisei-joker.json) |
 | Kisekimura | 149547 | [149547-kisekimura.json](./149547-kisekimura.json) |
 | Kisen: Seeker of Aenjan City | 390129 | [390129-kisen-seeker-of-aenjan-city.json](./390129-kisen-seeker-of-aenjan-city.json) |
 | Kishin Douji Zenki FX: Vajra Fight | 45957 | [45957-kishin-douji-zenki-fx-vajra-fight.json](./45957-kishin-douji-zenki-fx-vajra-fight.json) |
