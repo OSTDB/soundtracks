@@ -4081,6 +4081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixxle: A Pixel Puzzle Game | 91147 | [91147-pixxle-a-pixel-puzzle-game.json](./91147-pixxle-a-pixel-puzzle-game.json) |
 | Piyo Blocks 2 | 175413 | [175413-piyo-blocks-2.json](./175413-piyo-blocks-2.json) |
 | Piyo Puzz: Piyokoro x Puzzle | 328493 | [328493-piyo-puzz-piyokoro-x-puzzle.json](./328493-piyo-puzz-piyokoro-x-puzzle.json) |
+| Piyopoyon | 394481 | [394481-piyopoyon.json](./394481-piyopoyon.json) |
 | Pizza at Resort 64 | 394367 | [394367-pizza-at-resort-64.json](./394367-pizza-at-resort-64.json) |
 | Pizza Bandit | 258559 | [258559-pizza-bandit.json](./258559-pizza-bandit.json) |
 | Pizza Bar Tycoon: Complete Edition | 222235 | [222235-pizza-bar-tycoon-complete-edition.json](./222235-pizza-bar-tycoon-complete-edition.json) |
@@ -6224,6 +6225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerline.io | 191257 | [191257-powerline-io.json](./191257-powerline-io.json) |
 | Powerplay | 311141 | [311141-powerplay.json](./311141-powerplay.json) |
 | Powerplay Hockey | 78947 | [78947-powerplay-hockey.json](./78947-powerplay-hockey.json) |
+| Powerplay Tennis | 394436 | [394436-powerplay-tennis.json](./394436-powerplay-tennis.json) |
 | Powerpuff Girls: Bad Mojo Jojo | 3246 | [3246-powerpuff-girls-bad-mojo-jojo.json](./3246-powerpuff-girls-bad-mojo-jojo.json) |
 | Powerpuff Girls: Gamesville | 8007 | [8007-powerpuff-girls-gamesville.json](./8007-powerpuff-girls-gamesville.json) |
 | Powerpuff Girls: Mojo Jojo's Clone Zone | 8008 | [8008-powerpuff-girls-mojo-jojos-clone-zone.json](./8008-powerpuff-girls-mojo-jojos-clone-zone.json) |
