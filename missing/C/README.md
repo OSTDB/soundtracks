@@ -5688,6 +5688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command & Conquer: Red Alert 3 - Premier Edition | 210703 | [210703-command-and-conquer-red-alert-3-premier-edition.json](./210703-command-and-conquer-red-alert-3-premier-edition.json) |
 | Command & Conquer: Red Alert 3 - Ultimate Edition | 21205 | [21205-command-and-conquer-red-alert-3-ultimate-edition.json](./21205-command-and-conquer-red-alert-3-ultimate-edition.json) |
 | Command & Conquer: Red Alert 3 - Uprising | 759 | [759-command-and-conquer-red-alert-3-uprising.json](./759-command-and-conquer-red-alert-3-uprising.json) |
+| Command & Conquer: Rivals | 103274 | [103274-command-and-conquer-rivals.json](./103274-command-and-conquer-rivals.json) |
 | Command & Conquer: The Covert Operations | 663 | [663-command-and-conquer-the-covert-operations.json](./663-command-and-conquer-the-covert-operations.json) |
 | Command Ant Conquer | 176357 | [176357-command-ant-conquer.json](./176357-command-ant-conquer.json) |
 | Command Center Earth | 273634 | [273634-command-center-earth.json](./273634-command-center-earth.json) |
@@ -7333,6 +7334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayola Colorful Creatures | 225659 | [225659-crayola-colorful-creatures.json](./225659-crayola-colorful-creatures.json) |
 | Crayola Create and Play | 415260 | [415260-crayola-create-and-play.json](./415260-crayola-create-and-play.json) |
 | Crayola Paint 'n Play Pony | 313287 | [313287-crayola-paint-n-play-pony.json](./313287-crayola-paint-n-play-pony.json) |
+| Crayola Scoot | 104980 | [104980-crayola-scoot.json](./104980-crayola-scoot.json) |
 | Crayola Treasure Adventures | 21363 | [21363-crayola-treasure-adventures.json](./21363-crayola-treasure-adventures.json) |
 | Crayola: Make a Masterpiece | 133804 | [133804-crayola-make-a-masterpiece.json](./133804-crayola-make-a-masterpiece.json) |
 | Crayon Christmas | 380704 | [380704-crayon-christmas.json](./380704-crayon-christmas.json) |
