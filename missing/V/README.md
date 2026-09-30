@@ -786,6 +786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Very Pink Game | 151580 | [151580-very-pink-game.json](./151580-very-pink-game.json) |
 | Very Scary Gays | 177909 | [177909-very-scary-gays.json](./177909-very-scary-gays.json) |
 | Very Very Cat | 393511 | [393511-very-very-cat.json](./393511-very-very-cat.json) |
+| Very Very Valet | 141680 | [141680-very-very-valet.json](./141680-very-very-valet.json) |
 | VeryVeryHouse | 356637 | [356637-veryveryhouse.json](./356637-veryveryhouse.json) |
 | Vesper | 137046 | [137046-vesper.json](./137046-vesper.json) |
 | Vesper | 377291 | [377291-vesper.json](./377291-vesper.json) |
