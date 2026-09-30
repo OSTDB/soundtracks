@@ -1859,6 +1859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Genie: An Eidola Tale | 258737 | [258737-red-genie-an-eidola-tale.json](./258737-red-genie-an-eidola-tale.json) |
 | Red Goddess: Inner World | 15912 | [15912-red-goddess-inner-world.json](./15912-red-goddess-inner-world.json) |
 | Red Goes Faster | 173090 | [173090-red-goes-faster.json](./173090-red-goes-faster.json) |
+| Red Grimly Tale | 397131 | [397131-red-grimly-tale.json](./397131-red-grimly-tale.json) |
 | Red Haven | 218714 | [218714-red-haven.json](./218714-red-haven.json) |
 | Red Hawk | 411129 | [411129-red-hawk.json](./411129-red-hawk.json) |
 | Red Haze: Bruises Glimmer in Starlight | 325820 | [325820-red-haze-bruises-glimmer-in-starlight.json](./325820-red-haze-bruises-glimmer-in-starlight.json) |
@@ -2582,6 +2583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Race | 243810 | [243810-rescue-race.json](./243810-rescue-race.json) |
 | Rescue Raider | 38564 | [38564-rescue-raider.json](./38564-rescue-raider.json) |
 | Rescue Raiders | 25777 | [25777-rescue-raiders.json](./25777-rescue-raiders.json) |
+| Rescue Refused | 397172 | [397172-rescue-refused.json](./397172-rescue-refused.json) |
 | Rescue Rina | 169797 | [169797-rescue-rina.json](./169797-rescue-rina.json) |
 | Rescue Roby | 68933 | [68933-rescue-roby.json](./68933-rescue-roby.json) |
 | Rescue Rover 2 | 72110 | [72110-rescue-rover-2.json](./72110-rescue-rover-2.json) |
