@@ -337,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xevorel: The Way Of The Feather | 129215 | [129215-xevorel-the-way-of-the-feather.json](./129215-xevorel-the-way-of-the-feather.json) |
 | Xexex | 28052 | [28052-xexex.json](./28052-xexex.json) |
 | Xexis | 312903 | [312903-xexis.json](./312903-xexis.json) |
+| Xexyz | 14413 | [14413-xexyz.json](./14413-xexyz.json) |
 | Xezi: Story Mode | 23861 | [23861-xezi-story-mode.json](./23861-xezi-story-mode.json) |
 | XF: Football Arena | 193869 | [193869-xf-football-arena.json](./193869-xf-football-arena.json) |
 | XG Blast! | 21254 | [21254-xg-blast.json](./21254-xg-blast.json) |
