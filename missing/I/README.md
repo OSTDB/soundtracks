@@ -831,6 +831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Project | 283713 | [283713-idol-project.json](./283713-idol-project.json) |
 | Idol Project 2 | 283714 | [283714-idol-project-2.json](./283714-idol-project-2.json) |
 | Idol Queens Production | 168674 | [168674-idol-queens-production.json](./168674-idol-queens-production.json) |
+| Idol Shell | 415207 | [415207-idol-shell.json](./415207-idol-shell.json) |
 | Idol Shooter | 267960 | [267960-idol-shooter.json](./267960-idol-shooter.json) |
 | Idol Showdown | 243747 | [243747-idol-showdown.json](./243747-idol-showdown.json) |
 | Idol Tantei You&My | 246105 | [246105-idol-tantei-you-and-my.json](./246105-idol-tantei-you-and-my.json) |
@@ -2327,6 +2328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Golf Pro | 43446 | [43446-international-golf-pro.json](./43446-international-golf-pro.json) |
 | International Match Day | 397918 | [397918-international-match-day.json](./397918-international-match-day.json) |
 | International Ninja Rabbits | 40916 | [40916-international-ninja-rabbits.json](./40916-international-ninja-rabbits.json) |
+| International Obsession | 415196 | [415196-international-obsession.json](./415196-international-obsession.json) |
 | International Pool Championship | 92472 | [92472-international-pool-championship.json](./92472-international-pool-championship.json) |
 | International Racing Squirrels | 63366 | [63366-international-racing-squirrels.json](./63366-international-racing-squirrels.json) |
 | International Rally | 49908 | [49908-international-rally.json](./49908-international-rally.json) |
