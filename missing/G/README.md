@@ -3725,6 +3725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grapple Gal | 219804 | [219804-grapple-gal.json](./219804-grapple-gal.json) |
 | Grapple Gum | 254150 | [254150-grapple-gum.json](./254150-grapple-gum.json) |
 | Grapple Gunners | 219805 | [219805-grapple-gunners.json](./219805-grapple-gunners.json) |
+| Grapple Souls | 388333 | [388333-grapple-souls.json](./388333-grapple-souls.json) |
 | Grapple the Abyss! | 182974 | [182974-grapple-the-abyss.json](./182974-grapple-the-abyss.json) |
 | Grapple Whip | 120360 | [120360-grapple-whip.json](./120360-grapple-whip.json) |
 | GrappleApp | 107002 | [107002-grappleapp.json](./107002-grappleapp.json) |
@@ -3932,6 +3933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Station | 382333 | [382333-gravity-station.json](./382333-gravity-station.json) |
 | Gravity Still Sucks! | 251210 | [251210-gravity-still-sucks.json](./251210-gravity-still-sucks.json) |
 | Gravity Storm: First Mission | 329586 | [329586-gravity-storm-first-mission.json](./329586-gravity-storm-first-mission.json) |
+| Gravity Strikers | 388319 | [388319-gravity-strikers.json](./388319-gravity-strikers.json) |
 | Gravity Swap 64 | 202107 | [202107-gravity-swap-64.json](./202107-gravity-swap-64.json) |
 | Gravity Up | 318424 | [318424-gravity-up.json](./318424-gravity-up.json) |
 | Gravity Vector | 104791 | [104791-gravity-vector.json](./104791-gravity-vector.json) |
@@ -4337,6 +4339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimoire: Manastorm - Nature Class | 170328 | [170328-grimoire-manastorm-nature-class.json](./170328-grimoire-manastorm-nature-class.json) |
 | Grimoria | 391573 | [391573-grimoria.json](./391573-grimoria.json) |
 | Grimorium | 392292 | [392292-grimorium.json](./392292-grimorium.json) |
+| Grimps | 388338 | [388338-grimps.json](./388338-grimps.json) |
 | GrimRail | 367612 | [367612-grimrail.json](./367612-grimrail.json) |
 | Grimshade | 102199 | [102199-grimshade.json](./102199-grimshade.json) |
 | Grimshire | 284411 | [284411-grimshire.json](./284411-grimshire.json) |
