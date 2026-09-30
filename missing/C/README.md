@@ -4701,6 +4701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Close Combat | 637 | [637-close-combat.json](./637-close-combat.json) |
 | Close Combat III: The Russian Front | 638 | [638-close-combat-iii-the-russian-front.json](./638-close-combat-iii-the-russian-front.json) |
 | Close Combat: A Bridge Too Far | 639 | [639-close-combat-a-bridge-too-far.json](./639-close-combat-a-bridge-too-far.json) |
+| Close Combat: Gateway to Caen | 17346 | [17346-close-combat-gateway-to-caen.json](./17346-close-combat-gateway-to-caen.json) |
 | Close Combat: Modern Tactics | 21519 | [21519-close-combat-modern-tactics.json](./21519-close-combat-modern-tactics.json) |
 | Close Contact | 149923 | [149923-close-contact.json](./149923-close-contact.json) |
 | Close Encounter VR | 388407 | [388407-close-encounter-vr.json](./388407-close-encounter-vr.json) |
@@ -7536,6 +7537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Pizza Boy | 242214 | [242214-crazy-pizza-boy.json](./242214-crazy-pizza-boy.json) |
 | Crazy Plane Landing | 208460 | [208460-crazy-plane-landing.json](./208460-crazy-plane-landing.json) |
 | Crazy Planets | 182210 | [182210-crazy-planets.json](./182210-crazy-planets.json) |
+| Crazy Plant Shop | 17214 | [17214-crazy-plant-shop.json](./17214-crazy-plant-shop.json) |
 | Crazy Pocket | 413613 | [413613-crazy-pocket.json](./413613-crazy-pocket.json) |
 | Crazy Puzzle | 358935 | [358935-crazy-puzzle.json](./358935-crazy-puzzle.json) |
 | Crazy Rabbits | 250973 | [250973-crazy-rabbits.json](./250973-crazy-rabbits.json) |
@@ -8614,6 +8616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CubeDood in the Memory Snatcher | 239336 | [239336-cubedood-in-the-memory-snatcher.json](./239336-cubedood-in-the-memory-snatcher.json) |
 | CubeeRun Memories | 284983 | [284983-cubeerun-memories.json](./284983-cubeerun-memories.json) |
 | CubeGate | 266178 | [266178-cubegate.json](./266178-cubegate.json) |
+| CubeGun | 17372 | [17372-cubegun.json](./17372-cubegun.json) |
 | Cubeism 2: Baroque Edition | 218149 | [218149-cubeism-2-baroque-edition.json](./218149-cubeism-2-baroque-edition.json) |
 | CubeLines | 191251 | [191251-cubelines.json](./191251-cubelines.json) |
 | Cubelz | 101357 | [101357-cubelz.json](./101357-cubelz.json) |
@@ -9065,6 +9068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Snake | 193473 | [193473-cute-snake.json](./193473-cute-snake.json) |
 | Cute Socks | 310722 | [310722-cute-socks.json](./310722-cute-socks.json) |
 | Cute Star Heroes | 349471 | [349471-cute-star-heroes.json](./349471-cute-star-heroes.json) |
+| Cute Things Dying Violently | 12394 | [12394-cute-things-dying-violently.json](./12394-cute-things-dying-violently.json) |
 | Cute Triplets | 148540 | [148540-cute-triplets.json](./148540-cute-triplets.json) |
 | Cute, Broke, and Dungeon Bound | 334132 | [334132-cute-broke-and-dungeon-bound.json](./334132-cute-broke-and-dungeon-bound.json) |
 | Cute, Evil & Strange | 116411 | [116411-cute-evil-and-strange.json](./116411-cute-evil-and-strange.json) |
