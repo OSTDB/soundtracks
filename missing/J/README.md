@@ -1509,6 +1509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump the Crank | 365143 | [365143-jump-the-crank.json](./365143-jump-the-crank.json) |
 | Jump to Die!! | 29758 | [29758-jump-to-die.json](./29758-jump-to-die.json) |
 | Jump To Stratos | 376567 | [376567-jump-to-stratos.json](./376567-jump-to-stratos.json) |
+| Jump To Success | 392341 | [392341-jump-to-success.json](./392341-jump-to-success.json) |
 | Jump to Win | 22367 | [22367-jump-to-win.json](./22367-jump-to-win.json) |
 | Jump To Win! | 303223 | [303223-jump-to-win.json](./303223-jump-to-win.json) |
 | Jump Tracks | 257315 | [257315-jump-tracks.json](./257315-jump-tracks.json) |
