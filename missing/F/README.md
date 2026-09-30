@@ -1407,6 +1407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fat 2 Fit! | 152289 | [152289-fat-2-fit.json](./152289-fat-2-fit.json) |
 | Fat Albert | 320981 | [320981-fat-albert.json](./320981-fat-albert.json) |
 | Fat Baby | 186036 | [186036-fat-baby.json](./186036-fat-baby.json) |
+| Fat Birds Build a Bridge! | 88447 | [88447-fat-birds-build-a-bridge.json](./88447-fat-birds-build-a-bridge.json) |
 | Fat Chicken | 17891 | [17891-fat-chicken.json](./17891-fat-chicken.json) |
 | Fat City | 20964 | [20964-fat-city.json](./20964-fat-city.json) |
 | Fat Dot | 179145 | [179145-fat-dot.json](./179145-fat-dot.json) |
@@ -5273,6 +5274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freebie | 32400 | [32400-freebie.json](./32400-freebie.json) |
 | Freebot : Battle for FreeWeb | 103640 | [103640-freebot-battle-for-freeweb.json](./103640-freebot-battle-for-freeweb.json) |
 | FreeCell | 383490 | [383490-freecell.json](./383490-freecell.json) |
+| FreeCell Solitaire - Classic Deck Card Games | 88365 | [88365-freecell-solitaire-classic-deck-card-games.json](./88365-freecell-solitaire-classic-deck-card-games.json) |
 | FreeCell Solitaire Classic Card Game | 340247 | [340247-freecell-solitaire-classic-card-game.json](./340247-freecell-solitaire-classic-card-game.json) |
 | FreeDiver: Triton Down | 117797 | [117797-freediver-triton-down.json](./117797-freediver-triton-down.json) |
 | Freedom | 271995 | [271995-freedom.json](./271995-freedom.json) |
