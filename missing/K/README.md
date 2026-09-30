@@ -2015,6 +2015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KMines | 234162 | [234162-kmines.json](./234162-kmines.json) |
 | KMON: Genesis | 254790 | [254790-kmon-genesis.json](./254790-kmon-genesis.json) |
 | Knack | 2957 | [2957-knack.json](./2957-knack.json) |
+| Knack! | 88474 | [88474-knack.json](./88474-knack.json) |
 | Knack' den Code | 78097 | [78097-knack-den-code.json](./78097-knack-den-code.json) |
 | Knee-deep in 2023 | 261822 | [261822-knee-deep-in-2023.json](./261822-knee-deep-in-2023.json) |
 | Knee-Deep in Kdizd | 260668 | [260668-knee-deep-in-kdizd.json](./260668-knee-deep-in-kdizd.json) |
