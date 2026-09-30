@@ -509,6 +509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naught: Extended Edition | 139911 | [139911-naught-extended-edition.json](./139911-naught-extended-edition.json) |
 | Naughty | 348778 | [348778-naughty.json](./348778-naughty.json) |
 | Naughty & Nice | 283732 | [283732-naughty-and-nice.json](./283732-naughty-and-nice.json) |
+| Naughty Baby | 420666 | [420666-naughty-baby.json](./420666-naughty-baby.json) |
 | Naughty Bear | 2633 | [2633-naughty-bear.json](./2633-naughty-bear.json) |
 | Naughty Boy | 40990 | [40990-naughty-boy.json](./40990-naughty-boy.json) |
 | Naughty College 18+ | 258984 | [258984-naughty-college-18.json](./258984-naughty-college-18.json) |
@@ -1715,6 +1716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next Island | 92473 | [92473-next-island.json](./92473-next-island.json) |
 | Next Life | 51367 | [51367-next-life.json](./51367-next-life.json) |
 | Next Move | 262295 | [262295-next-move.json](./262295-next-move.json) |
+| Next of Kin: Epiphany | 420665 | [420665-next-of-kin-epiphany.json](./420665-next-of-kin-epiphany.json) |
 | Next Player Please | 204346 | [204346-next-player-please.json](./204346-next-player-please.json) |
 | Next Power | 242772 | [242772-next-power.json](./242772-next-power.json) |
 | Next Quintillionaire | 391611 | [391611-next-quintillionaire.json](./391611-next-quintillionaire.json) |
