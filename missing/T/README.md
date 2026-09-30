@@ -2835,6 +2835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Armardisp | 260376 | [260376-the-armardisp.json](./260376-the-armardisp.json) |
 | The Armclaw Experiment | 99166 | [99166-the-armclaw-experiment.json](./99166-the-armclaw-experiment.json) |
 | The Arrangement | 73242 | [73242-the-arrangement.json](./73242-the-arrangement.json) |
+| The Arrogance of Man | 394447 | [394447-the-arrogance-of-man.json](./394447-the-arrogance-of-man.json) |
 | The Arrogant Kaiju Princess and The Detective Servant | 267060 | [267060-the-arrogant-kaiju-princess-and-the-detective-servant.json](./267060-the-arrogant-kaiju-princess-and-the-detective-servant.json) |
 | The Arrow Man | 71810 | [71810-the-arrow-man.json](./71810-the-arrow-man.json) |
 | The Arson Betrayal | 239312 | [239312-the-arson-betrayal.json](./239312-the-arson-betrayal.json) |
@@ -4377,6 +4378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fame Game: Welcome to Hollywood | 362303 | [362303-the-fame-game-welcome-to-hollywood.json](./362303-the-fame-game-welcome-to-hollywood.json) |
 | The Family Cat | 190963 | [190963-the-family-cat.json](./190963-the-family-cat.json) |
 | The Family Skeleton | 72343 | [72343-the-family-skeleton.json](./72343-the-family-skeleton.json) |
+| The Family Trip | 394449 | [394449-the-family-trip.json](./394449-the-family-trip.json) |
 | The FamiRes | 66172 | [66172-the-famires.json](./66172-the-famires.json) |
 | The Famous Five Adventure Game | 90845 | [90845-the-famous-five-adventure-game.json](./90845-the-famous-five-adventure-game.json) |
 | The Famous Five: Dangerous Discovery | 13773 | [13773-the-famous-five-dangerous-discovery.json](./13773-the-famous-five-dangerous-discovery.json) |
@@ -8643,6 +8645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Underdog | 373013 | [373013-the-underdog.json](./373013-the-underdog.json) |
 | The Underground King | 118843 | [118843-the-underground-king.json](./118843-the-underground-king.json) |
 | The Undergrounders | 339847 | [339847-the-undergrounders.json](./339847-the-undergrounders.json) |
+| The Undermall | 394454 | [394454-the-undermall.json](./394454-the-undermall.json) |
 | The Underworld | 271804 | [271804-the-underworld.json](./271804-the-underworld.json) |
 | The Undying Beast | 177310 | [177310-the-undying-beast.json](./177310-the-undying-beast.json) |
 | The Undying Plague | 35759 | [35759-the-undying-plague.json](./35759-the-undying-plague.json) |
@@ -11587,6 +11590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tok 2 | 116338 | [116338-tok-2.json](./116338-tok-2.json) |
 | Tokachi Detective: The Balloon Case | 342889 | [342889-tokachi-detective-the-balloon-case.json](./342889-tokachi-detective-the-balloon-case.json) |
 | Tokage Metro GB | 349947 | [349947-tokage-metro-gb.json](./349947-tokage-metro-gb.json) |
+| Tokens | 394444 | [394444-tokens.json](./394444-tokens.json) |
 | Tokeru Fuuka to Shirousagi | 411105 | [411105-tokeru-fuuka-to-shirousagi.json](./411105-tokeru-fuuka-to-shirousagi.json) |
 | Toki | 12228 | [12228-toki.json](./12228-toki.json) |
 | Toki Hako Time Capsule | 342767 | [342767-toki-hako-time-capsule.json](./342767-toki-hako-time-capsule.json) |
