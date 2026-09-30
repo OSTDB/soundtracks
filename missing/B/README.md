@@ -2540,6 +2540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Them All | 166676 | [166676-beat-them-all.json](./166676-beat-them-all.json) |
 | Beat Them Up: Box Simulator | 234626 | [234626-beat-them-up-box-simulator.json](./234626-beat-them-up-box-simulator.json) |
 | Beat Them Up: Street Fight Band Simulator | 251598 | [251598-beat-them-up-street-fight-band-simulator.json](./251598-beat-them-up-street-fight-band-simulator.json) |
+| Beat This Game To See Hot Lady | 396495 | [396495-beat-this-game-to-see-hot-lady.json](./396495-beat-this-game-to-see-hot-lady.json) |
 | Beat Time | 91439 | [91439-beat-time.json](./91439-beat-time.json) |
 | Beat Up Bowser! | 328609 | [328609-beat-up-bowser.json](./328609-beat-up-bowser.json) |
 | Beat Valkyrie Ixseal | 208300 | [208300-beat-valkyrie-ixseal.json](./208300-beat-valkyrie-ixseal.json) |
@@ -6574,6 +6575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxocost | 144962 | [144962-boxocost.json](./144962-boxocost.json) |
 | Boxpast Lov3you | 392301 | [392301-boxpast-lov3you.json](./392301-boxpast-lov3you.json) |
 | Boxplosion | 29054 | [29054-boxplosion.json](./29054-boxplosion.json) |
+| Boxroom | 396520 | [396520-boxroom.json](./396520-boxroom.json) |
 | BoxRunner | 107901 | [107901-boxrunner.json](./107901-boxrunner.json) |
 | Boxsplodings | 61911 | [61911-boxsplodings.json](./61911-boxsplodings.json) |
 | Boxstacker | 349369 | [349369-boxstacker.json](./349369-boxstacker.json) |
@@ -7566,6 +7568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Cloud: Spinning Bubbles | 86774 | [86774-bubble-cloud-spinning-bubbles.json](./86774-bubble-cloud-spinning-bubbles.json) |
 | Bubble Crack | 71048 | [71048-bubble-crack.json](./71048-bubble-crack.json) |
 | Bubble Crackle | 87321 | [87321-bubble-crackle.json](./87321-bubble-crackle.json) |
+| Bubble de House de OOO: Ofuro Maker no Showroom ga Sharehouse de... | 396487 | [396487-bubble-de-house-de-ooo-ofuro-maker-no-showroom-ga-sharehouse-de.json](./396487-bubble-de-house-de-ooo-ofuro-maker-no-showroom-ga-sharehouse-de.json) |
 | Bubble Diving | 183341 | [183341-bubble-diving.json](./183341-bubble-diving.json) |
 | Bubble Dreams 3D | 330724 | [330724-bubble-dreams-3d.json](./330724-bubble-dreams-3d.json) |
 | Bubble Explosion Adventure | 87691 | [87691-bubble-explosion-adventure.json](./87691-bubble-explosion-adventure.json) |
