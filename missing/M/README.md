@@ -888,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maguntsche: Chapter Two | 371971 | [371971-maguntsche-chapter-two.json](./371971-maguntsche-chapter-two.json) |
 | Magus in Mystic Geometries. | 123591 | [123591-magus-in-mystic-geometries.json](./123591-magus-in-mystic-geometries.json) |
 | Magus Tower | 304721 | [304721-magus-tower.json](./304721-magus-tower.json) |
+| Magusian | 392390 | [392390-magusian.json](./392390-magusian.json) |
 | MaguSphere: Magical Cannon Girls | 122296 | [122296-magusphere-magical-cannon-girls.json](./122296-magusphere-magical-cannon-girls.json) |
 | Magyarock VR | 198443 | [198443-magyarock-vr.json](./198443-magyarock-vr.json) |
 | Mah Jong Quest | 131399 | [131399-mah-jong-quest.json](./131399-mah-jong-quest.json) |
@@ -10151,4 +10152,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myulk | 334276 | [334276-myulk.json](./334276-myulk.json) |
 | MyVegas Blackjack | 370751 | [370751-myvegas-blackjack.json](./370751-myvegas-blackjack.json) |
 | MyVegas Slots | 323168 | [323168-myvegas-slots.json](./323168-myvegas-slots.json) |
+| MyWhoosh | 392380 | [392380-mywhoosh.json](./392380-mywhoosh.json) |
 | Myworld is Yourworld | 271802 | [271802-myworld-is-yourworld.json](./271802-myworld-is-yourworld.json) |
