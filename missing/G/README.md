@@ -2476,6 +2476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Karting Outdoor | 193719 | [193719-go-karting-outdoor.json](./193719-go-karting-outdoor.json) |
 | Go Long! | 136444 | [136444-go-long.json](./136444-go-long.json) |
 | Go Mecha Ball | 253102 | [253102-go-mecha-ball.json](./253102-go-mecha-ball.json) |
+| Go Mission: Space Travel | 21632 | [21632-go-mission-space-travel.json](./21632-go-mission-space-travel.json) |
 | Go Noodle | 275687 | [275687-go-noodle.json](./275687-go-noodle.json) |
 | Go Nutz | 217271 | [217271-go-nutz.json](./217271-go-nutz.json) |
 | Go Outside Simulator | 111491 | [111491-go-outside-simulator.json](./111491-go-outside-simulator.json) |
