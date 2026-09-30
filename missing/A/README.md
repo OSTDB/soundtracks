@@ -4607,6 +4607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Crabs Treasure Prototype | 371331 | [371331-another-crabs-treasure-prototype.json](./371331-another-crabs-treasure-prototype.json) |
 | Another Crusade | 135681 | [135681-another-crusade.json](./135681-another-crusade.json) |
 | Another Day | 254143 | [254143-another-day.json](./254143-another-day.json) |
+| Another Day As President | 394440 | [394440-another-day-as-president.json](./394440-another-day-as-president.json) |
 | Another Day in Hell | 341663 | [341663-another-day-in-hell.json](./341663-another-day-in-hell.json) |
 | Another Day of Chikan! Vol7 Cool Beauty Schoolgirl in a Band | 82931 | [82931-another-day-of-chikan-vol7-cool-beauty-schoolgirl-in-a-band.json](./82931-another-day-of-chikan-vol7-cool-beauty-schoolgirl-in-a-band.json) |
 | Another Day to Die | 373752 | [373752-another-day-to-die.json](./373752-another-day-to-die.json) |
