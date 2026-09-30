@@ -2202,6 +2202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seed In | 266787 | [266787-seed-in.json](./266787-seed-in.json) |
 | Seed of Agony | 173307 | [173307-seed-of-agony.json](./173307-seed-of-agony.json) |
 | Seed of Dragon | 400959 | [400959-seed-of-dragon.json](./400959-seed-of-dragon.json) |
+| Seed of Life | 117261 | [117261-seed-of-life.json](./117261-seed-of-life.json) |
 | Seed of Life | 225772 | [225772-seed-of-life.json](./225772-seed-of-life.json) |
 | Seed of Life | 225773 | [225773-seed-of-life.json](./225773-seed-of-life.json) |
 | Seed of Nostalgia | 334879 | [334879-seed-of-nostalgia.json](./334879-seed-of-nostalgia.json) |
@@ -4635,6 +4636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siege and Destroy | 29802 | [29802-siege-and-destroy.json](./29802-siege-and-destroy.json) |
 | Siege Hammer | 31105 | [31105-siege-hammer.json](./31105-siege-hammer.json) |
 | Siege of Avalon | 9382 | [9382-siege-of-avalon.json](./9382-siege-of-avalon.json) |
+| Siege of Centauri | 116002 | [116002-siege-of-centauri.json](./116002-siege-of-centauri.json) |
 | Siege of Dragonspear | 174209 | [174209-siege-of-dragonspear.json](./174209-siege-of-dragonspear.json) |
 | Siege of Osaka | 239181 | [239181-siege-of-osaka.json](./239181-siege-of-osaka.json) |
 | Siege of Syracuse | 413001 | [413001-siege-of-syracuse.json](./413001-siege-of-syracuse.json) |
@@ -5740,6 +5742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Pirates of Actorius | 129101 | [129101-sky-pirates-of-actorius.json](./129101-sky-pirates-of-actorius.json) |
 | Sky Plankers | 28195 | [28195-sky-plankers.json](./28195-sky-plankers.json) |
 | Sky Races | 186909 | [186909-sky-races.json](./186909-sky-races.json) |
+| Sky Racket | 115006 | [115006-sky-racket.json](./115006-sky-racket.json) |
 | Sky Reach | 382347 | [382347-sky-reach.json](./382347-sky-reach.json) |
 | Sky Realm: Essences | 118332 | [118332-sky-realm-essences.json](./118332-sky-realm-essences.json) |
 | Sky Reclaimers | 348247 | [348247-sky-reclaimers.json](./348247-sky-reclaimers.json) |
@@ -8632,6 +8635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soundart | 127076 | [127076-soundart.json](./127076-soundart.json) |
 | Soundboxing | 31625 | [31625-soundboxing.json](./31625-soundboxing.json) |
 | Soundbusting | 177996 | [177996-soundbusting.json](./177996-soundbusting.json) |
+| Soundfall | 106821 | [106821-soundfall.json](./106821-soundfall.json) |
 | Soundless Mound | 262310 | [262310-soundless-mound.json](./262310-soundless-mound.json) |
 | Soundless: Final Verse | 282694 | [282694-soundless-final-verse.json](./282694-soundless-final-verse.json) |
 | SoundLites | 90594 | [90594-soundlites.json](./90594-soundlites.json) |
@@ -9590,6 +9594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed King 2 | 57601 | [57601-speed-king-2.json](./57601-speed-king-2.json) |
 | Speed Legacy: Ultimate Drive | 378186 | [378186-speed-legacy-ultimate-drive.json](./378186-speed-legacy-ultimate-drive.json) |
 | Speed Legends | 234330 | [234330-speed-legends.json](./234330-speed-legends.json) |
+| Speed Limit | 117106 | [117106-speed-limit.json](./117106-speed-limit.json) |
 | Speed Liner | 379878 | [379878-speed-liner.json](./379878-speed-liner.json) |
 | Speed Masters ASD | 130971 | [130971-speed-masters-asd.json](./130971-speed-masters-asd.json) |
 | Speed Mazing | 164985 | [164985-speed-mazing.json](./164985-speed-mazing.json) |
@@ -12455,6 +12460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm Angel | 400297 | [400297-storm-angel.json](./400297-storm-angel.json) |
 | Storm Area 51: The Game | 120982 | [120982-storm-area-51-the-game.json](./120982-storm-area-51-the-game.json) |
 | Storm Arena | 114425 | [114425-storm-arena.json](./114425-storm-arena.json) |
+| Storm Chasers | 117083 | [117083-storm-chasers.json](./117083-storm-chasers.json) |
 | Storm Chasers: Tornado Islands | 128984 | [128984-storm-chasers-tornado-islands.json](./128984-storm-chasers-tornado-islands.json) |
 | Storm Chasing Sim 2025: Tornado Hunter | 374676 | [374676-storm-chasing-sim-2025-tornado-hunter.json](./374676-storm-chasing-sim-2025-tornado-hunter.json) |
 | Storm Clan | 406304 | [406304-storm-clan.json](./406304-storm-clan.json) |
