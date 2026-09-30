@@ -5813,6 +5813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Posh Boutique 2 | 294454 | [294454-posh-boutique-2.json](./294454-posh-boutique-2.json) |
 | Posibility | 127367 | [127367-posibility.json](./127367-posibility.json) |
 | Positronic Bridge | 94544 | [94544-positronic-bridge.json](./94544-positronic-bridge.json) |
+| PositronX | 88302 | [88302-positronx.json](./88302-positronx.json) |
 | Possess Quest | 266186 | [266186-possess-quest.json](./266186-possess-quest.json) |
 | Possessed Bloody Asylum | 157570 | [157570-possessed-bloody-asylum.json](./157570-possessed-bloody-asylum.json) |
 | Possession | 90649 | [90649-possession.json](./90649-possession.json) |
