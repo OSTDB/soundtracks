@@ -964,6 +964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YuYu Hakusho II: Gekitou! Nanakyou no Tatakai | 46552 | [46552-yuyu-hakusho-ii-gekitou-nanakyou-no-tatakai.json](./46552-yuyu-hakusho-ii-gekitou-nanakyou-no-tatakai.json) |
 | YuYu Hakusho: Ankoku Bujutsukai-hen | 186653 | [186653-yuyu-hakusho-ankoku-bujutsukai-hen.json](./186653-yuyu-hakusho-ankoku-bujutsukai-hen.json) |
 | YuYu Hakusho: Sunset Fighters | 45607 | [45607-yuyu-hakusho-sunset-fighters.json](./45607-yuyu-hakusho-sunset-fighters.json) |
+| YuYu Hakusho: Tokubetsu-hen | 42532 | [42532-yuyu-hakusho-tokubetsu-hen.json](./42532-yuyu-hakusho-tokubetsu-hen.json) |
 | Yuyuko's Butterfly Dream | 113143 | [113143-yuyukos-butterfly-dream.json](./113143-yuyukos-butterfly-dream.json) |
 | Yuzai x Muzai | 69206 | [69206-yuzai-x-muzai.json](./69206-yuzai-x-muzai.json) |
 | Yves: Crazy Student | 327967 | [327967-yves-crazy-student.json](./327967-yves-crazy-student.json) |
