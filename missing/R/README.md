@@ -2713,6 +2713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resort Beauties: Hentai Photo Puzzle | 409560 | [409560-resort-beauties-hentai-photo-puzzle.json](./409560-resort-beauties-hentai-photo-puzzle.json) |
 | Resort Boss: Golf | 114798 | [114798-resort-boss-golf.json](./114798-resort-boss-golf.json) |
 | Resort Empire | 394361 | [394361-resort-empire.json](./394361-resort-empire.json) |
+| Resort Simulator | 407373 | [407373-resort-simulator.json](./407373-resort-simulator.json) |
 | Resortopia | 287627 | [287627-resortopia.json](./287627-resortopia.json) |
 | Resource Recon | 295352 | [295352-resource-recon.json](./295352-resource-recon.json) |
 | Resourcer | 245945 | [245945-resourcer.json](./245945-resourcer.json) |
@@ -4865,6 +4866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Role Player: Ikura Shimai no Nenmaku Portrait - Gurigucha Live | 413743 | [413743-role-player-ikura-shimai-no-nenmaku-portrait-gurigucha-live.json](./413743-role-player-ikura-shimai-no-nenmaku-portrait-gurigucha-live.json) |
 | Role Player: Okayu Shimai no Nenmaku Portrait - Gurigucha Live | 413742 | [413742-role-player-okayu-shimai-no-nenmaku-portrait-gurigucha-live.json](./413742-role-player-okayu-shimai-no-nenmaku-portrait-gurigucha-live.json) |
 | Rolf | 163833 | [163833-rolf.json](./163833-rolf.json) |
+| Rolf | 407520 | [407520-rolf.json](./407520-rolf.json) |
 | Roll | 147455 | [147455-roll.json](./147455-roll.json) |
 | Roll a Ball With Your Friends | 150520 | [150520-roll-a-ball-with-your-friends.json](./150520-roll-a-ball-with-your-friends.json) |
 | Roll Ball | 319963 | [319963-roll-ball.json](./319963-roll-ball.json) |
