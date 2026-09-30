@@ -737,6 +737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Chess: Magnificent Edition | 246647 | [246647-family-chess-magnificent-edition.json](./246647-family-chess-magnificent-edition.json) |
 | Family Chess: Ultimate Edition | 212340 | [212340-family-chess-ultimate-edition.json](./212340-family-chess-ultimate-edition.json) |
 | Family Dinner | 377162 | [377162-family-dinner.json](./377162-family-dinner.json) |
+| Family Dog | 42570 | [42570-family-dog.json](./42570-family-dog.json) |
 | Family Farm | 322141 | [322141-family-farm.json](./322141-family-farm.json) |
 | Family Farm Seaside | 104104 | [104104-family-farm-seaside.json](./104104-family-farm-seaside.json) |
 | Family Fest Presents Movie Games | 70671 | [70671-family-fest-presents-movie-games.json](./70671-family-fest-presents-movie-games.json) |
