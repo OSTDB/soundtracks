@@ -515,6 +515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeremiah | 181691 | [181691-jeremiah.json](./181691-jeremiah.json) |
 | Jeremy Goes Jumping | 128469 | [128469-jeremy-goes-jumping.json](./128469-jeremy-goes-jumping.json) |
 | Jeremy McGrath Supercross 98 | 4125 | [4125-jeremy-mcgrath-supercross-98.json](./4125-jeremy-mcgrath-supercross-98.json) |
+| Jeremy McGrath's Offroad | 20828 | [20828-jeremy-mcgraths-offroad.json](./20828-jeremy-mcgraths-offroad.json) |
 | Jericho Mirage | 210133 | [210133-jericho-mirage.json](./210133-jericho-mirage.json) |
 | Jericho's Rose | 173246 | [173246-jerichos-rose.json](./173246-jerichos-rose.json) |
 | Jerma Rancher | 329939 | [329939-jerma-rancher.json](./329939-jerma-rancher.json) |
@@ -671,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Pets: Magic Rhythm de Yeah! | 141124 | [141124-jewel-pets-magic-rhythm-de-yeah.json](./141124-jewel-pets-magic-rhythm-de-yeah.json) |
 | Jewel Queen: Puzzle & Magic | 212485 | [212485-jewel-queen-puzzle-and-magic.json](./212485-jewel-queen-puzzle-and-magic.json) |
 | Jewel Quest | 196845 | [196845-jewel-quest.json](./196845-jewel-quest.json) |
+| Jewel Quest | 20500 | [20500-jewel-quest.json](./20500-jewel-quest.json) |
 | Jewel Quest | 85622 | [85622-jewel-quest.json](./85622-jewel-quest.json) |
 | Jewel Quest 4 Heritage | 85215 | [85215-jewel-quest-4-heritage.json](./85215-jewel-quest-4-heritage.json) |
 | Jewel Quest 4: Heritage | 85621 | [85621-jewel-quest-4-heritage.json](./85621-jewel-quest-4-heritage.json) |
