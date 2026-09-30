@@ -6091,6 +6091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rushing Punch | 270675 | [270675-rushing-punch.json](./270675-rushing-punch.json) |
 | RushLane | 243679 | [243679-rushlane.json](./243679-rushlane.json) |
 | Rushmith | 331877 | [331877-rushmith.json](./331877-rushmith.json) |
+| Rushmore | 388331 | [388331-rushmore.json](./388331-rushmore.json) |
 | Rushuzen | 306362 | [306362-rushuzen.json](./306362-rushuzen.json) |
 | Ruskindo | 182910 | [182910-ruskindo.json](./182910-ruskindo.json) |
 | Ruslicstan Invades | 238497 | [238497-ruslicstan-invades.json](./238497-ruslicstan-invades.json) |
@@ -6153,6 +6154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusted | 340945 | [340945-rusted.json](./340945-rusted.json) |
 | Rusted Awakening | 309487 | [309487-rusted-awakening.json](./309487-rusted-awakening.json) |
 | Rusted Sea | 296376 | [296376-rusted-sea.json](./296376-rusted-sea.json) |
+| Rusthaven | 388313 | [388313-rusthaven.json](./388313-rusthaven.json) |
 | Rustic Defense | 332994 | [332994-rustic-defense.json](./332994-rustic-defense.json) |
 | Rustil: Eternal Labyrinth Castle | 247984 | [247984-rustil-eternal-labyrinth-castle.json](./247984-rustil-eternal-labyrinth-castle.json) |
 | Rustle | 181346 | [181346-rustle.json](./181346-rustle.json) |
