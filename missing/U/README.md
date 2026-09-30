@@ -1654,6 +1654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | USA Nature's Trails Jigsaw Edition: Expansion Pack 4 | 357962 | [357962-usa-natures-trails-jigsaw-edition-expansion-pack-4.json](./357962-usa-natures-trails-jigsaw-edition-expansion-pack-4.json) |
 | USA Racer | 62146 | [62146-usa-racer.json](./62146-usa-racer.json) |
 | USA Today: Puzzle Craze | 206213 | [206213-usa-today-puzzle-craze.json](./206213-usa-today-puzzle-craze.json) |
+| Usa-Jong: Haja-ou no Fukkatsu | 410409 | [410409-usa-jong-haja-ou-no-fukkatsu.json](./410409-usa-jong-haja-ou-no-fukkatsu.json) |
 | Usagi | 202342 | [202342-usagi.json](./202342-usagi.json) |
 | Usagi Health Club | 207339 | [207339-usagi-health-club.json](./207339-usagi-health-club.json) |
 | Usagi Sekai: Bunny Shaman | 338581 | [338581-usagi-sekai-bunny-shaman.json](./338581-usagi-sekai-bunny-shaman.json) |
