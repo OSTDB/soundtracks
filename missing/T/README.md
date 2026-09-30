@@ -6160,6 +6160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings: The Fellowship of the Ring | 201347 | [201347-the-lord-of-the-rings-the-fellowship-of-the-ring.json](./201347-the-lord-of-the-rings-the-fellowship-of-the-ring.json) |
 | The Lord of the Rings: The Return of the King | 135708 | [135708-the-lord-of-the-rings-the-return-of-the-king.json](./135708-the-lord-of-the-rings-the-return-of-the-king.json) |
 | The Lord of the Rings: Total War | 356262 | [356262-the-lord-of-the-rings-total-war.json](./356262-the-lord-of-the-rings-total-war.json) |
+| The Lord of the Rings: War in the North - Legacy Edition | 413144 | [413144-the-lord-of-the-rings-war-in-the-north-legacy-edition.json](./413144-the-lord-of-the-rings-war-in-the-north-legacy-edition.json) |
 | The Lord of the Rings: War of the Ring | 9256 | [9256-the-lord-of-the-rings-war-of-the-ring.json](./9256-the-lord-of-the-rings-war-of-the-ring.json) |
 | The Lord of the Tower | 205601 | [205601-the-lord-of-the-tower.json](./205601-the-lord-of-the-tower.json) |
 | The Lord of War | 262064 | [262064-the-lord-of-war.json](./262064-the-lord-of-war.json) |
@@ -8289,6 +8290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tomb of Corruption | 289954 | [289954-the-tomb-of-corruption.json](./289954-the-tomb-of-corruption.json) |
 | The Tomorrow Children: Phoenix Edition | 205261 | [205261-the-tomorrow-children-phoenix-edition.json](./205261-the-tomorrow-children-phoenix-edition.json) |
 | The Tomorrow Corporation Collection | 124784 | [124784-the-tomorrow-corporation-collection.json](./124784-the-tomorrow-corporation-collection.json) |
+| The Too-Cute Girl Who Moved in Next Door | 413100 | [413100-the-too-cute-girl-who-moved-in-next-door.json](./413100-the-too-cute-girl-who-moved-in-next-door.json) |
 | The Tool | 164264 | [164264-the-tool.json](./164264-the-tool.json) |
 | The Tooth Fae | 374729 | [374729-the-tooth-fae.json](./374729-the-tooth-fae.json) |
 | The Top Hat Club | 265742 | [265742-the-top-hat-club.json](./265742-the-top-hat-club.json) |
