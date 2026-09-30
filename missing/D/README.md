@@ -219,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DaiPyooon | 252155 | [252155-daipyooon.json](./252155-daipyooon.json) |
 | Dairantou Kanoair Smash 2002 | 196867 | [196867-dairantou-kanoair-smash-2002.json](./196867-dairantou-kanoair-smash-2002.json) |
 | Dairoku: Agents of Sakuratani | 146180 | [146180-dairoku-agents-of-sakuratani.json](./146180-dairoku-agents-of-sakuratani.json) |
+| Dairy Dash | 90700 | [90700-dairy-dash.json](./90700-dairy-dash.json) |
 | Dairy of the Dead | 339362 | [339362-dairy-of-the-dead.json](./339362-dairy-of-the-dead.json) |
 | Daiseiou | 64492 | [64492-daiseiou.json](./64492-daiseiou.json) |
 | Daisenryaku | 194311 | [194311-daisenryaku.json](./194311-daisenryaku.json) |
@@ -3944,6 +3945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DigDigDrill | 314442 | [314442-digdigdrill.json](./314442-digdigdrill.json) |
 | Digerati Best Sellers | 147885 | [147885-digerati-best-sellers.json](./147885-digerati-best-sellers.json) |
 | Digerati Couch Co-op Vol. 2 | 166688 | [166688-digerati-couch-co-op-vol-2.json](./166688-digerati-couch-co-op-vol-2.json) |
+| Digerati Pixel Art Bundle Part 1 | 90663 | [90663-digerati-pixel-art-bundle-part-1.json](./90663-digerati-pixel-art-bundle-part-1.json) |
 | Digerati Presents: The Dungeon Crawl Vol. 1 | 147884 | [147884-digerati-presents-the-dungeon-crawl-vol-1.json](./147884-digerati-presents-the-dungeon-crawl-vol-1.json) |
 | Digfender | 109064 | [109064-digfender.json](./109064-digfender.json) |
 | Digger | 172721 | [172721-digger.json](./172721-digger.json) |
@@ -7061,6 +7063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Dance & Cheer | 50632 | [50632-dream-dance-and-cheer.json](./50632-dream-dance-and-cheer.json) |
 | Dream Dancer | 209170 | [209170-dream-dancer.json](./209170-dream-dancer.json) |
 | Dream Data | 229645 | [229645-dream-data.json](./229645-dream-data.json) |
+| Dream Day: Bella Italia | 89231 | [89231-dream-day-bella-italia.json](./89231-dream-day-bella-italia.json) |
 | Dream Day: First Home | 209171 | [209171-dream-day-first-home.json](./209171-dream-day-first-home.json) |
 | Dream Day: Honeymoon | 209172 | [209172-dream-day-honeymoon.json](./209172-dream-day-honeymoon.json) |
 | Dream Day: Viva Las Vegas | 87284 | [87284-dream-day-viva-las-vegas.json](./87284-dream-day-viva-las-vegas.json) |
@@ -8609,6 +8612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors 7: Xtreme Legends - Definitive Edition | 113386 | [113386-dynasty-warriors-7-xtreme-legends-definitive-edition.json](./113386-dynasty-warriors-7-xtreme-legends-definitive-edition.json) |
 | Dynasty Warriors 8 | 6976 | [6976-dynasty-warriors-8.json](./6976-dynasty-warriors-8.json) |
 | Dynasty Warriors 8: Xtreme Legends Definitive Edition | 111063 | [111063-dynasty-warriors-8-xtreme-legends-definitive-edition.json](./111063-dynasty-warriors-8-xtreme-legends-definitive-edition.json) |
+| Dynasty Warriors 9 with Bonus | 90690 | [90690-dynasty-warriors-9-with-bonus.json](./90690-dynasty-warriors-9-with-bonus.json) |
 | Dynasty Warriors 9: Complete Edition | 199637 | [199637-dynasty-warriors-9-complete-edition.json](./199637-dynasty-warriors-9-complete-edition.json) |
 | Dynasty Warriors 9: Empires | 139126 | [139126-dynasty-warriors-9-empires.json](./139126-dynasty-warriors-9-empires.json) |
 | Dynasty Warriors 9: Guo Jia Additional Hypothetical Scenarios Set | 225913 | [225913-dynasty-warriors-9-guo-jia-additional-hypothetical-scenarios-set.json](./225913-dynasty-warriors-9-guo-jia-additional-hypothetical-scenarios-set.json) |
