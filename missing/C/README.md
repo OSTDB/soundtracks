@@ -266,6 +266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops - Annihilation | 22636 | [22636-call-of-duty-black-ops-annihilation.json](./22636-call-of-duty-black-ops-annihilation.json) |
 | Call of Duty: Black Ops - Gold Edition | 118925 | [118925-call-of-duty-black-ops-gold-edition.json](./118925-call-of-duty-black-ops-gold-edition.json) |
 | Call of Duty: Black Ops - Hardened Edition | 47476 | [47476-call-of-duty-black-ops-hardened-edition.json](./47476-call-of-duty-black-ops-hardened-edition.json) |
+| Call of Duty: Black Ops - Zombies | 77267 | [77267-call-of-duty-black-ops-zombies.json](./77267-call-of-duty-black-ops-zombies.json) |
 | Call of Duty: Black Ops 6 - Season 1 | 324925 | [324925-call-of-duty-black-ops-6-season-1.json](./324925-call-of-duty-black-ops-6-season-1.json) |
 | Call Of Duty: Black Ops 6 - Season 2 | 330137 | [330137-call-of-duty-black-ops-6-season-2.json](./330137-call-of-duty-black-ops-6-season-2.json) |
 | Call of Duty: Black Ops Cold War | 137001 | [137001-call-of-duty-black-ops-cold-war.json](./137001-call-of-duty-black-ops-cold-war.json) |
@@ -320,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Roads to Victory | 3120 | [3120-call-of-duty-roads-to-victory.json](./3120-call-of-duty-roads-to-victory.json) |
 | Call of Duty: Strike Team | 41513 | [41513-call-of-duty-strike-team.json](./41513-call-of-duty-strike-team.json) |
 | Call of Duty: The War Collection | 292856 | [292856-call-of-duty-the-war-collection.json](./292856-call-of-duty-the-war-collection.json) |
+| Call of Duty: Trilogy | 120543 | [120543-call-of-duty-trilogy.json](./120543-call-of-duty-trilogy.json) |
 | Call of Duty: Vanguard | 165067 | [165067-call-of-duty-vanguard.json](./165067-call-of-duty-vanguard.json) |
 | Call of Duty: Vanguard - Season Four | 205058 | [205058-call-of-duty-vanguard-season-four.json](./205058-call-of-duty-vanguard-season-four.json) |
 | Call of Duty: Vanguard - Season One | 202688 | [202688-call-of-duty-vanguard-season-one.json](./202688-call-of-duty-vanguard-season-one.json) |
@@ -7755,6 +7757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critter Isle | 334301 | [334301-critter-isle.json](./334301-critter-isle.json) |
 | Critter Loop | 412267 | [412267-critter-loop.json](./412267-critter-loop.json) |
 | Critter Switcher | 394880 | [394880-critter-switcher.json](./394880-critter-switcher.json) |
+| Critters for Sale | 123420 | [123420-critters-for-sale.json](./123420-critters-for-sale.json) |
 | Critters for Sale: Snake | 158055 | [158055-critters-for-sale-snake.json](./158055-critters-for-sale-snake.json) |
 | Critters: Cute Cubs in a Cruel World | 75037 | [75037-critters-cute-cubs-in-a-cruel-world.json](./75037-critters-cute-cubs-in-a-cruel-world.json) |
 | Critterville Goes Bankrupt | 378412 | [378412-critterville-goes-bankrupt.json](./378412-critterville-goes-bankrupt.json) |
