@@ -2016,6 +2016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats & Cups | 360002 | [360002-cats-and-cups.json](./360002-cats-and-cups.json) |
 | Cats & Dice | 319342 | [319342-cats-and-dice.json](./319342-cats-and-dice.json) |
 | Cats & Soup | 174818 | [174818-cats-and-soup.json](./174818-cats-and-soup.json) |
+| Cats & Soup: Magic Recipe | 399748 | [399748-cats-and-soup-magic-recipe.json](./399748-cats-and-soup-magic-recipe.json) |
 | Cats Academy | 141766 | [141766-cats-academy.json](./141766-cats-academy.json) |
 | Cats and Food 4: New Year | 169775 | [169775-cats-and-food-4-new-year.json](./169775-cats-and-food-4-new-year.json) |
 | Cats and Jigsaws | 188124 | [188124-cats-and-jigsaws.json](./188124-cats-and-jigsaws.json) |
@@ -6105,6 +6106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connect Four | 45935 | [45935-connect-four.json](./45935-connect-four.json) |
 | Connect Four / Perfection / Trouble | 77638 | [77638-connect-four-perfection-trouble.json](./77638-connect-four-perfection-trouble.json) |
 | Connect Four Cities | 73840 | [73840-connect-four-cities.json](./73840-connect-four-cities.json) |
+| Connect Lines | 399781 | [399781-connect-lines.json](./399781-connect-lines.json) |
 | Connect Lyrical Spectacle Forest | 258711 | [258711-connect-lyrical-spectacle-forest.json](./258711-connect-lyrical-spectacle-forest.json) |
 | Connect Master | 228115 | [228115-connect-master.json](./228115-connect-master.json) |
 | Connect Pictures of Dog | 324989 | [324989-connect-pictures-of-dog.json](./324989-connect-pictures-of-dog.json) |
@@ -6487,6 +6489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Mama World: Hobbies & Fun | 47957 | [47957-cooking-mama-world-hobbies-and-fun.json](./47957-cooking-mama-world-hobbies-and-fun.json) |
 | Cooking Mama: Let's Cook! | 88776 | [88776-cooking-mama-lets-cook.json](./88776-cooking-mama-lets-cook.json) |
 | Cooking Mama: Mama Kills Animals | 18449 | [18449-cooking-mama-mama-kills-animals.json](./18449-cooking-mama-mama-kills-animals.json) |
+| Cooking Misha | 399752 | [399752-cooking-misha.json](./399752-cooking-misha.json) |
 | Cooking Papa: Cookstar | 237641 | [237641-cooking-papa-cookstar.json](./237641-cooking-papa-cookstar.json) |
 | Cooking Simulator: Cakes and Cookies | 129196 | [129196-cooking-simulator-cakes-and-cookies.json](./129196-cooking-simulator-cakes-and-cookies.json) |
 | Cooking Simulator: Sushi | 273371 | [273371-cooking-simulator-sushi.json](./273371-cooking-simulator-sushi.json) |
