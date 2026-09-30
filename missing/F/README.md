@@ -4692,6 +4692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Airphoria Pack | 260134 | [260134-fortnite-airphoria-pack.json](./260134-fortnite-airphoria-pack.json) |
 | Fortnite: Anime Legends Pack | 212329 | [212329-fortnite-anime-legends-pack.json](./212329-fortnite-anime-legends-pack.json) |
 | Fortnite: Bee Positive Pack | 363901 | [363901-fortnite-bee-positive-pack.json](./363901-fortnite-bee-positive-pack.json) |
+| Fortnite: Chapter 2 | 129880 | [129880-fortnite-chapter-2.json](./129880-fortnite-chapter-2.json) |
 | Fortnite: Chapter 2 Remix | 321386 | [321386-fortnite-chapter-2-remix.json](./321386-fortnite-chapter-2-remix.json) |
 | Fortnite: Chapter 3 - Season 2: Resistance | 194664 | [194664-fortnite-chapter-3-season-2-resistance.json](./194664-fortnite-chapter-3-season-2-resistance.json) |
 | Fortnite: Chapter 4 | 228328 | [228328-fortnite-chapter-4.json](./228328-fortnite-chapter-4.json) |
