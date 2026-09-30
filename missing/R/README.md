@@ -2479,6 +2479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repair This! | 260385 | [260385-repair-this.json](./260385-repair-this.json) |
 | RepairBot | 114403 | [114403-repairbot.json](./114403-repairbot.json) |
 | Repairny | 204073 | [204073-repairny.json](./204073-repairny.json) |
+| Repeat It Back To Me | 397840 | [397840-repeat-it-back-to-me.json](./397840-repeat-it-back-to-me.json) |
 | Repeat the Ending | 275602 | [275602-repeat-the-ending.json](./275602-repeat-the-ending.json) |
 | Repeater | 374837 | [374837-repeater.json](./374837-repeater.json) |
 | RepeatyBots | 58498 | [58498-repeatybots.json](./58498-repeatybots.json) |
