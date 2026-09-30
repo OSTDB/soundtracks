@@ -1256,6 +1256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impetus: Clamor in Portis | 135276 | [135276-impetus-clamor-in-portis.json](./135276-impetus-clamor-in-portis.json) |
 | Impious | 309678 | [309678-impious.json](./309678-impious.json) |
 | Impious Pumpkins | 183611 | [183611-impious-pumpkins.json](./183611-impious-pumpkins.json) |
+| Impirical Evidence | 394437 | [394437-impirical-evidence.json](./394437-impirical-evidence.json) |
 | Impish Rat Electronic Pet | 314645 | [314645-impish-rat-electronic-pet.json](./314645-impish-rat-electronic-pet.json) |
 | ImpliCations | 257401 | [257401-implications.json](./257401-implications.json) |
 | Import Tuner Challenge | 7017 | [7017-import-tuner-challenge.json](./7017-import-tuner-challenge.json) |
