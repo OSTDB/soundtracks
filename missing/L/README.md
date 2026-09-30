@@ -1400,6 +1400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Arthouse | 117005 | [117005-lego-arthouse.json](./117005-lego-arthouse.json) |
 | LEGO Batman 2: DC Super Heroes | 6836 | [6836-lego-batman-2-dc-super-heroes.json](./6836-lego-batman-2-dc-super-heroes.json) |
 | LEGO Batman 3: Beyond Gotham - Dark Knight | 266232 | [266232-lego-batman-3-beyond-gotham-dark-knight.json](./266232-lego-batman-3-beyond-gotham-dark-knight.json) |
+| LEGO Batman: Legacy of the Dark Knight - Arkham Trilogy Pack | 401703 | [401703-lego-batman-legacy-of-the-dark-knight-arkham-trilogy-pack.json](./401703-lego-batman-legacy-of-the-dark-knight-arkham-trilogy-pack.json) |
 | LEGO Batman: Legacy of the Dark Knight - Batman Beyond Pack | 404392 | [404392-lego-batman-legacy-of-the-dark-knight-batman-beyond-pack.json](./404392-lego-batman-legacy-of-the-dark-knight-batman-beyond-pack.json) |
 | LEGO Batman: Legacy of the Dark Knight - Party Music Pack | 404395 | [404395-lego-batman-legacy-of-the-dark-knight-party-music-pack.json](./404395-lego-batman-legacy-of-the-dark-knight-party-music-pack.json) |
 | LEGO Batman: The Mobile Game | 259264 | [259264-lego-batman-the-mobile-game.json](./259264-lego-batman-the-mobile-game.json) |
