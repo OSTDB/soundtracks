@@ -920,6 +920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkdire: The Advanced Set - Greencastle Expansion | 224125 | [224125-darkdire-the-advanced-set-greencastle-expansion.json](./224125-darkdire-the-advanced-set-greencastle-expansion.json) |
 | DarkEdeNight | 86050 | [86050-darkedenight.json](./86050-darkedenight.json) |
 | Darkend | 331684 | [331684-darkend.json](./331684-darkend.json) |
+| DarkEnd | 17217 | [17217-darkend.json](./17217-darkend.json) |
 | Darkenstein 3D | 235996 | [235996-darkenstein-3d.json](./235996-darkenstein-3d.json) |
 | Darker Ride Escape | 310578 | [310578-darker-ride-escape.json](./310578-darker-ride-escape.json) |
 | Darker Tides | 238603 | [238603-darker-tides.json](./238603-darker-tides.json) |
@@ -6373,6 +6374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draco Space X | 151620 | [151620-draco-space-x.json](./151620-draco-space-x.json) |
 | Draco's Misfortune | 110990 | [110990-dracos-misfortune.json](./110990-dracos-misfortune.json) |
 | DracoFighter | 207527 | [207527-dracofighter.json](./207527-dracofighter.json) |
+| Draconian Wars | 17324 | [17324-draconian-wars.json](./17324-draconian-wars.json) |
 | Draconic Date | 324889 | [324889-draconic-date.json](./324889-draconic-date.json) |
 | Draconic Echoes: The Ardent War | 126664 | [126664-draconic-echoes-the-ardent-war.json](./126664-draconic-echoes-the-ardent-war.json) |
 | Draconic Evolution | 232672 | [232672-draconic-evolution.json](./232672-draconic-evolution.json) |
