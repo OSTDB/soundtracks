@@ -2227,6 +2227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pest Patrol | 85815 | [85815-pest-patrol.json](./85815-pest-patrol.json) |
 | Pesten | 94531 | [94531-pesten.json](./94531-pesten.json) |
 | Pesterminator: The Western Exterminator | 48080 | [48080-pesterminator-the-western-exterminator.json](./48080-pesterminator-the-western-exterminator.json) |
+| Pesterquest | 122062 | [122062-pesterquest.json](./122062-pesterquest.json) |
 | Pesticide Not Required | 257978 | [257978-pesticide-not-required.json](./257978-pesticide-not-required.json) |
 | Pestilence | 272272 | [272272-pestilence.json](./272272-pestilence.json) |
 | Pestilent Hunters | 201563 | [201563-pestilent-hunters.json](./201563-pestilent-hunters.json) |
@@ -5817,6 +5818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postal 2: A Week in Paradise | 129789 | [129789-postal-2-a-week-in-paradise.json](./129789-postal-2-a-week-in-paradise.json) |
 | Postal 2: Apocalypse Weekend | 3131 | [3131-postal-2-apocalypse-weekend.json](./3131-postal-2-apocalypse-weekend.json) |
 | Postal 2: CO-OP | 360077 | [360077-postal-2-co-op.json](./360077-postal-2-co-op.json) |
+| Postal 2: Corkscrew RuLes! | 125026 | [125026-postal-2-corkscrew-rules.json](./125026-postal-2-corkscrew-rules.json) |
 | Postal F: The Thursday Expansion - A Mod for Friday Night Funkin'. | 298715 | [298715-postal-f-the-thursday-expansion-a-mod-for-friday-night-funkin.json](./298715-postal-f-the-thursday-expansion-a-mod-for-friday-night-funkin.json) |
 | Postal III | 3110 | [3110-postal-iii.json](./3110-postal-iii.json) |
 | Postal: Redux | 8716 | [8716-postal-redux.json](./8716-postal-redux.json) |
