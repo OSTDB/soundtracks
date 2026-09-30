@@ -3440,6 +3440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective School Club | 304597 | [304597-detective-school-club.json](./304597-detective-school-club.json) |
 | Detective Secrets Solitaire: The Greyhall Mystery | 417508 | [417508-detective-secrets-solitaire-the-greyhall-mystery.json](./417508-detective-secrets-solitaire-the-greyhall-mystery.json) |
 | Detective Sherlock Pug | 111976 | [111976-detective-sherlock-pug.json](./111976-detective-sherlock-pug.json) |
+| Detective Sherlock: Shadow Stalker | 413113 | [413113-detective-sherlock-shadow-stalker.json](./413113-detective-sherlock-shadow-stalker.json) |
 | Detective Sir Biscuit in Green Burguer Mystery | 310580 | [310580-detective-sir-biscuit-in-green-burguer-mystery.json](./310580-detective-sir-biscuit-in-green-burguer-mystery.json) |
 | Detective Solitaire: Butler Story 2 | 242580 | [242580-detective-solitaire-butler-story-2.json](./242580-detective-solitaire-butler-story-2.json) |
 | Detective Solitaire: Butler Story 3 | 258947 | [258947-detective-solitaire-butler-story-3.json](./258947-detective-solitaire-butler-story-3.json) |
