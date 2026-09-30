@@ -753,6 +753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganbare Neo Poke-Kun | 43970 | [43970-ganbare-neo-poke-kun.json](./43970-ganbare-neo-poke-kun.json) |
 | Ganbare Untenshi!! | 380675 | [380675-ganbare-untenshi.json](./380675-ganbare-untenshi.json) |
 | Ganbare! Dodge Fighters | 49610 | [49610-ganbare-dodge-fighters.json](./49610-ganbare-dodge-fighters.json) |
+| Ganbaru Kimi to no Futari Gurashi: Iede Gal Icha Love Seikatsu SLG | 408962 | [408962-ganbaru-kimi-to-no-futari-gurashi-iede-gal-icha-love-seikatsu-slg.json](./408962-ganbaru-kimi-to-no-futari-gurashi-iede-gal-icha-love-seikatsu-slg.json) |
 | Ganbatte | 77402 | [77402-ganbatte.json](./77402-ganbatte.json) |
 | Gancho Bond | 372673 | [372673-gancho-bond.json](./372673-gancho-bond.json) |
 | Gang Beasts | 11177 | [11177-gang-beasts.json](./11177-gang-beasts.json) |
