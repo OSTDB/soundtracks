@@ -1852,6 +1852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feudal Friends | 239587 | [239587-feudal-friends.json](./239587-feudal-friends.json) |
 | Feudal Wars | 58897 | [58897-feudal-wars.json](./58897-feudal-wars.json) |
 | Feudalism | 234914 | [234914-feudalism.json](./234914-feudalism.json) |
+| Feudalism | 34945 | [34945-feudalism.json](./34945-feudalism.json) |
 | Feudalism II | 234915 | [234915-feudalism-ii.json](./234915-feudalism-ii.json) |
 | Feuerwache: Mission - Leben retten | 81479 | [81479-feuerwache-mission-leben-retten.json](./81479-feuerwache-mission-leben-retten.json) |
 | Fever Cabin | 128439 | [128439-fever-cabin.json](./128439-fever-cabin.json) |
