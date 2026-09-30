@@ -1580,6 +1580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts of Iron IV: Götterdämmerung | 322161 | [322161-hearts-of-iron-iv-gotterdammerung.json](./322161-hearts-of-iron-iv-gotterdammerung.json) |
 | Hearts of Iron IV: Hero Edition | 47308 | [47308-hearts-of-iron-iv-hero-edition.json](./47308-hearts-of-iron-iv-hero-edition.json) |
 | Hearts of Iron IV: Man the Guns | 115063 | [115063-hearts-of-iron-iv-man-the-guns.json](./115063-hearts-of-iron-iv-man-the-guns.json) |
+| Hearts of Iron IV: Peace for Our Time | 399142 | [399142-hearts-of-iron-iv-peace-for-our-time.json](./399142-hearts-of-iron-iv-peace-for-our-time.json) |
 | Hearts of Iron IV: Together for Victory | 53182 | [53182-hearts-of-iron-iv-together-for-victory.json](./53182-hearts-of-iron-iv-together-for-victory.json) |
 | Hearts of Iron: Road to War | 64993 | [64993-hearts-of-iron-road-to-war.json](./64993-hearts-of-iron-road-to-war.json) |
 | Hearts on Fire | 313720 | [313720-hearts-on-fire.json](./313720-hearts-on-fire.json) |
@@ -1856,6 +1857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell in a Can | 271762 | [271762-hell-in-a-can.json](./271762-hell-in-a-can.json) |
 | Hell Inspector's Mod of Stupidity | 280765 | [280765-hell-inspectors-mod-of-stupidity.json](./280765-hell-inspectors-mod-of-stupidity.json) |
 | Hell Invades Heaven | 190165 | [190165-hell-invades-heaven.json](./190165-hell-invades-heaven.json) |
+| Hell Is Empty, Demons Are Playing Apokerlypse | 399129 | [399129-hell-is-empty-demons-are-playing-apokerlypse.json](./399129-hell-is-empty-demons-are-playing-apokerlypse.json) |
 | Hell is Us: Deluxe Edition | 331310 | [331310-hell-is-us-deluxe-edition.json](./331310-hell-is-us-deluxe-edition.json) |
 | Hell Is Us: Hollow Walker Pack | 360092 | [360092-hell-is-us-hollow-walker-pack.json](./360092-hell-is-us-hollow-walker-pack.json) |
 | Hell Is Us: Military Pack | 360094 | [360094-hell-is-us-military-pack.json](./360094-hell-is-us-military-pack.json) |
@@ -3305,6 +3307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Oddities in Everyday Life Mystery | 403715 | [403715-hidden-oddities-in-everyday-life-mystery.json](./403715-hidden-oddities-in-everyday-life-mystery.json) |
 | Hidden Office | 152739 | [152739-hidden-office.json](./152739-hidden-office.json) |
 | Hidden Paradise: Aloha with Love - Collector's Edition | 362831 | [362831-hidden-paradise-aloha-with-love-collectors-edition.json](./362831-hidden-paradise-aloha-with-love-collectors-edition.json) |
+| Hidden Paradise: Kiwi Christmas - Collector's Edition | 399130 | [399130-hidden-paradise-kiwi-christmas-collectors-edition.json](./399130-hidden-paradise-kiwi-christmas-collectors-edition.json) |
 | Hidden Pass | 253352 | [253352-hidden-pass.json](./253352-hidden-pass.json) |
 | Hidden Paws Bundle | 262324 | [262324-hidden-paws-bundle.json](./262324-hidden-paws-bundle.json) |
 | Hidden Paws Mystery | 109412 | [109412-hidden-paws-mystery.json](./109412-hidden-paws-mystery.json) |
