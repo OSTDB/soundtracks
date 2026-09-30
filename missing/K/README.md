@@ -2586,6 +2586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krampus Quest | 76674 | [76674-krampus-quest.json](./76674-krampus-quest.json) |
 | krAsAvA Shot | 116831 | [116831-krasava-shot.json](./116831-krasava-shot.json) |
 | Krashimals | 330558 | [330558-krashimals.json](./330558-krashimals.json) |
+| Krater: Shadows over Solside | 2020 | [2020-krater-shadows-over-solside.json](./2020-krater-shadows-over-solside.json) |
 | Kratoria | 187540 | [187540-kratoria.json](./187540-kratoria.json) |
 | Krautscape | 16903 | [16903-krautscape.json](./16903-krautscape.json) |
 | Kraven Manor | 17326 | [17326-kraven-manor.json](./17326-kraven-manor.json) |
