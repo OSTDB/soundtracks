@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacker Series | 31115 | [31115-hacker-series.json](./31115-hacker-series.json) |
 | Hacker the Beginning | 234585 | [234585-hacker-the-beginning.json](./234585-hacker-the-beginning.json) |
 | Hacker's Adventure | 142244 | [142244-hackers-adventure.json](./142244-hackers-adventure.json) |
+| Hacker’s Journey | 411625 | [411625-hacker-s-journey.json](./411625-hacker-s-journey.json) |
 | Hackers | 80455 | [80455-hackers.json](./80455-hackers.json) |
 | Hackerwars.io | 139874 | [139874-hackerwars-io.json](./139874-hackerwars-io.json) |
 | Hacking for Hermann | 199369 | [199369-hacking-for-hermann.json](./199369-hacking-for-hermann.json) |
