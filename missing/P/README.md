@@ -1064,6 +1064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Roulette | 365084 | [365084-paranormal-roulette.json](./365084-paranormal-roulette.json) |
 | Paranormal Simulator | 199591 | [199591-paranormal-simulator.json](./199591-paranormal-simulator.json) |
 | Paranormal Snap Shot | 323928 | [323928-paranormal-snap-shot.json](./323928-paranormal-snap-shot.json) |
+| Paranormal State: Poison Spring - Collector's Edition | 30379 | [30379-paranormal-state-poison-spring-collectors-edition.json](./30379-paranormal-state-poison-spring-collectors-edition.json) |
 | Paranormal Syndrome 3 | 151527 | [151527-paranormal-syndrome-3.json](./151527-paranormal-syndrome-3.json) |
 | Paranormal Syndrome: R Dolls Edition | 261219 | [261219-paranormal-syndrome-r-dolls-edition.json](./261219-paranormal-syndrome-r-dolls-edition.json) |
 | Paranormal Tales | 222843 | [222843-paranormal-tales.json](./222843-paranormal-tales.json) |
