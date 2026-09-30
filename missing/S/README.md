@@ -1247,6 +1247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scanner Sombre Pack | 154462 | [154462-scanner-sombre-pack.json](./154462-scanner-sombre-pack.json) |
 | Scape | 287782 | [287782-scape.json](./287782-scape.json) |
 | Scapeghost | 12208 | [12208-scapeghost.json](./12208-scapeghost.json) |
+| Scapeland | 33493 | [33493-scapeland.json](./33493-scapeland.json) |
 | Scapewatch | 401089 | [401089-scapewatch.json](./401089-scapewatch.json) |
 | Scapular | 400285 | [400285-scapular.json](./400285-scapular.json) |
 | Scar-Lead Salvation | 329724 | [329724-scar-lead-salvation.json](./329724-scar-lead-salvation.json) |
@@ -2782,6 +2783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Setteeh | 312883 | [312883-setteeh.json](./312883-setteeh.json) |
 | Settle | 397075 | [397075-settle.json](./397075-settle.json) |
 | Settle and Battle: New Empires | 324295 | [324295-settle-and-battle-new-empires.json](./324295-settle-and-battle-new-empires.json) |
+| Settled | 33480 | [33480-settled.json](./33480-settled.json) |
 | Settlement: Colossus | 53589 | [53589-settlement-colossus.json](./53589-settlement-colossus.json) |
 | Settlements | 81671 | [81671-settlements.json](./81671-settlements.json) |
 | Settlements Rising | 245838 | [245838-settlements-rising.json](./245838-settlements-rising.json) |
@@ -5815,6 +5817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Taxi 4: Top Secret | 54371 | [54371-sky-taxi-4-top-secret.json](./54371-sky-taxi-4-top-secret.json) |
 | Sky Taxi: GMO Armageddon | 54370 | [54370-sky-taxi-gmo-armageddon.json](./54370-sky-taxi-gmo-armageddon.json) |
 | Sky the Scraper | 256338 | [256338-sky-the-scraper.json](./256338-sky-the-scraper.json) |
+| Sky to Fly: Soulless Leviathan | 33143 | [33143-sky-to-fly-soulless-leviathan.json](./33143-sky-to-fly-soulless-leviathan.json) |
 | Sky Tower | 34625 | [34625-sky-tower.json](./34625-sky-tower.json) |
 | Sky Track | 54372 | [54372-sky-track.json](./54372-sky-track.json) |
 | Sky Trader | 29789 | [29789-sky-trader.json](./29789-sky-trader.json) |
@@ -6631,6 +6634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SMBX: Level Contest Japan | 359515 | [359515-smbx-level-contest-japan.json](./359515-smbx-level-contest-japan.json) |
 | SMBX2 Demo Stages | 328243 | [328243-smbx2-demo-stages.json](./328243-smbx2-demo-stages.json) |
 | Smeesa Street | 239641 | [239641-smeesa-street.json](./239641-smeesa-street.json) |
+| Smell of Death | 33470 | [33470-smell-of-death.json](./33470-smell-of-death.json) |
 | Smells Like a Mushroom | 240795 | [240795-smells-like-a-mushroom.json](./240795-smells-like-a-mushroom.json) |
 | Smells Like A Mushroom: 100% Vegan Edition | 323892 | [323892-smells-like-a-mushroom-100-vegan-edition.json](./323892-smells-like-a-mushroom-100-vegan-edition.json) |
 | Smells Like Grandma's | 271721 | [271721-smells-like-grandmas.json](./271721-smells-like-grandmas.json) |
@@ -14400,6 +14404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Icarus | 291599 | [291599-super-icarus.json](./291599-super-icarus.json) |
 | Super Ick | 193502 | [193502-super-ick.json](./193502-super-ick.json) |
 | Super Idle Cats - Tap Farm | 106965 | [106965-super-idle-cats-tap-farm.json](./106965-super-idle-cats-tap-farm.json) |
+| Super Impossible Road | 33503 | [33503-super-impossible-road.json](./33503-super-impossible-road.json) |
 | Super Impostor Bros. | 202379 | [202379-super-impostor-bros.json](./202379-super-impostor-bros.json) |
 | Super Inefficient Golf | 90074 | [90074-super-inefficient-golf.json](./90074-super-inefficient-golf.json) |
 | Super Invaders | 330909 | [330909-super-invaders.json](./330909-super-invaders.json) |
