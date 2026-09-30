@@ -494,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kart Bros | 347246 | [347246-kart-bros.json](./347246-kart-bros.json) |
 | Kart Chaser: The Boost VR | 29686 | [29686-kart-chaser-the-boost-vr.json](./29686-kart-chaser-the-boost-vr.json) |
 | Kart Crazy Race Simulator Game | 264118 | [264118-kart-crazy-race-simulator-game.json](./264118-kart-crazy-race-simulator-game.json) |
+| Kart Krashers | 23588 | [23588-kart-krashers.json](./23588-kart-krashers.json) |
 | Kart Racing | 381228 | [381228-kart-racing.json](./381228-kart-racing.json) |
 | Kart Racing 3D - Top Car Racer Chaser Action Rally | 101568 | [101568-kart-racing-3d-top-car-racer-chaser-action-rally.json](./101568-kart-racing-3d-top-car-racer-chaser-action-rally.json) |
 | Kart Soccer Party | 398428 | [398428-kart-soccer-party.json](./398428-kart-soccer-party.json) |
@@ -2705,6 +2706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kulebra and the Souls of Limbo | 204533 | [204533-kulebra-and-the-souls-of-limbo.json](./204533-kulebra-and-the-souls-of-limbo.json) |
 | Kuma no Pooh-San: 100 Acre no Mori no Cooking Book | 130752 | [130752-kuma-no-pooh-san-100-acre-no-mori-no-cooking-book.json](./130752-kuma-no-pooh-san-100-acre-no-mori-no-cooking-book.json) |
 | Kuma Sushi Bar | 200745 | [200745-kuma-sushi-bar.json](./200745-kuma-sushi-bar.json) |
+| Kuma\War | 23563 | [23563-kuma-war.json](./23563-kuma-war.json) |
 | Kumamaru Adventure | 297638 | [297638-kumamaru-adventure.json](./297638-kumamaru-adventure.json) |
 | Kumamon Run | 283275 | [283275-kumamon-run.json](./283275-kumamon-run.json) |
 | Kumari Samsara: The Living Goddess | 402909 | [402909-kumari-samsara-the-living-goddess.json](./402909-kumari-samsara-the-living-goddess.json) |
