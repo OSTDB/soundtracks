@@ -1209,6 +1209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unluckily in Love | 224573 | [224573-unluckily-in-love.json](./224573-unluckily-in-love.json) |
 | Unlucky Mage | 85467 | [85467-unlucky-mage.json](./85467-unlucky-mage.json) |
 | Unlucky Mummy | 401627 | [401627-unlucky-mummy.json](./401627-unlucky-mummy.json) |
+| Unlucky Seven | 29783 | [29783-unlucky-seven.json](./29783-unlucky-seven.json) |
 | Unmanned helicopter | 105365 | [105365-unmanned-helicopter.json](./105365-unmanned-helicopter.json) |
 | UnMarked | 185078 | [185078-unmarked.json](./185078-unmarked.json) |
 | Unmasked: An Inner Journey | 286041 | [286041-unmasked-an-inner-journey.json](./286041-unmasked-an-inner-journey.json) |
