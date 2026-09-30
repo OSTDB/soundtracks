@@ -3616,6 +3616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She is Mermaid | 102086 | [102086-she-is-mermaid.json](./102086-she-is-mermaid.json) |
 | She is Sexaroid | 148439 | [148439-she-is-sexaroid.json](./148439-she-is-sexaroid.json) |
 | She is... | 413045 | [413045-she-is.json](./413045-she-is.json) |
+| She Never Left | 416718 | [416718-she-never-left.json](./416718-she-never-left.json) |
 | She Save | 50511 | [50511-she-save.json](./50511-she-save.json) |
 | She Was 98 | 385327 | [385327-she-was-98.json](./385327-she-was-98.json) |
 | She Who Fights Monsters: Choice Edition | 186168 | [186168-she-who-fights-monsters-choice-edition.json](./186168-she-who-fights-monsters-choice-edition.json) |
@@ -9808,6 +9809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Tonaeru | 319150 | [319150-spell-tonaeru.json](./319150-spell-tonaeru.json) |
 | Spell Welders | 199501 | [199501-spell-welders.json](./199501-spell-welders.json) |
 | Spellarium 11 | 311594 | [311594-spellarium-11.json](./311594-spellarium-11.json) |
+| Spellarium 14: Collector's Edition | 416771 | [416771-spellarium-14-collectors-edition.json](./416771-spellarium-14-collectors-edition.json) |
 | Spellarium 2 | 298089 | [298089-spellarium-2.json](./298089-spellarium-2.json) |
 | Spellarium 4 | 293703 | [293703-spellarium-4.json](./293703-spellarium-4.json) |
 | Spellarium 8 Match 3 Puzzle | 202665 | [202665-spellarium-8-match-3-puzzle.json](./202665-spellarium-8-match-3-puzzle.json) |
@@ -10388,6 +10390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Chase | 136485 | [136485-spooky-chase.json](./136485-spooky-chase.json) |
 | Spooky Dwellers 2: Collector's Edition | 272350 | [272350-spooky-dwellers-2-collectors-edition.json](./272350-spooky-dwellers-2-collectors-edition.json) |
 | Spooky Dwellers 4 | 418536 | [418536-spooky-dwellers-4.json](./418536-spooky-dwellers-4.json) |
+| Spooky Dwellers 5: Collector's Edition | 416773 | [416773-spooky-dwellers-5-collectors-edition.json](./416773-spooky-dwellers-5-collectors-edition.json) |
 | Spooky Halloween in the Voxel World | 219681 | [219681-spooky-halloween-in-the-voxel-world.json](./219681-spooky-halloween-in-the-voxel-world.json) |
 | Spooky Hoofs | 90394 | [90394-spooky-hoofs.json](./90394-spooky-hoofs.json) |
 | Spooky House | 179715 | [179715-spooky-house.json](./179715-spooky-house.json) |
