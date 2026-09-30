@@ -940,6 +940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Party Pack | 268203 | [268203-mahjong-party-pack.json](./268203-mahjong-party-pack.json) |
 | Mahjong Pretty Girls Battle: School Girls Edition | 34986 | [34986-mahjong-pretty-girls-battle-school-girls-edition.json](./34986-mahjong-pretty-girls-battle-school-girls-edition.json) |
 | Mahjong Pretty Manga Girls | 105105 | [105105-mahjong-pretty-manga-girls.json](./105105-mahjong-pretty-manga-girls.json) |
+| Mahjong Quest Collection | 27850 | [27850-mahjong-quest-collection.json](./27850-mahjong-quest-collection.json) |
 | Mahjong Realms | 336012 | [336012-mahjong-realms.json](./336012-mahjong-realms.json) |
 | Mahjong Roadshow | 29205 | [29205-mahjong-roadshow.json](./29205-mahjong-roadshow.json) |
 | Mahjong Route | 355207 | [355207-mahjong-route.json](./355207-mahjong-route.json) |
@@ -2794,6 +2795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Force | 36573 | [36573-maximum-force.json](./36573-maximum-force.json) |
 | Maximum G-Force Coasters | 209537 | [209537-maximum-g-force-coasters.json](./209537-maximum-g-force-coasters.json) |
 | Maximum Momentum | 127167 | [127167-maximum-momentum.json](./127167-maximum-momentum.json) |
+| Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Racing: Super Truck Racer | 50603 | [50603-maximum-racing-super-truck-racer.json](./50603-maximum-racing-super-truck-racer.json) |
 | Maximum Rescue | 93027 | [93027-maximum-rescue.json](./93027-maximum-rescue.json) |
 | Maximum Roadkill | 92319 | [92319-maximum-roadkill.json](./92319-maximum-roadkill.json) |
@@ -4489,6 +4491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metamor Panic: Doki Doki Youma Busters!! | 384782 | [384782-metamor-panic-doki-doki-youma-busters.json](./384782-metamor-panic-doki-doki-youma-busters.json) |
 | Metamorph | 345519 | [345519-metamorph.json](./345519-metamorph.json) |
 | Metamorph | 368137 | [368137-metamorph.json](./368137-metamorph.json) |
+| Metamorphic | 27474 | [27474-metamorphic.json](./27474-metamorphic.json) |
 | MetaMorphic Rippers | 223165 | [223165-metamorphic-rippers.json](./223165-metamorphic-rippers.json) |
 | Metamorphosis | 115657 | [115657-metamorphosis.json](./115657-metamorphosis.json) |
 | Metamorphosis | 131990 | [131990-metamorphosis.json](./131990-metamorphosis.json) |
