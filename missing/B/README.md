@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B.C. Piezophile | 239637 | [239637-b-c-piezophile.json](./239637-b-c-piezophile.json) |
 | B.C. Story | 40984 | [40984-b-c-story.json](./40984-b-c-story.json) |
 | B.D.K | 170986 | [170986-b-d-k.json](./170986-b-d-k.json) |
+| B.F.G:Crew | 413118 | [413118-b-f-g-crew.json](./413118-b-f-g-crew.json) |
 | B.I.D. | 390619 | [390619-b-i-d.json](./390619-b-i-d.json) |
 | B.I.N.D. | 212907 | [212907-b-i-n-d.json](./212907-b-i-n-d.json) |
 | B.I.T | 99182 | [99182-b-i-t.json](./99182-b-i-t.json) |
@@ -3435,6 +3436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big League Sports | 20223 | [20223-big-league-sports.json](./20223-big-league-sports.json) |
 | Big Loot | 345048 | [345048-big-loot.json](./345048-big-loot.json) |
 | Big Mac: The Mad Maintenance Man | 47221 | [47221-big-mac-the-mad-maintenance-man.json](./47221-big-mac-the-mad-maintenance-man.json) |
+| Big Market Simulator | 413106 | [413106-big-market-simulator.json](./413106-big-market-simulator.json) |
 | Big Mess | 176354 | [176354-big-mess.json](./176354-big-mess.json) |
 | Big Mountain 2000 | 3367 | [3367-big-mountain-2000.json](./3367-big-mountain-2000.json) |
 | Big Mountain Snowboarding | 88322 | [88322-big-mountain-snowboarding.json](./88322-big-mountain-snowboarding.json) |
@@ -4663,6 +4665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlindMaze | 96906 | [96906-blindmaze.json](./96906-blindmaze.json) |
 | BlindOak Prow | 112497 | [112497-blindoak-prow.json](./112497-blindoak-prow.json) |
 | Blindscape | 26644 | [26644-blindscape.json](./26644-blindscape.json) |
+| Blindside | 413154 | [413154-blindside.json](./413154-blindside.json) |
 | BlindSide | 64386 | [64386-blindside.json](./64386-blindside.json) |
 | BlindSight Event Zero | 186760 | [186760-blindsight-event-zero.json](./186760-blindsight-event-zero.json) |
 | Blindsight: War of the Wardens | 248889 | [248889-blindsight-war-of-the-wardens.json](./248889-blindsight-war-of-the-wardens.json) |
@@ -7723,6 +7726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build & Survive | 351722 | [351722-build-and-survive.json](./351722-build-and-survive.json) |
 | Build A Bank Tycoon | 394381 | [394381-build-a-bank-tycoon.json](./394381-build-a-bank-tycoon.json) |
 | Build a Bridge! | 114190 | [114190-build-a-bridge.json](./114190-build-a-bridge.json) |
+| Build a Cat Tower to reach the Fish | 413102 | [413102-build-a-cat-tower-to-reach-the-fish.json](./413102-build-a-cat-tower-to-reach-the-fish.json) |
 | Build a Flexible Brain! Shape Search | 401110 | [401110-build-a-flexible-brain-shape-search.json](./401110-build-a-flexible-brain-shape-search.json) |
 | Build a Game Universe | 34814 | [34814-build-a-game-universe.json](./34814-build-a-game-universe.json) |
 | Build A Queen: Pirate Edition | 399812 | [399812-build-a-queen-pirate-edition.json](./399812-build-a-queen-pirate-edition.json) |
