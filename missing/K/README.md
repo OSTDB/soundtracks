@@ -2814,6 +2814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kunoichi Beat | 369589 | [369589-kunoichi-beat.json](./369589-kunoichi-beat.json) |
 | Kunoichi Torimonocho | 123577 | [123577-kunoichi-torimonocho.json](./123577-kunoichi-torimonocho.json) |
 | Kunoichi Trainer | 343453 | [343453-kunoichi-trainer.json](./343453-kunoichi-trainer.json) |
+| Kunugi's Life is a Mess! | 403057 | [403057-kunugis-life-is-a-mess.json](./403057-kunugis-life-is-a-mess.json) |
 | Kuon | 10909 | [10909-kuon.json](./10909-kuon.json) |
 | Kuon no Kizuna | 85811 | [85811-kuon-no-kizuna.json](./85811-kuon-no-kizuna.json) |
 | Kuon no Kizuna: Sairinshou | 64659 | [64659-kuon-no-kizuna-sairinshou.json](./64659-kuon-no-kizuna-sairinshou.json) |
