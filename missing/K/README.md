@@ -365,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanojo wa Dare to demo Sex suru. | 82984 | [82984-kanojo-wa-dare-to-demo-sex-suru.json](./82984-kanojo-wa-dare-to-demo-sex-suru.json) |
 | Kanojo x Switch | 368113 | [368113-kanojo-x-switch.json](./368113-kanojo-x-switch.json) |
 | Kanojo xx Switch | 156614 | [156614-kanojo-xx-switch.json](./156614-kanojo-xx-switch.json) |
+| Kanojo, Amai Kanojo | 413838 | [413838-kanojo-amai-kanojo.json](./413838-kanojo-amai-kanojo.json) |
 | Kansensei Nightmare | 151532 | [151532-kansensei-nightmare.json](./151532-kansensei-nightmare.json) |
 | Kantai Collection | 12737 | [12737-kantai-collection.json](./12737-kantai-collection.json) |
 | Kanto Expansion Pak | 282044 | [282044-kanto-expansion-pak.json](./282044-kanto-expansion-pak.json) |
@@ -557,6 +558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kate Plus Ten | 112324 | [112324-kate-plus-ten.json](./112324-kate-plus-ten.json) |
 | Kateba Kangun | 98058 | [98058-kateba-kangun.json](./98058-kateba-kangun.json) |
 | Katei de Dekiru! Chomeijin Yuumei Ryourinin no Original Recipe - Shokusai Roman | 269824 | [269824-katei-de-dekiru-chomeijin-yuumei-ryourinin-no-original-recipe-shokusai-roman.json](./269824-katei-de-dekiru-chomeijin-yuumei-ryourinin-no-original-recipe-shokusai-roman.json) |
+| Katei Kyoushi no Onee-san: H no Hensachi Agechaimasu | 413844 | [413844-katei-kyoushi-no-onee-san-h-no-hensachi-agechaimasu.json](./413844-katei-kyoushi-no-onee-san-h-no-hensachi-agechaimasu.json) |
 | Katei no Igaku: DS de Kitaeru Shokuzai Kenkou Training | 269586 | [269586-katei-no-igaku-ds-de-kitaeru-shokuzai-kenkou-training.json](./269586-katei-no-igaku-ds-de-kitaeru-shokuzai-kenkou-training.json) |
 | Katekyou Hitman Reborn! Battle Arena | 65217 | [65217-katekyou-hitman-reborn-battle-arena.json](./65217-katekyou-hitman-reborn-battle-arena.json) |
 | Katekyou Hitman Reborn! Battle Arena 2: Spirit Burst | 65216 | [65216-katekyou-hitman-reborn-battle-arena-2-spirit-burst.json](./65216-katekyou-hitman-reborn-battle-arena-2-spirit-burst.json) |
@@ -1290,6 +1292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
 | Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
+| Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Todoke: Sodateru Omoi | 66964 | [66964-kimi-ni-todoke-sodateru-omoi.json](./66964-kimi-ni-todoke-sodateru-omoi.json) |
 | Kimi no Hitomi ni Hit Me | 82803 | [82803-kimi-no-hitomi-ni-hit-me.json](./82803-kimi-no-hitomi-ni-hit-me.json) |
 | Kimi no Mirai | 251537 | [251537-kimi-no-mirai.json](./251537-kimi-no-mirai.json) |
@@ -2340,6 +2343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koishi's Lumo | 132280 | [132280-koishis-lumo.json](./132280-koishis-lumo.json) |
 | Koishite Doki-doki Choice Messe & Date | 251610 | [251610-koishite-doki-doki-choice-messe-and-date.json](./251610-koishite-doki-doki-choice-messe-and-date.json) |
 | Koisuru Otome to Shugo no Tate Portable | 198249 | [198249-koisuru-otome-to-shugo-no-tate-portable.json](./198249-koisuru-otome-to-shugo-no-tate-portable.json) |
+| Koisuru Otome to Shugo no Tate: The Shield of Aigis - Koi no Theresia Box | 413708 | [413708-koisuru-otome-to-shugo-no-tate-the-shield-of-aigis-koi-no-theresia-box.json](./413708-koisuru-otome-to-shugo-no-tate-the-shield-of-aigis-koi-no-theresia-box.json) |
 | Koisuru Purin! Koi ha Daibouken! Dr. Kanmi no Yabou!? | 269581 | [269581-koisuru-purin-koi-ha-daibouken-dr-kanmi-no-yabou.json](./269581-koisuru-purin-koi-ha-daibouken-dr-kanmi-no-yabou.json) |
 | Koitsugi: Legend of the Water Guardian | 303616 | [303616-koitsugi-legend-of-the-water-guardian.json](./303616-koitsugi-legend-of-the-water-guardian.json) |
 | Kojouji | 149543 | [149543-kojouji.json](./149543-kojouji.json) |
@@ -2655,6 +2659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kromer Kollector | 181875 | [181875-kromer-kollector.json](./181875-kromer-kollector.json) |
 | Kromex | 400850 | [400850-kromex.json](./400850-kromex.json) |
 | Kromlech | 253588 | [253588-kromlech.json](./253588-kromlech.json) |
+| Kron Wars | 413825 | [413825-kron-wars.json](./413825-kron-wars.json) |
 | Kronian Titans | 244177 | [244177-kronian-titans.json](./244177-kronian-titans.json) |
 | Kronii is Hungry | 203302 | [203302-kronii-is-hungry.json](./203302-kronii-is-hungry.json) |
 | Kroniki Elevena | 236807 | [236807-kroniki-elevena.json](./236807-kroniki-elevena.json) |
