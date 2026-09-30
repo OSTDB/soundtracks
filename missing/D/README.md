@@ -1574,6 +1574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Eye Deputy | 316056 | [316056-dead-eye-deputy.json](./316056-dead-eye-deputy.json) |
 | Dead Eye Jim | 44639 | [44639-dead-eye-jim.json](./44639-dead-eye-jim.json) |
 | Dead Face | 181919 | [181919-dead-face.json](./181919-dead-face.json) |
+| Dead Fantasia | 393009 | [393009-dead-fantasia.json](./393009-dead-fantasia.json) |
 | Dead Feed | 379566 | [379566-dead-feed.json](./379566-dead-feed.json) |
 | Dead for Dread | 305958 | [305958-dead-for-dread.json](./305958-dead-for-dread.json) |
 | Dead Force | 299828 | [299828-dead-force.json](./299828-dead-force.json) |
@@ -1922,6 +1923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadzone Rogue 2 | 403822 | [403822-deadzone-rogue-2.json](./403822-deadzone-rogue-2.json) |
 | Deadzone: Rogue | 316979 | [316979-deadzone-rogue.json](./316979-deadzone-rogue.json) |
 | Deadzone: Rogue - Apophis | 373616 | [373616-deadzone-rogue-apophis.json](./373616-deadzone-rogue-apophis.json) |
+| DeadZone: Survival Ops Zombie Shooter & WW2 Soldiers of Honor - Warzone Assault | 393065 | [393065-deadzone-survival-ops-zombie-shooter-and-ww2-soldiers-of-honor-warzone-assault.json](./393065-deadzone-survival-ops-zombie-shooter-and-ww2-soldiers-of-honor-warzone-assault.json) |
 | DeafBlind | 302434 | [302434-deafblind.json](./302434-deafblind.json) |
 | Deal or No Deal | 220081 | [220081-deal-or-no-deal.json](./220081-deal-or-no-deal.json) |
 | Deal or No Deal | 233990 | [233990-deal-or-no-deal.json](./233990-deal-or-no-deal.json) |
@@ -2192,6 +2194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deca Sports 3 | 20699 | [20699-deca-sports-3.json](./20699-deca-sports-3.json) |
 | Decadence | 256799 | [256799-decadence.json](./256799-decadence.json) |
 | Decadent Heir | 334217 | [334217-decadent-heir.json](./334217-decadent-heir.json) |
+| DecaDungeons | 393043 | [393043-decadungeons.json](./393043-decadungeons.json) |
 | DeCalc | 62972 | [62972-decalc.json](./62972-decalc.json) |
 | Decamped | 157028 | [157028-decamped.json](./157028-decamped.json) |
 | Decathlon | 242097 | [242097-decathlon.json](./242097-decathlon.json) |
@@ -4010,6 +4013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig Odyssey: Cosmic Mining | 251205 | [251205-dig-odyssey-cosmic-mining.json](./251205-dig-odyssey-cosmic-mining.json) |
 | Dig Out! | 87330 | [87330-dig-out.json](./87330-dig-out.json) |
 | Dig That Gold | 41523 | [41523-dig-that-gold.json](./41523-dig-that-gold.json) |
+| Dig to Escape: Obby | 393059 | [393059-dig-to-escape-obby.json](./393059-dig-to-escape-obby.json) |
 | Dig VR | 299295 | [299295-dig-vr.json](./299295-dig-vr.json) |
 | DIG: Deep In Galaxies | 228455 | [228455-dig-deep-in-galaxies.json](./228455-dig-deep-in-galaxies.json) |
 | Dig!t | 232042 | [232042-dig-t.json](./232042-dig-t.json) |
