@@ -2189,6 +2189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CaveMan Rock | 43504 | [43504-caveman-rock.json](./43504-caveman-rock.json) |
 | Caveman Stories | 95184 | [95184-caveman-stories.json](./95184-caveman-stories.json) |
 | Caveman Warriors | 29250 | [29250-caveman-warriors.json](./29250-caveman-warriors.json) |
+| Caveman Zac | 388324 | [388324-caveman-zac.json](./388324-caveman-zac.json) |
 | Cavemen vs. Aliens | 91412 | [91412-cavemen-vs-aliens.json](./91412-cavemen-vs-aliens.json) |
 | Cavequest | 2876 | [2876-cavequest.json](./2876-cavequest.json) |
 | Cavern | 272856 | [272856-cavern.json](./272856-cavern.json) |
@@ -3757,6 +3758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromatic | 200719 | [200719-chromatic.json](./200719-chromatic.json) |
 | Chromatic Aberration | 113843 | [113843-chromatic-aberration.json](./113843-chromatic-aberration.json) |
 | Chromatic Battles | 388354 | [388354-chromatic-battles.json](./388354-chromatic-battles.json) |
+| Chromatic Cruiser | 388332 | [388332-chromatic-cruiser.json](./388332-chromatic-cruiser.json) |
 | Chromatic Fantasia EX | 98442 | [98442-chromatic-fantasia-ex.json](./98442-chromatic-fantasia-ex.json) |
 | Chromatic Labyrinth | 167603 | [167603-chromatic-labyrinth.json](./167603-chromatic-labyrinth.json) |
 | Chromatic Souls | 200734 | [200734-chromatic-souls.json](./200734-chromatic-souls.json) |
@@ -7198,6 +7200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Escapes | 279006 | [279006-cozy-escapes.json](./279006-cozy-escapes.json) |
 | Cozy Farm Life Simulator | 412458 | [412458-cozy-farm-life-simulator.json](./412458-cozy-farm-life-simulator.json) |
 | Cozy Farming 3 in 1 Collection | 328546 | [328546-cozy-farming-3-in-1-collection.json](./328546-cozy-farming-3-in-1-collection.json) |
+| Cozy Fast Hanoi | 388346 | [388346-cozy-fast-hanoi.json](./388346-cozy-fast-hanoi.json) |
 | Cozy Fishing Life | 416673 | [416673-cozy-fishing-life.json](./416673-cozy-fishing-life.json) |
 | Cozy Forest | 369084 | [369084-cozy-forest.json](./369084-cozy-forest.json) |
 | Cozy Garden | 372141 | [372141-cozy-garden.json](./372141-cozy-garden.json) |
