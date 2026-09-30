@@ -930,6 +930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombow | 106131 | [106131-zombow.json](./106131-zombow.json) |
 | Zombreak: The Last Escape | 250970 | [250970-zombreak-the-last-escape.json](./250970-zombreak-the-last-escape.json) |
 | Zombs.io | 76570 | [76570-zombs-io.json](./76570-zombs-io.json) |
+| Zombuds | 404357 | [404357-zombuds.json](./404357-zombuds.json) |
 | Zombusters | 50804 | [50804-zombusters.json](./50804-zombusters.json) |
 | Zombutcher | 379585 | [379585-zombutcher.json](./379585-zombutcher.json) |
 | ZombWave | 207402 | [207402-zombwave.json](./207402-zombwave.json) |
