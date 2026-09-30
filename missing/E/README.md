@@ -1474,6 +1474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empty. | 134449 | [134449-empty.json](./134449-empty.json) |
 | Empyre: Dukes of the Far Frontier | 198555 | [198555-empyre-dukes-of-the-far-frontier.json](./198555-empyre-dukes-of-the-far-frontier.json) |
 | Empyreal | 324588 | [324588-empyreal.json](./324588-empyreal.json) |
+| Empyrean | 30464 | [30464-empyrean.json](./30464-empyrean.json) |
 | Empyrean Swarm | 273649 | [273649-empyrean-swarm.json](./273649-empyrean-swarm.json) |
 | Empyrion - Galactic Survival: Complete Edition | 371228 | [371228-empyrion-galactic-survival-complete-edition.json](./371228-empyrion-galactic-survival-complete-edition.json) |
 | Empyrion: Galactic Survival | 19249 | [19249-empyrion-galactic-survival.json](./19249-empyrion-galactic-survival.json) |
@@ -2081,6 +2082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Equilibrium 2018 | 103153 | [103153-equilibrium-2018.json](./103153-equilibrium-2018.json) |
 | Equilibrium 3D | 102212 | [102212-equilibrium-3d.json](./102212-equilibrium-3d.json) |
 | Equilibrium Ocean | 107161 | [107161-equilibrium-ocean.json](./107161-equilibrium-ocean.json) |
+| Equilibrium of Divinity | 30489 | [30489-equilibrium-of-divinity.json](./30489-equilibrium-of-divinity.json) |
 | Equilibrium Point | 388742 | [388742-equilibrium-point.json](./388742-equilibrium-point.json) |
 | Equilibrium VR | 29941 | [29941-equilibrium-vr.json](./29941-equilibrium-vr.json) |
 | EquiMagic: Galashow of Horses | 76988 | [76988-equimagic-galashow-of-horses.json](./76988-equimagic-galashow-of-horses.json) |
