@@ -1262,6 +1262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mall Maniacs | 70681 | [70681-mall-maniacs.json](./70681-mall-maniacs.json) |
 | Mall of Mayhem | 188502 | [188502-mall-of-mayhem.json](./188502-mall-of-mayhem.json) |
 | Mall Simulator | 326402 | [326402-mall-simulator.json](./326402-mall-simulator.json) |
+| Mall Simulator Together | 413824 | [413824-mall-simulator-together.json](./413824-mall-simulator-together.json) |
 | Mall Together | 400213 | [400213-mall-together.json](./400213-mall-together.json) |
 | Mall Town | 119629 | [119629-mall-town.json](./119629-mall-town.json) |
 | Mall Tycoon | 23450 | [23450-mall-tycoon.json](./23450-mall-tycoon.json) |
@@ -3853,6 +3854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meldev Power Boat Racing | 164274 | [164274-meldev-power-boat-racing.json](./164274-meldev-power-boat-racing.json) |
 | Meli | 381846 | [381846-meli.json](./381846-meli.json) |
 | Melissa K. and the Heart of Gold: Collector's Edition | 36235 | [36235-melissa-k-and-the-heart-of-gold-collectors-edition.json](./36235-melissa-k-and-the-heart-of-gold-collectors-edition.json) |
+| Melkhior's Tower | 413811 | [413811-melkhiors-tower.json](./413811-melkhiors-tower.json) |
 | Melkis: Spend With You the Sweet Days Like Fairy Tales | 222241 | [222241-melkis-spend-with-you-the-sweet-days-like-fairy-tales.json](./222241-melkis-spend-with-you-the-sweet-days-like-fairy-tales.json) |
 | Melkor | 92646 | [92646-melkor.json](./92646-melkor.json) |
 | Mell Kiss | 97471 | [97471-mell-kiss.json](./97471-mell-kiss.json) |
@@ -9976,6 +9978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myth or Reality: Snowbound Secrets - Collector's Edition | 337277 | [337277-myth-or-reality-snowbound-secrets-collectors-edition.json](./337277-myth-or-reality-snowbound-secrets-collectors-edition.json) |
 | Myth Survivor | 337642 | [337642-myth-survivor.json](./337642-myth-survivor.json) |
 | Myth War II | 57156 | [57156-myth-war-ii.json](./57156-myth-war-ii.json) |
+| Myth: After the Stories | 413841 | [413841-myth-after-the-stories.json](./413841-myth-after-the-stories.json) |
 | Myth: Anthology | 72025 | [72025-myth-anthology.json](./72025-myth-anthology.json) |
 | Myth: History in the Making | 12187 | [12187-myth-history-in-the-making.json](./12187-myth-history-in-the-making.json) |
 | Myth: Make Your True Hero | 143702 | [143702-myth-make-your-true-hero.json](./143702-myth-make-your-true-hero.json) |
