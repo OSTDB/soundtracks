@@ -6557,6 +6557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball FighterZ: Commentator Voice Pack 2 | 366820 | [366820-dragon-ball-fighterz-commentator-voice-pack-2.json](./366820-dragon-ball-fighterz-commentator-voice-pack-2.json) |
 | Dragon Ball FighterZ: Commentator Voice Pack 3 | 366821 | [366821-dragon-ball-fighterz-commentator-voice-pack-3.json](./366821-dragon-ball-fighterz-commentator-voice-pack-3.json) |
 | Dragon Ball FighterZ: Commentator Voice Pack 4 | 366818 | [366818-dragon-ball-fighterz-commentator-voice-pack-4.json](./366818-dragon-ball-fighterz-commentator-voice-pack-4.json) |
+| Dragon Ball FighterZ: Daima Pack | 399111 | [399111-dragon-ball-fighterz-daima-pack.json](./399111-dragon-ball-fighterz-daima-pack.json) |
 | Dragon Ball FighterZ: Dragon Ball Daima Pack | 399188 | [399188-dragon-ball-fighterz-dragon-ball-daima-pack.json](./399188-dragon-ball-fighterz-dragon-ball-daima-pack.json) |
 | Dragon Ball FighterZ: Exclusive SS Goku Lobby Avatar | 366822 | [366822-dragon-ball-fighterz-exclusive-ss-goku-lobby-avatar.json](./366822-dragon-ball-fighterz-exclusive-ss-goku-lobby-avatar.json) |
 | Dragon Ball FighterZ: Legendary Edition | 288859 | [288859-dragon-ball-fighterz-legendary-edition.json](./288859-dragon-ball-fighterz-legendary-edition.json) |
