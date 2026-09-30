@@ -98,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gabriel’s Worlds: The Sokoban Adventure | 378192 | [378192-gabriel-s-worlds-the-sokoban-adventure.json](./378192-gabriel-s-worlds-the-sokoban-adventure.json) |
 | Gabrielle | 221967 | [221967-gabrielle.json](./221967-gabrielle.json) |
 | Gabrielle's Ghostly Groove 3D | 23520 | [23520-gabrielles-ghostly-groove-3d.json](./23520-gabrielles-ghostly-groove-3d.json) |
+| Gabrielle's Ghostly Groove: Monster Mix | 23666 | [23666-gabrielles-ghostly-groove-monster-mix.json](./23666-gabrielles-ghostly-groove-monster-mix.json) |
 | Gacha Addict Simulator | 326198 | [326198-gacha-addict-simulator.json](./326198-gacha-addict-simulator.json) |
 | Gacha Adventure | 375323 | [375323-gacha-adventure.json](./375323-gacha-adventure.json) |
 | Gacha Capsule Shop Simulator: Akihabara | 386674 | [386674-gacha-capsule-shop-simulator-akihabara.json](./386674-gacha-capsule-shop-simulator-akihabara.json) |
@@ -617,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Thrones: A Telltale Games Series - Episode 4: Sons of Winter | 127070 | [127070-game-of-thrones-a-telltale-games-series-episode-4-sons-of-winter.json](./127070-game-of-thrones-a-telltale-games-series-episode-4-sons-of-winter.json) |
 | Game of Thrones: A Telltale Games Series - Episode 5: A Nest of Vipers | 127071 | [127071-game-of-thrones-a-telltale-games-series-episode-5-a-nest-of-vipers.json](./127071-game-of-thrones-a-telltale-games-series-episode-5-a-nest-of-vipers.json) |
 | Game of Thrones: A Telltale Games Series - Episode 6: The Ice Dragon | 127072 | [127072-game-of-thrones-a-telltale-games-series-episode-6-the-ice-dragon.json](./127072-game-of-thrones-a-telltale-games-series-episode-6-the-ice-dragon.json) |
+| Game of Thrones: Ascent | 23595 | [23595-game-of-thrones-ascent.json](./23595-game-of-thrones-ascent.json) |
 | Game of Thrones: Beyond the Wall - Blood Bound | 171636 | [171636-game-of-thrones-beyond-the-wall-blood-bound.json](./171636-game-of-thrones-beyond-the-wall-blood-bound.json) |
 | Game of Thrones: Seven Kingdoms | 110315 | [110315-game-of-thrones-seven-kingdoms.json](./110315-game-of-thrones-seven-kingdoms.json) |
 | Game Over | 13854 | [13854-game-over.json](./13854-game-over.json) |
