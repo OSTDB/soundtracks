@@ -1589,6 +1589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Were House | 178553 | [178553-were-house.json](./178553-were-house.json) |
 | Were.Wolf | 157523 | [157523-were-wolf.json](./157523-were-wolf.json) |
 | Werewolf Island | 61150 | [61150-werewolf-island.json](./61150-werewolf-island.json) |
+| Werewolf Online | 420656 | [420656-werewolf-online.json](./420656-werewolf-online.json) |
 | Werewolf Party | 301378 | [301378-werewolf-party.json](./301378-werewolf-party.json) |
 | Werewolf Pinball | 105930 | [105930-werewolf-pinball.json](./105930-werewolf-pinball.json) |
 | Werewolf Stand-alone | 117823 | [117823-werewolf-stand-alone.json](./117823-werewolf-stand-alone.json) |
@@ -1759,6 +1760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What the Pho: restaurant startup stories | 132799 | [132799-what-the-pho-restaurant-startup-stories.json](./132799-what-the-pho-restaurant-startup-stories.json) |
 | What the Stars Forgot | 375983 | [375983-what-the-stars-forgot.json](./375983-what-the-stars-forgot.json) |
 | What Trash? | 158684 | [158684-what-trash.json](./158684-what-trash.json) |
+| What Was Here? 1-Minute Memory Quiz!! | 420687 | [420687-what-was-here-1-minute-memory-quiz.json](./420687-what-was-here-1-minute-memory-quiz.json) |
 | What Was Home | 374148 | [374148-what-was-home.json](./374148-what-was-home.json) |
 | What Would You Do? | 31396 | [31396-what-would-you-do.json](./31396-what-would-you-do.json) |
 | What would you like to have today? | 177855 | [177855-what-would-you-like-to-have-today.json](./177855-what-would-you-like-to-have-today.json) |
@@ -1889,6 +1891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whenever You Can Breathe | 203378 | [203378-whenever-you-can-breathe.json](./203378-whenever-you-can-breathe.json) |
 | Where Angels Cry: Tears of the Fallen - Collectors Edition | 34175 | [34175-where-angels-cry-tears-of-the-fallen-collectors-edition.json](./34175-where-angels-cry-tears-of-the-fallen-collectors-edition.json) |
 | Where Angels Meet | 135114 | [135114-where-angels-meet.json](./135114-where-angels-meet.json) |
+| Where are Leo and Mia? Pirate Island | 420655 | [420655-where-are-leo-and-mia-pirate-island.json](./420655-where-are-leo-and-mia-pirate-island.json) |
 | Where are my potatoes 2: Land Of Mystery | 276815 | [276815-where-are-my-potatoes-2-land-of-mystery.json](./276815-where-are-my-potatoes-2-land-of-mystery.json) |
 | Where are My Potatoes? | 207798 | [207798-where-are-my-potatoes.json](./207798-where-are-my-potatoes.json) |
 | Where Are the Fish? | 399168 | [399168-where-are-the-fish.json](./399168-where-are-the-fish.json) |
@@ -3540,6 +3543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordbase | 86060 | [86060-wordbase.json](./86060-wordbase.json) |
 | WordBrain | 58214 | [58214-wordbrain.json](./58214-wordbrain.json) |
 | Wordbreaker by Powgi | 196176 | [196176-wordbreaker-by-powgi.json](./196176-wordbreaker-by-powgi.json) |
+| WordBuzz 4 | 420654 | [420654-wordbuzz-4.json](./420654-wordbuzz-4.json) |
 | WordCookies Cross | 87002 | [87002-wordcookies-cross.json](./87002-wordcookies-cross.json) |
 | WordCrasher | 87702 | [87702-wordcrasher.json](./87702-wordcrasher.json) |
 | Worder | 116852 | [116852-worder.json](./116852-worder.json) |
