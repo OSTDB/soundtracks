@@ -617,6 +617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Tycoon | 236517 | [236517-candy-tycoon.json](./236517-candy-tycoon.json) |
 | Candy War | 402991 | [402991-candy-war.json](./402991-candy-war.json) |
 | Candy, Please! | 57157 | [57157-candy-please.json](./57157-candy-please.json) |
+| Candybox: Mobile | 402348 | [402348-candybox-mobile.json](./402348-candybox-mobile.json) |
 | CandyCraft | 241500 | [241500-candycraft.json](./241500-candycraft.json) |
 | Candylight | 194423 | [194423-candylight.json](./194423-candylight.json) |
 | CandyMouse | 241349 | [241349-candymouse.json](./241349-candymouse.json) |
@@ -5147,6 +5148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cogen: Sword of Rewind - Additional Story & Playable Character: Copen (Gunvolt Chronicles: Luminous Avenger iX 2) | 274999 | [274999-cogen-sword-of-rewind-additional-story-and-playable-character-copen-gunvolt-chronicles-luminous-avenger-ix-2.json](./274999-cogen-sword-of-rewind-additional-story-and-playable-character-copen-gunvolt-chronicles-luminous-avenger-ix-2.json) |
 | Cogen: Sword of Rewind: Additional Story & Playable Character - Akasha | 274997 | [274997-cogen-sword-of-rewind-additional-story-and-playable-character-akasha.json](./274997-cogen-sword-of-rewind-additional-story-and-playable-character-akasha.json) |
 | Cogito Ergo Sum | 299852 | [299852-cogito-ergo-sum.json](./299852-cogito-ergo-sum.json) |
+| Cogito: Requiem | 402434 | [402434-cogito-requiem.json](./402434-cogito-requiem.json) |
 | Cogmo | 286072 | [286072-cogmo.json](./286072-cogmo.json) |
 | Cognition Method | 211219 | [211219-cognition-method.json](./211219-cognition-method.json) |
 | Cognition: An Erica Reed Thriller - Episode 2: The Wise Monkey | 114985 | [114985-cognition-an-erica-reed-thriller-episode-2-the-wise-monkey.json](./114985-cognition-an-erica-reed-thriller-episode-2-the-wise-monkey.json) |
@@ -5976,6 +5978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Con-Quest | 140569 | [140569-con-quest.json](./140569-con-quest.json) |
 | Conan | 3862 | [3862-conan.json](./3862-conan.json) |
 | Conan | 9006 | [9006-conan.json](./9006-conan.json) |
+| Conan Exiles Enhanced | 402464 | [402464-conan-exiles-enhanced.json](./402464-conan-exiles-enhanced.json) |
 | Conan Exiles: Blood and Sand Pack | 164781 | [164781-conan-exiles-blood-and-sand-pack.json](./164781-conan-exiles-blood-and-sand-pack.json) |
 | Conan Exiles: Debaucheries of Derketo Pack | 164823 | [164823-conan-exiles-debaucheries-of-derketo-pack.json](./164823-conan-exiles-debaucheries-of-derketo-pack.json) |
 | Conan Exiles: Isle of Siptah | 167762 | [167762-conan-exiles-isle-of-siptah.json](./167762-conan-exiles-isle-of-siptah.json) |
@@ -6032,6 +6035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conductor | 179599 | [179599-conductor.json](./179599-conductor.json) |
 | Conductor & Abode | 52831 | [52831-conductor-and-abode.json](./52831-conductor-and-abode.json) |
 | Conductor Cat | 335364 | [335364-conductor-cat.json](./335364-conductor-cat.json) |
+| Conductus | 402437 | [402437-conductus.json](./402437-conductus.json) |
 | Cone Flyers Castaways | 389723 | [389723-cone-flyers-castaways.json](./389723-cone-flyers-castaways.json) |
 | Cone Wars | 57918 | [57918-cone-wars.json](./57918-cone-wars.json) |
 | Coneru: Dimension Girl | 267466 | [267466-coneru-dimension-girl.json](./267466-coneru-dimension-girl.json) |
@@ -7799,6 +7803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cretaceous Carnage | 146803 | [146803-cretaceous-carnage.json](./146803-cretaceous-carnage.json) |
 | Crevis | 59413 | [59413-crevis.json](./59413-crevis.json) |
 | Crew Crew Blocks | 150162 | [150162-crew-crew-blocks.json](./150162-crew-crew-blocks.json) |
+| Crewed | 402465 | [402465-crewed.json](./402465-crewed.json) |
 | Crewmate Rush Space Escape Runner | 414539 | [414539-crewmate-rush-space-escape-runner.json](./414539-crewmate-rush-space-escape-runner.json) |
 | Crewmember Pigeon and the Case of the Burgled Buttons | 188593 | [188593-crewmember-pigeon-and-the-case-of-the-burgled-buttons.json](./188593-crewmember-pigeon-and-the-case-of-the-burgled-buttons.json) |
 | Crey | 126030 | [126030-crey.json](./126030-crey.json) |
