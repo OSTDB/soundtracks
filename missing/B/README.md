@@ -4208,6 +4208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Survival: Return to Lumia | 282115 | [282115-black-survival-return-to-lumia.json](./282115-black-survival-return-to-lumia.json) |
 | Black Swan: Collector's Edition | 196315 | [196315-black-swan-collectors-edition.json](./196315-black-swan-collectors-edition.json) |
 | Black the Fall | 17555 | [17555-black-the-fall.json](./17555-black-the-fall.json) |
+| Black Tides: The Curse of Blackbeard | 406869 | [406869-black-tides-the-curse-of-blackbeard.json](./406869-black-tides-the-curse-of-blackbeard.json) |
 | Black Touch '96 | 267981 | [267981-black-touch-96.json](./267981-black-touch-96.json) |
 | Black Tower | 58824 | [58824-black-tower.json](./58824-black-tower.json) |
 | Black Turn: Operation Barbarossa 1941 | 22647 | [22647-black-turn-operation-barbarossa-1941.json](./22647-black-turn-operation-barbarossa-1941.json) |
