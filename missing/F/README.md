@@ -5650,6 +5650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Edge | 296065 | [296065-front-edge.json](./296065-front-edge.json) |
 | Front Line | 408293 | [408293-front-line.json](./408293-front-line.json) |
 | Front Lines | 79254 | [79254-front-lines.json](./79254-front-lines.json) |
+| Front Mission 1st | 21541 | [21541-front-mission-1st.json](./21541-front-mission-1st.json) |
 | Front Mission 1st: Remake | 191400 | [191400-front-mission-1st-remake.json](./191400-front-mission-1st-remake.json) |
 | Front Mission 2: Remake | 191401 | [191401-front-mission-2-remake.json](./191401-front-mission-2-remake.json) |
 | Front Mission 3 | 1502 | [1502-front-mission-3.json](./1502-front-mission-3.json) |
