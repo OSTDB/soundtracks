@@ -1462,6 +1462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight Mobile | 137700 | [137700-dead-by-daylight-mobile.json](./137700-dead-by-daylight-mobile.json) |
 | Dead by Daylight: A Binding of Kin Chapter | 168867 | [168867-dead-by-daylight-a-binding-of-kin-chapter.json](./168867-dead-by-daylight-a-binding-of-kin-chapter.json) |
 | Dead by Daylight: A Lullaby for the Dark Chapter | 76224 | [76224-dead-by-daylight-a-lullaby-for-the-dark-chapter.json](./76224-dead-by-daylight-a-lullaby-for-the-dark-chapter.json) |
+| Dead by Daylight: A Nightmare on Elm Street | 76226 | [76226-dead-by-daylight-a-nightmare-on-elm-street.json](./76226-dead-by-daylight-a-nightmare-on-elm-street.json) |
 | Dead by Daylight: All-Kill Chapter | 154346 | [154346-dead-by-daylight-all-kill-chapter.json](./154346-dead-by-daylight-all-kill-chapter.json) |
 | Dead by Daylight: Castlevania Chapter | 300809 | [300809-dead-by-daylight-castlevania-chapter.json](./300809-dead-by-daylight-castlevania-chapter.json) |
 | Dead by Daylight: Chucky Chapter | 278424 | [278424-dead-by-daylight-chucky-chapter.json](./278424-dead-by-daylight-chucky-chapter.json) |
@@ -2127,6 +2128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debrecen | 312921 | [312921-debrecen.json](./312921-debrecen.json) |
 | Debris | 150097 | [150097-debris.json](./150097-debris.json) |
 | Debris | 52017 | [52017-debris.json](./52017-debris.json) |
+| Debris Infinity | 76331 | [76331-debris-infinity.json](./76331-debris-infinity.json) |
 | Debt | 192816 | [192816-debt.json](./192816-debt.json) |
 | Debt Deadline | 272383 | [272383-debt-deadline.json](./272383-debt-deadline.json) |
 | Debug | 190097 | [190097-debug.json](./190097-debug.json) |
@@ -2587,6 +2589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delicious: Emily's Moms vs. Dads | 80946 | [80946-delicious-emilys-moms-vs-dads.json](./80946-delicious-emilys-moms-vs-dads.json) |
 | Delicious: Emily's Road Trip | 117545 | [117545-delicious-emilys-road-trip.json](./117545-delicious-emilys-road-trip.json) |
 | Delicious: Emily's Taste of Fame | 89222 | [89222-delicious-emilys-taste-of-fame.json](./89222-delicious-emilys-taste-of-fame.json) |
+| Delicious: Emily's True Love | 68946 | [68946-delicious-emilys-true-love.json](./68946-delicious-emilys-true-love.json) |
 | Delicious: Emily's Wonder Wedding | 88825 | [88825-delicious-emilys-wonder-wedding.json](./88825-delicious-emilys-wonder-wedding.json) |
 | Delicious: Mansion Mystery | 304710 | [304710-delicious-mansion-mystery.json](./304710-delicious-mansion-mystery.json) |
 | DeLight: The Journey Home - Chapter 4 | 314898 | [314898-delight-the-journey-home-chapter-4.json](./314898-delight-the-journey-home-chapter-4.json) |
@@ -4344,6 +4347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dis Pontibus 2 | 203950 | [203950-dis-pontibus-2.json](./203950-dis-pontibus-2.json) |
 | Disappearance of the Literature Club | 333611 | [333611-disappearance-of-the-literature-club.json](./333611-disappearance-of-the-literature-club.json) |
 | Disappearance Time | 71012 | [71012-disappearance-time.json](./71012-disappearance-time.json) |
+| Disassembly 3D | 75660 | [75660-disassembly-3d.json](./75660-disassembly-3d.json) |
 | Disaster | 186809 | [186809-disaster.json](./186809-disaster.json) |
 | Disaster Area | 236283 | [236283-disaster-area.json](./236283-disaster-area.json) |
 | Disaster Band | 229138 | [229138-disaster-band.json](./229138-disaster-band.json) |
@@ -8407,6 +8411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusttale: The Genocide's End | 362333 | [362333-dusttale-the-genocides-end.json](./362333-dusttale-the-genocides-end.json) |
 | Dusttale: The Murderous Comedy | 320339 | [320339-dusttale-the-murderous-comedy.json](./320339-dusttale-the-murderous-comedy.json) |
 | Dusttrust X | 329675 | [329675-dusttrust-x.json](./329675-dusttrust-x.json) |
+| Dustwind | 76127 | [76127-dustwind.json](./76127-dustwind.json) |
 | Dustwun | 83561 | [83561-dustwun.json](./83561-dustwun.json) |
 | Dusty Raging Fist | 63798 | [63798-dusty-raging-fist.json](./63798-dusty-raging-fist.json) |
 | Dusty Revenge: Co-Op Edition | 30233 | [30233-dusty-revenge-co-op-edition.json](./30233-dusty-revenge-co-op-edition.json) |
