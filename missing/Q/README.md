@@ -298,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qubes | 348943 | [348943-qubes.json](./348943-qubes.json) |
 | QubeTown | 114414 | [114414-qubetown.json](./114414-qubetown.json) |
 | Qubic | 31906 | [31906-qubic.json](./31906-qubic.json) |
+| Qubic 2025 Bestsellers | 393051 | [393051-qubic-2025-bestsellers.json](./393051-qubic-2025-bestsellers.json) |
 | Qubicks | 346599 | [346599-qubicks.json](./346599-qubicks.json) |
 | Qubie: Invader of Worlds | 169865 | [169865-qubie-invader-of-worlds.json](./169865-qubie-invader-of-worlds.json) |
 | Qubit's Quest | 283762 | [283762-qubits-quest.json](./283762-qubits-quest.json) |
@@ -413,6 +414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quester | 197387 | [197387-quester.json](./197387-quester.json) |
 | Quester | 46852 | [46852-quester.json](./46852-quester.json) |
 | Questerium: Sinister Trinity HD - Collector's Edition | 36234 | [36234-questerium-sinister-trinity-hd-collectors-edition.json](./36234-questerium-sinister-trinity-hd-collectors-edition.json) |
+| Questi Quest | 393079 | [393079-questi-quest.json](./393079-questi-quest.json) |
 | Questinarium | 393467 | [393467-questinarium.json](./393467-questinarium.json) |
 | Question Mark | 388254 | [388254-question-mark.json](./388254-question-mark.json) |
 | Questionable Countdowns | 411631 | [411631-questionable-countdowns.json](./411631-questionable-countdowns.json) |
