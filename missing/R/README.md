@@ -485,6 +485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiden Fighters Aces | 7153 | [7153-raiden-fighters-aces.json](./7153-raiden-fighters-aces.json) |
 | Raiden II | 8855 | [8855-raiden-ii.json](./8855-raiden-ii.json) |
 | Raiden III x Mikado Maniax: Deluxe Edition | 234207 | [234207-raiden-iii-x-mikado-maniax-deluxe-edition.json](./234207-raiden-iii-x-mikado-maniax-deluxe-edition.json) |
+| Raiden III: Digital Edition | 36271 | [36271-raiden-iii-digital-edition.json](./36271-raiden-iii-digital-edition.json) |
 | Raiden IV | 7154 | [7154-raiden-iv.json](./7154-raiden-iv.json) |
 | Raiden IV x Mikado Remix | 141863 | [141863-raiden-iv-x-mikado-remix.json](./141863-raiden-iv-x-mikado-remix.json) |
 | Raiden Nova | 319140 | [319140-raiden-nova.json](./319140-raiden-nova.json) |
@@ -3736,6 +3737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Nosferacula | 179516 | [179516-rise-of-nosferacula.json](./179516-rise-of-nosferacula.json) |
 | Rise of Peles | 152794 | [152794-rise-of-peles.json](./152794-rise-of-peles.json) |
 | Rise of Piracy | 154973 | [154973-rise-of-piracy.json](./154973-rise-of-piracy.json) |
+| Rise of Prussia Gold | 36319 | [36319-rise-of-prussia-gold.json](./36319-rise-of-prussia-gold.json) |
 | Rise of Queendom | 255119 | [255119-rise-of-queendom.json](./255119-rise-of-queendom.json) |
 | Rise of Rana | 362359 | [362359-rise-of-rana.json](./362359-rise-of-rana.json) |
 | Rise of SamuraizerzZz | 156664 | [156664-rise-of-samuraizerzzz.json](./156664-rise-of-samuraizerzzz.json) |
@@ -4070,6 +4072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roads of Rome: New Generation 2 | 111194 | [111194-roads-of-rome-new-generation-2.json](./111194-roads-of-rome-new-generation-2.json) |
 | Roads Yet Traveled | 359048 | [359048-roads-yet-traveled.json](./359048-roads-yet-traveled.json) |
 | Roadside | 286079 | [286079-roadside.json](./286079-roadside.json) |
+| Roadside Assistance Simulator | 36317 | [36317-roadside-assistance-simulator.json](./36317-roadside-assistance-simulator.json) |
 | Roadtrip | 266233 | [266233-roadtrip.json](./266233-roadtrip.json) |
 | Roadwars | 12843 | [12843-roadwars.json](./12843-roadwars.json) |
 | Roadwars | 95398 | [95398-roadwars.json](./95398-roadwars.json) |
@@ -5202,6 +5205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roped In | 300412 | [300412-roped-in.json](./300412-roped-in.json) |
 | Roped In: Deuces Wild | 319129 | [319129-roped-in-deuces-wild.json](./319129-roped-in-deuces-wild.json) |
 | Ropes and Dragons VR | 29901 | [29901-ropes-and-dragons-vr.json](./29901-ropes-and-dragons-vr.json) |
+| Ropeway Simulator 2014 | 36345 | [36345-ropeway-simulator-2014.json](./36345-ropeway-simulator-2014.json) |
 | Ropin' Ranch | 279425 | [279425-ropin-ranch.json](./279425-ropin-ranch.json) |
 | Roppongi Sadistic Night | 395566 | [395566-roppongi-sadistic-night.json](./395566-roppongi-sadistic-night.json) |
 | Ropuka | 386712 | [386712-ropuka.json](./386712-ropuka.json) |
@@ -5530,6 +5534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubble Trouble Moscow | 326730 | [326730-rubble-trouble-moscow.json](./326730-rubble-trouble-moscow.json) |
 | Rubble Trouble Tokyo | 326729 | [326729-rubble-trouble-tokyo.json](./326729-rubble-trouble-tokyo.json) |
 | Rube Goldberg Workshop | 250452 | [250452-rube-goldberg-workshop.json](./250452-rube-goldberg-workshop.json) |
+| Rube Works | 36337 | [36337-rube-works.json](./36337-rube-works.json) |
 | Rube-like Gold-berger | 364606 | [364606-rube-like-gold-berger.json](./364606-rube-like-gold-berger.json) |
 | Rubek | 25069 | [25069-rubek.json](./25069-rubek.json) |
 | Rubelike | 176377 | [176377-rubelike.json](./176377-rubelike.json) |
