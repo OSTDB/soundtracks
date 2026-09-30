@@ -165,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Donna | 40366 | [40366-mad-donna.json](./40366-mad-donna.json) |
 | Mad Experiments 2: Escape Room | 195600 | [195600-mad-experiments-2-escape-room.json](./195600-mad-experiments-2-escape-room.json) |
 | Mad Experiments 2: Premium Pack | 263048 | [263048-mad-experiments-2-premium-pack.json](./263048-mad-experiments-2-premium-pack.json) |
+| Mad Experiments: Escape Room | 127216 | [127216-mad-experiments-escape-room.json](./127216-mad-experiments-escape-room.json) |
 | Mad Factory | 107405 | [107405-mad-factory.json](./107405-mad-factory.json) |
 | Mad Fighter | 133199 | [133199-mad-fighter.json](./133199-mad-fighter.json) |
 | Mad Finger Marathon | 233209 | [233209-mad-finger-marathon.json](./233209-mad-finger-marathon.json) |
@@ -6972,6 +6973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Energy Supercross: The Official Videogame 2 - Los Angeles Memorial Coliseum | 154461 | [154461-monster-energy-supercross-the-official-videogame-2-los-angeles-memorial-coliseum.json](./154461-monster-energy-supercross-the-official-videogame-2-los-angeles-memorial-coliseum.json) |
 | Monster Energy Supercross: The Official Videogame 2 - Monster Energy Cup | 154459 | [154459-monster-energy-supercross-the-official-videogame-2-monster-energy-cup.json](./154459-monster-energy-supercross-the-official-videogame-2-monster-energy-cup.json) |
 | Monster Energy Supercross: The Official Videogame 2 - The Playground | 154460 | [154460-monster-energy-supercross-the-official-videogame-2-the-playground.json](./154460-monster-energy-supercross-the-official-videogame-2-the-playground.json) |
+| Monster Energy Supercross: The Official Videogame 3 | 128465 | [128465-monster-energy-supercross-the-official-videogame-3.json](./128465-monster-energy-supercross-the-official-videogame-3.json) |
 | Monster Energy Supercross: The Official Videogame 3 - Great Legends | 170944 | [170944-monster-energy-supercross-the-official-videogame-3-great-legends.json](./170944-monster-energy-supercross-the-official-videogame-3-great-legends.json) |
 | Monster Energy Supercross: The Official Videogame 3 - Monster Energy Cup | 170945 | [170945-monster-energy-supercross-the-official-videogame-3-monster-energy-cup.json](./170945-monster-energy-supercross-the-official-videogame-3-monster-energy-cup.json) |
 | Monster Energy Supercross: The Official Videogame 4 | 141241 | [141241-monster-energy-supercross-the-official-videogame-4.json](./141241-monster-energy-supercross-the-official-videogame-4.json) |
@@ -7094,6 +7096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Island HD | 175739 | [175739-monster-island-hd.json](./175739-monster-island-hd.json) |
 | Monster Jam Battlegrounds | 53379 | [53379-monster-jam-battlegrounds.json](./53379-monster-jam-battlegrounds.json) |
 | Monster Jam Game | 260194 | [260194-monster-jam-game.json](./260194-monster-jam-game.json) |
+| Monster Jam Showdown | 289698 | [289698-monster-jam-showdown.json](./289698-monster-jam-showdown.json) |
 | Monster Jam Showdown: Bad News Travels Fast | 339291 | [339291-monster-jam-showdown-bad-news-travels-fast.json](./339291-monster-jam-showdown-bad-news-travels-fast.json) |
 | Monster Jam Showdown: Big Air Edition | 308808 | [308808-monster-jam-showdown-big-air-edition.json](./308808-monster-jam-showdown-big-air-edition.json) |
 | Monster Jam Showdown: Day One Edition | 293931 | [293931-monster-jam-showdown-day-one-edition.json](./293931-monster-jam-showdown-day-one-edition.json) |
