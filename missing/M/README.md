@@ -929,6 +929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Masters Club | 385090 | [385090-mahjong-masters-club.json](./385090-mahjong-masters-club.json) |
 | Mahjong Masters: Temple of the Ten Gods | 43539 | [43539-mahjong-masters-temple-of-the-ten-gods.json](./43539-mahjong-masters-temple-of-the-ten-gods.json) |
 | Mahjong Match Puzzle | 99420 | [99420-mahjong-match-puzzle.json](./99420-mahjong-match-puzzle.json) |
+| Mahjong Mojo 3D | 87070 | [87070-mahjong-mojo-3d.json](./87070-mahjong-mojo-3d.json) |
 | Mahjong on the Beach | 305195 | [305195-mahjong-on-the-beach.json](./305195-mahjong-on-the-beach.json) |
 | Mahjong Ou Densetsu | 91932 | [91932-mahjong-ou-densetsu.json](./91932-mahjong-ou-densetsu.json) |
 | Mahjong Palace | 89230 | [89230-mahjong-palace.json](./89230-mahjong-palace.json) |
@@ -1568,6 +1569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Mage | 166709 | [166709-marble-mage.json](./166709-marble-mage.json) |
 | Marble Maid | 160223 | [160223-marble-maid.json](./160223-marble-maid.json) |
 | Marble Man: Marble Madness II | 125477 | [125477-marble-man-marble-madness-ii.json](./125477-marble-man-marble-madness-ii.json) |
+| Marble Mania Ball Maze | 87069 | [87069-marble-mania-ball-maze.json](./87069-marble-mania-ball-maze.json) |
 | Marble Marcher | 125889 | [125889-marble-marcher.json](./125889-marble-marcher.json) |
 | Marble Marcher: Community Edition | 184417 | [184417-marble-marcher-community-edition.json](./184417-marble-marcher-community-edition.json) |
 | Marble Mash | 337104 | [337104-marble-mash.json](./337104-marble-mash.json) |
@@ -6160,6 +6162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missing In Action | 40806 | [40806-missing-in-action.json](./40806-missing-in-action.json) |
 | Missing Information | 169325 | [169325-missing-information.json](./169325-missing-information.json) |
 | Missing Kitty | 258724 | [258724-missing-kitty.json](./258724-missing-kitty.json) |
+| Missing Letters | 87074 | [87074-missing-letters.json](./87074-missing-letters.json) |
 | Missing Love | 163199 | [163199-missing-love.json](./163199-missing-love.json) |
 | Missing Memories | 257088 | [257088-missing-memories.json](./257088-missing-memories.json) |
 | Missing Mildred | 189190 | [189190-missing-mildred.json](./189190-missing-mildred.json) |
@@ -9467,6 +9470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Step Sisters | 344946 | [344946-my-step-sisters.json](./344946-my-step-sisters.json) |
 | My Sticker Room | 383969 | [383969-my-sticker-room.json](./383969-my-sticker-room.json) |
 | My Stop Smoking Coach with Allen Carr | 70638 | [70638-my-stop-smoking-coach-with-allen-carr.json](./70638-my-stop-smoking-coach-with-allen-carr.json) |
+| My Story: Choose Your Own Path | 87010 | [87010-my-story-choose-your-own-path.json](./87010-my-story-choose-your-own-path.json) |
 | My Strange Girlfriends | 248926 | [248926-my-strange-girlfriends.json](./248926-my-strange-girlfriends.json) |
 | My Street | 19306 | [19306-my-street.json](./19306-my-street.json) |
 | My Strong Horse | 164256 | [164256-my-strong-horse.json](./164256-my-strong-horse.json) |
