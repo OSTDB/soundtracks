@@ -11574,6 +11574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toilet Run | 110488 | [110488-toilet-run.json](./110488-toilet-run.json) |
 | Toilet Rush Draw: Poo and Pee | 231888 | [231888-toilet-rush-draw-poo-and-pee.json](./231888-toilet-rush-draw-poo-and-pee.json) |
 | Toilet Simulator | 111715 | [111715-toilet-simulator.json](./111715-toilet-simulator.json) |
+| Toilet Treasures | 396525 | [396525-toilet-treasures.json](./396525-toilet-treasures.json) |
 | Toilet Zone | 304586 | [304586-toilet-zone.json](./304586-toilet-zone.json) |
 | Toilet Zone 2 | 337643 | [337643-toilet-zone-2.json](./337643-toilet-zone-2.json) |
 | Toilet: Confrontation | 327301 | [327301-toilet-confrontation.json](./327301-toilet-confrontation.json) |
@@ -12445,6 +12446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Unbalanced | 32402 | [32402-totally-unbalanced.json](./32402-totally-unbalanced.json) |
 | Totally Working Game | 168130 | [168130-totally-working-game.json](./168130-totally-working-game.json) |
 | Totem | 32070 | [32070-totem.json](./32070-totem.json) |
+| Totem | 396483 | [396483-totem.json](./396483-totem.json) |
 | Tôtem | 133974 | [133974-totem.json](./133974-totem.json) |
 | Totem City | 124017 | [124017-totem-city.json](./124017-totem-city.json) |
 | Totem Runner | 64391 | [64391-totem-runner.json](./64391-totem-runner.json) |
@@ -12852,26 +12854,39 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Walker: MMO Grind Simulator | 217504 | [217504-tower-walker-mmo-grind-simulator.json](./217504-tower-walker-mmo-grind-simulator.json) |
 | Tower War: Tactical Conquest | 245333 | [245333-tower-war-tactical-conquest.json](./245333-tower-war-tactical-conquest.json) |
 | Tower Words | 195130 | [195130-tower-words.json](./195130-tower-words.json) |
+| Tower! Simulator 3: CYVR Airport | 396509 | [396509-tower-simulator-3-cyvr-airport.json](./396509-tower-simulator-3-cyvr-airport.json) |
+| Tower! Simulator 3: EDDB Airport | 396511 | [396511-tower-simulator-3-eddb-airport.json](./396511-tower-simulator-3-eddb-airport.json) |
 | Tower! Simulator 3: EDDF Airport | 353327 | [353327-tower-simulator-3-eddf-airport.json](./353327-tower-simulator-3-eddf-airport.json) |
+| Tower! Simulator 3: EDDH Airport | 396507 | [396507-tower-simulator-3-eddh-airport.json](./396507-tower-simulator-3-eddh-airport.json) |
+| Tower! Simulator 3: EDDL Airport | 396515 | [396515-tower-simulator-3-eddl-airport.json](./396515-tower-simulator-3-eddl-airport.json) |
 | Tower! Simulator 3: EDDM Airport | 353313 | [353313-tower-simulator-3-eddm-airport.json](./353313-tower-simulator-3-eddm-airport.json) |
 | Tower! Simulator 3: EGLL Airport | 257454 | [257454-tower-simulator-3-egll-airport.json](./257454-tower-simulator-3-egll-airport.json) |
 | Tower! Simulator 3: EHAM Airport | 353331 | [353331-tower-simulator-3-eham-airport.json](./353331-tower-simulator-3-eham-airport.json) |
+| Tower! Simulator 3: EHEH Airport | 396502 | [396502-tower-simulator-3-eheh-airport.json](./396502-tower-simulator-3-eheh-airport.json) |
 | Tower! Simulator 3: EKCH Airport | 288906 | [288906-tower-simulator-3-ekch-airport.json](./288906-tower-simulator-3-ekch-airport.json) |
 | Tower! Simulator 3: KATL Airport | 353330 | [353330-tower-simulator-3-katl-airport.json](./353330-tower-simulator-3-katl-airport.json) |
 | Tower! Simulator 3: KAUS Airport | 353326 | [353326-tower-simulator-3-kaus-airport.json](./353326-tower-simulator-3-kaus-airport.json) |
 | Tower! Simulator 3: KBNA Airport | 353321 | [353321-tower-simulator-3-kbna-airport.json](./353321-tower-simulator-3-kbna-airport.json) |
 | Tower! Simulator 3: KBOS Airport | 353318 | [353318-tower-simulator-3-kbos-airport.json](./353318-tower-simulator-3-kbos-airport.json) |
+| Tower! Simulator 3: KDFW Airport | 396518 | [396518-tower-simulator-3-kdfw-airport.json](./396518-tower-simulator-3-kdfw-airport.json) |
+| Tower! Simulator 3: KEWR Airport | 396505 | [396505-tower-simulator-3-kewr-airport.json](./396505-tower-simulator-3-kewr-airport.json) |
 | Tower! Simulator 3: KIAH Airport | 298704 | [298704-tower-simulator-3-kiah-airport.json](./298704-tower-simulator-3-kiah-airport.json) |
 | Tower! Simulator 3: KMCO Airport | 298091 | [298091-tower-simulator-3-kmco-airport.json](./298091-tower-simulator-3-kmco-airport.json) |
+| Tower! Simulator 3: KORD Airport | 396508 | [396508-tower-simulator-3-kord-airport.json](./396508-tower-simulator-3-kord-airport.json) |
 | Tower! Simulator 3: KPIT Airport | 311097 | [311097-tower-simulator-3-kpit-airport.json](./311097-tower-simulator-3-kpit-airport.json) |
 | Tower! Simulator 3: KSFO Airport | 353328 | [353328-tower-simulator-3-ksfo-airport.json](./353328-tower-simulator-3-ksfo-airport.json) |
 | Tower! Simulator 3: KSLC Airport | 353332 | [353332-tower-simulator-3-kslc-airport.json](./353332-tower-simulator-3-kslc-airport.json) |
 | Tower! Simulator 3: KSTL Airport | 289931 | [289931-tower-simulator-3-kstl-airport.json](./289931-tower-simulator-3-kstl-airport.json) |
 | Tower! Simulator 3: LEBL Airport | 278505 | [278505-tower-simulator-3-lebl-airport.json](./278505-tower-simulator-3-lebl-airport.json) |
+| Tower! Simulator 3: LFPG Airport | 396506 | [396506-tower-simulator-3-lfpg-airport.json](./396506-tower-simulator-3-lfpg-airport.json) |
+| Tower! Simulator 3: LGAV Airport | 396512 | [396512-tower-simulator-3-lgav-airport.json](./396512-tower-simulator-3-lgav-airport.json) |
 | Tower! Simulator 3: LSZH Airport | 353325 | [353325-tower-simulator-3-lszh-airport.json](./353325-tower-simulator-3-lszh-airport.json) |
 | Tower! Simulator 3: MMPR Airport | 289932 | [289932-tower-simulator-3-mmpr-airport.json](./289932-tower-simulator-3-mmpr-airport.json) |
 | Tower! Simulator 3: OMDB Airport | 236836 | [236836-tower-simulator-3-omdb-airport.json](./236836-tower-simulator-3-omdb-airport.json) |
+| Tower! Simulator 3: PANC Airport | 396510 | [396510-tower-simulator-3-panc-airport.json](./396510-tower-simulator-3-panc-airport.json) |
 | Tower! Simulator 3: RJTT Airport | 310044 | [310044-tower-simulator-3-rjtt-airport.json](./310044-tower-simulator-3-rjtt-airport.json) |
+| Tower! Simulator 3: WSSS Airport | 396513 | [396513-tower-simulator-3-wsss-airport.json](./396513-tower-simulator-3-wsss-airport.json) |
+| Tower! Simulator 3: ZSPD Airport | 396516 | [396516-tower-simulator-3-zspd-airport.json](./396516-tower-simulator-3-zspd-airport.json) |
 | Tower!3D | 33091 | [33091-tower-3d.json](./33091-tower-3d.json) |
 | Tower!3D Pro | 29566 | [29566-tower-3d-pro.json](./29566-tower-3d-pro.json) |
 | Tower!3D Pro: EDDM Airport | 162284 | [162284-tower-3d-pro-eddm-airport.json](./162284-tower-3d-pro-eddm-airport.json) |
@@ -13362,6 +13377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 5: West Cornwall Steam Railtour Add-On | 359504 | [359504-train-sim-world-5-west-cornwall-steam-railtour-add-on.json](./359504-train-sim-world-5-west-cornwall-steam-railtour-add-on.json) |
 | Train Sim World 5: West Somerset Railway Route Add-On | 359490 | [359490-train-sim-world-5-west-somerset-railway-route-add-on.json](./359490-train-sim-world-5-west-somerset-railway-route-add-on.json) |
 | Train Sim World 6 | 363370 | [363370-train-sim-world-6.json](./363370-train-sim-world-6.json) |
+| Train Sim World 6: BR Class 90 Electric Freight Loco | 396521 | [396521-train-sim-world-6-br-class-90-electric-freight-loco.json](./396521-train-sim-world-6-br-class-90-electric-freight-loco.json) |
 | Train Sim World 6: Cargo Line Vol. 6 - Gas | 412420 | [412420-train-sim-world-6-cargo-line-vol-6-gas.json](./412420-train-sim-world-6-cargo-line-vol-6-gas.json) |
 | Train Sim World 6: Schnellfahrstrecke Nürnberg - Ingolstadt Route Add-On | 412417 | [412417-train-sim-world-6-schnellfahrstrecke-nurnberg-ingolstadt-route-add-on.json](./412417-train-sim-world-6-schnellfahrstrecke-nurnberg-ingolstadt-route-add-on.json) |
 | Train Sim World 6: Tadami Line: Aizu-Wakamatsu - Tadami Route Add-On | 412418 | [412418-train-sim-world-6-tadami-line-aizu-wakamatsu-tadami-route-add-on.json](./412418-train-sim-world-6-tadami-line-aizu-wakamatsu-tadami-route-add-on.json) |
