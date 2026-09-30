@@ -655,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Crimson PC-8801mkIISR | 328527 | [328527-eggconsole-crimson-pc-8801mkiisr.json](./328527-eggconsole-crimson-pc-8801mkiisr.json) |
 | Eggconsole Crystal Chaser: Overlord's Orb of the Sky - Refined PC-9801 | 378794 | [378794-eggconsole-crystal-chaser-overlords-orb-of-the-sky-refined-pc-9801.json](./378794-eggconsole-crystal-chaser-overlords-orb-of-the-sky-refined-pc-9801.json) |
 | Eggconsole Deep Dungeon II MSX | 420692 | [420692-eggconsole-deep-dungeon-ii-msx.json](./420692-eggconsole-deep-dungeon-ii-msx.json) |
+| Eggconsole Dragon Slayer Level 2.0 PC-8801 | 410380 | [410380-eggconsole-dragon-slayer-level-2-0-pc-8801.json](./410380-eggconsole-dragon-slayer-level-2-0-pc-8801.json) |
 | Eggconsole Dragon Slayer: The Legend of Heroes II PC-8801mkIISR | 328526 | [328526-eggconsole-dragon-slayer-the-legend-of-heroes-ii-pc-8801mkiisr.json](./328526-eggconsole-dragon-slayer-the-legend-of-heroes-ii-pc-8801mkiisr.json) |
 | Eggconsole Dragon Slayer: The Legend of Heroes PC-8801mkIISR | 316195 | [316195-eggconsole-dragon-slayer-the-legend-of-heroes-pc-8801mkiisr.json](./316195-eggconsole-dragon-slayer-the-legend-of-heroes-pc-8801mkiisr.json) |
 | Eggconsole Fray PC-9801 | 351228 | [351228-eggconsole-fray-pc-9801.json](./351228-eggconsole-fray-pc-9801.json) |
@@ -706,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggrolls Shoot | 379881 | [379881-eggrolls-shoot.json](./379881-eggrolls-shoot.json) |
 | Eggs Catcher VR | 164254 | [164254-eggs-catcher-vr.json](./164254-eggs-catcher-vr.json) |
 | Eggs Must Flow | 414592 | [414592-eggs-must-flow.json](./414592-eggs-must-flow.json) |
+| Eggs Never Hurt | 410304 | [410304-eggs-never-hurt.json](./410304-eggs-never-hurt.json) |
 | Eggs of Steel: Charlie's Eggcellent Adventure | 68023 | [68023-eggs-of-steel-charlies-eggcellent-adventure.json](./68023-eggs-of-steel-charlies-eggcellent-adventure.json) |
 | Eggscape | 351688 | [351688-eggscape.json](./351688-eggscape.json) |
 | EggSort | 261316 | [261316-eggsort.json](./261316-eggsort.json) |
@@ -2395,10 +2397,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Game R00m07 | 378800 | [378800-escape-game-r00m07.json](./378800-escape-game-r00m07.json) |
 | Escape game R00m11 | 395217 | [395217-escape-game-r00m11.json](./395217-escape-game-r00m11.json) |
 | Escape game R00m12 | 399635 | [399635-escape-game-r00m12.json](./399635-escape-game-r00m12.json) |
+| Escape game R00m15 | 410381 | [410381-escape-game-r00m15.json](./410381-escape-game-r00m15.json) |
 | Escape game R00m17 | 420691 | [420691-escape-game-r00m17.json](./420691-escape-game-r00m17.json) |
 | Escape Game Sleepless | 335698 | [335698-escape-game-sleepless.json](./335698-escape-game-sleepless.json) |
 | Escape Game The Dr. Mouse's Lab | 298585 | [298585-escape-game-the-dr-mouses-lab.json](./298585-escape-game-the-dr-mouses-lab.json) |
 | Escape Game The Empty School | 345693 | [345693-escape-game-the-empty-school.json](./345693-escape-game-the-empty-school.json) |
+| Escape Game The Locked Elevator | 410382 | [410382-escape-game-the-locked-elevator.json](./410382-escape-game-the-locked-elevator.json) |
 | Escape Game: Aloha | 102623 | [102623-escape-game-aloha.json](./102623-escape-game-aloha.json) |
 | Escape Game: R00m 02 | 334094 | [334094-escape-game-r00m-02.json](./334094-escape-game-r00m-02.json) |
 | Escape Game: The Old Folk House | 288312 | [288312-escape-game-the-old-folk-house.json](./288312-escape-game-the-old-folk-house.json) |
@@ -2430,6 +2434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Room | 90637 | [90637-escape-room.json](./90637-escape-room.json) |
 | Escape Room Collection C1 | 295536 | [295536-escape-room-collection-c1.json](./295536-escape-room-collection-c1.json) |
 | Escape Room Killer: Moon, flowers and the Creepy Ghost | 328530 | [328530-escape-room-killer-moon-flowers-and-the-creepy-ghost.json](./328530-escape-room-killer-moon-flowers-and-the-creepy-ghost.json) |
+| Escape Room Marathon | 410388 | [410388-escape-room-marathon.json](./410388-escape-room-marathon.json) |
 | Escape Room Mega Bundle | 279036 | [279036-escape-room-mega-bundle.json](./279036-escape-room-mega-bundle.json) |
 | Escape Room Mystery Adventure: Enchanting Tales | 152389 | [152389-escape-room-mystery-adventure-enchanting-tales.json](./152389-escape-room-mystery-adventure-enchanting-tales.json) |
 | Escape Room Pentalogy Bundle | 284488 | [284488-escape-room-pentalogy-bundle.json](./284488-escape-room-pentalogy-bundle.json) |
