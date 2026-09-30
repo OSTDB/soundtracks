@@ -1273,6 +1273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mall Manager Simulator | 309444 | [309444-mall-manager-simulator.json](./309444-mall-manager-simulator.json) |
 | Mall Maniacs | 70681 | [70681-mall-maniacs.json](./70681-mall-maniacs.json) |
 | Mall of Mayhem | 188502 | [188502-mall-of-mayhem.json](./188502-mall-of-mayhem.json) |
+| Mall Rivals | 390743 | [390743-mall-rivals.json](./390743-mall-rivals.json) |
 | Mall Simulator | 326402 | [326402-mall-simulator.json](./326402-mall-simulator.json) |
 | Mall Simulator Together | 413824 | [413824-mall-simulator-together.json](./413824-mall-simulator-together.json) |
 | Mall Together | 400213 | [400213-mall-together.json](./400213-mall-together.json) |
@@ -7575,6 +7576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Alert | 73795 | [73795-moon-alert.json](./73795-moon-alert.json) |
 | Moon Alien Part II | 38581 | [38581-moon-alien-part-ii.json](./38581-moon-alien-part-ii.json) |
 | Moon and Away | 414619 | [414619-moon-and-away.json](./414619-moon-and-away.json) |
+| Moon and Fang | 390752 | [390752-moon-and-fang.json](./390752-moon-and-fang.json) |
 | Moon Archer Shooting Stars | 177917 | [177917-moon-archer-shooting-stars.json](./177917-moon-archer-shooting-stars.json) |
 | Moon Ball Magic | 41402 | [41402-moon-ball-magic.json](./41402-moon-ball-magic.json) |
 | Moon Blue Legend Remake | 394175 | [394175-moon-blue-legend-remake.json](./394175-moon-blue-legend-remake.json) |
