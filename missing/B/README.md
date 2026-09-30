@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B67 | 138742 | [138742-b67.json](./138742-b67.json) |
 | Ba Quartet X | 276296 | [276296-ba-quartet-x.json](./276296-ba-quartet-x.json) |
 | Baa! Never Stop Bleating | 295565 | [295565-baa-never-stop-bleating.json](./295565-baa-never-stop-bleating.json) |
+| Baam Squad | 90719 | [90719-baam-squad.json](./90719-baam-squad.json) |
 | Bab.gg | 408262 | [408262-bab-gg.json](./408262-bab-gg.json) |
 | Baba Booey's Adventure | 72118 | [72118-baba-booeys-adventure.json](./72118-baba-booeys-adventure.json) |
 | Baba Is Cool 2 | 301581 | [301581-baba-is-cool-2.json](./301581-baba-is-cool-2.json) |
@@ -770,6 +771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balls Away! | 235141 | [235141-balls-away.json](./235141-balls-away.json) |
 | Balls Blast | 104268 | [104268-balls-blast.json](./104268-balls-blast.json) |
 | Balls Bombs | 300733 | [300733-balls-bombs.json](./300733-balls-bombs.json) |
+| Balls Control | 90767 | [90767-balls-control.json](./90767-balls-control.json) |
 | Balls n Blocks | 120255 | [120255-balls-n-blocks.json](./120255-balls-n-blocks.json) |
 | Balls of Glory Pinball | 261803 | [261803-balls-of-glory-pinball.json](./261803-balls-of-glory-pinball.json) |
 | Balls of Steel | 11097 | [11097-balls-of-steel.json](./11097-balls-of-steel.json) |
@@ -1273,6 +1275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barnyard Blast: Swine of the Night | 47917 | [47917-barnyard-blast-swine-of-the-night.json](./47917-barnyard-blast-swine-of-the-night.json) |
 | Barnyard Blaster Lite | 100327 | [100327-barnyard-blaster-lite.json](./100327-barnyard-blaster-lite.json) |
 | Barnyard Games For Kids | 96737 | [96737-barnyard-games-for-kids.json](./96737-barnyard-games-for-kids.json) |
+| Barnyard Mahjong | 90736 | [90736-barnyard-mahjong.json](./90736-barnyard-mahjong.json) |
 | Barnyard Mahjong 3 | 32156 | [32156-barnyard-mahjong-3.json](./32156-barnyard-mahjong-3.json) |
 | Baro Kart | 259009 | [259009-baro-kart.json](./259009-baro-kart.json) |
 | Barold | 220135 | [220135-barold.json](./220135-barold.json) |
@@ -1774,6 +1777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Gear 3 | 286628 | [286628-battle-gear-3.json](./286628-battle-gear-3.json) |
 | Battle Gear 4 | 64964 | [64964-battle-gear-4.json](./64964-battle-gear-4.json) |
 | Battle Gem Ponies | 183573 | [183573-battle-gem-ponies.json](./183573-battle-gem-ponies.json) |
+| Battle Golf Online | 90703 | [90703-battle-golf-online.json](./90703-battle-golf-online.json) |
 | Battle Grand Prix | 42628 | [42628-battle-grand-prix.json](./42628-battle-grand-prix.json) |
 | Battle Grid Arena | 306333 | [306333-battle-grid-arena.json](./306333-battle-grid-arena.json) |
 | Battle Ground Training | 98769 | [98769-battle-ground-training.json](./98769-battle-ground-training.json) |
@@ -6168,6 +6172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Botticelli | 362434 | [362434-botticelli.json](./362434-botticelli.json) |
 | Bottle | 36488 | [36488-bottle.json](./36488-bottle.json) |
 | Bottle Can Float | 272826 | [272826-bottle-can-float.json](./272826-bottle-can-float.json) |
+| Bottle Flip | 90760 | [90760-bottle-flip.json](./90760-bottle-flip.json) |
 | Bottle Flip Challenge VR | 28798 | [28798-bottle-flip-challenge-vr.json](./28798-bottle-flip-challenge-vr.json) |
 | Bottle Flip VR | 159895 | [159895-bottle-flip-vr.json](./159895-bottle-flip-vr.json) |
 | Bottle Flip! | 97099 | [97099-bottle-flip.json](./97099-bottle-flip.json) |
@@ -6359,6 +6364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling | 300414 | [300414-bowling.json](./300414-bowling.json) |
 | Bowling | 317634 | [317634-bowling.json](./317634-bowling.json) |
 | Bowling 3D | 42776 | [42776-bowling-3d.json](./42776-bowling-3d.json) |
+| Bowling 3D Extreme | 89226 | [89226-bowling-3d-extreme.json](./89226-bowling-3d-extreme.json) |
 | Bowling Alley | 230840 | [230840-bowling-alley.json](./230840-bowling-alley.json) |
 | Bowling at the Lake | 30190 | [30190-bowling-at-the-lake.json](./30190-bowling-at-the-lake.json) |
 | Bowling by Jason Belmonte | 262386 | [262386-bowling-by-jason-belmonte.json](./262386-bowling-by-jason-belmonte.json) |
