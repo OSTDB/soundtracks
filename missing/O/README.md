@@ -652,6 +652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oku dake Nou-tre Yubi Ippon | 251527 | [251527-oku-dake-nou-tre-yubi-ippon.json](./251527-oku-dake-nou-tre-yubi-ippon.json) |
 | Oku dake Study Hangul Kiso Tango | 261375 | [261375-oku-dake-study-hangul-kiso-tango.json](./261375-oku-dake-study-hangul-kiso-tango.json) |
 | Oku-sama wa Moto Yariman -Besluted- | 82982 | [82982-oku-sama-wa-moto-yariman-besluted.json](./82982-oku-sama-wa-moto-yariman-besluted.json) |
+| Okugafuchi Shopping Arcade | 413104 | [413104-okugafuchi-shopping-arcade.json](./413104-okugafuchi-shopping-arcade.json) |
 | Okuman Chouja II | 242520 | [242520-okuman-chouja-ii.json](./242520-okuman-chouja-ii.json) |
 | OkunoKa | 87961 | [87961-okunoka.json](./87961-okunoka.json) |
 | Okunoka Madness | 136462 | [136462-okunoka-madness.json](./136462-okunoka-madness.json) |
