@@ -227,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wall to Wall | 115142 | [115142-wall-to-wall.json](./115142-wall-to-wall.json) |
 | Wall Town Wonders | 320625 | [320625-wall-town-wonders.json](./320625-wall-town-wonders.json) |
 | Wall World | 224705 | [224705-wall-world.json](./224705-wall-world.json) |
+| Wall World Strategy | 398525 | [398525-wall-world-strategy.json](./398525-wall-world-strategy.json) |
 | Wall-Breaking | 230838 | [230838-wall-breaking.json](./230838-wall-breaking.json) |
 | Wall-Defender | 46880 | [46880-wall-defender.json](./46880-wall-defender.json) |
 | Wall-E | 220129 | [220129-wall-e.json](./220129-wall-e.json) |
@@ -1172,6 +1173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waterpunk | 385852 | [385852-waterpunk.json](./385852-waterpunk.json) |
 | Waters & Fields Adventure Bundle | 271829 | [271829-waters-and-fields-adventure-bundle.json](./271829-waters-and-fields-adventure-bundle.json) |
 | Waters of Ragnarok | 403653 | [403653-waters-of-ragnarok.json](./403653-waters-of-ragnarok.json) |
+| Watership Down | 398498 | [398498-watership-down.json](./398498-watership-down.json) |
 | Watertight | 355567 | [355567-watertight.json](./355567-watertight.json) |
 | Waterworld | 338817 | [338817-waterworld.json](./338817-waterworld.json) |
 | Watson's Watch | 33477 | [33477-watsons-watch.json](./33477-watsons-watch.json) |
@@ -2144,6 +2146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Album 2: Shiawase no Mukougawa | 79871 | [79871-white-album-2-shiawase-no-mukougawa.json](./79871-white-album-2-shiawase-no-mukougawa.json) |
 | White Album: Memories Like Falling Snow | 79870 | [79870-white-album-memories-like-falling-snow.json](./79870-white-album-memories-like-falling-snow.json) |
 | White Blade | 252229 | [252229-white-blade.json](./252229-white-blade.json) |
+| White Camellia | 398510 | [398510-white-camellia.json](./398510-white-camellia.json) |
 | White Cat Stories | 346230 | [346230-white-cat-stories.json](./346230-white-cat-stories.json) |
 | White Cat Town Mystery | 287704 | [287704-white-cat-town-mystery.json](./287704-white-cat-town-mystery.json) |
 | White Chamber | 247598 | [247598-white-chamber.json](./247598-white-chamber.json) |
