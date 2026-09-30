@@ -2507,6 +2507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Up Frog | 401521 | [401521-go-up-frog.json](./401521-go-up-frog.json) |
 | Go Up! | 255666 | [255666-go-up.json](./255666-go-up.json) |
 | Go West | 133998 | [133998-go-west.json](./133998-go-west.json) |
+| Go West Together | 413863 | [413863-go-west-together.json](./413863-go-west-together.json) |
 | Go West! A Lucky Luke Adventure | 110321 | [110321-go-west-a-lucky-luke-adventure.json](./110321-go-west-a-lucky-luke-adventure.json) |
 | Go West! A Lucky Luke Adventure | 345551 | [345551-go-west-a-lucky-luke-adventure.json](./345551-go-west-a-lucky-luke-adventure.json) |
 | Go with the Flow | 192165 | [192165-go-with-the-flow.json](./192165-go-with-the-flow.json) |
