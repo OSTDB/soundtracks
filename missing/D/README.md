@@ -635,9 +635,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark City Trouble Nights | 266817 | [266817-dark-city-trouble-nights.json](./266817-dark-city-trouble-nights.json) |
 | Dark City: Amsterdam Collector's Edition | 337180 | [337180-dark-city-amsterdam-collectors-edition.json](./337180-dark-city-amsterdam-collectors-edition.json) |
 | Dark City: Barcelona Collector's Edition | 362832 | [362832-dark-city-barcelona-collectors-edition.json](./362832-dark-city-barcelona-collectors-edition.json) |
+| Dark City: Budapest | 397157 | [397157-dark-city-budapest.json](./397157-dark-city-budapest.json) |
+| Dark City: Budapest - Collector's Edition | 397158 | [397158-dark-city-budapest-collectors-edition.json](./397158-dark-city-budapest-collectors-edition.json) |
 | Dark City: International Intrigue | 244198 | [244198-dark-city-international-intrigue.json](./244198-dark-city-international-intrigue.json) |
+| Dark City: Kyiv | 397180 | [397180-dark-city-kyiv.json](./397180-dark-city-kyiv.json) |
 | Dark City: London | 376568 | [376568-dark-city-london.json](./376568-dark-city-london.json) |
 | Dark City: Munich - Collector's Edition | 376578 | [376578-dark-city-munich-collectors-edition.json](./376578-dark-city-munich-collectors-edition.json) |
+| Dark City: Paris | 397179 | [397179-dark-city-paris.json](./397179-dark-city-paris.json) |
 | Dark City: Paris Collector's Edition | 190743 | [190743-dark-city-paris-collectors-edition.json](./190743-dark-city-paris-collectors-edition.json) |
 | Dark Colors | 190235 | [190235-dark-colors.json](./190235-dark-colors.json) |
 | Dark Communion | 314283 | [314283-dark-communion.json](./314283-dark-communion.json) |
@@ -1166,6 +1170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date or Die | 56508 | [56508-date-or-die.json](./56508-date-or-die.json) |
 | Date Plus | 358498 | [358498-date-plus.json](./358498-date-plus.json) |
 | Date Senbei | 412450 | [412450-date-senbei.json](./412450-date-senbei.json) |
+| Date Teacher | 397193 | [397193-date-teacher.json](./397193-date-teacher.json) |
 | Date the Difference | 392299 | [392299-date-the-difference.json](./392299-date-the-difference.json) |
 | Date Us, You Won't | 215229 | [215229-date-us-you-wont.json](./215229-date-us-you-wont.json) |
 | Date Warp | 17400 | [17400-date-warp.json](./17400-date-warp.json) |
@@ -5232,6 +5237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Does It Stack?: Full Stack Edition | 278672 | [278672-does-it-stack-full-stack-edition.json](./278672-does-it-stack-full-stack-edition.json) |
 | Does Money Grow on Trees | 184999 | [184999-does-money-grow-on-trees.json](./184999-does-money-grow-on-trees.json) |
 | Does The Moon Dream | 363054 | [363054-does-the-moon-dream.json](./363054-does-the-moon-dream.json) |
+| Dofbox | 397178 | [397178-dofbox.json](./397178-dofbox.json) |
 | Dofus Émeraude | 110307 | [110307-dofus-emeraude.json](./110307-dofus-emeraude.json) |
 | Dofus Pets | 56165 | [56165-dofus-pets.json](./56165-dofus-pets.json) |
 | Dofus Pogo | 112339 | [112339-dofus-pogo.json](./112339-dofus-pogo.json) |
