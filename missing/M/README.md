@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M&M's Beach Party | 50703 | [50703-m-and-ms-beach-party.json](./50703-m-and-ms-beach-party.json) |
 | M&M's Blast! | 49330 | [49330-m-and-ms-blast.json](./49330-m-and-ms-blast.json) |
 | M&M's Minis Madness | 49918 | [49918-m-and-ms-minis-madness.json](./49918-m-and-ms-minis-madness.json) |
+| M&M's Shell Shocked | 44749 | [44749-m-and-ms-shell-shocked.json](./44749-m-and-ms-shell-shocked.json) |
 | M&M's: The Lost Formulas | 79613 | [79613-m-and-ms-the-lost-formulas.json](./79613-m-and-ms-the-lost-formulas.json) |
 | M00m World | 323761 | [323761-m00m-world.json](./323761-m00m-world.json) |
 | M1 Tank Platoon | 12673 | [12673-m1-tank-platoon.json](./12673-m1-tank-platoon.json) |
@@ -4671,6 +4672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mickey Mouse IV: Mahou no Labyrinth | 153451 | [153451-mickey-mouse-iv-mahou-no-labyrinth.json](./153451-mickey-mouse-iv-mahou-no-labyrinth.json) |
 | Mickey Mouse Murder House | 199064 | [199064-mickey-mouse-murder-house.json](./199064-mickey-mouse-murder-house.json) |
 | Mickey Mouse: Magic Wands! | 48990 | [48990-mickey-mouse-magic-wands.json](./48990-mickey-mouse-magic-wands.json) |
+| Mickey no Tokyo Disneyland Daibouken | 42543 | [42543-mickey-no-tokyo-disneyland-daibouken.json](./42543-mickey-no-tokyo-disneyland-daibouken.json) |
 | Mickey to Ooki na Furudokei | 299463 | [299463-mickey-to-ooki-na-furudokei.json](./299463-mickey-to-ooki-na-furudokei.json) |
 | Mickey's 123's: The Big Surprise Party | 65768 | [65768-mickeys-123s-the-big-surprise-party.json](./65768-mickeys-123s-the-big-surprise-party.json) |
 | Mickey's Adventure in Numberland | 18102 | [18102-mickeys-adventure-in-numberland.json](./18102-mickeys-adventure-in-numberland.json) |
@@ -5507,6 +5509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Pirates of the Caribbean Mash-up | 235328 | [235328-minecraft-pirates-of-the-caribbean-mash-up.json](./235328-minecraft-pirates-of-the-caribbean-mash-up.json) |
 | Minecraft: Plastic Texture Pack | 255347 | [255347-minecraft-plastic-texture-pack.json](./255347-minecraft-plastic-texture-pack.json) |
 | Minecraft: PlayStation 4 Edition | 93620 | [93620-minecraft-playstation-4-edition.json](./93620-minecraft-playstation-4-edition.json) |
+| Minecraft: Playstation Vita Edition | 42696 | [42696-minecraft-playstation-vita-edition.json](./42696-minecraft-playstation-vita-edition.json) |
 | Minecraft: Power Grid Hero | 315516 | [315516-minecraft-power-grid-hero.json](./315516-minecraft-power-grid-hero.json) |
 | Minecraft: Quantum Realm | 333582 | [333582-minecraft-quantum-realm.json](./333582-minecraft-quantum-realm.json) |
 | Minecraft: Skin Pack 3 - Classic | 316749 | [316749-minecraft-skin-pack-3-classic.json](./316749-minecraft-skin-pack-3-classic.json) |
@@ -8987,6 +8990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Dinner with André | 227785 | [227785-my-dinner-with-andre.json](./227785-my-dinner-with-andre.json) |
 | My Dino | 111888 | [111888-my-dino.json](./111888-my-dino.json) |
 | My Direct Damag 7 Trillion | 318422 | [318422-my-direct-damag-7-trillion.json](./318422-my-direct-damag-7-trillion.json) |
+| My Disney Kitchen | 44764 | [44764-my-disney-kitchen.json](./44764-my-disney-kitchen.json) |
 | My DIY Slime PlayTime | 106732 | [106732-my-diy-slime-playtime.json](./106732-my-diy-slime-playtime.json) |
 | My Dog! | 310018 | [310018-my-dog.json](./310018-my-dog.json) |
 | My DoItAll | 92625 | [92625-my-doitall.json](./92625-my-doitall.json) |
