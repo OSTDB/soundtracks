@@ -631,6 +631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic School Bus Whales and Dolphins | 71579 | [71579-magic-school-bus-whales-and-dolphins.json](./71579-magic-school-bus-whales-and-dolphins.json) |
 | Magic Scroll | 278543 | [278543-magic-scroll.json](./278543-magic-scroll.json) |
 | Magic Sheep | 380397 | [380397-magic-sheep.json](./380397-magic-sheep.json) |
+| Magic Shop Simulator | 417603 | [417603-magic-shop-simulator.json](./417603-magic-shop-simulator.json) |
 | Magic Shot | 18235 | [18235-magic-shot.json](./18235-magic-shot.json) |
 | Magic Siege | 75783 | [75783-magic-siege.json](./75783-magic-siege.json) |
 | Magic Snake II | 71517 | [71517-magic-snake-ii.json](./71517-magic-snake-ii.json) |
@@ -2574,6 +2575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match War | 258710 | [258710-match-war.json](./258710-match-war.json) |
 | Match-o-3000 | 336722 | [336722-match-o-3000.json](./336722-match-o-3000.json) |
 | Match-Off | 182854 | [182854-match-off.json](./182854-match-off.json) |
+| Match: Isekai Journey | 417613 | [417613-match-isekai-journey.json](./417613-match-isekai-journey.json) |
 | Matcha | 211159 | [211159-matcha.json](./211159-matcha.json) |
 | Matchblocks | 74741 | [74741-matchblocks.json](./74741-matchblocks.json) |
 | Matchbox Missions: Air, Land and Sea Rescue / Emergency Response | 137696 | [137696-matchbox-missions-air-land-and-sea-rescue-emergency-response.json](./137696-matchbox-missions-air-land-and-sea-rescue-emergency-response.json) |
@@ -2855,6 +2857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayhem 2018: Purple Edition | 269130 | [269130-mayhem-2018-purple-edition.json](./269130-mayhem-2018-purple-edition.json) |
 | Mayhem 2019: Blood for the Doom God! | 269132 | [269132-mayhem-2019-blood-for-the-doom-god.json](./269132-mayhem-2019-blood-for-the-doom-god.json) |
 | Mayhem 2048 | 269125 | [269125-mayhem-2048.json](./269125-mayhem-2048.json) |
+| Mayhem À La Carte | 417462 | [417462-mayhem-a-la-carte.json](./417462-mayhem-a-la-carte.json) |
 | Mayhem Above | 55502 | [55502-mayhem-above.json](./55502-mayhem-above.json) |
 | Mayhem Fortress | 224575 | [224575-mayhem-fortress.json](./224575-mayhem-fortress.json) |
 | Mayhem in Monsterland | 18550 | [18550-mayhem-in-monsterland.json](./18550-mayhem-in-monsterland.json) |
@@ -5890,6 +5893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mining Mechs: Camel Chaos | 340578 | [340578-mining-mechs-camel-chaos.json](./340578-mining-mechs-camel-chaos.json) |
 | Mining Mechs: Magnetic Mystery | 278988 | [278988-mining-mechs-magnetic-mystery.json](./278988-mining-mechs-magnetic-mystery.json) |
 | Mining Merchant | 364518 | [364518-mining-merchant.json](./364518-mining-merchant.json) |
+| Mining Rail Adventure | 417438 | [417438-mining-rail-adventure.json](./417438-mining-rail-adventure.json) |
 | Mining Simulator | 241512 | [241512-mining-simulator.json](./241512-mining-simulator.json) |
 | Mining Wizards | 379861 | [379861-mining-wizards.json](./379861-mining-wizards.json) |
 | Minion Masters + Mordar's Malediction DLC | 173163 | [173163-minion-masters-mordars-malediction-dlc.json](./173163-minion-masters-mordars-malediction-dlc.json) |
@@ -6102,6 +6106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misdecayed | 375847 | [375847-misdecayed.json](./375847-misdecayed.json) |
 | Misdie: Into the Game | 351238 | [351238-misdie-into-the-game.json](./351238-misdie-into-the-game.json) |
 | Misericorde Volume Two: White Wool and Snow | 305383 | [305383-misericorde-volume-two-white-wool-and-snow.json](./305383-misericorde-volume-two-white-wool-and-snow.json) |
+| Misery Dungeon | 417471 | [417471-misery-dungeon.json](./417471-misery-dungeon.json) |
 | Misfit | 108062 | [108062-misfit.json](./108062-misfit.json) |
 | Misfits | 296984 | [296984-misfits.json](./296984-misfits.json) |
 | Misfolded | 109579 | [109579-misfolded.json](./109579-misfolded.json) |
