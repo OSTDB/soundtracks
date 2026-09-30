@@ -1865,6 +1865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Festival Tycoon: Water for All! | 226701 | [226701-festival-tycoon-water-for-all.json](./226701-festival-tycoon-water-for-all.json) |
 | Festive Themed Santa Killer Simulator | 408120 | [408120-festive-themed-santa-killer-simulator.json](./408120-festive-themed-santa-killer-simulator.json) |
 | Fetch | 381016 | [381016-fetch.json](./381016-fetch.json) |
+| Fetch & Match | 395168 | [395168-fetch-and-match.json](./395168-fetch-and-match.json) |
 | Fetch Quest | 140552 | [140552-fetch-quest.json](./140552-fetch-quest.json) |
 | Fetch Quest | 179617 | [179617-fetch-quest.json](./179617-fetch-quest.json) |
 | Fetish Club | 298320 | [298320-fetish-club.json](./298320-fetish-club.json) |
@@ -2064,6 +2065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fifth Element II Hikari to Yami no Ouji | 58742 | [58742-fifth-element-ii-hikari-to-yami-no-ouji.json](./58742-fifth-element-ii-hikari-to-yami-no-ouji.json) |
 | Fifth Element Tamashii no Genso | 58743 | [58743-fifth-element-tamashii-no-genso.json](./58743-fifth-element-tamashii-no-genso.json) |
 | Fifth Era: Fragments of the Holy Stone | 162414 | [162414-fifth-era-fragments-of-the-holy-stone.json](./162414-fifth-era-fragments-of-the-holy-stone.json) |
+| Fig: The Game for Depression | 395113 | [395113-fig-the-game-for-depression.json](./395113-fig-the-game-for-depression.json) |
 | Fight | 147425 | [147425-fight.json](./147425-fight.json) |
 | Fight | 150650 | [150650-fight.json](./150650-fight.json) |
 | Fight | 330366 | [330366-fight.json](./330366-fight.json) |
@@ -4986,6 +4988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foundland City Builders | 390124 | [390124-foundland-city-builders.json](./390124-foundland-city-builders.json) |
 | Foundlings | 350439 | [350439-foundlings.json](./350439-foundlings.json) |
 | Foundry | 139150 | [139150-foundry.json](./139150-foundry.json) |
+| Fountain | 395120 | [395120-fountain.json](./395120-fountain.json) |
 | Fountain of Dreams | 73799 | [73799-fountain-of-dreams.json](./73799-fountain-of-dreams.json) |
 | Fountains: Shattered Shape | 414457 | [414457-fountains-shattered-shape.json](./414457-fountains-shattered-shape.json) |
 | Four | 37306 | [37306-four.json](./37306-four.json) |
