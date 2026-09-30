@@ -439,6 +439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoshinoya | 43426 | [43426-yoshinoya.json](./43426-yoshinoya.json) |
 | Yoshiwara | 328615 | [328615-yoshiwara.json](./328615-yoshiwara.json) |
 | Yoshiwara Higanbana: Kuon no Chigiri | 110335 | [110335-yoshiwara-higanbana-kuon-no-chigiri.json](./110335-yoshiwara-higanbana-kuon-no-chigiri.json) |
+| Yosumin! | 9309 | [9309-yosumin.json](./9309-yosumin.json) |
 | Yots | 408062 | [408062-yots.json](./408062-yots.json) |
 | Yotsunoha ~A Journey of Sincerity~ | 140528 | [140528-yotsunoha-a-journey-of-sincerity.json](./140528-yotsunoha-a-journey-of-sincerity.json) |
 | You | 372568 | [372568-you.json](./372568-you.json) |
