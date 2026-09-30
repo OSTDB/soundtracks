@@ -522,6 +522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panda Man | 115600 | [115600-panda-man.json](./115600-panda-man.json) |
 | Panda Pai Gow Poker | 209403 | [209403-panda-pai-gow-poker.json](./209403-panda-pai-gow-poker.json) |
 | Panda penguin care salon | 88424 | [88424-panda-penguin-care-salon.json](./88424-panda-penguin-care-salon.json) |
+| Panda Pop: Bubble Shooter | 87039 | [87039-panda-pop-bubble-shooter.json](./87039-panda-pop-bubble-shooter.json) |
 | Panda Prince | 48891 | [48891-panda-prince.json](./48891-panda-prince.json) |
 | Panda Push | 162868 | [162868-panda-push.json](./162868-panda-push.json) |
 | Panda vs Lightning | 98796 | [98796-panda-vs-lightning.json](./98796-panda-vs-lightning.json) |
@@ -722,6 +723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Pancakeria HD | 88891 | [88891-papas-pancakeria-hd.json](./88891-papas-pancakeria-hd.json) |
 | Papa's Pastaria | 210501 | [210501-papas-pastaria.json](./210501-papas-pastaria.json) |
 | Papa's Pizzeria to Go! | 96296 | [96296-papas-pizzeria-to-go.json](./96296-papas-pizzeria-to-go.json) |
+| Papa's Taco Mia HD | 87027 | [87027-papas-taco-mia-hd.json](./87027-papas-taco-mia-hd.json) |
 | Papair | 57148 | [57148-papair.json](./57148-papair.json) |
 | Papao: The Legend of the Bogeyman | 372544 | [372544-papao-the-legend-of-the-bogeyman.json](./372544-papao-the-legend-of-the-bogeyman.json) |
 | Paparazzi | 379586 | [379586-paparazzi.json](./379586-paparazzi.json) |
@@ -3639,6 +3641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Adventure: Exploration | 96005 | [96005-pixel-adventure-exploration.json](./96005-pixel-adventure-exploration.json) |
 | Pixel Art Academy: Learn Mode | 270752 | [270752-pixel-art-academy-learn-mode.json](./270752-pixel-art-academy-learn-mode.json) |
 | Pixel Art Bundle Vol. 1 | 132864 | [132864-pixel-art-bundle-vol-1.json](./132864-pixel-art-bundle-vol-1.json) |
+| Pixel Art: Color by Number | 87040 | [87040-pixel-art-color-by-number.json](./87040-pixel-art-color-by-number.json) |
 | Pixel Artist | 220876 | [220876-pixel-artist.json](./220876-pixel-artist.json) |
 | Pixel Battle Royale | 113686 | [113686-pixel-battle-royale.json](./113686-pixel-battle-royale.json) |
 | Pixel Blitz - Impossible Runner | 86913 | [86913-pixel-blitz-impossible-runner.json](./86913-pixel-blitz-impossible-runner.json) |
@@ -5526,6 +5529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pony Doctor | 101973 | [101973-pony-doctor.json](./101973-pony-doctor.json) |
 | Pony Friends | 47974 | [47974-pony-friends.json](./47974-pony-friends.json) |
 | Pony Friends: Mini Breeds Edition | 68937 | [68937-pony-friends-mini-breeds-edition.json](./68937-pony-friends-mini-breeds-edition.json) |
+| Pony island - cute paradise village | 87078 | [87078-pony-island-cute-paradise-village.json](./87078-pony-island-cute-paradise-village.json) |
 | Pony Island 2: Panda Circus | 279613 | [279613-pony-island-2-panda-circus.json](./279613-pony-island-2-panda-circus.json) |
 | Pony Luv | 72968 | [72968-pony-luv.json](./72968-pony-luv.json) |
 | Pony Metal U-Gaim | 261298 | [261298-pony-metal-u-gaim.json](./261298-pony-metal-u-gaim.json) |
@@ -6336,6 +6340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretend Dead Friend | 271308 | [271308-pretend-dead-friend.json](./271308-pretend-dead-friend.json) |
 | Pretend it's not There | 324689 | [324689-pretend-its-not-there.json](./324689-pretend-its-not-there.json) |
 | Pretty Angel | 127092 | [127092-pretty-angel.json](./127092-pretty-angel.json) |
+| Pretty Ballerina Dancer | 87015 | [87015-pretty-ballerina-dancer.json](./87015-pretty-ballerina-dancer.json) |
 | Pretty Bird 2 | 216309 | [216309-pretty-bird-2.json](./216309-pretty-bird-2.json) |
 | Pretty Bird 3 | 217810 | [217810-pretty-bird-3.json](./217810-pretty-bird-3.json) |
 | Pretty Bird 4 | 217811 | [217811-pretty-bird-4.json](./217811-pretty-bird-4.json) |
