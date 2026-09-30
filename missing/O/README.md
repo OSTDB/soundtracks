@@ -476,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Official AFL: The Interactive DVD Trivia Game - Sydney Swans Super Quiz | 275586 | [275586-official-afl-the-interactive-dvd-trivia-game-sydney-swans-super-quiz.json](./275586-official-afl-the-interactive-dvd-trivia-game-sydney-swans-super-quiz.json) |
 | Official AFL: The Interactive DVD Trivia Game - West Coast Eagles Super Quiz | 275587 | [275587-official-afl-the-interactive-dvd-trivia-game-west-coast-eagles-super-quiz.json](./275587-official-afl-the-interactive-dvd-trivia-game-west-coast-eagles-super-quiz.json) |
 | Offline | 216977 | [216977-offline.json](./216977-offline.json) |
+| Offline | 390174 | [390174-offline.json](./390174-offline.json) |
 | Offline Games | 330924 | [330924-offline-games.json](./330924-offline-games.json) |
 | Offline Games | 336389 | [336389-offline-games.json](./336389-offline-games.json) |
 | OffRoad | 85839 | [85839-offroad.json](./85839-offroad.json) |
@@ -885,6 +886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OmOchim | 415098 | [415098-omochim.json](./415098-omochim.json) |
 | Omoi o Sasageru Otome no Melody | 82496 | [82496-omoi-o-sasageru-otome-no-melody.json](./82496-omoi-o-sasageru-otome-no-melody.json) |
 | Omoi o Sasageru Otome no Melody: Afureru Omoi o Shirabe ni Nosete | 82494 | [82494-omoi-o-sasageru-otome-no-melody-afureru-omoi-o-shirabe-ni-nosete.json](./82494-omoi-o-sasageru-otome-no-melody-afureru-omoi-o-shirabe-ni-nosete.json) |
+| Omoide Cafe | 390202 | [390202-omoide-cafe.json](./390202-omoide-cafe.json) |
 | Omoide ni Kawaru Kimi: Memories Off | 288773 | [288773-omoide-ni-kawaru-kimi-memories-off.json](./288773-omoide-ni-kawaru-kimi-memories-off.json) |
 | Omoikkiri Tanteidan Haado-gumi: Matenrou no Chousenjou | 41336 | [41336-omoikkiri-tanteidan-haado-gumi-matenrou-no-chousenjou.json](./41336-omoikkiri-tanteidan-haado-gumi-matenrou-no-chousenjou.json) |
 | Omoiyari wo Hagukumu Katarikake Ehon: Miffy to Asobou Utaou | 327627 | [327627-omoiyari-wo-hagukumu-katarikake-ehon-miffy-to-asobou-utaou.json](./327627-omoiyari-wo-hagukumu-katarikake-ehon-miffy-to-asobou-utaou.json) |
@@ -2041,6 +2043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orqa FPV SkyDive | 196854 | [196854-orqa-fpv-skydive.json](./196854-orqa-fpv-skydive.json) |
 | Orrb | 188916 | [188916-orrb.json](./188916-orrb.json) |
 | Orrery | 317811 | [317811-orrery.json](./317811-orrery.json) |
+| Orso | 390200 | [390200-orso.json](./390200-orso.json) |
 | Ortharion: The Last Battle | 193444 | [193444-ortharion-the-last-battle.json](./193444-ortharion-the-last-battle.json) |
 | Ortheo | 163197 | [163197-ortheo.json](./163197-ortheo.json) |
 | Ortheo Voyage | 289457 | [289457-ortheo-voyage.json](./289457-ortheo-voyage.json) |
