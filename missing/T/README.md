@@ -319,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taikou Risshiden | 37798 | [37798-taikou-risshiden.json](./37798-taikou-risshiden.json) |
 | Taikou Risshiden IV | 59364 | [59364-taikou-risshiden-iv.json](./59364-taikou-risshiden-iv.json) |
 | Taikou Risshiden V | 172698 | [172698-taikou-risshiden-v.json](./172698-taikou-risshiden-v.json) |
+| Taikunda | 401731 | [401731-taikunda.json](./401731-taikunda.json) |
 | Taikyoku Igo: Goliath | 37797 | [37797-taikyoku-igo-goliath.json](./37797-taikyoku-igo-goliath.json) |
 | Taikyoku Igo: Idaten | 37796 | [37796-taikyoku-igo-idaten.json](./37796-taikyoku-igo-idaten.json) |
 | Tail 'Gator | 49063 | [49063-tail-gator.json](./49063-tail-gator.json) |
@@ -3516,12 +3517,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Coma 3: Bloodlines - Autumn Girl Skin | 401675 | [401675-the-coma-3-bloodlines-autumn-girl-skin.json](./401675-the-coma-3-bloodlines-autumn-girl-skin.json) |
 | The Coma 3: Bloodlines - Daughter of a Millionaire Skin | 401671 | [401671-the-coma-3-bloodlines-daughter-of-a-millionaire-skin.json](./401671-the-coma-3-bloodlines-daughter-of-a-millionaire-skin.json) |
 | The Coma 3: Bloodlines - Deluxe Edition | 401674 | [401674-the-coma-3-bloodlines-deluxe-edition.json](./401674-the-coma-3-bloodlines-deluxe-edition.json) |
+| The Coma 3: Bloodlines - Ghost Agent No. 3 Skin | 401734 | [401734-the-coma-3-bloodlines-ghost-agent-no-3-skin.json](./401734-the-coma-3-bloodlines-ghost-agent-no-3-skin.json) |
 | The Coma 3: Bloodlines - Overaction Skin | 401670 | [401670-the-coma-3-bloodlines-overaction-skin.json](./401670-the-coma-3-bloodlines-overaction-skin.json) |
 | The Coma 3: Bloodlines - Overly Attractive Teacher Skin | 401681 | [401681-the-coma-3-bloodlines-overly-attractive-teacher-skin.json](./401681-the-coma-3-bloodlines-overly-attractive-teacher-skin.json) |
 | The Coma: Back to School Bundle | 154967 | [154967-the-coma-back-to-school-bundle.json](./154967-the-coma-back-to-school-bundle.json) |
 | The Coma: Double Cut | 136930 | [136930-the-coma-double-cut.json](./136930-the-coma-double-cut.json) |
 | The Coma: Recut | 51385 | [51385-the-coma-recut.json](./51385-the-coma-recut.json) |
 | The Coma: Recut - Limited Edition | 166241 | [166241-the-coma-recut-limited-edition.json](./166241-the-coma-recut-limited-edition.json) |
+| The Coma: Sehwa Complete Edition | 401735 | [401735-the-coma-sehwa-complete-edition.json](./401735-the-coma-sehwa-complete-edition.json) |
 | The Coma: Triple Threat Bundle | 338010 | [338010-the-coma-triple-threat-bundle.json](./338010-the-coma-triple-threat-bundle.json) |
 | The Combatribes | 337198 | [337198-the-combatribes.json](./337198-the-combatribes.json) |
 | The Comedian Adventure | 266884 | [266884-the-comedian-adventure.json](./266884-the-comedian-adventure.json) |
@@ -7297,12 +7300,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Restricted Archive | 273870 | [273870-the-restricted-archive.json](./273870-the-restricted-archive.json) |
 | The Restricted Index | 398539 | [398539-the-restricted-index.json](./398539-the-restricted-index.json) |
 | The Resurrected | 366314 | [366314-the-resurrected.json](./366314-the-resurrected.json) |
+| The Retro Exorcist | 401710 | [401710-the-retro-exorcist.json](./401710-the-retro-exorcist.json) |
 | The Return Home | 32131 | [32131-the-return-home.json](./32131-the-return-home.json) |
 | The Return of Bantara | 334748 | [334748-the-return-of-bantara.json](./334748-the-return-of-bantara.json) |
 | The Return of Medusa | 14508 | [14508-the-return-of-medusa.json](./14508-the-return-of-medusa.json) |
 | The Return of the Heroes | 259561 | [259561-the-return-of-the-heroes.json](./259561-the-return-of-the-heroes.json) |
 | The Return of the Incredible Machine: Contraptions | 51401 | [51401-the-return-of-the-incredible-machine-contraptions.json](./51401-the-return-of-the-incredible-machine-contraptions.json) |
 | The Return of the King | 287767 | [287767-the-return-of-the-king.json](./287767-the-return-of-the-king.json) |
+| The Return To Freddy's 2 | 401704 | [401704-the-return-to-freddys-2.json](./401704-the-return-to-freddys-2.json) |
 | The Return to Freddy's Classic | 272805 | [272805-the-return-to-freddys-classic.json](./272805-the-return-to-freddys-classic.json) |
 | The Return: Survival | 114771 | [114771-the-return-survival.json](./114771-the-return-survival.json) |
 | The Revanchist | 338722 | [338722-the-revanchist.json](./338722-the-revanchist.json) |
@@ -10935,6 +10940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timelie: Game of the Year Edition | 169192 | [169192-timelie-game-of-the-year-edition.json](./169192-timelie-game-of-the-year-edition.json) |
 | Timeline Traveler | 136401 | [136401-timeline-traveler.json](./136401-timeline-traveler.json) |
 | Timeline Traveler II: Dream | 170518 | [170518-timeline-traveler-ii-dream.json](./170518-timeline-traveler-ii-dream.json) |
+| TimelineTown | 401746 | [401746-timelinetown.json](./401746-timelinetown.json) |
 | TimeLock VR | 51516 | [51516-timelock-vr.json](./51516-timelock-vr.json) |
 | Timeloop | 308398 | [308398-timeloop.json](./308398-timeloop.json) |
 | Timeloop: Sink Again Beach | 224662 | [224662-timeloop-sink-again-beach.json](./224662-timeloop-sink-again-beach.json) |
