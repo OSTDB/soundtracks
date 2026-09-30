@@ -5396,6 +5396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Tower | 347712 | [347712-poly-tower.json](./347712-poly-tower.json) |
 | Poly Towns | 33588 | [33588-poly-towns.json](./33588-poly-towns.json) |
 | Poly Truck | 406181 | [406181-poly-truck.json](./406181-poly-truck.json) |
+| Poly Universe | 105010 | [105010-poly-universe.json](./105010-poly-universe.json) |
 | Poly World | 90129 | [90129-poly-world.json](./90129-poly-world.json) |
 | Poly-Net Warriors | 222907 | [222907-poly-net-warriors.json](./222907-poly-net-warriors.json) |
 | Polyamorous Relationships | 179048 | [179048-polyamorous-relationships.json](./179048-polyamorous-relationships.json) |
@@ -7998,6 +7999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pussy Puzzle: Over 9000 | 141661 | [141661-pussy-puzzle-over-9000.json](./141661-pussy-puzzle-over-9000.json) |
 | Pussy: Love Story from Titanic | 227822 | [227822-pussy-love-story-from-titanic.json](./227822-pussy-love-story-from-titanic.json) |
 | Puszka Pandory | 93586 | [93586-puszka-pandory.json](./93586-puszka-pandory.json) |
+| Put Anna | 105173 | [105173-put-anna.json](./105173-put-anna.json) |
 | Put In - Run Out | 119701 | [119701-put-in-run-out.json](./119701-put-in-run-out.json) |
 | Put Out the Fire | 366882 | [366882-put-out-the-fire.json](./366882-put-out-the-fire.json) |
 | Put the Fries in the Bag | 335692 | [335692-put-the-fries-in-the-bag.json](./335692-put-the-fries-in-the-bag.json) |
