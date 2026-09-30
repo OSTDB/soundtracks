@@ -618,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unavowed | 27867 | [27867-unavowed.json](./27867-unavowed.json) |
 | Unawake | 173247 | [173247-unawake.json](./173247-unawake.json) |
 | UNB | 335890 | [335890-unb.json](./335890-unb.json) |
+| Unbaitable | 417442 | [417442-unbaitable.json](./417442-unbaitable.json) |
 | Unbeatable | 144859 | [144859-unbeatable.json](./144859-unbeatable.json) |
 | Unbeatable: The Jamie Paige Content Companion | 408174 | [408174-unbeatable-the-jamie-paige-content-companion.json](./408174-unbeatable-the-jamie-paige-content-companion.json) |
 | Unbeknown | 59682 | [59682-unbeknown.json](./59682-unbeknown.json) |
