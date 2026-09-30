@@ -1509,6 +1509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Up With Doznik | 312569 | [312569-up-with-doznik.json](./312569-up-with-doznik.json) |
 | Upbeat | 390130 | [390130-upbeat.json](./390130-upbeat.json) |
 | Upbeat Melody Project | 386257 | [386257-upbeat-melody-project.json](./386257-upbeat-melody-project.json) |
+| Upcreek | 395156 | [395156-upcreek.json](./395156-upcreek.json) |
 | UPgrade | 124754 | [124754-upgrade.json](./124754-upgrade.json) |
 | Upgrade Complete | 196800 | [196800-upgrade-complete.json](./196800-upgrade-complete.json) |
 | Upgrade Complete 2 | 196801 | [196801-upgrade-complete-2.json](./196801-upgrade-complete-2.json) |
