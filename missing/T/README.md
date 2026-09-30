@@ -1954,6 +1954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Cup | 123005 | [123005-tennis-cup.json](./123005-tennis-cup.json) |
 | Tennis Elbow | 197896 | [197896-tennis-elbow.json](./197896-tennis-elbow.json) |
 | Tennis Elbow 2013 | 35830 | [35830-tennis-elbow-2013.json](./35830-tennis-elbow-2013.json) |
+| Tennis Elbow Manager | 31291 | [31291-tennis-elbow-manager.json](./31291-tennis-elbow-manager.json) |
 | Tennis Elbow Manager 2 | 99576 | [99576-tennis-elbow-manager-2.json](./99576-tennis-elbow-manager-2.json) |
 | Tennis Esports | 280871 | [280871-tennis-esports.json](./280871-tennis-esports.json) |
 | Tennis Game in Roaring ’20s | 248064 | [248064-tennis-game-in-roaring-20s.json](./248064-tennis-game-in-roaring-20s.json) |
@@ -4311,6 +4312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fall: Act I | 318971 | [318971-the-fall-act-i.json](./318971-the-fall-act-i.json) |
 | The Fallen Angels | 39581 | [39581-the-fallen-angels.json](./39581-the-fallen-angels.json) |
 | The Fallen Crypt of the Judgement Concrete | 328031 | [328031-the-fallen-crypt-of-the-judgement-concrete.json](./328031-the-fallen-crypt-of-the-judgement-concrete.json) |
+| The Fallen Kingdom | 31990 | [31990-the-fallen-kingdom.json](./31990-the-fallen-kingdom.json) |
 | The Fallen Kingdom | 324298 | [324298-the-fallen-kingdom.json](./324298-the-fallen-kingdom.json) |
 | The Fallen Will | 386447 | [386447-the-fallen-will.json](./386447-the-fallen-will.json) |
 | The Falling Nights | 36481 | [36481-the-falling-nights.json](./36481-the-falling-nights.json) |
@@ -5678,6 +5680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Sigil | 88325 | [88325-the-last-sigil.json](./88325-the-last-sigil.json) |
 | The Last Sin | 44110 | [44110-the-last-sin.json](./44110-the-last-sin.json) |
 | The Last Sky | 127157 | [127157-the-last-sky.json](./127157-the-last-sky.json) |
+| The Last Sniper VR | 32050 | [32050-the-last-sniper-vr.json](./32050-the-last-sniper-vr.json) |
 | The Last Soldier | 109768 | [109768-the-last-soldier.json](./109768-the-last-soldier.json) |
 | The Last Son of Vorona | 367012 | [367012-the-last-son-of-vorona.json](./367012-the-last-son-of-vorona.json) |
 | The Last Sorcerer | 55479 | [55479-the-last-sorcerer.json](./55479-the-last-sorcerer.json) |
@@ -5978,6 +5981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Life and Times of Daniel Vastberaden | 368571 | [368571-the-life-and-times-of-daniel-vastberaden.json](./368571-the-life-and-times-of-daniel-vastberaden.json) |
 | The Life of a Pacifist is Often Fraught With Conflict | 65777 | [65777-the-life-of-a-pacifist-is-often-fraught-with-conflict.json](./65777-the-life-of-a-pacifist-is-often-fraught-with-conflict.json) |
 | The Life of Frederick Sommer | 148987 | [148987-the-life-of-frederick-sommer.json](./148987-the-life-of-frederick-sommer.json) |
+| The Life of Greather | 31998 | [31998-the-life-of-greather.json](./31998-the-life-of-greather.json) |
 | The Life of Me | 314662 | [314662-the-life-of-me.json](./314662-the-life-of-me.json) |
 | The Life of Saint Fiona Bianco Xena | 191748 | [191748-the-life-of-saint-fiona-bianco-xena.json](./191748-the-life-of-saint-fiona-bianco-xena.json) |
 | The Life Threads | 225261 | [225261-the-life-threads.json](./225261-the-life-threads.json) |
@@ -12288,6 +12292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Tuberz | 373074 | [373074-totally-tuberz.json](./373074-totally-tuberz.json) |
 | Totally Unbalanced | 32402 | [32402-totally-unbalanced.json](./32402-totally-unbalanced.json) |
 | Totally Working Game | 168130 | [168130-totally-working-game.json](./168130-totally-working-game.json) |
+| Totem | 32070 | [32070-totem.json](./32070-totem.json) |
 | Tôtem | 133974 | [133974-totem.json](./133974-totem.json) |
 | Totem City | 124017 | [124017-totem-city.json](./124017-totem-city.json) |
 | Totem Runner | 64391 | [64391-totem-runner.json](./64391-totem-runner.json) |
