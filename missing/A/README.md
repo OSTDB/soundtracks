@@ -17,6 +17,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Beauty Cold and Austere | 138140 | [138140-a-beauty-cold-and-austere.json](./138140-a-beauty-cold-and-austere.json) |
 | A Better World | 345591 | [345591-a-better-world.json](./345591-a-better-world.json) |
 | A Bewitching Revolution | 124258 | [124258-a-bewitching-revolution.json](./124258-a-bewitching-revolution.json) |
+| A Bibelot: Prototo | 314676 | [314676-a-bibelot-prototo.json](./314676-a-bibelot-prototo.json) |
+| A Bibelot: Y-Type | 324951 | [324951-a-bibelot-y-type.json](./324951-a-bibelot-y-type.json) |
 | A Bird's Tale | 207242 | [207242-a-birds-tale.json](./207242-a-birds-tale.json) |
 | A Bit of Tactics | 221112 | [221112-a-bit-of-tactics.json](./221112-a-bit-of-tactics.json) |
 | A Blocky Kind of Love | 234012 | [234012-a-blocky-kind-of-love.json](./234012-a-blocky-kind-of-love.json) |
@@ -257,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Little to the Left Seeing Stars DLC Bundle | 312110 | [312110-a-little-to-the-left-seeing-stars-dlc-bundle.json](./312110-a-little-to-the-left-seeing-stars-dlc-bundle.json) |
 | A Little to the Left: Deep Clean | 264334 | [264334-a-little-to-the-left-deep-clean.json](./264334-a-little-to-the-left-deep-clean.json) |
 | A Little to the Left: Seeing Stars | 305034 | [305034-a-little-to-the-left-seeing-stars.json](./305034-a-little-to-the-left-seeing-stars.json) |
+| A Little Walk in the Woods | 274734 | [274734-a-little-walk-in-the-woods.json](./274734-a-little-walk-in-the-woods.json) |
 | A Lively Haunt | 265099 | [265099-a-lively-haunt.json](./265099-a-lively-haunt.json) |
 | A Living Room | 293082 | [293082-a-living-room.json](./293082-a-living-room.json) |
 | A Lonely Cabin Trip | 237065 | [237065-a-lonely-cabin-trip.json](./237065-a-lonely-cabin-trip.json) |
