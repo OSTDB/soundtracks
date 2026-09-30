@@ -5307,6 +5307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotolla | 21021 | [21021-rotolla.json](./21021-rotolla.json) |
 | Rotor | 13255 | [13255-rotor.json](./13255-rotor.json) |
 | Rotor | 144254 | [144254-rotor.json](./144254-rotor.json) |
+| Rotor Rescue Choplifter | 413851 | [413851-rotor-rescue-choplifter.json](./413851-rotor-rescue-choplifter.json) |
 | Rotorize | 92084 | [92084-rotorize.json](./92084-rotorize.json) |
 | RotorScape | 311495 | [311495-rotorscape.json](./311495-rotorscape.json) |
 | Rotorsim: Helicopter Simulator | 348878 | [348878-rotorsim-helicopter-simulator.json](./348878-rotorsim-helicopter-simulator.json) |
