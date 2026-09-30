@@ -111,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QuadcopterFx Simulator | 89707 | [89707-quadcopterfx-simulator.json](./89707-quadcopterfx-simulator.json) |
 | Quadice | 234298 | [234298-quadice.json](./234298-quadice.json) |
 | Quadoban | 200027 | [200027-quadoban.json](./200027-quadoban.json) |
+| Quadra | 407504 | [407504-quadra.json](./407504-quadra.json) |
 | Quadrablaze | 68710 | [68710-quadrablaze.json](./68710-quadrablaze.json) |
 | QuadraDigger | 59952 | [59952-quadradigger.json](./59952-quadradigger.json) |
 | Quadradius | 29040 | [29040-quadradius.json](./29040-quadradius.json) |
@@ -216,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Covenant | 113718 | [113718-quantum-covenant.json](./113718-quantum-covenant.json) |
 | Quantum Derail | 182939 | [182939-quantum-derail.json](./182939-quantum-derail.json) |
 | Quantum Drive | 278395 | [278395-quantum-drive.json](./278395-quantum-drive.json) |
+| Quantum Era | 407392 | [407392-quantum-era.json](./407392-quantum-era.json) |
 | Quantum Error | 132226 | [132226-quantum-error.json](./132226-quantum-error.json) |
 | Quantum Eye | 391737 | [391737-quantum-eye.json](./391737-quantum-eye.json) |
 | Quantum Flux | 34608 | [34608-quantum-flux.json](./34608-quantum-flux.json) |
