@@ -4333,6 +4333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disastles Online | 398593 | [398593-disastles-online.json](./398593-disastles-online.json) |
 | Disbelief | 354417 | [354417-disbelief.json](./354417-disbelief.json) |
 | Disc | 365671 | [365671-disc.json](./365671-disc.json) |
+| Disc Creatures | 117532 | [117532-disc-creatures.json](./117532-disc-creatures.json) |
 | Disc Dimension | 278153 | [278153-disc-dimension.json](./278153-disc-dimension.json) |
 | Disc Golf 3D | 89808 | [89808-disc-golf-3d.json](./89808-disc-golf-3d.json) |
 | Disc Golf Adventure 2 VR | 148481 | [148481-disc-golf-adventure-2-vr.json](./148481-disc-golf-adventure-2-vr.json) |
@@ -5819,6 +5820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomsday on Demand 2 | 104036 | [104036-doomsday-on-demand-2.json](./104036-doomsday-on-demand-2.json) |
 | Doomsday Overture | 280237 | [280237-doomsday-overture.json](./280237-doomsday-overture.json) |
 | Doomsday Robot Girl | 189974 | [189974-doomsday-robot-girl.json](./189974-doomsday-robot-girl.json) |
+| Doomsday Vault | 117012 | [117012-doomsday-vault.json](./117012-doomsday-vault.json) |
 | Doomsday Warrior | 42599 | [42599-doomsday-warrior.json](./42599-doomsday-warrior.json) |
 | Doomtrooper CCG | 71196 | [71196-doomtrooper-ccg.json](./71196-doomtrooper-ccg.json) |
 | DoomWall | 323830 | [323830-doomwall.json](./323830-doomwall.json) |
@@ -6623,6 +6625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest Monsters 2: Iru and Luca's Marvelous Mysterious Key | 24854 | [24854-dragon-quest-monsters-2-iru-and-lucas-marvelous-mysterious-key.json](./24854-dragon-quest-monsters-2-iru-and-lucas-marvelous-mysterious-key.json) |
 | Dragon Quest Monsters: Joker | 17460 | [17460-dragon-quest-monsters-joker.json](./17460-dragon-quest-monsters-joker.json) |
 | Dragon Quest Monsters: Joker 2 | 21727 | [21727-dragon-quest-monsters-joker-2.json](./21727-dragon-quest-monsters-joker-2.json) |
+| Dragon Quest Monsters: Joker 2 Professional | 106012 | [106012-dragon-quest-monsters-joker-2-professional.json](./106012-dragon-quest-monsters-joker-2-professional.json) |
 | Dragon Quest Monsters: Joker 3 Professional | 79296 | [79296-dragon-quest-monsters-joker-3-professional.json](./79296-dragon-quest-monsters-joker-3-professional.json) |
 | Dragon Quest Monsters: Terry no Wonderland 3D | 80596 | [80596-dragon-quest-monsters-terry-no-wonderland-3d.json](./80596-dragon-quest-monsters-terry-no-wonderland-3d.json) |
 | Dragon Quest Monsters: Terry no Wonderland SP | 111757 | [111757-dragon-quest-monsters-terry-no-wonderland-sp.json](./111757-dragon-quest-monsters-terry-no-wonderland-sp.json) |
