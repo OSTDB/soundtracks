@@ -276,6 +276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Lost Note | 244748 | [244748-a-lost-note.json](./244748-a-lost-note.json) |
 | A Lost Room | 29058 | [29058-a-lost-room.json](./29058-a-lost-room.json) |
 | A Lounge Somewhere | 352388 | [352388-a-lounge-somewhere.json](./352388-a-lounge-somewhere.json) |
+| A Love Letter in Snowfall | 411049 | [411049-a-love-letter-in-snowfall.json](./411049-a-love-letter-in-snowfall.json) |
 | A Love Like Broken Glass | 410440 | [410440-a-love-like-broken-glass.json](./410440-a-love-like-broken-glass.json) |
 | A Love Story: My Best Friend | 334090 | [334090-a-love-story-my-best-friend.json](./334090-a-love-story-my-best-friend.json) |
 | A Loving Family | 297061 | [297061-a-loving-family.json](./297061-a-loving-family.json) |
@@ -827,6 +828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyssal Apocrypha | 413783 | [413783-abyssal-apocrypha.json](./413783-abyssal-apocrypha.json) |
 | Abyssal Drift | 372014 | [372014-abyssal-drift.json](./372014-abyssal-drift.json) |
 | Abyssal Frontier | 283875 | [283875-abyssal-frontier.json](./283875-abyssal-frontier.json) |
+| Abyssal Lapidary | 411093 | [411093-abyssal-lapidary.json](./411093-abyssal-lapidary.json) |
 | Abyssal Maw | 372125 | [372125-abyssal-maw.json](./372125-abyssal-maw.json) |
 | Abyssal Shade | 337790 | [337790-abyssal-shade.json](./337790-abyssal-shade.json) |
 | Abyssal Survivors | 272360 | [272360-abyssal-survivors.json](./272360-abyssal-survivors.json) |
@@ -2642,6 +2644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Animals: Sandbox | 154463 | [154463-alien-animals-sandbox.json](./154463-alien-animals-sandbox.json) |
 | Alien Apocalypse | 390010 | [390010-alien-apocalypse.json](./390010-alien-apocalypse.json) |
 | Alien Arcade | 206106 | [206106-alien-arcade.json](./206106-alien-arcade.json) |
+| Alien Archeologist | 411075 | [411075-alien-archeologist.json](./411075-alien-archeologist.json) |
 | Alien Arena: Warriors of Mars | 51937 | [51937-alien-arena-warriors-of-mars.json](./51937-alien-arena-warriors-of-mars.json) |
 | Alien Assault | 66623 | [66623-alien-assault.json](./66623-alien-assault.json) |
 | Alien Attack | 313465 | [313465-alien-attack.json](./313465-alien-attack.json) |
@@ -3767,6 +3770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Update is Pending | 129651 | [129651-an-update-is-pending.json](./129651-an-update-is-pending.json) |
 | Ana: The Game | 93718 | [93718-ana-the-game.json](./93718-ana-the-game.json) |
 | Ana'Adventure | 357430 | [357430-anaadventure.json](./357430-anaadventure.json) |
+| Ana's Auto Fellatio | 411061 | [411061-anas-auto-fellatio.json](./411061-anas-auto-fellatio.json) |
 | Anachroma | 211404 | [211404-anachroma.json](./211404-anachroma.json) |
 | Anachron | 377084 | [377084-anachron.json](./377084-anachron.json) |
 | Anachronic | 265576 | [265576-anachronic.json](./265576-anachronic.json) |
