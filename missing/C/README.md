@@ -205,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cal | 123082 | [123082-cal.json](./123082-cal.json) |
 | Cal II | 77989 | [77989-cal-ii.json](./77989-cal-ii.json) |
 | Cal Ripken Jr. Baseball | 46230 | [46230-cal-ripken-jr-baseball.json](./46230-cal-ripken-jr-baseball.json) |
+| Caladrius | 47482 | [47482-caladrius.json](./47482-caladrius.json) |
 | Calamari Clash | 127844 | [127844-calamari-clash.json](./127844-calamari-clash.json) |
 | Calamity | 364103 | [364103-calamity.json](./364103-calamity.json) |
 | Calamity Angels: Special Delivery - Digital Deluxe Edition | 391861 | [391861-calamity-angels-special-delivery-digital-deluxe-edition.json](./391861-calamity-angels-special-delivery-digital-deluxe-edition.json) |
@@ -5289,6 +5290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Connect | 168679 | [168679-color-connect.json](./168679-color-connect.json) |
 | Color Connect | 397235 | [397235-color-connect.json](./397235-color-connect.json) |
 | Color Course | 185528 | [185528-color-course.json](./185528-color-course.json) |
+| Color Cross | 47769 | [47769-color-cross.json](./47769-color-cross.json) |
 | Color Cube | 172053 | [172053-color-cube.json](./172053-color-cube.json) |
 | Color Cube Spin | 28845 | [28845-color-cube-spin.json](./28845-color-cube-spin.json) |
 | Color Cubes | 42150 | [42150-color-cubes.json](./42150-color-cubes.json) |
@@ -5476,6 +5478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorless Odyssey | 318005 | [318005-colorless-odyssey.json](./318005-colorless-odyssey.json) |
 | ColorMari | 222925 | [222925-colormari.json](./222925-colormari.json) |
 | Colorpicker | 304866 | [304866-colorpicker.json](./304866-colorpicker.json) |
+| Colors 3D | 47652 | [47652-colors-3d.json](./47652-colors-3d.json) |
 | Colors and their Meanings | 274519 | [274519-colors-and-their-meanings.json](./274519-colors-and-their-meanings.json) |
 | Colors of Your World | 182988 | [182988-colors-of-your-world.json](./182988-colors-of-your-world.json) |
 | Colors: Lost Memories | 269122 | [269122-colors-lost-memories.json](./269122-colors-lost-memories.json) |
@@ -8606,6 +8609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubistry Collection Vol. 1 | 33364 | [33364-cubistry-collection-vol-1.json](./33364-cubistry-collection-vol-1.json) |
 | Cubit | 204472 | [204472-cubit.json](./204472-cubit.json) |
 | Cubit | 204473 | [204473-cubit.json](./204473-cubit.json) |
+| Cubit: The Hardcore Platformer Robot | 47644 | [47644-cubit-the-hardcore-platformer-robot.json](./47644-cubit-the-hardcore-platformer-robot.json) |
 | Cubium Dreams | 33381 | [33381-cubium-dreams.json](./33381-cubium-dreams.json) |
 | Cubix Classic | 67981 | [67981-cubix-classic.json](./67981-cubix-classic.json) |
 | Cubix Robots for Everyone: Showdown | 242806 | [242806-cubix-robots-for-everyone-showdown.json](./242806-cubix-robots-for-everyone-showdown.json) |
