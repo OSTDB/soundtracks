@@ -1491,6 +1491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onslaught VR | 90813 | [90813-onslaught-vr.json](./90813-onslaught-vr.json) |
 | Onslaught! Arena | 65778 | [65778-onslaught-arena.json](./65778-onslaught-arena.json) |
 | OnSpace | 111076 | [111076-onspace.json](./111076-onspace.json) |
+| Ontamarama | 21509 | [21509-ontamarama.json](./21509-ontamarama.json) |
 | Ontranto | 277955 | [277955-ontranto.json](./277955-ontranto.json) |
 | Onward to walls! | 176268 | [176268-onward-to-walls.json](./176268-onward-to-walls.json) |
 | oO | 35316 | [35316-oo.json](./35316-oo.json) |
