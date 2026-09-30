@@ -1678,6 +1678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Fear 3: The Legend | 51550 | [51550-age-of-fear-3-the-legend.json](./51550-age-of-fear-3-the-legend.json) |
 | Age of Fear: The Undead King | 9952 | [9952-age-of-fear-the-undead-king.json](./9952-age-of-fear-the-undead-king.json) |
 | Age of Fear: Total | 249875 | [249875-age-of-fear-total.json](./249875-age-of-fear-total.json) |
+| Age of Gladiators | 33545 | [33545-age-of-gladiators.json](./33545-age-of-gladiators.json) |
 | Age of Gladiators II | 41959 | [41959-age-of-gladiators-ii.json](./41959-age-of-gladiators-ii.json) |
 | Age of Gods | 399092 | [399092-age-of-gods.json](./399092-age-of-gods.json) |
 | Age of Gods: Equinox Campaign | 399094 | [399094-age-of-gods-equinox-campaign.json](./399094-age-of-gods-equinox-campaign.json) |
@@ -2582,6 +2583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Animals: Sandbox | 154463 | [154463-alien-animals-sandbox.json](./154463-alien-animals-sandbox.json) |
 | Alien Apocalypse | 390010 | [390010-alien-apocalypse.json](./390010-alien-apocalypse.json) |
 | Alien Arcade | 206106 | [206106-alien-arcade.json](./206106-alien-arcade.json) |
+| Alien Arena: Warriors of Mars | 51937 | [51937-alien-arena-warriors-of-mars.json](./51937-alien-arena-warriors-of-mars.json) |
 | Alien Assault | 66623 | [66623-alien-assault.json](./66623-alien-assault.json) |
 | Alien Attack | 313465 | [313465-alien-attack.json](./313465-alien-attack.json) |
 | Alien Attack | 344944 | [344944-alien-attack.json](./344944-alien-attack.json) |
@@ -7161,6 +7163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Runner | 376716 | [376716-atomic-runner.json](./376716-atomic-runner.json) |
 | Atomic Runner Chelnov | 46241 | [46241-atomic-runner-chelnov.json](./46241-atomic-runner-chelnov.json) |
 | Atomic Sky | 55226 | [55226-atomic-sky.json](./55226-atomic-sky.json) |
+| Atomic Society | 31679 | [31679-atomic-society.json](./31679-atomic-society.json) |
 | Atomic Space Command | 33475 | [33475-atomic-space-command.json](./33475-atomic-space-command.json) |
 | Atomic Survivors | 249748 | [249748-atomic-survivors.json](./249748-atomic-survivors.json) |
 | Atomica | 379989 | [379989-atomica.json](./379989-atomica.json) |
