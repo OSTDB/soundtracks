@@ -304,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SailFront | 370886 | [370886-sailfront.json](./370886-sailfront.json) |
 | Sailing | 38928 | [38928-sailing.json](./38928-sailing.json) |
 | Sailing Alone: Aftermath | 312708 | [312708-sailing-alone-aftermath.json](./312708-sailing-alone-aftermath.json) |
+| Sailing Era | 223172 | [223172-sailing-era.json](./223172-sailing-era.json) |
 | Sailing the Winds & New Tanks | 375160 | [375160-sailing-the-winds-and-new-tanks.json](./375160-sailing-the-winds-and-new-tanks.json) |
 | Sailor Fuku Bijin Tsuma Senshi Aheahe Moon | 82979 | [82979-sailor-fuku-bijin-tsuma-senshi-aheahe-moon.json](./82979-sailor-fuku-bijin-tsuma-senshi-aheahe-moon.json) |
 | Sailor Fuku Bishoujo Zukan Vol. 1 | 41389 | [41389-sailor-fuku-bishoujo-zukan-vol-1.json](./41389-sailor-fuku-bishoujo-zukan-vol-1.json) |
@@ -2410,6 +2411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sekiro: Shadows Die Twice - Game of the Year Edition | 365281 | [365281-sekiro-shadows-die-twice-game-of-the-year-edition.json](./365281-sekiro-shadows-die-twice-game-of-the-year-edition.json) |
 | Sekka the Gleam | 355204 | [355204-sekka-the-gleam.json](./355204-sekka-the-gleam.json) |
 | Sekrets of the Dungeon | 149489 | [149489-sekrets-of-the-dungeon.json](./149489-sekrets-of-the-dungeon.json) |
+| Sektori | 217363 | [217363-sektori.json](./217363-sektori.json) |
 | Sekure Fuumin no Omocha Hako | 254500 | [254500-sekure-fuumin-no-omocha-hako.json](./254500-sekure-fuumin-no-omocha-hako.json) |
 | Selatria | 166217 | [166217-selatria.json](./166217-selatria.json) |
 | Selatria: Advent of the Dakk'rian Empire | 29774 | [29774-selatria-advent-of-the-dakkrian-empire.json](./29774-selatria-advent-of-the-dakkrian-empire.json) |
@@ -5284,6 +5286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sins | 183078 | [183078-sins.json](./183078-sins.json) |
 | Sins From Magdala | 213456 | [213456-sins-from-magdala.json](./213456-sins-from-magdala.json) |
 | Sins of a Solar Empire | 872 | [872-sins-of-a-solar-empire.json](./872-sins-of-a-solar-empire.json) |
+| Sins of a Solar Empire II | 223457 | [223457-sins-of-a-solar-empire-ii.json](./223457-sins-of-a-solar-empire-ii.json) |
 | Sins of a Solar Empire: Entrenchment | 84330 | [84330-sins-of-a-solar-empire-entrenchment.json](./84330-sins-of-a-solar-empire-entrenchment.json) |
 | Sins of a Solar Empire: Rebellion | 9924 | [9924-sins-of-a-solar-empire-rebellion.json](./9924-sins-of-a-solar-empire-rebellion.json) |
 | Sins of a Solar Empire: Rebellion - Forbidden Worlds | 10868 | [10868-sins-of-a-solar-empire-rebellion-forbidden-worlds.json](./10868-sins-of-a-solar-empire-rebellion-forbidden-worlds.json) |
@@ -8324,6 +8327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soothing Farmer | 216894 | [216894-soothing-farmer.json](./216894-soothing-farmer.json) |
 | Soothsayer: The Oraclepus Knows All | 243101 | [243101-soothsayer-the-oraclepus-knows-all.json](./243101-soothsayer-the-oraclepus-knows-all.json) |
 | Sooty's Revenge | 311284 | [311284-sootys-revenge.json](./311284-sootys-revenge.json) |
+| Sopa: Tale of the Stolen Potato | 197073 | [197073-sopa-tale-of-the-stolen-potato.json](./197073-sopa-tale-of-the-stolen-potato.json) |
 | Sophia - My Little Sis | 86824 | [86824-sophia-my-little-sis.json](./86824-sophia-my-little-sis.json) |
 | Sophia and the Mansion of Doubt | 82897 | [82897-sophia-and-the-mansion-of-doubt.json](./82897-sophia-and-the-mansion-of-doubt.json) |
 | Sophias Pizza Restaurant | 293636 | [293636-sophias-pizza-restaurant.json](./293636-sophias-pizza-restaurant.json) |
@@ -10250,6 +10254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: Titans of the Tide | 358751 | [358751-spongebob-squarepants-titans-of-the-tide.json](./358751-spongebob-squarepants-titans-of-the-tide.json) |
 | SpongeBob: Bubble Pop F.U.N. | 320381 | [320381-spongebob-bubble-pop-f-u-n.json](./320381-spongebob-bubble-pop-f-u-n.json) |
 | SpongeBob: Krusty Cook-Off | 130748 | [130748-spongebob-krusty-cook-off.json](./130748-spongebob-krusty-cook-off.json) |
+| SpongeBob: Krusty Cook-Off - Extra Krusty Edition | 221331 | [221331-spongebob-krusty-cook-off-extra-krusty-edition.json](./221331-spongebob-krusty-cook-off-extra-krusty-edition.json) |
 | SpongeBob's Atlantis Squarepantis | 221834 | [221834-spongebobs-atlantis-squarepantis.json](./221834-spongebobs-atlantis-squarepantis.json) |
 | SpongeBob's Atlantis Squarepantis | 43312 | [43312-spongebobs-atlantis-squarepantis.json](./43312-spongebobs-atlantis-squarepantis.json) |
 | SpongeBob's Atlantis Squarepantis | 43647 | [43647-spongebobs-atlantis-squarepantis.json](./43647-spongebobs-atlantis-squarepantis.json) |
@@ -15693,6 +15698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive Ten Days | 306094 | [306094-survive-ten-days.json](./306094-survive-ten-days.json) |
 | Survive the Apocalypse | 404208 | [404208-survive-the-apocalypse.json](./404208-survive-the-apocalypse.json) |
 | Survive the Backrooms! | 192961 | [192961-survive-the-backrooms.json](./192961-survive-the-backrooms.json) |
+| Survive the Fall | 216900 | [216900-survive-the-fall.json](./216900-survive-the-fall.json) |
 | Survive the Forest | 219572 | [219572-survive-the-forest.json](./219572-survive-the-forest.json) |
 | Survive the Grid | 365162 | [365162-survive-the-grid.json](./365162-survive-the-grid.json) |
 | Survive the Hill | 187524 | [187524-survive-the-hill.json](./187524-survive-the-hill.json) |
@@ -16377,6 +16383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SymmetryPad - Doodle in Relax | 108601 | [108601-symmetrypad-doodle-in-relax.json](./108601-symmetrypad-doodle-in-relax.json) |
 | Symmodance | 263756 | [263756-symmodance.json](./263756-symmodance.json) |
 | Sympathia | 277608 | [277608-sympathia.json](./277608-sympathia.json) |
+| Sympathy Kiss | 222359 | [222359-sympathy-kiss.json](./222359-sympathy-kiss.json) |
 | Symphoni | 334890 | [334890-symphoni.json](./334890-symphoni.json) |
 | Symphonica | 63584 | [63584-symphonica.json](./63584-symphonica.json) |
 | Symphonics | 107934 | [107934-symphonics.json](./107934-symphonics.json) |
