@@ -1513,6 +1513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | George McGeehan Gamer Hero | 260794 | [260794-george-mcgeehan-gamer-hero.json](./260794-george-mcgeehan-gamer-hero.json) |
 | George of the Jungle and the Search for the Secret | 259265 | [259265-george-of-the-jungle-and-the-search-for-the-secret.json](./259265-george-of-the-jungle-and-the-search-for-the-secret.json) |
 | George: A Horror Story | 189182 | [189182-george-a-horror-story.json](./189182-george-a-horror-story.json) |
+| Georifters | 114539 | [114539-georifters.json](./114539-georifters.json) |
 | GeoSpark | 67234 | [67234-geospark.json](./67234-geospark.json) |
 | Geotastic | 142722 | [142722-geotastic.json](./142722-geotastic.json) |
 | GeoWar | 127316 | [127316-geowar.json](./127316-geowar.json) |
@@ -3781,6 +3782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity | 109175 | [109175-gravity.json](./109175-gravity.json) |
 | Gravity | 177540 | [177540-gravity.json](./177540-gravity.json) |
 | Gravity | 361682 | [361682-gravity.json](./361682-gravity.json) |
+| Gravity Ace | 114912 | [114912-gravity-ace.json](./114912-gravity-ace.json) |
 | Gravity Angels Part 2: The Betrayal | 229359 | [229359-gravity-angels-part-2-the-betrayal.json](./229359-gravity-angels-part-2-the-betrayal.json) |
 | Gravity Angels Part 3: Payback | 229360 | [229360-gravity-angels-part-3-payback.json](./229360-gravity-angels-part-3-payback.json) |
 | Gravity Angels Part 4: Death Force | 229361 | [229361-gravity-angels-part-4-death-force.json](./229361-gravity-angels-part-4-death-force.json) |
