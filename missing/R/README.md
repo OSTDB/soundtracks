@@ -1354,6 +1354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ready 2 Rumble Boxing: Round 2 | 249128 | [249128-ready-2-rumble-boxing-round-2.json](./249128-ready-2-rumble-boxing-round-2.json) |
 | Ready 2 Rumble Boxing: Round 2 | 3587 | [3587-ready-2-rumble-boxing-round-2.json](./3587-ready-2-rumble-boxing-round-2.json) |
 | Ready Action | 196893 | [196893-ready-action.json](./196893-ready-action.json) |
+| Ready or Die | 389071 | [389071-ready-or-die.json](./389071-ready-or-die.json) |
 | Ready or Not: Boiling Point | 394376 | [394376-ready-or-not-boiling-point.json](./394376-ready-or-not-boiling-point.json) |
 | Ready or Not: VRO Mod | 360775 | [360775-ready-or-not-vro-mod.json](./360775-ready-or-not-vro-mod.json) |
 | Ready Player Fuck | 97689 | [97689-ready-player-fuck.json](./97689-ready-player-fuck.json) |
@@ -1671,6 +1672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebuild: Gangs of Deadsville | 65024 | [65024-rebuild-gangs-of-deadsville.json](./65024-rebuild-gangs-of-deadsville.json) |
 | Rebuilding Civilization | 355227 | [355227-rebuilding-civilization.json](./355227-rebuilding-civilization.json) |
 | Rebungered!! That Time I Got Reincarnated As A Bunger! | 405474 | [405474-rebungered-that-time-i-got-reincarnated-as-a-bunger.json](./405474-rebungered-that-time-i-got-reincarnated-as-a-bunger.json) |
+| Rebut! | 389003 | [389003-rebut.json](./389003-rebut.json) |
 | Rec Room | 32617 | [32617-rec-room.json](./32617-rec-room.json) |
 | Rec: Beyond The Lens | 255957 | [255957-rec-beyond-the-lens.json](./255957-rec-beyond-the-lens.json) |
 | Recalcitrant | 326273 | [326273-recalcitrant.json](./326273-recalcitrant.json) |
@@ -4579,6 +4581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Smash | 273642 | [273642-rocket-smash.json](./273642-rocket-smash.json) |
 | Rocket Space Ship Frontier | 243091 | [243091-rocket-space-ship-frontier.json](./243091-rocket-space-ship-frontier.json) |
 | Rocket Spin Orbit Glide | 369128 | [369128-rocket-spin-orbit-glide.json](./369128-rocket-spin-orbit-glide.json) |
+| Rocket Time Trials: Galactic Highway | 389070 | [389070-rocket-time-trials-galactic-highway.json](./389070-rocket-time-trials-galactic-highway.json) |
 | Rocket Valet! Galaxy Landing Service | 212818 | [212818-rocket-valet-galaxy-landing-service.json](./212818-rocket-valet-galaxy-landing-service.json) |
 | Rocket Wrestling Entertainment | 353290 | [353290-rocket-wrestling-entertainment.json](./353290-rocket-wrestling-entertainment.json) |
 | Rocketball: Championship Cup | 175706 | [175706-rocketball-championship-cup.json](./175706-rocketball-championship-cup.json) |
@@ -4630,6 +4633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RockMan EXE N1 Battle | 37354 | [37354-rockman-exe-n1-battle.json](./37354-rockman-exe-n1-battle.json) |
 | Rockman EXE Phantom of Network | 265957 | [265957-rockman-exe-phantom-of-network.json](./265957-rockman-exe-phantom-of-network.json) |
 | Rockman GP | 309669 | [309669-rockman-gp.json](./309669-rockman-gp.json) |
+| Rockman IQ Xuànfēng | 389005 | [389005-rockman-iq-xuanfeng.json](./389005-rockman-iq-xuanfeng.json) |
 | Rockman No Constancy | 48027 | [48027-rockman-no-constancy.json](./48027-rockman-no-constancy.json) |
 | Rockman No Constancy: Hard Mode | 269870 | [269870-rockman-no-constancy-hard-mode.json](./269870-rockman-no-constancy-hard-mode.json) |
 | Rockman Online | 66610 | [66610-rockman-online.json](./66610-rockman-online.json) |
@@ -6196,6 +6200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruzar: The Dark Stones | 310217 | [310217-ruzar-the-dark-stones.json](./310217-ruzar-the-dark-stones.json) |
 | Ruzzle | 58212 | [58212-ruzzle.json](./58212-ruzzle.json) |
 | Ruzzle Adventure | 38910 | [38910-ruzzle-adventure.json](./38910-ruzzle-adventure.json) |
+| RV Drive There Co-op | 389069 | [389069-rv-drive-there-co-op.json](./389069-rv-drive-there-co-op.json) |
 | RV Park Life | 228452 | [228452-rv-park-life.json](./228452-rv-park-life.json) |
 | RV Roadtrip Simulator | 403730 | [403730-rv-roadtrip-simulator.json](./403730-rv-roadtrip-simulator.json) |
 | RV Tags | 405672 | [405672-rv-tags.json](./405672-rv-tags.json) |
