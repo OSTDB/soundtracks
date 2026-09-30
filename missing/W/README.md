@@ -3357,6 +3357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodways | 93741 | [93741-woodways.json](./93741-woodways.json) |
 | Woodwork Simulator | 120932 | [120932-woodwork-simulator.json](./120932-woodwork-simulator.json) |
 | Woody Pop | 69917 | [69917-woody-pop.json](./69917-woody-pop.json) |
+| Woody Puzzle | 96825 | [96825-woody-puzzle.json](./96825-woody-puzzle.json) |
 | Woody Woodpecker and Friends Volume 2 | 268527 | [268527-woody-woodpecker-and-friends-volume-2.json](./268527-woody-woodpecker-and-friends-volume-2.json) |
 | Woody Woodpecker in Crazy Castle 5 | 8012 | [8012-woody-woodpecker-in-crazy-castle-5.json](./8012-woody-woodpecker-in-crazy-castle-5.json) |
 | Woody Woodpecker in Waterfools | 135894 | [135894-woody-woodpecker-in-waterfools.json](./135894-woody-woodpecker-in-waterfools.json) |
@@ -4231,6 +4232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WTC: Love's Labour's Lost | 216817 | [216817-wtc-loves-labours-lost.json](./216817-wtc-loves-labours-lost.json) |
 | WTC: Recruitment Day | 192462 | [192462-wtc-recruitment-day.json](./192462-wtc-recruitment-day.json) |
 | WTC: Relentless Protagonist [SxS] | 187446 | [187446-wtc-relentless-protagonist-sxs.json](./187446-wtc-relentless-protagonist-sxs.json) |
+| WTF | 99778 | [99778-wtf.json](./99778-wtf.json) |
 | WTF Do You Know? | 197137 | [197137-wtf-do-you-know.json](./197137-wtf-do-you-know.json) |
 | WTF: Waifu Tactical Force | 244256 | [244256-wtf-waifu-tactical-force.json](./244256-wtf-waifu-tactical-force.json) |
 | WTF: Work Time Fun | 42853 | [42853-wtf-work-time-fun.json](./42853-wtf-work-time-fun.json) |
