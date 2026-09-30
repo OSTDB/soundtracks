@@ -219,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easter Day Solitaire | 339789 | [339789-easter-day-solitaire.json](./339789-easter-day-solitaire.json) |
 | Easter Egg | 127225 | [127225-easter-egg.json](./127225-easter-egg.json) |
 | Easter Eggs | 41493 | [41493-easter-eggs.json](./41493-easter-eggs.json) |
+| Easter Jewels HD | 87068 | [87068-easter-jewels-hd.json](./87068-easter-jewels-hd.json) |
 | Easter Journey | 296080 | [296080-easter-journey.json](./296080-easter-journey.json) |
 | Easter Squad VR | 101054 | [101054-easter-squad-vr.json](./101054-easter-squad-vr.json) |
 | Easteria | 105747 | [105747-easteria.json](./105747-easteria.json) |
