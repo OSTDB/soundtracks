@@ -1406,6 +1406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untitled Fallout Project | 410466 | [410466-untitled-fallout-project.json](./410466-untitled-fallout-project.json) |
 | Untitled Game | 180257 | [180257-untitled-game.json](./180257-untitled-game.json) |
 | Untitled Ghost Game | 222916 | [222916-untitled-ghost-game.json](./222916-untitled-ghost-game.json) |
+| Untitled Ghost Game | 411633 | [411633-untitled-ghost-game.json](./411633-untitled-ghost-game.json) |
 | Untitled God of War Live-Service Game | 386715 | [386715-untitled-god-of-war-live-service-game.json](./386715-untitled-god-of-war-live-service-game.json) |
 | Untitled Goop Game | 181668 | [181668-untitled-goop-game.json](./181668-untitled-goop-game.json) |
 | Untitled Hand Game | 344968 | [344968-untitled-hand-game.json](./344968-untitled-hand-game.json) |
