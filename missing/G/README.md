@@ -2947,6 +2947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoldStorm Pirates | 326948 | [326948-goldstorm-pirates.json](./326948-goldstorm-pirates.json) |
 | Golel | 264693 | [264693-golel.json](./264693-golel.json) |
 | Golem | 310610 | [310610-golem.json](./310610-golem.json) |
+| Golem Gates | 76066 | [76066-golem-gates.json](./76066-golem-gates.json) |
 | Golem Wars | 58752 | [58752-golem-wars.json](./58752-golem-wars.json) |
 | Golembert | 258017 | [258017-golembert.json](./258017-golembert.json) |
 | Golems TD | 164244 | [164244-golems-td.json](./164244-golems-td.json) |
