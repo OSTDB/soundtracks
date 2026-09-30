@@ -3184,6 +3184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Book of Commands: Lost Symbol | 32894 | [32894-the-book-of-commands-lost-symbol.json](./32894-the-book-of-commands-lost-symbol.json) |
 | The Book of Death for Dummies | 273643 | [273643-the-book-of-death-for-dummies.json](./273643-the-book-of-death-for-dummies.json) |
 | The Book of Outcasts | 397697 | [397697-the-book-of-outcasts.json](./397697-the-book-of-outcasts.json) |
+| The Book of Prosperity | 404356 | [404356-the-book-of-prosperity.json](./404356-the-book-of-prosperity.json) |
 | The Book of Weapons | 197360 | [197360-the-book-of-weapons.json](./197360-the-book-of-weapons.json) |
 | The Book of Yorle: Save the Village | 169964 | [169964-the-book-of-yorle-save-the-village.json](./169964-the-book-of-yorle-save-the-village.json) |
 | The Books Tale: A Hop Adventure | 249844 | [249844-the-books-tale-a-hop-adventure.json](./249844-the-books-tale-a-hop-adventure.json) |
@@ -5729,6 +5730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Secret | 199656 | [199656-the-last-secret.json](./199656-the-last-secret.json) |
 | The Last Shelter | 349844 | [349844-the-last-shelter.json](./349844-the-last-shelter.json) |
 | The Last Shot: Arcades | 351723 | [351723-the-last-shot-arcades.json](./351723-the-last-shot-arcades.json) |
+| The Last Show | 404387 | [404387-the-last-show.json](./404387-the-last-show.json) |
 | The Last Show of Mr. Chardish | 138389 | [138389-the-last-show-of-mr-chardish.json](./138389-the-last-show-of-mr-chardish.json) |
 | The Last Show of Mr. Chardish: Act I | 170386 | [170386-the-last-show-of-mr-chardish-act-i.json](./170386-the-last-show-of-mr-chardish-act-i.json) |
 | The Last Sigil | 88325 | [88325-the-last-sigil.json](./88325-the-last-sigil.json) |
@@ -6784,6 +6786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Oldest Edda | 190721 | [190721-the-oldest-edda.json](./190721-the-oldest-edda.json) |
 | The Oliver Twins Collection | 136367 | [136367-the-oliver-twins-collection.json](./136367-the-oliver-twins-collection.json) |
 | The Olympics | 13260 | [13260-the-olympics.json](./13260-the-olympics.json) |
+| The Omega Reach | 404351 | [404351-the-omega-reach.json](./404351-the-omega-reach.json) |
 | The Omega Stone: Riddle of the Sphinx II | 71524 | [71524-the-omega-stone-riddle-of-the-sphinx-ii.json](./71524-the-omega-stone-riddle-of-the-sphinx-ii.json) |
 | The One | 289973 | [289973-the-one.json](./289973-the-one.json) |
 | The One Behind You | 408284 | [408284-the-one-behind-you.json](./408284-the-one-behind-you.json) |
@@ -9171,6 +9174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Their Eyes | 166000 | [166000-their-eyes.json](./166000-their-eyes.json) |
 | Their Majesties' Pleasure | 250993 | [250993-their-majesties-pleasure.json](./250993-their-majesties-pleasure.json) |
 | Their Navy Is Their Doom | 319138 | [319138-their-navy-is-their-doom.json](./319138-their-navy-is-their-doom.json) |
+| Their Story. | 404398 | [404398-their-story.json](./404398-their-story.json) |
 | TheLast.io | 125984 | [125984-thelast-io.json](./125984-thelast-io.json) |
 | TheLooppy | 83487 | [83487-thelooppy.json](./83487-thelooppy.json) |
 | Them or Us | 216995 | [216995-them-or-us.json](./216995-them-or-us.json) |
@@ -9347,6 +9351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ThiefRl2 | 184578 | [184578-thiefrl2.json](./184578-thiefrl2.json) |
 | Thievery | 105326 | [105326-thievery.json](./105326-thievery.json) |
 | Thieves | 335875 | [335875-thieves.json](./335875-thieves.json) |
+| Thieves and Gold | 404359 | [404359-thieves-and-gold.json](./404359-thieves-and-gold.json) |
 | Thieves and Kings | 83463 | [83463-thieves-and-kings.json](./83463-thieves-and-kings.json) |
 | Thieves Guild Master | 413662 | [413662-thieves-guild-master.json](./413662-thieves-guild-master.json) |
 | Thieves of Dingirra | 304694 | [304694-thieves-of-dingirra.json](./304694-thieves-of-dingirra.json) |
@@ -11246,6 +11251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titanic II: Orchestra for Dying at Sea | 204471 | [204471-titanic-ii-orchestra-for-dying-at-sea.json](./204471-titanic-ii-orchestra-for-dying-at-sea.json) |
 | Titanic Mystery: Ao no Senritsu | 41312 | [41312-titanic-mystery-ao-no-senritsu.json](./41312-titanic-mystery-ao-no-senritsu.json) |
 | Titanic Shipwreck Exploration | 111180 | [111180-titanic-shipwreck-exploration.json](./111180-titanic-shipwreck-exploration.json) |
+| Titanic Survival Simulator | 404369 | [404369-titanic-survival-simulator.json](./404369-titanic-survival-simulator.json) |
 | Titanic Terror | 258961 | [258961-titanic-terror.json](./258961-titanic-terror.json) |
 | Titanic: Fall of a Legend | 190455 | [190455-titanic-fall-of-a-legend.json](./190455-titanic-fall-of-a-legend.json) |
 | Titanic: Honor and Glory | 57921 | [57921-titanic-honor-and-glory.json](./57921-titanic-honor-and-glory.json) |
