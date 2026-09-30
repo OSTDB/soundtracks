@@ -4683,6 +4683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Host Master Deux: Quest for Identity | 62185 | [62185-host-master-deux-quest-for-identity.json](./62185-host-master-deux-quest-for-identity.json) |
 | Host no Abunai Sekai | 264091 | [264091-host-no-abunai-sekai.json](./264091-host-no-abunai-sekai.json) |
 | Hostage Heart | 417565 | [417565-hostage-heart.json](./417565-hostage-heart.json) |
+| Hostil | 75816 | [75816-hostil.json](./75816-hostil.json) |
 | Hostile Mars | 151031 | [151031-hostile-mars.json](./151031-hostile-mars.json) |
 | Hosting Simulator: 2026 | 406312 | [406312-hosting-simulator-2026.json](./406312-hosting-simulator-2026.json) |
 | Hostyle | 397700 | [397700-hostyle.json](./397700-hostyle.json) |
