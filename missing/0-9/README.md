@@ -195,6 +195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Aliens Cats: Extra Content | 308929 | [308929-100-aliens-cats-extra-content.json](./308929-100-aliens-cats-extra-content.json) |
 | 100 All-Time Favorites | 67343 | [67343-100-all-time-favorites.json](./67343-100-all-time-favorites.json) |
 | 100 Amsterdam Cats | 351683 | [351683-100-amsterdam-cats.json](./351683-100-amsterdam-cats.json) |
+| 100 Archeology Cats | 393728 | [393728-100-archeology-cats.json](./393728-100-archeology-cats.json) |
 | 100 Astro Cats | 347755 | [347755-100-astro-cats.json](./347755-100-astro-cats.json) |
 | 100 Balls | 331350 | [331350-100-balls.json](./331350-100-balls.json) |
 | 100 Balls: Tap to Drop in Cup | 100152 | [100152-100-balls-tap-to-drop-in-cup.json](./100152-100-balls-tap-to-drop-in-cup.json) |
@@ -260,10 +261,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 London Cats | 282722 | [282722-100-london-cats.json](./282722-100-london-cats.json) |
 | 100 Los Angeles Cats | 334125 | [334125-100-los-angeles-cats.json](./334125-100-los-angeles-cats.json) |
 | 100 March Cats | 288728 | [288728-100-march-cats.json](./288728-100-march-cats.json) |
+| 100 Marshmallow Cats | 393730 | [393730-100-marshmallow-cats.json](./393730-100-marshmallow-cats.json) |
 | 100 Men vs 1 Gorilla | 349879 | [349879-100-men-vs-1-gorilla.json](./349879-100-men-vs-1-gorilla.json) |
 | 100 Meter | 247051 | [247051-100-meter.json](./247051-100-meter.json) |
 | 100 Mind Game | 104235 | [104235-100-mind-game.json](./104235-100-mind-game.json) |
 | 100 Minutes of /vr/ | 300030 | [300030-100-minutes-of-vr.json](./300030-100-minutes-of-vr.json) |
+| 100 Mushroom Cats | 393731 | [393731-100-mushroom-cats.json](./393731-100-mushroom-cats.json) |
+| 100 Mystic Cats | 393727 | [393727-100-mystic-cats.json](./393727-100-mystic-cats.json) |
 | 100 New Year Cats | 324238 | [324238-100-new-year-cats.json](./324238-100-new-year-cats.json) |
 | 100 Ninja Cats | 283034 | [283034-100-ninja-cats.json](./283034-100-ninja-cats.json) |
 | 100 Pics Quiz | 70890 | [70890-100-pics-quiz.json](./70890-100-pics-quiz.json) |
@@ -274,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Seconds | 89387 | [89387-100-seconds.json](./89387-100-seconds.json) |
 | 100 Space Cats | 288398 | [288398-100-space-cats.json](./288398-100-space-cats.json) |
 | 100 Tokyo Cats: Extra Content | 274585 | [274585-100-tokyo-cats-extra-content.json](./274585-100-tokyo-cats-extra-content.json) |
+| 100 Undersea Cats | 393726 | [393726-100-undersea-cats.json](./393726-100-undersea-cats.json) |
 | 100 Vacas | 138729 | [138729-100-vacas.json](./138729-100-vacas.json) |
 | 100 Vampire Cats | 347754 | [347754-100-vampire-cats.json](./347754-100-vampire-cats.json) |
 | 100 Waiting Cats: Extra Content | 321593 | [321593-100-waiting-cats-extra-content.json](./321593-100-waiting-cats-extra-content.json) |
