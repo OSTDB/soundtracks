@@ -872,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warp to Sector One | 394552 | [394552-warp-to-sector-one.json](./394552-warp-to-sector-one.json) |
 | Warp Trash Flotilla | 178968 | [178968-warp-trash-flotilla.json](./178968-warp-trash-flotilla.json) |
 | Warp-1 | 57125 | [57125-warp-1.json](./57125-warp-1.json) |
+| Warpack | 416044 | [416044-warpack.json](./416044-warpack.json) |
 | Warpath | 273349 | [273349-warpath.json](./273349-warpath.json) |
 | Warpath | 377149 | [377149-warpath.json](./377149-warpath.json) |
 | Warpath 97 | 77306 | [77306-warpath-97.json](./77306-warpath-97.json) |
@@ -1078,6 +1079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch Dogs: Legion - Season Pass | 142845 | [142845-watch-dogs-legion-season-pass.json](./142845-watch-dogs-legion-season-pass.json) |
 | Watch Dogs: Legion - Ultimate Edition | 119574 | [119574-watch-dogs-legion-ultimate-edition.json](./119574-watch-dogs-legion-ultimate-edition.json) |
 | Watch Grass Grow Simulator | 384224 | [384224-watch-grass-grow-simulator.json](./384224-watch-grass-grow-simulator.json) |
+| Watch My Step! | 415204 | [415204-watch-my-step.json](./415204-watch-my-step.json) |
 | Watch Out | 55290 | [55290-watch-out.json](./55290-watch-out.json) |
 | Watch Out! | 100220 | [100220-watch-out.json](./100220-watch-out.json) |
 | Watch out!!! | 304191 | [304191-watch-out.json](./304191-watch-out.json) |
@@ -2401,6 +2403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Warfare | 17598 | [17598-wild-warfare.json](./17598-wild-warfare.json) |
 | Wild West | 215648 | [215648-wild-west.json](./215648-wild-west.json) |
 | Wild West C.O.W.-Boys of Moo Mesa | 39383 | [39383-wild-west-c-o-w-boys-of-moo-mesa.json](./39383-wild-west-c-o-w-boys-of-moo-mesa.json) |
+| Wild West Chase | 415991 | [415991-wild-west-chase.json](./415991-wild-west-chase.json) |
 | Wild West Crops | 143637 | [143637-wild-west-crops.json](./143637-wild-west-crops.json) |
 | Wild West Fights: Girls Fighting World | 100751 | [100751-wild-west-fights-girls-fighting-world.json](./100751-wild-west-fights-girls-fighting-world.json) |
 | Wild West Gringos | 195105 | [195105-wild-west-gringos.json](./195105-wild-west-gringos.json) |
@@ -2440,6 +2443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildcatting | 42131 | [42131-wildcatting.json](./42131-wildcatting.json) |
 | WildCraft | 241635 | [241635-wildcraft.json](./241635-wildcraft.json) |
 | WildCraft | 253329 | [253329-wildcraft.json](./253329-wildcraft.json) |
+| Wilde Investigations: Animal Sanctuary Shuffle | 415989 | [415989-wilde-investigations-animal-sanctuary-shuffle.json](./415989-wilde-investigations-animal-sanctuary-shuffle.json) |
 | Wildekin | 362280 | [362280-wildekin.json](./362280-wildekin.json) |
 | Wildemist Isle | 129008 | [129008-wildemist-isle.json](./129008-wildemist-isle.json) |
 | WilderLands | 382219 | [382219-wilderlands.json](./382219-wilderlands.json) |
@@ -2448,7 +2452,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildermyth | 83504 | [83504-wildermyth.json](./83504-wildermyth.json) |
 | Wilderness | 377146 | [377146-wilderness.json](./377146-wilderness.json) |
 | Wilderness Edge | 342880 | [342880-wilderness-edge.json](./342880-wilderness-edge.json) |
+| Wilderness Mosaic 2: Patagonia | 415984 | [415984-wilderness-mosaic-2-patagonia.json](./415984-wilderness-mosaic-2-patagonia.json) |
 | Wilderness Mosaic 3: Photo Safari | 415907 | [415907-wilderness-mosaic-3-photo-safari.json](./415907-wilderness-mosaic-3-photo-safari.json) |
+| Wilderness Mosaic 5: India | 415983 | [415983-wilderness-mosaic-5-india.json](./415983-wilderness-mosaic-5-india.json) |
+| Wilderness Mosaic: Where the Road Takes Me | 415985 | [415985-wilderness-mosaic-where-the-road-takes-me.json](./415985-wilderness-mosaic-where-the-road-takes-me.json) |
 | Wilderness Survival: The Conservationist | 212895 | [212895-wilderness-survival-the-conservationist.json](./212895-wilderness-survival-the-conservationist.json) |
 | Wilderness: A Survival Adventure | 25888 | [25888-wilderness-a-survival-adventure.json](./25888-wilderness-a-survival-adventure.json) |
 | WildestDreams | 109204 | [109204-wildestdreams.json](./109204-wildestdreams.json) |
@@ -2672,6 +2679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings of Duty | 174771 | [174771-wings-of-duty.json](./174771-wings-of-duty.json) |
 | Wings of Glory | 212247 | [212247-wings-of-glory.json](./212247-wings-of-glory.json) |
 | Wings of Honour: Battles of the Red Baron | 21341 | [21341-wings-of-honour-battles-of-the-red-baron.json](./21341-wings-of-honour-battles-of-the-red-baron.json) |
+| Wings of Horus | 415980 | [415980-wings-of-horus.json](./415980-wings-of-horus.json) |
 | Wings of Magloryx | 85492 | [85492-wings-of-magloryx.json](./85492-wings-of-magloryx.json) |
 | Wings of Power: WWII Heavy Bombers and Jets | 61709 | [61709-wings-of-power-wwii-heavy-bombers-and-jets.json](./61709-wings-of-power-wwii-heavy-bombers-and-jets.json) |
 | Wings of Prey | 20973 | [20973-wings-of-prey.json](./20973-wings-of-prey.json) |
@@ -2748,6 +2756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Heat | 367954 | [367954-winter-heat.json](./367954-winter-heat.json) |
 | Winter Lord | 329133 | [329133-winter-lord.json](./329133-winter-lord.json) |
 | Winter Magic | 182929 | [182929-winter-magic.json](./182929-winter-magic.json) |
+| Winter Mahjong | 415978 | [415978-winter-mahjong.json](./415978-winter-mahjong.json) |
 | Winter Mosaics | 415908 | [415908-winter-mosaics.json](./415908-winter-mosaics.json) |
 | Winter Night | 287700 | [287700-winter-night.json](./287700-winter-night.json) |
 | Winter Night: Terrorist Strike | 224086 | [224086-winter-night-terrorist-strike.json](./224086-winter-night-terrorist-strike.json) |
@@ -2938,6 +2947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witches' Legacy: Hunter and the Hunted - Collector's Edition | 89945 | [89945-witches-legacy-hunter-and-the-hunted-collectors-edition.json](./89945-witches-legacy-hunter-and-the-hunted-collectors-edition.json) |
 | Witches' Legacy: Hunter and the Hunted HD | 101583 | [101583-witches-legacy-hunter-and-the-hunted-hd.json](./101583-witches-legacy-hunter-and-the-hunted-hd.json) |
 | Witches' Legacy: Lair of the Witch Queen - Collector's Edition | 110374 | [110374-witches-legacy-lair-of-the-witch-queen-collectors-edition.json](./110374-witches-legacy-lair-of-the-witch-queen-collectors-edition.json) |
+| Witches' Legacy: The City That Isn't There | 415976 | [415976-witches-legacy-the-city-that-isnt-there.json](./415976-witches-legacy-the-city-that-isnt-there.json) |
 | Witchfiend / Odd Job Eddie | 92845 | [92845-witchfiend-odd-job-eddie.json](./92845-witchfiend-odd-job-eddie.json) |
 | Witching Tower | 90121 | [90121-witching-tower.json](./90121-witching-tower.json) |
 | Witching Tower: Heroes | 132252 | [132252-witching-tower-heroes.json](./132252-witching-tower-heroes.json) |
@@ -2988,6 +2998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witherspring Wilds | 391858 | [391858-witherspring-wilds.json](./391858-witherspring-wilds.json) |
 | Within | 377145 | [377145-within.json](./377145-within.json) |
 | Within | 391217 | [391217-within.json](./391217-within.json) |
+| Within | 415248 | [415248-within.json](./415248-within.json) |
 | Within a Rose | 72361 | [72361-within-a-rose.json](./72361-within-a-rose.json) |
 | Within His View | 379868 | [379868-within-his-view.json](./379868-within-his-view.json) |
 | Within the Backrooms | 220634 | [220634-within-the-backrooms.json](./220634-within-the-backrooms.json) |
