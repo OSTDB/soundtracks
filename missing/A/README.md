@@ -6168,6 +6168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art-Therapy: Jigsaw Puzzle | 357873 | [357873-art-therapy-jigsaw-puzzle.json](./357873-art-therapy-jigsaw-puzzle.json) |
 | Art-Therapy: Portraits | 389119 | [389119-art-therapy-portraits.json](./389119-art-therapy-portraits.json) |
 | Art7 | 208429 | [208429-art7.json](./208429-art7.json) |
+| ArtDeco Backgammon 3D | 90684 | [90684-artdeco-backgammon-3d.json](./90684-artdeco-backgammon-3d.json) |
 | Artdink Game Log: Tail of the Sun | 377258 | [377258-artdink-game-log-tail-of-the-sun.json](./377258-artdink-game-log-tail-of-the-sun.json) |
 | Artemis | 185542 | [185542-artemis.json](./185542-artemis.json) |
 | Artemis Blue | 321543 | [321543-artemis-blue.json](./321543-artemis-blue.json) |
