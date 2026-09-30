@@ -234,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Drift Taxi Car Simulator Ultimate | 251046 | [251046-racing-drift-taxi-car-simulator-ultimate.json](./251046-racing-drift-taxi-car-simulator-ultimate.json) |
 | Racing Empires | 245016 | [245016-racing-empires.json](./245016-racing-empires.json) |
 | Racing Fever | 49352 | [49352-racing-fever.json](./49352-racing-fever.json) |
+| Racing Glider | 90681 | [90681-racing-glider.json](./90681-racing-glider.json) |
 | Racing Go | 262380 | [262380-racing-go.json](./262380-racing-go.json) |
 | Racing Heroes | 197338 | [197338-racing-heroes.json](./197338-racing-heroes.json) |
 | Racing in Car | 86989 | [86989-racing-in-car.json](./86989-racing-in-car.json) |
@@ -1420,6 +1421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Pro Yakyuu!: Central League-hen | 282573 | [282573-real-pro-yakyuu-central-league-hen.json](./282573-real-pro-yakyuu-central-league-hen.json) |
 | Real Pro Yakyuu!: Pacific League-hen | 282574 | [282574-real-pro-yakyuu-pacific-league-hen.json](./282574-real-pro-yakyuu-pacific-league-hen.json) |
 | Real Racing 2 | 11652 | [11652-real-racing-2.json](./11652-real-racing-2.json) |
+| Real Racing 2 HD | 90669 | [90669-real-racing-2-hd.json](./90669-real-racing-2-hd.json) |
 | Real Racing GTI | 343794 | [343794-real-racing-gti.json](./343794-real-racing-gti.json) |
 | Real Rally | 240493 | [240493-real-rally.json](./240493-real-rally.json) |
 | Real Rash Flying Copter | 100328 | [100328-real-rash-flying-copter.json](./100328-real-rash-flying-copter.json) |
