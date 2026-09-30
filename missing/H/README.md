@@ -1464,6 +1464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart of Gold | 402263 | [402263-heart-of-gold.json](./402263-heart-of-gold.json) |
 | Heart of Mithras | 156003 | [156003-heart-of-mithras.json](./156003-heart-of-mithras.json) |
 | Heart of Mobius | 255702 | [255702-heart-of-mobius.json](./255702-heart-of-mobius.json) |
+| Heart of Moon: The Mask of Seasons | 112484 | [112484-heart-of-moon-the-mask-of-seasons.json](./112484-heart-of-moon-the-mask-of-seasons.json) |
 | Heart Of Nadia | 288236 | [288236-heart-of-nadia.json](./288236-heart-of-nadia.json) |
 | Heart of Saphilamun | 230220 | [230220-heart-of-saphilamun.json](./230220-heart-of-saphilamun.json) |
 | Heart of Summer | 158569 | [158569-heart-of-summer.json](./158569-heart-of-summer.json) |
@@ -2286,6 +2287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Jigsaw Puzzle Collection: Christmas Edition | 235476 | [235476-hentai-jigsaw-puzzle-collection-christmas-edition.json](./235476-hentai-jigsaw-puzzle-collection-christmas-edition.json) |
 | Hentai Jigsaw Puzzle Collection: Spring Edition | 263218 | [263218-hentai-jigsaw-puzzle-collection-spring-edition.json](./263218-hentai-jigsaw-puzzle-collection-spring-edition.json) |
 | Hentai Killer: Girls & Chess | 151622 | [151622-hentai-killer-girls-and-chess.json](./151622-hentai-killer-girls-and-chess.json) |
+| Hentai Lady | 110742 | [110742-hentai-lady.json](./110742-hentai-lady.json) |
 | Hentai Ladyboy Ren | 367051 | [367051-hentai-ladyboy-ren.json](./367051-hentai-ladyboy-ren.json) |
 | Hentai Lucia | 339914 | [339914-hentai-lucia.json](./339914-hentai-lucia.json) |
 | Hentai Lunara | 376108 | [376108-hentai-lunara.json](./376108-hentai-lunara.json) |
@@ -2347,6 +2349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Shibari | 371359 | [371359-hentai-shibari.json](./371359-hentai-shibari.json) |
 | Hentai Shiri | 368007 | [368007-hentai-shiri.json](./368007-hentai-shiri.json) |
 | Hentai Shojo | 368002 | [368002-hentai-shojo.json](./368002-hentai-shojo.json) |
+| Hentai Shooter 3D: Christmas Party | 111992 | [111992-hentai-shooter-3d-christmas-party.json](./111992-hentai-shooter-3d-christmas-party.json) |
 | Hentai Shop Simulator | 329572 | [329572-hentai-shop-simulator.json](./329572-hentai-shop-simulator.json) |
 | Hentai Shop Simulator | 338002 | [338002-hentai-shop-simulator.json](./338002-hentai-shop-simulator.json) |
 | Hentai Slash | 340451 | [340451-hentai-slash.json](./340451-hentai-slash.json) |
@@ -2397,6 +2400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Tales: Uninhabited Island | 332613 | [332613-hentai-tales-uninhabited-island.json](./332613-hentai-tales-uninhabited-island.json) |
 | Hentai Tights | 377283 | [377283-hentai-tights.json](./377283-hentai-tights.json) |
 | Hentai Uni 3 | 340458 | [340458-hentai-uni-3.json](./340458-hentai-uni-3.json) |
+| Hentai University 2: Biology course | 112455 | [112455-hentai-university-2-biology-course.json](./112455-hentai-university-2-biology-course.json) |
 | Hentai Unlimited | 367510 | [367510-hentai-unlimited.json](./367510-hentai-unlimited.json) |
 | Hentai USSR | 340459 | [340459-hentai-ussr.json](./340459-hentai-ussr.json) |
 | Hentai Vivian | 265767 | [265767-hentai-vivian.json](./265767-hentai-vivian.json) |
@@ -4577,6 +4581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Gallery | 262908 | [262908-horror-gallery.json](./262908-horror-gallery.json) |
 | Horror Game Collection | 184595 | [184595-horror-game-collection.json](./184595-horror-game-collection.json) |
 | Horror Game: Granny | 100232 | [100232-horror-game-granny.json](./100232-horror-game-granny.json) |
+| Horror Girl Puzzle | 112702 | [112702-horror-girl-puzzle.json](./112702-horror-girl-puzzle.json) |
 | Horror Girls | 382287 | [382287-horror-girls.json](./382287-horror-girls.json) |
 | Horror Hospital | 29915 | [29915-horror-hospital.json](./29915-horror-hospital.json) |
 | Horror Hotel: Mystery Quest | 206726 | [206726-horror-hotel-mystery-quest.json](./206726-horror-hotel-mystery-quest.json) |
@@ -5556,6 +5561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunting Simulator 2: Bear Hunter Pack | 224221 | [224221-hunting-simulator-2-bear-hunter-pack.json](./224221-hunting-simulator-2-bear-hunter-pack.json) |
 | Hunting Simulator 2: Beretta Weapon Pack | 224220 | [224220-hunting-simulator-2-beretta-weapon-pack.json](./224220-hunting-simulator-2-beretta-weapon-pack.json) |
 | Hunting Simulator 3 | 323189 | [323189-hunting-simulator-3.json](./323189-hunting-simulator-3.json) |
+| Hunting Simulator VR | 112682 | [112682-hunting-simulator-vr.json](./112682-hunting-simulator-vr.json) |
 | Hunting Story | 193968 | [193968-hunting-story.json](./193968-hunting-story.json) |
 | Hunting Unlimited 2009 | 30860 | [30860-hunting-unlimited-2009.json](./30860-hunting-unlimited-2009.json) |
 | Hunting Yankee | 55159 | [55159-hunting-yankee.json](./55159-hunting-yankee.json) |
