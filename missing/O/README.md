@@ -433,6 +433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Elevator | 195159 | [195159-office-elevator.json](./195159-office-elevator.json) |
 | Office Fever | 223993 | [223993-office-fever.json](./223993-office-fever.json) |
 | Office Fight | 270963 | [270963-office-fight.json](./270963-office-fight.json) |
+| Office Hours | 403076 | [403076-office-hours.json](./403076-office-hours.json) |
 | Office Hurdles | 268019 | [268019-office-hurdles.json](./268019-office-hurdles.json) |
 | Office Is My Harem | 259035 | [259035-office-is-my-harem.json](./259035-office-is-my-harem.json) |
 | Office Jerk | 316739 | [316739-office-jerk.json](./316739-office-jerk.json) |
@@ -1787,6 +1788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbatak | 217881 | [217881-orbatak.json](./217881-orbatak.json) |
 | Orbatron | 149955 | [149955-orbatron.json](./149955-orbatron.json) |
 | Orbeats | 290995 | [290995-orbeats.json](./290995-orbeats.json) |
+| Orbfall | 403097 | [403097-orbfall.json](./403097-orbfall.json) |
 | Orbia | 88028 | [88028-orbia.json](./88028-orbia.json) |
 | Orbifall | 379875 | [379875-orbifall.json](./379875-orbifall.json) |
 | Orbion | 370331 | [370331-orbion.json](./370331-orbion.json) |
