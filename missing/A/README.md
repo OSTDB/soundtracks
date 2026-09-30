@@ -3811,6 +3811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Evening of Wonders | 258941 | [258941-an-evening-of-wonders.json](./258941-an-evening-of-wonders.json) |
 | An Idle Nightmare | 334839 | [334839-an-idle-nightmare.json](./334839-an-idle-nightmare.json) |
 | An Imp and an Impostor | 378174 | [378174-an-imp-and-an-impostor.json](./378174-an-imp-and-an-impostor.json) |
+| An Incremental Game About Placing Blocks | 390177 | [390177-an-incremental-game-about-placing-blocks.json](./390177-an-incremental-game-about-placing-blocks.json) |
 | An Indie Game a Month: Unreal Journey | 190973 | [190973-an-indie-game-a-month-unreal-journey.json](./190973-an-indie-game-a-month-unreal-journey.json) |
 | An Island Away | 293090 | [293090-an-island-away.json](./293090-an-island-away.json) |
 | An Ocean Game | 360588 | [360588-an-ocean-game.json](./360588-an-ocean-game.json) |
@@ -6828,6 +6829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterelis | 118404 | [118404-asterelis.json](./118404-asterelis.json) |
 | Asterfel | 360763 | [360763-asterfel.json](./360763-asterfel.json) |
 | Asterigos: Curse of the Stars - Call of the Paragons | 224114 | [224114-asterigos-curse-of-the-stars-call-of-the-paragons.json](./224114-asterigos-curse-of-the-stars-call-of-the-paragons.json) |
+| Asterisk | 390189 | [390189-asterisk.json](./390189-asterisk.json) |
 | Asterism | 119741 | [119741-asterism.json](./119741-asterism.json) |
 | Asterism: Apex of War | 190088 | [190088-asterism-apex-of-war.json](./190088-asterism-apex-of-war.json) |
 | Asterix | 12242 | [12242-asterix.json](./12242-asterix.json) |
