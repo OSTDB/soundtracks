@@ -1392,6 +1392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weaveborn Heroes | 323517 | [323517-weaveborn-heroes.json](./323517-weaveborn-heroes.json) |
 | Weaver | 209979 | [209979-weaver.json](./209979-weaver.json) |
 | Weaverse | 107678 | [107678-weaverse.json](./107678-weaverse.json) |
+| Weaves of Fate | 53306 | [53306-weaves-of-fate.json](./53306-weaves-of-fate.json) |
 | Web City 1 | 82834 | [82834-web-city-1.json](./82834-web-city-1.json) |
 | Web Crawlies | 236523 | [236523-web-crawlies.json](./236523-web-crawlies.json) |
 | Web Dimension | 172034 | [172034-web-dimension.json](./172034-web-dimension.json) |
