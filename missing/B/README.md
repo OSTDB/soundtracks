@@ -4559,6 +4559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blessed Agony | 299849 | [299849-blessed-agony.json](./299849-blessed-agony.json) |
 | Blessed Curse | 318560 | [318560-blessed-curse.json](./318560-blessed-curse.json) |
 | Blessed Redux | 382201 | [382201-blessed-redux.json](./382201-blessed-redux.json) |
+| Blessed Surface | 76357 | [76357-blessed-surface.json](./76357-blessed-surface.json) |
 | Blessing in the Darkness | 333059 | [333059-blessing-in-the-darkness.json](./333059-blessing-in-the-darkness.json) |
 | Bleu Bayou | 349836 | [349836-bleu-bayou.json](./349836-bleu-bayou.json) |
 | Blewie | 157482 | [157482-blewie.json](./157482-blewie.json) |
@@ -7965,6 +7966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burglar Hunt | 310541 | [310541-burglar-hunt.json](./310541-burglar-hunt.json) |
 | Burglar Inc | 290923 | [290923-burglar-inc.json](./290923-burglar-inc.json) |
 | Burglar X | 40982 | [40982-burglar-x.json](./40982-burglar-x.json) |
+| Burgle Bros | 75825 | [75825-burgle-bros.json](./75825-burgle-bros.json) |
 | BuriBoard | 173256 | [173256-buriboard.json](./173256-buriboard.json) |
 | Buried Alive: Breathless Rescue | 258999 | [258999-buried-alive-breathless-rescue.json](./258999-buried-alive-breathless-rescue.json) |
 | Buried Beneath | 108849 | [108849-buried-beneath.json](./108849-buried-beneath.json) |
