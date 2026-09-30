@@ -5043,6 +5043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Exit | 292540 | [292540-code-exit.json](./292540-code-exit.json) |
 | Code Geass: Hangyaku no Lelouch | 80230 | [80230-code-geass-hangyaku-no-lelouch.json](./80230-code-geass-hangyaku-no-lelouch.json) |
 | Code Lyoko: Get Ready to Virtualize | 8453 | [8453-code-lyoko-get-ready-to-virtualize.json](./8453-code-lyoko-get-ready-to-virtualize.json) |
+| Code My Robot Vacuum | 396524 | [396524-code-my-robot-vacuum.json](./396524-code-my-robot-vacuum.json) |
 | Code Name Teacher | 292307 | [292307-code-name-teacher.json](./292307-code-name-teacher.json) |
 | Code Name: MA | 174835 | [174835-code-name-ma.json](./174835-code-name-ma.json) |
 | Code Name: Viper | 48069 | [48069-code-name-viper.json](./48069-code-name-viper.json) |
