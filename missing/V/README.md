@@ -414,6 +414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanguard: Fight For Rudiarius | 110996 | [110996-vanguard-fight-for-rudiarius.json](./110996-vanguard-fight-for-rudiarius.json) |
 | Vanguard: Normandy 1944 | 110298 | [110298-vanguard-normandy-1944.json](./110298-vanguard-normandy-1944.json) |
 | Vanguards | 30836 | [30836-vanguards.json](./30836-vanguards.json) |
+| Vanilla | 399755 | [399755-vanilla.json](./399755-vanilla.json) |
 | Vanilla Brain Exam | 367608 | [367608-vanilla-brain-exam.json](./367608-vanilla-brain-exam.json) |
 | Vanilla Click | 157177 | [157177-vanilla-click.json](./157177-vanilla-click.json) |
 | Vanilla Inspector | 154019 | [154019-vanilla-inspector.json](./154019-vanilla-inspector.json) |
@@ -1540,6 +1541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Link | 81252 | [81252-void-link.json](./81252-void-link.json) |
 | Void Martyrs | 335686 | [335686-void-martyrs.json](./335686-void-martyrs.json) |
 | Void Miner | 385580 | [385580-void-miner.json](./385580-void-miner.json) |
+| Void Miner | 399780 | [399780-void-miner.json](./399780-void-miner.json) |
 | Void Monsters 2: The Blight | 130164 | [130164-void-monsters-2-the-blight.json](./130164-void-monsters-2-the-blight.json) |
 | Void Nomads | 240777 | [240777-void-nomads.json](./240777-void-nomads.json) |
 | Void of Darkness | 26511 | [26511-void-of-darkness.json](./26511-void-of-darkness.json) |
