@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mabeop Cheonjamun DS | 124789 | [124789-mabeop-cheonjamun-ds.json](./124789-mabeop-cheonjamun-ds.json) |
 | Mabeop Cheonjamun DS 2: The Final Hanja Magic | 124788 | [124788-mabeop-cheonjamun-ds-2-the-final-hanja-magic.json](./124788-mabeop-cheonjamun-ds-2-the-final-hanja-magic.json) |
 | MabinoB G3 | 109188 | [109188-mabinob-g3.json](./109188-mabinob-g3.json) |
+| Mabinogi Duel | 23653 | [23653-mabinogi-duel.json](./23653-mabinogi-duel.json) |
 | Mabinogi Mobile | 188377 | [188377-mabinogi-mobile.json](./188377-mabinogi-mobile.json) |
 | Maboroshi Tsukiyo | 128379 | [128379-maboroshi-tsukiyo.json](./128379-maboroshi-tsukiyo.json) |
 | Macabre no Zantou: Remnants of the Macabre | 309363 | [309363-macabre-no-zantou-remnants-of-the-macabre.json](./309363-macabre-no-zantou-remnants-of-the-macabre.json) |
@@ -2170,6 +2171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Heroes: 033 - Area Mod: Tunnels of Terror | 363473 | [363473-marvel-heroes-033-area-mod-tunnels-of-terror.json](./363473-marvel-heroes-033-area-mod-tunnels-of-terror.json) |
 | Marvel Kapow! | 92612 | [92612-marvel-kapow.json](./92612-marvel-kapow.json) |
 | Marvel Mystic Mayhem | 319970 | [319970-marvel-mystic-mayhem.json](./319970-marvel-mystic-mayhem.json) |
+| Marvel Pinball 3D | 23672 | [23672-marvel-pinball-3d.json](./23672-marvel-pinball-3d.json) |
 | Marvel Pinball: Avengers Chronicles | 20821 | [20821-marvel-pinball-avengers-chronicles.json](./20821-marvel-pinball-avengers-chronicles.json) |
 | Marvel Rivals: Pick-Up Bundle | 355093 | [355093-marvel-rivals-pick-up-bundle.json](./355093-marvel-rivals-pick-up-bundle.json) |
 | Marvel Rivals: PlayStation Exclusive | 355092 | [355092-marvel-rivals-playstation-exclusive.json](./355092-marvel-rivals-playstation-exclusive.json) |
