@@ -4491,6 +4491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playhouse Strip Poker | 55990 | [55990-playhouse-strip-poker.json](./55990-playhouse-strip-poker.json) |
 | Playing Field 2 | 410419 | [410419-playing-field-2.json](./410419-playing-field-2.json) |
 | Playing History - The Plague | 34628 | [34628-playing-history-the-plague.json](./34628-playing-history-the-plague.json) |
+| Playing History 2 - Slave Trade | 12073 | [12073-playing-history-2-slave-trade.json](./12073-playing-history-2-slave-trade.json) |
 | Playing History: Vikings | 12074 | [12074-playing-history-vikings.json](./12074-playing-history-vikings.json) |
 | Playing House | 335262 | [335262-playing-house.json](./335262-playing-house.json) |
 | Playing With Fire 2 | 202372 | [202372-playing-with-fire-2.json](./202372-playing-with-fire-2.json) |
@@ -6528,6 +6529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess in Airiness | 160161 | [160161-princess-in-airiness.json](./160161-princess-in-airiness.json) |
 | Princess in Love | 67663 | [67663-princess-in-love.json](./67663-princess-in-love.json) |
 | Princess Isabella | 36318 | [36318-princess-isabella.json](./36318-princess-isabella.json) |
+| Princess Isabella: Return of the Curse | 17220 | [17220-princess-isabella-return-of-the-curse.json](./17220-princess-isabella-return-of-the-curse.json) |
 | Princess Kaguya | 34914 | [34914-princess-kaguya.json](./34914-princess-kaguya.json) |
 | Princess Knight's Mission: Anna's Marvelous Adventures | 272946 | [272946-princess-knights-mission-annas-marvelous-adventures.json](./272946-princess-knights-mission-annas-marvelous-adventures.json) |
 | Princess Lana | 138687 | [138687-princess-lana.json](./138687-princess-lana.json) |
@@ -6836,6 +6838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Tennis WTA Tour | 242802 | [242802-pro-tennis-wta-tour.json](./242802-pro-tennis-wta-tour.json) |
 | Pro Turkey Hunting | 234077 | [234077-pro-turkey-hunting.json](./234077-pro-turkey-hunting.json) |
 | Pro Wrestling Tycoon | 413165 | [413165-pro-wrestling-tycoon.json](./413165-pro-wrestling-tycoon.json) |
+| Pro Wrestling X | 17337 | [17337-pro-wrestling-x.json](./17337-pro-wrestling-x.json) |
 | Pro Yakyuu Dream Nine Superstars | 220313 | [220313-pro-yakyuu-dream-nine-superstars.json](./220313-pro-yakyuu-dream-nine-superstars.json) |
 | Pro Yakyuu Family Stadium | 218385 | [218385-pro-yakyuu-family-stadium.json](./218385-pro-yakyuu-family-stadium.json) |
 | Pro Yakyuu Family Stadium '88: Nendo-ban | 48304 | [48304-pro-yakyuu-family-stadium-88-nendo-ban.json](./48304-pro-yakyuu-family-stadium-88-nendo-ban.json) |
@@ -7546,6 +7549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psi Project 2 | 26965 | [26965-psi-project-2.json](./26965-psi-project-2.json) |
 | Psi Project: Legacy | 75907 | [75907-psi-project-legacy.json](./75907-psi-project-legacy.json) |
 | Psi-Warrior | 26466 | [26466-psi-warrior.json](./26466-psi-warrior.json) |
+| Psichodelya | 17406 | [17406-psichodelya.json](./17406-psichodelya.json) |
 | Psicose? | 129235 | [129235-psicose.json](./129235-psicose.json) |
 | Psikyo Collection Vol. 2 | 112290 | [112290-psikyo-collection-vol-2.json](./112290-psikyo-collection-vol-2.json) |
 | Psikyo Shooting Library Vol. 1 | 136837 | [136837-psikyo-shooting-library-vol-1.json](./136837-psikyo-shooting-library-vol-1.json) |
