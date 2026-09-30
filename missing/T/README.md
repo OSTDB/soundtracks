@@ -552,6 +552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales from the Road | 135054 | [135054-tales-from-the-road.json](./135054-tales-from-the-road.json) |
 | Tales From The Under-Realm: After Midnight | 301004 | [301004-tales-from-the-under-realm-after-midnight.json](./301004-tales-from-the-under-realm-after-midnight.json) |
 | Tales From The Under-Realm: Hazel | 298566 | [298566-tales-from-the-under-realm-hazel.json](./298566-tales-from-the-under-realm-hazel.json) |
+| Tales from the Watchtower: The Conjurer | 418553 | [418553-tales-from-the-watchtower-the-conjurer.json](./418553-tales-from-the-watchtower-the-conjurer.json) |
 | Tales From Windy Meadow | 55114 | [55114-tales-from-windy-meadow.json](./55114-tales-from-windy-meadow.json) |
 | Tales Noir | 196591 | [196591-tales-noir.json](./196591-tales-noir.json) |
 | Tales of (Working Title) | 131550 | [131550-tales-of-working-title.json](./131550-tales-of-working-title.json) |
@@ -5458,6 +5459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King's League | 294419 | [294419-the-kings-league.json](./294419-the-kings-league.json) |
 | The King's League: Emblems | 294421 | [294421-the-kings-league-emblems.json](./294421-the-kings-league-emblems.json) |
 | The King's Request | 103193 | [103193-the-kings-request.json](./103193-the-kings-request.json) |
+| The King's Side Castle | 418590 | [418590-the-kings-side-castle.json](./418590-the-kings-side-castle.json) |
 | The Kingdom of Christmas: Santa's Elves | 328474 | [328474-the-kingdom-of-christmas-santas-elves.json](./328474-the-kingdom-of-christmas-santas-elves.json) |
 | The Kingdom of God | 371479 | [371479-the-kingdom-of-god.json](./371479-the-kingdom-of-god.json) |
 | The Kings Crusade: Arabian Nights | 10975 | [10975-the-kings-crusade-arabian-nights.json](./10975-the-kings-crusade-arabian-nights.json) |
@@ -6296,6 +6298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Maid | 335680 | [335680-the-maid.json](./335680-the-maid.json) |
 | The Maid-san's Caving Adventure | 90644 | [90644-the-maid-sans-caving-adventure.json](./90644-the-maid-sans-caving-adventure.json) |
 | The Mailroom | 365273 | [365273-the-mailroom.json](./365273-the-mailroom.json) |
+| The Main Menu | 418516 | [418516-the-main-menu.json](./418516-the-main-menu.json) |
 | The Majestic | 211745 | [211745-the-majestic.json](./211745-the-majestic.json) |
 | The Majesty of Colors | 41956 | [41956-the-majesty-of-colors.json](./41956-the-majesty-of-colors.json) |
 | The Maker Way | 392267 | [392267-the-maker-way.json](./392267-the-maker-way.json) |
@@ -7788,6 +7791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sky Crawlers: Innocent Aces | 5160 | [5160-the-sky-crawlers-innocent-aces.json](./5160-the-sky-crawlers-innocent-aces.json) |
 | The Sky House | 305341 | [305341-the-sky-house.json](./305341-the-sky-house.json) |
 | The Sky May Be | 252213 | [252213-the-sky-may-be.json](./252213-the-sky-may-be.json) |
+| The Sky Project: Land of Noris | 418547 | [418547-the-sky-project-land-of-noris.json](./418547-the-sky-project-land-of-noris.json) |
 | The Slasher Camp Massacre | 218738 | [218738-the-slasher-camp-massacre.json](./218738-the-slasher-camp-massacre.json) |
 | The Slater | 104815 | [104815-the-slater.json](./104815-the-slater.json) |
 | The Slaughter: Act One | 16995 | [16995-the-slaughter-act-one.json](./16995-the-slaughter-act-one.json) |
@@ -8574,6 +8578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unseen Fears: Outlive - Collector's Edition | 360664 | [360664-the-unseen-fears-outlive-collectors-edition.json](./360664-the-unseen-fears-outlive-collectors-edition.json) |
 | The Unseen Fears: Stories Untold | 187940 | [187940-the-unseen-fears-stories-untold.json](./187940-the-unseen-fears-stories-untold.json) |
 | The Unsettled | 199665 | [199665-the-unsettled.json](./199665-the-unsettled.json) |
+| The Unsolved | 418549 | [418549-the-unsolved.json](./418549-the-unsolved.json) |
 | The Unsolved | 66216 | [66216-the-unsolved.json](./66216-the-unsolved.json) |
 | The Unspoken | 25908 | [25908-the-unspoken.json](./25908-the-unspoken.json) |
 | The Untamed | 193893 | [193893-the-untamed.json](./193893-the-untamed.json) |
@@ -8671,6 +8676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Waifu Game | 292681 | [292681-the-waifu-game.json](./292681-the-waifu-game.json) |
 | The Wailing of the Forest | 385062 | [385062-the-wailing-of-the-forest.json](./385062-the-wailing-of-the-forest.json) |
 | The Wait | 128605 | [128605-the-wait.json](./128605-the-wait.json) |
+| The Wake Event | 418564 | [418564-the-wake-event.json](./418564-the-wake-event.json) |
 | The Wake of the Wyrm | 415904 | [415904-the-wake-of-the-wyrm.json](./415904-the-wake-of-the-wyrm.json) |
 | The Walk | 375939 | [375939-the-walk.json](./375939-the-walk.json) |
 | The Walking Dead: A New Frontier - Episode 2: Ties That Bind - Part Two | 127063 | [127063-the-walking-dead-a-new-frontier-episode-2-ties-that-bind-part-two.json](./127063-the-walking-dead-a-new-frontier-episode-2-ties-that-bind-part-two.json) |
@@ -9776,6 +9782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidy Backpack | 309874 | [309874-tidy-backpack.json](./309874-tidy-backpack.json) |
 | Tidy Up: Electronic Store Simulator | 416679 | [416679-tidy-up-electronic-store-simulator.json](./416679-tidy-up-electronic-store-simulator.json) |
 | Tidy Up: Spaceship | 410257 | [410257-tidy-up-spaceship.json](./410257-tidy-up-spaceship.json) |
+| TidyUp 2000 | 418503 | [418503-tidyup-2000.json](./418503-tidyup-2000.json) |
 | Tie Break Tennis | 125970 | [125970-tie-break-tennis.json](./125970-tie-break-tennis.json) |
 | Tie Dye | 237634 | [237634-tie-dye.json](./237634-tie-dye.json) |
 | Tie-Break | 37284 | [37284-tie-break.json](./37284-tie-break.json) |
@@ -15449,6 +15456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Point Hospital: Bigfoot | 144913 | [144913-two-point-hospital-bigfoot.json](./144913-two-point-hospital-bigfoot.json) |
 | Two Point Hospital: Close Encounters | 144912 | [144912-two-point-hospital-close-encounters.json](./144912-two-point-hospital-close-encounters.json) |
 | Two Point Museum | 313595 | [313595-two-point-museum.json](./313595-two-point-museum.json) |
+| Two Point Museum: Rides & Relics | 418502 | [418502-two-point-museum-rides-and-relics.json](./418502-two-point-museum-rides-and-relics.json) |
 | Two Point Museum: Sonic Pre-order Pack | 375175 | [375175-two-point-museum-sonic-pre-order-pack.json](./375175-two-point-museum-sonic-pre-order-pack.json) |
 | Two Point Museum: Zooseum | 378210 | [378210-two-point-museum-zooseum.json](./378210-two-point-museum-zooseum.json) |
 | Two Portals: A Gemstone Puzzle Game | 247501 | [247501-two-portals-a-gemstone-puzzle-game.json](./247501-two-portals-a-gemstone-puzzle-game.json) |
