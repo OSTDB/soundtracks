@@ -6480,6 +6480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sloper | 89998 | [89998-sloper.json](./89998-sloper.json) |
 | Sloppy Eater: Meal Deal Edition | 186638 | [186638-sloppy-eater-meal-deal-edition.json](./186638-sloppy-eater-meal-deal-edition.json) |
 | Slordax: The Unknown Enemy | 73244 | [73244-slordax-the-unknown-enemy.json](./73244-slordax-the-unknown-enemy.json) |
+| Slorpus Slaughter VII: Singular Shoot Soul | 391245 | [391245-slorpus-slaughter-vii-singular-shoot-soul.json](./391245-slorpus-slaughter-vii-singular-shoot-soul.json) |
 | Slot & Learn Hangul | 409555 | [409555-slot-and-learn-hangul.json](./409555-slot-and-learn-hangul.json) |
 | Slot & Learn Kanji | 300832 | [300832-slot-and-learn-kanji.json](./300832-slot-and-learn-kanji.json) |
 | Slot & Learn Katakana | 403732 | [403732-slot-and-learn-katakana.json](./403732-slot-and-learn-katakana.json) |
@@ -15733,6 +15734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperHyperCube | 20332 | [20332-superhypercube.json](./20332-superhypercube.json) |
 | Superior IQ | 369637 | [369637-superior-iq.json](./369637-superior-iq.json) |
 | Superior Wizards | 110134 | [110134-superior-wizards.json](./110134-superior-wizards.json) |
+| SuperJumpWorld Rage | 391299 | [391299-superjumpworld-rage.json](./391299-superjumpworld-rage.json) |
 | Superkid | 123064 | [123064-superkid.json](./123064-superkid.json) |
 | Superku | 34343 | [34343-superku.json](./34343-superku.json) |
 | SuperLandlady | 237657 | [237657-superlandlady.json](./237657-superlandlady.json) |
@@ -16043,6 +16045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive 10 Minutes Please | 201323 | [201323-survive-10-minutes-please.json](./201323-survive-10-minutes-please.json) |
 | Survive and Revenge | 236285 | [236285-survive-and-revenge.json](./236285-survive-and-revenge.json) |
 | Survive Avalon | 158709 | [158709-survive-avalon.json](./158709-survive-avalon.json) |
+| Survive Disasters Apocalypse | 391248 | [391248-survive-disasters-apocalypse.json](./391248-survive-disasters-apocalypse.json) |
 | Survive in a little bit | 117698 | [117698-survive-in-a-little-bit.json](./117698-survive-in-a-little-bit.json) |
 | Survive in Angaria | 90125 | [90125-survive-in-angaria.json](./90125-survive-in-angaria.json) |
 | Survive In Strange World | 288810 | [288810-survive-in-strange-world.json](./288810-survive-in-strange-world.json) |
