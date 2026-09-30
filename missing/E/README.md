@@ -574,6 +574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edward's Manor | 319349 | [319349-edwards-manor.json](./319349-edwards-manor.json) |
 | Edward's Sewer Adventure | 304109 | [304109-edwards-sewer-adventure.json](./304109-edwards-sewer-adventure.json) |
 | Edwin Earstwhile: Medical Examiner | 404924 | [404924-edwin-earstwhile-medical-examiner.json](./404924-edwin-earstwhile-medical-examiner.json) |
+| Eek! The Cat | 42613 | [42613-eek-the-cat.json](./42613-eek-the-cat.json) |
 | EEK3 Virtual Show Floor | 145630 | [145630-eek3-virtual-show-floor.json](./145630-eek3-virtual-show-floor.json) |
 | Eel Game | 361295 | [361295-eel-game.json](./361295-eel-game.json) |
 | Een Wonderlijk Avontuur met Pardoes de Tovernar | 242643 | [242643-een-wonderlijk-avontuur-met-pardoes-de-tovernar.json](./242643-een-wonderlijk-avontuur-met-pardoes-de-tovernar.json) |
