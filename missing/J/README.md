@@ -362,7 +362,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japanese Rail Sim 3D: 5 types of trains | 147915 | [147915-japanese-rail-sim-3d-5-types-of-trains.json](./147915-japanese-rail-sim-3d-5-types-of-trains.json) |
 | Japanese Rail Sim: Hakone Town of Natural Beauty and Hot Springs | 315837 | [315837-japanese-rail-sim-hakone-town-of-natural-beauty-and-hot-springs.json](./315837-japanese-rail-sim-hakone-town-of-natural-beauty-and-hot-springs.json) |
 | Japanese Rail Sim: Journey to Kyoto | 139991 | [139991-japanese-rail-sim-journey-to-kyoto.json](./139991-japanese-rail-sim-journey-to-kyoto.json) |
+| Japanese Ramen Simulator | 414484 | [414484-japanese-ramen-simulator.json](./414484-japanese-ramen-simulator.json) |
 | Japanese School Life | 26136 | [26136-japanese-school-life.json](./26136-japanese-school-life.json) |
+| Japanese Swordsmith | 414530 | [414530-japanese-swordsmith.json](./414530-japanese-swordsmith.json) |
 | Japanese TeTris | 211156 | [211156-japanese-tetris.json](./211156-japanese-tetris.json) |
 | Japaritale | 313292 | [313292-japaritale.json](./313292-japaritale.json) |
 | Japocaliptyca | 120358 | [120358-japocaliptyca.json](./120358-japocaliptyca.json) |
