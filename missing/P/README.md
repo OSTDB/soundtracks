@@ -3503,6 +3503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates Golden Quest | 300854 | [300854-pirates-golden-quest.json](./300854-pirates-golden-quest.json) |
 | Pirates Kingdom | 323170 | [323170-pirates-kingdom.json](./323170-pirates-kingdom.json) |
 | Pirates Odyssey | 270122 | [270122-pirates-odyssey.json](./270122-pirates-odyssey.json) |
+| Pirates of Black Cove | 2067 | [2067-pirates-of-black-cove.json](./2067-pirates-of-black-cove.json) |
 | Pirates of Black Cove: Sink 'Em All | 120210 | [120210-pirates-of-black-cove-sink-em-all.json](./120210-pirates-of-black-cove-sink-em-all.json) |
 | Pirates of Donkey Island | 276321 | [276321-pirates-of-donkey-island.json](./276321-pirates-of-donkey-island.json) |
 | Pirates of First Star | 115668 | [115668-pirates-of-first-star.json](./115668-pirates-of-first-star.json) |
@@ -7963,6 +7964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putt Putt Golf | 41311 | [41311-putt-putt-golf.json](./41311-putt-putt-golf.json) |
 | Putt Putt Golf 3D | 175419 | [175419-putt-putt-golf-3d.json](./175419-putt-putt-golf-3d.json) |
 | Putt Putt World - AR Mini Golf | 105898 | [105898-putt-putt-world-ar-mini-golf.json](./105898-putt-putt-world-ar-mini-golf.json) |
+| Putt-Putt and Pep's Balloon-O-Rama | 3742 | [3742-putt-putt-and-peps-balloon-o-rama.json](./3742-putt-putt-and-peps-balloon-o-rama.json) |
 | Putt-Putt Enters the Race | 3738 | [3738-putt-putt-enters-the-race.json](./3738-putt-putt-enters-the-race.json) |
 | Putt-Putt Goes to the Moon | 3734 | [3734-putt-putt-goes-to-the-moon.json](./3734-putt-putt-goes-to-the-moon.json) |
 | Putt-Putt Joins the Circus | 3739 | [3739-putt-putt-joins-the-circus.json](./3739-putt-putt-joins-the-circus.json) |
