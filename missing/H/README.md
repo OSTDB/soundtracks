@@ -2997,6 +2997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexion | 40197 | [40197-hexion.json](./40197-hexion.json) |
 | Hexion | 96216 | [96216-hexion.json](./96216-hexion.json) |
 | Hexis | 291582 | [291582-hexis.json](./291582-hexis.json) |
+| Hexistence | 394442 | [394442-hexistence.json](./394442-hexistence.json) |
 | HexLab | 97090 | [97090-hexlab.json](./97090-hexlab.json) |
 | Hexland Heroes | 98024 | [98024-hexland-heroes.json](./98024-hexland-heroes.json) |
 | HexLand: Rise of Blue | 221678 | [221678-hexland-rise-of-blue.json](./221678-hexland-rise-of-blue.json) |
@@ -4238,6 +4239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home From Work 2 | 213371 | [213371-home-from-work-2.json](./213371-home-from-work-2.json) |
 | Home From Work 3 | 213372 | [213372-home-from-work-3.json](./213372-home-from-work-3.json) |
 | Home Game 3 | 243397 | [243397-home-game-3.json](./243397-home-game-3.json) |
+| Home Garden Lulu | 394461 | [394461-home-garden-lulu.json](./394461-home-garden-lulu.json) |
 | Home Improvisation: Furniture Sandbox | 16301 | [16301-home-improvisation-furniture-sandbox.json](./16301-home-improvisation-furniture-sandbox.json) |
 | Home In Alien | 285566 | [285566-home-in-alien.json](./285566-home-in-alien.json) |
 | Home Is Where the Haunt Is | 362881 | [362881-home-is-where-the-haunt-is.json](./362881-home-is-where-the-haunt-is.json) |
@@ -4458,6 +4460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hood Story: Kaito Yamazaki | 216717 | [216717-hood-story-kaito-yamazaki.json](./216717-hood-story-kaito-yamazaki.json) |
 | Hood: Outlaws & Legends | 136512 | [136512-hood-outlaws-and-legends.json](./136512-hood-outlaws-and-legends.json) |
 | Hood: Outlaws & Legends - Year 1 Edition | 169193 | [169193-hood-outlaws-and-legends-year-1-edition.json](./169193-hood-outlaws-and-legends-year-1-edition.json) |
+| Hoodbound | 394478 | [394478-hoodbound.json](./394478-hoodbound.json) |
 | Hoodies Squad: Alcoholypse | 298115 | [298115-hoodies-squad-alcoholypse.json](./298115-hoodies-squad-alcoholypse.json) |
 | Hoodoo Voodoo | 13879 | [13879-hoodoo-voodoo.json](./13879-hoodoo-voodoo.json) |
 | Hoodsters | 259536 | [259536-hoodsters.json](./259536-hoodsters.json) |
@@ -4777,6 +4780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoshi no Mahoroba | 204481 | [204481-hoshi-no-mahoroba.json](./204481-hoshi-no-mahoroba.json) |
 | Hoshi no Natchan | 285452 | [285452-hoshi-no-natchan.json](./285452-hoshi-no-natchan.json) |
 | Hoshi no Ouji-sama | 368555 | [368555-hoshi-no-ouji-sama.json](./368555-hoshi-no-ouji-sama.json) |
+| Hoshi no Shirusu Shinjitsu | 394495 | [394495-hoshi-no-shirusu-shinjitsu.json](./394495-hoshi-no-shirusu-shinjitsu.json) |
 | Hoshi Ori Yume Mirai: Perfect Edition | 150036 | [150036-hoshi-ori-yume-mirai-perfect-edition.json](./150036-hoshi-ori-yume-mirai-perfect-edition.json) |
 | Hoshi Ori Yume Mirai: Rikka to Anata no 1-Shuunen Kinen, Icha Love Birthday | 408145 | [408145-hoshi-ori-yume-mirai-rikka-to-anata-no-1-shuunen-kinen-icha-love-birthday.json](./408145-hoshi-ori-yume-mirai-rikka-to-anata-no-1-shuunen-kinen-icha-love-birthday.json) |
 | Hoshi Saga 5: Ringoame | 377262 | [377262-hoshi-saga-5-ringoame.json](./377262-hoshi-saga-5-ringoame.json) |
