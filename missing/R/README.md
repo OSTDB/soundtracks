@@ -2924,6 +2924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RetroMaze | 99060 | [99060-retromaze.json](./99060-retromaze.json) |
 | Retromine | 382447 | [382447-retromine.json](./382447-retromine.json) |
 | RetroMMO | 140518 | [140518-retrommo.json](./140518-retrommo.json) |
+| Retroneer | 392359 | [392359-retroneer.json](./392359-retroneer.json) |
 | Retroplay Controller | 287666 | [287666-retroplay-controller.json](./287666-retroplay-controller.json) |
 | RetroQuest | 45332 | [45332-retroquest.json](./45332-retroquest.json) |
 | RetroRaider II: Lara's Quest Continues | 55914 | [55914-retroraider-ii-laras-quest-continues.json](./55914-retroraider-ii-laras-quest-continues.json) |
@@ -6178,6 +6179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruthnar Online | 293325 | [293325-ruthnar-online.json](./293325-ruthnar-online.json) |
 | Rutrum | 406896 | [406896-rutrum.json](./406896-rutrum.json) |
 | Rutterkin | 416685 | [416685-rutterkin.json](./416685-rutterkin.json) |
+| Ruukoto the Robot | 392353 | [392353-ruukoto-the-robot.json](./392353-ruukoto-the-robot.json) |
 | Ruyn HD | 345565 | [345565-ruyn-hd.json](./345565-ruyn-hd.json) |
 | Ruzar: The Dark Stones | 310217 | [310217-ruzar-the-dark-stones.json](./310217-ruzar-the-dark-stones.json) |
 | Ruzzle | 58212 | [58212-ruzzle.json](./58212-ruzzle.json) |
