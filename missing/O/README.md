@@ -1900,6 +1900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ore ga Omae wo Mamoru | 69213 | [69213-ore-ga-omae-wo-mamoru.json](./69213-ore-ga-omae-wo-mamoru.json) |
 | Ore ga Watashi ni Kawatta Hi...: Becoming a She | 224208 | [224208-ore-ga-watashi-ni-kawatta-hi-becoming-a-she.json](./224208-ore-ga-watashi-ni-kawatta-hi-becoming-a-she.json) |
 | Ore ga Watashi ni Kawatta Hi...: Becoming a She | 227877 | [227877-ore-ga-watashi-ni-kawatta-hi-becoming-a-she.json](./227877-ore-ga-watashi-ni-kawatta-hi-becoming-a-she.json) |
+| Ore Klast | 410404 | [410404-ore-klast.json](./410404-ore-klast.json) |
 | Ore Market Masters Simulator | 326393 | [326393-ore-market-masters-simulator.json](./326393-ore-market-masters-simulator.json) |
 | Ore ni Hatarakette Iwaretemo Tori | 60197 | [60197-ore-ni-hatarakette-iwaretemo-tori.json](./60197-ore-ni-hatarakette-iwaretemo-tori.json) |
 | Ore no Dungeon | 58165 | [58165-ore-no-dungeon.json](./58165-ore-no-dungeon.json) |
