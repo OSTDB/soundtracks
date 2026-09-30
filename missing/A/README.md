@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game of Concentration | 40723 | [40723-a-game-of-concentration.json](./40723-a-game-of-concentration.json) |
 | A Game of Dwarves: Star Dwarves | 171034 | [171034-a-game-of-dwarves-star-dwarves.json](./171034-a-game-of-dwarves-star-dwarves.json) |
 | A Game of Tennis | 92621 | [92621-a-game-of-tennis.json](./92621-a-game-of-tennis.json) |
+| A Game of Thrones: Genesis | 15058 | [15058-a-game-of-thrones-genesis.json](./15058-a-game-of-thrones-genesis.json) |
 | A Game of Thrones: The Board Game - Digital Edition | 139376 | [139376-a-game-of-thrones-the-board-game-digital-edition.json](./139376-a-game-of-thrones-the-board-game-digital-edition.json) |
 | A Game That Rhymes With Grug | 351703 | [351703-a-game-that-rhymes-with-grug.json](./351703-a-game-that-rhymes-with-grug.json) |
 | A Game With a Kitty | 74789 | [74789-a-game-with-a-kitty.json](./74789-a-game-with-a-kitty.json) |
@@ -938,6 +939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aceonline: DuelX | 95871 | [95871-aceonline-duelx.json](./95871-aceonline-duelx.json) |
 | Aces of the Air | 43938 | [43938-aces-of-the-air.json](./43938-aces-of-the-air.json) |
 | Aces of the Deep | 12384 | [12384-aces-of-the-deep.json](./12384-aces-of-the-deep.json) |
+| Aces of the Galaxy | 15766 | [15766-aces-of-the-galaxy.json](./15766-aces-of-the-galaxy.json) |
 | Aces of the Luftwaffe | 35650 | [35650-aces-of-the-luftwaffe.json](./35650-aces-of-the-luftwaffe.json) |
 | Aces of the Luftwaffe: Squadron - Extended Edition | 119084 | [119084-aces-of-the-luftwaffe-squadron-extended-edition.json](./119084-aces-of-the-luftwaffe-squadron-extended-edition.json) |
 | Aces of the Pacific | 12385 | [12385-aces-of-the-pacific.json](./12385-aces-of-the-pacific.json) |
@@ -1939,6 +1941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Dash | 76691 | [76691-air-dash.json](./76691-air-dash.json) |
 | Air Defence | 250902 | [250902-air-defence.json](./250902-air-defence.json) |
 | Air Delivery | 285591 | [285591-air-delivery.json](./285591-air-delivery.json) |
+| Air Duel | 10445 | [10445-air-duel.json](./10445-air-duel.json) |
 | Air Force Commander | 14231 | [14231-air-force-commander.json](./14231-air-force-commander.json) |
 | Air Force Commander: Combat Arms Fighter Shooting Attack | 88738 | [88738-air-force-commander-combat-arms-fighter-shooting-attack.json](./88738-air-force-commander-combat-arms-fighter-shooting-attack.json) |
 | Air Force Gear | 125271 | [125271-air-force-gear.json](./125271-air-force-gear.json) |
@@ -2588,6 +2591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Breed Evolution | 21109 | [21109-alien-breed-evolution.json](./21109-alien-breed-evolution.json) |
 | Alien Breed II: The Horror Continues | 14241 | [14241-alien-breed-ii-the-horror-continues.json](./14241-alien-breed-ii-the-horror-continues.json) |
 | Alien Breed Special Edition / Qwak | 82505 | [82505-alien-breed-special-edition-qwak.json](./82505-alien-breed-special-edition-qwak.json) |
+| Alien Breed: Special Edition 92 | 14596 | [14596-alien-breed-special-edition-92.json](./14596-alien-breed-special-edition-92.json) |
 | Alien Bubble Destroyer | 81998 | [81998-alien-bubble-destroyer.json](./81998-alien-bubble-destroyer.json) |
 | Alien Cabal | 62149 | [62149-alien-cabal.json](./62149-alien-cabal.json) |
 | Alien Cartographer | 374594 | [374594-alien-cartographer.json](./374594-alien-cartographer.json) |
@@ -4304,6 +4308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anjail! | 407307 | [407307-anjail.json](./407307-anjail.json) |
 | Anjelo's Province | 265702 | [265702-anjelos-province.json](./265702-anjelos-province.json) |
 | Anjos do Duelo | 393109 | [393109-anjos-do-duelo.json](./393109-anjos-do-duelo.json) |
+| Ankh 2: Heart of Osiris | 15785 | [15785-ankh-2-heart-of-osiris.json](./15785-ankh-2-heart-of-osiris.json) |
 | Ankh 2: Tutankhamun no Nazo | 234163 | [234163-ankh-2-tutankhamun-no-nazo.json](./234163-ankh-2-tutankhamun-no-nazo.json) |
 | Ankh 3: Battle of the Gods | 25466 | [25466-ankh-3-battle-of-the-gods.json](./25466-ankh-3-battle-of-the-gods.json) |
 | Ankh 3: Ramusesu Dai-ou no Nazo | 234165 | [234165-ankh-3-ramusesu-dai-ou-no-nazo.json](./234165-ankh-3-ramusesu-dai-ou-no-nazo.json) |
@@ -6755,6 +6760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Battlers TD | 203241 | [203241-astro-battlers-td.json](./203241-astro-battlers-td.json) |
 | Astro Bears Party | 54774 | [54774-astro-bears-party.json](./54774-astro-bears-party.json) |
 | Astro Bears: Non-Bears | 238446 | [238446-astro-bears-non-bears.json](./238446-astro-bears-non-bears.json) |
+| Astro Blaster | 13959 | [13959-astro-blaster.json](./13959-astro-blaster.json) |
 | Astro Blox Revisited | 241655 | [241655-astro-blox-revisited.json](./241655-astro-blox-revisited.json) |
 | Astro Bot: Digital Deluxe Edition | 407460 | [407460-astro-bot-digital-deluxe-edition.json](./407460-astro-bot-digital-deluxe-edition.json) |
 | Astro Bot: Rescue Mission | 102129 | [102129-astro-bot-rescue-mission.json](./102129-astro-bot-rescue-mission.json) |
@@ -7202,6 +7208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack of the Killer Beast | 234710 | [234710-attack-of-the-killer-beast.json](./234710-attack-of-the-killer-beast.json) |
 | Attack of the Killer Tomatoes | 273079 | [273079-attack-of-the-killer-tomatoes.json](./273079-attack-of-the-killer-tomatoes.json) |
 | Attack of the Killer Tomatoes | 7761 | [7761-attack-of-the-killer-tomatoes.json](./7761-attack-of-the-killer-tomatoes.json) |
+| Attack of the Mutant Camels | 13823 | [13823-attack-of-the-mutant-camels.json](./13823-attack-of-the-mutant-camels.json) |
 | Attack of the Mutant Camels '89 | 318633 | [318633-attack-of-the-mutant-camels-89.json](./318633-attack-of-the-mutant-camels-89.json) |
 | Attack of the Mutant Penguins | 40819 | [40819-attack-of-the-mutant-penguins.json](./40819-attack-of-the-mutant-penguins.json) |
 | Attack of the Petscii Robots | 159163 | [159163-attack-of-the-petscii-robots.json](./159163-attack-of-the-petscii-robots.json) |
@@ -7290,6 +7297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Audiosurf 2 | 9707 | [9707-audiosurf-2.json](./9707-audiosurf-2.json) |
 | Audition 2 | 135805 | [135805-audition-2.json](./135805-audition-2.json) |
 | Audition Portable | 56520 | [56520-audition-portable.json](./56520-audition-portable.json) |
+| Auditorium | 15282 | [15282-auditorium.json](./15282-auditorium.json) |
 | Audo | 181348 | [181348-audo.json](./181348-audo.json) |
 | Audrey & Alexis | 100816 | [100816-audrey-and-alexis.json](./100816-audrey-and-alexis.json) |
 | Audubon Whales: Wildlife Adventure | 240150 | [240150-audubon-whales-wildlife-adventure.json](./240150-audubon-whales-wildlife-adventure.json) |
@@ -7724,6 +7732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AxE: Alliance Vs Empire | 125351 | [125351-axe-alliance-vs-empire.json](./125351-axe-alliance-vs-empire.json) |
 | Axe.io | 100358 | [100358-axe-io.json](./100358-axe-io.json) |
 | Axegend | 131596 | [131596-axegend.json](./131596-axegend.json) |
+| Axel & Pixel | 14845 | [14845-axel-and-pixel.json](./14845-axel-and-pixel.json) |
 | Axel City | 124767 | [124767-axel-city.json](./124767-axel-city.json) |
 | Axes and Arrows | 34355 | [34355-axes-and-arrows.json](./34355-axes-and-arrows.json) |
 | AxeSlinger | 382299 | [382299-axeslinger.json](./382299-axeslinger.json) |
