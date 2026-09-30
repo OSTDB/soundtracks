@@ -1993,6 +1993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gimme a Break: Shijou Saikyou no Quiz-ou Ketteisen | 267651 | [267651-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen.json](./267651-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen.json) |
 | Gimme a Break: Shijou Saikyou no Quiz-ou Ketteisen 2 | 267652 | [267652-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen-2.json](./267652-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen-2.json) |
 | Gimme Five | 56468 | [56468-gimme-five.json](./56468-gimme-five.json) |
+| Gimme Space Battle | 401611 | [401611-gimme-space-battle.json](./401611-gimme-space-battle.json) |
 | Gimmick in the Chaos Dimension | 144880 | [144880-gimmick-in-the-chaos-dimension.json](./144880-gimmick-in-the-chaos-dimension.json) |
 | Gimmick: Exact Mix | 206146 | [206146-gimmick-exact-mix.json](./206146-gimmick-exact-mix.json) |
 | Gimmick! 2 | 306562 | [306562-gimmick-2.json](./306562-gimmick-2.json) |
@@ -2167,6 +2168,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiate! | 301947 | [301947-gladiate.json](./301947-gladiate.json) |
 | Gladiato Potato | 349387 | [349387-gladiato-potato.json](./349387-gladiato-potato.json) |
 | Gladiator | 194615 | [194615-gladiator.json](./194615-gladiator.json) |
+| Gladiator | 401715 | [401715-gladiator.json](./401715-gladiator.json) |
+| Gladiator | 401718 | [401718-gladiator.json](./401718-gladiator.json) |
 | Gladiator of sparta | 173275 | [173275-gladiator-of-sparta.json](./173275-gladiator-of-sparta.json) |
 | Gladiator Rising 2 | 297578 | [297578-gladiator-rising-2.json](./297578-gladiator-rising-2.json) |
 | Gladiator School | 284329 | [284329-gladiator-school.json](./284329-gladiator-school.json) |
@@ -4120,6 +4123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grey Area | 240765 | [240765-grey-area.json](./240765-grey-area.json) |
 | Grey Block | 190454 | [190454-grey-block.json](./190454-grey-block.json) |
 | Grey Bones | 164505 | [164505-grey-bones.json](./164505-grey-bones.json) |
+| Grey Cat | 401701 | [401701-grey-cat.json](./401701-grey-cat.json) |
 | Grey Cubes | 35226 | [35226-grey-cubes.json](./35226-grey-cubes.json) |
 | Grey Galactic | 236950 | [236950-grey-galactic.json](./236950-grey-galactic.json) |
 | Grey Goo Definitive Edition | 54057 | [54057-grey-goo-definitive-edition.json](./54057-grey-goo-definitive-edition.json) |
