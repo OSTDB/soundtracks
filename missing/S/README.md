@@ -5745,6 +5745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skinscape | 102358 | [102358-skinscape.json](./102358-skinscape.json) |
 | Skinwalkers | 150625 | [150625-skinwalkers.json](./150625-skinwalkers.json) |
 | Skinwalkers Valley | 379339 | [379339-skinwalkers-valley.json](./379339-skinwalkers-valley.json) |
+| Skinwoods: The Full Cut | 390737 | [390737-skinwoods-the-full-cut.json](./390737-skinwoods-the-full-cut.json) |
 | Skip Ahead | 307607 | [307607-skip-ahead.json](./307607-skip-ahead.json) |
 | Skip Around The World: Finland | 310947 | [310947-skip-around-the-world-finland.json](./310947-skip-around-the-world-finland.json) |
 | Skipchaser | 31927 | [31927-skipchaser.json](./31927-skipchaser.json) |
@@ -5762,6 +5763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skolios | 243784 | [243784-skolios.json](./243784-skolios.json) |
 | Skollorn | 402502 | [402502-skollorn.json](./402502-skollorn.json) |
 | Skoof Fishing | 356663 | [356663-skoof-fishing.json](./356663-skoof-fishing.json) |
+| Skool Days | 390734 | [390734-skool-days.json](./390734-skool-days.json) |
 | Skools Out | 338809 | [338809-skools-out.json](./338809-skools-out.json) |
 | Skoory Rush | 250463 | [250463-skoory-rush.json](./250463-skoory-rush.json) |
 | Skout | 9358 | [9358-skout.json](./9358-skout.json) |
@@ -6266,6 +6268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slick Slack | 277300 | [277300-slick-slack.json](./277300-slick-slack.json) |
 | Slick Tricks: Potion Persuasion! | 386101 | [386101-slick-tricks-potion-persuasion.json](./386101-slick-tricks-potion-persuasion.json) |
 | Slicy Flips | 322977 | [322977-slicy-flips.json](./322977-slicy-flips.json) |
+| Slide & Magic | 390729 | [390729-slide-and-magic.json](./390729-slide-and-magic.json) |
 | Slide 2 Solve Puzzle | 175341 | [175341-slide-2-solve-puzzle.json](./175341-slide-2-solve-puzzle.json) |
 | Slide Circus HD | 235154 | [235154-slide-circus-hd.json](./235154-slide-circus-hd.json) |
 | Slide Defenders | 334079 | [334079-slide-defenders.json](./334079-slide-defenders.json) |
@@ -11109,6 +11112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Aegis | 155996 | [155996-star-aegis.json](./155996-star-aegis.json) |
 | Star Ally | 246403 | [246403-star-ally.json](./246403-star-ally.json) |
 | Star and Light | 134508 | [134508-star-and-light.json](./134508-star-and-light.json) |
+| Star Apoligce: Survivors | 390735 | [390735-star-apoligce-survivors.json](./390735-star-apoligce-survivors.json) |
 | Star Apprentice: Dazzling Danmaku Detective | 260235 | [260235-star-apprentice-dazzling-danmaku-detective.json](./260235-star-apprentice-dazzling-danmaku-detective.json) |
 | Star Apprentice: Magical Murder Mystery | 153909 | [153909-star-apprentice-magical-murder-mystery.json](./153909-star-apprentice-magical-murder-mystery.json) |
 | Star Aquarium | 348803 | [348803-star-aquarium.json](./348803-star-aquarium.json) |
@@ -12023,6 +12027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starvation | 213360 | [213360-starvation.json](./213360-starvation.json) |
 | Starvault | 341684 | [341684-starvault.json](./341684-starvault.json) |
 | Starve.io | 79268 | [79268-starve-io.json](./79268-starve-io.json) |
+| Starving Merchant | 390760 | [390760-starving-merchant.json](./390760-starving-merchant.json) |
 | Starward Rogue: Complete Edition | 283159 | [283159-starward-rogue-complete-edition.json](./283159-starward-rogue-complete-edition.json) |
 | Starwave | 306943 | [306943-starwave.json](./306943-starwave.json) |
 | Starway Ateez | 315487 | [315487-starway-ateez.json](./315487-starway-ateez.json) |
@@ -16263,6 +16268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swan Song | 257090 | [257090-swan-song.json](./257090-swan-song.json) |
 | Swan's Song | 342283 | [342283-swans-song.json](./342283-swans-song.json) |
 | Swangman | 183366 | [183366-swangman.json](./183366-swangman.json) |
+| Swans At The Welkin | 390718 | [390718-swans-at-the-welkin.json](./390718-swans-at-the-welkin.json) |
 | Swap | 219556 | [219556-swap.json](./219556-swap.json) |
 | Swap | 93171 | [93171-swap.json](./93171-swap.json) |
 | Swap Blocks | 44217 | [44217-swap-blocks.json](./44217-swap-blocks.json) |
