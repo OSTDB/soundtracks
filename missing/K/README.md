@@ -292,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamiko | 28015 | [28015-kamiko.json](./28015-kamiko.json) |
 | Kamikomori | 358504 | [358504-kamikomori.json](./358504-kamikomori.json) |
 | Kamikuishiki-mura Monogatari | 130768 | [130768-kamikuishiki-mura-monogatari.json](./130768-kamikuishiki-mura-monogatari.json) |
+| Kamikura Hina no Himitsu: Gohoubi ha Watashi no Karada | 396484 | [396484-kamikura-hina-no-himitsu-gohoubi-ha-watashi-no-karada.json](./396484-kamikura-hina-no-himitsu-gohoubi-ha-watashi-no-karada.json) |
 | Kamimachi Site - Dating story | 118287 | [118287-kamimachi-site-dating-story.json](./118287-kamimachi-site-dating-story.json) |
 | Kaminariko Konpeki no Akira | 221246 | [221246-kaminariko-konpeki-no-akira.json](./221246-kaminariko-konpeki-no-akira.json) |
 | Kaminazo: Mirai kara no Omoi de | 222261 | [222261-kaminazo-mirai-kara-no-omoi-de.json](./222261-kaminazo-mirai-kara-no-omoi-de.json) |
@@ -1693,6 +1694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingsman: The Golden Circle | 54712 | [54712-kingsman-the-golden-circle.json](./54712-kingsman-the-golden-circle.json) |
 | Kingspray Graffiti | 26358 | [26358-kingspray-graffiti.json](./26358-kingspray-graffiti.json) |
 | Kingsvein | 243670 | [243670-kingsvein.json](./243670-kingsvein.json) |
+| Kinguin: Become a Streaming Legend | 396493 | [396493-kinguin-become-a-streaming-legend.json](./396493-kinguin-become-a-streaming-legend.json) |
 | Kingyo Chuuihou! 2 Gyopi-chan wo Sagase! | 194939 | [194939-kingyo-chuuihou-2-gyopi-chan-wo-sagase.json](./194939-kingyo-chuuihou-2-gyopi-chan-wo-sagase.json) |
 | Kingyo Chuuihou! Tobidase! Game Gakuen | 37959 | [37959-kingyo-chuuihou-tobidase-game-gakuen.json](./37959-kingyo-chuuihou-tobidase-game-gakuen.json) |
 | Kingyo Chuuihou! Wapiko no Waku-waku Stamp Rally | 194938 | [194938-kingyo-chuuihou-wapiko-no-waku-waku-stamp-rally.json](./194938-kingyo-chuuihou-wapiko-no-waku-waku-stamp-rally.json) |
