@@ -1376,6 +1376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oneiros | 102965 | [102965-oneiros.json](./102965-oneiros.json) |
 | OneJump | 131619 | [131619-onejump.json](./131619-onejump.json) |
 | OneKind | 302372 | [302372-onekind.json](./302372-onekind.json) |
+| Oneli | 388348 | [388348-oneli.json](./388348-oneli.json) |
 | OneMaze.io | 98444 | [98444-onemaze-io.json](./98444-onemaze-io.json) |
 | Onenellemoo | 239638 | [239638-onenellemoo.json](./239638-onenellemoo.json) |
 | Oneons: Prisoners | 159643 | [159643-oneons-prisoners.json](./159643-oneons-prisoners.json) |
@@ -2145,6 +2146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Other | 197274 | [197274-other.json](./197274-other.json) |
 | Other Minds | 183051 | [183051-other-minds.json](./183051-other-minds.json) |
 | Other Side | 126455 | [126455-other-side.json](./126455-other-side.json) |
+| Other Spheres | 388316 | [388316-other-spheres.json](./388316-other-spheres.json) |
 | Other Submarine | 124143 | [124143-other-submarine.json](./124143-other-submarine.json) |
 | Other World | 154360 | [154360-other-world.json](./154360-other-world.json) |
 | Other World Survivors | 235742 | [235742-other-world-survivors.json](./235742-other-world-survivors.json) |
