@@ -2088,6 +2088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Grind | 200746 | [200746-perfect-grind.json](./200746-perfect-grind.json) |
 | Perfect Heist 2 | 157499 | [157499-perfect-heist-2.json](./157499-perfect-heist-2.json) |
 | Perfect Heist 2: Historic Characters DLC | 274740 | [274740-perfect-heist-2-historic-characters-dlc.json](./274740-perfect-heist-2-historic-characters-dlc.json) |
+| Perfect Heist 2: Pietsmiet DLC | 418505 | [418505-perfect-heist-2-pietsmiet-dlc.json](./418505-perfect-heist-2-pietsmiet-dlc.json) |
 | Perfect Hue Arena | 384075 | [384075-perfect-hue-arena.json](./384075-perfect-hue-arena.json) |
 | Perfect Inventory | 223411 | [223411-perfect-inventory.json](./223411-perfect-inventory.json) |
 | Perfect Kick | 62980 | [62980-perfect-kick.json](./62980-perfect-kick.json) |
