@@ -773,6 +773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VertalStrike | 400892 | [400892-vertalstrike.json](./400892-vertalstrike.json) |
 | Vertex | 142255 | [142255-vertex.json](./142255-vertex.json) |
 | Vertex | 384677 | [384677-vertex.json](./384677-vertex.json) |
+| Vertex-1: Ainia | 418523 | [418523-vertex-1-ainia.json](./418523-vertex-1-ainia.json) |
 | Vertiball | 86123 | [86123-vertiball.json](./86123-vertiball.json) |
 | Vertical Adventure: Jump, Die, Retry | 207857 | [207857-vertical-adventure-jump-die-retry.json](./207857-vertical-adventure-jump-die-retry.json) |
 | Vertical Dash | 59438 | [59438-vertical-dash.json](./59438-vertical-dash.json) |
