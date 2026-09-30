@@ -2015,6 +2015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Skater | 70999 | [70999-epic-skater.json](./70999-epic-skater.json) |
 | Epic Skater 2 | 71452 | [71452-epic-skater-2.json](./71452-epic-skater-2.json) |
 | Epic Snails | 68696 | [68696-epic-snails.json](./68696-epic-snails.json) |
+| Epic Space: Online | 36322 | [36322-epic-space-online.json](./36322-epic-space-online.json) |
 | Epic Tavern | 25644 | [25644-epic-tavern.json](./25644-epic-tavern.json) |
 | Epic Truck | 89796 | [89796-epic-truck.json](./89796-epic-truck.json) |
 | Epic Vampire | 307721 | [307721-epic-vampire.json](./307721-epic-vampire.json) |
