@@ -1444,6 +1444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Juniors Create & Cruise | 105878 | [105878-lego-juniors-create-and-cruise.json](./105878-lego-juniors-create-and-cruise.json) |
 | LEGO Jurassic World | 9918 | [9918-lego-jurassic-world.json](./9918-lego-jurassic-world.json) |
 | LEGO Lord of the Rings: Elrond Edition | 89924 | [89924-lego-lord-of-the-rings-elrond-edition.json](./89924-lego-lord-of-the-rings-elrond-edition.json) |
+| LEGO Marvel Collection | 115019 | [115019-lego-marvel-collection.json](./115019-lego-marvel-collection.json) |
 | LEGO Marvel Super Heroes 2 | 28815 | [28815-lego-marvel-super-heroes-2.json](./28815-lego-marvel-super-heroes-2.json) |
 | LEGO Marvel Super Heroes 2: Agents of Atlas Character Pack | 168785 | [168785-lego-marvel-super-heroes-2-agents-of-atlas-character-pack.json](./168785-lego-marvel-super-heroes-2-agents-of-atlas-character-pack.json) |
 | LEGO Marvel Super Heroes 2: Champions Character Pack | 168368 | [168368-lego-marvel-super-heroes-2-champions-character-pack.json](./168368-lego-marvel-super-heroes-2-champions-character-pack.json) |
@@ -2360,6 +2361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lily's Epic Quest | 31956 | [31956-lilys-epic-quest.json](./31956-lilys-epic-quest.json) |
 | Lily's Epic Quest for Lost Gems | 118937 | [118937-lilys-epic-quest-for-lost-gems.json](./118937-lilys-epic-quest-for-lost-gems.json) |
 | Lily's Garden | 129160 | [129160-lilys-garden.json](./129160-lilys-garden.json) |
+| Lilycle Rainbow Stage!!! | 115310 | [115310-lilycle-rainbow-stage.json](./115310-lilycle-rainbow-stage.json) |
 | LilyDeux: Black Lily Warning | 129698 | [129698-lilydeux-black-lily-warning.json](./129698-lilydeux-black-lily-warning.json) |
 | Lim | 62989 | [62989-lim.json](./62989-lim.json) |
 | Lim Beyond One-on-One Basketball | 254782 | [254782-lim-beyond-one-on-one-basketball.json](./254782-lim-beyond-one-on-one-basketball.json) |
@@ -3550,6 +3552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of Vermilion IV | 26971 | [26971-lord-of-vermilion-iv.json](./26971-lord-of-vermilion-iv.json) |
 | Lord of War | 208934 | [208934-lord-of-war.json](./208934-lord-of-war.json) |
 | Lord Temin's Fortress | 187441 | [187441-lord-temins-fortress.json](./187441-lord-temins-fortress.json) |
+| Lord Winklebottom Investigates | 115180 | [115180-lord-winklebottom-investigates.json](./115180-lord-winklebottom-investigates.json) |
 | Lordlings of Yore | 25614 | [25614-lordlings-of-yore.json](./25614-lordlings-of-yore.json) |
 | Lords & Knights | 323155 | [323155-lords-and-knights.json](./323155-lords-and-knights.json) |
 | Lords & Peasants | 20057 | [20057-lords-and-peasants.json](./20057-lords-and-peasants.json) |
