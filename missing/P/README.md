@@ -4708,6 +4708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Racer | 129150 | [129150-pocket-racer.json](./129150-pocket-racer.json) |
 | Pocket Races | 153834 | [153834-pocket-races.json](./153834-pocket-races.json) |
 | Pocket Ray | 227818 | [227818-pocket-ray.json](./227818-pocket-ray.json) |
+| Pocket Rogues | 111249 | [111249-pocket-rogues.json](./111249-pocket-rogues.json) |
 | Pocket Rogues: Ultimate | 101094 | [101094-pocket-rogues-ultimate.json](./101094-pocket-rogues-ultimate.json) |
 | Pocket Room Sanrio Characters | 334865 | [334865-pocket-room-sanrio-characters.json](./334865-pocket-room-sanrio-characters.json) |
 | Pocket Royal | 196332 | [196332-pocket-royal.json](./196332-pocket-royal.json) |
@@ -7717,6 +7718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumped BMX Pro | 114796 | [114796-pumped-bmx-pro.json](./114796-pumped-bmx-pro.json) |
 | Pumped BMX+ | 20955 | [20955-pumped-bmx.json](./20955-pumped-bmx.json) |
 | Pumpkin Breaker | 126609 | [126609-pumpkin-breaker.json](./126609-pumpkin-breaker.json) |
+| Pumpkin Days | 115514 | [115514-pumpkin-days.json](./115514-pumpkin-days.json) |
 | Pumpkin Delivery | 242234 | [242234-pumpkin-delivery.json](./242234-pumpkin-delivery.json) |
 | Pumpkin Dog Islands | 119664 | [119664-pumpkin-dog-islands.json](./119664-pumpkin-dog-islands.json) |
 | Pumpkin Farmer | 158177 | [158177-pumpkin-farmer.json](./158177-pumpkin-farmer.json) |
