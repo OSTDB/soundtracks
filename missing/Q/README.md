@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QS Scramble | 319595 | [319595-qs-scramble.json](./319595-qs-scramble.json) |
 | QuAaargh!!! | 147306 | [147306-quaaargh.json](./147306-quaaargh.json) |
 | Quaantuum Strike | 336021 | [336021-quaantuum-strike.json](./336021-quaantuum-strike.json) |
+| Quack Attack 1985 | 32117 | [32117-quack-attack-1985.json](./32117-quack-attack-1985.json) |
 | Quack Attack 1985: Turbo DX Edition | 138603 | [138603-quack-attack-1985-turbo-dx-edition.json](./138603-quack-attack-1985-turbo-dx-edition.json) |
 | Quack Invasion | 244886 | [244886-quack-invasion.json](./244886-quack-invasion.json) |
 | Quacker Blaster | 63286 | [63286-quacker-blaster.json](./63286-quacker-blaster.json) |
