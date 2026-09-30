@@ -324,6 +324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backwoods Town | 275097 | [275097-backwoods-town.json](./275097-backwoods-town.json) |
 | Backworlds | 107176 | [107176-backworlds.json](./107176-backworlds.json) |
 | Backyard | 142423 | [142423-backyard.json](./142423-backyard.json) |
+| Backyard Baseball | 393033 | [393033-backyard-baseball.json](./393033-backyard-baseball.json) |
 | Backyard Baseball | 50299 | [50299-backyard-baseball.json](./50299-backyard-baseball.json) |
 | Backyard Baseball '97 | 317717 | [317717-backyard-baseball-97.json](./317717-backyard-baseball-97.json) |
 | Backyard Basketball | 69242 | [69242-backyard-basketball.json](./69242-backyard-basketball.json) |
@@ -971,6 +972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banjo-Threeie | 200644 | [200644-banjo-threeie.json](./200644-banjo-threeie.json) |
 | Banjo-Tooie | 201645 | [201645-banjo-tooie.json](./201645-banjo-tooie.json) |
 | Banjo-Tooie | 3418 | [3418-banjo-tooie.json](./3418-banjo-tooie.json) |
+| Banjo: Recompiled - Banjo-Dreamie | 392996 | [392996-banjo-recompiled-banjo-dreamie.json](./392996-banjo-recompiled-banjo-dreamie.json) |
 | Bank | 364595 | [364595-bank.json](./364595-bank.json) |
 | Bank Escape Pro | 68773 | [68773-bank-escape-pro.json](./68773-bank-escape-pro.json) |
 | Bank Heist | 11129 | [11129-bank-heist.json](./11129-bank-heist.json) |
@@ -2955,6 +2957,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bendy and the Dark Revival | 120163 | [120163-bendy-and-the-dark-revival.json](./120163-bendy-and-the-dark-revival.json) |
 | Bendy and the Ink Machine | 28311 | [28311-bendy-and-the-ink-machine.json](./28311-bendy-and-the-ink-machine.json) |
 | Bendy Road | 98782 | [98782-bendy-road.json](./98782-bendy-road.json) |
+| Bendy: Ink Demon's Collection | 393061 | [393061-bendy-ink-demons-collection.json](./393061-bendy-ink-demons-collection.json) |
+| Bendy: Revive and Survive Bundle | 393062 | [393062-bendy-revive-and-survive-bundle.json](./393062-bendy-revive-and-survive-bundle.json) |
 | Bendy's Nightmare Run | 414307 | [414307-bendys-nightmare-run.json](./414307-bendys-nightmare-run.json) |
 | Beneath | 240509 | [240509-beneath.json](./240509-beneath.json) |
 | Beneath & Beyond | 273367 | [273367-beneath-and-beyond.json](./273367-beneath-and-beyond.json) |
@@ -6131,6 +6135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Border of Insanity | 110152 | [110152-border-of-insanity.json](./110152-border-of-insanity.json) |
 | Border Reign | 142468 | [142468-border-reign.json](./142468-border-reign.json) |
 | Border Wars | 224091 | [224091-border-wars.json](./224091-border-wars.json) |
+| BorderCollie Game | 393011 | [393011-bordercollie-game.json](./393011-bordercollie-game.json) |
 | Borderlands 2 : Ultimate Vault Hunter Upgrade Pack | 186627 | [186627-borderlands-2-ultimate-vault-hunter-upgrade-pack.json](./186627-borderlands-2-ultimate-vault-hunter-upgrade-pack.json) |
 | Borderlands 2 : Ultimate Vault Hunter Upgrade Pack 2 | 186628 | [186628-borderlands-2-ultimate-vault-hunter-upgrade-pack-2.json](./186628-borderlands-2-ultimate-vault-hunter-upgrade-pack-2.json) |
 | Borderlands 2 VR | 110835 | [110835-borderlands-2-vr.json](./110835-borderlands-2-vr.json) |
