@@ -2019,6 +2019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Race Outer Space | 239676 | [239676-death-race-outer-space.json](./239676-death-race-outer-space.json) |
 | Death Rally | 18121 | [18121-death-rally.json](./18121-death-rally.json) |
 | Death Rally | 665 | [665-death-rally.json](./665-death-rally.json) |
+| Death Relives | 220010 | [220010-death-relives.json](./220010-death-relives.json) |
 | Death Remains | 333380 | [333380-death-remains.json](./333380-death-remains.json) |
 | Death Report | 336708 | [336708-death-report.json](./336708-death-report.json) |
 | Death ring | 282006 | [282006-death-ring.json](./282006-death-ring.json) |
