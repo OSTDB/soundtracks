@@ -677,6 +677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kebabstar | 295307 | [295307-kebabstar.json](./295307-kebabstar.json) |
 | Keda | 178509 | [178509-keda.json](./178509-keda.json) |
 | Keek | 211679 | [211679-keek.json](./211679-keek.json) |
+| KeelOver | 399140 | [399140-keelover.json](./399140-keelover.json) |
 | Keep Combo | 255052 | [255052-keep-combo.json](./255052-keep-combo.json) |
 | Keep Deep Sheep | 333607 | [333607-keep-deep-sheep.json](./333607-keep-deep-sheep.json) |
 | Keep Defending | 31350 | [31350-keep-defending.json](./31350-keep-defending.json) |
@@ -2135,6 +2136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knightphone | 118267 | [118267-knightphone.json](./118267-knightphone.json) |
 | KnightQuest | 95427 | [95427-knightquest.json](./95427-knightquest.json) |
 | Knights | 32575 | [32575-knights.json](./32575-knights.json) |
+| Knights | 399122 | [399122-knights.json](./399122-knights.json) |
 | Knights & Dragons | 59980 | [59980-knights-and-dragons.json](./59980-knights-and-dragons.json) |
 | Knights & Dragons: The Endless Quest | 297602 | [297602-knights-and-dragons-the-endless-quest.json](./297602-knights-and-dragons-the-endless-quest.json) |
 | Knights & Guns Arcane Arsenal | 380708 | [380708-knights-and-guns-arcane-arsenal.json](./380708-knights-and-guns-arcane-arsenal.json) |
