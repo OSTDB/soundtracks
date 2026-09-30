@@ -2040,6 +2040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Percy's Last Stand | 118403 | [118403-percys-last-stand.json](./118403-percys-last-stand.json) |
 | Perdition | 121580 | [121580-perdition.json](./121580-perdition.json) |
 | Pereelous | 347710 | [347710-pereelous.json](./347710-pereelous.json) |
+| Peregrin | 29934 | [29934-peregrin.json](./29934-peregrin.json) |
 | Perennial Order | 149935 | [149935-perennial-order.json](./149935-perennial-order.json) |
 | Perestroika | 180293 | [180293-perestroika.json](./180293-perestroika.json) |
 | Perfect Ace 2: The Championships | 43247 | [43247-perfect-ace-2-the-championships.json](./43247-perfect-ace-2-the-championships.json) |
@@ -3879,6 +3880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Restorer: Image Folder 6 | 353419 | [353419-pixel-restorer-image-folder-6.json](./353419-pixel-restorer-image-folder-6.json) |
 | Pixel Rift Adventure | 342737 | [342737-pixel-rift-adventure.json](./342737-pixel-rift-adventure.json) |
 | Pixel Ripped 1978 | 242384 | [242384-pixel-ripped-1978.json](./242384-pixel-ripped-1978.json) |
+| Pixel Ripped 1989 | 29839 | [29839-pixel-ripped-1989.json](./29839-pixel-ripped-1989.json) |
 | Pixel Robot Hunter | 111177 | [111177-pixel-robot-hunter.json](./111177-pixel-robot-hunter.json) |
 | Pixel Robot Return | 186319 | [186319-pixel-robot-return.json](./186319-pixel-robot-return.json) |
 | Pixel Room | 393804 | [393804-pixel-room.json](./393804-pixel-room.json) |
