@@ -1936,6 +1936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Injustice: Gods Among Us - The Man of Steel: Zod | 75481 | [75481-injustice-gods-among-us-the-man-of-steel-zod.json](./75481-injustice-gods-among-us-the-man-of-steel-zod.json) |
 | Injustice: Gods Among Us - Ultimate Edition | 23354 | [23354-injustice-gods-among-us-ultimate-edition.json](./23354-injustice-gods-among-us-ultimate-edition.json) |
 | Injustice: Gods Among Us - Zatanna | 75465 | [75465-injustice-gods-among-us-zatanna.json](./75465-injustice-gods-among-us-zatanna.json) |
+| Ink | 14580 | [14580-ink.json](./14580-ink.json) |
 | Ink & Paper: DoodleCut - Animals DLC | 385181 | [385181-ink-and-paper-doodlecut-animals-dlc.json](./385181-ink-and-paper-doodlecut-animals-dlc.json) |
 | Ink & Paper: DoodleCut - Complete Edition | 385202 | [385202-ink-and-paper-doodlecut-complete-edition.json](./385202-ink-and-paper-doodlecut-complete-edition.json) |
 | Ink & Paper: DoodleCut - Space DLC | 385180 | [385180-ink-and-paper-doodlecut-space-dlc.json](./385180-ink-and-paper-doodlecut-space-dlc.json) |
@@ -2712,6 +2713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IronBorn | 109585 | [109585-ironborn.json](./109585-ironborn.json) |
 | Ironborne | 391038 | [391038-ironborne.json](./391038-ironborne.json) |
 | Ironcast: The Stirling Pack | 170296 | [170296-ironcast-the-stirling-pack.json](./170296-ironcast-the-stirling-pack.json) |
+| Ironclad Tactics | 10459 | [10459-ironclad-tactics.json](./10459-ironclad-tactics.json) |
 | Ironclads 2: Caroline Islands War 1885 | 51941 | [51941-ironclads-2-caroline-islands-war-1885.json](./51941-ironclads-2-caroline-islands-war-1885.json) |
 | Ironclads Anthology | 50855 | [50855-ironclads-anthology.json](./50855-ironclads-anthology.json) |
 | Irondrive | 409778 | [409778-irondrive.json](./409778-irondrive.json) |
@@ -2891,6 +2893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Tribe 5 | 82437 | [82437-island-tribe-5.json](./82437-island-tribe-5.json) |
 | Island Tribe HD | 24194 | [24194-island-tribe-hd.json](./24194-island-tribe-hd.json) |
 | Island Tribe! | 180118 | [180118-island-tribe.json](./180118-island-tribe.json) |
+| Island Xtreme Stunts | 15739 | [15739-island-xtreme-stunts.json](./15739-island-xtreme-stunts.json) |
 | Island Xtreme Stunts | 300709 | [300709-island-xtreme-stunts.json](./300709-island-xtreme-stunts.json) |
 | Island_Name_Here | 222274 | [222274-island-name-here.json](./222274-island-name-here.json) |
 | Islanders: New Shores | 333961 | [333961-islanders-new-shores.json](./333961-islanders-new-shores.json) |
