@@ -1155,6 +1155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date A Live: Rio Reincarnation HD - Limited Edition | 96104 | [96104-date-a-live-rio-reincarnation-hd-limited-edition.json](./96104-date-a-live-rio-reincarnation-hd-limited-edition.json) |
 | Date A Live: Spirit Pledge | 125935 | [125935-date-a-live-spirit-pledge.json](./125935-date-a-live-spirit-pledge.json) |
 | Date Banger | 326191 | [326191-date-banger.json](./326191-date-banger.json) |
+| Date de Blackjack | 401060 | [401060-date-de-blackjack.json](./401060-date-de-blackjack.json) |
 | Date Night | 179077 | [179077-date-night.json](./179077-date-night.json) |
 | Date Night Bowling | 137109 | [137109-date-night-bowling.json](./137109-date-night-bowling.json) |
 | Date Nite | 336598 | [336598-date-nite.json](./336598-date-nite.json) |
@@ -1175,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date Z: TTRPG Enthusiast Pack | 316203 | [316203-date-z-ttrpg-enthusiast-pack.json](./316203-date-z-ttrpg-enthusiast-pack.json) |
 | Datenshi Kyouko Part 1 | 230207 | [230207-datenshi-kyouko-part-1.json](./230207-datenshi-kyouko-part-1.json) |
 | Datenshi no Amai Yuuwaku x Kaikan Phrase | 67350 | [67350-datenshi-no-amai-yuuwaku-x-kaikan-phrase.json](./67350-datenshi-no-amai-yuuwaku-x-kaikan-phrase.json) |
+| Dating 4 Girls | 400931 | [400931-dating-4-girls.json](./400931-dating-4-girls.json) |
 | Dating and Dragons: A Love Quest | 351272 | [351272-dating-and-dragons-a-love-quest.json](./351272-dating-and-dragons-a-love-quest.json) |
 | Dating Maze | 401694 | [401694-dating-maze.json](./401694-dating-maze.json) |
 | Dating My High School Bully | 205817 | [205817-dating-my-high-school-bully.json](./205817-dating-my-high-school-bully.json) |
@@ -4587,6 +4589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dishwashing Simulator | 291513 | [291513-dishwashing-simulator.json](./291513-dishwashing-simulator.json) |
 | Disillusion | 148887 | [148887-disillusion.json](./148887-disillusion.json) |
 | Disillusion ST | 276494 | [276494-disillusion-st.json](./276494-disillusion-st.json) |
+| Disillusioned | 401040 | [401040-disillusioned.json](./401040-disillusioned.json) |
 | Disillusioned Reunion | 393607 | [393607-disillusioned-reunion.json](./393607-disillusioned-reunion.json) |
 | Disillusions Manga Horror | 9825 | [9825-disillusions-manga-horror.json](./9825-disillusions-manga-horror.json) |
 | Disintegration | 120625 | [120625-disintegration.json](./120625-disintegration.json) |
@@ -8338,6 +8341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Survivor II | 126007 | [126007-dungeon-survivor-ii.json](./126007-dungeon-survivor-ii.json) |
 | Dungeon Survivor.io | 260706 | [260706-dungeon-survivor-io.json](./260706-dungeon-survivor-io.json) |
 | Dungeon Survivors | 257935 | [257935-dungeon-survivors.json](./257935-dungeon-survivors.json) |
+| Dungeon Sweeper Plus | 401058 | [401058-dungeon-sweeper-plus.json](./401058-dungeon-sweeper-plus.json) |
 | Dungeon Tales: RPG Card Game | 121732 | [121732-dungeon-tales-rpg-card-game.json](./121732-dungeon-tales-rpg-card-game.json) |
 | Dungeon Tiles | 58235 | [58235-dungeon-tiles.json](./58235-dungeon-tiles.json) |
 | Dungeon Tiny Hunter | 308908 | [308908-dungeon-tiny-hunter.json](./308908-dungeon-tiny-hunter.json) |
@@ -8531,6 +8535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duskers 2.0 | 405061 | [405061-duskers-2-0.json](./405061-duskers-2-0.json) |
 | Duskfade | 310665 | [310665-duskfade.json](./310665-duskfade.json) |
 | Duskfall | 316260 | [316260-duskfall.json](./316260-duskfall.json) |
+| Dusklander | 401055 | [401055-dusklander.json](./401055-dusklander.json) |
 | Dusklight | 401002 | [401002-dusklight.json](./401002-dusklight.json) |
 | Dusklight Manor | 255096 | [255096-dusklight-manor.json](./255096-dusklight-manor.json) |
 | Dusky Cap | 343862 | [343862-dusky-cap.json](./343862-dusky-cap.json) |
