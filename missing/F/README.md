@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| F Fanatic | 402468 | [402468-f-fanatic.json](./402468-f-fanatic.json) |
 | F-1 Chequered Flag | 59977 | [59977-f-1-chequered-flag.json](./59977-f-1-chequered-flag.json) |
 | F-1 Grand Prix | 46837 | [46837-f-1-grand-prix.json](./46837-f-1-grand-prix.json) |
 | F-1 Grand Prix 1996: Team Unei Simulation | 382916 | [382916-f-1-grand-prix-1996-team-unei-simulation.json](./382916-f-1-grand-prix-1996-team-unei-simulation.json) |
@@ -2388,6 +2389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XV: Royal Edition | 80877 | [80877-final-fantasy-xv-royal-edition.json](./80877-final-fantasy-xv-royal-edition.json) |
 | Final Fantasy XV: Special Edition | 205260 | [205260-final-fantasy-xv-special-edition.json](./205260-final-fantasy-xv-special-edition.json) |
 | Final Fantasy XV: Windows Edition | 55034 | [55034-final-fantasy-xv-windows-edition.json](./55034-final-fantasy-xv-windows-edition.json) |
+| Final Fantasy XVI Demake | 402448 | [402448-final-fantasy-xvi-demake.json](./402448-final-fantasy-xvi-demake.json) |
 | Final Fantasy XVI Expansion Pass | 279665 | [279665-final-fantasy-xvi-expansion-pass.json](./279665-final-fantasy-xvi-expansion-pass.json) |
 | Final Fantasy XVI: Complete Edition | 318557 | [318557-final-fantasy-xvi-complete-edition.json](./318557-final-fantasy-xvi-complete-edition.json) |
 | Final Fantasy XVI: Deluxe Edition | 228738 | [228738-final-fantasy-xvi-deluxe-edition.json](./228738-final-fantasy-xvi-deluxe-edition.json) |
@@ -5818,6 +5820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frost Dragon in Adventure Land | 188033 | [188033-frost-dragon-in-adventure-land.json](./188033-frost-dragon-in-adventure-land.json) |
 | Frost Dragon in Wonder Land | 199633 | [199633-frost-dragon-in-wonder-land.json](./199633-frost-dragon-in-wonder-land.json) |
 | Frost Heart | 193760 | [193760-frost-heart.json](./193760-frost-heart.json) |
+| Frost Kin | 402474 | [402474-frost-kin.json](./402474-frost-kin.json) |
 | Frost Survivors: Text Game | 318197 | [318197-frost-survivors-text-game.json](./318197-frost-survivors-text-game.json) |
 | Frost Wars: The Rise of Fatty Sparkles | 64440 | [64440-frost-wars-the-rise-of-fatty-sparkles.json](./64440-frost-wars-the-rise-of-fatty-sparkles.json) |
 | Frost World | 355574 | [355574-frost-world.json](./355574-frost-world.json) |
