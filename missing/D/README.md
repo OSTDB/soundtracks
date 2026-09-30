@@ -854,6 +854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Star | 134598 | [134598-dark-star.json](./134598-dark-star.json) |
 | Dark Static | 362886 | [362886-dark-static.json](./362886-dark-static.json) |
 | Dark Storm VR Missions | 34649 | [34649-dark-storm-vr-missions.json](./34649-dark-storm-vr-missions.json) |
+| Dark Stream | 406849 | [406849-dark-stream.json](./406849-dark-stream.json) |
 | Dark Strokes: Sins of the Fathers | 52839 | [52839-dark-strokes-sins-of-the-fathers.json](./52839-dark-strokes-sins-of-the-fathers.json) |
 | Dark Strokes: Sins of the Fathers - Collector's Edition | 52838 | [52838-dark-strokes-sins-of-the-fathers-collectors-edition.json](./52838-dark-strokes-sins-of-the-fathers-collectors-edition.json) |
 | Dark Summoner | 38900 | [38900-dark-summoner.json](./38900-dark-summoner.json) |
@@ -974,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkness Anomaly | 57351 | [57351-darkness-anomaly.json](./57351-darkness-anomaly.json) |
 | Darkness Arrives | 151122 | [151122-darkness-arrives.json](./151122-darkness-arrives.json) |
 | Darkness Flaw | 262286 | [262286-darkness-flaw.json](./262286-darkness-flaw.json) |
+| Darkness Has Eyes | 406857 | [406857-darkness-has-eyes.json](./406857-darkness-has-eyes.json) |
 | Darkness Hour | 116159 | [116159-darkness-hour.json](./116159-darkness-hour.json) |
 | Darkness Machine | 289868 | [289868-darkness-machine.json](./289868-darkness-machine.json) |
 | Darkness Maze Cube | 130213 | [130213-darkness-maze-cube.json](./130213-darkness-maze-cube.json) |
@@ -2103,6 +2105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death's Door: Ultimate Edition | 206673 | [206673-deaths-door-ultimate-edition.json](./206673-deaths-door-ultimate-edition.json) |
 | Death's Gambit: Afterlife - Ashes of Vados | 193750 | [193750-deaths-gambit-afterlife-ashes-of-vados.json](./193750-deaths-gambit-afterlife-ashes-of-vados.json) |
 | Death's Life | 32030 | [32030-deaths-life.json](./32030-deaths-life.json) |
+| Death's Life 2 | 406868 | [406868-deaths-life-2.json](./406868-deaths-life-2.json) |
 | Death's Playground | 208603 | [208603-deaths-playground.json](./208603-deaths-playground.json) |
 | Death's Taste | 271817 | [271817-deaths-taste.json](./271817-deaths-taste.json) |
 | Death's Web | 288815 | [288815-deaths-web.json](./288815-deaths-web.json) |
@@ -7204,6 +7207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Piano Tiles 2018 | 107665 | [107665-dream-piano-tiles-2018.json](./107665-dream-piano-tiles-2018.json) |
 | Dream Ploy Will | 242672 | [242672-dream-ploy-will.json](./242672-dream-ploy-will.json) |
 | Dream Racer V1 | 125907 | [125907-dream-racer-v1.json](./125907-dream-racer-v1.json) |
+| Dream Riders | 406861 | [406861-dream-riders.json](./406861-dream-riders.json) |
 | Dream Seed | 257069 | [257069-dream-seed.json](./257069-dream-seed.json) |
 | Dream Sequences | 202247 | [202247-dream-sequences.json](./202247-dream-sequences.json) |
 | Dream Shogi 4K | 391863 | [391863-dream-shogi-4k.json](./391863-dream-shogi-4k.json) |
@@ -8011,6 +8015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dumb AF | 351806 | [351806-dumb-af.json](./351806-dumb-af.json) |
 | Dumb Castle | 289304 | [289304-dumb-castle.json](./289304-dumb-castle.json) |
 | Dumb Chicken 2: One Way Out | 32895 | [32895-dumb-chicken-2-one-way-out.json](./32895-dumb-chicken-2-one-way-out.json) |
+| Dumb Dunks | 406867 | [406867-dumb-dunks.json](./406867-dumb-dunks.json) |
 | Dumb Fight | 130257 | [130257-dumb-fight.json](./130257-dumb-fight.json) |
 | Dumb Ideas With Friends | 417389 | [417389-dumb-ideas-with-friends.json](./417389-dumb-ideas-with-friends.json) |
 | Dumb Infernal | 129068 | [129068-dumb-infernal.json](./129068-dumb-infernal.json) |
