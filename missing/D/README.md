@@ -765,6 +765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Parables: Return of the Salt Princess | 123634 | [123634-dark-parables-return-of-the-salt-princess.json](./123634-dark-parables-return-of-the-salt-princess.json) |
 | Dark Parables: Rise of the Snow Queen | 139793 | [139793-dark-parables-rise-of-the-snow-queen.json](./139793-dark-parables-rise-of-the-snow-queen.json) |
 | Dark Parables: The Final Cinderella | 139794 | [139794-dark-parables-the-final-cinderella.json](./139794-dark-parables-the-final-cinderella.json) |
+| Dark Parables: The Final Cinderella - Collector's Edition | 32779 | [32779-dark-parables-the-final-cinderella-collectors-edition.json](./32779-dark-parables-the-final-cinderella-collectors-edition.json) |
 | Dark Parables: The Little Mermaid and the Purple Tide | 57160 | [57160-dark-parables-the-little-mermaid-and-the-purple-tide.json](./57160-dark-parables-the-little-mermaid-and-the-purple-tide.json) |
 | Dark Parables: The Little Mermaid and the Purple Tide - Collector's Edition | 33232 | [33232-dark-parables-the-little-mermaid-and-the-purple-tide-collectors-edition.json](./33232-dark-parables-the-little-mermaid-and-the-purple-tide-collectors-edition.json) |
 | Dark Parables: The Match Girl's Lost Paradise | 123635 | [123635-dark-parables-the-match-girls-lost-paradise.json](./123635-dark-parables-the-match-girls-lost-paradise.json) |
@@ -1736,6 +1737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead_file.exe | 52072 | [52072-dead-file-exe.json](./52072-dead-file-exe.json) |
 | Dead, Too Dead | 326286 | [326286-dead-too-dead.json](./326286-dead-too-dead.json) |
 | Dead's dawn | 286039 | [286039-deads-dawn.json](./286039-deads-dawn.json) |
+| Dead6hot | 33612 | [33612-dead6hot.json](./33612-dead6hot.json) |
 | Deadbait | 161381 | [161381-deadbait.json](./161381-deadbait.json) |
 | Deadball Specialist | 58191 | [58191-deadball-specialist.json](./58191-deadball-specialist.json) |
 | DeadballCrusader | 290951 | [290951-deadballcrusader.json](./290951-deadballcrusader.json) |
