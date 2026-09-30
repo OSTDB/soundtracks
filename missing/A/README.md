@@ -160,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Frantic Santa Situation | 239623 | [239623-a-frantic-santa-situation.json](./239623-a-frantic-santa-situation.json) |
 | A Friday Night Real Music Funkin Game | 325105 | [325105-a-friday-night-real-music-funkin-game.json](./325105-a-friday-night-real-music-funkin-game.json) |
 | A Frog in a Well | 337798 | [337798-a-frog-in-a-well.json](./337798-a-frog-in-a-well.json) |
+| A Frog's Job 2: Froggina | 400419 | [400419-a-frogs-job-2-froggina.json](./400419-a-frogs-job-2-froggina.json) |
 | A Furry Tale: A night in Havena | 312673 | [312673-a-furry-tale-a-night-in-havena.json](./312673-a-furry-tale-a-night-in-havena.json) |
 | A Future With You | 364521 | [364521-a-future-with-you.json](./364521-a-future-with-you.json) |
 | A G-G-Ghost! | 311656 | [311656-a-g-g-ghost.json](./311656-a-g-g-ghost.json) |
@@ -740,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ABPA Backgammon | 5653 | [5653-abpa-backgammon.json](./5653-abpa-backgammon.json) |
 | Abra-cooking-dabra | 345039 | [345039-abra-cooking-dabra.json](./345039-abra-cooking-dabra.json) |
 | Abraca | 267482 | [267482-abraca.json](./267482-abraca.json) |
+| Abracablabla | 400403 | [400403-abracablabla.json](./400403-abracablabla.json) |
 | Abracadabra | 383355 | [383355-abracadabra.json](./383355-abracadabra.json) |
 | Abracademia | 383053 | [383053-abracademia.json](./383053-abracademia.json) |
 | Abraham Link Coln on Dessert Island | 398541 | [398541-abraham-link-coln-on-dessert-island.json](./398541-abraham-link-coln-on-dessert-island.json) |
@@ -7697,6 +7699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AV Bishoujo Senshi Girl Fighting | 48591 | [48591-av-bishoujo-senshi-girl-fighting.json](./48591-av-bishoujo-senshi-girl-fighting.json) |
 | AV Director Life! | 346669 | [346669-av-director-life.json](./346669-av-director-life.json) |
 | AV Pachinko | 242089 | [242089-av-pachinko.json](./242089-av-pachinko.json) |
+| AV Sex Manager | 400407 | [400407-av-sex-manager.json](./400407-av-sex-manager.json) |
 | Ava | 119569 | [119569-ava.json](./119569-ava.json) |
 | AVA | 367997 | [367997-ava.json](./367997-ava.json) |
 | Ava and Avior Save the Earth | 84979 | [84979-ava-and-avior-save-the-earth.json](./84979-ava-and-avior-save-the-earth.json) |
