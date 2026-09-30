@@ -4538,6 +4538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game: The Game | 393488 | [393488-the-game-the-game.json](./393488-the-game-the-game.json) |
 | The Games '92: España | 96508 | [96508-the-games-92-espana.json](./96508-the-games-92-espana.json) |
 | The Games People Play: Gin, Cribbage, Checkers, and Backgammon | 69927 | [69927-the-games-people-play-gin-cribbage-checkers-and-backgammon.json](./69927-the-games-people-play-gin-cribbage-checkers-and-backgammon.json) |
+| The Games: Winter Challenge | 14434 | [14434-the-games-winter-challenge.json](./14434-the-games-winter-challenge.json) |
 | The Gang | 284446 | [284446-the-gang.json](./284446-the-gang.json) |
 | The Gannet | 202968 | [202968-the-gannet.json](./202968-the-gannet.json) |
 | The Gap | 151120 | [151120-the-gap.json](./151120-the-gap.json) |
@@ -4810,6 +4811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Haunted House: Dark Island | 392259 | [392259-the-haunted-house-dark-island.json](./392259-the-haunted-house-dark-island.json) |
 | The Haunted Song | 229056 | [229056-the-haunted-song.json](./229056-the-haunted-song.json) |
 | The Haunted Tunnel | 156063 | [156063-the-haunted-tunnel.json](./156063-the-haunted-tunnel.json) |
+| The Haunted: Hells Reach | 15017 | [15017-the-haunted-hells-reach.json](./15017-the-haunted-hells-reach.json) |
 | The Haunted: Hells Reach - The Island | 193226 | [193226-the-haunted-hells-reach-the-island.json](./193226-the-haunted-hells-reach-the-island.json) |
 | The Haunting of Billy | 33471 | [33471-the-haunting-of-billy.json](./33471-the-haunting-of-billy.json) |
 | The Haunting of Braidwood Manor | 313813 | [313813-the-haunting-of-braidwood-manor.json](./313813-the-haunting-of-braidwood-manor.json) |
@@ -8972,6 +8974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There Are People In Your Walls | 373644 | [373644-there-are-people-in-your-walls.json](./373644-there-are-people-in-your-walls.json) |
 | There Aren't Really Words... | 135852 | [135852-there-arent-really-words.json](./135852-there-arent-really-words.json) |
 | There be Treasure! | 176258 | [176258-there-be-treasure.json](./176258-there-be-treasure.json) |
+| There Came an Echo | 14415 | [14415-there-came-an-echo.json](./14415-there-came-an-echo.json) |
 | There Can Be Only One | 181893 | [181893-there-can-be-only-one.json](./181893-there-can-be-only-one.json) |
 | There Can Only be Two | 235711 | [235711-there-can-only-be-two.json](./235711-there-can-only-be-two.json) |
 | There Exists Nobody | 322970 | [322970-there-exists-nobody.json](./322970-there-exists-nobody.json) |
@@ -9273,6 +9276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Those Who Rule II | 394374 | [394374-those-who-rule-ii.json](./394374-those-who-rule-ii.json) |
 | Thou Shalt Be Brave | 134566 | [134566-thou-shalt-be-brave.json](./134566-thou-shalt-be-brave.json) |
 | Thoughtform Invasion | 292085 | [292085-thoughtform-invasion.json](./292085-thoughtform-invasion.json) |
+| Thousand Arms | 15461 | [15461-thousand-arms.json](./15461-thousand-arms.json) |
 | Thousand Hells: The Underworld Heists | 360177 | [360177-thousand-hells-the-underworld-heists.json](./360177-thousand-hells-the-underworld-heists.json) |
 | Thousand Island Solitaire | 206225 | [206225-thousand-island-solitaire.json](./206225-thousand-island-solitaire.json) |
 | Thousand Island Solitaire HD | 355004 | [355004-thousand-island-solitaire-hd.json](./355004-thousand-island-solitaire-hd.json) |
@@ -12658,6 +12662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Shop | 21299 | [21299-toy-shop.json](./21299-toy-shop.json) |
 | Toy Smash Kaboom! | 347357 | [347357-toy-smash-kaboom.json](./347357-toy-smash-kaboom.json) |
 | Toy Soldiers | 9450 | [9450-toy-soldiers.json](./9450-toy-soldiers.json) |
+| Toy Soldiers: War Chest | 15187 | [15187-toy-soldiers-war-chest.json](./15187-toy-soldiers-war-chest.json) |
 | Toy Soldiers: War Chest - Assassin’s Creed Pack | 410330 | [410330-toy-soldiers-war-chest-assassin-s-creed-pack.json](./410330-toy-soldiers-war-chest-assassin-s-creed-pack.json) |
 | Toy Soldiers: War Chest - Cobra Pack | 410323 | [410323-toy-soldiers-war-chest-cobra-pack.json](./410323-toy-soldiers-war-chest-cobra-pack.json) |
 | Toy Soldiers: War Chest - G.I. Joe Pack | 410322 | [410322-toy-soldiers-war-chest-g-i-joe-pack.json](./410322-toy-soldiers-war-chest-g-i-joe-pack.json) |
