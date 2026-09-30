@@ -727,6 +727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Blackout | 34425 | [34425-undead-blackout.json](./34425-undead-blackout.json) |
 | Undead Bowling | 62273 | [62273-undead-bowling.json](./62273-undead-bowling.json) |
 | Undead Carnival Carnage | 180314 | [180314-undead-carnival-carnage.json](./180314-undead-carnival-carnage.json) |
+| Undead Chronicles | 394452 | [394452-undead-chronicles.json](./394452-undead-chronicles.json) |
 | Undead City | 294168 | [294168-undead-city.json](./294168-undead-city.json) |
 | Undead Horde 2: Necropolis | 217181 | [217181-undead-horde-2-necropolis.json](./217181-undead-horde-2-necropolis.json) |
 | Undead Inc. | 252855 | [252855-undead-inc.json](./252855-undead-inc.json) |
