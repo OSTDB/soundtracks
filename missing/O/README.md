@@ -2473,6 +2473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outrider Mako | 119655 | [119655-outrider-mako.json](./119655-outrider-mako.json) |
 | Outriders: Complete Edition | 286513 | [286513-outriders-complete-edition.json](./286513-outriders-complete-edition.json) |
 | Outriders: Day One Edition | 139917 | [139917-outriders-day-one-edition.json](./139917-outriders-day-one-edition.json) |
+| Outriders: Worldslayer | 198294 | [198294-outriders-worldslayer.json](./198294-outriders-worldslayer.json) |
 | Outright | 149086 | [149086-outright.json](./149086-outright.json) |
 | OutRoad Fury | 304663 | [304663-outroad-fury.json](./304663-outroad-fury.json) |
 | Outrun | 325048 | [325048-outrun.json](./325048-outrun.json) |
