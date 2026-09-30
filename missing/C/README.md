@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cain x Nica | 304609 | [304609-cain-x-nica.json](./304609-cain-x-nica.json) |
 | Cairn | 178665 | [178665-cairn.json](./178665-cairn.json) |
 | Cairn | 394894 | [394894-cairn.json](./394894-cairn.json) |
+| Cairn: Deluxe Edition | 401736 | [401736-cairn-deluxe-edition.json](./401736-cairn-deluxe-edition.json) |
 | Cairn: Mathair's Curse | 163941 | [163941-cairn-mathairs-curse.json](./163941-cairn-mathairs-curse.json) |
 | Cairn: On the Trail | 397806 | [397806-cairn-on-the-trail.json](./397806-cairn-on-the-trail.json) |
 | Cairo ShootOut! | 229800 | [229800-cairo-shootout.json](./229800-cairo-shootout.json) |
@@ -542,6 +543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canasta 3D Premium | 118406 | [118406-canasta-3d-premium.json](./118406-canasta-3d-premium.json) |
 | Candance Kane's Candy Factory | 137475 | [137475-candance-kanes-candy-factory.json](./137475-candance-kanes-candy-factory.json) |
 | Candelabra Estoscerro | 143077 | [143077-candelabra-estoscerro.json](./143077-candelabra-estoscerro.json) |
+| Candellum | 401706 | [401706-candellum.json](./401706-candellum.json) |
 | Candice DeBebe's Incredibly Trick Lifestyle | 33246 | [33246-candice-debebes-incredibly-trick-lifestyle.json](./33246-candice-debebes-incredibly-trick-lifestyle.json) |
 | Candice DeBebe's Scandalous Secrets | 110931 | [110931-candice-debebes-scandalous-secrets.json](./110931-candice-debebes-scandalous-secrets.json) |
 | Candice DeBebe's Tantalising Tricks | 223396 | [223396-candice-debebes-tantalising-tricks.json](./223396-candice-debebes-tantalising-tricks.json) |
@@ -6695,6 +6697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corral | 67525 | [67525-corral.json](./67525-corral.json) |
 | Corrida das Blogueiras 6: A Maldição dos Zumbis | 319027 | [319027-corrida-das-blogueiras-6-a-maldicao-dos-zumbis.json](./319027-corrida-das-blogueiras-6-a-maldicao-dos-zumbis.json) |
 | Corridor | 282000 | [282000-corridor.json](./282000-corridor.json) |
+| Corridor 13 | 401743 | [401743-corridor-13.json](./401743-corridor-13.json) |
 | Corridor Crusaders | 126535 | [126535-corridor-crusaders.json](./126535-corridor-crusaders.json) |
 | Corridor Exit 8 | 346688 | [346688-corridor-exit-8.json](./346688-corridor-exit-8.json) |
 | Corridor Geodesic | 319387 | [319387-corridor-geodesic.json](./319387-corridor-geodesic.json) |
