@@ -2463,6 +2463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sekai Saikyou Ginsei Shogi | 56158 | [56158-sekai-saikyou-ginsei-shogi.json](./56158-sekai-saikyou-ginsei-shogi.json) |
 | Sekai to Sekai no Mannaka de | 187532 | [187532-sekai-to-sekai-no-mannaka-de.json](./187532-sekai-to-sekai-no-mannaka-de.json) |
 | Sekaiju no Meikyubey | 56579 | [56579-sekaiju-no-meikyubey.json](./56579-sekaiju-no-meikyubey.json) |
+| Sekei | 389651 | [389651-sekei.json](./389651-sekei.json) |
 | Sekibanki Head Adventure | 158520 | [158520-sekibanki-head-adventure.json](./158520-sekibanki-head-adventure.json) |
 | Sekien no Inganock ~What a Beautiful People~ Fullvoice ReBORN | 378204 | [378204-sekien-no-inganock-what-a-beautiful-people-fullvoice-reborn.json](./378204-sekien-no-inganock-what-a-beautiful-people-fullvoice-reborn.json) |
 | Sekirei: Mirai Kara no Okurimono | 65547 | [65547-sekirei-mirai-kara-no-okurimono.json](./65547-sekirei-mirai-kara-no-okurimono.json) |
@@ -3049,6 +3050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Mystic Survivors | 199508 | [199508-sexy-mystic-survivors.json](./199508-sexy-mystic-survivors.json) |
 | Sexy Puzzle | 335443 | [335443-sexy-puzzle.json](./335443-sexy-puzzle.json) |
 | Sexy Sniper | 159814 | [159814-sexy-sniper.json](./159814-sexy-sniper.json) |
+| Sexy Space Defender | 389648 | [389648-sexy-space-defender.json](./389648-sexy-space-defender.json) |
 | Sexy Waifu | 227518 | [227518-sexy-waifu.json](./227518-sexy-waifu.json) |
 | Seybul Tech | 264634 | [264634-seybul-tech.json](./264634-seybul-tech.json) |
 | Seymour - Take One! | 142435 | [142435-seymour-take-one.json](./142435-seymour-take-one.json) |
@@ -6483,6 +6485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slope | 264867 | [264867-slope.json](./264867-slope.json) |
 | Slope Car | 238989 | [238989-slope-car.json](./238989-slope-car.json) |
 | Sloper | 89998 | [89998-sloper.json](./89998-sloper.json) |
+| Slopeside Kings | 389658 | [389658-slopeside-kings.json](./389658-slopeside-kings.json) |
 | Sloppy Eater: Meal Deal Edition | 186638 | [186638-sloppy-eater-meal-deal-edition.json](./186638-sloppy-eater-meal-deal-edition.json) |
 | Slordax: The Unknown Enemy | 73244 | [73244-slordax-the-unknown-enemy.json](./73244-slordax-the-unknown-enemy.json) |
 | Slorpus Slaughter VII: Singular Shoot Soul | 391245 | [391245-slorpus-slaughter-vii-singular-shoot-soul.json](./391245-slorpus-slaughter-vii-singular-shoot-soul.json) |
@@ -12463,6 +12466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stereo Life | 97479 | [97479-stereo-life.json](./97479-stereo-life.json) |
 | StereoPaint | 192425 | [192425-stereopaint.json](./192425-stereopaint.json) |
 | Stereophyta | 185004 | [185004-stereophyta.json](./185004-stereophyta.json) |
+| Stereoronpa | 389664 | [389664-stereoronpa.json](./389664-stereoronpa.json) |
 | Stern Pinball Arcade | 30288 | [30288-stern-pinball-arcade.json](./30288-stern-pinball-arcade.json) |
 | Stern Pinball Arcade: AC/DC | 161229 | [161229-stern-pinball-arcade-ac-dc.json](./161229-stern-pinball-arcade-ac-dc.json) |
 | Stern Pinball Arcade: Ghostbusters Premium | 161232 | [161232-stern-pinball-arcade-ghostbusters-premium.json](./161232-stern-pinball-arcade-ghostbusters-premium.json) |
