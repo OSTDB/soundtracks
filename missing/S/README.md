@@ -4653,6 +4653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siege Saga | 77633 | [77633-siege-saga.json](./77633-siege-saga.json) |
 | Siege Showdown | 270072 | [270072-siege-showdown.json](./270072-siege-showdown.json) |
 | Siegecraft TD | 39212 | [39212-siegecraft-td.json](./39212-siegecraft-td.json) |
+| Siegelord | 23633 | [23633-siegelord.json](./23633-siegelord.json) |
 | SiegeVR | 90784 | [90784-siegevr.json](./90784-siegevr.json) |
 | Siegius | 319986 | [319986-siegius.json](./319986-siegius.json) |
 | Sienna | 51221 | [51221-sienna.json](./51221-sienna.json) |
@@ -6283,6 +6284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slingshot | 60577 | [60577-slingshot.json](./60577-slingshot.json) |
 | Slingshot Assist | 26842 | [26842-slingshot-assist.json](./26842-slingshot-assist.json) |
 | Slingshot Blitz: Rewarded Play | 232036 | [232036-slingshot-blitz-rewarded-play.json](./232036-slingshot-blitz-rewarded-play.json) |
+| Slingshot Braves | 23647 | [23647-slingshot-braves.json](./23647-slingshot-braves.json) |
 | Slingshot Effect | 193716 | [193716-slingshot-effect.json](./193716-slingshot-effect.json) |
 | Slingshot Explorer: The Twelve Towers | 110142 | [110142-slingshot-explorer-the-twelve-towers.json](./110142-slingshot-explorer-the-twelve-towers.json) |
 | Slingshot Fun Collection | 386213 | [386213-slingshot-fun-collection.json](./386213-slingshot-fun-collection.json) |
@@ -9605,6 +9607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Dates: Summer Edition | 348432 | [348432-speed-dates-summer-edition.json](./348432-speed-dates-summer-edition.json) |
 | Speed Dating for Ghosts | 75799 | [75799-speed-dating-for-ghosts.json](./75799-speed-dating-for-ghosts.json) |
 | Speed Demons 2 | 330564 | [330564-speed-demons-2.json](./330564-speed-demons-2.json) |
+| Speed Devils | 23609 | [23609-speed-devils.json](./23609-speed-devils.json) |
 | Speed Drifters | 193998 | [193998-speed-drifters.json](./193998-speed-drifters.json) |
 | Speed DX | 261254 | [261254-speed-dx.json](./261254-speed-dx.json) |
 | Speed Elixir | 19447 | [19447-speed-elixir.json](./19447-speed-elixir.json) |
@@ -10078,6 +10081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Eyes | 211188 | [211188-spirit-eyes.json](./211188-spirit-eyes.json) |
 | Spirit Harem | 295341 | [295341-spirit-harem.json](./295341-spirit-harem.json) |
 | Spirit Hunter: Death Mark II | 133814 | [133814-spirit-hunter-death-mark-ii.json](./133814-spirit-hunter-death-mark-ii.json) |
+| Spirit Hunters Inc. | 23587 | [23587-spirit-hunters-inc.json](./23587-spirit-hunters-inc.json) |
 | Spirit Hunters Inc. Shadow/Light | 84895 | [84895-spirit-hunters-inc-shadow-light.json](./84895-spirit-hunters-inc-shadow-light.json) |
 | Spirit Legends: Finding Balance - Collector's Edition | 338707 | [338707-spirit-legends-finding-balance-collectors-edition.json](./338707-spirit-legends-finding-balance-collectors-edition.json) |
 | Spirit Legends: Solar Eclipse - Collector's Edition | 338706 | [338706-spirit-legends-solar-eclipse-collectors-edition.json](./338706-spirit-legends-solar-eclipse-collectors-edition.json) |
@@ -10236,6 +10240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants | 220120 | [220120-spongebob-squarepants.json](./220120-spongebob-squarepants.json) |
 | SpongeBob SquarePants 3D Obstacle Odyssey | 46728 | [46728-spongebob-squarepants-3d-obstacle-odyssey.json](./46728-spongebob-squarepants-3d-obstacle-odyssey.json) |
 | SpongeBob SquarePants Boating School | 382924 | [382924-spongebob-squarepants-boating-school.json](./382924-spongebob-squarepants-boating-school.json) |
+| SpongeBob SquarePants Bowling | 23599 | [23599-spongebob-squarepants-bowling.json](./23599-spongebob-squarepants-bowling.json) |
 | SpongeBob SquarePants Bubble Ball | 382921 | [382921-spongebob-squarepants-bubble-ball.json](./382921-spongebob-squarepants-bubble-ball.json) |
 | SpongeBob SquarePants Bubblegram | 382926 | [382926-spongebob-squarepants-bubblegram.json](./382926-spongebob-squarepants-bubblegram.json) |
 | SpongeBob SquarePants Saves the Krusty Krab | 135810 | [135810-spongebob-squarepants-saves-the-krusty-krab.json](./135810-spongebob-squarepants-saves-the-krusty-krab.json) |
@@ -14994,6 +14999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Real Mahjong PVI | 342131 | [342131-super-real-mahjong-pvi.json](./342131-super-real-mahjong-pvi.json) |
 | Super Real Mahjong Special: Mika, Kasumi, Shouko no Omoide yori | 138826 | [138826-super-real-mahjong-special-mika-kasumi-shouko-no-omoide-yori.json](./138826-super-real-mahjong-special-mika-kasumi-shouko-no-omoide-yori.json) |
 | Super Real Mahjong vs. | 307701 | [307701-super-real-mahjong-vs.json](./307701-super-real-mahjong-vs.json) |
+| Super Real Tennis | 23561 | [23561-super-real-tennis.json](./23561-super-real-tennis.json) |
 | Super Realistic Autocross | 123046 | [123046-super-realistic-autocross.json](./123046-super-realistic-autocross.json) |
 | Super Recoilfight | 117814 | [117814-super-recoilfight.json](./117814-super-recoilfight.json) |
 | Super Retro Chase | 182931 | [182931-super-retro-chase.json](./182931-super-retro-chase.json) |
@@ -15457,6 +15463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Manager | 218686 | [218686-supermarket-manager.json](./218686-supermarket-manager.json) |
 | Supermarket Manager Empire 2024 | 316240 | [316240-supermarket-manager-empire-2024.json](./316240-supermarket-manager-empire-2024.json) |
 | Supermarket Manager Simulator | 314863 | [314863-supermarket-manager-simulator.json](./314863-supermarket-manager-simulator.json) |
+| Supermarket Mania | 23664 | [23664-supermarket-mania.json](./23664-supermarket-mania.json) |
 | Supermarket Mania HD | 24271 | [24271-supermarket-mania-hd.json](./24271-supermarket-mania-hd.json) |
 | Supermarket Shriek | 107170 | [107170-supermarket-shriek.json](./107170-supermarket-shriek.json) |
 | Supermarket Simulator 2026 | 378772 | [378772-supermarket-simulator-2026.json](./378772-supermarket-simulator-2026.json) |
