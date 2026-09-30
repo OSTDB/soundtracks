@@ -7293,6 +7293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowy: Space Trip | 69835 | [69835-snowy-space-trip.json](./69835-snowy-space-trip.json) |
 | Snowy: The Bear's Adventures | 73857 | [73857-snowy-the-bears-adventures.json](./73857-snowy-the-bears-adventures.json) |
 | Snowy: Treasure Hunter | 52855 | [52855-snowy-treasure-hunter.json](./52855-snowy-treasure-hunter.json) |
+| Snuff | 399121 | [399121-snuff.json](./399121-snuff.json) |
 | Snufkin: Melody of Moominvalley | 180149 | [180149-snufkin-melody-of-moominvalley.json](./180149-snufkin-melody-of-moominvalley.json) |
 | Snufkin: Melody of Moominvalley - Cherished Keepsakes | 288289 | [288289-snufkin-melody-of-moominvalley-cherished-keepsakes.json](./288289-snufkin-melody-of-moominvalley-cherished-keepsakes.json) |
 | Snug Finder | 207879 | [207879-snug-finder.json](./207879-snug-finder.json) |
@@ -11026,6 +11027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stakes Winner | 39626 | [39626-stakes-winner.json](./39626-stakes-winner.json) |
 | Stakes Winner 2 | 39625 | [39625-stakes-winner-2.json](./39625-stakes-winner-2.json) |
 | Stalagflight | 108861 | [108861-stalagflight.json](./108861-stalagflight.json) |
+| Stalart | 399139 | [399139-stalart.json](./399139-stalart.json) |
 | Stalcraft | 321393 | [321393-stalcraft.json](./321393-stalcraft.json) |
 | Stalcraft: X - Operations | 325586 | [325586-stalcraft-x-operations.json](./325586-stalcraft-x-operations.json) |
 | Stale Conversations | 141116 | [141116-stale-conversations.json](./141116-stale-conversations.json) |
@@ -15908,6 +15910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surrender | 226689 | [226689-surrender.json](./226689-surrender.json) |
 | Surrender | 313798 | [313798-surrender.json](./313798-surrender.json) |
 | Surrender 2 | 313799 | [313799-surrender-2.json](./313799-surrender-2.json) |
+| SurrounDead Poly Construction | 399158 | [399158-surroundead-poly-construction.json](./399158-surroundead-poly-construction.json) |
 | Surrounded by Death | 311613 | [311613-surrounded-by-death.json](./311613-surrounded-by-death.json) |
 | Surv | 51986 | [51986-surv.json](./51986-surv.json) |
 | Surv: Last Survival | 105791 | [105791-surv-last-survival.json](./105791-surv-last-survival.json) |
