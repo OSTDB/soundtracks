@@ -13623,6 +13623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumikko Gurashi: Sumikko Park he Youkoso | 55138 | [55138-sumikko-gurashi-sumikko-park-he-youkoso.json](./55138-sumikko-gurashi-sumikko-park-he-youkoso.json) |
 | Sumikkogurashi the Movie Block Puzzle Game | 213635 | [213635-sumikkogurashi-the-movie-block-puzzle-game.json](./213635-sumikkogurashi-the-movie-block-puzzle-game.json) |
 | SuMine | 118163 | [118163-sumine.json](./118163-sumine.json) |
+| Sumire | 137960 | [137960-sumire.json](./137960-sumire.json) |
 | Sumire's Secret | 403603 | [403603-sumires-secret.json](./403603-sumires-secret.json) |
 | Summa Expeditionis | 216869 | [216869-summa-expeditionis.json](./216869-summa-expeditionis.json) |
 | Summer & Winter: Olympic Challenge | 154958 | [154958-summer-and-winter-olympic-challenge.json](./154958-summer-and-winter-olympic-challenge.json) |
