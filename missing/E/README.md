@@ -1828,6 +1828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigmoon | 261257 | [261257-enigmoon.json](./261257-enigmoon.json) |
 | Enjoy Amoy & Sisters | 404874 | [404874-enjoy-amoy-and-sisters.json](./404874-enjoy-amoy-and-sisters.json) |
 | Enjoy Summer Maximum | 418860 | [418860-enjoy-summer-maximum.json](./418860-enjoy-summer-maximum.json) |
+| Enjoy: Futari no Ecchi na Joi to Eroero Kenshuu Taiken | 413846 | [413846-enjoy-futari-no-ecchi-na-joi-to-eroero-kenshuu-taiken.json](./413846-enjoy-futari-no-ecchi-na-joi-to-eroero-kenshuu-taiken.json) |
 | EnjoyUp's 3 in 1 | 390511 | [390511-enjoyups-3-in-1.json](./390511-enjoyups-3-in-1.json) |
 | Enkai Buchou | 293146 | [293146-enkai-buchou.json](./293146-enkai-buchou.json) |
 | Enkai Buchou 2 | 293176 | [293176-enkai-buchou-2.json](./293176-enkai-buchou-2.json) |
@@ -2839,6 +2840,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eurobi Racing | 112940 | [112940-eurobi-racing.json](./112940-eurobi-racing.json) |
 | EuroCops | 62984 | [62984-eurocops.json](./62984-eurocops.json) |
 | EuroDrive | 414570 | [414570-eurodrive.json](./414570-eurodrive.json) |
+| EuroDrive: Bosnia And Herzegovina | 413823 | [413823-eurodrive-bosnia-and-herzegovina.json](./413823-eurodrive-bosnia-and-herzegovina.json) |
+| EuroDrive: Greece | 413822 | [413822-eurodrive-greece.json](./413822-eurodrive-greece.json) |
 | EuroGoal 2012 | 343818 | [343818-eurogoal-2012.json](./343818-eurogoal-2012.json) |
 | Europa | 130893 | [130893-europa.json](./130893-europa.json) |
 | Europa 1400: The Guild | 681 | [681-europa-1400-the-guild.json](./681-europa-1400-the-guild.json) |
