@@ -2137,6 +2137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleship | 95434 | [95434-battleship.json](./95434-battleship.json) |
 | Battleship Apollo | 143669 | [143669-battleship-apollo.json](./143669-battleship-apollo.json) |
 | Battleship Athena | 310496 | [310496-battleship-athena.json](./310496-battleship-athena.json) |
+| Battleship Command | 403062 | [403062-battleship-command.json](./403062-battleship-command.json) |
 | Battleship Crafting | 358484 | [358484-battleship-crafting.json](./358484-battleship-crafting.json) |
 | Battleship Lonewolf | 260651 | [260651-battleship-lonewolf.json](./260651-battleship-lonewolf.json) |
 | Battleship Naval Combat | 366404 | [366404-battleship-naval-combat.json](./366404-battleship-naval-combat.json) |
@@ -3592,6 +3593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billionaire | 95202 | [95202-billionaire.json](./95202-billionaire.json) |
 | Billionaire Banshee | 141026 | [141026-billionaire-banshee.json](./141026-billionaire-banshee.json) |
 | Billionaire Life Simulator | 411583 | [411583-billionaire-life-simulator.json](./411583-billionaire-life-simulator.json) |
+| Billionaire Simulator | 403074 | [403074-billionaire-simulator.json](./403074-billionaire-simulator.json) |
 | Billionworlds : Kingdoms | 153437 | [153437-billionworlds-kingdoms.json](./153437-billionworlds-kingdoms.json) |
 | Billo-Bricks | 291509 | [291509-billo-bricks.json](./291509-billo-bricks.json) |
 | Bills Must Be Paid | 397984 | [397984-bills-must-be-paid.json](./397984-bills-must-be-paid.json) |
@@ -4252,6 +4254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackened | 270699 | [270699-blackened.json](./270699-blackened.json) |
 | BlackFaith | 100572 | [100572-blackfaith.json](./100572-blackfaith.json) |
 | Blackfall | 258551 | [258551-blackfall.json](./258551-blackfall.json) |
+| Blackfire Crusade | 403082 | [403082-blackfire-crusade.json](./403082-blackfire-crusade.json) |
 | Blackfrost: The Long Dark 2 | 325596 | [325596-blackfrost-the-long-dark-2.json](./325596-blackfrost-the-long-dark-2.json) |
 | Blackgate | 138226 | [138226-blackgate.json](./138226-blackgate.json) |
 | BlackGate | 325837 | [325837-blackgate.json](./325837-blackgate.json) |
@@ -6528,6 +6531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoxBoxBoy! | 19598 | [19598-boxboxboy.json](./19598-boxboxboy.json) |
 | Boxcars | 318425 | [318425-boxcars.json](./318425-boxcars.json) |
 | Boxcorp Employee Training | 179137 | [179137-boxcorp-employee-training.json](./179137-boxcorp-employee-training.json) |
+| Boxed In | 403087 | [403087-boxed-in.json](./403087-boxed-in.json) |
 | Boxed In | 76687 | [76687-boxed-in.json](./76687-boxed-in.json) |
 | Boxed In | 95394 | [95394-boxed-in.json](./95394-boxed-in.json) |
 | Boxed Up! | 386837 | [386837-boxed-up.json](./386837-boxed-up.json) |
