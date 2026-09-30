@@ -2595,6 +2595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hermes | 94255 | [94255-hermes.json](./94255-hermes.json) |
 | Hermes: War of the Gods | 127089 | [127089-hermes-war-of-the-gods.json](./127089-hermes-war-of-the-gods.json) |
 | Hermes' Runner | 334193 | [334193-hermes-runner.json](./334193-hermes-runner.json) |
+| Hermetica | 388301 | [388301-hermetica.json](./388301-hermetica.json) |
 | Hermina to Culus: Lillie no Atelier Mou Hitotsu no Monogatari | 123013 | [123013-hermina-to-culus-lillie-no-atelier-mou-hitotsu-no-monogatari.json](./123013-hermina-to-culus-lillie-no-atelier-mou-hitotsu-no-monogatari.json) |
 | Hermit | 291025 | [291025-hermit.json](./291025-hermit.json) |
 | Hermit and Pig | 252738 | [252738-hermit-and-pig.json](./252738-hermit-and-pig.json) |
@@ -3788,6 +3789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hissy Fit: Make Snake Break | 347175 | [347175-hissy-fit-make-snake-break.json](./347175-hissy-fit-make-snake-break.json) |
 | Hist Maker | 103183 | [103183-hist-maker.json](./103183-hist-maker.json) |
 | Histo-Time | 336710 | [336710-histo-time.json](./336710-histo-time.json) |
+| Histoire d'Or | 388318 | [388318-histoire-dor.json](./388318-histoire-dor.json) |
 | Histoire de Lune | 322590 | [322590-histoire-de-lune.json](./322590-histoire-de-lune.json) |
 | Histology Quiz Game | 99387 | [99387-histology-quiz-game.json](./99387-histology-quiz-game.json) |
 | Historia Battles Crusade | 134004 | [134004-historia-battles-crusade.json](./134004-historia-battles-crusade.json) |
