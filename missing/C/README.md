@@ -893,6 +893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Detailing Simulator | 182487 | [182487-car-detailing-simulator.json](./182487-car-detailing-simulator.json) |
 | Car Down | 405038 | [405038-car-down.json](./405038-car-down.json) |
 | Car Drawing Game | 181806 | [181806-car-drawing-game.json](./181806-car-drawing-game.json) |
+| Car Driver 5 | 414471 | [414471-car-driver-5.json](./414471-car-driver-5.json) |
 | Car Driving Simulator | 153835 | [153835-car-driving-simulator.json](./153835-car-driving-simulator.json) |
 | Car Factory Simulator | 232166 | [232166-car-factory-simulator.json](./232166-car-factory-simulator.json) |
 | Car Factory Tycoon | 230372 | [230372-car-factory-tycoon.json](./230372-car-factory-tycoon.json) |
@@ -1281,6 +1282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrotting Brain | 34418 | [34418-carrotting-brain.json](./34418-carrotting-brain.json) |
 | Carrumble | 122252 | [122252-carrumble.json](./122252-carrumble.json) |
 | Carry Onward | 249787 | [249787-carry-onward.json](./249787-carry-onward.json) |
+| Carry the Count | 414477 | [414477-carry-the-count.json](./414477-carry-the-count.json) |
 | Carry The Glass | 319399 | [319399-carry-the-glass.json](./319399-carry-the-glass.json) |
 | Carry the Pack Rack | 389711 | [389711-carry-the-pack-rack.json](./389711-carry-the-pack-rack.json) |
 | Cars | 243201 | [243201-cars.json](./243201-cars.json) |
@@ -5734,6 +5736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command & Conquer 3: Kane's Wrath | 395863 | [395863-command-and-conquer-3-kanes-wrath.json](./395863-command-and-conquer-3-kanes-wrath.json) |
 | Command & Conquer 3: Kane's Wrath | 707 | [707-command-and-conquer-3-kanes-wrath.json](./707-command-and-conquer-3-kanes-wrath.json) |
 | Command & Conquer 3: Tiberium Wars | 281426 | [281426-command-and-conquer-3-tiberium-wars.json](./281426-command-and-conquer-3-tiberium-wars.json) |
+| Command & Conquer 3D | 414520 | [414520-command-and-conquer-3d.json](./414520-command-and-conquer-3d.json) |
 | Command & Conquer 4: Tiberian Twilight | 670 | [670-command-and-conquer-4-tiberian-twilight.json](./670-command-and-conquer-4-tiberian-twilight.json) |
 | Command & Conquer Remastered Collection | 112104 | [112104-command-and-conquer-remastered-collection.json](./112104-command-and-conquer-remastered-collection.json) |
 | Command & Conquer: Generals | 649 | [649-command-and-conquer-generals.json](./649-command-and-conquer-generals.json) |
