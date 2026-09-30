@@ -991,6 +991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank vs. Tank: Deluxe Edition | 332507 | [332507-tank-vs-tank-deluxe-edition.json](./332507-tank-vs-tank-deluxe-edition.json) |
 | Tank vs. Tank: Discovery Edition | 400205 | [400205-tank-vs-tank-discovery-edition.json](./400205-tank-vs-tank-discovery-edition.json) |
 | Tank vs. Tank: Prime Edition | 333727 | [333727-tank-vs-tank-prime-edition.json](./333727-tank-vs-tank-prime-edition.json) |
+| Tank vs. Tank: Value Edition | 397892 | [397892-tank-vs-tank-value-edition.json](./397892-tank-vs-tank-value-edition.json) |
 | Tank War Defender 3 | 175405 | [175405-tank-war-defender-3.json](./175405-tank-war-defender-3.json) |
 | Tank War Nexus | 149080 | [149080-tank-war-nexus.json](./149080-tank-war-nexus.json) |
 | Tank Warfare: El Guettar | 154531 | [154531-tank-warfare-el-guettar.json](./154531-tank-warfare-el-guettar.json) |
@@ -3261,6 +3262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bureau of Fantastical & Arcane Affairs | 347886 | [347886-the-bureau-of-fantastical-and-arcane-affairs.json](./347886-the-bureau-of-fantastical-and-arcane-affairs.json) |
 | The Bureau: XCOM Declassified | 244 | [244-the-bureau-xcom-declassified.json](./244-the-bureau-xcom-declassified.json) |
 | The Burger Quiz | 219172 | [219172-the-burger-quiz.json](./219172-the-burger-quiz.json) |
+| The Buried Pillars | 397841 | [397841-the-buried-pillars.json](./397841-the-buried-pillars.json) |
 | The Burned Ground | 115701 | [115701-the-burned-ground.json](./115701-the-burned-ground.json) |
 | The Burnt School | 147978 | [147978-the-burnt-school.json](./147978-the-burnt-school.json) |
 | The Bus: Hamburg City | 371245 | [371245-the-bus-hamburg-city.json](./371245-the-bus-hamburg-city.json) |
@@ -12176,6 +12178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ToQger Maze Game | 60491 | [60491-toqger-maze-game.json](./60491-toqger-maze-game.json) |
 | Tor Eternum | 148496 | [148496-tor-eternum.json](./148496-tor-eternum.json) |
 | Tora | 114381 | [114381-tora.json](./114381-tora.json) |
+| Torara no Mahjong Kyoushitsu | 397894 | [397894-torara-no-mahjong-kyoushitsu.json](./397894-torara-no-mahjong-kyoushitsu.json) |
 | Toraware no Palm | 97297 | [97297-toraware-no-palm.json](./97297-toraware-no-palm.json) |
 | Toraware no Palm: Deluxe Edition | 136967 | [136967-toraware-no-palm-deluxe-edition.json](./136967-toraware-no-palm-deluxe-edition.json) |
 | Toraware no Palm: Refrain | 109603 | [109603-toraware-no-palm-refrain.json](./109603-toraware-no-palm-refrain.json) |
