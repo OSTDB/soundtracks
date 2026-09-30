@@ -1785,6 +1785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Hentai Cat | 160144 | [160144-vr-hentai-cat.json](./160144-vr-hentai-cat.json) |
 | VR Hentai Hot | 384635 | [384635-vr-hentai-hot.json](./384635-vr-hentai-hot.json) |
 | VR Hiroshima 1945 | 160140 | [160140-vr-hiroshima-1945.json](./160140-vr-hiroshima-1945.json) |
+| VR Home | 27352 | [27352-vr-home.json](./27352-vr-home.json) |
 | VR Houses: Glass Apartment | 282028 | [282028-vr-houses-glass-apartment.json](./282028-vr-houses-glass-apartment.json) |
 | VR Hurl | 54479 | [54479-vr-hurl.json](./54479-vr-hurl.json) |
 | VR Hybrid War 2117 | 75199 | [75199-vr-hybrid-war-2117.json](./75199-vr-hybrid-war-2117.json) |
