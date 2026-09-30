@@ -5357,6 +5357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Your World | 145583 | [145583-color-your-world.json](./145583-color-your-world.json) |
 | Color-A-Cube | 330266 | [330266-color-a-cube.json](./330266-color-a-cube.json) |
 | Color-A-Cube x Gorn | 360771 | [360771-color-a-cube-x-gorn.json](./360771-color-a-cube-x-gorn.json) |
+| Colorado | 10851 | [10851-colorado.json](./10851-colorado.json) |
 | Colorado Rail Game | 390682 | [390682-colorado-rail-game.json](./390682-colorado-rail-game.json) |
 | Coloramba! | 200036 | [200036-coloramba.json](./200036-coloramba.json) |
 | ColorBox | 91917 | [91917-colorbox.json](./91917-colorbox.json) |
