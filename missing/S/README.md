@@ -1744,6 +1744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scruffy's Quest | 265681 | [265681-scruffys-quest.json](./265681-scruffys-quest.json) |
 | Scrumlords | 260634 | [260634-scrumlords.json](./260634-scrumlords.json) |
 | Scrunk | 104027 | [104027-scrunk.json](./104027-scrunk.json) |
+| Scruzzleword | 21582 | [21582-scruzzleword.json](./21582-scruzzleword.json) |
 | SCS deOrbit | 36050 | [36050-scs-deorbit.json](./36050-scs-deorbit.json) |
 | Scuba Bear | 178678 | [178678-scuba-bear.json](./178678-scuba-bear.json) |
 | Scuba Diver | 40744 | [40744-scuba-diver.json](./40744-scuba-diver.json) |
@@ -2776,6 +2777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Setup Savior | 350448 | [350448-setup-savior.json](./350448-setup-savior.json) |
 | Seul (Alone): The entrée | 107863 | [107863-seul-alone-the-entree.json](./107863-seul-alone-the-entree.json) |
 | Seum: The Drunk Side of the Moon | 104676 | [104676-seum-the-drunk-side-of-the-moon.json](./104676-seum-the-drunk-side-of-the-moon.json) |
+| Sev Zero | 21650 | [21650-sev-zero.json](./21650-sev-zero.json) |
 | Seven | 271811 | [271811-seven.json](./271811-seven.json) |
 | Seven Blasphemies | 415142 | [415142-seven-blasphemies.json](./415142-seven-blasphemies.json) |
 | Seven Boys 2 | 68104 | [68104-seven-boys-2.json](./68104-seven-boys-2.json) |
@@ -4408,6 +4410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Showgunners: Security Breach | 257677 | [257677-showgunners-security-breach.json](./257677-showgunners-security-breach.json) |
 | ShowMeSpeed | 303768 | [303768-showmespeed.json](./303768-showmespeed.json) |
 | Showrunners | 398542 | [398542-showrunners.json](./398542-showrunners.json) |
+| Showtime Championship Boxing | 21506 | [21506-showtime-championship-boxing.json](./21506-showtime-championship-boxing.json) |
 | Showtime: Vampire Diaries | 241370 | [241370-showtime-vampire-diaries.json](./241370-showtime-vampire-diaries.json) |
 | Showtime! | 9405 | [9405-showtime.json](./9405-showtime.json) |
 | Showy Homes | 380521 | [380521-showy-homes.json](./380521-showy-homes.json) |
@@ -5849,6 +5852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyjet | 47245 | [47245-skyjet.json](./47245-skyjet.json) |
 | SkyJumper | 190732 | [190732-skyjumper.json](./190732-skyjumper.json) |
 | Skyland Defense | 109672 | [109672-skyland-defense.json](./109672-skyland-defense.json) |
+| Skylanders: Battlecast | 21563 | [21563-skylanders-battlecast.json](./21563-skylanders-battlecast.json) |
 | Skylanders: Giants | 1586 | [1586-skylanders-giants.json](./1586-skylanders-giants.json) |
 | Skylanders: Giants | 256679 | [256679-skylanders-giants.json](./256679-skylanders-giants.json) |
 | Skylanders: Imaginators | 19576 | [19576-skylanders-imaginators.json](./19576-skylanders-imaginators.json) |
@@ -6116,6 +6120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slice 'Em Up! | 185130 | [185130-slice-em-up.json](./185130-slice-em-up.json) |
 | Slice & Dice | 176099 | [176099-slice-and-dice.json](./176099-slice-and-dice.json) |
 | Slice It! | 147957 | [147957-slice-it.json](./147957-slice-it.json) |
+| Slice It! | 21585 | [21585-slice-it.json](./21585-slice-it.json) |
 | Slice N' Hook | 67335 | [67335-slice-n-hook.json](./67335-slice-n-hook.json) |
 | Slice of Life Fantasy | 191192 | [191192-slice-of-life-fantasy.json](./191192-slice-of-life-fantasy.json) |
 | Slice of Scythe | 179601 | [179601-slice-of-scythe.json](./179601-slice-of-scythe.json) |
@@ -9829,6 +9834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spelunker HD | 45281 | [45281-spelunker-hd.json](./45281-spelunker-hd.json) |
 | Spelunker HD Deluxe: Limited Edition | 167149 | [167149-spelunker-hd-deluxe-limited-edition.json](./167149-spelunker-hd-deluxe-limited-edition.json) |
 | Spelunker Party | 68534 | [68534-spelunker-party.json](./68534-spelunker-party.json) |
+| Spelunker World | 21587 | [21587-spelunker-world.json](./21587-spelunker-world.json) |
 | Spelunker: Collection | 45280 | [45280-spelunker-collection.json](./45280-spelunker-collection.json) |
 | Spelunkery | 374726 | [374726-spelunkery.json](./374726-spelunkery.json) |
 | Spelunky 2 | 75239 | [75239-spelunky-2.json](./75239-spelunky-2.json) |
@@ -9929,6 +9935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man 3 | 220112 | [220112-spider-man-3.json](./220112-spider-man-3.json) |
 | Spider-Man 3 | 247535 | [247535-spider-man-3.json](./247535-spider-man-3.json) |
 | Spider-Man 3 Action | 225298 | [225298-spider-man-3-action.json](./225298-spider-man-3-action.json) |
+| Spider-Man 3: Collector's Edition | 21616 | [21616-spider-man-3-collectors-edition.json](./21616-spider-man-3-collectors-edition.json) |
 | Spider-Man 3: Escape the Sandman | 245399 | [245399-spider-man-3-escape-the-sandman.json](./245399-spider-man-3-escape-the-sandman.json) |
 | Spider-Man 3: High-Rise Hysteria | 245398 | [245398-spider-man-3-high-rise-hysteria.json](./245398-spider-man-3-high-rise-hysteria.json) |
 | Spider-Man 3: The Goblin Strikes! | 245397 | [245397-spider-man-3-the-goblin-strikes.json](./245397-spider-man-3-the-goblin-strikes.json) |
@@ -11476,6 +11483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stargate | 245393 | [245393-stargate.json](./245393-stargate.json) |
 | Stargate | 346142 | [346142-stargate.json](./346142-stargate.json) |
 | Stargate Bullet | 379896 | [379896-stargate-bullet.json](./379896-stargate-bullet.json) |
+| Stargate Online TCG | 21529 | [21529-stargate-online-tcg.json](./21529-stargate-online-tcg.json) |
 | Stargate SG-1 | 280286 | [280286-stargate-sg-1.json](./280286-stargate-sg-1.json) |
 | Stargate SG-1: Entropy Syndrome | 280284 | [280284-stargate-sg-1-entropy-syndrome.json](./280284-stargate-sg-1-entropy-syndrome.json) |
 | Stargate SG-1: Unleashed - Episode 2 | 308352 | [308352-stargate-sg-1-unleashed-episode-2.json](./308352-stargate-sg-1-unleashed-episode-2.json) |
@@ -12535,6 +12543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stormbridge | 327329 | [327329-stormbridge.json](./327329-stormbridge.json) |
 | Stormbringer | 13036 | [13036-stormbringer.json](./13036-stormbringer.json) |
 | Stormbroken | 363920 | [363920-stormbroken.json](./363920-stormbroken.json) |
+| Stormfall: Age of War | 21677 | [21677-stormfall-age-of-war.json](./21677-stormfall-age-of-war.json) |
 | Stormfall: Saga of Survival | 105787 | [105787-stormfall-saga-of-survival.json](./105787-stormfall-saga-of-survival.json) |
 | Stormforge | 305188 | [305188-stormforge.json](./305188-stormforge.json) |
 | Stormgate | 204358 | [204358-stormgate.json](./204358-stormgate.json) |
@@ -12653,6 +12662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strangeland | 103219 | [103219-strangeland.json](./103219-strangeland.json) |
 | Strangeland: The Last Colony | 401618 | [401618-strangeland-the-last-colony.json](./401618-strangeland-the-last-colony.json) |
 | Strangeloop | 39138 | [39138-strangeloop.json](./39138-strangeloop.json) |
+| Stranger | 21543 | [21543-stranger.json](./21543-stranger.json) |
 | Stranger by Night | 73558 | [73558-stranger-by-night.json](./73558-stranger-by-night.json) |
 | Stranger Danger or Horror, Quest and Magic | 197390 | [197390-stranger-danger-or-horror-quest-and-magic.json](./197390-stranger-danger-or-horror-quest-and-magic.json) |
 | Stranger in Utopia | 273871 | [273871-stranger-in-utopia.json](./273871-stranger-in-utopia.json) |
