@@ -708,12 +708,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Space Wolf - Saga of the Great Awakening | 163384 | [163384-warhammer-40-000-space-wolf-saga-of-the-great-awakening.json](./163384-warhammer-40-000-space-wolf-saga-of-the-great-awakening.json) |
 | Warhammer 40,000: Space Wolf - Sentry Gun Pack | 156170 | [156170-warhammer-40-000-space-wolf-sentry-gun-pack.json](./156170-warhammer-40-000-space-wolf-sentry-gun-pack.json) |
 | Warhammer 40,000: Space Wolf - Sigurd Ironside | 163387 | [163387-warhammer-40-000-space-wolf-sigurd-ironside.json](./163387-warhammer-40-000-space-wolf-sigurd-ironside.json) |
+| Warhammer 40,000: Speed Freeks | 250904 | [250904-warhammer-40-000-speed-freeks.json](./250904-warhammer-40-000-speed-freeks.json) |
 | Warhammer 40,000: Squad Command | 18310 | [18310-warhammer-40-000-squad-command.json](./18310-warhammer-40-000-squad-command.json) |
 | Warhammer 40,000: Storm of Vengeance | 9389 | [9389-warhammer-40-000-storm-of-vengeance.json](./9389-warhammer-40-000-storm-of-vengeance.json) |
 | Warhammer 40,000: Tacticus | 203274 | [203274-warhammer-40-000-tacticus.json](./203274-warhammer-40-000-tacticus.json) |
 | Warhammer 40,000: Warpforge | 203256 | [203256-warhammer-40-000-warpforge.json](./203256-warhammer-40-000-warpforge.json) |
 | Warhammer Age of Sigmar: Champions | 112518 | [112518-warhammer-age-of-sigmar-champions.json](./112518-warhammer-age-of-sigmar-champions.json) |
 | Warhammer Age of Sigmar: Deathmaster | 402516 | [402516-warhammer-age-of-sigmar-deathmaster.json](./402516-warhammer-age-of-sigmar-deathmaster.json) |
+| Warhammer Age of Sigmar: Realms of Ruin | 250905 | [250905-warhammer-age-of-sigmar-realms-of-ruin.json](./250905-warhammer-age-of-sigmar-realms-of-ruin.json) |
 | Warhammer Age of Sigmar: Realms of Ruin - The Gobsprakk, The Mouth of Mork Pack | 279093 | [279093-warhammer-age-of-sigmar-realms-of-ruin-the-gobsprakk-the-mouth-of-mork-pack.json](./279093-warhammer-age-of-sigmar-realms-of-ruin-the-gobsprakk-the-mouth-of-mork-pack.json) |
 | Warhammer Age of Sigmar: Realms of Ruin - The Yndrasta, Celestial Spear Pack | 279094 | [279094-warhammer-age-of-sigmar-realms-of-ruin-the-yndrasta-celestial-spear-pack.json](./279094-warhammer-age-of-sigmar-realms-of-ruin-the-yndrasta-celestial-spear-pack.json) |
 | Warhammer Age of Sigmar: Soul Arena | 148984 | [148984-warhammer-age-of-sigmar-soul-arena.json](./148984-warhammer-age-of-sigmar-soul-arena.json) |
@@ -3877,6 +3879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War Heroes | 82962 | [82962-world-war-heroes.json](./82962-world-war-heroes.json) |
 | World War Heroes: WW2 FPS Shooter! | 96747 | [96747-world-war-heroes-ww2-fps-shooter.json](./96747-world-war-heroes-ww2-fps-shooter.json) |
 | World War II City Rebirth Tycoon | 322400 | [322400-world-war-ii-city-rebirth-tycoon.json](./322400-world-war-ii-city-rebirth-tycoon.json) |
+| World War II GI | 2533 | [2533-world-war-ii-gi.json](./2533-world-war-ii-gi.json) |
 | World War II: Battle Strike | 205828 | [205828-world-war-ii-battle-strike.json](./205828-world-war-ii-battle-strike.json) |
 | World War II: Panzer Claws 2 | 17996 | [17996-world-war-ii-panzer-claws-2.json](./17996-world-war-ii-panzer-claws-2.json) |
 | World War II: Prisoner of War | 64979 | [64979-world-war-ii-prisoner-of-war.json](./64979-world-war-ii-prisoner-of-war.json) |
