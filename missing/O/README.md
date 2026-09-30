@@ -238,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octave | 180675 | [180675-octave.json](./180675-octave.json) |
 | Octavio Camacho | 247537 | [247537-octavio-camacho.json](./247537-octavio-camacho.json) |
 | Octillery Vs. Collection | 399055 | [399055-octillery-vs-collection.json](./399055-octillery-vs-collection.json) |
+| Octo Crank | 418589 | [418589-octo-crank.json](./418589-octo-crank.json) |
 | Octo Curse | 251015 | [251015-octo-curse.json](./251015-octo-curse.json) |
 | Octo Vinctum: Saga of the Galactic Stardom War | 197124 | [197124-octo-vinctum-saga-of-the-galactic-stardom-war.json](./197124-octo-vinctum-saga-of-the-galactic-stardom-war.json) |
 | Octo's Balloon Challenge | 301022 | [301022-octos-balloon-challenge.json](./301022-octos-balloon-challenge.json) |
