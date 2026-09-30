@@ -852,6 +852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | If It Moves, Shoot It! | 71589 | [71589-if-it-moves-shoot-it.json](./71589-if-it-moves-shoot-it.json) |
 | If Monks Had Macs... | 366833 | [366833-if-monks-had-macs.json](./366833-if-monks-had-macs.json) |
 | If My Heart Had Wings | 196874 | [196874-if-my-heart-had-wings.json](./196874-if-my-heart-had-wings.json) |
+| If My Heart Had Wings: Flight Diary | 110756 | [110756-if-my-heart-had-wings-flight-diary.json](./110756-if-my-heart-had-wings-flight-diary.json) |
 | If My Heart had Wings: Flight Diary - New Wings: Akari | 117522 | [117522-if-my-heart-had-wings-flight-diary-new-wings-akari.json](./117522-if-my-heart-had-wings-flight-diary-new-wings-akari.json) |
 | If Nil then | 201326 | [201326-if-nil-then.json](./201326-if-nil-then.json) |
 | If Only... | 75012 | [75012-if-only.json](./75012-if-only.json) |
@@ -1089,6 +1090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iMake IcePops | 101554 | [101554-imake-icepops.json](./101554-imake-icepops.json) |
 | Imakuni? no Ball | 59038 | [59038-imakuni-no-ball.json](./59038-imakuni-no-ball.json) |
 | Imasugu Tsukaeru Mamechishiki Quiz Zatsugaku Ou DS | 133799 | [133799-imasugu-tsukaeru-mamechishiki-quiz-zatsugaku-ou-ds.json](./133799-imasugu-tsukaeru-mamechishiki-quiz-zatsugaku-ou-ds.json) |
+| Imaze.exe | 112443 | [112443-imaze-exe.json](./112443-imaze-exe.json) |
 | Imaze.exe 2 | 113052 | [113052-imaze-exe-2.json](./113052-imaze-exe-2.json) |
 | Imbalance | 197260 | [197260-imbalance.json](./197260-imbalance.json) |
 | Imball | 391350 | [391350-imball.json](./391350-imball.json) |
