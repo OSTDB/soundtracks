@@ -4729,6 +4729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Point | 322111 | [322111-rogue-point.json](./322111-rogue-point.json) |
 | Rogue Princess | 211750 | [211750-rogue-princess.json](./211750-rogue-princess.json) |
 | Rogue Quest | 402511 | [402511-rogue-quest.json](./402511-rogue-quest.json) |
+| Rogue Quest: The Vault of the Lost Tyrant | 74358 | [74358-rogue-quest-the-vault-of-the-lost-tyrant.json](./74358-rogue-quest-the-vault-of-the-lost-tyrant.json) |
 | Rogue Raccoon | 358356 | [358356-rogue-raccoon.json](./358356-rogue-raccoon.json) |
 | Rogue Racing: PinkSlip | 234322 | [234322-rogue-racing-pinkslip.json](./234322-rogue-racing-pinkslip.json) |
 | Rogue Rampage | 334130 | [334130-rogue-rampage.json](./334130-rogue-rampage.json) |
