@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Antia | 200141 | [200141-call-of-antia.json](./200141-call-of-antia.json) |
 | Call of Atlantis | 26961 | [26961-call-of-atlantis.json](./26961-call-of-atlantis.json) |
 | Call of Atlantis: Treasures of Poseidon - Collector's Edition | 355541 | [355541-call-of-atlantis-treasures-of-poseidon-collectors-edition.json](./355541-call-of-atlantis-treasures-of-poseidon-collectors-edition.json) |
+| Call of Beauty | 389044 | [389044-call-of-beauty.json](./389044-call-of-beauty.json) |
 | Call of Clans: Optional Elite Card Pack | 355221 | [355221-call-of-clans-optional-elite-card-pack.json](./355221-call-of-clans-optional-elite-card-pack.json) |
 | Call of Clans: Random Legend Card Pack | 355222 | [355222-call-of-clans-random-legend-card-pack.json](./355222-call-of-clans-random-legend-card-pack.json) |
 | Call of Cutie | 411724 | [411724-call-of-cutie.json](./411724-call-of-cutie.json) |
@@ -1165,6 +1166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cargo Company | 148504 | [148504-cargo-company.json](./148504-cargo-company.json) |
 | Cargo Cult: Shoot'n'Loot VR | 30258 | [30258-cargo-cult-shootnloot-vr.json](./30258-cargo-cult-shootnloot-vr.json) |
 | Cargo King | 344440 | [344440-cargo-king.json](./344440-cargo-king.json) |
+| Cargo Runner: Mars | 389050 | [389050-cargo-runner-mars.json](./389050-cargo-runner-mars.json) |
 | Cargo Transportation: Low Poly | 144914 | [144914-cargo-transportation-low-poly.json](./144914-cargo-transportation-low-poly.json) |
 | Cargo Truck Parking | 220191 | [220191-cargo-truck-parking.json](./220191-cargo-truck-parking.json) |
 | Cargo-Bot | 318204 | [318204-cargo-bot.json](./318204-cargo-bot.json) |
@@ -2274,6 +2276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celebrity Kombat | 264090 | [264090-celebrity-kombat.json](./264090-celebrity-kombat.json) |
 | Celebrity Life | 157138 | [157138-celebrity-life.json](./157138-celebrity-life.json) |
 | Celebrity Slot Machine | 242550 | [242550-celebrity-slot-machine.json](./242550-celebrity-slot-machine.json) |
+| Celebrity Smackdown | 389039 | [389039-celebrity-smackdown.json](./389039-celebrity-smackdown.json) |
 | Celestarium | 226300 | [226300-celestarium.json](./226300-celestarium.json) |
 | Celeste 64: Fragments of the Mountain | 284430 | [284430-celeste-64-fragments-of-the-mountain.json](./284430-celeste-64-fragments-of-the-mountain.json) |
 | Celeste Classic | 215762 | [215762-celeste-classic.json](./215762-celeste-classic.json) |
@@ -5611,6 +5614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorizing: Good Times | 317233 | [317233-colorizing-good-times.json](./317233-colorizing-good-times.json) |
 | Colorizing: Pleasure | 411811 | [411811-colorizing-pleasure.json](./411811-colorizing-pleasure.json) |
 | Colorizing: Satisfaction | 351225 | [351225-colorizing-satisfaction.json](./351225-colorizing-satisfaction.json) |
+| Colorizing: Sunshine | 389049 | [389049-colorizing-sunshine.json](./389049-colorizing-sunshine.json) |
 | Colorless | 380078 | [380078-colorless.json](./380078-colorless.json) |
 | Colorless Life | 50525 | [50525-colorless-life.json](./50525-colorless-life.json) |
 | Colorless Life | 50528 | [50528-colorless-life.json](./50528-colorless-life.json) |
