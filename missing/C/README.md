@@ -3360,6 +3360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chip's Challenge | 282559 | [282559-chips-challenge.json](./282559-chips-challenge.json) |
 | Chip's Challenge | 282560 | [282560-chips-challenge.json](./282560-chips-challenge.json) |
 | Chip's Challenge | 282561 | [282561-chips-challenge.json](./282561-chips-challenge.json) |
+| Chip's Challenge (Amiga/C64/Lynx/Mega Drive/SNES/Spectrum) | 413030 | [413030-chips-challenge-amiga-c64-lynx-mega-drive-snes-spectrum.json](./413030-chips-challenge-amiga-c64-lynx-mega-drive-snes-spectrum.json) |
 | Chip's Challenge 2 | 22151 | [22151-chips-challenge-2.json](./22151-chips-challenge-2.json) |
 | Chipmatic | 355037 | [355037-chipmatic.json](./355037-chipmatic.json) |
 | Chipmonk! | 114947 | [114947-chipmonk.json](./114947-chipmonk.json) |
@@ -5178,6 +5179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Breath | 151050 | [151050-cold-breath.json](./151050-cold-breath.json) |
 | Cold Cable: Lifeshift | 115810 | [115810-cold-cable-lifeshift.json](./115810-cold-cable-lifeshift.json) |
 | Cold Call | 165989 | [165989-cold-call.json](./165989-cold-call.json) |
+| Cold Case | 413103 | [413103-cold-case.json](./413103-cold-case.json) |
 | Cold Case Files | 57683 | [57683-cold-case-files.json](./57683-cold-case-files.json) |
 | Cold Case Summer | 151544 | [151544-cold-case-summer.json](./151544-cold-case-summer.json) |
 | Cold City | 401838 | [401838-cold-city.json](./401838-cold-city.json) |
@@ -7136,6 +7138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CP3D | 109581 | [109581-cp3d.json](./109581-cp3d.json) |
 | CPA: Reports Bousy | 311123 | [311123-cpa-reports-bousy.json](./311123-cpa-reports-bousy.json) |
 | CPU Invaders: Aim Hero | 413665 | [413665-cpu-invaders-aim-hero.json](./413665-cpu-invaders-aim-hero.json) |
+| CPU Invaders: Cyber Arcade | 413136 | [413136-cpu-invaders-cyber-arcade.json](./413136-cpu-invaders-cyber-arcade.json) |
 | CPU Invaders: Micro Spheres | 413658 | [413658-cpu-invaders-micro-spheres.json](./413658-cpu-invaders-micro-spheres.json) |
 | CPU Invaders: Movie Attack | 396210 | [396210-cpu-invaders-movie-attack.json](./396210-cpu-invaders-movie-attack.json) |
 | CR Godzilla 3S-T Battle | 75894 | [75894-cr-godzilla-3s-t-battle.json](./75894-cr-godzilla-3s-t-battle.json) |
