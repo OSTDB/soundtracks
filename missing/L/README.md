@@ -969,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League Manager 2023 | 235696 | [235696-league-manager-2023.json](./235696-league-manager-2023.json) |
 | League of Abyss | 312573 | [312573-league-of-abyss.json](./312573-league-of-abyss.json) |
 | League of Angels | 23610 | [23610-league-of-angels.json](./23610-league-of-angels.json) |
+| League of Angels II | 21603 | [21603-league-of-angels-ii.json](./21603-league-of-angels-ii.json) |
 | League of Battle | 50522 | [50522-league-of-battle.json](./50522-league-of-battle.json) |
 | League of Champions Soccer | 152350 | [152350-league-of-champions-soccer.json](./152350-league-of-champions-soccer.json) |
 | League of Enthusiastic Losers | 157216 | [157216-league-of-enthusiastic-losers.json](./157216-league-of-enthusiastic-losers.json) |
@@ -1077,6 +1078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left at Home | 241488 | [241488-left-at-home.json](./241488-left-at-home.json) |
 | Left Behind: Eternal Forces | 20614 | [20614-left-behind-eternal-forces.json](./20614-left-behind-eternal-forces.json) |
 | Left Brain Right Brain | 20771 | [20771-left-brain-right-brain.json](./20771-left-brain-right-brain.json) |
+| Left Brain Right Brain 2 | 21223 | [21223-left-brain-right-brain-2.json](./21223-left-brain-right-brain-2.json) |
 | Left Drift Right Shift Orbit | 108640 | [108640-left-drift-right-shift-orbit.json](./108640-left-drift-right-shift-orbit.json) |
 | Left in the Dark: No One on Board | 17144 | [17144-left-in-the-dark-no-one-on-board.json](./17144-left-in-the-dark-no-one-on-board.json) |
 | Left on Read | 137527 | [137527-left-on-read.json](./137527-left-on-read.json) |
@@ -2170,6 +2172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light House Puzzle | 110969 | [110969-light-house-puzzle.json](./110969-light-house-puzzle.json) |
 | Light Hunters: Battalion of Darkness | 126515 | [126515-light-hunters-battalion-of-darkness.json](./126515-light-hunters-battalion-of-darkness.json) |
 | Light In Blood | 277003 | [277003-light-in-blood.json](./277003-light-in-blood.json) |
+| Light in the Dark | 21684 | [21684-light-in-the-dark.json](./21684-light-in-the-dark.json) |
 | Light in the Woods | 343849 | [343849-light-in-the-woods.json](./343849-light-in-the-woods.json) |
 | Light Infantry | 161157 | [161157-light-infantry.json](./161157-light-infantry.json) |
 | Light Instinct | 357818 | [357818-light-instinct.json](./357818-light-instinct.json) |
@@ -3291,6 +3294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | London Racer: Police Madness | 15436 | [15436-london-racer-police-madness.json](./15436-london-racer-police-madness.json) |
 | London Racer: World Challenge | 15437 | [15437-london-racer-world-challenge.json](./15437-london-racer-world-challenge.json) |
 | London Rush | 234602 | [234602-london-rush.json](./234602-london-rush.json) |
+| London Taxi Rush Hour | 21505 | [21505-london-taxi-rush-hour.json](./21505-london-taxi-rush-hour.json) |
 | London-Faversham High Speed | 63799 | [63799-london-faversham-high-speed.json](./63799-london-faversham-high-speed.json) |
 | Londonian Gothics: Meikyuu no Lolita | 122996 | [122996-londonian-gothics-meikyuu-no-lolita.json](./122996-londonian-gothics-meikyuu-no-lolita.json) |
 | Lone | 181160 | [181160-lone.json](./181160-lone.json) |
