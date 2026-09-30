@@ -1544,6 +1544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oom | 252765 | [252765-oom.json](./252765-oom.json) |
 | Oompas Outrageous Rush | 373556 | [373556-oompas-outrageous-rush.json](./373556-oompas-outrageous-rush.json) |
 | Oona the Druid's Path | 143031 | [143031-oona-the-druids-path.json](./143031-oona-the-druids-path.json) |
+| Oonga Boonga | 389666 | [389666-oonga-boonga.json](./389666-oonga-boonga.json) |
 | Ooo | 181897 | [181897-ooo.json](./181897-ooo.json) |
 | oOo: Ascension | 103214 | [103214-ooo-ascension.json](./103214-ooo-ascension.json) |
 | Ooohh, Big Stretch!!! | 341882 | [341882-ooohh-big-stretch.json](./341882-ooohh-big-stretch.json) |
