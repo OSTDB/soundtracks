@@ -554,6 +554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandora | 249207 | [249207-pandora.json](./249207-pandora.json) |
 | Pandora | 255144 | [255144-pandora.json](./255144-pandora.json) |
 | Pandora Galaxy | 156987 | [156987-pandora-galaxy.json](./156987-pandora-galaxy.json) |
+| Pandora no Bikkuribako | 405673 | [405673-pandora-no-bikkuribako.json](./405673-pandora-no-bikkuribako.json) |
 | Pandora Saga: Weapons of Balance | 78647 | [78647-pandora-saga-weapons-of-balance.json](./78647-pandora-saga-weapons-of-balance.json) |
 | Pandora: Chains of Chaos | 90114 | [90114-pandora-chains-of-chaos.json](./90114-pandora-chains-of-chaos.json) |
 | Pandora: First Contact - Eclipse of Nashira | 170827 | [170827-pandora-first-contact-eclipse-of-nashira.json](./170827-pandora-first-contact-eclipse-of-nashira.json) |
