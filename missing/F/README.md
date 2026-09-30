@@ -2542,6 +2542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the Cat: Nightmare | 391604 | [391604-find-the-cat-nightmare.json](./391604-find-the-cat-nightmare.json) |
 | Find the Cats: Japan Journey | 364077 | [364077-find-the-cats-japan-journey.json](./364077-find-the-cats-japan-journey.json) |
 | Find the Differences Detective | 232174 | [232174-find-the-differences-detective.json](./232174-find-the-differences-detective.json) |
+| Find the Four-Leaf Clover | 389055 | [389055-find-the-four-leaf-clover.json](./389055-find-the-four-leaf-clover.json) |
 | Find the Gnome | 96682 | [96682-find-the-gnome.json](./96682-find-the-gnome.json) |
 | Find the Gnome 2 | 197270 | [197270-find-the-gnome-2.json](./197270-find-the-gnome-2.json) |
 | Find the Key | 224532 | [224532-find-the-key.json](./224532-find-the-key.json) |
@@ -3089,6 +3090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Planet: Sport Kayak Pack | 292673 | [292673-fishing-planet-sport-kayak-pack.json](./292673-fishing-planet-sport-kayak-pack.json) |
 | Fishing Planet: Thanksgiving Cornucopia Pack | 277352 | [277352-fishing-planet-thanksgiving-cornucopia-pack.json](./277352-fishing-planet-thanksgiving-cornucopia-pack.json) |
 | Fishing Pond Simulator | 346157 | [346157-fishing-pond-simulator.json](./346157-fishing-pond-simulator.json) |
+| Fishing Pro Simulator | 389043 | [389043-fishing-pro-simulator.json](./389043-fishing-pro-simulator.json) |
 | Fishing Resort | 19929 | [19929-fishing-resort.json](./19929-fishing-resort.json) |
 | Fishing Sea Adventure | 335089 | [335089-fishing-sea-adventure.json](./335089-fishing-sea-adventure.json) |
 | Fishing Sim World: Bass Pro Shops Edition | 170481 | [170481-fishing-sim-world-bass-pro-shops-edition.json](./170481-fishing-sim-world-bass-pro-shops-edition.json) |
@@ -4655,6 +4657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Tunnels: Episode 1 | 178418 | [178418-forgotten-tunnels-episode-1.json](./178418-forgotten-tunnels-episode-1.json) |
 | Forgotten Tunnels: Episode 2 | 178428 | [178428-forgotten-tunnels-episode-2.json](./178428-forgotten-tunnels-episode-2.json) |
 | Forgotten Vale | 295312 | [295312-forgotten-vale.json](./295312-forgotten-vale.json) |
+| Forgotten VIlla | 389042 | [389042-forgotten-villa.json](./389042-forgotten-villa.json) |
 | Forgotten War | 252068 | [252068-forgotten-war.json](./252068-forgotten-war.json) |
 | Forgotten Waters | 258536 | [258536-forgotten-waters.json](./258536-forgotten-waters.json) |
 | Forgotten: Whispers From Ashes | 373194 | [373194-forgotten-whispers-from-ashes.json](./373194-forgotten-whispers-from-ashes.json) |
@@ -5858,6 +5861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frost Heart | 193760 | [193760-frost-heart.json](./193760-frost-heart.json) |
 | Frost Kin | 402474 | [402474-frost-kin.json](./402474-frost-kin.json) |
 | Frost Survivors: Text Game | 318197 | [318197-frost-survivors-text-game.json](./318197-frost-survivors-text-game.json) |
+| Frost Vale | 389056 | [389056-frost-vale.json](./389056-frost-vale.json) |
 | Frost Wars: The Rise of Fatty Sparkles | 64440 | [64440-frost-wars-the-rise-of-fatty-sparkles.json](./64440-frost-wars-the-rise-of-fatty-sparkles.json) |
 | Frost World | 355574 | [355574-frost-world.json](./355574-frost-world.json) |
 | FrostBite | 381039 | [381039-frostbite.json](./381039-frostbite.json) |
