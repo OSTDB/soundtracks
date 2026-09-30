@@ -1890,6 +1890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Sleep - Meditate, Focus, Relax | 119686 | [119686-just-sleep-meditate-focus-relax.json](./119686-just-sleep-meditate-focus-relax.json) |
 | Just Slide | 180616 | [180616-just-slide.json](./180616-just-slide.json) |
 | Just Slide 2 | 180617 | [180617-just-slide-2.json](./180617-just-slide-2.json) |
+| Just Snowboarding | 86798 | [86798-just-snowboarding.json](./86798-just-snowboarding.json) |
 | Just Survival: The Zombie Awakening | 212217 | [212217-just-survival-the-zombie-awakening.json](./212217-just-survival-the-zombie-awakening.json) |
 | Just Survive | 18093 | [18093-just-survive.json](./18093-just-survive.json) |
 | Just Take Your Left | 148542 | [148542-just-take-your-left.json](./148542-just-take-your-left.json) |
