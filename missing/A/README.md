@@ -3793,6 +3793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancestor's Legacy: Conqueror's Edition | 202221 | [202221-ancestors-legacy-conquerors-edition.json](./202221-ancestors-legacy-conquerors-edition.json) |
 | Ancestors Legacy: Saladin's Conquest | 122203 | [122203-ancestors-legacy-saladins-conquest.json](./122203-ancestors-legacy-saladins-conquest.json) |
 | Ancestors Legacy: Special Edition | 124820 | [124820-ancestors-legacy-special-edition.json](./124820-ancestors-legacy-special-edition.json) |
+| Ancestory | 13193 | [13193-ancestory.json](./13193-ancestory.json) |
 | Ancestral | 318397 | [318397-ancestral.json](./318397-ancestral.json) |
 | Anchor | 375444 | [375444-anchor.json](./375444-anchor.json) |
 | Anchor-13 | 408047 | [408047-anchor-13.json](./408047-anchor-13.json) |
@@ -4010,6 +4011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angelo and Deemon 2: Too Hell of a Quest | 319368 | [319368-angelo-and-deemon-2-too-hell-of-a-quest.json](./319368-angelo-and-deemon-2-too-hell-of-a-quest.json) |
 | Angels | 246124 | [246124-angels.json](./246124-angels.json) |
 | Angels Blue Collection | 52579 | [52579-angels-blue-collection.json](./52579-angels-blue-collection.json) |
+| Angels Fall First | 17279 | [17279-angels-fall-first.json](./17279-angels-fall-first.json) |
 | Angels of Amsterdam | 223488 | [223488-angels-of-amsterdam.json](./223488-angels-of-amsterdam.json) |
 | Angels of Death Episode.Eddie | 137047 | [137047-angels-of-death-episode-eddie.json](./137047-angels-of-death-episode-eddie.json) |
 | Angels of Fasaria | 36110 | [36110-angels-of-fasaria.json](./36110-angels-of-fasaria.json) |
@@ -5415,6 +5417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade's Greatest Hits: The Atari Collection 2 | 43925 | [43925-arcades-greatest-hits-the-atari-collection-2.json](./43925-arcades-greatest-hits-the-atari-collection-2.json) |
 | Arcade's Greatest Hits: The Midway Collection 2 | 43924 | [43924-arcades-greatest-hits-the-midway-collection-2.json](./43924-arcades-greatest-hits-the-midway-collection-2.json) |
 | Arcadebnb | 187220 | [187220-arcadebnb.json](./187220-arcadebnb.json) |
+| Arcadecraft | 17338 | [17338-arcadecraft.json](./17338-arcadecraft.json) |
 | Arcadia | 202654 | [202654-arcadia.json](./202654-arcadia.json) |
 | Arcadia | 236852 | [236852-arcadia.json](./236852-arcadia.json) |
 | Arcadia 64 | 13793 | [13793-arcadia-64.json](./13793-arcadia-64.json) |
