@@ -3377,6 +3377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows Unveiled: Agnes | 293145 | [293145-shadows-unveiled-agnes.json](./293145-shadows-unveiled-agnes.json) |
 | Shadows: Awakening | 54775 | [54775-shadows-awakening.json](./54775-shadows-awakening.json) |
 | Shadowsense. | 207510 | [207510-shadowsense.json](./207510-shadowsense.json) |
+| Shadowstone | 388342 | [388342-shadowstone.json](./388342-shadowstone.json) |
 | Shadowvane | 254781 | [254781-shadowvane.json](./254781-shadowvane.json) |
 | Shadowveil: Legend of The Five Rings | 321163 | [321163-shadowveil-legend-of-the-five-rings.json](./321163-shadowveil-legend-of-the-five-rings.json) |
 | Shadowverse: Wonderland Dreams | 37072 | [37072-shadowverse-wonderland-dreams.json](./37072-shadowverse-wonderland-dreams.json) |
@@ -4568,6 +4569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrommzzz | 247752 | [247752-shrommzzz.json](./247752-shrommzzz.json) |
 | Shroom & Doom | 256911 | [256911-shroom-and-doom.json](./256911-shroom-and-doom.json) |
 | Shroom and Gloom: Jam Version | 191809 | [191809-shroom-and-gloom-jam-version.json](./191809-shroom-and-gloom-jam-version.json) |
+| Shroomageddon | 388305 | [388305-shroomageddon.json](./388305-shroomageddon.json) |
 | Shroomio's Adventure | 185455 | [185455-shroomios-adventure.json](./185455-shroomios-adventure.json) |
 | Shroomscape Zone | 192465 | [192465-shroomscape-zone.json](./192465-shroomscape-zone.json) |
 | Shroomtopia | 286092 | [286092-shroomtopia.json](./286092-shroomtopia.json) |
@@ -5518,6 +5520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six inches deep in mud | 278466 | [278466-six-inches-deep-in-mud.json](./278466-six-inches-deep-in-mud.json) |
 | Six Match | 82156 | [82156-six-match.json](./82156-six-match.json) |
 | Six Micro Stories | 55837 | [55837-six-micro-stories.json](./55837-six-micro-stories.json) |
+| Six Nights in Frenski's Basement | 388349 | [388349-six-nights-in-frenskis-basement.json](./388349-six-nights-in-frenskis-basement.json) |
 | Six Nights to Die | 258412 | [258412-six-nights-to-die.json](./258412-six-nights-to-die.json) |
 | Six Now, Forever and Ever | 237290 | [237290-six-now-forever-and-ever.json](./237290-six-now-forever-and-ever.json) |
 | Six Orders | 277615 | [277615-six-orders.json](./277615-six-orders.json) |
@@ -5928,6 +5931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky War | 272802 | [272802-sky-war.json](./272802-sky-war.json) |
 | Sky Whale | 100852 | [100852-sky-whale.json](./100852-sky-whale.json) |
 | Sky: Children of the Light - Season of Belonging | 388383 | [388383-sky-children-of-the-light-season-of-belonging.json](./388383-sky-children-of-the-light-season-of-belonging.json) |
+| Sky: Children of the Light - Season of Gratitude | 388290 | [388290-sky-children-of-the-light-season-of-gratitude.json](./388290-sky-children-of-the-light-season-of-gratitude.json) |
 | Sky: Children of the Light - Season of Lightseekers | 388381 | [388381-sky-children-of-the-light-season-of-lightseekers.json](./388381-sky-children-of-the-light-season-of-lightseekers.json) |
 | Sky: Children of the Light - Season of Rhythm | 388395 | [388395-sky-children-of-the-light-season-of-rhythm.json](./388395-sky-children-of-the-light-season-of-rhythm.json) |
 | Skybase | 294267 | [294267-skybase.json](./294267-skybase.json) |
@@ -8714,6 +8718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Master | 180288 | [180288-soul-master.json](./180288-soul-master.json) |
 | Soul Master | 66669 | [66669-soul-master.json](./66669-soul-master.json) |
 | Soul Mates | 340400 | [340400-soul-mates.json](./340400-soul-mates.json) |
+| Soul Maze | 388345 | [388345-soul-maze.json](./388345-soul-maze.json) |
 | Soul Merger | 216873 | [216873-soul-merger.json](./216873-soul-merger.json) |
 | Soul of a Robot | 74054 | [74054-soul-of-a-robot.json](./74054-soul-of-a-robot.json) |
 | Soul of Butterflies | 284888 | [284888-soul-of-butterflies.json](./284888-soul-of-butterflies.json) |
@@ -10906,6 +10911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squaser 7 | 367047 | [367047-squaser-7.json](./367047-squaser-7.json) |
 | Squaser 8 | 368569 | [368569-squaser-8.json](./368569-squaser-8.json) |
 | Squaser 9 | 368537 | [368537-squaser-9.json](./368537-squaser-9.json) |
+| Squash and Spell: Kids Typing | 388328 | [388328-squash-and-spell-kids-typing.json](./388328-squash-and-spell-kids-typing.json) |
 | Squatch | 133234 | [133234-squatch.json](./133234-squatch.json) |
 | Squatzee | 184467 | [184467-squatzee.json](./184467-squatzee.json) |
 | Sqube Escape | 313269 | [313269-sqube-escape.json](./313269-sqube-escape.json) |
@@ -11937,6 +11943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starry Sky: Spring Stories | 202374 | [202374-starry-sky-spring-stories.json](./202374-starry-sky-spring-stories.json) |
 | Starry Sky: Summer Stories | 202827 | [202827-starry-sky-summer-stories.json](./202827-starry-sky-summer-stories.json) |
 | Starry Sky: Winter Stories | 203814 | [203814-starry-sky-winter-stories.json](./203814-starry-sky-winter-stories.json) |
+| Starry Trace | 388327 | [388327-starry-trace.json](./388327-starry-trace.json) |
 | StarryMonogatari: Student's Terminal | 302103 | [302103-starrymonogatari-students-terminal.json](./302103-starrymonogatari-students-terminal.json) |
 | Stars and Ghosts | 90398 | [90398-stars-and-ghosts.json](./90398-stars-and-ghosts.json) |
 | Stars Below | 177518 | [177518-stars-below.json](./177518-stars-below.json) |
