@@ -1951,6 +1951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aion: Steel Cavalry | 62416 | [62416-aion-steel-cavalry.json](./62416-aion-steel-cavalry.json) |
 | AionGuard | 94732 | [94732-aionguard.json](./94732-aionguard.json) |
 | Aious: World's End | 177333 | [177333-aious-worlds-end.json](./177333-aious-worlds-end.json) |
+| Aipom's Great Pirate Adventure | 414465 | [414465-aipoms-great-pirate-adventure.json](./414465-aipoms-great-pirate-adventure.json) |
 | AiPri Verse | 284922 | [284922-aipri-verse.json](./284922-aipri-verse.json) |
 | Air | 270385 | [270385-air.json](./270385-air.json) |
 | Air | 270403 | [270403-air.json](./270403-air.json) |
@@ -3438,6 +3439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambermoon.net | 217853 | [217853-ambermoon-net.json](./217853-ambermoon-net.json) |
 | Amberspire | 325713 | [325713-amberspire.json](./325713-amberspire.json) |
 | Ambien | 254122 | [254122-ambien.json](./254122-ambien.json) |
+| Ambience | 414497 | [414497-ambience.json](./414497-ambience.json) |
 | Ambient Water | 66606 | [66606-ambient-water.json](./66606-ambient-water.json) |
 | Ambition of caesar | 45577 | [45577-ambition-of-caesar.json](./45577-ambition-of-caesar.json) |
 | Ambition: A Minuet in Power | 76255 | [76255-ambition-a-minuet-in-power.json](./76255-ambition-a-minuet-in-power.json) |
