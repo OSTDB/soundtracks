@@ -1204,6 +1204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make Them Stop | 240791 | [240791-make-them-stop.json](./240791-make-them-stop.json) |
 | Make Them Walk | 258552 | [258552-make-them-walk.json](./258552-make-them-walk.json) |
 | Make War Not Love 5 | 88234 | [88234-make-war-not-love-5.json](./88234-make-war-not-love-5.json) |
+| Make Way: Legends Pack | 399141 | [399141-make-way-legends-pack.json](./399141-make-way-legends-pack.json) |
 | Make Words or Die | 174317 | [174317-make-words-or-die.json](./174317-make-words-or-die.json) |
 | Make your Adventure | 135011 | [135011-make-your-adventure.json](./135011-make-your-adventure.json) |
 | Make Your Kingdom | 112781 | [112781-make-your-kingdom.json](./112781-make-your-kingdom.json) |
