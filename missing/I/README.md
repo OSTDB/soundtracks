@@ -2507,6 +2507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invasion. Lost in Time | 89684 | [89684-invasion-lost-in-time.json](./89684-invasion-lost-in-time.json) |
 | Invasive Species | 367507 | [367507-invasive-species.json](./367507-invasive-species.json) |
 | Invaxion | 109323 | [109323-invaxion.json](./109323-invaxion.json) |
+| Invector: Rhythm Galaxy | 252857 | [252857-invector-rhythm-galaxy.json](./252857-invector-rhythm-galaxy.json) |
 | Invector: Rhythm Galaxy - Latin Power Song Pack | 265249 | [265249-invector-rhythm-galaxy-latin-power-song-pack.json](./265249-invector-rhythm-galaxy-latin-power-song-pack.json) |
 | InVein | 402487 | [402487-invein.json](./402487-invein.json) |
 | Invention 2 | 31667 | [31667-invention-2.json](./31667-invention-2.json) |
