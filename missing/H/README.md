@@ -2587,6 +2587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Stickman | 346653 | [346653-hero-stickman.json](./346653-hero-stickman.json) |
 | Hero Tactics | 181921 | [181921-hero-tactics.json](./181921-hero-tactics.json) |
 | Hero Tower | 132746 | [132746-hero-tower.json](./132746-hero-tower.json) |
+| Hero Wars | 140571 | [140571-hero-wars.json](./140571-hero-wars.json) |
 | Hero Well | 249200 | [249200-hero-well.json](./249200-hero-well.json) |
 | Hero Wheels | 213343 | [213343-hero-wheels.json](./213343-hero-wheels.json) |
 | Hero World | 322376 | [322376-hero-world.json](./322376-hero-world.json) |
@@ -3495,6 +3496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higurashi When They Cry Hou: Ch.2 Watanagashi | 34268 | [34268-higurashi-when-they-cry-hou-ch-2-watanagashi.json](./34268-higurashi-when-they-cry-hou-ch-2-watanagashi.json) |
 | Higurashi When They Cry Hou: Ch.4 Himatsubushi | 31363 | [31363-higurashi-when-they-cry-hou-ch-4-himatsubushi.json](./31363-higurashi-when-they-cry-hou-ch-4-himatsubushi.json) |
 | Higurashi When They Cry Hou: Ch.5 Meakashi | 29837 | [29837-higurashi-when-they-cry-hou-ch-5-meakashi.json](./29837-higurashi-when-they-cry-hou-ch-5-meakashi.json) |
+| Higurashi When They Cry Hou: Ch.6 Tsumihoroboshi | 102266 | [102266-higurashi-when-they-cry-hou-ch-6-tsumihoroboshi.json](./102266-higurashi-when-they-cry-hou-ch-6-tsumihoroboshi.json) |
 | Higurashi When They Cry Hou: Ch.7 Minagoroshi | 120148 | [120148-higurashi-when-they-cry-hou-ch-7-minagoroshi.json](./120148-higurashi-when-they-cry-hou-ch-7-minagoroshi.json) |
 | Higurashi When They Cry Hou+ | 273086 | [273086-higurashi-when-they-cry-hou.json](./273086-higurashi-when-they-cry-hou.json) |
 | Higurashi When They Cry Hou+: Mehagashi Chapter | 273084 | [273084-higurashi-when-they-cry-hou-mehagashi-chapter.json](./273084-higurashi-when-they-cry-hou-mehagashi-chapter.json) |
@@ -4504,6 +4506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizon Walker | 330256 | [330256-horizon-walker.json](./330256-horizon-walker.json) |
 | Horizon X | 57645 | [57645-horizon-x.json](./57645-horizon-x.json) |
 | Horizon Zero Dawn: Complete Edition | 72870 | [72870-horizon-zero-dawn-complete-edition.json](./72870-horizon-zero-dawn-complete-edition.json) |
+| Horizon's Gate | 131620 | [131620-horizons-gate.json](./131620-horizons-gate.json) |
 | Horizons Light | 376466 | [376466-horizons-light.json](./376466-horizons-light.json) |
 | Horizons Scavenger | 390272 | [390272-horizons-scavenger.json](./390272-horizons-scavenger.json) |
 | Horizons: The End Of Words | 314473 | [314473-horizons-the-end-of-words.json](./314473-horizons-the-end-of-words.json) |
@@ -4744,6 +4747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Shots Golf 3 | 23459 | [23459-hot-shots-golf-3.json](./23459-hot-shots-golf-3.json) |
 | Hot Shots Golf Fore! | 204439 | [204439-hot-shots-golf-fore.json](./204439-hot-shots-golf-fore.json) |
 | Hot Shots Golf: Open Tee 2 | 21050 | [21050-hot-shots-golf-open-tee-2.json](./21050-hot-shots-golf-open-tee-2.json) |
+| Hot Shots Golf: Out of Bounds | 154692 | [154692-hot-shots-golf-out-of-bounds.json](./154692-hot-shots-golf-out-of-bounds.json) |
 | Hot Shots Golf: World Invitational | 7301 | [7301-hot-shots-golf-world-invitational.json](./7301-hot-shots-golf-world-invitational.json) |
 | Hot Shots Soccer | 101570 | [101570-hot-shots-soccer.json](./101570-hot-shots-soccer.json) |
 | Hot Slice: Lust Exposed | 340487 | [340487-hot-slice-lust-exposed.json](./340487-hot-slice-lust-exposed.json) |
