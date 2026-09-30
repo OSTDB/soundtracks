@@ -474,6 +474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raid 2020 | 48211 | [48211-raid-2020.json](./48211-raid-2020.json) |
 | Raid Arena | 313305 | [313305-raid-arena.json](./313305-raid-arena.json) |
 | Raid Gaza! | 318205 | [318205-raid-gaza.json](./318205-raid-gaza.json) |
+| Raid Haven | 418577 | [418577-raid-haven.json](./418577-raid-haven.json) |
 | Raid Leader | 237385 | [237385-raid-leader.json](./237385-raid-leader.json) |
 | Raid Manager | 197655 | [197655-raid-manager.json](./197655-raid-manager.json) |
 | Raid on Bungeling Bay | 24664 | [24664-raid-on-bungeling-bay.json](./24664-raid-on-bungeling-bay.json) |
@@ -1818,6 +1819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Death Fighter | 200062 | [200062-red-death-fighter.json](./200062-red-death-fighter.json) |
 | Red Desert Render | 132148 | [132148-red-desert-render.json](./132148-red-desert-render.json) |
 | Red Door Ylw Door | 308556 | [308556-red-door-ylw-door.json](./308556-red-door-ylw-door.json) |
+| Red Dreams | 418538 | [418538-red-dreams.json](./418538-red-dreams.json) |
 | Red Dungeon | 184902 | [184902-red-dungeon.json](./184902-red-dungeon.json) |
 | Red Echo | 270941 | [270941-red-echo.json](./270941-red-echo.json) |
 | Red Egg: High Protein Gluten Free Adventure | 256353 | [256353-red-egg-high-protein-gluten-free-adventure.json](./256353-red-egg-high-protein-gluten-free-adventure.json) |
