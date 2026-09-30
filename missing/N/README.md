@@ -1009,6 +1009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekoman | 97829 | [97829-nekoman.json](./97829-nekoman.json) |
 | Nekomancy | 213440 | [213440-nekomancy.json](./213440-nekomancy.json) |
 | Nekome: Nazi Hunter | 388249 | [388249-nekome-nazi-hunter.json](./388249-nekome-nazi-hunter.json) |
+| Nekomew's Potty Trouble | 81921 | [81921-nekomews-potty-trouble.json](./81921-nekomews-potty-trouble.json) |
 | NekoMiko | 114367 | [114367-nekomiko.json](./114367-nekomiko.json) |
 | Nekomin Kittens Invasion | 351725 | [351725-nekomin-kittens-invasion.json](./351725-nekomin-kittens-invasion.json) |
 | Nekopara After | 307678 | [307678-nekopara-after.json](./307678-nekopara-after.json) |
