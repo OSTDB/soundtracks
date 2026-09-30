@@ -3352,6 +3352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide 'N Seek!: Friends DLC | 317955 | [317955-hide-n-seek-friends-dlc.json](./317955-hide-n-seek-friends-dlc.json) |
 | Hide & Chick | 206196 | [206196-hide-and-chick.json](./206196-hide-and-chick.json) |
 | Hide & Dance! | 146759 | [146759-hide-and-dance.json](./146759-hide-and-dance.json) |
+| Hide & Seek | 413861 | [413861-hide-and-seek.json](./413861-hide-and-seek.json) |
 | Hide & Seek World | 188552 | [188552-hide-and-seek-world.json](./188552-hide-and-seek-world.json) |
 | Hide and Moo! | 414286 | [414286-hide-and-moo.json](./414286-hide-and-moo.json) |
 | Hide and Secret Treasure of the Ages | 32874 | [32874-hide-and-secret-treasure-of-the-ages.json](./32874-hide-and-secret-treasure-of-the-ages.json) |
@@ -4373,6 +4374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai: Star Rail - So Laughed the Masses | 398432 | [398432-honkai-star-rail-so-laughed-the-masses.json](./398432-honkai-star-rail-so-laughed-the-masses.json) |
 | Honkai: Star Rail - The Crepuscule Zone | 274834 | [274834-honkai-star-rail-the-crepuscule-zone.json](./274834-honkai-star-rail-the-crepuscule-zone.json) |
 | Honkai: Star Rail - Then Wake to Weep | 298930 | [298930-honkai-star-rail-then-wake-to-weep.json](./298930-honkai-star-rail-then-wake-to-weep.json) |
+| Honkai: Star Rail - To Roll the Stars in Astropolis | 413869 | [413869-honkai-star-rail-to-roll-the-stars-in-astropolis.json](./413869-honkai-star-rail-to-roll-the-stars-in-astropolis.json) |
 | Honkai: Star Rail - Unraveled for Daybreak | 394848 | [394848-honkai-star-rail-unraveled-for-daybreak.json](./394848-honkai-star-rail-unraveled-for-daybreak.json) |
 | Honkaku AI Tousai Daifugo | 144999 | [144999-honkaku-ai-tousai-daifugo.json](./144999-honkaku-ai-tousai-daifugo.json) |
 | Honkaku AI Tousai Ginsei Mahjong | 145000 | [145000-honkaku-ai-tousai-ginsei-mahjong.json](./145000-honkaku-ai-tousai-ginsei-mahjong.json) |
