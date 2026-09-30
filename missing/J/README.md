@@ -748,6 +748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jia Ran er Zhi De Yin Fu | 188415 | [188415-jia-ran-er-zhi-de-yin-fu.json](./188415-jia-ran-er-zhi-de-yin-fu.json) |
 | Jian Po | 119700 | [119700-jian-po.json](./119700-jian-po.json) |
 | Jian Wang 3: Heavy Plate | 76953 | [76953-jian-wang-3-heavy-plate.json](./76953-jian-wang-3-heavy-plate.json) |
+| Jiānchén Xǐyuān Lù | 395114 | [395114-jianchen-xiyuan-lu.json](./395114-jianchen-xiyuan-lu.json) |
 | Jiàndào Xiānyǔ | 147387 | [147387-jiandao-xianyu.json](./147387-jiandao-xianyu.json) |
 | Jiang Yao Shen Bing | 158502 | [158502-jiang-yao-shen-bing.json](./158502-jiang-yao-shen-bing.json) |
 | Jianghu Chronicles | 303591 | [303591-jianghu-chronicles.json](./303591-jianghu-chronicles.json) |
