@@ -553,6 +553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Call | 175890 | [175890-last-call.json](./175890-last-call.json) |
 | Last Call BBS | 205064 | [205064-last-call-bbs.json](./205064-last-call-bbs.json) |
 | Last Call! | 71565 | [71565-last-call.json](./71565-last-call.json) |
+| Last Call's Dance | 389004 | [389004-last-calls-dance.json](./389004-last-calls-dance.json) |
 | Last Card Dungeon | 370139 | [370139-last-card-dungeon.json](./370139-last-card-dungeon.json) |
 | Last Case | 377058 | [377058-last-case.json](./377058-last-case.json) |
 | Last Case: The Disappearance of Amanda Kane | 122980 | [122980-last-case-the-disappearance-of-amanda-kane.json](./122980-last-case-the-disappearance-of-amanda-kane.json) |
@@ -1628,6 +1629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lent: The Easter Bunny - Lent's Adventure: Story One | 215123 | [215123-lent-the-easter-bunny-lents-adventure-story-one.json](./215123-lent-the-easter-bunny-lents-adventure-story-one.json) |
 | Léo | 386726 | [386726-leo.json](./386726-leo.json) |
 | Leo & Leah | 130884 | [130884-leo-and-leah.json](./130884-leo-and-leah.json) |
+| Leo And Tig | 389063 | [389063-leo-and-tig.json](./389063-leo-and-tig.json) |
 | Leo Spanish Spelling Complete | 108614 | [108614-leo-spanish-spelling-complete.json](./108614-leo-spanish-spelling-complete.json) |
 | Leo the Amazing Cat | 177422 | [177422-leo-the-amazing-cat.json](./177422-leo-the-amazing-cat.json) |
 | Leo the Lion | 124823 | [124823-leo-the-lion.json](./124823-leo-the-lion.json) |
@@ -2029,6 +2031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Library Escape | 400487 | [400487-library-escape.json](./400487-library-escape.json) |
 | Library Fantasy | 128554 | [128554-library-fantasy.json](./128554-library-fantasy.json) |
 | Library Game | 337640 | [337640-library-game.json](./337640-library-game.json) |
+| Library of Babel | 389018 | [389018-library-of-babel.json](./389018-library-of-babel.json) |
 | Library of Ruina | 131760 | [131760-library-of-ruina.json](./131760-library-of-ruina.json) |
 | Library of Souls | 183568 | [183568-library-of-souls.json](./183568-library-of-souls.json) |
 | Librerama | 176992 | [176992-librerama.json](./176992-librerama.json) |
@@ -2926,6 +2929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Sparks | 189168 | [189168-little-sparks.json](./189168-little-sparks.json) |
 | Little Spy | 184418 | [184418-little-spy.json](./184418-little-spy.json) |
 | Little Squire's Quests | 146778 | [146778-little-squires-quests.json](./146778-little-squires-quests.json) |
+| Little Strays 2 | 389064 | [389064-little-strays-2.json](./389064-little-strays-2.json) |
 | Little Survivors | 273469 | [273469-little-survivors.json](./273469-little-survivors.json) |
 | Little Tail Story | 144320 | [144320-little-tail-story.json](./144320-little-tail-story.json) |
 | Little Tailor 4: Fashion Sewing | 233462 | [233462-little-tailor-4-fashion-sewing.json](./233462-little-tailor-4-fashion-sewing.json) |
