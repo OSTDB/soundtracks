@@ -160,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 in 1 games Bundle | 284955 | [284955-10-in-1-games-bundle.json](./284955-10-in-1-games-bundle.json) |
 | 10 Levels: 10 Monsters | 262292 | [262292-10-levels-10-monsters.json](./262292-10-levels-10-monsters.json) |
 | 10 Little Robots | 76621 | [76621-10-little-robots.json](./76621-10-little-robots.json) |
+| 10 Miles to Safety | 122809 | [122809-10-miles-to-safety.json](./122809-10-miles-to-safety.json) |
 | 10 Minute Barbarian | 34776 | [34776-10-minute-barbarian.json](./34776-10-minute-barbarian.json) |
 | 10 Minute Massacre | 316985 | [316985-10-minute-massacre.json](./316985-10-minute-massacre.json) |
 | 10 Minutes Till Dawn | 202828 | [202828-10-minutes-till-dawn.json](./202828-10-minutes-till-dawn.json) |
@@ -1212,6 +1213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Stories | 147319 | [147319-7-stories.json](./147319-7-stories.json) |
 | 7 Wonders | 89128 | [89128-7-wonders.json](./89128-7-wonders.json) |
 | 7 Wonders of the Ancient World | 4629 | [4629-7-wonders-of-the-ancient-world.json](./4629-7-wonders-of-the-ancient-world.json) |
+| 7 Years From Now | 115856 | [115856-7-years-from-now.json](./115856-7-years-from-now.json) |
 | 7 Years War | 157003 | [157003-7-years-war.json](./157003-7-years-war.json) |
 | 7 Zwerge: Das Brettspiel | 84284 | [84284-7-zwerge-das-brettspiel.json](./84284-7-zwerge-das-brettspiel.json) |
 | 7,62 Hard Life | 98372 | [98372-7-62-hard-life.json](./98372-7-62-hard-life.json) |
