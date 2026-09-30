@@ -872,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | If We Make It Home | 347790 | [347790-if-we-make-it-home.json](./347790-if-we-make-it-home.json) |
 | If you know what I mean | 88004 | [88004-if-you-know-what-i-mean.json](./88004-if-you-know-what-i-mean.json) |
 | If You Let Me In | 276760 | [276760-if-you-let-me-in.json](./276760-if-you-let-me-in.json) |
+| If You Stay | 413853 | [413853-if-you-stay.json](./413853-if-you-stay.json) |
 | IF-16 Fighting Falcon | 368550 | [368550-if-16-fighting-falcon.json](./368550-if-16-fighting-falcon.json) |
 | iF-22 | 95458 | [95458-if-22.json](./95458-if-22.json) |
 | iF-22 Persian Gulf v5.0 | 62267 | [62267-if-22-persian-gulf-v5-0.json](./62267-if-22-persian-gulf-v5-0.json) |
@@ -1458,6 +1459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | InCell | 12302 | [12302-incell.json](./12302-incell.json) |
 | InCell VR | 34595 | [34595-incell-vr.json](./34595-incell-vr.json) |
 | Incessant | 235832 | [235832-incessant.json](./235832-incessant.json) |
+| Incident Archives: Flight 882 | 413820 | [413820-incident-archives-flight-882.json](./413820-incident-archives-flight-882.json) |
 | Incident at Grove Lake | 252736 | [252736-incident-at-grove-lake.json](./252736-incident-at-grove-lake.json) |
 | Incinera: Pandemonium | 379865 | [379865-incinera-pandemonium.json](./379865-incinera-pandemonium.json) |
 | Incineration | 260141 | [260141-incineration.json](./260141-incineration.json) |
