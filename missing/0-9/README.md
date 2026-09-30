@@ -487,6 +487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 16 Brands Taiwan Mahjong 2 | 371335 | [371335-16-brands-taiwan-mahjong-2.json](./371335-16-brands-taiwan-mahjong-2.json) |
 | 16 Brands Taiwan Mahjong 3 | 371343 | [371343-16-brands-taiwan-mahjong-3.json](./371343-16-brands-taiwan-mahjong-3.json) |
 | 16 Cyber-personalities: Survivors | 348850 | [348850-16-cyber-personalities-survivors.json](./348850-16-cyber-personalities-survivors.json) |
+| 16 Faces: School HP! | 420698 | [420698-16-faces-school-hp.json](./420698-16-faces-school-hp.json) |
 | 16 Greens | 181704 | [181704-16-greens.json](./181704-16-greens.json) |
 | 16 Personalities Simulator | 397789 | [397789-16-personalities-simulator.json](./397789-16-personalities-simulator.json) |
 | 16 Shot! Shooting Watch | 85823 | [85823-16-shot-shooting-watch.json](./85823-16-shot-shooting-watch.json) |
@@ -1011,6 +1012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3x3 mini-Shogi | 117119 | [117119-3x3-mini-shogi.json](./117119-3x3-mini-shogi.json) |
 | 3X3 Puzzle | 249269 | [249269-3x3-puzzle.json](./249269-3x3-puzzle.json) |
 | 3x3: Take Two | 312889 | [312889-3x3-take-two.json](./312889-3x3-take-two.json) |
+| 4 Action Hits Collection | 420699 | [420699-4-action-hits-collection.json](./420699-4-action-hits-collection.json) |
 | 4 Alice : Lorange Journey | 76508 | [76508-4-alice-lorange-journey.json](./76508-4-alice-lorange-journey.json) |
 | 4 Colors Classic Multiplayer | 202767 | [202767-4-colors-classic-multiplayer.json](./202767-4-colors-classic-multiplayer.json) |
 | 4 Colours | 262058 | [262058-4-colours.json](./262058-4-colours.json) |
