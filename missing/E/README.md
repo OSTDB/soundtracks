@@ -1986,6 +1986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Ape Madness | 255758 | [255758-epic-ape-madness.json](./255758-epic-ape-madness.json) |
 | Epic Arena | 36121 | [36121-epic-arena.json](./36121-epic-arena.json) |
 | Epic Astro Story | 65482 | [65482-epic-astro-story.json](./65482-epic-astro-story.json) |
+| Epic Balls Smashing | 403101 | [403101-epic-balls-smashing.json](./403101-epic-balls-smashing.json) |
 | Epic Battle Dude | 62724 | [62724-epic-battle-dude.json](./62724-epic-battle-dude.json) |
 | Epic Battle Fantasy Collection | 199653 | [199653-epic-battle-fantasy-collection.json](./199653-epic-battle-fantasy-collection.json) |
 | Epic Battle Fantasy: Adventure Story | 143725 | [143725-epic-battle-fantasy-adventure-story.json](./143725-epic-battle-fantasy-adventure-story.json) |
