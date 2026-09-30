@@ -2452,6 +2452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Depths Below | 279127 | [279127-into-the-depths-below.json](./279127-into-the-depths-below.json) |
 | Into the Dungeon | 238983 | [238983-into-the-dungeon.json](./238983-into-the-dungeon.json) |
 | Into the Dungeon | 258171 | [258171-into-the-dungeon.json](./258171-into-the-dungeon.json) |
+| Into the Dust | 399145 | [399145-into-the-dust.json](./399145-into-the-dust.json) |
 | Into the Eagle's Nest | 12616 | [12616-into-the-eagles-nest.json](./12616-into-the-eagles-nest.json) |
 | Into the Emberlands | 304726 | [304726-into-the-emberlands.json](./304726-into-the-emberlands.json) |
 | Into the Emberlands: Supporter Pack | 321161 | [321161-into-the-emberlands-supporter-pack.json](./321161-into-the-emberlands-supporter-pack.json) |
