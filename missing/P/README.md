@@ -3202,6 +3202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX: World War Z Pinball | 239016 | [239016-pinball-fx-world-war-z-pinball.json](./239016-pinball-fx-world-war-z-pinball.json) |
 | Pinball FX: Zen Originals Collection 1 | 239015 | [239015-pinball-fx-zen-originals-collection-1.json](./239015-pinball-fx-zen-originals-collection-1.json) |
 | Pinball FX2 | 79328 | [79328-pinball-fx2.json](./79328-pinball-fx2.json) |
+| Pinball FX2 VR | 26292 | [26292-pinball-fx2-vr.json](./26292-pinball-fx2-vr.json) |
 | Pinball FX2: Mars Table | 20544 | [20544-pinball-fx2-mars-table.json](./20544-pinball-fx2-mars-table.json) |
 | Pinball FX2: Marvel Pinball | 86004 | [86004-pinball-fx2-marvel-pinball.json](./86004-pinball-fx2-marvel-pinball.json) |
 | Pinball FX2: Ms. Splosion Man | 320183 | [320183-pinball-fx2-ms-splosion-man.json](./320183-pinball-fx2-ms-splosion-man.json) |
@@ -6011,6 +6012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Rangers S.P.D.: Escape of the Five Fugitives | 220103 | [220103-power-rangers-s-p-d-escape-of-the-five-fugitives.json](./220103-power-rangers-s-p-d-escape-of-the-five-fugitives.json) |
 | Power Rangers Samurai | 25181 | [25181-power-rangers-samurai.json](./25181-power-rangers-samurai.json) |
 | Power Rangers Super Legends | 3294 | [3294-power-rangers-super-legends.json](./3294-power-rangers-super-legends.json) |
+| Power Rangers Super Megaforce | 20099 | [20099-power-rangers-super-megaforce.json](./20099-power-rangers-super-megaforce.json) |
 | Power Rangers Super Samurai | 25162 | [25162-power-rangers-super-samurai.json](./25162-power-rangers-super-samurai.json) |
 | Power Rangers Time Force | 248622 | [248622-power-rangers-time-force.json](./248622-power-rangers-time-force.json) |
 | Power Rangers Time Force | 248623 | [248623-power-rangers-time-force.json](./248623-power-rangers-time-force.json) |
