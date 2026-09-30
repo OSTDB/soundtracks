@@ -259,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Wanna Be the Co-op | 108829 | [108829-i-wanna-be-the-co-op.json](./108829-i-wanna-be-the-co-op.json) |
 | I Wanna Be the Guy | 14143 | [14143-i-wanna-be-the-guy.json](./14143-i-wanna-be-the-guy.json) |
 | I Wanna Be the Guy: Gaiden | 80531 | [80531-i-wanna-be-the-guy-gaiden.json](./80531-i-wanna-be-the-guy-gaiden.json) |
+| I Wanna Be the Hedgehog | 417434 | [417434-i-wanna-be-the-hedgehog.json](./417434-i-wanna-be-the-hedgehog.json) |
 | I Wanna Be the King! | 367960 | [367960-i-wanna-be-the-king.json](./367960-i-wanna-be-the-king.json) |
 | I Wanna Eat the Lemon | 191263 | [191263-i-wanna-eat-the-lemon.json](./191263-i-wanna-eat-the-lemon.json) |
 | I Wanna Flip the Sky | 195506 | [195506-i-wanna-flip-the-sky.json](./195506-i-wanna-flip-the-sky.json) |
@@ -854,6 +855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | If 3 | 204479 | [204479-if-3.json](./204479-if-3.json) |
 | If Enemy: Smack! | 413078 | [413078-if-enemy-smack.json](./413078-if-enemy-smack.json) |
 | If Found, Please Return | 120347 | [120347-if-found-please-return.json](./120347-if-found-please-return.json) |
+| If I Still Had Tomorrow | 417422 | [417422-if-i-still-had-tomorrow.json](./417422-if-i-still-had-tomorrow.json) |
 | If I Were in a Sealed Room With a Girl, I'd Probably XXX | 93530 | [93530-if-i-were-in-a-sealed-room-with-a-girl-id-probably-xxx.json](./93530-if-i-were-in-a-sealed-room-with-a-girl-id-probably-xxx.json) |
 | If It Moves, Shoot It! | 71589 | [71589-if-it-moves-shoot-it.json](./71589-if-it-moves-shoot-it.json) |
 | If Monks Had Macs... | 366833 | [366833-if-monks-had-macs.json](./366833-if-monks-had-macs.json) |
@@ -863,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | If Nil then | 201326 | [201326-if-nil-then.json](./201326-if-nil-then.json) |
 | If Only... | 75012 | [75012-if-only.json](./75012-if-only.json) |
 | If Platformers Were Rpgs | 181796 | [181796-if-platformers-were-rpgs.json](./181796-if-platformers-were-rpgs.json) |
+| If Solitaire | 417476 | [417476-if-solitaire.json](./417476-if-solitaire.json) |
 | If U Seek Amy | 327415 | [327415-if-u-seek-amy.json](./327415-if-u-seek-amy.json) |
 | If We Make It Home | 347790 | [347790-if-we-make-it-home.json](./347790-if-we-make-it-home.json) |
 | If you know what I mean | 88004 | [88004-if-you-know-what-i-mean.json](./88004-if-you-know-what-i-mean.json) |
