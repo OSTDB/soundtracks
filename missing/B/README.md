@@ -4581,6 +4581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind Deadly Love | 185537 | [185537-blind-deadly-love.json](./185537-blind-deadly-love.json) |
 | Blind Dreams | 192831 | [192831-blind-dreams.json](./192831-blind-dreams.json) |
 | Blind Exposure | 320736 | [320736-blind-exposure.json](./320736-blind-exposure.json) |
+| Blind Fate: Edo no Yami | 138812 | [138812-blind-fate-edo-no-yami.json](./138812-blind-fate-edo-no-yami.json) |
 | Blind Girl | 111489 | [111489-blind-girl.json](./111489-blind-girl.json) |
 | Blind Jump | 304638 | [304638-blind-jump.json](./304638-blind-jump.json) |
 | Blind Love | 30009 | [30009-blind-love.json](./30009-blind-love.json) |
@@ -5243,6 +5244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Cradle: Signifie | 265143 | [265143-blue-cradle-signifie.json](./265143-blue-cradle-signifie.json) |
 | Blue Dragon: Awakened Shadow | 20465 | [20465-blue-dragon-awakened-shadow.json](./20465-blue-dragon-awakened-shadow.json) |
 | Blue Dragon: Shuffle Dungeon | 259863 | [259863-blue-dragon-shuffle-dungeon.json](./259863-blue-dragon-shuffle-dungeon.json) |
+| Blue Drifter | 129462 | [129462-blue-drifter.json](./129462-blue-drifter.json) |
 | Blue Dynasty | 408182 | [408182-blue-dynasty.json](./408182-blue-dynasty.json) |
 | Blue Effect VR | 27205 | [27205-blue-effect-vr.json](./27205-blue-effect-vr.json) |
 | Blue Epic | 249795 | [249795-blue-epic.json](./249795-blue-epic.json) |
@@ -6443,6 +6445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoxLoop | 207542 | [207542-boxloop.json](./207542-boxloop.json) |
 | BoxMaker | 52078 | [52078-boxmaker.json](./52078-boxmaker.json) |
 | Boxman Adventures | 203896 | [203896-boxman-adventures.json](./203896-boxman-adventures.json) |
+| Boxman's Struggle | 129366 | [129366-boxmans-struggle.json](./129366-boxmans-struggle.json) |
 | Boxocost | 144962 | [144962-boxocost.json](./144962-boxocost.json) |
 | Boxpast Lov3you | 392301 | [392301-boxpast-lov3you.json](./392301-boxpast-lov3you.json) |
 | Boxplosion | 29054 | [29054-boxplosion.json](./29054-boxplosion.json) |
@@ -7180,6 +7183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Paradox | 346689 | [346689-broken-paradox.json](./346689-broken-paradox.json) |
 | Broken Path | 154443 | [154443-broken-path.json](./154443-broken-path.json) |
 | Broken Pearl | 223554 | [223554-broken-pearl.json](./223554-broken-pearl.json) |
+| Broken Pieces | 137286 | [137286-broken-pieces.json](./137286-broken-pieces.json) |
 | Broken Prism | 346211 | [346211-broken-prism.json](./346211-broken-prism.json) |
 | Broken Puppet | 124607 | [124607-broken-puppet.json](./124607-broken-puppet.json) |
 | Broken Race | 372099 | [372099-broken-race.json](./372099-broken-race.json) |
