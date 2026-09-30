@@ -574,6 +574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Echoes of the Symphony of Mana | 379434 | [379434-tales-of-echoes-of-the-symphony-of-mana.json](./379434-tales-of-echoes-of-the-symphony-of-mana.json) |
 | Tales of Elastic Boy: Mission 1 | 85418 | [85418-tales-of-elastic-boy-mission-1.json](./85418-tales-of-elastic-boy-mission-1.json) |
 | Tales of Elondria | 296996 | [296996-tales-of-elondria.json](./296996-tales-of-elondria.json) |
+| Tales of Escape | 29560 | [29560-tales-of-escape.json](./29560-tales-of-escape.json) |
 | Tales of Escape: Cold As Ice | 172119 | [172119-tales-of-escape-cold-as-ice.json](./172119-tales-of-escape-cold-as-ice.json) |
 | Tales of Escape: Sleepy Hollow VR | 148500 | [148500-tales-of-escape-sleepy-hollow-vr.json](./148500-tales-of-escape-sleepy-hollow-vr.json) |
 | Tales of Fandom Vol. 1: Cress Version | 100158 | [100158-tales-of-fandom-vol-1-cress-version.json](./100158-tales-of-fandom-vol-1-cress-version.json) |
@@ -2959,6 +2960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bee Game | 49480 | [49480-the-bee-game.json](./49480-the-bee-game.json) |
 | The Bee Hive | 378786 | [378786-the-bee-hive.json](./378786-the-bee-hive.json) |
 | The Beer War! | 72169 | [72169-the-beer-war.json](./72169-the-beer-war.json) |
+| The Beggar's Ride | 26532 | [26532-the-beggars-ride.json](./26532-the-beggars-ride.json) |
 | The Beginner Investor | 384087 | [384087-the-beginner-investor.json](./384087-the-beginner-investor.json) |
 | The Beginning of the End | 58853 | [58853-the-beginning-of-the-end.json](./58853-the-beginning-of-the-end.json) |
 | The Beginning of the End (part 1) | 262428 | [262428-the-beginning-of-the-end-part-1.json](./262428-the-beginning-of-the-end-part-1.json) |
@@ -5443,6 +5445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Land of Glass | 89402 | [89402-the-land-of-glass.json](./89402-the-land-of-glass.json) |
 | The Land of Lamia | 34838 | [34838-the-land-of-lamia.json](./34838-the-land-of-lamia.json) |
 | The Land of Morning Calm | 358888 | [358888-the-land-of-morning-calm.json](./358888-the-land-of-morning-calm.json) |
+| The Land of Pain | 30038 | [30038-the-land-of-pain.json](./30038-the-land-of-pain.json) |
 | The Land of Rest 1 | 346608 | [346608-the-land-of-rest-1.json](./346608-the-land-of-rest-1.json) |
 | The Land of Seidr | 275724 | [275724-the-land-of-seidr.json](./275724-the-land-of-seidr.json) |
 | The Land of Stuff | 386294 | [386294-the-land-of-stuff.json](./386294-the-land-of-stuff.json) |
@@ -6591,6 +6594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Northsong Rift | 401840 | [401840-the-northsong-rift.json](./401840-the-northsong-rift.json) |
 | The Norwood Suite | 68369 | [68369-the-norwood-suite.json](./68369-the-norwood-suite.json) |
 | The Not-Deer Stew | 382797 | [382797-the-not-deer-stew.json](./382797-the-not-deer-stew.json) |
+| The Note | 26518 | [26518-the-note.json](./26518-the-note.json) |
 | The Nothing | 44211 | [44211-the-nothing.json](./44211-the-nothing.json) |
 | The Notzing Project | 323555 | [323555-the-notzing-project.json](./323555-the-notzing-project.json) |
 | The Nova Era | 209712 | [209712-the-nova-era.json](./209712-the-nova-era.json) |
@@ -8739,6 +8743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Winter Tower | 226439 | [226439-the-winter-tower.json](./226439-the-winter-tower.json) |
 | The Wire | 31955 | [31955-the-wire.json](./31955-the-wire.json) |
 | The Wire Loop Game VR | 32251 | [32251-the-wire-loop-game-vr.json](./32251-the-wire-loop-game-vr.json) |
+| The Wisbey Mystery | 29880 | [29880-the-wisbey-mystery.json](./29880-the-wisbey-mystery.json) |
 | The Wish | 181937 | [181937-the-wish.json](./181937-the-wish.json) |
 | The Wishing Flower | 225761 | [225761-the-wishing-flower.json](./225761-the-wishing-flower.json) |
 | The Wishing Stone | 148901 | [148901-the-wishing-stone.json](./148901-the-wishing-stone.json) |
