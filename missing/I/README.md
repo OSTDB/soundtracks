@@ -1125,6 +1125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Desire | 245535 | [245535-immortal-desire.json](./245535-immortal-desire.json) |
 | Immortal Desires: Book 3 | 327988 | [327988-immortal-desires-book-3.json](./327988-immortal-desires-book-3.json) |
 | Immortal Desires: Paths Not Taken | 327989 | [327989-immortal-desires-paths-not-taken.json](./327989-immortal-desires-paths-not-taken.json) |
+| Immortal Empire | 21688 | [21688-immortal-empire.json](./21688-immortal-empire.json) |
 | Immortal Game | 235339 | [235339-immortal-game.json](./235339-immortal-game.json) |
 | Immortal Girl | 128005 | [128005-immortal-girl.json](./128005-immortal-girl.json) |
 | Immortal Hero | 158209 | [158209-immortal-hero.json](./158209-immortal-hero.json) |
@@ -2633,6 +2634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irheobeorin Jeguk | 145580 | [145580-irheobeorin-jeguk.json](./145580-irheobeorin-jeguk.json) |
 | Iridescent | 298667 | [298667-iridescent.json](./298667-iridescent.json) |
 | Iridescent Crown | 350515 | [350515-iridescent-crown.json](./350515-iridescent-crown.json) |
+| Iridium Runners | 21504 | [21504-iridium-runners.json](./21504-iridium-runners.json) |
 | Iris | 223674 | [223674-iris.json](./223674-iris.json) |
 | Iris | 388935 | [388935-iris.json](./388935-iris.json) |
 | Iris and the Giant | 121390 | [121390-iris-and-the-giant.json](./121390-iris-and-the-giant.json) |
