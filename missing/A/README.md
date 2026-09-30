@@ -837,6 +837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Puzzle Bobble | 113438 | [113438-aca-neo-geo-puzzle-bobble.json](./113438-aca-neo-geo-puzzle-bobble.json) |
 | ACA Neo Geo: Samurai Shodown V Special | 117520 | [117520-aca-neo-geo-samurai-shodown-v-special.json](./117520-aca-neo-geo-samurai-shodown-v-special.json) |
 | ACA Neo Geo: Sengoku 3 | 104269 | [104269-aca-neo-geo-sengoku-3.json](./104269-aca-neo-geo-sengoku-3.json) |
+| ACA Neo Geo: Shock Troopers | 28412 | [28412-aca-neo-geo-shock-troopers.json](./28412-aca-neo-geo-shock-troopers.json) |
 | ACA Neo Geo: Stakes Winner | 99167 | [99167-aca-neo-geo-stakes-winner.json](./99167-aca-neo-geo-stakes-winner.json) |
 | ACA Neo Geo: Super Baseball 2020 | 85561 | [85561-aca-neo-geo-super-baseball-2020.json](./85561-aca-neo-geo-super-baseball-2020.json) |
 | ACA Neo Geo: The King of Fighters '98 | 88907 | [88907-aca-neo-geo-the-king-of-fighters-98.json](./88907-aca-neo-geo-the-king-of-fighters-98.json) |
@@ -4470,6 +4471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anonymous;Code | 11776 | [11776-anonymous-code.json](./11776-anonymous-code.json) |
 | Anonymous;Code: Limited Edition | 201045 | [201045-anonymous-code-limited-edition.json](./201045-anonymous-code-limited-edition.json) |
 | Anosognosia | 398584 | [398584-anosognosia.json](./398584-anosognosia.json) |
+| Another Adventure | 27776 | [27776-another-adventure.json](./27776-another-adventure.json) |
 | Another Attack 2: Weissensee | 270686 | [270686-another-attack-2-weissensee.json](./270686-another-attack-2-weissensee.json) |
 | Another Attack: Woudrichem War | 270685 | [270685-another-attack-woudrichem-war.json](./270685-another-attack-woudrichem-war.json) |
 | Another Big Base Attacked | 270694 | [270694-another-big-base-attacked.json](./270694-another-big-base-attacked.json) |
@@ -6630,6 +6632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Associate | 354527 | [354527-associate.json](./354527-associate.json) |
 | Assualt cube | 178444 | [178444-assualt-cube.json](./178444-assualt-cube.json) |
 | AST-Hero | 130384 | [130384-ast-hero.json](./130384-ast-hero.json) |
+| ASTA Online | 28255 | [28255-asta-online.json](./28255-asta-online.json) |
 | Astæria | 134670 | [134670-ast-ria.json](./134670-ast-ria.json) |
 | Astalo | 147879 | [147879-astalo.json](./147879-astalo.json) |
 | Astalon: Tears of the Earth | 80885 | [80885-astalon-tears-of-the-earth.json](./80885-astalon-tears-of-the-earth.json) |
