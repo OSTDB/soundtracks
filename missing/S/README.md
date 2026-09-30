@@ -516,6 +516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saloon VR | 118356 | [118356-saloon-vr.json](./118356-saloon-vr.json) |
 | Salt | 171556 | [171556-salt.json](./171556-salt.json) |
 | Salt | 334887 | [334887-salt.json](./334887-salt.json) |
+| Salt & Soul: Pocket Chef's Adventure | 406865 | [406865-salt-and-soul-pocket-chefs-adventure.json](./406865-salt-and-soul-pocket-chefs-adventure.json) |
 | Salt 2: Shores of Gold | 151169 | [151169-salt-2-shores-of-gold.json](./151169-salt-2-shores-of-gold.json) |
 | Salt and Sacrifice | 152065 | [152065-salt-and-sacrifice.json](./152065-salt-and-sacrifice.json) |
 | Salt and Sails | 153921 | [153921-salt-and-sails.json](./153921-salt-and-sails.json) |
@@ -1386,6 +1387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schattenspiel | 103873 | [103873-schattenspiel.json](./103873-schattenspiel.json) |
 | Schedule I | 328373 | [328373-schedule-i.json](./328373-schedule-i.json) |
 | Schedule I: Mafia Empire | 350050 | [350050-schedule-i-mafia-empire.json](./350050-schedule-i-mafia-empire.json) |
+| Schedule Store Simulator | 406767 | [406767-schedule-store-simulator.json](./406767-schedule-store-simulator.json) |
 | Schemata | 90059 | [90059-schemata.json](./90059-schemata.json) |
 | Scheming Through the Zombie Apocalypse: Episode 2 - Caged | 110542 | [110542-scheming-through-the-zombie-apocalypse-episode-2-caged.json](./110542-scheming-through-the-zombie-apocalypse-episode-2-caged.json) |
 | Schiffbruch | 76251 | [76251-schiffbruch.json](./76251-schiffbruch.json) |
@@ -7378,6 +7380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Social Interaction Trainer | 31531 | [31531-social-interaction-trainer.json](./31531-social-interaction-trainer.json) |
 | Social Space | 398537 | [398537-social-space.json](./398537-social-space.json) |
 | Social Status: Life Simulator | 279103 | [279103-social-status-life-simulator.json](./279103-social-status-life-simulator.json) |
+| Socialiskigrad | 406764 | [406764-socialiskigrad.json](./406764-socialiskigrad.json) |
 | Socialize | 182217 | [182217-socialize.json](./182217-socialize.json) |
 | Socialize | 189037 | [189037-socialize.json](./189037-socialize.json) |
 | Society's Paradigms | 152833 | [152833-societys-paradigms.json](./152833-societys-paradigms.json) |
@@ -11150,6 +11153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Hearts: Hoshi to Daichi no Shisha | 37317 | [37317-star-hearts-hoshi-to-daichi-no-shisha.json](./37317-star-hearts-hoshi-to-daichi-no-shisha.json) |
 | Star Hearts: Launch Point | 200713 | [200713-star-hearts-launch-point.json](./200713-star-hearts-launch-point.json) |
 | Star Heritage 1: The Black Cobra | 120312 | [120312-star-heritage-1-the-black-cobra.json](./120312-star-heritage-1-the-black-cobra.json) |
+| Star Heritage: Black Cobra | 406853 | [406853-star-heritage-black-cobra.json](./406853-star-heritage-black-cobra.json) |
 | Star Hogs: Online & Campaign Battles | 79625 | [79625-star-hogs-online-and-campaign-battles.json](./79625-star-hogs-online-and-campaign-battles.json) |
 | Star Honor | 228388 | [228388-star-honor.json](./228388-star-honor.json) |
 | Star Horizon | 35690 | [35690-star-horizon.json](./35690-star-horizon.json) |
