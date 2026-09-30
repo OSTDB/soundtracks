@@ -2621,6 +2621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero in the Castle of Doom | 40173 | [40173-hero-in-the-castle-of-doom.json](./40173-hero-in-the-castle-of-doom.json) |
 | Hero Legend | 246338 | [246338-hero-legend.json](./246338-hero-legend.json) |
 | Hero Like | 396188 | [396188-hero-like.json](./396188-hero-like.json) |
+| Hero Link | 390194 | [390194-hero-link.json](./390194-hero-link.json) |
 | Hero Lodge | 186815 | [186815-hero-lodge.json](./186815-hero-lodge.json) |
 | Hero Mages | 197632 | [197632-hero-mages.json](./197632-hero-mages.json) |
 | Hero Mania | 211714 | [211714-hero-mania.json](./211714-hero-mania.json) |
@@ -3636,6 +3637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hikikomori Life | 169864 | [169864-hikikomori-life.json](./169864-hikikomori-life.json) |
 | Hikikomori No Chuunibyou | 32072 | [32072-hikikomori-no-chuunibyou.json](./32072-hikikomori-no-chuunibyou.json) |
 | Hikisakareta Badaaru | 394545 | [394545-hikisakareta-badaaru.json](./394545-hikisakareta-badaaru.json) |
+| Hilarious Delivery | 390224 | [390224-hilarious-delivery.json](./390224-hilarious-delivery.json) |
 | Hilda and the Tower of Lust | 265182 | [265182-hilda-and-the-tower-of-lust.json](./265182-hilda-and-the-tower-of-lust.json) |
 | Hilde Redemption | 308899 | [308899-hilde-redemption.json](./308899-hilde-redemption.json) |
 | HiLight: Touch the light! | 265760 | [265760-hilight-touch-the-light.json](./265760-hilight-touch-the-light.json) |
@@ -5606,6 +5608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunted | 188370 | [188370-hunted.json](./188370-hunted.json) |
 | Hunted | 411137 | [411137-hunted.json](./411137-hunted.json) |
 | Hunted By Monsters: Haunting In The Castle Dungeon | 240875 | [240875-hunted-by-monsters-haunting-in-the-castle-dungeon.json](./240875-hunted-by-monsters-haunting-in-the-castle-dungeon.json) |
+| Hunted Within: The Metro | 390207 | [390207-hunted-within-the-metro.json](./390207-hunted-within-the-metro.json) |
 | Hunted: One Step Too Far | 25874 | [25874-hunted-one-step-too-far.json](./25874-hunted-one-step-too-far.json) |
 | Hunted: Survive the Night | 211787 | [211787-hunted-survive-the-night.json](./211787-hunted-survive-the-night.json) |
 | Hunted: The Demon's Forge | 505 | [505-hunted-the-demons-forge.json](./505-hunted-the-demons-forge.json) |
