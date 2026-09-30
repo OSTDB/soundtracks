@@ -1457,6 +1457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Box | 153885 | [153885-dead-box.json](./153885-dead-box.json) |
 | Dead But Alive! Southern England | 26469 | [26469-dead-but-alive-southern-england.json](./26469-dead-but-alive-southern-england.json) |
 | Dead by Backrooms Anomaly | 348462 | [348462-dead-by-backrooms-anomaly.json](./348462-dead-by-backrooms-anomaly.json) |
+| Dead by Daylight Mobile | 137700 | [137700-dead-by-daylight-mobile.json](./137700-dead-by-daylight-mobile.json) |
 | Dead by Daylight: A Binding of Kin Chapter | 168867 | [168867-dead-by-daylight-a-binding-of-kin-chapter.json](./168867-dead-by-daylight-a-binding-of-kin-chapter.json) |
 | Dead by Daylight: A Lullaby for the Dark Chapter | 76224 | [76224-dead-by-daylight-a-lullaby-for-the-dark-chapter.json](./76224-dead-by-daylight-a-lullaby-for-the-dark-chapter.json) |
 | Dead by Daylight: All-Kill Chapter | 154346 | [154346-dead-by-daylight-all-kill-chapter.json](./154346-dead-by-daylight-all-kill-chapter.json) |
@@ -4539,6 +4540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Magical World 2: Enchanted Edition | 172428 | [172428-disney-magical-world-2-enchanted-edition.json](./172428-disney-magical-world-2-enchanted-edition.json) |
 | Disney Mickey's Typing Adventure | 35796 | [35796-disney-mickeys-typing-adventure.json](./35796-disney-mickeys-typing-adventure.json) |
 | Disney Miraness Fitness | 366901 | [366901-disney-miraness-fitness.json](./366901-disney-miraness-fitness.json) |
+| Disney Mirrorverse | 137964 | [137964-disney-mirrorverse.json](./137964-disney-mirrorverse.json) |
 | Disney Move | 43499 | [43499-disney-move.json](./43499-disney-move.json) |
 | Disney Piglet's Special Day | 220130 | [220130-disney-piglets-special-day.json](./220130-disney-piglets-special-day.json) |
 | Disney Princess | 220084 | [220084-disney-princess.json](./220084-disney-princess.json) |
@@ -6970,6 +6972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadrun | 295805 | [295805-dreadrun.json](./295805-dreadrun.json) |
 | Dreadshot | 292520 | [292520-dreadshot.json](./292520-dreadshot.json) |
 | Dreadsite Survival | 288370 | [288370-dreadsite-survival.json](./288370-dreadsite-survival.json) |
+| DreadStar: The Quest for Revenge | 140014 | [140014-dreadstar-the-quest-for-revenge.json](./140014-dreadstar-the-quest-for-revenge.json) |
 | Dreadstone: The Immortal Prisoner | 154351 | [154351-dreadstone-the-immortal-prisoner.json](./154351-dreadstone-the-immortal-prisoner.json) |
 | Dreadtome | 349884 | [349884-dreadtome.json](./349884-dreadtome.json) |
 | Dreadway | 321577 | [321577-dreadway.json](./321577-dreadway.json) |
@@ -8389,6 +8392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dustland Delivery | 302379 | [302379-dustland-delivery.json](./302379-dustland-delivery.json) |
 | Dustland Rider | 195119 | [195119-dustland-rider.json](./195119-dustland-rider.json) |
 | Dustnet | 117904 | [117904-dustnet.json](./117904-dustnet.json) |
+| Dustoff Z | 137344 | [137344-dustoff-z.json](./137344-dustoff-z.json) |
 | Dustopia | 295810 | [295810-dustopia.json](./295810-dustopia.json) |
 | Dusttale Reimagined | 329662 | [329662-dusttale-reimagined.json](./329662-dusttale-reimagined.json) |
 | Dusttale: The Genocide's End | 362333 | [362333-dusttale-the-genocides-end.json](./362333-dusttale-the-genocides-end.json) |
