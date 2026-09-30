@@ -2678,6 +2678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photons | 288759 | [288759-photons.json](./288759-photons.json) |
 | Photophobia | 373200 | [373200-photophobia.json](./373200-photophobia.json) |
 | Photopia | 9513 | [9513-photopia.json](./9513-photopia.json) |
+| Photos with Animal Crossing | 59998 | [59998-photos-with-animal-crossing.json](./59998-photos-with-animal-crossing.json) |
 | Photos with Mario | 61573 | [61573-photos-with-mario.json](./61573-photos-with-mario.json) |
 | PhotoWorld | 153403 | [153403-photoworld.json](./153403-photoworld.json) |
 | PhotoWorld | 209966 | [209966-photoworld.json](./209966-photoworld.json) |
@@ -2859,6 +2860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross Beach Season | 89191 | [89191-picross-beach-season.json](./89191-picross-beach-season.json) |
 | Picross Date! | 378431 | [378431-picross-date.json](./378431-picross-date.json) |
 | Picross DS | 10617 | [10617-picross-ds.json](./10617-picross-ds.json) |
+| Picross e2 | 65211 | [65211-picross-e2.json](./65211-picross-e2.json) |
 | Picross e3 | 62913 | [62913-picross-e3.json](./62913-picross-e3.json) |
 | Picross Fairytale | 102879 | [102879-picross-fairytale.json](./102879-picross-fairytale.json) |
 | Picross Floof | 116104 | [116104-picross-floof.json](./116104-picross-floof.json) |
@@ -8011,6 +8013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle & Dragons Story | 279762 | [279762-puzzle-and-dragons-story.json](./279762-puzzle-and-dragons-story.json) |
 | Puzzle & Dragons X: Dragon Chapter | 125345 | [125345-puzzle-and-dragons-x-dragon-chapter.json](./125345-puzzle-and-dragons-x-dragon-chapter.json) |
 | Puzzle & Dragons X: God Chapter | 125344 | [125344-puzzle-and-dragons-x-god-chapter.json](./125344-puzzle-and-dragons-x-god-chapter.json) |
+| Puzzle & Dragons Z | 62121 | [62121-puzzle-and-dragons-z.json](./62121-puzzle-and-dragons-z.json) |
 | Puzzle & Dragons Z + Puzzle & Dragons: Super Mario Bros. Edition | 85357 | [85357-puzzle-and-dragons-z-puzzle-and-dragons-super-mario-bros-edition.json](./85357-puzzle-and-dragons-z-puzzle-and-dragons-super-mario-bros-edition.json) |
 | Puzzle & Dragons: Super Mario Bros. Edition | 59517 | [59517-puzzle-and-dragons-super-mario-bros-edition.json](./59517-puzzle-and-dragons-super-mario-bros-edition.json) |
 | Puzzle & Glory | 13105 | [13105-puzzle-and-glory.json](./13105-puzzle-and-glory.json) |
