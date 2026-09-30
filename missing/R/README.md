@@ -980,6 +980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rat Race | 60789 | [60789-rat-race.json](./60789-rat-race.json) |
 | Rat Racer | 127760 | [127760-rat-racer.json](./127760-rat-racer.json) |
 | Rat Raze / Road to Riches: Tilt Five | 341308 | [341308-rat-raze-road-to-riches-tilt-five.json](./341308-rat-raze-road-to-riches-tilt-five.json) |
+| Rat Simulator | 29405 | [29405-rat-simulator.json](./29405-rat-simulator.json) |
 | Rat vs. Cat | 242794 | [242794-rat-vs-cat.json](./242794-rat-vs-cat.json) |
 | Rat Wars Survivors | 281463 | [281463-rat-wars-survivors.json](./281463-rat-wars-survivors.json) |
 | Rat Wrap | 342769 | [342769-rat-wrap.json](./342769-rat-wrap.json) |
@@ -2746,6 +2747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retention: A Love Story | 149597 | [149597-retention-a-love-story.json](./149597-retention-a-love-story.json) |
 | Retexo Mori | 155975 | [155975-retexo-mori.json](./155975-retexo-mori.json) |
 | Rethawed | 320929 | [320929-rethawed.json](./320929-rethawed.json) |
+| ReThink | 29260 | [29260-rethink.json](./29260-rethink.json) |
 | ReThink \| Evolved 4 | 132592 | [132592-rethink-evolved-4.json](./132592-rethink-evolved-4.json) |
 | ReThink 4 | 148457 | [148457-rethink-4.json](./148457-rethink-4.json) |
 | Reticle Star | 210097 | [210097-reticle-star.json](./210097-reticle-star.json) |
