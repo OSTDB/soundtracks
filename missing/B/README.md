@@ -4089,6 +4089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Gold Online | 63338 | [63338-black-gold-online.json](./63338-black-gold-online.json) |
 | Black Hair Girl is Best Girl | 155007 | [155007-black-hair-girl-is-best-girl.json](./155007-black-hair-girl-is-best-girl.json) |
 | Black Hangman | 112122 | [112122-black-hangman.json](./112122-black-hangman.json) |
+| Black Hat Cooperative | 32019 | [32019-black-hat-cooperative.json](./32019-black-hat-cooperative.json) |
 | Black Hawk | 25711 | [25711-black-hawk.json](./25711-black-hawk.json) |
 | Black Heart | 39820 | [39820-black-heart.json](./39820-black-heart.json) |
 | Black Hole | 46790 | [46790-black-hole.json](./46790-black-hole.json) |
@@ -5329,6 +5330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Sango | 263595 | [263595-blue-sango.json](./263595-blue-sango.json) |
 | Blue Skies | 63858 | [63858-blue-skies.json](./63858-blue-skies.json) |
 | Blue sky fighter | 129076 | [129076-blue-sky-fighter.json](./129076-blue-sky-fighter.json) |
+| Blue Solar: Chaos War | 32057 | [32057-blue-solar-chaos-war.json](./32057-blue-solar-chaos-war.json) |
 | Blue Sphere Madness | 332598 | [332598-blue-sphere-madness.json](./332598-blue-sphere-madness.json) |
 | Blue Sphere Plus | 216302 | [216302-blue-sphere-plus.json](./216302-blue-sphere-plus.json) |
 | Blue Stinger | 6715 | [6715-blue-stinger.json](./6715-blue-stinger.json) |
