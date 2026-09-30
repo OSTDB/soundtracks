@@ -390,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Adventure | 346261 | [346261-echoes-of-adventure.json](./346261-echoes-of-adventure.json) |
 | Echoes of Agony | 387354 | [387354-echoes-of-agony.json](./387354-echoes-of-agony.json) |
 | Echoes of Aincrad: Special Edition | 409589 | [409589-echoes-of-aincrad-special-edition.json](./409589-echoes-of-aincrad-special-edition.json) |
+| Echoes of Baikal | 387622 | [387622-echoes-of-baikal.json](./387622-echoes-of-baikal.json) |
 | Echoes Of Despair | 290494 | [290494-echoes-of-despair.json](./290494-echoes-of-despair.json) |
 | Echoes of Eclipse | 389399 | [389399-echoes-of-eclipse.json](./389399-echoes-of-eclipse.json) |
 | Echoes of Egypt | 301997 | [301997-echoes-of-egypt.json](./301997-echoes-of-egypt.json) |
@@ -830,6 +831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Brujo | 320991 | [320991-el-brujo.json](./320991-el-brujo.json) |
 | El Capitán Trueno | 100184 | [100184-el-capitan-trueno.json](./100184-el-capitan-trueno.json) |
 | El Capitán Trueno en la Montaña de los Suspiros | 70085 | [70085-el-capitan-trueno-en-la-montana-de-los-suspiros.json](./70085-el-capitan-trueno-en-la-montana-de-los-suspiros.json) |
+| El Cerro Del Calamar | 387580 | [387580-el-cerro-del-calamar.json](./387580-el-cerro-del-calamar.json) |
 | El Chavo | 331122 | [331122-el-chavo.json](./331122-el-chavo.json) |
 | El Chavo | 79918 | [79918-el-chavo.json](./79918-el-chavo.json) |
 | El Chavo kart | 62461 | [62461-el-chavo-kart.json](./62461-el-chavo-kart.json) |
