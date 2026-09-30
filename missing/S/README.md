@@ -429,6 +429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura High School Love Story | 299884 | [299884-sakura-high-school-love-story.json](./299884-sakura-high-school-love-story.json) |
 | Sakura Hime 4 | 286539 | [286539-sakura-hime-4.json](./286539-sakura-hime-4.json) |
 | Sakura Isekai Adventure 2 | 301886 | [301886-sakura-isekai-adventure-2.json](./301886-sakura-isekai-adventure-2.json) |
+| Sakura Kanji Ketchi | 396503 | [396503-sakura-kanji-ketchi.json](./396503-sakura-kanji-ketchi.json) |
 | Sakura Knight 2 | 137622 | [137622-sakura-knight-2.json](./137622-sakura-knight-2.json) |
 | Sakura Knight 3 | 171945 | [171945-sakura-knight-3.json](./171945-sakura-knight-3.json) |
 | Sakura Machizaka Stories Vol. 1 | 77946 | [77946-sakura-machizaka-stories-vol-1.json](./77946-sakura-machizaka-stories-vol-1.json) |
@@ -3863,6 +3864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shigeru Planet | 266869 | [266869-shigeru-planet.json](./266869-shigeru-planet.json) |
 | Shihori Escape | 125859 | [125859-shihori-escape.json](./125859-shihori-escape.json) |
 | Shiin | 55839 | [55839-shiin.json](./55839-shiin.json) |
+| Shiina Maho no Himitsu: Name ha H de Omoitsukimasu | 396485 | [396485-shiina-maho-no-himitsu-name-ha-h-de-omoitsukimasu.json](./396485-shiina-maho-no-himitsu-name-ha-h-de-omoitsukimasu.json) |
 | Shiina Taki's Decameron | 320725 | [320725-shiina-takis-decameron.json](./320725-shiina-takis-decameron.json) |
 | Shijie Xiuxian | 295003 | [295003-shijie-xiuxian.json](./295003-shijie-xiuxian.json) |
 | Shìjiè Zhīwài | 400305 | [400305-shijie-zhiwai.json](./400305-shijie-zhiwai.json) |
@@ -4129,6 +4131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shipwrecked 64 | 284041 | [284041-shipwrecked-64.json](./284041-shipwrecked-64.json) |
 | Shipwrecked: A Quick Automation | 360651 | [360651-shipwrecked-a-quick-automation.json](./360651-shipwrecked-a-quick-automation.json) |
 | Shipwrecked: Lost Colony | 298166 | [298166-shipwrecked-lost-colony.json](./298166-shipwrecked-lost-colony.json) |
+| Shíqǔ Bǎoshí Hòu Yìwài Juéxǐngle Fùzhì Mówáng Lìliàng de Nì Tiān Jìnéng | 396491 | [396491-shiqu-baoshi-hou-yiwai-juexingle-fuzhi-mowang-liliang-de-ni-tian-jineng.json](./396491-shiqu-baoshi-hou-yiwai-juexingle-fuzhi-mowang-liliang-de-ni-tian-jineng.json) |
 | Shirachuu Tankenbu | 65020 | [65020-shirachuu-tankenbu.json](./65020-shirachuu-tankenbu.json) |
 | Shiraha Kirameku Koi Shirabe | 194531 | [194531-shiraha-kirameku-koi-shirabe.json](./194531-shiraha-kirameku-koi-shirabe.json) |
 | Shirazu Yama | 196886 | [196886-shirazu-yama.json](./196886-shirazu-yama.json) |
@@ -5410,6 +5413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinthetic | 192805 | [192805-sinthetic.json](./192805-sinthetic.json) |
 | Sintropia | 337161 | [337161-sintropia.json](./337161-sintropia.json) |
 | Sintropia Fruits Together | 388053 | [388053-sintropia-fruits-together.json](./388053-sintropia-fruits-together.json) |
+| Sinuca de Bar | 396479 | [396479-sinuca-de-bar.json](./396479-sinuca-de-bar.json) |
 | SinxHolic | 219141 | [219141-sinxholic.json](./219141-sinxholic.json) |
 | Sinyaya Boroda | 387015 | [387015-sinyaya-boroda.json](./387015-sinyaya-boroda.json) |
 | Sio and Mysterious Forest | 122214 | [122214-sio-and-mysterious-forest.json](./122214-sio-and-mysterious-forest.json) |
@@ -8257,6 +8261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Riders Future | 374698 | [374698-sonic-riders-future.json](./374698-sonic-riders-future.json) |
 | Sonic Riders Regravitified | 172112 | [172112-sonic-riders-regravitified.json](./172112-sonic-riders-regravitified.json) |
 | Sonic Riders Tournament Edition 2.0 | 337111 | [337111-sonic-riders-tournament-edition-2-0.json](./337111-sonic-riders-tournament-edition-2-0.json) |
+| Sonic Riders: Tournament Edition | 396533 | [396533-sonic-riders-tournament-edition.json](./396533-sonic-riders-tournament-edition.json) |
 | Sonic Ring Thing | 299875 | [299875-sonic-ring-thing.json](./299875-sonic-ring-thing.json) |
 | Sonic Rivals | 19260 | [19260-sonic-rivals.json](./19260-sonic-rivals.json) |
 | Sonic Rivals Dash | 269064 | [269064-sonic-rivals-dash.json](./269064-sonic-rivals-dash.json) |
@@ -12598,6 +12603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Still Life 2 - Director's Cut | 100723 | [100723-still-life-2-directors-cut.json](./100723-still-life-2-directors-cut.json) |
 | Still Light | 339663 | [339663-still-light.json](./339663-still-light.json) |
 | Still Not Dead | 41952 | [41952-still-not-dead.json](./41952-still-not-dead.json) |
+| Still Room: I Miss You | 396499 | [396499-still-room-i-miss-you.json](./396499-still-room-i-miss-you.json) |
 | Still Rooms | 415924 | [415924-still-rooms.json](./415924-still-rooms.json) |
 | Still Sword for Adult | 67258 | [67258-still-sword-for-adult.json](./67258-still-sword-for-adult.json) |
 | Still There | 119886 | [119886-still-there.json](./119886-still-there.json) |
@@ -13830,6 +13836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuiCats | 272583 | [272583-suicats.json](./272583-suicats.json) |
 | Suichara: Sweets Chara Mode - Sweets Gakkou he Youkoso! | 222401 | [222401-suichara-sweets-chara-mode-sweets-gakkou-he-youkoso.json](./222401-suichara-sweets-chara-mode-sweets-gakkou-he-youkoso.json) |
 | Suicide Adventures | 61613 | [61613-suicide-adventures.json](./61613-suicide-adventures.json) |
+| Suicide Drive | 396523 | [396523-suicide-drive.json](./396523-suicide-drive.json) |
 | Suicide Express | 40963 | [40963-suicide-express.json](./40963-suicide-express.json) |
 | Suicide For Him | 153966 | [153966-suicide-for-him.json](./153966-suicide-for-him.json) |
 | Suicide Guy Collection | 118151 | [118151-suicide-guy-collection.json](./118151-suicide-guy-collection.json) |
@@ -16027,6 +16034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive the Labyrinth | 343833 | [343833-survive-the-labyrinth.json](./343833-survive-the-labyrinth.json) |
 | Survive the Mafia | 184378 | [184378-survive-the-mafia.json](./184378-survive-the-mafia.json) |
 | Survive the Orcs | 236795 | [236795-survive-the-orcs.json](./236795-survive-the-orcs.json) |
+| Survive the Spin | 396490 | [396490-survive-the-spin.json](./396490-survive-the-spin.json) |
 | Survive the Swarm | 348784 | [348784-survive-the-swarm.json](./348784-survive-the-swarm.json) |
 | Survive the Troll | 219571 | [219571-survive-the-troll.json](./219571-survive-the-troll.json) |
 | Survive The Unknown | 246623 | [246623-survive-the-unknown.json](./246623-survive-the-unknown.json) |
@@ -16678,6 +16686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sybil's Tail | 179657 | [179657-sybils-tail.json](./179657-sybils-tail.json) |
 | Sycamore | 186618 | [186618-sycamore.json](./186618-sycamore.json) |
 | Sycamore | 323346 | [323346-sycamore.json](./323346-sycamore.json) |
+| Sycophant | 396497 | [396497-sycophant.json](./396497-sycophant.json) |
 | Syd of Valis | 247483 | [247483-syd-of-valis.json](./247483-syd-of-valis.json) |
 | Syd of Valis | 46191 | [46191-syd-of-valis.json](./46191-syd-of-valis.json) |
 | Syde Rugby League Simulator | 163837 | [163837-syde-rugby-league-simulator.json](./163837-syde-rugby-league-simulator.json) |
