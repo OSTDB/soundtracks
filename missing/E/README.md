@@ -681,6 +681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egging On | 294270 | [294270-egging-on.json](./294270-egging-on.json) |
 | Egglets: The Long 10 Days | 372022 | [372022-egglets-the-long-10-days.json](./372022-egglets-the-long-10-days.json) |
 | Egglia Rebirth | 187474 | [187474-egglia-rebirth.json](./187474-egglia-rebirth.json) |
+| Egglia: Legend of the Redcap | 48018 | [48018-egglia-legend-of-the-redcap.json](./48018-egglia-legend-of-the-redcap.json) |
 | Egglia: Legend of the Redcap Offline | 107144 | [107144-egglia-legend-of-the-redcap-offline.json](./107144-egglia-legend-of-the-redcap-offline.json) |
 | Eggman | 309664 | [309664-eggman.json](./309664-eggman.json) |
 | Eggman no Kazuate Panic! | 261249 | [261249-eggman-no-kazuate-panic.json](./261249-eggman-no-kazuate-panic.json) |
