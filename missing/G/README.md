@@ -3204,6 +3204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodnight Rudy | 234589 | [234589-goodnight-rudy.json](./234589-goodnight-rudy.json) |
 | Goodnight, B | 411801 | [411801-goodnight-b.json](./411801-goodnight-b.json) |
 | Goodnight, Sun | 419900 | [419900-goodnight-sun.json](./419900-goodnight-sun.json) |
+| Goods Puzzle | 406165 | [406165-goods-puzzle.json](./406165-goods-puzzle.json) |
 | Goodwad | 262439 | [262439-goodwad.json](./262439-goodwad.json) |
 | Goodwill Scrolls | 338012 | [338012-goodwill-scrolls.json](./338012-goodwill-scrolls.json) |
 | Gooey | 368139 | [368139-gooey.json](./368139-gooey.json) |
