@@ -752,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Dolls 2: Escape | 170424 | [170424-paper-dolls-2-escape.json](./170424-paper-dolls-2-escape.json) |
 | Paper Drifter | 236826 | [236826-paper-drifter.json](./236826-paper-drifter.json) |
 | Paper Dungeons Crawler | 95573 | [95573-paper-dungeons-crawler.json](./95573-paper-dungeons-crawler.json) |
+| Paper Fire! Rookie | 74138 | [74138-paper-fire-rookie.json](./74138-paper-fire-rookie.json) |
 | Paper Flight: Future Battles | 263236 | [263236-paper-flight-future-battles.json](./263236-paper-flight-future-battles.json) |
 | Paper Flights | 235224 | [235224-paper-flights.json](./235224-paper-flights.json) |
 | Paper Galaxy | 64129 | [64129-paper-galaxy.json](./64129-paper-galaxy.json) |
@@ -921,6 +922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parachute Ninja | 232671 | [232671-parachute-ninja.json](./232671-parachute-ninja.json) |
 | Paracom | 384535 | [384535-paracom.json](./384535-paracom.json) |
 | Paradaice | 151083 | [151083-paradaice.json](./151083-paradaice.json) |
+| Paradiddle | 74191 | [74191-paradiddle.json](./74191-paradiddle.json) |
 | Paradigm Island | 285976 | [285976-paradigm-island.json](./285976-paradigm-island.json) |
 | Paradigm Overhaul | 291762 | [291762-paradigm-overhaul.json](./291762-paradigm-overhaul.json) |
 | Paradigm Shift | 9240 | [9240-paradigm-shift.json](./9240-paradigm-shift.json) |
@@ -5840,6 +5842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portraits of Doom | 318067 | [318067-portraits-of-doom.json](./318067-portraits-of-doom.json) |
 | Portugal 1111: A Conquista de Soure | 94365 | [94365-portugal-1111-a-conquista-de-soure.json](./94365-portugal-1111-a-conquista-de-soure.json) |
 | Porzellanhaus | 367407 | [367407-porzellanhaus.json](./367407-porzellanhaus.json) |
+| Posable Heroes | 74362 | [74362-posable-heroes.json](./74362-posable-heroes.json) |
 | Poseidon | 301831 | [301831-poseidon.json](./301831-poseidon.json) |
 | Poseidon - Project Dark Sky | 51585 | [51585-poseidon-project-dark-sky.json](./51585-poseidon-project-dark-sky.json) |
 | Poseidon Kiugi: Bangchihyeong Aeksyeon RPG | 212855 | [212855-poseidon-kiugi-bangchihyeong-aeksyeon-rpg.json](./212855-poseidon-kiugi-bangchihyeong-aeksyeon-rpg.json) |
