@@ -5172,6 +5172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BloodMoon | 267484 | [267484-bloodmoon.json](./267484-bloodmoon.json) |
 | Bloodmoon Church | 144129 | [144129-bloodmoon-church.json](./144129-bloodmoon-church.json) |
 | Bloodmoon Rush | 333152 | [333152-bloodmoon-rush.json](./333152-bloodmoon-rush.json) |
+| Bloodmoored | 399147 | [399147-bloodmoored.json](./399147-bloodmoored.json) |
 | BloodNet | 2214 | [2214-bloodnet.json](./2214-bloodnet.json) |
 | BlooDooMoon Survivor | 265181 | [265181-bloodoomoon-survivor.json](./265181-bloodoomoon-survivor.json) |
 | BloodPact | 60218 | [60218-bloodpact.json](./60218-bloodpact.json) |
