@@ -766,6 +766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangsta Bean 2 | 261296 | [261296-gangsta-bean-2.json](./261296-gangsta-bean-2.json) |
 | Gangsta Magic | 156633 | [156633-gangsta-magic.json](./156633-gangsta-magic.json) |
 | Gangsta Paradise | 147252 | [147252-gangsta-paradise.json](./147252-gangsta-paradise.json) |
+| Gangsta Sniper | 112123 | [112123-gangsta-sniper.json](./112123-gangsta-sniper.json) |
 | Gangsta Style | 369731 | [369731-gangsta-style.json](./369731-gangsta-style.json) |
 | Gangsta Underground: The Poker | 132263 | [132263-gangsta-underground-the-poker.json](./132263-gangsta-underground-the-poker.json) |
 | Gangsta Woman | 120860 | [120860-gangsta-woman.json](./120860-gangsta-woman.json) |
