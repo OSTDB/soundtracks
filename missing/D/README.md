@@ -1506,6 +1506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: The Last Breath Chapter | 76220 | [76220-dead-by-daylight-the-last-breath-chapter.json](./76220-dead-by-daylight-the-last-breath-chapter.json) |
 | Dead by Daylight: The Walking Dead | 358407 | [358407-dead-by-daylight-the-walking-dead.json](./358407-dead-by-daylight-the-walking-dead.json) |
 | Dead by Daylight: The Walking Dead - Daryl Dixon | 358409 | [358409-dead-by-daylight-the-walking-dead-daryl-dixon.json](./358409-dead-by-daylight-the-walking-dead-daryl-dixon.json) |
+| Dead By Murder | 74144 | [74144-dead-by-murder.json](./74144-dead-by-murder.json) |
 | Dead by Wheel: Battle Royal | 109718 | [109718-dead-by-wheel-battle-royal.json](./109718-dead-by-wheel-battle-royal.json) |
 | Dead by zero | 95996 | [95996-dead-by-zero.json](./95996-dead-by-zero.json) |
 | Dead Castle | 117625 | [117625-dead-castle.json](./117625-dead-castle.json) |
@@ -8336,6 +8337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of Edera 2 | 363950 | [363950-dungeons-of-edera-2.json](./363950-dungeons-of-edera-2.json) |
 | Dungeons of Eternity | 251564 | [251564-dungeons-of-eternity.json](./251564-dungeons-of-eternity.json) |
 | Dungeons of Freeport | 408249 | [408249-dungeons-of-freeport.json](./408249-dungeons-of-freeport.json) |
+| Dungeons of Hell | 74228 | [74228-dungeons-of-hell.json](./74228-dungeons-of-hell.json) |
 | Dungeons of Hinterberg: Episode Renaud | 358904 | [358904-dungeons-of-hinterberg-episode-renaud.json](./358904-dungeons-of-hinterberg-episode-renaud.json) |
 | Dungeons of Honor | 191193 | [191193-dungeons-of-honor.json](./191193-dungeons-of-honor.json) |
 | Dungeons of Kremlin: Remastered | 57038 | [57038-dungeons-of-kremlin-remastered.json](./57038-dungeons-of-kremlin-remastered.json) |
