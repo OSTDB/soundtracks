@@ -2375,6 +2375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak: Loremaker Collection | 331431 | [331431-outbreak-loremaker-collection.json](./331431-outbreak-loremaker-collection.json) |
 | Outbreak: Lost Hope - Broken Faith | 261360 | [261360-outbreak-lost-hope-broken-faith.json](./261360-outbreak-lost-hope-broken-faith.json) |
 | Outbreak: Palladium Collection | 196278 | [196278-outbreak-palladium-collection.json](./196278-outbreak-palladium-collection.json) |
+| Outbreak: Pandemic Evolution | 33504 | [33504-outbreak-pandemic-evolution.json](./33504-outbreak-pandemic-evolution.json) |
 | Outbreak: Phantasmagoria Collection | 331428 | [331428-outbreak-phantasmagoria-collection.json](./331428-outbreak-phantasmagoria-collection.json) |
 | Outbreak: Platinum Collection | 205578 | [205578-outbreak-platinum-collection.json](./205578-outbreak-platinum-collection.json) |
 | Outbreak: Shades of Horror | 211659 | [211659-outbreak-shades-of-horror.json](./211659-outbreak-shades-of-horror.json) |
