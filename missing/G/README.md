@@ -2349,6 +2349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloomy Tales: Horrific Show - Collector's Edition | 225010 | [225010-gloomy-tales-horrific-show-collectors-edition.json](./225010-gloomy-tales-horrific-show-collectors-edition.json) |
 | Gloomy Toons | 140995 | [140995-gloomy-toons.json](./140995-gloomy-toons.json) |
 | Gloop | 236955 | [236955-gloop.json](./236955-gloop.json) |
+| Gloop | 390745 | [390745-gloop.json](./390745-gloop.json) |
 | Gloop Deluxe | 92302 | [92302-gloop-deluxe.json](./92302-gloop-deluxe.json) |
 | Glorg | 286653 | [286653-glorg.json](./286653-glorg.json) |
 | Glorgorian Weather Initiative | 393509 | [393509-glorgorian-weather-initiative.json](./393509-glorgorian-weather-initiative.json) |
@@ -3101,6 +3102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golfing Over It with Alva Majo | 93727 | [93727-golfing-over-it-with-alva-majo.json](./93727-golfing-over-it-with-alva-majo.json) |
 | Golfinite | 219801 | [219801-golfinite.json](./219801-golfinite.json) |
 | Golfinity | 60075 | [60075-golfinity.json](./60075-golfinity.json) |
+| Golfme | 390748 | [390748-golfme.json](./390748-golfme.json) |
 | Golftacular! | 351646 | [351646-golftacular.json](./351646-golftacular.json) |
 | Golftroidvania | 360012 | [360012-golftroidvania.json](./360012-golftroidvania.json) |
 | Golful | 257991 | [257991-golful.json](./257991-golful.json) |
