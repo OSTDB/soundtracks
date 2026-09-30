@@ -829,6 +829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UnderDungeon: Deluxe Edition | 250367 | [250367-underdungeon-deluxe-edition.json](./250367-underdungeon-deluxe-edition.json) |
 | Underfang | 399713 | [399713-underfang.json](./399713-underfang.json) |
 | Underfell Neutral Run | 335065 | [335065-underfell-neutral-run.json](./335065-underfell-neutral-run.json) |
+| UnderForged | 414474 | [414474-underforged.json](./414474-underforged.json) |
 | Undergod | 276153 | [276153-undergod.json](./276153-undergod.json) |
 | Undergone: Before | 390658 | [390658-undergone-before.json](./390658-undergone-before.json) |
 | Underground | 195709 | [195709-underground.json](./195709-underground.json) |
