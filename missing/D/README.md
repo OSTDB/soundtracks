@@ -3696,6 +3696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dialoop | 361796 | [361796-dialoop.json](./361796-dialoop.json) |
 | Dialshift | 417466 | [417466-dialshift.json](./417466-dialshift.json) |
 | Diam's | 280869 | [280869-diams.json](./280869-diams.json) |
+| Diamic Days | 413854 | [413854-diamic-days.json](./413854-diamic-days.json) |
 | Diamon Jones: Amulet of the World | 59921 | [59921-diamon-jones-amulet-of-the-world.json](./59921-diamon-jones-amulet-of-the-world.json) |
 | Diamond | 247022 | [247022-diamond.json](./247022-diamond.json) |
 | Diamond | 314304 | [314304-diamond.json](./314304-diamond.json) |
@@ -7799,6 +7800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duàndāo Kè | 166674 | [166674-duandao-ke.json](./166674-duandao-ke.json) |
 | Duat: Beyond Light & Shadow | 415919 | [415919-duat-beyond-light-and-shadow.json](./415919-duat-beyond-light-and-shadow.json) |
 | Dub Dash | 19977 | [19977-dub-dash.json](./19977-dub-dash.json) |
+| Dub Together | 413849 | [413849-dub-together.json](./413849-dub-together.json) |
 | Dubai Builder | 272247 | [272247-dubai-builder.json](./272247-dubai-builder.json) |
 | Dubbed | 416687 | [416687-dubbed.json](./416687-dubbed.json) |
 | Dubbelmoral | 72606 | [72606-dubbelmoral.json](./72606-dubbelmoral.json) |
