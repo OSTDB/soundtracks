@@ -303,8 +303,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 95 | 48974 | [48974-madden-nfl-95.json](./48974-madden-nfl-95.json) |
 | Madden NFL 96 | 240486 | [240486-madden-nfl-96.json](./240486-madden-nfl-96.json) |
 | Madden NFL 96 | 243244 | [243244-madden-nfl-96.json](./243244-madden-nfl-96.json) |
+| Madden NFL 96 | 48973 | [48973-madden-nfl-96.json](./48973-madden-nfl-96.json) |
 | Madden NFL 97 | 243264 | [243264-madden-nfl-97.json](./243264-madden-nfl-97.json) |
 | Madden NFL 97 | 243265 | [243265-madden-nfl-97.json](./243265-madden-nfl-97.json) |
+| Madden NFL 97 | 48972 | [48972-madden-nfl-97.json](./48972-madden-nfl-97.json) |
 | Madden NFL Football | 6845 | [6845-madden-nfl-football.json](./6845-madden-nfl-football.json) |
 | Madden NFL Football | 80472 | [80472-madden-nfl-football.json](./80472-madden-nfl-football.json) |
 | Madden NFL Mobile | 39182 | [39182-madden-nfl-mobile.json](./39182-madden-nfl-mobile.json) |
@@ -442,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage World: The Wizard's Stone | 169419 | [169419-mage-world-the-wizards-stone.json](./169419-mage-world-the-wizards-stone.json) |
 | Mage: Enchanted | 169946 | [169946-mage-enchanted.json](./169946-mage-enchanted.json) |
 | Mage's Arena | 205009 | [205009-mages-arena.json](./205009-mages-arena.json) |
+| Mage's Initiation | 63533 | [63533-mages-initiation.json](./63533-mages-initiation.json) |
 | Mage's Legacy | 312162 | [312162-mages-legacy.json](./312162-mages-legacy.json) |
 | Mageanoid | 312190 | [312190-mageanoid.json](./312190-mageanoid.json) |
 | Magefall | 210719 | [210719-magefall.json](./210719-magefall.json) |
@@ -5267,6 +5270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Million KNights Vermilion | 79270 | [79270-million-knights-vermilion.json](./79270-million-knights-vermilion.json) |
 | Million Lords | 124637 | [124637-million-lords.json](./124637-million-lords.json) |
 | Million on Mars: Land Rush | 182494 | [182494-million-on-mars-land-rush.json](./182494-million-on-mars-land-rush.json) |
+| Million Onion Hotel | 62068 | [62068-million-onion-hotel.json](./62068-million-onion-hotel.json) |
 | Million to One Hero | 109609 | [109609-million-to-one-hero.json](./109609-million-to-one-hero.json) |
 | Millionaire Dancer | 117098 | [117098-millionaire-dancer.json](./117098-millionaire-dancer.json) |
 | Millionaire Manor, Robin's Quest, Escape the Lost Kingdom and the Hidden Object Show 2 | 209510 | [209510-millionaire-manor-robins-quest-escape-the-lost-kingdom-and-the-hidden-object-show-2.json](./209510-millionaire-manor-robins-quest-escape-the-lost-kingdom-and-the-hidden-object-show-2.json) |
@@ -7255,6 +7259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster! Bass Fishing | 49324 | [49324-monster-bass-fishing.json](./49324-monster-bass-fishing.json) |
 | Monster's Inc. Peek A Boo Boo's Door Game | 343341 | [343341-monsters-inc-peek-a-boo-boos-door-game.json](./343341-monsters-inc-peek-a-boo-boos-door-game.json) |
 | Monster+Connect! | 181396 | [181396-monster-connect.json](./181396-monster-connect.json) |
+| Monsterbag | 60535 | [60535-monsterbag.json](./60535-monsterbag.json) |
 | Monsterburg | 305790 | [305790-monsterburg.json](./305790-monsterburg.json) |
 | MonsterCrafter | 89202 | [89202-monstercrafter.json](./89202-monstercrafter.json) |
 | Monsterhearts 2 | 138699 | [138699-monsterhearts-2.json](./138699-monsterhearts-2.json) |
