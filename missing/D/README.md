@@ -2701,6 +2701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delivery of Us | 380398 | [380398-delivery-of-us.json](./380398-delivery-of-us.json) |
 | Delivery Quest | 208428 | [208428-delivery-quest.json](./208428-delivery-quest.json) |
 | Delivery Simulator | 161335 | [161335-delivery-simulator.json](./161335-delivery-simulator.json) |
+| Delivery Simulator | 391247 | [391247-delivery-simulator.json](./391247-delivery-simulator.json) |
 | Delivery Up | 361168 | [361168-delivery-up.json](./361168-delivery-up.json) |
 | Delores: A Thimbleweed Park Mini-Adventure | 134408 | [134408-delores-a-thimbleweed-park-mini-adventure.json](./134408-delores-a-thimbleweed-park-mini-adventure.json) |
 | Delta | 319816 | [319816-delta.json](./319816-delta.json) |
@@ -4647,6 +4648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Dreamlight Valley: Emotional Rescue | 362263 | [362263-disney-dreamlight-valley-emotional-rescue.json](./362263-disney-dreamlight-valley-emotional-rescue.json) |
 | Disney Dreamlight Valley: Enchanted Adventure | 266853 | [266853-disney-dreamlight-valley-enchanted-adventure.json](./266853-disney-dreamlight-valley-enchanted-adventure.json) |
 | Disney Dreamlight Valley: Missions in Uncharted Space | 228430 | [228430-disney-dreamlight-valley-missions-in-uncharted-space.json](./228430-disney-dreamlight-valley-missions-in-uncharted-space.json) |
+| Disney Dreamlight Valley: Puppy Love | 391298 | [391298-disney-dreamlight-valley-puppy-love.json](./391298-disney-dreamlight-valley-puppy-love.json) |
 | Disney Dreamlight Valley: Return to Beast's Castle | 371229 | [371229-disney-dreamlight-valley-return-to-beasts-castle.json](./371229-disney-dreamlight-valley-return-to-beasts-castle.json) |
 | Disney Dreamlight Valley: Scar's Kingdom | 222272 | [222272-disney-dreamlight-valley-scars-kingdom.json](./222272-disney-dreamlight-valley-scars-kingdom.json) |
 | Disney Dreamlight Valley: The Winter Ball | 381099 | [381099-disney-dreamlight-valley-the-winter-ball.json](./381099-disney-dreamlight-valley-the-winter-ball.json) |
