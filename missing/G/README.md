@@ -1732,6 +1732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost of Tokyo | 406790 | [406790-ghost-of-tokyo.json](./406790-ghost-of-tokyo.json) |
 | Ghost of Tomorrow: Chapter 1 | 168861 | [168861-ghost-of-tomorrow-chapter-1.json](./168861-ghost-of-tomorrow-chapter-1.json) |
 | Ghost of Viyk | 295846 | [295846-ghost-of-viyk.json](./295846-ghost-of-viyk.json) |
+| Ghost on the Shore | 129064 | [129064-ghost-on-the-shore.json](./129064-ghost-on-the-shore.json) |
 | Ghost Online | 112299 | [112299-ghost-online.json](./112299-ghost-online.json) |
 | Ghost Opera House | 156695 | [156695-ghost-opera-house.json](./156695-ghost-opera-house.json) |
 | Ghost Party | 304863 | [304863-ghost-party.json](./304863-ghost-party.json) |
@@ -3186,6 +3187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goomba's Easter Egg Hunt | 135221 | [135221-goombas-easter-egg-hunt.json](./135221-goombas-easter-egg-hunt.json) |
 | Goombario and the Adventure of the Hot Lava Rocks | 328623 | [328623-goombario-and-the-adventure-of-the-hot-lava-rocks.json](./328623-goombario-and-the-adventure-of-the-hot-lava-rocks.json) |
 | Gooncrusher | 302113 | [302113-gooncrusher.json](./302113-gooncrusher.json) |
+| Goons: Legends & Mayhem | 138643 | [138643-goons-legends-and-mayhem.json](./138643-goons-legends-and-mayhem.json) |
 | Goony | 85632 | [85632-goony.json](./85632-goony.json) |
 | Goonya Fighter: Jiggly Haptic Edition | 146316 | [146316-goonya-fighter-jiggly-haptic-edition.json](./146316-goonya-fighter-jiggly-haptic-edition.json) |
 | Goonya Fighter: Puimo | 196140 | [196140-goonya-fighter-puimo.json](./196140-goonya-fighter-puimo.json) |
