@@ -615,6 +615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Pixel Picross | 54449 | [54449-magic-pixel-picross.json](./54449-magic-pixel-picross.json) |
 | Magic Pot&ter Battlegrounds | 150500 | [150500-magic-pot-and-ter-battlegrounds.json](./150500-magic-pot-and-ter-battlegrounds.json) |
 | Magic Potion Destroyer | 55227 | [55227-magic-potion-destroyer.json](./55227-magic-potion-destroyer.json) |
+| Magic Potion Explorer | 33550 | [33550-magic-potion-explorer.json](./33550-magic-potion-explorer.json) |
 | Magic Potion Stories | 252666 | [252666-magic-potion-stories.json](./252666-magic-potion-stories.json) |
 | Magic Pussy: Chapter 1 | 244719 | [244719-magic-pussy-chapter-1.json](./244719-magic-pussy-chapter-1.json) |
 | Magic Pussy: Chapter 3 | 365670 | [365670-magic-pussy-chapter-3.json](./365670-magic-pussy-chapter-3.json) |
@@ -1273,6 +1274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malu the Princess | 324997 | [324997-malu-the-princess.json](./324997-malu-the-princess.json) |
 | Malum Escape | 311500 | [311500-malum-escape.json](./311500-malum-escape.json) |
 | Malus | 133214 | [133214-malus.json](./133214-malus.json) |
+| Malus Code | 33557 | [33557-malus-code.json](./33557-malus-code.json) |
 | Malvin`s Prehistoric Adventures | 129228 | [129228-malvin-s-prehistoric-adventures.json](./129228-malvin-s-prehistoric-adventures.json) |
 | Malvinas 2032 | 69243 | [69243-malvinas-2032.json](./69243-malvinas-2032.json) |
 | Malvinas: La Ultima Carta | 303645 | [303645-malvinas-la-ultima-carta.json](./303645-malvinas-la-ultima-carta.json) |
@@ -5126,6 +5128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Migawari Shoujo | 150571 | [150571-migawari-shoujo.json](./150571-migawari-shoujo.json) |
 | Might & Magic Collection | 53357 | [53357-might-and-magic-collection.json](./53357-might-and-magic-collection.json) |
 | Might & Magic Heroes VI: Complete Edition | 53356 | [53356-might-and-magic-heroes-vi-complete-edition.json](./53356-might-and-magic-heroes-vi-complete-edition.json) |
+| Might & Magic Heroes VII - Trial by Fire | 33474 | [33474-might-and-magic-heroes-vii-trial-by-fire.json](./33474-might-and-magic-heroes-vii-trial-by-fire.json) |
 | Might & Magic Heroes VII: Deluxe Edition | 53355 | [53355-might-and-magic-heroes-vii-deluxe-edition.json](./53355-might-and-magic-heroes-vii-deluxe-edition.json) |
 | Might & Magic: Clash of Heroes | 1889 | [1889-might-and-magic-clash-of-heroes.json](./1889-might-and-magic-clash-of-heroes.json) |
 | Might & Magic: Duel of Champions - Forgotten Wars | 52586 | [52586-might-and-magic-duel-of-champions-forgotten-wars.json](./52586-might-and-magic-duel-of-champions-forgotten-wars.json) |
@@ -5463,6 +5466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindhack | 151735 | [151735-mindhack.json](./151735-mindhack.json) |
 | Mindhive: Wilds | 341164 | [341164-mindhive-wilds.json](./341164-mindhive-wilds.json) |
 | MindLess | 128457 | [128457-mindless.json](./128457-mindless.json) |
+| Mindless Running | 33533 | [33533-mindless-running.json](./33533-mindless-running.json) |
 | Mindlock: The Apartment | 275333 | [275333-mindlock-the-apartment.json](./275333-mindlock-the-apartment.json) |
 | MindMessenger | 342156 | [342156-mindmessenger.json](./342156-mindmessenger.json) |
 | Mindnight | 52260 | [52260-mindnight.json](./52260-mindnight.json) |
