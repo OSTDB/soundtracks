@@ -2125,6 +2125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otome Sekai no Arukikata | 305837 | [305837-otome-sekai-no-arukikata.json](./305837-otome-sekai-no-arukikata.json) |
 | Otome Senki | 304733 | [304733-otome-senki.json](./304733-otome-senki.json) |
 | Otome the Exorcist | 158045 | [158045-otome-the-exorcist.json](./158045-otome-the-exorcist.json) |
+| Otomedius Excellent | 1695 | [1695-otomedius-excellent.json](./1695-otomedius-excellent.json) |
 | Otometeki Koi Kakumei Love Revo!! | 70678 | [70678-otometeki-koi-kakumei-love-revo.json](./70678-otometeki-koi-kakumei-love-revo.json) |
 | Otomon Drop: Monster Hunter Stories | 175726 | [175726-otomon-drop-monster-hunter-stories.json](./175726-otomon-drop-monster-hunter-stories.json) |
 | Otona no Gal Jan Kimi ni Hane Man | 248628 | [248628-otona-no-gal-jan-kimi-ni-hane-man.json](./248628-otona-no-gal-jan-kimi-ni-hane-man.json) |
