@@ -2129,6 +2129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TerraFirmaCraft+ | 297577 | [297577-terrafirmacraft.json](./297577-terrafirmacraft.json) |
 | TerraForge | 258527 | [258527-terraforge.json](./258527-terraforge.json) |
 | Terraforma | 238605 | [238605-terraforma.json](./238605-terraforma.json) |
+| Terraformer Expedition to Mars | 17352 | [17352-terraformer-expedition-to-mars.json](./17352-terraformer-expedition-to-mars.json) |
 | Terraformers + Starward Rogue: Mechs and Colonizers Bundle | 292614 | [292614-terraformers-starward-rogue-mechs-and-colonizers-bundle.json](./292614-terraformers-starward-rogue-mechs-and-colonizers-bundle.json) |
 | Terraformers + Starward Rogue: Mechs and Colonizers Deluxe Bundle | 292616 | [292616-terraformers-starward-rogue-mechs-and-colonizers-deluxe-bundle.json](./292616-terraformers-starward-rogue-mechs-and-colonizers-deluxe-bundle.json) |
 | Terraformers: Deluxe Bundle | 331493 | [331493-terraformers-deluxe-bundle.json](./331493-terraformers-deluxe-bundle.json) |
@@ -4374,6 +4375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ferry | 319378 | [319378-the-ferry.json](./319378-the-ferry.json) |
 | The Ferryman | 201760 | [201760-the-ferryman.json](./201760-the-ferryman.json) |
 | The Fever | 141745 | [141745-the-fever.json](./141745-the-fever.json) |
+| The Few | 17385 | [17385-the-few.json](./17385-the-few.json) |
 | The Few | 211932 | [211932-the-few.json](./211932-the-few.json) |
 | The Few | 407334 | [407334-the-few.json](./407334-the-few.json) |
 | The Fidelio Incident | 36707 | [36707-the-fidelio-incident.json](./36707-the-fidelio-incident.json) |
@@ -12181,6 +12183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Party Kill | 119272 | [119272-total-party-kill.json](./119272-total-party-kill.json) |
 | Total Pinball 25: 3D Tables | 206745 | [206745-total-pinball-25-3d-tables.json](./206745-total-pinball-25-3d-tables.json) |
 | Total Pro Football | 61738 | [61738-total-pro-football.json](./61738-total-pro-football.json) |
+| Total Recall | 12500 | [12500-total-recall.json](./12500-total-recall.json) |
 | Total Recall Mobile | 86194 | [86194-total-recall-mobile.json](./86194-total-recall-mobile.json) |
 | Total Reload | 248661 | [248661-total-reload.json](./248661-total-reload.json) |
 | Total Rendition | 172522 | [172522-total-rendition.json](./172522-total-rendition.json) |
@@ -12806,6 +12809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Town Story | 106967 | [106967-town-story.json](./106967-town-story.json) |
 | Town Village: Farm Build Trade | 88736 | [88736-town-village-farm-build-trade.json](./88736-town-village-farm-build-trade.json) |
 | Town With No Name | 69874 | [69874-town-with-no-name.json](./69874-town-with-no-name.json) |
+| TownCraft | 17319 | [17319-towncraft.json](./17319-towncraft.json) |
 | Towne of Gringle | 319178 | [319178-towne-of-gringle.json](./319178-towne-of-gringle.json) |
 | Townframe | 199128 | [199128-townframe.json](./199128-townframe.json) |
 | Townkins | 103524 | [103524-townkins.json](./103524-townkins.json) |
@@ -12927,6 +12931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trace Memory | 18595 | [18595-trace-memory.json](./18595-trace-memory.json) |
 | Trace of the past | 121559 | [121559-trace-of-the-past.json](./121559-trace-of-the-past.json) |
 | Trace of Time | 284337 | [284337-trace-of-time.json](./284337-trace-of-time.json) |
+| Trace Vector | 17341 | [17341-trace-vector.json](./17341-trace-vector.json) |
 | Tracery of Fate VR | 207496 | [207496-tracery-of-fate-vr.json](./207496-tracery-of-fate-vr.json) |
 | Traces of Gods | 372097 | [372097-traces-of-gods.json](./372097-traces-of-gods.json) |
 | Tracing | 346209 | [346209-tracing.json](./346209-tracing.json) |
@@ -14734,6 +14739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Wishes | 102622 | [102622-true-wishes.json](./102622-true-wishes.json) |
 | Truefish | 120412 | [120412-truefish.json](./120412-truefish.json) |
 | Truffle Hogs | 159651 | [159651-truffle-hogs.json](./159651-truffle-hogs.json) |
+| Truffle Saga | 17416 | [17416-truffle-saga.json](./17416-truffle-saga.json) |
 | Trulon | 197766 | [197766-trulon.json](./197766-trulon.json) |
 | Trulon: The Shadow Engine | 20344 | [20344-trulon-the-shadow-engine.json](./20344-trulon-the-shadow-engine.json) |
 | TruLove | 212186 | [212186-trulove.json](./212186-trulove.json) |
@@ -15469,6 +15475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twwwr | 141761 | [141761-twwwr.json](./141761-twwwr.json) |
 | TXXX | 232706 | [232706-txxx.json](./232706-txxx.json) |
 | TY the Tasmanian Tiger 2: Bush Rescue HD | 147845 | [147845-ty-the-tasmanian-tiger-2-bush-rescue-hd.json](./147845-ty-the-tasmanian-tiger-2-bush-rescue-hd.json) |
+| TY the Tasmanian Tiger 4 | 12876 | [12876-ty-the-tasmanian-tiger-4.json](./12876-ty-the-tasmanian-tiger-4.json) |
 | Ty the Tasmanian Tiger 4: Gunyip! | 307671 | [307671-ty-the-tasmanian-tiger-4-gunyip.json](./307671-ty-the-tasmanian-tiger-4-gunyip.json) |
 | Tyalband | 276310 | [276310-tyalband.json](./276310-tyalband.json) |
 | Tybot Invasion: The Typing Runner | 151568 | [151568-tybot-invasion-the-typing-runner.json](./151568-tybot-invasion-the-typing-runner.json) |
