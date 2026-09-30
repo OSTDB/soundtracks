@@ -631,6 +631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Pussy: Chapter 3 | 365670 | [365670-magic-pussy-chapter-3.json](./365670-magic-pussy-chapter-3.json) |
 | Magic Realm | 182943 | [182943-magic-realm.json](./182943-magic-realm.json) |
 | Magic Realm | 316636 | [316636-magic-realm.json](./316636-magic-realm.json) |
+| Magic Realm Obby | 391250 | [391250-magic-realm-obby.json](./391250-magic-realm-obby.json) |
 | Magic Realm: Online | 102934 | [102934-magic-realm-online.json](./102934-magic-realm-online.json) |
 | Magic Revenge: Casual Idle RPG | 180234 | [180234-magic-revenge-casual-idle-rpg.json](./180234-magic-revenge-casual-idle-rpg.json) |
 | Magic Rune Stone | 333367 | [333367-magic-rune-stone.json](./333367-magic-rune-stone.json) |
@@ -6378,6 +6379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misterious Thief | 321996 | [321996-misterious-thief.json](./321996-misterious-thief.json) |
 | Mistery | 264046 | [264046-mistery.json](./264046-mistery.json) |
 | Mistfall | 239042 | [239042-mistfall.json](./239042-mistfall.json) |
+| Mistfall Ruins | 391249 | [391249-mistfall-ruins.json](./391249-mistfall-ruins.json) |
 | Mistful Crimson Morning | 341911 | [341911-mistful-crimson-morning.json](./341911-mistful-crimson-morning.json) |
 | Mistia - The Kingdom of Krasten | 140464 | [140464-mistia-the-kingdom-of-krasten.json](./140464-mistia-the-kingdom-of-krasten.json) |
 | Misticheskii Ostrov | 99185 | [99185-misticheskii-ostrov.json](./99185-misticheskii-ostrov.json) |
