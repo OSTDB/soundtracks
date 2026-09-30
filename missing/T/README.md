@@ -5026,6 +5026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hero Project: Redemption Season - MeChip Warning System | 170822 | [170822-the-hero-project-redemption-season-mechip-warning-system.json](./170822-the-hero-project-redemption-season-mechip-warning-system.json) |
 | The Hero Unmasked! | 52274 | [52274-the-hero-unmasked.json](./52274-the-hero-unmasked.json) |
 | The Herobrine Mod | 232684 | [232684-the-herobrine-mod.json](./232684-the-herobrine-mod.json) |
+| The Heroic Knight | 388303 | [388303-the-heroic-knight.json](./388303-the-heroic-knight.json) |
 | The Heroic Legend of Eagarlnia | 120766 | [120766-the-heroic-legend-of-eagarlnia.json](./120766-the-heroic-legend-of-eagarlnia.json) |
 | The Heroic Legend of Eagarlnia: Expansion Pack | 199651 | [199651-the-heroic-legend-of-eagarlnia-expansion-pack.json](./199651-the-heroic-legend-of-eagarlnia-expansion-pack.json) |
 | The Hi-Finesse: 2D | 25909 | [25909-the-hi-finesse-2d.json](./25909-the-hi-finesse-2d.json) |
@@ -8766,6 +8767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Virus Game | 375853 | [375853-the-virus-game.json](./375853-the-virus-game.json) |
 | The Visit | 128660 | [128660-the-visit.json](./128660-the-visit.json) |
 | The Visit | 201289 | [201289-the-visit.json](./201289-the-visit.json) |
+| The Visit: Mizukawa | 388287 | [388287-the-visit-mizukawa.json](./388287-the-visit-mizukawa.json) |
 | The Visitor | 151752 | [151752-the-visitor.json](./151752-the-visitor.json) |
 | The Visitor Effect | 348249 | [348249-the-visitor-effect.json](./348249-the-visitor-effect.json) |
 | The Visitor: Alien Worm | 174740 | [174740-the-visitor-alien-worm.json](./174740-the-visitor-alien-worm.json) |
@@ -8949,6 +8951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The White Hell | 390545 | [390545-the-white-hell.json](./390545-the-white-hell.json) |
 | The White Prison | 262912 | [262912-the-white-prison.json](./262912-the-white-prison.json) |
 | The White Room | 309856 | [309856-the-white-room.json](./309856-the-white-room.json) |
+| The White Wolf of Lokken Mountain | 388321 | [388321-the-white-wolf-of-lokken-mountain.json](./388321-the-white-wolf-of-lokken-mountain.json) |
 | The Whitetail Incident | 159280 | [159280-the-whitetail-incident.json](./159280-the-whitetail-incident.json) |
 | The Whittled Horse | 309461 | [309461-the-whittled-horse.json](./309461-the-whittled-horse.json) |
 | The Whole World is in Check | 185017 | [185017-the-whole-world-is-in-check.json](./185017-the-whole-world-is-in-check.json) |
@@ -11953,6 +11956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tome | 373070 | [373070-tome.json](./373070-tome.json) |
 | Tome Improvement | 389737 | [389737-tome-improvement.json](./389737-tome-improvement.json) |
 | Tome of Heroes | 48675 | [48675-tome-of-heroes.json](./48675-tome-of-heroes.json) |
+| Tome of Talis: A Dice Conquest Game | 388299 | [388299-tome-of-talis-a-dice-conquest-game.json](./388299-tome-of-talis-a-dice-conquest-game.json) |
 | Tome of the Damned | 380081 | [380081-tome-of-the-damned.json](./380081-tome-of-the-damned.json) |
 | Tome of the Sun | 112118 | [112118-tome-of-the-sun.json](./112118-tome-of-the-sun.json) |
 | Tomeling | 85448 | [85448-tomeling.json](./85448-tomeling.json) |
@@ -14770,6 +14774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trophy Hunt | 275129 | [275129-trophy-hunt.json](./275129-trophy-hunt.json) |
 | Trophy Knight | 219527 | [219527-trophy-knight.json](./219527-trophy-knight.json) |
 | Trophy Truck Racing Tour | 369650 | [369650-trophy-truck-racing-tour.json](./369650-trophy-truck-racing-tour.json) |
+| TrophyRC | 388307 | [388307-trophyrc.json](./388307-trophyrc.json) |
 | Tropi | 209654 | [209654-tropi.json](./209654-tropi.json) |
 | Tropia | 76245 | [76245-tropia.json](./76245-tropia.json) |
 | Tropic Isle | 130866 | [130866-tropic-isle.json](./130866-tropic-isle.json) |
