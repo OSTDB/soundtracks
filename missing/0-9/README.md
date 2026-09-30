@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | +1S | 93755 | [93755-1s.json](./93755-1s.json) |
 | =7 | 197674 | [197674-7.json](./197674-7.json) |
 | > Terminal | 383380 | [383380-terminal.json](./383380-terminal.json) |
+| >//:System.Hack | 30473 | [30473-system-hack.json](./30473-system-hack.json) |
 | >Connect | 124224 | [124224-connect.json](./124224-connect.json) |
 | \|\|[}}}°.•°.°•..°•°[\|\|\|{{{ | 141830 | [141830-.json](./141830-.json) |
 | $1 Ride | 31922 | [31922-1-ride.json](./31922-1-ride.json) |
@@ -1107,6 +1108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4x4 Offroad Driver | 219294 | [219294-4x4-offroad-driver.json](./219294-4x4-offroad-driver.json) |
 | 4X4 Progress | 333648 | [333648-4x4-progress.json](./333648-4x4-progress.json) |
 | 4x4 Real Off Road | 255763 | [255763-4x4-real-off-road.json](./255763-4x4-real-off-road.json) |
+| 4x4 Road Race | 29556 | [29556-4x4-road-race.json](./29556-4x4-road-race.json) |
 | 4x4 Russian SUVs Off-Road | 348958 | [348958-4x4-russian-suvs-off-road.json](./348958-4x4-russian-suvs-off-road.json) |
 | 5 Card Slingo | 321768 | [321768-5-card-slingo.json](./321768-5-card-slingo.json) |
 | 5 Days, Minimum Wage. | 308953 | [308953-5-days-minimum-wage.json](./308953-5-days-minimum-wage.json) |
