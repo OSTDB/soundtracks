@@ -2628,6 +2628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bed Lying Simulator: Girlfriend Experience | 292680 | [292680-bed-lying-simulator-girlfriend-experience.json](./292680-bed-lying-simulator-girlfriend-experience.json) |
 | Bed Survival | 145648 | [145648-bed-survival.json](./145648-bed-survival.json) |
 | BederSnake | 361220 | [361220-bedersnake.json](./361220-bedersnake.json) |
+| Bedlam | 2390 | [2390-bedlam.json](./2390-bedlam.json) |
 | Bedlam | 55098 | [55098-bedlam.json](./55098-bedlam.json) |
 | Bedlamball | 51985 | [51985-bedlamball.json](./51985-bedlamball.json) |
 | BeDo | 245783 | [245783-bedo.json](./245783-bedo.json) |
@@ -2880,6 +2881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10: Galactic Racing | 210257 | [210257-ben-10-galactic-racing.json](./210257-ben-10-galactic-racing.json) |
 | Ben 10: Galactic Racing | 210259 | [210259-ben-10-galactic-racing.json](./210259-ben-10-galactic-racing.json) |
 | Ben 10: Galactic Racing | 210260 | [210260-ben-10-galactic-racing.json](./210260-ben-10-galactic-racing.json) |
+| Ben 10: Galactic Racing | 2806 | [2806-ben-10-galactic-racing.json](./2806-ben-10-galactic-racing.json) |
 | Ben 10: Omni-Charge | 363892 | [363892-ben-10-omni-charge.json](./363892-ben-10-omni-charge.json) |
 | Ben 10: Omniverse | 2800 | [2800-ben-10-omniverse.json](./2800-ben-10-omniverse.json) |
 | Ben 10: Omniverse 2 | 5310 | [5310-ben-10-omniverse-2.json](./5310-ben-10-omniverse-2.json) |
@@ -4770,6 +4772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Master 3D Puzzle | 357976 | [357976-block-master-3d-puzzle.json](./357976-block-master-3d-puzzle.json) |
 | Block Mesa 64 | 193328 | [193328-block-mesa-64.json](./193328-block-mesa-64.json) |
 | Block Motion | 149486 | [149486-block-motion.json](./149486-block-motion.json) |
+| Block Multiplayer: RPG | 128377 | [128377-block-multiplayer-rpg.json](./128377-block-multiplayer-rpg.json) |
 | Block N Load 2 | 204443 | [204443-block-n-load-2.json](./204443-block-n-load-2.json) |
 | Block Out | 246386 | [246386-block-out.json](./246386-block-out.json) |
 | Block Pile | 360562 | [360562-block-pile.json](./360562-block-pile.json) |
@@ -6166,6 +6169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bottle of Sickness | 386216 | [386216-bottle-of-sickness.json](./386216-bottle-of-sickness.json) |
 | Bottle_Shooter | 55240 | [55240-bottle-shooter.json](./55240-bottle-shooter.json) |
 | Bottle: Pilgrim | 74638 | [74638-bottle-pilgrim.json](./74638-bottle-pilgrim.json) |
+| Bottom of the 9th | 3369 | [3369-bottom-of-the-9th.json](./3369-bottom-of-the-9th.json) |
 | Bottom of the Ninth | 245547 | [245547-bottom-of-the-ninth.json](./245547-bottom-of-the-ninth.json) |
 | Bottomless | 183596 | [183596-bottomless.json](./183596-bottomless.json) |
 | Bottomless Pitfall | 348879 | [348879-bottomless-pitfall.json](./348879-bottomless-pitfall.json) |
