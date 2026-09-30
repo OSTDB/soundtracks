@@ -1699,6 +1699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed Me Oil 2 | 39207 | [39207-feed-me-oil-2.json](./39207-feed-me-oil-2.json) |
 | Feed Me Oil 2: Liquid Puzzle Adventure | 108499 | [108499-feed-me-oil-2-liquid-puzzle-adventure.json](./108499-feed-me-oil-2-liquid-puzzle-adventure.json) |
 | Feed My Alien | 60629 | [60629-feed-my-alien.json](./60629-feed-my-alien.json) |
+| Feed My Raptor VR | 391839 | [391839-feed-my-raptor-vr.json](./391839-feed-my-raptor-vr.json) |
 | Feed the AI | 398585 | [398585-feed-the-ai.json](./398585-feed-the-ai.json) |
 | Feed the Animals | 75916 | [75916-feed-the-animals.json](./75916-feed-the-animals.json) |
 | Feed The Beast | 292539 | [292539-feed-the-beast.json](./292539-feed-the-beast.json) |
@@ -3938,6 +3939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flugrettung: Die Simulation | 334884 | [334884-flugrettung-die-simulation.json](./334884-flugrettung-die-simulation.json) |
 | Fluid | 92065 | [92065-fluid.json](./92065-fluid.json) |
 | Fluid | 94223 | [94223-fluid.json](./94223-fluid.json) |
+| Fluid Drift | 391783 | [391783-fluid-drift.json](./391783-fluid-drift.json) |
 | Fluid SE | 197645 | [197645-fluid-se.json](./197645-fluid-se.json) |
 | Fluid Simulation | 123498 | [123498-fluid-simulation.json](./123498-fluid-simulation.json) |
 | Fluid-Kha | 138681 | [138681-fluid-kha.json](./138681-fluid-kha.json) |
@@ -4883,6 +4885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune Cookie: More Cookies | 340239 | [340239-fortune-cookie-more-cookies.json](./340239-fortune-cookie-more-cookies.json) |
 | Fortune Decker | 270743 | [270743-fortune-decker.json](./270743-fortune-decker.json) |
 | Fortune Factory | 413873 | [413873-fortune-factory.json](./413873-fortune-factory.json) |
+| Fortune Fragments | 391788 | [391788-fortune-fragments.json](./391788-fortune-fragments.json) |
 | Fortune Handlers | 235493 | [235493-fortune-handlers.json](./235493-fortune-handlers.json) |
 | Fortune Hunters | 117729 | [117729-fortune-hunters.json](./117729-fortune-hunters.json) |
 | Fortune Paradox | 405083 | [405083-fortune-paradox.json](./405083-fortune-paradox.json) |
