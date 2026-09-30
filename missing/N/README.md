@@ -3342,6 +3342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova Dash | 256530 | [256530-nova-dash.json](./256530-nova-dash.json) |
 | Nova Empire | 98467 | [98467-nova-empire.json](./98467-nova-empire.json) |
 | Nova Force | 60583 | [60583-nova-force.json](./60583-nova-force.json) |
+| Nova Golf | 89242 | [89242-nova-golf.json](./89242-nova-golf.json) |
 | Nova Impact | 405521 | [405521-nova-impact.json](./405521-nova-impact.json) |
 | Nova Island | 144768 | [144768-nova-island.json](./144768-nova-island.json) |
 | Nova Jumper | 414388 | [414388-nova-jumper.json](./414388-nova-jumper.json) |
