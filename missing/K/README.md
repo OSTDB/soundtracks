@@ -1675,6 +1675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kings and Generals: A Divided Loyalty | 60249 | [60249-kings-and-generals-a-divided-loyalty.json](./60249-kings-and-generals-a-divided-loyalty.json) |
 | Kings and Legends | 62791 | [62791-kings-and-legends.json](./62791-kings-and-legends.json) |
 | Kings and Pigs | 152937 | [152937-kings-and-pigs.json](./152937-kings-and-pigs.json) |
+| Kings Do Not Fall | 394484 | [394484-kings-do-not-fall.json](./394484-kings-do-not-fall.json) |
 | Kings Era | 98012 | [98012-kings-era.json](./98012-kings-era.json) |
 | Kings Hero 2 | 175359 | [175359-kings-hero-2.json](./175359-kings-hero-2.json) |
 | Kings Odyssey: Dwarves Tale | 287170 | [287170-kings-odyssey-dwarves-tale.json](./287170-kings-odyssey-dwarves-tale.json) |
@@ -2119,6 +2120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight's Destiny | 149037 | [149037-knights-destiny.json](./149037-knights-destiny.json) |
 | Knight's Edge | 165534 | [165534-knights-edge.json](./165534-knights-edge.json) |
 | Knight's Errand | 371470 | [371470-knights-errand.json](./371470-knights-errand.json) |
+| Knight's Fly | 394446 | [394446-knights-fly.json](./394446-knights-fly.json) |
 | Knight's move | 112357 | [112357-knights-move.json](./112357-knights-move.json) |
 | Knight's Night! | 327829 | [327829-knights-night.json](./327829-knights-night.json) |
 | Knight's Path: The Tournament | 278138 | [278138-knights-path-the-tournament.json](./278138-knights-path-the-tournament.json) |
