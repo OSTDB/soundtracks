@@ -1176,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unknown Fluffy Object | 380450 | [380450-unknown-fluffy-object.json](./380450-unknown-fluffy-object.json) |
 | Unknown Hero | 371449 | [371449-unknown-hero.json](./371449-unknown-hero.json) |
 | Unknown Heroes Idle | 174809 | [174809-unknown-heroes-idle.json](./174809-unknown-heroes-idle.json) |
+| Unknown Horizon | 408858 | [408858-unknown-horizon.json](./408858-unknown-horizon.json) |
 | Unknown Horizons | 121622 | [121622-unknown-horizons.json](./121622-unknown-horizons.json) |
 | Unknown Host | 342906 | [342906-unknown-host.json](./342906-unknown-host.json) |
 | Unknown Kadath | 271456 | [271456-unknown-kadath.json](./271456-unknown-kadath.json) |
@@ -1545,6 +1546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upsolom | 46730 | [46730-upsolom.json](./46730-upsolom.json) |
 | Upstream | 340936 | [340936-upstream.json](./340936-upstream.json) |
 | Upstream Ante | 298324 | [298324-upstream-ante.json](./298324-upstream-ante.json) |
+| Uptime: A Cloud Provider Sim | 408966 | [408966-uptime-a-cloud-provider-sim.json](./408966-uptime-a-cloud-provider-sim.json) |
 | Uptown Outbreak | 257682 | [257682-uptown-outbreak.json](./257682-uptown-outbreak.json) |
 | Upventure | 56495 | [56495-upventure.json](./56495-upventure.json) |
 | Upward | 234353 | [234353-upward.json](./234353-upward.json) |
