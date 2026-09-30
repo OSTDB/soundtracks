@@ -2835,6 +2835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayhem Triple | 34731 | [34731-mayhem-triple.json](./34731-mayhem-triple.json) |
 | Mayhem ZX | 74755 | [74755-mayhem-zx.json](./74755-mayhem-zx.json) |
 | MayhemCars | 125909 | [125909-mayhemcars.json](./125909-mayhemcars.json) |
+| Mayjasmine Episode 01: What is God? | 34059 | [34059-mayjasmine-episode-01-what-is-god.json](./34059-mayjasmine-episode-01-what-is-god.json) |
 | Mayo Mayo | 321605 | [321605-mayo-mayo.json](./321605-mayo-mayo.json) |
 | Mayohiga | 151530 | [151530-mayohiga.json](./151530-mayohiga.json) |
 | Mayoi Shopping Street | 365861 | [365861-mayoi-shopping-street.json](./365861-mayoi-shopping-street.json) |
@@ -2911,6 +2912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze: Interim Odyssey | 345677 | [345677-maze-interim-odyssey.json](./345677-maze-interim-odyssey.json) |
 | Maze: Path of Light | 322572 | [322572-maze-path-of-light.json](./322572-maze-path-of-light.json) |
 | Maze: Path of Light - Forest Edition | 362372 | [362372-maze-path-of-light-forest-edition.json](./362372-maze-path-of-light-forest-edition.json) |
+| Maze: Subject 360 - Collector's Edition | 32785 | [32785-maze-subject-360-collectors-edition.json](./32785-maze-subject-360-collectors-edition.json) |
 | Mazebert TD | 207848 | [207848-mazebert-td.json](./207848-mazebert-td.json) |
 | MazeBrew | 242771 | [242771-mazebrew.json](./242771-mazebrew.json) |
 | MazeFinger | 79863 | [79863-mazefinger.json](./79863-mazefinger.json) |
@@ -4986,6 +4988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MidKnight Story | 115444 | [115444-midknight-story.json](./115444-midknight-story.json) |
 | Midline '85 | 247738 | [247738-midline-85.json](./247738-midline-85.json) |
 | Midna's Mario World | 282730 | [282730-midnas-mario-world.json](./282730-midnas-mario-world.json) |
+| Midnight | 33802 | [33802-midnight.json](./33802-midnight.json) |
 | Midnight Arcade | 344364 | [344364-midnight-arcade.json](./344364-midnight-arcade.json) |
 | Midnight at Blackwood Manor | 370150 | [370150-midnight-at-blackwood-manor.json](./370150-midnight-at-blackwood-manor.json) |
 | Midnight Bike | 158146 | [158146-midnight-bike.json](./158146-midnight-bike.json) |
@@ -9714,6 +9717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery of the Missing Brigantine | 188519 | [188519-mystery-of-the-missing-brigantine.json](./188519-mystery-of-the-missing-brigantine.json) |
 | Mystery of the Opera | 94792 | [94792-mystery-of-the-opera.json](./94792-mystery-of-the-opera.json) |
 | Mystery of Time and Space | 78675 | [78675-mystery-of-time-and-space.json](./78675-mystery-of-time-and-space.json) |
+| Mystery of Unicorn Castle: The Beastmaster | 33876 | [33876-mystery-of-unicorn-castle-the-beastmaster.json](./33876-mystery-of-unicorn-castle-the-beastmaster.json) |
 | Mystery P.I. - Lost in Los Angeles | 14816 | [14816-mystery-p-i-lost-in-los-angeles.json](./14816-mystery-p-i-lost-in-los-angeles.json) |
 | Mystery P.I. - The New York Fortune | 14814 | [14814-mystery-p-i-the-new-york-fortune.json](./14814-mystery-p-i-the-new-york-fortune.json) |
 | Mystery P.I. Kieta Film | 65207 | [65207-mystery-p-i-kieta-film.json](./65207-mystery-p-i-kieta-film.json) |
