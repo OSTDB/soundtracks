@@ -2090,6 +2090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Other World Survivors | 235742 | [235742-other-world-survivors.json](./235742-other-world-survivors.json) |
 | Other: Her Loving Embrace | 123534 | [123534-other-her-loving-embrace.json](./123534-other-her-loving-embrace.json) |
 | Othercide | 107140 | [107140-othercide.json](./107140-othercide.json) |
+| Otherland | 23637 | [23637-otherland.json](./23637-otherland.json) |
 | Otherlights | 275113 | [275113-otherlights.json](./275113-otherlights.json) |
 | Others | 117662 | [117662-others.json](./117662-others.json) |
 | Others | 125933 | [125933-others.json](./125933-others.json) |
@@ -2398,6 +2399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outdo IO: Alphabet Letter | 237632 | [237632-outdo-io-alphabet-letter.json](./237632-outdo-io-alphabet-letter.json) |
 | Outdoor Life: Sportman's Challenge | 202697 | [202697-outdoor-life-sportmans-challenge.json](./202697-outdoor-life-sportmans-challenge.json) |
 | Outdoor Trivia Challenge | 70355 | [70355-outdoor-trivia-challenge.json](./70355-outdoor-trivia-challenge.json) |
+| Outdoors Unleashed: Africa 3D | 23671 | [23671-outdoors-unleashed-africa-3d.json](./23671-outdoors-unleashed-africa-3d.json) |
 | Outdoors Unlimited | 137088 | [137088-outdoors-unlimited.json](./137088-outdoors-unlimited.json) |
 | OutDrive | 18077 | [18077-outdrive.json](./18077-outdrive.json) |
 | Outer Empires | 67317 | [67317-outer-empires.json](./67317-outer-empires.json) |
