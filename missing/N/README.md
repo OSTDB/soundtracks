@@ -1049,6 +1049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nemesis | 197671 | [197671-nemesis.json](./197671-nemesis.json) |
 | Nemesis | 210282 | [210282-nemesis.json](./210282-nemesis.json) |
 | Nemesis | 262390 | [262390-nemesis.json](./262390-nemesis.json) |
+| Nemesis | 408226 | [408226-nemesis.json](./408226-nemesis.json) |
 | Nemesis - RPG | 143084 | [143084-nemesis-rpg.json](./143084-nemesis-rpg.json) |
 | Nemesis '90 Kai | 314677 | [314677-nemesis-90-kai.json](./314677-nemesis-90-kai.json) |
 | Nemesis 2 | 1480 | [1480-nemesis-2.json](./1480-nemesis-2.json) |
@@ -2051,6 +2052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Maniac: The Origin Of Steven | 416767 | [416767-night-maniac-the-origin-of-steven.json](./416767-night-maniac-the-origin-of-steven.json) |
 | Night Mission Pinball | 25138 | [25138-night-mission-pinball.json](./25138-night-mission-pinball.json) |
 | Night Monsters | 157554 | [157554-night-monsters.json](./157554-night-monsters.json) |
+| Night Noodles | 408229 | [408229-night-noodles.json](./408229-night-noodles.json) |
 | Night O'Clock | 364565 | [364565-night-oclock.json](./364565-night-oclock.json) |
 | Night of Full Moon: Apothecary's Blessing | 170462 | [170462-night-of-full-moon-apothecarys-blessing.json](./170462-night-of-full-moon-apothecarys-blessing.json) |
 | Night of Full Moon: Choice of Carpenter | 170463 | [170463-night-of-full-moon-choice-of-carpenter.json](./170463-night-of-full-moon-choice-of-carpenter.json) |
@@ -3304,6 +3306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not My Hand | 391744 | [391744-not-my-hand.json](./391744-not-my-hand.json) |
 | Not My President: Level 1 | 174096 | [174096-not-my-president-level-1.json](./174096-not-my-president-level-1.json) |
 | Not My Son | 405693 | [405693-not-my-son.json](./405693-not-my-son.json) |
+| Not My Tempo | 408128 | [408128-not-my-tempo.json](./408128-not-my-tempo.json) |
 | Not My War | 377669 | [377669-not-my-war.json](./377669-not-my-war.json) |
 | Not Not: Zunou Taikyuu Game | 222266 | [222266-not-not-zunou-taikyuu-game.json](./222266-not-not-zunou-taikyuu-game.json) |
 | Not Only Nine | 243672 | [243672-not-only-nine.json](./243672-not-only-nine.json) |
