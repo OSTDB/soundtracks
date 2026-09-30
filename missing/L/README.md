@@ -540,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Breath | 413756 | [413756-last-breath.json](./413756-last-breath.json) |
 | Last Bullet | 405595 | [405595-last-bullet.json](./405595-last-bullet.json) |
 | Last Bus Home | 208617 | [208617-last-bus-home.json](./208617-last-bus-home.json) |
+| Last Buzz | 417440 | [417440-last-buzz.json](./417440-last-buzz.json) |
 | Last Call | 175890 | [175890-last-call.json](./175890-last-call.json) |
 | Last Call BBS | 205064 | [205064-last-call-bbs.json](./205064-last-call-bbs.json) |
 | Last Call! | 71565 | [71565-last-call.json](./71565-last-call.json) |
@@ -1865,6 +1866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LetterBound | 151185 | [151185-letterbound.json](./151185-letterbound.json) |
 | Letterbox by Powgi | 219522 | [219522-letterbox-by-powgi.json](./219522-letterbox-by-powgi.json) |
 | Lettergreep | 45918 | [45918-lettergreep.json](./45918-lettergreep.json) |
+| LetterGrid | 417516 | [417516-lettergrid.json](./417516-lettergrid.json) |
 | LetterMeister | 173802 | [173802-lettermeister.json](./173802-lettermeister.json) |
 | Letterorites | 58460 | [58460-letterorites.json](./58460-letterorites.json) |
 | Letterpad | 60076 | [60076-letterpad.json](./60076-letterpad.json) |
