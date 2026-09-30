@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Get This Call Every Day | 36358 | [36358-i-get-this-call-every-day.json](./36358-i-get-this-call-every-day.json) |
 | I got a cat maid | 128013 | [128013-i-got-a-cat-maid.json](./128013-i-got-a-cat-maid.json) |
 | I Got a Millenary Cat | 197401 | [197401-i-got-a-millenary-cat.json](./197401-i-got-a-millenary-cat.json) |
+| I Got Turned Into a Girl and This Yuri Death Angel Will Only Turn Me Back if I Can Find All the Hidden Props | 395106 | [395106-i-got-turned-into-a-girl-and-this-yuri-death-angel-will-only-turn-me-back-if-i-can-find-all-the-hidden-props.json](./395106-i-got-turned-into-a-girl-and-this-yuri-death-angel-will-only-turn-me-back-if-i-can-find-all-the-hidden-props.json) |
 | I H8 Ur Face | 197910 | [197910-i-h8-ur-face.json](./197910-i-h8-ur-face.json) |
 | I Had Another Dream About You Last Night | 142403 | [142403-i-had-another-dream-about-you-last-night.json](./142403-i-had-another-dream-about-you-last-night.json) |
 | I Had the Strangest Dream, Ivan | 201327 | [201327-i-had-the-strangest-dream-ivan.json](./201327-i-had-the-strangest-dream-ivan.json) |
@@ -639,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Campaign | 210851 | [210851-idle-campaign.json](./210851-idle-campaign.json) |
 | Idle Cat Village | 205585 | [205585-idle-cat-village.json](./205585-idle-cat-village.json) |
 | Idle Catfarmia | 247996 | [247996-idle-catfarmia.json](./247996-idle-catfarmia.json) |
+| Idle Cats Dungeon | 395155 | [395155-idle-cats-dungeon.json](./395155-idle-cats-dungeon.json) |
 | Idle Cave Miner | 227273 | [227273-idle-cave-miner.json](./227273-idle-cave-miner.json) |
 | Idle Champions of the Forgotten Realms | 43178 | [43178-idle-champions-of-the-forgotten-realms.json](./43178-idle-champions-of-the-forgotten-realms.json) |
 | Idle Champions: Aasimar Glitch Donaar Skin & Feat Pack | 289847 | [289847-idle-champions-aasimar-glitch-donaar-skin-and-feat-pack.json](./289847-idle-champions-aasimar-glitch-donaar-skin-and-feat-pack.json) |
