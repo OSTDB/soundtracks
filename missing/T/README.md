@@ -830,6 +830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamas: Shadowveil | 410963 | [410963-tamas-shadowveil.json](./410963-tamas-shadowveil.json) |
 | Tamashi Party | 196673 | [196673-tamashi-party.json](./196673-tamashi-party.json) |
 | Tamashi: Rise of Yokai | 196586 | [196586-tamashi-rise-of-yokai.json](./196586-tamashi-rise-of-yokai.json) |
+| Tamashii | 115152 | [115152-tamashii.json](./115152-tamashii.json) |
 | Tamashika | 329975 | [329975-tamashika.json](./329975-tamashika.json) |
 | TamaTown Tama-Go | 229958 | [229958-tamatown-tama-go.json](./229958-tamatown-tama-go.json) |
 | Tamaweb | 383530 | [383530-tamaweb.json](./383530-tamaweb.json) |
@@ -2185,6 +2186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terror Signal | 299434 | [299434-terror-signal.json](./299434-terror-signal.json) |
 | Terror Spikys | 268227 | [268227-terror-spikys.json](./268227-terror-spikys.json) |
 | Terror Squid | 122182 | [122182-terror-squid.json](./122182-terror-squid.json) |
+| Terrorarium | 115014 | [115014-terrorarium.json](./115014-terrorarium.json) |
 | Terrorfest | 313882 | [313882-terrorfest.json](./313882-terrorfest.json) |
 | Terrorhedron | 17378 | [17378-terrorhedron.json](./17378-terrorhedron.json) |
 | Terrorist Apartment | 107844 | [107844-terrorist-apartment.json](./107844-terrorist-apartment.json) |
@@ -7416,6 +7418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Serpent | 234184 | [234184-the-serpent.json](./234184-the-serpent.json) |
 | The Serpent of Isis | 206657 | [206657-the-serpent-of-isis.json](./206657-the-serpent-of-isis.json) |
 | The Server | 405527 | [405527-the-server.json](./405527-the-server.json) |
+| The Settlers 7: History Edition | 114447 | [114447-the-settlers-7-history-edition.json](./114447-the-settlers-7-history-edition.json) |
 | The Settlers 7: Paths to a Kingdom | 3695 | [3695-the-settlers-7-paths-to-a-kingdom.json](./3695-the-settlers-7-paths-to-a-kingdom.json) |
 | The Settlers 7: Paths to a Kingdom - Conquest: The Empire Expansion | 225912 | [225912-the-settlers-7-paths-to-a-kingdom-conquest-the-empire-expansion.json](./225912-the-settlers-7-paths-to-a-kingdom-conquest-the-empire-expansion.json) |
 | The Settlers 7: Paths to a Kingdom - Gold Edition | 27863 | [27863-the-settlers-7-paths-to-a-kingdom-gold-edition.json](./27863-the-settlers-7-paths-to-a-kingdom-gold-edition.json) |
@@ -9172,6 +9175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thief Puzzle: Tricks | 313514 | [313514-thief-puzzle-tricks.json](./313514-thief-puzzle-tricks.json) |
 | Thief Shop | 163202 | [163202-thief-shop.json](./163202-thief-shop.json) |
 | Thief Simulator | 61616 | [61616-thief-simulator.json](./61616-thief-simulator.json) |
+| Thief Simulator VR | 114932 | [114932-thief-simulator-vr.json](./114932-thief-simulator-vr.json) |
 | Thief Simulator: Luxury Houses | 193192 | [193192-thief-simulator-luxury-houses.json](./193192-thief-simulator-luxury-houses.json) |
 | Thief Simulator: Mastermind Edition | 362344 | [362344-thief-simulator-mastermind-edition.json](./362344-thief-simulator-mastermind-edition.json) |
 | Thief VR: Legacy of Shadow | 347124 | [347124-thief-vr-legacy-of-shadow.json](./347124-thief-vr-legacy-of-shadow.json) |
@@ -10807,6 +10811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tin Star | 104677 | [104677-tin-star.json](./104677-tin-star.json) |
 | Tin Tandem | 152396 | [152396-tin-tandem.json](./152396-tin-tandem.json) |
 | Tin-Heart: The Game | 104243 | [104243-tin-heart-the-game.json](./104243-tin-heart-the-game.json) |
+| Tina: Swordswoman of the Scarlet Prison | 115490 | [115490-tina-swordswoman-of-the-scarlet-prison.json](./115490-tina-swordswoman-of-the-scarlet-prison.json) |
 | Tina's Toy Factory | 59900 | [59900-tinas-toy-factory.json](./59900-tinas-toy-factory.json) |
 | Tinboy | 34507 | [34507-tinboy.json](./34507-tinboy.json) |
 | Tincan | 333076 | [333076-tincan.json](./333076-tincan.json) |
@@ -11256,6 +11261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toast! | 23987 | [23987-toast.json](./23987-toast.json) |
 | Toasted! | 188101 | [188101-toasted.json](./188101-toasted.json) |
 | Toaster Defense | 157144 | [157144-toaster-defense.json](./157144-toaster-defense.json) |
+| Toasterball | 111301 | [111301-toasterball.json](./111301-toasterball.json) |
 | Toastling | 192321 | [192321-toastling.json](./192321-toastling.json) |
 | Toasty: Ashes of Dusk | 144275 | [144275-toasty-ashes-of-dusk.json](./144275-toasty-ashes-of-dusk.json) |
 | Toazzle | 90856 | [90856-toazzle.json](./90856-toazzle.json) |
@@ -12385,6 +12391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Mutsuigeki: Concealed the Conclusion | 51266 | [51266-touhou-mutsuigeki-concealed-the-conclusion.json](./51266-touhou-mutsuigeki-concealed-the-conclusion.json) |
 | Touhou Mystery Reel | 192886 | [192886-touhou-mystery-reel.json](./192886-touhou-mystery-reel.json) |
 | TouHou Nil Soul | 114801 | [114801-touhou-nil-soul.json](./114801-touhou-nil-soul.json) |
+| Touhou Pants Contest | 111365 | [111365-touhou-pants-contest.json](./111365-touhou-pants-contest.json) |
 | Touhou Perfect Sakura Fantastica | 212732 | [212732-touhou-perfect-sakura-fantastica.json](./212732-touhou-perfect-sakura-fantastica.json) |
 | Touhou Picross: Nazrin's Puzzles | 312688 | [312688-touhou-picross-nazrins-puzzles.json](./312688-touhou-picross-nazrins-puzzles.json) |
 | Touhou Pocket Wars | 128382 | [128382-touhou-pocket-wars.json](./128382-touhou-pocket-wars.json) |
@@ -13757,6 +13764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trap of Musk: Asia Night | 235481 | [235481-trap-of-musk-asia-night.json](./235481-trap-of-musk-asia-night.json) |
 | Trap of Musk: Europe Night | 237046 | [237046-trap-of-musk-europe-night.json](./237046-trap-of-musk-europe-night.json) |
 | Trap Shooting | 245299 | [245299-trap-shooting.json](./245299-trap-shooting.json) |
+| Trap Shrine | 115520 | [115520-trap-shrine.json](./115520-trap-shrine.json) |
 | Trap Them: Sniper Edition | 34336 | [34336-trap-them-sniper-edition.json](./34336-trap-them-sniper-edition.json) |
 | Trap Tower Trials | 298137 | [298137-trap-tower-trials.json](./298137-trap-tower-trials.json) |
 | Trap Trek: Ultimate Other Me | 293619 | [293619-trap-trek-ultimate-other-me.json](./293619-trap-trek-ultimate-other-me.json) |
