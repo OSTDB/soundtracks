@@ -989,6 +989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Light: Dark Omens - Collector's Edition | 31065 | [31065-league-of-light-dark-omens-collectors-edition.json](./31065-league-of-light-dark-omens-collectors-edition.json) |
 | League of Light: Dark Omens & League of Light: Wicked Harvest | 201815 | [201815-league-of-light-dark-omens-and-league-of-light-wicked-harvest.json](./201815-league-of-light-dark-omens-and-league-of-light-wicked-harvest.json) |
 | League of Light: Edge of Justice | 108245 | [108245-league-of-light-edge-of-justice.json](./108245-league-of-light-edge-of-justice.json) |
+| League of Mermaids | 34920 | [34920-league-of-mermaids.json](./34920-league-of-mermaids.json) |
 | League of Piss | 383041 | [383041-league-of-piss.json](./383041-league-of-piss.json) |
 | League of Stickman 2 | 174638 | [174638-league-of-stickman-2.json](./174638-league-of-stickman-2.json) |
 | League of Stickman: (Dreamsky)Warriors | 105871 | [105871-league-of-stickman-dreamsky-warriors.json](./105871-league-of-stickman-dreamsky-warriors.json) |
@@ -2279,6 +2280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LightQuest | 180123 | [180123-lightquest.json](./180123-lightquest.json) |
 | Lightracer: For Judge | 309845 | [309845-lightracer-for-judge.json](./309845-lightracer-for-judge.json) |
 | LightRay | 349403 | [349403-lightray.json](./349403-lightray.json) |
+| Lightrise | 34937 | [34937-lightrise.json](./34937-lightrise.json) |
 | Lightrix | 372989 | [372989-lightrix.json](./372989-lightrix.json) |
 | Lightrock | 205065 | [205065-lightrock.json](./205065-lightrock.json) |
 | Lights and Shadow | 339287 | [339287-lights-and-shadow.json](./339287-lights-and-shadow.json) |
@@ -2363,6 +2365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilith's Syndrome | 297037 | [297037-liliths-syndrome.json](./297037-liliths-syndrome.json) |
 | Lilium | 128653 | [128653-lilium.json](./128653-lilium.json) |
 | Lillie is the Keeper | 232396 | [232396-lillie-is-the-keeper.json](./232396-lillie-is-the-keeper.json) |
+| Lilly and Sasha: Guardian Angels | 34954 | [34954-lilly-and-sasha-guardian-angels.json](./34954-lilly-and-sasha-guardian-angels.json) |
 | Lilly And The Murder In A Dream | 303631 | [303631-lilly-and-the-murder-in-a-dream.json](./303631-lilly-and-the-murder-in-a-dream.json) |
 | Lilly Knight and the Three Cities of Lust | 127999 | [127999-lilly-knight-and-the-three-cities-of-lust.json](./127999-lilly-knight-and-the-three-cities-of-lust.json) |
 | Lilly Monster | 195690 | [195690-lilly-monster.json](./195690-lilly-monster.json) |
