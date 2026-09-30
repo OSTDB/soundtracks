@@ -3124,6 +3124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Between | 398980 | [398980-between.json](./398980-between.json) |
 | Between | 95369 | [95369-between.json](./95369-between.json) |
 | Between Adventures Idle | 365079 | [365079-between-adventures-idle.json](./365079-between-adventures-idle.json) |
+| Between Gods | 414464 | [414464-between-gods.json](./414464-between-gods.json) |
 | Between Heaven and Hell | 72033 | [72033-between-heaven-and-hell.json](./72033-between-heaven-and-hell.json) |
 | Between Me and the Night | 16985 | [16985-between-me-and-the-night.json](./16985-between-me-and-the-night.json) |
 | Between Planets | 121005 | [121005-between-planets.json](./121005-between-planets.json) |
@@ -4334,6 +4335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Exload | 231872 | [231872-blade-exload.json](./231872-blade-exload.json) |
 | Blade Kitten | 14847 | [14847-blade-kitten.json](./14847-blade-kitten.json) |
 | Blade Master | 10458 | [10458-blade-master.json](./10458-blade-master.json) |
+| Blade Master | 414470 | [414470-blade-master.json](./414470-blade-master.json) |
 | Blade Mistress | 57888 | [57888-blade-mistress.json](./57888-blade-mistress.json) |
 | Blade of Chaos: Immortal Titan | 224093 | [224093-blade-of-chaos-immortal-titan.json](./224093-blade-of-chaos-immortal-titan.json) |
 | Blade of Dawn | 322361 | [322361-blade-of-dawn.json](./322361-blade-of-dawn.json) |
@@ -5600,6 +5602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bohemian Yard | 217866 | [217866-bohemian-yard.json](./217866-bohemian-yard.json) |
 | Bohrdom | 112947 | [112947-bohrdom.json](./112947-bohrdom.json) |
 | Boid | 17646 | [17646-boid.json](./17646-boid.json) |
+| Boil Cabbage Make Soup | 414516 | [414516-boil-cabbage-make-soup.json](./414516-boil-cabbage-make-soup.json) |
 | Boil Noodles at Night | 270733 | [270733-boil-noodles-at-night.json](./270733-boil-noodles-at-night.json) |
 | Boing | 13886 | [13886-boing.json](./13886-boing.json) |
 | Boing Boing Bros | 404976 | [404976-boing-boing-bros.json](./404976-boing-boing-bros.json) |
