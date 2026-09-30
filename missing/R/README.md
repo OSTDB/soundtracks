@@ -6025,6 +6025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runny Bunny | 317999 | [317999-runny-bunny.json](./317999-runny-bunny.json) |
 | Runombie | 292287 | [292287-runombie.json](./292287-runombie.json) |
 | Runout | 173182 | [173182-runout.json](./173182-runout.json) |
+| Runren Simulator | 390721 | [390721-runren-simulator.json](./390721-runren-simulator.json) |
 | Runway | 174345 | [174345-runway.json](./174345-runway.json) |
 | Runway 66 | 348768 | [348768-runway-66.json](./348768-runway-66.json) |
 | RunZ | 55296 | [55296-runz.json](./55296-runz.json) |
