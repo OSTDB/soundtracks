@@ -209,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyria Chronicles 2 | 14674 | [14674-valkyria-chronicles-2.json](./14674-valkyria-chronicles-2.json) |
 | Valkyria Chronicles 2: DLC Pack 2 | 138838 | [138838-valkyria-chronicles-2-dlc-pack-2.json](./138838-valkyria-chronicles-2-dlc-pack-2.json) |
 | Valkyria Chronicles 3: Extra Edition | 38466 | [38466-valkyria-chronicles-3-extra-edition.json](./38466-valkyria-chronicles-3-extra-edition.json) |
+| Valkyria Chronicles 3: Unrecorded Chronicles | 14675 | [14675-valkyria-chronicles-3-unrecorded-chronicles.json](./14675-valkyria-chronicles-3-unrecorded-chronicles.json) |
 | Valkyria Chronicles 4 | 75848 | [75848-valkyria-chronicles-4.json](./75848-valkyria-chronicles-4.json) |
 | Valkyria Chronicles 4: A Captainless Squad | 238635 | [238635-valkyria-chronicles-4-a-captainless-squad.json](./238635-valkyria-chronicles-4-a-captainless-squad.json) |
 | Valkyria Chronicles 4: Advance Ops | 304734 | [304734-valkyria-chronicles-4-advance-ops.json](./304734-valkyria-chronicles-4-advance-ops.json) |
@@ -1262,6 +1263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Ties Isekaijoucho Träumerei | 376085 | [376085-virtual-ties-isekaijoucho-traumerei.json](./376085-virtual-ties-isekaijoucho-traumerei.json) |
 | Virtual Towers Online | 112273 | [112273-virtual-towers-online.json](./112273-virtual-towers-online.json) |
 | Virtual Viking | 133216 | [133216-virtual-viking.json](./133216-virtual-viking.json) |
+| Virtual Villagers 2: The Lost Children | 14975 | [14975-virtual-villagers-2-the-lost-children.json](./14975-virtual-villagers-2-the-lost-children.json) |
 | Virtual Villagers 2: The Lost Children for iPad | 108474 | [108474-virtual-villagers-2-the-lost-children-for-ipad.json](./108474-virtual-villagers-2-the-lost-children-for-ipad.json) |
 | Virtual Villagers Origins 2 | 110988 | [110988-virtual-villagers-origins-2.json](./110988-virtual-villagers-origins-2.json) |
 | Virtual Walk English 1: Travel-hen | 230507 | [230507-virtual-walk-english-1-travel-hen.json](./230507-virtual-walk-english-1-travel-hen.json) |
