@@ -389,6 +389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off and Pacing | 112147 | [112147-off-and-pacing.json](./112147-off-and-pacing.json) |
 | Off Base | 271461 | [271461-off-base.json](./271461-off-base.json) |
 | Off Day | 178501 | [178501-off-day.json](./178501-off-day.json) |
+| Off Grid | 392388 | [392388-off-grid.json](./392388-off-grid.json) |
 | Off Grid | 96266 | [96266-off-grid.json](./96266-off-grid.json) |
 | Off Grids | 272255 | [272255-off-grids.json](./272255-off-grids.json) |
 | Off Road | 327579 | [327579-off-road.json](./327579-off-road.json) |
@@ -2796,6 +2797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Owyn's Adventure | 116482 | [116482-owyns-adventure.json](./116482-owyns-adventure.json) |
 | Owys | 34642 | [34642-owys.json](./34642-owys.json) |
 | Oxenfree: Collector's Edition | 51536 | [51536-oxenfree-collectors-edition.json](./51536-oxenfree-collectors-edition.json) |
+| Oxide Room 208: File Josh | 392344 | [392344-oxide-room-208-file-josh.json](./392344-oxide-room-208-file-josh.json) |
 | Oxidus Tales | 350602 | [350602-oxidus-tales.json](./350602-oxidus-tales.json) |
 | Oxxo | 119208 | [119208-oxxo.json](./119208-oxxo.json) |
 | Oxxonian | 74424 | [74424-oxxonian.json](./74424-oxxonian.json) |
