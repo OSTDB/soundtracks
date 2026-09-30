@@ -2825,6 +2825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ethernal War | 152855 | [152855-ethernal-war.json](./152855-ethernal-war.json) |
 | Ethernalis | 26830 | [26830-ethernalis.json](./26830-ethernalis.json) |
 | Ethernia | 371979 | [371979-ethernia.json](./371979-ethernia.json) |
+| Etherwind | 392387 | [392387-etherwind.json](./392387-etherwind.json) |
 | EthnoGuessr | 340230 | [340230-ethnoguessr.json](./340230-ethnoguessr.json) |
 | Ethos: Divinity's Curse | 201706 | [201706-ethos-divinitys-curse.json](./201706-ethos-divinitys-curse.json) |
 | Eti Yami: Mekanik Istila | 92630 | [92630-eti-yami-mekanik-istila.json](./92630-eti-yami-mekanik-istila.json) |
