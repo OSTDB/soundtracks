@@ -798,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Hookfoot | 176456 | [176456-captain-hookfoot.json](./176456-captain-hookfoot.json) |
 | Captain Jackson | 190231 | [190231-captain-jackson.json](./190231-captain-jackson.json) |
 | Captain Kalani: Definitive Edition | 264113 | [264113-captain-kalani-definitive-edition.json](./264113-captain-kalani-definitive-edition.json) |
+| Captain Kaon | 27566 | [27566-captain-kaon.json](./27566-captain-kaon.json) |
 | Captain Knick Knack | 210641 | [210641-captain-knick-knack.json](./210641-captain-knick-knack.json) |
 | Captain MaCaw | 110165 | [110165-captain-macaw.json](./110165-captain-macaw.json) |
 | Captain MaCaw 2 | 238594 | [238594-captain-macaw-2.json](./238594-captain-macaw-2.json) |
@@ -3249,6 +3250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Children of Silentown | 121016 | [121016-children-of-silentown.json](./121016-children-of-silentown.json) |
 | Children of the Galaxy | 30304 | [30304-children-of-the-galaxy.json](./30304-children-of-the-galaxy.json) |
 | Children of the Gate | 57902 | [57902-children-of-the-gate.json](./57902-children-of-the-gate.json) |
+| Children of the Nile: Enhanced Edition | 27834 | [27834-children-of-the-nile-enhanced-edition.json](./27834-children-of-the-nile-enhanced-edition.json) |
 | Children of the Sun | 284925 | [284925-children-of-the-sun.json](./284925-children-of-the-sun.json) |
 | Children of the World | 256901 | [256901-children-of-the-world.json](./256901-children-of-the-world.json) |
 | Children's Garden | 323505 | [323505-childrens-garden.json](./323505-childrens-garden.json) |
@@ -4628,6 +4630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climbing The Eidolon | 383513 | [383513-climbing-the-eidolon.json](./383513-climbing-the-eidolon.json) |
 | Climbtime | 31171 | [31171-climbtime.json](./31171-climbtime.json) |
 | Clinch Legends | 369101 | [369101-clinch-legends.json](./369101-clinch-legends.json) |
+| Cling! | 21730 | [21730-cling.json](./21730-cling.json) |
 | Clinical Marshmallows | 374285 | [374285-clinical-marshmallows.json](./374285-clinical-marshmallows.json) |
 | Clinical Trial | 326760 | [326760-clinical-trial.json](./326760-clinical-trial.json) |
 | CLINK | 345549 | [345549-clink.json](./345549-clink.json) |
@@ -6625,6 +6628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corridor Sigma | 199382 | [199382-corridor-sigma.json](./199382-corridor-sigma.json) |
 | Corridor Z | 60298 | [60298-corridor-z.json](./60298-corridor-z.json) |
 | Corridors of Their Memories | 149093 | [149093-corridors-of-their-memories.json](./149093-corridors-of-their-memories.json) |
+| Corroded | 28060 | [28060-corroded.json](./28060-corroded.json) |
 | Corrosion Protocol | 377073 | [377073-corrosion-protocol.json](./377073-corrosion-protocol.json) |
 | Corrosion: Cold Winter Waiting | 126027 | [126027-corrosion-cold-winter-waiting.json](./126027-corrosion-cold-winter-waiting.json) |
 | Corru.Observer | 241239 | [241239-corru-observer.json](./241239-corru-observer.json) |
@@ -7757,6 +7761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Opera Collection | 332503 | [332503-crime-opera-collection.json](./332503-crime-opera-collection.json) |
 | Crime Passional | 236286 | [236286-crime-passional.json](./236286-crime-passional.json) |
 | Crime Pays | 258530 | [258530-crime-pays.json](./258530-crime-pays.json) |
+| Crime Scene | 21653 | [21653-crime-scene.json](./21653-crime-scene.json) |
 | Crime Scene | 232948 | [232948-crime-scene.json](./232948-crime-scene.json) |
 | Crime Scene Cleaner | 115830 | [115830-crime-scene-cleaner.json](./115830-crime-scene-cleaner.json) |
 | Crime Secrets: Crimson Lily | 32930 | [32930-crime-secrets-crimson-lily.json](./32930-crime-secrets-crimson-lily.json) |
