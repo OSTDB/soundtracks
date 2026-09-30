@@ -3794,6 +3794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flora and Sauna | 201035 | [201035-flora-and-sauna.json](./201035-flora-and-sauna.json) |
 | Flora and the Darkness | 175906 | [175906-flora-and-the-darkness.json](./175906-flora-and-the-darkness.json) |
 | Flora Learns to Sing! | 321332 | [321332-flora-learns-to-sing.json](./321332-flora-learns-to-sing.json) |
+| Flora Parasocial | 406765 | [406765-flora-parasocial.json](./406765-flora-parasocial.json) |
 | Floracide | 386977 | [386977-floracide.json](./386977-floracide.json) |
 | Floraison | 415869 | [415869-floraison.json](./415869-floraison.json) |
 | Floral Flowlove: Limited Edition | 212319 | [212319-floral-flowlove-limited-edition.json](./212319-floral-flowlove-limited-edition.json) |
@@ -4746,6 +4747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fort Solis: Limited Edition | 261540 | [261540-fort-solis-limited-edition.json](./261540-fort-solis-limited-edition.json) |
 | Fort Valen | 238501 | [238501-fort-valen.json](./238501-fort-valen.json) |
 | Forte Craft Explore Island | 101383 | [101383-forte-craft-explore-island.json](./101383-forte-craft-explore-island.json) |
+| Fortifend | 406873 | [406873-fortifend.json](./406873-fortifend.json) |
 | Fortification: tower defence | 141675 | [141675-fortification-tower-defence.json](./141675-fortification-tower-defence.json) |
 | Fortify: Special Edition | 25055 | [25055-fortify-special-edition.json](./25055-fortify-special-edition.json) |
 | Fortissimo FA//Akkord:Nachsten Phase | 101597 | [101597-fortissimo-fa-akkord-nachsten-phase.json](./101597-fortissimo-fa-akkord-nachsten-phase.json) |
