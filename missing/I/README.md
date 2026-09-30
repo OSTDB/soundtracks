@@ -3067,6 +3067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It'sRoachTime! | 192873 | [192873-itsroachtime.json](./192873-itsroachtime.json) |
 | Itacante: La Cité des robots | 327995 | [327995-itacante-la-cite-des-robots.json](./327995-itacante-la-cite-des-robots.json) |
 | Itachi: Haunted Abodes - Wandering Through 2000s Tokyo Culture | 369761 | [369761-itachi-haunted-abodes-wandering-through-2000s-tokyo-culture.json](./369761-itachi-haunted-abodes-wandering-through-2000s-tokyo-culture.json) |
+| Itadaki Smash | 148312 | [148312-itadaki-smash.json](./148312-itadaki-smash.json) |
 | Itadaki Street 2: Neon Sign ha Bara Iro ni | 38345 | [38345-itadaki-street-2-neon-sign-ha-bara-iro-ni.json](./38345-itadaki-street-2-neon-sign-ha-bara-iro-ni.json) |
 | Itadaki Street DS | 71885 | [71885-itadaki-street-ds.json](./71885-itadaki-street-ds.json) |
 | Itadaki Street Special | 72987 | [72987-itadaki-street-special.json](./72987-itadaki-street-special.json) |
