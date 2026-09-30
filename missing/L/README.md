@@ -627,6 +627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Inua | 10494 | [10494-last-inua.json](./10494-last-inua.json) |
 | Last Island | 134628 | [134628-last-island.json](./134628-last-island.json) |
 | Last Joy | 126591 | [126591-last-joy.json](./126591-last-joy.json) |
+| Last Kid on the Bus | 409712 | [409712-last-kid-on-the-bus.json](./409712-last-kid-on-the-bus.json) |
 | Last Kingdom | 361305 | [361305-last-kingdom.json](./361305-last-kingdom.json) |
 | Last Knight | 177847 | [177847-last-knight.json](./177847-last-knight.json) |
 | Last Knight | 53266 | [53266-last-knight.json](./53266-last-knight.json) |
@@ -3821,6 +3822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost In Time | 171602 | [171602-lost-in-time.json](./171602-lost-in-time.json) |
 | Lost in Time: Parts 1 & 2 | 80536 | [80536-lost-in-time-parts-1-and-2.json](./80536-lost-in-time-parts-1-and-2.json) |
 | Lost in Time: The Clockwork Tower | 65186 | [65186-lost-in-time-the-clockwork-tower.json](./65186-lost-in-time-the-clockwork-tower.json) |
+| Lost in Transit | 409724 | [409724-lost-in-transit.json](./409724-lost-in-transit.json) |
 | Lost In Transit | 375867 | [375867-lost-in-transit.json](./375867-lost-in-transit.json) |
 | Lost In Winter | 258172 | [258172-lost-in-winter.json](./258172-lost-in-winter.json) |
 | Lost in Yomori | 382283 | [382283-lost-in-yomori.json](./382283-lost-in-yomori.json) |
@@ -4602,6 +4604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunch with Ronan | 292023 | [292023-lunch-with-ronan.json](./292023-lunch-with-ronan.json) |
 | Lunchy | 320401 | [320401-lunchy.json](./320401-lunchy.json) |
 | Lunebug | 361916 | [361916-lunebug.json](./361916-lunebug.json) |
+| Luneia the Soothsayer | 409731 | [409731-luneia-the-soothsayer.json](./409731-luneia-the-soothsayer.json) |
 | Lunera | 356673 | [356673-lunera.json](./356673-lunera.json) |
 | Lunhowl: Co-op Horror | 348762 | [348762-lunhowl-co-op-horror.json](./348762-lunhowl-co-op-horror.json) |
 | Lúnhuí Xiūxiān Jué | 157565 | [157565-lunhui-xiuxian-jue.json](./157565-lunhui-xiuxian-jue.json) |
