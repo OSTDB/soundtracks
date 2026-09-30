@@ -212,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jake Hunter: Detective Chronicles | 21049 | [21049-jake-hunter-detective-chronicles.json](./21049-jake-hunter-detective-chronicles.json) |
 | Jake's Apple Harvest | 258548 | [258548-jakes-apple-harvest.json](./258548-jakes-apple-harvest.json) |
 | Jake's Halloween Night | 216770 | [216770-jakes-halloween-night.json](./216770-jakes-halloween-night.json) |
+| Jake's Love Story | 68331 | [68331-jakes-love-story.json](./68331-jakes-love-story.json) |
 | Jakers: The Adventures of Piggley Winks | 19653 | [19653-jakers-the-adventures-of-piggley-winks.json](./19653-jakers-the-adventures-of-piggley-winks.json) |
 | Jaki Crush | 38361 | [38361-jaki-crush.json](./38361-jaki-crush.json) |
 | Jakou no Lyla: Trap of Musk | 116381 | [116381-jakou-no-lyla-trap-of-musk.json](./116381-jakou-no-lyla-trap-of-musk.json) |
@@ -594,6 +595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jetlad | 117786 | [117786-jetlad.json](./117786-jetlad.json) |
 | Jetman | 92852 | [92852-jetman.json](./92852-jetman.json) |
 | Jetman Hero: Jetpack Shooter | 223553 | [223553-jetman-hero-jetpack-shooter.json](./223553-jetman-hero-jetpack-shooter.json) |
+| JetmanGo | 68467 | [68467-jetmango.json](./68467-jetmango.json) |
 | Jetpac Refuelled | 7854 | [7854-jetpac-refuelled.json](./7854-jetpac-refuelled.json) |
 | Jetpac Too | 239653 | [239653-jetpac-too.json](./239653-jetpac-too.json) |
 | Jetpack Astronaut | 171564 | [171564-jetpack-astronaut.json](./171564-jetpack-astronaut.json) |
@@ -1331,6 +1333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jrago III Requiem of the Night | 390531 | [390531-jrago-iii-requiem-of-the-night.json](./390531-jrago-iii-requiem-of-the-night.json) |
 | Jrago The Demon Hunter | 262914 | [262914-jrago-the-demon-hunter.json](./262914-jrago-the-demon-hunter.json) |
 | JRoguePG | 346657 | [346657-jroguepg.json](./346657-jroguepg.json) |
+| Ju | 74382 | [74382-ju.json](./74382-ju.json) |
 | Ju Ju Densetsu | 40202 | [40202-ju-ju-densetsu.json](./40202-ju-ju-densetsu.json) |
 | Ju-on: The Grudge | 4945 | [4945-ju-on-the-grudge.json](./4945-ju-on-the-grudge.json) |
 | Juanito Arcade Mayhem | 36629 | [36629-juanito-arcade-mayhem.json](./36629-juanito-arcade-mayhem.json) |
