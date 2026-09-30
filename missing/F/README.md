@@ -1695,6 +1695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feelin | 102931 | [102931-feelin.json](./102931-feelin.json) |
 | Feeling Arrow | 208975 | [208975-feeling-arrow.json](./208975-feeling-arrow.json) |
 | Feeling Death | 287723 | [287723-feeling-death.json](./287723-feeling-death.json) |
+| Feelings Adrift | 33959 | [33959-feelings-adrift.json](./33959-feelings-adrift.json) |
 | FeeSoeeD | 51556 | [51556-feesoeed.json](./51556-feesoeed.json) |
 | Feet Paradise | 301885 | [301885-feet-paradise.json](./301885-feet-paradise.json) |
 | Feet Sweeper | 244495 | [244495-feet-sweeper.json](./244495-feet-sweeper.json) |
@@ -4333,6 +4334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forbidden Love | 322115 | [322115-forbidden-love.json](./322115-forbidden-love.json) |
 | Forbidden Magic | 253947 | [253947-forbidden-magic.json](./253947-forbidden-magic.json) |
 | Forbidden place | 173180 | [173180-forbidden-place.json](./173180-forbidden-place.json) |
+| Forbidden planet | 33722 | [33722-forbidden-planet.json](./33722-forbidden-planet.json) |
 | Forbidden Planet | 81414 | [81414-forbidden-planet.json](./81414-forbidden-planet.json) |
 | Forbidden Proton | 174289 | [174289-forbidden-proton.json](./174289-forbidden-proton.json) |
 | Forbidden Punch | 121542 | [121542-forbidden-punch.json](./121542-forbidden-punch.json) |
