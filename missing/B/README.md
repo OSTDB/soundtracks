@@ -951,6 +951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bangy: Adventures in Egypt | 179135 | [179135-bangy-adventures-in-egypt.json](./179135-bangy-adventures-in-egypt.json) |
 | BanHammer | 286506 | [286506-banhammer.json](./286506-banhammer.json) |
 | Banish | 191184 | [191184-banish.json](./191184-banish.json) |
+| Banished Knight | 387621 | [387621-banished-knight.json](./387621-banished-knight.json) |
 | Banished Monsters | 248676 | [248676-banished-monsters.json](./248676-banished-monsters.json) |
 | Banished Sir | 369632 | [369632-banished-sir.json](./369632-banished-sir.json) |
 | Banished Souls | 365309 | [365309-banished-souls.json](./365309-banished-souls.json) |
@@ -1469,6 +1470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bash It! | 252150 | [252150-bash-it.json](./252150-bash-it.json) |
 | Bash the Bear | 114191 | [114191-bash-the-bear.json](./114191-bash-the-bear.json) |
 | Bashed.os | 115438 | [115438-bashed-os.json](./115438-bashed-os.json) |
+| Bashers | 387606 | [387606-bashers.json](./387606-bashers.json) |
 | Bashi Blocks | 42830 | [42830-bashi-blocks.json](./42830-bashi-blocks.json) |
 | Bashing Brutal | 348251 | [348251-bashing-brutal.json](./348251-bashing-brutal.json) |
 | Bashtronaut | 263203 | [263203-bashtronaut.json](./263203-bashtronaut.json) |
