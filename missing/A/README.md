@@ -421,6 +421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Shiver in Time | 177853 | [177853-a-shiver-in-time.json](./177853-a-shiver-in-time.json) |
 | A Shlong Adventure | 372122 | [372122-a-shlong-adventure.json](./372122-a-shlong-adventure.json) |
 | A Shooty Bit | 32977 | [32977-a-shooty-bit.json](./32977-a-shooty-bit.json) |
+| A Short Game About Nothing | 395167 | [395167-a-short-game-about-nothing.json](./395167-a-short-game-about-nothing.json) |
 | A Show of Hands | 52563 | [52563-a-show-of-hands.json](./52563-a-show-of-hands.json) |
 | A Show of Kindness | 112465 | [112465-a-show-of-kindness.json](./112465-a-show-of-kindness.json) |
 | A Silent Wood | 61318 | [61318-a-silent-wood.json](./61318-a-silent-wood.json) |
@@ -493,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Timeless Story | 124669 | [124669-a-timeless-story.json](./124669-a-timeless-story.json) |
 | A Tiny Eternity | 318177 | [318177-a-tiny-eternity.json](./318177-a-tiny-eternity.json) |
 | A Tithe in Blood | 304683 | [304683-a-tithe-in-blood.json](./304683-a-tithe-in-blood.json) |
+| A Toast for the End Times | 395139 | [395139-a-toast-for-the-end-times.json](./395139-a-toast-for-the-end-times.json) |
 | A Todas Las Lagartijas Que Atrapé | 399761 | [399761-a-todas-las-lagartijas-que-atrape.json](./399761-a-todas-las-lagartijas-que-atrape.json) |
 | A Tofu Tail | 58803 | [58803-a-tofu-tail.json](./58803-a-tofu-tail.json) |
 | A Tome in the Attic | 363975 | [363975-a-tome-in-the-attic.json](./363975-a-tome-in-the-attic.json) |
@@ -7848,6 +7850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avish! | 69863 | [69863-avish.json](./69863-avish.json) |
 | Avium | 274504 | [274504-avium.json](./274504-avium.json) |
 | Avlo the Imp Wizard | 417533 | [417533-avlo-the-imp-wizard.json](./417533-avlo-the-imp-wizard.json) |
+| Avo Echoes of the Void | 395146 | [395146-avo-echoes-of-the-void.json](./395146-avo-echoes-of-the-void.json) |
 | Avo Escape Space | 275882 | [275882-avo-escape-space.json](./275882-avo-escape-space.json) |
 | Avocado | 311499 | [311499-avocado.json](./311499-avocado.json) |
 | Avocado Love | 187204 | [187204-avocado-love.json](./187204-avocado-love.json) |
@@ -7909,6 +7912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awakening: The Skyward Castle - Collector's Edition | 89942 | [89942-awakening-the-skyward-castle-collectors-edition.json](./89942-awakening-the-skyward-castle-collectors-edition.json) |
 | Awankening. | 397083 | [397083-awankening.json](./397083-awankening.json) |
 | Award Winners: Platinum Edition | 115782 | [115782-award-winners-platinum-edition.json](./115782-award-winners-platinum-edition.json) |
+| Aware | 395142 | [395142-aware.json](./395142-aware.json) |
 | Awareness | 244880 | [244880-awareness.json](./244880-awareness.json) |
 | Awareness Test: The Robot Bar | 179572 | [179572-awareness-test-the-robot-bar.json](./179572-awareness-test-the-robot-bar.json) |
 | Away from beauty | 115077 | [115077-away-from-beauty.json](./115077-away-from-beauty.json) |
