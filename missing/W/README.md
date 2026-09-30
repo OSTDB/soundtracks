@@ -2865,6 +2865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch's Tower | 355199 | [355199-witchs-tower.json](./355199-witchs-tower.json) |
 | Witch's Weapon | 196331 | [196331-witchs-weapon.json](./196331-witchs-weapon.json) |
 | Witchaven I & II Bundle | 159696 | [159696-witchaven-i-and-ii-bundle.json](./159696-witchaven-i-and-ii-bundle.json) |
+| Witchaven II: Blood Vengeance | 8688 | [8688-witchaven-ii-blood-vengeance.json](./8688-witchaven-ii-blood-vengeance.json) |
 | Witchball | 81788 | [81788-witchball.json](./81788-witchball.json) |
 | Witchbeat | 179618 | [179618-witchbeat.json](./179618-witchbeat.json) |
 | Witchblood | 129238 | [129238-witchblood.json](./129238-witchblood.json) |
@@ -3038,6 +3039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardry: High School Exam | 272881 | [272881-wizardry-high-school-exam.json](./272881-wizardry-high-school-exam.json) |
 | Wizardry: Inochi no Kusabi | 85870 | [85870-wizardry-inochi-no-kusabi.json](./85870-wizardry-inochi-no-kusabi.json) |
 | Wizardry: Knight of Diamonds - The Second Scenario | 2865 | [2865-wizardry-knight-of-diamonds-the-second-scenario.json](./2865-wizardry-knight-of-diamonds-the-second-scenario.json) |
+| Wizardry: Tale of the Forsaken Land | 43620 | [43620-wizardry-tale-of-the-forsaken-land.json](./43620-wizardry-tale-of-the-forsaken-land.json) |
 | Wizardry: The Five Ordeals | 151699 | [151699-wizardry-the-five-ordeals.json](./151699-wizardry-the-five-ordeals.json) |
 | Wizardry: The Five Ordeals - Scenario "Prisoners of the Battles" | 242525 | [242525-wizardry-the-five-ordeals-scenario-prisoners-of-the-battles.json](./242525-wizardry-the-five-ordeals-scenario-prisoners-of-the-battles.json) |
 | Wizardry: The Return of Werdna - The Fourth Scenario | 2885 | [2885-wizardry-the-return-of-werdna-the-fourth-scenario.json](./2885-wizardry-the-return-of-werdna-the-fourth-scenario.json) |
@@ -4143,6 +4145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrestling Empire Forever | 270163 | [270163-wrestling-empire-forever.json](./270163-wrestling-empire-forever.json) |
 | Wrestling Mpire 2008 | 79374 | [79374-wrestling-mpire-2008.json](./79374-wrestling-mpire-2008.json) |
 | Wrestling Revolution 2D | 76990 | [76990-wrestling-revolution-2d.json](./76990-wrestling-revolution-2d.json) |
+| Wrestling Revolution 3D | 44186 | [44186-wrestling-revolution-3d.json](./44186-wrestling-revolution-3d.json) |
 | Wrestling Revolution Pro | 91987 | [91987-wrestling-revolution-pro.json](./91987-wrestling-revolution-pro.json) |
 | Wrestling Spirit 3 | 24755 | [24755-wrestling-spirit-3.json](./24755-wrestling-spirit-3.json) |
 | Wretch: Divine Ascent | 352750 | [352750-wretch-divine-ascent.json](./352750-wretch-divine-ascent.json) |
