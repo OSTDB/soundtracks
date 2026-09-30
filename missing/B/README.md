@@ -600,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldrsky: Core Defender | 202140 | [202140-baldrsky-core-defender.json](./202140-baldrsky-core-defender.json) |
 | Baldur's Gate | 376722 | [376722-baldurs-gate.json](./376722-baldurs-gate.json) |
 | Baldur's Gate 3: Digital Deluxe Edition | 279884 | [279884-baldurs-gate-3-digital-deluxe-edition.json](./279884-baldurs-gate-3-digital-deluxe-edition.json) |
+| Baldur's Gate and Baldur's Gate II: Enhanced Editions | 124786 | [124786-baldurs-gate-and-baldurs-gate-ii-enhanced-editions.json](./124786-baldurs-gate-and-baldurs-gate-ii-enhanced-editions.json) |
 | Baldur's Gate Compilation | 141859 | [141859-baldurs-gate-compilation.json](./141859-baldurs-gate-compilation.json) |
 | Baldur's Gate II: Enhanced Edition | 5613 | [5613-baldurs-gate-ii-enhanced-edition.json](./5613-baldurs-gate-ii-enhanced-edition.json) |
 | Baldur's Gate II: Throne of Bhaal | 82 | [82-baldurs-gate-ii-throne-of-bhaal.json](./82-baldurs-gate-ii-throne-of-bhaal.json) |
@@ -6881,6 +6882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breaworlds | 125830 | [125830-breaworlds.json](./125830-breaworlds.json) |
 | Breed Master | 268484 | [268484-breed-master.json](./268484-breed-master.json) |
 | Breeder | 41329 | [41329-breeder.json](./41329-breeder.json) |
+| Breeders of the Nephelym: Alpha | 122800 | [122800-breeders-of-the-nephelym-alpha.json](./122800-breeders-of-the-nephelym-alpha.json) |
 | Breenstein | 252103 | [252103-breenstein.json](./252103-breenstein.json) |
 | Breeze Girl | 193991 | [193991-breeze-girl.json](./193991-breeze-girl.json) |
 | Breeze in the Clouds | 198220 | [198220-breeze-in-the-clouds.json](./198220-breeze-in-the-clouds.json) |
@@ -7606,6 +7608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BuildCraft | 232655 | [232655-buildcraft.json](./232655-buildcraft.json) |
 | Builder Flipper Bundle | 276307 | [276307-builder-flipper-bundle.json](./276307-builder-flipper-bundle.json) |
 | Builder Liquidator Bundle | 342238 | [342238-builder-liquidator-bundle.json](./342238-builder-liquidator-bundle.json) |
+| Builder Simulator | 121345 | [121345-builder-simulator.json](./121345-builder-simulator.json) |
 | Builder Simulator VR | 237080 | [237080-builder-simulator-vr.json](./237080-builder-simulator-vr.json) |
 | Builder: Don't Let me Fall | 137643 | [137643-builder-dont-let-me-fall.json](./137643-builder-dont-let-me-fall.json) |
 | Builders of Egypt | 120901 | [120901-builders-of-egypt.json](./120901-builders-of-egypt.json) |
