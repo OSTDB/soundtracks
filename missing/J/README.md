@@ -647,6 +647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Drops 2 - Match three puzzle | 101637 | [101637-jewel-drops-2-match-three-puzzle.json](./101637-jewel-drops-2-match-three-puzzle.json) |
 | Jewel Fever | 246341 | [246341-jewel-fever.json](./246341-jewel-fever.json) |
 | Jewel Fever | 257466 | [257466-jewel-fever.json](./257466-jewel-fever.json) |
+| Jewel Fever | 90740 | [90740-jewel-fever.json](./90740-jewel-fever.json) |
 | Jewel Legends: Tree of Life | 85206 | [85206-jewel-legends-tree-of-life.json](./85206-jewel-legends-tree-of-life.json) |
 | Jewel Link Chronicles: Mountains of Madness | 65458 | [65458-jewel-link-chronicles-mountains-of-madness.json](./65458-jewel-link-chronicles-mountains-of-madness.json) |
 | Jewel Link: Atlantic Quest | 401014 | [401014-jewel-link-atlantic-quest.json](./401014-jewel-link-atlantic-quest.json) |
@@ -687,6 +688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Quest 4: Heritage | 85621 | [85621-jewel-quest-4-heritage.json](./85621-jewel-quest-4-heritage.json) |
 | Jewel Quest Mysteries 3: The Seventh Gate | 85214 | [85214-jewel-quest-mysteries-3-the-seventh-gate.json](./85214-jewel-quest-mysteries-3-the-seventh-gate.json) |
 | Jewel Quest Mysteries IV: The Oracle of Ur | 206729 | [206729-jewel-quest-mysteries-iv-the-oracle-of-ur.json](./206729-jewel-quest-mysteries-iv-the-oracle-of-ur.json) |
+| Jewel Quest Mysteries: The Seventh Gate | 90739 | [90739-jewel-quest-mysteries-the-seventh-gate.json](./90739-jewel-quest-mysteries-the-seventh-gate.json) |
 | Jewel Quest Pack | 29206 | [29206-jewel-quest-pack.json](./29206-jewel-quest-pack.json) |
 | Jewel Quest Solitaire II | 53250 | [53250-jewel-quest-solitaire-ii.json](./53250-jewel-quest-solitaire-ii.json) |
 | Jewel Quest Trilogy | 50633 | [50633-jewel-quest-trilogy.json](./50633-jewel-quest-trilogy.json) |
