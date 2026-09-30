@@ -8080,6 +8080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Girl Clicker | 337814 | [337814-burger-girl-clicker.json](./337814-burger-girl-clicker.json) |
 | Burger Island 2: The Missing Ingredient | 206694 | [206694-burger-island-2-the-missing-ingredient.json](./206694-burger-island-2-the-missing-ingredient.json) |
 | Burger Jack | 65447 | [65447-burger-jack.json](./65447-burger-jack.json) |
+| Burger Joint Simulator | 401614 | [401614-burger-joint-simulator.json](./401614-burger-joint-simulator.json) |
 | Burger King Foot Lettuce | 380546 | [380546-burger-king-foot-lettuce.json](./380546-burger-king-foot-lettuce.json) |
 | Burger King Halloween Game | 238202 | [238202-burger-king-halloween-game.json](./238202-burger-king-halloween-game.json) |
 | Burger King Orientation CD-i Training | 182507 | [182507-burger-king-orientation-cd-i-training.json](./182507-burger-king-orientation-cd-i-training.json) |
