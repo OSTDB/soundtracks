@@ -2857,6 +2857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeroxTrio | 183027 | [183027-heroxtrio.json](./183027-heroxtrio.json) |
 | Herpit | 385749 | [385749-herpit.json](./385749-herpit.json) |
 | HerrAnwalt: Lawyers Legacy | 224233 | [224233-herranwalt-lawyers-legacy.json](./224233-herranwalt-lawyers-legacy.json) |
+| HerSalon | 401077 | [401077-hersalon.json](./401077-hersalon.json) |
 | Herschel Spaceport | 262995 | [262995-herschel-spaceport.json](./262995-herschel-spaceport.json) |
 | Herta's Chess Game | 309371 | [309371-hertas-chess-game.json](./309371-hertas-chess-game.json) |
 | HertenHeld | 322183 | [322183-hertenheld.json](./322183-hertenheld.json) |
