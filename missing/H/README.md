@@ -3438,6 +3438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Octane Drift | 33174 | [33174-high-octane-drift.json](./33174-high-octane-drift.json) |
 | High on Life: High on Knife | 253091 | [253091-high-on-life-high-on-knife.json](./253091-high-on-life-high-on-knife.json) |
 | High Pines | 377676 | [377676-high-pines.json](./377676-high-pines.json) |
+| High Quality Funkin' | 405006 | [405006-high-quality-funkin.json](./405006-high-quality-funkin.json) |
 | High Rise | 229051 | [229051-high-rise.json](./229051-high-rise.json) |
 | High Rise | 330538 | [330538-high-rise.json](./330538-high-rise.json) |
 | High Roller: Farkle | 216169 | [216169-high-roller-farkle.json](./216169-high-roller-farkle.json) |
