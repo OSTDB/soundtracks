@@ -4641,6 +4641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shyftrs | 205793 | [205793-shyftrs.json](./205793-shyftrs.json) |
 | Si Da Ming Bu | 93387 | [93387-si-da-ming-bu.json](./93387-si-da-ming-bu.json) |
 | Si Kancil : The Adventurous Mouse Deer | 31207 | [31207-si-kancil-the-adventurous-mouse-deer.json](./31207-si-kancil-the-adventurous-mouse-deer.json) |
+| Si-Ki | 397848 | [397848-si-ki.json](./397848-si-ki.json) |
 | Siam Twinstick | 111714 | [111714-siam-twinstick.json](./111714-siam-twinstick.json) |
 | Siana Tales | 219607 | [219607-siana-tales.json](./219607-siana-tales.json) |
 | Siaty's Return | 361883 | [361883-siatys-return.json](./361883-siatys-return.json) |
@@ -4948,6 +4949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silivri | 376097 | [376097-silivri.json](./376097-silivri.json) |
 | Silk | 121573 | [121573-silk.json](./121573-silk.json) |
 | Silk & Sorrow | 415870 | [415870-silk-and-sorrow.json](./415870-silk-and-sorrow.json) |
+| Silk and Secrets: Rites of Pleasure | 397846 | [397846-silk-and-secrets-rites-of-pleasure.json](./397846-silk-and-secrets-rites-of-pleasure.json) |
 | Silk Suki: Chat Messaging Game | 298099 | [298099-silk-suki-chat-messaging-game.json](./298099-silk-suki-chat-messaging-game.json) |
 | Silk Worm | 12224 | [12224-silk-worm.json](./12224-silk-worm.json) |
 | Silke, Pixelines Lillesøster: Der Bor En Bager | 349491 | [349491-silke-pixelines-lilles-ster-der-bor-en-bager.json](./349491-silke-pixelines-lilles-ster-der-bor-en-bager.json) |
@@ -7286,6 +7288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnowRunner: Year 1 Pass + Year 2 Pass + Year 3 Pass + Year 4 Pass | 284962 | [284962-snowrunner-year-1-pass-year-2-pass-year-3-pass-year-4-pass.json](./284962-snowrunner-year-1-pass-year-2-pass-year-3-pass-year-4-pass.json) |
 | SnowRunner: Year 3 Pass | 230832 | [230832-snowrunner-year-3-pass.json](./230832-snowrunner-year-3-pass.json) |
 | SnowRunner: Year 4 Pass | 284961 | [284961-snowrunner-year-4-pass.json](./284961-snowrunner-year-4-pass.json) |
+| SnowRunner: Year 5 Pass | 397753 | [397753-snowrunner-year-5-pass.json](./397753-snowrunner-year-5-pass.json) |
 | Snowsquall Grip | 302375 | [302375-snowsquall-grip.json](./302375-snowsquall-grip.json) |
 | Snowstorm | 405717 | [405717-snowstorm.json](./405717-snowstorm.json) |
 | Snowtracked | 216888 | [216888-snowtracked.json](./216888-snowtracked.json) |
@@ -7656,6 +7659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solemn Warriors | 330187 | [330187-solemn-warriors.json](./330187-solemn-warriors.json) |
 | Soletrando: Nova Ortografia | 181940 | [181940-soletrando-nova-ortografia.json](./181940-soletrando-nova-ortografia.json) |
 | SolForge | 16487 | [16487-solforge.json](./16487-solforge.json) |
+| Solheim | 397830 | [397830-solheim.json](./397830-solheim.json) |
 | Solid Body Picross | 124053 | [124053-solid-body-picross.json](./124053-solid-body-picross.json) |
 | Solid Ice | 208882 | [208882-solid-ice.json](./208882-solid-ice.json) |
 | Solid Lancer | 248584 | [248584-solid-lancer.json](./248584-solid-lancer.json) |
@@ -12610,6 +12614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stinky Company Simulator | 211741 | [211741-stinky-company-simulator.json](./211741-stinky-company-simulator.json) |
 | Stinky Snake | 104245 | [104245-stinky-snake.json](./104245-stinky-snake.json) |
 | Stint: Rift Apart | 191168 | [191168-stint-rift-apart.json](./191168-stint-rift-apart.json) |
+| Stíny noci | 397831 | [397831-stiny-noci.json](./397831-stiny-noci.json) |
 | Stirge Hunters | 389600 | [389600-stirge-hunters.json](./389600-stirge-hunters.json) |
 | Stitch Head | 388232 | [388232-stitch-head.json](./388232-stitch-head.json) |
 | Stitch: Hoop Pack 1 | 333196 | [333196-stitch-hoop-pack-1.json](./333196-stitch-hoop-pack-1.json) |
@@ -12835,6 +12840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stowaway | 288868 | [288868-stowaway.json](./288868-stowaway.json) |
 | Stowizm | 184103 | [184103-stowizm.json](./184103-stowizm.json) |
 | Stradale Racing Simulator | 175380 | [175380-stradale-racing-simulator.json](./175380-stradale-racing-simulator.json) |
+| Strafest | 397854 | [397854-strafest.json](./397854-strafest.json) |
 | Straftat | 253558 | [253558-straftat.json](./253558-straftat.json) |
 | Straif | 360577 | [360577-straif.json](./360577-straif.json) |
 | Straight Ahead | 187394 | [187394-straight-ahead.json](./187394-straight-ahead.json) |
@@ -15812,6 +15818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supipara: Chapter 1 | 32232 | [32232-supipara-chapter-1.json](./32232-supipara-chapter-1.json) |
 | Supipara: Chapter 2 | 90149 | [90149-supipara-chapter-2.json](./90149-supipara-chapter-2.json) |
 | Supotto Spot | 379574 | [379574-supotto-spot.json](./379574-supotto-spot.json) |
+| Suppa Ninja | 397833 | [397833-suppa-ninja.json](./397833-suppa-ninja.json) |
 | Supplice | 165070 | [165070-supplice.json](./165070-supplice.json) |
 | Supply Chain Expansion | 373746 | [373746-supply-chain-expansion.json](./373746-supply-chain-expansion.json) |
 | Supposedly Wonderful Future | 72491 | [72491-supposedly-wonderful-future.json](./72491-supposedly-wonderful-future.json) |
