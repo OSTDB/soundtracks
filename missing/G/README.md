@@ -1981,6 +1981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gipsy King | 175423 | [175423-gipsy-king.json](./175423-gipsy-king.json) |
 | Girabox | 138621 | [138621-girabox.json](./138621-girabox.json) |
 | Giraffe | 314414 | [314414-giraffe.json](./314414-giraffe.json) |
+| Giraffe and Annika | 101220 | [101220-giraffe-and-annika.json](./101220-giraffe-and-annika.json) |
 | Giraffe Town | 109783 | [109783-giraffe-town.json](./109783-giraffe-town.json) |
 | Giraffe's Matching Zoo Deluxe: Featuring the Fun Button! | 88418 | [88418-giraffes-matching-zoo-deluxe-featuring-the-fun-button.json](./88418-giraffes-matching-zoo-deluxe-featuring-the-fun-button.json) |
 | Girauden Strike Force | 156535 | [156535-girauden-strike-force.json](./156535-girauden-strike-force.json) |
