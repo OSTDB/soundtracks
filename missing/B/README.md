@@ -6899,6 +6899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrawlQuest | 103637 | [103637-brawlquest.json](./103637-brawlquest.json) |
 | Brawlygon | 276252 | [276252-brawlygon.json](./276252-brawlygon.json) |
 | Brayan Odleys Numbers | 74377 | [74377-brayan-odleys-numbers.json](./74377-brayan-odleys-numbers.json) |
+| Brazen | 399776 | [399776-brazen.json](./399776-brazen.json) |
 | Brazen Blaze | 265663 | [265663-brazen-blaze.json](./265663-brazen-blaze.json) |
 | Braziball | 138587 | [138587-braziball.json](./138587-braziball.json) |
 | Brazil Fencing Club VR | 275100 | [275100-brazil-fencing-club-vr.json](./275100-brazil-fencing-club-vr.json) |
