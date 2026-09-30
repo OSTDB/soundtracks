@@ -2173,9 +2173,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Academy: Deluxe Edition | 313140 | [313140-hentai-academy-deluxe-edition.json](./313140-hentai-academy-deluxe-edition.json) |
 | Hentai Academy: Extended Edition | 317253 | [317253-hentai-academy-extended-edition.json](./317253-hentai-academy-extended-edition.json) |
 | Hentai Academy: Ultimate Edition | 315863 | [315863-hentai-academy-ultimate-edition.json](./315863-hentai-academy-ultimate-edition.json) |
+| Hentai Age Airport | 411064 | [411064-hentai-age-airport.json](./411064-hentai-age-airport.json) |
 | Hentai Ahegao | 111270 | [111270-hentai-ahegao.json](./111270-hentai-ahegao.json) |
 | Hentai Aim Practice | 219832 | [219832-hentai-aim-practice.json](./219832-hentai-aim-practice.json) |
 | Hentai Akari | 312719 | [312719-hentai-akari.json](./312719-hentai-akari.json) |
+| Hentai Akira | 411069 | [411069-hentai-akira.json](./411069-hentai-akira.json) |
 | Hentai Amazon Girls | 368011 | [368011-hentai-amazon-girls.json](./368011-hentai-amazon-girls.json) |
 | Hentai Animation Puzzle | 367037 | [367037-hentai-animation-puzzle.json](./367037-hentai-animation-puzzle.json) |
 | Hentai Ariya | 379336 | [379336-hentai-ariya.json](./379336-hentai-ariya.json) |
@@ -2321,9 +2323,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai MineSweeper | 146280 | [146280-hentai-minesweeper.json](./146280-hentai-minesweeper.json) |
 | Hentai MineSweeper: Endless Mode | 146281 | [146281-hentai-minesweeper-endless-mode.json](./146281-hentai-minesweeper-endless-mode.json) |
 | Hentai Misuzu | 296670 | [296670-hentai-misuzu.json](./296670-hentai-misuzu.json) |
+| Hentai Morgana | 411072 | [411072-hentai-morgana.json](./411072-hentai-morgana.json) |
 | Hentai Mosaique Fix-IT Shoppe | 139429 | [139429-hentai-mosaique-fix-it-shoppe.json](./139429-hentai-mosaique-fix-it-shoppe.json) |
 | Hentai Mosaique Neko Waifus | 167807 | [167807-hentai-mosaique-neko-waifus.json](./167807-hentai-mosaique-neko-waifus.json) |
 | Hentai Nana | 296947 | [296947-hentai-nana.json](./296947-hentai-nana.json) |
+| Hentai Nefiris | 411073 | [411073-hentai-nefiris.json](./411073-hentai-nefiris.json) |
 | Hentai Neko | 223403 | [223403-hentai-neko.json](./223403-hentai-neko.json) |
 | Hentai Neon Nights | 265608 | [265608-hentai-neon-nights.json](./265608-hentai-neon-nights.json) |
 | Hentai no Hero | 110358 | [110358-hentai-no-hero.json](./110358-hentai-no-hero.json) |
@@ -2341,6 +2345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Photo: Kaneshon | 362368 | [362368-hentai-photo-kaneshon.json](./362368-hentai-photo-kaneshon.json) |
 | Hentai Photo: Kuchinashi | 364089 | [364089-hentai-photo-kuchinashi.json](./364089-hentai-photo-kuchinashi.json) |
 | Hentai Plus Girl | 111487 | [111487-hentai-plus-girl.json](./111487-hentai-plus-girl.json) |
+| Hentai Police Girl | 411068 | [411068-hentai-police-girl.json](./411068-hentai-police-girl.json) |
 | Hentai Polka | 294139 | [294139-hentai-polka.json](./294139-hentai-polka.json) |
 | Hentai Pool | 241386 | [241386-hentai-pool.json](./241386-hentai-pool.json) |
 | Hentai Project | 262366 | [262366-hentai-project.json](./262366-hentai-project.json) |
@@ -2359,13 +2364,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Queens | 149431 | [149431-hentai-queens.json](./149431-hentai-queens.json) |
 | Hentai Rika | 340448 | [340448-hentai-rika.json](./340448-hentai-rika.json) |
 | Hentai Room | 230781 | [230781-hentai-room.json](./230781-hentai-room.json) |
+| Hentai Roxy | 411067 | [411067-hentai-roxy.json](./411067-hentai-roxy.json) |
+| Hentai Sake | 411070 | [411070-hentai-sake.json](./411070-hentai-sake.json) |
 | Hentai Sally | 340449 | [340449-hentai-sally.json](./340449-hentai-sally.json) |
 | Hentai Senpai: Cosmic Beauties - Premium Pack | 291057 | [291057-hentai-senpai-cosmic-beauties-premium-pack.json](./291057-hentai-senpai-cosmic-beauties-premium-pack.json) |
 | Hentai Senpai: Goth Feet | 340450 | [340450-hentai-senpai-goth-feet.json](./340450-hentai-senpai-goth-feet.json) |
 | Hentai Senpai: Konbini no Shirigaru Onna | 311134 | [311134-hentai-senpai-konbini-no-shirigaru-onna.json](./311134-hentai-senpai-konbini-no-shirigaru-onna.json) |
 | Hentai Senpai: Thicc Fairies of Forest Lake | 372118 | [372118-hentai-senpai-thicc-fairies-of-forest-lake.json](./372118-hentai-senpai-thicc-fairies-of-forest-lake.json) |
+| Hentai Sexy Nurse | 411074 | [411074-hentai-sexy-nurse.json](./411074-hentai-sexy-nurse.json) |
 | Hentai Sexy Nurses | 222284 | [222284-hentai-sexy-nurses.json](./222284-hentai-sexy-nurses.json) |
 | Hentai Shibari | 371359 | [371359-hentai-shibari.json](./371359-hentai-shibari.json) |
+| Hentai Shion | 411066 | [411066-hentai-shion.json](./411066-hentai-shion.json) |
 | Hentai Shiri | 368007 | [368007-hentai-shiri.json](./368007-hentai-shiri.json) |
 | Hentai Shojo | 368002 | [368002-hentai-shojo.json](./368002-hentai-shojo.json) |
 | Hentai Shooter 3D: Christmas Party | 111992 | [111992-hentai-shooter-3d-christmas-party.json](./111992-hentai-shooter-3d-christmas-party.json) |
@@ -4477,6 +4486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hop Swap | 233595 | [233595-hop-swap.json](./233595-hop-swap.json) |
 | Hop Top | 289472 | [289472-hop-top.json](./289472-hop-top.json) |
 | Hop Up | 323308 | [323308-hop-up.json](./323308-hop-up.json) |
+| Hop-Co-Op | 410944 | [410944-hop-co-op.json](./410944-hop-co-op.json) |
 | Hop: The Movie | 254792 | [254792-hop-the-movie.json](./254792-hop-the-movie.json) |
 | Hop'N'Hoard | 394846 | [394846-hopnhoard.json](./394846-hopnhoard.json) |
 | Hopa: Mini test Quest | 183999 | [183999-hopa-mini-test-quest.json](./183999-hopa-mini-test-quest.json) |
@@ -4598,6 +4608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horny Girls Hentai | 161327 | [161327-horny-girls-hentai.json](./161327-horny-girls-hentai.json) |
 | Horny Honey | 156628 | [156628-horny-honey.json](./156628-horny-honey.json) |
 | Horny Housewives 2 | 340484 | [340484-horny-housewives-2.json](./340484-horny-housewives-2.json) |
+| Horny Massage Clinic | 411063 | [411063-horny-massage-clinic.json](./411063-horny-massage-clinic.json) |
 | Horny Recruiter | 368046 | [368046-horny-recruiter.json](./368046-horny-recruiter.json) |
 | Horny Spell | 226189 | [226189-horny-spell.json](./226189-horny-spell.json) |
 | Horny Sweeper 2 | 130735 | [130735-horny-sweeper-2.json](./130735-horny-sweeper-2.json) |
