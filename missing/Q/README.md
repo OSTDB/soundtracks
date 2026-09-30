@@ -508,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Aa! Megami-sama: Tatakau Tsubasa to Tomoni | 131572 | [131572-quiz-aa-megami-sama-tatakau-tsubasa-to-tomoni.json](./131572-quiz-aa-megami-sama-tatakau-tsubasa-to-tomoni.json) |
 | Quiz Caravan Cult Q | 97683 | [97683-quiz-caravan-cult-q.json](./97683-quiz-caravan-cult-q.json) |
 | Quiz Country Flags | 104110 | [104110-quiz-country-flags.json](./104110-quiz-country-flags.json) |
+| Quiz Crossword | 90766 | [90766-quiz-crossword.json](./90766-quiz-crossword.json) |
 | Quiz Daisousa Sen: The Last Count Down | 75510 | [75510-quiz-daisousa-sen-the-last-count-down.json](./75510-quiz-daisousa-sen-the-last-count-down.json) |
 | Quiz Econosaurus | 97677 | [97677-quiz-econosaurus.json](./97677-quiz-econosaurus.json) |
 | Quiz Express | 241339 | [241339-quiz-express.json](./241339-quiz-express.json) |
