@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D3L3T3.exe | 264331 | [264331-d3l3t3-exe.json](./264331-d3l3t3-exe.json) |
 | D4 Complete Edition | 52846 | [52846-d4-complete-edition.json](./52846-d4-complete-edition.json) |
 | Da Box | 59672 | [59672-da-box.json](./59672-da-box.json) |
+| Da Capo 3 R | 27760 | [27760-da-capo-3-r.json](./27760-da-capo-3-r.json) |
 | Dà Fùwēng | 125469 | [125469-da-fuweng.json](./125469-da-fuweng.json) |
 | Da Paper Boy | 259017 | [259017-da-paper-boy.json](./259017-da-paper-boy.json) |
 | Dà Sānguó Shídài | 347226 | [347226-da-sanguo-shidai.json](./347226-da-sanguo-shidai.json) |
@@ -105,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dad by the Sword | 218687 | [218687-dad-by-the-sword.json](./218687-dad-by-the-sword.json) |
 | Dad Discovers The Internet | 297084 | [297084-dad-discovers-the-internet.json](./297084-dad-discovers-the-internet.json) |
 | Dad Hungry! | 341146 | [341146-dad-hungry.json](./341146-dad-hungry.json) |
+| Dad Quest | 27145 | [27145-dad-quest.json](./27145-dad-quest.json) |
 | Dad's co-worker | 81605 | [81605-dads-co-worker.json](./81605-dads-co-worker.json) |
 | Daddy Long Legs | 89289 | [89289-daddy-long-legs.json](./89289-daddy-long-legs.json) |
 | Daddy Moto Racing | 255063 | [255063-daddy-moto-racing.json](./255063-daddy-moto-racing.json) |
@@ -987,6 +989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darksiders III: Blades & Whip Edition | 119079 | [119079-darksiders-iii-blades-and-whip-edition.json](./119079-darksiders-iii-blades-and-whip-edition.json) |
 | Darksiders III: Collector's Edition | 45985 | [45985-darksiders-iii-collectors-edition.json](./45985-darksiders-iii-collectors-edition.json) |
 | Darksiders III: The Crucible | 115645 | [115645-darksiders-iii-the-crucible.json](./115645-darksiders-iii-the-crucible.json) |
+| Darksiders: Fury's Collection - War and Death | 28408 | [28408-darksiders-furys-collection-war-and-death.json](./28408-darksiders-furys-collection-war-and-death.json) |
 | Darksiders: Warmastered Edition | 25081 | [25081-darksiders-warmastered-edition.json](./25081-darksiders-warmastered-edition.json) |
 | DarkSpace | 209027 | [209027-darkspace.json](./209027-darkspace.json) |
 | DarkSpace | 23448 | [23448-darkspace.json](./23448-darkspace.json) |
@@ -1660,6 +1663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Rising 3: The Last Agent | 20942 | [20942-dead-rising-3-the-last-agent.json](./20942-dead-rising-3-the-last-agent.json) |
 | Dead Rising 4: Capcom Heroes | 202965 | [202965-dead-rising-4-capcom-heroes.json](./202965-dead-rising-4-capcom-heroes.json) |
 | Dead Rising 4: Deluxe Edition | 52871 | [52871-dead-rising-4-deluxe-edition.json](./52871-dead-rising-4-deluxe-edition.json) |
+| Dead Rising 4: Frank Rising | 27886 | [27886-dead-rising-4-frank-rising.json](./27886-dead-rising-4-frank-rising.json) |
 | Dead Rising Deluxe Remaster: Costume & BGM - Ashley Graham | 360166 | [360166-dead-rising-deluxe-remaster-costume-and-bgm-ashley-graham.json](./360166-dead-rising-deluxe-remaster-costume-and-bgm-ashley-graham.json) |
 | Dead Rising Deluxe Remaster: Costume & BGM - Chainsaw Villager | 360164 | [360164-dead-rising-deluxe-remaster-costume-and-bgm-chainsaw-villager.json](./360164-dead-rising-deluxe-remaster-costume-and-bgm-chainsaw-villager.json) |
 | Dead Rising Deluxe Remaster: Costume & BGM - Chris Redfield | 360161 | [360161-dead-rising-deluxe-remaster-costume-and-bgm-chris-redfield.json](./360161-dead-rising-deluxe-remaster-costume-and-bgm-chris-redfield.json) |
@@ -3853,6 +3857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Totenmaske | 184105 | [184105-die-totenmaske.json](./184105-die-totenmaske.json) |
 | Die Türme von Hanoi | 93349 | [93349-die-turme-von-hanoi.json](./93349-die-turme-von-hanoi.json) |
 | Die ultimative Brettspiele-Sammlung: Die beliebtesten Brettspiele für die ganze Familie | 337723 | [337723-die-ultimative-brettspiele-sammlung-die-beliebtesten-brettspiele-fur-die-ganze-familie.json](./337723-die-ultimative-brettspiele-sammlung-die-beliebtesten-brettspiele-fur-die-ganze-familie.json) |
+| Die With Glory | 28357 | [28357-die-with-glory.json](./28357-die-with-glory.json) |
 | Die Wolf | 129635 | [129635-die-wolf.json](./129635-die-wolf.json) |
 | Die-Rise | 245277 | [245277-die-rise.json](./245277-die-rise.json) |
 | Die, A.I. | 191183 | [191183-die-a-i.json](./191183-die-a-i.json) |
