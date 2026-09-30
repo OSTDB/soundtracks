@@ -316,6 +316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Ride Jumps Collection | 387670 | [387670-ultimate-ride-jumps-collection.json](./387670-ultimate-ride-jumps-collection.json) |
 | Ultimate Rivals: The Court | 150098 | [150098-ultimate-rivals-the-court.json](./150098-ultimate-rivals-the-court.json) |
 | Ultimate Rivals: The Rink | 127349 | [127349-ultimate-rivals-the-rink.json](./127349-ultimate-rivals-the-rink.json) |
+| Ultimate Romance Test | 399794 | [399794-ultimate-romance-test.json](./399794-ultimate-romance-test.json) |
 | Ultimate S | 262476 | [262476-ultimate-s.json](./262476-ultimate-s.json) |
 | Ultimate Sackboy | 232419 | [232419-ultimate-sackboy.json](./232419-ultimate-sackboy.json) |
 | Ultimate Savanna Simulator | 86690 | [86690-ultimate-savanna-simulator.json](./86690-ultimate-savanna-simulator.json) |
