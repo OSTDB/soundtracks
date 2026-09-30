@@ -3340,6 +3340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riddle! | 102136 | [102136-riddle.json](./102136-riddle.json) |
 | Riddledale | 223174 | [223174-riddledale.json](./223174-riddledale.json) |
 | Riddles of the Owls Kingdom | 105370 | [105370-riddles-of-the-owls-kingdom.json](./105370-riddles-of-the-owls-kingdom.json) |
+| Riddles of the Past | 32090 | [32090-riddles-of-the-past.json](./32090-riddles-of-the-past.json) |
 | Riddles with Sir Connery | 314497 | [314497-riddles-with-sir-connery.json](./314497-riddles-with-sir-connery.json) |
 | RiddleWood | 392274 | [392274-riddlewood.json](./392274-riddlewood.json) |
 | Ride 'Em Rigby: Regular Show | 61140 | [61140-ride-em-rigby-regular-show.json](./61140-ride-em-rigby-regular-show.json) |
@@ -4712,6 +4713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Heroes | 61120 | [61120-rogue-heroes.json](./61120-rogue-heroes.json) |
 | Rogue Heroes: Ruins of Tasos | 137985 | [137985-rogue-heroes-ruins-of-tasos.json](./137985-rogue-heroes-ruins-of-tasos.json) |
 | Rogue Hex | 243806 | [243806-rogue-hex.json](./243806-rogue-hex.json) |
+| Rogue Islands | 32073 | [32073-rogue-islands.json](./32073-rogue-islands.json) |
 | Rogue Jungle | 307949 | [307949-rogue-jungle.json](./307949-rogue-jungle.json) |
 | Rogue Kingdom | 406323 | [406323-rogue-kingdom.json](./406323-rogue-kingdom.json) |
 | Rogue Kingdoms | 317594 | [317594-rogue-kingdoms.json](./317594-rogue-kingdoms.json) |
@@ -5159,6 +5161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooms of Dread | 232027 | [232027-rooms-of-dread.json](./232027-rooms-of-dread.json) |
 | Rooms: The Adventure of Anne & George | 110803 | [110803-rooms-the-adventure-of-anne-and-george.json](./110803-rooms-the-adventure-of-anne-and-george.json) |
 | Rooms: The Unsolvable Puzzle | 19018 | [19018-rooms-the-unsolvable-puzzle.json](./19018-rooms-the-unsolvable-puzzle.json) |
+| Roomscale Tower | 31984 | [31984-roomscale-tower.json](./31984-roomscale-tower.json) |
 | Roopocket | 122171 | [122171-roopocket.json](./122171-roopocket.json) |
 | Roost | 329111 | [329111-roost.json](./329111-roost.json) |
 | Rooster | 301367 | [301367-rooster.json](./301367-rooster.json) |
