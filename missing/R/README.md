@@ -266,6 +266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rack N Ruin | 12216 | [12216-rack-n-ruin.json](./12216-rack-n-ruin.json) |
 | Racket Attack | 48214 | [48214-racket-attack.json](./48214-racket-attack.json) |
 | Racket Club | 251558 | [251558-racket-club.json](./251558-racket-club.json) |
+| Racket: Nx | 33913 | [33913-racket-nx.json](./33913-racket-nx.json) |
 | Rackets & Rivals | 48213 | [48213-rackets-and-rivals.json](./48213-rackets-and-rivals.json) |
 | RackJacker | 163981 | [163981-rackjacker.json](./163981-rackjacker.json) |
 | Racoonfeast | 326971 | [326971-racoonfeast.json](./326971-racoonfeast.json) |
@@ -2131,6 +2132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Refrain Love 2 | 55116 | [55116-refrain-love-2.json](./55116-refrain-love-2.json) |
 | Refrain Love: Anata ni Aitai | 64892 | [64892-refrain-love-anata-ni-aitai.json](./64892-refrain-love-anata-ni-aitai.json) |
 | Refrain no Chika Meikyuu to Majo no Ryodan: Limited Edition | 201050 | [201050-refrain-no-chika-meikyuu-to-majo-no-ryodan-limited-edition.json](./201050-refrain-no-chika-meikyuu-to-majo-no-ryodan-limited-edition.json) |
+| RefRain: Prism Memories | 33659 | [33659-refrain-prism-memories.json](./33659-refrain-prism-memories.json) |
 | RefRain: Prism Memories - Collector's Edition | 53499 | [53499-refrain-prism-memories-collectors-edition.json](./53499-refrain-prism-memories-collectors-edition.json) |
 | Refuge | 226969 | [226969-refuge.json](./226969-refuge.json) |
 | Refuge For Troubles: Episode 1 - Dear Stranger | 171566 | [171566-refuge-for-troubles-episode-1-dear-stranger.json](./171566-refuge-for-troubles-episode-1-dear-stranger.json) |
@@ -2652,6 +2654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Residue: Final Cut | 30250 | [30250-residue-final-cut.json](./30250-residue-final-cut.json) |
 | Residuum | 239752 | [239752-residuum.json](./239752-residuum.json) |
 | Resilience | 273443 | [273443-resilience.json](./273443-resilience.json) |
+| Resilience: Wave Survival | 33851 | [33851-resilience-wave-survival.json](./33851-resilience-wave-survival.json) |
 | Resist Resist Resist | 299153 | [299153-resist-resist-resist.json](./299153-resist-resist-resist.json) |
 | Resistance | 172166 | [172166-resistance.json](./172166-resistance.json) |
 | Resistance 2 | 3205 | [3205-resistance-2.json](./3205-resistance-2.json) |
@@ -3887,6 +3890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rivalhearts | 321342 | [321342-rivalhearts.json](./321342-rivalhearts.json) |
 | Rivalia Online | 383048 | [383048-rivalia-online.json](./383048-rivalia-online.json) |
 | Rivalia: Dungeon Raiders | 211670 | [211670-rivalia-dungeon-raiders.json](./211670-rivalia-dungeon-raiders.json) |
+| Rivalry | 33817 | [33817-rivalry.json](./33817-rivalry.json) |
 | Rivals Duel: Card Battler | 297203 | [297203-rivals-duel-card-battler.json](./297203-rivals-duel-card-battler.json) |
 | Rivals in the Skies | 363907 | [363907-rivals-in-the-skies.json](./363907-rivals-in-the-skies.json) |
 | Rivals of Aether | 21646 | [21646-rivals-of-aether.json](./21646-rivals-of-aether.json) |
