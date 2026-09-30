@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z: Steel Soldiers | 3276 | [3276-z-steel-soldiers.json](./3276-z-steel-soldiers.json) |
 | Z: The End | 36400 | [36400-z-the-end.json](./36400-z-the-end.json) |
 | Z.A.T.O.: I Love the World and Everything In It | 376847 | [376847-z-a-t-o-i-love-the-world-and-everything-in-it.json](./376847-z-a-t-o-i-love-the-world-and-everything-in-it.json) |
+| Z.H.P. Unlosing Ranger vs. Darkdeath Evilman | 19816 | [19816-z-h-p-unlosing-ranger-vs-darkdeath-evilman.json](./19816-z-h-p-unlosing-ranger-vs-darkdeath-evilman.json) |
 | Z.I.O.N: Deluxe Edition | 52101 | [52101-z-i-o-n-deluxe-edition.json](./52101-z-i-o-n-deluxe-edition.json) |
 | Z.O.M.B.I.E. | 163952 | [163952-z-o-m-b-i-e.json](./163952-z-o-m-b-i-e.json) |
 | Z.O.N.A Project X | 234584 | [234584-z-o-n-a-project-x.json](./234584-z-o-n-a-project-x.json) |
@@ -180,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeebo Sports Tênis | 91901 | [91901-zeebo-sports-tenis.json](./91901-zeebo-sports-tenis.json) |
 | Zeeverse | 224119 | [224119-zeeverse.json](./224119-zeeverse.json) |
 | Zefira | 119000 | [119000-zefira.json](./119000-zefira.json) |
+| ZeGame | 19346 | [19346-zegame.json](./19346-zegame.json) |
 | Zegapain NOT | 68015 | [68015-zegapain-not.json](./68015-zegapain-not.json) |
 | Zegapain XOR | 68017 | [68017-zegapain-xor.json](./68017-zegapain-xor.json) |
 | Zegeta Video Game | 56540 | [56540-zegeta-video-game.json](./56540-zegeta-video-game.json) |
