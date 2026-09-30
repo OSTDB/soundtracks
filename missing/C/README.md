@@ -5012,6 +5012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CodeRunner | 200029 | [200029-coderunner.json](./200029-coderunner.json) |
 | CodeStrike | 368500 | [368500-codestrike.json](./368500-codestrike.json) |
 | CodeWordPlay | 228096 | [228096-codewordplay.json](./228096-codewordplay.json) |
+| Codex of Victory | 27802 | [27802-codex-of-victory.json](./27802-codex-of-victory.json) |
 | Cody's Nightmare Vacation | 310548 | [310548-codys-nightmare-vacation.json](./310548-codys-nightmare-vacation.json) |
 | CodyCross: Crossword Puzzles | 86994 | [86994-codycross-crossword-puzzles.json](./86994-codycross-crossword-puzzles.json) |
 | Coffee & Boobs | 347219 | [347219-coffee-and-boobs.json](./347219-coffee-and-boobs.json) |
@@ -8656,6 +8657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuentos Inconclusos | 320138 | [320138-cuentos-inconclusos.json](./320138-cuentos-inconclusos.json) |
 | Cues: Creator Update | 380562 | [380562-cues-creator-update.json](./380562-cues-creator-update.json) |
 | Cuisine Master VR | 358883 | [358883-cuisine-master-vr.json](./358883-cuisine-master-vr.json) |
+| Cuit | 28331 | [28331-cuit.json](./28331-cuit.json) |
 | Cukies World | 237319 | [237319-cukies-world.json](./237319-cukies-world.json) |
 | Culcept Saga | 21498 | [21498-culcept-saga.json](./21498-culcept-saga.json) |
 | Culdcept Expansion | 361753 | [361753-culdcept-expansion.json](./361753-culdcept-expansion.json) |
