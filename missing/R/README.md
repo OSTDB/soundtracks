@@ -3557,6 +3557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Righteous Kill | 209161 | [209161-righteous-kill.json](./209161-righteous-kill.json) |
 | Rightfully, Beary Arms | 197126 | [197126-rightfully-beary-arms.json](./197126-rightfully-beary-arms.json) |
 | Rights of Progression | 229921 | [229921-rights-of-progression.json](./229921-rights-of-progression.json) |
+| Righty Tighty XL | 99653 | [99653-righty-tighty-xl.json](./99653-righty-tighty-xl.json) |
 | Rigid Chess | 117792 | [117792-rigid-chess.json](./117792-rigid-chess.json) |
 | Rigid Force Redux | 134368 | [134368-rigid-force-redux.json](./134368-rigid-force-redux.json) |
 | Rigid Memory | 205107 | [205107-rigid-memory.json](./205107-rigid-memory.json) |
@@ -5962,6 +5963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rushcremental | 381635 | [381635-rushcremental.json](./381635-rushcremental.json) |
 | Rushdown Revolt | 138604 | [138604-rushdown-revolt.json](./138604-rushdown-revolt.json) |
 | Rushing Alice | 200116 | [200116-rushing-alice.json](./200116-rushing-alice.json) |
+| Rushing Balls | 99216 | [99216-rushing-balls.json](./99216-rushing-balls.json) |
 | Rushing Beat X: Return of Brawl Brothers | 345566 | [345566-rushing-beat-x-return-of-brawl-brothers.json](./345566-rushing-beat-x-return-of-brawl-brothers.json) |
 | Rushing Heroes | 65472 | [65472-rushing-heroes.json](./65472-rushing-heroes.json) |
 | Rushing Punch | 270675 | [270675-rushing-punch.json](./270675-rushing-punch.json) |
