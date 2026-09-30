@@ -677,6 +677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Seen Online | 281011 | [281011-last-seen-online.json](./281011-last-seen-online.json) |
 | Last Shape Standing | 164910 | [164910-last-shape-standing.json](./164910-last-shape-standing.json) |
 | Last Shelter: Survival | 89754 | [89754-last-shelter-survival.json](./89754-last-shelter-survival.json) |
+| Last Shelter: War Z | 414472 | [414472-last-shelter-war-z.json](./414472-last-shelter-war-z.json) |
 | Last Shinobi | 377055 | [377055-last-shinobi.json](./377055-last-shinobi.json) |
 | Last Ship Sailing | 403707 | [403707-last-ship-sailing.json](./403707-last-ship-sailing.json) |
 | Last Shooter: Apocalypse | 227266 | [227266-last-shooter-apocalypse.json](./227266-last-shooter-apocalypse.json) |
@@ -1099,6 +1100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lefties' Righteous Arcade Emporium | 289305 | [289305-lefties-righteous-arcade-emporium.json](./289305-lefties-righteous-arcade-emporium.json) |
 | Leftovers | 221977 | [221977-leftovers.json](./221977-leftovers.json) |
 | Lefty | 178636 | [178636-lefty.json](./178636-lefty.json) |
+| Leg Day: Four Steps Through Hell | 415992 | [415992-leg-day-four-steps-through-hell.json](./415992-leg-day-four-steps-through-hell.json) |
 | Legacies of Dondoran | 228999 | [228999-legacies-of-dondoran.json](./228999-legacies-of-dondoran.json) |
 | Legacy | 159240 | [159240-legacy.json](./159240-legacy.json) |
 | Legacy | 213049 | [213049-legacy.json](./213049-legacy.json) |
@@ -1364,6 +1366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legion | 18839 | [18839-legion.json](./18839-legion.json) |
 | Legion | 319203 | [319203-legion.json](./319203-legion.json) |
 | Legion Draft | 395867 | [395867-legion-draft.json](./395867-legion-draft.json) |
+| Legion Hunters | 414491 | [414491-legion-hunters.json](./414491-legion-hunters.json) |
 | Legion of Evil | 346775 | [346775-legion-of-evil.json](./346775-legion-of-evil.json) |
 | Legion of Judgment: Fallen Angel | 238755 | [238755-legion-of-judgment-fallen-angel.json](./238755-legion-of-judgment-fallen-angel.json) |
 | Legion Otherworld | 284428 | [284428-legion-otherworld.json](./284428-legion-otherworld.json) |
@@ -3564,6 +3567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord Clicker | 183555 | [183555-lord-clicker.json](./183555-lord-clicker.json) |
 | Lord Democrat Strikes Out! | 116314 | [116314-lord-democrat-strikes-out.json](./116314-lord-democrat-strikes-out.json) |
 | Lord Legend: Match Brawl | 196585 | [196585-lord-legend-match-brawl.json](./196585-lord-legend-match-brawl.json) |
+| Lord Liberty Quest II: Pure White | 416022 | [416022-lord-liberty-quest-ii-pure-white.json](./416022-lord-liberty-quest-ii-pure-white.json) |
 | Lord Monarch | 37941 | [37941-lord-monarch.json](./37941-lord-monarch.json) |
 | Lord Monarch: Tokoton Sentou Densetsu | 46074 | [46074-lord-monarch-tokoton-sentou-densetsu.json](./46074-lord-monarch-tokoton-sentou-densetsu.json) |
 | Lord O' Pirates | 258528 | [258528-lord-o-pirates.json](./258528-lord-o-pirates.json) |
@@ -3852,6 +3856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Memories | 224779 | [224779-lost-memories.json](./224779-lost-memories.json) |
 | Lost Memories 3 Side Stories | 369569 | [369569-lost-memories-3-side-stories.json](./369569-lost-memories-3-side-stories.json) |
 | Lost Memories: Romance You Choose | 299456 | [299456-lost-memories-romance-you-choose.json](./299456-lost-memories-romance-you-choose.json) |
+| Lost Museum: Echoes of the Chromageists | 416055 | [416055-lost-museum-echoes-of-the-chromageists.json](./416055-lost-museum-echoes-of-the-chromageists.json) |
 | Lost my Collection of 100 Shells | 359574 | [359574-lost-my-collection-of-100-shells.json](./359574-lost-my-collection-of-100-shells.json) |
 | Lost Nomad | 297630 | [297630-lost-nomad.json](./297630-lost-nomad.json) |
 | Lost Oasis | 334099 | [334099-lost-oasis.json](./334099-lost-oasis.json) |
