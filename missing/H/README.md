@@ -816,6 +816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Knock High | 43350 | [43350-hard-knock-high.json](./43350-hard-knock-high.json) |
 | Hard Lads | 135305 | [135305-hard-lads.json](./135305-hard-lads.json) |
 | Hard Life | 219810 | [219810-hard-life.json](./219810-hard-life.json) |
+| Hard Man | 37423 | [37423-hard-man.json](./37423-hard-man.json) |
 | Hard Minus | 55243 | [55243-hard-minus.json](./55243-hard-minus.json) |
 | Hard Minus Classic Redux | 163924 | [163924-hard-minus-classic-redux.json](./163924-hard-minus-classic-redux.json) |
 | Hard Minus Forever Standalone DLC | 249182 | [249182-hard-minus-forever-standalone-dlc.json](./249182-hard-minus-forever-standalone-dlc.json) |
@@ -1028,6 +1029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon: Back to Nature | 3380 | [3380-harvest-moon-back-to-nature.json](./3380-harvest-moon-back-to-nature.json) |
 | Harvest Moon: Boy & Girl | 42889 | [42889-harvest-moon-boy-and-girl.json](./42889-harvest-moon-boy-and-girl.json) |
 | Harvest Moon: Echoes of Teradea | 400976 | [400976-harvest-moon-echoes-of-teradea.json](./400976-harvest-moon-echoes-of-teradea.json) |
+| Harvest Moon: Frantic Farming | 47791 | [47791-harvest-moon-frantic-farming.json](./47791-harvest-moon-frantic-farming.json) |
 | Harvest Moon: Hero of Leaf Valley | 42887 | [42887-harvest-moon-hero-of-leaf-valley.json](./42887-harvest-moon-hero-of-leaf-valley.json) |
 | Harvest Moon: Intuitive Ranch Master | 219076 | [219076-harvest-moon-intuitive-ranch-master.json](./219076-harvest-moon-intuitive-ranch-master.json) |
 | Harvest Moon: Light of Hope | 28843 | [28843-harvest-moon-light-of-hope.json](./28843-harvest-moon-light-of-hope.json) |
