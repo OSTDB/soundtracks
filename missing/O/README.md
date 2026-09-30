@@ -1797,6 +1797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbital | 208895 | [208895-orbital.json](./208895-orbital.json) |
 | Orbital 1 | 96089 | [96089-orbital-1.json](./96089-orbital-1.json) |
 | Orbital Bombardment | 237078 | [237078-orbital-bombardment.json](./237078-orbital-bombardment.json) |
+| Orbital Checkpoint | 413803 | [413803-orbital-checkpoint.json](./413803-orbital-checkpoint.json) |
 | Orbital Clash | 226165 | [226165-orbital-clash.json](./226165-orbital-clash.json) |
 | Orbital Crash | 392462 | [392462-orbital-crash.json](./392462-orbital-crash.json) |
 | Orbital Dance | 319961 | [319961-orbital-dance.json](./319961-orbital-dance.json) |
