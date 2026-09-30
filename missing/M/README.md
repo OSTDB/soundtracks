@@ -218,6 +218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Skills Motocross 3 | 241639 | [241639-mad-skills-motocross-3.json](./241639-mad-skills-motocross-3.json) |
 | Mad Stalker: Full Metal Force | 41408 | [41408-mad-stalker-full-metal-force.json](./41408-mad-stalker-full-metal-force.json) |
 | Mad Taxi | 153327 | [153327-mad-taxi.json](./153327-mad-taxi.json) |
+| Mad Taxi Simulator | 411739 | [411739-mad-taxi-simulator.json](./411739-mad-taxi-simulator.json) |
 | Mad Valley | 294135 | [294135-mad-valley.json](./294135-mad-valley.json) |
 | Mad Way | 256285 | [256285-mad-way.json](./256285-mad-way.json) |
 | Mad Yu: Rural Idle | 412391 | [412391-mad-yu-rural-idle.json](./412391-mad-yu-rural-idle.json) |
@@ -331,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madison | 164243 | [164243-madison.json](./164243-madison.json) |
 | Madison VR | 252791 | [252791-madison-vr.json](./252791-madison-vr.json) |
 | Madison: Possessed Edition | 198392 | [198392-madison-possessed-edition.json](./198392-madison-possessed-edition.json) |
+| Madjack vs Magic | 411635 | [411635-madjack-vs-magic.json](./411635-madjack-vs-magic.json) |
 | Madlad Friend Sim | 179496 | [179496-madlad-friend-sim.json](./179496-madlad-friend-sim.json) |
 | Madland | 121598 | [121598-madland.json](./121598-madland.json) |
 | Madman | 272280 | [272280-madman.json](./272280-madman.json) |
@@ -2216,6 +2218,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Super Hero Squad Online | 19663 | [19663-marvel-super-hero-squad-online.json](./19663-marvel-super-hero-squad-online.json) |
 | Marvel Super Heroes vs. Street Fighter | 8245 | [8245-marvel-super-heroes-vs-street-fighter.json](./8245-marvel-super-heroes-vs-street-fighter.json) |
 | Marvel Super Heroes: War Of The Gems | 271768 | [271768-marvel-super-heroes-war-of-the-gems.json](./271768-marvel-super-heroes-war-of-the-gems.json) |
+| Marvel Tokon: Fighting Souls - Year 1 Character and Stage Pass | 411741 | [411741-marvel-tokon-fighting-souls-year-1-character-and-stage-pass.json](./411741-marvel-tokon-fighting-souls-year-1-character-and-stage-pass.json) |
+| Marvel Tokon: Fighting Souls - Year 1 DLC Character: Phoenix Cyclops | 411743 | [411743-marvel-tokon-fighting-souls-year-1-dlc-character-phoenix-cyclops.json](./411743-marvel-tokon-fighting-souls-year-1-dlc-character-phoenix-cyclops.json) |
 | Marvel Trading Card Game | 21955 | [21955-marvel-trading-card-game.json](./21955-marvel-trading-card-game.json) |
 | Marvel Ultimate Alliance 3: The Black Order - Curse of the Vampire | 122700 | [122700-marvel-ultimate-alliance-3-the-black-order-curse-of-the-vampire.json](./122700-marvel-ultimate-alliance-3-the-black-order-curse-of-the-vampire.json) |
 | Marvel Ultimate Alliance 3: The Black Order - Rise of the Phoenix | 122701 | [122701-marvel-ultimate-alliance-3-the-black-order-rise-of-the-phoenix.json](./122701-marvel-ultimate-alliance-3-the-black-order-rise-of-the-phoenix.json) |
@@ -2930,6 +2934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze of Realities: Reflection of Light - Collector's Edition | 218702 | [218702-maze-of-realities-reflection-of-light-collectors-edition.json](./218702-maze-of-realities-reflection-of-light-collectors-edition.json) |
 | Maze of Realities: Symphony of Invention - Collector's Edition | 289460 | [289460-maze-of-realities-symphony-of-invention-collectors-edition.json](./289460-maze-of-realities-symphony-of-invention-collectors-edition.json) |
 | Maze of Realities: Symphony of Invention DLC | 289859 | [289859-maze-of-realities-symphony-of-invention-dlc.json](./289859-maze-of-realities-symphony-of-invention-dlc.json) |
+| Maze Of Tenfon: Chapter 1 | 411748 | [411748-maze-of-tenfon-chapter-1.json](./411748-maze-of-tenfon-chapter-1.json) |
 | Maze of the Gamja | 211920 | [211920-maze-of-the-gamja.json](./211920-maze-of-the-gamja.json) |
 | Maze of the Mini-taur | 185126 | [185126-maze-of-the-mini-taur.json](./185126-maze-of-the-mini-taur.json) |
 | Maze of Wires | 342177 | [342177-maze-of-wires.json](./342177-maze-of-wires.json) |
