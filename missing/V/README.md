@@ -209,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkalim | 192983 | [192983-valkalim.json](./192983-valkalim.json) |
 | Valkeala Birds | 338577 | [338577-valkeala-birds.json](./338577-valkeala-birds.json) |
 | Valkie 64 | 224788 | [224788-valkie-64.json](./224788-valkie-64.json) |
+| Valknut | 74367 | [74367-valknut.json](./74367-valknut.json) |
 | Valkyria Chronicles 2 | 14674 | [14674-valkyria-chronicles-2.json](./14674-valkyria-chronicles-2.json) |
 | Valkyria Chronicles 2: DLC Pack 2 | 138838 | [138838-valkyria-chronicles-2-dlc-pack-2.json](./138838-valkyria-chronicles-2-dlc-pack-2.json) |
 | Valkyria Chronicles 3: Extra Edition | 38466 | [38466-valkyria-chronicles-3-extra-edition.json](./38466-valkyria-chronicles-3-extra-edition.json) |
@@ -858,6 +859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vi.Dange | 152802 | [152802-vi-dange.json](./152802-vi-dange.json) |
 | VIA | 377289 | [377289-via.json](./377289-via.json) |
 | Via Negativa | 186623 | [186623-via-negativa.json](./186623-via-negativa.json) |
+| Viaerium | 74331 | [74331-viaerium.json](./74331-viaerium.json) |
 | Viaje al centro de la Tierra | 138807 | [138807-viaje-al-centro-de-la-tierra.json](./138807-viaje-al-centro-de-la-tierra.json) |
 | Vianiato PopOut | 334757 | [334757-vianiato-popout.json](./334757-vianiato-popout.json) |
 | Viarkanoid | 89373 | [89373-viarkanoid.json](./89373-viarkanoid.json) |
@@ -1051,6 +1053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Village Heros | 235992 | [235992-village-heros.json](./235992-village-heros.json) |
 | Village Meow | 327172 | [327172-village-meow.json](./327172-village-meow.json) |
 | Village Merchant | 377167 | [377167-village-merchant.json](./377167-village-merchant.json) |
+| Village of Adventurers 2 | 74290 | [74290-village-of-adventurers-2.json](./74290-village-of-adventurers-2.json) |
 | Village of the Ages | 369042 | [369042-village-of-the-ages.json](./369042-village-of-the-ages.json) |
 | Village Slut Transformation | 306433 | [306433-village-slut-transformation.json](./306433-village-slut-transformation.json) |
 | Village Supermarket Simulator: Old Times Edition | 370800 | [370800-village-supermarket-simulator-old-times-edition.json](./370800-village-supermarket-simulator-old-times-edition.json) |
@@ -1201,6 +1204,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Chess | 351645 | [351645-virtual-chess.json](./351645-virtual-chess.json) |
 | Virtual Chess 3 | 206059 | [206059-virtual-chess-3.json](./206059-virtual-chess-3.json) |
 | Virtual Chess 64 | 3334 | [3334-virtual-chess-64.json](./3334-virtual-chess-64.json) |
+| Virtual City | 74325 | [74325-virtual-city.json](./74325-virtual-city.json) |
+| Virtual City 2: Paradise Resort | 74320 | [74320-virtual-city-2-paradise-resort.json](./74320-virtual-city-2-paradise-resort.json) |
 | Virtual Corporation | 94354 | [94354-virtual-corporation.json](./94354-virtual-corporation.json) |
 | Virtual country: Yuan fairy summon | 201668 | [201668-virtual-country-yuan-fairy-summon.json](./201668-virtual-country-yuan-fairy-summon.json) |
 | Virtual Deep Sea Fishing | 206060 | [206060-virtual-deep-sea-fishing.json](./206060-virtual-deep-sea-fishing.json) |
@@ -1261,6 +1266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Pool Hall | 93142 | [93142-virtual-pool-hall.json](./93142-virtual-pool-hall.json) |
 | Virtual Pro Wrestling 2: Oudou Keishou | 3625 | [3625-virtual-pro-wrestling-2-oudou-keishou.json](./3625-virtual-pro-wrestling-2-oudou-keishou.json) |
 | Virtual Pro Wrestling 64 | 3626 | [3626-virtual-pro-wrestling-64.json](./3626-virtual-pro-wrestling-64.json) |
+| Virtual Race Car Engineer 2018 | 74361 | [74361-virtual-race-car-engineer-2018.json](./74361-virtual-race-car-engineer-2018.json) |
 | Virtual Reality Studio | 131498 | [131498-virtual-reality-studio.json](./131498-virtual-reality-studio.json) |
 | Virtual Reality Studio 2.0 | 100130 | [100130-virtual-reality-studio-2-0.json](./100130-virtual-reality-studio-2-0.json) |
 | Virtual Reality Vol. 2 | 100128 | [100128-virtual-reality-vol-2.json](./100128-virtual-reality-vol-2.json) |
