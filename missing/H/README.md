@@ -3298,6 +3298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Photo Mysteries: The Truth Gets Scary | 415060 | [415060-hidden-photo-mysteries-the-truth-gets-scary.json](./415060-hidden-photo-mysteries-the-truth-gets-scary.json) |
 | Hidden Pictures Puzzle Play | 106751 | [106751-hidden-pictures-puzzle-play.json](./106751-hidden-pictures-puzzle-play.json) |
 | Hidden Pleasure: Closer and Closer | 409531 | [409531-hidden-pleasure-closer-and-closer.json](./409531-hidden-pleasure-closer-and-closer.json) |
+| Hidden Pleasure: Deeper and Deeper | 410385 | [410385-hidden-pleasure-deeper-and-deeper.json](./410385-hidden-pleasure-deeper-and-deeper.json) |
 | Hidden Pleasure: Faster and Faster | 403714 | [403714-hidden-pleasure-faster-and-faster.json](./403714-hidden-pleasure-faster-and-faster.json) |
 | Hidden Pleasure: More and More | 409662 | [409662-hidden-pleasure-more-and-more.json](./409662-hidden-pleasure-more-and-more.json) |
 | Hidden Pointsman | 107124 | [107124-hidden-pointsman.json](./107124-hidden-pointsman.json) |
@@ -5869,6 +5870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HyperParasite | 101257 | [101257-hyperparasite.json](./101257-hyperparasite.json) |
 | HyperPop | 298664 | [298664-hyperpop.json](./298664-hyperpop.json) |
 | HyperPortals | 195712 | [195712-hyperportals.json](./195712-hyperportals.json) |
+| Hyperscale | 410398 | [410398-hyperscale.json](./410398-hyperscale.json) |
 | Hypership Out of Control | 35659 | [35659-hypership-out-of-control.json](./35659-hypership-out-of-control.json) |
 | Hyperslice | 303556 | [303556-hyperslice.json](./303556-hyperslice.json) |
 | Hypersomnia | 249782 | [249782-hypersomnia.json](./249782-hypersomnia.json) |
