@@ -2891,6 +2891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firo & Klawd | 28218 | [28218-firo-and-klawd.json](./28218-firo-and-klawd.json) |
 | Firon | 114979 | [114979-firon.json](./114979-firon.json) |
 | First | 377569 | [377569-first.json](./377569-first.json) |
+| First Age | 393751 | [393751-first-age.json](./393751-first-age.json) |
 | First Anchor | 69559 | [69559-first-anchor.json](./69559-first-anchor.json) |
 | First Bite: Bad Blood | 221167 | [221167-first-bite-bad-blood.json](./221167-first-bite-bad-blood.json) |
 | First Blood | 312895 | [312895-first-blood.json](./312895-first-blood.json) |
