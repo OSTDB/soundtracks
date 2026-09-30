@@ -386,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cally's Caves Definitive Collection | 52714 | [52714-callys-caves-definitive-collection.json](./52714-callys-caves-definitive-collection.json) |
 | Calm Before The Storm | 316852 | [316852-calm-before-the-storm.json](./316852-calm-before-the-storm.json) |
 | Calm Cove | 272243 | [272243-calm-cove.json](./272243-calm-cove.json) |
+| Calm Down, Stalin | 32011 | [32011-calm-down-stalin.json](./32011-calm-down-stalin.json) |
 | Calm Down, Stalin VR | 286535 | [286535-calm-down-stalin-vr.json](./286535-calm-down-stalin-vr.json) |
 | Calm Down, Stalin: The First Person | 161351 | [161351-calm-down-stalin-the-first-person.json](./161351-calm-down-stalin-the-first-person.json) |
 | Calm Forest | 185135 | [185135-calm-forest.json](./185135-calm-forest.json) |
@@ -6563,6 +6564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corvette ZR-1 Challenge | 48293 | [48293-corvette-zr-1-challenge.json](./48293-corvette-zr-1-challenge.json) |
 | Corvian Curse | 269852 | [269852-corvian-curse.json](./269852-corvian-curse.json) |
 | Corvid's Night | 277849 | [277849-corvids-night.json](./277849-corvids-night.json) |
+| Cory in the House | 47969 | [47969-cory-in-the-house.json](./47969-cory-in-the-house.json) |
 | Coryoon | 37717 | [37717-coryoon.json](./37717-coryoon.json) |
 | Cos-249 | 311145 | [311145-cos-249.json](./311145-cos-249.json) |
 | Cos-tte! Aki-san! vol.2 | 98460 | [98460-cos-tte-aki-san-vol-2.json](./98460-cos-tte-aki-san-vol-2.json) |
