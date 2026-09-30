@@ -1519,6 +1519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeartCore Descent | 407381 | [407381-heartcore-descent.json](./407381-heartcore-descent.json) |
 | HeartFix Express | 391195 | [391195-heartfix-express.json](./391195-heartfix-express.json) |
 | Heartful Memories: Little Witch Parfait 2 | 332419 | [332419-heartful-memories-little-witch-parfait-2.json](./332419-heartful-memories-little-witch-parfait-2.json) |
+| Hearth Bound | 397128 | [397128-hearth-bound.json](./397128-hearth-bound.json) |
 | Hearth's Light: Potion Shop | 239669 | [239669-hearths-light-potion-shop.json](./239669-hearths-light-potion-shop.json) |
 | Hearthguard | 356677 | [356677-hearthguard.json](./356677-hearthguard.json) |
 | Hearthstone: Across the Timeways | 322150 | [322150-hearthstone-across-the-timeways.json](./322150-hearthstone-across-the-timeways.json) |
