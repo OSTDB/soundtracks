@@ -406,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakuna: Of Rice and Ruin - Divine Edition | 139978 | [139978-sakuna-of-rice-and-ruin-divine-edition.json](./139978-sakuna-of-rice-and-ruin-divine-edition.json) |
 | Sakuna: Of Rice and Ruin - Golden Harvest Limited Edition | 139830 | [139830-sakuna-of-rice-and-ruin-golden-harvest-limited-edition.json](./139830-sakuna-of-rice-and-ruin-golden-harvest-limited-edition.json) |
 | Sakunaverse | 363980 | [363980-sakunaverse.json](./363980-sakunaverse.json) |
+| Sakura Agent | 29850 | [29850-sakura-agent.json](./29850-sakura-agent.json) |
 | Sakura Alien | 186848 | [186848-sakura-alien.json](./186848-sakura-alien.json) |
 | Sakura Arms: Radiant Duels | 388956 | [388956-sakura-arms-radiant-duels.json](./388956-sakura-arms-radiant-duels.json) |
 | Sakura Bunny Girls 2 | 355079 | [355079-sakura-bunny-girls-2.json](./355079-sakura-bunny-girls-2.json) |
@@ -5931,6 +5932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slash and Fuck | 82893 | [82893-slash-and-fuck.json](./82893-slash-and-fuck.json) |
 | Slash Arena: Online | 51943 | [51943-slash-arena-online.json](./51943-slash-arena-online.json) |
 | Slash Em | 176825 | [176825-slash-em.json](./176825-slash-em.json) |
+| Slash It | 30129 | [30129-slash-it.json](./30129-slash-it.json) |
 | Slash It Ultimate | 44285 | [44285-slash-it-ultimate.json](./44285-slash-it-ultimate.json) |
 | Slash Mr. M | 181152 | [181152-slash-mr-m.json](./181152-slash-mr-m.json) |
 | Slash of Bullet | 151675 | [151675-slash-of-bullet.json](./151675-slash-of-bullet.json) |
@@ -12069,6 +12071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Interface: Stellar Spacecrafts | 243229 | [243229-stellar-interface-stellar-spacecrafts.json](./243229-stellar-interface-stellar-spacecrafts.json) |
 | Stellar Mercenaries | 62773 | [62773-stellar-mercenaries.json](./62773-stellar-mercenaries.json) |
 | Stellar Mess: Operation Kush | 380122 | [380122-stellar-mess-operation-kush.json](./380122-stellar-mess-operation-kush.json) |
+| Stellar Monarch | 26493 | [26493-stellar-monarch.json](./26493-stellar-monarch.json) |
 | Stellar Monarch 2 | 192179 | [192179-stellar-monarch-2.json](./192179-stellar-monarch-2.json) |
 | Stellar Monarch: The Age of Technology | 171028 | [171028-stellar-monarch-the-age-of-technology.json](./171028-stellar-monarch-the-age-of-technology.json) |
 | Stellar Nursery | 413597 | [413597-stellar-nursery.json](./413597-stellar-nursery.json) |
