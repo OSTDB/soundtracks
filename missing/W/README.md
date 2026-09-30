@@ -250,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walls | 275006 | [275006-walls.json](./275006-walls.json) |
 | Walls of Illusion | 70443 | [70443-walls-of-illusion.json](./70443-walls-of-illusion.json) |
 | Walls of Rust | 287201 | [287201-walls-of-rust.json](./287201-walls-of-rust.json) |
+| Wallslide | 32802 | [32802-wallslide.json](./32802-wallslide.json) |
 | WallSmashers | 334168 | [334168-wallsmashers.json](./334168-wallsmashers.json) |
 | WallWar | 287200 | [287200-wallwar.json](./287200-wallwar.json) |
 | Wally wo Sagase! Ehon no Kuni no Daibouken! | 37769 | [37769-wally-wo-sagase-ehon-no-kuni-no-daibouken.json](./37769-wally-wo-sagase-ehon-no-kuni-no-daibouken.json) |
@@ -428,6 +429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Kings | 236207 | [236207-war-of-kings.json](./236207-war-of-kings.json) |
 | War of Legends | 306644 | [306644-war-of-legends.json](./306644-war-of-legends.json) |
 | War of Nations | 323324 | [323324-war-of-nations.json](./323324-war-of-nations.json) |
+| War of Rights | 33953 | [33953-war-of-rights.json](./33953-war-of-rights.json) |
 | War of Roses | 177506 | [177506-war-of-roses.json](./177506-war-of-roses.json) |
 | War of Ships | 225895 | [225895-war-of-ships.json](./225895-war-of-ships.json) |
 | War of the AI | 256239 | [256239-war-of-the-ai.json](./256239-war-of-the-ai.json) |
@@ -3281,6 +3283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonderputt Forever | 187829 | [187829-wonderputt-forever.json](./187829-wonderputt-forever.json) |
 | Wonders of the Deep | 369214 | [369214-wonders-of-the-deep.json](./369214-wonders-of-the-deep.json) |
 | Wonders of Waldwea | 355557 | [355557-wonders-of-waldwea.json](./355557-wonders-of-waldwea.json) |
+| Wondershot | 33830 | [33830-wondershot.json](./33830-wondershot.json) |
 | Wondersnake | 245383 | [245383-wondersnake.json](./245383-wondersnake.json) |
 | Wonderstries | 365059 | [365059-wonderstries.json](./365059-wonderstries.json) |
 | Wonderstructs | 414612 | [414612-wonderstructs.json](./414612-wonderstructs.json) |
