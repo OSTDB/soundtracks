@@ -2664,6 +2664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krazy Ivan | 20604 | [20604-krazy-ivan.json](./20604-krazy-ivan.json) |
 | Krazy Kart Racing | 67688 | [67688-krazy-kart-racing.json](./67688-krazy-kart-racing.json) |
 | Krazy Kart! | 310968 | [310968-krazy-kart.json](./310968-krazy-kart.json) |
+| Kreatur Bout | 391825 | [391825-kreatur-bout.json](./391825-kreatur-bout.json) |
 | KreatureKind | 152194 | [152194-kreaturekind.json](./152194-kreaturekind.json) |
 | Kredolis | 151143 | [151143-kredolis.json](./151143-kredolis.json) |
 | Kreed | 95498 | [95498-kreed.json](./95498-kreed.json) |
