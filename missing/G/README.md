@@ -2004,6 +2004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl Design | 415316 | [415316-girl-design.json](./415316-girl-design.json) |
 | Girl Doll Toy: Tamashii o Kudasai | 209622 | [209622-girl-doll-toy-tamashii-o-kudasai.json](./209622-girl-doll-toy-tamashii-o-kudasai.json) |
 | Girl Dress Up Makeover | 88327 | [88327-girl-dress-up-makeover.json](./88327-girl-dress-up-makeover.json) |
+| Girl Fight | 19971 | [19971-girl-fight.json](./19971-girl-fight.json) |
 | Girl Frame | 349468 | [349468-girl-frame.json](./349468-girl-frame.json) |
 | Girl Group Inc: Love Kpop Idol | 297012 | [297012-girl-group-inc-love-kpop-idol.json](./297012-girl-group-inc-love-kpop-idol.json) |
 | Girl Gunner | 277317 | [277317-girl-gunner.json](./277317-girl-gunner.json) |
@@ -3007,6 +3008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf: Become Human | 181680 | [181680-golf-become-human.json](./181680-golf-become-human.json) |
 | Golf: Hole in One | 253579 | [253579-golf-hole-in-one.json](./253579-golf-hole-in-one.json) |
 | Golf: Minigolf | 376710 | [376710-golf-minigolf.json](./376710-golf-minigolf.json) |
+| Golf: Tee it Up! | 20794 | [20794-golf-tee-it-up.json](./20794-golf-tee-it-up.json) |
 | Golf: The Ultimate Collection | 314665 | [314665-golf-the-ultimate-collection.json](./314665-golf-the-ultimate-collection.json) |
 | Golf's Best: St. Andrews - The Home of Golf | 71773 | [71773-golfs-best-st-andrews-the-home-of-golf.json](./71773-golfs-best-st-andrews-the-home-of-golf.json) |
 | Golfing Around | 108442 | [108442-golfing-around.json](./108442-golfing-around.json) |
