@@ -4992,6 +4992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunship Battle: Total Warfare | 109500 | [109500-gunship-battle-total-warfare.json](./109500-gunship-battle-total-warfare.json) |
 | Gunship Global Operations | 380115 | [380115-gunship-global-operations.json](./380115-gunship-global-operations.json) |
 | Gunship II | 88754 | [88754-gunship-ii.json](./88754-gunship-ii.json) |
+| Gunship III: Flight Simulator - Strike Package | 90846 | [90846-gunship-iii-flight-simulator-strike-package.json](./90846-gunship-iii-flight-simulator-strike-package.json) |
 | Gunship Origins | 394127 | [394127-gunship-origins.json](./394127-gunship-origins.json) |
 | Gunship Recon: Character Puzzles | 163418 | [163418-gunship-recon-character-puzzles.json](./163418-gunship-recon-character-puzzles.json) |
 | Gunship Recon: Purchase Privilege | 156168 | [156168-gunship-recon-purchase-privilege.json](./156168-gunship-recon-purchase-privilege.json) |
