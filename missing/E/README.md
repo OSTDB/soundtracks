@@ -246,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easy puzzle: Streets | 287765 | [287765-easy-puzzle-streets.json](./287765-easy-puzzle-streets.json) |
 | Easy Quiz | 171495 | [171495-easy-quiz.json](./171495-easy-quiz.json) |
 | Easy Quiz: This One Is Free | 196034 | [196034-easy-quiz-this-one-is-free.json](./196034-easy-quiz-this-one-is-free.json) |
+| Easy Red | 75944 | [75944-easy-red.json](./75944-easy-red.json) |
 | Easy Red 2: Stalingrad | 231286 | [231286-easy-red-2-stalingrad.json](./231286-easy-red-2-stalingrad.json) |
 | Easy RTS | 303502 | [303502-easy-rts.json](./303502-easy-rts.json) |
 | Easy Simple Game | 212832 | [212832-easy-simple-game.json](./212832-easy-simple-game.json) |
