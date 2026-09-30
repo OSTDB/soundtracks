@@ -5162,6 +5162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Toybox | 416667 | [416667-midnight-toybox.json](./416667-midnight-toybox.json) |
 | Midnight Train | 138255 | [138255-midnight-train.json](./138255-midnight-train.json) |
 | Midnight Train: Going Anywhere | 176489 | [176489-midnight-train-going-anywhere.json](./176489-midnight-train-going-anywhere.json) |
+| Midnight Train: New Moon | 401047 | [401047-midnight-train-new-moon.json](./401047-midnight-train-new-moon.json) |
 | Midnight Transmission | 331334 | [331334-midnight-transmission.json](./331334-midnight-transmission.json) |
 | Midnight Wanderers: Quest for the Chariot | 361330 | [361330-midnight-wanderers-quest-for-the-chariot.json](./361330-midnight-wanderers-quest-for-the-chariot.json) |
 | Midnight Watcher: Village | 403685 | [403685-midnight-watcher-village.json](./403685-midnight-watcher-village.json) |
@@ -5284,6 +5285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mikeneko Holmes: Ghost Panic | 37360 | [37360-mikeneko-holmes-ghost-panic.json](./37360-mikeneko-holmes-ghost-panic.json) |
 | Mikey Boots | 140610 | [140610-mikey-boots.json](./140610-mikey-boots.json) |
 | Mikie: High School Graffiti | 84164 | [84164-mikie-high-school-graffiti.json](./84164-mikie-high-school-graffiti.json) |
+| Mikmak World | 401056 | [401056-mikmak-world.json](./401056-mikmak-world.json) |
 | Miko Gakkou Monogatari: Kaede Episode | 36177 | [36177-miko-gakkou-monogatari-kaede-episode.json](./36177-miko-gakkou-monogatari-kaede-episode.json) |
 | Miko Gakkou: Second Year | 36169 | [36169-miko-gakkou-second-year.json](./36169-miko-gakkou-second-year.json) |
 | Miko Kanna Noukin Taimaki | 82738 | [82738-miko-kanna-noukin-taimaki.json](./82738-miko-kanna-noukin-taimaki.json) |
@@ -5940,6 +5942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minimo | 401502 | [401502-minimo.json](./401502-minimo.json) |
 | Minimonos | 365184 | [365184-minimonos.json](./365184-minimonos.json) |
 | Minimonsters Crush | 90820 | [90820-minimonsters-crush.json](./90820-minimonsters-crush.json) |
+| Minimum Mage Effort | 401049 | [401049-minimum-mage-effort.json](./401049-minimum-mage-effort.json) |
 | Minimum Nanonic | 70401 | [70401-minimum-nanonic.json](./70401-minimum-nanonic.json) |
 | Mining And Achievements | 370179 | [370179-mining-and-achievements.json](./370179-mining-and-achievements.json) |
 | Mining Away! | 408242 | [408242-mining-away.json](./408242-mining-away.json) |
@@ -7790,6 +7793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MoriArashi | 205235 | [205235-moriarashi.json](./205235-moriarashi.json) |
 | Moriarty: Endgame VR | 29069 | [29069-moriarty-endgame-vr.json](./29069-moriarty-endgame-vr.json) |
 | Moribund | 27882 | [27882-moribund.json](./27882-moribund.json) |
+| Moribund Gold: A Pirate Adventure | 401054 | [401054-moribund-gold-a-pirate-adventure.json](./401054-moribund-gold-a-pirate-adventure.json) |
 | Moribunderland | 183964 | [183964-moribunderland.json](./183964-moribunderland.json) |
 | Morikomori Life | 262977 | [262977-morikomori-life.json](./262977-morikomori-life.json) |
 | Morita Kazuo no Shogi | 48817 | [48817-morita-kazuo-no-shogi.json](./48817-morita-kazuo-no-shogi.json) |
@@ -9704,6 +9708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My UnReal Pet | 158705 | [158705-my-unreal-pet.json](./158705-my-unreal-pet.json) |
 | My Unusual Feline Friend | 259014 | [259014-my-unusual-feline-friend.json](./259014-my-unusual-feline-friend.json) |
 | My Valiant Purpose | 278384 | [278384-my-valiant-purpose.json](./278384-my-valiant-purpose.json) |
+| My Vampire Boyfriend Smokes Lucky Strikes | 401079 | [401079-my-vampire-boyfriend-smokes-lucky-strikes.json](./401079-my-vampire-boyfriend-smokes-lucky-strikes.json) |
 | My Very Hungry Caterpillar | 321784 | [321784-my-very-hungry-caterpillar.json](./321784-my-very-hungry-caterpillar.json) |
 | My Very Own Lair | 158563 | [158563-my-very-own-lair.json](./158563-my-very-own-lair.json) |
 | My Village Life | 166506 | [166506-my-village-life.json](./166506-my-village-life.json) |
