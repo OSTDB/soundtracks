@@ -4842,6 +4842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pogo3D | 259015 | [259015-pogo3d.json](./259015-pogo3d.json) |
 | Pogoduck | 243965 | [243965-pogoduck.json](./243965-pogoduck.json) |
 | Pogoman GO! | 80514 | [80514-pogoman-go.json](./80514-pogoman-go.json) |
+| Pogopa | 406855 | [406855-pogopa.json](./406855-pogopa.json) |
 | Pogs: Power of Golden Slammer | 348430 | [348430-pogs-power-of-golden-slammer.json](./348430-pogs-power-of-golden-slammer.json) |
 | Pogui | 379056 | [379056-pogui.json](./379056-pogui.json) |
 | Pohinki Simulator | 333623 | [333623-pohinki-simulator.json](./333623-pohinki-simulator.json) |
@@ -5107,6 +5108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Mystery Dungeon: Red Rescue Team | 2319 | [2319-pokemon-mystery-dungeon-red-rescue-team.json](./2319-pokemon-mystery-dungeon-red-rescue-team.json) |
 | Pokémon Nameless FireRed Project | 213034 | [213034-pokemon-nameless-firered-project.json](./213034-pokemon-nameless-firered-project.json) |
 | Pokémon Nightmare Version: Invasion | 279053 | [279053-pokemon-nightmare-version-invasion.json](./279053-pokemon-nightmare-version-invasion.json) |
+| Pokémon Nova | 406870 | [406870-pokemon-nova.json](./406870-pokemon-nova.json) |
 | Pokemon Nova Sun | 288201 | [288201-pokemon-nova-sun.json](./288201-pokemon-nova-sun.json) |
 | Pokémon Omega Ruby and Alpha Sapphire Special Demo Version | 313320 | [313320-pokemon-omega-ruby-and-alpha-sapphire-special-demo-version.json](./313320-pokemon-omega-ruby-and-alpha-sapphire-special-demo-version.json) |
 | Pokémon Omega Ruby and Pokémon Alpha Sapphire Dual Pack | 159108 | [159108-pokemon-omega-ruby-and-pokemon-alpha-sapphire-dual-pack.json](./159108-pokemon-omega-ruby-and-pokemon-alpha-sapphire-dual-pack.json) |
@@ -7807,6 +7809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulseman | 45760 | [45760-pulseman.json](./45760-pulseman.json) |
 | Pulseman Amabilis | 215241 | [215241-pulseman-amabilis.json](./215241-pulseman-amabilis.json) |
 | Pulsen | 35985 | [35985-pulsen.json](./35985-pulsen.json) |
+| PulseWave | 406948 | [406948-pulsewave.json](./406948-pulsewave.json) |
 | Pulsoids | 13024 | [13024-pulsoids.json](./13024-pulsoids.json) |
 | Pulsonic Baseball II | 245419 | [245419-pulsonic-baseball-ii.json](./245419-pulsonic-baseball-ii.json) |
 | Pulsonic Electronic Baseball | 245418 | [245418-pulsonic-electronic-baseball.json](./245418-pulsonic-electronic-baseball.json) |
