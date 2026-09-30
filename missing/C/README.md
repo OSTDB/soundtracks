@@ -6313,6 +6313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Content Caution: The Horror Filmmaker | 335090 | [335090-content-caution-the-horror-filmmaker.json](./335090-content-caution-the-horror-filmmaker.json) |
 | Content Creator Simulator | 89367 | [89367-content-creator-simulator.json](./89367-content-creator-simulator.json) |
 | Content Warning: Scary Filming | 337073 | [337073-content-warning-scary-filming.json](./337073-content-warning-scary-filming.json) |
+| Contested Space | 403105 | [403105-contested-space.json](./403105-contested-space.json) |
 | Context Insensitive | 159044 | [159044-context-insensitive.json](./159044-context-insensitive.json) |
 | Continent of the Ninth Golden | 256337 | [256337-continent-of-the-ninth-golden.json](./256337-continent-of-the-ninth-golden.json) |
 | Continental | 67396 | [67396-continental.json](./67396-continental.json) |
@@ -7003,6 +7004,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Country Girl Keiko | 117867 | [117867-country-girl-keiko.json](./117867-country-girl-keiko.json) |
 | Country Hopper | 398412 | [398412-country-hopper.json](./398412-country-hopper.json) |
 | Country House | 169983 | [169983-country-house.json](./169983-country-house.json) |
+| Country Life | 403094 | [403094-country-life.json](./403094-country-life.json) |
+| Country Life: Harvest Day | 403088 | [403088-country-life-harvest-day.json](./403088-country-life-harvest-day.json) |
 | Country of Snow | 408285 | [408285-country-of-snow.json](./408285-country-of-snow.json) |
 | Country Park | 105136 | [105136-country-park.json](./105136-country-park.json) |
 | Country Star | 292826 | [292826-country-star.json](./292826-country-star.json) |
@@ -7787,6 +7790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crescent Pale Mist | 21085 | [21085-crescent-pale-mist.json](./21085-crescent-pale-mist.json) |
 | Crescent Prism | 221664 | [221664-crescent-prism.json](./221664-crescent-prism.json) |
 | Crescent Quest: Y2K Home Expansion | 276850 | [276850-crescent-quest-y2k-home-expansion.json](./276850-crescent-quest-y2k-home-expansion.json) |
+| Crescent Roll | 403084 | [403084-crescent-roll.json](./403084-crescent-roll.json) |
 | Crescent Satsujin Jiken: Hyena no Jijou | 273446 | [273446-crescent-satsujin-jiken-hyena-no-jijou.json](./273446-crescent-satsujin-jiken-hyena-no-jijou.json) |
 | Crescite | 262096 | [262096-crescite.json](./262096-crescite.json) |
 | Crest of the Stars | 57940 | [57940-crest-of-the-stars.json](./57940-crest-of-the-stars.json) |
@@ -7909,6 +7913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Moon | 245796 | [245796-crimson-moon.json](./245796-crimson-moon.json) |
 | Crimson Moon | 389428 | [389428-crimson-moon.json](./389428-crimson-moon.json) |
 | Crimson Needle 3 | 265205 | [265205-crimson-needle-3.json](./265205-crimson-needle-3.json) |
+| Crimson Night | 403099 | [403099-crimson-night.json](./403099-crimson-night.json) |
 | Crimson Realms: Relics of the Forgotten World | 389959 | [389959-crimson-realms-relics-of-the-forgotten-world.json](./389959-crimson-realms-relics-of-the-forgotten-world.json) |
 | Crimson Room | 247536 | [247536-crimson-room.json](./247536-crimson-room.json) |
 | Crimson Room: Decade | 25809 | [25809-crimson-room-decade.json](./25809-crimson-room-decade.json) |
