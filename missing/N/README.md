@@ -2045,6 +2045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Lights | 409018 | [409018-night-lights.json](./409018-night-lights.json) |
 | Night Lights: After Dark | 409019 | [409019-night-lights-after-dark.json](./409019-night-lights-after-dark.json) |
 | Night Magic | 109747 | [109747-night-magic.json](./109747-night-magic.json) |
+| Night Maniac: The Origin Of Steven | 416767 | [416767-night-maniac-the-origin-of-steven.json](./416767-night-maniac-the-origin-of-steven.json) |
 | Night Mission Pinball | 25138 | [25138-night-mission-pinball.json](./25138-night-mission-pinball.json) |
 | Night Monsters | 157554 | [157554-night-monsters.json](./157554-night-monsters.json) |
 | Night O'Clock | 364565 | [364565-night-oclock.json](./364565-night-oclock.json) |
@@ -3436,6 +3437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nozomi-chan no Spiritual Card | 405493 | [405493-nozomi-chan-no-spiritual-card.json](./405493-nozomi-chan-no-spiritual-card.json) |
 | Nozomu School Daze | 411649 | [411649-nozomu-school-daze.json](./411649-nozomu-school-daze.json) |
 | NPC Adventure: Post-Jam Edition | 308560 | [308560-npc-adventure-post-jam-edition.json](./308560-npc-adventure-post-jam-edition.json) |
+| NPC Blacksmith Simulator | 417475 | [417475-npc-blacksmith-simulator.json](./417475-npc-blacksmith-simulator.json) |
 | Npc Problems: Vertex Coloring | 126655 | [126655-npc-problems-vertex-coloring.json](./126655-npc-problems-vertex-coloring.json) |
 | NPC Ville: The Story of the Blacksmith | 263031 | [263031-npc-ville-the-story-of-the-blacksmith.json](./263031-npc-ville-the-story-of-the-blacksmith.json) |
 | Npool: Complete + | 328826 | [328826-npool-complete.json](./328826-npool-complete.json) |
@@ -3664,6 +3666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyanco Mine | 164284 | [164284-nyanco-mine.json](./164284-nyanco-mine.json) |
 | Nyanco Project | 120984 | [120984-nyanco-project.json](./120984-nyanco-project.json) |
 | Nyanco Space | 133220 | [133220-nyanco-space.json](./133220-nyanco-space.json) |
+| Nyancrement | 416750 | [416750-nyancrement.json](./416750-nyancrement.json) |
 | Nyandanoid | 205096 | [205096-nyandanoid.json](./205096-nyandanoid.json) |
 | Nyanko Island | 299901 | [299901-nyanko-island.json](./299901-nyanko-island.json) |
 | Nyannyan Prowrestling | 267996 | [267996-nyannyan-prowrestling.json](./267996-nyannyan-prowrestling.json) |
