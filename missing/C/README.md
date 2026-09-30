@@ -4007,6 +4007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citadel Warrior | 308255 | [308255-citadel-warrior.json](./308255-citadel-warrior.json) |
 | Citadel Zero | 410470 | [410470-citadel-zero.json](./410470-citadel-zero.json) |
 | Citadel: Forged With Fire | 47823 | [47823-citadel-forged-with-fire.json](./47823-citadel-forged-with-fire.json) |
+| Citadels | 2804 | [2804-citadels.json](./2804-citadels.json) |
 | Citadelum | 284973 | [284973-citadelum.json](./284973-citadelum.json) |
 | CitaDrill | 329383 | [329383-citadrill.json](./329383-citadrill.json) |
 | Citalis | 25713 | [25713-citalis.json](./25713-citalis.json) |
@@ -5668,6 +5669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comixxx Swap | 195741 | [195741-comixxx-swap.json](./195741-comixxx-swap.json) |
 | Commanager Tycoon | 98992 | [98992-commanager-tycoon.json](./98992-commanager-tycoon.json) |
 | Command & Colours: The Great War | 175382 | [175382-command-and-colours-the-great-war.json](./175382-command-and-colours-the-great-war.json) |
+| Command & Conquer | 1901 | [1901-command-and-conquer.json](./1901-command-and-conquer.json) |
 | Command & Conquer 3: Kane's Wrath | 395863 | [395863-command-and-conquer-3-kanes-wrath.json](./395863-command-and-conquer-3-kanes-wrath.json) |
 | Command & Conquer 3: Kane's Wrath | 707 | [707-command-and-conquer-3-kanes-wrath.json](./707-command-and-conquer-3-kanes-wrath.json) |
 | Command & Conquer 3: Tiberium Wars | 281426 | [281426-command-and-conquer-3-tiberium-wars.json](./281426-command-and-conquer-3-tiberium-wars.json) |
@@ -5715,6 +5717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commander Cherry's Puzzled Journey | 19950 | [19950-commander-cherrys-puzzled-journey.json](./19950-commander-cherrys-puzzled-journey.json) |
 | Commander Cool 2 | 35620 | [35620-commander-cool-2.json](./35620-commander-cool-2.json) |
 | Commander in Chief: Geo-Political Simulator 2009 | 135166 | [135166-commander-in-chief-geo-political-simulator-2009.json](./135166-commander-in-chief-geo-political-simulator-2009.json) |
+| Commander Keen | 2447 | [2447-commander-keen.json](./2447-commander-keen.json) |
 | Commander Keen in Invasion of the Vorticons: Marooned on Mars | 2439 | [2439-commander-keen-in-invasion-of-the-vorticons-marooned-on-mars.json](./2439-commander-keen-in-invasion-of-the-vorticons-marooned-on-mars.json) |
 | Commander Keen: Battle of the Brains | 288347 | [288347-commander-keen-battle-of-the-brains.json](./288347-commander-keen-battle-of-the-brains.json) |
 | Commander Keen: Dead in the Desert | 288346 | [288346-commander-keen-dead-in-the-desert.json](./288346-commander-keen-dead-in-the-desert.json) |
