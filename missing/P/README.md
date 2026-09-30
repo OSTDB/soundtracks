@@ -3984,6 +3984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixelJunk Racers: 2nd Lap | 44576 | [44576-pixeljunk-racers-2nd-lap.json](./44576-pixeljunk-racers-2nd-lap.json) |
 | PixelJunk Shooter | 9912 | [9912-pixeljunk-shooter.json](./9912-pixeljunk-shooter.json) |
 | PixelJunk SideScroller | 20445 | [20445-pixeljunk-sidescroller.json](./20445-pixeljunk-sidescroller.json) |
+| PixelJunk VR: Dead Hungry | 27322 | [27322-pixeljunk-vr-dead-hungry.json](./27322-pixeljunk-vr-dead-hungry.json) |
 | PixelJunk: Scrappers Deluxe | 213499 | [213499-pixeljunk-scrappers-deluxe.json](./213499-pixeljunk-scrappers-deluxe.json) |
 | PixelMaker | 84816 | [84816-pixelmaker.json](./84816-pixelmaker.json) |
 | PixelMaker Studio | 147894 | [147894-pixelmaker-studio.json](./147894-pixelmaker-studio.json) |
@@ -4292,6 +4293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetgore | 255139 | [255139-planetgore.json](./255139-planetgore.json) |
 | Planetoid | 13747 | [13747-planetoid.json](./13747-planetoid.json) |
 | Planetoid | 330907 | [330907-planetoid.json](./330907-planetoid.json) |
+| Planetoid Pioneers | 27501 | [27501-planetoid-pioneers.json](./27501-planetoid-pioneers.json) |
 | Planetoidas | 178630 | [178630-planetoidas.json](./178630-planetoidas.json) |
 | Planetoids | 210873 | [210873-planetoids.json](./210873-planetoids.json) |
 | Planetoids | 45353 | [45353-planetoids.json](./45353-planetoids.json) |
@@ -5960,6 +5962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potion Slingers | 248036 | [248036-potion-slingers.json](./248036-potion-slingers.json) |
 | Potion Stand Story | 316809 | [316809-potion-stand-story.json](./316809-potion-stand-story.json) |
 | Potion Wilds | 216713 | [216713-potion-wilds.json](./216713-potion-wilds.json) |
+| Potioneer: The VR Gardening Simulator | 27341 | [27341-potioneer-the-vr-gardening-simulator.json](./27341-potioneer-the-vr-gardening-simulator.json) |
 | Potionomics: Boss Finn Content Pack | 360595 | [360595-potionomics-boss-finn-content-pack.json](./360595-potionomics-boss-finn-content-pack.json) |
 | Potions & Emotions | 264683 | [264683-potions-and-emotions.json](./264683-potions-and-emotions.json) |
 | Potions War | 201802 | [201802-potions-war.json](./201802-potions-war.json) |
