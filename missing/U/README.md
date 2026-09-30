@@ -711,6 +711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Bowling | 62273 | [62273-undead-bowling.json](./62273-undead-bowling.json) |
 | Undead Carnival Carnage | 180314 | [180314-undead-carnival-carnage.json](./180314-undead-carnival-carnage.json) |
 | Undead City | 294168 | [294168-undead-city.json](./294168-undead-city.json) |
+| Undead Horde 2: Necropolis | 217181 | [217181-undead-horde-2-necropolis.json](./217181-undead-horde-2-necropolis.json) |
 | Undead Inc. | 252855 | [252855-undead-inc.json](./252855-undead-inc.json) |
 | Undead Inc.: Worky DLC | 310006 | [310006-undead-inc-worky-dlc.json](./310006-undead-inc-worky-dlc.json) |
 | Undead Kingdom Survivors | 303063 | [303063-undead-kingdom-survivors.json](./303063-undead-kingdom-survivors.json) |
