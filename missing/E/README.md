@@ -1461,6 +1461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empty World | 365768 | [365768-empty-world.json](./365768-empty-world.json) |
 | Empty. | 134449 | [134449-empty.json](./134449-empty.json) |
 | Empyre: Dukes of the Far Frontier | 198555 | [198555-empyre-dukes-of-the-far-frontier.json](./198555-empyre-dukes-of-the-far-frontier.json) |
+| Empyreal | 324588 | [324588-empyreal.json](./324588-empyreal.json) |
 | Empyrean Swarm | 273649 | [273649-empyrean-swarm.json](./273649-empyrean-swarm.json) |
 | Empyrion - Galactic Survival: Complete Edition | 371228 | [371228-empyrion-galactic-survival-complete-edition.json](./371228-empyrion-galactic-survival-complete-edition.json) |
 | Empyrion: Galactic Survival | 19249 | [19249-empyrion-galactic-survival.json](./19249-empyrion-galactic-survival.json) |
@@ -2923,6 +2924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eventide Escape | 83952 | [83952-eventide-escape.json](./83952-eventide-escape.json) |
 | Eventide Night | 28940 | [28940-eventide-night.json](./28940-eventide-night.json) |
 | Events | 339278 | [339278-events.json](./339278-events.json) |
+| Ever 17: The Out of Infinity | 323127 | [323127-ever-17-the-out-of-infinity.json](./323127-ever-17-the-out-of-infinity.json) |
 | Ever After Again: A Stories Adventure | 414459 | [414459-ever-after-again-a-stories-adventure.json](./414459-ever-after-again-a-stories-adventure.json) |
 | Ever Fallen Empire | 189947 | [189947-ever-fallen-empire.json](./189947-ever-fallen-empire.json) |
 | Ever Forward | 132328 | [132328-ever-forward.json](./132328-ever-forward.json) |
@@ -3459,6 +3461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expeditions: A MudRunner Game - The Great Don 71 | 289860 | [289860-expeditions-a-mudrunner-game-the-great-don-71.json](./289860-expeditions-a-mudrunner-game-the-great-don-71.json) |
 | Expeditions: Conquistador | 16523 | [16523-expeditions-conquistador.json](./16523-expeditions-conquistador.json) |
 | Expeditions: Rome | 146650 | [146650-expeditions-rome.json](./146650-expeditions-rome.json) |
+| Expelled! | 331180 | [331180-expelled.json](./331180-expelled.json) |
 | Expendable | 317640 | [317640-expendable.json](./317640-expendable.json) |
 | Expendabots | 404929 | [404929-expendabots.json](./404929-expendabots.json) |
 | eXperience 112 | 17873 | [17873-experience-112.json](./17873-experience-112.json) |
