@@ -3590,6 +3590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of War | 208934 | [208934-lord-of-war.json](./208934-lord-of-war.json) |
 | Lord Temin's Fortress | 187441 | [187441-lord-temins-fortress.json](./187441-lord-temins-fortress.json) |
 | Lord Winklebottom Investigates | 115180 | [115180-lord-winklebottom-investigates.json](./115180-lord-winklebottom-investigates.json) |
+| Lordcraft | 420669 | [420669-lordcraft.json](./420669-lordcraft.json) |
 | Lordlings of Yore | 25614 | [25614-lordlings-of-yore.json](./25614-lordlings-of-yore.json) |
 | Lords & Knights | 323155 | [323155-lords-and-knights.json](./323155-lords-and-knights.json) |
 | Lords & Peasants | 20057 | [20057-lords-and-peasants.json](./20057-lords-and-peasants.json) |
