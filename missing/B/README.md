@@ -2577,6 +2577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beautiful Sakura: Running Club | 327973 | [327973-beautiful-sakura-running-club.json](./327973-beautiful-sakura-running-club.json) |
 | Beautiful Sakura: Surfing Club | 265240 | [265240-beautiful-sakura-surfing-club.json](./265240-beautiful-sakura-surfing-club.json) |
 | Beautiful Warrior Hibiki's Captive Violation Days | 82828 | [82828-beautiful-warrior-hibikis-captive-violation-days.json](./82828-beautiful-warrior-hibikis-captive-violation-days.json) |
+| Beauty and the Beast | 105383 | [105383-beauty-and-the-beast.json](./105383-beauty-and-the-beast.json) |
 | Beauty and the Beast | 211430 | [211430-beauty-and-the-beast.json](./211430-beauty-and-the-beast.json) |
 | Beauty and the Beast | 292649 | [292649-beauty-and-the-beast.json](./292649-beauty-and-the-beast.json) |
 | Beauty and the Beast | 63376 | [63376-beauty-and-the-beast.json](./63376-beauty-and-the-beast.json) |
@@ -5802,6 +5803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonk's Revenge | 228469 | [228469-bonks-revenge.json](./228469-bonks-revenge.json) |
 | Bonkers | 177539 | [177539-bonkers.json](./177539-bonkers.json) |
 | Bonkers | 78677 | [78677-bonkers.json](./78677-bonkers.json) |
+| Bonkies | 105344 | [105344-bonkies.json](./105344-bonkies.json) |
 | Bonnie Blob in Shapeville | 323368 | [323368-bonnie-blob-in-shapeville.json](./323368-bonnie-blob-in-shapeville.json) |
 | Bonnie Fell | 329113 | [329113-bonnie-fell.json](./329113-bonnie-fell.json) |
 | Bonnie's Bakery | 219034 | [219034-bonnies-bakery.json](./219034-bonnies-bakery.json) |
@@ -7926,6 +7928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BurgerTime | 246390 | [246390-burgertime.json](./246390-burgertime.json) |
 | BurgerTime | 276443 | [276443-burgertime.json](./276443-burgertime.json) |
 | BurgerTime Deluxe | 48958 | [48958-burgertime-deluxe.json](./48958-burgertime-deluxe.json) |
+| BurgerTime Party! | 117745 | [117745-burgertime-party.json](./117745-burgertime-party.json) |
 | Burgerwise the Clown | 101618 | [101618-burgerwise-the-clown.json](./101618-burgerwise-the-clown.json) |
 | Burggeist | 302962 | [302962-burggeist.json](./302962-burggeist.json) |
 | Burgie's Cozy Kitchen | 322086 | [322086-burgies-cozy-kitchen.json](./322086-burgies-cozy-kitchen.json) |
