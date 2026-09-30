@@ -1339,6 +1339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unstoppable | 197640 | [197640-unstoppable.json](./197640-unstoppable.json) |
 | Unstoppable | 255131 | [255131-unstoppable.json](./255131-unstoppable.json) |
 | Unstoppable | 58216 | [58216-unstoppable.json](./58216-unstoppable.json) |
+| Unstoppable Gorg | 1057 | [1057-unstoppable-gorg.json](./1057-unstoppable-gorg.json) |
 | Unstoppabot | 5608 | [5608-unstoppabot.json](./5608-unstoppabot.json) |
 | Unstrayed | 289924 | [289924-unstrayed.json](./289924-unstrayed.json) |
 | Unstrong Legacy | 187458 | [187458-unstrong-legacy.json](./187458-unstrong-legacy.json) |
