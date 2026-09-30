@@ -1007,6 +1007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parallel Pixel | 103422 | [103422-parallel-pixel.json](./103422-parallel-pixel.json) |
 | Parallel Plague: Good Old Days | 290487 | [290487-parallel-plague-good-old-days.json](./290487-parallel-plague-good-old-days.json) |
 | Parallel World | 113026 | [113026-parallel-world.json](./113026-parallel-world.json) |
+| Parallel World in the Dream | 408206 | [408206-parallel-world-in-the-dream.json](./408206-parallel-world-in-the-dream.json) |
 | Parallel Worlds | 181373 | [181373-parallel-worlds.json](./181373-parallel-worlds.json) |
 | Parallelia | 148890 | [148890-parallelia.json](./148890-parallelia.json) |
 | Parallelism | 279079 | [279079-parallelism.json](./279079-parallelism.json) |
@@ -5012,6 +5013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Coral Version | 234552 | [234552-pokemon-coral-version.json](./234552-pokemon-coral-version.json) |
 | Pokémon Cross Stadium | 281394 | [281394-pokemon-cross-stadium.json](./281394-pokemon-cross-stadium.json) |
 | Pokémon Crystal 251 | 312377 | [312377-pokemon-crystal-251.json](./312377-pokemon-crystal-251.json) |
+| Pokémon Crystal Inheritance | 408208 | [408208-pokemon-crystal-inheritance.json](./408208-pokemon-crystal-inheritance.json) |
 | Pokémon Crystal Kaizo | 210705 | [210705-pokemon-crystal-kaizo.json](./210705-pokemon-crystal-kaizo.json) |
 | Pokémon Crystal Ultimate | 221660 | [221660-pokemon-crystal-ultimate.json](./221660-pokemon-crystal-ultimate.json) |
 | Pokémon CrystalDust | 346232 | [346232-pokemon-crystaldust.json](./346232-pokemon-crystaldust.json) |
@@ -7105,6 +7107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project EBHack | 331360 | [331360-project-ebhack.json](./331360-project-ebhack.json) |
 | Project Eclipse | 403580 | [403580-project-eclipse.json](./403580-project-eclipse.json) |
 | Project Eden | 109209 | [109209-project-eden.json](./109209-project-eden.json) |
+| Project Eel | 408231 | [408231-project-eel.json](./408231-project-eel.json) |
 | Project Einherjar | 198356 | [198356-project-einherjar.json](./198356-project-einherjar.json) |
 | Project Entertainment System | 156533 | [156533-project-entertainment-system.json](./156533-project-entertainment-system.json) |
 | Project Entropy | 269086 | [269086-project-entropy.json](./269086-project-entropy.json) |
