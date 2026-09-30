@@ -837,6 +837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underground Waifus TCG | 273365 | [273365-underground-waifus-tcg.json](./273365-underground-waifus-tcg.json) |
 | Underground-Mining-Simulator 2011 | 53938 | [53938-underground-mining-simulator-2011.json](./53938-underground-mining-simulator-2011.json) |
 | Undergrown | 244488 | [244488-undergrown.json](./244488-undergrown.json) |
+| Underhell | 121214 | [121214-underhell.json](./121214-underhell.json) |
 | Underhell | 144877 | [144877-underhell.json](./144877-underhell.json) |
 | Underhero | 36652 | [36652-underhero.json](./36652-underhero.json) |
 | Underkeep | 389458 | [389458-underkeep.json](./389458-underkeep.json) |
