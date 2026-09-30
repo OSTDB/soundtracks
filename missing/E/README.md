@@ -1496,6 +1496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empty the Ocean With a Bucket | 392927 | [392927-empty-the-ocean-with-a-bucket.json](./392927-empty-the-ocean-with-a-bucket.json) |
 | Empty World | 365768 | [365768-empty-world.json](./365768-empty-world.json) |
 | Empty. | 134449 | [134449-empty.json](./134449-empty.json) |
+| Empulse | 402471 | [402471-empulse.json](./402471-empulse.json) |
 | Empyre: Dukes of the Far Frontier | 198555 | [198555-empyre-dukes-of-the-far-frontier.json](./198555-empyre-dukes-of-the-far-frontier.json) |
 | Empyreal | 324588 | [324588-empyreal.json](./324588-empyreal.json) |
 | Empyrean | 30464 | [30464-empyrean.json](./30464-empyrean.json) |
@@ -2557,6 +2558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escort Commander | 80998 | [80998-escort-commander.json](./80998-escort-commander.json) |
 | Escort's Secrets 18+ | 275135 | [275135-escorts-secrets-18.json](./275135-escorts-secrets-18.json) |
 | Escortina Life! 2.0 | 286075 | [286075-escortina-life-2-0.json](./286075-escortina-life-2-0.json) |
+| Escria | 402469 | [402469-escria.json](./402469-escria.json) |
 | Eseala | 267472 | [267472-eseala.json](./267472-eseala.json) |
 | Eselmir and the Five Magical Gifts | 52067 | [52067-eselmir-and-the-five-magical-gifts.json](./52067-eselmir-and-the-five-magical-gifts.json) |
 | Esferibot | 272343 | [272343-esferibot.json](./272343-esferibot.json) |
