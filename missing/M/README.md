@@ -626,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Scroll | 278543 | [278543-magic-scroll.json](./278543-magic-scroll.json) |
 | Magic Sheep | 380397 | [380397-magic-sheep.json](./380397-magic-sheep.json) |
 | Magic Shot | 18235 | [18235-magic-shot.json](./18235-magic-shot.json) |
+| Magic Siege | 75783 | [75783-magic-siege.json](./75783-magic-siege.json) |
 | Magic Snake II | 71517 | [71517-magic-snake-ii.json](./71517-magic-snake-ii.json) |
 | Magic Star | 306659 | [306659-magic-star.json](./306659-magic-star.json) |
 | Magic Streets | 335648 | [335648-magic-streets.json](./335648-magic-streets.json) |
@@ -1572,6 +1573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Partner | 119756 | [119756-marble-partner.json](./119756-marble-partner.json) |
 | Marble Racing | 137570 | [137570-marble-racing.json](./137570-marble-racing.json) |
 | Marble Run 2D | 87990 | [87990-marble-run-2d.json](./87990-marble-run-2d.json) |
+| Marble Skies | 75639 | [75639-marble-skies.json](./75639-marble-skies.json) |
 | Marble Souls | 412504 | [412504-marble-souls.json](./412504-marble-souls.json) |
 | Marble Void | 33235 | [33235-marble-void.json](./33235-marble-void.json) |
 | Marble-O-Tron | 174294 | [174294-marble-o-tron.json](./174294-marble-o-tron.json) |
@@ -5134,6 +5136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Morphin Power Rangers Game Watch | 218431 | [218431-mighty-morphin-power-rangers-game-watch.json](./218431-mighty-morphin-power-rangers-game-watch.json) |
 | Mighty Morphin Power Rangers: Alpha 5 Where Are You? | 198819 | [198819-mighty-morphin-power-rangers-alpha-5-where-are-you.json](./198819-mighty-morphin-power-rangers-alpha-5-where-are-you.json) |
 | Mighty Morphin Power Rangers: Rita's Rewind | 305016 | [305016-mighty-morphin-power-rangers-ritas-rewind.json](./305016-mighty-morphin-power-rangers-ritas-rewind.json) |
+| Mighty Morphin Power Rangers: The Movie | 75981 | [75981-mighty-morphin-power-rangers-the-movie.json](./75981-mighty-morphin-power-rangers-the-movie.json) |
 | Mighty Mouse Cheese Hunt | 334115 | [334115-mighty-mouse-cheese-hunt.json](./334115-mighty-mouse-cheese-hunt.json) |
 | Mighty Mulan | 66940 | [66940-mighty-mulan.json](./66940-mighty-mulan.json) |
 | Mighty No. 9: Ganbare! Beck | 78361 | [78361-mighty-no-9-ganbare-beck.json](./78361-mighty-no-9-ganbare-beck.json) |
@@ -5174,6 +5177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mike Tyson Heavyweight Boxing | 24076 | [24076-mike-tyson-heavyweight-boxing.json](./24076-mike-tyson-heavyweight-boxing.json) |
 | Mike Tyson's Punch-Out!! | 2195 | [2195-mike-tysons-punch-out.json](./2195-mike-tysons-punch-out.json) |
 | Mike V: Skateboard Party HD | 87709 | [87709-mike-v-skateboard-party-hd.json](./87709-mike-v-skateboard-party-hd.json) |
+| Mike was Cursed | 75763 | [75763-mike-was-cursed.json](./75763-mike-was-cursed.json) |
 | Mike's Lonely Journey | 286616 | [286616-mikes-lonely-journey.json](./286616-mikes-lonely-journey.json) |
 | Mike's Paper Mario Adventure | 324110 | [324110-mikes-paper-mario-adventure.json](./324110-mikes-paper-mario-adventure.json) |
 | Mikene's Aspects | 267440 | [267440-mikenes-aspects.json](./267440-mikenes-aspects.json) |
@@ -9467,6 +9471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Talking Girl | 300429 | [300429-my-talking-girl.json](./300429-my-talking-girl.json) |
 | My Talking Pretty Girl | 300430 | [300430-my-talking-pretty-girl.json](./300430-my-talking-pretty-girl.json) |
 | My Talking Tom 2 | 180604 | [180604-my-talking-tom-2.json](./180604-my-talking-tom-2.json) |
+| My Tamagotchi Forever | 76234 | [76234-my-tamagotchi-forever.json](./76234-my-tamagotchi-forever.json) |
 | My Tasty Husband | 390235 | [390235-my-tasty-husband.json](./390235-my-tasty-husband.json) |
 | My Teacher is an Alien | 148515 | [148515-my-teacher-is-an-alien.json](./148515-my-teacher-is-an-alien.json) |
 | My Thai Boyfriend | 291078 | [291078-my-thai-boyfriend.json](./291078-my-thai-boyfriend.json) |
