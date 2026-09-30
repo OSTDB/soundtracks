@@ -1046,6 +1046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gay Guys | 368117 | [368117-gay-guys.json](./368117-gay-guys.json) |
 | Gay Sex Adventures: Episode 8 | 304857 | [304857-gay-sex-adventures-episode-8.json](./304857-gay-sex-adventures-episode-8.json) |
 | Gay Sex Simulator | 405059 | [405059-gay-sex-simulator.json](./405059-gay-sex-simulator.json) |
+| Gay World | 81954 | [81954-gay-world.json](./81954-gay-world.json) |
 | Gay Zodiac | 183034 | [183034-gay-zodiac.json](./183034-gay-zodiac.json) |
 | Gayandere | 215782 | [215782-gayandere.json](./215782-gayandere.json) |
 | Gaydorado | 87004 | [87004-gaydorado.json](./87004-gaydorado.json) |
@@ -4960,6 +4961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunrox | 270772 | [270772-gunrox.json](./270772-gunrox.json) |
 | Guns 'n Guts | 110973 | [110973-guns-n-guts.json](./110973-guns-n-guts.json) |
 | Guns & Bots | 304906 | [304906-guns-and-bots.json](./304906-guns-and-bots.json) |
+| Guns & Notes | 81876 | [81876-guns-and-notes.json](./81876-guns-and-notes.json) |
 | Guns 30 | 198476 | [198476-guns-30.json](./198476-guns-30.json) |
 | Guns 4 Hire | 117728 | [117728-guns-4-hire.json](./117728-guns-4-hire.json) |
 | Guns and Blood: 2D Zombie Shooter | 96025 | [96025-guns-and-blood-2d-zombie-shooter.json](./96025-guns-and-blood-2d-zombie-shooter.json) |
