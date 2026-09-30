@@ -2504,6 +2504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alexi Lalas International Soccer | 43933 | [43933-alexi-lalas-international-soccer.json](./43933-alexi-lalas-international-soccer.json) |
 | Alexios the Protector | 235463 | [235463-alexios-the-protector.json](./235463-alexios-the-protector.json) |
 | Alexis Arc: Heroes of the Three Kingdoms | 138195 | [138195-alexis-arc-heroes-of-the-three-kingdoms.json](./138195-alexis-arc-heroes-of-the-three-kingdoms.json) |
+| Alexus 2040 | 415242 | [415242-alexus-2040.json](./415242-alexus-2040.json) |
 | Aleya's Ascent | 142840 | [142840-aleyas-ascent.json](./142840-aleyas-ascent.json) |
 | Alf | 65580 | [65580-alf.json](./65580-alf.json) |
 | Alf in the Color Caves | 59502 | [59502-alf-in-the-color-caves.json](./59502-alf-in-the-color-caves.json) |
@@ -4798,6 +4799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apache Strike | 137662 | [137662-apache-strike.json](./137662-apache-strike.json) |
 | Apano Sin | 14259 | [14259-apano-sin.json](./14259-apano-sin.json) |
 | Apano Syn Fighter | 304571 | [304571-apano-syn-fighter.json](./304571-apano-syn-fighter.json) |
+| Apart | 415185 | [415185-apart.json](./415185-apart.json) |
 | Apartament 1406 | 249766 | [249766-apartament-1406.json](./249766-apartament-1406.json) |
 | Apartment 213 | 97709 | [97709-apartment-213.json](./97709-apartment-213.json) |
 | Apartment 22 | 355540 | [355540-apartment-22.json](./355540-apartment-22.json) |
