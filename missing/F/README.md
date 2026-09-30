@@ -626,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Out | 125402 | [125402-falling-out.json](./125402-falling-out.json) |
 | Falling Plus | 112514 | [112514-falling-plus.json](./112514-falling-plus.json) |
 | Falling Sand! | 146811 | [146811-falling-sand.json](./146811-falling-sand.json) |
+| Falling Skies: The Game | 19644 | [19644-falling-skies-the-game.json](./19644-falling-skies-the-game.json) |
 | Falling Sky | 82888 | [82888-falling-sky.json](./82888-falling-sky.json) |
 | Falling Slime | 102315 | [102315-falling-slime.json](./102315-falling-slime.json) |
 | Falling Stars | 359397 | [359397-falling-stars.json](./359397-falling-stars.json) |
