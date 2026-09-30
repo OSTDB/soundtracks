@@ -1724,6 +1724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadblast | 248331 | [248331-deadblast.json](./248331-deadblast.json) |
 | Deadbolt | 18389 | [18389-deadbolt.json](./18389-deadbolt.json) |
 | Deadboot | 360103 | [360103-deadboot.json](./360103-deadboot.json) |
+| Deadbreed | 14726 | [14726-deadbreed.json](./14726-deadbreed.json) |
 | Deadcam | 323190 | [323190-deadcam.json](./323190-deadcam.json) |
 | DeadCore | 7864 | [7864-deadcore.json](./7864-deadcore.json) |
 | DeadCore Redux | 345547 | [345547-deadcore-redux.json](./345547-deadcore-redux.json) |
@@ -2716,6 +2717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demolition Dodge | 233114 | [233114-demolition-dodge.json](./233114-demolition-dodge.json) |
 | Demolition Engineer | 99660 | [99660-demolition-engineer.json](./99660-demolition-engineer.json) |
 | Demolition Girl | 26570 | [26570-demolition-girl.json](./26570-demolition-girl.json) |
+| Demolition Inc. | 15126 | [15126-demolition-inc.json](./15126-demolition-inc.json) |
 | Demolition Inc.: Level & Weapon | 238632 | [238632-demolition-inc-level-and-weapon.json](./238632-demolition-inc-level-and-weapon.json) |
 | Demolition Master | 106775 | [106775-demolition-master.json](./106775-demolition-master.json) |
 | Demolition Physics | 90510 | [90510-demolition-physics.json](./90510-demolition-physics.json) |
@@ -7511,6 +7513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drug Lord 2 | 71473 | [71473-drug-lord-2.json](./71473-drug-lord-2.json) |
 | Drug Lords | 193228 | [193228-drug-lords.json](./193228-drug-lords.json) |
 | Drug Prince & Narcotic Girl for Nintendo Switch | 255630 | [255630-drug-prince-and-narcotic-girl-for-nintendo-switch.json](./255630-drug-prince-and-narcotic-girl-for-nintendo-switch.json) |
+| Drug Wars | 14945 | [14945-drug-wars.json](./14945-drug-wars.json) |
 | Drug Wars: A Game Based on the New York Drug Market | 72172 | [72172-drug-wars-a-game-based-on-the-new-york-drug-market.json](./72172-drug-wars-a-game-based-on-the-new-york-drug-market.json) |
 | Drug Watch | 130838 | [130838-drug-watch.json](./130838-drug-watch.json) |
 | Drugs and Crime Idle | 153426 | [153426-drugs-and-crime-idle.json](./153426-drugs-and-crime-idle.json) |
