@@ -292,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ebola 3 | 216312 | [216312-ebola-3.json](./216312-ebola-3.json) |
 | Ebonstar | 57627 | [57627-ebonstar.json](./57627-ebonstar.json) |
 | Ebontale | 179184 | [179184-ebontale.json](./179184-ebontale.json) |
+| Ebony Spire: Heresy | 74239 | [74239-ebony-spire-heresy.json](./74239-ebony-spire-heresy.json) |
 | Ebullition LBVR | 121769 | [121769-ebullition-lbvr.json](./121769-ebullition-lbvr.json) |
 | Ecchi 2: compile 2D chan | 111638 | [111638-ecchi-2-compile-2d-chan.json](./111638-ecchi-2-compile-2d-chan.json) |
 | Ecchi Beauties | 173821 | [173821-ecchi-beauties.json](./173821-ecchi-beauties.json) |
@@ -2049,6 +2050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epochs of Enmity | 196012 | [196012-epochs-of-enmity.json](./196012-epochs-of-enmity.json) |
 | Epochs of Fire | 333009 | [333009-epochs-of-fire.json](./333009-epochs-of-fire.json) |
 | Epolevne | 176355 | [176355-epolevne.json](./176355-epolevne.json) |
+| Eponymous | 74257 | [74257-eponymous.json](./74257-eponymous.json) |
 | Epos 11 | 355525 | [355525-epos-11.json](./355525-epos-11.json) |
 | Epos Survivors | 372688 | [372688-epos-survivors.json](./372688-epos-survivors.json) |
 | EPS Series Vol. 1: Because I Love You - Yukiko Morikawa | 286507 | [286507-eps-series-vol-1-because-i-love-you-yukiko-morikawa.json](./286507-eps-series-vol-1-because-i-love-you-yukiko-morikawa.json) |
