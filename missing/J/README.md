@@ -682,6 +682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Match Origins: Palais Imperial - Collector's Edition | 169954 | [169954-jewel-match-origins-palais-imperial-collectors-edition.json](./169954-jewel-match-origins-palais-imperial-collectors-edition.json) |
 | Jewel Match Solitaire | 105217 | [105217-jewel-match-solitaire.json](./105217-jewel-match-solitaire.json) |
 | Jewel Match Solitaire Winterscapes 3: Collector's Edition | 362851 | [362851-jewel-match-solitaire-winterscapes-3-collectors-edition.json](./362851-jewel-match-solitaire-winterscapes-3-collectors-edition.json) |
+| Jewel Match Solitaire X | 397877 | [397877-jewel-match-solitaire-x.json](./397877-jewel-match-solitaire-x.json) |
 | Jewel Match Solitaire X: Collector's Edition | 201697 | [201697-jewel-match-solitaire-x-collectors-edition.json](./201697-jewel-match-solitaire-x-collectors-edition.json) |
 | Jewel Match Solitaire: Summertime | 165683 | [165683-jewel-match-solitaire-summertime.json](./165683-jewel-match-solitaire-summertime.json) |
 | Jewel Match: Dracula - Collector's Edition | 337273 | [337273-jewel-match-dracula-collectors-edition.json](./337273-jewel-match-dracula-collectors-edition.json) |
