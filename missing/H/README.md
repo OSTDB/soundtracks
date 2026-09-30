@@ -5911,6 +5911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HyperGlide | 211194 | [211194-hyperglide.json](./211194-hyperglide.json) |
 | Hyperhell | 235965 | [235965-hyperhell.json](./235965-hyperhell.json) |
 | Hyperide VR | 75024 | [75024-hyperide-vr.json](./75024-hyperide-vr.json) |
+| Hyperlane Highway | 395812 | [395812-hyperlane-highway.json](./395812-hyperlane-highway.json) |
 | HyperLeague Heroes | 191179 | [191179-hyperleague-heroes.json](./191179-hyperleague-heroes.json) |
 | Hyperlight | 254435 | [254435-hyperlight.json](./254435-hyperlight.json) |
 | Hyperlight | 265701 | [265701-hyperlight.json](./265701-hyperlight.json) |
