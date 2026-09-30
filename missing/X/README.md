@@ -293,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenogen | 381675 | [381675-xenogen.json](./381675-xenogen.json) |
 | Xenogunner | 98587 | [98587-xenogunner.json](./98587-xenogunner.json) |
 | Xenoids | 191203 | [191203-xenoids.json](./191203-xenoids.json) |
+| Xenomarine | 74260 | [74260-xenomarine.json](./74260-xenomarine.json) |
 | XenoMiner | 62728 | [62728-xenominer.json](./62728-xenominer.json) |
 | XenoMoon | 216359 | [216359-xenomoon.json](./216359-xenomoon.json) |
 | Xenomorph | 83494 | [83494-xenomorph.json](./83494-xenomorph.json) |
