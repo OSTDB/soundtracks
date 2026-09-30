@@ -1701,6 +1701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat + Dog | 237061 | [237061-cat-dog.json](./237061-cat-dog.json) |
 | Cat 2048 Story | 233530 | [233530-cat-2048-story.json](./233530-cat-2048-story.json) |
 | Cat a Photo | 406937 | [406937-cat-a-photo.json](./406937-cat-a-photo.json) |
+| Cat Adoption Tales | 390739 | [390739-cat-adoption-tales.json](./390739-cat-adoption-tales.json) |
 | Cat Adventure 2 | 195799 | [195799-cat-adventure-2.json](./195799-cat-adventure-2.json) |
 | Cat and Can | 226299 | [226299-cat-and-can.json](./226299-cat-and-can.json) |
 | Cat and Dog Adventure | 95564 | [95564-cat-and-dog-adventure.json](./95564-cat-and-dog-adventure.json) |
