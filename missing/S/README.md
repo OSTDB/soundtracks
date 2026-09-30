@@ -1079,6 +1079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savage Skies | 47314 | [47314-savage-skies.json](./47314-savage-skies.json) |
 | Savage Tower Defense | 158715 | [158715-savage-tower-defense.json](./158715-savage-tower-defense.json) |
 | Savage Turret | 248074 | [248074-savage-turret.json](./248074-savage-turret.json) |
+| Savage: The Battle for Newerth | 2247 | [2247-savage-the-battle-for-newerth.json](./2247-savage-the-battle-for-newerth.json) |
 | Savage: The Shard of Gosen | 34332 | [34332-savage-the-shard-of-gosen.json](./34332-savage-the-shard-of-gosen.json) |
 | Savage: The Ultimate Quest for Survival | 69890 | [69890-savage-the-ultimate-quest-for-survival.json](./69890-savage-the-ultimate-quest-for-survival.json) |
 | Savage: Ultimate Boss Fight | 225075 | [225075-savage-ultimate-boss-fight.json](./225075-savage-ultimate-boss-fight.json) |
@@ -4772,6 +4773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hill: The Arcade | 324910 | [324910-silent-hill-the-arcade.json](./324910-silent-hill-the-arcade.json) |
 | Silent Hill: Townfall | 222342 | [222342-silent-hill-townfall.json](./222342-silent-hill-townfall.json) |
 | Silent Hills | 7611 | [7611-silent-hills.json](./7611-silent-hills.json) |
+| Silent Hope | 254330 | [254330-silent-hope.json](./254330-silent-hope.json) |
 | Silent Hope: Wanderer's Weapon & Item Set | 254464 | [254464-silent-hope-wanderers-weapon-and-item-set.json](./254464-silent-hope-wanderers-weapon-and-item-set.json) |
 | Silent House | 177304 | [177304-silent-house.json](./177304-silent-house.json) |
 | Silent Hunt | 374694 | [374694-silent-hunt.json](./374694-silent-hunt.json) |
@@ -6973,6 +6975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snoopy DS: Let's Go Meet Snoopy and His Friends! | 302711 | [302711-snoopy-ds-lets-go-meet-snoopy-and-his-friends.json](./302711-snoopy-ds-lets-go-meet-snoopy-and-his-friends.json) |
 | Snoopy no Hajimete no Otsukai | 324912 | [324912-snoopy-no-hajimete-no-otsukai.json](./324912-snoopy-no-hajimete-no-otsukai.json) |
 | Snoopy Tennis | 49878 | [49878-snoopy-tennis.json](./49878-snoopy-tennis.json) |
+| Snoopy vs. The Red Baron | 2756 | [2756-snoopy-vs-the-red-baron.json](./2756-snoopy-vs-the-red-baron.json) |
 | Snoopy's Magic Show DX | 279583 | [279583-snoopys-magic-show-dx.json](./279583-snoopys-magic-show-dx.json) |
 | Snoopy's Silly Sports Spectacular! | 48077 | [48077-snoopys-silly-sports-spectacular.json](./48077-snoopys-silly-sports-spectacular.json) |
 | Snoot Booper | 392282 | [392282-snoot-booper.json](./392282-snoot-booper.json) |
@@ -8682,6 +8685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | South Park: Snow Day! - Nichole's Home Brew | 324478 | [324478-south-park-snow-day-nicholes-home-brew.json](./324478-south-park-snow-day-nicholes-home-brew.json) |
 | South Park: Snow Day! - Nonconformist Weapon Variation Pack | 316257 | [316257-south-park-snow-day-nonconformist-weapon-variation-pack.json](./316257-south-park-snow-day-nonconformist-weapon-variation-pack.json) |
 | South Park: Snow Day! - To Danse with the Veiled Horde | 316258 | [316258-south-park-snow-day-to-danse-with-the-veiled-horde.json](./316258-south-park-snow-day-to-danse-with-the-veiled-horde.json) |
+| South Park: Tenorman's Revenge | 1261 | [1261-south-park-tenormans-revenge.json](./1261-south-park-tenormans-revenge.json) |
 | South Park: The Fractured but Whole - Collector's Edition | 11003 | [11003-south-park-the-fractured-but-whole-collectors-edition.json](./11003-south-park-the-fractured-but-whole-collectors-edition.json) |
 | South Park: The Fractured But Whole - From Dusk Till Casa Bonita | 96134 | [96134-south-park-the-fractured-but-whole-from-dusk-till-casa-bonita.json](./96134-south-park-the-fractured-but-whole-from-dusk-till-casa-bonita.json) |
 | South Park: The Fractured But Whole - Relics of Zaron | 74745 | [74745-south-park-the-fractured-but-whole-relics-of-zaron.json](./74745-south-park-the-fractured-but-whole-relics-of-zaron.json) |
@@ -13956,6 +13960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bomberman 2 | 14530 | [14530-super-bomberman-2.json](./14530-super-bomberman-2.json) |
 | Super Bomberman 3 | 18618 | [18618-super-bomberman-3.json](./18618-super-bomberman-3.json) |
 | Super Bomberman BT | 198216 | [198216-super-bomberman-bt.json](./198216-super-bomberman-bt.json) |
+| Super Bomberman Collection | 388432 | [388432-super-bomberman-collection.json](./388432-super-bomberman-collection.json) |
 | Super Bomberman R | 26760 | [26760-super-bomberman-r.json](./26760-super-bomberman-r.json) |
 | Super Bomberman R 2 | 206807 | [206807-super-bomberman-r-2.json](./206807-super-bomberman-r-2.json) |
 | Super Bomberman R Online | 135826 | [135826-super-bomberman-r-online.json](./135826-super-bomberman-r-online.json) |
@@ -15912,6 +15917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SWAT Force | 76201 | [76201-swat-force.json](./76201-swat-force.json) |
 | SWAT God | 407444 | [407444-swat-god.json](./407444-swat-god.json) |
 | SWAT Siege | 336032 | [336032-swat-siege.json](./336032-swat-siege.json) |
+| SWAT: Target Liberty | 319 | [319-swat-target-liberty.json](./319-swat-target-liberty.json) |
 | Swat! | 60557 | [60557-swat.json](./60557-swat.json) |
 | Swatch | 179177 | [179177-swatch.json](./179177-swatch.json) |
 | Swatch Out! | 132785 | [132785-swatch-out.json](./132785-swatch-out.json) |
