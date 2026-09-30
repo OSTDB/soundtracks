@@ -2401,6 +2401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Massive Galaxy | 89669 | [89669-massive-galaxy.json](./89669-massive-galaxy.json) |
 | Massive Warfare: Aftermath | 347878 | [347878-massive-warfare-aftermath.json](./347878-massive-warfare-aftermath.json) |
 | Mastema: Out of Hell | 29424 | [29424-mastema-out-of-hell.json](./29424-mastema-out-of-hell.json) |
+| Master Alchemist Simulator | 396522 | [396522-master-alchemist-simulator.json](./396522-master-alchemist-simulator.json) |
 | Master Archer | 185544 | [185544-master-archer.json](./185544-master-archer.json) |
 | Master Arena | 97280 | [97280-master-arena.json](./97280-master-arena.json) |
 | Master Bass | 267344 | [267344-master-bass.json](./267344-master-bass.json) |
@@ -4187,6 +4188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MeowGun: Hell Denizen | 244190 | [244190-meowgun-hell-denizen.json](./244190-meowgun-hell-denizen.json) |
 | Meowingtons Simulator | 326384 | [326384-meowingtons-simulator.json](./326384-meowingtons-simulator.json) |
 | Meowk and Frocco | 118799 | [118799-meowk-and-frocco.json](./118799-meowk-and-frocco.json) |
+| Meowker: Desktop Cat Companion | 396494 | [396494-meowker-desktop-cat-companion.json](./396494-meowker-desktop-cat-companion.json) |
 | MeowMatch | 283724 | [283724-meowmatch.json](./283724-meowmatch.json) |
 | Meowmewbug | 370151 | [370151-meowmewbug.json](./370151-meowmewbug.json) |
 | Meowmories | 406918 | [406918-meowmories.json](./406918-meowmories.json) |
