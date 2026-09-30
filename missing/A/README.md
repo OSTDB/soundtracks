@@ -7915,4 +7915,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azurebreak Heroes | 121560 | [121560-azurebreak-heroes.json](./121560-azurebreak-heroes.json) |
 | Azurian Attack | 46771 | [46771-azurian-attack.json](./46771-azurian-attack.json) |
 | Azurik: Rise of Perathia | 5733 | [5733-azurik-rise-of-perathia.json](./5733-azurik-rise-of-perathia.json) |
+| Azusa RP Online | 114790 | [114790-azusa-rp-online.json](./114790-azusa-rp-online.json) |
 | AZZL | 101964 | [101964-azzl.json](./101964-azzl.json) |
