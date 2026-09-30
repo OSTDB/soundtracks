@@ -9121,6 +9121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Operation | 273661 | [273661-space-operation.json](./273661-space-operation.json) |
 | Space Ops Arcade | 285480 | [285480-space-ops-arcade.json](./285480-space-ops-arcade.json) |
 | Space Ops VR | 117705 | [117705-space-ops-vr.json](./117705-space-ops-vr.json) |
+| Space Orb | 105014 | [105014-space-orb.json](./105014-space-orb.json) |
 | Space Out | 195166 | [195166-space-out.json](./195166-space-out.json) |
 | Space Out | 72627 | [72627-space-out.json](./72627-space-out.json) |
 | Space Papers: Planet's Border | 277840 | [277840-space-papers-planets-border.json](./277840-space-papers-planets-border.json) |
@@ -9314,6 +9315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceborne Fighters | 392141 | [392141-spaceborne-fighters.json](./392141-spaceborne-fighters.json) |
 | Spaceborne Survivors | 294268 | [294268-spaceborne-survivors.json](./294268-spaceborne-survivors.json) |
 | Spacebound | 95397 | [95397-spacebound.json](./95397-spacebound.json) |
+| Spacebourne | 105193 | [105193-spacebourne.json](./105193-spacebourne.json) |
 | SpaceBullet | 115807 | [115807-spacebullet.json](./115807-spacebullet.json) |
 | Spacecats with Lasers | 36531 | [36531-spacecats-with-lasers.json](./36531-spacecats-with-lasers.json) |
 | Spacecats with Lasers VR | 30262 | [30262-spacecats-with-lasers-vr.json](./30262-spacecats-with-lasers-vr.json) |
@@ -11976,6 +11978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steamry | 365678 | [365678-steamry.json](./365678-steamry.json) |
 | SteamSaga: Cerulia | 62799 | [62799-steamsaga-cerulia.json](./62799-steamsaga-cerulia.json) |
 | SteamStar | 305949 | [305949-steamstar.json](./305949-steamstar.json) |
+| Steamulator 2019 | 105102 | [105102-steamulator-2019.json](./105102-steamulator-2019.json) |
 | SteamWorld Build & Dig Bundle | 279037 | [279037-steamworld-build-and-dig-bundle.json](./279037-steamworld-build-and-dig-bundle.json) |
 | SteamWorld Dig | 5772 | [5772-steamworld-dig.json](./5772-steamworld-dig.json) |
 | SteamWorld Dig 2 | 27433 | [27433-steamworld-dig-2.json](./27433-steamworld-dig-2.json) |
@@ -16400,6 +16403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords and Souls | 58741 | [58741-swords-and-souls.json](./58741-swords-and-souls.json) |
 | Swords Fantasy: Battlefield | 192450 | [192450-swords-fantasy-battlefield.json](./192450-swords-fantasy-battlefield.json) |
 | Swords of Destiny | 23007 | [23007-swords-of-destiny.json](./23007-swords-of-destiny.json) |
+| Swords of Gargantua | 103277 | [103277-swords-of-gargantua.json](./103277-swords-of-gargantua.json) |
 | Swords of Glass | 2887 | [2887-swords-of-glass.json](./2887-swords-of-glass.json) |
 | Swords of Legends 3 | 107205 | [107205-swords-of-legends-3.json](./107205-swords-of-legends-3.json) |
 | Swords of Time | 166761 | [166761-swords-of-time.json](./166761-swords-of-time.json) |
