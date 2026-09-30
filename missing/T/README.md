@@ -830,6 +830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamas: Shadowveil | 410963 | [410963-tamas-shadowveil.json](./410963-tamas-shadowveil.json) |
 | Tamashi Party | 196673 | [196673-tamashi-party.json](./196673-tamashi-party.json) |
 | Tamashi: Rise of Yokai | 196586 | [196586-tamashi-rise-of-yokai.json](./196586-tamashi-rise-of-yokai.json) |
+| Tamashika | 329975 | [329975-tamashika.json](./329975-tamashika.json) |
 | TamaTown Tama-Go | 229958 | [229958-tamatown-tama-go.json](./229958-tamatown-tama-go.json) |
 | Tamaweb | 383530 | [383530-tamaweb.json](./383530-tamaweb.json) |
 | Tamaya | 55113 | [55113-tamaya.json](./55113-tamaya.json) |
@@ -990,6 +991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TankCraft | 31193 | [31193-tankcraft.json](./31193-tankcraft.json) |
 | Tanked Out! | 270107 | [270107-tanked-out.json](./270107-tanked-out.json) |
 | Tankette | 207282 | [207282-tankette.json](./207282-tankette.json) |
+| TankHead | 324944 | [324944-tankhead.json](./324944-tankhead.json) |
 | Tanki X | 29163 | [29163-tanki-x.json](./29163-tanki-x.json) |
 | Tanking Tanks | 112375 | [112375-tanking-tanks.json](./112375-tanking-tanks.json) |
 | Tankitos | 201788 | [201788-tankitos.json](./201788-tankitos.json) |
@@ -1615,8 +1617,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Shredder's Revenge - Limited Edition | 207919 | [207919-teenage-mutant-ninja-turtles-shredders-revenge-limited-edition.json](./207919-teenage-mutant-ninja-turtles-shredders-revenge-limited-edition.json) |
 | Teenage Mutant Ninja Turtles: Shredder's Revenge - Radical Reptiles | 317624 | [317624-teenage-mutant-ninja-turtles-shredders-revenge-radical-reptiles.json](./317624-teenage-mutant-ninja-turtles-shredders-revenge-radical-reptiles.json) |
 | Teenage Mutant Ninja Turtles: Smash-Up | 326787 | [326787-teenage-mutant-ninja-turtles-smash-up.json](./326787-teenage-mutant-ninja-turtles-smash-up.json) |
+| Teenage Mutant Ninja Turtles: Splintered Fate - Casey Jones & the Junkyard Jam | 329839 | [329839-teenage-mutant-ninja-turtles-splintered-fate-casey-jones-and-the-junkyard-jam.json](./329839-teenage-mutant-ninja-turtles-splintered-fate-casey-jones-and-the-junkyard-jam.json) |
 | Teenage Mutant Ninja Turtles: Splintered Fate - Deluxe Edition | 351134 | [351134-teenage-mutant-ninja-turtles-splintered-fate-deluxe-edition.json](./351134-teenage-mutant-ninja-turtles-splintered-fate-deluxe-edition.json) |
 | Teenage Mutant Ninja Turtles: Splintered Fate - Metalhead Character DLC | 395232 | [395232-teenage-mutant-ninja-turtles-splintered-fate-metalhead-character-dlc.json](./395232-teenage-mutant-ninja-turtles-splintered-fate-metalhead-character-dlc.json) |
+| Teenage Mutant Ninja Turtles: Tactical Takedown | 324571 | [324571-teenage-mutant-ninja-turtles-tactical-takedown.json](./324571-teenage-mutant-ninja-turtles-tactical-takedown.json) |
 | Teenage Mutant Ninja Turtles: The HyperStone Heist | 4404 | [4404-teenage-mutant-ninja-turtles-the-hyperstone-heist.json](./4404-teenage-mutant-ninja-turtles-the-hyperstone-heist.json) |
 | Teenage Mutant Ninja Turtles: The Ninja Tribunal | 146242 | [146242-teenage-mutant-ninja-turtles-the-ninja-tribunal.json](./146242-teenage-mutant-ninja-turtles-the-ninja-tribunal.json) |
 | Teenage Mutant Ninja Turtles: Tournament Fighters | 134079 | [134079-teenage-mutant-ninja-turtles-tournament-fighters.json](./134079-teenage-mutant-ninja-turtles-tournament-fighters.json) |
@@ -3585,6 +3589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crows | 326985 | [326985-the-crows.json](./326985-the-crows.json) |
 | The Cruel Dreamer Marchosias | 187393 | [187393-the-cruel-dreamer-marchosias.json](./187393-the-cruel-dreamer-marchosias.json) |
 | The Cruel kings | 166629 | [166629-the-cruel-kings.json](./166629-the-cruel-kings.json) |
+| The Crush House | 295636 | [295636-the-crush-house.json](./295636-the-crush-house.json) |
 | The Crust: Supporter Pack | 400874 | [400874-the-crust-supporter-pack.json](./400874-the-crust-supporter-pack.json) |
 | The Crypt of Treasure | 219551 | [219551-the-crypt-of-treasure.json](./219551-the-crypt-of-treasure.json) |
 | The Crypt Terror | 231516 | [231516-the-crypt-terror.json](./231516-the-crypt-terror.json) |
@@ -7557,6 +7562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 2: Apartment Life | 5538 | [5538-the-sims-2-apartment-life.json](./5538-the-sims-2-apartment-life.json) |
 | The Sims 2: Bon Voyage | 5536 | [5536-the-sims-2-bon-voyage.json](./5536-the-sims-2-bon-voyage.json) |
 | The Sims 2: Castaway | 192908 | [192908-the-sims-2-castaway.json](./192908-the-sims-2-castaway.json) |
+| The Sims 2: Legacy Collection | 329955 | [329955-the-sims-2-legacy-collection.json](./329955-the-sims-2-legacy-collection.json) |
 | The Sims 2: OMGWTFBBQ | 349499 | [349499-the-sims-2-omgwtfbbq.json](./349499-the-sims-2-omgwtfbbq.json) |
 | The Sims 2: Pets | 225 | [225-the-sims-2-pets.json](./225-the-sims-2-pets.json) |
 | The Sims 2: Pets | 286683 | [286683-the-sims-2-pets.json](./286683-the-sims-2-pets.json) |
@@ -8039,6 +8045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Talos Principle III | 401496 | [401496-the-talos-principle-iii.json](./401496-the-talos-principle-iii.json) |
 | The Talos Principle VR | 36775 | [36775-the-talos-principle-vr.json](./36775-the-talos-principle-vr.json) |
 | The Talos Principle: Gold Edition | 53774 | [53774-the-talos-principle-gold-edition.json](./53774-the-talos-principle-gold-edition.json) |
+| The Talos Principle: Reawakened | 324927 | [324927-the-talos-principle-reawakened.json](./324927-the-talos-principle-reawakened.json) |
 | The Talosian Incident | 313839 | [313839-the-talosian-incident.json](./313839-the-talosian-incident.json) |
 | The Tangled Tapestry | 364681 | [364681-the-tangled-tapestry.json](./364681-the-tangled-tapestry.json) |
 | The Tarkiff Transfer Incident | 231370 | [231370-the-tarkiff-transfer-incident.json](./231370-the-tarkiff-transfer-incident.json) |
@@ -11287,6 +11294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toe to Toe: Party Games | 196237 | [196237-toe-to-toe-party-games.json](./196237-toe-to-toe-party-games.json) |
 | Toeic Test DS Training | 124095 | [124095-toeic-test-ds-training.json](./124095-toeic-test-ds-training.json) |
 | ToeJam & Earl in Panic on Funkotron | 11123 | [11123-toejam-and-earl-in-panic-on-funkotron.json](./11123-toejam-and-earl-in-panic-on-funkotron.json) |
+| Toem 2 | 325182 | [325182-toem-2.json](./325182-toem-2.json) |
 | Toewr le Fence | 157143 | [157143-toewr-le-fence.json](./157143-toewr-le-fence.json) |
 | Tofu Dream | 358734 | [358734-tofu-dream.json](./358734-tofu-dream.json) |
 | Tofu Drifter | 234600 | [234600-tofu-drifter.json](./234600-tofu-drifter.json) |
