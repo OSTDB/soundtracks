@@ -1628,6 +1628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marby Baby Story | 143668 | [143668-marby-baby-story.json](./143668-marby-baby-story.json) |
 | Marc Ecko's Getting Up | 386410 | [386410-marc-eckos-getting-up.json](./386410-marc-eckos-getting-up.json) |
 | Marce | 383531 | [383531-marce.json](./383531-marce.json) |
+| Marceline Richenwinnier: Old Story | 393746 | [393746-marceline-richenwinnier-old-story.json](./393746-marceline-richenwinnier-old-story.json) |
 | Marcella Moon: Curse of the Black Cat | 149413 | [149413-marcella-moon-curse-of-the-black-cat.json](./149413-marcella-moon-curse-of-the-black-cat.json) |
 | Marcella Moon: Killer at the Cove | 264024 | [264024-marcella-moon-killer-at-the-cove.json](./264024-marcella-moon-killer-at-the-cove.json) |
 | Marcella Moon: The Phantom of Harvest Grove | 373762 | [373762-marcella-moon-the-phantom-of-harvest-grove.json](./373762-marcella-moon-the-phantom-of-harvest-grove.json) |
@@ -8046,6 +8047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Móshòu Shìjiè: Èmó Lièrén | 252361 | [252361-moshou-shijie-emo-lieren.json](./252361-moshou-shijie-emo-lieren.json) |
 | Mosquiturros | 379040 | [379040-mosquiturros.json](./379040-mosquiturros.json) |
 | Moss Destruction | 103431 | [103431-moss-destruction.json](./103431-moss-destruction.json) |
+| Moss Moss | 393732 | [393732-moss-moss.json](./393732-moss-moss.json) |
 | Moss Palace Parade | 406118 | [406118-moss-palace-parade.json](./406118-moss-palace-parade.json) |
 | Moss: Becoming Human | 337448 | [337448-moss-becoming-human.json](./337448-moss-becoming-human.json) |
 | Moss: Book II | 154839 | [154839-moss-book-ii.json](./154839-moss-book-ii.json) |
@@ -9362,6 +9364,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Heart Grows Fonder | 117653 | [117653-my-heart-grows-fonder.json](./117653-my-heart-grows-fonder.json) |
 | My Heaven's Dale | 343267 | [343267-my-heavens-dale.json](./343267-my-heavens-dale.json) |
 | My Helpers | 399841 | [399841-my-helpers.json](./399841-my-helpers.json) |
+| My Hero Academia All's Justice: 1-A Idol Costume Pack | 393714 | [393714-my-hero-academia-alls-justice-1-a-idol-costume-pack.json](./393714-my-hero-academia-alls-justice-1-a-idol-costume-pack.json) |
+| My Hero Academia All's Justice: 20 Costumes Pack | 393720 | [393720-my-hero-academia-alls-justice-20-costumes-pack.json](./393720-my-hero-academia-alls-justice-20-costumes-pack.json) |
+| My Hero Academia All's Justice: 7 HUD Banners Set | 393715 | [393715-my-hero-academia-alls-justice-7-hud-banners-set.json](./393715-my-hero-academia-alls-justice-7-hud-banners-set.json) |
+| My Hero Academia All's Justice: Opera Costume Pack | 393719 | [393719-my-hero-academia-alls-justice-opera-costume-pack.json](./393719-my-hero-academia-alls-justice-opera-costume-pack.json) |
+| My Hero Academia All's Justice: Playable Character Star and Stripe | 393721 | [393721-my-hero-academia-alls-justice-playable-character-star-and-stripe.json](./393721-my-hero-academia-alls-justice-playable-character-star-and-stripe.json) |
+| My Hero Academia All's Justice: School Uniform: Himiko Toga | 393718 | [393718-my-hero-academia-alls-justice-school-uniform-himiko-toga.json](./393718-my-hero-academia-alls-justice-school-uniform-himiko-toga.json) |
+| My Hero Academia All's Justice: Season Pass | 393723 | [393723-my-hero-academia-alls-justice-season-pass.json](./393723-my-hero-academia-alls-justice-season-pass.json) |
 | My Hero Academia: All's Justice - DLC Character 4 | 414446 | [414446-my-hero-academia-alls-justice-dlc-character-4.json](./414446-my-hero-academia-alls-justice-dlc-character-4.json) |
 | My Hero Academia: All's Justice - DLC Character 5 | 414447 | [414447-my-hero-academia-alls-justice-dlc-character-5.json](./414447-my-hero-academia-alls-justice-dlc-character-5.json) |
 | My Hero Academia: All's Justice - Playable Character Izuku Midoriya Overlay Full Style | 414448 | [414448-my-hero-academia-alls-justice-playable-character-izuku-midoriya-overlay-full-style.json](./414448-my-hero-academia-alls-justice-playable-character-izuku-midoriya-overlay-full-style.json) |
