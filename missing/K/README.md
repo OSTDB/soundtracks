@@ -2847,6 +2847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuzgakai's Dungeon | 215794 | [215794-kuzgakais-dungeon.json](./215794-kuzgakais-dungeon.json) |
 | Kwaan | 36092 | [36092-kwaan.json](./36092-kwaan.json) |
 | Kwalasha | 349870 | [349870-kwalasha.json](./349870-kwalasha.json) |
+| Kwari | 21544 | [21544-kwari.json](./21544-kwari.json) |
 | Kwark | 270137 | [270137-kwark.json](./270137-kwark.json) |
 | Kwark: Online and Multiplayer | 298129 | [298129-kwark-online-and-multiplayer.json](./298129-kwark-online-and-multiplayer.json) |
 | Kwartikum | 387654 | [387654-kwartikum.json](./387654-kwartikum.json) |
