@@ -4535,6 +4535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forgotten Forest | 34276 | [34276-the-forgotten-forest.json](./34276-the-forgotten-forest.json) |
 | The Forgotten Level | 271763 | [271763-the-forgotten-level.json](./271763-the-forgotten-level.json) |
 | The Forgotten Ones | 17656 | [17656-the-forgotten-ones.json](./17656-the-forgotten-ones.json) |
+| The Forgotten Ones | 419850 | [419850-the-forgotten-ones.json](./419850-the-forgotten-ones.json) |
 | The Forgotten Phobia | 170547 | [170547-the-forgotten-phobia.json](./170547-the-forgotten-phobia.json) |
 | The Forgotten Sprites | 87986 | [87986-the-forgotten-sprites.json](./87986-the-forgotten-sprites.json) |
 | The Forgotten Tapes: Analog Nightmares | 231353 | [231353-the-forgotten-tapes-analog-nightmares.json](./231353-the-forgotten-tapes-analog-nightmares.json) |
@@ -5241,6 +5242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Island Castaway: Lost World | 107264 | [107264-the-island-castaway-lost-world.json](./107264-the-island-castaway-lost-world.json) |
 | The Island of Bad Women | 360082 | [360082-the-island-of-bad-women.json](./360082-the-island-of-bad-women.json) |
 | The Island of Lost Hope | 73528 | [73528-the-island-of-lost-hope.json](./73528-the-island-of-lost-hope.json) |
+| The Island of Robot Poets | 419870 | [419870-the-island-of-robot-poets.json](./419870-the-island-of-robot-poets.json) |
 | The Island Rescue | 236005 | [236005-the-island-rescue.json](./236005-the-island-rescue.json) |
 | The Island: Escape Room | 289992 | [289992-the-island-escape-room.json](./289992-the-island-escape-room.json) |
 | The Island: King's Order | 164443 | [164443-the-island-kings-order.json](./164443-the-island-kings-order.json) |
@@ -9678,6 +9680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiān Yuán Chuánshuō | 407320 | [407320-tian-yuan-chuanshuo.json](./407320-tian-yuan-chuanshuo.json) |
 | Tiana Saves Xmas | 233077 | [233077-tiana-saves-xmas.json](./233077-tiana-saves-xmas.json) |
 | Tiana's Fishing Diary | 390640 | [390640-tianas-fishing-diary.json](./390640-tianas-fishing-diary.json) |
+| Tiandao | 419957 | [419957-tiandao.json](./419957-tiandao.json) |
 | Tiāndào: Gōngdé Chāojí Bāo | 347223 | [347223-tiandao-gongde-chaoji-bao.json](./347223-tiandao-gongde-chaoji-bao.json) |
 | Tiāndào: Gōngdé Dà Lǐ Bāo | 347224 | [347224-tiandao-gongde-da-li-bao.json](./347224-tiandao-gongde-da-li-bao.json) |
 | Tianlao Sokoban | 107820 | [107820-tianlao-sokoban.json](./107820-tianlao-sokoban.json) |
