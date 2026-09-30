@@ -928,6 +928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong on the Beach | 305195 | [305195-mahjong-on-the-beach.json](./305195-mahjong-on-the-beach.json) |
 | Mahjong Ou Densetsu | 91932 | [91932-mahjong-ou-densetsu.json](./91932-mahjong-ou-densetsu.json) |
 | Mahjong Party Pack | 268203 | [268203-mahjong-party-pack.json](./268203-mahjong-party-pack.json) |
+| Mahjong Pretty Manga Girls | 105105 | [105105-mahjong-pretty-manga-girls.json](./105105-mahjong-pretty-manga-girls.json) |
 | Mahjong Realms | 336012 | [336012-mahjong-realms.json](./336012-mahjong-realms.json) |
 | Mahjong Roadshow | 29205 | [29205-mahjong-roadshow.json](./29205-mahjong-roadshow.json) |
 | Mahjong Route | 355207 | [355207-mahjong-route.json](./355207-mahjong-route.json) |
@@ -4231,6 +4232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meridian: Squad 22 | 20453 | [20453-meridian-squad-22.json](./20453-meridian-squad-22.json) |
 | Meridiana: A demon's madness | 197263 | [197263-meridiana-a-demons-madness.json](./197263-meridiana-a-demons-madness.json) |
 | Meritaton | 365306 | [365306-meritaton.json](./365306-meritaton.json) |
+| Meritocracy of the Oni & Blade | 105216 | [105216-meritocracy-of-the-oni-and-blade.json](./105216-meritocracy-of-the-oni-and-blade.json) |
 | Merlin | 50034 | [50034-merlin.json](./50034-merlin.json) |
 | Merlin 64 | 47242 | [47242-merlin-64.json](./47242-merlin-64.json) |
 | Merlin Adventurer Store | 26490 | [26490-merlin-adventurer-store.json](./26490-merlin-adventurer-store.json) |
@@ -4669,6 +4671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mia's Science Adventure: Romaine's New Hat | 381689 | [381689-mias-science-adventure-romaines-new-hat.json](./381689-mias-science-adventure-romaines-new-hat.json) |
 | Miageta Sora ni Ochiteiku | 60052 | [60052-miageta-sora-ni-ochiteiku.json](./60052-miageta-sora-ni-ochiteiku.json) |
 | Miai Kekkon Shita Osanazuma ga Otoko no Ko Datta Ken | 59046 | [59046-miai-kekkon-shita-osanazuma-ga-otoko-no-ko-datta-ken.json](./59046-miai-kekkon-shita-osanazuma-ga-otoko-no-ko-datta-ken.json) |
+| Miami Cruise | 105087 | [105087-miami-cruise.json](./105087-miami-cruise.json) |
 | Miami Horizon 2077 | 238735 | [238735-miami-horizon-2077.json](./238735-miami-horizon-2077.json) |
 | Miami Law | 20281 | [20281-miami-law.json](./20281-miami-law.json) |
 | Miami Nights: Bartending in the 80s | 312138 | [312138-miami-nights-bartending-in-the-80s.json](./312138-miami-nights-bartending-in-the-80s.json) |
@@ -6579,6 +6582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modular | 348442 | [348442-modular.json](./348442-modular.json) |
 | Modulate | 61733 | [61733-modulate.json](./61733-modulate.json) |
 | Module | 372651 | [372651-module.json](./372651-module.json) |
+| Module TD. Sci Fi Tower Defense | 103350 | [103350-module-td-sci-fi-tower-defense.json](./103350-module-td-sci-fi-tower-defense.json) |
 | Moduwar | 109753 | [109753-moduwar.json](./109753-moduwar.json) |
 | Moe | 113853 | [113853-moe.json](./113853-moe.json) |
 | MOE Emo Girls Multiplayer | 300373 | [300373-moe-emo-girls-multiplayer.json](./300373-moe-emo-girls-multiplayer.json) |
@@ -7532,6 +7536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MoonMan Adventures | 305923 | [305923-moonman-adventures.json](./305923-moonman-adventures.json) |
 | Moonmist | 12448 | [12448-moonmist.json](./12448-moonmist.json) |
 | MoonPong: Tales of Epic Lunacy | 213376 | [213376-moonpong-tales-of-epic-lunacy.json](./213376-moonpong-tales-of-epic-lunacy.json) |
+| MoonQuest | 105112 | [105112-moonquest.json](./105112-moonquest.json) |
 | Moonray | 133362 | [133362-moonray.json](./133362-moonray.json) |
 | Moonray: Battle Lands | 368045 | [368045-moonray-battle-lands.json](./368045-moonray-battle-lands.json) |
 | Moonring | 266774 | [266774-moonring.json](./266774-moonring.json) |
@@ -8601,6 +8606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multirotor Sim 2 | 81234 | [81234-multirotor-sim-2.json](./81234-multirotor-sim-2.json) |
 | Multishop Tycoon Deluxe | 30031 | [30031-multishop-tycoon-deluxe.json](./30031-multishop-tycoon-deluxe.json) |
 | Multitasking Skills Desired | 404448 | [404448-multitasking-skills-desired.json](./404448-multitasking-skills-desired.json) |
+| MultiTaskMaster | 105205 | [105205-multitaskmaster.json](./105205-multitaskmaster.json) |
 | Multiversal Affairs | 270157 | [270157-multiversal-affairs.json](./270157-multiversal-affairs.json) |
 | Multiverse Go | 253897 | [253897-multiverse-go.json](./253897-multiverse-go.json) |
 | Multiverse Idle | 390632 | [390632-multiverse-idle.json](./390632-multiverse-idle.json) |
