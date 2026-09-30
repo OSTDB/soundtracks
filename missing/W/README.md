@@ -2086,6 +2086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whiskey Island | 148467 | [148467-whiskey-island.json](./148467-whiskey-island.json) |
 | Whiskey Mafia: Leo's Family | 133141 | [133141-whiskey-mafia-leos-family.json](./133141-whiskey-mafia-leos-family.json) |
 | Whiskey-Four | 338373 | [338373-whiskey-four.json](./338373-whiskey-four.json) |
+| Whismie | 394472 | [394472-whismie.json](./394472-whismie.json) |
 | Whisper | 132706 | [132706-whisper.json](./132706-whisper.json) |
 | Whisper Forest | 304611 | [304611-whisper-forest.json](./304611-whisper-forest.json) |
 | Whisper Of The Curse | 287706 | [287706-whisper-of-the-curse.json](./287706-whisper-of-the-curse.json) |
