@@ -475,6 +475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offline Games | 336389 | [336389-offline-games.json](./336389-offline-games.json) |
 | OffRoad | 85839 | [85839-offroad.json](./85839-offroad.json) |
 | Offroad Arcade | 389981 | [389981-offroad-arcade.json](./389981-offroad-arcade.json) |
+| Offroad Craft Runner 4x4 Simulator | 403747 | [403747-offroad-craft-runner-4x4-simulator.json](./403747-offroad-craft-runner-4x4-simulator.json) |
 | Offroad Delivery Service | 216979 | [216979-offroad-delivery-service.json](./216979-offroad-delivery-service.json) |
 | OffRoad Drive Desert | 90087 | [90087-offroad-drive-desert.json](./90087-offroad-drive-desert.json) |
 | Offroad Driving Simulator 4x4: Trucks & SUV Trophy | 147933 | [147933-offroad-driving-simulator-4x4-trucks-and-suv-trophy.json](./147933-offroad-driving-simulator-4x4-trucks-and-suv-trophy.json) |
@@ -2006,6 +2007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ORM | 253889 | [253889-orm.json](./253889-orm.json) |
 | Orna | 105733 | [105733-orna.json](./105733-orna.json) |
 | Ornament Tower | 404393 | [404393-ornament-tower.json](./404393-ornament-tower.json) |
+| Ornélia | 403776 | [403776-ornelia.json](./403776-ornelia.json) |
 | Ororo | 404983 | [404983-ororo.json](./404983-ororo.json) |
 | Orphan Black: The Game | 27724 | [27724-orphan-black-the-game.json](./27724-orphan-black-the-game.json) |
 | Orphan Feast | 306962 | [306962-orphan-feast.json](./306962-orphan-feast.json) |
