@@ -4460,6 +4460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gruniożerca 3: The Great Cavy Clean-Up | 308402 | [308402-gruniozerca-3-the-great-cavy-clean-up.json](./308402-gruniozerca-3-the-great-cavy-clean-up.json) |
 | Gruniożerca Trilogy | 371253 | [371253-gruniozerca-trilogy.json](./371253-gruniozerca-trilogy.json) |
 | Grunn | 281353 | [281353-grunn.json](./281353-grunn.json) |
+| Grunt1914 | 117398 | [117398-grunt1914.json](./117398-grunt1914.json) |
 | GSIII: Combat Flight Simulator - Heroes of the MIG Alley | 97914 | [97914-gsiii-combat-flight-simulator-heroes-of-the-mig-alley.json](./97914-gsiii-combat-flight-simulator-heroes-of-the-mig-alley.json) |
 | GT 24 | 210726 | [210726-gt-24.json](./210726-gt-24.json) |
 | GT 64: Championship Edition | 3375 | [3375-gt-64-championship-edition.json](./3375-gt-64-championship-edition.json) |
