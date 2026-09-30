@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyronia 2 | 137691 | [137691-labyronia-2.json](./137691-labyronia-2.json) |
 | Labyronia RPG | 34725 | [34725-labyronia-rpg.json](./34725-labyronia-rpg.json) |
 | Labyronia RPG 2 | 34593 | [34593-labyronia-rpg-2.json](./34593-labyronia-rpg-2.json) |
+| Lac-Pochette Centennial | 398508 | [398508-lac-pochette-centennial.json](./398508-lac-pochette-centennial.json) |
 | Lacerta | 323542 | [323542-lacerta.json](./323542-lacerta.json) |
 | Lacey's Flash Games | 334698 | [334698-laceys-flash-games.json](./334698-laceys-flash-games.json) |
 | Lackgirl I: Astra Inclinant, sed Non Obligant. | 243225 | [243225-lackgirl-i-astra-inclinant-sed-non-obligant.json](./243225-lackgirl-i-astra-inclinant-sed-non-obligant.json) |
@@ -865,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lawnmower Game: Space Fight | 188954 | [188954-lawnmower-game-space-fight.json](./188954-lawnmower-game-space-fight.json) |
 | Lawnmower Game: Space Race | 225605 | [225605-lawnmower-game-space-race.json](./225605-lawnmower-game-space-race.json) |
 | Lawnmower Maniac | 385874 | [385874-lawnmower-maniac.json](./385874-lawnmower-maniac.json) |
+| Lawnmower Runner | 398505 | [398505-lawnmower-runner.json](./398505-lawnmower-runner.json) |
 | LawnMower: Mortal Race | 219284 | [219284-lawnmower-mortal-race.json](./219284-lawnmower-mortal-race.json) |
 | Lawnpocalypse | 379370 | [379370-lawnpocalypse.json](./379370-lawnpocalypse.json) |
 | Laws of Machine | 96865 | [96865-laws-of-machine.json](./96865-laws-of-machine.json) |
