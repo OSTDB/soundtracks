@@ -2024,6 +2024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knick Knack Stack | 400351 | [400351-knick-knack-stack.json](./400351-knick-knack-stack.json) |
 | Knife Aim Hit: Throwing Games | 235297 | [235297-knife-aim-hit-throwing-games.json](./235297-knife-aim-hit-throwing-games.json) |
 | Knife Club VR | 68607 | [68607-knife-club-vr.json](./68607-knife-club-vr.json) |
+| Knife Dash | 87055 | [87055-knife-dash.json](./87055-knife-dash.json) |
 | Knife Flip - Hit Geometry Cube | 104666 | [104666-knife-flip-hit-geometry-cube.json](./104666-knife-flip-hit-geometry-cube.json) |
 | Knife Flipping | 101334 | [101334-knife-flipping.json](./101334-knife-flipping.json) |
 | Knife road | 122434 | [122434-knife-road.json](./122434-knife-road.json) |
