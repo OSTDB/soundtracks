@@ -2492,6 +2492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find My Weiner | 292292 | [292292-find-my-weiner.json](./292292-find-my-weiner.json) |
 | Find Oann | 335368 | [335368-find-oann.json](./335368-find-oann.json) |
 | Find Objects | 163203 | [163203-find-objects.json](./163203-find-objects.json) |
+| Find Out | 33490 | [33490-find-out.json](./33490-find-out.json) |
 | Find Pairs | 246490 | [246490-find-pairs.json](./246490-find-pairs.json) |
 | Find Pixel | 74998 | [74998-find-pixel.json](./74998-find-pixel.json) |
 | Find Room 96 | 291457 | [291457-find-room-96.json](./291457-find-room-96.json) |
