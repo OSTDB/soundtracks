@@ -8725,6 +8725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Adventure | 100187 | [100187-space-adventure.json](./100187-space-adventure.json) |
 | Space Adventure | 297239 | [297239-space-adventure.json](./297239-space-adventure.json) |
 | Space Adventure | 390112 | [390112-space-adventure.json](./390112-space-adventure.json) |
+| Space Adventure Cobra: The Awakening | 317082 | [317082-space-adventure-cobra-the-awakening.json](./317082-space-adventure-cobra-the-awakening.json) |
 | Space Adventure Cobra: The Shooting | 75735 | [75735-space-adventure-cobra-the-shooting.json](./75735-space-adventure-cobra-the-shooting.json) |
 | Space Adventure Laika | 128634 | [128634-space-adventure-laika.json](./128634-space-adventure-laika.json) |
 | Space Adventure Zodiac | 406168 | [406168-space-adventure-zodiac.json](./406168-space-adventure-zodiac.json) |
@@ -11214,6 +11215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Episode I - Battle for Naboo | 156 | [156-star-wars-episode-i-battle-for-naboo.json](./156-star-wars-episode-i-battle-for-naboo.json) |
 | Star Wars: Episode I - Battle Tank Attack | 198920 | [198920-star-wars-episode-i-battle-tank-attack.json](./198920-star-wars-episode-i-battle-tank-attack.json) |
 | Star Wars: Episode I - Electronic Sith Infiltrator Pen Game | 198921 | [198921-star-wars-episode-i-electronic-sith-infiltrator-pen-game.json](./198921-star-wars-episode-i-electronic-sith-infiltrator-pen-game.json) |
+| Star Wars: Episode I - Jedi Power Battles | 319362 | [319362-star-wars-episode-i-jedi-power-battles.json](./319362-star-wars-episode-i-jedi-power-battles.json) |
 | Star Wars: Episode I - Naboo Defense | 198914 | [198914-star-wars-episode-i-naboo-defense.json](./198914-star-wars-episode-i-naboo-defense.json) |
 | Star Wars: Episode I - Naboo Escape | 198913 | [198913-star-wars-episode-i-naboo-escape.json](./198913-star-wars-episode-i-naboo-escape.json) |
 | Star Wars: Episode I - Podrace Challenge Game | 198915 | [198915-star-wars-episode-i-podrace-challenge-game.json](./198915-star-wars-episode-i-podrace-challenge-game.json) |
