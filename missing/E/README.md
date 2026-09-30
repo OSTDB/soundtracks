@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Defense Force: World Brothers 2 - Humanity Dominates!? Air Raider (EDF6) Up & Coming: Reskin | 325433 | [325433-earth-defense-force-world-brothers-2-humanity-dominates-air-raider-edf6-up-and-coming-reskin.json](./325433-earth-defense-force-world-brothers-2-humanity-dominates-air-raider-edf6-up-and-coming-reskin.json) |
 | Earth Defense Forces 2 Portable | 42835 | [42835-earth-defense-forces-2-portable.json](./42835-earth-defense-forces-2-portable.json) |
 | Earth Eternal | 67668 | [67668-earth-eternal.json](./67668-earth-eternal.json) |
+| Earth Forge | 405628 | [405628-earth-forge.json](./405628-earth-forge.json) |
 | Earth Impact | 99135 | [99135-earth-impact.json](./99135-earth-impact.json) |
 | Earth Invasion | 72085 | [72085-earth-invasion.json](./72085-earth-invasion.json) |
 | Earth Invasion 99 | 354641 | [354641-earth-invasion-99.json](./354641-earth-invasion-99.json) |
