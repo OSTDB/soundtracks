@@ -1898,6 +1898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadsigns | 149043 | [149043-deadsigns.json](./149043-deadsigns.json) |
 | Deadstone | 17916 | [17916-deadstone.json](./17916-deadstone.json) |
 | Deadstorm Pirates | 39788 | [39788-deadstorm-pirates.json](./39788-deadstorm-pirates.json) |
+| DeadStuck | 401720 | [401720-deadstuck.json](./401720-deadstuck.json) |
 | DeadTruth: The Dark Path Ahead | 30110 | [30110-deadtruth-the-dark-path-ahead.json](./30110-deadtruth-the-dark-path-ahead.json) |
 | Deadwar: Old Lies | 94730 | [94730-deadwar-old-lies.json](./94730-deadwar-old-lies.json) |
 | Deadwater Saloon | 190136 | [190136-deadwater-saloon.json](./190136-deadwater-saloon.json) |
@@ -2014,6 +2015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Game Hotel | 251554 | [251554-death-game-hotel.json](./251554-death-game-hotel.json) |
 | Death Goat | 19873 | [19873-death-goat.json](./19873-death-goat.json) |
 | Death Hall | 116377 | [116377-death-hall.json](./116377-death-hall.json) |
+| Death Howl: Deluxe Edition | 401737 | [401737-death-howl-deluxe-edition.json](./401737-death-howl-deluxe-edition.json) |
 | Death Imminent | 379014 | [379014-death-imminent.json](./379014-death-imminent.json) |
 | Death in a Party | 381738 | [381738-death-in-a-party.json](./381738-death-in-a-party.json) |
 | Death In Abyss | 247609 | [247609-death-in-abyss.json](./247609-death-in-abyss.json) |
@@ -3094,6 +3096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dereology Chime | 409782 | [409782-dereology-chime.json](./409782-dereology-chime.json) |
 | Derf Party | 303475 | [303475-derf-party.json](./303475-derf-party.json) |
 | Deriva | 348329 | [348329-deriva.json](./348329-deriva.json) |
+| Deriver | 401714 | [401714-deriver.json](./401714-deriver.json) |
 | Dermapis | 359056 | [359056-dermapis.json](./359056-dermapis.json) |
 | Derpy Dinos | 74433 | [74433-derpy-dinos.json](./74433-derpy-dinos.json) |
 | Derpy Fish | 356078 | [356078-derpy-fish.json](./356078-derpy-fish.json) |
@@ -4234,6 +4237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Eggs | 23928 | [23928-dino-eggs.json](./23928-dino-eggs.json) |
 | Dino Eggs: Rebirth | 33336 | [33336-dino-eggs-rebirth.json](./33336-dino-eggs-rebirth.json) |
 | Dino Evolution: Catch Dinosaurs and Raise Anime Primeval Boys | 401117 | [401117-dino-evolution-catch-dinosaurs-and-raise-anime-primeval-boys.json](./401117-dino-evolution-catch-dinosaurs-and-raise-anime-primeval-boys.json) |
+| Dino Evolution: Catch Dinosaurs and Raise Anime Primeval Girls | 401722 | [401722-dino-evolution-catch-dinosaurs-and-raise-anime-primeval-girls.json](./401722-dino-evolution-catch-dinosaurs-and-raise-anime-primeval-girls.json) |
 | Dino Fighters | 241975 | [241975-dino-fighters.json](./241975-dino-fighters.json) |
 | Dino Force | 227801 | [227801-dino-force.json](./227801-dino-force.json) |
 | Dino Gaïa | 326060 | [326060-dino-gaia.json](./326060-dino-gaia.json) |
@@ -7155,6 +7159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Doctor | 401819 | [401819-dream-doctor.json](./401819-dream-doctor.json) |
 | Dream Doll Dimension | 201762 | [201762-dream-doll-dimension.json](./201762-dream-doll-dimension.json) |
 | Dream Doll House - Decorating Game | 100868 | [100868-dream-doll-house-decorating-game.json](./100868-dream-doll-house-decorating-game.json) |
+| Dream Domain | 401610 | [401610-dream-domain.json](./401610-dream-domain.json) |
 | Dream Drifters | 151625 | [151625-dream-drifters.json](./151625-dream-drifters.json) |
 | Dream Eater | 374056 | [374056-dream-eater.json](./374056-dream-eater.json) |
 | Dream Eater | 410960 | [410960-dream-eater.json](./410960-dream-eater.json) |
