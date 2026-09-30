@@ -2545,6 +2545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Change | 81724 | [81724-change.json](./81724-change.json) |
 | Change : A Little Story | 113146 | [113146-change-a-little-story.json](./113146-change-a-little-story.json) |
 | Change Air Blade | 39833 | [39833-change-air-blade.json](./39833-change-air-blade.json) |
+| Change Color to Reach Points | 90840 | [90840-change-color-to-reach-points.json](./90840-change-color-to-reach-points.json) |
 | Change Lanes | 292098 | [292098-change-lanes.json](./292098-change-lanes.json) |
 | Change Maker | 71769 | [71769-change-maker.json](./71769-change-maker.json) |
 | Change: A Homeless Survival Experience | 109339 | [109339-change-a-homeless-survival-experience.json](./109339-change-a-homeless-survival-experience.json) |
@@ -4710,6 +4711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Closing Shift | 412551 | [412551-closing-shift.json](./412551-closing-shift.json) |
 | Clostrophobia: Vol 1 | 293650 | [293650-clostrophobia-vol-1.json](./293650-clostrophobia-vol-1.json) |
 | Closure | 8146 | [8146-closure.json](./8146-closure.json) |
+| Clothes Forever - Styling Game | 90674 | [90674-clothes-forever-styling-game.json](./90674-clothes-forever-styling-game.json) |
 | Clothing Boutique Simulator: Store Manager | 370802 | [370802-clothing-boutique-simulator-store-manager.json](./370802-clothing-boutique-simulator-store-manager.json) |
 | Clotilde Soffritti in Never Double Park your Spaceship | 217876 | [217876-clotilde-soffritti-in-never-double-park-your-spaceship.json](./217876-clotilde-soffritti-in-never-double-park-your-spaceship.json) |
 | Clotilde Soffritti in: Never Buy a Used Spaceship | 217875 | [217875-clotilde-soffritti-in-never-buy-a-used-spaceship.json](./217875-clotilde-soffritti-in-never-buy-a-used-spaceship.json) |
