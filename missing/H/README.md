@@ -2748,6 +2748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of the Underworld | 403812 | [403812-heroes-of-the-underworld.json](./403812-heroes-of-the-underworld.json) |
 | Heroes of Three Kingdoms | 77303 | [77303-heroes-of-three-kingdoms.json](./77303-heroes-of-three-kingdoms.json) |
 | Heroes of Time | 200470 | [200470-heroes-of-time.json](./200470-heroes-of-time.json) |
+| Heroes of Umbra | 3226 | [3226-heroes-of-umbra.json](./3226-heroes-of-umbra.json) |
 | Heroes of Valhalla | 224104 | [224104-heroes-of-valhalla.json](./224104-heroes-of-valhalla.json) |
 | Heroes of War | 227471 | [227471-heroes-of-war.json](./227471-heroes-of-war.json) |
 | Heroes of Warland | 112141 | [112141-heroes-of-warland.json](./112141-heroes-of-warland.json) |
@@ -2984,6 +2985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hi Color | 228450 | [228450-hi-color.json](./228450-hi-color.json) |
 | Hi Eggplant: The Birth of Sprites | 245850 | [245850-hi-eggplant-the-birth-of-sprites.json](./245850-hi-eggplant-the-birth-of-sprites.json) |
 | Hi Hi Puffy AmiYumi Treasure Island | 141151 | [141151-hi-hi-puffy-amiyumi-treasure-island.json](./141151-hi-hi-puffy-amiyumi-treasure-island.json) |
+| Hi Hi Puffy AmiYumi: Kaznapped! | 2819 | [2819-hi-hi-puffy-amiyumi-kaznapped.json](./2819-hi-hi-puffy-amiyumi-kaznapped.json) |
 | Hi Hi Puffy AmiYumi: The Genie and the Amp | 2818 | [2818-hi-hi-puffy-amiyumi-the-genie-and-the-amp.json](./2818-hi-hi-puffy-amiyumi-the-genie-and-the-amp.json) |
 | Hi no Homo | 133312 | [133312-hi-no-homo.json](./133312-hi-no-homo.json) |
 | Hi On Rhythm | 267459 | [267459-hi-on-rhythm.json](./267459-hi-on-rhythm.json) |
