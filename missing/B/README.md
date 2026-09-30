@@ -2848,6 +2848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10 Bundle | 146329 | [146329-ben-10-bundle.json](./146329-ben-10-bundle.json) |
 | Ben 10 Game Generator | 130941 | [130941-ben-10-game-generator.json](./130941-ben-10-game-generator.json) |
 | Ben 10 Game Generator 4D | 131350 | [131350-ben-10-game-generator-4d.json](./131350-ben-10-game-generator-4d.json) |
+| Ben 10 Slammers | 88305 | [88305-ben-10-slammers.json](./88305-ben-10-slammers.json) |
 | Ben 10 Triple Pack | 86074 | [86074-ben-10-triple-pack.json](./86074-ben-10-triple-pack.json) |
 | Ben 10 Ultimate Alien: Mind Mine | 231387 | [231387-ben-10-ultimate-alien-mind-mine.json](./231387-ben-10-ultimate-alien-mind-mine.json) |
 | Ben 10: 028 - Power Mod: High Jump | 363890 | [363890-ben-10-028-power-mod-high-jump.json](./363890-ben-10-028-power-mod-high-jump.json) |
@@ -3238,6 +3239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bezirk | 109876 | [109876-bezirk.json](./109876-bezirk.json) |
 | BeZombie Anime Invasion | 261825 | [261825-bezombie-anime-invasion.json](./261825-bezombie-anime-invasion.json) |
 | BFDI: Branches | 305909 | [305909-bfdi-branches.json](./305909-bfdi-branches.json) |
+| BFF or Die | 94044 | [94044-bff-or-die.json](./94044-bff-or-die.json) |
 | BFGE | 114995 | [114995-bfge.json](./114995-bfge.json) |
 | BGPA Missions Liberation | 256849 | [256849-bgpa-missions-liberation.json](./256849-bgpa-missions-liberation.json) |
 | Bhangarh: The Untold Story | 391173 | [391173-bhangarh-the-untold-story.json](./391173-bhangarh-the-untold-story.json) |
@@ -4971,6 +4973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood II: Revelations | 127929 | [127929-blood-ii-revelations.json](./127929-blood-ii-revelations.json) |
 | Blood II: The Chosen | 11265 | [11265-blood-ii-the-chosen.json](./11265-blood-ii-the-chosen.json) |
 | Blood II: The Chosen - The Nightmare Levels | 95451 | [95451-blood-ii-the-chosen-the-nightmare-levels.json](./95451-blood-ii-the-chosen-the-nightmare-levels.json) |
+| Blood II: The Chosen + Expansion | 93645 | [93645-blood-ii-the-chosen-expansion.json](./93645-blood-ii-the-chosen-expansion.json) |
 | Blood in Baldur's Gate | 274016 | [274016-blood-in-baldurs-gate.json](./274016-blood-in-baldurs-gate.json) |
 | Blood in the Panopticon | 395552 | [395552-blood-in-the-panopticon.json](./395552-blood-in-the-panopticon.json) |
 | Blood Island | 113898 | [113898-blood-island.json](./113898-blood-island.json) |
@@ -5528,6 +5531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boggle | 206463 | [206463-boggle.json](./206463-boggle.json) |
 | Boggle | 282633 | [282633-boggle.json](./282633-boggle.json) |
 | Boggle Bash | 366411 | [366411-boggle-bash.json](./366411-boggle-bash.json) |
+| Boggle Plus | 92264 | [92264-boggle-plus.json](./92264-boggle-plus.json) |
 | Boggle With Friends | 55087 | [55087-boggle-with-friends.json](./55087-boggle-with-friends.json) |
 | Boggy '84 | 40261 | [40261-boggy-84.json](./40261-boggy-84.json) |
 | Bogie's Super Pick: Value Pack 1 | 98965 | [98965-bogies-super-pick-value-pack-1.json](./98965-bogies-super-pick-value-pack-1.json) |
@@ -6456,6 +6460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxville | 190160 | [190160-boxville.json](./190160-boxville.json) |
 | Boxville 2: Collector's Edition | 402954 | [402954-boxville-2-collectors-edition.json](./402954-boxville-2-collectors-edition.json) |
 | Boxville: Collector's Edition | 230807 | [230807-boxville-collectors-edition.json](./230807-boxville-collectors-edition.json) |
+| BoxVR | 91208 | [91208-boxvr.json](./91208-boxvr.json) |
 | Boxworld | 287649 | [287649-boxworld.json](./287649-boxworld.json) |
 | Boxy Trial | 122334 | [122334-boxy-trial.json](./122334-boxy-trial.json) |
 | Boxyboy | 94912 | [94912-boxyboy.json](./94912-boxyboy.json) |
@@ -6778,6 +6783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breach | 141779 | [141779-breach.json](./141779-breach.json) |
 | Breach | 251831 | [251831-breach.json](./251831-breach.json) |
 | Breach | 413003 | [413003-breach.json](./413003-breach.json) |
+| Breach | 94147 | [94147-breach.json](./94147-breach.json) |
 | Breach & Clear: Deadline Rebirth | 36293 | [36293-breach-and-clear-deadline-rebirth.json](./36293-breach-and-clear-deadline-rebirth.json) |
 | Breach & Clear: Frozen Synapse Pack | 226270 | [226270-breach-and-clear-frozen-synapse-pack.json](./226270-breach-and-clear-frozen-synapse-pack.json) |
 | Breach 2 | 14345 | [14345-breach-2.json](./14345-breach-2.json) |
