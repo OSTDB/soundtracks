@@ -547,6 +547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanata-Kadaka!? | 59993 | [59993-hanata-kadaka.json](./59993-hanata-kadaka.json) |
 | Hanayaka Nari, Waga Ichizoku | 61640 | [61640-hanayaka-nari-waga-ichizoku.json](./61640-hanayaka-nari-waga-ichizoku.json) |
 | Hanctt Origins | 253455 | [253455-hanctt-origins.json](./253455-hanctt-origins.json) |
+| Hand Almighty | 393759 | [393759-hand-almighty.json](./393759-hand-almighty.json) |
 | Hand Cannon Virtuoso | 132256 | [132256-hand-cannon-virtuoso.json](./132256-hand-cannon-virtuoso.json) |
 | Hand Cooking Simulator: Multi-Chef | 326403 | [326403-hand-cooking-simulator-multi-chef.json](./326403-hand-cooking-simulator-multi-chef.json) |
 | Hand Held Boggle | 239337 | [239337-hand-held-boggle.json](./239337-hand-held-boggle.json) |
@@ -4269,6 +4270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Sweet Homecoming | 135306 | [135306-home-sweet-homecoming.json](./135306-home-sweet-homecoming.json) |
 | Home Sweet RoN | 70370 | [70370-home-sweet-ron.json](./70370-home-sweet-ron.json) |
 | Home Tech VR | 29891 | [29891-home-tech-vr.json](./29891-home-tech-vr.json) |
+| Home Town Work | 393768 | [393768-home-town-work.json](./393768-home-town-work.json) |
 | Home trip | 262103 | [262103-home-trip.json](./262103-home-trip.json) |
 | Home Wars | 43334 | [43334-home-wars.json](./43334-home-wars.json) |
 | Home_0 | 325661 | [325661-home-0.json](./325661-home-0.json) |
