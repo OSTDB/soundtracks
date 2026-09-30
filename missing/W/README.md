@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waddle Dev Vs Kirby Dark Dawn | 395700 | [395700-waddle-dev-vs-kirby-dark-dawn.json](./395700-waddle-dev-vs-kirby-dark-dawn.json) |
 | Waddle Home | 25568 | [25568-waddle-home.json](./25568-waddle-home.json) |
 | Waddle Paddle | 365718 | [365718-waddle-paddle.json](./365718-waddle-paddle.json) |
+| Waddle Throttle | 419962 | [419962-waddle-throttle.json](./419962-waddle-throttle.json) |
 | Waddle Wars: Roguelike Defense | 266831 | [266831-waddle-wars-roguelike-defense.json](./266831-waddle-wars-roguelike-defense.json) |
 | Waffle House | 301335 | [301335-waffle-house.json](./301335-waffle-house.json) |
 | Waffle Spin Ball | 360671 | [360671-waffle-spin-ball.json](./360671-waffle-spin-ball.json) |
@@ -2129,6 +2130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Eyes | 166719 | [166719-white-eyes.json](./166719-white-eyes.json) |
 | White Haven Mysteries | 17201 | [17201-white-haven-mysteries.json](./17201-white-haven-mysteries.json) |
 | White Hell | 162256 | [162256-white-hell.json](./162256-white-hell.json) |
+| White Iris | 419851 | [419851-white-iris.json](./419851-white-iris.json) |
 | White Knight Chronicles | 7482 | [7482-white-knight-chronicles.json](./7482-white-knight-chronicles.json) |
 | White Knight Chronicles II | 314050 | [314050-white-knight-chronicles-ii.json](./314050-white-knight-chronicles-ii.json) |
 | White Knight Chronicles: International Edition | 21761 | [21761-white-knight-chronicles-international-edition.json](./21761-white-knight-chronicles-international-edition.json) |
@@ -2242,6 +2244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whoowasit? - Children's game of the year 2008 | 100727 | [100727-whoowasit-childrens-game-of-the-year-2008.json](./100727-whoowasit-childrens-game-of-the-year-2008.json) |
 | Whore Dealer | 203916 | [203916-whore-dealer.json](./203916-whore-dealer.json) |
 | Why | 257413 | [257413-why.json](./257413-why.json) |
+| Why Are My Prefects So Hot!!? | 419950 | [419950-why-are-my-prefects-so-hot.json](./419950-why-are-my-prefects-so-hot.json) |
 | Why Chicken? Why? | 114973 | [114973-why-chicken-why.json](./114973-why-chicken-why.json) |
 | Why Did The Chicken Cross The Road? | 310753 | [310753-why-did-the-chicken-cross-the-road.json](./310753-why-did-the-chicken-cross-the-road.json) |
 | Why Did You Leave Me Like This? | 365771 | [365771-why-did-you-leave-me-like-this.json](./365771-why-did-you-leave-me-like-this.json) |
@@ -2959,6 +2962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witchworker | 405611 | [405611-witchworker.json](./405611-witchworker.json) |
 | Witchy Wonderland | 344348 | [344348-witchy-wonderland.json](./344348-witchy-wonderland.json) |
 | Witchy Woo | 379902 | [379902-witchy-woo.json](./379902-witchy-woo.json) |
+| Witchydoku | 419862 | [419862-witchydoku.json](./419862-witchydoku.json) |
 | With All My Heart | 253038 | [253038-with-all-my-heart.json](./253038-with-all-my-heart.json) |
 | With Every Heartbeat | 313851 | [313851-with-every-heartbeat.json](./313851-with-every-heartbeat.json) |
 | With Eyes Closed: Season 1 | 267431 | [267431-with-eyes-closed-season-1.json](./267431-with-eyes-closed-season-1.json) |
