@@ -2825,6 +2825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Night | 288368 | [288368-demon-night.json](./288368-demon-night.json) |
 | Demon Party | 197847 | [197847-demon-party.json](./197847-demon-party.json) |
 | Demon Path: Tower of Armagor | 215904 | [215904-demon-path-tower-of-armagor.json](./215904-demon-path-tower-of-armagor.json) |
+| Demon Protocol | 417467 | [417467-demon-protocol.json](./417467-demon-protocol.json) |
 | DeMon Researcher | 361797 | [361797-demon-researcher.json](./361797-demon-researcher.json) |
 | Demon robot runner | 89369 | [89369-demon-robot-runner.json](./89369-demon-robot-runner.json) |
 | Demon RPG | 299451 | [299451-demon-rpg.json](./299451-demon-rpg.json) |
@@ -3686,6 +3687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dialing | 88011 | [88011-dialing.json](./88011-dialing.json) |
 | Dialogue: A Writer's Story | 26706 | [26706-dialogue-a-writers-story.json](./26706-dialogue-a-writers-story.json) |
 | Dialoop | 361796 | [361796-dialoop.json](./361796-dialoop.json) |
+| Dialshift | 417466 | [417466-dialshift.json](./417466-dialshift.json) |
 | Diam's | 280869 | [280869-diams.json](./280869-diams.json) |
 | Diamon Jones: Amulet of the World | 59921 | [59921-diamon-jones-amulet-of-the-world.json](./59921-diamon-jones-amulet-of-the-world.json) |
 | Diamond | 247022 | [247022-diamond.json](./247022-diamond.json) |
@@ -4241,6 +4243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino-Sorcerer | 74072 | [74072-dino-sorcerer.json](./74072-dino-sorcerer.json) |
 | Dino's Offline Adventure | 195208 | [195208-dinos-offline-adventure.json](./195208-dinos-offline-adventure.json) |
 | Dinoblade | 330174 | [330174-dinoblade.json](./330174-dinoblade.json) |
+| DinoBox | 417416 | [417416-dinobox.json](./417416-dinobox.json) |
 | Dinobreak | 264154 | [264154-dinobreak.json](./264154-dinobreak.json) |
 | Dinobreak: Chronicles of Horror Collection | 331412 | [331412-dinobreak-chronicles-of-horror-collection.json](./331412-dinobreak-chronicles-of-horror-collection.json) |
 | Dinobreak: Crisis Collection | 331409 | [331409-dinobreak-crisis-collection.json](./331409-dinobreak-crisis-collection.json) |
@@ -5927,6 +5930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Door Kickers: Action Squad | 55678 | [55678-door-kickers-action-squad.json](./55678-door-kickers-action-squad.json) |
 | Door Knocker | 122336 | [122336-door-knocker.json](./122336-door-knocker.json) |
 | Door of Perception | 251055 | [251055-door-of-perception.json](./251055-door-of-perception.json) |
+| Door Runners | 417374 | [417374-door-runners.json](./417374-door-runners.json) |
 | Door Smasher | 153844 | [153844-door-smasher.json](./153844-door-smasher.json) |
 | Door XP | 178956 | [178956-door-xp.json](./178956-door-xp.json) |
 | Dooria | 158231 | [158231-dooria.json](./158231-dooria.json) |
@@ -6437,6 +6441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drag Racing Rivals | 147847 | [147847-drag-racing-rivals.json](./147847-drag-racing-rivals.json) |
 | Drag the Rope | 254434 | [254434-drag-the-rope.json](./254434-drag-the-rope.json) |
 | Drag Them Out Into Space! | 178969 | [178969-drag-them-out-into-space.json](./178969-drag-them-out-into-space.json) |
+| Drag'n Wash | 417585 | [417585-dragn-wash.json](./417585-dragn-wash.json) |
 | Drag'n'Boom | 68318 | [68318-dragnboom.json](./68318-dragnboom.json) |
 | Dragabox | 259858 | [259858-dragabox.json](./259858-dragabox.json) |
 | Dragenas | 297804 | [297804-dragenas.json](./297804-dragenas.json) |
@@ -7964,6 +7969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dumb Castle | 289304 | [289304-dumb-castle.json](./289304-dumb-castle.json) |
 | Dumb Chicken 2: One Way Out | 32895 | [32895-dumb-chicken-2-one-way-out.json](./32895-dumb-chicken-2-one-way-out.json) |
 | Dumb Fight | 130257 | [130257-dumb-fight.json](./130257-dumb-fight.json) |
+| Dumb Ideas With Friends | 417389 | [417389-dumb-ideas-with-friends.json](./417389-dumb-ideas-with-friends.json) |
 | Dumb Infernal | 129068 | [129068-dumb-infernal.json](./129068-dumb-infernal.json) |
 | Dumb Little Creatures | 109683 | [109683-dumb-little-creatures.json](./109683-dumb-little-creatures.json) |
 | Dumb Little Robots | 197150 | [197150-dumb-little-robots.json](./197150-dumb-little-robots.json) |
@@ -8513,6 +8519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwango5 | 143038 | [143038-dwango5.json](./143038-dwango5.json) |
 | Dwarf | 292069 | [292069-dwarf.json](./292069-dwarf.json) |
 | Dwarf Complete | 191796 | [191796-dwarf-complete.json](./191796-dwarf-complete.json) |
+| Dwarf Core | 417611 | [417611-dwarf-core.json](./417611-dwarf-core.json) |
 | Dwarf Defense | 101339 | [101339-dwarf-defense.json](./101339-dwarf-defense.json) |
 | Dwarf Eats Mountain | 390780 | [390780-dwarf-eats-mountain.json](./390780-dwarf-eats-mountain.json) |
 | Dwarf Fortress | 228456 | [228456-dwarf-fortress.json](./228456-dwarf-fortress.json) |
@@ -8680,6 +8687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dysmantle: Doomsday | 240771 | [240771-dysmantle-doomsday.json](./240771-dysmantle-doomsday.json) |
 | Dysmantle: Underworld | 207258 | [207258-dysmantle-underworld.json](./207258-dysmantle-underworld.json) |
 | Dysnomia | 67231 | [67231-dysnomia.json](./67231-dysnomia.json) |
+| Dysnomia Exburst | 417424 | [417424-dysnomia-exburst.json](./417424-dysnomia-exburst.json) |
 | Dysnystaxis (...A Chance Meeting With Somnus) | 271219 | [271219-dysnystaxis-a-chance-meeting-with-somnus.json](./271219-dysnystaxis-a-chance-meeting-with-somnus.json) |
 | Dysphoria | 260808 | [260808-dysphoria.json](./260808-dysphoria.json) |
 | Dysphoria | 303017 | [303017-dysphoria.json](./303017-dysphoria.json) |
