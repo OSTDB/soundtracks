@@ -2607,6 +2607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DekaPari | 252075 | [252075-dekapari.json](./252075-dekapari.json) |
 | Dekaron | 60258 | [60258-dekaron.json](./60258-dekaron.json) |
 | Dekaron M | 165416 | [165416-dekaron-m.json](./165416-dekaron-m.json) |
+| Dekinai Watashi ga, Kurikaesu. | 402473 | [402473-dekinai-watashi-ga-kurikaesu.json](./402473-dekinai-watashi-ga-kurikaesu.json) |
 | Dekisugi Tingle Pack | 100169 | [100169-dekisugi-tingle-pack.json](./100169-dekisugi-tingle-pack.json) |
 | Dekoboko Densetsu: Hashiru Wagamanma | 145674 | [145674-dekoboko-densetsu-hashiru-wagamanma.json](./145674-dekoboko-densetsu-hashiru-wagamanma.json) |
 | Dekorating Blues | 73332 | [73332-dekorating-blues.json](./73332-dekorating-blues.json) |
@@ -6377,6 +6378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Moonlight's Happyworld | 387515 | [387515-dr-moonlights-happyworld.json](./387515-dr-moonlights-happyworld.json) |
 | Dr. Murph | 304703 | [304703-dr-murph.json](./304703-dr-murph.json) |
 | Dr. Neo Cortex: Inventor's Madness | 314661 | [314661-dr-neo-cortex-inventors-madness.json](./314661-dr-neo-cortex-inventors-madness.json) |
+| Dr. Oops! | 402421 | [402421-dr-oops.json](./402421-dr-oops.json) |
 | Dr. P | 278398 | [278398-dr-p.json](./278398-dr-p.json) |
 | Dr. Panda & Toto's Treehouse | 61050 | [61050-dr-panda-and-totos-treehouse.json](./61050-dr-panda-and-totos-treehouse.json) |
 | Dr. Panda Restaurant 2 | 344927 | [344927-dr-panda-restaurant-2.json](./344927-dr-panda-restaurant-2.json) |
