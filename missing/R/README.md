@@ -2364,6 +2364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remnant: From the Ashes - Swamps of Corsus | 132138 | [132138-remnant-from-the-ashes-swamps-of-corsus.json](./132138-remnant-from-the-ashes-swamps-of-corsus.json) |
 | Remnants | 168318 | [168318-remnants.json](./168318-remnants.json) |
 | Remnants of Flesh | 322608 | [322608-remnants-of-flesh.json](./322608-remnants-of-flesh.json) |
+| Remnants of Isolation | 28032 | [28032-remnants-of-isolation.json](./28032-remnants-of-isolation.json) |
 | Remnants of Naezith | 29520 | [29520-remnants-of-naezith.json](./29520-remnants-of-naezith.json) |
 | Remnants of the Arcane | 32168 | [32168-remnants-of-the-arcane.json](./32168-remnants-of-the-arcane.json) |
 | Remnants of the Rift | 154369 | [154369-remnants-of-the-rift.json](./154369-remnants-of-the-rift.json) |
@@ -4261,6 +4262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Junior | 70453 | [70453-robot-junior.json](./70453-robot-junior.json) |
 | Robot King Part I: Rebooted and Ready | 72383 | [72383-robot-king-part-i-rebooted-and-ready.json](./72383-robot-king-part-i-rebooted-and-ready.json) |
 | Robot Labs: Remake | 171568 | [171568-robot-labs-remake.json](./171568-robot-labs-remake.json) |
+| Robot Legions Reborn | 21629 | [21629-robot-legions-reborn.json](./21629-robot-legions-reborn.json) |
 | Robot Maker | 385335 | [385335-robot-maker.json](./385335-robot-maker.json) |
 | Robot Mil | 387341 | [387341-robot-mil.json](./387341-robot-mil.json) |
 | Robot Odyssey | 73313 | [73313-robot-odyssey.json](./73313-robot-odyssey.json) |
