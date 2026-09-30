@@ -3601,6 +3601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Punchy Golf | 120935 | [120935-mega-punchy-golf.json](./120935-mega-punchy-golf.json) |
 | Mega R-Type | 276776 | [276776-mega-r-type.json](./276776-mega-r-type.json) |
 | Mega Ramp Moto: Dirt Bike Stunts Simulator | 257883 | [257883-mega-ramp-moto-dirt-bike-stunts-simulator.json](./257883-mega-ramp-moto-dirt-bike-stunts-simulator.json) |
+| Mega Roids | 418527 | [418527-mega-roids.json](./418527-mega-roids.json) |
 | Mega Serval | 224750 | [224750-mega-serval.json](./224750-mega-serval.json) |
 | Mega Solitaire | 209528 | [209528-mega-solitaire.json](./209528-mega-solitaire.json) |
 | Mega Sports | 94333 | [94333-mega-sports.json](./94333-mega-sports.json) |
@@ -4297,6 +4298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mervils: A VR Adventure | 27385 | [27385-mervils-a-vr-adventure.json](./27385-mervils-a-vr-adventure.json) |
 | Mesa | 233214 | [233214-mesa.json](./233214-mesa.json) |
 | Mesa | 252098 | [252098-mesa.json](./252098-mesa.json) |
+| Mesektet | 418543 | [418543-mesektet.json](./418543-mesektet.json) |
 | Meseugaki Yeong-ae-nim! | 232426 | [232426-meseugaki-yeong-ae-nim.json](./232426-meseugaki-yeong-ae-nim.json) |
 | Mesh Replica | 296684 | [296684-mesh-replica.json](./296684-mesh-replica.json) |
 | Meshchera | 415882 | [415882-meshchera.json](./415882-meshchera.json) |
@@ -5915,6 +5917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minions Paradise | 11073 | [11073-minions-paradise.json](./11073-minions-paradise.json) |
 | Minions, Monsters, and Madness | 30194 | [30194-minions-monsters-and-madness.json](./30194-minions-monsters-and-madness.json) |
 | Minions. Five nights at Despicable Hospital 3D | 99418 | [99418-minions-five-nights-at-despicable-hospital-3d.json](./99418-minions-five-nights-at-despicable-hospital-3d.json) |
+| Miniopolis | 418518 | [418518-miniopolis.json](./418518-miniopolis.json) |
 | MiniPix Jump | 255049 | [255049-minipix-jump.json](./255049-minipix-jump.json) |
 | MiniSquadron | 52583 | [52583-minisquadron.json](./52583-minisquadron.json) |
 | MiniState | 129683 | [129683-ministate.json](./129683-ministate.json) |
