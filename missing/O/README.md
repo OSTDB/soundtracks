@@ -1599,6 +1599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation | 94216 | [94216-operation.json](./94216-operation.json) |
 | Operation Abyss: New Tokyo Legacy - Launch Edition | 89917 | [89917-operation-abyss-new-tokyo-legacy-launch-edition.json](./89917-operation-abyss-new-tokyo-legacy-launch-edition.json) |
 | Operation Abyss: New Tokyo Legacy - Limited Edition | 89916 | [89916-operation-abyss-new-tokyo-legacy-limited-edition.json](./89916-operation-abyss-new-tokyo-legacy-limited-edition.json) |
+| Operation Apex | 75498 | [75498-operation-apex.json](./75498-operation-apex.json) |
 | Operation Apocalypse | 23991 | [23991-operation-apocalypse.json](./23991-operation-apocalypse.json) |
 | Operation Babel: New Tokyo Legacy | 25593 | [25593-operation-babel-new-tokyo-legacy.json](./25593-operation-babel-new-tokyo-legacy.json) |
 | Operation Blackout | 341514 | [341514-operation-blackout.json](./341514-operation-blackout.json) |
