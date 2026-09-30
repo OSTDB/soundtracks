@@ -4289,6 +4289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loya | 239661 | [239661-loya.json](./239661-loya.json) |
 | Loyalty and Blood: Viktor Origins | 89774 | [89774-loyalty-and-blood-viktor-origins.json](./89774-loyalty-and-blood-viktor-origins.json) |
 | Lozenge | 88010 | [88010-lozenge.json](./88010-lozenge.json) |
+| LOZT: Legion of Zombie Terrors | 393048 | [393048-lozt-legion-of-zombie-terrors.json](./393048-lozt-legion-of-zombie-terrors.json) |
 | Lrrl or Rllr | 169441 | [169441-lrrl-or-rllr.json](./169441-lrrl-or-rllr.json) |
 | LSD Battlefield Simulator | 340927 | [340927-lsd-battlefield-simulator.json](./340927-lsd-battlefield-simulator.json) |
 | LSD: The Game | 116998 | [116998-lsd-the-game.json](./116998-lsd-the-game.json) |
