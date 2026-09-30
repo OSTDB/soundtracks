@@ -3196,6 +3196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desires of a Dragon Prince | 298893 | [298893-desires-of-a-dragon-prince.json](./298893-desires-of-a-dragon-prince.json) |
 | Desires of a Vampire | 298892 | [298892-desires-of-a-vampire.json](./298892-desires-of-a-vampire.json) |
 | Desk Deck Heroes | 303472 | [303472-desk-deck-heroes.json](./303472-desk-deck-heroes.json) |
+| Desk Space: Idle Spacefleet clicker | 404989 | [404989-desk-space-idle-spacefleet-clicker.json](./404989-desk-space-idle-spacefleet-clicker.json) |
 | Deskape | 371304 | [371304-deskape.json](./371304-deskape.json) |
 | Deskeroes | 348424 | [348424-deskeroes.json](./348424-deskeroes.json) |
 | Desktop Aquarium | 348834 | [348834-desktop-aquarium.json](./348834-desktop-aquarium.json) |
@@ -3387,6 +3388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destructo Truck | 353495 | [353495-destructo-truck.json](./353495-destructo-truck.json) |
 | DestructoPod | 119710 | [119710-destructopod.json](./119710-destructopod.json) |
 | Destructor | 24019 | [24019-destructor.json](./24019-destructor.json) |
+| Destructor2D | 404984 | [404984-destructor2d.json](./404984-destructor2d.json) |
 | Desynced | 230222 | [230222-desynced.json](./230222-desynced.json) |
 | Detached: Non-VR Edition | 105080 | [105080-detached-non-vr-edition.json](./105080-detached-non-vr-edition.json) |
 | Detail Hunter | 322982 | [322982-detail-hunter.json](./322982-detail-hunter.json) |
