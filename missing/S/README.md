@@ -553,6 +553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salvation Plan: Spirit Evil | 284336 | [284336-salvation-plan-spirit-evil.json](./284336-salvation-plan-spirit-evil.json) |
 | Salvator | 86530 | [86530-salvator.json](./86530-salvator.json) |
 | Salvatorem | 298714 | [298714-salvatorem.json](./298714-salvatorem.json) |
+| Salve a Fantasia | 387619 | [387619-salve-a-fantasia.json](./387619-salve-a-fantasia.json) |
 | Salvo | 184497 | [184497-salvo.json](./184497-salvo.json) |
 | Salvus: Aries | 221278 | [221278-salvus-aries.json](./221278-salvus-aries.json) |
 | Sam & MaRU | 158079 | [158079-sam-and-maru.json](./158079-sam-and-maru.json) |
@@ -12301,6 +12302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Storm: Forgotten Prison | 169961 | [169961-steel-storm-forgotten-prison.json](./169961-steel-storm-forgotten-prison.json) |
 | Steel Strider | 34403 | [34403-steel-strider.json](./34403-steel-strider.json) |
 | Steel Surge: Revolution | 275666 | [275666-steel-surge-revolution.json](./275666-steel-surge-revolution.json) |
+| Steel Swarm: Survivor | 387595 | [387595-steel-swarm-survivor.json](./387595-steel-swarm-survivor.json) |
 | Steel Sword Story | 112949 | [112949-steel-sword-story.json](./112949-steel-sword-story.json) |
 | Steel Sword Story S | 151560 | [151560-steel-sword-story-s.json](./151560-steel-sword-story-s.json) |
 | Steel Talons | 126454 | [126454-steel-talons.json](./126454-steel-talons.json) |
