@@ -3769,6 +3769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floor Observer | 284437 | [284437-floor-observer.json](./284437-floor-observer.json) |
 | Floor Plan: Hands-On Edition | 55801 | [55801-floor-plan-hands-on-edition.json](./55801-floor-plan-hands-on-edition.json) |
 | Floor Wiping Race | 420674 | [420674-floor-wiping-race.json](./420674-floor-wiping-race.json) |
+| Floor404 | 409741 | [409741-floor404.json](./409741-floor404.json) |
 | Floor44 | 213011 | [213011-floor44.json](./213011-floor44.json) |
 | Floors | 309374 | [309374-floors.json](./309374-floors.json) |
 | FLOP | 342168 | [342168-flop.json](./342168-flop.json) |
@@ -4763,6 +4764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: Zombie | 366397 | [366397-fortnite-festival-zombie.json](./366397-fortnite-festival-zombie.json) |
 | Fortnite OG | 324915 | [324915-fortnite-og.json](./324915-fortnite-og.json) |
 | Fortnite OG: Chapter 1 Season 2 | 330838 | [330838-fortnite-og-chapter-1-season-2.json](./330838-fortnite-og-chapter-1-season-2.json) |
+| Fortnite OG: Chapter 1 Season 9 | 409733 | [409733-fortnite-og-chapter-1-season-9.json](./409733-fortnite-og-chapter-1-season-9.json) |
 | Fortnite Reload | 324921 | [324921-fortnite-reload.json](./324921-fortnite-reload.json) |
 | Fortnite: Agency Renegades Pack | 325855 | [325855-fortnite-agency-renegades-pack.json](./325855-fortnite-agency-renegades-pack.json) |
 | Fortnite: Airphoria Pack | 260134 | [260134-fortnite-airphoria-pack.json](./260134-fortnite-airphoria-pack.json) |
