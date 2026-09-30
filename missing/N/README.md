@@ -398,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR Unleashed | 334076 | [334076-nascar-unleashed.json](./334076-nascar-unleashed.json) |
 | Nascar Web Racing | 209153 | [209153-nascar-web-racing.json](./209153-nascar-web-racing.json) |
 | NASCAR: Dirt to Daytona | 2898 | [2898-nascar-dirt-to-daytona.json](./2898-nascar-dirt-to-daytona.json) |
+| NASCAR: The Game 2013 | 21630 | [21630-nascar-the-game-2013.json](./21630-nascar-the-game-2013.json) |
 | Nascence | 129649 | [129649-nascence.json](./129649-nascence.json) |
 | Naser: Son of Man | 138240 | [138240-naser-son-of-man.json](./138240-naser-son-of-man.json) |
 | Nash Racing 2: Muscle cars | 68598 | [68598-nash-racing-2-muscle-cars.json](./68598-nash-racing-2-muscle-cars.json) |
@@ -1838,6 +1839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL Open Ice | 209404 | [209404-nhl-open-ice.json](./209404-nhl-open-ice.json) |
 | NHL Rock the Rink | 44843 | [44843-nhl-rock-the-rink.json](./44843-nhl-rock-the-rink.json) |
 | NHL Stanley Cup | 42655 | [42655-nhl-stanley-cup.json](./42655-nhl-stanley-cup.json) |
+| NHL Supercard | 21625 | [21625-nhl-supercard.json](./21625-nhl-supercard.json) |
 | NHL: Legacy Edition | 36848 | [36848-nhl-legacy-edition.json](./36848-nhl-legacy-edition.json) |
 | NHLPA Hockey 93 | 42479 | [42479-nhlpa-hockey-93.json](./42479-nhlpa-hockey-93.json) |
 | NHRA Championship Drag Racing | 18269 | [18269-nhra-championship-drag-racing.json](./18269-nhra-championship-drag-racing.json) |
@@ -2907,6 +2909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga's Ambition: Hadou | 371347 | [371347-nobunagas-ambition-hadou.json](./371347-nobunagas-ambition-hadou.json) |
 | Nobunaga's Ambition: Hishou | 405470 | [405470-nobunagas-ambition-hishou.json](./405470-nobunagas-ambition-hishou.json) |
 | Nobunaga’s Ambition: Rebirth - Treasure Box Limited Edition | 212328 | [212328-nobunaga-s-ambition-rebirth-treasure-box-limited-edition.json](./212328-nobunaga-s-ambition-rebirth-treasure-box-limited-edition.json) |
+| Nobunaga's Ambition: Rise to Power | 21503 | [21503-nobunagas-ambition-rise-to-power.json](./21503-nobunagas-ambition-rise-to-power.json) |
 | NOBUNAGA'S AMBITION: Sengoku Gunyuuden | 90573 | [90573-nobunagas-ambition-sengoku-gunyuuden.json](./90573-nobunagas-ambition-sengoku-gunyuuden.json) |
 | Nobunaga's Ambition: Souzou - Dokuganryutatsu Scenario | 150668 | [150668-nobunagas-ambition-souzou-dokuganryutatsu-scenario.json](./150668-nobunagas-ambition-souzou-dokuganryutatsu-scenario.json) |
 | Nobunaga's Ambition: Souzou - Itsukushima Scenario | 150675 | [150675-nobunagas-ambition-souzou-itsukushima-scenario.json](./150675-nobunagas-ambition-souzou-itsukushima-scenario.json) |
