@@ -5185,6 +5185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freddi Fish 3: The Case of the Stolen Conch Shell | 3745 | [3745-freddi-fish-3-the-case-of-the-stolen-conch-shell.json](./3745-freddi-fish-3-the-case-of-the-stolen-conch-shell.json) |
 | Freddi Fish 4: The Case of the Hogfish Rustlers of Briny Gulch | 3746 | [3746-freddi-fish-4-the-case-of-the-hogfish-rustlers-of-briny-gulch.json](./3746-freddi-fish-4-the-case-of-the-hogfish-rustlers-of-briny-gulch.json) |
 | Freddi Fish 5: The Case of the Creature of Coral Cove | 3747 | [3747-freddi-fish-5-the-case-of-the-creature-of-coral-cove.json](./3747-freddi-fish-5-the-case-of-the-creature-of-coral-cove.json) |
+| Freddi Fish and Luther's Water Worries | 17296 | [17296-freddi-fish-and-luthers-water-worries.json](./17296-freddi-fish-and-luthers-water-worries.json) |
 | Freddi Fish Collection | 300717 | [300717-freddi-fish-collection.json](./300717-freddi-fish-collection.json) |
 | Freddi Fish: ABC's Under the Sea | 3749 | [3749-freddi-fish-abcs-under-the-sea.json](./3749-freddi-fish-abcs-under-the-sea.json) |
 | Freddy | 280774 | [280774-freddy.json](./280774-freddy.json) |
@@ -5805,6 +5806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Mountain Party | 334302 | [334302-fruit-mountain-party.json](./334302-fruit-mountain-party.json) |
 | Fruit Ninja | 1684 | [1684-fruit-ninja.json](./1684-fruit-ninja.json) |
 | Fruit Ninja Academy: Math Master | 193723 | [193723-fruit-ninja-academy-math-master.json](./193723-fruit-ninja-academy-math-master.json) |
+| Fruit Ninja Kinect 2 | 20947 | [20947-fruit-ninja-kinect-2.json](./20947-fruit-ninja-kinect-2.json) |
 | Fruit Ninja VR 2 | 160150 | [160150-fruit-ninja-vr-2.json](./160150-fruit-ninja-vr-2.json) |
 | Fruit Ninja vs Skittles | 352285 | [352285-fruit-ninja-vs-skittles.json](./352285-fruit-ninja-vs-skittles.json) |
 | Fruit Ninja: Pac-Man Theme | 400979 | [400979-fruit-ninja-pac-man-theme.json](./400979-fruit-ninja-pac-man-theme.json) |
@@ -5865,6 +5867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fudou Myouou Den | 48909 | [48909-fudou-myouou-den.json](./48909-fudou-myouou-den.json) |
 | Fuel | 567 | [567-fuel.json](./567-fuel.json) |
 | Fuel Me Up | 342719 | [342719-fuel-me-up.json](./342719-fuel-me-up.json) |
+| Fuel Overdose | 20841 | [20841-fuel-overdose.json](./20841-fuel-overdose.json) |
 | Fuel Station Simulator | 336369 | [336369-fuel-station-simulator.json](./336369-fuel-station-simulator.json) |
 | Fuel Tanker Truck | 105918 | [105918-fuel-tanker-truck.json](./105918-fuel-tanker-truck.json) |
 | Fuel Tiracas | 77282 | [77282-fuel-tiracas.json](./77282-fuel-tiracas.json) |
