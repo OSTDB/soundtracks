@@ -663,6 +663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abandoned: Discovery Island | 272811 | [272811-abandoned-discovery-island.json](./272811-abandoned-discovery-island.json) |
 | Abarenbou Tengu | 215127 | [215127-abarenbou-tengu.json](./215127-abarenbou-tengu.json) |
 | Abathor: Collector's Edition | 284479 | [284479-abathor-collectors-edition.json](./284479-abathor-collectors-edition.json) |
+| ABBA: You Can Dance | 3305 | [3305-abba-you-can-dance.json](./3305-abba-you-can-dance.json) |
 | Abberbury | 111212 | [111212-abberbury.json](./111212-abberbury.json) |
 | Abbie's Farm | 147459 | [147459-abbies-farm.json](./147459-abbies-farm.json) |
 | Abbigale and the Monster | 51177 | [51177-abbigale-and-the-monster.json](./51177-abbigale-and-the-monster.json) |
@@ -1469,6 +1470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeronautica Imperialis: Flight Command - Skulls Pack | 162754 | [162754-aeronautica-imperialis-flight-command-skulls-pack.json](./162754-aeronautica-imperialis-flight-command-skulls-pack.json) |
 | Aerospace Forces | 101387 | [101387-aerospace-forces.json](./101387-aerospace-forces.json) |
 | Aerostar | 7746 | [7746-aerostar.json](./7746-aerostar.json) |
+| AeroWings | 3709 | [3709-aerowings.json](./3709-aerowings.json) |
 | AeroWings 2: Airstrike | 3708 | [3708-aerowings-2-airstrike.json](./3708-aerowings-2-airstrike.json) |
 | Aery: A Journey Beyond Time | 143599 | [143599-aery-a-journey-beyond-time.json](./143599-aery-a-journey-beyond-time.json) |
 | Aery: Ancient Empires | 283897 | [283897-aery-ancient-empires.json](./283897-aery-ancient-empires.json) |
@@ -3916,6 +3918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Adventures | 238403 | [238403-angel-adventures.json](./238403-angel-adventures.json) |
 | Angel Beats! 1st Beat | 11414 | [11414-angel-beats-1st-beat.json](./11414-angel-beats-1st-beat.json) |
 | Angel Club | 385849 | [385849-angel-club.json](./385849-angel-club.json) |
+| Angel Devoid: Face of the Enemy | 2170 | [2170-angel-devoid-face-of-the-enemy.json](./2170-angel-devoid-face-of-the-enemy.json) |
 | Angel Droid | 221193 | [221193-angel-droid.json](./221193-angel-droid.json) |
 | Angel Engine | 387370 | [387370-angel-engine.json](./387370-angel-engine.json) |
 | Angel Garden | 393606 | [393606-angel-garden.json](./393606-angel-garden.json) |
@@ -4701,6 +4704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anvil Awareness | 73875 | [73875-anvil-awareness.json](./73875-anvil-awareness.json) |
 | Anvil Empires | 243273 | [243273-anvil-empires.json](./243273-anvil-empires.json) |
 | Anvil Life | 212235 | [212235-anvil-life.json](./212235-anvil-life.json) |
+| Anvil of Dawn | 2427 | [2427-anvil-of-dawn.json](./2427-anvil-of-dawn.json) |
 | Anvil Survivors | 396403 | [396403-anvil-survivors.json](./396403-anvil-survivors.json) |
 | Anvillage | 207793 | [207793-anvillage.json](./207793-anvillage.json) |
 | AnXiens | 174642 | [174642-anxiens.json](./174642-anxiens.json) |
