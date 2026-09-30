@@ -1152,6 +1152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unjou no Fairy Tale | 97466 | [97466-unjou-no-fairy-tale.json](./97466-unjou-no-fairy-tale.json) |
 | Unkillable Robots | 306342 | [306342-unkillable-robots.json](./306342-unkillable-robots.json) |
 | Unkilled | 28821 | [28821-unkilled.json](./28821-unkilled.json) |
+| Unknightly | 75520 | [75520-unknightly.json](./75520-unknightly.json) |
 | Unknown | 210888 | [210888-unknown.json](./210888-unknown.json) |
 | Unknown at This Address | 415922 | [415922-unknown-at-this-address.json](./415922-unknown-at-this-address.json) |
 | Unknown Battle | 33524 | [33524-unknown-battle.json](./33524-unknown-battle.json) |
