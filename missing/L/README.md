@@ -234,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laid-Back Camp: Virtual - Fumoto Campsite | 147813 | [147813-laid-back-camp-virtual-fumoto-campsite.json](./147813-laid-back-camp-virtual-fumoto-campsite.json) |
 | Laid-Back Camp: Virtual - Lake Motosu | 143719 | [143719-laid-back-camp-virtual-lake-motosu.json](./143719-laid-back-camp-virtual-lake-motosu.json) |
 | Laika 2.0 | 57037 | [57037-laika-2-0.json](./57037-laika-2-0.json) |
+| Laika: A Space-Dog Oddyssey | 401033 | [401033-laika-a-space-dog-oddyssey.json](./401033-laika-a-space-dog-oddyssey.json) |
 | Laika: Aged Through Blood | 146088 | [146088-laika-aged-through-blood.json](./146088-laika-aged-through-blood.json) |
 | Lair | 7362 | [7362-lair.json](./7362-lair.json) |
 | Lair Defense: Dungeon | 127893 | [127893-lair-defense-dungeon.json](./127893-lair-defense-dungeon.json) |
