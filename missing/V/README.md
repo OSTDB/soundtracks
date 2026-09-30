@@ -491,6 +491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vault of Fallen | 355573 | [355573-vault-of-fallen.json](./355573-vault-of-fallen.json) |
 | Vault of Power | 260390 | [260390-vault-of-power.json](./260390-vault-of-power.json) |
 | Vault of Terror | 356661 | [356661-vault-of-terror.json](./356661-vault-of-terror.json) |
+| Vault Vandals | 390188 | [390188-vault-vandals.json](./390188-vault-vandals.json) |
 | Vaulted Valor | 374805 | [374805-vaulted-valor.json](./374805-vaulted-valor.json) |
 | Vaulting Over It | 350538 | [350538-vaulting-over-it.json](./350538-vaulting-over-it.json) |
 | Vavala | 188412 | [188412-vavala.json](./188412-vavala.json) |
@@ -1157,6 +1158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virago: Herstory 2 | 374735 | [374735-virago-herstory-2.json](./374735-virago-herstory-2.json) |
 | Viral | 265255 | [265255-viral.json](./265255-viral.json) |
 | Viral Firar | 166698 | [166698-viral-firar.json](./166698-viral-firar.json) |
+| Viral Hunters | 390204 | [390204-viral-hunters.json](./390204-viral-hunters.json) |
 | Viral Multiplayer | 340556 | [340556-viral-multiplayer.json](./340556-viral-multiplayer.json) |
 | Viral Quarantine | 116404 | [116404-viral-quarantine.json](./116404-viral-quarantine.json) |
 | Viral Survival | 85475 | [85475-viral-survival.json](./85475-viral-survival.json) |
