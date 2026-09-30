@@ -333,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo | 388923 | [388923-echo.json](./388923-echo.json) |
 | Echo | 388934 | [388934-echo.json](./388934-echo.json) |
 | Echo 9 | 410936 | [410936-echo-9.json](./410936-echo-9.json) |
+| Echo Canyon Band | 417441 | [417441-echo-canyon-band.json](./417441-echo-canyon-band.json) |
 | Echo Chambers | 285508 | [285508-echo-chambers.json](./285508-echo-chambers.json) |
 | Echo Chess | 316998 | [316998-echo-chess.json](./316998-echo-chess.json) |
 | Echo Drop! | 383482 | [383482-echo-drop.json](./383482-echo-drop.json) |
