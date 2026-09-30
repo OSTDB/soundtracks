@@ -2853,6 +2853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayor Moon | 121434 | [121434-mayor-moon.json](./121434-mayor-moon.json) |
 | Mayor of Defense | 166746 | [166746-mayor-of-defense.json](./166746-mayor-of-defense.json) |
 | Mayority | 254169 | [254169-mayority.json](./254169-mayority.json) |
+| Maytroid | 111981 | [111981-maytroid.json](./111981-maytroid.json) |
 | Mayu: Last of the Yaksha | 197128 | [197128-mayu-last-of-the-yaksha.json](./197128-mayu-last-of-the-yaksha.json) |
 | Maza | 276241 | [276241-maza.json](./276241-maza.json) |
 | Mazaica | 304598 | [304598-mazaica.json](./304598-mazaica.json) |
@@ -5633,6 +5634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner Ultra Rag Smash | 163918 | [163918-miner-ultra-rag-smash.json](./163918-miner-ultra-rag-smash.json) |
 | Miner: Dig Deep | 23846 | [23846-miner-dig-deep.json](./23846-miner-dig-deep.json) |
 | Mineral | 302438 | [302438-mineral.json](./302438-mineral.json) |
+| MineRalph | 112260 | [112260-mineralph.json](./112260-mineralph.json) |
 | Minerest | 184883 | [184883-minerest.json](./184883-minerest.json) |
 | MinerMancers | 411788 | [411788-minermancers.json](./411788-minermancers.json) |
 | Mineroids | 413614 | [413614-mineroids.json](./413614-mineroids.json) |
@@ -5922,6 +5924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minos Trials | 392173 | [392173-minos-trials.json](./392173-minos-trials.json) |
 | Minotaur | 305839 | [305839-minotaur.json](./305839-minotaur.json) |
 | Minotaur | 32202 | [32202-minotaur.json](./32202-minotaur.json) |
+| Minotaur Arcade Volume 1 | 112492 | [112492-minotaur-arcade-volume-1.json](./112492-minotaur-arcade-volume-1.json) |
 | Minotaur Maze | 150639 | [150639-minotaur-maze.json](./150639-minotaur-maze.json) |
 | Minotaur Rescue | 94757 | [94757-minotaur-rescue.json](./94757-minotaur-rescue.json) |
 | MinQ | 322348 | [322348-minq.json](./322348-minq.json) |
