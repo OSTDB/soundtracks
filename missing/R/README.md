@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race Condition | 143122 | [143122-race-condition.json](./143122-race-condition.json) |
 | Race Day Rampage | 208312 | [208312-race-day-rampage.json](./208312-race-day-rampage.json) |
 | Race Driver 2006 | 93991 | [93991-race-driver-2006.json](./93991-race-driver-2006.json) |
+| Race Driver: Create & Race | 20763 | [20763-race-driver-create-and-race.json](./20763-race-driver-create-and-race.json) |
 | Race Driver: Grid | 248560 | [248560-race-driver-grid.json](./248560-race-driver-grid.json) |
 | Race Driver: Grid Reloaded | 44555 | [44555-race-driver-grid-reloaded.json](./44555-race-driver-grid-reloaded.json) |
 | Race Drivin' | 307062 | [307062-race-drivin.json](./307062-race-drivin.json) |
@@ -1457,6 +1458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reality Check 3 | 70372 | [70372-reality-check-3.json](./70372-reality-check-3.json) |
 | Reality Core | 309677 | [309677-reality-core.json](./309677-reality-core.json) |
 | Reality Drift | 322753 | [322753-reality-drift.json](./322753-reality-drift.json) |
+| Reality Fighters | 20732 | [20732-reality-fighters.json](./20732-reality-fighters.json) |
 | Reality Mod | 209539 | [209539-reality-mod.json](./209539-reality-mod.json) |
 | Reality Raiders | 44216 | [44216-reality-raiders.json](./44216-reality-raiders.json) |
 | Reality Rifts | 320517 | [320517-reality-rifts.json](./320517-reality-rifts.json) |
@@ -4570,6 +4572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocky | 247438 | [247438-rocky.json](./247438-rocky.json) |
 | Rocky | 37175 | [37175-rocky.json](./37175-rocky.json) |
 | Rocky | 4093 | [4093-rocky.json](./4093-rocky.json) |
+| Rocky & Bullwinkle | 20780 | [20780-rocky-and-bullwinkle.json](./20780-rocky-and-bullwinkle.json) |
 | Rocky Climb | 96085 | [96085-rocky-climb.json](./96085-rocky-climb.json) |
 | Rocky Legends | 6016 | [6016-rocky-legends.json](./6016-rocky-legends.json) |
 | Rocky Memphis and the Temple of Ophuxoff | 65773 | [65773-rocky-memphis-and-the-temple-of-ophuxoff.json](./65773-rocky-memphis-and-the-temple-of-ophuxoff.json) |
