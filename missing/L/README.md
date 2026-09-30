@@ -4146,6 +4146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Ribbon | 30410 | [30410-love-ribbon.json](./30410-love-ribbon.json) |
 | Love Room VR | 111809 | [111809-love-room-vr.json](./111809-love-room-vr.json) |
 | Love Root Zero Kiss Kiss Labyrinth | 221733 | [221733-love-root-zero-kiss-kiss-labyrinth.json](./221733-love-root-zero-kiss-kiss-labyrinth.json) |
+| Love Sex & Fitness | 389649 | [389649-love-sex-and-fitness.json](./389649-love-sex-and-fitness.json) |
 | Love Shore | 131561 | [131561-love-shore.json](./131561-love-shore.json) |
 | Love Simulation | 99039 | [99039-love-simulation.json](./99039-love-simulation.json) |
 | Love Spell: The Starlight Update | 254503 | [254503-love-spell-the-starlight-update.json](./254503-love-spell-the-starlight-update.json) |
