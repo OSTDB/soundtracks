@@ -559,6 +559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZLM Crafter | 124206 | [124206-zlm-crafter.json](./124206-zlm-crafter.json) |
 | Zlorp Adventures | 328999 | [328999-zlorp-adventures.json](./328999-zlorp-adventures.json) |
 | Zly.ii: The Hacked Station | 369755 | [369755-zly-ii-the-hacked-station.json](./369755-zly-ii-the-hacked-station.json) |
+| zMahjong Super Solitaire | 88451 | [88451-zmahjong-super-solitaire.json](./88451-zmahjong-super-solitaire.json) |
 | ZMR: Zombies Monsters Robots | 7424 | [7424-zmr-zombies-monsters-robots.json](./7424-zmr-zombies-monsters-robots.json) |
 | Zoboomafoo: Leapin' Lemurs | 45308 | [45308-zoboomafoo-leapin-lemurs.json](./45308-zoboomafoo-leapin-lemurs.json) |
 | Zobre Zombie | 275011 | [275011-zobre-zombie.json](./275011-zobre-zombie.json) |
