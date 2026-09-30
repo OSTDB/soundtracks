@@ -1353,6 +1353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast & Furious: Spy Racers Rise of Sh1ft3r - Complete Edition | 218500 | [218500-fast-and-furious-spy-racers-rise-of-sh1ft3r-complete-edition.json](./218500-fast-and-furious-spy-racers-rise-of-sh1ft3r-complete-edition.json) |
 | Fast Action Paq | 79585 | [79585-fast-action-paq.json](./79585-fast-action-paq.json) |
 | Fast and Curious | 32076 | [32076-fast-and-curious.json](./32076-fast-and-curious.json) |
+| Fast and Low | 119529 | [119529-fast-and-low.json](./119529-fast-and-low.json) |
 | Fast Beat Battle Rider | 292288 | [292288-fast-beat-battle-rider.json](./292288-fast-beat-battle-rider.json) |
 | Fast Blast | 108503 | [108503-fast-blast.json](./108503-fast-blast.json) |
 | Fast Break | 12091 | [12091-fast-break.json](./12091-fast-break.json) |
@@ -2216,6 +2217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIN: The Way Home | 302127 | [302127-fin-the-way-home.json](./302127-fin-the-way-home.json) |
 | Fina | 127981 | [127981-fina.json](./127981-fina.json) |
 | Final 5: Survival! | 234332 | [234332-final-5-survival.json](./234332-final-5-survival.json) |
+| Final Archer VR | 119489 | [119489-final-archer-vr.json](./119489-final-archer-vr.json) |
 | Final Armada | 43297 | [43297-final-armada.json](./43297-final-armada.json) |
 | Final Assault | 39115 | [39115-final-assault.json](./39115-final-assault.json) |
 | Final Assault | 94615 | [94615-final-assault.json](./94615-final-assault.json) |
@@ -5142,6 +5144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frankie and Suede Private Detectives | 310028 | [310028-frankie-and-suede-private-detectives.json](./310028-frankie-and-suede-private-detectives.json) |
 | Frankie's FunClub | 340244 | [340244-frankies-funclub.json](./340244-frankies-funclub.json) |
 | Franklin the Turtle | 49400 | [49400-franklin-the-turtle.json](./49400-franklin-the-turtle.json) |
+| Franklin: A Birthday Surprise | 118948 | [118948-franklin-a-birthday-surprise.json](./118948-franklin-a-birthday-surprise.json) |
 | Franklin's Great Adventures | 48044 | [48044-franklins-great-adventures.json](./48044-franklins-great-adventures.json) |
 | Franky Lettuce | 113667 | [113667-franky-lettuce.json](./113667-franky-lettuce.json) |
 | Frantic | 292087 | [292087-frantic.json](./292087-frantic.json) |
