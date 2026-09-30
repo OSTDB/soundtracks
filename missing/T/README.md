@@ -3488,6 +3488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cost Of Seeds | 292857 | [292857-the-cost-of-seeds.json](./292857-the-cost-of-seeds.json) |
 | The Cottage | 59966 | [59966-the-cottage.json](./59966-the-cottage.json) |
 | The Council of Hanwell | 89956 | [89956-the-council-of-hanwell.json](./89956-the-council-of-hanwell.json) |
+| The Council: Episode 2 - Hide and Seek | 101116 | [101116-the-council-episode-2-hide-and-seek.json](./101116-the-council-episode-2-hide-and-seek.json) |
 | The Count of Monster Disco | 36428 | [36428-the-count-of-monster-disco.json](./36428-the-count-of-monster-disco.json) |
 | The Count of Monte Carlo | 151696 | [151696-the-count-of-monte-carlo.json](./151696-the-count-of-monte-carlo.json) |
 | The Counter Gambit | 379037 | [379037-the-counter-gambit.json](./379037-the-counter-gambit.json) |
@@ -10584,6 +10585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Kings: Modern War in Medieval Age | 401093 | [401093-time-kings-modern-war-in-medieval-age.json](./401093-time-kings-modern-war-in-medieval-age.json) |
 | Time Leap Paradise Super Live! | 31077 | [31077-time-leap-paradise-super-live.json](./31077-time-leap-paradise-super-live.json) |
 | Time Limit Harvest | 248045 | [248045-time-limit-harvest.json](./248045-time-limit-harvest.json) |
+| Time Loader | 140868 | [140868-time-loader.json](./140868-time-loader.json) |
 | Time Loader: First Memories | 166211 | [166211-time-loader-first-memories.json](./166211-time-loader-first-memories.json) |
 | Time Lock VR 1 | 393132 | [393132-time-lock-vr-1.json](./393132-time-lock-vr-1.json) |
 | Time Lord | 18536 | [18536-time-lord.json](./18536-time-lord.json) |
@@ -11004,6 +11006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titenic | 10841 | [10841-titenic.json](./10841-titenic.json) |
 | Titeuf: Le Film | 268430 | [268430-titeuf-le-film.json](./268430-titeuf-le-film.json) |
 | Title Fight Pro Boxing for Windows | 94548 | [94548-title-fight-pro-boxing-for-windows.json](./94548-title-fight-pro-boxing-for-windows.json) |
+| Title_Pending | 144909 | [144909-title-pending.json](./144909-title-pending.json) |
 | Titleless Tale | 304002 | [304002-titleless-tale.json](./304002-titleless-tale.json) |
 | Titor's Time Traveling Tale | 249862 | [249862-titors-time-traveling-tale.json](./249862-titors-time-traveling-tale.json) |
 | Tits and Shadows | 252676 | [252676-tits-and-shadows.json](./252676-tits-and-shadows.json) |
