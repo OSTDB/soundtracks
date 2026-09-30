@@ -387,6 +387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Business | 118304 | [118304-bad-business.json](./118304-bad-business.json) |
 | Bad Bytes | 391826 | [391826-bad-bytes.json](./391826-bad-bytes.json) |
 | Bad Cat | 12398 | [12398-bad-cat.json](./12398-bad-cat.json) |
+| Bad Cat Angry Granny | 391256 | [391256-bad-cat-angry-granny.json](./391256-bad-cat-angry-granny.json) |
 | Bad Caterpillar | 33411 | [33411-bad-caterpillar.json](./33411-bad-caterpillar.json) |
 | Bad Cheese | 320146 | [320146-bad-cheese.json](./320146-bad-cheese.json) |
 | Bad Chicken | 212906 | [212906-bad-chicken.json](./212906-bad-chicken.json) |
@@ -1268,6 +1269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bargue | 203903 | [203903-bargue.json](./203903-bargue.json) |
 | Barista | 347150 | [347150-barista.json](./347150-barista.json) |
 | Barista Life | 405001 | [405001-barista-life.json](./405001-barista-life.json) |
+| Barista Life Simulator 2026 | 391255 | [391255-barista-life-simulator-2026.json](./391255-barista-life-simulator-2026.json) |
 | Barista: Take Away | 207533 | [207533-barista-take-away.json](./207533-barista-take-away.json) |
 | Bark Beat | 177443 | [177443-bark-beat.json](./177443-bark-beat.json) |
 | Bark Tank | 338194 | [338194-bark-tank.json](./338194-bark-tank.json) |
@@ -2359,6 +2361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bean Battles | 106556 | [106556-bean-battles.json](./106556-bean-battles.json) |
 | Bean Climb | 138576 | [138576-bean-climb.json](./138576-bean-climb.json) |
 | Bean Dreams | 60630 | [60630-bean-dreams.json](./60630-bean-dreams.json) |
+| Bean Sidhe | 391287 | [391287-bean-sidhe.json](./391287-bean-sidhe.json) |
 | Bean Story | 203904 | [203904-bean-story.json](./203904-bean-story.json) |
 | Bean There Won That | 311497 | [311497-bean-there-won-that.json](./311497-bean-there-won-that.json) |
 | Bean Wizard Eviscerates the Gonklins | 406252 | [406252-bean-wizard-eviscerates-the-gonklins.json](./406252-bean-wizard-eviscerates-the-gonklins.json) |
