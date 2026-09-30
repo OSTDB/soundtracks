@@ -4666,6 +4666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climb and Fall Dice Adventure | 242205 | [242205-climb-and-fall-dice-adventure.json](./242205-climb-and-fall-dice-adventure.json) |
 | Climb Challenge | 125385 | [125385-climb-challenge.json](./125385-climb-challenge.json) |
 | Climb Challenge: Castle | 213019 | [213019-climb-challenge-castle.json](./213019-climb-challenge-castle.json) |
+| Climb Driver | 393058 | [393058-climb-driver.json](./393058-climb-driver.json) |
 | Climb Fling | 239636 | [239636-climb-fling.json](./239636-climb-fling.json) |
 | Climb It | 273910 | [273910-climb-it.json](./273910-climb-it.json) |
 | Climb out of Hell | 343322 | [343322-climb-out-of-hell.json](./343322-climb-out-of-hell.json) |
@@ -5308,6 +5309,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collector Thief | 190971 | [190971-collector-thief.json](./190971-collector-thief.json) |
 | Collector: 10 Lives Challenge | 370313 | [370313-collector-10-lives-challenge.json](./370313-collector-10-lives-challenge.json) |
 | Collector's Cove | 298696 | [298696-collectors-cove.json](./298696-collectors-cove.json) |
+| Collector's Cove: Supporter Edition | 393064 | [393064-collectors-cove-supporter-edition.json](./393064-collectors-cove-supporter-edition.json) |
+| Collector's Cove: Supporter Pack | 393063 | [393063-collectors-cove-supporter-pack.json](./393063-collectors-cove-supporter-pack.json) |
 | Collector's Edition: 101 Incredible Games! | 205799 | [205799-collectors-edition-101-incredible-games.json](./205799-collectors-edition-101-incredible-games.json) |
 | Collector's Edition: 251 Awesome Games! | 110319 | [110319-collectors-edition-251-awesome-games.json](./110319-collectors-edition-251-awesome-games.json) |
 | College Bball Coach | 78544 | [78544-college-bball-coach.json](./78544-college-bball-coach.json) |
@@ -5340,6 +5343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colliderscope | 109673 | [109673-colliderscope.json](./109673-colliderscope.json) |
 | Colliding Forces | 63543 | [63543-colliding-forces.json](./63543-colliding-forces.json) |
 | Collie Call: Farm of Tomorrow | 344964 | [344964-collie-call-farm-of-tomorrow.json](./344964-collie-call-farm-of-tomorrow.json) |
+| Collie Call: The Future Is Calling | 393041 | [393041-collie-call-the-future-is-calling.json](./393041-collie-call-the-future-is-calling.json) |
 | Collision | 331107 | [331107-collision.json](./331107-collision.json) |
 | Collisions | 34756 | [34756-collisions.json](./34756-collisions.json) |
 | Colloc | 120424 | [120424-colloc.json](./120424-colloc.json) |
@@ -6397,6 +6401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contre Jour | 93578 | [93578-contre-jour.json](./93578-contre-jour.json) |
 | Contre Jour HD | 101959 | [101959-contre-jour-hd.json](./101959-contre-jour-hd.json) |
 | Contrition | 179748 | [179748-contrition.json](./179748-contrition.json) |
+| Contrition | 393001 | [393001-contrition.json](./393001-contrition.json) |
 | Control Craft 2 | 33560 | [33560-control-craft-2.json](./33560-control-craft-2.json) |
 | Control Freak | 111233 | [111233-control-freak.json](./111233-control-freak.json) |
 | Control Resonant | 225582 | [225582-control-resonant.json](./225582-control-resonant.json) |
@@ -6995,6 +7000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter Crossline: Crime War | 219304 | [219304-counter-crossline-crime-war.json](./219304-counter-crossline-crime-war.json) |
 | Counter Delta 2: Eastern Crisis | 259574 | [259574-counter-delta-2-eastern-crisis.json](./259574-counter-delta-2-eastern-crisis.json) |
 | Counter Fight Ichiran | 172146 | [172146-counter-fight-ichiran.json](./172146-counter-fight-ichiran.json) |
+| Counter Force | 393042 | [393042-counter-force.json](./393042-counter-force.json) |
 | Counter Operation Online | 169422 | [169422-counter-operation-online.json](./169422-counter-operation-online.json) |
 | Counter Ops: Blackout Assault | 269036 | [269036-counter-ops-blackout-assault.json](./269036-counter-ops-blackout-assault.json) |
 | Counter Protocol: Origins | 420682 | [420682-counter-protocol-origins.json](./420682-counter-protocol-origins.json) |
