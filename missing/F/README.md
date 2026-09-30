@@ -3960,6 +3960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Toyz | 258005 | [258005-flying-toyz.json](./258005-flying-toyz.json) |
 | Flying Unicorn | 256532 | [256532-flying-unicorn.json](./256532-flying-unicorn.json) |
 | Flying Universe | 379019 | [379019-flying-universe.json](./379019-flying-universe.json) |
+| Flying Warriors | 48126 | [48126-flying-warriors.json](./48126-flying-warriors.json) |
 | Flying Wings HoverCraft | 248763 | [248763-flying-wings-hovercraft.json](./248763-flying-wings-hovercraft.json) |
 | Flying Wizards | 412968 | [412968-flying-wizards.json](./412968-flying-wizards.json) |
 | FlyingChicken | 371894 | [371894-flyingchicken.json](./371894-flyingchicken.json) |
