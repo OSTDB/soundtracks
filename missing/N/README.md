@@ -1080,6 +1080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Atlas 1469 | 27318 | [27318-neo-atlas-1469.json](./27318-neo-atlas-1469.json) |
 | Neo Berlin 2087 | 244993 | [244993-neo-berlin-2087.json](./244993-neo-berlin-2087.json) |
 | Neo Breakout | 225594 | [225594-neo-breakout.json](./225594-neo-breakout.json) |
+| Neo Capitalist: Stock Market Survival Simulator | 407478 | [407478-neo-capitalist-stock-market-survival-simulator.json](./407478-neo-capitalist-stock-market-survival-simulator.json) |
 | Neo Cherry Master | 75492 | [75492-neo-cherry-master.json](./75492-neo-cherry-master.json) |
 | Neo Cherry Master Color | 43980 | [43980-neo-cherry-master-color.json](./43980-neo-cherry-master-color.json) |
 | Neo City Express | 297542 | [297542-neo-city-express.json](./297542-neo-city-express.json) |
@@ -3437,6 +3438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nowhere Near | 305929 | [305929-nowhere-near.json](./305929-nowhere-near.json) |
 | Nowhere New | 135768 | [135768-nowhere-new.json](./135768-nowhere-new.json) |
 | Nowhere Patrol | 111390 | [111390-nowhere-patrol.json](./111390-nowhere-patrol.json) |
+| Nowhere to Run | 407377 | [407377-nowhere-to-run.json](./407377-nowhere-to-run.json) |
 | Nowotnik Puzzle | 138660 | [138660-nowotnik-puzzle.json](./138660-nowotnik-puzzle.json) |
 | Nowv | 320541 | [320541-nowv.json](./320541-nowv.json) |
 | Nox | 5620 | [5620-nox.json](./5620-nox.json) |
