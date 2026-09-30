@@ -496,6 +496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultrasecreto/Prólogo | 382239 | [382239-ultrasecreto-prologo.json](./382239-ultrasecreto-prologo.json) |
 | UltraStar | 142979 | [142979-ultrastar.json](./142979-ultrastar.json) |
 | UltraStar WorldParty | 138582 | [138582-ultrastar-worldparty.json](./138582-ultrastar-worldparty.json) |
+| Ultratap | 390219 | [390219-ultratap.json](./390219-ultratap.json) |
 | Ultratron | 14327 | [14327-ultratron.json](./14327-ultratron.json) |
 | Ultraviolet | 287149 | [287149-ultraviolet.json](./287149-ultraviolet.json) |
 | Ultrawings | 27323 | [27323-ultrawings.json](./27323-ultrawings.json) |
@@ -657,6 +658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncanny Cat Golf | 323318 | [323318-uncanny-cat-golf.json](./323318-uncanny-cat-golf.json) |
 | Uncanny Islands | 81787 | [81787-uncanny-islands.json](./81787-uncanny-islands.json) |
 | Uncanny Tales: Cold Road | 340276 | [340276-uncanny-tales-cold-road.json](./340276-uncanny-tales-cold-road.json) |
+| Uncanny Tales: The Watcher | 390221 | [390221-uncanny-tales-the-watcher.json](./390221-uncanny-tales-the-watcher.json) |
 | Uncanyon | 416106 | [416106-uncanyon.json](./416106-uncanyon.json) |
 | Uncarta | 57757 | [57757-uncarta.json](./57757-uncarta.json) |
 | Uncensor Quest | 261773 | [261773-uncensor-quest.json](./261773-uncensor-quest.json) |
@@ -834,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undercroft | 92056 | [92056-undercroft.json](./92056-undercroft.json) |
 | Undercurrent | 399199 | [399199-undercurrent.json](./399199-undercurrent.json) |
 | Underdog Detective | 198551 | [198551-underdog-detective.json](./198551-underdog-detective.json) |
+| Underdog Futsal | 390205 | [390205-underdog-futsal.json](./390205-underdog-futsal.json) |
 | Underdone | 47999 | [47999-underdone.json](./47999-underdone.json) |
 | UnderDungeon | 219525 | [219525-underdungeon.json](./219525-underdungeon.json) |
 | UnderDungeon: Deluxe Edition | 250367 | [250367-underdungeon-deluxe-edition.json](./250367-underdungeon-deluxe-edition.json) |
