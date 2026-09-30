@@ -443,6 +443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnarok Battle Offline: Extra Scenario 2 | 67951 | [67951-ragnarok-battle-offline-extra-scenario-2.json](./67951-ragnarok-battle-offline-extra-scenario-2.json) |
 | Ragnarok Begins | 223978 | [223978-ragnarok-begins.json](./223978-ragnarok-begins.json) |
 | Ragnarok Chess | 151035 | [151035-ragnarok-chess.json](./151035-ragnarok-chess.json) |
+| Ragnarok Console Project | 403762 | [403762-ragnarok-console-project.json](./403762-ragnarok-console-project.json) |
 | Ragnarok Crush | 353877 | [353877-ragnarok-crush.json](./353877-ragnarok-crush.json) |
 | Ragnarok Idle Adventure Plus | 335646 | [335646-ragnarok-idle-adventure-plus.json](./335646-ragnarok-idle-adventure-plus.json) |
 | Ragnarok Journey | 43890 | [43890-ragnarok-journey.json](./43890-ragnarok-journey.json) |
@@ -2090,6 +2091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reel Fishing: Ocean Challenge | 85574 | [85574-reel-fishing-ocean-challenge.json](./85574-reel-fishing-ocean-challenge.json) |
 | Reel Gold | 263473 | [263473-reel-gold.json](./263473-reel-gold.json) |
 | Reel it! Ocean Fishing | 362350 | [362350-reel-it-ocean-fishing.json](./362350-reel-it-ocean-fishing.json) |
+| Reel it! World Fishing | 403749 | [403749-reel-it-world-fishing.json](./403749-reel-it-world-fishing.json) |
 | Reel Talk: A Thoughtful Fishcussion | 408172 | [408172-reel-talk-a-thoughtful-fishcussion.json](./408172-reel-talk-a-thoughtful-fishcussion.json) |
 | Reel-istic Fishing | 259823 | [259823-reel-istic-fishing.json](./259823-reel-istic-fishing.json) |
 | Reelism | 141643 | [141643-reelism.json](./141643-reelism.json) |
@@ -3592,6 +3594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rigid Memory | 205107 | [205107-rigid-memory.json](./205107-rigid-memory.json) |
 | Riglord Saga 2 | 73838 | [73838-riglord-saga-2.json](./73838-riglord-saga-2.json) |
 | Riichi City | 187355 | [187355-riichi-city.json](./187355-riichi-city.json) |
+| Riichi Mahjong | 403729 | [403729-riichi-mahjong.json](./403729-riichi-mahjong.json) |
 | RiiMajor | 294771 | [294771-riimajor.json](./294771-riimajor.json) |
 | RiiPlay | 294784 | [294784-riiplay.json](./294784-riiplay.json) |
 | Rika Suzuki | 97328 | [97328-rika-suzuki.json](./97328-rika-suzuki.json) |
@@ -6137,6 +6140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruzzle | 58212 | [58212-ruzzle.json](./58212-ruzzle.json) |
 | Ruzzle Adventure | 38910 | [38910-ruzzle-adventure.json](./38910-ruzzle-adventure.json) |
 | RV Park Life | 228452 | [228452-rv-park-life.json](./228452-rv-park-life.json) |
+| RV Roadtrip Simulator | 403730 | [403730-rv-roadtrip-simulator.json](./403730-rv-roadtrip-simulator.json) |
 | RV Tags | 405672 | [405672-rv-tags.json](./405672-rv-tags.json) |
 | RV There Yet? | 373580 | [373580-rv-there-yet.json](./373580-rv-there-yet.json) |
 | RV-7 My Drone | 84909 | [84909-rv-7-my-drone.json](./84909-rv-7-my-drone.json) |
