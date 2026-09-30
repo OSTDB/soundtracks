@@ -718,6 +718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 21 Steps to Soul | 27115 | [27115-21-steps-to-soul.json](./27115-21-steps-to-soul.json) |
 | 21: Blackjack | 65554 | [65554-21-blackjack.json](./65554-21-blackjack.json) |
 | 21: Two One | 283250 | [283250-21-two-one.json](./283250-21-two-one.json) |
+| 21: Two One | 394433 | [394433-21-two-one.json](./394433-21-two-one.json) |
 | 2112TD: Tower Defense Survival | 135256 | [135256-2112td-tower-defense-survival.json](./135256-2112td-tower-defense-survival.json) |
 | 2152: Pizza Pocket | 394544 | [394544-2152-pizza-pocket.json](./394544-2152-pizza-pocket.json) |
 | 2176 Supernova Storm | 92620 | [92620-2176-supernova-storm.json](./92620-2176-supernova-storm.json) |
