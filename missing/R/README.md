@@ -589,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain | 135784 | [135784-rain.json](./135784-rain.json) |
 | Rain | 216251 | [216251-rain.json](./216251-rain.json) |
 | Rain & Chamomile Tea | 260948 | [260948-rain-and-chamomile-tea.json](./260948-rain-and-chamomile-tea.json) |
+| Rain & Sacrifice | 395119 | [395119-rain-and-sacrifice.json](./395119-rain-and-sacrifice.json) |
 | Rain and Red Roses | 184057 | [184057-rain-and-red-roses.json](./184057-rain-and-red-roses.json) |
 | Rain Blood Chronicles: Mirage | 16548 | [16548-rain-blood-chronicles-mirage.json](./16548-rain-blood-chronicles-mirage.json) |
 | Rain Check | 319007 | [319007-rain-check.json](./319007-rain-check.json) |
@@ -1044,6 +1045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rattyivty Lab | 234559 | [234559-rattyivty-lab.json](./234559-rattyivty-lab.json) |
 | Ratyboy Adventures | 242657 | [242657-ratyboy-adventures.json](./242657-ratyboy-adventures.json) |
 | Ratz Instagib | 9193 | [9193-ratz-instagib.json](./9193-ratz-instagib.json) |
+| Räv Kafé | 395158 | [395158-rav-kafe.json](./395158-rav-kafe.json) |
 | Ravage | 306435 | [306435-ravage.json](./306435-ravage.json) |
 | Ravage Fist | 417716 | [417716-ravage-fist.json](./417716-ravage-fist.json) |
 | Ravage Road | 228458 | [228458-ravage-road.json](./228458-ravage-road.json) |
@@ -5985,6 +5987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running King | 83559 | [83559-running-king.json](./83559-running-king.json) |
 | Running Knight | 308401 | [308401-running-knight.json](./308401-running-knight.json) |
 | Running Late | 300029 | [300029-running-late.json](./300029-running-late.json) |
+| Running Late | 395109 | [395109-running-late.json](./395109-running-late.json) |
 | Running Late 2 | 256842 | [256842-running-late-2.json](./256842-running-late-2.json) |
 | Running MrBeast | 229338 | [229338-running-mrbeast.json](./229338-running-mrbeast.json) |
 | Running Naked Simulator 2019 | 110810 | [110810-running-naked-simulator-2019.json](./110810-running-naked-simulator-2019.json) |
