@@ -293,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fair And Balanced | 411716 | [411716-fair-and-balanced.json](./411716-fair-and-balanced.json) |
 | Fair Deal: Las Vegas | 110129 | [110129-fair-deal-las-vegas.json](./110129-fair-deal-las-vegas.json) |
 | Fair Food Maker Game | 97153 | [97153-fair-food-maker-game.json](./97153-fair-food-maker-game.json) |
+| Fair Strike | 35675 | [35675-fair-strike.json](./35675-fair-strike.json) |
 | Faircroft's Antiques: The Forbidden Crypt | 182361 | [182361-faircrofts-antiques-the-forbidden-crypt.json](./182361-faircrofts-antiques-the-forbidden-crypt.json) |
 | Faircroft's Antiques: The Heir of Glen Kinnoch | 148993 | [148993-faircrofts-antiques-the-heir-of-glen-kinnoch.json](./148993-faircrofts-antiques-the-heir-of-glen-kinnoch.json) |
 | Faircroft's Antiques: The Mountaineer's Legacy | 197413 | [197413-faircrofts-antiques-the-mountaineers-legacy.json](./197413-faircrofts-antiques-the-mountaineers-legacy.json) |
@@ -469,6 +470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall of Porcupine: Save the World Edition | 254153 | [254153-fall-of-porcupine-save-the-world-edition.json](./254153-fall-of-porcupine-save-the-world-edition.json) |
 | Fall of the Mist | 293684 | [293684-fall-of-the-mist.json](./293684-fall-of-the-mist.json) |
 | Fall Of The MS Estonia | 294295 | [294295-fall-of-the-ms-estonia.json](./294295-fall-of-the-ms-estonia.json) |
+| Fall of the New Age: Premium Edition | 36265 | [36265-fall-of-the-new-age-premium-edition.json](./36265-fall-of-the-new-age-premium-edition.json) |
 | Fall of the Son | 264108 | [264108-fall-of-the-son.json](./264108-fall-of-the-son.json) |
 | Fall Platform | 320536 | [320536-fall-platform.json](./320536-fall-platform.json) |
 | Fall Weiss | 62205 | [62205-fall-weiss.json](./62205-fall-weiss.json) |
@@ -1126,6 +1128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farlands Journey | 301337 | [301337-farlands-journey.json](./301337-farlands-journey.json) |
 | Farlands: Tiny Harvest | 378287 | [378287-farlands-tiny-harvest.json](./378287-farlands-tiny-harvest.json) |
 | Farlight 84 | 142862 | [142862-farlight-84.json](./142862-farlight-84.json) |
+| Farlight Explorers | 35681 | [35681-farlight-explorers.json](./35681-farlight-explorers.json) |
 | Farm | 328533 | [328533-farm.json](./328533-farm.json) |
 | Farm | 364085 | [364085-farm.json](./364085-farm.json) |
 | Farm and Click - Idle Hell Clicker | 95862 | [95862-farm-and-click-idle-hell-clicker.json](./95862-farm-and-click-idle-hell-clicker.json) |
