@@ -6961,6 +6961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brew & Dash | 381282 | [381282-brew-and-dash.json](./381282-brew-and-dash.json) |
 | Brew-Ha | 89386 | [89386-brew-ha.json](./89386-brew-ha.json) |
 | Brewconomy | 372656 | [372656-brewconomy.json](./372656-brewconomy.json) |
+| Brewer | 117386 | [117386-brewer.json](./117386-brewer.json) |
 | Brewess | 245835 | [245835-brewess.json](./245835-brewess.json) |
 | Brewgether | 406123 | [406123-brewgether.json](./406123-brewgether.json) |
 | Brewing Drawings | 184891 | [184891-brewing-drawings.json](./184891-brewing-drawings.json) |
@@ -7559,6 +7560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buddy Toss | 106736 | [106736-buddy-toss.json](./106736-buddy-toss.json) |
 | Buddy, No! | 234191 | [234191-buddy-no.json](./234191-buddy-no.json) |
 | Budget Backrooms | 266290 | [266290-budget-backrooms.json](./266290-budget-backrooms.json) |
+| Budget Cuts 2: Mission Insolvency | 119340 | [119340-budget-cuts-2-mission-insolvency.json](./119340-budget-cuts-2-mission-insolvency.json) |
 | Budget Rate Stigmata | 362855 | [362855-budget-rate-stigmata.json](./362855-budget-rate-stigmata.json) |
 | Buenos Aires Mirror Line | 391162 | [391162-buenos-aires-mirror-line.json](./391162-buenos-aires-mirror-line.json) |
 | Buff Doge | 219066 | [219066-buff-doge.json](./219066-buff-doge.json) |
