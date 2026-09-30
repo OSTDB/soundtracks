@@ -2373,6 +2373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interstellar Holy Spirit | 372128 | [372128-interstellar-holy-spirit.json](./372128-interstellar-holy-spirit.json) |
 | Interstellar Impact | 270090 | [270090-interstellar-impact.json](./270090-interstellar-impact.json) |
 | Interstellar Invaders | 68715 | [68715-interstellar-invaders.json](./68715-interstellar-invaders.json) |
+| Interstellar Logistics Inc | 32033 | [32033-interstellar-logistics-inc.json](./32033-interstellar-logistics-inc.json) |
 | Interstellar Marines: Spearhead Edition | 25059 | [25059-interstellar-marines-spearhead-edition.json](./25059-interstellar-marines-spearhead-edition.json) |
 | Interstellar Orphan | 178634 | [178634-interstellar-orphan.json](./178634-interstellar-orphan.json) |
 | Interstellar Pilot | 207860 | [207860-interstellar-pilot.json](./207860-interstellar-pilot.json) |
