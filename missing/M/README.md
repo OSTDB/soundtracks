@@ -9308,6 +9308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Lil' Donut | 31971 | [31971-my-lil-donut.json](./31971-my-lil-donut.json) |
 | My Little Animal Boy | 279673 | [279673-my-little-animal-boy.json](./279673-my-little-animal-boy.json) |
 | My Little Bakery | 89228 | [89228-my-little-bakery.json](./89228-my-little-bakery.json) |
+| My Little Bomb | 81920 | [81920-my-little-bomb.json](./81920-my-little-bomb.json) |
 | My Little Cafe Nightmare | 348334 | [348334-my-little-cafe-nightmare.json](./348334-my-little-cafe-nightmare.json) |
 | My Little Career | 261852 | [261852-my-little-career.json](./261852-my-little-career.json) |
 | My Little Cemetery | 294173 | [294173-my-little-cemetery.json](./294173-my-little-cemetery.json) |
