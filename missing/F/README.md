@@ -4579,6 +4579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten | 26702 | [26702-forgotten.json](./26702-forgotten.json) |
 | Forgotten 23 | 304661 | [304661-forgotten-23.json](./304661-forgotten-23.json) |
 | Forgotten Adventure | 101388 | [101388-forgotten-adventure.json](./101388-forgotten-adventure.json) |
+| Forgotten Blood | 404288 | [404288-forgotten-blood.json](./404288-forgotten-blood.json) |
 | Forgotten but Unbroken | 223293 | [223293-forgotten-but-unbroken.json](./223293-forgotten-but-unbroken.json) |
 | Forgotten Castle | 113891 | [113891-forgotten-castle.json](./113891-forgotten-castle.json) |
 | Forgotten Chain | 172659 | [172659-forgotten-chain.json](./172659-forgotten-chain.json) |
