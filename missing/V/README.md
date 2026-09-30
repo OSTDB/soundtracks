@@ -879,6 +879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viarkanoid | 89373 | [89373-viarkanoid.json](./89373-viarkanoid.json) |
 | Vib-Ripple | 25096 | [25096-vib-ripple.json](./25096-vib-ripple.json) |
 | Vibin'Vendetta | 302671 | [302671-vibinvendetta.json](./302671-vibinvendetta.json) |
+| Vibrant Color Simple Answers | 397136 | [397136-vibrant-color-simple-answers.json](./397136-vibrant-color-simple-answers.json) |
 | Vibrant Venture | 127991 | [127991-vibrant-venture.json](./127991-vibrant-venture.json) |
 | Vic Panic | 130371 | [130371-vic-panic.json](./130371-vic-panic.json) |
 | VIC Scramble | 92825 | [92825-vic-scramble.json](./92825-vic-scramble.json) |
