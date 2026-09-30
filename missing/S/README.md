@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.C. Out | 150073 | [150073-s-c-out.json](./150073-s-c-out.json) |
 | S.C.A: Sexually Customized Android in This Renewing World | 82800 | [82800-s-c-a-sexually-customized-android-in-this-renewing-world.json](./82800-s-c-a-sexually-customized-android-in-this-renewing-world.json) |
 | S.C.A.R | 169437 | [169437-s-c-a-r.json](./169437-s-c-a-r.json) |
+| S.C.A.R.S. | 3341 | [3341-s-c-a-r-s.json](./3341-s-c-a-r-s.json) |
 | S.C.A.T.: Special Cybernetic Attack Team | 48202 | [48202-s-c-a-t-special-cybernetic-attack-team.json](./48202-s-c-a-t-special-cybernetic-attack-team.json) |
 | S.C.I.: Special Criminal Investigation | 11999 | [11999-s-c-i-special-criminal-investigation.json](./11999-s-c-i-special-criminal-investigation.json) |
 | S.C.I.: Special Criminal Investigation | 230755 | [230755-s-c-i-special-criminal-investigation.json](./230755-s-c-i-special-criminal-investigation.json) |
@@ -2577,6 +2578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentence | 138130 | [138130-sentence.json](./138130-sentence.json) |
 | Sentenced VR | 152221 | [152221-sentenced-vr.json](./152221-sentenced-vr.json) |
 | Sentience | 143695 | [143695-sentience.json](./143695-sentience.json) |
+| Sentient | 2234 | [2234-sentient.json](./2234-sentient.json) |
 | Sentient | 227966 | [227966-sentient.json](./227966-sentient.json) |
 | Sentient Noir | 219618 | [219618-sentient-noir.json](./219618-sentient-noir.json) |
 | Sentient: Arena Mech Royale | 130758 | [130758-sentient-arena-mech-royale.json](./130758-sentient-arena-mech-royale.json) |
@@ -3089,6 +3091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Land | 242558 | [242558-shadow-land.json](./242558-shadow-land.json) |
 | Shadow Legend VR | 112926 | [112926-shadow-legend-vr.json](./112926-shadow-legend-vr.json) |
 | Shadow Man | 3598 | [3598-shadow-man.json](./3598-shadow-man.json) |
+| Shadow Man: 2econd Coming | 3599 | [3599-shadow-man-2econd-coming.json](./3599-shadow-man-2econd-coming.json) |
 | Shadow Mansion 2 | 374144 | [374144-shadow-mansion-2.json](./374144-shadow-mansion-2.json) |
 | Shadow Mantis | 377086 | [377086-shadow-mantis.json](./377086-shadow-mantis.json) |
 | Shadow Matching Puzzles | 231904 | [231904-shadow-matching-puzzles.json](./231904-shadow-matching-puzzles.json) |
@@ -3389,6 +3392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanhe Remain | 375988 | [375988-shanhe-remain.json](./375988-shanhe-remain.json) |
 | Shank the Cop | 155988 | [155988-shank-the-cop.json](./155988-shank-the-cop.json) |
 | Shankala | 377045 | [377045-shankala.json](./377045-shankala.json) |
+| Shannara | 2233 | [2233-shannara.json](./2233-shannara.json) |
 | Shanshui Haven | 273347 | [273347-shanshui-haven.json](./273347-shanshui-haven.json) |
 | Shantae Advance: Risky Revolution | 276506 | [276506-shantae-advance-risky-revolution.json](./276506-shantae-advance-risky-revolution.json) |
 | Shantae and the Pirate's Curse: Collector's Edition | 136272 | [136272-shantae-and-the-pirates-curse-collectors-edition.json](./136272-shantae-and-the-pirates-curse-collectors-edition.json) |
@@ -5235,6 +5239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar Starter Pack | 268746 | [268746-singstar-starter-pack.json](./268746-singstar-starter-pack.json) |
 | SingStar Vol. 3: Party Edition | 52829 | [52829-singstar-vol-3-party-edition.json](./52829-singstar-vol-3-party-edition.json) |
 | SingStar: A Tutto Pop | 268743 | [268743-singstar-a-tutto-pop.json](./268743-singstar-a-tutto-pop.json) |
+| SingStar: ABBA | 3306 | [3306-singstar-abba.json](./3306-singstar-abba.json) |
 | SingStar: Afrikaanse Treffers | 15439 | [15439-singstar-afrikaanse-treffers.json](./15439-singstar-afrikaanse-treffers.json) |
 | SingStar: Cantautori Italiani | 15440 | [15440-singstar-cantautori-italiani.json](./15440-singstar-cantautori-italiani.json) |
 | SingStar: Chartbreaker | 136395 | [136395-singstar-chartbreaker.json](./136395-singstar-chartbreaker.json) |
@@ -10286,10 +10291,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: The Fry Cook Games | 220115 | [220115-spongebob-squarepants-the-fry-cook-games.json](./220115-spongebob-squarepants-the-fry-cook-games.json) |
 | SpongeBob SquarePants: The Patrick Star Game | 314939 | [314939-spongebob-squarepants-the-patrick-star-game.json](./314939-spongebob-squarepants-the-patrick-star-game.json) |
 | SpongeBob SquarePants: Titans of the Tide | 358751 | [358751-spongebob-squarepants-titans-of-the-tide.json](./358751-spongebob-squarepants-titans-of-the-tide.json) |
+| SpongeBob SquarePants: Underpants Slam | 2775 | [2775-spongebob-squarepants-underpants-slam.json](./2775-spongebob-squarepants-underpants-slam.json) |
 | SpongeBob: Bubble Pop F.U.N. | 320381 | [320381-spongebob-bubble-pop-f-u-n.json](./320381-spongebob-bubble-pop-f-u-n.json) |
 | SpongeBob: Krusty Cook-Off | 130748 | [130748-spongebob-krusty-cook-off.json](./130748-spongebob-krusty-cook-off.json) |
 | SpongeBob: Krusty Cook-Off - Extra Krusty Edition | 221331 | [221331-spongebob-krusty-cook-off-extra-krusty-edition.json](./221331-spongebob-krusty-cook-off-extra-krusty-edition.json) |
 | SpongeBob's Atlantis Squarepantis | 221834 | [221834-spongebobs-atlantis-squarepantis.json](./221834-spongebobs-atlantis-squarepantis.json) |
+| SpongeBob's Atlantis Squarepantis | 2773 | [2773-spongebobs-atlantis-squarepantis.json](./2773-spongebobs-atlantis-squarepantis.json) |
 | SpongeBob's Atlantis Squarepantis | 43312 | [43312-spongebobs-atlantis-squarepantis.json](./43312-spongebobs-atlantis-squarepantis.json) |
 | SpongeBob's Atlantis Squarepantis | 43647 | [43647-spongebobs-atlantis-squarepantis.json](./43647-spongebobs-atlantis-squarepantis.json) |
 | SpongeBob's Atlantis SquarePantis SquareOff | 286583 | [286583-spongebobs-atlantis-squarepantis-squareoff.json](./286583-spongebobs-atlantis-squarepantis-squareoff.json) |
@@ -11192,6 +11199,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Borg | 70345 | [70345-star-trek-borg.json](./70345-star-trek-borg.json) |
 | Star Trek: Bridge Crew | 19519 | [19519-star-trek-bridge-crew.json](./19519-star-trek-bridge-crew.json) |
 | Star Trek: Deep Space Nine - Crossroads of Time | 3280 | [3280-star-trek-deep-space-nine-crossroads-of-time.json](./3280-star-trek-deep-space-nine-crossroads-of-time.json) |
+| Star Trek: Deep Space Nine - Dominion Wars | 3282 | [3282-star-trek-deep-space-nine-dominion-wars.json](./3282-star-trek-deep-space-nine-dominion-wars.json) |
+| Star Trek: Deep Space Nine - The Fallen | 3281 | [3281-star-trek-deep-space-nine-the-fallen.json](./3281-star-trek-deep-space-nine-the-fallen.json) |
 | Star Trek: En Territoire Alien | 110351 | [110351-star-trek-en-territoire-alien.json](./110351-star-trek-en-territoire-alien.json) |
 | Star Trek: Encounters | 20594 | [20594-star-trek-encounters.json](./20594-star-trek-encounters.json) |
 | Star Trek: First Contact | 71059 | [71059-star-trek-first-contact.json](./71059-star-trek-first-contact.json) |
@@ -11210,6 +11219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Strategic Operations Simulator | 282082 | [282082-star-trek-strategic-operations-simulator.json](./282082-star-trek-strategic-operations-simulator.json) |
 | Star Trek: The Game Show | 69228 | [69228-star-trek-the-game-show.json](./69228-star-trek-the-game-show.json) |
 | Star Trek: The Next Generation | 365694 | [365694-star-trek-the-next-generation.json](./365694-star-trek-the-next-generation.json) |
+| Star Trek: The Next Generation - A Final Unity | 2228 | [2228-star-trek-the-next-generation-a-final-unity.json](./2228-star-trek-the-next-generation-a-final-unity.json) |
 | Star Trek: The Next Generation - Klingon Honor Guard | 84216 | [84216-star-trek-the-next-generation-klingon-honor-guard.json](./84216-star-trek-the-next-generation-klingon-honor-guard.json) |
 | Star Trek: The Next Generation - The Transinium Challenge | 69214 | [69214-star-trek-the-next-generation-the-transinium-challenge.json](./69214-star-trek-the-next-generation-the-transinium-challenge.json) |
 | Star Trek: The Rebel Universe | 15376 | [15376-star-trek-the-rebel-universe.json](./15376-star-trek-the-rebel-universe.json) |
@@ -11496,6 +11506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stargate Online TCG | 21529 | [21529-stargate-online-tcg.json](./21529-stargate-online-tcg.json) |
 | Stargate SG-1 | 280286 | [280286-stargate-sg-1.json](./280286-stargate-sg-1.json) |
 | Stargate SG-1: Entropy Syndrome | 280284 | [280284-stargate-sg-1-entropy-syndrome.json](./280284-stargate-sg-1-entropy-syndrome.json) |
+| Stargate SG-1: Unleashed - Episode 1 | 1984 | [1984-stargate-sg-1-unleashed-episode-1.json](./1984-stargate-sg-1-unleashed-episode-1.json) |
 | Stargate SG-1: Unleashed - Episode 2 | 308352 | [308352-stargate-sg-1-unleashed-episode-2.json](./308352-stargate-sg-1-unleashed-episode-2.json) |
 | Stargate Worlds | 14534 | [14534-stargate-worlds.json](./14534-stargate-worlds.json) |
 | Stargaze | 139479 | [139479-stargaze.json](./139479-stargaze.json) |
@@ -12416,6 +12427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stock: Retail investors | 295542 | [295542-stock-retail-investors.json](./295542-stock-retail-investors.json) |
 | Stockfish Chess | 87155 | [87155-stockfish-chess.json](./87155-stockfish-chess.json) |
 | StockSim | 332623 | [332623-stocksim.json](./332623-stocksim.json) |
+| Stocksynd House | 128767 | [128767-stocksynd-house.json](./128767-stocksynd-house.json) |
 | Stoirs VR | 160156 | [160156-stoirs-vr.json](./160156-stoirs-vr.json) |
 | Stoked | 7195 | [7195-stoked.json](./7195-stoked.json) |
 | Stoked: Big Air Edition | 21107 | [21107-stoked-big-air-edition.json](./21107-stoked-big-air-edition.json) |
@@ -15578,6 +15590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supreme Earth Champion | 73257 | [73257-supreme-earth-champion.json](./73257-supreme-earth-champion.json) |
 | Supreme Kung Fu | 339474 | [339474-supreme-kung-fu.json](./339474-supreme-kung-fu.json) |
 | Supreme Ruler 1936 | 16574 | [16574-supreme-ruler-1936.json](./16574-supreme-ruler-1936.json) |
+| Supreme Ruler 2020 | 2024 | [2024-supreme-ruler-2020.json](./2024-supreme-ruler-2020.json) |
 | Supreme Ruler 2020 Gold | 25062 | [25062-supreme-ruler-2020-gold.json](./25062-supreme-ruler-2020-gold.json) |
 | Supreme Ruler 2020: Global Crisis | 26931 | [26931-supreme-ruler-2020-global-crisis.json](./26931-supreme-ruler-2020-global-crisis.json) |
 | Supreme Ruler 2020: Gold Edition | 51934 | [51934-supreme-ruler-2020-gold-edition.json](./51934-supreme-ruler-2020-gold-edition.json) |
