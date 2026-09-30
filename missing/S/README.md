@@ -1145,6 +1145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Creatures | 34194 | [34194-save-the-creatures.json](./34194-save-the-creatures.json) |
 | Save the Date | 313845 | [313845-save-the-date.json](./313845-save-the-date.json) |
 | Save the Date | 44123 | [44123-save-the-date.json](./44123-save-the-date.json) |
+| Save The Dev | 397176 | [397176-save-the-dev.json](./397176-save-the-dev.json) |
 | Save the Dinos | 206660 | [206660-save-the-dinos.json](./206660-save-the-dinos.json) |
 | Save the Dungeon! | 265578 | [265578-save-the-dungeon.json](./265578-save-the-dungeon.json) |
 | Save the Eggs | 416110 | [416110-save-the-eggs.json](./416110-save-the-eggs.json) |
@@ -1676,6 +1677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrap Age Survivors | 306498 | [306498-scrap-age-survivors.json](./306498-scrap-age-survivors.json) |
 | Scrap Attack | 81924 | [81924-scrap-attack.json](./81924-scrap-attack.json) |
 | Scrap Bringer | 172130 | [172130-scrap-bringer.json](./172130-scrap-bringer.json) |
+| Scrap Clicker | 397173 | [397173-scrap-clicker.json](./397173-scrap-clicker.json) |
 | Scrap Dealer Simulator | 334136 | [334136-scrap-dealer-simulator.json](./334136-scrap-dealer-simulator.json) |
 | Scrap Divers | 334102 | [334102-scrap-divers.json](./334102-scrap-divers.json) |
 | Scrap Galaxy | 75021 | [75021-scrap-galaxy.json](./75021-scrap-galaxy.json) |
@@ -8393,6 +8395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Uprising | 318630 | [318630-sonic-uprising.json](./318630-sonic-uprising.json) |
 | Sonic Utopia | 305281 | [305281-sonic-utopia.json](./305281-sonic-utopia.json) |
 | Sonic Vex | 330520 | [330520-sonic-vex.json](./330520-sonic-vex.json) |
+| Sonic VR | 397132 | [397132-sonic-vr.json](./397132-sonic-vr.json) |
 | Sonic VS. Darkness: True Nightmare Revived | 140402 | [140402-sonic-vs-darkness-true-nightmare-revived.json](./140402-sonic-vs-darkness-true-nightmare-revived.json) |
 | Sonic vs. Dogs | 315038 | [315038-sonic-vs-dogs.json](./315038-sonic-vs-dogs.json) |
 | Sonic vs. Simpson | 315037 | [315037-sonic-vs-simpson.json](./315037-sonic-vs-simpson.json) |
