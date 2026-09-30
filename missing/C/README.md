@@ -117,6 +117,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cadence of Hyrule: Crypt of the NecroDancer Featuring the Legend of Zelda - Season Pass | 141742 | [141742-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-season-pass.json](./141742-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-season-pass.json) |
 | Cadenza: Havana Nights | 188030 | [188030-cadenza-havana-nights.json](./188030-cadenza-havana-nights.json) |
 | Cadenza: Music, Betrayal and Death - Collector's Edition | 36465 | [36465-cadenza-music-betrayal-and-death-collectors-edition.json](./36465-cadenza-music-betrayal-and-death-collectors-edition.json) |
+| Cadenza: The Following | 417491 | [417491-cadenza-the-following.json](./417491-cadenza-the-following.json) |
+| Cadenza: The Following - Collector's Edition | 417492 | [417492-cadenza-the-following-collectors-edition.json](./417492-cadenza-the-following-collectors-edition.json) |
 | Cadenza: The Kiss of Death | 88811 | [88811-cadenza-the-kiss-of-death.json](./88811-cadenza-the-kiss-of-death.json) |
 | Cadenza: The Kiss of Death - Collector's Edition | 76703 | [76703-cadenza-the-kiss-of-death-collectors-edition.json](./76703-cadenza-the-kiss-of-death-collectors-edition.json) |
 | Cadillac | 94896 | [94896-cadillac.json](./94896-cadillac.json) |
@@ -1116,6 +1118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CardScrawl | 311591 | [311591-cardscrawl.json](./311591-cardscrawl.json) |
 | CardShark | 239741 | [239741-cardshark.json](./239741-cardshark.json) |
 | CardShark Hearts | 83479 | [83479-cardshark-hearts.json](./83479-cardshark-hearts.json) |
+| Cardsharp | 417445 | [417445-cardsharp.json](./417445-cardsharp.json) |
 | Cardtographer | 330339 | [330339-cardtographer.json](./330339-cardtographer.json) |
 | CardWarden | 175409 | [175409-cardwarden.json](./175409-cardwarden.json) |
 | CardWirth | 172774 | [172774-cardwirth.json](./172774-cardwirth.json) |
@@ -1217,6 +1220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnivores: Dinosaur Hunt - Cretaceous Terror Pack | 214450 | [214450-carnivores-dinosaur-hunt-cretaceous-terror-pack.json](./214450-carnivores-dinosaur-hunt-cretaceous-terror-pack.json) |
 | Carnivores: Dinosaur Hunter | 20569 | [20569-carnivores-dinosaur-hunter.json](./20569-carnivores-dinosaur-hunter.json) |
 | Carnivores: Dinosaur Hunter HD | 20570 | [20570-carnivores-dinosaur-hunter-hd.json](./20570-carnivores-dinosaur-hunter-hd.json) |
+| Carnor City | 417417 | [417417-carnor-city.json](./417417-carnor-city.json) |
 | Carnosis | 414556 | [414556-carnosis.json](./414556-carnosis.json) |
 | Carol Coral's: Open the Door | 319552 | [319552-carol-corals-open-the-door.json](./319552-carol-corals-open-the-door.json) |
 | Carol the Dark Angel | 209722 | [209722-carol-the-dark-angel.json](./209722-carol-the-dark-angel.json) |
@@ -2550,6 +2554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chance | 387323 | [387323-chance.json](./387323-chance.json) |
 | Chance at Life | 203530 | [203530-chance-at-life.json](./203530-chance-at-life.json) |
 | Chance of the Dead | 166691 | [166691-chance-of-the-dead.json](./166691-chance-of-the-dead.json) |
+| Chance's Lucky Escape 2 | 417426 | [417426-chances-lucky-escape-2.json](./417426-chances-lucky-escape-2.json) |
 | Chang'an: The capital of Tang Dynasty | 147403 | [147403-changan-the-capital-of-tang-dynasty.json](./147403-changan-the-capital-of-tang-dynasty.json) |
 | Changa | 196713 | [196713-changa.json](./196713-changa.json) |
 | Change | 229674 | [229674-change.json](./229674-change.json) |
@@ -3182,6 +3187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chickens Don't Fly | 361681 | [361681-chickens-dont-fly.json](./361681-chickens-dont-fly.json) |
 | Chickens in Choppers | 270401 | [270401-chickens-in-choppers.json](./270401-chickens-in-choppers.json) |
 | Chickens on the Road | 143072 | [143072-chickens-on-the-road.json](./143072-chickens-on-the-road.json) |
+| Chickens. Chickens? Chickens! | 417412 | [417412-chickens-chickens-chickens.json](./417412-chickens-chickens-chickens.json) |
 | Chicklet | 365167 | [365167-chicklet.json](./365167-chicklet.json) |
 | Chicktionary | 375202 | [375202-chicktionary.json](./375202-chicktionary.json) |
 | Chicku | 181397 | [181397-chicku.json](./181397-chicku.json) |
@@ -3663,6 +3669,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Wonderland 15 | 417594 | [417594-christmas-wonderland-15.json](./417594-christmas-wonderland-15.json) |
 | Christmas Wonderland 16 | 417595 | [417595-christmas-wonderland-16.json](./417595-christmas-wonderland-16.json) |
 | Christmas Wonderland 7 | 226426 | [226426-christmas-wonderland-7.json](./226426-christmas-wonderland-7.json) |
+| Christmas Wonderland 8 | 417622 | [417622-christmas-wonderland-8.json](./417622-christmas-wonderland-8.json) |
+| Christmas Wonderland 9 | 417623 | [417623-christmas-wonderland-9.json](./417623-christmas-wonderland-9.json) |
 | Christmas Yarn 2 | 278699 | [278699-christmas-yarn-2.json](./278699-christmas-yarn-2.json) |
 | Christmas Yarn 3: Collector's Edition | 337271 | [337271-christmas-yarn-3-collectors-edition.json](./337271-christmas-yarn-3-collectors-edition.json) |
 | Christmas: Dark Side | 286006 | [286006-christmas-dark-side.json](./286006-christmas-dark-side.json) |
@@ -6391,6 +6399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookies Inc. | 243980 | [243980-cookies-inc.json](./243980-cookies-inc.json) |
 | Cookies Must Die | 132117 | [132117-cookies-must-die.json](./132117-cookies-must-die.json) |
 | Cookies! Theory of Super Evolution | 222257 | [222257-cookies-theory-of-super-evolution.json](./222257-cookies-theory-of-super-evolution.json) |
+| Cookiesaner | 417483 | [417483-cookiesaner.json](./417483-cookiesaner.json) |
 | Cookin' Idol I! My! Main! Game de Hirameki! Kirameki Cooking | 123019 | [123019-cookin-idol-i-my-main-game-de-hirameki-kirameki-cooking.json](./123019-cookin-idol-i-my-main-game-de-hirameki-kirameki-cooking.json) |
 | Cooking | 314874 | [314874-cooking.json](./314874-cooking.json) |
 | Cooking Academy 2: World Cuisine | 208483 | [208483-cooking-academy-2-world-cuisine.json](./208483-cooking-academy-2-world-cuisine.json) |
@@ -6412,6 +6421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Crew | 262954 | [262954-cooking-crew.json](./262954-cooking-crew.json) |
 | Cooking Diary: Welcome to Tasty Hills | 106991 | [106991-cooking-diary-welcome-to-tasty-hills.json](./106991-cooking-diary-welcome-to-tasty-hills.json) |
 | Cooking Fever | 87046 | [87046-cooking-fever.json](./87046-cooking-fever.json) |
+| Cooking Fist | 417414 | [417414-cooking-fist.json](./417414-cooking-fist.json) |
 | Cooking For Ma! | 404941 | [404941-cooking-for-ma.json](./404941-cooking-for-ma.json) |
 | Cooking Joy - Fun Cooking Game | 103872 | [103872-cooking-joy-fun-cooking-game.json](./103872-cooking-joy-fun-cooking-game.json) |
 | Cooking Live | 226690 | [226690-cooking-live.json](./226690-cooking-live.json) |
@@ -6545,6 +6555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core of Darkness | 117681 | [117681-core-of-darkness.json](./117681-core-of-darkness.json) |
 | Core of Innocence | 201127 | [201127-core-of-innocence.json](./201127-core-of-innocence.json) |
 | Core Panic! | 416669 | [416669-core-panic.json](./416669-core-panic.json) |
+| Core Runners | 417486 | [417486-core-runners.json](./417486-core-runners.json) |
 | Core: Licht | 204969 | [204969-core-licht.json](./204969-core-licht.json) |
 | Core.Sys | 351094 | [351094-core-sys.json](./351094-core-sys.json) |
 | Corecraft | 307107 | [307107-corecraft.json](./307107-corecraft.json) |
@@ -7042,6 +7053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowculanes | 175377 | [175377-cowculanes.json](./175377-cowculanes.json) |
 | Cowgirl Adventures | 212202 | [212202-cowgirl-adventures.json](./212202-cowgirl-adventures.json) |
 | Cowgirl Boots | 141808 | [141808-cowgirl-boots.json](./141808-cowgirl-boots.json) |
+| Cowgirl Maid Milk Cafe | 417392 | [417392-cowgirl-maid-milk-cafe.json](./417392-cowgirl-maid-milk-cafe.json) |
 | Cowgirl Trainer | 331299 | [331299-cowgirl-trainer.json](./331299-cowgirl-trainer.json) |
 | Cowhop | 239631 | [239631-cowhop.json](./239631-cowhop.json) |
 | Cowpocalypse | 118382 | [118382-cowpocalypse.json](./118382-cowpocalypse.json) |
@@ -8007,6 +8019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross the Red Line | 113859 | [113859-cross-the-red-line.json](./113859-cross-the-red-line.json) |
 | Cross the Road | 186057 | [186057-cross-the-road.json](./186057-cross-the-road.json) |
 | Cross The World | 383627 | [383627-cross-the-world.json](./383627-cross-the-world.json) |
+| Cross Words | 417427 | [417427-cross-words.json](./417427-cross-words.json) |
 | Cross-Stitch Puzzle | 90822 | [90822-cross-stitch-puzzle.json](./90822-cross-stitch-puzzle.json) |
 | Crossbar Kevin | 246961 | [246961-crossbar-kevin.json](./246961-crossbar-kevin.json) |
 | Crossbars | 353963 | [353963-crossbars.json](./353963-crossbars.json) |
@@ -8160,6 +8173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown Code Chronicles | 294285 | [294285-crown-code-chronicles.json](./294285-crown-code-chronicles.json) |
 | Crown Land | 159844 | [159844-crown-land.json](./159844-crown-land.json) |
 | Crown of Arthain | 129812 | [129812-crown-of-arthain.json](./129812-crown-of-arthain.json) |
+| Crown Of Blight | 417413 | [417413-crown-of-blight.json](./417413-crown-of-blight.json) |
 | Crown of Greed | 216725 | [216725-crown-of-greed.json](./216725-crown-of-greed.json) |
 | Crown of Hispania | 403203 | [403203-crown-of-hispania.json](./403203-crown-of-hispania.json) |
 | Crown of Light | 249846 | [249846-crown-of-light.json](./249846-crown-of-light.json) |
@@ -9383,6 +9397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cypest Underground | 111734 | [111734-cypest-underground.json](./111734-cypest-underground.json) |
 | Cyphen | 339361 | [339361-cyphen.json](./339361-cyphen.json) |
 | Cypher 007 | 265647 | [265647-cypher-007.json](./265647-cypher-007.json) |
+| Cypher Override | 417490 | [417490-cypher-override.json](./417490-cypher-override.json) |
 | Cypher: Cyberpunk Text Adventure | 64616 | [64616-cypher-cyberpunk-text-adventure.json](./64616-cypher-cyberpunk-text-adventure.json) |
 | Cyra and the Beacon Path | 203962 | [203962-cyra-and-the-beacon-path.json](./203962-cyra-and-the-beacon-path.json) |
 | Cyrah's Ascent | 201558 | [201558-cyrahs-ascent.json](./201558-cyrahs-ascent.json) |
