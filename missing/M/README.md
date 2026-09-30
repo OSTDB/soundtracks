@@ -855,6 +855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnificent Alfie | 233752 | [233752-magnificent-alfie.json](./233752-magnificent-alfie.json) |
 | Magnificent Ships: Volume 2 | 34664 | [34664-magnificent-ships-volume-2.json](./34664-magnificent-ships-volume-2.json) |
 | Magnificent-1 | 196137 | [196137-magnificent-1.json](./196137-magnificent-1.json) |
+| Magnifico | 17781 | [17781-magnifico.json](./17781-magnifico.json) |
 | Magnir Saga Part 1 | 263227 | [263227-magnir-saga-part-1.json](./263227-magnir-saga-part-1.json) |
 | Magnitude: Sigma | 366213 | [366213-magnitude-sigma.json](./366213-magnitude-sigma.json) |
 | Magnolia | 141031 | [141031-magnolia.json](./141031-magnolia.json) |
@@ -1073,6 +1074,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majestic: The Card Game | 109071 | [109071-majestic-the-card-game.json](./109071-majestic-the-card-game.json) |
 | Majestria: Incremental Survival | 406891 | [406891-majestria-incremental-survival.json](./406891-majestria-incremental-survival.json) |
 | Majesty 2 Collection | 30147 | [30147-majesty-2-collection.json](./30147-majesty-2-collection.json) |
+| Majesty 2: Battles of Ardania | 19198 | [19198-majesty-2-battles-of-ardania.json](./19198-majesty-2-battles-of-ardania.json) |
+| Majesty 2: Kingmaker | 19199 | [19199-majesty-2-kingmaker.json](./19199-majesty-2-kingmaker.json) |
 | Majesty: Northern Kingdom | 224015 | [224015-majesty-northern-kingdom.json](./224015-majesty-northern-kingdom.json) |
 | Majesty: The Fantasy Kingdom Sim | 781 | [781-majesty-the-fantasy-kingdom-sim.json](./781-majesty-the-fantasy-kingdom-sim.json) |
 | Maji de Watashi ni Koishinasai! A Plus Disk | 112295 | [112295-maji-de-watashi-ni-koishinasai-a-plus-disk.json](./112295-maji-de-watashi-ni-koishinasai-a-plus-disk.json) |
@@ -1216,6 +1219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maldita Castilla EX: Collector's Edition | 182480 | [182480-maldita-castilla-ex-collectors-edition.json](./182480-maldita-castilla-ex-collectors-edition.json) |
 | MALdle | 372107 | [372107-maldle.json](./372107-maldle.json) |
 | Maldrin Journey | 123037 | [123037-maldrin-journey.json](./123037-maldrin-journey.json) |
+| Malebolgia | 17754 | [17754-malebolgia.json](./17754-malebolgia.json) |
 | Maledictor | 296969 | [296969-maledictor.json](./296969-maledictor.json) |
 | Maledictum | 382295 | [382295-maledictum.json](./382295-maledictum.json) |
 | Maleficent Free Fall | 61680 | [61680-maleficent-free-fall.json](./61680-maleficent-free-fall.json) |
@@ -2171,6 +2175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Heroes: 033 - Area Mod: Tunnels of Terror | 363473 | [363473-marvel-heroes-033-area-mod-tunnels-of-terror.json](./363473-marvel-heroes-033-area-mod-tunnels-of-terror.json) |
 | Marvel Kapow! | 92612 | [92612-marvel-kapow.json](./92612-marvel-kapow.json) |
 | Marvel Mystic Mayhem | 319970 | [319970-marvel-mystic-mayhem.json](./319970-marvel-mystic-mayhem.json) |
+| Marvel Pinball | 19651 | [19651-marvel-pinball.json](./19651-marvel-pinball.json) |
 | Marvel Pinball 3D | 23672 | [23672-marvel-pinball-3d.json](./23672-marvel-pinball-3d.json) |
 | Marvel Pinball: Avengers Chronicles | 20821 | [20821-marvel-pinball-avengers-chronicles.json](./20821-marvel-pinball-avengers-chronicles.json) |
 | Marvel Rivals: Pick-Up Bundle | 355093 | [355093-marvel-rivals-pick-up-bundle.json](./355093-marvel-rivals-pick-up-bundle.json) |
@@ -3116,6 +3121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechQuest | 78644 | [78644-mechquest.json](./78644-mechquest.json) |
 | MechScape | 94019 | [94019-mechscape.json](./94019-mechscape.json) |
 | Mechsternmination Force | 115705 | [115705-mechsternmination-force.json](./115705-mechsternmination-force.json) |
+| MechWarrior 2: Ghost Bear's Legacy | 19189 | [19189-mechwarrior-2-ghost-bears-legacy.json](./19189-mechwarrior-2-ghost-bears-legacy.json) |
 | MechWarrior 2: The Titanium Trilogy | 209534 | [209534-mechwarrior-2-the-titanium-trilogy.json](./209534-mechwarrior-2-the-titanium-trilogy.json) |
 | MechWarrior 3 | 19190 | [19190-mechwarrior-3.json](./19190-mechwarrior-3.json) |
 | MechWarrior 4: Clan 'Mech Pak | 78009 | [78009-mechwarrior-4-clan-mech-pak.json](./78009-mechwarrior-4-clan-mech-pak.json) |
@@ -9427,6 +9433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Sticker Room | 383969 | [383969-my-sticker-room.json](./383969-my-sticker-room.json) |
 | My Stop Smoking Coach with Allen Carr | 70638 | [70638-my-stop-smoking-coach-with-allen-carr.json](./70638-my-stop-smoking-coach-with-allen-carr.json) |
 | My Strange Girlfriends | 248926 | [248926-my-strange-girlfriends.json](./248926-my-strange-girlfriends.json) |
+| My Street | 19306 | [19306-my-street.json](./19306-my-street.json) |
 | My Strong Horse | 164256 | [164256-my-strong-horse.json](./164256-my-strong-horse.json) |
 | My Strongest Girlfriend | 316651 | [316651-my-strongest-girlfriend.json](./316651-my-strongest-girlfriend.json) |
 | My Sudoku | 321960 | [321960-my-sudoku.json](./321960-my-sudoku.json) |
