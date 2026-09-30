@@ -1352,6 +1352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 99 Dead Pirates | 240886 | [240886-99-dead-pirates.json](./240886-99-dead-pirates.json) |
 | 99 no Namida | 66970 | [66970-99-no-namida.json](./66970-99-no-namida.json) |
 | 99 Problems | 353316 | [353316-99-problems.json](./353316-99-problems.json) |
+| 99 Spirits | 9937 | [9937-99-spirits.json](./9937-99-spirits.json) |
 | 99 Spirits: Cage of Night | 11438 | [11438-99-spirits-cage-of-night.json](./11438-99-spirits-cage-of-night.json) |
 | 99 Spirits: Weeping Demon's Bell | 11439 | [11439-99-spirits-weeping-demons-bell.json](./11439-99-spirits-weeping-demons-bell.json) |
 | 99 Waves | 283870 | [283870-99-waves.json](./283870-99-waves.json) |
