@@ -1238,6 +1238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gems and Knight | 274450 | [274450-gems-and-knight.json](./274450-gems-and-knight.json) |
 | Gems Frontier | 98550 | [98550-gems-frontier.json](./98550-gems-frontier.json) |
 | Gems of Destiny: Magic Rescue | 416696 | [416696-gems-of-destiny-magic-rescue.json](./416696-gems-of-destiny-magic-rescue.json) |
+| Gems of Egypt | 395773 | [395773-gems-of-egypt.json](./395773-gems-of-egypt.json) |
 | Gems of Fate: the Charmed King | 133426 | [133426-gems-of-fate-the-charmed-king.json](./133426-gems-of-fate-the-charmed-king.json) |
 | Gems of Magic: Double Pack | 242051 | [242051-gems-of-magic-double-pack.json](./242051-gems-of-magic-double-pack.json) |
 | Gems of Magic: Lost Family | 116367 | [116367-gems-of-magic-lost-family.json](./116367-gems-of-magic-lost-family.json) |
