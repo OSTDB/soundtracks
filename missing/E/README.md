@@ -649,6 +649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg Time | 31213 | [31213-egg-time.json](./31213-egg-time.json) |
 | Egg War Puzzle | 257916 | [257916-egg-war-puzzle.json](./257916-egg-war-puzzle.json) |
 | Egg Yolk Life | 129715 | [129715-egg-yolk-life.json](./129715-egg-yolk-life.json) |
+| Eggbert's Bird Bath | 404391 | [404391-eggberts-bird-bath.json](./404391-eggberts-bird-bath.json) |
 | Eggcellent VR | 113187 | [113187-eggcellent-vr.json](./113187-eggcellent-vr.json) |
 | Eggconsole Advanced Lord Monarch PC-9801 | 394385 | [394385-eggconsole-advanced-lord-monarch-pc-9801.json](./394385-eggconsole-advanced-lord-monarch-pc-9801.json) |
 | Eggconsole Adventure of Randar MSX2 | 399637 | [399637-eggconsole-adventure-of-randar-msx2.json](./399637-eggconsole-adventure-of-randar-msx2.json) |
