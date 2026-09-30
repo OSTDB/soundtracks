@@ -1965,6 +1965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death by Degrees | 1241 | [1241-death-by-degrees.json](./1241-death-by-degrees.json) |
 | Death by Flower Arrangement | 186164 | [186164-death-by-flower-arrangement.json](./186164-death-by-flower-arrangement.json) |
 | Death By Hamster | 262666 | [262666-death-by-hamster.json](./262666-death-by-hamster.json) |
+| Death By Taxes | 414473 | [414473-death-by-taxes.json](./414473-death-by-taxes.json) |
 | Death Cargo | 55130 | [55130-death-cargo.json](./55130-death-cargo.json) |
 | Death Climbing | 332981 | [332981-death-climbing.json](./332981-death-climbing.json) |
 | Death Comes Skiing | 362888 | [362888-death-comes-skiing.json](./362888-death-comes-skiing.json) |
@@ -7984,6 +7985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dumb Little Robots | 197150 | [197150-dumb-little-robots.json](./197150-dumb-little-robots.json) |
 | Dumb Roguelike-like RPG | 164517 | [164517-dumb-roguelike-like-rpg.json](./164517-dumb-roguelike-like-rpg.json) |
 | Dumb Stone | 55274 | [55274-dumb-stone.json](./55274-dumb-stone.json) |
+| Dumb Ways to Build | 414526 | [414526-dumb-ways-to-build.json](./414526-dumb-ways-to-build.json) |
 | Dumb Ways to Die | 80659 | [80659-dumb-ways-to-die.json](./80659-dumb-ways-to-die.json) |
 | Dumb Ways to Die 2: The Games | 57455 | [57455-dumb-ways-to-die-2-the-games.json](./57455-dumb-ways-to-die-2-the-games.json) |
 | Dumb Ways to Die 3: World Tour | 99133 | [99133-dumb-ways-to-die-3-world-tour.json](./99133-dumb-ways-to-die-3-world-tour.json) |
