@@ -2317,6 +2317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MaryPark St. | 138666 | [138666-marypark-st.json](./138666-marypark-st.json) |
 | MarZ: Tactical Base Defense | 55408 | [55408-marz-tactical-base-defense.json](./55408-marz-tactical-base-defense.json) |
 | Marzu | 389584 | [389584-marzu.json](./389584-marzu.json) |
+| Masackra | 389692 | [389692-masackra.json](./389692-masackra.json) |
 | Masagoro | 153826 | [153826-masagoro.json](./153826-masagoro.json) |
 | Masala Drive | 263542 | [263542-masala-drive.json](./263542-masala-drive.json) |
 | Mascar | 394891 | [394891-mascar.json](./394891-mascar.json) |
@@ -6083,6 +6084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mir | 363939 | [363939-mir.json](./363939-mir.json) |
 | Mira and the Mysteries of Alchemy | 168222 | [168222-mira-and-the-mysteries-of-alchemy.json](./168222-mira-and-the-mysteries-of-alchemy.json) |
 | Mira: A Bird's Flight | 208462 | [208462-mira-a-birds-flight.json](./208462-mira-a-birds-flight.json) |
+| Mira: Shadow of the Past | 389679 | [389679-mira-shadow-of-the-past.json](./389679-mira-shadow-of-the-past.json) |
 | Mira's Brush | 152217 | [152217-miras-brush.json](./152217-miras-brush.json) |
 | Mira's Journal | 370918 | [370918-miras-journal.json](./370918-miras-journal.json) |
 | Mira's Mirage Mirror | 361691 | [361691-miras-mirage-mirror.json](./361691-miras-mirage-mirror.json) |
@@ -8517,6 +8519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Fast | 127751 | [127751-mr-fast.json](./127751-mr-fast.json) |
 | Mr. Fat's Chopstick Challenge | 410441 | [410441-mr-fats-chopstick-challenge.json](./410441-mr-fats-chopstick-challenge.json) |
 | Mr. Fishbones | 185118 | [185118-mr-fishbones.json](./185118-mr-fishbones.json) |
+| Mr. Flesh Flam | 389668 | [389668-mr-flesh-flam.json](./389668-mr-flesh-flam.json) |
 | Mr. Fluffykins' Great Sorting Adventure | 97707 | [97707-mr-fluffykins-great-sorting-adventure.json](./97707-mr-fluffykins-great-sorting-adventure.json) |
 | Mr. Gimmick | 6546 | [6546-mr-gimmick.json](./6546-mr-gimmick.json) |
 | Mr. Go! Extra | 218419 | [218419-mr-go-extra.json](./218419-mr-go-extra.json) |
@@ -8824,6 +8827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mundus: Impossible Universe | 95572 | [95572-mundus-impossible-universe.json](./95572-mundus-impossible-universe.json) |
 | Mung Daal Odyssey | 326589 | [326589-mung-daal-odyssey.json](./326589-mung-daal-odyssey.json) |
 | Munkiki's Castles | 111740 | [111740-munkikis-castles.json](./111740-munkikis-castles.json) |
+| Mupo | 389656 | [389656-mupo.json](./389656-mupo.json) |
 | Muppet Adventure: Chaos at the Carnival | 3257 | [3257-muppet-adventure-chaos-at-the-carnival.json](./3257-muppet-adventure-chaos-at-the-carnival.json) |
 | Muppet Pinball Mayhem | 49322 | [49322-muppet-pinball-mayhem.json](./49322-muppet-pinball-mayhem.json) |
 | Muppet RaceMania | 3259 | [3259-muppet-racemania.json](./3259-muppet-racemania.json) |
