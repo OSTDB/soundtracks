@@ -387,6 +387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xion Leak | 216815 | [216815-xion-leak.json](./216815-xion-leak.json) |
 | Xióng Chuǎng Tiānxià | 325062 | [325062-xiong-chuang-tianxia.json](./325062-xiong-chuang-tianxia.json) |
 | Xite | 278477 | [278477-xite.json](./278477-xite.json) |
+| Xiuhcuetzin | 395166 | [395166-xiuhcuetzin.json](./395166-xiuhcuetzin.json) |
 | Xiūzhēn Fēngyún Lù | 107381 | [107381-xiuzhen-fengyun-lu.json](./107381-xiuzhen-fengyun-lu.json) |
 | Xiuzhen Idle | 237480 | [237480-xiuzhen-idle.json](./237480-xiuzhen-idle.json) |
 | XiuZhen Metaverse | 368650 | [368650-xiuzhen-metaverse.json](./368650-xiuzhen-metaverse.json) |
