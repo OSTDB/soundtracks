@@ -2865,6 +2865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayflower Reflections | 191836 | [191836-mayflower-reflections.json](./191836-mayflower-reflections.json) |
 | Mayhem | 186051 | [186051-mayhem.json](./186051-mayhem.json) |
 | Mayhem | 217254 | [217254-mayhem.json](./217254-mayhem.json) |
+| Mayhem | 403758 | [403758-mayhem.json](./403758-mayhem.json) |
 | Mayhem | 7066 | [7066-mayhem.json](./7066-mayhem.json) |
 | Mayhem | 80875 | [80875-mayhem.json](./80875-mayhem.json) |
 | Mayhem 1500 | 269126 | [269126-mayhem-1500.json](./269126-mayhem-1500.json) |
@@ -7102,6 +7103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Academy | 167307 | [167307-monster-academy.json](./167307-monster-academy.json) |
 | Monster Academy: An Interactive Story | 415063 | [415063-monster-academy-an-interactive-story.json](./415063-monster-academy-an-interactive-story.json) |
 | Monster Adventures | 61088 | [61088-monster-adventures.json](./61088-monster-adventures.json) |
+| Monster Alchemy | 403768 | [403768-monster-alchemy.json](./403768-monster-alchemy.json) |
 | Monster and Snakes 1.1 | 349497 | [349497-monster-and-snakes-1-1.json](./349497-monster-and-snakes-1-1.json) |
 | Monster Arena | 101572 | [101572-monster-arena.json](./101572-monster-arena.json) |
 | Monster Attack | 5580 | [5580-monster-attack.json](./5580-monster-attack.json) |
@@ -7990,6 +7992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mosaic of the Pharaohs | 337076 | [337076-mosaic-of-the-pharaohs.json](./337076-mosaic-of-the-pharaohs.json) |
 | Mosaic of the Strange | 345024 | [345024-mosaic-of-the-strange.json](./345024-mosaic-of-the-strange.json) |
 | Mosaic Quiz | 378814 | [378814-mosaic-quiz.json](./378814-mosaic-quiz.json) |
+| Mosaic Quiz Fastest Finger Battle | 403745 | [403745-mosaic-quiz-fastest-finger-battle.json](./403745-mosaic-quiz-fastest-finger-battle.json) |
 | Mosaic Your Crush! | 161394 | [161394-mosaic-your-crush.json](./161394-mosaic-your-crush.json) |
 | Mosaic: Tomb of Mystery | 210122 | [210122-mosaic-tomb-of-mystery.json](./210122-mosaic-tomb-of-mystery.json) |
 | Mosaica: Arboreal | 386877 | [386877-mosaica-arboreal.json](./386877-mosaica-arboreal.json) |
@@ -9183,6 +9186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Cool Diner | 200150 | [200150-my-cool-diner.json](./200150-my-cool-diner.json) |
 | My Coworkers Are Made Of Static | 401490 | [401490-my-coworkers-are-made-of-static.json](./401490-my-coworkers-are-made-of-static.json) |
 | My Cozy Aquarium | 373615 | [373615-my-cozy-aquarium.json](./373615-my-cozy-aquarium.json) |
+| My Cozy Workspace | 403746 | [403746-my-cozy-workspace.json](./403746-my-cozy-workspace.json) |
 | My Creampie Heaven | 173815 | [173815-my-creampie-heaven.json](./173815-my-creampie-heaven.json) |
 | My Cup of Coffee: Earl Grey Forever After | 57904 | [57904-my-cup-of-coffee-earl-grey-forever-after.json](./57904-my-cup-of-coffee-earl-grey-forever-after.json) |
 | My Cup of Coffee: The Trouble With Earl Grey | 57903 | [57903-my-cup-of-coffee-the-trouble-with-earl-grey.json](./57903-my-cup-of-coffee-the-trouble-with-earl-grey.json) |
