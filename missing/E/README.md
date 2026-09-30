@@ -431,6 +431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EchoEvade | 386295 | [386295-echoevade.json](./386295-echoevade.json) |
 | Echoland | 415209 | [415209-echoland.json](./415209-echoland.json) |
 | Echolight | 287712 | [287712-echolight.json](./287712-echolight.json) |
+| Echolink: Recursion | 406946 | [406946-echolink-recursion.json](./406946-echolink-recursion.json) |
 | Echoplex | 25237 | [25237-echoplex.json](./25237-echoplex.json) |
 | EchoShell | 382434 | [382434-echoshell.json](./382434-echoshell.json) |
 | Echoshift | 251227 | [251227-echoshift.json](./251227-echoshift.json) |
@@ -1274,6 +1275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ember Knights: Wrath of the Architect | 310371 | [310371-ember-knights-wrath-of-the-architect.json](./310371-ember-knights-wrath-of-the-architect.json) |
 | Ember Legion | 405704 | [405704-ember-legion.json](./405704-ember-legion.json) |
 | Ember Point | 296349 | [296349-ember-point.json](./296349-ember-point.json) |
+| Ember Seeker | 406844 | [406844-ember-seeker.json](./406844-ember-seeker.json) |
 | Ember Storia | 323334 | [323334-ember-storia.json](./323334-ember-storia.json) |
 | Ember Strike: The Battle for Willow Lane | 80203 | [80203-ember-strike-the-battle-for-willow-lane.json](./80203-ember-strike-the-battle-for-willow-lane.json) |
 | Ember the Werefox | 264696 | [264696-ember-the-werefox.json](./264696-ember-the-werefox.json) |
@@ -1678,6 +1680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Ocean: Luminous | 287856 | [287856-endless-ocean-luminous.json](./287856-endless-ocean-luminous.json) |
 | Endless Online | 57183 | [57183-endless-online.json](./57183-endless-online.json) |
 | Endless Pursuit | 183532 | [183532-endless-pursuit.json](./183532-endless-pursuit.json) |
+| Endless Rails | 406947 | [406947-endless-rails.json](./406947-endless-rails.json) |
 | Endless Reach | 358964 | [358964-endless-reach.json](./358964-endless-reach.json) |
 | Endless RPG | 119705 | [119705-endless-rpg.json](./119705-endless-rpg.json) |
 | Endless Rush | 261857 | [261857-endless-rush.json](./261857-endless-rush.json) |
