@@ -167,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 Minute Massacre | 316985 | [316985-10-minute-massacre.json](./316985-10-minute-massacre.json) |
 | 10 Minutes Till Dawn | 202828 | [202828-10-minutes-till-dawn.json](./202828-10-minutes-till-dawn.json) |
 | 10 Pin Shuffle Bowling | 261319 | [261319-10-pin-shuffle-bowling.json](./261319-10-pin-shuffle-bowling.json) |
+| 10 Pin Shuffle Pro Bowling | 88351 | [88351-10-pin-shuffle-pro-bowling.json](./88351-10-pin-shuffle-pro-bowling.json) |
 | 10 Second Escape | 342742 | [342742-10-second-escape.json](./342742-10-second-escape.json) |
 | 10 Second Mixtape | 308935 | [308935-10-second-mixtape.json](./308935-10-second-mixtape.json) |
 | 10 Second Ninja X | 18686 | [18686-10-second-ninja-x.json](./18686-10-second-ninja-x.json) |
