@@ -1601,6 +1601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterbright | 357794 | [357794-afterbright.json](./357794-afterbright.json) |
 | Afterburn | 112424 | [112424-afterburn.json](./112424-afterburn.json) |
 | Aftercare Sessions | 322175 | [322175-aftercare-sessions.json](./322175-aftercare-sessions.json) |
+| Aftercharge | 27698 | [27698-aftercharge.json](./27698-aftercharge.json) |
 | AfterFall: Insanity - Dirty Arena Edition | 50832 | [50832-afterfall-insanity-dirty-arena-edition.json](./50832-afterfall-insanity-dirty-arena-edition.json) |
 | Afterglitch | 189933 | [189933-afterglitch.json](./189933-afterglitch.json) |
 | Aftergreen | 416832 | [416832-aftergreen.json](./416832-aftergreen.json) |
@@ -4625,6 +4626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ant Smasher Christmas | 352174 | [352174-ant-smasher-christmas.json](./352174-ant-smasher-christmas.json) |
 | Ant War: Kingdom Battles | 255722 | [255722-ant-war-kingdom-battles.json](./255722-ant-war-kingdom-battles.json) |
 | Ant Workers Simulator | 362437 | [362437-ant-workers-simulator.json](./362437-ant-workers-simulator.json) |
+| Antagonist | 27869 | [27869-antagonist.json](./27869-antagonist.json) |
 | Antarctic Adventure | 239172 | [239172-antarctic-adventure.json](./239172-antarctic-adventure.json) |
 | Antarctic Girl | 127922 | [127922-antarctic-girl.json](./127922-antarctic-girl.json) |
 | Antarctic Tales Enhanced Edition | 268511 | [268511-antarctic-tales-enhanced-edition.json](./268511-antarctic-tales-enhanced-edition.json) |
@@ -7036,6 +7038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | At Least There is Ceda Cedovic | 138591 | [138591-at-least-there-is-ceda-cedovic.json](./138591-at-least-there-is-ceda-cedovic.json) |
 | At Night | 377303 | [377303-at-night.json](./377303-at-night.json) |
 | At Sixes and Sevens | 342771 | [342771-at-sixes-and-sevens.json](./342771-at-sixes-and-sevens.json) |
+| At Sundown: Shots in the Dark | 27998 | [27998-at-sundown-shots-in-the-dark.json](./27998-at-sundown-shots-in-the-dark.json) |
 | At the Behest of the Pike: Time to Run | 153894 | [153894-at-the-behest-of-the-pike-time-to-run.json](./153894-at-the-behest-of-the-pike-time-to-run.json) |
 | At the Gates of Midian | 271496 | [271496-at-the-gates-of-midian.json](./271496-at-the-gates-of-midian.json) |
 | At the Heart of the Forest | 201303 | [201303-at-the-heart-of-the-forest.json](./201303-at-the-heart-of-the-forest.json) |
@@ -7766,6 +7769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awake: Definitive Edition | 113787 | [113787-awake-definitive-edition.json](./113787-awake-definitive-edition.json) |
 | AwakeMUD | 228698 | [228698-awakemud.json](./228698-awakemud.json) |
 | Awaken | 183954 | [183954-awaken.json](./183954-awaken.json) |
+| Awaken | 27276 | [27276-awaken.json](./27276-awaken.json) |
 | Awaken in Fear | 414439 | [414439-awaken-in-fear.json](./414439-awaken-in-fear.json) |
 | Awaken the Time | 132236 | [132236-awaken-the-time.json](./132236-awaken-the-time.json) |
 | Awaken: Astral Blade | 175679 | [175679-awaken-astral-blade.json](./175679-awaken-astral-blade.json) |
