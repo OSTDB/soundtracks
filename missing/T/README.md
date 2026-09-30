@@ -3786,6 +3786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Deep: Ushinawareta Shinkai | 410223 | [410223-the-deep-ushinawareta-shinkai.json](./410223-the-deep-ushinawareta-shinkai.json) |
 | The Deepening: Eco-Offensive | 155992 | [155992-the-deepening-eco-offensive.json](./155992-the-deepening-eco-offensive.json) |
 | The Deepest Castle | 400872 | [400872-the-deepest-castle.json](./400872-the-deepest-castle.json) |
+| The Deepest Sleep | 123703 | [123703-the-deepest-sleep.json](./123703-the-deepest-sleep.json) |
 | The Deepwatch | 341649 | [341649-the-deepwatch.json](./341649-the-deepwatch.json) |
 | The Deer | 117688 | [117688-the-deer.json](./117688-the-deer.json) |
 | The Defender: Farm and Castle | 117626 | [117626-the-defender-farm-and-castle.json](./117626-the-defender-farm-and-castle.json) |
@@ -7578,6 +7579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Modern Luxe Kit | 265706 | [265706-the-sims-4-modern-luxe-kit.json](./265706-the-sims-4-modern-luxe-kit.json) |
 | The Sims 4: Moonlight Chic Kit | 202254 | [202254-the-sims-4-moonlight-chic-kit.json](./202254-the-sims-4-moonlight-chic-kit.json) |
 | The Sims 4: Movie Hangout Stuff | 121021 | [121021-the-sims-4-movie-hangout-stuff.json](./121021-the-sims-4-movie-hangout-stuff.json) |
+| The Sims 4: My First Pet Stuff | 121028 | [121028-the-sims-4-my-first-pet-stuff.json](./121028-the-sims-4-my-first-pet-stuff.json) |
 | The Sims 4: My Wedding Stories | 191387 | [191387-the-sims-4-my-wedding-stories.json](./191387-the-sims-4-my-wedding-stories.json) |
 | The Sims 4: Outdoor Bundle | 159339 | [159339-the-sims-4-outdoor-bundle.json](./159339-the-sims-4-outdoor-bundle.json) |
 | The Sims 4: Outdoor Retreat | 13145 | [13145-the-sims-4-outdoor-retreat.json](./13145-the-sims-4-outdoor-retreat.json) |
