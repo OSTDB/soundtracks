@@ -3272,6 +3272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Stars Climbing | 157196 | [157196-rhythm-stars-climbing.json](./157196-rhythm-stars-climbing.json) |
 | Rhythm Station | 277853 | [277853-rhythm-station.json](./277853-rhythm-station.json) |
 | Rhythm Storm | 239180 | [239180-rhythm-storm.json](./239180-rhythm-storm.json) |
+| Rhythm Taichi XR | 391297 | [391297-rhythm-taichi-xr.json](./391297-rhythm-taichi-xr.json) |
 | Rhythm Tengoku | 210730 | [210730-rhythm-tengoku.json](./210730-rhythm-tengoku.json) |
 | Rhythm Tengoku | 6557 | [6557-rhythm-tengoku.json](./6557-rhythm-tengoku.json) |
 | Rhythm Tengoku: Tempo Up! | 280761 | [280761-rhythm-tengoku-tempo-up.json](./280761-rhythm-tengoku-tempo-up.json) |
@@ -4864,6 +4865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roguebound Pirates | 365092 | [365092-roguebound-pirates.json](./365092-roguebound-pirates.json) |
 | Roguebreaker | 103413 | [103413-roguebreaker.json](./103413-roguebreaker.json) |
 | RogueCards | 311620 | [311620-roguecards.json](./311620-roguecards.json) |
+| Roguecraft GB | 391265 | [391265-roguecraft-gb.json](./391265-roguecraft-gb.json) |
 | RogueCraft Squadron | 56507 | [56507-roguecraft-squadron.json](./56507-roguecraft-squadron.json) |
 | RogueDiceR | 383664 | [383664-roguedicer.json](./383664-roguedicer.json) |
 | Roguefort | 396405 | [396405-roguefort.json](./396405-roguefort.json) |
