@@ -807,6 +807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Society: Dead Detective | 28019 | [28019-zombie-society-dead-detective.json](./28019-zombie-society-dead-detective.json) |
 | Zombie Sokoban for Playdate | 230792 | [230792-zombie-sokoban-for-playdate.json](./230792-zombie-sokoban-for-playdate.json) |
 | Zombie Soldier | 110999 | [110999-zombie-soldier.json](./110999-zombie-soldier.json) |
+| Zombie Solitaire | 9306 | [9306-zombie-solitaire.json](./9306-zombie-solitaire.json) |
 | Zombie Space Shooter II | 228119 | [228119-zombie-space-shooter-ii.json](./228119-zombie-space-shooter-ii.json) |
 | Zombie Spree: The Dawn | 211957 | [211957-zombie-spree-the-dawn.json](./211957-zombie-spree-the-dawn.json) |
 | Zombie Squad | 235460 | [235460-zombie-squad.json](./235460-zombie-squad.json) |
