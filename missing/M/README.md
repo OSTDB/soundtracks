@@ -4571,6 +4571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metawork: Antique Shop Simulator | 366330 | [366330-metawork-antique-shop-simulator.json](./366330-metawork-antique-shop-simulator.json) |
 | Metawork: Hotel Simulator | 243395 | [243395-metawork-hotel-simulator.json](./243395-metawork-hotel-simulator.json) |
 | MetaWorld | 31841 | [31841-metaworld.json](./31841-metaworld.json) |
+| Metaxia | 402425 | [402425-metaxia.json](./402425-metaxia.json) |
 | Metele Al Ordenata | 228548 | [228548-metele-al-ordenata.json](./228548-metele-al-ordenata.json) |
 | Metempsychosis | 104052 | [104052-metempsychosis.json](./104052-metempsychosis.json) |
 | Meteo Planet | 311058 | [311058-meteo-planet.json](./311058-meteo-planet.json) |
