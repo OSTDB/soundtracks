@@ -5632,6 +5632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comfy Girl | 360608 | [360608-comfy-girl.json](./360608-comfy-girl.json) |
 | Comic 5trike | 148935 | [148935-comic-5trike.json](./148935-comic-5trike.json) |
 | Comic Bakery | 13831 | [13831-comic-bakery.json](./13831-comic-bakery.json) |
+| Comic Book Hero: The Greatest Cape | 33993 | [33993-comic-book-hero-the-greatest-cape.json](./33993-comic-book-hero-the-greatest-cape.json) |
 | Comic Book Tycoon | 129620 | [129620-comic-book-tycoon.json](./129620-comic-book-tycoon.json) |
 | Comic Book Universe | 322774 | [322774-comic-book-universe.json](./322774-comic-book-universe.json) |
 | Comic Coloring Book | 147888 | [147888-comic-coloring-book.json](./147888-comic-coloring-book.json) |
