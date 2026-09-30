@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Sports Active 2.0 | 47422 | [47422-ea-sports-active-2-0.json](./47422-ea-sports-active-2-0.json) |
 | EA Sports College Football 25 | 172021 | [172021-ea-sports-college-football-25.json](./172021-ea-sports-college-football-25.json) |
 | EA Sports College Football 26 | 329146 | [329146-ea-sports-college-football-26.json](./329146-ea-sports-college-football-26.json) |
+| EA Sports College Football 27 | 400601 | [400601-ea-sports-college-football-27.json](./400601-ea-sports-college-football-27.json) |
 | EA Sports College Football 27: Deluxe Edition | 409040 | [409040-ea-sports-college-football-27-deluxe-edition.json](./409040-ea-sports-college-football-27-deluxe-edition.json) |
 | EA Sports Double Header | 78074 | [78074-ea-sports-double-header.json](./78074-ea-sports-double-header.json) |
 | EA Sports FC 25 | 308698 | [308698-ea-sports-fc-25.json](./308698-ea-sports-fc-25.json) |
@@ -60,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Sports PGA Tour | 145232 | [145232-ea-sports-pga-tour.json](./145232-ea-sports-pga-tour.json) |
 | EA Sports UFC 3 | 75297 | [75297-ea-sports-ufc-3.json](./75297-ea-sports-ufc-3.json) |
 | EA Sports UFC 5: Mike Tyson | 297457 | [297457-ea-sports-ufc-5-mike-tyson.json](./297457-ea-sports-ufc-5-mike-tyson.json) |
+| EA Sports UFC 6 | 400095 | [400095-ea-sports-ufc-6.json](./400095-ea-sports-ufc-6.json) |
 | EA Sports UFC 6: Ultimate Edition | 402962 | [402962-ea-sports-ufc-6-ultimate-edition.json](./402962-ea-sports-ufc-6-ultimate-edition.json) |
 | EA Sports WRC 24 | 319197 | [319197-ea-sports-wrc-24.json](./319197-ea-sports-wrc-24.json) |
 | EA Star Wars Triple Bundle | 164777 | [164777-ea-star-wars-triple-bundle.json](./164777-ea-star-wars-triple-bundle.json) |
@@ -2216,6 +2218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Academy 2: Back 2 School | 347671 | [347671-escape-academy-2-back-2-school.json](./347671-escape-academy-2-back-2-school.json) |
 | Escape Academy: Deluxe Edition | 209686 | [209686-escape-academy-deluxe-edition.json](./209686-escape-academy-deluxe-edition.json) |
 | Escape Academy: Escape From Anti-Escape Island | 222336 | [222336-escape-academy-escape-from-anti-escape-island.json](./222336-escape-academy-escape-from-anti-escape-island.json) |
+| Escape Academy: Escape From the Past | 252683 | [252683-escape-academy-escape-from-the-past.json](./252683-escape-academy-escape-from-the-past.json) |
 | Escape Academy: The Complete Edition | 246408 | [246408-escape-academy-the-complete-edition.json](./246408-escape-academy-the-complete-edition.json) |
 | Escape Architect VR | 121477 | [121477-escape-architect-vr.json](./121477-escape-architect-vr.json) |
 | Escape Artist | 386136 | [386136-escape-artist.json](./386136-escape-artist.json) |
