@@ -575,6 +575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edouard Roivas: The Eye of Law | 310413 | [310413-edouard-roivas-the-eye-of-law.json](./310413-edouard-roivas-the-eye-of-law.json) |
 | Edtris 2600 | 78031 | [78031-edtris-2600.json](./78031-edtris-2600.json) |
 | Edu Simulator | 408043 | [408043-edu-simulator.json](./408043-edu-simulator.json) |
+| Educating Adventures of Girl and Rabbit | 419907 | [419907-educating-adventures-of-girl-and-rabbit.json](./419907-educating-adventures-of-girl-and-rabbit.json) |
 | Education Series: General Knowledge Builder | 80603 | [80603-education-series-general-knowledge-builder.json](./80603-education-series-general-knowledge-builder.json) |
 | Educational and Learning Bundle: 5 in 1 | 192409 | [192409-educational-and-learning-bundle-5-in-1.json](./192409-educational-and-learning-bundle-5-in-1.json) |
 | Educational Games for Kids | 147919 | [147919-educational-games-for-kids.json](./147919-educational-games-for-kids.json) |
@@ -2694,6 +2695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Poison | 21334 | [21334-eternal-poison.json](./21334-eternal-poison.json) |
 | Eternal Quest | 43353 | [43353-eternal-quest.json](./43353-eternal-quest.json) |
 | Eternal Reckoning | 287733 | [287733-eternal-reckoning.json](./287733-eternal-reckoning.json) |
+| Eternal Refresh | 419948 | [419948-eternal-refresh.json](./419948-eternal-refresh.json) |
 | Eternal Return | 135842 | [135842-eternal-return.json](./135842-eternal-return.json) |
 | Eternal Return | 31290 | [31290-eternal-return.json](./31290-eternal-return.json) |
 | Eternal Ring | 10905 | [10905-eternal-ring.json](./10905-eternal-ring.json) |
