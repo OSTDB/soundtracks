@@ -5725,6 +5725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper | 267982 | [267982-minesweeper.json](./267982-minesweeper.json) |
 | Minesweeper | 307595 | [307595-minesweeper.json](./307595-minesweeper.json) |
 | Minesweeper | 327606 | [327606-minesweeper.json](./327606-minesweeper.json) |
+| Minesweeper | 408207 | [408207-minesweeper.json](./408207-minesweeper.json) |
 | Minesweeper | 413617 | [413617-minesweeper.json](./413617-minesweeper.json) |
 | Minesweeper | 89153 | [89153-minesweeper.json](./89153-minesweeper.json) |
 | Minesweeper !! | 88352 | [88352-minesweeper.json](./88352-minesweeper.json) |
@@ -5918,6 +5919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minimonsters Crush | 90820 | [90820-minimonsters-crush.json](./90820-minimonsters-crush.json) |
 | Minimum Nanonic | 70401 | [70401-minimum-nanonic.json](./70401-minimum-nanonic.json) |
 | Mining And Achievements | 370179 | [370179-mining-and-achievements.json](./370179-mining-and-achievements.json) |
+| Mining Away! | 408242 | [408242-mining-away.json](./408242-mining-away.json) |
 | Mining Cats | 191156 | [191156-mining-cats.json](./191156-mining-cats.json) |
 | Mining Copper | 224545 | [224545-mining-copper.json](./224545-mining-copper.json) |
 | Mining Factory | 226197 | [226197-mining-factory.json](./226197-mining-factory.json) |
