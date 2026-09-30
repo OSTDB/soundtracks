@@ -3802,6 +3802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Fight | 232368 | [232368-dice-fight.json](./232368-dice-fight.json) |
 | Dice Game | 226179 | [226179-dice-game.json](./226179-dice-game.json) |
 | Dice Guy | 217006 | [217006-dice-guy.json](./217006-dice-guy.json) |
+| Dice Heroes | 396504 | [396504-dice-heroes.json](./396504-dice-heroes.json) |
 | Dice In You | 379013 | [379013-dice-in-you.json](./379013-dice-in-you.json) |
 | Dice Jockey | 175171 | [175171-dice-jockey.json](./175171-dice-jockey.json) |
 | Dice King | 188016 | [188016-dice-king.json](./188016-dice-king.json) |
