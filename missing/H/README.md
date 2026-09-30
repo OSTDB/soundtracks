@@ -805,6 +805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harbinger: Skeleton Crew | 63554 | [63554-harbinger-skeleton-crew.json](./63554-harbinger-skeleton-crew.json) |
 | Harbinger's Horse GT | 183586 | [183586-harbingers-horse-gt.json](./183586-harbingers-horse-gt.json) |
 | Harbingers of Desspair | 320959 | [320959-harbingers-of-desspair.json](./320959-harbingers-of-desspair.json) |
+| Harbingers of Destiny | 392412 | [392412-harbingers-of-destiny.json](./392412-harbingers-of-destiny.json) |
 | Harbor Havoc 3D | 181165 | [181165-harbor-havoc-3d.json](./181165-harbor-havoc-3d.json) |
 | Harborland de Tsukamaete | 317009 | [317009-harborland-de-tsukamaete.json](./317009-harborland-de-tsukamaete.json) |
 | Harbour Master | 206089 | [206089-harbour-master.json](./206089-harbour-master.json) |
