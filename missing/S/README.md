@@ -1073,6 +1073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savage Hunt: Dragon's Prophet | 71582 | [71582-savage-hunt-dragons-prophet.json](./71582-savage-hunt-dragons-prophet.json) |
 | Savage Island Series | 68961 | [68961-savage-island-series.json](./68961-savage-island-series.json) |
 | Savage Lands | 17548 | [17548-savage-lands.json](./17548-savage-lands.json) |
+| Savage Moon | 20396 | [20396-savage-moon.json](./20396-savage-moon.json) |
 | Savage Pond | 299436 | [299436-savage-pond.json](./299436-savage-pond.json) |
 | Savage Reign | 39565 | [39565-savage-reign.json](./39565-savage-reign.json) |
 | Savage Skies | 47314 | [47314-savage-skies.json](./47314-savage-skies.json) |
