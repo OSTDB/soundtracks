@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taco: Princess from the Moon | 166162 | [166162-taco-princess-from-the-moon.json](./166162-taco-princess-from-the-moon.json) |
 | TacoFace | 30091 | [30091-tacoface.json](./30091-tacoface.json) |
 | TacOps | 77252 | [77252-tacops.json](./77252-tacops.json) |
+| Tacs Classic Collection | 403728 | [403728-tacs-classic-collection.json](./403728-tacs-classic-collection.json) |
 | TacTac Prologue | 198383 | [198383-tactac-prologue.json](./198383-tactac-prologue.json) |
 | Tactera | 81169 | [81169-tactera.json](./81169-tactera.json) |
 | Tacti-Cat | 265926 | [265926-tacti-cat.json](./265926-tacti-cat.json) |
