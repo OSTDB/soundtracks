@@ -3699,6 +3699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Builder | 105962 | [105962-pixel-builder.json](./105962-pixel-builder.json) |
 | Pixel Cafe: Definitive Edition | 400200 | [400200-pixel-cafe-definitive-edition.json](./400200-pixel-cafe-definitive-edition.json) |
 | Pixel Cafe: Discovery Edition | 395682 | [395682-pixel-cafe-discovery-edition.json](./395682-pixel-cafe-discovery-edition.json) |
+| Pixel Cafe: Elite Edition | 397891 | [397891-pixel-cafe-elite-edition.json](./397891-pixel-cafe-elite-edition.json) |
 | Pixel Car Racer | 56154 | [56154-pixel-car-racer.json](./56154-pixel-car-racer.json) |
 | Pixel Card Crawl | 180120 | [180120-pixel-card-crawl.json](./180120-pixel-card-crawl.json) |
 | Pixel Caveman | 118435 | [118435-pixel-caveman.json](./118435-pixel-caveman.json) |
@@ -5138,6 +5139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Pearl Version | 1518 | [1518-pokemon-pearl-version.json](./1518-pokemon-pearl-version.json) |
 | Pokemon Penumbra Moon | 288205 | [288205-pokemon-penumbra-moon.json](./288205-pokemon-penumbra-moon.json) |
 | Pokémon Pesadilla | 254529 | [254529-pokemon-pesadilla.json](./254529-pokemon-pesadilla.json) |
+| Pokémon Phoenix Red | 397755 | [397755-pokemon-phoenix-red.json](./397755-pokemon-phoenix-red.json) |
 | Pokémon Photon | 361346 | [361346-pokemon-photon.json](./361346-pokemon-photon.json) |
 | Pokémon Photonic Sun | 214739 | [214739-pokemon-photonic-sun.json](./214739-pokemon-photonic-sun.json) |
 | Pokémon Pikachu 2 | 212726 | [212726-pokemon-pikachu-2.json](./212726-pokemon-pikachu-2.json) |
@@ -5623,6 +5625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool | 352172 | [352172-pool.json](./352172-pool.json) |
 | Pool & Snooker Fever: 2 in 1 Bundle - Definitive Edition | 400201 | [400201-pool-and-snooker-fever-2-in-1-bundle-definitive-edition.json](./400201-pool-and-snooker-fever-2-in-1-bundle-definitive-edition.json) |
 | Pool & Snooker Fever: 2 in 1 Bundle - Premium Edition | 395683 | [395683-pool-and-snooker-fever-2-in-1-bundle-premium-edition.json](./395683-pool-and-snooker-fever-2-in-1-bundle-premium-edition.json) |
+| Pool & Snooker Fever: 2 in 1 Bundle Upgrade Edition | 397886 | [397886-pool-and-snooker-fever-2-in-1-bundle-upgrade-edition.json](./397886-pool-and-snooker-fever-2-in-1-bundle-upgrade-edition.json) |
 | Pool 2D - Poolians | 107406 | [107406-pool-2d-poolians.json](./107406-pool-2d-poolians.json) |
 | Pool 3D | 86900 | [86900-pool-3d.json](./86900-pool-3d.json) |
 | Pool 8 Ball | 90756 | [90756-pool-8-ball.json](./90756-pool-8-ball.json) |
@@ -6581,6 +6584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Connect! | 22792 | [22792-princess-connect.json](./22792-princess-connect.json) |
 | Princess Covenant | 367632 | [367632-princess-covenant.json](./367632-princess-covenant.json) |
 | Princess Crown | 45463 | [45463-princess-crown.json](./45463-princess-crown.json) |
+| Princess Date Diaries: A Fairy Tale Love | 397870 | [397870-princess-date-diaries-a-fairy-tale-love.json](./397870-princess-date-diaries-a-fairy-tale-love.json) |
 | Princess Debut | 21225 | [21225-princess-debut.json](./21225-princess-debut.json) |
 | Princess Edge: Dragonstone | 26525 | [26525-princess-edge-dragonstone.json](./26525-princess-edge-dragonstone.json) |
 | Princess escape | 174119 | [174119-princess-escape.json](./174119-princess-escape.json) |
@@ -7832,6 +7836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulse Phobia | 342133 | [342133-pulse-phobia.json](./342133-pulse-phobia.json) |
 | Pulse Racer | 6010 | [6010-pulse-racer.json](./6010-pulse-racer.json) |
 | Pulse Shift | 32104 | [32104-pulse-shift.json](./32104-pulse-shift.json) |
+| Pulse Sweep | 397838 | [397838-pulse-sweep.json](./397838-pulse-sweep.json) |
 | Pulse Warrior | 72376 | [72376-pulse-warrior.json](./72376-pulse-warrior.json) |
 | PulseCharge | 33610 | [33610-pulsecharge.json](./33610-pulsecharge.json) |
 | PulseChaser | 112320 | [112320-pulsechaser.json](./112320-pulsechaser.json) |
