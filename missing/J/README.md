@@ -412,6 +412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jax: History Repeats Itself | 275725 | [275725-jax-history-repeats-itself.json](./275725-jax-history-repeats-itself.json) |
 | Jaxon the Thief | 120823 | [120823-jaxon-the-thief.json](./120823-jaxon-the-thief.json) |
 | Jaxx Blorgin's UFO Jam | 391306 | [391306-jaxx-blorgins-ufo-jam.json](./391306-jaxx-blorgins-ufo-jam.json) |
+| Jay and Silent Bob: Chronic Blunt Punch | 28284 | [28284-jay-and-silent-bob-chronic-blunt-punch.json](./28284-jay-and-silent-bob-chronic-blunt-punch.json) |
 | Jay's Walkin' | 156554 | [156554-jays-walkin.json](./156554-jays-walkin.json) |
 | Jayce | 177500 | [177500-jayce.json](./177500-jayce.json) |
 | Jazz and Faust | 127331 | [127331-jazz-and-faust.json](./127331-jazz-and-faust.json) |
