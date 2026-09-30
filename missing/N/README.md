@@ -780,6 +780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nebula Online | 120181 | [120181-nebula-online.json](./120181-nebula-online.json) |
 | Nebula Veil | 383039 | [383039-nebula-veil.json](./383039-nebula-veil.json) |
 | Nebula's Descent | 253893 | [253893-nebulas-descent.json](./253893-nebulas-descent.json) |
+| NebulArena | 388326 | [388326-nebularena.json](./388326-nebularena.json) |
 | NebuLeet | 304884 | [304884-nebuleet.json](./304884-nebuleet.json) |
 | Nebuli | 157720 | [157720-nebuli.json](./157720-nebuli.json) |
 | Nebulous | 19039 | [19039-nebulous.json](./19039-nebulous.json) |
