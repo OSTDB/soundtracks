@@ -1264,6 +1264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neonoen | 120782 | [120782-neonoen.json](./120782-neonoen.json) |
 | Neonsomnia | 257087 | [257087-neonsomnia.json](./257087-neonsomnia.json) |
 | NeonTunnel | 176365 | [176365-neontunnel.json](./176365-neontunnel.json) |
+| NeonXSZ | 17314 | [17314-neonxsz.json](./17314-neonxsz.json) |
 | Neopets Browser | 131370 | [131370-neopets-browser.json](./131370-neopets-browser.json) |
 | Neopets Petpet Adventures: The Wand of Wishing | 78340 | [78340-neopets-petpet-adventures-the-wand-of-wishing.json](./78340-neopets-petpet-adventures-the-wand-of-wishing.json) |
 | Neopets: Codestone Quest | 210104 | [210104-neopets-codestone-quest.json](./210104-neopets-codestone-quest.json) |
@@ -2957,6 +2958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nocked! | 174208 | [174208-nocked.json](./174208-nocked.json) |
 | Nocked! True Tales of Robin Hood | 118139 | [118139-nocked-true-tales-of-robin-hood.json](./118139-nocked-true-tales-of-robin-hood.json) |
 | Nocko | 157004 | [157004-nocko.json](./157004-nocko.json) |
+| Noct | 12978 | [12978-noct.json](./12978-noct.json) |
 | Noctiria | 409759 | [409759-noctiria.json](./409759-noctiria.json) |
 | Noctropolis | 243766 | [243766-noctropolis.json](./243766-noctropolis.json) |
 | Noctuary | 221395 | [221395-noctuary.json](./221395-noctuary.json) |
