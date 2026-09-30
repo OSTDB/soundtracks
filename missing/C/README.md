@@ -3344,6 +3344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Mythology: Journey to the West | 369216 | [369216-chinese-mythology-journey-to-the-west.json](./369216-chinese-mythology-journey-to-the-west.json) |
 | Chinese New Year 2013 | 233779 | [233779-chinese-new-year-2013.json](./233779-chinese-new-year-2013.json) |
 | Chinese Paladin 5 Prequel | 68175 | [68175-chinese-paladin-5-prequel.json](./68175-chinese-paladin-5-prequel.json) |
+| Chinese Pancake Simulator | 408238 | [408238-chinese-pancake-simulator.json](./408238-chinese-pancake-simulator.json) |
 | Chinese Parents | 86430 | [86430-chinese-parents.json](./86430-chinese-parents.json) |
 | Chinese PigLoad | 385728 | [385728-chinese-pigload.json](./385728-chinese-pigload.json) |
 | Chinese Pope Door | 264677 | [264677-chinese-pope-door.json](./264677-chinese-pope-door.json) |
@@ -7221,6 +7222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cradle of Nightmare : Flowers to you | 339333 | [339333-cradle-of-nightmare-flowers-to-you.json](./339333-cradle-of-nightmare-flowers-to-you.json) |
 | Cradle of Nightmares: Chapter 1 | 323502 | [323502-cradle-of-nightmares-chapter-1.json](./323502-cradle-of-nightmares-chapter-1.json) |
 | Cradle of Rome 2 HD | 102101 | [102101-cradle-of-rome-2-hd.json](./102101-cradle-of-rome-2-hd.json) |
+| Cradle of the Dark Brood | 408203 | [408203-cradle-of-the-dark-brood.json](./408203-cradle-of-the-dark-brood.json) |
 | Cradles | 253982 | [253982-cradles.json](./253982-cradles.json) |
 | Craft | 280355 | [280355-craft.json](./280355-craft.json) |
 | Craft & Conquer | 339334 | [339334-craft-and-conquer.json](./339334-craft-and-conquer.json) |
@@ -7230,6 +7232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft Connections | 393777 | [393777-craft-connections.json](./393777-craft-connections.json) |
 | Craft Control | 88795 | [88795-craft-control.json](./88795-craft-control.json) |
 | Craft Control HD | 107223 | [107223-craft-control-hd.json](./107223-craft-control-hd.json) |
+| Craft Drill | 408119 | [408119-craft-drill.json](./408119-craft-drill.json) |
 | Craft Elements | 126577 | [126577-craft-elements.json](./126577-craft-elements.json) |
 | Craft Hero | 194264 | [194264-craft-hero.json](./194264-craft-hero.json) |
 | Craft Jam | 176416 | [176416-craft-jam.json](./176416-craft-jam.json) |
