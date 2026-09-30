@@ -222,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jalebi: A Desi Adda | 233529 | [233529-jalebi-a-desi-adda.json](./233529-jalebi-a-desi-adda.json) |
 | Jaleco Arcade 1 | 214534 | [214534-jaleco-arcade-1.json](./214534-jaleco-arcade-1.json) |
 | Jaleco Sports: Bases Loaded | 338551 | [338551-jaleco-sports-bases-loaded.json](./338551-jaleco-sports-bases-loaded.json) |
+| Jalecolle Famicom Ver. Rod Land | 411740 | [411740-jalecolle-famicom-ver-rod-land.json](./411740-jalecolle-famicom-ver-rod-land.json) |
 | Jalecolle Famicom Ver. Shatterhand | 420688 | [420688-jalecolle-famicom-ver-shatterhand.json](./420688-jalecolle-famicom-ver-shatterhand.json) |
 | Jalopy: Limited Edition | 96023 | [96023-jalopy-limited-edition.json](./96023-jalopy-limited-edition.json) |
 | Jam | 332595 | [332595-jam.json](./332595-jam.json) |
