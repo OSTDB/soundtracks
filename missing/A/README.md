@@ -4278,6 +4278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Dress Up | 88741 | [88741-anime-dress-up.json](./88741-anime-dress-up.json) |
 | Anime Fantasy Jigsaw Puzzle 3D | 384067 | [384067-anime-fantasy-jigsaw-puzzle-3d.json](./384067-anime-fantasy-jigsaw-puzzle-3d.json) |
 | Anime Fart Simulator | 397648 | [397648-anime-fart-simulator.json](./397648-anime-fart-simulator.json) |
+| Anime fashion show | 99500 | [99500-anime-fashion-show.json](./99500-anime-fashion-show.json) |
 | Anime Feet Aim Trainer | 371231 | [371231-anime-feet-aim-trainer.json](./371231-anime-feet-aim-trainer.json) |
 | Anime Fighting Jam | 222872 | [222872-anime-fighting-jam.json](./222872-anime-fighting-jam.json) |
 | Anime for Sex Motel | 288890 | [288890-anime-for-sex-motel.json](./288890-anime-for-sex-motel.json) |
@@ -5868,6 +5869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arlcoco: The One Winged Princess Pet | 82774 | [82774-arlcoco-the-one-winged-princess-pet.json](./82774-arlcoco-the-one-winged-princess-pet.json) |
 | Arle no Bouken: Mahou no Jewel | 50020 | [50020-arle-no-bouken-mahou-no-jewel.json](./50020-arle-no-bouken-mahou-no-jewel.json) |
 | Arlington Horse Racing | 38518 | [38518-arlington-horse-racing.json](./38518-arlington-horse-racing.json) |
+| Arlo the Rabbit | 99286 | [99286-arlo-the-rabbit.json](./99286-arlo-the-rabbit.json) |
 | Arlyeh Center for Heart Diseases | 271218 | [271218-arlyeh-center-for-heart-diseases.json](./271218-arlyeh-center-for-heart-diseases.json) |
 | Arm Joe | 130876 | [130876-arm-joe.json](./130876-arm-joe.json) |
 | Arm Wrestling | 38517 | [38517-arm-wrestling.json](./38517-arm-wrestling.json) |
