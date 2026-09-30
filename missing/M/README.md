@@ -1047,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maigo no Koneko-chan | 276472 | [276472-maigo-no-koneko-chan.json](./276472-maigo-no-koneko-chan.json) |
 | Maihon: The Impossible Jewel Stacking Puzzle Game | 116462 | [116462-maihon-the-impossible-jewel-stacking-puzzle-game.json](./116462-maihon-the-impossible-jewel-stacking-puzzle-game.json) |
 | Maikuro: Ore ga Watashi de Boku ga Atashi de | 417607 | [417607-maikuro-ore-ga-watashi-de-boku-ga-atashi-de.json](./417607-maikuro-ore-ga-watashi-de-boku-ga-atashi-de.json) |
+| Mail Mares | 404344 | [404344-mail-mares.json](./404344-mail-mares.json) |
 | Mail Mole + Expansions Bundle | 238186 | [238186-mail-mole-expansions-bundle.json](./238186-mail-mole-expansions-bundle.json) |
 | Mail Mole: 'Xpress Deliveries | 238444 | [238444-mail-mole-xpress-deliveries.json](./238444-mail-mole-xpress-deliveries.json) |
 | Mail Order Monsters | 25891 | [25891-mail-order-monsters.json](./25891-mail-order-monsters.json) |
@@ -5320,6 +5321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MilitAnt | 20877 | [20877-militant.json](./20877-militant.json) |
 | Military Attack | 215612 | [215612-military-attack.json](./215612-military-attack.json) |
 | Military Base War | 169447 | [169447-military-base-war.json](./169447-military-base-war.json) |
+| Military Battlefield: Enlisted | 404361 | [404361-military-battlefield-enlisted.json](./404361-military-battlefield-enlisted.json) |
 | Military Combat Shooter Desert War | 283276 | [283276-military-combat-shooter-desert-war.json](./283276-military-combat-shooter-desert-war.json) |
 | Military Conflict: Vietnam | 154984 | [154984-military-conflict-vietnam.json](./154984-military-conflict-vietnam.json) |
 | Military Crusaders | 157002 | [157002-military-crusaders.json](./157002-military-crusaders.json) |
@@ -5717,6 +5719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner: Dig Deep | 23846 | [23846-miner-dig-deep.json](./23846-miner-dig-deep.json) |
 | Mineral | 302438 | [302438-mineral.json](./302438-mineral.json) |
 | MineRalph | 112260 | [112260-mineralph.json](./112260-mineralph.json) |
+| Minerals: Deep Core Mining | 404349 | [404349-minerals-deep-core-mining.json](./404349-minerals-deep-core-mining.json) |
 | Minerest | 184883 | [184883-minerest.json](./184883-minerest.json) |
 | MinerMancers | 411788 | [411788-minermancers.json](./411788-minermancers.json) |
 | Mineroids | 413614 | [413614-mineroids.json](./413614-mineroids.json) |
