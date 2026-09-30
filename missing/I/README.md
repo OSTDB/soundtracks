@@ -709,6 +709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Food Empire Tycoon | 219268 | [219268-idle-food-empire-tycoon.json](./219268-idle-food-empire-tycoon.json) |
 | Idle Galaxy | 203805 | [203805-idle-galaxy.json](./203805-idle-galaxy.json) |
 | Idle Game Tycoon | 233628 | [233628-idle-game-tycoon.json](./233628-idle-game-tycoon.json) |
+| Idle Game x100 | 387597 | [387597-idle-game-x100.json](./387597-idle-game-x100.json) |
 | Idle Garden | 390715 | [390715-idle-garden.json](./390715-idle-garden.json) |
 | Idle Gem Quest | 224562 | [224562-idle-gem-quest.json](./224562-idle-gem-quest.json) |
 | Idle Geometry Defense | 373735 | [373735-idle-geometry-defense.json](./373735-idle-geometry-defense.json) |
@@ -2259,6 +2260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insurgency: Sandstorm - Year 3 Pass | 273936 | [273936-insurgency-sandstorm-year-3-pass.json](./273936-insurgency-sandstorm-year-3-pass.json) |
 | Insurmountable | 133846 | [133846-insurmountable.json](./133846-insurmountable.json) |
 | Insurrection: Cyborgs Awakening | 211945 | [211945-insurrection-cyborgs-awakening.json](./211945-insurrection-cyborgs-awakening.json) |
+| Insurrectionist | 387639 | [387639-insurrectionist.json](./387639-insurrectionist.json) |
 | inSynch | 18232 | [18232-insynch.json](./18232-insynch.json) |
 | Intake | 16526 | [16526-intake.json](./16526-intake.json) |
 | Intake: Be Aggressive | 174225 | [174225-intake-be-aggressive.json](./174225-intake-be-aggressive.json) |
