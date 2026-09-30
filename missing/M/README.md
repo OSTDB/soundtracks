@@ -1393,6 +1393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maneater 2 | 416101 | [416101-maneater-2.json](./416101-maneater-2.json) |
 | Maneater and the Golden Teacher | 199394 | [199394-maneater-and-the-golden-teacher.json](./199394-maneater-and-the-golden-teacher.json) |
 | Maneater: Truth Quest | 162622 | [162622-maneater-truth-quest.json](./162622-maneater-truth-quest.json) |
+| Maneki Mania | 411088 | [411088-maneki-mania.json](./411088-maneki-mania.json) |
 | Maneki's Curse | 33384 | [33384-manekis-curse.json](./33384-manekis-curse.json) |
 | Manes | 70083 | [70083-manes.json](./70083-manes.json) |
 | Maneuver Warfare | 293419 | [293419-maneuver-warfare.json](./293419-maneuver-warfare.json) |
