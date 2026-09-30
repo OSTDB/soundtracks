@@ -1166,6 +1166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua Striker | 313318 | [313318-virtua-striker.json](./313318-virtua-striker.json) |
 | Virtua Striker | 46765 | [46765-virtua-striker.json](./46765-virtua-striker.json) |
 | Virtua Striker 2 | 39472 | [39472-virtua-striker-2.json](./39472-virtua-striker-2.json) |
+| Virtua Striker 2002 | 50567 | [50567-virtua-striker-2002.json](./50567-virtua-striker-2002.json) |
 | Virtua Striker 3 | 39789 | [39789-virtua-striker-3.json](./39789-virtua-striker-3.json) |
 | Virtua Tennis 2009 | 5257 | [5257-virtua-tennis-2009.json](./5257-virtua-tennis-2009.json) |
 | Virtua Tennis 4 | 5258 | [5258-virtua-tennis-4.json](./5258-virtua-tennis-4.json) |
