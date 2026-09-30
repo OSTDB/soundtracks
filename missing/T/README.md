@@ -2448,6 +2448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thandor: The Invasion | 54432 | [54432-thandor-the-invasion.json](./54432-thandor-the-invasion.json) |
 | Thang Online | 135838 | [135838-thang-online.json](./135838-thang-online.json) |
 | Thank Goodness You're Here! | 262538 | [262538-thank-goodness-youre-here.json](./262538-thank-goodness-youre-here.json) |
+| Thank You Bus Driver | 416605 | [416605-thank-you-bus-driver.json](./416605-thank-you-bus-driver.json) |
 | Thank You For Your Application | 312791 | [312791-thank-you-for-your-application.json](./312791-thank-you-for-your-application.json) |
 | Thank You for Your Time | 367486 | [367486-thank-you-for-your-time.json](./367486-thank-you-for-your-time.json) |
 | Thanks, Come Again | 245389 | [245389-thanks-come-again.json](./245389-thanks-come-again.json) |
@@ -3468,6 +3469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Collection | 296390 | [296390-the-collection.json](./296390-the-collection.json) |
 | The Collective | 416835 | [416835-the-collective.json](./416835-the-collective.json) |
 | The Collector | 238210 | [238210-the-collector.json](./238210-the-collector.json) |
+| The Collector’s Curio Cabinet: Toy Soldiers | 416776 | [416776-the-collector-s-curio-cabinet-toy-soldiers.json](./416776-the-collector-s-curio-cabinet-toy-soldiers.json) |
 | The College Brickout | 306485 | [306485-the-college-brickout.json](./306485-the-college-brickout.json) |
 | The Collider 2 | 18685 | [18685-the-collider-2.json](./18685-the-collider-2.json) |
 | The Colony | 12411 | [12411-the-colony.json](./12411-the-colony.json) |
@@ -4887,6 +4889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hardest Quiz - Impossible | 96054 | [96054-the-hardest-quiz-impossible.json](./96054-the-hardest-quiz-impossible.json) |
 | The Hardy Boys: Treasure on the Tracks | 21105 | [21105-the-hardy-boys-treasure-on-the-tracks.json](./21105-the-hardy-boys-treasure-on-the-tracks.json) |
 | The Harlem Shake vs. Gangnam Dance Game | 264355 | [264355-the-harlem-shake-vs-gangnam-dance-game.json](./264355-the-harlem-shake-vs-gangnam-dance-game.json) |
+| The Harmony Chronicles: Cat Out of the Bag | 416708 | [416708-the-harmony-chronicles-cat-out-of-the-bag.json](./416708-the-harmony-chronicles-cat-out-of-the-bag.json) |
 | The Harmony Chronicles: Chaos Realms - Collector's Edition | 319771 | [319771-the-harmony-chronicles-chaos-realms-collectors-edition.json](./319771-the-harmony-chronicles-chaos-realms-collectors-edition.json) |
 | The Harmony Chronicles: Demon of the Void - Collector’s Edition | 332532 | [332532-the-harmony-chronicles-demon-of-the-void-collector-s-edition.json](./332532-the-harmony-chronicles-demon-of-the-void-collector-s-edition.json) |
 | The Harmony of Buku | 55921 | [55921-the-harmony-of-buku.json](./55921-the-harmony-of-buku.json) |
@@ -5110,6 +5113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Idolmaster: Gravure for You! Vol. 8 | 79352 | [79352-the-idolmaster-gravure-for-you-vol-8.json](./79352-the-idolmaster-gravure-for-you-vol-8.json) |
 | The Idolmaster: Million Live! Theater Days | 44154 | [44154-the-idolmaster-million-live-theater-days.json](./44154-the-idolmaster-million-live-theater-days.json) |
 | The Idolmaster: Shiny Colors | 97876 | [97876-the-idolmaster-shiny-colors.json](./97876-the-idolmaster-shiny-colors.json) |
+| The Idolmaster: Shiny Colors - A.X.E.8: Illumination Stars | 416719 | [416719-the-idolmaster-shiny-colors-a-x-e-8-illumination-stars.json](./416719-the-idolmaster-shiny-colors-a-x-e-8-illumination-stars.json) |
 | The Idolmaster: Shiny Colors - Song for Prism | 248115 | [248115-the-idolmaster-shiny-colors-song-for-prism.json](./248115-the-idolmaster-shiny-colors-song-for-prism.json) |
 | The Idolmaster: Shiny Colors - With Open() | 413755 | [413755-the-idolmaster-shiny-colors-with-open.json](./413755-the-idolmaster-shiny-colors-with-open.json) |
 | The Idolmaster: Shiny Festa - Funky Note | 42797 | [42797-the-idolmaster-shiny-festa-funky-note.json](./42797-the-idolmaster-shiny-festa-funky-note.json) |
@@ -5514,6 +5518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Land Before Time: Preschool Adventure | 329647 | [329647-the-land-before-time-preschool-adventure.json](./329647-the-land-before-time-preschool-adventure.json) |
 | The Land Before Time: Toddler Time | 329648 | [329648-the-land-before-time-toddler-time.json](./329648-the-land-before-time-toddler-time.json) |
 | The Land Beneath Us | 221115 | [221115-the-land-beneath-us.json](./221115-the-land-beneath-us.json) |
+| The Land Beyond the Forest | 416757 | [416757-the-land-beyond-the-forest.json](./416757-the-land-beyond-the-forest.json) |
 | The Land Forgotten | 381730 | [381730-the-land-forgotten.json](./381730-the-land-forgotten.json) |
 | The Land of Alembrume | 204983 | [204983-the-land-of-alembrume.json](./204983-the-land-of-alembrume.json) |
 | The Land of Dasthir | 30898 | [30898-the-land-of-dasthir.json](./30898-the-land-of-dasthir.json) |
@@ -6436,6 +6441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mines of White Label | 289982 | [289982-the-mines-of-white-label.json](./289982-the-mines-of-white-label.json) |
 | The Minesweeper | 406322 | [406322-the-minesweeper.json](./406322-the-minesweeper.json) |
 | The Ministry for Anomaly Observation | 405582 | [405582-the-ministry-for-anomaly-observation.json](./405582-the-ministry-for-anomaly-observation.json) |
+| The Miracle Of San Martin | 416606 | [416606-the-miracle-of-san-martin.json](./416606-the-miracle-of-san-martin.json) |
 | The Mirage: Illusion of Wish | 25057 | [25057-the-mirage-illusion-of-wish.json](./25057-the-mirage-illusion-of-wish.json) |
 | The Mirrion | 345104 | [345104-the-mirrion.json](./345104-the-mirrion.json) |
 | The Mirror Circle | 382746 | [382746-the-mirror-circle.json](./382746-the-mirror-circle.json) |
@@ -8574,6 +8580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unrested | 334297 | [334297-the-unrested.json](./334297-the-unrested.json) |
 | The Unseen Awakening | 347148 | [347148-the-unseen-awakening.json](./347148-the-unseen-awakening.json) |
 | The Unseen Fears: Body Thief - Collector's Edition | 377077 | [377077-the-unseen-fears-body-thief-collectors-edition.json](./377077-the-unseen-fears-body-thief-collectors-edition.json) |
+| The Unseen Fears: Inner Darkness - Collector's Edition | 416788 | [416788-the-unseen-fears-inner-darkness-collectors-edition.json](./416788-the-unseen-fears-inner-darkness-collectors-edition.json) |
 | The Unseen Fears: Ominous Talent | 187937 | [187937-the-unseen-fears-ominous-talent.json](./187937-the-unseen-fears-ominous-talent.json) |
 | The Unseen Fears: Outlive - Collector's Edition | 360664 | [360664-the-unseen-fears-outlive-collectors-edition.json](./360664-the-unseen-fears-outlive-collectors-edition.json) |
 | The Unseen Fears: Stories Untold | 187940 | [187940-the-unseen-fears-stories-untold.json](./187940-the-unseen-fears-stories-untold.json) |
@@ -8745,6 +8752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The War: Black Stone | 221388 | [221388-the-war-black-stone.json](./221388-the-war-black-stone.json) |
 | The Ward | 70348 | [70348-the-ward.json](./70348-the-ward.json) |
 | The Warden's Paradise | 289951 | [289951-the-wardens-paradise.json](./289951-the-wardens-paradise.json) |
+| The Warfare | 417488 | [417488-the-warfare.json](./417488-the-warfare.json) |
 | The Warfstache Clicker | 239539 | [239539-the-warfstache-clicker.json](./239539-the-warfstache-clicker.json) |
 | The Warlin of Heroes | 148963 | [148963-the-warlin-of-heroes.json](./148963-the-warlin-of-heroes.json) |
 | The Warlock of Firetop Mountain | 73881 | [73881-the-warlock-of-firetop-mountain.json](./73881-the-warlock-of-firetop-mountain.json) |
@@ -9503,6 +9511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Weeks in Paradise | 30218 | [30218-three-weeks-in-paradise.json](./30218-three-weeks-in-paradise.json) |
 | Three Wonders | 6980 | [6980-three-wonders.json](./6980-three-wonders.json) |
 | Three-Card Trick | 55952 | [55952-three-card-trick.json](./55952-three-card-trick.json) |
+| Three's a Crowd | 417459 | [417459-threes-a-crowd.json](./417459-threes-a-crowd.json) |
 | Three's A Crowd | 256841 | [256841-threes-a-crowd.json](./256841-threes-a-crowd.json) |
 | Threefold Recital | 327486 | [327486-threefold-recital.json](./327486-threefold-recital.json) |
 | ThreeStep | 120962 | [120962-threestep.json](./120962-threestep.json) |
@@ -11257,6 +11266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Be A Dummy Head VR: Hotel Elevator Story | 118378 | [118378-to-be-a-dummy-head-vr-hotel-elevator-story.json](./118378-to-be-a-dummy-head-vr-hotel-elevator-story.json) |
 | To Be a HerpWitch | 135033 | [135033-to-be-a-herpwitch.json](./135033-to-be-a-herpwitch.json) |
 | To Be A King: Volume 1 | 254754 | [254754-to-be-a-king-volume-1.json](./254754-to-be-a-king-volume-1.json) |
+| To Be Besieged | 416765 | [416765-to-be-besieged.json](./416765-to-be-besieged.json) |
 | To Be In Love With Girls Group | 289941 | [289941-to-be-in-love-with-girls-group.json](./289941-to-be-in-love-with-girls-group.json) |
 | To be on Top | 55023 | [55023-to-be-on-top.json](./55023-to-be-on-top.json) |
 | To Be or Not to Be | 17870 | [17870-to-be-or-not-to-be.json](./17870-to-be-or-not-to-be.json) |
@@ -11921,6 +11931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Far Too Late | 295550 | [295550-too-far-too-late.json](./295550-too-far-too-late.json) |
 | Too Hot to Be True | 406715 | [406715-too-hot-to-be-true.json](./406715-too-hot-to-be-true.json) |
 | Too Hot to Handle: Love is a Game | 204449 | [204449-too-hot-to-handle-love-is-a-game.json](./204449-too-hot-to-handle-love-is-a-game.json) |
+| Too Hot to Hold | 416739 | [416739-too-hot-to-hold.json](./416739-too-hot-to-hold.json) |
 | Too Human | 292152 | [292152-too-human.json](./292152-too-human.json) |
 | Too Many Bots | 366889 | [366889-too-many-bots.json](./366889-too-many-bots.json) |
 | Too Many Cooks | 375838 | [375838-too-many-cooks.json](./375838-too-many-cooks.json) |
@@ -12458,6 +12469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Gensou Mahjong | 117744 | [117744-touhou-gensou-mahjong.json](./117744-touhou-gensou-mahjong.json) |
 | Touhou Gensou Rambu: Yuujou, Uragiri, Shouri | 204997 | [204997-touhou-gensou-rambu-yuujou-uragiri-shouri.json](./204997-touhou-gensou-rambu-yuujou-uragiri-shouri.json) |
 | Touhou Gyakumyouran: Ephemeral Unnatural Balance | 246675 | [246675-touhou-gyakumyouran-ephemeral-unnatural-balance.json](./246675-touhou-gyakumyouran-ephemeral-unnatural-balance.json) |
+| Touhou Hack and Slash | 417458 | [417458-touhou-hack-and-slash.json](./417458-touhou-hack-and-slash.json) |
 | Touhou Hakujinki: White Names Spoiled Past | 246674 | [246674-touhou-hakujinki-white-names-spoiled-past.json](./246674-touhou-hakujinki-white-names-spoiled-past.json) |
 | Touhou Hangyaku Geki Sakuya's Counterattack | 371271 | [371271-touhou-hangyaku-geki-sakuyas-counterattack.json](./371271-touhou-hangyaku-geki-sakuyas-counterattack.json) |
 | Touhou Haou III | 98454 | [98454-touhou-haou-iii.json](./98454-touhou-haou-iii.json) |
