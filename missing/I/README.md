@@ -2277,6 +2277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intergalactic | 263025 | [263025-intergalactic.json](./263025-intergalactic.json) |
 | Intergalactic Ambassador | 141753 | [141753-intergalactic-ambassador.json](./141753-intergalactic-ambassador.json) |
 | Intergalactic Defenders | 340757 | [340757-intergalactic-defenders.json](./340757-intergalactic-defenders.json) |
+| Intergalactic Ecstasy | 411057 | [411057-intergalactic-ecstasy.json](./411057-intergalactic-ecstasy.json) |
 | Intergalactic Fishing | 111754 | [111754-intergalactic-fishing.json](./111754-intergalactic-fishing.json) |
 | Intergalactic Galactic Dinosaur Banana | 85537 | [85537-intergalactic-galactic-dinosaur-banana.json](./85537-intergalactic-galactic-dinosaur-banana.json) |
 | Intergalactic Gus | 109482 | [109482-intergalactic-gus.json](./109482-intergalactic-gus.json) |
