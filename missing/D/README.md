@@ -2584,6 +2584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DejaVu by dropout.tv | 299994 | [299994-dejavu-by-dropout-tv.json](./299994-dejavu-by-dropout-tv.json) |
 | Dejection: An Ode | 57901 | [57901-dejection-an-ode.json](./57901-dejection-an-ode.json) |
 | Dejiko no Mahjong Party | 92611 | [92611-dejiko-no-mahjong-party.json](./92611-dejiko-no-mahjong-party.json) |
+| Deka Nomos | 416712 | [416712-deka-nomos.json](./416712-deka-nomos.json) |
 | Deka Voice | 64928 | [64928-deka-voice.json](./64928-deka-voice.json) |
 | Dekabès Domino | 210563 | [210563-dekabes-domino.json](./210563-dekabes-domino.json) |
 | DekaBlox Arena | 104001 | [104001-dekablox-arena.json](./104001-dekablox-arena.json) |
@@ -2664,6 +2665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delivery Up | 361168 | [361168-delivery-up.json](./361168-delivery-up.json) |
 | Delores: A Thimbleweed Park Mini-Adventure | 134408 | [134408-delores-a-thimbleweed-park-mini-adventure.json](./134408-delores-a-thimbleweed-park-mini-adventure.json) |
 | Delta | 319816 | [319816-delta.json](./319816-delta.json) |
+| Delta 4: Terminal Protocol | 416726 | [416726-delta-4-terminal-protocol.json](./416726-delta-4-terminal-protocol.json) |
 | Delta Chase | 183339 | [183339-delta-chase.json](./183339-delta-chase.json) |
 | Delta Dash | 213621 | [213621-delta-dash.json](./213621-delta-dash.json) |
 | Delta Directive | 412266 | [412266-delta-directive.json](./412266-delta-directive.json) |
@@ -3389,6 +3391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Butler and the King of Hearts | 244238 | [244238-detective-butler-and-the-king-of-hearts.json](./244238-detective-butler-and-the-king-of-hearts.json) |
 | Detective Butler: Maiden Voyage Murder | 34660 | [34660-detective-butler-maiden-voyage-murder.json](./34660-detective-butler-maiden-voyage-murder.json) |
 | Detective Clean | 221819 | [221819-detective-clean.json](./221819-detective-clean.json) |
+| Detective Club: Carnival of Secrets - Collector's Edition | 416774 | [416774-detective-club-carnival-of-secrets-collectors-edition.json](./416774-detective-club-carnival-of-secrets-collectors-edition.json) |
 | Detective Club: Gallery of Shadows | 416699 | [416699-detective-club-gallery-of-shadows.json](./416699-detective-club-gallery-of-shadows.json) |
 | Detective Club: Gallery of Shadows - Collector's Edition | 362848 | [362848-detective-club-gallery-of-shadows-collectors-edition.json](./362848-detective-club-gallery-of-shadows-collectors-edition.json) |
 | Detective Conan Skateboard Run: Kaitou Kid to Shinpi no Hihou | 115712 | [115712-detective-conan-skateboard-run-kaitou-kid-to-shinpi-no-hihou.json](./115712-detective-conan-skateboard-run-kaitou-kid-to-shinpi-no-hihou.json) |
@@ -3881,6 +3884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Legende der Wikinger | 91397 | [91397-die-legende-der-wikinger.json](./91397-die-legende-der-wikinger.json) |
 | Die Legende von Saya - Befehl aus der Dunkelheit | 128454 | [128454-die-legende-von-saya-befehl-aus-der-dunkelheit.json](./128454-die-legende-von-saya-befehl-aus-der-dunkelheit.json) |
 | Die Like a Hero | 153891 | [153891-die-like-a-hero.json](./153891-die-like-a-hero.json) |
+| Die Meeple | 416777 | [416777-die-meeple.json](./416777-die-meeple.json) |
 | Die O'Clock | 214161 | [214161-die-oclock.json](./214161-die-oclock.json) |
 | Die Original Moorhuhn Jagd | 83237 | [83237-die-original-moorhuhn-jagd.json](./83237-die-original-moorhuhn-jagd.json) |
 | Die Pizzeria | 91542 | [91542-die-pizzeria.json](./91542-die-pizzeria.json) |
