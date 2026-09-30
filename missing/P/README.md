@@ -2461,6 +2461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Bound | 293626 | [293626-phantom-bound.json](./293626-phantom-bound.json) |
 | Phantom Brave PC: Digital Chroma Edition | 53457 | [53457-phantom-brave-pc-digital-chroma-edition.json](./53457-phantom-brave-pc-digital-chroma-edition.json) |
 | Phantom Brave: The Hermuda Triangle Remastered | 144246 | [144246-phantom-brave-the-hermuda-triangle-remastered.json](./144246-phantom-brave-the-hermuda-triangle-remastered.json) |
+| Phantom Brave: The Lost Hero | 306146 | [306146-phantom-brave-the-lost-hero.json](./306146-phantom-brave-the-lost-hero.json) |
 | Phantom Brave: The Lost Hero - Heroes of the Past | 332520 | [332520-phantom-brave-the-lost-hero-heroes-of-the-past.json](./332520-phantom-brave-the-lost-hero-heroes-of-the-past.json) |
 | Phantom Brave: The Lost Hero - Parallel Siblings | 332521 | [332521-phantom-brave-the-lost-hero-parallel-siblings.json](./332521-phantom-brave-the-lost-hero-parallel-siblings.json) |
 | Phantom Brave: The Lost Hero - The Girl Who Cried Ghost | 332522 | [332522-phantom-brave-the-lost-hero-the-girl-who-cried-ghost.json](./332522-phantom-brave-the-lost-hero-the-girl-who-cried-ghost.json) |
@@ -4210,6 +4211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Zoo 2 | 402959 | [402959-planet-zoo-2.json](./402959-planet-zoo-2.json) |
 | Planet Zoo: Aquatic Pack | 226995 | [226995-planet-zoo-aquatic-pack.json](./226995-planet-zoo-aquatic-pack.json) |
 | Planet Zoo: Barnyard Animal Pack | 308275 | [308275-planet-zoo-barnyard-animal-pack.json](./308275-planet-zoo-barnyard-animal-pack.json) |
+| Planet Zoo: Console Edition | 284574 | [284574-planet-zoo-console-edition.json](./284574-planet-zoo-console-edition.json) |
 | Planet Zoo: Europe Pack | 191245 | [191245-planet-zoo-europe-pack.json](./191245-planet-zoo-europe-pack.json) |
 | Planet Zoo: North America Animal Pack | 174129 | [174129-planet-zoo-north-america-animal-pack.json](./174129-planet-zoo-north-america-animal-pack.json) |
 | Planet Zoo: Tropical Pack | 243535 | [243535-planet-zoo-tropical-pack.json](./243535-planet-zoo-tropical-pack.json) |
