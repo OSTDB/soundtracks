@@ -4179,6 +4179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino-D | 199479 | [199479-dino-d.json](./199479-dino-d.json) |
 | Dino-Sorcerer | 74072 | [74072-dino-sorcerer.json](./74072-dino-sorcerer.json) |
 | Dino's Offline Adventure | 195208 | [195208-dinos-offline-adventure.json](./195208-dinos-offline-adventure.json) |
+| Dinoblade | 330174 | [330174-dinoblade.json](./330174-dinoblade.json) |
 | Dinobreak | 264154 | [264154-dinobreak.json](./264154-dinobreak.json) |
 | Dinobreak: Chronicles of Horror Collection | 331412 | [331412-dinobreak-chronicles-of-horror-collection.json](./331412-dinobreak-chronicles-of-horror-collection.json) |
 | Dinobreak: Crisis Collection | 331409 | [331409-dinobreak-crisis-collection.json](./331409-dinobreak-crisis-collection.json) |
@@ -4450,6 +4451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disgaea 5: Alliance of Vengeance | 11594 | [11594-disgaea-5-alliance-of-vengeance.json](./11594-disgaea-5-alliance-of-vengeance.json) |
 | Disgaea 5: Alliance of Vengeance - Limited Edition | 167058 | [167058-disgaea-5-alliance-of-vengeance-limited-edition.json](./167058-disgaea-5-alliance-of-vengeance-limited-edition.json) |
 | Disgaea 6 Complete | 191497 | [191497-disgaea-6-complete.json](./191497-disgaea-6-complete.json) |
+| Disgaea 7 Complete | 295622 | [295622-disgaea-7-complete.json](./295622-disgaea-7-complete.json) |
 | Disgaea 7: Glasses Costumes Set | 268541 | [268541-disgaea-7-glasses-costumes-set.json](./268541-disgaea-7-glasses-costumes-set.json) |
 | Disgaea 7: Vows of the Virtueless | 214530 | [214530-disgaea-7-vows-of-the-virtueless.json](./214530-disgaea-7-vows-of-the-virtueless.json) |
 | Disgaea 7: Vows of the Virtueless - Bonus Story: The Kind Demon, Singing Princess, and Thief Angel | 270198 | [270198-disgaea-7-vows-of-the-virtueless-bonus-story-the-kind-demon-singing-princess-and-thief-angel.json](./270198-disgaea-7-vows-of-the-virtueless-bonus-story-the-kind-demon-singing-princess-and-thief-angel.json) |
@@ -7177,6 +7179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreams of a Geisha | 264700 | [264700-dreams-of-a-geisha.json](./264700-dreams-of-a-geisha.json) |
 | Dreams of a Lifetime | 210588 | [210588-dreams-of-a-lifetime.json](./210588-dreams-of-a-lifetime.json) |
 | Dreams of Adventure | 173177 | [173177-dreams-of-adventure.json](./173177-dreams-of-adventure.json) |
+| Dreams of Another | 331205 | [331205-dreams-of-another.json](./331205-dreams-of-another.json) |
 | Dreams of Being | 170002 | [170002-dreams-of-being.json](./170002-dreams-of-being.json) |
 | Dreams of Dead | 202249 | [202249-dreams-of-dead.json](./202249-dreams-of-dead.json) |
 | Dreams of Greatness | 51583 | [51583-dreams-of-greatness.json](./51583-dreams-of-greatness.json) |
