@@ -2298,6 +2298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai MatureCat | 243162 | [243162-hentai-maturecat.json](./243162-hentai-maturecat.json) |
 | Hentai Maya | 265572 | [265572-hentai-maya.json](./265572-hentai-maya.json) |
 | Hentai Memorama | 112775 | [112775-hentai-memorama.json](./112775-hentai-memorama.json) |
+| Hentai Memory | 105200 | [105200-hentai-memory.json](./105200-hentai-memory.json) |
 | Hentai Milf | 296908 | [296908-hentai-milf.json](./296908-hentai-milf.json) |
 | Hentai Military | 238434 | [238434-hentai-military.json](./238434-hentai-military.json) |
 | Hentai MineSweeper | 146280 | [146280-hentai-minesweeper.json](./146280-hentai-minesweeper.json) |
@@ -2398,6 +2399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Tales: The World Only Maid | 295401 | [295401-hentai-tales-the-world-only-maid.json](./295401-hentai-tales-the-world-only-maid.json) |
 | Hentai Tales: Triangle That Wants Me All | 401532 | [401532-hentai-tales-triangle-that-wants-me-all.json](./401532-hentai-tales-triangle-that-wants-me-all.json) |
 | Hentai Tales: Uninhabited Island | 332613 | [332613-hentai-tales-uninhabited-island.json](./332613-hentai-tales-uninhabited-island.json) |
+| Hentai Temple | 104911 | [104911-hentai-temple.json](./104911-hentai-temple.json) |
 | Hentai Tights | 377283 | [377283-hentai-tights.json](./377283-hentai-tights.json) |
 | Hentai Uni 3 | 340458 | [340458-hentai-uni-3.json](./340458-hentai-uni-3.json) |
 | Hentai University 2: Biology course | 112455 | [112455-hentai-university-2-biology-course.json](./112455-hentai-university-2-biology-course.json) |
@@ -4556,6 +4558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horny Clinic | 226188 | [226188-horny-clinic.json](./226188-horny-clinic.json) |
 | Horny Dungeon | 272285 | [272285-horny-dungeon.json](./272285-horny-dungeon.json) |
 | Horny Fantasy Girl Hentai | 149407 | [149407-horny-fantasy-girl-hentai.json](./149407-horny-fantasy-girl-hentai.json) |
+| Horny Fighter | 105090 | [105090-horny-fighter.json](./105090-horny-fighter.json) |
 | Horny Girls Hentai | 161327 | [161327-horny-girls-hentai.json](./161327-horny-girls-hentai.json) |
 | Horny Honey | 156628 | [156628-horny-honey.json](./156628-horny-honey.json) |
 | Horny Housewives 2 | 340484 | [340484-horny-housewives-2.json](./340484-horny-housewives-2.json) |
