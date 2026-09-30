@@ -4183,6 +4183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimensional Gears | 214047 | [214047-dimensional-gears.json](./214047-dimensional-gears.json) |
 | Dimensional Illusion | 324879 | [324879-dimensional-illusion.json](./324879-dimensional-illusion.json) |
 | Dimensional Intersection | 33404 | [33404-dimensional-intersection.json](./33404-dimensional-intersection.json) |
+| Dimensional Racing Board | 389654 | [389654-dimensional-racing-board.json](./389654-dimensional-racing-board.json) |
 | Dimensional Rift | 29746 | [29746-dimensional-rift.json](./29746-dimensional-rift.json) |
 | Dimensional Shift Awakening | 277268 | [277268-dimensional-shift-awakening.json](./277268-dimensional-shift-awakening.json) |
 | Dimensional Slaughter | 209696 | [209696-dimensional-slaughter.json](./209696-dimensional-slaughter.json) |
@@ -4995,6 +4996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dj 8 Beats: Infinite | 303480 | [303480-dj-8-beats-infinite.json](./303480-dj-8-beats-infinite.json) |
 | DJ Beats: Waifus | 186237 | [186237-dj-beats-waifus.json](./186237-dj-beats-waifus.json) |
 | DJ Boy | 28038 | [28038-dj-boy.json](./28038-dj-boy.json) |
+| DJ Bunny | 389673 | [389673-dj-bunny.json](./389673-dj-bunny.json) |
 | DJ Clicker: World Tour | 264655 | [264655-dj-clicker-world-tour.json](./264655-dj-clicker-world-tour.json) |
 | DJ Hero | 2679 | [2679-dj-hero.json](./2679-dj-hero.json) |
 | DJ Life | 67978 | [67978-dj-life.json](./67978-dj-life.json) |
@@ -8337,6 +8339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Peplum | 379880 | [379880-dungeon-peplum.json](./379880-dungeon-peplum.json) |
 | Dungeon Pizza | 365096 | [365096-dungeon-pizza.json](./365096-dungeon-pizza.json) |
 | Dungeon Prospector | 50865 | [50865-dungeon-prospector.json](./50865-dungeon-prospector.json) |
+| Dungeon Puzzle Sweeper | 389661 | [389661-dungeon-puzzle-sweeper.json](./389661-dungeon-puzzle-sweeper.json) |
 | Dungeon Quest | 101600 | [101600-dungeon-quest.json](./101600-dungeon-quest.json) |
 | Dungeon Quest | 199924 | [199924-dungeon-quest.json](./199924-dungeon-quest.json) |
 | Dungeon Quest | 225579 | [225579-dungeon-quest.json](./225579-dungeon-quest.json) |
