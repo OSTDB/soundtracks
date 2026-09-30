@@ -200,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race.a.bit | 36114 | [36114-race-a-bit.json](./36114-race-a-bit.json) |
 | Race07 | 50162 | [50162-race07.json](./50162-race07.json) |
 | Raceborn | 311638 | [311638-raceborn.json](./311638-raceborn.json) |
+| Racecar Crashers | 391835 | [391835-racecar-crashers.json](./391835-racecar-crashers.json) |
 | Racecraft | 18188 | [18188-racecraft.json](./18188-racecraft.json) |
 | Raceland | 81906 | [81906-raceland.json](./81906-raceland.json) |
 | RaceLeague | 168128 | [168128-raceleague.json](./168128-raceleague.json) |
@@ -2201,6 +2202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regions of Ruin: Sieges | 171959 | [171959-regions-of-ruin-sieges.json](./171959-regions-of-ruin-sieges.json) |
 | Regnum | 55987 | [55987-regnum.json](./55987-regnum.json) |
 | Regola | 119593 | [119593-regola.json](./119593-regola.json) |
+| Regret | 391791 | [391791-regret.json](./391791-regret.json) |
 | Regretful Ghosts | 318542 | [318542-regretful-ghosts.json](./318542-regretful-ghosts.json) |
 | Regular Friday Night | 298719 | [298719-regular-friday-night.json](./298719-regular-friday-night.json) |
 | Regular Home Renovation Simulator Prototype | 231866 | [231866-regular-home-renovation-simulator-prototype.json](./231866-regular-home-renovation-simulator-prototype.json) |
@@ -2775,6 +2777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restcue | 416811 | [416811-restcue.json](./416811-restcue.json) |
 | Resthedex | 151175 | [151175-resthedex.json](./151175-resthedex.json) |
 | Restitched | 147290 | [147290-restitched.json](./147290-restitched.json) |
+| Restless I | 391816 | [391816-restless-i.json](./391816-restless-i.json) |
 | Restless Nights | 393756 | [393756-restless-nights.json](./393756-restless-nights.json) |
 | Restless Soul | 192398 | [192398-restless-soul.json](./192398-restless-soul.json) |
 | Restless Voronezh | 267058 | [267058-restless-voronezh.json](./267058-restless-voronezh.json) |
