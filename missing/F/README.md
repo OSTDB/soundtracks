@@ -1619,6 +1619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fearaphobia | 310957 | [310957-fearaphobia.json](./310957-fearaphobia.json) |
 | Fearbonding | 297073 | [297073-fearbonding.json](./297073-fearbonding.json) |
 | Fearful Symmetry | 336907 | [336907-fearful-symmetry.json](./336907-fearful-symmetry.json) |
+| Fearful Symmetry & The Cursed Prince | 75932 | [75932-fearful-symmetry-and-the-cursed-prince.json](./75932-fearful-symmetry-and-the-cursed-prince.json) |
 | Fearless | 302933 | [302933-fearless.json](./302933-fearless.json) |
 | Fearless Fred and the Factory of Doom | 268740 | [268740-fearless-fred-and-the-factory-of-doom.json](./268740-fearless-fred-and-the-factory-of-doom.json) |
 | Fearless Tigor | 114819 | [114819-fearless-tigor.json](./114819-fearless-tigor.json) |
@@ -5954,6 +5955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Metal Jackpot | 106772 | [106772-full-metal-jackpot.json](./106772-full-metal-jackpot.json) |
 | Full Metal Monsters | 119648 | [119648-full-metal-monsters.json](./119648-full-metal-monsters.json) |
 | Full Metal Nun | 411666 | [411666-full-metal-nun.json](./411666-full-metal-nun.json) |
+| Full Metal Panic! Fight! Who Dares Wins | 75378 | [75378-full-metal-panic-fight-who-dares-wins.json](./75378-full-metal-panic-fight-who-dares-wins.json) |
 | Full Metal Planet | 12110 | [12110-full-metal-planet.json](./12110-full-metal-planet.json) |
 | Full Metal Schoolgirl | 352205 | [352205-full-metal-schoolgirl.json](./352205-full-metal-schoolgirl.json) |
 | Full Metal Sergeant | 189108 | [189108-full-metal-sergeant.json](./189108-full-metal-sergeant.json) |
