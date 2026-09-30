@@ -404,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Rum Tale | 230384 | [230384-a-rum-tale.json](./230384-a-rum-tale.json) |
 | A Sandwich, A Leash, and A Storm | 337701 | [337701-a-sandwich-a-leash-and-a-storm.json](./337701-a-sandwich-a-leash-and-a-storm.json) |
 | A Sceptic's Guide to Magic | 118127 | [118127-a-sceptics-guide-to-magic.json](./118127-a-sceptics-guide-to-magic.json) |
+| A Sea of Grey & Green | 413864 | [413864-a-sea-of-grey-and-green.json](./413864-a-sea-of-grey-and-green.json) |
 | A Second Before the War | 192814 | [192814-a-second-before-the-war.json](./192814-a-second-before-the-war.json) |
 | A Second Chance | 201290 | [201290-a-second-chance.json](./201290-a-second-chance.json) |
 | A Second Face: The Eye of Geltz is watching Us | 67684 | [67684-a-second-face-the-eye-of-geltz-is-watching-us.json](./67684-a-second-face-the-eye-of-geltz-is-watching-us.json) |
@@ -821,6 +822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyssal | 249850 | [249850-abyssal.json](./249850-abyssal.json) |
 | Abyssal | 308956 | [308956-abyssal.json](./308956-abyssal.json) |
 | Abyssal | 385571 | [385571-abyssal.json](./385571-abyssal.json) |
+| Abyssal Apocrypha | 413783 | [413783-abyssal-apocrypha.json](./413783-abyssal-apocrypha.json) |
 | Abyssal Drift | 372014 | [372014-abyssal-drift.json](./372014-abyssal-drift.json) |
 | Abyssal Frontier | 283875 | [283875-abyssal-frontier.json](./283875-abyssal-frontier.json) |
 | Abyssal Maw | 372125 | [372125-abyssal-maw.json](./372125-abyssal-maw.json) |
@@ -1818,6 +1820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agromatic | 381849 | [381849-agromatic.json](./381849-agromatic.json) |
 | Agrou: Panda pet | 170825 | [170825-agrou-panda-pet.json](./170825-agrou-panda-pet.json) |
 | Agrou: Rabbit pet | 170826 | [170826-agrou-rabbit-pet.json](./170826-agrou-rabbit-pet.json) |
+| Aguni: Unmei no Saki | 413839 | [413839-aguni-unmei-no-saki.json](./413839-aguni-unmei-no-saki.json) |
 | Aguri Suzuki F-1 Super Driving | 7747 | [7747-aguri-suzuki-f-1-super-driving.json](./7747-aguri-suzuki-f-1-super-driving.json) |
 | Ah Nanjarin | 284418 | [284418-ah-nanjarin.json](./284418-ah-nanjarin.json) |
 | AH-1 Viper Cobra Ops | 223959 | [223959-ah-1-viper-cobra-ops.json](./223959-ah-1-viper-cobra-ops.json) |
@@ -1844,6 +1847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Hunter | 151027 | [151027-ai-hunter.json](./151027-ai-hunter.json) |
 | AI Igo | 45447 | [45447-ai-igo.json](./45447-ai-igo.json) |
 | Ai Iijima: Good Island Cafe | 45446 | [45446-ai-iijima-good-island-cafe.json](./45446-ai-iijima-good-island-cafe.json) |
+| AI is home | 413840 | [413840-ai-is-home.json](./413840-ai-is-home.json) |
 | AI Kills All Humans | 258425 | [258425-ai-kills-all-humans.json](./258425-ai-kills-all-humans.json) |
 | Ai Kiss: Limited Edition | 167081 | [167081-ai-kiss-limited-edition.json](./167081-ai-kiss-limited-edition.json) |
 | AI Mahjong | 56534 | [56534-ai-mahjong.json](./56534-ai-mahjong.json) |
@@ -4681,6 +4685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anti-TuringTest | 371914 | [371914-anti-turingtest.json](./371914-anti-turingtest.json) |
 | AntiAir | 304199 | [304199-antiair.json](./304199-antiair.json) |
 | Antiban | 302664 | [302664-antiban.json](./302664-antiban.json) |
+| Antibiotic Adventures | 413792 | [413792-antibiotic-adventures.json](./413792-antibiotic-adventures.json) |
 | Antibody | 151081 | [151081-antibody.json](./151081-antibody.json) |
 | Antibody | 64494 | [64494-antibody.json](./64494-antibody.json) |
 | Antichamber | 2064 | [2064-antichamber.json](./2064-antichamber.json) |
