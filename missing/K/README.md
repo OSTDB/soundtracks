@@ -1558,6 +1558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Eighties | 209620 | [209620-kingdom-eighties.json](./209620-kingdom-eighties.json) |
 | Kingdom Fortress | 337293 | [337293-kingdom-fortress.json](./337293-kingdom-fortress.json) |
 | Kingdom Hearts | 301925 | [301925-kingdom-hearts.json](./301925-kingdom-hearts.json) |
+| Kingdom Hearts | 393742 | [393742-kingdom-hearts.json](./393742-kingdom-hearts.json) |
 | Kingdom Hearts 10th Anniversary 3D+Days+Re:coded Box | 89879 | [89879-kingdom-hearts-10th-anniversary-3d-days-re-coded-box.json](./89879-kingdom-hearts-10th-anniversary-3d-days-re-coded-box.json) |
 | Kingdom Hearts 3D: Dream Drop Distance - Mark of Mastery Edition | 89897 | [89897-kingdom-hearts-3d-dream-drop-distance-mark-of-mastery-edition.json](./89897-kingdom-hearts-3d-dream-drop-distance-mark-of-mastery-edition.json) |
 | Kingdom Hearts Birth by Sleep | 1224 | [1224-kingdom-hearts-birth-by-sleep.json](./1224-kingdom-hearts-birth-by-sleep.json) |
