@@ -162,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake VR | 196018 | [196018-quake-vr.json](./196018-quake-vr.json) |
 | Quake: A Roman Wilderness of Pain | 196709 | [196709-quake-a-roman-wilderness-of-pain.json](./196709-quake-a-roman-wilderness-of-pain.json) |
 | Quake: Alkaline Jam | 196802 | [196802-quake-alkaline-jam.json](./196802-quake-alkaline-jam.json) |
+| Quake: Arcade Tournament Edition | 405632 | [405632-quake-arcade-tournament-edition.json](./405632-quake-arcade-tournament-edition.json) |
 | Quake: Autumn Haunting | 202931 | [202931-quake-autumn-haunting.json](./202931-quake-autumn-haunting.json) |
 | Quake: Contract Revoked | 280187 | [280187-quake-contract-revoked.json](./280187-quake-contract-revoked.json) |
 | Quake: Dawn of the Machine | 412530 | [412530-quake-dawn-of-the-machine.json](./412530-quake-dawn-of-the-machine.json) |
