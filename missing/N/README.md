@@ -2060,6 +2060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Raid | 80867 | [80867-night-raid.json](./80867-night-raid.json) |
 | Night Ranger | 388213 | [388213-night-ranger.json](./388213-night-ranger.json) |
 | Night Record: Thin Walls | 405696 | [405696-night-record-thin-walls.json](./405696-night-record-thin-walls.json) |
+| Night Reverie | 139598 | [139598-night-reverie.json](./139598-night-reverie.json) |
 | Night Run | 236526 | [236526-night-run.json](./236526-night-run.json) |
 | Night Run | 295905 | [295905-night-run.json](./295905-night-run.json) |
 | Night School | 406088 | [406088-night-school.json](./406088-night-school.json) |
@@ -2590,6 +2591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninza | 209419 | [209419-ninza.json](./209419-ninza.json) |
 | Nioh 2 | 103330 | [103330-nioh-2.json](./103330-nioh-2.json) |
 | Nioh 2: The Complete Edition | 140972 | [140972-nioh-2-the-complete-edition.json](./140972-nioh-2-the-complete-edition.json) |
+| Nioh 2: The First Samurai | 140054 | [140054-nioh-2-the-first-samurai.json](./140054-nioh-2-the-first-samurai.json) |
 | Nioh 3: Bloody Insurrection | 411562 | [411562-nioh-3-bloody-insurrection.json](./411562-nioh-3-bloody-insurrection.json) |
 | Nioh 3: Hell Rising | 411561 | [411561-nioh-3-hell-rising.json](./411561-nioh-3-hell-rising.json) |
 | Nioh: Bloodshed's End | 59591 | [59591-nioh-bloodsheds-end.json](./59591-nioh-bloodsheds-end.json) |
