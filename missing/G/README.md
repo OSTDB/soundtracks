@@ -842,6 +842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Party Shop | 359399 | [359399-garden-party-shop.json](./359399-garden-party-shop.json) |
 | Garden Paws | 105443 | [105443-garden-paws.json](./105443-garden-paws.json) |
 | Garden Pets | 233615 | [233615-garden-pets.json](./233615-garden-pets.json) |
+| Garden Simulator | 215944 | [215944-garden-simulator.json](./215944-garden-simulator.json) |
 | Garden Simulator 2010 | 63817 | [63817-garden-simulator-2010.json](./63817-garden-simulator-2010.json) |
 | Garden Souls | 409750 | [409750-garden-souls.json](./409750-garden-souls.json) |
 | Garden Tails | 215156 | [215156-garden-tails.json](./215156-garden-tails.json) |
@@ -889,6 +890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garfield: Big, Fat, Hairy Deal | 12111 | [12111-garfield-big-fat-hairy-deal.json](./12111-garfield-big-fat-hairy-deal.json) |
 | Garfield: Bound For Home | 234566 | [234566-garfield-bound-for-home.json](./234566-garfield-bound-for-home.json) |
 | Garfield: Escape from Monday | 407405 | [407405-garfield-escape-from-monday.json](./407405-garfield-escape-from-monday.json) |
+| Garfield: Lasagna Party | 218212 | [218212-garfield-lasagna-party.json](./218212-garfield-lasagna-party.json) |
 | Garfield: Lasagna World Tour | 43545 | [43545-garfield-lasagna-world-tour.json](./43545-garfield-lasagna-world-tour.json) |
 | Garfield: Saving Arlene | 43445 | [43445-garfield-saving-arlene.json](./43445-garfield-saving-arlene.json) |
 | Garfield: The Lost Levels | 234570 | [234570-garfield-the-lost-levels.json](./234570-garfield-the-lost-levels.json) |
@@ -906,6 +908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gargolite | 183507 | [183507-gargolite.json](./183507-gargolite.json) |
 | Gargoyle Garden | 386883 | [386883-gargoyle-garden.json](./386883-gargoyle-garden.json) |
 | Gargoyle Ruins | 175331 | [175331-gargoyle-ruins.json](./175331-gargoyle-ruins.json) |
+| Gargoyles Remastered | 216282 | [216282-gargoyles-remastered.json](./216282-gargoyles-remastered.json) |
 | Garin Game: Curse of Revival Ceremony | 214747 | [214747-garin-game-curse-of-revival-ceremony.json](./214747-garin-game-curse-of-revival-ceremony.json) |
 | Garland Boy | 327187 | [327187-garland-boy.json](./327187-garland-boy.json) |
 | Garlock Online | 34785 | [34785-garlock-online.json](./34785-garlock-online.json) |
@@ -4059,6 +4062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grey-Box Testing | 135222 | [135222-grey-box-testing.json](./135222-grey-box-testing.json) |
 | Grey: An Alien Dream | 123508 | [123508-grey-an-alien-dream.json](./123508-grey-an-alien-dream.json) |
 | Grey: The Lost Technology | 61719 | [61719-grey-the-lost-technology.json](./61719-grey-the-lost-technology.json) |
+| Greyhill Incident | 196995 | [196995-greyhill-incident.json](./196995-greyhill-incident.json) |
 | Greyhill Incident: Found Footage Mode | 252682 | [252682-greyhill-incident-found-footage-mode.json](./252682-greyhill-incident-found-footage-mode.json) |
 | Greyhound Manager 2 | 175195 | [175195-greyhound-manager-2.json](./175195-greyhound-manager-2.json) |
 | Greyhound Racing | 175212 | [175212-greyhound-racing.json](./175212-greyhound-racing.json) |
