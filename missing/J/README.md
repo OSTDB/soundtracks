@@ -1791,6 +1791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Dance 3: Target Exclusive Edition | 375276 | [375276-just-dance-3-target-exclusive-edition.json](./375276-just-dance-3-target-exclusive-edition.json) |
 | Just Dance 4 | 3255 | [3255-just-dance-4.json](./3255-just-dance-4.json) |
 | Just Dance Kids | 3299 | [3299-just-dance-kids.json](./3299-just-dance-kids.json) |
+| Just Dance Kids 2 | 3300 | [3300-just-dance-kids-2.json](./3300-just-dance-kids-2.json) |
 | Just Dance Wii 2 | 3298 | [3298-just-dance-wii-2.json](./3298-just-dance-wii-2.json) |
 | Just Dance Wii U | 15560 | [15560-just-dance-wii-u.json](./15560-just-dance-wii-u.json) |
 | Just Dance: Best Of | 3303 | [3303-just-dance-best-of.json](./3303-just-dance-best-of.json) |
