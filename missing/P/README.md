@@ -1744,6 +1744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pea Shootin' Pete | 70481 | [70481-pea-shootin-pete.json](./70481-pea-shootin-pete.json) |
 | Peace Breaker | 270144 | [270144-peace-breaker.json](./270144-peace-breaker.json) |
 | Peace for Ukraine | 211684 | [211684-peace-for-ukraine.json](./211684-peace-for-ukraine.json) |
+| Peace Incarnate | 404987 | [404987-peace-incarnate.json](./404987-peace-incarnate.json) |
 | Peace Maker VR | 200717 | [200717-peace-maker-vr.json](./200717-peace-maker-vr.json) |
 | Peace of Evil | 118395 | [118395-peace-of-evil.json](./118395-peace-of-evil.json) |
 | Peace Park | 262352 | [262352-peace-park.json](./262352-peace-park.json) |
@@ -7144,6 +7145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Glasloc | 253577 | [253577-project-glasloc.json](./253577-project-glasloc.json) |
 | Project Glitch | 412526 | [412526-project-glitch.json](./412526-project-glitch.json) |
 | Project Glitch | 81730 | [81730-project-glitch.json](./81730-project-glitch.json) |
+| Project Goblin | 404986 | [404986-project-goblin.json](./404986-project-goblin.json) |
 | Project Gold | 141018 | [141018-project-gold.json](./141018-project-gold.json) |
 | Project Gotham Racing 4: Recompiled | 414601 | [414601-project-gotham-racing-4-recompiled.json](./414601-project-gotham-racing-4-recompiled.json) |
 | Project GR-5LYR: Galactic Relocation | 108422 | [108422-project-gr-5lyr-galactic-relocation.json](./108422-project-gr-5lyr-galactic-relocation.json) |
