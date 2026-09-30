@@ -619,6 +619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vellar | 405723 | [405723-vellar.json](./405723-vellar.json) |
 | Velldeselba Senki: Tsubasa no Kunshou | 140026 | [140026-velldeselba-senki-tsubasa-no-kunshou.json](./140026-velldeselba-senki-tsubasa-no-kunshou.json) |
 | Vellum | 273394 | [273394-vellum.json](./273394-vellum.json) |
+| Vellum: Raid Night Study Hall | 387632 | [387632-vellum-raid-night-study-hall.json](./387632-vellum-raid-night-study-hall.json) |
 | VeLM | 117120 | [117120-velm.json](./117120-velm.json) |
 | Velo | 244347 | [244347-velo.json](./244347-velo.json) |
 | Velocibox | 15548 | [15548-velocibox.json](./15548-velocibox.json) |
@@ -1077,6 +1078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Village Merchant | 377167 | [377167-village-merchant.json](./377167-village-merchant.json) |
 | Village of Adventurers 2 | 74290 | [74290-village-of-adventurers-2.json](./74290-village-of-adventurers-2.json) |
 | Village of the Ages | 369042 | [369042-village-of-the-ages.json](./369042-village-of-the-ages.json) |
+| Village of the Curse | 387600 | [387600-village-of-the-curse.json](./387600-village-of-the-curse.json) |
 | Village Slut Transformation | 306433 | [306433-village-slut-transformation.json](./306433-village-slut-transformation.json) |
 | Village Supermarket Simulator: Old Times Edition | 370800 | [370800-village-supermarket-simulator-old-times-edition.json](./370800-village-supermarket-simulator-old-times-edition.json) |
 | Village Tanuki | 185138 | [185138-village-tanuki.json](./185138-village-tanuki.json) |
