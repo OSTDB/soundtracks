@@ -1043,6 +1043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joey The Duck | 370217 | [370217-joey-the-duck.json](./370217-joey-the-duck.json) |
 | Joey Wamoney's: The Metamorphosis | 278464 | [278464-joey-wamoneys-the-metamorphosis.json](./278464-joey-wamoneys-the-metamorphosis.json) |
 | Joey's Shisha Simulator | 326412 | [326412-joeys-shisha-simulator.json](./326412-joeys-shisha-simulator.json) |
+| Joggernauts | 60230 | [60230-joggernauts.json](./60230-joggernauts.json) |
 | Jogo da Nota | 409806 | [409806-jogo-da-nota.json](./409806-jogo-da-nota.json) |
 | Jogo do Banquinho do Raul Gil | 222874 | [222874-jogo-do-banquinho-do-raul-gil.json](./222874-jogo-do-banquinho-do-raul-gil.json) |
 | Jogo Satanista para Praticar o Mal | 178443 | [178443-jogo-satanista-para-praticar-o-mal.json](./178443-jogo-satanista-para-praticar-o-mal.json) |
