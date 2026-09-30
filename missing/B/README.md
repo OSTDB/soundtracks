@@ -271,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms Project: The Lost File | 245831 | [245831-backrooms-project-the-lost-file.json](./245831-backrooms-project-the-lost-file.json) |
 | Backrooms Protocol | 407406 | [407406-backrooms-protocol.json](./407406-backrooms-protocol.json) |
 | Backrooms Rec. | 253402 | [253402-backrooms-rec.json](./253402-backrooms-rec.json) |
+| Backrooms Security Room | 406258 | [406258-backrooms-security-room.json](./406258-backrooms-security-room.json) |
 | Backrooms Society | 245870 | [245870-backrooms-society.json](./245870-backrooms-society.json) |
 | Backrooms The Company | 309864 | [309864-backrooms-the-company.json](./309864-backrooms-the-company.json) |
 | Backrooms Untold | 409746 | [409746-backrooms-untold.json](./409746-backrooms-untold.json) |
@@ -599,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balconing Simulator 2020 | 127988 | [127988-balconing-simulator-2020.json](./127988-balconing-simulator-2020.json) |
 | Bald Man Climbs Up | 260988 | [260988-bald-man-climbs-up.json](./260988-bald-man-climbs-up.json) |
 | Baldi's Basics 1 Year Birthday Bash! | 176497 | [176497-baldis-basics-1-year-birthday-bash.json](./176497-baldis-basics-1-year-birthday-bash.json) |
+| Baldi's Basics in 2D | 406248 | [406248-baldis-basics-in-2d.json](./406248-baldis-basics-in-2d.json) |
 | Baldi's Basics: Encounter Doors | 353384 | [353384-baldis-basics-encounter-doors.json](./353384-baldis-basics-encounter-doors.json) |
 | Baldies | 90071 | [90071-baldies.json](./90071-baldies.json) |
 | Baldis Basics 2: High School | 105781 | [105781-baldis-basics-2-high-school.json](./105781-baldis-basics-2-high-school.json) |
@@ -2347,6 +2349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bean Dreams | 60630 | [60630-bean-dreams.json](./60630-bean-dreams.json) |
 | Bean Story | 203904 | [203904-bean-story.json](./203904-bean-story.json) |
 | Bean There Won That | 311497 | [311497-bean-there-won-that.json](./311497-bean-there-won-that.json) |
+| Bean Wizard Eviscerates the Gonklins | 406252 | [406252-bean-wizard-eviscerates-the-gonklins.json](./406252-bean-wizard-eviscerates-the-gonklins.json) |
 | Bean's Quest 2: Bean Dreams | 26919 | [26919-beans-quest-2-bean-dreams.json](./26919-beans-quest-2-bean-dreams.json) |
 | Beanotown Racing | 57608 | [57608-beanotown-racing.json](./57608-beanotown-racing.json) |
 | Beans Dash | 256255 | [256255-beans-dash.json](./256255-beans-dash.json) |
@@ -2445,6 +2448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat 'Em & Eat 'Em | 11139 | [11139-beat-em-and-eat-em.json](./11139-beat-em-and-eat-em.json) |
 | Beat 'Em & Eat 'Em/Lady in Wading | 79193 | [79193-beat-em-and-eat-em-lady-in-wading.json](./79193-beat-em-and-eat-em-lady-in-wading.json) |
 | Beat 'Em All | 265924 | [265924-beat-em-all.json](./265924-beat-em-all.json) |
+| Beat & Beasties | 406225 | [406225-beat-and-beasties.json](./406225-beat-and-beasties.json) |
 | Beat Aimer! | 213971 | [213971-beat-aimer.json](./213971-beat-aimer.json) |
 | Beat Arena | 168686 | [168686-beat-arena.json](./168686-beat-arena.json) |
 | Beat Ball | 340954 | [340954-beat-ball.json](./340954-beat-ball.json) |
@@ -2829,6 +2833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Belial Wars | 234351 | [234351-belial-wars.json](./234351-belial-wars.json) |
 | Belief & Betrayal | 21459 | [21459-belief-and-betrayal.json](./21459-belief-and-betrayal.json) |
 | Believe | 165632 | [165632-believe.json](./165632-believe.json) |
+| Believr Pro Wrestling | 406158 | [406158-believr-pro-wrestling.json](./406158-believr-pro-wrestling.json) |
 | Bell Park, Youth Detective | 139308 | [139308-bell-park-youth-detective.json](./139308-bell-park-youth-detective.json) |
 | Bell's Avenue Vol. 3 | 299817 | [299817-bells-avenue-vol-3.json](./299817-bells-avenue-vol-3.json) |
 | Bella | 260939 | [260939-bella.json](./260939-bella.json) |
@@ -4070,6 +4075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Blood | 379357 | [379357-black-blood.json](./379357-black-blood.json) |
 | Black Border: Border Simulator | 174205 | [174205-black-border-border-simulator.json](./174205-black-border-border-simulator.json) |
 | Black Box VR | 140619 | [140619-black-box-vr.json](./140619-black-box-vr.json) |
+| Black Box: Hacker Day One | 406161 | [406161-black-box-hacker-day-one.json](./406161-black-box-hacker-day-one.json) |
 | Black Castle | 143051 | [143051-black-castle.json](./143051-black-castle.json) |
 | Black Cat | 144278 | [144278-black-cat.json](./144278-black-cat.json) |
 | Black Cat Adventures | 129752 | [129752-black-cat-adventures.json](./129752-black-cat-adventures.json) |
@@ -5555,6 +5561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bobrkur | 368551 | [368551-bobrkur.json](./368551-bobrkur.json) |
 | BobsleighX | 265718 | [265718-bobsleighx.json](./265718-bobsleighx.json) |
 | BobSP Series | 272000 | [272000-bobsp-series.json](./272000-bobsp-series.json) |
+| Boby and the Witch | 406327 | [406327-boby-and-the-witch.json](./406327-boby-and-the-witch.json) |
 | BOC | 127030 | [127030-boc.json](./127030-boc.json) |
 | Bocce Beach | 30067 | [30067-bocce-beach.json](./30067-bocce-beach.json) |
 | Bocce Time! | 201570 | [201570-bocce-time.json](./201570-bocce-time.json) |
