@@ -4173,6 +4173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Enforcer | 60493 | [60493-the-enforcer.json](./60493-the-enforcer.json) |
 | The Engraved Dispatch | 181366 | [181366-the-engraved-dispatch.json](./181366-the-engraved-dispatch.json) |
 | The Enigma Lounge | 380439 | [380439-the-enigma-lounge.json](./380439-the-enigma-lounge.json) |
+| The Entente Gold | 36368 | [36368-the-entente-gold.json](./36368-the-entente-gold.json) |
 | The Entente: Battlefields WW1 | 9829 | [9829-the-entente-battlefields-ww1.json](./9829-the-entente-battlefields-ww1.json) |
 | The Entertainer | 395864 | [395864-the-entertainer.json](./395864-the-entertainer.json) |
 | The Entertainment | 128622 | [128622-the-entertainment.json](./128622-the-entertainment.json) |
@@ -4396,6 +4397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Heist | 184640 | [184640-the-final-heist.json](./184640-the-final-heist.json) |
 | The Final Hour | 190061 | [190061-the-final-hour.json](./190061-the-final-hour.json) |
 | The Final Hours of Mass Effect 3 | 202354 | [202354-the-final-hours-of-mass-effect-3.json](./202354-the-final-hours-of-mass-effect-3.json) |
+| The Final Hours of Titanfall | 36336 | [36336-the-final-hours-of-titanfall.json](./36336-the-final-hours-of-titanfall.json) |
 | The Final Payphone | 351235 | [351235-the-final-payphone.json](./351235-the-final-payphone.json) |
 | The Final Print | 347777 | [347777-the-final-print.json](./347777-the-final-print.json) |
 | The Final Round | 139245 | [139245-the-final-round.json](./139245-the-final-round.json) |
@@ -5153,6 +5155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Incredibles: When Danger Calls | 18261 | [18261-the-incredibles-when-danger-calls.json](./18261-the-incredibles-when-danger-calls.json) |
 | The Indian in the Cupboard | 74044 | [74044-the-indian-in-the-cupboard.json](./74044-the-indian-in-the-cupboard.json) |
 | The Indie Dev | 296474 | [296474-the-indie-dev.json](./296474-the-indie-dev.json) |
+| The Indie Mixtape | 35685 | [35685-the-indie-mixtape.json](./35685-the-indie-mixtape.json) |
 | The Indigo Initiative | 358848 | [358848-the-indigo-initiative.json](./358848-the-indigo-initiative.json) |
 | The Indigo Parallel | 157128 | [157128-the-indigo-parallel.json](./157128-the-indigo-parallel.json) |
 | The Indirect Castle Retreat | 322765 | [322765-the-indirect-castle-retreat.json](./322765-the-indirect-castle-retreat.json) |
@@ -8754,6 +8757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Way to Defeat the Archfiend | 87974 | [87974-the-way-to-defeat-the-archfiend.json](./87974-the-way-to-defeat-the-archfiend.json) |
 | The Way To Life | 329971 | [329971-the-way-to-life.json](./329971-the-way-to-life.json) |
 | The Way We All Go | 345102 | [345102-the-way-we-all-go.json](./345102-the-way-we-all-go.json) |
+| The Way We ALL GO | 35683 | [35683-the-way-we-all-go.json](./35683-the-way-we-all-go.json) |
 | The Wayfarer | 144261 | [144261-the-wayfarer.json](./144261-the-wayfarer.json) |
 | The Wayhaven Chronicles: Book Three | 224639 | [224639-the-wayhaven-chronicles-book-three.json](./224639-the-wayhaven-chronicles-book-three.json) |
 | The Waystone's Toll: A Diorama Mini-Dungeon | 139873 | [139873-the-waystones-toll-a-diorama-mini-dungeon.json](./139873-the-waystones-toll-a-diorama-mini-dungeon.json) |
@@ -9425,6 +9429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Alpha One Nine | 312133 | [312133-three-alpha-one-nine.json](./312133-three-alpha-one-nine.json) |
 | Three Bosses | 174323 | [174323-three-bosses.json](./174323-three-bosses.json) |
 | Three Color Cannon | 360001 | [360001-three-color-cannon.json](./360001-three-color-cannon.json) |
+| Three Dead Zed | 36364 | [36364-three-dead-zed.json](./36364-three-dead-zed.json) |
 | Three Dimension | 189183 | [189183-three-dimension.json](./189183-three-dimension.json) |
 | Three Finger Battle Arena | 192965 | [192965-three-finger-battle-arena.json](./192965-three-finger-battle-arena.json) |
 | Three Foreign Sisters!! | 379352 | [379352-three-foreign-sisters.json](./379352-three-foreign-sisters.json) |
@@ -10744,6 +10749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Raiders | 208321 | [208321-time-raiders.json](./208321-time-raiders.json) |
 | Time Raiders | 252232 | [252232-time-raiders.json](./252232-time-raiders.json) |
 | Time Ramesside | 9050 | [9050-time-ramesside.json](./9050-time-ramesside.json) |
+| Time Ramesside (A New Reckoning) | 36351 | [36351-time-ramesside-a-new-reckoning.json](./36351-time-ramesside-a-new-reckoning.json) |
 | Time Re:Quest | 329083 | [329083-time-re-quest.json](./329083-time-re-quest.json) |
 | Time Rift | 133222 | [133222-time-rift.json](./133222-time-rift.json) |
 | Time Scanner | 12865 | [12865-time-scanner.json](./12865-time-scanner.json) |
