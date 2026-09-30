@@ -770,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloons | 257936 | [257936-balloons.json](./257936-balloons.json) |
 | Balloons Jump | 107110 | [107110-balloons-jump.json](./107110-balloons-jump.json) |
 | Balloony | 290439 | [290439-balloony.json](./290439-balloony.json) |
+| BallotGuessr | 394453 | [394453-ballotguessr.json](./394453-ballotguessr.json) |
 | Ballotron | 192297 | [192297-ballotron.json](./192297-ballotron.json) |
 | Ballotron Oceans | 231345 | [231345-ballotron-oceans.json](./231345-ballotron-oceans.json) |
 | Ballpoint Universe | 50861 | [50861-ballpoint-universe.json](./50861-ballpoint-universe.json) |
@@ -835,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana 2: Fruit | 314429 | [314429-banana-2-fruit.json](./314429-banana-2-fruit.json) |
 | Banana 3D | 338190 | [338190-banana-3d.json](./338190-banana-3d.json) |
 | Banana Attack VR | 234196 | [234196-banana-attack-vr.json](./234196-banana-attack-vr.json) |
+| Banana Bam | 394448 | [394448-banana-bam.json](./394448-banana-bam.json) |
 | Banana Bliss: Jungle Puzzles | 23515 | [23515-banana-bliss-jungle-puzzles.json](./23515-banana-bliss-jungle-puzzles.json) |
 | Banana Boat | 284442 | [284442-banana-boat.json](./284442-banana-boat.json) |
 | Banana Bonanza! | 231627 | [231627-banana-bonanza.json](./231627-banana-bonanza.json) |
@@ -3818,6 +3820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Builder | 177474 | [177474-bird-builder.json](./177474-bird-builder.json) |
 | Bird Fall | 37150 | [37150-bird-fall.json](./37150-bird-fall.json) |
 | Bird Game | 349937 | [349937-bird-game.json](./349937-bird-game.json) |
+| Bird Game | 394488 | [394488-bird-game.json](./394488-bird-game.json) |
 | Bird Game + | 117932 | [117932-bird-game.json](./117932-bird-game.json) |
 | Bird Game 3 | 380006 | [380006-bird-game-3.json](./380006-bird-game-3.json) |
 | Bird Game 3 | 380007 | [380007-bird-game-3.json](./380007-bird-game-3.json) |
@@ -4358,6 +4361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Blazer | 370154 | [370154-blade-blazer.json](./370154-blade-blazer.json) |
 | Blade Bouncer 2: Revolution | 317823 | [317823-blade-bouncer-2-revolution.json](./317823-blade-bouncer-2-revolution.json) |
 | Blade Bound | 174817 | [174817-blade-bound.json](./174817-blade-bound.json) |
+| Blade Breaker: Sword Taker | 394485 | [394485-blade-breaker-sword-taker.json](./394485-blade-breaker-sword-taker.json) |
 | Blade Buster | 48316 | [48316-blade-buster.json](./48316-blade-buster.json) |
 | Blade Crafter | 108871 | [108871-blade-crafter.json](./108871-blade-crafter.json) |
 | Blade Crafter | 248151 | [248151-blade-crafter.json](./248151-blade-crafter.json) |
@@ -4639,6 +4643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bless Unleashed: Deluxe Founder's Pack | 166082 | [166082-bless-unleashed-deluxe-founders-pack.json](./166082-bless-unleashed-deluxe-founders-pack.json) |
 | Bless Unleashed: Exalted Founder's Pack | 166077 | [166077-bless-unleashed-exalted-founders-pack.json](./166077-bless-unleashed-exalted-founders-pack.json) |
 | Bless You Again | 334133 | [334133-bless-you-again.json](./334133-bless-you-again.json) |
+| Bless: Close Your Eyes,Open Your Mind. | 394441 | [394441-bless-close-your-eyes-open-your-mind.json](./394441-bless-close-your-eyes-open-your-mind.json) |
 | Blessed Agony | 299849 | [299849-blessed-agony.json](./299849-blessed-agony.json) |
 | Blessed Curse | 318560 | [318560-blessed-curse.json](./318560-blessed-curse.json) |
 | Blessed Redux | 382201 | [382201-blessed-redux.json](./382201-blessed-redux.json) |
@@ -5644,6 +5649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boid | 17646 | [17646-boid.json](./17646-boid.json) |
 | Boil Cabbage Make Soup | 414516 | [414516-boil-cabbage-make-soup.json](./414516-boil-cabbage-make-soup.json) |
 | Boil Noodles at Night | 270733 | [270733-boil-noodles-at-night.json](./270733-boil-noodles-at-night.json) |
+| Boin | 394455 | [394455-boin.json](./394455-boin.json) |
 | Boing | 13886 | [13886-boing.json](./13886-boing.json) |
 | Boing Boing Bros | 404976 | [404976-boing-boing-bros.json](./404976-boing-boing-bros.json) |
 | Boing Noir | 140356 | [140356-boing-noir.json](./140356-boing-noir.json) |
@@ -6403,6 +6409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boundary | 22395 | [22395-boundary.json](./22395-boundary.json) |
 | Boundary Gate: Daughter of Kingdom | 45949 | [45949-boundary-gate-daughter-of-kingdom.json](./45949-boundary-gate-daughter-of-kingdom.json) |
 | Boundary Master | 311268 | [311268-boundary-master.json](./311268-boundary-master.json) |
+| Boundary Pusher | 394469 | [394469-boundary-pusher.json](./394469-boundary-pusher.json) |
 | Boundary: Elite Cosmetic Bundle Founders Pack | 263047 | [263047-boundary-elite-cosmetic-bundle-founders-pack.json](./263047-boundary-elite-cosmetic-bundle-founders-pack.json) |
 | Bounded Box | 176426 | [176426-bounded-box.json](./176426-bounded-box.json) |
 | Boundel | 33230 | [33230-boundel.json](./33230-boundel.json) |
