@@ -1398,6 +1398,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Arthouse | 117005 | [117005-lego-arthouse.json](./117005-lego-arthouse.json) |
 | LEGO Batman 2: DC Super Heroes | 6836 | [6836-lego-batman-2-dc-super-heroes.json](./6836-lego-batman-2-dc-super-heroes.json) |
 | LEGO Batman 3: Beyond Gotham - Dark Knight | 266232 | [266232-lego-batman-3-beyond-gotham-dark-knight.json](./266232-lego-batman-3-beyond-gotham-dark-knight.json) |
+| LEGO Batman: Legacy of the Dark Knight - Batman Beyond Pack | 404392 | [404392-lego-batman-legacy-of-the-dark-knight-batman-beyond-pack.json](./404392-lego-batman-legacy-of-the-dark-knight-batman-beyond-pack.json) |
+| LEGO Batman: Legacy of the Dark Knight - Party Music Pack | 404395 | [404395-lego-batman-legacy-of-the-dark-knight-party-music-pack.json](./404395-lego-batman-legacy-of-the-dark-knight-party-music-pack.json) |
 | LEGO Batman: The Mobile Game | 259264 | [259264-lego-batman-the-mobile-game.json](./259264-lego-batman-the-mobile-game.json) |
 | LEGO Batman: The Videogame | 259251 | [259251-lego-batman-the-videogame.json](./259251-lego-batman-the-videogame.json) |
 | LEGO Batman: The Videogame | 259254 | [259254-lego-batman-the-videogame.json](./259254-lego-batman-the-videogame.json) |
@@ -3528,6 +3530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Box Simulator: Heroes of the Dark Age | 232984 | [232984-loot-box-simulator-heroes-of-the-dark-age.json](./232984-loot-box-simulator-heroes-of-the-dark-age.json) |
 | Loot Box Simulator: RPG Anime Girls | 216225 | [216225-loot-box-simulator-rpg-anime-girls.json](./216225-loot-box-simulator-rpg-anime-girls.json) |
 | Loot Express Delivery Service | 211824 | [211824-loot-express-delivery-service.json](./211824-loot-express-delivery-service.json) |
+| Loot Frog | 404355 | [404355-loot-frog.json](./404355-loot-frog.json) |
 | Loot Goblin Inc. | 337672 | [337672-loot-goblin-inc.json](./337672-loot-goblin-inc.json) |
 | Loot Goblin: An Idle Adventure | 389592 | [389592-loot-goblin-an-idle-adventure.json](./389592-loot-goblin-an-idle-adventure.json) |
 | Loot Grind Simulator | 143601 | [143601-loot-grind-simulator.json](./143601-loot-grind-simulator.json) |
