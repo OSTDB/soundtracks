@@ -2441,6 +2441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PGA Tour Pro: Classic Courses Volume 1 | 209980 | [209980-pga-tour-pro-classic-courses-volume-1.json](./209980-pga-tour-pro-classic-courses-volume-1.json) |
 | Ph0b0s | 207521 | [207521-ph0b0s.json](./207521-ph0b0s.json) |
 | Phá Kén: Khúc Điêu Linh | 318783 | [318783-pha-ken-khuc-ieu-linh.json](./318783-pha-ken-khuc-ieu-linh.json) |
+| Phageplay Basic | 409707 | [409707-phageplay-basic.json](./409707-phageplay-basic.json) |
 | Phalanstery | 74286 | [74286-phalanstery.json](./74286-phalanstery.json) |
 | Phalanx | 6532 | [6532-phalanx.json](./6532-phalanx.json) |
 | Phantaruk | 20788 | [20788-phantaruk.json](./20788-phantaruk.json) |
