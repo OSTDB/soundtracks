@@ -1001,6 +1001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parallels | 34181 | [34181-parallels.json](./34181-parallels.json) |
 | Parallels Cross | 33170 | [33170-parallels-cross.json](./33170-parallels-cross.json) |
 | ParallHex | 326048 | [326048-parallhex.json](./326048-parallhex.json) |
+| Parallyzed | 28201 | [28201-parallyzed.json](./28201-parallyzed.json) |
 | Paralysi | 273999 | [273999-paralysi.json](./273999-paralysi.json) |
 | Paralysis | 89249 | [89249-paralysis.json](./89249-paralysis.json) |
 | Paralyzed | 141787 | [141787-paralyzed.json](./141787-paralyzed.json) |
@@ -7870,6 +7871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PureSkate | 193718 | [193718-pureskate.json](./193718-pureskate.json) |
 | PureSkate 2 | 175431 | [175431-pureskate-2.json](./175431-pureskate-2.json) |
 | Purgation Swordstorm | 413722 | [413722-purgation-swordstorm.json](./413722-purgation-swordstorm.json) |
+| Purgatory | 27773 | [27773-purgatory.json](./27773-purgatory.json) |
 | Purgatory Fell | 90254 | [90254-purgatory-fell.json](./90254-purgatory-fell.json) |
 | Purgatory Of the Golden Witch | 382438 | [382438-purgatory-of-the-golden-witch.json](./382438-purgatory-of-the-golden-witch.json) |
 | Purgatory Pitstop | 390774 | [390774-purgatory-pitstop.json](./390774-purgatory-pitstop.json) |
