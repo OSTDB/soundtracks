@@ -2432,6 +2432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Texts from HSS | 319755 | [319755-texts-from-hss.json](./319755-texts-from-hss.json) |
 | TextTwist 2 | 92504 | [92504-texttwist-2.json](./92504-texttwist-2.json) |
 | Textures Not Found | 405524 | [405524-textures-not-found.json](./405524-textures-not-found.json) |
+| Texturetown | 411742 | [411742-texturetown.json](./411742-texturetown.json) |
 | Tezcatlipoca | 350488 | [350488-tezcatlipoca.json](./350488-tezcatlipoca.json) |
 | Tezzel: The Tilemaker's Tale | 344923 | [344923-tezzel-the-tilemakers-tale.json](./344923-tezzel-the-tilemakers-tale.json) |
 | TFX | 44874 | [44874-tfx.json](./44874-tfx.json) |
@@ -4558,6 +4559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Founders of Daytona Beach Also Founded Dayton, Ohio | 360606 | [360606-the-founders-of-daytona-beach-also-founded-dayton-ohio.json](./360606-the-founders-of-daytona-beach-also-founded-dayton-ohio.json) |
 | The Four Kings Casino and Slots | 16797 | [16797-the-four-kings-casino-and-slots.json](./16797-the-four-kings-casino-and-slots.json) |
 | The Four Old Gods | 136442 | [136442-the-four-old-gods.json](./136442-the-four-old-gods.json) |
+| The Fourteen Day Letters | 411627 | [411627-the-fourteen-day-letters.json](./411627-the-fourteen-day-letters.json) |
 | The Fourth Age: Total War | 356261 | [356261-the-fourth-age-total-war.json](./356261-the-fourth-age-total-war.json) |
 | The Fourth Generation | 72693 | [72693-the-fourth-generation.json](./72693-the-fourth-generation.json) |
 | The Fox Awaits Me Hana | 265642 | [265642-the-fox-awaits-me-hana.json](./265642-the-fox-awaits-me-hana.json) |
@@ -6299,6 +6301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magic School Bus: Dinosaurs | 230387 | [230387-the-magic-school-bus-dinosaurs.json](./230387-the-magic-school-bus-dinosaurs.json) |
 | The Magic World | 367609 | [367609-the-magic-world.json](./367609-the-magic-world.json) |
 | The Magic World 2: Curse of the Ancients | 289985 | [289985-the-magic-world-2-curse-of-the-ancients.json](./289985-the-magic-world-2-curse-of-the-ancients.json) |
+| The Magical Girl Childhood Friend Lives Next Door | 411779 | [411779-the-magical-girl-childhood-friend-lives-next-door.json](./411779-the-magical-girl-childhood-friend-lives-next-door.json) |
 | The Magical Quest of Molly the Marble | 403802 | [403802-the-magical-quest-of-molly-the-marble.json](./403802-the-magical-quest-of-molly-the-marble.json) |
 | The Magical Unicorn | 145611 | [145611-the-magical-unicorn.json](./145611-the-magical-unicorn.json) |
 | The Magician Of Justice | 289986 | [289986-the-magician-of-justice.json](./289986-the-magician-of-justice.json) |
@@ -6918,6 +6921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Perfect Unit | 102933 | [102933-the-perfect-unit.json](./102933-the-perfect-unit.json) |
 | The Perfectionist | 110537 | [110537-the-perfectionist.json](./110537-the-perfectionist.json) |
 | The Perils of Willy | 62218 | [62218-the-perils-of-willy.json](./62218-the-perils-of-willy.json) |
+| The Perils of Willy ZX | 411639 | [411639-the-perils-of-willy-zx.json](./411639-the-perils-of-willy-zx.json) |
 | The Permanent Residence: Souls Kept | 324671 | [324671-the-permanent-residence-souls-kept.json](./324671-the-permanent-residence-souls-kept.json) |
 | The Perplexing Orb | 85439 | [85439-the-perplexing-orb.json](./85439-the-perplexing-orb.json) |
 | The Perplexing Orb 2 | 148560 | [148560-the-perplexing-orb-2.json](./148560-the-perplexing-orb-2.json) |
@@ -7221,6 +7225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The redemption of pancakes | 106555 | [106555-the-redemption-of-pancakes.json](./106555-the-redemption-of-pancakes.json) |
 | The Redundant | 318979 | [318979-the-redundant.json](./318979-the-redundant.json) |
 | The Reggae Operation | 188119 | [188119-the-reggae-operation.json](./188119-the-reggae-operation.json) |
+| The Regular: Same Dog Every Time | 411750 | [411750-the-regular-same-dog-every-time.json](./411750-the-regular-same-dog-every-time.json) |
 | The Relief of Impact | 179751 | [179751-the-relief-of-impact.json](./179751-the-relief-of-impact.json) |
 | The Remainder: Act 1 | 170855 | [170855-the-remainder-act-1.json](./170855-the-remainder-act-1.json) |
 | The Remainder: Act 2 | 171387 | [171387-the-remainder-act-2.json](./171387-the-remainder-act-2.json) |
@@ -9310,6 +9315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thieves Guild Master | 413662 | [413662-thieves-guild-master.json](./413662-thieves-guild-master.json) |
 | Thieves of Dingirra | 304694 | [304694-thieves-of-dingirra.json](./304694-thieves-of-dingirra.json) |
 | Thieves World | 297467 | [297467-thieves-world.json](./297467-thieves-world.json) |
+| Thimbleweed Park 2 | 411759 | [411759-thimbleweed-park-2.json](./411759-thimbleweed-park-2.json) |
 | Thin Line | 333759 | [333759-thin-line.json](./333759-thin-line.json) |
 | Thin Threads | 332415 | [332415-thin-threads.json](./332415-thin-threads.json) |
 | Thing Bounces Back | 44107 | [44107-thing-bounces-back.json](./44107-thing-bounces-back.json) |
