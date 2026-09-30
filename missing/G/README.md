@@ -675,6 +675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamedec: Definitive Edition | 219788 | [219788-gamedec-definitive-edition.json](./219788-gamedec-definitive-edition.json) |
 | Gamedec: Izmael Krostov | 196147 | [196147-gamedec-izmael-krostov.json](./196147-gamedec-izmael-krostov.json) |
 | Gamedev Beatdown | 127986 | [127986-gamedev-beatdown.json](./127986-gamedev-beatdown.json) |
+| GameDev Clicker: Tap & Build | 411085 | [411085-gamedev-clicker-tap-and-build.json](./411085-gamedev-clicker-tap-and-build.json) |
 | Gamedev simulator | 130958 | [130958-gamedev-simulator.json](./130958-gamedev-simulator.json) |
 | Gamedog | 292842 | [292842-gamedog.json](./292842-gamedog.json) |
 | Gamefest Puzzle Classic | 209592 | [209592-gamefest-puzzle-classic.json](./209592-gamefest-puzzle-classic.json) |
