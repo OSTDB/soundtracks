@@ -281,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wand of Fortune 2 FD: Kimi ni Sasageru Epilogue | 219130 | [219130-wand-of-fortune-2-fd-kimi-ni-sasageru-epilogue.json](./219130-wand-of-fortune-2-fd-kimi-ni-sasageru-epilogue.json) |
 | Wand of Fortune 2: Jikuu ni Shizumu Mokushiroku | 219129 | [219129-wand-of-fortune-2-jikuu-ni-shizumu-mokushiroku.json](./219129-wand-of-fortune-2-jikuu-ni-shizumu-mokushiroku.json) |
 | Wand Wars VR | 81727 | [81727-wand-wars-vr.json](./81727-wand-wars-vr.json) |
+| Wander | 10920 | [10920-wander.json](./10920-wander.json) |
 | Wander Wonder | 237514 | [237514-wander-wonder.json](./237514-wander-wonder.json) |
 | Wanderer | 185082 | [185082-wanderer.json](./185082-wanderer.json) |
 | Wanderer | 205582 | [205582-wanderer.json](./205582-wanderer.json) |
