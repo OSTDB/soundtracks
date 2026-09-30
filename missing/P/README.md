@@ -4833,6 +4833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Point of View | 140512 | [140512-point-of-view.json](./140512-point-of-view.json) |
 | Point Perfect | 10707 | [10707-point-perfect.json](./10707-point-perfect.json) |
 | Point'n'Click Lovers: Daedalic Adventure Bundle | 283723 | [283723-pointnclick-lovers-daedalic-adventure-bundle.json](./283723-pointnclick-lovers-daedalic-adventure-bundle.json) |
+| Pointless | 33544 | [33544-pointless.json](./33544-pointless.json) |
 | Pointy Ends | 149520 | [149520-pointy-ends.json](./149520-pointy-ends.json) |
 | Poison Control: Contaminated Edition | 139913 | [139913-poison-control-contaminated-edition.json](./139913-poison-control-contaminated-edition.json) |
 | Poison Heart | 308242 | [308242-poison-heart.json](./308242-poison-heart.json) |
@@ -5479,6 +5480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polytone | 174831 | [174831-polytone.json](./174831-polytone.json) |
 | Polyturbo Drift Racing Simulator | 275036 | [275036-polyturbo-drift-racing-simulator.json](./275036-polyturbo-drift-racing-simulator.json) |
 | Polywar | 326772 | [326772-polywar.json](./326772-polywar.json) |
+| Polywar | 33496 | [33496-polywar.json](./33496-polywar.json) |
 | PolyWar | 341564 | [341564-polywar.json](./341564-polywar.json) |
 | PolyZen Drive | 278679 | [278679-polyzen-drive.json](./278679-polyzen-drive.json) |
 | Pom Pom Purin: Koro-koro Daibouken | 222518 | [222518-pom-pom-purin-koro-koro-daibouken.json](./222518-pom-pom-purin-koro-koro-daibouken.json) |
