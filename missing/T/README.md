@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TabTab Apocalypse | 233463 | [233463-tabtab-apocalypse.json](./233463-tabtab-apocalypse.json) |
 | Tabu Oyunu XL - Pro | 105950 | [105950-tabu-oyunu-xl-pro.json](./105950-tabu-oyunu-xl-pro.json) |
 | Tabula | 376545 | [376545-tabula.json](./376545-tabula.json) |
+| Tabula Rasa | 21525 | [21525-tabula-rasa.json](./21525-tabula-rasa.json) |
 | Tabula Sono | 219563 | [219563-tabula-sono.json](./219563-tabula-sono.json) |
 | Tabulo | 337994 | [337994-tabulo.json](./337994-tabulo.json) |
 | TAC: Tactical Armor Command | 23969 | [23969-tac-tactical-armor-command.json](./23969-tac-tactical-armor-command.json) |
@@ -10514,6 +10515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Woods PGA Tour 11 | 5224 | [5224-tiger-woods-pga-tour-11.json](./5224-tiger-woods-pga-tour-11.json) |
 | Tiger Woods PGA Tour 13 | 5226 | [5226-tiger-woods-pga-tour-13.json](./5226-tiger-woods-pga-tour-13.json) |
 | Tiger Woods PGA Tour 13: Masters Collector's Edition | 47419 | [47419-tiger-woods-pga-tour-13-masters-collectors-edition.json](./47419-tiger-woods-pga-tour-13-masters-collectors-edition.json) |
+| Tiger Woods PGA Tour 14: Masters Historic Edition | 21694 | [21694-tiger-woods-pga-tour-14-masters-historic-edition.json](./21694-tiger-woods-pga-tour-14-masters-historic-edition.json) |
 | Tiger Woods PGA Tour 2000 | 249152 | [249152-tiger-woods-pga-tour-2000.json](./249152-tiger-woods-pga-tour-2000.json) |
 | Tiger Woods PGA Tour 2004 | 905 | [905-tiger-woods-pga-tour-2004.json](./905-tiger-woods-pga-tour-2004.json) |
 | Tiger Woods PGA Tour 2007 | 42805 | [42805-tiger-woods-pga-tour-2007.json](./42805-tiger-woods-pga-tour-2007.json) |
