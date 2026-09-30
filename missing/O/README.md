@@ -261,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octopus | 287659 | [287659-octopus.json](./287659-octopus.json) |
 | Octopus 21 | 322390 | [322390-octopus-21.json](./322390-octopus-21.json) |
 | Octopus Evolution | 206733 | [206733-octopus-evolution.json](./206733-octopus-evolution.json) |
+| Octopus Invasion | 395160 | [395160-octopus-invasion.json](./395160-octopus-invasion.json) |
 | Octopus Trouble | 255145 | [255145-octopus-trouble.json](./255145-octopus-trouble.json) |
 | Octopuz | 265748 | [265748-octopuz.json](./265748-octopuz.json) |
 | Octorabbit | 181319 | [181319-octorabbit.json](./181319-octorabbit.json) |
