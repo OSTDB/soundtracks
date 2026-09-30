@@ -3150,6 +3150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fitting-In | 253942 | [253942-fitting-in.json](./253942-fitting-in.json) |
 | FitXR | 142345 | [142345-fitxr.json](./142345-fitxr.json) |
 | Fitz 2 | 243090 | [243090-fitz-2.json](./243090-fitz-2.json) |
+| Fitz the Fox | 12891 | [12891-fitz-the-fox.json](./12891-fitz-the-fox.json) |
 | Fitzzle Adorable Puppies | 334783 | [334783-fitzzle-adorable-puppies.json](./334783-fitzzle-adorable-puppies.json) |
 | Fitzzle Mighty Bears | 334773 | [334773-fitzzle-mighty-bears.json](./334773-fitzzle-mighty-bears.json) |
 | Fitzzle Precious Dolphins | 334778 | [334778-fitzzle-precious-dolphins.json](./334778-fitzzle-precious-dolphins.json) |
@@ -3411,6 +3412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flashlight Party | 223936 | [223936-flashlight-party.json](./223936-flashlight-party.json) |
 | Flashlight Sim | 304602 | [304602-flashlight-sim.json](./304602-flashlight-sim.json) |
 | Flashloop | 348337 | [348337-flashloop.json](./348337-flashloop.json) |
+| Flashout 2 | 17357 | [17357-flashout-2.json](./17357-flashout-2.json) |
 | Flashout 3D | 39206 | [39206-flashout-3d.json](./39206-flashout-3d.json) |
 | Flashout III | 199568 | [199568-flashout-iii.json](./199568-flashout-iii.json) |
 | Flashy Maze | 130742 | [130742-flashy-maze.json](./130742-flashy-maze.json) |
