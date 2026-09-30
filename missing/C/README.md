@@ -5038,6 +5038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Romantic | 105104 | [105104-code-romantic.json](./105104-code-romantic.json) |
 | Code Tracer | 124227 | [124227-code-tracer.json](./124227-code-tracer.json) |
 | Code Tycoon | 397058 | [397058-code-tycoon.json](./397058-code-tycoon.json) |
+| Code UltraViolet | 406864 | [406864-code-ultraviolet.json](./406864-code-ultraviolet.json) |
 | Code Vein: Collector's Edition | 103212 | [103212-code-vein-collectors-edition.json](./103212-code-vein-collectors-edition.json) |
 | Code Vein: Hellfire Knight | 129134 | [129134-code-vein-hellfire-knight.json](./129134-code-vein-hellfire-knight.json) |
 | Code Zero | 161896 | [161896-code-zero.json](./161896-code-zero.json) |
@@ -5543,6 +5544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Voxels: Advent Pack | 384090 | [384090-coloring-voxels-advent-pack.json](./384090-coloring-voxels-advent-pack.json) |
 | Coloring Voxels: Computer Pack | 384093 | [384093-coloring-voxels-computer-pack.json](./384093-coloring-voxels-computer-pack.json) |
 | Coloring Voxels: Crazy Golf Pack | 384089 | [384089-coloring-voxels-crazy-golf-pack.json](./384089-coloring-voxels-crazy-golf-pack.json) |
+| Coloring Voxels: Factory Pack | 406842 | [406842-coloring-voxels-factory-pack.json](./406842-coloring-voxels-factory-pack.json) |
 | Coloring Voxels: Halloween Pack | 384092 | [384092-coloring-voxels-halloween-pack.json](./384092-coloring-voxels-halloween-pack.json) |
 | Coloring Voxels: Mars Colony Pack | 384091 | [384091-coloring-voxels-mars-colony-pack.json](./384091-coloring-voxels-mars-colony-pack.json) |
 | Coloring Voxels: Museum Pack | 406837 | [406837-coloring-voxels-museum-pack.json](./406837-coloring-voxels-museum-pack.json) |
@@ -7146,6 +7148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Space | 260426 | [260426-cozy-space.json](./260426-cozy-space.json) |
 | Cozy Space Survivors | 275087 | [275087-cozy-space-survivors.json](./275087-cozy-space-survivors.json) |
 | Cozy Sudoku | 339331 | [339331-cozy-sudoku.json](./339331-cozy-sudoku.json) |
+| Cozy Tide | 406852 | [406852-cozy-tide.json](./406852-cozy-tide.json) |
 | Cozy Town | 380093 | [380093-cozy-town.json](./380093-cozy-town.json) |
 | Cozy Toy Shop | 378283 | [378283-cozy-toy-shop.json](./378283-cozy-toy-shop.json) |
 | Cozy Trip | 264146 | [264146-cozy-trip.json](./264146-cozy-trip.json) |
