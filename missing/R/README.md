@@ -832,6 +832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rampage Rowing | 316415 | [316415-rampage-rowing.json](./316415-rampage-rowing.json) |
 | Rampage World Tour | 249132 | [249132-rampage-world-tour.json](./249132-rampage-world-tour.json) |
 | RampageRunner | 341310 | [341310-rampagerunner.json](./341310-rampagerunner.json) |
+| Rampancy | 408131 | [408131-rampancy.json](./408131-rampancy.json) |
 | Rampart | 341655 | [341655-rampart.json](./341655-rampart.json) |
 | Rampart | 9684 | [9684-rampart.json](./9684-rampart.json) |
 | Ramparts | 40942 | [40942-ramparts.json](./40942-ramparts.json) |
