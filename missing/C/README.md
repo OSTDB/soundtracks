@@ -4448,6 +4448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClayFighter: Tournament Edition | 42616 | [42616-clayfighter-tournament-edition.json](./42616-clayfighter-tournament-edition.json) |
 | Clayton's Quest | 72325 | [72325-claytons-quest.json](./72325-claytons-quest.json) |
 | ClayTown Horror | 217403 | [217403-claytown-horror.json](./217403-claytown-horror.json) |
+| Clea | 112617 | [112617-clea.json](./112617-clea.json) |
 | Clean Attack! | 135025 | [135025-clean-attack.json](./135025-clean-attack.json) |
 | Clean City Project | 292521 | [292521-clean-city-project.json](./292521-clean-city-project.json) |
 | Clean Cut | 275315 | [275315-clean-cut.json](./275315-clean-cut.json) |
@@ -4554,6 +4555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clicker Climber: Pachinko | 373755 | [373755-clicker-climber-pachinko.json](./373755-clicker-climber-pachinko.json) |
 | Clicker Conquest | 331989 | [331989-clicker-conquest.json](./331989-clicker-conquest.json) |
 | Clicker Heroes | 15563 | [15563-clicker-heroes.json](./15563-clicker-heroes.json) |
+| Clicker: Glad Valakas | 112479 | [112479-clicker-glad-valakas.json](./112479-clicker-glad-valakas.json) |
 | Clicker! | 177851 | [177851-clicker.json](./177851-clicker.json) |
 | ClickeRogue | 242547 | [242547-clickerogue.json](./242547-clickerogue.json) |
 | Clickertale 2 | 343883 | [343883-clickertale-2.json](./343883-clickertale-2.json) |
@@ -6993,6 +6995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowpocalypse | 118382 | [118382-cowpocalypse.json](./118382-cowpocalypse.json) |
 | Cowpocalypse | 274776 | [274776-cowpocalypse.json](./274776-cowpocalypse.json) |
 | Cows Gone Mad: Battle for Pasture Prime | 411676 | [411676-cows-gone-mad-battle-for-pasture-prime.json](./411676-cows-gone-mad-battle-for-pasture-prime.json) |
+| Cows VS Vikings | 112592 | [112592-cows-vs-vikings.json](./112592-cows-vs-vikings.json) |
 | Cows&Co | 207799 | [207799-cows-and-co.json](./207799-cows-and-co.json) |
 | Cowtastic Cafe | 316823 | [316823-cowtastic-cafe.json](./316823-cowtastic-cafe.json) |
 | Cozmic Fantasy 2: Bouken Shounen Pan | 251628 | [251628-cozmic-fantasy-2-bouken-shounen-pan.json](./251628-cozmic-fantasy-2-bouken-shounen-pan.json) |
@@ -7172,6 +7175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cragls | 129095 | [129095-cragls.json](./129095-cragls.json) |
 | Cragne Manor | 138146 | [138146-cragne-manor.json](./138146-cragne-manor.json) |
 | Craig's Cave | 412549 | [412549-craigs-cave.json](./412549-craigs-cave.json) |
+| Craken | 110757 | [110757-craken.json](./110757-craken.json) |
 | CraMagear | 226833 | [226833-cramagear.json](./226833-cramagear.json) |
 | Cramble | 105760 | [105760-cramble.json](./105760-cramble.json) |
 | Cramgene | 92857 | [92857-cramgene.json](./92857-cramgene.json) |
@@ -7592,6 +7596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creatures by Candlelight | 262952 | [262952-creatures-by-candlelight.json](./262952-creatures-by-candlelight.json) |
 | Creatures Exodus | 11279 | [11279-creatures-exodus.json](./11279-creatures-exodus.json) |
 | Creatures II: Torture Trouble | 11375 | [11375-creatures-ii-torture-trouble.json](./11375-creatures-ii-torture-trouble.json) |
+| Creatures Inc. | 112008 | [112008-creatures-inc.json](./112008-creatures-inc.json) |
 | Creatures Like Us | 415171 | [415171-creatures-like-us.json](./415171-creatures-like-us.json) |
 | Creatures of War | 217338 | [217338-creatures-of-war.json](./217338-creatures-of-war.json) |
 | Creatures Playground | 11378 | [11378-creatures-playground.json](./11378-creatures-playground.json) |
