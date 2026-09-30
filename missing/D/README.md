@@ -1794,6 +1794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deaded | 238738 | [238738-deaded.json](./238738-deaded.json) |
 | Deadeus | 122405 | [122405-deadeus.json](./122405-deadeus.json) |
 | DeadEye | 116340 | [116340-deadeye.json](./116340-deadeye.json) |
+| DeadEye | 393750 | [393750-deadeye.json](./393750-deadeye.json) |
 | Deadeye Deepfake Simulacrum | 156161 | [156161-deadeye-deepfake-simulacrum.json](./156161-deadeye-deepfake-simulacrum.json) |
 | Deadfall | 258427 | [258427-deadfall.json](./258427-deadfall.json) |
 | Deadfall | 270714 | [270714-deadfall.json](./270714-deadfall.json) |
@@ -4801,6 +4802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disorderly | 319142 | [319142-disorderly.json](./319142-disorderly.json) |
 | Disorderly | 356625 | [356625-disorderly.json](./356625-disorderly.json) |
 | Disoriented | 76212 | [76212-disoriented.json](./76212-disoriented.json) |
+| Disown95 | 393753 | [393753-disown95.json](./393753-disown95.json) |
 | Dispatch | 339997 | [339997-dispatch.json](./339997-dispatch.json) |
 | Dispel | 272251 | [272251-dispel.json](./272251-dispel.json) |
 | Dispersio | 26489 | [26489-dispersio.json](./26489-dispersio.json) |
@@ -6501,6 +6503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draeggoria | 392271 | [392271-draeggoria.json](./392271-draeggoria.json) |
 | Draft Day Sports: College Basketball 2018 | 89637 | [89637-draft-day-sports-college-basketball-2018.json](./89637-draft-day-sports-college-basketball-2018.json) |
 | Draft Day Sports: College Basketball 2022 | 191891 | [191891-draft-day-sports-college-basketball-2022.json](./191891-draft-day-sports-college-basketball-2022.json) |
+| Draft Day Sports: College Basketball 26 | 393740 | [393740-draft-day-sports-college-basketball-26.json](./393740-draft-day-sports-college-basketball-26.json) |
 | Draft Day Sports: College Football 2023 | 213984 | [213984-draft-day-sports-college-football-2023.json](./213984-draft-day-sports-college-football-2023.json) |
 | Draft Day Sports: College Football 2024 | 262333 | [262333-draft-day-sports-college-football-2024.json](./262333-draft-day-sports-college-football-2024.json) |
 | Draft Day Sports: College Football 2025 | 386282 | [386282-draft-day-sports-college-football-2025.json](./386282-draft-day-sports-college-football-2025.json) |
