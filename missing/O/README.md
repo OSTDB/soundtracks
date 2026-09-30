@@ -2148,6 +2148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otteretto | 229048 | [229048-otteretto.json](./229048-otteretto.json) |
 | OtterQuest | 188488 | [188488-otterquest.json](./188488-otterquest.json) |
 | OttGiu | 321535 | [321535-ottgiu.json](./321535-ottgiu.json) |
+| Otti: House Keeper | 138470 | [138470-otti-house-keeper.json](./138470-otti-house-keeper.json) |
 | Otto and the Ancient Worlds | 102382 | [102382-otto-and-the-ancient-worlds.json](./102382-otto-and-the-ancient-worlds.json) |
 | Otto Dokkoi | 385333 | [385333-otto-dokkoi.json](./385333-otto-dokkoi.json) |
 | Otto Matic | 67426 | [67426-otto-matic.json](./67426-otto-matic.json) |
