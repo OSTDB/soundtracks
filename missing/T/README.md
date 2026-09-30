@@ -5971,6 +5971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Waves of Time | 323908 | [323908-the-legend-of-zelda-waves-of-time.json](./323908-the-legend-of-zelda-waves-of-time.json) |
 | The Legend of Zelda: Whomp's Fortress | 299484 | [299484-the-legend-of-zelda-whomps-fortress.json](./299484-the-legend-of-zelda-whomps-fortress.json) |
 | The Legend of Zelda: Winter Solstice | 254478 | [254478-the-legend-of-zelda-winter-solstice.json](./254478-the-legend-of-zelda-winter-solstice.json) |
+| The Legend of Zelda: Z for 2 | 413804 | [413804-the-legend-of-zelda-z-for-2.json](./413804-the-legend-of-zelda-z-for-2.json) |
 | The Legendary Assassin KAL | 181785 | [181785-the-legendary-assassin-kal.json](./181785-the-legendary-assassin-kal.json) |
 | The Legendary Axe | 42121 | [42121-the-legendary-axe.json](./42121-the-legendary-axe.json) |
 | The Legendary Boy Run | 103913 | [103913-the-legendary-boy-run.json](./103913-the-legendary-boy-run.json) |
@@ -6231,6 +6232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Sky | 102928 | [102928-the-lost-sky.json](./102928-the-lost-sky.json) |
 | The Lost Skywhales | 182976 | [182976-the-lost-skywhales.json](./182976-the-lost-skywhales.json) |
 | The Lost Son | 261886 | [261886-the-lost-son.json](./261886-the-lost-son.json) |
+| The Lost Streamer | 413791 | [413791-the-lost-streamer.json](./413791-the-lost-streamer.json) |
 | The Lost Strings | 121449 | [121449-the-lost-strings.json](./121449-the-lost-strings.json) |
 | The Lost Tetekoa | 327202 | [327202-the-lost-tetekoa.json](./327202-the-lost-tetekoa.json) |
 | The Lost Throne | 127199 | [127199-the-lost-throne.json](./127199-the-lost-throne.json) |
@@ -6699,6 +6701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Notzing Project | 323555 | [323555-the-notzing-project.json](./323555-the-notzing-project.json) |
 | The Nova Era | 209712 | [209712-the-nova-era.json](./209712-the-nova-era.json) |
 | The Now We've Named | 215226 | [215226-the-now-weve-named.json](./215226-the-now-weve-named.json) |
+| The Nowhere Express | 413790 | [413790-the-nowhere-express.json](./413790-the-nowhere-express.json) |
 | The Null Frequency | 365304 | [365304-the-null-frequency.json](./365304-the-null-frequency.json) |
 | The Numarin | 47543 | [47543-the-numarin.json](./47543-the-numarin.json) |
 | The Numzle | 233096 | [233096-the-numzle.json](./233096-the-numzle.json) |
@@ -7017,6 +7020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Prince's Keeper | 412310 | [412310-the-princes-keeper.json](./412310-the-princes-keeper.json) |
 | The Princess and the Frog | 17753 | [17753-the-princess-and-the-frog.json](./17753-the-princess-and-the-frog.json) |
 | The Princess and the Pauper: Storybook Adventures | 293199 | [293199-the-princess-and-the-pauper-storybook-adventures.json](./293199-the-princess-and-the-pauper-storybook-adventures.json) |
+| The Princess and the Portals | 413868 | [413868-the-princess-and-the-portals.json](./413868-the-princess-and-the-portals.json) |
 | The Princess Bride: The Official Game | 58854 | [58854-the-princess-bride-the-official-game.json](./58854-the-princess-bride-the-official-game.json) |
 | The Princess in the Mirror | 298885 | [298885-the-princess-in-the-mirror.json](./298885-the-princess-in-the-mirror.json) |
 | The Princess of the Tower wants a Hero | 200632 | [200632-the-princess-of-the-tower-wants-a-hero.json](./200632-the-princess-of-the-tower-wants-a-hero.json) |
@@ -8514,6 +8518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Twilight Zone II: Final Dreams | 274008 | [274008-the-twilight-zone-ii-final-dreams.json](./274008-the-twilight-zone-ii-final-dreams.json) |
 | The Twins | 128337 | [128337-the-twins.json](./128337-the-twins.json) |
 | The Twisted Dream | 323354 | [323354-the-twisted-dream.json](./323354-the-twisted-dream.json) |
+| The Twisted Zone: Foreborn | 413827 | [413827-the-twisted-zone-foreborn.json](./413827-the-twisted-zone-foreborn.json) |
 | The Twisting Trail of Clues | 295524 | [295524-the-twisting-trail-of-clues.json](./295524-the-twisting-trail-of-clues.json) |
 | The Two Body Problem | 411725 | [411725-the-two-body-problem.json](./411725-the-two-body-problem.json) |
 | The Two of Us | 185944 | [185944-the-two-of-us.json](./185944-the-two-of-us.json) |
