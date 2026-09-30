@@ -2666,6 +2666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Feather | 71609 | [71609-iron-feather.json](./71609-iron-feather.json) |
 | Iron Force | 343855 | [343855-iron-force.json](./343855-iron-force.json) |
 | Iron Force 2 | 243706 | [243706-iron-force-2.json](./243706-iron-force-2.json) |
+| Iron Front: Liberation 1944 | 20830 | [20830-iron-front-liberation-1944.json](./20830-iron-front-liberation-1944.json) |
 | Iron Front: Liberation 1944 - Gold Edition | 53237 | [53237-iron-front-liberation-1944-gold-edition.json](./53237-iron-front-liberation-1944-gold-edition.json) |
 | Iron Front: Liberation 1944 D-Day | 53236 | [53236-iron-front-liberation-1944-d-day.json](./53236-iron-front-liberation-1944-d-day.json) |
 | Iron Frontier | 224787 | [224787-iron-frontier.json](./224787-iron-frontier.json) |
