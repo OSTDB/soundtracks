@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack Nicklaus 4 | 94690 | [94690-jack-nicklaus-4.json](./94690-jack-nicklaus-4.json) |
 | Jack Nicklaus 5 | 761 | [761-jack-nicklaus-5.json](./761-jack-nicklaus-5.json) |
 | Jack Nicklaus 6: Golden Bear Challenge | 762 | [762-jack-nicklaus-6-golden-bear-challenge.json](./762-jack-nicklaus-6-golden-bear-challenge.json) |
+| Jack Nicklaus Golf | 49040 | [49040-jack-nicklaus-golf.json](./49040-jack-nicklaus-golf.json) |
 | Jack Nicklaus Online Golf Tour | 62272 | [62272-jack-nicklaus-online-golf-tour.json](./62272-jack-nicklaus-online-golf-tour.json) |
 | Jack Nicklaus' Greatest 18 Holes of Major Championship Golf | 18101 | [18101-jack-nicklaus-greatest-18-holes-of-major-championship-golf.json](./18101-jack-nicklaus-greatest-18-holes-of-major-championship-golf.json) |
 | Jack Nicklaus' Unlimited Golf & Course Design | 72175 | [72175-jack-nicklaus-unlimited-golf-and-course-design.json](./72175-jack-nicklaus-unlimited-golf-and-course-design.json) |
@@ -237,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | James Bond 007: Agent Under Fire | 1643 | [1643-james-bond-007-agent-under-fire.json](./1643-james-bond-007-agent-under-fire.json) |
 | James Bond 007: Everything or Nothing | 1644 | [1644-james-bond-007-everything-or-nothing.json](./1644-james-bond-007-everything-or-nothing.json) |
 | James Bond 007: Nightfire | 290069 | [290069-james-bond-007-nightfire.json](./290069-james-bond-007-nightfire.json) |
+| James Bond 007: Quantum of Solace | 52679 | [52679-james-bond-007-quantum-of-solace.json](./52679-james-bond-007-quantum-of-solace.json) |
 | James Bond 007: The Living Daylights | 44099 | [44099-james-bond-007-the-living-daylights.json](./44099-james-bond-007-the-living-daylights.json) |
 | James Bond 007: The Spy Who Loved Me | 44098 | [44098-james-bond-007-the-spy-who-loved-me.json](./44098-james-bond-007-the-spy-who-loved-me.json) |
 | James Bond 007: The World Is Not Enough | 144507 | [144507-james-bond-007-the-world-is-not-enough.json](./144507-james-bond-007-the-world-is-not-enough.json) |
