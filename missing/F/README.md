@@ -1684,6 +1684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed the Cat | 313271 | [313271-feed-the-cat.json](./313271-feed-the-cat.json) |
 | Feed the Ducks | 177541 | [177541-feed-the-ducks.json](./177541-feed-the-ducks.json) |
 | Feed the Feed | 396888 | [396888-feed-the-feed.json](./396888-feed-the-feed.json) |
+| Feed The Frog King: Incremental TD | 417583 | [417583-feed-the-frog-king-incremental-td.json](./417583-feed-the-frog-king-incremental-td.json) |
 | Feed the Giants | 403207 | [403207-feed-the-giants.json](./403207-feed-the-giants.json) |
 | Feed the Horsebear | 130236 | [130236-feed-the-horsebear.json](./130236-feed-the-horsebear.json) |
 | Feed the Pets | 109717 | [109717-feed-the-pets.json](./109717-feed-the-pets.json) |
@@ -6210,6 +6211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furries & Scalies: Super Scary Halloween Spooky Times Part II - Richard III's Tiny Terrors | 226186 | [226186-furries-and-scalies-super-scary-halloween-spooky-times-part-ii-richard-iiis-tiny-terrors.json](./226186-furries-and-scalies-super-scary-halloween-spooky-times-part-ii-richard-iiis-tiny-terrors.json) |
 | Furrifighters: Prequel I | 369553 | [369553-furrifighters-prequel-i.json](./369553-furrifighters-prequel-i.json) |
 | Furry Adventure Club and the Holy Grail | 312742 | [312742-furry-adventure-club-and-the-holy-grail.json](./312742-furry-adventure-club-and-the-holy-grail.json) |
+| Furry Adventure! | 417388 | [417388-furry-adventure.json](./417388-furry-adventure.json) |
 | Furry Aim Trainer | 326741 | [326741-furry-aim-trainer.json](./326741-furry-aim-trainer.json) |
 | Furry Aim Trainer: Gooning Mode | 326206 | [326206-furry-aim-trainer-gooning-mode.json](./326206-furry-aim-trainer-gooning-mode.json) |
 | Furry Animals Bombing | 109745 | [109745-furry-animals-bombing.json](./109745-furry-animals-bombing.json) |
