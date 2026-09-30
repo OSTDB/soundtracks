@@ -1249,6 +1249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Void Runner | 96905 | [96905-neon-void-runner.json](./96905-neon-void-runner.json) |
 | Neon Wars | 312925 | [312925-neon-wars.json](./312925-neon-wars.json) |
 | Neon White | 143612 | [143612-neon-white.json](./143612-neon-white.json) |
+| NeonCode | 111979 | [111979-neoncode.json](./111979-neoncode.json) |
 | Neondrops | 166610 | [166610-neondrops.json](./166610-neondrops.json) |
 | NeonFlight | 130170 | [130170-neonflight.json](./130170-neonflight.json) |
 | NeonHat | 187517 | [187517-neonhat.json](./187517-neonhat.json) |
