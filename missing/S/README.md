@@ -2606,6 +2606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentinel Returns | 45303 | [45303-sentinel-returns.json](./45303-sentinel-returns.json) |
 | Sentinel Worlds I: Future Magic | 55155 | [55155-sentinel-worlds-i-future-magic.json](./55155-sentinel-worlds-i-future-magic.json) |
 | Sentinel: Cursed Knight | 153354 | [153354-sentinel-cursed-knight.json](./153354-sentinel-cursed-knight.json) |
+| Sentinels | 27293 | [27293-sentinels.json](./27293-sentinels.json) |
 | Sentinels of Earth-Prime: Magical Mysteries Mini-Pack | 273672 | [273672-sentinels-of-earth-prime-magical-mysteries-mini-pack.json](./273672-sentinels-of-earth-prime-magical-mysteries-mini-pack.json) |
 | Sentinels of the Multiverse: Infernal Relics | 170411 | [170411-sentinels-of-the-multiverse-infernal-relics.json](./170411-sentinels-of-the-multiverse-infernal-relics.json) |
 | Sentinels of the Multiverse: Mini-Pack 1 | 170410 | [170410-sentinels-of-the-multiverse-mini-pack-1.json](./170410-sentinels-of-the-multiverse-mini-pack-1.json) |
@@ -7347,6 +7348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SOCOM 4: U.S. Navy SEALs | 7459 | [7459-socom-4-u-s-navy-seals.json](./7459-socom-4-u-s-navy-seals.json) |
 | SOCOM II: U.S. Navy SEALs | 8240 | [8240-socom-ii-u-s-navy-seals.json](./8240-socom-ii-u-s-navy-seals.json) |
 | SOCOM: U.S. Navy SEALs Fireteam Bravo 2 | 19431 | [19431-socom-u-s-navy-seals-fireteam-bravo-2.json](./19431-socom-u-s-navy-seals-fireteam-bravo-2.json) |
+| SOCOM: U.S. Navy SEALs Fireteam Bravo 3 | 21665 | [21665-socom-u-s-navy-seals-fireteam-bravo-3.json](./21665-socom-u-s-navy-seals-fireteam-bravo-3.json) |
 | Socrates Jones: Pro Philosopher | 122894 | [122894-socrates-jones-pro-philosopher.json](./122894-socrates-jones-pro-philosopher.json) |
 | Soctics League | 208623 | [208623-soctics-league.json](./208623-soctics-league.json) |
 | Socxel | 180049 | [180049-socxel.json](./180049-socxel.json) |
@@ -8727,6 +8729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soundscape VR | 28879 | [28879-soundscape-vr.json](./28879-soundscape-vr.json) |
 | SoundSelf | 61869 | [61869-soundself.json](./61869-soundself.json) |
 | Soundsphere | 176885 | [176885-soundsphere.json](./176885-soundsphere.json) |
+| SoundStage | 27777 | [27777-soundstage.json](./27777-soundstage.json) |
 | SoundTown | 276820 | [276820-soundtown.json](./276820-soundtown.json) |
 | Soundtrack Attack | 74791 | [74791-soundtrack-attack.json](./74791-soundtrack-attack.json) |
 | Soundwave | 398556 | [398556-soundwave.json](./398556-soundwave.json) |
@@ -9146,6 +9149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Miner | 292838 | [292838-space-miner.json](./292838-space-miner.json) |
 | Space Miner: Idle Adventures | 276173 | [276173-space-miner-idle-adventures.json](./276173-space-miner-idle-adventures.json) |
 | Space Miner: Platinum Edition | 100155 | [100155-space-miner-platinum-edition.json](./100155-space-miner-platinum-edition.json) |
+| Space Miner: Space Ore Bust | 21579 | [21579-space-miner-space-ore-bust.json](./21579-space-miner-space-ore-bust.json) |
 | Space Misfits | 123040 | [123040-space-misfits.json](./123040-space-misfits.json) |
 | Space Mission SM-11 | 235219 | [235219-space-mission-sm-11.json](./235219-space-mission-sm-11.json) |
 | Space Moguls | 124600 | [124600-space-moguls.json](./124600-space-moguls.json) |
@@ -14571,6 +14575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Lone Survivor | 140603 | [140603-super-lone-survivor.json](./140603-super-lone-survivor.json) |
 | Super Long Boy | 251022 | [251022-super-long-boy.json](./251022-super-long-boy.json) |
 | Super Lotsa Added Stuff Hack | 19777 | [19777-super-lotsa-added-stuff-hack.json](./19777-super-lotsa-added-stuff-hack.json) |
+| Super Lovely Planet | 27321 | [27321-super-lovely-planet.json](./27321-super-lovely-planet.json) |
 | Super Lucky's Tale: Gilly Island | 171369 | [171369-super-luckys-tale-gilly-island.json](./171369-super-luckys-tale-gilly-island.json) |
 | Super Luigi and the Golden Shrooms | 135128 | [135128-super-luigi-and-the-golden-shrooms.json](./135128-super-luigi-and-the-golden-shrooms.json) |
 | Super Luigi Bros. | 198471 | [198471-super-luigi-bros.json](./198471-super-luigi-bros.json) |
@@ -14580,6 +14585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Luigi Trick or Treat | 314278 | [314278-super-luigi-trick-or-treat.json](./314278-super-luigi-trick-or-treat.json) |
 | Super Luigi Wii: The Emissary | 259276 | [259276-super-luigi-wii-the-emissary.json](./259276-super-luigi-wii-the-emissary.json) |
 | Super Lumberjack | 371341 | [371341-super-lumberjack.json](./371341-super-lumberjack.json) |
+| Super Lumi Live | 27490 | [27490-super-lumi-live.json](./27490-super-lumi-live.json) |
 | Super Mabus Mania | 223160 | [223160-super-mabus-mania.json](./223160-super-mabus-mania.json) |
 | Super Macklemore 64 | 418798 | [418798-super-macklemore-64.json](./418798-super-macklemore-64.json) |
 | Super Mado Paf!! | 229655 | [229655-super-mado-paf.json](./229655-super-mado-paf.json) |
