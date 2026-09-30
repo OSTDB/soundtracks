@@ -2276,6 +2276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global Transport | 329388 | [329388-global-transport.json](./329388-global-transport.json) |
 | Global War | 79605 | [79605-global-war.json](./79605-global-war.json) |
 | Globat Pixels | 115676 | [115676-globat-pixels.json](./115676-globat-pixels.json) |
+| Globber | 418528 | [418528-globber.json](./418528-globber.json) |
 | Globe Drone | 307733 | [307733-globe-drone.json](./307733-globe-drone.json) |
 | Globe: Earth Adventures | 230378 | [230378-globe-earth-adventures.json](./230378-globe-earth-adventures.json) |
 | Globeba | 300395 | [300395-globeba.json](./300395-globeba.json) |
