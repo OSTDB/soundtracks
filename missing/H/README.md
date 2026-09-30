@@ -5393,6 +5393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry in Dungeon | 329660 | [329660-hungry-in-dungeon.json](./329660-hungry-in-dungeon.json) |
 | Hungry Knight! | 128651 | [128651-hungry-knight.json](./128651-hungry-knight.json) |
 | Hungry Lamu | 219023 | [219023-hungry-lamu.json](./219023-hungry-lamu.json) |
+| Hungry Meem | 328179 | [328179-hungry-meem.json](./328179-hungry-meem.json) |
 | Hungry Piggy Vs. Chicken | 99657 | [99657-hungry-piggy-vs-chicken.json](./99657-hungry-piggy-vs-chicken.json) |
 | Hungry Pigs | 206180 | [206180-hungry-pigs.json](./206180-hungry-pigs.json) |
 | Hungry Red Planet | 73765 | [73765-hungry-red-planet.json](./73765-hungry-red-planet.json) |
@@ -5700,6 +5701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper! Danganronpa H20: Abandon All Hope | 267987 | [267987-hyper-danganronpa-h20-abandon-all-hope.json](./267987-hyper-danganronpa-h20-abandon-all-hope.json) |
 | Hyperballoid Deluxe: Survival Pack | 130846 | [130846-hyperballoid-deluxe-survival-pack.json](./130846-hyperballoid-deluxe-survival-pack.json) |
 | Hyperbaroque | 186759 | [186759-hyperbaroque.json](./186759-hyperbaroque.json) |
+| Hyperbeat | 295876 | [295876-hyperbeat.json](./295876-hyperbeat.json) |
 | Hyperblade | 344579 | [344579-hyperblade.json](./344579-hyperblade.json) |
 | Hyperblade | 51379 | [51379-hyperblade.json](./51379-hyperblade.json) |
 | Hyperblast! | 342612 | [342612-hyperblast.json](./342612-hyperblast.json) |
@@ -5796,6 +5798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperun | 49512 | [49512-hyperun.json](./49512-hyperun.json) |
 | Hyperwave | 207843 | [207843-hyperwave.json](./207843-hyperwave.json) |
 | Hyperwheel Overdrive | 131574 | [131574-hyperwheel-overdrive.json](./131574-hyperwheel-overdrive.json) |
+| Hyperwired | 325366 | [325366-hyperwired.json](./325366-hyperwired.json) |
 | HyperZen Training | 105330 | [105330-hyperzen-training.json](./105330-hyperzen-training.json) |
 | HyperZone | 42608 | [42608-hyperzone.json](./42608-hyperzone.json) |
 | Hyphen | 24566 | [24566-hyphen.json](./24566-hyphen.json) |
