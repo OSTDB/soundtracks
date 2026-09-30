@@ -1973,6 +1973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Mini Micro Adventures | 331311 | [331311-marios-mini-micro-adventures.json](./331311-marios-mini-micro-adventures.json) |
 | Mario's Mission Earth | 195733 | [195733-marios-mission-earth.json](./195733-marios-mission-earth.json) |
 | Mario's Modules | 388945 | [388945-marios-modules.json](./388945-marios-modules.json) |
+| Mario's Modules 2 | 409702 | [409702-marios-modules-2.json](./409702-marios-modules-2.json) |
 | Mario's Mystery Meat | 174730 | [174730-marios-mystery-meat.json](./174730-marios-mystery-meat.json) |
 | Mario's Picross | 71976 | [71976-marios-picross.json](./71976-marios-picross.json) |
 | Mario's Pride: Mini Quest | 254516 | [254516-marios-pride-mini-quest.json](./254516-marios-pride-mini-quest.json) |
@@ -2712,6 +2713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maths Play: Have Fun with Numbers! | 159043 | [159043-maths-play-have-fun-with-numbers.json](./159043-maths-play-have-fun-with-numbers.json) |
 | MathsJack | 56567 | [56567-mathsjack.json](./56567-mathsjack.json) |
 | Mathville | 387698 | [387698-mathville.json](./387698-mathville.json) |
+| Matilda 2 | 409609 | [409609-matilda-2.json](./409609-matilda-2.json) |
 | Mating Zone | 59888 | [59888-mating-zone.json](./59888-mating-zone.json) |
 | Mato Anomalies | 212050 | [212050-mato-anomalies.json](./212050-mato-anomalies.json) |
 | Mato Anomalies: Day One Edition | 228732 | [228732-mato-anomalies-day-one-edition.json](./228732-mato-anomalies-day-one-edition.json) |
@@ -4246,6 +4248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Gangster Heist vs. Police | 245348 | [245348-merge-gangster-heist-vs-police.json](./245348-merge-gangster-heist-vs-police.json) |
 | Merge Gardens | 227368 | [227368-merge-gardens.json](./227368-merge-gardens.json) |
 | Merge Girls | 212490 | [212490-merge-girls.json](./212490-merge-girls.json) |
+| Merge Hidden | 409720 | [409720-merge-hidden.json](./409720-merge-hidden.json) |
 | Merge Jelly | 208935 | [208935-merge-jelly.json](./208935-merge-jelly.json) |
 | Merge Magic! | 139297 | [139297-merge-magic.json](./139297-merge-magic.json) |
 | Merge Mansion | 196866 | [196866-merge-mansion.json](./196866-merge-mansion.json) |
@@ -4489,6 +4492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Slug Collection | 51223 | [51223-metal-slug-collection.json](./51223-metal-slug-collection.json) |
 | Metal Slug Defense | 35593 | [35593-metal-slug-defense.json](./35593-metal-slug-defense.json) |
 | Metal Slug Revolution | 98432 | [98432-metal-slug-revolution.json](./98432-metal-slug-revolution.json) |
+| Metal Slug Rush | 409737 | [409737-metal-slug-rush.json](./409737-metal-slug-rush.json) |
 | Metal Slug SB Fanthology | 324895 | [324895-metal-slug-sb-fanthology.json](./324895-metal-slug-sb-fanthology.json) |
 | Metal Slug: Commander | 193975 | [193975-metal-slug-commander.json](./193975-metal-slug-commander.json) |
 | Metal Soldier Isaac II | 40353 | [40353-metal-soldier-isaac-ii.json](./40353-metal-soldier-isaac-ii.json) |
@@ -5529,6 +5533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine Crazy: The Korean Grinder | 158678 | [158678-mine-crazy-the-korean-grinder.json](./158678-mine-crazy-the-korean-grinder.json) |
 | Mine Defense | 412313 | [412313-mine-defense.json](./412313-mine-defense.json) |
 | Mine Empire | 404432 | [404432-mine-empire.json](./404432-mine-empire.json) |
+| Mine Escape | 409713 | [409713-mine-escape.json](./409713-mine-escape.json) |
 | Mine From Here | 352845 | [352845-mine-from-here.json](./352845-mine-from-here.json) |
 | Mine Hunter | 231918 | [231918-mine-hunter.json](./231918-mine-hunter.json) |
 | Mine Memory | 278412 | [278412-mine-memory.json](./278412-mine-memory.json) |
@@ -7920,6 +7925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortar Howl | 105091 | [105091-mortar-howl.json](./105091-mortar-howl.json) |
 | Mortarmen | 259019 | [259019-mortarmen.json](./259019-mortarmen.json) |
 | Mortars VR | 81138 | [81138-mortars-vr.json](./81138-mortars-vr.json) |
+| Mortem | 409726 | [409726-mortem.json](./409726-mortem.json) |
 | Morterra | 177015 | [177015-morterra.json](./177015-morterra.json) |
 | Mortgage Nightmares | 341336 | [341336-mortgage-nightmares.json](./341336-mortgage-nightmares.json) |
 | Morth | 149587 | [149587-morth.json](./149587-morth.json) |
@@ -9788,6 +9794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Case Files: Dire Grove | 5514 | [5514-mystery-case-files-dire-grove.json](./5514-mystery-case-files-dire-grove.json) |
 | Mystery Case Files: Dire Grove, Sacred Grove - Collector's Edition | 135809 | [135809-mystery-case-files-dire-grove-sacred-grove-collectors-edition.json](./135809-mystery-case-files-dire-grove-sacred-grove-collectors-edition.json) |
 | Mystery Case Files: Escape from Ravenhearst | 5516 | [5516-mystery-case-files-escape-from-ravenhearst.json](./5516-mystery-case-files-escape-from-ravenhearst.json) |
+| Mystery Case Files: House That Love Built - Collector's Edition | 409715 | [409715-mystery-case-files-house-that-love-built-collectors-edition.json](./409715-mystery-case-files-house-that-love-built-collectors-edition.json) |
 | Mystery Case Files: Incident at Pendle Tower | 187973 | [187973-mystery-case-files-incident-at-pendle-tower.json](./187973-mystery-case-files-incident-at-pendle-tower.json) |
 | Mystery Case Files: Key to Ravenhearst - Collector's Edition | 118336 | [118336-mystery-case-files-key-to-ravenhearst-collectors-edition.json](./118336-mystery-case-files-key-to-ravenhearst-collectors-edition.json) |
 | Mystery Case Files: Key to Ravenhearst - Collector's Edition & Mystery Case Files: Ravenhearst Unlocked - Collector's Edition | 201821 | [201821-mystery-case-files-key-to-ravenhearst-collectors-edition-and-mystery-case-files-ravenhearst-unlocked-collectors-edition.json](./201821-mystery-case-files-key-to-ravenhearst-collectors-edition-and-mystery-case-files-ravenhearst-unlocked-collectors-edition.json) |
