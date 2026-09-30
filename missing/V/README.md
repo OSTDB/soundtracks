@@ -589,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veiled Basilisk | 153373 | [153373-veiled-basilisk.json](./153373-veiled-basilisk.json) |
 | Veiled Edge | 253596 | [253596-veiled-edge.json](./253596-veiled-edge.json) |
 | Veilfall: True Strength | 333066 | [333066-veilfall-true-strength.json](./333066-veilfall-true-strength.json) |
+| VeilStalker | 406850 | [406850-veilstalker.json](./406850-veilstalker.json) |
 | Veilwalkers | 349308 | [349308-veilwalkers.json](./349308-veilwalkers.json) |
 | Veilwalkers | 377293 | [377293-veilwalkers.json](./377293-veilwalkers.json) |
 | Vein Hotel | 102180 | [102180-vein-hotel.json](./102180-vein-hotel.json) |
