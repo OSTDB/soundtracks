@@ -5597,6 +5597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hurricane Ship Ghost | 104833 | [104833-hurricane-ship-ghost.json](./104833-hurricane-ship-ghost.json) |
 | Hurry Up Bird Hunter! | 82107 | [82107-hurry-up-bird-hunter.json](./82107-hurry-up-bird-hunter.json) |
 | Hurt Me Plenty | 20248 | [20248-hurt-me-plenty.json](./20248-hurt-me-plenty.json) |
+| Hush | 34988 | [34988-hush.json](./34988-hush.json) |
 | Hush | 95475 | [95475-hush.json](./95475-hush.json) |
 | Hush - Into the Darkness | 50155 | [50155-hush-into-the-darkness.json](./50155-hush-into-the-darkness.json) |
 | Hush Darling | 415099 | [415099-hush-darling.json](./415099-hush-darling.json) |
@@ -5653,6 +5654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydra Slayer | 33776 | [33776-hydra-slayer.json](./33776-hydra-slayer.json) |
 | Hydra: Poseidon's Сonspiracy | 342645 | [342645-hydra-poseidons-onspiracy.json](./342645-hydra-poseidons-onspiracy.json) |
 | Hydrangea | 299171 | [299171-hydrangea.json](./299171-hydrangea.json) |
+| Hydraulic Empire | 34969 | [34969-hydraulic-empire.json](./34969-hydraulic-empire.json) |
 | Hydro Thunder | 3370 | [3370-hydro-thunder.json](./3370-hydro-thunder.json) |
 | Hydrofoil Generation | 190237 | [190237-hydrofoil-generation.json](./190237-hydrofoil-generation.json) |
 | Hydrofusion Substation | 270677 | [270677-hydrofusion-substation.json](./270677-hydrofusion-substation.json) |
