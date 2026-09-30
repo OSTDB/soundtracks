@@ -439,6 +439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vaporum | 56969 | [56969-vaporum.json](./56969-vaporum.json) |
 | Vaporum: Lockdown | 126812 | [126812-vaporum-lockdown.json](./126812-vaporum-lockdown.json) |
 | Vaporwave Battler | 350522 | [350522-vaporwave-battler.json](./350522-vaporwave-battler.json) |
+| Vaporwave Drift | 119453 | [119453-vaporwave-drift.json](./119453-vaporwave-drift.json) |
 | Vaporwave World | 130202 | [130202-vaporwave-world.json](./130202-vaporwave-world.json) |
 | Vapour | 35849 | [35849-vapour.json](./35849-vapour.json) |
 | Vardia | 275694 | [275694-vardia.json](./275694-vardia.json) |
