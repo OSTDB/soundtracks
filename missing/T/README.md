@@ -5147,6 +5147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Inkspire | 416676 | [416676-the-inkspire.json](./416676-the-inkspire.json) |
 | The Inlaws | 25004 | [25004-the-inlaws.json](./25004-the-inlaws.json) |
 | The Inn | 133384 | [133384-the-inn.json](./133384-the-inn.json) |
+| The Inner Darkness | 27919 | [27919-the-inner-darkness.json](./27919-the-inner-darkness.json) |
 | The Inner World: The Puzzle | 10971 | [10971-the-inner-world-the-puzzle.json](./10971-the-inner-world-the-puzzle.json) |
 | The Innsmouth Case | 129197 | [129197-the-innsmouth-case.json](./129197-the-innsmouth-case.json) |
 | The Ino Chronicles: Ascension | 75017 | [75017-the-ino-chronicles-ascension.json](./75017-the-ino-chronicles-ascension.json) |
@@ -6123,6 +6124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Game | 119734 | [119734-the-lost-game.json](./119734-the-lost-game.json) |
 | The Lost Girl | 225769 | [225769-the-lost-girl.json](./225769-the-lost-girl.json) |
 | The Lost Heir 2: Forging a Kingdom | 33593 | [33593-the-lost-heir-2-forging-a-kingdom.json](./33593-the-lost-heir-2-forging-a-kingdom.json) |
+| The Lost Heir 3: Demon War | 27875 | [27875-the-lost-heir-3-demon-war.json](./27875-the-lost-heir-3-demon-war.json) |
 | The Lost Heir: The Fall of Daria | 33594 | [33594-the-lost-heir-the-fall-of-daria.json](./33594-the-lost-heir-the-fall-of-daria.json) |
 | The Lost Hotel | 253395 | [253395-the-lost-hotel.json](./253395-the-lost-hotel.json) |
 | The Lost Island | 329582 | [329582-the-lost-island.json](./329582-the-lost-island.json) |
@@ -10968,6 +10970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Tennis | 247173 | [247173-tiny-tennis.json](./247173-tiny-tennis.json) |
 | Tiny Terraces | 311476 | [311476-tiny-terraces.json](./311476-tiny-terraces.json) |
 | Tiny Terry's Turbo Trip | 253106 | [253106-tiny-terrys-turbo-trip.json](./253106-tiny-terrys-turbo-trip.json) |
+| Tiny Thor | 28295 | [28295-tiny-thor.json](./28295-tiny-thor.json) |
 | Tiny Tina's Wonderlands | 152061 | [152061-tiny-tinas-wonderlands.json](./152061-tiny-tinas-wonderlands.json) |
 | Tiny Tina's Wonderlands: Next Level Edition | 170024 | [170024-tiny-tinas-wonderlands-next-level-edition.json](./170024-tiny-tinas-wonderlands-next-level-edition.json) |
 | Tiny Tina's Wonderlands: Season Pass | 293727 | [293727-tiny-tinas-wonderlands-season-pass.json](./293727-tiny-tinas-wonderlands-season-pass.json) |
