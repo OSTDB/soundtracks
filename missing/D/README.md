@@ -482,6 +482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger in Body | 247982 | [247982-danger-in-body.json](./247982-danger-in-body.json) |
 | Danger Mouse: The Danger Games | 85557 | [85557-danger-mouse-the-danger-games.json](./85557-danger-mouse-the-danger-games.json) |
 | Danger Ramps | 282005 | [282005-danger-ramps.json](./282005-danger-ramps.json) |
+| Danger Sticks | 398488 | [398488-danger-sticks.json](./398488-danger-sticks.json) |
 | Danger Street | 304126 | [304126-danger-street.json](./304126-danger-street.json) |
 | Danger Wall! | 52843 | [52843-danger-wall.json](./52843-danger-wall.json) |
 | Danger World | 121616 | [121616-danger-world.json](./121616-danger-world.json) |
@@ -3836,6 +3837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diceies | 79898 | [79898-diceies.json](./79898-diceies.json) |
 | Dicentra | 255649 | [255649-dicentra.json](./255649-dicentra.json) |
 | Dicepath | 405592 | [405592-dicepath.json](./405592-dicepath.json) |
+| Dicero | 398391 | [398391-dicero.json](./398391-dicero.json) |
 | DiceRogue | 400333 | [400333-dicerogue.json](./400333-dicerogue.json) |
 | Dices Toss: The Falling Eight Count | 232537 | [232537-dices-toss-the-falling-eight-count.json](./232537-dices-toss-the-falling-eight-count.json) |
 | Dicevaders | 386448 | [386448-dicevaders.json](./386448-dicevaders.json) |
@@ -4427,6 +4429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirtbag Mahjong | 324907 | [324907-dirtbag-mahjong.json](./324907-dirtbag-mahjong.json) |
 | Dirty | 412361 | [412361-dirty.json](./412361-dirty.json) |
 | Dirty Aim Trainer VR | 266752 | [266752-dirty-aim-trainer-vr.json](./266752-dirty-aim-trainer-vr.json) |
+| Dirty Business | 398532 | [398532-dirty-business.json](./398532-dirty-business.json) |
 | Dirty Dancing | 21491 | [21491-dirty-dancing.json](./21491-dirty-dancing.json) |
 | Dirty Dirty Pirates | 236790 | [236790-dirty-dirty-pirates.json](./236790-dirty-dirty-pirates.json) |
 | Dirty Fantasy | 405069 | [405069-dirty-fantasy.json](./405069-dirty-fantasy.json) |
@@ -5217,6 +5220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoDonPachi DaiOuJou: Black Label Extra | 77998 | [77998-dodonpachi-daioujou-black-label-extra.json](./77998-dodonpachi-daioujou-black-label-extra.json) |
 | DoDonPachi Maximum | 77999 | [77999-dodonpachi-maximum.json](./77999-dodonpachi-maximum.json) |
 | DoDonPachi Resurrection | 152402 | [152402-dodonpachi-resurrection.json](./152402-dodonpachi-resurrection.json) |
+| DoDonPachi Resurrection Reignite | 398490 | [398490-dodonpachi-resurrection-reignite.json](./398490-dodonpachi-resurrection-reignite.json) |
 | DoDonPachi Resurrection: Deluxe Edition | 22933 | [22933-dodonpachi-resurrection-deluxe-edition.json](./22933-dodonpachi-resurrection-deluxe-edition.json) |
 | Dodonpachi True Death exA Label | 219161 | [219161-dodonpachi-true-death-exa-label.json](./219161-dodonpachi-true-death-exa-label.json) |
 | DoDonPachi Unlimited | 264093 | [264093-dodonpachi-unlimited.json](./264093-dodonpachi-unlimited.json) |
@@ -5578,6 +5582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Feed It | 341896 | [341896-dont-feed-it.json](./341896-dont-feed-it.json) |
 | Don't Find Me!! | 303488 | [303488-dont-find-me.json](./303488-dont-find-me.json) |
 | Don't Forget Me: Deluxe Edition | 154519 | [154519-dont-forget-me-deluxe-edition.json](./154519-dont-forget-me-deluxe-edition.json) |
+| Don't Forget the Phone | 398485 | [398485-dont-forget-the-phone.json](./398485-dont-forget-the-phone.json) |
 | Don't Freak Part 1 | 334875 | [334875-dont-freak-part-1.json](./334875-dont-freak-part-1.json) |
 | Don't Fret | 289433 | [289433-dont-fret.json](./289433-dont-fret.json) |
 | Don't Get a Virus | 181874 | [181874-dont-get-a-virus.json](./181874-dont-get-a-virus.json) |
@@ -5881,6 +5886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom 64 Reloaded | 346668 | [346668-doom-64-reloaded.json](./346668-doom-64-reloaded.json) |
 | Doom 64: Complete Edition | 408132 | [408132-doom-64-complete-edition.json](./408132-doom-64-complete-edition.json) |
 | DOOM Abort | 202841 | [202841-doom-abort.json](./202841-doom-abort.json) |
+| Doom ChessMaster | 398500 | [398500-doom-chessmaster.json](./398500-doom-chessmaster.json) |
 | Doom City | 144214 | [144214-doom-city.json](./144214-doom-city.json) |
 | Doom Core | 275569 | [275569-doom-core.json](./275569-doom-core.json) |
 | Doom Days: Fire Shooter | 226761 | [226761-doom-days-fire-shooter.json](./226761-doom-days-fire-shooter.json) |
