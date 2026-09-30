@@ -709,6 +709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olderfall | 408205 | [408205-olderfall.json](./408205-olderfall.json) |
 | Oldest Golden Treasure | 381847 | [381847-oldest-golden-treasure.json](./381847-oldest-golden-treasure.json) |
 | Oldfartenstein 3D | 255375 | [255375-oldfartenstein-3d.json](./255375-oldfartenstein-3d.json) |
+| OldHeart Online | 397170 | [397170-oldheart-online.json](./397170-oldheart-online.json) |
 | Oldorf's Revenge | 24847 | [24847-oldorfs-revenge.json](./24847-oldorfs-revenge.json) |
 | Oldowan | 211222 | [211222-oldowan.json](./211222-oldowan.json) |
 | Oldschool Tennis | 367591 | [367591-oldschool-tennis.json](./367591-oldschool-tennis.json) |
@@ -1898,6 +1899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Order of Renewal | 337647 | [337647-order-of-renewal.json](./337647-order-of-renewal.json) |
 | Order of the Assassin | 102332 | [102332-order-of-the-assassin.json](./102332-order-of-the-assassin.json) |
 | Order of the Elements | 270961 | [270961-order-of-the-elements.json](./270961-order-of-the-elements.json) |
+| Order of the Ivy | 397196 | [397196-order-of-the-ivy.json](./397196-order-of-the-ivy.json) |
 | Order of the Sinking Star | 381222 | [381222-order-of-the-sinking-star.json](./381222-order-of-the-sinking-star.json) |
 | Order Road | 162849 | [162849-order-road.json](./162849-order-road.json) |
 | Order Us! | 264031 | [264031-order-us.json](./264031-order-us.json) |
@@ -2339,6 +2341,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Sight | 312565 | [312565-out-of-sight.json](./312565-out-of-sight.json) |
 | Out of Space | 111772 | [111772-out-of-space.json](./111772-out-of-space.json) |
 | Out of Stock! | 346588 | [346588-out-of-stock.json](./346588-out-of-stock.json) |
+| Out of Sync | 397159 | [397159-out-of-sync.json](./397159-out-of-sync.json) |
+| Out of Sync: Complete Cherry Bomb Edition | 397166 | [397166-out-of-sync-complete-cherry-bomb-edition.json](./397166-out-of-sync-complete-cherry-bomb-edition.json) |
+| Out of Sync: Crescendo | 397169 | [397169-out-of-sync-crescendo.json](./397169-out-of-sync-crescendo.json) |
 | Out of the Blocks | 62723 | [62723-out-of-the-blocks.json](./62723-out-of-the-blocks.json) |
 | Out of the Deathmount | 231505 | [231505-out-of-the-deathmount.json](./231505-out-of-the-deathmount.json) |
 | Out of the ground | 226202 | [226202-out-of-the-ground.json](./226202-out-of-the-ground.json) |
