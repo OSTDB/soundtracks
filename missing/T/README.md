@@ -1066,6 +1066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantrix Quiz | 207838 | [207838-tantrix-quiz.json](./207838-tantrix-quiz.json) |
 | Tantrum | 274220 | [274220-tantrum.json](./274220-tantrum.json) |
 | Tantrum 2 | 274221 | [274221-tantrum-2.json](./274221-tantrum-2.json) |
+| Tanuki Justice | 139832 | [139832-tanuki-justice.json](./139832-tanuki-justice.json) |
 | Tanuki No Tabi | 307133 | [307133-tanuki-no-tabi.json](./307133-tanuki-no-tabi.json) |
 | Tanuki Sunset Classic | 178502 | [178502-tanuki-sunset-classic.json](./178502-tanuki-sunset-classic.json) |
 | Tanuki Tales | 307160 | [307160-tanuki-tales.json](./307160-tanuki-tales.json) |
@@ -3752,6 +3753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Darkest Emptiness | 219552 | [219552-the-darkest-emptiness.json](./219552-the-darkest-emptiness.json) |
 | The Darkest Files | 214233 | [214233-the-darkest-files.json](./214233-the-darkest-files.json) |
 | The Darkest Paths: Missing Files | 235985 | [235985-the-darkest-paths-missing-files.json](./235985-the-darkest-paths-missing-files.json) |
+| The Darkest Tales | 138874 | [138874-the-darkest-tales.json](./138874-the-darkest-tales.json) |
 | The Darkest Woods | 103762 | [103762-the-darkest-woods.json](./103762-the-darkest-woods.json) |
 | The Darkest Woods 2 | 111711 | [111711-the-darkest-woods-2.json](./111711-the-darkest-woods-2.json) |
 | The Darkness | 281559 | [281559-the-darkness.json](./281559-the-darkness.json) |
@@ -5625,6 +5627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Secret | 199656 | [199656-the-last-secret.json](./199656-the-last-secret.json) |
 | The Last Shelter | 349844 | [349844-the-last-shelter.json](./349844-the-last-shelter.json) |
 | The Last Shot: Arcades | 351723 | [351723-the-last-shot-arcades.json](./351723-the-last-shot-arcades.json) |
+| The Last Show of Mr. Chardish | 138389 | [138389-the-last-show-of-mr-chardish.json](./138389-the-last-show-of-mr-chardish.json) |
 | The Last Show of Mr. Chardish: Act I | 170386 | [170386-the-last-show-of-mr-chardish-act-i.json](./170386-the-last-show-of-mr-chardish-act-i.json) |
 | The Last Sigil | 88325 | [88325-the-last-sigil.json](./88325-the-last-sigil.json) |
 | The Last Sin | 44110 | [44110-the-last-sin.json](./44110-the-last-sin.json) |
@@ -7469,6 +7472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shadow of Yserbius | 54684 | [54684-the-shadow-of-yserbius.json](./54684-the-shadow-of-yserbius.json) |
 | The Shadow of Zorro | 27627 | [27627-the-shadow-of-zorro.json](./27627-the-shadow-of-zorro.json) |
 | The Shadow People | 222938 | [222938-the-shadow-people.json](./222938-the-shadow-people.json) |
+| The Shadow Society | 128921 | [128921-the-shadow-society.json](./128921-the-shadow-society.json) |
 | The Shadow Sun | 108496 | [108496-the-shadow-sun.json](./108496-the-shadow-sun.json) |
 | The Shadow Syndicate | 342265 | [342265-the-shadow-syndicate.json](./342265-the-shadow-syndicate.json) |
 | The Shadow Warrior Trilogy | 243065 | [243065-the-shadow-warrior-trilogy.json](./243065-the-shadow-warrior-trilogy.json) |
@@ -11380,6 +11384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokoro's Mahjong Jr. | 126011 | [126011-tokoros-mahjong-jr.json](./126011-tokoros-mahjong-jr.json) |
 | TokoToko | 124705 | [124705-tokotoko.json](./124705-tokotoko.json) |
 | Tokoyo ni Ochiru Hana | 163358 | [163358-tokoyo-ni-ochiru-hana.json](./163358-tokoyo-ni-ochiru-hana.json) |
+| Tokoyo: The Tower of Perpetuity | 139042 | [139042-tokoyo-the-tower-of-perpetuity.json](./139042-tokoyo-the-tower-of-perpetuity.json) |
 | Tokumei Sentai Go-Busters | 63581 | [63581-tokumei-sentai-go-busters.json](./63581-tokumei-sentai-go-busters.json) |
 | Tokusatsu Bouken Katsugeki Super Hero Retsuden | 58778 | [58778-tokusatsu-bouken-katsugeki-super-hero-retsuden.json](./58778-tokusatsu-bouken-katsugeki-super-hero-retsuden.json) |
 | Tokusen! | 108996 | [108996-tokusen.json](./108996-tokusen.json) |
@@ -11488,6 +11493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Ghost Recon Commander | 77976 | [77976-tom-clancys-ghost-recon-commander.json](./77976-tom-clancys-ghost-recon-commander.json) |
 | Tom Clancy's Ghost Recon: Breakpoint - Deep State | 138783 | [138783-tom-clancys-ghost-recon-breakpoint-deep-state.json](./138783-tom-clancys-ghost-recon-breakpoint-deep-state.json) |
 | Tom Clancy's Ghost Recon: Breakpoint - Deluxe Edition | 173793 | [173793-tom-clancys-ghost-recon-breakpoint-deluxe-edition.json](./173793-tom-clancys-ghost-recon-breakpoint-deluxe-edition.json) |
+| Tom Clancy's Ghost Recon: Breakpoint - Red Patriot | 138784 | [138784-tom-clancys-ghost-recon-breakpoint-red-patriot.json](./138784-tom-clancys-ghost-recon-breakpoint-red-patriot.json) |
 | Tom Clancy's Ghost Recon: Breakpoint Gold Edition | 118275 | [118275-tom-clancys-ghost-recon-breakpoint-gold-edition.json](./118275-tom-clancys-ghost-recon-breakpoint-gold-edition.json) |
 | Tom Clancy's Ghost Recon: Breakpoint Ultimate Edition | 118276 | [118276-tom-clancys-ghost-recon-breakpoint-ultimate-edition.json](./118276-tom-clancys-ghost-recon-breakpoint-ultimate-edition.json) |
 | Tom Clancy's Ghost Recon: Breakpoint Wolves Collector Edition | 118277 | [118277-tom-clancys-ghost-recon-breakpoint-wolves-collector-edition.json](./118277-tom-clancys-ghost-recon-breakpoint-wolves-collector-edition.json) |
@@ -11666,6 +11672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomboys Need Love Too! | 36470 | [36470-tomboys-need-love-too.json](./36470-tomboys-need-love-too.json) |
 | Tombs & Treasure | 215142 | [215142-tombs-and-treasure.json](./215142-tombs-and-treasure.json) |
 | Tombs of Reschette | 59678 | [59678-tombs-of-reschette.json](./59678-tombs-of-reschette.json) |
+| TombStar | 138867 | [138867-tombstar.json](./138867-tombstar.json) |
 | Tombstone Tally | 319361 | [319361-tombstone-tally.json](./319361-tombstone-tally.json) |
 | Tombstone Taxi | 258435 | [258435-tombstone-taxi.json](./258435-tombstone-taxi.json) |
 | Tomcat | 74428 | [74428-tomcat.json](./74428-tomcat.json) |
@@ -12846,6 +12853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tracks of Thought | 136982 | [136982-tracks-of-thought.json](./136982-tracks-of-thought.json) |
 | Tracks of Triumph: Good Old Times | 29886 | [29886-tracks-of-triumph-good-old-times.json](./29886-tracks-of-triumph-good-old-times.json) |
 | Tracks: The Train Set Game | 39748 | [39748-tracks-the-train-set-game.json](./39748-tracks-the-train-set-game.json) |
+| Tracks: Toybox Edition | 139928 | [139928-tracks-toybox-edition.json](./139928-tracks-toybox-edition.json) |
 | Tracktopia | 333628 | [333628-tracktopia.json](./333628-tracktopia.json) |
 | Tracky Train | 58241 | [58241-tracky-train.json](./58241-tracky-train.json) |
 | Tractage aux Portes 2: Mob a la Cafeteria | 120979 | [120979-tractage-aux-portes-2-mob-a-la-cafeteria.json](./120979-tractage-aux-portes-2-mob-a-la-cafeteria.json) |
