@@ -1151,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Frenzy 3: Russian Village | 53034 | [53034-farm-frenzy-3-russian-village.json](./53034-farm-frenzy-3-russian-village.json) |
 | Farm Frenzy 4 | 17317 | [17317-farm-frenzy-4.json](./17317-farm-frenzy-4.json) |
 | Farm Frenzy Collection | 34762 | [34762-farm-frenzy-collection.json](./34762-farm-frenzy-collection.json) |
+| Farm Frenzy Inc | 87066 | [87066-farm-frenzy-inc.json](./87066-farm-frenzy-inc.json) |
 | Farm Frenzy Prostokvashino | 320397 | [320397-farm-frenzy-prostokvashino.json](./320397-farm-frenzy-prostokvashino.json) |
 | Farm Frenzy: Animal Country | 201278 | [201278-farm-frenzy-animal-country.json](./201278-farm-frenzy-animal-country.json) |
 | Farm Frenzy: Forever and Ever! | 201279 | [201279-farm-frenzy-forever-and-ever.json](./201279-farm-frenzy-forever-and-ever.json) |
@@ -2572,6 +2573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finger Champion | 245326 | [245326-finger-champion.json](./245326-finger-champion.json) |
 | Finger Connection | 66619 | [66619-finger-connection.json](./66619-finger-connection.json) |
 | Finger Cuts | 315830 | [315830-finger-cuts.json](./315830-finger-cuts.json) |
+| Finger Driver | 87049 | [87049-finger-driver.json](./87049-finger-driver.json) |
 | Finger Fitness | 187217 | [187217-finger-fitness.json](./187217-finger-fitness.json) |
 | Finger Flashing | 69870 | [69870-finger-flashing.json](./69870-finger-flashing.json) |
 | Finger Football: Goal in One + Two | 262491 | [262491-finger-football-goal-in-one-two.json](./262491-finger-football-goal-in-one-two.json) |
@@ -3363,6 +3365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Meatbag | 23731 | [23731-flappy-meatbag.json](./23731-flappy-meatbag.json) |
 | Flappy Monkey | 325099 | [325099-flappy-monkey.json](./325099-flappy-monkey.json) |
 | Flappy Navalny | 137665 | [137665-flappy-navalny.json](./137665-flappy-navalny.json) |
+| Flappy Pink Bird | 87075 | [87075-flappy-pink-bird.json](./87075-flappy-pink-bird.json) |
 | Flappy Pixel! | 249308 | [249308-flappy-pixel.json](./249308-flappy-pixel.json) |
 | Flappy Putin: Hardbass Gopnik | 202094 | [202094-flappy-putin-hardbass-gopnik.json](./202094-flappy-putin-hardbass-gopnik.json) |
 | Flappy Royale | 130743 | [130743-flappy-royale.json](./130743-flappy-royale.json) |
@@ -3538,6 +3541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight of the Fireflies | 22339 | [22339-flight-of-the-fireflies.json](./22339-flight-of-the-fireflies.json) |
 | Flight of the Intruder | 12102 | [12102-flight-of-the-intruder.json](./12102-flight-of-the-intruder.json) |
 | Flight Path 737 | 12952 | [12952-flight-path-737.json](./12952-flight-path-737.json) |
+| Flight Pilot Simulator: 3D Flying Games | 86792 | [86792-flight-pilot-simulator-3d-flying-games.json](./86792-flight-pilot-simulator-3d-flying-games.json) |
 | Flight Rising | 123023 | [123023-flight-rising.json](./123023-flight-rising.json) |
 | Flight Risk | 304624 | [304624-flight-risk.json](./304624-flight-risk.json) |
 | Flight Sims Air Cavalry Pilots | 175336 | [175336-flight-sims-air-cavalry-pilots.json](./175336-flight-sims-air-cavalry-pilots.json) |
