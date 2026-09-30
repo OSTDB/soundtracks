@@ -1075,6 +1075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John Deere: Drive Green | 139805 | [139805-john-deere-drive-green.json](./139805-john-deere-drive-green.json) |
 | John Deere: Harvest in the Heartland | 20896 | [20896-john-deere-harvest-in-the-heartland.json](./20896-john-deere-harvest-in-the-heartland.json) |
 | John Deere: North American Farmer | 210130 | [210130-john-deere-north-american-farmer.json](./210130-john-deere-north-american-farmer.json) |
+| John Dungeon | 81751 | [81751-john-dungeon.json](./81751-john-dungeon.json) |
 | John Elway's Team Quarterback | 40343 | [40343-john-elways-team-quarterback.json](./40343-john-elways-team-quarterback.json) |
 | John Fox | 303595 | [303595-john-fox.json](./303595-john-fox.json) |
 | John Fury’s First Fury | 402497 | [402497-john-fury-s-first-fury.json](./402497-john-fury-s-first-fury.json) |
