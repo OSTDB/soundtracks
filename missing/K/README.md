@@ -2833,6 +2833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuru-kuru Action Kuru Pachi 6 | 220845 | [220845-kuru-kuru-action-kuru-pachi-6.json](./220845-kuru-kuru-action-kuru-pachi-6.json) |
 | Kuru-kuru Panic | 222816 | [222816-kuru-kuru-panic.json](./222816-kuru-kuru-panic.json) |
 | Kuru-kuru Puzzle Sekai-shi B | 276465 | [276465-kuru-kuru-puzzle-sekai-shi-b.json](./276465-kuru-kuru-puzzle-sekai-shi-b.json) |
+| Kuruki-chan the Cat | 419958 | [419958-kuruki-chan-the-cat.json](./419958-kuruki-chan-the-cat.json) |
 | KuruKuru Princess: Yume no White Quartet | 70668 | [70668-kurukuru-princess-yume-no-white-quartet.json](./70668-kurukuru-princess-yume-no-white-quartet.json) |
 | Kuruma de DS | 302675 | [302675-kuruma-de-ds.json](./302675-kuruma-de-ds.json) |
 | Kurumi Diary | 233476 | [233476-kurumi-diary.json](./233476-kurumi-diary.json) |
