@@ -984,6 +984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaslamp Cases 5: The Dreadful City | 248917 | [248917-gaslamp-cases-5-the-dreadful-city.json](./248917-gaslamp-cases-5-the-dreadful-city.json) |
 | Gaslamp Cases 6: Haunted Waters | 294732 | [294732-gaslamp-cases-6-haunted-waters.json](./294732-gaslamp-cases-6-haunted-waters.json) |
 | Gaslamp Cases 7: The Faith of Rasputin | 294735 | [294735-gaslamp-cases-7-the-faith-of-rasputin.json](./294735-gaslamp-cases-7-the-faith-of-rasputin.json) |
+| Gaslamp Cases XIII: The Crimson Portrait | 393710 | [393710-gaslamp-cases-xiii-the-crimson-portrait.json](./393710-gaslamp-cases-xiii-the-crimson-portrait.json) |
 | Gaslift: A Chair Horror | 414311 | [414311-gaslift-a-chair-horror.json](./414311-gaslift-a-chair-horror.json) |
 | Gaslit Bay | 405686 | [405686-gaslit-bay.json](./405686-gaslit-bay.json) |
 | Gasnator | 229796 | [229796-gasnator.json](./229796-gasnator.json) |
