@@ -5416,6 +5416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sixtar Gate: Startrail - Oshiribeat Pack | 284913 | [284913-sixtar-gate-startrail-oshiribeat-pack.json](./284913-sixtar-gate-startrail-oshiribeat-pack.json) |
 | Sixteen | 193213 | [193213-sixteen.json](./193213-sixteen.json) |
 | Sixteen Undead | 340368 | [340368-sixteen-undead.json](./340368-sixteen-undead.json) |
+| Sixth Grade Detective | 33911 | [33911-sixth-grade-detective.json](./33911-sixth-grade-detective.json) |
 | Sixth Night | 129710 | [129710-sixth-night.json](./129710-sixth-night.json) |
 | Sixtieth Kilometer: Eightieth Kilometer | 171910 | [171910-sixtieth-kilometer-eightieth-kilometer.json](./171910-sixtieth-kilometer-eightieth-kilometer.json) |
 | Sixty Jumps to Ceres | 258479 | [258479-sixty-jumps-to-ceres.json](./258479-sixty-jumps-to-ceres.json) |
@@ -9089,6 +9090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Mission SM-11 | 235219 | [235219-space-mission-sm-11.json](./235219-space-mission-sm-11.json) |
 | Space Moguls | 124600 | [124600-space-moguls.json](./124600-space-moguls.json) |
 | Space Monster | 72971 | [72971-space-monster.json](./72971-space-monster.json) |
+| Space Moth DX | 33928 | [33928-space-moth-dx.json](./33928-space-moth-dx.json) |
 | Space Mouse 2 | 149507 | [149507-space-mouse-2.json](./149507-space-mouse-2.json) |
 | Space Mutants | 283803 | [283803-space-mutants.json](./283803-space-mutants.json) |
 | Space Nature Attack Tower Defense | 287222 | [287222-space-nature-attack-tower-defense.json](./287222-space-nature-attack-tower-defense.json) |
@@ -14188,6 +14190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dungeon Bros Mega Bundle Pack | 82413 | [82413-super-dungeon-bros-mega-bundle-pack.json](./82413-super-dungeon-bros-mega-bundle-pack.json) |
 | Super Dungeon Muncher | 311602 | [311602-super-dungeon-muncher.json](./311602-super-dungeon-muncher.json) |
 | Super Dunkman | 134700 | [134700-super-dunkman.json](./134700-super-dunkman.json) |
+| Super Duper Flying Genocide 2017 | 34004 | [34004-super-duper-flying-genocide-2017.json](./34004-super-duper-flying-genocide-2017.json) |
 | Super Durak | 174336 | [174336-super-durak.json](./174336-super-durak.json) |
 | Super Dynamite Fishing | 61126 | [61126-super-dynamite-fishing.json](./61126-super-dynamite-fishing.json) |
 | Super DynoStory | 215025 | [215025-super-dynostory.json](./215025-super-dynostory.json) |
