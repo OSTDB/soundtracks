@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthworm Jim Collection | 237402 | [237402-earthworm-jim-collection.json](./237402-earthworm-jim-collection.json) |
 | Earthworm Jim HD | 20420 | [20420-earthworm-jim-hd.json](./20420-earthworm-jim-hd.json) |
 | Earthworm Jim: Menace 2 the Galaxy | 3482 | [3482-earthworm-jim-menace-2-the-galaxy.json](./3482-earthworm-jim-menace-2-the-galaxy.json) |
+| EarthWorms | 51952 | [51952-earthworms.json](./51952-earthworms.json) |
 | EarWorm | 340931 | [340931-earworm.json](./340931-earworm.json) |
 | Ease Out | 224544 | [224544-ease-out.json](./224544-ease-out.json) |
 | Eason | 192695 | [192695-eason.json](./192695-eason.json) |
@@ -1427,6 +1428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empires Apart: Chinese Civilization Pack | 169311 | [169311-empires-apart-chinese-civilization-pack.json](./169311-empires-apart-chinese-civilization-pack.json) |
 | Empires II: What Would You Risk for World Conquest? | 100215 | [100215-empires-ii-what-would-you-risk-for-world-conquest.json](./100215-empires-ii-what-would-you-risk-for-world-conquest.json) |
 | Empires in Arms | 215076 | [215076-empires-in-arms.json](./215076-empires-in-arms.json) |
+| Empires in Ruins | 51406 | [51406-empires-in-ruins.json](./51406-empires-in-ruins.json) |
 | Empires of Creation | 34179 | [34179-empires-of-creation.json](./34179-empires-of-creation.json) |
 | Empires of Europe 1100 | 356158 | [356158-empires-of-europe-1100.json](./356158-empires-of-europe-1100.json) |
 | Empires of Europe 1700 | 356164 | [356164-empires-of-europe-1700.json](./356164-empires-of-europe-1700.json) |
@@ -2490,6 +2492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escort's Secrets 18+ | 275135 | [275135-escorts-secrets-18.json](./275135-escorts-secrets-18.json) |
 | Escortina Life! 2.0 | 286075 | [286075-escortina-life-2-0.json](./286075-escortina-life-2-0.json) |
 | Eseala | 267472 | [267472-eseala.json](./267472-eseala.json) |
+| Eselmir and the Five Magical Gifts | 52067 | [52067-eselmir-and-the-five-magical-gifts.json](./52067-eselmir-and-the-five-magical-gifts.json) |
 | Esferibot | 272343 | [272343-esferibot.json](./272343-esferibot.json) |
 | Eshe's Wish Adventure | 199486 | [199486-eshes-wish-adventure.json](./199486-eshes-wish-adventure.json) |
 | Eshigami no Kizuna | 37300 | [37300-eshigami-no-kizuna.json](./37300-eshigami-no-kizuna.json) |
