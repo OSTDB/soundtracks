@@ -2069,6 +2069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellrider | 143083 | [143083-hellrider.json](./143083-hellrider.json) |
 | Hellrooms | 324322 | [324322-hellrooms.json](./324322-hellrooms.json) |
 | Hells Bend on Wounded Knee | 248679 | [248679-hells-bend-on-wounded-knee.json](./248679-hells-bend-on-wounded-knee.json) |
+| HellSinker | 50441 | [50441-hellsinker.json](./50441-hellsinker.json) |
 | Hellslinger | 217976 | [217976-hellslinger.json](./217976-hellslinger.json) |
 | Hellspawn | 244204 | [244204-hellspawn.json](./244204-hellspawn.json) |
 | Hellsplit: Labyrinth | 410965 | [410965-hellsplit-labyrinth.json](./410965-hellsplit-labyrinth.json) |
