@@ -1910,6 +1910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadstorm Pirates | 39788 | [39788-deadstorm-pirates.json](./39788-deadstorm-pirates.json) |
 | DeadStuck | 401720 | [401720-deadstuck.json](./401720-deadstuck.json) |
 | DeadTruth: The Dark Path Ahead | 30110 | [30110-deadtruth-the-dark-path-ahead.json](./30110-deadtruth-the-dark-path-ahead.json) |
+| Deadvale | 395804 | [395804-deadvale.json](./395804-deadvale.json) |
 | Deadwar: Old Lies | 94730 | [94730-deadwar-old-lies.json](./94730-deadwar-old-lies.json) |
 | Deadwater Saloon | 190136 | [190136-deadwater-saloon.json](./190136-deadwater-saloon.json) |
 | Deadweight | 34839 | [34839-deadweight.json](./34839-deadweight.json) |
@@ -2444,6 +2445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deer Crusade | 235826 | [235826-deer-crusade.json](./235826-deer-crusade.json) |
 | Deer Drive | 47771 | [47771-deer-drive.json](./47771-deer-drive.json) |
 | Deer God | 278527 | [278527-deer-god.json](./278527-deer-god.json) |
+| Deer Hero | 395777 | [395777-deer-hero.json](./395777-deer-hero.json) |
 | Deer Hunt Challenge | 78044 | [78044-deer-hunt-challenge.json](./78044-deer-hunt-challenge.json) |
 | Deer Hunter | 206345 | [206345-deer-hunter.json](./206345-deer-hunter.json) |
 | Deer Hunter | 49896 | [49896-deer-hunter.json](./49896-deer-hunter.json) |
@@ -3177,6 +3179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Rush | 265430 | [265430-desert-rush.json](./265430-desert-rush.json) |
 | Desert Spirit Grave | 253978 | [253978-desert-spirit-grave.json](./253978-desert-spirit-grave.json) |
 | Desert Storm | 270687 | [270687-desert-storm.json](./270687-desert-storm.json) |
+| Desert Storm War FPS | 395768 | [395768-desert-storm-war-fps.json](./395768-desert-storm-war-fps.json) |
 | Desert Storm with Coalition Command | 122274 | [122274-desert-storm-with-coalition-command.json](./122274-desert-storm-with-coalition-command.json) |
 | Desert Strike: Return to the Gulf | 6798 | [6798-desert-strike-return-to-the-gulf.json](./6798-desert-strike-return-to-the-gulf.json) |
 | Desert Things | 203954 | [203954-desert-things.json](./203954-desert-things.json) |
@@ -4029,6 +4032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diggers | 37101 | [37101-diggers.json](./37101-diggers.json) |
 | Diggers 2: Extractors | 70104 | [70104-diggers-2-extractors.json](./70104-diggers-2-extractors.json) |
 | DiggerSim | 234194 | [234194-diggersim.json](./234194-diggersim.json) |
+| Diggin It | 395797 | [395797-diggin-it.json](./395797-diggin-it.json) |
 | Digging & Farming & Parking: Simulator Bundle | 380697 | [380697-digging-and-farming-and-parking-simulator-bundle.json](./380697-digging-and-farming-and-parking-simulator-bundle.json) |
 | Digging a Hole 2025 | 335955 | [335955-digging-a-hole-2025.json](./335955-digging-a-hole-2025.json) |
 | Digging A Hole: Journey to the Core | 351095 | [351095-digging-a-hole-journey-to-the-core.json](./351095-digging-a-hole-journey-to-the-core.json) |
@@ -7424,6 +7428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dredge: Expansion Bundle | 314887 | [314887-dredge-expansion-bundle.json](./314887-dredge-expansion-bundle.json) |
 | Dredge: The Iron Rig | 305098 | [305098-dredge-the-iron-rig.json](./305098-dredge-the-iron-rig.json) |
 | Dredge: The Pale Reach | 270502 | [270502-dredge-the-pale-reach.json](./270502-dredge-the-pale-reach.json) |
+| Dredge+ | 395816 | [395816-dredge.json](./395816-dredge.json) |
 | Dreem Ascension | 393506 | [393506-dreem-ascension.json](./393506-dreem-ascension.json) |
 | DREGS | 409618 | [409618-dregs.json](./409618-dregs.json) |
 | Drehmal: Apotheosis | 336548 | [336548-drehmal-apotheosis.json](./336548-drehmal-apotheosis.json) |
@@ -7781,6 +7786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunk | 183068 | [183068-drunk.json](./183068-drunk.json) |
 | Drunk As I Like: Gensokyo Chugging Contest | 202334 | [202334-drunk-as-i-like-gensokyo-chugging-contest.json](./202334-drunk-as-i-like-gensokyo-chugging-contest.json) |
 | Drunk but Not Wasted Knight | 363398 | [363398-drunk-but-not-wasted-knight.json](./363398-drunk-but-not-wasted-knight.json) |
+| Drunk Dad Vs Family | 395778 | [395778-drunk-dad-vs-family.json](./395778-drunk-dad-vs-family.json) |
 | Drunk Fist | 180817 | [180817-drunk-fist.json](./180817-drunk-fist.json) |
 | Drunk Fred in the Cell | 320915 | [320915-drunk-fred-in-the-cell.json](./320915-drunk-fred-in-the-cell.json) |
 | Drunk Games | 203940 | [203940-drunk-games.json](./203940-drunk-games.json) |
