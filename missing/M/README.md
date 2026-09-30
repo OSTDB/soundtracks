@@ -2206,6 +2206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel: Ultimate Alliance | 4999 | [4999-marvel-ultimate-alliance.json](./4999-marvel-ultimate-alliance.json) |
 | Marvel's Avengers Definitive Edition | 259466 | [259466-marvels-avengers-definitive-edition.json](./259466-marvels-avengers-definitive-edition.json) |
 | Marvel's Avengers: Black Panther - War for Wakanda | 144774 | [144774-marvels-avengers-black-panther-war-for-wakanda.json](./144774-marvels-avengers-black-panther-war-for-wakanda.json) |
+| Marvel's Avengers: Hawkeye - Future Imperfect | 138181 | [138181-marvels-avengers-hawkeye-future-imperfect.json](./138181-marvels-avengers-hawkeye-future-imperfect.json) |
 | Marvel's Avengers: Kate Bishop - Taking AIM | 138179 | [138179-marvels-avengers-kate-bishop-taking-aim.json](./138179-marvels-avengers-kate-bishop-taking-aim.json) |
 | Marvel's Blade | 279646 | [279646-marvels-blade.json](./279646-marvels-blade.json) |
 | Marvel's Guardians of the Galaxy & Marvel's Avenger's: Deluxe Bundle | 218480 | [218480-marvels-guardians-of-the-galaxy-and-marvels-avengers-deluxe-bundle.json](./218480-marvels-guardians-of-the-galaxy-and-marvels-avengers-deluxe-bundle.json) |
@@ -6020,6 +6021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misako 37-sai: Doutei Daigakusei x Futsuu no Shufu | 82998 | [82998-misako-37-sai-doutei-daigakusei-x-futsuu-no-shufu.json](./82998-misako-37-sai-doutei-daigakusei-x-futsuu-no-shufu.json) |
 | Misao: Definitive Edition | 74567 | [74567-misao-definitive-edition.json](./74567-misao-definitive-edition.json) |
 | Misc. | 159079 | [159079-misc.json](./159079-misc.json) |
+| Misc. A Tiny Tale | 138025 | [138025-misc-a-tiny-tale.json](./138025-misc-a-tiny-tale.json) |
 | Mischief Dungeon Life: Isekai Tensei shita Ore no Itazura Dungeon Life - Asha Edition | 225040 | [225040-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-asha-edition.json](./225040-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-asha-edition.json) |
 | Mischief Dungeon Life: Isekai Tensei shita Ore no Itazura Dungeon Life - Clara Edition | 232996 | [232996-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-clara-edition.json](./232996-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-clara-edition.json) |
 | Mischief Dungeon Life: Isekai Tensei shita Ore no Itazura Dungeon Life - Janice Edition | 225042 | [225042-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-janice-edition.json](./225042-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-janice-edition.json) |
@@ -6472,6 +6474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobiloid | 64104 | [64104-mobiloid.json](./64104-mobiloid.json) |
 | Mobius | 104646 | [104646-mobius.json](./104646-mobius.json) |
 | Mobius Final Fantasy | 21628 | [21628-mobius-final-fantasy.json](./21628-mobius-final-fantasy.json) |
+| Möbius Front '83 | 140436 | [140436-mobius-front-83.json](./140436-mobius-front-83.json) |
 | Mobius Theory | 225602 | [225602-mobius-theory.json](./225602-mobius-theory.json) |
 | Möbler | 118301 | [118301-mobler.json](./118301-mobler.json) |
 | Mobmania | 211807 | [211807-mobmania.json](./211807-mobmania.json) |
@@ -7558,6 +7561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moose Boarders | 327381 | [327381-moose-boarders.json](./327381-moose-boarders.json) |
 | Moose In Canada | 239196 | [239196-moose-in-canada.json](./239196-moose-in-canada.json) |
 | Moose Invasion | 75002 | [75002-moose-invasion.json](./75002-moose-invasion.json) |
+| Moose Life | 138332 | [138332-moose-life.json](./138332-moose-life.json) |
 | Mooselutions | 264662 | [264662-mooselutions.json](./264662-mooselutions.json) |
 | Mooshie's Kitchen 2 | 273983 | [273983-mooshies-kitchen-2.json](./273983-mooshies-kitchen-2.json) |
 | Mooshie's Kitchen 3 | 273984 | [273984-mooshies-kitchen-3.json](./273984-mooshies-kitchen-3.json) |
