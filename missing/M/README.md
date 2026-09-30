@@ -235,6 +235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madagascar: Join the Circus | 25186 | [25186-madagascar-join-the-circus.json](./25186-madagascar-join-the-circus.json) |
 | Madagascar: Operation Penguin | 3766 | [3766-madagascar-operation-penguin.json](./3766-madagascar-operation-penguin.json) |
 | Madame Ching's Dungeon of Ecstasy | 133802 | [133802-madame-chings-dungeon-of-ecstasy.json](./133802-madame-chings-dungeon-of-ecstasy.json) |
+| Madame Claudine's Curious Curiousities | 394467 | [394467-madame-claudines-curious-curiousities.json](./394467-madame-claudines-curious-curiousities.json) |
 | Madara Saga: Youchien Senki Madara | 57072 | [57072-madara-saga-youchien-senki-madara.json](./57072-madara-saga-youchien-senki-madara.json) |
 | Madball | 198484 | [198484-madball.json](./198484-madball.json) |
 | Madballs Arcade | 98925 | [98925-madballs-arcade.json](./98925-madballs-arcade.json) |
@@ -402,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafdet and the Book of the Dead | 72377 | [72377-mafdet-and-the-book-of-the-dead.json](./72377-mafdet-and-the-book-of-the-dead.json) |
 | Mafia 1x1 | 307327 | [307327-mafia-1x1.json](./307327-mafia-1x1.json) |
 | Mafia Alive | 68686 | [68686-mafia-alive.json](./68686-mafia-alive.json) |
+| Mafia Business Simulator | 394480 | [394480-mafia-business-simulator.json](./394480-mafia-business-simulator.json) |
 | Mafia Clicker | 241956 | [241956-mafia-clicker.json](./241956-mafia-clicker.json) |
 | Mafia Gambling | 89266 | [89266-mafia-gambling.json](./89266-mafia-gambling.json) |
 | Mafia Hotel | 416006 | [416006-mafia-hotel.json](./416006-mafia-hotel.json) |
@@ -2970,6 +2972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Walk VR - Virtual Reality Game Puzzle Apps | 88063 | [88063-maze-walk-vr-virtual-reality-game-puzzle-apps.json](./88063-maze-walk-vr-virtual-reality-game-puzzle-apps.json) |
 | Maze Wars | 116316 | [116316-maze-wars.json](./116316-maze-wars.json) |
 | Maze with Cube | 146775 | [146775-maze-with-cube.json](./146775-maze-with-cube.json) |
+| Maze Workout: Lost Urban Exit Game - Trials2 | 394432 | [394432-maze-workout-lost-urban-exit-game-trials2.json](./394432-maze-workout-lost-urban-exit-game-trials2.json) |
 | Maze Zen | 175296 | [175296-maze-zen.json](./175296-maze-zen.json) |
 | Maze: A VR Adventure | 160151 | [160151-maze-a-vr-adventure.json](./160151-maze-a-vr-adventure.json) |
 | Maze: Interim Odyssey | 345677 | [345677-maze-interim-odyssey.json](./345677-maze-interim-odyssey.json) |
@@ -4188,6 +4191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meowdoku | 409811 | [409811-meowdoku.json](./409811-meowdoku.json) |
 | Meower's Quest: Jasper's Tale | 104025 | [104025-meowers-quest-jaspers-tale.json](./104025-meowers-quest-jaspers-tale.json) |
 | MeowFactory | 403691 | [403691-meowfactory.json](./403691-meowfactory.json) |
+| Meowgic | 394435 | [394435-meowgic.json](./394435-meowgic.json) |
 | MeowGun: Hell Denizen | 244190 | [244190-meowgun-hell-denizen.json](./244190-meowgun-hell-denizen.json) |
 | Meowingtons Simulator | 326384 | [326384-meowingtons-simulator.json](./326384-meowingtons-simulator.json) |
 | Meowk and Frocco | 118799 | [118799-meowk-and-frocco.json](./118799-meowk-and-frocco.json) |
@@ -8712,6 +8716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mujinkun no Chotto Arukanai? | 284449 | [284449-mujinkun-no-chotto-arukanai.json](./284449-mujinkun-no-chotto-arukanai.json) |
 | Mujintou Monogatari | 37917 | [37917-mujintou-monogatari.json](./37917-mujintou-monogatari.json) |
 | Mujintou Monogatari Memorial Version | 58461 | [58461-mujintou-monogatari-memorial-version.json](./58461-mujintou-monogatari-memorial-version.json) |
+| Mujun's Casefile: The Mystery Mansion | 394431 | [394431-mujuns-casefile-the-mystery-mansion.json](./394431-mujuns-casefile-the-mystery-mansion.json) |
 | Mukaeute Uchuu Gundan Galack | 66130 | [66130-mukaeute-uchuu-gundan-galack.json](./66130-mukaeute-uchuu-gundan-galack.json) |
 | Mukbang 3D | 240883 | [240883-mukbang-3d.json](./240883-mukbang-3d.json) |
 | Mukougawa no Reisetsu | 341594 | [341594-mukougawa-no-reisetsu.json](./341594-mukougawa-no-reisetsu.json) |
