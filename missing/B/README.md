@@ -502,6 +502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bailout Wars | 41518 | [41518-bailout-wars.json](./41518-bailout-wars.json) |
 | Baimason's Thing Finder Puzzle | 293612 | [293612-baimasons-thing-finder-puzzle.json](./293612-baimasons-thing-finder-puzzle.json) |
 | Baise Lesbienne! | 206731 | [206731-baise-lesbienne.json](./206731-baise-lesbienne.json) |
+| Baitcore | 415189 | [415189-baitcore.json](./415189-baitcore.json) |
 | Bàito | 312125 | [312125-baito.json](./312125-baito.json) |
 | Baja or Bust | 259245 | [259245-baja-or-bust.json](./259245-baja-or-bust.json) |
 | Bajka | 348315 | [348315-bajka.json](./348315-bajka.json) |
@@ -647,6 +648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Drop | 338188 | [338188-ball-drop.json](./338188-ball-drop.json) |
 | Ball Dude Adventures | 176475 | [176475-ball-dude-adventures.json](./176475-ball-dude-adventures.json) |
 | Ball Escape | 99619 | [99619-ball-escape.json](./99619-ball-escape.json) |
+| Ball Game | 416033 | [416033-ball-game.json](./416033-ball-game.json) |
 | Ball Game | 75197 | [75197-ball-game.json](./75197-ball-game.json) |
 | Ball Game Remix | 217510 | [217510-ball-game-remix.json](./217510-ball-game-remix.json) |
 | Ball Gates | 102105 | [102105-ball-gates.json](./102105-ball-gates.json) |
@@ -850,6 +852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Party | 390008 | [390008-banana-party.json](./390008-banana-party.json) |
 | Banana Quest | 222847 | [222847-banana-quest.json](./222847-banana-quest.json) |
 | Banana Ranch | 303267 | [303267-banana-ranch.json](./303267-banana-ranch.json) |
+| Banana Republic | 416053 | [416053-banana-republic.json](./416053-banana-republic.json) |
 | Banana Sbang | 271179 | [271179-banana-sbang.json](./271179-banana-sbang.json) |
 | Banana Tap | 314875 | [314875-banana-tap.json](./314875-banana-tap.json) |
 | Banana-Shaped | 309490 | [309490-banana-shaped.json](./309490-banana-shaped.json) |
@@ -4196,6 +4199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Tower | 58824 | [58824-black-tower.json](./58824-black-tower.json) |
 | Black Turn: Operation Barbarossa 1941 | 22647 | [22647-black-turn-operation-barbarossa-1941.json](./22647-black-turn-operation-barbarossa-1941.json) |
 | Black Viper | 14311 | [14311-black-viper.json](./14311-black-viper.json) |
+| Black Walls | 415190 | [415190-black-walls.json](./415190-black-walls.json) |
 | Black Well Devil | 410331 | [410331-black-well-devil.json](./410331-black-well-devil.json) |
 | Black Werewolf | 293099 | [293099-black-werewolf.json](./293099-black-werewolf.json) |
 | Black Widow | 18455 | [18455-black-widow.json](./18455-black-widow.json) |
@@ -4414,6 +4418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlankSpace | 178973 | [178973-blankspace.json](./178973-blankspace.json) |
 | Blanksword | 338720 | [338720-blanksword.json](./338720-blanksword.json) |
 | BlapRacer | 71507 | [71507-blapracer.json](./71507-blapracer.json) |
+| Blargle and the Quest for the Nothing Burger | 415208 | [415208-blargle-and-the-quest-for-the-nothing-burger.json](./415208-blargle-and-the-quest-for-the-nothing-burger.json) |
 | Blaseball | 136475 | [136475-blaseball.json](./136475-blaseball.json) |
 | Blasphemous + Blasphemous 2 Bundle | 274522 | [274522-blasphemous-blasphemous-2-bundle.json](./274522-blasphemous-blasphemous-2-bundle.json) |
 | Blasphemous Experiments | 268723 | [268723-blasphemous-experiments.json](./268723-blasphemous-experiments.json) |
@@ -5526,6 +5531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoboInvasion | 287777 | [287777-boboinvasion.json](./287777-boboinvasion.json) |
 | Bobos FunZone | 278557 | [278557-bobos-funzone.json](./278557-bobos-funzone.json) |
 | Bobr Kurwa | 297241 | [297241-bobr-kurwa.json](./297241-bobr-kurwa.json) |
+| Bobrix | 415199 | [415199-bobrix.json](./415199-bobrix.json) |
 | Bobrkur | 368551 | [368551-bobrkur.json](./368551-bobrkur.json) |
 | BobsleighX | 265718 | [265718-bobsleighx.json](./265718-bobsleighx.json) |
 | BobSP Series | 272000 | [272000-bobsp-series.json](./272000-bobsp-series.json) |
@@ -5604,6 +5610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boing! Docomodake DS | 21473 | [21473-boing-docomodake-ds.json](./21473-boing-docomodake-ds.json) |
 | Boinihi: The Ki Codex | 172188 | [172188-boinihi-the-ki-codex.json](./172188-boinihi-the-ki-codex.json) |
 | Boink Zoink Hoink | 90100 | [90100-boink-zoink-hoink.json](./90100-boink-zoink-hoink.json) |
+| Boitatá: Wilderness Reborn | 415179 | [415179-boitata-wilderness-reborn.json](./415179-boitata-wilderness-reborn.json) |
 | Bok-Bok: A Chicken Dating Sim | 148930 | [148930-bok-bok-a-chicken-dating-sim.json](./148930-bok-bok-a-chicken-dating-sim.json) |
 | BoKe Travelog | 292128 | [292128-boke-travelog.json](./292128-boke-travelog.json) |
 | Bokehme | 201761 | [201761-bokehme.json](./201761-bokehme.json) |
@@ -5955,6 +5962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Booking Revolution | 76991 | [76991-booking-revolution.json](./76991-booking-revolution.json) |
 | Bookmark Hero | 404936 | [404936-bookmark-hero.json](./404936-bookmark-hero.json) |
 | Books | 55327 | [55327-books.json](./55327-books.json) |
+| Books for Bad Neighbors | 416042 | [416042-books-for-bad-neighbors.json](./416042-books-for-bad-neighbors.json) |
 | Books of Grandura | 245806 | [245806-books-of-grandura.json](./245806-books-of-grandura.json) |
 | Bookshop Simulator | 337720 | [337720-bookshop-simulator.json](./337720-bookshop-simulator.json) |
 | Bookstore Dream | 62950 | [62950-bookstore-dream.json](./62950-bookstore-dream.json) |
