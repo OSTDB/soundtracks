@@ -471,6 +471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Cream Simulator | 345665 | [345665-ice-cream-simulator.json](./345665-ice-cream-simulator.json) |
 | Ice Cream Trip | 207829 | [207829-ice-cream-trip.json](./207829-ice-cream-trip.json) |
 | Ice Cream Truck | 155511 | [155511-ice-cream-truck.json](./155511-ice-cream-truck.json) |
+| Ice Cream Truck! | 90789 | [90789-ice-cream-truck.json](./90789-ice-cream-truck.json) |
 | Ice Cream Uncle | 88214 | [88214-ice-cream-uncle.json](./88214-ice-cream-uncle.json) |
 | Ice Cream: Super Stacking Slot Machine | 345114 | [345114-ice-cream-super-stacking-slot-machine.json](./345114-ice-cream-super-stacking-slot-machine.json) |
 | Ice Crush 10.000 BC | 300725 | [300725-ice-crush-10-000-bc.json](./300725-ice-crush-10-000-bc.json) |
