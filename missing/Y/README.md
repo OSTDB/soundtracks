@@ -606,6 +606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Young Wife Elf's Netorase RPG: Irena | 134643 | [134643-young-wife-elfs-netorase-rpg-irena.json](./134643-young-wife-elfs-netorase-rpg-irena.json) |
 | Young Wife Yuka's Good Day to Cheat | 98404 | [98404-young-wife-yukas-good-day-to-cheat.json](./98404-young-wife-yukas-good-day-to-cheat.json) |
 | Youngblood: Search and Destroy | 202395 | [202395-youngblood-search-and-destroy.json](./202395-youngblood-search-and-destroy.json) |
+| Your “Hidden Side” Test | 399796 | [399796-your-hidden-side-test.json](./399796-your-hidden-side-test.json) |
 | Your Android | 329644 | [329644-your-android.json](./329644-your-android.json) |
 | Your Best Nightmare | 176909 | [176909-your-best-nightmare.json](./176909-your-best-nightmare.json) |
 | Your Blue Room | 185616 | [185616-your-blue-room.json](./185616-your-blue-room.json) |
@@ -654,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Time Is Mine | 82945 | [82945-your-time-is-mine.json](./82945-your-time-is-mine.json) |
 | Your Time to Shine: Island Existence | 205610 | [205610-your-time-to-shine-island-existence.json](./205610-your-time-to-shine-island-existence.json) |
 | Your Train 2 | 267085 | [267085-your-train-2.json](./267085-your-train-2.json) |
+| Your True Nature Test | 399797 | [399797-your-true-nature-test.json](./399797-your-true-nature-test.json) |
 | Your Turn to Die: Death Game by Majority | 120974 | [120974-your-turn-to-die-death-game-by-majority.json](./120974-your-turn-to-die-death-game-by-majority.json) |
 | Your Turn To Thrive | 413776 | [413776-your-turn-to-thrive.json](./413776-your-turn-to-thrive.json) |
 | Your Very Last Words | 352760 | [352760-your-very-last-words.json](./352760-your-very-last-words.json) |
