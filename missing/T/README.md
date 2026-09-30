@@ -2985,6 +2985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Battles of Napoleon | 54436 | [54436-the-battles-of-napoleon.json](./54436-the-battles-of-napoleon.json) |
 | The Battles of Spwak 3 | 126601 | [126601-the-battles-of-spwak-3.json](./126601-the-battles-of-spwak-3.json) |
 | The Baumman Box | 372452 | [372452-the-baumman-box.json](./372452-the-baumman-box.json) |
+| The Bean Machine | 408228 | [408228-the-bean-machine.json](./408228-the-bean-machine.json) |
 | The Bean Trials | 337665 | [337665-the-bean-trials.json](./337665-the-bean-trials.json) |
 | The Beanstalk | 82041 | [82041-the-beanstalk.json](./82041-the-beanstalk.json) |
 | The Bear and The Admiral | 175820 | [175820-the-bear-and-the-admiral.json](./175820-the-bear-and-the-admiral.json) |
@@ -4443,6 +4444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Finals: Season 7 - The Divide | 347873 | [347873-the-finals-season-7-the-divide.json](./347873-the-finals-season-7-the-divide.json) |
 | The Finals: Season 9 - Dragon Rising | 381152 | [381152-the-finals-season-9-dragon-rising.json](./381152-the-finals-season-9-dragon-rising.json) |
 | The Find | 326989 | [326989-the-find.json](./326989-the-find.json) |
+| The Finest Spark | 408235 | [408235-the-finest-spark.json](./408235-the-finest-spark.json) |
 | The Fire Nobody Started | 332067 | [332067-the-fire-nobody-started.json](./332067-the-fire-nobody-started.json) |
 | The Fire Rises | 321742 | [321742-the-fire-rises.json](./321742-the-fire-rises.json) |
 | The Firebrand | 295246 | [295246-the-firebrand.json](./295246-the-firebrand.json) |
@@ -6033,6 +6035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Light of Celestia | 335268 | [335268-the-light-of-celestia.json](./335268-the-light-of-celestia.json) |
 | The Light of the Darkness: Origins | 274568 | [274568-the-light-of-the-darkness-origins.json](./274568-the-light-of-the-darkness-origins.json) |
 | The Lighthouse | 378395 | [378395-the-lighthouse.json](./378395-the-lighthouse.json) |
+| The Lighthouse | 408237 | [408237-the-lighthouse.json](./408237-the-lighthouse.json) |
 | The Lighthouse \| VR Escape Room | 111710 | [111710-the-lighthouse-vr-escape-room.json](./111710-the-lighthouse-vr-escape-room.json) |
 | The Lighthouse of São Bento do Oeste | 192894 | [192894-the-lighthouse-of-sao-bento-do-oeste.json](./192894-the-lighthouse-of-sao-bento-do-oeste.json) |
 | The Lighthouse Secrets | 348428 | [348428-the-lighthouse-secrets.json](./348428-the-lighthouse-secrets.json) |
@@ -7803,6 +7806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Singing Saw Simulator | 289963 | [289963-the-singing-saw-simulator.json](./289963-the-singing-saw-simulator.json) |
 | The Sinister Fairground: Horror Adventure Gamebook | 175303 | [175303-the-sinister-fairground-horror-adventure-gamebook.json](./175303-the-sinister-fairground-horror-adventure-gamebook.json) |
 | The Sink Gods | 175884 | [175884-the-sink-gods.json](./175884-the-sink-gods.json) |
+| The Sinkhole | 408117 | [408117-the-sinkhole.json](./408117-the-sinkhole.json) |
 | The Sinking City 2 | 289696 | [289696-the-sinking-city-2.json](./289696-the-sinking-city-2.json) |
 | The Sinking City Remastered | 343363 | [343363-the-sinking-city-remastered.json](./343363-the-sinking-city-remastered.json) |
 | The Sinking City: Investigator Pack | 308567 | [308567-the-sinking-city-investigator-pack.json](./308567-the-sinking-city-investigator-pack.json) |
