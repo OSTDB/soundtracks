@@ -1269,6 +1269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killzone | 1865 | [1865-killzone.json](./1865-killzone.json) |
 | Killzone 2 | 1866 | [1866-killzone-2.json](./1866-killzone-2.json) |
 | Killzone: Collector's Edition | 43422 | [43422-killzone-collectors-edition.json](./43422-killzone-collectors-edition.json) |
+| Killzone: Liberation | 408989 | [408989-killzone-liberation.json](./408989-killzone-liberation.json) |
 | Killzone: Liberation - Chapter 5 DLC | 243224 | [243224-killzone-liberation-chapter-5-dlc.json](./243224-killzone-liberation-chapter-5-dlc.json) |
 | Killzone: Shadow Fall | 1937 | [1937-killzone-shadow-fall.json](./1937-killzone-shadow-fall.json) |
 | Killzone: Special Limited Edition | 43261 | [43261-killzone-special-limited-edition.json](./43261-killzone-special-limited-edition.json) |
@@ -2018,6 +2019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klorbiest Catch | 410324 | [410324-klorbiest-catch.json](./410324-klorbiest-catch.json) |
 | Klotski Unblock | 90828 | [90828-klotski-unblock.json](./90828-klotski-unblock.json) |
 | Klotski+ | 221707 | [221707-klotski.json](./221707-klotski.json) |
+| Kluber's Adventure | 408985 | [408985-klubers-adventure.json](./408985-klubers-adventure.json) |
 | Klung | 182533 | [182533-klung.json](./182533-klung.json) |
 | Kluno: A Kid's Dream | 26767 | [26767-kluno-a-kids-dream.json](./26767-kluno-a-kids-dream.json) |
 | Klustar | 93363 | [93363-klustar.json](./93363-klustar.json) |
