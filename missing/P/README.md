@@ -1371,6 +1371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Passport to Rome | 55847 | [55847-passport-to-rome.json](./55847-passport-to-rome.json) |
 | Password | 135304 | [135304-password.json](./135304-password.json) |
 | Password Manager | 401499 | [401499-password-manager.json](./401499-password-manager.json) |
+| Password Not Valid | 410949 | [410949-password-not-valid.json](./410949-password-not-valid.json) |
 | Past Apparitions | 383499 | [383499-past-apparitions.json](./383499-past-apparitions.json) |
 | Past Due | 96232 | [96232-past-due.json](./96232-past-due.json) |
 | Past Fate | 123029 | [123029-past-fate.json](./123029-past-fate.json) |
@@ -4133,6 +4134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Place & Learn 19×19 Mental Math | 409550 | [409550-place-and-learn-19-19-mental-math.json](./409550-place-and-learn-19-19-mental-math.json) |
 | Place for Hero | 153907 | [153907-place-for-hero.json](./153907-place-for-hero.json) |
 | Place Icebergs Apart | 318190 | [318190-place-icebergs-apart.json](./318190-place-icebergs-apart.json) |
+| Place: Weapon Workshop | 411079 | [411079-place-weapon-workshop.json](./411079-place-weapon-workshop.json) |
 | Placebo Love | 150074 | [150074-placebo-love.json](./150074-placebo-love.json) |
 | Placefront | 170322 | [170322-placefront.json](./170322-placefront.json) |
 | Placeless | 291755 | [291755-placeless.json](./291755-placeless.json) |
@@ -5785,6 +5787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porky's | 22761 | [22761-porkys.json](./22761-porkys.json) |
 | Porno Empire | 270786 | [270786-porno-empire.json](./270786-porno-empire.json) |
 | Pornocrates | 158065 | [158065-pornocrates.json](./158065-pornocrates.json) |
+| Pornographer | 411054 | [411054-pornographer.json](./411054-pornographer.json) |
 | Porntris | 299467 | [299467-porntris.json](./299467-porntris.json) |
 | Porpetha | 249882 | [249882-porpetha.json](./249882-porpetha.json) |
 | Porradaria Upgrade | 91973 | [91973-porradaria-upgrade.json](./91973-porradaria-upgrade.json) |
@@ -5963,6 +5966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potion Commotion | 246494 | [246494-potion-commotion.json](./246494-potion-commotion.json) |
 | Potion Commotion: Heart Edition | 135697 | [135697-potion-commotion-heart-edition.json](./135697-potion-commotion-heart-edition.json) |
 | Potion Craft | 142941 | [142941-potion-craft.json](./142941-potion-craft.json) |
+| Potion Dealer | 411087 | [411087-potion-dealer.json](./411087-potion-dealer.json) |
 | Potion Explosion | 86850 | [86850-potion-explosion.json](./86850-potion-explosion.json) |
 | Potion Explosion: The Fifth Ingredient | 171463 | [171463-potion-explosion-the-fifth-ingredient.json](./171463-potion-explosion-the-fifth-ingredient.json) |
 | Potion in Motion | 341559 | [341559-potion-in-motion.json](./341559-potion-in-motion.json) |
@@ -6589,6 +6593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Strike! | 63347 | [63347-princess-strike.json](./63347-princess-strike.json) |
 | Princess Tomato in the Salad Kingdom | 48221 | [48221-princess-tomato-in-the-salad-kingdom.json](./48221-princess-tomato-in-the-salad-kingdom.json) |
 | Princess War | 39000 | [39000-princess-war.json](./39000-princess-war.json) |
+| Princess Witches Excellent | 410953 | [410953-princess-witches-excellent.json](./410953-princess-witches-excellent.json) |
 | Princess: The East and the Expedition | 308902 | [308902-princess-the-east-and-the-expedition.json](./308902-princess-the-east-and-the-expedition.json) |
 | Princess.Loot.Pixel.Again x2 | 79101 | [79101-princess-loot-pixel-again-x2.json](./79101-princess-loot-pixel-again-x2.json) |
 | Princesses Lylop: Royal Puzzle Challenge | 328495 | [328495-princesses-lylop-royal-puzzle-challenge.json](./328495-princesses-lylop-royal-puzzle-challenge.json) |
