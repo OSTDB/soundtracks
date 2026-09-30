@@ -2104,6 +2104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Swap: End As One | 231350 | [231350-death-swap-end-as-one.json](./231350-death-swap-end-as-one.json) |
 | Death Sword | 4639 | [4639-death-sword.json](./4639-death-sword.json) |
 | Death Tank | 21259 | [21259-death-tank.json](./21259-death-tank.json) |
+| Death That Blooms Into a Flower | 388300 | [388300-death-that-blooms-into-a-flower.json](./388300-death-that-blooms-into-a-flower.json) |
 | Death the Guitar | 257925 | [257925-death-the-guitar.json](./257925-death-the-guitar.json) |
 | Death to Spies | 9376 | [9376-death-to-spies.json](./9376-death-to-spies.json) |
 | Death to Spies: Gold Edition | 51291 | [51291-death-to-spies-gold-edition.json](./51291-death-to-spies-gold-edition.json) |
@@ -3249,6 +3250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Heroes | 361291 | [361291-desktop-heroes.json](./361291-desktop-heroes.json) |
 | Desktop Island: Idle Together! | 412456 | [412456-desktop-island-idle-together.json](./412456-desktop-island-idle-together.json) |
 | Desktop Mark | 253589 | [253589-desktop-mark.json](./253589-desktop-mark.json) |
+| Desktop Mars | 388330 | [388330-desktop-mars.json](./388330-desktop-mars.json) |
 | Desktop Pals | 306687 | [306687-desktop-pals.json](./306687-desktop-pals.json) |
 | Desktop Pasture | 360667 | [360667-desktop-pasture.json](./360667-desktop-pasture.json) |
 | Desktop Pet | 265195 | [265195-desktop-pet.json](./265195-desktop-pet.json) |
