@@ -1350,6 +1350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency: Fighters for Life | 79837 | [79837-emergency-fighters-for-life.json](./79837-emergency-fighters-for-life.json) |
 | Emergency: Road Services Simulator | 217410 | [217410-emergency-road-services-simulator.json](./217410-emergency-road-services-simulator.json) |
 | Emergency! Disaster Rescue Squad | 339374 | [339374-emergency-disaster-rescue-squad.json](./339374-emergency-disaster-rescue-squad.json) |
+| EmergencyCrank | 412485 | [412485-emergencycrank.json](./412485-emergencycrank.json) |
 | Emergents Trading Card Game | 183603 | [183603-emergents-trading-card-game.json](./183603-emergents-trading-card-game.json) |
 | Emerging Tactical | 278421 | [278421-emerging-tactical.json](./278421-emerging-tactical.json) |
 | Emerland Solitaire: Endless Journey | 32079 | [32079-emerland-solitaire-endless-journey.json](./32079-emerland-solitaire-endless-journey.json) |
