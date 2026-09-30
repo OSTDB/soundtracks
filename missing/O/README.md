@@ -206,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean's Crabellum | 74372 | [74372-oceans-crabellum.json](./74372-oceans-crabellum.json) |
 | Oceanarium World | 291549 | [291549-oceanarium-world.json](./291549-oceanarium-world.json) |
 | OceanDive | 94369 | [94369-oceandive.json](./94369-oceandive.json) |
+| Oceanhorn 3: Legend of the Shadow Sea | 391260 | [391260-oceanhorn-3-legend-of-the-shadow-sea.json](./391260-oceanhorn-3-legend-of-the-shadow-sea.json) |
 | Oceanhorn: Chronos Dungeon | 142346 | [142346-oceanhorn-chronos-dungeon.json](./142346-oceanhorn-chronos-dungeon.json) |
 | Oceanhorn: Monster of Uncharted Seas | 18975 | [18975-oceanhorn-monster-of-uncharted-seas.json](./18975-oceanhorn-monster-of-uncharted-seas.json) |
 | Oceanic Discoveries Duo | 271830 | [271830-oceanic-discoveries-duo.json](./271830-oceanic-discoveries-duo.json) |
@@ -1627,6 +1628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operação Prato | 294302 | [294302-operacao-prato.json](./294302-operacao-prato.json) |
 | Operación Tigre Blanco | 316777 | [316777-operacion-tigre-blanco.json](./316777-operacion-tigre-blanco.json) |
 | Operación: Bomba | 325624 | [325624-operacion-bomba.json](./325624-operacion-bomba.json) |
+| Operasyon: Pars | 391294 | [391294-operasyon-pars.json](./391294-operasyon-pars.json) |
 | Operate Now: Hospital | 87022 | [87022-operate-now-hospital.json](./87022-operate-now-hospital.json) |
 | Operation | 94216 | [94216-operation.json](./94216-operation.json) |
 | Operation Abyss: New Tokyo Legacy - Launch Edition | 89917 | [89917-operation-abyss-new-tokyo-legacy-launch-edition.json](./89917-operation-abyss-new-tokyo-legacy-launch-edition.json) |
