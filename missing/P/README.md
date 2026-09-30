@@ -2706,6 +2706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photo Finish | 110533 | [110533-photo-finish.json](./110533-photo-finish.json) |
 | Photo Genic | 283709 | [283709-photo-genic.json](./283709-photo-genic.json) |
 | Photo Girls: First Session | 396435 | [396435-photo-girls-first-session.json](./396435-photo-girls-first-session.json) |
+| Photo Girls: Raw Photo | 399784 | [399784-photo-girls-raw-photo.json](./399784-photo-girls-raw-photo.json) |
 | Photo Kano | 77420 | [77420-photo-kano.json](./77420-photo-kano.json) |
 | Photo Phantasy | 47959 | [47959-photo-phantasy.json](./47959-photo-phantasy.json) |
 | Photo Quiz: 4 pics, 1 thing in common - what’s the word? | 232568 | [232568-photo-quiz-4-pics-1-thing-in-common-what-s-the-word.json](./232568-photo-quiz-4-pics-1-thing-in-common-what-s-the-word.json) |
@@ -4345,6 +4346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetstar Warrior | 290689 | [290689-planetstar-warrior.json](./290689-planetstar-warrior.json) |
 | Planeturem | 326259 | [326259-planeturem.json](./326259-planeturem.json) |
 | PlanetX | 368004 | [368004-planetx.json](./368004-planetx.json) |
+| PlaneWorld | 399758 | [399758-planeworld.json](./399758-planeworld.json) |
 | Planisphere | 308430 | [308430-planisphere.json](./308430-planisphere.json) |
 | Planitis | 212290 | [212290-planitis.json](./212290-planitis.json) |
 | Plank! | 105913 | [105913-plank.json](./105913-plank.json) |
@@ -8487,6 +8489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramid Patrol | 94715 | [94715-pyramid-patrol.json](./94715-pyramid-patrol.json) |
 | Pyramid Plunder | 105399 | [105399-pyramid-plunder.json](./105399-pyramid-plunder.json) |
 | Pyramid Power | 71535 | [71535-pyramid-power.json](./71535-pyramid-power.json) |
+| Pyramid Quest Bundle | 399801 | [399801-pyramid-quest-bundle.json](./399801-pyramid-quest-bundle.json) |
 | Pyramid Raid | 26871 | [26871-pyramid-raid.json](./26871-pyramid-raid.json) |
 | Pyramid Schemes and Cults | 280300 | [280300-pyramid-schemes-and-cults.json](./280300-pyramid-schemes-and-cults.json) |
 | Pyramid Solitaire | 304761 | [304761-pyramid-solitaire.json](./304761-pyramid-solitaire.json) |
