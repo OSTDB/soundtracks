@@ -816,6 +816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Tomaday | 40981 | [40981-captain-tomaday.json](./40981-captain-tomaday.json) |
 | Captain Tsubasa | 213601 | [213601-captain-tsubasa.json](./213601-captain-tsubasa.json) |
 | Captain Tsubasa | 78088 | [78088-captain-tsubasa.json](./78088-captain-tsubasa.json) |
+| Captain Tsubasa II: World Fighters | 388427 | [388427-captain-tsubasa-ii-world-fighters.json](./388427-captain-tsubasa-ii-world-fighters.json) |
 | Captain Tsubasa III: Koutei no Chousen | 38340 | [38340-captain-tsubasa-iii-koutei-no-chousen.json](./38340-captain-tsubasa-iii-koutei-no-chousen.json) |
 | Captain Tsubasa J: Get in the Tomorrow | 45320 | [45320-captain-tsubasa-j-get-in-the-tomorrow.json](./45320-captain-tsubasa-j-get-in-the-tomorrow.json) |
 | Captain Tsubasa J: Zenkoku Seiha he no Chousen | 65009 | [65009-captain-tsubasa-j-zenkoku-seiha-he-no-chousen.json](./65009-captain-tsubasa-j-zenkoku-seiha-he-no-chousen.json) |
@@ -4972,6 +4973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codename: Bakery Girl | 113467 | [113467-codename-bakery-girl.json](./113467-codename-bakery-girl.json) |
 | Codename: Cupid | 238414 | [238414-codename-cupid.json](./238414-codename-cupid.json) |
 | Codename: God | 305947 | [305947-codename-god.json](./305947-codename-god.json) |
+| Codename: Kids Next Door - Operation: V.I.D.E.O.G.A.M.E. | 2812 | [2812-codename-kids-next-door-operation-v-i-d-e-o-g-a-m-e.json](./2812-codename-kids-next-door-operation-v-i-d-e-o-g-a-m-e.json) |
 | Codename: Mystery Babylon | 157154 | [157154-codename-mystery-babylon.json](./157154-codename-mystery-babylon.json) |
 | Codename: Nanxiangzi | 288826 | [288826-codename-nanxiangzi.json](./288826-codename-nanxiangzi.json) |
 | Codename: Panzers - Cold War | 15762 | [15762-codename-panzers-cold-war.json](./15762-codename-panzers-cold-war.json) |
@@ -8146,6 +8148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader: No Remorse | 7840 | [7840-crusader-no-remorse.json](./7840-crusader-no-remorse.json) |
 | Crusaders Arena | 260406 | [260406-crusaders-arena.json](./260406-crusaders-arena.json) |
 | Crusaders Quest: Hero Town | 397208 | [397208-crusaders-quest-hero-town.json](./397208-crusaders-quest-hero-town.json) |
+| Crusaders: Thy Kingdom Come | 2011 | [2011-crusaders-thy-kingdom-come.json](./2011-crusaders-thy-kingdom-come.json) |
 | CrusaDoom | 310608 | [310608-crusadoom.json](./310608-crusadoom.json) |
 | Crush | 6753 | [6753-crush.json](./6753-crush.json) |
 | Crush & Squash | 75805 | [75805-crush-and-squash.json](./75805-crush-and-squash.json) |
