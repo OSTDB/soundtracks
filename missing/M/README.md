@@ -2791,6 +2791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Payne 2: Mona the Assassin | 320154 | [320154-max-payne-2-mona-the-assassin.json](./320154-max-payne-2-mona-the-assassin.json) |
 | Max Payne: Kung Fu Edition v3 | 24085 | [24085-max-payne-kung-fu-edition-v3.json](./24085-max-payne-kung-fu-edition-v3.json) |
 | Max Reloaded II | 146798 | [146798-max-reloaded-ii.json](./146798-max-reloaded-ii.json) |
+| Max Savage | 398489 | [398489-max-savage.json](./398489-max-savage.json) |
 | Max Speed | 409543 | [409543-max-speed.json](./409543-max-speed.json) |
 | Max Steel: Laptop Bilíngue Power | 294463 | [294463-max-steel-laptop-bilingue-power.json](./294463-max-steel-laptop-bilingue-power.json) |
 | Max Steel: Max Technical | 294464 | [294464-max-steel-max-technical.json](./294464-max-steel-max-technical.json) |
@@ -2864,6 +2865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayday: Conflict Earth | 36932 | [36932-mayday-conflict-earth.json](./36932-mayday-conflict-earth.json) |
 | Mayday: The Survival Island | 169856 | [169856-mayday-the-survival-island.json](./169856-mayday-the-survival-island.json) |
 | Mayflower Reflections | 191836 | [191836-mayflower-reflections.json](./191836-mayflower-reflections.json) |
+| Mayfly | 398395 | [398395-mayfly.json](./398395-mayfly.json) |
 | Mayhem | 186051 | [186051-mayhem.json](./186051-mayhem.json) |
 | Mayhem | 217254 | [217254-mayhem.json](./217254-mayhem.json) |
 | Mayhem | 403758 | [403758-mayhem.json](./403758-mayhem.json) |
@@ -6790,6 +6792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mojito the Cat: Platina Edition | 262364 | [262364-mojito-the-cat-platina-edition.json](./262364-mojito-the-cat-platina-edition.json) |
 | Mojo Master | 66702 | [66702-mojo-master.json](./66702-mojo-master.json) |
 | Mojo Melee | 223479 | [223479-mojo-melee.json](./223479-mojo-melee.json) |
+| Mojo Party | 398528 | [398528-mojo-party.json](./398528-mojo-party.json) |
 | Mojo XXX | 292684 | [292684-mojo-xxx.json](./292684-mojo-xxx.json) |
 | MOK: Super Space Taxi | 119706 | [119706-mok-super-space-taxi.json](./119706-mok-super-space-taxi.json) |
 | Mokete | 266472 | [266472-mokete.json](./266472-mokete.json) |
