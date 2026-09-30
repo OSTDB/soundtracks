@@ -913,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paprika Trainer | 280263 | [280263-paprika-trainer.json](./280263-paprika-trainer.json) |
 | Paprium | 55107 | [55107-paprium.json](./55107-paprium.json) |
 | Papuan Dominatrixes Are the Best | 385704 | [385704-papuan-dominatrixes-are-the-best.json](./385704-papuan-dominatrixes-are-the-best.json) |
+| Papy Panic | 391263 | [391263-papy-panic.json](./391263-papy-panic.json) |
 | Papyrus | 49864 | [49864-papyrus.json](./49864-papyrus.json) |
 | Par 1 Golf | 200103 | [200103-par-1-golf.json](./200103-par-1-golf.json) |
 | Par 1 Golf 10 | 200181 | [200181-par-1-golf-10.json](./200181-par-1-golf-10.json) |
@@ -3466,6 +3467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pip Pepper Park Planner | 347116 | [347116-pip-pepper-park-planner.json](./347116-pip-pepper-park-planner.json) |
 | Pip: Battle for the Arctic | 240723 | [240723-pip-battle-for-the-arctic.json](./240723-pip-battle-for-the-arctic.json) |
 | Pip! | 123445 | [123445-pip.json](./123445-pip.json) |
+| Pip's Potion Shop | 391289 | [391289-pips-potion-shop.json](./391289-pips-potion-shop.json) |
 | Pip's Tale | 382449 | [382449-pips-tale.json](./382449-pips-tale.json) |
 | Pipe by BMX Streets | 89977 | [89977-pipe-by-bmx-streets.json](./89977-pipe-by-bmx-streets.json) |
 | Pipe Connect | 290422 | [290422-pipe-connect.json](./290422-pipe-connect.json) |
@@ -8070,6 +8072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purple Pink Summer Beach | 299227 | [299227-purple-pink-summer-beach.json](./299227-purple-pink-summer-beach.json) |
 | Purple Place | 268978 | [268978-purple-place.json](./268978-purple-place.json) |
 | Purple Slime Production Line | 298581 | [298581-purple-slime-production-line.json](./298581-purple-slime-production-line.json) |
+| Purple Tentacle | 391274 | [391274-purple-tentacle.json](./391274-purple-tentacle.json) |
 | Purple Turtles | 62685 | [62685-purple-turtles.json](./62685-purple-turtles.json) |
 | Purple War | 198541 | [198541-purple-war.json](./198541-purple-war.json) |
 | Purplearc | 374598 | [374598-purplearc.json](./374598-purplearc.json) |
