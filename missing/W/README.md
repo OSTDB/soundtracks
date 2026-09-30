@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu Impact 2 | 321542 | [321542-waifu-impact-2.json](./321542-waifu-impact-2.json) |
 | Waifu Love | 161410 | [161410-waifu-love.json](./161410-waifu-love.json) |
 | Waifu Museum | 223162 | [223162-waifu-museum.json](./223162-waifu-museum.json) |
+| Waifu Pogo Club | 390750 | [390750-waifu-pogo-club.json](./390750-waifu-pogo-club.json) |
 | Waifu Quest 2 | 311813 | [311813-waifu-quest-2.json](./311813-waifu-quest-2.json) |
 | Waifu Secret 2 | 149420 | [149420-waifu-secret-2.json](./149420-waifu-secret-2.json) |
 | Waifu Space Conquest | 250383 | [250383-waifu-space-conquest.json](./250383-waifu-space-conquest.json) |
@@ -1026,6 +1027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Was It Worth It? | 152811 | [152811-was-it-worth-it.json](./152811-was-it-worth-it.json) |
 | Wasabi Game | 245044 | [245044-wasabi-game.json](./245044-wasabi-game.json) |
 | WASD: The Adventure of Tori | 358333 | [358333-wasd-the-adventure-of-tori.json](./358333-wasd-the-adventure-of-tori.json) |
+| Wash & Warm | 390728 | [390728-wash-and-warm.json](./390728-wash-and-warm.json) |
 | Wash Card | 223705 | [223705-wash-card.json](./223705-wash-card.json) |
 | Wash Simulator: Clean Garage, House, Cars Business Tycoons | 259617 | [259617-wash-simulator-clean-garage-house-cars-business-tycoons.json](./259617-wash-simulator-clean-garage-house-cars-business-tycoons.json) |
 | Wash Simulator: Clean Garage, House, Cars Business Tycoons - Extended Edition | 328818 | [328818-wash-simulator-clean-garage-house-cars-business-tycoons-extended-edition.json](./328818-wash-simulator-clean-garage-house-cars-business-tycoons-extended-edition.json) |
@@ -1738,6 +1740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Comes After | 142382 | [142382-what-comes-after.json](./142382-what-comes-after.json) |
 | What Comes Next | 332974 | [332974-what-comes-next.json](./332974-what-comes-next.json) |
 | What da Yak | 214758 | [214758-what-da-yak.json](./214758-what-da-yak.json) |
+| What Did the Chicken See | 390746 | [390746-what-did-the-chicken-see.json](./390746-what-did-the-chicken-see.json) |
 | What do I want? | 178498 | [178498-what-do-i-want.json](./178498-what-do-i-want.json) |
 | What Do You Know? | 234723 | [234723-what-do-you-know.json](./234723-what-do-you-know.json) |
 | What Goes Pumpkin the Night | 186181 | [186181-what-goes-pumpkin-the-night.json](./186181-what-goes-pumpkin-the-night.json) |
@@ -3677,6 +3680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worker Riot | 203554 | [203554-worker-riot.json](./203554-worker-riot.json) |
 | Workers & Resources: Soviet Republic | 103065 | [103065-workers-and-resources-soviet-republic.json](./103065-workers-and-resources-soviet-republic.json) |
 | Workhorse | 357861 | [357861-workhorse.json](./357861-workhorse.json) |
+| Working Class Monsters | 390758 | [390758-working-class-monsters.json](./390758-working-class-monsters.json) |
 | Working Dawgs: A-Maze-ing Pipes | 23585 | [23585-working-dawgs-a-maze-ing-pipes.json](./23585-working-dawgs-a-maze-ing-pipes.json) |
 | Working Dawgs: Rivet Retriever | 84936 | [84936-working-dawgs-rivet-retriever.json](./84936-working-dawgs-rivet-retriever.json) |
 | Working Days | 408762 | [408762-working-days.json](./408762-working-days.json) |
