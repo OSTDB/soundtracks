@@ -1276,6 +1276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawntown | 301341 | [301341-dawntown.json](./301341-dawntown.json) |
 | DawnWander | 158525 | [158525-dawnwander.json](./158525-dawnwander.json) |
 | Day 11 | 263003 | [263003-day-11.json](./263003-day-11.json) |
+| Day 31 | 419946 | [419946-day-31.json](./419946-day-31.json) |
 | Day and Night | 124009 | [124009-day-and-night.json](./124009-day-and-night.json) |
 | Day at the Counter | 178596 | [178596-day-at-the-counter.json](./178596-day-at-the-counter.json) |
 | Day at the Office: Prologue | 315717 | [315717-day-at-the-office-prologue.json](./315717-day-at-the-office-prologue.json) |
@@ -8458,6 +8459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusklight Manor | 255096 | [255096-dusklight-manor.json](./255096-dusklight-manor.json) |
 | Dusky Cap | 343862 | [343862-dusky-cap.json](./343862-dusky-cap.json) |
 | Dusky Depths | 273628 | [273628-dusky-depths.json](./273628-dusky-depths.json) |
+| Dust & Diamonds | 419901 | [419901-dust-and-diamonds.json](./419901-dust-and-diamonds.json) |
 | Dust & Letters | 402915 | [402915-dust-and-letters.json](./402915-dust-and-letters.json) |
 | Dust & Neon | 215894 | [215894-dust-and-neon.json](./215894-dust-and-neon.json) |
 | Dust & Rain: Post-apocalyptic RPG | 301987 | [301987-dust-and-rain-post-apocalyptic-rpg.json](./301987-dust-and-rain-post-apocalyptic-rpg.json) |
