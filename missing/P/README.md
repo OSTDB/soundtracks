@@ -301,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pain Loop | 255767 | [255767-pain-loop.json](./255767-pain-loop.json) |
 | Pain Train | 29911 | [29911-pain-train.json](./29911-pain-train.json) |
 | Pain Train PainPocalypse | 52776 | [52776-pain-train-painpocalypse.json](./52776-pain-train-painpocalypse.json) |
+| Pain: Movie Studio | 21612 | [21612-pain-movie-studio.json](./21612-pain-movie-studio.json) |
 | Painajainen | 84220 | [84220-painajainen.json](./84220-painajainen.json) |
 | Paincult | 177022 | [177022-paincult.json](./177022-paincult.json) |
 | PainFighting | 255984 | [255984-painfighting.json](./255984-painfighting.json) |
@@ -6472,6 +6473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Connect! | 22792 | [22792-princess-connect.json](./22792-princess-connect.json) |
 | Princess Covenant | 367632 | [367632-princess-covenant.json](./367632-princess-covenant.json) |
 | Princess Crown | 45463 | [45463-princess-crown.json](./45463-princess-crown.json) |
+| Princess Debut | 21225 | [21225-princess-debut.json](./21225-princess-debut.json) |
 | Princess Edge: Dragonstone | 26525 | [26525-princess-edge-dragonstone.json](./26525-princess-edge-dragonstone.json) |
 | Princess escape | 174119 | [174119-princess-escape.json](./174119-princess-escape.json) |
 | Princess Evangile W Happiness | 140525 | [140525-princess-evangile-w-happiness.json](./140525-princess-evangile-w-happiness.json) |
