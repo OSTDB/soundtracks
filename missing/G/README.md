@@ -1539,6 +1539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Germ Crazy | 94669 | [94669-germ-crazy.json](./94669-germ-crazy.json) |
 | Germ Patrol | 42147 | [42147-germ-patrol.json](./42147-germ-patrol.json) |
 | Germ Warfare | 137537 | [137537-germ-warfare.json](./137537-germ-warfare.json) |
+| Germ Wars | 30482 | [30482-germ-wars.json](./30482-germ-wars.json) |
 | German 101 | 93543 | [93543-german-101.json](./93543-german-101.json) |
 | Gërman Boy | 331889 | [331889-german-boy.json](./331889-german-boy.json) |
 | German Road Racer Pro | 100731 | [100731-german-road-racer-pro.json](./100731-german-road-racer-pro.json) |
@@ -4750,6 +4751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gulkave | 6109 | [6109-gulkave.json](./6109-gulkave.json) |
 | Gull Kebap VR | 104058 | [104058-gull-kebap-vr.json](./104058-gull-kebap-vr.json) |
 | Gulman 3D | 199059 | [199059-gulman-3d.json](./199059-gulman-3d.json) |
+| Gulman 4: Still alive | 30405 | [30405-gulman-4-still-alive.json](./30405-gulman-4-still-alive.json) |
 | Gǔlóng Chuánshuō | 155990 | [155990-gulong-chuanshuo.json](./155990-gulong-chuanshuo.json) |
 | Gǔlóng Fēngyún Lù | 413005 | [413005-gulong-fengyun-lu.json](./413005-gulong-fengyun-lu.json) |
 | Gulper.Io | 191708 | [191708-gulper-io.json](./191708-gulper-io.json) |
