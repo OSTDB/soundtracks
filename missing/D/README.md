@@ -751,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Moon Deities | 339366 | [339366-dark-moon-deities.json](./339366-dark-moon-deities.json) |
 | Dark Moon Motel | 219650 | [219650-dark-moon-motel.json](./219650-dark-moon-motel.json) |
 | Dark Mystery | 44252 | [44252-dark-mystery.json](./44252-dark-mystery.json) |
+| Dark Mystery Bundle | 397884 | [397884-dark-mystery-bundle.json](./397884-dark-mystery-bundle.json) |
 | Dark Mystery: Remastered | 233611 | [233611-dark-mystery-remastered.json](./233611-dark-mystery-remastered.json) |
 | Dark Nebula VR | 110506 | [110506-dark-nebula-vr.json](./110506-dark-nebula-vr.json) |
 | Dark Nebula: Episode One | 67242 | [67242-dark-nebula-episode-one.json](./67242-dark-nebula-episode-one.json) |
@@ -2410,6 +2411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deeper Than Hell | 295792 | [295792-deeper-than-hell.json](./295792-deeper-than-hell.json) |
 | Deeper You Go | 346746 | [346746-deeper-you-go.json](./346746-deeper-you-go.json) |
 | Deepest Depth | 320186 | [320186-deepest-depth.json](./320186-deepest-depth.json) |
+| Deepest Grievances | 397865 | [397865-deepest-grievances.json](./397865-deepest-grievances.json) |
 | Deepest Oblivion | 271813 | [271813-deepest-oblivion.json](./271813-deepest-oblivion.json) |
 | Deepest Regret | 280434 | [280434-deepest-regret.json](./280434-deepest-regret.json) |
 | Deepest Valley | 395832 | [395832-deepest-valley.json](./395832-deepest-valley.json) |
@@ -4318,6 +4320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Adventure | 114507 | [114507-dinosaur-adventure.json](./114507-dinosaur-adventure.json) |
 | Dinosaur Adventure | 43472 | [43472-dinosaur-adventure.json](./43472-dinosaur-adventure.json) |
 | Dinosaur Adventure 3-D | 69808 | [69808-dinosaur-adventure-3-d.json](./69808-dinosaur-adventure-3-d.json) |
+| Dinosaur Air Hockey | 397897 | [397897-dinosaur-air-hockey.json](./397897-dinosaur-air-hockey.json) |
 | Dinosaur Assassin: I-Evolution | 264013 | [264013-dinosaur-assassin-i-evolution.json](./264013-dinosaur-assassin-i-evolution.json) |
 | Dinosaur Battlegrounds | 57127 | [57127-dinosaur-battlegrounds.json](./57127-dinosaur-battlegrounds.json) |
 | Dinosaur Cousin Squad | 338286 | [338286-dinosaur-cousin-squad.json](./338286-dinosaur-cousin-squad.json) |
@@ -5251,6 +5254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog In A Box | 113058 | [113058-dog-in-a-box.json](./113058-dog-in-a-box.json) |
 | Dog in the City | 139926 | [139926-dog-in-the-city.json](./139926-dog-in-the-city.json) |
 | Dog in the Machine | 398405 | [398405-dog-in-the-machine.json](./398405-dog-in-the-machine.json) |
+| Dog Jigsaw from Japan | 397868 | [397868-dog-jigsaw-from-japan.json](./397868-dog-jigsaw-from-japan.json) |
 | Dog Knowse Chapter 1: The Dame | 249790 | [249790-dog-knowse-chapter-1-the-dame.json](./249790-dog-knowse-chapter-1-the-dame.json) |
 | Dog Life Simulator | 214166 | [214166-dog-life-simulator.json](./214166-dog-life-simulator.json) |
 | Dog Man: Mission Impawsible | 316875 | [316875-dog-man-mission-impawsible.json](./316875-dog-man-mission-impawsible.json) |
@@ -6107,6 +6111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoSolFa-lite | 28146 | [28146-dosolfa-lite.json](./28146-dosolfa-lite.json) |
 | Dossun! Ganseki Battle | 42560 | [42560-dossun-ganseki-battle.json](./42560-dossun-ganseki-battle.json) |
 | Dostavka | 358930 | [358930-dostavka.json](./358930-dostavka.json) |
+| Dosukoi Densetsu | 397896 | [397896-dosukoi-densetsu.json](./397896-dosukoi-densetsu.json) |
 | Dosukoi Slime | 322998 | [322998-dosukoi-slime.json](./322998-dosukoi-slime.json) |
 | Dot | 328021 | [328021-dot.json](./328021-dot.json) |
 | Dot & Dot Dungeons | 295766 | [295766-dot-and-dot-dungeons.json](./295766-dot-and-dot-dungeons.json) |
@@ -7776,6 +7781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunk Puppet | 110354 | [110354-drunk-puppet.json](./110354-drunk-puppet.json) |
 | Drunk Santa Simulator | 127074 | [127074-drunk-santa-simulator.json](./127074-drunk-santa-simulator.json) |
 | Drunk Sonic | 330864 | [330864-drunk-sonic.json](./330864-drunk-sonic.json) |
+| Drunk Woodcutter | 397835 | [397835-drunk-woodcutter.json](./397835-drunk-woodcutter.json) |
 | Drunk-Fu: Wasted Masters | 28906 | [28906-drunk-fu-wasted-masters.json](./28906-drunk-fu-wasted-masters.json) |
 | Drunkard Quiz Show Hyoutan | 115684 | [115684-drunkard-quiz-show-hyoutan.json](./115684-drunkard-quiz-show-hyoutan.json) |
 | Drunken Cowboys | 379053 | [379053-drunken-cowboys.json](./379053-drunken-cowboys.json) |
@@ -7969,6 +7975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duel Arms | 100744 | [100744-duel-arms.json](./100744-duel-arms.json) |
 | Duel Champions | 358362 | [358362-duel-champions.json](./358362-duel-champions.json) |
 | Duel de Base Stat | 403780 | [403780-duel-de-base-stat.json](./403780-duel-de-base-stat.json) |
+| Duel Draw: Katana Clash | 397862 | [397862-duel-draw-katana-clash.json](./397862-duel-draw-katana-clash.json) |
 | Duel Jousting | 75770 | [75770-duel-jousting.json](./75770-duel-jousting.json) |
 | Duel Legends | 369734 | [369734-duel-legends.json](./369734-duel-legends.json) |
 | Duel Masters 2 - Kirifuda Shoubu Ver. | 49583 | [49583-duel-masters-2-kirifuda-shoubu-ver.json](./49583-duel-masters-2-kirifuda-shoubu-ver.json) |
