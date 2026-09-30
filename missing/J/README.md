@@ -1113,6 +1113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John Wick Hex | 118219 | [118219-john-wick-hex.json](./118219-john-wick-hex.json) |
 | John: Car Transporter Truck 3D | 28156 | [28156-john-car-transporter-truck-3d.json](./28156-john-car-transporter-truck-3d.json) |
 | John:Condemned | 111011 | [111011-john-condemned.json](./111011-john-condemned.json) |
+| John's Quest | 394466 | [394466-johns-quest.json](./394466-johns-quest.json) |
 | John's Tombstone | 187523 | [187523-johns-tombstone.json](./187523-johns-tombstone.json) |
 | John's Wizard Dungeon | 119738 | [119738-johns-wizard-dungeon.json](./119738-johns-wizard-dungeon.json) |
 | JohnGagz | 317354 | [317354-johngagz.json](./317354-johngagz.json) |
@@ -1263,6 +1264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journalism Class: Hot Part 3 | 109890 | [109890-journalism-class-hot-part-3.json](./109890-journalism-class-hot-part-3.json) |
 | Journalist | 186906 | [186906-journalist.json](./186906-journalist.json) |
 | Journey | 298669 | [298669-journey.json](./298669-journey.json) |
+| Journey Back to Dreamspace | 394470 | [394470-journey-back-to-dreamspace.json](./394470-journey-back-to-dreamspace.json) |
 | Journey Escape | 22415 | [22415-journey-escape.json](./22415-journey-escape.json) |
 | Journey Express | 238502 | [238502-journey-express.json](./238502-journey-express.json) |
 | Journey From Darkness: Strider Returns | 72621 | [72621-journey-from-darkness-strider-returns.json](./72621-journey-from-darkness-strider-returns.json) |
