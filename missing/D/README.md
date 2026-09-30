@@ -965,6 +965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkmoor Manor | 102791 | [102791-darkmoor-manor.json](./102791-darkmoor-manor.json) |
 | Darkness | 145589 | [145589-darkness.json](./145589-darkness.json) |
 | Darkness Ahead | 30821 | [30821-darkness-ahead.json](./30821-darkness-ahead.json) |
+| Darkness and Flame: Born of Fire | 31292 | [31292-darkness-and-flame-born-of-fire.json](./31292-darkness-and-flame-born-of-fire.json) |
 | Darkness and Flame: Enemy in Reflection | 127207 | [127207-darkness-and-flame-enemy-in-reflection.json](./127207-darkness-and-flame-enemy-in-reflection.json) |
 | Darkness and Flame: Missing Memories | 75079 | [75079-darkness-and-flame-missing-memories.json](./75079-darkness-and-flame-missing-memories.json) |
 | Darkness and Light | 159152 | [159152-darkness-and-light.json](./159152-darkness-and-light.json) |
@@ -3153,6 +3154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deserved | 391598 | [391598-deserved.json](./391598-deserved.json) |
 | Desespejos | 181799 | [181799-desespejos.json](./181799-desespejos.json) |
 | Design A Train | 106083 | [106083-design-a-train.json](./106083-design-a-train.json) |
+| Design it, Drive it: Speedboats | 32081 | [32081-design-it-drive-it-speedboats.json](./32081-design-it-drive-it-speedboats.json) |
 | Design My Room: Fashion | 107667 | [107667-design-my-room-fashion.json](./107667-design-my-room-fashion.json) |
 | Design Your Own Railroad | 79963 | [79963-design-your-own-railroad.json](./79963-design-your-own-railroad.json) |
 | Designed for Danger | 321771 | [321771-designed-for-danger.json](./321771-designed-for-danger.json) |
@@ -3921,6 +3923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diffusion | 316771 | [316771-diffusion.json](./316771-diffusion.json) |
 | Dig | 333199 | [333199-dig.json](./333199-dig.json) |
 | Dig & Spike Volleyball | 94194 | [94194-dig-and-spike-volleyball.json](./94194-dig-and-spike-volleyball.json) |
+| Dig 4 Destruction | 31981 | [31981-dig-4-destruction.json](./31981-dig-4-destruction.json) |
 | Dig a Road | 310048 | [310048-dig-a-road.json](./310048-dig-a-road.json) |
 | Dig Baby Dig Company | 376450 | [376450-dig-baby-dig-company.json](./376450-dig-baby-dig-company.json) |
 | Dig Bombers | 135759 | [135759-dig-bombers.json](./135759-dig-bombers.json) |
@@ -4828,6 +4831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diver: Deep Water Adventures | 63282 | [63282-diver-deep-water-adventures.json](./63282-diver-deep-water-adventures.json) |
 | Diver's | 373028 | [373028-divers.json](./373028-divers.json) |
 | Diver's Dream | 180281 | [180281-divers-dream.json](./180281-divers-dream.json) |
+| Divergence: Year Zero | 31287 | [31287-divergence-year-zero.json](./31287-divergence-year-zero.json) |
 | Divergences | 356267 | [356267-divergences.json](./356267-divergences.json) |
 | Diversant | 180294 | [180294-diversant.json](./180294-diversant.json) |
 | Diverse Defenders | 308913 | [308913-diverse-defenders.json](./308913-diverse-defenders.json) |
@@ -5496,6 +5500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Die Roguelike | 395892 | [395892-dont-die-roguelike.json](./395892-dont-die-roguelike.json) |
 | Don't Die, Mr. Robot! | 52178 | [52178-dont-die-mr-robot.json](./52178-dont-die-mr-robot.json) |
 | Don't Die! | 343340 | [343340-dont-die.json](./343340-dont-die.json) |
+| Don't Disturb | 32065 | [32065-dont-disturb.json](./32065-dont-disturb.json) |
 | Don't Drink That! | 364667 | [364667-dont-drink-that.json](./364667-dont-drink-that.json) |
 | Don't Drop Luggage! | 303483 | [303483-dont-drop-luggage.json](./303483-dont-drop-luggage.json) |
 | Don't Drop The Cake | 323532 | [323532-dont-drop-the-cake.json](./323532-dont-drop-the-cake.json) |
@@ -7002,6 +7007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawquarium | 374055 | [374055-drawquarium.json](./374055-drawquarium.json) |
 | Drawsome Sketch Quest | 65548 | [65548-drawsome-sketch-quest.json](./65548-drawsome-sketch-quest.json) |
 | drawwars.io | 389104 | [389104-drawwars-io.json](./389104-drawwars-io.json) |
+| Drayt Empire | 32032 | [32032-drayt-empire.json](./32032-drayt-empire.json) |
 | DRazor | 156084 | [156084-drazor.json](./156084-drazor.json) |
 | Dread | 130910 | [130910-dread.json](./130910-dread.json) |
 | Dread Delusion: Rise of the Skeletons | 272835 | [272835-dread-delusion-rise-of-the-skeletons.json](./272835-dread-delusion-rise-of-the-skeletons.json) |
