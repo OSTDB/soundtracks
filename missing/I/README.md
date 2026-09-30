@@ -1577,6 +1577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Industrious | 146813 | [146813-industrious.json](./146813-industrious.json) |
 | Industriworks | 126603 | [126603-industriworks.json](./126603-industriworks.json) |
 | Industry Empire | 17209 | [17209-industry-empire.json](./17209-industry-empire.json) |
+| Industry Giant | 9910 | [9910-industry-giant.json](./9910-industry-giant.json) |
 | Industry Giant 2 - Gold 2012 | 53228 | [53228-industry-giant-2-gold-2012.json](./53228-industry-giant-2-gold-2012.json) |
 | Industry Giant 2 HD | 53229 | [53229-industry-giant-2-hd.json](./53229-industry-giant-2-hd.json) |
 | Industry Giant 4.0 | 284886 | [284886-industry-giant-4-0.json](./284886-industry-giant-4-0.json) |
@@ -2581,6 +2582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invokers Tournament | 60781 | [60781-invokers-tournament.json](./60781-invokers-tournament.json) |
 | Inzipid | 74476 | [74476-inzipid.json](./74476-inzipid.json) |
 | Inzo | 99609 | [99609-inzo.json](./99609-inzo.json) |
+| iO | 6465 | [6465-io.json](./6465-io.json) |
 | iO Inner Self: The Lava Planet VR | 225614 | [225614-io-inner-self-the-lava-planet-vr.json](./225614-io-inner-self-the-lava-planet-vr.json) |
 | IOI Collection | 154503 | [154503-ioi-collection.json](./154503-ioi-collection.json) |
 | Ion | 11136 | [11136-ion.json](./11136-ion.json) |
