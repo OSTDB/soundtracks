@@ -462,6 +462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gale Racer | 72317 | [72317-gale-racer.json](./72317-gale-racer.json) |
 | Galeoz | 74782 | [74782-galeoz.json](./74782-galeoz.json) |
 | Galer: Plague of Heroes | 31924 | [31924-galer-plague-of-heroes.json](./31924-galer-plague-of-heroes.json) |
+| Galerians: Ash | 19629 | [19629-galerians-ash.json](./19629-galerians-ash.json) |
 | Galerians: Limited Edition | 146856 | [146856-galerians-limited-edition.json](./146856-galerians-limited-edition.json) |
 | Galf | 131401 | [131401-galf.json](./131401-galf.json) |
 | Galga | 227882 | [227882-galga.json](./227882-galga.json) |
@@ -3527,6 +3528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Prix Multiplication | 397211 | [397211-grand-prix-multiplication.json](./397211-grand-prix-multiplication.json) |
 | Grand Prix Racing | 147355 | [147355-grand-prix-racing.json](./147355-grand-prix-racing.json) |
 | Grand Prix Rally II | 46750 | [46750-grand-prix-rally-ii.json](./46750-grand-prix-rally-ii.json) |
+| Grand Prix Rock 'N Racing | 19892 | [19892-grand-prix-rock-n-racing.json](./19892-grand-prix-rock-n-racing.json) |
 | Grand Prix Simulator | 13861 | [13861-grand-prix-simulator.json](./13861-grand-prix-simulator.json) |
 | Grand Saudi Hajwala | 374678 | [374678-grand-saudi-hajwala.json](./374678-grand-saudi-hajwala.json) |
 | Grand Slam | 20812 | [20812-grand-slam.json](./20812-grand-slam.json) |
@@ -3904,6 +3906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great North Shelter 2 | 238491 | [238491-great-north-shelter-2.json](./238491-great-north-shelter-2.json) |
 | Great Old One - Arrival | 105303 | [105303-great-old-one-arrival.json](./105303-great-old-one-arrival.json) |
 | Great Paintings VR | 156103 | [156103-great-paintings-vr.json](./156103-great-paintings-vr.json) |
+| Great Permutator | 17762 | [17762-great-permutator.json](./17762-great-permutator.json) |
 | Great Personality: Guardians | 348841 | [348841-great-personality-guardians.json](./348841-great-personality-guardians.json) |
 | Great Pilots | 224531 | [224531-great-pilots.json](./224531-great-pilots.json) |
 | Great Powers | 291482 | [291482-great-powers.json](./291482-great-powers.json) |
