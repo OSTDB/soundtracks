@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacation Adventures: Park Ranger 12 | 193218 | [193218-vacation-adventures-park-ranger-12.json](./193218-vacation-adventures-park-ranger-12.json) |
 | Vacation Adventures: Park Ranger 14 | 216854 | [216854-vacation-adventures-park-ranger-14.json](./216854-vacation-adventures-park-ranger-14.json) |
 | Vacation Adventures: Park Ranger 16 - Collectors Edition | 311108 | [311108-vacation-adventures-park-ranger-16-collectors-edition.json](./311108-vacation-adventures-park-ranger-16-collectors-edition.json) |
+| Vacation Adventures: Park Ranger 18 - Collectors Edition | 416779 | [416779-vacation-adventures-park-ranger-18-collectors-edition.json](./416779-vacation-adventures-park-ranger-18-collectors-edition.json) |
 | Vacation Adventures: Park Ranger 2 | 85465 | [85465-vacation-adventures-park-ranger-2.json](./85465-vacation-adventures-park-ranger-2.json) |
 | Vacation Adventures: Park Ranger 4 | 88460 | [88460-vacation-adventures-park-ranger-4.json](./88460-vacation-adventures-park-ranger-4.json) |
 | Vacation Adventures: Park Ranger 7 | 168682 | [168682-vacation-adventures-park-ranger-7.json](./168682-vacation-adventures-park-ranger-7.json) |
@@ -1344,6 +1345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Visceral Cubes | 96462 | [96462-visceral-cubes.json](./96462-visceral-cubes.json) |
 | Visceratum | 132696 | [132696-visceratum.json](./132696-visceratum.json) |
 | Viscous Realms | 269103 | [269103-viscous-realms.json](./269103-viscous-realms.json) |
+| Vise | 417473 | [417473-vise.json](./417473-vise.json) |
 | Visible Solar System | 125824 | [125824-visible-solar-system.json](./125824-visible-solar-system.json) |
 | Vision | 88326 | [88326-vision.json](./88326-vision.json) |
 | Vision 2 | 92997 | [92997-vision-2.json](./92997-vision-2.json) |
@@ -1663,6 +1665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vorble | 22208 | [22208-vorble.json](./22208-vorble.json) |
 | Vordakk's Keep | 268425 | [268425-vordakks-keep.json](./268425-vordakks-keep.json) |
 | Voron: Raven's Story | 235968 | [235968-voron-ravens-story.json](./235968-voron-ravens-story.json) |
+| Vortex | 417487 | [417487-vortex.json](./417487-vortex.json) |
 | Vortex | 81436 | [81436-vortex.json](./81436-vortex.json) |
 | Vortex Attack EX | 124235 | [124235-vortex-attack-ex.json](./124235-vortex-attack-ex.json) |
 | Vortex Escape | 156549 | [156549-vortex-escape.json](./156549-vortex-escape.json) |
