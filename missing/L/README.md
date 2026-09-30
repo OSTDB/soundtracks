@@ -1050,6 +1050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leather Goddesses of Phobos | 12174 | [12174-leather-goddesses-of-phobos.json](./12174-leather-goddesses-of-phobos.json) |
 | Leather Goddesses of Phobos 2: Gas Pump Girls Meet the Pulsating Inconvenience from Planet X! | 14558 | [14558-leather-goddesses-of-phobos-2-gas-pump-girls-meet-the-pulsating-inconvenience-from-planet-x.json](./14558-leather-goddesses-of-phobos-2-gas-pump-girls-meet-the-pulsating-inconvenience-from-planet-x.json) |
 | Leave Home | 91518 | [91518-leave-home.json](./91518-leave-home.json) |
+| Leave Me Alone: A Trip to Hell | 33497 | [33497-leave-me-alone-a-trip-to-hell.json](./33497-leave-me-alone-a-trip-to-hell.json) |
 | Leave Me Alone! | 177953 | [177953-leave-me-alone.json](./177953-leave-me-alone.json) |
 | Leave! | 169795 | [169795-leave.json](./169795-leave.json) |
 | Leaves 3 | 394892 | [394892-leaves-3.json](./394892-leaves-3.json) |
@@ -1129,6 +1130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of Solitaire 3D | 252713 | [252713-legacy-of-solitaire-3d.json](./252713-legacy-of-solitaire-3d.json) |
 | Legacy of Svarog | 59050 | [59050-legacy-of-svarog.json](./59050-legacy-of-svarog.json) |
 | Legacy of the Ancients | 19794 | [19794-legacy-of-the-ancients.json](./19794-legacy-of-the-ancients.json) |
+| Legacy of the Elder Star | 33555 | [33555-legacy-of-the-elder-star.json](./33555-legacy-of-the-elder-star.json) |
 | Legacy of the Stones | 117730 | [117730-legacy-of-the-stones.json](./117730-legacy-of-the-stones.json) |
 | Legacy of the Times | 59964 | [59964-legacy-of-the-times.json](./59964-legacy-of-the-times.json) |
 | Legacy Online | 23711 | [23711-legacy-online.json](./23711-legacy-online.json) |
@@ -2202,6 +2204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Paradox | 190068 | [190068-light-paradox.json](./190068-light-paradox.json) |
 | Light Pollution | 262293 | [262293-light-pollution.json](./262293-light-pollution.json) |
 | Light Rangers: Mending the Maniac Madness | 209406 | [209406-light-rangers-mending-the-maniac-madness.json](./209406-light-rangers-mending-the-maniac-madness.json) |
+| Light Repair Team #4 | 33498 | [33498-light-repair-team-4.json](./33498-light-repair-team-4.json) |
 | Light Rider | 108427 | [108427-light-rider.json](./108427-light-rider.json) |
 | Light Source | 416108 | [416108-light-source.json](./416108-light-source.json) |
 | Light Speed Adventures | 330518 | [330518-light-speed-adventures.json](./330518-light-speed-adventures.json) |
