@@ -7701,6 +7701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Blazer | 270166 | [270166-bug-blazer.json](./270166-bug-blazer.json) |
 | Bug Bomb | 15689 | [15689-bug-bomb.json](./15689-bug-bomb.json) |
 | Bug Bomber | 14351 | [14351-bug-bomber.json](./14351-bug-bomber.json) |
+| Bug Bounce | 401068 | [401068-bug-bounce.json](./401068-bug-bounce.json) |
 | Bug Bunny: Discontroll | 373729 | [373729-bug-bunny-discontroll.json](./373729-bug-bunny-discontroll.json) |
 | Bug Catcher | 287651 | [287651-bug-catcher.json](./287651-bug-catcher.json) |
 | Bug Cleaners | 336030 | [336030-bug-cleaners.json](./336030-bug-cleaners.json) |
