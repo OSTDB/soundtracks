@@ -743,6 +743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Killer | 181776 | [181776-zombie-killer.json](./181776-zombie-killer.json) |
 | Zombie Killer Squad | 213946 | [213946-zombie-killer-squad.json](./213946-zombie-killer-squad.json) |
 | Zombie Killing Simulator | 103184 | [103184-zombie-killing-simulator.json](./103184-zombie-killing-simulator.json) |
+| Zombie Killtime | 35003 | [35003-zombie-killtime.json](./35003-zombie-killtime.json) |
 | Zombie Land | 239089 | [239089-zombie-land.json](./239089-zombie-land.json) |
 | Zombie Lane | 143126 | [143126-zombie-lane.json](./143126-zombie-lane.json) |
 | Zombie Lines | 415928 | [415928-zombie-lines.json](./415928-zombie-lines.json) |
