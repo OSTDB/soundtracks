@@ -3778,6 +3778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono | 341329 | [341329-chrono.json](./341329-chrono.json) |
 | Chrono Ark: High Roller | 314900 | [314900-chrono-ark-high-roller.json](./314900-chrono-ark-high-roller.json) |
 | Chrono Ark: Summer Twilight | 310011 | [310011-chrono-ark-summer-twilight.json](./310011-chrono-ark-summer-twilight.json) |
+| Chrono Clues | 411086 | [411086-chrono-clues.json](./411086-chrono-clues.json) |
 | Chrono Commando 2053 | 272340 | [272340-chrono-commando-2053.json](./272340-chrono-commando-2053.json) |
 | Chrono Crystal: Giant Gate DLC | 253386 | [253386-chrono-crystal-giant-gate-dlc.json](./253386-chrono-crystal-giant-gate-dlc.json) |
 | Chrono Impact | 369095 | [369095-chrono-impact.json](./369095-chrono-impact.json) |
@@ -6744,6 +6745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Cosmonaut | 336641 | [336641-cosmic-cosmonaut.json](./336641-cosmic-cosmonaut.json) |
 | Cosmic Cowboy | 413070 | [413070-cosmic-cowboy.json](./413070-cosmic-cowboy.json) |
 | Cosmic Creeps | 18547 | [18547-cosmic-creeps.json](./18547-cosmic-creeps.json) |
+| Cosmic Crowbar | 410939 | [410939-cosmic-crowbar.json](./410939-cosmic-crowbar.json) |
 | Cosmic Crucible | 293173 | [293173-cosmic-crucible.json](./293173-cosmic-crucible.json) |
 | Cosmic Cruiser | 210871 | [210871-cosmic-cruiser.json](./210871-cosmic-cruiser.json) |
 | Cosmic Cruncher | 59448 | [59448-cosmic-cruncher.json](./59448-cosmic-cruncher.json) |
