@@ -1982,6 +1982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Battle Simulator 2 | 75046 | [75046-epic-battle-simulator-2.json](./75046-epic-battle-simulator-2.json) |
 | Epic Blood Quest | 180185 | [180185-epic-blood-quest.json](./180185-epic-blood-quest.json) |
 | Epic Car Factory | 97568 | [97568-epic-car-factory.json](./97568-epic-car-factory.json) |
+| Epic Card Battle Simulator | 407476 | [407476-epic-card-battle-simulator.json](./407476-epic-card-battle-simulator.json) |
 | Epic Card Game | 56420 | [56420-epic-card-game.json](./56420-epic-card-game.json) |
 | Epic Cards Battle 3 | 258960 | [258960-epic-cards-battle-3.json](./258960-epic-cards-battle-3.json) |
 | Epic Chef | 145063 | [145063-epic-chef.json](./145063-epic-chef.json) |
@@ -2553,6 +2554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESHQ | 327410 | [327410-eshq.json](./327410-eshq.json) |
 | Eskimo Eddie | 13843 | [13843-eskimo-eddie.json](./13843-eskimo-eddie.json) |
 | Eskimo Games | 80527 | [80527-eskimo-games.json](./80527-eskimo-games.json) |
+| Eskinita | 407501 | [407501-eskinita.json](./407501-eskinita.json) |
 | Esklavos C1 | 315001 | [315001-esklavos-c1.json](./315001-esklavos-c1.json) |
 | Esklavos C10 | 315080 | [315080-esklavos-c10.json](./315080-esklavos-c10.json) |
 | Esklavos C11 | 315082 | [315082-esklavos-c11.json](./315082-esklavos-c11.json) |
