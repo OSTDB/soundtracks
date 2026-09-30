@@ -492,6 +492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nature of Dread | 403683 | [403683-nature-of-dread.json](./403683-nature-of-dread.json) |
 | Nature Park | 274729 | [274729-nature-park.json](./274729-nature-park.json) |
 | Nature Prhysm | 206374 | [206374-nature-prhysm.json](./206374-nature-prhysm.json) |
+| Nature Treks VR | 29552 | [29552-nature-treks-vr.json](./29552-nature-treks-vr.json) |
 | Nature Treks: Healing With Color | 65589 | [65589-nature-treks-healing-with-color.json](./65589-nature-treks-healing-with-color.json) |
 | Nature Treks: Together | 152817 | [152817-nature-treks-together.json](./152817-nature-treks-together.json) |
 | Nature Walk Simulator | 28199 | [28199-nature-walk-simulator.json](./28199-nature-walk-simulator.json) |
@@ -1219,6 +1220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Paddles: Revenge of the Ball | 372140 | [372140-neon-paddles-revenge-of-the-ball.json](./372140-neon-paddles-revenge-of-the-ball.json) |
 | Neon Parasite | 139347 | [139347-neon-parasite.json](./139347-neon-parasite.json) |
 | Neon Parkour 2 | 253614 | [253614-neon-parkour-2.json](./253614-neon-parkour-2.json) |
+| Neon Prism | 30501 | [30501-neon-prism.json](./30501-neon-prism.json) |
 | Neon Race | 182946 | [182946-neon-race.json](./182946-neon-race.json) |
 | Neon Race | 286644 | [286644-neon-race.json](./286644-neon-race.json) |
 | Neon Race 2 | 286645 | [286645-neon-race-2.json](./286645-neon-race-2.json) |
@@ -1291,6 +1293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nephise: Ascension | 88057 | [88057-nephise-ascension.json](./88057-nephise-ascension.json) |
 | Neptune Island | 319796 | [319796-neptune-island.json](./319796-neptune-island.json) |
 | Neptune Spear | 371424 | [371424-neptune-spear.json](./371424-neptune-spear.json) |
+| Neptune: Arena FPS | 30468 | [30468-neptune-arena-fps.json](./30468-neptune-arena-fps.json) |
 | Neptune's Daughters | 40958 | [40958-neptunes-daughters.json](./40958-neptunes-daughters.json) |
 | Neptune's Garden | 231340 | [231340-neptunes-garden.json](./231340-neptunes-garden.json) |
 | Neptune's Pride | 65746 | [65746-neptunes-pride.json](./65746-neptunes-pride.json) |
