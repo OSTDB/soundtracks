@@ -1969,6 +1969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Origin Hunt | 180772 | [180772-origin-hunt.json](./180772-origin-hunt.json) |
 | Origin of Decay | 112498 | [112498-origin-of-decay.json](./112498-origin-of-decay.json) |
 | Origin of Destiny: Crimson Awakening | 33351 | [33351-origin-of-destiny-crimson-awakening.json](./33351-origin-of-destiny-crimson-awakening.json) |
+| Origin of the Magic Book | 404363 | [404363-origin-of-the-magic-book.json](./404363-origin-of-the-magic-book.json) |
 | Origin Space | 52281 | [52281-origin-space.json](./52281-origin-space.json) |
 | Original Frisbee Disc Sports: Ultimate & Golf | 21449 | [21449-original-frisbee-disc-sports-ultimate-and-golf.json](./21449-original-frisbee-disc-sports-ultimate-and-golf.json) |
 | Original Journey | 40968 | [40968-original-journey.json](./40968-original-journey.json) |
@@ -2004,6 +2005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orly's Draw-A-Story | 60506 | [60506-orlys-draw-a-story.json](./60506-orlys-draw-a-story.json) |
 | ORM | 253889 | [253889-orm.json](./253889-orm.json) |
 | Orna | 105733 | [105733-orna.json](./105733-orna.json) |
+| Ornament Tower | 404393 | [404393-ornament-tower.json](./404393-ornament-tower.json) |
 | Ororo | 404983 | [404983-ororo.json](./404983-ororo.json) |
 | Orphan Black: The Game | 27724 | [27724-orphan-black-the-game.json](./27724-orphan-black-the-game.json) |
 | Orphan Feast | 306962 | [306962-orphan-feast.json](./306962-orphan-feast.json) |
@@ -2548,6 +2550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outrunner 3 | 113191 | [113191-outrunner-3.json](./113191-outrunner-3.json) |
 | OutRunners | 39574 | [39574-outrunners.json](./39574-outrunners.json) |
 | Outscore | 182529 | [182529-outscore.json](./182529-outscore.json) |
+| Outscratched | 404375 | [404375-outscratched.json](./404375-outscratched.json) |
 | Outshine | 192359 | [192359-outshine.json](./192359-outshine.json) |
 | Outside of Our Own | 184127 | [184127-outside-of-our-own.json](./184127-outside-of-our-own.json) |
 | Outside the Blocks | 245868 | [245868-outside-the-blocks.json](./245868-outside-the-blocks.json) |
