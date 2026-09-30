@@ -324,6 +324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I.C.O. | 178660 | [178660-i-c-o.json](./178660-i-c-o.json) |
 | I.C.U.P.S. | 30212 | [30212-i-c-u-p-s.json](./30212-i-c-u-p-s.json) |
 | I.Cartel | 115798 | [115798-i-cartel.json](./115798-i-cartel.json) |
+| I.D.F.K. | 404366 | [404366-i-d-f-k.json](./404366-i-d-f-k.json) |
 | I.F.O | 54513 | [54513-i-f-o.json](./54513-i-f-o.json) |
 | I.G.I. Origins | 125281 | [125281-i-g-i-origins.json](./125281-i-g-i-origins.json) |
 | I.G.I.-2: Covert Strike | 8559 | [8559-i-g-i-2-covert-strike.json](./8559-i-g-i-2-covert-strike.json) |
@@ -2361,6 +2362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Internet Cafe Manager 2025 | 323306 | [323306-internet-cafe-manager-2025.json](./323306-internet-cafe-manager-2025.json) |
 | Internet Cafe Simulator 2025 | 324999 | [324999-internet-cafe-simulator-2025.json](./324999-internet-cafe-simulator-2025.json) |
 | Internet Entrepreneurship Simulator | 348781 | [348781-internet-entrepreneurship-simulator.json](./348781-internet-entrepreneurship-simulator.json) |
+| Internet Exploring | 404368 | [404368-internet-exploring.json](./404368-internet-exploring.json) |
 | Internet Scrabble Club | 157528 | [157528-internet-scrabble-club.json](./157528-internet-scrabble-club.json) |
 | Internet Simulator | 98241 | [98241-internet-simulator.json](./98241-internet-simulator.json) |
 | Internet Survivor Survivors | 413626 | [413626-internet-survivor-survivors.json](./413626-internet-survivor-survivors.json) |
@@ -2579,6 +2581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inverse Ninjas vs. The Public Domain | 277593 | [277593-inverse-ninjas-vs-the-public-domain.json](./277593-inverse-ninjas-vs-the-public-domain.json) |
 | Inversed | 310575 | [310575-inversed.json](./310575-inversed.json) |
 | Inversion | 7020 | [7020-inversion.json](./7020-inversion.json) |
+| Inversion Day | 404345 | [404345-inversion-day.json](./404345-inversion-day.json) |
 | Inversion Institute | 220038 | [220038-inversion-institute.json](./220038-inversion-institute.json) |
 | Inversus | 19608 | [19608-inversus.json](./19608-inversus.json) |
 | Invert | 383504 | [383504-invert.json](./383504-invert.json) |
