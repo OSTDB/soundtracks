@@ -595,6 +595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.D. 2044 | 93168 | [93168-a-d-2044.json](./93168-a-d-2044.json) |
 | A.D. 2083 | 46766 | [46766-a-d-2083.json](./46766-a-d-2083.json) |
 | A.D.A.M. | 19398 | [19398-a-d-a-m.json](./19398-a-d-a-m.json) |
+| A.D.D. (Anomaly Detection Department) | 412470 | [412470-a-d-d-anomaly-detection-department.json](./412470-a-d-d-anomaly-detection-department.json) |
 | A.E. | 20175 | [20175-a-e.json](./20175-a-e.json) |
 | A.E. | 282086 | [282086-a-e.json](./282086-a-e.json) |
 | A.I am Monster | 26569 | [26569-a-i-am-monster.json](./26569-a-i-am-monster.json) |
@@ -613,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.R.E.S. Extinction Agenda EX | 36270 | [36270-a-r-e-s-extinction-agenda-ex.json](./36270-a-r-e-s-extinction-agenda-ex.json) |
 | A.R.S.E.N.A.L. Taste of Power | 204341 | [204341-a-r-s-e-n-a-l-taste-of-power.json](./204341-a-r-s-e-n-a-l-taste-of-power.json) |
 | A.S.H. | 99614 | [99614-a-s-h.json](./99614-a-s-h.json) |
+| A.S.S. (Amazing Slot Survivor) | 412463 | [412463-a-s-s-amazing-slot-survivor.json](./412463-a-s-s-amazing-slot-survivor.json) |
 | A.S.S.: Awesome Street Skaters | 245907 | [245907-a-s-s-awesome-street-skaters.json](./245907-a-s-s-awesome-street-skaters.json) |
 | A.V.A Global: Masters Pack | 298709 | [298709-a-v-a-global-masters-pack.json](./298709-a-v-a-global-masters-pack.json) |
 | A.V.A: Guns on Fire | 55245 | [55245-a-v-a-guns-on-fire.json](./55245-a-v-a-guns-on-fire.json) |
@@ -1136,6 +1138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ad Wars | 96242 | [96242-ad-wars.json](./96242-ad-wars.json) |
 | Ada Towers | 83493 | [83493-ada-towers.json](./83493-ada-towers.json) |
 | ADAC: The Simulation | 76623 | [76623-adac-the-simulation.json](./76623-adac-the-simulation.json) |
+| Adachi Ballin' | 412453 | [412453-adachi-ballin.json](./412453-adachi-ballin.json) |
 | Adachi Dating Simulator | 240470 | [240470-adachi-dating-simulator.json](./240470-adachi-dating-simulator.json) |
 | Adam & Eve | 204500 | [204500-adam-and-eve.json](./204500-adam-and-eve.json) |
 | Adam and Eve: Crossy River | 233509 | [233509-adam-and-eve-crossy-river.json](./233509-adam-and-eve-crossy-river.json) |
@@ -1628,6 +1631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aftermath | 35770 | [35770-aftermath.json](./35770-aftermath.json) |
 | Aftermath | 380111 | [380111-aftermath.json](./380111-aftermath.json) |
 | Aftermoor | 121650 | [121650-aftermoor.json](./121650-aftermoor.json) |
+| AfterMove | 412481 | [412481-aftermove.json](./412481-aftermove.json) |
 | Afternoon in the House of Secrets | 221820 | [221820-afternoon-in-the-house-of-secrets.json](./221820-afternoon-in-the-house-of-secrets.json) |
 | Afterplace | 232032 | [232032-afterplace.json](./232032-afterplace.json) |
 | AfterQuest | 394314 | [394314-afterquest.json](./394314-afterquest.json) |
@@ -1676,6 +1680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Barbarians Chronicles | 207506 | [207506-age-of-barbarians-chronicles.json](./207506-age-of-barbarians-chronicles.json) |
 | Age of Booty: Tactics | 61332 | [61332-age-of-booty-tactics.json](./61332-age-of-booty-tactics.json) |
 | Age of Chaos: Legends | 193934 | [193934-age-of-chaos-legends.json](./193934-age-of-chaos-legends.json) |
+| Age of Clicks | 412397 | [412397-age-of-clicks.json](./412397-age-of-clicks.json) |
 | Age of Conan: Rise of the Godslayer | 588 | [588-age-of-conan-rise-of-the-godslayer.json](./588-age-of-conan-rise-of-the-godslayer.json) |
 | Age of Conan: Secrets of Dragon's Spine | 27653 | [27653-age-of-conan-secrets-of-dragons-spine.json](./27653-age-of-conan-secrets-of-dragons-spine.json) |
 | Age of Conan: Unchained | 16402 | [16402-age-of-conan-unchained.json](./16402-age-of-conan-unchained.json) |
@@ -2560,6 +2565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alias: Underground | 223002 | [223002-alias-underground.json](./223002-alias-underground.json) |
 | Alibaba and the Scary Dev | 264086 | [264086-alibaba-and-the-scary-dev.json](./264086-alibaba-and-the-scary-dev.json) |
 | AlibAi | 337811 | [337811-alibai.json](./337811-alibai.json) |
+| Alibito | 412444 | [412444-alibito.json](./412444-alibito.json) |
 | Alice & Marisa | 270382 | [270382-alice-and-marisa.json](./270382-alice-and-marisa.json) |
 | Alice and Smith: Complete Library | 52589 | [52589-alice-and-smith-complete-library.json](./52589-alice-and-smith-complete-library.json) |
 | Alice and the Magical Islands | 371312 | [371312-alice-and-the-magical-islands.json](./371312-alice-and-the-magical-islands.json) |
