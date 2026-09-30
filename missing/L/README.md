@@ -4439,6 +4439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludu | 26491 | [26491-ludu.json](./26491-ludu.json) |
 | Ludum Creare | 176981 | [176981-ludum-creare.json](./176981-ludum-creare.json) |
 | Ludus | 128123 | [128123-ludus.json](./128123-ludus.json) |
+| Ludus Magnatus: Gladiator Manager Simulator | 390751 | [390751-ludus-magnatus-gladiator-manager-simulator.json](./390751-ludus-magnatus-gladiator-manager-simulator.json) |
 | Ludus: A Gladiator Story | 411712 | [411712-ludus-a-gladiator-story.json](./411712-ludus-a-gladiator-story.json) |
 | Luduvo | 412303 | [412303-luduvo.json](./412303-luduvo.json) |
 | Lufia: The Legend Returns | 1179 | [1179-lufia-the-legend-returns.json](./1179-lufia-the-legend-returns.json) |
