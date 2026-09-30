@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.T.A.L.K.E.R.: Dead Air | 132010 | [132010-s-t-a-l-k-e-r-dead-air.json](./132010-s-t-a-l-k-e-r-dead-air.json) |
 | S.T.A.L.K.E.R.: Escape From Pripyat | 186030 | [186030-s-t-a-l-k-e-r-escape-from-pripyat.json](./186030-s-t-a-l-k-e-r-escape-from-pripyat.json) |
 | S.T.A.L.K.E.R.: Incubator | 353303 | [353303-s-t-a-l-k-e-r-incubator.json](./353303-s-t-a-l-k-e-r-incubator.json) |
+| S.T.A.L.K.E.R.: Lost Alpha | 77225 | [77225-s-t-a-l-k-e-r-lost-alpha.json](./77225-s-t-a-l-k-e-r-lost-alpha.json) |
 | S.T.A.L.K.E.R.: Misery | 132009 | [132009-s-t-a-l-k-e-r-misery.json](./132009-s-t-a-l-k-e-r-misery.json) |
 | S.T.A.L.K.E.R.: Oblivion Lost Remake | 138257 | [138257-s-t-a-l-k-e-r-oblivion-lost-remake.json](./138257-s-t-a-l-k-e-r-oblivion-lost-remake.json) |
 | S.T.A.L.K.E.R.: Shadow of Chornobyl - Enhanced Edition | 343442 | [343442-s-t-a-l-k-e-r-shadow-of-chornobyl-enhanced-edition.json](./343442-s-t-a-l-k-e-r-shadow-of-chornobyl-enhanced-edition.json) |
@@ -5906,6 +5907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SlapGains | 413671 | [413671-slapgains.json](./413671-slapgains.json) |
 | Slappy Ass | 111121 | [111121-slappy-ass.json](./111121-slappy-ass.json) |
 | Slappy Board | 216886 | [216886-slappy-board.json](./216886-slappy-board.json) |
+| Slapshot | 120904 | [120904-slapshot.json](./120904-slapshot.json) |
 | Slapshot Ice Hockey | 245409 | [245409-slapshot-ice-hockey.json](./245409-slapshot-ice-hockey.json) |
 | Slapstick Bosses | 349861 | [349861-slapstick-bosses.json](./349861-slapstick-bosses.json) |
 | Slapstick Fighter | 266257 | [266257-slapstick-fighter.json](./266257-slapstick-fighter.json) |
@@ -7614,6 +7616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solraid | 200633 | [200633-solraid.json](./200633-solraid.json) |
 | Solridge | 305938 | [305938-solridge.json](./305938-solridge.json) |
 | Solse AI-Quest | 290938 | [290938-solse-ai-quest.json](./290938-solse-ai-quest.json) |
+| SolSeraph | 120184 | [120184-solseraph.json](./120184-solseraph.json) |
 | Solstale | 285533 | [285533-solstale.json](./285533-solstale.json) |
 | Solstice | 306355 | [306355-solstice.json](./306355-solstice.json) |
 | Solstice | 324503 | [324503-solstice.json](./324503-solstice.json) |
@@ -7643,6 +7646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sombreros | 68114 | [68114-sombreros.json](./68114-sombreros.json) |
 | Some Assembly Required | 293380 | [293380-some-assembly-required.json](./293380-some-assembly-required.json) |
 | Some Assembly Required | 343827 | [343827-some-assembly-required.json](./343827-some-assembly-required.json) |
+| Some Distant Memory | 121952 | [121952-some-distant-memory.json](./121952-some-distant-memory.json) |
 | Some Heroines Climb Up a Tower to Ask God Why the Game Has a Name That's So Long | 310001 | [310001-some-heroines-climb-up-a-tower-to-ask-god-why-the-game-has-a-name-thats-so-long.json](./310001-some-heroines-climb-up-a-tower-to-ask-god-why-the-game-has-a-name-thats-so-long.json) |
 | Some Knights Left | 179497 | [179497-some-knights-left.json](./179497-some-knights-left.json) |
 | Some Like It Hot: Chapter 0 | 135051 | [135051-some-like-it-hot-chapter-0.json](./135051-some-like-it-hot-chapter-0.json) |
@@ -13897,6 +13901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bird | 267966 | [267966-super-bird.json](./267966-super-bird.json) |
 | Super Birdo 64 | 300686 | [300686-super-birdo-64.json](./300686-super-birdo-64.json) |
 | Super Bit Adventure: Paragons of Life | 87977 | [87977-super-bit-adventure-paragons-of-life.json](./87977-super-bit-adventure-paragons-of-life.json) |
+| Super Bit Blaster XL | 124132 | [124132-super-bit-blaster-xl.json](./124132-super-bit-blaster-xl.json) |
 | Super Bitsy Land | 181866 | [181866-super-bitsy-land.json](./181866-super-bitsy-land.json) |
 | Super Black Bass Fishing | 68071 | [68071-super-black-bass-fishing.json](./68071-super-black-bass-fishing.json) |
 | Super Black Bass Pocket 2 | 61347 | [61347-super-black-bass-pocket-2.json](./61347-super-black-bass-pocket-2.json) |
