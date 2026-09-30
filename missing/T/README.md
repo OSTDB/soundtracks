@@ -2650,6 +2650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Jerry Mouse: The Rescue of Nibbles | 233613 | [233613-the-adventures-of-jerry-mouse-the-rescue-of-nibbles.json](./233613-the-adventures-of-jerry-mouse-the-rescue-of-nibbles.json) |
 | The Adventures of Jimmy Neutron Boy Genius: Attack of the Twonkies | 3779 | [3779-the-adventures-of-jimmy-neutron-boy-genius-attack-of-the-twonkies.json](./3779-the-adventures-of-jimmy-neutron-boy-genius-attack-of-the-twonkies.json) |
 | The Adventures of King Dengotti | 206208 | [206208-the-adventures-of-king-dengotti.json](./206208-the-adventures-of-king-dengotti.json) |
+| The Adventures of Kroma | 392993 | [392993-the-adventures-of-kroma.json](./392993-the-adventures-of-kroma.json) |
 | The Adventures of Kusoge | 83529 | [83529-the-adventures-of-kusoge.json](./83529-the-adventures-of-kusoge.json) |
 | The Adventures of Liam | 264605 | [264605-the-adventures-of-liam.json](./264605-the-adventures-of-liam.json) |
 | The Adventures of Lily & Leo | 298638 | [298638-the-adventures-of-lily-and-leo.json](./298638-the-adventures-of-lily-and-leo.json) |
@@ -5050,6 +5051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hollow Lighthouse | 358329 | [358329-the-hollow-lighthouse.json](./358329-the-hollow-lighthouse.json) |
 | The Hollow Road: Prologue | 399769 | [399769-the-hollow-road-prologue.json](./399769-the-hollow-road-prologue.json) |
 | The Holoween collection | 206123 | [206123-the-holoween-collection.json](./206123-the-holoween-collection.json) |
+| The Homecoming Exhibition | 393019 | [393019-the-homecoming-exhibition.json](./393019-the-homecoming-exhibition.json) |
 | The Homestead | 119567 | [119567-the-homestead.json](./119567-the-homestead.json) |
 | The Homestead Invasion | 81667 | [81667-the-homestead-invasion.json](./81667-the-homestead-invasion.json) |
 | The Honest Little Fisher | 383066 | [383066-the-honest-little-fisher.json](./383066-the-honest-little-fisher.json) |
@@ -12118,6 +12120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Bowler | 172654 | [172654-top-bowler.json](./172654-top-bowler.json) |
 | Top Burger | 117102 | [117102-top-burger.json](./117102-top-burger.json) |
 | Top Check | 331986 | [331986-top-check.json](./331986-top-check.json) |
+| Top Cop: Police Training | 393050 | [393050-top-cop-police-training.json](./393050-top-cop-police-training.json) |
 | Top Darts | 91918 | [91918-top-darts.json](./91918-top-darts.json) |
 | Top Dog | 213411 | [213411-top-dog.json](./213411-top-dog.json) |
 | Top Down Battlegrounds | 292850 | [292850-top-down-battlegrounds.json](./292850-top-down-battlegrounds.json) |
