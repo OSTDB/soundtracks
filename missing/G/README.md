@@ -1855,6 +1855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giana Sisters | 213394 | [213394-giana-sisters.json](./213394-giana-sisters.json) |
 | Giana Sisters: Project Radiant | 318533 | [318533-giana-sisters-project-radiant.json](./318533-giana-sisters-project-radiant.json) |
 | Giana Sisters: Twisted Dreams | 3098 | [3098-giana-sisters-twisted-dreams.json](./3098-giana-sisters-twisted-dreams.json) |
+| Giana Sisters: Twisted Dreams - Director's Cut | 44541 | [44541-giana-sisters-twisted-dreams-directors-cut.json](./44541-giana-sisters-twisted-dreams-directors-cut.json) |
 | Giana Sisters: Twisted Dreams - Rise of the Owlverlord | 53080 | [53080-giana-sisters-twisted-dreams-rise-of-the-owlverlord.json](./53080-giana-sisters-twisted-dreams-rise-of-the-owlverlord.json) |
 | Giant and Me | 174757 | [174757-giant-and-me.json](./174757-giant-and-me.json) |
 | Giant Bundle | 193741 | [193741-giant-bundle.json](./193741-giant-bundle.json) |
