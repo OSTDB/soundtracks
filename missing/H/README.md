@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack Run | 16323 | [16323-hack-run.json](./16323-hack-run.json) |
 | Hack the Planet | 220339 | [220339-hack-the-planet.json](./220339-hack-the-planet.json) |
 | Hack Time | 51450 | [51450-hack-time.json](./51450-hack-time.json) |
+| Hack_Me 2 | 29287 | [29287-hack-me-2.json](./29287-hack-me-2.json) |
 | Hack_Me Collection | 53175 | [53175-hack-me-collection.json](./53175-hack-me-collection.json) |
 | Hack.ing | 290927 | [290927-hack-ing.json](./290927-hack-ing.json) |
 | Hacker | 12131 | [12131-hacker.json](./12131-hacker.json) |
@@ -1417,6 +1418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heal Them All | 34299 | [34299-heal-them-all.json](./34299-heal-them-all.json) |
 | Heal: Pocket Edition | 208010 | [208010-heal-pocket-edition.json](./208010-heal-pocket-edition.json) |
 | Healer Simulator | 96675 | [96675-healer-simulator.json](./96675-healer-simulator.json) |
+| Healer's Quest | 29380 | [29380-healers-quest.json](./29380-healers-quest.json) |
 | Healer's Quest: Pocket Wand | 197759 | [197759-healers-quest-pocket-wand.json](./197759-healers-quest-pocket-wand.json) |
 | Healing Hearts | 337702 | [337702-healing-hearts.json](./337702-healing-hearts.json) |
 | Healslut | 217999 | [217999-healslut.json](./217999-healslut.json) |
@@ -4816,6 +4818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel 12th | 317970 | [317970-hotel-12th.json](./317970-hotel-12th.json) |
 | Hotel 626 | 62712 | [62712-hotel-626.json](./62712-hotel-626.json) |
 | Hotel Alien | 229368 | [229368-hotel-alien.json](./229368-hotel-alien.json) |
+| Hotel Anatolia | 29328 | [29328-hotel-anatolia.json](./29328-hotel-anatolia.json) |
 | Hotel Dash Deluxe | 96724 | [96724-hotel-dash-deluxe.json](./96724-hotel-dash-deluxe.json) |
 | Hotel Dash Suite Success | 16171 | [16171-hotel-dash-suite-success.json](./16171-hotel-dash-suite-success.json) |
 | Hotel Dash: Suite Success Deluxe | 175305 | [175305-hotel-dash-suite-success-deluxe.json](./175305-hotel-dash-suite-success-deluxe.json) |
@@ -5643,6 +5646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Hentai Devil Hell | 247781 | [247781-hyper-hentai-devil-hell.json](./247781-hyper-hentai-devil-hell.json) |
 | Hyper Hentai Elf Attendant | 245927 | [245927-hyper-hentai-elf-attendant.json](./245927-hyper-hentai-elf-attendant.json) |
 | Hyper Hostess | 240888 | [240888-hyper-hostess.json](./240888-hyper-hostess.json) |
+| Hyper Knights | 29410 | [29410-hyper-knights.json](./29410-hyper-knights.json) |
 | Hyper Light Breaker | 194965 | [194965-hyper-light-breaker.json](./194965-hyper-light-breaker.json) |
 | Hyper Light Drifter: Special Edition | 107295 | [107295-hyper-light-drifter-special-edition.json](./107295-hyper-light-drifter-special-edition.json) |
 | Hyper Lode Runner | 48980 | [48980-hyper-lode-runner.json](./48980-hyper-lode-runner.json) |
