@@ -227,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jam Scrapz Collection | 226853 | [226853-jam-scrapz-collection.json](./226853-jam-scrapz-collection.json) |
 | Jam Scrapz Collection: Valentide! II | 289920 | [289920-jam-scrapz-collection-valentide-ii.json](./289920-jam-scrapz-collection-valentide-ii.json) |
 | Jam Session VR | 75822 | [75822-jam-session-vr.json](./75822-jam-session-vr.json) |
+| JAM sessions | 47925 | [47925-jam-sessions.json](./47925-jam-sessions.json) |
 | Jam Space: PocketStudio | 85199 | [85199-jam-space-pocketstudio.json](./85199-jam-space-pocketstudio.json) |
 | JAM: Jets Aliens Missiles | 256229 | [256229-jam-jets-aliens-missiles.json](./256229-jam-jets-aliens-missiles.json) |
 | Jamal Jones: Hell's Executioner | 263001 | [263001-jamal-jones-hells-executioner.json](./263001-jamal-jones-hells-executioner.json) |
@@ -253,6 +254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | James Cameron's Dark Angel | 5868 | [5868-james-camerons-dark-angel.json](./5868-james-camerons-dark-angel.json) |
 | James Clavell's Shogun | 15473 | [15473-james-clavells-shogun.json](./15473-james-clavells-shogun.json) |
 | James is Bananas | 248887 | [248887-james-is-bananas.json](./248887-james-is-bananas.json) |
+| James Patterson: Women's Murder Club - Games of Passion | 47831 | [47831-james-patterson-womens-murder-club-games-of-passion.json](./47831-james-patterson-womens-murder-club-games-of-passion.json) |
 | James Pond: Codename Robocod | 197941 | [197941-james-pond-codename-robocod.json](./197941-james-pond-codename-robocod.json) |
 | James Pond: Underwater Agent | 4274 | [4274-james-pond-underwater-agent.json](./4274-james-pond-underwater-agent.json) |
 | James' Fun House: Episode 1 | 276856 | [276856-james-fun-house-episode-1.json](./276856-james-fun-house-episode-1.json) |
