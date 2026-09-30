@@ -860,6 +860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Academy of Magic: Dark Possession | 153877 | [153877-academy-of-magic-dark-possession.json](./153877-academy-of-magic-dark-possession.json) |
 | Academy Romance 7 | 185077 | [185077-academy-romance-7.json](./185077-academy-romance-7.json) |
 | Acai cOrner | 297558 | [297558-acai-corner.json](./297558-acai-corner.json) |
+| Acan's Call: Act 1 | 32084 | [32084-acans-call-act-1.json](./32084-acans-call-act-1.json) |
 | Acassia | 209660 | [209660-acassia.json](./209660-acassia.json) |
 | Accel World vs. Sword Art Online: Deluxe Edition | 65842 | [65842-accel-world-vs-sword-art-online-deluxe-edition.json](./65842-accel-world-vs-sword-art-online-deluxe-edition.json) |
 | Accel World vs. Sword Art Online: Millennium Twilight | 36796 | [36796-accel-world-vs-sword-art-online-millennium-twilight.json](./36796-accel-world-vs-sword-art-online-millennium-twilight.json) |
@@ -2130,6 +2131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Control 27 | 398961 | [398961-airport-control-27.json](./398961-airport-control-27.json) |
 | Airport Control Simulator | 9960 | [9960-airport-control-simulator.json](./9960-airport-control-simulator.json) |
 | Airport Fever | 233467 | [233467-airport-fever.json](./233467-airport-fever.json) |
+| Airport Fire Department: The Simulation | 32041 | [32041-airport-fire-department-the-simulation.json](./32041-airport-fire-department-the-simulation.json) |
 | Airport Firefighter Simulator 2013 | 87447 | [87447-airport-firefighter-simulator-2013.json](./87447-airport-firefighter-simulator-2013.json) |
 | Airport Flight Administrator Simulator & Air Traffic-Sky Airplane Sim Plane | 220873 | [220873-airport-flight-administrator-simulator-and-air-traffic-sky-airplane-sim-plane.json](./220873-airport-flight-administrator-simulator-and-air-traffic-sky-airplane-sim-plane.json) |
 | Airport Inspector | 382320 | [382320-airport-inspector.json](./382320-airport-inspector.json) |
@@ -4107,6 +4109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ani Leaving Sirius | 189120 | [189120-ani-leaving-sirius.json](./189120-ani-leaving-sirius.json) |
 | Anicca | 208058 | [208058-anicca.json](./208058-anicca.json) |
 | Anicon: Animal Complex | 249274 | [249274-anicon-animal-complex.json](./249274-anicon-animal-complex.json) |
+| Anicon: Animal Complex - Cat's Path | 32031 | [32031-anicon-animal-complex-cats-path.json](./32031-anicon-animal-complex-cats-path.json) |
 | Anicon: Animal Complex - Party | 249284 | [249284-anicon-animal-complex-party.json](./249284-anicon-animal-complex-party.json) |
 | Anicon: Animal Complex - Sheep's Path | 106607 | [106607-anicon-animal-complex-sheeps-path.json](./106607-anicon-animal-complex-sheeps-path.json) |
 | ANIDU: Animal Dust Puppet’s Adventure | 258549 | [258549-anidu-animal-dust-puppet-s-adventure.json](./258549-anidu-animal-dust-puppet-s-adventure.json) |
@@ -6322,6 +6325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascending: Dojo | 170523 | [170523-ascending-dojo.json](./170523-ascending-dojo.json) |
 | Ascendshaft | 214060 | [214060-ascendshaft.json](./214060-ascendshaft.json) |
 | Ascension | 95408 | [95408-ascension.json](./95408-ascension.json) |
+| Ascension VR | 32106 | [32106-ascension-vr.json](./32106-ascension-vr.json) |
 | Ascension: Deckbuilding Game | 8638 | [8638-ascension-deckbuilding-game.json](./8638-ascension-deckbuilding-game.json) |
 | Ascension: The Immortal Alchemist | 318973 | [318973-ascension-the-immortal-alchemist.json](./318973-ascension-the-immortal-alchemist.json) |
 | Ascent | 330540 | [330540-ascent.json](./330540-ascent.json) |
@@ -7584,6 +7588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autumn Leaves | 176920 | [176920-autumn-leaves.json](./176920-autumn-leaves.json) |
 | Autumn Leaves | 216345 | [216345-autumn-leaves.json](./216345-autumn-leaves.json) |
 | Autumn Night 3D Shooter | 29723 | [29723-autumn-night-3d-shooter.json](./29723-autumn-night-3d-shooter.json) |
+| Autumn Park Mini Golf | 32048 | [32048-autumn-park-mini-golf.json](./32048-autumn-park-mini-golf.json) |
 | Autumn Soil | 184998 | [184998-autumn-soil.json](./184998-autumn-soil.json) |
 | Autumn Walk | 63883 | [63883-autumn-walk.json](./63883-autumn-walk.json) |
 | Autumn with the Shiba Inu | 236292 | [236292-autumn-with-the-shiba-inu.json](./236292-autumn-with-the-shiba-inu.json) |
@@ -7859,6 +7864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axion | 34999 | [34999-axion.json](./34999-axion.json) |
 | Axios Football | 338173 | [338173-axios-football.json](./338173-axios-football.json) |
 | Axis and Allies | 24171 | [24171-axis-and-allies.json](./24171-axis-and-allies.json) |
+| Axis Football 2016 | 32085 | [32085-axis-football-2016.json](./32085-axis-football-2016.json) |
 | Axis Football 2023 | 213436 | [213436-axis-football-2023.json](./213436-axis-football-2023.json) |
 | Axis Football 2027 | 416119 | [416119-axis-football-2027.json](./416119-axis-football-2027.json) |
 | Axis Forward | 100930 | [100930-axis-forward.json](./100930-axis-forward.json) |
