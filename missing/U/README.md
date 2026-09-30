@@ -98,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UEFA Champions League 1998-1999 | 44835 | [44835-uefa-champions-league-1998-1999.json](./44835-uefa-champions-league-1998-1999.json) |
 | UEFA Champions League 2004-2005 | 22303 | [22303-uefa-champions-league-2004-2005.json](./22303-uefa-champions-league-2004-2005.json) |
 | UEFA Champions League 2006–2007 | 7225 | [7225-uefa-champions-league-2006-2007.json](./7225-uefa-champions-league-2006-2007.json) |
+| UEFA Euro 2000 | 44831 | [44831-uefa-euro-2000.json](./44831-uefa-euro-2000.json) |
 | Ueki no Housoku: Jingi Sakuretsu! Nouryokusha Battle | 188652 | [188652-ueki-no-housoku-jingi-sakuretsu-nouryokusha-battle.json](./188652-ueki-no-housoku-jingi-sakuretsu-nouryokusha-battle.json) |
 | Ueqouow | 288332 | [288332-ueqouow.json](./288332-ueqouow.json) |
 | UFC Undisputed 2010 | 7228 | [7228-ufc-undisputed-2010.json](./7228-ufc-undisputed-2010.json) |
@@ -1358,6 +1359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untangle | 338820 | [338820-untangle.json](./338820-untangle.json) |
 | Untei DX | 295918 | [295918-untei-dx.json](./295918-untei-dx.json) |
 | Untergrund Raceways: Arena | 417518 | [417518-untergrund-raceways-arena.json](./417518-untergrund-raceways-arena.json) |
+| Until Dawn: Extended Edition | 42947 | [42947-until-dawn-extended-edition.json](./42947-until-dawn-extended-edition.json) |
 | Until Daybreak | 243692 | [243692-until-daybreak.json](./243692-until-daybreak.json) |
 | Until I Have You | 24977 | [24977-until-i-have-you.json](./24977-until-i-have-you.json) |
 | Until Last Breath | 148539 | [148539-until-last-breath.json](./148539-until-last-breath.json) |
