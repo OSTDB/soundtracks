@@ -2810,6 +2810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Arson Betrayal | 239312 | [239312-the-arson-betrayal.json](./239312-the-arson-betrayal.json) |
 | The Art of Chess | 14269 | [14269-the-art-of-chess.json](./14269-the-art-of-chess.json) |
 | The Art of Creation | 400362 | [400362-the-art-of-creation.json](./400362-the-art-of-creation.json) |
+| The Art of Fight | 27415 | [27415-the-art-of-fight.json](./27415-the-art-of-fight.json) |
 | The Art of GO | 14270 | [14270-the-art-of-go.json](./14270-the-art-of-go.json) |
 | The Art of Murder | 91354 | [91354-the-art-of-murder.json](./91354-the-art-of-murder.json) |
 | The Art of Tortoise Walking | 403187 | [403187-the-art-of-tortoise-walking.json](./403187-the-art-of-tortoise-walking.json) |
@@ -3674,6 +3675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse of the Werewolves | 17705 | [17705-the-curse-of-the-werewolves.json](./17705-the-curse-of-the-werewolves.json) |
 | The Curse of Trasmoz | 135307 | [135307-the-curse-of-trasmoz.json](./135307-the-curse-of-trasmoz.json) |
 | The Curse of Unatxi Kamala | 294704 | [294704-the-curse-of-unatxi-kamala.json](./294704-the-curse-of-unatxi-kamala.json) |
+| The Curse of Yendor | 27414 | [27414-the-curse-of-yendor.json](./27414-the-curse-of-yendor.json) |
 | The Curse of Zigoris | 130252 | [130252-the-curse-of-zigoris.json](./130252-the-curse-of-zigoris.json) |
 | The Cursed Amulet | 249860 | [249860-the-cursed-amulet.json](./249860-the-cursed-amulet.json) |
 | The Cursed Forest | 35848 | [35848-the-cursed-forest.json](./35848-the-cursed-forest.json) |
@@ -4721,6 +4723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Golden Tower | 362911 | [362911-the-golden-tower.json](./362911-the-golden-tower.json) |
 | The Golem | 138674 | [138674-the-golem.json](./138674-the-golem.json) |
 | The Golf Club 2019 featuring PGA Tour | 91128 | [91128-the-golf-club-2019-featuring-pga-tour.json](./91128-the-golf-club-2019-featuring-pga-tour.json) |
+| The Golf Club VR | 27545 | [27545-the-golf-club-vr.json](./27545-the-golf-club-vr.json) |
 | The Golf: Bishoujo Classic | 41309 | [41309-the-golf-bishoujo-classic.json](./41309-the-golf-bishoujo-classic.json) |
 | The Good Chicken | 220673 | [220673-the-good-chicken.json](./220673-the-good-chicken.json) |
 | The Good Colony | 311614 | [311614-the-good-colony.json](./311614-the-good-colony.json) |
@@ -8148,6 +8151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tennis for Two Simulator | 340020 | [340020-the-tennis-for-two-simulator.json](./340020-the-tennis-for-two-simulator.json) |
 | The Tennis Master | 215247 | [215247-the-tennis-master.json](./215247-the-tennis-master.json) |
 | The Tensor | 318401 | [318401-the-tensor.json](./318401-the-tensor.json) |
+| The Tenth Line | 27973 | [27973-the-tenth-line.json](./27973-the-tenth-line.json) |
 | The Tenth Minute | 400243 | [400243-the-tenth-minute.json](./400243-the-tenth-minute.json) |
 | The Terminal | 176818 | [176818-the-terminal.json](./176818-the-terminal.json) |
 | The Terminator | 198940 | [198940-the-terminator.json](./198940-the-terminator.json) |
@@ -11140,6 +11144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titanfall 2: Angel City's Most Wanted Bundle | 170861 | [170861-titanfall-2-angel-citys-most-wanted-bundle.json](./170861-titanfall-2-angel-citys-most-wanted-bundle.json) |
 | Titanfall 2: Deluxe Edition | 53805 | [53805-titanfall-2-deluxe-edition.json](./53805-titanfall-2-deluxe-edition.json) |
 | Titanfall 2: Nitro Scorch Pack | 170862 | [170862-titanfall-2-nitro-scorch-pack.json](./170862-titanfall-2-nitro-scorch-pack.json) |
+| Titanfall 2: Vanguard Collector's Edition | 21729 | [21729-titanfall-2-vanguard-collectors-edition.json](./21729-titanfall-2-vanguard-collectors-edition.json) |
 | Titanfall 3 | 77418 | [77418-titanfall-3.json](./77418-titanfall-3.json) |
 | Titanfall Frontline | 26790 | [26790-titanfall-frontline.json](./26790-titanfall-frontline.json) |
 | Titanfall Frontline | 400292 | [400292-titanfall-frontline.json](./400292-titanfall-frontline.json) |
@@ -12807,6 +12812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Townkins: Wonderland Village | 103667 | [103667-townkins-wonderland-village.json](./103667-townkins-wonderland-village.json) |
 | Townlore 2.0 | 299480 | [299480-townlore-2-0.json](./299480-townlore-2-0.json) |
 | Townopolis Romopolis Megapolis Collection | 53836 | [53836-townopolis-romopolis-megapolis-collection.json](./53836-townopolis-romopolis-megapolis-collection.json) |
+| Towns | 28041 | [28041-towns.json](./28041-towns.json) |
 | Towns and Towers | 341866 | [341866-towns-and-towers.json](./341866-towns-and-towers.json) |
 | Townscaper VR | 223141 | [223141-townscaper-vr.json](./223141-townscaper-vr.json) |
 | Townseek | 177316 | [177316-townseek.json](./177316-townseek.json) |
@@ -13784,6 +13790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers: Devastation | 11175 | [11175-transformers-devastation.json](./11175-transformers-devastation.json) |
 | Transformers: Earth Wars | 58345 | [58345-transformers-earth-wars.json](./58345-transformers-earth-wars.json) |
 | Transformers: Fall of Cybertron | 8361 | [8361-transformers-fall-of-cybertron.json](./8361-transformers-fall-of-cybertron.json) |
+| Transformers: Forged to Fight | 27995 | [27995-transformers-forged-to-fight.json](./27995-transformers-forged-to-fight.json) |
 | Transformers: Galactic Trials | 307442 | [307442-transformers-galactic-trials.json](./307442-transformers-galactic-trials.json) |
 | Transformers: Reactivate | 228536 | [228536-transformers-reactivate.json](./228536-transformers-reactivate.json) |
 | Transformers: Revenge of the Fallen | 335116 | [335116-transformers-revenge-of-the-fallen.json](./335116-transformers-revenge-of-the-fallen.json) |
