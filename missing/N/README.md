@@ -1999,6 +1999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night At The Motel | 376485 | [376485-night-at-the-motel.json](./376485-night-at-the-motel.json) |
 | Night at the Office | 201791 | [201791-night-at-the-office.json](./201791-night-at-the-office.json) |
 | Night at the Office | 327806 | [327806-night-at-the-office.json](./327806-night-at-the-office.json) |
+| Night at Vibri's | 406951 | [406951-night-at-vibris.json](./406951-night-at-vibris.json) |
 | Night Bars | 233204 | [233204-night-bars.json](./233204-night-bars.json) |
 | Night Blade | 146122 | [146122-night-blade.json](./146122-night-blade.json) |
 | Night Blights | 33457 | [33457-night-blights.json](./33457-night-blights.json) |
