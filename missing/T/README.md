@@ -2077,6 +2077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal Hacker | 30854 | [30854-terminal-hacker.json](./30854-terminal-hacker.json) |
 | Terminal Hacker - Into the Deep | 35935 | [35935-terminal-hacker-into-the-deep.json](./35935-terminal-hacker-into-the-deep.json) |
 | Terminal Machine | 54427 | [54427-terminal-machine.json](./54427-terminal-machine.json) |
+| Terminal Reign | 416003 | [416003-terminal-reign.json](./416003-terminal-reign.json) |
 | Terminal Shift | 355074 | [355074-terminal-shift.json](./355074-terminal-shift.json) |
 | Terminal Sickness | 110396 | [110396-terminal-sickness.json](./110396-terminal-sickness.json) |
 | Terminal Singularity | 158701 | [158701-terminal-singularity.json](./158701-terminal-singularity.json) |
@@ -4750,6 +4751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gorge | 322392 | [322392-the-gorge.json](./322392-the-gorge.json) |
 | The Goto Family's: The Island Murder Case | 150112 | [150112-the-goto-familys-the-island-murder-case.json](./150112-the-goto-familys-the-island-murder-case.json) |
 | The Gourmet Factor | 308897 | [308897-the-gourmet-factor.json](./308897-the-gourmet-factor.json) |
+| The Grand Book Archive: Tidy Up | 415246 | [415246-the-grand-book-archive-tidy-up.json](./415246-the-grand-book-archive-tidy-up.json) |
 | The Grand Guignol | 271733 | [271733-the-grand-guignol.json](./271733-the-grand-guignol.json) |
 | The Grand Jump 5 | 99416 | [99416-the-grand-jump-5.json](./99416-the-grand-jump-5.json) |
 | The Grand Prismatic | 411613 | [411613-the-grand-prismatic.json](./411613-the-grand-prismatic.json) |
@@ -4857,6 +4859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gunk | 136000 | [136000-the-gunk.json](./136000-the-gunk.json) |
 | The Gurgling | 381594 | [381594-the-gurgling.json](./381594-the-gurgling.json) |
 | The Gurion Mountains | 148915 | [148915-the-gurion-mountains.json](./148915-the-gurion-mountains.json) |
+| The Gutter | 415997 | [415997-the-gutter.json](./415997-the-gutter.json) |
 | The Guy Game | 5859 | [5859-the-guy-game.json](./5859-the-guy-game.json) |
 | The Hacker | 13724 | [13724-the-hacker.json](./13724-the-hacker.json) |
 | The Hacker 2.0 | 234051 | [234051-the-hacker-2-0.json](./234051-the-hacker-2-0.json) |
@@ -4977,6 +4980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The History Channel: Crusades - Quest for Power | 69799 | [69799-the-history-channel-crusades-quest-for-power.json](./69799-the-history-channel-crusades-quest-for-power.json) |
 | The History Channel: Great Battles of Rome | 20375 | [20375-the-history-channel-great-battles-of-rome.json](./20375-the-history-channel-great-battles-of-rome.json) |
 | The History Channel: The Civil War Experience | 200675 | [200675-the-history-channel-the-civil-war-experience.json](./200675-the-history-channel-the-civil-war-experience.json) |
+| The History of Everything | 415205 | [415205-the-history-of-everything.json](./415205-the-history-of-everything.json) |
 | The History of Fruit | 268471 | [268471-the-history-of-fruit.json](./268471-the-history-of-fruit.json) |
 | The History of Magic Tower: Opening | 309354 | [309354-the-history-of-magic-tower-opening.json](./309354-the-history-of-magic-tower-opening.json) |
 | The Hive | 242803 | [242803-the-hive.json](./242803-the-hive.json) |
@@ -5564,6 +5568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Crown | 175712 | [175712-the-last-crown.json](./175712-the-last-crown.json) |
 | The Last Crown: Midnight Horror | 17206 | [17206-the-last-crown-midnight-horror.json](./17206-the-last-crown-midnight-horror.json) |
 | The Last Crystal | 124138 | [124138-the-last-crystal.json](./124138-the-last-crystal.json) |
+| The Last Curse | 415996 | [415996-the-last-curse.json](./415996-the-last-curse.json) |
 | The Last Day | 40336 | [40336-the-last-day.json](./40336-the-last-day.json) |
 | The Last Days of Friendship Valley | 289999 | [289999-the-last-days-of-friendship-valley.json](./289999-the-last-days-of-friendship-valley.json) |
 | The Last Days of Sodom | 192662 | [192662-the-last-days-of-sodom.json](./192662-the-last-days-of-sodom.json) |
@@ -5993,6 +5998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Liberation of Kuwait | 73740 | [73740-the-liberation-of-kuwait.json](./73740-the-liberation-of-kuwait.json) |
 | The Librarian: Special Edition | 241360 | [241360-the-librarian-special-edition.json](./241360-the-librarian-special-edition.json) |
 | The Library of Babble | 121620 | [121620-the-library-of-babble.json](./121620-the-library-of-babble.json) |
+| The Library on the Lake | 416029 | [416029-the-library-on-the-lake.json](./416029-the-library-on-the-lake.json) |
 | The Lies We Tell Ourselves | 221135 | [221135-the-lies-we-tell-ourselves.json](./221135-the-lies-we-tell-ourselves.json) |
 | The Life and Suffering of Prince Jerian | 312141 | [312141-the-life-and-suffering-of-prince-jerian.json](./312141-the-life-and-suffering-of-prince-jerian.json) |
 | The Life and Suffering of Sir Brante | 138871 | [138871-the-life-and-suffering-of-sir-brante.json](./138871-the-life-and-suffering-of-sir-brante.json) |
@@ -7906,6 +7912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Source of the Nightmare Storms | 126625 | [126625-the-source-of-the-nightmare-storms.json](./126625-the-source-of-the-nightmare-storms.json) |
 | The South Island | 304381 | [304381-the-south-island.json](./304381-the-south-island.json) |
 | The Sovereign | 350447 | [350447-the-sovereign.json](./350447-the-sovereign.json) |
+| The Sovereign's Board | 416031 | [416031-the-sovereigns-board.json](./416031-the-sovereigns-board.json) |
 | The Space Adventure | 71472 | [71472-the-space-adventure.json](./71472-the-space-adventure.json) |
 | The Space Ark | 78614 | [78614-the-space-ark.json](./78614-the-space-ark.json) |
 | The Space Between | 378418 | [378418-the-space-between.json](./378418-the-space-between.json) |
@@ -8227,6 +8234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Thing That Happened | 294284 | [294284-the-thing-that-happened.json](./294284-the-thing-that-happened.json) |
 | The Thing With Mistletoes | 29589 | [29589-the-thing-with-mistletoes.json](./29589-the-thing-with-mistletoes.json) |
 | The Thing You Can't Defeat | 251239 | [251239-the-thing-you-cant-defeat.json](./251239-the-thing-you-cant-defeat.json) |
+| The Things We Don't See: 10 Interactive Stories of Horror, Mystery, and the Unknown | 415192 | [415192-the-things-we-dont-see-10-interactive-stories-of-horror-mystery-and-the-unknown.json](./415192-the-things-we-dont-see-10-interactive-stories-of-horror-mystery-and-the-unknown.json) |
 | The Things We Lost in the Flood | 118170 | [118170-the-things-we-lost-in-the-flood.json](./118170-the-things-we-lost-in-the-flood.json) |
 | The Thinker | 294210 | [294210-the-thinker.json](./294210-the-thinker.json) |
 | The Third Age | 264137 | [264137-the-third-age.json](./264137-the-third-age.json) |
@@ -13009,6 +13017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trade Mania 2 | 255047 | [255047-trade-mania-2.json](./255047-trade-mania-2.json) |
 | Trade Post Forest | 258986 | [258986-trade-post-forest.json](./258986-trade-post-forest.json) |
 | Trade Sails | 200718 | [200718-trade-sails.json](./200718-trade-sails.json) |
+| Trade the Crash | 416028 | [416028-trade-the-crash.json](./416028-trade-the-crash.json) |
 | Trader 2 | 94318 | [94318-trader-2.json](./94318-trader-2.json) |
 | Trader Life Simulator | 143666 | [143666-trader-life-simulator.json](./143666-trader-life-simulator.json) |
 | Trader of the Night | 219258 | [219258-trader-of-the-night.json](./219258-trader-of-the-night.json) |
