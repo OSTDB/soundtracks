@@ -1463,6 +1463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manifest | 128581 | [128581-manifest.json](./128581-manifest.json) |
 | Manifest | 215923 | [215923-manifest.json](./215923-manifest.json) |
 | Manifest No | 352162 | [352162-manifest-no.json](./352162-manifest-no.json) |
+| Manifesto | 388347 | [388347-manifesto.json](./388347-manifesto.json) |
 | Manifold | 165407 | [165407-manifold.json](./165407-manifold.json) |
 | Manika | 290528 | [290528-manika.json](./290528-manika.json) |
 | Manikineko Online | 392458 | [392458-manikineko-online.json](./392458-manikineko-online.json) |
@@ -3052,6 +3053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meal Escape | 86513 | [86513-meal-escape.json](./86513-meal-escape.json) |
 | Meal Quest | 376460 | [376460-meal-quest.json](./376460-meal-quest.json) |
 | Meal: Mystery Escape Room | 311828 | [311828-meal-mystery-escape-room.json](./311828-meal-mystery-escape-room.json) |
+| Mealmate | 388308 | [388308-mealmate.json](./388308-mealmate.json) |
 | Mealmates | 151009 | [151009-mealmates.json](./151009-mealmates.json) |
 | Mean Beans | 236289 | [236289-mean-beans.json](./236289-mean-beans.json) |
 | Mean Girls | 150035 | [150035-mean-girls.json](./150035-mean-girls.json) |
@@ -6856,6 +6858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Molecule Make Lab | 201133 | [201133-molecule-make-lab.json](./201133-molecule-make-lab.json) |
 | Molecule: A Chemical Challenge | 86584 | [86584-molecule-a-chemical-challenge.json](./86584-molecule-a-chemical-challenge.json) |
 | Molek-Syntez | 125208 | [125208-molek-syntez.json](./125208-molek-syntez.json) |
+| Molekraft | 388353 | [388353-molekraft.json](./388353-molekraft.json) |
 | Moleshine Cooking Simulator | 237057 | [237057-moleshine-cooking-simulator.json](./237057-moleshine-cooking-simulator.json) |
 | Molewack | 294815 | [294815-molewack.json](./294815-molewack.json) |
 | Moley Christmas | 59679 | [59679-moley-christmas.json](./59679-moley-christmas.json) |
