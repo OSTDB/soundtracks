@@ -721,6 +721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanae Toumaden X | 158500 | [158500-sanae-toumaden-x.json](./158500-sanae-toumaden-x.json) |
 | Sanae's Sylphid Breeze | 300377 | [300377-sanaes-sylphid-breeze.json](./300377-sanaes-sylphid-breeze.json) |
 | Sanalika | 180296 | [180296-sanalika.json](./180296-sanalika.json) |
+| Sanasana | 411754 | [411754-sanasana.json](./411754-sanasana.json) |
 | Sanatorium | 375324 | [375324-sanatorium.json](./375324-sanatorium.json) |
 | Sanctale | 350431 | [350431-sanctale.json](./350431-sanctale.json) |
 | Sancticide | 291154 | [291154-sancticide.json](./291154-sancticide.json) |
@@ -6274,6 +6275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Guy | 348881 | [348881-slime-guy.json](./348881-slime-guy.json) |
 | Slime Hero | 216890 | [216890-slime-hero.json](./216890-slime-hero.json) |
 | Slime Heroes | 152171 | [152171-slime-heroes.json](./152171-slime-heroes.json) |
+| Slime Jump | 411758 | [411758-slime-jump.json](./411758-slime-jump.json) |
 | Slime Jumper | 34316 | [34316-slime-jumper.json](./34316-slime-jumper.json) |
 | Slime Killer | 163910 | [163910-slime-killer.json](./163910-slime-killer.json) |
 | Slime Kingdom | 102192 | [102192-slime-kingdom.json](./102192-slime-kingdom.json) |
@@ -6951,6 +6953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snatched | 395585 | [395585-snatched.json](./395585-snatched.json) |
 | Snatcher | 197937 | [197937-snatcher.json](./197937-snatcher.json) |
 | Snax Lite (Cooking Arcade) | 100230 | [100230-snax-lite-cooking-arcade.json](./100230-snax-lite-cooking-arcade.json) |
+| Snayk 3+ | 411647 | [411647-snayk-3.json](./411647-snayk-3.json) |
 | Sneak and Snatch | 78376 | [78376-sneak-and-snatch.json](./78376-sneak-and-snatch.json) |
 | Sneak Attack | 24865 | [24865-sneak-attack.json](./24865-sneak-attack.json) |
 | Sneak In | 117071 | [117071-sneak-in.json](./117071-sneak-in.json) |
