@@ -153,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Firm Handshake | 176349 | [176349-a-firm-handshake.json](./176349-a-firm-handshake.json) |
 | A Flappy Bird in Real Life | 111077 | [111077-a-flappy-bird-in-real-life.json](./111077-a-flappy-bird-in-real-life.json) |
 | A Flower from Hermes | 185015 | [185015-a-flower-from-hermes.json](./185015-a-flower-from-hermes.json) |
+| A Fly in the Array | 387613 | [387613-a-fly-in-the-array.json](./387613-a-fly-in-the-array.json) |
 | A Foreign Land of Us | 410436 | [410436-a-foreign-land-of-us.json](./410436-a-foreign-land-of-us.json) |
 | A Forest | 387527 | [387527-a-forest.json](./387527-a-forest.json) |
 | A Forest Tale: Porasy | 330330 | [330330-a-forest-tale-porasy.json](./330330-a-forest-tale-porasy.json) |
@@ -1862,6 +1863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agrou: Rabbit pet | 170826 | [170826-agrou-rabbit-pet.json](./170826-agrou-rabbit-pet.json) |
 | Aguni: Unmei no Saki | 413839 | [413839-aguni-unmei-no-saki.json](./413839-aguni-unmei-no-saki.json) |
 | Aguri Suzuki F-1 Super Driving | 7747 | [7747-aguri-suzuki-f-1-super-driving.json](./7747-aguri-suzuki-f-1-super-driving.json) |
+| AGX GP | 387614 | [387614-agx-gp.json](./387614-agx-gp.json) |
 | Ah Nanjarin | 284418 | [284418-ah-nanjarin.json](./284418-ah-nanjarin.json) |
 | AH-1 Viper Cobra Ops | 223959 | [223959-ah-1-viper-cobra-ops.json](./223959-ah-1-viper-cobra-ops.json) |
 | AH-64 Apache Air Assault | 55974 | [55974-ah-64-apache-air-assault.json](./55974-ah-64-apache-air-assault.json) |
@@ -2612,6 +2614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alias: Underground | 223002 | [223002-alias-underground.json](./223002-alias-underground.json) |
 | Alibaba and the Scary Dev | 264086 | [264086-alibaba-and-the-scary-dev.json](./264086-alibaba-and-the-scary-dev.json) |
 | AlibAi | 337811 | [337811-alibai.json](./337811-alibai.json) |
+| Alibi for love | 387624 | [387624-alibi-for-love.json](./387624-alibi-for-love.json) |
 | Alibito | 412444 | [412444-alibito.json](./412444-alibito.json) |
 | Alice & Marisa | 270382 | [270382-alice-and-marisa.json](./270382-alice-and-marisa.json) |
 | Alice and Smith: Complete Library | 52589 | [52589-alice-and-smith-complete-library.json](./52589-alice-and-smith-complete-library.json) |
