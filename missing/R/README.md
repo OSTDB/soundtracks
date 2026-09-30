@@ -2181,6 +2181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReignMaker | 17162 | [17162-reignmaker.json](./17162-reignmaker.json) |
 | Reignman | 99033 | [99033-reignman.json](./99033-reignman.json) |
 | Reigns | 22436 | [22436-reigns.json](./22436-reigns.json) |
+| Reigns: Beyond | 139875 | [139875-reigns-beyond.json](./139875-reigns-beyond.json) |
 | Reigns: Complete Set | 300835 | [300835-reigns-complete-set.json](./300835-reigns-complete-set.json) |
 | Reigns: Game of Thrones | 107237 | [107237-reigns-game-of-thrones.json](./107237-reigns-game-of-thrones.json) |
 | Reigns: The Council | 122844 | [122844-reigns-the-council.json](./122844-reigns-the-council.json) |
@@ -3058,6 +3059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revhead | 26728 | [26728-revhead.json](./26728-revhead.json) |
 | Revhead: Turbo | 170958 | [170958-revhead-turbo.json](./170958-revhead-turbo.json) |
 | Review: Jashin Fukkatsu | 97233 | [97233-review-jashin-fukkatsu.json](./97233-review-jashin-fukkatsu.json) |
+| Revita | 139672 | [139672-revita.json](./139672-revita.json) |
 | Revival | 399205 | [399205-revival.json](./399205-revival.json) |
 | Revival and Exploration | 252130 | [252130-revival-and-exploration.json](./252130-revival-and-exploration.json) |
 | Revival AO | 212245 | [212245-revival-ao.json](./212245-revival-ao.json) |
@@ -5067,6 +5069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooftop Rascal: The Midnight Cat | 315893 | [315893-rooftop-rascal-the-midnight-cat.json](./315893-rooftop-rascal-the-midnight-cat.json) |
 | Rooftop Rascal: The Pirate Cat | 394844 | [394844-rooftop-rascal-the-pirate-cat.json](./394844-rooftop-rascal-the-pirate-cat.json) |
 | Rooftop Rascal: The Spooky Cat | 320373 | [320373-rooftop-rascal-the-spooky-cat.json](./320373-rooftop-rascal-the-spooky-cat.json) |
+| Rooftop Renegade | 139449 | [139449-rooftop-renegade.json](./139449-rooftop-renegade.json) |
 | Rooftop Story | 370717 | [370717-rooftop-story.json](./370717-rooftop-story.json) |
 | Rooftops & Alleys: The Parkour Game | 279900 | [279900-rooftops-and-alleys-the-parkour-game.json](./279900-rooftops-and-alleys-the-parkour-game.json) |
 | Roogoo Twisted Towers! | 21248 | [21248-roogoo-twisted-towers.json](./21248-roogoo-twisted-towers.json) |
