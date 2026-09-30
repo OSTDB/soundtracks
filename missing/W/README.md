@@ -1035,6 +1035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wash the Cars | 338394 | [338394-wash-the-cars.json](./338394-wash-the-cars.json) |
 | Washed Up! | 104040 | [104040-washed-up.json](./104040-washed-up.json) |
 | Washeteria | 353965 | [353965-washeteria.json](./353965-washeteria.json) |
+| Washington Prime | 387589 | [387589-washington-prime.json](./387589-washington-prime.json) |
 | WashWash | 178422 | [178422-washwash.json](./178422-washwash.json) |
 | Wasm4nia | 307615 | [307615-wasm4nia.json](./307615-wasm4nia.json) |
 | Wassie Tale | 207377 | [207377-wassie-tale.json](./207377-wassie-tale.json) |
@@ -2017,6 +2018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where's My Bara Deck? Hardcastle | 393834 | [393834-wheres-my-bara-deck-hardcastle.json](./393834-wheres-my-bara-deck-hardcastle.json) |
 | Where's My Chicken? | 181699 | [181699-wheres-my-chicken.json](./181699-wheres-my-chicken.json) |
 | Where's My Drink...? | 365863 | [365863-wheres-my-drink.json](./365863-wheres-my-drink.json) |
+| Where's My Egg? | 387592 | [387592-wheres-my-egg.json](./387592-wheres-my-egg.json) |
 | Where's my geek? | 197230 | [197230-wheres-my-geek.json](./197230-wheres-my-geek.json) |
 | Where's My Hentai Deck? Castle Hunt | 389621 | [389621-wheres-my-hentai-deck-castle-hunt.json](./389621-wheres-my-hentai-deck-castle-hunt.json) |
 | Where's My Kitty | 338374 | [338374-wheres-my-kitty.json](./338374-wheres-my-kitty.json) |
