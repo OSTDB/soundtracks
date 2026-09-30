@@ -1446,6 +1446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Fury: City of the Wolves - Ken | 317831 | [317831-fatal-fury-city-of-the-wolves-ken.json](./317831-fatal-fury-city-of-the-wolves-ken.json) |
 | Fatal Fury: City of the Wolves - Legend Edition | 399203 | [399203-fatal-fury-city-of-the-wolves-legend-edition.json](./399203-fatal-fury-city-of-the-wolves-legend-edition.json) |
 | Fatal Fury: City of the Wolves - Season Pass 1 | 317833 | [317833-fatal-fury-city-of-the-wolves-season-pass-1.json](./317833-fatal-fury-city-of-the-wolves-season-pass-1.json) |
+| Fatal Fury: City of the Wolves - Special Edition | 327461 | [327461-fatal-fury-city-of-the-wolves-special-edition.json](./327461-fatal-fury-city-of-the-wolves-special-edition.json) |
 | Fatal Fury: Wild Ambition | 346147 | [346147-fatal-fury-wild-ambition.json](./346147-fatal-fury-wild-ambition.json) |
 | Fatal Gaming | 417494 | [417494-fatal-gaming.json](./417494-fatal-gaming.json) |
 | Fatal Gem VR | 30863 | [30863-fatal-gem-vr.json](./30863-fatal-gem-vr.json) |
@@ -3119,6 +3120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fitness Boxing 3: Your Personal Trainer | 314941 | [314941-fitness-boxing-3-your-personal-trainer.json](./314941-fitness-boxing-3-your-personal-trainer.json) |
 | Fitness Boxing Fist of the North Star | 217551 | [217551-fitness-boxing-fist-of-the-north-star.json](./217551-fitness-boxing-fist-of-the-north-star.json) |
 | Fitness Dash | 16078 | [16078-fitness-dash.json](./16078-fitness-dash.json) |
+| Fitness Fables | 327589 | [327589-fitness-fables.json](./327589-fitness-fables.json) |
 | Fitness Game: Romance Story | 256250 | [256250-fitness-game-romance-story.json](./256250-fitness-game-romance-story.json) |
 | Fitness Girl - Studio Coach | 86814 | [86814-fitness-girl-studio-coach.json](./86814-fitness-girl-studio-coach.json) |
 | Fittest | 100167 | [100167-fittest.json](./100167-fittest.json) |
@@ -5862,6 +5864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FTL: Multiverse | 203369 | [203369-ftl-multiverse.json](./203369-ftl-multiverse.json) |
 | Fu-Fu-Chan: Way Up! | 408933 | [408933-fu-fu-chan-way-up.json](./408933-fu-fu-chan-way-up.json) |
 | Fu'un Super Combo | 84318 | [84318-fuun-super-combo.json](./84318-fuun-super-combo.json) |
+| Fubuki: Zero in on Holoearth | 331530 | [331530-fubuki-zero-in-on-holoearth.json](./331530-fubuki-zero-in-on-holoearth.json) |
 | Fùchóuzhě Liánméng: Zhōngjí Yīngxióng | 82052 | [82052-fuchouzhe-lianmeng-zhongji-yingxiong.json](./82052-fuchouzhe-lianmeng-zhongji-yingxiong.json) |
 | Fuchsia: a Point-and-Click Adventure | 139869 | [139869-fuchsia-a-point-and-click-adventure.json](./139869-fuchsia-a-point-and-click-adventure.json) |
 | Fuck Fest | 346687 | [346687-fuck-fest.json](./346687-fuck-fest.json) |
