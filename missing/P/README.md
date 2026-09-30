@@ -5100,6 +5100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Gold and Silver 97: Reforged | 203224 | [203224-pokemon-gold-and-silver-97-reforged.json](./203224-pokemon-gold-and-silver-97-reforged.json) |
 | Pokémon Gratia | 318562 | [318562-pokemon-gratia.json](./318562-pokemon-gratia.json) |
 | Pokemon HG/SS Golden Edition | 334655 | [334655-pokemon-hg-ss-golden-edition.json](./334655-pokemon-hg-ss-golden-edition.json) |
+| Pokémon Hoenn's Last Wish | 396514 | [396514-pokemon-hoenns-last-wish.json](./396514-pokemon-hoenns-last-wish.json) |
 | Pokémon Home | 141960 | [141960-pokemon-home.json](./141960-pokemon-home.json) |
 | Pokémon Infinite Fusion 2: Hoenn | 406249 | [406249-pokemon-infinite-fusion-2-hoenn.json](./406249-pokemon-infinite-fusion-2-hoenn.json) |
 | Pokémon Island | 202405 | [202405-pokemon-island.json](./202405-pokemon-island.json) |
@@ -7391,6 +7392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Aurora | 155503 | [155503-project-aurora.json](./155503-project-aurora.json) |
 | Project: Bits | 29741 | [29741-project-bits.json](./29741-project-bits.json) |
 | Project: Catalepsy | 395571 | [395571-project-catalepsy.json](./395571-project-catalepsy.json) |
+| Project: Colt | 396528 | [396528-project-colt.json](./396528-project-colt.json) |
 | Project: Dream | 220658 | [220658-project-dream.json](./220658-project-dream.json) |
 | Project: Eden's Garden | 222895 | [222895-project-edens-garden.json](./222895-project-edens-garden.json) |
 | Project: EGG | 330872 | [330872-project-egg.json](./330872-project-egg.json) |
@@ -7670,6 +7672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycho Dream | 42420 | [42420-psycho-dream.json](./42420-psycho-dream.json) |
 | Psycho Dreams | 291019 | [291019-psycho-dreams.json](./291019-psycho-dreams.json) |
 | Psycho Fear | 239734 | [239734-psycho-fear.json](./239734-psycho-fear.json) |
+| Psycho Inn | 396477 | [396477-psycho-inn.json](./396477-psycho-inn.json) |
 | Psycho on the loose | 30036 | [30036-psycho-on-the-loose.json](./30036-psycho-on-the-loose.json) |
 | Psycho Pigs | 59949 | [59949-psycho-pigs.json](./59949-psycho-pigs.json) |
 | Psycho Santa | 66394 | [66394-psycho-santa.json](./66394-psycho-santa.json) |
@@ -8013,6 +8016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure x Connect | 60203 | [60203-pure-x-connect.json](./60203-pure-x-connect.json) |
 | Pure Yome | 415141 | [415141-pure-yome.json](./415141-pure-yome.json) |
 | Pure-hearted Gyaru and the Shape of Happiness | 221700 | [221700-pure-hearted-gyaru-and-the-shape-of-happiness.json](./221700-pure-hearted-gyaru-and-the-shape-of-happiness.json) |
+| Purely x Cation | 396498 | [396498-purely-x-cation.json](./396498-purely-x-cation.json) |
 | PureSim Baseball 2005 | 23784 | [23784-puresim-baseball-2005.json](./23784-puresim-baseball-2005.json) |
 | PureSkate | 193718 | [193718-pureskate.json](./193718-pureskate.json) |
 | PureSkate 2 | 175431 | [175431-pureskate-2.json](./175431-pureskate-2.json) |
