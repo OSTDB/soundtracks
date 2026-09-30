@@ -802,6 +802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Wasteland | 153922 | [153922-idle-wasteland.json](./153922-idle-wasteland.json) |
 | Idle Wasteland: Pet Slot Bundle | 157546 | [157546-idle-wasteland-pet-slot-bundle.json](./157546-idle-wasteland-pet-slot-bundle.json) |
 | Idle Waters | 304604 | [304604-idle-waters.json](./304604-idle-waters.json) |
+| Idle Ways | 390213 | [390213-idle-ways.json](./390213-idle-ways.json) |
 | Idle Weaponshop | 261756 | [261756-idle-weaponshop.json](./261756-idle-weaponshop.json) |
 | Idle Wizard | 101773 | [101773-idle-wizard.json](./101773-idle-wizard.json) |
 | Idle World | 392449 | [392449-idle-world.json](./392449-idle-world.json) |
