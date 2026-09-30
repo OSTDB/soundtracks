@@ -1411,6 +1411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Arthur's K.O.R.T. | 69839 | [69839-king-arthurs-k-o-r-t.json](./69839-king-arthurs-k-o-r-t.json) |
 | King Boo's Revenge PC | 378293 | [378293-king-boos-revenge-pc.json](./378293-king-boos-revenge-pc.json) |
 | King Boo's Seven Towers | 313302 | [313302-king-boos-seven-towers.json](./313302-king-boos-seven-towers.json) |
+| King Crab | 388292 | [388292-king-crab.json](./388292-king-crab.json) |
 | King Cribbage | 73223 | [73223-king-cribbage.json](./73223-king-cribbage.json) |
 | King Datchi | 244890 | [244890-king-datchi.json](./244890-king-datchi.json) |
 | King Erik | 112725 | [112725-king-erik.json](./112725-king-erik.json) |
@@ -2616,6 +2617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kowalski | 388367 | [388367-kowalski.json](./388367-kowalski.json) |
 | Kowi Ishto: Battle of Akonoli | 125476 | [125476-kowi-ishto-battle-of-akonoli.json](./125476-kowi-ishto-battle-of-akonoli.json) |
 | Kowloon High-School Chronicle | 122279 | [122279-kowloon-high-school-chronicle.json](./122279-kowloon-high-school-chronicle.json) |
+| Kowloon Labyrinth | 388310 | [388310-kowloon-labyrinth.json](./388310-kowloon-labyrinth.json) |
 | Kowloon Story 2 | 291741 | [291741-kowloon-story-2.json](./291741-kowloon-story-2.json) |
 | Kowloon Youma Gakuen Ki re:charge | 122278 | [122278-kowloon-youma-gakuen-ki-re-charge.json](./122278-kowloon-youma-gakuen-ki-re-charge.json) |
 | Kowloon Youma Gakuen Ki: Origin of Adventure - Yomigaeru Hihouban | 136880 | [136880-kowloon-youma-gakuen-ki-origin-of-adventure-yomigaeru-hihouban.json](./136880-kowloon-youma-gakuen-ki-origin-of-adventure-yomigaeru-hihouban.json) |
@@ -2762,6 +2764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kukuevo | 280764 | [280764-kukuevo.json](./280764-kukuevo.json) |
 | Kukui 2 | 140011 | [140011-kukui-2.json](./140011-kukui-2.json) |
 | Kukumushi Virtual Pet | 189134 | [189134-kukumushi-virtual-pet.json](./189134-kukumushi-virtual-pet.json) |
+| Kuky Adventure | 388286 | [388286-kuky-adventure.json](./388286-kuky-adventure.json) |
 | Kula | 164992 | [164992-kula.json](./164992-kula.json) |
 | Kulebra and the Souls of Limbo | 204533 | [204533-kulebra-and-the-souls-of-limbo.json](./204533-kulebra-and-the-souls-of-limbo.json) |
 | Kuma no Pooh-San: 100 Acre no Mori no Cooking Book | 130752 | [130752-kuma-no-pooh-san-100-acre-no-mori-no-cooking-book.json](./130752-kuma-no-pooh-san-100-acre-no-mori-no-cooking-book.json) |
