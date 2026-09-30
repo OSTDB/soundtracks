@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back 4 Blood: Day One Steelbook Edition | 252174 | [252174-back-4-blood-day-one-steelbook-edition.json](./252174-back-4-blood-day-one-steelbook-edition.json) |
 | Back 4 Blood: Fort Hope Elite Weapon Skins | 323952 | [323952-back-4-blood-fort-hope-elite-weapon-skins.json](./323952-back-4-blood-fort-hope-elite-weapon-skins.json) |
 | Back 4 Blood: Special Edition | 323953 | [323953-back-4-blood-special-edition.json](./323953-back-4-blood-special-edition.json) |
+| Back 4 Blood: Tunnels of Terror | 197488 | [197488-back-4-blood-tunnels-of-terror.json](./197488-back-4-blood-tunnels-of-terror.json) |
 | Back 4 Blood: Ultimate Edition | 141889 | [141889-back-4-blood-ultimate-edition.json](./141889-back-4-blood-ultimate-edition.json) |
 | Back 4 More | 338185 | [338185-back-4-more.json](./338185-back-4-more.json) |
 | Back Again | 192507 | [192507-back-again.json](./192507-back-again.json) |
@@ -1610,6 +1611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Return to Arkham | 19245 | [19245-batman-return-to-arkham.json](./19245-batman-return-to-arkham.json) |
 | Batman: Return to Arkham - Arkham City | 203435 | [203435-batman-return-to-arkham-arkham-city.json](./203435-batman-return-to-arkham-arkham-city.json) |
 | Batman: Revenge of the Joker | 45204 | [45204-batman-revenge-of-the-joker.json](./45204-batman-revenge-of-the-joker.json) |
+| Batman: Rise of Sin Tzu | 197871 | [197871-batman-rise-of-sin-tzu.json](./197871-batman-rise-of-sin-tzu.json) |
 | Batman: Rise of Sin Tzu | 5739 | [5739-batman-rise-of-sin-tzu.json](./5739-batman-rise-of-sin-tzu.json) |
 | Batman: The Brave and the Bold | 245552 | [245552-batman-the-brave-and-the-bold.json](./245552-batman-the-brave-and-the-bold.json) |
 | Batman: The Brave and the Bold - The Videogame | 4707 | [4707-batman-the-brave-and-the-bold-the-videogame.json](./4707-batman-the-brave-and-the-bold-the-videogame.json) |
@@ -5299,6 +5301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Tower Chronicle | 413739 | [413739-blue-tower-chronicle.json](./413739-blue-tower-chronicle.json) |
 | Blue Volta | 120251 | [120251-blue-volta.json](./120251-blue-volta.json) |
 | Blue Wars | 193947 | [193947-blue-wars.json](./193947-blue-wars.json) |
+| Blue Wednesday | 216668 | [216668-blue-wednesday.json](./216668-blue-wednesday.json) |
 | Blue Whale | 75320 | [75320-blue-whale.json](./75320-blue-whale.json) |
 | Blue Wish Resurrection Plus | 122850 | [122850-blue-wish-resurrection-plus.json](./122850-blue-wish-resurrection-plus.json) |
 | Blue Wyrm | 331956 | [331956-blue-wyrm.json](./331956-blue-wyrm.json) |
