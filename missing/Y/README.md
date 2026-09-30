@@ -612,6 +612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Fairytale | 97159 | [97159-your-fairytale.json](./97159-your-fairytale.json) |
 | Your Fear | 151000 | [151000-your-fear.json](./151000-your-fear.json) |
 | Your Future 2 Future Prediction | 276455 | [276455-your-future-2-future-prediction.json](./276455-your-future-2-future-prediction.json) |
+| Your Future Self | 115498 | [115498-your-future-self.json](./115498-your-future-self.json) |
 | Your God Is False | 336903 | [336903-your-god-is-false.json](./336903-your-god-is-false.json) |
 | Your House | 274758 | [274758-your-house.json](./274758-your-house.json) |
 | Your Human is Sick | 149008 | [149008-your-human-is-sick.json](./149008-your-human-is-sick.json) |
