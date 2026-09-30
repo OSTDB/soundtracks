@@ -1714,6 +1714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heidelberg 1693 | 135841 | [135841-heidelberg-1693.json](./135841-heidelberg-1693.json) |
 | Heidi: The Game | 49479 | [49479-heidi-the-game.json](./49479-heidi-the-game.json) |
 | Heileen 1: Sail Away | 17441 | [17441-heileen-1-sail-away.json](./17441-heileen-1-sail-away.json) |
+| Heileen 3: New Horizons | 36280 | [36280-heileen-3-new-horizons.json](./36280-heileen-3-new-horizons.json) |
 | Heimdall | 5393 | [5393-heimdall.json](./5393-heimdall.json) |
 | Heimdallr | 174871 | [174871-heimdallr.json](./174871-heimdallr.json) |
 | Heir | 191566 | [191566-heir.json](./191566-heir.json) |
@@ -2743,6 +2744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Science and Fiction | 219606 | [219606-heroes-of-science-and-fiction.json](./219606-heroes-of-science-and-fiction.json) |
 | Heroes of Solitairea | 294862 | [294862-heroes-of-solitairea.json](./294862-heroes-of-solitairea.json) |
 | Heroes of Spyria | 250462 | [250462-heroes-of-spyria.json](./250462-heroes-of-spyria.json) |
+| Heroes of Steel RPG | 36360 | [36360-heroes-of-steel-rpg.json](./36360-heroes-of-steel-rpg.json) |
 | Heroes of Steel Tactics RPG | 53191 | [53191-heroes-of-steel-tactics-rpg.json](./53191-heroes-of-steel-tactics-rpg.json) |
 | Heroes of the 357th | 15474 | [15474-heroes-of-the-357th.json](./15474-heroes-of-the-357th.json) |
 | Heroes of the Citadel | 285583 | [285583-heroes-of-the-citadel.json](./285583-heroes-of-the-citadel.json) |
