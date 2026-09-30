@@ -780,6 +780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capsule Rush | 218710 | [218710-capsule-rush.json](./218710-capsule-rush.json) |
 | Capsule Servant | 121441 | [121441-capsule-servant.json](./121441-capsule-servant.json) |
 | Capsule Silence XXIV | 58737 | [58737-capsule-silence-xxiv.json](./58737-capsule-silence-xxiv.json) |
+| Capsulitas | 390201 | [390201-capsulitas.json](./390201-capsulitas.json) |
 | Capt Crabs a Slimy Adventure | 249821 | [249821-capt-crabs-a-slimy-adventure.json](./249821-capt-crabs-a-slimy-adventure.json) |
 | Captain 25 | 346086 | [346086-captain-25.json](./346086-captain-25.json) |
 | Captain A-Hole's Guide To Getting Old(er) | 279681 | [279681-captain-a-holes-guide-to-getting-old-er.json](./279681-captain-a-holes-guide-to-getting-old-er.json) |
@@ -3478,6 +3479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chogue | 105114 | [105114-chogue.json](./105114-chogue.json) |
 | Choice Matters | 312752 | [312752-choice-matters.json](./312752-choice-matters.json) |
 | Choice of Alexandria | 19483 | [19483-choice-of-alexandria.json](./19483-choice-of-alexandria.json) |
+| Choice of Life: Floors | 390183 | [390183-choice-of-life-floors.json](./390183-choice-of-life-floors.json) |
 | Choice of Life: Samosbor | 158645 | [158645-choice-of-life-samosbor.json](./158645-choice-of-life-samosbor.json) |
 | Choice of Life: Wild Islands | 253576 | [253576-choice-of-life-wild-islands.json](./253576-choice-of-life-wild-islands.json) |
 | Choice of Magics | 107060 | [107060-choice-of-magics.json](./107060-choice-of-magics.json) |
@@ -3819,6 +3821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Mirror | 276696 | [276696-chrono-mirror.json](./276696-chrono-mirror.json) |
 | Chrono Port: Heroes of All Time | 366320 | [366320-chrono-port-heroes-of-all-time.json](./366320-chrono-port-heroes-of-all-time.json) |
 | Chrono Ressurection | 263448 | [263448-chrono-ressurection.json](./263448-chrono-ressurection.json) |
+| Chrono Spin | 390176 | [390176-chrono-spin.json](./390176-chrono-spin.json) |
 | Chrono Sword | 122280 | [122280-chrono-sword.json](./122280-chrono-sword.json) |
 | Chrono Tales | 333574 | [333574-chrono-tales.json](./333574-chrono-tales.json) |
 | Chrono Trigger | 20398 | [20398-chrono-trigger.json](./20398-chrono-trigger.json) |
@@ -9197,6 +9200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Animals and Heavy Guns | 255704 | [255704-cute-animals-and-heavy-guns.json](./255704-cute-animals-and-heavy-guns.json) |
 | Cute Animals Memory Card Game | 153455 | [153455-cute-animals-memory-card-game.json](./153455-cute-animals-memory-card-game.json) |
 | Cute Army: A Cat Story | 176448 | [176448-cute-army-a-cat-story.json](./176448-cute-army-a-cat-story.json) |
+| Cute Away: Paws Caretaker Simulator | 390216 | [390216-cute-away-paws-caretaker-simulator.json](./390216-cute-away-paws-caretaker-simulator.json) |
 | Cute Bendy and Projectionist | 106520 | [106520-cute-bendy-and-projectionist.json](./106520-cute-bendy-and-projectionist.json) |
 | Cute Bendy and The Projectionist | 279065 | [279065-cute-bendy-and-the-projectionist.json](./279065-cute-bendy-and-the-projectionist.json) |
 | Cute Bite | 152325 | [152325-cute-bite.json](./152325-cute-bite.json) |
