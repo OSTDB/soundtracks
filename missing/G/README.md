@@ -1265,6 +1265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gender Wars | 50141 | [50141-gender-wars.json](./50141-gender-wars.json) |
 | Genderless Haruka's Confinement & Discipline RPG | 82987 | [82987-genderless-harukas-confinement-and-discipline-rpg.json](./82987-genderless-harukas-confinement-and-discipline-rpg.json) |
 | Genderman | 391600 | [391600-genderman.json](./391600-genderman.json) |
+| Gendo The Gatherer | 404352 | [404352-gendo-the-gatherer.json](./404352-gendo-the-gatherer.json) |
 | Gene | 35898 | [35898-gene.json](./35898-gene.json) |
 | Gene Crawl: Dungeon Descent | 406136 | [406136-gene-crawl-dungeon-descent.json](./406136-gene-crawl-dungeon-descent.json) |
 | Gene Labs | 84514 | [84514-gene-labs.json](./84514-gene-labs.json) |
@@ -1769,6 +1770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Party Nyanbaba | 187846 | [187846-ghost-party-nyanbaba.json](./187846-ghost-party-nyanbaba.json) |
 | Ghost Party: Nemuri-hime | 308873 | [308873-ghost-party-nemuri-hime.json](./308873-ghost-party-nemuri-hime.json) |
 | Ghost Patrol VR | 135117 | [135117-ghost-patrol-vr.json](./135117-ghost-patrol-vr.json) |
+| Ghost Platform | 404371 | [404371-ghost-platform.json](./404371-ghost-platform.json) |
 | Ghost Puncher | 211171 | [211171-ghost-puncher.json](./211171-ghost-puncher.json) |
 | Ghost Punishment | 121590 | [121590-ghost-punishment.json](./121590-ghost-punishment.json) |
 | Ghost Pursuit VR | 31977 | [31977-ghost-pursuit-vr.json](./31977-ghost-pursuit-vr.json) |
@@ -2622,6 +2624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Goopmaxxing | 375840 | [375840-goblin-goopmaxxing.json](./375840-goblin-goopmaxxing.json) |
 | Goblin Kart Rescue | 302473 | [302473-goblin-kart-rescue.json](./302473-goblin-kart-rescue.json) |
 | Goblin Keep | 240717 | [240717-goblin-keep.json](./240717-goblin-keep.json) |
+| Goblin Museum | 404346 | [404346-goblin-museum.json](./404346-goblin-museum.json) |
 | Goblin Path | 382446 | [382446-goblin-path.json](./382446-goblin-path.json) |
 | Goblin Quest: Escape! | 115648 | [115648-goblin-quest-escape.json](./115648-goblin-quest-escape.json) |
 | Goblin Rules Football | 217277 | [217277-goblin-rules-football.json](./217277-goblin-rules-football.json) |
@@ -4969,6 +4972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunHowl | 144802 | [144802-gunhowl.json](./144802-gunhowl.json) |
 | Gunjack | 18363 | [18363-gunjack.json](./18363-gunjack.json) |
 | Gunjin Gari | 59071 | [59071-gunjin-gari.json](./59071-gunjin-gari.json) |
+| Gunk | 404388 | [404388-gunk.json](./404388-gunk.json) |
 | Gunkour | 150085 | [150085-gunkour.json](./150085-gunkour.json) |
 | Gunless | 84262 | [84262-gunless.json](./84262-gunless.json) |
 | Gunlocked 2 | 334208 | [334208-gunlocked-2.json](./334208-gunlocked-2.json) |
