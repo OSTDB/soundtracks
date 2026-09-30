@@ -3058,6 +3058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piko Interactive Collection 2 | 138894 | [138894-piko-interactive-collection-2.json](./138894-piko-interactive-collection-2.json) |
 | Piko Interactive Collection 3 | 241982 | [241982-piko-interactive-collection-3.json](./241982-piko-interactive-collection-3.json) |
 | Piko Interactive Collection 4 | 291545 | [291545-piko-interactive-collection-4.json](./291545-piko-interactive-collection-4.json) |
+| Piko Piko | 118994 | [118994-piko-piko.json](./118994-piko-piko.json) |
 | Piko-piko Kiritan Island | 204730 | [204730-piko-piko-kiritan-island.json](./204730-piko-piko-kiritan-island.json) |
 | Piko-piko: Koisuru Kimochi no Nemuru Basho | 201834 | [201834-piko-piko-koisuru-kimochi-no-nemuru-basho.json](./201834-piko-piko-koisuru-kimochi-no-nemuru-basho.json) |
 | Piko-Taro Official: Ppap Run! | 56778 | [56778-piko-taro-official-ppap-run.json](./56778-piko-taro-official-ppap-run.json) |
@@ -4523,6 +4524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please Stop Crying: Terrible Twos | 337110 | [337110-please-stop-crying-terrible-twos.json](./337110-please-stop-crying-terrible-twos.json) |
 | Please Subscribe | 190078 | [190078-please-subscribe.json](./190078-please-subscribe.json) |
 | Please Tell Me I Love You | 177823 | [177823-please-tell-me-i-love-you.json](./177823-please-tell-me-i-love-you.json) |
+| Please the Gods | 119590 | [119590-please-the-gods.json](./119590-please-the-gods.json) |
 | Please Wake Up | 156993 | [156993-please-wake-up.json](./156993-please-wake-up.json) |
 | Please, Don't Touch Anything | 9327 | [9327-please-dont-touch-anything.json](./9327-please-dont-touch-anything.json) |
 | Please, Don't Touch Anything: Classic | 151565 | [151565-please-dont-touch-anything-classic.json](./151565-please-dont-touch-anything-classic.json) |
@@ -6716,6 +6718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Cycling 2009 | 68004 | [68004-pro-cycling-2009.json](./68004-pro-cycling-2009.json) |
 | Pro Cycling Manager 2010 | 67311 | [67311-pro-cycling-manager-2010.json](./67311-pro-cycling-manager-2010.json) |
 | Pro Cycling Manager 2014 | 8251 | [8251-pro-cycling-manager-2014.json](./8251-pro-cycling-manager-2014.json) |
+| Pro Cycling Manager 2019 | 119029 | [119029-pro-cycling-manager-2019.json](./119029-pro-cycling-manager-2019.json) |
 | Pro Cycling Manager 2024 | 288856 | [288856-pro-cycling-manager-2024.json](./288856-pro-cycling-manager-2024.json) |
 | Pro Darts | 49953 | [49953-pro-darts.json](./49953-pro-darts.json) |
 | Pro Deer Hunting | 132159 | [132159-pro-deer-hunting.json](./132159-pro-deer-hunting.json) |
@@ -7992,6 +7995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pussy Puzzle: Over 9000 | 141661 | [141661-pussy-puzzle-over-9000.json](./141661-pussy-puzzle-over-9000.json) |
 | Pussy: Love Story from Titanic | 227822 | [227822-pussy-love-story-from-titanic.json](./227822-pussy-love-story-from-titanic.json) |
 | Puszka Pandory | 93586 | [93586-puszka-pandory.json](./93586-puszka-pandory.json) |
+| Put In - Run Out | 119701 | [119701-put-in-run-out.json](./119701-put-in-run-out.json) |
 | Put Out the Fire | 366882 | [366882-put-out-the-fire.json](./366882-put-out-the-fire.json) |
 | Put the Fries in the Bag | 335692 | [335692-put-the-fries-in-the-bag.json](./335692-put-the-fries-in-the-bag.json) |
 | Put Your Brain on 2 | 234150 | [234150-put-your-brain-on-2.json](./234150-put-your-brain-on-2.json) |
