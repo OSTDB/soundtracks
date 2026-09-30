@@ -8114,6 +8114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Ruins | 294294 | [294294-dungeon-ruins.json](./294294-dungeon-ruins.json) |
 | Dungeon Rummage: Tiqee's Escape | 195248 | [195248-dungeon-rummage-tiqees-escape.json](./195248-dungeon-rummage-tiqees-escape.json) |
 | Dungeon Rush | 105304 | [105304-dungeon-rush.json](./105304-dungeon-rush.json) |
+| Dungeon Rushers | 20395 | [20395-dungeon-rushers.json](./20395-dungeon-rushers.json) |
 | Dungeon Scale | 157012 | [157012-dungeon-scale.json](./157012-dungeon-scale.json) |
 | Dungeon Scavenger | 117620 | [117620-dungeon-scavenger.json](./117620-dungeon-scavenger.json) |
 | Dungeon Scroll | 174314 | [174314-dungeon-scroll.json](./174314-dungeon-scroll.json) |
