@@ -2787,6 +2787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bejeweled 3 | 1978 | [1978-bejeweled-3.json](./1978-bejeweled-3.json) |
 | Bejeweled 3 | 202091 | [202091-bejeweled-3.json](./202091-bejeweled-3.json) |
 | Bejeweled Blitz | 20435 | [20435-bejeweled-blitz.json](./20435-bejeweled-blitz.json) |
+| Bejeweled Blitz Live | 21655 | [21655-bejeweled-blitz-live.json](./21655-bejeweled-blitz-live.json) |
 | Bejeweled Classic | 187382 | [187382-bejeweled-classic.json](./187382-bejeweled-classic.json) |
 | Bejeweled Classic HD | 102591 | [102591-bejeweled-classic-hd.json](./102591-bejeweled-classic-hd.json) |
 | Bejeweled Deluxe | 220074 | [220074-bejeweled-deluxe.json](./220074-bejeweled-deluxe.json) |
@@ -3039,6 +3040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best of Merge Vol #1 | 207885 | [207885-best-of-merge-vol-1.json](./207885-best-of-merge-vol-1.json) |
 | Best of Merge Vol #2 | 207886 | [207886-best-of-merge-vol-2.json](./207886-best-of-merge-vol-2.json) |
 | Best of Merge Vol #3 | 207887 | [207887-best-of-merge-vol-3.json](./207887-best-of-merge-vol-3.json) |
+| Best of PlayStation Network Vol. 1 | 21605 | [21605-best-of-playstation-network-vol-1.json](./21605-best-of-playstation-network-vol-1.json) |
 | Best of Poker | 23803 | [23803-best-of-poker.json](./23803-best-of-poker.json) |
 | Best of Sierra Nr. 7 | 133972 | [133972-best-of-sierra-nr-7.json](./133972-best-of-sierra-nr-7.json) |
 | Best of Solitaire | 85508 | [85508-best-of-solitaire.json](./85508-best-of-solitaire.json) |
@@ -7266,6 +7268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brothers in Arms DS | 21422 | [21422-brothers-in-arms-ds.json](./21422-brothers-in-arms-ds.json) |
 | Brothers in Arms: Art of War | 152213 | [152213-brothers-in-arms-art-of-war.json](./152213-brothers-in-arms-art-of-war.json) |
 | Brothers in Arms: Hell's Highway | 618 | [618-brothers-in-arms-hells-highway.json](./618-brothers-in-arms-hells-highway.json) |
+| Brothers in Arms: Hour of Heroes | 21648 | [21648-brothers-in-arms-hour-of-heroes.json](./21648-brothers-in-arms-hour-of-heroes.json) |
 | Brothers In Duty: Space Brawl | 390775 | [390775-brothers-in-duty-space-brawl.json](./390775-brothers-in-duty-space-brawl.json) |
 | Brothers in Hell | 250875 | [250875-brothers-in-hell.json](./250875-brothers-in-hell.json) |
 | Brothers: A Tale of Two Sons Remake | 279612 | [279612-brothers-a-tale-of-two-sons-remake.json](./279612-brothers-a-tale-of-two-sons-remake.json) |
