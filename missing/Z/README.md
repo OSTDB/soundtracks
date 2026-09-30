@@ -974,6 +974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Maniacs Pinball | 97136 | [97136-zoo-maniacs-pinball.json](./97136-zoo-maniacs-pinball.json) |
 | Zoo Master | 133392 | [133392-zoo-master.json](./133392-zoo-master.json) |
 | Zoo Merge | 349307 | [349307-zoo-merge.json](./349307-zoo-merge.json) |
+| Zoo Orbs: Safari | 401726 | [401726-zoo-orbs-safari.json](./401726-zoo-orbs-safari.json) |
 | Zoo Packs | 129568 | [129568-zoo-packs.json](./129568-zoo-packs.json) |
 | Zoo Park | 9293 | [9293-zoo-park.json](./9293-zoo-park.json) |
 | Zoo Rescue | 92301 | [92301-zoo-rescue.json](./92301-zoo-rescue.json) |
