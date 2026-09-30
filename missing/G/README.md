@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G2 Fighter | 110443 | [110443-g2-fighter.json](./110443-g2-fighter.json) |
 | G30 | 101501 | [101501-g30.json](./101501-g30.json) |
 | Gabbuchi | 114429 | [114429-gabbuchi.json](./114429-gabbuchi.json) |
+| GabeN: The Final Decision | 34448 | [34448-gaben-the-final-decision.json](./34448-gaben-the-final-decision.json) |
 | Gabenwood 2: 99 Hidden Euros | 296513 | [296513-gabenwood-2-99-hidden-euros.json](./296513-gabenwood-2-99-hidden-euros.json) |
 | Gabenwood: 99 Hidden Bucks | 224239 | [224239-gabenwood-99-hidden-bucks.json](./224239-gabenwood-99-hidden-bucks.json) |
 | Gabibbo Massacre | 319168 | [319168-gabibbo-massacre.json](./319168-gabibbo-massacre.json) |
@@ -2344,6 +2345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glyph | 208294 | [208294-glyph.json](./208294-glyph.json) |
 | Glyph | 243075 | [243075-glyph.json](./243075-glyph.json) |
 | Glyph | 388223 | [388223-glyph.json](./388223-glyph.json) |
+| Glyph | 50290 | [50290-glyph.json](./50290-glyph.json) |
 | Glyph Chess | 384226 | [384226-glyph-chess.json](./384226-glyph-chess.json) |
 | Glyph VR | 151534 | [151534-glyph-vr.json](./151534-glyph-vr.json) |
 | Glypha III | 70919 | [70919-glypha-iii.json](./70919-glypha-iii.json) |
@@ -3868,6 +3870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Game 1/5 | 294439 | [294439-great-game-1-5.json](./294439-great-game-1-5.json) |
 | Great Gold Bird, Great Dark Yawn | 223671 | [223671-great-gold-bird-great-dark-yawn.json](./223671-great-gold-bird-great-dark-yawn.json) |
 | Great Golf | 81277 | [81277-great-golf.json](./81277-great-golf.json) |
+| Great Greed | 48994 | [48994-great-greed.json](./48994-great-greed.json) |
 | Great Hero's Beard | 109867 | [109867-great-heros-beard.json](./109867-great-heros-beard.json) |
 | Great Hits | 94734 | [94734-great-hits.json](./94734-great-hits.json) |
 | Great Houses of Calderia | 192680 | [192680-great-houses-of-calderia.json](./192680-great-houses-of-calderia.json) |
