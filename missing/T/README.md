@@ -208,6 +208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactics: Bludgeons Blessing | 44130 | [44130-tactics-bludgeons-blessing.json](./44130-tactics-bludgeons-blessing.json) |
 | TacticsLand | 311805 | [311805-tacticsland.json](./311805-tacticsland.json) |
 | Tactile Wars | 76564 | [76564-tactile-wars.json](./76564-tactile-wars.json) |
+| Tactilite | 397160 | [397160-tactilite.json](./397160-tactilite.json) |
 | Tactix | 379981 | [379981-tactix.json](./379981-tactix.json) |
 | Tactris | 384800 | [384800-tactris.json](./384800-tactris.json) |
 | TacWars | 94881 | [94881-tacwars.json](./94881-tacwars.json) |
@@ -3575,6 +3576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Corn Maze: Rebirth | 362289 | [362289-the-corn-maze-rebirth.json](./362289-the-corn-maze-rebirth.json) |
 | The Cornfield Road | 304161 | [304161-the-cornfield-road.json](./304161-the-cornfield-road.json) |
 | The Coroner Saga | 114335 | [114335-the-coroner-saga.json](./114335-the-coroner-saga.json) |
+| The Corporation | 397161 | [397161-the-corporation.json](./397161-the-corporation.json) |
 | The Corpse | 376714 | [376714-the-corpse.json](./376714-the-corpse.json) |
 | The Corral | 271787 | [271787-the-corral.json](./271787-the-corral.json) |
 | The Corridor | 148443 | [148443-the-corridor.json](./148443-the-corridor.json) |
@@ -5149,6 +5151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The I of It | 225292 | [225292-the-i-of-it.json](./225292-the-i-of-it.json) |
 | The IBM Basic Quiz | 79603 | [79603-the-ibm-basic-quiz.json](./79603-the-ibm-basic-quiz.json) |
 | The Iceberg | 180672 | [180672-the-iceberg.json](./180672-the-iceberg.json) |
+| The Icecream Machine | 397167 | [397167-the-icecream-machine.json](./397167-the-icecream-machine.json) |
 | The Icky Mr Fox | 299261 | [299261-the-icky-mr-fox.json](./299261-the-icky-mr-fox.json) |
 | The Ico & Shadow of the Colossus Collection | 21084 | [21084-the-ico-and-shadow-of-the-colossus-collection.json](./21084-the-ico-and-shadow-of-the-colossus-collection.json) |
 | The Idiot's Tale | 87956 | [87956-the-idiots-tale.json](./87956-the-idiots-tale.json) |
@@ -5669,6 +5672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Hike | 236267 | [236267-the-last-hike.json](./236267-the-last-hike.json) |
 | The Last Hope | 25627 | [25627-the-last-hope.json](./25627-the-last-hope.json) |
 | The Last Hope: Atomic Bomb - Crypto War | 88195 | [88195-the-last-hope-atomic-bomb-crypto-war.json](./88195-the-last-hope-atomic-bomb-crypto-war.json) |
+| The Last Horseman | 397189 | [397189-the-last-horseman.json](./397189-the-last-horseman.json) |
 | The Last Inca | 71771 | [71771-the-last-inca.json](./71771-the-last-inca.json) |
 | The Last Janitor: Data Cleanup | 361680 | [361680-the-last-janitor-data-cleanup.json](./361680-the-last-janitor-data-cleanup.json) |
 | The Last Job | 236792 | [236792-the-last-job.json](./236792-the-last-job.json) |
@@ -9422,6 +9426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thirayan | 201551 | [201551-thirayan.json](./201551-thirayan.json) |
 | Third | 233784 | [233784-third.json](./233784-third.json) |
 | Third Crisis | 187542 | [187542-third-crisis.json](./187542-third-crisis.json) |
+| Third Crisis: Neon Nights | 397168 | [397168-third-crisis-neon-nights.json](./397168-third-crisis-neon-nights.json) |
 | Third Front | 89656 | [89656-third-front.json](./89656-third-front.json) |
 | Third Grade Learning Games | 86903 | [86903-third-grade-learning-games.json](./86903-third-grade-learning-games.json) |
 | Third Iteration | 322394 | [322394-third-iteration.json](./322394-third-iteration.json) |
@@ -9827,6 +9832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tic-Tac-Toe for Kids | 103678 | [103678-tic-tac-toe-for-kids.json](./103678-tic-tac-toe-for-kids.json) |
 | Tic-Tac-Toe Star | 240187 | [240187-tic-tac-toe-star.json](./240187-tic-tac-toe-star.json) |
 | Tic-Tac-Touch: FS5 | 72628 | [72628-tic-tac-touch-fs5.json](./72628-tic-tac-touch-fs5.json) |
+| Tic-Tactics-Toe | 397175 | [397175-tic-tactics-toe.json](./397175-tic-tactics-toe.json) |
 | Tic-Toc-Tower | 34781 | [34781-tic-toc-tower.json](./34781-tic-toc-tower.json) |
 | Tic-Toc-Tower: Teslagrad | 171063 | [171063-tic-toc-tower-teslagrad.json](./171063-tic-toc-tower-teslagrad.json) |
 | TIC's Revenge | 332243 | [332243-tics-revenge.json](./332243-tics-revenge.json) |
@@ -11306,6 +11312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tits and Shadows | 252676 | [252676-tits-and-shadows.json](./252676-tits-and-shadows.json) |
 | Tits Okay Tits Fine | 371361 | [371361-tits-okay-tits-fine.json](./371361-tits-okay-tits-fine.json) |
 | Tits Okay Tits Fine Milkshake | 379553 | [379553-tits-okay-tits-fine-milkshake.json](./379553-tits-okay-tits-fine-milkshake.json) |
+| Tittivillus Teaches Typning | 397184 | [397184-tittivillus-teaches-typning.json](./397184-tittivillus-teaches-typning.json) |
 | TitTok 2 | 173222 | [173222-tittok-2.json](./173222-tittok-2.json) |
 | TitTok 3 | 202124 | [202124-tittok-3.json](./202124-tittok-3.json) |
 | TitTok Kitty: Pussy | 235183 | [235183-tittok-kitty-pussy.json](./235183-tittok-kitty-pussy.json) |
@@ -12970,6 +12977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toxic Terror: Episode 2 - The Lich's Lair | 170391 | [170391-toxic-terror-episode-2-the-lichs-lair.json](./170391-toxic-terror-episode-2-the-lichs-lair.json) |
 | Toxic Therapy | 306420 | [306420-toxic-therapy.json](./306420-toxic-therapy.json) |
 | Toxic Toads | 322973 | [322973-toxic-toads.json](./322973-toxic-toads.json) |
+| Toxic Yuri | 397186 | [397186-toxic-yuri.json](./397186-toxic-yuri.json) |
 | Toxicity | 263022 | [263022-toxicity.json](./263022-toxicity.json) |
 | Toxicity | 300417 | [300417-toxicity.json](./300417-toxicity.json) |
 | Toxin the Game | 114984 | [114984-toxin-the-game.json](./114984-toxin-the-game.json) |
@@ -14013,6 +14021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trap Master | 65000 | [65000-trap-master.json](./65000-trap-master.json) |
 | Trap of Musk: Asia Night | 235481 | [235481-trap-of-musk-asia-night.json](./235481-trap-of-musk-asia-night.json) |
 | Trap of Musk: Europe Night | 237046 | [237046-trap-of-musk-europe-night.json](./237046-trap-of-musk-europe-night.json) |
+| Trap Roller | 397188 | [397188-trap-roller.json](./397188-trap-roller.json) |
 | Trap Shooting | 245299 | [245299-trap-shooting.json](./245299-trap-shooting.json) |
 | Trap Shrine | 115520 | [115520-trap-shrine.json](./115520-trap-shrine.json) |
 | Trap Them: Sniper Edition | 34336 | [34336-trap-them-sniper-edition.json](./34336-trap-them-sniper-edition.json) |
