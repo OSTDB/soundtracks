@@ -3196,6 +3196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wojak Rush | 232936 | [232936-wojak-rush.json](./232936-wojak-rush.json) |
 | Wojdan | 90488 | [90488-wojdan.json](./90488-wojdan.json) |
 | Wok Planet | 220628 | [220628-wok-planet.json](./220628-wok-planet.json) |
+| Wok This Way! | 399148 | [399148-wok-this-way.json](./399148-wok-this-way.json) |
 | Woke or Nah | 355532 | [355532-woke-or-nah.json](./355532-woke-or-nah.json) |
 | Woke Quest | 415914 | [415914-woke-quest.json](./415914-woke-quest.json) |
 | Woke up in a Dark Nightmare | 405726 | [405726-woke-up-in-a-dark-nightmare.json](./405726-woke-up-in-a-dark-nightmare.json) |
