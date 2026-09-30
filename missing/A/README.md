@@ -4910,6 +4910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Racer | 321514 | [321514-apex-racer.json](./321514-apex-racer.json) |
 | Apex Racer | 321515 | [321515-apex-racer.json](./321515-apex-racer.json) |
 | Apex Rebels | 275576 | [275576-apex-rebels.json](./275576-apex-rebels.json) |
+| Apex Sweeper | 403755 | [403755-apex-sweeper.json](./403755-apex-sweeper.json) |
 | Aphelion | 171599 | [171599-aphelion.json](./171599-aphelion.json) |
 | Aphelion | 348192 | [348192-aphelion.json](./348192-aphelion.json) |
 | Aphelion | 410392 | [410392-aphelion.json](./410392-aphelion.json) |
