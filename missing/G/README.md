@@ -856,6 +856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gardener's Quest | 287235 | [287235-gardeners-quest.json](./287235-gardeners-quest.json) |
 | Gardenia: Prologue | 402924 | [402924-gardenia-prologue.json](./402924-gardenia-prologue.json) |
 | Gardening Mama | 11361 | [11361-gardening-mama.json](./11361-gardening-mama.json) |
+| Gardening Mama 2: Forest Friends | 6357 | [6357-gardening-mama-2-forest-friends.json](./6357-gardening-mama-2-forest-friends.json) |
 | Gardens Inc. 3: A Bridal Pursuit | 88826 | [88826-gardens-inc-3-a-bridal-pursuit.json](./88826-gardens-inc-3-a-bridal-pursuit.json) |
 | Gardens Inc.: From Rakes to Riches | 36409 | [36409-gardens-inc-from-rakes-to-riches.json](./36409-gardens-inc-from-rakes-to-riches.json) |
 | Gardens of the Void | 280924 | [280924-gardens-of-the-void.json](./280924-gardens-of-the-void.json) |
@@ -1014,6 +1015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gator Parade | 123533 | [123533-gator-parade.json](./123533-gator-parade.json) |
 | Gaucho and the Grassland | 192368 | [192368-gaucho-and-the-grassland.json](./192368-gaucho-and-the-grassland.json) |
 | Gaudi: Barcelona no Kaze | 118312 | [118312-gaudi-barcelona-no-kaze.json](./118312-gaudi-barcelona-no-kaze.json) |
+| Gauge | 9837 | [9837-gauge.json](./9837-gauge.json) |
 | Gauley | 341327 | [341327-gauley.json](./341327-gauley.json) |
 | Gauntlet | 330890 | [330890-gauntlet.json](./330890-gauntlet.json) |
 | Gauntlet | 381045 | [381045-gauntlet.json](./381045-gauntlet.json) |
