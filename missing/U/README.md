@@ -964,6 +964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unepic | 3018 | [3018-unepic.json](./3018-unepic.json) |
 | UnEpic: Collector's Edition | 166178 | [166178-unepic-collectors-edition.json](./166178-unepic-collectors-edition.json) |
 | Unexpected Consequences | 268218 | [268218-unexpected-consequences.json](./268218-unexpected-consequences.json) |
+| Unexpected Day | 29553 | [29553-unexpected-day.json](./29553-unexpected-day.json) |
 | Unexpected End | 75807 | [75807-unexpected-end.json](./75807-unexpected-end.json) |
 | Unexpected Visitors | 265128 | [265128-unexpected-visitors.json](./265128-unexpected-visitors.json) |
 | Unexplored: Mithril Run | 155020 | [155020-unexplored-mithril-run.json](./155020-unexplored-mithril-run.json) |
