@@ -1890,6 +1890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Order of the Sinking Star | 381222 | [381222-order-of-the-sinking-star.json](./381222-order-of-the-sinking-star.json) |
 | Order Road | 162849 | [162849-order-road.json](./162849-order-road.json) |
 | Order Us! | 264031 | [264031-order-us.json](./264031-order-us.json) |
+| Order!! | 408868 | [408868-order.json](./408868-order.json) |
 | Order's Up | 234005 | [234005-orders-up.json](./234005-orders-up.json) |
 | Orderly Havoc | 251820 | [251820-orderly-havoc.json](./251820-orderly-havoc.json) |
 | OrderZero | 256520 | [256520-orderzero.json](./256520-orderzero.json) |
@@ -2105,6 +2106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otenki Kororin: Weather Tales | 299832 | [299832-otenki-kororin-weather-tales.json](./299832-otenki-kororin-weather-tales.json) |
 | Othello | 134419 | [134419-othello.json](./134419-othello.json) |
 | Othello | 25159 | [25159-othello.json](./25159-othello.json) |
+| Othello | 408869 | [408869-othello.json](./408869-othello.json) |
 | Othello 3 | 93019 | [93019-othello-3.json](./93019-othello-3.json) |
 | Othello 3D | 222309 | [222309-othello-3d.json](./222309-othello-3d.json) |
 | Othello de Othello DS | 131567 | [131567-othello-de-othello-ds.json](./131567-othello-de-othello-ds.json) |
@@ -2200,6 +2202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oubliette | 2869 | [2869-oubliette.json](./2869-oubliette.json) |
 | Oubliette Fatalis | 279078 | [279078-oubliette-fatalis.json](./279078-oubliette-fatalis.json) |
 | Ouch! So Many Beauties! | 298602 | [298602-ouch-so-many-beauties.json](./298602-ouch-so-many-beauties.json) |
+| Ouchi de Mugen Puchi Puchi Wii | 408870 | [408870-ouchi-de-mugen-puchi-puchi-wii.json](./408870-ouchi-de-mugen-puchi-puchi-wii.json) |
 | Ouchi Mainichi Tamagotchi | 77629 | [77629-ouchi-mainichi-tamagotchi.json](./77629-ouchi-mainichi-tamagotchi.json) |
 | Ouchi Otofuda | 206371 | [206371-ouchi-otofuda.json](./206371-ouchi-otofuda.json) |
 | Oudbiao's World | 258477 | [258477-oudbiaos-world.json](./258477-oudbiaos-world.json) |
