@@ -107,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Out: Resurfaced | 312309 | [312309-x-out-resurfaced.json](./312309-x-out-resurfaced.json) |
 | X-Pack | 261869 | [261869-x-pack.json](./261869-x-pack.json) |
 | X-Plane 10 | 79940 | [79940-x-plane-10.json](./79940-x-plane-10.json) |
+| X-Plane 10 Global | 36338 | [36338-x-plane-10-global.json](./36338-x-plane-10-global.json) |
 | X-Plane 10 Global: Carenado - C208B Grand Caravan | 168813 | [168813-x-plane-10-global-carenado-c208b-grand-caravan.json](./168813-x-plane-10-global-carenado-c208b-grand-caravan.json) |
 | X-Plane 10 Global: Carenado - F33A Bonanza | 168812 | [168812-x-plane-10-global-carenado-f33a-bonanza.json](./168812-x-plane-10-global-carenado-f33a-bonanza.json) |
 | X-Plane 10 Global: Carenado - PA28 181 Archer II | 168815 | [168815-x-plane-10-global-carenado-pa28-181-archer-ii.json](./168815-x-plane-10-global-carenado-pa28-181-archer-ii.json) |
