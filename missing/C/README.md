@@ -3900,6 +3900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CIA | 25130 | [25130-cia.json](./25130-cia.json) |
 | CIA Operative: Solo Missions | 71228 | [71228-cia-operative-solo-missions.json](./71228-cia-operative-solo-missions.json) |
 | Ciao Bella: la Bella Romanza | 133957 | [133957-ciao-bella-la-bella-romanza.json](./133957-ciao-bella-la-bella-romanza.json) |
+| Ciao Pizza: Cooking Chaos | 415254 | [415254-ciao-pizza-cooking-chaos.json](./415254-ciao-pizza-cooking-chaos.json) |
 | Cicada Springs | 248714 | [248714-cicada-springs.json](./248714-cicada-springs.json) |
 | Cicadas | 61599 | [61599-cicadas.json](./61599-cicadas.json) |
 | Cicadas: The IQA Edition | 123447 | [123447-cicadas-the-iqa-edition.json](./123447-cicadas-the-iqa-edition.json) |
@@ -4781,6 +4782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloudbreaker | 355555 | [355555-cloudbreaker.json](./355555-cloudbreaker.json) |
 | Cloudbuilt: Defiance | 171497 | [171497-cloudbuilt-defiance.json](./171497-cloudbuilt-defiance.json) |
 | CloudCity VR | 50518 | [50518-cloudcity-vr.json](./50518-cloudcity-vr.json) |
+| Cloudgazer: A Game About Watching Clouds | 416005 | [416005-cloudgazer-a-game-about-watching-clouds.json](./416005-cloudgazer-a-game-about-watching-clouds.json) |
 | Cloudheim | 330328 | [330328-cloudheim.json](./330328-cloudheim.json) |
 | Cloudlands 2 | 127857 | [127857-cloudlands-2.json](./127857-cloudlands-2.json) |
 | Cloudlapse! | 419961 | [419961-cloudlapse.json](./419961-cloudlapse.json) |
@@ -6137,10 +6139,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Considerable Grandfather | 293643 | [293643-considerable-grandfather.json](./293643-considerable-grandfather.json) |
 | Considerable Grandfather: It Followed Me Home | 408784 | [408784-considerable-grandfather-it-followed-me-home.json](./408784-considerable-grandfather-it-followed-me-home.json) |
 | Consolation: Board Meeting - Anthology Edition | 193217 | [193217-consolation-board-meeting-anthology-edition.json](./193217-consolation-board-meeting-anthology-edition.json) |
+| Console Archives: Bubble Bobble | 415224 | [415224-console-archives-bubble-bobble.json](./415224-console-archives-bubble-bobble.json) |
 | Console Archives: Crazy Climber | 418714 | [418714-console-archives-crazy-climber.json](./418714-console-archives-crazy-climber.json) |
 | Console Archives: Hercules no Eikou II - Taitan no Metsubou | 410364 | [410364-console-archives-hercules-no-eikou-ii-taitan-no-metsubou.json](./410364-console-archives-hercules-no-eikou-ii-taitan-no-metsubou.json) |
 | Console Archives: Master of Monsters - Disciples of Gaia | 401691 | [401691-console-archives-master-of-monsters-disciples-of-gaia.json](./401691-console-archives-master-of-monsters-disciples-of-gaia.json) |
 | Console Archives: Nobunaga's Ambition | 394383 | [394383-console-archives-nobunagas-ambition.json](./394383-console-archives-nobunagas-ambition.json) |
+| Console Archives: Rhapsody II - Ballad of the Little Princess | 415220 | [415220-console-archives-rhapsody-ii-ballad-of-the-little-princess.json](./415220-console-archives-rhapsody-ii-ballad-of-the-little-princess.json) |
 | Console Archives: T.R.A.G. - Tactical Rescue Assault Group: Mission of Mercy | 408738 | [408738-console-archives-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json](./408738-console-archives-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json) |
 | Console Archives: The Conveni | 411151 | [411151-console-archives-the-conveni.json](./411151-console-archives-the-conveni.json) |
 | Console Colour: Disney's Planes | 407308 | [407308-console-colour-disneys-planes.json](./407308-console-colour-disneys-planes.json) |
@@ -7907,6 +7911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critias Empire | 197123 | [197123-critias-empire.json](./197123-critias-empire.json) |
 | Critical Annihilation | 36027 | [36027-critical-annihilation.json](./36027-critical-annihilation.json) |
 | Critical Bullet: 7th Target | 72121 | [72121-critical-bullet-7th-target.json](./72121-critical-bullet-7th-target.json) |
+| Critical Failure: No Man's Land | 415977 | [415977-critical-failure-no-mans-land.json](./415977-critical-failure-no-mans-land.json) |
 | Critical Fishing | 293144 | [293144-critical-fishing.json](./293144-critical-fishing.json) |
 | Critical Mass | 9810 | [9810-critical-mass.json](./9810-critical-mass.json) |
 | Critical Ops: Reloaded | 233491 | [233491-critical-ops-reloaded.json](./233491-critical-ops-reloaded.json) |
@@ -9120,6 +9125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuties Monster Girl | 297081 | [297081-cuties-monster-girl.json](./297081-cuties-monster-girl.json) |
 | Cutlass Call | 286031 | [286031-cutlass-call.json](./286031-cutlass-call.json) |
 | CutNRun | 93579 | [93579-cutnrun.json](./93579-cutnrun.json) |
+| Cutout | 415178 | [415178-cutout.json](./415178-cutout.json) |
 | Cutout World | 339356 | [339356-cutout-world.json](./339356-cutout-world.json) |
 | Cutthroat | 80929 | [80929-cutthroat.json](./80929-cutthroat.json) |
 | Cutthroat Gunboat | 51419 | [51419-cutthroat-gunboat.json](./51419-cutthroat-gunboat.json) |
