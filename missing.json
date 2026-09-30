@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T18:48:28.411Z",
-  "total_missing": 146026,
+  "generated_at": "2026-09-30T19:03:31.383Z",
+  "total_missing": 146076,
   "games": [
     {
       "igdb_id": 186066,
@@ -8808,6 +8808,11 @@
       "file": "missing/A/82988-a-rat-fell-in-love-with-a-human-girl.json"
     },
     {
+      "igdb_id": 399152,
+      "game_name": "A Rat's Quest: The Way Back Home - Season 2",
+      "file": "missing/A/399152-a-rats-quest-the-way-back-home-season-2.json"
+    },
+    {
       "igdb_id": 81092,
       "game_name": "A Raven Monologue",
       "file": "missing/A/81092-a-raven-monologue.json"
@@ -15588,9 +15593,29 @@
       "file": "missing/A/399092-age-of-gods.json"
     },
     {
+      "igdb_id": 399102,
+      "game_name": "Age of Gods: Drakonis Faction",
+      "file": "missing/A/399102-age-of-gods-drakonis-faction.json"
+    },
+    {
       "igdb_id": 399094,
       "game_name": "Age of Gods: Equinox Campaign",
       "file": "missing/A/399094-age-of-gods-equinox-campaign.json"
+    },
+    {
+      "igdb_id": 399103,
+      "game_name": "Age of Gods: Igneous Faction",
+      "file": "missing/A/399103-age-of-gods-igneous-faction.json"
+    },
+    {
+      "igdb_id": 399100,
+      "game_name": "Age of Gods: Sanctus Campaign",
+      "file": "missing/A/399100-age-of-gods-sanctus-campaign.json"
+    },
+    {
+      "igdb_id": 399101,
+      "game_name": "Age of Gods: Spirit Faction",
+      "file": "missing/A/399101-age-of-gods-spirit-faction.json"
     },
     {
       "igdb_id": 61074,
@@ -22413,6 +22438,11 @@
       "file": "missing/A/80915-alma.json"
     },
     {
+      "igdb_id": 399143,
+      "game_name": "Almanac: Detective Agency",
+      "file": "missing/A/399143-almanac-detective-agency.json"
+    },
+    {
       "igdb_id": 227215,
       "game_name": "Almanaque Recreio",
       "file": "missing/A/227215-almanaque-recreio.json"
@@ -23586,6 +23616,11 @@
       "igdb_id": 263573,
       "game_name": "Am I AI",
       "file": "missing/A/263573-am-i-ai.json"
+    },
+    {
+      "igdb_id": 399160,
+      "game_name": "Am I Here?",
+      "file": "missing/A/399160-am-i-here.json"
     },
     {
       "igdb_id": 169338,
@@ -73263,6 +73298,11 @@
       "file": "missing/B/333152-bloodmoon-rush.json"
     },
     {
+      "igdb_id": 399147,
+      "game_name": "Bloodmoored",
+      "file": "missing/B/399147-bloodmoored.json"
+    },
+    {
       "igdb_id": 2214,
       "game_name": "BloodNet",
       "file": "missing/B/2214-bloodnet.json"
@@ -94861,6 +94901,11 @@
       "igdb_id": 159819,
       "game_name": "Cardbot",
       "file": "missing/C/159819-cardbot.json"
+    },
+    {
+      "igdb_id": 399138,
+      "game_name": "Cardbound Heroes",
+      "file": "missing/C/399138-cardbound-heroes.json"
     },
     {
       "igdb_id": 346229,
@@ -118908,6 +118953,11 @@
       "file": "missing/C/255936-commandos-origins.json"
     },
     {
+      "igdb_id": 399159,
+      "game_name": "Commandos: Origins - No Man Left Behind",
+      "file": "missing/C/399159-commandos-origins-no-man-left-behind.json"
+    },
+    {
       "igdb_id": 377670,
       "game_name": "Commandos: Origins - Shadows over Crete",
       "file": "missing/C/377670-commandos-origins-shadows-over-crete.json"
@@ -125471,6 +125521,11 @@
       "igdb_id": 335353,
       "game_name": "Cozy Meadow",
       "file": "missing/C/335353-cozy-meadow.json"
+    },
+    {
+      "igdb_id": 399153,
+      "game_name": "Cozy Mozy",
+      "file": "missing/C/399153-cozy-mozy.json"
     },
     {
       "igdb_id": 295784,
@@ -169943,6 +169998,11 @@
       "file": "missing/D/366818-dragon-ball-fighterz-commentator-voice-pack-4.json"
     },
     {
+      "igdb_id": 399111,
+      "game_name": "Dragon Ball FighterZ: Daima Pack",
+      "file": "missing/D/399111-dragon-ball-fighterz-daima-pack.json"
+    },
+    {
       "igdb_id": 399188,
       "game_name": "Dragon Ball FighterZ: Dragon Ball Daima Pack",
       "file": "missing/D/399188-dragon-ball-fighterz-dragon-ball-daima-pack.json"
@@ -192843,14 +192903,99 @@
       "file": "missing/E/399106-escape-from-tarkov-bear-arktika.json"
     },
     {
+      "igdb_id": 399113,
+      "game_name": "Escape from Tarkov: Bear - Classic",
+      "file": "missing/E/399113-escape-from-tarkov-bear-classic.json"
+    },
+    {
+      "igdb_id": 399115,
+      "game_name": "Escape from Tarkov: Bear - Cyclone",
+      "file": "missing/E/399115-escape-from-tarkov-bear-cyclone.json"
+    },
+    {
+      "igdb_id": 399116,
+      "game_name": "Escape from Tarkov: Bear - G99",
+      "file": "missing/E/399116-escape-from-tarkov-bear-g99.json"
+    },
+    {
+      "igdb_id": 399114,
+      "game_name": "Escape from Tarkov: Bear - Instructor",
+      "file": "missing/E/399114-escape-from-tarkov-bear-instructor.json"
+    },
+    {
+      "igdb_id": 399128,
+      "game_name": "Escape from Tarkov: Bear - Morozko",
+      "file": "missing/E/399128-escape-from-tarkov-bear-morozko.json"
+    },
+    {
+      "igdb_id": 399108,
+      "game_name": "Escape from Tarkov: Bear - Nord",
+      "file": "missing/E/399108-escape-from-tarkov-bear-nord.json"
+    },
+    {
+      "igdb_id": 399112,
+      "game_name": "Escape from Tarkov: Bear - Oldschool",
+      "file": "missing/E/399112-escape-from-tarkov-bear-oldschool.json"
+    },
+    {
+      "igdb_id": 399123,
+      "game_name": "Escape from Tarkov: Bear - Vacation",
+      "file": "missing/E/399123-escape-from-tarkov-bear-vacation.json"
+    },
+    {
+      "igdb_id": 399110,
+      "game_name": "Escape from Tarkov: Bear - Zaslon",
+      "file": "missing/E/399110-escape-from-tarkov-bear-zaslon.json"
+    },
+    {
       "igdb_id": 399107,
       "game_name": "Escape from Tarkov: Usec - AC Ranger Green",
       "file": "missing/E/399107-escape-from-tarkov-usec-ac-ranger-green.json"
     },
     {
+      "igdb_id": 399109,
+      "game_name": "Escape from Tarkov: Usec - Day off",
+      "file": "missing/E/399109-escape-from-tarkov-usec-day-off.json"
+    },
+    {
+      "igdb_id": 399118,
+      "game_name": "Escape from Tarkov: Usec - Deadly Frog",
+      "file": "missing/E/399118-escape-from-tarkov-usec-deadly-frog.json"
+    },
+    {
       "igdb_id": 399105,
       "game_name": "Escape from Tarkov: Usec - Fahrenheit",
       "file": "missing/E/399105-escape-from-tarkov-usec-fahrenheit.json"
+    },
+    {
+      "igdb_id": 399125,
+      "game_name": "Escape from Tarkov: Usec - Night Patrol",
+      "file": "missing/E/399125-escape-from-tarkov-usec-night-patrol.json"
+    },
+    {
+      "igdb_id": 399119,
+      "game_name": "Escape from Tarkov: Usec - Scadi",
+      "file": "missing/E/399119-escape-from-tarkov-usec-scadi.json"
+    },
+    {
+      "igdb_id": 399124,
+      "game_name": "Escape from Tarkov: Usec - Special Ops",
+      "file": "missing/E/399124-escape-from-tarkov-usec-special-ops.json"
+    },
+    {
+      "igdb_id": 399117,
+      "game_name": "Escape from Tarkov: Usec - Urban Responder",
+      "file": "missing/E/399117-escape-from-tarkov-usec-urban-responder.json"
+    },
+    {
+      "igdb_id": 399126,
+      "game_name": "Escape from Tarkov: Usec - Vanguard",
+      "file": "missing/E/399126-escape-from-tarkov-usec-vanguard.json"
+    },
+    {
+      "igdb_id": 399127,
+      "game_name": "Escape from Tarkov: Usec - Woodland Infiltrator",
+      "file": "missing/E/399127-escape-from-tarkov-usec-woodland-infiltrator.json"
     },
     {
       "igdb_id": 167587,
@@ -251343,6 +251488,11 @@
       "file": "missing/G/94557-gravedigger.json"
     },
     {
+      "igdb_id": 399136,
+      "game_name": "Gravehold: Survival",
+      "file": "missing/G/399136-gravehold-survival.json"
+    },
+    {
       "igdb_id": 27514,
       "game_name": "Gravel",
       "file": "missing/G/27514-gravel.json"
@@ -266488,6 +266638,11 @@
       "file": "missing/H/115063-hearts-of-iron-iv-man-the-guns.json"
     },
     {
+      "igdb_id": 399142,
+      "game_name": "Hearts of Iron IV: Peace for Our Time",
+      "file": "missing/H/399142-hearts-of-iron-iv-peace-for-our-time.json"
+    },
+    {
       "igdb_id": 53182,
       "game_name": "Hearts of Iron IV: Together for Victory",
       "file": "missing/H/53182-hearts-of-iron-iv-together-for-victory.json"
@@ -267866,6 +268021,11 @@
       "igdb_id": 190165,
       "game_name": "Hell Invades Heaven",
       "file": "missing/H/190165-hell-invades-heaven.json"
+    },
+    {
+      "igdb_id": 399129,
+      "game_name": "Hell Is Empty, Demons Are Playing Apokerlypse",
+      "file": "missing/H/399129-hell-is-empty-demons-are-playing-apokerlypse.json"
     },
     {
       "igdb_id": 331310,
@@ -275111,6 +275271,11 @@
       "igdb_id": 362831,
       "game_name": "Hidden Paradise: Aloha with Love - Collector's Edition",
       "file": "missing/H/362831-hidden-paradise-aloha-with-love-collectors-edition.json"
+    },
+    {
+      "igdb_id": 399130,
+      "game_name": "Hidden Paradise: Kiwi Christmas - Collector's Edition",
+      "file": "missing/H/399130-hidden-paradise-kiwi-christmas-collectors-edition.json"
     },
     {
       "igdb_id": 253352,
@@ -300643,6 +300808,11 @@
       "file": "missing/I/258171-into-the-dungeon.json"
     },
     {
+      "igdb_id": 399145,
+      "game_name": "Into the Dust",
+      "file": "missing/I/399145-into-the-dust.json"
+    },
+    {
       "igdb_id": 12616,
       "game_name": "Into the Eagle's Nest",
       "file": "missing/I/12616-into-the-eagles-nest.json"
@@ -310983,6 +311153,11 @@
       "file": "missing/J/401782-jotunnslayer-hordes-of-hel-collectors-edition.json"
     },
     {
+      "igdb_id": 399154,
+      "game_name": "Jotunnslayer: Hordes of Hel - Conan",
+      "file": "missing/J/399154-jotunnslayer-hordes-of-hel-conan.json"
+    },
+    {
       "igdb_id": 403600,
       "game_name": "Jötunnslayer: Hordes of Hel - Conan Edition",
       "file": "missing/J/403600-jotunnslayer-hordes-of-hel-conan-edition.json"
@@ -317946,6 +318121,11 @@
       "igdb_id": 211679,
       "game_name": "Keek",
       "file": "missing/K/211679-keek.json"
+    },
+    {
+      "igdb_id": 399140,
+      "game_name": "KeelOver",
+      "file": "missing/K/399140-keelover.json"
     },
     {
       "igdb_id": 255052,
@@ -325236,6 +325416,11 @@
       "igdb_id": 32575,
       "game_name": "Knights",
       "file": "missing/K/32575-knights.json"
+    },
+    {
+      "igdb_id": 399122,
+      "game_name": "Knights",
+      "file": "missing/K/399122-knights.json"
     },
     {
       "igdb_id": 59980,
@@ -359096,6 +359281,11 @@
       "igdb_id": 88234,
       "game_name": "Make War Not Love 5",
       "file": "missing/M/88234-make-war-not-love-5.json"
+    },
+    {
+      "igdb_id": 399141,
+      "game_name": "Make Way: Legends Pack",
+      "file": "missing/M/399141-make-way-legends-pack.json"
     },
     {
       "igdb_id": 174317,
@@ -451521,6 +451711,11 @@
       "igdb_id": 272381,
       "game_name": "Pigsaw: Human Abattoir",
       "file": "missing/P/272381-pigsaw-human-abattoir.json"
+    },
+    {
+      "igdb_id": 399120,
+      "game_name": "Pigskin",
+      "file": "missing/P/399120-pigskin.json"
     },
     {
       "igdb_id": 234336,
@@ -549363,6 +549558,11 @@
       "file": "missing/S/52855-snowy-treasure-hunter.json"
     },
     {
+      "igdb_id": 399121,
+      "game_name": "Snuff",
+      "file": "missing/S/399121-snuff.json"
+    },
+    {
       "igdb_id": 180149,
       "game_name": "Snufkin: Melody of Moominvalley",
       "file": "missing/S/180149-snufkin-melody-of-moominvalley.json"
@@ -568031,6 +568231,11 @@
       "igdb_id": 108861,
       "game_name": "Stalagflight",
       "file": "missing/S/108861-stalagflight.json"
+    },
+    {
+      "igdb_id": 399139,
+      "game_name": "Stalart",
+      "file": "missing/S/399139-stalart.json"
     },
     {
       "igdb_id": 321393,
@@ -592448,6 +592653,11 @@
       "file": "missing/S/313799-surrender-2.json"
     },
     {
+      "igdb_id": 399158,
+      "game_name": "SurrounDead Poly Construction",
+      "file": "missing/S/399158-surroundead-poly-construction.json"
+    },
+    {
       "igdb_id": 311613,
       "game_name": "Surrounded by Death",
       "file": "missing/S/311613-surrounded-by-death.json"
@@ -597503,6 +597713,11 @@
       "file": "missing/T/169877-t-w-burgess-presents-pylons.json"
     },
     {
+      "igdb_id": 399150,
+      "game_name": "T.W.I.R.L.",
+      "file": "missing/T/399150-t-w-i-r-l.json"
+    },
+    {
       "igdb_id": 329161,
       "game_name": "T1wre3: Noname",
       "file": "missing/T/329161-t1wre3-noname.json"
@@ -601666,6 +601881,11 @@
       "igdb_id": 228067,
       "game_name": "Taming the Heart of a Beast",
       "file": "missing/T/228067-taming-the-heart-of-a-beast.json"
+    },
+    {
+      "igdb_id": 399155,
+      "game_name": "Tamitos: Tale of Understanding",
+      "file": "missing/T/399155-tamitos-tale-of-understanding.json"
     },
     {
       "igdb_id": 65767,
@@ -613883,6 +614103,11 @@
       "file": "missing/T/331669-the-candle.json"
     },
     {
+      "igdb_id": 399135,
+      "game_name": "The Candy Adventure",
+      "file": "missing/T/399135-the-candy-adventure.json"
+    },
+    {
       "igdb_id": 186729,
       "game_name": "The Candyman",
       "file": "missing/T/186729-the-candyman.json"
@@ -616323,6 +616548,11 @@
       "file": "missing/T/249739-the-dark-pictures-volume-1.json"
     },
     {
+      "igdb_id": 399151,
+      "game_name": "The Dark Plague",
+      "file": "missing/T/399151-the-dark-plague.json"
+    },
+    {
       "igdb_id": 271322,
       "game_name": "The Dark Portal",
       "file": "missing/T/271322-the-dark-portal.json"
@@ -617886,6 +618116,11 @@
       "igdb_id": 212827,
       "game_name": "The Edge of The World Z Will Shock You",
       "file": "missing/T/212827-the-edge-of-the-world-z-will-shock-you.json"
+    },
+    {
+      "igdb_id": 399144,
+      "game_name": "The Edge of Water",
+      "file": "missing/T/399144-the-edge-of-water.json"
     },
     {
       "igdb_id": 273416,
@@ -671553,6 +671788,11 @@
       "file": "missing/T/102825-trucksform3d-offroad-3d-shooting-bigfoot-endless-racing-truck.json"
     },
     {
+      "igdb_id": 399132,
+      "game_name": "Trucky McTruckface",
+      "file": "missing/T/399132-trucky-mctruckface.json"
+    },
+    {
       "igdb_id": 269051,
       "game_name": "Truckzilla: Monster Truck Mega Ramp Mania",
       "file": "missing/T/269051-truckzilla-monster-truck-mega-ramp-mania.json"
@@ -683916,6 +684156,11 @@
       "igdb_id": 236234,
       "game_name": "Urbek City Builder: Defend the City",
       "file": "missing/U/236234-urbek-city-builder-defend-the-city.json"
+    },
+    {
+      "igdb_id": 399156,
+      "game_name": "Urbex",
+      "file": "missing/U/399156-urbex.json"
     },
     {
       "igdb_id": 271173,
@@ -710531,6 +710776,11 @@
       "igdb_id": 220628,
       "game_name": "Wok Planet",
       "file": "missing/W/220628-wok-planet.json"
+    },
+    {
+      "igdb_id": 399148,
+      "game_name": "Wok This Way!",
+      "file": "missing/W/399148-wok-this-way.json"
     },
     {
       "igdb_id": 355532,
