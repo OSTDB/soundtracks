@@ -775,6 +775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warka Flarka Flim Flam | 29942 | [29942-warka-flarka-flim-flam.json](./29942-warka-flarka-flim-flam.json) |
 | Warkanoid II: Wildlife | 122851 | [122851-warkanoid-ii-wildlife.json](./122851-warkanoid-ii-wildlife.json) |
 | Warkestra | 275336 | [275336-warkestra.json](./275336-warkestra.json) |
+| Warlander | 116684 | [116684-warlander.json](./116684-warlander.json) |
 | Warlanes | 301264 | [301264-warlanes.json](./301264-warlanes.json) |
 | WarLeague | 230308 | [230308-warleague.json](./230308-warleague.json) |
 | Warlike | 151151 | [151151-warlike.json](./151151-warlike.json) |
@@ -1994,6 +1995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whiplash | 95503 | [95503-whiplash.json](./95503-whiplash.json) |
 | Whiplash Taxi Co | 293768 | [293768-whiplash-taxi-co.json](./293768-whiplash-taxi-co.json) |
 | Whipplu Special | 266486 | [266486-whipplu-special.json](./266486-whipplu-special.json) |
+| Whipseey and the Lost Atlas | 117311 | [117311-whipseey-and-the-lost-atlas.json](./117311-whipseey-and-the-lost-atlas.json) |
 | Whirled | 123640 | [123640-whirled.json](./123640-whirled.json) |
 | Whirlight: No Time To Trip | 287707 | [287707-whirlight-no-time-to-trip.json](./287707-whirlight-no-time-to-trip.json) |
 | Whirligig | 12931 | [12931-whirligig.json](./12931-whirligig.json) |
@@ -3894,6 +3896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War Robot | 180713 | [180713-world-war-robot.json](./180713-world-war-robot.json) |
 | World War Toons: Tank Arena VR | 230241 | [230241-world-war-toons-tank-arena-vr.json](./230241-world-war-toons-tank-arena-vr.json) |
 | World War Touch | 174333 | [174333-world-war-touch.json](./174333-world-war-touch.json) |
+| World War Z | 115272 | [115272-world-war-z.json](./115272-world-war-z.json) |
 | World War Z: Aftermath - Deluxe Edition | 169203 | [169203-world-war-z-aftermath-deluxe-edition.json](./169203-world-war-z-aftermath-deluxe-edition.json) |
 | World War Z: Desert Defenders Weapons Pack | 332044 | [332044-world-war-z-desert-defenders-weapons-pack.json](./332044-world-war-z-desert-defenders-weapons-pack.json) |
 | World War Z: Victory Lap Weapons Skin Pack | 332045 | [332045-world-war-z-victory-lap-weapons-skin-pack.json](./332045-world-war-z-victory-lap-weapons-skin-pack.json) |
