@@ -368,6 +368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Banker | 57747 | [57747-bad-banker.json](./57747-bad-banker.json) |
 | Bad Bitch Blasters | 337996 | [337996-bad-bitch-blasters.json](./337996-bad-bitch-blasters.json) |
 | Bad Blood | 11335 | [11335-bad-blood.json](./11335-bad-blood.json) |
+| Bad Bots | 10130 | [10130-bad-bots.json](./10130-bad-bots.json) |
 | Bad Bots Battle Arena | 166699 | [166699-bad-bots-battle-arena.json](./166699-bad-bots-battle-arena.json) |
 | Bad Bots Rises | 27758 | [27758-bad-bots-rises.json](./27758-bad-bots-rises.json) |
 | Bad Boy Brother | 376758 | [376758-bad-boy-brother.json](./376758-bad-boy-brother.json) |
@@ -2074,6 +2075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlepaths | 9779 | [9779-battlepaths.json](./9779-battlepaths.json) |
 | BattlePets | 300983 | [300983-battlepets.json](./300983-battlepets.json) |
 | Battlepillars: Gold Edition | 36411 | [36411-battlepillars-gold-edition.json](./36411-battlepillars-gold-edition.json) |
+| Battleplan: American Civil War | 10041 | [10041-battleplan-american-civil-war.json](./10041-battleplan-american-civil-war.json) |
 | Battler | 290926 | [290926-battler.json](./290926-battler.json) |
 | Battler Brawlers | 95622 | [95622-battler-brawlers.json](./95622-battler-brawlers.json) |
 | Battlerace | 201591 | [201591-battlerace.json](./201591-battlerace.json) |
@@ -3684,6 +3686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionic Dues | 9221 | [9221-bionic-dues.json](./9221-bionic-dues.json) |
 | Bionic Girl | 9896 | [9896-bionic-girl.json](./9896-bionic-girl.json) |
 | Bionic Granny | 13880 | [13880-bionic-granny.json](./13880-bionic-granny.json) |
+| Bionic Heart | 9782 | [9782-bionic-heart.json](./9782-bionic-heart.json) |
 | Bionic Hunter VR | 127190 | [127190-bionic-hunter-vr.json](./127190-bionic-hunter-vr.json) |
 | Bionic Shield: Battle for Space Nebula Omega | 189123 | [189123-bionic-shield-battle-for-space-nebula-omega.json](./189123-bionic-shield-battle-for-space-nebula-omega.json) |
 | Bionicle Defenders | 343283 | [343283-bionicle-defenders.json](./343283-bionicle-defenders.json) |
@@ -4164,6 +4167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black/Matrix 00 | 137090 | [137090-black-matrix-00.json](./137090-black-matrix-00.json) |
 | Black/Matrix Advanced | 93013 | [93013-black-matrix-advanced.json](./93013-black-matrix-advanced.json) |
 | Black/Matrix II | 229355 | [229355-black-matrix-ii.json](./229355-black-matrix-ii.json) |
+| BlackBay Asylum | 10048 | [10048-blackbay-asylum.json](./10048-blackbay-asylum.json) |
 | Blackbeard the Cursed Jungle | 123526 | [123526-blackbeard-the-cursed-jungle.json](./123526-blackbeard-the-cursed-jungle.json) |
 | Blackbeard's Cove | 86577 | [86577-blackbeards-cove.json](./86577-blackbeards-cove.json) |
 | BlackberryNova | 126436 | [126436-blackberrynova.json](./126436-blackberrynova.json) |
@@ -4378,6 +4382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Brigade vs. the Evil Legion of Dr. Cread | 146722 | [146722-blast-brigade-vs-the-evil-legion-of-dr-cread.json](./146722-blast-brigade-vs-the-evil-legion-of-dr-cread.json) |
 | Blast Dash | 411571 | [411571-blast-dash.json](./411571-blast-dash.json) |
 | Blast Droids | 172025 | [172025-blast-droids.json](./172025-blast-droids.json) |
+| Blast em! | 10052 | [10052-blast-em.json](./10052-blast-em.json) |
 | Blast Ensemble | 147809 | [147809-blast-ensemble.json](./147809-blast-ensemble.json) |
 | Blast Flock | 181216 | [181216-blast-flock.json](./181216-blast-flock.json) |
 | Blast Force | 123616 | [123616-blast-force.json](./123616-blast-force.json) |
