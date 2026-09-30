@@ -533,6 +533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naval Action: Redoutable | 155556 | [155556-naval-action-redoutable.json](./155556-naval-action-redoutable.json) |
 | Naval Action: Rotterdam | 249722 | [249722-naval-action-rotterdam.json](./249722-naval-action-rotterdam.json) |
 | Naval Action: Trincomalee | 155565 | [155565-naval-action-trincomalee.json](./155565-naval-action-trincomalee.json) |
+| Naval Assault: The Killing Tide | 47403 | [47403-naval-assault-the-killing-tide.json](./47403-naval-assault-the-killing-tide.json) |
 | Naval Battle Online | 224533 | [224533-naval-battle-online.json](./224533-naval-battle-online.json) |
 | Naval Battles Simulator | 130705 | [130705-naval-battles-simulator.json](./130705-naval-battles-simulator.json) |
 | Naval Campaigns Guadalcanal | 141668 | [141668-naval-campaigns-guadalcanal.json](./141668-naval-campaigns-guadalcanal.json) |
@@ -2103,6 +2104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightbloom | 138110 | [138110-nightbloom.json](./138110-nightbloom.json) |
 | Nightboarder | 179031 | [179031-nightboarder.json](./179031-nightboarder.json) |
 | NightCaster II: Equinox | 5970 | [5970-nightcaster-ii-equinox.json](./5970-nightcaster-ii-equinox.json) |
+| NightCaster: Defeat the Darkness | 47323 | [47323-nightcaster-defeat-the-darkness.json](./47323-nightcaster-defeat-the-darkness.json) |
 | Nightclub 69: Bunny Girls | 367032 | [367032-nightclub-69-bunny-girls.json](./367032-nightclub-69-bunny-girls.json) |
 | Nightclub Emporium | 34788 | [34788-nightclub-emporium.json](./34788-nightclub-emporium.json) |
 | Nightclub Manager Simulator | 326391 | [326391-nightclub-manager-simulator.json](./326391-nightclub-manager-simulator.json) |
@@ -2578,6 +2580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendo Mini Classics: Zelda | 206370 | [206370-nintendo-mini-classics-zelda.json](./206370-nintendo-mini-classics-zelda.json) |
 | Nintendo MP3 Player | 300369 | [300369-nintendo-mp3-player.json](./300369-nintendo-mp3-player.json) |
 | Nintendo Nightmare Deluxe | 313341 | [313341-nintendo-nightmare-deluxe.json](./313341-nintendo-nightmare-deluxe.json) |
+| Nintendo Pocket Football Club | 47645 | [47645-nintendo-pocket-football-club.json](./47645-nintendo-pocket-football-club.json) |
 | Nintendo Presents: Crossword Collection | 23255 | [23255-nintendo-presents-crossword-collection.json](./23255-nintendo-presents-crossword-collection.json) |
 | Nintendo Wars | 324081 | [324081-nintendo-wars.json](./324081-nintendo-wars.json) |
 | Nintendo World Championships: NES Edition | 299862 | [299862-nintendo-world-championships-nes-edition.json](./299862-nintendo-world-championships-nes-edition.json) |
