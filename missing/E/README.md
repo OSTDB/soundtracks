@@ -3489,6 +3489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exorcist Simulator | 259005 | [259005-exorcist-simulator.json](./259005-exorcist-simulator.json) |
 | Exorcizamuste | 258537 | [258537-exorcizamuste.json](./258537-exorcizamuste.json) |
 | Exorder | 69440 | [69440-exorder.json](./69440-exorder.json) |
+| Exoria | 408199 | [408199-exoria.json](./408199-exoria.json) |
 | ExorSYS | 335245 | [335245-exorsys.json](./335245-exorsys.json) |
 | Exorun | 172534 | [172534-exorun.json](./172534-exorun.json) |
 | Exorzine | 194651 | [194651-exorzine.json](./194651-exorzine.json) |
