@@ -350,6 +350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanted | 72380 | [72380-wanted.json](./72380-wanted.json) |
 | Wanted | 75090 | [75090-wanted.json](./75090-wanted.json) |
 | Wanted 3D: Dead or Alive | 335858 | [335858-wanted-3d-dead-or-alive.json](./335858-wanted-3d-dead-or-alive.json) |
+| Wanted Corp. | 19211 | [19211-wanted-corp.json](./19211-wanted-corp.json) |
 | Wanted Raccoon | 144087 | [144087-wanted-raccoon.json](./144087-wanted-raccoon.json) |
 | Wanted Shadows | 267679 | [267679-wanted-shadows.json](./267679-wanted-shadows.json) |
 | Wanted Shadows: Unchained | 373076 | [373076-wanted-shadows-unchained.json](./373076-wanted-shadows-unchained.json) |
@@ -1345,6 +1346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weak Soul | 247741 | [247741-weak-soul.json](./247741-weak-soul.json) |
 | Weak Warrior | 61115 | [61115-weak-warrior.json](./61115-weak-warrior.json) |
 | Weakest Demon King: Escape! You Cannot Defeat the Female Heroines! | 82874 | [82874-weakest-demon-king-escape-you-cannot-defeat-the-female-heroines.json](./82874-weakest-demon-king-escape-you-cannot-defeat-the-female-heroines.json) |
+| Weakest Link | 19745 | [19745-weakest-link.json](./19745-weakest-link.json) |
 | Weakfish Puzzle Bundle | 331510 | [331510-weakfish-puzzle-bundle.json](./331510-weakfish-puzzle-bundle.json) |
 | Weapon Ball Fight | 383930 | [383930-weapon-ball-fight.json](./383930-weapon-ball-fight.json) |
 | Weapon Hacker | 133377 | [133377-weapon-hacker.json](./133377-weapon-hacker.json) |
