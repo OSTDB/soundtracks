@@ -2421,6 +2421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Rallye | 44707 | [44707-master-rallye.json](./44707-master-rallye.json) |
 | Master Reboot | 10541 | [10541-master-reboot.json](./10541-master-reboot.json) |
 | Master Sleuth Bundle | 209692 | [209692-master-sleuth-bundle.json](./209692-master-sleuth-bundle.json) |
+| Master Spy | 24583 | [24583-master-spy.json](./24583-master-spy.json) |
 | Master System 3 | 230823 | [230823-master-system-3.json](./230823-master-system-3.json) |
 | Master System 3 Collection: 131 Super Jogos na Memória | 230826 | [230826-master-system-3-collection-131-super-jogos-na-memoria.json](./230826-master-system-3-collection-131-super-jogos-na-memoria.json) |
 | Master System Handy | 202806 | [202806-master-system-handy.json](./202806-master-system-handy.json) |
@@ -8575,6 +8576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muramasa Rebirth Complete Collection | 122359 | [122359-muramasa-rebirth-complete-collection.json](./122359-muramasa-rebirth-complete-collection.json) |
 | Muramasa Rebirth: Blessing of Amitabha Collector's Edition | 89921 | [89921-muramasa-rebirth-blessing-of-amitabha-collectors-edition.json](./89921-muramasa-rebirth-blessing-of-amitabha-collectors-edition.json) |
 | Muramasa: The Demon Blade | 2266 | [2266-muramasa-the-demon-blade.json](./2266-muramasa-the-demon-blade.json) |
+| Murasaki Baby | 19926 | [19926-murasaki-baby.json](./19926-murasaki-baby.json) |
 | Murasaki Mist: Akara's Journey | 61043 | [61043-murasaki-mist-akaras-journey.json](./61043-murasaki-mist-akaras-journey.json) |
 | Murasaki no Honoo | 215190 | [215190-murasaki-no-honoo.json](./215190-murasaki-no-honoo.json) |
 | Murasaki7 | 127306 | [127306-murasaki7.json](./127306-murasaki7.json) |
