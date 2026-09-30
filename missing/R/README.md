@@ -478,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raid Haven | 418577 | [418577-raid-haven.json](./418577-raid-haven.json) |
 | Raid Leader | 237385 | [237385-raid-leader.json](./237385-raid-leader.json) |
 | Raid Manager | 197655 | [197655-raid-manager.json](./197655-raid-manager.json) |
+| Raid of Titan | 402422 | [402422-raid-of-titan.json](./402422-raid-of-titan.json) |
 | Raid on Bungeling Bay | 24664 | [24664-raid-on-bungeling-bay.json](./24664-raid-on-bungeling-bay.json) |
 | Raid on Coasts | 51574 | [51574-raid-on-coasts.json](./51574-raid-on-coasts.json) |
 | Raid Rush | 355014 | [355014-raid-rush.json](./355014-raid-rush.json) |
@@ -3499,6 +3500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riding Fight | 39577 | [39577-riding-fight.json](./39577-riding-fight.json) |
 | Riding Horse School | 239753 | [239753-riding-horse-school.json](./239753-riding-horse-school.json) |
 | Riding Rhodri | 51164 | [51164-riding-rhodri.json](./51164-riding-rhodri.json) |
+| Riding Shotgun | 402431 | [402431-riding-shotgun.json](./402431-riding-shotgun.json) |
 | Riding Spirits | 23761 | [23761-riding-spirits.json](./23761-riding-spirits.json) |
 | Riding Stables 3D | 84840 | [84840-riding-stables-3d.json](./84840-riding-stables-3d.json) |
 | Riding Star | 17047 | [17047-riding-star.json](./17047-riding-star.json) |
@@ -3839,6 +3841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Noracam | 151649 | [151649-rising-noracam.json](./151649-rising-noracam.json) |
 | Rising Snake | 123567 | [123567-rising-snake.json](./123567-rising-snake.json) |
 | Rising Spire | 152795 | [152795-rising-spire.json](./152795-rising-spire.json) |
+| Rising Spirit | 402350 | [402350-rising-spirit.json](./402350-rising-spirit.json) |
 | Rising Star | 187043 | [187043-rising-star.json](./187043-rising-star.json) |
 | Rising Star: The Horse Game | 220707 | [220707-rising-star-the-horse-game.json](./220707-rising-star-the-horse-game.json) |
 | Rising Storm 2: Vietnam | 18166 | [18166-rising-storm-2-vietnam.json](./18166-rising-storm-2-vietnam.json) |
