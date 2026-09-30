@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qlrz | 134514 | [134514-qlrz.json](./134514-qlrz.json) |
 | Qomp | 142475 | [142475-qomp.json](./142475-qomp.json) |
 | Qomp2 | 263923 | [263923-qomp2.json](./263923-qomp2.json) |
+| Qop 2 | 76379 | [76379-qop-2.json](./76379-qop-2.json) |
 | Qop 3 | 102389 | [102389-qop-3.json](./102389-qop-3.json) |
 | Qorena | 211931 | [211931-qorena.json](./211931-qorena.json) |
 | QotU | 308538 | [308538-qotu.json](./308538-qotu.json) |
