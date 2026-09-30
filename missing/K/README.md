@@ -1722,6 +1722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kioku | 309886 | [309886-kioku.json](./309886-kioku.json) |
 | Kioku Hanabi | 309356 | [309356-kioku-hanabi.json](./309356-kioku-hanabi.json) |
 | Kioku Shoujo | 151533 | [151533-kioku-shoujo.json](./151533-kioku-shoujo.json) |
+| Kiou | 405681 | [405681-kiou.json](./405681-kiou.json) |
 | Kip and Odosan | 236938 | [236938-kip-and-odosan.json](./236938-kip-and-odosan.json) |
 | Kip!: Space Runner | 101376 | [101376-kip-space-runner.json](./101376-kip-space-runner.json) |
 | Kipi Oppi | 403043 | [403043-kipi-oppi.json](./403043-kipi-oppi.json) |
