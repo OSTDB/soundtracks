@@ -1111,6 +1111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Static | 336607 | [336607-neo-static.json](./336607-neo-static.json) |
 | Neo Steam: The Shattered Continent | 51198 | [51198-neo-steam-the-shattered-continent.json](./51198-neo-steam-the-shattered-continent.json) |
 | Neo Testament | 270969 | [270969-neo-testament.json](./270969-neo-testament.json) |
+| Neo Turf Masters | 392403 | [392403-neo-turf-masters.json](./392403-neo-turf-masters.json) |
 | Neo Turf Masters Scotland | 400237 | [400237-neo-turf-masters-scotland.json](./400237-neo-turf-masters-scotland.json) |
 | Neo-Now! | 31986 | [31986-neo-now.json](./31986-neo-now.json) |
 | Neo-Programs | 186067 | [186067-neo-programs.json](./186067-neo-programs.json) |
@@ -2194,6 +2195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Break | 340550 | [340550-nightmare-break.json](./340550-nightmare-break.json) |
 | Nightmare Breaker | 230312 | [230312-nightmare-breaker.json](./230312-nightmare-breaker.json) |
 | Nightmare Burger Hell | 181885 | [181885-nightmare-burger-hell.json](./181885-nightmare-burger-hell.json) |
+| Nightmare Busters Rebirth | 392366 | [392366-nightmare-busters-rebirth.json](./392366-nightmare-busters-rebirth.json) |
 | Nightmare Class Project | 390137 | [390137-nightmare-class-project.json](./390137-nightmare-class-project.json) |
 | Nightmare Collection: Telephone Call | 293657 | [293657-nightmare-collection-telephone-call.json](./293657-nightmare-collection-telephone-call.json) |
 | Nightmare Cops | 51522 | [51522-nightmare-cops.json](./51522-nightmare-cops.json) |
@@ -2302,6 +2304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nihon Pro Mahjong Kishikai Kanshuu: Pro ni naru Mahjong DS | 131600 | [131600-nihon-pro-mahjong-kishikai-kanshuu-pro-ni-naru-mahjong-ds.json](./131600-nihon-pro-mahjong-kishikai-kanshuu-pro-ni-naru-mahjong-ds.json) |
 | Nihon Pro Mahjong Renmei Kounin: Honkaku Pro Mahjong: Shin Tetsuman | 369122 | [369122-nihon-pro-mahjong-renmei-kounin-honkaku-pro-mahjong-shin-tetsuman.json](./369122-nihon-pro-mahjong-renmei-kounin-honkaku-pro-mahjong-shin-tetsuman.json) |
 | Nihongo de Asobo | 327598 | [327598-nihongo-de-asobo.json](./327598-nihongo-de-asobo.json) |
+| Nihongo DX7 | 392407 | [392407-nihongo-dx7.json](./392407-nihongo-dx7.json) |
 | Nihongo Quest: N5 | 143704 | [143704-nihongo-quest-n5.json](./143704-nihongo-quest-n5.json) |
 | Nihongo School | 257106 | [257106-nihongo-school.json](./257106-nihongo-school.json) |
 | Niiikotopia: Sky Fall | 191169 | [191169-niiikotopia-sky-fall.json](./191169-niiikotopia-sky-fall.json) |
@@ -2762,6 +2765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Horizon | 109572 | [109572-no-horizon.json](./109572-no-horizon.json) |
 | No Internet | 292053 | [292053-no-internet.json](./292053-no-internet.json) |
 | No JetPacks For Chattini | 346015 | [346015-no-jetpacks-for-chattini.json](./346015-no-jetpacks-for-chattini.json) |
+| No Jokes With Mages | 392373 | [392373-no-jokes-with-mages.json](./392373-no-jokes-with-mages.json) |
 | No King No Kingdom | 75606 | [75606-no-king-no-kingdom.json](./75606-no-king-no-kingdom.json) |
 | No Kings Tiny Defenders | 376455 | [376455-no-kings-tiny-defenders.json](./376455-no-kings-tiny-defenders.json) |
 | No Light | 150684 | [150684-no-light.json](./150684-no-light.json) |
