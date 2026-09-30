@@ -5810,6 +5810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomsday Derby | 249192 | [249192-doomsday-derby.json](./249192-doomsday-derby.json) |
 | Doomsday Dispute | 192386 | [192386-doomsday-dispute.json](./192386-doomsday-dispute.json) |
 | Doomsday Hero | 156042 | [156042-doomsday-hero.json](./156042-doomsday-hero.json) |
+| Doomsday Hunters | 129042 | [129042-doomsday-hunters.json](./129042-doomsday-hunters.json) |
 | Doomsday of UAC | 252367 | [252367-doomsday-of-uac.json](./252367-doomsday-of-uac.json) |
 | Doomsday on Demand | 104037 | [104037-doomsday-on-demand.json](./104037-doomsday-on-demand.json) |
 | Doomsday on Demand 2 | 104036 | [104036-doomsday-on-demand-2.json](./104036-doomsday-on-demand-2.json) |
@@ -6621,6 +6622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest Monsters: Joker 3 Professional | 79296 | [79296-dragon-quest-monsters-joker-3-professional.json](./79296-dragon-quest-monsters-joker-3-professional.json) |
 | Dragon Quest Monsters: Terry no Wonderland 3D | 80596 | [80596-dragon-quest-monsters-terry-no-wonderland-3d.json](./80596-dragon-quest-monsters-terry-no-wonderland-3d.json) |
 | Dragon Quest Monsters: Terry no Wonderland SP | 111757 | [111757-dragon-quest-monsters-terry-no-wonderland-sp.json](./111757-dragon-quest-monsters-terry-no-wonderland-sp.json) |
+| Dragon Quest Monsters: The Dark Prince | 254332 | [254332-dragon-quest-monsters-the-dark-prince.json](./254332-dragon-quest-monsters-the-dark-prince.json) |
 | Dragon Quest Monsters: The Dark Prince - Coach Joe's Dungeon Gym | 268576 | [268576-dragon-quest-monsters-the-dark-prince-coach-joes-dungeon-gym.json](./268576-dragon-quest-monsters-the-dark-prince-coach-joes-dungeon-gym.json) |
 | Dragon Quest Monsters: The Dark Prince - Digital Deluxe Edition | 268553 | [268553-dragon-quest-monsters-the-dark-prince-digital-deluxe-edition.json](./268553-dragon-quest-monsters-the-dark-prince-digital-deluxe-edition.json) |
 | Dragon Quest Monsters: The Dark Prince - Master Edition | 261373 | [261373-dragon-quest-monsters-the-dark-prince-master-edition.json](./261373-dragon-quest-monsters-the-dark-prince-master-edition.json) |
