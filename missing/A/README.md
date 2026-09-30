@@ -2768,6 +2768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens: Fireteam Elite - Hardened Marine Pack | 247755 | [247755-aliens-fireteam-elite-hardened-marine-pack.json](./247755-aliens-fireteam-elite-hardened-marine-pack.json) |
 | Aliens: Fireteam Elite - Into the Hive Edition | 201027 | [201027-aliens-fireteam-elite-into-the-hive-edition.json](./201027-aliens-fireteam-elite-into-the-hive-edition.json) |
 | Aliens: Fireteam Elite - Pathogen | 204435 | [204435-aliens-fireteam-elite-pathogen.json](./204435-aliens-fireteam-elite-pathogen.json) |
+| Aliens: Fireteam Elite 2 | 400824 | [400824-aliens-fireteam-elite-2.json](./400824-aliens-fireteam-elite-2.json) |
 | Aliens: Infestation | 20606 | [20606-aliens-infestation.json](./20606-aliens-infestation.json) |
 | Aliens: Neoplasma | 247527 | [247527-aliens-neoplasma.json](./247527-aliens-neoplasma.json) |
 | Aliens: Redacted | 299755 | [299755-aliens-redacted.json](./299755-aliens-redacted.json) |
@@ -3331,6 +3332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Frog: In the City | 96058 | [96058-amazing-frog-in-the-city.json](./96058-amazing-frog-in-the-city.json) |
 | Amazing Gardens | 344366 | [344366-amazing-gardens.json](./344366-amazing-gardens.json) |
 | Amazing Human | 81741 | [81741-amazing-human.json](./81741-amazing-human.json) |
+| Amazing Island | 3784 | [3784-amazing-island.json](./3784-amazing-island.json) |
 | Amazing Jewel Switch | 240196 | [240196-amazing-jewel-switch.json](./240196-amazing-jewel-switch.json) |
 | Amazing Joes Journey | 157045 | [157045-amazing-joes-journey.json](./157045-amazing-joes-journey.json) |
 | Amazing Lab! Science Experiments Quiz | 399607 | [399607-amazing-lab-science-experiments-quiz.json](./399607-amazing-lab-science-experiments-quiz.json) |
@@ -6282,6 +6284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asfalia: The Cranky Volcano | 196425 | [196425-asfalia-the-cranky-volcano.json](./196425-asfalia-the-cranky-volcano.json) |
 | Asgard Run | 57327 | [57327-asgard-run.json](./57327-asgard-run.json) |
 | Asgard's Wrath | 115031 | [115031-asgards-wrath.json](./115031-asgards-wrath.json) |
+| Asgard’s Wrath II | 251569 | [251569-asgard-s-wrath-ii.json](./251569-asgard-s-wrath-ii.json) |
 | Asghan 2 | 10864 | [10864-asghan-2.json](./10864-asghan-2.json) |
 | Asghan: The Dragon Slayer | 10860 | [10860-asghan-the-dragon-slayer.json](./10860-asghan-the-dragon-slayer.json) |
 | Asgore Runs Over Dess: The Game | 362905 | [362905-asgore-runs-over-dess-the-game.json](./362905-asgore-runs-over-dess-the-game.json) |
