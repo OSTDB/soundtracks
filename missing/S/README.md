@@ -1576,6 +1576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scott Whiskers: The Search for the Golden Cat | 346236 | [346236-scott-whiskers-the-search-for-the-golden-cat.json](./346236-scott-whiskers-the-search-for-the-golden-cat.json) |
 | Scotty Goes to Centrelink | 202350 | [202350-scotty-goes-to-centrelink.json](./202350-scotty-goes-to-centrelink.json) |
 | Scoundrel | 101605 | [101605-scoundrel.json](./101605-scoundrel.json) |
+| Scoundrel | 398516 | [398516-scoundrel.json](./398516-scoundrel.json) |
 | Scoundrel's Dungeon | 399600 | [399600-scoundrels-dungeon.json](./399600-scoundrels-dungeon.json) |
 | Scourge | 408288 | [408288-scourge.json](./408288-scourge.json) |
 | Scourge of Scavengers | 348274 | [348274-scourge-of-scavengers.json](./348274-scourge-of-scavengers.json) |
@@ -4715,6 +4716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sidekick High | 185070 | [185070-sidekick-high.json](./185070-sidekick-high.json) |
 | SideLine | 243796 | [243796-sideline.json](./243796-sideline.json) |
 | Sidelined Futures | 308540 | [308540-sidelined-futures.json](./308540-sidelined-futures.json) |
+| SideQuest | 398501 | [398501-sidequest.json](./398501-sidequest.json) |
 | SideQuest Hunters | 360017 | [360017-sidequest-hunters.json](./360017-sidequest-hunters.json) |
 | SideQuest: Reanimated | 260641 | [260641-sidequest-reanimated.json](./260641-sidequest-reanimated.json) |
 | Sidereal Defense | 54357 | [54357-sidereal-defense.json](./54357-sidereal-defense.json) |
@@ -4955,6 +4957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silke, Pixelines Lillesøster: Mæh, Siger Det Lille Monster | 349492 | [349492-silke-pixelines-lilles-ster-m-h-siger-det-lille-monster.json](./349492-silke-pixelines-lilles-ster-m-h-siger-det-lille-monster.json) |
 | Silke, Pixelines Lillesøster: Syng, Leg Og Lær | 349489 | [349489-silke-pixelines-lilles-ster-syng-leg-og-l-r.json](./349489-silke-pixelines-lilles-ster-syng-leg-og-l-r.json) |
 | Silkroad 8 | 394157 | [394157-silkroad-8.json](./394157-silkroad-8.json) |
+| Silkroad Project | 398494 | [398494-silkroad-project.json](./398494-silkroad-project.json) |
 | Silky Road | 355565 | [355565-silky-road.json](./355565-silky-road.json) |
 | Silky Winds | 362348 | [362348-silky-winds.json](./362348-silky-winds.json) |
 | Sillage | 195117 | [195117-sillage.json](./195117-sillage.json) |
@@ -7254,6 +7257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnowRacer: Ramps | 246963 | [246963-snowracer-ramps.json](./246963-snowracer-ramps.json) |
 | SnowRocket | 189943 | [189943-snowrocket.json](./189943-snowrocket.json) |
 | SnowRunner + Expeditions: A MudRunner Game Bundle | 398397 | [398397-snowrunner-expeditions-a-mudrunner-game-bundle.json](./398397-snowrunner-expeditions-a-mudrunner-game-bundle.json) |
+| SnowRunner + RoadCraft Loyalty Bundle | 398396 | [398396-snowrunner-roadcraft-loyalty-bundle.json](./398396-snowrunner-roadcraft-loyalty-bundle.json) |
 | SnowRunner: 3-Year Anniversary Edition | 230833 | [230833-snowrunner-3-year-anniversary-edition.json](./230833-snowrunner-3-year-anniversary-edition.json) |
 | SnowRunner: 5-Year Anniversary Edition | 397767 | [397767-snowrunner-5-year-anniversary-edition.json](./397767-snowrunner-5-year-anniversary-edition.json) |
 | SnowRunner: Crocodile Pack | 223574 | [223574-snowrunner-crocodile-pack.json](./223574-snowrunner-crocodile-pack.json) |
@@ -13555,6 +13559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subrov | 152859 | [152859-subrov.json](./152859-subrov.json) |
 | Subsiege | 26677 | [26677-subsiege.json](./26677-subsiege.json) |
 | Subsist: Apocalypse Survival | 296453 | [296453-subsist-apocalypse-survival.json](./296453-subsist-apocalypse-survival.json) |
+| Substrate: Emergence | 398531 | [398531-substrate-emergence.json](./398531-substrate-emergence.json) |
 | Substructure | 380408 | [380408-substructure.json](./380408-substructure.json) |
 | Subsuelo | 272035 | [272035-subsuelo.json](./272035-subsuelo.json) |
 | Subsurface | 411732 | [411732-subsurface.json](./411732-subsurface.json) |
