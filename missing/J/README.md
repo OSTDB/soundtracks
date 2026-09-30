@@ -882,6 +882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw World | 308926 | [308926-jigsaw-world.json](./308926-jigsaw-world.json) |
 | Jigsaw World | 53249 | [53249-jigsaw-world.json](./53249-jigsaw-world.json) |
 | Jigsaw Zoo | 289371 | [289371-jigsaw-zoo.json](./289371-jigsaw-zoo.json) |
+| Jigsaw's Test | 393090 | [393090-jigsaws-test.json](./393090-jigsaws-test.json) |
 | Jigsawship | 255760 | [255760-jigsawship.json](./255760-jigsawship.json) |
 | Jigsu | 79944 | [79944-jigsu.json](./79944-jigsu.json) |
 | Jigten: Mandala of Shadows | 376449 | [376449-jigten-mandala-of-shadows.json](./376449-jigten-mandala-of-shadows.json) |
@@ -1132,6 +1133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Rocketfingers Complete Game Collection! | 252680 | [252680-johnny-rocketfingers-complete-game-collection.json](./252680-johnny-rocketfingers-complete-game-collection.json) |
 | Johnny Test | 126035 | [126035-johnny-test.json](./126035-johnny-test.json) |
 | Johnny Test's Ultimate Meatloaf Quest | 256872 | [256872-johnny-tests-ultimate-meatloaf-quest.json](./256872-johnny-tests-ultimate-meatloaf-quest.json) |
+| Johnny Trigger: Diamond Edition | 393066 | [393066-johnny-trigger-diamond-edition.json](./393066-johnny-trigger-diamond-edition.json) |
 | Johnny Trigger: Emerald Edition | 385203 | [385203-johnny-trigger-emerald-edition.json](./385203-johnny-trigger-emerald-edition.json) |
 | Johnny Trigger: Gold Edition | 396919 | [396919-johnny-trigger-gold-edition.json](./396919-johnny-trigger-gold-edition.json) |
 | Johnny Trigger: Hotshot DLC | 256800 | [256800-johnny-trigger-hotshot-dlc.json](./256800-johnny-trigger-hotshot-dlc.json) |
