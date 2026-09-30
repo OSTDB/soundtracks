@@ -1840,6 +1840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kissed by the Baddest Bidder: Scattered Cards Epilogue - Eisuke | 238069 | [238069-kissed-by-the-baddest-bidder-scattered-cards-epilogue-eisuke.json](./238069-kissed-by-the-baddest-bidder-scattered-cards-epilogue-eisuke.json) |
 | Kissed by the Baddest Bidder: Secrets from the Past - Eisuke | 238225 | [238225-kissed-by-the-baddest-bidder-secrets-from-the-past-eisuke.json](./238225-kissed-by-the-baddest-bidder-secrets-from-the-past-eisuke.json) |
 | Kissed by the Baddest Bidder: Secrets from the Past - Soryu | 238226 | [238226-kissed-by-the-baddest-bidder-secrets-from-the-past-soryu.json](./238226-kissed-by-the-baddest-bidder-secrets-from-the-past-soryu.json) |
+| Kissing Simulator | 118987 | [118987-kissing-simulator.json](./118987-kissing-simulator.json) |
 | Kissrim | 378917 | [378917-kissrim.json](./378917-kissrim.json) |
 | Kisten Royale | 352228 | [352228-kisten-royale.json](./352228-kisten-royale.json) |
 | Kit Cat | 297806 | [297806-kit-cat.json](./297806-kit-cat.json) |
