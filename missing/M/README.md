@@ -130,6 +130,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Macis | 307068 | [307068-macis.json](./307068-macis.json) |
 | Mackerelmedia Fish | 172499 | [172499-mackerelmedia-fish.json](./172499-mackerelmedia-fish.json) |
 | Mackle Story | 407459 | [407459-mackle-story.json](./407459-mackle-story.json) |
+| Mackle Story | 407492 | [407492-mackle-story.json](./407492-mackle-story.json) |
+| Mackle Story 2 | 407479 | [407479-mackle-story-2.json](./407479-mackle-story-2.json) |
+| Mackle Story Mini | 407488 | [407488-mackle-story-mini.json](./407488-mackle-story-mini.json) |
 | Mackle Story Remake | 407462 | [407462-mackle-story-remake.json](./407462-mackle-story-remake.json) |
 | MacMan And The Caber Eater | 314495 | [314495-macman-and-the-caber-eater.json](./314495-macman-and-the-caber-eater.json) |
 | MacMan And The Great Escape | 314496 | [314496-macman-and-the-great-escape.json](./314496-macman-and-the-great-escape.json) |
@@ -7998,6 +8001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Most Authentic Trench Warfare Simulator | 241511 | [241511-most-authentic-trench-warfare-simulator.json](./241511-most-authentic-trench-warfare-simulator.json) |
 | Most Correct Football Simulator | 118338 | [118338-most-correct-football-simulator.json](./118338-most-correct-football-simulator.json) |
 | Most Scuffed Golf | 409632 | [409632-most-scuffed-golf.json](./409632-most-scuffed-golf.json) |
+| Mostly Delivered | 407382 | [407382-mostly-delivered.json](./407382-mostly-delivered.json) |
 | Mostly Scared of Spiders | 115683 | [115683-mostly-scared-of-spiders.json](./115683-mostly-scared-of-spiders.json) |
 | Mot's 8-Ball Pool | 374166 | [374166-mots-8-ball-pool.json](./374166-mots-8-ball-pool.json) |
 | Mot's Grand Prix | 293749 | [293749-mots-grand-prix.json](./293749-mots-grand-prix.json) |
@@ -9652,6 +9656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Trainer is a Futanari | 207328 | [207328-my-trainer-is-a-futanari.json](./207328-my-trainer-is-a-futanari.json) |
 | My Tribe 3D | 223991 | [223991-my-tribe-3d.json](./223991-my-tribe-3d.json) |
 | My Tsundere Femboy | 277368 | [277368-my-tsundere-femboy.json](./277368-my-tsundere-femboy.json) |
+| My Tsundere Sister | 407473 | [407473-my-tsundere-sister.json](./407473-my-tsundere-sister.json) |
 | My Two First Loves | 313847 | [313847-my-two-first-loves.json](./313847-my-two-first-loves.json) |
 | My Type! | 266829 | [266829-my-type.json](./266829-my-type.json) |
 | My Typing Skill | 119548 | [119548-my-typing-skill.json](./119548-my-typing-skill.json) |
