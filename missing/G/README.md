@@ -2178,6 +2178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glass Smash 64 | 338801 | [338801-glass-smash-64.json](./338801-glass-smash-64.json) |
 | Glass Tactics | 244518 | [244518-glass-tactics.json](./244518-glass-tactics.json) |
 | Glass Walls | 180667 | [180667-glass-walls.json](./180667-glass-walls.json) |
+| Glass Wing | 34943 | [34943-glass-wing.json](./34943-glass-wing.json) |
 | Glass Wings | 238456 | [238456-glass-wings.json](./238456-glass-wings.json) |
 | GlassBox | 195249 | [195249-glassbox.json](./195249-glassbox.json) |
 | Glassbreakers: Champions of Moss | 264018 | [264018-glassbreakers-champions-of-moss.json](./264018-glassbreakers-champions-of-moss.json) |
@@ -4154,6 +4155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GridVR | 29780 | [29780-gridvr.json](./29780-gridvr.json) |
 | Gridwalker | 405587 | [405587-gridwalker.json](./405587-gridwalker.json) |
 | GridWars | 92989 | [92989-gridwars.json](./92989-gridwars.json) |
+| Gridworld | 34617 | [34617-gridworld.json](./34617-gridworld.json) |
 | Gridz | 229815 | [229815-gridz.json](./229815-gridz.json) |
 | Grief Like a Stray Dog | 195531 | [195531-grief-like-a-stray-dog.json](./195531-grief-like-a-stray-dog.json) |
 | Grief Trigger | 236514 | [236514-grief-trigger.json](./236514-grief-trigger.json) |
