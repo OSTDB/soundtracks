@@ -186,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nancy Drew: The White Wolf of Icicle Creek | 5050 | [5050-nancy-drew-the-white-wolf-of-icicle-creek.json](./5050-nancy-drew-the-white-wolf-of-icicle-creek.json) |
 | Nancy Drew: Tomb of the Lost Queen | 10587 | [10587-nancy-drew-tomb-of-the-lost-queen.json](./10587-nancy-drew-tomb-of-the-lost-queen.json) |
 | Nanda's Island | 48048 | [48048-nandas-island.json](./48048-nandas-island.json) |
+| Nandao Ni Shi Gal Gaoshou | 411771 | [411771-nandao-ni-shi-gal-gaoshou.json](./411771-nandao-ni-shi-gal-gaoshou.json) |
 | Nandemo!? Taihoman | 264312 | [264312-nandemo-taihoman.json](./264312-nandemo-taihoman.json) |
 | Nangoku Shounen Papuwa-kun | 38389 | [38389-nangoku-shounen-papuwa-kun.json](./38389-nangoku-shounen-papuwa-kun.json) |
 | Nangol | 310064 | [310064-nangol.json](./310064-nangol.json) |
@@ -2625,6 +2626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nioh 2 | 103330 | [103330-nioh-2.json](./103330-nioh-2.json) |
 | Nioh 2: The Complete Edition | 140972 | [140972-nioh-2-the-complete-edition.json](./140972-nioh-2-the-complete-edition.json) |
 | Nioh 2: The First Samurai | 140054 | [140054-nioh-2-the-first-samurai.json](./140054-nioh-2-the-first-samurai.json) |
+| Nioh 3 Season Pass | 411636 | [411636-nioh-3-season-pass.json](./411636-nioh-3-season-pass.json) |
 | Nioh 3: Bloody Insurrection | 411562 | [411562-nioh-3-bloody-insurrection.json](./411562-nioh-3-bloody-insurrection.json) |
 | Nioh 3: Hell Rising | 411561 | [411561-nioh-3-hell-rising.json](./411561-nioh-3-hell-rising.json) |
 | Nioh: Bloodshed's End | 59591 | [59591-nioh-bloodsheds-end.json](./59591-nioh-bloodsheds-end.json) |
