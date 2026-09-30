@@ -2744,6 +2744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireball Spam | 243788 | [243788-fireball-spam.json](./243788-fireball-spam.json) |
 | Fireball Wizard | 192846 | [192846-fireball-wizard.json](./192846-fireball-wizard.json) |
 | Firebase Defence | 110519 | [110519-firebase-defence.json](./110519-firebase-defence.json) |
+| Firebird - The Unfinished | 99215 | [99215-firebird-the-unfinished.json](./99215-firebird-the-unfinished.json) |
 | Firebird: Tale of the Stolen Light | 381017 | [381017-firebird-tale-of-the-stolen-light.json](./381017-firebird-tale-of-the-stolen-light.json) |
 | Fireblaster | 69256 | [69256-fireblaster.json](./69256-fireblaster.json) |
 | Fireboy & Watergirl 2: The Forest Temple | 246976 | [246976-fireboy-and-watergirl-2-the-forest-temple.json](./246976-fireboy-and-watergirl-2-the-forest-temple.json) |
@@ -3001,6 +3002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing | 246456 | [246456-fishing.json](./246456-fishing.json) |
 | Fishing Adventure | 299454 | [299454-fishing-adventure.json](./299454-fishing-adventure.json) |
 | Fishing Clash 2020: Fish Catching Games | 135263 | [135263-fishing-clash-2020-fish-catching-games.json](./135263-fishing-clash-2020-fish-catching-games.json) |
+| Fishing Clash: Catching Fish Game. Bass Hunting 3D | 99389 | [99389-fishing-clash-catching-fish-game-bass-hunting-3d.json](./99389-fishing-clash-catching-fish-game-bass-hunting-3d.json) |
 | Fishing Craze | 294739 | [294739-fishing-craze.json](./294739-fishing-craze.json) |
 | Fishing Diary, Fishing Joy | 88422 | [88422-fishing-diary-fishing-joy.json](./88422-fishing-diary-fishing-joy.json) |
 | Fishing Diary: King of Fishing | 196286 | [196286-fishing-diary-king-of-fishing.json](./196286-fishing-diary-king-of-fishing.json) |
