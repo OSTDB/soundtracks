@@ -1216,6 +1216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperium Galactum | 25976 | [25976-imperium-galactum.json](./25976-imperium-galactum.json) |
 | Imperium Revolution | 188564 | [188564-imperium-revolution.json](./188564-imperium-revolution.json) |
 | Imperium Romanum | 20776 | [20776-imperium-romanum.json](./20776-imperium-romanum.json) |
+| Imperium Romanum: Gold Edition | 27828 | [27828-imperium-romanum-gold-edition.json](./27828-imperium-romanum-gold-edition.json) |
 | Imperium: Galactic War | 120263 | [120263-imperium-galactic-war.json](./120263-imperium-galactic-war.json) |
 | Imperius | 195640 | [195640-imperius.json](./195640-imperius.json) |
 | Imperivm: Great Battles of Rome - HD Edition | 165540 | [165540-imperivm-great-battles-of-rome-hd-edition.json](./165540-imperivm-great-battles-of-rome-hd-edition.json) |
@@ -2865,6 +2866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Designer | 296652 | [296652-island-designer.json](./296652-island-designer.json) |
 | Island Dwellers | 317874 | [317874-island-dwellers.json](./317874-island-dwellers.json) |
 | Island Escape 2 | 311583 | [311583-island-escape-2.json](./311583-island-escape-2.json) |
+| Island Experiment | 27938 | [27938-island-experiment.json](./27938-island-experiment.json) |
 | Island Flight Simulator | 24747 | [24747-island-flight-simulator.json](./24747-island-flight-simulator.json) |
 | Island Getaway | 29939 | [29939-island-getaway.json](./29939-island-getaway.json) |
 | Island Golf | 255740 | [255740-island-golf.json](./255740-island-golf.json) |
