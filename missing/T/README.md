@@ -772,6 +772,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talking Tom Candy Run | 107165 | [107165-talking-tom-candy-run.json](./107165-talking-tom-candy-run.json) |
 | Talking Tom Cat | 214349 | [214349-talking-tom-cat.json](./214349-talking-tom-cat.json) |
 | Talking Tom Cat 2 | 214779 | [214779-talking-tom-cat-2.json](./214779-talking-tom-cat-2.json) |
+| Talking Tom Gold Run | 87051 | [87051-talking-tom-gold-run.json](./87051-talking-tom-gold-run.json) |
+| Talking Tom Pool | 87043 | [87043-talking-tom-pool.json](./87043-talking-tom-pool.json) |
 | Talking Tom Time Rush | 232034 | [232034-talking-tom-time-rush.json](./232034-talking-tom-time-rush.json) |
 | TalkMan | 23141 | [23141-talkman.json](./23141-talkman.json) |
 | Talksport Interactive Quiz | 320902 | [320902-talksport-interactive-quiz.json](./320902-talksport-interactive-quiz.json) |
@@ -2789,6 +2791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Argument Solver | 289308 | [289308-the-argument-solver.json](./289308-the-argument-solver.json) |
 | The Ark | 390005 | [390005-the-ark.json](./390005-the-ark.json) |
 | The Ark Adult Game | 322715 | [322715-the-ark-adult-game.json](./322715-the-ark-adult-game.json) |
+| The Ark of Craft | 86794 | [86794-the-ark-of-craft.json](./86794-the-ark-of-craft.json) |
 | The Ark of Horizon | 117162 | [117162-the-ark-of-horizon.json](./117162-the-ark-of-horizon.json) |
 | The Arkane Collection | 331402 | [331402-the-arkane-collection.json](./331402-the-arkane-collection.json) |
 | The Arm Wrestling Classic | 214525 | [214525-the-arm-wrestling-classic.json](./214525-the-arm-wrestling-classic.json) |
@@ -4637,6 +4640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ghost | 174885 | [174885-the-ghost.json](./174885-the-ghost.json) |
 | The Ghost and the Golem | 211169 | [211169-the-ghost-and-the-golem.json](./211169-the-ghost-and-the-golem.json) |
 | The Ghost and The Phoenix | 224585 | [224585-the-ghost-and-the-phoenix.json](./224585-the-ghost-and-the-phoenix.json) |
+| The Ghost Archives: Haunting of Shady Valley | 87065 | [87065-the-ghost-archives-haunting-of-shady-valley.json](./87065-the-ghost-archives-haunting-of-shady-valley.json) |
 | The Ghost Cage | 173273 | [173273-the-ghost-cage.json](./173273-the-ghost-cage.json) |
 | The Ghost of Nichishima | 319700 | [319700-the-ghost-of-nichishima.json](./319700-the-ghost-of-nichishima.json) |
 | The Ghost of Paris | 187974 | [187974-the-ghost-of-paris.json](./187974-the-ghost-of-paris.json) |
@@ -8871,6 +8875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wolf Among Us: Episode 1 - Faith | 127107 | [127107-the-wolf-among-us-episode-1-faith.json](./127107-the-wolf-among-us-episode-1-faith.json) |
 | The Wolf Among Us: Episode 2 - Smoke and Mirrors | 127108 | [127108-the-wolf-among-us-episode-2-smoke-and-mirrors.json](./127108-the-wolf-among-us-episode-2-smoke-and-mirrors.json) |
 | The Wolf Among Us: Episode 3 - A Crooked Mile | 127109 | [127109-the-wolf-among-us-episode-3-a-crooked-mile.json](./127109-the-wolf-among-us-episode-3-a-crooked-mile.json) |
+| The Wolf: Online RPG Simulator | 86796 | [86796-the-wolf-online-rpg-simulator.json](./86796-the-wolf-online-rpg-simulator.json) |
 | The Wolf's Bite | 28215 | [28215-the-wolfs-bite.json](./28215-the-wolfs-bite.json) |
 | The Woman Above | 398476 | [398476-the-woman-above.json](./398476-the-woman-above.json) |
 | The Wonder Pets!: Save the Animals! | 124088 | [124088-the-wonder-pets-save-the-animals.json](./124088-the-wonder-pets-save-the-animals.json) |
