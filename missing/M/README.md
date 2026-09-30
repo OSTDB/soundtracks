@@ -4465,6 +4465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Solid: Fight of the Metal Gears | 331973 | [331973-metal-gear-solid-fight-of-the-metal-gears.json](./331973-metal-gear-solid-fight-of-the-metal-gears.json) |
 | Metal Gear Solid: Master Collection Version | 393638 | [393638-metal-gear-solid-master-collection-version.json](./393638-metal-gear-solid-master-collection-version.json) |
 | Metal Gear Solid: Peace Walker | 382 | [382-metal-gear-solid-peace-walker.json](./382-metal-gear-solid-peace-walker.json) |
+| Metal Gear Solid: Peace Walker - Master Collection Version | 391792 | [391792-metal-gear-solid-peace-walker-master-collection-version.json](./391792-metal-gear-solid-peace-walker-master-collection-version.json) |
 | Metal Gear Solid: Portable Ops | 381 | [381-metal-gear-solid-portable-ops.json](./381-metal-gear-solid-portable-ops.json) |
 | Metal Gear Solid: Portable Ops Plus - Deluxe Pack | 294698 | [294698-metal-gear-solid-portable-ops-plus-deluxe-pack.json](./294698-metal-gear-solid-portable-ops-plus-deluxe-pack.json) |
 | Metal Gear Solid: Snake Eater 3D | 21073 | [21073-metal-gear-solid-snake-eater-3d.json](./21073-metal-gear-solid-snake-eater-3d.json) |
@@ -6828,6 +6829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moldy Tower | 271479 | [271479-moldy-tower.json](./271479-moldy-tower.json) |
 | Mole | 135058 | [135058-mole.json](./135058-mole.json) |
 | Möle | 93549 | [93549-mole.json](./93549-mole.json) |
+| Mole Cart Mining | 391830 | [391830-mole-cart-mining.json](./391830-mole-cart-mining.json) |
 | Mole Digging | 349309 | [349309-mole-digging.json](./349309-mole-digging.json) |
 | Mole Game | 129721 | [129721-mole-game.json](./129721-mole-game.json) |
 | Mole Gem Mayhem | 294988 | [294988-mole-gem-mayhem.json](./294988-mole-gem-mayhem.json) |
@@ -7691,6 +7693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonring DX | 334849 | [334849-moonring-dx.json](./334849-moonring-dx.json) |
 | Moonrise | 407543 | [407543-moonrise.json](./407543-moonrise.json) |
 | Moonrise | 9873 | [9873-moonrise.json](./9873-moonrise.json) |
+| Moonrot | 391818 | [391818-moonrot.json](./391818-moonrot.json) |
 | MoonRun | 148888 | [148888-moonrun.json](./148888-moonrun.json) |
 | Moons of True Magic | 263204 | [263204-moons-of-true-magic.json](./263204-moons-of-true-magic.json) |
 | Moons That Belong | 318066 | [318066-moons-that-belong.json](./318066-moons-that-belong.json) |
