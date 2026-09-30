@@ -6133,6 +6133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruzzle | 58212 | [58212-ruzzle.json](./58212-ruzzle.json) |
 | Ruzzle Adventure | 38910 | [38910-ruzzle-adventure.json](./38910-ruzzle-adventure.json) |
 | RV Park Life | 228452 | [228452-rv-park-life.json](./228452-rv-park-life.json) |
+| RV Tags | 405672 | [405672-rv-tags.json](./405672-rv-tags.json) |
 | RV There Yet? | 373580 | [373580-rv-there-yet.json](./373580-rv-there-yet.json) |
 | RV-7 My Drone | 84909 | [84909-rv-7-my-drone.json](./84909-rv-7-my-drone.json) |
 | RVF Honda | 12927 | [12927-rvf-honda.json](./12927-rvf-honda.json) |
