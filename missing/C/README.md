@@ -2198,6 +2198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caverns of Kontonia | 293715 | [293715-caverns-of-kontonia.json](./293715-caverns-of-kontonia.json) |
 | Caverns of Mars: Recharged | 233624 | [233624-caverns-of-mars-recharged.json](./233624-caverns-of-mars-recharged.json) |
 | Caverns of Minos | 22681 | [22681-caverns-of-minos.json](./22681-caverns-of-minos.json) |
+| Caverns of the Lost Miner | 391799 | [391799-caverns-of-the-lost-miner.json](./391799-caverns-of-the-lost-miner.json) |
 | Caverns of Titan | 47550 | [47550-caverns-of-titan.json](./47550-caverns-of-titan.json) |
 | Caverns of Toros | 226750 | [226750-caverns-of-toros.json](./226750-caverns-of-toros.json) |
 | Caverns of Xaskazien II | 217871 | [217871-caverns-of-xaskazien-ii.json](./217871-caverns-of-xaskazien-ii.json) |
@@ -2415,6 +2416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cesar Millan's Dog Whisperer | 70646 | [70646-cesar-millans-dog-whisperer.json](./70646-cesar-millans-dog-whisperer.json) |
 | Cessate il Fuoco/Heathcliff | 305298 | [305298-cessate-il-fuoco-heathcliff.json](./305298-cessate-il-fuoco-heathcliff.json) |
 | Cessna Over Moscow | 39116 | [39116-cessna-over-moscow.json](./39116-cessna-over-moscow.json) |
+| Cesta bojovníka | 391800 | [391800-cesta-bojovnika.json](./391800-cesta-bojovnika.json) |
 | CFG: Combat for General | 235478 | [235478-cfg-combat-for-general.json](./235478-cfg-combat-for-general.json) |
 | CFL Football '99 | 78671 | [78671-cfl-football-99.json](./78671-cfl-football-99.json) |
 | CG Mukashi Banashi: Jiisan 2-do Bikkuri!! | 346144 | [346144-cg-mukashi-banashi-jiisan-2-do-bikkuri.json](./346144-cg-mukashi-banashi-jiisan-2-do-bikkuri.json) |
@@ -7218,6 +7220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozycult | 364057 | [364057-cozycult.json](./364057-cozycult.json) |
 | Cozyrama | 360004 | [360004-cozyrama.json](./360004-cozyrama.json) |
 | CozyTyper | 209678 | [209678-cozytyper.json](./209678-cozytyper.json) |
+| Cozywood Creek | 391802 | [391802-cozywood-creek.json](./391802-cozywood-creek.json) |
 | CP3D | 109581 | [109581-cp3d.json](./109581-cp3d.json) |
 | CPA: Reports Bousy | 311123 | [311123-cpa-reports-bousy.json](./311123-cpa-reports-bousy.json) |
 | CPU Invaders: Aim Hero | 413665 | [413665-cpu-invaders-aim-hero.json](./413665-cpu-invaders-aim-hero.json) |
@@ -7951,6 +7954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson III | 335119 | [335119-crimson-iii.json](./335119-crimson-iii.json) |
 | Crimson Katana Exa Label | 365112 | [365112-crimson-katana-exa-label.json](./365112-crimson-katana-exa-label.json) |
 | Crimson Knight | 367525 | [367525-crimson-knight.json](./367525-crimson-knight.json) |
+| Crimson Memories | 391803 | [391803-crimson-memories.json](./391803-crimson-memories.json) |
 | Crimson Memories | 68887 | [68887-crimson-memories.json](./68887-crimson-memories.json) |
 | Crimson Metal | 29168 | [29168-crimson-metal.json](./29168-crimson-metal.json) |
 | Crimson Moon | 245796 | [245796-crimson-moon.json](./245796-crimson-moon.json) |
@@ -8432,6 +8436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crustacean Frustration | 395021 | [395021-crustacean-frustration.json](./395021-crustacean-frustration.json) |
 | Crustacean Nations | 211254 | [211254-crustacean-nations.json](./211254-crustacean-nations.json) |
 | Crusty Demons | 20537 | [20537-crusty-demons.json](./20537-crusty-demons.json) |
+| Crux 92 | 391805 | [391805-crux-92.json](./391805-crux-92.json) |
 | Crux: The Great Outdoors | 200161 | [200161-crux-the-great-outdoors.json](./200161-crux-the-great-outdoors.json) |
 | Cruxade | 212246 | [212246-cruxade.json](./212246-cruxade.json) |
 | Cruz Brothers | 55293 | [55293-cruz-brothers.json](./55293-cruz-brothers.json) |
@@ -9008,6 +9013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of Greed: Ultimate | 176973 | [176973-curse-of-greed-ultimate.json](./176973-curse-of-greed-ultimate.json) |
 | Curse of Issyos | 137101 | [137101-curse-of-issyos.json](./137101-curse-of-issyos.json) |
 | Curse of Mermos | 35678 | [35678-curse-of-mermos.json](./35678-curse-of-mermos.json) |
+| Curse of Resthaven | 391801 | [391801-curse-of-resthaven.json](./391801-curse-of-resthaven.json) |
 | Curse of Silence | 385753 | [385753-curse-of-silence.json](./385753-curse-of-silence.json) |
 | Curse of the Abyss | 370919 | [370919-curse-of-the-abyss.json](./370919-curse-of-the-abyss.json) |
 | Curse of the Amethyst Skull | 364568 | [364568-curse-of-the-amethyst-skull.json](./364568-curse-of-the-amethyst-skull.json) |
