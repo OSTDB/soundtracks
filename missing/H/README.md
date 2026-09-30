@@ -5040,6 +5040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How Deep is Your Love | 176287 | [176287-how-deep-is-your-love.json](./176287-how-deep-is-your-love.json) |
 | How did I get here? | 203399 | [203399-how-did-i-get-here.json](./203399-how-did-i-get-here.json) |
 | How Did My Dad Go to School | 389744 | [389744-how-did-my-dad-go-to-school.json](./389744-how-did-my-dad-go-to-school.json) |
+| How Do You Do It? | 60443 | [60443-how-do-you-do-it.json](./60443-how-do-you-do-it.json) |
 | How Do You Know Mr. Blue? | 115757 | [115757-how-do-you-know-mr-blue.json](./115757-how-do-you-know-mr-blue.json) |
 | How Do You Reckon? | 179721 | [179721-how-do-you-reckon.json](./179721-how-do-you-reckon.json) |
 | How Far Can U Go? | 176486 | [176486-how-far-can-u-go.json](./176486-how-far-can-u-go.json) |
@@ -5229,6 +5230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hugh's Dream | 135797 | [135797-hughs-dream.json](./135797-hughs-dream.json) |
 | Huglings | 388756 | [388756-huglings.json](./388756-huglings.json) |
 | Hugo | 204887 | [204887-hugo.json](./204887-hugo.json) |
+| Hugo 2 | 64505 | [64505-hugo-2.json](./64505-hugo-2.json) |
 | Hugo 2 1/2 | 64504 | [64504-hugo-2-1-2.json](./64504-hugo-2-1-2.json) |
 | Hugo and the Animals of the Ocean | 286610 | [286610-hugo-and-the-animals-of-the-ocean.json](./286610-hugo-and-the-animals-of-the-ocean.json) |
 | Hugo Gold | 265969 | [265969-hugo-gold.json](./265969-hugo-gold.json) |
