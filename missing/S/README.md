@@ -3547,6 +3547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shark Go | 406781 | [406781-shark-go.json](./406781-shark-go.json) |
 | Shark Hunt | 346097 | [346097-shark-hunt.json](./346097-shark-hunt.json) |
 | Shark Hunter | 41572 | [41572-shark-hunter.json](./41572-shark-hunter.json) |
+| Shark Mart | 402445 | [402445-shark-mart.json](./402445-shark-mart.json) |
 | Shark or Die | 61105 | [61105-shark-or-die.json](./61105-shark-or-die.json) |
 | Shark Pinball | 165614 | [165614-shark-pinball.json](./165614-shark-pinball.json) |
 | Shark Riders | 150137 | [150137-shark-riders.json](./150137-shark-riders.json) |
@@ -3556,6 +3557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shark! Hunting the Great White | 71770 | [71770-shark-hunting-the-great-white.json](./71770-shark-hunting-the-great-white.json) |
 | Shark! Shark! | 5695 | [5695-shark-shark.json](./5695-shark-shark.json) |
 | Shark's Treasures Adventure | 339901 | [339901-sharks-treasures-adventure.json](./339901-sharks-treasures-adventure.json) |
+| Sharkarama | 402446 | [402446-sharkarama.json](./402446-sharkarama.json) |
 | Sharkbaked | 379009 | [379009-sharkbaked.json](./379009-sharkbaked.json) |
 | SharkDrag Episode 5: Uniting the 5 Kingdoms | 210891 | [210891-sharkdrag-episode-5-uniting-the-5-kingdoms.json](./210891-sharkdrag-episode-5-uniting-the-5-kingdoms.json) |
 | Sharkey's Shootout | 91401 | [91401-sharkeys-shootout.json](./91401-sharkeys-shootout.json) |
@@ -8763,6 +8765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulslayer | 46461 | [46461-soulslayer.json](./46461-soulslayer.json) |
 | Soulslinger | 223041 | [223041-soulslinger.json](./223041-soulslinger.json) |
 | Soulslinger: Envoy of Death | 259147 | [259147-soulslinger-envoy-of-death.json](./259147-soulslinger-envoy-of-death.json) |
+| Soulstation | 402447 | [402447-soulstation.json](./402447-soulstation.json) |
 | Soulstice: Deluxe Edition | 201781 | [201781-soulstice-deluxe-edition.json](./201781-soulstice-deluxe-edition.json) |
 | Soulstone Survivors | 210585 | [210585-soulstone-survivors.json](./210585-soulstone-survivors.json) |
 | Soultia | 130939 | [130939-soultia.json](./130939-soultia.json) |
@@ -11727,6 +11730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starona | 142386 | [142386-starona.json](./142386-starona.json) |
 | Staroot | 337290 | [337290-staroot.json](./337290-staroot.json) |
 | StarOS | 255961 | [255961-staros.json](./255961-staros.json) |
+| Starpath | 402419 | [402419-starpath.json](./402419-starpath.json) |
 | StarPeace | 73286 | [73286-starpeace.json](./73286-starpeace.json) |
 | StarPicker | 149607 | [149607-starpicker.json](./149607-starpicker.json) |
 | Starpiercer | 181360 | [181360-starpiercer.json](./181360-starpiercer.json) |
@@ -16796,6 +16800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth War Tactics | 151188 | [151188-synth-war-tactics.json](./151188-synth-war-tactics.json) |
 | Synthaar | 304880 | [304880-synthaar.json](./304880-synthaar.json) |
 | Synthalgia: Retro Arcade Racing | 155513 | [155513-synthalgia-retro-arcade-racing.json](./155513-synthalgia-retro-arcade-racing.json) |
+| Synthaly Universe | 402436 | [402436-synthaly-universe.json](./402436-synthaly-universe.json) |
 | Synthbiotic Dungeon | 147286 | [147286-synthbiotic-dungeon.json](./147286-synthbiotic-dungeon.json) |
 | Synther | 99008 | [99008-synther.json](./99008-synther.json) |
 | Syntherapy | 139473 | [139473-syntherapy.json](./139473-syntherapy.json) |
