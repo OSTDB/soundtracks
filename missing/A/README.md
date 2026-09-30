@@ -787,6 +787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolutely Nothing Good | 414420 | [414420-absolutely-nothing-good.json](./414420-absolutely-nothing-good.json) |
 | Absolutely Perfect Specimen | 257098 | [257098-absolutely-perfect-specimen.json](./257098-absolutely-perfect-specimen.json) |
 | Absolution of the Dead | 345661 | [345661-absolution-of-the-dead.json](./345661-absolution-of-the-dead.json) |
+| Absolved | 389697 | [389697-absolved.json](./389697-absolved.json) |
 | Absolver: Deluxe Edition | 52555 | [52555-absolver-deluxe-edition.json](./52555-absolver-deluxe-edition.json) |
 | Absolver: Special Reserve edition | 74318 | [74318-absolver-special-reserve-edition.json](./74318-absolver-special-reserve-edition.json) |
 | Absorb | 219698 | [219698-absorb.json](./219698-absorb.json) |
@@ -6217,6 +6218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Around the World in 80 Days | 88496 | [88496-around-the-world-in-80-days.json](./88496-around-the-world-in-80-days.json) |
 | Around the World: Travel to Brazil | 269287 | [269287-around-the-world-travel-to-brazil.json](./269287-around-the-world-travel-to-brazil.json) |
 | Around Us | 226230 | [226230-around-us.json](./226230-around-us.json) |
+| Aroya Knight | 389681 | [389681-aroya-knight.json](./389681-aroya-knight.json) |
 | Arpiel Online | 56466 | [56466-arpiel-online.json](./56466-arpiel-online.json) |
 | Arran: The Book of Heroes | 172519 | [172519-arran-the-book-of-heroes.json](./172519-arran-the-book-of-heroes.json) |
 | Arranged | 118798 | [118798-arranged.json](./118798-arranged.json) |
