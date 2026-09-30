@@ -4258,6 +4258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Stars: Head Ball Soccer Co-op Battle | 328535 | [328535-football-stars-head-ball-soccer-co-op-battle.json](./328535-football-stars-head-ball-soccer-co-op-battle.json) |
 | Football Story | 103391 | [103391-football-story.json](./103391-football-story.json) |
 | Football Streaker Simulator | 259086 | [259086-football-streaker-simulator.json](./259086-football-streaker-simulator.json) |
+| Football Strike | 68338 | [68338-football-strike.json](./68338-football-strike.json) |
 | Football Superstar 2 | 317008 | [317008-football-superstar-2.json](./317008-football-superstar-2.json) |
 | Football Thug Life Soccer | 255741 | [255741-football-thug-life-soccer.json](./255741-football-thug-life-soccer.json) |
 | Football Tournament | 164882 | [164882-football-tournament.json](./164882-football-tournament.json) |
@@ -4416,6 +4417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Crossroads | 278151 | [278151-forest-crossroads.json](./278151-forest-crossroads.json) |
 | Forest Defenders | 240920 | [240920-forest-defenders.json](./240920-forest-defenders.json) |
 | Forest Doesn’t Care | 358851 | [358851-forest-doesn-t-care.json](./358851-forest-doesn-t-care.json) |
+| Forest Escape | 74230 | [74230-forest-escape.json](./74230-forest-escape.json) |
 | Forest Escape: Last Train | 389724 | [389724-forest-escape-last-train.json](./389724-forest-escape-last-train.json) |
 | Forest Fantasy | 285542 | [285542-forest-fantasy.json](./285542-forest-fantasy.json) |
 | Forest Fire | 230941 | [230941-forest-fire.json](./230941-forest-fire.json) |
