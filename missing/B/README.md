@@ -546,6 +546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakuryuu Sentai Abaranger | 130409 | [130409-bakuryuu-sentai-abaranger.json](./130409-bakuryuu-sentai-abaranger.json) |
 | Bakushou!! All Yoshimoto Quiz Ou Ketteisen DX | 45422 | [45422-bakushou-all-yoshimoto-quiz-ou-ketteisen-dx.json](./45422-bakushou-all-yoshimoto-quiz-ou-ketteisen-dx.json) |
 | Bakushou!! All Yoshimoto Quiz-Ou Ketteisen | 245247 | [245247-bakushou-all-yoshimoto-quiz-ou-ketteisen.json](./245247-bakushou-all-yoshimoto-quiz-ou-ketteisen.json) |
+| Bakusou Kyoudai Let's & Go!!: Eternal Wings | 44765 | [44765-bakusou-kyoudai-lets-and-go-eternal-wings.json](./44765-bakusou-kyoudai-lets-and-go-eternal-wings.json) |
 | Bakusuro Bank | 98040 | [98040-bakusuro-bank.json](./98040-bakusuro-bank.json) |
 | Bakuten Shoot Beyblade | 80235 | [80235-bakuten-shoot-beyblade.json](./80235-bakuten-shoot-beyblade.json) |
 | Bakuten Shoot Beyblade 2002: Beybattle Tournament 2 | 303784 | [303784-bakuten-shoot-beyblade-2002-beybattle-tournament-2.json](./303784-bakuten-shoot-beyblade-2002-beybattle-tournament-2.json) |
@@ -1681,6 +1682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Bears: Zombies AR | 89200 | [89200-battle-bears-zombies-ar.json](./89200-battle-bears-zombies-ar.json) |
 | Battle Beaster 2 | 376728 | [376728-battle-beaster-2.json](./376728-battle-beaster-2.json) |
 | Battle Bits | 333392 | [333392-battle-bits.json](./333392-battle-bits.json) |
+| Battle Blaze | 42629 | [42629-battle-blaze.json](./42629-battle-blaze.json) |
 | Battle Blocks | 137660 | [137660-battle-blocks.json](./137660-battle-blocks.json) |
 | Battle Bloodlines | 338197 | [338197-battle-bloodlines.json](./338197-battle-bloodlines.json) |
 | Battle Blues | 145616 | [145616-battle-blues.json](./145616-battle-blues.json) |
@@ -1704,6 +1706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Chess 4000 | 11099 | [11099-battle-chess-4000.json](./11099-battle-chess-4000.json) |
 | Battle Chess II: Chinese Chess | 11098 | [11098-battle-chess-ii-chinese-chess.json](./11098-battle-chess-ii-chinese-chess.json) |
 | Battle Chopper | 38542 | [38542-battle-chopper.json](./38542-battle-chopper.json) |
+| Battle Clash | 42735 | [42735-battle-clash.json](./42735-battle-clash.json) |
 | Battle Commanders | 36471 | [36471-battle-commanders.json](./36471-battle-commanders.json) |
 | Battle Copters | 348953 | [348953-battle-copters.json](./348953-battle-copters.json) |
 | Battle Craft | 257926 | [257926-battle-craft.json](./257926-battle-craft.json) |
@@ -5381,6 +5384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob the Builder | 83246 | [83246-bob-the-builder.json](./83246-bob-the-builder.json) |
 | Bob the Builder: Bob Builds A Park | 72055 | [72055-bob-the-builder-bob-builds-a-park.json](./72055-bob-the-builder-bob-builds-a-park.json) |
 | Bob the Builder: Build City | 91335 | [91335-bob-the-builder-build-city.json](./91335-bob-the-builder-build-city.json) |
+| Bob the Builder: Can We Fix It? | 44890 | [44890-bob-the-builder-can-we-fix-it.json](./44890-bob-the-builder-can-we-fix-it.json) |
 | Bob the Builder: Festival of Fun | 374680 | [374680-bob-the-builder-festival-of-fun.json](./374680-bob-the-builder-festival-of-fun.json) |
 | Bob the Builder: Fix it Fun! | 49879 | [49879-bob-the-builder-fix-it-fun.json](./49879-bob-the-builder-fix-it-fun.json) |
 | Bob the Elementalist | 267489 | [267489-bob-the-elementalist.json](./267489-bob-the-elementalist.json) |
