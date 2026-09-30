@@ -5536,6 +5536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pongémon | 285035 | [285035-pongemon.json](./285035-pongemon.json) |
 | Pongeon | 184641 | [184641-pongeon.json](./184641-pongeon.json) |
 | Pongis | 98223 | [98223-pongis.json](./98223-pongis.json) |
+| Pongis 2 | 416654 | [416654-pongis-2.json](./416654-pongis-2.json) |
 | Pongis Jump | 126000 | [126000-pongis-jump.json](./126000-pongis-jump.json) |
 | Pongpongpongpongpongpongpongpong | 212776 | [212776-pongpongpongpongpongpongpongpong.json](./212776-pongpongpongpongpongpongpongpong.json) |
 | Pongs | 178609 | [178609-pongs.json](./178609-pongs.json) |
@@ -6687,6 +6688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prisoner 17 | 150044 | [150044-prisoner-17.json](./150044-prisoner-17.json) |
 | Prisoner Breaker | 372485 | [372485-prisoner-breaker.json](./372485-prisoner-breaker.json) |
 | Prisoners | 285470 | [285470-prisoners.json](./285470-prisoners.json) |
+| Prisoners Chess | 416713 | [416713-prisoners-chess.json](./416713-prisoners-chess.json) |
 | Prisoners of Ulag'Bol | 333358 | [333358-prisoners-of-ulagbol.json](./333358-prisoners-of-ulagbol.json) |
 | Prisonscape | 61560 | [61560-prisonscape.json](./61560-prisonscape.json) |
 | PrisonSoul: Reunion | 296456 | [296456-prisonsoul-reunion.json](./296456-prisonsoul-reunion.json) |
@@ -7410,6 +7412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prop Game | 256000 | [256000-prop-game.json](./256000-prop-game.json) |
 | Prop Haunt | 330537 | [330537-prop-haunt.json](./330537-prop-haunt.json) |
 | Prop Hunt Portable | 39195 | [39195-prop-hunt-portable.json](./39195-prop-hunt-portable.json) |
+| Prop Revolt | 416793 | [416793-prop-revolt.json](./416793-prop-revolt.json) |
 | Prop Sumo | 355620 | [355620-prop-sumo.json](./355620-prop-sumo.json) |
 | Propa. | 326255 | [326255-propa.json](./326255-propa.json) |
 | Propaganda Llama | 111476 | [111476-propaganda-llama.json](./111476-propaganda-llama.json) |
@@ -8098,6 +8101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Puyo Tetris 2: Launch Edition | 139944 | [139944-puyo-puyo-tetris-2-launch-edition.json](./139944-puyo-puyo-tetris-2-launch-edition.json) |
 | Puyo Puyo!! Quest | 80188 | [80188-puyo-puyo-quest.json](./80188-puyo-puyo-quest.json) |
 | Puyo! Sokoban | 367944 | [367944-puyo-sokoban.json](./367944-puyo-sokoban.json) |
+| Puzigo | 416601 | [416601-puzigo.json](./416601-puzigo.json) |
 | Puzkend | 68930 | [68930-puzkend.json](./68930-puzkend.json) |
 | Puzz 3D: The Orient Express | 70932 | [70932-puzz-3d-the-orient-express.json](./70932-puzz-3d-the-orient-express.json) |
 | Puzz Loop 2 | 39669 | [39669-puzz-loop-2.json](./39669-puzz-loop-2.json) |
@@ -8347,6 +8351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PuzzleSpin: Patterns in Nature | 98572 | [98572-puzzlespin-patterns-in-nature.json](./98572-puzzlespin-patterns-in-nature.json) |
 | PuzzleTales: Svalbard | 120202 | [120202-puzzletales-svalbard.json](./120202-puzzletales-svalbard.json) |
 | Puzzletronics Digital Infinite | 157039 | [157039-puzzletronics-digital-infinite.json](./157039-puzzletronics-digital-infinite.json) |
+| Puzzlez: A Shapez Game | 416764 | [416764-puzzlez-a-shapez-game.json](./416764-puzzlez-a-shapez-game.json) |
 | Puzzline | 224541 | [224541-puzzline.json](./224541-puzzline.json) |
 | Puzzling Peaks EXE | 158690 | [158690-puzzling-peaks-exe.json](./158690-puzzling-peaks-exe.json) |
 | Puzzling Places | 144870 | [144870-puzzling-places.json](./144870-puzzling-places.json) |
