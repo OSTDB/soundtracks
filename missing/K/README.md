@@ -569,6 +569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katharsis Project | 117624 | [117624-katharsis-project.json](./117624-katharsis-project.json) |
 | Katharsis: The second act | 82366 | [82366-katharsis-the-second-act.json](./82366-katharsis-the-second-act.json) |
 | Kathy Rain 2: Soothsayer | 322691 | [322691-kathy-rain-2-soothsayer.json](./322691-kathy-rain-2-soothsayer.json) |
+| Katie | 99612 | [99612-katie.json](./99612-katie.json) |
 | Katin Svět | 223679 | [223679-katin-svet.json](./223679-katin-svet.json) |
 | Katjepult | 182536 | [182536-katjepult.json](./182536-katjepult.json) |
 | Kato | 161225 | [161225-kato.json](./161225-kato.json) |
