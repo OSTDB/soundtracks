@@ -517,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Trains | 124239 | [124239-war-trains.json](./124239-war-trains.json) |
 | War Trigger 3 | 17353 | [17353-war-trigger-3.json](./17353-war-trigger-3.json) |
 | War Truck Simulator | 32438 | [32438-war-truck-simulator.json](./32438-war-truck-simulator.json) |
+| War Untold | 399779 | [399779-war-untold.json](./399779-war-untold.json) |
 | War War | 168655 | [168655-war-war.json](./168655-war-war.json) |
 | War Wind | 929 | [929-war-wind.json](./929-war-wind.json) |
 | War Yards | 139480 | [139480-war-yards.json](./139480-war-yards.json) |
@@ -2255,6 +2256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who's at the Door? | 347265 | [347265-whos-at-the-door.json](./347265-whos-at-the-door.json) |
 | Who's Fat Lou? | 205805 | [205805-whos-fat-lou.json](./205805-whos-fat-lou.json) |
 | Who's in the Box? | 95625 | [95625-whos-in-the-box.json](./95625-whos-in-the-box.json) |
+| Who's My Secret Santa? | 399685 | [399685-whos-my-secret-santa.json](./399685-whos-my-secret-santa.json) |
 | Who's Next? | 293613 | [293613-whos-next.json](./293613-whos-next.json) |
 | Who's the Boss | 297803 | [297803-whos-the-boss.json](./297803-whos-the-boss.json) |
 | Who's the Celeb? | 233071 | [233071-whos-the-celeb.json](./233071-whos-the-celeb.json) |
@@ -3518,6 +3520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Puzzle Quiz | 88436 | [88436-word-puzzle-quiz.json](./88436-word-puzzle-quiz.json) |
 | Word Quest Fantasy | 385067 | [385067-word-quest-fantasy.json](./385067-word-quest-fantasy.json) |
 | Word Quest Space | 378773 | [378773-word-quest-space.json](./378773-word-quest-space.json) |
+| Word Quest: Cyberpunk | 399795 | [399795-word-quest-cyberpunk.json](./399795-word-quest-cyberpunk.json) |
 | Word Quest: Horror | 402932 | [402932-word-quest-horror.json](./402932-word-quest-horror.json) |
 | Word Quiz - Funny | 104686 | [104686-word-quiz-funny.json](./104686-word-quiz-funny.json) |
 | Word Rave | 326249 | [326249-word-rave.json](./326249-word-rave.json) |
