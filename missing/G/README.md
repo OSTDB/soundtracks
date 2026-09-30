@@ -187,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gakuen Sentai Solblast | 322189 | [322189-gakuen-sentai-solblast.json](./322189-gakuen-sentai-solblast.json) |
 | Gakuin Makyo: High School Crisis | 322577 | [322577-gakuin-makyo-high-school-crisis.json](./322577-gakuin-makyo-high-school-crisis.json) |
 | Gal Guardians: Demon Purge | 212571 | [212571-gal-guardians-demon-purge.json](./212571-gal-guardians-demon-purge.json) |
+| Gal Gunvolt Burst | 92038 | [92038-gal-gunvolt-burst.json](./92038-gal-gunvolt-burst.json) |
 | Gal Metal: Encore Pack | 314025 | [314025-gal-metal-encore-pack.json](./314025-gal-metal-encore-pack.json) |
 | Gal, Geek and Summer | 364078 | [364078-gal-geek-and-summer.json](./364078-gal-geek-and-summer.json) |
 | Gal*Gun 2 | 68279 | [68279-gal-gun-2.json](./68279-gal-gun-2.json) |
@@ -3309,6 +3310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gothic Survival | 201260 | [201260-gothic-survival.json](./201260-gothic-survival.json) |
 | Gothic: Playable Teaser | 333956 | [333956-gothic-playable-teaser.json](./333956-gothic-playable-teaser.json) |
 | Gothica: The Devil's Shadow | 217257 | [217257-gothica-the-devils-shadow.json](./217257-gothica-the-devils-shadow.json) |
+| Gothicc Breaker | 93744 | [93744-gothicc-breaker.json](./93744-gothicc-breaker.json) |
 | GothicDM | 143039 | [143039-gothicdm.json](./143039-gothicdm.json) |
 | GothicDM 2 | 229939 | [229939-gothicdm-2.json](./229939-gothicdm-2.json) |
 | Gothwane Towers | 323376 | [323376-gothwane-towers.json](./323376-gothwane-towers.json) |
