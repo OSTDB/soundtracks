@@ -161,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ukraina Battle Tank!: Putin Edition | 207372 | [207372-ukraina-battle-tank-putin-edition.json](./207372-ukraina-battle-tank-putin-edition.json) |
 | Ukraine War 2022 | 287734 | [287734-ukraine-war-2022.json](./287734-ukraine-war-2022.json) |
 | Ukrainian ball in search of gas | 91409 | [91409-ukrainian-ball-in-search-of-gas.json](./91409-ukrainian-ball-in-search-of-gas.json) |
+| Ukrainian Warfare: Gostomel Heroes | 391787 | [391787-ukrainian-warfare-gostomel-heroes.json](./391787-ukrainian-warfare-gostomel-heroes.json) |
 | Uktena | 150596 | [150596-uktena.json](./150596-uktena.json) |
 | Uktena 64 | 392159 | [392159-uktena-64.json](./392159-uktena-64.json) |
 | UldreVoid | 133206 | [133206-uldrevoid.json](./133206-uldrevoid.json) |
@@ -1633,6 +1634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urbek City Builder: Defend the City | 236234 | [236234-urbek-city-builder-defend-the-city.json](./236234-urbek-city-builder-defend-the-city.json) |
 | Urbex | 399156 | [399156-urbex.json](./399156-urbex.json) |
 | URBO | 271173 | [271173-urbo.json](./271173-urbo.json) |
+| Urcicus | 391836 | [391836-urcicus.json](./391836-urcicus.json) |
 | Urgent Message | 343232 | [343232-urgent-message.json](./343232-urgent-message.json) |
 | Uridium 2 | 12808 | [12808-uridium-2.json](./12808-uridium-2.json) |
 | Urinary Samus | 343367 | [343367-urinary-samus.json](./343367-urinary-samus.json) |
