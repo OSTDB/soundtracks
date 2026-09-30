@@ -390,6 +390,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lane Splitter | 233227 | [233227-lane-splitter.json](./233227-lane-splitter.json) |
 | Lanescape | 203570 | [203570-lanescape.json](./203570-lanescape.json) |
 | Laney, This Won’t Make You Happier | 400973 | [400973-laney-this-won-t-make-you-happier.json](./400973-laney-this-won-t-make-you-happier.json) |
+| Lang Ops: Blank Canvas | 403126 | [403126-lang-ops-blank-canvas.json](./403126-lang-ops-blank-canvas.json) |
+| Lang Ops: Corrupted Files | 403125 | [403125-lang-ops-corrupted-files.json](./403125-lang-ops-corrupted-files.json) |
 | Làngjì Sānguó | 150636 | [150636-langji-sanguo.json](./150636-langji-sanguo.json) |
 | Langoth | 29756 | [29756-langoth.json](./29756-langoth.json) |
 | Langrisser I & II | 62775 | [62775-langrisser-i-and-ii.json](./62775-langrisser-i-and-ii.json) |
