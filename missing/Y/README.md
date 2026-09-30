@@ -482,6 +482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Can Talk to People | 184072 | [184072-you-can-talk-to-people.json](./184072-you-can-talk-to-people.json) |
 | You can't do it alone | 177299 | [177299-you-cant-do-it-alone.json](./177299-you-cant-do-it-alone.json) |
 | You Can't Save Her | 320410 | [320410-you-cant-save-her.json](./320410-you-cant-save-her.json) |
+| You Deserve | 32036 | [32036-you-deserve.json](./32036-you-deserve.json) |
 | You Don't Know Jack | 144785 | [144785-you-dont-know-jack.json](./144785-you-dont-know-jack.json) |
 | You Don't Know Jack | 5304 | [5304-you-dont-know-jack.json](./5304-you-dont-know-jack.json) |
 | You Don't Know Jack Movies | 16785 | [16785-you-dont-know-jack-movies.json](./16785-you-dont-know-jack-movies.json) |
