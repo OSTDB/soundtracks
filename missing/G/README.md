@@ -426,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy of Pen and Paper +1 Edition | 205270 | [205270-galaxy-of-pen-and-paper-1-edition.json](./205270-galaxy-of-pen-and-paper-1-edition.json) |
 | Galaxy of Trian | 175182 | [175182-galaxy-of-trian.json](./175182-galaxy-of-trian.json) |
 | Galaxy of Trian Board Game | 85603 | [85603-galaxy-of-trian-board-game.json](./85603-galaxy-of-trian-board-game.json) |
+| Galaxy on Fire 2 | 389026 | [389026-galaxy-on-fire-2.json](./389026-galaxy-on-fire-2.json) |
 | Galaxy on Fire 2 Full HD | 25471 | [25471-galaxy-on-fire-2-full-hd.json](./25471-galaxy-on-fire-2-full-hd.json) |
 | Galaxy on Fire 2: Supernova | 402965 | [402965-galaxy-on-fire-2-supernova.json](./402965-galaxy-on-fire-2-supernova.json) |
 | Galaxy on Fire 3: Manticore | 87183 | [87183-galaxy-on-fire-3-manticore.json](./87183-galaxy-on-fire-3-manticore.json) |
@@ -2394,6 +2395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glow Puzzle by Glosculptor | 94787 | [94787-glow-puzzle-by-glosculptor.json](./94787-glow-puzzle-by-glosculptor.json) |
 | Glow Rings Puzzle | 106975 | [106975-glow-rings-puzzle.json](./106975-glow-rings-puzzle.json) |
 | Glow Stairs | 174358 | [174358-glow-stairs.json](./174358-glow-stairs.json) |
+| Glowfall Vale | 389057 | [389057-glowfall-vale.json](./389057-glowfall-vale.json) |
 | Glowfish | 10366 | [10366-glowfish.json](./10366-glowfish.json) |
 | Glowfish HD | 86697 | [86697-glowfish-hd.json](./86697-glowfish-hd.json) |
 | Glowgrass | 221941 | [221941-glowgrass.json](./221941-glowgrass.json) |
