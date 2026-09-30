@@ -3124,6 +3124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mecho Wars: Desert Ashes | 114174 | [114174-mecho-wars-desert-ashes.json](./114174-mecho-wars-desert-ashes.json) |
 | MechQuest | 78644 | [78644-mechquest.json](./78644-mechquest.json) |
 | MechScape | 94019 | [94019-mechscape.json](./94019-mechscape.json) |
+| Mechsprofit | 96842 | [96842-mechsprofit.json](./96842-mechsprofit.json) |
 | Mechsternmination Force | 115705 | [115705-mechsternmination-force.json](./115705-mechsternmination-force.json) |
 | MechWarrior 2: Ghost Bear's Legacy | 19189 | [19189-mechwarrior-2-ghost-bears-legacy.json](./19189-mechwarrior-2-ghost-bears-legacy.json) |
 | MechWarrior 2: The Titanium Trilogy | 209534 | [209534-mechwarrior-2-the-titanium-trilogy.json](./209534-mechwarrior-2-the-titanium-trilogy.json) |
@@ -5976,6 +5977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miracle Tunes! Game de Tune Up! Da Pun! | 222544 | [222544-miracle-tunes-game-de-tune-up-da-pun.json](./222544-miracle-tunes-game-de-tune-up-da-pun.json) |
 | Miracle Warrior of Mountains and Seas | 153345 | [153345-miracle-warrior-of-mountains-and-seas.json](./153345-miracle-warrior-of-mountains-and-seas.json) |
 | Miracle Warriors: Seal of the Dark Lord | 47526 | [47526-miracle-warriors-seal-of-the-dark-lord.json](./47526-miracle-warriors-seal-of-the-dark-lord.json) |
+| Miraculous Ladybug & Cat Noir | 99322 | [99322-miraculous-ladybug-and-cat-noir.json](./99322-miraculous-ladybug-and-cat-noir.json) |
 | Miraculous: Paris Under Siege | 314019 | [314019-miraculous-paris-under-siege.json](./314019-miraculous-paris-under-siege.json) |
 | Miraculous: Rise of the Sphinx | 216552 | [216552-miraculous-rise-of-the-sphinx.json](./216552-miraculous-rise-of-the-sphinx.json) |
 | Miraculous: Rise of the Sphinx - Ultimate Edition | 223565 | [223565-miraculous-rise-of-the-sphinx-ultimate-edition.json](./223565-miraculous-rise-of-the-sphinx-ultimate-edition.json) |
@@ -6911,6 +6913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkeyshines | 41566 | [41566-monkeyshines.json](./41566-monkeyshines.json) |
 | Monkeytype | 137456 | [137456-monkeytype.json](./137456-monkeytype.json) |
 | MONMUSU | 75970 | [75970-monmusu.json](./75970-monmusu.json) |
+| Monmusu Fight! | 99601 | [99601-monmusu-fight.json](./99601-monmusu-fight.json) |
 | Monmusu Gladiator | 151749 | [151749-monmusu-gladiator.json](./151749-monmusu-gladiator.json) |
 | Mono Grav | 185110 | [185110-mono-grav.json](./185110-mono-grav.json) |
 | Mono Trail | 127317 | [127317-mono-trail.json](./127317-mono-trail.json) |
@@ -9538,6 +9541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Town : Hotel | 104615 | [104615-my-town-hotel.json](./104615-my-town-hotel.json) |
 | My Town : Police | 105920 | [105920-my-town-police.json](./105920-my-town-police.json) |
 | My Town : Street Fun | 104474 | [104474-my-town-street-fun.json](./104474-my-town-street-fun.json) |
+| My Town: ICEE Amusement Park | 99320 | [99320-my-town-icee-amusement-park.json](./99320-my-town-icee-amusement-park.json) |
 | My Town: Museum | 89126 | [89126-my-town-museum.json](./89126-my-town-museum.json) |
 | My Trailer Park Life | 275018 | [275018-my-trailer-park-life.json](./275018-my-trailer-park-life.json) |
 | My Train World | 156663 | [156663-my-train-world.json](./156663-my-train-world.json) |
