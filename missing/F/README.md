@@ -5021,6 +5021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fraga | 397270 | [397270-fraga.json](./397270-fraga.json) |
 | Fragger | 94183 | [94183-fragger.json](./94183-fragger.json) |
 | Fragging Free | 327339 | [327339-fragging-free.json](./327339-fragging-free.json) |
+| Fragile Allegiance | 2619 | [2619-fragile-allegiance.json](./2619-fragile-allegiance.json) |
 | Fragile Ascent | 292010 | [292010-fragile-ascent.json](./292010-fragile-ascent.json) |
 | Fragile Box | 129681 | [129681-fragile-box.json](./129681-fragile-box.json) |
 | Fragile Equilibrium | 113757 | [113757-fragile-equilibrium.json](./113757-fragile-equilibrium.json) |
