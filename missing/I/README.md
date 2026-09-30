@@ -2363,6 +2363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interstellar Orphan | 178634 | [178634-interstellar-orphan.json](./178634-interstellar-orphan.json) |
 | Interstellar Pilot | 207860 | [207860-interstellar-pilot.json](./207860-interstellar-pilot.json) |
 | Interstellar Prime | 74289 | [74289-interstellar-prime.json](./74289-interstellar-prime.json) |
+| Interstellar Rogue | 119457 | [119457-interstellar-rogue.json](./119457-interstellar-rogue.json) |
 | Interstellar Space: Genesis | 110011 | [110011-interstellar-space-genesis.json](./110011-interstellar-space-genesis.json) |
 | Interstellar Space: Genesis - Terrains Pack | 289473 | [289473-interstellar-space-genesis-terrains-pack.json](./289473-interstellar-space-genesis-terrains-pack.json) |
 | Interstellar Travel Package | 223552 | [223552-interstellar-travel-package.json](./223552-interstellar-travel-package.json) |
