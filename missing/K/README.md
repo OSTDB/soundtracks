@@ -584,6 +584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kattobi Tune | 214618 | [214618-kattobi-tune.json](./214618-kattobi-tune.json) |
 | Kattobi! Warabe Ji | 63296 | [63296-kattobi-warabe-ji.json](./63296-kattobi-warabe-ji.json) |
 | Kattonauten | 180844 | [180844-kattonauten.json](./180844-kattonauten.json) |
+| Katy & Bob: Way Back Home | 54157 | [54157-katy-and-bob-way-back-home.json](./54157-katy-and-bob-way-back-home.json) |
 | Katy and Bob: Safari Cafe | 103882 | [103882-katy-and-bob-safari-cafe.json](./103882-katy-and-bob-safari-cafe.json) |
 | Katy Perry Revenge | 66038 | [66038-katy-perry-revenge.json](./66038-katy-perry-revenge.json) |
 | Katy Perry Revenge 2 | 66036 | [66036-katy-perry-revenge-2.json](./66036-katy-perry-revenge-2.json) |
