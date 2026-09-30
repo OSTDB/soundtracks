@@ -1119,6 +1119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ray-Hound | 78702 | [78702-ray-hound.json](./78702-ray-hound.json) |
 | Ray-Thunder | 64909 | [64909-ray-thunder.json](./64909-ray-thunder.json) |
 | Ray: Part 1 | 294266 | [294266-ray-part-1.json](./294266-ray-part-1.json) |
+| Ray's Hotel Adventures | 393005 | [393005-rays-hotel-adventures.json](./393005-rays-hotel-adventures.json) |
 | Ray's the Dead | 19514 | [19514-rays-the-dead.json](./19514-rays-the-dead.json) |
 | Ray'z Arcade Chronology | 207918 | [207918-rayz-arcade-chronology.json](./207918-rayz-arcade-chronology.json) |
 | Ray'z Arcade Chronology: Special Limited Edition | 212331 | [212331-rayz-arcade-chronology-special-limited-edition.json](./212331-rayz-arcade-chronology-special-limited-edition.json) |
@@ -1377,8 +1378,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Bout Fatal Fury Best Collection | 70941 | [70941-real-bout-fatal-fury-best-collection.json](./70941-real-bout-fatal-fury-best-collection.json) |
 | Real Bout Garou Densetsu Special: Dominated Mind | 43874 | [43874-real-bout-garou-densetsu-special-dominated-mind.json](./43874-real-bout-garou-densetsu-special-dominated-mind.json) |
 | Real Boxing 2: Remastered | 324127 | [324127-real-boxing-2-remastered.json](./324127-real-boxing-2-remastered.json) |
+| Real Boxing 2: Remastered - DeathShroud DLC | 393067 | [393067-real-boxing-2-remastered-deathshroud-dlc.json](./393067-real-boxing-2-remastered-deathshroud-dlc.json) |
 | Real Boxing 2: Remastered - DeathShroud Edition | 400203 | [400203-real-boxing-2-remastered-deathshroud-edition.json](./400203-real-boxing-2-remastered-deathshroud-edition.json) |
 | Real Boxing 2: Remastered - Gold Edition | 411837 | [411837-real-boxing-2-remastered-gold-edition.json](./411837-real-boxing-2-remastered-gold-edition.json) |
+| Real Boxing 2: Remastered - Jonathan DLC | 393068 | [393068-real-boxing-2-remastered-jonathan-dlc.json](./393068-real-boxing-2-remastered-jonathan-dlc.json) |
+| Real Boxing 2: Remastered - Maverick DLC | 393069 | [393069-real-boxing-2-remastered-maverick-dlc.json](./393069-real-boxing-2-remastered-maverick-dlc.json) |
 | Real Boxing 2: Remastered - Platinum Edition | 396926 | [396926-real-boxing-2-remastered-platinum-edition.json](./396926-real-boxing-2-remastered-platinum-edition.json) |
 | Real Bus Mechanic Simulator | 102611 | [102611-real-bus-mechanic-simulator.json](./102611-real-bus-mechanic-simulator.json) |
 | Real Cake Maker | 316187 | [316187-real-cake-maker.json](./316187-real-cake-maker.json) |
@@ -2860,6 +2864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Golden Age: Livingstone I Presume | 196052 | [196052-retro-golden-age-livingstone-i-presume.json](./196052-retro-golden-age-livingstone-i-presume.json) |
 | Retro Golf Mania | 408247 | [408247-retro-golf-mania.json](./408247-retro-golf-mania.json) |
 | Retro Granny's Garden | 70921 | [70921-retro-grannys-garden.json](./70921-retro-grannys-garden.json) |
+| Retro Gunner | 393021 | [393021-retro-gunner.json](./393021-retro-gunner.json) |
 | Retro Horror Story | 318213 | [318213-retro-horror-story.json](./318213-retro-horror-story.json) |
 | Retro II | 199082 | [199082-retro-ii.json](./199082-retro-ii.json) |
 | Retro Jam 1 | 271217 | [271217-retro-jam-1.json](./271217-retro-jam-1.json) |
