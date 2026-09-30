@@ -2004,6 +2004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orly's Draw-A-Story | 60506 | [60506-orlys-draw-a-story.json](./60506-orlys-draw-a-story.json) |
 | ORM | 253889 | [253889-orm.json](./253889-orm.json) |
 | Orna | 105733 | [105733-orna.json](./105733-orna.json) |
+| Ororo | 404983 | [404983-ororo.json](./404983-ororo.json) |
 | Orphan Black: The Game | 27724 | [27724-orphan-black-the-game.json](./27724-orphan-black-the-game.json) |
 | Orphan Feast | 306962 | [306962-orphan-feast.json](./306962-orphan-feast.json) |
 | Orphan of the Petal | 113766 | [113766-orphan-of-the-petal.json](./113766-orphan-of-the-petal.json) |
@@ -2643,6 +2644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overfall | 17253 | [17253-overfall.json](./17253-overfall.json) |
 | Overflo Game | 126538 | [126538-overflo-game.json](./126538-overflo-game.json) |
 | Overflower | 316858 | [316858-overflower.json](./316858-overflower.json) |
+| Overgeared Hero | 405029 | [405029-overgeared-hero.json](./405029-overgeared-hero.json) |
 | Overground | 178495 | [178495-overground.json](./178495-overground.json) |
 | Overgrown | 147395 | [147395-overgrown.json](./147395-overgrown.json) |
 | Overgrown | 271181 | [271181-overgrown.json](./271181-overgrown.json) |
