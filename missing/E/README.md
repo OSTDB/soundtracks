@@ -1564,6 +1564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Encounter: The Lost Cards | 354540 | [354540-encounter-the-lost-cards.json](./354540-encounter-the-lost-cards.json) |
 | Encourage | 113142 | [113142-encourage.json](./113142-encourage.json) |
 | Encroacher: Snakes | 413004 | [413004-encroacher-snakes.json](./413004-encroacher-snakes.json) |
+| Encroaching Shadows | 401053 | [401053-encroaching-shadows.json](./401053-encroaching-shadows.json) |
 | Encrypted | 184063 | [184063-encrypted.json](./184063-encrypted.json) |
 | Encrypted_Nightmares | 340946 | [340946-encrypted-nightmares.json](./340946-encrypted-nightmares.json) |
 | Encycle | 149937 | [149937-encycle.json](./149937-encycle.json) |
