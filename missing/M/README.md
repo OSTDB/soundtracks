@@ -793,6 +793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magicka: The Other Side of the Coin | 22642 | [22642-magicka-the-other-side-of-the-coin.json](./22642-magicka-the-other-side-of-the-coin.json) |
 | Magicka: The Watchtower | 50815 | [50815-magicka-the-watchtower.json](./50815-magicka-the-watchtower.json) |
 | Magicka: Wizard's Survival Kit | 50820 | [50820-magicka-wizards-survival-kit.json](./50820-magicka-wizards-survival-kit.json) |
+| Magicka: Wizards of the Square Tablet | 10527 | [10527-magicka-wizards-of-the-square-tablet.json](./10527-magicka-wizards-of-the-square-tablet.json) |
 | Magicland Dizzy | 12182 | [12182-magicland-dizzy.json](./12182-magicland-dizzy.json) |
 | Magiclean | 391321 | [391321-magiclean.json](./391321-magiclean.json) |
 | Magicliment | 261260 | [261260-magicliment.json](./261260-magicliment.json) |
@@ -2491,6 +2492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masters of the Universe II: Super Masters! | 41492 | [41492-masters-of-the-universe-ii-super-masters.json](./41492-masters-of-the-universe-ii-super-masters.json) |
 | Masters of the Universe: The Movie | 30904 | [30904-masters-of-the-universe-the-movie.json](./30904-masters-of-the-universe-the-movie.json) |
 | Masters of the Universe: The Power of He-Man | 5683 | [5683-masters-of-the-universe-the-power-of-he-man.json](./5683-masters-of-the-universe-the-power-of-he-man.json) |
+| Masters of the World: Geopolitical Simulator 3 | 10542 | [10542-masters-of-the-world-geopolitical-simulator-3.json](./10542-masters-of-the-world-geopolitical-simulator-3.json) |
 | Masters Pool HD | 345106 | [345106-masters-pool-hd.json](./345106-masters-pool-hd.json) |
 | Masters: Harukanaru Augusta 3 | 268542 | [268542-masters-harukanaru-augusta-3.json](./268542-masters-harukanaru-augusta-3.json) |
 | Masterspace | 36420 | [36420-masterspace.json](./36420-masterspace.json) |
@@ -3226,6 +3228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Conquest | 305948 | [305948-medieval-conquest.json](./305948-medieval-conquest.json) |
 | Medieval Cop - Adam and Eva | 101751 | [101751-medieval-cop-adam-and-eva.json](./101751-medieval-cop-adam-and-eva.json) |
 | Medieval Defence | 235997 | [235997-medieval-defence.json](./235997-medieval-defence.json) |
+| Medieval Defenders | 10545 | [10545-medieval-defenders.json](./10545-medieval-defenders.json) |
 | Medieval Defenders HD | 175286 | [175286-medieval-defenders-hd.json](./175286-medieval-defenders-hd.json) |
 | Medieval Defenders Saga | 99143 | [99143-medieval-defenders-saga.json](./99143-medieval-defenders-saga.json) |
 | Medieval Delivery | 263519 | [263519-medieval-delivery.json](./263519-medieval-delivery.json) |
@@ -5040,9 +5043,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Murder Club | 312282 | [312282-midnight-murder-club.json](./312282-midnight-murder-club.json) |
 | Midnight Murder Maze | 365255 | [365255-midnight-murder-maze.json](./365255-midnight-murder-maze.json) |
 | Midnight Mutants | 12335 | [12335-midnight-mutants.json](./12335-midnight-mutants.json) |
+| Midnight Mysteries 2: Salem Witch Trials | 10573 | [10573-midnight-mysteries-2-salem-witch-trials.json](./10573-midnight-mysteries-2-salem-witch-trials.json) |
+| Midnight Mysteries 3: Devil on the Mississippi | 10547 | [10547-midnight-mysteries-3-devil-on-the-mississippi.json](./10547-midnight-mysteries-3-devil-on-the-mississippi.json) |
 | Midnight Mysteries: Devil on the Mississippi - Collector's Edition | 89860 | [89860-midnight-mysteries-devil-on-the-mississippi-collectors-edition.json](./89860-midnight-mysteries-devil-on-the-mississippi-collectors-edition.json) |
 | Midnight Mysteries: Ghostwriting | 59874 | [59874-midnight-mysteries-ghostwriting.json](./59874-midnight-mysteries-ghostwriting.json) |
 | Midnight Mysteries: Salem Witch Trials - Collector's Edition | 94888 | [94888-midnight-mysteries-salem-witch-trials-collectors-edition.json](./94888-midnight-mysteries-salem-witch-trials-collectors-edition.json) |
+| Midnight Mysteries: The Edgar Allan Poe Conspiracy | 10549 | [10549-midnight-mysteries-the-edgar-allan-poe-conspiracy.json](./10549-midnight-mysteries-the-edgar-allan-poe-conspiracy.json) |
 | Midnight Mysteries: Witches of Abraham - Collector's Edition | 36150 | [36150-midnight-mysteries-witches-of-abraham-collectors-edition.json](./36150-midnight-mysteries-witches-of-abraham-collectors-edition.json) |
 | Midnight Ohota | 156551 | [156551-midnight-ohota.json](./156551-midnight-ohota.json) |
 | Midnight on the Milky Way | 161175 | [161175-midnight-on-the-milky-way.json](./161175-midnight-on-the-milky-way.json) |
@@ -7970,6 +7976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Racer | 10560 | [10560-moto-racer.json](./10560-moto-racer.json) |
 | Moto Racer 2044 Game Simulator: Money Magnet Bundle | 328988 | [328988-moto-racer-2044-game-simulator-money-magnet-bundle.json](./328988-moto-racer-2044-game-simulator-money-magnet-bundle.json) |
 | Moto Racer 4: Deluxe Edition | 25019 | [25019-moto-racer-4-deluxe-edition.json](./25019-moto-racer-4-deluxe-edition.json) |
+| Moto Racer DS | 10564 | [10564-moto-racer-ds.json](./10564-moto-racer-ds.json) |
 | Moto Racing 3D | 87081 | [87081-moto-racing-3d.json](./87081-moto-racing-3d.json) |
 | Moto Rally Racing VR | 288785 | [288785-moto-rally-racing-vr.json](./288785-moto-rally-racing-vr.json) |
 | Moto Rider Go: Highway Traffic | 104640 | [104640-moto-rider-go-highway-traffic.json](./104640-moto-rider-go-highway-traffic.json) |
@@ -8056,6 +8063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motor Storm | 247039 | [247039-motor-storm.json](./247039-motor-storm.json) |
 | Motor Toon Grand Prix | 43887 | [43887-motor-toon-grand-prix.json](./43887-motor-toon-grand-prix.json) |
 | Motor Wars | 137592 | [137592-motor-wars.json](./137592-motor-wars.json) |
+| Motorama: Classic Racing | 10566 | [10566-motorama-classic-racing.json](./10566-motorama-classic-racing.json) |
 | Motorball | 137599 | [137599-motorball.json](./137599-motorball.json) |
 | Motorbike | 35923 | [35923-motorbike.json](./35923-motorbike.json) |
 | Motorbike Clicker | 337625 | [337625-motorbike-clicker.json](./337625-motorbike-clicker.json) |
