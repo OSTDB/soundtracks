@@ -637,6 +637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velocrash | 414618 | [414618-velocrash.json](./414618-velocrash.json) |
 | Velone | 198247 | [198247-velone.json](./198247-velone.json) |
 | Veloren | 121445 | [121445-veloren.json](./121445-veloren.json) |
+| Velorys | 419856 | [419856-velorys.json](./419856-velorys.json) |
 | Velucity | 155656 | [155656-velucity.json](./155656-velucity.json) |
 | Velucity: O2Jam Pack 1 | 170381 | [170381-velucity-o2jam-pack-1.json](./170381-velucity-o2jam-pack-1.json) |
 | Velvet Dark | 130336 | [130336-velvet-dark.json](./130336-velvet-dark.json) |
@@ -856,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VGM Quiz | 219270 | [219270-vgm-quiz.json](./219270-vgm-quiz.json) |
 | VHHS: Backrooms | 282017 | [282017-vhhs-backrooms.json](./282017-vhhs-backrooms.json) |
 | VHS | 309466 | [309466-vhs.json](./309466-vhs.json) |
+| VHS Nights: The Tidy Up Shift | 419889 | [419889-vhs-nights-the-tidy-up-shift.json](./419889-vhs-nights-the-tidy-up-shift.json) |
 | VHS vs. Betamax | 177572 | [177572-vhs-vs-betamax.json](./177572-vhs-vs-betamax.json) |
 | VHS World '89 | 410912 | [410912-vhs-world-89.json](./410912-vhs-world-89.json) |
 | VHScape | 316759 | [316759-vhscape.json](./316759-vhscape.json) |
@@ -1337,6 +1339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viscera Cleanup Detail: House of Horror | 167764 | [167764-viscera-cleanup-detail-house-of-horror.json](./167764-viscera-cleanup-detail-house-of-horror.json) |
 | Viscera Cleanup Detail: Shadow Warrior | 16718 | [16718-viscera-cleanup-detail-shadow-warrior.json](./16718-viscera-cleanup-detail-shadow-warrior.json) |
 | Viscera Cleanup Detail: The Vulcan Affair | 167765 | [167765-viscera-cleanup-detail-the-vulcan-affair.json](./167765-viscera-cleanup-detail-the-vulcan-affair.json) |
+| Visceral | 419860 | [419860-visceral.json](./419860-visceral.json) |
 | Visceral Cubes | 96462 | [96462-visceral-cubes.json](./96462-visceral-cubes.json) |
 | Visceratum | 132696 | [132696-visceratum.json](./132696-visceratum.json) |
 | Viscous Realms | 269103 | [269103-viscous-realms.json](./269103-viscous-realms.json) |
