@@ -392,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taishou Mebiusline Vitable | 141896 | [141896-taishou-mebiusline-vitable.json](./141896-taishou-mebiusline-vitable.json) |
 | Taito Arcade 3 | 393613 | [393613-taito-arcade-3.json](./393613-taito-arcade-3.json) |
 | Taito Chase H.Q. | 48629 | [48629-taito-chase-h-q.json](./48629-taito-chase-h-q.json) |
+| Taito Legends | 6186 | [6186-taito-legends.json](./6186-taito-legends.json) |
 | Taito Legends 2 | 267186 | [267186-taito-legends-2.json](./267186-taito-legends-2.json) |
 | Taito Memories | 69366 | [69366-taito-memories.json](./69366-taito-memories.json) |
 | Taito Memories Gekan | 72792 | [72792-taito-memories-gekan.json](./72792-taito-memories-gekan.json) |
@@ -882,6 +883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tangledeep: Legend of Shara | 117143 | [117143-tangledeep-legend-of-shara.json](./117143-tangledeep-legend-of-shara.json) |
 | Tanglewood | 104602 | [104602-tanglewood.json](./104602-tanglewood.json) |
 | Tango | 321121 | [321121-tango.json](./321121-tango.json) |
+| Tango Fiesta | 9459 | [9459-tango-fiesta.json](./9459-tango-fiesta.json) |
 | Tangol | 125945 | [125945-tangol.json](./125945-tangol.json) |
 | Tangoo & Ullashong | 374087 | [374087-tangoo-and-ullashong.json](./374087-tangoo-and-ullashong.json) |
 | Tangram | 208373 | [208373-tangram.json](./208373-tangram.json) |
@@ -966,6 +968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Time | 177424 | [177424-tank-time.json](./177424-tank-time.json) |
 | Tank Trouble 3D | 338701 | [338701-tank-trouble-3d.json](./338701-tank-trouble-3d.json) |
 | Tank Tyranny | 289346 | [289346-tank-tyranny.json](./289346-tank-tyranny.json) |
+| Tank Universal | 9455 | [9455-tank-universal.json](./9455-tank-universal.json) |
 | Tank Universal: Challenger Eight | 72708 | [72708-tank-universal-challenger-eight.json](./72708-tank-universal-challenger-eight.json) |
 | Tank vs. Tank GOTY Edition | 395684 | [395684-tank-vs-tank-goty-edition.json](./395684-tank-vs-tank-goty-edition.json) |
 | Tank vs. Tank: Deluxe Edition | 332507 | [332507-tank-vs-tank-deluxe-edition.json](./332507-tank-vs-tank-deluxe-edition.json) |
@@ -1430,6 +1433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Guardian | 109923 | [109923-team-guardian.json](./109923-team-guardian.json) |
 | Team Hero Coder | 416829 | [416829-team-hero-coder.json](./416829-team-hero-coder.json) |
 | Team Hogus: GHAMEMFAIFTH OTHIYLTIM | 185659 | [185659-team-hogus-ghamemfaifth-othiyltim.json](./185659-team-hogus-ghamemfaifth-othiyltim.json) |
+| Team Indie | 9491 | [9491-team-indie.json](./9491-team-indie.json) |
 | Team Innocent: The Point of No Return | 65738 | [65738-team-innocent-the-point-of-no-return.json](./65738-team-innocent-the-point-of-no-return.json) |
 | Team Kart Fortress | 371246 | [371246-team-kart-fortress.json](./371246-team-kart-fortress.json) |
 | Team Kirby Clash Deluxe | 28126 | [28126-team-kirby-clash-deluxe.json](./28126-team-kirby-clash-deluxe.json) |
@@ -2222,6 +2226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Drive II: The Collection | 140039 | [140039-test-drive-ii-the-collection.json](./140039-test-drive-ii-the-collection.json) |
 | Test Drive Unlimited | 7215 | [7215-test-drive-unlimited.json](./7215-test-drive-unlimited.json) |
 | Test Drive Unlimited Solar Crown | 135671 | [135671-test-drive-unlimited-solar-crown.json](./135671-test-drive-unlimited-solar-crown.json) |
+| Test Drive: Eve of Destruction | 6197 | [6197-test-drive-eve-of-destruction.json](./6197-test-drive-eve-of-destruction.json) |
 | Test Drive: Off-Road 2 | 45086 | [45086-test-drive-off-road-2.json](./45086-test-drive-off-road-2.json) |
 | Test Drive: Off-Road 3 | 49905 | [49905-test-drive-off-road-3.json](./49905-test-drive-off-road-3.json) |
 | Test Drive: Offroad | 206222 | [206222-test-drive-offroad.json](./206222-test-drive-offroad.json) |
@@ -3834,6 +3839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Demons Down Under | 314893 | [314893-the-demons-down-under.json](./314893-the-demons-down-under.json) |
 | The Demons Told Me to Make This Game | 342666 | [342666-the-demons-told-me-to-make-this-game.json](./342666-the-demons-told-me-to-make-this-game.json) |
 | The Den of Worms | 159851 | [159851-the-den-of-worms.json](./159851-the-den-of-worms.json) |
+| The Denpa Men: They Came By Wave | 9662 | [9662-the-denpa-men-they-came-by-wave.json](./9662-the-denpa-men-they-came-by-wave.json) |
 | The Depraved Vampire Slut | 152207 | [152207-the-depraved-vampire-slut.json](./152207-the-depraved-vampire-slut.json) |
 | The Depths of Depravity | 345133 | [345133-the-depths-of-depravity.json](./345133-the-depths-of-depravity.json) |
 | The Depths: Prehistoric Survival | 166724 | [166724-the-depths-prehistoric-survival.json](./166724-the-depths-prehistoric-survival.json) |
@@ -7275,6 +7281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sacred Acorn | 141175 | [141175-the-sacred-acorn.json](./141175-the-sacred-acorn.json) |
 | The Sacred Hero | 26872 | [26872-the-sacred-hero.json](./26872-the-sacred-hero.json) |
 | The Sacred Mirror of Kofun | 70081 | [70081-the-sacred-mirror-of-kofun.json](./70081-the-sacred-mirror-of-kofun.json) |
+| The Sacred Tears True | 9483 | [9483-the-sacred-tears-true.json](./9483-the-sacred-tears-true.json) |
 | The Sacrifice | 89210 | [89210-the-sacrifice.json](./89210-the-sacrifice.json) |
 | The Sacrificial Girl of the Fantasy 3 Kingdoms: Shu | 130206 | [130206-the-sacrificial-girl-of-the-fantasy-3-kingdoms-shu.json](./130206-the-sacrificial-girl-of-the-fantasy-3-kingdoms-shu.json) |
 | The Saddle Club | 268211 | [268211-the-saddle-club.json](./268211-the-saddle-club.json) |
@@ -11962,6 +11969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toril | 228700 | [228700-toril.json](./228700-toril.json) |
 | Torima Headbang | 402920 | [402920-torima-headbang.json](./402920-torima-headbang.json) |
 | Torin's Passage | 2223 | [2223-torins-passage.json](./2223-torins-passage.json) |
+| Torino 2006 | 6205 | [6205-torino-2006.json](./6205-torino-2006.json) |
 | Torins Towers: Rise of Heroes | 167255 | [167255-torins-towers-rise-of-heroes.json](./167255-torins-towers-rise-of-heroes.json) |
 | Toripon | 116971 | [116971-toripon.json](./116971-toripon.json) |
 | Torment: Tides of Numenera | 2004 | [2004-torment-tides-of-numenera.json](./2004-torment-tides-of-numenera.json) |
@@ -12724,6 +12732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Shop | 21299 | [21299-toy-shop.json](./21299-toy-shop.json) |
 | Toy Smash Kaboom! | 347357 | [347357-toy-smash-kaboom.json](./347357-toy-smash-kaboom.json) |
 | Toy Soldiers | 9450 | [9450-toy-soldiers.json](./9450-toy-soldiers.json) |
+| Toy Soldiers: Cold War | 9485 | [9485-toy-soldiers-cold-war.json](./9485-toy-soldiers-cold-war.json) |
 | Toy Soldiers: War Chest | 15187 | [15187-toy-soldiers-war-chest.json](./15187-toy-soldiers-war-chest.json) |
 | Toy Soldiers: War Chest - Assassin’s Creed Pack | 410330 | [410330-toy-soldiers-war-chest-assassin-s-creed-pack.json](./410330-toy-soldiers-war-chest-assassin-s-creed-pack.json) |
 | Toy Soldiers: War Chest - Cobra Pack | 410323 | [410323-toy-soldiers-war-chest-cobra-pack.json](./410323-toy-soldiers-war-chest-cobra-pack.json) |
@@ -13739,6 +13748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapped 2 | 84296 | [84296-trapped-2.json](./84296-trapped-2.json) |
 | Trapped 2: Pirates | 311648 | [311648-trapped-2-pirates.json](./311648-trapped-2-pirates.json) |
 | Trapped Beast | 339106 | [339106-trapped-beast.json](./339106-trapped-beast.json) |
+| Trapped Dead | 9443 | [9443-trapped-dead.json](./9443-trapped-dead.json) |
 | Trapped Dead: Lockdown | 17508 | [17508-trapped-dead-lockdown.json](./17508-trapped-dead-lockdown.json) |
 | Trapped Girl X | 255677 | [255677-trapped-girl-x.json](./255677-trapped-girl-x.json) |
 | Trapped in a Cage | 267067 | [267067-trapped-in-a-cage.json](./267067-trapped-in-a-cage.json) |
