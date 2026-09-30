@@ -1341,6 +1341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure of Egypt | 227853 | [227853-adventure-of-egypt.json](./227853-adventure-of-egypt.json) |
 | Adventure of Elysia | 219702 | [219702-adventure-of-elysia.json](./219702-adventure-of-elysia.json) |
 | Adventure of Great Wolf | 118813 | [118813-adventure-of-great-wolf.json](./118813-adventure-of-great-wolf.json) |
+| Adventure of Kanjiro Chapter 1 | 410401 | [410401-adventure-of-kanjiro-chapter-1.json](./410401-adventure-of-kanjiro-chapter-1.json) |
 | Adventure of Mak | 184910 | [184910-adventure-of-mak.json](./184910-adventure-of-mak.json) |
 | Adventure of Realms | 379480 | [379480-adventure-of-realms.json](./379480-adventure-of-realms.json) |
 | Adventure of Terapets: The Crazy Scientist | 133924 | [133924-adventure-of-terapets-the-crazy-scientist.json](./133924-adventure-of-terapets-the-crazy-scientist.json) |
@@ -4896,6 +4897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Rebels | 275576 | [275576-apex-rebels.json](./275576-apex-rebels.json) |
 | Aphelion | 171599 | [171599-aphelion.json](./171599-aphelion.json) |
 | Aphelion | 348192 | [348192-aphelion.json](./348192-aphelion.json) |
+| Aphelion | 410392 | [410392-aphelion.json](./410392-aphelion.json) |
 | Aphelion Episode One: Graves of Earth | 66398 | [66398-aphelion-episode-one-graves-of-earth.json](./66398-aphelion-episode-one-graves-of-earth.json) |
 | Aphelion Episode Two: Wings of Omega | 66165 | [66165-aphelion-episode-two-wings-of-omega.json](./66165-aphelion-episode-two-wings-of-omega.json) |
 | Aphrodite Evolve Weapons Survivor: Greek Gods Versus Heaven | 404261 | [404261-aphrodite-evolve-weapons-survivor-greek-gods-versus-heaven.json](./404261-aphrodite-evolve-weapons-survivor-greek-gods-versus-heaven.json) |
