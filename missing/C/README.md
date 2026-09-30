@@ -3750,6 +3750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of Witches & Warlocks | 52738 | [52738-chronicles-of-witches-and-warlocks.json](./52738-chronicles-of-witches-and-warlocks.json) |
 | Chronicon | 35130 | [35130-chronicon.json](./35130-chronicon.json) |
 | Chronicon Complete | 242676 | [242676-chronicon-complete.json](./242676-chronicon-complete.json) |
+| Chronime Puzzle: Dogs | 418572 | [418572-chronime-puzzle-dogs.json](./418572-chronime-puzzle-dogs.json) |
 | Chronique des Silencieux | 218671 | [218671-chronique-des-silencieux.json](./218671-chronique-des-silencieux.json) |
 | Chroniric | 107251 | [107251-chroniric.json](./107251-chroniric.json) |
 | Chrono | 112964 | [112964-chrono.json](./112964-chrono.json) |
@@ -3797,6 +3798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronos Twins | 85540 | [85540-chronos-twins.json](./85540-chronos-twins.json) |
 | Chronos: A Tapestry of Time | 69554 | [69554-chronos-a-tapestry-of-time.json](./69554-chronos-a-tapestry-of-time.json) |
 | Chronos: Dawn of Time | 234756 | [234756-chronos-dawn-of-time.json](./234756-chronos-dawn-of-time.json) |
+| Chronos: Trap in Time | 418530 | [418530-chronos-trap-in-time.json](./418530-chronos-trap-in-time.json) |
 | Chronoshot | 138736 | [138736-chronoshot.json](./138736-chronoshot.json) |
 | Chronostation | 130239 | [130239-chronostation.json](./130239-chronostation.json) |
 | Chronostrike | 332409 | [332409-chronostrike.json](./332409-chronostrike.json) |
@@ -6062,6 +6064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connectify | 190196 | [190196-connectify.json](./190196-connectify.json) |
 | Connection | 100859 | [100859-connection.json](./100859-connection.json) |
 | Connection | 322574 | [322574-connection.json](./322574-connection.json) |
+| Connection Crawler | 418586 | [418586-connection-crawler.json](./418586-connection-crawler.json) |
 | Connection Error | 234022 | [234022-connection-error.json](./234022-connection-error.json) |
 | Connection Haunted | 130152 | [130152-connection-haunted.json](./130152-connection-haunted.json) |
 | Connection reHaunted | 146822 | [146822-connection-rehaunted.json](./146822-connection-rehaunted.json) |
@@ -6314,6 +6317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Control Craft 2 | 33560 | [33560-control-craft-2.json](./33560-control-craft-2.json) |
 | Control Freak | 111233 | [111233-control-freak.json](./111233-control-freak.json) |
 | Control Resonant | 225582 | [225582-control-resonant.json](./225582-control-resonant.json) |
+| Control Resonant: Digital Deluxe Edition | 418570 | [418570-control-resonant-digital-deluxe-edition.json](./418570-control-resonant-digital-deluxe-edition.json) |
 | Control Room Alpha | 207816 | [207816-control-room-alpha.json](./207816-control-room-alpha.json) |
 | Control Season Pass | 122314 | [122314-control-season-pass.json](./122314-control-season-pass.json) |
 | Control the Ball | 312198 | [312198-control-the-ball.json](./312198-control-the-ball.json) |
@@ -7233,6 +7237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cranes | 99642 | [99642-cranes.json](./99642-cranes.json) |
 | Crank | 331113 | [331113-crank.json](./331113-crank.json) |
 | Crank & Watch: Octopus | 267964 | [267964-crank-and-watch-octopus.json](./267964-crank-and-watch-octopus.json) |
+| Crank Chaos | 418588 | [418588-crank-chaos.json](./418588-crank-chaos.json) |
 | Crank It Up! | 305911 | [305911-crank-it-up.json](./305911-crank-it-up.json) |
 | Crank Racing! | 413731 | [413731-crank-racing.json](./413731-crank-racing.json) |
 | Crank Sudoku | 383965 | [383965-crank-sudoku.json](./383965-crank-sudoku.json) |
@@ -7250,6 +7255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cranky Bird | 207285 | [207285-cranky-bird.json](./207285-cranky-bird.json) |
 | Cranky Cat | 16514 | [16514-cranky-cat.json](./16514-cranky-cat.json) |
 | Cranky Food Friends | 230209 | [230209-cranky-food-friends.json](./230209-cranky-food-friends.json) |
+| Cranky Jump | 418591 | [418591-cranky-jump.json](./418591-cranky-jump.json) |
 | Crap Game, Don’t Play | 365075 | [365075-crap-game-don-t-play.json](./365075-crap-game-don-t-play.json) |
 | Crapette | 332253 | [332253-crapette.json](./332253-crapette.json) |
 | Crapman | 70424 | [70424-crapman.json](./70424-crapman.json) |
@@ -7620,6 +7626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creative Runner | 142870 | [142870-creative-runner.json](./142870-creative-runner.json) |
 | Creativerse | 17112 | [17112-creativerse.json](./17112-creativerse.json) |
 | Creator of Another World | 294167 | [294167-creator-of-another-world.json](./294167-creator-of-another-world.json) |
+| Creator Shelter: DLC Cuisine | 418504 | [418504-creator-shelter-dlc-cuisine.json](./418504-creator-shelter-dlc-cuisine.json) |
 | Creator's Asteroid | 191191 | [191191-creators-asteroid.json](./191191-creators-asteroid.json) |
 | Creators | 284985 | [284985-creators.json](./284985-creators.json) |
 | Creatorverse | 64497 | [64497-creatorverse.json](./64497-creatorverse.json) |
@@ -8657,6 +8664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubic Defender | 283846 | [283846-cubic-defender.json](./283846-cubic-defender.json) |
 | Cubic Figures | 215112 | [215112-cubic-figures.json](./215112-cubic-figures.json) |
 | Cubic Figures 2 | 249488 | [249488-cubic-figures-2.json](./249488-cubic-figures-2.json) |
+| Cubic Haikus - hikikomori | 418533 | [418533-cubic-haikus-hikikomori.json](./418533-cubic-haikus-hikikomori.json) |
 | Cubic Juice | 158221 | [158221-cubic-juice.json](./158221-cubic-juice.json) |
 | Cubic Light | 229164 | [229164-cubic-light.json](./229164-cubic-light.json) |
 | Cubic Ninja | 6754 | [6754-cubic-ninja.json](./6754-cubic-ninja.json) |
