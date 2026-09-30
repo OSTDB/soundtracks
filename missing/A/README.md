@@ -2248,6 +2248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aiza: New Generation | 228339 | [228339-aiza-new-generation.json](./228339-aiza-new-generation.json) |
 | Ajax | 39324 | [39324-ajax.json](./39324-ajax.json) |
 | AJAX Club Football 2005 | 47305 | [47305-ajax-club-football-2005.json](./47305-ajax-club-football-2005.json) |
+| Ajedrez una tarde de Otoño | 391292 | [391292-ajedrez-una-tarde-de-otono.json](./391292-ajedrez-una-tarde-de-otono.json) |
 | Ajisai Shiyou ka! | 394134 | [394134-ajisai-shiyou-ka.json](./394134-ajisai-shiyou-ka.json) |
 | Ajnabee: The Unknown | 389975 | [389975-ajnabee-the-unknown.json](./389975-ajnabee-the-unknown.json) |
 | AK-xolotl: Wars | 336705 | [336705-ak-xolotl-wars.json](./336705-ak-xolotl-wars.json) |
@@ -2836,6 +2837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AlienAfterlife | 114220 | [114220-alienafterlife.json](./114220-alienafterlife.json) |
 | Alienation | 7600 | [7600-alienation.json](./7600-alienation.json) |
 | Alienator | 332245 | [332245-alienator.json](./332245-alienator.json) |
+| Alienbusters | 391269 | [391269-alienbusters.json](./391269-alienbusters.json) |
 | Aliencity | 383636 | [383636-aliencity.json](./383636-aliencity.json) |
 | Alienoid | 57685 | [57685-alienoid.json](./57685-alienoid.json) |
 | Aliens | 13680 | [13680-aliens.json](./13680-aliens.json) |
@@ -3409,6 +3411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amateur Surgeon 2 | 182501 | [182501-amateur-surgeon-2.json](./182501-amateur-surgeon-2.json) |
 | Amateur Surgeon 4: Re-Generations | 57116 | [57116-amateur-surgeon-4-re-generations.json](./57116-amateur-surgeon-4-re-generations.json) |
 | Amateur Surgeon Hospital | 304207 | [304207-amateur-surgeon-hospital.json](./304207-amateur-surgeon-hospital.json) |
+| Amato | 391273 | [391273-amato.json](./391273-amato.json) |
 | Amatsu Misora ni! Kumo no Hatate ni | 62263 | [62263-amatsu-misora-ni-kumo-no-hatate-ni.json](./62263-amatsu-misora-ni-kumo-no-hatate-ni.json) |
 | Amatsu Sora ni Saku | 309672 | [309672-amatsu-sora-ni-saku.json](./309672-amatsu-sora-ni-saku.json) |
 | Amaya's Lost Soul | 213982 | [213982-amayas-lost-soul.json](./213982-amayas-lost-soul.json) |
@@ -3988,6 +3991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andria | 339909 | [339909-andria.json](./339909-andria.json) |
 | Andrii's Horror | 52580 | [52580-andriis-horror.json](./52580-andriis-horror.json) |
 | Andro Dunos | 39622 | [39622-andro-dunos.json](./39622-andro-dunos.json) |
+| Android | 391270 | [391270-android.json](./391270-android.json) |
 | Android Amazones | 120987 | [120987-android-amazones.json](./120987-android-amazones.json) |
 | Android Assault: The Revenge of Bari-Arm | 5358 | [5358-android-assault-the-revenge-of-bari-arm.json](./5358-android-assault-the-revenge-of-bari-arm.json) |
 | Android Attack | 13691 | [13691-android-attack.json](./13691-android-attack.json) |
@@ -4099,6 +4103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AngerForce: Reloaded for Nintendo Switch | 147948 | [147948-angerforce-reloaded-for-nintendo-switch.json](./147948-angerforce-reloaded-for-nintendo-switch.json) |
 | AngerOfStick | 175433 | [175433-angerofstick.json](./175433-angerofstick.json) |
 | Angevillia | 197322 | [197322-angevillia.json](./197322-angevillia.json) |
+| Angie Magica | 391291 | [391291-angie-magica.json](./391291-angie-magica.json) |
 | Angira Online | 235715 | [235715-angira-online.json](./235715-angira-online.json) |
 | Angkor: Beginnings | 209699 | [209699-angkor-beginnings.json](./209699-angkor-beginnings.json) |
 | Angkot d Game | 214753 | [214753-angkot-d-game.json](./214753-angkot-d-game.json) |
@@ -4782,6 +4787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antique Restorer | 236801 | [236801-antique-restorer.json](./236801-antique-restorer.json) |
 | Antique Shop | 65011 | [65011-antique-shop.json](./65011-antique-shop.json) |
 | Antiquia Lost | 39009 | [39009-antiquia-lost.json](./39009-antiquia-lost.json) |
+| Antiquity Jones | 391280 | [391280-antiquity-jones.json](./391280-antiquity-jones.json) |
 | Antireal | 272833 | [272833-antireal.json](./272833-antireal.json) |
 | Antiriad | 45331 | [45331-antiriad.json](./45331-antiriad.json) |
 | Antirocketh | 104149 | [104149-antirocketh.json](./104149-antirocketh.json) |
@@ -5649,6 +5655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archeland | 206221 | [206221-archeland.json](./206221-archeland.json) |
 | Archen Broom Game | 402366 | [402366-archen-broom-game.json](./402366-archen-broom-game.json) |
 | Archenemy: Lunafall | 216472 | [216472-archenemy-lunafall.json](./216472-archenemy-lunafall.json) |
+| Archeo | 391282 | [391282-archeo.json](./391282-archeo.json) |
 | Archeologist Simulator | 148988 | [148988-archeologist-simulator.json](./148988-archeologist-simulator.json) |
 | Archeon CD-i Quiz | 217996 | [217996-archeon-cd-i-quiz.json](./217996-archeon-cd-i-quiz.json) |
 | Archer boy | 158076 | [158076-archer-boy.json](./158076-archer-boy.json) |
@@ -6512,6 +6519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asher Descent | 405612 | [405612-asher-descent.json](./405612-asher-descent.json) |
 | Asheron's Call: Dark Majesty | 23735 | [23735-asherons-call-dark-majesty.json](./23735-asherons-call-dark-majesty.json) |
 | Asheron's Call: Throne of Destiny | 23736 | [23736-asherons-call-throne-of-destiny.json](./23736-asherons-call-throne-of-destiny.json) |
+| Ashes | 391295 | [391295-ashes.json](./391295-ashes.json) |
 | Ashes 2 | 119774 | [119774-ashes-2.json](./119774-ashes-2.json) |
 | Ashes Cricket | 68282 | [68282-ashes-cricket.json](./68282-ashes-cricket.json) |
 | Ashes Nomad | 408126 | [408126-ashes-nomad.json](./408126-ashes-nomad.json) |
@@ -6580,6 +6588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asian Mahjong | 164270 | [164270-asian-mahjong.json](./164270-asian-mahjong.json) |
 | Asian Truck Simulator | 214165 | [214165-asian-truck-simulator.json](./214165-asian-truck-simulator.json) |
 | Asicaso | 134558 | [134558-asicaso.json](./134558-asicaso.json) |
+| Asistent detektiva Zbyška | 391284 | [391284-asistent-detektiva-zbyska.json](./391284-asistent-detektiva-zbyska.json) |
 | Ask Angela | 65019 | [65019-ask-angela.json](./65019-ask-angela.json) |
 | Ask Gear Re:Boost | 325447 | [325447-ask-gear-re-boost.json](./325447-ask-gear-re-boost.json) |
 | Ask her out | 287096 | [287096-ask-her-out.json](./287096-ask-her-out.json) |
@@ -6618,6 +6627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asphalt Legends Unite: Supercharged Edition | 363017 | [363017-asphalt-legends-unite-supercharged-edition.json](./363017-asphalt-legends-unite-supercharged-edition.json) |
 | Asphalt Legends Unite: Triple Decal Pack | 402354 | [402354-asphalt-legends-unite-triple-decal-pack.json](./402354-asphalt-legends-unite-triple-decal-pack.json) |
 | Asphalt Paver | 401106 | [401106-asphalt-paver.json](./401106-asphalt-paver.json) |
+| Asphalt Racing Bundle Hypercar & Speedway | 391257 | [391257-asphalt-racing-bundle-hypercar-and-speedway.json](./391257-asphalt-racing-bundle-hypercar-and-speedway.json) |
 | Asphalt Racing Bundle Speedway & Grand Prix | 389080 | [389080-asphalt-racing-bundle-speedway-and-grand-prix.json](./389080-asphalt-racing-bundle-speedway-and-grand-prix.json) |
 | Asphalt Street Storm Racing | 55883 | [55883-asphalt-street-storm-racing.json](./55883-asphalt-street-storm-racing.json) |
 | Asphalt Xtreme: Offroad Racing | 38940 | [38940-asphalt-xtreme-offroad-racing.json](./38940-asphalt-xtreme-offroad-racing.json) |
