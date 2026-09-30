@@ -594,6 +594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Market World | 415129 | [415129-magic-market-world.json](./415129-magic-market-world.json) |
 | Magic Math | 299266 | [299266-magic-math.json](./299266-magic-math.json) |
 | Magic Memory Match Free | 232049 | [232049-magic-memory-match-free.json](./232049-magic-memory-match-free.json) |
+| Magic Mermaid | 89201 | [89201-magic-mermaid.json](./89201-magic-mermaid.json) |
 | Magic Micro Mission | 73532 | [73532-magic-micro-mission.json](./73532-magic-micro-mission.json) |
 | Magic Mirror Hall | 182985 | [182985-magic-mirror-hall.json](./182985-magic-mirror-hall.json) |
 | Magic MixUp | 58200 | [58200-magic-mixup.json](./58200-magic-mixup.json) |
@@ -922,11 +923,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Kuru Jidai: AV Gal Seifukuhen | 254452 | [254452-mahjong-kuru-jidai-av-gal-seifukuhen.json](./254452-mahjong-kuru-jidai-av-gal-seifukuhen.json) |
 | Mahjong Lemon Angel | 42004 | [42004-mahjong-lemon-angel.json](./42004-mahjong-lemon-angel.json) |
 | Mahjong Lonely Island: Majong Star Tower Deluxe | 232387 | [232387-mahjong-lonely-island-majong-star-tower-deluxe.json](./232387-mahjong-lonely-island-majong-star-tower-deluxe.json) |
+| Mahjong Magic Journey | 90763 | [90763-mahjong-magic-journey.json](./90763-mahjong-magic-journey.json) |
 | Mahjong Masters Club | 385090 | [385090-mahjong-masters-club.json](./385090-mahjong-masters-club.json) |
 | Mahjong Masters: Temple of the Ten Gods | 43539 | [43539-mahjong-masters-temple-of-the-ten-gods.json](./43539-mahjong-masters-temple-of-the-ten-gods.json) |
 | Mahjong Match Puzzle | 99420 | [99420-mahjong-match-puzzle.json](./99420-mahjong-match-puzzle.json) |
 | Mahjong on the Beach | 305195 | [305195-mahjong-on-the-beach.json](./305195-mahjong-on-the-beach.json) |
 | Mahjong Ou Densetsu | 91932 | [91932-mahjong-ou-densetsu.json](./91932-mahjong-ou-densetsu.json) |
+| Mahjong Palace | 89230 | [89230-mahjong-palace.json](./89230-mahjong-palace.json) |
 | Mahjong Party Pack | 268203 | [268203-mahjong-party-pack.json](./268203-mahjong-party-pack.json) |
 | Mahjong Pretty Manga Girls | 105105 | [105105-mahjong-pretty-manga-girls.json](./105105-mahjong-pretty-manga-girls.json) |
 | Mahjong Realms | 336012 | [336012-mahjong-realms.json](./336012-mahjong-realms.json) |
@@ -4250,6 +4253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mermaid Prism | 203341 | [203341-mermaid-prism.json](./203341-mermaid-prism.json) |
 | Mermaid Secrets10-First Crush in high school | 95877 | [95877-mermaid-secrets10-first-crush-in-high-school.json](./95877-mermaid-secrets10-first-crush-in-high-school.json) |
 | Mermaid Secrets14 - Prison Escape | 104465 | [104465-mermaid-secrets14-prison-escape.json](./104465-mermaid-secrets14-prison-escape.json) |
+| Mermaid Spa & Makeover | 90733 | [90733-mermaid-spa-and-makeover.json](./90733-mermaid-spa-and-makeover.json) |
 | Mermaid Stories: Book 1 - The Lost Gift | 339377 | [339377-mermaid-stories-book-1-the-lost-gift.json](./339377-mermaid-stories-book-1-the-lost-gift.json) |
 | Mermaid Story | 219289 | [219289-mermaid-story.json](./219289-mermaid-story.json) |
 | Mermaid Swamp | 287635 | [287635-mermaid-swamp.json](./287635-mermaid-swamp.json) |
@@ -5849,6 +5853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minimized II | 54340 | [54340-minimized-ii.json](./54340-minimized-ii.json) |
 | Minimo | 401502 | [401502-minimo.json](./401502-minimo.json) |
 | Minimonos | 365184 | [365184-minimonos.json](./365184-minimonos.json) |
+| Minimonsters Crush | 90820 | [90820-minimonsters-crush.json](./90820-minimonsters-crush.json) |
 | Minimum Nanonic | 70401 | [70401-minimum-nanonic.json](./70401-minimum-nanonic.json) |
 | Mining And Achievements | 370179 | [370179-mining-and-achievements.json](./370179-mining-and-achievements.json) |
 | Mining Cats | 191156 | [191156-mining-cats.json](./191156-mining-cats.json) |
@@ -7202,6 +7207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Menu: The Scavenger's Cookbook | 216579 | [216579-monster-menu-the-scavengers-cookbook.json](./216579-monster-menu-the-scavengers-cookbook.json) |
 | Monster Merchant | 370669 | [370669-monster-merchant.json](./370669-monster-merchant.json) |
 | Monster Mercs | 402979 | [402979-monster-mercs.json](./402979-monster-mercs.json) |
+| Monster Merge | 90768 | [90768-monster-merge.json](./90768-monster-merge.json) |
 | Monster Milktruck! | 145670 | [145670-monster-milktruck.json](./145670-monster-milktruck.json) |
 | Monster Mind | 137004 | [137004-monster-mind.json](./137004-monster-mind.json) |
 | Monster Mine Clash | 390245 | [390245-monster-mine-clash.json](./390245-monster-mine-clash.json) |
@@ -8643,6 +8649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muncher | 80219 | [80219-muncher.json](./80219-muncher.json) |
 | Munchie Strikers | 258421 | [258421-munchie-strikers.json](./258421-munchie-strikers.json) |
 | Munchkin Digital: Unnatural Axe | 255020 | [255020-munchkin-digital-unnatural-axe.json](./255020-munchkin-digital-unnatural-axe.json) |
+| Munchkin Match | 90788 | [90788-munchkin-match.json](./90788-munchkin-match.json) |
 | Munchkin: Quacked Quest | 110314 | [110314-munchkin-quacked-quest.json](./110314-munchkin-quacked-quest.json) |
 | Munchman II | 42171 | [42171-munchman-ii.json](./42171-munchman-ii.json) |
 | Munchman: 35th Anniversary Edition | 308363 | [308363-munchman-35th-anniversary-edition.json](./308363-munchman-35th-anniversary-edition.json) |
@@ -9269,6 +9276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Kingdom For the Princess | 137037 | [137037-my-kingdom-for-the-princess.json](./137037-my-kingdom-for-the-princess.json) |
 | My Kingdom for the Princess II | 259831 | [259831-my-kingdom-for-the-princess-ii.json](./259831-my-kingdom-for-the-princess-ii.json) |
 | My Kingdom for the Princess II HD | 102140 | [102140-my-kingdom-for-the-princess-ii-hd.json](./102140-my-kingdom-for-the-princess-ii-hd.json) |
+| My Kingdom for the Princess III | 90781 | [90781-my-kingdom-for-the-princess-iii.json](./90781-my-kingdom-for-the-princess-iii.json) |
 | My Klutzy Cupid | 248894 | [248894-my-klutzy-cupid.json](./248894-my-klutzy-cupid.json) |
 | My Lady | 33134 | [33134-my-lady.json](./33134-my-lady.json) |
 | My Lady Juliet | 238406 | [238406-my-lady-juliet.json](./238406-my-lady-juliet.json) |
@@ -9292,6 +9300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Lil Horror | 168168 | [168168-my-lil-horror.json](./168168-my-lil-horror.json) |
 | My Lil' Donut | 31971 | [31971-my-lil-donut.json](./31971-my-lil-donut.json) |
 | My Little Animal Boy | 279673 | [279673-my-little-animal-boy.json](./279673-my-little-animal-boy.json) |
+| My Little Bakery | 89228 | [89228-my-little-bakery.json](./89228-my-little-bakery.json) |
 | My Little Cafe Nightmare | 348334 | [348334-my-little-cafe-nightmare.json](./348334-my-little-cafe-nightmare.json) |
 | My Little Career | 261852 | [261852-my-little-career.json](./261852-my-little-career.json) |
 | My Little Cemetery | 294173 | [294173-my-little-cemetery.json](./294173-my-little-cemetery.json) |
