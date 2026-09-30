@@ -614,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jett Rider | 260657 | [260657-jett-rider.json](./260657-jett-rider.json) |
 | Jett Rider Mini H.E.R.O. | 398965 | [398965-jett-rider-mini-h-e-r-o.json](./398965-jett-rider-mini-h-e-r-o.json) |
 | Jett Tailfin Racers | 60759 | [60759-jett-tailfin-racers.json](./60759-jett-tailfin-racers.json) |
+| Jett: The Far Shore | 134591 | [134591-jett-the-far-shore.json](./134591-jett-the-far-shore.json) |
 | Jett: The Far Shore - Given Time | 231858 | [231858-jett-the-far-shore-given-time.json](./231858-jett-the-far-shore-given-time.json) |
 | Jettatura | 207502 | [207502-jettatura.json](./207502-jettatura.json) |
 | JettFuel | 316277 | [316277-jettfuel.json](./316277-jettfuel.json) |
@@ -1657,6 +1658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junkyard Rush Racing | 326268 | [326268-junkyard-rush-racing.json](./326268-junkyard-rush-racing.json) |
 | Juno and Hope Destroy Capitalism | 407357 | [407357-juno-and-hope-destroy-capitalism.json](./407357-juno-and-hope-destroy-capitalism.json) |
 | Juno Nemesis Remix | 73279 | [73279-juno-nemesis-remix.json](./73279-juno-nemesis-remix.json) |
+| Juno: New Origins | 102982 | [102982-juno-new-origins.json](./102982-juno-new-origins.json) |
 | Junsei Yasaotoko | 242072 | [242072-junsei-yasaotoko.json](./242072-junsei-yasaotoko.json) |
 | Junsei Yasaotoko Sweet & Bitter | 242073 | [242073-junsei-yasaotoko-sweet-and-bitter.json](./242073-junsei-yasaotoko-sweet-and-bitter.json) |
 | Jupiter | 313468 | [313468-jupiter.json](./313468-jupiter.json) |
