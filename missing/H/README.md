@@ -4049,6 +4049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HoloBase | 410316 | [410316-holobase.json](./410316-holobase.json) |
 | Holobunnies: The Bittersweet Adventure | 28897 | [28897-holobunnies-the-bittersweet-adventure.json](./28897-holobunnies-the-bittersweet-adventure.json) |
 | HoloCall: Send Your Cheers! | 340478 | [340478-holocall-send-your-cheers.json](./340478-holocall-send-your-cheers.json) |
+| Holoception | 117460 | [117460-holoception.json](./117460-holoception.json) |
 | HoloCure: Save the Fans! | 206336 | [206336-holocure-save-the-fans.json](./206336-holocure-save-the-fans.json) |
 | Holodrive | 20365 | [20365-holodrive.json](./20365-holodrive.json) |
 | HoloExpo20XX | 401775 | [401775-holoexpo20xx.json](./401775-holoexpo20xx.json) |
@@ -5101,6 +5102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Bathe Your Cat: Drawing | 191170 | [191170-how-to-bathe-your-cat-drawing.json](./191170-how-to-bathe-your-cat-drawing.json) |
 | How to Be a Complete Bastard | 13882 | [13882-how-to-be-a-complete-bastard.json](./13882-how-to-be-a-complete-bastard.json) |
 | How to be a Hero | 38925 | [38925-how-to-be-a-hero.json](./38925-how-to-be-a-hero.json) |
+| How to Be a Real Dude | 117392 | [117392-how-to-be-a-real-dude.json](./117392-how-to-be-a-real-dude.json) |
 | How to Build a Flying City | 321746 | [321746-how-to-build-a-flying-city.json](./321746-how-to-build-a-flying-city.json) |
 | How To Build A Snowman | 383492 | [383492-how-to-build-a-snowman.json](./383492-how-to-build-a-snowman.json) |
 | How To Build Your Igloo | 253931 | [253931-how-to-build-your-igloo.json](./253931-how-to-build-your-igloo.json) |
