@@ -101,6 +101,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hackshot | 173263 | [173263-hackshot.json](./173263-hackshot.json) |
 | HackSlash | 361894 | [361894-hackslash.json](./361894-hackslash.json) |
 | HackStack | 200442 | [200442-hackstack.json](./200442-hackstack.json) |
+| Hacktag | 28241 | [28241-hacktag.json](./28241-hacktag.json) |
+| HackyZack | 28076 | [28076-hackyzack.json](./28076-hackyzack.json) |
 | Had | 239085 | [239085-had.json](./239085-had.json) |
 | Hadalyth Zero | 414616 | [414616-hadalyth-zero.json](./414616-hadalyth-zero.json) |
 | Hadarot | 291248 | [291248-hadarot.json](./291248-hadarot.json) |
@@ -1942,6 +1944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellhunt GB 1991 | 178440 | [178440-hellhunt-gb-1991.json](./178440-hellhunt-gb-1991.json) |
 | Hellink | 114963 | [114963-hellink.json](./114963-hellink.json) |
 | Hellino | 134003 | [134003-hellino.json](./134003-hellino.json) |
+| Hellion | 28050 | [28050-hellion.json](./28050-hellion.json) |
 | Hellion: Mystery of the Inquisition | 66397 | [66397-hellion-mystery-of-the-inquisition.json](./66397-hellion-mystery-of-the-inquisition.json) |
 | Hellish Inc. | 77425 | [77425-hellish-inc.json](./77425-hellish-inc.json) |
 | Hellish Quart | 139472 | [139472-hellish-quart.json](./139472-hellish-quart.json) |
