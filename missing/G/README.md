@@ -1966,6 +1966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GigaSlave | 348455 | [348455-gigaslave.json](./348455-gigaslave.json) |
 | GigaSword | 177317 | [177317-gigasword.json](./177317-gigasword.json) |
 | Gigawing Generations | 43477 | [43477-gigawing-generations.json](./43477-gigawing-generations.json) |
+| Giggleport | 412346 | [412346-giggleport.json](./412346-giggleport.json) |
 | Gigolo | 40777 | [40777-gigolo.json](./40777-gigolo.json) |
 | Gilbert and the chemystical island | 319364 | [319364-gilbert-and-the-chemystical-island.json](./319364-gilbert-and-the-chemystical-island.json) |
 | Gilded | 81768 | [81768-gilded.json](./81768-gilded.json) |
