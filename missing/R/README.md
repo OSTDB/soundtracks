@@ -832,6 +832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rampage Rowing | 316415 | [316415-rampage-rowing.json](./316415-rampage-rowing.json) |
 | Rampage World Tour | 249132 | [249132-rampage-world-tour.json](./249132-rampage-world-tour.json) |
 | RampageRunner | 341310 | [341310-rampagerunner.json](./341310-rampagerunner.json) |
+| Rampallians | 406854 | [406854-rampallians.json](./406854-rampallians.json) |
 | Rampancy | 408131 | [408131-rampancy.json](./408131-rampancy.json) |
 | Rampart | 341655 | [341655-rampart.json](./341655-rampart.json) |
 | Rampart | 9684 | [9684-rampart.json](./9684-rampart.json) |
@@ -4702,11 +4703,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Climber | 312746 | [312746-rogue-climber.json](./312746-rogue-climber.json) |
 | Rogue Company | 122235 | [122235-rogue-company.json](./122235-rogue-company.json) |
 | Rogue Company Mobile | 175694 | [175694-rogue-company-mobile.json](./175694-rogue-company-mobile.json) |
+| Rogue Company: Cannon Holiday Pack | 406763 | [406763-rogue-company-cannon-holiday-pack.json](./406763-rogue-company-cannon-holiday-pack.json) |
 | Rogue Company: Power Ballad Pack | 406820 | [406820-rogue-company-power-ballad-pack.json](./406820-rogue-company-power-ballad-pack.json) |
 | Rogue Company: Radioactive Revenant Pack | 406770 | [406770-rogue-company-radioactive-revenant-pack.json](./406770-rogue-company-radioactive-revenant-pack.json) |
+| Rogue Company: Season Four Starter Pack | 406768 | [406768-rogue-company-season-four-starter-pack.json](./406768-rogue-company-season-four-starter-pack.json) |
 | Rogue Company: Season Three Starter Pack | 406821 | [406821-rogue-company-season-three-starter-pack.json](./406821-rogue-company-season-three-starter-pack.json) |
 | Rogue Company: Season Two Starter Pack | 406822 | [406822-rogue-company-season-two-starter-pack.json](./406822-rogue-company-season-two-starter-pack.json) |
 | Rogue Company: ViVi Starter Pack | 257356 | [257356-rogue-company-vivi-starter-pack.json](./257356-rogue-company-vivi-starter-pack.json) |
+| Rogue Company: Year 1 Pass | 406769 | [406769-rogue-company-year-1-pass.json](./406769-rogue-company-year-1-pass.json) |
 | Rogue Continuum | 23481 | [23481-rogue-continuum.json](./23481-rogue-continuum.json) |
 | Rogue Contracts: Syndicate | 26696 | [26696-rogue-contracts-syndicate.json](./26696-rogue-contracts-syndicate.json) |
 | Rogue Day | 253610 | [253610-rogue-day.json](./253610-rogue-day.json) |
