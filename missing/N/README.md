@@ -2242,6 +2242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NightSky | 15128 | [15128-nightsky.json](./15128-nightsky.json) |
 | Nightsky Blue Magical Girl | 308912 | [308912-nightsky-blue-magical-girl.json](./308912-nightsky-blue-magical-girl.json) |
 | Nightslink | 165643 | [165643-nightslink.json](./165643-nightslink.json) |
+| Nightstar: Alliance | 103233 | [103233-nightstar-alliance.json](./103233-nightstar-alliance.json) |
 | Nightstar: Starfighter | 31815 | [31815-nightstar-starfighter.json](./31815-nightstar-starfighter.json) |
 | NightStars: Project 1 | 314067 | [314067-nightstars-project-1.json](./314067-nightstars-project-1.json) |
 | NightStone | 86211 | [86211-nightstone.json](./86211-nightstone.json) |
@@ -3223,6 +3224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nostalgiarian | 127375 | [127375-nostalgiarian.json](./127375-nostalgiarian.json) |
 | Nostalgic Entropy: Neo Retro | 312899 | [312899-nostalgic-entropy-neo-retro.json](./312899-nostalgic-entropy-neo-retro.json) |
 | Nostalgic Train | 102089 | [102089-nostalgic-train.json](./102089-nostalgic-train.json) |
+| Nostoi | 105006 | [105006-nostoi.json](./105006-nostoi.json) |
 | Nostos | 107252 | [107252-nostos.json](./107252-nostos.json) |
 | Nostra | 415122 | [415122-nostra.json](./415122-nostra.json) |
 | Nostradamus | 40257 | [40257-nostradamus.json](./40257-nostradamus.json) |
