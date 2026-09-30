@@ -3559,6 +3559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift's Cave | 36079 | [36079-rifts-cave.json](./36079-rifts-cave.json) |
 | Riftborne | 398474 | [398474-riftborne.json](./398474-riftborne.json) |
 | Riftcast | 311635 | [311635-riftcast.json](./311635-riftcast.json) |
+| Riftfall | 411762 | [411762-riftfall.json](./411762-riftfall.json) |
 | Riftopia | 346234 | [346234-riftopia.json](./346234-riftopia.json) |
 | Riftshot | 417536 | [417536-riftshot.json](./417536-riftshot.json) |
 | RiftStar Raiders | 27103 | [27103-riftstar-raiders.json](./27103-riftstar-raiders.json) |
