@@ -325,6 +325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Survivors: 1.5 | 252864 | [252864-vampire-survivors-1-5.json](./252864-vampire-survivors-1-5.json) |
 | Vampire Survivors: Chaos Update | 237316 | [237316-vampire-survivors-chaos-update.json](./237316-vampire-survivors-chaos-update.json) |
 | Vampire Survivors: Emerald Diorama | 339620 | [339620-vampire-survivors-emerald-diorama.json](./339620-vampire-survivors-emerald-diorama.json) |
+| Vampire Survivors: Legacy of the Bloodmoon | 404912 | [404912-vampire-survivors-legacy-of-the-bloodmoon.json](./404912-vampire-survivors-legacy-of-the-bloodmoon.json) |
 | Vampire Survivors: Legacy of the Moonspell | 228721 | [228721-vampire-survivors-legacy-of-the-moonspell.json](./228721-vampire-survivors-legacy-of-the-moonspell.json) |
 | Vampire Survivors: Ode to Castlevania | 320770 | [320770-vampire-survivors-ode-to-castlevania.json](./320770-vampire-survivors-ode-to-castlevania.json) |
 | Vampire Survivors: Operation Guns | 296834 | [296834-vampire-survivors-operation-guns.json](./296834-vampire-survivors-operation-guns.json) |
