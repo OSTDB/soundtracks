@@ -785,6 +785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandwich | 352206 | [352206-sandwich.json](./352206-sandwich.json) |
 | Sandwich Quest | 387531 | [387531-sandwich-quest.json](./387531-sandwich-quest.json) |
 | Sandwich Runner | 193845 | [193845-sandwich-runner.json](./193845-sandwich-runner.json) |
+| Sandwich Shop Simulator | 407379 | [407379-sandwich-shop-simulator.json](./407379-sandwich-shop-simulator.json) |
 | Sandwich Sim | 298133 | [298133-sandwich-sim.json](./298133-sandwich-sim.json) |
 | Sandy & Junior: Aventura Virtual | 132863 | [132863-sandy-and-junior-aventura-virtual.json](./132863-sandy-and-junior-aventura-virtual.json) |
 | Sandy's Great Escape | 253867 | [253867-sandys-great-escape.json](./253867-sandys-great-escape.json) |
@@ -1625,6 +1626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Maintain & Control | 202098 | [202098-scp-maintain-and-control.json](./202098-scp-maintain-and-control.json) |
 | SCP: Mystery Man | 320169 | [320169-scp-mystery-man.json](./320169-scp-mystery-man.json) |
 | SCP: Nemesi | 260106 | [260106-scp-nemesi.json](./260106-scp-nemesi.json) |
+| SCP: Refinarium | 407500 | [407500-scp-refinarium.json](./407500-scp-refinarium.json) |
 | SCP: Rulebreaker | 279770 | [279770-scp-rulebreaker.json](./279770-scp-rulebreaker.json) |
 | SCP: Run For Freedom | 338266 | [338266-scp-run-for-freedom.json](./338266-scp-run-for-freedom.json) |
 | SCP: Secret Facility | 336353 | [336353-scp-secret-facility.json](./336353-scp-secret-facility.json) |
@@ -7556,6 +7558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solarian II | 229811 | [229811-solarian-ii.json](./229811-solarian-ii.json) |
 | Solaright | 28934 | [28934-solaright.json](./28934-solaright.json) |
 | Solaris | 370332 | [370332-solaris.json](./370332-solaris.json) |
+| Solaris | 407505 | [407505-solaris.json](./407505-solaris.json) |
 | Solaris 1.0.4. | 93000 | [93000-solaris-1-0-4.json](./93000-solaris-1-0-4.json) |
 | Solaris Assault Tech | 93536 | [93536-solaris-assault-tech.json](./93536-solaris-assault-tech.json) |
 | Solaris Rift | 191198 | [191198-solaris-rift.json](./191198-solaris-rift.json) |
@@ -9410,6 +9413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacebeef | 135059 | [135059-spacebeef.json](./135059-spacebeef.json) |
 | SpaceBlocc | 193499 | [193499-spaceblocc.json](./193499-spaceblocc.json) |
 | SpaceBones | 353865 | [353865-spacebones.json](./353865-spacebones.json) |
+| Spaceborn Awakening | 407394 | [407394-spaceborn-awakening.json](./407394-spaceborn-awakening.json) |
 | Spaceborne Fighters | 392141 | [392141-spaceborne-fighters.json](./392141-spaceborne-fighters.json) |
 | Spaceborne Survivors | 294268 | [294268-spaceborne-survivors.json](./294268-spaceborne-survivors.json) |
 | Spacebound | 95397 | [95397-spacebound.json](./95397-spacebound.json) |
@@ -13813,6 +13817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sultan's Maze | 13038 | [13038-sultans-maze.json](./13038-sultans-maze.json) |
 | Sum | 252995 | [252995-sum.json](./252995-sum.json) |
 | Sum Blocks | 120161 | [120161-sum-blocks.json](./120161-sum-blocks.json) |
+| Sum Zero | 407472 | [407472-sum-zero.json](./407472-sum-zero.json) |
 | Sumatra: Fate of Yandi | 110416 | [110416-sumatra-fate-of-yandi.json](./110416-sumatra-fate-of-yandi.json) |
 | Sumer | 32921 | [32921-sumer.json](./32921-sumer.json) |
 | Sumerian Blood: Gilgamesh against the Gods | 104013 | [104013-sumerian-blood-gilgamesh-against-the-gods.json](./104013-sumerian-blood-gilgamesh-against-the-gods.json) |
@@ -15645,12 +15650,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Cashier | 232375 | [232375-supermarket-cashier.json](./232375-supermarket-cashier.json) |
 | Supermarket CEO Simulator | 335949 | [335949-supermarket-ceo-simulator.json](./335949-supermarket-ceo-simulator.json) |
 | Supermarket CEO Simulator VR | 335950 | [335950-supermarket-ceo-simulator-vr.json](./335950-supermarket-ceo-simulator-vr.json) |
+| Supermarket Chaos | 407502 | [407502-supermarket-chaos.json](./407502-supermarket-chaos.json) |
 | Supermarket Cola Dash Classic | 374666 | [374666-supermarket-cola-dash-classic.json](./374666-supermarket-cola-dash-classic.json) |
 | Supermarket Cola Dash Deluxe! | 374667 | [374667-supermarket-cola-dash-deluxe.json](./374667-supermarket-cola-dash-deluxe.json) |
 | Supermarket Duck Dash | 221160 | [221160-supermarket-duck-dash.json](./221160-supermarket-duck-dash.json) |
 | Supermarket Electronic | 416069 | [416069-supermarket-electronic.json](./416069-supermarket-electronic.json) |
 | Supermarket Grocery Simulator | 319774 | [319774-supermarket-grocery-simulator.json](./319774-supermarket-grocery-simulator.json) |
 | Supermarket Guard Simulator | 393113 | [393113-supermarket-guard-simulator.json](./393113-supermarket-guard-simulator.json) |
+| Supermarket Life Simulator | 407487 | [407487-supermarket-life-simulator.json](./407487-supermarket-life-simulator.json) |
 | Supermarket Management | 88156 | [88156-supermarket-management.json](./88156-supermarket-management.json) |
 | Supermarket Manager | 218686 | [218686-supermarket-manager.json](./218686-supermarket-manager.json) |
 | Supermarket Manager Empire 2024 | 316240 | [316240-supermarket-manager-empire-2024.json](./316240-supermarket-manager-empire-2024.json) |
@@ -15660,6 +15667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Shriek | 107170 | [107170-supermarket-shriek.json](./107170-supermarket-shriek.json) |
 | Supermarket Simulator 2026 | 378772 | [378772-supermarket-simulator-2026.json](./378772-supermarket-simulator-2026.json) |
 | Supermarket Simulator 2026 | 399602 | [399602-supermarket-simulator-2026.json](./399602-supermarket-simulator-2026.json) |
+| Supermarket Simulator: Idle Tycoon Clicker | 407490 | [407490-supermarket-simulator-idle-tycoon-clicker.json](./407490-supermarket-simulator-idle-tycoon-clicker.json) |
 | Supermarket Together | 311540 | [311540-supermarket-together.json](./311540-supermarket-together.json) |
 | Supermarket VR | 99427 | [99427-supermarket-vr.json](./99427-supermarket-vr.json) |
 | Supermart Tycoon | 381709 | [381709-supermart-tycoon.json](./381709-supermart-tycoon.json) |
