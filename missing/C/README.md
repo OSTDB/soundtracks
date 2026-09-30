@@ -4838,6 +4838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloudy with a Chance of Kittens | 345140 | [345140-cloudy-with-a-chance-of-kittens.json](./345140-cloudy-with-a-chance-of-kittens.json) |
 | Cloudy with a Chance of Meatballs | 4767 | [4767-cloudy-with-a-chance-of-meatballs.json](./4767-cloudy-with-a-chance-of-meatballs.json) |
 | Clout | 105528 | [105528-clout.json](./105528-clout.json) |
+| Clout Chaser | 401064 | [401064-clout-chaser.json](./401064-clout-chaser.json) |
 | Clouzy! | 136984 | [136984-clouzy.json](./136984-clouzy.json) |
 | Clover Cuby | 267340 | [267340-clover-cuby.json](./267340-clover-cuby.json) |
 | Clover Day's Plus | 254554 | [254554-clover-days-plus.json](./254554-clover-days-plus.json) |
@@ -5069,6 +5070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code: Realize - Guardian of Rebirth | 19475 | [19475-code-realize-guardian-of-rebirth.json](./19475-code-realize-guardian-of-rebirth.json) |
 | Code: Realize ~Future Blessings~ Day One Edition | 136263 | [136263-code-realize-future-blessings-day-one-edition.json](./136263-code-realize-future-blessings-day-one-edition.json) |
 | Code: Realize ~Wintertide Miracles~ Limited Edition | 112919 | [112919-code-realize-wintertide-miracles-limited-edition.json](./112919-code-realize-wintertide-miracles-limited-edition.json) |
+| Code: Terraform | 401030 | [401030-code-terraform.json](./401030-code-terraform.json) |
 | Code: To Jin Yong | 208466 | [208466-code-to-jin-yong.json](./208466-code-to-jin-yong.json) |
 | Code: X | 174798 | [174798-code-x.json](./174798-code-x.json) |
 | Code::Lux | 372092 | [372092-code-lux.json](./372092-code-lux.json) |
@@ -6946,6 +6948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Couch Storm: Battle Royale | 119735 | [119735-couch-storm-battle-royale.json](./119735-couch-storm-battle-royale.json) |
 | Couch Versus | 113669 | [113669-couch-versus.json](./113669-couch-versus.json) |
 | Couic d'or ! | 328595 | [328595-couic-dor.json](./328595-couic-dor.json) |
+| Counseling | 401050 | [401050-counseling.json](./401050-counseling.json) |
 | Count 427 | 287624 | [287624-count-427.json](./287624-count-427.json) |
 | Count Downula | 109040 | [109040-count-downula.json](./109040-count-downula.json) |
 | Count Duckula 2: Featuring Tremendous Terence | 15919 | [15919-count-duckula-2-featuring-tremendous-terence.json](./15919-count-duckula-2-featuring-tremendous-terence.json) |
@@ -8224,6 +8227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crow | 17848 | [17848-crow.json](./17848-crow.json) |
 | Crow Boss | 351271 | [351271-crow-boss.json](./351271-crow-boss.json) |
 | Crow Country | 273522 | [273522-crow-country.json](./273522-crow-country.json) |
+| Crow Heist | 401039 | [401039-crow-heist.json](./401039-crow-heist.json) |
 | Crow Story | 189147 | [189147-crow-story.json](./189147-crow-story.json) |
 | Crow's Cry | 211726 | [211726-crows-cry.json](./211726-crows-cry.json) |
 | Crow's Curated Closet: Shop Simulator | 407481 | [407481-crows-curated-closet-shop-simulator.json](./407481-crows-curated-closet-shop-simulator.json) |
@@ -8996,6 +9000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse the Cursor | 369028 | [369028-curse-the-cursor.json](./369028-curse-the-cursor.json) |
 | Curse Words | 370775 | [370775-curse-words.json](./370775-curse-words.json) |
 | Curse You! Red Baron | 68738 | [68738-curse-you-red-baron.json](./68738-curse-you-red-baron.json) |
+| Curse: The First Knot | 400932 | [400932-curse-the-first-knot.json](./400932-curse-the-first-knot.json) |
 | Curseball | 205648 | [205648-curseball.json](./205648-curseball.json) |
 | Cursebound | 380101 | [380101-cursebound.json](./380101-cursebound.json) |
 | Cursebreakers | 416810 | [416810-cursebreakers.json](./416810-cursebreakers.json) |
