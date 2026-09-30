@@ -1714,6 +1714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Bears Pro | 61668 | [61668-battle-bears-pro.json](./61668-battle-bears-pro.json) |
 | Battle Bears: Zombies AR | 89200 | [89200-battle-bears-zombies-ar.json](./89200-battle-bears-zombies-ar.json) |
 | Battle Beaster 2 | 376728 | [376728-battle-beaster-2.json](./376728-battle-beaster-2.json) |
+| Battle Beat | 395762 | [395762-battle-beat.json](./395762-battle-beat.json) |
 | Battle Bits | 333392 | [333392-battle-bits.json](./333392-battle-bits.json) |
 | Battle Blaze | 42629 | [42629-battle-blaze.json](./42629-battle-blaze.json) |
 | Battle Blocks | 137660 | [137660-battle-blocks.json](./137660-battle-blocks.json) |
@@ -2669,6 +2670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bedlam | 55098 | [55098-bedlam.json](./55098-bedlam.json) |
 | Bedlamball | 51985 | [51985-bedlamball.json](./51985-bedlamball.json) |
 | BeDo | 245783 | [245783-bedo.json](./245783-bedo.json) |
+| Bedouin Ride | 395809 | [395809-bedouin-ride.json](./395809-bedouin-ride.json) |
 | Bedrock High | 238630 | [238630-bedrock-high.json](./238630-bedrock-high.json) |
 | Bedrock Snowball Bash Game | 143682 | [143682-bedrock-snowball-bash-game.json](./143682-bedrock-snowball-bash-game.json) |
 | Bedrone | 270713 | [270713-bedrone.json](./270713-bedrone.json) |
@@ -3488,6 +3490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Thanks Super Keirin | 55898 | [55898-big-thanks-super-keirin.json](./55898-big-thanks-super-keirin.json) |
 | Big the Cat in Sonic the Hedgehog | 201296 | [201296-big-the-cat-in-sonic-the-hedgehog.json](./201296-big-the-cat-in-sonic-the-hedgehog.json) |
 | Big Theft Valkeala | 351638 | [351638-big-theft-valkeala.json](./351638-big-theft-valkeala.json) |
+| Big Theft Valkeala 3: Revenge | 395786 | [395786-big-theft-valkeala-3-revenge.json](./395786-big-theft-valkeala-3-revenge.json) |
 | Big Time Gangsta | 316758 | [316758-big-time-gangsta.json](./316758-big-time-gangsta.json) |
 | Big Time Rush: Dance Party | 50625 | [50625-big-time-rush-dance-party.json](./50625-big-time-rush-dance-party.json) |
 | Big Titty Teacher: Hentai School Life | 97667 | [97667-big-titty-teacher-hentai-school-life.json](./97667-big-titty-teacher-hentai-school-life.json) |
