@@ -727,6 +727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egyptian Run | 93166 | [93166-egyptian-run.json](./93166-egyptian-run.json) |
 | Ehrgeiz | 1361 | [1361-ehrgeiz.json](./1361-ehrgeiz.json) |
 | Eidetus | 125898 | [125898-eidetus.json](./125898-eidetus.json) |
+| Eidolon | 17161 | [17161-eidolon.json](./17161-eidolon.json) |
 | Eidolons: Nethergate | 116818 | [116818-eidolons-nethergate.json](./116818-eidolons-nethergate.json) |
 | Eien no Filena | 15899 | [15899-eien-no-filena.json](./15899-eien-no-filena.json) |
 | Eien no Miyako | 372564 | [372564-eien-no-miyako.json](./372564-eien-no-miyako.json) |
@@ -994,6 +995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental World | 208039 | [208039-elemental-world.json](./208039-elemental-world.json) |
 | Elemental World | 311798 | [311798-elemental-world.json](./311798-elemental-world.json) |
 | Elemental World Part 1: Rise of the Guardians | 91443 | [91443-elemental-world-part-1-rise-of-the-guardians.json](./91443-elemental-world-part-1-rise-of-the-guardians.json) |
+| Elemental: War of Magic | 20451 | [20451-elemental-war-of-magic.json](./20451-elemental-war-of-magic.json) |
 | Elementalist: 0 | 182995 | [182995-elementalist-0.json](./182995-elementalist-0.json) |
 | Elementalist.io | 184104 | [184104-elementalist-io.json](./184104-elementalist-io.json) |
 | Elementals | 130933 | [130933-elementals.json](./130933-elementals.json) |
