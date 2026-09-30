@@ -1005,6 +1005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gatecrasher | 207840 | [207840-gatecrasher.json](./207840-gatecrasher.json) |
 | Gatedelvers | 217382 | [217382-gatedelvers.json](./217382-gatedelvers.json) |
 | Gatekeeper | 222906 | [222906-gatekeeper.json](./222906-gatekeeper.json) |
+| Gatekeeper Simulator: Inner Circle | 407484 | [407484-gatekeeper-simulator-inner-circle.json](./407484-gatekeeper-simulator-inner-circle.json) |
 | Gatekeeper: Supporter Pack | 310401 | [310401-gatekeeper-supporter-pack.json](./310401-gatekeeper-supporter-pack.json) |
 | GatePass | 319987 | [319987-gatepass.json](./319987-gatepass.json) |
 | Gates and Violet | 413029 | [413029-gates-and-violet.json](./413029-gates-and-violet.json) |
@@ -3681,6 +3682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graphomata | 288878 | [288878-graphomata.json](./288878-graphomata.json) |
 | GraphSpacer | 68637 | [68637-graphspacer.json](./68637-graphspacer.json) |
 | GraphSpacer Black | 80243 | [80243-graphspacer-black.json](./80243-graphspacer-black.json) |
+| Grapixo Arte em Guerra | 407522 | [407522-grapixo-arte-em-guerra.json](./407522-grapixo-arte-em-guerra.json) |
 | Grapple Bear | 114538 | [114538-grapple-bear.json](./114538-grapple-bear.json) |
 | Grapple Boy | 62425 | [62425-grapple-boy.json](./62425-grapple-boy.json) |
 | Grapple Cars | 253300 | [253300-grapple-cars.json](./253300-grapple-cars.json) |
