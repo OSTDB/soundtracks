@@ -690,6 +690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | False Fruit | 399201 | [399201-false-fruit.json](./399201-false-fruit.json) |
 | False God | 399172 | [399172-false-god.json](./399172-false-god.json) |
 | False Hero | 275734 | [275734-false-hero.json](./275734-false-hero.json) |
+| False Hope | 408987 | [408987-false-hope.json](./408987-false-hope.json) |
 | False Love: Ghost or Not? | 414444 | [414444-false-love-ghost-or-not.json](./414444-false-love-ghost-or-not.json) |
 | False Mall | 311570 | [311570-false-mall.json](./311570-false-mall.json) |
 | False Myth | 132742 | [132742-false-myth.json](./132742-false-myth.json) |
@@ -3776,6 +3777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flop to the Top | 181712 | [181712-flop-to-the-top.json](./181712-flop-to-the-top.json) |
 | Floppy and the Sleepy Planet | 116385 | [116385-floppy-and-the-sleepy-planet.json](./116385-floppy-and-the-sleepy-planet.json) |
 | Floppy Cat Bow Golf! | 252981 | [252981-floppy-cat-bow-golf.json](./252981-floppy-cat-bow-golf.json) |
+| Floppy Dick | 408952 | [408952-floppy-dick.json](./408952-floppy-dick.json) |
 | Floppy Disks from Hell | 236946 | [236946-floppy-disks-from-hell.json](./236946-floppy-disks-from-hell.json) |
 | Floppy Fish | 402997 | [402997-floppy-fish.json](./402997-floppy-fish.json) |
 | Floppy Frenzy | 25137 | [25137-floppy-frenzy.json](./25137-floppy-frenzy.json) |
@@ -4332,6 +4334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Honor: Ezio Auditore – Peacekeeper Hero Skin | 305765 | [305765-for-honor-ezio-auditore-peacekeeper-hero-skin.json](./305765-for-honor-ezio-auditore-peacekeeper-hero-skin.json) |
 | For Honor: Gold Heroes Pack | 305766 | [305766-for-honor-gold-heroes-pack.json](./305766-for-honor-gold-heroes-pack.json) |
 | For Honor: Gryphon Hero | 170438 | [170438-for-honor-gryphon-hero.json](./170438-for-honor-gryphon-hero.json) |
+| For Honor: Juren - Hero | 408969 | [408969-for-honor-juren-hero.json](./408969-for-honor-juren-hero.json) |
 | For Honor: Kyoshin Hero | 170437 | [170437-for-honor-kyoshin-hero.json](./170437-for-honor-kyoshin-hero.json) |
 | For Honor: Marching Fire Expansion Pack | 227360 | [227360-for-honor-marching-fire-expansion-pack.json](./227360-for-honor-marching-fire-expansion-pack.json) |
 | For Honor: Master Katashi - Orochi Hero Skin | 305768 | [305768-for-honor-master-katashi-orochi-hero-skin.json](./305768-for-honor-master-katashi-orochi-hero-skin.json) |
@@ -4339,13 +4342,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Honor: Naoe the Swift – Shinobi Hero Skin | 408891 | [408891-for-honor-naoe-the-swift-shinobi-hero-skin.json](./408891-for-honor-naoe-the-swift-shinobi-hero-skin.json) |
 | For Honor: Pirate Hero | 227338 | [227338-for-honor-pirate-hero.json](./227338-for-honor-pirate-hero.json) |
 | For Honor: Pirate Hero Skin | 241964 | [241964-for-honor-pirate-hero-skin.json](./241964-for-honor-pirate-hero-skin.json) |
+| For Honor: Prince Yi – Tiandi Hero Skin | 408968 | [408968-for-honor-prince-yi-tiandi-hero-skin.json](./408968-for-honor-prince-yi-tiandi-hero-skin.json) |
 | For Honor: Season 22 - Curse of the Scarab | 217523 | [217523-for-honor-season-22-curse-of-the-scarab.json](./217523-for-honor-season-22-curse-of-the-scarab.json) |
 | For Honor: Season 23 - The Demon Dagger | 217524 | [217524-for-honor-season-23-the-demon-dagger.json](./217524-for-honor-season-23-the-demon-dagger.json) |
 | For Honor: Starter Edition | 216232 | [216232-for-honor-starter-edition.json](./216232-for-honor-starter-edition.json) |
+| For Honor: The Oni's Wrath – Sohei Hero Skin | 408965 | [408965-for-honor-the-onis-wrath-sohei-hero-skin.json](./408965-for-honor-the-onis-wrath-sohei-hero-skin.json) |
+| For Honor: The Scorching Herald – Gryphon Legendary Hero Skin | 408967 | [408967-for-honor-the-scorching-herald-gryphon-legendary-hero-skin.json](./408967-for-honor-the-scorching-herald-gryphon-legendary-hero-skin.json) |
 | For Honor: Ultimate Edition | 291540 | [291540-for-honor-ultimate-edition.json](./291540-for-honor-ultimate-edition.json) |
 | For Honor: Ultimate Heroes Pack | 305767 | [305767-for-honor-ultimate-heroes-pack.json](./305767-for-honor-ultimate-heroes-pack.json) |
 | For Honor: Varangian Guard - Hero | 289921 | [289921-for-honor-varangian-guard-hero.json](./289921-for-honor-varangian-guard-hero.json) |
 | For Honor: Warmonger Hero | 170436 | [170436-for-honor-warmonger-hero.json](./170436-for-honor-warmonger-hero.json) |
+| For Honor: Yasuke the Brave – Shugoki Hero Skin | 408963 | [408963-for-honor-yasuke-the-brave-shugoki-hero-skin.json](./408963-for-honor-yasuke-the-brave-shugoki-hero-skin.json) |
 | For Love of Evil | 271779 | [271779-for-love-of-evil.json](./271779-for-love-of-evil.json) |
 | For Madman Only | 183379 | [183379-for-madman-only.json](./183379-for-madman-only.json) |
 | For My Babies | 270770 | [270770-for-my-babies.json](./270770-for-my-babies.json) |
