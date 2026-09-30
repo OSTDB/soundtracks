@@ -347,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kangoorun: Fly to the Moon | 37181 | [37181-kangoorun-fly-to-the-moon.json](./37181-kangoorun-fly-to-the-moon.json) |
 | Kanji Boy | 228573 | [228573-kanji-boy.json](./228573-kanji-boy.json) |
 | Kanji Boy 2 | 228574 | [228574-kanji-boy-2.json](./228574-kanji-boy-2.json) |
+| Kanji de Go Go! | 408220 | [408220-kanji-de-go-go.json](./408220-kanji-de-go-go.json) |
 | Kanji de Go! | 323962 | [323962-kanji-de-go.json](./323962-kanji-de-go.json) |
 | Kanji Kitchen: Learn Japanese | 266760 | [266760-kanji-kitchen-learn-japanese.json](./266760-kanji-kitchen-learn-japanese.json) |
 | Kanji no Owari! | 56450 | [56450-kanji-no-owari.json](./56450-kanji-no-owari.json) |
@@ -1873,6 +1874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitchen Gore | 355042 | [355042-kitchen-gore.json](./355042-kitchen-gore.json) |
 | Kitchen Island VR | 158593 | [158593-kitchen-island-vr.json](./158593-kitchen-island-vr.json) |
 | Kitchen master | 26648 | [26648-kitchen-master.json](./26648-kitchen-master.json) |
+| Kitchen of Gods | 408241 | [408241-kitchen-of-gods.json](./408241-kitchen-of-gods.json) |
 | Kitchen Scramble: Cooking Game | 123439 | [123439-kitchen-scramble-cooking-game.json](./123439-kitchen-scramble-cooking-game.json) |
 | Kitchen Survivors | 217794 | [217794-kitchen-survivors.json](./217794-kitchen-survivors.json) |
 | Kitchen Sync: Aloha! | 244384 | [244384-kitchen-sync-aloha.json](./244384-kitchen-sync-aloha.json) |
