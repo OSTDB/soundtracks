@@ -3659,6 +3659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheesh Adventures | 58492 | [58492-sheesh-adventures.json](./58492-sheesh-adventures.json) |
 | Shei Toule Wo de Nu Pengyou | 322344 | [322344-shei-toule-wo-de-nu-pengyou.json](./322344-shei-toule-wo-de-nu-pengyou.json) |
 | Shelf | 278694 | [278694-shelf.json](./278694-shelf.json) |
+| Shelf Happens | 419828 | [419828-shelf-happens.json](./419828-shelf-happens.json) |
 | Shelf Heroes | 336147 | [336147-shelf-heroes.json](./336147-shelf-heroes.json) |
 | Shelf-Employed | 413903 | [413903-shelf-employed.json](./413903-shelf-employed.json) |
 | ShelfLife: Art School Detective | 266769 | [266769-shelflife-art-school-detective.json](./266769-shelflife-art-school-detective.json) |
@@ -3827,6 +3828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiki Oni no Koku: Chuugoku-hen - Dainishou | 240303 | [240303-shiki-oni-no-koku-chuugoku-hen-dainishou.json](./240303-shiki-oni-no-koku-chuugoku-hen-dainishou.json) |
 | Shiki Oni no Koku: Chuugoku-hen - Daisanshou | 240304 | [240304-shiki-oni-no-koku-chuugoku-hen-daisanshou.json](./240304-shiki-oni-no-koku-chuugoku-hen-daisanshou.json) |
 | Shiki Oni no Koku: Chuugoku-hen - Daiyonshou | 240305 | [240305-shiki-oni-no-koku-chuugoku-hen-daiyonshou.json](./240305-shiki-oni-no-koku-chuugoku-hen-daiyonshou.json) |
+| Shiki Tea House | 419956 | [419956-shiki-tea-house.json](./419956-shiki-tea-house.json) |
 | Shiki-Tei | 93616 | [93616-shiki-tei.json](./93616-shiki-tei.json) |
 | Shiki: The Four Seasons | 123554 | [123554-shiki-the-four-seasons.json](./123554-shiki-the-four-seasons.json) |
 | Shikigami No Shiro Evolution | 281464 | [281464-shikigami-no-shiro-evolution.json](./281464-shikigami-no-shiro-evolution.json) |
@@ -8485,6 +8487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sort of Justice: Chapter 1 | 335991 | [335991-sort-of-justice-chapter-1.json](./335991-sort-of-justice-chapter-1.json) |
 | Sort the Cube | 106392 | [106392-sort-the-cube.json](./106392-sort-the-cube.json) |
 | Sort the Socks | 87624 | [87624-sort-the-socks.json](./87624-sort-the-socks.json) |
+| Sort The Toys | 419887 | [419887-sort-the-toys.json](./419887-sort-the-toys.json) |
 | Sort Them Ducks | 412357 | [412357-sort-them-ducks.json](./412357-sort-them-ducks.json) |
 | Sorted | 392265 | [392265-sorted.json](./392265-sorted.json) |
 | Sorted! | 219586 | [219586-sorted.json](./219586-sorted.json) |
