@@ -2309,6 +2309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Arcade in a Tin | 234079 | [234079-tetris-arcade-in-a-tin.json](./234079-tetris-arcade-in-a-tin.json) |
 | Tetris Battle Fusion | 74305 | [74305-tetris-battle-fusion.json](./74305-tetris-battle-fusion.json) |
 | Tetris Battle Gaiden | 38371 | [38371-tetris-battle-gaiden.json](./38371-tetris-battle-gaiden.json) |
+| Tetris Blast | 48969 | [48969-tetris-blast.json](./48969-tetris-blast.json) |
 | Tetris Block Puzzle | 309098 | [309098-tetris-block-puzzle.json](./309098-tetris-block-puzzle.json) |
 | Tetris City | 330701 | [330701-tetris-city.json](./330701-tetris-city.json) |
 | Tetris Deluxe | 215383 | [215383-tetris-deluxe.json](./215383-tetris-deluxe.json) |
@@ -3698,6 +3699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Inside Me | 99005 | [99005-the-dark-inside-me.json](./99005-the-dark-inside-me.json) |
 | The Dark Journey | 192803 | [192803-the-dark-journey.json](./192803-the-dark-journey.json) |
 | The Dark Kingdom | 356670 | [356670-the-dark-kingdom.json](./356670-the-dark-kingdom.json) |
+| The Dark Knight Rises | 64769 | [64769-the-dark-knight-rises.json](./64769-the-dark-knight-rises.json) |
 | The Dark Matter | 23920 | [23920-the-dark-matter.json](./23920-the-dark-matter.json) |
 | The Dark Meadow | 38957 | [38957-the-dark-meadow.json](./38957-the-dark-meadow.json) |
 | The Dark Mind | 320529 | [320529-the-dark-mind.json](./320529-the-dark-mind.json) |
@@ -3817,6 +3819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Deletion | 34768 | [34768-the-deletion.json](./34768-the-deletion.json) |
 | The Delirium Dimension | 269658 | [269658-the-delirium-dimension.json](./269658-the-delirium-dimension.json) |
 | The Delusions of Maximillian Wurst | 243646 | [243646-the-delusions-of-maximillian-wurst.json](./243646-the-delusions-of-maximillian-wurst.json) |
+| The Delusions of Von Sottendorff and His Squared Mind | 63520 | [63520-the-delusions-of-von-sottendorff-and-his-squared-mind.json](./63520-the-delusions-of-von-sottendorff-and-his-squared-mind.json) |
 | The Demon Crystal | 47555 | [47555-the-demon-crystal.json](./47555-the-demon-crystal.json) |
 | The Demon Lord and the Guardian Knights | 134641 | [134641-the-demon-lord-and-the-guardian-knights.json](./134641-the-demon-lord-and-the-guardian-knights.json) |
 | The Demon Lord is Mine! | 215189 | [215189-the-demon-lord-is-mine.json](./215189-the-demon-lord-is-mine.json) |
@@ -4046,6 +4049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Online: Flames of Ambition | 180622 | [180622-the-elder-scrolls-online-flames-of-ambition.json](./180622-the-elder-scrolls-online-flames-of-ambition.json) |
 | The Elder Scrolls Online: Gold Road | 283120 | [283120-the-elder-scrolls-online-gold-road.json](./283120-the-elder-scrolls-online-gold-road.json) |
 | The Elder Scrolls Online: High Isle | 195342 | [195342-the-elder-scrolls-online-high-isle.json](./195342-the-elder-scrolls-online-high-isle.json) |
+| The Elder Scrolls Online: Horns of the Reach | 63873 | [63873-the-elder-scrolls-online-horns-of-the-reach.json](./63873-the-elder-scrolls-online-horns-of-the-reach.json) |
 | The Elder Scrolls Online: Imperial City | 117156 | [117156-the-elder-scrolls-online-imperial-city.json](./117156-the-elder-scrolls-online-imperial-city.json) |
 | The Elder Scrolls Online: Lost Depths | 237338 | [237338-the-elder-scrolls-online-lost-depths.json](./237338-the-elder-scrolls-online-lost-depths.json) |
 | The Elder Scrolls Online: Markarth | 237336 | [237336-the-elder-scrolls-online-markarth.json](./237336-the-elder-scrolls-online-markarth.json) |
@@ -4529,6 +4533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Galactic Plague | 13000 | [13000-the-galactic-plague.json](./13000-the-galactic-plague.json) |
 | The Gallery | 337081 | [337081-the-gallery.json](./337081-the-gallery.json) |
 | The Gallery: Episode 1 - Call of the Starseed | 36432 | [36432-the-gallery-episode-1-call-of-the-starseed.json](./36432-the-gallery-episode-1-call-of-the-starseed.json) |
+| The Gallery: Episode 2 - Heart of the Emberstone | 68173 | [68173-the-gallery-episode-2-heart-of-the-emberstone.json](./68173-the-gallery-episode-2-heart-of-the-emberstone.json) |
 | The Gambit Lost to Time | 327173 | [327173-the-gambit-lost-to-time.json](./327173-the-gambit-lost-to-time.json) |
 | The Game | 187522 | [187522-the-game.json](./187522-the-game.json) |
 | The Game | 191567 | [191567-the-game.json](./191567-the-game.json) |
@@ -11132,6 +11137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Kill Eros | 404935 | [404935-to-kill-eros.json](./404935-to-kill-eros.json) |
 | To Kyrstem | 181326 | [181326-to-kyrstem.json](./181326-to-kyrstem.json) |
 | To Last | 258452 | [258452-to-last.json](./258452-to-last.json) |
+| To Leave | 61714 | [61714-to-leave.json](./61714-to-leave.json) |
 | To Libertad | 212287 | [212287-to-libertad.json](./212287-to-libertad.json) |
 | To Light: Ex Umbra | 102370 | [102370-to-light-ex-umbra.json](./102370-to-light-ex-umbra.json) |
 | To Love Ru x 2 | 97376 | [97376-to-love-ru-x-2.json](./97376-to-love-ru-x-2.json) |
@@ -12422,6 +12428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tour de France 2009 | 21247 | [21247-tour-de-france-2009.json](./21247-tour-de-france-2009.json) |
 | Tour de France 2011 | 92464 | [92464-tour-de-france-2011.json](./92464-tour-de-france-2011.json) |
 | Tour de France 2014 | 80876 | [80876-tour-de-france-2014.json](./80876-tour-de-france-2014.json) |
+| Tour de France 2015 | 60198 | [60198-tour-de-france-2015.json](./60198-tour-de-france-2015.json) |
 | Tour de France 2018 | 188594 | [188594-tour-de-france-2018.json](./188594-tour-de-france-2018.json) |
 | Tour de France 2024 | 288855 | [288855-tour-de-france-2024.json](./288855-tour-de-france-2024.json) |
 | Tour de France 2025 | 336720 | [336720-tour-de-france-2025.json](./336720-tour-de-france-2025.json) |
@@ -12798,6 +12805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrackMania Sunrise | 22294 | [22294-trackmania-sunrise.json](./22294-trackmania-sunrise.json) |
 | TrackMania Sunrise Extreme | 205056 | [205056-trackmania-sunrise-extreme.json](./205056-trackmania-sunrise-extreme.json) |
 | TrackMania Turbo | 11172 | [11172-trackmania-turbo.json](./11172-trackmania-turbo.json) |
+| Trackmania Turbo: Build to Race | 67017 | [67017-trackmania-turbo-build-to-race.json](./67017-trackmania-turbo-build-to-race.json) |
 | TrackMania United | 9908 | [9908-trackmania-united.json](./9908-trackmania-united.json) |
 | TrackMania United Forever | 2451 | [2451-trackmania-united-forever.json](./2451-trackmania-united-forever.json) |
 | TrackMania: Power Up! | 69906 | [69906-trackmania-power-up.json](./69906-trackmania-power-up.json) |
