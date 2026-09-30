@@ -265,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lakeside Has No Lake!! | 355614 | [355614-lakeside-has-no-lake.json](./355614-lakeside-has-no-lake.json) |
 | Lakesider: Above and Below | 285477 | [285477-lakesider-above-and-below.json](./285477-lakesider-above-and-below.json) |
 | Lakeview Cabin 2 | 149478 | [149478-lakeview-cabin-2.json](./149478-lakeview-cabin-2.json) |
+| Lakeview Valley | 117690 | [117690-lakeview-valley.json](./117690-lakeview-valley.json) |
 | Lakitu's Great Adventure | 217842 | [217842-lakitus-great-adventure.json](./217842-lakitus-great-adventure.json) |
 | Lala Hentai 2 | 375970 | [375970-lala-hentai-2.json](./375970-lala-hentai-2.json) |
 | Lala the Magical | 48298 | [48298-lala-the-magical.json](./48298-lala-the-magical.json) |
@@ -1122,6 +1123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy: Witch Island 2 | 159655 | [159655-legacy-witch-island-2.json](./159655-legacy-witch-island-2.json) |
 | LegacyShell | 325681 | [325681-legacyshell.json](./325681-legacyshell.json) |
 | Legaia 2: Duel Saga | 28161 | [28161-legaia-2-duel-saga.json](./28161-legaia-2-duel-saga.json) |
+| Legal Dungeon | 115004 | [115004-legal-dungeon.json](./115004-legal-dungeon.json) |
 | Legal Speed Racing | 90557 | [90557-legal-speed-racing.json](./90557-legal-speed-racing.json) |
 | Legally Distinct, Planetary Based, Suika Game Clone | 292091 | [292091-legally-distinct-planetary-based-suika-game-clone.json](./292091-legally-distinct-planetary-based-suika-game-clone.json) |
 | Leganda | 188675 | [188675-leganda.json](./188675-leganda.json) |
@@ -3910,6 +3912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love & Sex: Second Base | 229010 | [229010-love-and-sex-second-base.json](./229010-love-and-sex-second-base.json) |
 | Love 2 Torokko | 143667 | [143667-love-2-torokko.json](./143667-love-2-torokko.json) |
 | Love 3 | 161222 | [161222-love-3.json](./161222-love-3.json) |
+| Love 3: Love Cube | 117876 | [117876-love-3-love-cube.json](./117876-love-3-love-cube.json) |
 | Love Accident | 186829 | [186829-love-accident.json](./186829-love-accident.json) |
 | Love Affairs | 303785 | [303785-love-affairs.json](./303785-love-affairs.json) |
 | Love Always Runs Away | 362885 | [362885-love-always-runs-away.json](./362885-love-always-runs-away.json) |
