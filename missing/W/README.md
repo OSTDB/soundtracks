@@ -282,6 +282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wander Wonder | 237514 | [237514-wander-wonder.json](./237514-wander-wonder.json) |
 | Wanderer | 185082 | [185082-wanderer.json](./185082-wanderer.json) |
 | Wanderer | 205582 | [205582-wanderer.json](./205582-wanderer.json) |
+| Wanderer | 95426 | [95426-wanderer.json](./95426-wanderer.json) |
 | Wanderer's Shade | 310183 | [310183-wanderers-shade.json](./310183-wanderers-shade.json) |
 | Wanderers | 185030 | [185030-wanderers.json](./185030-wanderers.json) |
 | Wanderers | 377158 | [377158-wanderers.json](./377158-wanderers.json) |
@@ -849,6 +850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warp League Basketball | 81238 | [81238-warp-league-basketball.json](./81238-warp-league-basketball.json) |
 | Warp Mania | 382761 | [382761-warp-mania.json](./382761-warp-mania.json) |
 | Warp Rush | 413007 | [413007-warp-rush.json](./413007-warp-rush.json) |
+| Warp Shift | 95053 | [95053-warp-shift.json](./95053-warp-shift.json) |
 | Warp Soldier | 216486 | [216486-warp-soldier.json](./216486-warp-soldier.json) |
 | Warp Speed | 45568 | [45568-warp-speed.json](./45568-warp-speed.json) |
 | Warp to Sector One | 394552 | [394552-warp-to-sector-one.json](./394552-warp-to-sector-one.json) |
@@ -3332,6 +3334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodturning 3D: Arts & Crafts | 288276 | [288276-woodturning-3d-arts-and-crafts.json](./288276-woodturning-3d-arts-and-crafts.json) |
 | Woodventure: Mahjong Connect | 238980 | [238980-woodventure-mahjong-connect.json](./238980-woodventure-mahjong-connect.json) |
 | Woodville Chronicles | 415962 | [415962-woodville-chronicles.json](./415962-woodville-chronicles.json) |
+| Woodways | 93741 | [93741-woodways.json](./93741-woodways.json) |
 | Woodwork Simulator | 120932 | [120932-woodwork-simulator.json](./120932-woodwork-simulator.json) |
 | Woody Pop | 69917 | [69917-woody-pop.json](./69917-woody-pop.json) |
 | Woody Woodpecker and Friends Volume 2 | 268527 | [268527-woody-woodpecker-and-friends-volume-2.json](./268527-woody-woodpecker-and-friends-volume-2.json) |
@@ -3801,6 +3804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warcraft: Warlords of Draenor - Collector's Edition | 13622 | [13622-world-of-warcraft-warlords-of-draenor-collectors-edition.json](./13622-world-of-warcraft-warlords-of-draenor-collectors-edition.json) |
 | World of Warplanes | 3432 | [3432-world-of-warplanes.json](./3432-world-of-warplanes.json) |
 | World of Warplanes: Potez 540 Pack | 289894 | [289894-world-of-warplanes-potez-540-pack.json](./289894-world-of-warplanes-potez-540-pack.json) |
+| World of Warriors | 95064 | [95064-world-of-warriors.json](./95064-world-of-warriors.json) |
 | World of Warships: Admiral Graf Spee Pack | 225866 | [225866-world-of-warships-admiral-graf-spee-pack.json](./225866-world-of-warships-admiral-graf-spee-pack.json) |
 | World of Warships: DLC to Celebrate the Year of the Dragon | 289326 | [289326-world-of-warships-dlc-to-celebrate-the-year-of-the-dragon.json](./289326-world-of-warships-dlc-to-celebrate-the-year-of-the-dragon.json) |
 | World of Warships: Huanghe Pack | 156113 | [156113-world-of-warships-huanghe-pack.json](./156113-world-of-warships-huanghe-pack.json) |
