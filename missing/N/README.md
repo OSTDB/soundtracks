@@ -220,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanos | 90597 | [90597-nanos.json](./90597-nanos.json) |
 | Nanos World | 152927 | [152927-nanos-world.json](./152927-nanos-world.json) |
 | Nanosaur Extreme! | 57658 | [57658-nanosaur-extreme.json](./57658-nanosaur-extreme.json) |
+| Nanosaur II: Hatchling | 63257 | [63257-nanosaur-ii-hatchling.json](./63257-nanosaur-ii-hatchling.json) |
 | Nanospace | 27661 | [27661-nanospace.json](./27661-nanospace.json) |
 | Nanostray 2 | 20992 | [20992-nanostray-2.json](./20992-nanostray-2.json) |
 | Nanoswarm | 110971 | [110971-nanoswarm.json](./110971-nanoswarm.json) |
@@ -2822,6 +2823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No-Snake Hotel | 198375 | [198375-no-snake-hotel.json](./198375-no-snake-hotel.json) |
 | No, Birdie, No! | 128640 | [128640-no-birdie-no.json](./128640-no-birdie-no.json) |
 | No, Human | 93503 | [93503-no-human.json](./93503-no-human.json) |
+| No, Thank You!!! | 60564 | [60564-no-thank-you.json](./60564-no-thank-you.json) |
 | No: Worse | 215625 | [215625-no-worse.json](./215625-no-worse.json) |
 | No.13 Shelter | 231853 | [231853-no-13-shelter.json](./231853-no-13-shelter.json) |
 | No1Left | 34283 | [34283-no1left.json](./34283-no1left.json) |
