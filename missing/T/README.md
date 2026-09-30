@@ -12036,6 +12036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Speed: Drag & Fast Racing | 88441 | [88441-top-speed-drag-and-fast-racing.json](./88441-top-speed-drag-and-fast-racing.json) |
 | Top Spin | 5234 | [5234-top-spin.json](./5234-top-spin.json) |
 | Top Spin 2 | 5235 | [5235-top-spin-2.json](./5235-top-spin-2.json) |
+| Top Steed | 414525 | [414525-top-steed.json](./414525-top-steed.json) |
 | Top Street Soccer | 102209 | [102209-top-street-soccer.json](./102209-top-street-soccer.json) |
 | Top Striker | 78967 | [78967-top-striker.json](./78967-top-striker.json) |
 | Top Torch | 114506 | [114506-top-torch.json](./114506-top-torch.json) |
