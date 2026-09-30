@@ -1261,6 +1261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BarGirls | 400463 | [400463-bargirls.json](./400463-bargirls.json) |
 | Bargue | 203903 | [203903-bargue.json](./203903-bargue.json) |
 | Barista | 347150 | [347150-barista.json](./347150-barista.json) |
+| Barista Life | 405001 | [405001-barista-life.json](./405001-barista-life.json) |
 | Barista: Take Away | 207533 | [207533-barista-take-away.json](./207533-barista-take-away.json) |
 | Bark Beat | 177443 | [177443-bark-beat.json](./177443-bark-beat.json) |
 | Bark Tank | 338194 | [338194-bark-tank.json](./338194-bark-tank.json) |
@@ -6738,6 +6739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brass Lament | 343277 | [343277-brass-lament.json](./343277-brass-lament.json) |
 | Brass Necessity | 292324 | [292324-brass-necessity.json](./292324-brass-necessity.json) |
 | Brass: Birmingham | 153870 | [153870-brass-birmingham.json](./153870-brass-birmingham.json) |
+| Brassfang | 405021 | [405021-brassfang.json](./405021-brassfang.json) |
 | Brassheart | 119650 | [119650-brassheart.json](./119650-brassheart.json) |
 | Brassica: A Marry Tale | 134660 | [134660-brassica-a-marry-tale.json](./134660-brassica-a-marry-tale.json) |
 | Brat | 14343 | [14343-brat.json](./14343-brat.json) |
