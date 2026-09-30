@@ -450,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laruaville 4 Christmas Match 3 Puzzle | 227874 | [227874-laruaville-4-christmas-match-3-puzzle.json](./227874-laruaville-4-christmas-match-3-puzzle.json) |
 | Laruaville 5 | 265602 | [265602-laruaville-5.json](./265602-laruaville-5.json) |
 | Laruaville 8 | 270079 | [270079-laruaville-8.json](./270079-laruaville-8.json) |
+| Larva Mortus | 15780 | [15780-larva-mortus.json](./15780-larva-mortus.json) |
 | Las Diablas Blackjack | 84187 | [84187-las-diablas-blackjack.json](./84187-las-diablas-blackjack.json) |
 | Las Gymkhanikas de Uli | 377290 | [377290-las-gymkhanikas-de-uli.json](./377290-las-gymkhanikas-de-uli.json) |
 | Las Vegas | 41423 | [41423-las-vegas.json](./41423-las-vegas.json) |
@@ -1123,6 +1124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legal Speed Racing | 90557 | [90557-legal-speed-racing.json](./90557-legal-speed-racing.json) |
 | Legally Distinct, Planetary Based, Suika Game Clone | 292091 | [292091-legally-distinct-planetary-based-suika-game-clone.json](./292091-legally-distinct-planetary-based-suika-game-clone.json) |
 | Leganda | 188675 | [188675-leganda.json](./188675-leganda.json) |
+| Legasista | 20881 | [20881-legasista.json](./20881-legasista.json) |
 | Legena: Union Tides | 34449 | [34449-legena-union-tides.json](./34449-legena-union-tides.json) |
 | Legend | 197955 | [197955-legend.json](./197955-legend.json) |
 | Legend | 81187 | [81187-legend.json](./81187-legend.json) |
@@ -3858,6 +3860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Losted Mind | 348256 | [348256-losted-mind.json](./348256-losted-mind.json) |
 | Lostgamer | 231504 | [231504-lostgamer.json](./231504-lostgamer.json) |
 | LostHero | 138248 | [138248-losthero.json](./138248-losthero.json) |
+| LostMagic | 20522 | [20522-lostmagic.json](./20522-lostmagic.json) |
 | LostWinds | 21486 | [21486-lostwinds.json](./21486-lostwinds.json) |
 | Lot Lizard | 294178 | [294178-lot-lizard.json](./294178-lot-lizard.json) |
 | Lot Lot | 40368 | [40368-lot-lot.json](./40368-lot-lot.json) |
