@@ -1133,6 +1133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Clan: Grandmastery | 395726 | [395726-immortal-clan-grandmastery.json](./395726-immortal-clan-grandmastery.json) |
 | Immortal Coil | 411722 | [411722-immortal-coil.json](./411722-immortal-coil.json) |
 | Immortal Conquest | 174830 | [174830-immortal-conquest.json](./174830-immortal-conquest.json) |
+| Immortal Defense | 17358 | [17358-immortal-defense.json](./17358-immortal-defense.json) |
 | Immortal Desire | 245535 | [245535-immortal-desire.json](./245535-immortal-desire.json) |
 | Immortal Desires: Book 3 | 327988 | [327988-immortal-desires-book-3.json](./327988-immortal-desires-book-3.json) |
 | Immortal Desires: Paths Not Taken | 327989 | [327989-immortal-desires-paths-not-taken.json](./327989-immortal-desires-paths-not-taken.json) |
@@ -1614,6 +1615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inertial Drift | 127770 | [127770-inertial-drift.json](./127770-inertial-drift.json) |
 | Inertial Drift: Twilight Rivals Edition | 203517 | [203517-inertial-drift-twilight-rivals-edition.json](./203517-inertial-drift-twilight-rivals-edition.json) |
 | Ines | 340925 | [340925-ines.json](./340925-ines.json) |
+| Inescapable | 17302 | [17302-inescapable.json](./17302-inescapable.json) |
 | Inescapable VR: Underground | 51571 | [51571-inescapable-vr-underground.json](./51571-inescapable-vr-underground.json) |
 | Inescapable: No Rules, No Rescue | 244764 | [244764-inescapable-no-rules-no-rescue.json](./244764-inescapable-no-rules-no-rescue.json) |
 | Ineth | 217280 | [217280-ineth.json](./217280-ineth.json) |
