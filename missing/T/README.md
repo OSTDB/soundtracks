@@ -4769,6 +4769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The God's Chain | 22787 | [22787-the-gods-chain.json](./22787-the-gods-chain.json) |
 | The Godbeast | 108299 | [108299-the-godbeast.json](./108299-the-godbeast.json) |
 | The Goddess Robbery | 307906 | [307906-the-goddess-robbery.json](./307906-the-goddess-robbery.json) |
+| The Goddess's Will | 391798 | [391798-the-goddesss-will.json](./391798-the-goddesss-will.json) |
 | The Godfather | 13068 | [13068-the-godfather.json](./13068-the-godfather.json) |
 | The Godfather Collection | 46724 | [46724-the-godfather-collection.json](./46724-the-godfather-collection.json) |
 | The Godfather II | 575 | [575-the-godfather-ii.json](./575-the-godfather-ii.json) |
@@ -12384,6 +12385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Rome II - Culture Pack: Pirates and Raiders | 53829 | [53829-total-war-rome-ii-culture-pack-pirates-and-raiders.json](./53829-total-war-rome-ii-culture-pack-pirates-and-raiders.json) |
 | Total War: Rome II - Hannibal at the Gates Campaign Pack | 167824 | [167824-total-war-rome-ii-hannibal-at-the-gates-campaign-pack.json](./167824-total-war-rome-ii-hannibal-at-the-gates-campaign-pack.json) |
 | Total War: Rome II - Imperator Augustus Campaign Pack | 167822 | [167822-total-war-rome-ii-imperator-augustus-campaign-pack.json](./167822-total-war-rome-ii-imperator-augustus-campaign-pack.json) |
+| Total War: Rome II - Ultimate Edition | 391794 | [391794-total-war-rome-ii-ultimate-edition.json](./391794-total-war-rome-ii-ultimate-edition.json) |
 | Total War: Rome II - Unit Pack: Daughters of Mars | 53827 | [53827-total-war-rome-ii-unit-pack-daughters-of-mars.json](./53827-total-war-rome-ii-unit-pack-daughters-of-mars.json) |
 | Total War: Shogun 2 | 432 | [432-total-war-shogun-2.json](./432-total-war-shogun-2.json) |
 | Total War: Shogun 2 - Blood Pack DLC | 83513 | [83513-total-war-shogun-2-blood-pack-dlc.json](./83513-total-war-shogun-2-blood-pack-dlc.json) |
@@ -13159,6 +13161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trade City | 257683 | [257683-trade-city.json](./257683-trade-city.json) |
 | Trade Conquest | 326281 | [326281-trade-conquest.json](./326281-trade-conquest.json) |
 | Trade Em Up: TCG Empire Shop | 324995 | [324995-trade-em-up-tcg-empire-shop.json](./324995-trade-em-up-tcg-empire-shop.json) |
+| Trade Empire | 391786 | [391786-trade-empire.json](./391786-trade-empire.json) |
 | Trade Empires | 70113 | [70113-trade-empires.json](./70113-trade-empires.json) |
 | Trade Mania 2 | 255047 | [255047-trade-mania-2.json](./255047-trade-mania-2.json) |
 | Trade Post Forest | 258986 | [258986-trade-post-forest.json](./258986-trade-post-forest.json) |
