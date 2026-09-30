@@ -1554,6 +1554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MapTap.gg | 400496 | [400496-maptap-gg.json](./400496-maptap-gg.json) |
 | Mapventure Story | 238587 | [238587-mapventure-story.json](./238587-mapventure-story.json) |
 | Maqiupai | 92993 | [92993-maqiupai.json](./92993-maqiupai.json) |
+| Mar | 405636 | [405636-mar.json](./405636-mar.json) |
 | Mär Heaven: Arm Fight Dream | 59398 | [59398-mar-heaven-arm-fight-dream.json](./59398-mar-heaven-arm-fight-dream.json) |
 | Mär Heaven: Karudea no Akuma | 353317 | [353317-mar-heaven-karudea-no-akuma.json](./353317-mar-heaven-karudea-no-akuma.json) |
 | Mar Koochooloo | 276719 | [276719-mar-koochooloo.json](./276719-mar-koochooloo.json) |
@@ -4135,6 +4136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mental Hospital III HD | 212783 | [212783-mental-hospital-iii-hd.json](./212783-mental-hospital-iii-hd.json) |
 | Mental Hospital IV | 292817 | [292817-mental-hospital-iv.json](./292817-mental-hospital-iv.json) |
 | Mental Hospital V | 200030 | [200030-mental-hospital-v.json](./200030-mental-hospital-v.json) |
+| Mental Medicine | 405680 | [405680-mental-medicine.json](./405680-mental-medicine.json) |
 | Mental Salvo | 311659 | [311659-mental-salvo.json](./311659-mental-salvo.json) |
 | Mental: The Dark Night | 236828 | [236828-mental-the-dark-night.json](./236828-mental-the-dark-night.json) |
 | Menticide | 329201 | [329201-menticide.json](./329201-menticide.json) |
@@ -5373,6 +5375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millie and Molly | 179661 | [179661-millie-and-molly.json](./179661-millie-and-molly.json) |
 | Millika Village | 101749 | [101749-millika-village.json](./101749-millika-village.json) |
 | Million Arthur: Arcana Blood | 44529 | [44529-million-arthur-arcana-blood.json](./44529-million-arthur-arcana-blood.json) |
+| Million Bouillon | 405630 | [405630-million-bouillon.json](./405630-million-bouillon.json) |
 | Million Dollar Password: 2009 Edition | 67397 | [67397-million-dollar-password-2009-edition.json](./67397-million-dollar-password-2009-edition.json) |
 | Million Dollar Quest | 175360 | [175360-million-dollar-quest.json](./175360-million-dollar-quest.json) |
 | Million Hits | 266898 | [266898-million-hits.json](./266898-million-hits.json) |
@@ -6399,6 +6402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MixMaster Online | 77363 | [77363-mixmaster-online.json](./77363-mixmaster-online.json) |
 | Mixmob: Racer 1 | 250916 | [250916-mixmob-racer-1.json](./250916-mixmob-racer-1.json) |
 | Mixology | 402922 | [402922-mixology.json](./402922-mixology.json) |
+| Mixology | 405647 | [405647-mixology.json](./405647-mixology.json) |
 | Mixolumia | 136536 | [136536-mixolumia.json](./136536-mixolumia.json) |
 | Mixtape Fever | 177004 | [177004-mixtape-fever.json](./177004-mixtape-fever.json) |
 | Mixups by POWGI | 118158 | [118158-mixups-by-powgi.json](./118158-mixups-by-powgi.json) |
@@ -9510,6 +9514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Pets: Maze | 195183 | [195183-my-pets-maze.json](./195183-my-pets-maze.json) |
 | My Pirate Husbandos | 320766 | [320766-my-pirate-husbandos.json](./320766-my-pirate-husbandos.json) |
 | My Pizza Story | 248101 | [248101-my-pizza-story.json](./248101-my-pizza-story.json) |
+| My Place Diary | 405652 | [405652-my-place-diary.json](./405652-my-place-diary.json) |
 | My Pleasure: Season 3 | 270975 | [270975-my-pleasure-season-3.json](./270975-my-pleasure-season-3.json) |
 | My Plushy Shift | 324875 | [324875-my-plushy-shift.json](./324875-my-plushy-shift.json) |
 | My Pokémon Ranch | 4563 | [4563-my-pokemon-ranch.json](./4563-my-pokemon-ranch.json) |
