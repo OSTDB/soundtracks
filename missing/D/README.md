@@ -924,6 +924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkest Fear 2: Grim Oak | 223005 | [223005-darkest-fear-2-grim-oak.json](./223005-darkest-fear-2-grim-oak.json) |
 | Darkest Fear 3: Nightmare | 223006 | [223006-darkest-fear-3-nightmare.json](./223006-darkest-fear-3-nightmare.json) |
 | Darkest Hour: A Hearts of Iron Game | 2012 | [2012-darkest-hour-a-hearts-of-iron-game.json](./2012-darkest-hour-a-hearts-of-iron-game.json) |
+| Darkest Hunters | 115409 | [115409-darkest-hunters.json](./115409-darkest-hunters.json) |
 | Darkest Light | 294127 | [294127-darkest-light.json](./294127-darkest-light.json) |
 | Darkest Moon | 132001 | [132001-darkest-moon.json](./132001-darkest-moon.json) |
 | Darkest of Days | 4219 | [4219-darkest-of-days.json](./4219-darkest-of-days.json) |
@@ -1762,6 +1763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeadlandVR | 102590 | [102590-deadlandvr.json](./102590-deadlandvr.json) |
 | Deadliest Catch: Alaskan Storm | 6962 | [6962-deadliest-catch-alaskan-storm.json](./6962-deadliest-catch-alaskan-storm.json) |
 | Deadliest Catch: Sea of Chaos | 20448 | [20448-deadliest-catch-sea-of-chaos.json](./20448-deadliest-catch-sea-of-chaos.json) |
+| Deadliest Catch: The Game | 111232 | [111232-deadliest-catch-the-game.json](./111232-deadliest-catch-the-game.json) |
 | Deadliest Demolition | 274747 | [274747-deadliest-demolition.json](./274747-deadliest-demolition.json) |
 | Deadliest Warrior: Ancient Combat | 20823 | [20823-deadliest-warrior-ancient-combat.json](./20823-deadliest-warrior-ancient-combat.json) |
 | Deadlight: Director's Cut | 19454 | [19454-deadlight-directors-cut.json](./19454-deadlight-directors-cut.json) |
@@ -2176,6 +2178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deck Defenders | 237317 | [237317-deck-defenders.json](./237317-deck-defenders.json) |
 | Deck Defense | 301427 | [301427-deck-defense.json](./301427-deck-defense.json) |
 | Deck Hunter | 106418 | [106418-deck-hunter.json](./106418-deck-hunter.json) |
+| Deck of Ashes | 114852 | [114852-deck-of-ashes.json](./114852-deck-of-ashes.json) |
 | Deck of Ashes: Complete Edition | 196816 | [196816-deck-of-ashes-complete-edition.json](./196816-deck-of-ashes-complete-edition.json) |
 | Deck of Ashes: Tome of Dimensions | 197665 | [197665-deck-of-ashes-tome-of-dimensions.json](./197665-deck-of-ashes-tome-of-dimensions.json) |
 | Deck of Bullets | 258462 | [258462-deck-of-bullets.json](./258462-deck-of-bullets.json) |
@@ -3365,6 +3368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Fantasia: Excalimurder | 274562 | [274562-detective-fantasia-excalimurder.json](./274562-detective-fantasia-excalimurder.json) |
 | Detective Firefly | 348257 | [348257-detective-firefly.json](./348257-detective-firefly.json) |
 | Detective Frizbee | 332250 | [332250-detective-frizbee.json](./332250-detective-frizbee.json) |
+| Detective Girl of the Steam City | 114576 | [114576-detective-girl-of-the-steam-city.json](./114576-detective-girl-of-the-steam-city.json) |
 | Detective Hayseed: Hollywood | 26992 | [26992-detective-hayseed-hollywood.json](./26992-detective-hayseed-hollywood.json) |
 | Detective Hayseed: The Cloning Madness | 277025 | [277025-detective-hayseed-the-cloning-madness.json](./277025-detective-hayseed-the-cloning-madness.json) |
 | Detective Hindsight | 367971 | [367971-detective-hindsight.json](./367971-detective-hindsight.json) |
@@ -3851,6 +3855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diego Balls | 343830 | [343830-diego-balls.json](./343830-diego-balls.json) |
 | Diep.io | 19341 | [19341-diep-io.json](./19341-diep-io.json) |
 | DieRoll | 88263 | [88263-dieroll.json](./88263-dieroll.json) |
+| Dies Irae: Interview with Kaziklu Bey | 115243 | [115243-dies-irae-interview-with-kaziklu-bey.json](./115243-dies-irae-interview-with-kaziklu-bey.json) |
 | Dies Mortis | 185163 | [185163-dies-mortis.json](./185163-dies-mortis.json) |
 | Diesel Brothers: Truck Building Simulator Editor | 152910 | [152910-diesel-brothers-truck-building-simulator-editor.json](./152910-diesel-brothers-truck-building-simulator-editor.json) |
 | Diesel Burners | 277855 | [277855-diesel-burners.json](./277855-diesel-burners.json) |
@@ -5212,6 +5217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dojo Corridor | 147350 | [147350-dojo-corridor.json](./147350-dojo-corridor.json) |
 | Doka 2 Trade | 126439 | [126439-doka-2-trade.json](./126439-doka-2-trade.json) |
 | Doka 2: Guts Out Ninja | 114386 | [114386-doka-2-guts-out-ninja.json](./114386-doka-2-guts-out-ninja.json) |
+| Doka 2: Kishki Edition | 111387 | [111387-doka-2-kishki-edition.json](./111387-doka-2-kishki-edition.json) |
 | Doka-chan no Onigokko | 234039 | [234039-doka-chan-no-onigokko.json](./234039-doka-chan-no-onigokko.json) |
 | Dokapon | 79598 | [79598-dokapon.json](./79598-dokapon.json) |
 | Dokapon Kingdom: Connect | 234349 | [234349-dokapon-kingdom-connect.json](./234349-dokapon-kingdom-connect.json) |
