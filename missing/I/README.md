@@ -1276,6 +1276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impresja | 47992 | [47992-impresja.json](./47992-impresja.json) |
 | Impressions | 128996 | [128996-impressions.json](./128996-impressions.json) |
 | Imprint | 397650 | [397650-imprint.json](./397650-imprint.json) |
+| imprint-X | 27307 | [27307-imprint-x.json](./27307-imprint-x.json) |
 | Imprisoned | 327391 | [327391-imprisoned.json](./327391-imprisoned.json) |
 | Imprisoned Queen | 156540 | [156540-imprisoned-queen.json](./156540-imprisoned-queen.json) |
 | Improbability | 311485 | [311485-improbability.json](./311485-improbability.json) |
@@ -2042,6 +2043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Innsmouth Corporate Plaza | 276476 | [276476-innsmouth-corporate-plaza.json](./276476-innsmouth-corporate-plaza.json) |
 | Innsmouth Nightmare | 311255 | [311255-innsmouth-nightmare.json](./311255-innsmouth-nightmare.json) |
 | Innyume | 223033 | [223033-innyume.json](./223033-innyume.json) |
+| Ino | 27691 | [27691-ino.json](./27691-ino.json) |
 | Inokan | 179525 | [179525-inokan.json](./179525-inokan.json) |
 | InoLab Trials | 320326 | [320326-inolab-trials.json](./320326-inolab-trials.json) |
 | Inops | 114177 | [114177-inops.json](./114177-inops.json) |
