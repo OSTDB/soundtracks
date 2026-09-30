@@ -923,6 +923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garfield's Nightmare | 67853 | [67853-garfields-nightmare.json](./67853-garfields-nightmare.json) |
 | Garfield's Scary Scavenger Hunt | 124418 | [124418-garfields-scary-scavenger-hunt.json](./124418-garfields-scary-scavenger-hunt.json) |
 | Garfield's Wild Ride | 25163 | [25163-garfields-wild-ride.json](./25163-garfields-wild-ride.json) |
+| Gargadusa's Tower | 392361 | [392361-gargadusas-tower.json](./392361-gargadusas-tower.json) |
 | Gargantua | 80241 | [80241-gargantua.json](./80241-gargantua.json) |
 | Gargolite | 183507 | [183507-gargolite.json](./183507-gargolite.json) |
 | Gargoyle Garden | 386883 | [386883-gargoyle-garden.json](./386883-gargoyle-garden.json) |
@@ -2096,6 +2097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girlfriend Note | 58812 | [58812-girlfriend-note.json](./58812-girlfriend-note.json) |
 | Girlfriend Rescue | 10364 | [10364-girlfriend-rescue.json](./10364-girlfriend-rescue.json) |
 | Girlfriend Simulator | 379587 | [379587-girlfriend-simulator.json](./379587-girlfriend-simulator.json) |
+| Girlfriend Strip Blackjack | 392400 | [392400-girlfriend-strip-blackjack.json](./392400-girlfriend-strip-blackjack.json) |
 | GirlFriend VR | 368116 | [368116-girlfriend-vr.json](./368116-girlfriend-vr.json) |
 | Girlfriend's Betrayal | 251518 | [251518-girlfriends-betrayal.json](./251518-girlfriends-betrayal.json) |
 | Girlfriend's sister | 75784 | [75784-girlfriends-sister.json](./75784-girlfriends-sister.json) |
