@@ -723,6 +723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Games for Toddlers 2 | 147977 | [147977-games-for-toddlers-2.json](./147977-games-for-toddlers-2.json) |
 | Games Galaxy 2 | 66946 | [66946-games-galaxy-2.json](./66946-games-galaxy-2.json) |
 | Games Interactive 2 | 96506 | [96506-games-interactive-2.json](./96506-games-interactive-2.json) |
+| Games of Rome | 391815 | [391815-games-of-rome.json](./391815-games-of-rome.json) |
 | Gametrak: Dark Wind | 72072 | [72072-gametrak-dark-wind.json](./72072-gametrak-dark-wind.json) |
 | Gaminator | 360982 | [360982-gaminator.json](./360982-gaminator.json) |
 | Gaming Burnout Treatment Center | 408063 | [408063-gaming-burnout-treatment-center.json](./408063-gaming-burnout-treatment-center.json) |
@@ -1842,6 +1843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GhostCatcher | 257961 | [257961-ghostcatcher.json](./257961-ghostcatcher.json) |
 | Ghostcon: Elementals | 247773 | [247773-ghostcon-elementals.json](./247773-ghostcon-elementals.json) |
 | Ghosted | 418760 | [418760-ghosted.json](./418760-ghosted.json) |
+| Ghostforged | 391808 | [391808-ghostforged.json](./391808-ghostforged.json) |
 | Ghosth | 179747 | [179747-ghosth.json](./179747-ghosth.json) |
 | Ghosthero: Shadow of Vengeance | 295845 | [295845-ghosthero-shadow-of-vengeance.json](./295845-ghosthero-shadow-of-vengeance.json) |
 | GhostHunt With Triggered Insaan | 289316 | [289316-ghosthunt-with-triggered-insaan.json](./289316-ghosthunt-with-triggered-insaan.json) |
@@ -4239,6 +4241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grille Logic | 286580 | [286580-grille-logic.json](./286580-grille-logic.json) |
 | Grim | 196319 | [196319-grim.json](./196319-grim.json) |
 | Grim | 379863 | [379863-grim.json](./379863-grim.json) |
+| Grim | 391785 | [391785-grim.json](./391785-grim.json) |
 | Grim Borough | 297238 | [297238-grim-borough.json](./297238-grim-borough.json) |
 | Grim Chronicles: Superior Sorcery | 416700 | [416700-grim-chronicles-superior-sorcery.json](./416700-grim-chronicles-superior-sorcery.json) |
 | Grim Dice | 401023 | [401023-grim-dice.json](./401023-grim-dice.json) |
