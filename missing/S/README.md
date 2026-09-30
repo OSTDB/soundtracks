@@ -2770,6 +2770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Server is Down | 138751 | [138751-server-is-down.json](./138751-server-is-down.json) |
 | Server Owner Tycoon | 211176 | [211176-server-owner-tycoon.json](./211176-server-owner-tycoon.json) |
 | Service of Five Graces | 395046 | [395046-service-of-five-graces.json](./395046-service-of-five-graces.json) |
+| ServiceIT: Microcontroller DLC | 403116 | [403116-serviceit-microcontroller-dlc.json](./403116-serviceit-microcontroller-dlc.json) |
 | Sesame Street | 85858 | [85858-sesame-street.json](./85858-sesame-street.json) |
 | Sesame Street A B C | 70103 | [70103-sesame-street-a-b-c.json](./70103-sesame-street-a-b-c.json) |
 | Sesame Street Beat | 220108 | [220108-sesame-street-beat.json](./220108-sesame-street-beat.json) |
@@ -6059,6 +6060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slasher Lock | 184593 | [184593-slasher-lock.json](./184593-slasher-lock.json) |
 | Slasher: Origins | 319761 | [319761-slasher-origins.json](./319761-slasher-origins.json) |
 | SlasherRPG | 224515 | [224515-slasherrpg.json](./224515-slasherrpg.json) |
+| Slashing Knight | 403053 | [403053-slashing-knight.json](./403053-slashing-knight.json) |
 | Slashing Night | 340365 | [340365-slashing-night.json](./340365-slashing-night.json) |
 | Slashing Samurai | 181779 | [181779-slashing-samurai.json](./181779-slashing-samurai.json) |
 | Slashout | 39792 | [39792-slashout.json](./39792-slashout.json) |
@@ -6364,6 +6366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slimey Climbey Chambers | 314462 | [314462-slimey-climbey-chambers.json](./314462-slimey-climbey-chambers.json) |
 | Slimey, Jump! | 144787 | [144787-slimey-jump.json](./144787-slimey-jump.json) |
 | Slimoid | 185608 | [185608-slimoid.json](./185608-slimoid.json) |
+| Slimper | 403079 | [403079-slimper.json](./403079-slimper.json) |
 | Slimy | 181321 | [181321-slimy.json](./181321-slimy.json) |
 | Slimy Pete's Singles Bar | 73336 | [73336-slimy-petes-singles-bar.json](./73336-slimy-petes-singles-bar.json) |
 | Slimy Snail Ride | 106571 | [106571-slimy-snail-ride.json](./106571-slimy-snail-ride.json) |
@@ -10067,6 +10070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man | 248203 | [248203-spider-man.json](./248203-spider-man.json) |
 | Spider-Man | 363917 | [363917-spider-man.json](./363917-spider-man.json) |
 | Spider-Man | 363918 | [363918-spider-man.json](./363918-spider-man.json) |
+| Spider-Man | 403060 | [403060-spider-man.json](./403060-spider-man.json) |
 | Spider-Man | 4500 | [4500-spider-man.json](./4500-spider-man.json) |
 | Spider-Man | 80483 | [80483-spider-man.json](./80483-spider-man.json) |
 | Spider-Man / X-Men: Arcade's Redux | 219274 | [219274-spider-man-x-men-arcades-redux.json](./219274-spider-man-x-men-arcades-redux.json) |
@@ -12437,6 +12441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick man Flipper | 112742 | [112742-stick-man-flipper.json](./112742-stick-man-flipper.json) |
 | Stick Man Rescue | 44501 | [44501-stick-man-rescue.json](./44501-stick-man-rescue.json) |
 | Stick Mountain | 412503 | [412503-stick-mountain.json](./412503-stick-mountain.json) |
+| Stick N' Sheep | 403072 | [403072-stick-n-sheep.json](./403072-stick-n-sheep.json) |
 | Stick Nightmare | 41971 | [41971-stick-nightmare.json](./41971-stick-nightmare.json) |
 | Stick Ninja | 122154 | [122154-stick-ninja.json](./122154-stick-ninja.json) |
 | Stick or Stone? | 176457 | [176457-stick-or-stone.json](./176457-stick-or-stone.json) |
@@ -15008,6 +15013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Market | 320533 | [320533-super-market.json](./320533-super-market.json) |
 | Super Markup Man | 32037 | [32037-super-markup-man.json](./32037-super-markup-man.json) |
 | Super Marlin Bros | 294279 | [294279-super-marlin-bros.json](./294279-super-marlin-bros.json) |
+| Super Marshmallow Kingdom | 403108 | [403108-super-marshmallow-kingdom.json](./403108-super-marshmallow-kingdom.json) |
 | Super Masao 2 | 165061 | [165061-super-masao-2.json](./165061-super-masao-2.json) |
 | Super Maura Bros. 3 | 267386 | [267386-super-maura-bros-3.json](./267386-super-maura-bros-3.json) |
 | Super Mayhem 17 | 269128 | [269128-super-mayhem-17.json](./269128-super-mayhem-17.json) |
@@ -15566,6 +15572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Voxel World | 176443 | [176443-super-voxel-world.json](./176443-super-voxel-world.json) |
 | Super VR Trainer | 31907 | [31907-super-vr-trainer.json](./31907-super-vr-trainer.json) |
 | Super Wagyan Land | 42539 | [42539-super-wagyan-land.json](./42539-super-wagyan-land.json) |
+| Super Waifu Tsunami | 403083 | [403083-super-waifu-tsunami.json](./403083-super-waifu-tsunami.json) |
 | Super Wakana Land | 275567 | [275567-super-wakana-land.json](./275567-super-wakana-land.json) |
 | Super Walrus Entertainment System | 156630 | [156630-super-walrus-entertainment-system.json](./156630-super-walrus-entertainment-system.json) |
 | Super Wash Simulator | 391040 | [391040-super-wash-simulator.json](./391040-super-wash-simulator.json) |
@@ -16382,6 +16389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swell | 262974 | [262974-swell.json](./262974-swell.json) |
 | Swelldone | 280900 | [280900-swelldone.json](./280900-swelldone.json) |
 | Swervle | 413686 | [413686-swervle.json](./413686-swervle.json) |
+| Swevens | 403124 | [403124-swevens.json](./403124-swevens.json) |
 | Swibble Dibble | 69913 | [69913-swibble-dibble.json](./69913-swibble-dibble.json) |
 | Swift Attack | 195481 | [195481-swift-attack.json](./195481-swift-attack.json) |
 | Swift Blocks | 26892 | [26892-swift-blocks.json](./26892-swift-blocks.json) |
