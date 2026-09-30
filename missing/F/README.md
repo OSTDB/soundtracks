@@ -5165,6 +5165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frank's Adventure 3 | 212740 | [212740-franks-adventure-3.json](./212740-franks-adventure-3.json) |
 | Frank's Adventure 4 | 212742 | [212742-franks-adventure-4.json](./212742-franks-adventure-4.json) |
 | Franken Girl | 208014 | [208014-franken-girl.json](./208014-franken-girl.json) |
+| FrankenSketch | 413808 | [413808-frankensketch.json](./413808-frankensketch.json) |
 | Frankenstein | 37191 | [37191-frankenstein.json](./37191-frankenstein.json) |
 | Frankenstein 2000 | 57169 | [57169-frankenstein-2000.json](./57169-frankenstein-2000.json) |
 | Frankenstein: Beyond the Time | 103752 | [103752-frankenstein-beyond-the-time.json](./103752-frankenstein-beyond-the-time.json) |
