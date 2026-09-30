@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Guard Walks Into a Tavern | 148906 | [148906-a-guard-walks-into-a-tavern.json](./148906-a-guard-walks-into-a-tavern.json) |
 | A Guardian's Wish | 225564 | [225564-a-guardians-wish.json](./225564-a-guardians-wish.json) |
 | A Guidebook of Babel | 149085 | [149085-a-guidebook-of-babel.json](./149085-a-guidebook-of-babel.json) |
+| A Gummy's Life | 29662 | [29662-a-gummys-life.json](./29662-a-gummys-life.json) |
 | A Gunshot in Room 37 | 311660 | [311660-a-gunshot-in-room-37.json](./311660-a-gunshot-in-room-37.json) |
 | A Gypsy's Tale: The Tower of Secrets | 109193 | [109193-a-gypsys-tale-the-tower-of-secrets.json](./109193-a-gypsys-tale-the-tower-of-secrets.json) |
 | A Hand in the Darkness | 28800 | [28800-a-hand-in-the-darkness.json](./28800-a-hand-in-the-darkness.json) |
@@ -576,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-Ressha de Ikou DS | 98272 | [98272-a-ressha-de-ikou-ds.json](./98272-a-ressha-de-ikou-ds.json) |
 | A-Ressha de Ikou: The 21st Century | 9999 | [9999-a-ressha-de-ikou-the-21st-century.json](./9999-a-ressha-de-ikou-the-21st-century.json) |
 | A-Sock-Ellipse Now! | 70077 | [70077-a-sock-ellipse-now.json](./70077-a-sock-ellipse-now.json) |
+| A-Tech Cybernetic | 29806 | [29806-a-tech-cybernetic.json](./29806-a-tech-cybernetic.json) |
 | A-Train 9 Evolution | 388239 | [388239-a-train-9-evolution.json](./388239-a-train-9-evolution.json) |
 | A-Train 9 V3.0: Railway Simulator | 52560 | [52560-a-train-9-v3-0-railway-simulator.json](./52560-a-train-9-v3-0-railway-simulator.json) |
 | A-Train 9 V4.0: Japan Rail Simulator - Mega Japan Train Pack | 171908 | [171908-a-train-9-v4-0-japan-rail-simulator-mega-japan-train-pack.json](./171908-a-train-9-v4-0-japan-rail-simulator-mega-japan-train-pack.json) |
@@ -1654,6 +1656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Conquest IV | 36268 | [36268-age-of-conquest-iv.json](./36268-age-of-conquest-iv.json) |
 | Age of Darkness: Die Suche nach Relict | 118291 | [118291-age-of-darkness-die-suche-nach-relict.json](./118291-age-of-darkness-die-suche-nach-relict.json) |
 | Age of Darkness: Final Stand | 159424 | [159424-age-of-darkness-final-stand.json](./159424-age-of-darkness-final-stand.json) |
+| Age of Defense | 29247 | [29247-age-of-defense.json](./29247-age-of-defense.json) |
 | Age of Defense 3 | 327421 | [327421-age-of-defense-3.json](./327421-age-of-defense-3.json) |
 | Age of Defense: Prehistory | 309860 | [309860-age-of-defense-prehistory.json](./309860-age-of-defense-prehistory.json) |
 | Age of Emerald | 132173 | [132173-age-of-emerald.json](./132173-age-of-emerald.json) |
@@ -2575,6 +2578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice's Wonderland 6: Fire and Ice - Collector's Edition | 337269 | [337269-alices-wonderland-6-fire-and-ice-collectors-edition.json](./337269-alices-wonderland-6-fire-and-ice-collectors-edition.json) |
 | Alice's Wonderland 7: Sugar Rush - Collector's Edition | 337266 | [337266-alices-wonderland-7-sugar-rush-collectors-edition.json](./337266-alices-wonderland-7-sugar-rush-collectors-edition.json) |
 | Alice's Wonderland: Cast in Shadow | 296067 | [296067-alices-wonderland-cast-in-shadow.json](./296067-alices-wonderland-cast-in-shadow.json) |
+| Alicia Griffith: Lakeside Murder | 30050 | [30050-alicia-griffith-lakeside-murder.json](./30050-alicia-griffith-lakeside-murder.json) |
 | Alicia Online | 60233 | [60233-alicia-online.json](./60233-alicia-online.json) |
 | Alicia Quatermain 2: The Stone of Fate | 104740 | [104740-alicia-quatermain-2-the-stone-of-fate.json](./104740-alicia-quatermain-2-the-stone-of-fate.json) |
 | Alicia Quatermain 3: The Mystery of the Flaming Gold | 113180 | [113180-alicia-quatermain-3-the-mystery-of-the-flaming-gold.json](./113180-alicia-quatermain-3-the-mystery-of-the-flaming-gold.json) |
@@ -4188,6 +4192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animalia Survival | 167832 | [167832-animalia-survival.json](./167832-animalia-survival.json) |
 | Animalia Survival: Haloween Pack | 263051 | [263051-animalia-survival-haloween-pack.json](./263051-animalia-survival-haloween-pack.json) |
 | Animalia: The Quiz Game | 68752 | [68752-animalia-the-quiz-game.json](./68752-animalia-the-quiz-game.json) |
+| Animality | 29914 | [29914-animality.json](./29914-animality.json) |
 | Animallica | 43361 | [43361-animallica.json](./43361-animallica.json) |
 | Animaloid Girl | 263199 | [263199-animaloid-girl.json](./263199-animaloid-girl.json) |
 | Animalon: Epic Monsters Battle | 355120 | [355120-animalon-epic-monsters-battle.json](./355120-animalon-epic-monsters-battle.json) |
@@ -5416,6 +5421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Path | 339643 | [339643-arcane-path.json](./339643-arcane-path.json) |
 | Arcane Pets: Plushie Empire | 256545 | [256545-arcane-pets-plushie-empire.json](./256545-arcane-pets-plushie-empire.json) |
 | Arcane Plunder | 373538 | [373538-arcane-plunder.json](./373538-arcane-plunder.json) |
+| Arcane PreRaise | 29259 | [29259-arcane-preraise.json](./29259-arcane-preraise.json) |
 | Arcane Quest | 321495 | [321495-arcane-quest.json](./321495-arcane-quest.json) |
 | Arcane Quest 2 | 129597 | [129597-arcane-quest-2.json](./129597-arcane-quest-2.json) |
 | Arcane Quest 3 | 129599 | [129599-arcane-quest-3.json](./129599-arcane-quest-3.json) |
@@ -5424,6 +5430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Quest HD | 129598 | [129598-arcane-quest-hd.json](./129598-arcane-quest-hd.json) |
 | Arcane Quest Legends | 129600 | [129600-arcane-quest-legends.json](./129600-arcane-quest-legends.json) |
 | Arcane Raise: Deluxe Edition | 52595 | [52595-arcane-raise-deluxe-edition.json](./52595-arcane-raise-deluxe-edition.json) |
+| Arcane Re-Raise | 29258 | [29258-arcane-re-raise.json](./29258-arcane-re-raise.json) |
 | Arcane ReRaise: Deluxe Edition | 52594 | [52594-arcane-reraise-deluxe-edition.json](./52594-arcane-reraise-deluxe-edition.json) |
 | Arcane Rift | 370766 | [370766-arcane-rift.json](./370766-arcane-rift.json) |
 | Arcane Rings | 352167 | [352167-arcane-rings.json](./352167-arcane-rings.json) |
@@ -5846,6 +5853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ARMA: Armed Assault | 15626 | [15626-arma-armed-assault.json](./15626-arma-armed-assault.json) |
 | Armada | 163191 | [163191-armada.json](./163191-armada.json) |
 | Armada | 85501 | [85501-armada.json](./85501-armada.json) |
+| Armada 2526: Gold Edition | 30223 | [30223-armada-2526-gold-edition.json](./30223-armada-2526-gold-edition.json) |
 | Armada Fighters | 415284 | [415284-armada-fighters.json](./415284-armada-fighters.json) |
 | Armada Skies | 82474 | [82474-armada-skies.json](./82474-armada-skies.json) |
 | Armada: Modern Tanks | 69355 | [69355-armada-modern-tanks.json](./69355-armada-modern-tanks.json) |
@@ -6143,6 +6151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arthur's Thinking Games | 186061 | [186061-arthurs-thinking-games.json](./186061-arthurs-thinking-games.json) |
 | Arthurian Legends | 14444 | [14444-arthurian-legends.json](./14444-arthurian-legends.json) |
 | Artifact | 79826 | [79826-artifact.json](./79826-artifact.json) |
+| Artifact Adventure | 26468 | [26468-artifact-adventure.json](./26468-artifact-adventure.json) |
 | Artifact Adventure Gaiden DX | 119527 | [119527-artifact-adventure-gaiden-dx.json](./119527-artifact-adventure-gaiden-dx.json) |
 | Artifact Hunter | 156036 | [156036-artifact-hunter.json](./156036-artifact-hunter.json) |
 | Artifact Red-X | 63365 | [63365-artifact-red-x.json](./63365-artifact-red-x.json) |
