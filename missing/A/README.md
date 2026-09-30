@@ -1825,6 +1825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agora | 357804 | [357804-agora.json](./357804-agora.json) |
 | AGOS: A Game of Space | 138768 | [138768-agos-a-game-of-space.json](./138768-agos-a-game-of-space.json) |
 | Agraelus, Wanna be MaN | 141737 | [141737-agraelus-wanna-be-man.json](./141737-agraelus-wanna-be-man.json) |
+| Agraria | 403059 | [403059-agraria.json](./403059-agraria.json) |
 | Agrarian developer | 283883 | [283883-agrarian-developer.json](./283883-agrarian-developer.json) |
 | AgrChamp | 240748 | [240748-agrchamp.json](./240748-agrchamp.json) |
 | Agricola | 88316 | [88316-agricola.json](./88316-agricola.json) |
@@ -5664,6 +5665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Architecture Zeitgeist | 249770 | [249770-architecture-zeitgeist.json](./249770-architecture-zeitgeist.json) |
 | Archive 1985 | 276249 | [276249-archive-1985.json](./276249-archive-1985.json) |
 | Archiver | 362909 | [362909-archiver.json](./362909-archiver.json) |
+| Archivist: Tidy Up & Sort | 403093 | [403093-archivist-tidy-up-and-sort.json](./403093-archivist-tidy-up-and-sort.json) |
 | ArchLord | 20598 | [20598-archlord.json](./20598-archlord.json) |
 | Archmage Idle | 409719 | [409719-archmage-idle.json](./409719-archmage-idle.json) |
 | Archmage Ricka | 211440 | [211440-archmage-ricka.json](./211440-archmage-ricka.json) |
@@ -6917,6 +6919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astranded | 379990 | [379990-astranded.json](./379990-astranded.json) |
 | Astraware Casino | 206235 | [206235-astraware-casino.json](./206235-astraware-casino.json) |
 | Astrd | 173245 | [173245-astrd.json](./173245-astrd.json) |
+| Astreia's Gift | 403054 | [403054-astreias-gift.json](./403054-astreias-gift.json) |
 | Astrela Starlight | 107914 | [107914-astrela-starlight.json](./107914-astrela-starlight.json) |
 | Astria | 169971 | [169971-astria.json](./169971-astria.json) |
 | Astria | 292588 | [292588-astria.json](./292588-astria.json) |
