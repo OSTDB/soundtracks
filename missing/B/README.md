@@ -1030,6 +1030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbarian Brawl | 10021 | [10021-barbarian-brawl.json](./10021-barbarian-brawl.json) |
 | Barbarian Legend | 153902 | [153902-barbarian-legend.json](./153902-barbarian-legend.json) |
 | Barbarian Simulator | 157718 | [157718-barbarian-simulator.json](./157718-barbarian-simulator.json) |
+| Barbarian Souls | 81793 | [81793-barbarian-souls.json](./81793-barbarian-souls.json) |
 | Barbarian Trash | 110827 | [110827-barbarian-trash.json](./110827-barbarian-trash.json) |
 | Barbarians & Beasts | 277971 | [277971-barbarians-and-beasts.json](./277971-barbarians-and-beasts.json) |
 | Barbarium | 200559 | [200559-barbarium.json](./200559-barbarium.json) |
@@ -4766,6 +4767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Craft 3D: City Building | 86995 | [86995-block-craft-3d-city-building.json](./86995-block-craft-3d-city-building.json) |
 | Block Dodge Challenge | 121584 | [121584-block-dodge-challenge.json](./121584-block-dodge-challenge.json) |
 | Block Droppin Blitz | 362335 | [362335-block-droppin-blitz.json](./362335-block-droppin-blitz.json) |
+| Block Factory | 79670 | [79670-block-factory.json](./79670-block-factory.json) |
 | Block Fight | 201553 | [201553-block-fight.json](./201553-block-fight.json) |
 | Block Five | 71613 | [71613-block-five.json](./71613-block-five.json) |
 | Block Force | 247454 | [247454-block-force.json](./247454-block-force.json) |
@@ -4845,6 +4847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockchain Brawlers | 225754 | [225754-blockchain-brawlers.json](./225754-blockchain-brawlers.json) |
 | BlockDoc | 111172 | [111172-blockdoc.json](./111172-blockdoc.json) |
 | Blockdown | 157204 | [157204-blockdown.json](./157204-blockdown.json) |
+| Blocked and Loaded | 81890 | [81890-blocked-and-loaded.json](./81890-blocked-and-loaded.json) |
 | Blocked Up | 183897 | [183897-blocked-up.json](./183897-blocked-up.json) |
 | Blocked Zona | 200565 | [200565-blocked-zona.json](./200565-blocked-zona.json) |
 | Blocker | 15678 | [15678-blocker.json](./15678-blocker.json) |
