@@ -2667,6 +2667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire | 152137 | [152137-fire.json](./152137-fire.json) |
 | Fire 'n Ice | 48671 | [48671-fire-n-ice.json](./48671-fire-n-ice.json) |
 | Fire & Brimstone | 336714 | [336714-fire-and-brimstone.json](./336714-fire-and-brimstone.json) |
+| Fire & Crown: A Romantic Tale of the Hundred Years' War | 390761 | [390761-fire-and-crown-a-romantic-tale-of-the-hundred-years-war.json](./390761-fire-and-crown-a-romantic-tale-of-the-hundred-years-war.json) |
 | Fire & Ice: The Daring Adventures of Cool Coyote | 12099 | [12099-fire-and-ice-the-daring-adventures-of-cool-coyote.json](./12099-fire-and-ice-the-daring-adventures-of-cool-coyote.json) |
 | Fire & Water | 147997 | [147997-fire-and-water.json](./147997-fire-and-water.json) |
 | Fire All Humans | 211134 | [211134-fire-all-humans.json](./211134-fire-all-humans.json) |
@@ -5996,6 +5997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fubuki: Zero in on Holoearth | 331530 | [331530-fubuki-zero-in-on-holoearth.json](./331530-fubuki-zero-in-on-holoearth.json) |
 | Fùchóuzhě Liánméng: Zhōngjí Yīngxióng | 82052 | [82052-fuchouzhe-lianmeng-zhongji-yingxiong.json](./82052-fuchouzhe-lianmeng-zhongji-yingxiong.json) |
 | Fuchsia: a Point-and-Click Adventure | 139869 | [139869-fuchsia-a-point-and-click-adventure.json](./139869-fuchsia-a-point-and-click-adventure.json) |
+| Fuck AI | 390722 | [390722-fuck-ai.json](./390722-fuck-ai.json) |
 | Fuck Fest | 346687 | [346687-fuck-fest.json](./346687-fuck-fest.json) |
 | Fuck Hitler | 225607 | [225607-fuck-hitler.json](./225607-fuck-hitler.json) |
 | Fuck Paper Scissors | 344382 | [344382-fuck-paper-scissors.json](./344382-fuck-paper-scissors.json) |
