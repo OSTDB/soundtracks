@@ -1890,6 +1890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Rope: Don't Fall Behind | 21633 | [21633-red-rope-dont-fall-behind.json](./21633-red-rope-dont-fall-behind.json) |
 | Red Rope: Don't Fall Behind + | 147950 | [147950-red-rope-dont-fall-behind.json](./147950-red-rope-dont-fall-behind.json) |
 | Red Rose Rising | 102202 | [102202-red-rose-rising.json](./102202-red-rose-rising.json) |
+| Red Rover | 103255 | [103255-red-rover.json](./103255-red-rover.json) |
 | Red Ruin | 120826 | [120826-red-ruin.json](./120826-red-ruin.json) |
 | Red Rust Pioneers | 349941 | [349941-red-rust-pioneers.json](./349941-red-rust-pioneers.json) |
 | Red Sea | 223032 | [223032-red-sea.json](./223032-red-sea.json) |
@@ -3279,6 +3280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Richman Fight | 75132 | [75132-richman-fight.json](./75132-richman-fight.json) |
 | Richman Online | 125441 | [125441-richman-online.json](./125441-richman-online.json) |
 | Richup.io | 141249 | [141249-richup-io.json](./141249-richup-io.json) |
+| Richy's Nightmares | 104955 | [104955-richys-nightmares.json](./104955-richys-nightmares.json) |
 | Rick and Josh adventures | 195620 | [195620-rick-and-josh-adventures.json](./195620-rick-and-josh-adventures.json) |
 | Rick and Morty Game | 307573 | [307573-rick-and-morty-game.json](./307573-rick-and-morty-game.json) |
 | Rick and Morty Presents: Jerry's Game | 74299 | [74299-rick-and-morty-presents-jerrys-game.json](./74299-rick-and-morty-presents-jerrys-game.json) |
@@ -4914,6 +4916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Gunner Over Power | 142846 | [142846-rolling-gunner-over-power.json](./142846-rolling-gunner-over-power.json) |
 | Rolling Hero | 404338 | [404338-rolling-hero.json](./404338-rolling-hero.json) |
 | Rolling in the Maze | 286498 | [286498-rolling-in-the-maze.json](./286498-rolling-in-the-maze.json) |
+| Rolling in the Reef | 104908 | [104908-rolling-in-the-reef.json](./104908-rolling-in-the-reef.json) |
 | Rolling Lee | 303040 | [303040-rolling-lee.json](./303040-rolling-lee.json) |
 | Rolling Macho: Tumbling to Earth | 330148 | [330148-rolling-macho-tumbling-to-earth.json](./330148-rolling-macho-tumbling-to-earth.json) |
 | Rolling Over It | 191834 | [191834-rolling-over-it.json](./191834-rolling-over-it.json) |
@@ -5014,6 +5017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance of the Three Kingdoms XIV: Legend of the Galactic Heroes Collab - Reinhard & Yang | 164500 | [164500-romance-of-the-three-kingdoms-xiv-legend-of-the-galactic-heroes-collab-reinhard-and-yang.json](./164500-romance-of-the-three-kingdoms-xiv-legend-of-the-galactic-heroes-collab-reinhard-and-yang.json) |
 | Romancelvania: Deluxe Edition | 241314 | [241314-romancelvania-deluxe-edition.json](./241314-romancelvania-deluxe-edition.json) |
 | Romancing Flesh | 199074 | [199074-romancing-flesh.json](./199074-romancing-flesh.json) |
+| Romancing Monarchy | 105137 | [105137-romancing-monarchy.json](./105137-romancing-monarchy.json) |
 | Romancing SaGa | 11311 | [11311-romancing-saga.json](./11311-romancing-saga.json) |
 | Romancing SaGa 3 | 109592 | [109592-romancing-saga-3.json](./109592-romancing-saga-3.json) |
 | Romancing SaGa Re;UniverSe | 109593 | [109593-romancing-saga-re-universe.json](./109593-romancing-saga-re-universe.json) |
@@ -5966,6 +5970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rushuzen | 306362 | [306362-rushuzen.json](./306362-rushuzen.json) |
 | Ruskindo | 182910 | [182910-ruskindo.json](./182910-ruskindo.json) |
 | Ruslicstan Invades | 238497 | [238497-ruslicstan-invades.json](./238497-ruslicstan-invades.json) |
+| Russi.a Simulator | 105148 | [105148-russi-a-simulator.json](./105148-russi-a-simulator.json) |
 | Russia Horror 20!8 | 90212 | [90212-russia-horror-20-8.json](./90212-russia-horror-20-8.json) |
 | Russia Roguelike | 116117 | [116117-russia-roguelike.json](./116117-russia-roguelike.json) |
 | Russia: The Great War in the East 1941-1945 | 44124 | [44124-russia-the-great-war-in-the-east-1941-1945.json](./44124-russia-the-great-war-in-the-east-1941-1945.json) |
