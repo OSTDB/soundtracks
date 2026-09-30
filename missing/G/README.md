@@ -1676,6 +1676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Getting out Alive | 264109 | [264109-getting-out-alive.json](./264109-getting-out-alive.json) |
 | Getting Over It with Your Body | 381035 | [381035-getting-over-it-with-your-body.json](./381035-getting-over-it-with-your-body.json) |
 | Getting There | 305926 | [305926-getting-there.json](./305926-getting-there.json) |
+| Getting Touchy with Albertine | 400933 | [400933-getting-touchy-with-albertine.json](./400933-getting-touchy-with-albertine.json) |
 | Gettysburg: Fields of Valor | 190095 | [190095-gettysburg-fields-of-valor.json](./190095-gettysburg-fields-of-valor.json) |
 | Gettysburg: the Tide Turns | 51445 | [51445-gettysburg-the-tide-turns.json](./51445-gettysburg-the-tide-turns.json) |
 | Geunyeoneun Baekseolgongju | 234636 | [234636-geunyeoneun-baekseolgongju.json](./234636-geunyeoneun-baekseolgongju.json) |
@@ -1710,6 +1711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Blade | 23442 | [23442-ghost-blade.json](./23442-ghost-blade.json) |
 | Ghost Blood | 391320 | [391320-ghost-blood.json](./391320-ghost-blood.json) |
 | Ghost Bros | 224236 | [224236-ghost-bros.json](./224236-ghost-bros.json) |
+| Ghost Buster:Village | 401063 | [401063-ghost-buster-village.json](./401063-ghost-buster-village.json) |
 | Ghost Case | 415228 | [415228-ghost-case.json](./415228-ghost-case.json) |
 | Ghost Castle | 192821 | [192821-ghost-castle.json](./192821-ghost-castle.json) |
 | Ghost Castle: Gengar's Love Quest | 357418 | [357418-ghost-castle-gengars-love-quest.json](./357418-ghost-castle-gengars-love-quest.json) |
@@ -3118,6 +3120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gone Upstate | 152826 | [152826-gone-upstate.json](./152826-gone-upstate.json) |
 | Gone Wandering | 215061 | [215061-gone-wandering.json](./215061-gone-wandering.json) |
 | Gone with Hideyoshi | 64636 | [64636-gone-with-hideyoshi.json](./64636-gone-with-hideyoshi.json) |
+| Goners | 401074 | [401074-goners.json](./401074-goners.json) |
 | Gong | 280356 | [280356-gong.json](./280356-gong.json) |
 | Gongbat | 183011 | [183011-gongbat.json](./183011-gongbat.json) |
 | Gonne Wrong | 151142 | [151142-gonne-wrong.json](./151142-gonne-wrong.json) |
