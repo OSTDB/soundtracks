@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sad Virus Military | 398324 | [398324-sad-virus-military.json](./398324-sad-virus-military.json) |
 | Sad Virus Shitcoin | 387494 | [387494-sad-virus-shitcoin.json](./387494-sad-virus-shitcoin.json) |
 | Sad Virus Town | 365877 | [365877-sad-virus-town.json](./365877-sad-virus-town.json) |
+| Sadame | 19980 | [19980-sadame.json](./19980-sadame.json) |
 | Sadboy | 113682 | [113682-sadboy.json](./113682-sadboy.json) |
 | Saddies: Attack!! | 60610 | [60610-saddies-attack.json](./60610-saddies-attack.json) |
 | Saddle Up: Time to Ride | 64114 | [64114-saddle-up-time-to-ride.json](./64114-saddle-up-time-to-ride.json) |
@@ -2589,6 +2590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentinels of the Multiverse: OblivAeon | 170414 | [170414-sentinels-of-the-multiverse-oblivaeon.json](./170414-sentinels-of-the-multiverse-oblivaeon.json) |
 | Sentinels of the Multiverse: Rook City | 170416 | [170416-sentinels-of-the-multiverse-rook-city.json](./170416-sentinels-of-the-multiverse-rook-city.json) |
 | Sentinels of the Multiverse: Shattered Timelines | 170417 | [170417-sentinels-of-the-multiverse-shattered-timelines.json](./170417-sentinels-of-the-multiverse-shattered-timelines.json) |
+| Sentinels of the Multiverse: The Video Game | 20051 | [20051-sentinels-of-the-multiverse-the-video-game.json](./20051-sentinels-of-the-multiverse-the-video-game.json) |
 | Sentinels of the Multiverse: Vengeance | 169969 | [169969-sentinels-of-the-multiverse-vengeance.json](./169969-sentinels-of-the-multiverse-vengeance.json) |
 | Sentinels of the Multiverse: Villains of the Multiverse | 170412 | [170412-sentinels-of-the-multiverse-villains-of-the-multiverse.json](./170412-sentinels-of-the-multiverse-villains-of-the-multiverse.json) |
 | Sentinels of the Multiverse: Wrath of the Cosmos | 170415 | [170415-sentinels-of-the-multiverse-wrath-of-the-cosmos.json](./170415-sentinels-of-the-multiverse-wrath-of-the-cosmos.json) |
@@ -5408,6 +5410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sixth Night | 129710 | [129710-sixth-night.json](./129710-sixth-night.json) |
 | Sixtieth Kilometer: Eightieth Kilometer | 171910 | [171910-sixtieth-kilometer-eightieth-kilometer.json](./171910-sixtieth-kilometer-eightieth-kilometer.json) |
 | Sixty Jumps to Ceres | 258479 | [258479-sixty-jumps-to-ceres.json](./258479-sixty-jumps-to-ceres.json) |
+| Sixty Second Shooter Prime | 20056 | [20056-sixty-second-shooter-prime.json](./20056-sixty-second-shooter-prime.json) |
 | Sixty Words by Powgi | 206719 | [206719-sixty-words-by-powgi.json](./206719-sixty-words-by-powgi.json) |
 | Size Matters! | 331709 | [331709-size-matters.json](./331709-size-matters.json) |
 | Sizeable | 139605 | [139605-sizeable.json](./139605-sizeable.json) |
@@ -9258,6 +9261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space-Orbit | 63238 | [63238-space-orbit.json](./63238-space-orbit.json) |
 | Space-Rat Xplode! | 54385 | [54385-space-rat-xplode.json](./54385-space-rat-xplode.json) |
 | Space/Mech/Pilot | 139924 | [139924-space-mech-pilot.json](./139924-space-mech-pilot.json) |
+| Spaceball Revolution | 21059 | [21059-spaceball-revolution.json](./21059-spaceball-revolution.json) |
 | Spacebar | 183334 | [183334-spacebar.json](./183334-spacebar.json) |
 | Spacebar | 344361 | [344361-spacebar.json](./344361-spacebar.json) |
 | Spacebase DF-9 | 5632 | [5632-spacebase-df-9.json](./5632-spacebase-df-9.json) |
@@ -11467,6 +11471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starleaf | 415960 | [415960-starleaf.json](./415960-starleaf.json) |
 | Starless | 204092 | [204092-starless.json](./204092-starless.json) |
 | Starless Abyss | 319573 | [319573-starless-abyss.json](./319573-starless-abyss.json) |
+| Starless: Nymphomaniacs' Paradise | 19946 | [19946-starless-nymphomaniacs-paradise.json](./19946-starless-nymphomaniacs-paradise.json) |
 | Starlet Disorder | 380671 | [380671-starlet-disorder.json](./380671-starlet-disorder.json) |
 | Starlight | 181804 | [181804-starlight.json](./181804-starlight.json) |
 | Starlight | 247552 | [247552-starlight.json](./247552-starlight.json) |
@@ -14118,6 +14123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super DJ | 233241 | [233241-super-dj.json](./233241-super-dj.json) |
 | Super Dodge Ball | 40426 | [40426-super-dodge-ball.json](./40426-super-dodge-ball.json) |
 | Super Dodge Ball | 46768 | [46768-super-dodge-ball.json](./46768-super-dodge-ball.json) |
+| Super Dodgeball Brawlers | 21052 | [21052-super-dodgeball-brawlers.json](./21052-super-dodgeball-brawlers.json) |
 | Super Dogfight | 64931 | [64931-super-dogfight.json](./64931-super-dogfight.json) |
 | Super Doggo Snack Time | 101080 | [101080-super-doggo-snack-time.json](./101080-super-doggo-snack-time.json) |
 | Super Domino Effect 3D | 215706 | [215706-super-domino-effect-3d.json](./215706-super-domino-effect-3d.json) |
