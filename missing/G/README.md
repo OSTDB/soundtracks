@@ -2147,6 +2147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiator of sparta | 173275 | [173275-gladiator-of-sparta.json](./173275-gladiator-of-sparta.json) |
 | Gladiator Rising 2 | 297578 | [297578-gladiator-rising-2.json](./297578-gladiator-rising-2.json) |
 | Gladiator School | 284329 | [284329-gladiator-school.json](./284329-gladiator-school.json) |
+| Gladiator Trainer | 31289 | [31289-gladiator-trainer.json](./31289-gladiator-trainer.json) |
 | Gladiator X | 130795 | [130795-gladiator-x.json](./130795-gladiator-x.json) |
 | Gladiator: Blades of Fury | 115586 | [115586-gladiator-blades-of-fury.json](./115586-gladiator-blades-of-fury.json) |
 | Gladiator: Road to the Colosseum | 120836 | [120836-gladiator-road-to-the-colosseum.json](./120836-gladiator-road-to-the-colosseum.json) |
@@ -2192,6 +2193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gleylancer & Gynoug Combo Pack | 286566 | [286566-gleylancer-and-gynoug-combo-pack.json](./286566-gleylancer-and-gynoug-combo-pack.json) |
 | Gli Animotosi e la Macchina Motante | 213625 | [213625-gli-animotosi-e-la-macchina-motante.json](./213625-gli-animotosi-e-la-macchina-motante.json) |
 | Glide Scramble Mechanic Star Shooting | 98045 | [98045-glide-scramble-mechanic-star-shooting.json](./98045-glide-scramble-mechanic-star-shooting.json) |
+| Glider Island | 32109 | [32109-glider-island.json](./32109-glider-island.json) |
 | Glider Rider | 13002 | [13002-glider-rider.json](./13002-glider-rider.json) |
 | Glider Simulator | 326413 | [326413-glider-simulator.json](./326413-glider-simulator.json) |
 | Glider: Collect'n Kill | 94537 | [94537-glider-collectn-kill.json](./94537-glider-collectn-kill.json) |
