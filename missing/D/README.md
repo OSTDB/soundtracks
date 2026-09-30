@@ -1452,6 +1452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Blue Rose | 304881 | [304881-dead-blue-rose.json](./304881-dead-blue-rose.json) |
 | Dead Body Falls | 120331 | [120331-dead-body-falls.json](./120331-dead-body-falls.json) |
 | Dead Box | 153885 | [153885-dead-box.json](./153885-dead-box.json) |
+| Dead But Alive! Southern England | 26469 | [26469-dead-but-alive-southern-england.json](./26469-dead-but-alive-southern-england.json) |
 | Dead by Backrooms Anomaly | 348462 | [348462-dead-by-backrooms-anomaly.json](./348462-dead-by-backrooms-anomaly.json) |
 | Dead by Daylight: A Binding of Kin Chapter | 168867 | [168867-dead-by-daylight-a-binding-of-kin-chapter.json](./168867-dead-by-daylight-a-binding-of-kin-chapter.json) |
 | Dead by Daylight: A Lullaby for the Dark Chapter | 76224 | [76224-dead-by-daylight-a-lullaby-for-the-dark-chapter.json](./76224-dead-by-daylight-a-lullaby-for-the-dark-chapter.json) |
@@ -2824,6 +2825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DemonCountdown | 272250 | [272250-demoncountdown.json](./272250-demoncountdown.json) |
 | DemonCrawl: Arena Plus | 172150 | [172150-demoncrawl-arena-plus.json](./172150-demoncrawl-arena-plus.json) |
 | Demongeon | 85566 | [85566-demongeon.json](./85566-demongeon.json) |
+| Demonheart | 29775 | [29775-demonheart.json](./29775-demonheart.json) |
 | Demoniac TV | 291524 | [291524-demoniac-tv.json](./291524-demoniac-tv.json) |
 | Demonic Bundle | 192305 | [192305-demonic-bundle.json](./192305-demonic-bundle.json) |
 | Demonic Crusade | 298896 | [298896-demonic-crusade.json](./298896-demonic-crusade.json) |
@@ -7718,6 +7720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Life 4 | 210660 | [210660-duck-life-4.json](./210660-duck-life-4.json) |
 | Duck Life 4 Classic | 370917 | [370917-duck-life-4-classic.json](./370917-duck-life-4-classic.json) |
 | Duck Life 9: The Flock | 253309 | [253309-duck-life-9-the-flock.json](./253309-duck-life-9-the-flock.json) |
+| Duck Life: Space | 29177 | [29177-duck-life-space.json](./29177-duck-life-space.json) |
 | Duck Maze | 378193 | [378193-duck-maze.json](./378193-duck-maze.json) |
 | Duck Nukem: Four Feathers | 230210 | [230210-duck-nukem-four-feathers.json](./230210-duck-nukem-four-feathers.json) |
 | Duck on the Run | 174349 | [174349-duck-on-the-run.json](./174349-duck-on-the-run.json) |
@@ -7835,6 +7838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke Nukem: Land of the Babes | 8504 | [8504-duke-nukem-land-of-the-babes.json](./8504-duke-nukem-land-of-the-babes.json) |
 | Duke Nukem: Total Meltdown | 44885 | [44885-duke-nukem-total-meltdown.json](./44885-duke-nukem-total-meltdown.json) |
 | Duke Nukem's Penthouse Paradise | 218117 | [218117-duke-nukems-penthouse-paradise.json](./218117-duke-nukems-penthouse-paradise.json) |
+| Duke of Alpha Centauri | 30122 | [30122-duke-of-alpha-centauri.json](./30122-duke-of-alpha-centauri.json) |
 | Duke Tournament | 308260 | [308260-duke-tournament.json](./308260-duke-tournament.json) |
 | Duke: Nuclear Winter | 18498 | [18498-duke-nuclear-winter.json](./18498-duke-nuclear-winter.json) |
 | Duke!Zone II | 270750 | [270750-duke-zone-ii.json](./270750-duke-zone-ii.json) |
@@ -8378,6 +8382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusttrust X | 329675 | [329675-dusttrust-x.json](./329675-dusttrust-x.json) |
 | Dustwun | 83561 | [83561-dustwun.json](./83561-dustwun.json) |
 | Dusty Raging Fist | 63798 | [63798-dusty-raging-fist.json](./63798-dusty-raging-fist.json) |
+| Dusty Revenge: Co-Op Edition | 30233 | [30233-dusty-revenge-co-op-edition.json](./30233-dusty-revenge-co-op-edition.json) |
 | Dusty's Challenge | 359392 | [359392-dustys-challenge.json](./359392-dustys-challenge.json) |
 | Dutch Maximus: Out of the Toy Box | 217004 | [217004-dutch-maximus-out-of-the-toy-box.json](./217004-dutch-maximus-out-of-the-toy-box.json) |
 | Dutch's Chickens | 234541 | [234541-dutchs-chickens.json](./234541-dutchs-chickens.json) |
