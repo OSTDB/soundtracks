@@ -142,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sackgasse: The Last Resort | 149527 | [149527-sackgasse-the-last-resort.json](./149527-sackgasse-the-last-resort.json) |
 | Sackman se-X | 82125 | [82125-sackman-se-x.json](./82125-sackman-se-x.json) |
 | Sacra Terra: Angelic Night - Collector's Edition | 25475 | [25475-sacra-terra-angelic-night-collectors-edition.json](./25475-sacra-terra-angelic-night-collectors-edition.json) |
+| Sacra Terra: Kiss of Death - Collector's Edition | 30386 | [30386-sacra-terra-kiss-of-death-collectors-edition.json](./30386-sacra-terra-kiss-of-death-collectors-edition.json) |
 | Sacra: Falling of Myrd | 331692 | [331692-sacra-falling-of-myrd.json](./331692-sacra-falling-of-myrd.json) |
 | Sacralith: The Archer's Tale | 61622 | [61622-sacralith-the-archers-tale.json](./61622-sacralith-the-archers-tale.json) |
 | Sacrament i. | 178499 | [178499-sacrament-i.json](./178499-sacrament-i.json) |
@@ -4506,6 +4507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrouded Siege | 374052 | [374052-shrouded-siege.json](./374052-shrouded-siege.json) |
 | Shtdn | 202225 | [202225-shtdn.json](./202225-shtdn.json) |
 | SHTF | 55980 | [55980-shtf.json](./55980-shtf.json) |
+| Shtriga: Summer Camp | 30381 | [30381-shtriga-summer-camp.json](./30381-shtriga-summer-camp.json) |
 | Shudu | 247017 | [247017-shudu.json](./247017-shudu.json) |
 | Shuffle Farm | 345568 | [345568-shuffle-farm.json](./345568-shuffle-farm.json) |
 | Shuffle in One | 259551 | [259551-shuffle-in-one.json](./259551-shuffle-in-one.json) |
@@ -11798,6 +11800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Pegasus | 42166 | [42166-starship-pegasus.json](./42166-starship-pegasus.json) |
 | Starship Saboteur Prototype | 133249 | [133249-starship-saboteur-prototype.json](./133249-starship-saboteur-prototype.json) |
 | Starship Showdown: Galactic Grand Prix | 283223 | [283223-starship-showdown-galactic-grand-prix.json](./283223-starship-showdown-galactic-grand-prix.json) |
+| Starship Survivor | 30399 | [30399-starship-survivor.json](./30399-starship-survivor.json) |
 | Starship Theory | 36962 | [36962-starship-theory.json](./36962-starship-theory.json) |
 | Starship Traders MMO | 254139 | [254139-starship-traders-mmo.json](./254139-starship-traders-mmo.json) |
 | Starship Troopers | 245392 | [245392-starship-troopers.json](./245392-starship-troopers.json) |
@@ -12075,6 +12078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Horizon | 20691 | [20691-steel-horizon.json](./20691-steel-horizon.json) |
 | Steel Hornet | 328617 | [328617-steel-hornet.json](./328617-steel-hornet.json) |
 | Steel Hunters | 301568 | [301568-steel-hunters.json](./301568-steel-hunters.json) |
+| Steel Invaders | 30417 | [30417-steel-invaders.json](./30417-steel-invaders.json) |
 | Steel Judgment | 329589 | [329589-steel-judgment.json](./329589-steel-judgment.json) |
 | Steel Lords | 57320 | [57320-steel-lords.json](./57320-steel-lords.json) |
 | Steel Machine | 46566 | [46566-steel-machine.json](./46566-steel-machine.json) |
@@ -13978,6 +13982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Overdrive: Deluxe Edition | 164800 | [164800-sunset-overdrive-deluxe-edition.json](./164800-sunset-overdrive-deluxe-edition.json) |
 | Sunset Racer | 284485 | [284485-sunset-racer.json](./284485-sunset-racer.json) |
 | Sunset Racing | 391305 | [391305-sunset-racing.json](./391305-sunset-racing.json) |
+| Sunset Rangers | 30438 | [30438-sunset-rangers.json](./30438-sunset-rangers.json) |
 | Sunset Riders | 276081 | [276081-sunset-riders.json](./276081-sunset-riders.json) |
 | Sunset Riders | 321396 | [321396-sunset-riders.json](./321396-sunset-riders.json) |
 | Sunset Riders | 4370 | [4370-sunset-riders.json](./4370-sunset-riders.json) |
