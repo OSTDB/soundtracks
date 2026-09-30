@@ -7460,6 +7460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Wars | 287233 | [287233-moon-wars.json](./287233-moon-wars.json) |
 | Moon Whistle | 166142 | [166142-moon-whistle.json](./166142-moon-whistle.json) |
 | Moon: Premium Edition | 136965 | [136965-moon-premium-edition.json](./136965-moon-premium-edition.json) |
+| Moon: The Final Word | 21222 | [21222-moon-the-final-word.json](./21222-moon-the-final-word.json) |
 | Moon64 | 339946 | [339946-moon64.json](./339946-moon64.json) |
 | Moonatees | 29161 | [29161-moonatees.json](./29161-moonatees.json) |
 | Moonbase | 94230 | [94230-moonbase.json](./94230-moonbase.json) |
@@ -9615,6 +9616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myst IV: Revelation | 798 | [798-myst-iv-revelation.json](./798-myst-iv-revelation.json) |
 | Myst Mobile | 237366 | [237366-myst-mobile.json](./237366-myst-mobile.json) |
 | Myst of Guatemala | 311571 | [311571-myst-of-guatemala.json](./311571-myst-of-guatemala.json) |
+| Myst Online: URU Live | 21540 | [21540-myst-online-uru-live.json](./21540-myst-online-uru-live.json) |
 | Myst V: End of Ages | 8475 | [8475-myst-v-end-of-ages.json](./8475-myst-v-end-of-ages.json) |
 | Myst: Through the Ages Collection | 230816 | [230816-myst-through-the-ages-collection.json](./230816-myst-through-the-ages-collection.json) |
 | MyStar | 126595 | [126595-mystar.json](./126595-mystar.json) |
