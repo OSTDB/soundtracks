@@ -1392,6 +1392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tayto Runner | 330348 | [330348-tayto-runner.json](./330348-tayto-runner.json) |
 | Tayto Says | 330349 | [330349-tayto-says.json](./330349-tayto-says.json) |
 | Tayutama 2-you're the only one- ENG ver. | 82046 | [82046-tayutama-2-youre-the-only-one-eng-ver.json](./82046-tayutama-2-youre-the-only-one-eng-ver.json) |
+| Tayutama: Kiss on My Deity | 403095 | [403095-tayutama-kiss-on-my-deity.json](./403095-tayutama-kiss-on-my-deity.json) |
 | Tayutama: Kiss on My Deity | 69311 | [69311-tayutama-kiss-on-my-deity.json](./69311-tayutama-kiss-on-my-deity.json) |
 | Taz | 100183 | [100183-taz.json](./100183-taz.json) |
 | Taz Cebula's Brides of Vampira: The Circle of Seven | 273402 | [273402-taz-cebulas-brides-of-vampira-the-circle-of-seven.json](./273402-taz-cebulas-brides-of-vampira-the-circle-of-seven.json) |
@@ -5165,6 +5166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Immemorial Order | 290005 | [290005-the-immemorial-order.json](./290005-the-immemorial-order.json) |
 | The Immortal | 187982 | [187982-the-immortal.json](./187982-the-immortal.json) |
 | The Immortal | 4444 | [4444-the-immortal.json](./4444-the-immortal.json) |
+| The Immortal Is Watching | 403077 | [403077-the-immortal-is-watching.json](./403077-the-immortal-is-watching.json) |
 | The Immortal Lock | 308269 | [308269-the-immortal-lock.json](./308269-the-immortal-lock.json) |
 | The Immortal Mayor | 152377 | [152377-the-immortal-mayor.json](./152377-the-immortal-mayor.json) |
 | The Immortal Mayor: Kingdom of Women | 262077 | [262077-the-immortal-mayor-kingdom-of-women.json](./262077-the-immortal-mayor-kingdom-of-women.json) |
@@ -9852,6 +9854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tides of Tomorrow | 305036 | [305036-tides-of-tomorrow.json](./305036-tides-of-tomorrow.json) |
 | Tides of Tomorrow: Delta Agent Pack | 399091 | [399091-tides-of-tomorrow-delta-agent-pack.json](./399091-tides-of-tomorrow-delta-agent-pack.json) |
 | Tides of War | 206790 | [206790-tides-of-war.json](./206790-tides-of-war.json) |
+| Tidesworn | 403052 | [403052-tidesworn.json](./403052-tidesworn.json) |
 | TideTurn | 142262 | [142262-tideturn.json](./142262-tideturn.json) |
 | Tidewatch | 412273 | [412273-tidewatch.json](./412273-tidewatch.json) |
 | Tidewell | 413884 | [413884-tidewell.json](./413884-tidewell.json) |
