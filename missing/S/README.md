@@ -9626,6 +9626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Up | 105331 | [105331-speed-up.json](./105331-speed-up.json) |
 | Speed X: Extreme 3D Car Racing | 251211 | [251211-speed-x-extreme-3d-car-racing.json](./251211-speed-x-extreme-3d-car-racing.json) |
 | Speedball | 10151 | [10151-speedball.json](./10151-speedball.json) |
+| Speedball 2 Tournament | 10154 | [10154-speedball-2-tournament.json](./10154-speedball-2-tournament.json) |
 | Speedball 2: Brutal Deluxe | 10152 | [10152-speedball-2-brutal-deluxe.json](./10152-speedball-2-brutal-deluxe.json) |
 | Speedball 2: Brutal Deluxe | 147273 | [147273-speedball-2-brutal-deluxe.json](./147273-speedball-2-brutal-deluxe.json) |
 | Speedball 2: Evolution | 42844 | [42844-speedball-2-evolution.json](./42844-speedball-2-evolution.json) |
@@ -11496,6 +11497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlite: Defender of Justice Ultimate HD Edition | 232982 | [232982-starlite-defender-of-justice-ultimate-hd-edition.json](./232982-starlite-defender-of-justice-ultimate-hd-edition.json) |
 | Starloom | 382769 | [382769-starloom.json](./382769-starloom.json) |
 | Starlynx | 177942 | [177942-starlynx.json](./177942-starlynx.json) |
+| Starmade | 9552 | [9552-starmade.json](./9552-starmade.json) |
 | StarMaker | 125965 | [125965-starmaker.json](./125965-starmaker.json) |
 | Starmaker Story | 337187 | [337187-starmaker-story.json](./337187-starmaker-story.json) |
 | Starman in space | 88240 | [88240-starman-in-space.json](./88240-starman-in-space.json) |
@@ -15165,6 +15167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Spike V'Ball/Nintendo World Cup | 93582 | [93582-super-spike-vball-nintendo-world-cup.json](./93582-super-spike-vball-nintendo-world-cup.json) |
 | Super Spin | 216310 | [216310-super-spin.json](./216310-super-spin.json) |
 | Super Splash League | 361780 | [361780-super-splash-league.json](./361780-super-splash-league.json) |
+| Super Splatters | 9696 | [9696-super-splatters.json](./9696-super-splatters.json) |
 | Super SpongeBob Kart | 42203 | [42203-super-spongebob-kart.json](./42203-super-spongebob-kart.json) |
 | Super Sportmatchen | 97963 | [97963-super-sportmatchen.json](./97963-super-sportmatchen.json) |
 | Super Sports Surgery | 40843 | [40843-super-sports-surgery.json](./40843-super-sports-surgery.json) |
