@@ -732,6 +732,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys X: Nordics | 229176 | [229176-ys-x-nordics.json](./229176-ys-x-nordics.json) |
 | Ys X: Nordics - Limited Edition | 261302 | [261302-ys-x-nordics-limited-edition.json](./261302-ys-x-nordics-limited-edition.json) |
 | Ys X: Proud Nordics | 326507 | [326507-ys-x-proud-nordics.json](./326507-ys-x-proud-nordics.json) |
+| Ys X: Proud Nordics - Balduq Mascot Set | 393070 | [393070-ys-x-proud-nordics-balduq-mascot-set.json](./393070-ys-x-proud-nordics-balduq-mascot-set.json) |
+| Ys X: Proud Nordics - Isle of Seiren Mascot Set | 393071 | [393071-ys-x-proud-nordics-isle-of-seiren-mascot-set.json](./393071-ys-x-proud-nordics-isle-of-seiren-mascot-set.json) |
 | Ys X: Proud Nordics - Ultimate Edition | 401733 | [401733-ys-x-proud-nordics-ultimate-edition.json](./401733-ys-x-proud-nordics-ultimate-edition.json) |
 | Ys X: Proud Nordics: Launch Edition | 403562 | [403562-ys-x-proud-nordics-launch-edition.json](./403562-ys-x-proud-nordics-launch-edition.json) |
 | Ys: Memories of Celceta | 117495 | [117495-ys-memories-of-celceta.json](./117495-ys-memories-of-celceta.json) |
