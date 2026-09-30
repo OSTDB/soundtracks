@@ -2193,6 +2193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knockout Kings | 249156 | [249156-knockout-kings.json](./249156-knockout-kings.json) |
 | Knockout Kings 2000 | 10687 | [10687-knockout-kings-2000.json](./10687-knockout-kings-2000.json) |
 | Knockout Kings 2001 | 44747 | [44747-knockout-kings-2001.json](./44747-knockout-kings-2001.json) |
+| Knockout Kings 2003 | 50571 | [50571-knockout-kings-2003.json](./50571-knockout-kings-2003.json) |
 | Knockout League | 32859 | [32859-knockout-league.json](./32859-knockout-league.json) |
 | Knockout Party | 51161 | [51161-knockout-party.json](./51161-knockout-party.json) |
 | Knockout Peoples: Chotto Zankoku na Hakurankai | 260745 | [260745-knockout-peoples-chotto-zankoku-na-hakurankai.json](./260745-knockout-peoples-chotto-zankoku-na-hakurankai.json) |
