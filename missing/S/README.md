@@ -7491,6 +7491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solarmax | 388044 | [388044-solarmax.json](./388044-solarmax.json) |
 | Solarpunk | 194950 | [194950-solarpunk.json](./194950-solarpunk.json) |
 | Solarys The Witch of Fire | 301392 | [301392-solarys-the-witch-of-fire.json](./301392-solarys-the-witch-of-fire.json) |
+| Solas and the White Winter | 90830 | [90830-solas-and-the-white-winter.json](./90830-solas-and-the-white-winter.json) |
 | Solasta II | 325589 | [325589-solasta-ii.json](./325589-solasta-ii.json) |
 | Solasta: Crown of the Magister - Inner Strength | 219594 | [219594-solasta-crown-of-the-magister-inner-strength.json](./219594-solasta-crown-of-the-magister-inner-strength.json) |
 | Solasta: Crown of the Magister - Lost Valley | 195735 | [195735-solasta-crown-of-the-magister-lost-valley.json](./195735-solasta-crown-of-the-magister-lost-valley.json) |
@@ -9206,6 +9207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Show Edition 17 | 290709 | [290709-space-show-edition-17.json](./290709-space-show-edition-17.json) |
 | Space Shrooms RollPlay | 219588 | [219588-space-shrooms-rollplay.json](./219588-space-shrooms-rollplay.json) |
 | Space Shuttle | 346100 | [346100-space-shuttle.json](./346100-space-shuttle.json) |
+| Space Shuttle Landing | 90779 | [90779-space-shuttle-landing.json](./90779-space-shuttle-landing.json) |
 | Space Shuttle Mission 2007 | 65180 | [65180-space-shuttle-mission-2007.json](./65180-space-shuttle-mission-2007.json) |
 | Space Shuttle: A Journey Into Space | 12318 | [12318-space-shuttle-a-journey-into-space.json](./12318-space-shuttle-a-journey-into-space.json) |
 | Space Simulation Toolkit | 345585 | [345585-space-simulation-toolkit.json](./345585-space-simulation-toolkit.json) |
@@ -12343,6 +12345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Red boy and Blue girl | 231892 | [231892-stickman-red-boy-and-blue-girl.json](./231892-stickman-red-boy-and-blue-girl.json) |
 | Stickman Revenge: Demon Slayer | 323201 | [323201-stickman-revenge-demon-slayer.json](./323201-stickman-revenge-demon-slayer.json) |
 | Stickman Skater | 174341 | [174341-stickman-skater.json](./174341-stickman-skater.json) |
+| Stickman Soccer 2016 | 90737 | [90737-stickman-soccer-2016.json](./90737-stickman-soccer-2016.json) |
 | Stickman Strikes: Conquer Fantasy World | 317870 | [317870-stickman-strikes-conquer-fantasy-world.json](./317870-stickman-strikes-conquer-fantasy-world.json) |
 | Stickman Turbo Dismounting 3D | 95841 | [95841-stickman-turbo-dismounting-3d.json](./95841-stickman-turbo-dismounting-3d.json) |
 | StickMan vs. MagicWorld | 265596 | [265596-stickman-vs-magicworld.json](./265596-stickman-vs-magicworld.json) |
