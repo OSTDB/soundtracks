@@ -674,6 +674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Inquisitor - Martyr | 11364 | [11364-warhammer-40-000-inquisitor-martyr.json](./11364-warhammer-40-000-inquisitor-martyr.json) |
 | Warhammer 40,000: Inquisitor - Martyr | 203272 | [203272-warhammer-40-000-inquisitor-martyr.json](./203272-warhammer-40-000-inquisitor-martyr.json) |
 | Warhammer 40,000: Inquisitor - Martyr Complete Collection | 173158 | [173158-warhammer-40-000-inquisitor-martyr-complete-collection.json](./173158-warhammer-40-000-inquisitor-martyr-complete-collection.json) |
+| Warhammer 40,000: Inquisitor - Martyr: Ultimate Edition | 219440 | [219440-warhammer-40-000-inquisitor-martyr-ultimate-edition.json](./219440-warhammer-40-000-inquisitor-martyr-ultimate-edition.json) |
 | Warhammer 40,000: Inquisitor - Prophecy | 118770 | [118770-warhammer-40-000-inquisitor-prophecy.json](./118770-warhammer-40-000-inquisitor-prophecy.json) |
 | Warhammer 40,000: Kill Team | 7045 | [7045-warhammer-40-000-kill-team.json](./7045-warhammer-40-000-kill-team.json) |
 | Warhammer 40,000: Mechanicus | 88461 | [88461-warhammer-40-000-mechanicus.json](./88461-warhammer-40-000-mechanicus.json) |
@@ -2671,6 +2672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winnie-the-Pooh Hops for Honey | 349335 | [349335-winnie-the-pooh-hops-for-honey.json](./349335-winnie-the-pooh-hops-for-honey.json) |
 | Winnie-the-Pooh: Black Honey | 366261 | [366261-winnie-the-pooh-black-honey.json](./366261-winnie-the-pooh-black-honey.json) |
 | Winning Eleven Play Maker 2010: Aoki Samurai no Chousen | 268207 | [268207-winning-eleven-play-maker-2010-aoki-samurai-no-chousen.json](./268207-winning-eleven-play-maker-2010-aoki-samurai-no-chousen.json) |
+| Winning Eleven: Pro Evolution Soccer 2007 | 220951 | [220951-winning-eleven-pro-evolution-soccer-2007.json](./220951-winning-eleven-pro-evolution-soccer-2007.json) |
 | Winning Eleven: Pro Evolution Soccer 2007 | 43233 | [43233-winning-eleven-pro-evolution-soccer-2007.json](./43233-winning-eleven-pro-evolution-soccer-2007.json) |
 | Winning Hearts: Wrestling Otome | 244882 | [244882-winning-hearts-wrestling-otome.json](./244882-winning-hearts-wrestling-otome.json) |
 | Winning Lure | 298863 | [298863-winning-lure.json](./298863-winning-lure.json) |
