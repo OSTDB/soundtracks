@@ -1581,6 +1581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Carnage!!! | 29222 | [29222-get-carnage.json](./29222-get-carnage.json) |
 | Get Dexter 2 | 55203 | [55203-get-dexter-2.json](./55203-get-dexter-2.json) |
 | Get Fit: Beach Workout | 411142 | [411142-get-fit-beach-workout.json](./411142-get-fit-beach-workout.json) |
+| Get Fit: K-Pop Fitness | 420689 | [420689-get-fit-k-pop-fitness.json](./420689-get-fit-k-pop-fitness.json) |
 | Get Fit: Power Workout | 399639 | [399639-get-fit-power-workout.json](./399639-get-fit-power-workout.json) |
 | Get Fit: Women’s Fitness | 394999 | [394999-get-fit-women-s-fitness.json](./394999-get-fit-women-s-fitness.json) |
 | Get Ghost! | 238992 | [238992-get-ghost.json](./238992-get-ghost.json) |
