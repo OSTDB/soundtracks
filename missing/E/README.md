@@ -2994,6 +2994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverQuest II: Echoes of Faydwer | 20631 | [20631-everquest-ii-echoes-of-faydwer.json](./20631-everquest-ii-echoes-of-faydwer.json) |
 | EverQuest II: Kingdom of Sky | 20490 | [20490-everquest-ii-kingdom-of-sky.json](./20490-everquest-ii-kingdom-of-sky.json) |
 | EverQuest II: Planes of Prophecy | 75212 | [75212-everquest-ii-planes-of-prophecy.json](./75212-everquest-ii-planes-of-prophecy.json) |
+| EverQuest II: Rise of Kunark | 21510 | [21510-everquest-ii-rise-of-kunark.json](./21510-everquest-ii-rise-of-kunark.json) |
 | EverQuest II: Sentinel's Fate | 4208 | [4208-everquest-ii-sentinels-fate.json](./4208-everquest-ii-sentinels-fate.json) |
 | EverQuest II: The Bloodline Chronicles | 111024 | [111024-everquest-ii-the-bloodline-chronicles.json](./111024-everquest-ii-the-bloodline-chronicles.json) |
 | EverQuest II: The Fallen Dynasty | 20533 | [20533-everquest-ii-the-fallen-dynasty.json](./20533-everquest-ii-the-fallen-dynasty.json) |
