@@ -4168,6 +4168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shogun: Total War | 436 | [436-shogun-total-war.json](./436-shogun-total-war.json) |
 | Shogun: Total War - Mongol Invasion | 443 | [443-shogun-total-war-mongol-invasion.json](./443-shogun-total-war-mongol-invasion.json) |
 | Shogun's Blade | 43293 | [43293-shoguns-blade.json](./43293-shoguns-blade.json) |
+| Shogun's Empire: Hex Commander | 119739 | [119739-shoguns-empire-hex-commander.json](./119739-shoguns-empire-hex-commander.json) |
 | Shohei's Adult Streaming Channel | 161357 | [161357-shoheis-adult-streaming-channel.json](./161357-shoheis-adult-streaming-channel.json) |
 | Shojo Calibur.io | 188390 | [188390-shojo-calibur-io.json](./188390-shojo-calibur-io.json) |
 | Shojo Warriors | 340375 | [340375-shojo-warriors.json](./340375-shojo-warriors.json) |
@@ -14838,6 +14839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mega Hentai Collection! | 215248 | [215248-super-mega-hentai-collection.json](./215248-super-mega-hentai-collection.json) |
 | Super Mega Lucky Box | 234599 | [234599-super-mega-lucky-box.json](./234599-super-mega-lucky-box.json) |
 | Super Mega Runners | 365137 | [365137-super-mega-runners.json](./365137-super-mega-runners.json) |
+| Super Mega Space Blaster Special | 119009 | [119009-super-mega-space-blaster-special.json](./119009-super-mega-space-blaster-special.json) |
 | Super Mega Zero | 194981 | [194981-super-mega-zero.json](./194981-super-mega-zero.json) |
 | Super Metroid and A Link to the Past Crossover Randomizer | 210231 | [210231-super-metroid-and-a-link-to-the-past-crossover-randomizer.json](./210231-super-metroid-and-a-link-to-the-past-crossover-randomizer.json) |
 | Super Metroid But I Hate You | 345563 | [345563-super-metroid-but-i-hate-you.json](./345563-super-metroid-but-i-hate-you.json) |
