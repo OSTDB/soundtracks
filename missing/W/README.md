@@ -3750,6 +3750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Heritage VR: Swedish Farmhouse | 304024 | [304024-world-heritage-vr-swedish-farmhouse.json](./304024-world-heritage-vr-swedish-farmhouse.json) |
 | World Heroes 2 Jet | 201268 | [201268-world-heroes-2-jet.json](./201268-world-heroes-2-jet.json) |
 | World Heroes Anthology | 20993 | [20993-world-heroes-anthology.json](./20993-world-heroes-anthology.json) |
+| World Heroes Perfect | 400384 | [400384-world-heroes-perfect.json](./400384-world-heroes-perfect.json) |
 | World Heroes Perfect | 46779 | [46779-world-heroes-perfect.json](./46779-world-heroes-perfect.json) |
 | World Heroes Supreme Justice Extra | 358960 | [358960-world-heroes-supreme-justice-extra.json](./358960-world-heroes-supreme-justice-extra.json) |
 | World History Quiz: Cavemen to Democracy | 72180 | [72180-world-history-quiz-cavemen-to-democracy.json](./72180-world-history-quiz-cavemen-to-democracy.json) |
