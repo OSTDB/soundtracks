@@ -1345,6 +1345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fashion Friends: Special Edition | 259585 | [259585-fashion-friends-special-edition.json](./259585-fashion-friends-special-edition.json) |
 | Fashion Friends: Super Edition | 262328 | [262328-fashion-friends-super-edition.json](./262328-fashion-friends-super-edition.json) |
 | Fashion Friends: Super Version | 313512 | [313512-fashion-friends-super-version.json](./313512-fashion-friends-super-version.json) |
+| Fashion Fupa | 397138 | [397138-fashion-fupa.json](./397138-fashion-fupa.json) |
 | Fashion Girls: All in One Edition | 271502 | [271502-fashion-girls-all-in-one-edition.json](./271502-fashion-girls-all-in-one-edition.json) |
 | Fashion Girls: Silver Edition | 315865 | [315865-fashion-girls-silver-edition.json](./315865-fashion-girls-silver-edition.json) |
 | Fashion Holiday: A Game of Texas Hold 'Em | 252246 | [252246-fashion-holiday-a-game-of-texas-hold-em.json](./252246-fashion-holiday-a-game-of-texas-hold-em.json) |
@@ -2490,6 +2491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find A Way | 155005 | [155005-find-a-way.json](./155005-find-a-way.json) |
 | Find a way out: Abode of darkness. | 192799 | [192799-find-a-way-out-abode-of-darkness.json](./192799-find-a-way-out-abode-of-darkness.json) |
 | Find a Way Soccer: Women's Cup | 247437 | [247437-find-a-way-soccer-womens-cup.json](./247437-find-a-way-soccer-womens-cup.json) |
+| Find AI Parking Spot | 397187 | [397187-find-ai-parking-spot.json](./397187-find-ai-parking-spot.json) |
 | Find All | 151614 | [151614-find-all.json](./151614-find-all.json) |
 | Find All 5: Vikings | 317026 | [317026-find-all-5-vikings.json](./317026-find-all-5-vikings.json) |
 | Find All: Bunker - Extra Level | 345512 | [345512-find-all-bunker-extra-level.json](./345512-find-all-bunker-extra-level.json) |
