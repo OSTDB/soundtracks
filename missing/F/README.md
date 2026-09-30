@@ -1403,6 +1403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fat Albert | 320981 | [320981-fat-albert.json](./320981-fat-albert.json) |
 | Fat Baby | 186036 | [186036-fat-baby.json](./186036-fat-baby.json) |
 | Fat Chicken | 17891 | [17891-fat-chicken.json](./17891-fat-chicken.json) |
+| Fat City | 20964 | [20964-fat-city.json](./20964-fat-city.json) |
 | Fat Dot | 179145 | [179145-fat-dot.json](./179145-fat-dot.json) |
 | Fat Dude Simulator | 117567 | [117567-fat-dude-simulator.json](./117567-fat-dude-simulator.json) |
 | Fat Foods | 82002 | [82002-fat-foods.json](./82002-fat-foods.json) |
@@ -3021,6 +3022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Planet: Sport Kayak Pack | 292673 | [292673-fishing-planet-sport-kayak-pack.json](./292673-fishing-planet-sport-kayak-pack.json) |
 | Fishing Planet: Thanksgiving Cornucopia Pack | 277352 | [277352-fishing-planet-thanksgiving-cornucopia-pack.json](./277352-fishing-planet-thanksgiving-cornucopia-pack.json) |
 | Fishing Pond Simulator | 346157 | [346157-fishing-pond-simulator.json](./346157-fishing-pond-simulator.json) |
+| Fishing Resort | 19929 | [19929-fishing-resort.json](./19929-fishing-resort.json) |
 | Fishing Sea Adventure | 335089 | [335089-fishing-sea-adventure.json](./335089-fishing-sea-adventure.json) |
 | Fishing Sim World: Bass Pro Shops Edition | 170481 | [170481-fishing-sim-world-bass-pro-shops-edition.json](./170481-fishing-sim-world-bass-pro-shops-edition.json) |
 | Fishing Sim World: Pro Tour - Bass Pro Shops Equipment Pack | 170476 | [170476-fishing-sim-world-pro-tour-bass-pro-shops-equipment-pack.json](./170476-fishing-sim-world-pro-tour-bass-pro-shops-equipment-pack.json) |
@@ -4456,6 +4458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ForeVR Bowl | 148381 | [148381-forevr-bowl.json](./148381-forevr-bowl.json) |
 | ForeVR Cornhole | 214608 | [214608-forevr-cornhole.json](./214608-forevr-cornhole.json) |
 | Forg Feast Frenzy | 291458 | [291458-forg-feast-frenzy.json](./291458-forg-feast-frenzy.json) |
+| Forge | 19937 | [19937-forge.json](./19937-forge.json) |
 | Forge & Fortune | 264701 | [264701-forge-and-fortune.json](./264701-forge-and-fortune.json) |
 | Forge Front | 287768 | [287768-forge-front.json](./287768-forge-front.json) |
 | Forge of Empires | 62923 | [62923-forge-of-empires.json](./62923-forge-of-empires.json) |
