@@ -4055,6 +4055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Troll | 122210 | [122210-angry-troll.json](./122210-angry-troll.json) |
 | Angry Troll Simulator 2018 | 110510 | [110510-angry-troll-simulator-2018.json](./110510-angry-troll-simulator-2018.json) |
 | Angry Universe VR | 297066 | [297066-angry-universe-vr.json](./297066-angry-universe-vr.json) |
+| Angry Video Game Nerd 8-bit | 329179 | [329179-angry-video-game-nerd-8-bit.json](./329179-angry-video-game-nerd-8-bit.json) |
 | Angry Video Game Nerd Adventures | 7960 | [7960-angry-video-game-nerd-adventures.json](./7960-angry-video-game-nerd-adventures.json) |
 | Angry World War 2 | 234070 | [234070-angry-world-war-2.json](./234070-angry-world-war-2.json) |
 | Angry Zombies | 88844 | [88844-angry-zombies.json](./88844-angry-zombies.json) |
