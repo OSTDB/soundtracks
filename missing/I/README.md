@@ -836,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idra and the Little Fish | 229637 | [229637-idra-and-the-little-fish.json](./229637-idra-and-the-little-fish.json) |
 | Idtipsa | 201838 | [201838-idtipsa.json](./201838-idtipsa.json) |
 | Idun | 237048 | [237048-idun.json](./237048-idun.json) |
+| Idun: Frontline Survival | 329284 | [329284-idun-frontline-survival.json](./329284-idun-frontline-survival.json) |
 | Idunn Gurdians | 121540 | [121540-idunn-gurdians.json](./121540-idunn-gurdians.json) |
 | Idutshane | 356838 | [356838-idutshane.json](./356838-idutshane.json) |
 | Idyllic | 253042 | [253042-idyllic.json](./253042-idyllic.json) |
