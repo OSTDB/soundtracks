@@ -1874,6 +1874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kita e. Photo Memories | 239082 | [239082-kita-e-photo-memories.json](./239082-kita-e-photo-memories.json) |
 | Kitari and Kimoshi | 223431 | [223431-kitari-and-kimoshi.json](./223431-kitari-and-kimoshi.json) |
 | Kitaria Fables | 144542 | [144542-kitaria-fables.json](./144542-kitaria-fables.json) |
+| Kitaria Fables 2 | 398521 | [398521-kitaria-fables-2.json](./398521-kitaria-fables-2.json) |
 | Kitaria Fables: Deluxe Edition | 166686 | [166686-kitaria-fables-deluxe-edition.json](./166686-kitaria-fables-deluxe-edition.json) |
 | Kitaria Fables: Digital Deluxe Edition | 167180 | [167180-kitaria-fables-digital-deluxe-edition.json](./167180-kitaria-fables-digital-deluxe-edition.json) |
 | Kitaria Heroes: Force Bender | 38961 | [38961-kitaria-heroes-force-bender.json](./38961-kitaria-heroes-force-bender.json) |
