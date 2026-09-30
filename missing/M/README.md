@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Geometry | 226168 | [226168-mad-geometry.json](./226168-mad-geometry.json) |
 | Mad Gun Range VR Simulator | 115689 | [115689-mad-gun-range-vr-simulator.json](./115689-mad-gun-range-vr-simulator.json) |
 | Mad Head | 311471 | [311471-mad-head.json](./311471-mad-head.json) |
+| Mad Hunter | 30416 | [30416-mad-hunter.json](./30416-mad-hunter.json) |
 | Mad Jyacer | 276250 | [276250-mad-jyacer.json](./276250-mad-jyacer.json) |
 | Mad King Redemption | 361874 | [361874-mad-king-redemption.json](./361874-mad-king-redemption.json) |
 | Mad King's Lair: Tome of Destruction | 266755 | [266755-mad-kings-lair-tome-of-destruction.json](./266755-mad-kings-lair-tome-of-destruction.json) |
@@ -2038,6 +2039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Married Woman Eilla's NTR RPG: Two Man Cell Journey with Obeying a Douchey Guy | 82852 | [82852-married-woman-eillas-ntr-rpg-two-man-cell-journey-with-obeying-a-douchey-guy.json](./82852-married-woman-eillas-ntr-rpg-two-man-cell-journey-with-obeying-a-douchey-guy.json) |
 | Marron Helps a Friend | 122947 | [122947-marron-helps-a-friend.json](./122947-marron-helps-a-friend.json) |
 | Marrow | 269569 | [269569-marrow.json](./269569-marrow.json) |
+| Marrow | 30484 | [30484-marrow.json](./30484-marrow.json) |
 | Marrow Marrow | 369775 | [369775-marrow-marrow.json](./369775-marrow-marrow.json) |
 | Marry a Deep One | 319748 | [319748-marry-a-deep-one.json](./319748-marry-a-deep-one.json) |
 | Mars | 91393 | [91393-mars.json](./91393-mars.json) |
@@ -9655,6 +9657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myriad Mayhem | 258208 | [258208-myriad-mayhem.json](./258208-myriad-mayhem.json) |
 | Myriad Realms | 406296 | [406296-myriad-realms.json](./406296-myriad-realms.json) |
 | Myrm Emblem | 279784 | [279784-myrm-emblem.json](./279784-myrm-emblem.json) |
+| Myrne: The Quest | 29551 | [29551-myrne-the-quest.json](./29551-myrne-the-quest.json) |
 | MyrnEscapes | 200033 | [200033-myrnescapes.json](./200033-myrnescapes.json) |
 | Myror i Brallan | 305867 | [305867-myror-i-brallan.json](./305867-myror-i-brallan.json) |
 | Myrrh | 118375 | [118375-myrrh.json](./118375-myrrh.json) |
