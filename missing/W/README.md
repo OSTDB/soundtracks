@@ -531,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warau Salesman 2 | 239575 | [239575-warau-salesman-2.json](./239575-warau-salesman-2.json) |
 | Warau Salesman 3 | 239576 | [239576-warau-salesman-3.json](./239576-warau-salesman-3.json) |
 | Warauinu no Bouken GB: Silly Go Lucky! | 59400 | [59400-warauinu-no-bouken-gb-silly-go-lucky.json](./59400-warauinu-no-bouken-gb-silly-go-lucky.json) |
+| Warband | 402459 | [402459-warband.json](./402459-warband.json) |
 | Warbanners | 44166 | [44166-warbanners.json](./44166-warbanners.json) |
 | Warbanners: Death Speaker | 172143 | [172143-warbanners-death-speaker.json](./172143-warbanners-death-speaker.json) |
 | Warbears Mission 01: The Bank Robbery | 237490 | [237490-warbears-mission-01-the-bank-robbery.json](./237490-warbears-mission-01-the-bank-robbery.json) |
@@ -1299,6 +1300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Are Infinity | 283744 | [283744-we-are-infinity.json](./283744-we-are-infinity.json) |
 | We are Legion: Rome | 120916 | [120916-we-are-legion-rome.json](./120916-we-are-legion-rome.json) |
 | We Are Live | 157034 | [157034-we-are-live.json](./157034-we-are-live.json) |
+| We Are Live Momora! | 402461 | [402461-we-are-live-momora.json](./402461-we-are-live-momora.json) |
 | We Are OFK | 152177 | [152177-we-are-ofk.json](./152177-we-are-ofk.json) |
 | We Are Out of Food, Milton. | 250323 | [250323-we-are-out-of-food-milton.json](./250323-we-are-out-of-food-milton.json) |
 | We Are Prophet | 400864 | [400864-we-are-prophet.json](./400864-we-are-prophet.json) |
