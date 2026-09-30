@@ -1511,6 +1511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Grand Order: Epic of Remnant I - Shinjuku | 414364 | [414364-fate-grand-order-epic-of-remnant-i-shinjuku.json](./414364-fate-grand-order-epic-of-remnant-i-shinjuku.json) |
 | Fate/Grand Order: Epic of Remnant III - Shimousa | 414363 | [414363-fate-grand-order-epic-of-remnant-iii-shimousa.json](./414363-fate-grand-order-epic-of-remnant-iii-shimousa.json) |
 | Fate/Grand Order: Epic of Remnant IV - Salem | 414362 | [414362-fate-grand-order-epic-of-remnant-iv-salem.json](./414362-fate-grand-order-epic-of-remnant-iv-salem.json) |
+| Fate/Grand Order: Naraka Mandala - Heian-kyo | 416642 | [416642-fate-grand-order-naraka-mandala-heian-kyo.json](./416642-fate-grand-order-naraka-mandala-heian-kyo.json) |
 | Fate/Grand Order: Ordeal Call I - Paper Moon | 414359 | [414359-fate-grand-order-ordeal-call-i-paper-moon.json](./414359-fate-grand-order-ordeal-call-i-paper-moon.json) |
 | Fate/Hollow Ataraxia | 275640 | [275640-fate-hollow-ataraxia.json](./275640-fate-hollow-ataraxia.json) |
 | Fate/Samurai Remnant: Digital Deluxe Edition | 259526 | [259526-fate-samurai-remnant-digital-deluxe-edition.json](./259526-fate-samurai-remnant-digital-deluxe-edition.json) |
@@ -1837,6 +1838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fester's Quest | 5343 | [5343-festers-quest.json](./5343-festers-quest.json) |
 | Festival Days Sim Date | 198243 | [198243-festival-days-sim-date.json](./198243-festival-days-sim-date.json) |
 | Festival Journey: Highland Dreams - Collector's Edition | 386869 | [386869-festival-journey-highland-dreams-collectors-edition.json](./386869-festival-journey-highland-dreams-collectors-edition.json) |
+| Festival Journey: Secrets of Rio - Collector's Edition | 416786 | [416786-festival-journey-secrets-of-rio-collectors-edition.json](./416786-festival-journey-secrets-of-rio-collectors-edition.json) |
 | Festival Journey: Venetian Masquerade - Collector's Edition | 350490 | [350490-festival-journey-venetian-masquerade-collectors-edition.json](./350490-festival-journey-venetian-masquerade-collectors-edition.json) |
 | Festival of the Spirit | 183541 | [183541-festival-of-the-spirit.json](./183541-festival-of-the-spirit.json) |
 | Festival Tycoon: Water for All! | 226701 | [226701-festival-tycoon-water-for-all.json](./226701-festival-tycoon-water-for-all.json) |
