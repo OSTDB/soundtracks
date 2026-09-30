@@ -6489,6 +6489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Ghost | 86230 | [86230-future-ghost.json](./86230-future-ghost.json) |
 | Future GPX Cyber Formula: Road to the Evolution | 4150 | [4150-future-gpx-cyber-formula-road-to-the-evolution.json](./4150-future-gpx-cyber-formula-road-to-the-evolution.json) |
 | Future Knight | 13853 | [13853-future-knight.json](./13853-future-knight.json) |
+| Future Knight | 388341 | [388341-future-knight.json](./388341-future-knight.json) |
 | Future Love Space Machine: Glimmer Deck | 368120 | [368120-future-love-space-machine-glimmer-deck.json](./368120-future-love-space-machine-glimmer-deck.json) |
 | Future Ludo | 174370 | [174370-future-ludo.json](./174370-future-ludo.json) |
 | Future Mirror | 217407 | [217407-future-mirror.json](./217407-future-mirror.json) |
