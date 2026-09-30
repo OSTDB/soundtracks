@@ -4159,6 +4159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WormWar | 107121 | [107121-wormwar.json](./107121-wormwar.json) |
 | Wormwood | 216819 | [216819-wormwood.json](./216819-wormwood.json) |
 | Wormwood | 274728 | [274728-wormwood.json](./274728-wormwood.json) |
+| wormzilla.io | 397845 | [397845-wormzilla-io.json](./397845-wormzilla-io.json) |
 | Worry | 91960 | [91960-worry.json](./91960-worry.json) |
 | Worry Eaters: Dada Land | 88804 | [88804-worry-eaters-dada-land.json](./88804-worry-eaters-dada-land.json) |
 | Worship | 144971 | [144971-worship.json](./144971-worship.json) |
