@@ -1284,6 +1284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimagure Orange Road: Natsu no Mirage | 91765 | [91765-kimagure-orange-road-natsu-no-mirage.json](./91765-kimagure-orange-road-natsu-no-mirage.json) |
 | Kimagure Strawberry Café | 203323 | [203323-kimagure-strawberry-cafe.json](./203323-kimagure-strawberry-cafe.json) |
 | Kimagure Temptation | 182389 | [182389-kimagure-temptation.json](./182389-kimagure-temptation.json) |
+| Kimbap Factory | 413107 | [413107-kimbap-factory.json](./413107-kimbap-factory.json) |
 | Kimbap Heaven Simulator | 390261 | [390261-kimbap-heaven-simulator.json](./390261-kimbap-heaven-simulator.json) |
 | Kimero!! Hero Gakuen: Eiyuu ni Shinjutsu Nashi | 59439 | [59439-kimero-hero-gakuen-eiyuu-ni-shinjutsu-nashi.json](./59439-kimero-hero-gakuen-eiyuu-ni-shinjutsu-nashi.json) |
 | Kimi ga Mita Hikari 2 | 329968 | [329968-kimi-ga-mita-hikari-2.json](./329968-kimi-ga-mita-hikari-2.json) |
