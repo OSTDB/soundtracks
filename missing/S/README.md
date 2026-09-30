@@ -1448,6 +1448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Out Simulator3 | 296444 | [296444-school-out-simulator3.json](./296444-school-out-simulator3.json) |
 | School Owner Simulator | 406932 | [406932-school-owner-simulator.json](./406932-school-owner-simulator.json) |
 | School Paranormal Laboratory | 294289 | [294289-school-paranormal-laboratory.json](./294289-school-paranormal-laboratory.json) |
+| School Quest | 393757 | [393757-school-quest.json](./393757-school-quest.json) |
 | School Race GP | 219281 | [219281-school-race-gp.json](./219281-school-race-gp.json) |
 | School Romance: Love or Lose | 250639 | [250639-school-romance-love-or-lose.json](./250639-school-romance-love-or-lose.json) |
 | School Rumble Ni-Gakki Kyoufu no Natsugasshuku Youkan ni Yuurei Arawaru Otakara wo Megutte Makkou Shoubu no Maki | 94864 | [94864-school-rumble-ni-gakki-kyoufu-no-natsugasshuku-youkan-ni-yuurei-arawaru-otakara-wo-megutte-makkou-shoubu-no-maki.json](./94864-school-rumble-ni-gakki-kyoufu-no-natsugasshuku-youkan-ni-yuurei-arawaru-otakara-wo-megutte-makkou-shoubu-no-maki.json) |
@@ -2105,6 +2106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Cats: Haunted Mansion | 320317 | [320317-secret-cats-haunted-mansion.json](./320317-secret-cats-haunted-mansion.json) |
 | Secret Cats: Ice Cream Day | 360648 | [360648-secret-cats-ice-cream-day.json](./360648-secret-cats-ice-cream-day.json) |
 | Secret Cats: Spooky | 320316 | [320316-secret-cats-spooky.json](./320316-secret-cats-spooky.json) |
+| Secret Cats: Spooky | 393712 | [393712-secret-cats-spooky.json](./393712-secret-cats-spooky.json) |
 | Secret Cats: Zoo | 315300 | [315300-secret-cats-zoo.json](./315300-secret-cats-zoo.json) |
 | Secret City: Chalk of Fate - Collector's Edition | 129214 | [129214-secret-city-chalk-of-fate-collectors-edition.json](./129214-secret-city-chalk-of-fate-collectors-edition.json) |
 | Secret Collect. | 135848 | [135848-secret-collect.json](./135848-secret-collect.json) |
@@ -6237,6 +6239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slendrina Must Die: The Cellar | 108844 | [108844-slendrina-must-die-the-cellar.json](./108844-slendrina-must-die-the-cellar.json) |
 | Slendrina Must Die: The House | 321382 | [321382-slendrina-must-die-the-house.json](./321382-slendrina-must-die-the-house.json) |
 | Slendrina X | 233773 | [233773-slendrina-x.json](./233773-slendrina-x.json) |
+| Slendyjan | 393760 | [393760-slendyjan.json](./393760-slendyjan.json) |
 | Slendytubbies Ø | 332814 | [332814-slendytubbies.json](./332814-slendytubbies.json) |
 | Sleuth | 94909 | [94909-sleuth.json](./94909-sleuth.json) |
 | SLG Remix | 33428 | [33428-slg-remix.json](./33428-slg-remix.json) |
