@@ -2771,6 +2771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restcue | 416811 | [416811-restcue.json](./416811-restcue.json) |
 | Resthedex | 151175 | [151175-resthedex.json](./151175-resthedex.json) |
 | Restitched | 147290 | [147290-restitched.json](./147290-restitched.json) |
+| Restless Nights | 393756 | [393756-restless-nights.json](./393756-restless-nights.json) |
 | Restless Soul | 192398 | [192398-restless-soul.json](./192398-restless-soul.json) |
 | Restless Voronezh | 267058 | [267058-restless-voronezh.json](./267058-restless-voronezh.json) |
 | Restock | 316414 | [316414-restock.json](./316414-restock.json) |
