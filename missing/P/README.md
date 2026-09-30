@@ -3327,6 +3327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pink Explorer | 210877 | [210877-pink-explorer.json](./210877-pink-explorer.json) |
 | Pink Gear 2 | 119583 | [119583-pink-gear-2.json](./119583-pink-gear-2.json) |
 | Pink Girls | 243156 | [243156-pink-girls.json](./243156-pink-girls.json) |
+| Pink Heaven | 34289 | [34289-pink-heaven.json](./34289-pink-heaven.json) |
 | Pink Hour | 34288 | [34288-pink-hour.json](./34288-pink-hour.json) |
 | Pink Marmalade | 184627 | [184627-pink-marmalade.json](./184627-pink-marmalade.json) |
 | Pink Panther | 219014 | [219014-pink-panther.json](./219014-pink-panther.json) |
