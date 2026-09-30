@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| G Press | 394476 | [394476-g-press.json](./394476-g-press.json) |
 | G Prime into the Rain | 32201 | [32201-g-prime-into-the-rain.json](./32201-g-prime-into-the-rain.json) |
 | G Warrior | 278666 | [278666-g-warrior.json](./278666-g-warrior.json) |
 | G-Darius | 39691 | [39691-g-darius.json](./39691-g-darius.json) |
@@ -818,6 +819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garbage Pail Kids: Mad Mike and the Quest for Stale Gum | 221146 | [221146-garbage-pail-kids-mad-mike-and-the-quest-for-stale-gum.json](./221146-garbage-pail-kids-mad-mike-and-the-quest-for-stale-gum.json) |
 | Garbage Scow Captain | 317813 | [317813-garbage-scow-captain.json](./317813-garbage-scow-captain.json) |
 | Garbage Truck Driving Simulator | 256561 | [256561-garbage-truck-driving-simulator.json](./256561-garbage-truck-driving-simulator.json) |
+| Garbage Truck Sim Driver Simulator 26 | 394477 | [394477-garbage-truck-sim-driver-simulator-26.json](./394477-garbage-truck-sim-driver-simulator-26.json) |
 | Garbage Truck Simulator | 80448 | [80448-garbage-truck-simulator.json](./80448-garbage-truck-simulator.json) |
 | Garbage Truck: Brushy Pick Up | 87273 | [87273-garbage-truck-brushy-pick-up.json](./87273-garbage-truck-brushy-pick-up.json) |
 | Garbage Truck: Bulky Trash Pick Up | 97289 | [97289-garbage-truck-bulky-trash-pick-up.json](./97289-garbage-truck-bulky-trash-pick-up.json) |
@@ -875,6 +877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gardening Mama 2: Forest Friends | 6357 | [6357-gardening-mama-2-forest-friends.json](./6357-gardening-mama-2-forest-friends.json) |
 | Gardens Inc. 3: A Bridal Pursuit | 88826 | [88826-gardens-inc-3-a-bridal-pursuit.json](./88826-gardens-inc-3-a-bridal-pursuit.json) |
 | Gardens Inc.: From Rakes to Riches | 36409 | [36409-gardens-inc-from-rakes-to-riches.json](./36409-gardens-inc-from-rakes-to-riches.json) |
+| Gardens of a New World | 394450 | [394450-gardens-of-a-new-world.json](./394450-gardens-of-a-new-world.json) |
 | Gardens of the Void | 280924 | [280924-gardens-of-the-void.json](./280924-gardens-of-the-void.json) |
 | Gardenscapes | 320939 | [320939-gardenscapes.json](./320939-gardenscapes.json) |
 | Gardenscapes: Mansion Makeover | 294685 | [294685-gardenscapes-mansion-makeover.json](./294685-gardenscapes-mansion-makeover.json) |
@@ -1958,6 +1961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gifted Island | 244727 | [244727-gifted-island.json](./244727-gifted-island.json) |
 | Giftpia | 3931 | [3931-giftpia.json](./3931-giftpia.json) |
 | Gifts from Arthur | 202365 | [202365-gifts-from-arthur.json](./202365-gifts-from-arthur.json) |
+| Gifts, Please | 394430 | [394430-gifts-please.json](./394430-gifts-please.json) |
 | Gig Life | 198449 | [198449-gig-life.json](./198449-gig-life.json) |
 | Giga Fighters Batman & Robin | 218016 | [218016-giga-fighters-batman-and-robin.json](./218016-giga-fighters-batman-and-robin.json) |
 | Giga Fighters WCW/nWo | 218017 | [218017-giga-fighters-wcw-nwo.json](./218017-giga-fighters-wcw-nwo.json) |
@@ -4706,6 +4710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilt | 345521 | [345521-guilt.json](./345521-guilt.json) |
 | Guilty | 215389 | [215389-guilty.json](./215389-guilty.json) |
 | Guilty | 7839 | [7839-guilty.json](./7839-guilty.json) |
+| Guilty as Charged! | 394468 | [394468-guilty-as-charged.json](./394468-guilty-as-charged.json) |
 | Guilty Bastards | 84299 | [84299-guilty-bastards.json](./84299-guilty-bastards.json) |
 | Guilty Cradle | 395239 | [395239-guilty-cradle.json](./395239-guilty-cradle.json) |
 | Guilty Crown | 208919 | [208919-guilty-crown.json](./208919-guilty-crown.json) |
