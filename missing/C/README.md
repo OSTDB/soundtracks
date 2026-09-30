@@ -655,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannonball Follies 2 | 335471 | [335471-cannonball-follies-2.json](./335471-cannonball-follies-2.json) |
 | Cannondale Cup | 42600 | [42600-cannondale-cup.json](./42600-cannondale-cup.json) |
 | Cannoneer | 323302 | [323302-cannoneer.json](./323302-cannoneer.json) |
+| Cannonfire Concerto | 30441 | [30441-cannonfire-concerto.json](./30441-cannonfire-concerto.json) |
 | Cannons-Defenders: Steam Edition | 28903 | [28903-cannons-defenders-steam-edition.json](./28903-cannons-defenders-steam-edition.json) |
 | Cannot Contain | 278711 | [278711-cannot-contain.json](./278711-cannot-contain.json) |
 | CanopySim: Skydive Landing Simulation | 141788 | [141788-canopysim-skydive-landing-simulation.json](./141788-canopysim-skydive-landing-simulation.json) |
@@ -1881,6 +1882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch & Cook | 244231 | [244231-catch-and-cook.json](./244231-catch-and-cook.json) |
 | Catch & Defense | 373190 | [373190-catch-and-defense.json](./373190-catch-and-defense.json) |
 | Catch a Falling Star | 33285 | [33285-catch-a-falling-star.json](./33285-catch-a-falling-star.json) |
+| Catch a Lover | 29543 | [29543-catch-a-lover.json](./29543-catch-a-lover.json) |
 | Catch Bus | 232033 | [232033-catch-bus.json](./232033-catch-bus.json) |
 | Catch Canvas | 33095 | [33095-catch-canvas.json](./33095-catch-canvas.json) |
 | Catch Driver | 112145 | [112145-catch-driver.json](./112145-catch-driver.json) |
@@ -2697,6 +2699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charlie Spotlight | 391897 | [391897-charlie-spotlight.json](./391897-charlie-spotlight.json) |
 | Charlie the Steak | 310574 | [310574-charlie-the-steak.json](./310574-charlie-the-steak.json) |
 | Charlie: The Legend | 172022 | [172022-charlie-the-legend.json](./172022-charlie-the-legend.json) |
+| Charlie's Adventure | 30487 | [30487-charlies-adventure.json](./30487-charlies-adventure.json) |
 | Charlie's Delivery | 219821 | [219821-charlies-delivery.json](./219821-charlies-delivery.json) |
 | Charlotte | 95227 | [95227-charlotte.json](./95227-charlotte.json) |
 | Charlotte's Web | 248748 | [248748-charlottes-web.json](./248748-charlottes-web.json) |
@@ -3238,6 +3241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Children of a Dead Earth | 25221 | [25221-children-of-a-dead-earth.json](./25221-children-of-a-dead-earth.json) |
 | Children of Apollo | 55526 | [55526-children-of-apollo.json](./55526-children-of-apollo.json) |
 | Children of Birch | 391213 | [391213-children-of-birch.json](./391213-children-of-birch.json) |
+| Children of Colossus | 30426 | [30426-children-of-colossus.json](./30426-children-of-colossus.json) |
 | Children of Mare | 347344 | [347344-children-of-mare.json](./347344-children-of-mare.json) |
 | Children of Morta: Complete Edition | 175878 | [175878-children-of-morta-complete-edition.json](./175878-children-of-morta-complete-edition.json) |
 | Children of Orc | 30920 | [30920-children-of-orc.json](./30920-children-of-orc.json) |
@@ -4567,6 +4571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clicker Astro Planet | 386870 | [386870-clicker-astro-planet.json](./386870-clicker-astro-planet.json) |
 | Clicker Climber: Pachinko | 373755 | [373755-clicker-climber-pachinko.json](./373755-clicker-climber-pachinko.json) |
 | Clicker Conquest | 331989 | [331989-clicker-conquest.json](./331989-clicker-conquest.json) |
+| Clicker Guild | 30457 | [30457-clicker-guild.json](./30457-clicker-guild.json) |
 | Clicker Heroes | 15563 | [15563-clicker-heroes.json](./15563-clicker-heroes.json) |
 | Clicker: Glad Valakas | 112479 | [112479-clicker-glad-valakas.json](./112479-clicker-glad-valakas.json) |
 | Clicker! | 177851 | [177851-clicker.json](./177851-clicker.json) |
@@ -4804,6 +4809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club Life Visual Novel | 197767 | [197767-club-life-visual-novel.json](./197767-club-life-visual-novel.json) |
 | Club Manager 2016 | 34337 | [34337-club-manager-2016.json](./34337-club-manager-2016.json) |
 | Club Manager 2017 | 31957 | [31957-club-manager-2017.json](./31957-club-manager-2017.json) |
+| Club Naughty | 30427 | [30427-club-naughty.json](./30427-club-naughty.json) |
 | Club of fighters | 86537 | [86537-club-of-fighters.json](./86537-club-of-fighters.json) |
 | Club Penguin | 239001 | [239001-club-penguin.json](./239001-club-penguin.json) |
 | Club Penguin Avalanche | 301351 | [301351-club-penguin-avalanche.json](./301351-club-penguin-avalanche.json) |
@@ -6742,6 +6748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Star Heroine | 27667 | [27667-cosmic-star-heroine.json](./27667-cosmic-star-heroine.json) |
 | Cosmic Storm | 80623 | [80623-cosmic-storm.json](./80623-cosmic-storm.json) |
 | Cosmic Strike: The Last Sub Sector | 205667 | [205667-cosmic-strike-the-last-sub-sector.json](./205667-cosmic-strike-the-last-sub-sector.json) |
+| Cosmic Sugar VR | 30428 | [30428-cosmic-sugar-vr.json](./30428-cosmic-sugar-vr.json) |
 | Cosmic Swarm | 18535 | [18535-cosmic-swarm.json](./18535-cosmic-swarm.json) |
 | Cosmic Swarm | 380090 | [380090-cosmic-swarm.json](./380090-cosmic-swarm.json) |
 | Cosmic Tank | 141200 | [141200-cosmic-tank.json](./141200-cosmic-tank.json) |
