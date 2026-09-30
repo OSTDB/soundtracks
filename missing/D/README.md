@@ -1278,6 +1278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day 11 | 263003 | [263003-day-11.json](./263003-day-11.json) |
 | Day 31 | 419946 | [419946-day-31.json](./419946-day-31.json) |
 | Day and Night | 124009 | [124009-day-and-night.json](./124009-day-and-night.json) |
+| Day and Night | 415229 | [415229-day-and-night.json](./415229-day-and-night.json) |
 | Day at the Counter | 178596 | [178596-day-at-the-counter.json](./178596-day-at-the-counter.json) |
 | Day at the Office: Prologue | 315717 | [315717-day-at-the-office-prologue.json](./315717-day-at-the-office-prologue.json) |
 | Day at the Races | 242821 | [242821-day-at-the-races.json](./242821-day-at-the-races.json) |
@@ -3044,6 +3045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deranged Rabbits | 33389 | [33389-deranged-rabbits.json](./33389-deranged-rabbits.json) |
 | Derby Champion Club | 386250 | [386250-derby-champion-club.json](./386250-derby-champion-club.json) |
 | Derby Day | 356288 | [356288-derby-day.json](./356288-derby-day.json) |
+| Derby Dynasty: Horse Racing RPG | 415194 | [415194-derby-dynasty-horse-racing-rpg.json](./415194-derby-dynasty-horse-racing-rpg.json) |
 | Derby Heroines: Run, Bet, Win! | 412502 | [412502-derby-heroines-run-bet-win.json](./412502-derby-heroines-run-bet-win.json) |
 | Derby Life: Ranch & Race | 415104 | [415104-derby-life-ranch-and-race.json](./415104-derby-life-ranch-and-race.json) |
 | Derby Owners Club 2 | 68102 | [68102-derby-owners-club-2.json](./68102-derby-owners-club-2.json) |
@@ -3184,6 +3186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Aquarium | 348834 | [348834-desktop-aquarium.json](./348834-desktop-aquarium.json) |
 | Desktop Basketball | 147851 | [147851-desktop-basketball.json](./147851-desktop-basketball.json) |
 | Desktop Blocks | 368549 | [368549-desktop-blocks.json](./368549-desktop-blocks.json) |
+| Desktop Bouncer | 416030 | [416030-desktop-bouncer.json](./416030-desktop-bouncer.json) |
 | Desktop Clicker | 350513 | [350513-desktop-clicker.json](./350513-desktop-clicker.json) |
 | Desktop Cube-Man | 368673 | [368673-desktop-cube-man.json](./368673-desktop-cube-man.json) |
 | Desktop Defender | 371976 | [371976-desktop-defender.json](./371976-desktop-defender.json) |
@@ -4755,6 +4758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disquiet Fields | 157676 | [157676-disquiet-fields.json](./157676-disquiet-fields.json) |
 | Disquieted | 397663 | [397663-disquieted.json](./397663-disquieted.json) |
 | Disrtust and Goliath Premium Survival Bundle | 301566 | [301566-disrtust-and-goliath-premium-survival-bundle.json](./301566-disrtust-and-goliath-premium-survival-bundle.json) |
+| Disrupt | 415226 | [415226-disrupt.json](./415226-disrupt.json) |
 | Disrupt | 9923 | [9923-disrupt.json](./9923-disrupt.json) |
 | Disruptive Compassion | 364496 | [364496-disruptive-compassion.json](./364496-disruptive-compassion.json) |
 | Disruptor | 20654 | [20654-disruptor.json](./20654-disruptor.json) |
@@ -7803,6 +7807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dubstep Bird | 143588 | [143588-dubstep-bird.json](./143588-dubstep-bird.json) |
 | Dubstep Sound Pack | 343860 | [343860-dubstep-sound-pack.json](./343860-dubstep-sound-pack.json) |
 | DubWars | 36348 | [36348-dubwars.json](./36348-dubwars.json) |
+| Dubz.hu | 416019 | [416019-dubz-hu.json](./416019-dubz-hu.json) |
 | Ducati World Championship | 19353 | [19353-ducati-world-championship.json](./19353-ducati-world-championship.json) |
 | Duck 'n' Cover | 75869 | [75869-duck-n-cover.json](./75869-duck-n-cover.json) |
 | Duck Adventure | 210646 | [210646-duck-adventure.json](./210646-duck-adventure.json) |
@@ -8493,6 +8498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dustborn: Deluxe Edition | 284478 | [284478-dustborn-deluxe-edition.json](./284478-dustborn-deluxe-edition.json) |
 | Dustborn: The Vision Tour Bundle | 315518 | [315518-dustborn-the-vision-tour-bundle.json](./315518-dustborn-the-vision-tour-bundle.json) |
 | Dustbunny: Emotions to Plants | 322598 | [322598-dustbunny-emotions-to-plants.json](./322598-dustbunny-emotions-to-plants.json) |
+| Dusteroids | 415206 | [415206-dusteroids.json](./415206-dusteroids.json) |
 | Dustin | 13614 | [13614-dustin.json](./13614-dustin.json) |
 | Dustino 64 | 295809 | [295809-dustino-64.json](./295809-dustino-64.json) |
 | Dustland | 260393 | [260393-dustland.json](./260393-dustland.json) |
