@@ -136,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waking Dreams | 360733 | [360733-waking-dreams.json](./360733-waking-dreams.json) |
 | Waking Nightmare | 181849 | [181849-waking-nightmare.json](./181849-waking-nightmare.json) |
 | Waking Nightmares | 375287 | [375287-waking-nightmares.json](./375287-waking-nightmares.json) |
+| Waking the Glares | 27923 | [27923-waking-the-glares.json](./27923-waking-the-glares.json) |
 | Waking the Glares - Chapter I and II | 56430 | [56430-waking-the-glares-chapter-i-and-ii.json](./56430-waking-the-glares-chapter-i-and-ii.json) |
 | Waking Up To You | 395038 | [395038-waking-up-to-you.json](./395038-waking-up-to-you.json) |
 | Waking Violet | 103415 | [103415-waking-violet.json](./103415-waking-violet.json) |
@@ -726,6 +727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer Age of Sigmar: Soul Arena | 148984 | [148984-warhammer-age-of-sigmar-soul-arena.json](./148984-warhammer-age-of-sigmar-soul-arena.json) |
 | Warhammer Age of Sigmar: Storm Ground | 137328 | [137328-warhammer-age-of-sigmar-storm-ground.json](./137328-warhammer-age-of-sigmar-storm-ground.json) |
 | Warhammer Blood Bowl | 394515 | [394515-warhammer-blood-bowl.json](./394515-warhammer-blood-bowl.json) |
+| Warhammer Quest 2: The End Times | 27930 | [27930-warhammer-quest-2-the-end-times.json](./27930-warhammer-quest-2-the-end-times.json) |
 | Warhammer Quest Deluxe | 53906 | [53906-warhammer-quest-deluxe.json](./53906-warhammer-quest-deluxe.json) |
 | Warhammer Quest: Silver Tower | 151194 | [151194-warhammer-quest-silver-tower.json](./151194-warhammer-quest-silver-tower.json) |
 | Warhammer Survivors | 376145 | [376145-warhammer-survivors.json](./376145-warhammer-survivors.json) |
@@ -1051,6 +1053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watashi no Kokoro! Kimi no Koto ga Suki desu. | 161902 | [161902-watashi-no-kokoro-kimi-no-koto-ga-suki-desu.json](./161902-watashi-no-kokoro-kimi-no-koto-ga-suki-desu.json) |
 | Watashi no MakeSalon | 275635 | [275635-watashi-no-makesalon.json](./275635-watashi-no-makesalon.json) |
 | Watch | 310212 | [310212-watch.json](./310212-watch.json) |
+| Watch Dogs 2: No Compromise | 28377 | [28377-watch-dogs-2-no-compromise.json](./28377-watch-dogs-2-no-compromise.json) |
 | Watch Dogs 2: Zodiac Killer | 168214 | [168214-watch-dogs-2-zodiac-killer.json](./168214-watch-dogs-2-zodiac-killer.json) |
 | Watch Dogs: Bad Blood | 17473 | [17473-watch-dogs-bad-blood.json](./17473-watch-dogs-bad-blood.json) |
 | Watch Dogs: DEDSEC Edition | 103379 | [103379-watch-dogs-dedsec-edition.json](./103379-watch-dogs-dedsec-edition.json) |
@@ -2636,6 +2639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings 2 | 95474 | [95474-wings-2.json](./95474-wings-2.json) |
 | Wings 2: Aces High | 42577 | [42577-wings-2-aces-high.json](./42577-wings-2-aces-high.json) |
 | Wings of Angels | 247991 | [247991-wings-of-angels.json](./247991-wings-of-angels.json) |
+| Wings of Bluestar | 27941 | [27941-wings-of-bluestar.json](./27941-wings-of-bluestar.json) |
 | Wings of Destiny | 15484 | [15484-wings-of-destiny.json](./15484-wings-of-destiny.json) |
 | Wings of Duty | 174771 | [174771-wings-of-duty.json](./174771-wings-of-duty.json) |
 | Wings of Glory | 212247 | [212247-wings-of-glory.json](./212247-wings-of-glory.json) |
