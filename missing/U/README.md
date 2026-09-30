@@ -987,6 +987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unforgiven: Shattered Souls | 139357 | [139357-unforgiven-shattered-souls.json](./139357-unforgiven-shattered-souls.json) |
 | Unforgiven: Shattered Souls Portable | 139358 | [139358-unforgiven-shattered-souls-portable.json](./139358-unforgiven-shattered-souls-portable.json) |
 | Unforgiving - A Northern Hymn | 75496 | [75496-unforgiving-a-northern-hymn.json](./75496-unforgiving-a-northern-hymn.json) |
+| Unforgiving Trials: The Darkest Crusade | 32868 | [32868-unforgiving-trials-the-darkest-crusade.json](./32868-unforgiving-trials-the-darkest-crusade.json) |
 | Unforgiving Trials: The Space Crusade | 31141 | [31141-unforgiving-trials-the-space-crusade.json](./31141-unforgiving-trials-the-space-crusade.json) |
 | Unforgotten: Ordinance | 276816 | [276816-unforgotten-ordinance.json](./276816-unforgotten-ordinance.json) |
 | Unformed | 129015 | [129015-unformed.json](./129015-unformed.json) |
@@ -1000,6 +1001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unguided | 362485 | [362485-unguided.json](./362485-unguided.json) |
 | Unguided Order | 379032 | [379032-unguided-order.json](./379032-unguided-order.json) |
 | Ungus | 229659 | [229659-ungus.json](./229659-ungus.json) |
+| Unhack 2 | 33530 | [33530-unhack-2.json](./33530-unhack-2.json) |
 | Unhallowed | 256834 | [256834-unhallowed.json](./256834-unhallowed.json) |
 | Unhallowed: The Cabin | 96235 | [96235-unhallowed-the-cabin.json](./96235-unhallowed-the-cabin.json) |
 | Unhappening | 397909 | [397909-unhappening.json](./397909-unhappening.json) |
