@@ -2533,6 +2533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Sol | 125437 | [125437-phantom-sol.json](./125437-phantom-sol.json) |
 | Phantom Tank | 321993 | [321993-phantom-tank.json](./321993-phantom-tank.json) |
 | Phantom Ten | 311292 | [311292-phantom-ten.json](./311292-phantom-ten.json) |
+| Phantom Thief Mirage and the Curious Clues | 420664 | [420664-phantom-thief-mirage-and-the-curious-clues.json](./420664-phantom-thief-mirage-and-the-curious-clues.json) |
 | Phantom Tides | 223952 | [223952-phantom-tides.json](./223952-phantom-tides.json) |
 | Phantom Trigger | 27714 | [27714-phantom-trigger.json](./27714-phantom-trigger.json) |
 | Phantom Vortex VR | 278389 | [278389-phantom-vortex-vr.json](./278389-phantom-vortex-vr.json) |
@@ -4428,6 +4429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platypus II | 36229 | [36229-platypus-ii.json](./36229-platypus-ii.json) |
 | Platzkart Simulator | 158201 | [158201-platzkart-simulator.json](./158201-platzkart-simulator.json) |
 | Plausible Deniability: Cover Your Tracks | 410258 | [410258-plausible-deniability-cover-your-tracks.json](./410258-plausible-deniability-cover-your-tracks.json) |
+| Play & Learn My First Katakana | 420696 | [420696-play-and-learn-my-first-katakana.json](./420696-play-and-learn-my-first-katakana.json) |
 | Play Abalone | 374615 | [374615-play-abalone.json](./374615-play-abalone.json) |
 | Play and Learn with Josephine | 205021 | [205021-play-and-learn-with-josephine.json](./205021-play-and-learn-with-josephine.json) |
 | Play Ball | 40401 | [40401-play-ball.json](./40401-play-ball.json) |
@@ -7612,6 +7614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycholytic | 348235 | [348235-psycholytic.json](./348235-psycholytic.json) |
 | Psychomachia | 291218 | [291218-psychomachia.json](./291218-psychomachia.json) |
 | Psychonauts 2: Motherlobe Edition | 207394 | [207394-psychonauts-2-motherlobe-edition.json](./207394-psychonauts-2-motherlobe-edition.json) |
+| Psychopath Mind Quiz: Unmask Their Dark Nature | 420663 | [420663-psychopath-mind-quiz-unmask-their-dark-nature.json](./420663-psychopath-mind-quiz-unmask-their-dark-nature.json) |
 | PsychoPhobia | 196025 | [196025-psychophobia.json](./196025-psychophobia.json) |
 | Psychophonies: What Ghosts Say | 238438 | [238438-psychophonies-what-ghosts-say.json](./238438-psychophonies-what-ghosts-say.json) |
 | Psychopomp Gold | 319765 | [319765-psychopomp-gold.json](./319765-psychopomp-gold.json) |
@@ -8200,6 +8203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Garage | 291615 | [291615-puzzle-garage.json](./291615-puzzle-garage.json) |
 | Puzzle Girl | 155463 | [155463-puzzle-girl.json](./155463-puzzle-girl.json) |
 | Puzzle Girls: Celia | 163913 | [163913-puzzle-girls-celia.json](./163913-puzzle-girls-celia.json) |
+| Puzzle Girls: Dark Temptation | 420662 | [420662-puzzle-girls-dark-temptation.json](./420662-puzzle-girls-dark-temptation.json) |
 | Puzzle Girls: Lingerie | 109492 | [109492-puzzle-girls-lingerie.json](./109492-puzzle-girls-lingerie.json) |
 | Puzzle Grid | 263571 | [263571-puzzle-grid.json](./263571-puzzle-grid.json) |
 | Puzzle Guardians | 29155 | [29155-puzzle-guardians.json](./29155-puzzle-guardians.json) |
@@ -8290,6 +8294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle World: Cute Cats | 300853 | [300853-puzzle-world-cute-cats.json](./300853-puzzle-world-cute-cats.json) |
 | Puzzle World: Cute Monsters | 203525 | [203525-puzzle-world-cute-monsters.json](./203525-puzzle-world-cute-monsters.json) |
 | Puzzle World: Neko Girls | 300852 | [300852-puzzle-world-neko-girls.json](./300852-puzzle-world-neko-girls.json) |
+| Puzzle X: Model Girls | 420661 | [420661-puzzle-x-model-girls.json](./420661-puzzle-x-model-girls.json) |
 | Puzzle XL | 87705 | [87705-puzzle-xl.json](./87705-puzzle-xl.json) |
 | Puzzle: Birds | 114363 | [114363-puzzle-birds.json](./114363-puzzle-birds.json) |
 | Puzzle: Birds - Puzzle Pack: 10 Birds | 163462 | [163462-puzzle-birds-puzzle-pack-10-birds.json](./163462-puzzle-birds-puzzle-pack-10-birds.json) |
