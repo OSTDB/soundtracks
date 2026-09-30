@@ -1069,6 +1069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanzanite Crush | 282548 | [282548-tanzanite-crush.json](./282548-tanzanite-crush.json) |
 | TanZen HD | 100144 | [100144-tanzen-hd.json](./100144-tanzen-hd.json) |
 | Tao Taido | 39585 | [39585-tao-taido.json](./39585-tao-taido.json) |
+| Tao's Adventure: Curse of the Demon Seal | 20495 | [20495-taos-adventure-curse-of-the-demon-seal.json](./20495-taos-adventure-curse-of-the-demon-seal.json) |
 | Táolí Dìqiú | 158203 | [158203-taoli-diqiu.json](./158203-taoli-diqiu.json) |
 | Taora: Survival | 235197 | [235197-taora-survival.json](./235197-taora-survival.json) |
 | Taoyuan Adventure | 160174 | [160174-taoyuan-adventure.json](./160174-taoyuan-adventure.json) |
@@ -2200,6 +2201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tesla's Tower: The Wardenclyffe Mystery | 31954 | [31954-teslas-tower-the-wardenclyffe-mystery.json](./31954-teslas-tower-the-wardenclyffe-mystery.json) |
 | Teslagrad 2 | 214506 | [214506-teslagrad-2.json](./214506-teslagrad-2.json) |
 | Teslagrad Remastered | 246407 | [246407-teslagrad-remastered.json](./246407-teslagrad-remastered.json) |
+| Teslapunk | 20961 | [20961-teslapunk.json](./20961-teslapunk.json) |
 | Tess | 58767 | [58767-tess.json](./58767-tess.json) |
 | Tess and the Forgotten Friend | 58766 | [58766-tess-and-the-forgotten-friend.json](./58766-tess-and-the-forgotten-friend.json) |
 | Tess Elated | 114951 | [114951-tess-elated.json](./114951-tess-elated.json) |
@@ -2331,6 +2333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Rosy Retrospection DX | 359081 | [359081-tetris-rosy-retrospection-dx.json](./359081-tetris-rosy-retrospection-dx.json) |
 | Tetris Royale | 120266 | [120266-tetris-royale.json](./120266-tetris-royale.json) |
 | Tetris Secret | 130931 | [130931-tetris-secret.json](./130931-tetris-secret.json) |
+| Tetris Splash | 20766 | [20766-tetris-splash.json](./20766-tetris-splash.json) |
 | Tetris Zone | 78032 | [78032-tetris-zone.json](./78032-tetris-zone.json) |
 | Tetris: Flower Garden | 195739 | [195739-tetris-flower-garden.json](./195739-tetris-flower-garden.json) |
 | Tetris: Rosy Retrospection | 247519 | [247519-tetris-rosy-retrospection.json](./247519-tetris-rosy-retrospection.json) |
@@ -7756,6 +7759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Song of the Nightrider | 244874 | [244874-the-song-of-the-nightrider.json](./244874-the-song-of-the-nightrider.json) |
 | The Song of the Stars II | 284328 | [284328-the-song-of-the-stars-ii.json](./284328-the-song-of-the-stars-ii.json) |
 | The Sopranos Poker | 57931 | [57931-the-sopranos-poker.json](./57931-the-sopranos-poker.json) |
+| The Sopranos: Road to Respect | 17248 | [17248-the-sopranos-road-to-respect.json](./17248-the-sopranos-road-to-respect.json) |
 | The Sorcerer's Sword | 244212 | [244212-the-sorcerers-sword.json](./244212-the-sorcerers-sword.json) |
 | The Sorceress | 29788 | [29788-the-sorceress.json](./29788-the-sorceress.json) |
 | The Sorceror's Appraisal | 71240 | [71240-the-sorcerors-appraisal.json](./71240-the-sorcerors-appraisal.json) |
@@ -11316,6 +11320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokio | 72164 | [72164-tokio.json](./72164-tokio.json) |
 | Tokkyuu Shirei Solbrain | 215134 | [215134-tokkyuu-shirei-solbrain.json](./215134-tokkyuu-shirei-solbrain.json) |
 | Toko Toko Trouble | 242632 | [242632-toko-toko-trouble.json](./242632-toko-toko-trouble.json) |
+| Tokobot Plus: Mysteries of the Karakuri | 20663 | [20663-tokobot-plus-mysteries-of-the-karakuri.json](./20663-tokobot-plus-mysteries-of-the-karakuri.json) |
 | Tokoro no Ma-Mahjong 2: Tokoro's Cup | 125973 | [125973-tokoro-no-ma-mahjong-2-tokoros-cup.json](./125973-tokoro-no-ma-mahjong-2-tokoros-cup.json) |
 | Tokoro-san no Daifugou | 125975 | [125975-tokoro-san-no-daifugou.json](./125975-tokoro-san-no-daifugou.json) |
 | Tokoro-san no Mah-Mahjong | 125974 | [125974-tokoro-san-no-mah-mahjong.json](./125974-tokoro-san-no-mah-mahjong.json) |
@@ -12147,6 +12152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toten | 233486 | [233486-toten.json](./233486-toten.json) |
 | Totenkampf: Anime Waifus vs WW2 Zombies | 398414 | [398414-totenkampf-anime-waifus-vs-ww2-zombies.json](./398414-totenkampf-anime-waifus-vs-ww2-zombies.json) |
 | Totò Sapore e La Magica Storia Della Pizza | 144813 | [144813-toto-sapore-e-la-magica-storia-della-pizza.json](./144813-toto-sapore-e-la-magica-storia-della-pizza.json) |
+| Toto Temple Deluxe | 20963 | [20963-toto-temple-deluxe.json](./20963-toto-temple-deluxe.json) |
 | Toto's Toy Box | 129222 | [129222-totos-toy-box.json](./129222-totos-toy-box.json) |
 | Totonoi Simulator | 325450 | [325450-totonoi-simulator.json](./325450-totonoi-simulator.json) |
 | Tots Town - House | 97151 | [97151-tots-town-house.json](./97151-tots-town-house.json) |
