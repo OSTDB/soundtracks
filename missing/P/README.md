@@ -1236,6 +1236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Partical City Guardians | 32245 | [32245-partical-city-guardians.json](./32245-partical-city-guardians.json) |
 | Particle | 309496 | [309496-particle.json](./309496-particle.json) |
 | Particle Fleet: Emergence | 24821 | [24821-particle-fleet-emergence.json](./24821-particle-fleet-emergence.json) |
+| Particle Mace | 17304 | [17304-particle-mace.json](./17304-particle-mace.json) |
 | Particles | 262696 | [262696-particles.json](./262696-particles.json) |
 | Particubes | 151086 | [151086-particubes.json](./151086-particubes.json) |
 | Particula | 18179 | [18179-particula.json](./18179-particula.json) |
