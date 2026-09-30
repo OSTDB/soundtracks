@@ -1493,6 +1493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void | 202343 | [202343-void.json](./202343-void.json) |
 | Void | 237506 | [237506-void.json](./237506-void.json) |
 | Void | 252369 | [252369-void.json](./252369-void.json) |
+| Void | 31994 | [31994-void.json](./31994-void.json) |
 | Void | 344436 | [344436-void.json](./344436-void.json) |
 | Void & Nothingness | 30762 | [30762-void-and-nothingness.json](./30762-void-and-nothingness.json) |
 | Void and Meddler | 25941 | [25941-void-and-meddler.json](./25941-void-and-meddler.json) |
