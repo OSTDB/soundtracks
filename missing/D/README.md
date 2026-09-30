@@ -1643,7 +1643,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Rising 2: Case West | 21764 | [21764-dead-rising-2-case-west.json](./21764-dead-rising-2-case-west.json) |
 | Dead Rising 2: Case Zero | 20409 | [20409-dead-rising-2-case-zero.json](./20409-dead-rising-2-case-zero.json) |
 | Dead Rising 2: Off the Record | 5924 | [5924-dead-rising-2-off-the-record.json](./5924-dead-rising-2-off-the-record.json) |
+| Dead Rising 3: Chaos Rising | 20940 | [20940-dead-rising-3-chaos-rising.json](./20940-dead-rising-3-chaos-rising.json) |
+| Dead Rising 3: Fallen Angel | 20938 | [20938-dead-rising-3-fallen-angel.json](./20938-dead-rising-3-fallen-angel.json) |
 | Dead Rising 3: Operation Broken Eagle | 20933 | [20933-dead-rising-3-operation-broken-eagle.json](./20933-dead-rising-3-operation-broken-eagle.json) |
+| Dead Rising 3: The Last Agent | 20942 | [20942-dead-rising-3-the-last-agent.json](./20942-dead-rising-3-the-last-agent.json) |
 | Dead Rising 4: Capcom Heroes | 202965 | [202965-dead-rising-4-capcom-heroes.json](./202965-dead-rising-4-capcom-heroes.json) |
 | Dead Rising 4: Deluxe Edition | 52871 | [52871-dead-rising-4-deluxe-edition.json](./52871-dead-rising-4-deluxe-edition.json) |
 | Dead Rising Deluxe Remaster: Costume & BGM - Ashley Graham | 360166 | [360166-dead-rising-deluxe-remaster-costume-and-bgm-ashley-graham.json](./360166-dead-rising-deluxe-remaster-costume-and-bgm-ashley-graham.json) |
@@ -1756,6 +1759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadliest Catch: Alaskan Storm | 6962 | [6962-deadliest-catch-alaskan-storm.json](./6962-deadliest-catch-alaskan-storm.json) |
 | Deadliest Catch: Sea of Chaos | 20448 | [20448-deadliest-catch-sea-of-chaos.json](./20448-deadliest-catch-sea-of-chaos.json) |
 | Deadliest Demolition | 274747 | [274747-deadliest-demolition.json](./274747-deadliest-demolition.json) |
+| Deadliest Warrior: Ancient Combat | 20823 | [20823-deadliest-warrior-ancient-combat.json](./20823-deadliest-warrior-ancient-combat.json) |
 | Deadlight: Director's Cut | 19454 | [19454-deadlight-directors-cut.json](./19454-deadlight-directors-cut.json) |
 | Deadline | 185412 | [185412-deadline.json](./185412-deadline.json) |
 | Deadline Escape | 356726 | [356726-deadline-escape.json](./356726-deadline-escape.json) |
