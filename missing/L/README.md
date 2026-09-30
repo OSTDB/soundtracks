@@ -3590,6 +3590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of Exile | 133970 | [133970-lords-of-exile.json](./133970-lords-of-exile.json) |
 | Lords of Kingdoms | 96662 | [96662-lords-of-kingdoms.json](./96662-lords-of-kingdoms.json) |
 | Lords of Magic | 51397 | [51397-lords-of-magic.json](./51397-lords-of-magic.json) |
+| Lords of Magic: Legends of Urak | 73966 | [73966-lords-of-magic-legends-of-urak.json](./73966-lords-of-magic-legends-of-urak.json) |
 | Lords of Midnight: The Citadel | 69178 | [69178-lords-of-midnight-the-citadel.json](./69178-lords-of-midnight-the-citadel.json) |
 | Lords of New York | 26850 | [26850-lords-of-new-york.json](./26850-lords-of-new-york.json) |
 | Lords of Ravage | 204714 | [204714-lords-of-ravage.json](./204714-lords-of-ravage.json) |
