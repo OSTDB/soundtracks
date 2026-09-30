@@ -7462,6 +7462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protect Me Knight | 22479 | [22479-protect-me-knight.json](./22479-protect-me-knight.json) |
 | Protect Mother | 241631 | [241631-protect-mother.json](./241631-protect-mother.json) |
 | Protect the campus | 123502 | [123502-protect-the-campus.json](./123502-protect-the-campus.json) |
+| Protect the Grimoire | 413133 | [413133-protect-the-grimoire.json](./413133-protect-the-grimoire.json) |
 | Protect the Planet | 257969 | [257969-protect-the-planet.json](./257969-protect-the-planet.json) |
 | Protect Your Gold From Barack Obama | 313343 | [313343-protect-your-gold-from-barack-obama.json](./313343-protect-your-gold-from-barack-obama.json) |
 | Protect Zoey from the Zombies | 98595 | [98595-protect-zoey-from-the-zombies.json](./98595-protect-zoey-from-the-zombies.json) |
@@ -8091,6 +8092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putt-Putt Joins the Circus | 3739 | [3739-putt-putt-joins-the-circus.json](./3739-putt-putt-joins-the-circus.json) |
 | Putt-Putt Saves the Zoo | 3736 | [3736-putt-putt-saves-the-zoo.json](./3736-putt-putt-saves-the-zoo.json) |
 | Putt-Putt Travels Through Time | 3737 | [3737-putt-putt-travels-through-time.json](./3737-putt-putt-travels-through-time.json) |
+| Putt.day | 413151 | [413151-putt-day.json](./413151-putt-day.json) |
 | Puttball | 58220 | [58220-puttball.json](./58220-puttball.json) |
 | Puttin' Around | 114171 | [114171-puttin-around.json](./114171-puttin-around.json) |
 | Putty | 39022 | [39022-putty.json](./39022-putty.json) |
