@@ -4865,6 +4865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Escape: Induction | 127945 | [127945-silent-escape-induction.json](./127945-silent-escape-induction.json) |
 | Silent Fangs: Stealthy Vampire's Tale | 371264 | [371264-silent-fangs-stealthy-vampires-tale.json](./371264-silent-fangs-stealthy-vampires-tale.json) |
 | Silent Frontiers | 304606 | [304606-silent-frontiers.json](./304606-silent-frontiers.json) |
+| Silent Harmony | 394479 | [394479-silent-harmony.json](./394479-silent-harmony.json) |
 | Silent Hill 2: Deluxe Edition | 303813 | [303813-silent-hill-2-deluxe-edition.json](./303813-silent-hill-2-deluxe-edition.json) |
 | Silent Hill 2: Restless Dreams | 22066 | [22066-silent-hill-2-restless-dreams.json](./22066-silent-hill-2-restless-dreams.json) |
 | Silent Hill 2: Special 2 Disc Set | 43277 | [43277-silent-hill-2-special-2-disc-set.json](./43277-silent-hill-2-special-2-disc-set.json) |
@@ -10850,6 +10851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Runner | 198238 | [198238-square-runner.json](./198238-square-runner.json) |
 | Square Saga: The Trials | 296469 | [296469-square-saga-the-trials.json](./296469-square-saga-the-trials.json) |
 | Square Shooter | 108482 | [108482-square-shooter.json](./108482-square-shooter.json) |
+| Square Smash | 394465 | [394465-square-smash.json](./394465-square-smash.json) |
 | Square Valley | 200051 | [200051-square-valley.json](./200051-square-valley.json) |
 | Square vs Triangles | 156054 | [156054-square-vs-triangles.json](./156054-square-vs-triangles.json) |
 | Square Worlds | 185538 | [185538-square-worlds.json](./185538-square-worlds.json) |
