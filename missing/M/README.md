@@ -5792,6 +5792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Magic Match | 393810 | [393810-mini-magic-match.json](./393810-mini-magic-match.json) |
 | Mini Map | 178016 | [178016-mini-map.json](./178016-mini-map.json) |
 | Mini Mario & Friends: Amiibo Challenge | 18195 | [18195-mini-mario-and-friends-amiibo-challenge.json](./18195-mini-mario-and-friends-amiibo-challenge.json) |
+| Mini Mart Survivors | 413122 | [413122-mini-mart-survivors.json](./413122-mini-mart-survivors.json) |
 | Mini Matches | 121597 | [121597-mini-matches.json](./121597-mini-matches.json) |
 | Mini Maze: Online | 298712 | [298712-mini-maze-online.json](./298712-mini-maze-online.json) |
 | Mini Mini-Golf | 188109 | [188109-mini-mini-golf.json](./188109-mini-mini-golf.json) |
@@ -5953,6 +5954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiniWood VR | 118159 | [118159-miniwood-vr.json](./118159-miniwood-vr.json) |
 | MiniWorld | 184032 | [184032-miniworld.json](./184032-miniworld.json) |
 | Miniworld Royale | 208969 | [208969-miniworld-royale.json](./208969-miniworld-royale.json) |
+| Minkle's Masks of Mayhem | 413142 | [413142-minkles-masks-of-mayhem.json](./413142-minkles-masks-of-mayhem.json) |
 | Minky | 246979 | [246979-minky.json](./246979-minky.json) |
 | Minky Momo no Panic Ball | 310519 | [310519-minky-momo-no-panic-ball.json](./310519-minky-momo-no-panic-ball.json) |
 | MinMe | 241050 | [241050-minme.json](./241050-minme.json) |
@@ -6060,6 +6062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miramagia | 209560 | [209560-miramagia.json](./209560-miramagia.json) |
 | Mírame | 271728 | [271728-mirame.json](./271728-mirame.json) |
 | Miraneko | 404307 | [404307-miraneko.json](./404307-miraneko.json) |
+| Miranza Futebol Clube | 413124 | [413124-miranza-futebol-clube.json](./413124-miranza-futebol-clube.json) |
 | Miraroma | 93979 | [93979-miraroma.json](./93979-miraroma.json) |
 | Mirastell | 132782 | [132782-mirastell.json](./132782-mirastell.json) |
 | Mirax | 39592 | [39592-mirax.json](./39592-mirax.json) |
@@ -6590,6 +6593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mod Mage Mike | 310743 | [310743-mod-mage-mike.json](./310743-mod-mage-mike.json) |
 | Modavuj Multiplayer Market Simulator | 392946 | [392946-modavuj-multiplayer-market-simulator.json](./392946-modavuj-multiplayer-market-simulator.json) |
 | Modavuj Platform | 369631 | [369631-modavuj-platform.json](./369631-modavuj-platform.json) |
+| Modavuj: Forest Camp | 413149 | [413149-modavuj-forest-camp.json](./413149-modavuj-forest-camp.json) |
 | Mode | 61659 | [61659-mode.json](./61659-mode.json) |
 | Model 3 Test Drive | 96057 | [96057-model-3-test-drive.json](./96057-model-3-test-drive.json) |
 | Model Builder | 124749 | [124749-model-builder.json](./124749-model-builder.json) |
@@ -7448,6 +7452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Montezuma's Revenge Featuring Panama Joe | 46138 | [46138-montezumas-revenge-featuring-panama-joe.json](./46138-montezumas-revenge-featuring-panama-joe.json) |
 | Montezuma's Revenge: 8-Bit Edition | 234623 | [234623-montezumas-revenge-8-bit-edition.json](./234623-montezumas-revenge-8-bit-edition.json) |
 | Montezuma's Revenge: The 40th Anniversary Edition | 330130 | [330130-montezumas-revenge-the-40th-anniversary-edition.json](./330130-montezumas-revenge-the-40th-anniversary-edition.json) |
+| Montgolfier Brothers' Test Flight | 413027 | [413027-montgolfier-brothers-test-flight.json](./413027-montgolfier-brothers-test-flight.json) |
 | Montgomery Fox and the Revenge of Victor Draven | 226321 | [226321-montgomery-fox-and-the-revenge-of-victor-draven.json](./226321-montgomery-fox-and-the-revenge-of-victor-draven.json) |
 | Monthly Dystopia | 232397 | [232397-monthly-dystopia.json](./232397-monthly-dystopia.json) |
 | Monti: The Hidden Secret | 278989 | [278989-monti-the-hidden-secret.json](./278989-monti-the-hidden-secret.json) |
@@ -9840,6 +9845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery P.I.: Stolen in San Francisco | 80549 | [80549-mystery-p-i-stolen-in-san-francisco.json](./80549-mystery-p-i-stolen-in-san-francisco.json) |
 | Mystery P.I.: The London Caper | 65205 | [65205-mystery-p-i-the-london-caper.json](./65205-mystery-p-i-the-london-caper.json) |
 | Mystery P.I.: The Lottery Ticket | 14811 | [14811-mystery-p-i-the-lottery-ticket.json](./14811-mystery-p-i-the-lottery-ticket.json) |
+| Mystery Phantoms: Ghostly Secrets - Collector's Edition | 413147 | [413147-mystery-phantoms-ghostly-secrets-collectors-edition.json](./413147-mystery-phantoms-ghostly-secrets-collectors-edition.json) |
 | Mystery Quest | 48195 | [48195-mystery-quest.json](./48195-mystery-quest.json) |
 | Mystery Saiyan | 86986 | [86986-mystery-saiyan.json](./86986-mystery-saiyan.json) |
 | Mystery Society 2: Hidden Puzzles | 250954 | [250954-mystery-society-2-hidden-puzzles.json](./250954-mystery-society-2-hidden-puzzles.json) |
