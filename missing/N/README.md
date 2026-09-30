@@ -2968,6 +2968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nociception: Simple Outlook From Hell | 142414 | [142414-nociception-simple-outlook-from-hell.json](./142414-nociception-simple-outlook-from-hell.json) |
 | Nociception: Voltaic Marketplace | 196130 | [196130-nociception-voltaic-marketplace.json](./196130-nociception-voltaic-marketplace.json) |
 | Nock & Load | 341482 | [341482-nock-and-load.json](./341482-nock-and-load.json) |
+| Nock Nock Loose | 410307 | [410307-nock-nock-loose.json](./410307-nock-nock-loose.json) |
 | Nock: Hidden Arrow | 31389 | [31389-nock-hidden-arrow.json](./31389-nock-hidden-arrow.json) |
 | Nocked! | 174208 | [174208-nocked.json](./174208-nocked.json) |
 | Nocked! True Tales of Robin Hood | 118139 | [118139-nocked-true-tales-of-robin-hood.json](./118139-nocked-true-tales-of-robin-hood.json) |
@@ -3234,6 +3235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Northwind | 190958 | [190958-northwind.json](./190958-northwind.json) |
 | Norukasoruka | 398984 | [398984-norukasoruka.json](./398984-norukasoruka.json) |
 | Norukasoruka: Tanpenshuu | 398985 | [398985-norukasoruka-tanpenshuu.json](./398985-norukasoruka-tanpenshuu.json) |
+| NoRush! | 410293 | [410293-norush.json](./410293-norush.json) |
 | Nose | 152145 | [152145-nose.json](./152145-nose.json) |
 | Nose | 224501 | [224501-nose.json](./224501-nose.json) |
 | Nose | 287230 | [287230-nose.json](./287230-nose.json) |
