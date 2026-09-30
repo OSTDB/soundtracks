@@ -691,6 +691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Ship Sailing | 403707 | [403707-last-ship-sailing.json](./403707-last-ship-sailing.json) |
 | Last Shooter: Apocalypse | 227266 | [227266-last-shooter-apocalypse.json](./227266-last-shooter-apocalypse.json) |
 | Last Signal | 257982 | [257982-last-signal.json](./257982-last-signal.json) |
+| Last Signal | 395151 | [395151-last-signal.json](./395151-last-signal.json) |
 | Last Soldier | 52270 | [52270-last-soldier.json](./52270-last-soldier.json) |
 | Last Spirit PBT | 326250 | [326250-last-spirit-pbt.json](./326250-last-spirit-pbt.json) |
 | Last Stance: A JuVentures Game | 244716 | [244716-last-stance-a-juventures-game.json](./244716-last-stance-a-juventures-game.json) |
@@ -735,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Year | 19819 | [19819-last-year.json](./19819-last-year.json) |
 | Last Z: Survival Shooter | 375192 | [375192-last-z-survival-shooter.json](./375192-last-z-survival-shooter.json) |
 | Last-Hit Defense | 224027 | [224027-last-hit-defense.json](./224027-last-hit-defense.json) |
+| LasTar | 395162 | [395162-lastar.json](./395162-lastar.json) |
 | Lastbane | 348773 | [348773-lastbane.json](./348773-lastbane.json) |
 | LastDitch | 296529 | [296529-lastditch.json](./296529-lastditch.json) |
 | Lastfight | 19250 | [19250-lastfight.json](./19250-lastfight.json) |
@@ -2903,6 +2905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Rocket Girl | 62250 | [62250-little-rocket-girl.json](./62250-little-rocket-girl.json) |
 | Little Scavenger | 267451 | [267451-little-scavenger.json](./267451-little-scavenger.json) |
 | Little Screamies | 319583 | [319583-little-screamies.json](./319583-little-screamies.json) |
+| Little Secret | 395129 | [395129-little-secret.json](./395129-little-secret.json) |
 | Little Shadow | 381602 | [381602-little-shadow.json](./381602-little-shadow.json) |
 | Little Shaker: Summer Adventures | 237623 | [237623-little-shaker-summer-adventures.json](./237623-little-shaker-summer-adventures.json) |
 | Little Sheep Valley | 403179 | [403179-little-sheep-valley.json](./403179-little-sheep-valley.json) |
@@ -3082,6 +3085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lizards Must Die | 264773 | [264773-lizards-must-die.json](./264773-lizards-must-die.json) |
 | Lizards Must Die 2 | 311584 | [311584-lizards-must-die-2.json](./311584-lizards-must-die-2.json) |
 | Lizards Must Die: Victor Character | 288903 | [288903-lizards-must-die-victor-character.json](./288903-lizards-must-die-victor-character.json) |
+| Lizards VS Humans | 395100 | [395100-lizards-vs-humans.json](./395100-lizards-vs-humans.json) |
 | LizardSpock | 233012 | [233012-lizardspock.json](./233012-lizardspock.json) |
 | Lizzie McGuire 2: Lizzie Diaries | 49393 | [49393-lizzie-mcguire-2-lizzie-diaries.json](./49393-lizzie-mcguire-2-lizzie-diaries.json) |
 | Lizzie McGuire 3: Homecoming Havoc | 49392 | [49392-lizzie-mcguire-3-homecoming-havoc.json](./49392-lizzie-mcguire-3-homecoming-havoc.json) |
@@ -4163,6 +4167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Vibe: Aria | 103464 | [103464-love-vibe-aria.json](./103464-love-vibe-aria.json) |
 | Love wish | 129344 | [129344-love-wish.json](./129344-love-wish.json) |
 | Love with Kadyrov | 383525 | [383525-love-with-kadyrov.json](./383525-love-with-kadyrov.json) |
+| Love WMC | 395140 | [395140-love-wmc.json](./395140-love-wmc.json) |
 | Love x Fantasy: Horny Elf | 385057 | [385057-love-x-fantasy-horny-elf.json](./385057-love-x-fantasy-horny-elf.json) |
 | Love x Time | 235743 | [235743-love-x-time.json](./235743-love-x-time.json) |
 | Love You till the End | 280320 | [280320-love-you-till-the-end.json](./280320-love-you-till-the-end.json) |
