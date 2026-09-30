@@ -1502,6 +1502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voice of Vamana | 141743 | [141743-voice-of-vamana.json](./141743-voice-of-vamana.json) |
 | Voice over | 224746 | [224746-voice-over.json](./224746-voice-over.json) |
 | Voice Paradise | 270636 | [270636-voice-paradise.json](./270636-voice-paradise.json) |
+| VoiceATC Simulator | 401763 | [401763-voiceatc-simulator.json](./401763-voiceatc-simulator.json) |
 | Voicemail: Laura | 383074 | [383074-voicemail-laura.json](./383074-voicemail-laura.json) |
 | Voices of a Hidden Star | 183530 | [183530-voices-of-a-hidden-star.json](./183530-voices-of-a-hidden-star.json) |
 | Voices of Authority | 270719 | [270719-voices-of-authority.json](./270719-voices-of-authority.json) |
