@@ -2108,6 +2108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LifeGameSimulator | 102328 | [102328-lifegamesimulator.json](./102328-lifegamesimulator.json) |
 | Lifeguard | 61576 | [61576-lifeguard.json](./61576-lifeguard.json) |
 | Lifeless Horizon | 266900 | [266900-lifeless-horizon.json](./266900-lifeless-horizon.json) |
+| Lifeless Moon | 27933 | [27933-lifeless-moon.json](./27933-lifeless-moon.json) |
 | Lifeless Planet | 8433 | [8433-lifeless-planet.json](./8433-lifeless-planet.json) |
 | Lifeless Planet: Premier Edition | 20950 | [20950-lifeless-planet-premier-edition.json](./20950-lifeless-planet-premier-edition.json) |
 | Lifelike | 178003 | [178003-lifelike.json](./178003-lifelike.json) |
@@ -2662,6 +2663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Boats of Farewell | 193730 | [193730-little-boats-of-farewell.json](./193730-little-boats-of-farewell.json) |
 | Little Boo and the Spectral Orbs | 386232 | [386232-little-boo-and-the-spectral-orbs.json](./386232-little-boo-and-the-spectral-orbs.json) |
 | Little Britain: The Video Game | 8557 | [8557-little-britain-the-video-game.json](./8557-little-britain-the-video-game.json) |
+| Little Bug | 28318 | [28318-little-bug.json](./28318-little-bug.json) |
 | Little Bushman | 346039 | [346039-little-bushman.json](./346039-little-bushman.json) |
 | Little Busters! | 7364 | [7364-little-busters.json](./7364-little-busters.json) |
 | Little Busters! Converted Edition | 127796 | [127796-little-busters-converted-edition.json](./127796-little-busters-converted-edition.json) |
@@ -3221,6 +3223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logic Training IQ Quiz for Kids | 401131 | [401131-logic-training-iq-quiz-for-kids.json](./401131-logic-training-iq-quiz-for-kids.json) |
 | Logic: Keypad | 235993 | [235993-logic-keypad.json](./235993-logic-keypad.json) |
 | Logica Emotica | 203540 | [203540-logica-emotica.json](./203540-logica-emotica.json) |
+| LogicBots | 27141 | [27141-logicbots.json](./27141-logicbots.json) |
 | Logicubes | 211285 | [211285-logicubes.json](./211285-logicubes.json) |
 | LogiKing | 231051 | [231051-logiking.json](./231051-logiking.json) |
 | LogIQ Boost | 373650 | [373650-logiq-boost.json](./373650-logiq-boost.json) |
