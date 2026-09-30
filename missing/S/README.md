@@ -5712,6 +5712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Fury | 274469 | [274469-sky-fury.json](./274469-sky-fury.json) |
 | Sky Gamblers - Infinite Jets | 86688 | [86688-sky-gamblers-infinite-jets.json](./86688-sky-gamblers-infinite-jets.json) |
 | Sky Gamblers Races | 106362 | [106362-sky-gamblers-races.json](./106362-sky-gamblers-races.json) |
+| Sky Gamblers: Afterburner | 115109 | [115109-sky-gamblers-afterburner.json](./115109-sky-gamblers-afterburner.json) |
 | Sky Gamblers: Storm Raiders | 17497 | [17497-sky-gamblers-storm-raiders.json](./17497-sky-gamblers-storm-raiders.json) |
 | Sky Garden | 208948 | [208948-sky-garden.json](./208948-sky-garden.json) |
 | Sky Goddess Remaking | 235187 | [235187-sky-goddess-remaking.json](./235187-sky-goddess-remaking.json) |
@@ -6796,6 +6797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snakebird Complete | 239519 | [239519-snakebird-complete.json](./239519-snakebird-complete.json) |
 | Snakebird GB | 324694 | [324694-snakebird-gb.json](./324694-snakebird-gb.json) |
 | SnakeBird NES | 228690 | [228690-snakebird-nes.json](./228690-snakebird-nes.json) |
+| Snakebird Primer | 115003 | [115003-snakebird-primer.json](./115003-snakebird-primer.json) |
 | SnakeByte | 193470 | [193470-snakebyte.json](./193470-snakebyte.json) |
 | Snakeez | 69021 | [69021-snakeez.json](./69021-snakeez.json) |
 | Snakehaus | 274496 | [274496-snakehaus.json](./274496-snakehaus.json) |
@@ -7335,6 +7337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokfest | 240314 | [240314-sokfest.json](./240314-sokfest.json) |
 | Sokko Seitokai: Sonic Council | 165073 | [165073-sokko-seitokai-sonic-council.json](./165073-sokko-seitokai-sonic-council.json) |
 | Soko Loco | 129576 | [129576-soko-loco.json](./129576-soko-loco.json) |
+| Soko Loco Deluxe | 115328 | [115328-soko-loco-deluxe.json](./115328-soko-loco-deluxe.json) |
 | Soko-Ban | 11763 | [11763-soko-ban.json](./11763-soko-ban.json) |
 | Sokoball of Osaka | 64679 | [64679-sokoball-of-osaka.json](./64679-sokoball-of-osaka.json) |
 | Sokoban | 19573 | [19573-sokoban.json](./19573-sokoban.json) |
@@ -10028,6 +10031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpinSling | 74405 | [74405-spinsling.json](./74405-spinsling.json) |
 | SpinSweep | 301277 | [301277-spinsweep.json](./301277-spinsweep.json) |
 | Spintires | 7347 | [7347-spintires.json](./7347-spintires.json) |
+| Spintires: MudRunner - American Wilds | 111316 | [111316-spintires-mudrunner-american-wilds.json](./111316-spintires-mudrunner-american-wilds.json) |
 | Spintires: MudRunner - American Wilds Edition | 110802 | [110802-spintires-mudrunner-american-wilds-edition.json](./110802-spintires-mudrunner-american-wilds-edition.json) |
 | Spinwave Survivors | 388002 | [388002-spinwave-survivors.json](./388002-spinwave-survivors.json) |
 | Spinword | 69567 | [69567-spinword.json](./69567-spinword.json) |
@@ -12005,6 +12009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Thunder | 244476 | [244476-steel-thunder.json](./244476-steel-thunder.json) |
 | Steel Thunder | 65568 | [65568-steel-thunder.json](./65568-steel-thunder.json) |
 | Steel Tower Swordmaster | 211943 | [211943-steel-tower-swordmaster.json](./211943-steel-tower-swordmaster.json) |
+| Steel Vampire | 111415 | [111415-steel-vampire.json](./111415-steel-vampire.json) |
 | Steel Wars Royale | 148368 | [148368-steel-wars-royale.json](./148368-steel-wars-royale.json) |
 | Steel Wool Studios Bundle | 240350 | [240350-steel-wool-studios-bundle.json](./240350-steel-wool-studios-bundle.json) |
 | Steel Worker | 299481 | [299481-steel-worker.json](./299481-steel-worker.json) |
@@ -12295,6 +12300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StickMUD | 228427 | [228427-stickmud.json](./228427-stickmud.json) |
 | Sticks | 68800 | [68800-sticks.json](./68800-sticks.json) |
 | Sticks Aim Trainer | 294818 | [294818-sticks-aim-trainer.json](./294818-sticks-aim-trainer.json) |
+| Sticks and Bones | 115508 | [115508-sticks-and-bones.json](./115508-sticks-and-bones.json) |
 | Sticks and Stones | 408291 | [408291-sticks-and-stones.json](./408291-sticks-and-stones.json) |
 | Sticks Collection | 207888 | [207888-sticks-collection.json](./207888-sticks-collection.json) |
 | Sticks Together: The Wishing Well | 311137 | [311137-sticks-together-the-wishing-well.json](./311137-sticks-together-the-wishing-well.json) |
@@ -13919,6 +13925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Arabian | 48665 | [48665-super-arabian.json](./48665-super-arabian.json) |
 | Super Arcade Football | 19084 | [19084-super-arcade-football.json](./19084-super-arcade-football.json) |
 | Super Arcade Pinball | 217980 | [217980-super-arcade-pinball.json](./217980-super-arcade-pinball.json) |
+| Super Arcade Soccer | 115136 | [115136-super-arcade-soccer.json](./115136-super-arcade-soccer.json) |
 | Super Army of Tentacles 3: The Search for Army of Tentacles 2 - Isle of the Cat Girls | 225902 | [225902-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-isle-of-the-cat-girls.json](./225902-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-isle-of-the-cat-girls.json) |
 | Super Artificial Intelligence Psike | 216871 | [216871-super-artificial-intelligence-psike.json](./216871-super-artificial-intelligence-psike.json) |
 | Super Asqr | 199370 | [199370-super-asqr.json](./199370-super-asqr.json) |
