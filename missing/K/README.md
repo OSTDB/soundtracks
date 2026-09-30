@@ -613,6 +613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawaii Anime: Cute Girls Magic World | 409685 | [409685-kawaii-anime-cute-girls-magic-world.json](./409685-kawaii-anime-cute-girls-magic-world.json) |
 | Kawaii Coloring Book | 104223 | [104223-kawaii-coloring-book.json](./104223-kawaii-coloring-book.json) |
 | Kawaii Deathu Desu | 120089 | [120089-kawaii-deathu-desu.json](./120089-kawaii-deathu-desu.json) |
+| Kawaii Force: Liberty Line | 397876 | [397876-kawaii-force-liberty-line.json](./397876-kawaii-force-liberty-line.json) |
 | Kawaii Girls | 334088 | [334088-kawaii-girls.json](./334088-kawaii-girls.json) |
 | Kawaii Girls: Busty Bear | 378810 | [378810-kawaii-girls-busty-bear.json](./378810-kawaii-girls-busty-bear.json) |
 | Kawaii Girls: Rural Romance | 364079 | [364079-kawaii-girls-rural-romance.json](./364079-kawaii-girls-rural-romance.json) |
@@ -900,6 +901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Key 2 | 369579 | [369579-key-2.json](./369579-key-2.json) |
 | Key Defence | 122339 | [122339-key-defence.json](./122339-key-defence.json) |
 | Key Finder | 358940 | [358940-key-finder.json](./358940-key-finder.json) |
+| Key Girl | 397895 | [397895-key-girl.json](./397895-key-girl.json) |
 | Key Gunner | 333659 | [333659-key-gunner.json](./333659-key-gunner.json) |
 | Key Hunters DX | 266206 | [266206-key-hunters-dx.json](./266206-key-hunters-dx.json) |
 | Key La Box | 242064 | [242064-key-la-box.json](./242064-key-la-box.json) |
@@ -2536,6 +2538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koshien Story | 57915 | [57915-koshien-story.json](./57915-koshien-story.json) |
 | Koshka | 157145 | [157145-koshka.json](./157145-koshka.json) |
 | Koshka's Kofe | 135683 | [135683-koshkas-kofe.json](./135683-koshkas-kofe.json) |
+| Koshmar: The Last Reverie | 397836 | [397836-koshmar-the-last-reverie.json](./397836-koshmar-the-last-reverie.json) |
 | Koshotengai no Hashihime Noma | 103176 | [103176-koshotengai-no-hashihime-noma.json](./103176-koshotengai-no-hashihime-noma.json) |
 | Kosmik Pirate | 300032 | [300032-kosmik-pirate.json](./300032-kosmik-pirate.json) |
 | Kosmo Azs | 257922 | [257922-kosmo-azs.json](./257922-kosmo-azs.json) |
@@ -2729,6 +2732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kud Wafter | 9659 | [9659-kud-wafter.json](./9659-kud-wafter.json) |
 | Kudamono Drop | 316780 | [316780-kudamono-drop.json](./316780-kudamono-drop.json) |
 | Kudamono Party | 288780 | [288780-kudamono-party.json](./288780-kudamono-party.json) |
+| Kudo’s Kuppa | 397866 | [397866-kudo-s-kuppa.json](./397866-kudo-s-kuppa.json) |
 | Kudokikata Oshiemasu | 67389 | [67389-kudokikata-oshiemasu.json](./67389-kudokikata-oshiemasu.json) |
 | Kudokikata Oshiemasu Part II: Kind Gals | 67388 | [67388-kudokikata-oshiemasu-part-ii-kind-gals.json](./67388-kudokikata-oshiemasu-part-ii-kind-gals.json) |
 | Kuentame | 383377 | [383377-kuentame.json](./383377-kuentame.json) |
