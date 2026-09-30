@@ -1010,6 +1010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wartales: The Tavern Opens! | 296870 | [296870-wartales-the-tavern-opens.json](./296870-wartales-the-tavern-opens.json) |
 | WarTech: Senko no Ronde | 7245 | [7245-wartech-senko-no-ronde.json](./7245-wartech-senko-no-ronde.json) |
 | Warthog Rally | 393022 | [393022-warthog-rally.json](./393022-warthog-rally.json) |
+| Wartide | 389671 | [389671-wartide.json](./389671-wartide.json) |
 | Wartide: Heroes of Atlantis | 74313 | [74313-wartide-heroes-of-atlantis.json](./74313-wartide-heroes-of-atlantis.json) |
 | Wartile | 18185 | [18185-wartile.json](./18185-wartile.json) |
 | Wartorn | 328003 | [328003-wartorn.json](./328003-wartorn.json) |
@@ -1264,6 +1265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wayfarers: Call of Osiris | 156012 | [156012-wayfarers-call-of-osiris.json](./156012-wayfarers-call-of-osiris.json) |
 | Wayfinder | 152746 | [152746-wayfinder.json](./152746-wayfinder.json) |
 | Wayfinder: Episode One | 381694 | [381694-wayfinder-episode-one.json](./381694-wayfinder-episode-one.json) |
+| Waymantale Adventure | 389689 | [389689-waymantale-adventure.json](./389689-waymantale-adventure.json) |
 | Wayne Gretzky and Brett Hull Shootout Hockey | 198953 | [198953-wayne-gretzky-and-brett-hull-shootout-hockey.json](./198953-wayne-gretzky-and-brett-hull-shootout-hockey.json) |
 | Wayne Gretzky and the NHLPA All-Stars | 19759 | [19759-wayne-gretzky-and-the-nhlpa-all-stars.json](./19759-wayne-gretzky-and-the-nhlpa-all-stars.json) |
 | Wayne Gretzky Hockey | 15509 | [15509-wayne-gretzky-hockey.json](./15509-wayne-gretzky-hockey.json) |
@@ -1631,6 +1633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Werner: Let's Go! | 269305 | [269305-werner-lets-go.json](./269305-werner-lets-go.json) |
 | Werthit | 342888 | [342888-werthit.json](./342888-werthit.json) |
 | Wes Craven's Principles of Fear | 291017 | [291017-wes-cravens-principles-of-fear.json](./291017-wes-cravens-principles-of-fear.json) |
+| West | 389685 | [389685-west.json](./389685-west.json) |
 | West Alien Train | 308361 | [308361-west-alien-train.json](./308361-west-alien-train.json) |
 | West Falls | 131562 | [131562-west-falls.json](./131562-west-falls.json) |
 | West Fantasy | 220750 | [220750-west-fantasy.json](./220750-west-fantasy.json) |
@@ -4316,6 +4319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WrldCraft | 120169 | [120169-wrldcraft.json](./120169-wrldcraft.json) |
 | wrldDivision | 128544 | [128544-wrlddivision.json](./128544-wrlddivision.json) |
 | wrldDivision | 181379 | [181379-wrlddivision.json](./181379-wrlddivision.json) |
+| Wrong Answer | 389676 | [389676-wrong-answer.json](./389676-wrong-answer.json) |
 | Wrong Dimension - The One Dimensional Platformer | 32224 | [32224-wrong-dimension-the-one-dimensional-platformer.json](./32224-wrong-dimension-the-one-dimensional-platformer.json) |
 | Wrong Door | 320958 | [320958-wrong-door.json](./320958-wrong-door.json) |
 | Wrong Escape | 302420 | [302420-wrong-escape.json](./302420-wrong-escape.json) |
