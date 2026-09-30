@@ -268,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Hero | 333530 | [333530-ultimate-hero.json](./333530-ultimate-hero.json) |
 | Ultimate Heroes | 165387 | [165387-ultimate-heroes.json](./165387-ultimate-heroes.json) |
 | Ultimate Holidays: Deluxe Edition | 328810 | [328810-ultimate-holidays-deluxe-edition.json](./328810-ultimate-holidays-deluxe-edition.json) |
+| Ultimate Horse Simulator | 87026 | [87026-ultimate-horse-simulator.json](./87026-ultimate-horse-simulator.json) |
 | Ultimate Hunt Challenge | 94346 | [94346-ultimate-hunt-challenge.json](./94346-ultimate-hunt-challenge.json) |
 | Ultimate Hunting | 337832 | [337832-ultimate-hunting.json](./337832-ultimate-hunting.json) |
 | Ultimate Indie Racing | 306651 | [306651-ultimate-indie-racing.json](./306651-ultimate-indie-racing.json) |
@@ -1029,6 +1030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unibat | 252225 | [252225-unibat.json](./252225-unibat.json) |
 | Unicellular | 185602 | [185602-unicellular.json](./185602-unicellular.json) |
 | Unicorn | 223672 | [223672-unicorn.json](./223672-unicorn.json) |
+| Unicorn 3D | 87057 | [87057-unicorn-3d.json](./87057-unicorn-3d.json) |
 | Unicorn Academy: Island of Magic | 410966 | [410966-unicorn-academy-island-of-magic.json](./410966-unicorn-academy-island-of-magic.json) |
 | Unicorn and Sweets | 149951 | [149951-unicorn-and-sweets.json](./149951-unicorn-and-sweets.json) |
 | Unicorn and Sweets 2 | 152804 | [152804-unicorn-and-sweets-2.json](./152804-unicorn-and-sweets-2.json) |
@@ -1042,6 +1044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unicorn Tails | 127228 | [127228-unicorn-tails.json](./127228-unicorn-tails.json) |
 | Unicorn Wars | 338588 | [338588-unicorn-wars.json](./338588-unicorn-wars.json) |
 | Unicycle Giraffe | 318984 | [318984-unicycle-giraffe.json](./318984-unicycle-giraffe.json) |
+| Unicycle Hero | 87054 | [87054-unicycle-hero.json](./87054-unicycle-hero.json) |
 | Unicycle Journey | 415082 | [415082-unicycle-journey.json](./415082-unicycle-journey.json) |
 | Unicycle Together | 389403 | [389403-unicycle-together.json](./389403-unicycle-together.json) |
 | UniDuni | 168642 | [168642-uniduni.json](./168642-uniduni.json) |
