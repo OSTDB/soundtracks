@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | H Index | 340474 | [340474-h-index.json](./340474-h-index.json) |
 | h Simply Go | 91338 | [91338-h-simply-go.json](./91338-h-simply-go.json) |
 | h Solitaire | 88445 | [88445-h-solitaire.json](./88445-h-solitaire.json) |
+| H to Maid to Mujintou | 416728 | [416728-h-to-maid-to-mujintou.json](./416728-h-to-maid-to-mujintou.json) |
 | H to Maid to My Home | 413760 | [413760-h-to-maid-to-my-home.json](./413760-h-to-maid-to-my-home.json) |
 | h What is the Common | 89806 | [89806-h-what-is-the-common.json](./89806-h-what-is-the-common.json) |
 | H-Craft Championship | 116412 | [116412-h-craft-championship.json](./116412-h-craft-championship.json) |
@@ -3135,6 +3136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Journalist | 103859 | [103859-hidden-journalist.json](./103859-hidden-journalist.json) |
 | Hidden Kingdom: Top-Down 3D | 257068 | [257068-hidden-kingdom-top-down-3d.json](./257068-hidden-kingdom-top-down-3d.json) |
 | Hidden Lands | 343784 | [343784-hidden-lands.json](./343784-hidden-lands.json) |
+| Hidden Legacy: Dark Heirloom | 416709 | [416709-hidden-legacy-dark-heirloom.json](./416709-hidden-legacy-dark-heirloom.json) |
 | Hidden Legacy: Dark Heirloom - Collector's Edition | 360637 | [360637-hidden-legacy-dark-heirloom-collectors-edition.json](./360637-hidden-legacy-dark-heirloom-collectors-edition.json) |
 | Hidden Map | 187369 | [187369-hidden-map.json](./187369-hidden-map.json) |
 | Hidden Memories | 345564 | [345564-hidden-memories.json](./345564-hidden-memories.json) |
