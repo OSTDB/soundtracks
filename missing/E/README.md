@@ -2200,6 +2200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erth | 134673 | [134673-erth.json](./134673-erth.json) |
 | Ertugrul | 274772 | [274772-ertugrul.json](./274772-ertugrul.json) |
 | Erulean Angel: Fantasy Commander | 351136 | [351136-erulean-angel-fantasy-commander.json](./351136-erulean-angel-fantasy-commander.json) |
+| Eruption | 54341 | [54341-eruption.json](./54341-eruption.json) |
 | Eruptle | 320769 | [320769-eruptle.json](./320769-eruptle.json) |
 | EruruAdventure | 97281 | [97281-eruruadventure.json](./97281-eruruadventure.json) |
 | Erusal | 31872 | [31872-erusal.json](./31872-erusal.json) |
@@ -2453,6 +2454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Museum 2 | 143483 | [143483-escape-the-museum-2.json](./143483-escape-the-museum-2.json) |
 | Escape the Office | 100729 | [100729-escape-the-office.json](./100729-escape-the-office.json) |
 | Escape the Omnochronom! | 108632 | [108632-escape-the-omnochronom.json](./108632-escape-the-omnochronom.json) |
+| Escape the Pacific | 54510 | [54510-escape-the-pacific.json](./54510-escape-the-pacific.json) |
 | Escape the past Collection | 177053 | [177053-escape-the-past-collection.json](./177053-escape-the-past-collection.json) |
 | Escape the Prison: 3 Days to Freedom | 248657 | [248657-escape-the-prison-3-days-to-freedom.json](./248657-escape-the-prison-3-days-to-freedom.json) |
 | Escape the Quack | 332986 | [332986-escape-the-quack.json](./332986-escape-the-quack.json) |
@@ -2714,6 +2716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternity Convergence | 156135 | [156135-eternity-convergence.json](./156135-eternity-convergence.json) |
 | Eternity Guards | 148488 | [148488-eternity-guards.json](./148488-eternity-guards.json) |
 | Eternity Warriors | 38502 | [38502-eternity-warriors.json](./38502-eternity-warriors.json) |
+| Eternity Warriors VR | 54652 | [54652-eternity-warriors-vr.json](./54652-eternity-warriors-vr.json) |
 | Eternium: Mage and Minions | 193967 | [193967-eternium-mage-and-minions.json](./193967-eternium-mage-and-minions.json) |
 | Eterspire | 143526 | [143526-eterspire.json](./143526-eterspire.json) |
 | Ethan: Meteor Hunter | 10279 | [10279-ethan-meteor-hunter.json](./10279-ethan-meteor-hunter.json) |
