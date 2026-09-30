@@ -478,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VATSim | 56506 | [56506-vatsim.json](./56506-vatsim.json) |
 | Vault Assault | 40731 | [40731-vault-assault.json](./40731-vault-assault.json) |
 | Vault Circuit | 212743 | [212743-vault-circuit.json](./212743-vault-circuit.json) |
+| Vault Cracker | 17370 | [17370-vault-cracker.json](./17370-vault-cracker.json) |
 | Vault Cracker: The Last Safe | 61575 | [61575-vault-cracker-the-last-safe.json](./61575-vault-cracker-the-last-safe.json) |
 | Vault Hunters | 345548 | [345548-vault-hunters.json](./345548-vault-hunters.json) |
 | Vault of Fallen | 355573 | [355573-vault-of-fallen.json](./355573-vault-of-fallen.json) |
@@ -1039,6 +1040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vikings: Valhalla Saga | 228120 | [228120-vikings-valhalla-saga.json](./228120-vikings-valhalla-saga.json) |
 | Vikings: War of Clans | 44118 | [44118-vikings-war-of-clans.json](./44118-vikings-war-of-clans.json) |
 | VikingStory | 149418 | [149418-vikingstory.json](./149418-vikingstory.json) |
+| Viktor | 17328 | [17328-viktor.json](./17328-viktor.json) |
 | Viktor Crysworth | 132731 | [132731-viktor-crysworth.json](./132731-viktor-crysworth.json) |
 | Viktor: Enforcer Edition | 53871 | [53871-viktor-enforcer-edition.json](./53871-viktor-enforcer-edition.json) |
 | Vila do Nevoeiro R.E.L.I.D.O | 261300 | [261300-vila-do-nevoeiro-r-e-l-i-d-o.json](./261300-vila-do-nevoeiro-r-e-l-i-d-o.json) |
