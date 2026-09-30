@@ -2834,6 +2834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Awesome Adventures of Victor Vector & Yondo: The Cyberplasm Formula | 72098 | [72098-the-awesome-adventures-of-victor-vector-and-yondo-the-cyberplasm-formula.json](./72098-the-awesome-adventures-of-victor-vector-and-yondo-the-cyberplasm-formula.json) |
 | The Awesome Adventures of Victor Vector & Yondo: The Hypnotic Harp | 70457 | [70457-the-awesome-adventures-of-victor-vector-and-yondo-the-hypnotic-harp.json](./70457-the-awesome-adventures-of-victor-vector-and-yondo-the-hypnotic-harp.json) |
 | The Awesome Adventures of Victor Vector & Yondo: The Last Dinosaur Egg | 73364 | [73364-the-awesome-adventures-of-victor-vector-and-yondo-the-last-dinosaur-egg.json](./73364-the-awesome-adventures-of-victor-vector-and-yondo-the-last-dinosaur-egg.json) |
+| The Axis Unseen | 217404 | [217404-the-axis-unseen.json](./217404-the-axis-unseen.json) |
 | The Axolotl Project | 60022 | [60022-the-axolotl-project.json](./60022-the-axolotl-project.json) |
 | The Aztec Ruins | 308328 | [308328-the-aztec-ruins.json](./308328-the-aztec-ruins.json) |
 | The Azure One | 402373 | [402373-the-azure-one.json](./402373-the-azure-one.json) |
@@ -5451,6 +5452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Land Before Time: Prehistoric Adventures | 329652 | [329652-the-land-before-time-prehistoric-adventures.json](./329652-the-land-before-time-prehistoric-adventures.json) |
 | The Land Before Time: Preschool Adventure | 329647 | [329647-the-land-before-time-preschool-adventure.json](./329647-the-land-before-time-preschool-adventure.json) |
 | The Land Before Time: Toddler Time | 329648 | [329648-the-land-before-time-toddler-time.json](./329648-the-land-before-time-toddler-time.json) |
+| The Land Beneath Us | 221115 | [221115-the-land-beneath-us.json](./221115-the-land-beneath-us.json) |
 | The Land Forgotten | 381730 | [381730-the-land-forgotten.json](./381730-the-land-forgotten.json) |
 | The Land of Alembrume | 204983 | [204983-the-land-of-alembrume.json](./204983-the-land-of-alembrume.json) |
 | The Land of Dasthir | 30898 | [30898-the-land-of-dasthir.json](./30898-the-land-of-dasthir.json) |
@@ -7267,6 +7269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rules | 224762 | [224762-the-rules.json](./224762-the-rules.json) |
 | The Rumble Fish | 226310 | [226310-the-rumble-fish.json](./226310-the-rumble-fish.json) |
 | The Rumble Fish + | 278489 | [278489-the-rumble-fish.json](./278489-the-rumble-fish.json) |
+| The Rumble Fish 2 | 222946 | [222946-the-rumble-fish-2.json](./222946-the-rumble-fish-2.json) |
 | The Rumble Fish 2: Additional Character - Beatrice | 226309 | [226309-the-rumble-fish-2-additional-character-beatrice.json](./226309-the-rumble-fish-2-additional-character-beatrice.json) |
 | The Rumble Fish 2: Collector's Edition | 222947 | [222947-the-rumble-fish-2-collectors-edition.json](./222947-the-rumble-fish-2-collectors-edition.json) |
 | The Rumble Fish 2: Deluxe Edition | 251601 | [251601-the-rumble-fish-2-deluxe-edition.json](./251601-the-rumble-fish-2-deluxe-edition.json) |
@@ -9296,6 +9299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This War of Mine: Stories - The Last Broadcast | 111646 | [111646-this-war-of-mine-stories-the-last-broadcast.json](./111646-this-war-of-mine-stories-the-last-broadcast.json) |
 | This War of Mine: War Child Charity | 76239 | [76239-this-war-of-mine-war-child-charity.json](./76239-this-war-of-mine-war-child-charity.json) |
 | This was Once a Place of Honour | 239199 | [239199-this-was-once-a-place-of-honour.json](./239199-this-was-once-a-place-of-honour.json) |
+| This Way Madness Lies | 221775 | [221775-this-way-madness-lies.json](./221775-this-way-madness-lies.json) |
 | This Way!! | 199943 | [199943-this-way.json](./199943-this-way.json) |
 | This, My Soul | 179692 | [179692-this-my-soul.json](./179692-this-my-soul.json) |
 | Thistledown: Marrowroot | 216502 | [216502-thistledown-marrowroot.json](./216502-thistledown-marrowroot.json) |
@@ -11233,6 +11237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toadette's Sweets Gallery | 294781 | [294781-toadettes-sweets-gallery.json](./294781-toadettes-sweets-gallery.json) |
 | Toadomination | 173243 | [173243-toadomination.json](./173243-toadomination.json) |
 | Toads vs. Koopas | 307663 | [307663-toads-vs-koopas.json](./307663-toads-vs-koopas.json) |
+| Toaplan Arcade 1 | 216586 | [216586-toaplan-arcade-1.json](./216586-toaplan-arcade-1.json) |
 | Toaplan Arcade 2 | 239142 | [239142-toaplan-arcade-2.json](./239142-toaplan-arcade-2.json) |
 | Toaplan Arcade 4 | 346803 | [346803-toaplan-arcade-4.json](./346803-toaplan-arcade-4.json) |
 | Toaplan Arcade Collection 3 | 325237 | [325237-toaplan-arcade-collection-3.json](./325237-toaplan-arcade-collection-3.json) |
@@ -14236,6 +14241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tringo | 49344 | [49344-tringo.json](./49344-tringo.json) |
 | Trinity | 2952 | [2952-trinity.json](./2952-trinity.json) |
 | Trinity Archetype | 169756 | [169756-trinity-archetype.json](./169756-trinity-archetype.json) |
+| Trinity Fusion | 218520 | [218520-trinity-fusion.json](./218520-trinity-fusion.json) |
 | Trinity Heart | 266238 | [266238-trinity-heart.json](./266238-trinity-heart.json) |
 | Trinity Shells | 328042 | [328042-trinity-shells.json](./328042-trinity-shells.json) |
 | Trinity Town Monastery \| Martial Art and Meditation | 116812 | [116812-trinity-town-monastery-martial-art-and-meditation.json](./116812-trinity-town-monastery-martial-art-and-meditation.json) |
