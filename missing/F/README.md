@@ -1132,6 +1132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farlight Explorers | 35681 | [35681-farlight-explorers.json](./35681-farlight-explorers.json) |
 | Farm | 328533 | [328533-farm.json](./328533-farm.json) |
 | Farm | 364085 | [364085-farm.json](./364085-farm.json) |
+| Farm 2+ | 412347 | [412347-farm-2.json](./412347-farm-2.json) |
 | Farm and Click - Idle Hell Clicker | 95862 | [95862-farm-and-click-idle-hell-clicker.json](./95862-farm-and-click-idle-hell-clicker.json) |
 | Farm and Fix Simulator | 244785 | [244785-farm-and-fix-simulator.json](./244785-farm-and-fix-simulator.json) |
 | Farm and Girls | 367046 | [367046-farm-and-girls.json](./367046-farm-and-girls.json) |
