@@ -1454,6 +1454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DD Sequencer | 356285 | [356285-dd-sequencer.json](./356285-dd-sequencer.json) |
 | DDD Pool | 92835 | [92835-ddd-pool.json](./92835-ddd-pool.json) |
 | DDD: Demons Double Down | 390779 | [390779-ddd-demons-double-down.json](./390779-ddd-demons-double-down.json) |
+| DDD: Dice, Dungeons, and Drakes | 395123 | [395123-ddd-dice-dungeons-and-drakes.json](./395123-ddd-dice-dungeons-and-drakes.json) |
 | DDI Touring Car Championship | 298681 | [298681-ddi-touring-car-championship.json](./298681-ddi-touring-car-championship.json) |
 | DDM Soccer '96 | 93390 | [93390-ddm-soccer-96.json](./93390-ddm-soccer-96.json) |
 | DDraceNetwork | 136770 | [136770-ddracenetwork.json](./136770-ddracenetwork.json) |
@@ -6921,6 +6922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Crown | 3002 | [3002-dragons-crown.json](./3002-dragons-crown.json) |
 | Dragon's Crown Pro | 68283 | [68283-dragons-crown-pro.json](./68283-dragons-crown-pro.json) |
 | Dragon's Crown Pro: Royal Package | 167136 | [167136-dragons-crown-pro-royal-package.json](./167136-dragons-crown-pro-royal-package.json) |
+| Dragon's Delightful Day | 395164 | [395164-dragons-delightful-day.json](./395164-dragons-delightful-day.json) |
 | Dragon's Dogma | 3968 | [3968-dragons-dogma.json](./3968-dragons-dogma.json) |
 | Dragon's Dogma II: Dark Arisen | 408164 | [408164-dragons-dogma-ii-dark-arisen.json](./408164-dragons-dogma-ii-dark-arisen.json) |
 | Dragon's Dogma II: Dragon's Dogma Music & Sound Collection - Custom Sounds | 308568 | [308568-dragons-dogma-ii-dragons-dogma-music-and-sound-collection-custom-sounds.json](./308568-dragons-dogma-ii-dragons-dogma-music-and-sound-collection-custom-sounds.json) |
