@@ -1579,6 +1579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Roanoke | 270968 | [270968-new-roanoke.json](./270968-new-roanoke.json) |
 | New Roots | 203853 | [203853-new-roots.json](./203853-new-roots.json) |
 | New Rule: The Game is... | 234581 | [234581-new-rule-the-game-is.json](./234581-new-rule-the-game-is.json) |
+| New Science | 419837 | [419837-new-science.json](./419837-new-science.json) |
 | New Scuffed Bhop Simulation 2026: Goty Edition | 192170 | [192170-new-scuffed-bhop-simulation-2026-goty-edition.json](./192170-new-scuffed-bhop-simulation-2026-goty-edition.json) |
 | New Sinbad 7 | 40380 | [40380-new-sinbad-7.json](./40380-new-sinbad-7.json) |
 | New Solitaire Card Game | 96973 | [96973-new-solitaire-card-game.json](./96973-new-solitaire-card-game.json) |
@@ -2793,6 +2794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No One Can Stop Mr. Domino! | 4107 | [4107-no-one-can-stop-mr-domino.json](./4107-no-one-can-stop-mr-domino.json) |
 | No One Lives | 174675 | [174675-no-one-lives.json](./174675-no-one-lives.json) |
 | No One Lives in Heaven: Digital Deluxe Edition | 167182 | [167182-no-one-lives-in-heaven-digital-deluxe-edition.json](./167182-no-one-lives-in-heaven-digital-deluxe-edition.json) |
+| No One Will Miss Me | 419932 | [419932-no-one-will-miss-me.json](./419932-no-one-will-miss-me.json) |
 | No One's Island | 368553 | [368553-no-ones-island.json](./368553-no-ones-island.json) |
 | No Ordinary Elevator | 76666 | [76666-no-ordinary-elevator.json](./76666-no-ordinary-elevator.json) |
 | No Paint No Gain | 312754 | [312754-no-paint-no-gain.json](./312754-no-paint-no-gain.json) |
