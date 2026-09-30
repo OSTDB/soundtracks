@@ -5563,6 +5563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Hair | 236219 | [236219-the-last-hair.json](./236219-the-last-hair.json) |
 | The Last Haven | 127615 | [127615-the-last-haven.json](./127615-the-last-haven.json) |
 | The Last Hero of Nostalgaia | 214707 | [214707-the-last-hero-of-nostalgaia.json](./214707-the-last-hero-of-nostalgaia.json) |
+| The Last Hex | 105231 | [105231-the-last-hex.json](./105231-the-last-hex.json) |
 | The Last Hike | 236267 | [236267-the-last-hike.json](./236267-the-last-hike.json) |
 | The Last Hope | 25627 | [25627-the-last-hope.json](./25627-the-last-hope.json) |
 | The Last Hope: Atomic Bomb - Crypto War | 88195 | [88195-the-last-hope-atomic-bomb-crypto-war.json](./88195-the-last-hope-atomic-bomb-crypto-war.json) |
@@ -7023,6 +7024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quarter Game | 75951 | [75951-the-quarter-game.json](./75951-the-quarter-game.json) |
 | The Quartet on Ice | 255634 | [255634-the-quartet-on-ice.json](./255634-the-quartet-on-ice.json) |
 | The Queen of Battlers 2 | 324923 | [324923-the-queen-of-battlers-2.json](./324923-the-queen-of-battlers-2.json) |
+| The Queen of Blackwood High | 105177 | [105177-the-queen-of-blackwood-high.json](./105177-the-queen-of-blackwood-high.json) |
 | The Queen of Duellist | 63913 | [63913-the-queen-of-duellist.json](./63913-the-queen-of-duellist.json) |
 | The Queen of Duellist Gaiden | 63912 | [63912-the-queen-of-duellist-gaiden.json](./63912-the-queen-of-duellist-gaiden.json) |
 | The Queen of Duellist Gaiden α | 63911 | [63911-the-queen-of-duellist-gaiden.json](./63911-the-queen-of-duellist-gaiden.json) |
@@ -14054,6 +14056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tree Spade Truck | 90670 | [90670-tree-spade-truck.json](./90670-tree-spade-truck.json) |
 | Tree Strike | 151612 | [151612-tree-strike.json](./151612-tree-strike.json) |
 | Tree World | 225749 | [225749-tree-world.json](./225749-tree-world.json) |
+| Tree.Bonsai | 104946 | [104946-tree-bonsai.json](./104946-tree-bonsai.json) |
 | Tree's Love Crossing Above | 346571 | [346571-trees-love-crossing-above.json](./346571-trees-love-crossing-above.json) |
 | Treehouse Trouble | 181133 | [181133-treehouse-trouble.json](./181133-treehouse-trouble.json) |
 | Treehouse Truants | 69333 | [69333-treehouse-truants.json](./69333-treehouse-truants.json) |
@@ -14135,6 +14138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials Fusion: Welcome to the Abyss | 165424 | [165424-trials-fusion-welcome-to-the-abyss.json](./165424-trials-fusion-welcome-to-the-abyss.json) |
 | Trials in Tainted Space | 128001 | [128001-trials-in-tainted-space.json](./128001-trials-in-tainted-space.json) |
 | Trials Mountain Heights | 305136 | [305136-trials-mountain-heights.json](./305136-trials-mountain-heights.json) |
+| Trials of Ascension: Exile | 105147 | [105147-trials-of-ascension-exile.json](./105147-trials-of-ascension-exile.json) |
 | Trials of Dash | 415889 | [415889-trials-of-dash.json](./415889-trials-of-dash.json) |
 | Trials of Fire | 116992 | [116992-trials-of-fire.json](./116992-trials-of-fire.json) |
 | Trials of Guinevere | 127611 | [127611-trials-of-guinevere.json](./127611-trials-of-guinevere.json) |
