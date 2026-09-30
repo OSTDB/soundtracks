@@ -5108,6 +5108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Impossible Quiz | 62166 | [62166-the-impossible-quiz.json](./62166-the-impossible-quiz.json) |
 | The Impossible Quiz 2 | 61548 | [61548-the-impossible-quiz-2.json](./61548-the-impossible-quiz-2.json) |
 | The Impossible Quiz Book | 61549 | [61549-the-impossible-quiz-book.json](./61549-the-impossible-quiz-book.json) |
+| The Impossible Quiz! for iPad | 88394 | [88394-the-impossible-quiz-for-ipad.json](./88394-the-impossible-quiz-for-ipad.json) |
 | The Impossible Test | 66712 | [66712-the-impossible-test.json](./66712-the-impossible-test.json) |
 | The Impossible Tower | 264589 | [264589-the-impossible-tower.json](./264589-the-impossible-tower.json) |
 | The Impossible Travel Agency | 33075 | [33075-the-impossible-travel-agency.json](./33075-the-impossible-travel-agency.json) |
@@ -5935,6 +5936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The LEGO Movie 2 Videogame: Minifigure Edition | 139954 | [139954-the-lego-movie-2-videogame-minifigure-edition.json](./139954-the-lego-movie-2-videogame-minifigure-edition.json) |
 | The LEGO Movie 2 Videogame: Prophecy Pack | 375277 | [375277-the-lego-movie-2-videogame-prophecy-pack.json](./375277-the-lego-movie-2-videogame-prophecy-pack.json) |
 | The LEGO Movie Videogame | 4845 | [4845-the-lego-movie-videogame.json](./4845-the-lego-movie-videogame.json) |
+| The LEGO Ninjago Movie App | 88393 | [88393-the-lego-ninjago-movie-app.json](./88393-the-lego-ninjago-movie-app.json) |
 | The Lemonade | 258517 | [258517-the-lemonade.json](./258517-the-lemonade.json) |
 | The Lesser Evil | 176507 | [176507-the-lesser-evil.json](./176507-the-lesser-evil.json) |
 | The Lesser Known Cities of Europe | 142359 | [142359-the-lesser-known-cities-of-europe.json](./142359-the-lesser-known-cities-of-europe.json) |
@@ -8726,6 +8728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Way It Rains on Animals | 332806 | [332806-the-way-it-rains-on-animals.json](./332806-the-way-it-rains-on-animals.json) |
 | The Way of Cooking | 292525 | [292525-the-way-of-cooking.json](./292525-the-way-of-cooking.json) |
 | The Way of Kings: Escape the Shattered Plains! | 88009 | [88009-the-way-of-kings-escape-the-shattered-plains.json](./88009-the-way-of-kings-escape-the-shattered-plains.json) |
+| The Way of Life: Definitive Edition | 88398 | [88398-the-way-of-life-definitive-edition.json](./88398-the-way-of-life-definitive-edition.json) |
 | The Way of Life: Free Edition | 36291 | [36291-the-way-of-life-free-edition.json](./36291-the-way-of-life-free-edition.json) |
 | The Way of Love: Sub Zero | 74761 | [74761-the-way-of-love-sub-zero.json](./74761-the-way-of-love-sub-zero.json) |
 | The Way of the Tray: Japanese Restaurant Simulator | 334174 | [334174-the-way-of-the-tray-japanese-restaurant-simulator.json](./334174-the-way-of-the-tray-japanese-restaurant-simulator.json) |
@@ -12954,6 +12957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffic Giant | 57660 | [57660-traffic-giant.json](./57660-traffic-giant.json) |
 | Traffic Jam | 42135 | [42135-traffic-jam.json](./42135-traffic-jam.json) |
 | Traffic Jammy | 179581 | [179581-traffic-jammy.json](./179581-traffic-jammy.json) |
+| Traffic Jelly | 88377 | [88377-traffic-jelly.json](./88377-traffic-jelly.json) |
 | Traffic Manager | 53945 | [53945-traffic-manager.json](./53945-traffic-manager.json) |
 | Traffic Master Collection | 283212 | [283212-traffic-master-collection.json](./283212-traffic-master-collection.json) |
 | Traffic Panic | 343480 | [343480-traffic-panic.json](./343480-traffic-panic.json) |
@@ -15440,6 +15444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Type: Unstable Vampire | 180822 | [180822-type-unstable-vampire.json](./180822-type-unstable-vampire.json) |
 | Typefighters | 18956 | [18956-typefighters.json](./18956-typefighters.json) |
 | Typefighters: Steam Edition | 90589 | [90589-typefighters-steam-edition.json](./90589-typefighters-steam-edition.json) |
+| Typer | 88354 | [88354-typer.json](./88354-typer.json) |
 | Typeshift | 27884 | [27884-typeshift.json](./27884-typeshift.json) |
 | TypeSpell Journey | 294290 | [294290-typespell-journey.json](./294290-typespell-journey.json) |
 | Typewriter Simulator | 177529 | [177529-typewriter-simulator.json](./177529-typewriter-simulator.json) |
