@@ -1399,6 +1399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PastoralPainting | 270078 | [270078-pastoralpainting.json](./270078-pastoralpainting.json) |
 | Pastry Lovers | 30029 | [30029-pastry-lovers.json](./30029-pastry-lovers.json) |
 | Pastry Wars | 91730 | [91730-pastry-wars.json](./91730-pastry-wars.json) |
+| Pat Pat Cat | 387590 | [387590-pat-pat-cat.json](./387590-pat-pat-cat.json) |
 | Pat Riley Basketball | 28020 | [28020-pat-riley-basketball.json](./28020-pat-riley-basketball.json) |
 | Pat Sajak's Trivia Gems | 98966 | [98966-pat-sajaks-trivia-gems.json](./98966-pat-sajaks-trivia-gems.json) |
 | Pata | 236799 | [236799-pata.json](./236799-pata.json) |
@@ -3076,6 +3077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin 2 Regrown | 299745 | [299745-pikmin-2-regrown.json](./299745-pikmin-2-regrown.json) |
 | Pikmin 2 WorldWide | 313357 | [313357-pikmin-2-worldwide.json](./313357-pikmin-2-worldwide.json) |
 | Pikmin 2: Caveless Edition | 270726 | [270726-pikmin-2-caveless-edition.json](./270726-pikmin-2-caveless-edition.json) |
+| Pikmin 2D | 387584 | [387584-pikmin-2d.json](./387584-pikmin-2d.json) |
 | Pikmin 3 | 2241 | [2241-pikmin-3.json](./2241-pikmin-3.json) |
 | Pikmin 3 Deluxe | 136498 | [136498-pikmin-3-deluxe.json](./136498-pikmin-3-deluxe.json) |
 | Pikmin 3 DX: Caves Reborn | 313484 | [313484-pikmin-3-dx-caves-reborn.json](./313484-pikmin-3-dx-caves-reborn.json) |
@@ -5190,6 +5192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Refined Gold | 226210 | [226210-pokemon-refined-gold.json](./226210-pokemon-refined-gold.json) |
 | Pokémon Rejuvenation | 139328 | [139328-pokemon-rejuvenation.json](./139328-pokemon-rejuvenation.json) |
 | Pokemon Reloaded | 343908 | [343908-pokemon-reloaded.json](./343908-pokemon-reloaded.json) |
+| Pokémon RenHERgade Platinum | 387603 | [387603-pokemon-renhergade-platinum.json](./387603-pokemon-renhergade-platinum.json) |
 | Pokémon Revelation | 226211 | [226211-pokemon-revelation.json](./226211-pokemon-revelation.json) |
 | Pokémon Revolution Online | 129561 | [129561-pokemon-revolution-online.json](./129561-pokemon-revolution-online.json) |
 | Pokemon Roulette | 365067 | [365067-pokemon-roulette.json](./365067-pokemon-roulette.json) |
