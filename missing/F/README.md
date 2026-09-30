@@ -1197,6 +1197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm2 + | 406082 | [406082-farm2.json](./406082-farm2.json) |
 | Farmageddon | 362279 | [362279-farmageddon.json](./362279-farmageddon.json) |
 | Farmageddon: Undead | 302380 | [302380-farmageddon-undead.json](./302380-farmageddon-undead.json) |
+| Farmagia | 250918 | [250918-farmagia.json](./250918-farmagia.json) |
 | Farmagia: Afanc Skin - Baby Tomato | 324445 | [324445-farmagia-afanc-skin-baby-tomato.json](./324445-farmagia-afanc-skin-baby-tomato.json) |
 | Farmagia: Buddy Skin Bundle | 324471 | [324471-farmagia-buddy-skin-bundle.json](./324471-farmagia-buddy-skin-bundle.json) |
 | Farmbotic | 348350 | [348350-farmbotic.json](./348350-farmbotic.json) |
@@ -2021,6 +2022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight | 330366 | [330366-fight.json](./330366-fight.json) |
 | Fight & Crush | 234313 | [234313-fight-and-crush.json](./234313-fight-and-crush.json) |
 | Fight 4 Flight | 98468 | [98468-fight-4-flight.json](./98468-fight-4-flight.json) |
+| Fight Angel: Special Edition | 127159 | [127159-fight-angel-special-edition.json](./127159-fight-angel-special-edition.json) |
 | Fight Angels | 125977 | [125977-fight-angels.json](./125977-fight-angels.json) |
 | Fight Arena Online | 239628 | [239628-fight-arena-online.json](./239628-fight-arena-online.json) |
 | Fight Ball VR | 120924 | [120924-fight-ball-vr.json](./120924-fight-ball-vr.json) |
@@ -5247,6 +5249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freedom Maker | 327825 | [327825-freedom-maker.json](./327825-freedom-maker.json) |
 | Freedom Planet | 7116 | [7116-freedom-planet.json](./7116-freedom-planet.json) |
 | Freedom Wars | 6060 | [6060-freedom-wars.json](./6060-freedom-wars.json) |
+| Freedom Wars Remastered | 317086 | [317086-freedom-wars-remastered.json](./317086-freedom-wars-remastered.json) |
 | Freedom: A Time to Reckon | 72350 | [72350-freedom-a-time-to-reckon.json](./72350-freedom-a-time-to-reckon.json) |
 | Freedom! Do or Die | 168122 | [168122-freedom-do-or-die.json](./168122-freedom-do-or-die.json) |
 | FreedomBot | 391577 | [391577-freedombot.json](./391577-freedombot.json) |
