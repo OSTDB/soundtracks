@@ -1925,6 +1925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nicktoons: Attack of the Toybots | 2774 | [2774-nicktoons-attack-of-the-toybots.json](./2774-nicktoons-attack-of-the-toybots.json) |
 | Nicktoons: Movin' | 7982 | [7982-nicktoons-movin.json](./7982-nicktoons-movin.json) |
 | Nicktoons: Snap Shot | 308564 | [308564-nicktoons-snap-shot.json](./308564-nicktoons-snap-shot.json) |
+| Nicky: The Home Alone Golf Ball | 95614 | [95614-nicky-the-home-alone-golf-ball.json](./95614-nicky-the-home-alone-golf-ball.json) |
 | Nico Puchi Girls Runway | 222519 | [222519-nico-puchi-girls-runway.json](./222519-nico-puchi-girls-runway.json) |
 | Nico Yazawa is Dreaming | 242094 | [242094-nico-yazawa-is-dreaming.json](./242094-nico-yazawa-is-dreaming.json) |
 | Nico-chan no Kaeri ni Cheeseburger mgmg | 405504 | [405504-nico-chan-no-kaeri-ni-cheeseburger-mgmg.json](./405504-nico-chan-no-kaeri-ni-cheeseburger-mgmg.json) |
