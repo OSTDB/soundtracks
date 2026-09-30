@@ -1416,14 +1416,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: F/A-18C - Aggressors BFM Campaign | 169958 | [169958-dcs-world-f-a-18c-aggressors-bfm-campaign.json](./169958-dcs-world-f-a-18c-aggressors-bfm-campaign.json) |
 | DCS World: F/A-18C Inherent Resolve Campaign by Looking Glass | 325248 | [325248-dcs-world-f-a-18c-inherent-resolve-campaign-by-looking-glass.json](./325248-dcs-world-f-a-18c-inherent-resolve-campaign-by-looking-glass.json) |
 | DCS World: F/A-18C Rise of the Persian Lion Campaign | 162862 | [162862-dcs-world-f-a-18c-rise-of-the-persian-lion-campaign.json](./162862-dcs-world-f-a-18c-rise-of-the-persian-lion-campaign.json) |
+| DCS World: F/A-18C: The Rampagers Campaign by Baltic Dragon | 408215 | [408215-dcs-world-f-a-18c-the-rampagers-campaign-by-baltic-dragon.json](./408215-dcs-world-f-a-18c-the-rampagers-campaign-by-baltic-dragon.json) |
 | DCS World: F4U-1D Corsair | 381269 | [381269-dcs-world-f4u-1d-corsair.json](./381269-dcs-world-f4u-1d-corsair.json) |
 | DCS World: Hawk | 162864 | [162864-dcs-world-hawk.json](./162864-dcs-world-hawk.json) |
 | DCS World: Iraq Map | 325571 | [325571-dcs-world-iraq-map.json](./325571-dcs-world-iraq-map.json) |
 | DCS World: Iraq North Map | 325572 | [325572-dcs-world-iraq-north-map.json](./325572-dcs-world-iraq-north-map.json) |
 | DCS World: Kola Map by Orbx | 310021 | [310021-dcs-world-kola-map-by-orbx.json](./310021-dcs-world-kola-map-by-orbx.json) |
 | DCS World: Marianas | 162859 | [162859-dcs-world-marianas.json](./162859-dcs-world-marianas.json) |
+| DCS World: Marianas WWII Map | 408127 | [408127-dcs-world-marianas-wwii-map.json](./408127-dcs-world-marianas-wwii-map.json) |
 | DCS World: MiG-29 | 162861 | [162861-dcs-world-mig-29.json](./162861-dcs-world-mig-29.json) |
 | DCS World: Mosquito FB VI - V for Victory Campaign by Reflected Simulations | 325251 | [325251-dcs-world-mosquito-fb-vi-v-for-victory-campaign-by-reflected-simulations.json](./325251-dcs-world-mosquito-fb-vi-v-for-victory-campaign-by-reflected-simulations.json) |
+| DCS World: Mosquito FB VI Freeman's Folly Campaign by SUNTS Simulations | 408214 | [408214-dcs-world-mosquito-fb-vi-freemans-folly-campaign-by-sunts-simulations.json](./408214-dcs-world-mosquito-fb-vi-freemans-folly-campaign-by-sunts-simulations.json) |
 | DCS World: Normandy 2.0 | 323965 | [323965-dcs-world-normandy-2-0.json](./323965-dcs-world-normandy-2-0.json) |
 | DCS World: OH-58D Kiowa Warrior | 304372 | [304372-dcs-world-oh-58d-kiowa-warrior.json](./304372-dcs-world-oh-58d-kiowa-warrior.json) |
 | DCS World: Su-25 | 162865 | [162865-dcs-world-su-25.json](./162865-dcs-world-su-25.json) |
@@ -4336,6 +4339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DinoSource | 77983 | [77983-dinosource.json](./77983-dinosource.json) |
 | Dinotopia | 146885 | [146885-dinotopia.json](./146885-dinotopia.json) |
 | Dinotopia: Game Land Activity Center | 70442 | [70442-dinotopia-game-land-activity-center.json](./70442-dinotopia-game-land-activity-center.json) |
+| Dinotraz | 408232 | [408232-dinotraz.json](./408232-dinotraz.json) |
 | Dinovaporate | 256562 | [256562-dinovaporate.json](./256562-dinovaporate.json) |
 | DinoVR | 114981 | [114981-dinovr.json](./114981-dinovr.json) |
 | DinoZzz | 88834 | [88834-dinozzz.json](./88834-dinozzz.json) |
@@ -5851,6 +5855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom 64 | 3471 | [3471-doom-64.json](./3471-doom-64.json) |
 | Doom 64 for Dreamcast | 346123 | [346123-doom-64-for-dreamcast.json](./346123-doom-64-for-dreamcast.json) |
 | Doom 64 Reloaded | 346668 | [346668-doom-64-reloaded.json](./346668-doom-64-reloaded.json) |
+| Doom 64: Complete Edition | 408132 | [408132-doom-64-complete-edition.json](./408132-doom-64-complete-edition.json) |
 | DOOM Abort | 202841 | [202841-doom-abort.json](./202841-doom-abort.json) |
 | Doom City | 144214 | [144214-doom-city.json](./144214-doom-city.json) |
 | Doom Core | 275569 | [275569-doom-core.json](./275569-doom-core.json) |
@@ -5925,6 +5930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomsday Dealer | 347769 | [347769-doomsday-dealer.json](./347769-doomsday-dealer.json) |
 | Doomsday Derby | 249192 | [249192-doomsday-derby.json](./249192-doomsday-derby.json) |
 | Doomsday Dispute | 192386 | [192386-doomsday-dispute.json](./192386-doomsday-dispute.json) |
+| Doomsday Draft | 408234 | [408234-doomsday-draft.json](./408234-doomsday-draft.json) |
 | Doomsday Hero | 156042 | [156042-doomsday-hero.json](./156042-doomsday-hero.json) |
 | Doomsday Hunters | 129042 | [129042-doomsday-hunters.json](./129042-doomsday-hunters.json) |
 | Doomsday of UAC | 252367 | [252367-doomsday-of-uac.json](./252367-doomsday-of-uac.json) |
