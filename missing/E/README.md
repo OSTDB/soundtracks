@@ -2689,6 +2689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Quest | 43353 | [43353-eternal-quest.json](./43353-eternal-quest.json) |
 | Eternal Reckoning | 287733 | [287733-eternal-reckoning.json](./287733-eternal-reckoning.json) |
 | Eternal Return | 135842 | [135842-eternal-return.json](./135842-eternal-return.json) |
+| Eternal Return | 31290 | [31290-eternal-return.json](./31290-eternal-return.json) |
 | Eternal Ring | 10905 | [10905-eternal-ring.json](./10905-eternal-ring.json) |
 | Eternal Rome | 244241 | [244241-eternal-rome.json](./244241-eternal-rome.json) |
 | Eternal Sacrifice | 273964 | [273964-eternal-sacrifice.json](./273964-eternal-sacrifice.json) |
