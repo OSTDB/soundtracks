@@ -1624,6 +1624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urbano: Legends' Debut | 216853 | [216853-urbano-legends-debut.json](./216853-urbano-legends-debut.json) |
 | Urbek City Builder | 151535 | [151535-urbek-city-builder.json](./151535-urbek-city-builder.json) |
 | Urbek City Builder: Defend the City | 236234 | [236234-urbek-city-builder-defend-the-city.json](./236234-urbek-city-builder-defend-the-city.json) |
+| Urbex | 399156 | [399156-urbex.json](./399156-urbex.json) |
 | URBO | 271173 | [271173-urbo.json](./271173-urbo.json) |
 | Urgent Message | 343232 | [343232-urgent-message.json](./343232-urgent-message.json) |
 | Uridium 2 | 12808 | [12808-uridium-2.json](./12808-uridium-2.json) |
