@@ -648,6 +648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Shaver | 177442 | [177442-samurai-shaver.json](./177442-samurai-shaver.json) |
 | Samurai Shodown 64 | 19990 | [19990-samurai-shodown-64.json](./19990-samurai-shodown-64.json) |
 | Samurai Shodown 64: Warriors Rage | 19991 | [19991-samurai-shodown-64-warriors-rage.json](./19991-samurai-shodown-64-warriors-rage.json) |
+| Samurai Shodown Anthology | 50648 | [50648-samurai-shodown-anthology.json](./50648-samurai-shodown-anthology.json) |
 | Samurai Shodown NeoGeo Collection: Limited Edition Pack | 167069 | [167069-samurai-shodown-neogeo-collection-limited-edition-pack.json](./167069-samurai-shodown-neogeo-collection-limited-edition-pack.json) |
 | Samurai Shodown Sen | 23272 | [23272-samurai-shodown-sen.json](./23272-samurai-shodown-sen.json) |
 | Samurai Shodown V | 6026 | [6026-samurai-shodown-v.json](./6026-samurai-shodown-v.json) |
@@ -2685,6 +2686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seriously Warped Deathmatch | 361921 | [361921-seriously-warped-deathmatch.json](./361921-seriously-warped-deathmatch.json) |
 | Seroutte | 234575 | [234575-seroutte.json](./234575-seroutte.json) |
 | Serpent | 360187 | [360187-serpent.json](./360187-serpent.json) |
+| Serpent | 49021 | [49021-serpent.json](./49021-serpent.json) |
 | Serpent at the Vernissage | 353386 | [353386-serpent-at-the-vernissage.json](./353386-serpent-at-the-vernissage.json) |
 | Serpent in the Staglands | 23440 | [23440-serpent-in-the-staglands.json](./23440-serpent-in-the-staglands.json) |
 | Serpent of Isis: Your Journey Continues | 89291 | [89291-serpent-of-isis-your-journey-continues.json](./89291-serpent-of-isis-your-journey-continues.json) |
@@ -4875,6 +4877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Bullet: Prometheus | 33437 | [33437-silver-bullet-prometheus.json](./33437-silver-bullet-prometheus.json) |
 | Silver Cats | 150495 | [150495-silver-cats.json](./150495-silver-cats.json) |
 | Silver Creek Falls: Chapter 1 | 34685 | [34685-silver-creek-falls-chapter-1.json](./34685-silver-creek-falls-chapter-1.json) |
+| Silver Creek Falls: Chapter 2 | 34429 | [34429-silver-creek-falls-chapter-2.json](./34429-silver-creek-falls-chapter-2.json) |
 | Silver Creek Falls: Chapter 3 | 33534 | [33534-silver-creek-falls-chapter-3.json](./33534-silver-creek-falls-chapter-3.json) |
 | Silver Falls: Ghoul Busters | 208583 | [208583-silver-falls-ghoul-busters.json](./208583-silver-falls-ghoul-busters.json) |
 | Silver Falls: Guardians And Metal Exterminators S | 283722 | [283722-silver-falls-guardians-and-metal-exterminators-s.json](./283722-silver-falls-guardians-and-metal-exterminators-s.json) |
@@ -6850,6 +6853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneak King | 2730 | [2730-sneak-king.json](./2730-sneak-king.json) |
 | Sneak Ops | 106995 | [106995-sneak-ops.json](./106995-sneak-ops.json) |
 | Sneak Out | 253350 | [253350-sneak-out.json](./253350-sneak-out.json) |
+| Sneak Thief | 31931 | [31931-sneak-thief.json](./31931-sneak-thief.json) |
 | SneakBit | 326712 | [326712-sneakbit.json](./326712-sneakbit.json) |
 | Sneaker Store Simulator | 389965 | [389965-sneaker-store-simulator.json](./389965-sneaker-store-simulator.json) |
 | Sneakers | 6053 | [6053-sneakers.json](./6053-sneakers.json) |
@@ -7396,6 +7400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Echoes: The Star Legation | 149056 | [149056-solar-echoes-the-star-legation.json](./149056-solar-echoes-the-star-legation.json) |
 | Solar Expanse | 219595 | [219595-solar-expanse.json](./219595-solar-expanse.json) |
 | Solar Explorer: New Dawn | 107399 | [107399-solar-explorer-new-dawn.json](./107399-solar-explorer-new-dawn.json) |
+| Solar Gun | 51558 | [51558-solar-gun.json](./51558-solar-gun.json) |
 | Solar Jetman: Hunt for the Golden Warpship | 7853 | [7853-solar-jetman-hunt-for-the-golden-warpship.json](./7853-solar-jetman-hunt-for-the-golden-warpship.json) |
 | Solar Kingdoms: Human Survival | 295568 | [295568-solar-kingdoms-human-survival.json](./295568-solar-kingdoms-human-survival.json) |
 | Solar Minotaur Rescue Frenzy | 66133 | [66133-solar-minotaur-rescue-frenzy.json](./66133-solar-minotaur-rescue-frenzy.json) |
@@ -10506,6 +10511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Story | 142350 | [142350-spy-story.json](./142350-spy-story.json) |
 | Spy Tactics | 120359 | [120359-spy-tactics.json](./120359-spy-tactics.json) |
 | Spy vs. Spy II: The Island Caper | 12772 | [12772-spy-vs-spy-ii-the-island-caper.json](./12772-spy-vs-spy-ii-the-island-caper.json) |
+| Spy vs. Spy: Operation - Booby Trap | 48925 | [48925-spy-vs-spy-operation-booby-trap.json](./48925-spy-vs-spy-operation-booby-trap.json) |
 | Spy Vs. Spy: Volumes I & II | 77397 | [77397-spy-vs-spy-volumes-i-and-ii.json](./77397-spy-vs-spy-volumes-i-and-ii.json) |
 | Spy x Anya: Operation Memories - Deluxe Outing Pack | 308814 | [308814-spy-x-anya-operation-memories-deluxe-outing-pack.json](./308814-spy-x-anya-operation-memories-deluxe-outing-pack.json) |
 | Spy x Anya: Operation Memories - Excited Outifit Pack | 308815 | [308815-spy-x-anya-operation-memories-excited-outifit-pack.json](./308815-spy-x-anya-operation-memories-excited-outifit-pack.json) |
@@ -12285,6 +12291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sticky Zeitgeist: Episode 3 - A Trick With Ants | 178505 | [178505-sticky-zeitgeist-episode-3-a-trick-with-ants.json](./178505-sticky-zeitgeist-episode-3-a-trick-with-ants.json) |
 | Stickya Adventurya | 314648 | [314648-stickya-adventurya.json](./314648-stickya-adventurya.json) |
 | Stickyban | 338736 | [338736-stickyban.json](./338736-stickyban.json) |
+| Stifled | 31655 | [31655-stifled.json](./31655-stifled.json) |
 | Stig | 295541 | [295541-stig.json](./295541-stig.json) |
 | Stigmata of Sacrilege | 244867 | [244867-stigmata-of-sacrilege.json](./244867-stigmata-of-sacrilege.json) |
 | Stikbold! A Dodgeball Adventure | 18614 | [18614-stikbold-a-dodgeball-adventure.json](./18614-stikbold-a-dodgeball-adventure.json) |
