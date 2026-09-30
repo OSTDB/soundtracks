@@ -1662,6 +1662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Conan: Secrets of Dragon's Spine | 27653 | [27653-age-of-conan-secrets-of-dragons-spine.json](./27653-age-of-conan-secrets-of-dragons-spine.json) |
 | Age of Conan: Unchained | 16402 | [16402-age-of-conan-unchained.json](./16402-age-of-conan-unchained.json) |
 | Age of Conan: Unchained - Hyborian Conqueror Collection | 171936 | [171936-age-of-conan-unchained-hyborian-conqueror-collection.json](./171936-age-of-conan-unchained-hyborian-conqueror-collection.json) |
+| Age of Conquest III | 9949 | [9949-age-of-conquest-iii.json](./9949-age-of-conquest-iii.json) |
 | Age of Conquest IV | 36268 | [36268-age-of-conquest-iv.json](./36268-age-of-conquest-iv.json) |
 | Age of Darkness: Die Suche nach Relict | 118291 | [118291-age-of-darkness-die-suche-nach-relict.json](./118291-age-of-darkness-die-suche-nach-relict.json) |
 | Age of Darkness: Final Stand | 159424 | [159424-age-of-darkness-final-stand.json](./159424-age-of-darkness-final-stand.json) |
@@ -1775,6 +1776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agile Firefighter | 207912 | [207912-agile-firefighter.json](./207912-agile-firefighter.json) |
 | AGIS | 239647 | [239647-agis.json](./239647-agis.json) |
 | Agnostic Requiem | 273363 | [273363-agnostic-requiem.json](./273363-agnostic-requiem.json) |
+| Agon: The Lost Sword of Toledo | 9953 | [9953-agon-the-lost-sword-of-toledo.json](./9953-agon-the-lost-sword-of-toledo.json) |
 | Agonize | 187402 | [187402-agonize.json](./187402-agonize.json) |
 | Agony | 11890 | [11890-agony.json](./11890-agony.json) |
 | Agony | 19453 | [19453-agony.json](./19453-agony.json) |
@@ -2970,6 +2972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All-Pro Football 2K8 | 5481 | [5481-all-pro-football-2k8.json](./5481-all-pro-football-2k8.json) |
 | All-Star Baseball '99 | 10663 | [10663-all-star-baseball-99.json](./10663-all-star-baseball-99.json) |
 | All-Star Baseball '99 | 248745 | [248745-all-star-baseball-99.json](./248745-all-star-baseball-99.json) |
+| All-Star Baseball 2000 | 10658 | [10658-all-star-baseball-2000.json](./10658-all-star-baseball-2000.json) |
 | All-Star Baseball 2001 | 249134 | [249134-all-star-baseball-2001.json](./249134-all-star-baseball-2001.json) |
 | All-Star Baseball 2001 | 69229 | [69229-all-star-baseball-2001.json](./69229-all-star-baseball-2001.json) |
 | All-Star Baseball 2003 | 11557 | [11557-all-star-baseball-2003.json](./11557-all-star-baseball-2003.json) |
