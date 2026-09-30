@@ -1024,6 +1024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illusion | 196166 | [196166-illusion.json](./196166-illusion.json) |
 | Illusion | 211960 | [211960-illusion.json](./211960-illusion.json) |
 | Illusion | 81280 | [81280-illusion.json](./81280-illusion.json) |
+| Illusion | 99650 | [99650-illusion.json](./99650-illusion.json) |
 | Illusion Connect | 139382 | [139382-illusion-connect.json](./139382-illusion-connect.json) |
 | Illusion Inexistante | 292815 | [292815-illusion-inexistante.json](./292815-illusion-inexistante.json) |
 | Illusion of Being: Chapter 1 | 375953 | [375953-illusion-of-being-chapter-1.json](./375953-illusion-of-being-chapter-1.json) |
