@@ -319,7 +319,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution 2ndReMix: Append Club Version Vol. 1 | 132807 | [132807-dance-dance-revolution-2ndremix-append-club-version-vol-1.json](./132807-dance-dance-revolution-2ndremix-append-club-version-vol-1.json) |
 | Dance Dance Revolution Best Hits | 132809 | [132809-dance-dance-revolution-best-hits.json](./132809-dance-dance-revolution-best-hits.json) |
 | Dance Dance Revolution Dance Wars | 3681 | [3681-dance-dance-revolution-dance-wars.json](./3681-dance-dance-revolution-dance-wars.json) |
+| Dance Dance Revolution Disney Mix | 44796 | [44796-dance-dance-revolution-disney-mix.json](./44796-dance-dance-revolution-disney-mix.json) |
 | Dance Dance Revolution ExtraMix | 93034 | [93034-dance-dance-revolution-extramix.json](./93034-dance-dance-revolution-extramix.json) |
+| Dance Dance Revolution Extreme 2 | 43577 | [43577-dance-dance-revolution-extreme-2.json](./43577-dance-dance-revolution-extreme-2.json) |
 | Dance Dance Revolution GB | 72734 | [72734-dance-dance-revolution-gb.json](./72734-dance-dance-revolution-gb.json) |
 | Dance Dance Revolution GB 2 | 72735 | [72735-dance-dance-revolution-gb-2.json](./72735-dance-dance-revolution-gb-2.json) |
 | Dance Dance Revolution Grand Prix | 180262 | [180262-dance-dance-revolution-grand-prix.json](./180262-dance-dance-revolution-grand-prix.json) |
@@ -2137,6 +2139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decent Into Sector 32 | 165641 | [165641-decent-into-sector-32.json](./165641-decent-into-sector-32.json) |
 | Decently Bad Tower Defense | 158034 | [158034-decently-bad-tower-defense.json](./158034-decently-bad-tower-defense.json) |
 | Deceptiive Love Ballad The Blasphemer | 386840 | [386840-deceptiive-love-ballad-the-blasphemer.json](./386840-deceptiive-love-ballad-the-blasphemer.json) |
+| Deception IV: The Nightmare Princess | 44650 | [44650-deception-iv-the-nightmare-princess.json](./44650-deception-iv-the-nightmare-princess.json) |
 | Deceptus Map Pack + Bonus Items | 230934 | [230934-deceptus-map-pack-bonus-items.json](./230934-deceptus-map-pack-bonus-items.json) |
 | Decide 4 God | 173046 | [173046-decide-4-god.json](./173046-decide-4-god.json) |
 | Decide in 5 Seconds: Who Is the Culprit? | 409665 | [409665-decide-in-5-seconds-who-is-the-culprit.json](./409665-decide-in-5-seconds-who-is-the-culprit.json) |
@@ -4541,6 +4544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Twisted-Wonderland | 117776 | [117776-disney-twisted-wonderland.json](./117776-disney-twisted-wonderland.json) |
 | Disney Two Pack I Big Hero 6: Battle In the Bay & Frozen: Olaf's Quest | 79914 | [79914-disney-two-pack-i-big-hero-6-battle-in-the-bay-and-frozen-olafs-quest.json](./79914-disney-two-pack-i-big-hero-6-battle-in-the-bay-and-frozen-olafs-quest.json) |
 | Disney XD Grand Prix | 361336 | [361336-disney-xd-grand-prix.json](./361336-disney-xd-grand-prix.json) |
+| Disney's 101 Dalmatians II: Patch's London Adventure | 43737 | [43737-disneys-101-dalmatians-ii-patchs-london-adventure.json](./43737-disneys-101-dalmatians-ii-patchs-london-adventure.json) |
 | Disney's 102 Dalmatians: Puppies to the Rescue | 2361 | [2361-disneys-102-dalmatians-puppies-to-the-rescue.json](./2361-disneys-102-dalmatians-puppies-to-the-rescue.json) |
 | Disney's A Bug's Life: Active Play | 215088 | [215088-disneys-a-bugs-life-active-play.json](./215088-disneys-a-bugs-life-active-play.json) |
 | Disney's A Christmas Carol | 21086 | [21086-disneys-a-christmas-carol.json](./21086-disneys-a-christmas-carol.json) |
@@ -4599,6 +4603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Pocahontas | 45780 | [45780-disneys-pocahontas.json](./45780-disneys-pocahontas.json) |
 | Disney's Reading Quest with Aladdin | 208897 | [208897-disneys-reading-quest-with-aladdin.json](./208897-disneys-reading-quest-with-aladdin.json) |
 | Disney's Stitch: Experiment 626 | 25911 | [25911-disneys-stitch-experiment-626.json](./25911-disneys-stitch-experiment-626.json) |
+| Disney's Story Studio: Disney's Mulan | 44839 | [44839-disneys-story-studio-disneys-mulan.json](./44839-disneys-story-studio-disneys-mulan.json) |
 | Disney's TaleSpin | 198936 | [198936-disneys-talespin.json](./198936-disneys-talespin.json) |
 | Disney's Tarzan | 116135 | [116135-disneys-tarzan.json](./116135-disneys-tarzan.json) |
 | Disney's Tarzan Activity Center | 57923 | [57923-disneys-tarzan-activity-center.json](./57923-disneys-tarzan-activity-center.json) |
@@ -6294,6 +6299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracula: Restless Legs Syndrome | 411611 | [411611-dracula-restless-legs-syndrome.json](./411611-dracula-restless-legs-syndrome.json) |
 | Dracula: Undead Awakening | 42858 | [42858-dracula-undead-awakening.json](./42858-dracula-undead-awakening.json) |
 | Dracula: Vampires vs. Zombies | 43169 | [43169-dracula-vampires-vs-zombies.json](./43169-dracula-vampires-vs-zombies.json) |
+| Dracula's Legacy | 34613 | [34613-draculas-legacy.json](./34613-draculas-legacy.json) |
 | Dracula's Library | 43142 | [43142-draculas-library.json](./43142-draculas-library.json) |
 | Dracula's Secret | 73228 | [73228-draculas-secret.json](./73228-draculas-secret.json) |
 | Dracula’s Vengeance | 249206 | [249206-dracula-s-vengeance.json](./249206-dracula-s-vengeance.json) |
@@ -8026,6 +8032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Lords: Steam Edition | 90564 | [90564-dungeon-lords-steam-edition.json](./90564-dungeon-lords-steam-edition.json) |
 | Dungeon Lords: The Orb and the Oracle | 72614 | [72614-dungeon-lords-the-orb-and-the-oracle.json](./72614-dungeon-lords-the-orb-and-the-oracle.json) |
 | Dungeon Lurker | 403803 | [403803-dungeon-lurker.json](./403803-dungeon-lurker.json) |
+| Dungeon Magic | 39359 | [39359-dungeon-magic.json](./39359-dungeon-magic.json) |
 | Dungeon Maker II: The Hidden War | 42765 | [42765-dungeon-maker-ii-the-hidden-war.json](./42765-dungeon-maker-ii-the-hidden-war.json) |
 | Dungeon Man | 277272 | [277272-dungeon-man.json](./277272-dungeon-man.json) |
 | Dungeon Manager ZV: Resurrection | 55446 | [55446-dungeon-manager-zv-resurrection.json](./55446-dungeon-manager-zv-resurrection.json) |
