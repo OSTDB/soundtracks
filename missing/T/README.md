@@ -4240,6 +4240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Exit 8 VR | 310522 | [310522-the-exit-8-vr.json](./310522-the-exit-8-vr.json) |
 | The Exit Project: Backstreets | 319939 | [319939-the-exit-project-backstreets.json](./319939-the-exit-project-backstreets.json) |
 | The Exomachinist | 153930 | [153930-the-exomachinist.json](./153930-the-exomachinist.json) |
+| The Exorcist | 54469 | [54469-the-exorcist.json](./54469-the-exorcist.json) |
 | The Exorcist: Legion VR | 72420 | [72420-the-exorcist-legion-vr.json](./72420-the-exorcist-legion-vr.json) |
 | The Exorcist: Legion VR - Chapter 2: Idle Hands | 168817 | [168817-the-exorcist-legion-vr-chapter-2-idle-hands.json](./168817-the-exorcist-legion-vr-chapter-2-idle-hands.json) |
 | The Exorcist: Legion VR - Chapter 4: Samaritan | 168818 | [168818-the-exorcist-legion-vr-chapter-4-samaritan.json](./168818-the-exorcist-legion-vr-chapter-4-samaritan.json) |
@@ -4661,6 +4662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Giant of Torridge Island | 192984 | [192984-the-giant-of-torridge-island.json](./192984-the-giant-of-torridge-island.json) |
 | The GIF Game | 297813 | [297813-the-gif-game.json](./297813-the-gif-game.json) |
 | The Gift | 192151 | [192151-the-gift.json](./192151-the-gift.json) |
+| The Gift | 53739 | [53739-the-gift.json](./53739-the-gift.json) |
 | The Gigglebone Gang: The AlphaBonk Farm | 206110 | [206110-the-gigglebone-gang-the-alphabonk-farm.json](./206110-the-gigglebone-gang-the-alphabonk-farm.json) |
 | The Giraffe World | 174095 | [174095-the-giraffe-world.json](./174095-the-giraffe-world.json) |
 | The Girl and the Robot | 22777 | [22777-the-girl-and-the-robot.json](./22777-the-girl-and-the-robot.json) |
@@ -5060,6 +5062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hunted Witch | 252678 | [252678-the-hunted-witch.json](./252678-the-hunted-witch.json) |
 | The Hunter Cursed by Night | 296467 | [296467-the-hunter-cursed-by-night.json](./296467-the-hunter-cursed-by-night.json) |
 | The Hunters Journals; Pale Harbour | 119680 | [119680-the-hunters-journals-pale-harbour.json](./119680-the-hunters-journals-pale-harbour.json) |
+| The Hunting God | 51418 | [51418-the-hunting-god.json](./51418-the-hunting-god.json) |
 | The Huntsman: Winter's Curse (Book 2) | 164437 | [164437-the-huntsman-winters-curse-book-2.json](./164437-the-huntsman-winters-curse-book-2.json) |
 | The Huntsman: Winter's Curse (Book 3) | 164438 | [164438-the-huntsman-winters-curse-book-3.json](./164438-the-huntsman-winters-curse-book-3.json) |
 | The Huntsman: Winter's Curse (Book 4) | 164439 | [164439-the-huntsman-winters-curse-book-4.json](./164439-the-huntsman-winters-curse-book-4.json) |
@@ -5475,6 +5478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lady Puppet | 148385 | [148385-the-lady-puppet.json](./148385-the-lady-puppet.json) |
 | The Lair of DOOMestic Animals | 271487 | [271487-the-lair-of-doomestic-animals.json](./271487-the-lair-of-doomestic-animals.json) |
 | The Lair of Nekro Neko | 307695 | [307695-the-lair-of-nekro-neko.json](./307695-the-lair-of-nekro-neko.json) |
+| The Lake House: Children of Silence | 54299 | [54299-the-lake-house-children-of-silence.json](./54299-the-lake-house-children-of-silence.json) |
 | The Lamb of the Sabbath is Standing Upon the Hill | 346651 | [346651-the-lamb-of-the-sabbath-is-standing-upon-the-hill.json](./346651-the-lamb-of-the-sabbath-is-standing-upon-the-hill.json) |
 | The Lamplighters League | 240893 | [240893-the-lamplighters-league.json](./240893-the-lamplighters-league.json) |
 | The Land | 64929 | [64929-the-land.json](./64929-the-land.json) |
@@ -7820,6 +7824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Snake Kingdom of Gennibar-Six | 337649 | [337649-the-snake-kingdom-of-gennibar-six.json](./337649-the-snake-kingdom-of-gennibar-six.json) |
 | The Sniper | 349841 | [349841-the-sniper.json](./349841-the-sniper.json) |
 | The Sniper 2 | 44625 | [44625-the-sniper-2.json](./44625-the-sniper-2.json) |
+| The Snow | 53776 | [53776-the-snow.json](./53776-the-snow.json) |
 | The Snow Fable: Mystery of the Flame | 207515 | [207515-the-snow-fable-mystery-of-the-flame.json](./207515-the-snow-fable-mystery-of-the-flame.json) |
 | The Snow is Red | 231323 | [231323-the-snow-is-red.json](./231323-the-snow-is-red.json) |
 | The Snow of Basidia | 176504 | [176504-the-snow-of-basidia.json](./176504-the-snow-of-basidia.json) |
@@ -7837,6 +7842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Solar Ring | 207911 | [207911-the-solar-ring.json](./207911-the-solar-ring.json) |
 | The Soldat with Twin Arms | 151753 | [151753-the-soldat-with-twin-arms.json](./151753-the-soldat-with-twin-arms.json) |
 | The Soldier and the Golden Princess | 331116 | [331116-the-soldier-and-the-golden-princess.json](./331116-the-soldier-and-the-golden-princess.json) |
+| The soldier in the mine | 54458 | [54458-the-soldier-in-the-mine.json](./54458-the-soldier-in-the-mine.json) |
 | The Soldiers Factory | 164336 | [164336-the-soldiers-factory.json](./164336-the-soldiers-factory.json) |
 | The Sole Survivor | 149929 | [149929-the-sole-survivor.json](./149929-the-sole-survivor.json) |
 | The Solitaire Conspiracy: Return of the Merry | 243808 | [243808-the-solitaire-conspiracy-return-of-the-merry.json](./243808-the-solitaire-conspiracy-return-of-the-merry.json) |
@@ -8191,6 +8197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Third Celestial Realm | 358500 | [358500-the-third-celestial-realm.json](./358500-the-third-celestial-realm.json) |
 | The Third Pig | 337176 | [337176-the-third-pig.json](./337176-the-third-pig.json) |
 | The Third Shift | 139451 | [139451-the-third-shift.json](./139451-the-third-shift.json) |
+| The Thirst of Hearts | 54343 | [54343-the-thirst-of-hearts.json](./54343-the-thirst-of-hearts.json) |
 | The Thirteenth Floor | 177309 | [177309-the-thirteenth-floor.json](./177309-the-thirteenth-floor.json) |
 | The Thorns of War | 183445 | [183445-the-thorns-of-war.json](./183445-the-thorns-of-war.json) |
 | The Thought Saved for Last | 63539 | [63539-the-thought-saved-for-last.json](./63539-the-thought-saved-for-last.json) |
@@ -8412,6 +8419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Treasures of Montezuma | 44068 | [44068-the-treasures-of-montezuma.json](./44068-the-treasures-of-montezuma.json) |
 | The Treasures of Montezuma 5 | 33510 | [33510-the-treasures-of-montezuma-5.json](./33510-the-treasures-of-montezuma-5.json) |
 | The Treasures of Mystery Island | 175802 | [175802-the-treasures-of-mystery-island.json](./175802-the-treasures-of-mystery-island.json) |
+| The Treasures of Mystery Island 3: The Ghost Ship | 54295 | [54295-the-treasures-of-mystery-island-3-the-ghost-ship.json](./54295-the-treasures-of-mystery-island-3-the-ghost-ship.json) |
 | The Treasures of Mystery Island: The Ghost Ship | 53772 | [53772-the-treasures-of-mystery-island-the-ghost-ship.json](./53772-the-treasures-of-mystery-island-the-ghost-ship.json) |
 | The Tree | 156064 | [156064-the-tree.json](./156064-the-tree.json) |
 | The Tree Of Life | 295248 | [295248-the-tree-of-life.json](./295248-the-tree-of-life.json) |
@@ -8859,6 +8867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witcher: Side Effects | 224493 | [224493-the-witcher-side-effects.json](./224493-the-witcher-side-effects.json) |
 | The Witcher: The Price of Neutrality | 224492 | [224492-the-witcher-the-price-of-neutrality.json](./224492-the-witcher-the-price-of-neutrality.json) |
 | The Witches Pond | 277823 | [277823-the-witches-pond.json](./277823-the-witches-pond.json) |
+| The Witches' Tea Party | 51383 | [51383-the-witches-tea-party.json](./51383-the-witches-tea-party.json) |
 | The Wizard | 181239 | [181239-the-wizard.json](./181239-the-wizard.json) |
 | The Wizard and The Slug | 139400 | [139400-the-wizard-and-the-slug.json](./139400-the-wizard-and-the-slug.json) |
 | The Wizard Game | 149092 | [149092-the-wizard-game.json](./149092-the-wizard-game.json) |
@@ -14433,6 +14442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Tricks | 140534 | [140534-trivia-tricks.json](./140534-trivia-tricks.json) |
 | Trivia Trove | 55991 | [55991-trivia-trove.json](./55991-trivia-trove.json) |
 | Trivia Vault Olympics Trivia | 88201 | [88201-trivia-vault-olympics-trivia.json](./88201-trivia-vault-olympics-trivia.json) |
+| Trivia Vault: 1980's Trivia | 54342 | [54342-trivia-vault-1980s-trivia.json](./54342-trivia-vault-1980s-trivia.json) |
 | Trivia Vault: Celebrity Trivia | 96522 | [96522-trivia-vault-celebrity-trivia.json](./96522-trivia-vault-celebrity-trivia.json) |
 | Trivia Vault: Fashion Trivia | 101615 | [101615-trivia-vault-fashion-trivia.json](./101615-trivia-vault-fashion-trivia.json) |
 | Trivia Vault: Literature Trivia | 101626 | [101626-trivia-vault-literature-trivia.json](./101626-trivia-vault-literature-trivia.json) |
