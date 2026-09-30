@@ -2382,6 +2382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remnants of the Rift | 154369 | [154369-remnants-of-the-rift.json](./154369-remnants-of-the-rift.json) |
 | Remnants of Yore | 342654 | [342654-remnants-of-yore.json](./342654-remnants-of-yore.json) |
 | Remorse | 167606 | [167606-remorse.json](./167606-remorse.json) |
+| Remote Aphrodite | 404996 | [404996-remote-aphrodite.json](./404996-remote-aphrodite.json) |
 | Remote Control | 388921 | [388921-remote-control.json](./388921-remote-control.json) |
 | Remote Control Fun Airplanes | 104443 | [104443-remote-control-fun-airplanes.json](./104443-remote-control-fun-airplanes.json) |
 | Remote Knights Online | 153401 | [153401-remote-knights-online.json](./153401-remote-knights-online.json) |
@@ -3326,6 +3327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ricochet Bounce | 152816 | [152816-ricochet-bounce.json](./152816-ricochet-bounce.json) |
 | Ricochet Kills 2 | 235241 | [235241-ricochet-kills-2.json](./235241-ricochet-kills-2.json) |
 | Ricochet Raven | 370668 | [370668-ricochet-raven.json](./370668-ricochet-raven.json) |
+| Ricochet Riders | 404995 | [404995-ricochet-riders.json](./404995-ricochet-riders.json) |
 | Ricochet Rodeo | 223419 | [223419-ricochet-rodeo.json](./223419-ricochet-rodeo.json) |
 | Ricochet Theory | 57736 | [57736-ricochet-theory.json](./57736-ricochet-theory.json) |
 | Ricochet Theory 2 | 57733 | [57733-ricochet-theory-2.json](./57733-ricochet-theory-2.json) |
