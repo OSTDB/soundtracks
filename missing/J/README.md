@@ -1246,6 +1246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jotun: Valhalla Edition | 14147 | [14147-jotun-valhalla-edition.json](./14147-jotun-valhalla-edition.json) |
 | Jotun: Valhalla Edition | 18149 | [18149-jotun-valhalla-edition.json](./18149-jotun-valhalla-edition.json) |
 | Jötunnslayer: Hordes of Hel - Collector's Edition | 401782 | [401782-jotunnslayer-hordes-of-hel-collectors-edition.json](./401782-jotunnslayer-hordes-of-hel-collectors-edition.json) |
+| Jotunnslayer: Hordes of Hel - Conan | 399154 | [399154-jotunnslayer-hordes-of-hel-conan.json](./399154-jotunnslayer-hordes-of-hel-conan.json) |
 | Jötunnslayer: Hordes of Hel - Conan Edition | 403600 | [403600-jotunnslayer-hordes-of-hel-conan-edition.json](./403600-jotunnslayer-hordes-of-hel-conan-edition.json) |
 | Jötunnslayer: Hordes of Hel - Founders Edition | 403588 | [403588-jotunnslayer-hordes-of-hel-founders-edition.json](./403588-jotunnslayer-hordes-of-hel-founders-edition.json) |
 | Jötunnslayer: Hordes of Hel - Freyr's Gilded Armor Pack | 403596 | [403596-jotunnslayer-hordes-of-hel-freyrs-gilded-armor-pack.json](./403596-jotunnslayer-hordes-of-hel-freyrs-gilded-armor-pack.json) |
