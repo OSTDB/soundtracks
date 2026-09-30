@@ -624,6 +624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Islands | 194445 | [194445-rainbow-islands.json](./194445-rainbow-islands.json) |
 | Rainbow Islands | 194448 | [194448-rainbow-islands.json](./194448-rainbow-islands.json) |
 | Rainbow Islands: Bubble Bobble 2 | 194446 | [194446-rainbow-islands-bubble-bobble-2.json](./194446-rainbow-islands-bubble-bobble-2.json) |
+| Rainbow Islands: Towering Adventure! | 21241 | [21241-rainbow-islands-towering-adventure.json](./21241-rainbow-islands-towering-adventure.json) |
 | Rainbow Jigsaw | 241664 | [241664-rainbow-jigsaw.json](./241664-rainbow-jigsaw.json) |
 | Rainbow Keys Plus | 130890 | [130890-rainbow-keys-plus.json](./130890-rainbow-keys-plus.json) |
 | Rainbow Laser Disco Dungeon | 169469 | [169469-rainbow-laser-disco-dungeon.json](./169469-rainbow-laser-disco-dungeon.json) |
@@ -1531,6 +1532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realmz | 94900 | [94900-realmz.json](./94900-realmz.json) |
 | RealPlay Golf | 21365 | [21365-realplay-golf.json](./21365-realplay-golf.json) |
 | RealPlay Pool | 21366 | [21366-realplay-pool.json](./21366-realplay-pool.json) |
+| RealPlay Puzzlesphere | 21515 | [21515-realplay-puzzlesphere.json](./21515-realplay-puzzlesphere.json) |
 | RealPlay Racing | 21368 | [21368-realplay-racing.json](./21368-realplay-racing.json) |
 | Realpolitiks 3: Earth and Beyond | 309890 | [309890-realpolitiks-3-earth-and-beyond.json](./309890-realpolitiks-3-earth-and-beyond.json) |
 | Realpolitiks II | 132618 | [132618-realpolitiks-ii.json](./132618-realpolitiks-ii.json) |
@@ -1882,6 +1884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Ronin | 133967 | [133967-red-ronin.json](./133967-red-ronin.json) |
 | Red Room | 367605 | [367605-red-room.json](./367605-red-room.json) |
 | Red Rooms | 409642 | [409642-red-rooms.json](./409642-red-rooms.json) |
+| Red Rope: Don't Fall Behind | 21633 | [21633-red-rope-dont-fall-behind.json](./21633-red-rope-dont-fall-behind.json) |
 | Red Rope: Don't Fall Behind + | 147950 | [147950-red-rope-dont-fall-behind.json](./147950-red-rope-dont-fall-behind.json) |
 | Red Rose Rising | 102202 | [102202-red-rose-rising.json](./102202-red-rose-rising.json) |
 | Red Ruin | 120826 | [120826-red-ruin.json](./120826-red-ruin.json) |
@@ -3442,6 +3445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ridge Racer 3D | 6871 | [6871-ridge-racer-3d.json](./6871-ridge-racer-3d.json) |
 | Ridge Racer 7 | 7441 | [7441-ridge-racer-7.json](./7441-ridge-racer-7.json) |
 | Ridge Racer 8 | 339264 | [339264-ridge-racer-8.json](./339264-ridge-racer-8.json) |
+| Ridge Racer Accelerated HD | 21572 | [21572-ridge-racer-accelerated-hd.json](./21572-ridge-racer-accelerated-hd.json) |
 | Ridge Racer Driftopia | 25144 | [25144-ridge-racer-driftopia.json](./25144-ridge-racer-driftopia.json) |
 | Ridge Racer Mobile | 107012 | [107012-ridge-racer-mobile.json](./107012-ridge-racer-mobile.json) |
 | Ridge Racer Revolution | 18697 | [18697-ridge-racer-revolution.json](./18697-ridge-racer-revolution.json) |
@@ -3731,6 +3735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the Foederati | 133339 | [133339-rise-of-the-foederati.json](./133339-rise-of-the-foederati.json) |
 | Rise of the Ghostdom | 210895 | [210895-rise-of-the-ghostdom.json](./210895-rise-of-the-ghostdom.json) |
 | Rise of the Gorecats | 390800 | [390800-rise-of-the-gorecats.json](./390800-rise-of-the-gorecats.json) |
+| Rise of The Kasai | 21557 | [21557-rise-of-the-kasai.json](./21557-rise-of-the-kasai.json) |
 | Rise of the Merchants | 415289 | [415289-rise-of-the-merchants.json](./415289-rise-of-the-merchants.json) |
 | Rise of the Nindroids | 408880 | [408880-rise-of-the-nindroids.json](./408880-rise-of-the-nindroids.json) |
 | Rise of the Outcast Hero | 297202 | [297202-rise-of-the-outcast-hero.json](./297202-rise-of-the-outcast-hero.json) |
