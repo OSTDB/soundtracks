@@ -2360,6 +2360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Nurse | 296945 | [296945-hentai-nurse.json](./296945-hentai-nurse.json) |
 | Hentai Nurse | 322720 | [322720-hentai-nurse.json](./322720-hentai-nurse.json) |
 | Hentai Octoq Puzzle | 368570 | [368570-hentai-octoq-puzzle.json](./368570-hentai-octoq-puzzle.json) |
+| Hentai Office Enigma | 389058 | [389058-hentai-office-enigma.json](./389058-hentai-office-enigma.json) |
 | Hentai Ouji to Warawanai Neko. | 62719 | [62719-hentai-ouji-to-warawanai-neko.json](./62719-hentai-ouji-to-warawanai-neko.json) |
 | Hentai Paradise Vol. 2 | 313153 | [313153-hentai-paradise-vol-2.json](./313153-hentai-paradise-vol-2.json) |
 | Hentai Paradise Vol. 3 | 316263 | [316263-hentai-paradise-vol-3.json](./316263-hentai-paradise-vol-3.json) |
@@ -5667,6 +5668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunters All Star Battle | 137657 | [137657-hunters-all-star-battle.json](./137657-hunters-all-star-battle.json) |
 | Hunters For Your Brain | 118804 | [118804-hunters-for-your-brain.json](./118804-hunters-for-your-brain.json) |
 | Hunters Gate | 110327 | [110327-hunters-gate.json](./110327-hunters-gate.json) |
+| Hunters Music World | 389059 | [389059-hunters-music-world.json](./389059-hunters-music-world.json) |
 | Hunters of Ralk | 291016 | [291016-hunters-of-ralk.json](./291016-hunters-of-ralk.json) |
 | Hunters: Episode One | 63800 | [63800-hunters-episode-one.json](./63800-hunters-episode-one.json) |
 | Hunters' Moon | 214032 | [214032-hunters-moon.json](./214032-hunters-moon.json) |
