@@ -1335,6 +1335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day of the Rising Dead | 349885 | [349885-day-of-the-rising-dead.json](./349885-day-of-the-rising-dead.json) |
 | Day of the Shell | 215537 | [215537-day-of-the-shell.json](./215537-day-of-the-shell.json) |
 | Day of the Toys | 264077 | [264077-day-of-the-toys.json](./264077-day-of-the-toys.json) |
+| Day of the Undead | 360728 | [360728-day-of-the-undead.json](./360728-day-of-the-undead.json) |
 | Day of Vaccination | 148904 | [148904-day-of-vaccination.json](./148904-day-of-vaccination.json) |
 | Day on Mars | 186853 | [186853-day-on-mars.json](./186853-day-on-mars.json) |
 | Day One: Garry's Incident | 3046 | [3046-day-one-garrys-incident.json](./3046-day-one-garrys-incident.json) |
@@ -5403,6 +5404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doge Dimensions | 187527 | [187527-doge-dimensions.json](./187527-doge-dimensions.json) |
 | Doge Jump | 62678 | [62678-doge-jump.json](./62678-doge-jump.json) |
 | Doge Simulator | 243050 | [243050-doge-simulator.json](./243050-doge-simulator.json) |
+| Doge Storm | 360698 | [360698-doge-storm.json](./360698-doge-storm.json) |
 | Doge to the Moon | 149505 | [149505-doge-to-the-moon.json](./149505-doge-to-the-moon.json) |
 | Dogeminer | 101938 | [101938-dogeminer.json](./101938-dogeminer.json) |
 | Dogeminer: CE | 396553 | [396553-dogeminer-ce.json](./396553-dogeminer-ce.json) |
@@ -6157,6 +6159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doors Quest Demo | 101593 | [101593-doors-quest-demo.json](./101593-doors-quest-demo.json) |
 | Doors: Awakening | 132014 | [132014-doors-awakening.json](./132014-doors-awakening.json) |
 | Doortal | 159065 | [159065-doortal.json](./159065-doortal.json) |
+| Doorway 2 | 360703 | [360703-doorway-2.json](./360703-doorway-2.json) |
 | Doorway to Nightmares: Terrifying Tales | 420683 | [420683-doorway-to-nightmares-terrifying-tales.json](./420683-doorway-to-nightmares-terrifying-tales.json) |
 | Doorways | 185655 | [185655-doorways.json](./185655-doorways.json) |
 | Doorways: Old Prototype | 26528 | [26528-doorways-old-prototype.json](./26528-doorways-old-prototype.json) |
@@ -8506,6 +8509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Rankers | 105086 | [105086-dungeon-rankers.json](./105086-dungeon-rankers.json) |
 | Dungeon Raze | 327593 | [327593-dungeon-raze.json](./327593-dungeon-raze.json) |
 | Dungeon Re-Delve | 278422 | [278422-dungeon-re-delve.json](./278422-dungeon-re-delve.json) |
+| Dungeon Reborn | 360713 | [360713-dungeon-reborn.json](./360713-dungeon-reborn.json) |
 | Dungeon Rebound | 252399 | [252399-dungeon-rebound.json](./252399-dungeon-rebound.json) |
 | Dungeon Redemption | 204691 | [204691-dungeon-redemption.json](./204691-dungeon-redemption.json) |
 | Dungeon Reels | 187833 | [187833-dungeon-reels.json](./187833-dungeon-reels.json) |
