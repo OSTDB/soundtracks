@@ -504,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tale of Caos: Overture | 32116 | [32116-a-tale-of-caos-overture.json](./32116-a-tale-of-caos-overture.json) |
 | A Tale of Caos: Overture - Act II | 170821 | [170821-a-tale-of-caos-overture-act-ii.json](./170821-a-tale-of-caos-overture-act-ii.json) |
 | A Tale of Caos: Overture - Act III | 170820 | [170820-a-tale-of-caos-overture-act-iii.json](./170820-a-tale-of-caos-overture-act-iii.json) |
+| A Tale of Misery | 348913 | [348913-a-tale-of-misery.json](./348913-a-tale-of-misery.json) |
 | A Tale of Paper | 102803 | [102803-a-tale-of-paper.json](./102803-a-tale-of-paper.json) |
 | A Tale of Paper: Refolded | 213997 | [213997-a-tale-of-paper-refolded.json](./213997-a-tale-of-paper-refolded.json) |
 | A Tale of Paper: Refolded - Digital Deluxe Edition | 214055 | [214055-a-tale-of-paper-refolded-digital-deluxe-edition.json](./214055-a-tale-of-paper-refolded-digital-deluxe-edition.json) |
@@ -6398,6 +6399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Around the Fire | 157166 | [157166-around-the-fire.json](./157166-around-the-fire.json) |
 | Around the Moon | 90103 | [90103-around-the-moon.json](./90103-around-the-moon.json) |
 | Around the Words | 52092 | [52092-around-the-words.json](./52092-around-the-words.json) |
+| Around The World | 348936 | [348936-around-the-world.json](./348936-around-the-world.json) |
 | Around the World 2 with the Johnson Family | 357421 | [357421-around-the-world-2-with-the-johnson-family.json](./357421-around-the-world-2-with-the-johnson-family.json) |
 | Around the World 3: Amazing Countries - Collector's Edition | 345673 | [345673-around-the-world-3-amazing-countries-collectors-edition.json](./345673-around-the-world-3-amazing-countries-collectors-edition.json) |
 | Around the World in 50 Games | 50692 | [50692-around-the-world-in-50-games.json](./50692-around-the-world-in-50-games.json) |
@@ -6944,6 +6946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: The Rebel Collection | 122236 | [122236-assassins-creed-the-rebel-collection.json](./122236-assassins-creed-the-rebel-collection.json) |
 | Assassin's Shadows | 331306 | [331306-assassins-shadows.json](./331306-assassins-shadows.json) |
 | Assassination Classroom VR Balloon Challenge Time | 44611 | [44611-assassination-classroom-vr-balloon-challenge-time.json](./44611-assassination-classroom-vr-balloon-challenge-time.json) |
+| Assassins Arena | 348897 | [348897-assassins-arena.json](./348897-assassins-arena.json) |
 | Assassins Unleashed: The Apocalypse | 296492 | [296492-assassins-unleashed-the-apocalypse.json](./296492-assassins-unleashed-the-apocalypse.json) |
 | Assau!t | 168221 | [168221-assau-t.json](./168221-assau-t.json) |
 | Assault Android Cactus+ | 115456 | [115456-assault-android-cactus.json](./115456-assault-android-cactus.json) |
@@ -8239,6 +8242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | aXiebal 2004 | 93174 | [93174-axiebal-2004.json](./93174-axiebal-2004.json) |
 | Axiel | 127827 | [127827-axiel.json](./127827-axiel.json) |
 | Axilon: Legend of artifacts | 118842 | [118842-axilon-legend-of-artifacts.json](./118842-axilon-legend-of-artifacts.json) |
+| Axima | 348910 | [348910-axima.json](./348910-axima.json) |
 | Axiom | 234347 | [234347-axiom.json](./234347-axiom.json) |
 | Axiom Alternative | 158589 | [158589-axiom-alternative.json](./158589-axiom-alternative.json) |
 | Axiom of Echoes: Proof Refactor | 408045 | [408045-axiom-of-echoes-proof-refactor.json](./408045-axiom-of-echoes-proof-refactor.json) |
