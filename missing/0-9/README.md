@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ?? Movie Theater | 343834 | [343834-movie-theater.json](./343834-movie-theater.json) |
 | ...Iru! | 93548 | [93548-iru.json](./93548-iru.json) |
 | ...Knew the Beginning | 195155 | [195155-knew-the-beginning.json](./195155-knew-the-beginning.json) |
+| ...Vincent: Mansion of The Dead | 376667 | [376667-vincent-mansion-of-the-dead.json](./376667-vincent-mansion-of-the-dead.json) |
 | ..And the Mooncats | 185519 | [185519-and-the-mooncats.json](./185519-and-the-mooncats.json) |
 | .Atorb. | 330318 | [330318-atorb.json](./330318-atorb.json) |
 | .Cat | 145537 | [145537-cat.json](./145537-cat.json) |
@@ -82,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | #Halloween, Super Puzzles Dream | 147438 | [147438-halloween-super-puzzles-dream.json](./147438-halloween-super-puzzles-dream.json) |
 | #IDARB | 9888 | [9888-idarb.json](./9888-idarb.json) |
 | #Killallzombies | 26369 | [26369-killallzombies.json](./26369-killallzombies.json) |
+| #Leo-kun White Day Kikaku | 376686 | [376686-leo-kun-white-day-kikaku.json](./376686-leo-kun-white-day-kikaku.json) |
 | #NoLimitFantasy, Super Puzzles Dream | 146680 | [146680-nolimitfantasy-super-puzzles-dream.json](./146680-nolimitfantasy-super-puzzles-dream.json) |
 | #OneRoom | 106639 | [106639-oneroom.json](./106639-oneroom.json) |
 | #SelfCare | 106771 | [106771-selfcare.json](./106771-selfcare.json) |
@@ -101,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | \|\|[}}}°.•°.°•..°•°[\|\|\|{{{ | 141830 | [141830-.json](./141830-.json) |
 | $1 Ride | 31922 | [31922-1-ride.json](./31922-1-ride.json) |
 | $1,000,000 Kid: Maboroshi no Teiou-hen | 215126 | [215126-1-000-000-kid-maboroshi-no-teiou-hen.json](./215126-1-000-000-kid-maboroshi-no-teiou-hen.json) |
+| 0 de Waru Kinou | 376633 | [376633-0-de-waru-kinou.json](./376633-0-de-waru-kinou.json) |
 | 0-ji no Kane to Cinderella: Halloween Wedding | 56549 | [56549-0-ji-no-kane-to-cinderella-halloween-wedding.json](./56549-0-ji-no-kane-to-cinderella-halloween-wedding.json) |
 | 0000 | 34228 | [34228-0000.json](./34228-0000.json) |
 | 000000052573743 | 216229 | [216229-000000052573743.json](./216229-000000052573743.json) |
