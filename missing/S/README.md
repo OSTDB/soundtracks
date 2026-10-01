@@ -1508,6 +1508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scikor Final Scale | 121743 | [121743-scikor-final-scale.json](./121743-scikor-final-scale.json) |
 | Scion | 25885 | [25885-scion.json](./25885-scion.json) |
 | Scions of Fate | 72656 | [72656-scions-of-fate.json](./72656-scions-of-fate.json) |
+| Scission | 384144 | [384144-scission.json](./384144-scission.json) |
 | Scissors and Pink Angels | 345616 | [345616-scissors-and-pink-angels.json](./345616-scissors-and-pink-angels.json) |
 | Sciware Defense | 245841 | [245841-sciware-defense.json](./245841-sciware-defense.json) |
 | Sclash: Sakura | 309999 | [309999-sclash-sakura.json](./309999-sclash-sakura.json) |
@@ -4948,6 +4949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Shadow | 123007 | [123007-silent-shadow.json](./123007-silent-shadow.json) |
 | Silent Shark | 404429 | [404429-silent-shark.json](./404429-silent-shark.json) |
 | Silent Slayer: Vault of the Vampire | 251562 | [251562-silent-slayer-vault-of-the-vampire.json](./251562-silent-slayer-vault-of-the-vampire.json) |
+| Silent Snow | 384152 | [384152-silent-snow.json](./384152-silent-snow.json) |
 | Silent Sonata | 284483 | [284483-silent-sonata.json](./284483-silent-sonata.json) |
 | Silent Space | 156588 | [156588-silent-space.json](./156588-silent-space.json) |
 | Silent space VR | 75765 | [75765-silent-space-vr.json](./75765-silent-space-vr.json) |
@@ -9140,6 +9142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Expand | 115132 | [115132-space-expand.json](./115132-space-expand.json) |
 | Space Expedition | 146100 | [146100-space-expedition.json](./146100-space-expedition.json) |
 | Space Explorers: Lunar Mission | 214477 | [214477-space-explorers-lunar-mission.json](./214477-space-explorers-lunar-mission.json) |
+| Space Extra | 384161 | [384161-space-extra.json](./384161-space-extra.json) |
 | Space Extractor: Galactic Alien Insect Control Invasion | 284492 | [284492-space-extractor-galactic-alien-insect-control-invasion.json](./284492-space-extractor-galactic-alien-insect-control-invasion.json) |
 | Space Fantasy Zone | 42007 | [42007-space-fantasy-zone.json](./42007-space-fantasy-zone.json) |
 | Space Farm | 107384 | [107384-space-farm.json](./107384-space-farm.json) |
@@ -10736,6 +10739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprint 4 | 61312 | [61312-sprint-4.json](./61312-sprint-4.json) |
 | Sprint 8 | 61311 | [61311-sprint-8.json](./61311-sprint-8.json) |
 | Sprint Car Challenge | 43333 | [43333-sprint-car-challenge.json](./43333-sprint-car-challenge.json) |
+| Sprint City | 384167 | [384167-sprint-city.json](./384167-sprint-city.json) |
 | Sprint Journey | 217809 | [217809-sprint-journey.json](./217809-sprint-journey.json) |
 | Sprint Master | 18423 | [18423-sprint-master.json](./18423-sprint-master.json) |
 | Sprite Fantasia | 174861 | [174861-sprite-fantasia.json](./174861-sprite-fantasia.json) |
@@ -11408,6 +11412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Story: The Horizon Escape | 27005 | [27005-star-story-the-horizon-escape.json](./27005-star-story-the-horizon-escape.json) |
 | Star Strike | 85878 | [85878-star-strike.json](./85878-star-strike.json) |
 | Star Striker | 13762 | [13762-star-striker.json](./13762-star-striker.json) |
+| Star Striker | 384151 | [384151-star-striker.json](./384151-star-striker.json) |
 | Star Struck | 78375 | [78375-star-struck.json](./78375-star-struck.json) |
 | Star Swapper | 94728 | [94728-star-swapper.json](./94728-star-swapper.json) |
 | Star Sword | 221972 | [221972-star-sword.json](./221972-star-sword.json) |
@@ -16383,6 +16388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweep | 163964 | [163964-sweep.json](./163964-sweep.json) |
 | Sweep City | 329683 | [329683-sweep-city.json](./329683-sweep-city.json) |
 | Sweep Maidens | 320306 | [320306-sweep-maidens.json](./320306-sweep-maidens.json) |
+| Sweep Squad | 384179 | [384179-sweep-squad.json](./384179-sweep-squad.json) |
 | Sweep Strike | 376540 | [376540-sweep-strike.json](./376540-sweep-strike.json) |
 | Sweeper | 178436 | [178436-sweeper.json](./178436-sweeper.json) |
 | Sweeper Zero | 107870 | [107870-sweeper-zero.json](./107870-sweeper-zero.json) |
