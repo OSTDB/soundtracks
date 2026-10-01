@@ -1194,6 +1194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Add It! | 130853 | [130853-add-it.json](./130853-add-it.json) |
 | Addams Family Pinball | 356275 | [356275-addams-family-pinball.json](./356275-addams-family-pinball.json) |
 | AddForce | 61881 | [61881-addforce.json](./61881-addforce.json) |
+| AddicDead | 372625 | [372625-addicdead.json](./372625-addicdead.json) |
 | Addiction Pinball | 69860 | [69860-addiction-pinball.json](./69860-addiction-pinball.json) |
 | Addie Shen | 402432 | [402432-addie-shen.json](./402432-addie-shen.json) |
 | Addition | 76606 | [76606-addition.json](./76606-addition.json) |
@@ -2150,6 +2151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Wars | 336561 | [336561-air-wars.json](./336561-air-wars.json) |
 | Air Zonk | 42129 | [42129-air-zonk.json](./42129-air-zonk.json) |
 | Air-Sea Battle | 11859 | [11859-air-sea-battle.json](./11859-air-sea-battle.json) |
+| Air&Hook | 372643 | [372643-air-and-hook.json](./372643-air-and-hook.json) |
 | Aira VR | 113673 | [113673-aira-vr.json](./113673-aira-vr.json) |
 | AiRace Speed | 8629 | [8629-airace-speed.json](./8629-airace-speed.json) |
 | AiRace: Tunnel | 67055 | [67055-airace-tunnel.json](./67055-airace-tunnel.json) |
