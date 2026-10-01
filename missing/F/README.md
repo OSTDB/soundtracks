@@ -1590,6 +1590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faustian Bargain | 209669 | [209669-faustian-bargain.json](./209669-faustian-bargain.json) |
 | Fava Beans | 252212 | [252212-fava-beans.json](./252212-fava-beans.json) |
 | Favela Defender | 347229 | [347229-favela-defender.json](./347229-favela-defender.json) |
+| Favij: The Game | 383590 | [383590-favij-the-game.json](./383590-favij-the-game.json) |
 | Favillesco Episode 1: Genuflected on Io | 313853 | [313853-favillesco-episode-1-genuflected-on-io.json](./313853-favillesco-episode-1-genuflected-on-io.json) |
 | Favo!+ | 126527 | [126527-favo.json](./126527-favo.json) |
 | Favor | 301373 | [301373-favor.json](./301373-favor.json) |
@@ -5746,6 +5747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogvival | 235482 | [235482-frogvival.json](./235482-frogvival.json) |
 | Frogworld | 167608 | [167608-frogworld.json](./167608-frogworld.json) |
 | Frogz | 329159 | [329159-frogz.json](./329159-frogz.json) |
+| From Ashes | 383594 | [383594-from-ashes.json](./383594-from-ashes.json) |
 | From Basement with Love | 384057 | [384057-from-basement-with-love.json](./384057-from-basement-with-love.json) |
 | From Below | 415065 | [415065-from-below.json](./415065-from-below.json) |
 | From Beyond Prologue | 112624 | [112624-from-beyond-prologue.json](./112624-from-beyond-prologue.json) |
