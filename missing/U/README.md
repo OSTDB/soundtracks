@@ -1022,6 +1022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unfinished 2 | 338589 | [338589-unfinished-2.json](./338589-unfinished-2.json) |
 | Unfinished Battle | 89389 | [89389-unfinished-battle.json](./89389-unfinished-battle.json) |
 | Unfolded Cube | 295321 | [295321-unfolded-cube.json](./295321-unfolded-cube.json) |
+| Unforgettable | 349986 | [349986-unforgettable.json](./349986-unforgettable.json) |
 | Unforgivable | 341116 | [341116-unforgivable.json](./341116-unforgivable.json) |
 | Unforgiven: Carry The Pain | 242498 | [242498-unforgiven-carry-the-pain.json](./242498-unforgiven-carry-the-pain.json) |
 | Unforgiven: Shattered Souls | 139357 | [139357-unforgiven-shattered-souls.json](./139357-unforgiven-shattered-souls.json) |
