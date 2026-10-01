@@ -2296,6 +2296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Mind | 153898 | [153898-our-mind.json](./153898-our-mind.json) |
 | Our Mind | 238496 | [238496-our-mind.json](./238496-our-mind.json) |
 | Our Mini Adventure | 235871 | [235871-our-mini-adventure.json](./235871-our-mini-adventure.json) |
+| Our Monsoon Balcony | 382387 | [382387-our-monsoon-balcony.json](./382387-our-monsoon-balcony.json) |
 | Our Ninja World | 199106 | [199106-our-ninja-world.json](./199106-our-ninja-world.json) |
 | Our Personal Space | 163204 | [163204-our-personal-space.json](./163204-our-personal-space.json) |
 | Our Place | 179155 | [179155-our-place.json](./179155-our-place.json) |
