@@ -1010,6 +1010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banner of the Maid: Miss Elisa's Journal | 169950 | [169950-banner-of-the-maid-miss-elisas-journal.json](./169950-banner-of-the-maid-miss-elisas-journal.json) |
 | Banner of the Maid: The Oriental Pirate | 169949 | [169949-banner-of-the-maid-the-oriental-pirate.json](./169949-banner-of-the-maid-the-oriental-pirate.json) |
 | BannerBound | 345032 | [345032-bannerbound.json](./345032-bannerbound.json) |
+| Bannercatch | 362393 | [362393-bannercatch.json](./362393-bannercatch.json) |
 | Banneret | 398398 | [398398-banneret.json](./398398-banneret.json) |
 | Bannerlands | 413683 | [413683-bannerlands.json](./413683-bannerlands.json) |
 | Bannerman | 44277 | [44277-bannerman.json](./44277-bannerman.json) |
@@ -1549,6 +1550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball: Breakthrough Gaming Arcade - Challenge Mode Edition | 221770 | [221770-basketball-breakthrough-gaming-arcade-challenge-mode-edition.json](./221770-basketball-breakthrough-gaming-arcade-challenge-mode-edition.json) |
 | Basketball: Dribble Away | 245558 | [245558-basketball-dribble-away.json](./245558-basketball-dribble-away.json) |
 | Basketball: Electronic Game | 245557 | [245557-basketball-electronic-game.json](./245557-basketball-electronic-game.json) |
+| Basketball: The Pro Game | 362396 | [362396-basketball-the-pro-game.json](./362396-basketball-the-pro-game.json) |
 | Basketballverse | 275021 | [275021-basketballverse.json](./275021-basketballverse.json) |
 | Basketbrawl | 11867 | [11867-basketbrawl.json](./11867-basketbrawl.json) |
 | Basketing | 148903 | [148903-basketing.json](./148903-basketing.json) |
@@ -1598,6 +1600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baston | 388344 | [388344-baston.json](./388344-baston.json) |
 | Bastyrion: Endless Tide | 398573 | [398573-bastyrion-endless-tide.json](./398573-bastyrion-endless-tide.json) |
 | Bat | 152136 | [152136-bat.json](./152136-bat.json) |
+| Bat & Ball | 362386 | [362386-bat-and-ball.json](./362386-bat-and-ball.json) |
 | Bat Blast! | 275880 | [275880-bat-blast.json](./275880-bat-blast.json) |
 | Bat Blitz | 248323 | [248323-bat-blitz.json](./248323-bat-blitz.json) |
 | Bat Cage | 319570 | [319570-bat-cage.json](./319570-bat-cage.json) |
@@ -2276,6 +2279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BBQ Master | 364029 | [364029-bbq-master.json](./364029-bbq-master.json) |
 | BBQ Simulator: The Squad | 185674 | [185674-bbq-simulator-the-squad.json](./185674-bbq-simulator-the-squad.json) |
 | BBS (Bulletin Board System) Magica | 399740 | [399740-bbs-bulletin-board-system-magica.json](./399740-bbs-bulletin-board-system-magica.json) |
+| Bburago Rally | 362414 | [362414-bburago-rally.json](./362414-bburago-rally.json) |
 | Bby don't hurt me | 383011 | [383011-bby-dont-hurt-me.json](./383011-bby-dont-hurt-me.json) |
 | BC Racers | 5362 | [5362-bc-racers.json](./5362-bc-racers.json) |
 | BCFX: The Doug Williams Edition | 70603 | [70603-bcfx-the-doug-williams-edition.json](./70603-bcfx-the-doug-williams-edition.json) |
@@ -2321,6 +2325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Bar Simulator | 347355 | [347355-beach-bar-simulator.json](./347355-beach-bar-simulator.json) |
 | Beach Bass | 334210 | [334210-beach-bass.json](./334210-beach-bass.json) |
 | Beach Bike Water: Challenge Ra | 107671 | [107671-beach-bike-water-challenge-ra.json](./107671-beach-bike-water-challenge-ra.json) |
+| Beach Blanket Volleyball | 362416 | [362416-beach-blanket-volleyball.json](./362416-beach-blanket-volleyball.json) |
 | Beach Bounce | 35698 | [35698-beach-bounce.json](./35698-beach-bounce.json) |
 | Beach Bounce Remastered | 22216 | [22216-beach-bounce-remastered.json](./22216-beach-bounce-remastered.json) |
 | Beach Bowling 3D | 66120 | [66120-beach-bowling-3d.json](./66120-beach-bowling-3d.json) |
@@ -3117,6 +3122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berzerk | 2391 | [2391-berzerk.json](./2391-berzerk.json) |
 | Berzerk | 282314 | [282314-berzerk.json](./282314-berzerk.json) |
 | Berzerk Ball 2 | 75505 | [75505-berzerk-ball-2.json](./75505-berzerk-ball-2.json) |
+| Berzerk Redux | 362418 | [362418-berzerk-redux.json](./362418-berzerk-redux.json) |
 | Berzerk: Enhanced Edition | 280756 | [280756-berzerk-enhanced-edition.json](./280756-berzerk-enhanced-edition.json) |
 | Berzerk: Recharged | 270485 | [270485-berzerk-recharged.json](./270485-berzerk-recharged.json) |
 | Besiedelte Welten: Das alte Ägypten | 91559 | [91559-besiedelte-welten-das-alte-agypten.json](./91559-besiedelte-welten-das-alte-agypten.json) |
@@ -3145,6 +3151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best of Best | 39583 | [39583-best-of-best.json](./39583-best-of-best.json) |
 | Best of Board Games: Chess | 84981 | [84981-best-of-board-games-chess.json](./84981-best-of-board-games-chess.json) |
 | Best of British: Summer Sports | 246930 | [246930-best-of-british-summer-sports.json](./246930-best-of-british-summer-sports.json) |
+| Best of Chess: Volume I - American Triumph | 362419 | [362419-best-of-chess-volume-i-american-triumph.json](./362419-best-of-chess-volume-i-american-triumph.json) |
 | Best of Klei 2025 | 52630 | [52630-best-of-klei-2025.json](./52630-best-of-klei-2025.json) |
 | Best of Mahjong | 85509 | [85509-best-of-mahjong.json](./85509-best-of-mahjong.json) |
 | Best of Merge Vol #1 | 207885 | [207885-best-of-merge-vol-1.json](./207885-best-of-merge-vol-1.json) |
@@ -3446,6 +3453,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Bears Bad Advice: A Non-Biased Daily Fortune Teller | 126623 | [126623-big-bears-bad-advice-a-non-biased-daily-fortune-teller.json](./126623-big-bears-bad-advice-a-non-biased-daily-fortune-teller.json) |
 | Big Beautiful Women: Giantess Dating Action | 373174 | [373174-big-beautiful-women-giantess-dating-action.json](./373174-big-beautiful-women-giantess-dating-action.json) |
 | Big Bible Town | 326992 | [326992-big-bible-town.json](./326992-big-bible-town.json) |
+| Big Bird's Funhouse | 362421 | [362421-big-birds-funhouse.json](./362421-big-birds-funhouse.json) |
+| Big Bird's Special Delivery | 362422 | [362422-big-birds-special-delivery.json](./362422-big-birds-special-delivery.json) |
 | Big Blind | 326193 | [326193-big-blind.json](./326193-big-blind.json) |
 | Big Blue | 272857 | [272857-big-blue.json](./272857-big-blue.json) |
 | Big Blue World Domination | 165518 | [165518-big-blue-world-domination.json](./165518-big-blue-world-domination.json) |
@@ -3608,6 +3617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Courier: Bistro Express Delivery | 283296 | [283296-bike-courier-bistro-express-delivery.json](./283296-bike-courier-bistro-express-delivery.json) |
 | Bike Food Delivery Simulator | 409669 | [409669-bike-food-delivery-simulator.json](./409669-bike-food-delivery-simulator.json) |
 | Bike Game 3D | 254747 | [254747-bike-game-3d.json](./254747-bike-game-3d.json) |
+| Bike Hike | 362423 | [362423-bike-hike.json](./362423-bike-hike.json) |
 | Bike Offroad Simulator | 248033 | [248033-bike-offroad-simulator.json](./248033-bike-offroad-simulator.json) |
 | Bike Racer 2018 | 105866 | [105866-bike-racer-2018.json](./105866-bike-racer-2018.json) |
 | Bike Racing | 91109 | [91109-bike-racing.json](./91109-bike-racing.json) |
@@ -7337,6 +7347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge Master | 94682 | [94682-bridge-master.json](./94682-bridge-master.json) |
 | Bridge Master with Terence Reese | 362444 | [362444-bridge-master-with-terence-reese.json](./362444-bridge-master-with-terence-reese.json) |
 | Bridge Race: Platinum Edition | 378956 | [378956-bridge-race-platinum-edition.json](./378956-bridge-race-platinum-edition.json) |
+| Bridge Race: Silly Edition | 362376 | [362376-bridge-race-silly-edition.json](./362376-bridge-race-silly-edition.json) |
 | Bridge Strike | 124035 | [124035-bridge-strike.json](./124035-bridge-strike.json) |
 | Bridge to Another World Remastered: Burnt Dreams Collector's Edition | 362834 | [362834-bridge-to-another-world-remastered-burnt-dreams-collectors-edition.json](./362834-bridge-to-another-world-remastered-burnt-dreams-collectors-edition.json) |
 | Bridge to Another World: Cursed Clouds - Collector's Edition | 225009 | [225009-bridge-to-another-world-cursed-clouds-collectors-edition.json](./225009-bridge-to-another-world-cursed-clouds-collectors-edition.json) |
