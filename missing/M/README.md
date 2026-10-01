@@ -1840,11 +1840,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart Tour: Anniversary Tour | 361192 | [361192-mario-kart-tour-anniversary-tour.json](./361192-mario-kart-tour-anniversary-tour.json) |
 | Mario Kart Tour: Autumn Tour | 361162 | [361162-mario-kart-tour-autumn-tour.json](./361162-mario-kart-tour-autumn-tour.json) |
 | Mario Kart Tour: Autumn Tour | 361195 | [361195-mario-kart-tour-autumn-tour.json](./361195-mario-kart-tour-autumn-tour.json) |
+| Mario Kart Tour: Bangkok Tour | 361186 | [361186-mario-kart-tour-bangkok-tour.json](./361186-mario-kart-tour-bangkok-tour.json) |
 | Mario Kart Tour: Berlin Tour | 361140 | [361140-mario-kart-tour-berlin-tour.json](./361140-mario-kart-tour-berlin-tour.json) |
 | Mario Kart Tour: Bowser Tour | 361190 | [361190-mario-kart-tour-bowser-tour.json](./361190-mario-kart-tour-bowser-tour.json) |
 | Mario Kart Tour: Bowser Tour | 361208 | [361208-mario-kart-tour-bowser-tour.json](./361208-mario-kart-tour-bowser-tour.json) |
 | Mario Kart Tour: Bowser vs. DK Tour | 361148 | [361148-mario-kart-tour-bowser-vs-dk-tour.json](./361148-mario-kart-tour-bowser-vs-dk-tour.json) |
 | Mario Kart Tour: Cat Tour | 361141 | [361141-mario-kart-tour-cat-tour.json](./361141-mario-kart-tour-cat-tour.json) |
+| Mario Kart Tour: Cat Tour | 361183 | [361183-mario-kart-tour-cat-tour.json](./361183-mario-kart-tour-cat-tour.json) |
 | Mario Kart Tour: Cooking Tour | 361124 | [361124-mario-kart-tour-cooking-tour.json](./361124-mario-kart-tour-cooking-tour.json) |
 | Mario Kart Tour: Doctor Tour | 361203 | [361203-mario-kart-tour-doctor-tour.json](./361203-mario-kart-tour-doctor-tour.json) |
 | Mario Kart Tour: Exploration Tour | 361127 | [361127-mario-kart-tour-exploration-tour.json](./361127-mario-kart-tour-exploration-tour.json) |
@@ -1868,6 +1870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart Tour: Mario vs. Luigi Tour | 361191 | [361191-mario-kart-tour-mario-vs-luigi-tour.json](./361191-mario-kart-tour-mario-vs-luigi-tour.json) |
 | Mario Kart Tour: Mario vs. Luigi Tour | 361211 | [361211-mario-kart-tour-mario-vs-luigi-tour.json](./361211-mario-kart-tour-mario-vs-luigi-tour.json) |
 | Mario Kart Tour: Mario vs. Peach Tour | 361155 | [361155-mario-kart-tour-mario-vs-peach-tour.json](./361155-mario-kart-tour-mario-vs-peach-tour.json) |
+| Mario Kart Tour: Metropolitan Tour | 361185 | [361185-mario-kart-tour-metropolitan-tour.json](./361185-mario-kart-tour-metropolitan-tour.json) |
 | Mario Kart Tour: Mii Tour | 361209 | [361209-mario-kart-tour-mii-tour.json](./361209-mario-kart-tour-mii-tour.json) |
 | Mario Kart Tour: New Year's 2021 Tour | 361139 | [361139-mario-kart-tour-new-years-2021-tour.json](./361139-mario-kart-tour-new-years-2021-tour.json) |
 | Mario Kart Tour: New Year's Tour | 338538 | [338538-mario-kart-tour-new-years-tour.json](./338538-mario-kart-tour-new-years-tour.json) |
@@ -1875,12 +1878,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart Tour: Night Tour | 361212 | [361212-mario-kart-tour-night-tour.json](./361212-mario-kart-tour-night-tour.json) |
 | Mario Kart Tour: Ninja Tour | 361146 | [361146-mario-kart-tour-ninja-tour.json](./361146-mario-kart-tour-ninja-tour.json) |
 | Mario Kart Tour: Ninja Tour | 361205 | [361205-mario-kart-tour-ninja-tour.json](./361205-mario-kart-tour-ninja-tour.json) |
+| Mario Kart Tour: Ocean Tour | 361188 | [361188-mario-kart-tour-ocean-tour.json](./361188-mario-kart-tour-ocean-tour.json) |
 | Mario Kart Tour: Paris Tour | 361151 | [361151-mario-kart-tour-paris-tour.json](./361151-mario-kart-tour-paris-tour.json) |
 | Mario Kart Tour: Peach Tour | 361125 | [361125-mario-kart-tour-peach-tour.json](./361125-mario-kart-tour-peach-tour.json) |
 | Mario Kart Tour: Peach vs. Bowser Tour | 361197 | [361197-mario-kart-tour-peach-vs-bowser-tour.json](./361197-mario-kart-tour-peach-vs-bowser-tour.json) |
 | Mario Kart Tour: Peach vs. Daisy Tour | 361142 | [361142-mario-kart-tour-peach-vs-daisy-tour.json](./361142-mario-kart-tour-peach-vs-daisy-tour.json) |
 | Mario Kart Tour: Penguin Tour | 361169 | [361169-mario-kart-tour-penguin-tour.json](./361169-mario-kart-tour-penguin-tour.json) |
 | Mario Kart Tour: Pipe Tour | 361214 | [361214-mario-kart-tour-pipe-tour.json](./361214-mario-kart-tour-pipe-tour.json) |
+| Mario Kart Tour: Piranha Plant Tour | 361187 | [361187-mario-kart-tour-piranha-plant-tour.json](./361187-mario-kart-tour-piranha-plant-tour.json) |
 | Mario Kart Tour: Pirate Tour | 361129 | [361129-mario-kart-tour-pirate-tour.json](./361129-mario-kart-tour-pirate-tour.json) |
 | Mario Kart Tour: Princess Tour | 361210 | [361210-mario-kart-tour-princess-tour.json](./361210-mario-kart-tour-princess-tour.json) |
 | Mario Kart Tour: Rosalina Tour | 361138 | [361138-mario-kart-tour-rosalina-tour.json](./361138-mario-kart-tour-rosalina-tour.json) |
@@ -1891,6 +1896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart Tour: Summer Festival Tour | 361130 | [361130-mario-kart-tour-summer-festival-tour.json](./361130-mario-kart-tour-summer-festival-tour.json) |
 | Mario Kart Tour: Summer Tour | 361152 | [361152-mario-kart-tour-summer-tour.json](./361152-mario-kart-tour-summer-tour.json) |
 | Mario Kart Tour: Summer Tour | 361217 | [361217-mario-kart-tour-summer-tour.json](./361217-mario-kart-tour-summer-tour.json) |
+| Mario Kart Tour: Sundae Tour | 361189 | [361189-mario-kart-tour-sundae-tour.json](./361189-mario-kart-tour-sundae-tour.json) |
 | Mario Kart Tour: Sundae Tour | 361218 | [361218-mario-kart-tour-sundae-tour.json](./361218-mario-kart-tour-sundae-tour.json) |
 | Mario Kart Tour: Sunset Tour | 361135 | [361135-mario-kart-tour-sunset-tour.json](./361135-mario-kart-tour-sunset-tour.json) |
 | Mario Kart Tour: Sunshine Tour | 361215 | [361215-mario-kart-tour-sunshine-tour.json](./361215-mario-kart-tour-sunshine-tour.json) |
@@ -10024,6 +10030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysteries of Fence | 52086 | [52086-mysteries-of-fence.json](./52086-mysteries-of-fence.json) |
 | Mysteries of Magic Island | 124741 | [124741-mysteries-of-magic-island.json](./124741-mysteries-of-magic-island.json) |
 | Mysteries of Neverville: The Runestone of Light | 113177 | [113177-mysteries-of-neverville-the-runestone-of-light.json](./113177-mysteries-of-neverville-the-runestone-of-light.json) |
+| Mysteries of Old Tokyo | 361273 | [361273-mysteries-of-old-tokyo.json](./361273-mysteries-of-old-tokyo.json) |
 | Mysteries of Peak Valley: Case 1 - The Lost Sonata | 171536 | [171536-mysteries-of-peak-valley-case-1-the-lost-sonata.json](./171536-mysteries-of-peak-valley-case-1-the-lost-sonata.json) |
 | Mysteries of Peak Valley: Case 2 - The White Lady | 171537 | [171537-mysteries-of-peak-valley-case-2-the-white-lady.json](./171537-mysteries-of-peak-valley-case-2-the-white-lady.json) |
 | Mysteries of Peak Valley: Case 3 - The Ruin of Souls | 171538 | [171538-mysteries-of-peak-valley-case-3-the-ruin-of-souls.json](./171538-mysteries-of-peak-valley-case-3-the-ruin-of-souls.json) |
