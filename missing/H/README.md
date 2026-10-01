@@ -572,6 +572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hand to Hand Combat | 118004 | [118004-hand-to-hand-combat.json](./118004-hand-to-hand-combat.json) |
 | Hand to Hand Combat VR | 122984 | [122984-hand-to-hand-combat-vr.json](./122984-hand-to-hand-combat-vr.json) |
 | Hand-Holding Simulator | 326404 | [326404-hand-holding-simulator.json](./326404-hand-holding-simulator.json) |
+| Hand-me-downs | 373139 | [373139-hand-me-downs.json](./373139-hand-me-downs.json) |
 | Handball | 18391 | [18391-handball.json](./18391-handball.json) |
 | Handball 16 | 34927 | [34927-handball-16.json](./34927-handball-16.json) |
 | Handball 17 | 31316 | [31316-handball-17.json](./31316-handball-17.json) |
@@ -1945,6 +1946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellbender | 84176 | [84176-hellbender.json](./84176-hellbender.json) |
 | Hellblade: Senua's Sacrifice - VR Edition | 106107 | [106107-hellblade-senuas-sacrifice-vr-edition.json](./106107-hellblade-senuas-sacrifice-vr-edition.json) |
 | Hellblusser | 162410 | [162410-hellblusser.json](./162410-hellblusser.json) |
+| HellBorn | 373154 | [373154-hellborn.json](./373154-hellborn.json) |
 | Hellborne | 148373 | [148373-hellborne.json](./148373-hellborne.json) |
 | Hellbound | 139990 | [139990-hellbound.json](./139990-hellbound.json) |
 | Hellbound | 360769 | [360769-hellbound.json](./360769-hellbound.json) |
@@ -3775,6 +3777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hirdrih Technologic | 404974 | [404974-hirdrih-technologic.json](./404974-hirdrih-technologic.json) |
 | Hire Me! | 285521 | [285521-hire-me.json](./285521-hire-me.json) |
 | Hired 2 Die | 211704 | [211704-hired-2-die.json](./211704-hired-2-die.json) |
+| Hired Stars | 373169 | [373169-hired-stars.json](./373169-hired-stars.json) |
 | Hired Team: Trial Gold | 73849 | [73849-hired-team-trial-gold.json](./73849-hired-team-trial-gold.json) |
 | Hirilun | 151062 | [151062-hirilun.json](./151062-hirilun.json) |
 | Hiro's Harvest Season | 76532 | [76532-hiros-harvest-season.json](./76532-hiros-harvest-season.json) |
