@@ -3133,6 +3133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexpert | 137552 | [137552-hexpert.json](./137552-hexpert.json) |
 | Hexplorando | 291778 | [291778-hexplorando.json](./291778-hexplorando.json) |
 | HeXpunk | 343246 | [343246-hexpunk.json](./343246-hexpunk.json) |
+| Hexroll | 337779 | [337779-hexroll.json](./337779-hexroll.json) |
 | HexRoller | 253015 | [253015-hexroller.json](./253015-hexroller.json) |
 | HexSwarm: Hostile Worlds | 389721 | [389721-hexswarm-hostile-worlds.json](./389721-hexswarm-hostile-worlds.json) |
 | Hextalia | 353966 | [353966-hextalia.json](./353966-hextalia.json) |
@@ -5586,6 +5587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hugo: The Forces of Nature | 15538 | [15538-hugo-the-forces-of-nature.json](./15538-hugo-the-forces-of-nature.json) |
 | Hugo: The Quest for the Sunstones | 44743 | [44743-hugo-the-quest-for-the-sunstones.json](./44743-hugo-the-quest-for-the-sunstones.json) |
 | Hugo: Wild River | 210623 | [210623-hugo-wild-river.json](./210623-hugo-wild-river.json) |
+| Hugo: Winter Games | 337756 | [337756-hugo-winter-games.json](./337756-hugo-winter-games.json) |
 | Hugo's House of Horrors | 8881 | [8881-hugos-house-of-horrors.json](./8881-hugos-house-of-horrors.json) |
 | Hugungui Beopchik | 212858 | [212858-hugungui-beopchik.json](./212858-hugungui-beopchik.json) |
 | Huíwén Píngtái Tiàoyuè | 156136 | [156136-huiwen-pingtai-tiaoyue.json](./156136-huiwen-pingtai-tiaoyue.json) |
@@ -5953,6 +5955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydraulic Empire | 34969 | [34969-hydraulic-empire.json](./34969-hydraulic-empire.json) |
 | Hydraulic Press | 372043 | [372043-hydraulic-press.json](./372043-hydraulic-press.json) |
 | Hydraulic Press Pocket | 400391 | [400391-hydraulic-press-pocket.json](./400391-hydraulic-press-pocket.json) |
+| Hydraulic Slam | 337773 | [337773-hydraulic-slam.json](./337773-hydraulic-slam.json) |
 | Hydro | 344997 | [344997-hydro.json](./344997-hydro.json) |
 | Hydro Thunder | 3370 | [3370-hydro-thunder.json](./3370-hydro-thunder.json) |
 | Hydrofoil Generation | 190237 | [190237-hydrofoil-generation.json](./190237-hydrofoil-generation.json) |
