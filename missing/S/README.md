@@ -4557,6 +4557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shota Kare! | 242518 | [242518-shota-kare.json](./242518-shota-kare.json) |
 | Shotdogs | 210096 | [210096-shotdogs.json](./210096-shotdogs.json) |
 | Shotengai 10 | 287716 | [287716-shotengai-10.json](./287716-shotengai-10.json) |
+| Shotguana | 337307 | [337307-shotguana.json](./337307-shotguana.json) |
 | Shotgun Angelic | 183428 | [183428-shotgun-angelic.json](./183428-shotgun-angelic.json) |
 | Shotgun Club | 260705 | [260705-shotgun-club.json](./260705-shotgun-club.json) |
 | Shotgun Cop Man | 332568 | [332568-shotgun-cop-man.json](./332568-shotgun-cop-man.json) |
@@ -8632,6 +8633,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Universe Adventure | 326824 | [326824-sonic-universe-adventure.json](./326824-sonic-universe-adventure.json) |
 | Sonic Unleashed | 133942 | [133942-sonic-unleashed.json](./133942-sonic-unleashed.json) |
 | Sonic Unleashed | 133943 | [133943-sonic-unleashed.json](./133943-sonic-unleashed.json) |
+| Sonic Unleashed: Chun-nan Adventure Pack | 337214 | [337214-sonic-unleashed-chun-nan-adventure-pack.json](./337214-sonic-unleashed-chun-nan-adventure-pack.json) |
+| Sonic Unleashed: Empire City & Adabat Adventure Pack | 337219 | [337219-sonic-unleashed-empire-city-and-adabat-adventure-pack.json](./337219-sonic-unleashed-empire-city-and-adabat-adventure-pack.json) |
+| Sonic Unleashed: Holoska Adventure Pack | 337217 | [337217-sonic-unleashed-holoska-adventure-pack.json](./337217-sonic-unleashed-holoska-adventure-pack.json) |
+| Sonic Unleashed: Mazuri Adventure Pack | 337218 | [337218-sonic-unleashed-mazuri-adventure-pack.json](./337218-sonic-unleashed-mazuri-adventure-pack.json) |
+| Sonic Unleashed: Spagonia Adventure Pack | 337216 | [337216-sonic-unleashed-spagonia-adventure-pack.json](./337216-sonic-unleashed-spagonia-adventure-pack.json) |
 | Sonic Uprising | 318630 | [318630-sonic-uprising.json](./318630-sonic-uprising.json) |
 | Sonic Utopia | 305281 | [305281-sonic-utopia.json](./305281-sonic-utopia.json) |
 | Sonic Vex | 330520 | [330520-sonic-vex.json](./330520-sonic-vex.json) |
@@ -13876,6 +13882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Su-27 Flanker | 22621 | [22621-su-27-flanker.json](./22621-su-27-flanker.json) |
 | Su-27 Flanker Mission Disk | 74051 | [74051-su-27-flanker-mission-disk.json](./74051-su-27-flanker-mission-disk.json) |
 | SU42: Hired Gun | 345669 | [345669-su42-hired-gun.json](./345669-su42-hired-gun.json) |
+| Sub Attack | 337208 | [337208-sub-attack.json](./337208-sub-attack.json) |
 | Sub Battle Simulator | 37162 | [37162-sub-battle-simulator.json](./37162-sub-battle-simulator.json) |
 | Sub Chase | 245579 | [245579-sub-chase.json](./245579-sub-chase.json) |
 | Sub Chase Online | 211200 | [211200-sub-chase-online.json](./211200-sub-chase-online.json) |
@@ -14812,6 +14819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Craft: Exploration Survival | 100961 | [100961-super-craft-exploration-survival.json](./100961-super-craft-exploration-survival.json) |
 | Super Crate Box | 9945 | [9945-super-crate-box.json](./9945-super-crate-box.json) |
 | Super Crate Box Together | 304150 | [304150-super-crate-box-together.json](./304150-super-crate-box-together.json) |
+| Super Crayon | 337232 | [337232-super-crayon.json](./337232-super-crayon.json) |
 | Super Crazy Guitar Maniac Deluxe | 262446 | [262446-super-crazy-guitar-maniac-deluxe.json](./262446-super-crazy-guitar-maniac-deluxe.json) |
 | Super Crazy Guitar Maniac Deluxe 2 | 262447 | [262447-super-crazy-guitar-maniac-deluxe-2.json](./262447-super-crazy-guitar-maniac-deluxe-2.json) |
 | Super Crazy Guitar Maniac Deluxe 3 | 262472 | [262472-super-crazy-guitar-maniac-deluxe-3.json](./262472-super-crazy-guitar-maniac-deluxe-3.json) |
