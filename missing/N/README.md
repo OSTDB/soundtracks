@@ -1025,6 +1025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekodancer | 197658 | [197658-nekodancer.json](./197658-nekodancer.json) |
 | Nekoglai Simulator | 193409 | [193409-nekoglai-simulator.json](./193409-nekoglai-simulator.json) |
 | Nekograms | 187838 | [187838-nekograms.json](./187838-nekograms.json) |
+| Nekogumi | 352309 | [352309-nekogumi.json](./352309-nekogumi.json) |
 | Nekokami: The Human Restoration Project | 289424 | [289424-nekokami-the-human-restoration-project.json](./289424-nekokami-the-human-restoration-project.json) |
 | Nekoman | 97829 | [97829-nekoman.json](./97829-nekoman.json) |
 | Nekomancy | 213440 | [213440-nekomancy.json](./213440-nekomancy.json) |
@@ -1134,6 +1135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo: The World Ends with You x Field Walk RPG | 362436 | [362436-neo-the-world-ends-with-you-x-field-walk-rpg.json](./362436-neo-the-world-ends-with-you-x-field-walk-rpg.json) |
 | Neo's Land | 61632 | [61632-neos-land.json](./61632-neos-land.json) |
 | NeoBalls2 | 83560 | [83560-neoballs2.json](./83560-neoballs2.json) |
+| Neoblazer | 352249 | [352249-neoblazer.json](./352249-neoblazer.json) |
 | NeoCandy | 109900 | [109900-neocandy.json](./109900-neocandy.json) |
 | Neocense | 157060 | [157060-neocense.json](./157060-neocense.json) |
 | NeoCoins | 362268 | [362268-neocoins.json](./362268-neocoins.json) |
