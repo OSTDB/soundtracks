@@ -3653,6 +3653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exotic Matter | 75107 | [75107-exotic-matter.json](./75107-exotic-matter.json) |
 | Exotica: Petshop Simulator | 215795 | [215795-exotica-petshop-simulator.json](./215795-exotica-petshop-simulator.json) |
 | ExoTrain | 391157 | [391157-exotrain.json](./391157-exotrain.json) |
+| Exovia | 342824 | [342824-exovia.json](./342824-exovia.json) |
 | Exovore | 384221 | [384221-exovore.json](./384221-exovore.json) |
 | Exp!A | 151692 | [151692-exp-a.json](./151692-exp-a.json) |
 | Exp10sion | 277946 | [277946-exp10sion.json](./277946-exp10sion.json) |
