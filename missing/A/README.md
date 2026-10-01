@@ -268,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Koopa's Revenge | 261814 | [261814-a-koopas-revenge.json](./261814-a-koopas-revenge.json) |
 | A Koopa's Revenge 2 | 307669 | [307669-a-koopas-revenge-2.json](./307669-a-koopas-revenge-2.json) |
 | A Lab of One's Own | 177848 | [177848-a-lab-of-ones-own.json](./177848-a-lab-of-ones-own.json) |
+| A Lakeside Walk in the Dolomites | 341085 | [341085-a-lakeside-walk-in-the-dolomites.json](./341085-a-lakeside-walk-in-the-dolomites.json) |
 | A Last Will and Testament | 203869 | [203869-a-last-will-and-testament.json](./203869-a-last-will-and-testament.json) |
 | A Legend of Wisdom | 232962 | [232962-a-legend-of-wisdom.json](./232962-a-legend-of-wisdom.json) |
 | A Legionary's Life | 117101 | [117101-a-legionarys-life.json](./117101-a-legionarys-life.json) |
@@ -5794,6 +5795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Eyes | 156982 | [156982-arcane-eyes.json](./156982-arcane-eyes.json) |
 | Arcane Fate | 224099 | [224099-arcane-fate.json](./224099-arcane-fate.json) |
 | Arcane Fighters | 272790 | [272790-arcane-fighters.json](./272790-arcane-fighters.json) |
+| Arcane Investigations | 341092 | [341092-arcane-investigations.json](./341092-arcane-investigations.json) |
 | Arcane Legends | 60078 | [60078-arcane-legends.json](./60078-arcane-legends.json) |
 | Arcane Maelstrom | 29765 | [29765-arcane-maelstrom.json](./29765-arcane-maelstrom.json) |
 | Arcane Mayhem | 388424 | [388424-arcane-mayhem.json](./388424-arcane-mayhem.json) |
