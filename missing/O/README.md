@@ -382,7 +382,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of Piers & Bays | 397903 | [397903-of-piers-and-bays.json](./397903-of-piers-and-bays.json) |
 | Of Pith and Pumpkins | 185415 | [185415-of-pith-and-pumpkins.json](./185415-of-pith-and-pumpkins.json) |
 | Of Ships & Scoundrels | 110279 | [110279-of-ships-and-scoundrels.json](./110279-of-ships-and-scoundrels.json) |
+| Of the Devil: Episode 0 | 383570 | [383570-of-the-devil-episode-0.json](./383570-of-the-devil-episode-0.json) |
 | Of the Devil: Episode 1 | 330913 | [330913-of-the-devil-episode-1.json](./330913-of-the-devil-episode-1.json) |
+| Of the Devil: Episode 3 | 383566 | [383566-of-the-devil-episode-3.json](./383566-of-the-devil-episode-3.json) |
 | Of the Red, the Light, and the Ayakashi Tsuzuri | 62190 | [62190-of-the-red-the-light-and-the-ayakashi-tsuzuri.json](./62190-of-the-red-the-light-and-the-ayakashi-tsuzuri.json) |
 | Of Three Plantagenets | 271848 | [271848-of-three-plantagenets.json](./271848-of-three-plantagenets.json) |
 | Off | 24930 | [24930-off.json](./24930-off.json) |
