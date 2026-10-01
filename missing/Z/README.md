@@ -486,12 +486,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZHive | 120773 | [120773-zhive.json](./120773-zhive.json) |
 | Zhmyshenko Valery Albertovich | 99018 | [99018-zhmyshenko-valery-albertovich.json](./99018-zhmyshenko-valery-albertovich.json) |
 | Zhombre, the Undead Hombre | 23878 | [23878-zhombre-the-undead-hombre.json](./23878-zhombre-the-undead-hombre.json) |
+| Zhōng Yān Yǔ Lóng Tóngxíng | 373698 | [373698-zhong-yan-yu-long-tongxing.json](./373698-zhong-yan-yu-long-tongxing.json) |
 | Zhōngguó Shì Fùháo | 375430 | [375430-zhongguo-shi-fuhao.json](./375430-zhongguo-shi-fuhao.json) |
 | Zhōngguó Xiàngqí | 82099 | [82099-zhongguo-xiangqi.json](./82099-zhongguo-xiangqi.json) |
 | Zhōngguó Xiàngqí Zàixiàn | 88208 | [88208-zhongguo-xiangqi-zaixian.json](./88208-zhongguo-xiangqi-zaixian.json) |
 | Zhōnghuá Fùjiǎ Sānguó | 161903 | [161903-zhonghua-fujia-sanguo.json](./161903-zhonghua-fujia-sanguo.json) |
 | Zhu Zhu Pets | 9168 | [9168-zhu-zhu-pets.json](./9168-zhu-zhu-pets.json) |
 | Zhulik.exe | 81770 | [81770-zhulik-exe.json](./81770-zhulik-exe.json) |
+| Zhúlù Hàn Mò | 373690 | [373690-zhulu-han-mo.json](./373690-zhulu-han-mo.json) |
 | Zhust: The Illusion Soul | 40463 | [40463-zhust-the-illusion-soul.json](./40463-zhust-the-illusion-soul.json) |
 | Zhūtiān Jì | 157534 | [157534-zhutian-ji.json](./157534-zhutian-ji.json) |
 | Zi | 279039 | [279039-zi.json](./279039-zi.json) |
@@ -752,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Invasion: FPS Defense | 269097 | [269097-zombie-invasion-fps-defense.json](./269097-zombie-invasion-fps-defense.json) |
 | Zombie Island | 127084 | [127084-zombie-island.json](./127084-zombie-island.json) |
 | Zombie Isle | 343474 | [343474-zombie-isle.json](./343474-zombie-isle.json) |
+| Zombie Kill | 373670 | [373670-zombie-kill.json](./373670-zombie-kill.json) |
 | Zombie Killer | 181776 | [181776-zombie-killer.json](./181776-zombie-killer.json) |
 | Zombie Killer Squad | 213946 | [213946-zombie-killer-squad.json](./213946-zombie-killer-squad.json) |
 | Zombie Killing Simulator | 103184 | [103184-zombie-killing-simulator.json](./103184-zombie-killing-simulator.json) |
