@@ -3676,6 +3676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Horror Land | 336538 | [336538-christmas-horror-land.json](./336538-christmas-horror-land.json) |
 | Christmas Horse 4 | 280858 | [280858-christmas-horse-4.json](./280858-christmas-horse-4.json) |
 | Christmas Hustle | 320384 | [320384-christmas-hustle.json](./320384-christmas-hustle.json) |
+| Christmas Incident | 382952 | [382952-christmas-incident.json](./382952-christmas-incident.json) |
 | Christmas Jigsaw Puzzle Pango | 108458 | [108458-christmas-jigsaw-puzzle-pango.json](./108458-christmas-jigsaw-puzzle-pango.json) |
 | Christmas Journey Puzzle | 283840 | [283840-christmas-journey-puzzle.json](./283840-christmas-journey-puzzle.json) |
 | Christmas Jumper Jam | 326981 | [326981-christmas-jumper-jam.json](./326981-christmas-jumper-jam.json) |
@@ -6461,6 +6462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conundrum | 348975 | [348975-conundrum.json](./348975-conundrum.json) |
 | Conundrum | 380087 | [380087-conundrum.json](./380087-conundrum.json) |
 | Conveni Dream | 58464 | [58464-conveni-dream.json](./58464-conveni-dream.json) |
+| Convenience Store Simulator | 382972 | [382972-convenience-store-simulator.json](./382972-convenience-store-simulator.json) |
 | Convenience Stories | 197791 | [197791-convenience-stories.json](./197791-convenience-stories.json) |
 | Convenient | 217010 | [217010-convenient.json](./217010-convenient.json) |
 | Convenient Encounters | 236501 | [236501-convenient-encounters.json](./236501-convenient-encounters.json) |
@@ -9493,6 +9495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberSkyscrUpper | 265770 | [265770-cyberskyscrupper.json](./265770-cyberskyscrupper.json) |
 | Cybersonic Strike | 258538 | [258538-cybersonic-strike.json](./258538-cybersonic-strike.json) |
 | Cybersoul: Cosmic Resonance | 385864 | [385864-cybersoul-cosmic-resonance.json](./385864-cybersoul-cosmic-resonance.json) |
+| Cybersoul: Digital Sorcery | 382960 | [382960-cybersoul-digital-sorcery.json](./382960-cybersoul-digital-sorcery.json) |
 | CyberSpace Crossword Puzzle | 83450 | [83450-cyberspace-crossword-puzzle.json](./83450-cyberspace-crossword-puzzle.json) |
 | Cyberspace VR | 160145 | [160145-cyberspace-vr.json](./160145-cyberspace-vr.json) |
 | Cybersphere | 228696 | [228696-cybersphere.json](./228696-cybersphere.json) |
