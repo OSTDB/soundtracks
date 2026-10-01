@@ -393,6 +393,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Online | 66767 | [66767-zero-online.json](./66767-zero-online.json) |
 | Zero Ops | 213626 | [213626-zero-ops.json](./213626-zero-ops.json) |
 | Zero Orders Tactics | 216811 | [216811-zero-orders-tactics.json](./216811-zero-orders-tactics.json) |
+| Zero Orders Tactics | 380597 | [380597-zero-orders-tactics.json](./380597-zero-orders-tactics.json) |
+| Zero Orders Tactics: Supporter Pack | 380595 | [380595-zero-orders-tactics-supporter-pack.json](./380595-zero-orders-tactics-supporter-pack.json) |
+| Zero Orders Tactics: Under | 380596 | [380596-zero-orders-tactics-under.json](./380596-zero-orders-tactics-under.json) |
 | Zero Page | 216812 | [216812-zero-page.json](./216812-zero-page.json) |
 | Zero Parades: For Dead Spies | 361880 | [361880-zero-parades-for-dead-spies.json](./361880-zero-parades-for-dead-spies.json) |
 | Zero Piece | 266279 | [266279-zero-piece.json](./266279-zero-piece.json) |
