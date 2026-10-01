@@ -877,6 +877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VGM Quiz | 219270 | [219270-vgm-quiz.json](./219270-vgm-quiz.json) |
 | VHHS: Backrooms | 282017 | [282017-vhhs-backrooms.json](./282017-vhhs-backrooms.json) |
 | VHS | 309466 | [309466-vhs.json](./309466-vhs.json) |
+| VHS Bodycam: The Torture Machine | 369152 | [369152-vhs-bodycam-the-torture-machine.json](./369152-vhs-bodycam-the-torture-machine.json) |
 | VHS Nights: The Tidy Up Shift | 419889 | [419889-vhs-nights-the-tidy-up-shift.json](./419889-vhs-nights-the-tidy-up-shift.json) |
 | VHS vs. Betamax | 177572 | [177572-vhs-vs-betamax.json](./177572-vhs-vs-betamax.json) |
 | VHS World '89 | 410912 | [410912-vhs-world-89.json](./410912-vhs-world-89.json) |
@@ -1393,6 +1394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Visitor 2 | 117696 | [117696-visitor-2.json](./117696-visitor-2.json) |
 | VISK | 248914 | [248914-visk.json](./248914-visk.json) |
 | Vispire | 275574 | [275574-vispire.json](./275574-vispire.json) |
+| Vispo: Video Spot the Difference | 369185 | [369185-vispo-video-spot-the-difference.json](./369185-vispo-video-spot-the-difference.json) |
 | Vissekom | 142427 | [142427-vissekom.json](./142427-vissekom.json) |
 | Vista Golf Rivals | 106982 | [106982-vista-golf-rivals.json](./106982-vista-golf-rivals.json) |
 | Vista World | 244372 | [244372-vista-world.json](./244372-vista-world.json) |
