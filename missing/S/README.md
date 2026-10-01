@@ -1175,6 +1175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Princess? Save a Fart! | 405464 | [405464-save-the-princess-save-a-fart.json](./405464-save-the-princess-save-a-fart.json) |
 | Save the Puppy: Pet Dog Rescue | 221384 | [221384-save-the-puppy-pet-dog-rescue.json](./221384-save-the-puppy-pet-dog-rescue.json) |
 | Save the Reactor | 190174 | [190174-save-the-reactor.json](./190174-save-the-reactor.json) |
+| Save the Shapes | 380604 | [380604-save-the-shapes.json](./380604-save-the-shapes.json) |
 | Save the Teenies | 256227 | [256227-save-the-teenies.json](./256227-save-the-teenies.json) |
 | Save the throne | 285527 | [285527-save-the-throne.json](./285527-save-the-throne.json) |
 | Save The Toast! | 265183 | [265183-save-the-toast.json](./265183-save-the-toast.json) |
@@ -8578,6 +8579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sopa: Tale of the Stolen Potato | 197073 | [197073-sopa-tale-of-the-stolen-potato.json](./197073-sopa-tale-of-the-stolen-potato.json) |
 | Sophia - My Little Sis | 86824 | [86824-sophia-my-little-sis.json](./86824-sophia-my-little-sis.json) |
 | Sophia and the Mansion of Doubt | 82897 | [82897-sophia-and-the-mansion-of-doubt.json](./82897-sophia-and-the-mansion-of-doubt.json) |
+| Sophia’s Animal Clinic: Mission Wildlife Park | 380652 | [380652-sophia-s-animal-clinic-mission-wildlife-park.json](./380652-sophia-s-animal-clinic-mission-wildlife-park.json) |
 | Sophias Pizza Restaurant | 293636 | [293636-sophias-pizza-restaurant.json](./293636-sophias-pizza-restaurant.json) |
 | Sophica: Temples of Mystery | 114526 | [114526-sophica-temples-of-mystery.json](./114526-sophica-temples-of-mystery.json) |
 | Sophie: Starlight Whispers | 148440 | [148440-sophie-starlight-whispers.json](./148440-sophie-starlight-whispers.json) |
@@ -10173,6 +10175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Solitaire F | 109493 | [109493-spider-solitaire-f.json](./109493-spider-solitaire-f.json) |
 | Spider Solitaire Pro! | 89182 | [89182-spider-solitaire-pro.json](./89182-spider-solitaire-pro.json) |
 | Spider Tanks | 175785 | [175785-spider-tanks.json](./175785-spider-tanks.json) |
+| Spider Tanks: Cores of Chaos | 380592 | [380592-spider-tanks-cores-of-chaos.json](./380592-spider-tanks-cores-of-chaos.json) |
 | Spider Trouble | 199935 | [199935-spider-trouble.json](./199935-spider-trouble.json) |
 | Spider Ultimate | 100738 | [100738-spider-ultimate.json](./100738-spider-ultimate.json) |
 | Spider Wars | 33209 | [33209-spider-wars.json](./33209-spider-wars.json) |
@@ -10338,6 +10341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spire of Lust & Fetish | 257953 | [257953-spire-of-lust-and-fetish.json](./257953-spire-of-lust-and-fetish.json) |
 | Spiriat | 197118 | [197118-spiriat.json](./197118-spiriat.json) |
 | Spiriki: Tiny Island | 404860 | [404860-spiriki-tiny-island.json](./404860-spiriki-tiny-island.json) |
+| Spirit & Steel | 380601 | [380601-spirit-and-steel.json](./380601-spirit-and-steel.json) |
 | Spirit & Stone | 216875 | [216875-spirit-and-stone.json](./216875-spirit-and-stone.json) |
 | Spirit and Katana | 191190 | [191190-spirit-and-katana.json](./191190-spirit-and-katana.json) |
 | Spirit Arena | 122258 | [122258-spirit-arena.json](./122258-spirit-arena.json) |
@@ -10471,6 +10475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splice: Tree of Life | 91102 | [91102-splice-tree-of-life.json](./91102-splice-tree-of-life.json) |
 | Spliced | 218706 | [218706-spliced.json](./218706-spliced.json) |
 | Spline Rider | 391824 | [391824-spline-rider.json](./391824-spline-rider.json) |
+| Splink | 380646 | [380646-splink.json](./380646-splink.json) |
 | Splinter | 138691 | [138691-splinter.json](./138691-splinter.json) |
 | Splinter Zone | 28867 | [28867-splinter-zone.json](./28867-splinter-zone.json) |
 | Splintered | 319206 | [319206-splintered.json](./319206-splintered.json) |
