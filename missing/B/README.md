@@ -3316,6 +3316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond A Steel Sky: Utopia Edition | 170029 | [170029-beyond-a-steel-sky-utopia-edition.json](./170029-beyond-a-steel-sky-utopia-edition.json) |
 | Beyond Arm's Reach | 65784 | [65784-beyond-arms-reach.json](./65784-beyond-arms-reach.json) |
 | Beyond Astra | 319187 | [319187-beyond-astra.json](./319187-beyond-astra.json) |
+| Beyond Babel | 337308 | [337308-beyond-babel.json](./337308-beyond-babel.json) |
 | Beyond Beco World | 267886 | [267886-beyond-beco-world.json](./267886-beyond-beco-world.json) |
 | Beyond Blue: After the Storm | 329974 | [329974-beyond-blue-after-the-storm.json](./329974-beyond-blue-after-the-storm.json) |
 | Beyond Border | 317417 | [317417-beyond-border.json](./317417-beyond-border.json) |
