@@ -561,6 +561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jesus Christ RPG Trilogy | 33371 | [33371-jesus-christ-rpg-trilogy.json](./33371-jesus-christ-rpg-trilogy.json) |
 | Jesus Christ Simulator | 303590 | [303590-jesus-christ-simulator.json](./303590-jesus-christ-simulator.json) |
 | Jesus Sacred Heart | 392792 | [392792-jesus-sacred-heart.json](./392792-jesus-sacred-heart.json) |
+| Jet Ace | 377241 | [377241-jet-ace.json](./377241-jet-ace.json) |
 | Jet Ant | 110399 | [110399-jet-ant.json](./110399-jet-ant.json) |
 | Jet Ball HD | 41525 | [41525-jet-ball-hd.json](./41525-jet-ball-hd.json) |
 | Jet Battle 3D | 88480 | [88480-jet-battle-3d.json](./88480-jet-battle-3d.json) |
