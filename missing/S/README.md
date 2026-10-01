@@ -1141,6 +1141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Me Cows | 392160 | [392160-save-me-cows.json](./392160-save-me-cows.json) |
 | Save me Mr Tako: Tasukete Tako-San | 55175 | [55175-save-me-mr-tako-tasukete-tako-san.json](./55175-save-me-mr-tako-tasukete-tako-san.json) |
 | Save My Pet | 89278 | [89278-save-my-pet.json](./89278-save-my-pet.json) |
+| Save My Scrap | 380047 | [380047-save-my-scrap.json](./380047-save-my-scrap.json) |
 | Save My Sister | 257679 | [257679-save-my-sister.json](./257679-save-my-sister.json) |
 | Save Next Christmas | 397069 | [397069-save-next-christmas.json](./397069-save-next-christmas.json) |
 | Save One More | 90278 | [90278-save-one-more.json](./90278-save-one-more.json) |
