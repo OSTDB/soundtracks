@@ -2617,6 +2617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Requiem: Bloodymare | 21461 | [21461-requiem-bloodymare.json](./21461-requiem-bloodymare.json) |
 | Requiem: Memento Mori | 80593 | [80593-requiem-memento-mori.json](./80593-requiem-memento-mori.json) |
 | Requiem: Rise of the Reaver | 36343 | [36343-requiem-rise-of-the-reaver.json](./36343-requiem-rise-of-the-reaver.json) |
+| Requiem: Unleashed | 341093 | [341093-requiem-unleashed.json](./341093-requiem-unleashed.json) |
 | ReRave | 41506 | [41506-rerave.json](./41506-rerave.json) |
 | Reroll | 104065 | [104065-reroll.json](./104065-reroll.json) |
 | ReRoll | 19700 | [19700-reroll.json](./19700-reroll.json) |
@@ -5609,6 +5610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roxy Raccoon's Pinball Panic: Tropical Treats | 311789 | [311789-roxy-raccoons-pinball-panic-tropical-treats.json](./311789-roxy-raccoons-pinball-panic-tropical-treats.json) |
 | Roxy Raccoon's Pinball Panic: Wicked Warfare | 252980 | [252980-roxy-raccoons-pinball-panic-wicked-warfare.json](./252980-roxy-raccoons-pinball-panic-wicked-warfare.json) |
 | Roxy Raccoon's Pinball Panic: Workplace Worries | 264042 | [264042-roxy-raccoons-pinball-panic-workplace-worries.json](./264042-roxy-raccoons-pinball-panic-workplace-worries.json) |
+| Roxy's Dream Mansion | 341109 | [341109-roxys-dream-mansion.json](./341109-roxys-dream-mansion.json) |
 | Roxy's Windows | 241477 | [241477-roxys-windows.json](./241477-roxys-windows.json) |
 | Roy of the Rovers | 40939 | [40939-roy-of-the-rovers.json](./40939-roy-of-the-rovers.json) |
 | Roy's Bizarre Adventure | 234548 | [234548-roys-bizarre-adventure.json](./234548-roys-bizarre-adventure.json) |
