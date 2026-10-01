@@ -1541,6 +1541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball | 131531 | [131531-basketball.json](./131531-basketball.json) |
 | Basketball | 191088 | [191088-basketball.json](./191088-basketball.json) |
 | Basketball | 246504 | [246504-basketball.json](./246504-basketball.json) |
+| Basketball | 346079 | [346079-basketball.json](./346079-basketball.json) |
 | Basketball | 347704 | [347704-basketball.json](./347704-basketball.json) |
 | Basketball | 5689 | [5689-basketball.json](./5689-basketball.json) |
 | Basketball 2 | 245559 | [245559-basketball-2.json](./245559-basketball-2.json) |
@@ -4286,6 +4287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Heart | 39820 | [39820-black-heart.json](./39820-black-heart.json) |
 | Black Hole | 46790 | [46790-black-hole.json](./46790-black-hole.json) |
 | Black Hole | 85507 | [85507-black-hole.json](./85507-black-hole.json) |
+| Black Hole Fishing | 346166 | [346166-black-hole-fishing.json](./346166-black-hole-fishing.json) |
 | Black Hole Gun | 413182 | [413182-black-hole-gun.json](./413182-black-hole-gun.json) |
 | Black Hole Void: Survive The Hole | 332601 | [332601-black-hole-void-survive-the-hole.json](./332601-black-hole-void-survive-the-hole.json) |
 | Black Hole: Farmageddon | 382410 | [382410-black-hole-farmageddon.json](./382410-black-hole-farmageddon.json) |
@@ -5832,6 +5834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boggle With Friends | 55087 | [55087-boggle-with-friends.json](./55087-boggle-with-friends.json) |
 | Boggy '84 | 40261 | [40261-boggy-84.json](./40261-boggy-84.json) |
 | Bogie's Super Pick: Value Pack 1 | 98965 | [98965-bogies-super-pick-value-pack-1.json](./98965-bogies-super-pick-value-pack-1.json) |
+| Bogos Binted? | 346205 | [346205-bogos-binted.json](./346205-bogos-binted.json) |
 | Bograts: The Puzzling Misadventure | 14330 | [14330-bograts-the-puzzling-misadventure.json](./14330-bograts-the-puzzling-misadventure.json) |
 | Bogwater | 381727 | [381727-bogwater.json](./381727-bogwater.json) |
 | Bogy Men | 60206 | [60206-bogy-men.json](./60206-bogy-men.json) |
