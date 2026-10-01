@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T00:47:56.495Z",
-  "total_missing": 147176,
+  "generated_at": "2026-10-01T01:02:56.300Z",
+  "total_missing": 147226,
   "games": [
     {
       "igdb_id": 186066,
@@ -2221,6 +2221,11 @@
       "igdb_id": 98419,
       "game_name": "12nin no Onna Kyoushi Re-Innovation -In-",
       "file": "missing/0-9/98419-12nin-no-onna-kyoushi-re-innovation-in.json"
+    },
+    {
+      "igdb_id": 384726,
+      "game_name": "13 Bones",
+      "file": "missing/0-9/384726-13-bones.json"
     },
     {
       "igdb_id": 102927,
@@ -18046,6 +18051,11 @@
       "igdb_id": 283886,
       "game_name": "AirportSim: Rovaniemi Airport",
       "file": "missing/A/283886-airportsim-rovaniemi-airport.json"
+    },
+    {
+      "igdb_id": 384707,
+      "game_name": "Airrade: Summer",
+      "file": "missing/A/384707-airrade-summer.json"
     },
     {
       "igdb_id": 122978,
@@ -51288,6 +51298,11 @@
       "file": "missing/B/108471-ball-relay.json"
     },
     {
+      "igdb_id": 384713,
+      "game_name": "Ball Roller",
+      "file": "missing/B/384713-ball-roller.json"
+    },
+    {
       "igdb_id": 103879,
       "game_name": "Ball Rows",
       "file": "missing/B/103879-ball-rows.json"
@@ -51786,6 +51801,11 @@
       "igdb_id": 300733,
       "game_name": "Balls Bombs",
       "file": "missing/B/300733-balls-bombs.json"
+    },
+    {
+      "igdb_id": 384728,
+      "game_name": "Balls Break Bricks",
+      "file": "missing/B/384728-balls-break-bricks.json"
     },
     {
       "igdb_id": 90767,
@@ -80776,6 +80796,11 @@
       "igdb_id": 95394,
       "game_name": "Boxed In",
       "file": "missing/B/95394-boxed-in.json"
+    },
+    {
+      "igdb_id": 384737,
+      "game_name": "Boxed Out",
+      "file": "missing/B/384737-boxed-out.json"
     },
     {
       "igdb_id": 386837,
@@ -194503,6 +194528,11 @@
       "file": "missing/E/399112-escape-from-tarkov-bear-oldschool.json"
     },
     {
+      "igdb_id": 384747,
+      "game_name": "Escape from Tarkov: Bear - Senezh",
+      "file": "missing/E/384747-escape-from-tarkov-bear-senezh.json"
+    },
+    {
       "igdb_id": 399123,
       "game_name": "Escape from Tarkov: Bear - Vacation",
       "file": "missing/E/399123-escape-from-tarkov-bear-vacation.json"
@@ -194531,6 +194561,11 @@
       "igdb_id": 399105,
       "game_name": "Escape from Tarkov: Usec - Fahrenheit",
       "file": "missing/E/399105-escape-from-tarkov-usec-fahrenheit.json"
+    },
+    {
+      "igdb_id": 384748,
+      "game_name": "Escape from Tarkov: Usec - Gold Squadron",
+      "file": "missing/E/384748-escape-from-tarkov-usec-gold-squadron.json"
     },
     {
       "igdb_id": 399125,
@@ -208661,6 +208696,11 @@
       "igdb_id": 408121,
       "game_name": "Fast Food Funkin'",
       "file": "missing/F/408121-fast-food-funkin.json"
+    },
+    {
+      "igdb_id": 384714,
+      "game_name": "Fast Food King",
+      "file": "missing/F/384714-fast-food-king.json"
     },
     {
       "igdb_id": 347719,
@@ -233953,6 +233993,11 @@
       "file": "missing/F/143521-futagoza-no-paradox.json"
     },
     {
+      "igdb_id": 384723,
+      "game_name": "Futanari & Ladyboy BDSM",
+      "file": "missing/F/384723-futanari-and-ladyboy-bdsm.json"
+    },
+    {
       "igdb_id": 393837,
       "game_name": "Futanari & Ladyboy Hotel",
       "file": "missing/F/393837-futanari-and-ladyboy-hotel.json"
@@ -233966,6 +234011,11 @@
       "igdb_id": 368125,
       "game_name": "Futanari Girls 3D",
       "file": "missing/F/368125-futanari-girls-3d.json"
+    },
+    {
+      "igdb_id": 384722,
+      "game_name": "Futanari Have a Heart Too",
+      "file": "missing/F/384722-futanari-have-a-heart-too.json"
     },
     {
       "igdb_id": 212728,
@@ -243806,6 +243856,11 @@
       "igdb_id": 407411,
       "game_name": "Ghostly Simulator: Your Neighboring Ghost Story Collection",
       "file": "missing/G/407411-ghostly-simulator-your-neighboring-ghost-story-collection.json"
+    },
+    {
+      "igdb_id": 384730,
+      "game_name": "Ghostly Whiskers",
+      "file": "missing/G/384730-ghostly-whiskers.json"
     },
     {
       "igdb_id": 357426,
@@ -271788,6 +271843,16 @@
       "file": "missing/H/385272-hentai-age-hospital.json"
     },
     {
+      "igdb_id": 384698,
+      "game_name": "Hentai Age Summer",
+      "file": "missing/H/384698-hentai-age-summer.json"
+    },
+    {
+      "igdb_id": 384706,
+      "game_name": "Hentai Age Vacation",
+      "file": "missing/H/384706-hentai-age-vacation.json"
+    },
+    {
       "igdb_id": 111270,
       "game_name": "Hentai Ahegao",
       "file": "missing/H/111270-hentai-ahegao.json"
@@ -272018,6 +272083,11 @@
       "file": "missing/H/390500-hentai-demons-lullaby.json"
     },
     {
+      "igdb_id": 384705,
+      "game_name": "Hentai Detective",
+      "file": "missing/H/384705-hentai-detective.json"
+    },
+    {
       "igdb_id": 263792,
       "game_name": "Hentai Devil",
       "file": "missing/H/263792-hentai-devil.json"
@@ -272096,6 +272166,11 @@
       "igdb_id": 411126,
       "game_name": "Hentai Furry Goat",
       "file": "missing/H/411126-hentai-furry-goat.json"
+    },
+    {
+      "igdb_id": 384701,
+      "game_name": "Hentai Furry Milf",
+      "file": "missing/H/384701-hentai-furry-milf.json"
     },
     {
       "igdb_id": 399712,
@@ -272406,6 +272481,11 @@
       "igdb_id": 297799,
       "game_name": "Hentai Homewrecker",
       "file": "missing/H/297799-hentai-homewrecker.json"
+    },
+    {
+      "igdb_id": 384703,
+      "game_name": "Hentai Horny Furry",
+      "file": "missing/H/384703-hentai-horny-furry.json"
     },
     {
       "igdb_id": 371360,
@@ -272776,6 +272856,11 @@
       "igdb_id": 372118,
       "game_name": "Hentai Senpai: Thicc Fairies of Forest Lake",
       "file": "missing/H/372118-hentai-senpai-thicc-fairies-of-forest-lake.json"
+    },
+    {
+      "igdb_id": 384704,
+      "game_name": "Hentai Senpai: Thiccmas Cumsluts",
+      "file": "missing/H/384704-hentai-senpai-thiccmas-cumsluts.json"
     },
     {
       "igdb_id": 411074,
@@ -273158,6 +273243,11 @@
       "file": "missing/H/326234-hentai-world-halloween.json"
     },
     {
+      "igdb_id": 384699,
+      "game_name": "Hentai World Office",
+      "file": "missing/H/384699-hentai-world-office.json"
+    },
+    {
       "igdb_id": 322716,
       "game_name": "Hentai World Sexy",
       "file": "missing/H/322716-hentai-world-sexy.json"
@@ -273171,6 +273261,11 @@
       "igdb_id": 340463,
       "game_name": "Hentai World Succubus",
       "file": "missing/H/340463-hentai-world-succubus.json"
+    },
+    {
+      "igdb_id": 384700,
+      "game_name": "Hentai World Town",
+      "file": "missing/H/384700-hentai-world-town.json"
     },
     {
       "igdb_id": 340464,
@@ -285021,6 +285116,11 @@
       "igdb_id": 296911,
       "game_name": "Hot And Lovely: Dream",
       "file": "missing/H/296911-hot-and-lovely-dream.json"
+    },
+    {
+      "igdb_id": 384719,
+      "game_name": "Hot and Lovely: Seduction Waifu",
+      "file": "missing/H/384719-hot-and-lovely-seduction-waifu.json"
     },
     {
       "igdb_id": 262926,
@@ -337773,6 +337873,11 @@
       "file": "missing/L/346589-legacy-of-ancestors.json"
     },
     {
+      "igdb_id": 384742,
+      "game_name": "Legacy of Ashes",
+      "file": "missing/L/384742-legacy-of-ashes.json"
+    },
+    {
       "igdb_id": 345015,
       "game_name": "Legacy of Defense",
       "file": "missing/L/345015-legacy-of-defense.json"
@@ -355658,6 +355763,11 @@
       "file": "missing/L/209485-lust-dungeon.json"
     },
     {
+      "igdb_id": 384751,
+      "game_name": "Lust Effect",
+      "file": "missing/L/384751-lust-effect.json"
+    },
+    {
       "igdb_id": 193508,
       "game_name": "Lust for Darkness VR",
       "file": "missing/L/193508-lust-for-darkness-vr.json"
@@ -355796,6 +355906,11 @@
       "igdb_id": 238763,
       "game_name": "Lusty God",
       "file": "missing/L/238763-lusty-god.json"
+    },
+    {
+      "igdb_id": 384750,
+      "game_name": "LustyVerse: ShackBang",
+      "file": "missing/L/384750-lustyverse-shackbang.json"
     },
     {
       "igdb_id": 293621,
@@ -361206,6 +361321,11 @@
       "igdb_id": 255115,
       "game_name": "Maid for Loving You",
       "file": "missing/M/255115-maid-for-loving-you.json"
+    },
+    {
+      "igdb_id": 384720,
+      "game_name": "Maid Harem With Futa",
+      "file": "missing/M/384720-maid-harem-with-futa.json"
     },
     {
       "igdb_id": 235462,
@@ -373331,6 +373451,11 @@
       "igdb_id": 207379,
       "game_name": "Mega Demon Blaster",
       "file": "missing/M/207379-mega-demon-blaster.json"
+    },
+    {
+      "igdb_id": 384711,
+      "game_name": "Mega Dimension Ripper 9000",
+      "file": "missing/M/384711-mega-dimension-ripper-9000.json"
     },
     {
       "igdb_id": 305267,
@@ -402938,6 +403063,36 @@
       "file": "missing/M/309362-my-ghost-pet-is-zhong-kui.json"
     },
     {
+      "igdb_id": 384738,
+      "game_name": "My Giant Sexy Sensei Bullies Me 10",
+      "file": "missing/M/384738-my-giant-sexy-sensei-bullies-me-10.json"
+    },
+    {
+      "igdb_id": 384724,
+      "game_name": "My Giant Sexy Sensei Bullies Me 5",
+      "file": "missing/M/384724-my-giant-sexy-sensei-bullies-me-5.json"
+    },
+    {
+      "igdb_id": 384727,
+      "game_name": "My Giant Sexy Sensei Bullies Me 6",
+      "file": "missing/M/384727-my-giant-sexy-sensei-bullies-me-6.json"
+    },
+    {
+      "igdb_id": 384729,
+      "game_name": "My Giant Sexy Sensei Bullies Me 7",
+      "file": "missing/M/384729-my-giant-sexy-sensei-bullies-me-7.json"
+    },
+    {
+      "igdb_id": 384732,
+      "game_name": "My Giant Sexy Sensei Bullies Me 8",
+      "file": "missing/M/384732-my-giant-sexy-sensei-bullies-me-8.json"
+    },
+    {
+      "igdb_id": 384735,
+      "game_name": "My Giant Sexy Sensei Bullies Me 9",
+      "file": "missing/M/384735-my-giant-sexy-sensei-bullies-me-9.json"
+    },
+    {
       "igdb_id": 81184,
       "game_name": "My Girlfriend",
       "file": "missing/M/81184-my-girlfriend.json"
@@ -418548,6 +418703,11 @@
       "file": "missing/N/72717-niizuma-wa-sailor-fuku.json"
     },
     {
+      "igdb_id": 384710,
+      "game_name": "Niji Protocol",
+      "file": "missing/N/384710-niji-protocol.json"
+    },
+    {
       "igdb_id": 109003,
       "game_name": "Niji-iro Canvas",
       "file": "missing/N/109003-niji-iro-canvas.json"
@@ -433213,6 +433373,11 @@
       "file": "missing/O/167829-onlygame-working-girls.json"
     },
     {
+      "igdb_id": 384717,
+      "game_name": "OnlySluts: Waifu Match",
+      "file": "missing/O/384717-onlysluts-waifu-match.json"
+    },
+    {
       "igdb_id": 223381,
       "game_name": "OnlySociety: Dawn",
       "file": "missing/O/223381-onlysociety-dawn.json"
@@ -434271,6 +434436,11 @@
       "igdb_id": 127836,
       "game_name": "Operation7: Revolution",
       "file": "missing/O/127836-operation7-revolution.json"
+    },
+    {
+      "igdb_id": 384739,
+      "game_name": "Operation7: Showdown",
+      "file": "missing/O/384739-operation7-showdown.json"
     },
     {
       "igdb_id": 189935,
@@ -444761,6 +444931,11 @@
       "igdb_id": 321549,
       "game_name": "Paradise XRPL",
       "file": "missing/P/321549-paradise-xrpl.json"
+    },
+    {
+      "igdb_id": 384712,
+      "game_name": "Paradise: Musubi",
+      "file": "missing/P/384712-paradise-musubi.json"
     },
     {
       "igdb_id": 401812,
@@ -463751,6 +463926,11 @@
       "igdb_id": 46603,
       "game_name": "Pocket Jansou",
       "file": "missing/P/46603-pocket-jansou.json"
+    },
+    {
+      "igdb_id": 384708,
+      "game_name": "Pocket Kanon & Air",
+      "file": "missing/P/384708-pocket-kanon-and-air.json"
     },
     {
       "igdb_id": 304724,
@@ -518333,6 +518513,11 @@
       "file": "missing/S/414290-safety-instructions.json"
     },
     {
+      "igdb_id": 384725,
+      "game_name": "Saffron",
+      "file": "missing/S/384725-saffron.json"
+    },
+    {
       "igdb_id": 381107,
       "game_name": "Safo and The Moon Warriors",
       "file": "missing/S/381107-safo-and-the-moon-warriors.json"
@@ -520101,6 +520286,11 @@
       "igdb_id": 126040,
       "game_name": "Samidare",
       "file": "missing/S/126040-samidare.json"
+    },
+    {
+      "igdb_id": 384709,
+      "game_name": "Samla",
+      "file": "missing/S/384709-samla.json"
     },
     {
       "igdb_id": 104628,
@@ -531741,6 +531931,11 @@
       "igdb_id": 286529,
       "game_name": "Sex Adventures: Futanari Doctor",
       "file": "missing/S/286529-sex-adventures-futanari-doctor.json"
+    },
+    {
+      "igdb_id": 384721,
+      "game_name": "Sex Adventures: Futanari Mistress",
+      "file": "missing/S/384721-sex-adventures-futanari-mistress.json"
     },
     {
       "igdb_id": 219598,
@@ -610758,6 +610953,11 @@
       "file": "missing/T/325597-tekken-8-clive-rosfield.json"
     },
     {
+      "igdb_id": 384749,
+      "game_name": "Tekken 8: Collaboration Set - Clive Rosfield & Phoenix Gate",
+      "file": "missing/T/384749-tekken-8-collaboration-set-clive-rosfield-and-phoenix-gate.json"
+    },
+    {
       "igdb_id": 296675,
       "game_name": "Tekken 8: Eddy Gordo",
       "file": "missing/T/296675-tekken-8-eddy-gordo.json"
@@ -637281,6 +637481,11 @@
       "igdb_id": 315659,
       "game_name": "The Perplexing Orb: Bounce Challenge",
       "file": "missing/T/315659-the-perplexing-orb-bounce-challenge.json"
+    },
+    {
+      "igdb_id": 384744,
+      "game_name": "The Perplexing Orb: Bounce Mania",
+      "file": "missing/T/384744-the-perplexing-orb-bounce-mania.json"
     },
     {
       "igdb_id": 276155,
@@ -670363,6 +670568,11 @@
       "file": "missing/T/920-trainz.json"
     },
     {
+      "igdb_id": 384734,
+      "game_name": "Trainz 2019 DLC - Pro Train: AC44C6M Loco Bundle",
+      "file": "missing/T/384734-trainz-2019-dlc-pro-train-ac44c6m-loco-bundle.json"
+    },
+    {
       "igdb_id": 325026,
       "game_name": "Trainz 2019: [TL] Rainsville - Danville",
       "file": "missing/T/325026-trainz-2019-tl-rainsville-danville.json"
@@ -670446,6 +670656,11 @@
       "igdb_id": 306100,
       "game_name": "Trainz 2022: SA CL Class - RailPower Pack",
       "file": "missing/T/306100-trainz-2022-sa-cl-class-railpower-pack.json"
+    },
+    {
+      "igdb_id": 384733,
+      "game_name": "Trainz Plus DLC - Pro Train: AC44C6M Loco Bundle",
+      "file": "missing/T/384733-trainz-plus-dlc-pro-train-ac44c6m-loco-bundle.json"
     },
     {
       "igdb_id": 208339,
@@ -688018,6 +688233,11 @@
       "file": "missing/U/303224-unstable-blocks.json"
     },
     {
+      "igdb_id": 384743,
+      "game_name": "Unstable Engineer",
+      "file": "missing/U/384743-unstable-engineer.json"
+    },
+    {
       "igdb_id": 213320,
       "game_name": "Unstable Rock",
       "file": "missing/U/213320-unstable-rock.json"
@@ -700453,6 +700673,16 @@
       "file": "missing/W/331698-waifu-builder.json"
     },
     {
+      "igdb_id": 384716,
+      "game_name": "Waifu Bunny Club",
+      "file": "missing/W/384716-waifu-bunny-club.json"
+    },
+    {
+      "igdb_id": 384718,
+      "game_name": "Waifu by Myside: Patch Me In",
+      "file": "missing/W/384718-waifu-by-myside-patch-me-in.json"
+    },
+    {
       "igdb_id": 331097,
       "game_name": "Waifu Closet",
       "file": "missing/W/331097-waifu-closet.json"
@@ -700506,6 +700736,11 @@
       "igdb_id": 149420,
       "game_name": "Waifu Secret 2",
       "file": "missing/W/149420-waifu-secret-2.json"
+    },
+    {
+      "igdb_id": 384715,
+      "game_name": "Waifu Slumber Party",
+      "file": "missing/W/384715-waifu-slumber-party.json"
     },
     {
       "igdb_id": 250383,
@@ -709896,6 +710131,21 @@
       "igdb_id": 384116,
       "game_name": "Where is 2016?",
       "file": "missing/W/384116-where-is-2016.json"
+    },
+    {
+      "igdb_id": 384731,
+      "game_name": "Where is 2020?",
+      "file": "missing/W/384731-where-is-2020.json"
+    },
+    {
+      "igdb_id": 384736,
+      "game_name": "Where is 2021?",
+      "file": "missing/W/384736-where-is-2021.json"
+    },
+    {
+      "igdb_id": 384740,
+      "game_name": "Where is 2022?",
+      "file": "missing/W/384740-where-is-2022.json"
     },
     {
       "igdb_id": 227878,
