@@ -4884,6 +4884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CloserTo | 396374 | [396374-closerto.json](./396374-closerto.json) |
 | Closet Organizer | 208913 | [208913-closet-organizer.json](./208913-closet-organizer.json) |
 | Closing at 2 | 280283 | [280283-closing-at-2.json](./280283-closing-at-2.json) |
+| Closing Doors | 368632 | [368632-closing-doors.json](./368632-closing-doors.json) |
 | Closing Shift | 412551 | [412551-closing-shift.json](./412551-closing-shift.json) |
 | Clostrophobia: Vol 1 | 293650 | [293650-clostrophobia-vol-1.json](./293650-clostrophobia-vol-1.json) |
 | Closure | 8146 | [8146-closure.json](./8146-closure.json) |
@@ -5543,6 +5544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Math | 89573 | [89573-color-math.json](./89573-color-math.json) |
 | Color Maze | 184114 | [184114-color-maze.json](./184114-color-maze.json) |
 | Color Me !!! for Mac | 99375 | [99375-color-me-for-mac.json](./99375-color-me-for-mac.json) |
+| Color Muse | 368618 | [368618-color-muse.json](./368618-color-muse.json) |
 | Color Ninjas | 181782 | [181782-color-ninjas.json](./181782-color-ninjas.json) |
 | Color Objects For Kids | 89645 | [89645-color-objects-for-kids.json](./89645-color-objects-for-kids.json) |
 | Color of My Sound: Volume 1 | 309534 | [309534-color-of-my-sound-volume-1.json](./309534-color-of-my-sound-volume-1.json) |
@@ -6989,6 +6991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Swarm | 380090 | [380090-cosmic-swarm.json](./380090-cosmic-swarm.json) |
 | Cosmic Tank | 141200 | [141200-cosmic-tank.json](./141200-cosmic-tank.json) |
 | Cosmic Tankinator | 292548 | [292548-cosmic-tankinator.json](./292548-cosmic-tankinator.json) |
+| Cosmic Tempest | 368603 | [368603-cosmic-tempest.json](./368603-cosmic-tempest.json) |
 | Cosmic Trail | 75818 | [75818-cosmic-trail.json](./75818-cosmic-trail.json) |
 | Cosmic Trip: Deluxe Edition | 52825 | [52825-cosmic-trip-deluxe-edition.json](./52825-cosmic-trip-deluxe-edition.json) |
 | Cosmic Tunnels | 23899 | [23899-cosmic-tunnels.json](./23899-cosmic-tunnels.json) |
@@ -8999,6 +9002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuboy | 251692 | [251692-cuboy.json](./251692-cuboy.json) |
 | Cuboyd | 290708 | [290708-cuboyd.json](./290708-cuboyd.json) |
 | Cubrick | 28792 | [28792-cubrick.json](./28792-cubrick.json) |
+| Cubs Story: | 368630 | [368630-cubs-story.json](./368630-cubs-story.json) |
 | CubScouting: OnTarget | 65759 | [65759-cubscouting-ontarget.json](./65759-cubscouting-ontarget.json) |
 | Cubuleto | 374124 | [374124-cubuleto.json](./374124-cubuleto.json) |
 | Cubway | 31800 | [31800-cubway.json](./31800-cubway.json) |
@@ -9657,6 +9661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyclic | 232660 | [232660-cyclic.json](./232660-cyclic.json) |
 | Cycling 2013 | 175370 | [175370-cycling-2013.json](./175370-cycling-2013.json) |
 | Cycling Manager 4 | 71573 | [71573-cycling-manager-4.json](./71573-cycling-manager-4.json) |
+| CyclingArcadeRaceSimulator | 368598 | [368598-cyclingarcaderacesimulator.json](./368598-cyclingarcaderacesimulator.json) |
 | Cyclo 8 | 322587 | [322587-cyclo-8.json](./322587-cyclo-8.json) |
 | Cyclo Chambers | 218704 | [218704-cyclo-chambers.json](./218704-cyclo-chambers.json) |
 | CycloHex | 192977 | [192977-cyclohex.json](./192977-cyclohex.json) |
