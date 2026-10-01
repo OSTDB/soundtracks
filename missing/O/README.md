@@ -2221,6 +2221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otoranger | 239595 | [239595-otoranger.json](./239595-otoranger.json) |
 | Otosan | 241366 | [241366-otosan.json](./241366-otosan.json) |
 | Otostaz | 175947 | [175947-otostaz.json](./175947-otostaz.json) |
+| OtoZ | 375359 | [375359-otoz.json](./375359-otoz.json) |
 | Otsuge Uranai nan desu | 69268 | [69268-otsuge-uranai-nan-desu.json](./69268-otsuge-uranai-nan-desu.json) |
 | Otter Chaos | 201554 | [201554-otter-chaos.json](./201554-otter-chaos.json) |
 | Otter Ocean | 242786 | [242786-otter-ocean.json](./242786-otter-ocean.json) |
