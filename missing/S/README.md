@@ -5113,6 +5113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silke, Pixelines Lillesøster: Kan Du Klokken? | 349494 | [349494-silke-pixelines-lilles-ster-kan-du-klokken.json](./349494-silke-pixelines-lilles-ster-kan-du-klokken.json) |
 | Silke, Pixelines Lillesøster: Mæh, Siger Det Lille Monster | 349492 | [349492-silke-pixelines-lilles-ster-m-h-siger-det-lille-monster.json](./349492-silke-pixelines-lilles-ster-m-h-siger-det-lille-monster.json) |
 | Silke, Pixelines Lillesøster: Syng, Leg Og Lær | 349489 | [349489-silke-pixelines-lilles-ster-syng-leg-og-l-r.json](./349489-silke-pixelines-lilles-ster-syng-leg-og-l-r.json) |
+| Silkgrove | 338322 | [338322-silkgrove.json](./338322-silkgrove.json) |
 | Silkroad 8 | 394157 | [394157-silkroad-8.json](./394157-silkroad-8.json) |
 | Silkroad Project | 398494 | [398494-silkroad-project.json](./398494-silkroad-project.json) |
 | Silky Road | 355565 | [355565-silky-road.json](./355565-silky-road.json) |
@@ -8891,6 +8892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Balance | 391610 | [391610-soul-balance.json](./391610-soul-balance.json) |
 | Soul Battles | 299993 | [299993-soul-battles.json](./299993-soul-battles.json) |
 | Soul Blade | 274455 | [274455-soul-blade.json](./274455-soul-blade.json) |
+| Soul Brave | 338321 | [338321-soul-brave.json](./338321-soul-brave.json) |
 | Soul Breach | 363022 | [363022-soul-breach.json](./363022-soul-breach.json) |
 | Soul Calibur Mobile | 372102 | [372102-soul-calibur-mobile.json](./372102-soul-calibur-mobile.json) |
 | Soul Catcher: The Moon Coliseum | 366384 | [366384-soul-catcher-the-moon-coliseum.json](./366384-soul-catcher-the-moon-coliseum.json) |
@@ -9687,6 +9689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Valet | 177005 | [177005-space-valet.json](./177005-space-valet.json) |
 | Space Variance Authority | 337641 | [337641-space-variance-authority.json](./337641-space-variance-authority.json) |
 | Space Varments | 194302 | [194302-space-varments.json](./194302-space-varments.json) |
+| Space Venus starring Morning Musume. | 338317 | [338317-space-venus-starring-morning-musume.json](./338317-space-venus-starring-morning-musume.json) |
 | Space Viking Raiders | 74469 | [74469-space-viking-raiders.json](./74469-space-viking-raiders.json) |
 | Space Viking Raiders VR | 123485 | [123485-space-viking-raiders-vr.json](./123485-space-viking-raiders-vr.json) |
 | Space Vikings | 261551 | [261551-space-vikings.json](./261551-space-vikings.json) |
@@ -12387,6 +12390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Station Master | 183550 | [183550-station-master.json](./183550-station-master.json) |
 | Station Memories | 216220 | [216220-station-memories.json](./216220-station-memories.json) |
 | Station Nexus | 406291 | [406291-station-nexus.json](./406291-station-nexus.json) |
+| Station Noctis | 338331 | [338331-station-noctis.json](./338331-station-noctis.json) |
 | Station Sabotage | 283770 | [283770-station-sabotage.json](./283770-station-sabotage.json) |
 | Station Zeta | 304003 | [304003-station-zeta.json](./304003-station-zeta.json) |
 | Stationflow | 127462 | [127462-stationflow.json](./127462-stationflow.json) |
