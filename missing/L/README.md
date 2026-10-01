@@ -1137,6 +1137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left Drift Right Shift Orbit | 108640 | [108640-left-drift-right-shift-orbit.json](./108640-left-drift-right-shift-orbit.json) |
 | Left in the Dark: No One on Board | 17144 | [17144-left-in-the-dark-no-one-on-board.json](./17144-left-in-the-dark-no-one-on-board.json) |
 | Left on Read | 137527 | [137527-left-on-read.json](./137527-left-on-read.json) |
+| Left Right | 347283 | [347283-left-right.json](./347283-left-right.json) |
 | Left Right Dodge Race | 358352 | [358352-left-right-dodge-race.json](./358352-left-right-dodge-race.json) |
 | Left Stranded | 195199 | [195199-left-stranded.json](./195199-left-stranded.json) |
 | Left to My Own Devices | 180239 | [180239-left-to-my-own-devices.json](./180239-left-to-my-own-devices.json) |
@@ -1437,6 +1438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legions of Death | 37085 | [37085-legions-of-death.json](./37085-legions-of-death.json) |
 | Legions of Tyrandel | 31123 | [31123-legions-of-tyrandel.json](./31123-legions-of-tyrandel.json) |
 | Legionwood: Tale of the Two Swords | 33016 | [33016-legionwood-tale-of-the-two-swords.json](./33016-legionwood-tale-of-the-two-swords.json) |
+| Legitimate Space Corp Simulator LLC | 347291 | [347291-legitimate-space-corp-simulator-llc.json](./347291-legitimate-space-corp-simulator-llc.json) |
 | Legna Tactica | 26666 | [26666-legna-tactica.json](./26666-legna-tactica.json) |
 | LEGO 2K Drive: Awesome Edition | 242494 | [242494-lego-2k-drive-awesome-edition.json](./242494-lego-2k-drive-awesome-edition.json) |
 | LEGO 2K Drive: Awesome Rivals Edition | 242495 | [242495-lego-2k-drive-awesome-rivals-edition.json](./242495-lego-2k-drive-awesome-rivals-edition.json) |
