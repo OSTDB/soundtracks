@@ -1452,6 +1452,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vivid | 415091 | [415091-vivid.json](./415091-vivid.json) |
 | ViViD | 61070 | [61070-vivid.json](./61070-vivid.json) |
 | Vivid Conceptions | 93152 | [93152-vivid-conceptions.json](./93152-vivid-conceptions.json) |
+| Vivid Twinkler: Frozen Flame | 377753 | [377753-vivid-twinkler-frozen-flame.json](./377753-vivid-twinkler-frozen-flame.json) |
+| Vivid Twinkler! | 377750 | [377750-vivid-twinkler.json](./377750-vivid-twinkler.json) |
 | Vivid World | 266274 | [266274-vivid-world.json](./266274-vivid-world.json) |
 | Vivid/Stasis | 206513 | [206513-vivid-stasis.json](./206513-vivid-stasis.json) |
 | Vividerie | 189068 | [189068-vividerie.json](./189068-vividerie.json) |
