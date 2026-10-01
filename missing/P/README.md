@@ -1986,6 +1986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penky | 267937 | [267937-penky.json](./267937-penky.json) |
 | Penni's Adventure | 258505 | [258505-pennis-adventure.json](./258505-pennis-adventure.json) |
 | Pennies 12 | 393636 | [393636-pennies-12.json](./393636-pennies-12.json) |
+| Penniless Chef | 384145 | [384145-penniless-chef.json](./384145-penniless-chef.json) |
 | Penning: The Tropical Penguin | 61904 | [61904-penning-the-tropical-penguin.json](./61904-penning-the-tropical-penguin.json) |
 | Pennon and Battle | 305919 | [305919-pennon-and-battle.json](./305919-pennon-and-battle.json) |
 | Penny Arcade Adventures: On the Rain-Slick | 144932 | [144932-penny-arcade-adventures-on-the-rain-slick.json](./144932-penny-arcade-adventures-on-the-rain-slick.json) |
@@ -2022,6 +2023,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pentari: First Light | 72034 | [72034-pentari-first-light.json](./72034-pentari-first-light.json) |
 | Pentavolt | 359077 | [359077-pentavolt.json](./359077-pentavolt.json) |
 | PentaZorg | 278143 | [278143-pentazorg.json](./278143-pentazorg.json) |
+| Pente Grammai | 384138 | [384138-pente-grammai.json](./384138-pente-grammai.json) |
+| Pente Grammai | 384140 | [384140-pente-grammai.json](./384140-pente-grammai.json) |
 | Penthos | 178070 | [178070-penthos.json](./178070-penthos.json) |
 | Penthouse Interactive: Virtual Photo Shoot Vol. 1 | 254498 | [254498-penthouse-interactive-virtual-photo-shoot-vol-1.json](./254498-penthouse-interactive-virtual-photo-shoot-vol-1.json) |
 | Pentium | 92073 | [92073-pentium.json](./92073-pentium.json) |
@@ -5704,6 +5707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pools | 274791 | [274791-pools.json](./274791-pools.json) |
 | Pools of Darkness | 12761 | [12761-pools-of-darkness.json](./12761-pools-of-darkness.json) |
 | Poolside Girls Kiss: Passion Fruits Hotel Dating Sim | 362364 | [362364-poolside-girls-kiss-passion-fruits-hotel-dating-sim.json](./362364-poolside-girls-kiss-passion-fruits-hotel-dating-sim.json) |
+| Poolside Vigil | 384180 | [384180-poolside-vigil.json](./384180-poolside-vigil.json) |
 | Poop Clicker | 195625 | [195625-poop-clicker.json](./195625-poop-clicker.json) |
 | Poop Collector | 196169 | [196169-poop-collector.json](./196169-poop-collector.json) |
 | Poop Collector: Number 2 | 245282 | [245282-poop-collector-number-2.json](./245282-poop-collector-number-2.json) |
@@ -7325,6 +7329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Pulsation | 53482 | [53482-project-pulsation.json](./53482-project-pulsation.json) |
 | Project R | 220661 | [220661-project-r.json](./220661-project-r.json) |
 | Project R | 313104 | [313104-project-r.json](./313104-project-r.json) |
+| Project R4T | 384159 | [384159-project-r4t.json](./384159-project-r4t.json) |
 | Project Ragtag | 75120 | [75120-project-ragtag.json](./75120-project-ragtag.json) |
 | Project Ravensdale | 63335 | [63335-project-ravensdale.json](./63335-project-ravensdale.json) |
 | Project Raze: Fall of Terra | 379859 | [379859-project-raze-fall-of-terra.json](./379859-project-raze-fall-of-terra.json) |
