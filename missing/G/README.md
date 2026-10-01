@@ -4131,6 +4131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green: The Life Algorithm | 120863 | [120863-green-the-life-algorithm.json](./120863-green-the-life-algorithm.json) |
 | Green's Xmas Collection | 80193 | [80193-greens-xmas-collection.json](./80193-greens-xmas-collection.json) |
 | GreenChess | 87293 | [87293-greenchess.json](./87293-greenchess.json) |
+| Greendog: The Beached Surfer Dude! | 368612 | [368612-greendog-the-beached-surfer-dude.json](./368612-greendog-the-beached-surfer-dude.json) |
 | Greendog: The Beached Surfer Dude! | 45792 | [45792-greendog-the-beached-surfer-dude.json](./45792-greendog-the-beached-surfer-dude.json) |
 | Greener Grass Awaits | 266490 | [266490-greener-grass-awaits.json](./266490-greener-grass-awaits.json) |
 | GreenFace | 79361 | [79361-greenface.json](./79361-greenface.json) |
