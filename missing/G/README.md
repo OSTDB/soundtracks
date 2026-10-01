@@ -202,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gal*Gun 2 | 68279 | [68279-gal-gun-2.json](./68279-gal-gun-2.json) |
 | Gal*Gun: Double Peace - Mr. Happiness Edition | 89910 | [89910-gal-gun-double-peace-mr-happiness-edition.json](./89910-gal-gun-double-peace-mr-happiness-edition.json) |
 | Gala Collider | 127750 | [127750-gala-collider.json](./127750-gala-collider.json) |
+| Galacard: Ackian Archives | 365210 | [365210-galacard-ackian-archives.json](./365210-galacard-ackian-archives.json) |
 | Galacatraz: Eject Equip Escape | 82044 | [82044-galacatraz-eject-equip-escape.json](./82044-galacatraz-eject-equip-escape.json) |
 | Galacdrive | 251661 | [251661-galacdrive.json](./251661-galacdrive.json) |
 | GalaCollider | 58770 | [58770-galacollider.json](./58770-galacollider.json) |
@@ -1997,6 +1998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GigaBash: Ultraman - Rising DLC | 404829 | [404829-gigabash-ultraman-rising-dlc.json](./404829-gigabash-ultraman-rising-dlc.json) |
 | GigaBash: Ultraman Zero | 404820 | [404820-gigabash-ultraman-zero.json](./404820-gigabash-ultraman-zero.json) |
 | Gigablast | 66603 | [66603-gigablast.json](./66603-gigablast.json) |
+| Gigabot Run | 365233 | [365233-gigabot-run.json](./365233-gigabot-run.json) |
 | Gigachess: Brilliant Blitz Level Pack | 166224 | [166224-gigachess-brilliant-blitz-level-pack.json](./166224-gigachess-brilliant-blitz-level-pack.json) |
 | Gigadyne Voltraid | 413721 | [413721-gigadyne-voltraid.json](./413721-gigadyne-voltraid.json) |
 | Gigant | 212830 | [212830-gigant.json](./212830-gigant.json) |
