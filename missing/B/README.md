@@ -528,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bajka | 348315 | [348315-bajka.json](./348315-bajka.json) |
 | Bajoran Mercenary Adventure! | 116807 | [116807-bajoran-mercenary-adventure.json](./116807-bajoran-mercenary-adventure.json) |
 | Baka to Test to Shoukanjuu Portable | 196714 | [196714-baka-to-test-to-shoukanjuu-portable.json](./196714-baka-to-test-to-shoukanjuu-portable.json) |
+| Bakahaza | 356215 | [356215-bakahaza.json](./356215-bakahaza.json) |
 | Bakahazard | 316633 | [316633-bakahazard.json](./316633-bakahazard.json) |
 | Bakar Game | 365275 | [365275-bakar-game.json](./365275-bakar-game.json) |
 | Bakatonosama Mahjong Manyuki | 47575 | [47575-bakatonosama-mahjong-manyuki.json](./47575-bakatonosama-mahjong-manyuki.json) |
@@ -1364,6 +1365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barrage Populaire | 308966 | [308966-barrage-populaire.json](./308966-barrage-populaire.json) |
 | Barraka | 301891 | [301891-barraka.json](./301891-barraka.json) |
 | Barravento: O Mestre da Capoeira | 78075 | [78075-barravento-o-mestre-da-capoeira.json](./78075-barravento-o-mestre-da-capoeira.json) |
+| Barrel Baller | 356209 | [356209-barrel-baller.json](./356209-barrel-baller.json) |
 | Barrel Blast | 172186 | [172186-barrel-blast.json](./172186-barrel-blast.json) |
 | Barrel Boot Camp | 100571 | [100571-barrel-boot-camp.json](./100571-barrel-boot-camp.json) |
 | Barrel Full of Monkeys | 223496 | [223496-barrel-full-of-monkeys.json](./223496-barrel-full-of-monkeys.json) |
@@ -3812,6 +3814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bio Fault | 397052 | [397052-bio-fault.json](./397052-bio-fault.json) |
 | Bio Force Ape | 19378 | [19378-bio-force-ape.json](./19378-bio-force-ape.json) |
 | Bio Hazard | 247453 | [247453-bio-hazard.json](./247453-bio-hazard.json) |
+| Bio Hazard | 356221 | [356221-bio-hazard.json](./356221-bio-hazard.json) |
 | Bio Inc. Redemption | 36627 | [36627-bio-inc-redemption.json](./36627-bio-inc-redemption.json) |
 | Bio Menace | 8491 | [8491-bio-menace.json](./8491-bio-menace.json) |
 | Bio Senshi Dan: Increaser to no Tatakai | 48647 | [48647-bio-senshi-dan-increaser-to-no-tatakai.json](./48647-bio-senshi-dan-increaser-to-no-tatakai.json) |
@@ -3831,11 +3834,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biohazard | 178438 | [178438-biohazard.json](./178438-biohazard.json) |
 | Biohazard 0 | 307948 | [307948-biohazard-0.json](./307948-biohazard-0.json) |
 | Biohazard Code: Veronica - Limited Edition | 407337 | [407337-biohazard-code-veronica-limited-edition.json](./407337-biohazard-code-veronica-limited-edition.json) |
+| Biohazard Outbreak Survive | 356225 | [356225-biohazard-outbreak-survive.json](./356225-biohazard-outbreak-survive.json) |
 | Biohazard RE: 2 - Z Version | 218542 | [218542-biohazard-re-2-z-version.json](./218542-biohazard-re-2-z-version.json) |
 | Biohazard RE: 2 - Z Version: Deluxe Edition | 218546 | [218546-biohazard-re-2-z-version-deluxe-edition.json](./218546-biohazard-re-2-z-version-deluxe-edition.json) |
 | Biohazard Revival Selection | 44553 | [44553-biohazard-revival-selection.json](./44553-biohazard-revival-selection.json) |
+| Biohazard Survival Door | 356237 | [356237-biohazard-survival-door.json](./356237-biohazard-survival-door.json) |
+| Biohazard The Episodes | 356241 | [356241-biohazard-the-episodes.json](./356241-biohazard-the-episodes.json) |
+| Biohazard The Operations | 356244 | [356244-biohazard-the-operations.json](./356244-biohazard-the-operations.json) |
+| Biohazard The Stories | 356245 | [356245-biohazard-the-stories.json](./356245-biohazard-the-stories.json) |
 | Biohazard Village: Z Version | 218544 | [218544-biohazard-village-z-version.json](./218544-biohazard-village-z-version.json) |
 | Biohazard Village: Z Version - Winters' Expansion | 241065 | [241065-biohazard-village-z-version-winters-expansion.json](./241065-biohazard-village-z-version-winters-expansion.json) |
+| Biohazard ZombieBuster | 356247 | [356247-biohazard-zombiebuster.json](./356247-biohazard-zombiebuster.json) |
 | Biohazard: 5th Anniversary Special Package | 145009 | [145009-biohazard-5th-anniversary-special-package.json](./145009-biohazard-5th-anniversary-special-package.json) |
 | Biohazard: Escape Room | 258461 | [258461-biohazard-escape-room.json](./258461-biohazard-escape-room.json) |
 | Biohazard: Siberia | 324324 | [324324-biohazard-siberia.json](./324324-biohazard-siberia.json) |
@@ -7496,6 +7505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Cavalier | 214052 | [214052-broken-cavalier.json](./214052-broken-cavalier.json) |
 | Broken Colors | 250302 | [250302-broken-colors.json](./250302-broken-colors.json) |
 | Broken Covenant | 282699 | [282699-broken-covenant.json](./282699-broken-covenant.json) |
+| Broken Crescent | 356248 | [356248-broken-crescent.json](./356248-broken-crescent.json) |
 | Broken Dimensions | 350640 | [350640-broken-dimensions.json](./350640-broken-dimensions.json) |
 | Broken Dreams | 33495 | [33495-broken-dreams.json](./33495-broken-dreams.json) |
 | Broken Ecchi Gallery | 280748 | [280748-broken-ecchi-gallery.json](./280748-broken-ecchi-gallery.json) |
