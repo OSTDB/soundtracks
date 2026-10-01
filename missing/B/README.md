@@ -2508,6 +2508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Cop | 18860 | [18860-beat-cop.json](./18860-beat-cop.json) |
 | Beat Craft | 320151 | [320151-beat-craft.json](./320151-beat-craft.json) |
 | Beat Da Beat | 24207 | [24207-beat-da-beat.json](./24207-beat-da-beat.json) |
+| Beat Demon | 364644 | [364644-beat-demon.json](./364644-beat-demon.json) |
 | Beat Down: Fists of Vengeance | 5745 | [5745-beat-down-fists-of-vengeance.json](./5745-beat-down-fists-of-vengeance.json) |
 | Beat Dungeon | 180596 | [180596-beat-dungeon.json](./180596-beat-dungeon.json) |
 | Beat Feet | 369635 | [369635-beat-feet.json](./369635-beat-feet.json) |
