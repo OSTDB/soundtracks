@@ -1334,7 +1334,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Todoke: Sodateru Omoi | 66964 | [66964-kimi-ni-todoke-sodateru-omoi.json](./66964-kimi-ni-todoke-sodateru-omoi.json) |
@@ -2128,6 +2127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Bewitched | 97079 | [97079-knight-bewitched.json](./97079-knight-bewitched.json) |
 | Knight Cats: Waves on the Water - Collector's Edition | 337276 | [337276-knight-cats-waves-on-the-water-collectors-edition.json](./337276-knight-cats-waves-on-the-water-collectors-edition.json) |
 | Knight Cats: Whisper of the Universe | 337275 | [337275-knight-cats-whisper-of-the-universe.json](./337275-knight-cats-whisper-of-the-universe.json) |
+| Knight Cats: Whisper of the Universe - Collector's Edition | 340993 | [340993-knight-cats-whisper-of-the-universe-collectors-edition.json](./340993-knight-cats-whisper-of-the-universe-collectors-edition.json) |
 | Knight Club + | 146271 | [146271-knight-club.json](./146271-knight-club.json) |
 | Knight Crawler | 356886 | [356886-knight-crawler.json](./356886-knight-crawler.json) |
 | Knight Driver | 133443 | [133443-knight-driver.json](./133443-knight-driver.json) |
