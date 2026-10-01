@@ -3096,6 +3096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Battle of Polytopia: Solaris | 370330 | [370330-the-battle-of-polytopia-solaris.json](./370330-the-battle-of-polytopia-solaris.json) |
 | The Battle of Polytopia: Yorthwober | 366859 | [366859-the-battle-of-polytopia-yorthwober.json](./366859-the-battle-of-polytopia-yorthwober.json) |
 | The Battle of Polytopia+ | 357407 | [357407-the-battle-of-polytopia.json](./357407-the-battle-of-polytopia.json) |
+| The Battle Orks | 339986 | [339986-the-battle-orks.json](./339986-the-battle-orks.json) |
 | The Battle Road | 39617 | [39617-the-battle-road.json](./39617-the-battle-road.json) |
 | The Battles for Abunka | 210900 | [210900-the-battles-for-abunka.json](./210900-the-battles-for-abunka.json) |
 | The Battles of Napoleon | 54436 | [54436-the-battles-of-napoleon.json](./54436-the-battles-of-napoleon.json) |
@@ -5032,6 +5033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Green Room Experiment: Episode 1 | 232432 | [232432-the-green-room-experiment-episode-1.json](./232432-the-green-room-experiment-episode-1.json) |
 | The Green Room Experiment: Episode 1 VR | 243678 | [243678-the-green-room-experiment-episode-1-vr.json](./243678-the-green-room-experiment-episode-1-vr.json) |
 | The Green Room Experiment: Episode 3 | 290011 | [290011-the-green-room-experiment-episode-3.json](./290011-the-green-room-experiment-episode-3.json) |
+| The Greenening | 339972 | [339972-the-greenening.json](./339972-the-greenening.json) |
 | The Greenskins | 74374 | [74374-the-greenskins.json](./74374-the-greenskins.json) |
 | The Grey Company | 362324 | [362324-the-grey-company.json](./362324-the-grey-company.json) |
 | The Grid | 407546 | [407546-the-grid.json](./407546-the-grid.json) |
@@ -6309,6 +6311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lisa Joyful in Hopeful Christmas Special | 360020 | [360020-the-lisa-joyful-in-hopeful-christmas-special.json](./360020-the-lisa-joyful-in-hopeful-christmas-special.json) |
 | The Lists VR | 373173 | [373173-the-lists-vr.json](./373173-the-lists-vr.json) |
 | The Lithium Moon Incident | 286060 | [286060-the-lithium-moon-incident.json](./286060-the-lithium-moon-incident.json) |
+| The Litter: Trigo | 339970 | [339970-the-litter-trigo.json](./339970-the-litter-trigo.json) |
 | The Little Acre | 25680 | [25680-the-little-acre.json](./25680-the-little-acre.json) |
 | The Little Adventure | 364040 | [364040-the-little-adventure.json](./364040-the-little-adventure.json) |
 | The Little Baby | 285553 | [285553-the-little-baby.json](./285553-the-little-baby.json) |
