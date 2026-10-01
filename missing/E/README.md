@@ -396,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Egypt | 301997 | [301997-echoes-of-egypt.json](./301997-echoes-of-egypt.json) |
 | Echoes of Eldoria | 333541 | [333541-echoes-of-eldoria.json](./333541-echoes-of-eldoria.json) |
 | Echoes of Etheria | 266788 | [266788-echoes-of-etheria.json](./266788-echoes-of-etheria.json) |
+| Echoes of Fear | 384155 | [384155-echoes-of-fear.json](./384155-echoes-of-fear.json) |
 | Echoes of Forgotten Dreams | 340234 | [340234-echoes-of-forgotten-dreams.json](./340234-echoes-of-forgotten-dreams.json) |
 | Echoes of Formosa: Agent Reborn | 325059 | [325059-echoes-of-formosa-agent-reborn.json](./325059-echoes-of-formosa-agent-reborn.json) |
 | Echoes of Karma | 259622 | [259622-echoes-of-karma.json](./259622-echoes-of-karma.json) |
@@ -1091,6 +1092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eleutheria | 177344 | [177344-eleutheria.json](./177344-eleutheria.json) |
 | Elevate | 312715 | [312715-elevate.json](./312715-elevate.json) |
 | Elevated | 155027 | [155027-elevated.json](./155027-elevated.json) |
+| Elevation | 384134 | [384134-elevation.json](./384134-elevation.json) |
 | Elevatium: Puzzle of Atlantis | 185436 | [185436-elevatium-puzzle-of-atlantis.json](./185436-elevatium-puzzle-of-atlantis.json) |
 | Elevator | 390275 | [390275-elevator.json](./390275-elevator.json) |
 | Elevator | 58300 | [58300-elevator.json](./58300-elevator.json) |
@@ -1183,6 +1185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elk Attack | 282714 | [282714-elk-attack.json](./282714-elk-attack.json) |
 | Elk Simulator | 158565 | [158565-elk-simulator.json](./158565-elk-simulator.json) |
 | Ella Stars | 334127 | [334127-ella-stars.json](./334127-ella-stars.json) |
+| Ella's Nightmare | 384173 | [384173-ellas-nightmare.json](./384173-ellas-nightmare.json) |
 | Ellada Games RPG Bundle | 187500 | [187500-ellada-games-rpg-bundle.json](./187500-ellada-games-rpg-bundle.json) |
 | Ellan: The Lost Soul | 261768 | [261768-ellan-the-lost-soul.json](./261768-ellan-the-lost-soul.json) |
 | Ellen and the Degenerates RPG | 114542 | [114542-ellen-and-the-degenerates-rpg.json](./114542-ellen-and-the-degenerates-rpg.json) |
@@ -1343,6 +1346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emerald Caravan | 279139 | [279139-emerald-caravan.json](./279139-emerald-caravan.json) |
 | Emerald City Confidential | 16072 | [16072-emerald-city-confidential.json](./16072-emerald-city-confidential.json) |
 | Emerald Dreams: Sanity - Platformer Quest | 349372 | [349372-emerald-dreams-sanity-platformer-quest.json](./349372-emerald-dreams-sanity-platformer-quest.json) |
+| Emerald Gallery: 2-Score | 384160 | [384160-emerald-gallery-2-score.json](./384160-emerald-gallery-2-score.json) |
 | Emerald Isle | 13635 | [13635-emerald-isle.json](./13635-emerald-isle.json) |
 | Emerald Isle | 318995 | [318995-emerald-isle.json](./318995-emerald-isle.json) |
 | Emerald Mine | 37100 | [37100-emerald-mine.json](./37100-emerald-mine.json) |
