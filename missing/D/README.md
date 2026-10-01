@@ -478,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danganronpa: Lapse | 243221 | [243221-danganronpa-lapse.json](./243221-danganronpa-lapse.json) |
 | Danganronpa: Live or Die | 270679 | [270679-danganronpa-live-or-die.json](./270679-danganronpa-live-or-die.json) |
 | Danganronpa: Monokuma Strikes Back | 299839 | [299839-danganronpa-monokuma-strikes-back.json](./299839-danganronpa-monokuma-strikes-back.json) |
+| Danganronpa: New World Order | 339399 | [339399-danganronpa-new-world-order.json](./339399-danganronpa-new-world-order.json) |
 | Danganronpa: Salvation's Fears | 338840 | [338840-danganronpa-salvations-fears.json](./338840-danganronpa-salvations-fears.json) |
 | Danganronpa: Survivor's Guilt | 341080 | [341080-danganronpa-survivors-guilt.json](./341080-danganronpa-survivors-guilt.json) |
 | Danger and Deadlier | 336700 | [336700-danger-and-deadlier.json](./336700-danger-and-deadlier.json) |
