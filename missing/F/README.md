@@ -4269,6 +4269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Adventures | 395173 | [395173-food-adventures.json](./395173-food-adventures.json) |
 | Food and Girls | 148363 | [148363-food-and-girls.json](./148363-food-and-girls.json) |
 | Food And Hotel Simulator Bundle: Road Cafe & Motel Business & Street Food | 399634 | [399634-food-and-hotel-simulator-bundle-road-cafe-and-motel-business-and-street-food.json](./399634-food-and-hotel-simulator-bundle-road-cafe-and-motel-business-and-street-food.json) |
+| Food Cart Simulator | 346174 | [346174-food-cart-simulator.json](./346174-food-cart-simulator.json) |
 | Food Chain | 209464 | [209464-food-chain.json](./209464-food-chain.json) |
 | Food Chain | 369644 | [369644-food-chain.json](./369644-food-chain.json) |
 | Food Chain Farm | 184886 | [184886-food-chain-farm.json](./184886-food-chain-farm.json) |
