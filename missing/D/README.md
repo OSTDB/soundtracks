@@ -1535,8 +1535,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: Macabre Tales Pack | 283186 | [283186-dead-by-daylight-macabre-tales-pack.json](./283186-dead-by-daylight-macabre-tales-pack.json) |
 | Dead by Daylight: Of Flesh and Mud Chapter | 76222 | [76222-dead-by-daylight-of-flesh-and-mud-chapter.json](./76222-dead-by-daylight-of-flesh-and-mud-chapter.json) |
 | Dead by Daylight: Old Wounds Pack | 283185 | [283185-dead-by-daylight-old-wounds-pack.json](./283185-dead-by-daylight-old-wounds-pack.json) |
+| Dead by Daylight: Resident Evil - Carlos Oliveira | 358420 | [358420-dead-by-daylight-resident-evil-carlos-oliveira.json](./358420-dead-by-daylight-resident-evil-carlos-oliveira.json) |
 | Dead by Daylight: Resident Evil - Chris Redfield | 358419 | [358419-dead-by-daylight-resident-evil-chris-redfield.json](./358419-dead-by-daylight-resident-evil-chris-redfield.json) |
 | Dead by Daylight: Resident Evil - Claire Redfield | 358416 | [358416-dead-by-daylight-resident-evil-claire-redfield.json](./358416-dead-by-daylight-resident-evil-claire-redfield.json) |
+| Dead by Daylight: Resident Evil - Hunk | 358421 | [358421-dead-by-daylight-resident-evil-hunk.json](./358421-dead-by-daylight-resident-evil-hunk.json) |
 | Dead by Daylight: Resident Evil - Sheva Alomar | 358418 | [358418-dead-by-daylight-resident-evil-sheva-alomar.json](./358418-dead-by-daylight-resident-evil-sheva-alomar.json) |
 | Dead By Daylight: Resident Evil Collaboration Bundle | 212876 | [212876-dead-by-daylight-resident-evil-collaboration-bundle.json](./212876-dead-by-daylight-resident-evil-collaboration-bundle.json) |
 | Dead by Daylight: Roots of Dread | 203959 | [203959-dead-by-daylight-roots-of-dread.json](./203959-dead-by-daylight-roots-of-dread.json) |
@@ -4075,6 +4077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig Baby Dig Company | 376450 | [376450-dig-baby-dig-company.json](./376450-dig-baby-dig-company.json) |
 | Dig Bombers | 135759 | [135759-dig-bombers.json](./135759-dig-bombers.json) |
 | Dig Deep: Chunky Pets | 246881 | [246881-dig-deep-chunky-pets.json](./246881-dig-deep-chunky-pets.json) |
+| Dig Deeper | 358464 | [358464-dig-deeper.json](./358464-dig-deeper.json) |
 | Dig Dirt | 278462 | [278462-dig-dirt.json](./278462-dig-dirt.json) |
 | Dig Dogs: Streetbusters | 50160 | [50160-dig-dogs-streetbusters.json](./50160-dig-dogs-streetbusters.json) |
 | Dig Down | 368689 | [368689-dig-down.json](./368689-dig-down.json) |
@@ -6142,6 +6145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Door Kickers: Action Squad | 55678 | [55678-door-kickers-action-squad.json](./55678-door-kickers-action-squad.json) |
 | Door Knocker | 122336 | [122336-door-knocker.json](./122336-door-knocker.json) |
 | Door of Perception | 251055 | [251055-door-of-perception.json](./251055-door-of-perception.json) |
+| Door Puzzle | 358450 | [358450-door-puzzle.json](./358450-door-puzzle.json) |
 | Door Runners | 417374 | [417374-door-runners.json](./417374-door-runners.json) |
 | Door Smasher | 153844 | [153844-door-smasher.json](./153844-door-smasher.json) |
 | Door XP | 178956 | [178956-door-xp.json](./178956-door-xp.json) |
@@ -6612,6 +6616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draconic Echoes: The Ardent War | 126664 | [126664-draconic-echoes-the-ardent-war.json](./126664-draconic-echoes-the-ardent-war.json) |
 | Draconic Evolution | 232672 | [232672-draconic-evolution.json](./232672-draconic-evolution.json) |
 | Draconic Order VR | 31925 | [31925-draconic-order-vr.json](./31925-draconic-order-vr.json) |
+| Draconis Race | 358440 | [358440-draconis-race.json](./358440-draconis-race.json) |
 | Dracu-Riot! | 137087 | [137087-dracu-riot.json](./137087-dracu-riot.json) |
 | Dracula | 174104 | [174104-dracula.json](./174104-dracula.json) |
 | Dracula | 18588 | [18588-dracula.json](./18588-dracula.json) |
