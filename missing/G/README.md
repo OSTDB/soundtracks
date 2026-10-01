@@ -3000,6 +3000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Fever | 48009 | [48009-golden-fever.json](./48009-golden-fever.json) |
 | Golden Force | 139960 | [139960-golden-force.json](./139960-golden-force.json) |
 | Golden Galaxy | 243956 | [243956-golden-galaxy.json](./243956-golden-galaxy.json) |
+| Golden Gambit | 361290 | [361290-golden-gambit.json](./361290-golden-gambit.json) |
 | Golden Gate | 247037 | [247037-golden-gate.json](./247037-golden-gate.json) |
 | Golden Gate | 81335 | [81335-golden-gate.json](./81335-golden-gate.json) |
 | Golden Gloves VR | 235191 | [235191-golden-gloves-vr.json](./235191-golden-gloves-vr.json) |
