@@ -2716,6 +2716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beautiful Sakura: Running Club | 327973 | [327973-beautiful-sakura-running-club.json](./327973-beautiful-sakura-running-club.json) |
 | Beautiful Sakura: Surfing Club | 265240 | [265240-beautiful-sakura-surfing-club.json](./265240-beautiful-sakura-surfing-club.json) |
 | Beautiful Summer | 367578 | [367578-beautiful-summer.json](./367578-beautiful-summer.json) |
+| Beautiful Ugly | 343375 | [343375-beautiful-ugly.json](./343375-beautiful-ugly.json) |
 | Beautiful Warrior Hibiki's Captive Violation Days | 82828 | [82828-beautiful-warrior-hibikis-captive-violation-days.json](./82828-beautiful-warrior-hibikis-captive-violation-days.json) |
 | Beauty and the Beast | 105383 | [105383-beauty-and-the-beast.json](./105383-beauty-and-the-beast.json) |
 | Beauty and the Beast | 211430 | [211430-beauty-and-the-beast.json](./211430-beauty-and-the-beast.json) |
@@ -4824,6 +4825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blight | 211161 | [211161-blight.json](./211161-blight.json) |
 | Blight Doctors | 415867 | [415867-blight-doctors.json](./415867-blight-doctors.json) |
 | Blight Dream | 121029 | [121029-blight-dream.json](./121029-blight-dream.json) |
+| Blight Night | 343404 | [343404-blight-night.json](./343404-blight-night.json) |
 | Blightborn | 338714 | [338714-blightborn.json](./338714-blightborn.json) |
 | Blightbound | 133932 | [133932-blightbound.json](./133932-blightbound.json) |
 | Blightened | 347800 | [347800-blightened.json](./347800-blightened.json) |
