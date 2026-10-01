@@ -2752,6 +2752,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Rings II | 38896 | [38896-chaos-rings-ii.json](./38896-chaos-rings-ii.json) |
 | Chaos Rings III | 39228 | [39228-chaos-rings-iii.json](./39228-chaos-rings-iii.json) |
 | Chaos Rings Omega | 38897 | [38897-chaos-rings-omega.json](./38897-chaos-rings-omega.json) |
+| Chaos Rising | 354571 | [354571-chaos-rising.json](./354571-chaos-rising.json) |
+| Chaos Rising: Part 2 | 354572 | [354572-chaos-rising-part-2.json](./354572-chaos-rising-part-2.json) |
 | Chaos Road | 158229 | [158229-chaos-road.json](./158229-chaos-road.json) |
 | Chaos Saw | 236771 | [236771-chaos-saw.json](./236771-chaos-saw.json) |
 | Chaos Souls | 75042 | [75042-chaos-souls.json](./75042-chaos-souls.json) |
@@ -6448,14 +6450,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction: Action - Map: Friend Ball | 354635 | [354635-construction-action-map-friend-ball.json](./354635-construction-action-map-friend-ball.json) |
 | Construction: Action - Map: Gastly | 354624 | [354624-construction-action-map-gastly.json](./354624-construction-action-map-gastly.json) |
 | Construction: Action - Map: Gengar | 354611 | [354611-construction-action-map-gengar.json](./354611-construction-action-map-gengar.json) |
+| Construction: Action - Map: Golduck | 354598 | [354598-construction-action-map-golduck.json](./354598-construction-action-map-golduck.json) |
 | Construction: Action - Map: Houndoom | 354501 | [354501-construction-action-map-houndoom.json](./354501-construction-action-map-houndoom.json) |
 | Construction: Action - Map: Houndoom (Skyridge) | 354612 | [354612-construction-action-map-houndoom-skyridge.json](./354612-construction-action-map-houndoom-skyridge.json) |
+| Construction: Action - Map: Houndour | 354601 | [354601-construction-action-map-houndour.json](./354601-construction-action-map-houndour.json) |
 | Construction: Action - Map: Jumpluff | 354502 | [354502-construction-action-map-jumpluff.json](./354502-construction-action-map-jumpluff.json) |
 | Construction: Action - Map: Ledyba | 354625 | [354625-construction-action-map-ledyba.json](./354625-construction-action-map-ledyba.json) |
 | Construction: Action - Map: Lure Ball | 354514 | [354514-construction-action-map-lure-ball.json](./354514-construction-action-map-lure-ball.json) |
 | Construction: Action - Map: Machamp | 354613 | [354613-construction-action-map-machamp.json](./354613-construction-action-map-machamp.json) |
 | Construction: Action - Map: Machoke | 354619 | [354619-construction-action-map-machoke.json](./354619-construction-action-map-machoke.json) |
 | Construction: Action - Map: Magikarp | 354626 | [354626-construction-action-map-magikarp.json](./354626-construction-action-map-magikarp.json) |
+| Construction: Action - Map: Mankey | 354603 | [354603-construction-action-map-mankey.json](./354603-construction-action-map-mankey.json) |
 | Construction: Action - Map: Mareep | 354604 | [354604-construction-action-map-mareep.json](./354604-construction-action-map-mareep.json) |
 | Construction: Action - Map: Misdreavus | 354620 | [354620-construction-action-map-misdreavus.json](./354620-construction-action-map-misdreavus.json) |
 | Construction: Action - Map: Muk | 354504 | [354504-construction-action-map-muk.json](./354504-construction-action-map-muk.json) |
@@ -6476,10 +6481,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction: Action - Map: Seel | 354631 | [354631-construction-action-map-seel.json](./354631-construction-action-map-seel.json) |
 | Construction: Action - Map: Sentret | 354607 | [354607-construction-action-map-sentret.json](./354607-construction-action-map-sentret.json) |
 | Construction: Action - Map: Skarmory | 354632 | [354632-construction-action-map-skarmory.json](./354632-construction-action-map-skarmory.json) |
+| Construction: Action - Map: Skiploom | 354600 | [354600-construction-action-map-skiploom.json](./354600-construction-action-map-skiploom.json) |
 | Construction: Action - Map: Slowpoke | 354608 | [354608-construction-action-map-slowpoke.json](./354608-construction-action-map-slowpoke.json) |
 | Construction: Action - Map: Stantler | 354633 | [354633-construction-action-map-stantler.json](./354633-construction-action-map-stantler.json) |
 | Construction: Action - Map: Starmie | 354622 | [354622-construction-action-map-starmie.json](./354622-construction-action-map-starmie.json) |
+| Construction: Action - Map: Vileplume | 354599 | [354599-construction-action-map-vileplume.json](./354599-construction-action-map-vileplume.json) |
 | Construction: Action - Map: Vulpix | 354609 | [354609-construction-action-map-vulpix.json](./354609-construction-action-map-vulpix.json) |
+| Construction: Action - Map: Xatu | 354602 | [354602-construction-action-map-xatu.json](./354602-construction-action-map-xatu.json) |
 | Construction: Action - Player: C-46-# - Pokémon Fan Club | 354640 | [354640-construction-action-player-c-46-pokemon-fan-club.json](./354640-construction-action-player-c-46-pokemon-fan-club.json) |
 | Construction: Action - Player: D-46-# - Juggler | 354638 | [354638-construction-action-player-d-46-juggler.json](./354638-construction-action-player-d-46-juggler.json) |
 | Construction: Action - Player: E-46-# - Desert Shaman | 354489 | [354489-construction-action-player-e-46-desert-shaman.json](./354489-construction-action-player-e-46-desert-shaman.json) |
