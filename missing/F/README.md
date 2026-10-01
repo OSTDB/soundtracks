@@ -2473,6 +2473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy: Crystal Chronicles - Remastered Edition | 109276 | [109276-final-fantasy-crystal-chronicles-remastered-edition.json](./109276-final-fantasy-crystal-chronicles-remastered-edition.json) |
 | Final Fantasy: Crystal Chronicles - Ring of Fates | 9585 | [9585-final-fantasy-crystal-chronicles-ring-of-fates.json](./9585-final-fantasy-crystal-chronicles-ring-of-fates.json) |
 | Final Fantasy: Crystal Chronicles - The Crystal Bearers | 401 | [401-final-fantasy-crystal-chronicles-the-crystal-bearers.json](./401-final-fantasy-crystal-chronicles-the-crystal-bearers.json) |
+| Final Fantasy: Economic Collapse | 345622 | [345622-final-fantasy-economic-collapse.json](./345622-final-fantasy-economic-collapse.json) |
 | Final Fantasy: Explorers | 7413 | [7413-final-fantasy-explorers.json](./7413-final-fantasy-explorers.json) |
 | Final Fantasy: Mystic Quest | 415 | [415-final-fantasy-mystic-quest.json](./415-final-fantasy-mystic-quest.json) |
 | Final Fantasy: Pixel Remaster Collection | 159253 | [159253-final-fantasy-pixel-remaster-collection.json](./159253-final-fantasy-pixel-remaster-collection.json) |
@@ -5949,6 +5950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fronteeland | 366347 | [366347-fronteeland.json](./366347-fronteeland.json) |
 | Frontera | 253568 | [253568-frontera.json](./253568-frontera.json) |
 | Frontier | 162905 | [162905-frontier.json](./162905-frontier.json) |
+| Frontier | 345638 | [345638-frontier.json](./345638-frontier.json) |
 | Frontier Brain | 376129 | [376129-frontier-brain.json](./376129-frontier-brain.json) |
 | Frontier Days: Founding Pioneers | 85165 | [85165-frontier-days-founding-pioneers.json](./85165-frontier-days-founding-pioneers.json) |
 | Frontier Diver Progenexis | 177342 | [177342-frontier-diver-progenexis.json](./177342-frontier-diver-progenexis.json) |
@@ -6193,6 +6195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fugue State | 106420 | [106420-fugue-state.json](./106420-fugue-state.json) |
 | Fuhrer in LA: Special Edition | 252177 | [252177-fuhrer-in-la-special-edition.json](./252177-fuhrer-in-la-special-edition.json) |
 | Fuji Golf | 230754 | [230754-fuji-golf.json](./230754-fuji-golf.json) |
+| Fuji-yama Daibakuhatsu | 345632 | [345632-fuji-yama-daibakuhatsu.json](./345632-fuji-yama-daibakuhatsu.json) |
 | Fujiwara Phoenix | 245869 | [245869-fujiwara-phoenix.json](./245869-fujiwara-phoenix.json) |
 | Fukakutei Sekai no Tantei Shinshi | 122877 | [122877-fukakutei-sekai-no-tantei-shinshi.json](./122877-fukakutei-sekai-no-tantei-shinshi.json) |
 | Fukakutei Sekai no Tantei Shinshi Hardcore! | 122874 | [122874-fukakutei-sekai-no-tantei-shinshi-hardcore.json](./122874-fukakutei-sekai-no-tantei-shinshi-hardcore.json) |
