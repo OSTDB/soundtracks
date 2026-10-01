@@ -4533,6 +4533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoonigans | 314653 | [314653-hoonigans.json](./314653-hoonigans.json) |
 | HoooPizza | 317852 | [317852-hooopizza.json](./317852-hooopizza.json) |
 | Hoop | 193886 | [193886-hoop.json](./193886-hoop.json) |
+| Hoop Dungeon | 382961 | [382961-hoop-dungeon.json](./382961-hoop-dungeon.json) |
 | Hoop Dynasty: Rise of a Legend | 411682 | [411682-hoop-dynasty-rise-of-a-legend.json](./411682-hoop-dynasty-rise-of-a-legend.json) |
 | Hoop Fever | 90691 | [90691-hoop-fever.json](./90691-hoop-fever.json) |
 | Hoop Land | 250996 | [250996-hoop-land.json](./250996-hoop-land.json) |
