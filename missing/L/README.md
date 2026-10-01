@@ -2109,6 +2109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Blood | 285538 | [285538-life-blood.json](./285538-life-blood.json) |
 | Life Bubble | 300870 | [300870-life-bubble.json](./300870-life-bubble.json) |
 | Life Bubble: Gear Up Edition | 308806 | [308806-life-bubble-gear-up-edition.json](./308806-life-bubble-gear-up-edition.json) |
+| Life Bug | 359549 | [359549-life-bug.json](./359549-life-bug.json) |
 | Life by You | 240899 | [240899-life-by-you.json](./240899-life-by-you.json) |
 | Life Code | 287774 | [287774-life-code.json](./287774-life-code.json) |
 | Life Combinations | 117479 | [117479-life-combinations.json](./117479-life-combinations.json) |
