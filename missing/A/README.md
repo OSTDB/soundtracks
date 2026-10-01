@@ -5333,6 +5333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Scrambled Egg | 364071 | [364071-arcade-archives-2-scrambled-egg.json](./364071-arcade-archives-2-scrambled-egg.json) |
 | Arcade Archives 2: Syvalion | 410363 | [410363-arcade-archives-2-syvalion.json](./410363-arcade-archives-2-syvalion.json) |
 | Arcade Archives 2: Tekken | 408158 | [408158-arcade-archives-2-tekken.json](./408158-arcade-archives-2-tekken.json) |
+| Arcade Archives 2: The Outfoxies | 382963 | [382963-arcade-archives-2-the-outfoxies.json](./382963-arcade-archives-2-the-outfoxies.json) |
 | Arcade Archives 2: Top Speed | 389061 | [389061-arcade-archives-2-top-speed.json](./389061-arcade-archives-2-top-speed.json) |
 | Arcade Archives 2: Touchdown Fever | 384203 | [384203-arcade-archives-2-touchdown-fever.json](./384203-arcade-archives-2-touchdown-fever.json) |
 | Arcade Archives 2: TX-1 | 411809 | [411809-arcade-archives-2-tx-1.json](./411809-arcade-archives-2-tx-1.json) |
@@ -6709,6 +6710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed II: White Edition | 308957 | [308957-assassins-creed-ii-white-edition.json](./308957-assassins-creed-ii-white-edition.json) |
 | Assassin's Creed III Remastered | 109532 | [109532-assassins-creed-iii-remastered.json](./109532-assassins-creed-iii-remastered.json) |
 | Assassin's Creed III: Benedict Arnold | 261996 | [261996-assassins-creed-iii-benedict-arnold.json](./261996-assassins-creed-iii-benedict-arnold.json) |
+| Assassin's Creed III: Freedom Edition | 383009 | [383009-assassins-creed-iii-freedom-edition.json](./383009-assassins-creed-iii-freedom-edition.json) |
 | Assassin's Creed III: Liberation | 3195 | [3195-assassins-creed-iii-liberation.json](./3195-assassins-creed-iii-liberation.json) |
 | Assassin's Creed III: Limited Edition | 136288 | [136288-assassins-creed-iii-limited-edition.json](./136288-assassins-creed-iii-limited-edition.json) |
 | Assassin's Creed III: The Battle Hardened Pack | 151548 | [151548-assassins-creed-iii-the-battle-hardened-pack.json](./151548-assassins-creed-iii-the-battle-hardened-pack.json) |
@@ -7154,6 +7156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astropods: Starside Glaze | 316076 | [316076-astropods-starside-glaze.json](./316076-astropods-starside-glaze.json) |
 | AstroRunner | 272858 | [272858-astrorunner.json](./272858-astrorunner.json) |
 | AstroShift | 68763 | [68763-astroshift.json](./68763-astroshift.json) |
+| Astrosmash | 382989 | [382989-astrosmash.json](./382989-astrosmash.json) |
 | AstroSurf | 68772 | [68772-astrosurf.json](./68772-astrosurf.json) |
 | AstroSurfer | 178985 | [178985-astrosurfer.json](./178985-astrosurfer.json) |
 | Astroswarm | 276701 | [276701-astroswarm.json](./276701-astroswarm.json) |
