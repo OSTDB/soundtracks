@@ -9415,6 +9415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant Mudds Collection + Xeodrifter | 248705 | [248705-mutant-mudds-collection-xeodrifter.json](./248705-mutant-mudds-collection-xeodrifter.json) |
 | Mutant Mudds Super Challenge | 20100 | [20100-mutant-mudds-super-challenge.json](./20100-mutant-mudds-super-challenge.json) |
 | Mutant Night | 38562 | [38562-mutant-night.json](./38562-mutant-night.json) |
+| Mutant Ocean | 339384 | [339384-mutant-ocean.json](./339384-mutant-ocean.json) |
 | Mutant Rampage: Bodyslam | 45912 | [45912-mutant-rampage-bodyslam.json](./45912-mutant-rampage-bodyslam.json) |
 | Mutant Roadkill | 233532 | [233532-mutant-roadkill.json](./233532-mutant-roadkill.json) |
 | Mutant Storm: Reloaded | 16266 | [16266-mutant-storm-reloaded.json](./16266-mutant-storm-reloaded.json) |
