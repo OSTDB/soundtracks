@@ -5673,6 +5673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Deathbound | 127014 | [127014-the-last-deathbound.json](./127014-the-last-deathbound.json) |
 | The Last Defense TD | 194971 | [194971-the-last-defense-td.json](./194971-the-last-defense-td.json) |
 | The Last Delivery Man on Earth | 374593 | [374593-the-last-delivery-man-on-earth.json](./374593-the-last-delivery-man-on-earth.json) |
+| The Last Delivery: Nightmare Courier | 380066 | [380066-the-last-delivery-nightmare-courier.json](./380066-the-last-delivery-nightmare-courier.json) |
 | The Last Dimension | 301371 | [301371-the-last-dimension.json](./301371-the-last-dimension.json) |
 | The Last Dinner | 113493 | [113493-the-last-dinner.json](./113493-the-last-dinner.json) |
 | The Last Door | 235984 | [235984-the-last-door.json](./235984-the-last-door.json) |
