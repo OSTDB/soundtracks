@@ -1306,6 +1306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimagure Orange Road: Natsu no Mirage | 91765 | [91765-kimagure-orange-road-natsu-no-mirage.json](./91765-kimagure-orange-road-natsu-no-mirage.json) |
 | Kimagure Strawberry Café | 203323 | [203323-kimagure-strawberry-cafe.json](./203323-kimagure-strawberry-cafe.json) |
 | Kimagure Temptation | 182389 | [182389-kimagure-temptation.json](./182389-kimagure-temptation.json) |
+| Kimagure Temptation 2: Yuuyami Kaikitan | 375367 | [375367-kimagure-temptation-2-yuuyami-kaikitan.json](./375367-kimagure-temptation-2-yuuyami-kaikitan.json) |
 | Kimbap Factory | 413107 | [413107-kimbap-factory.json](./413107-kimbap-factory.json) |
 | Kimbap Heaven Simulator | 390261 | [390261-kimbap-heaven-simulator.json](./390261-kimbap-heaven-simulator.json) |
 | Kimero!! Hero Gakuen: Eiyuu ni Shinjutsu Nashi | 59439 | [59439-kimero-hero-gakuen-eiyuu-ni-shinjutsu-nashi.json](./59439-kimero-hero-gakuen-eiyuu-ni-shinjutsu-nashi.json) |
@@ -1316,6 +1317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
 | Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
+| Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Todoke: Sodateru Omoi | 66964 | [66964-kimi-ni-todoke-sodateru-omoi.json](./66964-kimi-ni-todoke-sodateru-omoi.json) |
 | Kimi no Hitomi ni Hit Me | 82803 | [82803-kimi-no-hitomi-ni-hit-me.json](./82803-kimi-no-hitomi-ni-hit-me.json) |
 | Kimi no Mirai | 251537 | [251537-kimi-no-mirai.json](./251537-kimi-no-mirai.json) |
