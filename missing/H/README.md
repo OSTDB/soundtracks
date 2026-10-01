@@ -520,6 +520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Paradise 4 | 281547 | [281547-hamster-paradise-4.json](./281547-hamster-paradise-4.json) |
 | Hamster Paradise: Advanchu | 49587 | [49587-hamster-paradise-advanchu.json](./49587-hamster-paradise-advanchu.json) |
 | Hamster Paradise: Pure Heart | 49588 | [49588-hamster-paradise-pure-heart.json](./49588-hamster-paradise-pure-heart.json) |
+| Hamster Playground: Cute Pets | 357373 | [357373-hamster-playground-cute-pets.json](./357373-hamster-playground-cute-pets.json) |
 | Hamster Playground: Fun & Challenge Games Pack | 332019 | [332019-hamster-playground-fun-and-challenge-games-pack.json](./332019-hamster-playground-fun-and-challenge-games-pack.json) |
 | Hamster Playground: Spooky Hamster House | 226708 | [226708-hamster-playground-spooky-hamster-house.json](./226708-hamster-playground-spooky-hamster-house.json) |
 | Hamster Scramble | 125655 | [125655-hamster-scramble.json](./125655-hamster-scramble.json) |
