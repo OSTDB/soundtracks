@@ -1057,6 +1057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maiden Cops | 209681 | [209681-maiden-cops.json](./209681-maiden-cops.json) |
 | Maiden Maze | 147376 | [147376-maiden-maze.json](./147376-maiden-maze.json) |
 | Maiden Voyage | 299770 | [299770-maiden-voyage.json](./299770-maiden-voyage.json) |
+| Maiden's Extreme Fist 'Bun-ga-rua' | 360112 | [360112-maidens-extreme-fist-bun-ga-rua.json](./360112-maidens-extreme-fist-bun-ga-rua.json) |
 | Maidens of a Hollow Dream | 90257 | [90257-maidens-of-a-hollow-dream.json](./90257-maidens-of-a-hollow-dream.json) |
 | MaidGardener | 253904 | [253904-maidgardener.json](./253904-maidgardener.json) |
 | Maidnight | 373733 | [373733-maidnight.json](./373733-maidnight.json) |
@@ -2150,6 +2151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marshin | 121770 | [121770-marshin.json](./121770-marshin.json) |
 | Marshmallow | 197396 | [197396-marshmallow.json](./197396-marshmallow.json) |
 | Marshmallow 2x2 | 234334 | [234334-marshmallow-2x2.json](./234334-marshmallow-2x2.json) |
+| Marshmallow Chronicle | 360132 | [360132-marshmallow-chronicle.json](./360132-marshmallow-chronicle.json) |
 | Marshmallow Duel | 70350 | [70350-marshmallow-duel.json](./70350-marshmallow-duel.json) |
 | Marshmallow Infinity | 182539 | [182539-marshmallow-infinity.json](./182539-marshmallow-infinity.json) |
 | Marshmallow Madness | 122431 | [122431-marshmallow-madness.json](./122431-marshmallow-madness.json) |
@@ -3101,6 +3103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | McPixel 3: McPixel Visits Grandma | 260722 | [260722-mcpixel-3-mcpixel-visits-grandma.json](./260722-mcpixel-3-mcpixel-visits-grandma.json) |
 | McPlay | 86984 | [86984-mcplay.json](./86984-mcplay.json) |
 | McTetris | 230831 | [230831-mctetris.json](./230831-mctetris.json) |
+| MCW Regicide! | 360127 | [360127-mcw-regicide.json](./360127-mcw-regicide.json) |
 | MDF: Magical Defense Force - Chapters 10-18 | 285445 | [285445-mdf-magical-defense-force-chapters-10-18.json](./285445-mdf-magical-defense-force-chapters-10-18.json) |
 | mdiapp+ SE | 74347 | [74347-mdiapp-se.json](./74347-mdiapp-se.json) |
 | MDK2: Armageddon | 414467 | [414467-mdk2-armageddon.json](./414467-mdk2-armageddon.json) |
@@ -3738,6 +3741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Pede | 78990 | [78990-mega-pede.json](./78990-mega-pede.json) |
 | Mega Pony | 39604 | [39604-mega-pony.json](./39604-mega-pony.json) |
 | Mega Punchy Golf | 120935 | [120935-mega-punchy-golf.json](./120935-mega-punchy-golf.json) |
+| Mega Q*bert | 360128 | [360128-mega-q-bert.json](./360128-mega-q-bert.json) |
 | Mega R-Type | 276776 | [276776-mega-r-type.json](./276776-mega-r-type.json) |
 | Mega Ramp Moto: Dirt Bike Stunts Simulator | 257883 | [257883-mega-ramp-moto-dirt-bike-stunts-simulator.json](./257883-mega-ramp-moto-dirt-bike-stunts-simulator.json) |
 | Mega Roids | 418527 | [418527-mega-roids.json](./418527-mega-roids.json) |
@@ -4799,6 +4803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid: Other M | 1113 | [1113-metroid-other-m.json](./1113-metroid-other-m.json) |
 | Metroid: Rechoose | 318019 | [318019-metroid-rechoose.json](./318019-metroid-rechoose.json) |
 | Metroid: Recovery | 323875 | [323875-metroid-recovery.json](./323875-metroid-recovery.json) |
+| Metroid: Return to Zebes | 360125 | [360125-metroid-return-to-zebes.json](./360125-metroid-return-to-zebes.json) |
 | Metroid: Rogue Dawn | 65036 | [65036-metroid-rogue-dawn.json](./65036-metroid-rogue-dawn.json) |
 | Metroid: Samus Returns | 37140 | [37140-metroid-samus-returns.json](./37140-metroid-samus-returns.json) |
 | Metroid: Super Zero Mission | 42205 | [42205-metroid-super-zero-mission.json](./42205-metroid-super-zero-mission.json) |
@@ -5891,6 +5896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper | 267982 | [267982-minesweeper.json](./267982-minesweeper.json) |
 | Minesweeper | 307595 | [307595-minesweeper.json](./307595-minesweeper.json) |
 | Minesweeper | 327606 | [327606-minesweeper.json](./327606-minesweeper.json) |
+| Minesweeper | 360126 | [360126-minesweeper.json](./360126-minesweeper.json) |
 | Minesweeper | 408207 | [408207-minesweeper.json](./408207-minesweeper.json) |
 | Minesweeper | 413617 | [413617-minesweeper.json](./413617-minesweeper.json) |
 | Minesweeper | 89153 | [89153-minesweeper.json](./89153-minesweeper.json) |
@@ -6383,6 +6389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missile Command: Recharged | 132154 | [132154-missile-command-recharged.json](./132154-missile-command-recharged.json) |
 | Missile Control | 13252 | [13252-missile-control.json](./13252-missile-control.json) |
 | Missile Input | 190477 | [190477-missile-input.json](./190477-missile-input.json) |
+| Missile Mayhem | 360139 | [360139-missile-mayhem.json](./360139-missile-mayhem.json) |
 | Missile Survivor | 319240 | [319240-missile-survivor.json](./319240-missile-survivor.json) |
 | Missile Tank | 160256 | [160256-missile-tank.json](./160256-missile-tank.json) |
 | Missileman | 197634 | [197634-missileman.json](./197634-missileman.json) |
@@ -10083,6 +10090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Case Files: The Dalimar Legacy - Collector's Edition | 243787 | [243787-mystery-case-files-the-dalimar-legacy-collectors-edition.json](./243787-mystery-case-files-the-dalimar-legacy-collectors-edition.json) |
 | Mystery Case Files: The Last Resort - Collector's Edition | 236009 | [236009-mystery-case-files-the-last-resort-collectors-edition.json](./236009-mystery-case-files-the-last-resort-collectors-edition.json) |
 | Mystery Case Files: The Riddle of Mrs. Bishop | 360051 | [360051-mystery-case-files-the-riddle-of-mrs-bishop.json](./360051-mystery-case-files-the-riddle-of-mrs-bishop.json) |
+| Mystery Case Files: The Riddle of Mrs. Bishop - Collector's Edition | 360039 | [360039-mystery-case-files-the-riddle-of-mrs-bishop-collectors-edition.json](./360039-mystery-case-files-the-riddle-of-mrs-bishop-collectors-edition.json) |
 | Mystery Castle | 19889 | [19889-mystery-castle.json](./19889-mystery-castle.json) |
 | Mystery Chronicles: One Way Heroics | 124745 | [124745-mystery-chronicles-one-way-heroics.json](./124745-mystery-chronicles-one-way-heroics.json) |
 | Mystery Circle | 37916 | [37916-mystery-circle.json](./37916-mystery-circle.json) |
