@@ -1086,6 +1086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Entities | 177402 | [177402-paranormal-entities.json](./177402-paranormal-entities.json) |
 | Paranormal Escape | 69380 | [69380-paranormal-escape.json](./69380-paranormal-escape.json) |
 | Paranormal Files: Chaos Weekend | 416704 | [416704-paranormal-files-chaos-weekend.json](./416704-paranormal-files-chaos-weekend.json) |
+| Paranormal Files: Counterpart - Collector's Edition | 337238 | [337238-paranormal-files-counterpart-collectors-edition.json](./337238-paranormal-files-counterpart-collectors-edition.json) |
 | Paranormal Files: Fatal Flaw - Collector's Edition | 355018 | [355018-paranormal-files-fatal-flaw-collectors-edition.json](./355018-paranormal-files-fatal-flaw-collectors-edition.json) |
 | Paranormal Files: Fellow Traveler | 143017 | [143017-paranormal-files-fellow-traveler.json](./143017-paranormal-files-fellow-traveler.json) |
 | Paranormal Files: Ghost Chapter | 187936 | [187936-paranormal-files-ghost-chapter.json](./187936-paranormal-files-ghost-chapter.json) |
@@ -1662,6 +1663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paws & Clean | 316847 | [316847-paws-and-clean.json](./316847-paws-and-clean.json) |
 | Paws & Effect: My Dogs Are Human! | 128455 | [128455-paws-and-effect-my-dogs-are-human.json](./128455-paws-and-effect-my-dogs-are-human.json) |
 | Paws & Perils: Out Of This World | 327386 | [327386-paws-and-perils-out-of-this-world.json](./327386-paws-and-perils-out-of-this-world.json) |
+| Paws & Potions | 337301 | [337301-paws-and-potions.json](./337301-paws-and-potions.json) |
 | Paws and Leaves: A Last Tale | 211234 | [211234-paws-and-leaves-a-last-tale.json](./211234-paws-and-leaves-a-last-tale.json) |
 | Paws for Adventure | 204108 | [204108-paws-for-adventure.json](./204108-paws-for-adventure.json) |
 | Paws of Coal | 247444 | [247444-paws-of-coal.json](./247444-paws-of-coal.json) |
@@ -2627,6 +2629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Kiosk | 345708 | [345708-phantom-kiosk.json](./345708-phantom-kiosk.json) |
 | Phantom of Inferno | 387689 | [387689-phantom-of-inferno.json](./387689-phantom-of-inferno.json) |
 | Phantom of the Black Rose Revue | 269862 | [269862-phantom-of-the-black-rose-revue.json](./269862-phantom-of-the-black-rose-revue.json) |
+| Phantom of the Grove | 337306 | [337306-phantom-of-the-grove.json](./337306-phantom-of-the-grove.json) |
 | Phantom of the Kill | 58459 | [58459-phantom-of-the-kill.json](./58459-phantom-of-the-kill.json) |
 | Phantom of the Twilight | 304152 | [304152-phantom-of-the-twilight.json](./304152-phantom-of-the-twilight.json) |
 | Phantom Ops | 370703 | [370703-phantom-ops.json](./370703-phantom-ops.json) |
