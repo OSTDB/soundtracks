@@ -8386,6 +8386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Move 78 | 157207 | [157207-move-78.json](./157207-move-78.json) |
 | Move Ball to Green | 291518 | [291518-move-ball-to-green.json](./291518-move-ball-to-green.json) |
 | Move Blocks | 285454 | [285454-move-blocks.json](./285454-move-blocks.json) |
+| Move Dash Rush | 386920 | [386920-move-dash-rush.json](./386920-move-dash-rush.json) |
 | Move Egg in Time | 116448 | [116448-move-egg-in-time.json](./116448-move-egg-in-time.json) |
 | Move Fitness | 22937 | [22937-move-fitness.json](./22937-move-fitness.json) |
 | Move Fun | 246396 | [246396-move-fun.json](./246396-move-fun.json) |
@@ -8787,6 +8788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multiplication Mayhem | 277280 | [277280-multiplication-mayhem.json](./277280-multiplication-mayhem.json) |
 | Multirotor Sim 2 | 81234 | [81234-multirotor-sim-2.json](./81234-multirotor-sim-2.json) |
 | Multishop Tycoon Deluxe | 30031 | [30031-multishop-tycoon-deluxe.json](./30031-multishop-tycoon-deluxe.json) |
+| Multispy | 386958 | [386958-multispy.json](./386958-multispy.json) |
 | Multitasking Skills Desired | 404448 | [404448-multitasking-skills-desired.json](./404448-multitasking-skills-desired.json) |
 | MultiTaskMaster | 105205 | [105205-multitaskmaster.json](./105205-multitaskmaster.json) |
 | Multiversal Affairs | 270157 | [270157-multiversal-affairs.json](./270157-multiversal-affairs.json) |
@@ -9046,6 +9048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musical Reflex | 80937 | [80937-musical-reflex.json](./80937-musical-reflex.json) |
 | Musical Vibes | 257971 | [257971-musical-vibes.json](./257971-musical-vibes.json) |
 | Musical Zoo | 79934 | [79934-musical-zoo.json](./79934-musical-zoo.json) |
+| MusicHell | 386951 | [386951-musichell.json](./386951-musichell.json) |
 | Musician | 41563 | [41563-musician.json](./41563-musician.json) |
 | Musicmenia | 314477 | [314477-musicmenia.json](./314477-musicmenia.json) |
 | Musicus! | 125432 | [125432-musicus.json](./125432-musicus.json) |
