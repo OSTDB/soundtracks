@@ -2418,6 +2418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akumajou Dracula | 215375 | [215375-akumajou-dracula.json](./215375-akumajou-dracula.json) |
 | Akumajou Dracula | 322133 | [322133-akumajou-dracula.json](./322133-akumajou-dracula.json) |
 | Akumajou Dracula | 322142 | [322142-akumajou-dracula.json](./322142-akumajou-dracula.json) |
+| Akumajou Dracula | 377248 | [377248-akumajou-dracula.json](./377248-akumajou-dracula.json) |
 | Akumanor Gaiden | 361222 | [361222-akumanor-gaiden.json](./361222-akumanor-gaiden.json) |
 | Akumon Summoner | 393458 | [393458-akumon-summoner.json](./393458-akumon-summoner.json) |
 | Akunin-Akka | 389995 | [389995-akunin-akka.json](./389995-akunin-akka.json) |
