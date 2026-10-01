@@ -2240,6 +2240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perry the Pumpkin | 224763 | [224763-perry-the-pumpkin.json](./224763-perry-the-pumpkin.json) |
 | Perseus | 274767 | [274767-perseus.json](./274767-perseus.json) |
 | Persevera | 264685 | [264685-persevera.json](./264685-persevera.json) |
+| Persevere | 350006 | [350006-persevere.json](./350006-persevere.json) |
 | Persha and the Magic Labyrinth: Arabian Nyaights | 264901 | [264901-persha-and-the-magic-labyrinth-arabian-nyaights.json](./264901-persha-and-the-magic-labyrinth-arabian-nyaights.json) |
 | Persha and the Magic Puzzle: Arabian Nyaights | 235210 | [235210-persha-and-the-magic-puzzle-arabian-nyaights.json](./235210-persha-and-the-magic-puzzle-arabian-nyaights.json) |
 | Persian Gulf Inferno | 72329 | [72329-persian-gulf-inferno.json](./72329-persian-gulf-inferno.json) |
@@ -2626,6 +2627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantomphobia: Zhenli | 331946 | [331946-phantomphobia-zhenli.json](./331946-phantomphobia-zhenli.json) |
 | Phantoms | 278152 | [278152-phantoms.json](./278152-phantoms.json) |
 | Phantoms of the Asteroid | 40959 | [40959-phantoms-of-the-asteroid.json](./40959-phantoms-of-the-asteroid.json) |
+| PhantomZone SemiDeus | 349973 | [349973-phantomzone-semideus.json](./349973-phantomzone-semideus.json) |
 | Phar Lap: Horse Racing Challenge | 116374 | [116374-phar-lap-horse-racing-challenge.json](./116374-phar-lap-horse-racing-challenge.json) |
 | Pharaoh | 7510 | [7510-pharaoh.json](./7510-pharaoh.json) |
 | Pharaoh ISO | 209969 | [209969-pharaoh-iso.json](./209969-pharaoh-iso.json) |
@@ -3177,6 +3179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piksels | 225287 | [225287-piksels.json](./225287-piksels.json) |
 | Pikubo | 302681 | [302681-pikubo.json](./302681-pikubo.json) |
 | Pikuniku: Collector's Edition | 154528 | [154528-pikuniku-collectors-edition.json](./154528-pikuniku-collectors-edition.json) |
+| PikuPiku | 349972 | [349972-pikupiku.json](./349972-pikupiku.json) |
 | Pilam Sky | 38503 | [38503-pilam-sky.json](./38503-pilam-sky.json) |
 | Pilapa Boom | 186325 | [186325-pilapa-boom.json](./186325-pilapa-boom.json) |
 | Pilapila | 296109 | [296109-pilapila.json](./296109-pilapila.json) |
@@ -3274,7 +3277,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Arcade: Banzai Run | 349342 | [349342-pinball-arcade-banzai-run.json](./349342-pinball-arcade-banzai-run.json) |
 | Pinball Arcade: Fathom | 349962 | [349962-pinball-arcade-fathom.json](./349962-pinball-arcade-fathom.json) |
 | Pinball Arcade: Firepower II | 349961 | [349961-pinball-arcade-firepower-ii.json](./349961-pinball-arcade-firepower-ii.json) |
+| Pinball Arcade: Ghostbusters Premium | 349965 | [349965-pinball-arcade-ghostbusters-premium.json](./349965-pinball-arcade-ghostbusters-premium.json) |
 | Pinball Arcade: Paragon | 349960 | [349960-pinball-arcade-paragon.json](./349960-pinball-arcade-paragon.json) |
+| Pinball Arcade: Pistol Poker | 349971 | [349971-pinball-arcade-pistol-poker.json](./349971-pinball-arcade-pistol-poker.json) |
 | Pinball Arcade: Safe Cracker | 353273 | [353273-pinball-arcade-safe-cracker.json](./353273-pinball-arcade-safe-cracker.json) |
 | Pinball Arcade: Season Two Bundle | 99556 | [99556-pinball-arcade-season-two-bundle.json](./99556-pinball-arcade-season-two-bundle.json) |
 | Pinball Arcade: Space Shuttle | 353272 | [353272-pinball-arcade-space-shuttle.json](./353272-pinball-arcade-space-shuttle.json) |
@@ -3282,6 +3287,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Arcade: Star Trek - The Next Generation | 349340 | [349340-pinball-arcade-star-trek-the-next-generation.json](./349340-pinball-arcade-star-trek-the-next-generation.json) |
 | Pinball Arcade: Swords of Fury | 353270 | [353270-pinball-arcade-swords-of-fury.json](./353270-pinball-arcade-swords-of-fury.json) |
 | Pinball Arcade: Whirlwind | 353269 | [353269-pinball-arcade-whirlwind.json](./353269-pinball-arcade-whirlwind.json) |
+| Pinball Arcade: Wild Card | 349964 | [349964-pinball-arcade-wild-card.json](./349964-pinball-arcade-wild-card.json) |
+| Pinball Arcade: Wipe Out | 349969 | [349969-pinball-arcade-wipe-out.json](./349969-pinball-arcade-wipe-out.json) |
 | Pinball Brain Damage | 69591 | [69591-pinball-brain-damage.json](./69591-pinball-brain-damage.json) |
 | Pinball Breaker 3 | 146686 | [146686-pinball-breaker-3.json](./146686-pinball-breaker-3.json) |
 | Pinball Breaker 4 | 146685 | [146685-pinball-breaker-4.json](./146685-pinball-breaker-4.json) |
@@ -4478,6 +4485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plant Firefighter Simulator 2014 | 88286 | [88286-plant-firefighter-simulator-2014.json](./88286-plant-firefighter-simulator-2014.json) |
 | Plant Gallery: A Short Botanic Experience | 267437 | [267437-plant-gallery-a-short-botanic-experience.json](./267437-plant-gallery-a-short-botanic-experience.json) |
 | Plant Game | 405518 | [405518-plant-game.json](./405518-plant-game.json) |
+| Plant Pong Deluxe | 350001 | [350001-plant-pong-deluxe.json](./350001-plant-pong-deluxe.json) |
 | Plant Tales | 358462 | [358462-plant-tales.json](./358462-plant-tales.json) |
 | Plant Therapy: Coney Island Plus | 337834 | [337834-plant-therapy-coney-island-plus.json](./337834-plant-therapy-coney-island-plus.json) |
 | Plant Therapy: Goth Pack | 324290 | [324290-plant-therapy-goth-pack.json](./324290-plant-therapy-goth-pack.json) |
