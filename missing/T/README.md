@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T H E YV | 127979 | [127979-t-h-e-yv.json](./127979-t-h-e-yv.json) |
 | T kara Hajimaru Monogatari | 172737 | [172737-t-kara-hajimaru-monogatari.json](./172737-t-kara-hajimaru-monogatari.json) |
 | T-Bird | 122967 | [122967-t-bird.json](./122967-t-bird.json) |
+| T-Crisis 4 110% A.I. Turbo Remix Tetris | 374227 | [374227-t-crisis-4-110-a-i-turbo-remix-tetris.json](./374227-t-crisis-4-110-a-i-turbo-remix-tetris.json) |
 | T-Dragon Quest 2: Mazoku no Daichi | 325651 | [325651-t-dragon-quest-2-mazoku-no-daichi.json](./325651-t-dragon-quest-2-mazoku-no-daichi.json) |
 | T-Dragon Quest: Joshou Yuusha no Mezame | 325650 | [325650-t-dragon-quest-joshou-yuusha-no-mezame.json](./325650-t-dragon-quest-joshou-yuusha-no-mezame.json) |
 | T-Kara Puzzles | 34208 | [34208-t-kara-puzzles.json](./34208-t-kara-puzzles.json) |
@@ -1583,6 +1584,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tecmo Super Bowl 2015 | 48896 | [48896-tecmo-super-bowl-2015.json](./48896-tecmo-super-bowl-2015.json) |
 | Tecmo Super Bowl 2016 | 48899 | [48899-tecmo-super-bowl-2016.json](./48899-tecmo-super-bowl-2016.json) |
 | Tecmo Super Bowl 2017 | 48910 | [48910-tecmo-super-bowl-2017.json](./48910-tecmo-super-bowl-2017.json) |
+| Tecmo Super Bowl 2025 | 374209 | [374209-tecmo-super-bowl-2025.json](./374209-tecmo-super-bowl-2025.json) |
+| Tecmo Super Bowl 2026 | 374210 | [374210-tecmo-super-bowl-2026.json](./374210-tecmo-super-bowl-2026.json) |
 | Tecmo Super Bowl Gold | 48900 | [48900-tecmo-super-bowl-gold.json](./48900-tecmo-super-bowl-gold.json) |
 | Tecmo Super Bowl II: Special Edition | 46598 | [46598-tecmo-super-bowl-ii-special-edition.json](./46598-tecmo-super-bowl-ii-special-edition.json) |
 | Tecmo Super Bowl III: Final Edition | 42445 | [42445-tecmo-super-bowl-iii-final-edition.json](./42445-tecmo-super-bowl-iii-final-edition.json) |
@@ -3044,6 +3047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Beardless Wizard | 54437 | [54437-the-beardless-wizard.json](./54437-the-beardless-wizard.json) |
 | The Bears and The Bees | 83618 | [83618-the-bears-and-the-bees.json](./83618-the-bears-and-the-bees.json) |
 | The Beast | 100210 | [100210-the-beast.json](./100210-the-beast.json) |
+| The Beast | 374223 | [374223-the-beast.json](./374223-the-beast.json) |
 | The Beast Inside | 88116 | [88116-the-beast-inside.json](./88116-the-beast-inside.json) |
 | The Beast of the Rosewood | 302134 | [302134-the-beast-of-the-rosewood.json](./302134-the-beast-of-the-rosewood.json) |
 | The Beast of Torrack Moor | 58855 | [58855-the-beast-of-torrack-moor.json](./58855-the-beast-of-torrack-moor.json) |
@@ -4292,6 +4296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Equinox Hunt | 125368 | [125368-the-equinox-hunt.json](./125368-the-equinox-hunt.json) |
 | The ER: Patient Typhon | 146320 | [146320-the-er-patient-typhon.json](./146320-the-er-patient-typhon.json) |
 | The Era of Pioneers | 302924 | [302924-the-era-of-pioneers.json](./302924-the-era-of-pioneers.json) |
+| The Erased Student | 374201 | [374201-the-erased-student.json](./374201-the-erased-student.json) |
 | The Escape | 112115 | [112115-the-escape.json](./112115-the-escape.json) |
 | The Escape | 219555 | [219555-the-escape.json](./219555-the-escape.json) |
 | The Escape | 365256 | [365256-the-escape.json](./365256-the-escape.json) |
@@ -6397,6 +6402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Luffman Experiment | 407561 | [407561-the-luffman-experiment.json](./407561-the-luffman-experiment.json) |
 | The Luminist | 120972 | [120972-the-luminist.json](./120972-the-luminist.json) |
 | The Lunar Effect | 144746 | [144746-the-lunar-effect.json](./144746-the-lunar-effect.json) |
+| The Lurking Fear | 374242 | [374242-the-lurking-fear.json](./374242-the-lurking-fear.json) |
 | The Lurking Horror | 12180 | [12180-the-lurking-horror.json](./12180-the-lurking-horror.json) |
 | The Lustful Champion | 384753 | [384753-the-lustful-champion.json](./384753-the-lustful-champion.json) |
 | The m0rg VS keys | 93721 | [93721-the-m0rg-vs-keys.json](./93721-the-m0rg-vs-keys.json) |
@@ -9487,6 +9493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thimbleweed Park 2 | 411759 | [411759-thimbleweed-park-2.json](./411759-thimbleweed-park-2.json) |
 | Thin Line | 333759 | [333759-thin-line.json](./333759-thin-line.json) |
 | Thin Threads | 332415 | [332415-thin-threads.json](./332415-thin-threads.json) |
+| Thine Rogueth | 374229 | [374229-thine-rogueth.json](./374229-thine-rogueth.json) |
 | Thing Bounces Back | 44107 | [44107-thing-bounces-back.json](./44107-thing-bounces-back.json) |
 | Thing Thing 2 | 92452 | [92452-thing-thing-2.json](./92452-thing-thing-2.json) |
 | Thing Thing Collection | 131991 | [131991-thing-thing-collection.json](./131991-thing-thing-collection.json) |
@@ -12674,6 +12681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TouHou Dew Valley | 262654 | [262654-touhou-dew-valley.json](./262654-touhou-dew-valley.json) |
 | Touhou Doumeiju: Mystical Power Plant | 246671 | [246671-touhou-doumeiju-mystical-power-plant.json](./246671-touhou-doumeiju-mystical-power-plant.json) |
 | Touhou Drunken Rebellion | 372678 | [372678-touhou-drunken-rebellion.json](./372678-touhou-drunken-rebellion.json) |
+| Touhou Dystopian | 374218 | [374218-touhou-dystopian.json](./374218-touhou-dystopian.json) |
 | Touhou Eiyashou: Imperishable Night | 27162 | [27162-touhou-eiyashou-imperishable-night.json](./27162-touhou-eiyashou-imperishable-night.json) |
 | Touhou Emblem | 315050 | [315050-touhou-emblem.json](./315050-touhou-emblem.json) |
 | Touhou Emblem 2 | 315051 | [315051-touhou-emblem-2.json](./315051-touhou-emblem-2.json) |
@@ -15234,6 +15242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsykial | 270748 | [270748-tsykial.json](./270748-tsykial.json) |
 | TT Isle of Man: Collection | 275041 | [275041-tt-isle-of-man-collection.json](./275041-tt-isle-of-man-collection.json) |
 | TTA 1 | 253565 | [253565-tta-1.json](./253565-tta-1.json) |
+| TTT Classic | 374211 | [374211-ttt-classic.json](./374211-ttt-classic.json) |
 | Tu cara me suena: El videojuego | 332817 | [332817-tu-cara-me-suena-el-videojuego.json](./332817-tu-cara-me-suena-el-videojuego.json) |
 | TU-46 | 120876 | [120876-tu-46.json](./120876-tu-46.json) |
 | TU-95 | 120877 | [120877-tu-95.json](./120877-tu-95.json) |
@@ -15823,6 +15832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Type: Jump | 242076 | [242076-type-jump.json](./242076-type-jump.json) |
 | Type: Turbo | 391740 | [391740-type-turbo.json](./391740-type-turbo.json) |
 | Type: Unstable Vampire | 180822 | [180822-type-unstable-vampire.json](./180822-type-unstable-vampire.json) |
+| TypeCaster | 374215 | [374215-typecaster.json](./374215-typecaster.json) |
 | Typefighters | 18956 | [18956-typefighters.json](./18956-typefighters.json) |
 | Typefighters: Steam Edition | 90589 | [90589-typefighters-steam-edition.json](./90589-typefighters-steam-edition.json) |
 | Typer | 88354 | [88354-typer.json](./88354-typer.json) |
