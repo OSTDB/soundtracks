@@ -1497,6 +1497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manikineko Online | 392458 | [392458-manikineko-online.json](./392458-manikineko-online.json) |
 | Manipulation | 380600 | [380600-manipulation.json](./380600-manipulation.json) |
 | Manipulator of Figure 3 | 335448 | [335448-manipulator-of-figure-3.json](./335448-manipulator-of-figure-3.json) |
+| Manivore | 343398 | [343398-manivore.json](./343398-manivore.json) |
 | Manji: PSY Yuuki | 142860 | [142860-manji-psy-yuuki.json](./142860-manji-psy-yuuki.json) |
 | Mankind | 260659 | [260659-mankind.json](./260659-mankind.json) |
 | Mankind | 92824 | [92824-mankind.json](./92824-mankind.json) |
@@ -1522,6 +1523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manor of Mysteries | 265149 | [265149-manor-of-mysteries.json](./265149-manor-of-mysteries.json) |
 | Manor of Mystic Courtesans | 291072 | [291072-manor-of-mystic-courtesans.json](./291072-manor-of-mystic-courtesans.json) |
 | Manor of Shadows | 380678 | [380678-manor-of-shadows.json](./380678-manor-of-shadows.json) |
+| Manos: The Hands of Choice | 343399 | [343399-manos-the-hands-of-choice.json](./343399-manos-the-hands-of-choice.json) |
 | Mansion | 269861 | [269861-mansion.json](./269861-mansion.json) |
 | Mansion 2 | 269863 | [269863-mansion-2.json](./269863-mansion-2.json) |
 | Mansion of Hidden Souls | 5402 | [5402-mansion-of-hidden-souls.json](./5402-mansion-of-hidden-souls.json) |
@@ -2821,6 +2823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Puzzles Brain Teasers 2018 | 104124 | [104124-math-puzzles-brain-teasers-2018.json](./104124-math-puzzles-brain-teasers-2018.json) |
 | Math Puzzles PRO | 105958 | [105958-math-puzzles-pro.json](./105958-math-puzzles-pro.json) |
 | Math Rescue | 35548 | [35548-math-rescue.json](./35548-math-rescue.json) |
+| Math Rescue Plus | 343385 | [343385-math-rescue-plus.json](./343385-math-rescue-plus.json) |
 | Math Rescue: Rounding and Estimation game | 97139 | [97139-math-rescue-rounding-and-estimation-game.json](./97139-math-rescue-rounding-and-estimation-game.json) |
 | Math RTS | 81777 | [81777-math-rts.json](./81777-math-rts.json) |
 | Math Speed Challenge | 101617 | [101617-math-speed-challenge.json](./101617-math-speed-challenge.json) |
@@ -3967,6 +3970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MegaRace 3 | 46634 | [46634-megarace-3.json](./46634-megarace-3.json) |
 | MegaRamp | 169789 | [169789-megaramp.json](./169789-megaramp.json) |
 | MegaRats | 31101 | [31101-megarats.json](./31101-megarats.json) |
+| Megas XLR: Final Battle | 343395 | [343395-megas-xlr-final-battle.json](./343395-megas-xlr-final-battle.json) |
 | Megaspectre | 70361 | [70361-megaspectre.json](./70361-megaspectre.json) |
 | Megasuki!: Kanojo to Boku no Megane Jijou - Amou Haruka-hen | 416600 | [416600-megasuki-kanojo-to-boku-no-megane-jijou-amou-haruka-hen.json](./416600-megasuki-kanojo-to-boku-no-megane-jijou-amou-haruka-hen.json) |
 | Megasuki!: Kanojo to Boku no Megane Jijou - Azumino G Sakurako-hen | 416602 | [416602-megasuki-kanojo-to-boku-no-megane-jijou-azumino-g-sakurako-hen.json](./416602-megasuki-kanojo-to-boku-no-megane-jijou-azumino-g-sakurako-hen.json) |
@@ -4981,6 +4985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miami Vice | 77244 | [77244-miami-vice.json](./77244-miami-vice.json) |
 | Miamo.fun | 267368 | [267368-miamo-fun.json](./267368-miamo-fun.json) |
 | Miao and the Friendmily Journal: Miao | 183974 | [183974-miao-and-the-friendmily-journal-miao.json](./183974-miao-and-the-friendmily-journal-miao.json) |
+| Miaobot Zero | 343394 | [343394-miaobot-zero.json](./343394-miaobot-zero.json) |
 | Miaou Moon | 31790 | [31790-miaou-moon.json](./31790-miaou-moon.json) |
 | MiaouVSRG | 351047 | [351047-miaouvsrg.json](./351047-miaouvsrg.json) |
 | Miaow.Emma | 296977 | [296977-miaow-emma.json](./296977-miaow-emma.json) |
@@ -5854,6 +5859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: 10 Years Of Minecraft | 322956 | [322956-minecraft-10-years-of-minecraft.json](./322956-minecraft-10-years-of-minecraft.json) |
 | Minecraft: 1st Birthday Skin Pack | 255346 | [255346-minecraft-1st-birthday-skin-pack.json](./255346-minecraft-1st-birthday-skin-pack.json) |
 | Minecraft: A Minecraft Movie Add-On | 333583 | [333583-minecraft-a-minecraft-movie-add-on.json](./333583-minecraft-a-minecraft-movie-add-on.json) |
+| Minecraft: Actions & Stuff | 343393 | [343393-minecraft-actions-and-stuff.json](./343393-minecraft-actions-and-stuff.json) |
 | Minecraft: Adidas Adventures Add-On | 347687 | [347687-minecraft-adidas-adventures-add-on.json](./347687-minecraft-adidas-adventures-add-on.json) |
 | Minecraft: Adventure Time Mash-up | 235324 | [235324-minecraft-adventure-time-mash-up.json](./235324-minecraft-adventure-time-mash-up.json) |
 | Minecraft: Annoying Difficulty | 298310 | [298310-minecraft-annoying-difficulty.json](./298310-minecraft-annoying-difficulty.json) |
@@ -7011,6 +7017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moe Moe 2-ji Daisenryaku | 288207 | [288207-moe-moe-2-ji-daisenryaku.json](./288207-moe-moe-2-ji-daisenryaku.json) |
 | Moe Moe Daisensou * Gendaiban++ | 44579 | [44579-moe-moe-daisensou-gendaiban.json](./44579-moe-moe-daisensou-gendaiban.json) |
 | Moe Moe World War II-3 | 120374 | [120374-moe-moe-world-war-ii-3.json](./120374-moe-moe-world-war-ii-3.json) |
+| Moe Moe: No Limit Off Beat Action Shooting | 343416 | [343416-moe-moe-no-limit-off-beat-action-shooting.json](./343416-moe-moe-no-limit-off-beat-action-shooting.json) |
 | Moe Reversi | 113482 | [113482-moe-reversi.json](./113482-moe-reversi.json) |
 | Moe Slot Beach no Shizuku | 292088 | [292088-moe-slot-beach-no-shizuku.json](./292088-moe-slot-beach-no-shizuku.json) |
 | Moe Waifu H | 240179 | [240179-moe-waifu-h.json](./240179-moe-waifu-h.json) |
@@ -9114,6 +9121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Munchkin: Quacked Quest | 110314 | [110314-munchkin-quacked-quest.json](./110314-munchkin-quacked-quest.json) |
 | Munchman II | 42171 | [42171-munchman-ii.json](./42171-munchman-ii.json) |
 | Munchman: 35th Anniversary Edition | 308363 | [308363-munchman-35th-anniversary-edition.json](./308363-munchman-35th-anniversary-edition.json) |
+| Munchy 64 | 343415 | [343415-munchy-64.json](./343415-munchy-64.json) |
 | Munchyman | 98234 | [98234-munchyman.json](./98234-munchyman.json) |
 | Mundaun | 101007 | [101007-mundaun.json](./101007-mundaun.json) |
 | Mundial de Fútbol | 86008 | [86008-mundial-de-futbol.json](./86008-mundial-de-futbol.json) |
