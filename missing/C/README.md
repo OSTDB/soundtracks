@@ -2128,6 +2128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cattle Country | 306909 | [306909-cattle-country.json](./306909-cattle-country.json) |
 | Cattle Hyperdrive | 247745 | [247745-cattle-hyperdrive.json](./247745-cattle-hyperdrive.json) |
 | Cattlieb | 349851 | [349851-cattlieb.json](./349851-cattlieb.json) |
+| Catto Chateau | 366387 | [366387-catto-chateau.json](./366387-catto-chateau.json) |
 | Catty & Batty: The Spirit Guide | 143470 | [143470-catty-and-batty-the-spirit-guide.json](./143470-catty-and-batty-the-spirit-guide.json) |
 | Catty Battle | 129816 | [129816-catty-battle.json](./129816-catty-battle.json) |
 | Catty Cathy | 281982 | [281982-catty-cathy.json](./281982-catty-cathy.json) |
@@ -2501,6 +2502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chain Strike | 96546 | [96546-chain-strike.json](./96546-chain-strike.json) |
 | Chain World | 92484 | [92484-chain-world.json](./92484-chain-world.json) |
 | Chain-Chillas | 398343 | [398343-chain-chillas.json](./398343-chain-chillas.json) |
+| Chain-Em | 366363 | [366363-chain-em.json](./366363-chain-em.json) |
 | Chain: The Lost Footprints | 127795 | [127795-chain-the-lost-footprints.json](./127795-chain-the-lost-footprints.json) |
 | ChainBeet | 292615 | [292615-chainbeet.json](./292615-chainbeet.json) |
 | Chainbound | 384797 | [384797-chainbound.json](./384797-chainbound.json) |
