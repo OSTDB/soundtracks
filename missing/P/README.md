@@ -640,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panoptia | 270959 | [270959-panoptia.json](./270959-panoptia.json) |
 | Panopticon | 371242 | [371242-panopticon.json](./371242-panopticon.json) |
 | Panopticon: Path of Reflections | 53449 | [53449-panopticon-path-of-reflections.json](./53449-panopticon-path-of-reflections.json) |
+| Panoptique | 377192 | [377192-panoptique.json](./377192-panoptique.json) |
 | Panorama | 125901 | [125901-panorama.json](./125901-panorama.json) |
 | Panpu-ja | 254778 | [254778-panpu-ja.json](./254778-panpu-ja.json) |
 | Panspermia: Horror Myson Mansion | 232526 | [232526-panspermia-horror-myson-mansion.json](./232526-panspermia-horror-myson-mansion.json) |
