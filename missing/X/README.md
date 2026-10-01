@@ -329,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XenoWorld: The Rondeau of Astra | 236951 | [236951-xenoworld-the-rondeau-of-astra.json](./236951-xenoworld-the-rondeau-of-astra.json) |
 | Xenrai | 122960 | [122960-xenrai.json](./122960-xenrai.json) |
 | Xentripetal Force | 121466 | [121466-xentripetal-force.json](./121466-xentripetal-force.json) |
+| Xenus Bug Eater | 386941 | [386941-xenus-bug-eater.json](./386941-xenus-bug-eater.json) |
 | Xeodrifter | 8506 | [8506-xeodrifter.json](./8506-xeodrifter.json) |
 | Xeodrifter: Special Edition | 52117 | [52117-xeodrifter-special-edition.json](./52117-xeodrifter-special-edition.json) |
 | XeonMass | 256217 | [256217-xeonmass.json](./256217-xeonmass.json) |
