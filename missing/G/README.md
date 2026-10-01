@@ -3358,6 +3358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorilla Smash City Attack Game | 274185 | [274185-gorilla-smash-city-attack-game.json](./274185-gorilla-smash-city-attack-game.json) |
 | Gorilla Unko | 387627 | [387627-gorilla-unko.json](./387627-gorilla-unko.json) |
 | Gorillas | 308395 | [308395-gorillas.json](./308395-gorillas.json) |
+| Gorillas-Lab | 376628 | [376628-gorillas-lab.json](./376628-gorillas-lab.json) |
 | Gorillaz - Escape to Plastic Beach | 66158 | [66158-gorillaz-escape-to-plastic-beach.json](./66158-gorillaz-escape-to-plastic-beach.json) |
 | Gorit | 164285 | [164285-gorit.json](./164285-gorit.json) |
 | Goritaire | 393809 | [393809-goritaire.json](./393809-goritaire.json) |
@@ -3978,6 +3979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grayscale | 225742 | [225742-grayscale.json](./225742-grayscale.json) |
 | GrayScale | 120921 | [120921-grayscale.json](./120921-grayscale.json) |
 | Graytail | 292298 | [292298-graytail.json](./292298-graytail.json) |
+| Grayton the Detective | 376661 | [376661-grayton-the-detective.json](./376661-grayton-the-detective.json) |
 | Graywalkers: Purgatory | 61562 | [61562-graywalkers-purgatory.json](./61562-graywalkers-purgatory.json) |
 | Graze Counter | 44163 | [44163-graze-counter.json](./44163-graze-counter.json) |
 | Graze Counter GM | 211893 | [211893-graze-counter-gm.json](./211893-graze-counter-gm.json) |
