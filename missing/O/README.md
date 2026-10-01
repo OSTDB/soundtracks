@@ -1229,6 +1229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Night: Burlesque - Premium Edition | 288283 | [288283-one-night-burlesque-premium-edition.json](./288283-one-night-burlesque-premium-edition.json) |
 | One Night: Burlesque - Superb Edition | 317246 | [317246-one-night-burlesque-superb-edition.json](./317246-one-night-burlesque-superb-edition.json) |
 | One Night: Burlesque - Ultimate Edition | 283168 | [283168-one-night-burlesque-ultimate-edition.json](./283168-one-night-burlesque-ultimate-edition.json) |
+| One Night: Young Bride for One Night | 341602 | [341602-one-night-young-bride-for-one-night.json](./341602-one-night-young-bride-for-one-night.json) |
 | One of 500 | 141637 | [141637-one-of-500.json](./141637-one-of-500.json) |
 | One of a Kind | 325551 | [325551-one-of-a-kind.json](./325551-one-of-a-kind.json) |
 | One of the Victims | 195100 | [195100-one-of-the-victims.json](./195100-one-of-the-victims.json) |
