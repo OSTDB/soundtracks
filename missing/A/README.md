@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Christmas Blackout | 310535 | [310535-a-christmas-blackout.json](./310535-a-christmas-blackout.json) |
 | A Christmas Carol: But With Anime Girls | 379470 | [379470-a-christmas-carol-but-with-anime-girls.json](./379470-a-christmas-carol-but-with-anime-girls.json) |
 | A Christmas Gift: Timmy's Final Gift | 312366 | [312366-a-christmas-gift-timmys-final-gift.json](./312366-a-christmas-gift-timmys-final-gift.json) |
+| A Christmas Journey With: Noelle | 383557 | [383557-a-christmas-journey-with-noelle.json](./383557-a-christmas-journey-with-noelle.json) |
 | A Christmas Nightmare | 165502 | [165502-a-christmas-nightmare.json](./165502-a-christmas-nightmare.json) |
 | A Christmassy Christmas | 283894 | [283894-a-christmassy-christmas.json](./283894-a-christmassy-christmas.json) |
 | A Chronicle of Occultism in Skinnerburg | 304672 | [304672-a-chronicle-of-occultism-in-skinnerburg.json](./304672-a-chronicle-of-occultism-in-skinnerburg.json) |
@@ -835,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss of Neptune | 145563 | [145563-abyss-of-neptune.json](./145563-abyss-of-neptune.json) |
 | Abyss Of Pleasure | 379549 | [379549-abyss-of-pleasure.json](./379549-abyss-of-pleasure.json) |
 | Abyss Pact | 339129 | [339129-abyss-pact.json](./339129-abyss-pact.json) |
+| Abyss Prowler | 383581 | [383581-abyss-prowler.json](./383581-abyss-prowler.json) |
 | Abyss Rebel | 357415 | [357415-abyss-rebel.json](./357415-abyss-rebel.json) |
 | Abyss Saga | 369111 | [369111-abyss-saga.json](./369111-abyss-saga.json) |
 | Abyss Soul Lotus | 216799 | [216799-abyss-soul-lotus.json](./216799-abyss-soul-lotus.json) |
@@ -2423,6 +2425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alaskan Malamute G.C. | 240891 | [240891-alaskan-malamute-g-c.json](./240891-alaskan-malamute-g-c.json) |
 | Alaskan Road Truckers: Highway Edition - Cosmetic Bundle | 331447 | [331447-alaskan-road-truckers-highway-edition-cosmetic-bundle.json](./331447-alaskan-road-truckers-highway-edition-cosmetic-bundle.json) |
 | Alaskan Road Truckers: Truck Skin Pack | 323265 | [323265-alaskan-road-truckers-truck-skin-pack.json](./323265-alaskan-road-truckers-truck-skin-pack.json) |
+| Alastrius | 383582 | [383582-alastrius.json](./383582-alastrius.json) |
 | Alawar Adventure Collection | 52591 | [52591-alawar-adventure-collection.json](./52591-alawar-adventure-collection.json) |
 | Alawar Hidden Realms Bundle | 99790 | [99790-alawar-hidden-realms-bundle.json](./99790-alawar-hidden-realms-bundle.json) |
 | Alba: A Wildlife Adventure | 135919 | [135919-alba-a-wildlife-adventure.json](./135919-alba-a-wildlife-adventure.json) |
@@ -2504,6 +2507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AlcoFox | 243628 | [243628-alcofox.json](./243628-alcofox.json) |
 | Alcohol Empire | 199097 | [199097-alcohol-empire.json](./199097-alcohol-empire.json) |
 | AlcremieStudio | 319561 | [319561-alcremiestudio.json](./319561-alcremiestudio.json) |
+| Alcyone | 383604 | [383604-alcyone.json](./383604-alcyone.json) |
 | Alder Choke | 217926 | [217926-alder-choke.json](./217926-alder-choke.json) |
 | Alder's Blood | 90277 | [90277-alders-blood.json](./90277-alders-blood.json) |
 | Alder's Blood: Definitive Edition | 173167 | [173167-alders-blood-definitive-edition.json](./173167-alders-blood-definitive-edition.json) |
@@ -5087,6 +5091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apperception | 81733 | [81733-apperception.json](./81733-apperception.json) |
 | Appetit | 325662 | [325662-appetit.json](./325662-appetit.json) |
 | Appetite for Detestation | 147482 | [147482-appetite-for-detestation.json](./147482-appetite-for-detestation.json) |
+| Appetite of the Abyss | 383562 | [383562-appetite-of-the-abyss.json](./383562-appetite-of-the-abyss.json) |
 | Apple Bag | 280197 | [280197-apple-bag.json](./280197-apple-bag.json) |
 | Apple Bang! | 150046 | [150046-apple-bang.json](./150046-apple-bang.json) |
 | Apple Catch | 317457 | [317457-apple-catch.json](./317457-apple-catch.json) |
@@ -6034,6 +6039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arknights: Endfield - Update 1.2: At the Wake of Spring | 398565 | [398565-arknights-endfield-update-1-2-at-the-wake-of-spring.json](./398565-arknights-endfield-update-1-2-at-the-wake-of-spring.json) |
 | Arknights: Endfield - Update 1.5: Dreamscape of Wind and Snow | 415939 | [415939-arknights-endfield-update-1-5-dreamscape-of-wind-and-snow.json](./415939-arknights-endfield-update-1-5-dreamscape-of-wind-and-snow.json) |
 | Arknights: Release | 253344 | [253344-arknights-release.json](./253344-arknights-release.json) |
+| Arktis SCP-RP | 383554 | [383554-arktis-scp-rp.json](./383554-arktis-scp-rp.json) |
 | ARL 96 | 93147 | [93147-arl-96.json](./93147-arl-96.json) |
 | Arla Milkout! | 314036 | [314036-arla-milkout.json](./314036-arla-milkout.json) |
 | Arlcoco: The One Winged Princess Pet | 82774 | [82774-arlcoco-the-one-winged-princess-pet.json](./82774-arlcoco-the-one-winged-princess-pet.json) |
@@ -6274,6 +6280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrowmania | 284355 | [284355-arrowmania.json](./284355-arrowmania.json) |
 | ArrowMongers | 240808 | [240808-arrowmongers.json](./240808-arrowmongers.json) |
 | Arrows Left | 242505 | [242505-arrows-left.json](./242505-arrows-left.json) |
+| Arrows: Puzzle Escape | 383565 | [383565-arrows-puzzle-escape.json](./383565-arrows-puzzle-escape.json) |
 | Arrowscapades | 401766 | [401766-arrowscapades.json](./401766-arrowscapades.json) |
 | Arrowscapes: Arrows Puzzle | 392368 | [392368-arrowscapes-arrows-puzzle.json](./392368-arrowscapes-arrows-puzzle.json) |
 | Arruyo | 201561 | [201561-arruyo.json](./201561-arruyo.json) |
