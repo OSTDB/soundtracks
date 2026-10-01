@@ -1742,6 +1742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scratch Game - Halloween Night | 89750 | [89750-scratch-game-halloween-night.json](./89750-scratch-game-halloween-night.json) |
 | Scratch the Ticket | 404220 | [404220-scratch-the-ticket.json](./404220-scratch-the-ticket.json) |
 | Scratch Wars | 139365 | [139365-scratch-wars.json](./139365-scratch-wars.json) |
+| Scratchers | 352885 | [352885-scratchers.json](./352885-scratchers.json) |
 | Scratches | 11836 | [11836-scratches.json](./11836-scratches.json) |
 | Scratchin' Melodii | 215235 | [215235-scratchin-melodii.json](./215235-scratchin-melodii.json) |
 | Scream and Steel: Horror Story Shooter | 284493 | [284493-scream-and-steel-horror-story-shooter.json](./284493-scream-and-steel-horror-story-shooter.json) |
@@ -5680,6 +5681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skate City: New York | 324872 | [324872-skate-city-new-york.json](./324872-skate-city-new-york.json) |
 | Skate Fish | 318004 | [318004-skate-fish.json](./318004-skate-fish.json) |
 | Skate Hooligans | 182546 | [182546-skate-hooligans.json](./182546-skate-hooligans.json) |
+| Skate It | 352870 | [352870-skate-it.json](./352870-skate-it.json) |
 | Skate It | 5157 | [5157-skate-it.json](./5157-skate-it.json) |
 | Skate Jam | 251207 | [251207-skate-jam.json](./251207-skate-jam.json) |
 | Skate Mates | 406098 | [406098-skate-mates.json](./406098-skate-mates.json) |
@@ -8596,6 +8598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Winter Adventures | 256303 | [256303-sonic-winter-adventures.json](./256303-sonic-winter-adventures.json) |
 | Sonic With a Gun | 331977 | [331977-sonic-with-a-gun.json](./331977-sonic-with-a-gun.json) |
 | Sonic World | 239068 | [239068-sonic-world.json](./239068-sonic-world.json) |
+| Sonic World Doom | 352876 | [352876-sonic-world-doom.json](./352876-sonic-world-doom.json) |
 | Sonic World Remix | 332618 | [332618-sonic-world-remix.json](./332618-sonic-world-remix.json) |
 | Sonic X | 54549 | [54549-sonic-x.json](./54549-sonic-x.json) |
 | Sonic X Bowling | 299872 | [299872-sonic-x-bowling.json](./299872-sonic-x-bowling.json) |
