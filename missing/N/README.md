@@ -3132,6 +3132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nono Adventure | 240218 | [240218-nono-adventure.json](./240218-nono-adventure.json) |
 | Nono Islands | 57111 | [57111-nono-islands.json](./57111-nono-islands.json) |
 | Nono Logix | 116436 | [116436-nono-logix.json](./116436-nono-logix.json) |
+| Nono Paint | 378367 | [378367-nono-paint.json](./378367-nono-paint.json) |
 | Nonocular | 181384 | [181384-nonocular.json](./181384-nonocular.json) |
 | Nonogram | 112360 | [112360-nonogram.json](./112360-nonogram.json) |
 | Nonogram - The Greatest Painter | 87774 | [87774-nonogram-the-greatest-painter.json](./87774-nonogram-the-greatest-painter.json) |
