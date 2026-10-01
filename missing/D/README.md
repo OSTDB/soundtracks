@@ -1050,6 +1050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darts and Friends | 96627 | [96627-darts-and-friends.json](./96627-darts-and-friends.json) |
 | Darts Club | 69828 | [69828-darts-club.json](./69828-darts-club.json) |
 | Darts Fever | 328548 | [328548-darts-fever.json](./328548-darts-fever.json) |
+| Darts Fever Bullseye Legends | 378962 | [378962-darts-fever-bullseye-legends.json](./378962-darts-fever-bullseye-legends.json) |
 | Darts Fever: Deluxe Edition | 333720 | [333720-darts-fever-deluxe-edition.json](./333720-darts-fever-deluxe-edition.json) |
 | Darts Frenzy | 280785 | [280785-darts-frenzy.json](./280785-darts-frenzy.json) |
 | Darts Up | 85556 | [85556-darts-up.json](./85556-darts-up.json) |
@@ -2955,6 +2956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demons vs. Fairyland | 245328 | [245328-demons-vs-fairyland.json](./245328-demons-vs-fairyland.json) |
 | Demons with Shotguns: Deluxe Edition | 52890 | [52890-demons-with-shotguns-deluxe-edition.json](./52890-demons-with-shotguns-deluxe-edition.json) |
 | Demonschool | 204640 | [204640-demonschool.json](./204640-demonschool.json) |
+| Demonschool: Digital Deluxe Edition | 378957 | [378957-demonschool-digital-deluxe-edition.json](./378957-demonschool-digital-deluxe-edition.json) |
 | Demonspire | 381701 | [381701-demonspire.json](./381701-demonspire.json) |
 | Demonstar | 9117 | [9117-demonstar.json](./9117-demonstar.json) |
 | DemonStar: Original Missions | 272391 | [272391-demonstar-original-missions.json](./272391-demonstar-original-missions.json) |
@@ -4923,6 +4925,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divarr | 282151 | [282151-divarr.json](./282151-divarr.json) |
 | Dive | 88462 | [88462-dive.json](./88462-dive.json) |
 | Dive Expedition: Complete Edition | 385197 | [385197-dive-expedition-complete-edition.json](./385197-dive-expedition-complete-edition.json) |
+| Dive Expedition: Plane Wreck DLC | 378971 | [378971-dive-expedition-plane-wreck-dlc.json](./378971-dive-expedition-plane-wreck-dlc.json) |
+| Dive Expedition: Sunken Ship DLC | 378970 | [378970-dive-expedition-sunken-ship-dlc.json](./378970-dive-expedition-sunken-ship-dlc.json) |
 | Dive in the Past | 199911 | [199911-dive-in-the-past.json](./199911-dive-in-the-past.json) |
 | Dive Into The Survival | 340555 | [340555-dive-into-the-survival.json](./340555-dive-into-the-survival.json) |
 | Dive On | 264069 | [264069-dive-on.json](./264069-dive-on.json) |
@@ -6569,6 +6573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drag Racing Rivals | 147847 | [147847-drag-racing-rivals.json](./147847-drag-racing-rivals.json) |
 | Drag the Rope | 254434 | [254434-drag-the-rope.json](./254434-drag-the-rope.json) |
 | Drag Them Out Into Space! | 178969 | [178969-drag-them-out-into-space.json](./178969-drag-them-out-into-space.json) |
+| Drag-on Dragoon 10th Anniversary | 378980 | [378980-drag-on-dragoon-10th-anniversary.json](./378980-drag-on-dragoon-10th-anniversary.json) |
 | Drag'n Wash | 417585 | [417585-dragn-wash.json](./417585-dragn-wash.json) |
 | Drag'n'Boom | 68318 | [68318-dragnboom.json](./68318-dragnboom.json) |
 | Dragabox | 259858 | [259858-dragabox.json](./259858-dragabox.json) |
@@ -7078,6 +7083,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drakeling Labs | 90130 | [90130-drakeling-labs.json](./90130-drakeling-labs.json) |
 | Draken's Shrine | 257918 | [257918-drakens-shrine.json](./257918-drakens-shrine.json) |
 | Drakengard 2 | 11663 | [11663-drakengard-2.json](./11663-drakengard-2.json) |
+| Drakengard 3: Beautiful Child | 378983 | [378983-drakengard-3-beautiful-child.json](./378983-drakengard-3-beautiful-child.json) |
+| Drakengard 3: Caim's Garb | 378984 | [378984-drakengard-3-caims-garb.json](./378984-drakengard-3-caims-garb.json) |
+| Drakengard 3: Collector's Edition | 378981 | [378981-drakengard-3-collectors-edition.json](./378981-drakengard-3-collectors-edition.json) |
+| Drakengard 3: Eris's Garb | 378985 | [378985-drakengard-3-eriss-garb.json](./378985-drakengard-3-eriss-garb.json) |
+| Drakengard 3: Experimental Weapon 7 | 378986 | [378986-drakengard-3-experimental-weapon-7.json](./378986-drakengard-3-experimental-weapon-7.json) |
+| Drakengard 3: Furiae's Garb | 378991 | [378991-drakengard-3-furiaes-garb.json](./378991-drakengard-3-furiaes-garb.json) |
+| Drakengard 3: Kainé's Garb | 378982 | [378982-drakengard-3-kaines-garb.json](./378982-drakengard-3-kaines-garb.json) |
+| Drakengard 3: Manah's Garb | 378990 | [378990-drakengard-3-manahs-garb.json](./378990-drakengard-3-manahs-garb.json) |
+| Drakengard 3: Nier's Garb | 378989 | [378989-drakengard-3-niers-garb.json](./378989-drakengard-3-niers-garb.json) |
+| Drakengard 3: Tokyo Tower | 378988 | [378988-drakengard-3-tokyo-tower.json](./378988-drakengard-3-tokyo-tower.json) |
+| Drakengard 3: Zero's Garb (Variety Pack) | 378987 | [378987-drakengard-3-zeros-garb-variety-pack.json](./378987-drakengard-3-zeros-garb-variety-pack.json) |
 | Drakens Värld | 139804 | [139804-drakens-varld.json](./139804-drakens-varld.json) |
 | Drakensang Online | 8772 | [8772-drakensang-online.json](./8772-drakensang-online.json) |
 | Drakensang: The River of Time | 8769 | [8769-drakensang-the-river-of-time.json](./8769-drakensang-the-river-of-time.json) |
