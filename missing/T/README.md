@@ -5828,6 +5828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Sunshine: Rekindled | 150612 | [150612-the-last-sunshine-rekindled.json](./150612-the-last-sunshine-rekindled.json) |
 | The Last Survey | 139318 | [139318-the-last-survey.json](./139318-the-last-survey.json) |
 | The Last Survivor | 113878 | [113878-the-last-survivor.json](./113878-the-last-survivor.json) |
+| The Last Survivors Harem | 379007 | [379007-the-last-survivors-harem.json](./379007-the-last-survivors-harem.json) |
 | The Last Tale | 403004 | [403004-the-last-tale.json](./403004-the-last-tale.json) |
 | The Last Tape | 334841 | [334841-the-last-tape.json](./334841-the-last-tape.json) |
 | The Last Taxi | 132822 | [132822-the-last-taxi.json](./132822-the-last-taxi.json) |
@@ -13098,6 +13099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Car Extreme Racing: RC Driver Simulator | 309082 | [309082-toy-car-extreme-racing-rc-driver-simulator.json](./309082-toy-car-extreme-racing-rc-driver-simulator.json) |
 | Toy Car Race | 391353 | [391353-toy-car-race.json](./391353-toy-car-race.json) |
 | Toy Chute: Sort Chute Organizer! | 416853 | [416853-toy-chute-sort-chute-organizer.json](./416853-toy-chute-sort-chute-organizer.json) |
+| Toy Cowboy Royale: RPG Dragon's Challenge | 378955 | [378955-toy-cowboy-royale-rpg-dragons-challenge.json](./378955-toy-cowboy-royale-rpg-dragons-challenge.json) |
 | TOY DJ - An Electronic Music Rhythm Game | 100909 | [100909-toy-dj-an-electronic-music-rhythm-game.json](./100909-toy-dj-an-electronic-music-rhythm-game.json) |
 | Toy Drop Balance Challenge | 342152 | [342152-toy-drop-balance-challenge.json](./342152-toy-drop-balance-challenge.json) |
 | Toy Escape | 344530 | [344530-toy-escape.json](./344530-toy-escape.json) |
