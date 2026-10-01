@@ -2005,6 +2005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LGBT Color by Number for Adults | 165035 | [165035-lgbt-color-by-number-for-adults.json](./165035-lgbt-color-by-number-for-adults.json) |
 | LGBT+ Flags | 182840 | [182840-lgbt-flags.json](./182840-lgbt-flags.json) |
 | Lgnorant girl doll | 114994 | [114994-lgnorant-girl-doll.json](./114994-lgnorant-girl-doll.json) |
+| LGV Platform Box | 362424 | [362424-lgv-platform-box.json](./362424-lgv-platform-box.json) |
 | Lhama Clicker | 236545 | [236545-lhama-clicker.json](./236545-lhama-clicker.json) |
 | Lǐ Èr Nián Yǒng Chuǎng Héhuān Zōng | 373708 | [373708-li-er-nian-yong-chuang-hehuan-zong.json](./373708-li-er-nian-yong-chuang-hehuan-zong.json) |
 | Lǐ Shì Qírén Yì Wén Lù | 367402 | [367402-li-shi-qiren-yi-wen-lu.json](./367402-li-shi-qiren-yi-wen-lu.json) |
