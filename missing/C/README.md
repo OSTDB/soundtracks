@@ -8856,6 +8856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CSR Racing 2 | 55169 | [55169-csr-racing-2.json](./55169-csr-racing-2.json) |
 | CSS Room Escape | 252121 | [252121-css-room-escape.json](./252121-css-room-escape.json) |
 | CT Special Forces 3: BioTerror | 43898 | [43898-ct-special-forces-3-bioterror.json](./43898-ct-special-forces-3-bioterror.json) |
+| Ctesiphon | 349420 | [349420-ctesiphon.json](./349420-ctesiphon.json) |
 | CTGP-7 | 209549 | [209549-ctgp-7.json](./209549-ctgp-7.json) |
 | Cthulhu 1920 | 386242 | [386242-cthulhu-1920.json](./386242-cthulhu-1920.json) |
 | Cthulhu Go Teaching | 405091 | [405091-cthulhu-go-teaching.json](./405091-cthulhu-go-teaching.json) |
