@@ -10098,6 +10098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystia | 288872 | [288872-mystia.json](./288872-mystia.json) |
 | Mystia2 | 292090 | [292090-mystia2.json](./292090-mystia2.json) |
 | Mystia3 | 381723 | [381723-mystia3.json](./381723-mystia3.json) |
+| Mystic | 371370 | [371370-mystic.json](./371370-mystic.json) |
 | Mystic Ark: Maboroshi Gekijo | 67326 | [67326-mystic-ark-maboroshi-gekijo.json](./67326-mystic-ark-maboroshi-gekijo.json) |
 | Mystic Balloon | 280890 | [280890-mystic-balloon.json](./280890-mystic-balloon.json) |
 | Mystic Cards | 190058 | [190058-mystic-cards.json](./190058-mystic-cards.json) |
