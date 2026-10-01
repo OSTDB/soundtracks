@@ -1506,10 +1506,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only One Way Up | 256919 | [256919-only-one-way-up.json](./256919-only-one-way-up.json) |
 | Only Pinball | 292532 | [292532-only-pinball.json](./292532-only-pinball.json) |
 | Only Shadows Left Behind | 109730 | [109730-only-shadows-left-behind.json](./109730-only-shadows-left-behind.json) |
+| Only Sky Parkour: Island Up! | 349427 | [349427-only-sky-parkour-island-up.json](./349427-only-sky-parkour-island-up.json) |
 | Only Straight and Up! | 264027 | [264027-only-straight-and-up.json](./264027-only-straight-and-up.json) |
 | Only The Lost Shall See | 341508 | [341508-only-the-lost-shall-see.json](./341508-only-the-lost-shall-see.json) |
 | Only the Rich May Die | 270940 | [270940-only-the-rich-may-die.json](./270940-only-the-rich-may-die.json) |
 | Only Trump: Up To Presidents! | 341509 | [341509-only-trump-up-to-presidents.json](./341509-only-trump-up-to-presidents.json) |
+| Only Tung Tung Sahur Up | 349425 | [349425-only-tung-tung-sahur-up.json](./349425-only-tung-tung-sahur-up.json) |
 | Only Up 2025 | 367590 | [367590-only-up-2025.json](./367590-only-up-2025.json) |
 | Only Up Samarkand | 277328 | [277328-only-up-samarkand.json](./277328-only-up-samarkand.json) |
 | Only Up: Skibidi | 310922 | [310922-only-up-skibidi.json](./310922-only-up-skibidi.json) |
@@ -1962,6 +1964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ore ga Omae wo Mamoru | 69213 | [69213-ore-ga-omae-wo-mamoru.json](./69213-ore-ga-omae-wo-mamoru.json) |
 | Ore ga Watashi ni Kawatta Hi...: Becoming a She | 224208 | [224208-ore-ga-watashi-ni-kawatta-hi-becoming-a-she.json](./224208-ore-ga-watashi-ni-kawatta-hi-becoming-a-she.json) |
 | Ore ga Watashi ni Kawatta Hi...: Becoming a She | 227877 | [227877-ore-ga-watashi-ni-kawatta-hi-becoming-a-she.json](./227877-ore-ga-watashi-ni-kawatta-hi-becoming-a-she.json) |
+| Ore ha Chokkaku: Chokkaku Kiri Kenzan!! | 349432 | [349432-ore-ha-chokkaku-chokkaku-kiri-kenzan.json](./349432-ore-ha-chokkaku-chokkaku-kiri-kenzan.json) |
 | Ore Klast | 410404 | [410404-ore-klast.json](./410404-ore-klast.json) |
 | Ore Market Masters Simulator | 326393 | [326393-ore-market-masters-simulator.json](./326393-ore-market-masters-simulator.json) |
 | Ore ni Hatarakette Iwaretemo Tori | 60197 | [60197-ore-ni-hatarakette-iwaretemo-tori.json](./60197-ore-ni-hatarakette-iwaretemo-tori.json) |
