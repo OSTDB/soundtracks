@@ -489,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Fortress | 318757 | [318757-laser-fortress.json](./318757-laser-fortress.json) |
 | Laser Grid | 52252 | [52252-laser-grid.json](./52252-laser-grid.json) |
 | Laser Harp VR | 357218 | [357218-laser-harp-vr.json](./357218-laser-harp-vr.json) |
+| Laser Hell | 384183 | [384183-laser-hell.json](./384183-laser-hell.json) |
 | Laser Lab | 214028 | [214028-laser-lab.json](./214028-laser-lab.json) |
 | Laser Light | 14462 | [14462-laser-light.json](./14462-laser-light.json) |
 | Laser Lightshow | 290555 | [290555-laser-lightshow.json](./290555-laser-lightshow.json) |
@@ -1099,6 +1100,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left 4 Dead 2 Beta Pack | 358317 | [358317-left-4-dead-2-beta-pack.json](./358317-left-4-dead-2-beta-pack.json) |
 | Left 4 Dead 2: Nightmare | 358402 | [358402-left-4-dead-2-nightmare.json](./358402-left-4-dead-2-nightmare.json) |
 | Left 4 Dead: Game of the Year Edition | 47413 | [47413-left-4-dead-game-of-the-year-edition.json](./47413-left-4-dead-game-of-the-year-edition.json) |
+| Left 4k Dead | 384137 | [384137-left-4k-dead.json](./384137-left-4k-dead.json) |
+| Left 4k Dead 2 | 384139 | [384139-left-4k-dead-2.json](./384139-left-4k-dead-2.json) |
 | Left Alive: Day One Edition | 119066 | [119066-left-alive-day-one-edition.json](./119066-left-alive-day-one-edition.json) |
 | Left Alive: Mech Edition | 111022 | [111022-left-alive-mech-edition.json](./111022-left-alive-mech-edition.json) |
 | Left at Home | 241488 | [241488-left-at-home.json](./241488-left-at-home.json) |
@@ -4453,6 +4456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludu | 26491 | [26491-ludu.json](./26491-ludu.json) |
 | Ludum Creare | 176981 | [176981-ludum-creare.json](./176981-ludum-creare.json) |
 | Ludus | 128123 | [128123-ludus.json](./128123-ludus.json) |
+| Ludus Latrunculorum | 384163 | [384163-ludus-latrunculorum.json](./384163-ludus-latrunculorum.json) |
 | Ludus Magnatus: Gladiator Manager Simulator | 390751 | [390751-ludus-magnatus-gladiator-manager-simulator.json](./390751-ludus-magnatus-gladiator-manager-simulator.json) |
 | Ludus: A Gladiator Story | 411712 | [411712-ludus-a-gladiator-story.json](./411712-ludus-a-gladiator-story.json) |
 | Luduvo | 412303 | [412303-luduvo.json](./412303-luduvo.json) |
