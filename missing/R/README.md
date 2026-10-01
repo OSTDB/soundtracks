@@ -4051,6 +4051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RitualRX | 346188 | [346188-ritualrx.json](./346188-ritualrx.json) |
 | Rituals of Demons | 405698 | [405698-rituals-of-demons.json](./405698-rituals-of-demons.json) |
 | RitualSummon | 201253 | [201253-ritualsummon.json](./201253-ritualsummon.json) |
+| Ritus Exorcismus | 343933 | [343933-ritus-exorcismus.json](./343933-ritus-exorcismus.json) |
 | Rivage | 380416 | [380416-rivage.json](./380416-rivage.json) |
 | Rivais Em Batalha | 90579 | [90579-rivais-em-batalha.json](./90579-rivais-em-batalha.json) |
 | Rival Books of Aster | 38965 | [38965-rival-books-of-aster.json](./38965-rival-books-of-aster.json) |
@@ -5128,6 +5129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Sun | 26719 | [26719-rolling-sun.json](./26719-rolling-sun.json) |
 | Rolling Thunder | 12846 | [12846-rolling-thunder.json](./12846-rolling-thunder.json) |
 | Rolling Thunder 3 | 46243 | [46243-rolling-thunder-3.json](./46243-rolling-thunder-3.json) |
+| Rolling Thunder: Vietnam | 343950 | [343950-rolling-thunder-vietnam.json](./343950-rolling-thunder-vietnam.json) |
 | Rolling Toolman | 248683 | [248683-rolling-toolman.json](./248683-rolling-toolman.json) |
 | Rolling Toolman 2 Deathly Traps | 267446 | [267446-rolling-toolman-2-deathly-traps.json](./267446-rolling-toolman-2-deathly-traps.json) |
 | Rolling Valley | 192876 | [192876-rolling-valley.json](./192876-rolling-valley.json) |
