@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X Simulator Drone | 312171 | [312171-x-simulator-drone.json](./312171-x-simulator-drone.json) |
 | X Virus | 190742 | [190742-x-virus.json](./190742-x-virus.json) |
 | X Wars Deluxe | 121554 | [121554-x-wars-deluxe.json](./121554-x-wars-deluxe.json) |
+| X-1 | 375353 | [375353-x-1.json](./375353-x-1.json) |
 | X-15 Alpha Mission | 40934 | [40934-x-15-alpha-mission.json](./40934-x-15-alpha-mission.json) |
 | X-17 | 33373 | [33373-x-17.json](./33373-x-17.json) |
 | X-Blades | 7256 | [7256-x-blades.json](./7256-x-blades.json) |
