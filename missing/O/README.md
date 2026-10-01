@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oasis Invasion | 380648 | [380648-oasis-invasion.json](./380648-oasis-invasion.json) |
 | Oasis of Lilies | 412276 | [412276-oasis-of-lilies.json](./412276-oasis-of-lilies.json) |
 | Oasis VR | 140520 | [140520-oasis-vr.json](./140520-oasis-vr.json) |
+| OAsys | 368597 | [368597-oasys.json](./368597-oasys.json) |
 | Oath | 169955 | [169955-oath.json](./169955-oath.json) |
 | Oath of Miko | 171470 | [171470-oath-of-miko.json](./171470-oath-of-miko.json) |
 | Oath of peak | 231920 | [231920-oath-of-peak.json](./231920-oath-of-peak.json) |
@@ -1826,6 +1827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbia | 88028 | [88028-orbia.json](./88028-orbia.json) |
 | Orbifall | 379875 | [379875-orbifall.json](./379875-orbifall.json) |
 | Orbion | 370331 | [370331-orbion.json](./370331-orbion.json) |
+| Orbis Fractura | 368587 | [368587-orbis-fractura.json](./368587-orbis-fractura.json) |
 | Orbisia | 197129 | [197129-orbisia.json](./197129-orbisia.json) |
 | Orbit | 315019 | [315019-orbit.json](./315019-orbit.json) |
 | Orbit | 85597 | [85597-orbit.json](./85597-orbit.json) |
