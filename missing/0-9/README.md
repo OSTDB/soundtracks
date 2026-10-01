@@ -1465,6 +1465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Élan Vital | 114545 | [114545-elan-vital.json](./114545-elan-vital.json) |
 | Été | 118265 | [118265-ete.json](./118265-ete.json) |
 | ​Gooseball Playdate: Plus Slingshot / Spars | 271699 | [271699-gooseball-playdate-plus-slingshot-spars.json](./271699-gooseball-playdate-plus-slingshot-spars.json) |
+| Île d'Or | 335517 | [335517-ile-dor.json](./335517-ile-dor.json) |
 | İstanbul Kıyamet Vakti | 58900 | [58900-istanbul-k-yamet-vakti.json](./58900-istanbul-k-yamet-vakti.json) |
 | ‎Love & Magic: Spellfyre | 387640 | [387640-love-and-magic-spellfyre.json](./387640-love-and-magic-spellfyre.json) |
 | Łowca Głów | 98944 | [98944-owca-g-ow.json](./98944-owca-g-ow.json) |
