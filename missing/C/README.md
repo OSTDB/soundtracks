@@ -707,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CanvasCraft | 332241 | [332241-canvascraft.json](./332241-canvascraft.json) |
 | Canyon Bomber | 17017 | [17017-canyon-bomber.json](./17017-canyon-bomber.json) |
 | Canyon Miner: Minecart Rush | 233110 | [233110-canyon-miner-minecart-rush.json](./233110-canyon-miner-minecart-rush.json) |
+| Canyon of Outlaws | 343402 | [343402-canyon-of-outlaws.json](./343402-canyon-of-outlaws.json) |
 | Canyon Rush | 291619 | [291619-canyon-rush.json](./291619-canyon-rush.json) |
 | Canyon Watch | 266264 | [266264-canyon-watch.json](./266264-canyon-watch.json) |
 | CanYouTilt | 41488 | [41488-canyoutilt.json](./41488-canyoutilt.json) |
@@ -1249,6 +1250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carmen Sandiego: To Steal or Not to Steal | 256843 | [256843-carmen-sandiego-to-steal-or-not-to-steal.json](./256843-carmen-sandiego-to-steal-or-not-to-steal.json) |
 | Carmen Sandiego's Great Chase Through Time | 19426 | [19426-carmen-sandiegos-great-chase-through-time.json](./19426-carmen-sandiegos-great-chase-through-time.json) |
 | Carmen Sandiego's Think Quick Challenge | 66607 | [66607-carmen-sandiegos-think-quick-challenge.json](./66607-carmen-sandiegos-think-quick-challenge.json) |
+| Carmen's World Orchestra | 343379 | [343379-carmens-world-orchestra.json](./343379-carmens-world-orchestra.json) |
 | Carmine Impact | 142318 | [142318-carmine-impact.json](./142318-carmine-impact.json) |
 | Carminia | 153385 | [153385-carminia.json](./153385-carminia.json) |
 | Carnage | 170831 | [170831-carnage.json](./170831-carnage.json) |
@@ -2999,6 +3001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chef Boyardee Can Simulator | 242507 | [242507-chef-boyardee-can-simulator.json](./242507-chef-boyardee-can-simulator.json) |
 | Chef Capybara | 253996 | [253996-chef-capybara.json](./253996-chef-capybara.json) |
 | Chef Curry | 113849 | [113849-chef-curry.json](./113849-chef-curry.json) |
+| Chef Leo's Creative Kitchen | 343378 | [343378-chef-leos-creative-kitchen.json](./343378-chef-leos-creative-kitchen.json) |
 | Chef Life: A Restaurant Simulator | 191698 | [191698-chef-life-a-restaurant-simulator.json](./191698-chef-life-a-restaurant-simulator.json) |
 | Chef Life: A Restaurant Simulator - Al Forno Pack | 242489 | [242489-chef-life-a-restaurant-simulator-al-forno-pack.json](./242489-chef-life-a-restaurant-simulator-al-forno-pack.json) |
 | Chef Life: A Restaurant Simulator - Tokyo Delight | 295348 | [295348-chef-life-a-restaurant-simulator-tokyo-delight.json](./295348-chef-life-a-restaurant-simulator-tokyo-delight.json) |
