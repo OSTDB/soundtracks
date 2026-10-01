@@ -3015,6 +3015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze: Subject 360 - Collector's Edition | 32785 | [32785-maze-subject-360-collectors-edition.json](./32785-maze-subject-360-collectors-edition.json) |
 | Mazebert TD | 207848 | [207848-mazebert-td.json](./207848-mazebert-td.json) |
 | MazeBrew | 242771 | [242771-mazebrew.json](./242771-mazebrew.json) |
+| MazeCraft | 365217 | [365217-mazecraft.json](./365217-mazecraft.json) |
 | MazeFinger | 79863 | [79863-mazefinger.json](./79863-mazefinger.json) |
 | Mazeing | 306384 | [306384-mazeing.json](./306384-mazeing.json) |
 | Mazelit: Rolling With Style | 295346 | [295346-mazelit-rolling-with-style.json](./295346-mazelit-rolling-with-style.json) |
@@ -4702,6 +4703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro Exodus: Enhanced Edition | 143292 | [143292-metro-exodus-enhanced-edition.json](./143292-metro-exodus-enhanced-edition.json) |
 | Metro Exodus: Gold Edition | 95059 | [95059-metro-exodus-gold-edition.json](./95059-metro-exodus-gold-edition.json) |
 | Metro Exodus: Sam's Story | 121756 | [121756-metro-exodus-sams-story.json](./121756-metro-exodus-sams-story.json) |
+| Metro Mini Market Simulator | 365228 | [365228-metro-mini-market-simulator.json](./365228-metro-mini-market-simulator.json) |
 | Metro MP | 212211 | [212211-metro-mp.json](./212211-metro-mp.json) |
 | Metro PD: Close to You | 238426 | [238426-metro-pd-close-to-you.json](./238426-metro-pd-close-to-you.json) |
 | Metro Quester | 277887 | [277887-metro-quester.json](./277887-metro-quester.json) |
@@ -5619,6 +5621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MindLess | 128457 | [128457-mindless.json](./128457-mindless.json) |
 | Mindless Running | 33533 | [33533-mindless-running.json](./33533-mindless-running.json) |
 | Mindlock: The Apartment | 275333 | [275333-mindlock-the-apartment.json](./275333-mindlock-the-apartment.json) |
+| MindLoop | 365195 | [365195-mindloop.json](./365195-mindloop.json) |
 | MindMessenger | 342156 | [342156-mindmessenger.json](./342156-mindmessenger.json) |
 | Mindnight | 52260 | [52260-mindnight.json](./52260-mindnight.json) |
 | Minds Define Us | 414511 | [414511-minds-define-us.json](./414511-minds-define-us.json) |
