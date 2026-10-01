@@ -1603,6 +1603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EnchantedGirl | 368676 | [368676-enchantedgirl.json](./368676-enchantedgirl.json) |
 | Enchanter Trilogy | 73789 | [73789-enchanter-trilogy.json](./73789-enchanter-trilogy.json) |
 | Enchanting Mahjong Match | 90097 | [90097-enchanting-mahjong-match.json](./90097-enchanting-mahjong-match.json) |
+| Enchantment 2: Sun's Tear | 337836 | [337836-enchantment-2-suns-tear.json](./337836-enchantment-2-suns-tear.json) |
 | Enchantment Siege | 253966 | [253966-enchantment-siege.json](./253966-enchantment-siege.json) |
 | Encircled | 319977 | [319977-encircled.json](./319977-encircled.json) |
 | Enclave: Shadows of Twilight | 77980 | [77980-enclave-shadows-of-twilight.json](./77980-enclave-shadows-of-twilight.json) |
