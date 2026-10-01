@@ -200,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean Planet | 301811 | [301811-ocean-planet.json](./301811-ocean-planet.json) |
 | Ocean Playground | 341496 | [341496-ocean-playground.json](./341496-ocean-playground.json) |
 | Ocean Protector | 264104 | [264104-ocean-protector.json](./264104-ocean-protector.json) |
+| Ocean Racer | 354583 | [354583-ocean-racer.json](./354583-ocean-racer.json) |
 | Ocean Raft Simulator & Survival | 380706 | [380706-ocean-raft-simulator-and-survival.json](./380706-ocean-raft-simulator-and-survival.json) |
 | Ocean Riders | 201682 | [201682-ocean-riders.json](./201682-ocean-riders.json) |
 | Ocean Runner | 58776 | [58776-ocean-runner.json](./58776-ocean-runner.json) |
@@ -766,6 +767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olympic Games Tokyo 2020: The Official Video Game | 116797 | [116797-olympic-games-tokyo-2020-the-official-video-game.json](./116797-olympic-games-tokyo-2020-the-official-video-game.json) |
 | Olympic Gold: Barcelona '92 | 46266 | [46266-olympic-gold-barcelona-92.json](./46266-olympic-gold-barcelona-92.json) |
 | Olympics VR | 75942 | [75942-olympics-vr.json](./75942-olympics-vr.json) |
+| Olympimania | 354592 | [354592-olympimania.json](./354592-olympimania.json) |
 | Olympique de Marseille Club Football 2005 | 267907 | [267907-olympique-de-marseille-club-football-2005.json](./267907-olympique-de-marseille-club-football-2005.json) |
 | Olympus 2207 | 219118 | [219118-olympus-2207.json](./219118-olympus-2207.json) |
 | Olympus Rising: Hero Defense | 106964 | [106964-olympus-rising-hero-defense.json](./106964-olympus-rising-hero-defense.json) |
