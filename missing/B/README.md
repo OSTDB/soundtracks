@@ -2618,6 +2618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Up Bowser! | 328609 | [328609-beat-up-bowser.json](./328609-beat-up-bowser.json) |
 | Beat Valkyrie Ixseal | 208300 | [208300-beat-valkyrie-ixseal.json](./208300-beat-valkyrie-ixseal.json) |
 | Beat Vector | 393465 | [393465-beat-vector.json](./393465-beat-vector.json) |
+| Beat Vortex | 352356 | [352356-beat-vortex.json](./352356-beat-vortex.json) |
 | Beat Weaver | 393657 | [393657-beat-weaver.json](./393657-beat-weaver.json) |
 | Beat Your Boss | 389743 | [389743-beat-your-boss.json](./389743-beat-your-boss.json) |
 | Beat, Heart, Beat | 322745 | [322745-beat-heart-beat.json](./322745-beat-heart-beat.json) |
@@ -3984,6 +3985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BirdLingo: A birdsong learning game | 311260 | [311260-birdlingo-a-birdsong-learning-game.json](./311260-birdlingo-a-birdsong-learning-game.json) |
 | Birdo vs. Macintosh | 322104 | [322104-birdo-vs-macintosh.json](./322104-birdo-vs-macintosh.json) |
 | Birdo's Holiday Brawl | 279714 | [279714-birdos-holiday-brawl.json](./279714-birdos-holiday-brawl.json) |
+| Birdoo | 352350 | [352350-birdoo.json](./352350-birdoo.json) |
 | Birds & Balls | 95233 | [95233-birds-and-balls.json](./95233-birds-and-balls.json) |
 | Birds and Blocks | 147926 | [147926-birds-and-blocks.json](./147926-birds-and-blocks.json) |
 | Birds Are Not Real | 416681 | [416681-birds-are-not-real.json](./416681-birds-are-not-real.json) |
@@ -4759,6 +4761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleakmoor House | 371965 | [371965-bleakmoor-house.json](./371965-bleakmoor-house.json) |
 | Bleakshore | 133317 | [133317-bleakshore.json](./133317-bleakshore.json) |
 | Bleakwood | 304574 | [304574-bleakwood.json](./304574-bleakwood.json) |
+| Bleap | 352247 | [352247-bleap.json](./352247-bleap.json) |
 | Bleb | 346792 | [346792-bleb.json](./346792-bleb.json) |
 | Bleed | 9706 | [9706-bleed.json](./9706-bleed.json) |
 | Bleed + Bleed 2: Limited Edition | 167059 | [167059-bleed-bleed-2-limited-edition.json](./167059-bleed-bleed-2-limited-edition.json) |
