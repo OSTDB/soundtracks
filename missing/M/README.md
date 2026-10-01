@@ -1157,6 +1157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Major League Manager | 70126 | [70126-major-league-manager.json](./70126-major-league-manager.json) |
 | Major Maox | 74754 | [74754-major-maox.json](./74754-major-maox.json) |
 | Major Minor 2.0: (Re)Vision | 277924 | [277924-major-minor-2-0-re-vision.json](./277924-major-minor-2-0-re-vision.json) |
+| Major Party Racing | 358994 | [358994-major-party-racing.json](./358994-major-party-racing.json) |
 | Major Title | 40363 | [40363-major-title.json](./40363-major-title.json) |
 | Major Title Tournament Leader | 40362 | [40362-major-title-tournament-leader.json](./40362-major-title-tournament-leader.json) |
 | Major's Heart | 403182 | [403182-majors-heart.json](./403182-majors-heart.json) |
@@ -5557,6 +5558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milthm | 258703 | [258703-milthm.json](./258703-milthm.json) |
 | Milton Cumberdale | 238990 | [238990-milton-cumberdale.json](./238990-milton-cumberdale.json) |
 | Milya[broken] | 150128 | [150128-milya-broken.json](./150128-milya-broken.json) |
+| MiM: Meditation Interactive Matrix | 358995 | [358995-mim-meditation-interactive-matrix.json](./358995-mim-meditation-interactive-matrix.json) |
 | Mima's Magical Wardrobe | 325817 | [325817-mimas-magical-wardrobe.json](./325817-mimas-magical-wardrobe.json) |
 | Mimesis Online | 23453 | [23453-mimesis-online.json](./23453-mimesis-online.json) |
 | Mimi | 202315 | [202315-mimi.json](./202315-mimi.json) |
@@ -7727,6 +7729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Archer Shooting Stars | 177917 | [177917-moon-archer-shooting-stars.json](./177917-moon-archer-shooting-stars.json) |
 | Moon Ball Magic | 41402 | [41402-moon-ball-magic.json](./41402-moon-ball-magic.json) |
 | Moon Blue Legend Remake | 394175 | [394175-moon-blue-legend-remake.json](./394175-moon-blue-legend-remake.json) |
+| Moon Break | 358892 | [358892-moon-break.json](./358892-moon-break.json) |
 | Moon Bride | 376040 | [376040-moon-bride.json](./376040-moon-bride.json) |
 | Moon Buggy | 40930 | [40930-moon-buggy.json](./40930-moon-buggy.json) |
 | Moon Bugs | 57652 | [57652-moon-bugs.json](./57652-moon-bugs.json) |
