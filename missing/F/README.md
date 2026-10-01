@@ -1611,6 +1611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fathomless | 415095 | [415095-fathomless.json](./415095-fathomless.json) |
 | Fathoms | 338287 | [338287-fathoms.json](./338287-fathoms.json) |
 | Fathoms | 415121 | [415121-fathoms.json](./415121-fathoms.json) |
+| Fatigue | 341613 | [341613-fatigue.json](./341613-fatigue.json) |
 | Fatimopolis | 409636 | [409636-fatimopolis.json](./409636-fatimopolis.json) |
 | Fatrifice | 244496 | [244496-fatrifice.json](./244496-fatrifice.json) |
 | Fatrifice 2 | 262941 | [262941-fatrifice-2.json](./262941-fatrifice-2.json) |
@@ -5168,6 +5169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four of a Kind: A Short Horror Anthology | 395831 | [395831-four-of-a-kind-a-short-horror-anthology.json](./395831-four-of-a-kind-a-short-horror-anthology.json) |
 | Four Realms | 19568 | [19568-four-realms.json](./19568-four-realms.json) |
 | Four Seasons - A fan-created Avatar Game | 143730 | [143730-four-seasons-a-fan-created-avatar-game.json](./143730-four-seasons-a-fan-created-avatar-game.json) |
+| Four Seasons Around the World: Autumn in France | 341616 | [341616-four-seasons-around-the-world-autumn-in-france.json](./341616-four-seasons-around-the-world-autumn-in-france.json) |
 | Four Second Forever | 302121 | [302121-four-second-forever.json](./302121-four-second-forever.json) |
 | Four Second Frenzy | 196796 | [196796-four-second-frenzy.json](./196796-four-second-frenzy.json) |
 | Four Smash Hits from Hewson | 97465 | [97465-four-smash-hits-from-hewson.json](./97465-four-smash-hits-from-hewson.json) |
