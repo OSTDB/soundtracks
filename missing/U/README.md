@@ -882,6 +882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underhell | 121214 | [121214-underhell.json](./121214-underhell.json) |
 | Underhell | 144877 | [144877-underhell.json](./144877-underhell.json) |
 | Underhero | 36652 | [36652-underhero.json](./36652-underhero.json) |
+| UnderHolo | 364613 | [364613-underholo.json](./364613-underholo.json) |
 | Underkeep | 389458 | [389458-underkeep.json](./389458-underkeep.json) |
 | Underlab | 262667 | [262667-underlab.json](./262667-underlab.json) |
 | Underland Ambush | 164884 | [164884-underland-ambush.json](./164884-underland-ambush.json) |
