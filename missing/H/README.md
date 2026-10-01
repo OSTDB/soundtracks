@@ -529,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamstörm | 303055 | [303055-hamstorm.json](./303055-hamstorm.json) |
 | HamSumo | 287751 | [287751-hamsumo.json](./287751-hamsumo.json) |
 | Hamurabi | 11302 | [11302-hamurabi.json](./11302-hamurabi.json) |
+| Hamurabi | 366374 | [366374-hamurabi.json](./366374-hamurabi.json) |
 | Hàn Mò Bàyè Miǎnfèi Bǎn | 368019 | [368019-han-mo-baye-mianfei-ban.json](./368019-han-mo-baye-mianfei-ban.json) |
 | Hàn Shì Xióngfēng | 154395 | [154395-han-shi-xiongfeng.json](./154395-han-shi-xiongfeng.json) |
 | Hana | 178033 | [178033-hana.json](./178033-hana.json) |
@@ -4087,6 +4088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hola! Reversi | 248655 | [248655-hola-reversi.json](./248655-hola-reversi.json) |
 | Hold a Second | 241341 | [241341-hold-a-second.json](./241341-hold-a-second.json) |
 | Hold Fast | 13006 | [13006-hold-fast.json](./13006-hold-fast.json) |
+| Hold Me Still | 366353 | [366353-hold-me-still.json](./366353-hold-me-still.json) |
 | Hold My Beer | 51581 | [51581-hold-my-beer.json](./51581-hold-my-beer.json) |
 | Hold My Hand (Or Let Go) | 412537 | [412537-hold-my-hand-or-let-go.json](./412537-hold-my-hand-or-let-go.json) |
 | Hold On | 419843 | [419843-hold-on.json](./419843-hold-on.json) |
@@ -4927,6 +4929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot And Lovely Waifu XXII | 318430 | [318430-hot-and-lovely-waifu-xxii.json](./318430-hot-and-lovely-waifu-xxii.json) |
 | Hot And Lovely XXII | 318431 | [318431-hot-and-lovely-xxii.json](./318431-hot-and-lovely-xxii.json) |
 | Hot And Lovely: Dream | 296911 | [296911-hot-and-lovely-dream.json](./296911-hot-and-lovely-dream.json) |
+| Hot and Lovely: Seduction | 366336 | [366336-hot-and-lovely-seduction.json](./366336-hot-and-lovely-seduction.json) |
 | Hot and Lovely: Seduction Waifu | 384719 | [384719-hot-and-lovely-seduction-waifu.json](./384719-hot-and-lovely-seduction-waifu.json) |
 | Hot And Lovely: Uniform | 262926 | [262926-hot-and-lovely-uniform.json](./262926-hot-and-lovely-uniform.json) |
 | Hot Brass | 129108 | [129108-hot-brass.json](./129108-hot-brass.json) |
