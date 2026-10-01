@@ -1008,6 +1008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Wars | 18946 | [18946-tank-wars.json](./18946-tank-wars.json) |
 | Tank Wars | 85827 | [85827-tank-wars.json](./85827-tank-wars.json) |
 | Tank Warz! | 61609 | [61609-tank-warz.json](./61609-tank-warz.json) |
+| Tank Zero | 372050 | [372050-tank-zero.json](./372050-tank-zero.json) |
 | Tank-O-Box | 78682 | [78682-tank-o-box.json](./78682-tank-o-box.json) |
 | Tank: The M1A1 Abrams Battle Tank Simulation | 90602 | [90602-tank-the-m1a1-abrams-battle-tank-simulation.json](./90602-tank-the-m1a1-abrams-battle-tank-simulation.json) |
 | Tank! Tank! Tank! | 5323 | [5323-tank-tank-tank.json](./5323-tank-tank-tank.json) |
@@ -1201,6 +1202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taphouse VR | 59865 | [59865-taphouse-vr.json](./59865-taphouse-vr.json) |
 | Tapioka Panic | 259829 | [259829-tapioka-panic.json](./259829-tapioka-panic.json) |
 | TapLab | 233088 | [233088-taplab.json](./233088-taplab.json) |
+| TapMazing | 372046 | [372046-tapmazing.json](./372046-tapmazing.json) |
 | Tapocalypse | 30141 | [30141-tapocalypse.json](./30141-tapocalypse.json) |
 | Tapper Basic | 297607 | [297607-tapper-basic.json](./297607-tapper-basic.json) |
 | Tapper World Tour | 66079 | [66079-tapper-world-tour.json](./66079-tapper-world-tour.json) |
@@ -3988,6 +3990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Detective Reaper Invites | 265962 | [265962-the-detective-reaper-invites.json](./265962-the-detective-reaper-invites.json) |
 | The Detectorist Guild | 373609 | [373609-the-detectorist-guild.json](./373609-the-detectorist-guild.json) |
 | The Detroit After | 199123 | [199123-the-detroit-after.json](./199123-the-detroit-after.json) |
+| The Dev: Enter The Blockchain | 372075 | [372075-the-dev-enter-the-blockchain.json](./372075-the-dev-enter-the-blockchain.json) |
 | The Devil & the Deep Blue Sea | 194434 | [194434-the-devil-and-the-deep-blue-sea.json](./194434-the-devil-and-the-deep-blue-sea.json) |
 | The Devil Rais’d the Storm | 349883 | [349883-the-devil-rais-d-the-storm.json](./349883-the-devil-rais-d-the-storm.json) |
 | The Devil Within | 314049 | [314049-the-devil-within.json](./314049-the-devil-within.json) |
@@ -12683,6 +12686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Blooming Soul | 203848 | [203848-touhou-blooming-soul.json](./203848-touhou-blooming-soul.json) |
 | Touhou Cannonball | 111052 | [111052-touhou-cannonball.json](./111052-touhou-cannonball.json) |
 | Touhou Chouseisho: Sapphire Panlogism | 181892 | [181892-touhou-chouseisho-sapphire-panlogism.json](./181892-touhou-chouseisho-sapphire-panlogism.json) |
+| Touhou Chronicles: Tales of the Two Immortals | 372059 | [372059-touhou-chronicles-tales-of-the-two-immortals.json](./372059-touhou-chronicles-tales-of-the-two-immortals.json) |
 | Touhou Danmaku Kagura: Phantasia Lost | 222995 | [222995-touhou-danmaku-kagura-phantasia-lost.json](./222995-touhou-danmaku-kagura-phantasia-lost.json) |
 | Touhou Danmaku Kagura: Phantasia Lost - Extra Song Pack 10 | 351245 | [351245-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-10.json](./351245-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-10.json) |
 | Touhou Danmaku Kagura: Phantasia Lost - Extra Song Pack 11 | 351244 | [351244-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-11.json](./351244-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-11.json) |
@@ -13226,6 +13230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ToyShot VR | 112982 | [112982-toyshot-vr.json](./112982-toyshot-vr.json) |
 | Toz | 124200 | [124200-toz.json](./124200-toz.json) |
 | TP Bullet | 289930 | [289930-tp-bullet.json](./289930-tp-bullet.json) |
+| TPK | 372077 | [372077-tpk.json](./372077-tpk.json) |
 | Tplosjons | 138128 | [138128-tplosjons.json](./138128-tplosjons.json) |
 | TPM Football | 151536 | [151536-tpm-football.json](./151536-tpm-football.json) |
 | TR-12 | 295351 | [295351-tr-12.json](./295351-tr-12.json) |
