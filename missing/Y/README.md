@@ -418,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoot Tower | 7520 | [7520-yoot-tower.json](./7520-yoot-tower.json) |
 | Yopaz Icestar | 330267 | [330267-yopaz-icestar.json](./330267-yopaz-icestar.json) |
 | Yora Adventures | 141103 | [141103-yora-adventures.json](./141103-yora-adventures.json) |
+| Yoram: Question Arc | 348899 | [348899-yoram-question-arc.json](./348899-yoram-question-arc.json) |
 | Yore VR | 26140 | [26140-yore-vr.json](./26140-yore-vr.json) |
 | Yorg | 121719 | [121719-yorg.json](./121719-yorg.json) |
 | Yorg.io | 101699 | [101699-yorg-io.json](./101699-yorg-io.json) |
