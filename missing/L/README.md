@@ -2870,6 +2870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Number Daycare: Learn, Count, Say, Play for Toddlers | 409538 | [409538-little-number-daycare-learn-count-say-play-for-toddlers.json](./409538-little-number-daycare-learn-count-say-play-for-toddlers.json) |
 | Little Old One and the Witch | 376548 | [376548-little-old-one-and-the-witch.json](./376548-little-old-one-and-the-witch.json) |
 | Little One | 399702 | [399702-little-one.json](./399702-little-one.json) |
+| Little Otter's Fishing Life | 386944 | [386944-little-otters-fishing-life.json](./386944-little-otters-fishing-life.json) |
 | Little Panda's Camping Trip | 105963 | [105963-little-pandas-camping-trip.json](./105963-little-pandas-camping-trip.json) |
 | Little Panda's Candy Shop | 231932 | [231932-little-pandas-candy-shop.json](./231932-little-pandas-candy-shop.json) |
 | Little Panda's Jewel Quest | 103662 | [103662-little-pandas-jewel-quest.json](./103662-little-pandas-jewel-quest.json) |
@@ -3535,6 +3536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loopquarium | 410915 | [410915-loopquarium.json](./410915-loopquarium.json) |
 | Loopr | 391163 | [391163-loopr.json](./391163-loopr.json) |
 | Loopstructor | 296978 | [296978-loopstructor.json](./296978-loopstructor.json) |
+| Looptide | 386912 | [386912-looptide.json](./386912-looptide.json) |
 | LoopWorlds Free | 106761 | [106761-loopworlds-free.json](./106761-loopworlds-free.json) |
 | Loopy Ball | 239290 | [239290-loopy-ball.json](./239290-loopy-ball.json) |
 | Loopy Blocks | 254151 | [254151-loopy-blocks.json](./254151-loopy-blocks.json) |
@@ -4405,6 +4407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Punk | 402372 | [402372-lucky-punk.json](./402372-lucky-punk.json) |
 | Lucky Pyramid Solitaire | 87295 | [87295-lucky-pyramid-solitaire.json](./87295-lucky-pyramid-solitaire.json) |
 | Lucky Rabbit Club | 380997 | [380997-lucky-rabbit-club.json](./380997-lucky-rabbit-club.json) |
+| Lucky Season: King of Fools - Collector's Edition | 386926 | [386926-lucky-season-king-of-fools-collectors-edition.json](./386926-lucky-season-king-of-fools-collectors-edition.json) |
 | Lucky Shelter | 373106 | [373106-lucky-shelter.json](./373106-lucky-shelter.json) |
 | Lucky Shot | 102968 | [102968-lucky-shot.json](./102968-lucky-shot.json) |
 | Lucky Shot | 303107 | [303107-lucky-shot.json](./303107-lucky-shot.json) |
