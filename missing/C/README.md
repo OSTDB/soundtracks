@@ -1946,6 +1946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catastrophe Crow | 304149 | [304149-catastrophe-crow.json](./304149-catastrophe-crow.json) |
 | Catastrophe Escape | 101935 | [101935-catastrophe-escape.json](./101935-catastrophe-escape.json) |
 | Catastrophic Cat Command | 309514 | [309514-catastrophic-cat-command.json](./309514-catastrophic-cat-command.json) |
+| Catatattack! | 368083 | [368083-catatattack.json](./368083-catatattack.json) |
 | Catbo | 311477 | [311477-catbo.json](./311477-catbo.json) |
 | CatBun Idle | 405625 | [405625-catbun-idle.json](./405625-catbun-idle.json) |
 | Catburglar | 406789 | [406789-catburglar.json](./406789-catburglar.json) |
@@ -3801,6 +3802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chroma Blast | 43498 | [43498-chroma-blast.json](./43498-chroma-blast.json) |
 | Chroma Cannon | 136245 | [136245-chroma-cannon.json](./136245-chroma-cannon.json) |
 | Chroma Chronicles | 194450 | [194450-chroma-chronicles.json](./194450-chroma-chronicles.json) |
+| Chroma Deluxe: Sexy Hentai Girls | 368062 | [368062-chroma-deluxe-sexy-hentai-girls.json](./368062-chroma-deluxe-sexy-hentai-girls.json) |
 | Chroma Match | 102822 | [102822-chroma-match.json](./102822-chroma-match.json) |
 | Chroma Quaternion: Experience & RP x2 | 171029 | [171029-chroma-quaternion-experience-and-rp-x2.json](./171029-chroma-quaternion-experience-and-rp-x2.json) |
 | Chroma Quaternion: Experience x3 | 171030 | [171030-chroma-quaternion-experience-x3.json](./171030-chroma-quaternion-experience-x3.json) |
@@ -8097,6 +8099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Night | 403099 | [403099-crimson-night.json](./403099-crimson-night.json) |
 | Crimson Oath | 373152 | [373152-crimson-oath.json](./373152-crimson-oath.json) |
 | Crimson Realms: Relics of the Forgotten World | 389959 | [389959-crimson-realms-relics-of-the-forgotten-world.json](./389959-crimson-realms-relics-of-the-forgotten-world.json) |
+| Crimson Rest | 368066 | [368066-crimson-rest.json](./368066-crimson-rest.json) |
 | Crimson Room | 247536 | [247536-crimson-room.json](./247536-crimson-room.json) |
 | Crimson Room: Decade | 25809 | [25809-crimson-room-decade.json](./25809-crimson-room-decade.json) |
 | Crimson Room: Reverse | 67281 | [67281-crimson-room-reverse.json](./67281-crimson-room-reverse.json) |
@@ -9287,6 +9290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custom Beat Battle: Draglade 2 | 66783 | [66783-custom-beat-battle-draglade-2.json](./66783-custom-beat-battle-draglade-2.json) |
 | Custom Maid 3D | 191694 | [191694-custom-maid-3d.json](./191694-custom-maid-3d.json) |
 | Custom Mario Maker | 294782 | [294782-custom-mario-maker.json](./294782-custom-mario-maker.json) |
+| Custom Mate 2 | 368064 | [368064-custom-mate-2.json](./368064-custom-mate-2.json) |
 | Custom Mech Wars: EDF Collab Edition | 268007 | [268007-custom-mech-wars-edf-collab-edition.json](./268007-custom-mech-wars-edf-collab-edition.json) |
 | Custom Mech Wars: Ultimate Edition | 268008 | [268008-custom-mech-wars-ultimate-edition.json](./268008-custom-mech-wars-ultimate-edition.json) |
 | Custom Monsters | 222498 | [222498-custom-monsters.json](./222498-custom-monsters.json) |
@@ -9345,6 +9349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Animals Memory Card Game | 153455 | [153455-cute-animals-memory-card-game.json](./153455-cute-animals-memory-card-game.json) |
 | Cute Army: A Cat Story | 176448 | [176448-cute-army-a-cat-story.json](./176448-cute-army-a-cat-story.json) |
 | Cute Away: Paws Caretaker Simulator | 390216 | [390216-cute-away-paws-caretaker-simulator.json](./390216-cute-away-paws-caretaker-simulator.json) |
+| Cute Bar | 368063 | [368063-cute-bar.json](./368063-cute-bar.json) |
 | Cute Bendy and Projectionist | 106520 | [106520-cute-bendy-and-projectionist.json](./106520-cute-bendy-and-projectionist.json) |
 | Cute Bendy and The Projectionist | 279065 | [279065-cute-bendy-and-the-projectionist.json](./279065-cute-bendy-and-the-projectionist.json) |
 | Cute Bite | 152325 | [152325-cute-bite.json](./152325-cute-bite.json) |
@@ -9357,6 +9362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Cats Slide | 277932 | [277932-cute-cats-slide.json](./277932-cute-cats-slide.json) |
 | Cute Cock Clicker | 218151 | [218151-cute-cock-clicker.json](./218151-cute-cock-clicker.json) |
 | Cute Critters Pet Kitty | 278488 | [278488-cute-critters-pet-kitty.json](./278488-cute-critters-pet-kitty.json) |
+| Cute Cute Cuties | 368065 | [368065-cute-cute-cuties.json](./368065-cute-cute-cuties.json) |
 | Cute Demon Crashers! | 58801 | [58801-cute-demon-crashers.json](./58801-cute-demon-crashers.json) |
 | Cute Diana | 402493 | [402493-cute-diana.json](./402493-cute-diana.json) |
 | Cute Dogs Slide | 305936 | [305936-cute-dogs-slide.json](./305936-cute-dogs-slide.json) |
@@ -9600,6 +9606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberscape | 235201 | [235201-cyberscape.json](./235201-cyberscape.json) |
 | CyberSeas | 324716 | [324716-cyberseas.json](./324716-cyberseas.json) |
 | Cybersecurity Ethics Scavenger Hunt | 257397 | [257397-cybersecurity-ethics-scavenger-hunt.json](./257397-cybersecurity-ethics-scavenger-hunt.json) |
+| Cybersex Chronicles [18+] | 368068 | [368068-cybersex-chronicles-18.json](./368068-cybersex-chronicles-18.json) |
 | Cybersex: Lust Story | 295356 | [295356-cybersex-lust-story.json](./295356-cybersex-lust-story.json) |
 | Cybershow | 141762 | [141762-cybershow.json](./141762-cybershow.json) |
 | Cyberside Picnic | 252249 | [252249-cyberside-picnic.json](./252249-cyberside-picnic.json) |
