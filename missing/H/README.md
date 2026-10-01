@@ -4060,6 +4060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hjarta | 169985 | [169985-hjarta.json](./169985-hjarta.json) |
 | HK Project | 57890 | [57890-hk-project.json](./57890-hk-project.json) |
 | Hlina | 244996 | [244996-hlina.json](./244996-hlina.json) |
+| Hlína | 335501 | [335501-hlina.json](./335501-hlina.json) |
 | Hmph! Hmph! Yowai | 289454 | [289454-hmph-hmph-yowai.json](./289454-hmph-hmph-yowai.json) |
 | Ho Ho Ho Sokoban | 411131 | [411131-ho-ho-ho-sokoban.json](./411131-ho-ho-ho-sokoban.json) |
 | Ho-Ho-Home Invasion | 141655 | [141655-ho-ho-home-invasion.json](./141655-ho-ho-home-invasion.json) |
@@ -5721,6 +5722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Horace | 12954 | [12954-hungry-horace.json](./12954-hungry-horace.json) |
 | Hungry Horrors | 315343 | [315343-hungry-horrors.json](./315343-hungry-horrors.json) |
 | Hungry Humphrey: Eat The World | 275612 | [275612-hungry-humphrey-eat-the-world.json](./275612-hungry-humphrey-eat-the-world.json) |
+| Hungry Hungry Hippos | 335404 | [335404-hungry-hungry-hippos.json](./335404-hungry-hungry-hippos.json) |
 | Hungry in Dungeon | 329660 | [329660-hungry-in-dungeon.json](./329660-hungry-in-dungeon.json) |
 | Hungry Knight! | 128651 | [128651-hungry-knight.json](./128651-hungry-knight.json) |
 | Hungry Lamu | 219023 | [219023-hungry-lamu.json](./219023-hungry-lamu.json) |
