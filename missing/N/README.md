@@ -971,6 +971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko | 78965 | [78965-neko.json](./78965-neko.json) |
 | Neko Atsume VR | 68317 | [68317-neko-atsume-vr.json](./68317-neko-atsume-vr.json) |
 | Neko Bento | 324136 | [324136-neko-bento.json](./324136-neko-bento.json) |
+| Neko Café Stories | 369697 | [369697-neko-cafe-stories.json](./369697-neko-cafe-stories.json) |
 | Neko Cosmo Police | 209482 | [209482-neko-cosmo-police.json](./209482-neko-cosmo-police.json) |
 | Neko Dai Suki! | 45257 | [45257-neko-dai-suki.json](./45257-neko-dai-suki.json) |
 | Neko Daisuki! | 19668 | [19668-neko-daisuki.json](./19668-neko-daisuki.json) |
@@ -1417,6 +1418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neural Nest | 244206 | [244206-neural-nest.json](./244206-neural-nest.json) |
 | Neural Requiem | 389662 | [389662-neural-requiem.json](./389662-neural-requiem.json) |
 | Neural Rot | 374239 | [374239-neural-rot.json](./374239-neural-rot.json) |
+| Neural Tanks | 369702 | [369702-neural-tanks.json](./369702-neural-tanks.json) |
 | Neuralimina | 382215 | [382215-neuralimina.json](./382215-neuralimina.json) |
 | Neuro | 141857 | [141857-neuro.json](./141857-neuro.json) |
 | Neuro Hacker | 278733 | [278733-neuro-hacker.json](./278733-neuro-hacker.json) |
