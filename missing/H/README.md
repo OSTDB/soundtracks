@@ -2041,6 +2041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellmet: Seven Circles Down | 278432 | [278432-hellmet-seven-circles-down.json](./278432-hellmet-seven-circles-down.json) |
 | HellMoo | 92054 | [92054-hellmoo.json](./92054-hellmoo.json) |
 | Hellmouth Pizza | 300812 | [300812-hellmouth-pizza.json](./300812-hellmouth-pizza.json) |
+| Hello | 340539 | [340539-hello.json](./340539-hello.json) |
 | Hello Again | 207361 | [207361-hello-again.json](./207361-hello-again.json) |
 | Hello Bendy Machine 5 Nights | 104126 | [104126-hello-bendy-machine-5-nights.json](./104126-hello-bendy-machine-5-nights.json) |
 | Hello Benny - Horror Machine | 106379 | [106379-hello-benny-horror-machine.json](./106379-hello-benny-horror-machine.json) |
@@ -2431,6 +2432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Nurse | 296945 | [296945-hentai-nurse.json](./296945-hentai-nurse.json) |
 | Hentai Nurse | 322720 | [322720-hentai-nurse.json](./322720-hentai-nurse.json) |
 | Hentai Octoq Puzzle | 368570 | [368570-hentai-octoq-puzzle.json](./368570-hentai-octoq-puzzle.json) |
+| Hentai Office | 340442 | [340442-hentai-office.json](./340442-hentai-office.json) |
 | Hentai Office Enigma | 389058 | [389058-hentai-office-enigma.json](./389058-hentai-office-enigma.json) |
 | Hentai Ouji to Warawanai Neko. | 62719 | [62719-hentai-ouji-to-warawanai-neko.json](./62719-hentai-ouji-to-warawanai-neko.json) |
 | Hentai Paradise Vol. 2 | 313153 | [313153-hentai-paradise-vol-2.json](./313153-hentai-paradise-vol-2.json) |
@@ -2439,6 +2441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Party: Secret Garden | 371251 | [371251-hentai-party-secret-garden.json](./371251-hentai-party-secret-garden.json) |
 | Hentai Party: Summer Paradise | 371249 | [371249-hentai-party-summer-paradise.json](./371249-hentai-party-summer-paradise.json) |
 | Hentai Pazu | 219039 | [219039-hentai-pazu.json](./219039-hentai-pazu.json) |
+| Hentai Phoebe | 340443 | [340443-hentai-phoebe.json](./340443-hentai-phoebe.json) |
 | Hentai Photo: Kaneshon | 362368 | [362368-hentai-photo-kaneshon.json](./362368-hentai-photo-kaneshon.json) |
 | Hentai Photo: Kuchinashi | 364089 | [364089-hentai-photo-kuchinashi.json](./364089-hentai-photo-kuchinashi.json) |
 | Hentai Photo: Sakura | 356820 | [356820-hentai-photo-sakura.json](./356820-hentai-photo-sakura.json) |
@@ -2459,6 +2462,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Puzzle: Clarise | 289439 | [289439-hentai-puzzle-clarise.json](./289439-hentai-puzzle-clarise.json) |
 | Hentai Puzzle: Doki Doki Dress-Up | 420690 | [420690-hentai-puzzle-doki-doki-dress-up.json](./420690-hentai-puzzle-doki-doki-dress-up.json) |
 | Hentai Puzzle: Girls | 304562 | [304562-hentai-puzzle-girls.json](./304562-hentai-puzzle-girls.json) |
+| Hentai Puzzle: Lustful Legends | 340444 | [340444-hentai-puzzle-lustful-legends.json](./340444-hentai-puzzle-lustful-legends.json) |
+| Hentai Puzzle: Naughty Nurses | 340445 | [340445-hentai-puzzle-naughty-nurses.json](./340445-hentai-puzzle-naughty-nurses.json) |
+| Hentai Puzzle: Tropical Seduction | 340446 | [340446-hentai-puzzle-tropical-seduction.json](./340446-hentai-puzzle-tropical-seduction.json) |
+| Hentai Puzzle: Winter Passion | 340447 | [340447-hentai-puzzle-winter-passion.json](./340447-hentai-puzzle-winter-passion.json) |
 | Hentai Queens | 149431 | [149431-hentai-queens.json](./149431-hentai-queens.json) |
 | Hentai Rika | 340448 | [340448-hentai-rika.json](./340448-hentai-rika.json) |
 | Hentai Room | 230781 | [230781-hentai-room.json](./230781-hentai-room.json) |
@@ -2754,6 +2761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Stickman | 346653 | [346653-hero-stickman.json](./346653-hero-stickman.json) |
 | Hero Tactics | 181921 | [181921-hero-tactics.json](./181921-hero-tactics.json) |
 | Hero Tower | 132746 | [132746-hero-tower.json](./132746-hero-tower.json) |
+| Hero Tower Wars | 340537 | [340537-hero-tower-wars.json](./340537-hero-tower-wars.json) |
 | Hero Wars | 140571 | [140571-hero-wars.json](./140571-hero-wars.json) |
 | Hero Well | 249200 | [249200-hero-well.json](./249200-hero-well.json) |
 | Hero Wheels | 213343 | [213343-hero-wheels.json](./213343-hero-wheels.json) |
@@ -6018,6 +6026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Street Kart | 42206 | [42206-hyper-street-kart.json](./42206-hyper-street-kart.json) |
 | Hyper Strike | 151179 | [151179-hyper-strike.json](./151179-hyper-strike.json) |
 | Hyper Survive 3D | 303042 | [303042-hyper-survive-3d.json](./303042-hyper-survive-3d.json) |
+| Hyper Tag | 340498 | [340498-hyper-tag.json](./340498-hyper-tag.json) |
 | Hyper Tank | 94672 | [94672-hyper-tank.json](./94672-hyper-tank.json) |
 | Hyper Team Recon | 138209 | [138209-hyper-team-recon.json](./138209-hyper-team-recon.json) |
 | Hyper Thruster | 409534 | [409534-hyper-thruster.json](./409534-hyper-thruster.json) |
