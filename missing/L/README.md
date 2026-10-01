@@ -3294,6 +3294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logi Box | 339630 | [339630-logi-box.json](./339630-logi-box.json) |
 | Logic Bombs | 353412 | [353412-logic-bombs.json](./353412-logic-bombs.json) |
 | Logic Circuit: Marble Puzzle | 210854 | [210854-logic-circuit-marble-puzzle.json](./210854-logic-circuit-marble-puzzle.json) |
+| Logic Cubes | 381792 | [381792-logic-cubes.json](./381792-logic-cubes.json) |
 | Logic Games Bundle | 242075 | [242075-logic-games-bundle.json](./242075-logic-games-bundle.json) |
 | Logic Island | 256290 | [256290-logic-island.json](./256290-logic-island.json) |
 | Logic Mahjong Souryuu | 326087 | [326087-logic-mahjong-souryuu.json](./326087-logic-mahjong-souryuu.json) |
@@ -4224,6 +4225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LoveCrafting | 180797 | [180797-lovecrafting.json](./180797-lovecrafting.json) |
 | Lovefield General: Back to Work | 105351 | [105351-lovefield-general-back-to-work.json](./105351-lovefield-general-back-to-work.json) |
 | LoveKami -Divinity Stage- | 26541 | [26541-lovekami-divinity-stage.json](./26541-lovekami-divinity-stage.json) |
+| LoveKami Trilogy | 381756 | [381756-lovekami-trilogy.json](./381756-lovekami-trilogy.json) |
 | Loveland | 144917 | [144917-loveland.json](./144917-loveland.json) |
 | Loveless cat | 111182 | [111182-loveless-cat.json](./111182-loveless-cat.json) |
 | Loveless on Lockdown | 177869 | [177869-loveless-on-lockdown.json](./177869-loveless-on-lockdown.json) |
