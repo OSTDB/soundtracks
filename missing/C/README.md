@@ -499,6 +499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camplandia | 249872 | [249872-camplandia.json](./249872-camplandia.json) |
 | CampNight | 223502 | [223502-campnight.json](./223502-campnight.json) |
 | Campus | 24998 | [24998-campus.json](./24998-campus.json) |
+| Campus Confidential | 384175 | [384175-campus-confidential.json](./384175-campus-confidential.json) |
 | Campwood | 395096 | [395096-campwood.json](./395096-campwood.json) |
 | Can Androids Pray: Blue | 125388 | [125388-can-androids-pray-blue.json](./125388-can-androids-pray-blue.json) |
 | Can Androids Survive | 167709 | [167709-can-androids-survive.json](./167709-can-androids-survive.json) |
@@ -2901,6 +2902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheese Runner | 209474 | [209474-cheese-runner.json](./209474-cheese-runner.json) |
 | Cheese Terminator | 105404 | [105404-cheese-terminator.json](./105404-cheese-terminator.json) |
 | Cheesecake Cult: Unholy Feast | 275579 | [275579-cheesecake-cult-unholy-feast.json](./275579-cheesecake-cult-unholy-feast.json) |
+| Cheeseland Mistery | 384176 | [384176-cheeseland-mistery.json](./384176-cheeseland-mistery.json) |
 | CheeseLords | 378440 | [378440-cheeselords.json](./378440-cheeselords.json) |
 | Cheesequest | 213022 | [213022-cheesequest.json](./213022-cheesequest.json) |
 | Cheesey Sponge | 207909 | [207909-cheesey-sponge.json](./207909-cheesey-sponge.json) |
@@ -4522,6 +4524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claude Monet: The Water Lily Obsession | 117638 | [117638-claude-monet-the-water-lily-obsession.json](./117638-claude-monet-the-water-lily-obsession.json) |
 | Cláudio | 412962 | [412962-claudio.json](./412962-claudio.json) |
 | Claus Adventure | 187371 | [187371-claus-adventure.json](./187371-claus-adventure.json) |
+| Claustromania | 384170 | [384170-claustromania.json](./384170-claustromania.json) |
 | Claustrophobia | 190079 | [190079-claustrophobia.json](./190079-claustrophobia.json) |
 | Claustrophobia | 268184 | [268184-claustrophobia.json](./268184-claustrophobia.json) |
 | Claustrophobia | 320290 | [320290-claustrophobia.json](./320290-claustrophobia.json) |
