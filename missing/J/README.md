@@ -587,6 +587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Moto 3 | 45040 | [45040-jet-moto-3.json](./45040-jet-moto-3.json) |
 | Jet Pack | 84273 | [84273-jet-pack.json](./84273-jet-pack.json) |
 | Jet Pilot | 330740 | [330740-jet-pilot.json](./330740-jet-pilot.json) |
+| Jet Race | 359462 | [359462-jet-race.json](./359462-jet-race.json) |
 | Jet Racing Extreme | 34903 | [34903-jet-racing-extreme.json](./34903-jet-racing-extreme.json) |
 | Jet Riders | 209997 | [209997-jet-riders.json](./209997-jet-riders.json) |
 | Jet Run: City Defender | 58172 | [58172-jet-run-city-defender.json](./58172-jet-run-city-defender.json) |
