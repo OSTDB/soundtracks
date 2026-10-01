@@ -1726,6 +1726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReCoil | 295911 | [295911-recoil.json](./295911-recoil.json) |
 | Recoil Cluck | 290962 | [290962-recoil-cluck.json](./290962-recoil-cluck.json) |
 | Recoil Gunner | 208019 | [208019-recoil-gunner.json](./208019-recoil-gunner.json) |
+| Recoil Rush | 360151 | [360151-recoil-rush.json](./360151-recoil-rush.json) |
 | Recoil vs. The World | 226975 | [226975-recoil-vs-the-world.json](./226975-recoil-vs-the-world.json) |
 | Recoiled | 149498 | [149498-recoiled.json](./149498-recoiled.json) |
 | Recolit | 152179 | [152179-recolit.json](./152179-recolit.json) |
@@ -3192,6 +3193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revival | 399205 | [399205-revival.json](./399205-revival.json) |
 | Revival and Exploration | 252130 | [252130-revival-and-exploration.json](./252130-revival-and-exploration.json) |
 | Revival AO | 212245 | [212245-revival-ao.json](./212245-revival-ao.json) |
+| Revival Chase | 360122 | [360122-revival-chase.json](./360122-revival-chase.json) |
 | Revival of the Road | 83496 | [83496-revival-of-the-road.json](./83496-revival-of-the-road.json) |
 | Revival Xanadu | 260750 | [260750-revival-xanadu.json](./260750-revival-xanadu.json) |
 | Revival Xanadu 2: Remix | 260751 | [260751-revival-xanadu-2-remix.json](./260751-revival-xanadu-2-remix.json) |
@@ -5308,6 +5310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room Rules | 382951 | [382951-room-rules.json](./382951-room-rules.json) |
 | Room Ten | 31181 | [31181-room-ten.json](./31181-room-ten.json) |
 | Room with Lina | 370861 | [370861-room-with-lina.json](./370861-room-with-lina.json) |
+| Room XIII | 360042 | [360042-room-xiii.json](./360042-room-xiii.json) |
 | Room231 | 297206 | [297206-room231.json](./297206-room231.json) |
 | Roomates | 82053 | [82053-roomates.json](./82053-roomates.json) |
 | Roomba May Cry | 185116 | [185116-roomba-may-cry.json](./185116-roomba-may-cry.json) |
