@@ -1599,6 +1599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome, [Employee Name] | 402286 | [402286-welcome-employee-name.json](./402286-welcome-employee-name.json) |
 | Welcome, Sharehouse! | 347369 | [347369-welcome-sharehouse.json](./347369-welcome-sharehouse.json) |
 | Weldon | 175888 | [175888-weldon.json](./175888-weldon.json) |
+| Welehola | 378355 | [378355-welehola.json](./378355-welehola.json) |
 | Welkin Road | 18684 | [18684-welkin-road.json](./18684-welkin-road.json) |
 | Well Dweller | 360075 | [360075-well-dweller.json](./360075-well-dweller.json) |
 | Well Keeper | 368649 | [368649-well-keeper.json](./368649-well-keeper.json) |
@@ -2360,6 +2361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Widgets Odyssey | 42788 | [42788-widgets-odyssey.json](./42788-widgets-odyssey.json) |
 | Widgets Odyssey 2 | 42787 | [42787-widgets-odyssey-2.json](./42787-widgets-odyssey-2.json) |
 | Widow in the Endless Labyrinth | 267104 | [267104-widow-in-the-endless-labyrinth.json](./267104-widow-in-the-endless-labyrinth.json) |
+| Wielders of the Essence | 378342 | [378342-wielders-of-the-essence.json](./378342-wielders-of-the-essence.json) |
 | Wieldo | 214155 | [214155-wieldo.json](./214155-wieldo.json) |
 | Wienne | 127373 | [127373-wienne.json](./127373-wienne.json) |
 | Wife Delivery R: We Go All the Way! | 83219 | [83219-wife-delivery-r-we-go-all-the-way.json](./83219-wife-delivery-r-we-go-all-the-way.json) |
@@ -3693,6 +3695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordZap | 117962 | [117962-wordzap.json](./117962-wordzap.json) |
 | Work Beasts | 304023 | [304023-work-beasts.json](./304023-work-beasts.json) |
 | Work from Home | 218717 | [218717-work-from-home.json](./218717-work-from-home.json) |
+| Work Girl | 378359 | [378359-work-girl.json](./378359-work-girl.json) |
 | Work Inc. | 393821 | [393821-work-inc.json](./393821-work-inc.json) |
 | Work Life Balance | 372470 | [372470-work-life-balance.json](./372470-work-life-balance.json) |
 | Work Till Die | 391060 | [391060-work-till-die.json](./391060-work-till-die.json) |
@@ -4338,6 +4341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Writer: Chapter 1 | 327616 | [327616-writer-chapter-1.json](./327616-writer-chapter-1.json) |
 | Writer's Block | 80234 | [80234-writers-block.json](./80234-writers-block.json) |
 | Writhe | 213466 | [213466-writhe.json](./213466-writhe.json) |
+| Writhing | 378356 | [378356-writhing.json](./378356-writhing.json) |
 | WrldCraft | 120169 | [120169-wrldcraft.json](./120169-wrldcraft.json) |
 | wrldDivision | 128544 | [128544-wrlddivision.json](./128544-wrlddivision.json) |
 | wrldDivision | 181379 | [181379-wrlddivision.json](./181379-wrlddivision.json) |
