@@ -551,6 +551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh Mummy | 13022 | [13022-oh-mummy.json](./13022-oh-mummy.json) |
 | Oh My Cod!!: We Mer-Made For Each Other! | 302119 | [302119-oh-my-cod-we-mer-made-for-each-other.json](./302119-oh-my-cod-we-mer-made-for-each-other.json) |
 | Oh My Dog | 362890 | [362890-oh-my-dog.json](./362890-oh-my-dog.json) |
+| Oh My Dollz | 351160 | [351160-oh-my-dollz.json](./351160-oh-my-dollz.json) |
 | Oh My Doug! | 403816 | [403816-oh-my-doug.json](./403816-oh-my-doug.json) |
 | Oh My Goat | 51172 | [51172-oh-my-goat.json](./51172-oh-my-goat.json) |
 | Oh My God, Look At This Knight | 76640 | [76640-oh-my-god-look-at-this-knight.json](./76640-oh-my-god-look-at-this-knight.json) |
@@ -1145,6 +1146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Last Sacrifice | 385342 | [385342-one-last-sacrifice.json](./385342-one-last-sacrifice.json) |
 | One Last Star Trip | 342073 | [342073-one-last-star-trip.json](./342073-one-last-star-trip.json) |
 | One Last Time | 226737 | [226737-one-last-time.json](./226737-one-last-time.json) |
+| One Last Time | 351173 | [351173-one-last-time.json](./351173-one-last-time.json) |
 | One Late Night: Mobile | 102625 | [102625-one-late-night-mobile.json](./102625-one-late-night-mobile.json) |
 | One Life | 197239 | [197239-one-life.json](./197239-one-life.json) |
 | One Life to Alice | 260228 | [260228-one-life-to-alice.json](./260228-one-life-to-alice.json) |
