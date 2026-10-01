@@ -105,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gabrielle | 221967 | [221967-gabrielle.json](./221967-gabrielle.json) |
 | Gabrielle's Ghostly Groove 3D | 23520 | [23520-gabrielles-ghostly-groove-3d.json](./23520-gabrielles-ghostly-groove-3d.json) |
 | Gabrielle's Ghostly Groove: Monster Mix | 23666 | [23666-gabrielles-ghostly-groove-monster-mix.json](./23666-gabrielles-ghostly-groove-monster-mix.json) |
+| Gabyouden | 375381 | [375381-gabyouden.json](./375381-gabyouden.json) |
 | Gacha Addict Simulator | 326198 | [326198-gacha-addict-simulator.json](./326198-gacha-addict-simulator.json) |
 | Gacha Adventure | 375323 | [375323-gacha-adventure.json](./375323-gacha-adventure.json) |
 | Gacha Capsule Shop Simulator: Akihabara | 386674 | [386674-gacha-capsule-shop-simulator-akihabara.json](./386674-gacha-capsule-shop-simulator-akihabara.json) |
@@ -1901,6 +1902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostwire Tokyo: Spider's Thread | 246125 | [246125-ghostwire-tokyo-spiders-thread.json](./246125-ghostwire-tokyo-spiders-thread.json) |
 | Ghostwire: Tokyo - Deluxe Edition | 192309 | [192309-ghostwire-tokyo-deluxe-edition.json](./192309-ghostwire-tokyo-deluxe-edition.json) |
 | Ghostwire: Tokyo - Prelude: The Corrupted Casefile | 194210 | [194210-ghostwire-tokyo-prelude-the-corrupted-casefile.json](./194210-ghostwire-tokyo-prelude-the-corrupted-casefile.json) |
+| GhostX | 375396 | [375396-ghostx.json](./375396-ghostx.json) |
 | Ghosty | 156049 | [156049-ghosty.json](./156049-ghosty.json) |
 | Ghosty Party | 232532 | [232532-ghosty-party.json](./232532-ghosty-party.json) |
 | Ghoul | 95860 | [95860-ghoul.json](./95860-ghoul.json) |
@@ -3347,6 +3349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorgeous Princess Dressup | 104605 | [104605-gorgeous-princess-dressup.json](./104605-gorgeous-princess-dressup.json) |
 | Gorgon | 22411 | [22411-gorgon.json](./22411-gorgon.json) |
 | Gorgon Shield | 259018 | [259018-gorgon-shield.json](./259018-gorgon-shield.json) |
+| Gorgon's Garden | 375358 | [375358-gorgons-garden.json](./375358-gorgons-garden.json) |
 | Gorgonia: A Gorgon's Tragedy | 326975 | [326975-gorgonia-a-gorgons-tragedy.json](./326975-gorgonia-a-gorgons-tragedy.json) |
 | Gorgons' Gaze | 216255 | [216255-gorgons-gaze.json](./216255-gorgons-gaze.json) |
 | Gori: Cuddly Carnage | 133341 | [133341-gori-cuddly-carnage.json](./133341-gori-cuddly-carnage.json) |
