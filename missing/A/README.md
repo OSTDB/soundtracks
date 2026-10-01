@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Cafe at the End of the World | 389588 | [389588-a-cafe-at-the-end-of-the-world.json](./389588-a-cafe-at-the-end-of-the-world.json) |
 | A Café Couple's Joyful Life of Resistance | 343239 | [343239-a-cafe-couples-joyful-life-of-resistance.json](./343239-a-cafe-couples-joyful-life-of-resistance.json) |
 | A Cairn Tale | 251001 | [251001-a-cairn-tale.json](./251001-a-cairn-tale.json) |
+| A Call For Help | 351156 | [351156-a-call-for-help.json](./351156-a-call-for-help.json) |
 | A Call to Mars | 141755 | [141755-a-call-to-mars.json](./141755-a-call-to-mars.json) |
 | A Car That Turns | 205084 | [205084-a-car-that-turns.json](./205084-a-car-that-turns.json) |
 | A Case for Cap & Co | 242642 | [242642-a-case-for-cap-and-co.json](./242642-a-case-for-cap-and-co.json) |
@@ -1004,6 +1005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Ventura: Pet Detective - The Case of the Serial Shaver | 61643 | [61643-ace-ventura-pet-detective-the-case-of-the-serial-shaver.json](./61643-ace-ventura-pet-detective-the-case-of-the-serial-shaver.json) |
 | ACE: Alice Card Episode | 385869 | [385869-ace-alice-card-episode.json](./385869-ace-alice-card-episode.json) |
 | Aceball | 77272 | [77272-aceball.json](./77272-aceball.json) |
+| Acecraft | 351174 | [351174-acecraft.json](./351174-acecraft.json) |
 | Acedior | 70432 | [70432-acedior.json](./70432-acedior.json) |
 | AceForce 2 | 311282 | [311282-aceforce-2.json](./311282-aceforce-2.json) |
 | Aceonline: DuelX | 95871 | [95871-aceonline-duelx.json](./95871-aceonline-duelx.json) |
@@ -1530,6 +1532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aera Flying Heroes | 337796 | [337796-aera-flying-heroes.json](./337796-aera-flying-heroes.json) |
 | Aerannis | 20028 | [20028-aerannis.json](./20028-aerannis.json) |
 | Aerea | 27794 | [27794-aerea.json](./27794-aerea.json) |
+| Aerial Aces | 351162 | [351162-aerial-aces.json](./351162-aerial-aces.json) |
 | Aerial Assault | 18233 | [18233-aerial-assault.json](./18233-aerial-assault.json) |
 | Aerial Destruction | 26123 | [26123-aerial-destruction.json](./26123-aerial-destruction.json) |
 | Aerial Guardian | 104830 | [104830-aerial-guardian.json](./104830-aerial-guardian.json) |
@@ -7492,12 +7495,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Yumia: "Ebony Outlaw" Costume for Rutger | 333756 | [333756-atelier-yumia-ebony-outlaw-costume-for-rutger.json](./333756-atelier-yumia-ebony-outlaw-costume-for-rutger.json) |
 | Atelier Yumia: "Knight's Long-Distance Swimwear" Costume for Viktor | 333757 | [333757-atelier-yumia-knights-long-distance-swimwear-costume-for-viktor.json](./333757-atelier-yumia-knights-long-distance-swimwear-costume-for-viktor.json) |
 | Atelier Yumia: "Super Cute! Beach Memories" Costume for Isla | 333758 | [333758-atelier-yumia-super-cute-beach-memories-costume-for-isla.json](./333758-atelier-yumia-super-cute-beach-memories-costume-for-isla.json) |
+| Atelier Yumia: Additional Map "Falbra Thicket" | 351151 | [351151-atelier-yumia-additional-map-falbra-thicket.json](./351151-atelier-yumia-additional-map-falbra-thicket.json) |
 | Atelier Yumia: Aladiss Investigation Preparation Set | 333751 | [333751-atelier-yumia-aladiss-investigation-preparation-set.json](./333751-atelier-yumia-aladiss-investigation-preparation-set.json) |
 | Atelier Yumia: Atelier Yumia and "Tekken" Series Collaboration Pack | 356797 | [356797-atelier-yumia-atelier-yumia-and-tekken-series-collaboration-pack.json](./356797-atelier-yumia-atelier-yumia-and-tekken-series-collaboration-pack.json) |
 | Atelier Yumia: Fantasy Academy Costume Set | 356743 | [356743-atelier-yumia-fantasy-academy-costume-set.json](./356743-atelier-yumia-fantasy-academy-costume-set.json) |
 | Atelier Yumia: Idus Training Grounds | 363021 | [363021-atelier-yumia-idus-training-grounds.json](./363021-atelier-yumia-idus-training-grounds.json) |
+| Atelier Yumia: Special costume for Yumia in collaboration with Asbel from "Tales of Graces f Remastered" | 351152 | [351152-atelier-yumia-special-costume-for-yumia-in-collaboration-with-asbel-from-tales-of-graces-f-remastered.json](./351152-atelier-yumia-special-costume-for-yumia-in-collaboration-with-asbel-from-tales-of-graces-f-remastered.json) |
+| Atelier Yumia: Swimsuit Set | 351167 | [351167-atelier-yumia-swimsuit-set.json](./351167-atelier-yumia-swimsuit-set.json) |
 | Atelier Yumia: The Alchemist of Memories & the Envisioned Land - Atelier Series Legacy BGM Pack | 380624 | [380624-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-atelier-series-legacy-bgm-pack.json](./380624-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-atelier-series-legacy-bgm-pack.json) |
 | Atelier Yumia: The Art of Aladiss Expansion Pack | 356745 | [356745-atelier-yumia-the-art-of-aladiss-expansion-pack.json](./356745-atelier-yumia-the-art-of-aladiss-expansion-pack.json) |
+| Atelier Yumia: Yumia and Flammi Swimsuit Set | 351166 | [351166-atelier-yumia-yumia-and-flammi-swimsuit-set.json](./351166-atelier-yumia-yumia-and-flammi-swimsuit-set.json) |
 | Atelier: Alchemists of the Dusk Trilogy DX - Premium Box | 136924 | [136924-atelier-alchemists-of-the-dusk-trilogy-dx-premium-box.json](./136924-atelier-alchemists-of-the-dusk-trilogy-dx-premium-box.json) |
 | Atelier: The Alchemist of Arland 1-2-3 DX - Premium Box | 167138 | [167138-atelier-the-alchemist-of-arland-1-2-3-dx-premium-box.json](./167138-atelier-the-alchemist-of-arland-1-2-3-dx-premium-box.json) |
 | Aternia: Deep | 157001 | [157001-aternia-deep.json](./157001-aternia-deep.json) |
