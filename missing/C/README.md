@@ -763,6 +763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cape's Escape Game 4th Room | 173142 | [173142-capes-escape-game-4th-room.json](./173142-capes-escape-game-4th-room.json) |
 | Cape's Escape Game 7th Room | 287171 | [287171-capes-escape-game-7th-room.json](./287171-capes-escape-game-7th-room.json) |
 | Capelord: Bounty Hunters | 190718 | [190718-capelord-bounty-hunters.json](./190718-capelord-bounty-hunters.json) |
+| Capers vs Pirates | 336680 | [336680-capers-vs-pirates.json](./336680-capers-vs-pirates.json) |
 | Capes | 217376 | [217376-capes.json](./217376-capes.json) |
 | Capes: Supporter Pack | 304362 | [304362-capes-supporter-pack.json](./304362-capes-supporter-pack.json) |
 | Capgras | 138023 | [138023-capgras.json](./138023-capgras.json) |
@@ -2101,6 +2102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catnip & Coffee | 350529 | [350529-catnip-and-coffee.json](./350529-catnip-and-coffee.json) |
 | Catniptic | 263059 | [263059-catniptic.json](./263059-catniptic.json) |
 | Cato: Buttered Cat | 203934 | [203934-cato-buttered-cat.json](./203934-cato-buttered-cat.json) |
+| Catopy | 336652 | [336652-catopy.json](./336652-catopy.json) |
 | Catovania | 132629 | [132629-catovania.json](./132629-catovania.json) |
 | Catrap | 7820 | [7820-catrap.json](./7820-catrap.json) |
 | Catroom Drama: Case 2 | 183953 | [183953-catroom-drama-case-2.json](./183953-catroom-drama-case-2.json) |
@@ -9573,6 +9575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Star Heroes | 349471 | [349471-cute-star-heroes.json](./349471-cute-star-heroes.json) |
 | Cute Things Dying Violently | 12394 | [12394-cute-things-dying-violently.json](./12394-cute-things-dying-violently.json) |
 | Cute Triplets | 148540 | [148540-cute-triplets.json](./148540-cute-triplets.json) |
+| Cute-ing Gallery | 336661 | [336661-cute-ing-gallery.json](./336661-cute-ing-gallery.json) |
 | Cute, Broke, and Dungeon Bound | 334132 | [334132-cute-broke-and-dungeon-bound.json](./334132-cute-broke-and-dungeon-bound.json) |
 | Cute, Evil & Strange | 116411 | [116411-cute-evil-and-strange.json](./116411-cute-evil-and-strange.json) |
 | CuteBoy.TD | 197765 | [197765-cuteboy-td.json](./197765-cuteboy-td.json) |
