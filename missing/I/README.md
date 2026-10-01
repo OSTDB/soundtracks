@@ -1118,6 +1118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imagination | 13007 | [13007-imagination.json](./13007-imagination.json) |
 | Imaginator | 122419 | [122419-imaginator.json](./122419-imaginator.json) |
 | Imagine Earth | 17111 | [17111-imagine-earth.json](./17111-imagine-earth.json) |
+| Imagine Island | 341607 | [341607-imagine-island.json](./341607-imagine-island.json) |
 | Imagine We Were Human | 419839 | [419839-imagine-we-were-human.json](./419839-imagine-we-were-human.json) |
 | Imagine: Animal Doctor Care Center | 7948 | [7948-imagine-animal-doctor-care-center.json](./7948-imagine-animal-doctor-care-center.json) |
 | Imagine: Artist | 7944 | [7944-imagine-artist.json](./7944-imagine-artist.json) |
