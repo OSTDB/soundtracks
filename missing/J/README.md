@@ -758,12 +758,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jia Ran er Zhi De Yin Fu | 188415 | [188415-jia-ran-er-zhi-de-yin-fu.json](./188415-jia-ran-er-zhi-de-yin-fu.json) |
 | Jian Po | 119700 | [119700-jian-po.json](./119700-jian-po.json) |
 | Jian Wang 3: Heavy Plate | 76953 | [76953-jian-wang-3-heavy-plate.json](./76953-jian-wang-3-heavy-plate.json) |
+| Jiàn Xiá Qíngyuán Wàizhuàn: Yuè Yǐng Chuánshuō | 350567 | [350567-jian-xia-qingyuan-waizhuan-yue-ying-chuanshuo.json](./350567-jian-xia-qingyuan-waizhuan-yue-ying-chuanshuo.json) |
 | Jiānchén Xǐyuān Lù | 395114 | [395114-jianchen-xiyuan-lu.json](./395114-jianchen-xiyuan-lu.json) |
 | Jiàndào Xiānyǔ | 147387 | [147387-jiandao-xianyu.json](./147387-jiandao-xianyu.json) |
 | Jiang Yao Shen Bing | 158502 | [158502-jiang-yao-shen-bing.json](./158502-jiang-yao-shen-bing.json) |
 | Jianghu Chronicles | 303591 | [303591-jianghu-chronicles.json](./303591-jianghu-chronicles.json) |
 | Jiangshi x Daoshi | 135880 | [135880-jiangshi-x-daoshi.json](./135880-jiangshi-x-daoshi.json) |
 | Jiànxí Sǐshén | 374622 | [374622-jianxi-sishen.json](./374622-jianxi-sishen.json) |
+| Jiànxiá Qíngyuán Èr | 350553 | [350553-jianxia-qingyuan-er.json](./350553-jianxia-qingyuan-er.json) |
 | Jiànxiá Tú | 157674 | [157674-jianxia-tu.json](./157674-jianxia-tu.json) |
 | Jiaozi & Shopkeeper | 383578 | [383578-jiaozi-and-shopkeeper.json](./383578-jiaozi-and-shopkeeper.json) |
 | Jibaku-kun: Zero no Ki no Kajitsu | 295036 | [295036-jibaku-kun-zero-no-ki-no-kajitsu.json](./295036-jibaku-kun-zero-no-ki-no-kajitsu.json) |
@@ -1804,6 +1806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Park: Survival | 279640 | [279640-jurassic-park-survival.json](./279640-jurassic-park-survival.json) |
 | Jurassic Park: Survival | 66354 | [66354-jurassic-park-survival.json](./66354-jurassic-park-survival.json) |
 | Jurassic Pet: Virtual World | 263581 | [263581-jurassic-pet-virtual-world.json](./263581-jurassic-pet-virtual-world.json) |
+| Jurassic Pixel Dinosaur Craft | 350596 | [350596-jurassic-pixel-dinosaur-craft.json](./350596-jurassic-pixel-dinosaur-craft.json) |
 | Jurassic Racer - Dinosaur Racing Game | 100330 | [100330-jurassic-racer-dinosaur-racing-game.json](./100330-jurassic-racer-dinosaur-racing-game.json) |
 | Jurassic Rampage: Smash the City! | 100329 | [100329-jurassic-rampage-smash-the-city.json](./100329-jurassic-rampage-smash-the-city.json) |
 | Jurassic Survival Island: Evolve | 194026 | [194026-jurassic-survival-island-evolve.json](./194026-jurassic-survival-island-evolve.json) |
