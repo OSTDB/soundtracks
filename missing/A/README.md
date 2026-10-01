@@ -3900,6 +3900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amphora Hell | 336556 | [336556-amphora-hell.json](./336556-amphora-hell.json) |
 | Amplz Boss Fights | 224110 | [224110-amplz-boss-fights.json](./224110-amplz-boss-fights.json) |
 | Ampsball | 398443 | [398443-ampsball.json](./398443-ampsball.json) |
+| AMR is for amour and also for the 12.7MM anti-material rifle + Planet X | 350539 | [350539-amr-is-for-amour-and-also-for-the-12-7mm-anti-material-rifle-planet-x.json](./350539-amr-is-for-amour-and-also-for-the-12-7mm-anti-material-rifle-planet-x.json) |
 | AMseven | 336390 | [336390-amseven.json](./336390-amseven.json) |
 | Amshay | 199383 | [199383-amshay.json](./199383-amshay.json) |
 | Amsterdam Taxi Madness | 73746 | [73746-amsterdam-taxi-madness.json](./73746-amsterdam-taxi-madness.json) |
@@ -4209,6 +4210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel's Return | 401524 | [401524-angels-return.json](./401524-angels-return.json) |
 | Angela Light: Ace Attorney | 309996 | [309996-angela-light-ace-attorney.json](./309996-angela-light-ace-attorney.json) |
 | Angela's Love | 385059 | [385059-angelas-love.json](./385059-angelas-love.json) |
+| Angela's Valentine | 350589 | [350589-angelas-valentine.json](./350589-angelas-valentine.json) |
 | Angeldust | 32892 | [32892-angeldust.json](./32892-angeldust.json) |
 | Angelian Trigger | 312331 | [312331-angelian-trigger.json](./312331-angelian-trigger.json) |
 | Angelic Agency: Soul Salvation Unit | 334862 | [334862-angelic-agency-soul-salvation-unit.json](./334862-angelic-agency-soul-salvation-unit.json) |
@@ -7101,6 +7103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroids Hyper 64 | 10664 | [10664-asteroids-hyper-64.json](./10664-asteroids-hyper-64.json) |
 | Asteroids Maneuvers | 149946 | [149946-asteroids-maneuvers.json](./149946-asteroids-maneuvers.json) |
 | Asteroids Millennium | 51716 | [51716-asteroids-millennium.json](./51716-asteroids-millennium.json) |
+| Asteroids Recharged: Pro Arcade Edition | 350549 | [350549-asteroids-recharged-pro-arcade-edition.json](./350549-asteroids-recharged-pro-arcade-edition.json) |
 | Asteroids RX | 178987 | [178987-asteroids-rx.json](./178987-asteroids-rx.json) |
 | Asteroids Space Shooter | 178631 | [178631-asteroids-space-shooter.json](./178631-asteroids-space-shooter.json) |
 | Asteroids, Inc. | 175839 | [175839-asteroids-inc.json](./175839-asteroids-inc.json) |
