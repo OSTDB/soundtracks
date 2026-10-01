@@ -700,6 +700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncle Albert's Magical Album | 147321 | [147321-uncle-alberts-magical-album.json](./147321-uncle-alberts-magical-album.json) |
 | Uncle and His Friend | 393612 | [393612-uncle-and-his-friend.json](./393612-uncle-and-his-friend.json) |
 | Uncle Henry's Playhouse | 20197 | [20197-uncle-henrys-playhouse.json](./20197-uncle-henrys-playhouse.json) |
+| Uncle Lee’s Cookbook: Five Recipes for Disaster | 373161 | [373161-uncle-lee-s-cookbook-five-recipes-for-disaster.json](./373161-uncle-lee-s-cookbook-five-recipes-for-disaster.json) |
 | Uncle Neighbor | 126415 | [126415-uncle-neighbor.json](./126415-uncle-neighbor.json) |
 | Uncle Poo | 69364 | [69364-uncle-poo.json](./69364-uncle-poo.json) |
 | Uncle Slam Vice Squad | 255723 | [255723-uncle-slam-vice-squad.json](./255723-uncle-slam-vice-squad.json) |
