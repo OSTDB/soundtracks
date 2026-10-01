@@ -3202,6 +3202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WiZmans World | 67669 | [67669-wizmans-world.json](./67669-wizmans-world.json) |
 | WiZmans World ReTry | 265641 | [265641-wizmans-world-retry.json](./265641-wizmans-world-retry.json) |
 | WizMo's Workshop: Dragons of Frozzbokk | 94577 | [94577-wizmos-workshop-dragons-of-frozzbokk.json](./94577-wizmos-workshop-dragons-of-frozzbokk.json) |
+| Wiznwar Pinball Bundle | 381804 | [381804-wiznwar-pinball-bundle.json](./381804-wiznwar-pinball-bundle.json) |
 | Wizordum | 216197 | [216197-wizordum.json](./216197-wizordum.json) |
 | Wiztern | 194298 | [194298-wiztern.json](./194298-wiztern.json) |
 | WizUp! | 290917 | [290917-wizup.json](./290917-wizup.json) |
