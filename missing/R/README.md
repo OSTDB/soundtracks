@@ -238,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Drift Taxi Car Simulator Ultimate | 251046 | [251046-racing-drift-taxi-car-simulator-ultimate.json](./251046-racing-drift-taxi-car-simulator-ultimate.json) |
 | Racing Empires | 245016 | [245016-racing-empires.json](./245016-racing-empires.json) |
 | Racing Fever | 49352 | [49352-racing-fever.json](./49352-racing-fever.json) |
+| Racing Game Bundle | 379006 | [379006-racing-game-bundle.json](./379006-racing-game-bundle.json) |
 | Racing Glider | 90681 | [90681-racing-glider.json](./90681-racing-glider.json) |
 | Racing Go | 262380 | [262380-racing-go.json](./262380-racing-go.json) |
 | Racing Heroes | 197338 | [197338-racing-heroes.json](./197338-racing-heroes.json) |
@@ -2791,6 +2792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restaurant Story | 343479 | [343479-restaurant-story.json](./343479-restaurant-story.json) |
 | Restaurant Tycoon | 75908 | [75908-restaurant-tycoon.json](./75908-restaurant-tycoon.json) |
 | Restaurant Tycoon: My Cooking Empire - Complete Edition | 399826 | [399826-restaurant-tycoon-my-cooking-empire-complete-edition.json](./399826-restaurant-tycoon-my-cooking-empire-complete-edition.json) |
+| Restaurant Tycoon: My Cooking Empire - Cozy Corners | 378965 | [378965-restaurant-tycoon-my-cooking-empire-cozy-corners.json](./378965-restaurant-tycoon-my-cooking-empire-cozy-corners.json) |
 | Restaurant Tycoon: My Cooking Empire - Diamond Edition | 396927 | [396927-restaurant-tycoon-my-cooking-empire-diamond-edition.json](./396927-restaurant-tycoon-my-cooking-empire-diamond-edition.json) |
 | Restaurant Tycoon: My Cooking Empire - Luxe & Lounge | 385176 | [385176-restaurant-tycoon-my-cooking-empire-luxe-and-lounge.json](./385176-restaurant-tycoon-my-cooking-empire-luxe-and-lounge.json) |
 | Restcue | 416811 | [416811-restcue.json](./416811-restcue.json) |
