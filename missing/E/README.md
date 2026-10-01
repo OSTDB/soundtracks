@@ -2403,6 +2403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Ithara | 224559 | [224559-escape-from-ithara.json](./224559-escape-from-ithara.json) |
 | Escape from Jay Is Games | 103169 | [103169-escape-from-jay-is-games.json](./103169-escape-from-jay-is-games.json) |
 | Escape from Khoshima | 12994 | [12994-escape-from-khoshima.json](./12994-escape-from-khoshima.json) |
+| Escape From Kiss | 348896 | [348896-escape-from-kiss.json](./348896-escape-from-kiss.json) |
 | Escape from Labyrinth | 121457 | [121457-escape-from-labyrinth.json](./121457-escape-from-labyrinth.json) |
 | Escape From Lavender Island | 235991 | [235991-escape-from-lavender-island.json](./235991-escape-from-lavender-island.json) |
 | Escape From Lesco | 312751 | [312751-escape-from-lesco.json](./312751-escape-from-lesco.json) |
