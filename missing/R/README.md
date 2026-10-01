@@ -4695,6 +4695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman 8 Metal Heroes Famicom | 142354 | [142354-rockman-8-metal-heroes-famicom.json](./142354-rockman-8-metal-heroes-famicom.json) |
 | Rockman Battle & Fighters | 75515 | [75515-rockman-battle-and-fighters.json](./75515-rockman-battle-and-fighters.json) |
 | Rockman Dash: Hagane no Boukenshin | 44060 | [44060-rockman-dash-hagane-no-boukenshin.json](./44060-rockman-dash-hagane-no-boukenshin.json) |
+| Rockman EXE 4.5: Real Operation | 352875 | [352875-rockman-exe-4-5-real-operation.json](./352875-rockman-exe-4-5-real-operation.json) |
 | Rockman EXE 5: Kaizou Card - Part 1 | 352754 | [352754-rockman-exe-5-kaizou-card-part-1.json](./352754-rockman-exe-5-kaizou-card-part-1.json) |
 | Rockman EXE 5: Kaizou Card - Part 2 | 352756 | [352756-rockman-exe-5-kaizou-card-part-2.json](./352756-rockman-exe-5-kaizou-card-part-2.json) |
 | Rockman EXE 6: Kaizou Card - Part 1 | 352736 | [352736-rockman-exe-6-kaizou-card-part-1.json](./352736-rockman-exe-6-kaizou-card-part-1.json) |
