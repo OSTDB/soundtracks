@@ -3347,6 +3347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MedCorps | 58758 | [58758-medcorps.json](./58758-medcorps.json) |
 | MedEvil | 262289 | [262289-medevil.json](./262289-medevil.json) |
 | Media Basket Manager | 415240 | [415240-media-basket-manager.json](./415240-media-basket-manager.json) |
+| Media Circus | 361829 | [361829-media-circus.json](./361829-media-circus.json) |
 | MediAevi | 383479 | [383479-mediaevi.json](./383479-mediaevi.json) |
 | Mediatonic Combo! | 118915 | [118915-mediatonic-combo.json](./118915-mediatonic-combo.json) |
 | Mediator | 355237 | [355237-mediator.json](./355237-mediator.json) |
