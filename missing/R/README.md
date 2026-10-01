@@ -1939,6 +1939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Riding Hood | 179695 | [179695-red-riding-hood.json](./179695-red-riding-hood.json) |
 | Red Riding Hood | 225309 | [225309-red-riding-hood.json](./225309-red-riding-hood.json) |
 | Red Riding Hood: Star Crossed Lovers | 96880 | [96880-red-riding-hood-star-crossed-lovers.json](./96880-red-riding-hood-star-crossed-lovers.json) |
+| Red River | 360727 | [360727-red-river.json](./360727-red-river.json) |
 | Red Ronin | 133967 | [133967-red-ronin.json](./133967-red-ronin.json) |
 | Red Room | 367605 | [367605-red-room.json](./367605-red-room.json) |
 | Red Rooms | 409642 | [409642-red-rooms.json](./409642-red-rooms.json) |
@@ -2755,6 +2756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resilience | 273443 | [273443-resilience.json](./273443-resilience.json) |
 | Resilience: Wave Survival | 33851 | [33851-resilience-wave-survival.json](./33851-resilience-wave-survival.json) |
 | Resilient | 400390 | [400390-resilient.json](./400390-resilient.json) |
+| Resist Mutants | 360708 | [360708-resist-mutants.json](./360708-resist-mutants.json) |
 | Resist Resist Resist | 299153 | [299153-resist-resist-resist.json](./299153-resist-resist-resist.json) |
 | Resistance | 172166 | [172166-resistance.json](./172166-resistance.json) |
 | Resistance 2 | 3205 | [3205-resistance-2.json](./3205-resistance-2.json) |
