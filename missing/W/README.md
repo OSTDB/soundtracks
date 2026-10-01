@@ -1007,6 +1007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warship Girls R | 175724 | [175724-warship-girls-r.json](./175724-warship-girls-r.json) |
 | WarShip HD | 205010 | [205010-warship-hd.json](./205010-warship-hd.json) |
 | Warship Legend | 227813 | [227813-warship-legend.json](./227813-warship-legend.json) |
+| Warship Survival | 337743 | [337743-warship-survival.json](./337743-warship-survival.json) |
 | WarShip War Navy Fleet Combat | 255043 | [255043-warship-war-navy-fleet-combat.json](./255043-warship-war-navy-fleet-combat.json) |
 | Warships 3D | 114158 | [114158-warships-3d.json](./114158-warships-3d.json) |
 | Warships Final Battle | 230910 | [230910-warships-final-battle.json](./230910-warships-final-battle.json) |
