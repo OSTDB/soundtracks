@@ -1416,6 +1416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neural Maze | 415283 | [415283-neural-maze.json](./415283-neural-maze.json) |
 | Neural Nest | 244206 | [244206-neural-nest.json](./244206-neural-nest.json) |
 | Neural Requiem | 389662 | [389662-neural-requiem.json](./389662-neural-requiem.json) |
+| Neural Rot | 374239 | [374239-neural-rot.json](./374239-neural-rot.json) |
 | Neuralimina | 382215 | [382215-neuralimina.json](./382215-neuralimina.json) |
 | Neuro | 141857 | [141857-neuro.json](./141857-neuro.json) |
 | Neuro Hacker | 278733 | [278733-neuro-hacker.json](./278733-neuro-hacker.json) |
@@ -1428,6 +1429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeuroHex: Hacking, Spying, Sabotage | 129029 | [129029-neurohex-hacking-spying-sabotage.json](./129029-neurohex-hacking-spying-sabotage.json) |
 | Neurokino Retrograde | 321120 | [321120-neurokino-retrograde.json](./321120-neurokino-retrograde.json) |
 | Neuromancer | 14485 | [14485-neuromancer.json](./14485-neuromancer.json) |
+| Neuromira: First Death | 374216 | [374216-neuromira-first-death.json](./374216-neuromira-first-death.json) |
 | Neuron | 236201 | [236201-neuron.json](./236201-neuron.json) |
 | Neuron Activation | 385337 | [385337-neuron-activation.json](./385337-neuron-activation.json) |
 | NeuroNet: Mendax Proxy | 147903 | [147903-neuronet-mendax-proxy.json](./147903-neuronet-mendax-proxy.json) |
