@@ -5084,6 +5084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RollingSky | 129747 | [129747-rollingsky.json](./129747-rollingsky.json) |
 | RollingSky2 | 126505 | [126505-rollingsky2.json](./126505-rollingsky2.json) |
 | RollMe | 169883 | [169883-rollme.json](./169883-rollme.json) |
+| Rollo Boi | 370260 | [370260-rollo-boi.json](./370260-rollo-boi.json) |
 | Rollo Pollo | 348352 | [348352-rollo-pollo.json](./348352-rollo-pollo.json) |
 | Rollout | 31870 | [31870-rollout.json](./31870-rollout.json) |
 | Rollover Alien | 358490 | [358490-rollover-alien.json](./358490-rollover-alien.json) |
@@ -5963,6 +5964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runaway 3: A Twist of Fate | 13228 | [13228-runaway-3-a-twist-of-fate.json](./13228-runaway-3-a-twist-of-fate.json) |
 | Runaway Animals | 207360 | [207360-runaway-animals.json](./207360-runaway-animals.json) |
 | Runaway Bride | 288240 | [288240-runaway-bride.json](./288240-runaway-bride.json) |
+| Runaway Cheater | 370272 | [370272-runaway-cheater.json](./370272-runaway-cheater.json) |
 | Runaway Demon Bride | 136260 | [136260-runaway-demon-bride.json](./136260-runaway-demon-bride.json) |
 | Runaway Girl: Picked up a Girl | 298724 | [298724-runaway-girl-picked-up-a-girl.json](./298724-runaway-girl-picked-up-a-girl.json) |
 | Runaway Princess | 370765 | [370765-runaway-princess.json](./370765-runaway-princess.json) |
