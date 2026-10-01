@@ -1457,6 +1457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Online Artillery 2 | 58748 | [58748-online-artillery-2.json](./58748-online-artillery-2.json) |
 | Online Chess Kingdoms | 93388 | [93388-online-chess-kingdoms.json](./93388-online-chess-kingdoms.json) |
 | Online Circle Pong | 75000 | [75000-online-circle-pong.json](./75000-online-circle-pong.json) |
+| Online Mouse Maze Game | 366344 | [366344-online-mouse-maze-game.json](./366344-online-mouse-maze-game.json) |
 | Online Open World RPG | 234078 | [234078-online-open-world-rpg.json](./234078-online-open-world-rpg.json) |
 | Online Retro Tennis | 156702 | [156702-online-retro-tennis.json](./156702-online-retro-tennis.json) |
 | Online Simulator | 119698 | [119698-online-simulator.json](./119698-online-simulator.json) |
@@ -1782,6 +1783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opus: Rocket of Whispers | 77569 | [77569-opus-rocket-of-whispers.json](./77569-opus-rocket-of-whispers.json) |
 | Oquonie | 60514 | [60514-oquonie.json](./60514-oquonie.json) |
 | Oracle | 27457 | [27457-oracle.json](./27457-oracle.json) |
+| Oracle | 366368 | [366368-oracle.json](./366368-oracle.json) |
 | Oracle Chain | 181241 | [181241-oracle-chain.json](./181241-oracle-chain.json) |
 | Oracle of Meles | 304382 | [304382-oracle-of-meles.json](./304382-oracle-of-meles.json) |
 | Oracle Pine | 181674 | [181674-oracle-pine.json](./181674-oracle-pine.json) |
