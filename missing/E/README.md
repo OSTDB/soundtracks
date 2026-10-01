@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Sports Double Header | 78074 | [78074-ea-sports-double-header.json](./78074-ea-sports-double-header.json) |
 | EA Sports FC 25 | 308698 | [308698-ea-sports-fc-25.json](./308698-ea-sports-fc-25.json) |
 | EA Sports FC 26: Icons Edition | 397889 | [397889-ea-sports-fc-26-icons-edition.json](./397889-ea-sports-fc-26-icons-edition.json) |
+| EA Sports FC 26: Ultimate Edition | 356805 | [356805-ea-sports-fc-26-ultimate-edition.json](./356805-ea-sports-fc-26-ultimate-edition.json) |
 | EA Sports FC 27 | 408819 | [408819-ea-sports-fc-27.json](./408819-ea-sports-fc-27.json) |
 | EA Sports FC 27: Ultimate Edition | 410902 | [410902-ea-sports-fc-27-ultimate-edition.json](./410902-ea-sports-fc-27-ultimate-edition.json) |
 | EA Sports FC 27: Ultimate Plus Edition | 411107 | [411107-ea-sports-fc-27-ultimate-plus-edition.json](./411107-ea-sports-fc-27-ultimate-plus-edition.json) |
