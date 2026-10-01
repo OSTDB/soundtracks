@@ -4514,6 +4514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Arcus from Shining | 121039 | [121039-blade-arcus-from-shining.json](./121039-blade-arcus-from-shining.json) |
 | Blade Assault | 207392 | [207392-blade-assault.json](./207392-blade-assault.json) |
 | Blade Blazer | 370154 | [370154-blade-blazer.json](./370154-blade-blazer.json) |
+| Blade Blitz | 345057 | [345057-blade-blitz.json](./345057-blade-blitz.json) |
 | Blade Bouncer 2: Revolution | 317823 | [317823-blade-bouncer-2-revolution.json](./317823-blade-bouncer-2-revolution.json) |
 | Blade Bound | 174817 | [174817-blade-bound.json](./174817-blade-bound.json) |
 | Blade Breaker: Sword Taker | 394485 | [394485-blade-breaker-sword-taker.json](./394485-blade-breaker-sword-taker.json) |
@@ -8306,6 +8307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Girl Story | 201844 | [201844-bunny-girl-story.json](./201844-bunny-girl-story.json) |
 | Bunny Hill | 139879 | [139879-bunny-hill.json](./139879-bunny-hill.json) |
 | Bunny Hop | 174124 | [174124-bunny-hop.json](./174124-bunny-hop.json) |
+| Bunny Hop Hop | 345078 | [345078-bunny-hop-hop.json](./345078-bunny-hop-hop.json) |
 | Bunny Hop League: Map Pack 1 | 226275 | [226275-bunny-hop-league-map-pack-1.json](./226275-bunny-hop-league-map-pack-1.json) |
 | Bunny Hopper | 377049 | [377049-bunny-hopper.json](./377049-bunny-hopper.json) |
 | Bunny Hurling | 335286 | [335286-bunny-hurling.json](./335286-bunny-hurling.json) |
