@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hajikise! | 265155 | [265155-hajikise.json](./265155-hajikise.json) |
 | HajiLove: Making Lovers - Limited Edition | 207915 | [207915-hajilove-making-lovers-limited-edition.json](./207915-hajilove-making-lovers-limited-edition.json) |
 | Hajime no Ippo: The Fighting! | 44778 | [44778-hajime-no-ippo-the-fighting.json](./44778-hajime-no-ippo-the-fighting.json) |
+| Hajimemashite Boku no Kanojo | 375340 | [375340-hajimemashite-boku-no-kanojo.json](./375340-hajimemashite-boku-no-kanojo.json) |
 | Hajimeru Sekai no Risouron: Goodbye World Index | 337092 | [337092-hajimeru-sekai-no-risouron-goodbye-world-index.json](./337092-hajimeru-sekai-no-risouron-goodbye-world-index.json) |
 | Hajwala | 105506 | [105506-hajwala.json](./105506-hajwala.json) |
 | Hajwala Desert | 332819 | [332819-hajwala-desert.json](./332819-hajwala-desert.json) |
@@ -305,6 +306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hallow's End | 222824 | [222824-hallows-end.json](./222824-hallows-end.json) |
 | Hallowanderband | 312762 | [312762-hallowanderband.json](./312762-hallowanderband.json) |
 | Hallowed Crucible | 333363 | [333363-hallowed-crucible.json](./333363-hallowed-crucible.json) |
+| Hallowed Legends: Samhain - Collector's Edition | 375380 | [375380-hallowed-legends-samhain-collectors-edition.json](./375380-hallowed-legends-samhain-collectors-edition.json) |
 | Hallowed Legends: Ship of Bones | 376641 | [376641-hallowed-legends-ship-of-bones.json](./376641-hallowed-legends-ship-of-bones.json) |
 | Hallowed Legends: Templar - Collector's Edition | 376584 | [376584-hallowed-legends-templar-collectors-edition.json](./376584-hallowed-legends-templar-collectors-edition.json) |
 | Halloween | 40790 | [40790-halloween.json](./40790-halloween.json) |
@@ -5802,6 +5804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyakusen no Jou ni Kawatareshi Toki | 301362 | [301362-hyakusen-no-jou-ni-kawatareshi-toki.json](./301362-hyakusen-no-jou-ni-kawatareshi-toki.json) |
 | Hyakusen Renma: Kyousha no Sengoku | 216221 | [216221-hyakusen-renma-kyousha-no-sengoku.json](./216221-hyakusen-renma-kyousha-no-sengoku.json) |
 | Hybrid | 53164 | [53164-hybrid.json](./53164-hybrid.json) |
+| Hybrid 64 | 375336 | [375336-hybrid-64.json](./375336-hybrid-64.json) |
 | Hybrid Beasts | 53218 | [53218-hybrid-beasts.json](./53218-hybrid-beasts.json) |
 | Hybrid Blood | 347161 | [347161-hybrid-blood.json](./347161-hybrid-blood.json) |
 | Hybrid Miniature Golf Beta | 303557 | [303557-hybrid-miniature-golf-beta.json](./303557-hybrid-miniature-golf-beta.json) |
