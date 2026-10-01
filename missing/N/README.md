@@ -1678,6 +1678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Yankee: Karma Tales | 235833 | [235833-new-yankee-karma-tales.json](./235833-new-yankee-karma-tales.json) |
 | New Yankee: Mary's Dark Side | 258010 | [258010-new-yankee-marys-dark-side.json](./258010-new-yankee-marys-dark-side.json) |
 | New Yankee: The Way of the Knight - Collector's Edition | 337255 | [337255-new-yankee-the-way-of-the-knight-collectors-edition.json](./337255-new-yankee-the-way-of-the-knight-collectors-edition.json) |
+| New Yankee: Through the History Mirror - Collector's Edition | 356782 | [356782-new-yankee-through-the-history-mirror-collectors-edition.json](./356782-new-yankee-through-the-history-mirror-collectors-edition.json) |
 | New Yankee: To the Queen! | 53415 | [53415-new-yankee-to-the-queen.json](./53415-new-yankee-to-the-queen.json) |
 | New Yankee: Under the Genie's Thumb | 170500 | [170500-new-yankee-under-the-genies-thumb.json](./170500-new-yankee-under-the-genies-thumb.json) |
 | New Yatterman: Nandai Kandai Yajirobee | 37908 | [37908-new-yatterman-nandai-kandai-yajirobee.json](./37908-new-yatterman-nandai-kandai-yajirobee.json) |
