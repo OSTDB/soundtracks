@@ -3417,6 +3417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of the Night | 238749 | [238749-shadows-of-the-night.json](./238749-shadows-of-the-night.json) |
 | Shadows of The Nightmare Realm | 256915 | [256915-shadows-of-the-nightmare-realm.json](./256915-shadows-of-the-nightmare-realm.json) |
 | Shadows of the Past | 265605 | [265605-shadows-of-the-past.json](./265605-shadows-of-the-past.json) |
+| Shadows of the Past | 364647 | [364647-shadows-of-the-past.json](./364647-shadows-of-the-past.json) |
 | Shadows of the Past | 365752 | [365752-shadows-of-the-past.json](./365752-shadows-of-the-past.json) |
 | Shadows of the Tusk | 66118 | [66118-shadows-of-the-tusk.json](./66118-shadows-of-the-tusk.json) |
 | Shadows of the Werewolf | 315060 | [315060-shadows-of-the-werewolf.json](./315060-shadows-of-the-werewolf.json) |
@@ -4137,6 +4138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinrei Gakkou kara no Dasshutsu | 150130 | [150130-shinrei-gakkou-kara-no-dasshutsu.json](./150130-shinrei-gakkou-kara-no-dasshutsu.json) |
 | Shinrei Jusatsushi Taroumaru | 45456 | [45456-shinrei-jusatsushi-taroumaru.json](./45456-shinrei-jusatsushi-taroumaru.json) |
 | Shinreigari: Ghost Hound DS | 123408 | [123408-shinreigari-ghost-hound-ds.json](./123408-shinreigari-ghost-hound-ds.json) |
+| Shinsei Project: Collapse | 364658 | [364658-shinsei-project-collapse.json](./364658-shinsei-project-collapse.json) |
 | Shinseiden Megaseed: Fukkatsu-hen | 261299 | [261299-shinseiden-megaseed-fukkatsu-hen.json](./261299-shinseiden-megaseed-fukkatsu-hen.json) |
 | Shinseiki Evangelion Mahjong Hokan Keikaku | 61676 | [61676-shinseiki-evangelion-mahjong-hokan-keikaku.json](./61676-shinseiki-evangelion-mahjong-hokan-keikaku.json) |
 | Shinseiki Evangelion: Typing E-Keikaku | 61671 | [61671-shinseiki-evangelion-typing-e-keikaku.json](./61671-shinseiki-evangelion-typing-e-keikaku.json) |
@@ -4803,6 +4805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Side Bullet | 197657 | [197657-side-bullet.json](./197657-side-bullet.json) |
 | Side by Side Special | 93055 | [93055-side-by-side-special.json](./93055-side-by-side-special.json) |
 | Side Effects | 343472 | [343472-side-effects.json](./343472-side-effects.json) |
+| Side Effects | 364621 | [364621-side-effects.json](./364621-side-effects.json) |
 | Side Hustle City | 364066 | [364066-side-hustle-city.json](./364066-side-hustle-city.json) |
 | Side Kicks! | 69322 | [69322-side-kicks.json](./69322-side-kicks.json) |
 | Side Pocket | 172699 | [172699-side-pocket.json](./172699-side-pocket.json) |
@@ -6610,6 +6613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slow and Steady | 157486 | [157486-slow-and-steady.json](./157486-slow-and-steady.json) |
 | Slow Burn | 313870 | [313870-slow-burn.json](./313870-slow-burn.json) |
 | Slow Down | 180673 | [180673-slow-down.json](./180673-slow-down.json) |
+| Slow Fourier Transform | 364637 | [364637-slow-fourier-transform.json](./364637-slow-fourier-transform.json) |
 | Slow Rise | 267066 | [267066-slow-rise.json](./267066-slow-rise.json) |
 | Slow.Bullet VR | 392797 | [392797-slow-bullet-vr.json](./392797-slow-bullet-vr.json) |
 | SlowAndSteady.io | 313322 | [313322-slowandsteady-io.json](./313322-slowandsteady-io.json) |
