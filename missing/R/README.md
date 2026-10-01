@@ -2368,6 +2368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relics of Deldroneye 2: Island of Debreen | 137454 | [137454-relics-of-deldroneye-2-island-of-debreen.json](./137454-relics-of-deldroneye-2-island-of-debreen.json) |
 | Relics of Gods | 11352 | [11352-relics-of-gods.json](./11352-relics-of-gods.json) |
 | Relics of Wayne: Greymoor | 379588 | [379588-relics-of-wayne-greymoor.json](./379588-relics-of-wayne-greymoor.json) |
+| Relics: A Dark-fantasy Deck-Survivor | 361837 | [361837-relics-a-dark-fantasy-deck-survivor.json](./361837-relics-a-dark-fantasy-deck-survivor.json) |
 | Relics: Dark Hours | 92494 | [92494-relics-dark-hours.json](./92494-relics-dark-hours.json) |
 | Relics: The 2nd Birth | 281393 | [281393-relics-the-2nd-birth.json](./281393-relics-the-2nd-birth.json) |
 | Relics: The Recur of Origin | 281392 | [281392-relics-the-recur-of-origin.json](./281392-relics-the-recur-of-origin.json) |
@@ -3316,6 +3317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Overdrive | 114527 | [114527-rhythm-overdrive.json](./114527-rhythm-overdrive.json) |
 | Rhythm Producer | 275708 | [275708-rhythm-producer.json](./275708-rhythm-producer.json) |
 | Rhythm Racer | 406108 | [406108-rhythm-racer.json](./406108-rhythm-racer.json) |
+| Rhythm Rat Rampage | 361864 | [361864-rhythm-rat-rampage.json](./361864-rhythm-rat-rampage.json) |
 | Rhythm Realm | 248040 | [248040-rhythm-realm.json](./248040-rhythm-realm.json) |
 | Rhythm Reunion | 295308 | [295308-rhythm-reunion.json](./295308-rhythm-reunion.json) |
 | Rhythm Rewind | 177995 | [177995-rhythm-rewind.json](./177995-rhythm-rewind.json) |
@@ -4128,6 +4130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Homeward 4: Last Step | 123557 | [123557-road-homeward-4-last-step.json](./123557-road-homeward-4-last-step.json) |
 | Road Homeward: Open World | 127312 | [127312-road-homeward-open-world.json](./127312-road-homeward-open-world.json) |
 | Road Jumper | 394482 | [394482-road-jumper.json](./394482-road-jumper.json) |
+| Road Kings | 361840 | [361840-road-kings.json](./361840-road-kings.json) |
 | Road Legends | 90128 | [90128-road-legends.json](./90128-road-legends.json) |
 | Road Madness | 33140 | [33140-road-madness.json](./33140-road-madness.json) |
 | Road Maintenance Simulator | 193766 | [193766-road-maintenance-simulator.json](./193766-road-maintenance-simulator.json) |
