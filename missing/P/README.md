@@ -4204,6 +4204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixicharm: Cluckbit | 392347 | [392347-pixicharm-cluckbit.json](./392347-pixicharm-cluckbit.json) |
 | Pixicharm: Goo Patrol | 373564 | [373564-pixicharm-goo-patrol.json](./373564-pixicharm-goo-patrol.json) |
 | Pixicharm: Hallowkinz | 378767 | [378767-pixicharm-hallowkinz.json](./378767-pixicharm-hallowkinz.json) |
+| Pixicharm: Jack-O-Fall | 340525 | [340525-pixicharm-jack-o-fall.json](./340525-pixicharm-jack-o-fall.json) |
 | Pixicharm: Majestreats | 360046 | [360046-pixicharm-majestreats.json](./360046-pixicharm-majestreats.json) |
 | Pixicharm: Mariana Gold | 335081 | [335081-pixicharm-mariana-gold.json](./335081-pixicharm-mariana-gold.json) |
 | Pixicharm: Meowbolt | 337986 | [337986-pixicharm-meowbolt.json](./337986-pixicharm-meowbolt.json) |
@@ -6106,6 +6107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porradaria Upgrade | 91973 | [91973-porradaria-upgrade.json](./91973-porradaria-upgrade.json) |
 | Porrasturvat: Stair Dismount | 93059 | [93059-porrasturvat-stair-dismount.json](./93059-porrasturvat-stair-dismount.json) |
 | Porsche Challenge | 45023 | [45023-porsche-challenge.json](./45023-porsche-challenge.json) |
+| Port Logistics Simulator: Dockside Harbor Handling | 340524 | [340524-port-logistics-simulator-dockside-harbor-handling.json](./340524-port-logistics-simulator-dockside-harbor-handling.json) |
 | Port of Call | 35598 | [35598-port-of-call.json](./35598-port-of-call.json) |
 | Port of Mars | 256811 | [256811-port-of-mars.json](./256811-port-of-mars.json) |
 | Port Royale 3: Harbour Master | 53467 | [53467-port-royale-3-harbour-master.json](./53467-port-royale-3-harbour-master.json) |
