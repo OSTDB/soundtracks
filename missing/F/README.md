@@ -2249,6 +2249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Filsnown: Hikari to Toki | 247506 | [247506-filsnown-hikari-to-toki.json](./247506-filsnown-hikari-to-toki.json) |
 | Filthbreed | 140541 | [140541-filthbreed.json](./140541-filthbreed.json) |
 | Filthy Animals: Heist Simulator | 193203 | [193203-filthy-animals-heist-simulator.json](./193203-filthy-animals-heist-simulator.json) |
+| Filthy Apartments | 385273 | [385273-filthy-apartments.json](./385273-filthy-apartments.json) |
 | Filthy Hands | 90306 | [90306-filthy-hands.json](./90306-filthy-hands.json) |
 | Filthy Rich | 313881 | [313881-filthy-rich.json](./313881-filthy-rich.json) |
 | FIM Speedway Grand Prix | 67678 | [67678-fim-speedway-grand-prix.json](./67678-fim-speedway-grand-prix.json) |
@@ -3301,6 +3302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Owls | 343867 | [343867-five-owls.json](./343867-five-owls.json) |
 | Five Rooms | 102361 | [102361-five-rooms.json](./102361-five-rooms.json) |
 | Five Seconds of Bad Music | 109619 | [109619-five-seconds-of-bad-music.json](./109619-five-seconds-of-bad-music.json) |
+| Five Shifts at Zlata's | 385280 | [385280-five-shifts-at-zlatas.json](./385280-five-shifts-at-zlatas.json) |
 | Five Star Games | 100129 | [100129-five-star-games.json](./100129-five-star-games.json) |
 | Five Star Games 2 | 79601 | [79601-five-star-games-2.json](./79601-five-star-games-2.json) |
 | Five Starless Rivers | 285438 | [285438-five-starless-rivers.json](./285438-five-starless-rivers.json) |
@@ -6162,6 +6164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun Run 4 | 257400 | [257400-fun-run-4.json](./257400-fun-run-4.json) |
 | Fun School | 334200 | [334200-fun-school.json](./334200-fun-school.json) |
 | Fun Times at Homer's | 383384 | [383384-fun-times-at-homers.json](./383384-fun-times-at-homers.json) |
+| Fun Times at Homer´s | 385268 | [385268-fun-times-at-homer-s.json](./385268-fun-times-at-homer-s.json) |
 | Fun VR Farm | 113675 | [113675-fun-vr-farm.json](./113675-fun-vr-farm.json) |
 | Fun with Body for Cyberpunk Sex | 288884 | [288884-fun-with-body-for-cyberpunk-sex.json](./288884-fun-with-body-for-cyberpunk-sex.json) |
 | Fun with Body for Sex Motel | 288891 | [288891-fun-with-body-for-sex-motel.json](./288891-fun-with-body-for-sex-motel.json) |
