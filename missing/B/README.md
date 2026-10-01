@@ -4497,6 +4497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade & Soul Neo | 333270 | [333270-blade-and-soul-neo.json](./333270-blade-and-soul-neo.json) |
 | Blade & Soul: Revolution | 143626 | [143626-blade-and-soul-revolution.json](./143626-blade-and-soul-revolution.json) |
 | Blade and Burden | 253315 | [253315-blade-and-burden.json](./253315-blade-and-burden.json) |
+| Blade and Madness | 349996 | [349996-blade-and-madness.json](./349996-blade-and-madness.json) |
 | Blade and Wings: Future Fantasy 3D Anime MMORPG Game | 110819 | [110819-blade-and-wings-future-fantasy-3d-anime-mmorpg-game.json](./110819-blade-and-wings-future-fantasy-3d-anime-mmorpg-game.json) |
 | Blade Arcus from Shining | 121039 | [121039-blade-arcus-from-shining.json](./121039-blade-arcus-from-shining.json) |
 | Blade Assault | 207392 | [207392-blade-assault.json](./207392-blade-assault.json) |
@@ -5282,6 +5283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Samurai | 256918 | [256918-blood-samurai.json](./256918-blood-samurai.json) |
 | Blood Samurai: Night of Slaughter | 227851 | [227851-blood-samurai-night-of-slaughter.json](./227851-blood-samurai-night-of-slaughter.json) |
 | Blood Sea | 312572 | [312572-blood-sea.json](./312572-blood-sea.json) |
+| Blood Soaked Bastard! | 349997 | [349997-blood-soaked-bastard.json](./349997-blood-soaked-bastard.json) |
 | Blood Spear | 163208 | [163208-blood-spear.json](./163208-blood-spear.json) |
 | Blood Sport | 13243 | [13243-blood-sport.json](./13243-blood-sport.json) |
 | Blood Ties | 78714 | [78714-blood-ties.json](./78714-blood-ties.json) |
@@ -6412,6 +6414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boss Simulator | 293109 | [293109-boss-simulator.json](./293109-boss-simulator.json) |
 | Boss Slayers | 412466 | [412466-boss-slayers.json](./412466-boss-slayers.json) |
 | Boss Up | 365056 | [365056-boss-up.json](./365056-boss-up.json) |
+| Boss, Blind, Brandy | 349989 | [349989-boss-blind-brandy.json](./349989-boss-blind-brandy.json) |
 | Boss! | 60766 | [60766-boss.json](./60766-boss.json) |
 | Bossfight Tactics | 346141 | [346141-bossfight-tactics.json](./346141-bossfight-tactics.json) |
 | Bossleft | 408913 | [408913-bossleft.json](./408913-bossleft.json) |
