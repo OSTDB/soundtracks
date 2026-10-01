@@ -524,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can We Be Three? | 385271 | [385271-can-we-be-three.json](./385271-can-we-be-three.json) |
 | Can We Start Over? | 321777 | [321777-can-we-start-over.json](./321777-can-we-start-over.json) |
 | Can You Beat the Square? | 176419 | [176419-can-you-beat-the-square.json](./176419-can-you-beat-the-square.json) |
+| Can you clear up to 100 stages? | 359569 | [359569-can-you-clear-up-to-100-stages.json](./359569-can-you-clear-up-to-100-stages.json) |
 | Can You Come In? | 144235 | [144235-can-you-come-in.json](./144235-can-you-come-in.json) |
 | Can You Cook My Last Meal? | 411753 | [411753-can-you-cook-my-last-meal.json](./411753-can-you-cook-my-last-meal.json) |
 | Can You Eat by Yourself | 76660 | [76660-can-you-eat-by-yourself.json](./76660-can-you-eat-by-yourself.json) |
@@ -1801,6 +1802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Girl Survivor | 295771 | [295771-cat-girl-survivor.json](./295771-cat-girl-survivor.json) |
 | Cat Girl Survivor: Extra Episodes and Additional Chapters | 379025 | [379025-cat-girl-survivor-extra-episodes-and-additional-chapters.json](./379025-cat-girl-survivor-extra-episodes-and-additional-chapters.json) |
 | Cat God Ranch | 296511 | [296511-cat-god-ranch.json](./296511-cat-god-ranch.json) |
+| Cat God Ranch:​​ Age of Dinosaurs​ | 359551 | [359551-cat-god-ranch-age-of-dinosaurs.json](./359551-cat-god-ranch-age-of-dinosaurs.json) |
 | Cat Goes Fishing | 35910 | [35910-cat-goes-fishing.json](./35910-cat-goes-fishing.json) |
 | Cat Goes Platform | 30125 | [30125-cat-goes-platform.json](./30125-cat-goes-platform.json) |
 | Cat Good Work | 309686 | [309686-cat-good-work.json](./309686-cat-good-work.json) |
@@ -4583,6 +4585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Snake Game Gold | 100962 | [100962-classic-snake-game-gold.json](./100962-classic-snake-game-gold.json) |
 | Classic Solitaire | 323511 | [323511-classic-solitaire.json](./323511-classic-solitaire.json) |
 | Classic Solitaire | 88321 | [88321-classic-solitaire.json](./88321-classic-solitaire.json) |
+| Classic Start of International Students | 359541 | [359541-classic-start-of-international-students.json](./359541-classic-start-of-international-students.json) |
 | Classic Sudoku | 126741 | [126741-classic-sudoku.json](./126741-classic-sudoku.json) |
 | Classic Sudoku | 206973 | [206973-classic-sudoku.json](./206973-classic-sudoku.json) |
 | Classic Table Tennis | 90848 | [90848-classic-table-tennis.json](./90848-classic-table-tennis.json) |
@@ -7762,6 +7765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Dreamz: MagiCats Edition | 55255 | [55255-crazy-dreamz-magicats-edition.json](./55255-crazy-dreamz-magicats-edition.json) |
 | Crazy Driller | 175259 | [175259-crazy-driller.json](./175259-crazy-driller.json) |
 | Crazy Driver | 119479 | [119479-crazy-driver.json](./119479-crazy-driver.json) |
+| Crazy Dungeon Tavern | 359545 | [359545-crazy-dungeon-tavern.json](./359545-crazy-dungeon-tavern.json) |
 | Crazy Economy Craft | 71047 | [71047-crazy-economy-craft.json](./71047-crazy-economy-craft.json) |
 | Crazy Eights | 70353 | [70353-crazy-eights.json](./70353-crazy-eights.json) |
 | Crazy Empress | 385798 | [385798-crazy-empress.json](./385798-crazy-empress.json) |
@@ -9468,6 +9472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybel | 142887 | [142887-cybel.json](./142887-cybel.json) |
 | Cyber | 185031 | [185031-cyber.json](./185031-cyber.json) |
 | Cyber Agent | 132200 | [132200-cyber-agent.json](./132200-cyber-agent.json) |
+| Cyber AI Defense | 359533 | [359533-cyber-ai-defense.json](./359533-cyber-ai-defense.json) |
 | Cyber Arena | 74481 | [74481-cyber-arena.json](./74481-cyber-arena.json) |
 | Cyber Assault | 257899 | [257899-cyber-assault.json](./257899-cyber-assault.json) |
 | Cyber Attack | 157205 | [157205-cyber-attack.json](./157205-cyber-attack.json) |
