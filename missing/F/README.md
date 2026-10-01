@@ -2081,6 +2081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Manager 12 | 20684 | [20684-fifa-manager-12.json](./20684-fifa-manager-12.json) |
 | FIFA Manager 13 | 20686 | [20686-fifa-manager-13.json](./20686-fifa-manager-13.json) |
 | FIFA Mobile World | 174726 | [174726-fifa-mobile-world.json](./174726-fifa-mobile-world.json) |
+| FIFA Rivals | 335513 | [335513-fifa-rivals.json](./335513-fifa-rivals.json) |
 | FIFA Soccer | 21722 | [21722-fifa-soccer.json](./21722-fifa-soccer.json) |
 | FIFA Soccer 06 | 240356 | [240356-fifa-soccer-06.json](./240356-fifa-soccer-06.json) |
 | FIFA Soccer 07 | 696 | [696-fifa-soccer-07.json](./696-fifa-soccer-07.json) |
@@ -5506,6 +5507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Birds: Baby Turkey Trouble | 227825 | [227825-free-birds-baby-turkey-trouble.json](./227825-free-birds-baby-turkey-trouble.json) |
 | Free Bowling 3D | 68507 | [68507-free-bowling-3d.json](./68507-free-bowling-3d.json) |
 | Free Chess: Cheese Set | 305534 | [305534-free-chess-cheese-set.json](./305534-free-chess-cheese-set.json) |
+| Free Chess: Lewis Set | 335500 | [335500-free-chess-lewis-set.json](./335500-free-chess-lewis-set.json) |
 | Free Chess: Primitives Set | 310390 | [310390-free-chess-primitives-set.json](./310390-free-chess-primitives-set.json) |
 | Free Craps | 246379 | [246379-free-craps.json](./246379-free-craps.json) |
 | Free D.C! | 80526 | [80526-free-d-c.json](./80526-free-d-c.json) |
@@ -6165,6 +6167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruity Fauna | 374146 | [374146-fruity-fauna.json](./374146-fruity-fauna.json) |
 | Fruity Freddy | 347833 | [347833-fruity-freddy.json](./347833-fruity-freddy.json) |
 | Frustration Golf | 181713 | [181713-frustration-golf.json](./181713-frustration-golf.json) |
+| Frustration Nation | 335504 | [335504-frustration-nation.json](./335504-frustration-nation.json) |
 | Frutakia | 299776 | [299776-frutakia.json](./299776-frutakia.json) |
 | Frutiger Aero | 354488 | [354488-frutiger-aero.json](./354488-frutiger-aero.json) |
 | Frutiger Home | 368055 | [368055-frutiger-home.json](./368055-frutiger-home.json) |
