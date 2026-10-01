@@ -9067,6 +9067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Drive | 273994 | [273994-music-drive.json](./273994-music-drive.json) |
 | Music Drive: Chase the Beat | 351004 | [351004-music-drive-chase-the-beat.json](./351004-music-drive-chase-the-beat.json) |
 | Music Escape | 115137 | [115137-music-escape.json](./115137-music-escape.json) |
+| Music Game | 376646 | [376646-music-game.json](./376646-music-game.json) |
 | Music GunGun! | 64963 | [64963-music-gungun.json](./64963-music-gungun.json) |
 | Music in Motion | 265745 | [265745-music-in-motion.json](./265745-music-in-motion.json) |
 | Music Intro Pro 68K | 265972 | [265972-music-intro-pro-68k.json](./265972-music-intro-pro-68k.json) |
