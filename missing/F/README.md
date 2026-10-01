@@ -4529,6 +4529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forbidden Island | 381031 | [381031-forbidden-island.json](./381031-forbidden-island.json) |
 | Forbidden Love | 322115 | [322115-forbidden-love.json](./322115-forbidden-love.json) |
 | Forbidden Magic | 253947 | [253947-forbidden-magic.json](./253947-forbidden-magic.json) |
+| Forbidden Offering | 346737 | [346737-forbidden-offering.json](./346737-forbidden-offering.json) |
 | Forbidden place | 173180 | [173180-forbidden-place.json](./173180-forbidden-place.json) |
 | Forbidden planet | 33722 | [33722-forbidden-planet.json](./33722-forbidden-planet.json) |
 | Forbidden Planet | 81414 | [81414-forbidden-planet.json](./81414-forbidden-planet.json) |
@@ -5595,6 +5596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frequency Dissonance | 199120 | [199120-frequency-dissonance.json](./199120-frequency-dissonance.json) |
 | Frequency Garden | 126522 | [126522-frequency-garden.json](./126522-frequency-garden.json) |
 | Frequency Sync | 130241 | [130241-frequency-sync.json](./130241-frequency-sync.json) |
+| Fresh Catch! | 346712 | [346712-fresh-catch.json](./346712-fresh-catch.json) |
 | Fresh Merchandise | 136366 | [136366-fresh-merchandise.json](./136366-fresh-merchandise.json) |
 | Fresh Milk For Mars | 295838 | [295838-fresh-milk-for-mars.json](./295838-fresh-milk-for-mars.json) |
 | Fresh Start | 212066 | [212066-fresh-start.json](./212066-fresh-start.json) |
