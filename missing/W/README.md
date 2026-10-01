@@ -1056,6 +1056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Washington Prime | 387589 | [387589-washington-prime.json](./387589-washington-prime.json) |
 | WashWash | 178422 | [178422-washwash.json](./178422-washwash.json) |
 | Wasm4nia | 307615 | [307615-wasm4nia.json](./307615-wasm4nia.json) |
+| Wasps | 355164 | [355164-wasps.json](./355164-wasps.json) |
 | Wassie Tale | 207377 | [207377-wassie-tale.json](./207377-wassie-tale.json) |
 | Waste | 200703 | [200703-waste.json](./200703-waste.json) |
 | Waste Cleaner | 61614 | [61614-waste-cleaner.json](./61614-waste-cleaner.json) |
