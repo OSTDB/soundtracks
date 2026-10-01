@@ -1605,6 +1605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faye Falling | 189136 | [189136-faye-falling.json](./189136-faye-falling.json) |
 | Faye: A Tale of Shadow | 192885 | [192885-faye-a-tale-of-shadow.json](./192885-faye-a-tale-of-shadow.json) |
 | Faylinn's Quest | 173840 | [173840-faylinns-quest.json](./173840-faylinns-quest.json) |
+| Faz-Karts | 382962 | [382962-faz-karts.json](./382962-faz-karts.json) |
 | FBG Arcade Machine | 169761 | [169761-fbg-arcade-machine.json](./169761-fbg-arcade-machine.json) |
 | FBI Mania | 30065 | [30065-fbi-mania.json](./30065-fbi-mania.json) |
 | FC 26 Quiz | 396596 | [396596-fc-26-quiz.json](./396596-fc-26-quiz.json) |
@@ -3223,6 +3224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five in One | 210648 | [210648-five-in-one.json](./210648-five-in-one.json) |
 | Five Letter Words | 104115 | [104115-five-letter-words.json](./104115-five-letter-words.json) |
 | Five Nations: Renegades | 259059 | [259059-five-nations-renegades.json](./259059-five-nations-renegades.json) |
+| Five New-Fangled Nights | 382958 | [382958-five-new-fangled-nights.json](./382958-five-new-fangled-nights.json) |
 | Five Nighs at Fairy's | 405066 | [405066-five-nighs-at-fairys.json](./405066-five-nighs-at-fairys.json) |
 | Five Nights at Backrooms: Waifu Edition | 277828 | [277828-five-nights-at-backrooms-waifu-edition.json](./277828-five-nights-at-backrooms-waifu-edition.json) |
 | Five Nights At Bidens | 257665 | [257665-five-nights-at-bidens.json](./257665-five-nights-at-bidens.json) |
@@ -6117,6 +6119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Speed Animals: Disorder | 296380 | [296380-full-speed-animals-disorder.json](./296380-full-speed-animals-disorder.json) |
 | Full Speed Animals: The RTA | 289369 | [289369-full-speed-animals-the-rta.json](./289369-full-speed-animals-the-rta.json) |
 | Full Strength Strongman Competition | 62202 | [62202-full-strength-strongman-competition.json](./62202-full-strength-strongman-competition.json) |
+| Full Stride | 382991 | [382991-full-stride.json](./382991-full-stride.json) |
 | Full Swing Golf | 299472 | [299472-full-swing-golf.json](./299472-full-swing-golf.json) |
 | Full Throttle | 180 | [180-full-throttle.json](./180-full-throttle.json) |
 | Full Throttle | 46843 | [46843-full-throttle.json](./46843-full-throttle.json) |
