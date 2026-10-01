@@ -4717,6 +4717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game 15 | 56163 | [56163-the-game-15.json](./56163-the-game-15.json) |
 | The Game About People | 187839 | [187839-the-game-about-people.json](./187839-the-game-about-people.json) |
 | The Game Creation Recipe | 178449 | [178449-the-game-creation-recipe.json](./178449-the-game-creation-recipe.json) |
+| The Game For Skippers | 368077 | [368077-the-game-for-skippers.json](./368077-the-game-for-skippers.json) |
 | The Game Has Started | 387007 | [387007-the-game-has-started.json](./387007-the-game-has-started.json) |
 | The Game Maker | 64485 | [64485-the-game-maker.json](./64485-the-game-maker.json) |
 | The Game of Bionic Goat | 339099 | [339099-the-game-of-bionic-goat.json](./339099-the-game-of-bionic-goat.json) |
