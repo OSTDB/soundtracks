@@ -402,6 +402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maestro! Jump in Music | 22980 | [22980-maestro-jump-in-music.json](./22980-maestro-jump-in-music.json) |
 | Mǎfǎ Chuánqí | 159812 | [159812-mafa-chuanqi.json](./159812-mafa-chuanqi.json) |
 | Mafalda: Jugando con Números y Palabras | 167760 | [167760-mafalda-jugando-con-numeros-y-palabras.json](./167760-mafalda-jugando-con-numeros-y-palabras.json) |
+| Mafate | 347828 | [347828-mafate.json](./347828-mafate.json) |
 | Mafdet and the Book of the Dead | 72377 | [72377-mafdet-and-the-book-of-the-dead.json](./72377-mafdet-and-the-book-of-the-dead.json) |
 | Mafia 1x1 | 307327 | [307327-mafia-1x1.json](./307327-mafia-1x1.json) |
 | Mafia Alive | 68686 | [68686-mafia-alive.json](./68686-mafia-alive.json) |
