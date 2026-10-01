@@ -1813,6 +1813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Forever Remake | 307667 | [307667-mario-forever-remake.json](./307667-mario-forever-remake.json) |
 | Mario Forever: SMW Edition | 198464 | [198464-mario-forever-smw-edition.json](./198464-mario-forever-smw-edition.json) |
 | Mario Gives Up | 272818 | [272818-mario-gives-up.json](./272818-mario-gives-up.json) |
+| Mario Goes Skateboarding 64 | 338307 | [338307-mario-goes-skateboarding-64.json](./338307-mario-goes-skateboarding-64.json) |
 | Mario Golf | 135389 | [135389-mario-golf.json](./135389-mario-golf.json) |
 | Mario Golf | 328590 | [328590-mario-golf.json](./328590-mario-golf.json) |
 | Mario Golf: Super Rush | 143609 | [143609-mario-golf-super-rush.json](./143609-mario-golf-super-rush.json) |
