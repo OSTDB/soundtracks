@@ -2528,6 +2528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masterpiece | 351033 | [351033-masterpiece.json](./351033-masterpiece.json) |
 | Masterpiece Mansion | 209553 | [209553-masterpiece-mansion.json](./209553-masterpiece-mansion.json) |
 | MasterQ | 207536 | [207536-masterq.json](./207536-masterq.json) |
+| MasterQuest Fantasy | 378977 | [378977-masterquest-fantasy.json](./378977-masterquest-fantasy.json) |
 | Masters & Heroes | 225586 | [225586-masters-and-heroes.json](./225586-masters-and-heroes.json) |
 | Masters of Albion | 314272 | [314272-masters-of-albion.json](./314272-masters-of-albion.json) |
 | Masters of Cards | 322585 | [322585-masters-of-cards.json](./322585-masters-of-cards.json) |
@@ -5135,6 +5136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Calling: Valeria - Collector's Edition | 166059 | [166059-midnight-calling-valeria-collectors-edition.json](./166059-midnight-calling-valeria-collectors-edition.json) |
 | Midnight Calling: Wise Dragon - Collector's Edition | 221136 | [221136-midnight-calling-wise-dragon-collectors-edition.json](./221136-midnight-calling-wise-dragon-collectors-edition.json) |
 | Midnight Castle | 294462 | [294462-midnight-castle.json](./294462-midnight-castle.json) |
+| Midnight Cat Heist | 378996 | [378996-midnight-cat-heist.json](./378996-midnight-cat-heist.json) |
 | Midnight Cemetery | 273457 | [273457-midnight-cemetery.json](./273457-midnight-cemetery.json) |
 | Midnight Club 3: DUB Edition Remix | 22583 | [22583-midnight-club-3-dub-edition-remix.json](./22583-midnight-club-3-dub-edition-remix.json) |
 | Midnight Club L.A. Remix | 42857 | [42857-midnight-club-l-a-remix.json](./42857-midnight-club-l-a-remix.json) |
@@ -8192,6 +8194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Roader II | 37708 | [37708-moto-roader-ii.json](./37708-moto-roader-ii.json) |
 | Moto Runner 3D | 106780 | [106780-moto-runner-3d.json](./106780-moto-runner-3d.json) |
 | Moto Rush GT | 115751 | [115751-moto-rush-gt.json](./115751-moto-rush-gt.json) |
+| Moto Rush GT Asphalt Fury | 378968 | [378968-moto-rush-gt-asphalt-fury.json](./378968-moto-rush-gt-asphalt-fury.json) |
 | Moto Rush GT: Advanced Edition | 315871 | [315871-moto-rush-gt-advanced-edition.json](./315871-moto-rush-gt-advanced-edition.json) |
 | Moto Rush GT: Back To School Edition | 263541 | [263541-moto-rush-gt-back-to-school-edition.json](./263541-moto-rush-gt-back-to-school-edition.json) |
 | Moto Rush GT: Comprehensive Edition | 399823 | [399823-moto-rush-gt-comprehensive-edition.json](./399823-moto-rush-gt-comprehensive-edition.json) |
