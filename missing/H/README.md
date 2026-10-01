@@ -5312,6 +5312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How Much Items: Animals | 340489 | [340489-how-much-items-animals.json](./340489-how-much-items-animals.json) |
 | How Much Items: Fishes | 340490 | [340490-how-much-items-fishes.json](./340490-how-much-items-fishes.json) |
 | How Much Items: Food | 340491 | [340491-how-much-items-food.json](./340491-how-much-items-food.json) |
+| How Much Items: Plants | 364021 | [364021-how-much-items-plants.json](./364021-how-much-items-plants.json) |
 | How Much Items: Vegetation | 340492 | [340492-how-much-items-vegetation.json](./340492-how-much-items-vegetation.json) |
 | How Much Items: Vehicles | 371481 | [371481-how-much-items-vehicles.json](./371481-how-much-items-vehicles.json) |
 | How Much Items: Weapon | 340493 | [340493-how-much-items-weapon.json](./340493-how-much-items-weapon.json) |
