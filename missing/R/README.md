@@ -2336,6 +2336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relaxjong | 368677 | [368677-relaxjong.json](./368677-relaxjong.json) |
 | RelayCars | 113521 | [113521-relaycars.json](./113521-relaycars.json) |
 | Relayer | 113594 | [113594-relayer.json](./113594-relayer.json) |
+| Relayer Advanced: Definitive Edition | 370821 | [370821-relayer-advanced-definitive-edition.json](./370821-relayer-advanced-definitive-edition.json) |
 | Relayer: Limited Edition | 172776 | [172776-relayer-limited-edition.json](./172776-relayer-limited-edition.json) |
 | Release Me | 310173 | [310173-release-me.json](./310173-release-me.json) |
 | Relentless | 111883 | [111883-relentless.json](./111883-relentless.json) |
@@ -3355,6 +3356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rich Life Simulator VR | 50520 | [50520-rich-life-simulator-vr.json](./50520-rich-life-simulator-vr.json) |
 | Rich Mahogany and Human Leather-Bound Books | 271749 | [271749-rich-mahogany-and-human-leather-bound-books.json](./271749-rich-mahogany-and-human-leather-bound-books.json) |
 | Rich Man | 175826 | [175826-rich-man.json](./175826-rich-man.json) |
+| Rich Party | 370860 | [370860-rich-party.json](./370860-rich-party.json) |
 | Rich River | 391203 | [391203-rich-river.json](./391203-rich-river.json) |
 | Rich Uncle: A Gay Adventure | 385307 | [385307-rich-uncle-a-gay-adventure.json](./385307-rich-uncle-a-gay-adventure.json) |
 | Rich Worker Simulator | 297811 | [297811-rich-worker-simulator.json](./297811-rich-worker-simulator.json) |
@@ -5282,6 +5284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room of Roilands | 177501 | [177501-room-of-roilands.json](./177501-room-of-roilands.json) |
 | Room Rules | 382951 | [382951-room-rules.json](./382951-room-rules.json) |
 | Room Ten | 31181 | [31181-room-ten.json](./31181-room-ten.json) |
+| Room with Lina | 370861 | [370861-room-with-lina.json](./370861-room-with-lina.json) |
 | Room231 | 297206 | [297206-room231.json](./297206-room231.json) |
 | Roomates | 82053 | [82053-roomates.json](./82053-roomates.json) |
 | Roomba May Cry | 185116 | [185116-roomba-may-cry.json](./185116-roomba-may-cry.json) |
@@ -5352,6 +5355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ropes and Dragons VR | 29901 | [29901-ropes-and-dragons-vr.json](./29901-ropes-and-dragons-vr.json) |
 | Ropeway Simulator 2014 | 36345 | [36345-ropeway-simulator-2014.json](./36345-ropeway-simulator-2014.json) |
 | Ropin' Ranch | 279425 | [279425-ropin-ranch.json](./279425-ropin-ranch.json) |
+| Ropoko | 370822 | [370822-ropoko.json](./370822-ropoko.json) |
 | Roppongi Sadistic Night | 395566 | [395566-roppongi-sadistic-night.json](./395566-roppongi-sadistic-night.json) |
 | Ropuka | 386712 | [386712-ropuka.json](./386712-ropuka.json) |
 | Rorke's Drift | 72107 | [72107-rorkes-drift.json](./72107-rorkes-drift.json) |
