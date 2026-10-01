@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Da Box | 59672 | [59672-da-box.json](./59672-da-box.json) |
 | Da Capo 3 R | 27760 | [27760-da-capo-3-r.json](./27760-da-capo-3-r.json) |
 | Dà Fùwēng | 125469 | [125469-da-fuweng.json](./125469-da-fuweng.json) |
+| Dà Mèng Chūnqiū | 373702 | [373702-da-meng-chunqiu.json](./373702-da-meng-chunqiu.json) |
 | Da Paper Boy | 259017 | [259017-da-paper-boy.json](./259017-da-paper-boy.json) |
 | Dà Sānguó Shídài | 347226 | [347226-da-sanguo-shidai.json](./347226-da-sanguo-shidai.json) |
 | Da Vinci Pinball | 89149 | [89149-da-vinci-pinball.json](./89149-da-vinci-pinball.json) |
