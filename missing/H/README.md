@@ -1106,6 +1106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hasbro Family Game Night: Volume 2 | 23253 | [23253-hasbro-family-game-night-volume-2.json](./23253-hasbro-family-game-night-volume-2.json) |
 | Hasbro Game Night for Nintendo Switch | 110394 | [110394-hasbro-game-night-for-nintendo-switch.json](./110394-hasbro-game-night-for-nintendo-switch.json) |
 | Hasbro Kids Bundle | 247582 | [247582-hasbro-kids-bundle.json](./247582-hasbro-kids-bundle.json) |
+| Hasegawa Nozomi | 355180 | [355180-hasegawa-nozomi.json](./355180-hasegawa-nozomi.json) |
 | Hash Line | 120402 | [120402-hash-line.json](./120402-hash-line.json) |
 | Hashi: Bridges | 391842 | [391842-hashi-bridges.json](./391842-hashi-bridges.json) |
 | Hashire Hebereke: EX | 325670 | [325670-hashire-hebereke-ex.json](./325670-hashire-hebereke-ex.json) |
@@ -4182,6 +4183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Cocoon | 255114 | [255114-hollow-cocoon.json](./255114-hollow-cocoon.json) |
 | Hollow Crew | 416806 | [416806-hollow-crew.json](./416806-hollow-crew.json) |
 | Hollow Cries | 125198 | [125198-hollow-cries.json](./125198-hollow-cries.json) |
+| Hollow Floor | 355154 | [355154-hollow-floor.json](./355154-hollow-floor.json) |
 | Hollow Ghost | 144779 | [144779-hollow-ghost.json](./144779-hollow-ghost.json) |
 | Hollow Ground | 365295 | [365295-hollow-ground.json](./365295-hollow-ground.json) |
 | Hollow Halls | 29905 | [29905-hollow-halls.json](./29905-hollow-halls.json) |
@@ -4204,6 +4206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Memories | 385847 | [385847-hollow-memories.json](./385847-hollow-memories.json) |
 | Hollow Minds | 311469 | [311469-hollow-minds.json](./311469-hollow-minds.json) |
 | Hollow Seeker | 229009 | [229009-hollow-seeker.json](./229009-hollow-seeker.json) |
+| Hollow Sorrow | 355179 | [355179-hollow-sorrow.json](./355179-hollow-sorrow.json) |
 | Hollow Stem | 297792 | [297792-hollow-stem.json](./297792-hollow-stem.json) |
 | Hollow Steps | 88235 | [88235-hollow-steps.json](./88235-hollow-steps.json) |
 | Hollow Treats | 378207 | [378207-hollow-treats.json](./378207-hollow-treats.json) |
