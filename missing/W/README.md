@@ -3088,6 +3088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wiz | 157517 | [157517-wiz.json](./157517-wiz.json) |
 | Wiz | 162406 | [162406-wiz.json](./162406-wiz.json) |
 | Wiz Brochure | 403769 | [403769-wiz-brochure.json](./403769-wiz-brochure.json) |
+| Wiz Hunter | 385264 | [385264-wiz-hunter.json](./385264-wiz-hunter.json) |
 | Wiz Khalifa's Weed Farm | 56168 | [56168-wiz-khalifas-weed-farm.json](./56168-wiz-khalifas-weed-farm.json) |
 | Wiz Party | 194294 | [194294-wiz-party.json](./194294-wiz-party.json) |
 | Wizadore | 13769 | [13769-wizadore.json](./13769-wizadore.json) |
