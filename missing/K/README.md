@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kachou Shima Kousaku: Super Business Adventure | 37969 | [37969-kachou-shima-kousaku-super-business-adventure.json](./37969-kachou-shima-kousaku-super-business-adventure.json) |
 | Kacipbara | 393159 | [393159-kacipbara.json](./393159-kacipbara.json) |
 | Kadath | 114553 | [114553-kadath.json](./114553-kadath.json) |
+| Kadath | 386925 | [386925-kadath.json](./386925-kadath.json) |
 | Kader Mühürleri | 86127 | [86127-kader-muhurleri.json](./86127-kader-muhurleri.json) |
 | Kadin the Soul Eater | 303601 | [303601-kadin-the-soul-eater.json](./303601-kadin-the-soul-eater.json) |
 | Kado Hunter | 303600 | [303600-kado-hunter.json](./303600-kado-hunter.json) |
@@ -1217,6 +1218,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Backflip 999 | 103474 | [103474-killer-backflip-999.json](./103474-killer-backflip-999.json) |
 | Killer Bean Unleashed | 262652 | [262652-killer-bean-unleashed.json](./262652-killer-bean-unleashed.json) |
 | Killer Dog | 135814 | [135814-killer-dog.json](./135814-killer-dog.json) |
+| Killer Escape 4 | 386945 | [386945-killer-escape-4.json](./386945-killer-escape-4.json) |
+| Killer Escape III | 386938 | [386938-killer-escape-iii.json](./386938-killer-escape-iii.json) |
 | Killer Gorilla | 13733 | [13733-killer-gorilla.json](./13733-killer-gorilla.json) |
 | Killer Inside Us | 157189 | [157189-killer-inside-us.json](./157189-killer-inside-us.json) |
 | Killer Instinct | 254517 | [254517-killer-instinct.json](./254517-killer-instinct.json) |
