@@ -5714,6 +5714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Feed It | 341896 | [341896-dont-feed-it.json](./341896-dont-feed-it.json) |
 | Don't Feed the Cat | 373144 | [373144-dont-feed-the-cat.json](./373144-dont-feed-the-cat.json) |
 | Don't Find Me!! | 303488 | [303488-dont-find-me.json](./303488-dont-find-me.json) |
+| Don't Flip First | 362408 | [362408-dont-flip-first.json](./362408-dont-flip-first.json) |
 | Don't Forget Me: Deluxe Edition | 154519 | [154519-dont-forget-me-deluxe-edition.json](./154519-dont-forget-me-deluxe-edition.json) |
 | Don't Forget the Phone | 398485 | [398485-dont-forget-the-phone.json](./398485-dont-forget-the-phone.json) |
 | Don't Freak Part 1 | 334875 | [334875-dont-freak-part-1.json](./334875-dont-freak-part-1.json) |
@@ -7903,6 +7904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drug Wars | 14945 | [14945-drug-wars.json](./14945-drug-wars.json) |
 | Drug Wars: A Game Based on the New York Drug Market | 72172 | [72172-drug-wars-a-game-based-on-the-new-york-drug-market.json](./72172-drug-wars-a-game-based-on-the-new-york-drug-market.json) |
 | Drug Watch | 130838 | [130838-drug-watch.json](./130838-drug-watch.json) |
+| Drugs & Gambling | 362400 | [362400-drugs-and-gambling.json](./362400-drugs-and-gambling.json) |
 | Drugs and Crime Idle | 153426 | [153426-drugs-and-crime-idle.json](./153426-drugs-and-crime-idle.json) |
 | Drugs to Bee | 103447 | [103447-drugs-to-bee.json](./103447-drugs-to-bee.json) |
 | Drugz: 2D Drug Empire Simulator | 253398 | [253398-drugz-2d-drug-empire-simulator.json](./253398-drugz-2d-drug-empire-simulator.json) |
