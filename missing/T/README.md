@@ -446,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take a Seat! | 202961 | [202961-take-a-seat.json](./202961-take-a-seat.json) |
 | Take a Smile | 246484 | [246484-take-a-smile.json](./246484-take-a-smile.json) |
 | Take Bomb: The Suit Take Off | 280254 | [280254-take-bomb-the-suit-take-off.json](./280254-take-bomb-the-suit-take-off.json) |
+| Take Care (of Me) | 339422 | [339422-take-care-of-me.json](./339422-take-care-of-me.json) |
 | Take Care of My Heifer | 414421 | [414421-take-care-of-my-heifer.json](./414421-take-care-of-my-heifer.json) |
 | Take Care Of The Dog | 402917 | [402917-take-care-of-the-dog.json](./402917-take-care-of-the-dog.json) |
 | Take Care of the Paperwork | 103455 | [103455-take-care-of-the-paperwork.json](./103455-take-care-of-the-paperwork.json) |
@@ -524,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of Scale | 339628 | [339628-tale-of-scale.json](./339628-tale-of-scale.json) |
 | Tale of Season | 174762 | [174762-tale-of-season.json](./174762-tale-of-season.json) |
 | Tale of Serendipity | 189056 | [189056-tale-of-serendipity.json](./189056-tale-of-serendipity.json) |
+| Tale of Souls | 339421 | [339421-tale-of-souls.json](./339421-tale-of-souls.json) |
 | Tale of Specters: Joseon 1592 | 412461 | [412461-tale-of-specters-joseon-1592.json](./412461-tale-of-specters-joseon-1592.json) |
 | Tale of Starship | 126510 | [126510-tale-of-starship.json](./126510-tale-of-starship.json) |
 | Tale of Swords | 113734 | [113734-tale-of-swords.json](./113734-tale-of-swords.json) |
@@ -637,6 +639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Mathasia | 239743 | [239743-tales-of-mathasia.json](./239743-tales-of-mathasia.json) |
 | Tales of Medieval Duelists | 389982 | [389982-tales-of-medieval-duelists.json](./389982-tales-of-medieval-duelists.json) |
 | Tales of Middle Earth | 326278 | [326278-tales-of-middle-earth.json](./326278-tales-of-middle-earth.json) |
+| Tales of Miravia | 339420 | [339420-tales-of-miravia.json](./339420-tales-of-miravia.json) |
 | Tales of Misteria | 204551 | [204551-tales-of-misteria.json](./204551-tales-of-misteria.json) |
 | Tales of Monkey Island | 64 | [64-tales-of-monkey-island.json](./64-tales-of-monkey-island.json) |
 | Tales of Monkey Island: Chapter 1 - Launch of the Screaming Narwhal | 81262 | [81262-tales-of-monkey-island-chapter-1-launch-of-the-screaming-narwhal.json](./81262-tales-of-monkey-island-chapter-1-launch-of-the-screaming-narwhal.json) |
@@ -862,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamako | 366315 | [366315-tamako.json](./366315-tamako.json) |
 | Tamale Loco: Rumble in the Desert | 173076 | [173076-tamale-loco-rumble-in-the-desert.json](./173076-tamale-loco-rumble-in-the-desert.json) |
 | Tamamon | 380687 | [380687-tamamon.json](./380687-tamamon.json) |
+| Tamara | 339483 | [339483-tamara.json](./339483-tamara.json) |
 | Tamara In The Forsaken Dungeon | 276284 | [276284-tamara-in-the-forsaken-dungeon.json](./276284-tamara-in-the-forsaken-dungeon.json) |
 | Tamarak Trail | 240982 | [240982-tamarak-trail.json](./240982-tamarak-trail.json) |
 | Tamarin | 117735 | [117735-tamarin.json](./117735-tamarin.json) |
@@ -976,6 +980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Elite | 82130 | [82130-tank-elite.json](./82130-tank-elite.json) |
 | Tank Force | 81329 | [81329-tank-force.json](./81329-tank-force.json) |
 | Tank Frenzy | 288374 | [288374-tank-frenzy.json](./288374-tank-frenzy.json) |
+| Tank Frenzy Survivor | 339419 | [339419-tank-frenzy-survivor.json](./339419-tank-frenzy-survivor.json) |
 | Tank Fury | 233612 | [233612-tank-fury.json](./233612-tank-fury.json) |
 | Tank Game | 288263 | [288263-tank-game.json](./288263-tank-game.json) |
 | Tank Game | 343332 | [343332-tank-game.json](./343332-tank-game.json) |
@@ -1057,6 +1062,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanks But No Tanks | 40724 | [40724-tanks-but-no-tanks.json](./40724-tanks-but-no-tanks.json) |
 | Tanks Defense | 298013 | [298013-tanks-defense.json](./298013-tanks-defense.json) |
 | Tanks Endeavor | 117073 | [117073-tanks-endeavor.json](./117073-tanks-endeavor.json) |
+| Tanks Logic Puzzle | 339418 | [339418-tanks-logic-puzzle.json](./339418-tanks-logic-puzzle.json) |
+| Tanks Racing Sim | 339417 | [339417-tanks-racing-sim.json](./339417-tanks-racing-sim.json) |
 | Tanks Rebirth | 357342 | [357342-tanks-rebirth.json](./357342-tanks-rebirth.json) |
 | Tanks vs Tanks: PvP | 214044 | [214044-tanks-vs-tanks-pvp.json](./214044-tanks-vs-tanks-pvp.json) |
 | Tanks vs. Aliens | 36500 | [36500-tanks-vs-aliens.json](./36500-tanks-vs-aliens.json) |
@@ -1144,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taora: Survival | 235197 | [235197-taora-survival.json](./235197-taora-survival.json) |
 | Taoyuan Adventure | 160174 | [160174-taoyuan-adventure.json](./160174-taoyuan-adventure.json) |
 | Tap 'n' Pop 3: Balloon Adventures | 88225 | [88225-tap-n-pop-3-balloon-adventures.json](./88225-tap-n-pop-3-balloon-adventures.json) |
+| Tap 4 Sex | 339416 | [339416-tap-4-sex.json](./339416-tap-4-sex.json) |
 | Tap a Jam | 73290 | [73290-tap-a-jam.json](./73290-tap-a-jam.json) |
 | Tap Adventure: Time Travel | 27688 | [27688-tap-adventure-time-travel.json](./27688-tap-adventure-time-travel.json) |
 | Tap and Field | 175201 | [175201-tap-and-field.json](./175201-tap-and-field.json) |
@@ -1216,6 +1224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap! Tap! Faraway Kingdom | 199936 | [199936-tap-tap-faraway-kingdom.json](./199936-tap-tap-faraway-kingdom.json) |
 | TapColors | 89712 | [89712-tapcolors.json](./89712-tapcolors.json) |
 | Tape Art | 384207 | [384207-tape-art.json](./384207-tape-art.json) |
+| Tape Denial | 339415 | [339415-tape-denial.json](./339415-tape-denial.json) |
 | Tape Recovery Simulator 96K | 152110 | [152110-tape-recovery-simulator-96k.json](./152110-tape-recovery-simulator-96k.json) |
 | Tape To Tape | 190280 | [190280-tape-to-tape.json](./190280-tape-to-tape.json) |
 | Tape Us Out | 332402 | [332402-tape-us-out.json](./332402-tape-us-out.json) |
@@ -1468,6 +1477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tchia: Kepler Customization Pack | 243232 | [243232-tchia-kepler-customization-pack.json](./243232-tchia-kepler-customization-pack.json) |
 | Tchia: Oléti Edition | 239605 | [239605-tchia-oleti-edition.json](./239605-tchia-oleti-edition.json) |
 | TCQ | 216272 | [216272-tcq.json](./216272-tcq.json) |
+| TCStrikers5 | 339414 | [339414-tcstrikers5.json](./339414-tcstrikers5.json) |
 | TD Quest | 233092 | [233092-td-quest.json](./233092-td-quest.json) |
 | TD Strategy of Three Kingdoms | 130927 | [130927-td-strategy-of-three-kingdoms.json](./130927-td-strategy-of-three-kingdoms.json) |
 | TD3D | 371907 | [371907-td3d.json](./371907-td3d.json) |
@@ -1480,6 +1490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tea Time | 359406 | [359406-tea-time.json](./359406-tea-time.json) |
 | Tea Time | 58894 | [58894-tea-time.json](./58894-tea-time.json) |
 | Tea, Please! | 347905 | [347905-tea-please.json](./347905-tea-please.json) |
+| Teach Kids Games | 339413 | [339413-teach-kids-games.json](./339413-teach-kids-games.json) |
 | Teach My Little Sister How to Drive | 373092 | [373092-teach-my-little-sister-how-to-drive.json](./373092-teach-my-little-sister-how-to-drive.json) |
 | Teacher Seduction | 276160 | [276160-teacher-seduction.json](./276160-teacher-seduction.json) |
 | Teachers. With Love and Passion | 250441 | [250441-teachers-with-love-and-passion.json](./250441-teachers-with-love-and-passion.json) |
@@ -1508,6 +1519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Fortress 2: Rebalanced | 400339 | [400339-team-fortress-2-rebalanced.json](./400339-team-fortress-2-rebalanced.json) |
 | Team Fortress 2: Robotic Boogaloo | 256783 | [256783-team-fortress-2-robotic-boogaloo.json](./256783-team-fortress-2-robotic-boogaloo.json) |
 | Team Fortress 2: The Gun Mettle Update | 256889 | [256889-team-fortress-2-the-gun-mettle-update.json](./256889-team-fortress-2-the-gun-mettle-update.json) |
+| Team Fortress 2008 | 339412 | [339412-team-fortress-2008.json](./339412-team-fortress-2008.json) |
 | Team Fortress Classic | 6359 | [6359-team-fortress-classic.json](./6359-team-fortress-classic.json) |
 | Team Fortress Kart | 371244 | [371244-team-fortress-kart.json](./371244-team-fortress-kart.json) |
 | Team Four Star RPG | 75043 | [75043-team-four-star-rpg.json](./75043-team-four-star-rpg.json) |
@@ -1821,6 +1833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telegrum Clicker | 100574 | [100574-telegrum-clicker.json](./100574-telegrum-clicker.json) |
 | Telekinesis Kyle | 20116 | [20116-telekinesis-kyle.json](./20116-telekinesis-kyle.json) |
 | Telemount | 413083 | [413083-telemount.json](./413083-telemount.json) |
+| Telepath of Evil | 339411 | [339411-telepath-of-evil.json](./339411-telepath-of-evil.json) |
 | Telepath RPG: Servants of God | 65532 | [65532-telepath-rpg-servants-of-god.json](./65532-telepath-rpg-servants-of-god.json) |
 | Telepathy | 282667 | [282667-telepathy.json](./282667-telepathy.json) |
 | Teleportal Customer Service | 181374 | [181374-teleportal-customer-service.json](./181374-teleportal-customer-service.json) |
@@ -2157,10 +2170,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal | 253360 | [253360-terminal.json](./253360-terminal.json) |
 | Terminal 13 | 364699 | [364699-terminal-13.json](./364699-terminal-13.json) |
 | Terminal 64 | 252820 | [252820-terminal-64.json](./252820-terminal-64.json) |
+| Terminal 81R | 339409 | [339409-terminal-81r.json](./339409-terminal-81r.json) |
 | Terminal Breach | 217394 | [217394-terminal-breach.json](./217394-terminal-breach.json) |
 | Terminal City | 314463 | [314463-terminal-city.json](./314463-terminal-city.json) |
 | Terminal Compression | 331969 | [331969-terminal-compression.json](./331969-terminal-compression.json) |
 | Terminal Conflict | 112417 | [112417-terminal-conflict.json](./112417-terminal-conflict.json) |
+| Terminal Connection | 339408 | [339408-terminal-connection.json](./339408-terminal-connection.json) |
 | Terminal Defense | 298636 | [298636-terminal-defense.json](./298636-terminal-defense.json) |
 | Terminal Hacker | 178955 | [178955-terminal-hacker.json](./178955-terminal-hacker.json) |
 | Terminal Hacker | 30854 | [30854-terminal-hacker.json](./30854-terminal-hacker.json) |
@@ -2179,6 +2194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal Voltage | 279775 | [279775-terminal-voltage.json](./279775-terminal-voltage.json) |
 | Terminal VR | 127362 | [127362-terminal-vr.json](./127362-terminal-vr.json) |
 | Terminal22 | 279099 | [279099-terminal22.json](./279099-terminal22.json) |
+| TerminalMaster | 339407 | [339407-terminalmaster.json](./339407-terminalmaster.json) |
 | Terminate: Study X | 253574 | [253574-terminate-study-x.json](./253574-terminate-study-x.json) |
 | Terminator | 208419 | [208419-terminator.json](./208419-terminator.json) |
 | Terminator 2: Judgment Day | 307082 | [307082-terminator-2-judgment-day.json](./307082-terminator-2-judgment-day.json) |
@@ -2197,6 +2213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Termite Man | 327380 | [327380-termite-man.json](./327380-termite-man.json) |
 | Ternion | 236757 | [236757-ternion.json](./236757-ternion.json) |
 | Ternox Games 4-in-1 Bundle | 362379 | [362379-ternox-games-4-in-1-bundle.json](./362379-ternox-games-4-in-1-bundle.json) |
+| Terpaling Legend | 339406 | [339406-terpaling-legend.json](./339406-terpaling-legend.json) |
 | Terra | 183439 | [183439-terra.json](./183439-terra.json) |
 | Terra | 295236 | [295236-terra.json](./295236-terra.json) |
 | Terra Alia | 279404 | [279404-terra-alia.json](./279404-terra-alia.json) |
@@ -3406,6 +3423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Call of Karen | 139812 | [139812-the-call-of-karen.json](./139812-the-call-of-karen.json) |
 | The Call of Krul'ar | 200639 | [200639-the-call-of-krular.json](./200639-the-call-of-krular.json) |
 | The Call of the Rats | 300702 | [300702-the-call-of-the-rats.json](./300702-the-call-of-the-rats.json) |
+| The Calling | 339386 | [339386-the-calling.json](./339386-the-calling.json) |
 | The Callisto Protocol: Contagion Bundle | 241958 | [241958-the-callisto-protocol-contagion-bundle.json](./241958-the-callisto-protocol-contagion-bundle.json) |
 | The Callisto Protocol: Digital Deluxe Edition | 205001 | [205001-the-callisto-protocol-digital-deluxe-edition.json](./205001-the-callisto-protocol-digital-deluxe-edition.json) |
 | The Callisto Protocol: Outer Way Skin Collection | 308274 | [308274-the-callisto-protocol-outer-way-skin-collection.json](./308274-the-callisto-protocol-outer-way-skin-collection.json) |
@@ -7625,6 +7643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Road Less Taken | 219122 | [219122-the-road-less-taken.json](./219122-the-road-less-taken.json) |
 | The Road Not Taken | 349968 | [349968-the-road-not-taken.json](./349968-the-road-not-taken.json) |
 | The Road to Baghdad | 24108 | [24108-the-road-to-baghdad.json](./24108-the-road-to-baghdad.json) |
+| The Road To Druaga | 339383 | [339383-the-road-to-druaga.json](./339383-the-road-to-druaga.json) |
 | The Road to Gettysburg | 24885 | [24885-the-road-to-gettysburg.json](./24885-the-road-to-gettysburg.json) |
 | The Road to Hades | 96354 | [96354-the-road-to-hades.json](./96354-the-road-to-hades.json) |
 | The Roaring Empire | 132661 | [132661-the-roaring-empire.json](./132661-the-roaring-empire.json) |
