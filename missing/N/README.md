@@ -3600,6 +3600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nüllptr | 181675 | [181675-nullptr.json](./181675-nullptr.json) |
 | Nullschwert | 258419 | [258419-nullschwert.json](./258419-nullschwert.json) |
 | Nullspace | 336736 | [336736-nullspace.json](./336736-nullspace.json) |
+| Nullspire | 374765 | [374765-nullspire.json](./374765-nullspire.json) |
 | NullStar | 144360 | [144360-nullstar.json](./144360-nullstar.json) |
 | Nullstar: Solus | 310206 | [310206-nullstar-solus.json](./310206-nullstar-solus.json) |
 | Nullysun | 74478 | [74478-nullysun.json](./74478-nullysun.json) |
