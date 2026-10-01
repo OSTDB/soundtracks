@@ -1444,6 +1444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Until the End | 201051 | [201051-until-the-end.json](./201051-until-the-end.json) |
 | Until the Last Philomel | 399077 | [399077-until-the-last-philomel.json](./399077-until-the-last-philomel.json) |
 | Until They Burn | 400949 | [400949-until-they-burn.json](./400949-until-they-burn.json) |
+| Until You Return to the Earth | 339430 | [339430-until-you-return-to-the-earth.json](./339430-until-you-return-to-the-earth.json) |
 | UntilZombieDown | 287759 | [287759-untilzombiedown.json](./287759-untilzombiedown.json) |
 | Untime | 372040 | [372040-untime.json](./372040-untime.json) |
 | Untitled | 186022 | [186022-untitled.json](./186022-untitled.json) |
