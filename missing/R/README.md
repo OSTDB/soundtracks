@@ -2637,6 +2637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Team: Legion of Destruction | 410458 | [410458-rescue-team-legion-of-destruction.json](./410458-rescue-team-legion-of-destruction.json) |
 | Rescue Team: Mineral of Miracles | 264631 | [264631-rescue-team-mineral-of-miracles.json](./264631-rescue-team-mineral-of-miracles.json) |
 | Rescue Team: Phantom Crisis - Collector's Edition | 417512 | [417512-rescue-team-phantom-crisis-collectors-edition.json](./417512-rescue-team-phantom-crisis-collectors-edition.json) |
+| Rescue the Hostages: Cryptic Countdown | 377239 | [377239-rescue-the-hostages-cryptic-countdown.json](./377239-rescue-the-hostages-cryptic-countdown.json) |
 | Rescue the Hostages: Misaligned Fate | 405719 | [405719-rescue-the-hostages-misaligned-fate.json](./405719-rescue-the-hostages-misaligned-fate.json) |
 | Rescue the Puppies | 401029 | [401029-rescue-the-puppies.json](./401029-rescue-the-puppies.json) |
 | Rescue Zone | 138616 | [138616-rescue-zone.json](./138616-rescue-zone.json) |
@@ -3197,6 +3198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolution's Eternal Debt | 389085 | [389085-revolutions-eternal-debt.json](./389085-revolutions-eternal-debt.json) |
 | Revolutionary Quest | 292594 | [292594-revolutionary-quest.json](./292594-revolutionary-quest.json) |
 | Revolve | 26722 | [26722-revolve.json](./26722-revolve.json) |
+| Revolve | 377200 | [377200-revolve.json](./377200-revolve.json) |
 | Revolver and Co | 152759 | [152759-revolver-and-co.json](./152759-revolver-and-co.json) |
 | Revolver roulette | 336697 | [336697-revolver-roulette.json](./336697-revolver-roulette.json) |
 | Revolver360 | 79926 | [79926-revolver360.json](./79926-revolver360.json) |
@@ -5309,6 +5311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooted | 194616 | [194616-rooted.json](./194616-rooted.json) |
 | Rooten | 155659 | [155659-rooten.json](./155659-rooten.json) |
 | Rootless | 183036 | [183036-rootless.json](./183036-rootless.json) |
+| Rootless | 377198 | [377198-rootless.json](./377198-rootless.json) |
 | Rootlify | 413110 | [413110-rootlify.json](./413110-rootlify.json) |
 | Rootman: Bodycam Horror Footage | 238197 | [238197-rootman-bodycam-horror-footage.json](./238197-rootman-bodycam-horror-footage.json) |
 | Rootnote | 402529 | [402529-rootnote.json](./402529-rootnote.json) |
@@ -6265,6 +6268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ryewood Town | 219661 | [219661-ryewood-town.json](./219661-ryewood-town.json) |
 | Rygar | 28841 | [28841-rygar.json](./28841-rygar.json) |
 | Rygar | 6856 | [6856-rygar.json](./6856-rygar.json) |
+| Rygar SNES Port | 377227 | [377227-rygar-snes-port.json](./377227-rygar-snes-port.json) |
 | Rygar: The Legendary Adventure | 5134 | [5134-rygar-the-legendary-adventure.json](./5134-rygar-the-legendary-adventure.json) |
 | RYL: Path of the Emperor | 6548 | [6548-ryl-path-of-the-emperor.json](./6548-ryl-path-of-the-emperor.json) |
 | Rym 9000 | 81867 | [81867-rym-9000.json](./81867-rym-9000.json) |
