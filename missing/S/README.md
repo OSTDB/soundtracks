@@ -5991,6 +5991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky DarkCrow | 190195 | [190195-sky-darkcrow.json](./190195-sky-darkcrow.json) |
 | Sky Die | 349967 | [349967-sky-die.json](./349967-sky-die.json) |
 | Sky Diver | 16970 | [16970-sky-diver.json](./16970-sky-diver.json) |
+| Sky Fields | 337770 | [337770-sky-fields.json](./337770-sky-fields.json) |
 | Sky Fighter Legends | 81195 | [81195-sky-fighter-legends.json](./81195-sky-fighter-legends.json) |
 | Sky Fighters | 275664 | [275664-sky-fighters.json](./275664-sky-fighters.json) |
 | Sky Fleet | 144190 | [144190-sky-fleet.json](./144190-sky-fleet.json) |
@@ -6613,6 +6614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slippery Sammy | 252982 | [252982-slippery-sammy.json](./252982-slippery-sammy.json) |
 | Slippery Sid | 255769 | [255769-slippery-sid.json](./255769-slippery-sid.json) |
 | Slippery Words | 208925 | [208925-slippery-words.json](./208925-slippery-words.json) |
+| Slippy Bear | 337746 | [337746-slippy-bear.json](./337746-slippy-bear.json) |
 | Slippy Santa | 185515 | [185515-slippy-santa.json](./185515-slippy-santa.json) |
 | Slippy Slug | 34671 | [34671-slippy-slug.json](./34671-slippy-slug.json) |
 | Slippy the Frog | 258027 | [258027-slippy-the-frog.json](./258027-slippy-the-frog.json) |
@@ -12376,6 +12378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Static Signal | 375824 | [375824-static-signal.json](./375824-static-signal.json) |
 | Static Sky: And Yet It | 341159 | [341159-static-sky-and-yet-it.json](./341159-static-sky-and-yet-it.json) |
 | Static-End | 178028 | [178028-static-end.json](./178028-static-end.json) |
+| Static: The Beginning | 337744 | [337744-static-the-beginning.json](./337744-static-the-beginning.json) |
 | Station 117 | 224644 | [224644-station-117.json](./224644-station-117.json) |
 | Station 17 | 165629 | [165629-station-17.json](./165629-station-17.json) |
 | Station 21 - Space Station Simulator | 28883 | [28883-station-21-space-station-simulator.json](./28883-station-21-space-station-simulator.json) |
@@ -13619,6 +13622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strength & Skill: Guiness Book of Records | 283734 | [283734-strength-and-skill-guiness-book-of-records.json](./283734-strength-and-skill-guiness-book-of-records.json) |
 | Strength in Numbers | 348438 | [348438-strength-in-numbers.json](./348438-strength-in-numbers.json) |
 | Strength of the Sword 3 | 52864 | [52864-strength-of-the-sword-3.json](./52864-strength-of-the-sword-3.json) |
+| Stress Attack | 337771 | [337771-stress-attack.json](./337771-stress-attack.json) |
 | Stress Ball | 285448 | [285448-stress-ball.json](./285448-stress-ball.json) |
 | Stress Test | 200168 | [200168-stress-test.json](./200168-stress-test.json) |
 | Stress, Out! | 258716 | [258716-stress-out.json](./258716-stress-out.json) |
