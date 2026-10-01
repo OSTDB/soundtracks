@@ -161,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hairdresser Liquidator Bundle | 342236 | [342236-hairdresser-liquidator-bundle.json](./342236-hairdresser-liquidator-bundle.json) |
 | Hairstyle | 104597 | [104597-hairstyle.json](./104597-hairstyle.json) |
 | Hairy Trees Massacre | 299833 | [299833-hairy-trees-massacre.json](./299833-hairy-trees-massacre.json) |
+| Haishin | 376675 | [376675-haishin.json](./376675-haishin.json) |
 | Haisonmeguri | 207523 | [207523-haisonmeguri.json](./207523-haisonmeguri.json) |
 | Haitenai RPG | 211725 | [211725-haitenai-rpg.json](./211725-haitenai-rpg.json) |
 | Haitoku Silene | 157058 | [157058-haitoku-silene.json](./157058-haitoku-silene.json) |
@@ -186,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakoniwa Electric | 399739 | [399739-hakoniwa-electric.json](./399739-hakoniwa-electric.json) |
 | Hakoniwa Explorer Plus | 101606 | [101606-hakoniwa-explorer-plus.json](./101606-hakoniwa-explorer-plus.json) |
 | Hakou Watcher | 253936 | [253936-hakou-watcher.json](./253936-hakou-watcher.json) |
+| Hakuchuumu no Bibouroku | 376630 | [376630-hakuchuumu-no-bibouroku.json](./376630-hakuchuumu-no-bibouroku.json) |
 | Hakuda's Wife Visiting | 151695 | [151695-hakudas-wife-visiting.json](./151695-hakudas-wife-visiting.json) |
 | Hakuga | 280179 | [280179-hakuga.json](./280179-hakuga.json) |
 | Hakuisei Renai Shoukougun | 115480 | [115480-hakuisei-renai-shoukougun.json](./115480-hakuisei-renai-shoukougun.json) |
@@ -303,6 +305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hallow's End | 222824 | [222824-hallows-end.json](./222824-hallows-end.json) |
 | Hallowanderband | 312762 | [312762-hallowanderband.json](./312762-hallowanderband.json) |
 | Hallowed Crucible | 333363 | [333363-hallowed-crucible.json](./333363-hallowed-crucible.json) |
+| Hallowed Legends: Ship of Bones | 376641 | [376641-hallowed-legends-ship-of-bones.json](./376641-hallowed-legends-ship-of-bones.json) |
 | Hallowed Legends: Templar - Collector's Edition | 376584 | [376584-hallowed-legends-templar-collectors-edition.json](./376584-hallowed-legends-templar-collectors-edition.json) |
 | Halloween | 40790 | [40790-halloween.json](./40790-halloween.json) |
 | Halloween | 80499 | [80499-halloween.json](./80499-halloween.json) |
@@ -2789,6 +2792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Legionwood: Episode 3 | 171562 | [171562-heroes-of-legionwood-episode-3.json](./171562-heroes-of-legionwood-episode-3.json) |
 | Heroes of Loot | 13624 | [13624-heroes-of-loot.json](./13624-heroes-of-loot.json) |
 | Heroes of Magic & Cards | 369047 | [369047-heroes-of-magic-and-cards.json](./369047-heroes-of-magic-and-cards.json) |
+| Heroes of Magic and Steel | 376660 | [376660-heroes-of-magic-and-steel.json](./376660-heroes-of-magic-and-steel.json) |
 | Heroes of Magic: Card Battle | 108492 | [108492-heroes-of-magic-card-battle.json](./108492-heroes-of-magic-card-battle.json) |
 | Heroes of Maidan 2 | 113902 | [113902-heroes-of-maidan-2.json](./113902-heroes-of-maidan-2.json) |
 | Heroes of Maidan 3 | 127754 | [127754-heroes-of-maidan-3.json](./127754-heroes-of-maidan-3.json) |
@@ -4560,6 +4564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hooray for Spelling | 318044 | [318044-hooray-for-spelling.json](./318044-hooray-for-spelling.json) |
 | Hoover Dam | 272923 | [272923-hoover-dam.json](./272923-hoover-dam.json) |
 | Hoover Heroes | 329963 | [329963-hoover-heroes.json](./329963-hoover-heroes.json) |
+| Hoozuki no Yakusai | 376674 | [376674-hoozuki-no-yakusai.json](./376674-hoozuki-no-yakusai.json) |
 | Hop | 86964 | [86964-hop.json](./86964-hop.json) |
 | Hop 'N' Stack | 311665 | [311665-hop-n-stack.json](./311665-hop-n-stack.json) |
 | Hop & Seek | 377223 | [377223-hop-and-seek.json](./377223-hop-and-seek.json) |
