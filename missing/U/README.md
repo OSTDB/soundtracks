@@ -416,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Mega Planet Battles | 244743 | [244743-ultra-mega-planet-battles.json](./244743-ultra-mega-planet-battles.json) |
 | Ultra Mega Xtra Party Challenge | 201784 | [201784-ultra-mega-xtra-party-challenge.json](./201784-ultra-mega-xtra-party-challenge.json) |
 | Ultra Mushroom | 302442 | [302442-ultra-mushroom.json](./302442-ultra-mushroom.json) |
+| Ultra Neo Geo Maze 2 | 377786 | [377786-ultra-neo-geo-maze-2.json](./377786-ultra-neo-geo-maze-2.json) |
 | Ultra Ninja Shooter | 207772 | [207772-ultra-ninja-shooter.json](./207772-ultra-ninja-shooter.json) |
 | Ultra Ninja Soul | 151755 | [151755-ultra-ninja-soul.json](./151755-ultra-ninja-soul.json) |
 | Ultra Nothing | 377674 | [377674-ultra-nothing.json](./377674-ultra-nothing.json) |
