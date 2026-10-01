@@ -4781,6 +4781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forklift & Box | 164262 | [164262-forklift-and-box.json](./164262-forklift-and-box.json) |
 | Forklift 2024: The Simulation | 251016 | [251016-forklift-2024-the-simulation.json](./251016-forklift-2024-the-simulation.json) |
 | Forklift 2025 Simulator | 368147 | [368147-forklift-2025-simulator.json](./368147-forklift-2025-simulator.json) |
+| Forklift Certified: Stacked and Loaded | 344518 | [344518-forklift-certified-stacked-and-loaded.json](./344518-forklift-certified-stacked-and-loaded.json) |
 | Forklift Extreme | 207892 | [207892-forklift-extreme.json](./207892-forklift-extreme.json) |
 | Forklift Extreme: Santa's Workshop | 231287 | [231287-forklift-extreme-santas-workshop.json](./231287-forklift-extreme-santas-workshop.json) |
 | Forklift Extreme: Ultra DLC Pack | 252405 | [252405-forklift-extreme-ultra-dlc-pack.json](./252405-forklift-extreme-ultra-dlc-pack.json) |
@@ -4793,6 +4794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forklift Simulator 2019 | 112048 | [112048-forklift-simulator-2019.json](./112048-forklift-simulator-2019.json) |
 | Forklift Simulator 2023 | 255158 | [255158-forklift-simulator-2023.json](./255158-forklift-simulator-2023.json) |
 | Forklift Simulator 2024 | 283729 | [283729-forklift-simulator-2024.json](./283729-forklift-simulator-2024.json) |
+| Forklift: Simulator | 344425 | [344425-forklift-simulator.json](./344425-forklift-simulator.json) |
 | Forklore | 196803 | [196803-forklore.json](./196803-forklore.json) |
 | Forks & Daggers | 380676 | [380676-forks-and-daggers.json](./380676-forks-and-daggers.json) |
 | Forlorn | 280804 | [280804-forlorn.json](./280804-forlorn.json) |
