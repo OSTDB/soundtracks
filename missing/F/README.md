@@ -1267,6 +1267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmer's Dynasty: Machines Pack | 223549 | [223549-farmers-dynasty-machines-pack.json](./223549-farmers-dynasty-machines-pack.json) |
 | Farmer's Fairy Tale | 107839 | [107839-farmers-fairy-tale.json](./107839-farmers-fairy-tale.json) |
 | Farmer's Father: Save the Innocence | 211660 | [211660-farmers-father-save-the-innocence.json](./211660-farmers-father-save-the-innocence.json) |
+| Farmer’s Market Simulator | 348393 | [348393-farmer-s-market-simulator.json](./348393-farmer-s-market-simulator.json) |
 | Farmerama | 92459 | [92459-farmerama.json](./92459-farmerama.json) |
 | Farmhand Go! | 223171 | [223171-farmhand-go.json](./223171-farmhand-go.json) |
 | Farmieland | 273488 | [273488-farmieland.json](./273488-farmieland.json) |
@@ -4497,6 +4498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Stella | 392276 | [392276-for-stella.json](./392276-for-stella.json) |
 | For The Fatherland | 408123 | [408123-for-the-fatherland.json](./408123-for-the-fatherland.json) |
 | For the Fish in the Bottle | 402919 | [402919-for-the-fish-in-the-bottle.json](./402919-for-the-fish-in-the-bottle.json) |
+| For the Forge | 348403 | [348403-for-the-forge.json](./348403-for-the-forge.json) |
 | For The Freedom! | 240770 | [240770-for-the-freedom.json](./240770-for-the-freedom.json) |
 | For the Glory of Gods TCG | 311115 | [311115-for-the-glory-of-gods-tcg.json](./311115-for-the-glory-of-gods-tcg.json) |
 | For the Glory of Wilson | 401680 | [401680-for-the-glory-of-wilson.json](./401680-for-the-glory-of-wilson.json) |
@@ -4748,6 +4750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Roads | 262940 | [262940-forgotten-roads.json](./262940-forgotten-roads.json) |
 | Forgotten Runiverse | 275661 | [275661-forgotten-runiverse.json](./275661-forgotten-runiverse.json) |
 | Forgotten Saga | 145572 | [145572-forgotten-saga.json](./145572-forgotten-saga.json) |
+| Forgotten Signal: Portal | 348389 | [348389-forgotten-signal-portal.json](./348389-forgotten-signal-portal.json) |
 | Forgotten Sound 1: Revelation | 83595 | [83595-forgotten-sound-1-revelation.json](./83595-forgotten-sound-1-revelation.json) |
 | Forgotten Sound 2: Destiny | 83545 | [83545-forgotten-sound-2-destiny.json](./83545-forgotten-sound-2-destiny.json) |
 | Forgotten Tales: Day of the Dead | 33244 | [33244-forgotten-tales-day-of-the-dead.json](./33244-forgotten-tales-day-of-the-dead.json) |
@@ -6374,6 +6377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funny Bird | 247538 | [247538-funny-bird.json](./247538-funny-bird.json) |
 | Funny Card | 193495 | [193495-funny-card.json](./193495-funny-card.json) |
 | Funny Cards | 82138 | [82138-funny-cards.json](./82138-funny-cards.json) |
+| Funny Cargo Simulator | 348407 | [348407-funny-cargo-simulator.json](./348407-funny-cargo-simulator.json) |
 | Funny Face Apartment | 310762 | [310762-funny-face-apartment.json](./310762-funny-face-apartment.json) |
 | Funny Farm | 254459 | [254459-funny-farm.json](./254459-funny-farm.json) |
 | Funny Farm Animal Jigsaw Puzzle Game for Kids and Toddlers | 165619 | [165619-funny-farm-animal-jigsaw-puzzle-game-for-kids-and-toddlers.json](./165619-funny-farm-animal-jigsaw-puzzle-game-for-kids-and-toddlers.json) |
