@@ -3903,6 +3903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit the Button RPG | 58876 | [58876-hit-the-button-rpg.json](./58876-hit-the-button-rpg.json) |
 | Hit The Clock | 377708 | [377708-hit-the-clock.json](./377708-hit-the-clock.json) |
 | Hit The Dot | 282728 | [282728-hit-the-dot.json](./282728-hit-the-dot.json) |
+| Hit the Fan | 365797 | [365797-hit-the-fan.json](./365797-hit-the-fan.json) |
 | Hit the Hive | 96866 | [96866-hit-the-hive.json](./96866-hit-the-hive.json) |
 | Hit the Ice | 295042 | [295042-hit-the-ice.json](./295042-hit-the-ice.json) |
 | Hit the Light: Neon Shooter | 129165 | [129165-hit-the-light-neon-shooter.json](./129165-hit-the-light-neon-shooter.json) |
