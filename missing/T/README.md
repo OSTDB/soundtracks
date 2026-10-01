@@ -5049,6 +5049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Heart of Tales | 177499 | [177499-the-heart-of-tales.json](./177499-the-heart-of-tales.json) |
 | The Heart Pumps Clay | 122891 | [122891-the-heart-pumps-clay.json](./122891-the-heart-pumps-clay.json) |
 | The Heartbeat | 149610 | [149610-the-heartbeat.json](./149610-the-heartbeat.json) |
+| The Hearth and Harbour | 366973 | [366973-the-hearth-and-harbour.json](./366973-the-hearth-and-harbour.json) |
 | The Heat | 206752 | [206752-the-heat.json](./206752-the-heat.json) |
 | The Heavens | 366303 | [366303-the-heavens.json](./366303-the-heavens.json) |
 | The Hedgehogs | 99405 | [99405-the-hedgehogs.json](./99405-the-hedgehogs.json) |
@@ -7403,6 +7404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Relief of Impact | 179751 | [179751-the-relief-of-impact.json](./179751-the-relief-of-impact.json) |
 | The Remainder: Act 1 | 170855 | [170855-the-remainder-act-1.json](./170855-the-remainder-act-1.json) |
 | The Remainder: Act 2 | 171387 | [171387-the-remainder-act-2.json](./171387-the-remainder-act-2.json) |
+| The Remainer | 366998 | [366998-the-remainer.json](./366998-the-remainer.json) |
 | The Remains and The Residue | 387618 | [387618-the-remains-and-the-residue.json](./387618-the-remains-and-the-residue.json) |
 | The Remains of El Dorado | 184570 | [184570-the-remains-of-el-dorado.json](./184570-the-remains-of-el-dorado.json) |
 | The Remission of Sins | 149042 | [149042-the-remission-of-sins.json](./149042-the-remission-of-sins.json) |
@@ -12968,6 +12970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Keepers | 101736 | [101736-tower-keepers.json](./101736-tower-keepers.json) |
 | Tower Knight | 298628 | [298628-tower-knight.json](./298628-tower-knight.json) |
 | Tower Lord: Sword Loop Saga | 176267 | [176267-tower-lord-sword-loop-saga.json](./176267-tower-lord-sword-loop-saga.json) |
+| Tower Lords | 367004 | [367004-tower-lords.json](./367004-tower-lords.json) |
 | Tower Madness 2 | 88457 | [88457-tower-madness-2.json](./88457-tower-madness-2.json) |
 | Tower Monster Rush | 309504 | [309504-tower-monster-rush.json](./309504-tower-monster-rush.json) |
 | Tower Networking Inc. | 310040 | [310040-tower-networking-inc.json](./310040-tower-networking-inc.json) |
