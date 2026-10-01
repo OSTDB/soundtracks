@@ -1074,6 +1074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card-en-Ciel: The World of the "Blaster Master Zero Series" | 391867 | [391867-card-en-ciel-the-world-of-the-blaster-master-zero-series.json](./391867-card-en-ciel-the-world-of-the-blaster-master-zero-series.json) |
 | Card&Casino | 399617 | [399617-card-and-casino.json](./399617-card-and-casino.json) |
 | Cardaire: Eternal Aces | 378441 | [378441-cardaire-eternal-aces.json](./378441-cardaire-eternal-aces.json) |
+| Cardamom | 361262 | [361262-cardamom.json](./361262-cardamom.json) |
 | Cardangels | 135161 | [135161-cardangels.json](./135161-cardangels.json) |
 | CardBoard | 395558 | [395558-cardboard.json](./395558-cardboard.json) |
 | Cardboard Chronicles | 294251 | [294251-cardboard-chronicles.json](./294251-cardboard-chronicles.json) |
@@ -4965,6 +4966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloudtop Chaos | 348858 | [348858-cloudtop-chaos.json](./348858-cloudtop-chaos.json) |
 | Cloudwalkers | 356280 | [356280-cloudwalkers.json](./356280-cloudwalkers.json) |
 | Cloudy & Stormy: Pawtastic Adventure | 333911 | [333911-cloudy-and-stormy-pawtastic-adventure.json](./333911-cloudy-and-stormy-pawtastic-adventure.json) |
+| Cloudy Day | 361267 | [361267-cloudy-day.json](./361267-cloudy-day.json) |
 | Cloudy Days | 236949 | [236949-cloudy-days.json](./236949-cloudy-days.json) |
 | Cloudy with a Chance of Kittens | 345140 | [345140-cloudy-with-a-chance-of-kittens.json](./345140-cloudy-with-a-chance-of-kittens.json) |
 | Cloudy with a Chance of Meatballs | 4767 | [4767-cloudy-with-a-chance-of-meatballs.json](./4767-cloudy-with-a-chance-of-meatballs.json) |
