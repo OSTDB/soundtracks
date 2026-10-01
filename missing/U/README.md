@@ -1377,6 +1377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unscripted | 223383 | [223383-unscripted.json](./223383-unscripted.json) |
 | Unseasonable Flowering | 399221 | [399221-unseasonable-flowering.json](./399221-unseasonable-flowering.json) |
 | Unseen Diplomacy | 33824 | [33824-unseen-diplomacy.json](./33824-unseen-diplomacy.json) |
+| Unseen Diplomacy 2 | 347836 | [347836-unseen-diplomacy-2.json](./347836-unseen-diplomacy-2.json) |
 | Unshaded | 167783 | [167783-unshaded.json](./167783-unshaded.json) |
 | Unshaken | 217405 | [217405-unshaken.json](./217405-unshaken.json) |
 | Unsighted | 111815 | [111815-unsighted.json](./111815-unsighted.json) |
