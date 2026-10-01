@@ -259,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pact of Steel | 235724 | [235724-pact-of-steel.json](./235724-pact-of-steel.json) |
 | Pact of the Black Tide | 409077 | [409077-pact-of-the-black-tide.json](./409077-pact-of-the-black-tide.json) |
 | Pact With a Demon | 345105 | [345105-pact-with-a-demon.json](./345105-pact-with-a-demon.json) |
+| Pact with a Demon EP01 | 378993 | [378993-pact-with-a-demon-ep01.json](./378993-pact-with-a-demon-ep01.json) |
 | Pact With a Witch | 118350 | [118350-pact-with-a-witch.json](./118350-pact-with-a-witch.json) |
 | PacWorm | 25140 | [25140-pacworm.json](./25140-pacworm.json) |
 | Pacz!: Pacmanworlds 2 | 141732 | [141732-pacz-pacmanworlds-2.json](./141732-pacz-pacmanworlds-2.json) |
@@ -1116,6 +1117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paratopic: Overdub | 349384 | [349384-paratopic-overdub.json](./349384-paratopic-overdub.json) |
 | Paratrooper | 25155 | [25155-paratrooper.json](./25155-paratrooper.json) |
 | Paratroopers | 24986 | [24986-paratroopers.json](./24986-paratroopers.json) |
+| Paravalence: With My Angel | 378975 | [378975-paravalence-with-my-angel.json](./378975-paravalence-with-my-angel.json) |
 | Parawhy | 325677 | [325677-parawhy.json](./325677-parawhy.json) |
 | Parcel Dash | 350444 | [350444-parcel-dash.json](./350444-parcel-dash.json) |
 | Parcel Delivery Simulator | 377066 | [377066-parcel-delivery-simulator.json](./377066-parcel-delivery-simulator.json) |
@@ -3725,6 +3727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Boy: The Legend of Tain | 219674 | [219674-pixel-boy-the-legend-of-tain.json](./219674-pixel-boy-the-legend-of-tain.json) |
 | Pixel Brave | 396944 | [396944-pixel-brave.json](./396944-pixel-brave.json) |
 | Pixel Builder | 105962 | [105962-pixel-builder.json](./105962-pixel-builder.json) |
+| Pixel Cafe Dreamy Interiors | 378963 | [378963-pixel-cafe-dreamy-interiors.json](./378963-pixel-cafe-dreamy-interiors.json) |
 | Pixel Cafe: Definitive Edition | 400200 | [400200-pixel-cafe-definitive-edition.json](./400200-pixel-cafe-definitive-edition.json) |
 | Pixel Cafe: Discovery Edition | 395682 | [395682-pixel-cafe-discovery-edition.json](./395682-pixel-cafe-discovery-edition.json) |
 | Pixel Cafe: Elite Edition | 397891 | [397891-pixel-cafe-elite-edition.json](./397891-pixel-cafe-elite-edition.json) |
@@ -4468,6 +4471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plates | 32188 | [32188-plates.json](./32188-plates.json) |
 | PlateUp!: Collector's Edition | 247191 | [247191-plateup-collectors-edition.json](./247191-plateup-collectors-edition.json) |
 | Platform 4 | 326257 | [326257-platform-4.json](./326257-platform-4.json) |
+| Platform 6 Online | 379004 | [379004-platform-6-online.json](./379004-platform-6-online.json) |
 | Platform 9: No Way Out | 324129 | [324129-platform-9-no-way-out.json](./324129-platform-9-no-way-out.json) |
 | Platform Adventure | 213936 | [213936-platform-adventure.json](./213936-platform-adventure.json) |
 | Platform Anomaly | 373068 | [373068-platform-anomaly.json](./373068-platform-anomaly.json) |
@@ -5693,6 +5697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Break Pro 3D Billiards | 96292 | [96292-pool-break-pro-3d-billiards.json](./96292-pool-break-pro-3d-billiards.json) |
 | Pool Club kara no Dasshutsu | 358493 | [358493-pool-club-kara-no-dasshutsu.json](./358493-pool-club-kara-no-dasshutsu.json) |
 | Pool Elite | 103180 | [103180-pool-elite.json](./103180-pool-elite.json) |
+| Pool Fever Cue to Glory | 378964 | [378964-pool-fever-cue-to-glory.json](./378964-pool-fever-cue-to-glory.json) |
 | Pool Fever: Prime Edition | 332513 | [332513-pool-fever-prime-edition.json](./332513-pool-fever-prime-edition.json) |
 | Pool Fever: Superior Edition | 396925 | [396925-pool-fever-superior-edition.json](./396925-pool-fever-superior-edition.json) |
 | Pool Fever: Upgrade Edition | 399825 | [399825-pool-fever-upgrade-edition.json](./399825-pool-fever-upgrade-edition.json) |
@@ -7097,6 +7102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Profundus | 341468 | [341468-profundus.json](./341468-profundus.json) |
 | PROG | 301955 | [301955-prog.json](./301955-prog.json) |
 | Progear: Airplane Shooter | 231908 | [231908-progear-airplane-shooter.json](./231908-progear-airplane-shooter.json) |
+| Progenitor | 378978 | [378978-progenitor.json](./378978-progenitor.json) |
 | Program Pack 4 | 319591 | [319591-program-pack-4.json](./319591-program-pack-4.json) |
 | Program Penguin | 349405 | [349405-program-penguin.json](./349405-program-penguin.json) |
 | Programa do Ratinho | 163360 | [163360-programa-do-ratinho.json](./163360-programa-do-ratinho.json) |
@@ -7880,6 +7886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puffins: Let's Roll | 66695 | [66695-puffins-lets-roll.json](./66695-puffins-lets-roll.json) |
 | Pufflings: Journey Through a Fantasy World | 397921 | [397921-pufflings-journey-through-a-fantasy-world.json](./397921-pufflings-journey-through-a-fantasy-world.json) |
 | Puffmin Quest | 313354 | [313354-puffmin-quest.json](./313354-puffmin-quest.json) |
+| Puffy Dog Puzzle | 379005 | [379005-puffy-dog-puzzle.json](./379005-puffy-dog-puzzle.json) |
 | Pug'llector | 311252 | [311252-pugllector.json](./311252-pugllector.json) |
 | Pug's Quest | 82954 | [82954-pugs-quest.json](./82954-pugs-quest.json) |
 | Pugovki | 177051 | [177051-pugovki.json](./177051-pugovki.json) |
@@ -8037,6 +8044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puntar: The Somtum of Rememories | 419959 | [419959-puntar-the-somtum-of-rememories.json](./419959-puntar-the-somtum-of-rememories.json) |
 | Puny BOB | 221131 | [221131-puny-bob.json](./221131-puny-bob.json) |
 | Punyan Connecty | 362351 | [362351-punyan-connecty.json](./362351-punyan-connecty.json) |
+| Punyan for Nintendo Switch 2 | 378954 | [378954-punyan-for-nintendo-switch-2.json](./378954-punyan-for-nintendo-switch-2.json) |
 | Punzel: Chapter I - Toujours la Meme Histoire | 221147 | [221147-punzel-chapter-i-toujours-la-meme-histoire.json](./221147-punzel-chapter-i-toujours-la-meme-histoire.json) |
 | Pup Boy Cowboy: Infinite Desert Edition | 410443 | [410443-pup-boy-cowboy-infinite-desert-edition.json](./410443-pup-boy-cowboy-infinite-desert-edition.json) |
 | Pup Breeder | 165411 | [165411-pup-breeder.json](./165411-pup-breeder.json) |
@@ -8316,6 +8324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Bobble VS | 47567 | [47567-puzzle-bobble-vs.json](./47567-puzzle-bobble-vs.json) |
 | Puzzle Bonsai | 259558 | [259558-puzzle-bonsai.json](./259558-puzzle-bonsai.json) |
 | Puzzle Book: Adventure Pack | 237980 | [237980-puzzle-book-adventure-pack.json](./237980-puzzle-book-adventure-pack.json) |
+| Puzzle Book: Animals Edition | 378959 | [378959-puzzle-book-animals-edition.json](./378959-puzzle-book-animals-edition.json) |
 | Puzzle Book: Furry Friends Bundle | 223564 | [223564-puzzle-book-furry-friends-bundle.json](./223564-puzzle-book-furry-friends-bundle.json) |
 | Puzzle Book: Summer 2020 | 238036 | [238036-puzzle-book-summer-2020.json](./238036-puzzle-book-summer-2020.json) |
 | Puzzle Bowling | 158143 | [158143-puzzle-bowling.json](./158143-puzzle-bowling.json) |
