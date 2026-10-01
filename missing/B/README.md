@@ -2820,6 +2820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beetlejuice: Horrific Hijinx from the Neitherworld! | 80889 | [80889-beetlejuice-horrific-hijinx-from-the-neitherworld.json](./80889-beetlejuice-horrific-hijinx-from-the-neitherworld.json) |
 | Beetlenaut | 62197 | [62197-beetlenaut.json](./62197-beetlenaut.json) |
 | BeetleQuest 2023 | 271289 | [271289-beetlequest-2023.json](./271289-beetlequest-2023.json) |
+| BeetleQuest: The Puzzle Game | 358449 | [358449-beetlequest-the-puzzle-game.json](./358449-beetlequest-the-puzzle-game.json) |
 | Beetles | 163819 | [163819-beetles.json](./163819-beetles.json) |
 | Befabled | 183477 | [183477-befabled.json](./183477-befabled.json) |
 | Before | 380013 | [380013-before.json](./380013-before.json) |
@@ -3984,6 +3985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birth of Rome: Alea Jacta Est | 62138 | [62138-birth-of-rome-alea-jacta-est.json](./62138-birth-of-rome-alea-jacta-est.json) |
 | Birth of Shadows | 34490 | [34490-birth-of-shadows.json](./34490-birth-of-shadows.json) |
 | Birth of Spring | 82172 | [82172-birth-of-spring.json](./82172-birth-of-spring.json) |
+| Birth of X | 358448 | [358448-birth-of-x.json](./358448-birth-of-x.json) |
 | Birth Order | 61071 | [61071-birth-order.json](./61071-birth-order.json) |
 | Birthday Boy | 399612 | [399612-birthday-boy.json](./399612-birthday-boy.json) |
 | Birthdays the Beginning: Digital Limited Edition | 52628 | [52628-birthdays-the-beginning-digital-limited-edition.json](./52628-birthdays-the-beginning-digital-limited-edition.json) |
