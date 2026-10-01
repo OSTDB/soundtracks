@@ -898,6 +898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Realms: Nature | 386369 | [386369-jigsaw-realms-nature.json](./386369-jigsaw-realms-nature.json) |
 | Jigsaw Realms: Oasis | 389066 | [389066-jigsaw-realms-oasis.json](./389066-jigsaw-realms-oasis.json) |
 | Jigsaw Realms: Villages | 386370 | [386370-jigsaw-realms-villages.json](./386370-jigsaw-realms-villages.json) |
+| Jigsaw Rogue | 355182 | [355182-jigsaw-rogue.json](./355182-jigsaw-rogue.json) |
 | Jigsaw Swimsuit | 326186 | [326186-jigsaw-swimsuit.json](./326186-jigsaw-swimsuit.json) |
 | Jigsaw Tetra | 147981 | [147981-jigsaw-tetra.json](./147981-jigsaw-tetra.json) |
 | Jigsaw Together | 274752 | [274752-jigsaw-together.json](./274752-jigsaw-together.json) |
@@ -1218,6 +1219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joker & Teacher | 369556 | [369556-joker-and-teacher.json](./369556-joker-and-teacher.json) |
 | Joker Poker: Video Poker | 146862 | [146862-joker-poker-video-poker.json](./146862-joker-poker-video-poker.json) |
 | Joker Show: Horror Escape | 258503 | [258503-joker-show-horror-escape.json](./258503-joker-show-horror-escape.json) |
+| Jollibae | 355173 | [355173-jollibae.json](./355173-jollibae.json) |
 | Jolly 3: Chapter 1 | 184507 | [184507-jolly-3-chapter-1.json](./184507-jolly-3-chapter-1.json) |
 | Jolly 3: Chapter 2 | 184508 | [184508-jolly-3-chapter-2.json](./184508-jolly-3-chapter-2.json) |
 | Jolly and Whimsy | 406872 | [406872-jolly-and-whimsy.json](./406872-jolly-and-whimsy.json) |
