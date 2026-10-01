@@ -2341,6 +2341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Shop Snacks: Expansion Pack 2 | 237982 | [237982-pet-shop-snacks-expansion-pack-2.json](./237982-pet-shop-snacks-expansion-pack-2.json) |
 | Pet Shop Snacks: Extended Edition | 222233 | [222233-pet-shop-snacks-extended-edition.json](./222233-pet-shop-snacks-extended-edition.json) |
 | Pet Show Craze | 177041 | [177041-pet-show-craze.json](./177041-pet-show-craze.json) |
+| Pet Street Story | 373691 | [373691-pet-street-story.json](./373691-pet-street-story.json) |
 | Pet That VTuber! | 403799 | [403799-pet-that-vtuber.json](./403799-pet-that-vtuber.json) |
 | Pet the Dog? | 179587 | [179587-pet-the-dog.json](./179587-pet-the-dog.json) |
 | Pet Tycoon | 209158 | [209158-pet-tycoon.json](./209158-pet-tycoon.json) |
