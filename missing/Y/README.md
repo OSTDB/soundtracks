@@ -267,6 +267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yggdra Unison: Seiken Buyuuden | 67852 | [67852-yggdra-unison-seiken-buyuuden.json](./67852-yggdra-unison-seiken-buyuuden.json) |
 | Yggdrasil | 411786 | [411786-yggdrasil.json](./411786-yggdrasil.json) |
 | Yggdrasil 2: Awakening | 249173 | [249173-yggdrasil-2-awakening.json](./249173-yggdrasil-2-awakening.json) |
+| Yggdrasil Defenders | 358279 | [358279-yggdrasil-defenders.json](./358279-yggdrasil-defenders.json) |
 | Yggdrasil Jigsaw Puzzle | 116825 | [116825-yggdrasil-jigsaw-puzzle.json](./116825-yggdrasil-jigsaw-puzzle.json) |
 | Yggdrasill | 251851 | [251851-yggdrasill.json](./251851-yggdrasill.json) |
 | YGO Omega | 139411 | [139411-ygo-omega.json](./139411-ygo-omega.json) |
