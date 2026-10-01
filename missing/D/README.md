@@ -1759,6 +1759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Simple 21 | 123565 | [123565-dead-simple-21.json](./123565-dead-simple-21.json) |
 | Dead Sky | 16777 | [16777-dead-sky.json](./16777-dead-sky.json) |
 | Dead Some Day | 33155 | [33155-dead-some-day.json](./33155-dead-some-day.json) |
+| Dead Soul Tower Defense: Shadow Labyrinth | 357839 | [357839-dead-soul-tower-defense-shadow-labyrinth.json](./357839-dead-soul-tower-defense-shadow-labyrinth.json) |
 | Dead Space | 131931 | [131931-dead-space.json](./131931-dead-space.json) |
 | Dead Space 2 | 264868 | [264868-dead-space-2.json](./264868-dead-space-2.json) |
 | Dead Space 2: Limited Edition | 44613 | [44613-dead-space-2-limited-edition.json](./44613-dead-space-2-limited-edition.json) |
@@ -6122,6 +6123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomsday on Demand 2 | 104036 | [104036-doomsday-on-demand-2.json](./104036-doomsday-on-demand-2.json) |
 | Doomsday Overture | 280237 | [280237-doomsday-overture.json](./280237-doomsday-overture.json) |
 | Doomsday Robot Girl | 189974 | [189974-doomsday-robot-girl.json](./189974-doomsday-robot-girl.json) |
+| Doomsday Tower Defense | 357838 | [357838-doomsday-tower-defense.json](./357838-doomsday-tower-defense.json) |
 | Doomsday Vault | 117012 | [117012-doomsday-vault.json](./117012-doomsday-vault.json) |
 | Doomsday Warrior | 42599 | [42599-doomsday-warrior.json](./42599-doomsday-warrior.json) |
 | Doomtrain | 386910 | [386910-doomtrain.json](./386910-doomtrain.json) |
@@ -8712,6 +8714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunkypung | 113637 | [113637-dunkypung.json](./113637-dunkypung.json) |
 | Dunnigan's Trail | 154009 | [154009-dunnigans-trail.json](./154009-dunnigans-trail.json) |
 | Dunrog | 124203 | [124203-dunrog.json](./124203-dunrog.json) |
+| Dunthera | 357837 | [357837-dunthera.json](./357837-dunthera.json) |
 | Dunwell | 133990 | [133990-dunwell.json](./133990-dunwell.json) |
 | Dunzhin | 2866 | [2866-dunzhin.json](./2866-dunzhin.json) |
 | Duō Bǎo Xiūxiān | 188524 | [188524-duo-bao-xiuxian.json](./188524-duo-bao-xiuxian.json) |
@@ -8832,6 +8835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarf Tower | 24563 | [24563-dwarf-tower.json](./24563-dwarf-tower.json) |
 | Dwarfare: All For The Forge | 369720 | [369720-dwarfare-all-for-the-forge.json](./369720-dwarfare-all-for-the-forge.json) |
 | Dwarfender | 250894 | [250894-dwarfender.json](./250894-dwarfender.json) |
+| DwarfHold: Tokens & Towers | 357836 | [357836-dwarfhold-tokens-and-towers.json](./357836-dwarfhold-tokens-and-towers.json) |
 | Dwarflings | 30341 | [30341-dwarflings.json](./30341-dwarflings.json) |
 | Dwarfs & Witch | 346088 | [346088-dwarfs-and-witch.json](./346088-dwarfs-and-witch.json) |
 | Dwarfs Delight | 287714 | [287714-dwarfs-delight.json](./287714-dwarfs-delight.json) |
