@@ -1349,6 +1349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joy the Pug | 144187 | [144187-joy-the-pug.json](./144187-joy-the-pug.json) |
 | Joydoor | 108061 | [108061-joydoor.json](./108061-joydoor.json) |
 | Joyfess: Martin's Secret Recipe | 126521 | [126521-joyfess-martins-secret-recipe.json](./126521-joyfess-martins-secret-recipe.json) |
+| Joyful Masks | 373160 | [373160-joyful-masks.json](./373160-joyful-masks.json) |
 | Joyland: Horror Adventure Quest | 233437 | [233437-joyland-horror-adventure-quest.json](./233437-joyland-horror-adventure-quest.json) |
 | Joymaker | 374284 | [374284-joymaker.json](./374284-joymaker.json) |
 | Joyman | 40203 | [40203-joyman.json](./40203-joyman.json) |
