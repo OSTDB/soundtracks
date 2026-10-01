@@ -1260,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Making Lovers: Limited Edition | 166174 | [166174-making-lovers-limited-edition.json](./166174-making-lovers-limited-edition.json) |
 | Making of Conquerors | 184915 | [184915-making-of-conquerors.json](./184915-making-of-conquerors.json) |
 | Makiomino | 196040 | [196040-makiomino.json](./196040-makiomino.json) |
+| Makis Adventure: Level Editor | 341605 | [341605-makis-adventure-level-editor.json](./341605-makis-adventure-level-editor.json) |
 | Makka Pakka 2 | 375322 | [375322-makka-pakka-2.json](./375322-makka-pakka-2.json) |
 | Makoto Mobius | 150152 | [150152-makoto-mobius.json](./150152-makoto-mobius.json) |
 | Makoto Wakaido's Case Files: Executioner's Wedge | 245045 | [245045-makoto-wakaidos-case-files-executioners-wedge.json](./245045-makoto-wakaidos-case-files-executioners-wedge.json) |
@@ -2991,6 +2992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayan Prophecies Collection | 144872 | [144872-mayan-prophecies-collection.json](./144872-mayan-prophecies-collection.json) |
 | Mayan Prophecies: Blood Moon - Collector's Edition | 88199 | [88199-mayan-prophecies-blood-moon-collectors-edition.json](./88199-mayan-prophecies-blood-moon-collectors-edition.json) |
 | Mayan Reynolds | 260664 | [260664-mayan-reynolds.json](./260664-mayan-reynolds.json) |
+| Mayban | 341646 | [341646-mayban.json](./341646-mayban.json) |
 | Maybe I Can | 153957 | [153957-maybe-i-can.json](./153957-maybe-i-can.json) |
 | Maybe Tomorrow | 238740 | [238740-maybe-tomorrow.json](./238740-maybe-tomorrow.json) |
 | Maybe: Interactive Stories | 139886 | [139886-maybe-interactive-stories.json](./139886-maybe-interactive-stories.json) |
@@ -4146,6 +4148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MeltyMoment Mini Fandisc: Sumire & Chiemi Version | 413645 | [413645-meltymoment-mini-fandisc-sumire-and-chiemi-version.json](./413645-meltymoment-mini-fandisc-sumire-and-chiemi-version.json) |
 | Meluo and the Eyes of Hollow | 374607 | [374607-meluo-and-the-eyes-of-hollow.json](./374607-meluo-and-the-eyes-of-hollow.json) |
 | Melvor Idle | 141130 | [141130-melvor-idle.json](./141130-melvor-idle.json) |
+| Melvor Idle 2 | 341622 | [341622-melvor-idle-2.json](./341622-melvor-idle-2.json) |
 | Melvor Idle: Atlas of Discovery | 259837 | [259837-melvor-idle-atlas-of-discovery.json](./259837-melvor-idle-atlas-of-discovery.json) |
 | Melvor Idle: Into the Abyss | 298026 | [298026-melvor-idle-into-the-abyss.json](./298026-melvor-idle-into-the-abyss.json) |
 | Melvor Idle: Throne of the Herald | 224480 | [224480-melvor-idle-throne-of-the-herald.json](./224480-melvor-idle-throne-of-the-herald.json) |
@@ -5415,6 +5418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midsummer Leg's Dream | 303791 | [303791-midsummer-legs-dream.json](./303791-midsummer-legs-dream.json) |
 | Midtown Madness | 2348 | [2348-midtown-madness.json](./2348-midtown-madness.json) |
 | Midtown Madness 2 | 5930 | [5930-midtown-madness-2.json](./5930-midtown-madness-2.json) |
+| Midtris | 341611 | [341611-midtris.json](./341611-midtris.json) |
 | Midvinter | 19281 | [19281-midvinter.json](./19281-midvinter.json) |
 | Midway Accident | 296975 | [296975-midway-accident.json](./296975-midway-accident.json) |
 | Midway Campaign | 23994 | [23994-midway-campaign.json](./23994-midway-campaign.json) |
@@ -8629,6 +8633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountaincore | 245932 | [245932-mountaincore.json](./245932-mountaincore.json) |
 | Mounted War | 336691 | [336691-mounted-war.json](./336691-mounted-war.json) |
 | Mountinuum | 285047 | [285047-mountinuum.json](./285047-mountinuum.json) |
+| Mountris | 341639 | [341639-mountris.json](./341639-mountris.json) |
 | Mourir en mer | 70435 | [70435-mourir-en-mer.json](./70435-mourir-en-mer.json) |
 | Mournful Sword | 121583 | [121583-mournful-sword.json](./121583-mournful-sword.json) |
 | Mourning Inc. | 158035 | [158035-mourning-inc.json](./158035-mourning-inc.json) |
