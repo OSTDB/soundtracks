@@ -1103,6 +1103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GDO Masters | 180016 | [180016-gdo-masters.json](./180016-gdo-masters.json) |
 | Ge-Sen Love Plus Pengo! | 61571 | [61571-ge-sen-love-plus-pengo.json](./61571-ge-sen-love-plus-pengo.json) |
 | Gear | 117687 | [117687-gear.json](./117687-gear.json) |
+| Gear Combination | 367536 | [367536-gear-combination.json](./367536-gear-combination.json) |
 | Gear for Heroes | 243072 | [243072-gear-for-heroes.json](./243072-gear-for-heroes.json) |
 | Gear Notes: Ogre Slayer | 409796 | [409796-gear-notes-ogre-slayer.json](./409796-gear-notes-ogre-slayer.json) |
 | Gear of Time | 329085 | [329085-gear-of-time.json](./329085-gear-of-time.json) |
@@ -2798,6 +2799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goddess of Fate IV: Lilith | 281447 | [281447-goddess-of-fate-iv-lilith.json](./281447-goddess-of-fate-iv-lilith.json) |
 | Goddess of Math | 116116 | [116116-goddess-of-math.json](./116116-goddess-of-math.json) |
 | Goddess Of Swing | 329353 | [329353-goddess-of-swing.json](./329353-goddess-of-swing.json) |
+| Goddess of the Miracle | 367549 | [367549-goddess-of-the-miracle.json](./367549-goddess-of-the-miracle.json) |
 | Goddess of War Ashley | 144222 | [144222-goddess-of-war-ashley.json](./144222-goddess-of-war-ashley.json) |
 | Goddess of War Essa | 195179 | [195179-goddess-of-war-essa.json](./195179-goddess-of-war-essa.json) |
 | Goddess Paradise | 369768 | [369768-goddess-paradise.json](./369768-goddess-paradise.json) |
@@ -4991,6 +4993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunbrella: Deluxe Edition | 266822 | [266822-gunbrella-deluxe-edition.json](./266822-gunbrella-deluxe-edition.json) |
 | Gunbrick | 59838 | [59838-gunbrick.json](./59838-gunbrick.json) |
 | Guncaster | 142417 | [142417-guncaster.json](./142417-guncaster.json) |
+| Guncaster | 367575 | [367575-guncaster.json](./367575-guncaster.json) |
 | Guncho | 275604 | [275604-guncho.json](./275604-guncho.json) |
 | Gunclone Arena | 389647 | [389647-gunclone-arena.json](./389647-gunclone-arena.json) |
 | Guncom 2 | 43532 | [43532-guncom-2.json](./43532-guncom-2.json) |
