@@ -2177,6 +2177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight Until Death | 219783 | [219783-fight-until-death.json](./219783-fight-until-death.json) |
 | Fight With Valkyries | 368565 | [368565-fight-with-valkyries.json](./368565-fight-with-valkyries.json) |
 | Fight with WWE Champion | 196583 | [196583-fight-with-wwe-champion.json](./196583-fight-with-wwe-champion.json) |
+| Fight-Quest | 349445 | [349445-fight-quest.json](./349445-fight-quest.json) |
 | Fight,to the last | 127869 | [127869-fight-to-the-last.json](./127869-fight-to-the-last.json) |
 | Fight'N Rage | 59573 | [59573-fightn-rage.json](./59573-fightn-rage.json) |
 | Fightback | 63357 | [63357-fightback.json](./63357-fightback.json) |
@@ -6194,6 +6195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuksoft II | 209440 | [209440-fuksoft-ii.json](./209440-fuksoft-ii.json) |
 | FukTopia 3 | 173833 | [173833-fuktopia-3.json](./173833-fuktopia-3.json) |
 | FukTopia 5 | 220591 | [220591-fuktopia-5.json](./220591-fuktopia-5.json) |
+| Fuku-chan no Obake nanka Kowakunai | 349458 | [349458-fuku-chan-no-obake-nanka-kowakunai.json](./349458-fuku-chan-no-obake-nanka-kowakunai.json) |
 | Fukufuku no Shima | 59373 | [59373-fukufuku-no-shima.json](./59373-fukufuku-no-shima.json) |
 | Fukuro to Subaru | 326946 | [326946-fukuro-to-subaru.json](./326946-fukuro-to-subaru.json) |
 | Fulcrum | 58284 | [58284-fulcrum.json](./58284-fulcrum.json) |
