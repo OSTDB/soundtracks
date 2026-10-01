@@ -1826,6 +1826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Baseball 2000 | 62254 | [62254-vr-baseball-2000.json](./62254-vr-baseball-2000.json) |
 | VR Basketball Sweetie | 384516 | [384516-vr-basketball-sweetie.json](./384516-vr-basketball-sweetie.json) |
 | VR Batting | 29172 | [29172-vr-batting.json](./29172-vr-batting.json) |
+| VR Blade of Blocks | 334924 | [334924-vr-blade-of-blocks.json](./334924-vr-blade-of-blocks.json) |
 | VR Boyfriend | 196337 | [196337-vr-boyfriend.json](./196337-vr-boyfriend.json) |
 | VR Catgirl | 162846 | [162846-vr-catgirl.json](./162846-vr-catgirl.json) |
 | VR Chair Games | 29227 | [29227-vr-chair-games.json](./29227-vr-chair-games.json) |
