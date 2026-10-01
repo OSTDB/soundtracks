@@ -3805,6 +3805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megan's Adventure | 310067 | [310067-megans-adventure.json](./310067-megans-adventure.json) |
 | Meganaut | 340021 | [340021-meganaut.json](./340021-meganaut.json) |
 | Meganoid | 29184 | [29184-meganoid.json](./29184-meganoid.json) |
+| Meganoid: Chronicles | 370812 | [370812-meganoid-chronicles.json](./370812-meganoid-chronicles.json) |
 | Megapain | 398461 | [398461-megapain.json](./398461-megapain.json) |
 | MegaPak 1 | 138754 | [138754-megapak-1.json](./138754-megapak-1.json) |
 | Megaplex | 94722 | [94722-megaplex.json](./94722-megaplex.json) |
