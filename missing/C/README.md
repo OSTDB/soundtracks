@@ -858,6 +858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain StarOne | 114939 | [114939-captain-starone.json](./114939-captain-starone.json) |
 | Captain Superhero Flying Robot Rescue | 101981 | [101981-captain-superhero-flying-robot-rescue.json](./101981-captain-superhero-flying-robot-rescue.json) |
 | Captain Toad Treasure Tracker | 162427 | [162427-captain-toad-treasure-tracker.json](./162427-captain-toad-treasure-tracker.json) |
+| Captain Toad: Prism Star Quest | 358338 | [358338-captain-toad-prism-star-quest.json](./358338-captain-toad-prism-star-quest.json) |
 | Captain Toad: Treasure Tracker - Special Edition | 51139 | [51139-captain-toad-treasure-tracker-special-edition.json](./51139-captain-toad-treasure-tracker-special-edition.json) |
 | Captain Toad: Treasure Tracker - Special Episode | 132225 | [132225-captain-toad-treasure-tracker-special-episode.json](./132225-captain-toad-treasure-tracker-special-episode.json) |
 | Captain Toad: Treasure Tracker + Special Episode | 136381 | [136381-captain-toad-treasure-tracker-special-episode.json](./136381-captain-toad-treasure-tracker-special-episode.json) |
@@ -2319,6 +2320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CEdges | 68678 | [68678-cedges.json](./68678-cedges.json) |
 | Cedric & Odious | 328270 | [328270-cedric-and-odious.json](./328270-cedric-and-odious.json) |
 | CeeBot-A | 94574 | [94574-ceebot-a.json](./94574-ceebot-a.json) |
+| Ceiling Mounted Sprinkler | 358439 | [358439-ceiling-mounted-sprinkler.json](./358439-ceiling-mounted-sprinkler.json) |
 | Ceiling Zero | 282105 | [282105-ceiling-zero.json](./282105-ceiling-zero.json) |
 | Cel Damage 2 | 143110 | [143110-cel-damage-2.json](./143110-cel-damage-2.json) |
 | Celebrating Lake Xochimilco | 250299 | [250299-celebrating-lake-xochimilco.json](./250299-celebrating-lake-xochimilco.json) |
