@@ -294,6 +294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Wash | 381713 | [381713-zen-wash.json](./381713-zen-wash.json) |
 | Zen with a Pen | 260252 | [260252-zen-with-a-pen.json](./260252-zen-with-a-pen.json) |
 | Zen-Ichi | 82119 | [82119-zen-ichi.json](./82119-zen-ichi.json) |
+| Zen-Nippon GT Senshuken MAX Rev. | 381784 | [381784-zen-nippon-gt-senshuken-max-rev.json](./381784-zen-nippon-gt-senshuken-max-rev.json) |
 | Zen-Nippon Joshi Pro Wrestling: Queen of Queens | 45954 | [45954-zen-nippon-joshi-pro-wrestling-queen-of-queens.json](./45954-zen-nippon-joshi-pro-wrestling-queen-of-queens.json) |
 | Zen-Nippon Pro Wrestling Featuring Virtua | 46089 | [46089-zen-nippon-pro-wrestling-featuring-virtua.json](./46089-zen-nippon-pro-wrestling-featuring-virtua.json) |
 | Zen-Nippon Pro Wrestling: Fight Da Pon! | 65200 | [65200-zen-nippon-pro-wrestling-fight-da-pon.json](./65200-zen-nippon-pro-wrestling-fight-da-pon.json) |
