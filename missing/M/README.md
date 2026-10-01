@@ -1083,6 +1083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maimai DX | 130331 | [130331-maimai-dx.json](./130331-maimai-dx.json) |
 | Maimai DX Festival Plus | 243688 | [243688-maimai-dx-festival-plus.json](./243688-maimai-dx-festival-plus.json) |
 | Maimai DX Plus | 331676 | [331676-maimai-dx-plus.json](./331676-maimai-dx-plus.json) |
+| Maimai DX Prism Plus | 335417 | [335417-maimai-dx-prism-plus.json](./335417-maimai-dx-prism-plus.json) |
 | Maimai DX Splash | 164382 | [164382-maimai-dx-splash.json](./164382-maimai-dx-splash.json) |
 | Maimai DX Splash Plus | 167282 | [167282-maimai-dx-splash-plus.json](./167282-maimai-dx-splash-plus.json) |
 | Maimai DX Universe | 167281 | [167281-maimai-dx-universe.json](./167281-maimai-dx-universe.json) |
@@ -1621,6 +1622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marbies Party | 344934 | [344934-marbies-party.json](./344934-marbies-party.json) |
 | Marble Abduction! Patti Hattu | 299945 | [299945-marble-abduction-patti-hattu.json](./299945-marble-abduction-patti-hattu.json) |
 | Marble Age | 35838 | [35838-marble-age.json](./35838-marble-age.json) |
+| Marble Allstars | 335506 | [335506-marble-allstars.json](./335506-marble-allstars.json) |
 | Marble Battles | 240213 | [240213-marble-battles.json](./240213-marble-battles.json) |
 | Marble Blast Platinum | 239883 | [239883-marble-blast-platinum.json](./239883-marble-blast-platinum.json) |
 | Marble Blaster | 210043 | [210043-marble-blaster.json](./210043-marble-blaster.json) |
@@ -2563,6 +2565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Orion II: Battle at Antares | 68 | [68-master-of-orion-ii-battle-at-antares.json](./68-master-of-orion-ii-battle-at-antares.json) |
 | Master of Orion III | 69 | [69-master-of-orion-iii.json](./69-master-of-orion-iii.json) |
 | Master of Orion: Gnolam League | 169972 | [169972-master-of-orion-gnolam-league.json](./169972-master-of-orion-gnolam-league.json) |
+| Master of Piece | 335398 | [335398-master-of-piece.json](./335398-master-of-piece.json) |
 | Master of Pieces Jigsaw Puzzle: Beadwoven Beauty | 357908 | [357908-master-of-pieces-jigsaw-puzzle-beadwoven-beauty.json](./357908-master-of-pieces-jigsaw-puzzle-beadwoven-beauty.json) |
 | Master of Pieces Jigsaw Puzzle: Beautiful Nonsense 2 | 357910 | [357910-master-of-pieces-jigsaw-puzzle-beautiful-nonsense-2.json](./357910-master-of-pieces-jigsaw-puzzle-beautiful-nonsense-2.json) |
 | Master of Pieces Jigsaw Puzzle: Beautiful Nonsense 3 | 357911 | [357911-master-of-pieces-jigsaw-puzzle-beautiful-nonsense-3.json](./357911-master-of-pieces-jigsaw-puzzle-beautiful-nonsense-3.json) |
@@ -3752,6 +3755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man X Dive | 121045 | [121045-mega-man-x-dive.json](./121045-mega-man-x-dive.json) |
 | Mega Man X Dive Offline | 252996 | [252996-mega-man-x-dive-offline.json](./252996-mega-man-x-dive-offline.json) |
 | Mega Man X in Sonic the Hedgehog 2 | 136417 | [136417-mega-man-x-in-sonic-the-hedgehog-2.json](./136417-mega-man-x-in-sonic-the-hedgehog-2.json) |
+| Mega Man X Synthesis | 335396 | [335396-mega-man-x-synthesis.json](./335396-mega-man-x-synthesis.json) |
 | Mega Man X: cadê o chão, Sharivan? | 268420 | [268420-mega-man-x-cade-o-chao-sharivan.json](./268420-mega-man-x-cade-o-chao-sharivan.json) |
 | Mega Man X: Command Mission | 1751 | [1751-mega-man-x-command-mission.json](./1751-mega-man-x-command-mission.json) |
 | Mega Man X: Command Mission | 416112 | [416112-mega-man-x-command-mission.json](./416112-mega-man-x-command-mission.json) |
