@@ -727,6 +727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Geometry Defense | 373735 | [373735-idle-geometry-defense.json](./373735-idle-geometry-defense.json) |
 | Idle Guardians | 117816 | [117816-idle-guardians.json](./117816-idle-guardians.json) |
 | Idle Gumball Machine | 365835 | [365835-idle-gumball-machine.json](./365835-idle-gumball-machine.json) |
+| Idle Guy | 352244 | [352244-idle-guy.json](./352244-idle-guy.json) |
 | Idle Hacker | 406185 | [406185-idle-hacker.json](./406185-idle-hacker.json) |
 | Idle Hamburgers Save the World | 224215 | [224215-idle-hamburgers-save-the-world.json](./224215-idle-hamburgers-save-the-world.json) |
 | Idle Heist | 101368 | [101368-idle-heist.json](./101368-idle-heist.json) |
@@ -1973,6 +1974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ingression | 207244 | [207244-ingression.json](./207244-ingression.json) |
 | Ingrid's Back! | 15493 | [15493-ingrids-back.json](./15493-ingrids-back.json) |
 | Ingrids Back | 40964 | [40964-ingrids-back.json](./40964-ingrids-back.json) |
+| Inhabited Island: Prisoner of Power | 352354 | [352354-inhabited-island-prisoner-of-power.json](./352354-inhabited-island-prisoner-of-power.json) |
 | Inherent Evil - The Haunted Hotel | 114408 | [114408-inherent-evil-the-haunted-hotel.json](./114408-inherent-evil-the-haunted-hotel.json) |
 | Inherit the Earth: Quest for the Orb | 16726 | [16726-inherit-the-earth-quest-for-the-orb.json](./16726-inherit-the-earth-quest-for-the-orb.json) |
 | Inheritance | 365746 | [365746-inheritance.json](./365746-inheritance.json) |
@@ -3010,6 +3012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island of Mine | 273959 | [273959-island-of-mine.json](./273959-island-of-mine.json) |
 | Island of Mogambo | 268986 | [268986-island-of-mogambo.json](./268986-island-of-mogambo.json) |
 | Island of the Ancients | 154368 | [154368-island-of-the-ancients.json](./154368-island-of-the-ancients.json) |
+| Island Off Outer Darkness | 352349 | [352349-island-off-outer-darkness.json](./352349-island-off-outer-darkness.json) |
 | Island Paradise | 296939 | [296939-island-paradise.json](./296939-island-paradise.json) |
 | Island Peril | 57673 | [57673-island-peril.json](./57673-island-peril.json) |
 | Island Questaway: Jungle Farm | 233472 | [233472-island-questaway-jungle-farm.json](./233472-island-questaway-jungle-farm.json) |
