@@ -458,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GalaxySpace VR | 149553 | [149553-galaxyspace-vr.json](./149553-galaxyspace-vr.json) |
 | Galaxystrife | 177018 | [177018-galaxystrife.json](./177018-galaxystrife.json) |
 | GalaxyWak | 282103 | [282103-galaxywak.json](./282103-galaxywak.json) |
+| Galaxyz Neo | 385777 | [385777-galaxyz-neo.json](./385777-galaxyz-neo.json) |
 | Galazer Deluxe | 358965 | [358965-galazer-deluxe.json](./358965-galazer-deluxe.json) |
 | Galcon | 29041 | [29041-galcon.json](./29041-galcon.json) |
 | Galcon 2 | 36325 | [36325-galcon-2.json](./36325-galcon-2.json) |
@@ -2263,6 +2264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitch Busters: Stuck on You | 204444 | [204444-glitch-busters-stuck-on-you.json](./204444-glitch-busters-stuck-on-you.json) |
 | Glitch Daddy | 277009 | [277009-glitch-daddy.json](./277009-glitch-daddy.json) |
 | Glitch Fixers: Powerpuff Girls | 56734 | [56734-glitch-fixers-powerpuff-girls.json](./56734-glitch-fixers-powerpuff-girls.json) |
+| Glitch Hearts | 385790 | [385790-glitch-hearts.json](./385790-glitch-hearts.json) |
 | Glitch Hero | 323247 | [323247-glitch-hero.json](./323247-glitch-hero.json) |
 | Glitch in the System | 236809 | [236809-glitch-in-the-system.json](./236809-glitch-in-the-system.json) |
 | Glitch Maze.exe | 293074 | [293074-glitch-maze-exe.json](./293074-glitch-maze-exe.json) |
@@ -3327,6 +3329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorescript Classic | 81424 | [81424-gorescript-classic.json](./81424-gorescript-classic.json) |
 | Gorf | 282064 | [282064-gorf.json](./282064-gorf.json) |
 | Gorf the Ghost Saves Halloween | 277415 | [277415-gorf-the-ghost-saves-halloween.json](./277415-gorf-the-ghost-saves-halloween.json) |
+| Gorgeous Elves of Ganassa | 385806 | [385806-gorgeous-elves-of-ganassa.json](./385806-gorgeous-elves-of-ganassa.json) |
 | Gorgeous Princess Dressup | 104605 | [104605-gorgeous-princess-dressup.json](./104605-gorgeous-princess-dressup.json) |
 | Gorgon | 22411 | [22411-gorgon.json](./22411-gorgon.json) |
 | Gorgon Shield | 259018 | [259018-gorgon-shield.json](./259018-gorgon-shield.json) |
