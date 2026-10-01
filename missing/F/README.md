@@ -5955,6 +5955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frost Vale | 389056 | [389056-frost-vale.json](./389056-frost-vale.json) |
 | Frost Wars: The Rise of Fatty Sparkles | 64440 | [64440-frost-wars-the-rise-of-fatty-sparkles.json](./64440-frost-wars-the-rise-of-fatty-sparkles.json) |
 | Frost World | 355574 | [355574-frost-world.json](./355574-frost-world.json) |
+| Frostbite | 364042 | [364042-frostbite.json](./364042-frostbite.json) |
 | FrostBite | 381039 | [381039-frostbite.json](./381039-frostbite.json) |
 | Frostbite: Deadly Climate | 105360 | [105360-frostbite-deadly-climate.json](./105360-frostbite-deadly-climate.json) |
 | Frostbitten | 199101 | [199101-frostbitten.json](./199101-frostbitten.json) |
