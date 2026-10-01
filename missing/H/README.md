@@ -5502,6 +5502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human Rights | 115792 | [115792-human-rights.json](./115792-human-rights.json) |
 | Human Rocket Person | 111700 | [111700-human-rocket-person.json](./111700-human-rocket-person.json) |
 | Human Save Plan | 234577 | [234577-human-save-plan.json](./234577-human-save-plan.json) |
+| Human Spiderweb | 374230 | [374230-human-spiderweb.json](./374230-human-spiderweb.json) |
 | Human Upgrade Labs | 298114 | [298114-human-upgrade-labs.json](./298114-human-upgrade-labs.json) |
 | Human vs Food | 190435 | [190435-human-vs-food.json](./190435-human-vs-food.json) |
 | Human vs Monster | 150693 | [150693-human-vs-monster.json](./150693-human-vs-monster.json) |
