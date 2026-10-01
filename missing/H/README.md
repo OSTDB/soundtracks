@@ -2181,6 +2181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Help Yourself | 153993 | [153993-help-yourself.json](./153993-help-yourself.json) |
 | Help, I cast the wrong spell! | 180802 | [180802-help-i-cast-the-wrong-spell.json](./180802-help-i-cast-the-wrong-spell.json) |
 | Help! I've Been Cursed With A Bubble Butt | 337469 | [337469-help-ive-been-cursed-with-a-bubble-butt.json](./337469-help-ive-been-cursed-with-a-bubble-butt.json) |
+| Help! My New Roommate Is a Hung Goth Futanari Ghost! | 369164 | [369164-help-my-new-roommate-is-a-hung-goth-futanari-ghost.json](./369164-help-my-new-roommate-is-a-hung-goth-futanari-ghost.json) |
 | Helping Hand | 104858 | [104858-helping-hand.json](./104858-helping-hand.json) |
 | Helping Hand | 365739 | [365739-helping-hand.json](./365739-helping-hand.json) |
 | Heltons Haunted Hotel | 148371 | [148371-heltons-haunted-hotel.json](./148371-heltons-haunted-hotel.json) |
@@ -3416,6 +3417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Raccoons | 389738 | [389738-hidden-raccoons.json](./389738-hidden-raccoons.json) |
 | Hidden Raccoons in Asia | 403185 | [403185-hidden-raccoons-in-asia.json](./403185-hidden-raccoons-in-asia.json) |
 | Hidden Raccoons in Summer | 403186 | [403186-hidden-raccoons-in-summer.json](./403186-hidden-raccoons-in-summer.json) |
+| Hidden Realm of the Enchantress | 369162 | [369162-hidden-realm-of-the-enchantress.json](./369162-hidden-realm-of-the-enchantress.json) |
 | Hidden Riddles: The Amazon Mystery | 295867 | [295867-hidden-riddles-the-amazon-mystery.json](./295867-hidden-riddles-the-amazon-mystery.json) |
 | Hidden Robo Cats | 287074 | [287074-hidden-robo-cats.json](./287074-hidden-robo-cats.json) |
 | Hidden Robo Cats: Bonus Level | 289453 | [289453-hidden-robo-cats-bonus-level.json](./289453-hidden-robo-cats-bonus-level.json) |
@@ -5423,6 +5425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HTR High Tech Racing | 85174 | [85174-htr-high-tech-racing.json](./85174-htr-high-tech-racing.json) |
 | HTR+ Slot Car Simulation | 17197 | [17197-htr-slot-car-simulation.json](./17197-htr-slot-car-simulation.json) |
 | Hua-Z | 397788 | [397788-hua-z.json](./397788-hua-z.json) |
+| Huáijiù Bǎn Sānguózhì Idle RPG | 369188 | [369188-huaijiu-ban-sanguozhi-idle-rpg.json](./369188-huaijiu-ban-sanguozhi-idle-rpg.json) |
 | Huang Quan Dream | 355194 | [355194-huang-quan-dream.json](./355194-huang-quan-dream.json) |
 | Huang Zhu Qian Kun | 308872 | [308872-huang-zhu-qian-kun.json](./308872-huang-zhu-qian-kun.json) |
 | Huāngdǎo Qiúshēng | 123555 | [123555-huangdao-qiusheng.json](./123555-huangdao-qiusheng.json) |
@@ -5963,6 +5966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperblade | 344579 | [344579-hyperblade.json](./344579-hyperblade.json) |
 | Hyperblade | 51379 | [51379-hyperblade.json](./51379-hyperblade.json) |
 | Hyperblast! | 342612 | [342612-hyperblast.json](./342612-hyperblast.json) |
+| Hyperboard Extreme | 369176 | [369176-hyperboard-extreme.json](./369176-hyperboard-extreme.json) |
 | HyperBody | 292518 | [292518-hyperbody.json](./292518-hyperbody.json) |
 | Hyperbolica | 161510 | [161510-hyperbolica.json](./161510-hyperbolica.json) |
 | Hyperborea | 117703 | [117703-hyperborea.json](./117703-hyperborea.json) |
