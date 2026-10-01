@@ -366,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paintball Arena Challenge | 86998 | [86998-paintball-arena-challenge.json](./86998-paintball-arena-challenge.json) |
 | Paintball Champs | 237386 | [237386-paintball-champs.json](./237386-paintball-champs.json) |
 | Paintball eXtreme | 34793 | [34793-paintball-extreme.json](./34793-paintball-extreme.json) |
+| Paintball Madness | 356204 | [356204-paintball-madness.json](./356204-paintball-madness.json) |
 | Paintball NET | 125951 | [125951-paintball-net.json](./125951-paintball-net.json) |
 | PaintBall War 2 | 154464 | [154464-paintball-war-2.json](./154464-paintball-war-2.json) |
 | Paintballers: MLPB 2024 | 295344 | [295344-paintballers-mlpb-2024.json](./295344-paintballers-mlpb-2024.json) |
@@ -2208,6 +2209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Periscope Up | 13023 | [13023-periscope-up.json](./13023-periscope-up.json) |
 | Perish Song | 197259 | [197259-perish-song.json](./197259-perish-song.json) |
 | Perish the Thoth | 271458 | [271458-perish-the-thoth.json](./271458-perish-the-thoth.json) |
+| Perisno | 356202 | [356202-perisno.json](./356202-perisno.json) |
 | Perk Up | 372990 | [372990-perk-up.json](./372990-perk-up.json) |
 | Perkele! Suomi 100 vuotta | 74390 | [74390-perkele-suomi-100-vuotta.json](./74390-perkele-suomi-100-vuotta.json) |
 | Perky Little Things | 90825 | [90825-perky-little-things.json](./90825-perky-little-things.json) |
@@ -5468,6 +5470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polar Penguin | 239731 | [239731-polar-penguin.json](./239731-polar-penguin.json) |
 | Polar Rollout | 96256 | [96256-polar-rollout.json](./96256-polar-rollout.json) |
 | Polaria | 374601 | [374601-polaria.json](./374601-polaria.json) |
+| Polariball | 356205 | [356205-polariball.json](./356205-polariball.json) |
 | Polaris | 380125 | [380125-polaris.json](./380125-polaris.json) |
 | Polarity Switch | 176342 | [176342-polarity-switch.json](./176342-polarity-switch.json) |
 | Polarize | 228582 | [228582-polarize.json](./228582-polarize.json) |
@@ -7873,6 +7876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycholytic | 348235 | [348235-psycholytic.json](./348235-psycholytic.json) |
 | Psychomachia | 291218 | [291218-psychomachia.json](./291218-psychomachia.json) |
 | Psychonauts 2: Motherlobe Edition | 207394 | [207394-psychonauts-2-motherlobe-edition.json](./207394-psychonauts-2-motherlobe-edition.json) |
+| Psychopath Hunt | 356201 | [356201-psychopath-hunt.json](./356201-psychopath-hunt.json) |
 | Psychopath Mind Quiz: Unmask Their Dark Nature | 420663 | [420663-psychopath-mind-quiz-unmask-their-dark-nature.json](./420663-psychopath-mind-quiz-unmask-their-dark-nature.json) |
 | PsychoPhobia | 196025 | [196025-psychophobia.json](./196025-psychophobia.json) |
 | Psychophonies: What Ghosts Say | 238438 | [238438-psychophonies-what-ghosts-say.json](./238438-psychophonies-what-ghosts-say.json) |
