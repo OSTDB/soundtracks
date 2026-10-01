@@ -1430,6 +1430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oni: Road to be the Mightiest Oni | 194944 | [194944-oni-road-to-be-the-mightiest-oni.json](./194944-oni-road-to-be-the-mightiest-oni.json) |
 | Onigami | 184562 | [184562-onigami.json](./184562-onigami.json) |
 | Onigashima: Awakening | 406103 | [406103-onigashima-awakening.json](./406103-onigashima-awakening.json) |
+| Onigiri Run | 351781 | [351781-onigiri-run.json](./351781-onigiri-run.json) |
 | Onigiri Shop Simulator | 361911 | [361911-onigiri-shop-simulator.json](./361911-onigiri-shop-simulator.json) |
 | Onigo Hunter | 133618 | [133618-onigo-hunter.json](./133618-onigo-hunter.json) |
 | Onii-Chan | 89968 | [89968-onii-chan.json](./89968-onii-chan.json) |
@@ -1811,6 +1812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orange Salvifique | 172513 | [172513-orange-salvifique.json](./172513-orange-salvifique.json) |
 | Orange Santa | 151131 | [151131-orange-santa.json](./151131-orange-santa.json) |
 | Orange Season | 34231 | [34231-orange-season.json](./34231-orange-season.json) |
+| Orange Simulator | 351769 | [351769-orange-simulator.json](./351769-orange-simulator.json) |
 | Orangeblood | 119591 | [119591-orangeblood.json](./119591-orangeblood.json) |
 | Oranges | 270716 | [270716-oranges.json](./270716-oranges.json) |
 | Orangia | 366934 | [366934-orangia.json](./366934-orangia.json) |
@@ -2403,6 +2405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of the Blocks | 62723 | [62723-out-of-the-blocks.json](./62723-out-of-the-blocks.json) |
 | Out of the Deathmount | 231505 | [231505-out-of-the-deathmount.json](./231505-out-of-the-deathmount.json) |
 | Out of the ground | 226202 | [226202-out-of-the-ground.json](./226202-out-of-the-ground.json) |
+| Out of the Ordinary | 351774 | [351774-out-of-the-ordinary.json](./351774-out-of-the-ordinary.json) |
 | Out of the Park Baseball 11: Championship Edition | 209405 | [209405-out-of-the-park-baseball-11-championship-edition.json](./209405-out-of-the-park-baseball-11-championship-edition.json) |
 | Out of the Park Baseball 12 | 65480 | [65480-out-of-the-park-baseball-12.json](./65480-out-of-the-park-baseball-12.json) |
 | Out of the Park Baseball 13 | 64368 | [64368-out-of-the-park-baseball-13.json](./64368-out-of-the-park-baseball-13.json) |
