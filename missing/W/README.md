@@ -561,6 +561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warborne: Above Ashes | 333102 | [333102-warborne-above-ashes.json](./333102-warborne-above-ashes.json) |
 | Warbot | 86523 | [86523-warbot.json](./86523-warbot.json) |
 | Warbot Engineer | 337458 | [337458-warbot-engineer.json](./337458-warbot-engineer.json) |
+| Warbound | 372627 | [372627-warbound.json](./372627-warbound.json) |
 | Warbox | 168647 | [168647-warbox.json](./168647-warbox.json) |
 | Warbox | 232010 | [232010-warbox.json](./232010-warbox.json) |
 | Warcos | 185676 | [185676-warcos.json](./185676-warcos.json) |
@@ -4355,6 +4356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WrldCraft | 120169 | [120169-wrldcraft.json](./120169-wrldcraft.json) |
 | wrldDivision | 128544 | [128544-wrlddivision.json](./128544-wrlddivision.json) |
 | wrldDivision | 181379 | [181379-wrlddivision.json](./181379-wrlddivision.json) |
+| Wrong | 372615 | [372615-wrong.json](./372615-wrong.json) |
 | Wrong Answer | 389676 | [389676-wrong-answer.json](./389676-wrong-answer.json) |
 | Wrong Dimension - The One Dimensional Platformer | 32224 | [32224-wrong-dimension-the-one-dimensional-platformer.json](./32224-wrong-dimension-the-one-dimensional-platformer.json) |
 | Wrong Door | 320958 | [320958-wrong-door.json](./320958-wrong-door.json) |
