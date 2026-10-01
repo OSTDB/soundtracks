@@ -534,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lassie | 43331 | [43331-lassie.json](./43331-lassie.json) |
 | Lasso | 346094 | [346094-lasso.json](./346094-lasso.json) |
 | Lasso Catch | 277575 | [277575-lasso-catch.json](./277575-lasso-catch.json) |
+| Lasso Legend | 364655 | [364655-lasso-legend.json](./364655-lasso-legend.json) |
 | Last | 356627 | [356627-last.json](./356627-last.json) |
 | Last $50 | 400954 | [400954-last-50.json](./400954-last-50.json) |
 | Last 4 Survive: The Outbreak | 287158 | [287158-last-4-survive-the-outbreak.json](./287158-last-4-survive-the-outbreak.json) |
@@ -743,6 +744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Words | 215024 | [215024-last-words.json](./215024-last-words.json) |
 | Last Words. | 389127 | [389127-last-words.json](./389127-last-words.json) |
 | Last Year | 19819 | [19819-last-year.json](./19819-last-year.json) |
+| Last You Standing | 364656 | [364656-last-you-standing.json](./364656-last-you-standing.json) |
 | Last Z: Survival Shooter | 375192 | [375192-last-z-survival-shooter.json](./375192-last-z-survival-shooter.json) |
 | Last-Hit Defense | 224027 | [224027-last-hit-defense.json](./224027-last-hit-defense.json) |
 | LasTar | 395162 | [395162-lastar.json](./395162-lastar.json) |
@@ -2387,6 +2389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Like a Hot Knife Through Butter | 223127 | [223127-like-a-hot-knife-through-butter.json](./223127-like-a-hot-knife-through-butter.json) |
 | Like A Normal Fish | 360073 | [360073-like-a-normal-fish.json](./360073-like-a-normal-fish.json) |
 | Like a Pizza | 208933 | [208933-like-a-pizza.json](./208933-like-a-pizza.json) |
+| Like a Record | 364633 | [364633-like-a-record.json](./364633-like-a-record.json) |
 | Like an Angel | 173824 | [173824-like-an-angel.json](./173824-like-an-angel.json) |
 | Like Blowing Out a Candle | 181698 | [181698-like-blowing-out-a-candle.json](./181698-like-blowing-out-a-candle.json) |
 | Like Clockwork | 181924 | [181924-like-clockwork.json](./181924-like-clockwork.json) |
@@ -3536,6 +3539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loop | 279011 | [279011-loop.json](./279011-loop.json) |
 | Loop | 327298 | [327298-loop.json](./327298-loop.json) |
 | Loop | 405702 | [405702-loop.json](./405702-loop.json) |
+| Loop Archer | 364648 | [364648-loop-archer.json](./364648-loop-archer.json) |
 | Loop Dungeon | 248321 | [248321-loop-dungeon.json](./248321-loop-dungeon.json) |
 | Loop Firefighters | 388362 | [388362-loop-firefighters.json](./388362-loop-firefighters.json) |
 | Loop Frogs | 284893 | [284893-loop-frogs.json](./284893-loop-frogs.json) |
@@ -3554,6 +3558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LoopBreaker | 335241 | [335241-loopbreaker.json](./335241-loopbreaker.json) |
 | Loopdrop | 364696 | [364696-loopdrop.json](./364696-loopdrop.json) |
 | Looped | 285506 | [285506-looped.json](./285506-looped.json) |
+| Loopedal | 364642 | [364642-loopedal.json](./364642-loopedal.json) |
 | Looper | 292133 | [292133-looper.json](./292133-looper.json) |
 | Looper | 323827 | [323827-looper.json](./323827-looper.json) |
 | Looper Looper | 255997 | [255997-looper-looper.json](./255997-looper-looper.json) |
@@ -3561,6 +3566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loopers | 140632 | [140632-loopers.json](./140632-loopers.json) |
 | Loopfang | 418663 | [418663-loopfang.json](./418663-loopfang.json) |
 | Loophole | 350443 | [350443-loophole.json](./350443-loophole.json) |
+| Loophole Pie | 364619 | [364619-loophole-pie.json](./364619-loophole-pie.json) |
 | LoopiaLike | 394203 | [394203-loopialike.json](./394203-loopialike.json) |
 | Looplash | 400209 | [400209-looplash.json](./400209-looplash.json) |
 | Loopmayor | 334295 | [334295-loopmayor.json](./334295-loopmayor.json) |
@@ -3573,6 +3579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LoopWorlds Free | 106761 | [106761-loopworlds-free.json](./106761-loopworlds-free.json) |
 | Loopy Ball | 239290 | [239290-loopy-ball.json](./239290-loopy-ball.json) |
 | Loopy Blocks | 254151 | [254151-loopy-blocks.json](./254151-loopy-blocks.json) |
+| Loopy Goes Fishing | 364650 | [364650-loopy-goes-fishing.json](./364650-loopy-goes-fishing.json) |
 | Loopy Tennis | 317228 | [317228-loopy-tennis.json](./317228-loopy-tennis.json) |
 | Loopy Treasure | 180764 | [180764-loopy-treasure.json](./180764-loopy-treasure.json) |
 | Loopy Wizard | 200138 | [200138-loopy-wizard.json](./200138-loopy-wizard.json) |
