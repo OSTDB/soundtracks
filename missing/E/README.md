@@ -3556,6 +3556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit Plan b | 364515 | [364515-exit-plan-b.json](./364515-exit-plan-b.json) |
 | Exit Station 7 | 309958 | [309958-exit-station-7.json](./309958-exit-station-7.json) |
 | Exit Strategy | 143103 | [143103-exit-strategy.json](./143103-exit-strategy.json) |
+| Exit Strategy | 345636 | [345636-exit-strategy.json](./345636-exit-strategy.json) |
 | Exit Terminal | 320180 | [320180-exit-terminal.json](./320180-exit-terminal.json) |
 | Exit the Backrooms | 265121 | [265121-exit-the-backrooms.json](./265121-exit-the-backrooms.json) |
 | Exit the Gungeon | 122311 | [122311-exit-the-gungeon.json](./122311-exit-the-gungeon.json) |
