@@ -524,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saloon Showdown VR | 68591 | [68591-saloon-showdown-vr.json](./68591-saloon-showdown-vr.json) |
 | Saloon Simulator | 211782 | [211782-saloon-simulator.json](./211782-saloon-simulator.json) |
 | Saloon VR | 118356 | [118356-saloon-vr.json](./118356-saloon-vr.json) |
+| Saloonery | 348402 | [348402-saloonery.json](./348402-saloonery.json) |
 | Salt | 171556 | [171556-salt.json](./171556-salt.json) |
 | Salt | 334887 | [334887-salt.json](./334887-salt.json) |
 | Salt & Soul: Pocket Chef's Adventure | 406865 | [406865-salt-and-soul-pocket-chefs-adventure.json](./406865-salt-and-soul-pocket-chefs-adventure.json) |
@@ -8867,6 +8868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Breach | 363022 | [363022-soul-breach.json](./363022-soul-breach.json) |
 | Soul Calibur Mobile | 372102 | [372102-soul-calibur-mobile.json](./372102-soul-calibur-mobile.json) |
 | Soul Catcher: The Moon Coliseum | 366384 | [366384-soul-catcher-the-moon-coliseum.json](./366384-soul-catcher-the-moon-coliseum.json) |
+| Soul Chained | 348392 | [348392-soul-chained.json](./348392-soul-chained.json) |
 | Soul Delivery | 167591 | [167591-soul-delivery.json](./167591-soul-delivery.json) |
 | Soul Demon Hunters | 371977 | [371977-soul-demon-hunters.json](./371977-soul-demon-hunters.json) |
 | Soul Destiny | 125967 | [125967-soul-destiny.json](./125967-soul-destiny.json) |
@@ -8976,6 +8978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoulFeast | 369559 | [369559-soulfeast.json](./369559-soulfeast.json) |
 | Soulfire: Weapon Master | 152906 | [152906-soulfire-weapon-master.json](./152906-soulfire-weapon-master.json) |
 | Soulflow | 286062 | [286062-soulflow.json](./286062-soulflow.json) |
+| SoulForge | 348379 | [348379-soulforge.json](./348379-soulforge.json) |
 | Soulforge: Lost Path | 353880 | [353880-soulforge-lost-path.json](./353880-soulforge-lost-path.json) |
 | Soulframe | 209643 | [209643-soulframe.json](./209643-soulframe.json) |
 | SoulFrost | 90653 | [90653-soulfrost.json](./90653-soulfrost.json) |
@@ -10072,6 +10075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedboat Assassins | 13080 | [13080-speedboat-assassins.json](./13080-speedboat-assassins.json) |
 | SpeedBoat Attack | 62284 | [62284-speedboat-attack.json](./62284-speedboat-attack.json) |
 | Speedboat GP | 66931 | [66931-speedboat-gp.json](./66931-speedboat-gp.json) |
+| Speedboat League | 348411 | [348411-speedboat-league.json](./348411-speedboat-league.json) |
 | Speedboat Racing | 144387 | [144387-speedboat-racing.json](./144387-speedboat-racing.json) |
 | Speeder | 152934 | [152934-speeder.json](./152934-speeder.json) |
 | Speedin' Shotgun | 263500 | [263500-speedin-shotgun.json](./263500-speedin-shotgun.json) |
@@ -11139,6 +11143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squaser 8 | 368569 | [368569-squaser-8.json](./368569-squaser-8.json) |
 | Squaser 9 | 368537 | [368537-squaser-9.json](./368537-squaser-9.json) |
 | Squash and Spell: Kids Typing | 388328 | [388328-squash-and-spell-kids-typing.json](./388328-squash-and-spell-kids-typing.json) |
+| Squat Ops | 348362 | [348362-squat-ops.json](./348362-squat-ops.json) |
 | Squatch | 133234 | [133234-squatch.json](./133234-squatch.json) |
 | Squatzee | 184467 | [184467-squatzee.json](./184467-squatzee.json) |
 | Sqube Escape | 313269 | [313269-sqube-escape.json](./313269-sqube-escape.json) |
@@ -12927,6 +12932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StillAsleep | 405745 | [405745-stillasleep.json](./405745-stillasleep.json) |
 | Stillbone | 395163 | [395163-stillbone.json](./395163-stillbone.json) |
 | Stillborn Slayer | 189039 | [189039-stillborn-slayer.json](./189039-stillborn-slayer.json) |
+| Stillness | 348385 | [348385-stillness.json](./348385-stillness.json) |
 | Stillwater | 191558 | [191558-stillwater.json](./191558-stillwater.json) |
 | Stillwater | 398402 | [398402-stillwater.json](./398402-stillwater.json) |
 | Stimmings | 264614 | [264614-stimmings.json](./264614-stimmings.json) |
@@ -14068,6 +14074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Party | 326814 | [326814-sudoku-party.json](./326814-sudoku-party.json) |
 | Sudoku Party | 84915 | [84915-sudoku-party.json](./84915-sudoku-party.json) |
 | Sudoku Portal | 232380 | [232380-sudoku-portal.json](./232380-sudoku-portal.json) |
+| Sudoku Pro | 348394 | [348394-sudoku-pro.json](./348394-sudoku-pro.json) |
 | Sudoku Pro+ | 267454 | [267454-sudoku-pro.json](./267454-sudoku-pro.json) |
 | Sudoku Puzzle | 258466 | [258466-sudoku-puzzle.json](./258466-sudoku-puzzle.json) |
 | Sudoku Puzzle Blast | 208354 | [208354-sudoku-puzzle-blast.json](./208354-sudoku-puzzle-blast.json) |
