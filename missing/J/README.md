@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack the Ripper: Hunter Clan | 346568 | [346568-jack-the-ripper-hunter-clan.json](./346568-jack-the-ripper-hunter-clan.json) |
 | Jack Vs Ninjas | 96769 | [96769-jack-vs-ninjas.json](./96769-jack-vs-ninjas.json) |
 | Jack: Snake Attack | 124739 | [124739-jack-snake-attack.json](./124739-jack-snake-attack.json) |
+| Jack's 510 Racing | 372608 | [372608-jacks-510-racing.json](./372608-jacks-510-racing.json) |
 | Jack's Attic | 210127 | [210127-jacks-attic.json](./210127-jacks-attic.json) |
 | Jack's Crazy Cong | 91519 | [91519-jacks-crazy-cong.json](./91519-jacks-crazy-cong.json) |
 | Jack's Game | 50527 | [50527-jacks-game.json](./50527-jacks-game.json) |
@@ -293,6 +294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jan Sangoku Musou | 64360 | [64360-jan-sangoku-musou.json](./64360-jan-sangoku-musou.json) |
 | JanduSoft Games Bundle Vol. 1 | 247493 | [247493-jandusoft-games-bundle-vol-1.json](./247493-jandusoft-games-bundle-vol-1.json) |
 | Jane Angel 2: Fallen Heaven | 156606 | [156606-jane-angel-2-fallen-heaven.json](./156606-jane-angel-2-fallen-heaven.json) |
+| Jane Austen Simulator: Pride and Prejudice | 372611 | [372611-jane-austen-simulator-pride-and-prejudice.json](./372611-jane-austen-simulator-pride-and-prejudice.json) |
 | Jane Skriff | 138611 | [138611-jane-skriff.json](./138611-jane-skriff.json) |
 | Jane the Office Slut | 217988 | [217988-jane-the-office-slut.json](./217988-jane-the-office-slut.json) |
 | Jane Westlake Adventures - The Mystery Train | 127757 | [127757-jane-westlake-adventures-the-mystery-train.json](./127757-jane-westlake-adventures-the-mystery-train.json) |
@@ -1896,6 +1898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Get Z | 259236 | [259236-just-get-z.json](./259236-just-get-z.json) |
 | Just Glide | 137649 | [137649-just-glide.json](./137649-just-glide.json) |
 | Just Go | 189956 | [189956-just-go.json](./189956-just-go.json) |
+| Just Grow | 372614 | [372614-just-grow.json](./372614-just-grow.json) |
 | Just Hero | 31339 | [31339-just-hero.json](./31339-just-hero.json) |
 | Just Hero: Collector's Edition | 53244 | [53244-just-hero-collectors-edition.json](./53244-just-hero-collectors-edition.json) |
 | Just Hoops | 152216 | [152216-just-hoops.json](./152216-just-hoops.json) |
