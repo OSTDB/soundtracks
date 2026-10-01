@@ -5343,6 +5343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloons Player Pack 3 | 335451 | [335451-bloons-player-pack-3.json](./335451-bloons-player-pack-3.json) |
 | Bloons Player Pack 4 | 335454 | [335454-bloons-player-pack-4.json](./335454-bloons-player-pack-4.json) |
 | Bloons Player Pack 5 | 335450 | [335450-bloons-player-pack-5.json](./335450-bloons-player-pack-5.json) |
+| Bloons Pop 3 | 375393 | [375393-bloons-pop-3.json](./375393-bloons-pop-3.json) |
 | Bloons Super Monkey | 63400 | [63400-bloons-super-monkey.json](./63400-bloons-super-monkey.json) |
 | Bloons Super Monkey 2 | 63399 | [63399-bloons-super-monkey-2.json](./63399-bloons-super-monkey-2.json) |
 | Bloons TD | 144754 | [144754-bloons-td.json](./144754-bloons-td.json) |
@@ -5730,6 +5731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bokida: Heartfelt Reunion | 28189 | [28189-bokida-heartfelt-reunion.json](./28189-bokida-heartfelt-reunion.json) |
 | Bokosuka Wars | 280818 | [280818-bokosuka-wars.json](./280818-bokosuka-wars.json) |
 | Boktai 2: Solar Boy Django | 6329 | [6329-boktai-2-solar-boy-django.json](./6329-boktai-2-solar-boy-django.json) |
+| Boku dake ga Shitteiru | 375356 | [375356-boku-dake-ga-shitteiru.json](./375356-boku-dake-ga-shitteiru.json) |
 | Boku ha Kimi dake wo Mitsumeru: I Gaze at Only You | 335996 | [335996-boku-ha-kimi-dake-wo-mitsumeru-i-gaze-at-only-you.json](./335996-boku-ha-kimi-dake-wo-mitsumeru-i-gaze-at-only-you.json) |
 | Boku ha Tomodachi Fan Disk: Kanwa, Sorekara | 403772 | [403772-boku-ha-tomodachi-fan-disk-kanwa-sorekara.json](./403772-boku-ha-tomodachi-fan-disk-kanwa-sorekara.json) |
 | Boku ha Tomodachi ga Sukunai Portable | 56491 | [56491-boku-ha-tomodachi-ga-sukunai-portable.json](./56491-boku-ha-tomodachi-ga-sukunai-portable.json) |
@@ -8143,6 +8145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Flush | 153923 | [153923-bunny-flush.json](./153923-bunny-flush.json) |
 | Bunny Forest | 374150 | [374150-bunny-forest.json](./374150-bunny-forest.json) |
 | Bunny Game | 236230 | [236230-bunny-game.json](./236230-bunny-game.json) |
+| Bunny Garden 2 | 375379 | [375379-bunny-garden-2.json](./375379-bunny-garden-2.json) |
 | Bunny Girl Story | 201844 | [201844-bunny-girl-story.json](./201844-bunny-girl-story.json) |
 | Bunny Hill | 139879 | [139879-bunny-hill.json](./139879-bunny-hill.json) |
 | Bunny Hop | 174124 | [174124-bunny-hop.json](./174124-bunny-hop.json) |
@@ -8429,6 +8432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buster Baxter: Lung Defender | 305863 | [305863-buster-baxter-lung-defender.json](./305863-buster-baxter-lung-defender.json) |
 | Buster Block | 47552 | [47552-buster-block.json](./47552-buster-block.json) |
 | Buster Bros. | 6823 | [6823-buster-bros.json](./6823-buster-bros.json) |
+| Buster Busts A Nut | 375390 | [375390-buster-busts-a-nut.json](./375390-buster-busts-a-nut.json) |
 | Buster Jam | 326285 | [326285-buster-jam.json](./326285-buster-jam.json) |
 | Buster Sword | 415963 | [415963-buster-sword.json](./415963-buster-sword.json) |
 | Buster's Tower Defense | 152330 | [152330-busters-tower-defense.json](./152330-busters-tower-defense.json) |
