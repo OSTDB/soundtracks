@@ -1979,6 +1979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tengai Makyou: Fuun Kabuki-den | 71530 | [71530-tengai-makyou-fuun-kabuki-den.json](./71530-tengai-makyou-fuun-kabuki-den.json) |
 | Tengai ni Mau, Iki na Hana | 75225 | [75225-tengai-ni-mau-iki-na-hana.json](./75225-tengai-ni-mau-iki-na-hana.json) |
 | Tengin Music Engine | 166625 | [166625-tengin-music-engine.json](./166625-tengin-music-engine.json) |
+| Tengo 20 Bolos y Permiso hasta las 7 | 356778 | [356778-tengo-20-bolos-y-permiso-hasta-las-7.json](./356778-tengo-20-bolos-y-permiso-hasta-las-7.json) |
 | Tengoku Struggle: Strayside | 195522 | [195522-tengoku-struggle-strayside.json](./195522-tengoku-struggle-strayside.json) |
 | Tengoku Yoitoko | 202692 | [202692-tengoku-yoitoko.json](./202692-tengoku-yoitoko.json) |
 | Tengu Halloween | 403038 | [403038-tengu-halloween.json](./403038-tengu-halloween.json) |
@@ -3941,6 +3942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Day the World Broke | 7721 | [7721-the-day-the-world-broke.json](./7721-the-day-the-world-broke.json) |
 | The Day the World Changed | 97713 | [97713-the-day-the-world-changed.json](./97713-the-day-the-world-changed.json) |
 | The Day We Met was a Regular Day in the Infinitely Looping Highschool, is That Normal? | 192953 | [192953-the-day-we-met-was-a-regular-day-in-the-infinitely-looping-highschool-is-that-normal.json](./192953-the-day-we-met-was-a-regular-day-in-the-infinitely-looping-highschool-is-that-normal.json) |
+| The Days Without Gods | 356826 | [356826-the-days-without-gods.json](./356826-the-days-without-gods.json) |
 | The Dead City | 376715 | [376715-the-dead-city.json](./376715-the-dead-city.json) |
 | The Dead in my Living Room | 142378 | [142378-the-dead-in-my-living-room.json](./142378-the-dead-in-my-living-room.json) |
 | The Dead Linger | 9055 | [9055-the-dead-linger.json](./9055-the-dead-linger.json) |
@@ -7196,6 +7198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Playful Triangle | 309454 | [309454-the-playful-triangle.json](./309454-the-playful-triangle.json) |
 | The Playroom 2 | 124137 | [124137-the-playroom-2.json](./124137-the-playroom-2.json) |
 | The Plight of the Cracked | 391849 | [391849-the-plight-of-the-cracked.json](./391849-the-plight-of-the-cracked.json) |
+| The Plucky Squire x The Swords of Ditto: Mormo's Curse Bundle | 356822 | [356822-the-plucky-squire-x-the-swords-of-ditto-mormos-curse-bundle.json](./356822-the-plucky-squire-x-the-swords-of-ditto-mormos-curse-bundle.json) |
 | The Plug | 175436 | [175436-the-plug.json](./175436-the-plug.json) |
 | The Plumber Thing | 223000 | [223000-the-plumber-thing.json](./223000-the-plumber-thing.json) |
 | The Plus Point | 89950 | [89950-the-plus-point.json](./89950-the-plus-point.json) |
@@ -15470,6 +15473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuneria | 140025 | [140025-tuneria.json](./140025-tuneria.json) |
 | Tung Tung Sahur: Obby Challenge | 384784 | [384784-tung-tung-sahur-obby-challenge.json](./384784-tung-tung-sahur-obby-challenge.json) |
 | Tung Tung Together: Online Deathrun Party | 390634 | [390634-tung-tung-together-online-deathrun-party.json](./390634-tung-tung-together-online-deathrun-party.json) |
+| Tung Tung Tung Sahur Report | 356817 | [356817-tung-tung-tung-sahur-report.json](./356817-tung-tung-tung-sahur-report.json) |
 | Tungsten Orbital Destroyer | 180700 | [180700-tungsten-orbital-destroyer.json](./180700-tungsten-orbital-destroyer.json) |
 | Tungtung's Nightmare | 375934 | [375934-tungtungs-nightmare.json](./375934-tungtungs-nightmare.json) |
 | Tungulus | 47986 | [47986-tungulus.json](./47986-tungulus.json) |
