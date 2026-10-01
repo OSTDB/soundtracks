@@ -652,6 +652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 20 em 1: Game 18 | 245236 | [245236-20-em-1-game-18.json](./245236-20-em-1-game-18.json) |
 | 20 em 1: Game 19 | 245237 | [245237-20-em-1-game-19.json](./245237-20-em-1-game-19.json) |
 | 20 em 1: Game 20 | 245238 | [245238-20-em-1-game-20.json](./245238-20-em-1-game-20.json) |
+| 20 in 1 Family Games Mega Collection | 386365 | [386365-20-in-1-family-games-mega-collection.json](./386365-20-in-1-family-games-mega-collection.json) |
 | 20 Minute Metropolis | 124263 | [124263-20-minute-metropolis.json](./124263-20-minute-metropolis.json) |
 | 20 Squares | 92974 | [92974-20-squares.json](./92974-20-squares.json) |
 | 20 Trials to Heaven | 416104 | [416104-20-trials-to-heaven.json](./416104-20-trials-to-heaven.json) |
