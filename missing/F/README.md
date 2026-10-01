@@ -670,6 +670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 3: Survival Edition | 72381 | [72381-fallout-3-survival-edition.json](./72381-fallout-3-survival-edition.json) |
 | Fallout 4: Automatron | 18029 | [18029-fallout-4-automatron.json](./18029-fallout-4-automatron.json) |
 | Fallout 4: Contraptions Workshop | 19532 | [19532-fallout-4-contraptions-workshop.json](./19532-fallout-4-contraptions-workshop.json) |
+| Fallout 4: Edible Asbestos | 334933 | [334933-fallout-4-edible-asbestos.json](./334933-fallout-4-edible-asbestos.json) |
 | Fallout 4: Far Harbor | 18031 | [18031-fallout-4-far-harbor.json](./18031-fallout-4-far-harbor.json) |
 | Fallout 4: Game of the Year Pip-Boy Edition | 72379 | [72379-fallout-4-game-of-the-year-pip-boy-edition.json](./72379-fallout-4-game-of-the-year-pip-boy-edition.json) |
 | Fallout 4: Season Pass | 293723 | [293723-fallout-4-season-pass.json](./293723-fallout-4-season-pass.json) |
@@ -1031,6 +1032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Story: Lord of Darkness | 200117 | [200117-fantasy-story-lord-of-darkness.json](./200117-fantasy-story-lord-of-darkness.json) |
 | Fantasy Strike | 45111 | [45111-fantasy-strike.json](./45111-fantasy-strike.json) |
 | Fantasy Strike: Core Pack | 169312 | [169312-fantasy-strike-core-pack.json](./169312-fantasy-strike-core-pack.json) |
+| Fantasy Tactics | 334923 | [334923-fantasy-tactics.json](./334923-fantasy-tactics.json) |
 | Fantasy Tavern Sextet -Vol.3 Postlude Days- | 147402 | [147402-fantasy-tavern-sextet-vol-3-postlude-days.json](./147402-fantasy-tavern-sextet-vol-3-postlude-days.json) |
 | Fantasy Tavern Simulator | 237088 | [237088-fantasy-tavern-simulator.json](./237088-fantasy-tavern-simulator.json) |
 | Fantasy Temptations | 273487 | [273487-fantasy-temptations.json](./273487-fantasy-temptations.json) |
