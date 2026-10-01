@@ -412,6 +412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest: Escape Room | 160180 | [160180-quest-escape-room.json](./160180-quest-escape-room.json) |
 | Quest: Escape Room 3 | 149509 | [149509-quest-escape-room-3.json](./149509-quest-escape-room-3.json) |
 | Quest: Fantasy Challenge | 49950 | [49950-quest-fantasy-challenge.json](./49950-quest-fantasy-challenge.json) |
+| Quest64: Recompiled | 385279 | [385279-quest64-recompiled.json](./385279-quest64-recompiled.json) |
 | QuestBall | 245019 | [245019-questball.json](./245019-questball.json) |
 | Questboard | 333914 | [333914-questboard.json](./333914-questboard.json) |
 | Quester | 197387 | [197387-quester.json](./197387-quester.json) |
