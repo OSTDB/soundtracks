@@ -916,6 +916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MahJah | 232542 | [232542-mahjah.json](./232542-mahjah.json) |
 | Mahjick: The Realm Taker | 265129 | [265129-mahjick-the-realm-taker.json](./265129-mahjick-the-realm-taker.json) |
 | Mahjong | 90692 | [90692-mahjong.json](./90692-mahjong.json) |
+| Mahjong 16 TW | 334339 | [334339-mahjong-16-tw.json](./334339-mahjong-16-tw.json) |
 | Mahjong 300 | 401018 | [401018-mahjong-300.json](./401018-mahjong-300.json) |
 | Mahjong Adventure | 147322 | [147322-mahjong-adventure.json](./147322-mahjong-adventure.json) |
 | Mahjong Aztecs Mysteries | 234187 | [234187-mahjong-aztecs-mysteries.json](./234187-mahjong-aztecs-mysteries.json) |
@@ -1362,6 +1363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mamono Musume no Yakata Suiseikan Igyouroku: Ningyo no Sho | 77618 | [77618-mamono-musume-no-yakata-suiseikan-igyouroku-ningyo-no-sho.json](./77618-mamono-musume-no-yakata-suiseikan-igyouroku-ningyo-no-sho.json) |
 | Mamorukun Curse! | 7065 | [7065-mamorukun-curse.json](./7065-mamorukun-curse.json) |
 | Mamorukun ReCurse! | 342851 | [342851-mamorukun-recurse.json](./342851-mamorukun-recurse.json) |
+| Mamurius | 334331 | [334331-mamurius.json](./334331-mamurius.json) |
 | Mamusphere of the Forgotten | 124621 | [124621-mamusphere-of-the-forgotten.json](./124621-mamusphere-of-the-forgotten.json) |
 | Mamzer Corp | 404991 | [404991-mamzer-corp.json](./404991-mamzer-corp.json) |
 | Man and Dog: Small Game Hunt | 337651 | [337651-man-and-dog-small-game-hunt.json](./337651-man-and-dog-small-game-hunt.json) |
