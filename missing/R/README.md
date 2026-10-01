@@ -2510,6 +2510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renai, Karichaimashita | 144892 | [144892-renai-karichaimashita.json](./144892-renai-karichaimashita.json) |
 | Renaissance Fighters | 220187 | [220187-renaissance-fighters.json](./220187-renaissance-fighters.json) |
 | Renaissance Kingdom Wars | 278968 | [278968-renaissance-kingdom-wars.json](./278968-renaissance-kingdom-wars.json) |
+| Rename the History | 334326 | [334326-rename-the-history.json](./334326-rename-the-history.json) |
 | Renard's Skin Care Routine | 378901 | [378901-renards-skin-care-routine.json](./378901-renards-skin-care-routine.json) |
 | Renascor | 389677 | [389677-renascor.json](./389677-renascor.json) |
 | Rencia | 120925 | [120925-rencia.json](./120925-rencia.json) |
