@@ -7665,6 +7665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brox | 276808 | [276808-brox.json](./276808-brox.json) |
 | Brrrainz | 58474 | [58474-brrrainz.json](./58474-brrrainz.json) |
 | BRT: Billiards of the Round Table | 392952 | [392952-brt-billiards-of-the-round-table.json](./392952-brt-billiards-of-the-round-table.json) |
+| Bru & Boegie: Episode 1 - Get da Milk! | 345617 | [345617-bru-and-boegie-episode-1-get-da-milk.json](./345617-bru-and-boegie-episode-1-get-da-milk.json) |
 | Bruce and Box | 300777 | [300777-bruce-and-box.json](./300777-bruce-and-box.json) |
 | Bruce Campbell vs Ganon | 251701 | [251701-bruce-campbell-vs-ganon.json](./251701-bruce-campbell-vs-ganon.json) |
 | Bruce Lee | 13447 | [13447-bruce-lee.json](./13447-bruce-lee.json) |
@@ -7921,6 +7922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bucket List | 22741 | [22741-bucket-list.json](./22741-bucket-list.json) |
 | Bucketneers | 176281 | [176281-bucketneers.json](./176281-bucketneers.json) |
 | Bucko | 236359 | [236359-bucko.json](./236359-bucko.json) |
+| Buckshot Battlemage | 345653 | [345653-buckshot-battlemage.json](./345653-buckshot-battlemage.json) |
 | Bucky O'Hare | 18808 | [18808-bucky-ohare.json](./18808-bucky-ohare.json) |
 | Bud Farm: Munchie Match | 245347 | [245347-bud-farm-munchie-match.json](./245347-bud-farm-munchie-match.json) |
 | Bud Masters: Battle Edition | 142316 | [142316-bud-masters-battle-edition.json](./142316-bud-masters-battle-edition.json) |
