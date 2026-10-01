@@ -872,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume Meikyuu: Kigurumi Daibouken | 38378 | [38378-yume-meikyuu-kigurumi-daibouken.json](./38378-yume-meikyuu-kigurumi-daibouken.json) |
 | Yume Metsuki | 229683 | [229683-yume-metsuki.json](./229683-yume-metsuki.json) |
 | Yume Mitai | 201152 | [201152-yume-mitai.json](./201152-yume-mitai.json) |
+| Yume ni made Mita Idol | 375342 | [375342-yume-ni-made-mita-idol.json](./375342-yume-ni-made-mita-idol.json) |
 | Yume Nikki GB | 229685 | [229685-yume-nikki-gb.json](./229685-yume-nikki-gb.json) |
 | Yume Nikki GB | 229686 | [229686-yume-nikki-gb.json](./229686-yume-nikki-gb.json) |
 | Yume Nikki Space | 307052 | [307052-yume-nikki-space.json](./307052-yume-nikki-space.json) |
