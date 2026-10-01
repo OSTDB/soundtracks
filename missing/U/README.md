@@ -524,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umadle | 369045 | [369045-umadle.json](./369045-umadle.json) |
 | Umami Island | 214503 | [214503-umami-island.json](./214503-umami-island.json) |
 | Umami Island | 377201 | [377201-umami-island.json](./377201-umami-island.json) |
+| Umamusume Delish Derby | 360111 | [360111-umamusume-delish-derby.json](./360111-umamusume-delish-derby.json) |
 | Umamusume: Pretty Derby | 97494 | [97494-umamusume-pretty-derby.json](./97494-umamusume-pretty-derby.json) |
 | Umamusume: Pretty Derby - Party Dash: DLC Vol. 1 - Team Iris | 316227 | [316227-umamusume-pretty-derby-party-dash-dlc-vol-1-team-iris.json](./316227-umamusume-pretty-derby-party-dash-dlc-vol-1-team-iris.json) |
 | UmaNetto. Full Preved! | 252372 | [252372-umanetto-full-preved.json](./252372-umanetto-full-preved.json) |
@@ -1304,6 +1305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unofficial Pokemon Trading Card Game | 363944 | [363944-unofficial-pokemon-trading-card-game.json](./363944-unofficial-pokemon-trading-card-game.json) |
 | Unoklive vs. Zuck | 182459 | [182459-unoklive-vs-zuck.json](./182459-unoklive-vs-zuck.json) |
 | Unolingo | 288195 | [288195-unolingo.json](./288195-unolingo.json) |
+| Unoriginal CRINGE Meme Hack | 360138 | [360138-unoriginal-cringe-meme-hack.json](./360138-unoriginal-cringe-meme-hack.json) |
 | Unou Kaihatsu Series 10 Nontan to Issho Wai-wai Nippon | 303759 | [303759-unou-kaihatsu-series-10-nontan-to-issho-wai-wai-nippon.json](./303759-unou-kaihatsu-series-10-nontan-to-issho-wai-wai-nippon.json) |
 | Unou Kids DS | 124117 | [124117-unou-kids-ds.json](./124117-unou-kids-ds.json) |
 | Unou no Tatsujin: Hirameki Kosodate My Angel | 124116 | [124116-unou-no-tatsujin-hirameki-kosodate-my-angel.json](./124116-unou-no-tatsujin-hirameki-kosodate-my-angel.json) |
