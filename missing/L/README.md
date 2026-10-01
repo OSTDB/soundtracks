@@ -3291,6 +3291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Log Run | 317429 | [317429-log-run.json](./317429-log-run.json) |
 | Log Truck | 101492 | [101492-log-truck.json](./101492-log-truck.json) |
 | Log.in | 133949 | [133949-log-in.json](./133949-log-in.json) |
+| Log.in | 381170 | [381170-log-in.json](./381170-log-in.json) |
 | Logi Box | 339630 | [339630-logi-box.json](./339630-logi-box.json) |
 | Logic Bombs | 353412 | [353412-logic-bombs.json](./353412-logic-bombs.json) |
 | Logic Circuit: Marble Puzzle | 210854 | [210854-logic-circuit-marble-puzzle.json](./210854-logic-circuit-marble-puzzle.json) |
