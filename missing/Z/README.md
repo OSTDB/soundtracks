@@ -705,6 +705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Defense: Jungle Edition | 371432 | [371432-zombie-defense-jungle-edition.json](./371432-zombie-defense-jungle-edition.json) |
 | Zombie Defense: Perfect Cut Edition | 284932 | [284932-zombie-defense-perfect-cut-edition.json](./284932-zombie-defense-perfect-cut-edition.json) |
 | Zombie Defense: Pew Pew Edition | 306518 | [306518-zombie-defense-pew-pew-edition.json](./306518-zombie-defense-pew-pew-edition.json) |
+| Zombie Defense: War | 340994 | [340994-zombie-defense-war.json](./340994-zombie-defense-war.json) |
 | Zombie Demolition: Infinite Zombie Shooter | 344558 | [344558-zombie-demolition-infinite-zombie-shooter.json](./344558-zombie-demolition-infinite-zombie-shooter.json) |
 | Zombie Derby | 96622 | [96622-zombie-derby.json](./96622-zombie-derby.json) |
 | Zombie Derby Collection | 280230 | [280230-zombie-derby-collection.json](./280230-zombie-derby-collection.json) |
