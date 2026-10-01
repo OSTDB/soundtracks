@@ -1264,6 +1264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re-bot | 75906 | [75906-re-bot.json](./75906-re-bot.json) |
 | Re-Bounder | 40940 | [40940-re-bounder.json](./40940-re-bounder.json) |
 | Re-Exit | 336728 | [336728-re-exit.json](./336728-re-exit.json) |
+| Re-Fracture: The Prophet’s Awakening | 348410 | [348410-re-fracture-the-prophet-s-awakening.json](./348410-re-fracture-the-prophet-s-awakening.json) |
 | Re-Nullum | 149466 | [149466-re-nullum.json](./149466-re-nullum.json) |
 | Re-O-Ri | 111493 | [111493-re-o-ri.json](./111493-re-o-ri.json) |
 | Re-Pair | 139249 | [139249-re-pair.json](./139249-re-pair.json) |
@@ -1525,6 +1526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Really really auto chess | 183971 | [183971-really-really-auto-chess.json](./183971-really-really-auto-chess.json) |
 | Really Unique Space Shooter | 136237 | [136237-really-unique-space-shooter.json](./136237-really-unique-space-shooter.json) |
 | Really? Really! RiaRiaDS | 330554 | [330554-really-really-riariads.json](./330554-really-really-riariads.json) |
+| Realm | 348391 | [348391-realm.json](./348391-realm.json) |
 | Realm Craft | 251811 | [251811-realm-craft.json](./251811-realm-craft.json) |
 | Realm Hacker | 132271 | [132271-realm-hacker.json](./132271-realm-hacker.json) |
 | Realm of Alters | 169397 | [169397-realm-of-alters.json](./169397-realm-of-alters.json) |
