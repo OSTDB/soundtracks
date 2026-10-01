@@ -2209,6 +2209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GiseiHero | 149096 | [149096-giseihero.json](./149096-giseihero.json) |
 | Gish | 8384 | [8384-gish.json](./8384-gish.json) |
 | Git Gud | 330269 | [330269-git-gud.json](./330269-git-gud.json) |
+| Git Up! | 335498 | [335498-git-up.json](./335498-git-up.json) |
 | Gitaroo Man | 11338 | [11338-gitaroo-man.json](./11338-gitaroo-man.json) |
 | Gitaroo Man Lives! | 42813 | [42813-gitaroo-man-lives.json](./42813-gitaroo-man-lives.json) |
 | Give a Dam! | 248066 | [248066-give-a-dam.json](./248066-give-a-dam.json) |
