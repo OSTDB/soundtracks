@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babysitting Fun | 310540 | [310540-babysitting-fun.json](./310540-babysitting-fun.json) |
 | Babysitting Mania | 47979 | [47979-babysitting-mania.json](./47979-babysitting-mania.json) |
 | Babyz: Your Virtual Bundle of Joy | 70343 | [70343-babyz-your-virtual-bundle-of-joy.json](./70343-babyz-your-virtual-bundle-of-joy.json) |
+| Baccarat | 348397 | [348397-baccarat.json](./348397-baccarat.json) |
 | Bacchanalia | 227880 | [227880-bacchanalia.json](./227880-bacchanalia.json) |
 | Bacchikoi!: Expansion Pack | 224494 | [224494-bacchikoi-expansion-pack.json](./224494-bacchikoi-expansion-pack.json) |
 | Bacchus | 121626 | [121626-bacchus.json](./121626-bacchus.json) |
@@ -1494,6 +1495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball4 | 59450 | [59450-baseball4.json](./59450-baseball4.json) |
 | BASED | 394231 | [394231-based.json](./394231-based.json) |
 | Based Refueling | 279075 | [279075-based-refueling.json](./279075-based-refueling.json) |
+| Basement | 348383 | [348383-basement.json](./348383-basement.json) |
 | Basement | 68654 | [68654-basement.json](./68654-basement.json) |
 | Basement Breakout | 399857 | [399857-basement-breakout.json](./399857-basement-breakout.json) |
 | Basement Crawl | 19916 | [19916-basement-crawl.json](./19916-basement-crawl.json) |
