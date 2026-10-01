@@ -3088,6 +3088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meat Boy | 92427 | [92427-meat-boy.json](./92427-meat-boy.json) |
 | Meat Cleaver Mutilator | 125258 | [125258-meat-cleaver-mutilator.json](./125258-meat-cleaver-mutilator.json) |
 | Meat Girl | 325619 | [325619-meat-girl.json](./325619-meat-girl.json) |
+| Meat Gone Wrong | 376038 | [376038-meat-gone-wrong.json](./376038-meat-gone-wrong.json) |
 | Meat Grinder | 391149 | [391149-meat-grinder.json](./391149-meat-grinder.json) |
 | Meat Madness | 226171 | [226171-meat-madness.json](./226171-meat-madness.json) |
 | Meat Room | 349853 | [349853-meat-room.json](./349853-meat-room.json) |
@@ -6702,6 +6703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mocap Boxing | 61667 | [61667-mocap-boxing.json](./61667-mocap-boxing.json) |
 | Mocaverse | 244773 | [244773-mocaverse.json](./244773-mocaverse.json) |
 | Moccoletti | 302381 | [302381-moccoletti.json](./302381-moccoletti.json) |
+| Mochi Conquest | 376004 | [376004-mochi-conquest.json](./376004-mochi-conquest.json) |
 | Mochi Mochi Boy | 112709 | [112709-mochi-mochi-boy.json](./112709-mochi-mochi-boy.json) |
 | Mochi Word Puzzles | 100881 | [100881-mochi-word-puzzles.json](./100881-mochi-word-puzzles.json) |
 | Mochi's Dreamland | 395579 | [395579-mochis-dreamland.json](./395579-mochis-dreamland.json) |
@@ -7626,6 +7628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Archer Shooting Stars | 177917 | [177917-moon-archer-shooting-stars.json](./177917-moon-archer-shooting-stars.json) |
 | Moon Ball Magic | 41402 | [41402-moon-ball-magic.json](./41402-moon-ball-magic.json) |
 | Moon Blue Legend Remake | 394175 | [394175-moon-blue-legend-remake.json](./394175-moon-blue-legend-remake.json) |
+| Moon Bride | 376040 | [376040-moon-bride.json](./376040-moon-bride.json) |
 | Moon Buggy | 40930 | [40930-moon-buggy.json](./40930-moon-buggy.json) |
 | Moon Bugs | 57652 | [57652-moon-bugs.json](./57652-moon-bugs.json) |
 | Moon Castle | 89404 | [89404-moon-castle.json](./89404-moon-castle.json) |
