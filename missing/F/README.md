@@ -6452,6 +6452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futa Heroism | 235707 | [235707-futa-heroism.json](./235707-futa-heroism.json) |
 | Futa Jigsaw Dating | 368126 | [368126-futa-jigsaw-dating.json](./368126-futa-jigsaw-dating.json) |
 | Futa Nights: Bloody Sluts | 362274 | [362274-futa-nights-bloody-sluts.json](./362274-futa-nights-bloody-sluts.json) |
+| Futa Paradise | 382384 | [382384-futa-paradise.json](./382384-futa-paradise.json) |
 | Futa Tales | 273490 | [273490-futa-tales.json](./273490-futa-tales.json) |
 | Futa Training | 285604 | [285604-futa-training.json](./285604-futa-training.json) |
 | Futa University | 209487 | [209487-futa-university.json](./209487-futa-university.json) |
