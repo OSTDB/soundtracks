@@ -2730,6 +2730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Septic Savages | 30853 | [30853-septic-savages.json](./30853-septic-savages.json) |
 | Septiny | 186193 | [186193-septiny.json](./186193-septiny.json) |
 | Seqitaire | 207312 | [207312-seqitaire.json](./207312-seqitaire.json) |
+| Sequence Jump | 361854 | [361854-sequence-jump.json](./361854-sequence-jump.json) |
 | Sequence Palladium | 246654 | [246654-sequence-palladium.json](./246654-sequence-palladium.json) |
 | Sequence Storm | 111533 | [111533-sequence-storm.json](./111533-sequence-storm.json) |
 | Sequential | 291007 | [291007-sequential.json](./291007-sequential.json) |
@@ -5972,6 +5973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Kingdoms | 54366 | [54366-sky-kingdoms.json](./54366-sky-kingdoms.json) |
 | Sky Kingdoms - Castle Siege | 100747 | [100747-sky-kingdoms-castle-siege.json](./100747-sky-kingdoms-castle-siege.json) |
 | Sky Knights | 26633 | [26633-sky-knights.json](./26633-sky-knights.json) |
+| Sky Legends: An Aeropostal Epic | 361845 | [361845-sky-legends-an-aeropostal-epic.json](./361845-sky-legends-an-aeropostal-epic.json) |
 | Sky Love Boys: Flight Attendant Crush | 370824 | [370824-sky-love-boys-flight-attendant-crush.json](./370824-sky-love-boys-flight-attendant-crush.json) |
 | Sky Love Girls: Flight Attendant Crush | 370797 | [370797-sky-love-girls-flight-attendant-crush.json](./370797-sky-love-girls-flight-attendant-crush.json) |
 | Sky Mad | 310184 | [310184-sky-mad.json](./310184-sky-mad.json) |
@@ -7286,6 +7288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snot Pop! | 412499 | [412499-snot-pop.json](./412499-snot-pop.json) |
 | Snot Put | 270761 | [270761-snot-put.json](./270761-snot-put.json) |
 | SnOut 2 | 192827 | [192827-snout-2.json](./192827-snout-2.json) |
+| Snout About | 361827 | [361827-snout-about.json](./361827-snout-about.json) |
 | Snout Clout | 184930 | [184930-snout-clout.json](./184930-snout-clout.json) |
 | Snouty And The Great Rift | 417366 | [417366-snouty-and-the-great-rift.json](./417366-snouty-and-the-great-rift.json) |
 | Snow | 6749 | [6749-snow.json](./6749-snow.json) |
@@ -12318,6 +12321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steal & Sell Simulator | 413173 | [413173-steal-and-sell-simulator.json](./413173-steal-and-sell-simulator.json) |
 | Steal a Monke | 370849 | [370849-steal-a-monke.json](./370849-steal-a-monke.json) |
 | Steal My Artificial Heart | 9516 | [9516-steal-my-artificial-heart.json](./9516-steal-my-artificial-heart.json) |
+| Steal Out | 361863 | [361863-steal-out.json](./361863-steal-out.json) |
 | Steal the Meal: Unblock Puzzle | 261514 | [261514-steal-the-meal-unblock-puzzle.json](./261514-steal-the-meal-unblock-puzzle.json) |
 | Steal The Pig | 344448 | [344448-steal-the-pig.json](./344448-steal-the-pig.json) |
 | Steal the Spotlight | 185454 | [185454-steal-the-spotlight.json](./185454-steal-the-spotlight.json) |
@@ -12418,6 +12422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel & Steam: Episode 1 | 10927 | [10927-steel-and-steam-episode-1.json](./10927-steel-and-steam-episode-1.json) |
 | Steel and Flesh | 174850 | [174850-steel-and-flesh.json](./174850-steel-and-flesh.json) |
 | Steel Arena: Robot War | 90080 | [90080-steel-arena-robot-war.json](./90080-steel-arena-robot-war.json) |
+| Steel Ark | 361847 | [361847-steel-ark.json](./361847-steel-ark.json) |
 | Steel Artery: Train City Builder | 371311 | [371311-steel-artery-train-city-builder.json](./371311-steel-artery-train-city-builder.json) |
 | Steel Assault | 56668 | [56668-steel-assault.json](./56668-steel-assault.json) |
 | Steel Ball Race | 188947 | [188947-steel-ball-race.json](./188947-steel-ball-race.json) |
@@ -16972,6 +16977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords of Destiny | 23007 | [23007-swords-of-destiny.json](./23007-swords-of-destiny.json) |
 | Swords of Gargantua | 103277 | [103277-swords-of-gargantua.json](./103277-swords-of-gargantua.json) |
 | Swords of Glass | 2887 | [2887-swords-of-glass.json](./2887-swords-of-glass.json) |
+| Swords of Legends | 361838 | [361838-swords-of-legends.json](./361838-swords-of-legends.json) |
 | Swords of Legends 3 | 107205 | [107205-swords-of-legends-3.json](./107205-swords-of-legends-3.json) |
 | Swords of Time | 166761 | [166761-swords-of-time.json](./166761-swords-of-time.json) |
 | Swords with spice | 108437 | [108437-swords-with-spice.json](./108437-swords-with-spice.json) |
