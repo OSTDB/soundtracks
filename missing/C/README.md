@@ -4430,6 +4430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clan Wars | 188089 | [188089-clan-wars.json](./188089-clan-wars.json) |
 | Clan Wars | 356284 | [356284-clan-wars.json](./356284-clan-wars.json) |
 | Clandestine | 14465 | [14465-clandestine.json](./14465-clandestine.json) |
+| Clankers! | 376050 | [376050-clankers.json](./376050-clankers.json) |
 | Clannad | 262473 | [262473-clannad.json](./262473-clannad.json) |
 | Clannad | 262492 | [262492-clannad.json](./262492-clannad.json) |
 | Clannad | 262494 | [262494-clannad.json](./262494-clannad.json) |
@@ -8576,6 +8577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypt of the NecroDancer | 7886 | [7886-crypt-of-the-necrodancer.json](./7886-crypt-of-the-necrodancer.json) |
 | Crypt of the Necrodancer: Amplified | 26613 | [26613-crypt-of-the-necrodancer-amplified.json](./26613-crypt-of-the-necrodancer-amplified.json) |
 | Crypt of the Necrodancer: Collector's Edition | 139866 | [139866-crypt-of-the-necrodancer-collectors-edition.json](./139866-crypt-of-the-necrodancer-collectors-edition.json) |
+| Crypt of the Necrodancer: Shovel Knight | 376071 | [376071-crypt-of-the-necrodancer-shovel-knight.json](./376071-crypt-of-the-necrodancer-shovel-knight.json) |
 | Crypt of the Serpent King: Remastered - 4K Edition | 208456 | [208456-crypt-of-the-serpent-king-remastered-4k-edition.json](./208456-crypt-of-the-serpent-king-remastered-4k-edition.json) |
 | Crypt of the Undead | 24862 | [24862-crypt-of-the-undead.json](./24862-crypt-of-the-undead.json) |
 | Crypt Raider | 263476 | [263476-crypt-raider.json](./263476-crypt-raider.json) |
@@ -8852,6 +8854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube War | 284984 | [284984-cube-war.json](./284984-cube-war.json) |
 | Cube Way | 75902 | [75902-cube-way.json](./75902-cube-way.json) |
 | Cube World | 195215 | [195215-cube-world.json](./195215-cube-world.json) |
+| Cube World Omega | 376012 | [376012-cube-world-omega.json](./376012-cube-world-omega.json) |
 | Cube Zoid | 176466 | [176466-cube-zoid.json](./176466-cube-zoid.json) |
 | Cube-e 2 | 165415 | [165415-cube-e-2.json](./165415-cube-e-2.json) |
 | Cube-Field+ | 392369 | [392369-cube-field.json](./392369-cube-field.json) |
