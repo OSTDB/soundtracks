@@ -3147,6 +3147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hey You, Pikachu! | 2642 | [2642-hey-you-pikachu.json](./2642-hey-you-pikachu.json) |
 | Hey You, Pikachu! Demake | 413223 | [413223-hey-you-pikachu-demake.json](./413223-hey-you-pikachu-demake.json) |
 | Hey, Don't Look at Me | 416644 | [416644-hey-dont-look-at-me.json](./416644-hey-dont-look-at-me.json) |
+| Hey, Girlie! | 342819 | [342819-hey-girlie.json](./342819-hey-girlie.json) |
 | Hey, Man!: Born in the Electric | 273968 | [273968-hey-man-born-in-the-electric.json](./273968-hey-man-born-in-the-electric.json) |
 | Hey! Stop! | 40735 | [40735-hey-stop.json](./40735-hey-stop.json) |
 | Heyawake by Nikoli | 84522 | [84522-heyawake-by-nikoli.json](./84522-heyawake-by-nikoli.json) |
@@ -4438,6 +4439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homerun Hitters | 66766 | [66766-homerun-hitters.json](./66766-homerun-hitters.json) |
 | Homerun King - Pro Baseball | 39011 | [39011-homerun-king-pro-baseball.json](./39011-homerun-king-pro-baseball.json) |
 | Homerun Touchdown 2017 | 137588 | [137588-homerun-touchdown-2017.json](./137588-homerun-touchdown-2017.json) |
+| Homerun: Spin-Off Forever | 342815 | [342815-homerun-spin-off-forever.json](./342815-homerun-spin-off-forever.json) |
 | Homeseek | 214384 | [214384-homeseek.json](./214384-homeseek.json) |
 | Homeshift | 372597 | [372597-homeshift.json](./372597-homeshift.json) |
 | Homesick | 11634 | [11634-homesick.json](./11634-homesick.json) |
@@ -5196,6 +5198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hourglass | 122270 | [122270-hourglass.json](./122270-hourglass.json) |
 | Hourglass of Summer | 73005 | [73005-hourglass-of-summer.json](./73005-hourglass-of-summer.json) |
 | House | 140372 | [140372-house.json](./140372-house.json) |
+| House | 342712 | [342712-house.json](./342712-house.json) |
 | House 2 | 267094 | [267094-house-2.json](./267094-house-2.json) |
 | House 3D: Move and Unpack | 196680 | [196680-house-3d-move-and-unpack.json](./196680-house-3d-move-and-unpack.json) |
 | House Builder 2 | 343234 | [343234-house-builder-2.json](./343234-house-builder-2.json) |
