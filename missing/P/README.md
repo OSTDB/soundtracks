@@ -801,6 +801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Kingdom | 279110 | [279110-paper-kingdom.json](./279110-paper-kingdom.json) |
 | Paper Knight | 386401 | [386401-paper-knight.json](./386401-paper-knight.json) |
 | Paper Luigi's Mansion | 323901 | [323901-paper-luigis-mansion.json](./323901-paper-luigis-mansion.json) |
+| Paper Mall | 334934 | [334934-paper-mall.json](./334934-paper-mall.json) |
 | Paper Mario | 323287 | [323287-paper-mario.json](./323287-paper-mario.json) |
 | Paper Mario 3D Land | 132722 | [132722-paper-mario-3d-land.json](./132722-paper-mario-3d-land.json) |
 | Paper Mario 64K | 315016 | [315016-paper-mario-64k.json](./315016-paper-mario-64k.json) |
@@ -872,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papercut Art Gallery-Growth | 297802 | [297802-papercut-art-gallery-growth.json](./297802-papercut-art-gallery-growth.json) |
 | Papercut Art Gallery: Nature | 292854 | [292854-papercut-art-gallery-nature.json](./292854-papercut-art-gallery-nature.json) |
 | Paperents | 342292 | [342292-paperents.json](./342292-paperents.json) |
+| Papergames.io | 334918 | [334918-papergames-io.json](./334918-papergames-io.json) |
 | Paperhead Ep. 0 | 321587 | [321587-paperhead-ep-0.json](./321587-paperhead-ep-0.json) |
 | PaperKlay | 204531 | [204531-paperklay.json](./204531-paperklay.json) |
 | Paperly | 403748 | [403748-paperly.json](./403748-paperly.json) |
@@ -4455,6 +4457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Royale | 292556 | [292556-planet-royale.json](./292556-planet-royale.json) |
 | Planet Runners | 96258 | [96258-planet-runners.json](./96258-planet-runners.json) |
 | Planet S: A New Horizon | 369146 | [369146-planet-s-a-new-horizon.json](./369146-planet-s-a-new-horizon.json) |
+| Planet Sheen: Been There, Sheen That! | 334937 | [334937-planet-sheen-been-there-sheen-that.json](./334937-planet-sheen-been-there-sheen-that.json) |
 | Planet Smashers | 12336 | [12336-planet-smashers.json](./12336-planet-smashers.json) |
 | Planet Soccer | 57688 | [57688-planet-soccer.json](./57688-planet-soccer.json) |
 | Planet Squirrel | 106743 | [106743-planet-squirrel.json](./106743-planet-squirrel.json) |
@@ -5639,6 +5642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Air Transporter | 104226 | [104226-police-air-transporter.json](./104226-police-air-transporter.json) |
 | Police Atv Offroad | 309872 | [309872-police-atv-offroad.json](./309872-police-atv-offroad.json) |
 | Police Blazel | 98018 | [98018-police-blazel.json](./98018-police-blazel.json) |
+| Police Car Chase | 334826 | [334826-police-car-chase.json](./334826-police-car-chase.json) |
 | Police Car Drift Simulator | 223986 | [223986-police-car-drift-simulator.json](./223986-police-car-drift-simulator.json) |
 | Police Car Driver: City Parking Simulator | 283237 | [283237-police-car-driver-city-parking-simulator.json](./283237-police-car-driver-city-parking-simulator.json) |
 | Police Car SUV Simulator | 256563 | [256563-police-car-suv-simulator.json](./256563-police-car-suv-simulator.json) |
