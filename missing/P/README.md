@@ -2208,6 +2208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Periphery | 377180 | [377180-periphery.json](./377180-periphery.json) |
 | Periphery Synthetic | 215696 | [215696-periphery-synthetic.json](./215696-periphery-synthetic.json) |
 | Periscope Up | 13023 | [13023-periscope-up.json](./13023-periscope-up.json) |
+| Perish Parade | 352880 | [352880-perish-parade.json](./352880-perish-parade.json) |
 | Perish Song | 197259 | [197259-perish-song.json](./197259-perish-song.json) |
 | Perish the Thoth | 271458 | [271458-perish-the-thoth.json](./271458-perish-the-thoth.json) |
 | Perisno | 356202 | [356202-perisno.json](./356202-perisno.json) |
