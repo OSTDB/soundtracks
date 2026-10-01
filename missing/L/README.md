@@ -2182,6 +2182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Stage, Virtual House | 37122 | [37122-life-stage-virtual-house.json](./37122-life-stage-virtual-house.json) |
 | Life The Game | 326720 | [326720-life-the-game.json](./326720-life-the-game.json) |
 | Life with Mary | 150513 | [150513-life-with-mary.json](./150513-life-with-mary.json) |
+| Life-Term | 354581 | [354581-life-term.json](./354581-life-term.json) |
 | Life: The Game | 332839 | [332839-life-the-game.json](./332839-life-the-game.json) |
 | Life: the game of chance | 135686 | [135686-life-the-game-of-chance.json](./135686-life-the-game-of-chance.json) |
 | Life's 2 Short: Unhooked | 265192 | [265192-lifes-2-short-unhooked.json](./265192-lifes-2-short-unhooked.json) |
@@ -4656,6 +4657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna : The Dimemsion Watcher | 130917 | [130917-luna-the-dimemsion-watcher.json](./130917-luna-the-dimemsion-watcher.json) |
 | Luna and the Wasted City of Sin | 326791 | [326791-luna-and-the-wasted-city-of-sin.json](./326791-luna-and-the-wasted-city-of-sin.json) |
 | Luna Anomaly | 369195 | [369195-luna-anomaly.json](./369195-luna-anomaly.json) |
+| Luna Atac | 354580 | [354580-luna-atac.json](./354580-luna-atac.json) |
 | Luna Blaze | 353870 | [353870-luna-blaze.json](./353870-luna-blaze.json) |
 | Luna Child no Saishuu Bouei Line 2 | 204405 | [204405-luna-child-no-saishuu-bouei-line-2.json](./204405-luna-child-no-saishuu-bouei-line-2.json) |
 | Luna Child no Saishuu Bouei Line 3 | 202971 | [202971-luna-child-no-saishuu-bouei-line-3.json](./202971-luna-child-no-saishuu-bouei-line-3.json) |
