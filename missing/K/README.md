@@ -496,6 +496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karma: Immortal Wrath | 145619 | [145619-karma-immortal-wrath.json](./145619-karma-immortal-wrath.json) |
 | Karma: Operation Barbossa | 67232 | [67232-karma-operation-barbossa.json](./67232-karma-operation-barbossa.json) |
 | Karma: The Dark World - Deluxe Edition | 403590 | [403590-karma-the-dark-world-deluxe-edition.json](./403590-karma-the-dark-world-deluxe-edition.json) |
+| Karma: The Dark World - Limited Edition | 351141 | [351141-karma-the-dark-world-limited-edition.json](./351141-karma-the-dark-world-limited-edition.json) |
 | Karmaflow: The Rock Opera Videogame | 8439 | [8439-karmaflow-the-rock-opera-videogame.json](./8439-karmaflow-the-rock-opera-videogame.json) |
 | Karmasutra | 51474 | [51474-karmasutra.json](./51474-karmasutra.json) |
 | Karnage Chronicles | 28272 | [28272-karnage-chronicles.json](./28272-karnage-chronicles.json) |
@@ -2559,6 +2560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korean Drone Flying Tour Chuncheon City | 328501 | [328501-korean-drone-flying-tour-chuncheon-city.json](./328501-korean-drone-flying-tour-chuncheon-city.json) |
 | Korean Drone Flying Tour Daedunsan | 386371 | [386371-korean-drone-flying-tour-daedunsan.json](./386371-korean-drone-flying-tour-daedunsan.json) |
 | Korean Drone Flying Tour Danyang-gun | 328502 | [328502-korean-drone-flying-tour-danyang-gun.json](./328502-korean-drone-flying-tour-danyang-gun.json) |
+| Korean Drone Flying Tour Hangang Park | 351220 | [351220-korean-drone-flying-tour-hangang-park.json](./351220-korean-drone-flying-tour-hangang-park.json) |
 | Korean Drone Flying Tour Jeju Island-1 | 314872 | [314872-korean-drone-flying-tour-jeju-island-1.json](./314872-korean-drone-flying-tour-jeju-island-1.json) |
 | Korean Drone Flying Tour Jeju Island-2 | 317226 | [317226-korean-drone-flying-tour-jeju-island-2.json](./317226-korean-drone-flying-tour-jeju-island-2.json) |
 | Korean Drone Flying Tour Odong-do Dragon Cave | 358360 | [358360-korean-drone-flying-tour-odong-do-dragon-cave.json](./358360-korean-drone-flying-tour-odong-do-dragon-cave.json) |
