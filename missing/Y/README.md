@@ -275,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yie Ar Kung-Fu | 239171 | [239171-yie-ar-kung-fu.json](./239171-yie-ar-kung-fu.json) |
 | Yihongyuan | 236947 | [236947-yihongyuan.json](./236947-yihongyuan.json) |
 | Yiki Action RPG | 117692 | [117692-yiki-action-rpg.json](./117692-yiki-action-rpg.json) |
+| Yīn Yuán | 368098 | [368098-yin-yuan.json](./368098-yin-yuan.json) |
 | Yin-Yang Labyrinth | 301600 | [301600-yin-yang-labyrinth.json](./301600-yin-yang-labyrinth.json) |
 | Yin-Yang Ping-Pong | 309883 | [309883-yin-yang-ping-pong.json](./309883-yin-yang-ping-pong.json) |
 | Yin-Yang Ping-Pong: Supporter Pack | 312029 | [312029-yin-yang-ping-pong-supporter-pack.json](./312029-yin-yang-ping-pong-supporter-pack.json) |
@@ -623,6 +624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Youngblood: Search and Destroy | 202395 | [202395-youngblood-search-and-destroy.json](./202395-youngblood-search-and-destroy.json) |
 | Your “Hidden Side” Test | 399796 | [399796-your-hidden-side-test.json](./399796-your-hidden-side-test.json) |
 | Your Android | 329644 | [329644-your-android.json](./329644-your-android.json) |
+| Your Anime Waifu | 368080 | [368080-your-anime-waifu.json](./368080-your-anime-waifu.json) |
 | Your Best Nightmare | 176909 | [176909-your-best-nightmare.json](./176909-your-best-nightmare.json) |
 | Your Blue Room | 185616 | [185616-your-blue-room.json](./185616-your-blue-room.json) |
 | Your Canvas | 387638 | [387638-your-canvas.json](./387638-your-canvas.json) |
@@ -922,6 +924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yummy Drink Factory | 295930 | [295930-yummy-drink-factory.json](./295930-yummy-drink-factory.json) |
 | Yummy Girl 2 | 195243 | [195243-yummy-girl-2.json](./195243-yummy-girl-2.json) |
 | Yummy Girls 2 | 236762 | [236762-yummy-girls-2.json](./236762-yummy-girls-2.json) |
+| Yummy Girls 3 | 368079 | [368079-yummy-girls-3.json](./368079-yummy-girls-3.json) |
 | Yummy Jewels | 264900 | [264900-yummy-jewels.json](./264900-yummy-jewels.json) |
 | Yummy Nuts | 150580 | [150580-yummy-nuts.json](./150580-yummy-nuts.json) |
 | Yummy Tales 2 | 205023 | [205023-yummy-tales-2.json](./205023-yummy-tales-2.json) |
