@@ -1258,6 +1258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malacadabra | 229037 | [229037-malacadabra.json](./229037-malacadabra.json) |
 | Malasombra | 227820 | [227820-malasombra.json](./227820-malasombra.json) |
 | Malavision: The Origin | 31812 | [31812-malavision-the-origin.json](./31812-malavision-the-origin.json) |
+| Malcade | 366997 | [366997-malcade.json](./366997-malcade.json) |
 | Maldita Castilla EX: Collector's Edition | 182480 | [182480-maldita-castilla-ex-collectors-edition.json](./182480-maldita-castilla-ex-collectors-edition.json) |
 | MALdle | 372107 | [372107-maldle.json](./372107-maldle.json) |
 | Maldrin Journey | 123037 | [123037-maldrin-journey.json](./123037-maldrin-journey.json) |
@@ -2053,6 +2054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Market Dominion | 114393 | [114393-market-dominion.json](./114393-market-dominion.json) |
 | Market Dominion: Global Rivalry | 170987 | [170987-market-dominion-global-rivalry.json](./170987-market-dominion-global-rivalry.json) |
 | Market Dominion: Last Penny | 170988 | [170988-market-dominion-last-penny.json](./170988-market-dominion-last-penny.json) |
+| Market Empire Simulator | 366962 | [366962-market-empire-simulator.json](./366962-market-empire-simulator.json) |
 | Market Hours | 399710 | [399710-market-hours.json](./399710-market-hours.json) |
 | Market Mogul | 59899 | [59899-market-mogul.json](./59899-market-mogul.json) |
 | Market Trouble | 182541 | [182541-market-trouble.json](./182541-market-trouble.json) |
@@ -6504,6 +6506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mixed Estate | 111229 | [111229-mixed-estate.json](./111229-mixed-estate.json) |
 | Mixed Feelings 2: Elysium | 266913 | [266913-mixed-feelings-2-elysium.json](./266913-mixed-feelings-2-elysium.json) |
 | Mixed Guns | 216737 | [216737-mixed-guns.json](./216737-mixed-guns.json) |
+| Mixed Spirits | 366957 | [366957-mixed-spirits.json](./366957-mixed-spirits.json) |
 | Mixed Unit Tactics | 252983 | [252983-mixed-unit-tactics.json](./252983-mixed-unit-tactics.json) |
 | Mixels Rush | 214029 | [214029-mixels-rush.json](./214029-mixels-rush.json) |
 | MixiM | 202360 | [202360-mixim.json](./202360-mixim.json) |
