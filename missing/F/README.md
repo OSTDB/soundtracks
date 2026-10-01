@@ -209,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Facility | 190985 | [190985-facility.json](./190985-facility.json) |
 | Facility 079 | 291041 | [291041-facility-079.json](./291041-facility-079.json) |
 | Facility 47 | 90790 | [90790-facility-47.json](./90790-facility-47.json) |
+| Facing | 384162 | [384162-facing.json](./384162-facing.json) |
 | Facing Demons: Chara Battle | 305263 | [305263-facing-demons-chara-battle.json](./305263-facing-demons-chara-battle.json) |
 | Facing Zombie,and 4 Walls | 285967 | [285967-facing-zombie-and-4-walls.json](./285967-facing-zombie-and-4-walls.json) |
 | Facteroids | 173306 | [173306-facteroids.json](./173306-facteroids.json) |
@@ -5550,6 +5551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday the 13th: Return to Camp Blood Demake | 214609 | [214609-friday-the-13th-return-to-camp-blood-demake.json](./214609-friday-the-13th-return-to-camp-blood-demake.json) |
 | Friday the 13th: The Game - Spring Break 1984 Clothing Pack | 224244 | [224244-friday-the-13th-the-game-spring-break-1984-clothing-pack.json](./224244-friday-the-13th-the-game-spring-break-1984-clothing-pack.json) |
 | Friday: Death to Arthur Yahtzee | 62155 | [62155-friday-death-to-arthur-yahtzee.json](./62155-friday-death-to-arthur-yahtzee.json) |
+| Fridge | 384166 | [384166-fridge.json](./384166-fridge.json) |
 | Frido | 232456 | [232456-frido.json](./232456-frido.json) |
 | Fried Chicken in Wonderland | 158576 | [158576-fried-chicken-in-wonderland.json](./158576-fried-chicken-in-wonderland.json) |
 | Fried Rice Apocalypse | 338727 | [338727-fried-rice-apocalypse.json](./338727-fried-rice-apocalypse.json) |
