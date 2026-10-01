@@ -1124,6 +1124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch The Edge Honey | 412350 | [412350-watch-the-edge-honey.json](./412350-watch-the-edge-honey.json) |
 | Watch The Fish | 287190 | [287190-watch-the-fish.json](./287190-watch-the-fish.json) |
 | Watch This! | 33129 | [33129-watch-this.json](./33129-watch-this.json) |
+| Watch Where You're Going | 345077 | [345077-watch-where-youre-going.json](./345077-watch-where-youre-going.json) |
 | Watch Your Back | 203838 | [203838-watch-your-back.json](./203838-watch-your-back.json) |
 | Watch_Dogs 1985 | 179119 | [179119-watch-dogs-1985.json](./179119-watch-dogs-1985.json) |
 | Watched | 383512 | [383512-watched.json](./383512-watched.json) |
@@ -2130,6 +2131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whiskered Away | 196888 | [196888-whiskered-away.json](./196888-whiskered-away.json) |
 | Whiskers | 180237 | [180237-whiskers.json](./180237-whiskers.json) |
 | Whiskers | 272300 | [272300-whiskers.json](./272300-whiskers.json) |
+| Whiskers and Wizardry | 345084 | [345084-whiskers-and-wizardry.json](./345084-whiskers-and-wizardry.json) |
 | Whiskers in the Dark | 309131 | [309131-whiskers-in-the-dark.json](./309131-whiskers-in-the-dark.json) |
 | Whiskers on Time's Corner | 370098 | [370098-whiskers-on-times-corner.json](./370098-whiskers-on-times-corner.json) |
 | Whiskers Reborn | 267348 | [267348-whiskers-reborn.json](./267348-whiskers-reborn.json) |
