@@ -2109,6 +2109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whiskerwood | 309324 | [309324-whiskerwood.json](./309324-whiskerwood.json) |
 | Whiskey Bravo | 189174 | [189174-whiskey-bravo.json](./189174-whiskey-bravo.json) |
 | Whiskey Island | 148467 | [148467-whiskey-island.json](./148467-whiskey-island.json) |
+| Whiskey Mafia: Blacklist | 380649 | [380649-whiskey-mafia-blacklist.json](./380649-whiskey-mafia-blacklist.json) |
 | Whiskey Mafia: Leo's Family | 133141 | [133141-whiskey-mafia-leos-family.json](./133141-whiskey-mafia-leos-family.json) |
 | Whiskey-Four | 338373 | [338373-whiskey-four.json](./338373-whiskey-four.json) |
 | Whismie | 394472 | [394472-whismie.json](./394472-whismie.json) |
