@@ -16051,6 +16051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supersonic Fight | 216712 | [216712-supersonic-fight.json](./216712-supersonic-fight.json) |
 | Supersonic Highway Defenders | 355559 | [355559-supersonic-highway-defenders.json](./355559-supersonic-highway-defenders.json) |
 | SuperSpec Rallycross | 291740 | [291740-superspec-rallycross.json](./291740-superspec-rallycross.json) |
+| SuperSpeed Deluxe | 366963 | [366963-superspeed-deluxe.json](./366963-superspeed-deluxe.json) |
 | Supersportic | 68273 | [68273-supersportic.json](./68273-supersportic.json) |
 | Supersports: The Alternative Olympics | 123008 | [123008-supersports-the-alternative-olympics.json](./123008-supersports-the-alternative-olympics.json) |
 | Superspy Steve | 385296 | [385296-superspy-steve.json](./385296-superspy-steve.json) |
