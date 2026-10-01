@@ -1525,6 +1525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometry Arena | 152133 | [152133-geometry-arena.json](./152133-geometry-arena.json) |
 | Geometry Ball Escape | 164795 | [164795-geometry-ball-escape.json](./164795-geometry-ball-escape.json) |
 | Geometry Boxer | 98768 | [98768-geometry-boxer.json](./98768-geometry-boxer.json) |
+| Geometry Breakers | 369172 | [369172-geometry-breakers.json](./369172-geometry-breakers.json) |
 | Geometry Darkness 2.2 :D | 101984 | [101984-geometry-darkness-2-2-d.json](./101984-geometry-darkness-2-2-d.json) |
 | Geometry Dash Meltdown | 38693 | [38693-geometry-dash-meltdown.json](./38693-geometry-dash-meltdown.json) |
 | Geometry Dash SubZero | 87023 | [87023-geometry-dash-subzero.json](./87023-geometry-dash-subzero.json) |
@@ -2572,6 +2573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go-Jin Senki | 80525 | [80525-go-jin-senki.json](./80525-go-jin-senki.json) |
 | Go-Kart | 246489 | [246489-go-kart.json](./246489-go-kart.json) |
 | Go-Kart Racing | 96470 | [96470-go-kart-racing.json](./96470-go-kart-racing.json) |
+| Go-Kart Racing 2 | 369178 | [369178-go-kart-racing-2.json](./369178-go-kart-racing-2.json) |
 | Go-Kart Simulator | 326417 | [326417-go-kart-simulator.json](./326417-go-kart-simulator.json) |
 | Go, Diego, Go! Great Dinosaur Rescue | 292114 | [292114-go-diego-go-great-dinosaur-rescue.json](./292114-go-diego-go-great-dinosaur-rescue.json) |
 | Go, Diego, Go! Great Dinosaur Rescue | 47978 | [47978-go-diego-go-great-dinosaur-rescue.json](./47978-go-diego-go-great-dinosaur-rescue.json) |
@@ -4150,6 +4152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greenwood Falls | 285545 | [285545-greenwood-falls.json](./285545-greenwood-falls.json) |
 | Greenwood the Last Ritual | 31109 | [31109-greenwood-the-last-ritual.json](./31109-greenwood-the-last-ritual.json) |
 | Greenwood: Amaranthus | 179511 | [179511-greenwood-amaranthus.json](./179511-greenwood-amaranthus.json) |
+| Greeny the Blox | 369173 | [369173-greeny-the-blox.json](./369173-greeny-the-blox.json) |
 | Greetings | 178562 | [178562-greetings.json](./178562-greetings.json) |
 | Greetings From Krampus! | 127229 | [127229-greetings-from-krampus.json](./127229-greetings-from-krampus.json) |
 | Greg Hastings' Tournament Paintball | 5854 | [5854-greg-hastings-tournament-paintball.json](./5854-greg-hastings-tournament-paintball.json) |
@@ -4742,6 +4745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild of Greats | 137024 | [137024-guild-of-greats.json](./137024-guild-of-greats.json) |
 | Guild of Heroes | 58462 | [58462-guild-of-heroes.json](./58462-guild-of-heroes.json) |
 | Guild of Hunters | 372993 | [372993-guild-of-hunters.json](./372993-guild-of-hunters.json) |
+| Guild of Monsters | 369175 | [369175-guild-of-monsters.json](./369175-guild-of-monsters.json) |
 | Guild Receptionist: Good Luck | 339103 | [339103-guild-receptionist-good-luck.json](./339103-guild-receptionist-good-luck.json) |
 | Guild Saga: Vanished Worlds | 244758 | [244758-guild-saga-vanished-worlds.json](./244758-guild-saga-vanished-worlds.json) |
 | Guild Soup | 408907 | [408907-guild-soup.json](./408907-guild-soup.json) |
@@ -4887,6 +4891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gumball Hero | 407353 | [407353-gumball-hero.json](./407353-gumball-hero.json) |
 | Gumbowl's Adventure | 292551 | [292551-gumbowls-adventure.json](./292551-gumbowls-adventure.json) |
 | Gumchu Girl | 137682 | [137682-gumchu-girl.json](./137682-gumchu-girl.json) |
+| Gummy Bear Idle: No Job, Just Jelly | 369160 | [369160-gummy-bear-idle-no-job-just-jelly.json](./369160-gummy-bear-idle-no-job-just-jelly.json) |
 | Gummy Bears Mini Golf | 85169 | [85169-gummy-bears-mini-golf.json](./85169-gummy-bears-mini-golf.json) |
 | Gummy Bears: Magical Medallion | 50628 | [50628-gummy-bears-magical-medallion.json](./50628-gummy-bears-magical-medallion.json) |
 | Gummy Drop! | 86822 | [86822-gummy-drop.json](./86822-gummy-drop.json) |
