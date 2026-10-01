@@ -7703,6 +7703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlighter: Between Dimensions | 119236 | [119236-moonlighter-between-dimensions.json](./119236-moonlighter-between-dimensions.json) |
 | Moonlit | 141094 | [141094-moonlit.json](./141094-moonlit.json) |
 | Moonlit | 263437 | [263437-moonlit.json](./263437-moonlit.json) |
+| Moonlit Blessed | 383549 | [383549-moonlit-blessed.json](./383549-moonlit-blessed.json) |
 | Moonlit Embrace | 311051 | [311051-moonlit-embrace.json](./311051-moonlit-embrace.json) |
 | Moonlit Lobby | 212773 | [212773-moonlit-lobby.json](./212773-moonlit-lobby.json) |
 | Moonlit Nights | 386146 | [386146-moonlit-nights.json](./386146-moonlit-nights.json) |
