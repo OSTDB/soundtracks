@@ -2750,6 +2750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resonance of the Ocean | 207796 | [207796-resonance-of-the-ocean.json](./207796-resonance-of-the-ocean.json) |
 | Resonance: The Lost Score | 150064 | [150064-resonance-the-lost-score.json](./150064-resonance-the-lost-score.json) |
 | Resonant Dusk | 395791 | [395791-resonant-dusk.json](./395791-resonant-dusk.json) |
+| Resonant Q | 381189 | [381189-resonant-q.json](./381189-resonant-q.json) |
 | Resonant Tale | 266481 | [266481-resonant-tale.json](./266481-resonant-tale.json) |
 | Resonark X | 141900 | [141900-resonark-x.json](./141900-resonark-x.json) |
 | Resonating Cords | 357412 | [357412-resonating-cords.json](./357412-resonating-cords.json) |
@@ -3632,6 +3633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riftshot | 417536 | [417536-riftshot.json](./417536-riftshot.json) |
 | RiftStar Raiders | 27103 | [27103-riftstar-raiders.json](./27103-riftstar-raiders.json) |
 | Riftwalker | 178679 | [178679-riftwalker.json](./178679-riftwalker.json) |
+| Riftwalker | 381181 | [381181-riftwalker.json](./381181-riftwalker.json) |
 | Rig'n' Roll: Cut-Throat Highway | 209162 | [209162-rign-roll-cut-throat-highway.json](./209162-rign-roll-cut-throat-highway.json) |
 | Rig's Dream 3D | 28102 | [28102-rigs-dream-3d.json](./28102-rigs-dream-3d.json) |
 | Rigel's Revenge | 55084 | [55084-rigels-revenge.json](./55084-rigels-revenge.json) |
@@ -5334,6 +5336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rory's Restaurant: Origins | 188416 | [188416-rorys-restaurant-origins.json](./188416-rorys-restaurant-origins.json) |
 | Ros | 101631 | [101631-ros.json](./101631-ros.json) |
 | Rosa Musou | 214765 | [214765-rosa-musou.json](./214765-rosa-musou.json) |
+| Rosaluna: Moonlit Vengeance | 381182 | [381182-rosaluna-moonlit-vengeance.json](./381182-rosaluna-moonlit-vengeance.json) |
 | Rosario + Vampire | 331991 | [331991-rosario-vampire.json](./331991-rosario-vampire.json) |
 | Rosas are Red | 280777 | [280777-rosas-are-red.json](./280777-rosas-are-red.json) |
 | Rose | 236374 | [236374-rose.json](./236374-rose.json) |
