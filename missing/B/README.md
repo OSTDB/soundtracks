@@ -2410,6 +2410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beaconfall | 411001 | [411001-beaconfall.json](./411001-beaconfall.json) |
 | Bead | 90636 | [90636-bead.json](./90636-bead.json) |
 | Beads of orange glass | 205106 | [205106-beads-of-orange-glass.json](./205106-beads-of-orange-glass.json) |
+| Beak Island Visitor Center | 339964 | [339964-beak-island-visitor-center.json](./339964-beak-island-visitor-center.json) |
 | Beam | 15700 | [15700-beam.json](./15700-beam.json) |
 | Beam Ball | 101731 | [101731-beam-ball.json](./101731-beam-ball.json) |
 | Beam Breakers | 24082 | [24082-beam-breakers.json](./24082-beam-breakers.json) |
@@ -2633,6 +2634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Them Up: Street Fight Band Simulator | 251598 | [251598-beat-them-up-street-fight-band-simulator.json](./251598-beat-them-up-street-fight-band-simulator.json) |
 | Beat This Game To See Hot Lady | 396495 | [396495-beat-this-game-to-see-hot-lady.json](./396495-beat-this-game-to-see-hot-lady.json) |
 | Beat Time | 91439 | [91439-beat-time.json](./91439-beat-time.json) |
+| Beat Tokyo with Jimotoism | 339976 | [339976-beat-tokyo-with-jimotoism.json](./339976-beat-tokyo-with-jimotoism.json) |
 | Beat Up Bowser! | 328609 | [328609-beat-up-bowser.json](./328609-beat-up-bowser.json) |
 | Beat Valkyrie Ixseal | 208300 | [208300-beat-valkyrie-ixseal.json](./208300-beat-valkyrie-ixseal.json) |
 | Beat Vector | 393465 | [393465-beat-vector.json](./393465-beat-vector.json) |
@@ -5671,6 +5673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BMX Trick Racer | 49313 | [49313-bmx-trick-racer.json](./49313-bmx-trick-racer.json) |
 | BMX XXX | 3826 | [3826-bmx-xxx.json](./3826-bmx-xxx.json) |
 | BMX: The Game | 138610 | [138610-bmx-the-game.json](./138610-bmx-the-game.json) |
+| Bnuuy Deliverance | 339891 | [339891-bnuuy-deliverance.json](./339891-bnuuy-deliverance.json) |
 | Bō: Path of the Teal Lotus - Tanuki Kabuki | 335294 | [335294-bo-path-of-the-teal-lotus-tanuki-kabuki.json](./335294-bo-path-of-the-teal-lotus-tanuki-kabuki.json) |
 | Boa Retina | 134663 | [134663-boa-retina.json](./134663-boa-retina.json) |
 | BOAA: Baako | 138222 | [138222-boaa-baako.json](./138222-boaa-baako.json) |
@@ -7047,6 +7050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Meow World | 318061 | [318061-brave-meow-world.json](./318061-brave-meow-world.json) |
 | Brave Mouse Cartographer Trilogy | 139476 | [139476-brave-mouse-cartographer-trilogy.json](./139476-brave-mouse-cartographer-trilogy.json) |
 | Brave Neptunia: Hero Edition | 100356 | [100356-brave-neptunia-hero-edition.json](./100356-brave-neptunia-hero-edition.json) |
+| Brave New Wonders | 339966 | [339966-brave-new-wonders.json](./339966-brave-new-wonders.json) |
 | Brave Nine | 112120 | [112120-brave-nine.json](./112120-brave-nine.json) |
 | Brave Odyssea | 26976 | [26976-brave-odyssea.json](./26976-brave-odyssea.json) |
 | Brave Path | 48002 | [48002-brave-path.json](./48002-brave-path.json) |
@@ -8316,6 +8320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunnies & Ballgames! | 376462 | [376462-bunnies-and-ballgames.json](./376462-bunnies-and-ballgames.json) |
 | Bunnies vs Zombies | 197862 | [197862-bunnies-vs-zombies.json](./197862-bunnies-vs-zombies.json) |
 | Bunninjutsu | 378179 | [378179-bunninjutsu.json](./378179-bunninjutsu.json) |
+| Bunny | 339974 | [339974-bunny.json](./339974-bunny.json) |
 | Bunny | 354653 | [354653-bunny.json](./354653-bunny.json) |
 | Bunny Adventure | 147918 | [147918-bunny-adventure.json](./147918-bunny-adventure.json) |
 | Bunny Black | 115727 | [115727-bunny-black.json](./115727-bunny-black.json) |
