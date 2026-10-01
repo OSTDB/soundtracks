@@ -1780,6 +1780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekla | 218586 | [218586-tekla.json](./218586-tekla.json) |
 | Tekling 2: Overdrive | 170314 | [170314-tekling-2-overdrive.json](./170314-tekling-2-overdrive.json) |
 | TeknoKinetica | 316625 | [316625-teknokinetica.json](./316625-teknokinetica.json) |
+| Teknokrat | 357379 | [357379-teknokrat.json](./357379-teknokrat.json) |
 | Teko | 378262 | [378262-teko.json](./378262-teko.json) |
 | Tekoha: A Tale Among the Stars | 237343 | [237343-tekoha-a-tale-among-the-stars.json](./237343-tekoha-a-tale-among-the-stars.json) |
 | TekSkeleton | 287242 | [287242-tekskeleton.json](./287242-tekskeleton.json) |
@@ -13765,22 +13766,33 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator 2021: Union Pacific No. 119 Steam Loco | 162382 | [162382-train-simulator-2021-union-pacific-no-119-steam-loco.json](./162382-train-simulator-2021-union-pacific-no-119-steam-loco.json) |
 | Train Simulator 2021: Western Hydraulics Pack | 162352 | [162352-train-simulator-2021-western-hydraulics-pack.json](./162352-train-simulator-2021-western-hydraulics-pack.json) |
 | Train Simulator 2021: Western Maryland Railway Retro Pack | 162395 | [162395-train-simulator-2021-western-maryland-railway-retro-pack.json](./162395-train-simulator-2021-western-maryland-railway-retro-pack.json) |
+| Train Simulator Classic: Boston & Albany - Boston - Springfield Route Add-On | 357395 | [357395-train-simulator-classic-boston-and-albany-boston-springfield-route-add-on.json](./357395-train-simulator-classic-boston-and-albany-boston-springfield-route-add-on.json) |
+| Train Simulator Classic: C-424 | 357392 | [357392-train-simulator-classic-c-424.json](./357392-train-simulator-classic-c-424.json) |
 | Train Simulator Classic: DB BR 218 'V 164' | 279013 | [279013-train-simulator-classic-db-br-218-v-164.json](./279013-train-simulator-classic-db-br-218-v-164.json) |
 | Train Simulator Classic: E60 Electric Locomotive | 236543 | [236543-train-simulator-classic-e60-electric-locomotive.json](./236543-train-simulator-classic-e60-electric-locomotive.json) |
 | Train Simulator Classic: Eamnos VTG Wagon Pack | 293392 | [293392-train-simulator-classic-eamnos-vtg-wagon-pack.json](./293392-train-simulator-classic-eamnos-vtg-wagon-pack.json) |
 | Train Simulator Classic: Empire State Express No. 999 | 298176 | [298176-train-simulator-classic-empire-state-express-no-999.json](./298176-train-simulator-classic-empire-state-express-no-999.json) |
 | Train Simulator Classic: Euro BR 159 Electro-Diesel Loco | 236823 | [236823-train-simulator-classic-euro-br-159-electro-diesel-loco.json](./236823-train-simulator-classic-euro-br-159-electro-diesel-loco.json) |
+| Train Simulator Classic: Linz - Passau Route Add-On | 357394 | [357394-train-simulator-classic-linz-passau-route-add-on.json](./357394-train-simulator-classic-linz-passau-route-add-on.json) |
+| Train Simulator Classic: München - Ingolstadt Route Add-On | 357391 | [357391-train-simulator-classic-munchen-ingolstadt-route-add-on.json](./357391-train-simulator-classic-munchen-ingolstadt-route-add-on.json) |
 | Train Simulator Classic: New Haven FL9 Loco Add-On | 53838 | [53838-train-simulator-classic-new-haven-fl9-loco-add-on.json](./53838-train-simulator-classic-new-haven-fl9-loco-add-on.json) |
 | Train Simulator Classic: New Zealand Kb Class Steam Loco | 237406 | [237406-train-simulator-classic-new-zealand-kb-class-steam-loco.json](./237406-train-simulator-classic-new-zealand-kb-class-steam-loco.json) |
+| Train Simulator Classic: Norfolk Southern Saluda Grade Route Add-On | 357293 | [357293-train-simulator-classic-norfolk-southern-saluda-grade-route-add-on.json](./357293-train-simulator-classic-norfolk-southern-saluda-grade-route-add-on.json) |
 | Train Simulator Classic: ÖBB 5081 Schienenbus | 264565 | [264565-train-simulator-classic-obb-5081-schienenbus.json](./264565-train-simulator-classic-obb-5081-schienenbus.json) |
 | Train Simulator Classic: ÖBB 8073 | 284880 | [284880-train-simulator-classic-obb-8073.json](./284880-train-simulator-classic-obb-8073.json) |
+| Train Simulator Classic: Passau - Regensburg Route Add-On | 357295 | [357295-train-simulator-classic-passau-regensburg-route-add-on.json](./357295-train-simulator-classic-passau-regensburg-route-add-on.json) |
+| Train Simulator Classic: Regensburg – Ingolstadt Route Add-On | 357296 | [357296-train-simulator-classic-regensburg-ingolstadt-route-add-on.json](./357296-train-simulator-classic-regensburg-ingolstadt-route-add-on.json) |
+| Train Simulator Classic: Rio Grande Southern - Placerville - Rico & Telluride Route Add-On | 357396 | [357396-train-simulator-classic-rio-grande-southern-placerville-rico-and-telluride-route-add-on.json](./357396-train-simulator-classic-rio-grande-southern-placerville-rico-and-telluride-route-add-on.json) |
 | Train Simulator Classic: Saluda Grade Scenario Pack 01 | 267409 | [267409-train-simulator-classic-saluda-grade-scenario-pack-01.json](./267409-train-simulator-classic-saluda-grade-scenario-pack-01.json) |
 | Train Simulator Classic: Santa Fe Classic Pack 01 | 227283 | [227283-train-simulator-classic-santa-fe-classic-pack-01.json](./227283-train-simulator-classic-santa-fe-classic-pack-01.json) |
 | Train Simulator Classic: Soldier Summit Route | 238487 | [238487-train-simulator-classic-soldier-summit-route.json](./238487-train-simulator-classic-soldier-summit-route.json) |
 | Train Simulator Classic: Southern Railway Retro Pack 01 | 277351 | [277351-train-simulator-classic-southern-railway-retro-pack-01.json](./277351-train-simulator-classic-southern-railway-retro-pack-01.json) |
 | Train Simulator Classic: Suburban Glasgow - Airdrie Route Extension | 238621 | [238621-train-simulator-classic-suburban-glasgow-airdrie-route-extension.json](./238621-train-simulator-classic-suburban-glasgow-airdrie-route-extension.json) |
+| Train Simulator Classic: SW1 Switcher | 357393 | [357393-train-simulator-classic-sw1-switcher.json](./357393-train-simulator-classic-sw1-switcher.json) |
 | Train Simulator Classic: Tamns VTG Wagon Pack | 293393 | [293393-train-simulator-classic-tamns-vtg-wagon-pack.json](./293393-train-simulator-classic-tamns-vtg-wagon-pack.json) |
 | Train Simulator Classic: Taurus Mountains - Ulukışla: Yenice Route Add-On | 226687 | [226687-train-simulator-classic-taurus-mountains-uluk-sla-yenice-route-add-on.json](./226687-train-simulator-classic-taurus-mountains-uluk-sla-yenice-route-add-on.json) |
+| Train Simulator Classic: Tokyo Commuter - Keihin–Tohoku & Utsunomiya Lines Route Add-On | 357297 | [357297-train-simulator-classic-tokyo-commuter-keihin-tohoku-and-utsunomiya-lines-route-add-on.json](./357297-train-simulator-classic-tokyo-commuter-keihin-tohoku-and-utsunomiya-lines-route-add-on.json) |
+| Train Simulator Classic: U-Bahn Hamburg U1 - Norderstedt Mitte - Ohlstedt & Großhansdorf Route Add-On | 357294 | [357294-train-simulator-classic-u-bahn-hamburg-u1-norderstedt-mitte-ohlstedt-and-gro-hansdorf-route-add-on.json](./357294-train-simulator-classic-u-bahn-hamburg-u1-norderstedt-mitte-ohlstedt-and-gro-hansdorf-route-add-on.json) |
 | Train Simulator Classic: Wasatch Grade Scenario Pack 01 | 243375 | [243375-train-simulator-classic-wasatch-grade-scenario-pack-01.json](./243375-train-simulator-classic-wasatch-grade-scenario-pack-01.json) |
 | Train Simulator Classic: Western Maryland H-9 Class | 253432 | [253432-train-simulator-classic-western-maryland-h-9-class.json](./253432-train-simulator-classic-western-maryland-h-9-class.json) |
 | Train Simulator Classic: Zacens Wagon Pack | 293394 | [293394-train-simulator-classic-zacens-wagon-pack.json](./293394-train-simulator-classic-zacens-wagon-pack.json) |
