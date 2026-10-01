@@ -3426,6 +3426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dessert DIY: Premium Edition | 288298 | [288298-dessert-diy-premium-edition.json](./288298-dessert-diy-premium-edition.json) |
 | Dessert Love: Kare to no Hajimari | 219167 | [219167-dessert-love-kare-to-no-hajimari.json](./219167-dessert-love-kare-to-no-hajimari.json) |
 | Dessert Love: Sweet Plus | 219168 | [219168-dessert-love-sweet-plus.json](./219168-dessert-love-sweet-plus.json) |
+| Dessert Storm Girls | 337838 | [337838-dessert-storm-girls.json](./337838-dessert-storm-girls.json) |
 | Desserted | 373127 | [373127-desserted.json](./373127-desserted.json) |
 | Desstroke | 207505 | [207505-desstroke.json](./207505-desstroke.json) |
 | Destination | 322576 | [322576-destination.json](./322576-destination.json) |
@@ -4267,6 +4268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Hazard | 93162 | [93162-digital-hazard.json](./93162-digital-hazard.json) |
 | Digital Jigsaw Puzzle | 104015 | [104015-digital-jigsaw-puzzle.json](./104015-digital-jigsaw-puzzle.json) |
 | Digital Keiba Shinbun: My Trackman | 283300 | [283300-digital-keiba-shinbun-my-trackman.json](./283300-digital-keiba-shinbun-my-trackman.json) |
+| Digital Legacy of Zero | 337775 | [337775-digital-legacy-of-zero.json](./337775-digital-legacy-of-zero.json) |
 | Digital Makeover | 200604 | [200604-digital-makeover.json](./200604-digital-makeover.json) |
 | Digital Market Simulator | 348390 | [348390-digital-market-simulator.json](./348390-digital-market-simulator.json) |
 | Digital Messiah | 229805 | [229805-digital-messiah.json](./229805-digital-messiah.json) |
@@ -6252,6 +6254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doors Push or Pull | 101349 | [101349-doors-push-or-pull.json](./101349-doors-push-or-pull.json) |
 | Doors Quest Demo | 101593 | [101593-doors-quest-demo.json](./101593-doors-quest-demo.json) |
 | Doors: Awakening | 132014 | [132014-doors-awakening.json](./132014-doors-awakening.json) |
+| Doors: Haunted Tales of Lantern House | 337769 | [337769-doors-haunted-tales-of-lantern-house.json](./337769-doors-haunted-tales-of-lantern-house.json) |
 | Doortal | 159065 | [159065-doortal.json](./159065-doortal.json) |
 | Doorway 2 | 360703 | [360703-doorway-2.json](./360703-doorway-2.json) |
 | Doorway to Nightmares: Terrifying Tales | 420683 | [420683-doorway-to-nightmares-terrifying-tales.json](./420683-doorway-to-nightmares-terrifying-tales.json) |
@@ -8047,6 +8050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drum Box | 187360 | [187360-drum-box.json](./187360-drum-box.json) |
 | Drum Girl | 232140 | [232140-drum-girl.json](./232140-drum-girl.json) |
 | Drum Legend | 277023 | [277023-drum-legend.json](./277023-drum-legend.json) |
+| Drum Revolution | 337842 | [337842-drum-revolution.json](./337842-drum-revolution.json) |
 | Drumbeat Quest | 174229 | [174229-drumbeat-quest.json](./174229-drumbeat-quest.json) |
 | DrumMania 3rdMix | 188662 | [188662-drummania-3rdmix.json](./188662-drummania-3rdmix.json) |
 | Drumpf 2: Lost, But Not Forgotten! | 120366 | [120366-drumpf-2-lost-but-not-forgotten.json](./120366-drumpf-2-lost-but-not-forgotten.json) |
