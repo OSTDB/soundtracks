@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dabman: When the Haters Dab Back | 104936 | [104936-dabman-when-the-haters-dab-back.json](./104936-dabman-when-the-haters-dab-back.json) |
 | DaCapo Delivers | 152832 | [152832-dacapo-delivers.json](./152832-dacapo-delivers.json) |
 | Dacholer | 196168 | [196168-dacholer.json](./196168-dacholer.json) |
+| Dachs Hunter | 336757 | [336757-dachs-hunter.json](./336757-dachs-hunter.json) |
 | DACHstudio Jigsaw Puzzle Box: Vanlau's Tinybuns | 289862 | [289862-dachstudio-jigsaw-puzzle-box-vanlaus-tinybuns.json](./289862-dachstudio-jigsaw-puzzle-box-vanlaus-tinybuns.json) |
 | DACHstudio Puzzle Box: Falkis Potpourri | 357981 | [357981-dachstudio-puzzle-box-falkis-potpourri.json](./357981-dachstudio-puzzle-box-falkis-potpourri.json) |
 | DachStudio Puzzle Box: Grimmstories by datGestruepp | 296427 | [296427-dachstudio-puzzle-box-grimmstories-by-datgestruepp.json](./296427-dachstudio-puzzle-box-grimmstories-by-datgestruepp.json) |
@@ -466,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danganronpa V3: Killing Harmony - Anniversary Edition | 152401 | [152401-danganronpa-v3-killing-harmony-anniversary-edition.json](./152401-danganronpa-v3-killing-harmony-anniversary-edition.json) |
 | Danganronpa V3: Killing Harmony - Limited Edition | 167053 | [167053-danganronpa-v3-killing-harmony-limited-edition.json](./167053-danganronpa-v3-killing-harmony-limited-edition.json) |
 | Danganronpa V3: Killing Harmony Demo Ver. | 282660 | [282660-danganronpa-v3-killing-harmony-demo-ver.json](./282660-danganronpa-v3-killing-harmony-demo-ver.json) |
+| Danganronpa V4 Rocky Restarts | 336753 | [336753-danganronpa-v4-rocky-restarts.json](./336753-danganronpa-v4-rocky-restarts.json) |
 | Danganronpa Weeping Rebellion | 304345 | [304345-danganronpa-weeping-rebellion.json](./304345-danganronpa-weeping-rebellion.json) |
 | Danganronpa: Abandoned Lights | 304348 | [304348-danganronpa-abandoned-lights.json](./304348-danganronpa-abandoned-lights.json) |
 | Danganronpa: Antebellum | 333929 | [333929-danganronpa-antebellum.json](./333929-danganronpa-antebellum.json) |
@@ -2316,6 +2318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deck of Ashes: Complete Edition | 196816 | [196816-deck-of-ashes-complete-edition.json](./196816-deck-of-ashes-complete-edition.json) |
 | Deck of Ashes: Tome of Dimensions | 197665 | [197665-deck-of-ashes-tome-of-dimensions.json](./197665-deck-of-ashes-tome-of-dimensions.json) |
 | Deck of Bullets | 258462 | [258462-deck-of-bullets.json](./258462-deck-of-bullets.json) |
+| Deck of Defense | 336663 | [336663-deck-of-defense.json](./336663-deck-of-defense.json) |
 | Deck of Destiny: Battleforge | 346667 | [346667-deck-of-destiny-battleforge.json](./346667-deck-of-destiny-battleforge.json) |
 | Deck of Haunts | 320726 | [320726-deck-of-haunts.json](./320726-deck-of-haunts.json) |
 | Deck of Life | 212831 | [212831-deck-of-life.json](./212831-deck-of-life.json) |
@@ -2632,6 +2635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense of Nations | 268505 | [268505-defense-of-nations.json](./268505-defense-of-nations.json) |
 | Defense of the Ass | 141837 | [141837-defense-of-the-ass.json](./141837-defense-of-the-ass.json) |
 | Defense of the Middle Kingdom | 85568 | [85568-defense-of-the-middle-kingdom.json](./85568-defense-of-the-middle-kingdom.json) |
+| Defense of the Sodomites | 336679 | [336679-defense-of-the-sodomites.json](./336679-defense-of-the-sodomites.json) |
 | Defense Technica | 10178 | [10178-defense-technica.json](./10178-defense-technica.json) |
 | Defense Tower Simulator | 152775 | [152775-defense-tower-simulator.json](./152775-defense-tower-simulator.json) |
 | Defense Zone 2 | 17303 | [17303-defense-zone-2.json](./17303-defense-zone-2.json) |
@@ -3380,6 +3384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desmond's Dungeon | 294474 | [294474-desmonds-dungeon.json](./294474-desmonds-dungeon.json) |
 | Desohunter | 156524 | [156524-desohunter.json](./156524-desohunter.json) |
 | Desolate City: The Bloody Dawn - Enhanced Edition | 113731 | [113731-desolate-city-the-bloody-dawn-enhanced-edition.json](./113731-desolate-city-the-bloody-dawn-enhanced-edition.json) |
+| Desolate Dusk | 336660 | [336660-desolate-dusk.json](./336660-desolate-dusk.json) |
 | Desolate Echoes | 337666 | [337666-desolate-echoes.json](./337666-desolate-echoes.json) |
 | Desolate Hope | 383593 | [383593-desolate-hope.json](./383593-desolate-hope.json) |
 | Desolate Realms | 276847 | [276847-desolate-realms.json](./276847-desolate-realms.json) |
@@ -4205,6 +4210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diggy: Gold Rush | 248098 | [248098-diggy-gold-rush.json](./248098-diggy-gold-rush.json) |
 | Digi Fighters | 392428 | [392428-digi-fighters.json](./392428-digi-fighters.json) |
 | Digi Pool | 70341 | [70341-digi-pool.json](./70341-digi-pool.json) |
+| Digi-Dodgy | 336676 | [336676-digi-dodgy.json](./336676-digi-dodgy.json) |
 | Digiclimb | 402281 | [402281-digiclimb.json](./402281-digiclimb.json) |
 | Digimon 20th Anniversary Digivice | 270626 | [270626-digimon-20th-anniversary-digivice.json](./270626-digimon-20th-anniversary-digivice.json) |
 | Digimon All-Star Rumble | 9286 | [9286-digimon-all-star-rumble.json](./9286-digimon-all-star-rumble.json) |
@@ -5303,6 +5309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do the Cat | 326267 | [326267-do-the-cat.json](./326267-do-the-cat.json) |
 | Do Up | 365832 | [365832-do-up.json](./365832-do-up.json) |
 | Do You Even Brick?! | 401548 | [401548-do-you-even-brick.json](./401548-do-you-even-brick.json) |
+| Do You Have a Moment to Talk About Our Lord and Savior? | 336668 | [336668-do-you-have-a-moment-to-talk-about-our-lord-and-savior.json](./336668-do-you-have-a-moment-to-talk-about-our-lord-and-savior.json) |
 | Do you know de way | 89966 | [89966-do-you-know-de-way.json](./89966-do-you-know-de-way.json) |
 | Do You Like Horny Bunnies? Complete Collection | 201172 | [201172-do-you-like-horny-bunnies-complete-collection.json](./201172-do-you-like-horny-bunnies-complete-collection.json) |
 | Do You Like Italian Food? | 407383 | [407383-do-you-like-italian-food.json](./407383-do-you-like-italian-food.json) |
@@ -5637,6 +5644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doll Recollect | 299737 | [299737-doll-recollect.json](./299737-doll-recollect.json) |
 | Doll's Ingram | 131585 | [131585-dolls-ingram.json](./131585-dolls-ingram.json) |
 | Dollal Simulator 2018 | 89261 | [89261-dollal-simulator-2018.json](./89261-dollal-simulator-2018.json) |
+| Dollar | 336664 | [336664-dollar.json](./336664-dollar.json) |
 | Dollar Dash: More Ways to Win | 171055 | [171055-dollar-dash-more-ways-to-win.json](./171055-dollar-dash-more-ways-to-win.json) |
 | Dollar Dash: Winter Pack | 263216 | [263216-dollar-dash-winter-pack.json](./263216-dollar-dash-winter-pack.json) |
 | Dollar King | 257942 | [257942-dollar-king.json](./257942-dollar-king.json) |
