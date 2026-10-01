@@ -1079,6 +1079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Main Action | 254777 | [254777-main-action.json](./254777-main-action.json) |
 | Mainasutto: I'm Not Alone | 268991 | [268991-mainasutto-im-not-alone.json](./268991-mainasutto-im-not-alone.json) |
 | Mainbody | 223424 | [223424-mainbody.json](./223424-mainbody.json) |
+| Mainframe Men | 384147 | [384147-mainframe-men.json](./384147-mainframe-men.json) |
 | MainFrames | 313809 | [313809-mainframes.json](./313809-mainframes.json) |
 | MainGuns | 56478 | [56478-mainguns.json](./56478-mainguns.json) |
 | Mainichi | 144226 | [144226-mainichi.json](./144226-mainichi.json) |
@@ -2171,6 +2172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marty and the Eldritch Horror | 176964 | [176964-marty-and-the-eldritch-horror.json](./176964-marty-and-the-eldritch-horror.json) |
 | Marty McFart | 183589 | [183589-marty-mcfart.json](./183589-marty-mcfart.json) |
 | Marty's Funducational Tour! | 348845 | [348845-martys-funducational-tour.json](./348845-martys-funducational-tour.json) |
+| Martyr | 384148 | [384148-martyr.json](./384148-martyr.json) |
 | Martyrdom | 290520 | [290520-martyrdom.json](./290520-martyrdom.json) |
 | Maru and her make-believe world | 166747 | [166747-maru-and-her-make-believe-world.json](./166747-maru-and-her-make-believe-world.json) |
 | Maru Expedition: We Can Fly | 357427 | [357427-maru-expedition-we-can-fly.json](./357427-maru-expedition-we-can-fly.json) |
@@ -7605,6 +7607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Chronicles | 8606 | [8606-moon-chronicles.json](./8606-moon-chronicles.json) |
 | Moon Colonization Project | 32237 | [32237-moon-colonization-project.json](./32237-moon-colonization-project.json) |
 | Moon Colonization Project: Deluxe Edition | 53375 | [53375-moon-colonization-project-deluxe-edition.json](./53375-moon-colonization-project-deluxe-edition.json) |
+| Moon Crashers | 384158 | [384158-moon-crashers.json](./384158-moon-crashers.json) |
 | Moon Cresta | 18762 | [18762-moon-cresta.json](./18762-moon-cresta.json) |
 | Moon Crystal | 48620 | [48620-moon-crystal.json](./48620-moon-crystal.json) |
 | Moon Crystals | 172710 | [172710-moon-crystals.json](./172710-moon-crystals.json) |
