@@ -1337,6 +1337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Belong Dead | 406217 | [406217-we-belong-dead.json](./406217-we-belong-dead.json) |
 | We Build Below | 361760 | [361760-we-build-below.json](./361760-we-build-below.json) |
 | We Can Make It | 216485 | [216485-we-can-make-it.json](./216485-we-can-make-it.json) |
+| We Can Smell It (maybe) | 376632 | [376632-we-can-smell-it-maybe.json](./376632-we-can-smell-it-maybe.json) |
 | We Carry the Fire | 257321 | [257321-we-carry-the-fire.json](./257321-we-carry-the-fire.json) |
 | We Cheer | 5263 | [5263-we-cheer.json](./5263-we-cheer.json) |
 | We Could Just Be Annoying | 382442 | [382442-we-could-just-be-annoying.json](./382442-we-could-just-be-annoying.json) |
