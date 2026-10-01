@@ -1417,6 +1417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weakest Demon King: Escape! You Cannot Defeat the Female Heroines! | 82874 | [82874-weakest-demon-king-escape-you-cannot-defeat-the-female-heroines.json](./82874-weakest-demon-king-escape-you-cannot-defeat-the-female-heroines.json) |
 | Weakest Link | 19745 | [19745-weakest-link.json](./19745-weakest-link.json) |
 | Weakfish Puzzle Bundle | 331510 | [331510-weakfish-puzzle-bundle.json](./331510-weakfish-puzzle-bundle.json) |
+| Weaphones Firearms Sim Mini | 343967 | [343967-weaphones-firearms-sim-mini.json](./343967-weaphones-firearms-sim-mini.json) |
 | Weapon Ball Fight | 383930 | [383930-weapon-ball-fight.json](./383930-weapon-ball-fight.json) |
 | Weapon Hacker | 133377 | [133377-weapon-hacker.json](./133377-weapon-hacker.json) |
 | Weapon Party | 277977 | [277977-weapon-party.json](./277977-weapon-party.json) |
@@ -2717,6 +2718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windjammers | 11222 | [11222-windjammers.json](./11222-windjammers.json) |
 | Windlands | 15932 | [15932-windlands.json](./15932-windlands.json) |
 | Window Aquarista | 373679 | [373679-window-aquarista.json](./373679-window-aquarista.json) |
+| Window of Perspectives | 343966 | [343966-window-of-perspectives.json](./343966-window-of-perspectives.json) |
 | Window Seat | 409643 | [409643-window-seat.json](./409643-window-seat.json) |
 | Windowframe | 365849 | [365849-windowframe.json](./365849-windowframe.json) |
 | Windowframe | 70387 | [70387-windowframe.json](./70387-windowframe.json) |
