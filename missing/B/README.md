@@ -1834,6 +1834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Dungeon: Risen | 175438 | [175438-battle-dungeon-risen.json](./175438-battle-dungeon-risen.json) |
 | Battle Engine Aquila | 344462 | [344462-battle-engine-aquila.json](./344462-battle-engine-aquila.json) |
 | Battle Fighter | 55861 | [55861-battle-fighter.json](./55861-battle-fighter.json) |
+| Battle Fish | 335411 | [335411-battle-fish.json](./335411-battle-fish.json) |
 | Battle Fishing Masters | 190198 | [190198-battle-fishing-masters.json](./190198-battle-fishing-masters.json) |
 | Battle Fleet | 48586 | [48586-battle-fleet.json](./48586-battle-fleet.json) |
 | Battle Fleet | 91333 | [91333-battle-fleet.json](./91333-battle-fleet.json) |
@@ -2091,6 +2092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlecruiser Millennium | 61898 | [61898-battlecruiser-millennium.json](./61898-battlecruiser-millennium.json) |
 | BattleCry | 7210 | [7210-battlecry.json](./7210-battlecry.json) |
 | Battlecry Berserkers | 277288 | [277288-battlecry-berserkers.json](./277288-battlecry-berserkers.json) |
+| BattleCry: Age of Myths | 335410 | [335410-battlecry-age-of-myths.json](./335410-battlecry-age-of-myths.json) |
 | BattleCrypt Bombers | 226238 | [226238-battlecrypt-bombers.json](./226238-battlecrypt-bombers.json) |
 | BattleCubes: Arena | 116333 | [116333-battlecubes-arena.json](./116333-battlecubes-arena.json) |
 | Battlecursed | 33422 | [33422-battlecursed.json](./33422-battlecursed.json) |
@@ -3534,6 +3536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Buck Hunter: Ultimate Trophy - Mythic Hunting Pack | 333752 | [333752-big-buck-hunter-ultimate-trophy-mythic-hunting-pack.json](./333752-big-buck-hunter-ultimate-trophy-mythic-hunting-pack.json) |
 | Big Buck Safari | 220076 | [220076-big-buck-safari.json](./220076-big-buck-safari.json) |
 | Big Buck World | 144195 | [144195-big-buck-world.json](./144195-big-buck-world.json) |
+| Big Bucks | 335412 | [335412-big-bucks.json](./335412-big-bucks.json) |
 | Big Bucks: Trivia Quest | 312355 | [312355-big-bucks-trivia-quest.json](./312355-big-bucks-trivia-quest.json) |
 | Big Bug Bang: Le Retour de Commander Blood | 98921 | [98921-big-bug-bang-le-retour-de-commander-blood.json](./98921-big-bug-bang-le-retour-de-commander-blood.json) |
 | Big Bumpin' | 2731 | [2731-big-bumpin.json](./2731-big-bumpin.json) |
@@ -6340,6 +6343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Booth Butcher | 406922 | [406922-booth-butcher.json](./406922-booth-butcher.json) |
 | Bootleg Alchemist | 390255 | [390255-bootleg-alchemist.json](./390255-bootleg-alchemist.json) |
 | Bootlegger's Racing Story | 258717 | [258717-bootleggers-racing-story.json](./258717-bootleggers-racing-story.json) |
+| Bootsies | 335397 | [335397-bootsies.json](./335397-bootsies.json) |
 | Bootstrap Island | 196895 | [196895-bootstrap-island.json](./196895-bootstrap-island.json) |
 | Booty Barrage | 292530 | [292530-booty-barrage.json](./292530-booty-barrage.json) |
 | Booty Calls | 104803 | [104803-booty-calls.json](./104803-booty-calls.json) |
@@ -8374,6 +8378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Pop 2: Beat the Wolf | 103890 | [103890-bunny-pop-2-beat-the-wolf.json](./103890-bunny-pop-2-beat-the-wolf.json) |
 | Bunny Prison Break | 250010 | [250010-bunny-prison-break.json](./250010-bunny-prison-break.json) |
 | Bunny Reversi | 119535 | [119535-bunny-reversi.json](./119535-bunny-reversi.json) |
+| Bunny Roulette | 335518 | [335518-bunny-roulette.json](./335518-bunny-roulette.json) |
 | Bunny Sword Master | 109043 | [109043-bunny-sword-master.json](./109043-bunny-sword-master.json) |
 | Bunny Swordmaster Story | 133954 | [133954-bunny-swordmaster-story.json](./133954-bunny-swordmaster-story.json) |
 | Bunny's Flowers | 142422 | [142422-bunnys-flowers.json](./142422-bunnys-flowers.json) |
