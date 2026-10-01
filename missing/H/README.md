@@ -642,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hangoverse: Season 1 | 370755 | [370755-hangoverse-season-1.json](./370755-hangoverse-season-1.json) |
 | Hangry Bunnies From Mars | 54698 | [54698-hangry-bunnies-from-mars.json](./54698-hangry-bunnies-from-mars.json) |
 | Hangul Attack | 141664 | [141664-hangul-attack.json](./141664-hangul-attack.json) |
+| Hangul Typing Tale | 362989 | [362989-hangul-typing-tale.json](./362989-hangul-typing-tale.json) |
 | Hangzo | 141238 | [141238-hangzo.json](./141238-hangzo.json) |
 | Hanjuku Hero | 78948 | [78948-hanjuku-hero.json](./78948-hanjuku-hero.json) |
 | Hanjuku Hero 4: 7-nin no Hanjuku Hero | 67365 | [67365-hanjuku-hero-4-7-nin-no-hanjuku-hero.json](./67365-hanjuku-hero-4-7-nin-no-hanjuku-hero.json) |
@@ -4393,6 +4394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homeless Guy | 258733 | [258733-homeless-guy.json](./258733-homeless-guy.json) |
 | Homeless Pigeon | 177321 | [177321-homeless-pigeon.json](./177321-homeless-pigeon.json) |
 | Homeless Simulator 2 | 118416 | [118416-homeless-simulator-2.json](./118416-homeless-simulator-2.json) |
+| Homelessvania | 362999 | [362999-homelessvania.json](./362999-homelessvania.json) |
 | Homemade TCG | 199504 | [199504-homemade-tcg.json](./199504-homemade-tcg.json) |
 | Homeostasis | 389444 | [389444-homeostasis.json](./389444-homeostasis.json) |
 | Homepage | 347702 | [347702-homepage.json](./347702-homepage.json) |
@@ -4769,6 +4771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horny Wives' Yoga Class | 393797 | [393797-horny-wives-yoga-class.json](./393797-horny-wives-yoga-class.json) |
 | Horobi Kuchiru Sekai ni Tsuioku no Hanataba wo | 198365 | [198365-horobi-kuchiru-sekai-ni-tsuioku-no-hanataba-wo.json](./198365-horobi-kuchiru-sekai-ni-tsuioku-no-hanataba-wo.json) |
 | HoRoyal: Hololive Battle Royal | 403080 | [403080-horoyal-hololive-battle-royal.json](./403080-horoyal-hololive-battle-royal.json) |
+| Horrher | 362993 | [362993-horrher.json](./362993-horrher.json) |
 | Horrible Histories: Ruthless Romans | 21286 | [21286-horrible-histories-ruthless-romans.json](./21286-horrible-histories-ruthless-romans.json) |
 | Horribunnies | 130178 | [130178-horribunnies.json](./130178-horribunnies.json) |
 | Horrid Henry's Horrid Adventure | 269630 | [269630-horrid-henrys-horrid-adventure.json](./269630-horrid-henrys-horrid-adventure.json) |
