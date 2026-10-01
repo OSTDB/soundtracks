@@ -569,6 +569,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warbound | 372627 | [372627-warbound.json](./372627-warbound.json) |
 | Warbox | 168647 | [168647-warbox.json](./168647-warbox.json) |
 | Warbox | 232010 | [232010-warbox.json](./232010-warbox.json) |
+| Warcana: Cat DLC | 357371 | [357371-warcana-cat-dlc.json](./357371-warcana-cat-dlc.json) |
+| Warcana: Dog DLC | 357370 | [357370-warcana-dog-dlc.json](./357370-warcana-dog-dlc.json) |
 | Warcos | 185676 | [185676-warcos.json](./185676-warcos.json) |
 | Warcraft I: Remastered | 322108 | [322108-warcraft-i-remastered.json](./322108-warcraft-i-remastered.json) |
 | Warcraft II: Beyond the Dark Portal | 131 | [131-warcraft-ii-beyond-the-dark-portal.json](./131-warcraft-ii-beyond-the-dark-portal.json) |
@@ -1863,6 +1865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheat and Wrath | 400319 | [400319-wheat-and-wrath.json](./400319-wheat-and-wrath.json) |
 | Wheat Fairy of Daya | 249752 | [249752-wheat-fairy-of-daya.json](./249752-wheat-fairy-of-daya.json) |
 | Wheat Harvest Paradox | 257409 | [257409-wheat-harvest-paradox.json](./257409-wheat-harvest-paradox.json) |
+| Wheeeee! | 357359 | [357359-wheeeee.json](./357359-wheeeee.json) |
 | Wheel Dismount | 101951 | [101951-wheel-dismount.json](./101951-wheel-dismount.json) |
 | Wheel Of Fates | 338376 | [338376-wheel-of-fates.json](./338376-wheel-of-fates.json) |
 | Wheel of Fortune | 119255 | [119255-wheel-of-fortune.json](./119255-wheel-of-fortune.json) |
@@ -2583,6 +2586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildshade Fantasy Horse Races | 233069 | [233069-wildshade-fantasy-horse-races.json](./233069-wildshade-fantasy-horse-races.json) |
 | Wildsilver | 152784 | [152784-wildsilver.json](./152784-wildsilver.json) |
 | Wildsong | 287694 | [287694-wildsong.json](./287694-wildsong.json) |
+| WildStandZ | 357405 | [357405-wildstandz.json](./357405-wildstandz.json) |
 | Wildwood | 279754 | [279754-wildwood.json](./279754-wildwood.json) |
 | Wildwood: Graveyard Defense | 217539 | [217539-wildwood-graveyard-defense.json](./217539-wildwood-graveyard-defense.json) |
 | Wildwood: Hearth & Horizon | 287693 | [287693-wildwood-hearth-and-horizon.json](./287693-wildwood-hearth-and-horizon.json) |
@@ -3981,6 +3985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warcraft: Shadowlands - Collector's Edition | 136998 | [136998-world-of-warcraft-shadowlands-collectors-edition.json](./136998-world-of-warcraft-shadowlands-collectors-edition.json) |
 | World of Warcraft: Shadows of Argus | 55075 | [55075-world-of-warcraft-shadows-of-argus.json](./55075-world-of-warcraft-shadows-of-argus.json) |
 | World of Warcraft: The Burning Crusade - Collector's Edition | 136995 | [136995-world-of-warcraft-the-burning-crusade-collectors-edition.json](./136995-world-of-warcraft-the-burning-crusade-collectors-edition.json) |
+| World of Warcraft: The War Within - Ghosts of K’aresh | 357378 | [357378-world-of-warcraft-the-war-within-ghosts-of-k-aresh.json](./357378-world-of-warcraft-the-war-within-ghosts-of-k-aresh.json) |
 | World of Warcraft: The War Within - Undermine(d) | 322152 | [322152-world-of-warcraft-the-war-within-undermine-d.json](./322152-world-of-warcraft-the-war-within-undermine-d.json) |
 | World of Warcraft: Warlords of Draenor - Collector's Edition | 13622 | [13622-world-of-warcraft-warlords-of-draenor-collectors-edition.json](./13622-world-of-warcraft-warlords-of-draenor-collectors-edition.json) |
 | World of Warplanes | 3432 | [3432-world-of-warplanes.json](./3432-world-of-warplanes.json) |
