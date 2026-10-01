@@ -352,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint Rider | 179187 | [179187-paint-rider.json](./179187-paint-rider.json) |
 | Paint Rings | 290462 | [290462-paint-rings.json](./290462-paint-rings.json) |
 | Paint Royale | 220619 | [220619-paint-royale.json](./220619-paint-royale.json) |
+| Paint Rumble | 360635 | [360635-paint-rumble.json](./360635-paint-rumble.json) |
 | Paint School | 139374 | [139374-paint-school.json](./139374-paint-school.json) |
 | Paint School II | 46571 | [46571-paint-school-ii.json](./46571-paint-school-ii.json) |
 | Paint Shape Girl | 87131 | [87131-paint-shape-girl.json](./87131-paint-shape-girl.json) |
@@ -4620,6 +4621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playing House | 335262 | [335262-playing-house.json](./335262-playing-house.json) |
 | Playing With Fire 2 | 202372 | [202372-playing-with-fire-2.json](./202372-playing-with-fire-2.json) |
 | Playing with Our Lives | 291003 | [291003-playing-with-our-lives.json](./291003-playing-with-our-lives.json) |
+| Playing With the Big Boys | 360697 | [360697-playing-with-the-big-boys.json](./360697-playing-with-the-big-boys.json) |
 | PlayMaker Football | 366964 | [366964-playmaker-football.json](./366964-playmaker-football.json) |
 | Playmobil: Novelmore | 207844 | [207844-playmobil-novelmore.json](./207844-playmobil-novelmore.json) |
 | Playmobil: The Explorers | 103901 | [103901-playmobil-the-explorers.json](./103901-playmobil-the-explorers.json) |
@@ -8171,6 +8173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Nastalgia | 277034 | [277034-pure-nastalgia.json](./277034-pure-nastalgia.json) |
 | Pure Pinball 2.0 Redux | 51881 | [51881-pure-pinball-2-0-redux.json](./51881-pure-pinball-2-0-redux.json) |
 | Pure Pool Snooker Bundle | 193761 | [193761-pure-pool-snooker-bundle.json](./193761-pure-pool-snooker-bundle.json) |
+| Pure Shooter | 360687 | [360687-pure-shooter.json](./360687-pure-shooter.json) |
 | Pure Song Garden! | 194575 | [194575-pure-song-garden.json](./194575-pure-song-garden.json) |
 | Pure Stat College Basketball | 47212 | [47212-pure-stat-college-basketball.json](./47212-pure-stat-college-basketball.json) |
 | Pure White Chord | 230386 | [230386-pure-white-chord.json](./230386-pure-white-chord.json) |
