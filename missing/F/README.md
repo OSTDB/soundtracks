@@ -644,6 +644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Down | 256364 | [256364-falling-down.json](./256364-falling-down.json) |
 | Falling Down XR | 269013 | [269013-falling-down-xr.json](./269013-falling-down-xr.json) |
 | Falling Duke Nukem | 369758 | [369758-falling-duke-nukem.json](./369758-falling-duke-nukem.json) |
+| Falling Flower | 340055 | [340055-falling-flower.json](./340055-falling-flower.json) |
 | Falling for Yaoguais | 333569 | [333569-falling-for-yaoguais.json](./333569-falling-for-yaoguais.json) |
 | Falling From the Rabbit Hole | 228348 | [228348-falling-from-the-rabbit-hole.json](./228348-falling-from-the-rabbit-hole.json) |
 | Falling Frontier | 132621 | [132621-falling-frontier.json](./132621-falling-frontier.json) |
@@ -757,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Famidash | 308404 | [308404-famidash.json](./308404-famidash.json) |
 | Familia | 125470 | [125470-familia.json](./125470-familia.json) |
 | Familiar | 196570 | [196570-familiar.json](./196570-familiar.json) |
+| Familiar Friends: What's Your Familiar? | 340056 | [340056-familiar-friends-whats-your-familiar.json](./340056-familiar-friends-whats-your-familiar.json) |
 | Familiar Stranger | 319932 | [319932-familiar-stranger.json](./319932-familiar-stranger.json) |
 | Familiar: Battle of the Labyrinth | 367630 | [367630-familiar-battle-of-the-labyrinth.json](./367630-familiar-battle-of-the-labyrinth.json) |
 | Family | 138192 | [138192-family.json](./138192-family.json) |
