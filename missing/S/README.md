@@ -9034,6 +9034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SOVL: Ratkin Clans | 305773 | [305773-sovl-ratkin-clans.json](./305773-sovl-ratkin-clans.json) |
 | SOVL: Reptilian Kingdoms | 296657 | [296657-sovl-reptilian-kingdoms.json](./296657-sovl-reptilian-kingdoms.json) |
 | Sowon : The Toy Wonderland | 298579 | [298579-sowon-the-toy-wonderland.json](./298579-sowon-the-toy-wonderland.json) |
+| Soy Supremacy | 372036 | [372036-soy-supremacy.json](./372036-soy-supremacy.json) |
 | SP-Light | 291452 | [291452-sp-light.json](./291452-sp-light.json) |
 | Sp:In | 242788 | [242788-sp-in.json](./242788-sp-in.json) |
 | Sp!te | 108070 | [108070-sp-te.json](./108070-sp-te.json) |
@@ -10353,6 +10354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spinnortality | 51471 | [51471-spinnortality.json](./51471-spinnortality.json) |
 | Spinny Dungeon | 312126 | [312126-spinny-dungeon.json](./312126-spinny-dungeon.json) |
 | Spinny Path | 233245 | [233245-spinny-path.json](./233245-spinny-path.json) |
+| Spinochet | 372030 | [372030-spinochet.json](./372030-spinochet.json) |
 | SpinOff | 199054 | [199054-spinoff.json](./199054-spinoff.json) |
 | Spinout Drifter | 219649 | [219649-spinout-drifter.json](./219649-spinout-drifter.json) |
 | Spinrise | 118190 | [118190-spinrise.json](./118190-spinrise.json) |
@@ -11798,6 +11800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stardrytch | 172136 | [172136-stardrytch.json](./172136-stardrytch.json) |
 | Starduino | 228389 | [228389-starduino.json](./228389-starduino.json) |
 | Stardust | 318797 | [318797-stardust.json](./318797-stardust.json) |
+| Stardust | 372069 | [372069-stardust.json](./372069-stardust.json) |
 | Stardust Escape | 373158 | [373158-stardust-escape.json](./373158-stardust-escape.json) |
 | Stardust League | 222391 | [222391-stardust-league.json](./222391-stardust-league.json) |
 | Stardust Odyssey | 122994 | [122994-stardust-odyssey.json](./122994-stardust-odyssey.json) |
@@ -14326,6 +14329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Devils | 295549 | [295549-sunset-devils.json](./295549-sunset-devils.json) |
 | Sunset Drive 1986 | 141133 | [141133-sunset-drive-1986.json](./141133-sunset-drive-1986.json) |
 | Sunset Fighter | 367020 | [367020-sunset-fighter.json](./367020-sunset-fighter.json) |
+| Sunset Game Shop Shayou | 372060 | [372060-sunset-game-shop-shayou.json](./372060-sunset-game-shop-shayou.json) |
 | Sunset Giant | 114391 | [114391-sunset-giant.json](./114391-sunset-giant.json) |
 | Sunset High | 338267 | [338267-sunset-high.json](./338267-sunset-high.json) |
 | Sunset Hills | 202133 | [202133-sunset-hills.json](./202133-sunset-hills.json) |
