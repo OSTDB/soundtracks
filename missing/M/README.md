@@ -1766,6 +1766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Bros.-e | 170013 | [170013-mario-bros-e.json](./170013-mario-bros-e.json) |
 | Mario Builder | 323745 | [323745-mario-builder.json](./323745-mario-builder.json) |
 | Mario Cars 2: 64 | 202150 | [202150-mario-cars-2-64.json](./202150-mario-cars-2-64.json) |
+| Mario Cave Escape | 381766 | [381766-mario-cave-escape.json](./381766-mario-cave-escape.json) |
 | Mario Doom | 314469 | [314469-mario-doom.json](./314469-mario-doom.json) |
 | Mario Drinks A Glass of Milk | 250051 | [250051-mario-drinks-a-glass-of-milk.json](./250051-mario-drinks-a-glass-of-milk.json) |
 | Mario Eisouoku: Illusionary Blossom of Cranium Prayer | 216179 | [216179-mario-eisouoku-illusionary-blossom-of-cranium-prayer.json](./216179-mario-eisouoku-illusionary-blossom-of-cranium-prayer.json) |
@@ -3163,6 +3164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanical Chess: Real-time | 357309 | [357309-mechanical-chess-real-time.json](./357309-mechanical-chess-real-time.json) |
 | Mechanical Gods | 245881 | [245881-mechanical-gods.json](./245881-mechanical-gods.json) |
 | Mechanical Growth | 260189 | [260189-mechanical-growth.json](./260189-mechanical-growth.json) |
+| Mechanical Relations | 381794 | [381794-mechanical-relations.json](./381794-mechanical-relations.json) |
 | Mechanical Siege | 283845 | [283845-mechanical-siege.json](./283845-mechanical-siege.json) |
 | Mechanical Tralp | 278665 | [278665-mechanical-tralp.json](./278665-mechanical-tralp.json) |
 | Mechanical Violator Hakaider: Last Judgement | 66147 | [66147-mechanical-violator-hakaider-last-judgement.json](./66147-mechanical-violator-hakaider-last-judgement.json) |
@@ -4032,6 +4034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories of Bust | 303796 | [303796-memories-of-bust.json](./303796-memories-of-bust.json) |
 | Memories of Castlemouse | 346793 | [346793-memories-of-castlemouse.json](./346793-memories-of-castlemouse.json) |
 | Memories of Home | 51568 | [51568-memories-of-home.json](./51568-memories-of-home.json) |
+| Memories of Hyrule | 381769 | [381769-memories-of-hyrule.json](./381769-memories-of-hyrule.json) |
 | Memories of Loneliness | 173219 | [173219-memories-of-loneliness.json](./173219-memories-of-loneliness.json) |
 | Memories of War: Undead Decimation | 169456 | [169456-memories-of-war-undead-decimation.json](./169456-memories-of-war-undead-decimation.json) |
 | Memories Off | 288774 | [288774-memories-off.json](./288774-memories-off.json) |
@@ -9524,6 +9527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Friend Chibi | 391738 | [391738-my-little-friend-chibi.json](./391738-my-little-friend-chibi.json) |
 | My Little Fruit Juice Booth | 153820 | [153820-my-little-fruit-juice-booth.json](./153820-my-little-fruit-juice-booth.json) |
 | My Little Garden | 261528 | [261528-my-little-garden.json](./261528-my-little-garden.json) |
+| My Little Haven | 381800 | [381800-my-little-haven.json](./381800-my-little-haven.json) |
 | My Little Helper: Spring Cleaning | 146117 | [146117-my-little-helper-spring-cleaning.json](./146117-my-little-helper-spring-cleaning.json) |
 | My Little Kitties | 20759 | [20759-my-little-kitties.json](./20759-my-little-kitties.json) |
 | My Little Kitty Cat | 99001 | [99001-my-little-kitty-cat.json](./99001-my-little-kitty-cat.json) |
