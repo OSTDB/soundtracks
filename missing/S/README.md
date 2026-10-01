@@ -1208,6 +1208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Us, Doctor Faust! | 416827 | [416827-save-us-doctor-faust.json](./416827-save-us-doctor-faust.json) |
 | Save Your Soul | 370187 | [370187-save-your-soul.json](./370187-save-your-soul.json) |
 | Save: Teaser - Before the Dawn | 313463 | [313463-save-teaser-before-the-dawn.json](./313463-save-teaser-before-the-dawn.json) |
+| SaveKunkun | 336656 | [336656-savekunkun.json](./336656-savekunkun.json) |
 | Saveseeker | 356279 | [356279-saveseeker.json](./356279-saveseeker.json) |
 | Saviner | 383524 | [383524-saviner.json](./383524-saviner.json) |
 | Saving Animals | 148983 | [148983-saving-animals.json](./148983-saving-animals.json) |
@@ -1730,6 +1731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrap Squadrons | 393459 | [393459-scrap-squadrons.json](./393459-scrap-squadrons.json) |
 | Scrap Wars: Td | 348797 | [348797-scrap-wars-td.json](./348797-scrap-wars-td.json) |
 | Scrapbox | 371878 | [371878-scrapbox.json](./371878-scrapbox.json) |
+| ScrapDown | 336659 | [336659-scrapdown.json](./336659-scrapdown.json) |
 | Scraper: First Strike | 111091 | [111091-scraper-first-strike.json](./111091-scraper-first-strike.json) |
 | Scrapmetalship | 183007 | [183007-scrapmetalship.json](./183007-scrapmetalship.json) |
 | Scrappage | 236248 | [236248-scrappage.json](./236248-scrappage.json) |
@@ -6833,6 +6835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SmartBoy | 86556 | [86556-smartboy.json](./86556-smartboy.json) |
 | SmartGo Player | 88188 | [88188-smartgo-player.json](./88188-smartgo-player.json) |
 | Smartphone | 418818 | [418818-smartphone.json](./418818-smartphone.json) |
+| Smartplant | 336752 | [336752-smartplant.json](./336752-smartplant.json) |
 | Smarty | 130360 | [130360-smarty.json](./130360-smarty.json) |
 | Smarty Labs | 410999 | [410999-smarty-labs.json](./410999-smarty-labs.json) |
 | Smash 'n Dab | 177438 | [177438-smash-n-dab.json](./177438-smash-n-dab.json) |
@@ -9620,6 +9623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space ships | 104696 | [104696-space-ships.json](./104696-space-ships.json) |
 | Space Shoot | 346126 | [346126-space-shoot.json](./346126-space-shoot.json) |
 | Space Shooter | 186184 | [186184-space-shooter.json](./186184-space-shooter.json) |
+| Space Shooter | 336670 | [336670-space-shooter.json](./336670-space-shooter.json) |
 | Space Shooter 3D | 96756 | [96756-space-shooter-3d.json](./96756-space-shooter-3d.json) |
 | Space Shooter: Alpha Impact | 71482 | [71482-space-shooter-alpha-impact.json](./71482-space-shooter-alpha-impact.json) |
 | Space Shooter: Fun Arcade Game | 87535 | [87535-space-shooter-fun-arcade-game.json](./87535-space-shooter-fun-arcade-game.json) |
@@ -9806,6 +9810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacemen | 15696 | [15696-spacemen.json](./15696-spacemen.json) |
 | SpacePod | 142319 | [142319-spacepod.json](./142319-spacepod.json) |
 | SpacePom | 192367 | [192367-spacepom.json](./192367-spacepom.json) |
+| Spaceport Assault | 336667 | [336667-spaceport-assault.json](./336667-spaceport-assault.json) |
 | Spaceport Crew | 216884 | [216884-spaceport-crew.json](./216884-spaceport-crew.json) |
 | Spaceport Trading Company | 270152 | [270152-spaceport-trading-company.json](./270152-spaceport-trading-company.json) |
 | Spacepunk Survival | 244188 | [244188-spacepunk-survival.json](./244188-spacepunk-survival.json) |
@@ -9940,6 +9945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spawn: The Eternal | 45208 | [45208-spawn-the-eternal.json](./45208-spawn-the-eternal.json) |
 | Speak & Spell | 245402 | [245402-speak-and-spell.json](./245402-speak-and-spell.json) |
 | Speak Lies | 127360 | [127360-speak-lies.json](./127360-speak-lies.json) |
+| Speak of my sin | 336648 | [336648-speak-of-my-sin.json](./336648-speak-of-my-sin.json) |
 | Speak of the Cloud | 326714 | [326714-speak-of-the-cloud.json](./326714-speak-of-the-cloud.json) |
 | Speak of the Devil I: A Deathly Proposition | 277941 | [277941-speak-of-the-devil-i-a-deathly-proposition.json](./277941-speak-of-the-devil-i-a-deathly-proposition.json) |
 | Speakeasy | 253334 | [253334-speakeasy.json](./253334-speakeasy.json) |
@@ -13647,6 +13653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strider | 198929 | [198929-strider.json](./198929-strider.json) |
 | Strider | 5333 | [5333-strider.json](./5333-strider.json) |
 | Strider Mountain | 222415 | [222415-strider-mountain.json](./222415-strider-mountain.json) |
+| Strider-X | 336658 | [336658-strider-x.json](./336658-strider-x.json) |
 | Strife: Veteran Edition | 147967 | [147967-strife-veteran-edition.json](./147967-strife-veteran-edition.json) |
 | Strike at Night | 349835 | [349835-strike-at-night.json](./349835-strike-at-night.json) |
 | Strike Back | 279097 | [279097-strike-back.json](./279097-strike-back.json) |
@@ -13688,6 +13695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Striker Pro | 237509 | [237509-striker-pro.json](./237509-striker-pro.json) |
 | Striker Pro 2000 | 22676 | [22676-striker-pro-2000.json](./22676-striker-pro-2000.json) |
 | Striker Soccer Euro 2012 | 51168 | [51168-striker-soccer-euro-2012.json](./51168-striker-soccer-euro-2012.json) |
+| Striker! | 336650 | [336650-striker.json](./336650-striker.json) |
 | Strikers | 219577 | [219577-strikers.json](./219577-strikers.json) |
 | Strikers 1945 | 39300 | [39300-strikers-1945.json](./39300-strikers-1945.json) |
 | Strikers 1945 III for Nintendo Switch | 212270 | [212270-strikers-1945-iii-for-nintendo-switch.json](./212270-strikers-1945-iii-for-nintendo-switch.json) |
@@ -16718,6 +16726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swap | 219556 | [219556-swap.json](./219556-swap.json) |
 | Swap | 93171 | [93171-swap.json](./93171-swap.json) |
 | Swap Blocks | 44217 | [44217-swap-blocks.json](./44217-swap-blocks.json) |
+| Swap Fire | 336655 | [336655-swap-fire.json](./336655-swap-fire.json) |
 | Swap Heroes | 197242 | [197242-swap-heroes.json](./197242-swap-heroes.json) |
 | Swap Swap | 110536 | [110536-swap-swap.json](./110536-swap-swap.json) |
 | Swap the Matrix | 54417 | [54417-swap-the-matrix.json](./54417-swap-the-matrix.json) |
