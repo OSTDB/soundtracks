@@ -2456,6 +2456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Terra 2: New Lands | 126619 | [126619-wild-terra-2-new-lands.json](./126619-wild-terra-2-new-lands.json) |
 | Wild Terra 2: New Lands - Cultist Pack | 378307 | [378307-wild-terra-2-new-lands-cultist-pack.json](./378307-wild-terra-2-new-lands-cultist-pack.json) |
 | Wild Terrain | 386423 | [386423-wild-terrain.json](./386423-wild-terrain.json) |
+| Wild Thing | 382411 | [382411-wild-thing.json](./382411-wild-thing.json) |
 | Wild Things: Animal Adventures | 109496 | [109496-wild-things-animal-adventures.json](./109496-wild-things-animal-adventures.json) |
 | Wild Tower | 373740 | [373740-wild-tower.json](./373740-wild-tower.json) |
 | Wild Turkey Hunt | 95453 | [95453-wild-turkey-hunt.json](./95453-wild-turkey-hunt.json) |
