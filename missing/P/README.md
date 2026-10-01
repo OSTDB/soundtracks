@@ -5507,6 +5507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PolterCue | 231647 | [231647-poltercue.json](./231647-poltercue.json) |
 | Poltergeist Watcher | 298661 | [298661-poltergeist-watcher.json](./298661-poltergeist-watcher.json) |
 | Poltergeist: A Pixelated Horror | 17855 | [17855-poltergeist-a-pixelated-horror.json](./17855-poltergeist-a-pixelated-horror.json) |
+| Polterparty | 374768 | [374768-polterparty.json](./374768-polterparty.json) |
 | Polterquest | 345027 | [345027-polterquest.json](./345027-polterquest.json) |
 | Poly Art: Coloring Puzzle Game | 100322 | [100322-poly-art-coloring-puzzle-game.json](./100322-poly-art-coloring-puzzle-game.json) |
 | Poly Backrooms | 262906 | [262906-poly-backrooms.json](./262906-poly-backrooms.json) |
