@@ -297,6 +297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damascus Gear: Operation Osaka | 123034 | [123034-damascus-gear-operation-osaka.json](./123034-damascus-gear-operation-osaka.json) |
 | Damascus Gear: Operation Osaka - HD Edition | 90093 | [90093-damascus-gear-operation-osaka-hd-edition.json](./90093-damascus-gear-operation-osaka-hd-edition.json) |
 | DamCell: Princess Run | 175299 | [175299-damcell-princess-run.json](./175299-damcell-princess-run.json) |
+| Dame Tu Cosita | 334917 | [334917-dame-tu-cosita.json](./334917-dame-tu-cosita.json) |
 | Damn Daniel: Basket Game | 252818 | [252818-damn-daniel-basket-game.json](./252818-damn-daniel-basket-game.json) |
 | Damn Daniel: White Vans Adventure | 201236 | [201236-damn-daniel-white-vans-adventure.json](./201236-damn-daniel-white-vans-adventure.json) |
 | Damn it! | 284995 | [284995-damn-it.json](./284995-damn-it.json) |
@@ -5587,6 +5588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Exit Music: Redux | 201845 | [201845-doki-doki-exit-music-redux.json](./201845-doki-doki-exit-music-redux.json) |
 | Doki Doki Fiendish | 332852 | [332852-doki-doki-fiendish.json](./332852-doki-doki-fiendish.json) |
 | Doki Doki First Love Club! | 153950 | [153950-doki-doki-first-love-club.json](./153950-doki-doki-first-love-club.json) |
+| Doki Doki Happy Thoughts | 334821 | [334821-doki-doki-happy-thoughts.json](./334821-doki-doki-happy-thoughts.json) |
 | Doki Doki Indian Man Time | 333919 | [333919-doki-doki-indian-man-time.json](./333919-doki-doki-indian-man-time.json) |
 | Doki Doki Literature Club | 309582 | [309582-doki-doki-literature-club.json](./309582-doki-doki-literature-club.json) |
 | Doki Doki Literature Club Plus! | 152122 | [152122-doki-doki-literature-club-plus.json](./152122-doki-doki-literature-club-plus.json) |
@@ -5604,12 +5606,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Salvation Remake! | 342072 | [342072-doki-doki-salvation-remake.json](./342072-doki-doki-salvation-remake.json) |
 | Doki Doki Sayori Date! | 332855 | [332855-doki-doki-sayori-date.json](./332855-doki-doki-sayori-date.json) |
 | Doki Doki Silver & Emerald | 334693 | [334693-doki-doki-silver-and-emerald.json](./334693-doki-doki-silver-and-emerald.json) |
+| Doki Doki Switcheroo | 334832 | [334832-doki-doki-switcheroo.json](./334832-doki-doki-switcheroo.json) |
 | Doki Doki Takeover!: Bad Ending | 208412 | [208412-doki-doki-takeover-bad-ending.json](./208412-doki-doki-takeover-bad-ending.json) |
 | Doki Doki Tegami Relay | 217845 | [217845-doki-doki-tegami-relay.json](./217845-doki-doki-tegami-relay.json) |
 | Doki Doki Theo Club | 374835 | [374835-doki-doki-theo-club.json](./374835-doki-doki-theo-club.json) |
 | Doki Doki Tri-Line Quest | 191218 | [191218-doki-doki-tri-line-quest.json](./191218-doki-doki-tri-line-quest.json) |
 | Doki Doki Tutorial! | 256833 | [256833-doki-doki-tutorial.json](./256833-doki-doki-tutorial.json) |
 | Doki Doki Twin Realities | 384661 | [384661-doki-doki-twin-realities.json](./384661-doki-doki-twin-realities.json) |
+| Doki Doki What If | 334823 | [334823-doki-doki-what-if.json](./334823-doki-doki-what-if.json) |
 | Doki Doki Your Bully: Natsuki | 332853 | [332853-doki-doki-your-bully-natsuki.json](./332853-doki-doki-your-bully-natsuki.json) |
 | Doki Doki: The Dark Rainclouds | 333104 | [333104-doki-doki-the-dark-rainclouds.json](./333104-doki-doki-the-dark-rainclouds.json) |
 | Doki Doki! Pretty Cure Narikiri Life! | 216180 | [216180-doki-doki-pretty-cure-narikiri-life.json](./216180-doki-doki-pretty-cure-narikiri-life.json) |
@@ -7678,6 +7682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreams of Dead | 202249 | [202249-dreams-of-dead.json](./202249-dreams-of-dead.json) |
 | Dreams of Greatness | 51583 | [51583-dreams-of-greatness.json](./51583-dreams-of-greatness.json) |
 | Dreams of Joy Departed | 317581 | [317581-dreams-of-joy-departed.json](./317581-dreams-of-joy-departed.json) |
+| Dreams of Literature: Noir | 334822 | [334822-dreams-of-literature-noir.json](./334822-dreams-of-literature-noir.json) |
 | Dreams of Sand | 306347 | [306347-dreams-of-sand.json](./306347-dreams-of-sand.json) |
 | Dreams of Solari - Chapter 1 | 120376 | [120376-dreams-of-solari-chapter-1.json](./120376-dreams-of-solari-chapter-1.json) |
 | Dreams of Valhalla | 250448 | [250448-dreams-of-valhalla.json](./250448-dreams-of-valhalla.json) |
