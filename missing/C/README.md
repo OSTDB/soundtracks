@@ -2130,6 +2130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Away | 352180 | [352180-cats-away.json](./352180-cats-away.json) |
 | Cats Bounce Ball | 338189 | [338189-cats-bounce-ball.json](./338189-cats-bounce-ball.json) |
 | Cats Diner | 392948 | [392948-cats-diner.json](./392948-cats-diner.json) |
+| Cats Epic Puzzles | 334827 | [334827-cats-epic-puzzles.json](./334827-cats-epic-puzzles.json) |
 | Cats Fighters | 239621 | [239621-cats-fighters.json](./239621-cats-fighters.json) |
 | Cats Fly Helicopters | 117104 | [117104-cats-fly-helicopters.json](./117104-cats-fly-helicopters.json) |
 | Cats Games + Say Cheese! + Soko Games | 335105 | [335105-cats-games-say-cheese-soko-games.json](./335105-cats-games-say-cheese-soko-games.json) |
@@ -3909,6 +3910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrome Carnage | 398345 | [398345-chrome-carnage.json](./398345-chrome-carnage.json) |
 | Chrome Death | 259247 | [259247-chrome-death.json](./259247-chrome-death.json) |
 | Chrome Switcher | 148490 | [148490-chrome-switcher.json](./148490-chrome-switcher.json) |
+| Chromium Man Clicker | 334834 | [334834-chromium-man-clicker.json](./334834-chromium-man-clicker.json) |
 | Chromocide: Prism of Sin | 294171 | [294171-chromocide-prism-of-sin.json](./294171-chromocide-prism-of-sin.json) |
 | Chromosome Evil | 116334 | [116334-chromosome-evil.json](./116334-chromosome-evil.json) |
 | Chromosome Evil: Map Editor | 232462 | [232462-chromosome-evil-map-editor.json](./232462-chromosome-evil-map-editor.json) |
@@ -5173,6 +5175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coagulation Station | 313307 | [313307-coagulation-station.json](./313307-coagulation-station.json) |
 | Coal Duty | 405677 | [405677-coal-duty.json](./405677-coal-duty.json) |
 | Coal Escape | 194025 | [194025-coal-escape.json](./194025-coal-escape.json) |
+| Coal Man Clicker | 334835 | [334835-coal-man-clicker.json](./334835-coal-man-clicker.json) |
 | Coal Mining Inc. | 237653 | [237653-coal-mining-inc.json](./237653-coal-mining-inc.json) |
 | Coal Rush: Tap a Train | 179585 | [179585-coal-rush-tap-a-train.json](./179585-coal-rush-tap-a-train.json) |
 | Coalhero | 154396 | [154396-coalhero.json](./154396-coalhero.json) |
@@ -5326,6 +5329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codename: SYN | 137603 | [137603-codename-syn.json](./137603-codename-syn.json) |
 | Codename: Twilight | 373761 | [373761-codename-twilight.json](./373761-codename-twilight.json) |
 | Codenames | 105254 | [105254-codenames.json](./105254-codenames.json) |
+| CodeRed 911 | 334943 | [334943-codered-911.json](./334943-codered-911.json) |
 | CodeRed: Agent Sarah's Story - Day One | 76679 | [76679-codered-agent-sarahs-story-day-one.json](./76679-codered-agent-sarahs-story-day-one.json) |
 | CodeRunner | 200029 | [200029-coderunner.json](./200029-coderunner.json) |
 | CodeStrike | 368500 | [368500-codestrike.json](./368500-codestrike.json) |
@@ -6850,6 +6854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copa City: Elite Tifo Collection | 406909 | [406909-copa-city-elite-tifo-collection.json](./406909-copa-city-elite-tifo-collection.json) |
 | Copa City: Urban Aesthetics Pack | 406908 | [406908-copa-city-urban-aesthetics-pack.json](./406908-copa-city-urban-aesthetics-pack.json) |
 | Copa Petrobras de Marcas | 90609 | [90609-copa-petrobras-de-marcas.json](./90609-copa-petrobras-de-marcas.json) |
+| Copa Toon: Superestrellas | 334930 | [334930-copa-toon-superestrellas.json](./334930-copa-toon-superestrellas.json) |
 | Cope Island: Adrift | 113755 | [113755-cope-island-adrift.json](./113755-cope-island-adrift.json) |
 | Copero | 412505 | [412505-copero.json](./412505-copero.json) |
 | Coping Mechanisms | 395898 | [395898-coping-mechanisms.json](./395898-coping-mechanisms.json) |
