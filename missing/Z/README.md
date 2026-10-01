@@ -245,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Pinball 2 | 6008 | [6008-zen-pinball-2.json](./6008-zen-pinball-2.json) |
 | Zen Pinball World: A Charlie Brown Christmas Pinball | 354059 | [354059-zen-pinball-world-a-charlie-brown-christmas-pinball.json](./354059-zen-pinball-world-a-charlie-brown-christmas-pinball.json) |
 | Zen Pinball World: A Samurai's Vengeance | 354060 | [354060-zen-pinball-world-a-samurais-vengeance.json](./354060-zen-pinball-world-a-samurais-vengeance.json) |
+| Zen Pinball World: Adventures of Lara Croft | 354055 | [354055-zen-pinball-world-adventures-of-lara-croft.json](./354055-zen-pinball-world-adventures-of-lara-croft.json) |
 | Zen Pinball World: Attack from Mars | 354084 | [354084-zen-pinball-world-attack-from-mars.json](./354084-zen-pinball-world-attack-from-mars.json) |
 | Zen Pinball World: Banzai Run | 354061 | [354061-zen-pinball-world-banzai-run.json](./354061-zen-pinball-world-banzai-run.json) |
 | Zen Pinball World: Battlestar Galactica Pinball | 354062 | [354062-zen-pinball-world-battlestar-galactica-pinball.json](./354062-zen-pinball-world-battlestar-galactica-pinball.json) |
@@ -274,16 +275,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Pinball World: Pacific Rim Pinball | 354104 | [354104-zen-pinball-world-pacific-rim-pinball.json](./354104-zen-pinball-world-pacific-rim-pinball.json) |
 | Zen Pinball World: Red and Ted's Road Show | 354105 | [354105-zen-pinball-world-red-and-teds-road-show.json](./354105-zen-pinball-world-red-and-teds-road-show.json) |
 | Zen Pinball World: Safe Cracker | 354091 | [354091-zen-pinball-world-safe-cracker.json](./354091-zen-pinball-world-safe-cracker.json) |
+| Zen Pinball World: Secrets of Croft Manor | 354054 | [354054-zen-pinball-world-secrets-of-croft-manor.json](./354054-zen-pinball-world-secrets-of-croft-manor.json) |
 | Zen Pinball World: Sky Pirates - Treasures of the Clouds | 354074 | [354074-zen-pinball-world-sky-pirates-treasures-of-the-clouds.json](./354074-zen-pinball-world-sky-pirates-treasures-of-the-clouds.json) |
 | Zen Pinball World: South Park - Butters' Very Own Pinball Game | 354075 | [354075-zen-pinball-world-south-park-butters-very-own-pinball-game.json](./354075-zen-pinball-world-south-park-butters-very-own-pinball-game.json) |
 | Zen Pinball World: South Park - Super Sweet Pinball | 354076 | [354076-zen-pinball-world-south-park-super-sweet-pinball.json](./354076-zen-pinball-world-south-park-super-sweet-pinball.json) |
 | Zen Pinball World: Space Station | 354106 | [354106-zen-pinball-world-space-station.json](./354106-zen-pinball-world-space-station.json) |
+| Zen Pinball World: Star Trek - The Next Generation | 354057 | [354057-zen-pinball-world-star-trek-the-next-generation.json](./354057-zen-pinball-world-star-trek-the-next-generation.json) |
 | Zen Pinball World: Swords of Fury | 354107 | [354107-zen-pinball-world-swords-of-fury.json](./354107-zen-pinball-world-swords-of-fury.json) |
 | Zen Pinball World: Terraforming Mars Pinball | 354077 | [354077-zen-pinball-world-terraforming-mars-pinball.json](./354077-zen-pinball-world-terraforming-mars-pinball.json) |
 | Zen Pinball World: The Addams Family | 354078 | [354078-zen-pinball-world-the-addams-family.json](./354078-zen-pinball-world-the-addams-family.json) |
 | Zen Pinball World: The Champion Pub | 354092 | [354092-zen-pinball-world-the-champion-pub.json](./354092-zen-pinball-world-the-champion-pub.json) |
 | Zen Pinball World: The Creature From the Black Lagoon | 354093 | [354093-zen-pinball-world-the-creature-from-the-black-lagoon.json](./354093-zen-pinball-world-the-creature-from-the-black-lagoon.json) |
 | Zen Pinball World: The Getaway - High Speed II | 354094 | [354094-zen-pinball-world-the-getaway-high-speed-ii.json](./354094-zen-pinball-world-the-getaway-high-speed-ii.json) |
+| Zen Pinball World: The Party Zone | 354056 | [354056-zen-pinball-world-the-party-zone.json](./354056-zen-pinball-world-the-party-zone.json) |
 | Zen Pinball World: The Princess Bride Pinball | 354079 | [354079-zen-pinball-world-the-princess-bride-pinball.json](./354079-zen-pinball-world-the-princess-bride-pinball.json) |
 | Zen Pinball World: Theatre of Magic | 354095 | [354095-zen-pinball-world-theatre-of-magic.json](./354095-zen-pinball-world-theatre-of-magic.json) |
 | Zen Pinball World: Twilight Zone | 354080 | [354080-zen-pinball-world-twilight-zone.json](./354080-zen-pinball-world-twilight-zone.json) |
