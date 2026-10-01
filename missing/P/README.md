@@ -2048,6 +2048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | People & Places Trivia | 87562 | [87562-people-and-places-trivia.json](./87562-people-and-places-trivia.json) |
 | People Cu3ed | 108049 | [108049-people-cu3ed.json](./108049-people-cu3ed.json) |
 | People Eater | 28901 | [28901-people-eater.json](./28901-people-eater.json) |
+| People In The Dark | 378374 | [378374-people-in-the-dark.json](./378374-people-in-the-dark.json) |
 | People Jumping Tower | 328035 | [328035-people-jumping-tower.json](./328035-people-jumping-tower.json) |
 | People Manipulation Sim | 181369 | [181369-people-manipulation-sim.json](./181369-people-manipulation-sim.json) |
 | People Playground | 122646 | [122646-people-playground.json](./122646-people-playground.json) |
@@ -7754,6 +7755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychic Investigation of Sakuragi Haru | 241385 | [241385-psychic-investigation-of-sakuragi-haru.json](./241385-psychic-investigation-of-sakuragi-haru.json) |
 | Psychic Storm | 280322 | [280322-psychic-storm.json](./280322-psychic-storm.json) |
 | Psycho | 179574 | [179574-psycho.json](./179574-psycho.json) |
+| Psycho | 378393 | [378393-psycho.json](./378393-psycho.json) |
 | Psycho Boy: Dasshutsu Game | 223968 | [223968-psycho-boy-dasshutsu-game.json](./223968-psycho-boy-dasshutsu-game.json) |
 | Psycho Casket | 408287 | [408287-psycho-casket.json](./408287-psycho-casket.json) |
 | Psycho Dream | 42420 | [42420-psycho-dream.json](./42420-psycho-dream.json) |
