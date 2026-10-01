@@ -1195,6 +1195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Jam: Animal Parking Game | 247216 | [247216-farm-jam-animal-parking-game.json](./247216-farm-jam-animal-parking-game.json) |
 | Farm Keeper | 247034 | [247034-farm-keeper.json](./247034-farm-keeper.json) |
 | Farm Kitten: Puzzle Pipes | 165711 | [165711-farm-kitten-puzzle-pipes.json](./165711-farm-kitten-puzzle-pipes.json) |
+| Farm Land | 365204 | [365204-farm-land.json](./365204-farm-land.json) |
 | Farm Land: Complete Edition | 270793 | [270793-farm-land-complete-edition.json](./270793-farm-land-complete-edition.json) |
 | Farm Land: Gold Edition | 385198 | [385198-farm-land-gold-edition.json](./385198-farm-land-gold-edition.json) |
 | Farm Land: Puppy Edition | 277904 | [277904-farm-land-puppy-edition.json](./277904-farm-land-puppy-edition.json) |
@@ -1440,6 +1441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fastlane Pinball | 73889 | [73889-fastlane-pinball.json](./73889-fastlane-pinball.json) |
 | FastLane Street Racer | 262466 | [262466-fastlane-street-racer.json](./262466-fastlane-street-racer.json) |
 | Fastraq | 223416 | [223416-fastraq.json](./223416-fastraq.json) |
+| Fastro Dude | 365234 | [365234-fastro-dude.json](./365234-fastro-dude.json) |
 | Fat 2 Fit! | 152289 | [152289-fat-2-fit.json](./152289-fat-2-fit.json) |
 | Fat Albert | 320981 | [320981-fat-albert.json](./320981-fat-albert.json) |
 | Fat Baby | 186036 | [186036-fat-baby.json](./186036-fat-baby.json) |
