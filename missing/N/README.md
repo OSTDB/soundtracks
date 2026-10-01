@@ -806,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necroffense | 220711 | [220711-necroffense.json](./220711-necroffense.json) |
 | Necroflora | 333542 | [333542-necroflora.json](./333542-necroflora.json) |
 | NecroLand: Undead Corps | 127361 | [127361-necroland-undead-corps.json](./127361-necroland-undead-corps.json) |
+| Necromancer | 377196 | [377196-necromancer.json](./377196-necromancer.json) |
 | Necromancer Delivery Service | 406309 | [406309-necromancer-delivery-service.json](./406309-necromancer-delivery-service.json) |
 | Necromancer Nonsense | 347151 | [347151-necromancer-nonsense.json](./347151-necromancer-nonsense.json) |
 | Necromancer: Winter | 156183 | [156183-necromancer-winter.json](./156183-necromancer-winter.json) |
@@ -2815,6 +2816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Momentum | 190979 | [190979-no-momentum.json](./190979-no-momentum.json) |
 | No More Cows | 399063 | [399063-no-more-cows.json](./399063-no-more-cows.json) |
 | No More Future | 177912 | [177912-no-more-future.json](./177912-no-more-future.json) |
+| No More Heroes | 377191 | [377191-no-more-heroes.json](./377191-no-more-heroes.json) |
 | No More Heroes 1 & 2 | 175207 | [175207-no-more-heroes-1-and-2.json](./175207-no-more-heroes-1-and-2.json) |
 | No More Heroes 1-3 Bundle | 384792 | [384792-no-more-heroes-1-3-bundle.json](./384792-no-more-heroes-1-3-bundle.json) |
 | No More Heroes III | 119387 | [119387-no-more-heroes-iii.json](./119387-no-more-heroes-iii.json) |
