@@ -574,6 +574,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sam & Max: Save the World | 140878 | [140878-sam-and-max-save-the-world.json](./140878-sam-and-max-save-the-world.json) |
 | Sam & Max: Save the World | 862 | [862-sam-and-max-save-the-world.json](./862-sam-and-max-save-the-world.json) |
 | Sam & Max: The Devil's Playhouse | 9534 | [9534-sam-and-max-the-devils-playhouse.json](./9534-sam-and-max-the-devils-playhouse.json) |
+| Sam the Olympic Eagle: Rings | 349452 | [349452-sam-the-olympic-eagle-rings.json](./349452-sam-the-olympic-eagle-rings.json) |
+| Sam the Olympic Eagle: Torch | 349451 | [349451-sam-the-olympic-eagle-torch.json](./349451-sam-the-olympic-eagle-torch.json) |
 | Samabake! Scramble | 318056 | [318056-samabake-scramble.json](./318056-samabake-scramble.json) |
 | Samael: The Legacy of Ophiuchus | 218718 | [218718-samael-the-legacy-of-ophiuchus.json](./218718-samael-the-legacy-of-ophiuchus.json) |
 | Samantha Swift and the Mystery From Atlantis | 62460 | [62460-samantha-swift-and-the-mystery-from-atlantis.json](./62460-samantha-swift-and-the-mystery-from-atlantis.json) |
@@ -4983,6 +4985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Fangs: Stealthy Vampire's Tale | 371264 | [371264-silent-fangs-stealthy-vampires-tale.json](./371264-silent-fangs-stealthy-vampires-tale.json) |
 | Silent Frontiers | 304606 | [304606-silent-frontiers.json](./304606-silent-frontiers.json) |
 | Silent Harmony | 394479 | [394479-silent-harmony.json](./394479-silent-harmony.json) |
+| Silent Hill | 349441 | [349441-silent-hill.json](./349441-silent-hill.json) |
 | Silent Hill 2: Deluxe Edition | 303813 | [303813-silent-hill-2-deluxe-edition.json](./303813-silent-hill-2-deluxe-edition.json) |
 | Silent Hill 2: Restless Dreams | 22066 | [22066-silent-hill-2-restless-dreams.json](./22066-silent-hill-2-restless-dreams.json) |
 | Silent Hill 2: Special 2 Disc Set | 43277 | [43277-silent-hill-2-special-2-disc-set.json](./43277-silent-hill-2-special-2-disc-set.json) |
@@ -6867,6 +6870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smashcat | 10835 | [10835-smashcat.json](./10835-smashcat.json) |
 | Smashed and Boiled | 322110 | [322110-smashed-and-boiled.json](./322110-smashed-and-boiled.json) |
 | Smasher | 112976 | [112976-smasher.json](./112976-smasher.json) |
+| Smasher | 349462 | [349462-smasher.json](./349462-smasher.json) |
 | Smasher and the Will o' the Thiccs | 165633 | [165633-smasher-and-the-will-o-the-thiccs.json](./165633-smasher-and-the-will-o-the-thiccs.json) |
 | Smashie | 23952 | [23952-smashie.json](./23952-smashie.json) |
 | Smashing Drive | 2743 | [2743-smashing-drive.json](./2743-smashing-drive.json) |
@@ -12282,6 +12286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starvation | 213360 | [213360-starvation.json](./213360-starvation.json) |
 | Starvault | 341684 | [341684-starvault.json](./341684-starvault.json) |
 | Starve.io | 79268 | [79268-starve-io.json](./79268-starve-io.json) |
+| Starvedge | 349454 | [349454-starvedge.json](./349454-starvedge.json) |
 | Starving Merchant | 390760 | [390760-starving-merchant.json](./390760-starving-merchant.json) |
 | Starward Rogue: Complete Edition | 283159 | [283159-starward-rogue-complete-edition.json](./283159-starward-rogue-complete-edition.json) |
 | Starwave | 306943 | [306943-starwave.json](./306943-starwave.json) |
@@ -12848,6 +12853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Skater | 174341 | [174341-stickman-skater.json](./174341-stickman-skater.json) |
 | Stickman Soccer 2016 | 90737 | [90737-stickman-soccer-2016.json](./90737-stickman-soccer-2016.json) |
 | Stickman Strikes: Conquer Fantasy World | 317870 | [317870-stickman-strikes-conquer-fantasy-world.json](./317870-stickman-strikes-conquer-fantasy-world.json) |
+| Stickman turbo destruiction | 349465 | [349465-stickman-turbo-destruiction.json](./349465-stickman-turbo-destruiction.json) |
 | Stickman Turbo Dismounting 3D | 95841 | [95841-stickman-turbo-dismounting-3d.json](./95841-stickman-turbo-dismounting-3d.json) |
 | StickMan vs. MagicWorld | 265596 | [265596-stickman-vs-magicworld.json](./265596-stickman-vs-magicworld.json) |
 | Stickman War Lightsaber Games | 100746 | [100746-stickman-war-lightsaber-games.json](./100746-stickman-war-lightsaber-games.json) |
@@ -16105,6 +16111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superman | 18711 | [18711-superman.json](./18711-superman.json) |
 | Superman | 361718 | [361718-superman.json](./361718-superman.json) |
 | Superman in Supervillain Showdown | 220123 | [220123-superman-in-supervillain-showdown.json](./220123-superman-in-supervillain-showdown.json) |
+| Superman: Luther no Yabou | 349440 | [349440-superman-luther-no-yabou.json](./349440-superman-luther-no-yabou.json) |
 | Superman: Man of Steel | 18463 | [18463-superman-man-of-steel.json](./18463-superman-man-of-steel.json) |
 | Superman: Man of Steel | 264862 | [264862-superman-man-of-steel.json](./264862-superman-man-of-steel.json) |
 | Superman: The Greatest Hero | 72996 | [72996-superman-the-greatest-hero.json](./72996-superman-the-greatest-hero.json) |
