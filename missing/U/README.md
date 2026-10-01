@@ -1304,6 +1304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uno 52 | 47706 | [47706-uno-52.json](./47706-uno-52.json) |
 | Uno DX | 91956 | [91956-uno-dx.json](./91956-uno-dx.json) |
 | Uno God | 390230 | [390230-uno-god.json](./390230-uno-god.json) |
+| Uno: Arcade Edition | 346722 | [346722-uno-arcade-edition.json](./346722-uno-arcade-edition.json) |
 | Uno: Assassin's Creed Valhalla Theme Cards | 196679 | [196679-uno-assassins-creed-valhalla-theme-cards.json](./196679-uno-assassins-creed-valhalla-theme-cards.json) |
 | UNO: Legacy Edition | 315848 | [315848-uno-legacy-edition.json](./315848-uno-legacy-edition.json) |
 | Uno: Party! Mania | 323831 | [323831-uno-party-mania.json](./323831-uno-party-mania.json) |
