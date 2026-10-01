@@ -409,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Mora | 361858 | [361858-echoes-of-mora.json](./361858-echoes-of-mora.json) |
 | Echoes of Mystralia | 314426 | [314426-echoes-of-mystralia.json](./314426-echoes-of-mystralia.json) |
 | Echoes of Nara | 348321 | [348321-echoes-of-nara.json](./348321-echoes-of-nara.json) |
+| Echoes of Night: The Exodus of the Stars | 349985 | [349985-echoes-of-night-the-exodus-of-the-stars.json](./349985-echoes-of-night-the-exodus-of-the-stars.json) |
 | Echoes of Nocturnal Chords | 284335 | [284335-echoes-of-nocturnal-chords.json](./284335-echoes-of-nocturnal-chords.json) |
 | Echoes of Nothing | 359059 | [359059-echoes-of-nothing.json](./359059-echoes-of-nothing.json) |
 | Echoes of Pinebridge | 390719 | [390719-echoes-of-pinebridge.json](./390719-echoes-of-pinebridge.json) |
@@ -805,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eight-Minute Empire: Mountains | 171946 | [171946-eight-minute-empire-mountains.json](./171946-eight-minute-empire-mountains.json) |
 | Eighteen | 295244 | [295244-eighteen.json](./295244-eighteen.json) |
 | Eighteen Gold | 258484 | [258484-eighteen-gold.json](./258484-eighteen-gold.json) |
+| Eighth Day Kishimoto-kun | 349991 | [349991-eighth-day-kishimoto-kun.json](./349991-eighth-day-kishimoto-kun.json) |
 | Eighth Era | 329967 | [329967-eighth-era.json](./329967-eighth-era.json) |
 | EightMan | 40976 | [40976-eightman.json](./40976-eightman.json) |
 | Eightrun | 242523 | [242523-eightrun.json](./242523-eightrun.json) |
@@ -1499,6 +1501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire of the Ants: Limited Edition | 291541 | [291541-empire-of-the-ants-limited-edition.json](./291541-empire-of-the-ants-limited-edition.json) |
 | Empire of the Dead Souls | 93748 | [93748-empire-of-the-dead-souls.json](./93748-empire-of-the-dead-souls.json) |
 | Empire of the Fallen Steel | 37388 | [37388-empire-of-the-fallen-steel.json](./37388-empire-of-the-fallen-steel.json) |
+| Empire of the Insects | 350011 | [350011-empire-of-the-insects.json](./350011-empire-of-the-insects.json) |
 | Empire of the Over-Mind | 18470 | [18470-empire-of-the-over-mind.json](./18470-empire-of-the-over-mind.json) |
 | Empire of Vice: Chicago | 388258 | [388258-empire-of-vice-chicago.json](./388258-empire-of-vice-chicago.json) |
 | Empire Origin: Rise | 258204 | [258204-empire-origin-rise.json](./258204-empire-origin-rise.json) |
@@ -2521,6 +2524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Legacy: Ancient Scrolls | 110733 | [110733-escape-legacy-ancient-scrolls.json](./110733-escape-legacy-ancient-scrolls.json) |
 | Escape Lizards | 31903 | [31903-escape-lizards.json](./31903-escape-lizards.json) |
 | Escape Machines | 26823 | [26823-escape-machines.json](./26823-escape-machines.json) |
+| Escape Memoirs: Bank Heist | 349988 | [349988-escape-memoirs-bank-heist.json](./349988-escape-memoirs-bank-heist.json) |
 | Escape Memoirs: Mini Stories - Bunker Scenario | 235840 | [235840-escape-memoirs-mini-stories-bunker-scenario.json](./235840-escape-memoirs-mini-stories-bunker-scenario.json) |
 | Escape Memoirs: Questionable Side Stories | 247615 | [247615-escape-memoirs-questionable-side-stories.json](./247615-escape-memoirs-questionable-side-stories.json) |
 | Escape Mystery-The Dark Fence | 237368 | [237368-escape-mystery-the-dark-fence.json](./237368-escape-mystery-the-dark-fence.json) |
@@ -3108,6 +3112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ever Maiden: Daraku no Sono no Otome-tachi | 249497 | [249497-ever-maiden-daraku-no-sono-no-otome-tachi.json](./249497-ever-maiden-daraku-no-sono-no-otome-tachi.json) |
 | Ever Planet | 67290 | [67290-ever-planet.json](./67290-ever-planet.json) |
 | Ever Seen A Cat? 3 | 211179 | [211179-ever-seen-a-cat-3.json](./211179-ever-seen-a-cat-3.json) |
+| Ever War | 349995 | [349995-ever-war.json](./349995-ever-war.json) |
 | Everbark | 397202 | [397202-everbark.json](./397202-everbark.json) |
 | Everbee | 270130 | [270130-everbee.json](./270130-everbee.json) |
 | Everblade | 192806 | [192806-everblade.json](./192806-everblade.json) |
