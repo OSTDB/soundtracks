@@ -3889,6 +3889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floor is Water | 193402 | [193402-floor-is-water.json](./193402-floor-is-water.json) |
 | Floor is...What!? | 189135 | [189135-floor-is-what.json](./189135-floor-is-what.json) |
 | Floor Observer | 284437 | [284437-floor-observer.json](./284437-floor-observer.json) |
+| Floor Plan Puzzle (Red Room Simulator) | 347321 | [347321-floor-plan-puzzle-red-room-simulator.json](./347321-floor-plan-puzzle-red-room-simulator.json) |
 | Floor Plan: Hands-On Edition | 55801 | [55801-floor-plan-hands-on-edition.json](./55801-floor-plan-hands-on-edition.json) |
 | Floor Wiping Race | 420674 | [420674-floor-wiping-race.json](./420674-floor-wiping-race.json) |
 | Floor404 | 409741 | [409741-floor404.json](./409741-floor404.json) |
