@@ -1601,6 +1601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead End Mission | 260415 | [260415-dead-end-mission.json](./260415-dead-end-mission.json) |
 | Dead End: Escape Your Fears | 410294 | [410294-dead-end-escape-your-fears.json](./410294-dead-end-escape-your-fears.json) |
 | Dead End: Orchestral Manoeuvres in the Dead End | 59390 | [59390-dead-end-orchestral-manoeuvres-in-the-dead-end.json](./59390-dead-end-orchestral-manoeuvres-in-the-dead-end.json) |
+| Dead Engine | 345065 | [345065-dead-engine.json](./345065-dead-engine.json) |
 | Dead Estate: Axe to Grind | 367002 | [367002-dead-estate-axe-to-grind.json](./367002-dead-estate-axe-to-grind.json) |
 | Dead Estate: Bombs Away | 366970 | [366970-dead-estate-bombs-away.json](./366970-dead-estate-bombs-away.json) |
 | Dead Estate: Good Night | 367006 | [367006-dead-estate-good-night.json](./367006-dead-estate-good-night.json) |
@@ -4340,6 +4341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diner Mania | 34984 | [34984-diner-mania.json](./34984-diner-mania.json) |
 | Diner Out | 314520 | [314520-diner-out.json](./314520-diner-out.json) |
 | Diner Runners | 192802 | [192802-diner-runners.json](./192802-diner-runners.json) |
+| Diner Simulator | 345063 | [345063-diner-simulator.json](./345063-diner-simulator.json) |
 | Diner Simulator: Horror Story | 326200 | [326200-diner-simulator-horror-story.json](./326200-diner-simulator-horror-story.json) |
 | Ding Dong Dang | 302470 | [302470-ding-dong-dang.json](./302470-ding-dong-dang.json) |
 | Ding Dong Pitch | 379555 | [379555-ding-dong-pitch.json](./379555-ding-dong-pitch.json) |
@@ -7252,6 +7254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drake | 134654 | [134654-drake.json](./134654-drake.json) |
 | Drake Hollow | 125630 | [125630-drake-hollow.json](./125630-drake-hollow.json) |
 | Drake's Tower | 89229 | [89229-drakes-tower.json](./89229-drakes-tower.json) |
+| Drakefall | 345052 | [345052-drakefall.json](./345052-drakefall.json) |
 | Drakeling Labs | 90130 | [90130-drakeling-labs.json](./90130-drakeling-labs.json) |
 | Draken's Shrine | 257918 | [257918-drakens-shrine.json](./257918-drakens-shrine.json) |
 | Drakengard 2 | 11663 | [11663-drakengard-2.json](./11663-drakengard-2.json) |
@@ -7536,6 +7539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreamBig 3 | 368104 | [368104-dreambig-3.json](./368104-dreambig-3.json) |
 | Dreamblood | 280903 | [280903-dreamblood.json](./280903-dreamblood.json) |
 | Dreamboat | 295806 | [295806-dreamboat.json](./295806-dreamboat.json) |
+| DreamBreaker | 344996 | [344996-dreambreaker.json](./344996-dreambreaker.json) |
 | Dreamcage Escape | 30488 | [30488-dreamcage-escape.json](./30488-dreamcage-escape.json) |
 | Dreamcards | 347803 | [347803-dreamcards.json](./347803-dreamcards.json) |
 | DreamCatcher | 312588 | [312588-dreamcatcher.json](./312588-dreamcatcher.json) |
@@ -7784,6 +7788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drill Man Rumble | 126501 | [126501-drill-man-rumble.json](./126501-drill-man-rumble.json) |
 | Drill Rift | 355128 | [355128-drill-rift.json](./355128-drill-rift.json) |
 | Drill Space | 341037 | [341037-drill-space.json](./341037-drill-space.json) |
+| Drill to Hell: Clicked Too Deep | 345082 | [345082-drill-to-hell-clicked-too-deep.json](./345082-drill-to-hell-clicked-too-deep.json) |
 | Drill Up | 348945 | [348945-drill-up.json](./348945-drill-up.json) |
 | Drillman 6378137 | 195703 | [195703-drillman-6378137.json](./195703-drillman-6378137.json) |
 | Drillmin | 186198 | [186198-drillmin.json](./186198-drillmin.json) |
