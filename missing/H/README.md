@@ -1034,6 +1034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haru he to Tsuzuku Oka | 388003 | [388003-haru-he-to-tsuzuku-oka.json](./388003-haru-he-to-tsuzuku-oka.json) |
 | Haru Ichiban | 209708 | [209708-haru-ichiban.json](./209708-haru-ichiban.json) |
 | Haru no Oto ha Marude Kimi ni Nitete | 323821 | [323821-haru-no-oto-ha-marude-kimi-ni-nitete.json](./323821-haru-no-oto-ha-marude-kimi-ni-nitete.json) |
+| Haruka no Kuni | 341606 | [341606-haruka-no-kuni.json](./341606-haruka-no-kuni.json) |
 | Haruka, Winter Dreams | 57185 | [57185-haruka-winter-dreams.json](./57185-haruka-winter-dreams.json) |
 | Harukanaru Augusta | 37909 | [37909-harukanaru-augusta.json](./37909-harukanaru-augusta.json) |
 | Harukanaru Augusta 2: Masters | 37933 | [37933-harukanaru-augusta-2-masters.json](./37933-harukanaru-augusta-2-masters.json) |
@@ -2990,6 +2991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex | 72028 | [72028-hex.json](./72028-hex.json) |
 | Hex & Agon | 144351 | [144351-hex-and-agon.json](./144351-hex-and-agon.json) |
 | Hex and Chill | 335365 | [335365-hex-and-chill.json](./335365-hex-and-chill.json) |
+| Hex Blast | 341604 | [341604-hex-blast.json](./341604-hex-blast.json) |
 | Hex Blocks Puzzle | 101754 | [101754-hex-blocks-puzzle.json](./101754-hex-blocks-puzzle.json) |
 | Hex For Hire | 182925 | [182925-hex-for-hire.json](./182925-hex-for-hire.json) |
 | Hex Gambit | 70704 | [70704-hex-gambit.json](./70704-hex-gambit.json) |
@@ -4631,6 +4633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hooked! Again: Real Motion Fishing | 50627 | [50627-hooked-again-real-motion-fishing.json](./50627-hooked-again-real-motion-fishing.json) |
 | Hookeye | 417465 | [417465-hookeye.json](./417465-hookeye.json) |
 | Hooking Season | 211192 | [211192-hooking-season.json](./211192-hooking-season.json) |
+| Hookshot Runner | 341615 | [341615-hookshot-runner.json](./341615-hookshot-runner.json) |
 | Hooligan Crusoe | 283841 | [283841-hooligan-crusoe.json](./283841-hooligan-crusoe.json) |
 | Hooligan Simulator 2023: You vs. System | 277917 | [277917-hooligan-simulator-2023-you-vs-system.json](./277917-hooligan-simulator-2023-you-vs-system.json) |
 | Hooligan Simulator: Survive in Urban Jungle | 250891 | [250891-hooligan-simulator-survive-in-urban-jungle.json](./250891-hooligan-simulator-survive-in-urban-jungle.json) |
@@ -5861,6 +5864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hurdles | 192295 | [192295-hurdles.json](./192295-hurdles.json) |
 | Hurlements | 174634 | [174634-hurlements.json](./174634-hurlements.json) |
 | Hurling Herman | 392252 | [392252-hurling-herman.json](./392252-hurling-herman.json) |
+| Hurm's Odyssey | 341708 | [341708-hurms-odyssey.json](./341708-hurms-odyssey.json) |
 | Hurrican | 94360 | [94360-hurrican.json](./94360-hurrican.json) |
 | Hurricane | 25928 | [25928-hurricane.json](./25928-hurricane.json) |
 | Hurricane chase | 120775 | [120775-hurricane-chase.json](./120775-hurricane-chase.json) |
