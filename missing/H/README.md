@@ -5021,6 +5021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Mario | 8535 | [8535-hotel-mario.json](./8535-hotel-mario.json) |
 | Hotel Mario II | 269846 | [269846-hotel-mario-ii.json](./269846-hotel-mario-ii.json) |
 | Hotel Mario ReBooked | 321398 | [321398-hotel-mario-rebooked.json](./321398-hotel-mario-rebooked.json) |
+| Hotel Melancolie | 377767 | [377767-hotel-melancolie.json](./377767-hotel-melancolie.json) |
 | Hotel Mogul | 54081 | [54081-hotel-mogul.json](./54081-hotel-mogul.json) |
 | Hotel Mogul: Las Vegas | 54100 | [54100-hotel-mogul-las-vegas.json](./54100-hotel-mogul-las-vegas.json) |
 | Hotel of the Dead | 274749 | [274749-hotel-of-the-dead.json](./274749-hotel-of-the-dead.json) |
@@ -5069,6 +5070,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Houdini Master of the Extraordinary 1: The Temple of the Serpent | 218136 | [218136-houdini-master-of-the-extraordinary-1-the-temple-of-the-serpent.json](./218136-houdini-master-of-the-extraordinary-1-the-temple-of-the-serpent.json) |
 | Houdini Redux | 118805 | [118805-houdini-redux.json](./118805-houdini-redux.json) |
 | Houkago Cinderella | 182470 | [182470-houkago-cinderella.json](./182470-houkago-cinderella.json) |
+| Houkago Cinderella 2 Mini Fandisk: Kimi to Odoru Hajimete no Happy Halloween | 377773 | [377773-houkago-cinderella-2-mini-fandisk-kimi-to-odoru-hajimete-no-happy-halloween.json](./377773-houkago-cinderella-2-mini-fandisk-kimi-to-odoru-hajimete-no-happy-halloween.json) |
+| Houkago Cinderella Mini Fandisk: Anata to Kaeru Saigo no Gekoudou | 377772 | [377772-houkago-cinderella-mini-fandisk-anata-to-kaeru-saigo-no-gekoudou.json](./377772-houkago-cinderella-mini-fandisk-anata-to-kaeru-saigo-no-gekoudou.json) |
 | Houkago Cinderella: Complete Limited Edition | 182479 | [182479-houkago-cinderella-complete-limited-edition.json](./182479-houkago-cinderella-complete-limited-edition.json) |
 | Houkago Girls Tribe | 55928 | [55928-houkago-girls-tribe.json](./55928-houkago-girls-tribe.json) |
 | Houkago no Senpai | 127961 | [127961-houkago-no-senpai.json](./127961-houkago-no-senpai.json) |
