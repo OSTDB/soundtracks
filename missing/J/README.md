@@ -848,6 +848,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle World | 244344 | [244344-jigsaw-puzzle-world.json](./244344-jigsaw-puzzle-world.json) |
 | Jigsaw Puzzle World Memories | 244366 | [244366-jigsaw-puzzle-world-memories.json](./244366-jigsaw-puzzle-world-memories.json) |
 | Jigsaw Puzzle World: Agricultural Machinery | 293070 | [293070-jigsaw-puzzle-world-agricultural-machinery.json](./293070-jigsaw-puzzle-world-agricultural-machinery.json) |
+| Jigsaw Puzzle World: Amphibians | 357895 | [357895-jigsaw-puzzle-world-amphibians.json](./357895-jigsaw-puzzle-world-amphibians.json) |
+| Jigsaw Puzzle World: Arachnids | 357896 | [357896-jigsaw-puzzle-world-arachnids.json](./357896-jigsaw-puzzle-world-arachnids.json) |
+| Jigsaw Puzzle World: Australia | 357907 | [357907-jigsaw-puzzle-world-australia.json](./357907-jigsaw-puzzle-world-australia.json) |
 | Jigsaw Puzzle World: Bar Drinks | 247627 | [247627-jigsaw-puzzle-world-bar-drinks.json](./247627-jigsaw-puzzle-world-bar-drinks.json) |
 | Jigsaw Puzzle World: Bears | 293067 | [293067-jigsaw-puzzle-world-bears.json](./293067-jigsaw-puzzle-world-bears.json) |
 | Jigsaw Puzzle World: Birds | 247625 | [247625-jigsaw-puzzle-world-birds.json](./247625-jigsaw-puzzle-world-birds.json) |
@@ -855,14 +858,24 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle World: Desserts | 293611 | [293611-jigsaw-puzzle-world-desserts.json](./293611-jigsaw-puzzle-world-desserts.json) |
 | Jigsaw Puzzle World: Electronics | 247628 | [247628-jigsaw-puzzle-world-electronics.json](./247628-jigsaw-puzzle-world-electronics.json) |
 | Jigsaw Puzzle World: Fairground | 293068 | [293068-jigsaw-puzzle-world-fairground.json](./293068-jigsaw-puzzle-world-fairground.json) |
+| Jigsaw Puzzle World: Geology | 357906 | [357906-jigsaw-puzzle-world-geology.json](./357906-jigsaw-puzzle-world-geology.json) |
+| Jigsaw Puzzle World: Germany | 357904 | [357904-jigsaw-puzzle-world-germany.json](./357904-jigsaw-puzzle-world-germany.json) |
+| Jigsaw Puzzle World: Hobbies | 357905 | [357905-jigsaw-puzzle-world-hobbies.json](./357905-jigsaw-puzzle-world-hobbies.json) |
 | Jigsaw Puzzle World: India | 247631 | [247631-jigsaw-puzzle-world-india.json](./247631-jigsaw-puzzle-world-india.json) |
 | Jigsaw Puzzle World: Insects | 293610 | [293610-jigsaw-puzzle-world-insects.json](./293610-jigsaw-puzzle-world-insects.json) |
+| Jigsaw Puzzle World: Lions & Tigers | 357903 | [357903-jigsaw-puzzle-world-lions-and-tigers.json](./357903-jigsaw-puzzle-world-lions-and-tigers.json) |
 | Jigsaw Puzzle World: Mediterranean Food | 247626 | [247626-jigsaw-puzzle-world-mediterranean-food.json](./247626-jigsaw-puzzle-world-mediterranean-food.json) |
 | Jigsaw Puzzle World: Motorcycles | 247624 | [247624-jigsaw-puzzle-world-motorcycles.json](./247624-jigsaw-puzzle-world-motorcycles.json) |
+| Jigsaw Puzzle World: Musical Instruments | 357902 | [357902-jigsaw-puzzle-world-musical-instruments.json](./357902-jigsaw-puzzle-world-musical-instruments.json) |
+| Jigsaw Puzzle World: North Africa | 357900 | [357900-jigsaw-puzzle-world-north-africa.json](./357900-jigsaw-puzzle-world-north-africa.json) |
+| Jigsaw Puzzle World: Primates | 357901 | [357901-jigsaw-puzzle-world-primates.json](./357901-jigsaw-puzzle-world-primates.json) |
+| Jigsaw Puzzle World: Scandinavia | 357899 | [357899-jigsaw-puzzle-world-scandinavia.json](./357899-jigsaw-puzzle-world-scandinavia.json) |
+| Jigsaw Puzzle World: Sharks | 357898 | [357898-jigsaw-puzzle-world-sharks.json](./357898-jigsaw-puzzle-world-sharks.json) |
 | Jigsaw Puzzle World: South Korea | 293069 | [293069-jigsaw-puzzle-world-south-korea.json](./293069-jigsaw-puzzle-world-south-korea.json) |
 | Jigsaw Puzzle World: Spain | 247630 | [247630-jigsaw-puzzle-world-spain.json](./247630-jigsaw-puzzle-world-spain.json) |
 | Jigsaw Puzzle World: Toys | 247629 | [247629-jigsaw-puzzle-world-toys.json](./247629-jigsaw-puzzle-world-toys.json) |
 | Jigsaw Puzzle World: U.K. | 247632 | [247632-jigsaw-puzzle-world-u-k.json](./247632-jigsaw-puzzle-world-u-k.json) |
+| Jigsaw Puzzle World: U.S.A. 2 | 357897 | [357897-jigsaw-puzzle-world-u-s-a-2.json](./357897-jigsaw-puzzle-world-u-s-a-2.json) |
 | Jigsaw Puzzle World: Weather | 293608 | [293608-jigsaw-puzzle-world-weather.json](./293608-jigsaw-puzzle-world-weather.json) |
 | Jigsaw Puzzle: Around the World | 401123 | [401123-jigsaw-puzzle-around-the-world.json](./401123-jigsaw-puzzle-around-the-world.json) |
 | Jigsaw Puzzle: Baby Animals | 243058 | [243058-jigsaw-puzzle-baby-animals.json](./243058-jigsaw-puzzle-baby-animals.json) |
@@ -880,6 +893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle: Pro Edition - Expansion Pack 5 | 162241 | [162241-jigsaw-puzzle-pro-edition-expansion-pack-5.json](./162241-jigsaw-puzzle-pro-edition-expansion-pack-5.json) |
 | Jigsaw Puzzle: Pro Edition - Expansion Pack 6 | 162243 | [162243-jigsaw-puzzle-pro-edition-expansion-pack-6.json](./162243-jigsaw-puzzle-pro-edition-expansion-pack-6.json) |
 | Jigsaw Puzzle. Women's Day | 105903 | [105903-jigsaw-puzzle-womens-day.json](./105903-jigsaw-puzzle-womens-day.json) |
+| Jigsaw Puzzles | 357894 | [357894-jigsaw-puzzles.json](./357894-jigsaw-puzzles.json) |
 | Jigsaw Puzzles: Puzzle Game | 223946 | [223946-jigsaw-puzzles-puzzle-game.json](./223946-jigsaw-puzzles-puzzle-game.json) |
 | Jigsaw Realms: Nature | 386369 | [386369-jigsaw-realms-nature.json](./386369-jigsaw-realms-nature.json) |
 | Jigsaw Realms: Oasis | 389066 | [389066-jigsaw-realms-oasis.json](./389066-jigsaw-realms-oasis.json) |
@@ -1222,6 +1236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jolt Family Robot Racer | 85217 | [85217-jolt-family-robot-racer.json](./85217-jolt-family-robot-racer.json) |
 | Jolt: Neon Breaker | 406234 | [406234-jolt-neon-breaker.json](./406234-jolt-neon-breaker.json) |
 | Jon Shafer's At the Gates | 8423 | [8423-jon-shafers-at-the-gates.json](./8423-jon-shafers-at-the-gates.json) |
+| Jon's Jigsaw Puzzle | 357909 | [357909-jons-jigsaw-puzzle.json](./357909-jons-jigsaw-puzzle.json) |
 | Jonah Barrington's Squash | 72155 | [72155-jonah-barringtons-squash.json](./72155-jonah-barringtons-squash.json) |
 | Jonah Considers What Is Asked of Him | 375384 | [375384-jonah-considers-what-is-asked-of-him.json](./375384-jonah-considers-what-is-asked-of-him.json) |
 | Jonah: A VeggieTales Game | 80600 | [80600-jonah-a-veggietales-game.json](./80600-jonah-a-veggietales-game.json) |
