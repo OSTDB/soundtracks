@@ -3297,6 +3297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nosferatu | 11125 | [11125-nosferatu.json](./11125-nosferatu.json) |
 | Nosferatu: The Wrath of Malachi | 8960 | [8960-nosferatu-the-wrath-of-malachi.json](./8960-nosferatu-the-wrath-of-malachi.json) |
 | Nosfereatyou | 179579 | [179579-nosfereatyou.json](./179579-nosfereatyou.json) |
+| NoSlack Pets: Lo-Fi Paws | 365249 | [365249-noslack-pets-lo-fi-paws.json](./365249-noslack-pets-lo-fi-paws.json) |
 | Nosos | 175885 | [175885-nosos.json](./175885-nosos.json) |
 | NoSpellHero | 341486 | [341486-nospellhero.json](./341486-nospellhero.json) |
 | NostalDoom | 269559 | [269559-nostaldoom.json](./269559-nostaldoom.json) |
