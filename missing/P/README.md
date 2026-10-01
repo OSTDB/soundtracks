@@ -3115,6 +3115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigsaw: Human Abattoir | 272381 | [272381-pigsaw-human-abattoir.json](./272381-pigsaw-human-abattoir.json) |
 | Pigskin | 399120 | [399120-pigskin.json](./399120-pigskin.json) |
 | Pigskin Punter! | 234336 | [234336-pigskin-punter.json](./234336-pigskin-punter.json) |
+| PigUp | 348902 | [348902-pigup.json](./348902-pigup.json) |
 | Pih | 375457 | [375457-pih.json](./375457-pih.json) |
 | PiiSim | 125931 | [125931-piisim.json](./125931-piisim.json) |
 | Pik's Epic Kirby Sprite Comics: Teh Game 2 | 246666 | [246666-piks-epic-kirby-sprite-comics-teh-game-2.json](./246666-piks-epic-kirby-sprite-comics-teh-game-2.json) |
