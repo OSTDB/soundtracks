@@ -329,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanderlust: The Bermuda Secret | 187947 | [187947-wanderlust-the-bermuda-secret.json](./187947-wanderlust-the-bermuda-secret.json) |
 | Wanderlust: The Magnificent Journey | 346600 | [346600-wanderlust-the-magnificent-journey.json](./346600-wanderlust-the-magnificent-journey.json) |
 | Wanderlust: Transsiberian | 132503 | [132503-wanderlust-transsiberian.json](./132503-wanderlust-transsiberian.json) |
+| Wandfall | 377247 | [377247-wandfall.json](./377247-wandfall.json) |
 | Wandness | 298158 | [298158-wandness.json](./298158-wandness.json) |
 | Wandrill | 348789 | [348789-wandrill.json](./348789-wandrill.json) |
 | Wands | 56982 | [56982-wands.json](./56982-wands.json) |
