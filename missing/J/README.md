@@ -756,6 +756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jiangshi x Daoshi | 135880 | [135880-jiangshi-x-daoshi.json](./135880-jiangshi-x-daoshi.json) |
 | Jiànxí Sǐshén | 374622 | [374622-jianxi-sishen.json](./374622-jianxi-sishen.json) |
 | Jiànxiá Tú | 157674 | [157674-jianxia-tu.json](./157674-jianxia-tu.json) |
+| Jiaozi & Shopkeeper | 383578 | [383578-jiaozi-and-shopkeeper.json](./383578-jiaozi-and-shopkeeper.json) |
 | Jibaku-kun: Zero no Ki no Kajitsu | 295036 | [295036-jibaku-kun-zero-no-ki-no-kajitsu.json](./295036-jibaku-kun-zero-no-ki-no-kajitsu.json) |
 | Jibchag-ui Mangja: Jib-eulobuteoui Talchul | 368041 | [368041-jibchag-ui-mangja-jib-eulobuteoui-talchul.json](./368041-jibchag-ui-mangja-jib-eulobuteoui-talchul.json) |
 | Jibi Land: Princess Castle | 299211 | [299211-jibi-land-princess-castle.json](./299211-jibi-land-princess-castle.json) |
@@ -1814,6 +1815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Another Boomer Shooter | 385340 | [385340-just-another-boomer-shooter.json](./385340-just-another-boomer-shooter.json) |
 | Just Another Christmas | 272033 | [272033-just-another-christmas.json](./272033-just-another-christmas.json) |
 | Just Another Day at the Office | 134507 | [134507-just-another-day-at-the-office.json](./134507-just-another-day-at-the-office.json) |
+| Just Another Escape | 383567 | [383567-just-another-escape.json](./383567-just-another-escape.json) |
 | Just another generic: FPS | 291219 | [291219-just-another-generic-fps.json](./291219-just-another-generic-fps.json) |
 | Just Another Memory | 120914 | [120914-just-another-memory.json](./120914-just-another-memory.json) |
 | Just Another Platformer | 316052 | [316052-just-another-platformer.json](./316052-just-another-platformer.json) |
