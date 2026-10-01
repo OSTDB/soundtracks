@@ -4600,6 +4600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest of Death Masks | 385583 | [385583-forest-of-death-masks.json](./385583-forest-of-death-masks.json) |
 | Forest of Deceit | 248904 | [248904-forest-of-deceit.json](./248904-forest-of-deceit.json) |
 | Forest of Liars | 96494 | [96494-forest-of-liars.json](./96494-forest-of-liars.json) |
+| Forest of Long Shadows | 356676 | [356676-forest-of-long-shadows.json](./356676-forest-of-long-shadows.json) |
 | Forest of Perdition 2: The School Trip | 315057 | [315057-forest-of-perdition-2-the-school-trip.json](./315057-forest-of-perdition-2-the-school-trip.json) |
 | Forest of the Abyss 2 | 98458 | [98458-forest-of-the-abyss-2.json](./98458-forest-of-the-abyss-2.json) |
 | Forest Plague | 109712 | [109712-forest-plague.json](./109712-forest-plague.json) |
@@ -5892,6 +5893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Mission Evolved: Wanzer Pack 3 | 140459 | [140459-front-mission-evolved-wanzer-pack-3.json](./140459-front-mission-evolved-wanzer-pack-3.json) |
 | Front Mission Evolved: Wanzer Weapons Pack 1 | 140456 | [140456-front-mission-evolved-wanzer-weapons-pack-1.json](./140456-front-mission-evolved-wanzer-weapons-pack-1.json) |
 | Front Mission Evolved: Wanzer Weapons Pack 2 | 140457 | [140457-front-mission-evolved-wanzer-weapons-pack-2.json](./140457-front-mission-evolved-wanzer-weapons-pack-2.json) |
+| Front Mission Remake Trilogy | 356825 | [356825-front-mission-remake-trilogy.json](./356825-front-mission-remake-trilogy.json) |
 | Front Mission: Gun Hazard | 1499 | [1499-front-mission-gun-hazard.json](./1499-front-mission-gun-hazard.json) |
 | Front Office Card Games: Up and Down the River | 67995 | [67995-front-office-card-games-up-and-down-the-river.json](./67995-front-office-card-games-up-and-down-the-river.json) |
 | Front Office Football | 92050 | [92050-front-office-football.json](./92050-front-office-football.json) |
