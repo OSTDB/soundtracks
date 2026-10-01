@@ -676,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yousei Rasutaru-chan to no hibi | 223009 | [223009-yousei-rasutaru-chan-to-no-hibi.json](./223009-yousei-rasutaru-chan-to-no-hibi.json) |
 | Yousei Shou Meikyuu: Fairies Odyssey | 406307 | [406307-yousei-shou-meikyuu-fairies-odyssey.json](./406307-yousei-shou-meikyuu-fairies-odyssey.json) |
 | Youso Warriors | 166208 | [166208-youso-warriors.json](./166208-youso-warriors.json) |
+| YouTD 2 | 383589 | [383589-youtd-2.json](./383589-youtd-2.json) |
 | Youth Feather | 121705 | [121705-youth-feather.json](./121705-youth-feather.json) |
 | Youthink? | 102775 | [102775-youthink.json](./102775-youthink.json) |
 | YouTube: Missile Command | 337716 | [337716-youtube-missile-command.json](./337716-youtube-missile-command.json) |
