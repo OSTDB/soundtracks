@@ -1753,6 +1753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recreational Dreaming | 83574 | [83574-recreational-dreaming.json](./83574-recreational-dreaming.json) |
 | Recreational Warfare | 251182 | [251182-recreational-warfare.json](./251182-recreational-warfare.json) |
 | Recrew! | 176823 | [176823-recrew.json](./176823-recrew.json) |
+| Recruit & Adventure | 380614 | [380614-recruit-and-adventure.json](./380614-recruit-and-adventure.json) |
 | Recruit One | 157707 | [157707-recruit-one.json](./157707-recruit-one.json) |
 | Recruits | 16626 | [16626-recruits.json](./16626-recruits.json) |
 | Rectangle Guy | 215905 | [215905-rectangle-guy.json](./215905-rectangle-guy.json) |
