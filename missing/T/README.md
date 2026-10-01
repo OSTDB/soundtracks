@@ -4957,6 +4957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grinch: Christmas Adventures - Determined to Love Christmas | 370830 | [370830-the-grinch-christmas-adventures-determined-to-love-christmas.json](./370830-the-grinch-christmas-adventures-determined-to-love-christmas.json) |
 | The Grinch: Christmas Adventures - Merry & Mischievous Edition | 370827 | [370827-the-grinch-christmas-adventures-merry-and-mischievous-edition.json](./370827-the-grinch-christmas-adventures-merry-and-mischievous-edition.json) |
 | The Grinding of Teeth | 271852 | [271852-the-grinding-of-teeth.json](./271852-the-grinding-of-teeth.json) |
+| The Grindstone | 369169 | [369169-the-grindstone.json](./369169-the-grindstone.json) |
 | The Grip Games PS Vita Collection | 99795 | [99795-the-grip-games-ps-vita-collection.json](./99795-the-grip-games-ps-vita-collection.json) |
 | The Grizzled: Armistice Digital | 215744 | [215744-the-grizzled-armistice-digital.json](./215744-the-grizzled-armistice-digital.json) |
 | The Ground Division | 139398 | [139398-the-ground-division.json](./139398-the-ground-division.json) |
@@ -5500,6 +5501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Salad | 230302 | [230302-the-jumping-salad.json](./230302-the-jumping-salad.json) |
 | The Jumping Salad: Turbo | 230304 | [230304-the-jumping-salad-turbo.json](./230304-the-jumping-salad-turbo.json) |
 | The Jumping Soda: Turbo | 205079 | [205079-the-jumping-soda-turbo.json](./205079-the-jumping-soda-turbo.json) |
+| The Jumping Strawberry | 369179 | [369179-the-jumping-strawberry.json](./369179-the-jumping-strawberry.json) |
 | The Jumping Sushi | 210666 | [210666-the-jumping-sushi.json](./210666-the-jumping-sushi.json) |
 | The Jumping Sushi: Turbo | 210749 | [210749-the-jumping-sushi-turbo.json](./210749-the-jumping-sushi-turbo.json) |
 | The Jumping Taco | 205240 | [205240-the-jumping-taco.json](./205240-the-jumping-taco.json) |
@@ -7472,6 +7474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rise of Chubtan | 34631 | [34631-the-rise-of-chubtan.json](./34631-the-rise-of-chubtan.json) |
 | The Rise of the Dough | 301901 | [301901-the-rise-of-the-dough.json](./301901-the-rise-of-the-dough.json) |
 | The Rise of the Golden Idol | 279614 | [279614-the-rise-of-the-golden-idol.json](./279614-the-rise-of-the-golden-idol.json) |
+| The Rise of the Hero | 369186 | [369186-the-rise-of-the-hero.json](./369186-the-rise-of-the-hero.json) |
 | The Rise of Tianling Sect | 369584 | [369584-the-rise-of-tianling-sect.json](./369584-the-rise-of-tianling-sect.json) |
 | The Risen Survival | 236787 | [236787-the-risen-survival.json](./236787-the-risen-survival.json) |
 | The Risers | 101336 | [101336-the-risers.json](./101336-the-risers.json) |
@@ -11975,6 +11978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's The Division: Parade Pack | 242572 | [242572-tom-clancys-the-division-parade-pack.json](./242572-tom-clancys-the-division-parade-pack.json) |
 | Tom Clancy's The Division: Survival | 19551 | [19551-tom-clancys-the-division-survival.json](./19551-tom-clancys-the-division-survival.json) |
 | Tom Cruise's Kissing History | 317036 | [317036-tom-cruises-kissing-history.json](./317036-tom-cruises-kissing-history.json) |
+| Tom Dahl | 369151 | [369151-tom-dahl.json](./369151-tom-dahl.json) |
 | Tom Landry Strategy Football: Deluxe Edition | 400255 | [400255-tom-landry-strategy-football-deluxe-edition.json](./400255-tom-landry-strategy-football-deluxe-edition.json) |
 | Tom Mason's Dinosaurs for Hire | 46252 | [46252-tom-masons-dinosaurs-for-hire.json](./46252-tom-masons-dinosaurs-for-hire.json) |
 | Tom Steal the Meal | 228100 | [228100-tom-steal-the-meal.json](./228100-tom-steal-the-meal.json) |
@@ -14471,6 +14475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tree of Knowledge | 392138 | [392138-tree-of-knowledge.json](./392138-tree-of-knowledge.json) |
 | Tree of Life 2 | 140472 | [140472-tree-of-life-2.json](./140472-tree-of-life-2.json) |
 | Tree of Life: Yggdrasil | 82159 | [82159-tree-of-life-yggdrasil.json](./82159-tree-of-life-yggdrasil.json) |
+| Tree of Sacrifice | 369147 | [369147-tree-of-sacrifice.json](./369147-tree-of-sacrifice.json) |
 | Tree of Savior DB | 50483 | [50483-tree-of-savior-db.json](./50483-tree-of-savior-db.json) |
 | Tree of Savior: Neo | 349296 | [349296-tree-of-savior-neo.json](./349296-tree-of-savior-neo.json) |
 | Tree of Savior: Neverland | 327392 | [327392-tree-of-savior-neverland.json](./327392-tree-of-savior-neverland.json) |
