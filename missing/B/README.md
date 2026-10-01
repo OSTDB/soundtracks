@@ -160,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back | 309502 | [309502-back.json](./309502-back.json) |
 | Back & Forth 2 | 263586 | [263586-back-and-forth-2.json](./263586-back-and-forth-2.json) |
 | Back 2 School | 192417 | [192417-back-2-school.json](./192417-back-2-school.json) |
+| Back 3: Spooky | 359535 | [359535-back-3-spooky.json](./359535-back-3-spooky.json) |
 | Back 4 Blood: Annual Pass | 293917 | [293917-back-4-blood-annual-pass.json](./293917-back-4-blood-annual-pass.json) |
 | Back 4 Blood: Children of the Worm | 215136 | [215136-back-4-blood-children-of-the-worm.json](./215136-back-4-blood-children-of-the-worm.json) |
 | Back 4 Blood: Day One Steelbook Edition | 252174 | [252174-back-4-blood-day-one-steelbook-edition.json](./252174-back-4-blood-day-one-steelbook-edition.json) |
@@ -879,6 +880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Loco | 372021 | [372021-banana-loco.json](./372021-banana-loco.json) |
 | Banana Man | 15658 | [15658-banana-man.json](./15658-banana-man.json) |
 | Banana Massacre | 338193 | [338193-banana-massacre.json](./338193-banana-massacre.json) |
+| Banana Ninja vs. 100 Mann | 359568 | [359568-banana-ninja-vs-100-mann.json](./359568-banana-ninja-vs-100-mann.json) |
 | Banana Party | 390008 | [390008-banana-party.json](./390008-banana-party.json) |
 | Banana Quest | 222847 | [222847-banana-quest.json](./222847-banana-quest.json) |
 | Banana Ranch | 303267 | [303267-banana-ranch.json](./303267-banana-ranch.json) |
@@ -2713,6 +2715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Become a pig | 205244 | [205244-become-a-pig.json](./205244-become-a-pig.json) |
 | Become Barista! | 349520 | [349520-become-barista.json](./349520-become-barista.json) |
 | Become Castellane in Another World | 290501 | [290501-become-castellane-in-another-world.json](./290501-become-castellane-in-another-world.json) |
+| Become Deity | 359544 | [359544-become-deity.json](./359544-become-deity.json) |
 | Become Prey 2: Of Everlasting Sin | 181298 | [181298-become-prey-2-of-everlasting-sin.json](./181298-become-prey-2-of-everlasting-sin.json) |
 | Becoming a King | 348457 | [348457-becoming-a-king.json](./348457-becoming-a-king.json) |
 | Becoming a Legend: New Advent | 403671 | [403671-becoming-a-legend-new-advent.json](./403671-becoming-a-legend-new-advent.json) |
