@@ -2737,6 +2737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overmind | 327180 | [327180-overmind.json](./327180-overmind.json) |
 | Overmortal | 262900 | [262900-overmortal.json](./262900-overmortal.json) |
 | OverNight | 207512 | [207512-overnight.json](./207512-overnight.json) |
+| Overnight Interview | 376024 | [376024-overnight-interview.json](./376024-overnight-interview.json) |
 | Overnight Watch | 311589 | [311589-overnight-watch.json](./311589-overnight-watch.json) |
 | Overpass 2: Career Starter Pack | 271283 | [271283-overpass-2-career-starter-pack.json](./271283-overpass-2-career-starter-pack.json) |
 | Overpass 2: Deluxe Edition | 269331 | [269331-overpass-2-deluxe-edition.json](./269331-overpass-2-deluxe-edition.json) |
