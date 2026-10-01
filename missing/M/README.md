@@ -2932,6 +2932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maxi Trucks Racing | 366212 | [366212-maxi-trucks-racing.json](./366212-maxi-trucks-racing.json) |
 | MaxiGolf | 102594 | [102594-maxigolf.json](./102594-maxigolf.json) |
 | Maxim | 369217 | [369217-maxim.json](./369217-maxim.json) |
+| Maxima: Keepers of the 2nd Law | 348377 | [348377-maxima-keepers-of-the-2nd-law.json](./348377-maxima-keepers-of-the-2nd-law.json) |
 | Maximal Mahjongg | 94235 | [94235-maximal-mahjongg.json](./94235-maximal-mahjongg.json) |
 | Maximo vs. Army of Zin | 43642 | [43642-maximo-vs-army-of-zin.json](./43642-maximo-vs-army-of-zin.json) |
 | Maximum Action | 92784 | [92784-maximum-action.json](./92784-maximum-action.json) |
@@ -3188,9 +3189,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meat Beating: No More Horny | 156640 | [156640-meat-beating-no-more-horny.json](./156640-meat-beating-no-more-horny.json) |
 | Meat Boy | 92427 | [92427-meat-boy.json](./92427-meat-boy.json) |
 | Meat Cleaver Mutilator | 125258 | [125258-meat-cleaver-mutilator.json](./125258-meat-cleaver-mutilator.json) |
+| Meat Fest | 348370 | [348370-meat-fest.json](./348370-meat-fest.json) |
 | Meat Girl | 325619 | [325619-meat-girl.json](./325619-meat-girl.json) |
 | Meat Gone Wrong | 376038 | [376038-meat-gone-wrong.json](./376038-meat-gone-wrong.json) |
 | Meat Grinder | 391149 | [391149-meat-grinder.json](./391149-meat-grinder.json) |
+| Meat Grinder: First Cut | 348384 | [348384-meat-grinder-first-cut.json](./348384-meat-grinder-first-cut.json) |
 | Meat Madness | 226171 | [226171-meat-madness.json](./226171-meat-madness.json) |
 | Meat Room | 349853 | [349853-meat-room.json](./349853-meat-room.json) |
 | Meat Shift | 181895 | [181895-meat-shift.json](./181895-meat-shift.json) |
@@ -4419,6 +4422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merchants & Mercenaries | 30846 | [30846-merchants-and-mercenaries.json](./30846-merchants-and-mercenaries.json) |
 | Merchants of Kaidan | 17288 | [17288-merchants-of-kaidan.json](./17288-merchants-of-kaidan.json) |
 | Merchants of Sol | 207380 | [207380-merchants-of-sol.json](./207380-merchants-of-sol.json) |
+| Merchants of the Stars | 348404 | [348404-merchants-of-the-stars.json](./348404-merchants-of-the-stars.json) |
 | Merciful Girl | 223957 | [223957-merciful-girl.json](./223957-merciful-girl.json) |
 | Merciless Podium | 86897 | [86897-merciless-podium.json](./86897-merciless-podium.json) |
 | Mercs | 105329 | [105329-mercs.json](./105329-mercs.json) |
@@ -8295,6 +8299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mosaique Neko Waifus 2 | 167808 | [167808-mosaique-neko-waifus-2.json](./167808-mosaique-neko-waifus-2.json) |
 | Mosaique Neko Waifus 4 | 167809 | [167809-mosaique-neko-waifus-4.json](./167809-mosaique-neko-waifus-4.json) |
 | Mosaique Neko Waifus 5 | 221206 | [221206-mosaique-neko-waifus-5.json](./221206-mosaique-neko-waifus-5.json) |
+| Moscow Metro Wars | 348415 | [348415-moscow-metro-wars.json](./348415-moscow-metro-wars.json) |
 | Moscow Rush | 120765 | [120765-moscow-rush.json](./120765-moscow-rush.json) |
 | Moscow to Berlin: Red Siege | 20541 | [20541-moscow-to-berlin-red-siege.json](./20541-moscow-to-berlin-red-siege.json) |
 | Moses: Old Testament Adventure #1 | 100018 | [100018-moses-old-testament-adventure-1.json](./100018-moses-old-testament-adventure-1.json) |
@@ -9249,6 +9254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushihimesama Ver 1.5 | 65500 | [65500-mushihimesama-ver-1-5.json](./65500-mushihimesama-ver-1-5.json) |
 | Mushiking: King of the Beetles | 80223 | [80223-mushiking-king-of-the-beetles.json](./80223-mushiking-king-of-the-beetles.json) |
 | Mushiverse: Online Boardgame | 309446 | [309446-mushiverse-online-boardgame.json](./309446-mushiverse-online-boardgame.json) |
+| Mushroam | 348387 | [348387-mushroam.json](./348387-mushroam.json) |
 | Mushroom Card RPG | 219818 | [219818-mushroom-card-rpg.json](./219818-mushroom-card-rpg.json) |
 | Mushroom Challenge | 169755 | [169755-mushroom-challenge.json](./169755-mushroom-challenge.json) |
 | Mushroom Crusher Extreme | 32155 | [32155-mushroom-crusher-extreme.json](./32155-mushroom-crusher-extreme.json) |
@@ -9481,6 +9487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Business | 152154 | [152154-my-business.json](./152154-my-business.json) |
 | My Butler | 32274 | [32274-my-butler.json](./32274-my-butler.json) |
 | My Cake Shop HD | 104607 | [104607-my-cake-shop-hd.json](./104607-my-cake-shop-hd.json) |
+| My Camp of Memories | 348388 | [348388-my-camp-of-memories.json](./348388-my-camp-of-memories.json) |
 | My Candy Love: High School Life | 186654 | [186654-my-candy-love-high-school-life.json](./186654-my-candy-love-high-school-life.json) |
 | My Candy Love: University Life | 186655 | [186655-my-candy-love-university-life.json](./186655-my-candy-love-university-life.json) |
 | My Cannibal Family | 404918 | [404918-my-cannibal-family.json](./404918-my-cannibal-family.json) |
