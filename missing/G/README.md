@@ -2050,6 +2050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ginnung | 224238 | [224238-ginnung.json](./224238-ginnung.json) |
 | Ginsei Igo 2: Next Generation | 194456 | [194456-ginsei-igo-2-next-generation.json](./194456-ginsei-igo-2-next-generation.json) |
 | Ginsei Igo 3D | 222301 | [222301-ginsei-igo-3d.json](./222301-ginsei-igo-3d.json) |
+| Ginsei Igo: AI Teaches You How to Play Go | 366974 | [366974-ginsei-igo-ai-teaches-you-how-to-play-go.json](./366974-ginsei-igo-ai-teaches-you-how-to-play-go.json) |
 | Ginsei Igo: Next Generation | 83454 | [83454-ginsei-igo-next-generation.json](./83454-ginsei-igo-next-generation.json) |
 | Ginsei Shogi: Aun Toushin Kongou Raizan | 219024 | [219024-ginsei-shogi-aun-toushin-kongou-raizan.json](./219024-ginsei-shogi-aun-toushin-kongou-raizan.json) |
 | Ginsei Shogi: Kyoutendo Toufuu Raijin | 56159 | [56159-ginsei-shogi-kyoutendo-toufuu-raijin.json](./56159-ginsei-shogi-kyoutendo-toufuu-raijin.json) |
@@ -2497,6 +2498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GNU Sudoku 64 | 264098 | [264098-gnu-sudoku-64.json](./264098-gnu-sudoku-64.json) |
 | Gnubbl | 370720 | [370720-gnubbl.json](./370720-gnubbl.json) |
 | Gnumz: Arcane Power | 103877 | [103877-gnumz-arcane-power.json](./103877-gnumz-arcane-power.json) |
+| Gnyaz | 366977 | [366977-gnyaz.json](./366977-gnyaz.json) |
 | Go | 13722 | [13722-go.json](./13722-go.json) |
 | Go | 218000 | [218000-go.json](./218000-go.json) |
 | Go 3D | 68624 | [68624-go-3d.json](./68624-go-3d.json) |
@@ -3596,6 +3598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Chase | 7496 | [7496-grand-chase.json](./7496-grand-chase.json) |
 | Grand Chase Classic | 166856 | [166856-grand-chase-classic.json](./166856-grand-chase-classic.json) |
 | Grand City Car Driving | 219808 | [219808-grand-city-car-driving.json](./219808-grand-city-car-driving.json) |
+| Grand Crime Miami | 366950 | [366950-grand-crime-miami.json](./366950-grand-crime-miami.json) |
 | Grand Cross W | 193860 | [193860-grand-cross-w.json](./193860-grand-cross-w.json) |
 | Grand Dad Overthrows Bowser | 238208 | [238208-grand-dad-overthrows-bowser.json](./238208-grand-dad-overthrows-bowser.json) |
 | Grand Fleet | 71221 | [71221-grand-fleet.json](./71221-grand-fleet.json) |
