@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kakutou Ryouri Densetsu Bistro Recipe: Kettou Bistgarm-hen | 228570 | [228570-kakutou-ryouri-densetsu-bistro-recipe-kettou-bistgarm-hen.json](./228570-kakutou-ryouri-densetsu-bistro-recipe-kettou-bistgarm-hen.json) |
 | Kakwitene VR | 118806 | [118806-kakwitene-vr.json](./118806-kakwitene-vr.json) |
 | Kakyuusei 2 | 330548 | [330548-kakyuusei-2.json](./330548-kakyuusei-2.json) |
+| Kakyuusei Remake | 385824 | [385824-kakyuusei-remake.json](./385824-kakyuusei-remake.json) |
 | Kal | 391591 | [391591-kal.json](./391591-kal.json) |
 | Kalah | 121727 | [121727-kalah.json](./121727-kalah.json) |
 | Kalaha | 369645 | [369645-kalaha.json](./369645-kalaha.json) |
@@ -1710,6 +1711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingyo Chuuihou! 2 Gyopi-chan wo Sagase! | 194939 | [194939-kingyo-chuuihou-2-gyopi-chan-wo-sagase.json](./194939-kingyo-chuuihou-2-gyopi-chan-wo-sagase.json) |
 | Kingyo Chuuihou! Tobidase! Game Gakuen | 37959 | [37959-kingyo-chuuihou-tobidase-game-gakuen.json](./37959-kingyo-chuuihou-tobidase-game-gakuen.json) |
 | Kingyo Chuuihou! Wapiko no Waku-waku Stamp Rally | 194938 | [194938-kingyo-chuuihou-wapiko-no-waku-waku-stamp-rally.json](./194938-kingyo-chuuihou-wapiko-no-waku-waku-stamp-rally.json) |
+| Kingyo Chuuihou!: Gyopi-chan Mikke | 385785 | [385785-kingyo-chuuihou-gyopi-chan-mikke.json](./385785-kingyo-chuuihou-gyopi-chan-mikke.json) |
 | Kiniro Mosaic Memories | 202390 | [202390-kiniro-mosaic-memories.json](./202390-kiniro-mosaic-memories.json) |
 | Kiniro no Corda 2 | 57703 | [57703-kiniro-no-corda-2.json](./57703-kiniro-no-corda-2.json) |
 | Kiniro no Corda 2: Encore | 57704 | [57704-kiniro-no-corda-2-encore.json](./57704-kiniro-no-corda-2-encore.json) |
