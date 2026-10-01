@@ -317,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Defense | 269008 | [269008-halloween-defense.json](./269008-halloween-defense.json) |
 | Halloween Escape | 160159 | [160159-halloween-escape.json](./160159-halloween-escape.json) |
 | Halloween Experience 3: GGen | 295556 | [295556-halloween-experience-3-ggen.json](./295556-halloween-experience-3-ggen.json) |
+| Halloween Ghost Grabbers | 379001 | [379001-halloween-ghost-grabbers.json](./379001-halloween-ghost-grabbers.json) |
 | Halloween Girls | 373750 | [373750-halloween-girls.json](./373750-halloween-girls.json) |
 | Halloween Harem | 398450 | [398450-halloween-harem.json](./398450-halloween-harem.json) |
 | Halloween Harry in Zombie Wars | 93057 | [93057-halloween-harry-in-zombie-wars.json](./93057-halloween-harry-in-zombie-wars.json) |
@@ -2183,6 +2184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HenPri | 322740 | [322740-henpri.json](./322740-henpri.json) |
 | Henri | 222521 | [222521-henri.json](./222521-henri.json) |
 | Henry | 80642 | [80642-henry.json](./80642-henry.json) |
+| Henry Stickmin: Defending the Mall | 378979 | [378979-henry-stickmin-defending-the-mall.json](./378979-henry-stickmin-defending-the-mall.json) |
 | Henry Stickmin: Escaping the Prison | 140712 | [140712-henry-stickmin-escaping-the-prison.json](./140712-henry-stickmin-escaping-the-prison.json) |
 | Henry Stickmin: Fleeing the Complex | 145664 | [145664-henry-stickmin-fleeing-the-complex.json](./145664-henry-stickmin-fleeing-the-complex.json) |
 | Henry, What Have You Done? | 180751 | [180751-henry-what-have-you-done.json](./180751-henry-what-have-you-done.json) |
@@ -4058,10 +4060,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hole io & Helix Jump | 315836 | [315836-hole-io-and-helix-jump.json](./315836-hole-io-and-helix-jump.json) |
 | Hole io: Ancient DLC | 309081 | [309081-hole-io-ancient-dlc.json](./309081-hole-io-ancient-dlc.json) |
 | Hole io: Animals DLC | 263554 | [263554-hole-io-animals-dlc.json](./263554-hole-io-animals-dlc.json) |
+| Hole io: Blossom Edition | 378958 | [378958-hole-io-blossom-edition.json](./378958-hole-io-blossom-edition.json) |
 | Hole io: Complete Edition | 268563 | [268563-hole-io-complete-edition.json](./268563-hole-io-complete-edition.json) |
 | Hole io: Construction DLC | 380392 | [380392-hole-io-construction-dlc.json](./380392-hole-io-construction-dlc.json) |
 | Hole io: Freak Edition | 275051 | [275051-hole-io-freak-edition.json](./275051-hole-io-freak-edition.json) |
 | Hole io: Freaks DLC | 263555 | [263555-hole-io-freaks-dlc.json](./263555-hole-io-freaks-dlc.json) |
+| Hole io: Japan DLC | 378969 | [378969-hole-io-japan-dlc.json](./378969-hole-io-japan-dlc.json) |
 | Hole io: Red Planet DLC | 263556 | [263556-hole-io-red-planet-dlc.json](./263556-hole-io-red-planet-dlc.json) |
 | Hole Land | 40348 | [40348-hole-land.json](./40348-hole-land.json) |
 | Hole-In-One Miniature Golf | 70979 | [70979-hole-in-one-miniature-golf.json](./70979-hole-in-one-miniature-golf.json) |
