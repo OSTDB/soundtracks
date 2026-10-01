@@ -2970,6 +2970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kusari Kingdom | 190974 | [190974-kusari-kingdom.json](./190974-kusari-kingdom.json) |
 | Kusarihime: Euthanasia | 138804 | [138804-kusarihime-euthanasia.json](./138804-kusarihime-euthanasia.json) |
 | Kusarihime: Jamais Vu | 331686 | [331686-kusarihime-jamais-vu.json](./331686-kusarihime-jamais-vu.json) |
+| Kuso Game Girl Wateri | 335483 | [335483-kuso-game-girl-wateri.json](./335483-kuso-game-girl-wateri.json) |
 | Kusok | 261533 | [261533-kusok.json](./261533-kusok.json) |
 | Kutar's Athletic World | 340040 | [340040-kutars-athletic-world.json](./340040-kutars-athletic-world.json) |
 | Kutsushita Nyanko: Kutsushita o Haita Neko to Kurashi Hajime Mashita | 130723 | [130723-kutsushita-nyanko-kutsushita-o-haita-neko-to-kurashi-hajime-mashita.json](./130723-kutsushita-nyanko-kutsushita-o-haita-neko-to-kurashi-hajime-mashita.json) |
@@ -2986,6 +2987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kwark | 270137 | [270137-kwark.json](./270137-kwark.json) |
 | Kwark: Online and Multiplayer | 298129 | [298129-kwark-online-and-multiplayer.json](./298129-kwark-online-and-multiplayer.json) |
 | Kwartikum | 387654 | [387654-kwartikum.json](./387654-kwartikum.json) |
+| Kwiks | 335519 | [335519-kwiks.json](./335519-kwiks.json) |
 | KWRPG | 323967 | [323967-kwrpg.json](./323967-kwrpg.json) |
 | KWRPG Platformer Online | 323968 | [323968-kwrpg-platformer-online.json](./323968-kwrpg-platformer-online.json) |
 | KWRPGIII | 323922 | [323922-kwrpgiii.json](./323922-kwrpgiii.json) |
