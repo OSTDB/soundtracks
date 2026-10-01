@@ -900,6 +900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lawnmower Game: Pinball | 384069 | [384069-lawnmower-game-pinball.json](./384069-lawnmower-game-pinball.json) |
 | Lawnmower Game: Space Fight | 188954 | [188954-lawnmower-game-space-fight.json](./188954-lawnmower-game-space-fight.json) |
 | Lawnmower Game: Space Race | 225605 | [225605-lawnmower-game-space-race.json](./225605-lawnmower-game-space-race.json) |
+| Lawnmower Game: Survival | 334244 | [334244-lawnmower-game-survival.json](./334244-lawnmower-game-survival.json) |
 | Lawnmower Maniac | 385874 | [385874-lawnmower-maniac.json](./385874-lawnmower-maniac.json) |
 | Lawnmower Runner | 398505 | [398505-lawnmower-runner.json](./398505-lawnmower-runner.json) |
 | LawnMower: Mortal Race | 219284 | [219284-lawnmower-mortal-race.json](./219284-lawnmower-mortal-race.json) |
@@ -2058,6 +2059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liam's Journey | 211686 | [211686-liams-journey.json](./211686-liams-journey.json) |
 | Liàn yǔ wèi xiē zhī yǔ | 367448 | [367448-lian-yu-wei-xie-zhi-yu.json](./367448-lian-yu-wei-xie-zhi-yu.json) |
 | Lianhai Billiards Club | 216785 | [216785-lianhai-billiards-club.json](./216785-lianhai-billiards-club.json) |
+| Liar Game | 334328 | [334328-liar-game.json](./334328-liar-game.json) |
 | Liar Liar | 124675 | [124675-liar-liar.json](./124675-liar-liar.json) |
 | Liar Liar 2 | 124677 | [124677-liar-liar-2.json](./124677-liar-liar-2.json) |
 | Liar Liar 2 | 303246 | [303246-liar-liar-2.json](./303246-liar-liar-2.json) |
@@ -4563,6 +4565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucy Dreaming | 144920 | [144920-lucy-dreaming.json](./144920-lucy-dreaming.json) |
 | Lucy Gorbalm Is Missing | 393163 | [393163-lucy-gorbalm-is-missing.json](./393163-lucy-gorbalm-is-missing.json) |
 | Lucy Half Lucid | 408169 | [408169-lucy-half-lucid.json](./408169-lucy-half-lucid.json) |
+| Lucy's Adventure | 334349 | [334349-lucys-adventure.json](./334349-lucys-adventure.json) |
 | Lucy's Expedition | 209399 | [209399-lucys-expedition.json](./209399-lucys-expedition.json) |
 | Lucy's Heaven | 226176 | [226176-lucys-heaven.json](./226176-lucys-heaven.json) |
 | Lucy's Journey | 258735 | [258735-lucys-journey.json](./258735-lucys-journey.json) |
