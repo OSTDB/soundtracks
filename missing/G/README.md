@@ -2718,6 +2718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Slayer | 335853 | [335853-goblin-slayer.json](./335853-goblin-slayer.json) |
 | Goblin Slayer Another Adventurer: Nightmare Feast | 230618 | [230618-goblin-slayer-another-adventurer-nightmare-feast.json](./230618-goblin-slayer-another-adventurer-nightmare-feast.json) |
 | Goblin Squad - Total Division | 116293 | [116293-goblin-squad-total-division.json](./116293-goblin-squad-total-division.json) |
+| Goblin Storm | 337772 | [337772-goblin-storm.json](./337772-goblin-storm.json) |
 | Goblin Storm | 76705 | [76705-goblin-storm.json](./76705-goblin-storm.json) |
 | Goblin Survivors | 261783 | [261783-goblin-survivors.json](./261783-goblin-survivors.json) |
 | Goblin Sushi | 361792 | [361792-goblin-sushi.json](./361792-goblin-sushi.json) |
@@ -3401,6 +3402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goreagulation | 223461 | [223461-goreagulation.json](./223461-goreagulation.json) |
 | Goreball | 122348 | [122348-goreball.json](./122348-goreball.json) |
 | Goremon | 249224 | [249224-goremon.json](./249224-goremon.json) |
+| Gorepunk | 337747 | [337747-gorepunk.json](./337747-gorepunk.json) |
 | Gorescript | 28889 | [28889-gorescript.json](./28889-gorescript.json) |
 | Gorescript Classic | 81424 | [81424-gorescript-classic.json](./81424-gorescript-classic.json) |
 | Gorf | 282064 | [282064-gorf.json](./282064-gorf.json) |
