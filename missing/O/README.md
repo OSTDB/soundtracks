@@ -1456,6 +1456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Online Open World RPG | 234078 | [234078-online-open-world-rpg.json](./234078-online-open-world-rpg.json) |
 | Online Retro Tennis | 156702 | [156702-online-retro-tennis.json](./156702-online-retro-tennis.json) |
 | Online Simulator | 119698 | [119698-online-simulator.json](./119698-online-simulator.json) |
+| Online World Drifting Championships | 373672 | [373672-online-world-drifting-championships.json](./373672-online-world-drifting-championships.json) |
 | Online: 404 | 403155 | [403155-online-404.json](./403155-online-404.json) |
 | OnlineCTR | 313093 | [313093-onlinectr.json](./313093-onlinectr.json) |
 | Only After | 117129 | [117129-only-after.json](./117129-only-after.json) |
