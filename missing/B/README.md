@@ -1412,6 +1412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bart Bash | 350404 | [350404-bart-bash.json](./350404-bart-bash.json) |
 | Bart Bike Fun | 365247 | [365247-bart-bike-fun.json](./365247-bart-bike-fun.json) |
 | Bart Bird | 26935 | [26935-bart-bird.json](./26935-bart-bird.json) |
+| Bart SimpSon Rambo Dwarf | 343927 | [343927-bart-simpson-rambo-dwarf.json](./343927-bart-simpson-rambo-dwarf.json) |
 | Bart Simpson vs. Dragon Ball | 365245 | [365245-bart-simpson-vs-dragon-ball.json](./365245-bart-simpson-vs-dragon-ball.json) |
 | Bart's Nightmare Redux | 219272 | [219272-barts-nightmare-redux.json](./219272-barts-nightmare-redux.json) |
 | Bartender Hustle | 153899 | [153899-bartender-hustle.json](./153899-bartender-hustle.json) |
@@ -1629,6 +1630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bat Blitz | 248323 | [248323-bat-blitz.json](./248323-bat-blitz.json) |
 | Bat Cage | 319570 | [319570-bat-cage.json](./319570-bat-cage.json) |
 | Bat Egg | 165556 | [165556-bat-egg.json](./165556-bat-egg.json) |
+| Bat Fizz | 343936 | [343936-bat-fizz.json](./343936-bat-fizz.json) |
 | Bat Galaxy | 326779 | [326779-bat-galaxy.json](./326779-bat-galaxy.json) |
 | Bat Hero | 236388 | [236388-bat-hero.json](./236388-bat-hero.json) |
 | Bat Lizard Bonanza | 186176 | [186176-bat-lizard-bonanza.json](./186176-bat-lizard-bonanza.json) |
