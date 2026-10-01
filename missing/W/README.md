@@ -3221,6 +3221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wiznwar Pinball Bundle | 381804 | [381804-wiznwar-pinball-bundle.json](./381804-wiznwar-pinball-bundle.json) |
 | Wizordum | 216197 | [216197-wizordum.json](./216197-wizordum.json) |
 | Wiztern | 194298 | [194298-wiztern.json](./194298-wiztern.json) |
+| Wiztyle | 370841 | [370841-wiztyle.json](./370841-wiztyle.json) |
 | WizUp! | 290917 | [290917-wizup.json](./290917-wizup.json) |
 | Wizwag | 304014 | [304014-wizwag.json](./304014-wizwag.json) |
 | WizzBall | 81221 | [81221-wizzball.json](./81221-wizzball.json) |
@@ -4067,6 +4068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War Robot | 180713 | [180713-world-war-robot.json](./180713-world-war-robot.json) |
 | World War Toons: Tank Arena VR | 230241 | [230241-world-war-toons-tank-arena-vr.json](./230241-world-war-toons-tank-arena-vr.json) |
 | World War Touch | 174333 | [174333-world-war-touch.json](./174333-world-war-touch.json) |
+| World War V: Last Call | 370839 | [370839-world-war-v-last-call.json](./370839-world-war-v-last-call.json) |
 | World War Z | 115272 | [115272-world-war-z.json](./115272-world-war-z.json) |
 | World War Z: Aftermath - Deluxe Edition | 169203 | [169203-world-war-z-aftermath-deluxe-edition.json](./169203-world-war-z-aftermath-deluxe-edition.json) |
 | World War Z: Desert Defenders Weapons Pack | 332044 | [332044-world-war-z-desert-defenders-weapons-pack.json](./332044-world-war-z-desert-defenders-weapons-pack.json) |
