@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakuza Kiss | 104130 | [104130-yakuza-kiss.json](./104130-yakuza-kiss.json) |
 | Yakuza Kiwami & Yakuza Kiwami 2 Bundle | 370796 | [370796-yakuza-kiwami-and-yakuza-kiwami-2-bundle.json](./370796-yakuza-kiwami-and-yakuza-kiwami-2-bundle.json) |
 | Yakuza Kiwami 2 | 55090 | [55090-yakuza-kiwami-2.json](./55090-yakuza-kiwami-2.json) |
+| Yakuza Kiwami 3 & Dark Ties: Deluxe Edition | 370826 | [370826-yakuza-kiwami-3-and-dark-ties-deluxe-edition.json](./370826-yakuza-kiwami-3-and-dark-ties-deluxe-edition.json) |
 | Yakuza Kiwami 3 & Dark Ties: Flip Phone Customization Pack | 375193 | [375193-yakuza-kiwami-3-and-dark-ties-flip-phone-customization-pack.json](./375193-yakuza-kiwami-3-and-dark-ties-flip-phone-customization-pack.json) |
 | Yakuza Kiwami 3 & Dark Ties: Legendary BGM CD Pack | 375194 | [375194-yakuza-kiwami-3-and-dark-ties-legendary-bgm-cd-pack.json](./375194-yakuza-kiwami-3-and-dark-ties-legendary-bgm-cd-pack.json) |
 | Yakuza Kiwami 3 & Dark Ties: Legendary Lads & Gals Set | 375195 | [375195-yakuza-kiwami-3-and-dark-ties-legendary-lads-and-gals-set.json](./375195-yakuza-kiwami-3-and-dark-ties-legendary-lads-and-gals-set.json) |
@@ -908,6 +909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yumemi Melancholy | 222994 | [222994-yumemi-melancholy.json](./222994-yumemi-melancholy.json) |
 | Yumemidori Nostalgia | 147272 | [147272-yumemidori-nostalgia.json](./147272-yumemidori-nostalgia.json) |
 | Yumemiru Sepia | 383609 | [383609-yumemiru-sepia.json](./383609-yumemiru-sepia.json) |
+| Yumeochi no Melme | 370853 | [370853-yumeochi-no-melme.json](./370853-yumeochi-no-melme.json) |
 | Yumeria | 63934 | [63934-yumeria.json](./63934-yumeria.json) |
 | YumeSD | 202345 | [202345-yumesd.json](./202345-yumesd.json) |
 | Yumeutsutsu Re:Master | 109602 | [109602-yumeutsutsu-re-master.json](./109602-yumeutsutsu-re-master.json) |
