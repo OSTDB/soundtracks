@@ -9348,6 +9348,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theatrhythm Dragon Quest | 60767 | [60767-theatrhythm-dragon-quest.json](./60767-theatrhythm-dragon-quest.json) |
 | Theatrhythm Final Fantasy: Curtain Call - Collector's Edition | 89895 | [89895-theatrhythm-final-fantasy-curtain-call-collectors-edition.json](./89895-theatrhythm-final-fantasy-curtain-call-collectors-edition.json) |
 | Theatrhythm Final Fantasy: Curtain Call - Limited Edition | 89894 | [89894-theatrhythm-final-fantasy-curtain-call-limited-edition.json](./89894-theatrhythm-final-fantasy-curtain-call-limited-edition.json) |
+| Theatrhythm Final Fantasy: Curtain Call - Orlandeau Character | 354552 | [354552-theatrhythm-final-fantasy-curtain-call-orlandeau-character.json](./354552-theatrhythm-final-fantasy-curtain-call-orlandeau-character.json) |
+| Theatrhythm Final Fantasy: Curtain Call - Vincent Character | 354551 | [354551-theatrhythm-final-fantasy-curtain-call-vincent-character.json](./354551-theatrhythm-final-fantasy-curtain-call-vincent-character.json) |
+| Theatrhythm Final Fantasy: Curtain Call - Yuffie Character | 354550 | [354550-theatrhythm-final-fantasy-curtain-call-yuffie-character.json](./354550-theatrhythm-final-fantasy-curtain-call-yuffie-character.json) |
 | Theatrhythm: Final Bar Line - Bravely Default Pack | 268538 | [268538-theatrhythm-final-bar-line-bravely-default-pack.json](./268538-theatrhythm-final-bar-line-bravely-default-pack.json) |
 | Theatrhythm: Final Bar Line - Chrono Pack | 354543 | [354543-theatrhythm-final-bar-line-chrono-pack.json](./354543-theatrhythm-final-bar-line-chrono-pack.json) |
 | Theatrhythm: Final Bar Line - Chrono: Pack Vol. 2 | 252701 | [252701-theatrhythm-final-bar-line-chrono-pack-vol-2.json](./252701-theatrhythm-final-bar-line-chrono-pack-vol-2.json) |
@@ -12424,6 +12427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Topoloco | 84946 | [84946-topoloco.json](./84946-topoloco.json) |
 | Topper | 42169 | [42169-topper.json](./42169-topper.json) |
 | Topper Carrier | 152830 | [152830-topper-carrier.json](./152830-topper-carrier.json) |
+| Topper the Copper | 354597 | [354597-topper-the-copper.json](./354597-topper-the-copper.json) |
 | Toppl. | 174219 | [174219-toppl.json](./174219-toppl.json) |
 | Topple | 93973 | [93973-topple.json](./93973-topple.json) |
 | Topple Adventure | 214490 | [214490-topple-adventure.json](./214490-topple-adventure.json) |
@@ -13639,6 +13643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 5: Expert DB BR 101 & IC Steuerwagen Loco Add-On | 359978 | [359978-train-sim-world-5-expert-db-br-101-and-ic-steuerwagen-loco-add-on.json](./359978-train-sim-world-5-expert-db-br-101-and-ic-steuerwagen-loco-add-on.json) |
 | Train Sim World 5: FlixTrain BR 193 Vectron Loco Add-On | 360157 | [360157-train-sim-world-5-flixtrain-br-193-vectron-loco-add-on.json](./360157-train-sim-world-5-flixtrain-br-193-vectron-loco-add-on.json) |
 | Train Sim World 5: Frankfurt - Fulda: Kinzigtalbahn Route Add-On | 360160 | [360160-train-sim-world-5-frankfurt-fulda-kinzigtalbahn-route-add-on.json](./360160-train-sim-world-5-frankfurt-fulda-kinzigtalbahn-route-add-on.json) |
+| Train Sim World 5: Frankfurt S-Bahn: S1, S8 & S9 Route Add-On | 354560 | [354560-train-sim-world-5-frankfurt-s-bahn-s1-s8-and-s9-route-add-on.json](./354560-train-sim-world-5-frankfurt-s-bahn-s1-s8-and-s9-route-add-on.json) |
 | Train Sim World 5: German Regional Edition | 320762 | [320762-train-sim-world-5-german-regional-edition.json](./320762-train-sim-world-5-german-regional-edition.json) |
 | Train Sim World 5: Glossop Line: Manchester - Hadfield & Glossop Route Add-On | 359495 | [359495-train-sim-world-5-glossop-line-manchester-hadfield-and-glossop-route-add-on.json](./359495-train-sim-world-5-glossop-line-manchester-hadfield-and-glossop-route-add-on.json) |
 | Train Sim World 5: Harlem Line: Grand Central Terminal - North White Plains Route Add-On | 359501 | [359501-train-sim-world-5-harlem-line-grand-central-terminal-north-white-plains-route-add-on.json](./359501-train-sim-world-5-harlem-line-grand-central-terminal-north-white-plains-route-add-on.json) |
@@ -13657,7 +13662,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 5: ScotRail BR Class 158 Sprinter DMU Add-On | 359487 | [359487-train-sim-world-5-scotrail-br-class-158-sprinter-dmu-add-on.json](./359487-train-sim-world-5-scotrail-br-class-158-sprinter-dmu-add-on.json) |
 | Train Sim World 5: ScotRail Express: Edinburgh - Glasgow Route Add-On | 359488 | [359488-train-sim-world-5-scotrail-express-edinburgh-glasgow-route-add-on.json](./359488-train-sim-world-5-scotrail-express-edinburgh-glasgow-route-add-on.json) |
 | Train Sim World 5: Southern BR Class 313 EMU | 359484 | [359484-train-sim-world-5-southern-br-class-313-emu.json](./359484-train-sim-world-5-southern-br-class-313-emu.json) |
+| Train Sim World 5: Spoorlijn Zwolle - Groningen Route Add-On | 354563 | [354563-train-sim-world-5-spoorlijn-zwolle-groningen-route-add-on.json](./354563-train-sim-world-5-spoorlijn-zwolle-groningen-route-add-on.json) |
 | Train Sim World 5: Thameslink BR Class 700/0 EMU Add-On | 359485 | [359485-train-sim-world-5-thameslink-br-class-700-0-emu-add-on.json](./359485-train-sim-world-5-thameslink-br-class-700-0-emu-add-on.json) |
+| Train Sim World 5: Thomas & Friends 80th Anniversary Expansion | 354562 | [354562-train-sim-world-5-thomas-and-friends-80th-anniversary-expansion.json](./354562-train-sim-world-5-thomas-and-friends-80th-anniversary-expansion.json) |
+| Train Sim World 5: Thomas & Friends Visit the West Somerset Railway | 354561 | [354561-train-sim-world-5-thomas-and-friends-visit-the-west-somerset-railway.json](./354561-train-sim-world-5-thomas-and-friends-visit-the-west-somerset-railway.json) |
 | Train Sim World 5: West Coast Main Line: London Euston - Milton Keynes Route Add-On | 360158 | [360158-train-sim-world-5-west-coast-main-line-london-euston-milton-keynes-route-add-on.json](./360158-train-sim-world-5-west-coast-main-line-london-euston-milton-keynes-route-add-on.json) |
 | Train Sim World 5: West Coast Main Line: Preston - Carlisle | 402357 | [402357-train-sim-world-5-west-coast-main-line-preston-carlisle.json](./402357-train-sim-world-5-west-coast-main-line-preston-carlisle.json) |
 | Train Sim World 5: West Cornwall Local: Penzance - St Austell & St Ives Route | 359494 | [359494-train-sim-world-5-west-cornwall-local-penzance-st-austell-and-st-ives-route.json](./359494-train-sim-world-5-west-cornwall-local-penzance-st-austell-and-st-ives-route.json) |
@@ -13804,6 +13812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator Classic: U-Bahn Hamburg U1 - Norderstedt Mitte - Ohlstedt & Großhansdorf Route Add-On | 357294 | [357294-train-simulator-classic-u-bahn-hamburg-u1-norderstedt-mitte-ohlstedt-and-gro-hansdorf-route-add-on.json](./357294-train-simulator-classic-u-bahn-hamburg-u1-norderstedt-mitte-ohlstedt-and-gro-hansdorf-route-add-on.json) |
 | Train Simulator Classic: Wasatch Grade Scenario Pack 01 | 243375 | [243375-train-simulator-classic-wasatch-grade-scenario-pack-01.json](./243375-train-simulator-classic-wasatch-grade-scenario-pack-01.json) |
 | Train Simulator Classic: Western Maryland H-9 Class | 253432 | [253432-train-simulator-classic-western-maryland-h-9-class.json](./253432-train-simulator-classic-western-maryland-h-9-class.json) |
+| Train Simulator Classic: Wien - St. Pölten Route Add-On | 354564 | [354564-train-simulator-classic-wien-st-polten-route-add-on.json](./354564-train-simulator-classic-wien-st-polten-route-add-on.json) |
 | Train Simulator Classic: Zacens Wagon Pack | 293394 | [293394-train-simulator-classic-zacens-wagon-pack.json](./293394-train-simulator-classic-zacens-wagon-pack.json) |
 | Train Simulator Classic: Zcs VTG Wagon Pack | 293395 | [293395-train-simulator-classic-zcs-vtg-wagon-pack.json](./293395-train-simulator-classic-zcs-vtg-wagon-pack.json) |
 | Train Simulator: China Railways CR400BF | 253450 | [253450-train-simulator-china-railways-cr400bf.json](./253450-train-simulator-china-railways-cr400bf.json) |
