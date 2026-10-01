@@ -836,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramp Bike Jumping | 215117 | [215117-ramp-bike-jumping.json](./215117-ramp-bike-jumping.json) |
 | Ramp Car Jumping | 147852 | [147852-ramp-car-jumping.json](./147852-ramp-car-jumping.json) |
 | Rampage | 3055 | [3055-rampage.json](./3055-rampage.json) |
+| Rampage | 374778 | [374778-rampage.json](./374778-rampage.json) |
 | Rampage Agents | 262298 | [262298-rampage-agents.json](./262298-rampage-agents.json) |
 | Rampage of the Dead | 105355 | [105355-rampage-of-the-dead.json](./105355-rampage-of-the-dead.json) |
 | Rampage Rowing | 316415 | [316415-rampage-rowing.json](./316415-rampage-rowing.json) |
@@ -4831,6 +4832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Heroes | 61120 | [61120-rogue-heroes.json](./61120-rogue-heroes.json) |
 | Rogue Heroes: Ruins of Tasos | 137985 | [137985-rogue-heroes-ruins-of-tasos.json](./137985-rogue-heroes-ruins-of-tasos.json) |
 | Rogue Hex | 243806 | [243806-rogue-hex.json](./243806-rogue-hex.json) |
+| Rogue Inferno | 374783 | [374783-rogue-inferno.json](./374783-rogue-inferno.json) |
 | Rogue Islands | 32073 | [32073-rogue-islands.json](./32073-rogue-islands.json) |
 | Rogue Jungle | 307949 | [307949-rogue-jungle.json](./307949-rogue-jungle.json) |
 | Rogue Kingdom | 406323 | [406323-rogue-kingdom.json](./406323-rogue-kingdom.json) |
@@ -6111,6 +6113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush Hours Collection | 283209 | [283209-rush-hours-collection.json](./283209-rush-hours-collection.json) |
 | Rush Legends | 229206 | [229206-rush-legends.json](./229206-rush-legends.json) |
 | Rush Legends PvP FPS | 231906 | [231906-rush-legends-pvp-fps.json](./231906-rush-legends-pvp-fps.json) |
+| Rush N Crash | 374782 | [374782-rush-n-crash.json](./374782-rush-n-crash.json) |
 | Rush On | 253353 | [253353-rush-on.json](./253353-rush-on.json) |
 | Rush Out | 174828 | [174828-rush-out.json](./174828-rush-out.json) |
 | Rush Rally | 242212 | [242212-rush-rally.json](./242212-rush-rally.json) |
