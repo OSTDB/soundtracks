@@ -1501,6 +1501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Heritage | 75150 | [75150-fatal-heritage.json](./75150-fatal-heritage.json) |
 | Fatal Inertia EX | 80458 | [80458-fatal-inertia-ex.json](./80458-fatal-inertia-ex.json) |
 | Fatal Labyrinth | 4496 | [4496-fatal-labyrinth.json](./4496-fatal-labyrinth.json) |
+| Fatal Pursuit | 362996 | [362996-fatal-pursuit.json](./362996-fatal-pursuit.json) |
 | Fatal Run | 12323 | [12323-fatal-run.json](./12323-fatal-run.json) |
 | Fatal Seduction | 63871 | [63871-fatal-seduction.json](./63871-fatal-seduction.json) |
 | Fatal Slash | 390785 | [390785-fatal-slash.json](./390785-fatal-slash.json) |
@@ -3131,6 +3132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Pond Simulator | 346157 | [346157-fishing-pond-simulator.json](./346157-fishing-pond-simulator.json) |
 | Fishing Pro Simulator | 389043 | [389043-fishing-pro-simulator.json](./389043-fishing-pro-simulator.json) |
 | Fishing Resort | 19929 | [19929-fishing-resort.json](./19929-fishing-resort.json) |
+| Fishing Rush | 362965 | [362965-fishing-rush.json](./362965-fishing-rush.json) |
 | Fishing Sea Adventure | 335089 | [335089-fishing-sea-adventure.json](./335089-fishing-sea-adventure.json) |
 | Fishing Sim World: Bass Pro Shops Edition | 170481 | [170481-fishing-sim-world-bass-pro-shops-edition.json](./170481-fishing-sim-world-bass-pro-shops-edition.json) |
 | Fishing Sim World: Pro Tour - Bass Pro Shops Equipment Pack | 170476 | [170476-fishing-sim-world-pro-tour-bass-pro-shops-equipment-pack.json](./170476-fishing-sim-world-pro-tour-bass-pro-shops-equipment-pack.json) |
@@ -6305,6 +6307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funko Fusion Deluxe Edition: Fantastik Plastik Pack 4 - T-Bone + El Diablo (Retails Only) | 378882 | [378882-funko-fusion-deluxe-edition-fantastik-plastik-pack-4-t-bone-el-diablo-retails-only.json](./378882-funko-fusion-deluxe-edition-fantastik-plastik-pack-4-t-bone-el-diablo-retails-only.json) |
 | Funko Fusion: Back to the Future Outfits Pack | 323398 | [323398-funko-fusion-back-to-the-future-outfits-pack.json](./323398-funko-fusion-back-to-the-future-outfits-pack.json) |
 | Funko Fusion: Bob Ross Pack | 323400 | [323400-funko-fusion-bob-ross-pack.json](./323400-funko-fusion-bob-ross-pack.json) |
+| Funko Fusion: Deluxe Edition | 362964 | [362964-funko-fusion-deluxe-edition.json](./362964-funko-fusion-deluxe-edition.json) |
 | Funko Fusion: Invincible Pack | 323320 | [323320-funko-fusion-invincible-pack.json](./323320-funko-fusion-invincible-pack.json) |
 | Funko Fusion: Sun Wukong | 323397 | [323397-funko-fusion-sun-wukong.json](./323397-funko-fusion-sun-wukong.json) |
 | Funko Fusion: Team Fortress 2 Pack | 323394 | [323394-funko-fusion-team-fortress-2-pack.json](./323394-funko-fusion-team-fortress-2-pack.json) |
