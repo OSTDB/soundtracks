@@ -1432,6 +1432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juiced | 5870 | [5870-juiced.json](./5870-juiced.json) |
 | Juiced 2: Hot Import Nights | 380445 | [380445-juiced-2-hot-import-nights.json](./380445-juiced-2-hot-import-nights.json) |
 | Juiced 2: Hot Import Nights | 7024 | [7024-juiced-2-hot-import-nights.json](./7024-juiced-2-hot-import-nights.json) |
+| Juiced Fruit Racing | 369719 | [369719-juiced-fruit-racing.json](./369719-juiced-fruit-racing.json) |
 | Juiced! | 133349 | [133349-juiced.json](./133349-juiced.json) |
 | Juicy Ass | 264114 | [264114-juicy-ass.json](./264114-juicy-ass.json) |
 | Juicy Blast | 346158 | [346158-juicy-blast.json](./346158-juicy-blast.json) |
