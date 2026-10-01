@@ -355,6 +355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wángguó de Mófǎ Zhànzhēng | 163831 | [163831-wangguo-de-mofa-zhanzheng.json](./163831-wangguo-de-mofa-zhanzheng.json) |
 | Wani Wani Attack | 210896 | [210896-wani-wani-attack.json](./210896-wani-wani-attack.json) |
 | Waning Crescent | 381214 | [381214-waning-crescent.json](./381214-waning-crescent.json) |
+| Waning Flowers of a World Eternal: The Rainbow Appears After Flowering Rain | 339324 | [339324-waning-flowers-of-a-world-eternal-the-rainbow-appears-after-flowering-rain.json](./339324-waning-flowers-of-a-world-eternal-the-rainbow-appears-after-flowering-rain.json) |
 | Wanking Simulator | 122993 | [122993-wanking-simulator.json](./122993-wanking-simulator.json) |
 | Wankuru | 242769 | [242769-wankuru.json](./242769-wankuru.json) |
 | Wanna B Wonka? Crazy Candy Creation Game | 373553 | [373553-wanna-b-wonka-crazy-candy-creation-game.json](./373553-wanna-b-wonka-crazy-candy-creation-game.json) |
