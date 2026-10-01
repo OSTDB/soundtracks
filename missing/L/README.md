@@ -4578,6 +4578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminaria: Dark Echoes | 278450 | [278450-luminaria-dark-echoes.json](./278450-luminaria-dark-echoes.json) |
 | Luminas: Parasite Reign | 377204 | [377204-luminas-parasite-reign.json](./377204-luminas-parasite-reign.json) |
 | Luminastadt | 295258 | [295258-luminastadt.json](./295258-luminastadt.json) |
+| Luminaya | 372640 | [372640-luminaya.json](./372640-luminaya.json) |
 | LumineNight | 263034 | [263034-luminenight.json](./263034-luminenight.json) |
 | Lumines Arise: Digital Deluxe Edition | 363530 | [363530-lumines-arise-digital-deluxe-edition.json](./363530-lumines-arise-digital-deluxe-edition.json) |
 | Lumines Live! | 4691 | [4691-lumines-live.json](./4691-lumines-live.json) |
