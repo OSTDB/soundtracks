@@ -897,6 +897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OmniSword | 82155 | [82155-omnisword.json](./82155-omnisword.json) |
 | Omnivael: Chronicles of the realm | 274763 | [274763-omnivael-chronicles-of-the-realm.json](./274763-omnivael-chronicles-of-the-realm.json) |
 | Omniwar | 109168 | [109168-omniwar.json](./109168-omniwar.json) |
+| Omnn | 338304 | [338304-omnn.json](./338304-omnn.json) |
 | Omno | 111661 | [111661-omno.json](./111661-omno.json) |
 | OmOchim | 415098 | [415098-omochim.json](./415098-omochim.json) |
 | Omoi o Sasageru Otome no Melody | 82496 | [82496-omoi-o-sasageru-otome-no-melody.json](./82496-omoi-o-sasageru-otome-no-melody.json) |
