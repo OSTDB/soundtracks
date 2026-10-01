@@ -98,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacuum Pilot | 160254 | [160254-vacuum-pilot.json](./160254-vacuum-pilot.json) |
 | Vacuum Story | 204537 | [204537-vacuum-story.json](./204537-vacuum-story.json) |
 | Vacuumania | 94334 | [94334-vacuumania.json](./94334-vacuumania.json) |
+| Vade Retro Satana | 366360 | [366360-vade-retro-satana.json](./366360-vade-retro-satana.json) |
 | Vade Retro: Exorcist | 216492 | [216492-vade-retro-exorcist.json](./216492-vade-retro-exorcist.json) |
 | Vader Immortal: A Star Wars VR Series | 125987 | [125987-vader-immortal-a-star-wars-vr-series.json](./125987-vader-immortal-a-star-wars-vr-series.json) |
 | Vader Immortal: Episode II | 122633 | [122633-vader-immortal-episode-ii.json](./122633-vader-immortal-episode-ii.json) |
@@ -1320,6 +1321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Succubus | 194447 | [194447-virtual-succubus.json](./194447-virtual-succubus.json) |
 | Virtual Surgeon: Open Heart | 69239 | [69239-virtual-surgeon-open-heart.json](./69239-virtual-surgeon-open-heart.json) |
 | Virtual Table Tennis Ping Pong | 104622 | [104622-virtual-table-tennis-ping-pong.json](./104622-virtual-table-tennis-ping-pong.json) |
+| Virtual Taekwondo | 366358 | [366358-virtual-taekwondo.json](./366358-virtual-taekwondo.json) |
 | Virtual Temple: Order of the Golden Dawn | 51919 | [51919-virtual-temple-order-of-the-golden-dawn.json](./51919-virtual-temple-order-of-the-golden-dawn.json) |
 | Virtual Ties Isekaijoucho Träumerei | 376085 | [376085-virtual-ties-isekaijoucho-traumerei.json](./376085-virtual-ties-isekaijoucho-traumerei.json) |
 | Virtual Towers Online | 112273 | [112273-virtual-towers-online.json](./112273-virtual-towers-online.json) |
