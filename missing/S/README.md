@@ -2953,6 +2953,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Doll K-Pop Idol | 243155 | [243155-sex-doll-k-pop-idol.json](./243155-sex-doll-k-pop-idol.json) |
 | Sex Dorm | 349868 | [349868-sex-dorm.json](./349868-sex-dorm.json) |
 | Sex Education | 322714 | [322714-sex-education.json](./322714-sex-education.json) |
+| Sex Game - BDSM - Episode 4 | 382395 | [382395-sex-game-bdsm-episode-4.json](./382395-sex-game-bdsm-episode-4.json) |
+| Sex Game - Gay Affair - Episode 4 | 382394 | [382394-sex-game-gay-affair-episode-4.json](./382394-sex-game-gay-affair-episode-4.json) |
+| Sex Game - Naughty Couple - Episode 7 | 382393 | [382393-sex-game-naughty-couple-episode-7.json](./382393-sex-game-naughty-couple-episode-7.json) |
+| Sex Game - Naughty Couple - Episode 8 | 382388 | [382388-sex-game-naughty-couple-episode-8.json](./382388-sex-game-naughty-couple-episode-8.json) |
+| Sex Game - Naughty Girls - Episode 7 | 382391 | [382391-sex-game-naughty-girls-episode-7.json](./382391-sex-game-naughty-girls-episode-7.json) |
+| Sex Game - Naughty Girls - Episode 8 | 382389 | [382389-sex-game-naughty-girls-episode-8.json](./382389-sex-game-naughty-girls-episode-8.json) |
+| Sex Game - Threesome - Episode 5 | 382385 | [382385-sex-game-threesome-episode-5.json](./382385-sex-game-threesome-episode-5.json) |
+| Sex Game - Threesome - Episode 6 | 382392 | [382392-sex-game-threesome-episode-6.json](./382392-sex-game-threesome-episode-6.json) |
+| Sex Game: Gay Affair - Episode 2 | 382383 | [382383-sex-game-gay-affair-episode-2.json](./382383-sex-game-gay-affair-episode-2.json) |
 | Sex Game: Naughty Couple - Episode 5 | 375267 | [375267-sex-game-naughty-couple-episode-5.json](./375267-sex-game-naughty-couple-episode-5.json) |
 | Sex Game: Naughty Couple - Episode 6 | 375272 | [375272-sex-game-naughty-couple-episode-6.json](./375272-sex-game-naughty-couple-episode-6.json) |
 | Sex Game: Naughty Girls - Episode 5 | 375270 | [375270-sex-game-naughty-girls-episode-5.json](./375270-sex-game-naughty-girls-episode-5.json) |
@@ -4508,6 +4517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Show do Milhão Volume 2 | 122333 | [122333-show-do-milhao-volume-2.json](./122333-show-do-milhao-volume-2.json) |
 | Show do Milhão Volume 3 | 122362 | [122362-show-do-milhao-volume-3.json](./122362-show-do-milhao-volume-3.json) |
 | Show do Milho Grande | 359981 | [359981-show-do-milho-grande.json](./359981-show-do-milho-grande.json) |
+| Show Guts | 382372 | [382372-show-guts.json](./382372-show-guts.json) |
 | Show It 2 Me | 81216 | [81216-show-it-2-me.json](./81216-show-it-2-me.json) |
 | Show Jumping | 93178 | [93178-show-jumping.json](./93178-show-jumping.json) |
 | Show Me How To Live | 303064 | [303064-show-me-how-to-live.json](./303064-show-me-how-to-live.json) |
@@ -9387,6 +9397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Rider | 94865 | [94865-space-rider.json](./94865-space-rider.json) |
 | Space Robinson | 111807 | [111807-space-robinson.json](./111807-space-robinson.json) |
 | Space Robot | 46895 | [46895-space-robot.json](./46895-space-robot.json) |
+| Space Rock Breaker | 382412 | [382412-space-rock-breaker.json](./382412-space-rock-breaker.json) |
 | Space Rocket | 81601 | [81601-space-rocket.json](./81601-space-rocket.json) |
 | Space Rocket Adventurers | 61155 | [61155-space-rocket-adventurers.json](./61155-space-rocket-adventurers.json) |
 | Space Rockets: Spaceship Rocket Simulator | 232180 | [232180-space-rockets-spaceship-rocket-simulator.json](./232180-space-rockets-spaceship-rocket-simulator.json) |
@@ -13067,6 +13078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strawberry Nauts: Complete Limited Edition | 172586 | [172586-strawberry-nauts-complete-limited-edition.json](./172586-strawberry-nauts-complete-limited-edition.json) |
 | Strawberry Note 3 | 343324 | [343324-strawberry-note-3.json](./343324-strawberry-note-3.json) |
 | Strawberry Park | 312732 | [312732-strawberry-park.json](./312732-strawberry-park.json) |
+| Strawberry Quest | 382370 | [382370-strawberry-quest.json](./382370-strawberry-quest.json) |
 | Strawberry Shortcake: Berry Rush | 259535 | [259535-strawberry-shortcake-berry-rush.json](./259535-strawberry-shortcake-berry-rush.json) |
 | Strawberry Shortcake: Summertime Adventure - Special Edition | 49501 | [49501-strawberry-shortcake-summertime-adventure-special-edition.json](./49501-strawberry-shortcake-summertime-adventure-special-edition.json) |
 | Strawberry Shortcake: Sweet Dreams | 49366 | [49366-strawberry-shortcake-sweet-dreams.json](./49366-strawberry-shortcake-sweet-dreams.json) |
@@ -13090,6 +13102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StrayDoll Conflict | 156005 | [156005-straydoll-conflict.json](./156005-straydoll-conflict.json) |
 | Strayed | 248912 | [248912-strayed.json](./248912-strayed.json) |
 | Strayed Lights: Deluxe Edition | 244793 | [244793-strayed-lights-deluxe-edition.json](./244793-strayed-lights-deluxe-edition.json) |
+| Strayed: 404 Not Found Skin Pack | 382417 | [382417-strayed-404-not-found-skin-pack.json](./382417-strayed-404-not-found-skin-pack.json) |
 | Strayed: America Skin Pack | 382426 | [382426-strayed-america-skin-pack.json](./382426-strayed-america-skin-pack.json) |
 | Strayed: Christmas Skin Pack | 382427 | [382427-strayed-christmas-skin-pack.json](./382427-strayed-christmas-skin-pack.json) |
 | Strayed: Dinkleberg Rock Skin | 382420 | [382420-strayed-dinkleberg-rock-skin.json](./382420-strayed-dinkleberg-rock-skin.json) |
@@ -13102,8 +13115,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strayed: Pumpkin Helmet | 382429 | [382429-strayed-pumpkin-helmet.json](./382429-strayed-pumpkin-helmet.json) |
 | Strayed: Pumpkin Rock & Skull Torch Pack | 382433 | [382433-strayed-pumpkin-rock-and-skull-torch-pack.json](./382433-strayed-pumpkin-rock-and-skull-torch-pack.json) |
 | Strayed: Snowman Helmet Skin | 382428 | [382428-strayed-snowman-helmet-skin.json](./382428-strayed-snowman-helmet-skin.json) |
+| Strayed: Summer Food Pack | 382418 | [382418-strayed-summer-food-pack.json](./382418-strayed-summer-food-pack.json) |
 | Strayed: Sundown Pack | 382430 | [382430-strayed-sundown-pack.json](./382430-strayed-sundown-pack.json) |
 | Strayed: Sweet Tooth Revolver Skin | 382422 | [382422-strayed-sweet-tooth-revolver-skin.json](./382422-strayed-sweet-tooth-revolver-skin.json) |
+| Strayed: Toon Revolver | 382419 | [382419-strayed-toon-revolver.json](./382419-strayed-toon-revolver.json) |
 | Strays of Rage | 341679 | [341679-strays-of-rage.json](./341679-strays-of-rage.json) |
 | Strays POV Tales | 403727 | [403727-strays-pov-tales.json](./403727-strays-pov-tales.json) |
 | Strazeal | 121483 | [121483-strazeal.json](./121483-strazeal.json) |
@@ -13487,6 +13502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stuart Little: Big City Adventures | 208356 | [208356-stuart-little-big-city-adventures.json](./208356-stuart-little-big-city-adventures.json) |
 | Stuart Little: His Adventures in Numberland | 208357 | [208357-stuart-little-his-adventures-in-numberland.json](./208357-stuart-little-his-adventures-in-numberland.json) |
 | Stuart Little: The Journey Home | 49884 | [49884-stuart-little-the-journey-home.json](./49884-stuart-little-the-journey-home.json) |
+| Stubborn Shibas | 382408 | [382408-stubborn-shibas.json](./382408-stubborn-shibas.json) |
 | Stuck at Home | 71004 | [71004-stuck-at-home.json](./71004-stuck-at-home.json) |
 | Stuck in the Present | 348763 | [348763-stuck-in-the-present.json](./348763-stuck-in-the-present.json) |
 | Stuck Like a Stone | 276731 | [276731-stuck-like-a-stone.json](./276731-stuck-like-a-stone.json) |
@@ -14090,6 +14106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summon Quest | 291980 | [291980-summon-quest.json](./291980-summon-quest.json) |
 | Summon The Dudes! | 339480 | [339480-summon-the-dudes.json](./339480-summon-the-dudes.json) |
 | Summon, then build an invincible harem | 216870 | [216870-summon-then-build-an-invincible-harem.json](./216870-summon-then-build-an-invincible-harem.json) |
+| Summona Realm: The Secret Flame | 382366 | [382366-summona-realm-the-secret-flame.json](./382366-summona-realm-the-secret-flame.json) |
 | Summoned by a Magic Goddess | 206152 | [206152-summoned-by-a-magic-goddess.json](./206152-summoned-by-a-magic-goddess.json) |
 | Summoneer | 285556 | [285556-summoneer.json](./285556-summoneer.json) |
 | Summoner Apprentice | 158572 | [158572-summoner-apprentice.json](./158572-summoner-apprentice.json) |
@@ -15100,6 +15117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Sunshine Arcade 2 | 213038 | [213038-super-mario-sunshine-arcade-2.json](./213038-super-mario-sunshine-arcade-2.json) |
 | Super Mario Sunshine in Super Mario 64 | 235173 | [235173-super-mario-sunshine-in-super-mario-64.json](./235173-super-mario-sunshine-in-super-mario-64.json) |
 | Super Mario Surf | 324094 | [324094-super-mario-surf.json](./324094-super-mario-surf.json) |
+| Super Mario Timeless Rendezvous | 382413 | [382413-super-mario-timeless-rendezvous.json](./382413-super-mario-timeless-rendezvous.json) |
 | Super Mario Treasure World | 368158 | [368158-super-mario-treasure-world.json](./368158-super-mario-treasure-world.json) |
 | Super Mario Turd Collection | 322698 | [322698-super-mario-turd-collection.json](./322698-super-mario-turd-collection.json) |
 | Super Mario Unlimited Deluxe | 256778 | [256778-super-mario-unlimited-deluxe.json](./256778-super-mario-unlimited-deluxe.json) |
@@ -15584,6 +15602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Spin | 216310 | [216310-super-spin.json](./216310-super-spin.json) |
 | Super Splash League | 361780 | [361780-super-splash-league.json](./361780-super-splash-league.json) |
 | Super Splatters | 9696 | [9696-super-splatters.json](./9696-super-splatters.json) |
+| Super SpongeBob 2 | 382398 | [382398-super-spongebob-2.json](./382398-super-spongebob-2.json) |
 | Super SpongeBob Kart | 42203 | [42203-super-spongebob-kart.json](./42203-super-spongebob-kart.json) |
 | Super Sportmatchen | 97963 | [97963-super-sportmatchen.json](./97963-super-sportmatchen.json) |
 | Super Sports Surgery | 40843 | [40843-super-sports-surgery.json](./40843-super-sports-surgery.json) |
@@ -16481,6 +16500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Office | 212191 | [212191-sweet-office.json](./212191-sweet-office.json) |
 | Sweet Pensiveness Christmas | 176257 | [176257-sweet-pensiveness-christmas.json](./176257-sweet-pensiveness-christmas.json) |
 | Sweet Pet | 392913 | [392913-sweet-pet.json](./392913-sweet-pet.json) |
+| Sweet Pirate | 382397 | [382397-sweet-pirate.json](./382397-sweet-pirate.json) |
 | Sweet Princess Prom Night | 87613 | [87613-sweet-princess-prom-night.json](./87613-sweet-princess-prom-night.json) |
 | Sweet Racing Girl | 339445 | [339445-sweet-racing-girl.json](./339445-sweet-racing-girl.json) |
 | Sweet Restaurant | 368561 | [368561-sweet-restaurant.json](./368561-sweet-restaurant.json) |
