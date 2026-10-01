@@ -1798,6 +1798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Hostel | 359070 | [359070-cat-hostel.json](./359070-cat-hostel.json) |
 | Cat in Rain | 320764 | [320764-cat-in-rain.json](./320764-cat-in-rain.json) |
 | Cat in the Box | 132754 | [132754-cat-in-the-box.json](./132754-cat-in-the-box.json) |
+| Cat Isle | 371378 | [371378-cat-isle.json](./371378-cat-isle.json) |
 | Cat Jigsaw Puzzle Games | 241325 | [241325-cat-jigsaw-puzzle-games.json](./241325-cat-jigsaw-puzzle-games.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 1 | 263200 | [263200-cat-jigsaw-puzzle-games-expansion-pack-1.json](./263200-cat-jigsaw-puzzle-games-expansion-pack-1.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 10 | 241324 | [241324-cat-jigsaw-puzzle-games-expansion-pack-10.json](./241324-cat-jigsaw-puzzle-games-expansion-pack-10.json) |
@@ -2254,6 +2255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caves, Canyons & Crevices | 271774 | [271774-caves-canyons-and-crevices.json](./271774-caves-canyons-and-crevices.json) |
 | Cavescape | 317012 | [317012-cavescape.json](./317012-cavescape.json) |
 | Caveshifter | 216759 | [216759-caveshifter.json](./216759-caveshifter.json) |
+| Cavesleeper | 371372 | [371372-cavesleeper.json](./371372-cavesleeper.json) |
 | Cavesweeper | 103816 | [103816-cavesweeper.json](./103816-cavesweeper.json) |
 | Caveworks | 383522 | [383522-caveworks.json](./383522-caveworks.json) |
 | Cavy Chronicles | 281984 | [281984-cavy-chronicles.json](./281984-cavy-chronicles.json) |
@@ -5690,6 +5692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloristic | 134426 | [134426-coloristic.json](./134426-coloristic.json) |
 | Colorize | 380079 | [380079-colorize.json](./380079-colorize.json) |
 | Colorize ASMR | 303051 | [303051-colorize-asmr.json](./303051-colorize-asmr.json) |
+| Colorizing: Daydream | 371420 | [371420-colorizing-daydream.json](./371420-colorizing-daydream.json) |
 | Colorizing: Good Times | 317233 | [317233-colorizing-good-times.json](./317233-colorizing-good-times.json) |
 | Colorizing: Pleasure | 411811 | [411811-colorizing-pleasure.json](./411811-colorizing-pleasure.json) |
 | Colorizing: Satisfaction | 351225 | [351225-colorizing-satisfaction.json](./351225-colorizing-satisfaction.json) |
@@ -6530,6 +6533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Convenience Stories | 197791 | [197791-convenience-stories.json](./197791-convenience-stories.json) |
 | Convenient | 217010 | [217010-convenient.json](./217010-convenient.json) |
 | Convenient Encounters | 236501 | [236501-convenient-encounters.json](./236501-convenient-encounters.json) |
+| Convent Chronicles: Revelation | 371397 | [371397-convent-chronicles-revelation.json](./371397-convent-chronicles-revelation.json) |
 | Convent Of Magical Chambers | 404962 | [404962-convent-of-magical-chambers.json](./404962-convent-of-magical-chambers.json) |
 | Conventional Vampires | 301407 | [301407-conventional-vampires.json](./301407-conventional-vampires.json) |
 | Convergence | 380086 | [380086-convergence.json](./380086-convergence.json) |
@@ -8740,10 +8744,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystant | 392154 | [392154-crystant.json](./392154-crystant.json) |
 | Crystaura Purge Plan | 339345 | [339345-crystaura-purge-plan.json](./339345-crystaura-purge-plan.json) |
 | Cryste: the Faith of Fire Vol.1 | 28870 | [28870-cryste-the-faith-of-fire-vol-1.json](./28870-cryste-the-faith-of-fire-vol-1.json) |
+| Cryzon Part1 | 371419 | [371419-cryzon-part1.json](./371419-cryzon-part1.json) |
 | Cryzon Part4 | 394384 | [394384-cryzon-part4.json](./394384-cryzon-part4.json) |
 | CS Diamantes Pipas: Kite Game | 339348 | [339348-cs-diamantes-pipas-kite-game.json](./339348-cs-diamantes-pipas-kite-game.json) |
 | CS Manager | 404337 | [404337-cs-manager.json](./404337-cs-manager.json) |
 | CS Pipas: Legend | 391713 | [391713-cs-pipas-legend.json](./391713-cs-pipas-legend.json) |
+| CS-VR | 371401 | [371401-cs-vr.json](./371401-cs-vr.json) |
 | CSC | 339346 | [339346-csc.json](./339346-csc.json) |
 | CSC \| Space MMO | 118419 | [118419-csc-space-mmo.json](./118419-csc-space-mmo.json) |
 | CSI: Crime Scene Investigation - Deadly Intent: The Hidden Cases | 197873 | [197873-csi-crime-scene-investigation-deadly-intent-the-hidden-cases.json](./197873-csi-crime-scene-investigation-deadly-intent-the-hidden-cases.json) |
