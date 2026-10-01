@@ -2110,6 +2110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reel Fishing: Ocean Challenge | 85574 | [85574-reel-fishing-ocean-challenge.json](./85574-reel-fishing-ocean-challenge.json) |
 | Reel Gold | 263473 | [263473-reel-gold.json](./263473-reel-gold.json) |
 | Reel Greed | 401749 | [401749-reel-greed.json](./401749-reel-greed.json) |
+| Reel Horror | 386387 | [386387-reel-horror.json](./386387-reel-horror.json) |
 | Reel it! Ocean Fishing | 362350 | [362350-reel-it-ocean-fishing.json](./362350-reel-it-ocean-fishing.json) |
 | Reel it! World Fishing | 403749 | [403749-reel-it-world-fishing.json](./403749-reel-it-world-fishing.json) |
 | Reel Talk: A Thoughtful Fishcussion | 408172 | [408172-reel-talk-a-thoughtful-fishcussion.json](./408172-reel-talk-a-thoughtful-fishcussion.json) |
@@ -2532,6 +2533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repossession | 226180 | [226180-repossession.json](./226180-repossession.json) |
 | Reprisal Universe | 8871 | [8871-reprisal-universe.json](./8871-reprisal-universe.json) |
 | reProgram | 128633 | [128633-reprogram.json](./128633-reprogram.json) |
+| Reptile Island | 386383 | [386383-reptile-island.json](./386383-reptile-island.json) |
 | Reptile Park VR | 253863 | [253863-reptile-park-vr.json](./253863-reptile-park-vr.json) |
 | Reptile Silhouette | 361344 | [361344-reptile-silhouette.json](./361344-reptile-silhouette.json) |
 | Reptilian Rising | 153846 | [153846-reptilian-rising.json](./153846-reptilian-rising.json) |
@@ -2966,6 +2968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return of Double Dragon | 248131 | [248131-return-of-double-dragon.json](./248131-return-of-double-dragon.json) |
 | Return of Red Riding Hood: Enhanced Edition | 81243 | [81243-return-of-red-riding-hood-enhanced-edition.json](./81243-return-of-red-riding-hood-enhanced-edition.json) |
 | Return of Saiyan | 95840 | [95840-return-of-saiyan.json](./95840-return-of-saiyan.json) |
+| Return of the Demons | 386337 | [386337-return-of-the-demons.json](./386337-return-of-the-demons.json) |
 | Return of the Mutant Camels | 40961 | [40961-return-of-the-mutant-camels.json](./40961-return-of-the-mutant-camels.json) |
 | Return of the Phantom | 69869 | [69869-return-of-the-phantom.json](./69869-return-of-the-phantom.json) |
 | Return of the Saiyans | 237407 | [237407-return-of-the-saiyans.json](./237407-return-of-the-saiyans.json) |
@@ -3519,6 +3522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rideshare "Stimulator" | 411819 | [411819-rideshare-stimulator.json](./411819-rideshare-stimulator.json) |
 | Ridge Hold | 414325 | [414325-ridge-hold.json](./414325-ridge-hold.json) |
 | Ridge Racer | 225743 | [225743-ridge-racer.json](./225743-ridge-racer.json) |
+| Ridge Racer | 386354 | [386354-ridge-racer.json](./386354-ridge-racer.json) |
 | Ridge Racer 2 | 140479 | [140479-ridge-racer-2.json](./140479-ridge-racer-2.json) |
 | Ridge Racer 3D | 6871 | [6871-ridge-racer-3d.json](./6871-ridge-racer-3d.json) |
 | Ridge Racer 7 | 7441 | [7441-ridge-racer-7.json](./7441-ridge-racer-7.json) |
@@ -5989,6 +5993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runic Rogues | 413052 | [413052-runic-rogues.json](./413052-runic-rogues.json) |
 | Runic Survivor | 215909 | [215909-runic-survivor.json](./215909-runic-survivor.json) |
 | Runic Warrens | 271745 | [271745-runic-warrens.json](./271745-runic-warrens.json) |
+| Runic Winds | 386384 | [386384-runic-winds.json](./386384-runic-winds.json) |
 | Runic: Eternal Sunrise | 244781 | [244781-runic-eternal-sunrise.json](./244781-runic-eternal-sunrise.json) |
 | Runick | 193715 | [193715-runick.json](./193715-runick.json) |
 | Runimals | 361309 | [361309-runimals.json](./361309-runimals.json) |
