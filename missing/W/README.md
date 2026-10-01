@@ -2843,6 +2843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Olympic Games | 365673 | [365673-winter-olympic-games.json](./365673-winter-olympic-games.json) |
 | Winter Olympic Games | 365674 | [365674-winter-olympic-games.json](./365674-winter-olympic-games.json) |
 | Winter Olympic Games | 365676 | [365676-winter-olympic-games.json](./365676-winter-olympic-games.json) |
+| Winter Sadness Simulator | 366953 | [366953-winter-sadness-simulator.json](./366953-winter-sadness-simulator.json) |
 | Winter Shard | 125413 | [125413-winter-shard.json](./125413-winter-shard.json) |
 | Winter Sports 2011: Go for Gold | 27645 | [27645-winter-sports-2011-go-for-gold.json](./27645-winter-sports-2011-go-for-gold.json) |
 | Winter Sports 2012: Feel the Spirit | 52136 | [52136-winter-sports-2012-feel-the-spirit.json](./52136-winter-sports-2012-feel-the-spirit.json) |
@@ -4348,6 +4349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrestling Revolution 3D | 44186 | [44186-wrestling-revolution-3d.json](./44186-wrestling-revolution-3d.json) |
 | Wrestling Revolution Pro | 91987 | [91987-wrestling-revolution-pro.json](./91987-wrestling-revolution-pro.json) |
 | Wrestling Spirit 3 | 24755 | [24755-wrestling-spirit-3.json](./24755-wrestling-spirit-3.json) |
+| Wretch | 366985 | [366985-wretch.json](./366985-wretch.json) |
 | Wretch: Divine Ascent | 352750 | [352750-wretch-divine-ascent.json](./352750-wretch-divine-ascent.json) |
 | Wretched Star | 333083 | [333083-wretched-star.json](./333083-wretched-star.json) |
 | Wriggler | 46742 | [46742-wriggler.json](./46742-wriggler.json) |
