@@ -653,6 +653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Pack CD: 37 VGA Games Volume 2 | 137574 | [137574-game-pack-cd-37-vga-games-volume-2.json](./137574-game-pack-cd-37-vga-games-volume-2.json) |
 | Game Party 3 | 76982 | [76982-game-party-3.json](./76982-game-party-3.json) |
 | Game Room | 328212 | [328212-game-room.json](./328212-game-room.json) |
+| Game Room | 360634 | [360634-game-room.json](./360634-game-room.json) |
 | Game Royale 2 - The Secret of Jannis Island | 30140 | [30140-game-royale-2-the-secret-of-jannis-island.json](./30140-game-royale-2-the-secret-of-jannis-island.json) |
 | Game Set and Match 2 | 41001 | [41001-game-set-and-match-2.json](./41001-game-set-and-match-2.json) |
 | Game Shop Simulator | 381044 | [381044-game-shop-simulator.json](./381044-game-shop-simulator.json) |
@@ -4630,6 +4631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grunn | 281353 | [281353-grunn.json](./281353-grunn.json) |
 | Grunt1914 | 117398 | [117398-grunt1914.json](./117398-grunt1914.json) |
 | GSIII: Combat Flight Simulator - Heroes of the MIG Alley | 97914 | [97914-gsiii-combat-flight-simulator-heroes-of-the-mig-alley.json](./97914-gsiii-combat-flight-simulator-heroes-of-the-mig-alley.json) |
+| Gst Wars | 360711 | [360711-gst-wars.json](./360711-gst-wars.json) |
 | GT 24 | 210726 | [210726-gt-24.json](./210726-gt-24.json) |
 | GT 64: Championship Edition | 3375 | [3375-gt-64-championship-edition.json](./3375-gt-64-championship-edition.json) |
 | GT and the Evil Factory | 295856 | [295856-gt-and-the-evil-factory.json](./295856-gt-and-the-evil-factory.json) |
