@@ -2649,6 +2649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dehoarder 2 | 214509 | [214509-dehoarder-2.json](./214509-dehoarder-2.json) |
 | Dehumanized | 104054 | [104054-dehumanized.json](./104054-dehumanized.json) |
 | Dehydration | 374723 | [374723-dehydration.json](./374723-dehydration.json) |
+| Dei Agminum | 356252 | [356252-dei-agminum.json](./356252-dei-agminum.json) |
 | Deicide 3: Distorted Existence | 194293 | [194293-deicide-3-distorted-existence.json](./194293-deicide-3-distorted-existence.json) |
 | Deified | 381183 | [381183-deified.json](./381183-deified.json) |
 | Deiity | 371367 | [371367-deiity.json](./371367-deiity.json) |
@@ -5029,6 +5030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divi-Dead | 12420 | [12420-divi-dead.json](./12420-divi-dead.json) |
 | Divid[E]: D[E]Ad Letters | 396196 | [396196-divid-e-d-e-ad-letters.json](./396196-divid-e-d-e-ad-letters.json) |
 | Divide | 18364 | [18364-divide.json](./18364-divide.json) |
+| Divide and Conquer | 356229 | [356229-divide-and-conquer.json](./356229-divide-and-conquer.json) |
 | Divide By Sheep | 15924 | [15924-divide-by-sheep.json](./15924-divide-by-sheep.json) |
 | Divide et Impera | 356254 | [356254-divide-et-impera.json](./356254-divide-et-impera.json) |
 | Divided | 94762 | [94762-divided.json](./94762-divided.json) |
@@ -5332,6 +5334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodge These Asteroids | 353961 | [353961-dodge-these-asteroids.json](./353961-dodge-these-asteroids.json) |
 | Dodge This | 291512 | [291512-dodge-this.json](./291512-dodge-this.json) |
 | Dodge This VR | 282132 | [282132-dodge-this-vr.json](./282132-dodge-this-vr.json) |
+| Dodgeball Blast | 356208 | [356208-dodgeball-blast.json](./356208-dodgeball-blast.json) |
 | DodgeBall Blitz | 31842 | [31842-dodgeball-blitz.json](./31842-dodgeball-blitz.json) |
 | Dodgeball Dino Duel | 112281 | [112281-dodgeball-dino-duel.json](./112281-dodgeball-dino-duel.json) |
 | Dodgebrawl | 403171 | [403171-dodgebrawl.json](./403171-dodgebrawl.json) |
