@@ -5786,6 +5786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Research Division: Spider Unit | 408187 | [408187-combat-research-division-spider-unit.json](./408187-combat-research-division-spider-unit.json) |
 | Combat rush | 108403 | [108403-combat-rush.json](./108403-combat-rush.json) |
 | Combat School | 13509 | [13509-combat-school.json](./13509-combat-school.json) |
+| Combat Search Rescue | 375339 | [375339-combat-search-rescue.json](./375339-combat-search-rescue.json) |
 | Combat Space Journey | 192294 | [192294-combat-space-journey.json](./192294-combat-space-journey.json) |
 | Combat Spec Ops | 256887 | [256887-combat-spec-ops.json](./256887-combat-spec-ops.json) |
 | Combat Survivors | 402266 | [402266-combat-survivors.json](./402266-combat-survivors.json) |
@@ -7353,6 +7354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crabling | 244904 | [244904-crabling.json](./244904-crabling.json) |
 | CrabMania | 267665 | [267665-crabmania.json](./267665-crabmania.json) |
 | Crabs | 362816 | [362816-crabs.json](./362816-crabs.json) |
+| Crabs | 375338 | [375338-crabs.json](./375338-crabs.json) |
 | Crabs Dive In Crossway | 385830 | [385830-crabs-dive-in-crossway.json](./385830-crabs-dive-in-crossway.json) |
 | Crabs Must Die! | 373019 | [373019-crabs-must-die.json](./373019-crabs-must-die.json) |
 | Crabs! | 179118 | [179118-crabs.json](./179118-crabs.json) |
