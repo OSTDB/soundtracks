@@ -526,6 +526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karumaruka Circle: Limited Edition | 167036 | [167036-karumaruka-circle-limited-edition.json](./167036-karumaruka-circle-limited-edition.json) |
 | Karyuu Jyou | 62982 | [62982-karyuu-jyou.json](./62982-karyuu-jyou.json) |
 | Kasaba | 217369 | [217369-kasaba.json](./217369-kasaba.json) |
+| Kasama: The Awakening | 349459 | [349459-kasama-the-awakening.json](./349459-kasama-the-awakening.json) |
 | Kasane Teto and Hatsune Miku are Lesbians | 333537 | [333537-kasane-teto-and-hatsune-miku-are-lesbians.json](./333537-kasane-teto-and-hatsune-miku-are-lesbians.json) |
 | Kasei Monogatari | 122942 | [122942-kasei-monogatari.json](./122942-kasei-monogatari.json) |
 | Kaseifu Koi wa Keiyaku Kara | 238408 | [238408-kaseifu-koi-wa-keiyaku-kara.json](./238408-kaseifu-koi-wa-keiyaku-kara.json) |
@@ -585,6 +586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katekyou Hitman Reborn! DS: Flame Rumble XX - Kessen! Real 6 Chouka | 64381 | [64381-katekyou-hitman-reborn-ds-flame-rumble-xx-kessen-real-6-chouka.json](./64381-katekyou-hitman-reborn-ds-flame-rumble-xx-kessen-real-6-chouka.json) |
 | Katekyou Hitman Reborn!: Nerae!? Ring x Vongola Trainers | 305271 | [305271-katekyou-hitman-reborn-nerae-ring-x-vongola-trainers.json](./305271-katekyou-hitman-reborn-nerae-ring-x-vongola-trainers.json) |
 | Katekyou Hitman Reborn!: Ore ga Boss! Saikyou Family Taisen | 269823 | [269823-katekyou-hitman-reborn-ore-ga-boss-saikyou-family-taisen.json](./269823-katekyou-hitman-reborn-ore-ga-boss-saikyou-family-taisen.json) |
+| Kathana | 349446 | [349446-kathana.json](./349446-kathana.json) |
 | Katharsis Project | 117624 | [117624-katharsis-project.json](./117624-katharsis-project.json) |
 | Katharsis: The second act | 82366 | [82366-katharsis-the-second-act.json](./82366-katharsis-the-second-act.json) |
 | Kathy Rain 2: Soothsayer | 322691 | [322691-kathy-rain-2-soothsayer.json](./322691-kathy-rain-2-soothsayer.json) |
@@ -1946,6 +1948,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiteboarding | 304600 | [304600-kiteboarding.json](./304600-kiteboarding.json) |
 | Kiteretsu Daihyakka Bouken Ooedo Jyuraki | 271712 | [271712-kiteretsu-daihyakka-bouken-ooedo-jyuraki.json](./271712-kiteretsu-daihyakka-bouken-ooedo-jyuraki.json) |
 | Kiteretsu Daihyakka: Choujikuu Sugoroku | 37956 | [37956-kiteretsu-daihyakka-choujikuu-sugoroku.json](./37956-kiteretsu-daihyakka-choujikuu-sugoroku.json) |
+| Kiteretsu Daihyakka: Kiteretsu Toki Kyuushutsu Daisakusen Nari | 349444 | [349444-kiteretsu-daihyakka-kiteretsu-toki-kyuushutsu-daisakusen-nari.json](./349444-kiteretsu-daihyakka-kiteretsu-toki-kyuushutsu-daisakusen-nari.json) |
+| Kiteretsu Daihyakka: Koujiki Daihatsumei Nari | 349429 | [349429-kiteretsu-daihyakka-koujiki-daihatsumei-nari.json](./349429-kiteretsu-daihyakka-koujiki-daihatsumei-nari.json) |
 | Kitesurf Runner | 304379 | [304379-kitesurf-runner.json](./304379-kitesurf-runner.json) |
 | Kiting Mechanics | 239739 | [239739-kiting-mechanics.json](./239739-kiting-mechanics.json) |
 | Kito Pizzas | 397691 | [397691-kito-pizzas.json](./397691-kito-pizzas.json) |
