@@ -1919,6 +1919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Titans | 125849 | [125849-battle-of-titans.json](./125849-battle-of-titans.json) |
 | Battle of Warplanes: Air War | 87531 | [87531-battle-of-warplanes-air-war.json](./87531-battle-of-warplanes-air-war.json) |
 | Battle of Words | 269081 | [269081-battle-of-words.json](./269081-battle-of-words.json) |
+| Battle On! Hero Academy | 373126 | [373126-battle-on-hero-academy.json](./373126-battle-on-hero-academy.json) |
 | Battle Orb | 341657 | [341657-battle-orb.json](./341657-battle-orb.json) |
 | Battle Painters | 140542 | [140542-battle-painters.json](./140542-battle-painters.json) |
 | Battle Part | 209484 | [209484-battle-part.json](./209484-battle-part.json) |
@@ -2234,6 +2235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bay Route | 39616 | [39616-bay-route.json](./39616-bay-route.json) |
 | Bayala: The Game | 124134 | [124134-bayala-the-game.json](./124134-bayala-the-game.json) |
 | Bayani | 112611 | [112611-bayani.json](./112611-bayani.json) |
+| Bayaya | 373155 | [373155-bayaya.json](./373155-bayaya.json) |
 | Bayern Munich Club Football | 267885 | [267885-bayern-munich-club-football.json](./267885-bayern-munich-club-football.json) |
 | Bayern Munich Club Football 2005 | 267901 | [267901-bayern-munich-club-football-2005.json](./267901-bayern-munich-club-football-2005.json) |
 | Bayonetta 2 | 279336 | [279336-bayonetta-2.json](./279336-bayonetta-2.json) |
@@ -5278,6 +5280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodthirsty Kingdom: Vampire War | 181308 | [181308-bloodthirsty-kingdom-vampire-war.json](./181308-bloodthirsty-kingdom-vampire-war.json) |
 | Bloodthirsty Sword | 373723 | [373723-bloodthirsty-sword.json](./373723-bloodthirsty-sword.json) |
 | BloodTrail | 113465 | [113465-bloodtrail.json](./113465-bloodtrail.json) |
+| Bloodville | 373129 | [373129-bloodville.json](./373129-bloodville.json) |
 | BloodWarrior | 47982 | [47982-bloodwarrior.json](./47982-bloodwarrior.json) |
 | Bloodwash | 170938 | [170938-bloodwash.json](./170938-bloodwash.json) |
 | Bloodwings: Pumpkinhead's Revenge | 67291 | [67291-bloodwings-pumpkinheads-revenge.json](./67291-bloodwings-pumpkinheads-revenge.json) |
