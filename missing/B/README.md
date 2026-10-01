@@ -2256,6 +2256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlewake | 118306 | [118306-battlewake.json](./118306-battlewake.json) |
 | Battlewang | 23845 | [23845-battlewang.json](./23845-battlewang.json) |
 | BattleWords | 121043 | [121043-battlewords.json](./121043-battlewords.json) |
+| Battlewrights | 337763 | [337763-battlewrights.json](./337763-battlewrights.json) |
 | BattleZ | 236235 | [236235-battlez.json](./236235-battlez.json) |
 | Battlezone | 276519 | [276519-battlezone.json](./276519-battlezone.json) |
 | Battlezone 2000 | 13695 | [13695-battlezone-2000.json](./13695-battlezone-2000.json) |
