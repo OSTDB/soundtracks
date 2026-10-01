@@ -1252,6 +1252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ParkourMan | 105335 | [105335-parkourman.json](./105335-parkourman.json) |
 | ParkTo | 215694 | [215694-parkto.json](./215694-parkto.json) |
 | Parkur 44 | 152843 | [152843-parkur-44.json](./152843-parkur-44.json) |
+| Parliament of Hell 1796 | 344487 | [344487-parliament-of-hell-1796.json](./344487-parliament-of-hell-1796.json) |
 | Parlor! Mini | 37895 | [37895-parlor-mini.json](./37895-parlor-mini.json) |
 | Parlor! Mini 2 | 37894 | [37894-parlor-mini-2.json](./37894-parlor-mini-2.json) |
 | Parlor! Mini 3 | 37893 | [37893-parlor-mini-3.json](./37893-parlor-mini-3.json) |
@@ -2712,6 +2713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phobia 2 | 18482 | [18482-phobia-2.json](./18482-phobia-2.json) |
 | Phobia Exposure VR | 260619 | [260619-phobia-exposure-vr.json](./260619-phobia-exposure-vr.json) |
 | Phobia III: Edge of Humanity | 18483 | [18483-phobia-iii-edge-of-humanity.json](./18483-phobia-iii-edge-of-humanity.json) |
+| Phobic Nightmares | 344502 | [344502-phobic-nightmares.json](./344502-phobic-nightmares.json) |
 | PhoboPhobia | 306479 | [306479-phobophobia.json](./306479-phobophobia.json) |
 | Phobos | 141096 | [141096-phobos.json](./141096-phobos.json) |
 | Phobos | 184093 | [184093-phobos.json](./184093-phobos.json) |
