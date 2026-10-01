@@ -1807,6 +1807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Escape! Infinity！ | 247205 | [247205-cat-escape-infinity.json](./247205-cat-escape-infinity.json) |
 | Cat Evolution | 341636 | [341636-cat-evolution.json](./341636-cat-evolution.json) |
 | Cat Fantasy | 280799 | [280799-cat-fantasy.json](./280799-cat-fantasy.json) |
+| Cat Fish Catfish | 339381 | [339381-cat-fish-catfish.json](./339381-cat-fish-catfish.json) |
 | Cat Fish Island | 191181 | [191181-cat-fish-island.json](./191181-cat-fish-island.json) |
 | Cat Flower Tree | 175692 | [175692-cat-flower-tree.json](./175692-cat-flower-tree.json) |
 | Cat Follow Me | 192358 | [192358-cat-follow-me.json](./192358-cat-follow-me.json) |
@@ -5644,6 +5645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Muse | 368618 | [368618-color-muse.json](./368618-color-muse.json) |
 | Color Ninjas | 181782 | [181782-color-ninjas.json](./181782-color-ninjas.json) |
 | Color Objects For Kids | 89645 | [89645-color-objects-for-kids.json](./89645-color-objects-for-kids.json) |
+| Color of Love | 339410 | [339410-color-of-love.json](./339410-color-of-love.json) |
 | Color of My Sound: Volume 1 | 309534 | [309534-color-of-my-sound-volume-1.json](./309534-color-of-my-sound-volume-1.json) |
 | Color Patterns | 369688 | [369688-color-patterns.json](./369688-color-patterns.json) |
 | Color Reflex Challenge | 253018 | [253018-color-reflex-challenge.json](./253018-color-reflex-challenge.json) |
@@ -6808,6 +6810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooly Skunk | 132647 | [132647-cooly-skunk.json](./132647-cooly-skunk.json) |
 | Coop Catacombs | 293895 | [293895-coop-catacombs.json](./293895-coop-catacombs.json) |
 | Coop Tank War | 111008 | [111008-coop-tank-war.json](./111008-coop-tank-war.json) |
+| Coop TD | 339385 | [339385-coop-td.json](./339385-coop-td.json) |
 | Coopbots | 272862 | [272862-coopbots.json](./272862-coopbots.json) |
 | Cooped Up | 242071 | [242071-cooped-up.json](./242071-cooped-up.json) |
 | Cooperacing | 207910 | [207910-cooperacing.json](./207910-cooperacing.json) |
@@ -7119,6 +7122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Trail | 75818 | [75818-cosmic-trail.json](./75818-cosmic-trail.json) |
 | Cosmic Trip: Deluxe Edition | 52825 | [52825-cosmic-trip-deluxe-edition.json](./52825-cosmic-trip-deluxe-edition.json) |
 | Cosmic Tunnels | 23899 | [23899-cosmic-tunnels.json](./23899-cosmic-tunnels.json) |
+| Cosmic Ultramarine | 339326 | [339326-cosmic-ultramarine.json](./339326-cosmic-ultramarine.json) |
 | Cosmic Wars | 48646 | [48646-cosmic-wars.json](./48646-cosmic-wars.json) |
 | Cosmic Waves | 244235 | [244235-cosmic-waves.json](./244235-cosmic-waves.json) |
 | Cosmic Worm Food | 244373 | [244373-cosmic-worm-food.json](./244373-cosmic-worm-food.json) |
@@ -7313,6 +7317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CountryCide | 196008 | [196008-countrycide.json](./196008-countrycide.json) |
 | Countryside Bears | 43502 | [43502-countryside-bears.json](./43502-countryside-bears.json) |
 | Countryside Farm Clues | 402930 | [402930-countryside-farm-clues.json](./402930-countryside-farm-clues.json) |
+| Countryside Legends | 339327 | [339327-countryside-legends.json](./339327-countryside-legends.json) |
 | Countup | 358882 | [358882-countup.json](./358882-countup.json) |
 | County Courier | 295782 | [295782-county-courier.json](./295782-county-courier.json) |
 | County Fair | 59967 | [59967-county-fair.json](./59967-county-fair.json) |
@@ -7385,6 +7390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cow Catcher | 124594 | [124594-cow-catcher.json](./124594-cow-catcher.json) |
 | Cow Project 1986 | 401643 | [401643-cow-project-1986.json](./401643-cow-project-1986.json) |
 | Cow V: The Great Egg Quest | 71060 | [71060-cow-v-the-great-egg-quest.json](./71060-cow-v-the-great-egg-quest.json) |
+| CowaCowa: Jinmenken | 339328 | [339328-cowacowa-jinmenken.json](./339328-cowacowa-jinmenken.json) |
 | Coward | 132664 | [132664-coward.json](./132664-coward.json) |
 | Cowardice | 199512 | [199512-cowardice.json](./199512-cowardice.json) |
 | Cowbots and Aliens | 31595 | [31595-cowbots-and-aliens.json](./31595-cowbots-and-aliens.json) |
@@ -7447,6 +7453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Gardener Simulator & House Renovator Simulator | 377273 | [377273-cozy-gardener-simulator-and-house-renovator-simulator.json](./377273-cozy-gardener-simulator-and-house-renovator-simulator.json) |
 | Cozy Grove | 144800 | [144800-cozy-grove.json](./144800-cozy-grove.json) |
 | Cozy Grove + New Neighbears Bundle | 199635 | [199635-cozy-grove-new-neighbears-bundle.json](./199635-cozy-grove-new-neighbears-bundle.json) |
+| Cozy Halloween | 339329 | [339329-cozy-halloween.json](./339329-cozy-halloween.json) |
 | Cozy Hamlets | 290441 | [290441-cozy-hamlets.json](./290441-cozy-hamlets.json) |
 | Cozy Harvest | 376458 | [376458-cozy-harvest.json](./376458-cozy-harvest.json) |
 | Cozy Holes | 338547 | [338547-cozy-holes.json](./338547-cozy-holes.json) |
