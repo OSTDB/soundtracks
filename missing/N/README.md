@@ -544,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naval Action: Rättvisan | 155564 | [155564-naval-action-rattvisan.json](./155564-naval-action-rattvisan.json) |
 | Naval Action: Redoutable | 155556 | [155556-naval-action-redoutable.json](./155556-naval-action-redoutable.json) |
 | Naval Action: Rotterdam | 249722 | [249722-naval-action-rotterdam.json](./249722-naval-action-rotterdam.json) |
+| Naval Action: San Pedro | 344426 | [344426-naval-action-san-pedro.json](./344426-naval-action-san-pedro.json) |
 | Naval Action: Trincomalee | 155565 | [155565-naval-action-trincomalee.json](./155565-naval-action-trincomalee.json) |
 | Naval Assault: The Killing Tide | 47403 | [47403-naval-assault-the-killing-tide.json](./47403-naval-assault-the-killing-tide.json) |
 | Naval Battle Online | 224533 | [224533-naval-battle-online.json](./224533-naval-battle-online.json) |
