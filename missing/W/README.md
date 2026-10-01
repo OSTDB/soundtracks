@@ -4190,6 +4190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worm | 366923 | [366923-worm.json](./366923-worm.json) |
 | Worm 2000 | 74069 | [74069-worm-2000.json](./74069-worm-2000.json) |
 | Worm AR | 234597 | [234597-worm-ar.json](./234597-worm-ar.json) |
+| Worm Blaster | 354588 | [354588-worm-blaster.json](./354588-worm-blaster.json) |
 | Worm Capitalist | 413872 | [413872-worm-capitalist.json](./413872-worm-capitalist.json) |
 | Worm Dungeon | 135878 | [135878-worm-dungeon.json](./135878-worm-dungeon.json) |
 | Worm Food | 326736 | [326736-worm-food.json](./326736-worm-food.json) |
