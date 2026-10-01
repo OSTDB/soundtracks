@@ -1671,6 +1671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lems | 102975 | [102975-lems.json](./102975-lems.json) |
 | Lemures Blue's 2 A.M. | 137068 | [137068-lemures-blues-2-a-m.json](./137068-lemures-blues-2-a-m.json) |
 | Lemuria | 344427 | [344427-lemuria.json](./344427-lemuria.json) |
+| Len'en Monochrome World | 335405 | [335405-lenen-monochrome-world.json](./335405-lenen-monochrome-world.json) |
 | Lenin - The Lion | 99626 | [99626-lenin-the-lion.json](./99626-lenin-the-lion.json) |
 | Lenin Simulator | 195180 | [195180-lenin-simulator.json](./195180-lenin-simulator.json) |
 | Lennod Jump Game | 384542 | [384542-lennod-jump-game.json](./384542-lennod-jump-game.json) |
@@ -4319,6 +4320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love's Fiery Imbroglio | 73372 | [73372-loves-fiery-imbroglio.json](./73372-loves-fiery-imbroglio.json) |
 | Love's Hella Punk | 239868 | [239868-loves-hella-punk.json](./239868-loves-hella-punk.json) |
 | Love's Power Mahjong | 192312 | [192312-loves-power-mahjong.json](./192312-loves-power-mahjong.json) |
+| Love’s Sweet Garnish 2 | 335495 | [335495-love-s-sweet-garnish-2.json](./335495-love-s-sweet-garnish-2.json) |
 | Love+ | 80609 | [80609-love.json](./80609-love.json) |
 | LoveAndComplex | 311276 | [311276-loveandcomplex.json](./311276-loveandcomplex.json) |
 | LoveArena | 385051 | [385051-lovearena.json](./385051-lovearena.json) |
@@ -4948,5 +4950,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lyssa | 260122 | [260122-lyssa.json](./260122-lyssa.json) |
 | Lyssa: Goddess of Rage | 273929 | [273929-lyssa-goddess-of-rage.json](./273929-lyssa-goddess-of-rage.json) |
 | Lyssophobia | 179181 | [179181-lyssophobia.json](./179181-lyssophobia.json) |
+| Lysward | 335487 | [335487-lysward.json](./335487-lysward.json) |
 | Lythe The Forgetful Witch: A Visual Novel | 325057 | [325057-lythe-the-forgetful-witch-a-visual-novel.json](./325057-lythe-the-forgetful-witch-a-visual-novel.json) |
 | Lythia: Sigil of Lust | 384755 | [384755-lythia-sigil-of-lust.json](./384755-lythia-sigil-of-lust.json) |
