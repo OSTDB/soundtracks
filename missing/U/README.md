@@ -1338,6 +1338,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unrailed! | 115201 | [115201-unrailed.json](./115201-unrailed.json) |
 | Unravel Cyndy | 114949 | [114949-unravel-cyndy.json](./114949-unravel-cyndy.json) |
 | Unravel Lines Puzzle | 234049 | [234049-unravel-lines-puzzle.json](./234049-unravel-lines-puzzle.json) |
+| Unravel Trigger: Cold War | 336100 | [336100-unravel-trigger-cold-war.json](./336100-unravel-trigger-cold-war.json) |
+| Unravel Trigger: Prelude to War | 336099 | [336099-unravel-trigger-prelude-to-war.json](./336099-unravel-trigger-prelude-to-war.json) |
 | Unravel Two | 19241 | [19241-unravel-two.json](./19241-unravel-two.json) |
 | Unravel: Yarny Bundle | 115025 | [115025-unravel-yarny-bundle.json](./115025-unravel-yarny-bundle.json) |
 | Unraveling Angel | 275643 | [275643-unraveling-angel.json](./275643-unraveling-angel.json) |
