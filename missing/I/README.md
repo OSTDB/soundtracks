@@ -2261,6 +2261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insurgency: Sandstorm - Mountain Tactical Gear Set | 273935 | [273935-insurgency-sandstorm-mountain-tactical-gear-set.json](./273935-insurgency-sandstorm-mountain-tactical-gear-set.json) |
 | Insurgency: Sandstorm - Onslaught Set Bundle | 273934 | [273934-insurgency-sandstorm-onslaught-set-bundle.json](./273934-insurgency-sandstorm-onslaught-set-bundle.json) |
 | Insurgency: Sandstorm - Protective Gear Set | 321158 | [321158-insurgency-sandstorm-protective-gear-set.json](./321158-insurgency-sandstorm-protective-gear-set.json) |
+| Insurgency: Sandstorm - Wheat Weapon Skin Set | 374763 | [374763-insurgency-sandstorm-wheat-weapon-skin-set.json](./374763-insurgency-sandstorm-wheat-weapon-skin-set.json) |
 | Insurgency: Sandstorm - Year 1 Pass | 293920 | [293920-insurgency-sandstorm-year-1-pass.json](./293920-insurgency-sandstorm-year-1-pass.json) |
 | Insurgency: Sandstorm - Year 1 Pass + Year 2 Pass | 293922 | [293922-insurgency-sandstorm-year-1-pass-year-2-pass.json](./293922-insurgency-sandstorm-year-1-pass-year-2-pass.json) |
 | Insurgency: Sandstorm - Year 1+2+3 Bundle | 273938 | [273938-insurgency-sandstorm-year-1-2-3-bundle.json](./273938-insurgency-sandstorm-year-1-2-3-bundle.json) |
