@@ -2098,6 +2098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Fighters | 239621 | [239621-cats-fighters.json](./239621-cats-fighters.json) |
 | Cats Fly Helicopters | 117104 | [117104-cats-fly-helicopters.json](./117104-cats-fly-helicopters.json) |
 | Cats Games + Say Cheese! + Soko Games | 335105 | [335105-cats-games-say-cheese-soko-games.json](./335105-cats-games-say-cheese-soko-games.json) |
+| Cats Go! | 360150 | [360150-cats-go.json](./360150-cats-go.json) |
 | Cats Hidden Around the World 2 | 306340 | [306340-cats-hidden-around-the-world-2.json](./306340-cats-hidden-around-the-world-2.json) |
 | Cats Hidden in Chang'an | 351716 | [351716-cats-hidden-in-changan.json](./351716-cats-hidden-in-changan.json) |
 | Cats Hidden in China | 272861 | [272861-cats-hidden-in-china.json](./272861-cats-hidden-in-china.json) |
@@ -7612,6 +7613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Team Racing Nitro-Fueled | 113113 | [113113-crash-team-racing-nitro-fueled.json](./113113-crash-team-racing-nitro-fueled.json) |
 | Crash Team Racing: Christmas Team Racing | 408977 | [408977-crash-team-racing-christmas-team-racing.json](./408977-crash-team-racing-christmas-team-racing.json) |
 | Crash Team Racing: Retro-Fueled | 262407 | [262407-crash-team-racing-retro-fueled.json](./262407-crash-team-racing-retro-fueled.json) |
+| Crash Team Racing: Unlimited | 360136 | [360136-crash-team-racing-unlimited.json](./360136-crash-team-racing-unlimited.json) |
 | Crash Team Rumble | 228540 | [228540-crash-team-rumble.json](./228540-crash-team-rumble.json) |
 | Crash Test Billy | 51473 | [51473-crash-test-billy.json](./51473-crash-test-billy.json) |
 | Crash Test Idiot | 193419 | [193419-crash-test-idiot.json](./193419-crash-test-idiot.json) |
