@@ -2714,6 +2714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Window Seat | 409643 | [409643-window-seat.json](./409643-window-seat.json) |
 | Windowframe | 365849 | [365849-windowframe.json](./365849-windowframe.json) |
 | Windowframe | 70387 | [70387-windowframe.json](./70387-windowframe.json) |
+| Windows Doors | 348381 | [348381-windows-doors.json](./348381-windows-doors.json) |
 | Windows Mario World | 256297 | [256297-windows-mario-world.json](./256297-windows-mario-world.json) |
 | Windows XP Meteorite Covenant | 237516 | [237516-windows-xp-meteorite-covenant.json](./237516-windows-xp-meteorite-covenant.json) |
 | Windpunk | 313807 | [313807-windpunk.json](./313807-windpunk.json) |
