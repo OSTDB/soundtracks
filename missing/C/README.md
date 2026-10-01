@@ -7334,6 +7334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Country Star | 292826 | [292826-country-star.json](./292826-country-star.json) |
 | Country Story | 342259 | [342259-country-story.json](./342259-country-story.json) |
 | Country Tales | 34633 | [34633-country-tales.json](./34633-country-tales.json) |
+| Country Tales 2: New Frontiers | 337239 | [337239-country-tales-2-new-frontiers.json](./337239-country-tales-2-new-frontiers.json) |
 | Country Varmint Hunter | 83236 | [83236-country-varmint-hunter.json](./83236-country-varmint-hunter.json) |
 | Countryballs At War | 300427 | [300427-countryballs-at-war.json](./300427-countryballs-at-war.json) |
 | Countryballs: Power Protocol | 349473 | [349473-countryballs-power-protocol.json](./349473-countryballs-power-protocol.json) |
@@ -8220,6 +8221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criminal Archives: Alphabetic Murders | 417708 | [417708-criminal-archives-alphabetic-murders.json](./417708-criminal-archives-alphabetic-murders.json) |
 | Criminal Archives: Alphabetic Murders - Collector's Edition | 247497 | [247497-criminal-archives-alphabetic-murders-collectors-edition.json](./247497-criminal-archives-alphabetic-murders-collectors-edition.json) |
 | Criminal Archives: Alphabetic Murders DLC | 248289 | [248289-criminal-archives-alphabetic-murders-dlc.json](./248289-criminal-archives-alphabetic-murders-dlc.json) |
+| Criminal Archives: Blade of Deceit - Collector's Edition | 337243 | [337243-criminal-archives-blade-of-deceit-collectors-edition.json](./337243-criminal-archives-blade-of-deceit-collectors-edition.json) |
 | Criminal Archives: City on Fire - Collector's Edition | 186330 | [186330-criminal-archives-city-on-fire-collectors-edition.json](./186330-criminal-archives-city-on-fire-collectors-edition.json) |
 | Criminal Archives: Murder in the Pages - Collector's Edition | 294989 | [294989-criminal-archives-murder-in-the-pages-collectors-edition.json](./294989-criminal-archives-murder-in-the-pages-collectors-edition.json) |
 | Criminal Archives: Murder in the Pages DLC | 294990 | [294990-criminal-archives-murder-in-the-pages-dlc.json](./294990-criminal-archives-murder-in-the-pages-dlc.json) |
@@ -9408,7 +9410,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Hours | 319183 | [319183-cursed-hours.json](./319183-cursed-hours.json) |
 | Cursed House | 186326 | [186326-cursed-house.json](./186326-cursed-house.json) |
 | Cursed House 11 | 214181 | [214181-cursed-house-11.json](./214181-cursed-house-11.json) |
+| Cursed House 14 | 337213 | [337213-cursed-house-14.json](./337213-cursed-house-14.json) |
 | Cursed House 2 | 362928 | [362928-cursed-house-2.json](./362928-cursed-house-2.json) |
+| Cursed House 7 | 337215 | [337215-cursed-house-7.json](./337215-cursed-house-7.json) |
 | Cursed Island | 176289 | [176289-cursed-island.json](./176289-cursed-island.json) |
 | Cursed Land | 297237 | [297237-cursed-land.json](./297237-cursed-land.json) |
 | Cursed Legacy | 370707 | [370707-cursed-legacy.json](./370707-cursed-legacy.json) |
