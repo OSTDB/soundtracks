@@ -658,6 +658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unbounded | 396496 | [396496-unbounded.json](./396496-unbounded.json) |
 | Unbox the Room | 304642 | [304642-unbox-the-room.json](./304642-unbox-the-room.json) |
 | Unboxing | 225178 | [225178-unboxing.json](./225178-unboxing.json) |
+| Unboxing Mr. Coo | 359008 | [359008-unboxing-mr-coo.json](./359008-unboxing-mr-coo.json) |
 | Unboxing: Cozy Home Simulator | 334104 | [334104-unboxing-cozy-home-simulator.json](./334104-unboxing-cozy-home-simulator.json) |
 | Unbreachable | 399831 | [399831-unbreachable.json](./399831-unbreachable.json) |
 | Unbreakable Kimmy Schmidt: Kimmy vs. the Reverend | 256848 | [256848-unbreakable-kimmy-schmidt-kimmy-vs-the-reverend.json](./256848-unbreakable-kimmy-schmidt-kimmy-vs-the-reverend.json) |
@@ -1639,6 +1640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Flow: Pro Edition | 399829 | [399829-urban-flow-pro-edition.json](./399829-urban-flow-pro-edition.json) |
 | Urban Flow: Silver Edition | 250390 | [250390-urban-flow-silver-edition.json](./250390-urban-flow-silver-edition.json) |
 | Urban Flow: X-Mas Edition | 275893 | [275893-urban-flow-x-mas-edition.json](./275893-urban-flow-x-mas-edition.json) |
+| Urban Hunter | 358895 | [358895-urban-hunter.json](./358895-urban-hunter.json) |
 | Urban Jungle: Brother's Wedding Story | 401001 | [401001-urban-jungle-brothers-wedding-story.json](./401001-urban-jungle-brothers-wedding-story.json) |
 | Urban Kick Academy | 78353 | [78353-urban-kick-academy.json](./78353-urban-kick-academy.json) |
 | Urban Massacre | 278500 | [278500-urban-massacre.json](./278500-urban-massacre.json) |
