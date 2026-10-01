@@ -313,9 +313,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yo-Kai Watch Wibble Wobble | 79191 | [79191-yo-kai-watch-wibble-wobble.json](./79191-yo-kai-watch-wibble-wobble.json) |
 | Yo-Kai Watch Wibble Wobble: The Great Detective Nekomata | 397922 | [397922-yo-kai-watch-wibble-wobble-the-great-detective-nekomata.json](./397922-yo-kai-watch-wibble-wobble-the-great-detective-nekomata.json) |
 | Yo-kai Watch World | 104254 | [104254-yo-kai-watch-world.json](./104254-yo-kai-watch-world.json) |
+| Yo, Matias 2: Fantasmas y Calabazas | 343312 | [343312-yo-matias-2-fantasmas-y-calabazas.json](./343312-yo-matias-2-fantasmas-y-calabazas.json) |
 | Yo, Matias 3: Cazador de Golosinas | 343947 | [343947-yo-matias-3-cazador-de-golosinas.json](./343947-yo-matias-3-cazador-de-golosinas.json) |
 | Yo, Matias 4: Viajero del Tiempo | 343949 | [343949-yo-matias-4-viajero-del-tiempo.json](./343949-yo-matias-4-viajero-del-tiempo.json) |
 | Yo, Matias 6: Contra los Ciber Robots | 343957 | [343957-yo-matias-6-contra-los-ciber-robots.json](./343957-yo-matias-6-contra-los-ciber-robots.json) |
+| Yo, Matias: Sueños Peligrosos | 343311 | [343311-yo-matias-suenos-peligrosos.json](./343311-yo-matias-suenos-peligrosos.json) |
 | Yo! Ninjia | 234321 | [234321-yo-ninjia.json](./234321-yo-ninjia.json) |
 | Yo! Noid 2: Game of a Year Edition | 133918 | [133918-yo-noid-2-game-of-a-year-edition.json](./133918-yo-noid-2-game-of-a-year-edition.json) |
 | Yo' Bro | 42023 | [42023-yo-bro.json](./42023-yo-bro.json) |
