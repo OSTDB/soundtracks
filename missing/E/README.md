@@ -3393,6 +3393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ex Natura: Nature Corrupted | 192395 | [192395-ex-natura-nature-corrupted.json](./192395-ex-natura-nature-corrupted.json) |
 | Ex Nihilo | 416747 | [416747-ex-nihilo.json](./416747-ex-nihilo.json) |
 | Ex Oblivione | 61148 | [61148-ex-oblivione.json](./61148-ex-oblivione.json) |
+| Ex Polaris | 364612 | [364612-ex-polaris.json](./364612-ex-polaris.json) |
 | Ex Sanguis | 346768 | [346768-ex-sanguis.json](./346768-ex-sanguis.json) |
 | Ex Shooter: Triple Bundle Pack | 218467 | [218467-ex-shooter-triple-bundle-pack.json](./218467-ex-shooter-triple-bundle-pack.json) |
 | Ex Vitro | 255789 | [255789-ex-vitro.json](./255789-ex-vitro.json) |
