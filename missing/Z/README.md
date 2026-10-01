@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z Line | 254152 | [254152-z-line.json](./254152-z-line.json) |
 | Z Mission Breakout | 343406 | [343406-z-mission-breakout.json](./343406-z-mission-breakout.json) |
 | Z Ops: Campus | 258545 | [258545-z-ops-campus.json](./258545-z-ops-campus.json) |
+| Z Ops: DeadZone | 337764 | [337764-z-ops-deadzone.json](./337764-z-ops-deadzone.json) |
 | Z Rush | 304579 | [304579-z-rush.json](./304579-z-rush.json) |
 | Z Virus: Outbreak | 362983 | [362983-z-virus-outbreak.json](./362983-z-virus-outbreak.json) |
 | Z ViRus: V.I.R.M Uprising | 44209 | [44209-z-virus-v-i-r-m-uprising.json](./44209-z-virus-v-i-r-m-uprising.json) |
@@ -496,11 +497,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZHive | 120773 | [120773-zhive.json](./120773-zhive.json) |
 | Zhmyshenko Valery Albertovich | 99018 | [99018-zhmyshenko-valery-albertovich.json](./99018-zhmyshenko-valery-albertovich.json) |
 | Zhombre, the Undead Hombre | 23878 | [23878-zhombre-the-undead-hombre.json](./23878-zhombre-the-undead-hombre.json) |
+| Zhong Xing New Village | 337754 | [337754-zhong-xing-new-village.json](./337754-zhong-xing-new-village.json) |
 | Zhōng Yān Yǔ Lóng Tóngxíng | 373698 | [373698-zhong-yan-yu-long-tongxing.json](./373698-zhong-yan-yu-long-tongxing.json) |
 | Zhōngguó Shì Fùháo | 375430 | [375430-zhongguo-shi-fuhao.json](./375430-zhongguo-shi-fuhao.json) |
 | Zhōngguó Xiàngqí | 82099 | [82099-zhongguo-xiangqi.json](./82099-zhongguo-xiangqi.json) |
 | Zhōngguó Xiàngqí Zàixiàn | 88208 | [88208-zhongguo-xiangqi-zaixian.json](./88208-zhongguo-xiangqi-zaixian.json) |
 | Zhōnghuá Fùjiǎ Sānguó | 161903 | [161903-zhonghua-fujia-sanguo.json](./161903-zhonghua-fujia-sanguo.json) |
+| Zhouyi Six Lines Divination Game | 337753 | [337753-zhouyi-six-lines-divination-game.json](./337753-zhouyi-six-lines-divination-game.json) |
 | Zhu Zhu Pets | 9168 | [9168-zhu-zhu-pets.json](./9168-zhu-zhu-pets.json) |
 | Zhulik.exe | 81770 | [81770-zhulik-exe.json](./81770-zhulik-exe.json) |
 | Zhúlù Hàn Mò | 373690 | [373690-zhulu-han-mo.json](./373690-zhulu-han-mo.json) |
@@ -588,6 +591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoda's Revenge: StarTropics II | 48062 | [48062-zodas-revenge-startropics-ii.json](./48062-zodas-revenge-startropics-ii.json) |
 | Zodi Bingo | 88165 | [88165-zodi-bingo.json](./88165-zodi-bingo.json) |
 | Zodiac | 146103 | [146103-zodiac.json](./146103-zodiac.json) |
+| Zodiac | 337752 | [337752-zodiac.json](./337752-zodiac.json) |
 | Zodiac Battles | 106765 | [106765-zodiac-battles.json](./106765-zodiac-battles.json) |
 | Zodiac DX | 158514 | [158514-zodiac-dx.json](./158514-zodiac-dx.json) |
 | Zodiac Faeries Astrology Adventure | 102818 | [102818-zodiac-faeries-astrology-adventure.json](./102818-zodiac-faeries-astrology-adventure.json) |
@@ -762,6 +766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Infection | 223014 | [223014-zombie-infection.json](./223014-zombie-infection.json) |
 | Zombie Infection | 331340 | [331340-zombie-infection.json](./331340-zombie-infection.json) |
 | Zombie Infection 2 | 223015 | [223015-zombie-infection-2.json](./223015-zombie-infection-2.json) |
+| Zombie Invasion | 337751 | [337751-zombie-invasion.json](./337751-zombie-invasion.json) |
 | Zombie Invasion: FPS Defense | 269097 | [269097-zombie-invasion-fps-defense.json](./269097-zombie-invasion-fps-defense.json) |
 | Zombie Island | 127084 | [127084-zombie-island.json](./127084-zombie-island.json) |
 | Zombie Island | 372065 | [372065-zombie-island.json](./372065-zombie-island.json) |
@@ -827,6 +832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Shooting Star | 209713 | [209713-zombie-shooting-star.json](./209713-zombie-shooting-star.json) |
 | Zombie Shot | 285581 | [285581-zombie-shot.json](./285581-zombie-shot.json) |
 | Zombie Siege | 420653 | [420653-zombie-siege.json](./420653-zombie-siege.json) |
+| Zombie Siege City | 337750 | [337750-zombie-siege-city.json](./337750-zombie-siege-city.json) |
 | Zombie Skape | 84968 | [84968-zombie-skape.json](./84968-zombie-skape.json) |
 | Zombie Slapper | 220648 | [220648-zombie-slapper.json](./220648-zombie-slapper.json) |
 | Zombie Slayer | 166713 | [166713-zombie-slayer.json](./166713-zombie-slayer.json) |
@@ -1089,6 +1095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zotrix Starglider | 147263 | [147263-zotrix-starglider.json](./147263-zotrix-starglider.json) |
 | Zotto suru Kowai Toshi Densetsu | 252406 | [252406-zotto-suru-kowai-toshi-densetsu.json](./252406-zotto-suru-kowai-toshi-densetsu.json) |
 | Zozo and the Lost Dreams | 369087 | [369087-zozo-and-the-lost-dreams.json](./369087-zozo-and-the-lost-dreams.json) |
+| Zozo's Show | 337749 | [337749-zozos-show.json](./337749-zozos-show.json) |
 | ZP2K9 | 78354 | [78354-zp2k9.json](./78354-zp2k9.json) |
 | ZP2KX: Zombies and Pterodactyls 20XX | 79927 | [79927-zp2kx-zombies-and-pterodactyls-20xx.json](./79927-zp2kx-zombies-and-pterodactyls-20xx.json) |
 | ZPack: Random Maps for ZDoom | 260981 | [260981-zpack-random-maps-for-zdoom.json](./260981-zpack-random-maps-for-zdoom.json) |
