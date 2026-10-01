@@ -736,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Games Advent Calendar 2025 Bundle | 364101 | [364101-games-advent-calendar-2025-bundle.json](./364101-games-advent-calendar-2025-bundle.json) |
 | Games Advent Calendar: 25 Days - 25 Surprises | 265160 | [265160-games-advent-calendar-25-days-25-surprises.json](./265160-games-advent-calendar-25-days-25-surprises.json) |
 | Games and Girls | 149417 | [149417-games-and-girls.json](./149417-games-and-girls.json) |
+| Games Designer Samples | 352326 | [352326-games-designer-samples.json](./352326-games-designer-samples.json) |
 | Games Explosion | 18260 | [18260-games-explosion.json](./18260-games-explosion.json) |
 | Games for Stream! | 266856 | [266856-games-for-stream.json](./266856-games-for-stream.json) |
 | Games for Toddlers 2 | 147977 | [147977-games-for-toddlers-2.json](./147977-games-for-toddlers-2.json) |
@@ -2981,6 +2982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Picker | 292627 | [292627-gold-picker.json](./292627-gold-picker.json) |
 | Gold Runner | 146816 | [146816-gold-runner.json](./146816-gold-runner.json) |
 | Gold Rush | 244761 | [244761-gold-rush.json](./244761-gold-rush.json) |
+| Gold Rush | 352253 | [352253-gold-rush.json](./352253-gold-rush.json) |
 | Gold Rush Clicker | 264658 | [264658-gold-rush-clicker.json](./264658-gold-rush-clicker.json) |
 | Gold Rush! | 12121 | [12121-gold-rush.json](./12121-gold-rush.json) |
 | Gold Rush! 2 | 29091 | [29091-gold-rush-2.json](./29091-gold-rush-2.json) |
@@ -3075,6 +3077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goldilock One: Boss Arena | 138247 | [138247-goldilock-one-boss-arena.json](./138247-goldilock-one-boss-arena.json) |
 | Goldilock One: The Mists of Jakaira | 253940 | [253940-goldilock-one-the-mists-of-jakaira.json](./253940-goldilock-one-the-mists-of-jakaira.json) |
 | Goldo: Lost Goblin | 370128 | [370128-goldo-lost-goblin.json](./370128-goldo-lost-goblin.json) |
+| Goldrot | 352250 | [352250-goldrot.json](./352250-goldrot.json) |
 | Goldrush | 314035 | [314035-goldrush.json](./314035-goldrush.json) |
 | Goldspace | 184643 | [184643-goldspace.json](./184643-goldspace.json) |
 | GoldStorm Pirates | 326948 | [326948-goldstorm-pirates.json](./326948-goldstorm-pirates.json) |
