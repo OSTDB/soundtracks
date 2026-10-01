@@ -518,6 +518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ed, Edd n Eddy: Scam of the Century | 2817 | [2817-ed-edd-n-eddy-scam-of-the-century.json](./2817-ed-edd-n-eddy-scam-of-the-century.json) |
 | Ed, Edd n Eddy: The Mis-Edventures | 2722 | [2722-ed-edd-n-eddy-the-mis-edventures.json](./2722-ed-edd-n-eddy-the-mis-edventures.json) |
 | Ed, Edd n Eddy's Candy Machine Deluxe | 196798 | [196798-ed-edd-n-eddys-candy-machine-deluxe.json](./196798-ed-edd-n-eddys-candy-machine-deluxe.json) |
+| Edain Mod | 356216 | [356216-edain-mod.json](./356216-edain-mod.json) |
 | Edd the Duck! | 79981 | [79981-edd-the-duck.json](./79981-edd-the-duck.json) |
 | Edda Café | 144115 | [144115-edda-cafe.json](./144115-edda-cafe.json) |
 | Edda Physics 1 | 389084 | [389084-edda-physics-1.json](./389084-edda-physics-1.json) |
@@ -3389,6 +3390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolve: Mecha Squad | 309691 | [309691-evolve-mecha-squad.json](./309691-evolve-mecha-squad.json) |
 | Evolve: Ultimate Edition | 99767 | [99767-evolve-ultimate-edition.json](./99767-evolve-ultimate-edition.json) |
 | Evolve! Lite | 60256 | [60256-evolve-lite.json](./60256-evolve-lite.json) |
+| Evolver | 356224 | [356224-evolver.json](./356224-evolver.json) |
 | Evony: The King's Return | 197880 | [197880-evony-the-kings-return.json](./197880-evony-the-kings-return.json) |
 | Evoplasm | 309859 | [309859-evoplasm.json](./309859-evoplasm.json) |
 | Evopollution | 17313 | [17313-evopollution.json](./17313-evopollution.json) |
