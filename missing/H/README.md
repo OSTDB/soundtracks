@@ -1897,6 +1897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Is Us: Hollow Walker Pack | 360092 | [360092-hell-is-us-hollow-walker-pack.json](./360092-hell-is-us-hollow-walker-pack.json) |
 | Hell Is Us: Military Pack | 360094 | [360094-hell-is-us-military-pack.json](./360094-hell-is-us-military-pack.json) |
 | Hell is Us: Phol Guard Pack | 360093 | [360093-hell-is-us-phol-guard-pack.json](./360093-hell-is-us-phol-guard-pack.json) |
+| Hell is Us: Secret Code | 360142 | [360142-hell-is-us-secret-code.json](./360142-hell-is-us-secret-code.json) |
 | Hell Knights | 105140 | [105140-hell-knights.json](./105140-hell-knights.json) |
 | Hell Let Loose | 32365 | [32365-hell-let-loose.json](./32365-hell-let-loose.json) |
 | Hell Let Loose: Battle Scarred | 371226 | [371226-hell-let-loose-battle-scarred.json](./371226-hell-let-loose-battle-scarred.json) |
