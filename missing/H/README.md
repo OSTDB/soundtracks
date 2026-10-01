@@ -2606,6 +2606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heretic's Hope | 216329 | [216329-heretics-hope.json](./216329-heretics-hope.json) |
 | Heretic's Lot | 158566 | [158566-heretics-lot.json](./158566-heretics-lot.json) |
 | Heritage | 323499 | [323499-heritage.json](./323499-heritage.json) |
+| Heritage | 376042 | [376042-heritage.json](./376042-heritage.json) |
 | Heritage Hills | 156666 | [156666-heritage-hills.json](./156666-heritage-hills.json) |
 | Heritage: A Dragon's Tale | 250043 | [250043-heritage-a-dragons-tale.json](./250043-heritage-a-dragons-tale.json) |
 | Herman 2 | 117803 | [117803-herman-2.json](./117803-herman-2.json) |
@@ -2810,6 +2811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Might and Magic V: Tribes of the East | 372 | [372-heroes-of-might-and-magic-v-tribes-of-the-east.json](./372-heroes-of-might-and-magic-v-tribes-of-the-east.json) |
 | Heroes of Nature 4 in 1 | 332023 | [332023-heroes-of-nature-4-in-1.json](./332023-heroes-of-nature-4-in-1.json) |
 | Heroes of Newerth | 763 | [763-heroes-of-newerth.json](./763-heroes-of-newerth.json) |
+| Heroes of Newerth Reborn | 376014 | [376014-heroes-of-newerth-reborn.json](./376014-heroes-of-newerth-reborn.json) |
 | Heroes of Normandie: Bulletproof Edition | 53190 | [53190-heroes-of-normandie-bulletproof-edition.json](./53190-heroes-of-normandie-bulletproof-edition.json) |
 | Heroes of Normandie: US Rangers | 172010 | [172010-heroes-of-normandie-us-rangers.json](./172010-heroes-of-normandie-us-rangers.json) |
 | Heroes of Order & Chaos | 39181 | [39181-heroes-of-order-and-chaos.json](./39181-heroes-of-order-and-chaos.json) |
