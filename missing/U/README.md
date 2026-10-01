@@ -1503,6 +1503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unturned | 7878 | [7878-unturned.json](./7878-unturned.json) |
 | Unusual and Not Safe Experiments | 368488 | [368488-unusual-and-not-safe-experiments.json](./368488-unusual-and-not-safe-experiments.json) |
 | Unusual End | 348981 | [348981-unusual-end.json](./348981-unusual-end.json) |
+| Unusual Farm Operations | 335395 | [335395-unusual-farm-operations.json](./335395-unusual-farm-operations.json) |
 | Unusual Ghost | 232008 | [232008-unusual-ghost.json](./232008-unusual-ghost.json) |
 | Unusual Quest | 272885 | [272885-unusual-quest.json](./272885-unusual-quest.json) |
 | Unusual Tales: Deep Below | 380447 | [380447-unusual-tales-deep-below.json](./380447-unusual-tales-deep-below.json) |
