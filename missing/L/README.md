@@ -851,6 +851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lavender Laboratories | 184050 | [184050-lavender-laboratories.json](./184050-lavender-laboratories.json) |
 | Lavender Station | 404205 | [404205-lavender-station.json](./404205-lavender-station.json) |
 | Lavender's Botanicals | 295913 | [295913-lavenders-botanicals.json](./295913-lavenders-botanicals.json) |
+| Law & Order: Mushroom Kingdom Unit - Pilot Episode: Tragic Fox "Tails" | 345625 | [345625-law-and-order-mushroom-kingdom-unit-pilot-episode-tragic-fox-tails.json](./345625-law-and-order-mushroom-kingdom-unit-pilot-episode-tragic-fox-tails.json) |
 | Law Craft | 207832 | [207832-law-craft.json](./207832-law-craft.json) |
 | Law Mower | 41933 | [41933-law-mower.json](./41933-law-mower.json) |
 | Law of Creation 2 | 193935 | [193935-law-of-creation-2.json](./193935-law-of-creation-2.json) |
@@ -2054,6 +2055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liar: Legend of the Sword 2 | 65222 | [65222-liar-legend-of-the-sword-2.json](./65222-liar-legend-of-the-sword-2.json) |
 | Liar! Uncover the Truth | 115483 | [115483-liar-uncover-the-truth.json](./115483-liar-uncover-the-truth.json) |
 | Liar's Bar | 317695 | [317695-liars-bar.json](./317695-liars-bar.json) |
+| Liar's Dice | 345540 | [345540-liars-dice.json](./345540-liars-dice.json) |
 | Liar’s Line | 382762 | [382762-liar-s-line.json](./382762-liar-s-line.json) |
 | Liar's Lounge | 325003 | [325003-liars-lounge.json](./325003-liars-lounge.json) |
 | Libble Rabble | 37945 | [37945-libble-rabble.json](./37945-libble-rabble.json) |
@@ -3456,6 +3458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lone Survivors | 373766 | [373766-lone-survivors.json](./373766-lone-survivors.json) |
 | Lone Tower Roguelite Defense | 255805 | [255805-lone-tower-roguelite-defense.json](./255805-lone-tower-roguelite-defense.json) |
 | Lone Traveler | 232947 | [232947-lone-traveler.json](./232947-lone-traveler.json) |
+| Lone Voyage | 345648 | [345648-lone-voyage.json](./345648-lone-voyage.json) |
 | Lone Wolf DS I: Flight From The Dark | 308379 | [308379-lone-wolf-ds-i-flight-from-the-dark.json](./308379-lone-wolf-ds-i-flight-from-the-dark.json) |
 | Lone Wolf Saga | 273956 | [273956-lone-wolf-saga.json](./273956-lone-wolf-saga.json) |
 | Lone Wolf: World War 2 | 142264 | [142264-lone-wolf-world-war-2.json](./142264-lone-wolf-world-war-2.json) |
@@ -4464,6 +4467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucifer Ring | 43873 | [43873-lucifer-ring.json](./43873-lucifer-ring.json) |
 | Lucifer's Kingdom | 72097 | [72097-lucifers-kingdom.json](./72097-lucifers-kingdom.json) |
 | Lucifer's Realm | 25895 | [25895-lucifers-realm.json](./25895-lucifers-realm.json) |
+| Luciferian: The Conjuring Book | 345654 | [345654-luciferian-the-conjuring-book.json](./345654-luciferian-the-conjuring-book.json) |
 | Luciform | 130208 | [130208-luciform.json](./130208-luciform.json) |
 | Lucinda | 217821 | [217821-lucinda.json](./217821-lucinda.json) |
 | Lucinda Green's Equestrian Challenge | 43254 | [43254-lucinda-greens-equestrian-challenge.json](./43254-lucinda-greens-equestrian-challenge.json) |
