@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T10:03:09.380Z",
-  "total_missing": 149026,
+  "generated_at": "2026-10-01T10:17:34.853Z",
+  "total_missing": 149076,
   "games": [
     {
       "igdb_id": 186066,
@@ -372138,6 +372138,176 @@
       "file": "missing/M/363473-marvel-heroes-033-area-mod-tunnels-of-terror.json"
     },
     {
+      "igdb_id": 363477,
+      "game_name": "Marvel Heroes: 037 - Atmosphere Mod: Witching Hour",
+      "file": "missing/M/363477-marvel-heroes-037-atmosphere-mod-witching-hour.json"
+    },
+    {
+      "igdb_id": 363479,
+      "game_name": "Marvel Heroes: 038 - Atmosphere Mod: Thunderhead",
+      "file": "missing/M/363479-marvel-heroes-038-atmosphere-mod-thunderhead.json"
+    },
+    {
+      "igdb_id": 363480,
+      "game_name": "Marvel Heroes: 039 - Atmosphere Mod: Thick Soup",
+      "file": "missing/M/363480-marvel-heroes-039-atmosphere-mod-thick-soup.json"
+    },
+    {
+      "igdb_id": 363481,
+      "game_name": "Marvel Heroes: 040 - Atmosphere Mod: Snow Squall",
+      "file": "missing/M/363481-marvel-heroes-040-atmosphere-mod-snow-squall.json"
+    },
+    {
+      "igdb_id": 363482,
+      "game_name": "Marvel Heroes: 041 - Atmosphere Mod: Heat Wave",
+      "file": "missing/M/363482-marvel-heroes-041-atmosphere-mod-heat-wave.json"
+    },
+    {
+      "igdb_id": 363483,
+      "game_name": "Marvel Heroes: 042 - Atmosphere Mod: Below Zero",
+      "file": "missing/M/363483-marvel-heroes-042-atmosphere-mod-below-zero.json"
+    },
+    {
+      "igdb_id": 363484,
+      "game_name": "Marvel Heroes: 043 - Atmosphere Mod: Gale Force",
+      "file": "missing/M/363484-marvel-heroes-043-atmosphere-mod-gale-force.json"
+    },
+    {
+      "igdb_id": 363485,
+      "game_name": "Marvel Heroes: 044 - Boss Mod: Doctor Doom",
+      "file": "missing/M/363485-marvel-heroes-044-boss-mod-doctor-doom.json"
+    },
+    {
+      "igdb_id": 363486,
+      "game_name": "Marvel Heroes: 045 - Boss Mod: Magneto",
+      "file": "missing/M/363486-marvel-heroes-045-boss-mod-magneto.json"
+    },
+    {
+      "igdb_id": 363487,
+      "game_name": "Marvel Heroes: 046 - Boss Mod: Ultron",
+      "file": "missing/M/363487-marvel-heroes-046-boss-mod-ultron.json"
+    },
+    {
+      "igdb_id": 363488,
+      "game_name": "Marvel Heroes: 047 - Boss Mod: Thanos",
+      "file": "missing/M/363488-marvel-heroes-047-boss-mod-thanos.json"
+    },
+    {
+      "igdb_id": 363489,
+      "game_name": "Marvel Heroes: 048 - Boss Mod: Doctor Octopus",
+      "file": "missing/M/363489-marvel-heroes-048-boss-mod-doctor-octopus.json"
+    },
+    {
+      "igdb_id": 363490,
+      "game_name": "Marvel Heroes: 049 - Boss Mod: Baron Zemo",
+      "file": "missing/M/363490-marvel-heroes-049-boss-mod-baron-zemo.json"
+    },
+    {
+      "igdb_id": 363491,
+      "game_name": "Marvel Heroes: 050 - Villain Mod: Venom",
+      "file": "missing/M/363491-marvel-heroes-050-villain-mod-venom.json"
+    },
+    {
+      "igdb_id": 363492,
+      "game_name": "Marvel Heroes: 051 - Villain Mod: Bullseye",
+      "file": "missing/M/363492-marvel-heroes-051-villain-mod-bullseye.json"
+    },
+    {
+      "igdb_id": 363493,
+      "game_name": "Marvel Heroes: 052 - Villain Mod: Hobgoblin",
+      "file": "missing/M/363493-marvel-heroes-052-villain-mod-hobgoblin.json"
+    },
+    {
+      "igdb_id": 363494,
+      "game_name": "Marvel Heroes: 053 - Villain Mod: Spiral",
+      "file": "missing/M/363494-marvel-heroes-053-villain-mod-spiral.json"
+    },
+    {
+      "igdb_id": 363495,
+      "game_name": "Marvel Heroes: 054 - Villain Mod: Loki",
+      "file": "missing/M/363495-marvel-heroes-054-villain-mod-loki.json"
+    },
+    {
+      "igdb_id": 363496,
+      "game_name": "Marvel Heroes: 055 - Villain Mod: Lady Deathstrike",
+      "file": "missing/M/363496-marvel-heroes-055-villain-mod-lady-deathstrike.json"
+    },
+    {
+      "igdb_id": 363497,
+      "game_name": "Marvel Heroes: 056 - Villain Mod: Klaw",
+      "file": "missing/M/363497-marvel-heroes-056-villain-mod-klaw.json"
+    },
+    {
+      "igdb_id": 363498,
+      "game_name": "Marvel Heroes: 057 - Villain Mod: Whirlwind",
+      "file": "missing/M/363498-marvel-heroes-057-villain-mod-whirlwind.json"
+    },
+    {
+      "igdb_id": 363499,
+      "game_name": "Marvel Heroes: 058 - Villain Mod: Omega Red",
+      "file": "missing/M/363499-marvel-heroes-058-villain-mod-omega-red.json"
+    },
+    {
+      "igdb_id": 363500,
+      "game_name": "Marvel Heroes: 059 - Villain Mod: The Owl",
+      "file": "missing/M/363500-marvel-heroes-059-villain-mod-the-owl.json"
+    },
+    {
+      "igdb_id": 363501,
+      "game_name": "Marvel Heroes: 060 - Story Mod: Spider-Man Challenge",
+      "file": "missing/M/363501-marvel-heroes-060-story-mod-spider-man-challenge.json"
+    },
+    {
+      "igdb_id": 363502,
+      "game_name": "Marvel Heroes: 061 - Story Mod: Captain America Challenge",
+      "file": "missing/M/363502-marvel-heroes-061-story-mod-captain-america-challenge.json"
+    },
+    {
+      "igdb_id": 363503,
+      "game_name": "Marvel Heroes: 062 - Story Mod: Hulk Challenge",
+      "file": "missing/M/363503-marvel-heroes-062-story-mod-hulk-challenge.json"
+    },
+    {
+      "igdb_id": 363504,
+      "game_name": "Marvel Heroes: 063 - Story Mod: Thor Challenge",
+      "file": "missing/M/363504-marvel-heroes-063-story-mod-thor-challenge.json"
+    },
+    {
+      "igdb_id": 363505,
+      "game_name": "Marvel Heroes: 064 - Story Mod: Wolverine Challenge",
+      "file": "missing/M/363505-marvel-heroes-064-story-mod-wolverine-challenge.json"
+    },
+    {
+      "igdb_id": 363506,
+      "game_name": "Marvel Heroes: 065 - Story Mod: Human Torch Challenge",
+      "file": "missing/M/363506-marvel-heroes-065-story-mod-human-torch-challenge.json"
+    },
+    {
+      "igdb_id": 363507,
+      "game_name": "Marvel Heroes: 066 - Story Mod: Iron Man Challenge",
+      "file": "missing/M/363507-marvel-heroes-066-story-mod-iron-man-challenge.json"
+    },
+    {
+      "igdb_id": 363508,
+      "game_name": "Marvel Heroes: 067 - Story Mod: Storm Challenge",
+      "file": "missing/M/363508-marvel-heroes-067-story-mod-storm-challenge.json"
+    },
+    {
+      "igdb_id": 363509,
+      "game_name": "Marvel Heroes: 068 - Story Mod: Elektra Challenge",
+      "file": "missing/M/363509-marvel-heroes-068-story-mod-elektra-challenge.json"
+    },
+    {
+      "igdb_id": 363510,
+      "game_name": "Marvel Heroes: 069 - Story Mod: Thing Challenge",
+      "file": "missing/M/363510-marvel-heroes-069-story-mod-thing-challenge.json"
+    },
+    {
+      "igdb_id": 363511,
+      "game_name": "Marvel Heroes: 070 - Story Mod: Daredevil Challenge",
+      "file": "missing/M/363511-marvel-heroes-070-story-mod-daredevil-challenge.json"
+    },
+    {
       "igdb_id": 92612,
       "game_name": "Marvel Kapow!",
       "file": "missing/M/92612-marvel-kapow.json"
@@ -717808,6 +717978,11 @@
       "file": "missing/W/343233-what-is-that-outside.json"
     },
     {
+      "igdb_id": 363512,
+      "game_name": "What Is The Ghost",
+      "file": "missing/W/363512-what-is-the-ghost.json"
+    },
+    {
       "igdb_id": 328451,
       "game_name": "What Is This Sorcery",
       "file": "missing/W/328451-what-is-this-sorcery.json"
@@ -731946,6 +732121,81 @@
       "igdb_id": 291034,
       "game_name": "X-Men: 012 - Character: Magneto",
       "file": "missing/X/291034-x-men-012-character-magneto.json"
+    },
+    {
+      "igdb_id": 363513,
+      "game_name": "X-Men: 058 - Character: Gambit",
+      "file": "missing/X/363513-x-men-058-character-gambit.json"
+    },
+    {
+      "igdb_id": 363514,
+      "game_name": "X-Men: 059 - Character: Colossus",
+      "file": "missing/X/363514-x-men-059-character-colossus.json"
+    },
+    {
+      "igdb_id": 363515,
+      "game_name": "X-Men: 060 - Character: Nightcrawler",
+      "file": "missing/X/363515-x-men-060-character-nightcrawler.json"
+    },
+    {
+      "igdb_id": 363516,
+      "game_name": "X-Men: 061 - Character: Rogue",
+      "file": "missing/X/363516-x-men-061-character-rogue.json"
+    },
+    {
+      "igdb_id": 363517,
+      "game_name": "X-Men: 062 - Character: Beast",
+      "file": "missing/X/363517-x-men-062-character-beast.json"
+    },
+    {
+      "igdb_id": 363518,
+      "game_name": "X-Men: 063 - Character: Juggernaut",
+      "file": "missing/X/363518-x-men-063-character-juggernaut.json"
+    },
+    {
+      "igdb_id": 363519,
+      "game_name": "X-Men: 064 - Character: Toad",
+      "file": "missing/X/363519-x-men-064-character-toad.json"
+    },
+    {
+      "igdb_id": 363520,
+      "game_name": "X-Men: 065 - Character: Sabertooth",
+      "file": "missing/X/363520-x-men-065-character-sabertooth.json"
+    },
+    {
+      "igdb_id": 363521,
+      "game_name": "X-Men: 066 - Ultimate Character: Sabertooth",
+      "file": "missing/X/363521-x-men-066-ultimate-character-sabertooth.json"
+    },
+    {
+      "igdb_id": 363522,
+      "game_name": "X-Men: 067 - Character: Scarlet Witch",
+      "file": "missing/X/363522-x-men-067-character-scarlet-witch.json"
+    },
+    {
+      "igdb_id": 363523,
+      "game_name": "X-Men: 068 - Character: Sentinels",
+      "file": "missing/X/363523-x-men-068-character-sentinels.json"
+    },
+    {
+      "igdb_id": 363524,
+      "game_name": "X-Men: 069 - Attack Mod: Death Dealer",
+      "file": "missing/X/363524-x-men-069-attack-mod-death-dealer.json"
+    },
+    {
+      "igdb_id": 363525,
+      "game_name": "X-Men: 070 - Defense Mod: Kinetic Cover",
+      "file": "missing/X/363525-x-men-070-defense-mod-kinetic-cover.json"
+    },
+    {
+      "igdb_id": 363526,
+      "game_name": "X-Men: 071 - Attack Mod: Brutal Force",
+      "file": "missing/X/363526-x-men-071-attack-mod-brutal-force.json"
+    },
+    {
+      "igdb_id": 363527,
+      "game_name": "X-Men: 072 - Defense Mod: Steel-like Skin",
+      "file": "missing/X/363527-x-men-072-defense-mod-steel-like-skin.json"
     },
     {
       "igdb_id": 363528,
