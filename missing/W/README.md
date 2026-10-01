@@ -2680,6 +2680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winding Worlds | 117009 | [117009-winding-worlds.json](./117009-winding-worlds.json) |
 | Windjammers | 11222 | [11222-windjammers.json](./11222-windjammers.json) |
 | Windlands | 15932 | [15932-windlands.json](./15932-windlands.json) |
+| Window Aquarista | 373679 | [373679-window-aquarista.json](./373679-window-aquarista.json) |
 | Window Seat | 409643 | [409643-window-seat.json](./409643-window-seat.json) |
 | Windowframe | 70387 | [70387-windowframe.json](./70387-windowframe.json) |
 | Windows Mario World | 256297 | [256297-windows-mario-world.json](./256297-windows-mario-world.json) |
