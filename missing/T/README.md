@@ -1953,6 +1953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenebrous Dungeon | 115002 | [115002-tenebrous-dungeon.json](./115002-tenebrous-dungeon.json) |
 | Tenebrum | 268458 | [268458-tenebrum.json](./268458-tenebrum.json) |
 | Tenement | 279041 | [279041-tenement.json](./279041-tenement.json) |
+| Tenfold Tales | 365831 | [365831-tenfold-tales.json](./365831-tenfold-tales.json) |
 | Tengai Makyou Zero: Shonen Jump no Shou | 186735 | [186735-tengai-makyou-zero-shonen-jump-no-shou.json](./186735-tengai-makyou-zero-shonen-jump-no-shou.json) |
 | Tengai Makyou: Daiyon no Mokushiroku - The Apocalypse IV | 80577 | [80577-tengai-makyou-daiyon-no-mokushiroku-the-apocalypse-iv.json](./80577-tengai-makyou-daiyon-no-mokushiroku-the-apocalypse-iv.json) |
 | Tengai Makyou: Dennou Karakuri Kakutou-den | 45952 | [45952-tengai-makyou-dennou-karakuri-kakutou-den.json](./45952-tengai-makyou-dennou-karakuri-kakutou-den.json) |
@@ -3778,6 +3779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse of Zigoris | 130252 | [130252-the-curse-of-zigoris.json](./130252-the-curse-of-zigoris.json) |
 | The Curse We Made | 380623 | [380623-the-curse-we-made.json](./380623-the-curse-we-made.json) |
 | The Cursed Amulet | 249860 | [249860-the-cursed-amulet.json](./249860-the-cursed-amulet.json) |
+| The Cursed Deep | 365819 | [365819-the-cursed-deep.json](./365819-the-cursed-deep.json) |
 | The Cursed Forest | 35848 | [35848-the-cursed-forest.json](./35848-the-cursed-forest.json) |
 | The Cursed Garden | 342750 | [342750-the-cursed-garden.json](./342750-the-cursed-garden.json) |
 | The Cursed Hotel | 398325 | [398325-the-cursed-hotel.json](./398325-the-cursed-hotel.json) |
@@ -4523,6 +4525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Earth 2 | 126651 | [126651-the-final-earth-2.json](./126651-the-final-earth-2.json) |
 | The Final Exam | 318637 | [318637-the-final-exam.json](./318637-the-final-exam.json) |
 | The Final Exhibition | 245862 | [245862-the-final-exhibition.json](./245862-the-final-exhibition.json) |
+| The Final Flame | 365808 | [365808-the-final-flame.json](./365808-the-final-flame.json) |
 | The Final Front | 382440 | [382440-the-final-front.json](./382440-the-final-front.json) |
 | The Final Heist | 184640 | [184640-the-final-heist.json](./184640-the-final-heist.json) |
 | The Final Hour | 190061 | [190061-the-final-hour.json](./190061-the-final-hour.json) |
@@ -4893,6 +4896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great | 211959 | [211959-the-great.json](./211959-the-great.json) |
 | The Great Ace Attorney: Adventures | 76244 | [76244-the-great-ace-attorney-adventures.json](./76244-the-great-ace-attorney-adventures.json) |
 | The Great Art Race | 10690 | [10690-the-great-art-race.json](./10690-the-great-art-race.json) |
+| The Great Axe | 365824 | [365824-the-great-axe.json](./365824-the-great-axe.json) |
 | The Great Basement Escape | 385192 | [385192-the-great-basement-escape.json](./385192-the-great-basement-escape.json) |
 | The Great Bathroom Escape | 385190 | [385190-the-great-bathroom-escape.json](./385190-the-great-bathroom-escape.json) |
 | The Great Battle III | 66671 | [66671-the-great-battle-iii.json](./66671-the-great-battle-iii.json) |
