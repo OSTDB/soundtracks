@@ -1302,6 +1302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarabeus | 48858 | [48858-scarabeus.json](./48858-scarabeus.json) |
 | Scarabeus: Pearls of Nile | 65037 | [65037-scarabeus-pearls-of-nile.json](./65037-scarabeus-pearls-of-nile.json) |
 | Scare: Fatal Picture | 253871 | [253871-scare-fatal-picture.json](./253871-scare-fatal-picture.json) |
+| Scare: Fatal Picture - Manga Story | 358433 | [358433-scare-fatal-picture-manga-story.json](./358433-scare-fatal-picture-manga-story.json) |
 | Scarecrow vs. Big Butt Birds | 296389 | [296389-scarecrow-vs-big-butt-birds.json](./296389-scarecrow-vs-big-butt-birds.json) |
 | Scarecrow: Heart of Straw | 408146 | [408146-scarecrow-heart-of-straw.json](./408146-scarecrow-heart-of-straw.json) |
 | Scarecrows of Illyria | 211758 | [211758-scarecrows-of-illyria.json](./211758-scarecrows-of-illyria.json) |
@@ -2645,6 +2646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senran Nin Nin Ninja Taisen Neptune: Shoujo-tachi no Kyouen - Nep-Nep Shinobi Moe Box | 146338 | [146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json](./146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json) |
 | Sensations | 252733 | [252733-sensations.json](./252733-sensations.json) |
 | Sense Off: A Sacred Story in the Wind | 330277 | [330277-sense-off-a-sacred-story-in-the-wind.json](./330277-sense-off-a-sacred-story-in-the-wind.json) |
+| Sense: The Game | 358430 | [358430-sense-the-game.json](./358430-sense-the-game.json) |
 | Senseless | 312725 | [312725-senseless.json](./312725-senseless.json) |
 | Senses: Midnight | 153980 | [153980-senses-midnight.json](./153980-senses-midnight.json) |
 | Sensha SP | 222290 | [222290-sensha-sp.json](./222290-sensha-sp.json) |
@@ -6569,6 +6571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slippy the Frog | 258027 | [258027-slippy-the-frog.json](./258027-slippy-the-frog.json) |
 | SlipSlop | 119736 | [119736-slipslop.json](./119736-slipslop.json) |
 | SlipSpeed | 132818 | [132818-slipspeed.json](./132818-slipspeed.json) |
+| Slipstream | 358437 | [358437-slipstream.json](./358437-slipstream.json) |
 | Slipstream | 75096 | [75096-slipstream.json](./75096-slipstream.json) |
 | Sliptime Sleuth | 132698 | [132698-sliptime-sleuth.json](./132698-sliptime-sleuth.json) |
 | Slipways | 176372 | [176372-slipways.json](./176372-slipways.json) |
@@ -15152,6 +15155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario All-Stars | 5199 | [5199-super-mario-all-stars.json](./5199-super-mario-all-stars.json) |
 | Super Mario All-Stars: Limited Edition | 84920 | [84920-super-mario-all-stars-limited-edition.json](./84920-super-mario-all-stars-limited-edition.json) |
 | Super Mario and the Cursed Castles | 135216 | [135216-super-mario-and-the-cursed-castles.json](./135216-super-mario-and-the-cursed-castles.json) |
+| Super Mario and the Koopa Power | 358441 | [358441-super-mario-and-the-koopa-power.json](./358441-super-mario-and-the-koopa-power.json) |
 | Super Mario and the Marvel Adventure | 135178 | [135178-super-mario-and-the-marvel-adventure.json](./135178-super-mario-and-the-marvel-adventure.json) |
 | Super Mario and the Monstrous Manor | 280824 | [280824-super-mario-and-the-monstrous-manor.json](./280824-super-mario-and-the-monstrous-manor.json) |
 | Super Mario and the Sacred Bells | 135131 | [135131-super-mario-and-the-sacred-bells.json](./135131-super-mario-and-the-sacred-bells.json) |
@@ -15201,6 +15205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. Wonder | 254339 | [254339-super-mario-bros-wonder.json](./254339-super-mario-bros-wonder.json) |
 | Super Mario Bros. Wonder: Nintendo Switch 2 Edition + Meetup in Bellabel Park | 366881 | [366881-super-mario-bros-wonder-nintendo-switch-2-edition-meetup-in-bellabel-park.json](./366881-super-mario-bros-wonder-nintendo-switch-2-edition-meetup-in-bellabel-park.json) |
 | Super Mario Bros. Wonderland 1987 | 307720 | [307720-super-mario-bros-wonderland-1987.json](./307720-super-mario-bros-wonderland-1987.json) |
+| Super Mario Bros. X by 5438A38A | 358335 | [358335-super-mario-bros-x-by-5438a38a.json](./358335-super-mario-bros-x-by-5438a38a.json) |
 | Super Mario Bros.: Raiders of the Painting Realms | 323897 | [323897-super-mario-bros-raiders-of-the-painting-realms.json](./323897-super-mario-bros-raiders-of-the-painting-realms.json) |
 | Super Mario Bros.: The 8th Star | 324087 | [324087-super-mario-bros-the-8th-star.json](./324087-super-mario-bros-the-8th-star.json) |
 | Super Mario Bros.: The Cookie of Destiny | 323353 | [323353-super-mario-bros-the-cookie-of-destiny.json](./323353-super-mario-bros-the-cookie-of-destiny.json) |
