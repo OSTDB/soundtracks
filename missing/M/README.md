@@ -8688,6 +8688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moving Out 2: F.A.R.Tastic Four Pack | 261858 | [261858-moving-out-2-f-a-r-tastic-four-pack.json](./261858-moving-out-2-f-a-r-tastic-four-pack.json) |
 | Moving Out: Deluxe Edition | 224202 | [224202-moving-out-deluxe-edition.json](./224202-moving-out-deluxe-edition.json) |
 | Moving parts | 271221 | [271221-moving-parts.json](./271221-moving-parts.json) |
+| Moving Simulator | 346719 | [346719-moving-simulator.json](./346719-moving-simulator.json) |
 | Moving Through Life | 238476 | [238476-moving-through-life.json](./238476-moving-through-life.json) |
 | Moving with the Moon: Mastering Universal Gravitation! | 382891 | [382891-moving-with-the-moon-mastering-universal-gravitation.json](./382891-moving-with-the-moon-mastering-universal-gravitation.json) |
 | Movit | 89651 | [89651-movit.json](./89651-movit.json) |
