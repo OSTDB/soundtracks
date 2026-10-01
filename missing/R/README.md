@@ -4044,6 +4044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ritual Tournament | 190107 | [190107-ritual-tournament.json](./190107-ritual-tournament.json) |
 | Ritual: Path of Darkness | 265574 | [265574-ritual-path-of-darkness.json](./265574-ritual-path-of-darkness.json) |
 | Ritualistic Madness | 117719 | [117719-ritualistic-madness.json](./117719-ritualistic-madness.json) |
+| RitualRX | 346188 | [346188-ritualrx.json](./346188-ritualrx.json) |
 | Rituals of Demons | 405698 | [405698-rituals-of-demons.json](./405698-rituals-of-demons.json) |
 | RitualSummon | 201253 | [201253-ritualsummon.json](./201253-ritualsummon.json) |
 | Rivage | 380416 | [380416-rivage.json](./380416-rivage.json) |
@@ -4555,6 +4556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Paper Scissors: The Final Match | 369705 | [369705-rock-paper-scissors-the-final-match.json](./369705-rock-paper-scissors-the-final-match.json) |
 | Rock Paper Scissors: The Roguelike Puzzle Game | 410207 | [410207-rock-paper-scissors-the-roguelike-puzzle-game.json](./410207-rock-paper-scissors-the-roguelike-puzzle-game.json) |
 | Rock Paper Smash | 213464 | [213464-rock-paper-smash.json](./213464-rock-paper-smash.json) |
+| Rock Quest: A Rhythm Adventure | 346173 | [346173-rock-quest-a-rhythm-adventure.json](./346173-rock-quest-a-rhythm-adventure.json) |
 | Rock Scissor Paper | 262927 | [262927-rock-scissor-paper.json](./262927-rock-scissor-paper.json) |
 | Rock Simulator | 127932 | [127932-rock-simulator.json](./127932-rock-simulator.json) |
 | Rock Star Life Simulator | 260409 | [260409-rock-star-life-simulator.json](./260409-rock-star-life-simulator.json) |
@@ -4987,6 +4989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RogueVirus | 372621 | [372621-roguevirus.json](./372621-roguevirus.json) |
 | Roguie | 382303 | [382303-roguie.json](./382303-roguie.json) |
 | Rogum: A Cat Match Puzzle | 386691 | [386691-rogum-a-cat-match-puzzle.json](./386691-rogum-a-cat-match-puzzle.json) |
+| Rogumon | 346193 | [346193-rogumon.json](./346193-rogumon.json) |
 | Rogun Arena | 165046 | [165046-rogun-arena.json](./165046-rogun-arena.json) |
 | Rogunky | 333376 | [333376-rogunky.json](./333376-rogunky.json) |
 | Rohan II | 371876 | [371876-rohan-ii.json](./371876-rohan-ii.json) |
