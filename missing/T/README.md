@@ -4746,6 +4746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Furniture of Self | 185626 | [185626-the-furniture-of-self.json](./185626-the-furniture-of-self.json) |
 | The Furry Protocol | 406860 | [406860-the-furry-protocol.json](./406860-the-furry-protocol.json) |
 | The Future Devil Must Work! Debt Repayment Arc | 82916 | [82916-the-future-devil-must-work-debt-repayment-arc.json](./82916-the-future-devil-must-work-debt-repayment-arc.json) |
+| The Future Is Loading... | 355174 | [355174-the-future-is-loading.json](./355174-the-future-is-loading.json) |
 | The Future Project | 190140 | [190140-the-future-project.json](./190140-the-future-project.json) |
 | The Future Radio and the Artificial Pigeons | 220663 | [220663-the-future-radio-and-the-artificial-pigeons.json](./220663-the-future-radio-and-the-artificial-pigeons.json) |
 | The Futurist | 181355 | [181355-the-futurist.json](./181355-the-futurist.json) |
