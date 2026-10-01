@@ -3323,6 +3323,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Log.in | 133949 | [133949-log-in.json](./133949-log-in.json) |
 | Log.in | 381170 | [381170-log-in.json](./381170-log-in.json) |
 | Logi Box | 339630 | [339630-logi-box.json](./339630-logi-box.json) |
+| Logiart Grimoire: Emil's Magic Training, Part 4 | 357389 | [357389-logiart-grimoire-emils-magic-training-part-4.json](./357389-logiart-grimoire-emils-magic-training-part-4.json) |
+| Logiart Grimoire: Emil's Magic Training, Part 5 | 357390 | [357390-logiart-grimoire-emils-magic-training-part-5.json](./357390-logiart-grimoire-emils-magic-training-part-5.json) |
 | Logic Bombs | 353412 | [353412-logic-bombs.json](./353412-logic-bombs.json) |
 | Logic Circuit: Marble Puzzle | 210854 | [210854-logic-circuit-marble-puzzle.json](./210854-logic-circuit-marble-puzzle.json) |
 | Logic Cubes | 381792 | [381792-logic-cubes.json](./381792-logic-cubes.json) |
