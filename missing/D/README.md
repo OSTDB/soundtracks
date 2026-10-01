@@ -3296,6 +3296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desouled | 413087 | [413087-desouled.json](./413087-desouled.json) |
 | Despair | 268774 | [268774-despair.json](./268774-despair.json) |
 | Despair 3 | 57684 | [57684-despair-3.json](./57684-despair-3.json) |
+| Despair Mario's Gambit 64 | 378345 | [378345-despair-marios-gambit-64.json](./378345-despair-marios-gambit-64.json) |
 | Despair Mario's Gambit: Hint Arts | 388248 | [388248-despair-marios-gambit-hint-arts.json](./388248-despair-marios-gambit-hint-arts.json) |
 | Despair: Blood Curse | 153951 | [153951-despair-blood-curse.json](./153951-despair-blood-curse.json) |
 | Despatch: Entity Astray | 158062 | [158062-despatch-entity-astray.json](./158062-despatch-entity-astray.json) |
@@ -5709,6 +5710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Starve: Pocket Edition | 86925 | [86925-dont-starve-pocket-edition.json](./86925-dont-starve-pocket-edition.json) |
 | Don't Stop | 106139 | [106139-dont-stop.json](./106139-dont-stop.json) |
 | Don't Stop Corocco | 151663 | [151663-dont-stop-corocco.json](./151663-dont-stop-corocco.json) |
+| Don't Stop in Red Wood | 378387 | [378387-dont-stop-in-red-wood.json](./378387-dont-stop-in-red-wood.json) |
 | Don’t Stop Smiling | 384146 | [384146-don-t-stop-smiling.json](./384146-don-t-stop-smiling.json) |
 | Don't Stop You'll Die | 211794 | [211794-dont-stop-youll-die.json](./211794-dont-stop-youll-die.json) |
 | Don't Stop, Girlypop! | 287870 | [287870-dont-stop-girlypop.json](./287870-dont-stop-girlypop.json) |
@@ -8869,6 +8871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dysphoria | 260808 | [260808-dysphoria.json](./260808-dysphoria.json) |
 | Dysphoria | 303017 | [303017-dysphoria.json](./303017-dysphoria.json) |
 | Dysplaced | 258472 | [258472-dysplaced.json](./258472-dysplaced.json) |
+| Dysthanasia | 378381 | [378381-dysthanasia.json](./378381-dysthanasia.json) |
 | Dysto-wanderer | 319016 | [319016-dysto-wanderer.json](./319016-dysto-wanderer.json) |
 | Dystofarm | 275347 | [275347-dystofarm.json](./275347-dystofarm.json) |
 | Dystopia | 108428 | [108428-dystopia.json](./108428-dystopia.json) |
