@@ -3319,6 +3319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Superhero Simulator | 364054 | [364054-evil-superhero-simulator.json](./364054-evil-superhero-simulator.json) |
 | Evil Superhero VR: Superhero Simulator | 370884 | [370884-evil-superhero-vr-superhero-simulator.json](./370884-evil-superhero-vr-superhero-simulator.json) |
 | Evil Tactics | 236018 | [236018-evil-tactics.json](./236018-evil-tactics.json) |
+| Evil Twin | 352319 | [352319-evil-twin.json](./352319-evil-twin.json) |
 | Evil Twin: Cyprien's Chronicles | 18332 | [18332-evil-twin-cypriens-chronicles.json](./18332-evil-twin-cypriens-chronicles.json) |
 | Evil Unleashed | 269118 | [269118-evil-unleashed.json](./269118-evil-unleashed.json) |
 | Evil Water Ep1 | 339380 | [339380-evil-water-ep1.json](./339380-evil-water-ep1.json) |
