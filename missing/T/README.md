@@ -6781,6 +6781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mistcaller | 234641 | [234641-the-mistcaller.json](./234641-the-mistcaller.json) |
 | The Misty Tale | 190190 | [190190-the-misty-tale.json](./190190-the-misty-tale.json) |
 | The Mixer | 223178 | [223178-the-mixer.json](./223178-the-mixer.json) |
+| The Mnemograph | 337304 | [337304-the-mnemograph.json](./337304-the-mnemograph.json) |
 | The Mofflys: Invasion Mayhem | 278509 | [278509-the-mofflys-invasion-mayhem.json](./278509-the-mofflys-invasion-mayhem.json) |
 | The Moment We Met | 110910 | [110910-the-moment-we-met.json](./110910-the-moment-we-met.json) |
 | The Momo Game | 110632 | [110632-the-momo-game.json](./110632-the-momo-game.json) |
@@ -15938,6 +15939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Eagle II | 70389 | [70389-twin-eagle-ii.json](./70389-twin-eagle-ii.json) |
 | Twin Kingdom Valley | 12971 | [12971-twin-kingdom-valley.json](./12971-twin-kingdom-valley.json) |
 | Twin Mind: Nobody's Here | 228076 | [228076-twin-mind-nobodys-here.json](./228076-twin-mind-nobodys-here.json) |
+| Twin Mind: The Deathly Trick - Collector's Edition | 337223 | [337223-twin-mind-the-deathly-trick-collectors-edition.json](./337223-twin-mind-the-deathly-trick-collectors-edition.json) |
 | Twin Moons | 88303 | [88303-twin-moons.json](./88303-twin-moons.json) |
 | Twin Peaks | 199028 | [199028-twin-peaks.json](./199028-twin-peaks.json) |
 | Twin Peaks VR | 110584 | [110584-twin-peaks-vr.json](./110584-twin-peaks-vr.json) |
