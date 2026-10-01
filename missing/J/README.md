@@ -1427,6 +1427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jubeat Ripples | 91903 | [91903-jubeat-ripples.json](./91903-jubeat-ripples.json) |
 | Jubilane | 165696 | [165696-jubilane.json](./165696-jubilane.json) |
 | Jubilee | 366357 | [366357-jubilee.json](./366357-jubilee.json) |
+| Jubox 2 | 334819 | [334819-jubox-2.json](./334819-jubox-2.json) |
 | Juda | 120780 | [120780-juda.json](./120780-juda.json) |
 | Judas | 228527 | [228527-judas.json](./228527-judas.json) |
 | Judas | 29714 | [29714-judas.json](./29714-judas.json) |
