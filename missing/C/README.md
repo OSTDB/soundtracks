@@ -2275,6 +2275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caves of Olympus | 25852 | [25852-caves-of-olympus.json](./25852-caves-of-olympus.json) |
 | Caves of Qud | 24054 | [24054-caves-of-qud.json](./24054-caves-of-qud.json) |
 | Caves of Qud: Pets of Harvest Dawn | 389407 | [389407-caves-of-qud-pets-of-harvest-dawn.json](./389407-caves-of-qud-pets-of-harvest-dawn.json) |
+| Caves of Rigel | 352343 | [352343-caves-of-rigel.json](./352343-caves-of-rigel.json) |
 | Caves, Canyons & Crevices | 271774 | [271774-caves-canyons-and-crevices.json](./271774-caves-canyons-and-crevices.json) |
 | Cavescape | 317012 | [317012-cavescape.json](./317012-cavescape.json) |
 | Caveshifter | 216759 | [216759-caveshifter.json](./216759-caveshifter.json) |
@@ -3746,6 +3747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Country | 45938 | [45938-christmas-country.json](./45938-christmas-country.json) |
 | Christmas Crisis | 45937 | [45937-christmas-crisis.json](./45937-christmas-crisis.json) |
 | Christmas Defence | 112774 | [112774-christmas-defence.json](./112774-christmas-defence.json) |
+| Christmas Dropini | 352341 | [352341-christmas-dropini.json](./352341-christmas-dropini.json) |
 | Christmas Escape | 314046 | [314046-christmas-escape.json](./314046-christmas-escape.json) |
 | Christmas Eve: Midnight's Call - Collector's Edition | 30201 | [30201-christmas-eve-midnights-call-collectors-edition.json](./30201-christmas-eve-midnights-call-collectors-edition.json) |
 | Christmas Fables: Holiday Guardians | 417586 | [417586-christmas-fables-holiday-guardians.json](./417586-christmas-fables-holiday-guardians.json) |
@@ -7360,6 +7362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Caravan | 290500 | [290500-cozy-caravan.json](./290500-cozy-caravan.json) |
 | Cozy Cards | 209616 | [209616-cozy-cards.json](./209616-cozy-cards.json) |
 | Cozy Cat Cafe | 399630 | [399630-cozy-cat-cafe.json](./399630-cozy-cat-cafe.json) |
+| Cozy Catch | 352355 | [352355-cozy-catch.json](./352355-cozy-catch.json) |
 | Cozy Christmas Home Jigsaw Puzzles | 228114 | [228114-cozy-christmas-home-jigsaw-puzzles.json](./228114-cozy-christmas-home-jigsaw-puzzles.json) |
 | Cozy Claw Machine | 321513 | [321513-cozy-claw-machine.json](./321513-cozy-claw-machine.json) |
 | Cozy Collection | 356848 | [356848-cozy-collection.json](./356848-cozy-collection.json) |
@@ -9330,6 +9333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursewarden | 348233 | [348233-cursewarden.json](./348233-cursewarden.json) |
 | Cursflip | 380630 | [380630-cursflip.json](./380630-cursflip.json) |
 | Cursifix | 376638 | [376638-cursifix.json](./376638-cursifix.json) |
+| Cursor | 352340 | [352340-cursor.json](./352340-cursor.json) |
 | Cursor Blast | 348439 | [348439-cursor-blast.json](./348439-cursor-blast.json) |
 | Cursor Car | 182928 | [182928-cursor-car.json](./182928-cursor-car.json) |
 | Cursor Challenge | 33120 | [33120-cursor-challenge.json](./33120-cursor-challenge.json) |
@@ -9560,6 +9564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Rush | 296522 | [296522-cyber-rush.json](./296522-cyber-rush.json) |
 | Cyber Russia | 300693 | [300693-cyber-russia.json](./300693-cyber-russia.json) |
 | Cyber Sensation: MicroLife | 351631 | [351631-cyber-sensation-microlife.json](./351631-cyber-sensation-microlife.json) |
+| Cyber Sentinel | 352329 | [352329-cyber-sentinel.json](./352329-cyber-sentinel.json) |
 | Cyber Seraph | 140447 | [140447-cyber-seraph.json](./140447-cyber-seraph.json) |
 | Cyber Shard Clicker | 374205 | [374205-cyber-shard-clicker.json](./374205-cyber-shard-clicker.json) |
 | Cyber Slayer | 219672 | [219672-cyber-slayer.json](./219672-cyber-slayer.json) |
