@@ -1417,6 +1417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DayZ: Livonia Edition | 164803 | [164803-dayz-livonia-edition.json](./164803-dayz-livonia-edition.json) |
 | Daze Before Christmas | 7662 | [7662-daze-before-christmas.json](./7662-daze-before-christmas.json) |
 | Dazzeloids | 64351 | [64351-dazzeloids.json](./64351-dazzeloids.json) |
+| Dazzly Stories: Ambre's Secret | 346723 | [346723-dazzly-stories-ambres-secret.json](./346723-dazzly-stories-ambres-secret.json) |
 | DBall | 339368 | [339368-dball.json](./339368-dball.json) |
 | DC Battle Arena | 137600 | [137600-dc-battle-arena.json](./137600-dc-battle-arena.json) |
 | DC Comics Legends | 60027 | [60027-dc-comics-legends.json](./60027-dc-comics-legends.json) |
@@ -2242,6 +2243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debugging Hero | 351164 | [351164-debugging-hero.json](./351164-debugging-hero.json) |
 | Deca Sports 3 | 20699 | [20699-deca-sports-3.json](./20699-deca-sports-3.json) |
 | Decadence | 256799 | [256799-decadence.json](./256799-decadence.json) |
+| Decadence | 346640 | [346640-decadence.json](./346640-decadence.json) |
 | Decadent Heir | 334217 | [334217-decadent-heir.json](./334217-decadent-heir.json) |
 | DecaDungeons | 393043 | [393043-decadungeons.json](./393043-decadungeons.json) |
 | DeCalc | 62972 | [62972-decalc.json](./62972-decalc.json) |
@@ -4322,6 +4324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dine Together | 205238 | [205238-dine-together.json](./205238-dine-together.json) |
 | DineInn | 343434 | [343434-dineinn.json](./343434-dineinn.json) |
 | Diner Bros | 97040 | [97040-diner-bros.json](./97040-diner-bros.json) |
+| Diner Bros 2 | 346700 | [346700-diner-bros-2.json](./346700-diner-bros-2.json) |
 | Diner Bros: Sushi Bros | 169300 | [169300-diner-bros-sushi-bros.json](./169300-diner-bros-sushi-bros.json) |
 | Diner Dash | 85564 | [85564-diner-dash.json](./85564-diner-dash.json) |
 | Diner Dash 2: Restaurant Rescue | 78690 | [78690-diner-dash-2-restaurant-rescue.json](./78690-diner-dash-2-restaurant-rescue.json) |
@@ -5680,6 +5683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domino! | 281483 | [281483-domino.json](./281483-domino.json) |
 | Dominoes Café | 204967 | [204967-dominoes-cafe.json](./204967-dominoes-cafe.json) |
 | Dominoes Colors | 264599 | [264599-dominoes-colors.json](./264599-dominoes-colors.json) |
+| Dominoid | 346641 | [346641-dominoid.json](./346641-dominoid.json) |
 | DomiNoo | 262453 | [262453-dominoo.json](./262453-dominoo.json) |
 | Dominos | 88431 | [88431-dominos.json](./88431-dominos.json) |
 | Dominos Pro | 86694 | [86694-dominos-pro.json](./86694-dominos-pro.json) |
@@ -5801,6 +5805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Mess With Bober | 350603 | [350603-dont-mess-with-bober.json](./350603-dont-mess-with-bober.json) |
 | Don't Mess with Gamers | 322128 | [322128-dont-mess-with-gamers.json](./322128-dont-mess-with-gamers.json) |
 | Don't Mess With Your Ex | 414309 | [414309-dont-mess-with-your-ex.json](./414309-dont-mess-with-your-ex.json) |
+| Don't Move | 346726 | [346726-dont-move.json](./346726-dont-move.json) |
 | Don't Move | 36126 | [36126-dont-move.json](./36126-dont-move.json) |
 | Don't Not Live | 259508 | [259508-dont-not-live.json](./259508-dont-not-live.json) |
 | Don't Notice Me | 105196 | [105196-dont-notice-me.json](./105196-dont-notice-me.json) |
@@ -8884,6 +8889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarf Complete | 191796 | [191796-dwarf-complete.json](./191796-dwarf-complete.json) |
 | Dwarf Core | 417611 | [417611-dwarf-core.json](./417611-dwarf-core.json) |
 | Dwarf Defense | 101339 | [101339-dwarf-defense.json](./101339-dwarf-defense.json) |
+| Dwarf Digger | 346742 | [346742-dwarf-digger.json](./346742-dwarf-digger.json) |
 | Dwarf Eats Mountain | 390780 | [390780-dwarf-eats-mountain.json](./390780-dwarf-eats-mountain.json) |
 | Dwarf Fortress | 228456 | [228456-dwarf-fortress.json](./228456-dwarf-fortress.json) |
 | Dwarf Guild Mania | 387026 | [387026-dwarf-guild-mania.json](./387026-dwarf-guild-mania.json) |
