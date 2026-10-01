@@ -5670,6 +5670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Drop | 318194 | [318194-the-last-drop.json](./318194-the-last-drop.json) |
 | The Last Duskreaper | 236927 | [236927-the-last-duskreaper.json](./236927-the-last-duskreaper.json) |
 | The Last Earth Fighter | 371239 | [371239-the-last-earth-fighter.json](./371239-the-last-earth-fighter.json) |
+| The Last Element | 385288 | [385288-the-last-element.json](./385288-the-last-element.json) |
 | The Last Errant | 396934 | [396934-the-last-errant.json](./396934-the-last-errant.json) |
 | The Last Error | 32855 | [32855-the-last-error.json](./32855-the-last-error.json) |
 | The Last Exam | 244210 | [244210-the-last-exam.json](./244210-the-last-exam.json) |
@@ -6084,6 +6085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Leviathan's Fantasy: Mechanical Crisis | 329013 | [329013-the-leviathans-fantasy-mechanical-crisis.json](./329013-the-leviathans-fantasy-mechanical-crisis.json) |
 | The Leviathan's Fantasy: Samurai and Onmyoji | 298175 | [298175-the-leviathans-fantasy-samurai-and-onmyoji.json](./298175-the-leviathans-fantasy-samurai-and-onmyoji.json) |
 | The Lewd Deal | 375971 | [375971-the-lewd-deal.json](./375971-the-lewd-deal.json) |
+| The Lewd of the Cock Rings: The Return of Doug Fooker | 385276 | [385276-the-lewd-of-the-cock-rings-the-return-of-doug-fooker.json](./385276-the-lewd-of-the-cock-rings-the-return-of-doug-fooker.json) |
 | The Liar's Tavern | 322981 | [322981-the-liars-tavern.json](./322981-the-liars-tavern.json) |
 | The Liberation of Kuwait | 73740 | [73740-the-liberation-of-kuwait.json](./73740-the-liberation-of-kuwait.json) |
 | The Librarian: Special Edition | 241360 | [241360-the-librarian-special-edition.json](./241360-the-librarian-special-edition.json) |
@@ -8091,6 +8093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stanley Parable: Ultra Deluxe | 113119 | [113119-the-stanley-parable-ultra-deluxe.json](./113119-the-stanley-parable-ultra-deluxe.json) |
 | The Star Bowling DX | 386680 | [386680-the-star-bowling-dx.json](./386680-the-star-bowling-dx.json) |
 | The Star Named Eos | 226505 | [226505-the-star-named-eos.json](./226505-the-star-named-eos.json) |
+| The Starfallen Prince | 385241 | [385241-the-starfallen-prince.json](./385241-the-starfallen-prince.json) |
 | The Starfire Soccer Challenge | 70383 | [70383-the-starfire-soccer-challenge.json](./70383-the-starfire-soccer-challenge.json) |
 | The Stargazers | 33478 | [33478-the-stargazers.json](./33478-the-stargazers.json) |
 | The Stars are Right | 391346 | [391346-the-stars-are-right.json](./391346-the-stars-are-right.json) |
