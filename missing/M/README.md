@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.A.C.S. | 90645 | [90645-m-a-c-s.json](./90645-m-a-c-s.json) |
 | M.A.I.D.s | 148360 | [148360-m-a-i-d-s.json](./148360-m-a-i-d-s.json) |
 | M.A.L.M.O: Scorched Earth | 358346 | [358346-m-a-l-m-o-scorched-earth.json](./358346-m-a-l-m-o-scorched-earth.json) |
+| M.A.U.S | 380650 | [380650-m-a-u-s.json](./380650-m-a-u-s.json) |
 | M.A.Y.A | 397827 | [397827-m-a-y-a.json](./397827-m-a-y-a.json) |
 | M.C Kids | 2718 | [2718-m-c-kids.json](./2718-m-c-kids.json) |
 | M.C Kids | 285032 | [285032-m-c-kids.json](./285032-m-c-kids.json) |
@@ -1470,6 +1471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manifold | 165407 | [165407-manifold.json](./165407-manifold.json) |
 | Manika | 290528 | [290528-manika.json](./290528-manika.json) |
 | Manikineko Online | 392458 | [392458-manikineko-online.json](./392458-manikineko-online.json) |
+| Manipulation | 380600 | [380600-manipulation.json](./380600-manipulation.json) |
 | Manipulator of Figure 3 | 335448 | [335448-manipulator-of-figure-3.json](./335448-manipulator-of-figure-3.json) |
 | Manji: PSY Yuuki | 142860 | [142860-manji-psy-yuuki.json](./142860-manji-psy-yuuki.json) |
 | Mankind | 260659 | [260659-mankind.json](./260659-mankind.json) |
@@ -2427,6 +2429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Chess Ultimate | 193459 | [193459-master-chess-ultimate.json](./193459-master-chess-ultimate.json) |
 | Master Chu and the Drunkard Hu | 48178 | [48178-master-chu-and-the-drunkard-hu.json](./48178-master-chu-and-the-drunkard-hu.json) |
 | Master Cube | 120377 | [120377-master-cube.json](./120377-master-cube.json) |
+| Master Detective | 380651 | [380651-master-detective.json](./380651-master-detective.json) |
 | Master Detective Archives: Rain Code | 183617 | [183617-master-detective-archives-rain-code.json](./183617-master-detective-archives-rain-code.json) |
 | Master Detective Archives: Rain Code - Ch. Fubuki: Fubuki's Luckiest Day | 259573 | [259573-master-detective-archives-rain-code-ch-fubuki-fubukis-luckiest-day.json](./259573-master-detective-archives-rain-code-ch-fubuki-fubukis-luckiest-day.json) |
 | Master Detective Archives: Rain Code - Ch. Halara: Raining Cats & Dog | 268575 | [268575-master-detective-archives-rain-code-ch-halara-raining-cats-and-dog.json](./268575-master-detective-archives-rain-code-ch-halara-raining-cats-and-dog.json) |
@@ -4056,6 +4059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories Off: Yubikiri no Kioku - Limited Edition | 413661 | [413661-memories-off-yubikiri-no-kioku-limited-edition.json](./413661-memories-off-yubikiri-no-kioku-limited-edition.json) |
 | Memories Off: Yubikiri no Kioku + Sweets Pack - Limited Edition | 413666 | [413666-memories-off-yubikiri-no-kioku-sweets-pack-limited-edition.json](./413666-memories-off-yubikiri-no-kioku-sweets-pack-limited-edition.json) |
 | Memories Unveiled | 262485 | [262485-memories-unveiled.json](./262485-memories-unveiled.json) |
+| Memories With You | 380602 | [380602-memories-with-you.json](./380602-memories-with-you.json) |
 | Memories: Millennium Girl | 263206 | [263206-memories-millennium-girl.json](./263206-memories-millennium-girl.json) |
 | Memories: Silenced | 403100 | [403100-memories-silenced.json](./403100-memories-silenced.json) |
 | Memorise: Creation | 112969 | [112969-memorise-creation.json](./112969-memorise-creation.json) |
@@ -8965,6 +8969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murmeln und mehr ... | 86061 | [86061-murmeln-und-mehr.json](./86061-murmeln-und-mehr.json) |
 | MurMur | 239333 | [239333-murmur.json](./239333-murmur.json) |
 | Murmuring of Moth Mouth | 417596 | [417596-murmuring-of-moth-mouth.json](./417596-murmuring-of-moth-mouth.json) |
+| Murmurs | 380643 | [380643-murmurs.json](./380643-murmurs.json) |
 | Murnatan | 62718 | [62718-murnatan.json](./62718-murnatan.json) |
 | Murphy's Minerals | 330157 | [330157-murphys-minerals.json](./330157-murphys-minerals.json) |
 | Musa | 298186 | [298186-musa.json](./298186-musa.json) |
