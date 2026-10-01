@@ -3019,6 +3019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Teacher | 226140 | [226140-sex-teacher.json](./226140-sex-teacher.json) |
 | Sex Therapy | 384223 | [384223-sex-therapy.json](./384223-sex-therapy.json) |
 | Sex Twice Hentai | 319170 | [319170-sex-twice-hentai.json](./319170-sex-twice-hentai.json) |
+| Sex Viking Island | 379530 | [379530-sex-viking-island.json](./379530-sex-viking-island.json) |
 | Sex Vixens From Space | 72378 | [72378-sex-vixens-from-space.json](./72378-sex-vixens-from-space.json) |
 | SEX VR Horny Nurses | 147875 | [147875-sex-vr-horny-nurses.json](./147875-sex-vr-horny-nurses.json) |
 | Sex With Friends | 367048 | [367048-sex-with-friends.json](./367048-sex-with-friends.json) |
@@ -3033,6 +3034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexbot | 277364 | [277364-sexbot.json](./277364-sexbot.json) |
 | Sexdivers | 324680 | [324680-sexdivers.json](./324680-sexdivers.json) |
 | Sexorcism: Lust Confession | 396404 | [396404-sexorcism-lust-confession.json](./396404-sexorcism-lust-confession.json) |
+| Sexstellar | 379531 | [379531-sexstellar.json](./379531-sexstellar.json) |
 | Sextris | 185629 | [185629-sextris.json](./185629-sextris.json) |
 | Sextris Effect | 385240 | [385240-sextris-effect.json](./385240-sextris-effect.json) |
 | Sexts | 234750 | [234750-sexts.json](./234750-sexts.json) |
@@ -8881,6 +8883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulworker Academia | 143053 | [143053-soulworker-academia.json](./143053-soulworker-academia.json) |
 | SoulWorker: Anime Legends | 200736 | [200736-soulworker-anime-legends.json](./200736-soulworker-anime-legends.json) |
 | Soumei: Crescent Moon | 382781 | [382781-soumei-crescent-moon.json](./382781-soumei-crescent-moon.json) |
+| Sound Balling 2 | 379542 | [379542-sound-balling-2.json](./379542-sound-balling-2.json) |
 | Sound Balling 3 | 334756 | [334756-sound-balling-3.json](./334756-sound-balling-3.json) |
 | Sound Garden | 243684 | [243684-sound-garden.json](./243684-sound-garden.json) |
 | Sound Horizons | 304882 | [304882-sound-horizons.json](./304882-sound-horizons.json) |
@@ -16539,6 +16542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Spring Festival | 339441 | [339441-sweet-spring-festival.json](./339441-sweet-spring-festival.json) |
 | Sweet Starlight Sisters | 378897 | [378897-sweet-starlight-sisters.json](./378897-sweet-starlight-sisters.json) |
 | Sweet Story Neko | 371441 | [371441-sweet-story-neko.json](./371441-sweet-story-neko.json) |
+| Sweet Succubus | 379532 | [379532-sweet-succubus.json](./379532-sweet-succubus.json) |
 | Sweet Summer | 339440 | [339440-sweet-summer.json](./339440-sweet-summer.json) |
 | Sweet Surge | 195196 | [195196-sweet-surge.json](./195196-sweet-surge.json) |
 | Sweet Survival | 392910 | [392910-sweet-survival.json](./392910-sweet-survival.json) |
