@@ -1663,7 +1663,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | June Bride Nightmare | 356620 | [356620-june-bride-nightmare.json](./356620-june-bride-nightmare.json) |
 | Jung Rhythm | 55856 | [55856-jung-rhythm.json](./55856-jung-rhythm.json) |
 | Jung's Labyrinth | 149562 | [149562-jungs-labyrinth.json](./149562-jungs-labyrinth.json) |
+| Jungle Adventures 2 | 362958 | [362958-jungle-adventures-2.json](./362958-jungle-adventures-2.json) |
 | Jungle Adventures 3 | 221705 | [221705-jungle-adventures-3.json](./221705-jungle-adventures-3.json) |
+| Jungle Adventures 4 | 362959 | [362959-jungle-adventures-4.json](./362959-jungle-adventures-4.json) |
 | Jungle Blocks | 67967 | [67967-jungle-blocks.json](./67967-jungle-blocks.json) |
 | Jungle Bloody Operation | 287788 | [287788-jungle-bloody-operation.json](./287788-jungle-bloody-operation.json) |
 | Jungle Bomb Fever | 232916 | [232916-jungle-bomb-fever.json](./232916-jungle-bomb-fever.json) |
