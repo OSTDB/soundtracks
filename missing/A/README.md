@@ -1300,9 +1300,37 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Kick Challenge | 379477 | [379477-advanced-kick-challenge.json](./379477-advanced-kick-challenge.json) |
 | Advanced NetWars | 78001 | [78001-advanced-netwars.json](./78001-advanced-netwars.json) |
 | Advanced Pasta Cooking Simulator | 215766 | [215766-advanced-pasta-cooking-simulator.json](./215766-advanced-pasta-cooking-simulator.json) |
+| Advanced PET Battle Chip - GutsMan DS | 354040 | [354040-advanced-pet-battle-chip-gutsman-ds.json](./354040-advanced-pet-battle-chip-gutsman-ds.json) |
+| Advanced PET Battle Chip - Jealousy | 354030 | [354030-advanced-pet-battle-chip-jealousy.json](./354030-advanced-pet-battle-chip-jealousy.json) |
+| Advanced PET: Battle Chip - Aqua Upper 1 | 354020 | [354020-advanced-pet-battle-chip-aqua-upper-1.json](./354020-advanced-pet-battle-chip-aqua-upper-1.json) |
+| Advanced PET: Battle Chip - Aqua Upper 2 | 354022 | [354022-advanced-pet-battle-chip-aqua-upper-2.json](./354022-advanced-pet-battle-chip-aqua-upper-2.json) |
+| Advanced PET: Battle Chip - Aqua Upper 3 | 354023 | [354023-advanced-pet-battle-chip-aqua-upper-3.json](./354023-advanced-pet-battle-chip-aqua-upper-3.json) |
+| Advanced PET: Battle Chip - Attack+30 | 354028 | [354028-advanced-pet-battle-chip-attack-30.json](./354028-advanced-pet-battle-chip-attack-30.json) |
+| Advanced PET: Battle Chip - Black Wing | 354033 | [354033-advanced-pet-battle-chip-black-wing.json](./354033-advanced-pet-battle-chip-black-wing.json) |
+| Advanced PET: Battle Chip - Bug Chain | 354031 | [354031-advanced-pet-battle-chip-bug-chain.json](./354031-advanced-pet-battle-chip-bug-chain.json) |
+| Advanced PET: Battle Chip - Bug Shuusei | 354029 | [354029-advanced-pet-battle-chip-bug-shuusei.json](./354029-advanced-pet-battle-chip-bug-shuusei.json) |
 | Advanced PET: Battle Chip - Counter 2 | 352964 | [352964-advanced-pet-battle-chip-counter-2.json](./352964-advanced-pet-battle-chip-counter-2.json) |
+| Advanced PET: Battle Chip - Daikouzui | 354013 | [354013-advanced-pet-battle-chip-daikouzui.json](./354013-advanced-pet-battle-chip-daikouzui.json) |
+| Advanced PET: Battle Chip - Dark Line | 354034 | [354034-advanced-pet-battle-chip-dark-line.json](./354034-advanced-pet-battle-chip-dark-line.json) |
+| Advanced PET: Battle Chip - Element Dark | 354032 | [354032-advanced-pet-battle-chip-element-dark.json](./354032-advanced-pet-battle-chip-element-dark.json) |
+| Advanced PET: Battle Chip - Green Wood 1 | 354024 | [354024-advanced-pet-battle-chip-green-wood-1.json](./354024-advanced-pet-battle-chip-green-wood-1.json) |
+| Advanced PET: Battle Chip - Green Wood 2 | 354025 | [354025-advanced-pet-battle-chip-green-wood-2.json](./354025-advanced-pet-battle-chip-green-wood-2.json) |
+| Advanced PET: Battle Chip - Green Wood 3 | 354026 | [354026-advanced-pet-battle-chip-green-wood-3.json](./354026-advanced-pet-battle-chip-green-wood-3.json) |
+| Advanced PET: Battle Chip - Gun del Sol EX | 354035 | [354035-advanced-pet-battle-chip-gun-del-sol-ex.json](./354035-advanced-pet-battle-chip-gun-del-sol-ex.json) |
+| Advanced PET: Battle Chip - GutsMan | 354039 | [354039-advanced-pet-battle-chip-gutsman.json](./354039-advanced-pet-battle-chip-gutsman.json) |
+| Advanced PET: Battle Chip - Metal Gear 1 | 354014 | [354014-advanced-pet-battle-chip-metal-gear-1.json](./354014-advanced-pet-battle-chip-metal-gear-1.json) |
+| Advanced PET: Battle Chip - Metal Gear 3 | 354016 | [354016-advanced-pet-battle-chip-metal-gear-3.json](./354016-advanced-pet-battle-chip-metal-gear-3.json) |
 | Advanced PET: Battle Chip - Panel Return | 352967 | [352967-advanced-pet-battle-chip-panel-return.json](./352967-advanced-pet-battle-chip-panel-return.json) |
+| Advanced PET: Battle Chip - Panel Shoot 2 | 354017 | [354017-advanced-pet-battle-chip-panel-shoot-2.json](./354017-advanced-pet-battle-chip-panel-shoot-2.json) |
+| Advanced PET: Battle Chip - Panel Shoot 3 | 354018 | [354018-advanced-pet-battle-chip-panel-shoot-3.json](./354018-advanced-pet-battle-chip-panel-shoot-3.json) |
+| Advanced PET: Battle Chip - Poison Anubis | 354027 | [354027-advanced-pet-battle-chip-poison-anubis.json](./354027-advanced-pet-battle-chip-poison-anubis.json) |
 | Advanced PET: Battle Chip - Roll Arrow 1 | 352968 | [352968-advanced-pet-battle-chip-roll-arrow-1.json](./352968-advanced-pet-battle-chip-roll-arrow-1.json) |
+| Advanced PET: Battle Chip - Roll DS | 354038 | [354038-advanced-pet-battle-chip-roll-ds.json](./354038-advanced-pet-battle-chip-roll-ds.json) |
+| Advanced PET: Battle Chip - SearchMan | 354043 | [354043-advanced-pet-battle-chip-searchman.json](./354043-advanced-pet-battle-chip-searchman.json) |
+| Advanced PET: Battle Chip - SearchMan DS | 354046 | [354046-advanced-pet-battle-chip-searchman-ds.json](./354046-advanced-pet-battle-chip-searchman-ds.json) |
+| Advanced PET: Battle Chip - SearchMan SP | 354045 | [354045-advanced-pet-battle-chip-searchman-sp.json](./354045-advanced-pet-battle-chip-searchman-sp.json) |
+| Advanced PET: Battle Chip - Super Vulcan | 354036 | [354036-advanced-pet-battle-chip-super-vulcan.json](./354036-advanced-pet-battle-chip-super-vulcan.json) |
+| Advanced PET: Battle Chip - WindMan DS | 354041 | [354041-advanced-pet-battle-chip-windman-ds.json](./354041-advanced-pet-battle-chip-windman-ds.json) |
 | Advanced Power Dolls 2 | 56170 | [56170-advanced-power-dolls-2.json](./56170-advanced-power-dolls-2.json) |
 | Advanced Shells | 308381 | [308381-advanced-shells.json](./308381-advanced-shells.json) |
 | Advanced Shells II | 308380 | [308380-advanced-shells-ii.json](./308380-advanced-shells-ii.json) |
