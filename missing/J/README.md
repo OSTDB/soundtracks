@@ -655,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JetWireClimber | 312166 | [312166-jetwireclimber.json](./312166-jetwireclimber.json) |
 | JetX Racing | 115476 | [115476-jetx-racing.json](./115476-jetx-racing.json) |
 | JetX: Space Edition | 118333 | [118333-jetx-space-edition.json](./118333-jetx-space-edition.json) |
+| Jetz Rampage 4: Revenge | 361279 | [361279-jetz-rampage-4-revenge.json](./361279-jetz-rampage-4-revenge.json) |
 | Jeune Styliste 2: Studio | 340013 | [340013-jeune-styliste-2-studio.json](./340013-jeune-styliste-2-studio.json) |
 | Jeune Styliste 3: Star | 340014 | [340014-jeune-styliste-3-star.json](./340014-jeune-styliste-3-star.json) |
 | Jeune Styliste 4: World | 340015 | [340015-jeune-styliste-4-world.json](./340015-jeune-styliste-4-world.json) |
