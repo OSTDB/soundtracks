@@ -4087,6 +4087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Hero VR | 164504 | [164504-flying-hero-vr.json](./164504-flying-hero-vr.json) |
 | Flying Hero X | 146684 | [146684-flying-hero-x.json](./146684-flying-hero-x.json) |
 | Flying Heroes | 24119 | [24119-flying-heroes.json](./24119-flying-heroes.json) |
+| Flying Islands | 366955 | [366955-flying-islands.json](./366955-flying-islands.json) |
 | Flying Islands Games Bundle | 147812 | [147812-flying-islands-games-bundle.json](./147812-flying-islands-games-bundle.json) |
 | Flying Kick | 181237 | [181237-flying-kick.json](./181237-flying-kick.json) |
 | Flying Motorcycle Simulator Pro | 87258 | [87258-flying-motorcycle-simulator-pro.json](./87258-flying-motorcycle-simulator-pro.json) |
@@ -4507,6 +4508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Force of Will - TCG | 58875 | [58875-force-of-will-tcg.json](./58875-force-of-will-tcg.json) |
 | Force One | 13849 | [13849-force-one.json](./13849-force-one.json) |
 | Force Reboot | 173302 | [173302-force-reboot.json](./173302-force-reboot.json) |
+| Force Restart | 366978 | [366978-force-restart.json](./366978-force-restart.json) |
 | Force Seven | 47232 | [47232-force-seven.json](./47232-force-seven.json) |
 | ForceBerg | 187238 | [187238-forceberg.json](./187238-forceberg.json) |
 | Forced Abroad | 193976 | [193976-forced-abroad.json](./193976-forced-abroad.json) |
