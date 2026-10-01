@@ -3213,6 +3213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nophenia | 369651 | [369651-nophenia.json](./369651-nophenia.json) |
 | Nor'Easter | 119754 | [119754-noreaster.json](./119754-noreaster.json) |
 | Nora | 82741 | [82741-nora.json](./82741-nora.json) |
+| Nora & Magic That Does Not Turn Back Time | 348882 | [348882-nora-and-magic-that-does-not-turn-back-time.json](./348882-nora-and-magic-that-does-not-turn-back-time.json) |
 | Nora and Frank | 358925 | [358925-nora-and-frank.json](./358925-nora-and-frank.json) |
 | Nora to Oujo to Noraneko Heart 2 | 205267 | [205267-nora-to-oujo-to-noraneko-heart-2.json](./205267-nora-to-oujo-to-noraneko-heart-2.json) |
 | Nora to Oujo to Noraneko Heart 2: Dakimakura Cover Set | 136972 | [136972-nora-to-oujo-to-noraneko-heart-2-dakimakura-cover-set.json](./136972-nora-to-oujo-to-noraneko-heart-2-dakimakura-cover-set.json) |
