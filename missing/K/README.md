@@ -1770,6 +1770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kioku Hanabi | 309356 | [309356-kioku-hanabi.json](./309356-kioku-hanabi.json) |
 | Kioku Shoujo | 151533 | [151533-kioku-shoujo.json](./151533-kioku-shoujo.json) |
 | Kiou | 405681 | [405681-kiou.json](./405681-kiou.json) |
+| Kip 2: Beyond Boundaries | 360693 | [360693-kip-2-beyond-boundaries.json](./360693-kip-2-beyond-boundaries.json) |
 | Kip and Odosan | 236938 | [236938-kip-and-odosan.json](./236938-kip-and-odosan.json) |
 | Kip!: Space Runner | 101376 | [101376-kip-space-runner.json](./101376-kip-space-runner.json) |
 | Kipi Oppi | 403043 | [403043-kipi-oppi.json](./403043-kipi-oppi.json) |
@@ -2156,6 +2157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight's Castle | 213341 | [213341-knights-castle.json](./213341-knights-castle.json) |
 | Knight's Chance | 75478 | [75478-knights-chance.json](./75478-knights-chance.json) |
 | Knight's Destiny | 149037 | [149037-knights-destiny.json](./149037-knights-destiny.json) |
+| Knight's Dungeon | 360631 | [360631-knights-dungeon.json](./360631-knights-dungeon.json) |
 | Knight's Edge | 165534 | [165534-knights-edge.json](./165534-knights-edge.json) |
 | Knight's Errand | 371470 | [371470-knights-errand.json](./371470-knights-errand.json) |
 | Knight's Fly | 394446 | [394446-knights-fly.json](./394446-knights-fly.json) |
