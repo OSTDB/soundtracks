@@ -2535,6 +2535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Monsters | 74049 | [74049-master-of-monsters.json](./74049-master-of-monsters.json) |
 | Master of Monsters II | 111902 | [111902-master-of-monsters-ii.json](./111902-master-of-monsters-ii.json) |
 | Master of Monsters III | 111905 | [111905-master-of-monsters-iii.json](./111905-master-of-monsters-iii.json) |
+| Master of Monsters SSB | 351172 | [351172-master-of-monsters-ssb.json](./351172-master-of-monsters-ssb.json) |
 | Master of Music | 279058 | [279058-master-of-music.json](./279058-master-of-music.json) |
 | Master of Mutations | 109716 | [109716-master-of-mutations.json](./109716-master-of-mutations.json) |
 | Master of Orion II: Battle at Antares | 68 | [68-master-of-orion-ii-battle-at-antares.json](./68-master-of-orion-ii-battle-at-antares.json) |
@@ -4641,6 +4642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Solid V: The Definitive Subsistence Update | 377209 | [377209-metal-gear-solid-v-the-definitive-subsistence-update.json](./377209-metal-gear-solid-v-the-definitive-subsistence-update.json) |
 | Metal Gear Solid V: The Phantom Pain - Special Edition | 298021 | [298021-metal-gear-solid-v-the-phantom-pain-special-edition.json](./298021-metal-gear-solid-v-the-phantom-pain-special-edition.json) |
 | Metal Gear Solid: Fight of the Metal Gears | 331973 | [331973-metal-gear-solid-fight-of-the-metal-gears.json](./331973-metal-gear-solid-fight-of-the-metal-gears.json) |
+| Metal Gear Solid: Lunacy of Legion | 351216 | [351216-metal-gear-solid-lunacy-of-legion.json](./351216-metal-gear-solid-lunacy-of-legion.json) |
 | Metal Gear Solid: Master Collection Version | 393638 | [393638-metal-gear-solid-master-collection-version.json](./393638-metal-gear-solid-master-collection-version.json) |
 | Metal Gear Solid: Peace Walker | 382 | [382-metal-gear-solid-peace-walker.json](./382-metal-gear-solid-peace-walker.json) |
 | Metal Gear Solid: Peace Walker - Master Collection Version | 391792 | [391792-metal-gear-solid-peace-walker-master-collection-version.json](./391792-metal-gear-solid-peace-walker-master-collection-version.json) |
@@ -8544,6 +8546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motus Paintball VR | 336593 | [336593-motus-paintball-vr.json](./336593-motus-paintball-vr.json) |
 | Moubootaur Legends | 177425 | [177425-moubootaur-legends.json](./177425-moubootaur-legends.json) |
 | Mouja | 197958 | [197958-mouja.json](./197958-mouja.json) |
+| Mould | 351187 | [351187-mould.json](./351187-mould.json) |
 | Moulder | 375402 | [375402-moulder.json](./375402-moulder.json) |
 | Mouldy Old Void | 303020 | [303020-mouldy-old-void.json](./303020-mouldy-old-void.json) |
 | Moulin Rouge Senki: Melville no Honoo | 48816 | [48816-moulin-rouge-senki-melville-no-honoo.json](./48816-moulin-rouge-senki-melville-no-honoo.json) |
