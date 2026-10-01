@@ -8910,6 +8910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Game | 137605 | [137605-cube-game.json](./137605-cube-game.json) |
 | Cube Gothic | 140359 | [140359-cube-gothic.json](./140359-cube-gothic.json) |
 | Cube Gravity | 182227 | [182227-cube-gravity.json](./182227-cube-gravity.json) |
+| Cube Guardian: Tower Defender | 357841 | [357841-cube-guardian-tower-defender.json](./357841-cube-guardian-tower-defender.json) |
 | Cube Hits Corner | 370280 | [370280-cube-hits-corner.json](./370280-cube-hits-corner.json) |
 | Cube Jump 3D | 152404 | [152404-cube-jump-3d.json](./152404-cube-jump-3d.json) |
 | Cube Jump Game | 402937 | [402937-cube-jump-game.json](./402937-cube-jump-game.json) |
@@ -9562,6 +9563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Tiger | 3431 | [3431-cyber-tiger.json](./3431-cyber-tiger.json) |
 | Cyber Tile | 297082 | [297082-cyber-tile.json](./297082-cyber-tile.json) |
 | Cyber Tower | 267098 | [267098-cyber-tower.json](./267098-cyber-tower.json) |
+| Cyber Tower 2048 | 357840 | [357840-cyber-tower-2048.json](./357840-cyber-tower-2048.json) |
 | Cyber Troopers Virtual-On | 46775 | [46775-cyber-troopers-virtual-on.json](./46775-cyber-troopers-virtual-on.json) |
 | Cyber Troopers Virtual-On Marz | 19252 | [19252-cyber-troopers-virtual-on-marz.json](./19252-cyber-troopers-virtual-on-marz.json) |
 | Cyber Troopers: Virtual On x Toaru Majutsu no Index - Toaru Majutsu no Dennou Senki | 144179 | [144179-cyber-troopers-virtual-on-x-toaru-majutsu-no-index-toaru-majutsu-no-dennou-senki.json](./144179-cyber-troopers-virtual-on-x-toaru-majutsu-no-index-toaru-majutsu-no-dennou-senki.json) |
