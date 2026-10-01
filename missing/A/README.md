@@ -3668,6 +3668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Dad vs. Family Guy: Kung-Fu II Turbo! Hyper-Mega Edition | 64478 | [64478-american-dad-vs-family-guy-kung-fu-ii-turbo-hyper-mega-edition.json](./64478-american-dad-vs-family-guy-kung-fu-ii-turbo-hyper-mega-edition.json) |
 | American Dad! Pinball | 88806 | [88806-american-dad-pinball.json](./88806-american-dad-pinball.json) |
 | American Deer Hunter | 206112 | [206112-american-deer-hunter.json](./206112-american-deer-hunter.json) |
+| American Deer Hunting 2000 | 360143 | [360143-american-deer-hunting-2000.json](./360143-american-deer-hunting-2000.json) |
 | American Diesel Trains | 96053 | [96053-american-diesel-trains.json](./96053-american-diesel-trains.json) |
 | American Dream | 137017 | [137017-american-dream.json](./137017-american-dream.json) |
 | American Dream | 48634 | [48634-american-dream.json](./48634-american-dream.json) |
