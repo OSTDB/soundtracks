@@ -3722,6 +3722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates Overboard | 185533 | [185533-pirates-overboard.json](./185533-pirates-overboard.json) |
 | Pirates Pinball | 115058 | [115058-pirates-pinball.json](./115058-pirates-pinball.json) |
 | Pirates Plundarrr | 50728 | [50728-pirates-plundarrr.json](./50728-pirates-plundarrr.json) |
+| Pirates Slayer | 336666 | [336666-pirates-slayer.json](./336666-pirates-slayer.json) |
 | Pirates vs Corsairs: Davy Jones's Gold | 35613 | [35613-pirates-vs-corsairs-davy-joness-gold.json](./35613-pirates-vs-corsairs-davy-joness-gold.json) |
 | Pirates vs monkeys | 162851 | [162851-pirates-vs-monkeys.json](./162851-pirates-vs-monkeys.json) |
 | Pirates: Captain's Quest | 145521 | [145521-pirates-captains-quest.json](./145521-pirates-captains-quest.json) |
@@ -4628,6 +4629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platformer Execute | 163980 | [163980-platformer-execute.json](./163980-platformer-execute.json) |
 | Platformer Geometry Dash | 290416 | [290416-platformer-geometry-dash.json](./290416-platformer-geometry-dash.json) |
 | Platformer of Death | 185121 | [185121-platformer-of-death.json](./185121-platformer-of-death.json) |
+| Platformer Paradise | 336645 | [336645-platformer-paradise.json](./336645-platformer-paradise.json) |
 | Platformer Saga | 336375 | [336375-platformer-saga.json](./336375-platformer-saga.json) |
 | Platformica | 57054 | [57054-platformica.json](./57054-platformica.json) |
 | Platforms Unlimited | 101323 | [101323-platforms-unlimited.json](./101323-platforms-unlimited.json) |
@@ -6805,6 +6807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primal Rage | 4271 | [4271-primal-rage.json](./4271-primal-rage.json) |
 | Primal Rage II | 167154 | [167154-primal-rage-ii.json](./167154-primal-rage-ii.json) |
 | Primal Roar: Jurassic Dinosaur Era | 220652 | [220652-primal-roar-jurassic-dinosaur-era.json](./220652-primal-roar-jurassic-dinosaur-era.json) |
+| Primal Slideee | 336669 | [336669-primal-slideee.json](./336669-primal-slideee.json) |
 | Primal Survivors | 224627 | [224627-primal-survivors.json](./224627-primal-survivors.json) |
 | Primal Threat | 173048 | [173048-primal-threat.json](./173048-primal-threat.json) |
 | Primals.io | 80884 | [80884-primals-io.json](./80884-primals-io.json) |
