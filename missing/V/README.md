@@ -1307,6 +1307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Rogue | 33375 | [33375-virtual-rogue.json](./33375-virtual-rogue.json) |
 | Virtual Sailor NG | 220717 | [220717-virtual-sailor-ng.json](./220717-virtual-sailor-ng.json) |
 | Virtual Silence | 94014 | [94014-virtual-silence.json](./94014-virtual-silence.json) |
+| Virtual Skate: Winter Update | 380593 | [380593-virtual-skate-winter-update.json](./380593-virtual-skate-winter-update.json) |
 | Virtual Skydiving | 116866 | [116866-virtual-skydiving.json](./116866-virtual-skydiving.json) |
 | Virtual Soccer | 46005 | [46005-virtual-soccer.json](./46005-virtual-soccer.json) |
 | Virtual Sports | 29569 | [29569-virtual-sports.json](./29569-virtual-sports.json) |
