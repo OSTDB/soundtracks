@@ -1832,6 +1832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Bull X-Fighters | 20629 | [20629-red-bull-x-fighters.json](./20629-red-bull-x-fighters.json) |
 | Red Bull: Soapbox Racers | 336920 | [336920-red-bull-soapbox-racers.json](./336920-red-bull-soapbox-racers.json) |
 | Red Cap Squad: Zombie Source | 339924 | [339924-red-cap-squad-zombie-source.json](./339924-red-cap-squad-zombie-source.json) |
+| Red Cape Knight | 366989 | [366989-red-cape-knight.json](./366989-red-cape-knight.json) |
 | Red Carpet Diaries: Book 1 | 313688 | [313688-red-carpet-diaries-book-1.json](./313688-red-carpet-diaries-book-1.json) |
 | Red Carpet Diaries: Book 2 | 313689 | [313689-red-carpet-diaries-book-2.json](./313689-red-carpet-diaries-book-2.json) |
 | Red Carpet Diaries: Book 3 | 313690 | [313690-red-carpet-diaries-book-3.json](./313690-red-carpet-diaries-book-3.json) |
@@ -3133,6 +3134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverse 1999: Folie et Déraison | 343912 | [343912-reverse-1999-folie-et-deraison.json](./343912-reverse-1999-folie-et-deraison.json) |
 | Reverse 1999: Last Evenings on Earth | 343349 | [343349-reverse-1999-last-evenings-on-earth.json](./343349-reverse-1999-last-evenings-on-earth.json) |
 | Reverse 1999: Notes on Shuori | 340217 | [340217-reverse-1999-notes-on-shuori.json](./340217-reverse-1999-notes-on-shuori.json) |
+| Reverse 1999: Paradise Regained | 367005 | [367005-reverse-1999-paradise-regained.json](./367005-reverse-1999-paradise-regained.json) |
 | Reverse 1999: Revival! The Uluru Games | 340205 | [340205-reverse-1999-revival-the-uluru-games.json](./340205-reverse-1999-revival-the-uluru-games.json) |
 | Reverse 1999: Showdown in Chinatown | 342261 | [342261-reverse-1999-showdown-in-chinatown.json](./342261-reverse-1999-showdown-in-chinatown.json) |
 | Reverse 1999: Spring Unending | 397101 | [397101-reverse-1999-spring-unending.json](./397101-reverse-1999-spring-unending.json) |
