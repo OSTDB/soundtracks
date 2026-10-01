@@ -441,6 +441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camelbirds | 318978 | [318978-camelbirds.json](./318978-camelbirds.json) |
 | Camelot | 141242 | [141242-camelot.json](./141242-camelot.json) |
 | Camelot | 260089 | [260089-camelot.json](./260089-camelot.json) |
+| Camelot 10000CE | 374244 | [374244-camelot-10000ce.json](./374244-camelot-10000ce.json) |
 | Camelot 2: The Holy Grail | 247766 | [247766-camelot-2-the-holy-grail.json](./247766-camelot-2-the-holy-grail.json) |
 | Camelot II: The Holy Grail - Collector's Edition | 417499 | [417499-camelot-ii-the-holy-grail-collectors-edition.json](./417499-camelot-ii-the-holy-grail-collectors-edition.json) |
 | Camelot Warriors | 13461 | [13461-camelot-warriors.json](./13461-camelot-warriors.json) |
@@ -2318,6 +2319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestia | 183432 | [183432-celestia.json](./183432-celestia.json) |
 | Celestia Ultimate | 249475 | [249475-celestia-ultimate.json](./249475-celestia-ultimate.json) |
 | Celestiais & Dragões | 240741 | [240741-celestiais-and-dragoes.json](./240741-celestiais-and-dragoes.json) |
+| Celestial Clockwork | 374241 | [374241-celestial-clockwork.json](./374241-celestial-clockwork.json) |
 | Celestial Correspondence | 135027 | [135027-celestial-correspondence.json](./135027-celestial-correspondence.json) |
 | Celestial Crossing | 29983 | [29983-celestial-crossing.json](./29983-celestial-crossing.json) |
 | Celestial Crusade | 122983 | [122983-celestial-crusade.json](./122983-celestial-crusade.json) |
@@ -8201,6 +8203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cropacalypse | 379058 | [379058-cropacalypse.json](./379058-cropacalypse.json) |
 | Cropbuster | 235216 | [235216-cropbuster.json](./235216-cropbuster.json) |
 | CropBytes | 235307 | [235307-cropbytes.json](./235307-cropbytes.json) |
+| Cropia | 374198 | [374198-cropia.json](./374198-cropia.json) |
 | Cropple | 243963 | [243963-cropple.json](./243963-cropple.json) |
 | Crops and Conveyors | 189126 | [189126-crops-and-conveyors.json](./189126-crops-and-conveyors.json) |
 | Cropshots | 185009 | [185009-cropshots.json](./185009-cropshots.json) |
@@ -9376,6 +9379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cy: Cyberpunk Survivors | 248908 | [248908-cy-cyberpunk-survivors.json](./248908-cy-cyberpunk-survivors.json) |
 | Cyadonia | 99658 | [99658-cyadonia.json](./99658-cyadonia.json) |
 | Cyan Avenger | 278999 | [278999-cyan-avenger.json](./278999-cyan-avenger.json) |
+| Cyan Heart | 374245 | [374245-cyan-heart.json](./374245-cyan-heart.json) |
 | Cyan's Snow House | 289446 | [289446-cyans-snow-house.json](./289446-cyans-snow-house.json) |
 | Cyanide & Happiness: Freakpocalypse - Episode 1 | 147983 | [147983-cyanide-and-happiness-freakpocalypse-episode-1.json](./147983-cyanide-and-happiness-freakpocalypse-episode-1.json) |
 | Cyanide Angel | 397162 | [397162-cyanide-angel.json](./397162-cyanide-angel.json) |
@@ -9443,6 +9447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Russia | 300693 | [300693-cyber-russia.json](./300693-cyber-russia.json) |
 | Cyber Sensation: MicroLife | 351631 | [351631-cyber-sensation-microlife.json](./351631-cyber-sensation-microlife.json) |
 | Cyber Seraph | 140447 | [140447-cyber-seraph.json](./140447-cyber-seraph.json) |
+| Cyber Shard Clicker | 374205 | [374205-cyber-shard-clicker.json](./374205-cyber-shard-clicker.json) |
 | Cyber Slayer | 219672 | [219672-cyber-slayer.json](./219672-cyber-slayer.json) |
 | Cyber Sled | 20626 | [20626-cyber-sled.json](./20626-cyber-sled.json) |
 | Cyber Soldier Sharaku | 45934 | [45934-cyber-soldier-sharaku.json](./45934-cyber-soldier-sharaku.json) |
