@@ -2657,6 +2657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Espagnol avec Rayman | 193348 | [193348-espagnol-avec-rayman.json](./193348-espagnol-avec-rayman.json) |
 | Espalion | 266487 | [266487-espalion.json](./266487-espalion.json) |
 | Espana 1936 | 129582 | [129582-espana-1936.json](./129582-espana-1936.json) |
+| Espectro the Fighters Focus | 376030 | [376030-espectro-the-fighters-focus.json](./376030-espectro-the-fighters-focus.json) |
 | Esper | 23893 | [23893-esper.json](./23893-esper.json) |
 | Esper 2 | 18396 | [18396-esper-2.json](./18396-esper-2.json) |
 | Esper Dream | 47243 | [47243-esper-dream.json](./47243-esper-dream.json) |
