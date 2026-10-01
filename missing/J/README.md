@@ -448,6 +448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JBomb | 340769 | [340769-jbomb.json](./340769-jbomb.json) |
 | JCB Digger | 13730 | [13730-jcb-digger.json](./13730-jcb-digger.json) |
 | JDG & le RPG | 354052 | [354052-jdg-and-le-rpg.json](./354052-jdg-and-le-rpg.json) |
+| JDM Pixel Street Car Racing | 340526 | [340526-jdm-pixel-street-car-racing.json](./340526-jdm-pixel-street-car-racing.json) |
 | JDM Racing | 147854 | [147854-jdm-racing.json](./147854-jdm-racing.json) |
 | JDM Racing 2 | 147853 | [147853-jdm-racing-2.json](./147853-jdm-racing-2.json) |
 | Jealousy Duel X | 93347 | [93347-jealousy-duel-x.json](./93347-jealousy-duel-x.json) |
