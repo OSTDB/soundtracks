@@ -5693,6 +5693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pony Sisters Pet Hospital | 101584 | [101584-pony-sisters-pet-hospital.json](./101584-pony-sisters-pet-hospital.json) |
 | Pony Snow Run | 96704 | [96704-pony-snow-run.json](./96704-pony-snow-run.json) |
 | Pony vs. Pony | 379982 | [379982-pony-vs-pony.json](./379982-pony-vs-pony.json) |
+| Poo Poo War | 371404 | [371404-poo-poo-war.json](./371404-poo-poo-war.json) |
 | Poo Pusher | 309690 | [309690-poo-pusher.json](./309690-poo-pusher.json) |
 | Poodle Kick | 391608 | [391608-poodle-kick.json](./391608-poodle-kick.json) |
 | Poofie Plays God | 341563 | [341563-poofie-plays-god.json](./341563-poofie-plays-god.json) |
@@ -8227,6 +8228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push: Griefing Made Legal | 142935 | [142935-push-griefing-made-legal.json](./142935-push-griefing-made-legal.json) |
 | Push:Block | 118951 | [118951-push-block.json](./118951-push-block.json) |
 | Push'n Pull | 361740 | [361740-pushn-pull.json](./361740-pushn-pull.json) |
+| Push³ | 371407 | [371407-push3.json](./371407-push3.json) |
 | Pushamo | 152281 | [152281-pushamo.json](./152281-pushamo.json) |
 | PushBoy - a Sokoban style puzzle game | 91332 | [91332-pushboy-a-sokoban-style-puzzle-game.json](./91332-pushboy-a-sokoban-style-puzzle-game.json) |
 | Pushed a 'Bot! | 369026 | [369026-pushed-a-bot.json](./369026-pushed-a-bot.json) |
