@@ -1304,6 +1304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Panic | 31936 | [31936-party-panic.json](./31936-party-panic.json) |
 | Party Paradise | 186749 | [186749-party-paradise.json](./186749-party-paradise.json) |
 | Party Park | 226155 | [226155-party-park.json](./226155-party-park.json) |
+| Party Party Anxiety! | 383018 | [383018-party-party-anxiety.json](./383018-party-party-anxiety.json) |
 | Party Party Time | 231043 | [231043-party-party-time.json](./231043-party-party-time.json) |
 | Party Party Time + Master Pack Set | 276462 | [276462-party-party-time-master-pack-set.json](./276462-party-party-time-master-pack-set.json) |
 | Party Party Time + Party Harder Pack | 232993 | [232993-party-party-time-party-harder-pack.json](./232993-party-party-time-party-harder-pack.json) |
@@ -2081,6 +2082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perch | 29944 | [29944-perch.json](./29944-perch.json) |
 | Perchang World | 400242 | [400242-perchang-world.json](./400242-perchang-world.json) |
 | Percipio | 339634 | [339634-percipio.json](./339634-percipio.json) |
+| Percussion Master | 382980 | [382980-percussion-master.json](./382980-percussion-master.json) |
 | Percussive VR | 31108 | [31108-percussive-vr.json](./31108-percussive-vr.json) |
 | Percy Penguin | 128467 | [128467-percy-penguin.json](./128467-percy-penguin.json) |
 | Percy's Last Stand | 118403 | [118403-percys-last-stand.json](./118403-percys-last-stand.json) |
@@ -5115,8 +5117,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Gamma Emerald | 342762 | [342762-pokemon-gamma-emerald.json](./342762-pokemon-gamma-emerald.json) |
 | Pokemon Garbage Gold | 305295 | [305295-pokemon-garbage-gold.json](./305295-pokemon-garbage-gold.json) |
 | Pokémon Glacial Chronicles | 360193 | [360193-pokemon-glacial-chronicles.json](./360193-pokemon-glacial-chronicles.json) |
+| Pokémon Go: Adventures Abound | 383002 | [383002-pokemon-go-adventures-abound.json](./383002-pokemon-go-adventures-abound.json) |
+| Pokémon Go: Delightful Days | 382998 | [382998-pokemon-go-delightful-days.json](./382998-pokemon-go-delightful-days.json) |
 | Pokémon Go: Dual Destiny | 323177 | [323177-pokemon-go-dual-destiny.json](./323177-pokemon-go-dual-destiny.json) |
 | Pokémon Go: Forever Forward | 403036 | [403036-pokemon-go-forever-forward.json](./403036-pokemon-go-forever-forward.json) |
+| Pokémon Go: Hidden Gems | 383003 | [383003-pokemon-go-hidden-gems.json](./383003-pokemon-go-hidden-gems.json) |
 | Pokémon Go: Max Out | 316620 | [316620-pokemon-go-max-out.json](./316620-pokemon-go-max-out.json) |
 | Pokémon Go: Might and Mastery | 333565 | [333565-pokemon-go-might-and-mastery.json](./333565-pokemon-go-might-and-mastery.json) |
 | Pokémon Go: Mythical Wishes | 227940 | [227940-pokemon-go-mythical-wishes.json](./227940-pokemon-go-mythical-wishes.json) |
@@ -5128,7 +5133,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Go: Season of Legends | 218502 | [218502-pokemon-go-season-of-legends.json](./218502-pokemon-go-season-of-legends.json) |
 | Pokémon Go: Season of Light | 215759 | [215759-pokemon-go-season-of-light.json](./215759-pokemon-go-season-of-light.json) |
 | Pokémon Go: Season of Mischief | 218487 | [218487-pokemon-go-season-of-mischief.json](./218487-pokemon-go-season-of-mischief.json) |
+| Pokémon Go: Shared Skies | 382999 | [382999-pokemon-go-shared-skies.json](./382999-pokemon-go-shared-skies.json) |
+| Pokémon Go: Timeless Travels | 383001 | [383001-pokemon-go-timeless-travels.json](./383001-pokemon-go-timeless-travels.json) |
 | Pokémon Go: Twilight Trails | 415236 | [415236-pokemon-go-twilight-trails.json](./415236-pokemon-go-twilight-trails.json) |
+| Pokémon Go: World of Wonders | 383000 | [383000-pokemon-go-world-of-wonders.json](./383000-pokemon-go-world-of-wonders.json) |
 | Pokémon Goita | 377713 | [377713-pokemon-goita.json](./377713-pokemon-goita.json) |
 | Pokémon Gold and Silver 97: Reforged | 203224 | [203224-pokemon-gold-and-silver-97-reforged.json](./203224-pokemon-gold-and-silver-97-reforged.json) |
 | Pokémon Gratia | 318562 | [318562-pokemon-gratia.json](./318562-pokemon-gratia.json) |
@@ -7259,6 +7267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Justice | 13096 | [13096-project-justice.json](./13096-project-justice.json) |
 | Project K1 | 264009 | [264009-project-k1.json](./264009-project-k1.json) |
 | Project Kepler: Delivery Included! | 363050 | [363050-project-kepler-delivery-included.json](./363050-project-kepler-delivery-included.json) |
+| Project Killdance | 383017 | [383017-project-killdance.json](./383017-project-killdance.json) |
 | Project Kinesis | 301954 | [301954-project-kinesis.json](./301954-project-kinesis.json) |
 | Project Kizuna | 321764 | [321764-project-kizuna.json](./321764-project-kizuna.json) |
 | Project Kolo | 187817 | [187817-project-kolo.json](./187817-project-kolo.json) |
@@ -8080,6 +8089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PureSkate 2 | 175431 | [175431-pureskate-2.json](./175431-pureskate-2.json) |
 | Purgation Swordstorm | 413722 | [413722-purgation-swordstorm.json](./413722-purgation-swordstorm.json) |
 | Purgatory | 27773 | [27773-purgatory.json](./27773-purgatory.json) |
+| Purgatory | 383013 | [383013-purgatory.json](./383013-purgatory.json) |
 | Purgatory Fell | 90254 | [90254-purgatory-fell.json](./90254-purgatory-fell.json) |
 | Purgatory Of the Golden Witch | 382438 | [382438-purgatory-of-the-golden-witch.json](./382438-purgatory-of-the-golden-witch.json) |
 | Purgatory Pitstop | 390774 | [390774-purgatory-pitstop.json](./390774-purgatory-pitstop.json) |
