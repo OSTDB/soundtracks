@@ -3217,6 +3217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pim: The Forgotten | 261767 | [261767-pim-the-forgotten.json](./261767-pim-the-forgotten.json) |
 | Pimania | 93058 | [93058-pimania.json](./93058-pimania.json) |
 | Pimbolas | 338806 | [338806-pimbolas.json](./338806-pimbolas.json) |
+| Pimby's Workaround | 364654 | [364654-pimbys-workaround.json](./364654-pimbys-workaround.json) |
 | Pimp Hand Strong! | 234712 | [234712-pimp-hand-strong.json](./234712-pimp-hand-strong.json) |
 | Pimp My Dungeon | 243959 | [243959-pimp-my-dungeon.json](./243959-pimp-my-dungeon.json) |
 | Pimp My Ride | 5098 | [5098-pimp-my-ride.json](./5098-pimp-my-ride.json) |
@@ -4553,6 +4554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play for Love | 292008 | [292008-play-for-love.json](./292008-play-for-love.json) |
 | Play for Your Life | 55053 | [55053-play-for-your-life.json](./55053-play-for-your-life.json) |
 | Play Friends: Party Games | 342266 | [342266-play-friends-party-games.json](./342266-play-friends-party-games.json) |
+| Play It Back | 364645 | [364645-play-it-back.json](./364645-play-it-back.json) |
 | Play Minigames with Reiko | 265771 | [265771-play-minigames-with-reiko.json](./265771-play-minigames-with-reiko.json) |
 | Play Nintendo: Paint-By-Number | 291049 | [291049-play-nintendo-paint-by-number.json](./291049-play-nintendo-paint-by-number.json) |
 | Play Nintendo: Puzzles | 291047 | [291047-play-nintendo-puzzles.json](./291047-play-nintendo-puzzles.json) |
