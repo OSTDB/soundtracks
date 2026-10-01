@@ -6592,6 +6592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cook for the Giant | 52827 | [52827-cook-for-the-giant.json](./52827-cook-for-the-giant.json) |
 | Cook MIX | 390819 | [390819-cook-mix.json](./390819-cook-mix.json) |
 | Cook OL | 288908 | [288908-cook-ol.json](./288908-cook-ol.json) |
+| Cook or Be Cooked | 361825 | [361825-cook-or-be-cooked.json](./361825-cook-or-be-cooked.json) |
 | Cook Out! | 250045 | [250045-cook-out.json](./250045-cook-out.json) |
 | Cook with Card | 406724 | [406724-cook-with-card.json](./406724-cook-with-card.json) |
 | Cook-A-Geddon | 265433 | [265433-cook-a-geddon.json](./265433-cook-a-geddon.json) |
@@ -7057,6 +7058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmochoria | 17230 | [17230-cosmochoria.json](./17230-cosmochoria.json) |
 | Cosmodread | 144994 | [144994-cosmodread.json](./144994-cosmodread.json) |
 | CosmoDreamer | 151677 | [151677-cosmodreamer.json](./151677-cosmodreamer.json) |
+| Cosmodrill | 361836 | [361836-cosmodrill.json](./361836-cosmodrill.json) |
 | CosmoDrive:Infinity | 147932 | [147932-cosmodrive-infinity.json](./147932-cosmodrive-infinity.json) |
 | CosmoDrive:Zero | 111688 | [111688-cosmodrive-zero.json](./111688-cosmodrive-zero.json) |
 | Cosmogelica | 265674 | [265674-cosmogelica.json](./265674-cosmogelica.json) |
@@ -9198,6 +9200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of Greed: Ultimate | 176973 | [176973-curse-of-greed-ultimate.json](./176973-curse-of-greed-ultimate.json) |
 | Curse of Issyos | 137101 | [137101-curse-of-issyos.json](./137101-curse-of-issyos.json) |
 | Curse of Mermos | 35678 | [35678-curse-of-mermos.json](./35678-curse-of-mermos.json) |
+| Curse of Pirates | 361856 | [361856-curse-of-pirates.json](./361856-curse-of-pirates.json) |
 | Curse of Resthaven | 391801 | [391801-curse-of-resthaven.json](./391801-curse-of-resthaven.json) |
 | Curse of Silence | 385753 | [385753-curse-of-silence.json](./385753-curse-of-silence.json) |
 | Curse of the Abyss | 370919 | [370919-curse-of-the-abyss.json](./370919-curse-of-the-abyss.json) |
