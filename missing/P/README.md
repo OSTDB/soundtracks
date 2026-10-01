@@ -353,6 +353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint School | 139374 | [139374-paint-school.json](./139374-paint-school.json) |
 | Paint School II | 46571 | [46571-paint-school-ii.json](./46571-paint-school-ii.json) |
 | Paint Shape Girl | 87131 | [87131-paint-shape-girl.json](./87131-paint-shape-girl.json) |
+| Paint the Snow: Idle | 365230 | [365230-paint-the-snow-idle.json](./365230-paint-the-snow-idle.json) |
 | Paint to Pixel | 192959 | [192959-paint-to-pixel.json](./192959-paint-to-pixel.json) |
 | Paint-a'-Way | 271825 | [271825-paint-a-way.json](./271825-paint-a-way.json) |
 | Paint-guin | 310060 | [310060-paint-guin.json](./310060-paint-guin.json) |
@@ -4225,6 +4226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plague | 185680 | [185680-plague.json](./185680-plague.json) |
 | Plague Breaker | 155974 | [155974-plague-breaker.json](./155974-plague-breaker.json) |
 | Plague Doctor | 287790 | [287790-plague-doctor.json](./287790-plague-doctor.json) |
+| Plague Doctor and Panacea | 365211 | [365211-plague-doctor-and-panacea.json](./365211-plague-doctor-and-panacea.json) |
 | Plague Doctor: Contagion - 430 BCE-2020 AD | 174100 | [174100-plague-doctor-contagion-430-bce-2020-ad.json](./174100-plague-doctor-contagion-430-bce-2020-ad.json) |
 | Plague Doctor: Medieval Apothecary | 416824 | [416824-plague-doctor-medieval-apothecary.json](./416824-plague-doctor-medieval-apothecary.json) |
 | Plague Inc: Aliens & Anti-Vaxxers | 398971 | [398971-plague-inc-aliens-and-anti-vaxxers.json](./398971-plague-inc-aliens-and-anti-vaxxers.json) |
