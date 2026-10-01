@@ -3270,6 +3270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Breeze | 354432 | [354432-pinball-breeze.json](./354432-pinball-breeze.json) |
 | Pinball Challenge Deluxe | 49361 | [49361-pinball-challenge-deluxe.json](./49361-pinball-challenge-deluxe.json) |
 | Pinball Deluxe | 260802 | [260802-pinball-deluxe.json](./260802-pinball-deluxe.json) |
+| Pinball Dream | 365843 | [365843-pinball-dream.json](./365843-pinball-dream.json) |
 | Pinball Dreams | 194279 | [194279-pinball-dreams.json](./194279-pinball-dreams.json) |
 | Pinball Dreams | 248589 | [248589-pinball-dreams.json](./248589-pinball-dreams.json) |
 | Pinball Dreams | 260726 | [260726-pinball-dreams.json](./260726-pinball-dreams.json) |
@@ -4182,6 +4183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza the Pie | 175357 | [175357-pizza-the-pie.json](./175357-pizza-the-pie.json) |
 | Pizza Time Explosion | 125445 | [125445-pizza-time-explosion.json](./125445-pizza-time-explosion.json) |
 | Pizza to Osake to Suika-chan to! | 403162 | [403162-pizza-to-osake-to-suika-chan-to.json](./403162-pizza-to-osake-to-suika-chan-to.json) |
+| Pizza Tower Repainted | 365807 | [365807-pizza-tower-repainted.json](./365807-pizza-tower-repainted.json) |
 | Pizza Tower: Final Round | 345569 | [345569-pizza-tower-final-round.json](./345569-pizza-tower-final-round.json) |
 | Pizza Tower: Idle Tycoon | 320926 | [320926-pizza-tower-idle-tycoon.json](./320926-pizza-tower-idle-tycoon.json) |
 | Pizza Tower: The Noise Update | 291543 | [291543-pizza-tower-the-noise-update.json](./291543-pizza-tower-the-noise-update.json) |
@@ -6646,6 +6648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primordial | 158671 | [158671-primordial.json](./158671-primordial.json) |
 | Primordian | 81241 | [81241-primordian.json](./81241-primordian.json) |
 | Primordio | 400906 | [400906-primordio.json](./400906-primordio.json) |
+| Primordium: Eclipse | 365842 | [365842-primordium-eclipse.json](./365842-primordium-eclipse.json) |
 | Primrose | 229792 | [229792-primrose.json](./229792-primrose.json) |
 | Primrose | 84809 | [84809-primrose.json](./84809-primrose.json) |
 | Primus Chess | 87546 | [87546-primus-chess.json](./87546-primus-chess.json) |
