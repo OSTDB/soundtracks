@@ -1745,6 +1745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterplace | 232032 | [232032-afterplace.json](./232032-afterplace.json) |
 | AfterQuest | 394314 | [394314-afterquest.json](./394314-afterquest.json) |
 | Afterschool : Reel Danger | 361913 | [361913-afterschool-reel-danger.json](./361913-afterschool-reel-danger.json) |
+| Aftershock | 346183 | [346183-aftershock.json](./346183-aftershock.json) |
 | Aftershock for Quake | 271795 | [271795-aftershock-for-quake.json](./271795-aftershock-for-quake.json) |
 | Aftershock: Coastline | 253377 | [253377-aftershock-coastline.json](./253377-aftershock-coastline.json) |
 | AfterShocked! | 69816 | [69816-aftershocked.json](./69816-aftershocked.json) |
@@ -5238,6 +5239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Appetit | 325662 | [325662-appetit.json](./325662-appetit.json) |
 | Appetite for Detestation | 147482 | [147482-appetite-for-detestation.json](./147482-appetite-for-detestation.json) |
 | Appetite of the Abyss | 383562 | [383562-appetite-of-the-abyss.json](./383562-appetite-of-the-abyss.json) |
+| Apple | 346077 | [346077-apple.json](./346077-apple.json) |
 | Apple Bag | 280197 | [280197-apple-bag.json](./280197-apple-bag.json) |
 | Apple Bang! | 150046 | [150046-apple-bang.json](./150046-apple-bang.json) |
 | Apple Catch | 317457 | [317457-apple-catch.json](./317457-apple-catch.json) |
@@ -5360,6 +5362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquarium Land: Platinum Edition | 385193 | [385193-aquarium-land-platinum-edition.json](./385193-aquarium-land-platinum-edition.json) |
 | Aquarium Shop | 146919 | [146919-aquarium-shop.json](./146919-aquarium-shop.json) |
 | Aquascapes | 144353 | [144353-aquascapes.json](./144353-aquascapes.json) |
+| Aquasplendere | 346208 | [346208-aquasplendere.json](./346208-aquasplendere.json) |
 | Aquasquad | 293246 | [293246-aquasquad.json](./293246-aquasquad.json) |
 | Aquatia | 272791 | [272791-aquatia.json](./272791-aquatia.json) |
 | Aquatic Adventure | 292015 | [292015-aquatic-adventure.json](./292015-aquatic-adventure.json) |
@@ -8019,6 +8022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avalon Online | 78961 | [78961-avalon-online.json](./78961-avalon-online.json) |
 | Avalon: Sacred Crusade | 153868 | [153868-avalon-sacred-crusade.json](./153868-avalon-sacred-crusade.json) |
 | Avalon: The Druids | 274229 | [274229-avalon-the-druids.json](./274229-avalon-the-druids.json) |
+| Avalone's Adventurers: My Parents were Assassinated so I've Started an Adventuring Party to Avoid a Political Marriage | 346202 | [346202-avalones-adventurers-my-parents-were-assassinated-so-ive-started-an-adventuring-party-to-avoid-a-political-marriage.json](./346202-avalones-adventurers-my-parents-were-assassinated-so-ive-started-an-adventuring-party-to-avoid-a-political-marriage.json) |
 | Avani | 223495 | [223495-avani.json](./223495-avani.json) |
 | Avaria: Iron Rule | 399009 | [399009-avaria-iron-rule.json](./399009-avaria-iron-rule.json) |
 | Avariavs | 98405 | [98405-avariavs.json](./98405-avariavs.json) |
