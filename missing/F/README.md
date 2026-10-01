@@ -4477,6 +4477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For God's Sake | 110793 | [110793-for-gods-sake.json](./110793-for-gods-sake.json) |
 | For God's Sake, Help Him! | 373647 | [373647-for-gods-sake-help-him.json](./373647-for-gods-sake-help-him.json) |
 | For Hell's Sake | 310027 | [310027-for-hells-sake.json](./310027-for-hells-sake.json) |
+| For Her | 338327 | [338327-for-her.json](./338327-for-her.json) |
 | For Honor: Afeera Hero | 234539 | [234539-for-honor-afeera-hero.json](./234539-for-honor-afeera-hero.json) |
 | For Honor: Assassin's Creed Shadows Hero Skin Bundle | 408889 | [408889-for-honor-assassins-creed-shadows-hero-skin-bundle.json](./408889-for-honor-assassins-creed-shadows-hero-skin-bundle.json) |
 | For Honor: Assassin's Creed Ultimate Hero Skin Bundle | 409029 | [409029-for-honor-assassins-creed-ultimate-hero-skin-bundle.json](./409029-for-honor-assassins-creed-ultimate-hero-skin-bundle.json) |
@@ -5774,6 +5775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Adventure | 386430 | [386430-frog-adventure.json](./386430-frog-adventure.json) |
 | Frog Affirmations | 229071 | [229071-frog-affirmations.json](./229071-frog-affirmations.json) |
 | Frog And Roll | 266810 | [266810-frog-and-roll.json](./266810-frog-and-roll.json) |
+| Frog Bard | 338312 | [338312-frog-bard.json](./338312-frog-bard.json) |
 | Frog Bath | 132665 | [132665-frog-bath.json](./132665-frog-bath.json) |
 | Frog Bath Challenge | 413177 | [413177-frog-bath-challenge.json](./413177-frog-bath-challenge.json) |
 | Frog Bog | 18553 | [18553-frog-bog.json](./18553-frog-bog.json) |
