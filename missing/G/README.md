@@ -248,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Conquest | 94918 | [94918-galactic-conquest.json](./94918-galactic-conquest.json) |
 | Galactic Core: The Lost Fleet | 30100 | [30100-galactic-core-the-lost-fleet.json](./30100-galactic-core-the-lost-fleet.json) |
 | Galactic Dating: Harem in Space Station | 292635 | [292635-galactic-dating-harem-in-space-station.json](./292635-galactic-dating-harem-in-space-station.json) |
+| Galactic Deck Clash | 373680 | [373680-galactic-deck-clash.json](./373680-galactic-deck-clash.json) |
 | Galactic Defender | 261338 | [261338-galactic-defender.json](./261338-galactic-defender.json) |
 | Galactic Dominion | 107858 | [107858-galactic-dominion.json](./107858-galactic-dominion.json) |
 | Galactic Driver | 88209 | [88209-galactic-driver.json](./88209-galactic-driver.json) |
@@ -4207,6 +4208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greymond. Saves the Specs | 377210 | [377210-greymond-saves-the-specs.json](./377210-greymond-saves-the-specs.json) |
 | Greymood | 262288 | [262288-greymood.json](./262288-greymood.json) |
 | Greyskin | 214049 | [214049-greyskin.json](./214049-greyskin.json) |
+| GreySky&StarNavigator | 373689 | [373689-greysky-and-starnavigator.json](./373689-greysky-and-starnavigator.json) |
 | Greystorm | 73557 | [73557-greystorm.json](./73557-greystorm.json) |
 | Grid | 118871 | [118871-grid.json](./118871-grid.json) |
 | Grid 2 | 2138 | [2138-grid-2.json](./2138-grid-2.json) |
