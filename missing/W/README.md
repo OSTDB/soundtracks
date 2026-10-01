@@ -259,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wallace & Gromit's Grand Adventures: Episode 3 - Muzzled! | 69168 | [69168-wallace-and-gromits-grand-adventures-episode-3-muzzled.json](./69168-wallace-and-gromits-grand-adventures-episode-3-muzzled.json) |
 | Wallace & Gromit's Grand Adventures: Episode 4 - The Bogey Man | 69160 | [69160-wallace-and-gromits-grand-adventures-episode-4-the-bogey-man.json](./69160-wallace-and-gromits-grand-adventures-episode-4-the-bogey-man.json) |
 | Wallace & Gromit's World of Invention: Wallace's Workshop | 320879 | [320879-wallace-and-gromits-world-of-invention-wallaces-workshop.json](./320879-wallace-and-gromits-world-of-invention-wallaces-workshop.json) |
+| Wallace and Gromit: Find the Numbers | 334914 | [334914-wallace-and-gromit-find-the-numbers.json](./334914-wallace-and-gromit-find-the-numbers.json) |
 | Wallachia: Reign of Dracula | 100524 | [100524-wallachia-reign-of-dracula.json](./100524-wallachia-reign-of-dracula.json) |
 | Wallbound | 298087 | [298087-wallbound.json](./298087-wallbound.json) |
 | Walled City Sunset | 326601 | [326601-walled-city-sunset.json](./326601-walled-city-sunset.json) |
