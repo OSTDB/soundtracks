@@ -400,6 +400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing Ball Saga | 96984 | [96984-dancing-ball-saga.json](./96984-dancing-ball-saga.json) |
 | Dancing Balls-Rolling Ahead Go | 86776 | [86776-dancing-balls-rolling-ahead-go.json](./86776-dancing-balls-rolling-ahead-go.json) |
 | Dancing Ballz: Magic Dance Line Tiles Game | 105993 | [105993-dancing-ballz-magic-dance-line-tiles-game.json](./105993-dancing-ballz-magic-dance-line-tiles-game.json) |
+| Dancing Bones | 348406 | [348406-dancing-bones.json](./348406-dancing-bones.json) |
 | Dancing Cats | 332805 | [332805-dancing-cats.json](./332805-dancing-cats.json) |
 | Dancing Craze for Mac | 90836 | [90836-dancing-craze-for-mac.json](./90836-dancing-craze-for-mac.json) |
 | Dancing Cube | 192837 | [192837-dancing-cube.json](./192837-dancing-cube.json) |
@@ -2704,6 +2705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delete | 380599 | [380599-delete.json](./380599-delete.json) |
 | Deleted | 264654 | [264654-deleted.json](./264654-deleted.json) |
 | Deleters | 405586 | [405586-deleters.json](./405586-deleters.json) |
+| Delfini | 348412 | [348412-delfini.json](./348412-delfini.json) |
 | Delhanro | 131438 | [131438-delhanro.json](./131438-delhanro.json) |
 | Delia: The Traveling Witch | 252410 | [252410-delia-the-traveling-witch.json](./252410-delia-the-traveling-witch.json) |
 | Deliberate | 309956 | [309956-deliberate.json](./309956-deliberate.json) |
@@ -3901,6 +3903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice & Sword | 286063 | [286063-dice-and-sword.json](./286063-dice-and-sword.json) |
 | Dice A Million | 335662 | [335662-dice-a-million.json](./335662-dice-a-million.json) |
 | Dice Battle | 279007 | [279007-dice-battle.json](./279007-dice-battle.json) |
+| Dice Battle: 3d Board Game | 348395 | [348395-dice-battle-3d-board-game.json](./348395-dice-battle-3d-board-game.json) |
 | Dice Birth Road | 290475 | [290475-dice-birth-road.json](./290475-dice-birth-road.json) |
 | Dice Blaze | 288836 | [288836-dice-blaze.json](./288836-dice-blaze.json) |
 | Dice Brawl: Captain's League | 108960 | [108960-dice-brawl-captains-league.json](./108960-dice-brawl-captains-league.json) |
@@ -4230,6 +4233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Jigsaw Puzzle | 104015 | [104015-digital-jigsaw-puzzle.json](./104015-digital-jigsaw-puzzle.json) |
 | Digital Keiba Shinbun: My Trackman | 283300 | [283300-digital-keiba-shinbun-my-trackman.json](./283300-digital-keiba-shinbun-my-trackman.json) |
 | Digital Makeover | 200604 | [200604-digital-makeover.json](./200604-digital-makeover.json) |
+| Digital Market Simulator | 348390 | [348390-digital-market-simulator.json](./348390-digital-market-simulator.json) |
 | Digital Messiah | 229805 | [229805-digital-messiah.json](./229805-digital-messiah.json) |
 | Digital Monster: Net Driver | 294204 | [294204-digital-monster-net-driver.json](./294204-digital-monster-net-driver.json) |
 | Digital Paint: Paintball 2 | 67950 | [67950-digital-paint-paintball-2.json](./67950-digital-paint-paintball-2.json) |
@@ -5101,6 +5105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DivineRPG | 241498 | [241498-divinerpg.json](./241498-divinerpg.json) |
 | Diving Corsola | 71567 | [71567-diving-corsola.json](./71567-diving-corsola.json) |
 | Diving Disorder | 157567 | [157567-diving-disorder.json](./157567-diving-disorder.json) |
+| Diving Focus | 348368 | [348368-diving-focus.json](./348368-diving-focus.json) |
 | Divinity | 381216 | [381216-divinity.json](./381216-divinity.json) |
 | Divinity Arrival | 254569 | [254569-divinity-arrival.json](./254569-divinity-arrival.json) |
 | Divinity Chronicles: Journey to the West | 140623 | [140623-divinity-chronicles-journey-to-the-west.json](./140623-divinity-chronicles-journey-to-the-west.json) |
@@ -8285,6 +8290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke Nukem Trilogy: Chain Reaction | 69326 | [69326-duke-nukem-trilogy-chain-reaction.json](./69326-duke-nukem-trilogy-chain-reaction.json) |
 | Duke Nukem Trilogy: Proving Grounds | 69263 | [69263-duke-nukem-trilogy-proving-grounds.json](./69263-duke-nukem-trilogy-proving-grounds.json) |
 | Duke Nukem Xmas 2014 | 291979 | [291979-duke-nukem-xmas-2014.json](./291979-duke-nukem-xmas-2014.json) |
+| Duke Nukem: D-Day | 348367 | [348367-duke-nukem-d-day.json](./348367-duke-nukem-d-day.json) |
 | Duke Nukem: Land of the Babes | 8504 | [8504-duke-nukem-land-of-the-babes.json](./8504-duke-nukem-land-of-the-babes.json) |
 | Duke Nukem: Total Meltdown | 44885 | [44885-duke-nukem-total-meltdown.json](./44885-duke-nukem-total-meltdown.json) |
 | Duke Nukem's Penthouse Paradise | 218117 | [218117-duke-nukems-penthouse-paradise.json](./218117-duke-nukems-penthouse-paradise.json) |
@@ -8504,6 +8510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Killing | 355210 | [355210-dungeon-killing.json](./355210-dungeon-killing.json) |
 | Dungeon Land | 66059 | [66059-dungeon-land.json](./66059-dungeon-land.json) |
 | Dungeon Legend | 242491 | [242491-dungeon-legend.json](./242491-dungeon-legend.json) |
+| Dungeon Legend Party | 348373 | [348373-dungeon-legend-party.json](./348373-dungeon-legend-party.json) |
 | Dungeon Legends 2 | 200179 | [200179-dungeon-legends-2.json](./200179-dungeon-legends-2.json) |
 | Dungeon Liberator | 203809 | [203809-dungeon-liberator.json](./203809-dungeon-liberator.json) |
 | Dungeon Limbus | 142280 | [142280-dungeon-limbus.json](./142280-dungeon-limbus.json) |
