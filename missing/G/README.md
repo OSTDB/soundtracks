@@ -291,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Nemesis | 197252 | [197252-galactic-nemesis.json](./197252-galactic-nemesis.json) |
 | Galactic Orbital Death Sport | 75190 | [75190-galactic-orbital-death-sport.json](./75190-galactic-orbital-death-sport.json) |
 | Galactic Overlord | 352259 | [352259-galactic-overlord.json](./352259-galactic-overlord.json) |
+| Galactic Pawns | 348382 | [348382-galactic-pawns.json](./348382-galactic-pawns.json) |
 | Galactic Phantasy Prelude | 64473 | [64473-galactic-phantasy-prelude.json](./64473-galactic-phantasy-prelude.json) |
 | Galactic Pinball | 20381 | [20381-galactic-pinball.json](./20381-galactic-pinball.json) |
 | Galactic Pioneer | 208049 | [208049-galactic-pioneer.json](./208049-galactic-pioneer.json) |
@@ -2082,6 +2083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girabox | 138621 | [138621-girabox.json](./138621-girabox.json) |
 | Giraffe | 314414 | [314414-giraffe.json](./314414-giraffe.json) |
 | Giraffe and Annika | 101220 | [101220-giraffe-and-annika.json](./101220-giraffe-and-annika.json) |
+| Giraffe Evolution | 348416 | [348416-giraffe-evolution.json](./348416-giraffe-evolution.json) |
 | Giraffe Town | 109783 | [109783-giraffe-town.json](./109783-giraffe-town.json) |
 | Giraffe's Matching Zoo Deluxe: Featuring the Fun Button! | 88418 | [88418-giraffes-matching-zoo-deluxe-featuring-the-fun-button.json](./88418-giraffes-matching-zoo-deluxe-featuring-the-fun-button.json) |
 | Girauden Strike Force | 156535 | [156535-girauden-strike-force.json](./156535-girauden-strike-force.json) |
