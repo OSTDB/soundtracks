@@ -1533,6 +1533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voice of Nature | 386708 | [386708-voice-of-nature.json](./386708-voice-of-nature.json) |
 | Voice of Pripyat | 16920 | [16920-voice-of-pripyat.json](./16920-voice-of-pripyat.json) |
 | Voice of the Killer | 150094 | [150094-voice-of-the-killer.json](./150094-voice-of-the-killer.json) |
+| Voice of the Ocean | 354004 | [354004-voice-of-the-ocean.json](./354004-voice-of-the-ocean.json) |
 | Voice of the Wizard by Brett Farkas | 221179 | [221179-voice-of-the-wizard-by-brett-farkas.json](./221179-voice-of-the-wizard-by-brett-farkas.json) |
 | Voice of Vamana | 141743 | [141743-voice-of-vamana.json](./141743-voice-of-vamana.json) |
 | Voice over | 224746 | [224746-voice-over.json](./224746-voice-over.json) |
