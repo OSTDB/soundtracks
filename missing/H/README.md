@@ -1536,6 +1536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartbreaker: The Visual Novel | 306454 | [306454-heartbreaker-the-visual-novel.json](./306454-heartbreaker-the-visual-novel.json) |
 | Heartburn | 301968 | [301968-heartburn.json](./301968-heartburn.json) |
 | HeartCore Descent | 407381 | [407381-heartcore-descent.json](./407381-heartcore-descent.json) |
+| Heartdust | 370254 | [370254-heartdust.json](./370254-heartdust.json) |
 | HeartFix Express | 391195 | [391195-heartfix-express.json](./391195-heartfix-express.json) |
 | Heartful Memories: Little Witch Parfait 2 | 332419 | [332419-heartful-memories-little-witch-parfait-2.json](./332419-heartful-memories-little-witch-parfait-2.json) |
 | Hearth Bound | 397128 | [397128-hearth-bound.json](./397128-hearth-bound.json) |
@@ -2468,6 +2469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Stars: Ultimate Edition | 274475 | [274475-hentai-stars-ultimate-edition.json](./274475-hentai-stars-ultimate-edition.json) |
 | Hentai Stars: Ultra Deluxe | 316269 | [316269-hentai-stars-ultra-deluxe.json](./316269-hentai-stars-ultra-deluxe.json) |
 | Hentai Step Milf | 340452 | [340452-hentai-step-milf.json](./340452-hentai-step-milf.json) |
+| Hentai Store | 370274 | [370274-hentai-store.json](./370274-hentai-store.json) |
 | Hentai Succubus Aura | 398550 | [398550-hentai-succubus-aura.json](./398550-hentai-succubus-aura.json) |
 | Hentai Sudoku | 146282 | [146282-hentai-sudoku.json](./146282-hentai-sudoku.json) |
 | Hentai Summer | 112739 | [112739-hentai-summer.json](./112739-hentai-summer.json) |
