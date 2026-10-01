@@ -2005,6 +2005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vs. Ladies Golf | 168330 | [168330-vs-ladies-golf.json](./168330-vs-ladies-golf.json) |
 | Vs. Lionex | 214600 | [214600-vs-lionex.json](./214600-vs-lionex.json) |
 | Vs. Madoola no Tsubasa | 214601 | [214601-vs-madoola-no-tsubasa.json](./214601-vs-madoola-no-tsubasa.json) |
+| Vs. Maxx 25-in-1 | 338339 | [338339-vs-maxx-25-in-1.json](./338339-vs-maxx-25-in-1.json) |
 | Vs. Mighty Bomb Jack | 214584 | [214584-vs-mighty-bomb-jack.json](./214584-vs-mighty-bomb-jack.json) |
 | Vs. Motocross | 214594 | [214594-vs-motocross.json](./214594-vs-motocross.json) |
 | Vs. Ninja JaJaMaru-kun | 214577 | [214577-vs-ninja-jajamaru-kun.json](./214577-vs-ninja-jajamaru-kun.json) |
