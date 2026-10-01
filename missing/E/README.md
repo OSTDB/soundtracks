@@ -614,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Educational and Learning Bundle: 5 in 1 | 192409 | [192409-educational-and-learning-bundle-5-in-1.json](./192409-educational-and-learning-bundle-5-in-1.json) |
 | Educational Games for Kids | 147919 | [147919-educational-games-for-kids.json](./147919-educational-games-for-kids.json) |
 | Educational games for kids girls & boys apps free! | 102742 | [102742-educational-games-for-kids-girls-and-boys-apps-free.json](./102742-educational-games-for-kids-girls-and-boys-apps-free.json) |
+| Educational Virtual Reality Campus | 341608 | [341608-educational-virtual-reality-campus.json](./341608-educational-virtual-reality-campus.json) |
 | Educator 2076: Basics in Education | 111678 | [111678-educator-2076-basics-in-education.json](./111678-educator-2076-basics-in-education.json) |
 | Edward Grabowski's: The Blue & The Gray | 74065 | [74065-edward-grabowskis-the-blue-and-the-gray.json](./74065-edward-grabowskis-the-blue-and-the-gray.json) |
 | Edward's Manor | 319349 | [319349-edwards-manor.json](./319349-edwards-manor.json) |
