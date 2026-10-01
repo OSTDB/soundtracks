@@ -231,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Healer Only Lives Twice | 33255 | [33255-a-healer-only-lives-twice.json](./33255-a-healer-only-lives-twice.json) |
 | A Heart between Parts | 136866 | [136866-a-heart-between-parts.json](./136866-a-heart-between-parts.json) |
 | A Heart Of Iron | 397692 | [397692-a-heart-of-iron.json](./397692-a-heart-of-iron.json) |
+| A Heavy Morning | 347840 | [347840-a-heavy-morning.json](./347840-a-heavy-morning.json) |
 | A Hero and a Garden | 137072 | [137072-a-hero-and-a-garden.json](./137072-a-hero-and-a-garden.json) |
 | A Heroine Story | 249856 | [249856-a-heroine-story.json](./249856-a-heroine-story.json) |
 | A Hideo Kojima Game | 178947 | [178947-a-hideo-kojima-game.json](./178947-a-hideo-kojima-game.json) |
@@ -1613,6 +1614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aether’s Echo: Yazid’s Paradox | 379569 | [379569-aether-s-echo-yazid-s-paradox.json](./379569-aether-s-echo-yazid-s-paradox.json) |
 | AetherCycle | 399767 | [399767-aethercycle.json](./399767-aethercycle.json) |
 | Aetherdrift | 384194 | [384194-aetherdrift.json](./384194-aetherdrift.json) |
+| Aetherglen | 347806 | [347806-aetherglen.json](./347806-aetherglen.json) |
 | Aetherial | 357786 | [357786-aetherial.json](./357786-aetherial.json) |
 | Aetherica: Echoes of Exodus | 391868 | [391868-aetherica-echoes-of-exodus.json](./391868-aetherica-echoes-of-exodus.json) |
 | AetherShot | 318055 | [318055-aethershot.json](./318055-aethershot.json) |
@@ -3175,6 +3177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Valentine Pairs Memory Game | 180101 | [180101-all-valentine-pairs-memory-game.json](./180101-all-valentine-pairs-memory-game.json) |
 | All We Need | 263212 | [263212-all-we-need.json](./263212-all-we-need.json) |
 | All Will Fall | 328273 | [328273-all-will-fall.json](./328273-all-will-fall.json) |
+| All will Rise | 347823 | [347823-all-will-rise.json](./347823-all-will-rise.json) |
 | All World Pro Wrestling: Bonus Stories | 196054 | [196054-all-world-pro-wrestling-bonus-stories.json](./196054-all-world-pro-wrestling-bonus-stories.json) |
 | All You Have to Do Is Click the Button | 352323 | [352323-all-you-have-to-do-is-click-the-button.json](./352323-all-you-have-to-do-is-click-the-button.json) |
 | All You Want Bundle | 231294 | [231294-all-you-want-bundle.json](./231294-all-you-want-bundle.json) |
@@ -5003,6 +5006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AnXiens | 174642 | [174642-anxiens.json](./174642-anxiens.json) |
 | Anxieties | 335699 | [335699-anxieties.json](./335699-anxieties.json) |
 | Anxiety | 51572 | [51572-anxiety.json](./51572-anxiety.json) |
+| Anxiety Puppy | 347827 | [347827-anxiety-puppy.json](./347827-anxiety-puppy.json) |
 | Anxiety Treatment with Relaxation | 187252 | [187252-anxiety-treatment-with-relaxation.json](./187252-anxiety-treatment-with-relaxation.json) |
 | Anxiety: Lost Night | 179490 | [179490-anxiety-lost-night.json](./179490-anxiety-lost-night.json) |
 | Any Castle | 337298 | [337298-any-castle.json](./337298-any-castle.json) |
