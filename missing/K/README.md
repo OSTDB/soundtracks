@@ -2522,6 +2522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kongregate Racing | 338926 | [338926-kongregate-racing.json](./338926-kongregate-racing.json) |
 | Konjiki no Gash Bell!! Golden Memories | 261218 | [261218-konjiki-no-gash-bell-golden-memories.json](./261218-konjiki-no-gash-bell-golden-memories.json) |
 | Konk World | 267910 | [267910-konk-world.json](./267910-konk-world.json) |
+| Konkonkon | 337741 | [337741-konkonkon.json](./337741-konkonkon.json) |
 | Konkwest | 277599 | [277599-konkwest.json](./277599-konkwest.json) |
 | KonMari Spark Joy! | 174292 | [174292-konmari-spark-joy.json](./174292-konmari-spark-joy.json) |
 | Konna | 275598 | [275598-konna.json](./275598-konna.json) |
