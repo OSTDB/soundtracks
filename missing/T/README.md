@@ -733,6 +733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talewind | 25307 | [25307-talewind.json](./25307-talewind.json) |
 | Tali: A Roman Empire Game of Chance | 344489 | [344489-tali-a-roman-empire-game-of-chance.json](./344489-tali-a-roman-empire-game-of-chance.json) |
 | Talisman Online | 140560 | [140560-talisman-online.json](./140560-talisman-online.json) |
+| Talisman: Digital Classic Edition | 337748 | [337748-talisman-digital-classic-edition.json](./337748-talisman-digital-classic-edition.json) |
 | Talisman: Digital Edition - Apprentice Mage | 149053 | [149053-talisman-digital-edition-apprentice-mage.json](./149053-talisman-digital-edition-apprentice-mage.json) |
 | Talisman: Digital Edition - Black Witch | 149069 | [149069-talisman-digital-edition-black-witch.json](./149069-talisman-digital-edition-black-witch.json) |
 | Talisman: Digital Edition - Courtesan | 149065 | [149065-talisman-digital-edition-courtesan.json](./149065-talisman-digital-edition-courtesan.json) |
@@ -2616,6 +2617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Time I Was Reincarnated as a Box that can Draw Various Lines that Interact with the Environment | 407564 | [407564-that-time-i-was-reincarnated-as-a-box-that-can-draw-various-lines-that-interact-with-the-environment.json](./407564-that-time-i-was-reincarnated-as-a-box-that-can-draw-various-lines-that-interact-with-the-environment.json) |
 | That Time in '88 | 181345 | [181345-that-time-in-88.json](./181345-that-time-in-88.json) |
 | That Tiny Spaceship | 102351 | [102351-that-tiny-spaceship.json](./102351-that-tiny-spaceship.json) |
+| That Village | 337740 | [337740-that-village.json](./337740-that-village.json) |
 | That's a Cow: Deluxe Edition | 232994 | [232994-thats-a-cow-deluxe-edition.json](./232994-thats-a-cow-deluxe-edition.json) |
 | That's a Cow: Eggshell | 233001 | [233001-thats-a-cow-eggshell.json](./233001-thats-a-cow-eggshell.json) |
 | That's a Cow: Premium Edition | 250364 | [250364-thats-a-cow-premium-edition.json](./250364-thats-a-cow-premium-edition.json) |
@@ -4111,6 +4113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dime Birthday Level Collection | 312901 | [312901-the-dime-birthday-level-collection.json](./312901-the-dime-birthday-level-collection.json) |
 | The Dimension of Anaconda | 360101 | [360101-the-dimension-of-anaconda.json](./360101-the-dimension-of-anaconda.json) |
 | The Diner | 355230 | [355230-the-diner.json](./355230-the-diner.json) |
+| The Dinner | 337767 | [337767-the-dinner.json](./337767-the-dinner.json) |
 | The Dinner Heist | 308561 | [308561-the-dinner-heist.json](./308561-the-dinner-heist.json) |
 | The Dino R | 233623 | [233623-the-dino-r.json](./233623-the-dino-r.json) |
 | The DinoHunters | 142967 | [142967-the-dinohunters.json](./142967-the-dinohunters.json) |
@@ -13227,6 +13230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of the Ancients | 206753 | [206753-tower-of-the-ancients.json](./206753-tower-of-the-ancients.json) |
 | Tower of the Blood Lord | 135837 | [135837-tower-of-the-blood-lord.json](./135837-tower-of-the-blood-lord.json) |
 | Tower of the Deep | 388026 | [388026-tower-of-the-deep.json](./388026-tower-of-the-deep.json) |
+| Tower of the Dragon | 337841 | [337841-tower-of-the-dragon.json](./337841-tower-of-the-dragon.json) |
 | Tower of the Sage | 195140 | [195140-tower-of-the-sage.json](./195140-tower-of-the-sage.json) |
 | Tower of the Sorceror | 202778 | [202778-tower-of-the-sorceror.json](./202778-tower-of-the-sorceror.json) |
 | Tower of Titans | 375320 | [375320-tower-of-titans.json](./375320-tower-of-titans.json) |
@@ -15630,6 +15634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunguska: Legend of Faith | 43901 | [43901-tunguska-legend-of-faith.json](./43901-tunguska-legend-of-faith.json) |
 | Tunguska: Shadow Master | 259075 | [259075-tunguska-shadow-master.json](./259075-tunguska-shadow-master.json) |
 | Tunguska: Slaughterhouse | 277348 | [277348-tunguska-slaughterhouse.json](./277348-tunguska-slaughterhouse.json) |
+| Tunguska: Sound of Music | 337843 | [337843-tunguska-sound-of-music.json](./337843-tunguska-sound-of-music.json) |
 | Tunguska: The Visitation | 152320 | [152320-tunguska-the-visitation.json](./152320-tunguska-the-visitation.json) |
 | Tunguska: The Visitation - Complete Edition | 338030 | [338030-tunguska-the-visitation-complete-edition.json](./338030-tunguska-the-visitation-complete-edition.json) |
 | Tunguska: The Visitation - Way of The Hunter | 227863 | [227863-tunguska-the-visitation-way-of-the-hunter.json](./227863-tunguska-the-visitation-way-of-the-hunter.json) |
@@ -15775,6 +15780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turnip Boy Robs a Bank | 217645 | [217645-turnip-boy-robs-a-bank.json](./217645-turnip-boy-robs-a-bank.json) |
 | Turnip Boy Steals the Mail | 342657 | [342657-turnip-boy-steals-the-mail.json](./342657-turnip-boy-steals-the-mail.json) |
 | TurnOn | 19606 | [19606-turnon.json](./19606-turnon.json) |
+| Turnout | 337760 | [337760-turnout.json](./337760-turnout.json) |
 | Turochamp | 232670 | [232670-turochamp.json](./232670-turochamp.json) |
 | Turok | 308368 | [308368-turok.json](./308368-turok.json) |
 | Turok 2 | 146729 | [146729-turok-2.json](./146729-turok-2.json) |
