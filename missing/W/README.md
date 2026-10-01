@@ -1171,6 +1171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Polo | 346104 | [346104-water-polo.json](./346104-water-polo.json) |
 | Water Rain | 158077 | [158077-water-rain.json](./158077-water-rain.json) |
 | Water Search | 224753 | [224753-water-search.json](./224753-water-search.json) |
+| Water Sort Challenge | 340521 | [340521-water-sort-challenge.json](./340521-water-sort-challenge.json) |
 | Water Sort Jigsaw: Color Sort | 208943 | [208943-water-sort-jigsaw-color-sort.json](./208943-water-sort-jigsaw-color-sort.json) |
 | Water Sports | 5262 | [5262-water-sports.json](./5262-water-sports.json) |
 | Water Star Adventure | 215770 | [215770-water-star-adventure.json](./215770-water-star-adventure.json) |
