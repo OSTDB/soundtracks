@@ -4894,6 +4894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: Zombie | 366397 | [366397-fortnite-festival-zombie.json](./366397-fortnite-festival-zombie.json) |
 | Fortnite OG | 324915 | [324915-fortnite-og.json](./324915-fortnite-og.json) |
 | Fortnite OG: Chapter 1 Season 2 | 330838 | [330838-fortnite-og-chapter-1-season-2.json](./330838-fortnite-og-chapter-1-season-2.json) |
+| Fortnite OG: Chapter 1 Season 5 | 361184 | [361184-fortnite-og-chapter-1-season-5.json](./361184-fortnite-og-chapter-1-season-5.json) |
 | Fortnite OG: Chapter 1 Season 7 | 381174 | [381174-fortnite-og-chapter-1-season-7.json](./381174-fortnite-og-chapter-1-season-7.json) |
 | Fortnite OG: Chapter 1 Season 9 | 409733 | [409733-fortnite-og-chapter-1-season-9.json](./409733-fortnite-og-chapter-1-season-9.json) |
 | Fortnite Reload | 324921 | [324921-fortnite-reload.json](./324921-fortnite-reload.json) |
