@@ -2133,6 +2133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whiskers Warehouse | 385068 | [385068-whiskers-warehouse.json](./385068-whiskers-warehouse.json) |
 | Whiskers Wonderland | 306092 | [306092-whiskers-wonderland.json](./306092-whiskers-wonderland.json) |
 | Whiskerwood | 309324 | [309324-whiskerwood.json](./309324-whiskerwood.json) |
+| Whiskerwood Vale | 350590 | [350590-whiskerwood-vale.json](./350590-whiskerwood-vale.json) |
 | Whiskey Bravo | 189174 | [189174-whiskey-bravo.json](./189174-whiskey-bravo.json) |
 | Whiskey Island | 148467 | [148467-whiskey-island.json](./148467-whiskey-island.json) |
 | Whiskey Mafia: Blacklist | 380649 | [380649-whiskey-mafia-blacklist.json](./380649-whiskey-mafia-blacklist.json) |
@@ -2344,6 +2345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Why Does the Sea Cry So Much | 362887 | [362887-why-does-the-sea-cry-so-much.json](./362887-why-does-the-sea-cry-so-much.json) |
 | Why Don't They Laugh? | 312558 | [312558-why-dont-they-laugh.json](./312558-why-dont-they-laugh.json) |
 | Why God? | 287207 | [287207-why-god.json](./287207-why-god.json) |
+| Why I Don't Have a Country Any More | 350557 | [350557-why-i-dont-have-a-country-any-more.json](./350557-why-i-dont-have-a-country-any-more.json) |
 | Why I was Born | 213488 | [213488-why-i-was-born.json](./213488-why-i-was-born.json) |
 | Why is this Dragon so Fucking Cute?? | 136854 | [136854-why-is-this-dragon-so-fucking-cute.json](./136854-why-is-this-dragon-so-fucking-cute.json) |
 | Why Me | 377147 | [377147-why-me.json](./377147-why-me.json) |
@@ -2436,6 +2438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Cats | 365662 | [365662-wild-cats.json](./365662-wild-cats.json) |
 | Wild Cats of Wasteland | 117131 | [117131-wild-cats-of-wasteland.json](./117131-wild-cats-of-wasteland.json) |
 | Wild Cheetah Sim 3D | 330725 | [330725-wild-cheetah-sim-3d.json](./330725-wild-cheetah-sim-3d.json) |
+| Wild City | 350594 | [350594-wild-city.json](./350594-wild-city.json) |
 | Wild Cosmos | 381862 | [381862-wild-cosmos.json](./381862-wild-cosmos.json) |
 | Wild Country | 151014 | [151014-wild-country.json](./151014-wild-country.json) |
 | Wild Deer Hunt Jungle Sniper | 28011 | [28011-wild-deer-hunt-jungle-sniper.json](./28011-wild-deer-hunt-jungle-sniper.json) |
