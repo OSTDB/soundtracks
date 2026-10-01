@@ -1166,6 +1166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virago World | 374738 | [374738-virago-world.json](./374738-virago-world.json) |
 | Virago: Herstory | 226184 | [226184-virago-herstory.json](./226184-virago-herstory.json) |
 | Virago: Herstory 2 | 374735 | [374735-virago-herstory-2.json](./374735-virago-herstory-2.json) |
+| Virago: What If | 374745 | [374745-virago-what-if.json](./374745-virago-what-if.json) |
 | Viral | 265255 | [265255-viral.json](./265255-viral.json) |
 | Viral Firar | 166698 | [166698-viral-firar.json](./166698-viral-firar.json) |
 | Viral Hunters | 390204 | [390204-viral-hunters.json](./390204-viral-hunters.json) |
