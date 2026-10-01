@@ -1622,6 +1622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to the World of ZJ the Ball | 215121 | [215121-welcome-to-the-world-of-zj-the-ball.json](./215121-welcome-to-the-world-of-zj-the-ball.json) |
 | Welcome to West Feedback | 60764 | [60764-welcome-to-west-feedback.json](./60764-welcome-to-west-feedback.json) |
 | Welcome to your Life | 403672 | [403672-welcome-to-your-life.json](./403672-welcome-to-your-life.json) |
+| Welcome to: Doki Doki Literature Club, Player! | 336089 | [336089-welcome-to-doki-doki-literature-club-player.json](./336089-welcome-to-doki-doki-literature-club-player.json) |
 | Welcome To... Chicheser OVN 3 : The Mysterious Affair At The Violet Hotel | 131587 | [131587-welcome-to-chicheser-ovn-3-the-mysterious-affair-at-the-violet-hotel.json](./131587-welcome-to-chicheser-ovn-3-the-mysterious-affair-at-the-violet-hotel.json) |
 | Welcome to... Chichester 2: Part II - No Extra Regrets For the Future | 170400 | [170400-welcome-to-chichester-2-part-ii-no-extra-regrets-for-the-future.json](./170400-welcome-to-chichester-2-part-ii-no-extra-regrets-for-the-future.json) |
 | Welcome To... Chichester 3: Original Episode | 169960 | [169960-welcome-to-chichester-3-original-episode.json](./169960-welcome-to-chichester-3-original-episode.json) |
