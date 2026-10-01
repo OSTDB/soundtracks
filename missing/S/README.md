@@ -888,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanrio World: Kero Kero Keroppi no Bouken Nikki | 37964 | [37964-sanrio-world-kero-kero-keroppi-no-bouken-nikki.json](./37964-sanrio-world-kero-kero-keroppi-no-bouken-nikki.json) |
 | Sans & Papyrus: Salsa Lesson | 367395 | [367395-sans-and-papyrus-salsa-lesson.json](./367395-sans-and-papyrus-salsa-lesson.json) |
 | Sans Logique | 260179 | [260179-sans-logique.json](./260179-sans-logique.json) |
+| Sans Spielen's Epic Megalovania | 334250 | [334250-sans-spielens-epic-megalovania.json](./334250-sans-spielens-epic-megalovania.json) |
 | Sansara Naga 1 | 341472 | [341472-sansara-naga-1.json](./341472-sansara-naga-1.json) |
 | Sansara Naga 2 | 341473 | [341473-sansara-naga-2.json](./341473-sansara-naga-2.json) |
 | Sansuu Driller | 222245 | [222245-sansuu-driller.json](./222245-sansuu-driller.json) |
@@ -1994,6 +1995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seaborn | 176450 | [176450-seaborn.json](./176450-seaborn.json) |
 | SeaCret 1 | 352464 | [352464-seacret-1.json](./352464-seacret-1.json) |
 | Seafarer | 296463 | [296463-seafarer.json](./296463-seafarer.json) |
+| Seafarer: The Ship Sim | 334351 | [334351-seafarer-the-ship-sim.json](./334351-seafarer-the-ship-sim.json) |
 | Seafarer's Gambit | 329172 | [329172-seafarers-gambit.json](./329172-seafarers-gambit.json) |
 | Seafight | 59655 | [59655-seafight.json](./59655-seafight.json) |
 | Seaforge: Shores of Atlantis | 415872 | [415872-seaforge-shores-of-atlantis.json](./415872-seaforge-shores-of-atlantis.json) |
@@ -3799,6 +3801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheep In Space | 18561 | [18561-sheep-in-space.json](./18561-sheep-in-space.json) |
 | Sheep Island | 373072 | [373072-sheep-island.json](./373072-sheep-island.json) |
 | Sheep Lad | 236759 | [236759-sheep-lad.json](./236759-sheep-lad.json) |
+| Sheep Lass: Quest Zero | 334253 | [334253-sheep-lass-quest-zero.json](./334253-sheep-lass-quest-zero.json) |
 | Sheep Launcher 2 | 233524 | [233524-sheep-launcher-2.json](./233524-sheep-launcher-2.json) |
 | Sheep Legion - turn-based tactical RPG game | 174321 | [174321-sheep-legion-turn-based-tactical-rpg-game.json](./174321-sheep-legion-turn-based-tactical-rpg-game.json) |
 | Sheep Love | 157007 | [157007-sheep-love.json](./157007-sheep-love.json) |
@@ -5539,6 +5542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinister Seven | 275636 | [275636-sinister-seven.json](./275636-sinister-seven.json) |
 | Sinister Zombies | 95604 | [95604-sinister-zombies.json](./95604-sinister-zombies.json) |
 | Sinistrous | 153423 | [153423-sinistrous.json](./153423-sinistrous.json) |
+| Sinja UnityStory | 334344 | [334344-sinja-unitystory.json](./334344-sinja-unitystory.json) |
 | Sink Again | 140383 | [140383-sink-again.json](./140383-sink-again.json) |
 | Sink and Score | 373658 | [373658-sink-and-score.json](./373658-sink-and-score.json) |
 | Sink Sub Pro | 379984 | [379984-sink-sub-pro.json](./379984-sink-sub-pro.json) |
@@ -5912,6 +5916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skipper 2 | 395724 | [395724-skipper-2.json](./395724-skipper-2.json) |
 | Skippy the Bot | 163369 | [163369-skippy-the-bot.json](./163369-skippy-the-bot.json) |
 | Skippy: The Curse Of The Temple Of Ock | 132042 | [132042-skippy-the-curse-of-the-temple-of-ock.json](./132042-skippy-the-curse-of-the-temple-of-ock.json) |
+| Skippy's Grand Escape | 334335 | [334335-skippys-grand-escape.json](./334335-skippys-grand-escape.json) |
 | Skirmish | 13756 | [13756-skirmish.json](./13756-skirmish.json) |
 | Skirmish | 257946 | [257946-skirmish.json](./257946-skirmish.json) |
 | Skirmish Line: Mad Jack | 172129 | [172129-skirmish-line-mad-jack.json](./172129-skirmish-line-mad-jack.json) |
@@ -6497,6 +6502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Coming | 301812 | [301812-slime-coming.json](./301812-slime-coming.json) |
 | Slime Cores | 298056 | [298056-slime-cores.json](./298056-slime-cores.json) |
 | Slime Crunch | 114828 | [114828-slime-crunch.json](./114828-slime-crunch.json) |
+| Slime Dreamscape | 334345 | [334345-slime-dreamscape.json](./334345-slime-dreamscape.json) |
 | Slime Dungeon | 202656 | [202656-slime-dungeon.json](./202656-slime-dungeon.json) |
 | Slime Dungeon Escape | 161389 | [161389-slime-dungeon-escape.json](./161389-slime-dungeon-escape.json) |
 | Slime Escape | 192390 | [192390-slime-escape.json](./192390-slime-escape.json) |
@@ -7720,6 +7726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokko Seitokai: Sonic Council | 165073 | [165073-sokko-seitokai-sonic-council.json](./165073-sokko-seitokai-sonic-council.json) |
 | Soko Loco | 129576 | [129576-soko-loco.json](./129576-soko-loco.json) |
 | Soko Loco Deluxe | 115328 | [115328-soko-loco-deluxe.json](./115328-soko-loco-deluxe.json) |
+| Soko Spectacle | 334258 | [334258-soko-spectacle.json](./334258-soko-spectacle.json) |
 | Soko-Ban | 11763 | [11763-soko-ban.json](./11763-soko-ban.json) |
 | Sokoball of Osaka | 64679 | [64679-sokoball-of-osaka.json](./64679-sokoball-of-osaka.json) |
 | Sokoban | 19573 | [19573-sokoban.json](./19573-sokoban.json) |
@@ -11358,6 +11365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stagehand Survival Simulator | 239733 | [239733-stagehand-survival-simulator.json](./239733-stagehand-survival-simulator.json) |
 | Stagehand: A Reverse Platformer | 97306 | [97306-stagehand-a-reverse-platformer.json](./97306-stagehand-a-reverse-platformer.json) |
 | Stages of Life | 250397 | [250397-stages-of-life.json](./250397-stages-of-life.json) |
+| StageTime | 334255 | [334255-stagetime.json](./334255-stagetime.json) |
 | Stagger 1 | 40250 | [40250-stagger-1.json](./40250-stagger-1.json) |
 | Stagnated In Slumber | 212250 | [212250-stagnated-in-slumber.json](./212250-stagnated-in-slumber.json) |
 | Stagnatum | 185109 | [185109-stagnatum.json](./185109-stagnatum.json) |
@@ -11388,6 +11396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stalingrad Abatis | 109888 | [109888-stalingrad-abatis.json](./109888-stalingrad-abatis.json) |
 | Stalk the Giant | 249788 | [249788-stalk-the-giant.json](./249788-stalk-the-giant.json) |
 | Stalked | 163313 | [163313-stalked.json](./163313-stalked.json) |
+| Stalked in Solitude | 334257 | [334257-stalked-in-solitude.json](./334257-stalked-in-solitude.json) |
 | Stalker 1: Path of Fire | 63351 | [63351-stalker-1-path-of-fire.json](./63351-stalker-1-path-of-fire.json) |
 | Stalker Defender Bunker 3D | 89238 | [89238-stalker-defender-bunker-3d.json](./89238-stalker-defender-bunker-3d.json) |
 | Stalker Together | 327831 | [327831-stalker-together.json](./327831-stalker-together.json) |
@@ -12675,6 +12684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steins;Gate: Linear Bounded Phenogram | 65504 | [65504-steins-gate-linear-bounded-phenogram.json](./65504-steins-gate-linear-bounded-phenogram.json) |
 | Steins;Gate: Octet of Shifting Space | 65764 | [65764-steins-gate-octet-of-shifting-space.json](./65764-steins-gate-octet-of-shifting-space.json) |
 | Steinstern: Spacewar | 173049 | [173049-steinstern-spacewar.json](./173049-steinstern-spacewar.json) |
+| Stela Boss | 334324 | [334324-stela-boss.json](./334324-stela-boss.json) |
 | Stelarace | 245851 | [245851-stelarace.json](./245851-stelarace.json) |
 | Stele | 339664 | [339664-stele.json](./339664-stele.json) |
 | Stella Arcana | 142257 | [142257-stella-arcana.json](./142257-stella-arcana.json) |
@@ -13951,6 +13961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submachine: 32 Chambers | 19324 | [19324-submachine-32-chambers.json](./19324-submachine-32-chambers.json) |
 | Submachine: 32 Chambers | 260730 | [260730-submachine-32-chambers.json](./260730-submachine-32-chambers.json) |
 | Submachine: Future Loop Foundation | 19296 | [19296-submachine-future-loop-foundation.json](./19296-submachine-future-loop-foundation.json) |
+| Submansion | 334264 | [334264-submansion.json](./334264-submansion.json) |
 | Submarine | 346083 | [346083-submarine.json](./346083-submarine.json) |
 | Submarine Adventure | 133233 | [133233-submarine-adventure.json](./133233-submarine-adventure.json) |
 | Submarine Attack | 46120 | [46120-submarine-attack.json](./46120-submarine-attack.json) |
