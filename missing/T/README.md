@@ -881,11 +881,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tampopo | 317004 | [317004-tampopo.json](./317004-tampopo.json) |
 | Tamriel Rebuilt | 186650 | [186650-tamriel-rebuilt.json](./186650-tamriel-rebuilt.json) |
 | Tamura Mitsuaki no Mahjong Seminar | 48886 | [48886-tamura-mitsuaki-no-mahjong-seminar.json](./48886-tamura-mitsuaki-no-mahjong-seminar.json) |
+| Tàn Dǎo Hǎiguītāng | 373715 | [373715-tan-dao-haiguitang.json](./373715-tan-dao-haiguitang.json) |
 | Tan-Tan-Tanuki | 307142 | [307142-tan-tan-tanuki.json](./307142-tan-tan-tanuki.json) |
 | Tanat Online | 366226 | [366226-tanat-online.json](./366226-tanat-online.json) |
 | Tandem: A Tale of Shadows | 151134 | [151134-tandem-a-tale-of-shadows.json](./151134-tandem-a-tale-of-shadows.json) |
 | Tandis | 144176 | [144176-tandis.json](./144176-tandis.json) |
 | Tane o Maku Tori | 20174 | [20174-tane-o-maku-tori.json](./20174-tane-o-maku-tori.json) |
+| Táng Chuánqí: Shàng Yuáncháng Gān Xíng | 373703 | [373703-tang-chuanqi-shang-yuanchang-gan-xing.json](./373703-tang-chuanqi-shang-yuanchang-gan-xing.json) |
 | Tang Dynasty Architecture | 275341 | [275341-tang-dynasty-architecture.json](./275341-tang-dynasty-architecture.json) |
 | Tángdì zhī Huá | 394820 | [394820-tangdi-zhi-hua.json](./394820-tangdi-zhi-hua.json) |
 | Tangerine Clicker | 247212 | [247212-tangerine-clicker.json](./247212-tangerine-clicker.json) |
@@ -3049,6 +3051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Beast | 100210 | [100210-the-beast.json](./100210-the-beast.json) |
 | The Beast | 374223 | [374223-the-beast.json](./374223-the-beast.json) |
 | The Beast Inside | 88116 | [88116-the-beast-inside.json](./88116-the-beast-inside.json) |
+| The Beast Is yet to Come | 373685 | [373685-the-beast-is-yet-to-come.json](./373685-the-beast-is-yet-to-come.json) |
 | The Beast of the Rosewood | 302134 | [302134-the-beast-of-the-rosewood.json](./302134-the-beast-of-the-rosewood.json) |
 | The Beast of Torrack Moor | 58855 | [58855-the-beast-of-torrack-moor.json](./58855-the-beast-of-torrack-moor.json) |
 | The Beastmaster Princess | 219546 | [219546-the-beastmaster-princess.json](./219546-the-beastmaster-princess.json) |
@@ -7310,6 +7313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Raincoat Man | 196042 | [196042-the-raincoat-man.json](./196042-the-raincoat-man.json) |
 | The Rainman | 301835 | [301835-the-rainman.json](./301835-the-rainman.json) |
 | The Rainsdowne Players | 97926 | [97926-the-rainsdowne-players.json](./97926-the-rainsdowne-players.json) |
+| The Rainy Night | 373693 | [373693-the-rainy-night.json](./373693-the-rainy-night.json) |
 | The Rainy Port Keelung | 35758 | [35758-the-rainy-port-keelung.json](./35758-the-rainy-port-keelung.json) |
 | The Rake: Back To Asylum | 342135 | [342135-the-rake-back-to-asylum.json](./342135-the-rake-back-to-asylum.json) |
 | The Ramen Shop | 378366 | [378366-the-ramen-shop.json](./378366-the-ramen-shop.json) |
@@ -8429,6 +8433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Threat of North | 112157 | [112157-the-threat-of-north.json](./112157-the-threat-of-north.json) |
 | The Three Decoders 1 - Riddle of the Ring | 58777 | [58777-the-three-decoders-1-riddle-of-the-ring.json](./58777-the-three-decoders-1-riddle-of-the-ring.json) |
 | The Three Kingdoms of China | 115489 | [115489-the-three-kingdoms-of-china.json](./115489-the-three-kingdoms-of-china.json) |
+| The Three Kingdoms: Rebirth | 373710 | [373710-the-three-kingdoms-rebirth.json](./373710-the-three-kingdoms-rebirth.json) |
 | The Three Kingdoms: The Dynamic | 212857 | [212857-the-three-kingdoms-the-dynamic.json](./212857-the-three-kingdoms-the-dynamic.json) |
 | The Three Kingdoms: The Tales of Jian An | 379442 | [379442-the-three-kingdoms-the-tales-of-jian-an.json](./379442-the-three-kingdoms-the-tales-of-jian-an.json) |
 | The Three Musketeers | 186262 | [186262-the-three-musketeers.json](./186262-the-three-musketeers.json) |
@@ -11542,6 +11547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the Eds-treme | 315086 | [315086-to-the-eds-treme.json](./315086-to-the-eds-treme.json) |
 | To the End 2 | 174304 | [174304-to-the-end-2.json](./174304-to-the-end-2.json) |
 | To the End of the Way | 327432 | [327432-to-the-end-of-the-way.json](./327432-to-the-end-of-the-way.json) |
+| To the Finale. | 373713 | [373713-to-the-finale.json](./373713-to-the-finale.json) |
 | To The Grave: The Hunters of Faenora | 358385 | [358385-to-the-grave-the-hunters-of-faenora.json](./358385-to-the-grave-the-hunters-of-faenora.json) |
 | To the HeIghts of My Heart | 178044 | [178044-to-the-heights-of-my-heart.json](./178044-to-the-heights-of-my-heart.json) |
 | To the Home | 405478 | [405478-to-the-home.json](./405478-to-the-home.json) |
@@ -12097,6 +12103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tone Sphere | 82740 | [82740-tone-sphere.json](./82740-tone-sphere.json) |
 | Tonetaker VR | 123510 | [123510-tonetaker-vr.json](./123510-tonetaker-vr.json) |
 | Tong Create Thorns | 358513 | [358513-tong-create-thorns.json](./358513-tong-create-thorns.json) |
+| Tóng Dāo Yín Jiàn | 373707 | [373707-tong-dao-yin-jian.json](./373707-tong-dao-yin-jian.json) |
 | Tongari Boushi to Mahou no Machi | 109053 | [109053-tongari-boushi-to-mahou-no-machi.json](./109053-tongari-boushi-to-mahou-no-machi.json) |
 | Tongari Boushi to Mahou no Omise | 109055 | [109055-tongari-boushi-to-mahou-no-omise.json](./109055-tongari-boushi-to-mahou-no-omise.json) |
 | Tongari Boushi to Oshare na Mahou Tsukai | 109054 | [109054-tongari-boushi-to-oshare-na-mahou-tsukai.json](./109054-tongari-boushi-to-oshare-na-mahou-tsukai.json) |
