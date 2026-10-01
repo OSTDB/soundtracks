@@ -2396,6 +2396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloom Gate | 417428 | [417428-gloom-gate.json](./417428-gloom-gate.json) |
 | Gloom: Digital Edition | 197770 | [197770-gloom-digital-edition.json](./197770-gloom-digital-edition.json) |
 | Gloom: Unhappy Homes | 168770 | [168770-gloom-unhappy-homes.json](./168770-gloom-unhappy-homes.json) |
+| Gloomfall | 336671 | [336671-gloomfall.json](./336671-gloomfall.json) |
 | Gloomhaven | 106803 | [106803-gloomhaven.json](./106803-gloomhaven.json) |
 | Gloomhaven: Jaws of the Lion | 197889 | [197889-gloomhaven-jaws-of-the-lion.json](./197889-gloomhaven-jaws-of-the-lion.json) |
 | Gloomhaven: Jaws of the Lion - Alternative Skins | 267360 | [267360-gloomhaven-jaws-of-the-lion-alternative-skins.json](./267360-gloomhaven-jaws-of-the-lion-alternative-skins.json) |
@@ -4461,6 +4462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimville: The Gift of Darkness | 96760 | [96760-grimville-the-gift-of-darkness.json](./96760-grimville-the-gift-of-darkness.json) |
 | Grimwalker | 244887 | [244887-grimwalker.json](./244887-grimwalker.json) |
 | Grimwar | 343915 | [343915-grimwar.json](./343915-grimwar.json) |
+| GrimWhimsy | 336647 | [336647-grimwhimsy.json](./336647-grimwhimsy.json) |
 | Grimwild Horror | 319169 | [319169-grimwild-horror.json](./319169-grimwild-horror.json) |
 | Grin Bandana | 54475 | [54475-grin-bandana.json](./54475-grin-bandana.json) |
 | Grinbo | 91554 | [91554-grinbo.json](./91554-grinbo.json) |
@@ -5054,6 +5056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun-Toting Cats | 176358 | [176358-gun-toting-cats.json](./176358-gun-toting-cats.json) |
 | Gun.Smoke | 40965 | [40965-gun-smoke.json](./40965-gun-smoke.json) |
 | Gunball: Emperor's Revenge | 353314 | [353314-gunball-emperors-revenge.json](./353314-gunball-emperors-revenge.json) |
+| GunBang | 336677 | [336677-gunbang.json](./336677-gunbang.json) |
 | Gunbarich | 39861 | [39861-gunbarich.json](./39861-gunbarich.json) |
 | Gunbird | 299163 | [299163-gunbird.json](./299163-gunbird.json) |
 | Gunbird | 39352 | [39352-gunbird.json](./39352-gunbird.json) |
