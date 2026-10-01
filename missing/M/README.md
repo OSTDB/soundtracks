@@ -2083,6 +2083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marko: Beyond Brave | 223167 | [223167-marko-beyond-brave.json](./223167-marko-beyond-brave.json) |
 | Marko's Magic Football | 368608 | [368608-markos-magic-football.json](./368608-markos-magic-football.json) |
 | Marksman Shooting | 245298 | [245298-marksman-shooting.json](./245298-marksman-shooting.json) |
+| Marksman VR | 344503 | [344503-marksman-vr.json](./344503-marksman-vr.json) |
 | MarksmanVR | 28878 | [28878-marksmanvr.json](./28878-marksmanvr.json) |
 | Marktopia | 365154 | [365154-marktopia.json](./365154-marktopia.json) |
 | Marl de Jigsaw | 165610 | [165610-marl-de-jigsaw.json](./165610-marl-de-jigsaw.json) |
@@ -4394,6 +4395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meowstery of a Growing Aurora | 296980 | [296980-meowstery-of-a-growing-aurora.json](./296980-meowstery-of-a-growing-aurora.json) |
 | Meowstery Wisp | 383067 | [383067-meowstery-wisp.json](./383067-meowstery-wisp.json) |
 | Meowter Space | 239607 | [239607-meowter-space.json](./239607-meowter-space.json) |
+| MeowWare | 344511 | [344511-meowware.json](./344511-meowware.json) |
 | Mepekyon Racing | 416668 | [416668-mepekyon-racing.json](./416668-mepekyon-racing.json) |
 | MER Adventure Climbing | 370687 | [370687-mer-adventure-climbing.json](./370687-mer-adventure-climbing.json) |
 | Mer Wars | 264310 | [264310-mer-wars.json](./264310-mer-wars.json) |
@@ -5975,6 +5977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miners Settlement: Idle RPG | 245343 | [245343-miners-settlement-idle-rpg.json](./245343-miners-settlement-idle-rpg.json) |
 | Miners' Union | 391065 | [391065-miners-union.json](./391065-miners-union.json) |
 | Minerva | 10129 | [10129-minerva.json](./10129-minerva.json) |
+| Minerva Labyrinth | 344499 | [344499-minerva-labyrinth.json](./344499-minerva-labyrinth.json) |
 | Mines | 102817 | [102817-mines.json](./102817-mines.json) |
 | Mines | 205095 | [205095-mines.json](./205095-mines.json) |
 | Mines & Dragons | 163994 | [163994-mines-and-dragons.json](./163994-mines-and-dragons.json) |
