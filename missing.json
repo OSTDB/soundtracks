@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T04:02:56.396Z",
-  "total_missing": 147826,
+  "generated_at": "2026-10-01T04:17:55.477Z",
+  "total_missing": 147876,
   "games": [
     {
       "igdb_id": 186066,
@@ -19091,6 +19091,11 @@
       "igdb_id": 322142,
       "game_name": "Akumajou Dracula",
       "file": "missing/A/322142-akumajou-dracula.json"
+    },
+    {
+      "igdb_id": 377248,
+      "game_name": "Akumajou Dracula",
+      "file": "missing/A/377248-akumajou-dracula.json"
     },
     {
       "igdb_id": 361222,
@@ -63603,6 +63608,11 @@
       "file": "missing/B/390633-berserker-2-the-saga-of-hilde.json"
     },
     {
+      "igdb_id": 377202,
+      "game_name": "Berserker Girl",
+      "file": "missing/B/377202-berserker-girl.json"
+    },
+    {
       "igdb_id": 213203,
       "game_name": "Berserker: A Viking Board Game",
       "file": "missing/B/213203-berserker-a-viking-board-game.json"
@@ -70996,6 +71006,11 @@
       "igdb_id": 113868,
       "game_name": "Blaster Lilo",
       "file": "missing/B/113868-blaster-lilo.json"
+    },
+    {
+      "igdb_id": 377231,
+      "game_name": "Blaster Master SNES Port",
+      "file": "missing/B/377231-blaster-master-snes-port.json"
     },
     {
       "igdb_id": 27438,
@@ -85493,6 +85508,11 @@
       "file": "missing/B/62973-brokenearth.json"
     },
     {
+      "igdb_id": 377235,
+      "game_name": "BrokenLore: Ascend",
+      "file": "missing/B/377235-brokenlore-ascend.json"
+    },
+    {
       "igdb_id": 370708,
       "game_name": "BrokenLore: Don't Lie",
       "file": "missing/B/370708-brokenlore-dont-lie.json"
@@ -89811,6 +89831,11 @@
       "igdb_id": 158717,
       "game_name": "Burrow",
       "file": "missing/B/158717-burrow.json"
+    },
+    {
+      "igdb_id": 377195,
+      "game_name": "Burrows",
+      "file": "missing/B/377195-burrows.json"
     },
     {
       "igdb_id": 380045,
@@ -99288,6 +99313,11 @@
       "file": "missing/C/109594-castlevania-requiem-symphony-of-the-night-and-rondo-of-blood.json"
     },
     {
+      "igdb_id": 377219,
+      "game_name": "Castlevania SNES Port",
+      "file": "missing/C/377219-castlevania-snes-port.json"
+    },
+    {
       "igdb_id": 1134,
       "game_name": "Castlevania: Aria of Sorrow",
       "file": "missing/C/1134-castlevania-aria-of-sorrow.json"
@@ -103603,6 +103633,11 @@
       "file": "missing/C/322805-chakana.json"
     },
     {
+      "igdb_id": 377193,
+      "game_name": "Chakana",
+      "file": "missing/C/377193-chakana.json"
+    },
+    {
       "igdb_id": 133981,
       "game_name": "Chakravyuh",
       "file": "missing/C/133981-chakravyuh.json"
@@ -107083,6 +107118,11 @@
       "file": "missing/C/273374-chicken-done.json"
     },
     {
+      "igdb_id": 377251,
+      "game_name": "Chicken Evolution",
+      "file": "missing/C/377251-chicken-evolution.json"
+    },
+    {
       "igdb_id": 202648,
       "game_name": "Chicken Fall",
       "file": "missing/C/202648-chicken-fall.json"
@@ -108171,6 +108211,11 @@
       "igdb_id": 398527,
       "game_name": "Chip 'n Clawz vs. The Brainioids: Going Underground",
       "file": "missing/C/398527-chip-n-clawz-vs-the-brainioids-going-underground.json"
+    },
+    {
+      "igdb_id": 377229,
+      "game_name": "Chip 'n Dale SNES Port",
+      "file": "missing/C/377229-chip-n-dale-snes-port.json"
     },
     {
       "igdb_id": 232145,
@@ -118326,6 +118371,11 @@
       "igdb_id": 26936,
       "game_name": "Color 360",
       "file": "missing/C/26936-color-360.json"
+    },
+    {
+      "igdb_id": 377225,
+      "game_name": "Color a Dinosaur SNES Port",
+      "file": "missing/C/377225-color-a-dinosaur-snes-port.json"
     },
     {
       "igdb_id": 191131,
@@ -159743,6 +159793,16 @@
       "file": "missing/D/67307-digimon-story-lost-evolution.json"
     },
     {
+      "igdb_id": 377240,
+      "game_name": "Digimon Story: Time Stranger - Episode Pack 1: Alternate Dimension",
+      "file": "missing/D/377240-digimon-story-time-stranger-episode-pack-1-alternate-dimension.json"
+    },
+    {
+      "igdb_id": 377242,
+      "game_name": "Digimon Story: Time Stranger - Season Pass",
+      "file": "missing/D/377242-digimon-story-time-stranger-season-pass.json"
+    },
+    {
       "igdb_id": 202964,
       "game_name": "Digimon Super Rumble",
       "file": "missing/D/202964-digimon-super-rumble.json"
@@ -164976,6 +165036,11 @@
       "igdb_id": 266518,
       "game_name": "Do Not Touch",
       "file": "missing/D/266518-do-not-touch.json"
+    },
+    {
+      "igdb_id": 377199,
+      "game_name": "Do or Die",
+      "file": "missing/D/377199-do-or-die.json"
     },
     {
       "igdb_id": 329166,
@@ -170603,6 +170668,11 @@
       "file": "missing/D/281520-double-dragon-3-the-rosetta-stone.json"
     },
     {
+      "igdb_id": 377224,
+      "game_name": "Double Dragon II SNES Port",
+      "file": "missing/D/377224-double-dragon-ii-snes-port.json"
+    },
+    {
       "igdb_id": 281506,
       "game_name": "Double Dragon II: The Revenge",
       "file": "missing/D/281506-double-dragon-ii-the-revenge.json"
@@ -170656,6 +170726,11 @@
       "igdb_id": 375155,
       "game_name": "Double Dragon Revive: Additional Character Color",
       "file": "missing/D/375155-double-dragon-revive-additional-character-color.json"
+    },
+    {
+      "igdb_id": 377222,
+      "game_name": "Double Dragon SNES Port",
+      "file": "missing/D/377222-double-dragon-snes-port.json"
     },
     {
       "igdb_id": 48952,
@@ -183513,6 +183588,11 @@
       "file": "missing/D/6982-dynasty-warriors-gundam-3.json"
     },
     {
+      "igdb_id": 377234,
+      "game_name": "Dynasty Warriors: Origins - Visions of Four Heroes",
+      "file": "missing/D/377234-dynasty-warriors-origins-visions-of-four-heroes.json"
+    },
+    {
       "igdb_id": 12060,
       "game_name": "Dynasty Wars",
       "file": "missing/D/12060-dynasty-wars.json"
@@ -195526,6 +195606,11 @@
       "igdb_id": 272395,
       "game_name": "Escape from Manimal Island",
       "file": "missing/E/272395-escape-from-manimal-island.json"
+    },
+    {
+      "igdb_id": 377217,
+      "game_name": "Escape from Mental Hospital",
+      "file": "missing/E/377217-escape-from-mental-hospital.json"
     },
     {
       "igdb_id": 163294,
@@ -233948,6 +234033,11 @@
       "file": "missing/F/63827-function-repair.json"
     },
     {
+      "igdb_id": 377228,
+      "game_name": "Fundación 3M España: The Recycling Heroes",
+      "file": "missing/F/377228-fundacion-3m-espana-the-recycling-heroes.json"
+    },
+    {
       "igdb_id": 42241,
       "game_name": "Fune Tarou",
       "file": "missing/F/42241-fune-tarou.json"
@@ -253283,6 +253373,16 @@
       "file": "missing/G/98976-gradius-iii-and-iv.json"
     },
     {
+      "igdb_id": 377214,
+      "game_name": "Gradius NEO",
+      "file": "missing/G/377214-gradius-neo.json"
+    },
+    {
+      "igdb_id": 377215,
+      "game_name": "Gradius NEO Imperial",
+      "file": "missing/G/377215-gradius-neo-imperial.json"
+    },
+    {
       "igdb_id": 1489,
       "game_name": "Gradius ReBirth",
       "file": "missing/G/1489-gradius-rebirth.json"
@@ -253471,6 +253571,11 @@
       "igdb_id": 77993,
       "game_name": "Gran Turismo 5: Prologue Spec III",
       "file": "missing/G/77993-gran-turismo-5-prologue-spec-iii.json"
+    },
+    {
+      "igdb_id": 377243,
+      "game_name": "Gran Turismo 7: Power Pack",
+      "file": "missing/G/377243-gran-turismo-7-power-pack.json"
     },
     {
       "igdb_id": 416116,
@@ -256796,6 +256901,11 @@
       "igdb_id": 289345,
       "game_name": "Greyish White",
       "file": "missing/G/289345-greyish-white.json"
+    },
+    {
+      "igdb_id": 377210,
+      "game_name": "Greymond. Saves the Specs",
+      "file": "missing/G/377210-greymond-saves-the-specs.json"
     },
     {
       "igdb_id": 262288,
@@ -270448,6 +270558,11 @@
       "file": "missing/H/211784-heavenly-heroes-of-antidomi.json"
     },
     {
+      "igdb_id": 377250,
+      "game_name": "Heavenly Martyr",
+      "file": "missing/H/377250-heavenly-martyr.json"
+    },
+    {
       "igdb_id": 7318,
       "game_name": "Heavenly Sword",
       "file": "missing/H/7318-heavenly-sword.json"
@@ -279993,6 +280108,11 @@
       "file": "missing/H/267410-highway.json"
     },
     {
+      "igdb_id": 377230,
+      "game_name": "Highway 11",
+      "file": "missing/H/377230-highway-11.json"
+    },
+    {
       "igdb_id": 46097,
       "game_name": "Highway 2000",
       "file": "missing/H/46097-highway-2000.json"
@@ -284973,6 +285093,11 @@
       "file": "missing/H/311665-hop-n-stack.json"
     },
     {
+      "igdb_id": 377223,
+      "game_name": "Hop & Seek",
+      "file": "missing/H/377223-hop-and-seek.json"
+    },
+    {
       "igdb_id": 206945,
       "game_name": "Hop for the Best",
       "file": "missing/H/206945-hop-for-the-best.json"
@@ -285091,6 +285216,11 @@
       "igdb_id": 312738,
       "game_name": "Hope",
       "file": "missing/H/312738-hope.json"
+    },
+    {
+      "igdb_id": 377194,
+      "game_name": "Hope",
+      "file": "missing/H/377194-hope.json"
     },
     {
       "igdb_id": 347368,
@@ -286316,6 +286446,11 @@
       "igdb_id": 408145,
       "game_name": "Hoshi Ori Yume Mirai: Rikka to Anata no 1-Shuunen Kinen, Icha Love Birthday",
       "file": "missing/H/408145-hoshi-ori-yume-mirai-rikka-to-anata-no-1-shuunen-kinen-icha-love-birthday.json"
+    },
+    {
+      "igdb_id": 377220,
+      "game_name": "Hoshi Saga 3",
+      "file": "missing/H/377220-hoshi-saga-3.json"
     },
     {
       "igdb_id": 377262,
@@ -299263,6 +299398,11 @@
       "file": "missing/I/191123-in-shape.json"
     },
     {
+      "igdb_id": 377211,
+      "game_name": "In Silence Waits",
+      "file": "missing/I/377211-in-silence-waits.json"
+    },
+    {
       "igdb_id": 348241,
       "game_name": "In Silico",
       "file": "missing/I/348241-in-silico.json"
@@ -311718,6 +311858,11 @@
       "file": "missing/J/392792-jesus-sacred-heart.json"
     },
     {
+      "igdb_id": 377241,
+      "game_name": "Jet Ace",
+      "file": "missing/J/377241-jet-ace.json"
+    },
+    {
       "igdb_id": 110399,
       "game_name": "Jet Ant",
       "file": "missing/J/110399-jet-ant.json"
@@ -324016,6 +324161,11 @@
       "igdb_id": 404256,
       "game_name": "Kid Icarus Enlightenment",
       "file": "missing/K/404256-kid-icarus-enlightenment.json"
+    },
+    {
+      "igdb_id": 377221,
+      "game_name": "Kid Icarus SNES Port",
+      "file": "missing/K/377221-kid-icarus-snes-port.json"
     },
     {
       "igdb_id": 3664,
@@ -344198,6 +344348,11 @@
       "file": "missing/L/261900-life-force.json"
     },
     {
+      "igdb_id": 377226,
+      "game_name": "Life Force SNES Port",
+      "file": "missing/L/377226-life-force-snes-port.json"
+    },
+    {
       "igdb_id": 102144,
       "game_name": "Life Goals",
       "file": "missing/L/102144-life-goals.json"
@@ -355248,6 +355403,11 @@
       "file": "missing/L/411572-low-poly-flight-simulator.json"
     },
     {
+      "igdb_id": 377252,
+      "game_name": "Low Tide",
+      "file": "missing/L/377252-low-tide.json"
+    },
+    {
       "igdb_id": 353278,
       "game_name": "Low_Signal",
       "file": "missing/L/353278-low-signal.json"
@@ -356551,6 +356711,11 @@
       "igdb_id": 278450,
       "game_name": "Luminaria: Dark Echoes",
       "file": "missing/L/278450-luminaria-dark-echoes.json"
+    },
+    {
+      "igdb_id": 377204,
+      "game_name": "Luminas: Parasite Reign",
+      "file": "missing/L/377204-luminas-parasite-reign.json"
     },
     {
       "igdb_id": 295258,
@@ -380261,6 +380426,11 @@
       "igdb_id": 25637,
       "game_name": "Metal Gear Solid V: The Definitive Experience",
       "file": "missing/M/25637-metal-gear-solid-v-the-definitive-experience.json"
+    },
+    {
+      "igdb_id": 377209,
+      "game_name": "Metal Gear Solid V: The Definitive Subsistence Update",
+      "file": "missing/M/377209-metal-gear-solid-v-the-definitive-subsistence-update.json"
     },
     {
       "igdb_id": 298021,
@@ -412948,6 +413118,11 @@
       "file": "missing/N/127361-necroland-undead-corps.json"
     },
     {
+      "igdb_id": 377196,
+      "game_name": "Necromancer",
+      "file": "missing/N/377196-necromancer.json"
+    },
+    {
       "igdb_id": 406309,
       "game_name": "Necromancer Delivery Service",
       "file": "missing/N/406309-necromancer-delivery-service.json"
@@ -422991,6 +423166,11 @@
       "igdb_id": 177912,
       "game_name": "No More Future",
       "file": "missing/N/177912-no-more-future.json"
+    },
+    {
+      "igdb_id": 377191,
+      "game_name": "No More Heroes",
+      "file": "missing/N/377191-no-more-heroes.json"
     },
     {
       "igdb_id": 175207,
@@ -445156,6 +445336,11 @@
       "igdb_id": 53449,
       "game_name": "Panopticon: Path of Reflections",
       "file": "missing/P/53449-panopticon-path-of-reflections.json"
+    },
+    {
+      "igdb_id": 377192,
+      "game_name": "Panoptique",
+      "file": "missing/P/377192-panoptique.json"
     },
     {
       "igdb_id": 125901,
@@ -501313,6 +501498,11 @@
       "file": "missing/R/417512-rescue-team-phantom-crisis-collectors-edition.json"
     },
     {
+      "igdb_id": 377239,
+      "game_name": "Rescue the Hostages: Cryptic Countdown",
+      "file": "missing/R/377239-rescue-the-hostages-cryptic-countdown.json"
+    },
+    {
       "igdb_id": 405719,
       "game_name": "Rescue the Hostages: Misaligned Fate",
       "file": "missing/R/405719-rescue-the-hostages-misaligned-fate.json"
@@ -504111,6 +504301,11 @@
       "igdb_id": 26722,
       "game_name": "Revolve",
       "file": "missing/R/26722-revolve.json"
+    },
+    {
+      "igdb_id": 377200,
+      "game_name": "Revolve",
+      "file": "missing/R/377200-revolve.json"
     },
     {
       "igdb_id": 152759,
@@ -514673,6 +514868,11 @@
       "file": "missing/R/183036-rootless.json"
     },
     {
+      "igdb_id": 377198,
+      "game_name": "Rootless",
+      "file": "missing/R/377198-rootless.json"
+    },
+    {
       "igdb_id": 413110,
       "game_name": "Rootlify",
       "file": "missing/R/413110-rootlify.json"
@@ -519451,6 +519651,11 @@
       "igdb_id": 6856,
       "game_name": "Rygar",
       "file": "missing/R/6856-rygar.json"
+    },
+    {
+      "igdb_id": 377227,
+      "game_name": "Rygar SNES Port",
+      "file": "missing/R/377227-rygar-snes-port.json"
     },
     {
       "igdb_id": 5134,
@@ -592418,6 +592623,11 @@
       "file": "missing/S/46768-super-dodge-ball.json"
     },
     {
+      "igdb_id": 377232,
+      "game_name": "Super Dodge Ball SNES Port",
+      "file": "missing/S/377232-super-dodge-ball-snes-port.json"
+    },
+    {
       "igdb_id": 21052,
       "game_name": "Super Dodgeball Brawlers",
       "file": "missing/S/21052-super-dodgeball-brawlers.json"
@@ -600951,6 +601161,11 @@
       "igdb_id": 323934,
       "game_name": "Sushi Cat 2",
       "file": "missing/S/323934-sushi-cat-2.json"
+    },
+    {
+      "igdb_id": 377246,
+      "game_name": "Sushi Cat Legacy Collection",
+      "file": "missing/S/377246-sushi-cat-legacy-collection.json"
     },
     {
       "igdb_id": 377775,
@@ -610216,6 +610431,11 @@
       "igdb_id": 159801,
       "game_name": "Tantal",
       "file": "missing/T/159801-tantal.json"
+    },
+    {
+      "igdb_id": 377197,
+      "game_name": "Tantalus",
+      "file": "missing/T/377197-tantalus.json"
     },
     {
       "igdb_id": 359064,
@@ -624916,6 +625136,11 @@
       "igdb_id": 55273,
       "game_name": "The Dew",
       "file": "missing/T/55273-the-dew.json"
+    },
+    {
+      "igdb_id": 377218,
+      "game_name": "The Diamond Adventures",
+      "file": "missing/T/377218-the-diamond-adventures.json"
     },
     {
       "igdb_id": 250356,
@@ -659068,6 +659293,11 @@
       "file": "missing/T/79912-tiki-towers.json"
     },
     {
+      "igdb_id": 377233,
+      "game_name": "Tiki-Taka-Toe",
+      "file": "missing/T/377233-tiki-taka-toe.json"
+    },
+    {
       "igdb_id": 163850,
       "game_name": "Tiki: The Masked Journey",
       "file": "missing/T/163850-tiki-the-masked-journey.json"
@@ -668538,6 +668768,11 @@
       "file": "missing/T/289935-touhou-kourinden-mythos-of-phantasmagoria.json"
     },
     {
+      "igdb_id": 377213,
+      "game_name": "Touhou Kourokuen: Glorious and Huge Singer",
+      "file": "missing/T/377213-touhou-kourokuen-glorious-and-huge-singer.json"
+    },
+    {
       "igdb_id": 144093,
       "game_name": "Touhou Kouryuudou: Unconnected Marketeers",
       "file": "missing/T/144093-touhou-kouryuudou-unconnected-marketeers.json"
@@ -675476,6 +675711,11 @@
       "igdb_id": 308900,
       "game_name": "Transmission From Start to End",
       "file": "missing/T/308900-transmission-from-start-to-end.json"
+    },
+    {
+      "igdb_id": 377208,
+      "game_name": "Transmission: Shortwave",
+      "file": "missing/T/377208-transmission-shortwave.json"
     },
     {
       "igdb_id": 213412,
@@ -686786,6 +687026,11 @@
       "igdb_id": 214503,
       "game_name": "Umami Island",
       "file": "missing/U/214503-umami-island.json"
+    },
+    {
+      "igdb_id": 377201,
+      "game_name": "Umami Island",
+      "file": "missing/U/377201-umami-island.json"
     },
     {
       "igdb_id": 97494,
@@ -704821,6 +705066,11 @@
       "igdb_id": 132503,
       "game_name": "Wanderlust: Transsiberian",
       "file": "missing/W/132503-wanderlust-transsiberian.json"
+    },
+    {
+      "igdb_id": 377247,
+      "game_name": "Wandfall",
+      "file": "missing/W/377247-wandfall.json"
     },
     {
       "igdb_id": 298158,
