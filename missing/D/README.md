@@ -1324,6 +1324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DawnWander | 158525 | [158525-dawnwander.json](./158525-dawnwander.json) |
 | Day 11 | 263003 | [263003-day-11.json](./263003-day-11.json) |
 | Day 31 | 419946 | [419946-day-31.json](./419946-day-31.json) |
+| Day After Day | 342181 | [342181-day-after-day.json](./342181-day-after-day.json) |
 | Day and Night | 124009 | [124009-day-and-night.json](./124009-day-and-night.json) |
 | Day and Night | 415229 | [415229-day-and-night.json](./415229-day-and-night.json) |
 | Day at the Counter | 178596 | [178596-day-at-the-counter.json](./178596-day-at-the-counter.json) |
@@ -7088,6 +7089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Riders | 411136 | [411136-dragon-riders.json](./411136-dragon-riders.json) |
 | Dragon Roll | 184124 | [184124-dragon-roll.json](./184124-dragon-roll.json) |
 | Dragon Roller Coaster VR | 114331 | [114331-dragon-roller-coaster-vr.json](./114331-dragon-roller-coaster-vr.json) |
+| Dragon Roomates | 342193 | [342193-dragon-roomates.json](./342193-dragon-roomates.json) |
 | Dragon RPG: Dragon Village M | 125895 | [125895-dragon-rpg-dragon-village-m.json](./125895-dragon-rpg-dragon-village-m.json) |
 | Dragon Ruins II | 328277 | [328277-dragon-ruins-ii.json](./328277-dragon-ruins-ii.json) |
 | Dragon Ruins II: Aftermath | 356739 | [356739-dragon-ruins-ii-aftermath.json](./356739-dragon-ruins-ii-aftermath.json) |
