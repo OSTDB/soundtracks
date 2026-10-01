@@ -5886,6 +5886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Gamblers: Storm Raiders | 17497 | [17497-sky-gamblers-storm-raiders.json](./17497-sky-gamblers-storm-raiders.json) |
 | Sky Garden | 208948 | [208948-sky-garden.json](./208948-sky-garden.json) |
 | Sky Goddess Remaking | 235187 | [235187-sky-goddess-remaking.json](./235187-sky-goddess-remaking.json) |
+| Sky Guy Gone AWOL | 381759 | [381759-sky-guy-gone-awol.json](./381759-sky-guy-gone-awol.json) |
 | Sky Harrier: Alpha Code | 189044 | [189044-sky-harrier-alpha-code.json](./189044-sky-harrier-alpha-code.json) |
 | Sky Haven | 82463 | [82463-sky-haven.json](./82463-sky-haven.json) |
 | Sky Hawk | 93723 | [93723-sky-hawk.json](./93723-sky-hawk.json) |
@@ -7041,6 +7042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snap Together: New Challenges | 283257 | [283257-snap-together-new-challenges.json](./283257-snap-together-new-challenges.json) |
 | Snap! A Cerrado Adventure | 282117 | [282117-snap-a-cerrado-adventure.json](./282117-snap-a-cerrado-adventure.json) |
 | SnaPaul | 332828 | [332828-snapaul.json](./332828-snapaul.json) |
+| SnapCat: Mia's Cozy Adventure | 381802 | [381802-snapcat-mias-cozy-adventure.json](./381802-snapcat-mias-cozy-adventure.json) |
 | Snapdots | 62193 | [62193-snapdots.json](./62193-snapdots.json) |
 | Snapdragon | 118947 | [118947-snapdragon.json](./118947-snapdragon.json) |
 | Snapper | 13757 | [13757-snapper.json](./13757-snapper.json) |
@@ -7183,6 +7185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snood Towers | 246389 | [246389-snood-towers.json](./246389-snood-towers.json) |
 | Snooker 19 | 111153 | [111153-snooker-19.json](./111153-snooker-19.json) |
 | Snooker Fever | 328487 | [328487-snooker-fever.json](./328487-snooker-fever.json) |
+| Snooker Fever Rack 'n' Roll | 381807 | [381807-snooker-fever-rack-n-roll.json](./381807-snooker-fever-rack-n-roll.json) |
 | Snooker Fever: Discovery Edition | 396930 | [396930-snooker-fever-discovery-edition.json](./396930-snooker-fever-discovery-edition.json) |
 | Snooker Fever: Premium Edition | 333722 | [333722-snooker-fever-premium-edition.json](./333722-snooker-fever-premium-edition.json) |
 | Snooker Fever: Upgrade Edition | 399828 | [399828-snooker-fever-upgrade-edition.json](./399828-snooker-fever-upgrade-edition.json) |
@@ -10805,6 +10808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Girls: Undercover Agent | 206200 | [206200-spy-girls-undercover-agent.json](./206200-spy-girls-undercover-agent.json) |
 | Spy Guy American Dream | 375162 | [375162-spy-guy-american-dream.json](./375162-spy-guy-american-dream.json) |
 | Spy Guy Animals Junior: Untypical Animals | 387685 | [387685-spy-guy-animals-junior-untypical-animals.json](./387685-spy-guy-animals-junior-untypical-animals.json) |
+| Spy Guy Christmas | 381803 | [381803-spy-guy-christmas.json](./381803-spy-guy-christmas.json) |
 | Spy Guy Cosmos: Cosmos Edition | 333725 | [333725-spy-guy-cosmos-cosmos-edition.json](./333725-spy-guy-cosmos-cosmos-edition.json) |
 | Spy Guy Europe | 395211 | [395211-spy-guy-europe.json](./395211-spy-guy-europe.json) |
 | Spy Guy Hidden Objects Poland | 400194 | [400194-spy-guy-hidden-objects-poland.json](./400194-spy-guy-hidden-objects-poland.json) |
@@ -14663,6 +14667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super GunWorld 2 | 27300 | [27300-super-gunworld-2.json](./27300-super-gunworld-2.json) |
 | Super Gussun Oyoyo | 42641 | [42641-super-gussun-oyoyo.json](./42641-super-gussun-oyoyo.json) |
 | Super Gussun Oyoyo 2 | 38385 | [38385-super-gussun-oyoyo-2.json](./38385-super-gussun-oyoyo-2.json) |
+| Super Hammer Bros. | 381758 | [381758-super-hammer-bros.json](./381758-super-hammer-bros.json) |
 | Super Hamster Ball | 227869 | [227869-super-hamster-ball.json](./227869-super-hamster-ball.json) |
 | Super Happi Quest 3 | 299733 | [299733-super-happi-quest-3.json](./299733-super-happi-quest-3.json) |
 | Super Hard Game | 360580 | [360580-super-hard-game.json](./360580-super-hard-game.json) |
@@ -15990,6 +15995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surf Adventure | 246496 | [246496-surf-adventure.json](./246496-surf-adventure.json) |
 | Surf Club | 141656 | [141656-surf-club.json](./141656-surf-club.json) |
 | Surf Ninjas | 181670 | [181670-surf-ninjas.json](./181670-surf-ninjas.json) |
+| Surf's Up | 381757 | [381757-surfs-up.json](./381757-surfs-up.json) |
 | Surf's Up | 4191 | [4191-surfs-up.json](./4191-surfs-up.json) |
 | Surface | 395545 | [395545-surface.json](./395545-surface.json) |
 | Surface Breaker | 383954 | [383954-surface-breaker.json](./383954-surface-breaker.json) |
