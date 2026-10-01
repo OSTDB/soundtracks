@@ -11091,6 +11091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Squared | 26977 | [26977-time-squared.json](./26977-time-squared.json) |
 | Time Stand Still | 10992 | [10992-time-stand-still.json](./10992-time-stand-still.json) |
 | Time Stripper | 57633 | [57633-time-stripper.json](./57633-time-stripper.json) |
+| Time Takers | 361861 | [361861-time-takers.json](./361861-time-takers.json) |
 | Time Tangle: Adventure Time | 61147 | [61147-time-tangle-adventure-time.json](./61147-time-tangle-adventure-time.json) |
 | Time Tenshi | 318022 | [318022-time-tenshi.json](./318022-time-tenshi.json) |
 | Time Tenshi 2: Special Edition | 30407 | [30407-time-tenshi-2-special-edition.json](./30407-time-tenshi-2-special-edition.json) |
@@ -14394,6 +14395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travel Mosaics 15: Magic Venice | 284463 | [284463-travel-mosaics-15-magic-venice.json](./284463-travel-mosaics-15-magic-venice.json) |
 | Travel Mosaics 16: Glorious Budapest | 284464 | [284464-travel-mosaics-16-glorious-budapest.json](./284464-travel-mosaics-16-glorious-budapest.json) |
 | Travel Mosaics 3: Tokyo Animated | 134058 | [134058-travel-mosaics-3-tokyo-animated.json](./134058-travel-mosaics-3-tokyo-animated.json) |
+| Travel Pack! | 361849 | [361849-travel-pack.json](./361849-travel-pack.json) |
 | Travel Riddles: Mahjong | 106588 | [106588-travel-riddles-mahjong.json](./106588-travel-riddles-mahjong.json) |
 | Travel Riddles: Trip to France | 41937 | [41937-travel-riddles-trip-to-france.json](./41937-travel-riddles-trip-to-france.json) |
 | Travel Riddles: Trip to India | 29230 | [29230-travel-riddles-trip-to-india.json](./29230-travel-riddles-trip-to-india.json) |
