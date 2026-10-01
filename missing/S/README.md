@@ -1988,6 +1988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seahaven Towers Solitaire | 83465 | [83465-seahaven-towers-solitaire.json](./83465-seahaven-towers-solitaire.json) |
 | Seal Game's | 389608 | [389608-seal-games.json](./389608-seal-games.json) |
 | Seal of Evil | 14586 | [14586-seal-of-evil.json](./14586-seal-of-evil.json) |
+| Seal of Magic | 355186 | [355186-seal-of-magic.json](./355186-seal-of-magic.json) |
 | Seal of Shadows | 410237 | [410237-seal-of-shadows.json](./410237-seal-of-shadows.json) |
 | Seal of Solitomb | 325860 | [325860-seal-of-solitomb.json](./325860-seal-of-solitomb.json) |
 | SEAL Team | 14510 | [14510-seal-team.json](./14510-seal-team.json) |
@@ -5781,6 +5782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sketchy Arcade | 359619 | [359619-sketchy-arcade.json](./359619-sketchy-arcade.json) |
 | Sketchy Bounce | 65758 | [65758-sketchy-bounce.json](./65758-sketchy-bounce.json) |
 | Sketchy Fables | 152846 | [152846-sketchy-fables.json](./152846-sketchy-fables.json) |
+| Sketchy Individuals | 355169 | [355169-sketchy-individuals.json](./355169-sketchy-individuals.json) |
 | Sketchy Marathon | 319799 | [319799-sketchy-marathon.json](./319799-sketchy-marathon.json) |
 | Sketchy Racing | 186148 | [186148-sketchy-racing.json](./186148-sketchy-racing.json) |
 | Skew Pong | 190076 | [190076-skew-pong.json](./190076-skew-pong.json) |
@@ -7379,6 +7381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowblind Aces | 216239 | [216239-snowblind-aces.json](./216239-snowblind-aces.json) |
 | Snowboard Champion | 280844 | [280844-snowboard-champion.json](./280844-snowboard-champion.json) |
 | Snowboard Freestyle Skiing | 99190 | [99190-snowboard-freestyle-skiing.json](./99190-snowboard-freestyle-skiing.json) |
+| Snowboard Girl | 355151 | [355151-snowboard-girl.json](./355151-snowboard-girl.json) |
 | Snowboard Heaven | 70664 | [70664-snowboard-heaven.json](./70664-snowboard-heaven.json) |
 | Snowboard Kids Plus | 72103 | [72103-snowboard-kids-plus.json](./72103-snowboard-kids-plus.json) |
 | Snowboard Legends | 322988 | [322988-snowboard-legends.json](./322988-snowboard-legends.json) |
@@ -11360,6 +11363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Command: Revolution | 50874 | [50874-star-command-revolution.json](./50874-star-command-revolution.json) |
 | Star Conflict: Bark-2 | 310391 | [310391-star-conflict-bark-2.json](./310391-star-conflict-bark-2.json) |
 | Star Conflict: Bark-2 - Deluxe Edition | 310392 | [310392-star-conflict-bark-2-deluxe-edition.json](./310392-star-conflict-bark-2-deluxe-edition.json) |
+| Star Conflict: Classic Pirate Weapon Pack | 355155 | [355155-star-conflict-classic-pirate-weapon-pack.json](./355155-star-conflict-classic-pirate-weapon-pack.json) |
 | Star Conflict: Custodian | 354419 | [354419-star-conflict-custodian.json](./354419-star-conflict-custodian.json) |
 | Star Conflict: Dyrnwyn | 357403 | [357403-star-conflict-dyrnwyn.json](./357403-star-conflict-dyrnwyn.json) |
 | Star Conflict: Edges of Risk - Stage one: Deluxe edition | 253434 | [253434-star-conflict-edges-of-risk-stage-one-deluxe-edition.json](./253434-star-conflict-edges-of-risk-stage-one-deluxe-edition.json) |
@@ -11375,15 +11379,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Conflict: Mole | 354433 | [354433-star-conflict-mole.json](./354433-star-conflict-mole.json) |
 | Star Conflict: Mole - Deluxe Edition | 354434 | [354434-star-conflict-mole-deluxe-edition.json](./354434-star-conflict-mole-deluxe-edition.json) |
 | Star Conflict: Pilgrim | 354438 | [354438-star-conflict-pilgrim.json](./354438-star-conflict-pilgrim.json) |
+| Star Conflict: Pilum | 355161 | [355161-star-conflict-pilum.json](./355161-star-conflict-pilum.json) |
+| Star Conflict: Pilum - Deluxe edition | 355158 | [355158-star-conflict-pilum-deluxe-edition.json](./355158-star-conflict-pilum-deluxe-edition.json) |
 | Star Conflict: Pirate Pack - Jolly Roger | 354440 | [354440-star-conflict-pirate-pack-jolly-roger.json](./354440-star-conflict-pirate-pack-jolly-roger.json) |
 | Star Conflict: Pirate Weapons Pack | 354436 | [354436-star-conflict-pirate-weapons-pack.json](./354436-star-conflict-pirate-weapons-pack.json) |
 | Star Conflict: Procyon - Deluxe Edition | 298046 | [298046-star-conflict-procyon-deluxe-edition.json](./298046-star-conflict-procyon-deluxe-edition.json) |
+| Star Conflict: Psiloi | 355165 | [355165-star-conflict-psiloi.json](./355165-star-conflict-psiloi.json) |
 | Star Conflict: Raven | 354431 | [354431-star-conflict-raven.json](./354431-star-conflict-raven.json) |
 | Star Conflict: Salamander | 298040 | [298040-star-conflict-salamander.json](./298040-star-conflict-salamander.json) |
 | Star Conflict: Salamander. Weapon of Victory | 292641 | [292641-star-conflict-salamander-weapon-of-victory.json](./292641-star-conflict-salamander-weapon-of-victory.json) |
 | Star Conflict: Sawtooth | 196152 | [196152-star-conflict-sawtooth.json](./196152-star-conflict-sawtooth.json) |
 | Star Conflict: Shrike | 310394 | [310394-star-conflict-shrike.json](./310394-star-conflict-shrike.json) |
 | Star Conflict: Shrike - Deluxe Edition | 310395 | [310395-star-conflict-shrike-deluxe-edition.json](./310395-star-conflict-shrike-deluxe-edition.json) |
+| Star Conflict: Shrike. Weapon of Victory | 355163 | [355163-star-conflict-shrike-weapon-of-victory.json](./355163-star-conflict-shrike-weapon-of-victory.json) |
 | Star Conflict: Starter Pack. Pterosaur | 354424 | [354424-star-conflict-starter-pack-pterosaur.json](./354424-star-conflict-starter-pack-pterosaur.json) |
 | Star Conflict: Tornado | 354422 | [354422-star-conflict-tornado.json](./354422-star-conflict-tornado.json) |
 | Star Conflict: Yith'Mor - Weapons of Victory | 310393 | [310393-star-conflict-yithmor-weapons-of-victory.json](./310393-star-conflict-yithmor-weapons-of-victory.json) |
@@ -11762,6 +11770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Knights of the Old Republic III | 14401 | [14401-star-wars-knights-of-the-old-republic-iii.json](./14401-star-wars-knights-of-the-old-republic-iii.json) |
 | Star Wars: Lethal Alliance | 200677 | [200677-star-wars-lethal-alliance.json](./200677-star-wars-lethal-alliance.json) |
 | Star Wars: Millenium Falcon Challenge | 198922 | [198922-star-wars-millenium-falcon-challenge.json](./198922-star-wars-millenium-falcon-challenge.json) |
+| Star Wars: Movie Duels | 355148 | [355148-star-wars-movie-duels.json](./355148-star-wars-movie-duels.json) |
 | Star Wars: Outpost | 75087 | [75087-star-wars-outpost.json](./75087-star-wars-outpost.json) |
 | Star Wars: Pit Droids | 13483 | [13483-star-wars-pit-droids.json](./13483-star-wars-pit-droids.json) |
 | Star Wars: Project Stardust | 137006 | [137006-star-wars-project-stardust.json](./137006-star-wars-project-stardust.json) |
@@ -15610,6 +15619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Retro World | 157172 | [157172-super-retro-world.json](./157172-super-retro-world.json) |
 | Super Rhythm Duel | 127213 | [127213-super-rhythm-duel.json](./127213-super-rhythm-duel.json) |
 | Super Rising Ball | 350485 | [350485-super-rising-ball.json](./350485-super-rising-ball.json) |
+| Super RMN Bros. | 355166 | [355166-super-rmn-bros.json](./355166-super-rmn-bros.json) |
 | Super Road Champions | 230767 | [230767-super-road-champions.json](./230767-super-road-champions.json) |
 | Super Robin Hood | 223024 | [223024-super-robin-hood.json](./223024-super-robin-hood.json) |
 | Super Robin Hood | 39134 | [39134-super-robin-hood.json](./39134-super-robin-hood.json) |
@@ -15967,6 +15977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super World Run: Bosses | 253004 | [253004-super-world-run-bosses.json](./253004-super-world-run-bosses.json) |
 | Super World Stadium '99 | 311293 | [311293-super-world-stadium-99.json](./311293-super-world-stadium-99.json) |
 | Super Wrestle Angels | 38288 | [38288-super-wrestle-angels.json](./38288-super-wrestle-angels.json) |
+| Super Wrestlers: Slap's Fury | 355152 | [355152-super-wrestlers-slaps-fury.json](./355152-super-wrestlers-slaps-fury.json) |
 | Super Wumpus | 152915 | [152915-super-wumpus.json](./152915-super-wumpus.json) |
 | Super X Chess | 111044 | [111044-super-x-chess.json](./111044-super-x-chess.json) |
 | Super Xblox 360! | 11055 | [11055-super-xblox-360.json](./11055-super-xblox-360.json) |
