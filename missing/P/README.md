@@ -1450,6 +1450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pat Pat Cat | 387590 | [387590-pat-pat-cat.json](./387590-pat-pat-cat.json) |
 | Pat Riley Basketball | 28020 | [28020-pat-riley-basketball.json](./28020-pat-riley-basketball.json) |
 | Pat Sajak's Trivia Gems | 98966 | [98966-pat-sajaks-trivia-gems.json](./98966-pat-sajaks-trivia-gems.json) |
+| PAT Shooter | 335421 | [335421-pat-shooter.json](./335421-pat-shooter.json) |
 | Pata | 236799 | [236799-pata.json](./236799-pata.json) |
 | Patagon | 223412 | [223412-patagon.json](./223412-patagon.json) |
 | Patagonian Pilgrimage | 360755 | [360755-patagonian-pilgrimage.json](./360755-patagonian-pilgrimage.json) |
@@ -5911,6 +5912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool & Snooker Fever: 2 in 1 Bundle - Definitive Edition | 400201 | [400201-pool-and-snooker-fever-2-in-1-bundle-definitive-edition.json](./400201-pool-and-snooker-fever-2-in-1-bundle-definitive-edition.json) |
 | Pool & Snooker Fever: 2 in 1 Bundle - Premium Edition | 395683 | [395683-pool-and-snooker-fever-2-in-1-bundle-premium-edition.json](./395683-pool-and-snooker-fever-2-in-1-bundle-premium-edition.json) |
 | Pool & Snooker Fever: 2 in 1 Bundle Upgrade Edition | 397886 | [397886-pool-and-snooker-fever-2-in-1-bundle-upgrade-edition.json](./397886-pool-and-snooker-fever-2-in-1-bundle-upgrade-edition.json) |
+| Pool 2 | 335496 | [335496-pool-2.json](./335496-pool-2.json) |
 | Pool 2D - Poolians | 107406 | [107406-pool-2d-poolians.json](./107406-pool-2d-poolians.json) |
 | Pool 3D | 86900 | [86900-pool-3d.json](./86900-pool-3d.json) |
 | Pool 8 Ball | 90756 | [90756-pool-8-ball.json](./90756-pool-8-ball.json) |
@@ -7601,6 +7603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Playtime: Phase 3 - Forsaken | 271727 | [271727-project-playtime-phase-3-forsaken.json](./271727-project-playtime-phase-3-forsaken.json) |
 | Project Possession | 211950 | [211950-project-possession.json](./211950-project-possession.json) |
 | Project Prison | 157190 | [157190-project-prison.json](./157190-project-prison.json) |
+| Project Progressive | 335406 | [335406-project-progressive.json](./335406-project-progressive.json) |
 | Project Ptocheia | 179573 | [179573-project-ptocheia.json](./179573-project-ptocheia.json) |
 | Project Pulsation | 53482 | [53482-project-pulsation.json](./53482-project-pulsation.json) |
 | Project R | 220661 | [220661-project-r.json](./220661-project-r.json) |
@@ -8862,6 +8865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzwords | 91908 | [91908-puzzwords.json](./91908-puzzwords.json) |
 | PVPClicker | 382896 | [382896-pvpclicker.json](./382896-pvpclicker.json) |
 | PvPillman | 285463 | [285463-pvpillman.json](./285463-pvpillman.json) |
+| Pwanet Pwotector | 335408 | [335408-pwanet-pwotector.json](./335408-pwanet-pwotector.json) |
 | Pwn! | 341318 | [341318-pwn.json](./341318-pwn.json) |
 | Pwordle | 241405 | [241405-pwordle.json](./241405-pwordle.json) |
 | Px | 201785 | [201785-px.json](./201785-px.json) |
