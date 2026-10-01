@@ -819,6 +819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Realm: Queen of Flames - Collector's Edition HD | 88309 | [88309-dark-realm-queen-of-flames-collectors-edition-hd.json](./88309-dark-realm-queen-of-flames-collectors-edition-hd.json) |
 | Dark Reign: The Future of War - Battles of the Outer Rim | 73771 | [73771-dark-reign-the-future-of-war-battles-of-the-outer-rim.json](./73771-dark-reign-the-future-of-war-battles-of-the-outer-rim.json) |
 | Dark Reign: The Future of War - Rise of the Shadowhand | 658 | [658-dark-reign-the-future-of-war-rise-of-the-shadowhand.json](./658-dark-reign-the-future-of-war-rise-of-the-shadowhand.json) |
+| Dark Return | 364016 | [364016-dark-return.json](./364016-dark-return.json) |
 | Dark Ride Escape | 310577 | [310577-dark-ride-escape.json](./310577-dark-ride-escape.json) |
 | Dark Rift | 3468 | [3468-dark-rift.json](./3468-dark-rift.json) |
 | Dark Romance: Ashville | 139798 | [139798-dark-romance-ashville.json](./139798-dark-romance-ashville.json) |
@@ -2191,6 +2192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathmatch Club | 130740 | [130740-deathmatch-club.json](./130740-deathmatch-club.json) |
 | Deathmatch Soccer | 74437 | [74437-deathmatch-soccer.json](./74437-deathmatch-soccer.json) |
 | Deathmatch Village | 42683 | [42683-deathmatch-village.json](./42683-deathmatch-village.json) |
+| Deathmoon | 364008 | [364008-deathmoon.json](./364008-deathmoon.json) |
 | Deathpuddle: Choose Violence? | 309459 | [309459-deathpuddle-choose-violence.json](./309459-deathpuddle-choose-violence.json) |
 | Deathray | 285010 | [285010-deathray.json](./285010-deathray.json) |
 | Deathrun | 276214 | [276214-deathrun.json](./276214-deathrun.json) |
@@ -2813,6 +2815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delve Deeper | 16204 | [16204-delve-deeper.json](./16204-delve-deeper.json) |
 | Delve Deeper: Gratis Grottos | 26640 | [26640-delve-deeper-gratis-grottos.json](./26640-delve-deeper-gratis-grottos.json) |
 | Delve Deeper: Treasures and Tunnels | 171487 | [171487-delve-deeper-treasures-and-tunnels.json](./171487-delve-deeper-treasures-and-tunnels.json) |
+| Delveborn | 364046 | [364046-delveborn.json](./364046-delveborn.json) |
 | Delven | 250357 | [250357-delven.json](./250357-delven.json) |
 | Delverun | 416683 | [416683-delverun.json](./416683-delverun.json) |
 | Delving Deep | 226748 | [226748-delving-deep.json](./226748-delving-deep.json) |
@@ -3292,6 +3295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Dungeons | 8998 | [8998-desktop-dungeons.json](./8998-desktop-dungeons.json) |
 | Desktop Dungeons: Rewind | 213510 | [213510-desktop-dungeons-rewind.json](./213510-desktop-dungeons-rewind.json) |
 | Desktop Dynasties | 111519 | [111519-desktop-dynasties.json](./111519-desktop-dynasties.json) |
+| Desktop Fishes | 364006 | [364006-desktop-fishes.json](./364006-desktop-fishes.json) |
 | Desktop Fishing | 344545 | [344545-desktop-fishing.json](./344545-desktop-fishing.json) |
 | Desktop Football | 196831 | [196831-desktop-football.json](./196831-desktop-football.json) |
 | Desktop Garden | 177478 | [177478-desktop-garden.json](./177478-desktop-garden.json) |
@@ -8328,6 +8332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Betwixt | 410933 | [410933-dungeon-betwixt.json](./410933-dungeon-betwixt.json) |
 | Dungeon Blocks | 192429 | [192429-dungeon-blocks.json](./192429-dungeon-blocks.json) |
 | Dungeon Board | 311800 | [311800-dungeon-board.json](./311800-dungeon-board.json) |
+| Dungeon Bodega Simulator | 364032 | [364032-dungeon-bodega-simulator.json](./364032-dungeon-bodega-simulator.json) |
 | Dungeon Bomber | 390258 | [390258-dungeon-bomber.json](./390258-dungeon-bomber.json) |
 | Dungeon Boss | 59836 | [59836-dungeon-boss.json](./59836-dungeon-boss.json) |
 | Dungeon Boss: Respawned | 251660 | [251660-dungeon-boss-respawned.json](./251660-dungeon-boss-respawned.json) |
