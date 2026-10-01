@@ -6184,6 +6184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armada Pet Wars | 373140 | [373140-armada-pet-wars.json](./373140-armada-pet-wars.json) |
 | Armada Skies | 82474 | [82474-armada-skies.json](./82474-armada-skies.json) |
 | Armada: Modern Tanks | 69355 | [69355-armada-modern-tanks.json](./69355-armada-modern-tanks.json) |
+| Armadillo Knight | 354557 | [354557-armadillo-knight.json](./354557-armadillo-knight.json) |
 | Armadillo Racing | 129114 | [129114-armadillo-racing.json](./129114-armadillo-racing.json) |
 | Armadusa | 118381 | [118381-armadusa.json](./118381-armadusa.json) |
 | Armage | 174889 | [174889-armage.json](./174889-armage.json) |
