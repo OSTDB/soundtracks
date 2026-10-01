@@ -1586,6 +1586,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead End Mission | 260415 | [260415-dead-end-mission.json](./260415-dead-end-mission.json) |
 | Dead End: Escape Your Fears | 410294 | [410294-dead-end-escape-your-fears.json](./410294-dead-end-escape-your-fears.json) |
 | Dead End: Orchestral Manoeuvres in the Dead End | 59390 | [59390-dead-end-orchestral-manoeuvres-in-the-dead-end.json](./59390-dead-end-orchestral-manoeuvres-in-the-dead-end.json) |
+| Dead Estate: Axe to Grind | 367002 | [367002-dead-estate-axe-to-grind.json](./367002-dead-estate-axe-to-grind.json) |
+| Dead Estate: Bombs Away | 366970 | [366970-dead-estate-bombs-away.json](./366970-dead-estate-bombs-away.json) |
+| Dead Estate: Good Night | 367006 | [367006-dead-estate-good-night.json](./367006-dead-estate-good-night.json) |
+| Dead Estate: Heaven & Hell | 366972 | [366972-dead-estate-heaven-and-hell.json](./366972-dead-estate-heaven-and-hell.json) |
+| Dead Estate: Home Theater | 366968 | [366968-dead-estate-home-theater.json](./366968-dead-estate-home-theater.json) |
 | Dead Event | 177035 | [177035-dead-event.json](./177035-dead-event.json) |
 | Dead Exhale | 357444 | [357444-dead-exhale.json](./357444-dead-exhale.json) |
 | Dead Eye Deputy | 316056 | [316056-dead-eye-deputy.json](./316056-dead-eye-deputy.json) |
@@ -4766,7 +4771,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Sing It: High School Musical 3 - Senior Year | 60243 | [60243-disney-sing-it-high-school-musical-3-senior-year.json](./60243-disney-sing-it-high-school-musical-3-senior-year.json) |
 | Disney Sorcerer's Arena | 124644 | [124644-disney-sorcerers-arena.json](./124644-disney-sorcerers-arena.json) |
 | Disney Speedstorm | 191402 | [191402-disney-speedstorm.json](./191402-disney-speedstorm.json) |
+| Disney Speedstorm: Aladdin Pack | 366993 | [366993-disney-speedstorm-aladdin-pack.json](./366993-disney-speedstorm-aladdin-pack.json) |
+| Disney Speedstorm: Baloo Pack | 366994 | [366994-disney-speedstorm-baloo-pack.json](./366994-disney-speedstorm-baloo-pack.json) |
+| Disney Speedstorm: Buzz Lightyear Pack | 366995 | [366995-disney-speedstorm-buzz-lightyear-pack.json](./366995-disney-speedstorm-buzz-lightyear-pack.json) |
 | Disney Speedstorm: Special Pack | 374697 | [374697-disney-speedstorm-special-pack.json](./374697-disney-speedstorm-special-pack.json) |
+| Disney Speedstorm: Sulley Pack | 366992 | [366992-disney-speedstorm-sulley-pack.json](./366992-disney-speedstorm-sulley-pack.json) |
+| Disney Speedstorm: The Genie Pack | 366991 | [366991-disney-speedstorm-the-genie-pack.json](./366991-disney-speedstorm-the-genie-pack.json) |
+| Disney Speedstorm: Welcome Pack | 366988 | [366988-disney-speedstorm-welcome-pack.json](./366988-disney-speedstorm-welcome-pack.json) |
 | Disney SpellStruck | 248583 | [248583-disney-spellstruck.json](./248583-disney-spellstruck.json) |
 | Disney Sports Bowling | 243816 | [243816-disney-sports-bowling.json](./243816-disney-sports-bowling.json) |
 | Disney Sports Motocross | 49305 | [49305-disney-sports-motocross.json](./49305-disney-sports-motocross.json) |
@@ -7373,6 +7384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream of the Blood Moon | 122998 | [122998-dream-of-the-blood-moon.json](./122998-dream-of-the-blood-moon.json) |
 | Dream of Tiny Snow | 244786 | [244786-dream-of-tiny-snow.json](./244786-dream-of-tiny-snow.json) |
 | Dream of Tomorrow | 161354 | [161354-dream-of-tomorrow.json](./161354-dream-of-tomorrow.json) |
+| Dream On | 367008 | [367008-dream-on.json](./367008-dream-on.json) |
 | Dream Park Story | 175874 | [175874-dream-park-story.json](./175874-dream-park-story.json) |
 | Dream Peak | 390781 | [390781-dream-peak.json](./390781-dream-peak.json) |
 | Dream Piano Tiles 2018 | 107665 | [107665-dream-piano-tiles-2018.json](./107665-dream-piano-tiles-2018.json) |
