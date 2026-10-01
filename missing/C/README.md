@@ -3009,6 +3009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chelsea Club Football | 267882 | [267882-chelsea-club-football.json](./267882-chelsea-club-football.json) |
 | Chelsea Club Football 2005 | 267908 | [267908-chelsea-club-football-2005.json](./267908-chelsea-club-football-2005.json) |
 | Chelsea of the South Sea Islands | 309339 | [309339-chelsea-of-the-south-sea-islands.json](./309339-chelsea-of-the-south-sea-islands.json) |
+| Chemical Combat | 356217 | [356217-chemical-combat.json](./356217-chemical-combat.json) |
 | Chemical Cubes | 62698 | [62698-chemical-cubes.json](./62698-chemical-cubes.json) |
 | Chemical Existence | 222305 | [222305-chemical-existence.json](./222305-chemical-existence.json) |
 | Chemical Plant Raid | 335461 | [335461-chemical-plant-raid.json](./335461-chemical-plant-raid.json) |
@@ -6155,6 +6156,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Con-Quest | 140569 | [140569-con-quest.json](./140569-con-quest.json) |
 | Conan | 3862 | [3862-conan.json](./3862-conan.json) |
 | Conan | 9006 | [9006-conan.json](./9006-conan.json) |
+| Conan Chronicles 1 | 356210 | [356210-conan-chronicles-1.json](./356210-conan-chronicles-1.json) |
+| Conan Chronicles 2 | 356211 | [356211-conan-chronicles-2.json](./356211-conan-chronicles-2.json) |
 | Conan Exiles Enhanced | 402464 | [402464-conan-exiles-enhanced.json](./402464-conan-exiles-enhanced.json) |
 | Conan Exiles: Blood and Sand Pack | 164781 | [164781-conan-exiles-blood-and-sand-pack.json](./164781-conan-exiles-blood-and-sand-pack.json) |
 | Conan Exiles: Debaucheries of Derketo Pack | 164823 | [164823-conan-exiles-debaucheries-of-derketo-pack.json](./164823-conan-exiles-debaucheries-of-derketo-pack.json) |
@@ -7855,6 +7858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Rabbits | 250973 | [250973-crazy-rabbits.json](./250973-crazy-rabbits.json) |
 | Crazy Rails | 179481 | [179481-crazy-rails.json](./179481-crazy-rails.json) |
 | Crazy Roads | 399693 | [399693-crazy-roads.json](./399693-crazy-roads.json) |
+| Crazy Robot Ball | 356206 | [356206-crazy-robot-ball.json](./356206-crazy-robot-ball.json) |
 | Crazy School: Schulverweis! | 327219 | [327219-crazy-school-schulverweis.json](./327219-crazy-school-schulverweis.json) |
 | Crazy Science: Long Run | 95628 | [95628-crazy-science-long-run.json](./95628-crazy-science-long-run.json) |
 | Crazy Seahorses | 241348 | [241348-crazy-seahorses.json](./241348-crazy-seahorses.json) |
