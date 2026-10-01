@@ -5623,6 +5623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King is Watching | 282826 | [282826-the-king-is-watching.json](./282826-the-king-is-watching.json) |
 | The King is Watching: Crowns of History | 394315 | [394315-the-king-is-watching-crowns-of-history.json](./394315-the-king-is-watching-crowns-of-history.json) |
 | The King of Alzoria | 276724 | [276724-the-king-of-alzoria.json](./276724-the-king-of-alzoria.json) |
+| The King of Beasts | 345075 | [345075-the-king-of-beasts.json](./345075-the-king-of-beasts.json) |
 | The King of Creation | 273414 | [273414-the-king-of-creation.json](./273414-the-king-of-creation.json) |
 | The King of Dragons | 6814 | [6814-the-king-of-dragons.json](./6814-the-king-of-dragons.json) |
 | The King of Fighters '95 | 15427 | [15427-the-king-of-fighters-95.json](./15427-the-king-of-fighters-95.json) |
@@ -6980,6 +6981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Observed | 182555 | [182555-the-observed.json](./182555-the-observed.json) |
 | The Obsessive Shadow | 211809 | [211809-the-obsessive-shadow.json](./211809-the-obsessive-shadow.json) |
 | The Obsessive Shadow: Chapter 2 | 406179 | [406179-the-obsessive-shadow-chapter-2.json](./406179-the-obsessive-shadow-chapter-2.json) |
+| The Occult Detective | 345060 | [345060-the-occult-detective.json](./345060-the-occult-detective.json) |
 | The Occupant | 74432 | [74432-the-occupant.json](./74432-the-occupant.json) |
 | The Occupied Base | 271309 | [271309-the-occupied-base.json](./271309-the-occupied-base.json) |
 | The Ocean | 143678 | [143678-the-ocean.json](./143678-the-ocean.json) |
@@ -9692,6 +9694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Third Iteration | 322394 | [322394-third-iteration.json](./322394-third-iteration.json) |
 | Third Reich | 14518 | [14518-third-reich.json](./14518-third-reich.json) |
 | Third Reich PC | 138103 | [138103-third-reich-pc.json](./138103-third-reich-pc.json) |
+| Third Shift | 344998 | [344998-third-shift.json](./344998-third-shift.json) |
 | Third Walker | 406239 | [406239-third-walker.json](./406239-third-walker.json) |
 | Third Wild | 208600 | [208600-third-wild.json](./208600-third-wild.json) |
 | ThirdMiracle | 197764 | [197764-thirdmiracle.json](./197764-thirdmiracle.json) |
