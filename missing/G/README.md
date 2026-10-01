@@ -3485,6 +3485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goudou Manif | 333077 | [333077-goudou-manif.json](./333077-goudou-manif.json) |
 | Gouketsuji Ichizoku 2: Chottodake Saikyou Densetsu | 39573 | [39573-gouketsuji-ichizoku-2-chottodake-saikyou-densetsu.json](./39573-gouketsuji-ichizoku-2-chottodake-saikyou-densetsu.json) |
 | Gouketsuji Ichizoku Matsuri Senzo Kuyou | 65593 | [65593-gouketsuji-ichizoku-matsuri-senzo-kuyou.json](./65593-gouketsuji-ichizoku-matsuri-senzo-kuyou.json) |
+| Gourdlets Together | 347821 | [347821-gourdlets-together.json](./347821-gourdlets-together.json) |
 | Gourds Up | 311628 | [311628-gourds-up.json](./311628-gourds-up.json) |
 | Gourgarion Incubus | 398348 | [398348-gourgarion-incubus.json](./398348-gourgarion-incubus.json) |
 | Gourmania | 50837 | [50837-gourmania.json](./50837-gourmania.json) |
@@ -4264,6 +4265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid | 118871 | [118871-grid.json](./118871-grid.json) |
 | Grid 2 | 2138 | [2138-grid-2.json](./2138-grid-2.json) |
 | Grid Crypt | 398466 | [398466-grid-crypt.json](./398466-grid-crypt.json) |
+| Grid Empire | 347843 | [347843-grid-empire.json](./347843-grid-empire.json) |
 | Grid Glyphs | 316281 | [316281-grid-glyphs.json](./316281-grid-glyphs.json) |
 | Grid Iron 2 | 94220 | [94220-grid-iron-2.json](./94220-grid-iron-2.json) |
 | GRID Legends: Valentin’s Classic Car-Nage | 239593 | [239593-grid-legends-valentin-s-classic-car-nage.json](./239593-grid-legends-valentin-s-classic-car-nage.json) |
