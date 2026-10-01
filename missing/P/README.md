@@ -961,6 +961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Delight | 379547 | [379547-paradise-delight.json](./379547-paradise-delight.json) |
 | Paradise Falls | 392417 | [392417-paradise-falls.json](./392417-paradise-falls.json) |
 | Paradise Homeland | 217242 | [217242-paradise-homeland.json](./217242-paradise-homeland.json) |
+| Paradise Inc | 368095 | [368095-paradise-inc.json](./368095-paradise-inc.json) |
 | Paradise Island | 377593 | [377593-paradise-island.json](./377593-paradise-island.json) |
 | Paradise Island Driver | 201257 | [201257-paradise-island-driver.json](./201257-paradise-island-driver.json) |
 | Paradise Island: Exotic | 344008 | [344008-paradise-island-exotic.json](./344008-paradise-island-exotic.json) |
@@ -2994,6 +2995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picture Everything: Puzzle Cross Galaxy | 347914 | [347914-picture-everything-puzzle-cross-galaxy.json](./347914-picture-everything-puzzle-cross-galaxy.json) |
 | Picture Painting Puzzle 1000! | 111910 | [111910-picture-painting-puzzle-1000.json](./111910-picture-painting-puzzle-1000.json) |
 | Picture Party VR | 187541 | [187541-picture-party-vr.json](./187541-picture-party-vr.json) |
+| Picture Perfect | 368075 | [368075-picture-perfect.json](./368075-picture-perfect.json) |
 | Picture Perfect Golf | 316767 | [316767-picture-perfect-golf.json](./316767-picture-perfect-golf.json) |
 | Picture Perfect: Hair Salon | 209965 | [209965-picture-perfect-hair-salon.json](./209965-picture-perfect-hair-salon.json) |
 | Picture Puzzle | 269636 | [269636-picture-puzzle.json](./269636-picture-puzzle.json) |
@@ -8341,6 +8343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Adventure | 347877 | [347877-puzzle-adventure.json](./347877-puzzle-adventure.json) |
 | Puzzle Adventure Blockle | 54529 | [54529-puzzle-adventure-blockle.json](./54529-puzzle-adventure-blockle.json) |
 | Puzzle Adventures | 251813 | [251813-puzzle-adventures.json](./251813-puzzle-adventures.json) |
+| Puzzle Adventures Bundle 4 in 1 | 368085 | [368085-puzzle-adventures-bundle-4-in-1.json](./368085-puzzle-adventures-bundle-4-in-1.json) |
 | Puzzle Adventures: Forest Animals | 328490 | [328490-puzzle-adventures-forest-animals.json](./328490-puzzle-adventures-forest-animals.json) |
 | Puzzle Agent | 15995 | [15995-puzzle-agent.json](./15995-puzzle-agent.json) |
 | Puzzle Arcade | 74420 | [74420-puzzle-arcade.json](./74420-puzzle-arcade.json) |
