@@ -2378,6 +2378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From A Ruined Hospital with a Girl Who Lost Emotion | 98545 | [98545-escape-from-a-ruined-hospital-with-a-girl-who-lost-emotion.json](./98545-escape-from-a-ruined-hospital-with-a-girl-who-lost-emotion.json) |
 | Escape from Aeon | 183559 | [183559-escape-from-aeon.json](./183559-escape-from-aeon.json) |
 | Escape From Andromed | 112326 | [112326-escape-from-andromed.json](./112326-escape-from-andromed.json) |
+| Escape From Biochemical | 334325 | [334325-escape-from-biochemical.json](./334325-escape-from-biochemical.json) |
 | Escape From Boykisser | 278420 | [278420-escape-from-boykisser.json](./278420-escape-from-boykisser.json) |
 | Escape From Bunker | 308264 | [308264-escape-from-bunker.json](./308264-escape-from-bunker.json) |
 | Escape from Castle Chezcrea | 256851 | [256851-escape-from-castle-chezcrea.json](./256851-escape-from-castle-chezcrea.json) |
@@ -3917,6 +3918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EyeToy Play Hero | 44638 | [44638-eyetoy-play-hero.json](./44638-eyetoy-play-hero.json) |
 | EyeToy: AntiGrav | 19253 | [19253-eyetoy-antigrav.json](./19253-eyetoy-antigrav.json) |
 | Eyewitness Virtual Reality: Dinosaur Hunter | 198384 | [198384-eyewitness-virtual-reality-dinosaur-hunter.json](./198384-eyewitness-virtual-reality-dinosaur-hunter.json) |
+| EZ-Talk Shokyuu-hen 4 | 334245 | [334245-ez-talk-shokyuu-hen-4.json](./334245-ez-talk-shokyuu-hen-4.json) |
 | EZ-Talk Shokyuu-hen 5 | 334275 | [334275-ez-talk-shokyuu-hen-5.json](./334275-ez-talk-shokyuu-hen-5.json) |
 | EZ-Talk Shokyuuhen 1-6 Kan Set | 93596 | [93596-ez-talk-shokyuuhen-1-6-kan-set.json](./93596-ez-talk-shokyuuhen-1-6-kan-set.json) |
 | EZ-Talk: Shokyuu-hen 6 | 334277 | [334277-ez-talk-shokyuu-hen-6.json](./334277-ez-talk-shokyuu-hen-6.json) |
