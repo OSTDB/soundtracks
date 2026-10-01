@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T03:02:39.361Z",
-  "total_missing": 147626,
+  "generated_at": "2026-10-01T03:17:39.750Z",
+  "total_missing": 147676,
   "games": [
     {
       "igdb_id": 186066,
@@ -7828,6 +7828,11 @@
       "file": "missing/A/400419-a-frogs-job-2-froggina.json"
     },
     {
+      "igdb_id": 379501,
+      "game_name": "A Fugu's Dive",
+      "file": "missing/A/379501-a-fugus-dive.json"
+    },
+    {
       "igdb_id": 312673,
       "game_name": "A Furry Tale: A night in Havena",
       "file": "missing/A/312673-a-furry-tale-a-night-in-havena.json"
@@ -7858,9 +7863,19 @@
       "file": "missing/A/406321-a-game-about-bouncing-dvd.json"
     },
     {
+      "igdb_id": 379511,
+      "game_name": "A Game About Breaking A Cube",
+      "file": "missing/A/379511-a-game-about-breaking-a-cube.json"
+    },
+    {
       "igdb_id": 403786,
       "game_name": "A Game About Chopping Trees",
       "file": "missing/A/403786-a-game-about-chopping-trees.json"
+    },
+    {
+      "igdb_id": 379509,
+      "game_name": "A Game About Clicking Crystals",
+      "file": "missing/A/379509-a-game-about-clicking-crystals.json"
     },
     {
       "igdb_id": 389708,
@@ -7883,6 +7898,16 @@
       "file": "missing/A/405583-a-game-about-getting-bigger.json"
     },
     {
+      "igdb_id": 379507,
+      "game_name": "A Game About Making Mosaics",
+      "file": "missing/A/379507-a-game-about-making-mosaics.json"
+    },
+    {
+      "igdb_id": 379508,
+      "game_name": "A Game About Mining an Asteroid",
+      "file": "missing/A/379508-a-game-about-mining-an-asteroid.json"
+    },
+    {
       "igdb_id": 303749,
       "game_name": "A Game About My Cat",
       "file": "missing/A/303749-a-game-about-my-cat.json"
@@ -7891,6 +7916,21 @@
       "igdb_id": 390749,
       "game_name": "A Game About Opening a Chest",
       "file": "missing/A/390749-a-game-about-opening-a-chest.json"
+    },
+    {
+      "igdb_id": 379506,
+      "game_name": "A Game About Plant",
+      "file": "missing/A/379506-a-game-about-plant.json"
+    },
+    {
+      "igdb_id": 379505,
+      "game_name": "A Game About Selling Used Games",
+      "file": "missing/A/379505-a-game-about-selling-used-games.json"
+    },
+    {
+      "igdb_id": 379504,
+      "game_name": "A Game About You",
+      "file": "missing/A/379504-a-game-about-you.json"
     },
     {
       "igdb_id": 40723,
@@ -14543,6 +14583,11 @@
       "file": "missing/A/416623-aerolicious.json"
     },
     {
+      "igdb_id": 379493,
+      "game_name": "AéroMultiverse",
+      "file": "missing/A/379493-aeromultiverse.json"
+    },
+    {
       "igdb_id": 124175,
       "game_name": "Aeronaut",
       "file": "missing/A/124175-aeronaut.json"
@@ -14563,6 +14608,11 @@
       "file": "missing/A/162754-aeronautica-imperialis-flight-command-skulls-pack.json"
     },
     {
+      "igdb_id": 379494,
+      "game_name": "AeroSpace Engineering",
+      "file": "missing/A/379494-aerospace-engineering.json"
+    },
+    {
       "igdb_id": 101387,
       "game_name": "Aerospace Forces",
       "file": "missing/A/101387-aerospace-forces.json"
@@ -14571,6 +14621,16 @@
       "igdb_id": 7746,
       "game_name": "Aerostar",
       "file": "missing/A/7746-aerostar.json"
+    },
+    {
+      "igdb_id": 379495,
+      "game_name": "AeroStrike",
+      "file": "missing/A/379495-aerostrike.json"
+    },
+    {
+      "igdb_id": 379496,
+      "game_name": "Aerotopia",
+      "file": "missing/A/379496-aerotopia.json"
     },
     {
       "igdb_id": 411785,
@@ -15083,6 +15143,11 @@
       "file": "missing/A/253348-after-school.json"
     },
     {
+      "igdb_id": 379497,
+      "game_name": "After School Cure",
+      "file": "missing/A/379497-after-school-cure.json"
+    },
+    {
       "igdb_id": 206197,
       "game_name": "After School Girlfriend",
       "file": "missing/A/206197-after-school-girlfriend.json"
@@ -15091,6 +15156,11 @@
       "igdb_id": 210608,
       "game_name": "After School Girlfriend: Performing Arts Club",
       "file": "missing/A/210608-after-school-girlfriend-performing-arts-club.json"
+    },
+    {
+      "igdb_id": 379498,
+      "game_name": "After School Grounds",
+      "file": "missing/A/379498-after-school-grounds.json"
     },
     {
       "igdb_id": 233469,
@@ -15106,6 +15176,11 @@
       "igdb_id": 180815,
       "game_name": "After Sun",
       "file": "missing/A/180815-after-sun.json"
+    },
+    {
+      "igdb_id": 379499,
+      "game_name": "After the Crash: Colony",
+      "file": "missing/A/379499-after-the-crash-colony.json"
     },
     {
       "igdb_id": 377042,
@@ -15141,6 +15216,11 @@
       "igdb_id": 196313,
       "game_name": "After the Fall: Launch Edition",
       "file": "missing/A/196313-after-the-fall-launch-edition.json"
+    },
+    {
+      "igdb_id": 379500,
+      "game_name": "After the Melodrama Novel",
+      "file": "missing/A/379500-after-the-melodrama-novel.json"
     },
     {
       "igdb_id": 230940,
@@ -15448,9 +15528,19 @@
       "file": "missing/A/228719-against-all-odds.json"
     },
     {
+      "igdb_id": 379502,
+      "game_name": "Against All Skies",
+      "file": "missing/A/379502-against-all-skies.json"
+    },
+    {
       "igdb_id": 173293,
       "game_name": "Against Ether",
       "file": "missing/A/173293-against-ether.json"
+    },
+    {
+      "igdb_id": 379503,
+      "game_name": "Against the Horde",
+      "file": "missing/A/379503-against-the-horde.json"
     },
     {
       "igdb_id": 147519,
@@ -15563,6 +15653,11 @@
       "file": "missing/A/58866-agathas-folly.json"
     },
     {
+      "igdb_id": 379512,
+      "game_name": "Age After Age",
+      "file": "missing/A/379512-age-after-age.json"
+    },
+    {
       "igdb_id": 106373,
       "game_name": "Age of 2048: World",
       "file": "missing/A/106373-age-of-2048-world.json"
@@ -15581,6 +15676,11 @@
       "igdb_id": 207506,
       "game_name": "Age of Barbarians Chronicles",
       "file": "missing/A/207506-age-of-barbarians-chronicles.json"
+    },
+    {
+      "igdb_id": 379516,
+      "game_name": "Age of Blocks",
+      "file": "missing/A/379516-age-of-blocks.json"
     },
     {
       "igdb_id": 61332,
@@ -16023,6 +16123,11 @@
       "file": "missing/A/122955-age-age-the-zero-yon-shinya.json"
     },
     {
+      "igdb_id": 379513,
+      "game_name": "Agebringer",
+      "file": "missing/A/379513-agebringer.json"
+    },
+    {
       "igdb_id": 180716,
       "game_name": "Ageless Machine: Cup of Tea",
       "file": "missing/A/180716-ageless-machine-cup-of-tea.json"
@@ -16133,6 +16238,11 @@
       "file": "missing/A/12247-agent-usa.json"
     },
     {
+      "igdb_id": 379515,
+      "game_name": "Agent Versus",
+      "file": "missing/A/379515-agent-versus.json"
+    },
+    {
       "igdb_id": 81754,
       "game_name": "Agent X: Equation Rider",
       "file": "missing/A/81754-agent-x-equation-rider.json"
@@ -16151,6 +16261,11 @@
       "igdb_id": 132158,
       "game_name": "Agent: osoboye zadaniye",
       "file": "missing/A/132158-agent-osoboye-zadaniye.json"
+    },
+    {
+      "igdb_id": 379514,
+      "game_name": "Agents 4 Hire",
+      "file": "missing/A/379514-agents-4-hire.json"
     },
     {
       "igdb_id": 408224,
@@ -16983,6 +17098,11 @@
       "file": "missing/A/266520-aimees-cafe.json"
     },
     {
+      "igdb_id": 379517,
+      "game_name": "AimJJang",
+      "file": "missing/A/379517-aimjjang.json"
+    },
+    {
       "igdb_id": 67902,
       "game_name": "Aimlabs",
       "file": "missing/A/67902-aimlabs.json"
@@ -16998,6 +17118,11 @@
       "file": "missing/A/212901-aimx.json"
     },
     {
+      "igdb_id": 379518,
+      "game_name": "Ain't No Surprise",
+      "file": "missing/A/379518-aint-no-surprise.json"
+    },
+    {
       "igdb_id": 239682,
       "game_name": "AInder",
       "file": "missing/A/239682-ainder.json"
@@ -17011,6 +17136,11 @@
       "igdb_id": 294247,
       "game_name": "Ainsley",
       "file": "missing/A/294247-ainsley.json"
+    },
+    {
+      "igdb_id": 379519,
+      "game_name": "Ainur",
+      "file": "missing/A/379519-ainur.json"
     },
     {
       "igdb_id": 563,
@@ -17061,6 +17191,11 @@
       "igdb_id": 177333,
       "game_name": "Aious: World's End",
       "file": "missing/A/177333-aious-worlds-end.json"
+    },
+    {
+      "igdb_id": 379520,
+      "game_name": "Aiphobia",
+      "file": "missing/A/379520-aiphobia.json"
     },
     {
       "igdb_id": 414465,
@@ -17121,6 +17256,11 @@
       "igdb_id": 117477,
       "game_name": "AIR Battlefront",
       "file": "missing/A/117477-air-battlefront.json"
+    },
+    {
+      "igdb_id": 379521,
+      "game_name": "Air Blitz",
+      "file": "missing/A/379521-air-blitz.json"
     },
     {
       "igdb_id": 206101,
@@ -17326,6 +17466,11 @@
       "igdb_id": 175177,
       "game_name": "Air Hockey Pink",
       "file": "missing/A/175177-air-hockey-pink.json"
+    },
+    {
+      "igdb_id": 379525,
+      "game_name": "Air Hockey Simulator",
+      "file": "missing/A/379525-air-hockey-simulator.json"
     },
     {
       "igdb_id": 250444,
@@ -17843,6 +17988,11 @@
       "file": "missing/A/52568-airline-tycoon-2-falcon-lines.json"
     },
     {
+      "igdb_id": 379524,
+      "game_name": "Airline Tycoon 2: Gold",
+      "file": "missing/A/379524-airline-tycoon-2-gold.json"
+    },
+    {
       "igdb_id": 52569,
       "game_name": "Airline Tycoon 2: Gold Edition",
       "file": "missing/A/52569-airline-tycoon-2-gold-edition.json"
@@ -17998,6 +18148,11 @@
       "file": "missing/A/272868-airport-ceo-helicopters.json"
     },
     {
+      "igdb_id": 379523,
+      "game_name": "Airport Control 25",
+      "file": "missing/A/379523-airport-control-25.json"
+    },
+    {
       "igdb_id": 398961,
       "game_name": "Airport Control 27",
       "file": "missing/A/398961-airport-control-27.json"
@@ -18046,6 +18201,11 @@
       "igdb_id": 52566,
       "game_name": "Airport Madness Collection",
       "file": "missing/A/52566-airport-madness-collection.json"
+    },
+    {
+      "igdb_id": 379522,
+      "game_name": "Airport Manager",
+      "file": "missing/A/379522-airport-manager.json"
     },
     {
       "igdb_id": 175282,
@@ -18146,6 +18306,16 @@
       "igdb_id": 45430,
       "game_name": "Airs Adventure",
       "file": "missing/A/45430-airs-adventure.json"
+    },
+    {
+      "igdb_id": 379526,
+      "game_name": "Airship",
+      "file": "missing/A/379526-airship.json"
+    },
+    {
+      "igdb_id": 379527,
+      "game_name": "Airship",
+      "file": "missing/A/379527-airship.json"
     },
     {
       "igdb_id": 396536,
@@ -29198,6 +29368,11 @@
       "file": "missing/A/261367-anime-girls.json"
     },
     {
+      "igdb_id": 379535,
+      "game_name": "Anime Girls Trample",
+      "file": "missing/A/379535-anime-girls-trample.json"
+    },
+    {
       "igdb_id": 378779,
       "game_name": "Anime Girls: College Love",
       "file": "missing/A/378779-anime-girls-college-love.json"
@@ -39631,6 +39806,11 @@
       "igdb_id": 334775,
       "game_name": "ASCII Game Series: Blocks",
       "file": "missing/A/334775-ascii-game-series-blocks.json"
+    },
+    {
+      "igdb_id": 379539,
+      "game_name": "ASCII Game Series: Pinball",
+      "file": "missing/A/379539-ascii-game-series-pinball.json"
     },
     {
       "igdb_id": 334776,
@@ -117783,6 +117963,11 @@
       "file": "missing/C/404401-college-quest.json"
     },
     {
+      "igdb_id": 379536,
+      "game_name": "College Seduction",
+      "file": "missing/C/379536-college-seduction.json"
+    },
+    {
       "igdb_id": 297095,
       "game_name": "College Sex Fest 2024",
       "file": "missing/C/297095-college-sex-fest-2024.json"
@@ -169883,6 +170068,11 @@
       "file": "missing/D/99184-dot-pop.json"
     },
     {
+      "igdb_id": 379510,
+      "game_name": "Dot Scape",
+      "file": "missing/D/379510-dot-scape.json"
+    },
+    {
       "igdb_id": 222940,
       "game_name": "Dot Tanki",
       "file": "missing/D/222940-dot-tanki.json"
@@ -190901,6 +191091,16 @@
       "igdb_id": 386285,
       "game_name": "EmuDevz",
       "file": "missing/E/386285-emudevz.json"
+    },
+    {
+      "igdb_id": 379543,
+      "game_name": "EmyLiveShow: BossRush",
+      "file": "missing/E/379543-emyliveshow-bossrush.json"
+    },
+    {
+      "igdb_id": 379538,
+      "game_name": "EmyLiveShow: Case of Four Hot Witnesses",
+      "file": "missing/E/379538-emyliveshow-case-of-four-hot-witnesses.json"
     },
     {
       "igdb_id": 311055,
@@ -283693,6 +283893,11 @@
       "file": "missing/H/207508-honey-toast.json"
     },
     {
+      "igdb_id": 379540,
+      "game_name": "Honey Trap",
+      "file": "missing/H/379540-honey-trap.json"
+    },
+    {
       "igdb_id": 371915,
       "game_name": "Honey Trap Amnesia",
       "file": "missing/H/371915-honey-trap-amnesia.json"
@@ -356836,6 +357041,11 @@
       "igdb_id": 384751,
       "game_name": "Lust Effect",
       "file": "missing/L/384751-lust-effect.json"
+    },
+    {
+      "igdb_id": 379529,
+      "game_name": "Lust Eternal",
+      "file": "missing/L/379529-lust-eternal.json"
     },
     {
       "igdb_id": 193508,
@@ -446133,6 +446343,11 @@
       "file": "missing/P/69441-paradise-lost-fps-cosmic-horror-game.json"
     },
     {
+      "igdb_id": 379541,
+      "game_name": "Paradise Love",
+      "file": "missing/P/379541-paradise-love.json"
+    },
+    {
       "igdb_id": 253369,
       "game_name": "Paradise Lust 2",
       "file": "missing/P/253369-paradise-lust-2.json"
@@ -448166,6 +448381,11 @@
       "igdb_id": 369776,
       "game_name": "Passion Rift",
       "file": "missing/P/369776-passion-rift.json"
+    },
+    {
+      "igdb_id": 379534,
+      "game_name": "Passioners",
+      "file": "missing/P/379534-passioners.json"
     },
     {
       "igdb_id": 359575,
@@ -478466,6 +478686,11 @@
       "igdb_id": 258985,
       "game_name": "Project Vostok",
       "file": "missing/P/258985-project-vostok.json"
+    },
+    {
+      "igdb_id": 379537,
+      "game_name": "Project Wand: Land of Leng",
+      "file": "missing/P/379537-project-wand-land-of-leng.json"
     },
     {
       "igdb_id": 152272,
@@ -533868,6 +534093,11 @@
       "file": "missing/S/319170-sex-twice-hentai.json"
     },
     {
+      "igdb_id": 379530,
+      "game_name": "Sex Viking Island",
+      "file": "missing/S/379530-sex-viking-island.json"
+    },
+    {
       "igdb_id": 72378,
       "game_name": "Sex Vixens From Space",
       "file": "missing/S/72378-sex-vixens-from-space.json"
@@ -533936,6 +534166,11 @@
       "igdb_id": 396404,
       "game_name": "Sexorcism: Lust Confession",
       "file": "missing/S/396404-sexorcism-lust-confession.json"
+    },
+    {
+      "igdb_id": 379531,
+      "game_name": "Sexstellar",
+      "file": "missing/S/379531-sexstellar.json"
     },
     {
       "igdb_id": 185629,
@@ -563181,6 +563416,11 @@
       "igdb_id": 382781,
       "game_name": "Soumei: Crescent Moon",
       "file": "missing/S/382781-soumei-crescent-moon.json"
+    },
+    {
+      "igdb_id": 379542,
+      "game_name": "Sound Balling 2",
+      "file": "missing/S/379542-sound-balling-2.json"
     },
     {
       "igdb_id": 334756,
@@ -601476,6 +601716,11 @@
       "igdb_id": 371441,
       "game_name": "Sweet Story Neko",
       "file": "missing/S/371441-sweet-story-neko.json"
+    },
+    {
+      "igdb_id": 379532,
+      "game_name": "Sweet Succubus",
+      "file": "missing/S/379532-sweet-succubus.json"
     },
     {
       "igdb_id": 339440,
@@ -698756,6 +699001,11 @@
       "igdb_id": 172105,
       "game_name": "Virtual World Primus",
       "file": "missing/V/172105-virtual-world-primus.json"
+    },
+    {
+      "igdb_id": 379544,
+      "game_name": "Virtual World: Digital Girl",
+      "file": "missing/V/379544-virtual-world-digital-girl.json"
     },
     {
       "igdb_id": 107131,
