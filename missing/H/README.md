@@ -4397,6 +4397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honey Select 2: Libido | 134622 | [134622-honey-select-2-libido.json](./134622-honey-select-2-libido.json) |
 | Honey Time! with Pooh! | 286613 | [286613-honey-time-with-pooh.json](./286613-honey-time-with-pooh.json) |
 | Honey Toast | 207508 | [207508-honey-toast.json](./207508-honey-toast.json) |
+| Honey Trap | 379540 | [379540-honey-trap.json](./379540-honey-trap.json) |
 | Honey Trap Amnesia | 371915 | [371915-honey-trap-amnesia.json](./371915-honey-trap-amnesia.json) |
 | Honey, I Joined a Cult | 99634 | [99634-honey-i-joined-a-cult.json](./99634-honey-i-joined-a-cult.json) |
 | Honeyblaster | 95436 | [95436-honeyblaster.json](./95436-honeyblaster.json) |
