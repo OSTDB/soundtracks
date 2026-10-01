@@ -1778,6 +1778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat City | 260227 | [260227-cat-city.json](./260227-cat-city.json) |
 | Cat Clean Ocean | 320916 | [320916-cat-clean-ocean.json](./320916-cat-clean-ocean.json) |
 | Cat Clinic Simulator: Vet Hospital | 364075 | [364075-cat-clinic-simulator-vet-hospital.json](./364075-cat-clinic-simulator-vet-hospital.json) |
+| Cat Cosmic Puzzle | 347317 | [347317-cat-cosmic-puzzle.json](./347317-cat-cosmic-puzzle.json) |
 | Cat Crisis | 412438 | [412438-cat-crisis.json](./412438-cat-crisis.json) |
 | Cat Dance | 178007 | [178007-cat-dance.json](./178007-cat-dance.json) |
 | Cat Dash Go | 236232 | [236232-cat-dash-go.json](./236232-cat-dash-go.json) |
@@ -2142,6 +2143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catsbridge Stories: Detective in Time | 116360 | [116360-catsbridge-stories-detective-in-time.json](./116360-catsbridge-stories-detective-in-time.json) |
 | Cattails: Wildwood Story | 189143 | [189143-cattails-wildwood-story.json](./189143-cattails-wildwood-story.json) |
 | Cattenburg | 187234 | [187234-cattenburg.json](./187234-cattenburg.json) |
+| CatTerror: The Abandoned House | 347316 | [347316-catterror-the-abandoned-house.json](./347316-catterror-the-abandoned-house.json) |
 | Cattle Call: Hollywood Talent Manager | 110525 | [110525-cattle-call-hollywood-talent-manager.json](./110525-cattle-call-hollywood-talent-manager.json) |
 | Cattle Country | 306909 | [306909-cattle-country.json](./306909-cattle-country.json) |
 | Cattle Hyperdrive | 247745 | [247745-cattle-hyperdrive.json](./247745-cattle-hyperdrive.json) |
@@ -3172,9 +3174,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chessmaster Live: Classic Set | 347216 | [347216-chessmaster-live-classic-set.json](./347216-chessmaster-live-classic-set.json) |
 | Chessmaster Live: Egypt Chess Set | 347215 | [347215-chessmaster-live-egypt-chess-set.json](./347215-chessmaster-live-egypt-chess-set.json) |
 | Chessmaster Live: Fork My Fruit | 347138 | [347138-chessmaster-live-fork-my-fruit.json](./347138-chessmaster-live-fork-my-fruit.json) |
+| Chessmaster Live: Lewis Set | 347280 | [347280-chessmaster-live-lewis-set.json](./347280-chessmaster-live-lewis-set.json) |
+| Chessmaster Live: Mechanica Chess Set | 347279 | [347279-chessmaster-live-mechanica-chess-set.json](./347279-chessmaster-live-mechanica-chess-set.json) |
 | Chessmaster Live: Mongol Chess Set | 347214 | [347214-chessmaster-live-mongol-chess-set.json](./347214-chessmaster-live-mongol-chess-set.json) |
 | Chessmaster Live: Mushrooms Set | 347139 | [347139-chessmaster-live-mushrooms-set.json](./347139-chessmaster-live-mushrooms-set.json) |
 | Chessmaster Live: Pyramids Chess Set | 347213 | [347213-chessmaster-live-pyramids-chess-set.json](./347213-chessmaster-live-pyramids-chess-set.json) |
+| Chessmaster Live: Spheres Chess Set | 347212 | [347212-chessmaster-live-spheres-chess-set.json](./347212-chessmaster-live-spheres-chess-set.json) |
 | Chessmaster: Grandmaster Edition | 15884 | [15884-chessmaster-grandmaster-edition.json](./15884-chessmaster-grandmaster-edition.json) |
 | Chessmaster: The Art of Learning | 20777 | [20777-chessmaster-the-art-of-learning.json](./20777-chessmaster-the-art-of-learning.json) |
 | Chessmate | 413719 | [413719-chessmate.json](./413719-chessmate.json) |
@@ -4538,6 +4543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Vikings | 382912 | [382912-clash-of-vikings.json](./382912-clash-of-vikings.json) |
 | Clash of Warlords | 153333 | [153333-clash-of-warlords.json](./153333-clash-of-warlords.json) |
 | Clash of Warriors: 9 Legends | 56428 | [56428-clash-of-warriors-9-legends.json](./56428-clash-of-warriors-9-legends.json) |
+| Clash of Weirdos: Card Carnage | 347315 | [347315-clash-of-weirdos-card-carnage.json](./347315-clash-of-weirdos-card-carnage.json) |
 | Clash Quest | 145533 | [145533-clash-quest.json](./145533-clash-quest.json) |
 | Clash Royale | 15707 | [15707-clash-royale.json](./15707-clash-royale.json) |
 | Clash-Road | 46863 | [46863-clash-road.json](./46863-clash-road.json) |
@@ -9706,6 +9712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybersoul: Digital Sorcery | 382960 | [382960-cybersoul-digital-sorcery.json](./382960-cybersoul-digital-sorcery.json) |
 | Cybersoul: Retribution Protocol | 382406 | [382406-cybersoul-retribution-protocol.json](./382406-cybersoul-retribution-protocol.json) |
 | CyberSpace Crossword Puzzle | 83450 | [83450-cyberspace-crossword-puzzle.json](./83450-cyberspace-crossword-puzzle.json) |
+| Cyberspace Defender | 347293 | [347293-cyberspace-defender.json](./347293-cyberspace-defender.json) |
 | Cyberspace VR | 160145 | [160145-cyberspace-vr.json](./160145-cyberspace-vr.json) |
 | Cybersphere | 228696 | [228696-cybersphere.json](./228696-cybersphere.json) |
 | CyberStorm 2: Corporate Wars | 11028 | [11028-cyberstorm-2-corporate-wars.json](./11028-cyberstorm-2-corporate-wars.json) |
