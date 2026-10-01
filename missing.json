@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T06:47:47.482Z",
-  "total_missing": 148376,
+  "generated_at": "2026-10-01T07:03:08.020Z",
+  "total_missing": 148426,
   "games": [
     {
       "igdb_id": 186066,
@@ -19203,6 +19203,11 @@
       "file": "missing/A/316060-al-gurbish-in-nick-it-and-run.json"
     },
     {
+      "igdb_id": 370846,
+      "game_name": "Al Qaeda Hunting 3D",
+      "file": "missing/A/370846-al-qaeda-hunting-3d.json"
+    },
+    {
       "igdb_id": 213975,
       "game_name": "Al Qmrah Restaurant",
       "file": "missing/A/213975-al-qmrah-restaurant.json"
@@ -28881,6 +28886,11 @@
       "igdb_id": 28915,
       "game_name": "Animal Rivals",
       "file": "missing/A/28915-animal-rivals.json"
+    },
+    {
+      "igdb_id": 370847,
+      "game_name": "Animal Rivals",
+      "file": "missing/A/370847-animal-rivals.json"
     },
     {
       "igdb_id": 105904,
@@ -45871,6 +45881,11 @@
       "igdb_id": 159798,
       "game_name": "Auto Island",
       "file": "missing/A/159798-auto-island.json"
+    },
+    {
+      "igdb_id": 370866,
+      "game_name": "Auto Jurassic Knights",
+      "file": "missing/A/370866-auto-jurassic-knights.json"
     },
     {
       "igdb_id": 167164,
@@ -85616,6 +85631,11 @@
       "igdb_id": 152840,
       "game_name": "Broken Robot",
       "file": "missing/B/152840-broken-robot.json"
+    },
+    {
+      "igdb_id": 370829,
+      "game_name": "Broken Rules Collection",
+      "file": "missing/B/370829-broken-rules-collection.json"
     },
     {
       "igdb_id": 304374,
@@ -149658,6 +149678,11 @@
       "file": "missing/D/123553-death.json"
     },
     {
+      "igdb_id": 370868,
+      "game_name": "Death & Taxes",
+      "file": "missing/D/370868-death-and-taxes.json"
+    },
+    {
       "igdb_id": 185123,
       "game_name": "Death Again",
       "file": "missing/D/185123-death-again.json"
@@ -196208,6 +196233,11 @@
       "file": "missing/E/329565-escape-from-irene.json"
     },
     {
+      "igdb_id": 370856,
+      "game_name": "Escape from Irene: Parasite",
+      "file": "missing/E/370856-escape-from-irene-parasite.json"
+    },
+    {
       "igdb_id": 313502,
       "game_name": "Escape from Island",
       "file": "missing/E/313502-escape-from-island.json"
@@ -198116,6 +198146,11 @@
       "igdb_id": 66350,
       "game_name": "Eternal Damnation",
       "file": "missing/E/66350-eternal-damnation.json"
+    },
+    {
+      "igdb_id": 370859,
+      "game_name": "Eternal Dark Winter",
+      "file": "missing/E/370859-eternal-dark-winter.json"
     },
     {
       "igdb_id": 251215,
@@ -207428,6 +207463,11 @@
       "file": "missing/F/161760-family-billiards.json"
     },
     {
+      "igdb_id": 370825,
+      "game_name": "Family Bundle",
+      "file": "missing/F/370825-family-bundle.json"
+    },
+    {
       "igdb_id": 82139,
       "game_name": "Family Card Games Fun Pack",
       "file": "missing/F/82139-family-card-games-fun-pack.json"
@@ -216041,6 +216081,11 @@
       "igdb_id": 280351,
       "game_name": "Final Paradox",
       "file": "missing/F/280351-final-paradox.json"
+    },
+    {
+      "igdb_id": 370844,
+      "game_name": "Final Passage",
+      "file": "missing/F/370844-final-passage.json"
     },
     {
       "igdb_id": 394502,
@@ -258158,6 +258203,11 @@
       "file": "missing/G/110140-grigala-runner.json"
     },
     {
+      "igdb_id": 370818,
+      "game_name": "Grill it! Sanma",
+      "file": "missing/G/370818-grill-it-sanma.json"
+    },
+    {
       "igdb_id": 50696,
       "game_name": "Grill-Off with Ultra Hand!",
       "file": "missing/G/50696-grill-off-with-ultra-hand.json"
@@ -279488,6 +279538,11 @@
       "file": "missing/H/360637-hidden-legacy-dark-heirloom-collectors-edition.json"
     },
     {
+      "igdb_id": 370817,
+      "game_name": "Hidden Legends",
+      "file": "missing/H/370817-hidden-legends.json"
+    },
+    {
       "igdb_id": 187369,
       "game_name": "Hidden Map",
       "file": "missing/H/187369-hidden-map.json"
@@ -283931,6 +283986,11 @@
       "igdb_id": 186257,
       "game_name": "Hollow",
       "file": "missing/H/186257-hollow.json"
+    },
+    {
+      "igdb_id": 370840,
+      "game_name": "Hollow Ascent",
+      "file": "missing/H/370840-hollow-ascent.json"
     },
     {
       "igdb_id": 386714,
@@ -301008,6 +301068,11 @@
       "file": "missing/I/22331-inc.json"
     },
     {
+      "igdb_id": 370816,
+      "game_name": "Inc: The Beginning",
+      "file": "missing/I/370816-inc-the-beginning.json"
+    },
+    {
       "igdb_id": 25890,
       "game_name": "Inca",
       "file": "missing/I/25890-inca.json"
@@ -316693,6 +316758,11 @@
       "file": "missing/J/274460-journey-of-the-forgotten.json"
     },
     {
+      "igdb_id": 370850,
+      "game_name": "Journey Of The Light",
+      "file": "missing/J/370850-journey-of-the-light.json"
+    },
+    {
       "igdb_id": 72348,
       "game_name": "Journey of the Sword",
       "file": "missing/J/72348-journey-of-the-sword.json"
@@ -323313,6 +323383,16 @@
       "file": "missing/K/378810-kawaii-girls-busty-bear.json"
     },
     {
+      "igdb_id": 370815,
+      "game_name": "Kawaii Girls: Mighty Mongolian",
+      "file": "missing/K/370815-kawaii-girls-mighty-mongolian.json"
+    },
+    {
+      "igdb_id": 370814,
+      "game_name": "Kawaii Girls: Pretty Mermaid",
+      "file": "missing/K/370814-kawaii-girls-pretty-mermaid.json"
+    },
+    {
       "igdb_id": 364079,
       "game_name": "Kawaii Girls: Rural Romance",
       "file": "missing/K/364079-kawaii-girls-rural-romance.json"
@@ -325621,6 +325701,11 @@
       "igdb_id": 56744,
       "game_name": "Kidou Senshi Gundam: Senjou No Kizuna Portable",
       "file": "missing/K/56744-kidou-senshi-gundam-senjou-no-kizuna-portable.json"
+    },
+    {
+      "igdb_id": 370867,
+      "game_name": "Kidou Shinsengumi: Moeyo Ken",
+      "file": "missing/K/370867-kidou-shinsengumi-moeyo-ken.json"
     },
     {
       "igdb_id": 95167,
@@ -356553,6 +356638,11 @@
       "file": "missing/L/147302-lovely-quest-unlimited.json"
     },
     {
+      "igdb_id": 370813,
+      "game_name": "Lovely Spot the Difference",
+      "file": "missing/L/370813-lovely-spot-the-difference.json"
+    },
+    {
       "igdb_id": 379002,
       "game_name": "Lovely Spot the Difference Fantasy Edition",
       "file": "missing/L/379002-lovely-spot-the-difference-fantasy-edition.json"
@@ -378346,6 +378436,11 @@
       "igdb_id": 29184,
       "game_name": "Meganoid",
       "file": "missing/M/29184-meganoid.json"
+    },
+    {
+      "igdb_id": 370812,
+      "game_name": "Meganoid: Chronicles",
+      "file": "missing/M/370812-meganoid-chronicles.json"
     },
     {
       "igdb_id": 398461,
@@ -428298,6 +428393,11 @@
       "file": "missing/N/414331-nuclear-engineer-tycoon.json"
     },
     {
+      "igdb_id": 370864,
+      "game_name": "Nuclear Epoch",
+      "file": "missing/N/370864-nuclear-epoch.json"
+    },
+    {
       "igdb_id": 273447,
       "game_name": "Nuclear Gladiators 3000",
       "file": "missing/N/273447-nuclear-gladiators-3000.json"
@@ -436771,6 +436871,11 @@
       "igdb_id": 223998,
       "game_name": "Only Girl in High School",
       "file": "missing/O/223998-only-girl-in-high-school.json"
+    },
+    {
+      "igdb_id": 370819,
+      "game_name": "Only Go Up 2",
+      "file": "missing/O/370819-only-go-up-2.json"
     },
     {
       "igdb_id": 170917,
@@ -461128,6 +461233,11 @@
       "file": "missing/P/337737-pioneer.json"
     },
     {
+      "igdb_id": 370851,
+      "game_name": "Pioneer",
+      "file": "missing/P/370851-pioneer.json"
+    },
+    {
       "igdb_id": 61666,
       "game_name": "Pioneer",
       "file": "missing/P/61666-pioneer.json"
@@ -462736,6 +462846,11 @@
       "igdb_id": 335354,
       "game_name": "Pixel Game Maker Series: Rocket Frog",
       "file": "missing/P/335354-pixel-game-maker-series-rocket-frog.json"
+    },
+    {
+      "igdb_id": 370820,
+      "game_name": "Pixel Game Maker Series: Stray Witch and the Ghost Train",
+      "file": "missing/P/370820-pixel-game-maker-series-stray-witch-and-the-ghost-train.json"
     },
     {
       "igdb_id": 316190,
@@ -501668,6 +501783,11 @@
       "file": "missing/R/113594-relayer.json"
     },
     {
+      "igdb_id": 370821,
+      "game_name": "Relayer Advanced: Definitive Edition",
+      "file": "missing/R/370821-relayer-advanced-definitive-edition.json"
+    },
+    {
       "igdb_id": 172776,
       "game_name": "Relayer: Limited Edition",
       "file": "missing/R/172776-relayer-limited-edition.json"
@@ -506761,6 +506881,11 @@
       "igdb_id": 175826,
       "game_name": "Rich Man",
       "file": "missing/R/175826-rich-man.json"
+    },
+    {
+      "igdb_id": 370860,
+      "game_name": "Rich Party",
+      "file": "missing/R/370860-rich-party.json"
     },
     {
       "igdb_id": 391203,
@@ -516398,6 +516523,11 @@
       "file": "missing/R/31181-room-ten.json"
     },
     {
+      "igdb_id": 370861,
+      "game_name": "Room with Lina",
+      "file": "missing/R/370861-room-with-lina.json"
+    },
+    {
       "igdb_id": 297206,
       "game_name": "Room231",
       "file": "missing/R/297206-room231.json"
@@ -516746,6 +516876,11 @@
       "igdb_id": 279425,
       "game_name": "Ropin' Ranch",
       "file": "missing/R/279425-ropin-ranch.json"
+    },
+    {
+      "igdb_id": 370822,
+      "game_name": "Ropoko",
+      "file": "missing/R/370822-ropoko.json"
     },
     {
       "igdb_id": 395566,
@@ -540853,6 +540988,11 @@
       "file": "missing/S/243369-sherlock-purr-extended-edition.json"
     },
     {
+      "igdb_id": 370823,
+      "game_name": "Sherlock Spot DX",
+      "file": "missing/S/370823-sherlock-spot-dx.json"
+    },
+    {
       "igdb_id": 357304,
       "game_name": "Sherlock: Hidden Object & Match-3 Mystery",
       "file": "missing/S/357304-sherlock-hidden-object-and-match-3-mystery.json"
@@ -551206,6 +551346,11 @@
       "igdb_id": 26633,
       "game_name": "Sky Knights",
       "file": "missing/S/26633-sky-knights.json"
+    },
+    {
+      "igdb_id": 370824,
+      "game_name": "Sky Love Boys: Flight Attendant Crush",
+      "file": "missing/S/370824-sky-love-boys-flight-attendant-crush.json"
     },
     {
       "igdb_id": 370797,
@@ -582768,6 +582913,11 @@
       "file": "missing/S/413173-steal-and-sell-simulator.json"
     },
     {
+      "igdb_id": 370849,
+      "game_name": "Steal a Monke",
+      "file": "missing/S/370849-steal-a-monke.json"
+    },
+    {
       "igdb_id": 9516,
       "game_name": "Steal My Artificial Heart",
       "file": "missing/S/9516-steal-my-artificial-heart.json"
@@ -587606,6 +587756,11 @@
       "igdb_id": 375937,
       "game_name": "Streamer Screamer",
       "file": "missing/S/375937-streamer-screamer.json"
+    },
+    {
+      "igdb_id": 370843,
+      "game_name": "Streamer Top",
+      "file": "missing/S/370843-streamer-top.json"
     },
     {
       "igdb_id": 414605,
@@ -618218,6 +618373,11 @@
       "file": "missing/T/185141-terrapins.json"
     },
     {
+      "igdb_id": 370857,
+      "game_name": "TerrApocalipse",
+      "file": "missing/T/370857-terrapocalipse.json"
+    },
+    {
       "igdb_id": 3021,
       "game_name": "Terraria 2",
       "file": "missing/T/3021-terraria-2.json"
@@ -631986,6 +632146,16 @@
       "igdb_id": 15487,
       "game_name": "The Grinch",
       "file": "missing/T/15487-the-grinch.json"
+    },
+    {
+      "igdb_id": 370830,
+      "game_name": "The Grinch: Christmas Adventures - Determined to Love Christmas",
+      "file": "missing/T/370830-the-grinch-christmas-adventures-determined-to-love-christmas.json"
+    },
+    {
+      "igdb_id": 370827,
+      "game_name": "The Grinch: Christmas Adventures - Merry & Mischievous Edition",
+      "file": "missing/T/370827-the-grinch-christmas-adventures-merry-and-mischievous-edition.json"
     },
     {
       "igdb_id": 271852,
@@ -663283,6 +663453,11 @@
       "file": "missing/T/154015-tiny-combat-arena.json"
     },
     {
+      "igdb_id": 370845,
+      "game_name": "Tiny Company",
+      "file": "missing/T/370845-tiny-company.json"
+    },
+    {
       "igdb_id": 177568,
       "game_name": "Tiny Crate",
       "file": "missing/T/177568-tiny-crate.json"
@@ -664661,6 +664836,11 @@
       "igdb_id": 64469,
       "game_name": "TMNT: Ninja Adventures",
       "file": "missing/T/64469-tmnt-ninja-adventures.json"
+    },
+    {
+      "igdb_id": 370828,
+      "game_name": "TMNT: Splintered Fate Heroes Bundle",
+      "file": "missing/T/370828-tmnt-splintered-fate-heroes-bundle.json"
     },
     {
       "igdb_id": 146241,
@@ -674128,9 +674308,49 @@
       "file": "missing/T/342158-trails.json"
     },
     {
+      "igdb_id": 370831,
+      "game_name": "Trails in the Sky 1st Chapter: Banner Set C",
+      "file": "missing/T/370831-trails-in-the-sky-1st-chapter-banner-set-c.json"
+    },
+    {
+      "igdb_id": 370832,
+      "game_name": "Trails in the Sky 1st Chapter: Character Stand Set",
+      "file": "missing/T/370832-trails-in-the-sky-1st-chapter-character-stand-set.json"
+    },
+    {
+      "igdb_id": 370833,
+      "game_name": "Trails in the Sky 1st Chapter: Demon King Dress-up Set",
+      "file": "missing/T/370833-trails-in-the-sky-1st-chapter-demon-king-dress-up-set.json"
+    },
+    {
+      "igdb_id": 370834,
+      "game_name": "Trails in the Sky 1st Chapter: Fine Red Diner Costume Set Vol. 3",
+      "file": "missing/T/370834-trails-in-the-sky-1st-chapter-fine-red-diner-costume-set-vol-3.json"
+    },
+    {
+      "igdb_id": 370835,
+      "game_name": "Trails in the Sky 1st Chapter: Launch Celebration Pack",
+      "file": "missing/T/370835-trails-in-the-sky-1st-chapter-launch-celebration-pack.json"
+    },
+    {
+      "igdb_id": 370836,
+      "game_name": "Trails in the Sky 1st Chapter: Original Diner Costume Set Vol. 3",
+      "file": "missing/T/370836-trails-in-the-sky-1st-chapter-original-diner-costume-set-vol-3.json"
+    },
+    {
+      "igdb_id": 370837,
+      "game_name": "Trails in the Sky 1st Chapter: Resort Style Swimsuits (Estelle & Joshua)",
+      "file": "missing/T/370837-trails-in-the-sky-1st-chapter-resort-style-swimsuits-estelle-and-joshua.json"
+    },
+    {
       "igdb_id": 351131,
       "game_name": "Trails in the Sky 1st Chapter: Steelbook Edition",
       "file": "missing/T/351131-trails-in-the-sky-1st-chapter-steelbook-edition.json"
+    },
+    {
+      "igdb_id": 370838,
+      "game_name": "Trails in the Sky 1st Chapter: Trendy Headgear Set",
+      "file": "missing/T/370838-trails-in-the-sky-1st-chapter-trendy-headgear-set.json"
     },
     {
       "igdb_id": 377314,
@@ -685228,6 +685448,11 @@
       "file": "missing/T/223436-twilight-of-the-gods.json"
     },
     {
+      "igdb_id": 370855,
+      "game_name": "Twilight of the Gods",
+      "file": "missing/T/370855-twilight-of-the-gods.json"
+    },
+    {
       "igdb_id": 244873,
       "game_name": "Twilight Oracle",
       "file": "missing/T/244873-twilight-oracle.json"
@@ -687436,6 +687661,11 @@
       "igdb_id": 207883,
       "game_name": "UFS League",
       "file": "missing/U/207883-ufs-league.json"
+    },
+    {
+      "igdb_id": 370848,
+      "game_name": "UG",
+      "file": "missing/U/370848-ug.json"
     },
     {
       "igdb_id": 198528,
@@ -721903,6 +722133,11 @@
       "file": "missing/W/194298-wiztern.json"
     },
     {
+      "igdb_id": 370841,
+      "game_name": "Wiztyle",
+      "file": "missing/W/370841-wiztyle.json"
+    },
+    {
       "igdb_id": 290917,
       "game_name": "WizUp!",
       "file": "missing/W/290917-wizup.json"
@@ -726131,6 +726366,11 @@
       "igdb_id": 174333,
       "game_name": "World War Touch",
       "file": "missing/W/174333-world-war-touch.json"
+    },
+    {
+      "igdb_id": 370839,
+      "game_name": "World War V: Last Call",
+      "file": "missing/W/370839-world-war-v-last-call.json"
     },
     {
       "igdb_id": 115272,
@@ -731378,6 +731618,11 @@
       "file": "missing/Y/55090-yakuza-kiwami-2.json"
     },
     {
+      "igdb_id": 370826,
+      "game_name": "Yakuza Kiwami 3 & Dark Ties: Deluxe Edition",
+      "file": "missing/Y/370826-yakuza-kiwami-3-and-dark-ties-deluxe-edition.json"
+    },
+    {
       "igdb_id": 375193,
       "game_name": "Yakuza Kiwami 3 & Dark Ties: Flip Phone Customization Pack",
       "file": "missing/Y/375193-yakuza-kiwami-3-and-dark-ties-flip-phone-customization-pack.json"
@@ -735601,6 +735846,11 @@
       "igdb_id": 383609,
       "game_name": "Yumemiru Sepia",
       "file": "missing/Y/383609-yumemiru-sepia.json"
+    },
+    {
+      "igdb_id": 370853,
+      "game_name": "Yumeochi no Melme",
+      "file": "missing/Y/370853-yumeochi-no-melme.json"
     },
     {
       "igdb_id": 63934,
