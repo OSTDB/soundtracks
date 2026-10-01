@@ -2198,6 +2198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlestar Galactica Deadlock: Armistice | 171015 | [171015-battlestar-galactica-deadlock-armistice.json](./171015-battlestar-galactica-deadlock-armistice.json) |
 | Battlestar Galactica Deadlock: Reinforcement Pack | 171016 | [171016-battlestar-galactica-deadlock-reinforcement-pack.json](./171016-battlestar-galactica-deadlock-reinforcement-pack.json) |
 | Battlestar Galactica Deadlock: Sin and Sacrifice | 115672 | [115672-battlestar-galactica-deadlock-sin-and-sacrifice.json](./115672-battlestar-galactica-deadlock-sin-and-sacrifice.json) |
+| Battlestar Galactica: Scattered Hopes | 361822 | [361822-battlestar-galactica-scattered-hopes.json](./361822-battlestar-galactica-scattered-hopes.json) |
 | BattleStar Mazay | 104068 | [104068-battlestar-mazay.json](./104068-battlestar-mazay.json) |
 | Battlestations | 13872 | [13872-battlestations.json](./13872-battlestations.json) |
 | Battlestations: Midway | 4223 | [4223-battlestations-midway.json](./4223-battlestations-midway.json) |
@@ -2715,6 +2716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Becoming Captain | 296497 | [296497-becoming-captain.json](./296497-becoming-captain.json) |
 | Becoming None | 417527 | [417527-becoming-none.json](./417527-becoming-none.json) |
 | Becoming Omega | 146838 | [146838-becoming-omega.json](./146838-becoming-omega.json) |
+| Becoming Pablo | 361852 | [361852-becoming-pablo.json](./361852-becoming-pablo.json) |
 | Becoming Saint | 320411 | [320411-becoming-saint.json](./320411-becoming-saint.json) |
 | Becut | 309665 | [309665-becut.json](./309665-becut.json) |
 | Bed Bounce | 313125 | [313125-bed-bounce.json](./313125-bed-bounce.json) |
@@ -5264,6 +5266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodborne: Collector's Edition | 44542 | [44542-bloodborne-collectors-edition.json](./44542-bloodborne-collectors-edition.json) |
 | Bloodborne: Limited Hunter Edition | 166180 | [166180-bloodborne-limited-hunter-edition.json](./166180-bloodborne-limited-hunter-edition.json) |
 | Bloodborne: Nightmare Edition | 44651 | [44651-bloodborne-nightmare-edition.json](./44651-bloodborne-nightmare-edition.json) |
+| Bloodbreaker: Labyrinth of the Witch | 361834 | [361834-bloodbreaker-labyrinth-of-the-witch.json](./361834-bloodbreaker-labyrinth-of-the-witch.json) |
 | BloodDome Classic | 254140 | [254140-blooddome-classic.json](./254140-blooddome-classic.json) |
 | Blooded Fields | 217865 | [217865-blooded-fields.json](./217865-blooded-fields.json) |
 | Bloodfire | 367982 | [367982-bloodfire.json](./367982-bloodfire.json) |
