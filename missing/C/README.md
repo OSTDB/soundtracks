@@ -5406,6 +5406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Lacrosse 2012 | 61036 | [61036-college-lacrosse-2012.json](./61036-college-lacrosse-2012.json) |
 | College Lacrosse 2014 | 87888 | [87888-college-lacrosse-2014.json](./87888-college-lacrosse-2014.json) |
 | College Quest | 404401 | [404401-college-quest.json](./404401-college-quest.json) |
+| College Seduction | 379536 | [379536-college-seduction.json](./379536-college-seduction.json) |
 | College Sex Fest 2024 | 297095 | [297095-college-sex-fest-2024.json](./297095-college-sex-fest-2024.json) |
 | College Sex Party | 265776 | [265776-college-sex-party.json](./265776-college-sex-party.json) |
 | College Sex: Episode 6 | 285603 | [285603-college-sex-episode-6.json](./285603-college-sex-episode-6.json) |
