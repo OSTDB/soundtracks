@@ -1715,6 +1715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 8: Armor King | 374182 | [374182-tekken-8-armor-king.json](./374182-tekken-8-armor-king.json) |
 | Tekken 8: Character Costume - Aurora Outfit Pack | 414330 | [414330-tekken-8-character-costume-aurora-outfit-pack.json](./414330-tekken-8-character-costume-aurora-outfit-pack.json) |
 | Tekken 8: Clive Rosfield | 325597 | [325597-tekken-8-clive-rosfield.json](./325597-tekken-8-clive-rosfield.json) |
+| Tekken 8: Collaboration Set - Clive Rosfield & Phoenix Gate | 384749 | [384749-tekken-8-collaboration-set-clive-rosfield-and-phoenix-gate.json](./384749-tekken-8-collaboration-set-clive-rosfield-and-phoenix-gate.json) |
 | Tekken 8: Eddy Gordo | 296675 | [296675-tekken-8-eddy-gordo.json](./296675-tekken-8-eddy-gordo.json) |
 | Tekken 8: Heihachi Mishima | 310523 | [310523-tekken-8-heihachi-mishima.json](./310523-tekken-8-heihachi-mishima.json) |
 | Tekken 8: Hibiscus Pack | 317357 | [317357-tekken-8-hibiscus-pack.json](./317357-tekken-8-hibiscus-pack.json) |
@@ -7020,6 +7021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Perplexing Orb | 85439 | [85439-the-perplexing-orb.json](./85439-the-perplexing-orb.json) |
 | The Perplexing Orb 2 | 148560 | [148560-the-perplexing-orb-2.json](./148560-the-perplexing-orb-2.json) |
 | The Perplexing Orb: Bounce Challenge | 315659 | [315659-the-perplexing-orb-bounce-challenge.json](./315659-the-perplexing-orb-bounce-challenge.json) |
+| The Perplexing Orb: Bounce Mania | 384744 | [384744-the-perplexing-orb-bounce-mania.json](./384744-the-perplexing-orb-bounce-mania.json) |
 | The Perplexing Orb: Bounce N' Roll | 276155 | [276155-the-perplexing-orb-bounce-n-roll.json](./276155-the-perplexing-orb-bounce-n-roll.json) |
 | The Persistence | 37282 | [37282-the-persistence.json](./37282-the-persistence.json) |
 | The Pet Squad | 332810 | [332810-the-pet-squad.json](./332810-the-pet-squad.json) |
@@ -13636,6 +13638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainyard | 92061 | [92061-trainyard.json](./92061-trainyard.json) |
 | Trainyard Express | 261861 | [261861-trainyard-express.json](./261861-trainyard-express.json) |
 | Trainz | 920 | [920-trainz.json](./920-trainz.json) |
+| Trainz 2019 DLC - Pro Train: AC44C6M Loco Bundle | 384734 | [384734-trainz-2019-dlc-pro-train-ac44c6m-loco-bundle.json](./384734-trainz-2019-dlc-pro-train-ac44c6m-loco-bundle.json) |
 | Trainz 2019: [TL] Rainsville - Danville | 325026 | [325026-trainz-2019-tl-rainsville-danville.json](./325026-trainz-2019-tl-rainsville-danville.json) |
 | Trainz 2019: B08 Baggage Car | 325030 | [325030-trainz-2019-b08-baggage-car.json](./325030-trainz-2019-b08-baggage-car.json) |
 | Trainz 2019: BR Class 24 - Blue & Green | 325029 | [325029-trainz-2019-br-class-24-blue-and-green.json](./325029-trainz-2019-br-class-24-blue-and-green.json) |
@@ -13653,6 +13656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz 2019: SA AN Class - Australian National | 325039 | [325039-trainz-2019-sa-an-class-australian-national.json](./325039-trainz-2019-sa-an-class-australian-national.json) |
 | Trainz 2019: SA AN Class - Pacific National | 325025 | [325025-trainz-2019-sa-an-class-pacific-national.json](./325025-trainz-2019-sa-an-class-pacific-national.json) |
 | Trainz 2022: SA CL Class - RailPower Pack | 306100 | [306100-trainz-2022-sa-cl-class-railpower-pack.json](./306100-trainz-2022-sa-cl-class-railpower-pack.json) |
+| Trainz Plus DLC - Pro Train: AC44C6M Loco Bundle | 384733 | [384733-trainz-plus-dlc-pro-train-ac44c6m-loco-bundle.json](./384733-trainz-plus-dlc-pro-train-ac44c6m-loco-bundle.json) |
 | Trainz Plus DLC: Pro Train - Class 68 ScotRail | 208339 | [208339-trainz-plus-dlc-pro-train-class-68-scotrail.json](./208339-trainz-plus-dlc-pro-train-class-68-scotrail.json) |
 | Trainz Plus: Amtrak F40PH 2 pack | 205558 | [205558-trainz-plus-amtrak-f40ph-2-pack.json](./205558-trainz-plus-amtrak-f40ph-2-pack.json) |
 | Trainz Plus: Amtrak P42DC - Phase III | 205543 | [205543-trainz-plus-amtrak-p42dc-phase-iii.json](./205543-trainz-plus-amtrak-p42dc-phase-iii.json) |
