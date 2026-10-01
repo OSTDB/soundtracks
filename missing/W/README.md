@@ -76,6 +76,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu Bay Girls | 110364 | [110364-waifu-bay-girls.json](./110364-waifu-bay-girls.json) |
 | Waifu Bay Resort | 105363 | [105363-waifu-bay-resort.json](./105363-waifu-bay-resort.json) |
 | Waifu Builder | 331698 | [331698-waifu-builder.json](./331698-waifu-builder.json) |
+| Waifu Bunny Club | 384716 | [384716-waifu-bunny-club.json](./384716-waifu-bunny-club.json) |
+| Waifu by Myside: Patch Me In | 384718 | [384718-waifu-by-myside-patch-me-in.json](./384718-waifu-by-myside-patch-me-in.json) |
 | Waifu Closet | 331097 | [331097-waifu-closet.json](./331097-waifu-closet.json) |
 | Waifu Club: Azumi | 295374 | [295374-waifu-club-azumi.json](./295374-waifu-club-azumi.json) |
 | Waifu Collector | 171615 | [171615-waifu-collector.json](./171615-waifu-collector.json) |
@@ -87,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu Pogo Club | 390750 | [390750-waifu-pogo-club.json](./390750-waifu-pogo-club.json) |
 | Waifu Quest 2 | 311813 | [311813-waifu-quest-2.json](./311813-waifu-quest-2.json) |
 | Waifu Secret 2 | 149420 | [149420-waifu-secret-2.json](./149420-waifu-secret-2.json) |
+| Waifu Slumber Party | 384715 | [384715-waifu-slumber-party.json](./384715-waifu-slumber-party.json) |
 | Waifu Space Conquest | 250383 | [250383-waifu-space-conquest.json](./250383-waifu-space-conquest.json) |
 | Waifu Survivors | 338553 | [338553-waifu-survivors.json](./338553-waifu-survivors.json) |
 | Waifu Uncovered | 375431 | [375431-waifu-uncovered.json](./375431-waifu-uncovered.json) |
@@ -1965,6 +1968,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where is 2013? | 384074 | [384074-where-is-2013.json](./384074-where-is-2013.json) |
 | Where is 2014? | 384077 | [384077-where-is-2014.json](./384077-where-is-2014.json) |
 | Where is 2016? | 384116 | [384116-where-is-2016.json](./384116-where-is-2016.json) |
+| Where is 2020? | 384731 | [384731-where-is-2020.json](./384731-where-is-2020.json) |
+| Where is 2021? | 384736 | [384736-where-is-2021.json](./384736-where-is-2021.json) |
+| Where is 2022? | 384740 | [384740-where-is-2022.json](./384740-where-is-2022.json) |
 | Where is a Toilet!? | 227878 | [227878-where-is-a-toilet.json](./227878-where-is-a-toilet.json) |
 | Where is a Toilet!? | 228682 | [228682-where-is-a-toilet.json](./228682-where-is-a-toilet.json) |
 | Where is Earth? | 221109 | [221109-where-is-earth.json](./221109-where-is-earth.json) |
