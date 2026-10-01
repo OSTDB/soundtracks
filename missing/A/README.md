@@ -822,6 +822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abstraction | 154572 | [154572-abstraction.json](./154572-abstraction.json) |
 | Abstracto | 283874 | [283874-abstracto.json](./283874-abstracto.json) |
 | Abstrrkt Explorers | 143607 | [143607-abstrrkt-explorers.json](./143607-abstrrkt-explorers.json) |
+| Absum | 366999 | [366999-absum.json](./366999-absum.json) |
 | Absurd | 240208 | [240208-absurd.json](./240208-absurd.json) |
 | Absurd Trolley Problems | 267592 | [267592-absurd-trolley-problems.json](./267592-absurd-trolley-problems.json) |
 | Absylon 7 | 165403 | [165403-absylon-7.json](./165403-absylon-7.json) |
@@ -3835,6 +3836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amortizer Off-Road | 118294 | [118294-amortizer-off-road.json](./118294-amortizer-off-road.json) |
 | Amoto's Puf | 47557 | [47557-amotos-puf.json](./47557-amotos-puf.json) |
 | Amour Libre: Free Love | 129794 | [129794-amour-libre-free-love.json](./129794-amour-libre-free-love.json) |
+| Amparito: En Busca del Nabo Dorado | 366987 | [366987-amparito-en-busca-del-nabo-dorado.json](./366987-amparito-en-busca-del-nabo-dorado.json) |
 | Amped 2 | 5725 | [5725-amped-2.json](./5725-amped-2.json) |
 | Amped 3 | 5483 | [5483-amped-3.json](./5483-amped-3.json) |
 | Amped: Freestyle Snowboarding | 5484 | [5484-amped-freestyle-snowboarding.json](./5484-amped-freestyle-snowboarding.json) |
@@ -5940,6 +5942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena | 14599 | [14599-arena.json](./14599-arena.json) |
 | Arena | 266878 | [266878-arena.json](./266878-arena.json) |
 | Arena | 326072 | [326072-arena.json](./326072-arena.json) |
+| Arena | 366956 | [366956-arena.json](./366956-arena.json) |
 | Arena 2000 | 14265 | [14265-arena-2000.json](./14265-arena-2000.json) |
 | Arena 54: Visual Novel Action Adventure | 163237 | [163237-arena-54-visual-novel-action-adventure.json](./163237-arena-54-visual-novel-action-adventure.json) |
 | Arena an Age of Barbarians story | 30077 | [30077-arena-an-age-of-barbarians-story.json](./30077-arena-an-age-of-barbarians-story.json) |
