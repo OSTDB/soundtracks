@@ -1107,6 +1107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Simulator | 199591 | [199591-paranormal-simulator.json](./199591-paranormal-simulator.json) |
 | Paranormal Snap Shot | 323928 | [323928-paranormal-snap-shot.json](./323928-paranormal-snap-shot.json) |
 | Paranormal State: Poison Spring - Collector's Edition | 30379 | [30379-paranormal-state-poison-spring-collectors-edition.json](./30379-paranormal-state-poison-spring-collectors-edition.json) |
+| Paranormal Survey | 338854 | [338854-paranormal-survey.json](./338854-paranormal-survey.json) |
 | Paranormal Syndrome 3 | 151527 | [151527-paranormal-syndrome-3.json](./151527-paranormal-syndrome-3.json) |
 | Paranormal Syndrome: R Dolls Edition | 261219 | [261219-paranormal-syndrome-r-dolls-edition.json](./261219-paranormal-syndrome-r-dolls-edition.json) |
 | Paranormal Tales | 222843 | [222843-paranormal-tales.json](./222843-paranormal-tales.json) |
@@ -5520,6 +5521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon: Magikarp Jump | 32124 | [32124-pokemon-magikarp-jump.json](./32124-pokemon-magikarp-jump.json) |
 | Pokémon: Maxie's Island | 342679 | [342679-pokemon-maxies-island.json](./342679-pokemon-maxies-island.json) |
 | Pokémon: National History Museum | 340212 | [340212-pokemon-national-history-museum.json](./340212-pokemon-national-history-museum.json) |
+| Pokémon: Professor Oak Challenge | 338849 | [338849-pokemon-professor-oak-challenge.json](./338849-pokemon-professor-oak-challenge.json) |
 | Pokémon: The Pit | 308392 | [308392-pokemon-the-pit.json](./308392-pokemon-the-pit.json) |
 | Pokémon/Grand Order | 330927 | [330927-pokemon-grand-order.json](./330927-pokemon-grand-order.json) |
 | PokemonGoGo | 381780 | [381780-pokemongogo.json](./381780-pokemongogo.json) |
