@@ -2395,12 +2395,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Tarkov: Bear - Morozko | 399128 | [399128-escape-from-tarkov-bear-morozko.json](./399128-escape-from-tarkov-bear-morozko.json) |
 | Escape from Tarkov: Bear - Nord | 399108 | [399108-escape-from-tarkov-bear-nord.json](./399108-escape-from-tarkov-bear-nord.json) |
 | Escape from Tarkov: Bear - Oldschool | 399112 | [399112-escape-from-tarkov-bear-oldschool.json](./399112-escape-from-tarkov-bear-oldschool.json) |
+| Escape from Tarkov: Bear - Senezh | 384747 | [384747-escape-from-tarkov-bear-senezh.json](./384747-escape-from-tarkov-bear-senezh.json) |
 | Escape from Tarkov: Bear - Vacation | 399123 | [399123-escape-from-tarkov-bear-vacation.json](./399123-escape-from-tarkov-bear-vacation.json) |
 | Escape from Tarkov: Bear - Zaslon | 399110 | [399110-escape-from-tarkov-bear-zaslon.json](./399110-escape-from-tarkov-bear-zaslon.json) |
 | Escape from Tarkov: Usec - AC Ranger Green | 399107 | [399107-escape-from-tarkov-usec-ac-ranger-green.json](./399107-escape-from-tarkov-usec-ac-ranger-green.json) |
 | Escape from Tarkov: Usec - Day off | 399109 | [399109-escape-from-tarkov-usec-day-off.json](./399109-escape-from-tarkov-usec-day-off.json) |
 | Escape from Tarkov: Usec - Deadly Frog | 399118 | [399118-escape-from-tarkov-usec-deadly-frog.json](./399118-escape-from-tarkov-usec-deadly-frog.json) |
 | Escape from Tarkov: Usec - Fahrenheit | 399105 | [399105-escape-from-tarkov-usec-fahrenheit.json](./399105-escape-from-tarkov-usec-fahrenheit.json) |
+| Escape from Tarkov: Usec - Gold Squadron | 384748 | [384748-escape-from-tarkov-usec-gold-squadron.json](./384748-escape-from-tarkov-usec-gold-squadron.json) |
 | Escape from Tarkov: Usec - Night Patrol | 399125 | [399125-escape-from-tarkov-usec-night-patrol.json](./399125-escape-from-tarkov-usec-night-patrol.json) |
 | Escape from Tarkov: Usec - Scadi | 399119 | [399119-escape-from-tarkov-usec-scadi.json](./399119-escape-from-tarkov-usec-scadi.json) |
 | Escape from Tarkov: Usec - Special Ops | 399124 | [399124-escape-from-tarkov-usec-special-ops.json](./399124-escape-from-tarkov-usec-special-ops.json) |
