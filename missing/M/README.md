@@ -561,6 +561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Forest Escape 4 | 315666 | [315666-magic-forest-escape-4.json](./315666-magic-forest-escape-4.json) |
 | Magic Forest Escape 5 | 315668 | [315668-magic-forest-escape-5.json](./315668-magic-forest-escape-5.json) |
 | Magic Frame | 147246 | [147246-magic-frame.json](./147246-magic-frame.json) |
+| Magic Frog | 367561 | [367561-magic-frog.json](./367561-magic-frog.json) |
 | Magic Garden | 317579 | [317579-magic-garden.json](./317579-magic-garden.json) |
 | Magic Garden Escape | 315471 | [315471-magic-garden-escape.json](./315471-magic-garden-escape.json) |
 | Magic Gear | 377601 | [377601-magic-gear.json](./377601-magic-gear.json) |
@@ -1219,6 +1220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make the World a Better Place | 248326 | [248326-make-the-world-a-better-place.json](./248326-make-the-world-a-better-place.json) |
 | Make Them Stop | 240791 | [240791-make-them-stop.json](./240791-make-them-stop.json) |
 | Make Them Walk | 258552 | [258552-make-them-walk.json](./258552-make-them-walk.json) |
+| Make Tracks Great Again | 367551 | [367551-make-tracks-great-again.json](./367551-make-tracks-great-again.json) |
 | Make War Not Love 5 | 88234 | [88234-make-war-not-love-5.json](./88234-make-war-not-love-5.json) |
 | Make Way: Legends Pack | 399141 | [399141-make-way-legends-pack.json](./399141-make-way-legends-pack.json) |
 | Make Words or Die | 174317 | [174317-make-words-or-die.json](./174317-make-words-or-die.json) |
@@ -5574,6 +5576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Reader | 107130 | [107130-mind-reader.json](./107130-mind-reader.json) |
 | Mind Reader | 229699 | [229699-mind-reader.json](./229699-mind-reader.json) |
 | Mind Reader: Ghost Trip | 347716 | [347716-mind-reader-ghost-trip.json](./347716-mind-reader-ghost-trip.json) |
+| Mind Rift | 367554 | [367554-mind-rift.json](./367554-mind-rift.json) |
 | Mind Rite | 157073 | [157073-mind-rite.json](./157073-mind-rite.json) |
 | Mind Scanners | 139566 | [139566-mind-scanners.json](./139566-mind-scanners.json) |
 | Mind Shadows | 151180 | [151180-mind-shadows.json](./151180-mind-shadows.json) |
@@ -9661,6 +9664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Next Life as a Bird | 274756 | [274756-my-next-life-as-a-bird.json](./274756-my-next-life-as-a-bird.json) |
 | My Next Life as a Villainess: All Routes Lead to Doom! - Pirates of the Disturbance: Day One Edition | 270177 | [270177-my-next-life-as-a-villainess-all-routes-lead-to-doom-pirates-of-the-disturbance-day-one-edition.json](./270177-my-next-life-as-a-villainess-all-routes-lead-to-doom-pirates-of-the-disturbance-day-one-edition.json) |
 | My Night Sun All Games | 276308 | [276308-my-night-sun-all-games.json](./276308-my-night-sun-all-games.json) |
+| My Nights at Singing Monsters | 367563 | [367563-my-nights-at-singing-monsters.json](./367563-my-nights-at-singing-monsters.json) |
 | My Ninja Destiny | 228359 | [228359-my-ninja-destiny.json](./228359-my-ninja-destiny.json) |
 | My Nonogram Waifu: Forbidden Love | 262367 | [262367-my-nonogram-waifu-forbidden-love.json](./262367-my-nonogram-waifu-forbidden-love.json) |
 | My Oil Empire | 212480 | [212480-my-oil-empire.json](./212480-my-oil-empire.json) |
@@ -9692,6 +9696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Pretend Summer Waterpark | 299213 | [299213-my-pretend-summer-waterpark.json](./299213-my-pretend-summer-waterpark.json) |
 | My Princess Girlfriend | 228416 | [228416-my-princess-girlfriend.json](./228416-my-princess-girlfriend.json) |
 | My Protogen Engineer | 291474 | [291474-my-protogen-engineer.json](./291474-my-protogen-engineer.json) |
+| My Putrid Ponies | 367541 | [367541-my-putrid-ponies.json](./367541-my-putrid-ponies.json) |
 | My Railroad | 118952 | [118952-my-railroad.json](./118952-my-railroad.json) |
 | My Raising Diary | 321594 | [321594-my-raising-diary.json](./321594-my-raising-diary.json) |
 | My Real Desire | 331693 | [331693-my-real-desire.json](./331693-my-real-desire.json) |
@@ -9741,6 +9746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Splitting Image | 355231 | [355231-my-splitting-image.json](./355231-my-splitting-image.json) |
 | My Step Sisters | 344946 | [344946-my-step-sisters.json](./344946-my-step-sisters.json) |
 | My Sticker Room | 383969 | [383969-my-sticker-room.json](./383969-my-sticker-room.json) |
+| My Sticker Zoo | 367558 | [367558-my-sticker-zoo.json](./367558-my-sticker-zoo.json) |
 | My Stop Smoking Coach with Allen Carr | 70638 | [70638-my-stop-smoking-coach-with-allen-carr.json](./70638-my-stop-smoking-coach-with-allen-carr.json) |
 | My Story: Choose Your Own Path | 87010 | [87010-my-story-choose-your-own-path.json](./87010-my-story-choose-your-own-path.json) |
 | My Strange Girlfriends | 248926 | [248926-my-strange-girlfriends.json](./248926-my-strange-girlfriends.json) |
