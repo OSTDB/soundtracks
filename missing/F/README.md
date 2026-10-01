@@ -3102,6 +3102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Volleyball | 235178 | [235178-fish-volleyball.json](./235178-fish-volleyball.json) |
 | Fish vs. Crabs | 62806 | [62806-fish-vs-crabs.json](./62806-fish-vs-crabs.json) |
 | Fish War | 247024 | [247024-fish-war.json](./247024-fish-war.json) |
+| Fish World | 337220 | [337220-fish-world.json](./337220-fish-world.json) |
 | Fish! | 100331 | [100331-fish.json](./100331-fish.json) |
 | Fish! | 12101 | [12101-fish.json](./12101-fish.json) |
 | Fish'n Feathers | 207286 | [207286-fishn-feathers.json](./207286-fishn-feathers.json) |
@@ -6735,6 +6736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuzzball | 69573 | [69573-fuzzball.json](./69573-fuzzball.json) |
 | Fuzzy | 331489 | [331489-fuzzy.json](./331489-fuzzy.json) |
 | Fuzzy Critters | 104644 | [104644-fuzzy-critters.json](./104644-fuzzy-critters.json) |
+| Fuzzy McFluffenstein | 337205 | [337205-fuzzy-mcfluffenstein.json](./337205-fuzzy-mcfluffenstein.json) |
 | Fuzzy World Cup Qatar 2022 | 312349 | [312349-fuzzy-world-cup-qatar-2022.json](./312349-fuzzy-world-cup-qatar-2022.json) |
 | Fwog | 270189 | [270189-fwog.json](./270189-fwog.json) |
 | FX Chess | 94266 | [94266-fx-chess.json](./94266-fx-chess.json) |
