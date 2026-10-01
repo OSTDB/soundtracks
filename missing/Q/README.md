@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QuackShot Starring Donald Duck | 8446 | [8446-quackshot-starring-donald-duck.json](./8446-quackshot-starring-donald-duck.json) |
 | Quacktangled | 185525 | [185525-quacktangled.json](./185525-quacktangled.json) |
 | Quacktown Smackdown | 239062 | [239062-quacktown-smackdown.json](./239062-quacktown-smackdown.json) |
+| Quacolé Tennis | 352305 | [352305-quacole-tennis.json](./352305-quacole-tennis.json) |
 | Quad Battle | 294254 | [294254-quad-battle.json](./294254-quad-battle.json) |
 | Quad Challenge | 46212 | [46212-quad-challenge.json](./46212-quad-challenge.json) |
 | Quad Dice Defence | 195157 | [195157-quad-dice-defence.json](./195157-quad-dice-defence.json) |
