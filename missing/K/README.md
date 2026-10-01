@@ -2581,6 +2581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korter 1996 | 320714 | [320714-korter-1996.json](./320714-korter-1996.json) |
 | Korunu Kopia: Fushigi no Sumu Machi | 135895 | [135895-korunu-kopia-fushigi-no-sumu-machi.json](./135895-korunu-kopia-fushigi-no-sumu-machi.json) |
 | Koshachʼya Lyubovʼ | 301404 | [301404-koshach-ya-lyubov.json](./301404-koshach-ya-lyubov.json) |
+| Koshari Defense | 361824 | [361824-koshari-defense.json](./361824-koshari-defense.json) |
 | Koshchei the Immortal | 372460 | [372460-koshchei-the-immortal.json](./372460-koshchei-the-immortal.json) |
 | Koshien Pocket | 65190 | [65190-koshien-pocket.json](./65190-koshien-pocket.json) |
 | Koshien Story | 57915 | [57915-koshien-story.json](./57915-koshien-story.json) |
