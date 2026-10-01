@@ -972,6 +972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Puzzle for Toddlers and Kids | 227775 | [227775-car-puzzle-for-toddlers-and-kids.json](./227775-car-puzzle-for-toddlers-and-kids.json) |
 | Car Puzzler | 81919 | [81919-car-puzzler.json](./81919-car-puzzler.json) |
 | Car Race | 346087 | [346087-car-race.json](./346087-car-race.json) |
+| Car Racing & Driving Bundle: Drag Racing, Highway Racer, Drift Japan, Toon Cars | 362378 | [362378-car-racing-and-driving-bundle-drag-racing-highway-racer-drift-japan-toon-cars.json](./362378-car-racing-and-driving-bundle-drag-racing-highway-racer-drift-japan-toon-cars.json) |
 | Car Racing Challenge | 43243 | [43243-car-racing-challenge.json](./43243-car-racing-challenge.json) |
 | Car Racing Extreme | 99398 | [99398-car-racing-extreme.json](./99398-car-racing-extreme.json) |
 | Car Racing Game | 288265 | [288265-car-racing-game.json](./288265-car-racing-game.json) |
@@ -2954,6 +2955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheese Killer | 159743 | [159743-cheese-killer.json](./159743-cheese-killer.json) |
 | Cheese Maze | 97691 | [97691-cheese-maze.json](./97691-cheese-maze.json) |
 | Cheese Quest 3D: The Brother Lady Saga | 234896 | [234896-cheese-quest-3d-the-brother-lady-saga.json](./234896-cheese-quest-3d-the-brother-lady-saga.json) |
+| Cheese Rolling | 362406 | [362406-cheese-rolling.json](./362406-cheese-rolling.json) |
 | Cheese Runner | 209474 | [209474-cheese-runner.json](./209474-cheese-runner.json) |
 | Cheese Terminator | 105404 | [105404-cheese-terminator.json](./105404-cheese-terminator.json) |
 | Cheesecake Cult: Unholy Feast | 275579 | [275579-cheesecake-cult-unholy-feast.json](./275579-cheesecake-cult-unholy-feast.json) |
@@ -5630,6 +5632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Book - Halloween | 87110 | [87110-coloring-book-halloween.json](./87110-coloring-book-halloween.json) |
 | Coloring Book for Ladybug & Cat Noir | 96011 | [96011-coloring-book-for-ladybug-and-cat-noir.json](./96011-coloring-book-for-ladybug-and-cat-noir.json) |
 | Coloring Book Series: Aquarium | 283280 | [283280-coloring-book-series-aquarium.json](./283280-coloring-book-series-aquarium.json) |
+| Coloring Book: Adventure Bundle - 90 Drawings | 362377 | [362377-coloring-book-adventure-bundle-90-drawings.json](./362377-coloring-book-adventure-bundle-90-drawings.json) |
 | Coloring Book: Animals Edition - 90 drawings | 397873 | [397873-coloring-book-animals-edition-90-drawings.json](./397873-coloring-book-animals-edition-90-drawings.json) |
 | Coloring Book: Bundle For Kids - 140 drawings | 284510 | [284510-coloring-book-bundle-for-kids-140-drawings.json](./284510-coloring-book-bundle-for-kids-140-drawings.json) |
 | Coloring Book: Complete Bundle - 410 drawings | 283191 | [283191-coloring-book-complete-bundle-410-drawings.json](./283191-coloring-book-complete-bundle-410-drawings.json) |
@@ -5789,6 +5792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comando Tracer | 138800 | [138800-comando-tracer.json](./138800-comando-tracer.json) |
 | Comanomaly | 382375 | [382375-comanomaly.json](./382375-comanomaly.json) |
 | Comatose | 369778 | [369778-comatose.json](./369778-comatose.json) |
+| Comb Rider | 362415 | [362415-comb-rider.json](./362415-comb-rider.json) |
 | Combat | 131545 | [131545-combat.json](./131545-combat.json) |
 | Combat | 300791 | [300791-combat.json](./300791-combat.json) |
 | Combat 3 | 309974 | [309974-combat-3.json](./309974-combat-3.json) |
@@ -6475,6 +6479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contact Me | 149447 | [149447-contact-me.json](./149447-contact-me.json) |
 | Contacts | 379591 | [379591-contacts.json](./379591-contacts.json) |
 | Contain | 226717 | [226717-contain.json](./226717-contain.json) |
+| Container Terminal Simulator | 362389 | [362389-container-terminal-simulator.json](./362389-container-terminal-simulator.json) |
 | Containment Initiative: PC Standalone | 99583 | [99583-containment-initiative-pc-standalone.json](./99583-containment-initiative-pc-standalone.json) |
 | Containment Zone | 235749 | [235749-containment-zone.json](./235749-containment-zone.json) |
 | Contamination | 12986 | [12986-contamination.json](./12986-contamination.json) |
@@ -6673,6 +6678,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking With Cthulhu | 176449 | [176449-cooking-with-cthulhu.json](./176449-cooking-with-cthulhu.json) |
 | Cooking, for lovers | 139814 | [139814-cooking-for-lovers.json](./139814-cooking-for-lovers.json) |
 | Cooking: Green Dragon Set | 324424 | [324424-cooking-green-dragon-set.json](./324424-cooking-green-dragon-set.json) |
+| Cooking: Pizzeria Edition | 362375 | [362375-cooking-pizzeria-edition.json](./362375-cooking-pizzeria-edition.json) |
+| Cooking: Viva la Pizza! | 362380 | [362380-cooking-viva-la-pizza.json](./362380-cooking-viva-la-pizza.json) |
 | Cookulo | 325017 | [325017-cookulo.json](./325017-cookulo.json) |
 | Cool 104 Joker & Setline | 269623 | [269623-cool-104-joker-and-setline.json](./269623-cool-104-joker-and-setline.json) |
 | Cool Boarders Arcade Jam | 39831 | [39831-cool-boarders-arcade-jam.json](./39831-cool-boarders-arcade-jam.json) |
@@ -7007,6 +7014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Soldier | 7544 | [7544-cosmic-soldier.json](./7544-cosmic-soldier.json) |
 | Cosmic Spacehead | 374682 | [374682-cosmic-spacehead.json](./374682-cosmic-spacehead.json) |
 | Cosmic Star Heroine | 27667 | [27667-cosmic-star-heroine.json](./27667-cosmic-star-heroine.json) |
+| Cosmic Star Lounge | 362412 | [362412-cosmic-star-lounge.json](./362412-cosmic-star-lounge.json) |
 | Cosmic Storm | 80623 | [80623-cosmic-storm.json](./80623-cosmic-storm.json) |
 | Cosmic Strike: The Last Sub Sector | 205667 | [205667-cosmic-strike-the-last-sub-sector.json](./205667-cosmic-strike-the-last-sub-sector.json) |
 | Cosmic Sugar VR | 30428 | [30428-cosmic-sugar-vr.json](./30428-cosmic-sugar-vr.json) |
@@ -8111,6 +8119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson III | 335119 | [335119-crimson-iii.json](./335119-crimson-iii.json) |
 | Crimson Katana Exa Label | 365112 | [365112-crimson-katana-exa-label.json](./365112-crimson-katana-exa-label.json) |
 | Crimson Knight | 367525 | [367525-crimson-knight.json](./367525-crimson-knight.json) |
+| Crimson Mansion | 362404 | [362404-crimson-mansion.json](./362404-crimson-mansion.json) |
 | Crimson Memories | 391803 | [391803-crimson-memories.json](./391803-crimson-memories.json) |
 | Crimson Memories | 68887 | [68887-crimson-memories.json](./68887-crimson-memories.json) |
 | Crimson Metal | 29168 | [29168-crimson-metal.json](./29168-crimson-metal.json) |
