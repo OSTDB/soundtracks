@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.I.N.D. | 95234 | [95234-m-i-n-d.json](./95234-m-i-n-d.json) |
 | M.O.O.D.S. | 199487 | [199487-m-o-o-d-s.json](./199487-m-o-o-d-s.json) |
 | M.o.o.n. | 243951 | [243951-m-o-o-n.json](./243951-m-o-o-n.json) |
+| M.o.u.s.e. Game | 339898 | [339898-m-o-u-s-e-game.json](./339898-m-o-u-s-e-game.json) |
 | M.O.Z.O.X.: Space Salvager | 209157 | [209157-m-o-z-o-x-space-salvager.json](./209157-m-o-z-o-x-space-salvager.json) |
 | M.S. Salmon | 211236 | [211236-m-s-salmon.json](./211236-m-s-salmon.json) |
 | M.Stain | 147298 | [147298-m-stain.json](./147298-m-stain.json) |
@@ -740,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Girl | 258429 | [258429-magical-girl.json](./258429-magical-girl.json) |
 | Magical Girl Attack | 117473 | [117473-magical-girl-attack.json](./117473-magical-girl-attack.json) |
 | Magical Girl Celesphonia | 199384 | [199384-magical-girl-celesphonia.json](./199384-magical-girl-celesphonia.json) |
+| Magical Girl Critical Deluxe | 339978 | [339978-magical-girl-critical-deluxe.json](./339978-magical-girl-critical-deluxe.json) |
 | Magical Girl Konoha | 261828 | [261828-magical-girl-konoha.json](./261828-magical-girl-konoha.json) |
 | Magical Girl Leaky Sara | 58810 | [58810-magical-girl-leaky-sara.json](./58810-magical-girl-leaky-sara.json) |
 | Magical Girl Lyrical Nanoha A's Portable: The Battle of Aces | 42836 | [42836-magical-girl-lyrical-nanoha-as-portable-the-battle-of-aces.json](./42836-magical-girl-lyrical-nanoha-as-portable-the-battle-of-aces.json) |
@@ -767,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Otoge Iris | 144809 | [144809-magical-otoge-iris.json](./144809-magical-otoge-iris.json) |
 | Magical Pachinko Cotton | 43285 | [43285-magical-pachinko-cotton.json](./43285-magical-pachinko-cotton.json) |
 | Magical Paradise Train | 252990 | [252990-magical-paradise-train.json](./252990-magical-paradise-train.json) |
+| Magical Princess | 339996 | [339996-magical-princess.json](./339996-magical-princess.json) |
 | Magical Prisma | 130404 | [130404-magical-prisma.json](./130404-magical-prisma.json) |
 | Magical Psalter II: Féngmó zhī Tú | 394500 | [394500-magical-psalter-ii-fengmo-zhi-tu.json](./394500-magical-psalter-ii-fengmo-zhi-tu.json) |
 | Magical Runes | 368600 | [368600-magical-runes.json](./368600-magical-runes.json) |
@@ -5391,6 +5394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Scour | 409752 | [409752-midnight-scour.json](./409752-midnight-scour.json) |
 | Midnight Shifts with Femboy | 400315 | [400315-midnight-shifts-with-femboy.json](./400315-midnight-shifts-with-femboy.json) |
 | Midnight Snack | 324920 | [324920-midnight-snack.json](./324920-midnight-snack.json) |
+| Midnight Snack | 339894 | [339894-midnight-snack.json](./339894-midnight-snack.json) |
 | Midnight Snack | 342248 | [342248-midnight-snack.json](./342248-midnight-snack.json) |
 | Midnight Souls | 365083 | [365083-midnight-souls.json](./365083-midnight-souls.json) |
 | Midnight Special | 319815 | [319815-midnight-special.json](./319815-midnight-special.json) |
@@ -6929,6 +6933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mochi Conquest | 376004 | [376004-mochi-conquest.json](./376004-mochi-conquest.json) |
 | Mochi Mochi Boy | 112709 | [112709-mochi-mochi-boy.json](./112709-mochi-mochi-boy.json) |
 | Mochi Word Puzzles | 100881 | [100881-mochi-word-puzzles.json](./100881-mochi-word-puzzles.json) |
+| Mochi-O | 339988 | [339988-mochi-o.json](./339988-mochi-o.json) |
 | Mochi's Dreamland | 395579 | [395579-mochis-dreamland.json](./395579-mochis-dreamland.json) |
 | Mochiko-san Reunion! | 237286 | [237286-mochiko-san-reunion.json](./237286-mochiko-san-reunion.json) |
 | Mock 2: The Speed of Stupid | 238485 | [238485-mock-2-the-speed-of-stupid.json](./238485-mock-2-the-speed-of-stupid.json) |
@@ -8570,6 +8575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motoscafo | 376546 | [376546-motoscafo.json](./376546-motoscafo.json) |
 | MotoX | 224638 | [224638-motox.json](./224638-motox.json) |
 | Mots Croisés | 93557 | [93557-mots-croises.json](./93557-mots-croises.json) |
+| Mottainai Ghost | 339980 | [339980-mottainai-ghost.json](./339980-mottainai-ghost.json) |
 | Motte Island | 20064 | [20064-motte-island.json](./20064-motte-island.json) |
 | Motteke Tamago | 42015 | [42015-motteke-tamago.json](./42015-motteke-tamago.json) |
 | Motteke Tamago Ganbare Kamonohashi | 62206 | [62206-motteke-tamago-ganbare-kamonohashi.json](./62206-motteke-tamago-ganbare-kamonohashi.json) |
@@ -9019,6 +9025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muffin Knight | 9268 | [9268-muffin-knight.json](./9268-muffin-knight.json) |
 | Muffins on Stream | 239307 | [239307-muffins-on-stream.json](./239307-muffins-on-stream.json) |
 | Muffled Warfare | 96550 | [96550-muffled-warfare.json](./96550-muffled-warfare.json) |
+| Muffles' Life Sentence: Episode 2 | 339955 | [339955-muffles-life-sentence-episode-2.json](./339955-muffles-life-sentence-episode-2.json) |
 | Mugamuchuu | 150166 | [150166-mugamuchuu.json](./150166-mugamuchuu.json) |
 | Mugen Abisu | 190959 | [190959-mugen-abisu.json](./190959-mugen-abisu.json) |
 | Mugen no Shinzou | 167613 | [167613-mugen-no-shinzou.json](./167613-mugen-no-shinzou.json) |
