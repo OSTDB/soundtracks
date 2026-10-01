@@ -1322,6 +1322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn Patrol | 13235 | [13235-dawn-patrol.json](./13235-dawn-patrol.json) |
 | Dawn Patrol | 13236 | [13236-dawn-patrol.json](./13236-dawn-patrol.json) |
 | DAWN: Darkness Awaits Withstand the Night | 333664 | [333664-dawn-darkness-awaits-withstand-the-night.json](./333664-dawn-darkness-awaits-withstand-the-night.json) |
+| Dawn: Instagram Model | 336059 | [336059-dawn-instagram-model.json](./336059-dawn-instagram-model.json) |
 | Dawn's Light 2 | 31176 | [31176-dawns-light-2.json](./31176-dawns-light-2.json) |
 | Dawnbringer | 129604 | [129604-dawnbringer.json](./129604-dawnbringer.json) |
 | Dawngate | 11327 | [11327-dawngate.json](./11327-dawngate.json) |
@@ -4214,6 +4215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digiclimb | 402281 | [402281-digiclimb.json](./402281-digiclimb.json) |
 | Digimon 20th Anniversary Digivice | 270626 | [270626-digimon-20th-anniversary-digivice.json](./270626-digimon-20th-anniversary-digivice.json) |
 | Digimon All-Star Rumble | 9286 | [9286-digimon-all-star-rumble.json](./9286-digimon-all-star-rumble.json) |
+| Digimon Alysion | 336087 | [336087-digimon-alysion.json](./336087-digimon-alysion.json) |
 | Digimon Collectors | 108999 | [108999-digimon-collectors.json](./108999-digimon-collectors.json) |
 | Digimon Color Monster Hunter 20th Edition | 335863 | [335863-digimon-color-monster-hunter-20th-edition.json](./335863-digimon-color-monster-hunter-20th-edition.json) |
 | Digimon Davis and Veemon | 203236 | [203236-digimon-davis-and-veemon.json](./203236-digimon-davis-and-veemon.json) |
@@ -5524,6 +5526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DogHotel | 101582 | [101582-doghotel.json](./101582-doghotel.json) |
 | Doghouse 2 | 216167 | [216167-doghouse-2.json](./216167-doghouse-2.json) |
 | Doghouse 3 | 374756 | [374756-doghouse-3.json](./374756-doghouse-3.json) |
+| Dogimegi Inryoku-chan: Love & Peace | 336177 | [336177-dogimegi-inryoku-chan-love-and-peace.json](./336177-dogimegi-inryoku-chan-love-and-peace.json) |
 | Dogistry | 58799 | [58799-dogistry.json](./58799-dogistry.json) |
 | Dogma | 74466 | [74466-dogma.json](./74466-dogma.json) |
 | Dogma no Hakoniwa | 394543 | [394543-dogma-no-hakoniwa.json](./394543-dogma-no-hakoniwa.json) |
@@ -5586,8 +5589,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Literature Club Plus!: Premium Edition | 166194 | [166194-doki-doki-literature-club-plus-premium-edition.json](./166194-doki-doki-literature-club-plus-premium-edition.json) |
 | Doki Doki Literature Club The Mod In Which Natsuki Has A Nice Day And Nothing Horrible Happens To Her, Thank You Very Much | 334279 | [334279-doki-doki-literature-club-the-mod-in-which-natsuki-has-a-nice-day-and-nothing-horrible-happens-to-her-thank-you-very-much.json](./334279-doki-doki-literature-club-the-mod-in-which-natsuki-has-a-nice-day-and-nothing-horrible-happens-to-her-thank-you-very-much.json) |
 | Doki Doki Literature Club: Return to the Portrait | 222917 | [222917-doki-doki-literature-club-return-to-the-portrait.json](./222917-doki-doki-literature-club-return-to-the-portrait.json) |
+| Doki Doki Literature Club: The Festival | 336088 | [336088-doki-doki-literature-club-the-festival.json](./336088-doki-doki-literature-club-the-festival.json) |
 | Doki Doki Malignancy | 333923 | [333923-doki-doki-malignancy.json](./333923-doki-doki-malignancy.json) |
 | Doki Doki Nightmare | 333927 | [333927-doki-doki-nightmare.json](./333927-doki-doki-nightmare.json) |
+| Doki Doki No Happiness | 336060 | [336060-doki-doki-no-happiness.json](./336060-doki-doki-no-happiness.json) |
 | Doki Doki Our Final Heartbeat | 333609 | [333609-doki-doki-our-final-heartbeat.json](./333609-doki-doki-our-final-heartbeat.json) |
 | Doki Doki Palace | 210590 | [210590-doki-doki-palace.json](./210590-doki-doki-palace.json) |
 | Doki Doki Pokémon Club! | 360183 | [360183-doki-doki-pokemon-club.json](./360183-doki-doki-pokemon-club.json) |
@@ -6767,6 +6772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draeggoria | 392271 | [392271-draeggoria.json](./392271-draeggoria.json) |
 | Draft Day Sports: College Basketball 2018 | 89637 | [89637-draft-day-sports-college-basketball-2018.json](./89637-draft-day-sports-college-basketball-2018.json) |
 | Draft Day Sports: College Basketball 2022 | 191891 | [191891-draft-day-sports-college-basketball-2022.json](./191891-draft-day-sports-college-basketball-2022.json) |
+| Draft Day Sports: College Basketball 2025 | 336058 | [336058-draft-day-sports-college-basketball-2025.json](./336058-draft-day-sports-college-basketball-2025.json) |
 | Draft Day Sports: College Basketball 26 | 393740 | [393740-draft-day-sports-college-basketball-26.json](./393740-draft-day-sports-college-basketball-26.json) |
 | Draft Day Sports: College Football 2023 | 213984 | [213984-draft-day-sports-college-football-2023.json](./213984-draft-day-sports-college-football-2023.json) |
 | Draft Day Sports: College Football 2024 | 262333 | [262333-draft-day-sports-college-football-2024.json](./262333-draft-day-sports-college-football-2024.json) |
@@ -8874,6 +8880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duralumin Wind | 80914 | [80914-duralumin-wind.json](./80914-duralumin-wind.json) |
 | Durango: Wild Lands | 26918 | [26918-durango-wild-lands.json](./26918-durango-wild-lands.json) |
 | Durarara!! 3-way Standoff | 66353 | [66353-durarara-3-way-standoff.json](./66353-durarara-3-way-standoff.json) |
+| Durarara!! 3way Standoff: Alley V | 336109 | [336109-durarara-3way-standoff-alley-v.json](./336109-durarara-3way-standoff-alley-v.json) |
 | Durarara!! Relay | 61661 | [61661-durarara-relay.json](./61661-durarara-relay.json) |
 | Durations | 5633 | [5633-durations.json](./5633-durations.json) |
 | Durga: The Lionhearted | 352203 | [352203-durga-the-lionhearted.json](./352203-durga-the-lionhearted.json) |
