@@ -2993,6 +2993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens vs. Ghosts | 208331 | [208331-aliens-vs-ghosts.json](./208331-aliens-vs-ghosts.json) |
 | Aliens vs. Predator | 560 | [560-aliens-vs-predator.json](./560-aliens-vs-predator.json) |
 | Aliens vs. Predator Collection | 52587 | [52587-aliens-vs-predator-collection.json](./52587-aliens-vs-predator-collection.json) |
+| Aliens vs. Predator: Requiem - Combat Evolved | 343377 | [343377-aliens-vs-predator-requiem-combat-evolved.json](./343377-aliens-vs-predator-requiem-combat-evolved.json) |
 | Aliens, Plasma Guns & Chewing Gum | 305385 | [305385-aliens-plasma-guns-and-chewing-gum.json](./305385-aliens-plasma-guns-and-chewing-gum.json) |
 | Aliens: Colonial Marines | 1021 | [1021-aliens-colonial-marines.json](./1021-aliens-colonial-marines.json) |
 | Aliens: Colonial Marines - Bug Hunt | 118179 | [118179-aliens-colonial-marines-bug-hunt.json](./118179-aliens-colonial-marines-bug-hunt.json) |
@@ -6544,6 +6545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arthur and the Revenge of Maltazard | 51155 | [51155-arthur-and-the-revenge-of-maltazard.json](./51155-arthur-and-the-revenge-of-maltazard.json) |
 | Arthur to Astaroth no Nazomakaimura: Incredible Toons | 45427 | [45427-arthur-to-astaroth-no-nazomakaimura-incredible-toons.json](./45427-arthur-to-astaroth-no-nazomakaimura-incredible-toons.json) |
 | Arthur Yahtzee: The Curse of Hell's Cheesecake | 217857 | [217857-arthur-yahtzee-the-curse-of-hells-cheesecake.json](./217857-arthur-yahtzee-the-curse-of-hells-cheesecake.json) |
+| Arthur: Wizard Academy | 343420 | [343420-arthur-wizard-academy.json](./343420-arthur-wizard-academy.json) |
 | Arthur's 1st Grade | 70988 | [70988-arthurs-1st-grade.json](./70988-arthurs-1st-grade.json) |
 | Arthur's Absolutely Fun Day! | 49917 | [49917-arthurs-absolutely-fun-day.json](./49917-arthurs-absolutely-fun-day.json) |
 | Arthur's Nightmare | 105527 | [105527-arthurs-nightmare.json](./105527-arthurs-nightmare.json) |
