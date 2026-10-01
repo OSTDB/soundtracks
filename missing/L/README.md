@@ -762,6 +762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LastStanding | 413750 | [413750-laststanding.json](./413750-laststanding.json) |
 | Latale | 94907 | [94907-latale.json](./94907-latale.json) |
 | Lataman | 188495 | [188495-lataman.json](./188495-lataman.json) |
+| Latarnik | 352360 | [352360-latarnik.json](./352360-latarnik.json) |
 | Late Amusement | 361821 | [361821-late-amusement.json](./361821-late-amusement.json) |
 | Late Bird | 187406 | [187406-late-bird.json](./187406-late-bird.json) |
 | Late Emergency | 365269 | [365269-late-emergency.json](./365269-late-emergency.json) |
@@ -828,6 +829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laureli: Blood-Dipped Manor | 382183 | [382183-laureli-blood-dipped-manor.json](./382183-laureli-blood-dipped-manor.json) |
 | Lauren's visit | 108066 | [108066-laurens-visit.json](./108066-laurens-visit.json) |
 | Lava Fever | 22786 | [22786-lava-fever.json](./22786-lava-fever.json) |
+| Lava Hop! | 352344 | [352344-lava-hop.json](./352344-lava-hop.json) |
 | Lava Joe | 181258 | [181258-lava-joe.json](./181258-lava-joe.json) |
 | Lava Pool | 108031 | [108031-lava-pool.json](./108031-lava-pool.json) |
 | Lava Rolling Kid | 75053 | [75053-lava-rolling-kid.json](./75053-lava-rolling-kid.json) |
@@ -1002,6 +1004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leaf Tree | 175791 | [175791-leaf-tree.json](./175791-leaf-tree.json) |
 | Leaf's Odyssey | 301354 | [301354-leafs-odyssey.json](./301354-leafs-odyssey.json) |
 | Leafing Home | 333006 | [333006-leafing-home.json](./333006-leafing-home.json) |
+| Leafko | 352308 | [352308-leafko.json](./352308-leafko.json) |
 | Leafling | 142347 | [142347-leafling.json](./142347-leafling.json) |
 | Leaftaker | 411043 | [411043-leaftaker.json](./411043-leaftaker.json) |
 | Leafy Trails Collection | 294838 | [294838-leafy-trails-collection.json](./294838-leafy-trails-collection.json) |
@@ -1791,6 +1794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Meat Adam 2 | 180134 | [180134-lets-meat-adam-2.json](./180134-lets-meat-adam-2.json) |
 | Let's Minesweeper | 220183 | [220183-lets-minesweeper.json](./220183-lets-minesweeper.json) |
 | Let's Pachinko: Nante Gindama | 134465 | [134465-lets-pachinko-nante-gindama.json](./134465-lets-pachinko-nante-gindama.json) |
+| Let's Paint Toast | 352324 | [352324-lets-paint-toast.json](./352324-lets-paint-toast.json) |
 | Let's Park: Backyard Edition | 214185 | [214185-lets-park-backyard-edition.json](./214185-lets-park-backyard-edition.json) |
 | Let's Play Cards Baccarat | 340915 | [340915-lets-play-cards-baccarat.json](./340915-lets-play-cards-baccarat.json) |
 | Let's Play Cards Solitaire | 367603 | [367603-lets-play-cards-solitaire.json](./367603-lets-play-cards-solitaire.json) |
@@ -1997,6 +2001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lexica | 369673 | [369673-lexica.json](./369673-lexica.json) |
 | Lexica Word Finder for Scrabble | 93715 | [93715-lexica-word-finder-for-scrabble.json](./93715-lexica-word-finder-for-scrabble.json) |
 | Lexicon | 287757 | [287757-lexicon.json](./287757-lexicon.json) |
+| Lexicon | 352306 | [352306-lexicon.json](./352306-lexicon.json) |
 | Lexicontainer | 183527 | [183527-lexicontainer.json](./183527-lexicontainer.json) |
 | Leximorph: Word Merge Game | 344534 | [344534-leximorph-word-merge-game.json](./344534-leximorph-word-merge-game.json) |
 | Lexis | 379596 | [379596-lexis.json](./379596-lexis.json) |
@@ -2599,6 +2604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LingerieS | 298038 | [298038-lingeries.json](./298038-lingeries.json) |
 | LingeriesOffice | 334786 | [334786-lingeriesoffice.json](./334786-lingeriesoffice.json) |
 | Lingering Legacy | 156086 | [156086-lingering-legacy.json](./156086-lingering-legacy.json) |
+| Lingering Shadows | 352320 | [352320-lingering-shadows.json](./352320-lingering-shadows.json) |
 | LingerToAlive | 231351 | [231351-lingertoalive.json](./231351-lingertoalive.json) |
 | Linggango | 383935 | [383935-linggango.json](./383935-linggango.json) |
 | Língjiè Zhànxiàn | 127189 | [127189-lingjie-zhanxian.json](./127189-lingjie-zhanxian.json) |
@@ -3424,6 +3430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lone Elven Wanderer | 200575 | [200575-lone-elven-wanderer.json](./200575-lone-elven-wanderer.json) |
 | Lone Fungus: Melody of Spores | 264139 | [264139-lone-fungus-melody-of-spores.json](./264139-lone-fungus-melody-of-spores.json) |
 | Lone King | 151046 | [151046-lone-king.json](./151046-lone-king.json) |
+| Lone Labyrinth: Burden of the Just | 352246 | [352246-lone-labyrinth-burden-of-the-just.json](./352246-lone-labyrinth-burden-of-the-just.json) |
 | Lone McLonegan : A Western Adventure | 153926 | [153926-lone-mclonegan-a-western-adventure.json](./153926-lone-mclonegan-a-western-adventure.json) |
 | Lone Pine | 373641 | [373641-lone-pine.json](./373641-lone-pine.json) |
 | Lone Ruin | 204013 | [204013-lone-ruin.json](./204013-lone-ruin.json) |
@@ -3506,6 +3513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Longeyed Proj. | 223429 | [223429-longeyed-proj.json](./223429-longeyed-proj.json) |
 | Longhaus | 178523 | [178523-longhaus.json](./178523-longhaus.json) |
 | Longleaf Valley | 248097 | [248097-longleaf-valley.json](./248097-longleaf-valley.json) |
+| Longmen | 352317 | [352317-longmen.json](./352317-longmen.json) |
 | Lóngmíng Punk | 154411 | [154411-longming-punk.json](./154411-longming-punk.json) |
 | LongStory | 74495 | [74495-longstory.json](./74495-longstory.json) |
 | Lonley, Lustful, Arrogant, Hateful | 172726 | [172726-lonley-lustful-arrogant-hateful.json](./172726-lonley-lustful-arrogant-hateful.json) |
