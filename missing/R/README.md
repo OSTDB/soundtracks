@@ -98,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit Evolution Merge | 348420 | [348420-rabbit-evolution-merge.json](./348420-rabbit-evolution-merge.json) |
 | Rabbit Hole | 151060 | [151060-rabbit-hole.json](./151060-rabbit-hole.json) |
 | Rabbit Hole | 289347 | [289347-rabbit-hole.json](./289347-rabbit-hole.json) |
+| Rabbit Hole | 345533 | [345533-rabbit-hole.json](./345533-rabbit-hole.json) |
 | Rabbit Hole 3D: Steam Edition | 90584 | [90584-rabbit-hole-3d-steam-edition.json](./90584-rabbit-hole-3d-steam-edition.json) |
 | Rabbit Hop | 245417 | [245417-rabbit-hop.json](./245417-rabbit-hop.json) |
 | Rabbit Horror Show | 319705 | [319705-rabbit-horror-show.json](./319705-rabbit-horror-show.json) |
