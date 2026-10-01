@@ -1080,6 +1080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ilomilo: Autumn Tale | 288340 | [288340-ilomilo-autumn-tale.json](./288340-ilomilo-autumn-tale.json) |
 | Iltami | 311646 | [311646-iltami.json](./311646-iltami.json) |
 | iLudo | 90359 | [90359-iludo.json](./90359-iludo.json) |
+| Ilyad | 366984 | [366984-ilyad.json](./366984-ilyad.json) |
 | Ilysia | 123575 | [123575-ilysia.json](./123575-ilysia.json) |
 | Im Bann Der Dunklen Jagd | 324674 | [324674-im-bann-der-dunklen-jagd.json](./324674-im-bann-der-dunklen-jagd.json) |
 | IMA Miner | 199373 | [199373-ima-miner.json](./199373-ima-miner.json) |
@@ -1817,6 +1818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Library | 318186 | [318186-infinite-library.json](./318186-infinite-library.json) |
 | Infinite Links | 194185 | [194185-infinite-links.json](./194185-infinite-links.json) |
 | Infinite Lives | 354536 | [354536-infinite-lives.json](./354536-infinite-lives.json) |
+| Infinite Loop: Backrooms | 366952 | [366952-infinite-loop-backrooms.json](./366952-infinite-loop-backrooms.json) |
 | Infinite Mansion | 374816 | [374816-infinite-mansion.json](./374816-infinite-mansion.json) |
 | Infinite Mario 64 | 288851 | [288851-infinite-mario-64.json](./288851-infinite-mario-64.json) |
 | Infinite Minigolf: Hangar 37 | 170835 | [170835-infinite-minigolf-hangar-37.json](./170835-infinite-minigolf-hangar-37.json) |
