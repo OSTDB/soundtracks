@@ -1002,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkness Trap: Purify Old Sins | 134440 | [134440-darkness-trap-purify-old-sins.json](./134440-darkness-trap-purify-old-sins.json) |
 | Darkness Within 2: The Dark Lineage - Director's Cut Edition | 36298 | [36298-darkness-within-2-the-dark-lineage-directors-cut-edition.json](./36298-darkness-within-2-the-dark-lineage-directors-cut-edition.json) |
 | Darknet | 20018 | [20018-darknet.json](./20018-darknet.json) |
+| Darko | 373124 | [373124-darko.json](./373124-darko.json) |
 | DarkOrbit: Reloaded | 23808 | [23808-darkorbit-reloaded.json](./23808-darkorbit-reloaded.json) |
 | Darkout | 10108 | [10108-darkout.json](./10108-darkout.json) |
 | DarkPrison | 115760 | [115760-darkprison.json](./115760-darkprison.json) |
@@ -2243,6 +2244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decipher the Deck | 309473 | [309473-decipher-the-deck.json](./309473-decipher-the-deck.json) |
 | Decision | 299762 | [299762-decision.json](./299762-decision.json) |
 | Decision in the Desert | 25923 | [25923-decision-in-the-desert.json](./25923-decision-in-the-desert.json) |
+| Decision Point | 373148 | [373148-decision-point.json](./373148-decision-point.json) |
 | Decision: Red Daze | 152780 | [152780-decision-red-daze.json](./152780-decision-red-daze.json) |
 | Decisive Battles of the American Civil War, Volume One | 54516 | [54516-decisive-battles-of-the-american-civil-war-volume-one.json](./54516-decisive-battles-of-the-american-civil-war-volume-one.json) |
 | Decisive Battles of the American Civil War, Volume Three | 54518 | [54518-decisive-battles-of-the-american-civil-war-volume-three.json](./54518-decisive-battles-of-the-american-civil-war-volume-three.json) |
@@ -2268,6 +2270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deck the Underhalls | 326803 | [326803-deck-the-underhalls.json](./326803-deck-the-underhalls.json) |
 | Deck Warlords | 110304 | [110304-deck-warlords.json](./110304-deck-warlords.json) |
 | Deck'n'Bag | 402362 | [402362-decknbag.json](./402362-decknbag.json) |
+| Deckanism: Singularity Island | 373165 | [373165-deckanism-singularity-island.json](./373165-deckanism-singularity-island.json) |
 | Deckbane | 347782 | [347782-deckbane.json](./347782-deckbane.json) |
 | DeckBuilder Village | 211703 | [211703-deckbuilder-village.json](./211703-deckbuilder-village.json) |
 | DeckEleven's Railroads | 87687 | [87687-deckelevens-railroads.json](./87687-deckelevens-railroads.json) |
@@ -2342,6 +2345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Diving Simulator: Adventure Pack | 154506 | [154506-deep-diving-simulator-adventure-pack.json](./154506-deep-diving-simulator-adventure-pack.json) |
 | Deep Down | 285011 | [285011-deep-down.json](./285011-deep-down.json) |
 | Deep Down & Dark | 263592 | [263592-deep-down-and-dark.json](./263592-deep-down-and-dark.json) |
+| Deep Down Below | 373157 | [373157-deep-down-below.json](./373157-deep-down-below.json) |
 | Deep Duck Trouble Starring Donald Duck | 8447 | [8447-deep-duck-trouble-starring-donald-duck.json](./8447-deep-duck-trouble-starring-donald-duck.json) |
 | Deep Dungeon | 177860 | [177860-deep-dungeon.json](./177860-deep-dungeon.json) |
 | Deep Dungeon Adventure | 311984 | [311984-deep-dungeon-adventure.json](./311984-deep-dungeon-adventure.json) |
@@ -3334,6 +3338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dessert DIY: Premium Edition | 288298 | [288298-dessert-diy-premium-edition.json](./288298-dessert-diy-premium-edition.json) |
 | Dessert Love: Kare to no Hajimari | 219167 | [219167-dessert-love-kare-to-no-hajimari.json](./219167-dessert-love-kare-to-no-hajimari.json) |
 | Dessert Love: Sweet Plus | 219168 | [219168-dessert-love-sweet-plus.json](./219168-dessert-love-sweet-plus.json) |
+| Desserted | 373127 | [373127-desserted.json](./373127-desserted.json) |
 | Desstroke | 207505 | [207505-desstroke.json](./207505-desstroke.json) |
 | Destination | 322576 | [322576-destination.json](./322576-destination.json) |
 | Destination Ares | 25813 | [25813-destination-ares.json](./25813-destination-ares.json) |
@@ -4998,6 +5003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine Justice Zero | 65757 | [65757-divine-justice-zero.json](./65757-divine-justice-zero.json) |
 | Divine Miko Koyori | 122451 | [122451-divine-miko-koyori.json](./122451-divine-miko-koyori.json) |
 | Divine Orders | 333108 | [333108-divine-orders.json](./333108-divine-orders.json) |
+| Divine Sin | 373151 | [373151-divine-sin.json](./373151-divine-sin.json) |
 | Divine Souls | 36303 | [36303-divine-souls.json](./36303-divine-souls.json) |
 | Divine Souls Online | 51264 | [51264-divine-souls-online.json](./51264-divine-souls-online.json) |
 | Divine Twins | 285022 | [285022-divine-twins.json](./285022-divine-twins.json) |
@@ -5657,6 +5663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Fall | 348942 | [348942-dont-fall.json](./348942-dont-fall.json) |
 | Don't Fear the Sweeper | 68638 | [68638-dont-fear-the-sweeper.json](./68638-dont-fear-the-sweeper.json) |
 | Don't Feed It | 341896 | [341896-dont-feed-it.json](./341896-dont-feed-it.json) |
+| Don't Feed the Cat | 373144 | [373144-dont-feed-the-cat.json](./373144-dont-feed-the-cat.json) |
 | Don't Find Me!! | 303488 | [303488-dont-find-me.json](./303488-dont-find-me.json) |
 | Don't Forget Me: Deluxe Edition | 154519 | [154519-dont-forget-me-deluxe-edition.json](./154519-dont-forget-me-deluxe-edition.json) |
 | Don't Forget the Phone | 398485 | [398485-dont-forget-the-phone.json](./398485-dont-forget-the-phone.json) |
