@@ -2472,6 +2472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glyph VR | 151534 | [151534-glyph-vr.json](./151534-glyph-vr.json) |
 | Glypha III | 70919 | [70919-glypha-iii.json](./70919-glypha-iii.json) |
 | Glyphica: Typing Survival | 291596 | [291596-glyphica-typing-survival.json](./291596-glyphica-typing-survival.json) |
+| Glyphs | 347281 | [347281-glyphs.json](./347281-glyphs.json) |
 | Glyphs of Gitzan | 300997 | [300997-glyphs-of-gitzan.json](./300997-glyphs-of-gitzan.json) |
 | Glyphs of the Pharaohs | 177002 | [177002-glyphs-of-the-pharaohs.json](./177002-glyphs-of-the-pharaohs.json) |
 | Glyphscape | 349401 | [349401-glyphscape.json](./349401-glyphscape.json) |
@@ -4047,6 +4048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greak: Memories of Azur | 122126 | [122126-greak-memories-of-azur.json](./122126-greak-memories-of-azur.json) |
 | Grease Dance | 20218 | [20218-grease-dance.json](./20218-grease-dance.json) |
 | Grease Monkey Grand Prix | 343238 | [343238-grease-monkey-grand-prix.json](./343238-grease-monkey-grand-prix.json) |
+| Greasemnk++ | 347290 | [347290-greasemnk.json](./347290-greasemnk.json) |
 | Great Adventures Lost Mountains | 54060 | [54060-great-adventures-lost-mountains.json](./54060-great-adventures-lost-mountains.json) |
 | Great Adventures: Castle | 167280 | [167280-great-adventures-castle.json](./167280-great-adventures-castle.json) |
 | Great Adventures: Pirate Ship | 63892 | [63892-great-adventures-pirate-ship.json](./63892-great-adventures-pirate-ship.json) |
@@ -5145,6 +5147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunnRunner | 117063 | [117063-gunnrunner.json](./117063-gunnrunner.json) |
 | GunnVR | 29908 | [29908-gunnvr.json](./29908-gunnvr.json) |
 | Gunny | 117721 | [117721-gunny.json](./117721-gunny.json) |
+| Gunny Ascend | 347288 | [347288-gunny-ascend.json](./347288-gunny-ascend.json) |
 | GunOre | 350511 | [350511-gunore.json](./350511-gunore.json) |
 | Gunparade March | 64893 | [64893-gunparade-march.json](./64893-gunparade-march.json) |
 | Gunparade Orchestra: Ao no Shou | 64891 | [64891-gunparade-orchestra-ao-no-shou.json](./64891-gunparade-orchestra-ao-no-shou.json) |
