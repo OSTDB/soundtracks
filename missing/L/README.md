@@ -755,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late Fee Girls | 366241 | [366241-late-fee-girls.json](./366241-late-fee-girls.json) |
 | Late For Class: Variety King | 191252 | [191252-late-for-class-variety-king.json](./191252-late-for-class-variety-king.json) |
 | Late for Love | 176517 | [176517-late-for-love.json](./176517-late-for-love.json) |
+| Late Hours | 383559 | [383559-late-hours.json](./383559-late-hours.json) |
 | Late Ming Fly Guy | 339904 | [339904-late-ming-fly-guy.json](./339904-late-ming-fly-guy.json) |
 | Late Night 1320 | 115654 | [115654-late-night-1320.json](./115654-late-night-1320.json) |
 | Late Night Mop: Minimum Wage | 376605 | [376605-late-night-mop-minimum-wage.json](./376605-late-night-mop-minimum-wage.json) |
@@ -1392,7 +1393,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legion of Evil | 346775 | [346775-legion-of-evil.json](./346775-legion-of-evil.json) |
 | Legion of Judgment: Fallen Angel | 238755 | [238755-legion-of-judgment-fallen-angel.json](./238755-legion-of-judgment-fallen-angel.json) |
 | Legion Otherworld | 284428 | [284428-legion-otherworld.json](./284428-legion-otherworld.json) |
+| Legion Saga II | 383573 | [383573-legion-saga-ii.json](./383573-legion-saga-ii.json) |
 | Legion Saga III | 385746 | [385746-legion-saga-iii.json](./385746-legion-saga-iii.json) |
+| Legion Saga Remastered | 383568 | [383568-legion-saga-remastered.json](./383568-legion-saga-remastered.json) |
 | Legion War | 112703 | [112703-legion-war.json](./112703-legion-war.json) |
 | Legion Was Here | 347168 | [347168-legion-was-here.json](./347168-legion-was-here.json) |
 | Legion: Dead Metal | 249214 | [249214-legion-dead-metal.json](./249214-legion-dead-metal.json) |
@@ -2656,6 +2659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liquidum: Small & Tricky | 298051 | [298051-liquidum-small-and-tricky.json](./298051-liquidum-small-and-tricky.json) |
 | Liquor and Wine Shop Simulator: Store Simulator | 326398 | [326398-liquor-and-wine-shop-simulator-store-simulator.json](./326398-liquor-and-wine-shop-simulator-store-simulator.json) |
 | Liquor Store Simulator | 326399 | [326399-liquor-store-simulator.json](./326399-liquor-store-simulator.json) |
+| Lirai: Heir Of Darkness | 383597 | [383597-lirai-heir-of-darkness.json](./383597-lirai-heir-of-darkness.json) |
 | LIRE | 145018 | [145018-lire.json](./145018-lire.json) |
 | Lirili Larila | 353955 | [353955-lirili-larila.json](./353955-lirili-larila.json) |
 | Lis: Achados & Perdidos dos Confins do Universo | 239179 | [239179-lis-achados-and-perdidos-dos-confins-do-universo.json](./239179-lis-achados-and-perdidos-dos-confins-do-universo.json) |
@@ -4051,6 +4055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love and Guillotines | 195629 | [195629-love-and-guillotines.json](./195629-love-and-guillotines.json) |
 | Love and Hate | 393776 | [393776-love-and-hate.json](./393776-love-and-hate.json) |
 | Love and Passion | 224506 | [224506-love-and-passion.json](./224506-love-and-passion.json) |
+| Love and Sex: First Base | 383555 | [383555-love-and-sex-first-base.json](./383555-love-and-sex-first-base.json) |
 | Love and War: Act I | 122860 | [122860-love-and-war-act-i.json](./122860-love-and-war-act-i.json) |
 | Love Angel Syndrome | 324884 | [324884-love-angel-syndrome.json](./324884-love-angel-syndrome.json) |
 | Love Archer | 227261 | [227261-love-archer.json](./227261-love-archer.json) |
