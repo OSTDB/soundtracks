@@ -2540,8 +2540,34 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Orion II: Battle at Antares | 68 | [68-master-of-orion-ii-battle-at-antares.json](./68-master-of-orion-ii-battle-at-antares.json) |
 | Master of Orion III | 69 | [69-master-of-orion-iii.json](./69-master-of-orion-iii.json) |
 | Master of Orion: Gnolam League | 169972 | [169972-master-of-orion-gnolam-league.json](./169972-master-of-orion-gnolam-league.json) |
+| Master of Pieces Jigsaw Puzzle: Beadwoven Beauty | 357908 | [357908-master-of-pieces-jigsaw-puzzle-beadwoven-beauty.json](./357908-master-of-pieces-jigsaw-puzzle-beadwoven-beauty.json) |
+| Master of Pieces Jigsaw Puzzle: Beautiful Nonsense 2 | 357910 | [357910-master-of-pieces-jigsaw-puzzle-beautiful-nonsense-2.json](./357910-master-of-pieces-jigsaw-puzzle-beautiful-nonsense-2.json) |
+| Master of Pieces Jigsaw Puzzle: Beautiful Nonsense 3 | 357911 | [357911-master-of-pieces-jigsaw-puzzle-beautiful-nonsense-3.json](./357911-master-of-pieces-jigsaw-puzzle-beautiful-nonsense-3.json) |
+| Master of Pieces Jigsaw Puzzle: Boarded Beauty | 357912 | [357912-master-of-pieces-jigsaw-puzzle-boarded-beauty.json](./357912-master-of-pieces-jigsaw-puzzle-boarded-beauty.json) |
 | Master of Pieces Jigsaw Puzzle: Canvas of Time | 312704 | [312704-master-of-pieces-jigsaw-puzzle-canvas-of-time.json](./312704-master-of-pieces-jigsaw-puzzle-canvas-of-time.json) |
+| Master of Pieces Jigsaw Puzzle: Ceramic Mosaic | 357913 | [357913-master-of-pieces-jigsaw-puzzle-ceramic-mosaic.json](./357913-master-of-pieces-jigsaw-puzzle-ceramic-mosaic.json) |
+| Master of Pieces Jigsaw Puzzle: Chinese New Year | 357914 | [357914-master-of-pieces-jigsaw-puzzle-chinese-new-year.json](./357914-master-of-pieces-jigsaw-puzzle-chinese-new-year.json) |
+| Master of Pieces Jigsaw Puzzle: Dot Painting | 357915 | [357915-master-of-pieces-jigsaw-puzzle-dot-painting.json](./357915-master-of-pieces-jigsaw-puzzle-dot-painting.json) |
+| Master of Pieces Jigsaw Puzzle: Dreamflowers | 357917 | [357917-master-of-pieces-jigsaw-puzzle-dreamflowers.json](./357917-master-of-pieces-jigsaw-puzzle-dreamflowers.json) |
+| Master of Pieces Jigsaw Puzzle: Dreams of India | 357916 | [357916-master-of-pieces-jigsaw-puzzle-dreams-of-india.json](./357916-master-of-pieces-jigsaw-puzzle-dreams-of-india.json) |
 | Master of Pieces Jigsaw Puzzle: Dreamy Depths | 312705 | [312705-master-of-pieces-jigsaw-puzzle-dreamy-depths.json](./312705-master-of-pieces-jigsaw-puzzle-dreamy-depths.json) |
+| Master of Pieces Jigsaw Puzzle: Fairy Tales | 357918 | [357918-master-of-pieces-jigsaw-puzzle-fairy-tales.json](./357918-master-of-pieces-jigsaw-puzzle-fairy-tales.json) |
+| Master of Pieces Jigsaw Puzzle: Fantastic Landscape | 357919 | [357919-master-of-pieces-jigsaw-puzzle-fantastic-landscape.json](./357919-master-of-pieces-jigsaw-puzzle-fantastic-landscape.json) |
+| Master of Pieces Jigsaw Puzzle: Flowers of Life | 357920 | [357920-master-of-pieces-jigsaw-puzzle-flowers-of-life.json](./357920-master-of-pieces-jigsaw-puzzle-flowers-of-life.json) |
+| Master of Pieces Jigsaw Puzzle: Folk-Art | 357921 | [357921-master-of-pieces-jigsaw-puzzle-folk-art.json](./357921-master-of-pieces-jigsaw-puzzle-folk-art.json) |
+| Master of Pieces Jigsaw Puzzle: Golden Season | 357922 | [357922-master-of-pieces-jigsaw-puzzle-golden-season.json](./357922-master-of-pieces-jigsaw-puzzle-golden-season.json) |
+| Master of Pieces Jigsaw Puzzle: Harmony of Horror | 357923 | [357923-master-of-pieces-jigsaw-puzzle-harmony-of-horror.json](./357923-master-of-pieces-jigsaw-puzzle-harmony-of-horror.json) |
+| Master of Pieces Jigsaw Puzzle: Haunted Lights | 357924 | [357924-master-of-pieces-jigsaw-puzzle-haunted-lights.json](./357924-master-of-pieces-jigsaw-puzzle-haunted-lights.json) |
+| Master of Pieces Jigsaw Puzzle: Holiday Paws | 357925 | [357925-master-of-pieces-jigsaw-puzzle-holiday-paws.json](./357925-master-of-pieces-jigsaw-puzzle-holiday-paws.json) |
+| Master of Pieces Jigsaw Puzzle: Into the Future | 357926 | [357926-master-of-pieces-jigsaw-puzzle-into-the-future.json](./357926-master-of-pieces-jigsaw-puzzle-into-the-future.json) |
+| Master of Pieces Jigsaw Puzzle: Mandalas and Fractals | 357927 | [357927-master-of-pieces-jigsaw-puzzle-mandalas-and-fractals.json](./357927-master-of-pieces-jigsaw-puzzle-mandalas-and-fractals.json) |
+| Master of Pieces Jigsaw Puzzle: Marvels Valley | 357928 | [357928-master-of-pieces-jigsaw-puzzle-marvels-valley.json](./357928-master-of-pieces-jigsaw-puzzle-marvels-valley.json) |
+| Master of Pieces Jigsaw Puzzle: Mirroring 2 | 357929 | [357929-master-of-pieces-jigsaw-puzzle-mirroring-2.json](./357929-master-of-pieces-jigsaw-puzzle-mirroring-2.json) |
+| Master of Pieces Jigsaw Puzzle: Paper Whirls | 357930 | [357930-master-of-pieces-jigsaw-puzzle-paper-whirls.json](./357930-master-of-pieces-jigsaw-puzzle-paper-whirls.json) |
+| Master of Pieces Jigsaw Puzzle: Patchwork Creations | 357931 | [357931-master-of-pieces-jigsaw-puzzle-patchwork-creations.json](./357931-master-of-pieces-jigsaw-puzzle-patchwork-creations.json) |
+| Master of Pieces Jigsaw Puzzle: Pixel Dreams | 357932 | [357932-master-of-pieces-jigsaw-puzzle-pixel-dreams.json](./357932-master-of-pieces-jigsaw-puzzle-pixel-dreams.json) |
+| Master of Pieces Jigsaw Puzzle: Radiant Love | 357933 | [357933-master-of-pieces-jigsaw-puzzle-radiant-love.json](./357933-master-of-pieces-jigsaw-puzzle-radiant-love.json) |
+| Master of Pieces Jigsaw Puzzle: Sand Art | 357934 | [357934-master-of-pieces-jigsaw-puzzle-sand-art.json](./357934-master-of-pieces-jigsaw-puzzle-sand-art.json) |
 | Master of Pieces Jigsaw Puzzle: Shades of Nostalgia | 357939 | [357939-master-of-pieces-jigsaw-puzzle-shades-of-nostalgia.json](./357939-master-of-pieces-jigsaw-puzzle-shades-of-nostalgia.json) |
 | Master of Pieces Jigsaw Puzzle: Still Life 2 | 357938 | [357938-master-of-pieces-jigsaw-puzzle-still-life-2.json](./357938-master-of-pieces-jigsaw-puzzle-still-life-2.json) |
 | Master of Pieces Jigsaw Puzzle: The Bold Accent | 357937 | [357937-master-of-pieces-jigsaw-puzzle-the-bold-accent.json](./357937-master-of-pieces-jigsaw-puzzle-the-bold-accent.json) |
