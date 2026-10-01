@@ -4942,6 +4942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogueria: Roguelikes X Tactics | 143585 | [143585-rogueria-roguelikes-x-tactics.json](./143585-rogueria-roguelikes-x-tactics.json) |
 | Rogues Like Beer | 183014 | [183014-rogues-like-beer.json](./183014-rogues-like-beer.json) |
 | Rogues of Europa | 274495 | [274495-rogues-of-europa.json](./274495-rogues-of-europa.json) |
+| Rogues of Titan | 366346 | [366346-rogues-of-titan.json](./366346-rogues-of-titan.json) |
 | Roguesphere | 297227 | [297227-roguesphere.json](./297227-roguesphere.json) |
 | Roguestorm Beats | 416651 | [416651-roguestorm-beats.json](./416651-roguestorm-beats.json) |
 | Roguesweeper | 389126 | [389126-roguesweeper.json](./389126-roguesweeper.json) |
@@ -5536,6 +5537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rowan's Battle of Britain | 73818 | [73818-rowans-battle-of-britain.json](./73818-rowans-battle-of-britain.json) |
 | RowBot Rally | 256258 | [256258-rowbot-rally.json](./256258-rowbot-rally.json) |
 | Rowdy Wrestling | 104211 | [104211-rowdy-wrestling.json](./104211-rowdy-wrestling.json) |
+| Rowen's Grand Adventure | 366391 | [366391-rowens-grand-adventure.json](./366391-rowens-grand-adventure.json) |
 | Rowtropia | 260628 | [260628-rowtropia.json](./260628-rowtropia.json) |
 | Rox | 50066 | [50066-rox.json](./50066-rox.json) |
 | Rox II | 315507 | [315507-rox-ii.json](./315507-rox-ii.json) |
