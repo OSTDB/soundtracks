@@ -1419,6 +1419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Food Tycoon Simulator | 353959 | [353959-fast-food-tycoon-simulator.json](./353959-fast-food-tycoon-simulator.json) |
 | Fast Fox | 152198 | [152198-fast-fox.json](./152198-fast-fox.json) |
 | Fast Freddie | 46795 | [46795-fast-freddie.json](./46795-fast-freddie.json) |
+| Fast Gear | 358998 | [358998-fast-gear.json](./358998-fast-gear.json) |
 | Fast Jump | 167574 | [167574-fast-jump.json](./167574-fast-jump.json) |
 | Fast Like A Fox | 55973 | [55973-fast-like-a-fox.json](./55973-fast-like-a-fox.json) |
 | Fast Racing 3D | 380549 | [380549-fast-racing-3d.json](./380549-fast-racing-3d.json) |
@@ -3326,6 +3327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Sonic's 3 Reburned | 182216 | [182216-five-nights-at-sonics-3-reburned.json](./182216-five-nights-at-sonics-3-reburned.json) |
 | Five Nights at Sonic's 4: Halloween Edition | 413155 | [413155-five-nights-at-sonics-4-halloween-edition.json](./413155-five-nights-at-sonics-4-halloween-edition.json) |
 | Five Nights at Sonic's Remastered | 333960 | [333960-five-nights-at-sonics-remastered.json](./333960-five-nights-at-sonics-remastered.json) |
+| Five Nights at Sonic's World | 359012 | [359012-five-nights-at-sonics-world.json](./359012-five-nights-at-sonics-world.json) |
 | Five Nights at Sonic's: Solar Switchup | 413161 | [413161-five-nights-at-sonics-solar-switchup.json](./413161-five-nights-at-sonics-solar-switchup.json) |
 | Five Nights at Stickman | 359074 | [359074-five-nights-at-stickman.json](./359074-five-nights-at-stickman.json) |
 | Five Nights At Stickman | 89037 | [89037-five-nights-at-stickman.json](./89037-five-nights-at-stickman.json) |
@@ -3865,6 +3867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floor Wiping Race | 420674 | [420674-floor-wiping-race.json](./420674-floor-wiping-race.json) |
 | Floor404 | 409741 | [409741-floor404.json](./409741-floor404.json) |
 | Floor44 | 213011 | [213011-floor44.json](./213011-floor44.json) |
+| FloorBreaker | 358990 | [358990-floorbreaker.json](./358990-floorbreaker.json) |
 | Floors | 309374 | [309374-floors.json](./309374-floors.json) |
 | FLOP | 342168 | [342168-flop.json](./342168-flop.json) |
 | Flop to the Top | 181712 | [181712-flop-to-the-top.json](./181712-flop-to-the-top.json) |
@@ -4568,6 +4571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Doesn’t Care | 358851 | [358851-forest-doesn-t-care.json](./358851-forest-doesn-t-care.json) |
 | Forest Escape | 74230 | [74230-forest-escape.json](./74230-forest-escape.json) |
 | Forest Escape: Last Train | 389724 | [389724-forest-escape-last-train.json](./389724-forest-escape-last-train.json) |
+| Forest Factory | 358893 | [358893-forest-factory.json](./358893-forest-factory.json) |
 | Forest Fantasy | 285542 | [285542-forest-fantasy.json](./285542-forest-fantasy.json) |
 | Forest Fire | 230941 | [230941-forest-fire.json](./230941-forest-fire.json) |
 | Forest Friends Match | 340231 | [340231-forest-friends-match.json](./340231-forest-friends-match.json) |
