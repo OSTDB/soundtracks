@@ -5339,6 +5339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Bermuda Triangle | 380694 | [380694-arcade-archives-bermuda-triangle.json](./380694-arcade-archives-bermuda-triangle.json) |
 | Arcade Archives: Blandia | 272855 | [272855-arcade-archives-blandia.json](./272855-arcade-archives-blandia.json) |
 | Arcade Archives: Block Hole | 142854 | [142854-arcade-archives-block-hole.json](./142854-arcade-archives-block-hole.json) |
+| Arcade Archives: Bomb Jack Twin | 386364 | [386364-arcade-archives-bomb-jack-twin.json](./386364-arcade-archives-bomb-jack-twin.json) |
 | Arcade Archives: Bonze Adventure | 242553 | [242553-arcade-archives-bonze-adventure.json](./242553-arcade-archives-bonze-adventure.json) |
 | Arcade Archives: Bosconian | 263187 | [263187-arcade-archives-bosconian.json](./263187-arcade-archives-bosconian.json) |
 | Arcade Archives: Bravoman | 252393 | [252393-arcade-archives-bravoman.json](./252393-arcade-archives-bravoman.json) |
