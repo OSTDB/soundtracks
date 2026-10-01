@@ -864,6 +864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden City | 151118 | [151118-garden-city.json](./151118-garden-city.json) |
 | Garden City Bundle | 295257 | [295257-garden-city-bundle.json](./295257-garden-city-bundle.json) |
 | Garden Eternal | 406903 | [406903-garden-eternal.json](./406903-garden-eternal.json) |
+| Garden for Glory: Collector's Edition | 337241 | [337241-garden-for-glory-collectors-edition.json](./337241-garden-for-glory-collectors-edition.json) |
 | Garden Gingdom | 386993 | [386993-garden-gingdom.json](./386993-garden-gingdom.json) |
 | Garden Hunt | 352263 | [352263-garden-hunt.json](./352263-garden-hunt.json) |
 | Garden In! | 198625 | [198625-garden-in.json](./198625-garden-in.json) |
@@ -3380,6 +3381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GooseGame.io | 327946 | [327946-goosegame-io.json](./327946-goosegame-io.json) |
 | GooseGogs | 92290 | [92290-goosegogs.json](./92290-goosegogs.json) |
 | Goospace | 240812 | [240812-goospace.json](./240812-goospace.json) |
+| Goosthetic | 337210 | [337210-goosthetic.json](./337210-goosthetic.json) |
 | Gop Stop Auto | 384172 | [384172-gop-stop-auto.json](./384172-gop-stop-auto.json) |
 | GoPets: Vacation Island | 124019 | [124019-gopets-vacation-island.json](./124019-gopets-vacation-island.json) |
 | Gopher | 22764 | [22764-gopher.json](./22764-gopher.json) |
