@@ -1389,7 +1389,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barry the Bunny | 151187 | [151187-barry-the-bunny.json](./151187-barry-the-bunny.json) |
 | Bars and Balance | 74672 | [74672-bars-and-balance.json](./74672-bars-and-balance.json) |
 | Bart Bash | 350404 | [350404-bart-bash.json](./350404-bart-bash.json) |
+| Bart Bike Fun | 365247 | [365247-bart-bike-fun.json](./365247-bart-bike-fun.json) |
 | Bart Bird | 26935 | [26935-bart-bird.json](./26935-bart-bird.json) |
+| Bart Simpson vs. Dragon Ball | 365245 | [365245-bart-simpson-vs-dragon-ball.json](./365245-bart-simpson-vs-dragon-ball.json) |
 | Bart's Nightmare Redux | 219272 | [219272-barts-nightmare-redux.json](./219272-barts-nightmare-redux.json) |
 | Bartender Hustle | 153899 | [153899-bartender-hustle.json](./153899-bartender-hustle.json) |
 | Bartender VR Simulator | 74216 | [74216-bartender-vr-simulator.json](./74216-bartender-vr-simulator.json) |
@@ -4287,6 +4289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Sector | 384777 | [384777-black-sector.json](./384777-black-sector.json) |
 | Black Shades | 26832 | [26832-black-shades.json](./26832-black-shades.json) |
 | Black Shadow | 14310 | [14310-black-shadow.json](./14310-black-shadow.json) |
+| Black Shadow | 365197 | [365197-black-shadow.json](./365197-black-shadow.json) |
 | Black Sheep | 172703 | [172703-black-sheep.json](./172703-black-sheep.json) |
 | Black Sheep | 202262 | [202262-black-sheep.json](./202262-black-sheep.json) |
 | Black Sheep Town | 217805 | [217805-black-sheep-town.json](./217805-black-sheep-town.json) |
@@ -8291,6 +8294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buriki One | 28139 | [28139-buriki-one.json](./28139-buriki-one.json) |
 | Burlesque | 292650 | [292650-burlesque.json](./292650-burlesque.json) |
 | Burn | 311118 | [311118-burn.json](./311118-burn.json) |
+| Burn | 365241 | [365241-burn.json](./365241-burn.json) |
 | Burn Ban | 104776 | [104776-burn-ban.json](./104776-burn-ban.json) |
 | Burn Depth | 203891 | [203891-burn-depth.json](./203891-burn-depth.json) |
 | Burn It Down | 47991 | [47991-burn-it-down.json](./47991-burn-it-down.json) |
