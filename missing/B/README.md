@@ -6615,6 +6615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncy Egg | 96287 | [96287-bouncy-egg.json](./96287-bouncy-egg.json) |
 | Bouncy Goal | 242219 | [242219-bouncy-goal.json](./242219-bouncy-goal.json) |
 | Bouncy Kingdoms | 397768 | [397768-bouncy-kingdoms.json](./397768-bouncy-kingdoms.json) |
+| Bouncy Pork Simulator | 339394 | [339394-bouncy-pork-simulator.json](./339394-bouncy-pork-simulator.json) |
 | Bouncy Smash | 89184 | [89184-bouncy-smash.json](./89184-bouncy-smash.json) |
 | Bouncy! Trampoline | 233520 | [233520-bouncy-trampoline.json](./233520-bouncy-trampoline.json) |
 | Bouncy's Abyssal Excursion | 382455 | [382455-bouncys-abyssal-excursion.json](./382455-bouncys-abyssal-excursion.json) |
@@ -8050,6 +8051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buggy Off-Road: Power Edition | 395675 | [395675-buggy-off-road-power-edition.json](./395675-buggy-off-road-power-edition.json) |
 | Buggy Race: Racing Master | 288308 | [288308-buggy-race-racing-master.json](./288308-buggy-race-racing-master.json) |
 | Buggy Racers | 276801 | [276801-buggy-racers.json](./276801-buggy-racers.json) |
+| Buggy10 | 339397 | [339397-buggy10.json](./339397-buggy10.json) |
 | Bughouse | 208363 | [208363-bughouse.json](./208363-bughouse.json) |
 | BugLab Simulator | 380120 | [380120-buglab-simulator.json](./380120-buglab-simulator.json) |
 | Bugs | 332238 | [332238-bugs.json](./332238-bugs.json) |
