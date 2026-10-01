@@ -1835,6 +1835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Karting | 366951 | [366951-cat-karting.json](./366951-cat-karting.json) |
 | Cat Killer | 249176 | [249176-cat-killer.json](./249176-cat-killer.json) |
 | Cat Knights | 90096 | [90096-cat-knights.json](./90096-cat-knights.json) |
+| Cat Lab! | 344527 | [344527-cat-lab.json](./344527-cat-lab.json) |
 | Cat Lady | 119282 | [119282-cat-lady.json](./119282-cat-lady.json) |
 | Cat Lady: The Card Game | 129839 | [129839-cat-lady-the-card-game.json](./129839-cat-lady-the-card-game.json) |
 | Cat Legend | 274554 | [274554-cat-legend.json](./274554-cat-legend.json) |
@@ -2868,6 +2869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chart Wars 3 | 78094 | [78094-chart-wars-3.json](./78094-chart-wars-3.json) |
 | Chart Weaver | 382892 | [382892-chart-weaver.json](./382892-chart-weaver.json) |
 | Chart1647 | 242654 | [242654-chart1647.json](./242654-chart1647.json) |
+| Charta Dungeon: Ambidextrous | 344514 | [344514-charta-dungeon-ambidextrous.json](./344514-charta-dungeon-ambidextrous.json) |
 | Charterstone: Digital Edition | 117869 | [117869-charterstone-digital-edition.json](./117869-charterstone-digital-edition.json) |
 | Chase | 195500 | [195500-chase.json](./195500-chase.json) |
 | Chase | 253998 | [253998-chase.json](./253998-chase.json) |
@@ -3968,7 +3970,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronomon | 244487 | [244487-chronomon.json](./244487-chronomon.json) |
 | Chronon | 109896 | [109896-chronon.json](./109896-chronon.json) |
 | Chronophobia | 122341 | [122341-chronophobia.json](./122341-chronophobia.json) |
+| Chronophobia | 344430 | [344430-chronophobia.json](./344430-chronophobia.json) |
 | Chronophoto | 237530 | [237530-chronophoto.json](./237530-chronophoto.json) |
+| Chronoquartz | 344500 | [344500-chronoquartz.json](./344500-chronoquartz.json) |
 | Chronos | 18974 | [18974-chronos.json](./18974-chronos.json) |
 | Chronos Materia | 63261 | [63261-chronos-materia.json](./63261-chronos-materia.json) |
 | Chronos Shift | 350528 | [350528-chronos-shift.json](./350528-chronos-shift.json) |
@@ -9233,6 +9237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuppy Coffee Sim | 359620 | [359620-cuppy-coffee-sim.json](./359620-cuppy-coffee-sim.json) |
 | Cuprum2929 | 311131 | [311131-cuprum2929.json](./311131-cuprum2929.json) |
 | Cura | 287792 | [287792-cura.json](./287792-cura.json) |
+| Cure for Death | 344526 | [344526-cure-for-death.json](./344526-cure-for-death.json) |
 | Cure Girl | 127963 | [127963-cure-girl.json](./127963-cure-girl.json) |
 | Cure Mate Club | 63875 | [63875-cure-mate-club.json](./63875-cure-mate-club.json) |
 | Cure: A Hospital Simulator | 376110 | [376110-cure-a-hospital-simulator.json](./376110-cure-a-hospital-simulator.json) |
