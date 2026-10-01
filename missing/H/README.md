@@ -967,6 +967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harold Rabbit 2: The Case of the Pastry Pirate | 371448 | [371448-harold-rabbit-2-the-case-of-the-pastry-pirate.json](./371448-harold-rabbit-2-the-case-of-the-pastry-pirate.json) |
 | Harp | 145597 | [145597-harp.json](./145597-harp.json) |
 | Harp | 72346 | [72346-harp.json](./72346-harp.json) |
+| Harp & Chrysanthemum | 356213 | [356213-harp-and-chrysanthemum.json](./356213-harp-and-chrysanthemum.json) |
 | Harpoon & Battleset 2 | 92827 | [92827-harpoon-and-battleset-2.json](./92827-harpoon-and-battleset-2.json) |
 | Harpoon Cat | 104835 | [104835-harpoon-cat.json](./104835-harpoon-cat.json) |
 | Harpoon Classic | 92996 | [92996-harpoon-classic.json](./92996-harpoon-classic.json) |
@@ -3849,6 +3850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiscores! Gold | 118999 | [118999-hiscores-gold.json](./118999-hiscores-gold.json) |
 | Hisou Kihei Kai Serd | 42034 | [42034-hisou-kihei-kai-serd.json](./42034-hisou-kihei-kai-serd.json) |
 | Hispania 1200 | 356167 | [356167-hispania-1200.json](./356167-hispania-1200.json) |
+| Hispania in the Middle Ages | 356238 | [356238-hispania-in-the-middle-ages.json](./356238-hispania-in-the-middle-ages.json) |
 | Hiss & Hunt | 348434 | [348434-hiss-and-hunt.json](./348434-hiss-and-hunt.json) |
 | Hissatsu Buraiken | 40195 | [40195-hissatsu-buraiken.json](./40195-hissatsu-buraiken.json) |
 | Hissatsu Pachi-Slot Evolution: Ninja Hattori-kun V | 58322 | [58322-hissatsu-pachi-slot-evolution-ninja-hattori-kun-v.json](./58322-hissatsu-pachi-slot-evolution-ninja-hattori-kun-v.json) |
