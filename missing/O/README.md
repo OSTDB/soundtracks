@@ -2643,6 +2643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outscore | 182529 | [182529-outscore.json](./182529-outscore.json) |
 | Outscratched | 404375 | [404375-outscratched.json](./404375-outscratched.json) |
 | Outshine | 192359 | [192359-outshine.json](./192359-outshine.json) |
+| Outside | 339895 | [339895-outside.json](./339895-outside.json) |
 | Outside | 385260 | [385260-outside.json](./385260-outside.json) |
 | Outside of Our Own | 184127 | [184127-outside-of-our-own.json](./184127-outside-of-our-own.json) |
 | Outside the Blocks | 245868 | [245868-outside-the-blocks.json](./245868-outside-the-blocks.json) |
