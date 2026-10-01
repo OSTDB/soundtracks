@@ -2615,6 +2615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 13th Floor | 356709 | [356709-the-13th-floor.json](./356709-the-13th-floor.json) |
 | The 13th Heir - Ragnarok Chapter 2 | 76503 | [76503-the-13th-heir-ragnarok-chapter-2.json](./76503-the-13th-heir-ragnarok-chapter-2.json) |
 | The 13th Month | 166148 | [166148-the-13th-month.json](./166148-the-13th-month.json) |
+| The 18th Attic | 346707 | [346707-the-18th-attic.json](./346707-the-18th-attic.json) |
 | The 2018 Fantastic Arcade Bundle | 267967 | [267967-the-2018-fantastic-arcade-bundle.json](./267967-the-2018-fantastic-arcade-bundle.json) |
 | The 2020 Trail | 157151 | [157151-the-2020-trail.json](./157151-the-2020-trail.json) |
 | The 2030 Proto-Interfacer's Guide to House-Oriented Emotional Exploration | 283711 | [283711-the-2030-proto-interfacers-guide-to-house-oriented-emotional-exploration.json](./283711-the-2030-proto-interfacers-guide-to-house-oriented-emotional-exploration.json) |
@@ -4722,6 +4723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forgotten World | 244348 | [244348-the-forgotten-world.json](./244348-the-forgotten-world.json) |
 | The Forgotten: It Begins | 73526 | [73526-the-forgotten-it-begins.json](./73526-the-forgotten-it-begins.json) |
 | The Forlorn | 415163 | [415163-the-forlorn.json](./415163-the-forlorn.json) |
+| The Fortress | 346730 | [346730-the-fortress.json](./346730-the-fortress.json) |
 | The Fortune Teller Game | 342178 | [342178-the-fortune-teller-game.json](./342178-the-fortune-teller-game.json) |
 | The Found Magic | 386426 | [386426-the-found-magic.json](./386426-the-found-magic.json) |
 | The Founders of Daytona Beach Also Founded Dayton, Ohio | 360606 | [360606-the-founders-of-daytona-beach-also-founded-dayton-ohio.json](./360606-the-founders-of-daytona-beach-also-founded-dayton-ohio.json) |
@@ -12632,6 +12634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Football | 46184 | [46184-total-football.json](./46184-total-football.json) |
 | Total Football Management | 94320 | [94320-total-football-management.json](./94320-total-football-management.json) |
 | Total Football Online | 406683 | [406683-total-football-online.json](./406683-total-football-online.json) |
+| Total Fucking Psychopath | 346639 | [346639-total-fucking-psychopath.json](./346639-total-fucking-psychopath.json) |
 | Total Immersion Racing | 6212 | [6212-total-immersion-racing.json](./6212-total-immersion-racing.json) |
 | Total Incremental Battle | 390134 | [390134-total-incremental-battle.json](./390134-total-incremental-battle.json) |
 | Total Miner | 77339 | [77339-total-miner.json](./77339-total-miner.json) |
