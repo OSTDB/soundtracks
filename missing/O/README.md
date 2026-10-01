@@ -390,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of the Devil: Episode 0 | 383570 | [383570-of-the-devil-episode-0.json](./383570-of-the-devil-episode-0.json) |
 | Of the Devil: Episode 1 | 330913 | [330913-of-the-devil-episode-1.json](./330913-of-the-devil-episode-1.json) |
 | Of the Devil: Episode 3 | 383566 | [383566-of-the-devil-episode-3.json](./383566-of-the-devil-episode-3.json) |
+| Of The Lilies | 341078 | [341078-of-the-lilies.json](./341078-of-the-lilies.json) |
 | Of the Red, the Light, and the Ayakashi Tsuzuri | 62190 | [62190-of-the-red-the-light-and-the-ayakashi-tsuzuri.json](./62190-of-the-red-the-light-and-the-ayakashi-tsuzuri.json) |
 | Of Three Plantagenets | 271848 | [271848-of-three-plantagenets.json](./271848-of-three-plantagenets.json) |
 | Off | 24930 | [24930-off.json](./24930-off.json) |
@@ -908,6 +909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OMON Simulator | 122859 | [122859-omon-simulator.json](./122859-omon-simulator.json) |
 | OmOneko | 335651 | [335651-omoneko.json](./335651-omoneko.json) |
 | Omori | 26673 | [26673-omori.json](./26673-omori.json) |
+| Omori: The Dreamer | 341101 | [341101-omori-the-dreamer.json](./341101-omori-the-dreamer.json) |
 | Omoshiro Action: Ii Otona-tachi no Daibouken | 222251 | [222251-omoshiro-action-ii-otona-tachi-no-daibouken.json](./222251-omoshiro-action-ii-otona-tachi-no-daibouken.json) |
 | Omoshiroi Moro | 259826 | [259826-omoshiroi-moro.json](./259826-omoshiroi-moro.json) |
 | OMSI 2: Aachen | 155135 | [155135-omsi-2-aachen.json](./155135-omsi-2-aachen.json) |
