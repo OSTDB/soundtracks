@@ -1128,6 +1128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Iced Latte With Your Breast Milk, Please! | 296688 | [296688-one-iced-latte-with-your-breast-milk-please.json](./296688-one-iced-latte-with-your-breast-milk-please.json) |
 | One in 20,000 Raindrops | 405674 | [405674-one-in-20-000-raindrops.json](./405674-one-in-20-000-raindrops.json) |
 | One in a Trillion | 146873 | [146873-one-in-a-trillion.json](./146873-one-in-a-trillion.json) |
+| One in the Back | 370247 | [370247-one-in-the-back.json](./370247-one-in-the-back.json) |
 | One Just Night | 278487 | [278487-one-just-night.json](./278487-one-just-night.json) |
 | One Last Adventure | 294808 | [294808-one-last-adventure.json](./294808-one-last-adventure.json) |
 | One Last Chance | 33057 | [33057-one-last-chance.json](./33057-one-last-chance.json) |
