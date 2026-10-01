@@ -474,10 +474,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danganronpa: Eternal Endings | 304347 | [304347-danganronpa-eternal-endings.json](./304347-danganronpa-eternal-endings.json) |
 | Danganronpa: Fandom's Calling | 338724 | [338724-danganronpa-fandoms-calling.json](./338724-danganronpa-fandoms-calling.json) |
 | Danganronpa: Gods at Gunpoint | 341110 | [341110-danganronpa-gods-at-gunpoint.json](./341110-danganronpa-gods-at-gunpoint.json) |
+| Danganronpa: Hope Restoration | 341105 | [341105-danganronpa-hope-restoration.json](./341105-danganronpa-hope-restoration.json) |
 | Danganronpa: Lapse | 243221 | [243221-danganronpa-lapse.json](./243221-danganronpa-lapse.json) |
 | Danganronpa: Live or Die | 270679 | [270679-danganronpa-live-or-die.json](./270679-danganronpa-live-or-die.json) |
 | Danganronpa: Monokuma Strikes Back | 299839 | [299839-danganronpa-monokuma-strikes-back.json](./299839-danganronpa-monokuma-strikes-back.json) |
 | Danganronpa: Salvation's Fears | 338840 | [338840-danganronpa-salvations-fears.json](./338840-danganronpa-salvations-fears.json) |
+| Danganronpa: Survivor's Guilt | 341080 | [341080-danganronpa-survivors-guilt.json](./341080-danganronpa-survivors-guilt.json) |
 | Danger and Deadlier | 336700 | [336700-danger-and-deadlier.json](./336700-danger-and-deadlier.json) |
 | Danger Bounce | 26607 | [26607-danger-bounce.json](./26607-danger-bounce.json) |
 | Danger City | 279591 | [279591-danger-city.json](./279591-danger-city.json) |
@@ -578,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dànzhàrén 2222 | 81758 | [81758-danzharen-2222.json](./81758-danzharen-2222.json) |
 | Dāo Qūqū | 374621 | [374621-dao-ququ.json](./374621-dao-ququ.json) |
 | Dào zhī Zhàn | 367570 | [367570-dao-zhi-zhan.json](./367570-dao-zhi-zhan.json) |
+| Dapithapon | 341088 | [341088-dapithapon.json](./341088-dapithapon.json) |
 | Darco: Reign of Elements | 90092 | [90092-darco-reign-of-elements.json](./90092-darco-reign-of-elements.json) |
 | Dardeep | 232967 | [232967-dardeep.json](./232967-dardeep.json) |
 | Dare | 130352 | [130352-dare.json](./130352-dare.json) |
@@ -2582,6 +2585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender II | 182401 | [182401-defender-ii.json](./182401-defender-ii.json) |
 | Defender II | 344003 | [344003-defender-ii.json](./344003-defender-ii.json) |
 | Defender II | 48902 | [48902-defender-ii.json](./48902-defender-ii.json) |
+| Defender of Diosa | 341090 | [341090-defender-of-diosa.json](./341090-defender-of-diosa.json) |
 | Defender of Falyndor | 311604 | [311604-defender-of-falyndor.json](./311604-defender-of-falyndor.json) |
 | Defender of Freedom | 65734 | [65734-defender-of-freedom.json](./65734-defender-of-freedom.json) |
 | Defender of the Crown | 1873 | [1873-defender-of-the-crown.json](./1873-defender-of-the-crown.json) |
@@ -4153,6 +4157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig to Escape: Obby | 393059 | [393059-dig-to-escape-obby.json](./393059-dig-to-escape-obby.json) |
 | Dig VR | 299295 | [299295-dig-vr.json](./299295-dig-vr.json) |
 | DIG: Deep In Galaxies | 228455 | [228455-dig-deep-in-galaxies.json](./228455-dig-deep-in-galaxies.json) |
+| Dig! | 341070 | [341070-dig.json](./341070-dig.json) |
 | Dig!t | 232042 | [232042-dig-t.json](./232042-dig-t.json) |
 | Dig2China | 247515 | [247515-dig2china.json](./247515-dig2china.json) |
 | Digan no Maseki | 107632 | [107632-digan-no-maseki.json](./107632-digan-no-maseki.json) |
@@ -6264,6 +6269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dor | 84278 | [84278-dor.json](./84278-dor.json) |
 | Dora & Kai-Lan's Pet Shelter | 97372 | [97372-dora-and-kai-lans-pet-shelter.json](./97372-dora-and-kai-lans-pet-shelter.json) |
 | Dora and the Three Little Pigs | 231378 | [231378-dora-and-the-three-little-pigs.json](./231378-dora-and-the-three-little-pigs.json) |
+| Dora Is Dead | 341089 | [341089-dora-is-dead.json](./341089-dora-is-dead.json) |
 | Dora Kazu: Nobita no Suuji Daibouken | 142282 | [142282-dora-kazu-nobita-no-suuji-daibouken.json](./142282-dora-kazu-nobita-no-suuji-daibouken.json) |
 | Dora Laparoscopic Appendectomy | 343935 | [343935-dora-laparoscopic-appendectomy.json](./343935-dora-laparoscopic-appendectomy.json) |
 | Dora Star Explorer | 406776 | [406776-dora-star-explorer.json](./406776-dora-star-explorer.json) |
