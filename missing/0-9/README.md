@@ -220,13 +220,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Cats Lost in Canada 2 | 359033 | [359033-100-cats-lost-in-canada-2.json](./359033-100-cats-lost-in-canada-2.json) |
 | 100 Cats Lost in Circus Escape | 359030 | [359030-100-cats-lost-in-circus-escape.json](./359030-100-cats-lost-in-circus-escape.json) |
 | 100 Cats Lost in Da Vinci’s Workshop | 359052 | [359052-100-cats-lost-in-da-vinci-s-workshop.json](./359052-100-cats-lost-in-da-vinci-s-workshop.json) |
+| 100 Cats Lost in Funfair Frenzy | 359027 | [359027-100-cats-lost-in-funfair-frenzy.json](./359027-100-cats-lost-in-funfair-frenzy.json) |
 | 100 Cats Lost in Halloween Havoc | 359035 | [359035-100-cats-lost-in-halloween-havoc.json](./359035-100-cats-lost-in-halloween-havoc.json) |
 | 100 Cats Lost in Modern Art Mayhem | 359029 | [359029-100-cats-lost-in-modern-art-mayhem.json](./359029-100-cats-lost-in-modern-art-mayhem.json) |
+| 100 Cats Lost in Picasso’s Cubic World | 359026 | [359026-100-cats-lost-in-picasso-s-cubic-world.json](./359026-100-cats-lost-in-picasso-s-cubic-world.json) |
 | 100 Cats Lost In Poland: Extra Content | 359562 | [359562-100-cats-lost-in-poland-extra-content.json](./359562-100-cats-lost-in-poland-extra-content.json) |
 | 100 Cats Lost in Surreal Dreamscape | 359032 | [359032-100-cats-lost-in-surreal-dreamscape.json](./359032-100-cats-lost-in-surreal-dreamscape.json) |
 | 100 Cats Lost in the 19th Century Find & Color | 359050 | [359050-100-cats-lost-in-the-19th-century-find-and-color.json](./359050-100-cats-lost-in-the-19th-century-find-and-color.json) |
 | 100 Cats Lost in the Future Find & Color | 359034 | [359034-100-cats-lost-in-the-future-find-and-color.json](./359034-100-cats-lost-in-the-future-find-and-color.json) |
 | 100 Cats Lost in the Stone Age Find & Color | 359053 | [359053-100-cats-lost-in-the-stone-age-find-and-color.json](./359053-100-cats-lost-in-the-stone-age-find-and-color.json) |
+| 100 Cats Lost in Toyland Trouble | 359028 | [359028-100-cats-lost-in-toyland-trouble.json](./359028-100-cats-lost-in-toyland-trouble.json) |
 | 100 Cats Pakistan | 283867 | [283867-100-cats-pakistan.json](./283867-100-cats-pakistan.json) |
 | 100 Chernobyl Cats | 375450 | [375450-100-chernobyl-cats.json](./375450-100-chernobyl-cats.json) |
 | 100 Chests | 101332 | [101332-100-chests.json](./101332-100-chests.json) |
