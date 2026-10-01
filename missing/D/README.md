@@ -8630,6 +8630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dust On Thorn | 405737 | [405737-dust-on-thorn.json](./405737-dust-on-thorn.json) |
 | Dust Raiders | 260175 | [260175-dust-raiders.json](./260175-dust-raiders.json) |
 | Dust to Dusk | 138831 | [138831-dust-to-dusk.json](./138831-dust-to-dusk.json) |
+| Dust to Dust | 382967 | [382967-dust-to-dust.json](./382967-dust-to-dust.json) |
 | Dust to Dust | 385854 | [385854-dust-to-dust.json](./385854-dust-to-dust.json) |
 | Dust Town | 386227 | [386227-dust-town.json](./386227-dust-town.json) |
 | Dust: An Elysian Tail | 2130 | [2130-dust-an-elysian-tail.json](./2130-dust-an-elysian-tail.json) |
