@@ -2319,6 +2319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global Soccer Manager 2018 | 89413 | [89413-global-soccer-manager-2018.json](./89413-global-soccer-manager-2018.json) |
 | Global Soccer Manager 2019 | 116870 | [116870-global-soccer-manager-2019.json](./116870-global-soccer-manager-2019.json) |
 | Global Strike | 125896 | [125896-global-strike.json](./125896-global-strike.json) |
+| Global Thermonuclear War | 382997 | [382997-global-thermonuclear-war.json](./382997-global-thermonuclear-war.json) |
 | Global Transport | 329388 | [329388-global-transport.json](./329388-global-transport.json) |
 | Global War | 79605 | [79605-global-war.json](./79605-global-war.json) |
 | Globat Pixels | 115676 | [115676-globat-pixels.json](./115676-globat-pixels.json) |
@@ -2507,6 +2508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Fish! | 40717 | [40717-go-fish.json](./40717-go-fish.json) |
 | Go Go Ackman | 15926 | [15926-go-go-ackman.json](./15926-go-go-ackman.json) |
 | Go Go Ackman | 83923 | [83923-go-go-ackman.json](./83923-go-go-ackman.json) |
+| Go Go Burunyanman Ecstasy!!! | 383005 | [383005-go-go-burunyanman-ecstasy.json](./383005-go-go-burunyanman-ecstasy.json) |
 | Go Go Galago | 61732 | [61732-go-go-galago.json](./61732-go-go-galago.json) |
 | Go Go Jump!! | 244221 | [244221-go-go-jump.json](./244221-go-go-jump.json) |
 | Go go mr yamaguchi | 39811 | [39811-go-go-mr-yamaguchi.json](./39811-go-go-mr-yamaguchi.json) |
