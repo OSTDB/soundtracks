@@ -6732,6 +6732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Cell | 224657 | [224657-small-cell.json](./224657-small-cell.json) |
 | Small Islands | 176339 | [176339-small-islands.json](./176339-small-islands.json) |
 | Small Kingdoms | 262959 | [262959-small-kingdoms.json](./262959-small-kingdoms.json) |
+| Small Living World 2 | 355699 | [355699-small-living-world-2.json](./355699-small-living-world-2.json) |
 | Small Maze | 311603 | [311603-small-maze.json](./311603-small-maze.json) |
 | Small Mouse Big House | 378402 | [378402-small-mouse-big-house.json](./378402-small-mouse-big-house.json) |
 | Small Nights | 253397 | [253397-small-nights.json](./253397-small-nights.json) |
