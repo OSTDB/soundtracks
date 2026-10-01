@@ -405,6 +405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FaithEater | 301372 | [301372-faitheater.json](./301372-faitheater.json) |
 | Faithfall | 401662 | [401662-faithfall.json](./401662-faithfall.json) |
 | Faithful Backrooms | 212883 | [212883-faithful-backrooms.json](./212883-faithful-backrooms.json) |
+| Fake Azure Arcology | 381773 | [381773-fake-azure-arcology.json](./381773-fake-azure-arcology.json) |
 | Fake Block | 96711 | [96711-fake-block.json](./96711-fake-block.json) |
 | Fake Colours | 28351 | [28351-fake-colours.json](./28351-fake-colours.json) |
 | Fake Ducks: Spooky Chronicles | 322398 | [322398-fake-ducks-spooky-chronicles.json](./322398-fake-ducks-spooky-chronicles.json) |
