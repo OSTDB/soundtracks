@@ -1261,6 +1261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted PS1 Madvent Calendar 2020 | 141758 | [141758-haunted-ps1-madvent-calendar-2020.json](./141758-haunted-ps1-madvent-calendar-2020.json) |
 | Haunted Record | 304608 | [304608-haunted-record.json](./304608-haunted-record.json) |
 | Haunted ROM: The Lost Cartridge | 363042 | [363042-haunted-rom-the-lost-cartridge.json](./363042-haunted-rom-the-lost-cartridge.json) |
+| Haunted Science: Welcome To I.R.H.I.A. | 359003 | [359003-haunted-science-welcome-to-i-r-h-i-a.json](./359003-haunted-science-welcome-to-i-r-h-i-a.json) |
 | Haunted Service | 387601 | [387601-haunted-service.json](./387601-haunted-service.json) |
 | Haunted Space Hotel: Vacancy | 330508 | [330508-haunted-space-hotel-vacancy.json](./330508-haunted-space-hotel-vacancy.json) |
 | Haunted Starbase | 317360 | [317360-haunted-starbase.json](./317360-haunted-starbase.json) |
@@ -4482,6 +4483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hong Gildong-jeon 2 | 297656 | [297656-hong-gildong-jeon-2.json](./297656-hong-gildong-jeon-2.json) |
 | Hong Kong | 47251 | [47251-hong-kong.json](./47251-hong-kong.json) |
 | Hong Kong 97 | 9616 | [9616-hong-kong-97.json](./9616-hong-kong-97.json) |
+| Hong Kong Haunting: Fishball Girl | 358993 | [358993-hong-kong-haunting-fishball-girl.json](./358993-hong-kong-haunting-fishball-girl.json) |
 | Hong Kong Mahjong | 334661 | [334661-hong-kong-mahjong.json](./334661-hong-kong-mahjong.json) |
 | Hong Kong Mahjong Pro | 79933 | [79933-hong-kong-mahjong-pro.json](./79933-hong-kong-mahjong-pro.json) |
 | Hong Kong Obscure | 245861 | [245861-hong-kong-obscure.json](./245861-hong-kong-obscure.json) |
@@ -4522,6 +4524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai: Star Rail - A New Venture on the Eighth Dawn | 322770 | [322770-honkai-star-rail-a-new-venture-on-the-eighth-dawn.json](./322770-honkai-star-rail-a-new-venture-on-the-eighth-dawn.json) |
 | Honkai: Star Rail - As Tomorrow Became Yesterday | 375253 | [375253-honkai-star-rail-as-tomorrow-became-yesterday.json](./375253-honkai-star-rail-as-tomorrow-became-yesterday.json) |
 | Honkai: Star Rail - Back to Earth in Evernight | 366942 | [366942-honkai-star-rail-back-to-earth-in-evernight.json](./366942-honkai-star-rail-back-to-earth-in-evernight.json) |
+| Honkai: Star Rail - Before Their Deaths | 358980 | [358980-honkai-star-rail-before-their-deaths.json](./358980-honkai-star-rail-before-their-deaths.json) |
 | Honkai: Star Rail - Celestial Eyes Above Mortal Ruins | 262114 | [262114-honkai-star-rail-celestial-eyes-above-mortal-ruins.json](./262114-honkai-star-rail-celestial-eyes-above-mortal-ruins.json) |
 | Honkai: Star Rail - Crown of the Mundane and Divine | 279644 | [279644-honkai-star-rail-crown-of-the-mundane-and-divine.json](./279644-honkai-star-rail-crown-of-the-mundane-and-divine.json) |
 | Honkai: Star Rail - Even Immortality Ends | 256760 | [256760-honkai-star-rail-even-immortality-ends.json](./256760-honkai-star-rail-even-immortality-ends.json) |
