@@ -1040,6 +1040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TankHead | 324944 | [324944-tankhead.json](./324944-tankhead.json) |
 | Tanki X | 29163 | [29163-tanki-x.json](./29163-tanki-x.json) |
 | Tanking Tanks | 112375 | [112375-tanking-tanks.json](./112375-tanking-tanks.json) |
+| Tankiro | 346179 | [346179-tankiro.json](./346179-tankiro.json) |
 | Tankitos | 201788 | [201788-tankitos.json](./201788-tankitos.json) |
 | Tankman | 121635 | [121635-tankman.json](./121635-tankman.json) |
 | Tankomatron War Robots: Transform Tanks into Bots | 104634 | [104634-tankomatron-war-robots-transform-tanks-into-bots.json](./104634-tankomatron-war-robots-transform-tanks-into-bots.json) |
@@ -3289,6 +3290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Book of Commands: Lost Symbol | 32894 | [32894-the-book-of-commands-lost-symbol.json](./32894-the-book-of-commands-lost-symbol.json) |
 | The Book of Death for Dummies | 273643 | [273643-the-book-of-death-for-dummies.json](./273643-the-book-of-death-for-dummies.json) |
 | The Book of Outcasts | 397697 | [397697-the-book-of-outcasts.json](./397697-the-book-of-outcasts.json) |
+| The Book of Plagues | 346180 | [346180-the-book-of-plagues.json](./346180-the-book-of-plagues.json) |
 | The Book of Prosperity | 404356 | [404356-the-book-of-prosperity.json](./404356-the-book-of-prosperity.json) |
 | The Book of Weapons | 197360 | [197360-the-book-of-weapons.json](./197360-the-book-of-weapons.json) |
 | The Book of Yorle: Save the Village | 169964 | [169964-the-book-of-yorle-save-the-village.json](./169964-the-book-of-yorle-save-the-village.json) |
@@ -5122,6 +5124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Heartbeat | 149610 | [149610-the-heartbeat.json](./149610-the-heartbeat.json) |
 | The Hearth and Harbour | 366973 | [366973-the-hearth-and-harbour.json](./366973-the-hearth-and-harbour.json) |
 | The Heat | 206752 | [206752-the-heat.json](./206752-the-heat.json) |
+| The Heaven | 346207 | [346207-the-heaven.json](./346207-the-heaven.json) |
 | The Heavens | 366303 | [366303-the-heavens.json](./366303-the-heavens.json) |
 | The Hedgehogs | 99405 | [99405-the-hedgehogs.json](./99405-the-hedgehogs.json) |
 | The Heights | 244504 | [244504-the-heights.json](./244504-the-heights.json) |
@@ -11729,6 +11732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the Mountain | 331128 | [331128-to-the-mountain.json](./331128-to-the-mountain.json) |
 | To the Ones We Lost | 186600 | [186600-to-the-ones-we-lost.json](./186600-to-the-ones-we-lost.json) |
 | To the Rescue | 359443 | [359443-to-the-rescue.json](./359443-to-the-rescue.json) |
+| To The Rescue | 346184 | [346184-to-the-rescue.json](./346184-to-the-rescue.json) |
 | To the Rescue! | 91306 | [91306-to-the-rescue.json](./91306-to-the-rescue.json) |
 | To the Rescue! 2 | 99379 | [99379-to-the-rescue-2.json](./99379-to-the-rescue-2.json) |
 | To the Rescue! 3 | 96038 | [96038-to-the-rescue-3.json](./96038-to-the-rescue-3.json) |
@@ -13164,6 +13168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of the Sorceror | 202778 | [202778-tower-of-the-sorceror.json](./202778-tower-of-the-sorceror.json) |
 | Tower of Titans | 375320 | [375320-tower-of-titans.json](./375320-tower-of-titans.json) |
 | Tower of Tori | 339289 | [339289-tower-of-tori.json](./339289-tower-of-tori.json) |
+| Tower of Trample | 346168 | [346168-tower-of-trample.json](./346168-tower-of-trample.json) |
 | Tower of unlife | 180831 | [180831-tower-of-unlife.json](./180831-tower-of-unlife.json) |
 | Tower of Waifus 2 | 148565 | [148565-tower-of-waifus-2.json](./148565-tower-of-waifus-2.json) |
 | Tower of Winter | 240885 | [240885-tower-of-winter.json](./240885-tower-of-winter.json) |
@@ -15008,6 +15013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tritorn II: Road of Darkness | 67399 | [67399-tritorn-ii-road-of-darkness.json](./67399-tritorn-ii-road-of-darkness.json) |
 | TriTryst | 79189 | [79189-tritryst.json](./79189-tritryst.json) |
 | Triumph | 184041 | [184041-triumph.json](./184041-triumph.json) |
+| Triumvora | 346200 | [346200-triumvora.json](./346200-triumvora.json) |
 | Triuno Ascend | 398334 | [398334-triuno-ascend.json](./398334-triuno-ascend.json) |
 | Triversal | 143605 | [143605-triversal.json](./143605-triversal.json) |
 | Trivia | 110820 | [110820-trivia.json](./110820-trivia.json) |
