@@ -4669,9 +4669,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunatic Dawn FX | 66181 | [66181-lunatic-dawn-fx.json](./66181-lunatic-dawn-fx.json) |
 | Lunatic Dawn II | 66182 | [66182-lunatic-dawn-ii.json](./66182-lunatic-dawn-ii.json) |
 | Lunatic Dawn III | 66180 | [66180-lunatic-dawn-iii.json](./66180-lunatic-dawn-iii.json) |
+| Lunatic Dawn IV | 375376 | [375376-lunatic-dawn-iv.json](./375376-lunatic-dawn-iv.json) |
 | Lunatic Dawn Odyssey | 66179 | [66179-lunatic-dawn-odyssey.json](./66179-lunatic-dawn-odyssey.json) |
 | Lunatic Dawn Tempest | 66178 | [66178-lunatic-dawn-tempest.json](./66178-lunatic-dawn-tempest.json) |
 | Lunatic Dawn: Passage of the Book | 229141 | [229141-lunatic-dawn-passage-of-the-book.json](./229141-lunatic-dawn-passage-of-the-book.json) |
+| Lunatic Dawn: The Third Book | 375378 | [375378-lunatic-dawn-the-third-book.json](./375378-lunatic-dawn-the-third-book.json) |
 | Lunatic Fringe | 133956 | [133956-lunatic-fringe.json](./133956-lunatic-fringe.json) |
 | Lunatic Rave 2 | 79901 | [79901-lunatic-rave-2.json](./79901-lunatic-rave-2.json) |
 | Lunch Box | 221734 | [221734-lunch-box.json](./221734-lunch-box.json) |
