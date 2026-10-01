@@ -5772,6 +5772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minds Define Us | 414511 | [414511-minds-define-us.json](./414511-minds-define-us.json) |
 | Minds of Nations | 128985 | [128985-minds-of-nations.json](./128985-minds-of-nations.json) |
 | MindScape: Verenna | 274760 | [274760-mindscape-verenna.json](./274760-mindscape-verenna.json) |
+| Mindscapes VR | 347298 | [347298-mindscapes-vr.json](./347298-mindscapes-vr.json) |
 | Mindscorn | 374753 | [374753-mindscorn.json](./374753-mindscorn.json) |
 | Mindset | 68616 | [68616-mindset.json](./68616-mindset.json) |
 | Mindseye Blacklisted | 400290 | [400290-mindseye-blacklisted.json](./400290-mindseye-blacklisted.json) |
@@ -7877,6 +7878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Surfing | 101519 | [101519-moon-surfing.json](./101519-moon-surfing.json) |
 | Moon Thirst | 310177 | [310177-moon-thirst.json](./310177-moon-thirst.json) |
 | Moon Tower: Gotta Save the Universe Real Quick | 287224 | [287224-moon-tower-gotta-save-the-universe-real-quick.json](./287224-moon-tower-gotta-save-the-universe-real-quick.json) |
+| Moon Tropica | 347210 | [347210-moon-tropica.json](./347210-moon-tropica.json) |
 | Moon Tycoon | 120150 | [120150-moon-tycoon.json](./120150-moon-tycoon.json) |
 | Moon Village | 119639 | [119639-moon-village.json](./119639-moon-village.json) |
 | Moon Waltz | 201291 | [201291-moon-waltz.json](./201291-moon-waltz.json) |
