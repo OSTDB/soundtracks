@@ -5738,6 +5738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last | 31802 | [31802-the-last.json](./31802-the-last.json) |
 | The Last (Hotdog) Stand | 399185 | [399185-the-last-hotdog-stand.json](./399185-the-last-hotdog-stand.json) |
 | The Last Airbender | 7983 | [7983-the-last-airbender.json](./7983-the-last-airbender.json) |
+| The Last Among The Dead | 351762 | [351762-the-last-among-the-dead.json](./351762-the-last-among-the-dead.json) |
 | The Last Aura | 120871 | [120871-the-last-aura.json](./120871-the-last-aura.json) |
 | The Last Ball | 410474 | [410474-the-last-ball.json](./410474-the-last-ball.json) |
 | The last Baron's stunt | 89652 | [89652-the-last-barons-stunt.json](./89652-the-last-barons-stunt.json) |
@@ -5809,6 +5810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Haven | 127615 | [127615-the-last-haven.json](./127615-the-last-haven.json) |
 | The Last Hearth Defense | 352321 | [352321-the-last-hearth-defense.json](./352321-the-last-hearth-defense.json) |
 | The Last Hero of Nostalgaia | 214707 | [214707-the-last-hero-of-nostalgaia.json](./214707-the-last-hero-of-nostalgaia.json) |
+| The Last Heroine | 351777 | [351777-the-last-heroine.json](./351777-the-last-heroine.json) |
 | The Last Hex | 105231 | [105231-the-last-hex.json](./105231-the-last-hex.json) |
 | The Last Hike | 236267 | [236267-the-last-hike.json](./236267-the-last-hike.json) |
 | The Last Hope | 25627 | [25627-the-last-hope.json](./25627-the-last-hope.json) |
@@ -9912,6 +9914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throw Me To My Planet | 257443 | [257443-throw-me-to-my-planet.json](./257443-throw-me-to-my-planet.json) |
 | Throw the Ball in the Hole | 123489 | [123489-throw-the-ball-in-the-hole.json](./123489-throw-the-ball-in-the-hole.json) |
 | Throw Wizard | 224636 | [224636-throw-wizard.json](./224636-throw-wizard.json) |
+| ThrowDown | 351778 | [351778-throwdown.json](./351778-throwdown.json) |
 | Thrower Defense | 415898 | [415898-thrower-defense.json](./415898-thrower-defense.json) |
 | Throwing Punches | 182394 | [182394-throwing-punches.json](./182394-throwing-punches.json) |
 | Thrunt XL | 111483 | [111483-thrunt-xl.json](./111483-thrunt-xl.json) |
@@ -11767,6 +11770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toc | 183004 | [183004-toc.json](./183004-toc.json) |
 | Toca Boca Hair Salon 4 | 380522 | [380522-toca-boca-hair-salon-4.json](./380522-toca-boca-hair-salon-4.json) |
 | TOCA Championship Racing | 8000 | [8000-toca-championship-racing.json](./8000-toca-championship-racing.json) |
+| Toca Hair Salon: Christmas Gift | 351756 | [351756-toca-hair-salon-christmas-gift.json](./351756-toca-hair-salon-christmas-gift.json) |
 | Toca Life World | 126005 | [126005-toca-life-world.json](./126005-toca-life-world.json) |
 | Toca Pisadinha | 237621 | [237621-toca-pisadinha.json](./237621-toca-pisadinha.json) |
 | TOCA Race Driver 2 | 246667 | [246667-toca-race-driver-2.json](./246667-toca-race-driver-2.json) |
@@ -15494,6 +15498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuned Heart | 45971 | [45971-tuned-heart.json](./45971-tuned-heart.json) |
 | Tuned to Your Heart | 225562 | [225562-tuned-to-your-heart.json](./225562-tuned-to-your-heart.json) |
 | Tuneria | 140025 | [140025-tuneria.json](./140025-tuneria.json) |
+| Tung Sahur Zombie | 351749 | [351749-tung-sahur-zombie.json](./351749-tung-sahur-zombie.json) |
 | Tung Tung Sahur: Obby Challenge | 384784 | [384784-tung-tung-sahur-obby-challenge.json](./384784-tung-tung-sahur-obby-challenge.json) |
 | Tung Tung Together: Online Deathrun Party | 390634 | [390634-tung-tung-together-online-deathrun-party.json](./390634-tung-tung-together-online-deathrun-party.json) |
 | Tung Tung Tung Sahur Report | 356817 | [356817-tung-tung-tung-sahur-report.json](./356817-tung-tung-tung-sahur-report.json) |
