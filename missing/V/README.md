@@ -313,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Martina-Bloody Day 228 | 124222 | [124222-vampire-martina-bloody-day-228.json](./124222-vampire-martina-bloody-day-228.json) |
 | Vampire Master | 341047 | [341047-vampire-master.json](./341047-vampire-master.json) |
 | Vampire Night Shift | 138187 | [138187-vampire-night-shift.json](./138187-vampire-night-shift.json) |
+| Vampire Nights: Horny Secret | 385269 | [385269-vampire-nights-horny-secret.json](./385269-vampire-nights-horny-secret.json) |
 | Vampire on Trial | 394169 | [394169-vampire-on-trial.json](./394169-vampire-on-trial.json) |
 | Vampire Origins Reloaded | 63013 | [63013-vampire-origins-reloaded.json](./63013-vampire-origins-reloaded.json) |
 | Vampire Panic | 77665 | [77665-vampire-panic.json](./77665-vampire-panic.json) |
@@ -514,6 +515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vector Prospector | 141144 | [141144-vector-prospector.json](./141144-vector-prospector.json) |
 | Vector Race | 164900 | [164900-vector-race.json](./164900-vector-race.json) |
 | Vector Racing | 64690 | [64690-vector-racing.json](./64690-vector-racing.json) |
+| Vector Rider | 385246 | [385246-vector-rider.json](./385246-vector-rider.json) |
 | Vector Runner | 230753 | [230753-vector-runner.json](./230753-vector-runner.json) |
 | Vector Runners | 179128 | [179128-vector-runners.json](./179128-vector-runners.json) |
 | Vector Sector | 386996 | [386996-vector-sector.json](./386996-vector-sector.json) |
@@ -1354,6 +1356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virvius | 244888 | [244888-virvius.json](./244888-virvius.json) |
 | VirZoom Arcade | 33356 | [33356-virzoom-arcade.json](./33356-virzoom-arcade.json) |
 | Visagens | 282020 | [282020-visagens.json](./282020-visagens.json) |
+| Viscera Alien | 385249 | [385249-viscera-alien.json](./385249-viscera-alien.json) |
 | Viscera Cleanup Detail: House of Horror | 167764 | [167764-viscera-cleanup-detail-house-of-horror.json](./167764-viscera-cleanup-detail-house-of-horror.json) |
 | Viscera Cleanup Detail: Shadow Warrior | 16718 | [16718-viscera-cleanup-detail-shadow-warrior.json](./16718-viscera-cleanup-detail-shadow-warrior.json) |
 | Viscera Cleanup Detail: The Vulcan Affair | 167765 | [167765-viscera-cleanup-detail-the-vulcan-affair.json](./167765-viscera-cleanup-detail-the-vulcan-affair.json) |
@@ -1692,6 +1695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vortex Attack EX | 124235 | [124235-vortex-attack-ex.json](./124235-vortex-attack-ex.json) |
 | Vortex Escape | 156549 | [156549-vortex-escape.json](./156549-vortex-escape.json) |
 | Vortex of Hostility | 93998 | [93998-vortex-of-hostility.json](./93998-vortex-of-hostility.json) |
+| Vortex Protocol | 385248 | [385248-vortex-protocol.json](./385248-vortex-protocol.json) |
 | Vortex Rolling | 152743 | [152743-vortex-rolling.json](./152743-vortex-rolling.json) |
 | Vortex: The Gateway | 34348 | [34348-vortex-the-gateway.json](./34348-vortex-the-gateway.json) |
 | VortexWars2 | 101759 | [101759-vortexwars2.json](./101759-vortexwars2.json) |
