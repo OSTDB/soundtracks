@@ -2600,6 +2600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kosmonavtes: Academy Escape | 163752 | [163752-kosmonavtes-academy-escape.json](./163752-kosmonavtes-academy-escape.json) |
 | Kosmonavtes: Escape Reality | 155983 | [155983-kosmonavtes-escape-reality.json](./155983-kosmonavtes-escape-reality.json) |
 | Kosmopolska | 92100 | [92100-kosmopolska.json](./92100-kosmopolska.json) |
+| Kosmos | 354569 | [354569-kosmos.json](./354569-kosmos.json) |
 | Kosmos: The Discovery of Nature | 276194 | [276194-kosmos-the-discovery-of-nature.json](./276194-kosmos-the-discovery-of-nature.json) |
 | Kosmosis | 382345 | [382345-kosmosis.json](./382345-kosmosis.json) |
 | KosmoSquad | 154561 | [154561-kosmosquad.json](./154561-kosmosquad.json) |
