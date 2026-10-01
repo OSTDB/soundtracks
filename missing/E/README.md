@@ -1226,6 +1226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elliot and the Musical Journey | 133415 | [133415-elliot-and-the-musical-journey.json](./133415-elliot-and-the-musical-journey.json) |
 | Elliot Quest | 8596 | [8596-elliot-quest.json](./8596-elliot-quest.json) |
 | Ellipsis | 19862 | [19862-ellipsis.json](./19862-ellipsis.json) |
+| Ellixir's Dream | 348376 | [348376-ellixirs-dream.json](./348376-ellixirs-dream.json) |
 | EllrLand | 229801 | [229801-ellrland.json](./229801-ellrland.json) |
 | Ells Tales: Chairbound | 358388 | [358388-ells-tales-chairbound.json](./358388-ells-tales-chairbound.json) |
 | Ellsydia | 378416 | [378416-ellsydia.json](./378416-ellsydia.json) |
@@ -2358,6 +2359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Down | 195102 | [195102-escape-down.json](./195102-escape-down.json) |
 | Escape Dream | 236384 | [236384-escape-dream.json](./236384-escape-dream.json) |
 | Escape DuckZ! | 329019 | [329019-escape-duckz.json](./329019-escape-duckz.json) |
+| Escape Everlit | 348372 | [348372-escape-everlit.json](./348372-escape-everlit.json) |
 | Escape Evolution | 179180 | [179180-escape-evolution.json](./179180-escape-evolution.json) |
 | Escape Expert | 81116 | [81116-escape-expert.json](./81116-escape-expert.json) |
 | Escape Factory | 317983 | [317983-escape-factory.json](./317983-escape-factory.json) |
@@ -2921,6 +2923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euchre ++ | 240192 | [240192-euchre.json](./240192-euchre.json) |
 | Euchre 3D Pro | 86836 | [86836-euchre-3d-pro.json](./86836-euchre-3d-pro.json) |
 | Euchre by Webfoot | 88323 | [88323-euchre-by-webfoot.json](./88323-euchre-by-webfoot.json) |
+| Euclid Valley | 348375 | [348375-euclid-valley.json](./348375-euclid-valley.json) |
 | Euclyca | 158031 | [158031-euclyca.json](./158031-euclyca.json) |
 | EUcraft | 398401 | [398401-eucraft.json](./398401-eucraft.json) |
 | Eudemons Online | 76594 | [76594-eudemons-online.json](./76594-eudemons-online.json) |
@@ -3084,6 +3087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eve: Echoes | 111187 | [111187-eve-echoes.json](./111187-eve-echoes.json) |
 | Eve: Galaxy Conquest | 317843 | [317843-eve-galaxy-conquest.json](./317843-eve-galaxy-conquest.json) |
 | Eve: The Fatal Attraction | 44730 | [44730-eve-the-fatal-attraction.json](./44730-eve-the-fatal-attraction.json) |
+| Evel Knievel | 348405 | [348405-evel-knievel.json](./348405-evel-knievel.json) |
 | Evel Knievel Evel-ution | 23533 | [23533-evel-knievel-evel-ution.json](./23533-evel-knievel-evel-ution.json) |
 | Eveline | 416057 | [416057-eveline.json](./416057-eveline.json) |
 | Even in Arcadia | 135022 | [135022-even-in-arcadia.json](./135022-even-in-arcadia.json) |
