@@ -2266,6 +2266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Foot Fetish | 404940 | [404940-hentai-foot-fetish.json](./404940-hentai-foot-fetish.json) |
 | Hentai Forever | 149425 | [149425-hentai-forever.json](./149425-hentai-forever.json) |
 | Hentai Fox | 310938 | [310938-hentai-fox.json](./310938-hentai-fox.json) |
+| Hentai Frames | 381801 | [381801-hentai-frames.json](./381801-hentai-frames.json) |
 | Hentai Furry Bunny | 347768 | [347768-hentai-furry-bunny.json](./347768-hentai-furry-bunny.json) |
 | Hentai Furry Goat | 411126 | [411126-hentai-furry-goat.json](./411126-hentai-furry-goat.json) |
 | Hentai Furry Milf | 384701 | [384701-hentai-furry-milf.json](./384701-hentai-furry-milf.json) |
