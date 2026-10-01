@@ -1447,6 +1447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Your Youth | 250453 | [250453-in-your-youth.json](./250453-in-your-youth.json) |
 | In-Flight Pac-Man | 205614 | [205614-in-flight-pac-man.json](./205614-in-flight-pac-man.json) |
 | In-Flight Tetris | 145631 | [145631-in-flight-tetris.json](./145631-in-flight-tetris.json) |
+| In'ernus | 370263 | [370263-inernus.json](./370263-inernus.json) |
 | Ina Koi! Oinari-sama to Motemote no Tatari | 68120 | [68120-ina-koi-oinari-sama-to-motemote-no-tatari.json](./68120-ina-koi-oinari-sama-to-motemote-no-tatari.json) |
 | Inamina | 273895 | [273895-inamina.json](./273895-inamina.json) |
 | Inamorata | 299865 | [299865-inamorata.json](./299865-inamorata.json) |
@@ -1780,6 +1781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Backrooms | 405531 | [405531-infinite-backrooms.json](./405531-infinite-backrooms.json) |
 | Infinite Ball Well | 384513 | [384513-infinite-ball-well.json](./384513-infinite-ball-well.json) |
 | Infinite Block Puzzle | 98792 | [98792-infinite-block-puzzle.json](./98792-infinite-block-puzzle.json) |
+| Infinite Bloom | 370275 | [370275-infinite-bloom.json](./370275-infinite-bloom.json) |
 | Infinite Blue | 337650 | [337650-infinite-blue.json](./337650-infinite-blue.json) |
 | Infinite Borders | 264030 | [264030-infinite-borders.json](./264030-infinite-borders.json) |
 | Infinite Canyon | 360646 | [360646-infinite-canyon.json](./360646-infinite-canyon.json) |
@@ -2423,6 +2425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interrogation 091 | 184592 | [184592-interrogation-091.json](./184592-interrogation-091.json) |
 | Interrogation Simulator | 208333 | [208333-interrogation-simulator.json](./208333-interrogation-simulator.json) |
 | Interrogation: You Will Be Deceived | 115118 | [115118-interrogation-you-will-be-deceived.json](./115118-interrogation-you-will-be-deceived.json) |
+| Interrogator 2 | 370239 | [370239-interrogator-2.json](./370239-interrogator-2.json) |
 | Intersection | 299751 | [299751-intersection.json](./299751-intersection.json) |
 | InterSection | 34237 | [34237-intersection.json](./34237-intersection.json) |
 | Intersection of Three Circles | 374692 | [374692-intersection-of-three-circles.json](./374692-intersection-of-three-circles.json) |
