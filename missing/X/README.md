@@ -59,6 +59,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Men: 010 - Character: Iceman | 291032 | [291032-x-men-010-character-iceman.json](./291032-x-men-010-character-iceman.json) |
 | X-Men: 011 - Character: Jean Grey/Phoenix | 291033 | [291033-x-men-011-character-jean-grey-phoenix.json](./291033-x-men-011-character-jean-grey-phoenix.json) |
 | X-Men: 012 - Character: Magneto | 291034 | [291034-x-men-012-character-magneto.json](./291034-x-men-012-character-magneto.json) |
+| X-Men: 058 - Character: Gambit | 363513 | [363513-x-men-058-character-gambit.json](./363513-x-men-058-character-gambit.json) |
+| X-Men: 059 - Character: Colossus | 363514 | [363514-x-men-059-character-colossus.json](./363514-x-men-059-character-colossus.json) |
+| X-Men: 060 - Character: Nightcrawler | 363515 | [363515-x-men-060-character-nightcrawler.json](./363515-x-men-060-character-nightcrawler.json) |
+| X-Men: 061 - Character: Rogue | 363516 | [363516-x-men-061-character-rogue.json](./363516-x-men-061-character-rogue.json) |
+| X-Men: 062 - Character: Beast | 363517 | [363517-x-men-062-character-beast.json](./363517-x-men-062-character-beast.json) |
+| X-Men: 063 - Character: Juggernaut | 363518 | [363518-x-men-063-character-juggernaut.json](./363518-x-men-063-character-juggernaut.json) |
+| X-Men: 064 - Character: Toad | 363519 | [363519-x-men-064-character-toad.json](./363519-x-men-064-character-toad.json) |
+| X-Men: 065 - Character: Sabertooth | 363520 | [363520-x-men-065-character-sabertooth.json](./363520-x-men-065-character-sabertooth.json) |
+| X-Men: 066 - Ultimate Character: Sabertooth | 363521 | [363521-x-men-066-ultimate-character-sabertooth.json](./363521-x-men-066-ultimate-character-sabertooth.json) |
+| X-Men: 067 - Character: Scarlet Witch | 363522 | [363522-x-men-067-character-scarlet-witch.json](./363522-x-men-067-character-scarlet-witch.json) |
+| X-Men: 068 - Character: Sentinels | 363523 | [363523-x-men-068-character-sentinels.json](./363523-x-men-068-character-sentinels.json) |
+| X-Men: 069 - Attack Mod: Death Dealer | 363524 | [363524-x-men-069-attack-mod-death-dealer.json](./363524-x-men-069-attack-mod-death-dealer.json) |
+| X-Men: 070 - Defense Mod: Kinetic Cover | 363525 | [363525-x-men-070-defense-mod-kinetic-cover.json](./363525-x-men-070-defense-mod-kinetic-cover.json) |
+| X-Men: 071 - Attack Mod: Brutal Force | 363526 | [363526-x-men-071-attack-mod-brutal-force.json](./363526-x-men-071-attack-mod-brutal-force.json) |
+| X-Men: 072 - Defense Mod: Steel-like Skin | 363527 | [363527-x-men-072-defense-mod-steel-like-skin.json](./363527-x-men-072-defense-mod-steel-like-skin.json) |
 | X-Men: 073 - Attack Mod: Teleportation | 363528 | [363528-x-men-073-attack-mod-teleportation.json](./363528-x-men-073-attack-mod-teleportation.json) |
 | X-Men: 074 - Defense Mod: Escape Artist | 363529 | [363529-x-men-074-defense-mod-escape-artist.json](./363529-x-men-074-defense-mod-escape-artist.json) |
 | X-Men: 075 - Attack Mod: Absorption | 363531 | [363531-x-men-075-attack-mod-absorption.json](./363531-x-men-075-attack-mod-absorption.json) |
