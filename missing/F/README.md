@@ -987,6 +987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Mosaics 44: Winter Holiday | 296063 | [296063-fantasy-mosaics-44-winter-holiday.json](./296063-fantasy-mosaics-44-winter-holiday.json) |
 | Fantasy Mosaics 45: Amusement Park | 296064 | [296064-fantasy-mosaics-45-amusement-park.json](./296064-fantasy-mosaics-45-amusement-park.json) |
 | Fantasy Mosaics 5 | 300375 | [300375-fantasy-mosaics-5.json](./300375-fantasy-mosaics-5.json) |
+| Fantasy Mosaics 54: Back to School | 378354 | [378354-fantasy-mosaics-54-back-to-school.json](./378354-fantasy-mosaics-54-back-to-school.json) |
 | Fantasy Mountains | 401027 | [401027-fantasy-mountains.json](./401027-fantasy-mountains.json) |
 | Fantasy of Esula | 292578 | [292578-fantasy-of-esula.json](./292578-fantasy-of-esula.json) |
 | Fantasy of Expedition | 113648 | [113648-fantasy-of-expedition.json](./113648-fantasy-of-expedition.json) |
