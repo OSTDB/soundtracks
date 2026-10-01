@@ -4610,6 +4610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Time Trials: Galactic Highway | 389070 | [389070-rocket-time-trials-galactic-highway.json](./389070-rocket-time-trials-galactic-highway.json) |
 | Rocket Valet! Galaxy Landing Service | 212818 | [212818-rocket-valet-galaxy-landing-service.json](./212818-rocket-valet-galaxy-landing-service.json) |
 | Rocket Wrestling Entertainment | 353290 | [353290-rocket-wrestling-entertainment.json](./353290-rocket-wrestling-entertainment.json) |
+| Rocket-Man | 377774 | [377774-rocket-man.json](./377774-rocket-man.json) |
 | Rocketball: Championship Cup | 175706 | [175706-rocketball-championship-cup.json](./175706-rocketball-championship-cup.json) |
 | Rocketbirds 2: Mind Control | 170517 | [170517-rocketbirds-2-mind-control.json](./170517-rocketbirds-2-mind-control.json) |
 | Rocketbirds 2: Rescue Bundle | 170516 | [170516-rocketbirds-2-rescue-bundle.json](./170516-rocketbirds-2-rescue-bundle.json) |
@@ -5959,6 +5960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Factory 5 | 115279 | [115279-rune-factory-5.json](./115279-rune-factory-5.json) |
 | Rune Factory 6 | 250924 | [250924-rune-factory-6.json](./250924-rune-factory-6.json) |
 | Rune Factory Frontier | 5132 | [5132-rune-factory-frontier.json](./5132-rune-factory-frontier.json) |
+| Rune Factory: Guardians of Azuma - Story of Seasons Bundle | 377761 | [377761-rune-factory-guardians-of-azuma-story-of-seasons-bundle.json](./377761-rune-factory-guardians-of-azuma-story-of-seasons-bundle.json) |
 | Rune Factory: Tides of Destiny | 5133 | [5133-rune-factory-tides-of-destiny.json](./5133-rune-factory-tides-of-destiny.json) |
 | Rune Girl | 118976 | [118976-rune-girl.json](./118976-rune-girl.json) |
 | Rune Golf | 260245 | [260245-rune-golf.json](./260245-rune-golf.json) |
