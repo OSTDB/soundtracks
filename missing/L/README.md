@@ -227,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lagnacure Legend | 93533 | [93533-lagnacure-legend.json](./93533-lagnacure-legend.json) |
 | Lagoon | 276473 | [276473-lagoon.json](./276473-lagoon.json) |
 | Lagoon Lounge: The Poisonous Fountain | 102437 | [102437-lagoon-lounge-the-poisonous-fountain.json](./102437-lagoon-lounge-the-poisonous-fountain.json) |
+| Lagoona Bundle | 354044 | [354044-lagoona-bundle.json](./354044-lagoona-bundle.json) |
 | Lagsters | 109185 | [109185-lagsters.json](./109185-lagsters.json) |
 | Laguna Racer | 170525 | [170525-laguna-racer.json](./170525-laguna-racer.json) |
 | Lái Shàng Dàxué ba! | 130149 | [130149-lai-shang-daxue-ba.json](./130149-lai-shang-daxue-ba.json) |
