@@ -5772,6 +5772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polybomber | 374140 | [374140-polybomber.json](./374140-polybomber.json) |
 | PolyBoost | 172681 | [172681-polyboost.json](./172681-polyboost.json) |
 | Polybot-7 | 97849 | [97849-polybot-7.json](./97849-polybot-7.json) |
+| Polycar Blitz | 334266 | [334266-polycar-blitz.json](./334266-polycar-blitz.json) |
 | Polychoron | 151664 | [151664-polychoron.json](./151664-polychoron.json) |
 | Polychrome | 362975 | [362975-polychrome.json](./362975-polychrome.json) |
 | Polychromia | 177867 | [177867-polychromia.json](./177867-polychromia.json) |
@@ -7831,6 +7832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prophecy I: The Viking Child | 12925 | [12925-prophecy-i-the-viking-child.json](./12925-prophecy-i-the-viking-child.json) |
 | Prophecy Island | 249841 | [249841-prophecy-island.json](./249841-prophecy-island.json) |
 | Prophecy Matrix | 207296 | [207296-prophecy-matrix.json](./207296-prophecy-matrix.json) |
+| Prophecy of Ashen | 334330 | [334330-prophecy-of-ashen.json](./334330-prophecy-of-ashen.json) |
 | Prophecy of the Nun | 165657 | [165657-prophecy-of-the-nun.json](./165657-prophecy-of-the-nun.json) |
 | Prophet Margin | 376537 | [376537-prophet-margin.json](./376537-prophet-margin.json) |
 | Propis | 194290 | [194290-propis.json](./194290-propis.json) |
