@@ -5832,6 +5832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombardiro Crocodilo: Italian Brainrot Simulator | 344481 | [344481-bombardiro-crocodilo-italian-brainrot-simulator.json](./344481-bombardiro-crocodilo-italian-brainrot-simulator.json) |
 | Bombarika | 101962 | [101962-bombarika.json](./101962-bombarika.json) |
 | Bombarium | 179129 | [179129-bombarium.json](./179129-bombarium.json) |
+| Bombastar | 379008 | [379008-bombastar.json](./379008-bombastar.json) |
 | Bombastic | 308253 | [308253-bombastic.json](./308253-bombastic.json) |
 | Bombastic! | 103655 | [103655-bombastic.json](./103655-bombastic.json) |
 | Bombball | 301584 | [301584-bombball.json](./301584-bombball.json) |
@@ -6539,6 +6540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling at the Lake | 30190 | [30190-bowling-at-the-lake.json](./30190-bowling-at-the-lake.json) |
 | Bowling by Jason Belmonte | 262386 | [262386-bowling-by-jason-belmonte.json](./262386-bowling-by-jason-belmonte.json) |
 | Bowling Crew | 256240 | [256240-bowling-crew.json](./256240-bowling-crew.json) |
+| Bowling Fever Strike Masters | 378961 | [378961-bowling-fever-strike-masters.json](./378961-bowling-fever-strike-masters.json) |
 | Bowling Fever: Deluxe Edition | 288285 | [288285-bowling-fever-deluxe-edition.json](./288285-bowling-fever-deluxe-edition.json) |
 | Bowling Fever: Grand Edition | 396914 | [396914-bowling-fever-grand-edition.json](./396914-bowling-fever-grand-edition.json) |
 | Bowling Fever: Power Edition | 399811 | [399811-bowling-fever-power-edition.json](./399811-bowling-fever-power-edition.json) |
@@ -6765,6 +6767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Workout: 15 Puzzles for Memory, Math & Logic | 357977 | [357977-brain-workout-15-puzzles-for-memory-math-and-logic.json](./357977-brain-workout-15-puzzles-for-memory-math-and-logic.json) |
 | Brain Workout! Find the Difference in Classic Art | 351224 | [351224-brain-workout-find-the-difference-in-classic-art.json](./351224-brain-workout-find-the-difference-in-classic-art.json) |
 | Brain Workout! Jellyfish Puzzle | 364099 | [364099-brain-workout-jellyfish-puzzle.json](./364099-brain-workout-jellyfish-puzzle.json) |
+| Brain Workout! Spinning Insect Puzzle | 378999 | [378999-brain-workout-spinning-insect-puzzle.json](./378999-brain-workout-spinning-insect-puzzle.json) |
 | Brain You Later | 135677 | [135677-brain-you-later.json](./135677-brain-you-later.json) |
 | Brainbots | 335464 | [335464-brainbots.json](./335464-brainbots.json) |
 | BrainBread | 138773 | [138773-brainbread.json](./138773-brainbread.json) |
@@ -7272,6 +7275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge Hunter | 260167 | [260167-bridge-hunter.json](./260167-bridge-hunter.json) |
 | Bridge Master | 94682 | [94682-bridge-master.json](./94682-bridge-master.json) |
 | Bridge Master with Terence Reese | 362444 | [362444-bridge-master-with-terence-reese.json](./362444-bridge-master-with-terence-reese.json) |
+| Bridge Race: Platinum Edition | 378956 | [378956-bridge-race-platinum-edition.json](./378956-bridge-race-platinum-edition.json) |
 | Bridge Strike | 124035 | [124035-bridge-strike.json](./124035-bridge-strike.json) |
 | Bridge to Another World Remastered: Burnt Dreams Collector's Edition | 362834 | [362834-bridge-to-another-world-remastered-burnt-dreams-collectors-edition.json](./362834-bridge-to-another-world-remastered-burnt-dreams-collectors-edition.json) |
 | Bridge to Another World: Cursed Clouds - Collector's Edition | 225009 | [225009-bridge-to-another-world-cursed-clouds-collectors-edition.json](./225009-bridge-to-another-world-cursed-clouds-collectors-edition.json) |
