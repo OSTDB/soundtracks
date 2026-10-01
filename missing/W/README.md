@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu Club: Azumi | 295374 | [295374-waifu-club-azumi.json](./295374-waifu-club-azumi.json) |
 | Waifu Collector | 171615 | [171615-waifu-collector.json](./171615-waifu-collector.json) |
 | Waifu Crush | 188522 | [188522-waifu-crush.json](./188522-waifu-crush.json) |
+| Waifu Discovered 2: Medieval Fantasy | 375391 | [375391-waifu-discovered-2-medieval-fantasy.json](./375391-waifu-discovered-2-medieval-fantasy.json) |
 | Waifu Hunter: Episode 1 - The Runaway Samurai | 110541 | [110541-waifu-hunter-episode-1-the-runaway-samurai.json](./110541-waifu-hunter-episode-1-the-runaway-samurai.json) |
 | Waifu Impact 2 | 321542 | [321542-waifu-impact-2.json](./321542-waifu-impact-2.json) |
 | Waifu Love | 161410 | [161410-waifu-love.json](./161410-waifu-love.json) |
@@ -2015,6 +2016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where the Music Dies | 277344 | [277344-where-the-music-dies.json](./277344-where-the-music-dies.json) |
 | Where the Redwood Ends | 416808 | [416808-where-the-redwood-ends.json](./416808-where-the-redwood-ends.json) |
 | Where the river dies | 120250 | [120250-where-the-river-dies.json](./120250-where-the-river-dies.json) |
+| Where the Roots grow | 375383 | [375383-where-the-roots-grow.json](./375383-where-the-roots-grow.json) |
 | Where the Seeds Fall | 416123 | [416123-where-the-seeds-fall.json](./416123-where-the-seeds-fall.json) |
 | Where the Stars Brought Us | 201549 | [201549-where-the-stars-brought-us.json](./201549-where-the-stars-brought-us.json) |
 | Where the Sun Always Shines | 401730 | [401730-where-the-sun-always-shines.json](./401730-where-the-sun-always-shines.json) |
@@ -4071,6 +4073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War: D-Day Part Two | 278663 | [278663-world-war-d-day-part-two.json](./278663-world-war-d-day-part-two.json) |
 | World War: Fury Wave | 316236 | [316236-world-war-fury-wave.json](./316236-world-war-fury-wave.json) |
 | World Wars | 40244 | [40244-world-wars.json](./40244-world-wars.json) |
+| World Wide Love!: Sekai Seifuku Kanojo Fandisc | 375364 | [375364-world-wide-love-sekai-seifuku-kanojo-fandisc.json](./375364-world-wide-love-sekai-seifuku-kanojo-fandisc.json) |
 | World Without Reason | 284410 | [284410-world-without-reason.json](./284410-world-without-reason.json) |
 | World Without Time | 390214 | [390214-world-without-time.json](./390214-world-without-time.json) |
 | World Wonders Hidden Histories 3 | 364105 | [364105-world-wonders-hidden-histories-3.json](./364105-world-wonders-hidden-histories-3.json) |
