@@ -1900,6 +1900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pelé! | 78098 | [78098-pele.json](./78098-pele.json) |
 | Pelea | 51546 | [51546-pelea.json](./51546-pelea.json) |
 | Pelican Empyrean | 373187 | [373187-pelican-empyrean.json](./373187-pelican-empyrean.json) |
+| Pelikeeper | 381193 | [381193-pelikeeper.json](./381193-pelikeeper.json) |
 | Pellet Packer: Cookie Crunch | 270965 | [270965-pellet-packer-cookie-crunch.json](./270965-pellet-packer-cookie-crunch.json) |
 | Pellet Packer: Micro Munch | 270956 | [270956-pellet-packer-micro-munch.json](./270956-pellet-packer-micro-munch.json) |
 | Pembrey | 63729 | [63729-pembrey.json](./63729-pembrey.json) |
@@ -3438,6 +3439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pink World 2 | 388952 | [388952-pink-world-2.json](./388952-pink-world-2.json) |
 | Pink World 3 | 388953 | [388953-pink-world-3.json](./388953-pink-world-3.json) |
 | Pinkalicious Party | 89767 | [89767-pinkalicious-party.json](./89767-pinkalicious-party.json) |
+| PinKeep | 381179 | [381179-pinkeep.json](./381179-pinkeep.json) |
 | Pinkie | 77426 | [77426-pinkie.json](./77426-pinkie.json) |
 | Pinky and the Brain: The Master Plan | 49360 | [49360-pinky-and-the-brain-the-master-plan.json](./49360-pinky-and-the-brain-the-master-plan.json) |
 | Pinky Promise Manifesto | 176440 | [176440-pinky-promise-manifesto.json](./176440-pinky-promise-manifesto.json) |
@@ -6091,6 +6093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potions & Emotions | 264683 | [264683-potions-and-emotions.json](./264683-potions-and-emotions.json) |
 | Potions War | 201802 | [201802-potions-war.json](./201802-potions-war.json) |
 | Potions, Frankly | 183598 | [183598-potions-frankly.json](./183598-potions-frankly.json) |
+| Potions, Please! | 381186 | [381186-potions-please.json](./381186-potions-please.json) |
 | Potions: A Curious Tale | 22554 | [22554-potions-a-curious-tale.json](./22554-potions-a-curious-tale.json) |
 | Potrick Snap | 341004 | [341004-potrick-snap.json](./341004-potrick-snap.json) |
 | Potrick Snap 2 | 341012 | [341012-potrick-snap-2.json](./341012-potrick-snap-2.json) |
