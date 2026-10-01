@@ -1432,6 +1432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taxi City | 127917 | [127917-taxi-city.json](./127917-taxi-city.json) |
 | Taxi Driver Simulation 2025 | 328476 | [328476-taxi-driver-simulation-2025.json](./328476-taxi-driver-simulation-2025.json) |
 | Taxi Driver Simulator | 366222 | [366222-taxi-driver-simulator.json](./366222-taxi-driver-simulator.json) |
+| Taxi Goldmania | 336665 | [336665-taxi-goldmania.json](./336665-taxi-goldmania.json) |
 | Taxi in the Rain | 150177 | [150177-taxi-in-the-rain.json](./150177-taxi-in-the-rain.json) |
 | Taxi Journey | 133832 | [133832-taxi-journey.json](./133832-taxi-journey.json) |
 | Taxi Life: A City Driving Simulator | 215898 | [215898-taxi-life-a-city-driving-simulator.json](./215898-taxi-life-a-city-driving-simulator.json) |
@@ -7261,6 +7262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pigeon P | 198254 | [198254-the-pigeon-p.json](./198254-the-pigeon-p.json) |
 | The Pigeon Quiz | 219048 | [219048-the-pigeon-quiz.json](./219048-the-pigeon-quiz.json) |
 | The Pilgrim | 121634 | [121634-the-pilgrim.json](./121634-the-pilgrim.json) |
+| The Pilgrim's Progress | 336675 | [336675-the-pilgrims-progress.json](./336675-the-pilgrims-progress.json) |
 | The Pilgrim's Progress: The Video Game | 61109 | [61109-the-pilgrims-progress-the-video-game.json](./61109-the-pilgrims-progress-the-video-game.json) |
 | The Pilgrimage | 56436 | [56436-the-pilgrimage.json](./56436-the-pilgrimage.json) |
 | The Pillage | 75219 | [75219-the-pillage.json](./75219-the-pillage.json) |
@@ -7559,6 +7561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Remains and The Residue | 387618 | [387618-the-remains-and-the-residue.json](./387618-the-remains-and-the-residue.json) |
 | The Remains of El Dorado | 184570 | [184570-the-remains-of-el-dorado.json](./184570-the-remains-of-el-dorado.json) |
 | The Remission of Sins | 149042 | [149042-the-remission-of-sins.json](./149042-the-remission-of-sins.json) |
+| The Remnants | 336657 | [336657-the-remnants.json](./336657-the-remnants.json) |
 | The Remote Outpost | 268726 | [268726-the-remote-outpost.json](./268726-the-remote-outpost.json) |
 | The Ren & Stimpy Show Presents: Stimpy's Invention | 46257 | [46257-the-ren-and-stimpy-show-presents-stimpys-invention.json](./46257-the-ren-and-stimpy-show-presents-stimpys-invention.json) |
 | The Ren & Stimpy Show: Buckeroo$! | 48209 | [48209-the-ren-and-stimpy-show-buckeroo.json](./48209-the-ren-and-stimpy-show-buckeroo.json) |
