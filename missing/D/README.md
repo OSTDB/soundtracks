@@ -3717,6 +3717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Mail | 318758 | [318758-devil-mail.json](./318758-devil-mail.json) |
 | Devil Maker: Tokyo | 39183 | [39183-devil-maker-tokyo.json](./39183-devil-maker-tokyo.json) |
 | Devil May Cry | 302712 | [302712-devil-may-cry.json](./302712-devil-may-cry.json) |
+| Devil May Cry | 338320 | [338320-devil-may-cry.json](./338320-devil-may-cry.json) |
 | Devil May Cry 2 | 135 | [135-devil-may-cry-2.json](./135-devil-may-cry-2.json) |
 | Devil May Cry 2 | 222655 | [222655-devil-may-cry-2.json](./222655-devil-may-cry-2.json) |
 | Devil May Cry 3 Crimson | 343960 | [343960-devil-may-cry-3-crimson.json](./343960-devil-may-cry-3-crimson.json) |
@@ -4548,6 +4549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinus Escape | 338293 | [338293-dinus-escape.json](./338293-dinus-escape.json) |
 | Dio Simulator Remastered | 201841 | [201841-dio-simulator-remastered.json](./201841-dio-simulator-remastered.json) |
 | Diode Arena | 207336 | [207336-diode-arena.json](./207336-diode-arena.json) |
+| Dion | 338341 | [338341-dion.json](./338341-dion.json) |
 | Dionysus | 412410 | [412410-dionysus.json](./412410-dionysus.json) |
 | Diorama Battle of Ninja | 32948 | [32948-diorama-battle-of-ninja.json](./32948-diorama-battle-of-ninja.json) |
 | Diorama Break | 398554 | [398554-diorama-break.json](./398554-diorama-break.json) |
@@ -6082,6 +6084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Jump HD: Insanely Good! | 104106 | [104106-doodle-jump-hd-insanely-good.json](./104106-doodle-jump-hd-insanely-good.json) |
 | Doodle Jump Journey | 85571 | [85571-doodle-jump-journey.json](./85571-doodle-jump-journey.json) |
 | Doodle Kingdom | 27243 | [27243-doodle-kingdom.json](./27243-doodle-kingdom.json) |
+| Doodle Kingdom: Medieval | 338335 | [338335-doodle-kingdom-medieval.json](./338335-doodle-kingdom-medieval.json) |
 | Doodle Mafia: Crime City | 146741 | [146741-doodle-mafia-crime-city.json](./146741-doodle-mafia-crime-city.json) |
 | Doodle Sprint! | 134445 | [134445-doodle-sprint.json](./134445-doodle-sprint.json) |
 | Doodle TD 2 | 295800 | [295800-doodle-td-2.json](./295800-doodle-td-2.json) |
@@ -7380,6 +7383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drayt Empire | 32032 | [32032-drayt-empire.json](./32032-drayt-empire.json) |
 | DRazor | 156084 | [156084-drazor.json](./156084-drazor.json) |
 | Dread | 130910 | [130910-dread.json](./130910-dread.json) |
+| Dread Chess | 338338 | [338338-dread-chess.json](./338338-dread-chess.json) |
 | Dread Delusion: Rise of the Skeletons | 272835 | [272835-dread-delusion-rise-of-the-skeletons.json](./272835-dread-delusion-rise-of-the-skeletons.json) |
 | Dread Flats | 351690 | [351690-dread-flats.json](./351690-dread-flats.json) |
 | Dread Nautical | 122514 | [122514-dread-nautical.json](./122514-dread-nautical.json) |
@@ -8017,6 +8021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drowning In Problems | 134444 | [134444-drowning-in-problems.json](./134444-drowning-in-problems.json) |
 | Drowning Song of the Stagnant Sea | 370694 | [370694-drowning-song-of-the-stagnant-sea.json](./370694-drowning-song-of-the-stagnant-sea.json) |
 | Drowning, Drowning | 144234 | [144234-drowning-drowning.json](./144234-drowning-drowning.json) |
+| Drownlight | 338324 | [338324-drownlight.json](./338324-drownlight.json) |
 | Drownload | 376036 | [376036-drownload.json](./376036-drownload.json) |
 | Drox Operative 2 | 134503 | [134503-drox-operative-2.json](./134503-drox-operative-2.json) |
 | Drudge | 388738 | [388738-drudge.json](./388738-drudge.json) |
