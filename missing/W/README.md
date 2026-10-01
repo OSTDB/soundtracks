@@ -4381,6 +4381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrestling Revolution 3D | 44186 | [44186-wrestling-revolution-3d.json](./44186-wrestling-revolution-3d.json) |
 | Wrestling Revolution Pro | 91987 | [91987-wrestling-revolution-pro.json](./91987-wrestling-revolution-pro.json) |
 | Wrestling Spirit 3 | 24755 | [24755-wrestling-spirit-3.json](./24755-wrestling-spirit-3.json) |
+| Wret | 352871 | [352871-wret.json](./352871-wret.json) |
 | Wretch | 366985 | [366985-wretch.json](./366985-wretch.json) |
 | Wretch: Divine Ascent | 352750 | [352750-wretch-divine-ascent.json](./352750-wretch-divine-ascent.json) |
 | Wretched Star | 333083 | [333083-wretched-star.json](./333083-wretched-star.json) |
