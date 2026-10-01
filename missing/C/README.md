@@ -431,6 +431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calypso's Calamity | 319243 | [319243-calypsos-calamity.json](./319243-calypsos-calamity.json) |
 | Calyx | 331102 | [331102-calyx.json](./331102-calyx.json) |
 | Cam Quest | 380689 | [380689-cam-quest.json](./380689-cam-quest.json) |
+| Cam4Z: Bodycam Zombie Elevator Survivor | 373682 | [373682-cam4z-bodycam-zombie-elevator-survivor.json](./373682-cam4z-bodycam-zombie-elevator-survivor.json) |
 | Cambell’s Oddity Box | 387368 | [387368-cambell-s-oddity-box.json](./387368-cambell-s-oddity-box.json) |
 | Cambo: Webbed Fist | 307126 | [307126-cambo-webbed-fist.json](./307126-cambo-webbed-fist.json) |
 | Cambria | 344349 | [344349-cambria.json](./344349-cambria.json) |
@@ -3194,6 +3195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chick Boy Adventures | 190149 | [190149-chick-boy-adventures.json](./190149-chick-boy-adventures.json) |
 | Chick Chick Boom | 51125 | [51125-chick-chick-boom.json](./51125-chick-chick-boom.json) |
 | Chick City Construction | 174872 | [174872-chick-city-construction.json](./174872-chick-city-construction.json) |
+| Chick Game | 373681 | [373681-chick-game.json](./373681-chick-game.json) |
 | Chick Road Rage | 281993 | [281993-chick-road-rage.json](./281993-chick-road-rage.json) |
 | Chick Room Escape: Xmas ver. | 317000 | [317000-chick-room-escape-xmas-ver.json](./317000-chick-room-escape-xmas-ver.json) |
 | Chick That Never Skipped a Leg Day | 309128 | [309128-chick-that-never-skipped-a-leg-day.json](./309128-chick-that-never-skipped-a-leg-day.json) |
@@ -3215,6 +3217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Coop Invaders | 388753 | [388753-chicken-coop-invaders.json](./388753-chicken-coop-invaders.json) |
 | Chicken Defender | 166616 | [166616-chicken-defender.json](./166616-chicken-defender.json) |
 | Chicken Defense | 181398 | [181398-chicken-defense.json](./181398-chicken-defense.json) |
+| Chicken Defense | 373675 | [373675-chicken-defense.json](./373675-chicken-defense.json) |
 | Chicken Defense War | 380065 | [380065-chicken-defense-war.json](./380065-chicken-defense-war.json) |
 | Chicken Derby | 391882 | [391882-chicken-derby.json](./391882-chicken-derby.json) |
 | Chicken Done | 273374 | [273374-chicken-done.json](./273374-chicken-done.json) |
