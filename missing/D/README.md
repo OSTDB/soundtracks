@@ -4569,6 +4569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Track Racing | 73269 | [73269-dirt-track-racing.json](./73269-dirt-track-racing.json) |
 | Dirt Track Racing 2 | 73758 | [73758-dirt-track-racing-2.json](./73758-dirt-track-racing-2.json) |
 | Dirt Trackin Sprint Cars | 88095 | [88095-dirt-trackin-sprint-cars.json](./88095-dirt-trackin-sprint-cars.json) |
+| Dirt Trackin' 3 | 347314 | [347314-dirt-trackin-3.json](./347314-dirt-trackin-3.json) |
 | Dirt Trax FX | 42622 | [42622-dirt-trax-fx.json](./42622-dirt-trax-fx.json) |
 | Dirtbag Mahjong | 324907 | [324907-dirtbag-mahjong.json](./324907-dirtbag-mahjong.json) |
 | Dirty | 412361 | [412361-dirty.json](./412361-dirty.json) |
