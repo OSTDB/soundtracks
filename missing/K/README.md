@@ -320,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kana Quest | 126495 | [126495-kana-quest.json](./126495-kana-quest.json) |
 | Kana Seito Defense | 324293 | [324293-kana-seito-defense.json](./324293-kana-seito-defense.json) |
 | Kana: Imouto | 56771 | [56771-kana-imouto.json](./56771-kana-imouto.json) |
+| Kanaete! Magical Star | 376684 | [376684-kanaete-magical-star.json](./376684-kanaete-magical-star.json) |
 | Kanako Enomoto Junk Brain Diagnosis | 209450 | [209450-kanako-enomoto-junk-brain-diagnosis.json](./209450-kanako-enomoto-junk-brain-diagnosis.json) |
 | Kanamono | 168215 | [168215-kanamono.json](./168215-kanamono.json) |
 | Kanashimi Arabesque | 294807 | [294807-kanashimi-arabesque.json](./294807-kanashimi-arabesque.json) |
@@ -615,6 +616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kavinsky | 60770 | [60770-kavinsky.json](./60770-kavinsky.json) |
 | Kawaii Anime: Cute Boys Magic World | 409535 | [409535-kawaii-anime-cute-boys-magic-world.json](./409535-kawaii-anime-cute-boys-magic-world.json) |
 | Kawaii Anime: Cute Girls Magic World | 409685 | [409685-kawaii-anime-cute-girls-magic-world.json](./409685-kawaii-anime-cute-girls-magic-world.json) |
+| Kawaii Ano Ko ha Yousha toka Zenzen Shinai: Jiai no Youkou-hen | 376681 | [376681-kawaii-ano-ko-ha-yousha-toka-zenzen-shinai-jiai-no-youkou-hen.json](./376681-kawaii-ano-ko-ha-yousha-toka-zenzen-shinai-jiai-no-youkou-hen.json) |
 | Kawaii Coloring Book | 104223 | [104223-kawaii-coloring-book.json](./104223-kawaii-coloring-book.json) |
 | Kawaii Deathu Desu | 120089 | [120089-kawaii-deathu-desu.json](./120089-kawaii-deathu-desu.json) |
 | Kawaii Force: Liberty Line | 397876 | [397876-kawaii-force-liberty-line.json](./397876-kawaii-force-liberty-line.json) |
@@ -2231,6 +2233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights vs Nature | 214193 | [214193-knights-vs-nature.json](./214193-knights-vs-nature.json) |
 | Knights: Spiral Islands | 66098 | [66098-knights-spiral-islands.json](./66098-knights-spiral-islands.json) |
 | Knightsquire | 78762 | [78762-knightsquire.json](./78762-knightsquire.json) |
+| Knightwatch | 376651 | [376651-knightwatch.json](./376651-knightwatch.json) |
 | Knighty | 216719 | [216719-knighty.json](./216719-knighty.json) |
 | Knighty Knight | 261320 | [261320-knighty-knight.json](./261320-knighty-knight.json) |
 | Knighty Night | 118920 | [118920-knighty-night.json](./118920-knighty-night.json) |
