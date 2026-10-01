@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yamamura Misa Suspense: Kyoto Kurama Sansou Satsujin Jiken | 268531 | [268531-yamamura-misa-suspense-kyoto-kurama-sansou-satsujin-jiken.json](./268531-yamamura-misa-suspense-kyoto-kurama-sansou-satsujin-jiken.json) |
 | Yamamura Misa Suspense: Kyoto Ryuu no Tera Satsujin Jiken | 65474 | [65474-yamamura-misa-suspense-kyoto-ryuu-no-tera-satsujin-jiken.json](./65474-yamamura-misa-suspense-kyoto-ryuu-no-tera-satsujin-jiken.json) |
 | Yamamura Misa Suspense: Kyoto Zaiteku Satsujin Jiken | 48869 | [48869-yamamura-misa-suspense-kyoto-zaiteku-satsujin-jiken.json](./48869-yamamura-misa-suspense-kyoto-zaiteku-satsujin-jiken.json) |
+| Yamasa Digi Selection 2 | 361283 | [361283-yamasa-digi-selection-2.json](./361283-yamasa-digi-selection-2.json) |
 | Yamasa Digi World 2: LCD Edition | 61328 | [61328-yamasa-digi-world-2-lcd-edition.json](./61328-yamasa-digi-world-2-lcd-edition.json) |
 | Yamasa Digi World 3 | 61327 | [61327-yamasa-digi-world-3.json](./61327-yamasa-digi-world-3.json) |
 | Yamasa Digi World 4 | 61323 | [61323-yamasa-digi-world-4.json](./61323-yamasa-digi-world-4.json) |
@@ -500,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Can Talk to People | 184072 | [184072-you-can-talk-to-people.json](./184072-you-can-talk-to-people.json) |
 | You can't do it alone | 177299 | [177299-you-cant-do-it-alone.json](./177299-you-cant-do-it-alone.json) |
 | You Can't Save Her | 320410 | [320410-you-cant-save-her.json](./320410-you-cant-save-her.json) |
+| You Can't Win This Game | 361263 | [361263-you-cant-win-this-game.json](./361263-you-cant-win-this-game.json) |
 | You Deserve | 32036 | [32036-you-deserve.json](./32036-you-deserve.json) |
 | You Don't Know Jack | 144785 | [144785-you-dont-know-jack.json](./144785-you-dont-know-jack.json) |
 | You Don't Know Jack | 5304 | [5304-you-dont-know-jack.json](./5304-you-dont-know-jack.json) |
