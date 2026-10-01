@@ -2668,6 +2668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reshape | 255729 | [255729-reshape.json](./255729-reshape.json) |
 | Reshape | 293634 | [293634-reshape.json](./293634-reshape.json) |
 | Reshine | 399078 | [399078-reshine.json](./399078-reshine.json) |
+| ReShot | 364646 | [364646-reshot.json](./364646-reshot.json) |
 | Resident Evil | 102722 | [102722-resident-evil.json](./102722-resident-evil.json) |
 | Resident Evil | 288943 | [288943-resident-evil.json](./288943-resident-evil.json) |
 | Resident Evil | 396732 | [396732-resident-evil.json](./396732-resident-evil.json) |
@@ -2903,6 +2904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Game Store Simulator | 331111 | [331111-retro-game-store-simulator.json](./331111-retro-game-store-simulator.json) |
 | Retro Garbage | 62675 | [62675-retro-garbage.json](./62675-retro-garbage.json) |
 | Retro Geek Shop Simulator | 348968 | [348968-retro-geek-shop-simulator.json](./348968-retro-geek-shop-simulator.json) |
+| Retro Glitch | 364636 | [364636-retro-glitch.json](./364636-retro-glitch.json) |
 | Retro Golden Age: Livingstone I Presume | 196052 | [196052-retro-golden-age-livingstone-i-presume.json](./196052-retro-golden-age-livingstone-i-presume.json) |
 | Retro Golf Mania | 408247 | [408247-retro-golf-mania.json](./408247-retro-golf-mania.json) |
 | Retro Granny's Garden | 70921 | [70921-retro-grannys-garden.json](./70921-retro-grannys-garden.json) |
@@ -5869,6 +5871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumble Trucks | 44515 | [44515-rumble-trucks.json](./44515-rumble-trucks.json) |
 | Rumbral | 344465 | [344465-rumbral.json](./344465-rumbral.json) |
 | Rumia in the darkness | 121013 | [121013-rumia-in-the-darkness.json](./121013-rumia-in-the-darkness.json) |
+| Rumination | 364638 | [364638-rumination.json](./364638-rumination.json) |
 | Rummikub | 243274 | [243274-rummikub.json](./243274-rummikub.json) |
 | Rummy - classic card game | 88416 | [88416-rummy-classic-card-game.json](./88416-rummy-classic-card-game.json) |
 | Rummy 3D Premium | 118405 | [118405-rummy-3d-premium.json](./118405-rummy-3d-premium.json) |
