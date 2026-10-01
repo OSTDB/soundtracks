@@ -3998,6 +3998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birds Birds Birds | 107209 | [107209-birds-birds-birds.json](./107209-birds-birds-birds.json) |
 | Birds Blitz | 242663 | [242663-birds-blitz.json](./242663-birds-blitz.json) |
 | Birds no More | 245317 | [245317-birds-no-more.json](./245317-birds-no-more.json) |
+| Birds of a Feather | 350569 | [350569-birds-of-a-feather.json](./350569-birds-of-a-feather.json) |
 | Birds of Ascent | 404222 | [404222-birds-of-ascent.json](./404222-birds-of-ascent.json) |
 | Birds of Prey | 15673 | [15673-birds-of-prey.json](./15673-birds-of-prey.json) |
 | Birds of War | 390140 | [390140-birds-of-war.json](./390140-birds-of-war.json) |
@@ -4626,6 +4627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Off | 136855 | [136855-blast-off.json](./136855-blast-off.json) |
 | Blast Off | 46841 | [46841-blast-off.json](./46841-blast-off.json) |
 | Blast Off Far Away | 203910 | [203910-blast-off-far-away.json](./203910-blast-off-far-away.json) |
+| Blast Processed | 350551 | [350551-blast-processed.json](./350551-blast-processed.json) |
 | Blast Pulser | 179121 | [179121-blast-pulser.json](./179121-blast-pulser.json) |
 | Blast Radius | 270662 | [270662-blast-radius.json](./270662-blast-radius.json) |
 | Blast Radius | 360660 | [360660-blast-radius.json](./360660-blast-radius.json) |
@@ -5509,6 +5511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Chips | 191126 | [191126-blue-chips.json](./191126-blue-chips.json) |
 | Blue Cradle: Signifie | 265143 | [265143-blue-cradle-signifie.json](./265143-blue-cradle-signifie.json) |
 | Blue Crow | 385822 | [385822-blue-crow.json](./385822-blue-crow.json) |
+| Blue Delta | 350599 | [350599-blue-delta.json](./350599-blue-delta.json) |
 | Blue Dragon: Awakened Shadow | 20465 | [20465-blue-dragon-awakened-shadow.json](./20465-blue-dragon-awakened-shadow.json) |
 | Blue Dragon: Shuffle Dungeon | 259863 | [259863-blue-dragon-shuffle-dungeon.json](./259863-blue-dragon-shuffle-dungeon.json) |
 | Blue Drifter | 129462 | [129462-blue-drifter.json](./129462-blue-drifter.json) |
@@ -7140,6 +7143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breadbulls | 351264 | [351264-breadbulls.json](./351264-breadbulls.json) |
 | Breadieval | 361683 | [361683-breadieval.json](./361683-breadieval.json) |
 | BreadKnight Adventures | 355568 | [355568-breadknight-adventures.json](./355568-breadknight-adventures.json) |
+| Breadskate Forever | 350543 | [350543-breadskate-forever.json](./350543-breadskate-forever.json) |
 | Breadwinner VR | 55493 | [55493-breadwinner-vr.json](./55493-breadwinner-vr.json) |
 | Break 'Em All | 20534 | [20534-break-em-all.json](./20534-break-em-all.json) |
 | Break a Leg | 307054 | [307054-break-a-leg.json](./307054-break-a-leg.json) |
