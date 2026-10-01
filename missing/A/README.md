@@ -7063,6 +7063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astra GalaxyX | 399615 | [399615-astra-galaxyx.json](./399615-astra-galaxyx.json) |
 | Astra Intra | 258001 | [258001-astra-intra.json](./258001-astra-intra.json) |
 | Astra Itinera | 175262 | [175262-astra-itinera.json](./175262-astra-itinera.json) |
+| Astra Moment: Dimension | 365240 | [365240-astra-moment-dimension.json](./365240-astra-moment-dimension.json) |
 | Astra Protocol 2: Audio Pack | 309660 | [309660-astra-protocol-2-audio-pack.json](./309660-astra-protocol-2-audio-pack.json) |
 | Astra Quest | 347718 | [347718-astra-quest.json](./347718-astra-quest.json) |
 | Astra Sentinel | 392126 | [392126-astra-sentinel.json](./392126-astra-sentinel.json) |
@@ -7510,6 +7511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atom Zombie Smasher | 8388 | [8388-atom-zombie-smasher.json](./8388-atom-zombie-smasher.json) |
 | Atom-X | 111755 | [111755-atom-x.json](./111755-atom-x.json) |
 | Atomaders | 94264 | [94264-atomaders.json](./94264-atomaders.json) |
+| Atomanta | 365222 | [365222-atomanta.json](./365222-atomanta.json) |
 | Atomfall | 305159 | [305159-atomfall.json](./305159-atomfall.json) |
 | Atomfall: Complete Edition | 393802 | [393802-atomfall-complete-edition.json](./393802-atomfall-complete-edition.json) |
 | Atomfall: Wicked Isle | 344476 | [344476-atomfall-wicked-isle.json](./344476-atomfall-wicked-isle.json) |
@@ -8014,6 +8016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avination | 64490 | [64490-avination.json](./64490-avination.json) |
 | Avis Rapida: Aerobatic Racing | 118384 | [118384-avis-rapida-aerobatic-racing.json](./118384-avis-rapida-aerobatic-racing.json) |
 | Avish! | 69863 | [69863-avish.json](./69863-avish.json) |
+| Avitium | 365216 | [365216-avitium.json](./365216-avitium.json) |
 | Avium | 274504 | [274504-avium.json](./274504-avium.json) |
 | Avlo the Imp Wizard | 417533 | [417533-avlo-the-imp-wizard.json](./417533-avlo-the-imp-wizard.json) |
 | Avo Echoes of the Void | 395146 | [395146-avo-echoes-of-the-void.json](./395146-avo-echoes-of-the-void.json) |
