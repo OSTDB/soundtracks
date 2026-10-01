@@ -810,6 +810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necrocrisis | 208427 | [208427-necrocrisis.json](./208427-necrocrisis.json) |
 | Necrodungeon | 358278 | [358278-necrodungeon.json](./358278-necrodungeon.json) |
 | Necrofall | 401814 | [401814-necrofall.json](./401814-necrofall.json) |
+| Necrofane | 347211 | [347211-necrofane.json](./347211-necrofane.json) |
 | Necroffense | 220711 | [220711-necroffense.json](./220711-necroffense.json) |
 | Necroflora | 333542 | [333542-necroflora.json](./333542-necroflora.json) |
 | NecroLand: Undead Corps | 127361 | [127361-necroland-undead-corps.json](./127361-necroland-undead-corps.json) |
@@ -2957,6 +2958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noble Armada: Lost Worlds | 107897 | [107897-noble-armada-lost-worlds.json](./107897-noble-armada-lost-worlds.json) |
 | Noble Fates | 183602 | [183602-noble-fates.json](./183602-noble-fates.json) |
 | Noble Knight | 263191 | [263191-noble-knight.json](./263191-noble-knight.json) |
+| Noble Legacy | 347284 | [347284-noble-legacy.json](./347284-noble-legacy.json) |
 | Noble Steed | 379039 | [379039-noble-steed.json](./379039-noble-steed.json) |
 | Noble Works | 132082 | [132082-noble-works.json](./132082-noble-works.json) |
 | Noble's Land | 137542 | [137542-nobles-land.json](./137542-nobles-land.json) |
