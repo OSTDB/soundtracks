@@ -592,6 +592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icontrivia: Guess the Dogs | 233101 | [233101-icontrivia-guess-the-dogs.json](./233101-icontrivia-guess-the-dogs.json) |
 | ICP: The Gathering | 105537 | [105537-icp-the-gathering.json](./105537-icp-the-gathering.json) |
 | Icy Fishes | 286643 | [286643-icy-fishes.json](./286643-icy-fishes.json) |
+| Icy Gifts | 342232 | [342232-icy-gifts.json](./342232-icy-gifts.json) |
 | Icy Incline | 296919 | [296919-icy-incline.json](./296919-icy-incline.json) |
 | Icy Spell | 294863 | [294863-icy-spell.json](./294863-icy-spell.json) |
 | Icy Tower | 18095 | [18095-icy-tower.json](./18095-icy-tower.json) |
@@ -1368,6 +1369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Extremis | 115429 | [115429-in-extremis.json](./115429-in-extremis.json) |
 | In Extremis | 31162 | [31162-in-extremis.json](./31162-in-extremis.json) |
 | In Extremis DX | 225759 | [225759-in-extremis-dx.json](./225759-in-extremis-dx.json) |
+| In Falsus | 342204 | [342204-in-falsus.json](./342204-in-falsus.json) |
 | In Fear I Trust: Episode 3 - Iron and Rust | 171363 | [171363-in-fear-i-trust-episode-3-iron-and-rust.json](./171363-in-fear-i-trust-episode-3-iron-and-rust.json) |
 | In Good Company | 184906 | [184906-in-good-company.json](./184906-in-good-company.json) |
 | In Harness | 369083 | [369083-in-harness.json](./369083-in-harness.json) |
@@ -1383,6 +1385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In my Father's House are Many Rooms | 388405 | [388405-in-my-fathers-house-are-many-rooms.json](./388405-in-my-fathers-house-are-many-rooms.json) |
 | In My Friend Carrie's Car | 135020 | [135020-in-my-friend-carries-car.json](./135020-in-my-friend-carries-car.json) |
 | In My Head | 317370 | [317370-in-my-head.json](./317370-in-my-head.json) |
+| In My Heart | 342119 | [342119-in-my-heart.json](./342119-in-my-heart.json) |
 | In My Orbit | 351200 | [351200-in-my-orbit.json](./351200-in-my-orbit.json) |
 | In My Shadow | 140488 | [140488-in-my-shadow.json](./140488-in-my-shadow.json) |
 | In Other Waters | 86504 | [86504-in-other-waters.json](./86504-in-other-waters.json) |
@@ -2162,6 +2165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insanely Twisted Shadow Planet | 6168 | [6168-insanely-twisted-shadow-planet.json](./6168-insanely-twisted-shadow-planet.json) |
 | Insania | 132738 | [132738-insania.json](./132738-insania.json) |
 | Insanias | 250950 | [250950-insanias.json](./250950-insanias.json) |
+| Insanidade | 342218 | [342218-insanidade.json](./342218-insanidade.json) |
 | Insaniquarium! | 334696 | [334696-insaniquarium.json](./334696-insaniquarium.json) |
 | Insaniquarium! Deluxe | 8323 | [8323-insaniquarium-deluxe.json](./8323-insaniquarium-deluxe.json) |
 | Insanity | 94703 | [94703-insanity.json](./94703-insanity.json) |
