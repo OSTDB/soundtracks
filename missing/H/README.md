@@ -603,6 +603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HandyBot | 57891 | [57891-handybot.json](./57891-handybot.json) |
 | HandyCopter | 89959 | [89959-handycopter.json](./89959-handycopter.json) |
 | Handyman | 216202 | [216202-handyman.json](./216202-handyman.json) |
+| Handyman Fantasy | 368078 | [368078-handyman-fantasy.json](./368078-handyman-fantasy.json) |
 | Haneda Girl | 222901 | [222901-haneda-girl.json](./222901-haneda-girl.json) |
 | HaneHolo! | 372619 | [372619-haneholo.json](./372619-haneholo.json) |
 | Haneru no Tobira Wii: Kirigirisu | 266282 | [266282-haneru-no-tobira-wii-kirigirisu.json](./266282-haneru-no-tobira-wii-kirigirisu.json) |
@@ -2266,6 +2267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Clicker: Yumi Is Streaming | 389618 | [389618-hentai-clicker-yumi-is-streaming.json](./389618-hentai-clicker-yumi-is-streaming.json) |
 | Hentai Coloring Game | 161257 | [161257-hentai-coloring-game.json](./161257-hentai-coloring-game.json) |
 | Hentai Crush | 136424 | [136424-hentai-crush.json](./136424-hentai-crush.json) |
+| Hentai Cyber | 368099 | [368099-hentai-cyber.json](./368099-hentai-cyber.json) |
 | Hentai Darts | 165529 | [165529-hentai-darts.json](./165529-hentai-darts.json) |
 | Hentai Dating Stories: Brazil - Best Stories 1 | 308788 | [308788-hentai-dating-stories-brazil-best-stories-1.json](./308788-hentai-dating-stories-brazil-best-stories-1.json) |
 | Hentai Dating Stories: Brazil - Best Stories 2 | 308787 | [308787-hentai-dating-stories-brazil-best-stories-2.json](./308787-hentai-dating-stories-brazil-best-stories-2.json) |
@@ -2385,6 +2387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Memory | 105200 | [105200-hentai-memory.json](./105200-hentai-memory.json) |
 | Hentai Milf | 296908 | [296908-hentai-milf.json](./296908-hentai-milf.json) |
 | Hentai Milf City | 371375 | [371375-hentai-milf-city.json](./371375-hentai-milf-city.json) |
+| Hentai Milf Syndicate | 368076 | [368076-hentai-milf-syndicate.json](./368076-hentai-milf-syndicate.json) |
 | Hentai Military | 238434 | [238434-hentai-military.json](./238434-hentai-military.json) |
 | Hentai MineSweeper | 146280 | [146280-hentai-minesweeper.json](./146280-hentai-minesweeper.json) |
 | Hentai MineSweeper: Endless Mode | 146281 | [146281-hentai-minesweeper-endless-mode.json](./146281-hentai-minesweeper-endless-mode.json) |
@@ -2486,6 +2489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Tales: C-D Girls | 371382 | [371382-hentai-tales-c-d-girls.json](./371382-hentai-tales-c-d-girls.json) |
 | Hentai Tales: Cheating Family | 371381 | [371381-hentai-tales-cheating-family.json](./371381-hentai-tales-cheating-family.json) |
 | Hentai Tales: Creampie Cuckold Wife | 389607 | [389607-hentai-tales-creampie-cuckold-wife.json](./389607-hentai-tales-creampie-cuckold-wife.json) |
+| Hentai Tales: Hunt of Two Temptresses | 368100 | [368100-hentai-tales-hunt-of-two-temptresses.json](./368100-hentai-tales-hunt-of-two-temptresses.json) |
 | Hentai Tales: Isekai Uncle Reversal | 367029 | [367029-hentai-tales-isekai-uncle-reversal.json](./367029-hentai-tales-isekai-uncle-reversal.json) |
 | Hentai Tales: Mysterious Clinic | 291094 | [291094-hentai-tales-mysterious-clinic.json](./291094-hentai-tales-mysterious-clinic.json) |
 | Hentai Tales: Office Sex Handler | 389606 | [389606-hentai-tales-office-sex-handler.json](./389606-hentai-tales-office-sex-handler.json) |
