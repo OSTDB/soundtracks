@@ -1343,6 +1343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Forest: Rabbit Story | 309475 | [309475-adventure-forest-rabbit-story.json](./309475-adventure-forest-rabbit-story.json) |
 | Adventure Galaxy | 126585 | [126585-adventure-galaxy.json](./126585-adventure-galaxy.json) |
 | Adventure II | 305183 | [305183-adventure-ii.json](./305183-adventure-ii.json) |
+| Adventure in a Mysterious Island | 381768 | [381768-adventure-in-a-mysterious-island.json](./381768-adventure-in-a-mysterious-island.json) |
 | Adventure In Aellion | 117691 | [117691-adventure-in-aellion.json](./117691-adventure-in-aellion.json) |
 | Adventure in My Head | 192945 | [192945-adventure-in-my-head.json](./192945-adventure-in-my-head.json) |
 | Adventure In Vegas: Slot Machine | 84974 | [84974-adventure-in-vegas-slot-machine.json](./84974-adventure-in-vegas-slot-machine.json) |
@@ -3835,6 +3836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Imp and an Impostor | 378174 | [378174-an-imp-and-an-impostor.json](./378174-an-imp-and-an-impostor.json) |
 | An Incremental Game About Placing Blocks | 390177 | [390177-an-incremental-game-about-placing-blocks.json](./390177-an-incremental-game-about-placing-blocks.json) |
 | An Indie Game a Month: Unreal Journey | 190973 | [190973-an-indie-game-a-month-unreal-journey.json](./190973-an-indie-game-a-month-unreal-journey.json) |
+| An Introvert's Nightmare | 381762 | [381762-an-introverts-nightmare.json](./381762-an-introverts-nightmare.json) |
 | An Island Away | 293090 | [293090-an-island-away.json](./293090-an-island-away.json) |
 | An Ocean Game | 360588 | [360588-an-ocean-game.json](./360588-an-ocean-game.json) |
 | An Octonaut Odyssey | 30198 | [30198-an-octonaut-odyssey.json](./30198-an-octonaut-odyssey.json) |
@@ -5332,6 +5334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Mouser | 411153 | [411153-arcade-archives-2-mouser.json](./411153-arcade-archives-2-mouser.json) |
 | Arcade Archives 2: Munch Mobile | 374668 | [374668-arcade-archives-2-munch-mobile.json](./374668-arcade-archives-2-munch-mobile.json) |
 | Arcade Archives 2: Pinball Action | 413936 | [413936-arcade-archives-2-pinball-action.json](./413936-arcade-archives-2-pinball-action.json) |
+| Arcade Archives 2: Roc'n Rope | 381796 | [381796-arcade-archives-2-rocn-rope.json](./381796-arcade-archives-2-rocn-rope.json) |
 | Arcade Archives 2: Scrambled Egg | 364071 | [364071-arcade-archives-2-scrambled-egg.json](./364071-arcade-archives-2-scrambled-egg.json) |
 | Arcade Archives 2: Syvalion | 410363 | [410363-arcade-archives-2-syvalion.json](./410363-arcade-archives-2-syvalion.json) |
 | Arcade Archives 2: Tekken | 408158 | [408158-arcade-archives-2-tekken.json](./408158-arcade-archives-2-tekken.json) |
@@ -5429,6 +5432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Rastan Saga II | 306525 | [306525-arcade-archives-rastan-saga-ii.json](./306525-arcade-archives-rastan-saga-ii.json) |
 | Arcade Archives: Rave Racer | 392771 | [392771-arcade-archives-rave-racer.json](./392771-arcade-archives-rave-racer.json) |
 | Arcade Archives: Riot | 321501 | [321501-arcade-archives-riot.json](./321501-arcade-archives-riot.json) |
+| Arcade Archives: Roc'n Rope | 381795 | [381795-arcade-archives-rocn-rope.json](./381795-arcade-archives-rocn-rope.json) |
 | Arcade Archives: Roller Jammer | 210745 | [210745-arcade-archives-roller-jammer.json](./210745-arcade-archives-roller-jammer.json) |
 | Arcade Archives: Rolling Thunder | 196174 | [196174-arcade-archives-rolling-thunder.json](./196174-arcade-archives-rolling-thunder.json) |
 | Arcade Archives: Rolling Thunder 2 | 251000 | [251000-arcade-archives-rolling-thunder-2.json](./251000-arcade-archives-rolling-thunder-2.json) |
@@ -7357,6 +7361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Athena's Circus | 334505 | [334505-athenas-circus.json](./334505-athenas-circus.json) |
 | Athenian Acropolis | 74445 | [74445-athenian-acropolis.json](./74445-athenian-acropolis.json) |
 | Athenian Rhapsody: Thunder Goober's Personality Dungeon | 239772 | [239772-athenian-rhapsody-thunder-goobers-personality-dungeon.json](./239772-athenian-rhapsody-thunder-goobers-personality-dungeon.json) |
+| Athletic Director Simulator 4000 | 381779 | [381779-athletic-director-simulator-4000.json](./381779-athletic-director-simulator-4000.json) |
 | Athletic Land | 55859 | [55859-athletic-land.json](./55859-athletic-land.json) |
 | Athletic World | 9104 | [9104-athletic-world.json](./9104-athletic-world.json) |
 | Athletics 2: Winter Sports Pro | 86877 | [86877-athletics-2-winter-sports-pro.json](./86877-athletics-2-winter-sports-pro.json) |
