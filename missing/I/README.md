@@ -763,6 +763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Pinball | 330171 | [330171-idle-pinball.json](./330171-idle-pinball.json) |
 | Idle Pirate Legend | 281448 | [281448-idle-pirate-legend.json](./281448-idle-pirate-legend.json) |
 | Idle Pixel Crush - Ball Crush | 105876 | [105876-idle-pixel-crush-ball-crush.json](./105876-idle-pixel-crush-ball-crush.json) |
+| Idle Pixel Fantasy | 369699 | [369699-idle-pixel-fantasy.json](./369699-idle-pixel-fantasy.json) |
 | Idle Pizza Business | 373736 | [373736-idle-pizza-business.json](./373736-idle-pizza-business.json) |
 | Idle Pizza Empire | 235299 | [235299-idle-pizza-empire.json](./235299-idle-pizza-empire.json) |
 | Idle Portal Guardian | 118372 | [118372-idle-portal-guardian.json](./118372-idle-portal-guardian.json) |
