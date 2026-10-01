@@ -784,6 +784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandnight Hill Revelation | 382768 | [382768-sandnight-hill-revelation.json](./382768-sandnight-hill-revelation.json) |
 | Sandoria | 241890 | [241890-sandoria.json](./241890-sandoria.json) |
 | Sandra and Woo in the Cursed Adventure | 28809 | [28809-sandra-and-woo-in-the-cursed-adventure.json](./28809-sandra-and-woo-in-the-cursed-adventure.json) |
+| Sandrail Race | 345056 | [345056-sandrail-race.json](./345056-sandrail-race.json) |
 | Sandream | 195706 | [195706-sandream.json](./195706-sandream.json) |
 | SandRipper | 270930 | [270930-sandripper.json](./270930-sandripper.json) |
 | Sands of Fate | 414293 | [414293-sands-of-fate.json](./414293-sands-of-fate.json) |
@@ -2515,6 +2516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sekei | 389651 | [389651-sekei.json](./389651-sekei.json) |
 | Sekibanki Head Adventure | 158520 | [158520-sekibanki-head-adventure.json](./158520-sekibanki-head-adventure.json) |
 | Sekien no Inganock ~What a Beautiful People~ Fullvoice ReBORN | 378204 | [378204-sekien-no-inganock-what-a-beautiful-people-fullvoice-reborn.json](./378204-sekien-no-inganock-what-a-beautiful-people-fullvoice-reborn.json) |
+| Sekira | 345093 | [345093-sekira.json](./345093-sekira.json) |
 | Sekirei: Mirai Kara no Okurimono | 65547 | [65547-sekirei-mirai-kara-no-okurimono.json](./65547-sekirei-mirai-kara-no-okurimono.json) |
 | Sekiro: Shadows Die Twice - Game of the Year Edition | 365281 | [365281-sekiro-shadows-die-twice-game-of-the-year-edition.json](./365281-sekiro-shadows-die-twice-game-of-the-year-edition.json) |
 | Sekka the Gleam | 355204 | [355204-sekka-the-gleam.json](./355204-sekka-the-gleam.json) |
@@ -4340,6 +4342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoe Salesman Mania | 378280 | [378280-shoe-salesman-mania.json](./378280-shoe-salesman-mania.json) |
 | Shoebill | 151119 | [151119-shoebill.json](./151119-shoebill.json) |
 | Shoemaker | 110772 | [110772-shoemaker.json](./110772-shoemaker.json) |
+| Shoestrings Story | 345090 | [345090-shoestrings-story.json](./345090-shoestrings-story.json) |
 | Shoganai | 154428 | [154428-shoganai.json](./154428-shoganai.json) |
 | Shogi | 63582 | [63582-shogi.json](./63582-shogi.json) |
 | Shogi 2 | 282637 | [282637-shogi-2.json](./282637-shogi-2.json) |
@@ -11383,6 +11386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Aquarium | 348803 | [348803-star-aquarium.json](./348803-star-aquarium.json) |
 | Star Archer | 337982 | [337982-star-archer.json](./337982-star-archer.json) |
 | Star Arthur Densetsu I: Wakusei Mephius | 65513 | [65513-star-arthur-densetsu-i-wakusei-mephius.json](./65513-star-arthur-densetsu-i-wakusei-mephius.json) |
+| Star Ash Fleet | 345081 | [345081-star-ash-fleet.json](./345081-star-ash-fleet.json) |
 | Star Battalion | 203231 | [203231-star-battalion.json](./203231-star-battalion.json) |
 | Star Beads | 329007 | [329007-star-beads.json](./329007-star-beads.json) |
 | Star Beasts: Meteor Version | 227920 | [227920-star-beasts-meteor-version.json](./227920-star-beasts-meteor-version.json) |
@@ -13227,6 +13231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Aeons | 216861 | [216861-strange-aeons.json](./216861-strange-aeons.json) |
 | Strange Alchemy | 337807 | [337807-strange-alchemy.json](./337807-strange-alchemy.json) |
 | Strange Bird Island | 180590 | [180590-strange-bird-island.json](./180590-strange-bird-island.json) |
+| Strange Block 36 | 345069 | [345069-strange-block-36.json](./345069-strange-block-36.json) |
 | Strange Day | 365881 | [365881-strange-day.json](./365881-strange-day.json) |
 | Strange Hill | 263750 | [263750-strange-hill.json](./263750-strange-hill.json) |
 | Strange Horizons | 384499 | [384499-strange-horizons.json](./384499-strange-horizons.json) |
@@ -13543,6 +13548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Rider | 210637 | [210637-street-rider.json](./210637-street-rider.json) |
 | Street Riders | 46017 | [46017-street-riders.json](./46017-street-riders.json) |
 | Street Shuffle | 134659 | [134659-street-shuffle.json](./134659-street-shuffle.json) |
+| Street Soccer Online | 345087 | [345087-street-soccer-online.json](./345087-street-soccer-online.json) |
 | Street Soccer Simulator | 391342 | [391342-street-soccer-simulator.json](./391342-street-soccer-simulator.json) |
 | Street Sports Baseball | 52201 | [52201-street-sports-baseball.json](./52201-street-sports-baseball.json) |
 | Street Sports Basketball | 37163 | [37163-street-sports-basketball.json](./37163-street-sports-basketball.json) |
@@ -13927,6 +13933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SubPixels | 339926 | [339926-subpixels.json](./339926-subpixels.json) |
 | Subpoena Magus | 383933 | [383933-subpoena-magus.json](./383933-subpoena-magus.json) |
 | SubPrime Delivery | 406231 | [406231-subprime-delivery.json](./406231-subprime-delivery.json) |
+| Subroutine | 344992 | [344992-subroutine.json](./344992-subroutine.json) |
 | Subrov | 152859 | [152859-subrov.json](./152859-subrov.json) |
 | Subsiege | 26677 | [26677-subsiege.json](./26677-subsiege.json) |
 | Subsist: Apocalypse Survival | 296453 | [296453-subsist-apocalypse-survival.json](./296453-subsist-apocalypse-survival.json) |
