@@ -1003,6 +1003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Neko Rampage | 231304 | [231304-neko-neko-rampage.json](./231304-neko-neko-rampage.json) |
 | Neko Night | 222912 | [222912-neko-night.json](./222912-neko-night.json) |
 | Neko Ningen Eugene | 349439 | [349439-neko-ningen-eugene.json](./349439-neko-ningen-eugene.json) |
+| Neko no Sentouki | 343390 | [343390-neko-no-sentouki.json](./343390-neko-no-sentouki.json) |
 | Neko Nyaa~ | 195479 | [195479-neko-nyaa.json](./195479-neko-nyaa.json) |
 | Neko Rescue Tale | 241040 | [241040-neko-rescue-tale.json](./241040-neko-rescue-tale.json) |
 | Neko Sagashi | 227270 | [227270-neko-sagashi.json](./227270-neko-sagashi.json) |
@@ -3188,6 +3189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonograms | 233466 | [233466-nonograms.json](./233466-nonograms.json) |
 | Nonolith | 321176 | [321176-nonolith.json](./321176-nonolith.json) |
 | Nonomatic | 371453 | [371453-nonomatic.json](./371453-nonomatic.json) |
+| Nonononogram | 343313 | [343313-nonononogram.json](./343313-nonononogram.json) |
 | Nonotown | 238467 | [238467-nonotown.json](./238467-nonotown.json) |
 | Nonozle: Food and Drink + Miscellaneous Puzzle Packs | 332610 | [332610-nonozle-food-and-drink-miscellaneous-puzzle-packs.json](./332610-nonozle-food-and-drink-miscellaneous-puzzle-packs.json) |
 | Nonsense Fall | 348937 | [348937-nonsense-fall.json](./348937-nonsense-fall.json) |
