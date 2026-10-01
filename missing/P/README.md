@@ -1939,6 +1939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pelé: Soccer Legend | 234613 | [234613-pele-soccer-legend.json](./234613-pele-soccer-legend.json) |
 | Pelé! | 78098 | [78098-pele.json](./78098-pele.json) |
 | Pelea | 51546 | [51546-pelea.json](./51546-pelea.json) |
+| Pelican | 345633 | [345633-pelican.json](./345633-pelican.json) |
 | Pelican Empyrean | 373187 | [373187-pelican-empyrean.json](./373187-pelican-empyrean.json) |
 | Pelikeeper | 381193 | [381193-pelikeeper.json](./381193-pelikeeper.json) |
 | Pellet Packer: Cookie Crunch | 270965 | [270965-pellet-packer-cookie-crunch.json](./270965-pellet-packer-cookie-crunch.json) |
@@ -1984,6 +1985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pengu | 177520 | [177520-pengu.json](./177520-pengu.json) |
 | Pengu Never Left | 187399 | [187399-pengu-never-left.json](./187399-pengu-never-left.json) |
 | Penguemic: Word Domination | 61870 | [61870-penguemic-word-domination.json](./61870-penguemic-word-domination.json) |
+| Penguin | 345635 | [345635-penguin.json](./345635-penguin.json) |
 | Penguin | 393624 | [393624-penguin.json](./393624-penguin.json) |
 | Penguin Adventure | 37065 | [37065-penguin-adventure.json](./37065-penguin-adventure.json) |
 | Penguin Armada | 259650 | [259650-penguin-armada.json](./259650-penguin-armada.json) |
@@ -3278,6 +3280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pina Colada 2 | 321367 | [321367-pina-colada-2.json](./321367-pina-colada-2.json) |
 | Piñata | 32885 | [32885-pinata.json](./32885-pinata.json) |
 | Piñata Attack | 129014 | [129014-pinata-attack.json](./129014-pinata-attack.json) |
+| Piñata Go Boom | 345537 | [345537-pinata-go-boom.json](./345537-pinata-go-boom.json) |
 | Pinata Hunter | 267387 | [267387-pinata-hunter.json](./267387-pinata-hunter.json) |
 | Pinball | 131467 | [131467-pinball.json](./131467-pinball.json) |
 | Pinball | 131482 | [131482-pinball.json](./131482-pinball.json) |
@@ -3481,6 +3484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ping Pong Trick Shot | 56779 | [56779-ping-pong-trick-shot.json](./56779-ping-pong-trick-shot.json) |
 | Ping Pong Trick Shot 2 | 84823 | [84823-ping-pong-trick-shot-2.json](./84823-ping-pong-trick-shot-2.json) |
 | Ping Pong Trick Shot Evolution | 115059 | [115059-ping-pong-trick-shot-evolution.json](./115059-ping-pong-trick-shot-evolution.json) |
+| Ping Profit: Internet Tycoon | 345646 | [345646-ping-profit-internet-tycoon.json](./345646-ping-profit-internet-tycoon.json) |
 | Ping Redux | 119797 | [119797-ping-redux.json](./119797-ping-redux.json) |
 | Ping! | 79906 | [79906-ping.json](./79906-ping.json) |
 | Pinga Ponga | 31850 | [31850-pinga-ponga.json](./31850-pinga-ponga.json) |
