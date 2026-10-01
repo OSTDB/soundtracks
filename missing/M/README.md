@@ -1451,6 +1451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mangchi the Hammer Boy | 240178 | [240178-mangchi-the-hammer-boy.json](./240178-mangchi-the-hammer-boy.json) |
 | Mango | 393833 | [393833-mango.json](./393833-mango.json) |
 | Mango 64 | 296972 | [296972-mango-64.json](./296972-mango-64.json) |
+| Mango's Fisharium | 348890 | [348890-mangos-fisharium.json](./348890-mangos-fisharium.json) |
 | MangoMan | 183471 | [183471-mangoman.json](./183471-mangoman.json) |
 | ManHandler | 243689 | [243689-manhandler.json](./243689-manhandler.json) |
 | Manhattan Dealers | 10846 | [10846-manhattan-dealers.json](./10846-manhattan-dealers.json) |
@@ -7232,6 +7233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monji | 407448 | [407448-monji.json](./407448-monji.json) |
 | Monk & The Misfit Monsters | 413622 | [413622-monk-and-the-misfit-monsters.json](./413622-monk-and-the-misfit-monsters.json) |
 | Monk Took Book | 393839 | [393839-monk-took-book.json](./393839-monk-took-book.json) |
+| Monkaru Fanta: Yuusha to Suishou no Shoujo | 348924 | [348924-monkaru-fanta-yuusha-to-suishou-no-shoujo.json](./348924-monkaru-fanta-yuusha-to-suishou-no-shoujo.json) |
 | Monkeround | 326219 | [326219-monkeround.json](./326219-monkeround.json) |
 | Monkey Bananza | 146349 | [146349-monkey-bananza.json](./146349-monkey-bananza.json) |
 | Monkey Boxing | 61063 | [61063-monkey-boxing.json](./61063-monkey-boxing.json) |
@@ -7252,6 +7254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Island 2 Special Edition: LeChuck's Revenge | 66 | [66-monkey-island-2-special-edition-lechucks-revenge.json](./66-monkey-island-2-special-edition-lechucks-revenge.json) |
 | Monkey Island Special Edition Collection | 43036 | [43036-monkey-island-special-edition-collection.json](./43036-monkey-island-special-edition-collection.json) |
 | Monkey King Online | 61691 | [61691-monkey-king-online.json](./61691-monkey-king-online.json) |
+| Monkey King Simulator Special Edition | 348908 | [348908-monkey-king-simulator-special-edition.json](./348908-monkey-king-simulator-special-edition.json) |
 | Monkey King vs Transformers | 156160 | [156160-monkey-king-vs-transformers.json](./156160-monkey-king-vs-transformers.json) |
 | Monkey King: Hero Is Back - Mind Palace | 170859 | [170859-monkey-king-hero-is-back-mind-palace.json](./170859-monkey-king-hero-is-back-mind-palace.json) |
 | Monkey Knife Fight | 354407 | [354407-monkey-knife-fight.json](./354407-monkey-knife-fight.json) |
