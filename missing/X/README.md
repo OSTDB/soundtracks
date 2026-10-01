@@ -465,6 +465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xposed Switched | 232562 | [232562-xposed-switched.json](./232562-xposed-switched.json) |
 | Xpressorcist | 197139 | [197139-xpressorcist.json](./197139-xpressorcist.json) |
 | XR-35 | 55210 | [55210-xr-35.json](./55210-xr-35.json) |
+| XRacing | 360123 | [360123-xracing.json](./360123-xracing.json) |
 | XRick | 280354 | [280354-xrick.json](./280354-xrick.json) |
 | XRick | 289883 | [289883-xrick.json](./289883-xrick.json) |
 | XRY | 103650 | [103650-xry.json](./103650-xry.json) |
