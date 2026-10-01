@@ -1311,6 +1311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haven Moon | 20399 | [20399-haven-moon.json](./20399-haven-moon.json) |
 | Haven Park | 146631 | [146631-haven-park.json](./146631-haven-park.json) |
 | Haven: Call of the King | 19090 | [19090-haven-call-of-the-king.json](./19090-haven-call-of-the-king.json) |
+| Haven: Deluxe Edition | 356806 | [356806-haven-deluxe-edition.json](./356806-haven-deluxe-edition.json) |
 | Haven: Episode 1 | 307952 | [307952-haven-episode-1.json](./307952-haven-episode-1.json) |
 | Haven: The Leader | 298292 | [298292-haven-the-leader.json](./298292-haven-the-leader.json) |
 | Haven's Embers | 190970 | [190970-havens-embers.json](./190970-havens-embers.json) |
@@ -2426,6 +2427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Pazu | 219039 | [219039-hentai-pazu.json](./219039-hentai-pazu.json) |
 | Hentai Photo: Kaneshon | 362368 | [362368-hentai-photo-kaneshon.json](./362368-hentai-photo-kaneshon.json) |
 | Hentai Photo: Kuchinashi | 364089 | [364089-hentai-photo-kuchinashi.json](./364089-hentai-photo-kuchinashi.json) |
+| Hentai Photo: Sakura | 356820 | [356820-hentai-photo-sakura.json](./356820-hentai-photo-sakura.json) |
 | Hentai Plus Girl | 111487 | [111487-hentai-plus-girl.json](./111487-hentai-plus-girl.json) |
 | Hentai Police Girl | 411068 | [411068-hentai-police-girl.json](./411068-hentai-police-girl.json) |
 | Hentai Polka | 294139 | [294139-hentai-polka.json](./294139-hentai-polka.json) |
