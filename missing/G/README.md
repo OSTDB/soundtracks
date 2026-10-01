@@ -835,6 +835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garage Ninja | 163764 | [163764-garage-ninja.json](./163764-garage-ninja.json) |
 | Garage Works | 278417 | [278417-garage-works.json](./278417-garage-works.json) |
 | Garage: Bad Dream Adventure | 24947 | [24947-garage-bad-dream-adventure.json](./24947-garage-bad-dream-adventure.json) |
+| Garagem SA | 345628 | [345628-garagem-sa.json](./345628-garagem-sa.json) |
 | Garaku Tale | 122882 | [122882-garaku-tale.json](./122882-garaku-tale.json) |
 | Garakutale | 94004 | [94004-garakutale.json](./94004-garakutale.json) |
 | Garbage | 133215 | [133215-garbage.json](./133215-garbage.json) |
@@ -1715,6 +1716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Getter Robo Daikessen! | 77981 | [77981-getter-robo-daikessen.json](./77981-getter-robo-daikessen.json) |
 | Getting a Bottle of Water Simulator | 334664 | [334664-getting-a-bottle-of-water-simulator.json](./334664-getting-a-bottle-of-water-simulator.json) |
 | Getting Freaky With Fujiki | 245836 | [245836-getting-freaky-with-fujiki.json](./245836-getting-freaky-with-fujiki.json) |
+| Getting Goopy | 345634 | [345634-getting-goopy.json](./345634-getting-goopy.json) |
 | Getting Home | 406198 | [406198-getting-home.json](./406198-getting-home.json) |
 | Getting It Up | 182383 | [182383-getting-it-up.json](./182383-getting-it-up.json) |
 | Getting Nuts | 254591 | [254591-getting-nuts.json](./254591-getting-nuts.json) |
@@ -3094,6 +3096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoldStorm Pirates | 326948 | [326948-goldstorm-pirates.json](./326948-goldstorm-pirates.json) |
 | Golel | 264693 | [264693-golel.json](./264693-golel.json) |
 | Golem | 310610 | [310610-golem.json](./310610-golem.json) |
+| Golem | 345640 | [345640-golem.json](./345640-golem.json) |
 | Golem Gates | 76066 | [76066-golem-gates.json](./76066-golem-gates.json) |
 | Golem Wars | 58752 | [58752-golem-wars.json](./58752-golem-wars.json) |
 | Golembert | 258017 | [258017-golembert.json](./258017-golembert.json) |
@@ -5302,6 +5305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gutsy Grid | 402438 | [402438-gutsy-grid.json](./402438-gutsy-grid.json) |
 | Gutted: Infested Crypts | 405682 | [405682-gutted-infested-crypts.json](./405682-gutted-infested-crypts.json) |
 | Gutter Night | 376028 | [376028-gutter-night.json](./376028-gutter-night.json) |
+| Gutter Priestess | 345619 | [345619-gutter-priestess.json](./345619-gutter-priestess.json) |
 | Gutter: The Perished | 296902 | [296902-gutter-the-perished.json](./296902-gutter-the-perished.json) |
 | Gutter: The Reject | 257691 | [257691-gutter-the-reject.json](./257691-gutter-the-reject.json) |
 | Gutterball 2 | 344018 | [344018-gutterball-2.json](./344018-gutterball-2.json) |
