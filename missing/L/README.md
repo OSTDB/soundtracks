@@ -4534,6 +4534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Punk | 402372 | [402372-lucky-punk.json](./402372-lucky-punk.json) |
 | Lucky Pyramid Solitaire | 87295 | [87295-lucky-pyramid-solitaire.json](./87295-lucky-pyramid-solitaire.json) |
 | Lucky Rabbit Club | 380997 | [380997-lucky-rabbit-club.json](./380997-lucky-rabbit-club.json) |
+| Lucky Season: King of Fools | 338784 | [338784-lucky-season-king-of-fools.json](./338784-lucky-season-king-of-fools.json) |
 | Lucky Season: King of Fools - Collector's Edition | 386926 | [386926-lucky-season-king-of-fools-collectors-edition.json](./386926-lucky-season-king-of-fools-collectors-edition.json) |
 | Lucky Shelter | 373106 | [373106-lucky-shelter.json](./373106-lucky-shelter.json) |
 | Lucky Shot | 102968 | [102968-lucky-shot.json](./102968-lucky-shot.json) |
