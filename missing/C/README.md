@@ -2421,6 +2421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Centipede/Breakout/Warlords | 79816 | [79816-centipede-breakout-warlords.json](./79816-centipede-breakout-warlords.json) |
 | Centipulp | 230787 | [230787-centipulp.json](./230787-centipulp.json) |
 | Cento | 281985 | [281985-cento.json](./281985-cento.json) |
+| Central Bank | 364014 | [364014-central-bank.json](./364014-central-bank.json) |
 | Central De Fantasmas: Los Huéspedes De Mortimer | 260102 | [260102-central-de-fantasmas-los-huespedes-de-mortimer.json](./260102-central-de-fantasmas-los-huespedes-de-mortimer.json) |
 | Central Limit Theorem | 133979 | [133979-central-limit-theorem.json](./133979-central-limit-theorem.json) |
 | Central Standard | 321130 | [321130-central-standard.json](./321130-central-standard.json) |
