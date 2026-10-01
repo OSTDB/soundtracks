@@ -133,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hag's Castle | 105115 | [105115-hags-castle.json](./105115-hags-castle.json) |
 | Hagalegacy | 311113 | [311113-hagalegacy.json](./311113-hagalegacy.json) |
 | Hagar the Horrible | 47229 | [47229-hagar-the-horrible.json](./47229-hagar-the-horrible.json) |
+| Hageransu | 345631 | [345631-hageransu.json](./345631-hageransu.json) |
 | Hagia Sophia VR Experience | 150491 | [150491-hagia-sophia-vr-experience.json](./150491-hagia-sophia-vr-experience.json) |
 | Hagwalla Legend | 283760 | [283760-hagwalla-legend.json](./283760-hagwalla-legend.json) |
 | Haha Doodle | 194271 | [194271-haha-doodle.json](./194271-haha-doodle.json) |
@@ -2208,6 +2209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heltons Haunted Hotel | 148371 | [148371-heltons-haunted-hotel.json](./148371-heltons-haunted-hotel.json) |
 | Helvetii | 119673 | [119673-helvetii.json](./119673-helvetii.json) |
 | Helwyr | 148551 | [148551-helwyr.json](./148551-helwyr.json) |
+| Hemera | 345658 | [345658-hemera.json](./345658-hemera.json) |
 | HemiRoids | 229020 | [229020-hemiroids.json](./229020-hemiroids.json) |
 | Hemlock | 295862 | [295862-hemlock.json](./295862-hemlock.json) |
 | Hemomancer | 357413 | [357413-hemomancer.json](./357413-hemomancer.json) |
@@ -2728,6 +2730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Pack | 340466 | [340466-hero-pack.json](./340466-hero-pack.json) |
 | Hero Panda Bomber | 60794 | [60794-hero-panda-bomber.json](./60794-hero-panda-bomber.json) |
 | Hero Park | 156651 | [156651-hero-park.json](./156651-hero-park.json) |
+| Hero Party Must Fall | 345642 | [345642-hero-party-must-fall.json](./345642-hero-party-must-fall.json) |
 | Hero Pop | 151603 | [151603-hero-pop.json](./151603-hero-pop.json) |
 | Hero Quest | 331670 | [331670-hero-quest.json](./331670-hero-quest.json) |
 | Hero Quest: Tower Conflict | 33248 | [33248-hero-quest-tower-conflict.json](./33248-hero-quest-tower-conflict.json) |
@@ -4004,6 +4007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hive Stampers | 366959 | [366959-hive-stampers.json](./366959-hive-stampers.json) |
 | Hive Sweeper | 118912 | [118912-hive-sweeper.json](./118912-hive-sweeper.json) |
 | Hive Time | 124254 | [124254-hive-time.json](./124254-hive-time.json) |
+| Hivecraft | 345644 | [345644-hivecraft.json](./345644-hivecraft.json) |
 | Hivefront TD | 379857 | [379857-hivefront-td.json](./379857-hivefront-td.json) |
 | Hiversaires | 230239 | [230239-hiversaires.json](./230239-hiversaires.json) |
 | Hiveswap Friendsim | 97012 | [97012-hiveswap-friendsim.json](./97012-hiveswap-friendsim.json) |
