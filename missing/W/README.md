@@ -1684,6 +1684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Western 1849 Reloaded | 27335 | [27335-western-1849-reloaded.json](./27335-western-1849-reloaded.json) |
 | Western Adventure - Cowboy Revenge 3D | 99186 | [99186-western-adventure-cowboy-revenge-3d.json](./99186-western-adventure-cowboy-revenge-3d.json) |
 | Western Bank VR | 76678 | [76678-western-bank-vr.json](./76678-western-bank-vr.json) |
+| Western Bar | 346076 | [346076-western-bar.json](./346076-western-bar.json) |
 | Western Press: TF2 Heavy | 228462 | [228462-western-press-tf2-heavy.json](./228462-western-press-tf2-heavy.json) |
 | Western Province | 114810 | [114810-western-province.json](./114810-western-province.json) |
 | Western Quest | 244181 | [244181-western-quest.json](./244181-western-quest.json) |
@@ -4467,6 +4468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wuthering Waves: Blade of Past Resounds, Lingering Dream Hymns | 409689 | [409689-wuthering-waves-blade-of-past-resounds-lingering-dream-hymns.json](./409689-wuthering-waves-blade-of-past-resounds-lingering-dream-hymns.json) |
 | Wuthering Waves: By Sun's Scourge, By Moon's Revelation | 361302 | [361302-wuthering-waves-by-suns-scourge-by-moons-revelation.json](./361302-wuthering-waves-by-suns-scourge-by-moons-revelation.json) |
 | Wuthering Waves: Dawn Breaks on Dark Tides | 372570 | [372570-wuthering-waves-dawn-breaks-on-dark-tides.json](./372570-wuthering-waves-dawn-breaks-on-dark-tides.json) |
+| Wuthering Waves: Lightly We Toss the Crown | 346182 | [346182-wuthering-waves-lightly-we-toss-the-crown.json](./346182-wuthering-waves-lightly-we-toss-the-crown.json) |
 | Wuthering Waves: Resolution to Illuminate the Shadows | 394857 | [394857-wuthering-waves-resolution-to-illuminate-the-shadows.json](./394857-wuthering-waves-resolution-to-illuminate-the-shadows.json) |
 | Wuthering Waves: Thaw of Eons | 311653 | [311653-wuthering-waves-thaw-of-eons.json](./311653-wuthering-waves-thaw-of-eons.json) |
 | Wuthering Waves: Unfading Melody of Life | 355745 | [355745-wuthering-waves-unfading-melody-of-life.json](./355745-wuthering-waves-unfading-melody-of-life.json) |
