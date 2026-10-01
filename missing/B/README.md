@@ -289,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Escape Together | 220348 | [220348-backrooms-escape-together.json](./220348-backrooms-escape-together.json) |
 | Backrooms: Eternals | 408307 | [408307-backrooms-eternals.json](./408307-backrooms-eternals.json) |
 | Backrooms: Exit from Supermarket | 333729 | [333729-backrooms-exit-from-supermarket.json](./333729-backrooms-exit-from-supermarket.json) |
+| Backrooms: Exploration | 338326 | [338326-backrooms-exploration.json](./338326-backrooms-exploration.json) |
 | Backrooms: Fade | 409742 | [409742-backrooms-fade.json](./409742-backrooms-fade.json) |
 | Backrooms: Found Footage | 338186 | [338186-backrooms-found-footage.json](./338186-backrooms-found-footage.json) |
 | Backrooms: Hide Together | 340939 | [340939-backrooms-hide-together.json](./340939-backrooms-hide-together.json) |
@@ -5022,6 +5023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Craft 3D: City Building | 86995 | [86995-block-craft-3d-city-building.json](./86995-block-craft-3d-city-building.json) |
 | Block Dodge Challenge | 121584 | [121584-block-dodge-challenge.json](./121584-block-dodge-challenge.json) |
 | Block Droppin Blitz | 362335 | [362335-block-droppin-blitz.json](./362335-block-droppin-blitz.json) |
+| Block Dude Deluxe | 338247 | [338247-block-dude-deluxe.json](./338247-block-dude-deluxe.json) |
 | Block Factory | 79670 | [79670-block-factory.json](./79670-block-factory.json) |
 | Block Fight | 201553 | [201553-block-fight.json](./201553-block-fight.json) |
 | Block Five | 71613 | [71613-block-five.json](./71613-block-five.json) |
@@ -5039,6 +5041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Master 3D Puzzle | 357976 | [357976-block-master-3d-puzzle.json](./357976-block-master-3d-puzzle.json) |
 | Block Mesa 64 | 193328 | [193328-block-mesa-64.json](./193328-block-mesa-64.json) |
 | Block Motion | 149486 | [149486-block-motion.json](./149486-block-motion.json) |
+| Block Mover Challenge | 338249 | [338249-block-mover-challenge.json](./338249-block-mover-challenge.json) |
 | Block Multiplayer: RPG | 128377 | [128377-block-multiplayer-rpg.json](./128377-block-multiplayer-rpg.json) |
 | Block N Load 2 | 204443 | [204443-block-n-load-2.json](./204443-block-n-load-2.json) |
 | Block Out | 246386 | [246386-block-out.json](./246386-block-out.json) |
@@ -5069,6 +5072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Tricks | 107364 | [107364-block-tricks.json](./107364-block-tricks.json) |
 | Block Trucks Multiplayer Racing | 337655 | [337655-block-trucks-multiplayer-racing.json](./337655-block-trucks-multiplayer-racing.json) |
 | Block Tuner | 124253 | [124253-block-tuner.json](./124253-block-tuner.json) |
+| Block Twist Challenge | 338250 | [338250-block-twist-challenge.json](./338250-block-twist-challenge.json) |
 | Block Warfare Zombies | 343814 | [343814-block-warfare-zombies.json](./343814-block-warfare-zombies.json) |
 | Block x3 | 253013 | [253013-block-x3.json](./253013-block-x3.json) |
 | Block Yard | 175823 | [175823-block-yard.json](./175823-block-yard.json) |
@@ -5113,6 +5117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockfusion | 363977 | [363977-blockfusion.json](./363977-blockfusion.json) |
 | BlockGame | 380027 | [380027-blockgame.json](./380027-blockgame.json) |
 | Blockhead | 14323 | [14323-blockhead.json](./14323-blockhead.json) |
+| Blockhead | 338248 | [338248-blockhead.json](./338248-blockhead.json) |
 | Blockhead | 380026 | [380026-blockhead.json](./380026-blockhead.json) |
 | Blockhead II | 14324 | [14324-blockhead-ii.json](./14324-blockhead-ii.json) |
 | Blockies VR | 193204 | [193204-blockies-vr.json](./193204-blockies-vr.json) |
@@ -5199,6 +5204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood & Lace: A Gothic Novel | 69924 | [69924-blood-and-lace-a-gothic-novel.json](./69924-blood-and-lace-a-gothic-novel.json) |
 | Blood & Lust | 338256 | [338256-blood-and-lust.json](./338256-blood-and-lust.json) |
 | Blood & Truth | 75242 | [75242-blood-and-truth.json](./75242-blood-and-truth.json) |
+| Blood Accord | 338336 | [338336-blood-accord.json](./338336-blood-accord.json) |
 | Blood Ancestors | 68712 | [68712-blood-ancestors.json](./68712-blood-ancestors.json) |
 | Blood Ancestors: Open Alpha | 100573 | [100573-blood-ancestors-open-alpha.json](./100573-blood-ancestors-open-alpha.json) |
 | Blood and Bones: A Skeleton Scorned | 262312 | [262312-blood-and-bones-a-skeleton-scorned.json](./262312-blood-and-bones-a-skeleton-scorned.json) |
@@ -7528,6 +7534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bring Honey Home | 150635 | [150635-bring-honey-home.json](./150635-bring-honey-home.json) |
 | Bring me a man, Santa | 159727 | [159727-bring-me-a-man-santa.json](./159727-bring-me-a-man-santa.json) |
 | Bring Me Down | 241350 | [241350-bring-me-down.json](./241350-bring-me-down.json) |
+| Bring the Book Back | 338330 | [338330-bring-the-book-back.json](./338330-bring-the-book-back.json) |
 | Bring Them Home | 114188 | [114188-bring-them-home.json](./114188-bring-them-home.json) |
 | Bringris | 174191 | [174191-bringris.json](./174191-bringris.json) |
 | Brink | 502 | [502-brink.json](./502-brink.json) |
