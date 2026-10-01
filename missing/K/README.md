@@ -1406,6 +1406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinectimals: Now with Bears! | 47416 | [47416-kinectimals-now-with-bears.json](./47416-kinectimals-now-with-bears.json) |
 | Kinesis | 141783 | [141783-kinesis.json](./141783-kinesis.json) |
 | Kinesis | 276713 | [276713-kinesis.json](./276713-kinesis.json) |
+| Kinetic | 372061 | [372061-kinetic.json](./372061-kinetic.json) |
 | Kinetic Connection | 45272 | [45272-kinetic-connection.json](./45272-kinetic-connection.json) |
 | Kinetic Edge | 139524 | [139524-kinetic-edge.json](./139524-kinetic-edge.json) |
 | Kinetic Neo Ornate Bout | 374220 | [374220-kinetic-neo-ornate-bout.json](./374220-kinetic-neo-ornate-bout.json) |
@@ -1653,6 +1654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Wars | 374769 | [374769-kingdom-wars.json](./374769-kingdom-wars.json) |
 | Kingdom Winds | 224031 | [224031-kingdom-winds.json](./224031-kingdom-winds.json) |
 | Kingdom: Classic | 13686 | [13686-kingdom-classic.json](./13686-kingdom-classic.json) |
+| Kingdom: Flames of War | 372051 | [372051-kingdom-flames-of-war.json](./372051-kingdom-flames-of-war.json) |
 | Kingdom: Ikkitousen no Tsurugi | 59367 | [59367-kingdom-ikkitousen-no-tsurugi.json](./59367-kingdom-ikkitousen-no-tsurugi.json) |
 | Kingdom: New Lands | 24881 | [24881-kingdom-new-lands.json](./24881-kingdom-new-lands.json) |
 | Kingdom: The Blood | 174852 | [174852-kingdom-the-blood.json](./174852-kingdom-the-blood.json) |
