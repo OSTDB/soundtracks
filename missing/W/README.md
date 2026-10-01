@@ -4380,6 +4380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WTF: Waifu Tactical Force | 244256 | [244256-wtf-waifu-tactical-force.json](./244256-wtf-waifu-tactical-force.json) |
 | WTF: Work Time Fun | 42853 | [42853-wtf-work-time-fun.json](./42853-wtf-work-time-fun.json) |
 | WTP Story 1 | 201696 | [201696-wtp-story-1.json](./201696-wtp-story-1.json) |
+| Wu Confucian Painting Volume: Apocalypse | 369722 | [369722-wu-confucian-painting-volume-apocalypse.json](./369722-wu-confucian-painting-volume-apocalypse.json) |
 | Wu Shi Hun | 223020 | [223020-wu-shi-hun.json](./223020-wu-shi-hun.json) |
 | Wu Xing Chess | 364591 | [364591-wu-xing-chess.json](./364591-wu-xing-chess.json) |
 | Wub-Wub Wescue | 330162 | [330162-wub-wub-wescue.json](./330162-wub-wub-wescue.json) |
