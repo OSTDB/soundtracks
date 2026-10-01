@@ -666,6 +666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oko | 128559 | [128559-oko.json](./128559-oko.json) |
 | Oktoberfest Break: Head to Head | 214518 | [214518-oktoberfest-break-head-to-head.json](./214518-oktoberfest-break-head-to-head.json) |
 | Oktoberfest: The Official Game | 67682 | [67682-oktoberfest-the-official-game.json](./67682-oktoberfest-the-official-game.json) |
+| Oku | 345536 | [345536-oku.json](./345536-oku.json) |
 | Oku dake Drill Shougaku 6-nensei Kanji | 276467 | [276467-oku-dake-drill-shougaku-6-nensei-kanji.json](./276467-oku-dake-drill-shougaku-6-nensei-kanji.json) |
 | Oku dake Nou-tre Yubi Ippon | 251527 | [251527-oku-dake-nou-tre-yubi-ippon.json](./251527-oku-dake-nou-tre-yubi-ippon.json) |
 | Oku dake Study Hangul Kiso Tango | 261375 | [261375-oku-dake-study-hangul-kiso-tango.json](./261375-oku-dake-study-hangul-kiso-tango.json) |
@@ -2839,6 +2840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ovis Loop | 236916 | [236916-ovis-loop.json](./236916-ovis-loop.json) |
 | OvO | 144109 | [144109-ovo.json](./144109-ovo.json) |
 | OVO Smash! | 69238 | [69238-ovo-smash.json](./69238-ovo-smash.json) |
+| Ovorol | 345643 | [345643-ovorol.json](./345643-ovorol.json) |
 | OVR Dynamic Resolution | 319793 | [319793-ovr-dynamic-resolution.json](./319793-ovr-dynamic-resolution.json) |
 | Ovum City | 221428 | [221428-ovum-city.json](./221428-ovum-city.json) |
 | Ovus Nova | 185623 | [185623-ovus-nova.json](./185623-ovus-nova.json) |
