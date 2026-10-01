@@ -139,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Mania | 299838 | [299838-pac-mania.json](./299838-pac-mania.json) |
 | Pac-Mondrian | 174791 | [174791-pac-mondrian.json](./174791-pac-mondrian.json) |
 | Pac-Motos | 203273 | [203273-pac-motos.json](./203273-pac-motos.json) |
+| Pac-pac Doraemon | 349438 | [349438-pac-pac-doraemon.json](./349438-pac-pac-doraemon.json) |
 | Pac-Panic | 46572 | [46572-pac-panic.json](./46572-pac-panic.json) |
 | Pac-Pix | 18275 | [18275-pac-pix.json](./18275-pac-pix.json) |
 | Pac-Slot | 64458 | [64458-pac-slot.json](./64458-pac-slot.json) |
@@ -1514,6 +1515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathogen-X | 143064 | [143064-pathogen-x.json](./143064-pathogen-x.json) |
 | Pathogen: Code Omega | 400467 | [400467-pathogen-code-omega.json](./400467-pathogen-code-omega.json) |
 | Pathogenesis: Overcome | 122387 | [122387-pathogenesis-overcome.json](./122387-pathogenesis-overcome.json) |
+| Pathogenic | 349463 | [349463-pathogenic.json](./349463-pathogenic.json) |
 | Pathologic | 8074 | [8074-pathologic.json](./8074-pathologic.json) |
 | Pathologic 3 | 319087 | [319087-pathologic-3.json](./319087-pathologic-3.json) |
 | Pathologic 3: Quarantine | 326595 | [326595-pathologic-3-quarantine.json](./326595-pathologic-3-quarantine.json) |
@@ -2201,6 +2203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perilous Light | 374259 | [374259-perilous-light.json](./374259-perilous-light.json) |
 | Perilous Warp | 140357 | [140357-perilous-warp.json](./140357-perilous-warp.json) |
 | Perils of Man | 17998 | [17998-perils-of-man.json](./17998-perils-of-man.json) |
+| Perimbó | 349431 | [349431-perimbo.json](./349431-perimbo.json) |
 | Perimeter | 397689 | [397689-perimeter.json](./397689-perimeter.json) |
 | Period. The Game | 140546 | [140546-period-the-game.json](./140546-period-the-game.json) |
 | Periodic Deliveries | 127266 | [127266-periodic-deliveries.json](./127266-periodic-deliveries.json) |
@@ -6184,6 +6187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Post-Future Vagabond | 139809 | [139809-post-future-vagabond.json](./139809-post-future-vagabond.json) |
 | Post-Shift | 186177 | [186177-post-shift.json](./186177-post-shift.json) |
 | Post-Soviet Yandere | 159838 | [159838-post-soviet-yandere.json](./159838-post-soviet-yandere.json) |
+| Postal 2 Redux | 349433 | [349433-postal-2-redux.json](./349433-postal-2-redux.json) |
 | Postal 2: A Very Postal Christmas | 129788 | [129788-postal-2-a-very-postal-christmas.json](./129788-postal-2-a-very-postal-christmas.json) |
 | Postal 2: A Week in Paradise | 129789 | [129789-postal-2-a-week-in-paradise.json](./129789-postal-2-a-week-in-paradise.json) |
 | Postal 2: Apocalypse Weekend | 3131 | [3131-postal-2-apocalypse-weekend.json](./3131-postal-2-apocalypse-weekend.json) |
@@ -8628,6 +8632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Piecer: Full Spectrum | 358358 | [358358-puzzle-piecer-full-spectrum.json](./358358-puzzle-piecer-full-spectrum.json) |
 | Puzzle Piecer: Leaves of Autumn | 370779 | [370779-puzzle-piecer-leaves-of-autumn.json](./370779-puzzle-piecer-leaves-of-autumn.json) |
 | Puzzle Piecer: The Holiday Spirit | 380670 | [380670-puzzle-piecer-the-holiday-spirit.json](./380670-puzzle-piecer-the-holiday-spirit.json) |
+| Puzzle Piecer: The Sky Above | 349422 | [349422-puzzle-piecer-the-sky-above.json](./349422-puzzle-piecer-the-sky-above.json) |
 | Puzzle Pirates: Dark Seas | 59866 | [59866-puzzle-pirates-dark-seas.json](./59866-puzzle-pirates-dark-seas.json) |
 | Puzzle Pleasant | 384070 | [384070-puzzle-pleasant.json](./384070-puzzle-pleasant.json) |
 | Puzzle Plunder | 110505 | [110505-puzzle-plunder.json](./110505-puzzle-plunder.json) |
