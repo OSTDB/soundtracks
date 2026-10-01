@@ -1466,6 +1466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emotion | 169766 | [169766-emotion.json](./169766-emotion.json) |
 | Emotions: A Day In A Life | 178603 | [178603-emotions-a-day-in-a-life.json](./178603-emotions-a-day-in-a-life.json) |
 | Emotions: Social MeDie | 391300 | [391300-emotions-social-medie.json](./391300-emotions-social-medie.json) |
+| Emotitron | 349455 | [349455-emotitron.json](./349455-emotitron.json) |
 | Emoyan no 10-bai Pro Yakyuu | 48332 | [48332-emoyan-no-10-bai-pro-yakyuu.json](./48332-emoyan-no-10-bai-pro-yakyuu.json) |
 | Empath | 182825 | [182825-empath.json](./182825-empath.json) |
 | Emperial Knights | 196581 | [196581-emperial-knights.json](./196581-emperial-knights.json) |
