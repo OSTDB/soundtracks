@@ -2225,6 +2225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rehtona | 113857 | [113857-rehtona.json](./113857-rehtona.json) |
 | Rei and the Floating City | 390181 | [390181-rei-and-the-floating-city.json](./390181-rei-and-the-floating-city.json) |
 | Reigen Doushi | 215135 | [215135-reigen-doushi.json](./215135-reigen-doushi.json) |
+| Reigen Doushi: Kyonshii Horror Daisensou | 385786 | [385786-reigen-doushi-kyonshii-horror-daisensou.json](./385786-reigen-doushi-kyonshii-horror-daisensou.json) |
 | Reign and Ruin | 211662 | [211662-reign-and-ruin.json](./211662-reign-and-ruin.json) |
 | Reign Down | 280348 | [280348-reign-down.json](./280348-reign-down.json) |
 | Reign of Amira: The Lost Kingdom | 38996 | [38996-reign-of-amira-the-lost-kingdom.json](./38996-reign-of-amira-the-lost-kingdom.json) |
@@ -6072,6 +6073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush Grotto | 378895 | [378895-rush-grotto.json](./378895-rush-grotto.json) |
 | Rush Hour | 18541 | [18541-rush-hour.json](./18541-rush-hour.json) |
 | Rush Hour | 28056 | [28056-rush-hour.json](./28056-rush-hour.json) |
+| Rush Hour | 385782 | [385782-rush-hour.json](./385782-rush-hour.json) |
 | Rush Hour Deluxe: The ultimate traffic jam game! | 220878 | [220878-rush-hour-deluxe-the-ultimate-traffic-jam-game.json](./220878-rush-hour-deluxe-the-ultimate-traffic-jam-game.json) |
 | Rush Hour Rally | 174662 | [174662-rush-hour-rally.json](./174662-rush-hour-rally.json) |
 | Rush Hours Collection | 283209 | [283209-rush-hours-collection.json](./283209-rush-hours-collection.json) |
