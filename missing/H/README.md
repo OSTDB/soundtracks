@@ -2891,6 +2891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hessian Landing | 386268 | [386268-hessian-landing.json](./386268-hessian-landing.json) |
 | HestiaFort | 393046 | [393046-hestiafort.json](./393046-hestiafort.json) |
 | Het Labyrint van Toetanchamon | 69901 | [69901-het-labyrint-van-toetanchamon.json](./69901-het-labyrint-van-toetanchamon.json) |
+| Hetai Age Urban | 385817 | [385817-hetai-age-urban.json](./385817-hetai-age-urban.json) |
 | Heterodox | 147484 | [147484-heterodox.json](./147484-heterodox.json) |
 | Heterotopias: In the 1989 Future | 125911 | [125911-heterotopias-in-the-1989-future.json](./125911-heterotopias-in-the-1989-future.json) |
 | Hets | 125854 | [125854-hets.json](./125854-hets.json) |
@@ -3186,6 +3187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Girls: Tropical Vibes | 420672 | [420672-hidden-girls-tropical-vibes.json](./420672-hidden-girls-tropical-vibes.json) |
 | Hidden Harbor 2 Top-Down 3D | 226676 | [226676-hidden-harbor-2-top-down-3d.json](./226676-hidden-harbor-2-top-down-3d.json) |
 | Hidden Harbor Top-Down 3D | 195247 | [195247-hidden-harbor-top-down-3d.json](./195247-hidden-harbor-top-down-3d.json) |
+| Hidden Hijinks: No Cats in the Orgy, Please! | 385805 | [385805-hidden-hijinks-no-cats-in-the-orgy-please.json](./385805-hidden-hijinks-no-cats-in-the-orgy-please.json) |
 | Hidden Horror Photo Exhibition | 399643 | [399643-hidden-horror-photo-exhibition.json](./399643-hidden-horror-photo-exhibition.json) |
 | Hidden in my Paradise | 291242 | [291242-hidden-in-my-paradise.json](./291242-hidden-in-my-paradise.json) |
 | Hidden in my Paradise + Hidden around the World Bundle | 399810 | [399810-hidden-in-my-paradise-hidden-around-the-world-bundle.json](./399810-hidden-in-my-paradise-hidden-around-the-world-bundle.json) |
