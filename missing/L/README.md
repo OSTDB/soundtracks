@@ -1612,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leisurely Brick | 267656 | [267656-leisurely-brick.json](./267656-leisurely-brick.json) |
 | Lek gjemsel med Mummitrollet | 404209 | [404209-lek-gjemsel-med-mummitrollet.json](./404209-lek-gjemsel-med-mummitrollet.json) |
 | Lekano World Online | 330856 | [330856-lekano-world-online.json](./330856-lekano-world-online.json) |
+| Lekker Weertje Koekepeertje: Lente | 350014 | [350014-lekker-weertje-koekepeertje-lente.json](./350014-lekker-weertje-koekepeertje-lente.json) |
 | Leksi | 361909 | [361909-leksi.json](./361909-leksi.json) |
 | Lelie Navigation! | 156057 | [156057-lelie-navigation.json](./156057-lelie-navigation.json) |
 | Lem-Amaze! | 126570 | [126570-lem-amaze.json](./126570-lem-amaze.json) |
@@ -3204,6 +3205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lobo | 86130 | [86130-lobo.json](./86130-lobo.json) |
 | Lobotomy Corporation | 30002 | [30002-lobotomy-corporation.json](./30002-lobotomy-corporation.json) |
 | Lobotrypo | 332254 | [332254-lobotrypo.json](./332254-lobotrypo.json) |
+| Lobstar: Arcade Version | 349982 | [349982-lobstar-arcade-version.json](./349982-lobstar-arcade-version.json) |
 | Lobster Bay | 42145 | [42145-lobster-bay.json](./42145-lobster-bay.json) |
 | Lobster Empire | 52769 | [52769-lobster-empire.json](./52769-lobster-empire.json) |
 | Lobster Game | 190469 | [190469-lobster-game.json](./190469-lobster-game.json) |
@@ -3872,6 +3874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Friends | 393621 | [393621-lost-friends.json](./393621-lost-friends.json) |
 | Lost Friends 2: Reason for Tears | 393622 | [393622-lost-friends-2-reason-for-tears.json](./393622-lost-friends-2-reason-for-tears.json) |
 | Lost Friends 3: Never Return | 393623 | [393623-lost-friends-3-never-return.json](./393623-lost-friends-3-never-return.json) |
+| Lost Galaxy: Echoes of War | 350007 | [350007-lost-galaxy-echoes-of-war.json](./350007-lost-galaxy-echoes-of-war.json) |
 | Lost Garden | 334714 | [334714-lost-garden.json](./334714-lost-garden.json) |
 | Lost Gems | 156519 | [156519-lost-gems.json](./156519-lost-gems.json) |
 | Lost Girl | 184900 | [184900-lost-girl.json](./184900-lost-girl.json) |
