@@ -3849,6 +3849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Dream: Darkness | 240799 | [240799-lost-dream-darkness.json](./240799-lost-dream-darkness.json) |
 | Lost Dutchman's Gold | 25133 | [25133-lost-dutchmans-gold.json](./25133-lost-dutchmans-gold.json) |
 | Lost Echo | 39007 | [39007-lost-echo.json](./39007-lost-echo.json) |
+| Lost Eclipse | 351153 | [351153-lost-eclipse.json](./351153-lost-eclipse.json) |
 | Lost Ed | 156062 | [156062-lost-ed.json](./156062-lost-ed.json) |
 | Lost Eden | 2167 | [2167-lost-eden.json](./2167-lost-eden.json) |
 | Lost Egg 2: Be Together | 148559 | [148559-lost-egg-2-be-together.json](./148559-lost-egg-2-be-together.json) |
