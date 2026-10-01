@@ -1004,6 +1004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Il Maniero Spettrale | 256774 | [256774-il-maniero-spettrale.json](./256774-il-maniero-spettrale.json) |
 | Il Sole e la Luna | 118989 | [118989-il-sole-e-la-luna.json](./118989-il-sole-e-la-luna.json) |
 | Il Sole e la Luna 2 | 393456 | [393456-il-sole-e-la-luna-2.json](./393456-il-sole-e-la-luna-2.json) |
+| Il Suo Volto Era Una Maschera Di Sangue | 375337 | [375337-il-suo-volto-era-una-maschera-di-sangue.json](./375337-il-suo-volto-era-una-maschera-di-sangue.json) |
 | IL-2 Sturmovik | 754 | [754-il-2-sturmovik.json](./754-il-2-sturmovik.json) |
 | IL-2 Sturmovik: 1946 | 5563 | [5563-il-2-sturmovik-1946.json](./5563-il-2-sturmovik-1946.json) |
 | IL-2 Sturmovik: Battle of Stalingrad | 17995 | [17995-il-2-sturmovik-battle-of-stalingrad.json](./17995-il-2-sturmovik-battle-of-stalingrad.json) |
