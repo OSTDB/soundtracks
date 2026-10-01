@@ -894,6 +894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Ninja vs. 100 Mann | 359568 | [359568-banana-ninja-vs-100-mann.json](./359568-banana-ninja-vs-100-mann.json) |
 | Banana Party | 390008 | [390008-banana-party.json](./390008-banana-party.json) |
 | Banana Quest | 222847 | [222847-banana-quest.json](./222847-banana-quest.json) |
+| Banana Ragdoll | 336750 | [336750-banana-ragdoll.json](./336750-banana-ragdoll.json) |
 | Banana Ranch | 303267 | [303267-banana-ranch.json](./303267-banana-ranch.json) |
 | Banana Republic | 416053 | [416053-banana-republic.json](./416053-banana-republic.json) |
 | Banana Sbang | 271179 | [271179-banana-sbang.json](./271179-banana-sbang.json) |
@@ -3393,6 +3394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Sideline Football | 62223 | [62223-beyond-the-sideline-football.json](./62223-beyond-the-sideline-football.json) |
 | Beyond the Stars VR | 119721 | [119721-beyond-the-stars-vr.json](./119721-beyond-the-stars-vr.json) |
 | Beyond the Sunset | 68671 | [68671-beyond-the-sunset.json](./68671-beyond-the-sunset.json) |
+| Beyond The Tales | 336653 | [336653-beyond-the-tales.json](./336653-beyond-the-tales.json) |
 | Beyond the Thaw | 170433 | [170433-beyond-the-thaw.json](./170433-beyond-the-thaw.json) |
 | Beyond the Underworld | 133371 | [133371-beyond-the-underworld.json](./133371-beyond-the-underworld.json) |
 | Beyond the Void | 72375 | [72375-beyond-the-void.json](./72375-beyond-the-void.json) |
