@@ -2527,6 +2527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intrepid | 297485 | [297485-intrepid.json](./297485-intrepid.json) |
 | Intrepid Izzy | 135822 | [135822-intrepid-izzy.json](./135822-intrepid-izzy.json) |
 | Intrepid Lepid | 179041 | [179041-intrepid-lepid.json](./179041-intrepid-lepid.json) |
+| Intrigue At Oakhaven | 377771 | [377771-intrigue-at-oakhaven.json](./377771-intrigue-at-oakhaven.json) |
 | Intrigue At Oakhaven Plantation | 66352 | [66352-intrigue-at-oakhaven-plantation.json](./66352-intrigue-at-oakhaven-plantation.json) |
 | Intro Fighters | 186161 | [186161-intro-fighters.json](./186161-intro-fighters.json) |
 | Introspection | 176376 | [176376-introspection.json](./176376-introspection.json) |
