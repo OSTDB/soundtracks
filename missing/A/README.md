@@ -837,6 +837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss and Dungeon | 292164 | [292164-abyss-and-dungeon.json](./292164-abyss-and-dungeon.json) |
 | Abyss Chaser | 332446 | [332446-abyss-chaser.json](./332446-abyss-chaser.json) |
 | Abyss Crawlers Plus | 88465 | [88465-abyss-crawlers-plus.json](./88465-abyss-crawlers-plus.json) |
+| Abyss Deck: Deckbuilding Roguelike | 373159 | [373159-abyss-deck-deckbuilding-roguelike.json](./373159-abyss-deck-deckbuilding-roguelike.json) |
 | Abyss Eschaton Survivors | 348852 | [348852-abyss-eschaton-survivors.json](./348852-abyss-eschaton-survivors.json) |
 | Abyss King | 199485 | [199485-abyss-king.json](./199485-abyss-king.json) |
 | Abyss Kitchen | 341028 | [341028-abyss-kitchen.json](./341028-abyss-kitchen.json) |
@@ -6128,6 +6129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armada | 85501 | [85501-armada.json](./85501-armada.json) |
 | Armada 2526: Gold Edition | 30223 | [30223-armada-2526-gold-edition.json](./30223-armada-2526-gold-edition.json) |
 | Armada Fighters | 415284 | [415284-armada-fighters.json](./415284-armada-fighters.json) |
+| Armada Pet Wars | 373140 | [373140-armada-pet-wars.json](./373140-armada-pet-wars.json) |
 | Armada Skies | 82474 | [82474-armada-skies.json](./82474-armada-skies.json) |
 | Armada: Modern Tanks | 69355 | [69355-armada-modern-tanks.json](./69355-armada-modern-tanks.json) |
 | Armadillo Racing | 129114 | [129114-armadillo-racing.json](./129114-armadillo-racing.json) |
