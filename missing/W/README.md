@@ -1135,6 +1135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watchers: Perfectly Calm Pack | 225572 | [225572-watchers-perfectly-calm-pack.json](./225572-watchers-perfectly-calm-pack.json) |
 | Watching Delusion | 105386 | [105386-watching-delusion.json](./105386-watching-delusion.json) |
 | Watching Grass Grow In VR - The Game | 32226 | [32226-watching-grass-grow-in-vr-the-game.json](./32226-watching-grass-grow-in-vr-the-game.json) |
+| Watching Paint Dry: The Game | 341067 | [341067-watching-paint-dry-the-game.json](./341067-watching-paint-dry-the-game.json) |
 | Watchlist | 44169 | [44169-watchlist.json](./44169-watchlist.json) |
 | Watchmaker's World Solitaire | 386135 | [386135-watchmakers-world-solitaire.json](./386135-watchmakers-world-solitaire.json) |
 | Watchman Golf Digipro | 215252 | [215252-watchman-golf-digipro.json](./215252-watchman-golf-digipro.json) |
@@ -1524,6 +1525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weihnachtsquiz | 98946 | [98946-weihnachtsquiz.json](./98946-weihnachtsquiz.json) |
 | Weinende Rose | 140584 | [140584-weinende-rose.json](./140584-weinende-rose.json) |
 | Weird Al's Great Adventure | 55933 | [55933-weird-als-great-adventure.json](./55933-weird-als-great-adventure.json) |
+| Weird Cat | 341108 | [341108-weird-cat.json](./341108-weird-cat.json) |
 | Weird Cinema | 189936 | [189936-weird-cinema.json](./189936-weird-cinema.json) |
 | Weird Cities | 386698 | [386698-weird-cities.json](./386698-weird-cities.json) |
 | Weird Comic Art | 374278 | [374278-weird-comic-art.json](./374278-weird-comic-art.json) |
@@ -2967,6 +2969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wired | 307616 | [307616-wired.json](./307616-wired.json) |
 | Wired Tokyo | 395793 | [395793-wired-tokyo.json](./395793-wired-tokyo.json) |
 | Wired Witch | 413788 | [413788-wired-witch.json](./413788-wired-witch.json) |
+| Wireframe Warfare | 340989 | [340989-wireframe-warfare.json](./340989-wireframe-warfare.json) |
 | Wirehead | 5462 | [5462-wirehead.json](./5462-wirehead.json) |
 | Wirtschaftsgiganten | 98968 | [98968-wirtschaftsgiganten.json](./98968-wirtschaftsgiganten.json) |
 | Wise Escape From Prison | 368022 | [368022-wise-escape-from-prison.json](./368022-wise-escape-from-prison.json) |
@@ -4477,6 +4480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wuthering Waves: Blade of Past Resounds, Lingering Dream Hymns | 409689 | [409689-wuthering-waves-blade-of-past-resounds-lingering-dream-hymns.json](./409689-wuthering-waves-blade-of-past-resounds-lingering-dream-hymns.json) |
 | Wuthering Waves: By Sun's Scourge, By Moon's Revelation | 361302 | [361302-wuthering-waves-by-suns-scourge-by-moons-revelation.json](./361302-wuthering-waves-by-suns-scourge-by-moons-revelation.json) |
 | Wuthering Waves: Dawn Breaks on Dark Tides | 372570 | [372570-wuthering-waves-dawn-breaks-on-dark-tides.json](./372570-wuthering-waves-dawn-breaks-on-dark-tides.json) |
+| Wuthering Waves: Fiery Arpeggio of Summer Reunion | 341103 | [341103-wuthering-waves-fiery-arpeggio-of-summer-reunion.json](./341103-wuthering-waves-fiery-arpeggio-of-summer-reunion.json) |
 | Wuthering Waves: Lightly We Toss the Crown | 346182 | [346182-wuthering-waves-lightly-we-toss-the-crown.json](./346182-wuthering-waves-lightly-we-toss-the-crown.json) |
 | Wuthering Waves: Resolution to Illuminate the Shadows | 394857 | [394857-wuthering-waves-resolution-to-illuminate-the-shadows.json](./394857-wuthering-waves-resolution-to-illuminate-the-shadows.json) |
 | Wuthering Waves: Thaw of Eons | 311653 | [311653-wuthering-waves-thaw-of-eons.json](./311653-wuthering-waves-thaw-of-eons.json) |
