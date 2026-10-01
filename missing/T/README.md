@@ -728,6 +728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TalesWeaver | 57117 | [57117-talesweaver.json](./57117-talesweaver.json) |
 | Talewarden: Riders of the New Day | 361248 | [361248-talewarden-riders-of-the-new-day.json](./361248-talewarden-riders-of-the-new-day.json) |
 | Talewind | 25307 | [25307-talewind.json](./25307-talewind.json) |
+| Tali: A Roman Empire Game of Chance | 344489 | [344489-tali-a-roman-empire-game-of-chance.json](./344489-tali-a-roman-empire-game-of-chance.json) |
 | Talisman Online | 140560 | [140560-talisman-online.json](./140560-talisman-online.json) |
 | Talisman: Digital Edition - Apprentice Mage | 149053 | [149053-talisman-digital-edition-apprentice-mage.json](./149053-talisman-digital-edition-apprentice-mage.json) |
 | Talisman: Digital Edition - Black Witch | 149069 | [149069-talisman-digital-edition-black-witch.json](./149069-talisman-digital-edition-black-witch.json) |
@@ -1594,6 +1595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Technoblade The Quest Of L'Manburg | 337634 | [337634-technoblade-the-quest-of-lmanburg.json](./337634-technoblade-the-quest-of-lmanburg.json) |
 | Technocide | 262937 | [262937-technocide.json](./262937-technocide.json) |
 | Technolites: Episode 1 | 109616 | [109616-technolites-episode-1.json](./109616-technolites-episode-1.json) |
+| Technology Market Simulation | 344523 | [344523-technology-market-simulation.json](./344523-technology-market-simulation.json) |
 | Technolympus | 256786 | [256786-technolympus.json](./256786-technolympus.json) |
 | TechnoMagic | 187370 | [187370-technomagic.json](./187370-technomagic.json) |
 | Technophobia: Dead Metal Tournament | 224519 | [224519-technophobia-dead-metal-tournament.json](./224519-technophobia-dead-metal-tournament.json) |
@@ -6913,6 +6915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Next Door | 33405 | [33405-the-next-door.json](./33405-the-next-door.json) |
 | The Next Stop | 364026 | [364026-the-next-stop.json](./364026-the-next-stop.json) |
 | The Next Tetris | 51179 | [51179-the-next-tetris.json](./51179-the-next-tetris.json) |
+| The Next World | 344422 | [344422-the-next-world.json](./344422-the-next-world.json) |
 | The Night Guard | 295385 | [295385-the-night-guard.json](./295385-the-night-guard.json) |
 | The Night Is Long | 350010 | [350010-the-night-is-long.json](./350010-the-night-is-long.json) |
 | The Night Jackals Vol. 1 | 289975 | [289975-the-night-jackals-vol-1.json](./289975-the-night-jackals-vol-1.json) |
@@ -11687,6 +11690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Burn in Memory: Anniversary Edition | 110371 | [110371-to-burn-in-memory-anniversary-edition.json](./110371-to-burn-in-memory-anniversary-edition.json) |
 | To Carry a Sword | 190440 | [190440-to-carry-a-sword.json](./190440-to-carry-a-sword.json) |
 | To Crown or to Destroy | 373183 | [373183-to-crown-or-to-destroy.json](./373183-to-crown-or-to-destroy.json) |
+| To Cure Man | 344510 | [344510-to-cure-man.json](./344510-to-cure-man.json) |
 | To Dawn and Back | 136847 | [136847-to-dawn-and-back.json](./136847-to-dawn-and-back.json) |
 | To Die in the Shade | 281425 | [281425-to-die-in-the-shade.json](./281425-to-die-in-the-shade.json) |
 | To Duel List | 151704 | [151704-to-duel-list.json](./151704-to-duel-list.json) |
