@@ -2262,6 +2262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlezone 98 Redux: The Red Odyssey | 124824 | [124824-battlezone-98-redux-the-red-odyssey.json](./124824-battlezone-98-redux-the-red-odyssey.json) |
 | Battlezone: Rise of the Black Dogs | 3423 | [3423-battlezone-rise-of-the-black-dogs.json](./3423-battlezone-rise-of-the-black-dogs.json) |
 | Battlezone: The Red Odyssey | 238590 | [238590-battlezone-the-red-odyssey.json](./238590-battlezone-the-red-odyssey.json) |
+| Battlic | 341091 | [341091-battlic.json](./341091-battlic.json) |
 | Battlot | 404418 | [404418-battlot.json](./404418-battlot.json) |
 | Batty Builders | 293716 | [293716-batty-builders.json](./293716-batty-builders.json) |
 | Batty Shadowless Adventures | 374065 | [374065-batty-shadowless-adventures.json](./374065-batty-shadowless-adventures.json) |
@@ -3542,6 +3543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big City Adventure: London Story | 341625 | [341625-big-city-adventure-london-story.json](./341625-big-city-adventure-london-story.json) |
 | Big City Adventure: New York City | 65201 | [65201-big-city-adventure-new-york-city.json](./65201-big-city-adventure-new-york-city.json) |
 | Big City Adventure: Paris | 341057 | [341057-big-city-adventure-paris.json](./341057-big-city-adventure-paris.json) |
+| Big City Adventure: Rio | 341072 | [341072-big-city-adventure-rio.json](./341072-big-city-adventure-rio.json) |
 | Big City Adventure: Rome | 341056 | [341056-big-city-adventure-rome.json](./341056-big-city-adventure-rome.json) |
 | Big City Adventure: Sydney, Australia | 65202 | [65202-big-city-adventure-sydney-australia.json](./65202-big-city-adventure-sydney-australia.json) |
 | Big City Adventure: Tokyo | 294742 | [294742-big-city-adventure-tokyo.json](./294742-big-city-adventure-tokyo.json) |
@@ -6676,6 +6678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bourbon Risky | 378414 | [378414-bourbon-risky.json](./378414-bourbon-risky.json) |
 | Bourgeois Megawad | 262987 | [262987-bourgeois-megawad.json](./262987-bourgeois-megawad.json) |
 | Bousou! Orient Kyuukou | 91758 | [91758-bousou-orient-kyuukou.json](./91758-bousou-orient-kyuukou.json) |
+| Boutique Boulevard | 341069 | [341069-boutique-boulevard.json](./341069-boutique-boulevard.json) |
 | Bovine Battles | 292511 | [292511-bovine-battles.json](./292511-bovine-battles.json) |
 | Bow & Crystal Tower Defense | 157169 | [157169-bow-and-crystal-tower-defense.json](./157169-bow-and-crystal-tower-defense.json) |
 | Bow Climb | 239660 | [239660-bow-climb.json](./239660-bow-climb.json) |
@@ -7173,6 +7176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breach in Space | 245820 | [245820-breach-in-space.json](./245820-breach-in-space.json) |
 | Breach of Contract Reloaded | 89947 | [89947-breach-of-contract-reloaded.json](./89947-breach-of-contract-reloaded.json) |
 | Breach Point | 118823 | [118823-breach-point.json](./118823-breach-point.json) |
+| Breach Signal | 341065 | [341065-breach-signal.json](./341065-breach-signal.json) |
 | Breach: Veil Demon DLC | 170327 | [170327-breach-veil-demon-dlc.json](./170327-breach-veil-demon-dlc.json) |
 | Bread | 178027 | [178027-bread.json](./178027-bread.json) |
 | Bread & Fred | 204524 | [204524-bread-and-fred.json](./204524-bread-and-fred.json) |
@@ -7892,8 +7896,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Wrap DS | 215382 | [215382-bubble-wrap-ds.json](./215382-bubble-wrap-ds.json) |
 | Bubble Wrap Frenzy | 233236 | [233236-bubble-wrap-frenzy.json](./233236-bubble-wrap-frenzy.json) |
 | Bubble Xmas | 57663 | [57663-bubble-xmas.json](./57663-bubble-xmas.json) |
+| Bubble Zoo 2 | 341064 | [341064-bubble-zoo-2.json](./341064-bubble-zoo-2.json) |
 | Bubble's Travel | 387337 | [387337-bubbles-travel.json](./387337-bubbles-travel.json) |
 | BubbleBeast DigiDungeon | 323925 | [323925-bubblebeast-digidungeon.json](./323925-bubblebeast-digidungeon.json) |
+| Bubblefish Bob | 341063 | [341063-bubblefish-bob.json](./341063-bubblefish-bob.json) |
 | Bubblegum Bandit | 253421 | [253421-bubblegum-bandit.json](./253421-bubblegum-bandit.json) |
 | Bubblegum Galaxy | 204519 | [204519-bubblegum-galaxy.json](./204519-bubblegum-galaxy.json) |
 | Bubbles | 38537 | [38537-bubbles.json](./38537-bubbles.json) |
