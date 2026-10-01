@@ -6365,6 +6365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miracle Tunes! Game de Tune Up! Da Pun! | 222544 | [222544-miracle-tunes-game-de-tune-up-da-pun.json](./222544-miracle-tunes-game-de-tune-up-da-pun.json) |
 | Miracle Warrior of Mountains and Seas | 153345 | [153345-miracle-warrior-of-mountains-and-seas.json](./153345-miracle-warrior-of-mountains-and-seas.json) |
 | Miracle Warriors: Seal of the Dark Lord | 47526 | [47526-miracle-warriors-seal-of-the-dark-lord.json](./47526-miracle-warriors-seal-of-the-dark-lord.json) |
+| Miraculous Fall | 336682 | [336682-miraculous-fall.json](./336682-miraculous-fall.json) |
 | Miraculous Ladybug & Cat Noir | 99322 | [99322-miraculous-ladybug-and-cat-noir.json](./99322-miraculous-ladybug-and-cat-noir.json) |
 | Miraculous: Paris Under Siege | 314019 | [314019-miraculous-paris-under-siege.json](./314019-miraculous-paris-under-siege.json) |
 | Miraculous: Rise of the Sphinx | 216552 | [216552-miraculous-rise-of-the-sphinx.json](./216552-miraculous-rise-of-the-sphinx.json) |
@@ -10184,6 +10185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myrddin | 174361 | [174361-myrddin.json](./174361-myrddin.json) |
 | Myriad | 194299 | [194299-myriad.json](./194299-myriad.json) |
 | Myriad | 60033 | [60033-myriad.json](./60033-myriad.json) |
+| Myriad Death | 336758 | [336758-myriad-death.json](./336758-myriad-death.json) |
 | Myriad Mayhem | 258208 | [258208-myriad-mayhem.json](./258208-myriad-mayhem.json) |
 | Myriad Realms | 406296 | [406296-myriad-realms.json](./406296-myriad-realms.json) |
 | Myrm Emblem | 279784 | [279784-myrm-emblem.json](./279784-myrm-emblem.json) |
