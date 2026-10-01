@@ -805,6 +805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Run HD | 250387 | [250387-zombie-run-hd.json](./250387-zombie-run-hd.json) |
 | Zombie Sanctuary: Juliet | 277372 | [277372-zombie-sanctuary-juliet.json](./277372-zombie-sanctuary-juliet.json) |
 | Zombie School | 110348 | [110348-zombie-school.json](./110348-zombie-school.json) |
+| Zombie School Survival | 367574 | [367574-zombie-school-survival.json](./367574-zombie-school-survival.json) |
 | Zombie Season | 123547 | [123547-zombie-season.json](./123547-zombie-season.json) |
 | Zombie Serial Killer Incident | 99594 | [99594-zombie-serial-killer-incident.json](./99594-zombie-serial-killer-incident.json) |
 | Zombie Shooter | 16017 | [16017-zombie-shooter.json](./16017-zombie-shooter.json) |
