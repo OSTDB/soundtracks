@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fables of the Kingdom V: Collector's Edition | 337250 | [337250-fables-of-the-kingdom-v-collectors-edition.json](./337250-fables-of-the-kingdom-v-collectors-edition.json) |
 | Fablewood Chronicles | 413112 | [413112-fablewood-chronicles.json](./413112-fablewood-chronicles.json) |
 | Fabular: Once upon a Spacetime | 116429 | [116429-fabular-once-upon-a-spacetime.json](./116429-fabular-once-upon-a-spacetime.json) |
+| Fabuloso's Fantastic Flight | 343380 | [343380-fabulosos-fantastic-flight.json](./343380-fabulosos-fantastic-flight.json) |
 | Fabulous Angela: New York to LA | 124171 | [124171-fabulous-angela-new-york-to-la.json](./124171-fabulous-angela-new-york-to-la.json) |
 | Fabulous Finds | 67652 | [67652-fabulous-finds.json](./67652-fabulous-finds.json) |
 | Fabulous Samurai Star | 256325 | [256325-fabulous-samurai-star.json](./256325-fabulous-samurai-star.json) |
@@ -454,6 +455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall Ball Fall | 141852 | [141852-fall-ball-fall.json](./141852-fall-ball-fall.json) |
 | Fall Cars: Ultimate Car Battle | 278492 | [278492-fall-cars-ultimate-car-battle.json](./278492-fall-cars-ultimate-car-battle.json) |
 | Fall Cat | 410306 | [410306-fall-cat.json](./410306-fall-cat.json) |
+| Fall Damage for Project+ | 343409 | [343409-fall-damage-for-project.json](./343409-fall-damage-for-project.json) |
 | Fall Down | 40791 | [40791-fall-down.json](./40791-fall-down.json) |
 | Fall Down | 95432 | [95432-fall-down.json](./95432-fall-down.json) |
 | Fall Down | 96230 | [96230-fall-down.json](./96230-fall-down.json) |
