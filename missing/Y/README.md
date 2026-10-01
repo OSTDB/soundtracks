@@ -683,6 +683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yourcraft | 361322 | [361322-yourcraft.json](./361322-yourcraft.json) |
 | YourFigureOut | 283858 | [283858-yourfigureout.json](./283858-yourfigureout.json) |
 | Yours Truly | 199134 | [199134-yours-truly.json](./199134-yours-truly.json) |
+| Yours Truly | 364624 | [364624-yours-truly.json](./364624-yours-truly.json) |
 | YourToy and Dying: Reborn Horror Game Bundle | 247581 | [247581-yourtoy-and-dying-reborn-horror-game-bundle.json](./247581-yourtoy-and-dying-reborn-horror-game-bundle.json) |
 | Yousei | 62968 | [62968-yousei.json](./62968-yousei.json) |
 | Yousei Rasutaru-chan to no hibi | 223009 | [223009-yousei-rasutaru-chan-to-no-hibi.json](./223009-yousei-rasutaru-chan-to-no-hibi.json) |
