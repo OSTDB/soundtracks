@@ -3517,6 +3517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlashGal | 39580 | [39580-flashgal.json](./39580-flashgal.json) |
 | Flashing Lights: Department of Transportation | 395814 | [395814-flashing-lights-department-of-transportation.json](./395814-flashing-lights-department-of-transportation.json) |
 | Flashing Lights: Thunder Sport Sedan Pack (Police, Fire, EMS) | 277591 | [277591-flashing-lights-thunder-sport-sedan-pack-police-fire-ems.json](./277591-flashing-lights-thunder-sport-sedan-pack-police-fire-ems.json) |
+| FlashInvaders | 354008 | [354008-flashinvaders.json](./354008-flashinvaders.json) |
 | Flashlight Party | 223936 | [223936-flashlight-party.json](./223936-flashlight-party.json) |
 | Flashlight Sim | 304602 | [304602-flashlight-sim.json](./304602-flashlight-sim.json) |
 | Flashloop | 348337 | [348337-flashloop.json](./348337-flashloop.json) |
@@ -6328,7 +6329,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funko Fusion: Back to the Future Outfits Pack | 323398 | [323398-funko-fusion-back-to-the-future-outfits-pack.json](./323398-funko-fusion-back-to-the-future-outfits-pack.json) |
 | Funko Fusion: Bob Ross Pack | 323400 | [323400-funko-fusion-bob-ross-pack.json](./323400-funko-fusion-bob-ross-pack.json) |
 | Funko Fusion: Deluxe Edition | 362964 | [362964-funko-fusion-deluxe-edition.json](./362964-funko-fusion-deluxe-edition.json) |
+| Funko Fusion: Frankenstein | 354049 | [354049-funko-fusion-frankenstein.json](./354049-funko-fusion-frankenstein.json) |
 | Funko Fusion: Invincible Pack | 323320 | [323320-funko-fusion-invincible-pack.json](./323320-funko-fusion-invincible-pack.json) |
+| Funko Fusion: Jurassic World Rebirth DLC | 354021 | [354021-funko-fusion-jurassic-world-rebirth-dlc.json](./354021-funko-fusion-jurassic-world-rebirth-dlc.json) |
+| Funko Fusion: Jurassic World Rebirth Pack 1 - Zora Bennett and Spinosaurus | 354015 | [354015-funko-fusion-jurassic-world-rebirth-pack-1-zora-bennett-and-spinosaurus.json](./354015-funko-fusion-jurassic-world-rebirth-pack-1-zora-bennett-and-spinosaurus.json) |
+| Funko Fusion: Jurassic World Rebirth Pack 2 - Dr Henry Loomis and Raptor | 354019 | [354019-funko-fusion-jurassic-world-rebirth-pack-2-dr-henry-loomis-and-raptor.json](./354019-funko-fusion-jurassic-world-rebirth-pack-2-dr-henry-loomis-and-raptor.json) |
+| Funko Fusion: Mega Man Pack | 354012 | [354012-funko-fusion-mega-man-pack.json](./354012-funko-fusion-mega-man-pack.json) |
 | Funko Fusion: Sun Wukong | 323397 | [323397-funko-fusion-sun-wukong.json](./323397-funko-fusion-sun-wukong.json) |
 | Funko Fusion: Team Fortress 2 Pack | 323394 | [323394-funko-fusion-team-fortress-2-pack.json](./323394-funko-fusion-team-fortress-2-pack.json) |
 | Funko Fusion: The Walking Dead Pack | 323395 | [323395-funko-fusion-the-walking-dead-pack.json](./323395-funko-fusion-the-walking-dead-pack.json) |
