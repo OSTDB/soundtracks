@@ -195,6 +195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faceball 2000 | 19701 | [19701-faceball-2000.json](./19701-faceball-2000.json) |
 | Faceball 2000 | 299462 | [299462-faceball-2000.json](./299462-faceball-2000.json) |
 | Faceball 2000 DX | 279728 | [279728-faceball-2000-dx.json](./279728-faceball-2000-dx.json) |
+| Faceball Captain | 356203 | [356203-faceball-captain.json](./356203-faceball-captain.json) |
 | Faced | 181377 | [181377-faced.json](./181377-faced.json) |
 | Faceless | 320882 | [320882-faceless.json](./320882-faceless.json) |
 | Faceless | 340047 | [340047-faceless.json](./340047-faceless.json) |
@@ -2693,6 +2694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finite Jest | 415925 | [415925-finite-jest.json](./415925-finite-jest.json) |
 | Finity | 322936 | [322936-finity.json](./322936-finity.json) |
 | Finkles World | 66947 | [66947-finkles-world.json](./66947-finkles-world.json) |
+| Finn and Jake's Epic Quest | 356231 | [356231-finn-and-jakes-epic-quest.json](./356231-finn-and-jakes-epic-quest.json) |
 | Finn Dorset's Institute For Livestock Replication | 321144 | [321144-finn-dorsets-institute-for-livestock-replication.json](./321144-finn-dorsets-institute-for-livestock-replication.json) |
 | Finn's Ascent | 382458 | [382458-finns-ascent.json](./382458-finns-ascent.json) |
 | Finneon Accidentally Causes the End of the World | 339251 | [339251-finneon-accidentally-causes-the-end-of-the-world.json](./339251-finneon-accidentally-causes-the-end-of-the-world.json) |
