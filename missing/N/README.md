@@ -2120,6 +2120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Seeker | 378911 | [378911-night-seeker.json](./378911-night-seeker.json) |
 | Night Shift | 125262 | [125262-night-shift.json](./125262-night-shift.json) |
 | Night Shift | 311609 | [311609-night-shift.json](./311609-night-shift.json) |
+| Night Shift Customer | 372599 | [372599-night-shift-customer.json](./372599-night-shift-customer.json) |
 | Night Shift Nightmare | 395794 | [395794-night-shift-nightmare.json](./395794-night-shift-nightmare.json) |
 | Night Shift: 1999 | 366829 | [366829-night-shift-1999.json](./366829-night-shift-1999.json) |
 | Night Shift: Laundry | 328253 | [328253-night-shift-laundry.json](./328253-night-shift-laundry.json) |
@@ -3143,6 +3144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nono Logix | 116436 | [116436-nono-logix.json](./116436-nono-logix.json) |
 | Nono Paint | 378367 | [378367-nono-paint.json](./378367-nono-paint.json) |
 | Nonocular | 181384 | [181384-nonocular.json](./181384-nonocular.json) |
+| Nonogos | 372624 | [372624-nonogos.json](./372624-nonogos.json) |
 | Nonogram | 112360 | [112360-nonogram.json](./112360-nonogram.json) |
 | Nonogram - The Greatest Painter | 87774 | [87774-nonogram-the-greatest-painter.json](./87774-nonogram-the-greatest-painter.json) |
 | Nonogram 3D: Mega Puzzle | 289449 | [289449-nonogram-3d-mega-puzzle.json](./289449-nonogram-3d-mega-puzzle.json) |
