@@ -1930,6 +1930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Mist | 131993 | [131993-red-mist.json](./131993-red-mist.json) |
 | Red Moon | 382317 | [382317-red-moon.json](./382317-red-moon.json) |
 | Red Moon: Lost Days | 192893 | [192893-red-moon-lost-days.json](./192893-red-moon-lost-days.json) |
+| Red Moon: The Awakening of Alisa | 347306 | [347306-red-moon-the-awakening-of-alisa.json](./347306-red-moon-the-awakening-of-alisa.json) |
 | Red Night | 318065 | [318065-red-night.json](./318065-red-night.json) |
 | Red Night | 334163 | [334163-red-night.json](./334163-red-night.json) |
 | Red Ninja: End of Honor | 6000 | [6000-red-ninja-end-of-honor.json](./6000-red-ninja-end-of-honor.json) |
