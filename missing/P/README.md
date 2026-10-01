@@ -2240,6 +2240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 5 Pocket Edition | 321602 | [321602-persona-5-pocket-edition.json](./321602-persona-5-pocket-edition.json) |
 | Persona 5 Royal: 1 More Edition | 261539 | [261539-persona-5-royal-1-more-edition.json](./261539-persona-5-royal-1-more-edition.json) |
 | Persona 5 Strikers | 117731 | [117731-persona-5-strikers.json](./117731-persona-5-strikers.json) |
+| Persona 5 Strikers: Legacy BGM Pack | 383606 | [383606-persona-5-strikers-legacy-bgm-pack.json](./383606-persona-5-strikers-legacy-bgm-pack.json) |
 | Persona 5 Tactica: DLC All in One | 277311 | [277311-persona-5-tactica-dlc-all-in-one.json](./277311-persona-5-tactica-dlc-all-in-one.json) |
 | Persona 5: Dancing in Starlight - Atlus Selection Set | 362255 | [362255-persona-5-dancing-in-starlight-atlus-selection-set.json](./362255-persona-5-dancing-in-starlight-atlus-selection-set.json) |
 | Persona 5: Dancing in Starlight - Catherine Set | 362253 | [362253-persona-5-dancing-in-starlight-catherine-set.json](./362253-persona-5-dancing-in-starlight-catherine-set.json) |
