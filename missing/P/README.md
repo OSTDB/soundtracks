@@ -1160,6 +1160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paris Belle Epoque | 303270 | [303270-paris-belle-epoque.json](./303270-paris-belle-epoque.json) |
 | Paris Craft: Exploration of City of Love & Art | 96012 | [96012-paris-craft-exploration-of-city-of-love-and-art.json](./96012-paris-craft-exploration-of-city-of-love-and-art.json) |
 | Paris in Danger | 23966 | [23966-paris-in-danger.json](./23966-paris-in-danger.json) |
+| Paris Nights | 342795 | [342795-paris-nights.json](./342795-paris-nights.json) |
 | Paris Saint-Germain Club Football 2005 | 267911 | [267911-paris-saint-germain-club-football-2005.json](./267911-paris-saint-germain-club-football-2005.json) |
 | Paris Transylvania | 258189 | [258189-paris-transylvania.json](./258189-paris-transylvania.json) |
 | Paris-Dakar Rally | 43469 | [43469-paris-dakar-rally.json](./43469-paris-dakar-rally.json) |
@@ -3149,6 +3150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikku Adventure | 395181 | [395181-pikku-adventure.json](./395181-pikku-adventure.json) |
 | Pikmin | 2239 | [2239-pikmin.json](./2239-pikmin.json) |
 | Pikmin 1 Randomizer | 263441 | [263441-pikmin-1-randomizer.json](./263441-pikmin-1-randomizer.json) |
+| Pikmin 100 | 342715 | [342715-pikmin-100.json](./342715-pikmin-100.json) |
 | Pikmin 2 | 2240 | [2240-pikmin-2.json](./2240-pikmin-2.json) |
 | Pikmin 2 | 254335 | [254335-pikmin-2.json](./254335-pikmin-2.json) |
 | Pikmin 2 | 84697 | [84697-pikmin-2.json](./84697-pikmin-2.json) |
@@ -3188,6 +3190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin Puzzle Card e+: Tsunagete Pikmin - Louie | 353508 | [353508-pikmin-puzzle-card-e-tsunagete-pikmin-louie.json](./353508-pikmin-puzzle-card-e-tsunagete-pikmin-louie.json) |
 | Pikmin RPG | 323886 | [323886-pikmin-rpg.json](./323886-pikmin-rpg.json) |
 | Pikmin Stellar | 313356 | [313356-pikmin-stellar.json](./313356-pikmin-stellar.json) |
+| Pikmin Treasure Hunt | 342714 | [342714-pikmin-treasure-hunt.json](./342714-pikmin-treasure-hunt.json) |
 | Pikmin: Return to PNF-404 | 313353 | [313353-pikmin-return-to-pnf-404.json](./313353-pikmin-return-to-pnf-404.json) |
 | Piko Fox! | 336610 | [336610-piko-fox.json](./336610-piko-fox.json) |
 | Piko Interactive Collection 1 | 130691 | [130691-piko-interactive-collection-1.json](./130691-piko-interactive-collection-1.json) |
@@ -5545,6 +5548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PokeRoku | 227817 | [227817-pokeroku.json](./227817-pokeroku.json) |
 | Pokerrrr 2 | 320179 | [320179-pokerrrr-2.json](./320179-pokerrrr-2.json) |
 | PokerTH | 250379 | [250379-pokerth.json](./250379-pokerth.json) |
+| PokéScape | 342832 | [342832-pokescape.json](./342832-pokescape.json) |
 | Pokescape: A Pokémon Escape Room | 340210 | [340210-pokescape-a-pokemon-escape-room.json](./340210-pokescape-a-pokemon-escape-room.json) |
 | PokéSmash | 191883 | [191883-pokesmash.json](./191883-pokesmash.json) |
 | Poketale | 309973 | [309973-poketale.json](./309973-poketale.json) |
