@@ -5052,6 +5052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClueFinders Search and Solve Adventures: The Phantom Amusement Park | 186038 | [186038-cluefinders-search-and-solve-adventures-the-phantom-amusement-park.json](./186038-cluefinders-search-and-solve-adventures-the-phantom-amusement-park.json) |
 | Cluefinders: Math Adventures - Mystery of the Himalayas | 66092 | [66092-cluefinders-math-adventures-mystery-of-the-himalayas.json](./66092-cluefinders-math-adventures-mystery-of-the-himalayas.json) |
 | Clueless: The CD-ROM | 69852 | [69852-clueless-the-cd-rom.json](./69852-clueless-the-cd-rom.json) |
+| Clues By Sam | 352878 | [352878-clues-by-sam.json](./352878-clues-by-sam.json) |
 | Cluju | 386327 | [386327-cluju.json](./386327-cluju.json) |
 | Clumsy Cat | 259242 | [259242-clumsy-cat.json](./259242-clumsy-cat.json) |
 | Clumsy Climber | 105782 | [105782-clumsy-climber.json](./105782-clumsy-climber.json) |
