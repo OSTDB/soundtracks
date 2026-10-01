@@ -6627,6 +6627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mister Furry | 236788 | [236788-mister-furry.json](./236788-mister-furry.json) |
 | Mister Gato Idle: The Meowsiah | 348250 | [348250-mister-gato-idle-the-meowsiah.json](./348250-mister-gato-idle-the-meowsiah.json) |
 | Mister Rogers' Neighborhood | 138092 | [138092-mister-rogers-neighborhood.json](./138092-mister-rogers-neighborhood.json) |
+| Mister Scary | 342222 | [342222-mister-scary.json](./342222-mister-scary.json) |
 | Mister Slime | 21377 | [21377-mister-slime.json](./21377-mister-slime.json) |
 | Mister Smith & His Adventures | 255039 | [255039-mister-smith-and-his-adventures.json](./255039-mister-smith-and-his-adventures.json) |
 | Mister Universe | 153428 | [153428-mister-universe.json](./153428-mister-universe.json) |
@@ -8836,6 +8837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Luma's Cooking Adventure | 234335 | [234335-mr-lumas-cooking-adventure.json](./234335-mr-lumas-cooking-adventure.json) |
 | Mr. Lupin | 326972 | [326972-mr-lupin.json](./326972-mr-lupin.json) |
 | Mr. Mat Hematic | 234572 | [234572-mr-mat-hematic.json](./234572-mr-mat-hematic.json) |
+| Mr. Maymunshine’s Christmas Land | 342216 | [342216-mr-maymunshine-s-christmas-land.json](./342216-mr-maymunshine-s-christmas-land.json) |
 | Mr. Meat 2: Prison Break | 212496 | [212496-mr-meat-2-prison-break.json](./212496-mr-meat-2-prison-break.json) |
 | Mr. Meat: Horror Escape Room | 356633 | [356633-mr-meat-horror-escape-room.json](./356633-mr-meat-horror-escape-room.json) |
 | Mr. Meaty | 320747 | [320747-mr-meaty.json](./320747-mr-meaty.json) |
@@ -9525,6 +9527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Cannibal Family | 404918 | [404918-my-cannibal-family.json](./404918-my-cannibal-family.json) |
 | My Car My Life | 373542 | [373542-my-car-my-life.json](./373542-my-car-my-life.json) |
 | My Car Salon Pro | 323166 | [323166-my-car-salon-pro.json](./323166-my-car-salon-pro.json) |
+| My Card Is Better Than Your Card! | 342224 | [342224-my-card-is-better-than-your-card.json](./342224-my-card-is-better-than-your-card.json) |
 | My Cashy Side Job at Lost&Found in the Subway of Million-Person City | 189060 | [189060-my-cashy-side-job-at-lost-and-found-in-the-subway-of-million-person-city.json](./189060-my-cashy-side-job-at-lost-and-found-in-the-subway-of-million-person-city.json) |
 | My Cat | 222880 | [222880-my-cat.json](./222880-my-cat.json) |
 | My Cat Town | 299208 | [299208-my-cat-town.json](./299208-my-cat-town.json) |
@@ -10017,6 +10020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Sugar Mommy is a Futanari | 215637 | [215637-my-sugar-mommy-is-a-futanari.json](./215637-my-sugar-mommy-is-a-futanari.json) |
 | My Summer Adventure: Memories of Another Life - Day 1 | 240809 | [240809-my-summer-adventure-memories-of-another-life-day-1.json](./240809-my-summer-adventure-memories-of-another-life-day-1.json) |
 | My Summer Car | 21453 | [21453-my-summer-car.json](./21453-my-summer-car.json) |
+| My Summer Drive | 342210 | [342210-my-summer-drive.json](./342210-my-summer-drive.json) |
 | My Summer Jobs: Dialing for Dreams! | 238513 | [238513-my-summer-jobs-dialing-for-dreams.json](./238513-my-summer-jobs-dialing-for-dreams.json) |
 | My Summer Love | 391596 | [391596-my-summer-love.json](./391596-my-summer-love.json) |
 | My Sunny Resort | 98981 | [98981-my-sunny-resort.json](./98981-my-sunny-resort.json) |
