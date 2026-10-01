@@ -1721,6 +1721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed the Cat | 313271 | [313271-feed-the-cat.json](./313271-feed-the-cat.json) |
 | Feed the Ducks | 177541 | [177541-feed-the-ducks.json](./177541-feed-the-ducks.json) |
 | Feed the Feed | 396888 | [396888-feed-the-feed.json](./396888-feed-the-feed.json) |
+| Feed The Flames | 375335 | [375335-feed-the-flames.json](./375335-feed-the-flames.json) |
 | Feed The Frog King: Incremental TD | 417583 | [417583-feed-the-frog-king-incremental-td.json](./417583-feed-the-frog-king-incremental-td.json) |
 | Feed the Giants | 403207 | [403207-feed-the-giants.json](./403207-feed-the-giants.json) |
 | Feed the Horsebear | 130236 | [130236-feed-the-horsebear.json](./130236-feed-the-horsebear.json) |
@@ -2723,6 +2724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Dark Lord and The Maiden of Light | 214537 | [214537-fire-emblem-dark-lord-and-the-maiden-of-light.json](./214537-fire-emblem-dark-lord-and-the-maiden-of-light.json) |
 | Fire Emblem: Deity Device | 270674 | [270674-fire-emblem-deity-device.json](./270674-fire-emblem-deity-device.json) |
 | Fire Emblem: Dream of Five - Definitive Edition | 316621 | [316621-fire-emblem-dream-of-five-definitive-edition.json](./316621-fire-emblem-dream-of-five-definitive-edition.json) |
+| Fire emblem: Emulation Theory | 375371 | [375371-fire-emblem-emulation-theory.json](./375371-fire-emblem-emulation-theory.json) |
 | Fire Emblem: Fortune's Weave | 366896 | [366896-fire-emblem-fortunes-weave.json](./366896-fire-emblem-fortunes-weave.json) |
 | Fire Emblem: Four Kings - Deposition | 214495 | [214495-fire-emblem-four-kings-deposition.json](./214495-fire-emblem-four-kings-deposition.json) |
 | Fire Emblem: Fuuin no Tsurugi | 1438 | [1438-fire-emblem-fuuin-no-tsurugi.json](./1438-fire-emblem-fuuin-no-tsurugi.json) |
@@ -4831,6 +4833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: Fade to Black | 367589 | [367589-fortnite-festival-fade-to-black.json](./367589-fortnite-festival-fade-to-black.json) |
 | Fortnite Festival: Locked & Loaded | 366402 | [366402-fortnite-festival-locked-and-loaded.json](./366402-fortnite-festival-locked-and-loaded.json) |
 | Fortnite Festival: Mr. Brightside | 367586 | [367586-fortnite-festival-mr-brightside.json](./367586-fortnite-festival-mr-brightside.json) |
+| Fortnite Festival: Oiia Oiia (Spinning Cat) | 375400 | [375400-fortnite-festival-oiia-oiia-spinning-cat.json](./375400-fortnite-festival-oiia-oiia-spinning-cat.json) |
 | Fortnite Festival: One | 367587 | [367587-fortnite-festival-one.json](./367587-fortnite-festival-one.json) |
 | Fortnite Festival: Radioactive | 372009 | [372009-fortnite-festival-radioactive.json](./372009-fortnite-festival-radioactive.json) |
 | Fortnite Festival: Right Round | 366429 | [366429-fortnite-festival-right-round.json](./366429-fortnite-festival-right-round.json) |
@@ -4841,6 +4844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: Season 14 | 403035 | [403035-fortnite-festival-season-14.json](./403035-fortnite-festival-season-14.json) |
 | Fortnite Festival: Season 15 | 411844 | [411844-fortnite-festival-season-15.json](./411844-fortnite-festival-season-15.json) |
 | Fortnite Festival: Season 3 | 299445 | [299445-fortnite-festival-season-3.json](./299445-fortnite-festival-season-3.json) |
+| Fortnite Festival: Shelter | 375401 | [375401-fortnite-festival-shelter.json](./375401-fortnite-festival-shelter.json) |
 | Fortnite Festival: Sunflower - Spider-Man: Into the Spider-Verse | 372127 | [372127-fortnite-festival-sunflower-spider-man-into-the-spider-verse.json](./372127-fortnite-festival-sunflower-spider-man-into-the-spider-verse.json) |
 | Fortnite Festival: Uptown Funk | 372010 | [372010-fortnite-festival-uptown-funk.json](./372010-fortnite-festival-uptown-funk.json) |
 | Fortnite Festival: Welcome Home | 366400 | [366400-fortnite-festival-welcome-home.json](./366400-fortnite-festival-welcome-home.json) |
@@ -5253,6 +5257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fran Bow | 11821 | [11821-fran-bow.json](./11821-fran-bow.json) |
 | Fran Bow Chapter 1 | 90962 | [90962-fran-bow-chapter-1.json](./90962-fran-bow-chapter-1.json) |
 | Fran Bow Chapter 4 | 91996 | [91996-fran-bow-chapter-4.json](./91996-fran-bow-chapter-4.json) |
+| Fran Bow Chapter 5 | 375346 | [375346-fran-bow-chapter-5.json](./375346-fran-bow-chapter-5.json) |
 | Franchise Hockey Manager 10 | 273894 | [273894-franchise-hockey-manager-10.json](./273894-franchise-hockey-manager-10.json) |
 | Franchise Hockey Manager 2013 | 63352 | [63352-franchise-hockey-manager-2013.json](./63352-franchise-hockey-manager-2013.json) |
 | Franchise Hockey Manager 2014 | 8913 | [8913-franchise-hockey-manager-2014.json](./8913-franchise-hockey-manager-2014.json) |
