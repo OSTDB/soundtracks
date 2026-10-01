@@ -3153,6 +3153,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Cats of Mayan | 340471 | [340471-hidden-cats-of-mayan.json](./340471-hidden-cats-of-mayan.json) |
 | Hidden Cats of Shanghai | 340472 | [340472-hidden-cats-of-shanghai.json](./340472-hidden-cats-of-shanghai.json) |
 | Hidden Cats on Christmas | 380707 | [380707-hidden-cats-on-christmas.json](./380707-hidden-cats-on-christmas.json) |
+| Hidden Cats vs Zombies | 380610 | [380610-hidden-cats-vs-zombies.json](./380610-hidden-cats-vs-zombies.json) |
+| Hidden Cats vs. Zombies 3 | 380609 | [380609-hidden-cats-vs-zombies-3.json](./380609-hidden-cats-vs-zombies-3.json) |
 | Hidden Cats: Castle | 412261 | [412261-hidden-cats-castle.json](./412261-hidden-cats-castle.json) |
 | Hidden Cats: Magic Forest | 277297 | [277297-hidden-cats-magic-forest.json](./277297-hidden-cats-magic-forest.json) |
 | Hidden Cats: Zombie Hunter | 365284 | [365284-hidden-cats-zombie-hunter.json](./365284-hidden-cats-zombie-hunter.json) |
