@@ -1129,6 +1129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeoCoins | 362268 | [362268-neocoins.json](./362268-neocoins.json) |
 | NeoCube | 148418 | [148418-neocube.json](./148418-neocube.json) |
 | NeoCube | 55482 | [55482-neocube.json](./55482-neocube.json) |
+| Neodarlo | 380655 | [380655-neodarlo.json](./380655-neodarlo.json) |
 | Neodash | 148497 | [148497-neodash.json](./148497-neodash.json) |
 | Neodori Infinity | 330285 | [330285-neodori-infinity.json](./330285-neodori-infinity.json) |
 | NeoFables | 330552 | [330552-neofables.json](./330552-neofables.json) |
@@ -3373,6 +3374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nothin' But Net | 32206 | [32206-nothin-but-net.json](./32206-nothin-but-net.json) |
 | Nothing | 282550 | [282550-nothing.json](./282550-nothing.json) |
 | Nothing & Nowhere | 133413 | [133413-nothing-and-nowhere.json](./133413-nothing-and-nowhere.json) |
+| Nothing But Me and You | 380631 | [380631-nothing-but-me-and-you.json](./380631-nothing-but-me-and-you.json) |
 | Nothing is Known: The Innocents | 364575 | [364575-nothing-is-known-the-innocents.json](./364575-nothing-is-known-the-innocents.json) |
 | Nothing Strange Here | 352856 | [352856-nothing-strange-here.json](./352856-nothing-strange-here.json) |
 | Nothing to Declare | 225067 | [225067-nothing-to-declare.json](./225067-nothing-to-declare.json) |
