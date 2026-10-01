@@ -532,6 +532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laserbreak: Esacpe | 57729 | [57729-laserbreak-esacpe.json](./57729-laserbreak-esacpe.json) |
 | Laserbreak: Renegades | 57730 | [57730-laserbreak-renegades.json](./57730-laserbreak-renegades.json) |
 | LaserCat | 32271 | [32271-lasercat.json](./32271-lasercat.json) |
+| LaserChain | 334818 | [334818-laserchain.json](./334818-laserchain.json) |
 | Laserium | 104086 | [104086-laserium.json](./104086-laserium.json) |
 | Laseronium: The Beam Focus | 55259 | [55259-laseronium-the-beam-focus.json](./55259-laseronium-the-beam-focus.json) |
 | Laserpitium | 249307 | [249307-laserpitium.json](./249307-laserpitium.json) |
@@ -693,6 +694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Pizza Slice | 178591 | [178591-last-pizza-slice.json](./178591-last-pizza-slice.json) |
 | Last Play: Ragdoll Sandbox | 269090 | [269090-last-play-ragdoll-sandbox.json](./269090-last-play-ragdoll-sandbox.json) |
 | Last Protection | 122374 | [122374-last-protection.json](./122374-last-protection.json) |
+| Last Question | 334920 | [334920-last-question.json](./334920-last-question.json) |
 | Last Remains | 249467 | [249467-last-remains.json](./249467-last-remains.json) |
 | Last Report | 333277 | [333277-last-report.json](./333277-last-report.json) |
 | Last Resort | 172037 | [172037-last-resort.json](./172037-last-resort.json) |
