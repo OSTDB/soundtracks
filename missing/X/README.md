@@ -540,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xyla and the 'Shrooms of Doom | 129696 | [129696-xyla-and-the-shrooms-of-doom.json](./129696-xyla-and-the-shrooms-of-doom.json) |
 | Xyonix | 39807 | [39807-xyonix.json](./39807-xyonix.json) |
 | Xyphoe's Nightmare | 402885 | [402885-xyphoes-nightmare.json](./402885-xyphoes-nightmare.json) |
+| Xyphoe’s Nightmare | 354587 | [354587-xyphoe-s-nightmare.json](./354587-xyphoe-s-nightmare.json) |
 | Xyphoes Fantasy | 10854 | [10854-xyphoes-fantasy.json](./10854-xyphoes-fantasy.json) |
 | Xyphr | 71812 | [71812-xyphr.json](./71812-xyphr.json) |
 | Xyzygy | 184075 | [184075-xyzygy.json](./184075-xyzygy.json) |
