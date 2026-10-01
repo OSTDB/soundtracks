@@ -1882,6 +1882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal Tender | 84329 | [84329-lethal-tender.json](./84329-lethal-tender.json) |
 | Lethal Weapon | 39024 | [39024-lethal-weapon.json](./39024-lethal-weapon.json) |
 | Lethal Women: World of Femdom and Espionage | 340913 | [340913-lethal-women-world-of-femdom-and-espionage.json](./340913-lethal-women-world-of-femdom-and-espionage.json) |
+| Lethalmon | 358277 | [358277-lethalmon.json](./358277-lethalmon.json) |
 | LethalRpgDestiny | 309093 | [309093-lethalrpgdestiny.json](./309093-lethalrpgdestiny.json) |
 | Lethe | 175283 | [175283-lethe.json](./175283-lethe.json) |
 | Letherfall | 373540 | [373540-letherfall.json](./373540-letherfall.json) |
@@ -4013,6 +4014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Sunday Comics | 192797 | [192797-lost-sunday-comics.json](./192797-lost-sunday-comics.json) |
 | Lost Surreal Hell | 244751 | [244751-lost-surreal-hell.json](./244751-lost-surreal-hell.json) |
 | Lost Sword | 353867 | [353867-lost-sword.json](./353867-lost-sword.json) |
+| Lost Tales of Altoris | 358459 | [358459-lost-tales-of-altoris.json](./358459-lost-tales-of-altoris.json) |
 | Lost Tales: Forgotten Souls | 369715 | [369715-lost-tales-forgotten-souls.json](./369715-lost-tales-forgotten-souls.json) |
 | Lost Tales: Karai Vosa | 376134 | [376134-lost-tales-karai-vosa.json](./376134-lost-tales-karai-vosa.json) |
 | Lost Tales: The Castle Escape | 104809 | [104809-lost-tales-the-castle-escape.json](./104809-lost-tales-the-castle-escape.json) |
