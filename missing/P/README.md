@@ -490,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pals Go Only Up! | 295774 | [295774-pals-go-only-up.json](./295774-pals-go-only-up.json) |
 | PalSync | 341599 | [341599-palsync.json](./341599-palsync.json) |
 | PalWar | 371275 | [371275-palwar.json](./371275-palwar.json) |
+| Palworld: Palfarm | 369677 | [369677-palworld-palfarm.json](./369677-palworld-palfarm.json) |
 | Pam's HarvestCraft | 232682 | [232682-pams-harvestcraft.json](./232682-pams-harvestcraft.json) |
 | Pamali: Indonesian Folklore Horror - The Tied Corpse | 117737 | [117737-pamali-indonesian-folklore-horror-the-tied-corpse.json](./117737-pamali-indonesian-folklore-horror-the-tied-corpse.json) |
 | Pamali: The Vengeful Mother | 274761 | [274761-pamali-the-vengeful-mother.json](./274761-pamali-the-vengeful-mother.json) |
@@ -804,6 +805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Mario: TTYD - Tower of Trials v3.0 | 358321 | [358321-paper-mario-ttyd-tower-of-trials-v3-0.json](./358321-paper-mario-ttyd-tower-of-trials-v3-0.json) |
 | Paper Nebula | 213445 | [213445-paper-nebula.json](./213445-paper-nebula.json) |
 | Paper Pilgrim | 140629 | [140629-paper-pilgrim.json](./140629-paper-pilgrim.json) |
+| Paper Pilot | 369706 | [369706-paper-pilot.json](./369706-paper-pilot.json) |
 | Paper Pinball | 65588 | [65588-paper-pinball.json](./65588-paper-pinball.json) |
 | Paper Plane Arena: Shamans | 288222 | [288222-paper-plane-arena-shamans.json](./288222-paper-plane-arena-shamans.json) |
 | Paper Planes | 238636 | [238636-paper-planes.json](./238636-paper-planes.json) |
@@ -1717,6 +1719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payout: Shop Simulator | 309336 | [309336-payout-shop-simulator.json](./309336-payout-shop-simulator.json) |
 | Payrates | 405522 | [405522-payrates.json](./405522-payrates.json) |
 | Paze Knight Ellen and the Dungeon Town Sodom | 244482 | [244482-paze-knight-ellen-and-the-dungeon-town-sodom.json](./244482-paze-knight-ellen-and-the-dungeon-town-sodom.json) |
+| Pazinko! | 369707 | [369707-pazinko.json](./369707-pazinko.json) |
 | PazuDora Gold | 120866 | [120866-pazudora-gold.json](./120866-pazudora-gold.json) |
 | Pazuru | 85595 | [85595-pazuru.json](./85595-pazuru.json) |
 | Pazuru in Airou | 65177 | [65177-pazuru-in-airou.json](./65177-pazuru-in-airou.json) |
@@ -5909,6 +5912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porkerpillar | 89209 | [89209-porkerpillar.json](./89209-porkerpillar.json) |
 | Porkshire Hero | 331485 | [331485-porkshire-hero.json](./331485-porkshire-hero.json) |
 | Porky's | 22761 | [22761-porkys.json](./22761-porkys.json) |
+| Porn Pizza Delivery Boy | 369674 | [369674-porn-pizza-delivery-boy.json](./369674-porn-pizza-delivery-boy.json) |
 | Porn Star Island | 385795 | [385795-porn-star-island.json](./385795-porn-star-island.json) |
 | Porno Empire | 270786 | [270786-porno-empire.json](./270786-porno-empire.json) |
 | Pornocrates | 158065 | [158065-pornocrates.json](./158065-pornocrates.json) |
