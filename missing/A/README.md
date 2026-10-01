@@ -5557,6 +5557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Flipull | 202800 | [202800-arcade-archives-flipull.json](./202800-arcade-archives-flipull.json) |
 | Arcade Archives: Galactic Warriors | 378778 | [378778-arcade-archives-galactic-warriors.json](./378778-arcade-archives-galactic-warriors.json) |
 | Arcade Archives: Galaga | 230364 | [230364-arcade-archives-galaga.json](./230364-arcade-archives-galaga.json) |
+| Arcade Archives: Gangbusters | 340530 | [340530-arcade-archives-gangbusters.json](./340530-arcade-archives-gangbusters.json) |
 | Arcade Archives: Gee Bee | 371413 | [371413-arcade-archives-gee-bee.json](./371413-arcade-archives-gee-bee.json) |
 | Arcade Archives: Gemini Wing | 146343 | [146343-arcade-archives-gemini-wing.json](./146343-arcade-archives-gemini-wing.json) |
 | Arcade Archives: Gradius II | 99541 | [99541-arcade-archives-gradius-ii.json](./99541-arcade-archives-gradius-ii.json) |
