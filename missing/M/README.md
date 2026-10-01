@@ -2030,6 +2030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MarioQuest 3: The Ghost of SEGA | 318033 | [318033-marioquest-3-the-ghost-of-sega.json](./318033-marioquest-3-the-ghost-of-sega.json) |
 | Mariostro Strikers: Soccer League | 329719 | [329719-mariostro-strikers-soccer-league.json](./329719-mariostro-strikers-soccer-league.json) |
 | Mariozza Cops | 153836 | [153836-mariozza-cops.json](./153836-mariozza-cops.json) |
+| Mariposa | 365839 | [365839-mariposa.json](./365839-mariposa.json) |
 | Mariposa | 395588 | [395588-mariposa.json](./395588-mariposa.json) |
 | Mariposa and the Galaxy Man | 191904 | [191904-mariposa-and-the-galaxy-man.json](./191904-mariposa-and-the-galaxy-man.json) |
 | Marisa's Inconceivable Journey | 190946 | [190946-marisas-inconceivable-journey.json](./190946-marisas-inconceivable-journey.json) |
@@ -5194,6 +5195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Looters | 392121 | [392121-midnight-looters.json](./392121-midnight-looters.json) |
 | Midnight Mahjong | 182360 | [182360-midnight-mahjong.json](./182360-midnight-mahjong.json) |
 | Midnight Maintenance | 180780 | [180780-midnight-maintenance.json](./180780-midnight-maintenance.json) |
+| Midnight Mansion | 365804 | [365804-midnight-mansion.json](./365804-midnight-mansion.json) |
 | Midnight Margo | 276827 | [276827-midnight-margo.json](./276827-midnight-margo.json) |
 | Midnight Mayhem | 300814 | [300814-midnight-mayhem.json](./300814-midnight-mayhem.json) |
 | Midnight Mazesoba | 374754 | [374754-midnight-mazesoba.json](./374754-midnight-mazesoba.json) |
@@ -6614,6 +6616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MMX Hill Dash | 86927 | [86927-mmx-hill-dash.json](./86927-mmx-hill-dash.json) |
 | MMX Hill Dash 2 - Race Offroad | 97262 | [97262-mmx-hill-dash-2-race-offroad.json](./97262-mmx-hill-dash-2-race-offroad.json) |
 | MMX Racing | 224004 | [224004-mmx-racing.json](./224004-mmx-racing.json) |
+| Mnemocyne Complex | 365813 | [365813-mnemocyne-complex.json](./365813-mnemocyne-complex.json) |
 | Mnemonic Devices | 177509 | [177509-mnemonic-devices.json](./177509-mnemonic-devices.json) |
 | Mnemophobia: Deadline | 227772 | [227772-mnemophobia-deadline.json](./227772-mnemophobia-deadline.json) |
 | Mnemosyne's Cube | 395159 | [395159-mnemosynes-cube.json](./395159-mnemosynes-cube.json) |
@@ -8491,6 +8494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Movie Tycoon Simulator 2020 | 150536 | [150536-movie-tycoon-simulator-2020.json](./150536-movie-tycoon-simulator-2020.json) |
 | Moviedle | 401684 | [401684-moviedle.json](./401684-moviedle.json) |
 | Movierooms: Cinema Management | 260156 | [260156-movierooms-cinema-management.json](./260156-movierooms-cinema-management.json) |
+| Movies Tycoon: Dawn of Cinema | 365820 | [365820-movies-tycoon-dawn-of-cinema.json](./365820-movies-tycoon-dawn-of-cinema.json) |
 | Movies Tycoon: Thrills & Spectacles | 377853 | [377853-movies-tycoon-thrills-and-spectacles.json](./377853-movies-tycoon-thrills-and-spectacles.json) |
 | MovieStarPlanet | 94981 | [94981-moviestarplanet.json](./94981-moviestarplanet.json) |
 | Moving Blocks Puzzle | 251550 | [251550-moving-blocks-puzzle.json](./251550-moving-blocks-puzzle.json) |
@@ -8776,6 +8780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muay Thai | 349887 | [349887-muay-thai.json](./349887-muay-thai.json) |
 | Muchacho Bean | 293638 | [293638-muchacho-bean.json](./293638-muchacho-bean.json) |
 | Mucho Party | 116442 | [116442-mucho-party.json](./116442-mucho-party.json) |
+| Mucho Texto | 365809 | [365809-mucho-texto.json](./365809-mucho-texto.json) |
 | Mud and Blood | 153415 | [153415-mud-and-blood.json](./153415-mud-and-blood.json) |
 | Mud Monster Up Hill Madness | 104214 | [104214-mud-monster-up-hill-madness.json](./104214-mud-monster-up-hill-madness.json) |
 | Mud Tyres: Offroad Edition | 90066 | [90066-mud-tyres-offroad-edition.json](./90066-mud-tyres-offroad-edition.json) |
