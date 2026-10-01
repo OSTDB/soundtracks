@@ -513,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 16bit-Collection Data East Vol. 1 | 97892 | [97892-16bit-collection-data-east-vol-1.json](./97892-16bit-collection-data-east-vol-1.json) |
 | 16bit-Collection Jaleco Vol. 01 | 97895 | [97895-16bit-collection-jaleco-vol-01.json](./97895-16bit-collection-jaleco-vol-01.json) |
 | 17 Fighters | 183562 | [183562-17-fighters.json](./183562-17-fighters.json) |
+| 17 Seconds VR | 374234 | [374234-17-seconds-vr.json](./374234-17-seconds-vr.json) |
 | 1775: Rebellion | 34000 | [34000-1775-rebellion.json](./34000-1775-rebellion.json) |
 | 18 Cadence | 63378 | [63378-18-cadence.json](./63378-18-cadence.json) |
 | 18 Wheeler: American Pro Trucker | 3706 | [3706-18-wheeler-american-pro-trucker.json](./3706-18-wheeler-american-pro-trucker.json) |
