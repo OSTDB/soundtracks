@@ -3606,6 +3606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fleet Force | 102098 | [102098-fleet-force.json](./102098-fleet-force.json) |
 | Fleet Sweep | 139892 | [139892-fleet-sweep.json](./139892-fleet-sweep.json) |
 | Fleet Wars | 28812 | [28812-fleet-wars.json](./28812-fleet-wars.json) |
+| Fleetbreakers | 342190 | [342190-fleetbreakers.json](./342190-fleetbreakers.json) |
 | FleeTing | 371241 | [371241-fleeting.json](./371241-fleeting.json) |
 | Fleeting JKT | 183048 | [183048-fleeting-jkt.json](./183048-fleeting-jkt.json) |
 | FleetMaster | 234060 | [234060-fleetmaster.json](./234060-fleetmaster.json) |
@@ -4839,6 +4840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula Circus | 286579 | [286579-formula-circus.json](./286579-formula-circus.json) |
 | Formula Circus | 302347 | [302347-formula-circus.json](./302347-formula-circus.json) |
 | Formula Drag Manager | 221708 | [221708-formula-drag-manager.json](./221708-formula-drag-manager.json) |
+| Formula Legends | 342187 | [342187-formula-legends.json](./342187-formula-legends.json) |
 | Formula Legends: Early 2010’s Season Pack | 403569 | [403569-formula-legends-early-2010-s-season-pack.json](./403569-formula-legends-early-2010-s-season-pack.json) |
 | Formula Legends: Formula E - Electric Evolution | 403568 | [403568-formula-legends-formula-e-electric-evolution.json](./403568-formula-legends-formula-e-electric-evolution.json) |
 | Formula Legends: Iconic Tracks | 403567 | [403567-formula-legends-iconic-tracks.json](./403567-formula-legends-iconic-tracks.json) |
@@ -5783,6 +5785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Fractions | 18723 | [18723-frog-fractions.json](./18723-frog-fractions.json) |
 | Frog Frenzy | 87707 | [87707-frog-frenzy.json](./87707-frog-frenzy.json) |
 | Frog Golf | 202694 | [202694-frog-golf.json](./202694-frog-golf.json) |
+| Frog Heist | 342202 | [342202-frog-heist.json](./342202-frog-heist.json) |
 | Frog in the Fog | 393630 | [393630-frog-in-the-fog.json](./393630-frog-in-the-fog.json) |
 | Frog Jump | 273912 | [273912-frog-jump.json](./273912-frog-jump.json) |
 | Frog Jump | 351745 | [351745-frog-jump.json](./351745-frog-jump.json) |
