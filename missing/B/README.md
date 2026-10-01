@@ -326,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backstage: Murdered Sleep | 297777 | [297777-backstage-murdered-sleep.json](./297777-backstage-murdered-sleep.json) |
 | Backstory | 406102 | [406102-backstory.json](./406102-backstory.json) |
 | Backstreet Billiards | 94359 | [94359-backstreet-billiards.json](./94359-backstreet-billiards.json) |
+| Backstreet Warriors | 351158 | [351158-backstreet-warriors.json](./351158-backstreet-warriors.json) |
 | Backtrace: Mechanisms for Forgetting | 419849 | [419849-backtrace-mechanisms-for-forgetting.json](./419849-backtrace-mechanisms-for-forgetting.json) |
 | Backward Poiesis | 297776 | [297776-backward-poiesis.json](./297776-backward-poiesis.json) |
 | Backwards | 179176 | [179176-backwards.json](./179176-backwards.json) |
@@ -2531,6 +2532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Blitz | 217028 | [217028-beat-blitz.json](./217028-beat-blitz.json) |
 | Beat Boxers | 110997 | [110997-beat-boxers.json](./110997-beat-boxers.json) |
 | Beat Bros | 52633 | [52633-beat-bros.json](./52633-beat-bros.json) |
+| Beat Bulwark | 351179 | [351179-beat-bulwark.json](./351179-beat-bulwark.json) |
 | Beat Cop | 18860 | [18860-beat-cop.json](./18860-beat-cop.json) |
 | Beat Craft | 320151 | [320151-beat-craft.json](./320151-beat-craft.json) |
 | Beat Da Beat | 24207 | [24207-beat-da-beat.json](./24207-beat-da-beat.json) |
@@ -7537,6 +7539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Memories | 154434 | [154434-broken-memories.json](./154434-broken-memories.json) |
 | Broken Metal | 111038 | [111038-broken-metal.json](./111038-broken-metal.json) |
 | Broken Mind | 181138 | [181138-broken-mind.json](./181138-broken-mind.json) |
+| Broken Needle | 351169 | [351169-broken-needle.json](./351169-broken-needle.json) |
 | Broken Note | 237041 | [237041-broken-note.json](./237041-broken-note.json) |
 | Broken Pact | 357319 | [357319-broken-pact.json](./357319-broken-pact.json) |
 | Broken Paradox | 346689 | [346689-broken-paradox.json](./346689-broken-paradox.json) |
@@ -8176,7 +8179,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bultaneun Yeonghon | 145596 | [145596-bultaneun-yeonghon.json](./145596-bultaneun-yeonghon.json) |
 | Bulu Monster | 262350 | [262350-bulu-monster.json](./262350-bulu-monster.json) |
 | Buluk: Mayan Warfare | 125420 | [125420-buluk-mayan-warfare.json](./125420-buluk-mayan-warfare.json) |
+| Bulwark | 351181 | [351181-bulwark.json](./351181-bulwark.json) |
 | Bulwark Evolution: Falconeer Chronicles | 214486 | [214486-bulwark-evolution-falconeer-chronicles.json](./214486-bulwark-evolution-falconeer-chronicles.json) |
+| Bulwark Evolution: Falconeer Chronicles - Mongres Trader Pack | 351177 | [351177-bulwark-evolution-falconeer-chronicles-mongres-trader-pack.json](./351177-bulwark-evolution-falconeer-chronicles-mongres-trader-pack.json) |
+| Bulwark Evolution: Falconeer Chronicles - Verne Bannerless Pack | 351176 | [351176-bulwark-evolution-falconeer-chronicles-verne-bannerless-pack.json](./351176-bulwark-evolution-falconeer-chronicles-verne-bannerless-pack.json) |
+| Bulwark: Falconeer Chronicles - Berracutta | 351178 | [351178-bulwark-falconeer-chronicles-berracutta.json](./351178-bulwark-falconeer-chronicles-berracutta.json) |
 | Bulwark: Falconeer Chronicles - Medieval Houses | 408049 | [408049-bulwark-falconeer-chronicles-medieval-houses.json](./408049-bulwark-falconeer-chronicles-medieval-houses.json) |
 | Bum Bum Monsterz | 258511 | [258511-bum-bum-monsterz.json](./258511-bum-bum-monsterz.json) |
 | Bumaga | 197122 | [197122-bumaga.json](./197122-bumaga.json) |
@@ -8288,6 +8295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunnyrama | 30136 | [30136-bunnyrama.json](./30136-bunnyrama.json) |
 | BunnyShot | 157514 | [157514-bunnyshot.json](./157514-bunnyshot.json) |
 | Bunnysitting | 246658 | [246658-bunnysitting.json](./246658-bunnysitting.json) |
+| Buns Out! | 351147 | [351147-buns-out.json](./351147-buns-out.json) |
 | Buns: Bunny Survivor | 215039 | [215039-buns-bunny-survivor.json](./215039-buns-bunny-survivor.json) |
 | Bunt Girl | 178669 | [178669-bunt-girl.json](./178669-bunt-girl.json) |
 | Buoy Boy | 233768 | [233768-buoy-boy.json](./233768-buoy-boy.json) |
