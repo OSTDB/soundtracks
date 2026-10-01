@@ -1463,6 +1463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball 9 | 159122 | [159122-baseball-9.json](./159122-baseball-9.json) |
 | Baseball Bout: Otterrific Arcade | 214517 | [214517-baseball-bout-otterrific-arcade.json](./214517-baseball-bout-otterrific-arcade.json) |
 | Baseball Boy! | 87059 | [87059-baseball-boy.json](./87059-baseball-boy.json) |
+| Baseball Bros | 336068 | [336068-baseball-bros.json](./336068-baseball-bros.json) |
 | Baseball Card Shop Simulator | 349428 | [349428-baseball-card-shop-simulator.json](./349428-baseball-card-shop-simulator.json) |
 | Baseball Champion League 2019 | 220204 | [220204-baseball-champion-league-2019.json](./220204-baseball-champion-league-2019.json) |
 | Baseball Fighter | 48615 | [48615-baseball-fighter.json](./48615-baseball-fighter.json) |
@@ -3115,6 +3116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bent on Destruction | 195648 | [195648-bent-on-destruction.json](./195648-bent-on-destruction.json) |
 | Bentley Bear’s Crystal Quest | 314440 | [314440-bentley-bear-s-crystal-quest.json](./314440-bentley-bear-s-crystal-quest.json) |
 | Bento Bugs | 329354 | [329354-bento-bugs.json](./329354-bento-bugs.json) |
+| Bento no Subarashisa wo Ano 2-do 3-do: Nama-ham to Yaki-udon Hen | 336179 | [336179-bento-no-subarashisa-wo-ano-2-do-3-do-nama-ham-to-yaki-udon-hen.json](./336179-bento-no-subarashisa-wo-ano-2-do-3-do-nama-ham-to-yaki-udon-hen.json) |
 | Bepuzzled Jigsaw Puzzle: Aquatic | 241662 | [241662-bepuzzled-jigsaw-puzzle-aquatic.json](./241662-bepuzzled-jigsaw-puzzle-aquatic.json) |
 | Bepuzzled Jigsaw Puzzle: Japan | 241658 | [241658-bepuzzled-jigsaw-puzzle-japan.json](./241658-bepuzzled-jigsaw-puzzle-japan.json) |
 | Bepuzzled Jigsaw Puzzle: Nature | 241659 | [241659-bepuzzled-jigsaw-puzzle-nature.json](./241659-bepuzzled-jigsaw-puzzle-nature.json) |
@@ -3356,6 +3358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Senses | 124169 | [124169-beyond-senses.json](./124169-beyond-senses.json) |
 | Beyond Shattered Isles | 126545 | [126545-beyond-shattered-isles.json](./126545-beyond-shattered-isles.json) |
 | Beyond Silence | 363964 | [363964-beyond-silence.json](./363964-beyond-silence.json) |
+| Beyond SMBWii | 336104 | [336104-beyond-smbwii.json](./336104-beyond-smbwii.json) |
 | Beyond Solar | 172135 | [172135-beyond-solar.json](./172135-beyond-solar.json) |
 | Beyond Space Remastered | 108616 | [108616-beyond-space-remastered.json](./108616-beyond-space-remastered.json) |
 | Beyond the Abyss | 86126 | [86126-beyond-the-abyss.json](./86126-beyond-the-abyss.json) |
@@ -4910,6 +4913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blips | 320157 | [320157-blips.json](./320157-blips.json) |
 | Blipz | 189050 | [189050-blipz.json](./189050-blipz.json) |
 | Bliss | 148891 | [148891-bliss.json](./148891-bliss.json) |
+| Bliss Valley | 336062 | [336062-bliss-valley.json](./336062-bliss-valley.json) |
 | Blit Seige | 138615 | [138615-blit-seige.json](./138615-blit-seige.json) |
 | Blithe | 177528 | [177528-blithe.json](./177528-blithe.json) |
 | Blitz & Blaze | 265775 | [265775-blitz-and-blaze.json](./265775-blitz-and-blaze.json) |
