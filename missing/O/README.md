@@ -395,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off | 326638 | [326638-off.json](./326638-off.json) |
 | Off and Pacing | 112147 | [112147-off-and-pacing.json](./112147-off-and-pacing.json) |
 | Off Base | 271461 | [271461-off-base.json](./271461-off-base.json) |
+| Off Course | 361839 | [361839-off-course.json](./361839-off-course.json) |
 | Off Day | 178501 | [178501-off-day.json](./178501-off-day.json) |
 | Off Grid | 392388 | [392388-off-grid.json](./392388-off-grid.json) |
 | Off Grid | 96266 | [96266-off-grid.json](./96266-off-grid.json) |
@@ -1304,6 +1305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Shot Gladiator | 292012 | [292012-one-shot-gladiator.json](./292012-one-shot-gladiator.json) |
 | One Shot in the Dark, Now I'm Dead. | 159335 | [159335-one-shot-in-the-dark-now-im-dead.json](./159335-one-shot-in-the-dark-now-im-dead.json) |
 | One Shot Outlaw | 212461 | [212461-one-shot-outlaw.json](./212461-one-shot-outlaw.json) |
+| One Shot X | 361735 | [361735-one-shot-x.json](./361735-one-shot-x.json) |
 | One show only | 25620 | [25620-one-show-only.json](./25620-one-show-only.json) |
 | One Single Life | 92315 | [92315-one-single-life.json](./92315-one-single-life.json) |
 | One Slime Army | 307597 | [307597-one-slime-army.json](./307597-one-slime-army.json) |
@@ -2298,6 +2300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Cinderella | 292061 | [292061-our-cinderella.json](./292061-our-cinderella.json) |
 | Our Darkest Night | 30793 | [30793-our-darkest-night.json](./30793-our-darkest-night.json) |
 | Our Dollhouse | 294219 | [294219-our-dollhouse.json](./294219-our-dollhouse.json) |
+| Our Eyes See No Evil | 361841 | [361841-our-eyes-see-no-evil.json](./361841-our-eyes-see-no-evil.json) |
 | Our Fantasy Quest | 221737 | [221737-our-fantasy-quest.json](./221737-our-fantasy-quest.json) |
 | Our Fate Forsaken | 197411 | [197411-our-fate-forsaken.json](./197411-our-fate-forsaken.json) |
 | Our Field Trip Adventure | 298582 | [298582-our-field-trip-adventure.json](./298582-our-field-trip-adventure.json) |
