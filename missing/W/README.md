@@ -1085,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasteland Chronicles | 316648 | [316648-wasteland-chronicles.json](./316648-wasteland-chronicles.json) |
 | WasteLand Express | 368025 | [368025-wasteland-express.json](./368025-wasteland-express.json) |
 | Wasteland Horror Radio: Episode 1 - The Radio | 360641 | [360641-wasteland-horror-radio-episode-1-the-radio.json](./360641-wasteland-horror-radio-episode-1-the-radio.json) |
+| Wasteland Kitchen | 344506 | [344506-wasteland-kitchen.json](./344506-wasteland-kitchen.json) |
 | Wasteland Orchard | 387646 | [387646-wasteland-orchard.json](./387646-wasteland-orchard.json) |
 | Wasteland Rangers | 338392 | [338392-wasteland-rangers.json](./338392-wasteland-rangers.json) |
 | Wasteland Story | 249179 | [249179-wasteland-story.json](./249179-wasteland-story.json) |
@@ -2854,6 +2855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winning Run | 64491 | [64491-winning-run.json](./64491-winning-run.json) |
 | Winning Solution | 47545 | [47545-winning-solution.json](./47545-winning-solution.json) |
 | Winning Tactics | 368492 | [368492-winning-tactics.json](./368492-winning-tactics.json) |
+| Winoa Wizard's Witchy Quest to Womanhood vs. the Botanical Bitches | 344524 | [344524-winoa-wizards-witchy-quest-to-womanhood-vs-the-botanical-bitches.json](./344524-winoa-wizards-witchy-quest-to-womanhood-vs-the-botanical-bitches.json) |
 | WinPlex | 94723 | [94723-winplex.json](./94723-winplex.json) |
 | WinRisk | 92815 | [92815-winrisk.json](./92815-winrisk.json) |
 | Winslow | 367483 | [367483-winslow.json](./367483-winslow.json) |
