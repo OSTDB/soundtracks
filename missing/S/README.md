@@ -2256,6 +2256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sector Alpha | 301339 | [301339-sector-alpha.json](./301339-sector-alpha.json) |
 | Sector Alpha | 40913 | [40913-sector-alpha.json](./40913-sector-alpha.json) |
 | Sector Lockdown | 382335 | [382335-sector-lockdown.json](./382335-sector-lockdown.json) |
+| Sector Shooter | 361266 | [361266-sector-shooter.json](./361266-sector-shooter.json) |
 | Sector Six | 32924 | [32924-sector-six.json](./32924-sector-six.json) |
 | Sector Strike | 145016 | [145016-sector-strike.json](./145016-sector-strike.json) |
 | Sector War | 413131 | [413131-sector-war.json](./413131-sector-war.json) |
@@ -6038,6 +6039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkyBoats | 31832 | [31832-skyboats.json](./31832-skyboats.json) |
 | Skybolt Zack | 109028 | [109028-skybolt-zack.json](./109028-skybolt-zack.json) |
 | Skyborg: Into the Vortex | 122940 | [122940-skyborg-into-the-vortex.json](./122940-skyborg-into-the-vortex.json) |
+| Skyborn: IronWings | 361253 | [361253-skyborn-ironwings.json](./361253-skyborn-ironwings.json) |
 | Skybound Colonies | 394529 | [394529-skybound-colonies.json](./394529-skybound-colonies.json) |
 | Skybox | 236858 | [236858-skybox.json](./236858-skybox.json) |
 | Skybride | 134634 | [134634-skybride.json](./134634-skybride.json) |
@@ -15804,6 +15806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Stickman Golf | 47270 | [47270-super-stickman-golf.json](./47270-super-stickman-golf.json) |
 | Super Stickman Golf 3 | 58223 | [58223-super-stickman-golf-3.json](./58223-super-stickman-golf-3.json) |
 | Super Storm | 42144 | [42144-super-storm.json](./42144-super-storm.json) |
+| Super Strawberry Clock | 361284 | [361284-super-strawberry-clock.json](./361284-super-strawberry-clock.json) |
 | Super Stream-Bara | 338948 | [338948-super-stream-bara.json](./338948-super-stream-bara.json) |
 | Super Street Basketball 2 | 64097 | [64097-super-street-basketball-2.json](./64097-super-street-basketball-2.json) |
 | Super Street Fighter II | 322188 | [322188-super-street-fighter-ii.json](./322188-super-street-fighter-ii.json) |
