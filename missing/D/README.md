@@ -3462,6 +3462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Di: The Silk Rose Murders | 24444 | [24444-detective-di-the-silk-rose-murders.json](./24444-detective-di-the-silk-rose-murders.json) |
 | Detective Diaries | 302499 | [302499-detective-diaries.json](./302499-detective-diaries.json) |
 | Detective Driver: Miami Files | 90352 | [90352-detective-driver-miami-files.json](./90352-detective-driver-miami-files.json) |
+| Detective Dunkadoo | 386965 | [386965-detective-dunkadoo.json](./386965-detective-dunkadoo.json) |
 | Detective Eustaquio | 320737 | [320737-detective-eustaquio.json](./320737-detective-eustaquio.json) |
 | Detective Fantasia: Excalimurder | 274562 | [274562-detective-fantasia-excalimurder.json](./274562-detective-fantasia-excalimurder.json) |
 | Detective Firefly | 348257 | [348257-detective-firefly.json](./348257-detective-firefly.json) |
@@ -4281,6 +4282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Hex Trap | 412565 | [412565-dino-hex-trap.json](./412565-dino-hex-trap.json) |
 | Dino Hunt | 150081 | [150081-dino-hunt.json](./150081-dino-hunt.json) |
 | Dino Jnr. in Canyon Capers | 57167 | [57167-dino-jnr-in-canyon-capers.json](./57167-dino-jnr-in-canyon-capers.json) |
+| Dino Land | 386929 | [386929-dino-land.json](./386929-dino-land.json) |
 | Dino Lost | 120406 | [120406-dino-lost.json](./120406-dino-lost.json) |
 | Dino Market | 312710 | [312710-dino-market.json](./312710-dino-market.json) |
 | Dino Master | 132161 | [132161-dino-master.json](./132161-dino-master.json) |
@@ -4687,6 +4689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Mirrorverse | 137964 | [137964-disney-mirrorverse.json](./137964-disney-mirrorverse.json) |
 | Disney Move | 43499 | [43499-disney-move.json](./43499-disney-move.json) |
 | Disney Piglet's Special Day | 220130 | [220130-disney-piglets-special-day.json](./220130-disney-piglets-special-day.json) |
+| Disney Pop Town | 386962 | [386962-disney-pop-town.json](./386962-disney-pop-town.json) |
 | Disney Princess | 220084 | [220084-disney-princess.json](./220084-disney-princess.json) |
 | Disney Princess | 230556 | [230556-disney-princess.json](./230556-disney-princess.json) |
 | Disney Princess: Cinderella - Once Upon a Midnight | 221676 | [221676-disney-princess-cinderella-once-upon-a-midnight.json](./221676-disney-princess-cinderella-once-upon-a-midnight.json) |
@@ -6008,6 +6011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomsday Robot Girl | 189974 | [189974-doomsday-robot-girl.json](./189974-doomsday-robot-girl.json) |
 | Doomsday Vault | 117012 | [117012-doomsday-vault.json](./117012-doomsday-vault.json) |
 | Doomsday Warrior | 42599 | [42599-doomsday-warrior.json](./42599-doomsday-warrior.json) |
+| Doomtrain | 386910 | [386910-doomtrain.json](./386910-doomtrain.json) |
 | Doomtrooper CCG | 71196 | [71196-doomtrooper-ccg.json](./71196-doomtrooper-ccg.json) |
 | DoomWall | 323830 | [323830-doomwall.json](./323830-doomwall.json) |
 | Doomworld Forum Adventures! | 252214 | [252214-doomworld-forum-adventures.json](./252214-doomworld-forum-adventures.json) |
@@ -6646,6 +6650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Dokkan Battle | 88818 | [88818-dragon-ball-z-dokkan-battle.json](./88818-dragon-ball-z-dokkan-battle.json) |
 | Dragon Ball Z: Final Bout | 229063 | [229063-dragon-ball-z-final-bout.json](./229063-dragon-ball-z-final-bout.json) |
 | Dragon Ball Z: Hyper Dimension | 270755 | [270755-dragon-ball-z-hyper-dimension.json](./270755-dragon-ball-z-hyper-dimension.json) |
+| Dragon Ball Z: Kakarot - Daima Edition | 386957 | [386957-dragon-ball-z-kakarot-daima-edition.json](./386957-dragon-ball-z-kakarot-daima-edition.json) |
 | Dragon Ball Z: Kakarot - Daima: Adventure Through The Demon Realm Bonus Pack | 333619 | [333619-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-bonus-pack.json](./333619-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-bonus-pack.json) |
 | Dragon Ball Z: Kakarot - Daima: Adventure Through The Demon Realm Pack | 333616 | [333616-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-pack.json](./333616-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-pack.json) |
 | Dragon Ball Z: Kakarot - Daima: Adventure Through The Demon Realm Part 1 | 333617 | [333617-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-part-1.json](./333617-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-part-1.json) |
