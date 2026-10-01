@@ -657,6 +657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unbound | 167249 | [167249-unbound.json](./167249-unbound.json) |
 | Unbounded | 396496 | [396496-unbounded.json](./396496-unbounded.json) |
 | Unbox the Room | 304642 | [304642-unbox-the-room.json](./304642-unbox-the-room.json) |
+| Unboxathon | 346186 | [346186-unboxathon.json](./346186-unboxathon.json) |
 | Unboxing | 225178 | [225178-unboxing.json](./225178-unboxing.json) |
 | Unboxing Mr. Coo | 359008 | [359008-unboxing-mr-coo.json](./359008-unboxing-mr-coo.json) |
 | Unboxing: Cozy Home Simulator | 334104 | [334104-unboxing-cozy-home-simulator.json](./334104-unboxing-cozy-home-simulator.json) |
