@@ -1678,6 +1678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After I Met That Catgirl, My Questlist Got Too Long! | 117631 | [117631-after-i-met-that-catgirl-my-questlist-got-too-long.json](./117631-after-i-met-that-catgirl-my-questlist-got-too-long.json) |
 | After Inc: Revival | 344549 | [344549-after-inc-revival.json](./344549-after-inc-revival.json) |
 | After Inc. | 323935 | [323935-after-inc.json](./323935-after-inc.json) |
+| After Lights Out | 346733 | [346733-after-lights-out.json](./346733-after-lights-out.json) |
 | After Mankind: TD | 367545 | [367545-after-mankind-td.json](./367545-after-mankind-td.json) |
 | After School | 182819 | [182819-after-school.json](./182819-after-school.json) |
 | After School | 252719 | [252719-after-school.json](./252719-after-school.json) |
@@ -3422,6 +3423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alter Ego | 305386 | [305386-alter-ego.json](./305386-alter-ego.json) |
 | Alter Ego Complex | 174307 | [174307-alter-ego-complex.json](./174307-alter-ego-complex.json) |
 | Alter Ego: DreamWalker | 63535 | [63535-alter-ego-dreamwalker.json](./63535-alter-ego-dreamwalker.json) |
+| Alter Psycho | 346740 | [346740-alter-psycho.json](./346740-alter-psycho.json) |
 | Alter World | 35588 | [35588-alter-world.json](./35588-alter-world.json) |
 | Alteration | 180803 | [180803-alteration.json](./180803-alteration.json) |
 | Alteration | 379368 | [379368-alteration.json](./379368-alteration.json) |
