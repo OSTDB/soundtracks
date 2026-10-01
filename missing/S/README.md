@@ -9508,6 +9508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Miner: Idle Adventures | 276173 | [276173-space-miner-idle-adventures.json](./276173-space-miner-idle-adventures.json) |
 | Space Miner: Platinum Edition | 100155 | [100155-space-miner-platinum-edition.json](./100155-space-miner-platinum-edition.json) |
 | Space Miner: Space Ore Bust | 21579 | [21579-space-miner-space-ore-bust.json](./21579-space-miner-space-ore-bust.json) |
+| Space Mines | 344491 | [344491-space-mines.json](./344491-space-mines.json) |
 | Space Misfits | 123040 | [123040-space-misfits.json](./123040-space-misfits.json) |
 | Space Mission SM-11 | 235219 | [235219-space-mission-sm-11.json](./235219-space-mission-sm-11.json) |
 | Space Moguls | 124600 | [124600-space-moguls.json](./124600-space-moguls.json) |
@@ -14542,6 +14543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Overdrive | 3247 | [3247-sunset-overdrive.json](./3247-sunset-overdrive.json) |
 | Sunset Overdrive: Deluxe Edition | 164800 | [164800-sunset-overdrive-deluxe-edition.json](./164800-sunset-overdrive-deluxe-edition.json) |
 | Sunset Racer | 284485 | [284485-sunset-racer.json](./284485-sunset-racer.json) |
+| Sunset Racer | 344488 | [344488-sunset-racer.json](./344488-sunset-racer.json) |
 | Sunset Racing | 391305 | [391305-sunset-racing.json](./391305-sunset-racing.json) |
 | Sunset Rangers | 30438 | [30438-sunset-rangers.json](./30438-sunset-rangers.json) |
 | Sunset Riders | 276081 | [276081-sunset-riders.json](./276081-sunset-riders.json) |
@@ -16216,6 +16218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperSecret | 163211 | [163211-supersecret.json](./163211-supersecret.json) |
 | Supershot | 339476 | [339476-supershot.json](./339476-supershot.json) |
 | Supershot Golf Robot | 206714 | [206714-supershot-golf-robot.json](./206714-supershot-golf-robot.json) |
+| Supersize My Heart | 344504 | [344504-supersize-my-heart.json](./344504-supersize-my-heart.json) |
 | SuperSki Pro | 270624 | [270624-superski-pro.json](./270624-superski-pro.json) |
 | SuperSnake.io | 58496 | [58496-supersnake-io.json](./58496-supersnake-io.json) |
 | Supersolar | 110778 | [110778-supersolar.json](./110778-supersolar.json) |
@@ -16650,6 +16653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swamp Castle | 276461 | [276461-swamp-castle.json](./276461-swamp-castle.json) |
 | Swamp Chomp | 23986 | [23986-swamp-chomp.json](./23986-swamp-chomp.json) |
 | Swamp Defense 2 | 112113 | [112113-swamp-defense-2.json](./112113-swamp-defense-2.json) |
+| Swamp Fellas | 344508 | [344508-swamp-fellas.json](./344508-swamp-fellas.json) |
 | Swamp Fever | 47204 | [47204-swamp-fever.json](./47204-swamp-fever.json) |
 | Swamp Gas Visits the United States of America | 65517 | [65517-swamp-gas-visits-the-united-states-of-america.json](./65517-swamp-gas-visits-the-united-states-of-america.json) |
 | Swamp Hunt | 208347 | [208347-swamp-hunt.json](./208347-swamp-hunt.json) |
