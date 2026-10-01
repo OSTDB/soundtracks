@@ -968,9 +968,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JimsDay | 314501 | [314501-jimsday.json](./314501-jimsday.json) |
 | Jin & Jan | 318182 | [318182-jin-and-jan.json](./318182-jin-and-jan.json) |
 | Jin Lin Love Story | 106563 | [106563-jin-lin-love-story.json](./106563-jin-lin-love-story.json) |
+| Jǐn Nǐ Yī Rén | 373712 | [373712-jin-ni-yi-ren.json](./373712-jin-ni-yi-ren.json) |
 | Jin Ping Mei | 303592 | [303592-jin-ping-mei.json](./303592-jin-ping-mei.json) |
+| Jìn Shì Shū | 373705 | [373705-jin-shi-shu.json](./373705-jin-shi-shu.json) |
 | Jinchou | 337480 | [337480-jinchou.json](./337480-jinchou.json) |
 | Jing 'an District Copstories | 157043 | [157043-jing-an-district-copstories.json](./157043-jing-an-district-copstories.json) |
+| Jìngjiè 2: Qiánkūn Yī Zhì | 373687 | [373687-jingjie-2-qiankun-yi-zhi.json](./373687-jingjie-2-qiankun-yi-zhi.json) |
 | Jingle Cats | 63293 | [63293-jingle-cats.json](./63293-jingle-cats.json) |
 | Jingle Strike VR | 381764 | [381764-jingle-strike-vr.json](./381764-jingle-strike-vr.json) |
 | Jingoku | 175829 | [175829-jingoku.json](./175829-jingoku.json) |
