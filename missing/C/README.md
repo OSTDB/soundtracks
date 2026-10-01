@@ -4026,6 +4026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chunk | 355072 | [355072-chunk.json](./355072-chunk.json) |
 | Chunkers | 207347 | [207347-chunkers.json](./207347-chunkers.json) |
 | Chunkout | 92305 | [92305-chunkout.json](./92305-chunkout.json) |
+| Chunky Jump! | 347853 | [347853-chunky-jump.json](./347853-chunky-jump.json) |
 | Chup's Quest | 243946 | [243946-chups-quest.json](./243946-chups-quest.json) |
 | Chura-umi Monogatari | 292139 | [292139-chura-umi-monogatari.json](./292139-chura-umi-monogatari.json) |
 | Church Crew | 360740 | [360740-church-crew.json](./360740-church-crew.json) |
@@ -5634,6 +5635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorado | 10851 | [10851-colorado.json](./10851-colorado.json) |
 | Colorado Rail Game | 390682 | [390682-colorado-rail-game.json](./390682-colorado-rail-game.json) |
 | Coloramba! | 200036 | [200036-coloramba.json](./200036-coloramba.json) |
+| Colorbound | 347850 | [347850-colorbound.json](./347850-colorbound.json) |
 | ColorBox | 91917 | [91917-colorbox.json](./91917-colorbox.json) |
 | ColorCode | 55481 | [55481-colorcode.json](./55481-colorcode.json) |
 | ColorCoordination | 270086 | [270086-colorcoordination.json](./270086-colorcoordination.json) |
