@@ -1080,6 +1080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasted | 338393 | [338393-wasted.json](./338393-wasted.json) |
 | Wasted Bloodline | 338254 | [338254-wasted-bloodline.json](./338254-wasted-bloodline.json) |
 | Wasted Glory | 276479 | [276479-wasted-glory.json](./276479-wasted-glory.json) |
+| WastedRoad Reapers | 336673 | [336673-wastedroad-reapers.json](./336673-wastedroad-reapers.json) |
 | Wastelan Wars | 242513 | [242513-wastelan-wars.json](./242513-wastelan-wars.json) |
 | Wasteland 2: Director's Cut | 20046 | [20046-wasteland-2-directors-cut.json](./20046-wasteland-2-directors-cut.json) |
 | Wasteland 3: Day One Edition | 139893 | [139893-wasteland-3-day-one-edition.json](./139893-wasteland-3-day-one-edition.json) |
@@ -2575,6 +2576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wilderness Mosaic: Where the Road Takes Me | 415985 | [415985-wilderness-mosaic-where-the-road-takes-me.json](./415985-wilderness-mosaic-where-the-road-takes-me.json) |
 | Wilderness Survival: The Conservationist | 212895 | [212895-wilderness-survival-the-conservationist.json](./212895-wilderness-survival-the-conservationist.json) |
 | Wilderness: A Survival Adventure | 25888 | [25888-wilderness-a-survival-adventure.json](./25888-wilderness-a-survival-adventure.json) |
+| Wilderness: Survival | 336678 | [336678-wilderness-survival.json](./336678-wilderness-survival.json) |
 | WildestDreams | 109204 | [109204-wildestdreams.json](./109204-wildestdreams.json) |
 | Wildfire | 263518 | [263518-wildfire.json](./263518-wildfire.json) |
 | Wildfire | 33813 | [33813-wildfire.json](./33813-wildfire.json) |
