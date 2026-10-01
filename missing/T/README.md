@@ -5755,6 +5755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Hex | 105231 | [105231-the-last-hex.json](./105231-the-last-hex.json) |
 | The Last Hike | 236267 | [236267-the-last-hike.json](./236267-the-last-hike.json) |
 | The Last Hope | 25627 | [25627-the-last-hope.json](./25627-the-last-hope.json) |
+| The Last Hope | 368609 | [368609-the-last-hope.json](./368609-the-last-hope.json) |
 | The Last Hope: Atomic Bomb - Crypto War | 88195 | [88195-the-last-hope-atomic-bomb-crypto-war.json](./88195-the-last-hope-atomic-bomb-crypto-war.json) |
 | The Last Horseman | 397189 | [397189-the-last-horseman.json](./397189-the-last-horseman.json) |
 | The Last Inca | 71771 | [71771-the-last-inca.json](./71771-the-last-inca.json) |
@@ -6432,6 +6433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Madness of Death | 214182 | [214182-the-madness-of-death.json](./214182-the-madness-of-death.json) |
 | The Madness of Roland | 172036 | [172036-the-madness-of-roland.json](./172036-the-madness-of-roland.json) |
 | The Mafat Conspiracy | 48057 | [48057-the-mafat-conspiracy.json](./48057-the-mafat-conspiracy.json) |
+| The Mage | 368590 | [368590-the-mage.json](./368590-the-mage.json) |
 | The Mage's Tale | 36893 | [36893-the-mages-tale.json](./36893-the-mages-tale.json) |
 | The Magenta Spire | 261505 | [261505-the-magenta-spire.json](./261505-the-magenta-spire.json) |
 | The Mageseeker: A League of Legends Story - Deluxe Edition | 241042 | [241042-the-mageseeker-a-league-of-legends-story-deluxe-edition.json](./241042-the-mageseeker-a-league-of-legends-story-deluxe-edition.json) |
@@ -7029,6 +7031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Paper Trials: Chapter 2 | 267427 | [267427-the-paper-trials-chapter-2.json](./267427-the-paper-trials-chapter-2.json) |
 | The Paracelsian Project | 244726 | [244726-the-paracelsian-project.json](./244726-the-paracelsian-project.json) |
 | The Paradixion: Laboratory | 262474 | [262474-the-paradixion-laboratory.json](./262474-the-paradixion-laboratory.json) |
+| The Paradixion: Restroom | 368589 | [368589-the-paradixion-restroom.json](./368589-the-paradixion-restroom.json) |
 | The Parallax Effect | 28811 | [28811-the-parallax-effect.json](./28811-the-parallax-effect.json) |
 | The Parallel Worlds | 271302 | [271302-the-parallel-worlds.json](./271302-the-parallel-worlds.json) |
 | The Parcel | 236257 | [236257-the-parcel.json](./236257-the-parcel.json) |
@@ -10893,6 +10896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tile Triple 3D | 227509 | [227509-tile-triple-3d.json](./227509-tile-triple-3d.json) |
 | Tile World | 131408 | [131408-tile-world.json](./131408-tile-world.json) |
 | Tile-Throwing Legend: Mutsuki | 59382 | [59382-tile-throwing-legend-mutsuki.json](./59382-tile-throwing-legend-mutsuki.json) |
+| Tilebreaker | 368615 | [368615-tilebreaker.json](./368615-tilebreaker.json) |
 | Tileburg | 407598 | [407598-tileburg.json](./407598-tileburg.json) |
 | Tilecraft | 221153 | [221153-tilecraft.json](./221153-tilecraft.json) |
 | Tiled Together | 326794 | [326794-tiled-together.json](./326794-tiled-together.json) |
@@ -11739,6 +11743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tok 2 | 116338 | [116338-tok-2.json](./116338-tok-2.json) |
 | Tokachi Detective: The Balloon Case | 342889 | [342889-tokachi-detective-the-balloon-case.json](./342889-tokachi-detective-the-balloon-case.json) |
 | Tokage Metro GB | 349947 | [349947-tokage-metro-gb.json](./349947-tokage-metro-gb.json) |
+| Tokatonton: One-Armed Blacksmith | 368606 | [368606-tokatonton-one-armed-blacksmith.json](./368606-tokatonton-one-armed-blacksmith.json) |
 | Tokens | 394444 | [394444-tokens.json](./394444-tokens.json) |
 | Tokeru Fuuka to Shirousagi | 411105 | [411105-tokeru-fuuka-to-shirousagi.json](./411105-tokeru-fuuka-to-shirousagi.json) |
 | Toki | 12228 | [12228-toki.json](./12228-toki.json) |
@@ -11871,6 +11876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom & Jerry: Yankee Doodle’s Cat-astrophe | 57689 | [57689-tom-and-jerry-yankee-doodle-s-cat-astrophe.json](./57689-tom-and-jerry-yankee-doodle-s-cat-astrophe.json) |
 | Tom and Jerry | 218399 | [218399-tom-and-jerry.json](./218399-tom-and-jerry.json) |
 | Tom and Jerry | 8025 | [8025-tom-and-jerry.json](./8025-tom-and-jerry.json) |
+| Tom and Jerry in House Trap | 368636 | [368636-tom-and-jerry-in-house-trap.json](./368636-tom-and-jerry-in-house-trap.json) |
 | Tom and Jerry in War of the Whiskers | 2650 | [2650-tom-and-jerry-in-war-of-the-whiskers.json](./2650-tom-and-jerry-in-war-of-the-whiskers.json) |
 | Tom and Jerry Tales | 8027 | [8027-tom-and-jerry-tales.json](./8027-tom-and-jerry-tales.json) |
 | Tom and Jerry: Frantic Antics! | 307061 | [307061-tom-and-jerry-frantic-antics.json](./307061-tom-and-jerry-frantic-antics.json) |
@@ -12881,6 +12887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toukiden: The Age of Demons | 8658 | [8658-toukiden-the-age-of-demons.json](./8658-toukiden-the-age-of-demons.json) |
 | Touko in Underland | 312764 | [312764-touko-in-underland.json](./312764-touko-in-underland.json) |
 | Toumayhem | 202857 | [202857-toumayhem.json](./202857-toumayhem.json) |
+| Toumei na Yasashisa | 368604 | [368604-toumei-na-yasashisa.json](./368604-toumei-na-yasashisa.json) |
 | Tour de Akiba | 179505 | [179505-tour-de-akiba.json](./179505-tour-de-akiba.json) |
 | Tour de Drone | 305931 | [305931-tour-de-drone.json](./305931-tour-de-drone.json) |
 | Tour De France | 95456 | [95456-tour-de-france.json](./95456-tour-de-france.json) |
