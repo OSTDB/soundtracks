@@ -455,6 +455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12 Labours of Hercules XIV: Message in a Bottle - Collector's Edition | 338911 | [338911-12-labours-of-hercules-xiv-message-in-a-bottle-collectors-edition.json](./338911-12-labours-of-hercules-xiv-message-in-a-bottle-collectors-edition.json) |
 | 12 Labours of Hercules XVII: Feathered Fury | 318605 | [318605-12-labours-of-hercules-xvii-feathered-fury.json](./318605-12-labours-of-hercules-xvii-feathered-fury.json) |
 | 12 Labours of Hercules XVIII: Ghost Sheep | 355039 | [355039-12-labours-of-hercules-xviii-ghost-sheep.json](./355039-12-labours-of-hercules-xviii-ghost-sheep.json) |
+| 12 Labours of Hercules XVIII: Ghost Sheep - Collector's Edition | 356770 | [356770-12-labours-of-hercules-xviii-ghost-sheep-collectors-edition.json](./356770-12-labours-of-hercules-xviii-ghost-sheep-collectors-edition.json) |
 | 12 Locks: Plasticine Room | 308527 | [308527-12-locks-plasticine-room.json](./308527-12-locks-plasticine-room.json) |
 | 12 MiniBattles | 139356 | [139356-12-minibattles.json](./139356-12-minibattles.json) |
 | 12 Orbits | 90578 | [90578-12-orbits.json](./90578-12-orbits.json) |
