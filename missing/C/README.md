@@ -1867,6 +1867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Puzzle | 380062 | [380062-cat-puzzle.json](./380062-cat-puzzle.json) |
 | Cat Quest III: Tavern Tales | 347866 | [347866-cat-quest-iii-tavern-tales.json](./347866-cat-quest-iii-tavern-tales.json) |
 | Cat Quest: The Fur-tastic Trilogy | 313223 | [313223-cat-quest-the-fur-tastic-trilogy.json](./313223-cat-quest-the-fur-tastic-trilogy.json) |
+| Cat Rescue Inc. | 345650 | [345650-cat-rescue-inc.json](./345650-cat-rescue-inc.json) |
 | Cat Runner 2018 | 99414 | [99414-cat-runner-2018.json](./99414-cat-runner-2018.json) |
 | Cat Screen | 410234 | [410234-cat-screen.json](./410234-cat-screen.json) |
 | Cat Short Way | 296510 | [296510-cat-short-way.json](./296510-cat-short-way.json) |
@@ -4417,6 +4418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Transport Simulator: Tram Depot + Southern-Route Add-On | 359616 | [359616-city-transport-simulator-tram-depot-southern-route-add-on.json](./359616-city-transport-simulator-tram-depot-southern-route-add-on.json) |
 | City Transport Simulator: Type D Vienna Add-On | 359615 | [359615-city-transport-simulator-type-d-vienna-add-on.json](./359615-city-transport-simulator-type-d-vienna-add-on.json) |
 | City Transport Simulator: Ultimate Public Bus 2020 | 197327 | [197327-city-transport-simulator-ultimate-public-bus-2020.json](./197327-city-transport-simulator-ultimate-public-bus-2020.json) |
+| City Turbo Race | 345630 | [345630-city-turbo-race.json](./345630-city-turbo-race.json) |
 | City Turn | 311472 | [311472-city-turn.json](./311472-city-turn.json) |
 | City Tycoon | 138127 | [138127-city-tycoon.json](./138127-city-tycoon.json) |
 | City Worker Simulator | 405735 | [405735-city-worker-simulator.json](./405735-city-worker-simulator.json) |
@@ -4787,6 +4789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClickMonster | 158661 | [158661-clickmonster.json](./158661-clickmonster.json) |
 | Clicko | 351597 | [351597-clicko.json](./351597-clicko.json) |
 | Clickomania! | 64437 | [64437-clickomania.json](./64437-clickomania.json) |
+| Clickonomy | 345621 | [345621-clickonomy.json](./345621-clickonomy.json) |
 | Clickr | 10095 | [10095-clickr.json](./10095-clickr.json) |
 | ClickRaid | 50512 | [50512-clickraid.json](./50512-clickraid.json) |
 | Clicks Of Courage | 249717 | [249717-clicks-of-courage.json](./249717-clicks-of-courage.json) |
@@ -6235,6 +6238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conde | 265424 | [265424-conde.json](./265424-conde.json) |
 | Condemned | 299764 | [299764-condemned.json](./299764-condemned.json) |
 | Condemned 2: Bloodshot | 6943 | [6943-condemned-2-bloodshot.json](./6943-condemned-2-bloodshot.json) |
+| Condemned To Be Free | 345538 | [345538-condemned-to-be-free.json](./345538-condemned-to-be-free.json) |
 | Condemned: Criminal Origins | 6942 | [6942-condemned-criminal-origins.json](./6942-condemned-criminal-origins.json) |
 | Condo | 349936 | [349936-condo.json](./349936-condo.json) |
 | Condom Commander | 411628 | [411628-condom-commander.json](./411628-condom-commander.json) |
@@ -6802,6 +6806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copta Snatch | 73865 | [73865-copta-snatch.json](./73865-copta-snatch.json) |
 | Copter | 291600 | [291600-copter.json](./291600-copter.json) |
 | Copter and Sky | 32101 | [32101-copter-and-sky.json](./32101-copter-and-sky.json) |
+| Copter Besieged | 345649 | [345649-copter-besieged.json](./345649-copter-besieged.json) |
 | Copter Cove | 353980 | [353980-copter-cove.json](./353980-copter-cove.json) |
 | Copy Kitty | 22443 | [22443-copy-kitty.json](./22443-copy-kitty.json) |
 | Copy: Two Man Too Many | 359010 | [359010-copy-two-man-too-many.json](./359010-copy-two-man-too-many.json) |
@@ -7047,6 +7052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic League | 57134 | [57134-cosmic-league.json](./57134-cosmic-league.json) |
 | Cosmic Mart | 409021 | [409021-cosmic-mart.json](./409021-cosmic-mart.json) |
 | Cosmic Math | 91745 | [91745-cosmic-math.json](./91745-cosmic-math.json) |
+| Cosmic Miners | 345655 | [345655-cosmic-miners.json](./345655-cosmic-miners.json) |
 | Cosmic Mirage | 297100 | [297100-cosmic-mirage.json](./297100-cosmic-mirage.json) |
 | Cosmic Monsters 2 Enclaves Dawn | 195264 | [195264-cosmic-monsters-2-enclaves-dawn.json](./195264-cosmic-monsters-2-enclaves-dawn.json) |
 | Cosmic Payback | 318230 | [318230-cosmic-payback.json](./318230-cosmic-payback.json) |
