@@ -2427,9 +2427,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seicross | 40408 | [40408-seicross.json](./40408-seicross.json) |
 | Seifuku Densetsu Pretty Fighter X | 64982 | [64982-seifuku-densetsu-pretty-fighter-x.json](./64982-seifuku-densetsu-pretty-fighter-x.json) |
 | Seifuku Kanojo 2 | 332551 | [332551-seifuku-kanojo-2.json](./332551-seifuku-kanojo-2.json) |
+| Seifuku Kanojo 2: Free DLC Act.1 - Yahiro Mio | 375369 | [375369-seifuku-kanojo-2-free-dlc-act-1-yahiro-mio.json](./375369-seifuku-kanojo-2-free-dlc-act-1-yahiro-mio.json) |
 | Seifuku Kanojo 2: Free DLC Act.2 - Momojiri Serika | 375436 | [375436-seifuku-kanojo-2-free-dlc-act-2-momojiri-serika.json](./375436-seifuku-kanojo-2-free-dlc-act-2-momojiri-serika.json) |
 | Seifuku Kanojo 2: Free DLC Act.3 - Tamayori Himari | 375437 | [375437-seifuku-kanojo-2-free-dlc-act-3-tamayori-himari.json](./375437-seifuku-kanojo-2-free-dlc-act-3-tamayori-himari.json) |
 | Seifuku Kanojo 2: Free DLC Act.4 - Konomi Yui | 375438 | [375438-seifuku-kanojo-2-free-dlc-act-4-konomi-yui.json](./375438-seifuku-kanojo-2-free-dlc-act-4-konomi-yui.json) |
+| Seifuku Kanojo 2.5 | 375361 | [375361-seifuku-kanojo-2-5.json](./375361-seifuku-kanojo-2-5.json) |
+| Seifuku Kanojo 3 | 375360 | [375360-seifuku-kanojo-3.json](./375360-seifuku-kanojo-3.json) |
 | Seifuku: High School Countdown | 234180 | [234180-seifuku-high-school-countdown.json](./234180-seifuku-high-school-countdown.json) |
 | Seigi no Torishirabe | 240230 | [240230-seigi-no-torishirabe.json](./240230-seigi-no-torishirabe.json) |
 | Seigimatsu II: Special Attack Devil | 47535 | [47535-seigimatsu-ii-special-attack-devil.json](./47535-seigimatsu-ii-special-attack-devil.json) |
@@ -2475,6 +2478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sekai Saikyou Ginsei Igo 5 | 83470 | [83470-sekai-saikyou-ginsei-igo-5.json](./83470-sekai-saikyou-ginsei-igo-5.json) |
 | Sekai Saikyou Ginsei Igo 6 | 83469 | [83469-sekai-saikyou-ginsei-igo-6.json](./83469-sekai-saikyou-ginsei-igo-6.json) |
 | Sekai Saikyou Ginsei Shogi | 56158 | [56158-sekai-saikyou-ginsei-shogi.json](./56158-sekai-saikyou-ginsei-shogi.json) |
+| Sekai Seifuku Kanojo | 375362 | [375362-sekai-seifuku-kanojo.json](./375362-sekai-seifuku-kanojo.json) |
 | Sekai to Sekai no Mannaka de | 187532 | [187532-sekai-to-sekai-no-mannaka-de.json](./187532-sekai-to-sekai-no-mannaka-de.json) |
 | Sekaiju no Meikyubey | 56579 | [56579-sekaiju-no-meikyubey.json](./56579-sekaiju-no-meikyubey.json) |
 | Sekei | 389651 | [389651-sekei.json](./389651-sekei.json) |
@@ -5418,6 +5422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Singularium | 270124 | [270124-singularium.json](./270124-singularium.json) |
 | Singulier | 413634 | [413634-singulier.json](./413634-singulier.json) |
 | Sinij Parovoz | 301402 | [301402-sinij-parovoz.json](./301402-sinij-parovoz.json) |
+| Sinisomnia | 375370 | [375370-sinisomnia.json](./375370-sinisomnia.json) |
 | Sinistar | 18693 | [18693-sinistar.json](./18693-sinistar.json) |
 | Sinistar Unleashed | 20377 | [20377-sinistar-unleashed.json](./20377-sinistar-unleashed.json) |
 | Sinister | 253335 | [253335-sinister.json](./253335-sinister.json) |
@@ -7390,6 +7395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snuff | 399121 | [399121-snuff.json](./399121-snuff.json) |
 | Snufkin: Melody of Moominvalley | 180149 | [180149-snufkin-melody-of-moominvalley.json](./180149-snufkin-melody-of-moominvalley.json) |
 | Snufkin: Melody of Moominvalley - Cherished Keepsakes | 288289 | [288289-snufkin-melody-of-moominvalley-cherished-keepsakes.json](./288289-snufkin-melody-of-moominvalley-cherished-keepsakes.json) |
+| Snug | 375366 | [375366-snug.json](./375366-snug.json) |
 | Snug Finder | 207879 | [207879-snug-finder.json](./207879-snug-finder.json) |
 | Snug Finder & Puzzles | 231059 | [231059-snug-finder-and-puzzles.json](./231059-snug-finder-and-puzzles.json) |
 | Snuggle Nightmare | 404430 | [404430-snuggle-nightmare.json](./404430-snuggle-nightmare.json) |
@@ -8697,6 +8703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soshite Bokura ha... And He Said | 145449 | [145449-soshite-bokura-ha-and-he-said.json](./145449-soshite-bokura-ha-and-he-said.json) |
 | Soshite Kono Sora ni Kirameku Kimi no Uta | 221827 | [221827-soshite-kono-sora-ni-kirameku-kimi-no-uta.json](./221827-soshite-kono-sora-ni-kirameku-kimi-no-uta.json) |
 | Soshite Kono Sora ni Kirameku Kimi no Uta XXX | 221828 | [221828-soshite-kono-sora-ni-kirameku-kimi-no-uta-xxx.json](./221828-soshite-kono-sora-ni-kirameku-kimi-no-uta-xxx.json) |
+| Soshite Suki ni Naru | 375357 | [375357-soshite-suki-ni-naru.json](./375357-soshite-suki-ni-naru.json) |
 | Soter | 157139 | [157139-soter.json](./157139-soter.json) |
 | Sotidrokhima | 226396 | [226396-sotidrokhima.json](./226396-sotidrokhima.json) |
 | Soto Nemuri | 229671 | [229671-soto-nemuri.json](./229671-soto-nemuri.json) |
