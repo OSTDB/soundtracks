@@ -3764,6 +3764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelf | 278694 | [278694-shelf.json](./278694-shelf.json) |
 | Shelf Happens | 419828 | [419828-shelf-happens.json](./419828-shelf-happens.json) |
 | Shelf Heroes | 336147 | [336147-shelf-heroes.json](./336147-shelf-heroes.json) |
+| Shelf Life | 373146 | [373146-shelf-life.json](./373146-shelf-life.json) |
 | Shelf-Employed | 413903 | [413903-shelf-employed.json](./413903-shelf-employed.json) |
 | ShelfLife: Art School Detective | 266769 | [266769-shelflife-art-school-detective.json](./266769-shelflife-art-school-detective.json) |
 | Shell as Hard as Steel | 413847 | [413847-shell-as-hard-as-steel.json](./413847-shell-as-hard-as-steel.json) |
@@ -6769,6 +6770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Monkeys | 142850 | [142850-smash-monkeys.json](./142850-smash-monkeys.json) |
 | Smash N' Crash | 367455 | [367455-smash-n-crash.json](./367455-smash-n-crash.json) |
 | Smash Out | 69902 | [69902-smash-out.json](./69902-smash-out.json) |
+| Smash Out Colony | 373130 | [373130-smash-out-colony.json](./373130-smash-out-colony.json) |
 | Smash Out! | 81175 | [81175-smash-out.json](./81175-smash-out.json) |
 | Smash Pixel Racing | 33154 | [33154-smash-pixel-racing.json](./33154-smash-pixel-racing.json) |
 | Smash Realm | 402941 | [402941-smash-realm.json](./402941-smash-realm.json) |
@@ -9153,6 +9155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Crusade: The Voyage Beyond | 73855 | [73855-space-crusade-the-voyage-beyond.json](./73855-space-crusade-the-voyage-beyond.json) |
 | Space Dance | 90818 | [90818-space-dance.json](./90818-space-dance.json) |
 | Space Danger: G.O.N. | 185599 | [185599-space-danger-g-o-n.json](./185599-space-danger-g-o-n.json) |
+| Space Dash | 373135 | [373135-space-dash.json](./373135-space-dash.json) |
 | Space Dash: Earth Defender | 58769 | [58769-space-dash-earth-defender.json](./58769-space-dash-earth-defender.json) |
 | Space Dave! | 27526 | [27526-space-dave.json](./27526-space-dave.json) |
 | Space Debris | 103533 | [103533-space-debris.json](./103533-space-debris.json) |
@@ -10162,6 +10165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spheres Episode 1: Nalong | 145609 | [145609-spheres-episode-1-nalong.json](./145609-spheres-episode-1-nalong.json) |
 | Spheres of Chaos | 13245 | [13245-spheres-of-chaos.json](./13245-spheres-of-chaos.json) |
 | Spheres: The Ancient Fuses | 118335 | [118335-spheres-the-ancient-fuses.json](./118335-spheres-the-ancient-fuses.json) |
+| Sphereverse | 373138 | [373138-sphereverse.json](./373138-sphereverse.json) |
 | SphereZor | 84890 | [84890-spherezor.json](./84890-spherezor.json) |
 | Spherix | 285514 | [285514-spherix.json](./285514-spherix.json) |
 | Spheroid | 100149 | [100149-spheroid.json](./100149-spheroid.json) |
@@ -11790,6 +11794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stardrytch | 172136 | [172136-stardrytch.json](./172136-stardrytch.json) |
 | Starduino | 228389 | [228389-starduino.json](./228389-starduino.json) |
 | Stardust | 318797 | [318797-stardust.json](./318797-stardust.json) |
+| Stardust Escape | 373158 | [373158-stardust-escape.json](./373158-stardust-escape.json) |
 | Stardust League | 222391 | [222391-stardust-league.json](./222391-stardust-league.json) |
 | Stardust Odyssey | 122994 | [122994-stardust-odyssey.json](./122994-stardust-odyssey.json) |
 | Stardust Sandbox | 393604 | [393604-stardust-sandbox.json](./393604-stardust-sandbox.json) |
@@ -12501,6 +12506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Overload | 25570 | [25570-stellar-overload.json](./25570-stellar-overload.json) |
 | Stellar Poetry | 333954 | [333954-stellar-poetry.json](./333954-stellar-poetry.json) |
 | Stellar Propeller | 211788 | [211788-stellar-propeller.json](./211788-stellar-propeller.json) |
+| Stellar Raiders | 373172 | [373172-stellar-raiders.json](./373172-stellar-raiders.json) |
 | Stellar Renegades | 179699 | [179699-stellar-renegades.json](./179699-stellar-renegades.json) |
 | Stellar Rescue | 134423 | [134423-stellar-rescue.json](./134423-stellar-rescue.json) |
 | Stellar Return | 311275 | [311275-stellar-return.json](./311275-stellar-return.json) |
@@ -12721,6 +12727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sticky Business | 240514 | [240514-sticky-business.json](./240514-sticky-business.json) |
 | Sticky Business: Seaside Tales | 411002 | [411002-sticky-business-seaside-tales.json](./411002-sticky-business-seaside-tales.json) |
 | Sticky Castle | 232031 | [232031-sticky-castle.json](./232031-sticky-castle.json) |
+| Sticky Date | 373164 | [373164-sticky-date.json](./373164-sticky-date.json) |
 | Sticky Keys | 178986 | [178986-sticky-keys.json](./178986-sticky-keys.json) |
 | Sticky Ninja Academy | 286647 | [286647-sticky-ninja-academy.json](./286647-sticky-ninja-academy.json) |
 | Sticky Pigeons | 177023 | [177023-sticky-pigeons.json](./177023-sticky-pigeons.json) |
