@@ -398,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Dogs: Ace Fighters of WWII | 403106 | [403106-war-dogs-ace-fighters-of-wwii.json](./403106-war-dogs-ace-fighters-of-wwii.json) |
 | War Dots | 211150 | [211150-war-dots.json](./211150-war-dots.json) |
 | War Doves | 24999 | [24999-war-doves.json](./24999-war-doves.json) |
+| War Drone | 386955 | [386955-war-drone.json](./386955-war-drone.json) |
 | War Eternal | 172670 | [172670-war-eternal.json](./172670-war-eternal.json) |
 | War For Galaxy | 250897 | [250897-war-for-galaxy.json](./250897-war-for-galaxy.json) |
 | War for Magincia | 129711 | [129711-war-for-magincia.json](./129711-war-for-magincia.json) |
@@ -2368,6 +2369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wik & the Fable of Souls | 933 | [933-wik-and-the-fable-of-souls.json](./933-wik-and-the-fable-of-souls.json) |
 | Wiki Hunt | 86062 | [86062-wiki-hunt.json](./86062-wiki-hunt.json) |
 | Wiki's Wild Ride | 261759 | [261759-wikis-wild-ride.json](./261759-wikis-wild-ride.json) |
+| WikiAsteroids | 386928 | [386928-wikiasteroids.json](./386928-wikiasteroids.json) |
 | Wikipedia Gacha | 394176 | [394176-wikipedia-gacha.json](./394176-wikipedia-gacha.json) |
 | Wiktor TD | 178426 | [178426-wiktor-td.json](./178426-wiktor-td.json) |
 | Wilbur Scoville’s 151st Birthday | 375817 | [375817-wilbur-scoville-s-151st-birthday.json](./375817-wilbur-scoville-s-151st-birthday.json) |
@@ -4142,6 +4144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wormhole Cafe | 235709 | [235709-wormhole-cafe.json](./235709-wormhole-cafe.json) |
 | Wormhole Warfare | 176995 | [176995-wormhole-warfare.json](./176995-wormhole-warfare.json) |
 | Wormi | 269083 | [269083-wormi.json](./269083-wormi.json) |
+| Worming from Home | 386933 | [386933-worming-from-home.json](./386933-worming-from-home.json) |
 | Wormix | 315030 | [315030-wormix.json](./315030-wormix.json) |
 | WormJuice Skateboarding Olympics | 159795 | [159795-wormjuice-skateboarding-olympics.json](./159795-wormjuice-skateboarding-olympics.json) |
 | WorMoon: Awakening | 255042 | [255042-wormoon-awakening.json](./255042-wormoon-awakening.json) |
