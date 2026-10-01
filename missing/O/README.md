@@ -780,6 +780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OmanaC: C2 | 213882 | [213882-omanac-c2.json](./213882-omanac-c2.json) |
 | Omar Sharif Bridge II | 208997 | [208997-omar-sharif-bridge-ii.json](./208997-omar-sharif-bridge-ii.json) |
 | Omashu: Snail Racing | 357219 | [357219-omashu-snail-racing.json](./357219-omashu-snail-racing.json) |
+| Omawari-san: Koitsu Desu. - Kai | 376687 | [376687-omawari-san-koitsu-desu-kai.json](./376687-omawari-san-koitsu-desu-kai.json) |
 | Omber | 208576 | [208576-omber.json](./208576-omber.json) |
 | Ombra | 120894 | [120894-ombra.json](./120894-ombra.json) |
 | Omega | 336352 | [336352-omega.json](./336352-omega.json) |
@@ -1054,6 +1055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Upon A Siege | 224765 | [224765-once-upon-a-siege.json](./224765-once-upon-a-siege.json) |
 | Once Upon a Spirit | 354000 | [354000-once-upon-a-spirit.json](./354000-once-upon-a-spirit.json) |
 | Once upon a Thai: Learn Thai | 214755 | [214755-once-upon-a-thai-learn-thai.json](./214755-once-upon-a-thai-learn-thai.json) |
+| Once Upon a Time | 376670 | [376670-once-upon-a-time.json](./376670-once-upon-a-time.json) |
 | Once Upon A Time | 51189 | [51189-once-upon-a-time.json](./51189-once-upon-a-time.json) |
 | Once Upon a Time in Morocco | 208586 | [208586-once-upon-a-time-in-morocco.json](./208586-once-upon-a-time-in-morocco.json) |
 | Once Upon a Time in the 70s | 325545 | [325545-once-upon-a-time-in-the-70s.json](./325545-once-upon-a-time-in-the-70s.json) |
@@ -1615,6 +1617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Your Eyes | 376576 | [376576-open-your-eyes.json](./376576-open-your-eyes.json) |
 | OpenArena | 77358 | [77358-openarena.json](./77358-openarena.json) |
 | OpenArena Live | 357434 | [357434-openarena-live.json](./357434-openarena-live.json) |
+| OpenBlox | 376648 | [376648-openblox.json](./376648-openblox.json) |
 | Openbound Online | 183583 | [183583-openbound-online.json](./183583-openbound-online.json) |
 | OpenBVE | 51272 | [51272-openbve.json](./51272-openbve.json) |
 | OpenCity | 142948 | [142948-opencity.json](./142948-opencity.json) |
