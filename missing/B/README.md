@@ -2652,6 +2652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beautiful Dangerous | 343371 | [343371-beautiful-dangerous.json](./343371-beautiful-dangerous.json) |
 | Beautiful Desolation | 56914 | [56914-beautiful-desolation.json](./56914-beautiful-desolation.json) |
 | Beautiful Escape: Dungeoneer | 214574 | [214574-beautiful-escape-dungeoneer.json](./214574-beautiful-escape-dungeoneer.json) |
+| Beautiful Girl | 368619 | [368619-beautiful-girl.json](./368619-beautiful-girl.json) |
 | Beautiful Girl Fight School | 130207 | [130207-beautiful-girl-fight-school.json](./130207-beautiful-girl-fight-school.json) |
 | Beautiful Girls on Campus: Memories of Youth | 420678 | [420678-beautiful-girls-on-campus-memories-of-youth.json](./420678-beautiful-girls-on-campus-memories-of-youth.json) |
 | Beautiful Indie Worlds Bundle | 246112 | [246112-beautiful-indie-worlds-bundle.json](./246112-beautiful-indie-worlds-bundle.json) |
@@ -4593,6 +4594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blastercell | 29146 | [29146-blastercell.json](./29146-blastercell.json) |
 | Blasteroids | 11967 | [11967-blasteroids.json](./11967-blasteroids.json) |
 | Blasteron | 75176 | [75176-blasteron.json](./75176-blasteron.json) |
+| Blastforge Breach | 368628 | [368628-blastforge-breach.json](./368628-blastforge-breach.json) |
 | BlastFort | 164265 | [164265-blastfort.json](./164265-blastfort.json) |
 | BlastMorph: Pinball | 372572 | [372572-blastmorph-pinball.json](./372572-blastmorph-pinball.json) |
 | Blasto | 377825 | [377825-blasto.json](./377825-blasto.json) |
@@ -5959,6 +5961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombs Away! | 245548 | [245548-bombs-away.json](./245548-bombs-away.json) |
 | Bombshell Barista: Speed Dating | 258195 | [258195-bombshell-barista-speed-dating.json](./258195-bombshell-barista-speed-dating.json) |
 | Bombun | 349366 | [349366-bombun.json](./349366-bombun.json) |
+| Bombunter | 368617 | [368617-bombunter.json](./368617-bombunter.json) |
 | Bombyx | 123639 | [123639-bombyx.json](./123639-bombyx.json) |
 | Bomcat | 362329 | [362329-bomcat.json](./362329-bomcat.json) |
 | Bon Appecheese | 352379 | [352379-bon-appecheese.json](./352379-bon-appecheese.json) |
