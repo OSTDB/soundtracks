@@ -3488,6 +3488,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gradius II | 213190 | [213190-gradius-ii.json](./213190-gradius-ii.json) |
 | Gradius III | 335430 | [335430-gradius-iii.json](./335430-gradius-iii.json) |
 | Gradius III and IV | 98976 | [98976-gradius-iii-and-iv.json](./98976-gradius-iii-and-iv.json) |
+| Gradius NEO | 377214 | [377214-gradius-neo.json](./377214-gradius-neo.json) |
+| Gradius NEO Imperial | 377215 | [377215-gradius-neo-imperial.json](./377215-gradius-neo-imperial.json) |
 | Gradius ReBirth | 1489 | [1489-gradius-rebirth.json](./1489-gradius-rebirth.json) |
 | Gradius V | 1488 | [1488-gradius-v.json](./1488-gradius-v.json) |
 | Graduate Battle | 358511 | [358511-graduate-battle.json](./358511-graduate-battle.json) |
@@ -3526,6 +3528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gran Turismo 5 Prologue | 1599 | [1599-gran-turismo-5-prologue.json](./1599-gran-turismo-5-prologue.json) |
 | Gran Turismo 5 Spec 2.0 | 136852 | [136852-gran-turismo-5-spec-2-0.json](./136852-gran-turismo-5-spec-2-0.json) |
 | Gran Turismo 5: Prologue Spec III | 77993 | [77993-gran-turismo-5-prologue-spec-iii.json](./77993-gran-turismo-5-prologue-spec-iii.json) |
+| Gran Turismo 7: Power Pack | 377243 | [377243-gran-turismo-7-power-pack.json](./377243-gran-turismo-7-power-pack.json) |
 | Gran Turismo 7: Spec IV | 416116 | [416116-gran-turismo-7-spec-iv.json](./416116-gran-turismo-7-spec-iv.json) |
 | Gran Turismo Concept: 2002 Tokyo-Geneva | 22061 | [22061-gran-turismo-concept-2002-tokyo-geneva.json](./22061-gran-turismo-concept-2002-tokyo-geneva.json) |
 | Gran Turismo Sport | 14363 | [14363-gran-turismo-sport.json](./14363-gran-turismo-sport.json) |
@@ -4191,6 +4194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greyhound Racing | 175212 | [175212-greyhound-racing.json](./175212-greyhound-racing.json) |
 | Greyhound Racing Tournament 2 | 103858 | [103858-greyhound-racing-tournament-2.json](./103858-greyhound-racing-tournament-2.json) |
 | Greyish White | 289345 | [289345-greyish-white.json](./289345-greyish-white.json) |
+| Greymond. Saves the Specs | 377210 | [377210-greymond-saves-the-specs.json](./377210-greymond-saves-the-specs.json) |
 | Greymood | 262288 | [262288-greymood.json](./262288-greymood.json) |
 | Greyskin | 214049 | [214049-greyskin.json](./214049-greyskin.json) |
 | Greystorm | 73557 | [73557-greystorm.json](./73557-greystorm.json) |
