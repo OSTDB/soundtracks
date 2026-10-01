@@ -3405,6 +3405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alto's Adventure | 18130 | [18130-altos-adventure.json](./18130-altos-adventure.json) |
 | Alto's Odyssey | 26428 | [26428-altos-odyssey.json](./26428-altos-odyssey.json) |
 | Altruism | 147451 | [147451-altruism.json](./147451-altruism.json) |
+| Altushka + | 368073 | [368073-altushka.json](./368073-altushka.json) |
 | Alty's Dinner | 390762 | [390762-altys-dinner.json](./390762-altys-dinner.json) |
 | Alucinod | 118422 | [118422-alucinod.json](./118422-alucinod.json) |
 | Alühn | 320332 | [320332-aluhn.json](./320332-aluhn.json) |
@@ -7078,6 +7079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Chain: Collector's Edition | 136273 | [136273-astral-chain-collectors-edition.json](./136273-astral-chain-collectors-edition.json) |
 | Astral Coconut | 235834 | [235834-astral-coconut.json](./235834-astral-coconut.json) |
 | Astral Codec | 336546 | [336546-astral-codec.json](./336546-astral-codec.json) |
+| Astral Court DX | 368081 | [368081-astral-court-dx.json](./368081-astral-court-dx.json) |
 | Astral Divide | 277816 | [277816-astral-divide.json](./277816-astral-divide.json) |
 | Astral Domine | 33078 | [33078-astral-domine.json](./33078-astral-domine.json) |
 | Astral Equilibrium | 140358 | [140358-astral-equilibrium.json](./140358-astral-equilibrium.json) |
