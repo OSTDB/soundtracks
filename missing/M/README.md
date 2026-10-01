@@ -5177,6 +5177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Maintenance | 180780 | [180780-midnight-maintenance.json](./180780-midnight-maintenance.json) |
 | Midnight Margo | 276827 | [276827-midnight-margo.json](./276827-midnight-margo.json) |
 | Midnight Mayhem | 300814 | [300814-midnight-mayhem.json](./300814-midnight-mayhem.json) |
+| Midnight Mazesoba | 374754 | [374754-midnight-mazesoba.json](./374754-midnight-mazesoba.json) |
 | Midnight Memoria | 403160 | [403160-midnight-memoria.json](./403160-midnight-memoria.json) |
 | Midnight Memories: Sonata of the Soul | 311278 | [311278-midnight-memories-sonata-of-the-soul.json](./311278-midnight-memories-sonata-of-the-soul.json) |
 | Midnight Murder Club | 312282 | [312282-midnight-murder-club.json](./312282-midnight-murder-club.json) |
@@ -5599,6 +5600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minds Define Us | 414511 | [414511-minds-define-us.json](./414511-minds-define-us.json) |
 | Minds of Nations | 128985 | [128985-minds-of-nations.json](./128985-minds-of-nations.json) |
 | MindScape: Verenna | 274760 | [274760-mindscape-verenna.json](./274760-mindscape-verenna.json) |
+| Mindscorn | 374753 | [374753-mindscorn.json](./374753-mindscorn.json) |
 | Mindset | 68616 | [68616-mindset.json](./68616-mindset.json) |
 | Mindseye Blacklisted | 400290 | [400290-mindseye-blacklisted.json](./400290-mindseye-blacklisted.json) |
 | Mindshadow | 12185 | [12185-mindshadow.json](./12185-mindshadow.json) |
@@ -8275,6 +8277,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotoGP 24: Day One Edition | 292136 | [292136-motogp-24-day-one-edition.json](./292136-motogp-24-day-one-edition.json) |
 | MotoGP 24: Nolan Helmet Liveries | 309663 | [309663-motogp-24-nolan-helmet-liveries.json](./309663-motogp-24-nolan-helmet-liveries.json) |
 | MotoGP 24: Test Suits | 309662 | [309662-motogp-24-test-suits.json](./309662-motogp-24-test-suits.json) |
+| MotoGP 25: Iconic Liveries Pack | 374757 | [374757-motogp-25-iconic-liveries-pack.json](./374757-motogp-25-iconic-liveries-pack.json) |
+| MotoGP 25: Off Road Helmets Pack | 374758 | [374758-motogp-25-off-road-helmets-pack.json](./374758-motogp-25-off-road-helmets-pack.json) |
 | MotoGP 3 | 5938 | [5938-motogp-3.json](./5938-motogp-3.json) |
 | MotoGP Guru Racing 25/26 | 196554 | [196554-motogp-guru-racing-25-26.json](./196554-motogp-guru-racing-25-26.json) |
 | MotoGP4 | 20536 | [20536-motogp4.json](./20536-motogp4.json) |
