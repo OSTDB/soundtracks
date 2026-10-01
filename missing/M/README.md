@@ -656,6 +656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Survivor Undead | 333399 | [333399-magic-survivor-undead.json](./333399-magic-survivor-undead.json) |
 | Magic Survivors | 314470 | [314470-magic-survivors.json](./314470-magic-survivors.json) |
 | Magic Survivors | 355198 | [355198-magic-survivors.json](./355198-magic-survivors.json) |
+| Magic Survivors | 359539 | [359539-magic-survivors.json](./359539-magic-survivors.json) |
 | Magic Sword | 71549 | [71549-magic-sword.json](./71549-magic-sword.json) |
 | Magic Synthesis | 103449 | [103449-magic-synthesis.json](./103449-magic-synthesis.json) |
 | Magic Synthesis | 103487 | [103487-magic-synthesis.json](./103487-magic-synthesis.json) |
@@ -7096,6 +7097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monari Station | 395567 | [395567-monari-station.json](./395567-monari-station.json) |
 | Monark: Limited Edition Box | 152340 | [152340-monark-limited-edition-box.json](./152340-monark-limited-edition-box.json) |
 | Monastery | 342174 | [342174-monastery.json](./342174-monastery.json) |
+| Monativity Surveillance | 359542 | [359542-monativity-surveillance.json](./359542-monativity-surveillance.json) |
 | Monato Esprit | 68047 | [68047-monato-esprit.json](./68047-monato-esprit.json) |
 | Moncage | 116578 | [116578-moncage.json](./116578-moncage.json) |
 | Monch! | 250975 | [250975-monch.json](./250975-monch.json) |
