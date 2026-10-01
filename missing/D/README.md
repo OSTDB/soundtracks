@@ -2374,6 +2374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Eclipse | 36213 | [36213-deep-eclipse.json](./36213-deep-eclipse.json) |
 | Deep Fear | 46057 | [46057-deep-fear.json](./46057-deep-fear.json) |
 | Deep Fishing | 188091 | [188091-deep-fishing.json](./188091-deep-fishing.json) |
+| Deep Forest Chapter 2 | 362931 | [362931-deep-forest-chapter-2.json](./362931-deep-forest-chapter-2.json) |
 | Deep Freeze | 44757 | [44757-deep-freeze.json](./44757-deep-freeze.json) |
 | Deep Fried Nikki | 229667 | [229667-deep-fried-nikki.json](./229667-deep-fried-nikki.json) |
 | Deep Fry Maker | 227520 | [227520-deep-fry-maker.json](./227520-deep-fry-maker.json) |
@@ -6801,6 +6802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: Xenoverse - Season Pass | 269071 | [269071-dragon-ball-xenoverse-season-pass.json](./269071-dragon-ball-xenoverse-season-pass.json) |
 | Dragon Ball: Xenoverse + GT Pack 1 Bundle | 99784 | [99784-dragon-ball-xenoverse-gt-pack-1-bundle.json](./99784-dragon-ball-xenoverse-gt-pack-1-bundle.json) |
 | Dragon Ball: Xenoverse 2 - Conton City Vote Pack | 223592 | [223592-dragon-ball-xenoverse-2-conton-city-vote-pack.json](./223592-dragon-ball-xenoverse-2-conton-city-vote-pack.json) |
+| Dragon Ball: Xenoverse 2 - Day One Edition | 362979 | [362979-dragon-ball-xenoverse-2-day-one-edition.json](./362979-dragon-ball-xenoverse-2-day-one-edition.json) |
 | Dragon Ball: Xenoverse 2 - Extra DLC Pack 1 | 168747 | [168747-dragon-ball-xenoverse-2-extra-dlc-pack-1.json](./168747-dragon-ball-xenoverse-2-extra-dlc-pack-1.json) |
 | Dragon Ball: Xenoverse 2 - Extra DLC Pack 2 | 168748 | [168748-dragon-ball-xenoverse-2-extra-dlc-pack-2.json](./168748-dragon-ball-xenoverse-2-extra-dlc-pack-2.json) |
 | Dragon Ball: Xenoverse 2 - Extra DLC Pack 4 | 168749 | [168749-dragon-ball-xenoverse-2-extra-dlc-pack-4.json](./168749-dragon-ball-xenoverse-2-extra-dlc-pack-4.json) |
@@ -7007,6 +7009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Slayer I | 344961 | [344961-dragon-slayer-i.json](./344961-dragon-slayer-i.json) |
 | Dragon Slayer IV: Drasle Family | 19113 | [19113-dragon-slayer-iv-drasle-family.json](./19113-dragon-slayer-iv-drasle-family.json) |
 | Dragon Slayers | 123012 | [123012-dragon-slayers.json](./123012-dragon-slayers.json) |
+| Dragon Snack | 362966 | [362966-dragon-snack.json](./362966-dragon-snack.json) |
 | Dragon Snack: From Ice to Ember | 399624 | [399624-dragon-snack-from-ice-to-ember.json](./399624-dragon-snack-from-ice-to-ember.json) |
 | Dragon Snakes | 118302 | [118302-dragon-snakes.json](./118302-dragon-snakes.json) |
 | Dragon Song Tavern | 334471 | [334471-dragon-song-tavern.json](./334471-dragon-song-tavern.json) |
