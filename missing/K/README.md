@@ -525,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KartRider: Drift | 125626 | [125626-kartrider-drift.json](./125626-kartrider-drift.json) |
 | Karts With Chat | 345505 | [345505-karts-with-chat.json](./345505-karts-with-chat.json) |
 | Karumaruka Circle: Limited Edition | 167036 | [167036-karumaruka-circle-limited-edition.json](./167036-karumaruka-circle-limited-edition.json) |
+| Karumaruka Circle: Limited Edition | 339404 | [339404-karumaruka-circle-limited-edition.json](./339404-karumaruka-circle-limited-edition.json) |
 | Karyuu Jyou | 62982 | [62982-karyuu-jyou.json](./62982-karyuu-jyou.json) |
 | Kasaba | 217369 | [217369-kasaba.json](./217369-kasaba.json) |
 | Kasama: The Awakening | 349459 | [349459-kasama-the-awakening.json](./349459-kasama-the-awakening.json) |
@@ -1379,6 +1380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kindaichi Shounen no Jikenbo: Jigoku Yuuen Satsujin Jiken | 167061 | [167061-kindaichi-shounen-no-jikenbo-jigoku-yuuen-satsujin-jiken.json](./167061-kindaichi-shounen-no-jikenbo-jigoku-yuuen-satsujin-jiken.json) |
 | Kindan no Jikobukken | 260690 | [260690-kindan-no-jikobukken.json](./260690-kindan-no-jikobukken.json) |
 | Kindawn: The Parish Remembers | 412555 | [412555-kindawn-the-parish-remembers.json](./412555-kindawn-the-parish-remembers.json) |
+| Kinder Finders | 339398 | [339398-kinder-finders.json](./339398-kinder-finders.json) |
 | Kindergarten | 215760 | [215760-kindergarten.json](./215760-kindergarten.json) |
 | Kindergarten 2 | 118637 | [118637-kindergarten-2.json](./118637-kindergarten-2.json) |
 | KindergarTen 3: The Basement | 290696 | [290696-kindergarten-3-the-basement.json](./290696-kindergarten-3-the-basement.json) |
