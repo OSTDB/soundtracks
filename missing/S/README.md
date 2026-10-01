@@ -184,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacrilege | 61634 | [61634-sacrilege.json](./61634-sacrilege.json) |
 | Sad But Ded | 185527 | [185527-sad-but-ded.json](./185527-sad-but-ded.json) |
 | Sad Ghouls | 194655 | [194655-sad-ghouls.json](./194655-sad-ghouls.json) |
+| Sad Rabbit's Alien Night Out | 336171 | [336171-sad-rabbits-alien-night-out.json](./336171-sad-rabbits-alien-night-out.json) |
 | Sad RPG | 124135 | [124135-sad-rpg.json](./124135-sad-rpg.json) |
 | Sad Satan | 136346 | [136346-sad-satan.json](./136346-sad-satan.json) |
 | Sad Virus | 367548 | [367548-sad-virus.json](./367548-sad-virus.json) |
@@ -4358,6 +4359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shogi 3 | 282638 | [282638-shogi-3.json](./282638-shogi-3.json) |
 | Shogi no Hoshi | 45604 | [45604-shogi-no-hoshi.json](./45604-shogi-no-hoshi.json) |
 | Shogi Nyuumon | 126014 | [126014-shogi-nyuumon.json](./126014-shogi-nyuumon.json) |
+| Shogi Revolution Gekisashi 13 | 336108 | [336108-shogi-revolution-gekisashi-13.json](./336108-shogi-revolution-gekisashi-13.json) |
 | Shogi Saikyou | 38299 | [38299-shogi-saikyou.json](./38299-shogi-saikyou.json) |
 | Shogi Shodan Icchokusen | 42032 | [42032-shogi-shodan-icchokusen.json](./42032-shogi-shodan-icchokusen.json) |
 | Shogi Shoko | 223964 | [223964-shogi-shoko.json](./223964-shogi-shoko.json) |
@@ -8111,6 +8113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Something Special: Zoe's American Adventure | 208871 | [208871-something-special-zoes-american-adventure.json](./208871-something-special-zoes-american-adventure.json) |
 | Something Strange in the Woods | 149531 | [149531-something-strange-in-the-woods.json](./149531-something-strange-in-the-woods.json) |
 | Something That Shouldn't Be There Is Visible. | 410371 | [410371-something-that-shouldnt-be-there-is-visible.json](./410371-something-that-shouldnt-be-there-is-visible.json) |
+| Something To Write About: Unbroken - Book One | 336066 | [336066-something-to-write-about-unbroken-book-one.json](./336066-something-to-write-about-unbroken-book-one.json) |
 | Something Took Her | 335247 | [335247-something-took-her.json](./335247-something-took-her.json) |
 | Something Wicked Lies Beneath | 250873 | [250873-something-wicked-lies-beneath.json](./250873-something-wicked-lies-beneath.json) |
 | Something's in the Air Redux | 255102 | [255102-somethings-in-the-air-redux.json](./255102-somethings-in-the-air-redux.json) |
@@ -14373,6 +14376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer in Trigue | 169769 | [169769-summer-in-trigue.json](./169769-summer-in-trigue.json) |
 | Summer Knights | 122156 | [122156-summer-knights.json](./122156-summer-knights.json) |
 | Summer Lesson | 13668 | [13668-summer-lesson.json](./13668-summer-lesson.json) |
+| Summer Lesson: Allison Snow - Nanokakan no Niwa | 336180 | [336180-summer-lesson-allison-snow-nanokakan-no-niwa.json](./336180-summer-lesson-allison-snow-nanokakan-no-niwa.json) |
 | Summer Lesson: Chisato Shinjo - Shichiyou no Etude | 219030 | [219030-summer-lesson-chisato-shinjo-shichiyou-no-etude.json](./219030-summer-lesson-chisato-shinjo-shichiyou-no-etude.json) |
 | Summer Mahjong | 71571 | [71571-summer-mahjong.json](./71571-summer-mahjong.json) |
 | Summer Meetings | 121692 | [121692-summer-meetings.json](./121692-summer-meetings.json) |
@@ -15299,6 +15303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Advance 4: Super Mario Bros. 3-e - Vexing Doors | 241017 | [241017-super-mario-advance-4-super-mario-bros-3-e-vexing-doors.json](./241017-super-mario-advance-4-super-mario-bros-3-e-vexing-doors.json) |
 | Super Mario All-Stars | 5199 | [5199-super-mario-all-stars.json](./5199-super-mario-all-stars.json) |
 | Super Mario All-Stars: Limited Edition | 84920 | [84920-super-mario-all-stars-limited-edition.json](./84920-super-mario-all-stars-limited-edition.json) |
+| Super Mario and the Cosmic Catalyst | 336107 | [336107-super-mario-and-the-cosmic-catalyst.json](./336107-super-mario-and-the-cosmic-catalyst.json) |
 | Super Mario and the Cursed Castles | 135216 | [135216-super-mario-and-the-cursed-castles.json](./135216-super-mario-and-the-cursed-castles.json) |
 | Super Mario and the Koopa Power | 358441 | [358441-super-mario-and-the-koopa-power.json](./358441-super-mario-and-the-koopa-power.json) |
 | Super Mario and the Marvel Adventure | 135178 | [135178-super-mario-and-the-marvel-adventure.json](./135178-super-mario-and-the-marvel-adventure.json) |
@@ -15316,6 +15321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros HF | 274982 | [274982-super-mario-bros-hf.json](./274982-super-mario-bros-hf.json) |
 | Super Mario Bros: Chaos of the Ztar | 324091 | [324091-super-mario-bros-chaos-of-the-ztar.json](./324091-super-mario-bros-chaos-of-the-ztar.json) |
 | Super Mario Bros: Dual Dash | 320158 | [320158-super-mario-bros-dual-dash.json](./320158-super-mario-bros-dual-dash.json) |
+| Super Mario Bros: Impending Doom | 336103 | [336103-super-mario-bros-impending-doom.json](./336103-super-mario-bros-impending-doom.json) |
 | Super Mario Bros: Merry Mountain Christmas Adventure - SMW Christmas Edition V3.0 | 229679 | [229679-super-mario-bros-merry-mountain-christmas-adventure-smw-christmas-edition-v3-0.json](./229679-super-mario-bros-merry-mountain-christmas-adventure-smw-christmas-edition-v3-0.json) |
 | Super Mario Bros: Revenge of Bowser | 250056 | [250056-super-mario-bros-revenge-of-bowser.json](./250056-super-mario-bros-revenge-of-bowser.json) |
 | Super Mario Bros. | 206934 | [206934-super-mario-bros.json](./206934-super-mario-bros.json) |
@@ -15467,6 +15473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario World Odyssey | 247185 | [247185-super-mario-world-odyssey.json](./247185-super-mario-world-odyssey.json) |
 | Super Mario World Rumbled | 377736 | [377736-super-mario-world-rumbled.json](./377736-super-mario-world-rumbled.json) |
 | Super Mario World The Pit Version | 267973 | [267973-super-mario-world-the-pit-version.json](./267973-super-mario-world-the-pit-version.json) |
+| Super Mario World U | 336106 | [336106-super-mario-world-u.json](./336106-super-mario-world-u.json) |
 | Super Mario World Widescreen | 165069 | [165069-super-mario-world-widescreen.json](./165069-super-mario-world-widescreen.json) |
 | Super Mario World: 2025 | 365286 | [365286-super-mario-world-2025.json](./365286-super-mario-world-2025.json) |
 | Super Mario World: A Haunted Christmas | 223023 | [223023-super-mario-world-a-haunted-christmas.json](./223023-super-mario-world-a-haunted-christmas.json) |
@@ -15484,6 +15491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Worldle | 408138 | [408138-super-mario-worldle.json](./408138-super-mario-worldle.json) |
 | Super Mario X | 318024 | [318024-super-mario-x.json](./318024-super-mario-x.json) |
 | Super Mario XP: Super Mario Land | 324082 | [324082-super-mario-xp-super-mario-land.json](./324082-super-mario-xp-super-mario-land.json) |
+| Super Mario: Adventure Awaits | 336102 | [336102-super-mario-adventure-awaits.json](./336102-super-mario-adventure-awaits.json) |
 | Super Mario: Blue Twilight | 330332 | [330332-super-mario-blue-twilight.json](./330332-super-mario-blue-twilight.json) |
 | Super Mario: Endless Earth | 135177 | [135177-super-mario-endless-earth.json](./135177-super-mario-endless-earth.json) |
 | Super Mario: Fushigi no Koro-koro Party | 132033 | [132033-super-mario-fushigi-no-koro-koro-party.json](./132033-super-mario-fushigi-no-koro-koro-party.json) |
