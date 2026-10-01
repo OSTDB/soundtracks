@@ -907,6 +907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IG Arena: Idle RPG | 232054 | [232054-ig-arena-idle-rpg.json](./232054-ig-arena-idle-rpg.json) |
 | Iga Ninden Ga-ou | 55899 | [55899-iga-ninden-ga-ou.json](./55899-iga-ninden-ga-ou.json) |
 | Iga tai Kouga | 385742 | [385742-iga-tai-kouga.json](./385742-iga-tai-kouga.json) |
+| Ige Museun Tteusin-ji Moreugesseoyo | 365223 | [365223-ige-museun-tteusin-ji-moreugesseoyo.json](./365223-ige-museun-tteusin-ji-moreugesseoyo.json) |
 | Igeo DX | 136419 | [136419-igeo-dx.json](./136419-igeo-dx.json) |
 | Iggle Pop! | 62441 | [62441-iggle-pop.json](./62441-iggle-pop.json) |
 | Iggy & Java | 274526 | [274526-iggy-and-java.json](./274526-iggy-and-java.json) |
