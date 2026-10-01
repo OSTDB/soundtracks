@@ -1655,6 +1655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavenly Bodies: Cleanup | 260747 | [260747-heavenly-bodies-cleanup.json](./260747-heavenly-bodies-cleanup.json) |
 | Heavenly Hammer | 173820 | [173820-heavenly-hammer.json](./173820-heavenly-hammer.json) |
 | Heavenly Heroes of Antidomi | 211784 | [211784-heavenly-heroes-of-antidomi.json](./211784-heavenly-heroes-of-antidomi.json) |
+| Heavenly Martyr | 377250 | [377250-heavenly-martyr.json](./377250-heavenly-martyr.json) |
 | Heavenly Sword | 7318 | [7318-heavenly-sword.json](./7318-heavenly-sword.json) |
 | Heavenstrafer | 267461 | [267461-heavenstrafer.json](./267461-heavenstrafer.json) |
 | Heavenstrike Rivals | 26904 | [26904-heavenstrike-rivals.json](./26904-heavenstrike-rivals.json) |
@@ -3564,6 +3565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highscore Processing Unit | 99645 | [99645-highscore-processing-unit.json](./99645-highscore-processing-unit.json) |
 | Highway | 247016 | [247016-highway.json](./247016-highway.json) |
 | Highway | 267410 | [267410-highway.json](./267410-highway.json) |
+| Highway 11 | 377230 | [377230-highway-11.json](./377230-highway-11.json) |
 | Highway 2000 | 46097 | [46097-highway-2000.json](./46097-highway-2000.json) |
 | Highway Cleaner | 234607 | [234607-highway-cleaner.json](./234607-highway-cleaner.json) |
 | Highway Drifter: Hajwala Simulator | 284927 | [284927-highway-drifter-hajwala-simulator.json](./284927-highway-drifter-hajwala-simulator.json) |
@@ -4560,6 +4562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoover Heroes | 329963 | [329963-hoover-heroes.json](./329963-hoover-heroes.json) |
 | Hop | 86964 | [86964-hop.json](./86964-hop.json) |
 | Hop 'N' Stack | 311665 | [311665-hop-n-stack.json](./311665-hop-n-stack.json) |
+| Hop & Seek | 377223 | [377223-hop-and-seek.json](./377223-hop-and-seek.json) |
 | Hop for the Best | 206945 | [206945-hop-for-the-best.json](./206945-hop-for-the-best.json) |
 | Hop Hop Hop | 348950 | [348950-hop-hop-hop.json](./348950-hop-hop-hop.json) |
 | Hop Hop Miner | 181707 | [181707-hop-hop-miner.json](./181707-hop-hop-miner.json) |
@@ -4584,6 +4587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopa: Mini test Quest | 183999 | [183999-hopa-mini-test-quest.json](./183999-hopa-mini-test-quest.json) |
 | HopDodge | 200149 | [200149-hopdodge.json](./200149-hopdodge.json) |
 | Hope | 312738 | [312738-hope.json](./312738-hope.json) |
+| Hope | 377194 | [377194-hope.json](./377194-hope.json) |
 | Hope & Elpis | 347368 | [347368-hope-and-elpis.json](./347368-hope-and-elpis.json) |
 | Hope 01 | 398473 | [398473-hope-01.json](./398473-hope-01.json) |
 | Hope Deferred | 337992 | [337992-hope-deferred.json](./337992-hope-deferred.json) |
@@ -4829,6 +4833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoshi no Shirusu Shinjitsu | 394495 | [394495-hoshi-no-shirusu-shinjitsu.json](./394495-hoshi-no-shirusu-shinjitsu.json) |
 | Hoshi Ori Yume Mirai: Perfect Edition | 150036 | [150036-hoshi-ori-yume-mirai-perfect-edition.json](./150036-hoshi-ori-yume-mirai-perfect-edition.json) |
 | Hoshi Ori Yume Mirai: Rikka to Anata no 1-Shuunen Kinen, Icha Love Birthday | 408145 | [408145-hoshi-ori-yume-mirai-rikka-to-anata-no-1-shuunen-kinen-icha-love-birthday.json](./408145-hoshi-ori-yume-mirai-rikka-to-anata-no-1-shuunen-kinen-icha-love-birthday.json) |
+| Hoshi Saga 3 | 377220 | [377220-hoshi-saga-3.json](./377220-hoshi-saga-3.json) |
 | Hoshi Saga 5: Ringoame | 377262 | [377262-hoshi-saga-5-ringoame.json](./377262-hoshi-saga-5-ringoame.json) |
 | Hoshi Saga 6: Ringoen | 377712 | [377712-hoshi-saga-6-ringoen.json](./377712-hoshi-saga-6-ringoen.json) |
 | Hoshi Saga 8: Dokuringo | 377800 | [377800-hoshi-saga-8-dokuringo.json](./377800-hoshi-saga-8-dokuringo.json) |
