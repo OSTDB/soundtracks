@@ -7457,6 +7457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Relic | 342896 | [342896-broken-relic.json](./342896-broken-relic.json) |
 | Broken Roads | 122866 | [122866-broken-roads.json](./122866-broken-roads.json) |
 | Broken Robot | 152840 | [152840-broken-robot.json](./152840-broken-robot.json) |
+| Broken Rules Collection | 370829 | [370829-broken-rules-collection.json](./370829-broken-rules-collection.json) |
 | Broken Shell | 304374 | [304374-broken-shell.json](./304374-broken-shell.json) |
 | Broken Signal | 380040 | [380040-broken-signal.json](./380040-broken-signal.json) |
 | Broken Skies | 181136 | [181136-broken-skies.json](./181136-broken-skies.json) |
