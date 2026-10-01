@@ -1479,6 +1479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cashier of Grocery Shop: Profession | 102772 | [102772-cashier-of-grocery-shop-profession.json](./102772-cashier-of-grocery-shop-profession.json) |
 | Cashier Sim | 296450 | [296450-cashier-sim.json](./296450-cashier-sim.json) |
 | Cashtronauts | 34834 | [34834-cashtronauts.json](./34834-cashtronauts.json) |
+| Casino Black Jack | 336095 | [336095-casino-black-jack.json](./336095-casino-black-jack.json) |
 | Casino Blackjack | 86560 | [86560-casino-blackjack.json](./86560-casino-blackjack.json) |
 | Casino Boss Simulator | 278701 | [278701-casino-boss-simulator.json](./278701-casino-boss-simulator.json) |
 | Casino by eGames | 165547 | [165547-casino-by-egames.json](./165547-casino-by-egames.json) |
@@ -8095,6 +8096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creeper World 3: Arc Eternal | 9809 | [9809-creeper-world-3-arc-eternal.json](./9809-creeper-world-3-arc-eternal.json) |
 | Creeper World: Anniversary Edition | 34005 | [34005-creeper-world-anniversary-edition.json](./34005-creeper-world-anniversary-edition.json) |
 | Creepers | 15478 | [15478-creepers.json](./15478-creepers.json) |
+| Creeping Clark | 336169 | [336169-creeping-clark.json](./336169-creeping-clark.json) |
 | Creepless | 253427 | [253427-creepless.json](./253427-creepless.json) |
 | Creepo's Tales: Chopping Mall | 310556 | [310556-creepos-tales-chopping-mall.json](./310556-creepos-tales-chopping-mall.json) |
 | Creepshow | 272838 | [272838-creepshow.json](./272838-creepshow.json) |
@@ -8678,6 +8680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crunch Time! | 218161 | [218161-crunch-time.json](./218161-crunch-time.json) |
 | Crunchball 3000 | 346564 | [346564-crunchball-3000.json](./346564-crunchball-3000.json) |
 | Cruncher | 60202 | [60202-cruncher.json](./60202-cruncher.json) |
+| Crunchies Munchies | 336084 | [336084-crunchies-munchies.json](./336084-crunchies-munchies.json) |
 | Crunchy Numbers Math Arcade | 205082 | [205082-crunchy-numbers-math-arcade.json](./205082-crunchy-numbers-math-arcade.json) |
 | Crusade in Europe | 25922 | [25922-crusade-in-europe.json](./25922-crusade-in-europe.json) |
 | Crusade of Deitra | 173296 | [173296-crusade-of-deitra.json](./173296-crusade-of-deitra.json) |
