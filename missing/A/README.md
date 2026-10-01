@@ -3474,6 +3474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amalgam | 396419 | [396419-amalgam.json](./396419-amalgam.json) |
 | Amalgoom | 346646 | [346646-amalgoom.json](./346646-amalgoom.json) |
 | Amalgun | 347764 | [347764-amalgun.json](./347764-amalgun.json) |
+| Amalie | 358431 | [358431-amalie.json](./358431-amalie.json) |
 | Amamane | 121724 | [121724-amamane.json](./121724-amamane.json) |
 | Amamane 2 | 146792 | [146792-amamane-2.json](./146792-amamane-2.json) |
 | Amamane 2: Limited Edition | 167038 | [167038-amamane-2-limited-edition.json](./167038-amamane-2-limited-edition.json) |
@@ -4925,6 +4926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antpocalypse | 386917 | [386917-antpocalypse.json](./386917-antpocalypse.json) |
 | AntQueen 3D | 117642 | [117642-antqueen-3d.json](./117642-antqueen-3d.json) |
 | Antrabhara | 223491 | [223491-antrabhara.json](./223491-antrabhara.json) |
+| Ants Empire Colony | 358427 | [358427-ants-empire-colony.json](./358427-ants-empire-colony.json) |
 | Ants in Space! | 248031 | [248031-ants-in-space.json](./248031-ants-in-space.json) |
 | Ants March TD | 374200 | [374200-ants-march-td.json](./374200-ants-march-td.json) |
 | Ants of Duty | 226169 | [226169-ants-of-duty.json](./226169-ants-of-duty.json) |
