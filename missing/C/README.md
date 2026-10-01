@@ -221,6 +221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calamity | 364103 | [364103-calamity.json](./364103-calamity.json) |
 | Calamity Angels: Special Delivery - Digital Deluxe Edition | 391861 | [391861-calamity-angels-special-delivery-digital-deluxe-edition.json](./391861-calamity-angels-special-delivery-digital-deluxe-edition.json) |
 | Calamity Annie | 72689 | [72689-calamity-annie.json](./72689-calamity-annie.json) |
+| Calamity Black Dragon and the Princess of Lies | 365199 | [365199-calamity-black-dragon-and-the-princess-of-lies.json](./365199-calamity-black-dragon-and-the-princess-of-lies.json) |
 | Calamity Cait | 413806 | [413806-calamity-cait.json](./413806-calamity-cait.json) |
 | Calamity Creatures | 217266 | [217266-calamity-creatures.json](./217266-calamity-creatures.json) |
 | Calavera: Day of the Dead - Collector's Edition | 28877 | [28877-calavera-day-of-the-dead-collectors-edition.json](./28877-calavera-day-of-the-dead-collectors-edition.json) |
@@ -1110,6 +1111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardfight!! Vanguard: Dear Days 2 - Card Unlock Vol.6 | 375180 | [375180-cardfight-vanguard-dear-days-2-card-unlock-vol-6.json](./375180-cardfight-vanguard-dear-days-2-card-unlock-vol-6.json) |
 | Cardfight!! Vanguard: Dear Days 2 - Card Unlock Vol.7 | 375179 | [375179-cardfight-vanguard-dear-days-2-card-unlock-vol-7.json](./375179-cardfight-vanguard-dear-days-2-card-unlock-vol-7.json) |
 | Cardfight!! Vanguard: Dear Days 2 - Card Unlock Vol.8 | 375178 | [375178-cardfight-vanguard-dear-days-2-card-unlock-vol-8.json](./375178-cardfight-vanguard-dear-days-2-card-unlock-vol-8.json) |
+| Cardfight!! Vanguard: Dear Days 2 - Complete Playset 05 "D-BT⑤" | 365212 | [365212-cardfight-vanguard-dear-days-2-complete-playset-05-d-bt5.json](./365212-cardfight-vanguard-dear-days-2-complete-playset-05-d-bt5.json) |
 | Cardfight!! Vanguard: Ride to Victory!! | 81457 | [81457-cardfight-vanguard-ride-to-victory.json](./81457-cardfight-vanguard-ride-to-victory.json) |
 | Cardfight!!: Additional Card Set Vol.6 [D-BT09] - Dragontree Invasion | 267666 | [267666-cardfight-additional-card-set-vol-6-d-bt09-dragontree-invasion.json](./267666-cardfight-additional-card-set-vol-6-d-bt09-dragontree-invasion.json) |
 | Cardfight!!: Rare Card Set 14 [D-BT09] - Dragontree Invasion | 267441 | [267441-cardfight-rare-card-set-14-d-bt09-dragontree-invasion.json](./267441-cardfight-rare-card-set-14-d-bt09-dragontree-invasion.json) |
