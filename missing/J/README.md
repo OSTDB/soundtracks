@@ -1739,6 +1739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jupiter Melon | 284901 | [284901-jupiter-melon.json](./284901-jupiter-melon.json) |
 | Jupiter-Saturn: Testing Conviction | 410439 | [410439-jupiter-saturn-testing-conviction.json](./410439-jupiter-saturn-testing-conviction.json) |
 | Jupiter's Masterdrive | 71232 | [71232-jupiters-masterdrive.json](./71232-jupiters-masterdrive.json) |
+| Jupiter's Orbit | 374248 | [374248-jupiters-orbit.json](./374248-jupiters-orbit.json) |
 | Jupitron Game Collection Vol. 4: Middleware | 198481 | [198481-jupitron-game-collection-vol-4-middleware.json](./198481-jupitron-game-collection-vol-4-middleware.json) |
 | Juqueision | 186301 | [186301-juqueision.json](./186301-juqueision.json) |
 | Juranka Classic | 101375 | [101375-juranka-classic.json](./101375-juranka-classic.json) |
