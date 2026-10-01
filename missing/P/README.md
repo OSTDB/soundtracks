@@ -973,6 +973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Tomb | 224560 | [224560-paradise-tomb.json](./224560-paradise-tomb.json) |
 | Paradise Up Above: Gold Label Edition | 311462 | [311462-paradise-up-above-gold-label-edition.json](./311462-paradise-up-above-gold-label-edition.json) |
 | Paradise XRPL | 321549 | [321549-paradise-xrpl.json](./321549-paradise-xrpl.json) |
+| Paradise: Musubi | 384712 | [384712-paradise-musubi.json](./384712-paradise-musubi.json) |
 | ParaDive++ | 401812 | [401812-paradive.json](./401812-paradive.json) |
 | Paradize Project | 208418 | [208418-paradize-project.json](./208418-paradize-project.json) |
 | Paradox | 164872 | [164872-paradox.json](./164872-paradox.json) |
@@ -4771,6 +4772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Hunter Origins | 174870 | [174870-pocket-hunter-origins.json](./174870-pocket-hunter-origins.json) |
 | Pocket Idler: Fishing Pond | 298345 | [298345-pocket-idler-fishing-pond.json](./298345-pocket-idler-fishing-pond.json) |
 | Pocket Jansou | 46603 | [46603-pocket-jansou.json](./46603-pocket-jansou.json) |
+| Pocket Kanon & Air | 384708 | [384708-pocket-kanon-and-air.json](./384708-pocket-kanon-and-air.json) |
 | Pocket Kickball | 304724 | [304724-pocket-kickball.json](./304724-pocket-kickball.json) |
 | Pocket Kite | 200183 | [200183-pocket-kite.json](./200183-pocket-kite.json) |
 | Pocket Kitten | 407477 | [407477-pocket-kitten.json](./407477-pocket-kitten.json) |
