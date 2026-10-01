@@ -2288,6 +2288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decontamination | 335879 | [335879-decontamination.json](./335879-decontamination.json) |
 | Decor Dream | 305845 | [305845-decor-dream.json](./305845-decor-dream.json) |
 | Decoration Rush | 324991 | [324991-decoration-rush.json](./324991-decoration-rush.json) |
+| Decrepit | 381203 | [381203-decrepit.json](./381203-decrepit.json) |
 | Decurion | 285012 | [285012-decurion.json](./285012-decurion.json) |
 | Decurse: A New Magic Farming Game | 254159 | [254159-decurse-a-new-magic-farming-game.json](./254159-decurse-a-new-magic-farming-game.json) |
 | Decwar | 66735 | [66735-decwar.json](./66735-decwar.json) |
@@ -2606,6 +2607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dehumanized | 104054 | [104054-dehumanized.json](./104054-dehumanized.json) |
 | Dehydration | 374723 | [374723-dehydration.json](./374723-dehydration.json) |
 | Deicide 3: Distorted Existence | 194293 | [194293-deicide-3-distorted-existence.json](./194293-deicide-3-distorted-existence.json) |
+| Deified | 381183 | [381183-deified.json](./381183-deified.json) |
 | Deiland | 74531 | [74531-deiland.json](./74531-deiland.json) |
 | Deimos Hotel | 382280 | [382280-deimos-hotel.json](./382280-deimos-hotel.json) |
 | Deios II: Deidia | 26366 | [26366-deios-ii-deidia.json](./26366-deios-ii-deidia.json) |
@@ -4985,6 +4987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DivineRPG | 241498 | [241498-divinerpg.json](./241498-divinerpg.json) |
 | Diving Corsola | 71567 | [71567-diving-corsola.json](./71567-diving-corsola.json) |
 | Diving Disorder | 157567 | [157567-diving-disorder.json](./157567-diving-disorder.json) |
+| Divinity | 381216 | [381216-divinity.json](./381216-divinity.json) |
 | Divinity Arrival | 254569 | [254569-divinity-arrival.json](./254569-divinity-arrival.json) |
 | Divinity Chronicles: Journey to the West | 140623 | [140623-divinity-chronicles-journey-to-the-west.json](./140623-divinity-chronicles-journey-to-the-west.json) |
 | Divinity Fatum | 227769 | [227769-divinity-fatum.json](./227769-divinity-fatum.json) |
