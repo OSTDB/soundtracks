@@ -779,6 +779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 280 Zzzap/Dodgem 2001 | 139471 | [139471-280-zzzap-dodgem-2001.json](./139471-280-zzzap-dodgem-2001.json) |
 | 286 Miles | 333601 | [333601-286-miles.json](./333601-286-miles.json) |
 | 2BBee | 261789 | [261789-2bbee.json](./261789-2bbee.json) |
+| 2D Brick Breaker Game Remastered | 368060 | [368060-2d-brick-breaker-game-remastered.json](./368060-2d-brick-breaker-game-remastered.json) |
 | 2D Dogfight | 256275 | [256275-2d-dogfight.json](./256275-2d-dogfight.json) |
 | 2D Dogfight: Secret Project | 297055 | [297055-2d-dogfight-secret-project.json](./297055-2d-dogfight-secret-project.json) |
 | 2D Dogfight: Sunset and Sunrise | 308943 | [308943-2d-dogfight-sunset-and-sunrise.json](./308943-2d-dogfight-sunset-and-sunrise.json) |
