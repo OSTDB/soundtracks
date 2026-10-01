@@ -109,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Geo | 172697 | [172697-pac-man-geo.json](./172697-pac-man-geo.json) |
 | Pac-Man Maker | 28186 | [28186-pac-man-maker.json](./28186-pac-man-maker.json) |
 | Pac-Man Megamix | 322106 | [322106-pac-man-megamix.json](./322106-pac-man-megamix.json) |
+| Pac-Man Museum: Ms. Pac-Man DLC | 343386 | [343386-pac-man-museum-ms-pac-man-dlc.json](./343386-pac-man-museum-ms-pac-man-dlc.json) |
 | Pac-Man Museum+ | 182246 | [182246-pac-man-museum.json](./182246-pac-man-museum.json) |
 | Pac-Man S | 64683 | [64683-pac-man-s.json](./64683-pac-man-s.json) |
 | Pac-Man Social | 64682 | [64682-pac-man-social.json](./64682-pac-man-social.json) |
@@ -433,6 +434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pal Go | 343831 | [343831-pal-go.json](./343831-pal-go.json) |
 | Pal-Mon | 393801 | [393801-pal-mon.json](./393801-pal-mon.json) |
 | PAL: Shinken Densetsu | 166517 | [166517-pal-shinken-densetsu.json](./166517-pal-shinken-densetsu.json) |
+| Palace Jam 1 | 343389 | [343389-palace-jam-1.json](./343389-palace-jam-1.json) |
 | Palace of a Thousand Curses | 328017 | [328017-palace-of-a-thousand-curses.json](./328017-palace-of-a-thousand-curses.json) |
 | Palace of Cards | 81384 | [81384-palace-of-cards.json](./81384-palace-of-cards.json) |
 | Palace of Magic | 186072 | [186072-palace-of-magic.json](./186072-palace-of-magic.json) |
@@ -4268,6 +4270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza to Osake to Suika-chan to! | 403162 | [403162-pizza-to-osake-to-suika-chan-to.json](./403162-pizza-to-osake-to-suika-chan-to.json) |
 | Pizza Tower Repainted | 365807 | [365807-pizza-tower-repainted.json](./365807-pizza-tower-repainted.json) |
 | Pizza Tower: Counterfeit Edition | 352342 | [352342-pizza-tower-counterfeit-edition.json](./352342-pizza-tower-counterfeit-edition.json) |
+| Pizza Tower: Fall Damage | 343407 | [343407-pizza-tower-fall-damage.json](./343407-pizza-tower-fall-damage.json) |
 | Pizza Tower: Final Round | 345569 | [345569-pizza-tower-final-round.json](./345569-pizza-tower-final-round.json) |
 | Pizza Tower: Idle Tycoon | 320926 | [320926-pizza-tower-idle-tycoon.json](./320926-pizza-tower-idle-tycoon.json) |
 | Pizza Tower: The Noise Update | 291543 | [291543-pizza-tower-the-noise-update.json](./291543-pizza-tower-the-noise-update.json) |
@@ -5332,6 +5335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokemon Kalos Crystal | 304731 | [304731-pokemon-kalos-crystal.json](./304731-pokemon-kalos-crystal.json) |
 | Pokémon Kanto Ultimate | 250926 | [250926-pokemon-kanto-ultimate.json](./250926-pokemon-kanto-ultimate.json) |
 | Pokémon Lazarus | 337439 | [337439-pokemon-lazarus.json](./337439-pokemon-lazarus.json) |
+| Pokémon Lazy Green | 343374 | [343374-pokemon-lazy-green.json](./343374-pokemon-lazy-green.json) |
 | Pokémon League of Legends | 229045 | [229045-pokemon-league-of-legends.json](./229045-pokemon-league-of-legends.json) |
 | Pokémon Legends: Arceus | 144054 | [144054-pokemon-legends-arceus.json](./144054-pokemon-legends-arceus.json) |
 | Pokémon Legends: Arceus - Daybreak | 221843 | [221843-pokemon-legends-arceus-daybreak.json](./221843-pokemon-legends-arceus-daybreak.json) |
@@ -8453,6 +8457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Put the Fries in the Bag | 335692 | [335692-put-the-fries-in-the-bag.json](./335692-put-the-fries-in-the-bag.json) |
 | Put Your Brain on 2 | 234150 | [234150-put-your-brain-on-2.json](./234150-put-your-brain-on-2.json) |
 | Put Your Stamp On | 226434 | [226434-put-your-stamp-on.json](./226434-put-your-stamp-on.json) |
+| Putin Jigsaw | 343309 | [343309-putin-jigsaw.json](./343309-putin-jigsaw.json) |
 | Putin Kills: Coronavirus | 393108 | [393108-putin-kills-coronavirus.json](./393108-putin-kills-coronavirus.json) |
 | Putin Life | 130049 | [130049-putin-life.json](./130049-putin-life.json) |
 | Putin takes taxes | 86569 | [86569-putin-takes-taxes.json](./86569-putin-takes-taxes.json) |
