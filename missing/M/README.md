@@ -1388,6 +1388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manaftory | 369157 | [369157-manaftory.json](./369157-manaftory.json) |
 | Managate | 392150 | [392150-managate.json](./392150-managate.json) |
 | Management in Space | 400849 | [400849-management-in-space.json](./400849-management-in-space.json) |
+| Management Wanted | 364652 | [364652-management-wanted.json](./364652-management-wanted.json) |
 | Management Worlds Bundle | 325005 | [325005-management-worlds-bundle.json](./325005-management-worlds-bundle.json) |
 | ManagerLeague | 152113 | [152113-managerleague.json](./152113-managerleague.json) |
 | Manahex | 291598 | [291598-manahex.json](./291598-manahex.json) |
@@ -6722,6 +6723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobius Final Fantasy | 21628 | [21628-mobius-final-fantasy.json](./21628-mobius-final-fantasy.json) |
 | Möbius Front '83 | 140436 | [140436-mobius-front-83.json](./140436-mobius-front-83.json) |
 | Mobius Theory | 225602 | [225602-mobius-theory.json](./225602-mobius-theory.json) |
+| Möbius Trip | 364643 | [364643-mobius-trip.json](./364643-mobius-trip.json) |
 | Möbler | 118301 | [118301-mobler.json](./118301-mobler.json) |
 | Mobmania | 211807 | [211807-mobmania.json](./211807-mobmania.json) |
 | Mobo Greenhouse Garden | 256903 | [256903-mobo-greenhouse-garden.json](./256903-mobo-greenhouse-garden.json) |
@@ -9902,6 +9904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Zoo | 50707 | [50707-my-zoo.json](./50707-my-zoo.json) |
 | Mycelium | 295350 | [295350-mycelium.json](./295350-mycelium.json) |
 | Mycelium Conquest | 401813 | [401813-mycelium-conquest.json](./401813-mycelium-conquest.json) |
+| Mycelium Mayhem | 364634 | [364634-mycelium-mayhem.json](./364634-mycelium-mayhem.json) |
 | Mycelium Protocol | 416000 | [416000-mycelium-protocol.json](./416000-mycelium-protocol.json) |
 | Mycelium: The Silent Contract | 343357 | [343357-mycelium-the-silent-contract.json](./343357-mycelium-the-silent-contract.json) |
 | Mychess | 73301 | [73301-mychess.json](./73301-mychess.json) |
