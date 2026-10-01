@@ -711,6 +711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falskaar | 313266 | [313266-falskaar.json](./313266-falskaar.json) |
 | Falta | 169764 | [169764-falta.json](./169764-falta.json) |
 | Famaze | 9170 | [9170-famaze.json](./9170-famaze.json) |
+| FamCram | 381197 | [381197-famcram.json](./381197-famcram.json) |
 | Fame Academy: Dance Edition | 44721 | [44721-fame-academy-dance-edition.json](./44721-fame-academy-dance-edition.json) |
 | Fame or Folly | 394181 | [394181-fame-or-folly.json](./394181-fame-or-folly.json) |
 | Famicom Bunko: Hajimari no Mori | 42245 | [42245-famicom-bunko-hajimari-no-mori.json](./42245-famicom-bunko-hajimari-no-mori.json) |
@@ -4831,6 +4832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: Zombie | 366397 | [366397-fortnite-festival-zombie.json](./366397-fortnite-festival-zombie.json) |
 | Fortnite OG | 324915 | [324915-fortnite-og.json](./324915-fortnite-og.json) |
 | Fortnite OG: Chapter 1 Season 2 | 330838 | [330838-fortnite-og-chapter-1-season-2.json](./330838-fortnite-og-chapter-1-season-2.json) |
+| Fortnite OG: Chapter 1 Season 7 | 381174 | [381174-fortnite-og-chapter-1-season-7.json](./381174-fortnite-og-chapter-1-season-7.json) |
 | Fortnite OG: Chapter 1 Season 9 | 409733 | [409733-fortnite-og-chapter-1-season-9.json](./409733-fortnite-og-chapter-1-season-9.json) |
 | Fortnite Reload | 324921 | [324921-fortnite-reload.json](./324921-fortnite-reload.json) |
 | Fortnite: Agency Renegades Pack | 325855 | [325855-fortnite-agency-renegades-pack.json](./325855-fortnite-agency-renegades-pack.json) |
@@ -4897,6 +4899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forts: High Seas | 195771 | [195771-forts-high-seas.json](./195771-forts-high-seas.json) |
 | Fortuito: Lost History | 156667 | [156667-fortuito-lost-history.json](./156667-fortuito-lost-history.json) |
 | Fortuna | 218172 | [218172-fortuna.json](./218172-fortuna.json) |
+| Fortunato | 381185 | [381185-fortunato.json](./381185-fortunato.json) |
 | Fortune | 357312 | [357312-fortune.json](./357312-fortune.json) |
 | Fortune & Gloria | 105324 | [105324-fortune-and-gloria.json](./105324-fortune-and-gloria.json) |
 | Fortune Arterial | 91514 | [91514-fortune-arterial.json](./91514-fortune-arterial.json) |
@@ -5116,6 +5119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FPS Hero | 386284 | [386284-fps-hero.json](./386284-fps-hero.json) |
 | FPS Infinite | 334154 | [334154-fps-infinite.json](./334154-fps-infinite.json) |
 | FPS Offline Strike: Missions | 223939 | [223939-fps-offline-strike-missions.json](./223939-fps-offline-strike-missions.json) |
+| FPS Quest | 381184 | [381184-fps-quest.json](./381184-fps-quest.json) |
 | FPS Robot Attack Minigame | 371303 | [371303-fps-robot-attack-minigame.json](./371303-fps-robot-attack-minigame.json) |
 | FPS Shooting Master | 102748 | [102748-fps-shooting-master.json](./102748-fps-shooting-master.json) |
 | FPS Trainer | 94177 | [94177-fps-trainer.json](./94177-fps-trainer.json) |
@@ -5652,6 +5656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Jump | 273912 | [273912-frog-jump.json](./273912-frog-jump.json) |
 | Frog King | 181219 | [181219-frog-king.json](./181219-frog-king.json) |
 | Frog King | 289452 | [289452-frog-king.json](./289452-frog-king.json) |
+| Frog Knight | 381175 | [381175-frog-knight.json](./381175-frog-knight.json) |
 | Frog Legs | 337730 | [337730-frog-legs.json](./337730-frog-legs.json) |
 | Frog Minutes | 66061 | [66061-frog-minutes.json](./66061-frog-minutes.json) |
 | Frog Odyssey | 369622 | [369622-frog-odyssey.json](./369622-frog-odyssey.json) |
@@ -5769,6 +5774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From Madness with Love | 215934 | [215934-from-madness-with-love.json](./215934-from-madness-with-love.json) |
 | From Nava | 282139 | [282139-from-nava.json](./282139-from-nava.json) |
 | From One World To Another | 335087 | [335087-from-one-world-to-another.json](./335087-from-one-world-to-another.json) |
+| From Ruins | 381177 | [381177-from-ruins.json](./381177-from-ruins.json) |
 | From Salt to Sugar | 212803 | [212803-from-salt-to-sugar.json](./212803-from-salt-to-sugar.json) |
 | From Scratch | 287199 | [287199-from-scratch.json](./287199-from-scratch.json) |
 | From Space: Operation Clear Skies | 277590 | [277590-from-space-operation-clear-skies.json](./277590-from-space-operation-clear-skies.json) |
@@ -6332,6 +6338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Company | 347345 | [347345-furry-company.json](./347345-furry-company.json) |
 | Furry Cyberfucker | 196171 | [196171-furry-cyberfucker.json](./196171-furry-cyberfucker.json) |
 | Furry Cybersex | 204431 | [204431-furry-cybersex.json](./204431-furry-cybersex.json) |
+| Furry Defenders​​ | 381176 | [381176-furry-defenders.json](./381176-furry-defenders.json) |
 | Furry Fantasy | 207794 | [207794-furry-fantasy.json](./207794-furry-fantasy.json) |
 | Furry Farm | 329099 | [329099-furry-farm.json](./329099-furry-farm.json) |
 | Furry Feet Girls | 301999 | [301999-furry-feet-girls.json](./301999-furry-feet-girls.json) |
