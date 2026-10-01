@@ -7451,6 +7451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crab Game 2 | 323500 | [323500-crab-game-2.json](./323500-crab-game-2.json) |
 | Crab God | 244884 | [244884-crab-god.json](./244884-crab-god.json) |
 | Crab God: Supporter Pack | 382435 | [382435-crab-god-supporter-pack.json](./382435-crab-god-supporter-pack.json) |
+| Crab Hunt | 346729 | [346729-crab-hunt.json](./346729-crab-hunt.json) |
 | Crab Island | 226775 | [226775-crab-island.json](./226775-crab-island.json) |
 | Crab Raid Tactics | 247749 | [247749-crab-raid-tactics.json](./247749-crab-raid-tactics.json) |
 | Crab Wave | 315646 | [315646-crab-wave.json](./315646-crab-wave.json) |
