@@ -2435,6 +2435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akuyaku Reijou ha Ringoku no Outaishi ni Dekiai Sareru | 295840 | [295840-akuyaku-reijou-ha-ringoku-no-outaishi-ni-dekiai-sareru.json](./295840-akuyaku-reijou-ha-ringoku-no-outaishi-ni-dekiai-sareru.json) |
 | Akyrikon VR | 158204 | [158204-akyrikon-vr.json](./158204-akyrikon-vr.json) |
 | Al Gurbish in... Nick it & Run!!! | 316060 | [316060-al-gurbish-in-nick-it-and-run.json](./316060-al-gurbish-in-nick-it-and-run.json) |
+| Al Qaeda Hunting 3D | 370846 | [370846-al-qaeda-hunting-3d.json](./370846-al-qaeda-hunting-3d.json) |
 | Al Qmrah Restaurant | 213975 | [213975-al-qmrah-restaurant.json](./213975-al-qmrah-restaurant.json) |
 | Al Unser Jr.'s Road to the Top | 42631 | [42631-al-unser-jr-s-road-to-the-top.json](./42631-al-unser-jr-s-road-to-the-top.json) |
 | Al Unser Jr.'s Turbo Racing | 8809 | [8809-al-unser-jr-s-turbo-racing.json](./8809-al-unser-jr-s-turbo-racing.json) |
@@ -4368,6 +4369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Rescuer | 139419 | [139419-animal-rescuer.json](./139419-animal-rescuer.json) |
 | Animal Restaurant | 133792 | [133792-animal-restaurant.json](./133792-animal-restaurant.json) |
 | Animal Rivals | 28915 | [28915-animal-rivals.json](./28915-animal-rivals.json) |
+| Animal Rivals | 370847 | [370847-animal-rivals.json](./370847-animal-rivals.json) |
 | Animal Rivals: Nintendo Switch Edition | 105904 | [105904-animal-rivals-nintendo-switch-edition.json](./105904-animal-rivals-nintendo-switch-edition.json) |
 | Animal Run for Kids | 381703 | [381703-animal-run-for-kids.json](./381703-animal-run-for-kids.json) |
 | Animal Sanctuary | 203882 | [203882-animal-sanctuary.json](./203882-animal-sanctuary.json) |
@@ -7759,6 +7761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Fire | 122211 | [122211-auto-fire.json](./122211-auto-fire.json) |
 | Auto Hill Climb | 237658 | [237658-auto-hill-climb.json](./237658-auto-hill-climb.json) |
 | Auto Island | 159798 | [159798-auto-island.json](./159798-auto-island.json) |
+| Auto Jurassic Knights | 370866 | [370866-auto-jurassic-knights.json](./370866-auto-jurassic-knights.json) |
 | Auto Mechanic | 167164 | [167164-auto-mechanic.json](./167164-auto-mechanic.json) |
 | Auto Modellista | 3791 | [3791-auto-modellista.json](./3791-auto-modellista.json) |
 | Auto Museum 64 | 182903 | [182903-auto-museum-64.json](./182903-auto-museum-64.json) |
