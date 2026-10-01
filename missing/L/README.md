@@ -2500,6 +2500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liminal Phase | 204343 | [204343-liminal-phase.json](./204343-liminal-phase.json) |
 | Liminal Point | 330566 | [330566-liminal-point.json](./330566-liminal-point.json) |
 | Liminal Ranger | 146770 | [146770-liminal-ranger.json](./146770-liminal-ranger.json) |
+| Liminal Salvation | 358996 | [358996-liminal-salvation.json](./358996-liminal-salvation.json) |
 | Liminal Sick Pizza Blue | 398480 | [398480-liminal-sick-pizza-blue.json](./398480-liminal-sick-pizza-blue.json) |
 | Liminal Sorting | 416092 | [416092-liminal-sorting.json](./416092-liminal-sorting.json) |
 | Liminal Spaces Jam | 323735 | [323735-liminal-spaces-jam.json](./323735-liminal-spaces-jam.json) |
@@ -3561,6 +3562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loop My Crank | 374629 | [374629-loop-my-crank.json](./374629-loop-my-crank.json) |
 | Loop Room | 168151 | [168151-loop-room.json](./168151-loop-room.json) |
 | Loop Theory | 288817 | [288817-loop-theory.json](./288817-loop-theory.json) |
+| Loop Yourself | 359021 | [359021-loop-yourself.json](./359021-loop-yourself.json) |
 | Loopbreaker | 395586 | [395586-loopbreaker.json](./395586-loopbreaker.json) |
 | LoopBreaker | 335241 | [335241-loopbreaker.json](./335241-loopbreaker.json) |
 | Loopdrop | 364696 | [364696-loopdrop.json](./364696-loopdrop.json) |
@@ -3662,6 +3664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord Liberty Quest II: Pure White | 416022 | [416022-lord-liberty-quest-ii-pure-white.json](./416022-lord-liberty-quest-ii-pure-white.json) |
 | Lord Monarch | 37941 | [37941-lord-monarch.json](./37941-lord-monarch.json) |
 | Lord Monarch: Tokoton Sentou Densetsu | 46074 | [46074-lord-monarch-tokoton-sentou-densetsu.json](./46074-lord-monarch-tokoton-sentou-densetsu.json) |
+| Lord Nine: Infinite Class | 358986 | [358986-lord-nine-infinite-class.json](./358986-lord-nine-infinite-class.json) |
 | Lord O' Pirates | 258528 | [258528-lord-o-pirates.json](./258528-lord-o-pirates.json) |
 | Lord of Anatolia | 390208 | [390208-lord-of-anatolia.json](./390208-lord-of-anatolia.json) |
 | Lord of Apocalypse | 92600 | [92600-lord-of-apocalypse.json](./92600-lord-of-apocalypse.json) |
