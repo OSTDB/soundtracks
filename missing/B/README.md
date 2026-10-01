@@ -2983,6 +2983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben the Binder | 378303 | [378303-ben-the-binder.json](./378303-ben-the-binder.json) |
 | Ben There, Dan That! | 9541 | [9541-ben-there-dan-that.json](./9541-ben-there-dan-that.json) |
 | Ben's Zombie Apocalypse | 411826 | [411826-bens-zombie-apocalypse.json](./411826-bens-zombie-apocalypse.json) |
+| Běncǎo Shàn Shí Lù | 373696 | [373696-bencao-shan-shi-lu.json](./373696-bencao-shan-shi-lu.json) |
 | Benchmark Your Skills | 326252 | [326252-benchmark-your-skills.json](./326252-benchmark-your-skills.json) |
 | Bender 2: Bend Harder | 319163 | [319163-bender-2-bend-harder.json](./319163-bender-2-bend-harder.json) |
 | Bendy and the Dark Revival | 120163 | [120163-bendy-and-the-dark-revival.json](./120163-bendy-and-the-dark-revival.json) |
@@ -4691,6 +4692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleeding Moons | 109914 | [109914-bleeding-moons.json](./109914-bleeding-moons.json) |
 | Bleemcast! for Metal Gear Solid | 315682 | [315682-bleemcast-for-metal-gear-solid.json](./315682-bleemcast-for-metal-gear-solid.json) |
 | Bleepfrog | 343987 | [343987-bleepfrog.json](./343987-bleepfrog.json) |
+| Bleeping Spaceships | 373673 | [373673-bleeping-spaceships.json](./373673-bleeping-spaceships.json) |
 | Blendamaze | 101530 | [101530-blendamaze.json](./101530-blendamaze.json) |
 | Blender Express HD | 245259 | [245259-blender-express-hd.json](./245259-blender-express-hd.json) |
 | Blendoku | 259559 | [259559-blendoku.json](./259559-blendoku.json) |
@@ -7636,6 +7638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BTD: BTD | 258500 | [258500-btd-btd.json](./258500-btd-btd.json) |
 | BTS Island: In the Seom | 206740 | [206740-bts-island-in-the-seom.json](./206740-bts-island-in-the-seom.json) |
 | BTS Universe Story | 139294 | [139294-bts-universe-story.json](./139294-bts-universe-story.json) |
+| Bù Shàngàn Bù Liànài | 373701 | [373701-bu-shangan-bu-lianai.json](./373701-bu-shangan-bu-lianai.json) |
 | Buba | 120348 | [120348-buba.json](./120348-buba.json) |
 | Bubba Yuga | 383523 | [383523-bubba-yuga.json](./383523-bubba-yuga.json) |
 | Bubbaruka! | 149483 | [149483-bubbaruka.json](./149483-bubbaruka.json) |
