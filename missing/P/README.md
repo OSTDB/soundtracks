@@ -742,9 +742,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Angel | 247522 | [247522-paper-angel.json](./247522-paper-angel.json) |
 | Paper Animal Adventure | 204515 | [204515-paper-animal-adventure.json](./204515-paper-animal-adventure.json) |
 | Paper Beast | 117293 | [117293-paper-beast.json](./117293-paper-beast.json) |
+| Paper Beast: VR Upgrade for Folded Edition | 381754 | [381754-paper-beast-vr-upgrade-for-folded-edition.json](./381754-paper-beast-vr-upgrade-for-folded-edition.json) |
 | Paper Bleed | 350019 | [350019-paper-bleed.json](./350019-paper-bleed.json) |
 | Paper Boats | 161155 | [161155-paper-boats.json](./161155-paper-boats.json) |
 | Paper Bowser World | 135130 | [135130-paper-bowser-world.json](./135130-paper-bowser-world.json) |
+| Paper Bowser World 3 | 381763 | [381763-paper-bowser-world-3.json](./381763-paper-bowser-world-3.json) |
 | Paper Bride | 190178 | [190178-paper-bride.json](./190178-paper-bride.json) |
 | Paper Bride 2: Zangling Village | 200630 | [200630-paper-bride-2-zangling-village.json](./200630-paper-bride-2-zangling-village.json) |
 | Paper Bride 4: Bound Love | 236258 | [236258-paper-bride-4-bound-love.json](./236258-paper-bride-4-bound-love.json) |
@@ -4738,6 +4740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PO'ed: Definitive Edition | 294706 | [294706-poed-definitive-edition.json](./294706-poed-definitive-edition.json) |
 | Poached : Hunt The Hunter | 163965 | [163965-poached-hunt-the-hunter.json](./163965-poached-hunt-the-hunter.json) |
 | Poacher | 93546 | [93546-poacher.json](./93546-poacher.json) |
+| Poca Mate | 381790 | [381790-poca-mate.json](./381790-poca-mate.json) |
 | Pochard Jamie | 351632 | [351632-pochard-jamie.json](./351632-pochard-jamie.json) |
 | Pochi and Nyaa | 252128 | [252128-pochi-and-nyaa.json](./252128-pochi-and-nyaa.json) |
 | Pochi and Nyaa | 40188 | [40188-pochi-and-nyaa.json](./40188-pochi-and-nyaa.json) |
@@ -5170,6 +5173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Mystery Dungeon: Outlaw's Paradise | 294718 | [294718-pokemon-mystery-dungeon-outlaws-paradise.json](./294718-pokemon-mystery-dungeon-outlaws-paradise.json) |
 | Pokémon Mystery Dungeon: Red Rescue Team | 2319 | [2319-pokemon-mystery-dungeon-red-rescue-team.json](./2319-pokemon-mystery-dungeon-red-rescue-team.json) |
 | Pokémon Nameless FireRed Project | 213034 | [213034-pokemon-nameless-firered-project.json](./213034-pokemon-nameless-firered-project.json) |
+| Pokémon Nameless Version | 381791 | [381791-pokemon-nameless-version.json](./381791-pokemon-nameless-version.json) |
 | Pokémon Nightmare Version: Invasion | 279053 | [279053-pokemon-nightmare-version-invasion.json](./279053-pokemon-nightmare-version-invasion.json) |
 | Pokémon Nova | 406870 | [406870-pokemon-nova.json](./406870-pokemon-nova.json) |
 | Pokemon Nova Sun | 288201 | [288201-pokemon-nova-sun.json](./288201-pokemon-nova-sun.json) |
@@ -5313,6 +5317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon: National History Museum | 340212 | [340212-pokemon-national-history-museum.json](./340212-pokemon-national-history-museum.json) |
 | Pokémon: The Pit | 308392 | [308392-pokemon-the-pit.json](./308392-pokemon-the-pit.json) |
 | Pokémon/Grand Order | 330927 | [330927-pokemon-grand-order.json](./330927-pokemon-grand-order.json) |
+| PokemonGoGo | 381780 | [381780-pokemongogo.json](./381780-pokemongogo.json) |
 | Pokénet | 333548 | [333548-pokenet.json](./333548-pokenet.json) |
 | PokéPark: Fishing Rally DS | 94906 | [94906-pokepark-fishing-rally-ds.json](./94906-pokepark-fishing-rally-ds.json) |
 | PokéPath TD | 382382 | [382382-pokepath-td.json](./382382-pokepath-td.json) |
@@ -5955,6 +5960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porter in the Castle | 163758 | [163758-porter-in-the-castle.json](./163758-porter-in-the-castle.json) |
 | Porter's Cafe | 359411 | [359411-porters-cafe.json](./359411-porters-cafe.json) |
 | Porterminus | 265954 | [265954-porterminus.json](./265954-porterminus.json) |
+| Porters | 381761 | [381761-porters.json](./381761-porters.json) |
 | Portile | 322360 | [322360-portile.json](./322360-portile.json) |
 | Portobugia | 217377 | [217377-portobugia.json](./217377-portobugia.json) |
 | Portrait | 329036 | [329036-portrait.json](./329036-portrait.json) |
@@ -6822,6 +6828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pritto Prisoner: Decoration - Little Devil | 381815 | [381815-pritto-prisoner-decoration-little-devil.json](./381815-pritto-prisoner-decoration-little-devil.json) |
 | Pritto Prisoner: Decoration - Poopie Doll | 381816 | [381816-pritto-prisoner-decoration-poopie-doll.json](./381816-pritto-prisoner-decoration-poopie-doll.json) |
 | Pritto Prisoner: Decoration - Sparkling Eyes | 381817 | [381817-pritto-prisoner-decoration-sparkling-eyes.json](./381817-pritto-prisoner-decoration-sparkling-eyes.json) |
+| Pritto Prisoner: Deluxe Poopie Edition | 381809 | [381809-pritto-prisoner-deluxe-poopie-edition.json](./381809-pritto-prisoner-deluxe-poopie-edition.json) |
 | Pritto Prisoner: DLC Skin - Biped Skin: Bloody | 381819 | [381819-pritto-prisoner-dlc-skin-biped-skin-bloody.json](./381819-pritto-prisoner-dlc-skin-biped-skin-bloody.json) |
 | Pritto Prisoner: DLC Skin - Biped Skin: Camouflage | 381820 | [381820-pritto-prisoner-dlc-skin-biped-skin-camouflage.json](./381820-pritto-prisoner-dlc-skin-biped-skin-camouflage.json) |
 | Pritto Prisoner: DLC Skin - Blowgun Skin: Bloody | 381821 | [381821-pritto-prisoner-dlc-skin-blowgun-skin-bloody.json](./381821-pritto-prisoner-dlc-skin-blowgun-skin-bloody.json) |
@@ -6848,6 +6855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pritto Prisoner: DLC Skin - Wheels Skin: Camouflage | 381842 | [381842-pritto-prisoner-dlc-skin-wheels-skin-camouflage.json](./381842-pritto-prisoner-dlc-skin-wheels-skin-camouflage.json) |
 | Pritto Prisoner: DLC Skin - Zoch | 381843 | [381843-pritto-prisoner-dlc-skin-zoch.json](./381843-pritto-prisoner-dlc-skin-zoch.json) |
 | Pritto Prisoner: Robot Skin - Bloody Pack | 381844 | [381844-pritto-prisoner-robot-skin-bloody-pack.json](./381844-pritto-prisoner-robot-skin-bloody-pack.json) |
+| Pritto Prisoner: Ultimate Poopie Edition | 381805 | [381805-pritto-prisoner-ultimate-poopie-edition.json](./381805-pritto-prisoner-ultimate-poopie-edition.json) |
 | Private Dance VR | 286534 | [286534-private-dance-vr.json](./286534-private-dance-vr.json) |
 | Private Detective Punch Drunk: PDPD | 77365 | [77365-private-detective-punch-drunk-pdpd.json](./77365-private-detective-punch-drunk-pdpd.json) |
 | Private Eye | 10999 | [10999-private-eye.json](./10999-private-eye.json) |
