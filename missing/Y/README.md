@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yag | 114196 | [114196-yag.json](./114196-yag.json) |
 | Yaga: Roots of Evil | 186902 | [186902-yaga-roots-of-evil.json](./186902-yaga-roots-of-evil.json) |
 | Yagami Hiroki no Game-Taste: Munasawagi no Yokan | 166496 | [166496-yagami-hiroki-no-game-taste-munasawagi-no-yokan.json](./166496-yagami-hiroki-no-game-taste-munasawagi-no-yokan.json) |
+| Yagazem Elements | 334332 | [334332-yagazem-elements.json](./334332-yagazem-elements.json) |
 | YAGS: Falling For You | 228069 | [228069-yags-falling-for-you.json](./228069-yags-falling-for-you.json) |
 | Yagzz! | 343336 | [343336-yagzz.json](./343336-yagzz.json) |
 | Yahoo Pool | 86051 | [86051-yahoo-pool.json](./86051-yahoo-pool.json) |
