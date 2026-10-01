@@ -349,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A New Leaf: Memories | 167583 | [167583-a-new-leaf-memories.json](./167583-a-new-leaf-memories.json) |
 | A New Reckoning | 61707 | [61707-a-new-reckoning.json](./61707-a-new-reckoning.json) |
 | A Night at Sea | 228996 | [228996-a-night-at-sea.json](./228996-a-night-at-sea.json) |
+| A Night at the Watermill: Collector's Bundle | 336052 | [336052-a-night-at-the-watermill-collectors-bundle.json](./336052-a-night-at-the-watermill-collectors-bundle.json) |
 | A Night Before the Deadline | 145625 | [145625-a-night-before-the-deadline.json](./145625-a-night-before-the-deadline.json) |
 | A Night in Vanet Manor | 147243 | [147243-a-night-in-vanet-manor.json](./147243-a-night-in-vanet-manor.json) |
 | A Night Out. | 334702 | [334702-a-night-out.json](./334702-a-night-out.json) |
@@ -4755,6 +4756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ano Ko Doko no Ko | 314652 | [314652-ano-ko-doko-no-ko.json](./314652-ano-ko-doko-no-ko.json) |
 | Ano Koro, Sobo wa Erokatta: Mukashi ni Modotte, Baa-chan ni Ecchi na Okaeshi o | 108870 | [108870-ano-koro-sobo-wa-erokatta-mukashi-ni-modotte-baa-chan-ni-ecchi-na-okaeshi-o.json](./108870-ano-koro-sobo-wa-erokatta-mukashi-ni-modotte-baa-chan-ni-ecchi-na-okaeshi-o.json) |
 | Ano ne DS | 130388 | [130388-ano-ne-ds.json](./130388-ano-ne-ds.json) |
+| Ano Subarashii Bento wo 2-do 3-do | 336178 | [336178-ano-subarashii-bento-wo-2-do-3-do.json](./336178-ano-subarashii-bento-wo-2-do-3-do.json) |
 | Ano, Subarashii wo Mou Ichido: Saisouban HD | 251530 | [251530-ano-subarashii-wo-mou-ichido-saisouban-hd.json](./251530-ano-subarashii-wo-mou-ichido-saisouban-hd.json) |
 | Anodos | 211398 | [211398-anodos.json](./211398-anodos.json) |
 | Anodyne 2: Return to Dust | 104890 | [104890-anodyne-2-return-to-dust.json](./104890-anodyne-2-return-to-dust.json) |
