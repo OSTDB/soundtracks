@@ -2689,6 +2689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero of Allacrost | 127885 | [127885-hero-of-allacrost.json](./127885-hero-of-allacrost.json) |
 | Hero of Fate | 250886 | [250886-hero-of-fate.json](./250886-hero-of-fate.json) |
 | Hero of Fate: Darkness Land | 292647 | [292647-hero-of-fate-darkness-land.json](./292647-hero-of-fate-darkness-land.json) |
+| Hero of Giants: Dinosaurs Strike VR | 367540 | [367540-hero-of-giants-dinosaurs-strike-vr.json](./367540-hero-of-giants-dinosaurs-strike-vr.json) |
 | Hero of Law | 351679 | [351679-hero-of-law.json](./351679-hero-of-law.json) |
 | Hero of Many | 17339 | [17339-hero-of-many.json](./17339-hero-of-many.json) |
 | Hero of Not Our Time | 144818 | [144818-hero-of-not-our-time.json](./144818-hero-of-not-our-time.json) |
