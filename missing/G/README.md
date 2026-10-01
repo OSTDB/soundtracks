@@ -4419,6 +4419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grisaia: Phantom Trigger Vol. 8 | 191896 | [191896-grisaia-phantom-trigger-vol-8.json](./191896-grisaia-phantom-trigger-vol-8.json) |
 | Grisly Grottos | 271845 | [271845-grisly-grottos.json](./271845-grisly-grottos.json) |
 | Grit & Gold | 310506 | [310506-grit-and-gold.json](./310506-grit-and-gold.json) |
+| Grit & Grind | 372620 | [372620-grit-and-grind.json](./372620-grit-and-grind.json) |
 | Grit & Valor: 1949 | 304134 | [304134-grit-and-valor-1949.json](./304134-grit-and-valor-1949.json) |
 | Grit Paintball | 158187 | [158187-grit-paintball.json](./158187-grit-paintball.json) |
 | Grit Under the Eyelid | 299843 | [299843-grit-under-the-eyelid.json](./299843-grit-under-the-eyelid.json) |
@@ -5189,6 +5190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunwyrm | 176980 | [176980-gunwyrm.json](./176980-gunwyrm.json) |
 | GunZ: The Duel | 80594 | [80594-gunz-the-duel.json](./80594-gunz-the-duel.json) |
 | Gunzle: Clover And Claus | 331963 | [331963-gunzle-clover-and-claus.json](./331963-gunzle-clover-and-claus.json) |
+| Gunzzle: Warp Master | 372607 | [372607-gunzzle-warp-master.json](./372607-gunzzle-warp-master.json) |
 | Guójì Xiàngqí: Dānshuāngrén Duìzhàn Qípái Xiǎoyóuxì | 109011 | [109011-guoji-xiangqi-danshuangren-duizhan-qipai-xiaoyouxi.json](./109011-guoji-xiangqi-danshuangren-duizhan-qipai-xiaoyouxi.json) |
 | Gupank | 419888 | [419888-gupank.json](./419888-gupank.json) |
 | Gura's Adventure | 184097 | [184097-guras-adventure.json](./184097-guras-adventure.json) |
