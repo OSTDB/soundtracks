@@ -190,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yeah! Fighting Girl | 216804 | [216804-yeah-fighting-girl.json](./216804-yeah-fighting-girl.json) |
 | Year 2088 Classic | 276276 | [276276-year-2088-classic.json](./276276-year-2088-classic.json) |
 | Year 500 | 248046 | [248046-year-500.json](./248046-year-500.json) |
+| Year of the Ladybug: Season 1 | 337765 | [337765-year-of-the-ladybug-season-1.json](./337765-year-of-the-ladybug-season-1.json) |
 | Yeardle | 200664 | [200664-yeardle.json](./200664-yeardle.json) |
 | Yearn 2 Learn | 93385 | [93385-yearn-2-learn.json](./93385-yearn-2-learn.json) |
 | Yearning | 111497 | [111497-yearning.json](./111497-yearning.json) |
@@ -336,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoga Master: Magic Atmosphere Pack 1 | 238447 | [238447-yoga-master-magic-atmosphere-pack-1.json](./238447-yoga-master-magic-atmosphere-pack-1.json) |
 | Yoga Master: Meditation Studio | 238048 | [238048-yoga-master-meditation-studio.json](./238048-yoga-master-meditation-studio.json) |
 | Yoga Master: Meditation Studio Bundle | 237909 | [237909-yoga-master-meditation-studio-bundle.json](./237909-yoga-master-meditation-studio-bundle.json) |
+| Yoga Sex Practice | 337762 | [337762-yoga-sex-practice.json](./337762-yoga-sex-practice.json) |
 | Yoga Therapy | 235220 | [235220-yoga-therapy.json](./235220-yoga-therapy.json) |
 | Yoga tte! Oku-sama | 157547 | [157547-yoga-tte-oku-sama.json](./157547-yoga-tte-oku-sama.json) |
 | Yoga Wii | 19655 | [19655-yoga-wii.json](./19655-yoga-wii.json) |
@@ -636,6 +638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Young Wife Elf's Netorase RPG: Irena | 134643 | [134643-young-wife-elfs-netorase-rpg-irena.json](./134643-young-wife-elfs-netorase-rpg-irena.json) |
 | Young Wife Yuka's Good Day to Cheat | 98404 | [98404-young-wife-yukas-good-day-to-cheat.json](./98404-young-wife-yukas-good-day-to-cheat.json) |
 | Youngblood: Search and Destroy | 202395 | [202395-youngblood-search-and-destroy.json](./202395-youngblood-search-and-destroy.json) |
+| Youniverse | 337761 | [337761-youniverse.json](./337761-youniverse.json) |
 | Your “Hidden Side” Test | 399796 | [399796-your-hidden-side-test.json](./399796-your-hidden-side-test.json) |
 | Your Android | 329644 | [329644-your-android.json](./329644-your-android.json) |
 | Your Anime Waifu | 368080 | [368080-your-anime-waifu.json](./368080-your-anime-waifu.json) |
@@ -694,6 +697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Very Last Words | 352760 | [352760-your-very-last-words.json](./352760-your-very-last-words.json) |
 | Your Waifu Juice | 216478 | [216478-your-waifu-juice.json](./216478-your-waifu-juice.json) |
 | Your wife | 166731 | [166731-your-wife.json](./166731-your-wife.json) |
+| Your Wife Oh | 337757 | [337757-your-wife-oh.json](./337757-your-wife-oh.json) |
 | Your_New_Life_Letter.rtf.exe | 234563 | [234563-your-new-life-letter-rtf-exe.json](./234563-your-new-life-letter-rtf-exe.json) |
 | Yourcraft | 361322 | [361322-yourcraft.json](./361322-yourcraft.json) |
 | YourFigureOut | 283858 | [283858-yourfigureout.json](./283858-yourfigureout.json) |
@@ -861,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yukkuri Tanoshimu Otona no Jigsaw Puzzle DS: Sekai no Meiga 2 - Inshou-ha, Kouki Inshou-ha no Kyoshou | 124161 | [124161-yukkuri-tanoshimu-otona-no-jigsaw-puzzle-ds-sekai-no-meiga-2-inshou-ha-kouki-inshou-ha-no-kyoshou.json](./124161-yukkuri-tanoshimu-otona-no-jigsaw-puzzle-ds-sekai-no-meiga-2-inshou-ha-kouki-inshou-ha-no-kyoshou.json) |
 | Yukkuri Tap Coin Idle Game for Touhou | 297645 | [297645-yukkuri-tap-coin-idle-game-for-touhou.json](./297645-yukkuri-tap-coin-idle-game-for-touhou.json) |
 | Yuko and the Akuma Menace | 153942 | [153942-yuko-and-the-akuma-menace.json](./153942-yuko-and-the-akuma-menace.json) |
+| Yukomon | 337755 | [337755-yukomon.json](./337755-yukomon.json) |
 | Yukti | 174360 | [174360-yukti.json](./174360-yukti.json) |
 | Yukyo Station | 216809 | [216809-yukyo-station.json](./216809-yukyo-station.json) |
 | Yuldigard's Fate | 133463 | [133463-yuldigards-fate.json](./133463-yuldigards-fate.json) |
