@@ -3303,6 +3303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nose | 224501 | [224501-nose.json](./224501-nose.json) |
 | Nose | 287230 | [287230-nose.json](./287230-nose.json) |
 | Nose Bleed | 227915 | [227915-nose-bleed.json](./227915-nose-bleed.json) |
+| Nose: The Great Keana Edition | 355159 | [355159-nose-the-great-keana-edition.json](./355159-nose-the-great-keana-edition.json) |
 | NoseBound | 132821 | [132821-nosebound.json](./132821-nosebound.json) |
 | NoSeq | 152270 | [152270-noseq.json](./152270-noseq.json) |
 | NoserLand | 51960 | [51960-noserland.json](./51960-noserland.json) |
