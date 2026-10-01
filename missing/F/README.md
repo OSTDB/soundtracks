@@ -487,6 +487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall Words | 296350 | [296350-fall-words.json](./296350-fall-words.json) |
 | Fallacy of Dawn | 57613 | [57613-fallacy-of-dawn.json](./57613-fallacy-of-dawn.json) |
 | Fallback! | 270135 | [270135-fallback.json](./270135-fallback.json) |
+| FallDawn | 376671 | [376671-falldawn.json](./376671-falldawn.json) |
 | Falldown 3D | 254497 | [254497-falldown-3d.json](./254497-falldown-3d.json) |
 | Fallen | 171594 | [171594-fallen.json](./171594-fallen.json) |
 | Fallen | 26796 | [26796-fallen.json](./26796-fallen.json) |
