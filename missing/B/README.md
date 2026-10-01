@@ -304,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Run For Your Life! | 263997 | [263997-backrooms-run-for-your-life.json](./263997-backrooms-run-for-your-life.json) |
 | Backrooms: Splatter | 410300 | [410300-backrooms-splatter.json](./410300-backrooms-splatter.json) |
 | Backrooms: The Old Watcher | 407412 | [407412-backrooms-the-old-watcher.json](./407412-backrooms-the-old-watcher.json) |
+| Backrooms: The Others | 366337 | [366337-backrooms-the-others.json](./366337-backrooms-the-others.json) |
 | Backrooms: The Project | 239762 | [239762-backrooms-the-project.json](./239762-backrooms-the-project.json) |
 | Backrooms: The Silence | 339449 | [339449-backrooms-the-silence.json](./339449-backrooms-the-silence.json) |
 | Backrooms: The Void | 407469 | [407469-backrooms-the-void.json](./407469-backrooms-the-void.json) |
@@ -1284,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BarGirls | 400463 | [400463-bargirls.json](./400463-bargirls.json) |
 | Bargue | 203903 | [203903-bargue.json](./203903-bargue.json) |
 | Barista | 347150 | [347150-barista.json](./347150-barista.json) |
+| Barista Dream | 366354 | [366354-barista-dream.json](./366354-barista-dream.json) |
 | Barista Life | 405001 | [405001-barista-life.json](./405001-barista-life.json) |
 | Barista Life Simulator 2026 | 391255 | [391255-barista-life-simulator-2026.json](./391255-barista-life-simulator-2026.json) |
 | Barista: Take Away | 207533 | [207533-barista-take-away.json](./207533-barista-take-away.json) |
@@ -7849,6 +7851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug & Seek: Weevils DLC | 298342 | [298342-bug-and-seek-weevils-dlc.json](./298342-bug-and-seek-weevils-dlc.json) |
 | Bug Adventure | 206691 | [206691-bug-adventure.json](./206691-bug-adventure.json) |
 | Bug Aviators in Theme Park | 116163 | [116163-bug-aviators-in-theme-park.json](./116163-bug-aviators-in-theme-park.json) |
+| Bug Bane Survivors | 366362 | [366362-bug-bane-survivors.json](./366362-bug-bane-survivors.json) |
 | Bug Blaster | 15688 | [15688-bug-blaster.json](./15688-bug-blaster.json) |
 | Bug Blazer | 270166 | [270166-bug-blazer.json](./270166-bug-blazer.json) |
 | Bug Bomb | 15689 | [15689-bug-bomb.json](./15689-bug-bomb.json) |
