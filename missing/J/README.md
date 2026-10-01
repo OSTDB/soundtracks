@@ -227,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaleco Sports: Bases Loaded | 338551 | [338551-jaleco-sports-bases-loaded.json](./338551-jaleco-sports-bases-loaded.json) |
 | Jalecolle Famicom Ver. Rod Land | 411740 | [411740-jalecolle-famicom-ver-rod-land.json](./411740-jalecolle-famicom-ver-rod-land.json) |
 | Jalecolle Famicom Ver. Shatterhand | 420688 | [420688-jalecolle-famicom-ver-shatterhand.json](./420688-jalecolle-famicom-ver-shatterhand.json) |
+| Jalecolle Famicom Ver. The Last Ninja | 347320 | [347320-jalecolle-famicom-ver-the-last-ninja.json](./347320-jalecolle-famicom-ver-the-last-ninja.json) |
 | Jalopy: Limited Edition | 96023 | [96023-jalopy-limited-edition.json](./96023-jalopy-limited-edition.json) |
 | Jam | 332595 | [332595-jam.json](./332595-jam.json) |
 | Jam City Rollergirls | 85200 | [85200-jam-city-rollergirls.json](./85200-jam-city-rollergirls.json) |
