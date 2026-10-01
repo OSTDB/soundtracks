@@ -277,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yissa Deep Realms | 75776 | [75776-yissa-deep-realms.json](./75776-yissa-deep-realms.json) |
 | Yitien Chronicles | 23638 | [23638-yitien-chronicles.json](./23638-yitien-chronicles.json) |
 | YiYi | 368018 | [368018-yiyi.json](./368018-yiyi.json) |
+| Yīzìqiānjīn | 386966 | [386966-yiziqianjin.json](./386966-yiziqianjin.json) |
 | YKnytt | 408144 | [408144-yknytt.json](./408144-yknytt.json) |
 | Ylands | 36297 | [36297-ylands.json](./36297-ylands.json) |
 | Ymir | 50092 | [50092-ymir.json](./50092-ymir.json) |
