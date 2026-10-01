@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.N.I.P.E.R.: Hunter Scope - Prime Edition | 274490 | [274490-s-n-i-p-e-r-hunter-scope-prime-edition.json](./274490-s-n-i-p-e-r-hunter-scope-prime-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Pro Edition | 399827 | [399827-s-n-i-p-e-r-hunter-scope-pro-edition.json](./399827-s-n-i-p-e-r-hunter-scope-pro-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Silver Edition | 250394 | [250394-s-n-i-p-e-r-hunter-scope-silver-edition.json](./250394-s-n-i-p-e-r-hunter-scope-silver-edition.json) |
+| S.N.I.P.E.R.: Hunter Scope Hostile Territory | 378966 | [378966-s-n-i-p-e-r-hunter-scope-hostile-territory.json](./378966-s-n-i-p-e-r-hunter-scope-hostile-territory.json) |
 | S.O.L School Of Labyrinth | 412447 | [412447-s-o-l-school-of-labyrinth.json](./412447-s-o-l-school-of-labyrinth.json) |
 | S.O.L: Search of Light | 154380 | [154380-s-o-l-search-of-light.json](./154380-s-o-l-search-of-light.json) |
 | S.O.N | 102781 | [102781-s-o-n.json](./102781-s-o-n.json) |
@@ -12904,6 +12905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stormforge | 305188 | [305188-stormforge.json](./305188-stormforge.json) |
 | Stormgate | 204358 | [204358-stormgate.json](./204358-stormgate.json) |
 | Storming the Grandmothership | 181227 | [181227-storming-the-grandmothership.json](./181227-storming-the-grandmothership.json) |
+| Stormlander | 378994 | [378994-stormlander.json](./378994-stormlander.json) |
 | Stormlord | 12781 | [12781-stormlord.json](./12781-stormlord.json) |
 | Stormovik: Soviet Attack Fighter SU-25 | 79594 | [79594-stormovik-soviet-attack-fighter-su-25.json](./79594-stormovik-soviet-attack-fighter-su-25.json) |
 | StormRend | 184563 | [184563-stormrend.json](./184563-stormrend.json) |
@@ -16546,6 +16548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Summer | 339440 | [339440-sweet-summer.json](./339440-sweet-summer.json) |
 | Sweet Surge | 195196 | [195196-sweet-surge.json](./195196-sweet-surge.json) |
 | Sweet Survival | 392910 | [392910-sweet-survival.json](./392910-sweet-survival.json) |
+| Sweet Survivors: Classy Edition | 378960 | [378960-sweet-survivors-classy-edition.json](./378960-sweet-survivors-classy-edition.json) |
 | Sweet Survivors: Funky Edition | 351240 | [351240-sweet-survivors-funky-edition.json](./351240-sweet-survivors-funky-edition.json) |
 | Sweet Survivors: Gold Edition | 385210 | [385210-sweet-survivors-gold-edition.json](./385210-sweet-survivors-gold-edition.json) |
 | Sweet Tank | 392922 | [392922-sweet-tank.json](./392922-sweet-tank.json) |
