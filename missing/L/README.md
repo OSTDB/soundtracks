@@ -2737,6 +2737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Boo and the Spectral Orbs | 386232 | [386232-little-boo-and-the-spectral-orbs.json](./386232-little-boo-and-the-spectral-orbs.json) |
 | Little Britain: The Video Game | 8557 | [8557-little-britain-the-video-game.json](./8557-little-britain-the-video-game.json) |
 | Little Bug | 28318 | [28318-little-bug.json](./28318-little-bug.json) |
+| Little Bunny | 380619 | [380619-little-bunny.json](./380619-little-bunny.json) |
 | Little Bushman | 346039 | [346039-little-bushman.json](./346039-little-bushman.json) |
 | Little Busters! | 7364 | [7364-little-busters.json](./7364-little-busters.json) |
 | Little Busters! Converted Edition | 127796 | [127796-little-busters-converted-edition.json](./127796-little-busters-converted-edition.json) |
@@ -3038,6 +3039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lives so Sweet | 124199 | [124199-lives-so-sweet.json](./124199-lives-so-sweet.json) |
 | LiveStream | 394170 | [394170-livestream.json](./394170-livestream.json) |
 | Livestream: Escape from Hotel Izanami | 146928 | [146928-livestream-escape-from-hotel-izanami.json](./146928-livestream-escape-from-hotel-izanami.json) |
+| Livestream: Escape from Hotel Izanami + Livestream 2: Escape from Togaezuka Happy Place Collection | 380594 | [380594-livestream-escape-from-hotel-izanami-livestream-2-escape-from-togaezuka-happy-place-collection.json](./380594-livestream-escape-from-hotel-izanami-livestream-2-escape-from-togaezuka-happy-place-collection.json) |
 | Livets Hopp | 277381 | [277381-livets-hopp.json](./277381-livets-hopp.json) |
 | Liveza: Death of the Earth | 32960 | [32960-liveza-death-of-the-earth.json](./32960-liveza-death-of-the-earth.json) |
 | Livid Meadow | 271209 | [271209-livid-meadow.json](./271209-livid-meadow.json) |
@@ -3715,6 +3717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Los Reinos de Aethermoor | 396577 | [396577-los-reinos-de-aethermoor.json](./396577-los-reinos-de-aethermoor.json) |
 | Los Secretos de Altura | 323849 | [323849-los-secretos-de-altura.json](./323849-los-secretos-de-altura.json) |
 | Lose Control | 178632 | [178632-lose-control.json](./178632-lose-control.json) |
+| Lose Control | 380642 | [380642-lose-control.json](./380642-lose-control.json) |
 | Lose Grace Tale | 358478 | [358478-lose-grace-tale.json](./358478-lose-grace-tale.json) |
 | Lose Your Head | 179125 | [179125-lose-your-head.json](./179125-lose-your-head.json) |
 | Lose Your Head Deluxe Bundle | 164810 | [164810-lose-your-head-deluxe-bundle.json](./164810-lose-your-head-deluxe-bundle.json) |
