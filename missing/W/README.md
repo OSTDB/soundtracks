@@ -2147,6 +2147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispered Secrets: Poisoner's Masquerade | 416626 | [416626-whispered-secrets-poisoners-masquerade.json](./416626-whispered-secrets-poisoners-masquerade.json) |
 | Whispered Secrets: Poisoner's Masquerade - Collector's Edition | 409717 | [409717-whispered-secrets-poisoners-masquerade-collectors-edition.json](./409717-whispered-secrets-poisoners-masquerade-collectors-edition.json) |
 | Whispered Secrets: Ripple of the Heart | 187972 | [187972-whispered-secrets-ripple-of-the-heart.json](./187972-whispered-secrets-ripple-of-the-heart.json) |
+| Whispered Secrets: Song of Sorrow - Collector's Edition | 361251 | [361251-whispered-secrets-song-of-sorrow-collectors-edition.json](./361251-whispered-secrets-song-of-sorrow-collectors-edition.json) |
 | Whispered Stories: Sandman | 175803 | [175803-whispered-stories-sandman.json](./175803-whispered-stories-sandman.json) |
 | Whispering Death | 312551 | [312551-whispering-death.json](./312551-whispering-death.json) |
 | Whispering Dream | 314059 | [314059-whispering-dream.json](./314059-whispering-dream.json) |
@@ -4344,6 +4345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrekless | 304739 | [304739-wrekless.json](./304739-wrekless.json) |
 | Wren | 126524 | [126524-wren.json](./126524-wren.json) |
 | Wren's Journey | 215656 | [215656-wrens-journey.json](./215656-wrens-journey.json) |
+| Wrench Towers | 361250 | [361250-wrench-towers.json](./361250-wrench-towers.json) |
 | WrenchFighter Turbo | 136234 | [136234-wrenchfighter-turbo.json](./136234-wrenchfighter-turbo.json) |
 | Wrestle Jump Man | 101077 | [101077-wrestle-jump-man.json](./101077-wrestle-jump-man.json) |
 | Wrestle Kingdom | 7251 | [7251-wrestle-kingdom.json](./7251-wrestle-kingdom.json) |
