@@ -6836,6 +6836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nowhere Express | 413790 | [413790-the-nowhere-express.json](./413790-the-nowhere-express.json) |
 | The Null Frequency | 365304 | [365304-the-null-frequency.json](./365304-the-null-frequency.json) |
 | The Numarin | 47543 | [47543-the-numarin.json](./47543-the-numarin.json) |
+| The Numbers I Keep In My Head | 375385 | [375385-the-numbers-i-keep-in-my-head.json](./375385-the-numbers-i-keep-in-my-head.json) |
 | The Numzle | 233096 | [233096-the-numzle.json](./233096-the-numzle.json) |
 | The Nutcracker | 216997 | [216997-the-nutcracker.json](./216997-the-nutcracker.json) |
 | The Nutshack But It's A Game | 326591 | [326591-the-nutshack-but-its-a-game.json](./326591-the-nutshack-but-its-a-game.json) |
@@ -8916,6 +8917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wandering Village: The Last Leviathan | 404854 | [404854-the-wandering-village-the-last-leviathan.json](./404854-the-wandering-village-the-last-leviathan.json) |
 | The Wanderings Dragon | 108025 | [108025-the-wanderings-dragon.json](./108025-the-wanderings-dragon.json) |
 | The Wanted Man's House | 313485 | [313485-the-wanted-mans-house.json](./313485-the-wanted-mans-house.json) |
+| The Wapple Hous | 375363 | [375363-the-wapple-hous.json](./375363-the-wapple-hous.json) |
 | The War Enders: First Strike | 219657 | [219657-the-war-enders-first-strike.json](./219657-the-war-enders-first-strike.json) |
 | The War Engine | 79886 | [79886-the-war-engine.json](./79886-the-war-engine.json) |
 | The war god : The artifact | 50516 | [50516-the-war-god-the-artifact.json](./50516-the-war-god-the-artifact.json) |
@@ -12739,6 +12741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Makuka Sai: Fantastic Danmaku Festival Part III | 331125 | [331125-touhou-makuka-sai-fantastic-danmaku-festival-part-iii.json](./331125-touhou-makuka-sai-fantastic-danmaku-festival-part-iii.json) |
 | Touhou Mashousei: Fairies of Sorcery | 280178 | [280178-touhou-mashousei-fairies-of-sorcery.json](./280178-touhou-mashousei-fairies-of-sorcery.json) |
 | Touhou Mechanical Scrollery | 130061 | [130061-touhou-mechanical-scrollery.json](./130061-touhou-mechanical-scrollery.json) |
+| Touhou Meisuishu: Resurrection of Heaven's Liquor | 375382 | [375382-touhou-meisuishu-resurrection-of-heavens-liquor.json](./375382-touhou-meisuishu-resurrection-of-heavens-liquor.json) |
 | Touhou Mini Map | 292828 | [292828-touhou-mini-map.json](./292828-touhou-mini-map.json) |
 | Touhou Mix | 193870 | [193870-touhou-mix.json](./193870-touhou-mix.json) |
 | Touhou Monster TD: Dr.Cirno | 210248 | [210248-touhou-monster-td-dr-cirno.json](./210248-touhou-monster-td-dr-cirno.json) |
