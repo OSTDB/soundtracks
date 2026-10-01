@@ -1164,6 +1164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CardWarden | 175409 | [175409-cardwarden.json](./175409-cardwarden.json) |
 | CardWirth | 172774 | [172774-cardwirth.json](./172774-cardwirth.json) |
 | Cardwoven Empires | 337828 | [337828-cardwoven-empires.json](./337828-cardwoven-empires.json) |
+| Cardygon | 367579 | [367579-cardygon.json](./367579-cardygon.json) |
 | Care | 325046 | [325046-care.json](./325046-care.json) |
 | Care Bears | 282634 | [282634-care-bears.json](./282634-care-bears.json) |
 | Care Bears: A Lesson in Caring | 65501 | [65501-care-bears-a-lesson-in-caring.json](./65501-care-bears-a-lesson-in-caring.json) |
