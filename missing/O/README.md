@@ -2056,6 +2056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orqa FPV SkyDive | 196854 | [196854-orqa-fpv-skydive.json](./196854-orqa-fpv-skydive.json) |
 | Orrb | 188916 | [188916-orrb.json](./188916-orrb.json) |
 | Orrery | 317811 | [317811-orrery.json](./317811-orrery.json) |
+| Orrin's Chessboard | 377758 | [377758-orrins-chessboard.json](./377758-orrins-chessboard.json) |
 | Orso | 390200 | [390200-orso.json](./390200-orso.json) |
 | Ortharion: The Last Battle | 193444 | [193444-ortharion-the-last-battle.json](./193444-ortharion-the-last-battle.json) |
 | Ortheo | 163197 | [163197-ortheo.json](./163197-ortheo.json) |
