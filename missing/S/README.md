@@ -12705,6 +12705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StereoPaint | 192425 | [192425-stereopaint.json](./192425-stereopaint.json) |
 | Stereophyta | 185004 | [185004-stereophyta.json](./185004-stereophyta.json) |
 | Stereoronpa | 389664 | [389664-stereoronpa.json](./389664-stereoronpa.json) |
+| Sterile | 354590 | [354590-sterile.json](./354590-sterile.json) |
 | Stern Pinball Arcade | 30288 | [30288-stern-pinball-arcade.json](./30288-stern-pinball-arcade.json) |
 | Stern Pinball Arcade: AC/DC | 161229 | [161229-stern-pinball-arcade-ac-dc.json](./161229-stern-pinball-arcade-ac-dc.json) |
 | Stern Pinball Arcade: Ghostbusters Premium | 161232 | [161232-stern-pinball-arcade-ghostbusters-premium.json](./161232-stern-pinball-arcade-ghostbusters-premium.json) |
@@ -17173,6 +17174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders | 372492 | [372492-synth-riders.json](./372492-synth-riders.json) |
 | Synth Riders: 80s Mixtape - Side A | 356903 | [356903-synth-riders-80s-mixtape-side-a.json](./356903-synth-riders-80s-mixtape-side-a.json) |
 | Synth Riders: A-ha - "Take On Me" | 298699 | [298699-synth-riders-a-ha-take-on-me.json](./298699-synth-riders-a-ha-take-on-me.json) |
+| Synth Riders: Artemas - "I Like the Way You Kiss Me" | 354554 | [354554-synth-riders-artemas-i-like-the-way-you-kiss-me.json](./354554-synth-riders-artemas-i-like-the-way-you-kiss-me.json) |
 | Synth Riders: Bad Religion - "21st Century (Digital Boy)" | 356085 | [356085-synth-riders-bad-religion-21st-century-digital-boy.json](./356085-synth-riders-bad-religion-21st-century-digital-boy.json) |
 | Synth Riders: Balduin, Wolfgang Lohr - "Magic Man" | 288233 | [288233-synth-riders-balduin-wolfgang-lohr-magic-man.json](./288233-synth-riders-balduin-wolfgang-lohr-magic-man.json) |
 | Synth Riders: Blur - "Song 2" | 352397 | [352397-synth-riders-blur-song-2.json](./352397-synth-riders-blur-song-2.json) |
@@ -17183,8 +17185,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: Charli xcx - "Apple" | 352399 | [352399-synth-riders-charli-xcx-apple.json](./352399-synth-riders-charli-xcx-apple.json) |
 | Synth Riders: Crypt of The NecroDancer Music Pack | 401744 | [401744-synth-riders-crypt-of-the-necrodancer-music-pack.json](./401744-synth-riders-crypt-of-the-necrodancer-music-pack.json) |
 | Synth Riders: Crypt of The NecroDancer Music Pack | 401745 | [401745-synth-riders-crypt-of-the-necrodancer-music-pack.json](./401745-synth-riders-crypt-of-the-necrodancer-music-pack.json) |
+| Synth Riders: Current Waves | 354558 | [354558-synth-riders-current-waves.json](./354558-synth-riders-current-waves.json) |
 | Synth Riders: Cut Capers - "Let's Start Again (Odd Chap Remix)" | 288234 | [288234-synth-riders-cut-capers-lets-start-again-odd-chap-remix.json](./288234-synth-riders-cut-capers-lets-start-again-odd-chap-remix.json) |
 | Synth Riders: Daryl Hall & John Oates - "Out of Touch" | 353389 | [353389-synth-riders-daryl-hall-and-john-oates-out-of-touch.json](./353389-synth-riders-daryl-hall-and-john-oates-out-of-touch.json) |
+| Synth Riders: David Guetta & OneRepublic - "I Don't Wanna Wait" | 354553 | [354553-synth-riders-david-guetta-and-onerepublic-i-dont-wanna-wait.json](./354553-synth-riders-david-guetta-and-onerepublic-i-dont-wanna-wait.json) |
 | Synth Riders: Devo - "Whip It" | 298700 | [298700-synth-riders-devo-whip-it.json](./298700-synth-riders-devo-whip-it.json) |
 | Synth Riders: Electro Swing Essentials | 356829 | [356829-synth-riders-electro-swing-essentials.json](./356829-synth-riders-electro-swing-essentials.json) |
 | Synth Riders: Electro Swing Essentials 2 | 356902 | [356902-synth-riders-electro-swing-essentials-2.json](./356902-synth-riders-electro-swing-essentials-2.json) |
@@ -17192,6 +17196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: Infected Mushroom - "Black Velvet" (feat. Ninet Tayeb) | 364550 | [364550-synth-riders-infected-mushroom-black-velvet-feat-ninet-tayeb.json](./364550-synth-riders-infected-mushroom-black-velvet-feat-ninet-tayeb.json) |
 | Synth Riders: Infected Mushroom Music Pack | 364551 | [364551-synth-riders-infected-mushroom-music-pack.json](./364551-synth-riders-infected-mushroom-music-pack.json) |
 | Synth Riders: INXS - "New Sensation" | 298701 | [298701-synth-riders-inxs-new-sensation.json](./298701-synth-riders-inxs-new-sensation.json) |
+| Synth Riders: Jack Harlow - "Lovin On Me" | 354555 | [354555-synth-riders-jack-harlow-lovin-on-me.json](./354555-synth-riders-jack-harlow-lovin-on-me.json) |
 | Synth Riders: Jamie Berry - "Guilty Pleasure" | 288238 | [288238-synth-riders-jamie-berry-guilty-pleasure.json](./288238-synth-riders-jamie-berry-guilty-pleasure.json) |
 | Synth Riders: Lindsey Stirling - "First Light" | 356173 | [356173-synth-riders-lindsey-stirling-first-light.json](./356173-synth-riders-lindsey-stirling-first-light.json) |
 | Synth Riders: Lindsey Stirling - "Mirage" | 356082 | [356082-synth-riders-lindsey-stirling-mirage.json](./356082-synth-riders-lindsey-stirling-mirage.json) |
