@@ -875,6 +875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underground Station | 313227 | [313227-underground-station.json](./313227-underground-station.json) |
 | Underground Waifus TCG | 273365 | [273365-underground-waifus-tcg.json](./273365-underground-waifus-tcg.json) |
 | Underground-Mining-Simulator 2011 | 53938 | [53938-underground-mining-simulator-2011.json](./53938-underground-mining-simulator-2011.json) |
+| Underground: Chapter 1 | 367555 | [367555-underground-chapter-1.json](./367555-underground-chapter-1.json) |
 | Undergrown | 244488 | [244488-undergrown.json](./244488-undergrown.json) |
 | Underhell | 121214 | [121214-underhell.json](./121214-underhell.json) |
 | Underhell | 144877 | [144877-underhell.json](./144877-underhell.json) |
@@ -1663,6 +1664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | URLIRL | 394837 | [394837-urlirl.json](./394837-urlirl.json) |
 | Urok | 319766 | [319766-urok.json](./319766-urok.json) |
 | Urotsukidouji | 123014 | [123014-urotsukidouji.json](./123014-urotsukidouji.json) |
+| Ursid | 367572 | [367572-ursid.json](./367572-ursid.json) |
 | Ursine Science | 260162 | [260162-ursine-science.json](./260162-ursine-science.json) |
 | Urtuk: The Desolation | 98073 | [98073-urtuk-the-desolation.json](./98073-urtuk-the-desolation.json) |
 | Uru: Ages Beyond Myst | 50395 | [50395-uru-ages-beyond-myst.json](./50395-uru-ages-beyond-myst.json) |
