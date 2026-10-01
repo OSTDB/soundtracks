@@ -8018,6 +8018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugged Out | 391880 | [391880-bugged-out.json](./391880-bugged-out.json) |
 | Bugger Off! | 278712 | [278712-bugger-off.json](./278712-bugger-off.json) |
 | Buggle Blast | 255721 | [255721-buggle-blast.json](./255721-buggle-blast.json) |
+| Buggos 2 | 342787 | [342787-buggos-2.json](./342787-buggos-2.json) |
 | Buggy Boogie | 66677 | [66677-buggy-boogie.json](./66677-buggy-boogie.json) |
 | Buggy Boy | 12728 | [12728-buggy-boy.json](./12728-buggy-boy.json) |
 | Buggy Game | 192890 | [192890-buggy-game.json](./192890-buggy-game.json) |
@@ -8497,6 +8498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BurntOut Capital | 317602 | [317602-burntout-capital.json](./317602-burntout-capital.json) |
 | Burokku Girls | 33525 | [33525-burokku-girls.json](./33525-burokku-girls.json) |
 | Burr Puzzle | 357978 | [357978-burr-puzzle.json](./357978-burr-puzzle.json) |
+| Burrilka | 342710 | [342710-burrilka.json](./342710-burrilka.json) |
 | Burrito Bison | 284172 | [284172-burrito-bison.json](./284172-burrito-bison.json) |
 | Burrito Bison: Launcha Libre | 80360 | [80360-burrito-bison-launcha-libre.json](./80360-burrito-bison-launcha-libre.json) |
 | Burrito Galaxy 65 | 61875 | [61875-burrito-galaxy-65.json](./61875-burrito-galaxy-65.json) |
