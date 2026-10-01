@@ -512,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jen Saves Ben | 223704 | [223704-jen-saves-ben.json](./223704-jen-saves-ben.json) |
 | Jendo: Origins | 161323 | [161323-jendo-origins.json](./161323-jendo-origins.json) |
 | Jenesis | 141115 | [141115-jenesis.json](./141115-jenesis.json) |
+| Jenga Cat | 336649 | [336649-jenga-cat.json](./336649-jenga-cat.json) |
 | Jenni's Dong has got it Goin' On: The Jenni Trilogy | 226854 | [226854-jennis-dong-has-got-it-goin-on-the-jenni-trilogy.json](./226854-jennis-dong-has-got-it-goin-on-the-jenni-trilogy.json) |
 | Jennifer | 141256 | [141256-jennifer.json](./141256-jennifer.json) |
 | Jennifer Capriati Tennis | 46205 | [46205-jennifer-capriati-tennis.json](./46205-jennifer-capriati-tennis.json) |
@@ -1713,6 +1714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Jammy | 242565 | [242565-jungle-jammy.json](./242565-jungle-jammy.json) |
 | Jungle Jim | 340781 | [340781-jungle-jim.json](./340781-jungle-jim.json) |
 | Jungle Jinx | 355563 | [355563-jungle-jinx.json](./355563-jungle-jinx.json) |
+| Jungle Jumperz | 336754 | [336754-jungle-jumperz.json](./336754-jungle-jumperz.json) |
 | Jungle Maths | 319585 | [319585-jungle-maths.json](./319585-jungle-maths.json) |
 | Jungle Max | 291568 | [291568-jungle-max.json](./291568-jungle-max.json) |
 | Jungle Monk | 78627 | [78627-jungle-monk.json](./78627-jungle-monk.json) |
