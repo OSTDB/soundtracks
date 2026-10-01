@@ -502,6 +502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultrapool | 380523 | [380523-ultrapool.json](./380523-ultrapool.json) |
 | Ultraquarium | 405020 | [405020-ultraquarium.json](./405020-ultraquarium.json) |
 | Ultrasecreto/Prólogo | 382239 | [382239-ultrasecreto-prologo.json](./382239-ultrasecreto-prologo.json) |
+| Ultrasound | 365244 | [365244-ultrasound.json](./365244-ultrasound.json) |
 | UltraStar | 142979 | [142979-ultrastar.json](./142979-ultrastar.json) |
 | UltraStar WorldParty | 138582 | [138582-ultrastar-worldparty.json](./138582-ultrastar-worldparty.json) |
 | Ultratap | 390219 | [390219-ultratap.json](./390219-ultratap.json) |
