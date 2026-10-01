@@ -649,6 +649,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eFootball 2024: Leo Messi Edition | 265241 | [265241-efootball-2024-leo-messi-edition.json](./265241-efootball-2024-leo-messi-edition.json) |
 | EFootball 2026 by Felix Pro | 395200 | [395200-efootball-2026-by-felix-pro.json](./395200-efootball-2026-by-felix-pro.json) |
 | eFootball PES 2020: Legend Edition | 119573 | [119573-efootball-pes-2020-legend-edition.json](./119573-efootball-pes-2020-legend-edition.json) |
+| eFootball: Lamine Yamal Edition 2026 | 361246 | [361246-efootball-lamine-yamal-edition-2026.json](./361246-efootball-lamine-yamal-edition-2026.json) |
+| eFootball: Lamine Yamal Edition 2026 - Deluxe | 361247 | [361247-efootball-lamine-yamal-edition-2026-deluxe.json](./361247-efootball-lamine-yamal-edition-2026-deluxe.json) |
+| eFootball: Leo Messi Edition 2026 | 361244 | [361244-efootball-leo-messi-edition-2026.json](./361244-efootball-leo-messi-edition-2026.json) |
+| eFootball: Leo Messi Edition 2026 - Deluxe | 361245 | [361245-efootball-leo-messi-edition-2026-deluxe.json](./361245-efootball-leo-messi-edition-2026-deluxe.json) |
 | eFootball: Mourinho Edition 2026 | 361243 | [361243-efootball-mourinho-edition-2026.json](./361243-efootball-mourinho-edition-2026.json) |
 | EFourGames | 362884 | [362884-efourgames.json](./362884-efourgames.json) |
 | Efpiyes | 234045 | [234045-efpiyes.json](./234045-efpiyes.json) |
@@ -1888,6 +1892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigmo 2 | 66614 | [66614-enigmo-2.json](./66614-enigmo-2.json) |
 | EnigmOn | 174328 | [174328-enigmon.json](./174328-enigmon.json) |
 | Enigmoon | 261257 | [261257-enigmoon.json](./261257-enigmoon.json) |
+| Enjaulados | 361285 | [361285-enjaulados.json](./361285-enjaulados.json) |
 | Enjoy Amoy & Sisters | 404874 | [404874-enjoy-amoy-and-sisters.json](./404874-enjoy-amoy-and-sisters.json) |
 | Enjoy Summer Maximum | 418860 | [418860-enjoy-summer-maximum.json](./418860-enjoy-summer-maximum.json) |
 | Enjoy: Futari no Ecchi na Joi to Eroero Kenshuu Taiken | 413846 | [413846-enjoy-futari-no-ecchi-na-joi-to-eroero-kenshuu-taiken.json](./413846-enjoy-futari-no-ecchi-na-joi-to-eroero-kenshuu-taiken.json) |
@@ -3132,6 +3137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everlasting Tower | 335661 | [335661-everlasting-tower.json](./335661-everlasting-tower.json) |
 | Everlasting: Per Aspera Ad Terra | 112313 | [112313-everlasting-per-aspera-ad-terra.json](./112313-everlasting-per-aspera-ad-terra.json) |
 | Everlasting: Tomorrow | 303086 | [303086-everlasting-tomorrow.json](./303086-everlasting-tomorrow.json) |
+| Everlen: The Volgran Torment | 361269 | [361269-everlen-the-volgran-torment.json](./361269-everlen-the-volgran-torment.json) |
 | Everless | 158073 | [158073-everless.json](./158073-everless.json) |
 | Everlife | 175808 | [175808-everlife.json](./175808-everlife.json) |
 | Everlife | 297506 | [297506-everlife.json](./297506-everlife.json) |
@@ -3683,6 +3689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exploring Phonics 1 for Beginners | 334109 | [334109-exploring-phonics-1-for-beginners.json](./334109-exploring-phonics-1-for-beginners.json) |
 | Explosion | 200466 | [200466-explosion.json](./200466-explosion.json) |
 | Explosionade DX | 146797 | [146797-explosionade-dx.json](./146797-explosionade-dx.json) |
+| Explosiovania | 361258 | [361258-explosiovania.json](./361258-explosiovania.json) |
 | Explosive Breaker | 39650 | [39650-explosive-breaker.json](./39650-explosive-breaker.json) |
 | Explosive Dinosaurs | 104792 | [104792-explosive-dinosaurs.json](./104792-explosive-dinosaurs.json) |
 | Explosive Dungeon | 179127 | [179127-explosive-dungeon.json](./179127-explosive-dungeon.json) |
@@ -3857,6 +3864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyes of the Night | 173231 | [173231-eyes-of-the-night.json](./173231-eyes-of-the-night.json) |
 | Eyes on Me | 385855 | [385855-eyes-on-me.json](./385855-eyes-on-me.json) |
 | Eyes On Me | 383577 | [383577-eyes-on-me.json](./383577-eyes-on-me.json) |
+| Eyes on Yuki | 361287 | [361287-eyes-on-yuki.json](./361287-eyes-on-yuki.json) |
 | Eyes That Hypnotise | 324878 | [324878-eyes-that-hypnotise.json](./324878-eyes-that-hypnotise.json) |
 | Eyeshield 21: AmeFoot Yarouze! Ya! Ha! | 58281 | [58281-eyeshield-21-amefoot-yarouze-ya-ha.json](./58281-eyeshield-21-amefoot-yarouze-ya-ha.json) |
 | Eyeshield 21: DevilBats DevilDays | 49582 | [49582-eyeshield-21-devilbats-devildays.json](./49582-eyeshield-21-devilbats-devildays.json) |
