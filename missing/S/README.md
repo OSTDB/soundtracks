@@ -3109,6 +3109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shade Silver 2 a Walk in the Darkness | 345008 | [345008-shade-silver-2-a-walk-in-the-darkness.json](./345008-shade-silver-2-a-walk-in-the-darkness.json) |
 | Shade: The Border Collie Flycatcher | 241623 | [241623-shade-the-border-collie-flycatcher.json](./241623-shade-the-border-collie-flycatcher.json) |
 | Shade: Wrath of Angels | 6041 | [6041-shade-wrath-of-angels.json](./6041-shade-wrath-of-angels.json) |
+| Shadereap | 376658 | [376658-shadereap.json](./376658-shadereap.json) |
 | Shades | 230255 | [230255-shades.json](./230255-shades.json) |
 | Shades | 319026 | [319026-shades.json](./319026-shades.json) |
 | Shades of Azure | 262431 | [262431-shades-of-azure.json](./262431-shades-of-azure.json) |
@@ -10372,6 +10373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Legends: Finding Balance - Collector's Edition | 338707 | [338707-spirit-legends-finding-balance-collectors-edition.json](./338707-spirit-legends-finding-balance-collectors-edition.json) |
 | Spirit Legends: Solar Eclipse - Collector's Edition | 338706 | [338706-spirit-legends-solar-eclipse-collectors-edition.json](./338706-spirit-legends-solar-eclipse-collectors-edition.json) |
 | Spirit Level | 322997 | [322997-spirit-level.json](./322997-spirit-level.json) |
+| Spirit Magician | 376663 | [376663-spirit-magician.json](./376663-spirit-magician.json) |
 | Spirit Mancer | 224556 | [224556-spirit-mancer.json](./224556-spirit-mancer.json) |
 | Spirit Night | 225563 | [225563-spirit-night.json](./225563-spirit-night.json) |
 | Spirit Oath | 118383 | [118383-spirit-oath.json](./118383-spirit-oath.json) |
@@ -14115,6 +14117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer's Gone: Season 1 | 199053 | [199053-summers-gone-season-1.json](./199053-summers-gone-season-1.json) |
 | Summerhouse | 261688 | [261688-summerhouse.json](./261688-summerhouse.json) |
 | Summertime Madness | 144935 | [144935-summertime-madness.json](./144935-summertime-madness.json) |
+| Summertime Sadness | 376635 | [376635-summertime-sadness.json](./376635-summertime-sadness.json) |
 | Summit | 163453 | [163453-summit.json](./163453-summit.json) |
 | Summit | 80508 | [80508-summit.json](./80508-summit.json) |
 | Summit in Space | 164905 | [164905-summit-in-space.json](./164905-summit-in-space.json) |
