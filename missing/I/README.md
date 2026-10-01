@@ -1557,6 +1557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incredible Dracula II: The Last Call - Collector's Edition | 29924 | [29924-incredible-dracula-ii-the-last-call-collectors-edition.json](./29924-incredible-dracula-ii-the-last-call-collectors-edition.json) |
 | Incredible Dracula III: Family Secret - Collector's Edition | 53225 | [53225-incredible-dracula-iii-family-secret-collectors-edition.json](./53225-incredible-dracula-iii-family-secret-collectors-edition.json) |
 | Incredible Dracula: Academy of Shadows | 340749 | [340749-incredible-dracula-academy-of-shadows.json](./340749-incredible-dracula-academy-of-shadows.json) |
+| Incredible Dracula: Academy of Shadows - Collector's Edition | 337242 | [337242-incredible-dracula-academy-of-shadows-collectors-edition.json](./337242-incredible-dracula-academy-of-shadows-collectors-edition.json) |
 | Incredible Dracula: Chasing Love | 53226 | [53226-incredible-dracula-chasing-love.json](./53226-incredible-dracula-chasing-love.json) |
 | Incredible Dracula: Dark Carnival | 274476 | [274476-incredible-dracula-dark-carnival.json](./274476-incredible-dracula-dark-carnival.json) |
 | Incredible Dracula: License to Relax - Collector's Edition | 341025 | [341025-incredible-dracula-license-to-relax-collectors-edition.json](./341025-incredible-dracula-license-to-relax-collectors-edition.json) |
@@ -3181,6 +3182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Doesn't Have to Be Like This | 299125 | [299125-it-doesnt-have-to-be-like-this.json](./299125-it-doesnt-have-to-be-like-this.json) |
 | It Girl | 338731 | [338731-it-girl.json](./338731-it-girl.json) |
 | It Goes Away in the End | 312920 | [312920-it-goes-away-in-the-end.json](./312920-it-goes-away-in-the-end.json) |
+| It Happened Here: A Storm is Brewing - Collector's Edition | 337247 | [337247-it-happened-here-a-storm-is-brewing-collectors-edition.json](./337247-it-happened-here-a-storm-is-brewing-collectors-edition.json) |
 | It Happened Here: Beacon of Truth - Collector's Edition | 270102 | [270102-it-happened-here-beacon-of-truth-collectors-edition.json](./270102-it-happened-here-beacon-of-truth-collectors-edition.json) |
 | It Happened Here: Streaming Lives | 266244 | [266244-it-happened-here-streaming-lives.json](./266244-it-happened-here-streaming-lives.json) |
 | It is a Good Knight to Die | 236917 | [236917-it-is-a-good-knight-to-die.json](./236917-it-is-a-good-knight-to-die.json) |
