@@ -3795,6 +3795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flock VR | 30108 | [30108-flock-vr.json](./30108-flock-vr.json) |
 | Flockland Island Crisis | 286594 | [286594-flockland-island-crisis.json](./286594-flockland-island-crisis.json) |
 | Flocks | 174193 | [174193-flocks.json](./174193-flocks.json) |
+| Flong: Directors Cut | 377746 | [377746-flong-directors-cut.json](./377746-flong-directors-cut.json) |
 | Flood | 12104 | [12104-flood.json](./12104-flood.json) |
 | Flood | 320187 | [320187-flood.json](./320187-flood.json) |
 | Flood Descendance | 355024 | [355024-flood-descendance.json](./355024-flood-descendance.json) |
