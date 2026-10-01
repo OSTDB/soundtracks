@@ -725,6 +725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Circle Guru-Guru: Stardust Adventure | 302653 | [302653-magical-circle-guru-guru-stardust-adventure.json](./302653-magical-circle-guru-guru-stardust-adventure.json) |
 | Magical Crystals | 39687 | [39687-magical-crystals.json](./39687-magical-crystals.json) |
 | Magical Date EX: Sotsugyou Kokuhaku Daisakusen | 69211 | [69211-magical-date-ex-sotsugyou-kokuhaku-daisakusen.json](./69211-magical-date-ex-sotsugyou-kokuhaku-daisakusen.json) |
+| Magical Date: Doki-doki Kokuhaku Daisakusen | 360723 | [360723-magical-date-doki-doki-kokuhaku-daisakusen.json](./360723-magical-date-doki-doki-kokuhaku-daisakusen.json) |
 | Magical Days: The Brats' Parade | 358326 | [358326-magical-days-the-brats-parade.json](./358326-magical-days-the-brats-parade.json) |
 | Magical Dice Kids | 130337 | [130337-magical-dice-kids.json](./130337-magical-dice-kids.json) |
 | Magical Dinosaur Tour | 42014 | [42014-magical-dinosaur-tour.json](./42014-magical-dinosaur-tour.json) |
@@ -1607,6 +1608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Blaster | 210043 | [210043-marble-blaster.json](./210043-marble-blaster.json) |
 | Marble Bloomers | 127962 | [127962-marble-bloomers.json](./127962-marble-bloomers.json) |
 | Marble Champions | 276739 | [276739-marble-champions.json](./276739-marble-champions.json) |
+| Marble Drop | 360629 | [360629-marble-drop.json](./360629-marble-drop.json) |
 | Marble Evolution | 419960 | [419960-marble-evolution.json](./419960-marble-evolution.json) |
 | Marble Jetpack | 26720 | [26720-marble-jetpack.json](./26720-marble-jetpack.json) |
 | Marble Knights | 141143 | [141143-marble-knights.json](./141143-marble-knights.json) |
@@ -2764,6 +2766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Munchers Deluxe | 57659 | [57659-math-munchers-deluxe.json](./57659-math-munchers-deluxe.json) |
 | Math Pals: Monster Mania | 420695 | [420695-math-pals-monster-mania.json](./420695-math-pals-monster-mania.json) |
 | Math Parkour | 241513 | [241513-math-parkour.json](./241513-math-parkour.json) |
+| Math Party Fezgugel | 360699 | [360699-math-party-fezgugel.json](./360699-math-party-fezgugel.json) |
 | Math Path | 391042 | [391042-math-path.json](./391042-math-path.json) |
 | Math Patrol: The Kleptoid Threat | 49475 | [49475-math-patrol-the-kleptoid-threat.json](./49475-math-patrol-the-kleptoid-threat.json) |
 | Math Patrol: The Venus Virus | 209543 | [209543-math-patrol-the-venus-virus.json](./209543-math-patrol-the-venus-virus.json) |
@@ -6443,6 +6446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission Mars Mobile | 213047 | [213047-mission-mars-mobile.json](./213047-mission-mars-mobile.json) |
 | Mission of Hero | 89424 | [89424-mission-of-hero.json](./89424-mission-of-hero.json) |
 | Mission Omega | 31183 | [31183-mission-omega.json](./31183-mission-omega.json) |
+| Mission on the Planet | 360725 | [360725-mission-on-the-planet.json](./360725-mission-on-the-planet.json) |
 | Mission Pom-Bär: The Snack'N Run Game | 330359 | [330359-mission-pom-bar-the-snackn-run-game.json](./330359-mission-pom-bar-the-snackn-run-game.json) |
 | Mission Ring Possible | 141901 | [141901-mission-ring-possible.json](./141901-mission-ring-possible.json) |
 | Mission Supernova | 93040 | [93040-mission-supernova.json](./93040-mission-supernova.json) |
@@ -9486,6 +9490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My First Trainz Set | 11019 | [11019-my-first-trainz-set.json](./11019-my-first-trainz-set.json) |
 | My Fish Farm | 212492 | [212492-my-fish-farm.json](./212492-my-fish-farm.json) |
 | My Fishing Boat | 259635 | [259635-my-fishing-boat.json](./259635-my-fishing-boat.json) |
+| My Fishing Desktop | 360724 | [360724-my-fishing-desktop.json](./360724-my-fishing-desktop.json) |
 | My Fitness | 92049 | [92049-my-fitness.json](./92049-my-fitness.json) |
 | My Fitness Coach | 78661 | [78661-my-fitness-coach.json](./78661-my-fitness-coach.json) |
 | My Flower | 266888 | [266888-my-flower.json](./266888-my-flower.json) |
