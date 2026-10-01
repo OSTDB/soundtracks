@@ -1646,6 +1646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marbles HD | 101520 | [101520-marbles-hd.json](./101520-marbles-hd.json) |
 | Marbles Rush | 153819 | [153819-marbles-rush.json](./153819-marbles-rush.json) |
 | Marblize | 31142 | [31142-marblize.json](./31142-marblize.json) |
+| Marblob | 366343 | [366343-marblob.json](./366343-marblob.json) |
 | Marby Baby Story | 143668 | [143668-marby-baby-story.json](./143668-marby-baby-story.json) |
 | Marc Ecko's Getting Up | 386410 | [386410-marc-eckos-getting-up.json](./386410-marc-eckos-getting-up.json) |
 | Marce | 383531 | [383531-marce.json](./383531-marce.json) |
@@ -8444,6 +8445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MouseBot: Escape from CatLab | 157532 | [157532-mousebot-escape-from-catlab.json](./157532-mousebot-escape-from-catlab.json) |
 | Mousebound | 139290 | [139290-mousebound.json](./139290-mousebound.json) |
 | Mousegun | 326723 | [326723-mousegun.json](./326723-mousegun.json) |
+| Mousegun | 366381 | [366381-mousegun.json](./366381-mousegun.json) |
 | Mousehole Bookshop | 286607 | [286607-mousehole-bookshop.json](./286607-mousehole-bookshop.json) |
 | Mouselash | 320407 | [320407-mouselash.json](./320407-mouselash.json) |
 | Mouseman: Point-and-Click RPG Adventure - Chapter 1 | 383353 | [383353-mouseman-point-and-click-rpg-adventure-chapter-1.json](./383353-mouseman-point-and-click-rpg-adventure-chapter-1.json) |
