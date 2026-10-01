@@ -511,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pan-Dimensional Conga Combat | 86253 | [86253-pan-dimensional-conga-combat.json](./86253-pan-dimensional-conga-combat.json) |
 | Pan·Gaia | 244220 | [244220-pan-gaia.json](./244220-pan-gaia.json) |
 | Pan'orama | 211935 | [211935-panorama.json](./211935-panorama.json) |
+| Pan's Permia | 346203 | [346203-pans-permia.json](./346203-pans-permia.json) |
 | Pana der Hejhog | 270217 | [270217-pana-der-hejhog.json](./270217-pana-der-hejhog.json) |
 | Panacle: Back to Wild | 190177 | [190177-panacle-back-to-wild.json](./190177-panacle-back-to-wild.json) |
 | Panama Canal | 156143 | [156143-panama-canal.json](./156143-panama-canal.json) |
@@ -1778,6 +1779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC Mus | 327335 | [327335-pc-mus.json](./327335-pc-mus.json) |
 | PC Pool | 86039 | [86039-pc-pool.json](./86039-pc-pool.json) |
 | PC Selección Española de Fútbol Eurocopa '96 | 84224 | [84224-pc-seleccion-espanola-de-futbol-eurocopa-96.json](./84224-pc-seleccion-espanola-de-futbol-eurocopa-96.json) |
+| PC Store Simulator | 346167 | [346167-pc-store-simulator.json](./346167-pc-store-simulator.json) |
 | PC Versus | 391571 | [391571-pc-versus.json](./391571-pc-versus.json) |
 | PC_001 | 170535 | [170535-pc-001.json](./170535-pc-001.json) |
 | PC-Man | 25148 | [25148-pc-man.json](./25148-pc-man.json) |
@@ -2332,6 +2334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PES 2018 Mobile | 240469 | [240469-pes-2018-mobile.json](./240469-pes-2018-mobile.json) |
 | Pesadelo: O Início | 187383 | [187383-pesadelo-o-inicio.json](./187383-pesadelo-o-inicio.json) |
 | Pesadelo: Regressão | 90611 | [90611-pesadelo-regressao.json](./90611-pesadelo-regressao.json) |
+| Peskit | 346189 | [346189-peskit.json](./346189-peskit.json) |
 | Pest Control in the Crypt | 410303 | [410303-pest-control-in-the-crypt.json](./410303-pest-control-in-the-crypt.json) |
 | Pest Patrol | 85815 | [85815-pest-patrol.json](./85815-pest-patrol.json) |
 | Pesten | 94531 | [94531-pesten.json](./94531-pesten.json) |
