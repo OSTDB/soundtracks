@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyrie Nemesis | 195622 | [195622-valkyrie-nemesis.json](./195622-valkyrie-nemesis.json) |
 | Valkyrie no Bouken: Toki no Kagi Densetsu | 48592 | [48592-valkyrie-no-bouken-toki-no-kagi-densetsu.json](./48592-valkyrie-no-bouken-toki-no-kagi-densetsu.json) |
 | Valkyrie Profile 2: Silmeria | 11793 | [11793-valkyrie-profile-2-silmeria.json](./11793-valkyrie-profile-2-silmeria.json) |
+| Valkyrie Rising: Hordes of Ragnarök | 361860 | [361860-valkyrie-rising-hordes-of-ragnarok.json](./361860-valkyrie-rising-hordes-of-ragnarok.json) |
 | Valkyrie Svia | 109002 | [109002-valkyrie-svia.json](./109002-valkyrie-svia.json) |
 | Valkyrie Tune: Synthesis of Souls | 381755 | [381755-valkyrie-tune-synthesis-of-souls.json](./381755-valkyrie-tune-synthesis-of-souls.json) |
 | Valkyrie: Dawn of Ragnarok | 230946 | [230946-valkyrie-dawn-of-ragnarok.json](./230946-valkyrie-dawn-of-ragnarok.json) |
@@ -281,6 +282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valor & Blade | 318544 | [318544-valor-and-blade.json](./318544-valor-and-blade.json) |
 | Valor & Victory: Kursk | 260381 | [260381-valor-and-victory-kursk.json](./260381-valor-and-victory-kursk.json) |
 | Valor & Victory: Shield of Cholm | 207788 | [207788-valor-and-victory-shield-of-cholm.json](./207788-valor-and-victory-shield-of-cholm.json) |
+| Valor Mortis | 361833 | [361833-valor-mortis.json](./361833-valor-mortis.json) |
 | Valor of Man | 326576 | [326576-valor-of-man.json](./326576-valor-of-man.json) |
 | Valor Time | 107911 | [107911-valor-time.json](./107911-valor-time.json) |
 | Valora Survival | 219521 | [219521-valora-survival.json](./219521-valora-survival.json) |
@@ -945,6 +947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victory | 95445 | [95445-victory.json](./95445-victory.json) |
 | Victory and Glory: Napoleon | 33552 | [33552-victory-and-glory-napoleon.json](./33552-victory-and-glory-napoleon.json) |
 | Victory At Sea Pacific | 104004 | [104004-victory-at-sea-pacific.json](./104004-victory-at-sea-pacific.json) |
+| Victory Banner | 361819 | [361819-victory-banner.json](./361819-victory-banner.json) |
 | Victory Day | 226742 | [226742-victory-day.json](./226742-victory-day.json) |
 | Victory Heat Rally | 142489 | [142489-victory-heat-rally.json](./142489-victory-heat-rally.json) |
 | Victory is Justice! | 117092 | [117092-victory-is-justice.json](./117092-victory-is-justice.json) |
