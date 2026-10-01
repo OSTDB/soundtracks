@@ -970,6 +970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keystone Library | 226428 | [226428-keystone-library.json](./226428-keystone-library.json) |
 | KeyWords | 72079 | [72079-keywords.json](./72079-keywords.json) |
 | Keziah's Realm | 329100 | [329100-keziahs-realm.json](./329100-keziahs-realm.json) |
+| KFC Kitchen | 334928 | [334928-kfc-kitchen.json](./334928-kfc-kitchen.json) |
 | KFC The Hard Way | 98551 | [98551-kfc-the-hard-way.json](./98551-kfc-the-hard-way.json) |
 | KFC: Match Out the Yummies | 378157 | [378157-kfc-match-out-the-yummies.json](./378157-kfc-match-out-the-yummies.json) |
 | KFZ | 219663 | [219663-kfz.json](./219663-kfz.json) |
@@ -1740,6 +1741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingsburg Serving the Crown | 205090 | [205090-kingsburg-serving-the-crown.json](./205090-kingsburg-serving-the-crown.json) |
 | Kingsland Online | 137551 | [137551-kingsland-online.json](./137551-kingsland-online.json) |
 | Kingslayer Tactics | 117065 | [117065-kingslayer-tactics.json](./117065-kingslayer-tactics.json) |
+| Kingslayers | 334935 | [334935-kingslayers.json](./334935-kingslayers.json) |
 | Kingsman: The Golden Circle | 54712 | [54712-kingsman-the-golden-circle.json](./54712-kingsman-the-golden-circle.json) |
 | Kingspray Graffiti | 26358 | [26358-kingspray-graffiti.json](./26358-kingspray-graffiti.json) |
 | Kingsvein | 243670 | [243670-kingsvein.json](./243670-kingsvein.json) |
