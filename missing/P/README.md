@@ -3554,6 +3554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pippin | 92542 | [92542-pippin.json](./92542-pippin.json) |
 | Pippin's Mysterious Garden | 258729 | [258729-pippins-mysterious-garden.json](./258729-pippins-mysterious-garden.json) |
 | Pippo's Quest | 251584 | [251584-pippos-quest.json](./251584-pippos-quest.json) |
+| Pips | 362932 | [362932-pips.json](./362932-pips.json) |
 | Pir-Crew | 176783 | [176783-pir-crew.json](./176783-pir-crew.json) |
 | Piradice | 176290 | [176290-piradice.json](./176290-piradice.json) |
 | Piraka Attack | 409761 | [409761-piraka-attack.json](./409761-piraka-attack.json) |
@@ -5596,6 +5597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PolyBoost | 172681 | [172681-polyboost.json](./172681-polyboost.json) |
 | Polybot-7 | 97849 | [97849-polybot-7.json](./97849-polybot-7.json) |
 | Polychoron | 151664 | [151664-polychoron.json](./151664-polychoron.json) |
+| Polychrome | 362975 | [362975-polychrome.json](./362975-polychrome.json) |
 | Polychromia | 177867 | [177867-polychromia.json](./177867-polychromia.json) |
 | Polycity | 404978 | [404978-polycity.json](./404978-polycity.json) |
 | Polycore | 369742 | [369742-polycore.json](./369742-polycore.json) |
