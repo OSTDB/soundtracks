@@ -899,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Randotura | 325694 | [325694-randotura.json](./325694-randotura.json) |
 | Randoville | 244214 | [244214-randoville.json](./244214-randoville.json) |
 | Randungeon | 326073 | [326073-randungeon.json](./326073-randungeon.json) |
+| RanDungeon | 338856 | [338856-randungeon.json](./338856-randungeon.json) |
 | Randy the Racoon | 345061 | [345061-randy-the-racoon.json](./345061-randy-the-racoon.json) |
 | Rangarok End Girls | 309357 | [309357-rangarok-end-girls.json](./309357-rangarok-end-girls.json) |
 | Range Ball | 104056 | [104056-range-ball.json](./104056-range-ball.json) |
@@ -3240,6 +3241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolution Ace | 17033 | [17033-revolution-ace.json](./17033-revolution-ace.json) |
 | Revolution Editions: Shadow & Steel | 361790 | [361790-revolution-editions-shadow-and-steel.json](./361790-revolution-editions-shadow-and-steel.json) |
 | Revolution Idle | 297876 | [297876-revolution-idle.json](./297876-revolution-idle.json) |
+| Revolution Kart DS | 338848 | [338848-revolution-kart-ds.json](./338848-revolution-kart-ds.json) |
 | Revolution Under Siege | 59501 | [59501-revolution-under-siege.json](./59501-revolution-under-siege.json) |
 | Revolution: The Spark | 143659 | [143659-revolution-the-spark.json](./143659-revolution-the-spark.json) |
 | Revolution: Virtual Playspace | 34829 | [34829-revolution-virtual-playspace.json](./34829-revolution-virtual-playspace.json) |
@@ -4138,6 +4140,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RLChess | 333189 | [333189-rlchess.json](./333189-rlchess.json) |
 | RLCraft | 203457 | [203457-rlcraft.json](./203457-rlcraft.json) |
 | RNFF: Running Naked in a Field of Flowers | 69544 | [69544-rnff-running-naked-in-a-field-of-flowers.json](./69544-rnff-running-naked-in-a-field-of-flowers.json) |
+| RNG Quest | 338865 | [338865-rng-quest.json](./338865-rng-quest.json) |
+| RNG Quest | 338866 | [338866-rng-quest.json](./338866-rng-quest.json) |
 | Ro Sham Bo Rush | 252142 | [252142-ro-sham-bo-rush.json](./252142-ro-sham-bo-rush.json) |
 | RO: Idle Poring | 74770 | [74770-ro-idle-poring.json](./74770-ro-idle-poring.json) |
 | Roach Hotel | 286121 | [286121-roach-hotel.json](./286121-roach-hotel.json) |
