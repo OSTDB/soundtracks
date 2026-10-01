@@ -405,6 +405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Light: Child of the Balance | 351795 | [351795-echoes-of-light-child-of-the-balance.json](./351795-echoes-of-light-child-of-the-balance.json) |
 | Echoes of Lyra | 418541 | [418541-echoes-of-lyra.json](./418541-echoes-of-lyra.json) |
 | Echoes of Magic | 194024 | [194024-echoes-of-magic.json](./194024-echoes-of-magic.json) |
+| Echoes of Mora | 361858 | [361858-echoes-of-mora.json](./361858-echoes-of-mora.json) |
 | Echoes of Mystralia | 314426 | [314426-echoes-of-mystralia.json](./314426-echoes-of-mystralia.json) |
 | Echoes of Nara | 348321 | [348321-echoes-of-nara.json](./348321-echoes-of-nara.json) |
 | Echoes of Nocturnal Chords | 284335 | [284335-echoes-of-nocturnal-chords.json](./284335-echoes-of-nocturnal-chords.json) |
@@ -726,6 +727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egglia Rebirth | 187474 | [187474-egglia-rebirth.json](./187474-egglia-rebirth.json) |
 | Egglia: Legend of the Redcap | 48018 | [48018-egglia-legend-of-the-redcap.json](./48018-egglia-legend-of-the-redcap.json) |
 | Egglia: Legend of the Redcap Offline | 107144 | [107144-egglia-legend-of-the-redcap-offline.json](./107144-egglia-legend-of-the-redcap-offline.json) |
+| Egglings | 361848 | [361848-egglings.json](./361848-egglings.json) |
 | Eggman | 309664 | [309664-eggman.json](./309664-eggman.json) |
 | Eggman no Kazuate Panic! | 261249 | [261249-eggman-no-kazuate-panic.json](./261249-eggman-no-kazuate-panic.json) |
 | Eggo | 358469 | [358469-eggo.json](./358469-eggo.json) |
@@ -1378,6 +1380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency Ambulance Simulator 2013 | 137549 | [137549-emergency-ambulance-simulator-2013.json](./137549-emergency-ambulance-simulator-2013.json) |
 | Emergency Call 112: The Fire Fighting Simulation 2 | 144936 | [144936-emergency-call-112-the-fire-fighting-simulation-2.json](./144936-emergency-call-112-the-fire-fighting-simulation-2.json) |
 | Emergency Call: The Attack Squad | 278494 | [278494-emergency-call-the-attack-squad.json](./278494-emergency-call-the-attack-squad.json) |
+| Emergency Call: The Firefighting Simulation 3 | 361828 | [361828-emergency-call-the-firefighting-simulation-3.json](./361828-emergency-call-the-firefighting-simulation-3.json) |
 | Emergency Crew 4: Call of the Ancestors | 360663 | [360663-emergency-crew-4-call-of-the-ancestors.json](./360663-emergency-crew-4-call-of-the-ancestors.json) |
 | Emergency Exit | 329160 | [329160-emergency-exit.json](./329160-emergency-exit.json) |
 | Emergency Fire Helicopter Simulator 3D | 108451 | [108451-emergency-fire-helicopter-simulator-3d.json](./108451-emergency-fire-helicopter-simulator-3d.json) |
