@@ -6003,6 +6003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portugal 1111: A Conquista de Soure | 94365 | [94365-portugal-1111-a-conquista-de-soure.json](./94365-portugal-1111-a-conquista-de-soure.json) |
 | Porzellanhaus | 367407 | [367407-porzellanhaus.json](./367407-porzellanhaus.json) |
 | Posable Heroes | 74362 | [74362-posable-heroes.json](./74362-posable-heroes.json) |
+| Pose Crush: Waifu Edition | 370271 | [370271-pose-crush-waifu-edition.json](./370271-pose-crush-waifu-edition.json) |
 | Poseidon | 301831 | [301831-poseidon.json](./301831-poseidon.json) |
 | Poseidon - Project Dark Sky | 51585 | [51585-poseidon-project-dark-sky.json](./51585-poseidon-project-dark-sky.json) |
 | Poseidon Kiugi: Bangchihyeong Aeksyeon RPG | 212855 | [212855-poseidon-kiugi-bangchihyeong-aeksyeon-rpg.json](./212855-poseidon-kiugi-bangchihyeong-aeksyeon-rpg.json) |
@@ -7778,6 +7779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychic Force Complete | 71790 | [71790-psychic-force-complete.json](./71790-psychic-force-complete.json) |
 | Psychic Investigation of Sakuragi Haru | 241385 | [241385-psychic-investigation-of-sakuragi-haru.json](./241385-psychic-investigation-of-sakuragi-haru.json) |
 | Psychic Storm | 280322 | [280322-psychic-storm.json](./280322-psychic-storm.json) |
+| Psychic Ward: Kill The Seven King Dragon | 370283 | [370283-psychic-ward-kill-the-seven-king-dragon.json](./370283-psychic-ward-kill-the-seven-king-dragon.json) |
 | Psycho | 179574 | [179574-psycho.json](./179574-psycho.json) |
 | Psycho | 378393 | [378393-psycho.json](./378393-psycho.json) |
 | Psycho Boy: Dasshutsu Game | 223968 | [223968-psycho-boy-dasshutsu-game.json](./223968-psycho-boy-dasshutsu-game.json) |
