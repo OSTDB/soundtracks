@@ -1098,6 +1098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raving Rabbids: Travel in Time | 5116 | [5116-raving-rabbids-travel-in-time.json](./5116-raving-rabbids-travel-in-time.json) |
 | Ravon | 142390 | [142390-ravon.json](./142390-ravon.json) |
 | Ravva and the Phantom Library | 236780 | [236780-ravva-and-the-phantom-library.json](./236780-ravva-and-the-phantom-library.json) |
+| Ravy Davy: Attack on Ambiguity | 373128 | [373128-ravy-davy-attack-on-ambiguity.json](./373128-ravy-davy-attack-on-ambiguity.json) |
 | Raw | 119581 | [119581-raw.json](./119581-raw.json) |
 | Raw Concrete | 369223 | [369223-raw-concrete.json](./369223-raw-concrete.json) |
 | Raw Data/Sprint Vector | 139965 | [139965-raw-data-sprint-vector.json](./139965-raw-data-sprint-vector.json) |
@@ -1667,6 +1668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reborn to Veer | 236244 | [236244-reborn-to-veer.json](./236244-reborn-to-veer.json) |
 | Reborn: Examine Again | 357812 | [357812-reborn-examine-again.json](./357812-reborn-examine-again.json) |
 | Reborn: New Life | 396590 | [396590-reborn-new-life.json](./396590-reborn-new-life.json) |
+| Reborn: The Evil Being | 373168 | [373168-reborn-the-evil-being.json](./373168-reborn-the-evil-being.json) |
 | ReBounce | 66368 | [66368-rebounce.json](./66368-rebounce.json) |
 | Rebound | 111188 | [111188-rebound.json](./111188-rebound.json) |
 | Rebound Ball | 127222 | [127222-rebound-ball.json](./127222-rebound-ball.json) |
