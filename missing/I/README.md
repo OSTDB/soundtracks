@@ -257,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Think I'm in Love with a Demon Prince | 268985 | [268985-i-think-im-in-love-with-a-demon-prince.json](./268985-i-think-im-in-love-with-a-demon-prince.json) |
 | I told you | 220041 | [220041-i-told-you.json](./220041-i-told-you.json) |
 | I Too Can Grow | 179058 | [179058-i-too-can-grow.json](./179058-i-too-can-grow.json) |
+| I Touched Tips with a Femboy | 385244 | [385244-i-touched-tips-with-a-femboy.json](./385244-i-touched-tips-with-a-femboy.json) |
 | I Traveled Back to 5 Days Before the Apocalypse | 379554 | [379554-i-traveled-back-to-5-days-before-the-apocalypse.json](./379554-i-traveled-back-to-5-days-before-the-apocalypse.json) |
 | I Walk Among Zombies Vol. 0 | 163740 | [163740-i-walk-among-zombies-vol-0.json](./163740-i-walk-among-zombies-vol-0.json) |
 | I Wanna Be the Cat | 76580 | [76580-i-wanna-be-the-cat.json](./76580-i-wanna-be-the-cat.json) |
@@ -2659,6 +2660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invizimals: The Lost Kingdom | 23357 | [23357-invizimals-the-lost-kingdom.json](./23357-invizimals-the-lost-kingdom.json) |
 | Invizimals: The Lost Tribes | 3001 | [3001-invizimals-the-lost-tribes.json](./3001-invizimals-the-lost-tribes.json) |
 | Invokers Tournament | 60781 | [60781-invokers-tournament.json](./60781-invokers-tournament.json) |
+| Inyoku Shoujo | 385275 | [385275-inyoku-shoujo.json](./385275-inyoku-shoujo.json) |
 | Inzipid | 74476 | [74476-inzipid.json](./74476-inzipid.json) |
 | Inzo | 99609 | [99609-inzo.json](./99609-inzo.json) |
 | iO | 6465 | [6465-io.json](./6465-io.json) |
