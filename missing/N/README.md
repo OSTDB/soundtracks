@@ -3588,6 +3588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nugatory | 399690 | [399690-nugatory.json](./399690-nugatory.json) |
 | Nugget & Penny: Adventure Machine | 121604 | [121604-nugget-and-penny-adventure-machine.json](./121604-nugget-and-penny-adventure-machine.json) |
 | Nuggets Slitherio | 383620 | [383620-nuggets-slitherio.json](./383620-nuggets-slitherio.json) |
+| Nuggle | 361270 | [361270-nuggle.json](./361270-nuggle.json) |
 | Nugimus | 97669 | [97669-nugimus.json](./97669-nugimus.json) |
 | NugQuest | 341488 | [341488-nugquest.json](./341488-nugquest.json) |
 | Nui | 138693 | [138693-nui.json](./138693-nui.json) |
