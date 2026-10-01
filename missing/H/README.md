@@ -5577,6 +5577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human Evolution Clicker Game: Rise of Mankind | 100889 | [100889-human-evolution-clicker-game-rise-of-mankind.json](./100889-human-evolution-clicker-game-rise-of-mankind.json) |
 | Human Farm | 133347 | [133347-human-farm.json](./133347-human-farm.json) |
 | Human Farm | 375935 | [375935-human-farm.json](./375935-human-farm.json) |
+| Human Heritage | 346177 | [346177-human-heritage.json](./346177-human-heritage.json) |
 | Human Host | 403164 | [403164-human-host.json](./403164-human-host.json) |
 | Human Milk Seller | 291467 | [291467-human-milk-seller.json](./291467-human-milk-seller.json) |
 | Human or Not? | 251534 | [251534-human-or-not.json](./251534-human-or-not.json) |
