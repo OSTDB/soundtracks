@@ -2242,6 +2242,40 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Heroes: 031 - Area Mod: Wastes of Warfare | 363471 | [363471-marvel-heroes-031-area-mod-wastes-of-warfare.json](./363471-marvel-heroes-031-area-mod-wastes-of-warfare.json) |
 | Marvel Heroes: 032 - Area Mod: Last Chance Bog | 363472 | [363472-marvel-heroes-032-area-mod-last-chance-bog.json](./363472-marvel-heroes-032-area-mod-last-chance-bog.json) |
 | Marvel Heroes: 033 - Area Mod: Tunnels of Terror | 363473 | [363473-marvel-heroes-033-area-mod-tunnels-of-terror.json](./363473-marvel-heroes-033-area-mod-tunnels-of-terror.json) |
+| Marvel Heroes: 037 - Atmosphere Mod: Witching Hour | 363477 | [363477-marvel-heroes-037-atmosphere-mod-witching-hour.json](./363477-marvel-heroes-037-atmosphere-mod-witching-hour.json) |
+| Marvel Heroes: 038 - Atmosphere Mod: Thunderhead | 363479 | [363479-marvel-heroes-038-atmosphere-mod-thunderhead.json](./363479-marvel-heroes-038-atmosphere-mod-thunderhead.json) |
+| Marvel Heroes: 039 - Atmosphere Mod: Thick Soup | 363480 | [363480-marvel-heroes-039-atmosphere-mod-thick-soup.json](./363480-marvel-heroes-039-atmosphere-mod-thick-soup.json) |
+| Marvel Heroes: 040 - Atmosphere Mod: Snow Squall | 363481 | [363481-marvel-heroes-040-atmosphere-mod-snow-squall.json](./363481-marvel-heroes-040-atmosphere-mod-snow-squall.json) |
+| Marvel Heroes: 041 - Atmosphere Mod: Heat Wave | 363482 | [363482-marvel-heroes-041-atmosphere-mod-heat-wave.json](./363482-marvel-heroes-041-atmosphere-mod-heat-wave.json) |
+| Marvel Heroes: 042 - Atmosphere Mod: Below Zero | 363483 | [363483-marvel-heroes-042-atmosphere-mod-below-zero.json](./363483-marvel-heroes-042-atmosphere-mod-below-zero.json) |
+| Marvel Heroes: 043 - Atmosphere Mod: Gale Force | 363484 | [363484-marvel-heroes-043-atmosphere-mod-gale-force.json](./363484-marvel-heroes-043-atmosphere-mod-gale-force.json) |
+| Marvel Heroes: 044 - Boss Mod: Doctor Doom | 363485 | [363485-marvel-heroes-044-boss-mod-doctor-doom.json](./363485-marvel-heroes-044-boss-mod-doctor-doom.json) |
+| Marvel Heroes: 045 - Boss Mod: Magneto | 363486 | [363486-marvel-heroes-045-boss-mod-magneto.json](./363486-marvel-heroes-045-boss-mod-magneto.json) |
+| Marvel Heroes: 046 - Boss Mod: Ultron | 363487 | [363487-marvel-heroes-046-boss-mod-ultron.json](./363487-marvel-heroes-046-boss-mod-ultron.json) |
+| Marvel Heroes: 047 - Boss Mod: Thanos | 363488 | [363488-marvel-heroes-047-boss-mod-thanos.json](./363488-marvel-heroes-047-boss-mod-thanos.json) |
+| Marvel Heroes: 048 - Boss Mod: Doctor Octopus | 363489 | [363489-marvel-heroes-048-boss-mod-doctor-octopus.json](./363489-marvel-heroes-048-boss-mod-doctor-octopus.json) |
+| Marvel Heroes: 049 - Boss Mod: Baron Zemo | 363490 | [363490-marvel-heroes-049-boss-mod-baron-zemo.json](./363490-marvel-heroes-049-boss-mod-baron-zemo.json) |
+| Marvel Heroes: 050 - Villain Mod: Venom | 363491 | [363491-marvel-heroes-050-villain-mod-venom.json](./363491-marvel-heroes-050-villain-mod-venom.json) |
+| Marvel Heroes: 051 - Villain Mod: Bullseye | 363492 | [363492-marvel-heroes-051-villain-mod-bullseye.json](./363492-marvel-heroes-051-villain-mod-bullseye.json) |
+| Marvel Heroes: 052 - Villain Mod: Hobgoblin | 363493 | [363493-marvel-heroes-052-villain-mod-hobgoblin.json](./363493-marvel-heroes-052-villain-mod-hobgoblin.json) |
+| Marvel Heroes: 053 - Villain Mod: Spiral | 363494 | [363494-marvel-heroes-053-villain-mod-spiral.json](./363494-marvel-heroes-053-villain-mod-spiral.json) |
+| Marvel Heroes: 054 - Villain Mod: Loki | 363495 | [363495-marvel-heroes-054-villain-mod-loki.json](./363495-marvel-heroes-054-villain-mod-loki.json) |
+| Marvel Heroes: 055 - Villain Mod: Lady Deathstrike | 363496 | [363496-marvel-heroes-055-villain-mod-lady-deathstrike.json](./363496-marvel-heroes-055-villain-mod-lady-deathstrike.json) |
+| Marvel Heroes: 056 - Villain Mod: Klaw | 363497 | [363497-marvel-heroes-056-villain-mod-klaw.json](./363497-marvel-heroes-056-villain-mod-klaw.json) |
+| Marvel Heroes: 057 - Villain Mod: Whirlwind | 363498 | [363498-marvel-heroes-057-villain-mod-whirlwind.json](./363498-marvel-heroes-057-villain-mod-whirlwind.json) |
+| Marvel Heroes: 058 - Villain Mod: Omega Red | 363499 | [363499-marvel-heroes-058-villain-mod-omega-red.json](./363499-marvel-heroes-058-villain-mod-omega-red.json) |
+| Marvel Heroes: 059 - Villain Mod: The Owl | 363500 | [363500-marvel-heroes-059-villain-mod-the-owl.json](./363500-marvel-heroes-059-villain-mod-the-owl.json) |
+| Marvel Heroes: 060 - Story Mod: Spider-Man Challenge | 363501 | [363501-marvel-heroes-060-story-mod-spider-man-challenge.json](./363501-marvel-heroes-060-story-mod-spider-man-challenge.json) |
+| Marvel Heroes: 061 - Story Mod: Captain America Challenge | 363502 | [363502-marvel-heroes-061-story-mod-captain-america-challenge.json](./363502-marvel-heroes-061-story-mod-captain-america-challenge.json) |
+| Marvel Heroes: 062 - Story Mod: Hulk Challenge | 363503 | [363503-marvel-heroes-062-story-mod-hulk-challenge.json](./363503-marvel-heroes-062-story-mod-hulk-challenge.json) |
+| Marvel Heroes: 063 - Story Mod: Thor Challenge | 363504 | [363504-marvel-heroes-063-story-mod-thor-challenge.json](./363504-marvel-heroes-063-story-mod-thor-challenge.json) |
+| Marvel Heroes: 064 - Story Mod: Wolverine Challenge | 363505 | [363505-marvel-heroes-064-story-mod-wolverine-challenge.json](./363505-marvel-heroes-064-story-mod-wolverine-challenge.json) |
+| Marvel Heroes: 065 - Story Mod: Human Torch Challenge | 363506 | [363506-marvel-heroes-065-story-mod-human-torch-challenge.json](./363506-marvel-heroes-065-story-mod-human-torch-challenge.json) |
+| Marvel Heroes: 066 - Story Mod: Iron Man Challenge | 363507 | [363507-marvel-heroes-066-story-mod-iron-man-challenge.json](./363507-marvel-heroes-066-story-mod-iron-man-challenge.json) |
+| Marvel Heroes: 067 - Story Mod: Storm Challenge | 363508 | [363508-marvel-heroes-067-story-mod-storm-challenge.json](./363508-marvel-heroes-067-story-mod-storm-challenge.json) |
+| Marvel Heroes: 068 - Story Mod: Elektra Challenge | 363509 | [363509-marvel-heroes-068-story-mod-elektra-challenge.json](./363509-marvel-heroes-068-story-mod-elektra-challenge.json) |
+| Marvel Heroes: 069 - Story Mod: Thing Challenge | 363510 | [363510-marvel-heroes-069-story-mod-thing-challenge.json](./363510-marvel-heroes-069-story-mod-thing-challenge.json) |
+| Marvel Heroes: 070 - Story Mod: Daredevil Challenge | 363511 | [363511-marvel-heroes-070-story-mod-daredevil-challenge.json](./363511-marvel-heroes-070-story-mod-daredevil-challenge.json) |
 | Marvel Kapow! | 92612 | [92612-marvel-kapow.json](./92612-marvel-kapow.json) |
 | Marvel Mystic Mayhem | 319970 | [319970-marvel-mystic-mayhem.json](./319970-marvel-mystic-mayhem.json) |
 | Marvel Pinball | 19651 | [19651-marvel-pinball.json](./19651-marvel-pinball.json) |
