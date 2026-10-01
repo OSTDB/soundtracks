@@ -753,6 +753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Infection 2 | 223015 | [223015-zombie-infection-2.json](./223015-zombie-infection-2.json) |
 | Zombie Invasion: FPS Defense | 269097 | [269097-zombie-invasion-fps-defense.json](./269097-zombie-invasion-fps-defense.json) |
 | Zombie Island | 127084 | [127084-zombie-island.json](./127084-zombie-island.json) |
+| Zombie Island | 372065 | [372065-zombie-island.json](./372065-zombie-island.json) |
 | Zombie Isle | 343474 | [343474-zombie-isle.json](./343474-zombie-isle.json) |
 | Zombie Kill | 373670 | [373670-zombie-kill.json](./373670-zombie-kill.json) |
 | Zombie Killer | 181776 | [181776-zombie-killer.json](./181776-zombie-killer.json) |
