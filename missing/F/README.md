@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Tale Fighters | 406081 | [406081-fairy-tale-fighters.json](./406081-fairy-tale-fighters.json) |
 | Fairy Tale Puzzles: Magic Objects | 111460 | [111460-fairy-tale-puzzles-magic-objects.json](./111460-fairy-tale-puzzles-magic-objects.json) |
 | Fairy Tale Puzzles: Magic Objects - Alice in Wonderland: The Tea Party | 238056 | [238056-fairy-tale-puzzles-magic-objects-alice-in-wonderland-the-tea-party.json](./238056-fairy-tale-puzzles-magic-objects-alice-in-wonderland-the-tea-party.json) |
+| Fairy Tale Tower Defense | 357835 | [357835-fairy-tale-tower-defense.json](./357835-fairy-tale-tower-defense.json) |
 | Fairy Tower | 213964 | [213964-fairy-tower.json](./213964-fairy-tower.json) |
 | Fairy Tower | 218159 | [218159-fairy-tower.json](./218159-fairy-tower.json) |
 | Fairy Tower Defense | 107812 | [107812-fairy-tower-defense.json](./107812-fairy-tower-defense.json) |
