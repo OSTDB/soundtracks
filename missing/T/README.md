@@ -1072,6 +1072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantalus | 377197 | [377197-tantalus.json](./377197-tantalus.json) |
 | Tantei Gakuen Q: Kioukan no Satsui | 359064 | [359064-tantei-gakuen-q-kioukan-no-satsui.json](./359064-tantei-gakuen-q-kioukan-no-satsui.json) |
 | Tantei ha Tsuki wo Miru | 343979 | [343979-tantei-ha-tsuki-wo-miru.json](./343979-tantei-ha-tsuki-wo-miru.json) |
+| Tantei Jinguji Saburo Oldies | 347278 | [347278-tantei-jinguji-saburo-oldies.json](./347278-tantei-jinguji-saburo-oldies.json) |
 | Tantei Jinguji Saburo Series No. 02: Yokohama-ko Renzoku Satsujin Jiken | 347247 | [347247-tantei-jinguji-saburo-series-no-02-yokohama-ko-renzoku-satsujin-jiken.json](./347247-tantei-jinguji-saburo-series-no-02-yokohama-ko-renzoku-satsujin-jiken.json) |
 | Tantei Jinguji Saburo Series No. 03: Kiken na Futari | 347248 | [347248-tantei-jinguji-saburo-series-no-03-kiken-na-futari.json](./347248-tantei-jinguji-saburo-series-no-03-kiken-na-futari.json) |
 | Tantei Jinguji Saburo Series No. 04: Toki no Sugiyuku Mama ni... | 347250 | [347250-tantei-jinguji-saburo-series-no-04-toki-no-sugiyuku-mama-ni.json](./347250-tantei-jinguji-saburo-series-no-04-toki-no-sugiyuku-mama-ni.json) |
@@ -1092,13 +1093,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantei Jinguji Saburo Series No. 19: Rensa Suru Noroi | 347269 | [347269-tantei-jinguji-saburo-series-no-19-rensa-suru-noroi.json](./347269-tantei-jinguji-saburo-series-no-19-rensa-suru-noroi.json) |
 | Tantei Jinguji Saburo Series No. 20: Naki Ko no Shouzou | 347271 | [347271-tantei-jinguji-saburo-series-no-20-naki-ko-no-shouzou.json](./347271-tantei-jinguji-saburo-series-no-20-naki-ko-no-shouzou.json) |
 | Tantei Jinguji Saburo Series No. 21: Oni-hime-den | 347272 | [347272-tantei-jinguji-saburo-series-no-21-oni-hime-den.json](./347272-tantei-jinguji-saburo-series-no-21-oni-hime-den.json) |
+| Tantei Jinguji Saburo Series No. 22: Ai Yue ni | 347273 | [347273-tantei-jinguji-saburo-series-no-22-ai-yue-ni.json](./347273-tantei-jinguji-saburo-series-no-22-ai-yue-ni.json) |
+| Tantei Jinguji Saburo Series No. 23: Wasurenagusa no Omoi | 347274 | [347274-tantei-jinguji-saburo-series-no-23-wasurenagusa-no-omoi.json](./347274-tantei-jinguji-saburo-series-no-23-wasurenagusa-no-omoi.json) |
+| Tantei Jinguji Saburo Series No. 24: Yurameku Hitotose | 347275 | [347275-tantei-jinguji-saburo-series-no-24-yurameku-hitotose.json](./347275-tantei-jinguji-saburo-series-no-24-yurameku-hitotose.json) |
+| Tantei Jinguji Saburo Series No. 25: Giwaku no Ace | 347276 | [347276-tantei-jinguji-saburo-series-no-25-giwaku-no-ace.json](./347276-tantei-jinguji-saburo-series-no-25-giwaku-no-ace.json) |
+| Tantei Jinguji Saburo: Akenai Yoru ni & Nazono-Jikenbo | 347292 | [347292-tantei-jinguji-saburo-akenai-yoru-ni-and-nazono-jikenbo.json](./347292-tantei-jinguji-saburo-akenai-yoru-ni-and-nazono-jikenbo.json) |
 | Tantei Jinguji Saburo: Fukushuu no Rondo | 151624 | [151624-tantei-jinguji-saburo-fukushuu-no-rondo.json](./151624-tantei-jinguji-saburo-fukushuu-no-rondo.json) |
 | Tantei Jinguji Saburo: Kadan no Itte & Nazono-Jikenbo | 67367 | [67367-tantei-jinguji-saburo-kadan-no-itte-and-nazono-jikenbo.json](./67367-tantei-jinguji-saburo-kadan-no-itte-and-nazono-jikenbo.json) |
 | Tantei Jinguji Saburo: Kiken na Futari - Kouhen | 41414 | [41414-tantei-jinguji-saburo-kiken-na-futari-kouhen.json](./41414-tantei-jinguji-saburo-kiken-na-futari-kouhen.json) |
 | Tantei Jinguji Saburo: Kiken na Futari - Zenpen | 41413 | [41413-tantei-jinguji-saburo-kiken-na-futari-zenpen.json](./41413-tantei-jinguji-saburo-kiken-na-futari-zenpen.json) |
+| Tantei Jinguji Saburo: Naki Ko no Shouzou & Nazono-Jikenbo | 347295 | [347295-tantei-jinguji-saburo-naki-ko-no-shouzou-and-nazono-jikenbo.json](./347295-tantei-jinguji-saburo-naki-ko-no-shouzou-and-nazono-jikenbo.json) |
 | Tantei Jinguji Saburo: Rensa Suru Noroi & Nazono-Jikenbo | 347328 | [347328-tantei-jinguji-saburo-rensa-suru-noroi-and-nazono-jikenbo.json](./347328-tantei-jinguji-saburo-rensa-suru-noroi-and-nazono-jikenbo.json) |
 | Tantei Jinguji Saburo: Shinjuku Chuuou Kouen Satsujin Jiken | 41412 | [41412-tantei-jinguji-saburo-shinjuku-chuuou-kouen-satsujin-jiken.json](./41412-tantei-jinguji-saburo-shinjuku-chuuou-kouen-satsujin-jiken.json) |
 | Tantei Jinguji Saburo: Toki no Sugiyuku Mama ni | 48883 | [48883-tantei-jinguji-saburo-toki-no-sugiyuku-mama-ni.json](./48883-tantei-jinguji-saburo-toki-no-sugiyuku-mama-ni.json) |
+| Tantei Jinguji Saburo: Tsubaki no Yukue & Nazono-Jikenbo | 347299 | [347299-tantei-jinguji-saburo-tsubaki-no-yukue-and-nazono-jikenbo.json](./347299-tantei-jinguji-saburo-tsubaki-no-yukue-and-nazono-jikenbo.json) |
 | Tantei Kibukawa Ryosuke Jiken Tan: The Masquerade Lullaby | 124070 | [124070-tantei-kibukawa-ryosuke-jiken-tan-the-masquerade-lullaby.json](./124070-tantei-kibukawa-ryosuke-jiken-tan-the-masquerade-lullaby.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan Vol. 7: Otonari Keiji no Sousa Memo | 297585 | [297585-tantei-kibukawa-ryousuke-jiken-tan-vol-7-otonari-keiji-no-sousa-memo.json](./297585-tantei-kibukawa-ryousuke-jiken-tan-vol-7-otonari-keiji-no-sousa-memo.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan: Eigou-kai Jiken | 299763 | [299763-tantei-kibukawa-ryousuke-jiken-tan-eigou-kai-jiken.json](./299763-tantei-kibukawa-ryousuke-jiken-tan-eigou-kai-jiken.json) |
@@ -2381,6 +2389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetra Project | 119537 | [119537-tetra-project.json](./119537-tetra-project.json) |
 | Tetra Troopers | 379371 | [379371-tetra-troopers.json](./379371-tetra-troopers.json) |
 | Tetra's Escape | 106530 | [106530-tetras-escape.json](./106530-tetras-escape.json) |
+| Tetra's Escape 2 | 347304 | [347304-tetras-escape-2.json](./347304-tetras-escape-2.json) |
 | Tetrachroma | 298637 | [298637-tetrachroma.json](./298637-tetrachroma.json) |
 | Tetracosm | 151585 | [151585-tetracosm.json](./151585-tetracosm.json) |
 | Tetrageddon | 143484 | [143484-tetrageddon.json](./143484-tetrageddon.json) |
@@ -3633,6 +3642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Complex IV | 286003 | [286003-the-complex-iv.json](./286003-the-complex-iv.json) |
 | The Complex Tragedy | 284923 | [284923-the-complex-tragedy.json](./284923-the-complex-tragedy.json) |
 | The Complex: Expedition | 223188 | [223188-the-complex-expedition.json](./223188-the-complex-expedition.json) |
+| The Compunaut & the Meaning of Life | 347294 | [347294-the-compunaut-and-the-meaning-of-life.json](./347294-the-compunaut-and-the-meaning-of-life.json) |
 | The Computer Spiele Museum's Museum Guide | 254510 | [254510-the-computer-spiele-museums-museum-guide.json](./254510-the-computer-spiele-museums-museum-guide.json) |
 | The Comyths | 397078 | [397078-the-comyths.json](./397078-the-comyths.json) |
 | The Con Simulator | 100559 | [100559-the-con-simulator.json](./100559-the-con-simulator.json) |
@@ -3687,6 +3697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Coven | 37114 | [37114-the-coven.json](./37114-the-coven.json) |
 | The Coveted Mirror | 25038 | [25038-the-coveted-mirror.json](./25038-the-coveted-mirror.json) |
 | The Cow Quiz | 217914 | [217914-the-cow-quiz.json](./217914-the-cow-quiz.json) |
+| The Cozy Garden of Forgotten Dreams | 347303 | [347303-the-cozy-garden-of-forgotten-dreams.json](./347303-the-cozy-garden-of-forgotten-dreams.json) |
 | The Crackpet Show: Happy Tree Friends Edition | 291998 | [291998-the-crackpet-show-happy-tree-friends-edition.json](./291998-the-crackpet-show-happy-tree-friends-edition.json) |
 | The Cracks of Fire | 12948 | [12948-the-cracks-of-fire.json](./12948-the-cracks-of-fire.json) |
 | The Cradle | 379018 | [379018-the-cradle.json](./379018-the-cradle.json) |
@@ -7106,6 +7117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Paper Arcade: Pong | 360677 | [360677-the-paper-arcade-pong.json](./360677-the-paper-arcade-pong.json) |
 | The Paper Loop | 344369 | [344369-the-paper-loop.json](./344369-the-paper-loop.json) |
 | The Paper Parable | 262398 | [262398-the-paper-parable.json](./262398-the-paper-parable.json) |
+| The Paper Time Travelers | 347302 | [347302-the-paper-time-travelers.json](./347302-the-paper-time-travelers.json) |
 | The Paper Trials | 264585 | [264585-the-paper-trials.json](./264585-the-paper-trials.json) |
 | The Paper Trials: Chapter 2 | 267427 | [267427-the-paper-trials-chapter-2.json](./267427-the-paper-trials-chapter-2.json) |
 | The Paracelsian Project | 244726 | [244726-the-paracelsian-project.json](./244726-the-paracelsian-project.json) |
@@ -14896,6 +14908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trimorta | 184086 | [184086-trimorta.json](./184086-trimorta.json) |
 | Trimurti Online | 265688 | [265688-trimurti-online.json](./265688-trimurti-online.json) |
 | Trine 3: The Artifacts of Power | 8255 | [8255-trine-3-the-artifacts-of-power.json](./8255-trine-3-the-artifacts-of-power.json) |
+| Trine 4: Definitive Edition | 347277 | [347277-trine-4-definitive-edition.json](./347277-trine-4-definitive-edition.json) |
 | Trine 4: The Nightmare Prince | 110846 | [110846-trine-4-the-nightmare-prince.json](./110846-trine-4-the-nightmare-prince.json) |
 | Trine Bundle | 142369 | [142369-trine-bundle.json](./142369-trine-bundle.json) |
 | Trine Series 1-3 | 125319 | [125319-trine-series-1-3.json](./125319-trine-series-1-3.json) |
@@ -15571,6 +15584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo | 18510 | [18510-turbo.json](./18510-turbo.json) |
 | Turbo 21 HD | 355009 | [355009-turbo-21-hd.json](./355009-turbo-21-hd.json) |
 | Turbo 84 | 239344 | [239344-turbo-84.json](./239344-turbo-84.json) |
+| Turbo Balls | 347208 | [347208-turbo-balls.json](./347208-turbo-balls.json) |
 | Turbo Booster | 265653 | [265653-turbo-booster.json](./265653-turbo-booster.json) |
 | Turbo Bullets | 311822 | [311822-turbo-bullets.json](./311822-turbo-bullets.json) |
 | Turbo Cat Fight | 223401 | [223401-turbo-cat-fight.json](./223401-turbo-cat-fight.json) |
