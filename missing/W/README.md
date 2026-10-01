@@ -434,6 +434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War is Heck Collection | 53883 | [53883-war-is-heck-collection.json](./53883-war-is-heck-collection.json) |
 | War Islands | 133376 | [133376-war-islands.json](./133376-war-islands.json) |
 | War Land TD | 414508 | [414508-war-land-td.json](./414508-war-land-td.json) |
+| War Lands | 338400 | [338400-war-lands.json](./338400-war-lands.json) |
 | War Lords | 323323 | [323323-war-lords.json](./323323-war-lords.json) |
 | War Lords | 377155 | [377155-war-lords.json](./377155-war-lords.json) |
 | War Machine | 93015 | [93015-war-machine.json](./93015-war-machine.json) |
@@ -3104,6 +3105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WitchSwitch | 57181 | [57181-witchswitch.json](./57181-witchswitch.json) |
 | Witchtastic | 135787 | [135787-witchtastic.json](./135787-witchtastic.json) |
 | Witchworker | 405611 | [405611-witchworker.json](./405611-witchworker.json) |
+| Witchy Business | 338315 | [338315-witchy-business.json](./338315-witchy-business.json) |
 | Witchy Wonderland | 344348 | [344348-witchy-wonderland.json](./344348-witchy-wonderland.json) |
 | Witchy Woo | 379902 | [379902-witchy-woo.json](./379902-witchy-woo.json) |
 | Witchydoku | 419862 | [419862-witchydoku.json](./419862-witchydoku.json) |
@@ -3273,6 +3275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WizMo's Workshop: Dragons of Frozzbokk | 94577 | [94577-wizmos-workshop-dragons-of-frozzbokk.json](./94577-wizmos-workshop-dragons-of-frozzbokk.json) |
 | Wiznwar Pinball Bundle | 381804 | [381804-wiznwar-pinball-bundle.json](./381804-wiznwar-pinball-bundle.json) |
 | Wizordum | 216197 | [216197-wizordum.json](./216197-wizordum.json) |
+| Wizschool: Ancient Book of Magic | 338347 | [338347-wizschool-ancient-book-of-magic.json](./338347-wizschool-ancient-book-of-magic.json) |
 | Wiztern | 194298 | [194298-wiztern.json](./194298-wiztern.json) |
 | Wiztyle | 370841 | [370841-wiztyle.json](./370841-wiztyle.json) |
 | WizUp! | 290917 | [290917-wizup.json](./290917-wizup.json) |
@@ -3676,6 +3679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Tracky | 249728 | [249728-word-tracky.json](./249728-word-tracky.json) |
 | Word Trails | 305339 | [305339-word-trails.json](./305339-word-trails.json) |
 | Word Training Camp | 130929 | [130929-word-training-camp.json](./130929-word-training-camp.json) |
+| Word Tuah | 338303 | [338303-word-tuah.json](./338303-word-tuah.json) |
 | Word U | 104600 | [104600-word-u.json](./104600-word-u.json) |
 | Word Warp | 377139 | [377139-word-warp.json](./377139-word-warp.json) |
 | Word Warp: Animal Edition | 396222 | [396222-word-warp-animal-edition.json](./396222-word-warp-animal-edition.json) |
