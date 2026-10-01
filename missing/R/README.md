@@ -1014,6 +1014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rat's Contracts | 357262 | [357262-rats-contracts.json](./357262-rats-contracts.json) |
 | Rat's Lair | 356766 | [356766-rats-lair.json](./356766-rats-lair.json) |
 | Ratano | 269853 | [269853-ratano.json](./269853-ratano.json) |
+| Ratatata | 367546 | [367546-ratatata.json](./367546-ratatata.json) |
 | Ratatouille | 210731 | [210731-ratatouille.json](./210731-ratatouille.json) |
 | Ratatouille | 281842 | [281842-ratatouille.json](./281842-ratatouille.json) |
 | Ratatouille | 281843 | [281843-ratatouille.json](./281843-ratatouille.json) |
@@ -2091,6 +2092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReDraft: The Fantasy Football Simulator | 414361 | [414361-redraft-the-fantasy-football-simulator.json](./414361-redraft-the-fantasy-football-simulator.json) |
 | ReDrawn: The Painted Tower | 188035 | [188035-redrawn-the-painted-tower.json](./188035-redrawn-the-painted-tower.json) |
 | Redrock | 270721 | [270721-redrock.json](./270721-redrock.json) |
+| Redroom | 367532 | [367532-redroom.json](./367532-redroom.json) |
 | ReDrop | 347773 | [347773-redrop.json](./347773-redrop.json) |
 | Redshift VR | 111067 | [111067-redshift-vr.json](./111067-redshift-vr.json) |
 | Redshirt | 9220 | [9220-redshirt.json](./9220-redshirt.json) |
