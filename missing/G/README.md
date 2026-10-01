@@ -576,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Boy Camera Memory | 328594 | [328594-game-boy-camera-memory.json](./328594-game-boy-camera-memory.json) |
 | Game Boy Camera: Gold Zelda Edition | 228549 | [228549-game-boy-camera-gold-zelda-edition.json](./228549-game-boy-camera-gold-zelda-edition.json) |
 | Game Builder | 119578 | [119578-game-builder.json](./119578-game-builder.json) |
+| Game Builder | 349992 | [349992-game-builder.json](./349992-game-builder.json) |
 | Game Builder Garage | 146762 | [146762-game-builder-garage.json](./146762-game-builder-garage.json) |
 | Game Cafe Escape | 261881 | [261881-game-cafe-escape.json](./261881-game-cafe-escape.json) |
 | Game Center Club | 197636 | [197636-game-center-club.json](./197636-game-center-club.json) |
@@ -5294,6 +5295,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gutz | 13863 | [13863-gutz.json](./13863-gutz.json) |
 | Guucho de Park: Theme Park Monogatari | 410438 | [410438-guucho-de-park-theme-park-monogatari.json](./410438-guucho-de-park-theme-park-monogatari.json) |
 | Guuguuthropus | 143656 | [143656-guuguuthropus.json](./143656-guuguuthropus.json) |
+| Guus is Jarig | 350016 | [350016-guus-is-jarig.json](./350016-guus-is-jarig.json) |
+| Guus Winterpret | 350015 | [350015-guus-winterpret.json](./350015-guus-winterpret.json) |
 | Guwange Ruga Daioujou XII Kizuna Down | 377699 | [377699-guwange-ruga-daioujou-xii-kizuna-down.json](./377699-guwange-ruga-daioujou-xii-kizuna-down.json) |
 | Guy Spy and the Crystals of Armageddon | 12130 | [12130-guy-spy-and-the-crystals-of-armageddon.json](./12130-guy-spy-and-the-crystals-of-armageddon.json) |
 | Guy vs. The Wicked and Nefarious Land | 62413 | [62413-guy-vs-the-wicked-and-nefarious-land.json](./62413-guy-vs-the-wicked-and-nefarious-land.json) |
