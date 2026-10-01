@@ -1037,6 +1037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kid Icarus | 279751 | [279751-kid-icarus.json](./279751-kid-icarus.json) |
 | Kid Icarus | 3663 | [3663-kid-icarus.json](./3663-kid-icarus.json) |
 | Kid Icarus Enlightenment | 404256 | [404256-kid-icarus-enlightenment.json](./404256-kid-icarus-enlightenment.json) |
+| Kid Icarus SNES Port | 377221 | [377221-kid-icarus-snes-port.json](./377221-kid-icarus-snes-port.json) |
 | Kid Icarus: Of Myths and Monsters | 3664 | [3664-kid-icarus-of-myths-and-monsters.json](./3664-kid-icarus-of-myths-and-monsters.json) |
 | Kid Klown in Crazy Chase | 6349 | [6349-kid-klown-in-crazy-chase.json](./6349-kid-klown-in-crazy-chase.json) |
 | Kid Klown in Crazy Chase 2: Love Love Hani Soudatsusen | 64508 | [64508-kid-klown-in-crazy-chase-2-love-love-hani-soudatsusen.json](./64508-kid-klown-in-crazy-chase-2-love-love-hani-soudatsusen.json) |
