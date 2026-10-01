@@ -2268,6 +2268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deck of Souls | 252356 | [252356-deck-of-souls.json](./252356-deck-of-souls.json) |
 | Deck of Stabs | 346745 | [346745-deck-of-stabs.json](./346745-deck-of-stabs.json) |
 | Deck Remover | 295535 | [295535-deck-remover.json](./295535-deck-remover.json) |
+| Deck the Halls, Gieves | 371403 | [371403-deck-the-halls-gieves.json](./371403-deck-the-halls-gieves.json) |
 | Deck the Underhalls | 326803 | [326803-deck-the-underhalls.json](./326803-deck-the-underhalls.json) |
 | Deck Warlords | 110304 | [110304-deck-warlords.json](./110304-deck-warlords.json) |
 | Deck'n'Bag | 402362 | [402362-decknbag.json](./402362-decknbag.json) |
@@ -2622,6 +2623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dehydration | 374723 | [374723-dehydration.json](./374723-dehydration.json) |
 | Deicide 3: Distorted Existence | 194293 | [194293-deicide-3-distorted-existence.json](./194293-deicide-3-distorted-existence.json) |
 | Deified | 381183 | [381183-deified.json](./381183-deified.json) |
+| Deiity | 371367 | [371367-deiity.json](./371367-deiity.json) |
 | Deiland | 74531 | [74531-deiland.json](./74531-deiland.json) |
 | Deimos Hotel | 382280 | [382280-deimos-hotel.json](./382280-deimos-hotel.json) |
 | Deios II: Deidia | 26366 | [26366-deios-ii-deidia.json](./26366-deios-ii-deidia.json) |
@@ -2948,6 +2950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demonic Crusade | 298896 | [298896-demonic-crusade.json](./298896-demonic-crusade.json) |
 | Demonic Defence 3 | 380695 | [380695-demonic-defence-3.json](./380695-demonic-defence-3.json) |
 | Demonic Gauntlet | 403120 | [403120-demonic-gauntlet.json](./403120-demonic-gauntlet.json) |
+| Demonic Kiss | 371388 | [371388-demonic-kiss.json](./371388-demonic-kiss.json) |
 | Demonic Labyrinth | 237074 | [237074-demonic-labyrinth.json](./237074-demonic-labyrinth.json) |
 | Demonic Libido | 262427 | [262427-demonic-libido.json](./262427-demonic-libido.json) |
 | Demonk | 347239 | [347239-demonk.json](./347239-demonk.json) |
@@ -4514,6 +4517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirty Little Puzzle | 416067 | [416067-dirty-little-puzzle.json](./416067-dirty-little-puzzle.json) |
 | Dirty Little Secrets | 313891 | [313891-dirty-little-secrets.json](./313891-dirty-little-secrets.json) |
 | Dirty Love | 303481 | [303481-dirty-love.json](./303481-dirty-love.json) |
+| Dirty Piano Lessons | 371387 | [371387-dirty-piano-lessons.json](./371387-dirty-piano-lessons.json) |
 | Dirty Rotten Bounders | 285023 | [285023-dirty-rotten-bounders.json](./285023-dirty-rotten-bounders.json) |
 | Dirty Texts: Are You Sure? | 263221 | [263221-dirty-texts-are-you-sure.json](./263221-dirty-texts-are-you-sure.json) |
 | Dirty Vampires: An RPG Tower Defence Adventure | 241297 | [241297-dirty-vampires-an-rpg-tower-defence-adventure.json](./241297-dirty-vampires-an-rpg-tower-defence-adventure.json) |
@@ -7377,6 +7381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Tower | 357462 | [357462-dream-tower.json](./357462-dream-tower.json) |
 | Dream Track Nation | 92482 | [92482-dream-track-nation.json](./92482-dream-track-nation.json) |
 | Dream Travel Agency! | 197244 | [197244-dream-travel-agency.json](./197244-dream-travel-agency.json) |
+| Dream Trials | 371412 | [371412-dream-trials.json](./371412-dream-trials.json) |
 | Dream TV | 93573 | [93573-dream-tv.json](./93573-dream-tv.json) |
 | Dream Undercity | 248065 | [248065-dream-undercity.json](./248065-dream-undercity.json) |
 | Dream Univrse | 30784 | [30784-dream-univrse.json](./30784-dream-univrse.json) |
@@ -8147,11 +8152,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke It's Zero Hour | 270656 | [270656-duke-its-zero-hour.json](./270656-duke-its-zero-hour.json) |
 | Duke Nukem 1+2 | 137548 | [137548-duke-nukem-1-2.json](./137548-duke-nukem-1-2.json) |
 | Duke Nukem 3D | 262683 | [262683-duke-nukem-3d.json](./262683-duke-nukem-3d.json) |
+| Duke Nukem 3D: High Resolution Pack | 371392 | [371392-duke-nukem-3d-high-resolution-pack.json](./371392-duke-nukem-3d-high-resolution-pack.json) |
 | Duke Nukem 3D: Kill-A-Ton Collection | 19730 | [19730-duke-nukem-3d-kill-a-ton-collection.json](./19730-duke-nukem-3d-kill-a-ton-collection.json) |
 | Duke Nukem Forever | 490 | [490-duke-nukem-forever.json](./490-duke-nukem-forever.json) |
 | Duke Nukem Forever 2013 | 153446 | [153446-duke-nukem-forever-2013.json](./153446-duke-nukem-forever-2013.json) |
 | Duke Nukem Forever Collection | 335681 | [335681-duke-nukem-forever-collection.json](./335681-duke-nukem-forever-collection.json) |
 | Duke Nukem Forever: Enhanced | 297232 | [297232-duke-nukem-forever-enhanced.json](./297232-duke-nukem-forever-enhanced.json) |
+| Duke Nukem Forever: Reimposition | 371400 | [371400-duke-nukem-forever-reimposition.json](./371400-duke-nukem-forever-reimposition.json) |
 | Duke Nukem Mobile | 23557 | [23557-duke-nukem-mobile.json](./23557-duke-nukem-mobile.json) |
 | Duke Nukem Trilogy: Chain Reaction | 69326 | [69326-duke-nukem-trilogy-chain-reaction.json](./69326-duke-nukem-trilogy-chain-reaction.json) |
 | Duke Nukem Trilogy: Proving Grounds | 69263 | [69263-duke-nukem-trilogy-proving-grounds.json](./69263-duke-nukem-trilogy-proving-grounds.json) |
