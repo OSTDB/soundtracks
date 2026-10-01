@@ -500,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taking Root: Academic Version | 270089 | [270089-taking-root-academic-version.json](./270089-taking-root-academic-version.json) |
 | Taking Today Off | 384156 | [384156-taking-today-off.json](./384156-taking-today-off.json) |
 | Takishawa is Dead | 242655 | [242655-takishawa-is-dead.json](./242655-takishawa-is-dead.json) |
+| Takkyuubin | 345629 | [345629-takkyuubin.json](./345629-takkyuubin.json) |
 | Tako no Himitsu: Ocean of Secrets | 250031 | [250031-tako-no-himitsu-ocean-of-secrets.json](./250031-tako-no-himitsu-ocean-of-secrets.json) |
 | Tako no Marine | 107647 | [107647-tako-no-marine.json](./107647-tako-no-marine.json) |
 | Takorita Meets Fries | 158181 | [158181-takorita-meets-fries.json](./158181-takorita-meets-fries.json) |
@@ -6145,6 +6146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Breath of the Wild Randomizer | 240878 | [240878-the-legend-of-zelda-breath-of-the-wild-randomizer.json](./240878-the-legend-of-zelda-breath-of-the-wild-randomizer.json) |
 | The Legend of Zelda: Child Quest | 346598 | [346598-the-legend-of-zelda-child-quest.json](./346598-the-legend-of-zelda-child-quest.json) |
 | The Legend of Zelda: Chiming Bells | 323273 | [323273-the-legend-of-zelda-chiming-bells.json](./323273-the-legend-of-zelda-chiming-bells.json) |
+| The Legend of Zelda: Demon's Quest | 345626 | [345626-the-legend-of-zelda-demons-quest.json](./345626-the-legend-of-zelda-demons-quest.json) |
 | The Legend of Zelda: Echoes of Aurelia | 323202 | [323202-the-legend-of-zelda-echoes-of-aurelia.json](./323202-the-legend-of-zelda-echoes-of-aurelia.json) |
 | The Legend of Zelda: Echoes of Wisdom | 306149 | [306149-the-legend-of-zelda-echoes-of-wisdom.json](./306149-the-legend-of-zelda-echoes-of-wisdom.json) |
 | The Legend of Zelda: Four Swords | 163572 | [163572-the-legend-of-zelda-four-swords.json](./163572-the-legend-of-zelda-four-swords.json) |
