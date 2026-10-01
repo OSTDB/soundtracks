@@ -6861,6 +6861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Land | 145571 | [145571-smash-land.json](./145571-smash-land.json) |
 | Smash Legends | 138592 | [138592-smash-legends.json](./138592-smash-legends.json) |
 | Smash MAGA! Trump Zombie Apocalypse | 168336 | [168336-smash-maga-trump-zombie-apocalypse.json](./168336-smash-maga-trump-zombie-apocalypse.json) |
+| Smash Match | 340990 | [340990-smash-match.json](./340990-smash-match.json) |
 | Smash Mobs | 51551 | [51551-smash-mobs.json](./51551-smash-mobs.json) |
 | Smash Monkeys | 142850 | [142850-smash-monkeys.json](./142850-smash-monkeys.json) |
 | Smash N' Crash | 367455 | [367455-smash-n-crash.json](./367455-smash-n-crash.json) |
