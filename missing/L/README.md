@@ -729,6 +729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Walpurgis | 255051 | [255051-last-walpurgis.json](./255051-last-walpurgis.json) |
 | Last War | 285070 | [285070-last-war.json](./285070-last-war.json) |
 | Last War 2044 | 89406 | [89406-last-war-2044.json](./89406-last-war-2044.json) |
+| Last Watchtower | 376669 | [376669-last-watchtower.json](./376669-last-watchtower.json) |
 | Last Week | 123003 | [123003-last-week.json](./123003-last-week.json) |
 | Last Week of a King | 288227 | [288227-last-week-of-a-king.json](./288227-last-week-of-a-king.json) |
 | Last Wish | 111074 | [111074-last-wish.json](./111074-last-wish.json) |
@@ -2005,6 +2006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liar Liar 2 | 124677 | [124677-liar-liar-2.json](./124677-liar-liar-2.json) |
 | Liar Liar 2 | 303246 | [303246-liar-liar-2.json](./303246-liar-liar-2.json) |
 | Liar Moon Shangri-La | 209478 | [209478-liar-moon-shangri-la.json](./209478-liar-moon-shangri-la.json) |
+| Liar Notes | 376634 | [376634-liar-notes.json](./376634-liar-notes.json) |
 | Liar Trick: Psychological Crime Mystery | 163961 | [163961-liar-trick-psychological-crime-mystery.json](./163961-liar-trick-psychological-crime-mystery.json) |
 | Liar: Legend of the Sword | 65223 | [65223-liar-legend-of-the-sword.json](./65223-liar-legend-of-the-sword.json) |
 | Liar: Legend of the Sword 2 | 65222 | [65222-liar-legend-of-the-sword-2.json](./65222-liar-legend-of-the-sword-2.json) |
@@ -2144,6 +2146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life of Snow Wolf | 246981 | [246981-life-of-snow-wolf.json](./246981-life-of-snow-wolf.json) |
 | Life of Tabayama | 344557 | [344557-life-of-tabayama.json](./344557-life-of-tabayama.json) |
 | Life on a Pizza | 164880 | [164880-life-on-a-pizza.json](./164880-life-on-a-pizza.json) |
+| Life Save Service | 376677 | [376677-life-save-service.json](./376677-life-save-service.json) |
 | Life Saver | 247989 | [247989-life-saver.json](./247989-life-saver.json) |
 | Life Sim | 404409 | [404409-life-sim.json](./404409-life-sim.json) |
 | Life Sim | 90515 | [90515-life-sim.json](./90515-life-sim.json) |
