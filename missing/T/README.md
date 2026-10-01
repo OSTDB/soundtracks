@@ -1543,6 +1543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tears of a Prophet | 174203 | [174203-tears-of-a-prophet.json](./174203-tears-of-a-prophet.json) |
 | Tears of Adria | 268226 | [268226-tears-of-adria.json](./268226-tears-of-adria.json) |
 | Tears of Magic | 224574 | [224574-tears-of-magic.json](./224574-tears-of-magic.json) |
+| Tears of the Maker | 349443 | [349443-tears-of-the-maker.json](./349443-tears-of-the-maker.json) |
 | Tears of Themis | 146245 | [146245-tears-of-themis.json](./146245-tears-of-themis.json) |
 | Tears Revolude | 32148 | [32148-tears-revolude.json](./32148-tears-revolude.json) |
 | Tears to Tiara Gaiden: Avalon no Nazo | 76907 | [76907-tears-to-tiara-gaiden-avalon-no-nazo.json](./76907-tears-to-tiara-gaiden-avalon-no-nazo.json) |
@@ -11881,6 +11882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokimeki Taisen | 191861 | [191861-tokimeki-taisen.json](./191861-tokimeki-taisen.json) |
 | Tokimeter | 322951 | [322951-tokimeter.json](./322951-tokimeter.json) |
 | Tokio | 72164 | [72164-tokio.json](./72164-tokio.json) |
+| Tokkun Fighting Soccer | 349434 | [349434-tokkun-fighting-soccer.json](./349434-tokkun-fighting-soccer.json) |
 | Tokkyuu Shirei Solbrain | 215134 | [215134-tokkyuu-shirei-solbrain.json](./215134-tokkyuu-shirei-solbrain.json) |
 | Toko Toko Trouble | 242632 | [242632-toko-toko-trouble.json](./242632-toko-toko-trouble.json) |
 | Tokobot | 19692 | [19692-tokobot.json](./19692-tokobot.json) |
