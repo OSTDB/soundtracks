@@ -570,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Winding Path | 157709 | [157709-a-winding-path.json](./157709-a-winding-path.json) |
 | A Winter's Daydream | 110460 | [110460-a-winters-daydream.json](./110460-a-winters-daydream.json) |
 | A Wish Star | 308887 | [308887-a-wish-star.json](./308887-a-wish-star.json) |
+| A Witch's Stop | 382374 | [382374-a-witchs-stop.json](./382374-a-witchs-stop.json) |
 | A Wizard's Curse | 416855 | [416855-a-wizards-curse.json](./416855-a-wizards-curse.json) |
 | A Wizard's Odyssey | 68651 | [68651-a-wizards-odyssey.json](./68651-a-wizards-odyssey.json) |
 | A Wonder | 75164 | [75164-a-wonder.json](./75164-a-wonder.json) |
@@ -1647,6 +1648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aftercharge | 27698 | [27698-aftercharge.json](./27698-aftercharge.json) |
 | AfterFall: Insanity - Dirty Arena Edition | 50832 | [50832-afterfall-insanity-dirty-arena-edition.json](./50832-afterfall-insanity-dirty-arena-edition.json) |
 | Afterglitch | 189933 | [189933-afterglitch.json](./189933-afterglitch.json) |
+| Afterglow Bytes: Reverie by the Shore | 382378 | [382378-afterglow-bytes-reverie-by-the-shore.json](./382378-afterglow-bytes-reverie-by-the-shore.json) |
 | Aftergreen | 416832 | [416832-aftergreen.json](./416832-aftergreen.json) |
 | Afterimage | 185642 | [185642-afterimage.json](./185642-afterimage.json) |
 | Afterlife | 175 | [175-afterlife.json](./175-afterlife.json) |
@@ -7221,6 +7223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | At the Heart of the Forest | 201303 | [201303-at-the-heart-of-the-forest.json](./201303-at-the-heart-of-the-forest.json) |
 | At the Party | 203878 | [203878-at-the-party.json](./203878-at-the-party.json) |
 | At the Poison's Edge | 297556 | [297556-at-the-poisons-edge.json](./297556-at-the-poisons-edge.json) |
+| At What Cost | 382376 | [382376-at-what-cost.json](./382376-at-what-cost.json) |
 | At Winter's End | 264698 | [264698-at-winters-end.json](./264698-at-winters-end.json) |
 | At Your Feet | 306512 | [306512-at-your-feet.json](./306512-at-your-feet.json) |
 | Atajrubah | 36426 | [36426-atajrubah.json](./36426-atajrubah.json) |
