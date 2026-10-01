@@ -3149,6 +3149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Big Wall | 221292 | [221292-the-big-wall.json](./221292-the-big-wall.json) |
 | The Big Wave | 135018 | [135018-the-big-wave.json](./135018-the-big-wave.json) |
 | The Big, Friendly Thud! | 260937 | [260937-the-big-friendly-thud.json](./260937-the-big-friendly-thud.json) |
+| The Bigger Picture | 359531 | [359531-the-bigger-picture.json](./359531-the-bigger-picture.json) |
 | The Biggest Creators of Empires | 72137 | [72137-the-biggest-creators-of-empires.json](./72137-the-biggest-creators-of-empires.json) |
 | The Biggest Loser | 48035 | [48035-the-biggest-loser.json](./48035-the-biggest-loser.json) |
 | The Bigs 2 | 4716 | [4716-the-bigs-2.json](./4716-the-bigs-2.json) |
@@ -7649,6 +7650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Scene Of the Crime | 383374 | [383374-the-scene-of-the-crime.json](./383374-the-scene-of-the-crime.json) |
 | The Scenic Treasures - Japanese Learning Visual Novel | 112927 | [112927-the-scenic-treasures-japanese-learning-visual-novel.json](./112927-the-scenic-treasures-japanese-learning-visual-novel.json) |
 | The School: White Day | 89861 | [89861-the-school-white-day.json](./89861-the-school-white-day.json) |
+| The Scientist Battles | 359559 | [359559-the-scientist-battles.json](./359559-the-scientist-battles.json) |
 | The Scientists' Secret: Hidden Object Game | 259542 | [259542-the-scientists-secret-hidden-object-game.json](./259542-the-scientists-secret-hidden-object-game.json) |
 | The Scoop | 73816 | [73816-the-scoop.json](./73816-the-scoop.json) |
 | The Scottish Open: Carnoustie Virtual Golf | 68706 | [68706-the-scottish-open-carnoustie-virtual-golf.json](./68706-the-scottish-open-carnoustie-virtual-golf.json) |
@@ -12666,6 +12668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Reliable Delivery Service: Deluxe Edition | 192292 | [192292-totally-reliable-delivery-service-deluxe-edition.json](./192292-totally-reliable-delivery-service-deluxe-edition.json) |
 | Totally Reliable Delivery Service: Dress Code | 308576 | [308576-totally-reliable-delivery-service-dress-code.json](./308576-totally-reliable-delivery-service-dress-code.json) |
 | Totally Smashed | 74304 | [74304-totally-smashed.json](./74304-totally-smashed.json) |
+| Totally Spies! | 359460 | [359460-totally-spies.json](./359460-totally-spies.json) |
 | Totally Spies! | 8021 | [8021-totally-spies.json](./8021-totally-spies.json) |
 | Totally Spies! 4: Around the World | 304040 | [304040-totally-spies-4-around-the-world.json](./304040-totally-spies-4-around-the-world.json) |
 | Totally Spies! Cyber Mission | 302511 | [302511-totally-spies-cyber-mission.json](./302511-totally-spies-cyber-mission.json) |
