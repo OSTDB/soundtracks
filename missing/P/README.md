@@ -215,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachitte Chonmage Tatsujin 5: CR Kamen Rider | 61913 | [61913-pachitte-chonmage-tatsujin-5-cr-kamen-rider.json](./61913-pachitte-chonmage-tatsujin-5-cr-kamen-rider.json) |
 | Pacif Warriors 2 | 43538 | [43538-pacif-warriors-2.json](./43538-pacif-warriors-2.json) |
 | Pacific Drive: We Have Liftoff Customization Pack | 285546 | [285546-pacific-drive-we-have-liftoff-customization-pack.json](./285546-pacific-drive-we-have-liftoff-customization-pack.json) |
+| Pacific Drive: Whispers Edition | 376034 | [376034-pacific-drive-whispers-edition.json](./376034-pacific-drive-whispers-edition.json) |
 | Pacific Fire | 127259 | [127259-pacific-fire.json](./127259-pacific-fire.json) |
 | Pacific General | 14451 | [14451-pacific-general.json](./14451-pacific-general.json) |
 | Pacific Gunner | 92470 | [92470-pacific-gunner.json](./92470-pacific-gunner.json) |
@@ -1371,6 +1372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Passenger Rush | 227956 | [227956-passenger-rush.json](./227956-passenger-rush.json) |
 | Passengers of Execution | 143743 | [143743-passengers-of-execution.json](./143743-passengers-of-execution.json) |
 | Passengers on the Wind II | 37173 | [37173-passengers-on-the-wind-ii.json](./37173-passengers-on-the-wind-ii.json) |
+| Passeport du CE2 au CM1 | 376072 | [376072-passeport-du-ce2-au-cm1.json](./376072-passeport-du-ce2-au-cm1.json) |
 | Passing By: A Tailwind Journey | 139265 | [139265-passing-by-a-tailwind-journey.json](./139265-passing-by-a-tailwind-journey.json) |
 | Passing Pineview Forest | 17988 | [17988-passing-pineview-forest.json](./17988-passing-pineview-forest.json) |
 | Passing Shot | 12839 | [12839-passing-shot.json](./12839-passing-shot.json) |
@@ -5390,6 +5392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokosuka Racing | 408945 | [408945-pokosuka-racing.json](./408945-pokosuka-racing.json) |
 | Pokris | 116099 | [116099-pokris.json](./116099-pokris.json) |
 | Pokubittu | 97836 | [97836-pokubittu.json](./97836-pokubittu.json) |
+| Polandball Go | 376047 | [376047-polandball-go.json](./376047-polandball-go.json) |
 | Polandball: Can into Space! | 19679 | [19679-polandball-can-into-space.json](./19679-polandball-can-into-space.json) |
 | Polar Bear Cub: games for kids | 90028 | [90028-polar-bear-cub-games-for-kids.json](./90028-polar-bear-cub-games-for-kids.json) |
 | Polar Bear Game | 234574 | [234574-polar-bear-game.json](./234574-polar-bear-game.json) |
@@ -6941,6 +6944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Gymnast Simulator + Clumsy Rush | 218456 | [218456-pro-gymnast-simulator-clumsy-rush.json](./218456-pro-gymnast-simulator-clumsy-rush.json) |
 | Pro Gymnast Simulator + Cyber Protocol | 218501 | [218501-pro-gymnast-simulator-cyber-protocol.json](./218501-pro-gymnast-simulator-cyber-protocol.json) |
 | Pro Hockey | 69368 | [69368-pro-hockey.json](./69368-pro-hockey.json) |
+| Pro Jank Footy | 376006 | [376006-pro-jank-footy.json](./376006-pro-jank-footy.json) |
 | Pro Kishi Jinsei Simulation: Shogi no Hanamichi | 37876 | [37876-pro-kishi-jinsei-simulation-shogi-no-hanamichi.json](./37876-pro-kishi-jinsei-simulation-shogi-no-hanamichi.json) |
 | Pro Mahjong Kiwame | 138094 | [138094-pro-mahjong-kiwame.json](./138094-pro-mahjong-kiwame.json) |
 | Pro Mahjong Kiwame 64 | 97880 | [97880-pro-mahjong-kiwame-64.json](./97880-pro-mahjong-kiwame-64.json) |
