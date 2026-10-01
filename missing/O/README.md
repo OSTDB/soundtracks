@@ -1476,6 +1476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only for Gamers | 333191 | [333191-only-for-gamers.json](./333191-only-for-gamers.json) |
 | Only Fortress | 266277 | [266277-only-fortress.json](./266277-only-fortress.json) |
 | Only Girl in High School | 223998 | [223998-only-girl-in-high-school.json](./223998-only-girl-in-high-school.json) |
+| Only Go Up 2 | 370819 | [370819-only-go-up-2.json](./370819-only-go-up-2.json) |
 | Only Hope: Episode 1 | 170917 | [170917-only-hope-episode-1.json](./170917-only-hope-episode-1.json) |
 | Only Hope: Episode 2 | 170919 | [170919-only-hope-episode-2.json](./170919-only-hope-episode-2.json) |
 | Only Hope: Episode 3 | 170921 | [170921-only-hope-episode-3.json](./170921-only-hope-episode-3.json) |
