@@ -7528,6 +7528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rhine Railway: Mannheim - Karlsruhe Collection | 53783 | [53783-the-rhine-railway-mannheim-karlsruhe-collection.json](./53783-the-rhine-railway-mannheim-karlsruhe-collection.json) |
 | The Rhymatory | 399736 | [399736-the-rhymatory.json](./399736-the-rhymatory.json) |
 | The Rhythm of Fighters: SNK Original Sound Collection | 80562 | [80562-the-rhythm-of-fighters-snk-original-sound-collection.json](./80562-the-rhythm-of-fighters-snk-original-sound-collection.json) |
+| The Rich King | 351163 | [351163-the-rich-king.json](./351163-the-rich-king.json) |
 | The Riches of Agrabah with Disney | 243818 | [243818-the-riches-of-agrabah-with-disney.json](./243818-the-riches-of-agrabah-with-disney.json) |
 | The Richmond Rut: In Search of Fenton | 252677 | [252677-the-richmond-rut-in-search-of-fenton.json](./252677-the-richmond-rut-in-search-of-fenton.json) |
 | The Riddle Room | 53782 | [53782-the-riddle-room.json](./53782-the-riddle-room.json) |
@@ -11815,6 +11816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Together: A Wish No One Remembers | 130967 | [130967-together-a-wish-no-one-remembers.json](./130967-together-a-wish-no-one-remembers.json) |
 | Togum | 225182 | [225182-togum.json](./225182-togum.json) |
 | ToHeart | 303230 | [303230-toheart.json](./303230-toheart.json) |
+| ToHeart: Extra Stories - Serio & Masashi | 351148 | [351148-toheart-extra-stories-serio-and-masashi.json](./351148-toheart-extra-stories-serio-and-masashi.json) |
 | ToHeart2 | 132039 | [132039-toheart2.json](./132039-toheart2.json) |
 | ToHeart2 DX Plus | 65567 | [65567-toheart2-dx-plus.json](./65567-toheart2-dx-plus.json) |
 | ToHeart2: AnotherDays | 242474 | [242474-toheart2-anotherdays.json](./242474-toheart2-anotherdays.json) |
@@ -15145,6 +15147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck & Camping Collection | 328466 | [328466-truck-and-camping-collection.json](./328466-truck-and-camping-collection.json) |
 | Truck & Logistics Simulator | 129757 | [129757-truck-and-logistics-simulator.json](./129757-truck-and-logistics-simulator.json) |
 | Truck and Forklift Logistic Simulator | 288373 | [288373-truck-and-forklift-logistic-simulator.json](./288373-truck-and-forklift-logistic-simulator.json) |
+| Truck City | 351149 | [351149-truck-city.json](./351149-truck-city.json) |
 | Truck Dismount | 19284 | [19284-truck-dismount.json](./19284-truck-dismount.json) |
 | Truck Driver | 90387 | [90387-truck-driver.json](./90387-truck-driver.json) |
 | Truck Driver Go | 320383 | [320383-truck-driver-go.json](./320383-truck-driver-go.json) |
@@ -15963,6 +15966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Point Hospital: Bigfoot | 144913 | [144913-two-point-hospital-bigfoot.json](./144913-two-point-hospital-bigfoot.json) |
 | Two Point Hospital: Close Encounters | 144912 | [144912-two-point-hospital-close-encounters.json](./144912-two-point-hospital-close-encounters.json) |
 | Two Point Museum | 313595 | [313595-two-point-museum.json](./313595-two-point-museum.json) |
+| Two Point Museum: Fantasy Finds | 351182 | [351182-two-point-museum-fantasy-finds.json](./351182-two-point-museum-fantasy-finds.json) |
 | Two Point Museum: Rides & Relics | 418502 | [418502-two-point-museum-rides-and-relics.json](./418502-two-point-museum-rides-and-relics.json) |
 | Two Point Museum: Sonic Pre-order Pack | 375175 | [375175-two-point-museum-sonic-pre-order-pack.json](./375175-two-point-museum-sonic-pre-order-pack.json) |
 | Two Point Museum: Zooseum | 378210 | [378210-two-point-museum-zooseum.json](./378210-two-point-museum-zooseum.json) |
