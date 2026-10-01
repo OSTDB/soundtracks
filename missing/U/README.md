@@ -769,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undefeated | 36179 | [36179-undefeated.json](./36179-undefeated.json) |
 | Undefined | 111026 | [111026-undefined.json](./111026-undefined.json) |
 | Undemon | 182363 | [182363-undemon.json](./182363-undemon.json) |
+| Under a Desert Sun: Seekers of the Cursed Vessel | 372637 | [372637-under-a-desert-sun-seekers-of-the-cursed-vessel.json](./372637-under-a-desert-sun-seekers-of-the-cursed-vessel.json) |
 | Under Construction: Summer City | 167582 | [167582-under-construction-summer-city.json](./167582-under-construction-summer-city.json) |
 | Under Contract | 219533 | [219533-under-contract.json](./219533-under-contract.json) |
 | Under Control | 176795 | [176795-under-control.json](./176795-under-control.json) |
