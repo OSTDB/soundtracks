@@ -3117,6 +3117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Takes Many | 370188 | [370188-it-takes-many.json](./370188-it-takes-many.json) |
 | It Takes Two Girls | 190073 | [190073-it-takes-two-girls.json](./190073-it-takes-two-girls.json) |
 | It Takes Two to Tangle | 321129 | [321129-it-takes-two-to-tangle.json](./321129-it-takes-two-to-tangle.json) |
+| It Was Beautiful | 380618 | [380618-it-was-beautiful.json](./380618-it-was-beautiful.json) |
 | It Was Not A Suicide | 414576 | [414576-it-was-not-a-suicide.json](./414576-it-was-not-a-suicide.json) |
 | It Was You | 333019 | [333019-it-was-you.json](./333019-it-was-you.json) |
 | It Will Find You | 124207 | [124207-it-will-find-you.json](./124207-it-will-find-you.json) |
