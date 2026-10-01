@@ -759,6 +759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LastStanding | 413750 | [413750-laststanding.json](./413750-laststanding.json) |
 | Latale | 94907 | [94907-latale.json](./94907-latale.json) |
 | Lataman | 188495 | [188495-lataman.json](./188495-lataman.json) |
+| Late Amusement | 361821 | [361821-late-amusement.json](./361821-late-amusement.json) |
 | Late Bird | 187406 | [187406-late-bird.json](./187406-late-bird.json) |
 | Late Emergency | 365269 | [365269-late-emergency.json](./365269-late-emergency.json) |
 | Late Fee Girls | 366241 | [366241-late-fee-girls.json](./366241-late-fee-girls.json) |
@@ -4236,6 +4237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love WMC | 395140 | [395140-love-wmc.json](./395140-love-wmc.json) |
 | Love x Fantasy: Horny Elf | 385057 | [385057-love-x-fantasy-horny-elf.json](./385057-love-x-fantasy-horny-elf.json) |
 | Love x Time | 235743 | [235743-love-x-time.json](./235743-love-x-time.json) |
+| Love You More | 361862 | [361862-love-you-more.json](./361862-love-you-more.json) |
 | Love You till the End | 280320 | [280320-love-you-till-the-end.json](./280320-love-you-till-the-end.json) |
 | Love You to Pieces | 392914 | [392914-love-you-to-pieces.json](./392914-love-you-to-pieces.json) |
 | Love-Colored Memories | 412974 | [412974-love-colored-memories.json](./412974-love-colored-memories.json) |
