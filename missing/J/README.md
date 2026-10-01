@@ -1352,6 +1352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joy Match 3D | 255796 | [255796-joy-match-3d.json](./255796-joy-match-3d.json) |
 | Joy of Ping Pong | 230844 | [230844-joy-of-ping-pong.json](./230844-joy-of-ping-pong.json) |
 | Joy Pony | 54456 | [54456-joy-pony.json](./54456-joy-pony.json) |
+| Joy Striker | 360705 | [360705-joy-striker.json](./360705-joy-striker.json) |
 | Joy the Pug | 144187 | [144187-joy-the-pug.json](./144187-joy-the-pug.json) |
 | Joydoor | 108061 | [108061-joydoor.json](./108061-joydoor.json) |
 | Joyfess: Martin's Secret Recipe | 126521 | [126521-joyfess-martins-secret-recipe.json](./126521-joyfess-martins-secret-recipe.json) |
