@@ -1845,6 +1845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Dozen Reloaded | 193753 | [193753-deadly-dozen-reloaded.json](./193753-deadly-dozen-reloaded.json) |
 | Deadly Duck | 22434 | [22434-deadly-duck.json](./22434-deadly-duck.json) |
 | Deadly Edge | 52250 | [52250-deadly-edge.json](./52250-deadly-edge.json) |
+| Deadly Endgame | 384132 | [384132-deadly-endgame.json](./384132-deadly-endgame.json) |
 | Deadly Flare | 192879 | [192879-deadly-flare.json](./192879-deadly-flare.json) |
 | Deadly Footprints | 295791 | [295791-deadly-footprints.json](./295791-deadly-footprints.json) |
 | Deadly Harvest | 221107 | [221107-deadly-harvest.json](./221107-deadly-harvest.json) |
@@ -5695,6 +5696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Starve: Pocket Edition | 86925 | [86925-dont-starve-pocket-edition.json](./86925-dont-starve-pocket-edition.json) |
 | Don't Stop | 106139 | [106139-dont-stop.json](./106139-dont-stop.json) |
 | Don't Stop Corocco | 151663 | [151663-dont-stop-corocco.json](./151663-dont-stop-corocco.json) |
+| Don’t Stop Smiling | 384146 | [384146-don-t-stop-smiling.json](./384146-don-t-stop-smiling.json) |
 | Don't Stop You'll Die | 211794 | [211794-dont-stop-youll-die.json](./211794-dont-stop-youll-die.json) |
 | Don't Stop, Girlypop! | 287870 | [287870-dont-stop-girlypop.json](./287870-dont-stop-girlypop.json) |
 | Don't Take It Personally, Babe, It Just Ain't Your Story | 66033 | [66033-dont-take-it-personally-babe-it-just-aint-your-story.json](./66033-dont-take-it-personally-babe-it-just-aint-your-story.json) |
@@ -5835,6 +5837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dont Buzz | 26851 | [26851-dont-buzz.json](./26851-dont-buzz.json) |
 | Dont Jump: Gamesforfarm | 364592 | [364592-dont-jump-gamesforfarm.json](./364592-dont-jump-gamesforfarm.json) |
 | Dontbegrey | 51965 | [51965-dontbegrey.json](./51965-dontbegrey.json) |
+| Dontcrush | 384177 | [384177-dontcrush.json](./384177-dontcrush.json) |
 | Dontdy | 156108 | [156108-dontdy.json](./156108-dontdy.json) |
 | Dontrel Dolphin 2 | 305838 | [305838-dontrel-dolphin-2.json](./305838-dontrel-dolphin-2.json) |
 | Donut 80 | 201052 | [201052-donut-80.json](./201052-donut-80.json) |
