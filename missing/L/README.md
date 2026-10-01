@@ -3210,6 +3210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locked in a Room While: Visiting an Old Castle | 288922 | [288922-locked-in-a-room-while-visiting-an-old-castle.json](./288922-locked-in-a-room-while-visiting-an-old-castle.json) |
 | Locked in Love: The Office | 407465 | [407465-locked-in-love-the-office.json](./407465-locked-in-love-the-office.json) |
 | Locked in my Darkness 2: The Room | 327368 | [327368-locked-in-my-darkness-2-the-room.json](./327368-locked-in-my-darkness-2-the-room.json) |
+| Locked in Temptation | 385810 | [385810-locked-in-temptation.json](./385810-locked-in-temptation.json) |
 | Locked In VR | 30342 | [30342-locked-in-vr.json](./30342-locked-in-vr.json) |
 | Locked Inside: Rebirth | 177396 | [177396-locked-inside-rebirth.json](./177396-locked-inside-rebirth.json) |
 | Locked Together | 405617 | [405617-locked-together.json](./405617-locked-together.json) |
