@@ -348,6 +348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Modern Warfare Remastered - Variety Map Pack | 168155 | [168155-call-of-duty-modern-warfare-remastered-variety-map-pack.json](./168155-call-of-duty-modern-warfare-remastered-variety-map-pack.json) |
 | Call of Duty: Modern Warfare Trilogy | 42975 | [42975-call-of-duty-modern-warfare-trilogy.json](./42975-call-of-duty-modern-warfare-trilogy.json) |
 | Call of Duty: Roads to Victory | 3120 | [3120-call-of-duty-roads-to-victory.json](./3120-call-of-duty-roads-to-victory.json) |
+| Call of Duty: Spain at War | 339954 | [339954-call-of-duty-spain-at-war.json](./339954-call-of-duty-spain-at-war.json) |
 | Call of Duty: Strike Team | 41513 | [41513-call-of-duty-strike-team.json](./41513-call-of-duty-strike-team.json) |
 | Call of Duty: The War Collection | 292856 | [292856-call-of-duty-the-war-collection.json](./292856-call-of-duty-the-war-collection.json) |
 | Call of Duty: Trilogy | 120543 | [120543-call-of-duty-trilogy.json](./120543-call-of-duty-trilogy.json) |
@@ -691,6 +692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannonball Follies 2 | 335471 | [335471-cannonball-follies-2.json](./335471-cannonball-follies-2.json) |
 | Cannondale Cup | 42600 | [42600-cannondale-cup.json](./42600-cannondale-cup.json) |
 | Cannoneer | 323302 | [323302-cannoneer.json](./323302-cannoneer.json) |
+| Cannoneer Girls | 339975 | [339975-cannoneer-girls.json](./339975-cannoneer-girls.json) |
 | Cannonfire Concerto | 30441 | [30441-cannonfire-concerto.json](./30441-cannonfire-concerto.json) |
 | Cannons-Defenders: Steam Edition | 28903 | [28903-cannons-defenders-steam-edition.json](./28903-cannons-defenders-steam-edition.json) |
 | Cannot Contain | 278711 | [278711-cannot-contain.json](./278711-cannot-contain.json) |
@@ -1823,6 +1825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat God Ranch:​​ Age of Dinosaurs​ | 359551 | [359551-cat-god-ranch-age-of-dinosaurs.json](./359551-cat-god-ranch-age-of-dinosaurs.json) |
 | Cat Goes Fishing | 35910 | [35910-cat-goes-fishing.json](./35910-cat-goes-fishing.json) |
 | Cat Goes Platform | 30125 | [30125-cat-goes-platform.json](./30125-cat-goes-platform.json) |
+| Cat Golf | 339963 | [339963-cat-golf.json](./339963-cat-golf.json) |
 | Cat Good Work | 309686 | [309686-cat-good-work.json](./309686-cat-good-work.json) |
 | Cat got Lost | 260670 | [260670-cat-got-lost.json](./260670-cat-got-lost.json) |
 | Cat Got Your Tongue | 360674 | [360674-cat-got-your-tongue.json](./360674-cat-got-your-tongue.json) |
@@ -2227,6 +2230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Hopper | 139468 | [139468-cave-hopper.json](./139468-cave-hopper.json) |
 | Cave Oasis at Shylake | 380423 | [380423-cave-oasis-at-shylake.json](./380423-cave-oasis-at-shylake.json) |
 | Cave of Avarice | 166680 | [166680-cave-of-avarice.json](./166680-cave-of-avarice.json) |
+| Cave of Cards | 339995 | [339995-cave-of-cards.json](./339995-cave-of-cards.json) |
 | Cave of Gurg | 367488 | [367488-cave-of-gurg.json](./367488-cave-of-gurg.json) |
 | Cave of Illusions | 125116 | [125116-cave-of-illusions.json](./125116-cave-of-illusions.json) |
 | Cave of the Skinwalker | 358856 | [358856-cave-of-the-skinwalker.json](./358856-cave-of-the-skinwalker.json) |
@@ -5967,6 +5971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comet Tail: Polygon Panic | 369010 | [369010-comet-tail-polygon-panic.json](./369010-comet-tail-polygon-panic.json) |
 | Comet Tycoon | 349881 | [349881-comet-tycoon.json](./349881-comet-tycoon.json) |
 | Comfort | 134414 | [134414-comfort.json](./134414-comfort.json) |
+| Comfy Cosmos | 339897 | [339897-comfy-cosmos.json](./339897-comfy-cosmos.json) |
 | Comfy Girl | 360608 | [360608-comfy-girl.json](./360608-comfy-girl.json) |
 | Comic 5trike | 148935 | [148935-comic-5trike.json](./148935-comic-5trike.json) |
 | Comic Bakery | 13831 | [13831-comic-bakery.json](./13831-comic-bakery.json) |
@@ -7150,6 +7155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CosmoDrive:Infinity | 147932 | [147932-cosmodrive-infinity.json](./147932-cosmodrive-infinity.json) |
 | CosmoDrive:Zero | 111688 | [111688-cosmodrive-zero.json](./111688-cosmodrive-zero.json) |
 | Cosmogelica | 265674 | [265674-cosmogelica.json](./265674-cosmogelica.json) |
+| Cosmolace | 339969 | [339969-cosmolace.json](./339969-cosmolace.json) |
 | CosmoLands \| Space-Adventure | 33482 | [33482-cosmolands-space-adventure.json](./33482-cosmolands-space-adventure.json) |
 | Cosmology of Kyoto | 46577 | [46577-cosmology-of-kyoto.json](./46577-cosmology-of-kyoto.json) |
 | Cosmonaut | 228342 | [228342-cosmonaut.json](./228342-cosmonaut.json) |
@@ -7412,6 +7418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowtastic Cafe | 316823 | [316823-cowtastic-cafe.json](./316823-cowtastic-cafe.json) |
 | Cozmic Fantasy 2: Bouken Shounen Pan | 251628 | [251628-cozmic-fantasy-2-bouken-shounen-pan.json](./251628-cozmic-fantasy-2-bouken-shounen-pan.json) |
 | Cozy | 179745 | [179745-cozy.json](./179745-cozy.json) |
+| Cozy Autumn Bug Hunt | 339890 | [339890-cozy-autumn-bug-hunt.json](./339890-cozy-autumn-bug-hunt.json) |
 | Cozy Bay Hike | 395219 | [395219-cozy-bay-hike.json](./395219-cozy-bay-hike.json) |
 | Cozy Cabin | 216715 | [216715-cozy-cabin.json](./216715-cozy-cabin.json) |
 | Cozy Cabin: Coffee Boutique | 252241 | [252241-cozy-cabin-coffee-boutique.json](./252241-cozy-cabin-coffee-boutique.json) |
@@ -8097,6 +8104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crescent Quest: Y2K Home Expansion | 276850 | [276850-crescent-quest-y2k-home-expansion.json](./276850-crescent-quest-y2k-home-expansion.json) |
 | Crescent Roll | 403084 | [403084-crescent-roll.json](./403084-crescent-roll.json) |
 | Crescent Satsujin Jiken: Hyena no Jijou | 273446 | [273446-crescent-satsujin-jiken-hyena-no-jijou.json](./273446-crescent-satsujin-jiken-hyena-no-jijou.json) |
+| Crescent Tower | 339979 | [339979-crescent-tower.json](./339979-crescent-tower.json) |
 | Crescite | 262096 | [262096-crescite.json](./262096-crescite.json) |
 | Crest of the Stars | 57940 | [57940-crest-of-the-stars.json](./57940-crest-of-the-stars.json) |
 | Cresteaju | 143094 | [143094-cresteaju.json](./143094-cresteaju.json) |
