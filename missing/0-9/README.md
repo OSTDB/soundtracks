@@ -773,6 +773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 24: Special Ops | 91747 | [91747-24-special-ops.json](./91747-24-special-ops.json) |
 | 24/7 Solitaire | 78758 | [78758-24-7-solitaire.json](./78758-24-7-solitaire.json) |
 | 240p Test Suite | 292078 | [292078-240p-test-suite.json](./292078-240p-test-suite.json) |
+| 248 Scribble | 355143 | [355143-248-scribble.json](./355143-248-scribble.json) |
 | 24H Stories: The Blackout | 276706 | [276706-24h-stories-the-blackout.json](./276706-24h-stories-the-blackout.json) |
 | 24H Stories: The Cabin In The Forest | 308942 | [308942-24h-stories-the-cabin-in-the-forest.json](./308942-24h-stories-the-cabin-in-the-forest.json) |
 | 25 | 223926 | [223926-25.json](./223926-25.json) |
