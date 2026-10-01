@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lab 77 | 319988 | [319988-lab-77.json](./319988-lab-77.json) |
 | Lab BreakOut | 158533 | [158533-lab-breakout.json](./158533-lab-breakout.json) |
 | Lab Crisis | 205580 | [205580-lab-crisis.json](./205580-lab-crisis.json) |
+| Lab Eject | 368595 | [368595-lab-eject.json](./368595-lab-eject.json) |
 | Lab Escape! | 299450 | [299450-lab-escape.json](./299450-lab-escape.json) |
 | Lab Inspect | 226141 | [226141-lab-inspect.json](./226141-lab-inspect.json) |
 | Lab Rat | 94244 | [94244-lab-rat.json](./94244-lab-rat.json) |
