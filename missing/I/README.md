@@ -269,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Wanna Eat the Lemon | 191263 | [191263-i-wanna-eat-the-lemon.json](./191263-i-wanna-eat-the-lemon.json) |
 | I Wanna Flip the Sky | 195506 | [195506-i-wanna-flip-the-sky.json](./195506-i-wanna-flip-the-sky.json) |
 | I Wanna Fly | 115451 | [115451-i-wanna-fly.json](./115451-i-wanna-fly.json) |
+| I Wanna Go for a Walk | 381767 | [381767-i-wanna-go-for-a-walk.json](./381767-i-wanna-go-for-a-walk.json) |
 | I Wanna Go Home | 220043 | [220043-i-wanna-go-home.json](./220043-i-wanna-go-home.json) |
 | I Wanna How Many Bottles of Coke Zero Can Badlands Chug in 3 Minutes? Watch & See! | 210657 | [210657-i-wanna-how-many-bottles-of-coke-zero-can-badlands-chug-in-3-minutes-watch-and-see.json](./210657-i-wanna-how-many-bottles-of-coke-zero-can-badlands-chug-in-3-minutes-watch-and-see.json) |
 | I Wanna Kill the Guy | 80532 | [80532-i-wanna-kill-the-guy.json](./80532-i-wanna-kill-the-guy.json) |
