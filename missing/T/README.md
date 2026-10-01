@@ -6949,6 +6949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Odarian Accounts | 218705 | [218705-the-odarian-accounts.json](./218705-the-odarian-accounts.json) |
 | The Odd Battle | 108026 | [108026-the-odd-battle.json](./108026-the-odd-battle.json) |
 | The Odd Neon Void | 132246 | [132246-the-odd-neon-void.json](./132246-the-odd-neon-void.json) |
+| The Odd Squad Adventure in Oddbodia | 354011 | [354011-the-odd-squad-adventure-in-oddbodia.json](./354011-the-odd-squad-adventure-in-oddbodia.json) |
 | The Odyssey of Commander Cookie | 350034 | [350034-the-odyssey-of-commander-cookie.json](./350034-the-odyssey-of-commander-cookie.json) |
 | The Odyssey of the Mammoth | 191831 | [191831-the-odyssey-of-the-mammoth.json](./191831-the-odyssey-of-the-mammoth.json) |
 | The Odyssey: Winds of Athena | 69579 | [69579-the-odyssey-winds-of-athena.json](./69579-the-odyssey-winds-of-athena.json) |
