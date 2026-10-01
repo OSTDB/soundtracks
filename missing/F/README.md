@@ -1391,6 +1391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Food Crisis | 266523 | [266523-fast-food-crisis.json](./266523-fast-food-crisis.json) |
 | Fast Food Frog | 358881 | [358881-fast-food-frog.json](./358881-fast-food-frog.json) |
 | Fast Food Funkin' | 408121 | [408121-fast-food-funkin.json](./408121-fast-food-funkin.json) |
+| Fast Food King | 384714 | [384714-fast-food-king.json](./384714-fast-food-king.json) |
 | Fast Food Manager 2 | 347719 | [347719-fast-food-manager-2.json](./347719-fast-food-manager-2.json) |
 | Fast Food Never More | 127241 | [127241-fast-food-never-more.json](./127241-fast-food-never-more.json) |
 | Fast Food On The Beach! | 321333 | [321333-fast-food-on-the-beach.json](./321333-fast-food-on-the-beach.json) |
@@ -6449,9 +6450,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futa University | 209487 | [209487-futa-university.json](./209487-futa-university.json) |
 | Futa Zone: Lewd Control | 399731 | [399731-futa-zone-lewd-control.json](./399731-futa-zone-lewd-control.json) |
 | Futagoza No Paradox | 143521 | [143521-futagoza-no-paradox.json](./143521-futagoza-no-paradox.json) |
+| Futanari & Ladyboy BDSM | 384723 | [384723-futanari-and-ladyboy-bdsm.json](./384723-futanari-and-ladyboy-bdsm.json) |
 | Futanari & Ladyboy Hotel | 393837 | [393837-futanari-and-ladyboy-hotel.json](./393837-futanari-and-ladyboy-hotel.json) |
 | Futanari Fantasy XX | 97840 | [97840-futanari-fantasy-xx.json](./97840-futanari-fantasy-xx.json) |
 | Futanari Girls 3D | 368125 | [368125-futanari-girls-3d.json](./368125-futanari-girls-3d.json) |
+| Futanari Have a Heart Too | 384722 | [384722-futanari-have-a-heart-too.json](./384722-futanari-have-a-heart-too.json) |
 | Futanari Jigsaw Puzzle | 212728 | [212728-futanari-jigsaw-puzzle.json](./212728-futanari-jigsaw-puzzle.json) |
 | Futanari Quest | 99592 | [99592-futanari-quest.json](./99592-futanari-quest.json) |
 | Futanari Sex Adventures: Episode 2 | 311582 | [311582-futanari-sex-adventures-episode-2.json](./311582-futanari-sex-adventures-episode-2.json) |
