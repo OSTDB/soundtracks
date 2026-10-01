@@ -3123,6 +3123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazes and Mages | 102721 | [102721-mazes-and-mages.json](./102721-mazes-and-mages.json) |
 | Mazes and Mages 2 | 121778 | [121778-mazes-and-mages-2.json](./121778-mazes-and-mages-2.json) |
 | Mazes of Karradash 2 | 175430 | [175430-mazes-of-karradash-2.json](./175430-mazes-of-karradash-2.json) |
+| MazeSlug | 342788 | [342788-mazeslug.json](./342788-mazeslug.json) |
 | Mazewar | 381593 | [381593-mazewar.json](./381593-mazewar.json) |
 | MazezaM: Puzzle Game | 147358 | [147358-mazezam-puzzle-game.json](./147358-mazezam-puzzle-game.json) |
 | Maziacs | 93136 | [93136-maziacs.json](./93136-maziacs.json) |
@@ -4607,6 +4608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metachromium | 164239 | [164239-metachromium.json](./164239-metachromium.json) |
 | MetaCity M | 220334 | [220334-metacity-m.json](./220334-metacity-m.json) |
 | Metacity Patrol | 339796 | [339796-metacity-patrol.json](./339796-metacity-patrol.json) |
+| Metacube | 342779 | [342779-metacube.json](./342779-metacube.json) |
 | MetaDOS | 199923 | [199923-metados.json](./199923-metados.json) |
 | Metaforces Bowling Center | 279122 | [279122-metaforces-bowling-center.json](./279122-metaforces-bowling-center.json) |
 | Metagal | 19321 | [19321-metagal.json](./19321-metagal.json) |
@@ -6307,6 +6309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mint Works | 159818 | [159818-mint-works.json](./159818-mint-works.json) |
 | Mint's Hints 3 | 328008 | [328008-mints-hints-3.json](./328008-mints-hints-3.json) |
 | Mintroid | 188619 | [188619-mintroid.json](./188619-mintroid.json) |
+| Minty Fresh Adventure | 342826 | [342826-minty-fresh-adventure.json](./342826-minty-fresh-adventure.json) |
 | Minty Monkey | 307098 | [307098-minty-monkey.json](./307098-minty-monkey.json) |
 | Minubeat | 199083 | [199083-minubeat.json](./199083-minubeat.json) |
 | Minute Cryptic | 356194 | [356194-minute-cryptic.json](./356194-minute-cryptic.json) |
