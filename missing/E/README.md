@@ -1532,6 +1532,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emre and Jevon's Tale of Knowledge, Emulating a Dream Where You Gain Wisdom and Knowledge and Probably Meet Hermes | 323301 | [323301-emre-and-jevons-tale-of-knowledge-emulating-a-dream-where-you-gain-wisdom-and-knowledge-and-probably-meet-hermes.json](./323301-emre-and-jevons-tale-of-knowledge-emulating-a-dream-where-you-gain-wisdom-and-knowledge-and-probably-meet-hermes.json) |
 | Emross War | 343482 | [343482-emross-war.json](./343482-emross-war.json) |
 | EmuDevz | 386285 | [386285-emudevz.json](./386285-emudevz.json) |
+| EmyLiveShow: BossRush | 379543 | [379543-emyliveshow-bossrush.json](./379543-emyliveshow-bossrush.json) |
+| EmyLiveShow: Case of Four Hot Witnesses | 379538 | [379538-emyliveshow-case-of-four-hot-witnesses.json](./379538-emyliveshow-case-of-four-hot-witnesses.json) |
 | EmyLiveShow: Dangers & Mysteries Tale | 311055 | [311055-emyliveshow-dangers-and-mysteries-tale.json](./311055-emyliveshow-dangers-and-mysteries-tale.json) |
 | Emzombed | 267473 | [267473-emzombed.json](./267473-emzombed.json) |
 | En Passant | 234059 | [234059-en-passant.json](./234059-en-passant.json) |
