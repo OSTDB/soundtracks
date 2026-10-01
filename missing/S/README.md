@@ -4862,6 +4862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signal Hill | 390655 | [390655-signal-hill.json](./390655-signal-hill.json) |
 | Signal Lost | 327358 | [327358-signal-lost.json](./327358-signal-lost.json) |
 | Signal Ops | 16734 | [16734-signal-ops.json](./16734-signal-ops.json) |
+| Signal Zone | 381195 | [381195-signal-zone.json](./381195-signal-zone.json) |
 | Signal13 | 410346 | [410346-signal13.json](./410346-signal13.json) |
 | Signalis | 103244 | [103244-signalis.json](./103244-signalis.json) |
 | Signature | 257073 | [257073-signature.json](./257073-signature.json) |
@@ -7892,6 +7893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solstice | 324503 | [324503-solstice.json](./324503-solstice.json) |
 | Solstice Chronicles: MIA | 27381 | [27381-solstice-chronicles-mia.json](./27381-solstice-chronicles-mia.json) |
 | Solstice: Digital Collector's Edition | 154447 | [154447-solstice-digital-collectors-edition.json](./154447-solstice-digital-collectors-edition.json) |
+| Solstride | 381210 | [381210-solstride.json](./381210-solstride.json) |
 | Soltys | 93179 | [93179-soltys.json](./93179-soltys.json) |
 | Soluble Dream | 259591 | [259591-soluble-dream.json](./259591-soluble-dream.json) |
 | Solune | 272359 | [272359-solune.json](./272359-solune.json) |
@@ -9331,6 +9333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Memory: Fairies | 412387 | [412387-space-memory-fairies.json](./412387-space-memory-fairies.json) |
 | Space Memory: Mushrooms | 363565 | [363565-space-memory-mushrooms.json](./363565-space-memory-mushrooms.json) |
 | Space Memory: Predators | 358897 | [358897-space-memory-predators.json](./358897-space-memory-predators.json) |
+| Space Memory: Rodents | 381173 | [381173-space-memory-rodents.json](./381173-space-memory-rodents.json) |
 | Space Merchant | 125813 | [125813-space-merchant.json](./125813-space-merchant.json) |
 | Space Miner | 292838 | [292838-space-miner.json](./292838-space-miner.json) |
 | Space Miner: Idle Adventures | 276173 | [276173-space-miner-idle-adventures.json](./276173-space-miner-idle-adventures.json) |
@@ -11583,6 +11586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Episode II - Anakin Skywalker’s Lightsaber Duel | 198917 | [198917-star-wars-episode-ii-anakin-skywalker-s-lightsaber-duel.json](./198917-star-wars-episode-ii-anakin-skywalker-s-lightsaber-duel.json) |
 | Star Wars: Episode III - Revenge of the Sith | 166484 | [166484-star-wars-episode-iii-revenge-of-the-sith.json](./166484-star-wars-episode-iii-revenge-of-the-sith.json) |
 | Star Wars: Episode III - Revenge of the Sith | 167612 | [167612-star-wars-episode-iii-revenge-of-the-sith.json](./167612-star-wars-episode-iii-revenge-of-the-sith.json) |
+| Star Wars: Fate of the Old Republic | 381215 | [381215-star-wars-fate-of-the-old-republic.json](./381215-star-wars-fate-of-the-old-republic.json) |
 | Star Wars: Force Arena | 74866 | [74866-star-wars-force-arena.json](./74866-star-wars-force-arena.json) |
 | Star Wars: Force Commander | 159 | [159-star-wars-force-commander.json](./159-star-wars-force-commander.json) |
 | Star Wars: Galactic Battle | 198918 | [198918-star-wars-galactic-battle.json](./198918-star-wars-galactic-battle.json) |
@@ -13566,6 +13570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stupid Camera | 255992 | [255992-stupid-camera.json](./255992-stupid-camera.json) |
 | Stupid Cars | 300839 | [300839-stupid-cars.json](./300839-stupid-cars.json) |
 | Stupid Clicker Game | 26554 | [26554-stupid-clicker-game.json](./26554-stupid-clicker-game.json) |
+| Stupid Never Dies | 381212 | [381212-stupid-never-dies.json](./381212-stupid-never-dies.json) |
 | Stupid Quest | 116814 | [116814-stupid-quest.json](./116814-stupid-quest.json) |
 | Stupid Space Shooter | 310759 | [310759-stupid-space-shooter.json](./310759-stupid-space-shooter.json) |
 | Stupid Spaceships | 390622 | [390622-stupid-spaceships.json](./390622-stupid-spaceships.json) |
