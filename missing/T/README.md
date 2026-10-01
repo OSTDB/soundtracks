@@ -1458,6 +1458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Assault: Baptism of Fire | 66032 | [66032-team-assault-baptism-of-fire.json](./66032-team-assault-baptism-of-fire.json) |
 | Team Batista no Eikou Shinjitsu wo Tsumugu 4 tsu no Chart | 70412 | [70412-team-batista-no-eikou-shinjitsu-wo-tsumugu-4-tsu-no-chart.json](./70412-team-batista-no-eikou-shinjitsu-wo-tsumugu-4-tsu-no-chart.json) |
 | Team Conquest | 220053 | [220053-team-conquest.json](./220053-team-conquest.json) |
+| Team Dehdehbon | 372629 | [372629-team-dehdehbon.json](./372629-team-dehdehbon.json) |
 | Team Delusional's Dusttale | 329654 | [329654-team-delusionals-dusttale.json](./329654-team-delusionals-dusttale.json) |
 | Team Force 2 | 203535 | [203535-team-force-2.json](./203535-team-force-2.json) |
 | Team Fortress 2 Classic: Community Edition | 360756 | [360756-team-fortress-2-classic-community-edition.json](./360756-team-fortress-2-classic-community-edition.json) |
@@ -6626,6 +6627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mofflys: Invasion Mayhem | 278509 | [278509-the-mofflys-invasion-mayhem.json](./278509-the-mofflys-invasion-mayhem.json) |
 | The Moment We Met | 110910 | [110910-the-moment-we-met.json](./110910-the-moment-we-met.json) |
 | The Momo Game | 110632 | [110632-the-momo-game.json](./110632-the-momo-game.json) |
+| The Monad | 372610 | [372610-the-monad.json](./372610-the-monad.json) |
 | The Monarch: First Light | 289981 | [289981-the-monarch-first-light.json](./289981-the-monarch-first-light.json) |
 | The Monastery | 304889 | [304889-the-monastery.json](./304889-the-monastery.json) |
 | The Monastery of Mount Cinburron | 308388 | [308388-the-monastery-of-mount-cinburron.json](./308388-the-monastery-of-mount-cinburron.json) |
@@ -11021,6 +11023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Sensitive Investigation | 345572 | [345572-time-sensitive-investigation.json](./345572-time-sensitive-investigation.json) |
 | Time Shared | 276720 | [276720-time-shared.json](./276720-time-shared.json) |
 | Time Sliper | 346788 | [346788-time-sliper.json](./346788-time-sliper.json) |
+| Time Snatcher Handy | 372632 | [372632-time-snatcher-handy.json](./372632-time-snatcher-handy.json) |
 | Time Splatter | 110360 | [110360-time-splatter.json](./110360-time-splatter.json) |
 | Time Squared | 26977 | [26977-time-squared.json](./26977-time-squared.json) |
 | Time Stand Still | 10992 | [10992-time-stand-still.json](./10992-time-stand-still.json) |
