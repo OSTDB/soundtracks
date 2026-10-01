@@ -675,6 +675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Sinclair Four Pack December 1990 | 74079 | [74079-your-sinclair-four-pack-december-1990.json](./74079-your-sinclair-four-pack-december-1990.json) |
 | Your Sinclair Magnificent 7 February 1992 | 96509 | [96509-your-sinclair-magnificent-7-february-1992.json](./96509-your-sinclair-magnificent-7-february-1992.json) |
 | Your Sister's Drown'd, Laertes | 135302 | [135302-your-sisters-drownd-laertes.json](./135302-your-sisters-drownd-laertes.json) |
+| Your Story: Games with Death | 345067 | [345067-your-story-games-with-death.json](./345067-your-story-games-with-death.json) |
 | Your Study Mate | 325061 | [325061-your-study-mate.json](./325061-your-study-mate.json) |
 | Your Sword Is So Big | 174120 | [174120-your-sword-is-so-big.json](./174120-your-sword-is-so-big.json) |
 | Your Time Is Mine | 82945 | [82945-your-time-is-mine.json](./82945-your-time-is-mine.json) |
