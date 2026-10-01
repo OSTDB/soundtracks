@@ -473,6 +473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galerians: Ash | 19629 | [19629-galerians-ash.json](./19629-galerians-ash.json) |
 | Galerians: Limited Edition | 146856 | [146856-galerians-limited-edition.json](./146856-galerians-limited-edition.json) |
 | Galf | 131401 | [131401-galf.json](./131401-galf.json) |
+| Galf Streem | 386936 | [386936-galf-streem.json](./386936-galf-streem.json) |
 | Galga | 227882 | [227882-galga.json](./227882-galga.json) |
 | Galidor: Defenders of the Outer Dimension | 316808 | [316808-galidor-defenders-of-the-outer-dimension.json](./316808-galidor-defenders-of-the-outer-dimension.json) |
 | Galimulator | 89971 | [89971-galimulator.json](./89971-galimulator.json) |
@@ -3945,6 +3946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Well | 142317 | [142317-gravity-well.json](./142317-gravity-well.json) |
 | Gravity: Sylux's Crusade | 338822 | [338822-gravity-syluxs-crusade.json](./338822-gravity-syluxs-crusade.json) |
 | Gravity's Apple | 330920 | [330920-gravitys-apple.json](./330920-gravitys-apple.json) |
+| Gravity's Edge | 386942 | [386942-gravitys-edge.json](./386942-gravitys-edge.json) |
 | Gravity+ | 84530 | [84530-gravity.json](./84530-gravity.json) |
 | GravityBall | 409647 | [409647-gravityball.json](./409647-gravityball.json) |
 | GravityTunnelVR | 52773 | [52773-gravitytunnelvr.json](./52773-gravitytunnelvr.json) |
@@ -4917,6 +4919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Sprint | 332804 | [332804-gun-sprint.json](./332804-gun-sprint.json) |
 | Gun Store Simulator | 326422 | [326422-gun-store-simulator.json](./326422-gun-store-simulator.json) |
 | Gun Strike Ops: WW2 | 196307 | [196307-gun-strike-ops-ww2.json](./196307-gun-strike-ops-ww2.json) |
+| Gun Swinger | 386922 | [386922-gun-swinger.json](./386922-gun-swinger.json) |
 | Gun to Colonists | 189173 | [189173-gun-to-colonists.json](./189173-gun-to-colonists.json) |
 | Gun Trails | 259277 | [259277-gun-trails.json](./259277-gun-trails.json) |
 | Gun vs. Bottles | 233442 | [233442-gun-vs-bottles.json](./233442-gun-vs-bottles.json) |
