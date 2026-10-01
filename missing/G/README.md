@@ -2012,6 +2012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giftpia | 3931 | [3931-giftpia.json](./3931-giftpia.json) |
 | Gifts from Arthur | 202365 | [202365-gifts-from-arthur.json](./202365-gifts-from-arthur.json) |
 | Gifts, Please | 394430 | [394430-gifts-please.json](./394430-gifts-please.json) |
+| Gig Crawler | 334347 | [334347-gig-crawler.json](./334347-gig-crawler.json) |
 | Gig Life | 198449 | [198449-gig-life.json](./198449-gig-life.json) |
 | Giga Fighters Batman & Robin | 218016 | [218016-giga-fighters-batman-and-robin.json](./218016-giga-fighters-batman-and-robin.json) |
 | Giga Fighters WCW/nWo | 218017 | [218017-giga-fighters-wcw-nwo.json](./218017-giga-fighters-wcw-nwo.json) |
@@ -4457,6 +4458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimorium | 392292 | [392292-grimorium.json](./392292-grimorium.json) |
 | Grimps | 388338 | [388338-grimps.json](./388338-grimps.json) |
 | GrimRail | 367612 | [367612-grimrail.json](./367612-grimrail.json) |
+| Grimroll | 334348 | [334348-grimroll.json](./334348-grimroll.json) |
 | Grimshade | 102199 | [102199-grimshade.json](./102199-grimshade.json) |
 | Grimshire | 284411 | [284411-grimshire.json](./284411-grimshire.json) |
 | Grimslair | 391587 | [391587-grimslair.json](./391587-grimslair.json) |
