@@ -964,6 +964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jill Saves the Prince | 9645 | [9645-jill-saves-the-prince.json](./9645-jill-saves-the-prince.json) |
 | Jillian Michaels' Fitness Adventure | 20222 | [20222-jillian-michaels-fitness-adventure.json](./20222-jillian-michaels-fitness-adventure.json) |
 | Jillian Michaels' Fitness Ultimatum 2010 | 79817 | [79817-jillian-michaels-fitness-ultimatum-2010.json](./79817-jillian-michaels-fitness-ultimatum-2010.json) |
+| Jim & Dill 3 | 342118 | [342118-jim-and-dill-3.json](./342118-jim-and-dill-3.json) |
 | Jim & Dill II: Bobson’s Revenge | 313150 | [313150-jim-and-dill-ii-bobson-s-revenge.json](./313150-jim-and-dill-ii-bobson-s-revenge.json) |
 | Jim & Dill: The Legend of Weed N' Stiff | 299147 | [299147-jim-and-dill-the-legend-of-weed-n-stiff.json](./299147-jim-and-dill-the-legend-of-weed-n-stiff.json) |
 | Jim Henson's Bear in the Big Blue House | 49914 | [49914-jim-hensons-bear-in-the-big-blue-house.json](./49914-jim-hensons-bear-in-the-big-blue-house.json) |
@@ -1225,6 +1226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joker & Teacher | 369556 | [369556-joker-and-teacher.json](./369556-joker-and-teacher.json) |
 | Joker Poker: Video Poker | 146862 | [146862-joker-poker-video-poker.json](./146862-joker-poker-video-poker.json) |
 | Joker Show: Horror Escape | 258503 | [258503-joker-show-horror-escape.json](./258503-joker-show-horror-escape.json) |
+| Joker w Coat Physics | 342188 | [342188-joker-w-coat-physics.json](./342188-joker-w-coat-physics.json) |
 | Jollibae | 355173 | [355173-jollibae.json](./355173-jollibae.json) |
 | Jolly 3: Chapter 1 | 184507 | [184507-jolly-3-chapter-1.json](./184507-jolly-3-chapter-1.json) |
 | Jolly 3: Chapter 2 | 184508 | [184508-jolly-3-chapter-2.json](./184508-jolly-3-chapter-2.json) |
