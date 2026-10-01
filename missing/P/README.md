@@ -414,6 +414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paisible Soirée au Fil d'Étoiles | 178514 | [178514-paisible-soiree-au-fil-detoiles.json](./178514-paisible-soiree-au-fil-detoiles.json) |
 | Paitan Small Town | 159804 | [159804-paitan-small-town.json](./159804-paitan-small-town.json) |
 | Paiteo: Yeongung-eul Gidalimyeo | 98430 | [98430-paiteo-yeongung-eul-gidalimyeo.json](./98430-paiteo-yeongung-eul-gidalimyeo.json) |
+| Paizuri Fantasies | 351741 | [351741-paizuri-fantasies.json](./351741-paizuri-fantasies.json) |
 | Pajama Sam 2: Thunder and Lightning Aren't so Frightening | 3731 | [3731-pajama-sam-2-thunder-and-lightning-arent-so-frightening.json](./3731-pajama-sam-2-thunder-and-lightning-arent-so-frightening.json) |
 | Pajama Sam Vol. 1 | 154442 | [154442-pajama-sam-vol-1.json](./154442-pajama-sam-vol-1.json) |
 | Pajama Sam Vol. 2 | 154440 | [154440-pajama-sam-vol-2.json](./154440-pajama-sam-vol-2.json) |
@@ -4080,6 +4081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Town | 183872 | [183872-pixel-town.json](./183872-pixel-town.json) |
 | Pixel Town: Akanemachi Sideshow | 298162 | [298162-pixel-town-akanemachi-sideshow.json](./298162-pixel-town-akanemachi-sideshow.json) |
 | Pixel Traffic: Highway Racing | 102216 | [102216-pixel-traffic-highway-racing.json](./102216-pixel-traffic-highway-racing.json) |
+| Pixel Troopers | 351752 | [351752-pixel-troopers.json](./351752-pixel-troopers.json) |
 | Pixel Waifu: Escape From the Dark Corporation. The Telepathic Power of a Lovestruck Otaku | 398558 | [398558-pixel-waifu-escape-from-the-dark-corporation-the-telepathic-power-of-a-lovestruck-otaku.json](./398558-pixel-waifu-escape-from-the-dark-corporation-the-telepathic-power-of-a-lovestruck-otaku.json) |
 | Pixel Wars | 239600 | [239600-pixel-wars.json](./239600-pixel-wars.json) |
 | Pixel Washer | 263778 | [263778-pixel-washer.json](./263778-pixel-washer.json) |
@@ -4442,6 +4444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlanetForge Protocol | 404360 | [404360-planetforge-protocol.json](./404360-planetforge-protocol.json) |
 | PlanetFriend | 133879 | [133879-planetfriend.json](./133879-planetfriend.json) |
 | Planetgore | 255139 | [255139-planetgore.json](./255139-planetgore.json) |
+| Planetiny | 351168 | [351168-planetiny.json](./351168-planetiny.json) |
 | Planetoid | 13747 | [13747-planetoid.json](./13747-planetoid.json) |
 | Planetoid | 330907 | [330907-planetoid.json](./330907-planetoid.json) |
 | Planetoid Pioneers | 27501 | [27501-planetoid-pioneers.json](./27501-planetoid-pioneers.json) |
@@ -4635,6 +4638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playboy: The Mansion | 2161 | [2161-playboy-the-mansion.json](./2161-playboy-the-mansion.json) |
 | Playboy: The Mansion - Private Party | 68037 | [68037-playboy-the-mansion-private-party.json](./68037-playboy-the-mansion-private-party.json) |
 | PlayChapas | 177934 | [177934-playchapas.json](./177934-playchapas.json) |
+| PlayCrafter | 351768 | [351768-playcrafter.json](./351768-playcrafter.json) |
 | Playdate Bunny Bundle | 245320 | [245320-playdate-bunny-bundle.json](./245320-playdate-bunny-bundle.json) |
 | Playdate Season 1 | 398519 | [398519-playdate-season-1.json](./398519-playdate-season-1.json) |
 | Playdate Season 3 | 398535 | [398535-playdate-season-3.json](./398535-playdate-season-3.json) |
@@ -4777,6 +4781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plumber No More | 184109 | [184109-plumber-no-more.json](./184109-plumber-no-more.json) |
 | Plumber Waluigi | 323352 | [323352-plumber-waluigi.json](./323352-plumber-waluigi.json) |
 | Plumber World | 403752 | [403752-plumber-world.json](./403752-plumber-world.json) |
+| Plumber’s Legacy | 351772 | [351772-plumber-s-legacy.json](./351772-plumber-s-legacy.json) |
 | Plumbers Creed | 178667 | [178667-plumbers-creed.json](./178667-plumbers-creed.json) |
 | Plumbers Don't Wear Ties | 4251 | [4251-plumbers-dont-wear-ties.json](./4251-plumbers-dont-wear-ties.json) |
 | Plumbers Don't Wear Ties: But They Do Carry Shotguns | 271316 | [271316-plumbers-dont-wear-ties-but-they-do-carry-shotguns.json](./271316-plumbers-dont-wear-ties-but-they-do-carry-shotguns.json) |
@@ -8819,6 +8824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramids and Aliens: Escape Room | 295019 | [295019-pyramids-and-aliens-escape-room.json](./295019-pyramids-and-aliens-escape-room.json) |
 | PyramidValley: Reborn | 353395 | [353395-pyramidvalley-reborn.json](./353395-pyramidvalley-reborn.json) |
 | Pyramis | 397668 | [397668-pyramis.json](./397668-pyramis.json) |
+| Pyrastak | 351757 | [351757-pyrastak.json](./351757-pyrastak.json) |
 | Pyratel | 308239 | [308239-pyratel.json](./308239-pyratel.json) |
 | Pyrite Heart | 17860 | [17860-pyrite-heart.json](./17860-pyrite-heart.json) |
 | Pyro | 373724 | [373724-pyro.json](./373724-pyro.json) |
