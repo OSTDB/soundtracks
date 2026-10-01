@@ -296,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Rusherz | 314667 | [314667-galactic-rusherz.json](./314667-galactic-rusherz.json) |
 | Galactic Simulator | 329595 | [329595-galactic-simulator.json](./329595-galactic-simulator.json) |
 | Galactic Simulator2: Stargate | 344539 | [344539-galactic-simulator2-stargate.json](./344539-galactic-simulator2-stargate.json) |
+| Galactic Space Guard | 373171 | [373171-galactic-space-guard.json](./373171-galactic-space-guard.json) |
 | Galactic Starfire: Squadron | 310033 | [310033-galactic-starfire-squadron.json](./310033-galactic-starfire-squadron.json) |
 | Galactic Storm | 264082 | [264082-galactic-storm.json](./264082-galactic-storm.json) |
 | Galactic Story | 221190 | [221190-galactic-story.json](./221190-galactic-story.json) |
@@ -1081,6 +1082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gayandere | 215782 | [215782-gayandere.json](./215782-gayandere.json) |
 | Gaydorado | 87004 | [87004-gaydorado.json](./87004-gaydorado.json) |
 | Gaza SP | 279081 | [279081-gaza-sp.json](./279081-gaza-sp.json) |
+| Gazar | 373167 | [373167-gazar.json](./373167-gazar.json) |
 | Gaze At Maze | 101620 | [101620-gaze-at-maze.json](./101620-gaze-at-maze.json) |
 | Gaze of the Eyeless | 191089 | [191089-gaze-of-the-eyeless.json](./191089-gaze-of-the-eyeless.json) |
 | Gazed | 393476 | [393476-gazed.json](./393476-gazed.json) |
@@ -2264,6 +2266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glint Glitters | 304119 | [304119-glint-glitters.json](./304119-glint-glitters.json) |
 | Glint's Trial | 356156 | [356156-glints-trial.json](./356156-glints-trial.json) |
 | Gliont Lights | 388260 | [388260-gliont-lights.json](./388260-gliont-lights.json) |
+| Glisynth | 373145 | [373145-glisynth.json](./373145-glisynth.json) |
 | Glitch | 232137 | [232137-glitch.json](./232137-glitch.json) |
 | Glitch | 365268 | [365268-glitch.json](./365268-glitch.json) |
 | Glitch | 92479 | [92479-glitch.json](./92479-glitch.json) |
@@ -4551,6 +4554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grow Your Guarden | 263794 | [263794-grow-your-guarden.json](./263794-grow-your-guarden.json) |
 | Grow: Song of the Evertree | 151673 | [151673-grow-song-of-the-evertree.json](./151673-grow-song-of-the-evertree.json) |
 | Growbots: Battle Academy | 161386 | [161386-growbots-battle-academy.json](./161386-growbots-battle-academy.json) |
+| GrowBud | 373134 | [373134-growbud.json](./373134-growbud.json) |
 | Growers | 264058 | [264058-growers.json](./264058-growers.json) |
 | Growing My Grandpa! | 200660 | [200660-growing-my-grandpa.json](./200660-growing-my-grandpa.json) |
 | Growing My Manhole | 404809 | [404809-growing-my-manhole.json](./404809-growing-my-manhole.json) |
@@ -4756,6 +4760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guildmaster: Gratuitous Subtitle | 141021 | [141021-guildmaster-gratuitous-subtitle.json](./141021-guildmaster-gratuitous-subtitle.json) |
 | Guilds n Glory | 213001 | [213001-guilds-n-glory.json](./213001-guilds-n-glory.json) |
 | Guilds of Gods | 130775 | [130775-guilds-of-gods.json](./130775-guilds-of-gods.json) |
+| Guilds of Greybrook | 373166 | [373166-guilds-of-greybrook.json](./373166-guilds-of-greybrook.json) |
 | Guilds of Mountgate | 405523 | [405523-guilds-of-mountgate.json](./405523-guilds-of-mountgate.json) |
 | Guile | 13249 | [13249-guile.json](./13249-guile.json) |
 | Guiling's Adventure | 355200 | [355200-guilings-adventure.json](./355200-guilings-adventure.json) |
@@ -4927,6 +4932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Man | 346091 | [346091-gun-man.json](./346091-gun-man.json) |
 | Gun Mayhem | 342123 | [342123-gun-mayhem.json](./342123-gun-mayhem.json) |
 | Gun Monkeys | 16541 | [16541-gun-monkeys.json](./16541-gun-monkeys.json) |
+| Gun of Fate: The Silver Gun of Ylia | 373149 | [373149-gun-of-fate-the-silver-gun-of-ylia.json](./373149-gun-of-fate-the-silver-gun-of-ylia.json) |
 | Gun on the Chickahominy | 148473 | [148473-gun-on-the-chickahominy.json](./148473-gun-on-the-chickahominy.json) |
 | Gun Paradise | 348260 | [348260-gun-paradise.json](./348260-gun-paradise.json) |
 | Gun Party | 158227 | [158227-gun-party.json](./158227-gun-party.json) |
