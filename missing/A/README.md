@@ -5391,6 +5391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arc Tracker | 338265 | [338265-arc-tracker.json](./338265-arc-tracker.json) |
 | Arc Vector | 126409 | [126409-arc-vector.json](./126409-arc-vector.json) |
 | ARC: Antic Runes Combat | 294277 | [294277-arc-antic-runes-combat.json](./294277-arc-antic-runes-combat.json) |
+| Arc’s Glitch Defender | 362391 | [362391-arc-s-glitch-defender.json](./362391-arc-s-glitch-defender.json) |
 | ARCA Sim Racing 08' | 197936 | [197936-arca-sim-racing-08.json](./197936-arca-sim-racing-08.json) |
 | ARCA Sim Racing X | 197923 | [197923-arca-sim-racing-x.json](./197923-arca-sim-racing-x.json) |
 | ARCA-102 | 342290 | [342290-arca-102.json](./342290-arca-102.json) |
