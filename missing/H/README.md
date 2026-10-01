@@ -4037,6 +4037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiveswap: Act 1 | 11631 | [11631-hiveswap-act-1.json](./11631-hiveswap-act-1.json) |
 | Hiveswap: Act 2 | 125164 | [125164-hiveswap-act-2.json](./125164-hiveswap-act-2.json) |
 | Hix: Puzzle Islands | 146842 | [146842-hix-puzzle-islands.json](./146842-hix-puzzle-islands.json) |
+| Hiyoshi Clinic | 341098 | [341098-hiyoshi-clinic.json](./341098-hiyoshi-clinic.json) |
 | Hiza no Ue no Partner: Kitty on Your Lap | 65494 | [65494-hiza-no-ue-no-partner-kitty-on-your-lap.json](./65494-hiza-no-ue-no-partner-kitty-on-your-lap.json) |
 | Hizca | 348929 | [348929-hizca.json](./348929-hizca.json) |
 | Hjarta | 169985 | [169985-hjarta.json](./169985-hjarta.json) |
