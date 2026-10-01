@@ -632,6 +632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Hope Z - VR | 117822 | [117822-last-hope-z-vr.json](./117822-last-hope-z-vr.json) |
 | Last Hopeless | 255991 | [255991-last-hopeless.json](./255991-last-hopeless.json) |
 | Last Hour | 192175 | [192175-last-hour.json](./192175-last-hour.json) |
+| Last House Survival: Zombie Defense | 371422 | [371422-last-house-survival-zombie-defense.json](./371422-last-house-survival-zombie-defense.json) |
 | Last Idea | 115448 | [115448-last-idea.json](./115448-last-idea.json) |
 | Last Imperial Prince | 45956 | [45956-last-imperial-prince.json](./45956-last-imperial-prince.json) |
 | Last in Orbit | 129063 | [129063-last-in-orbit.json](./129063-last-in-orbit.json) |
