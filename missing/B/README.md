@@ -4079,6 +4079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitesize Heroes: Forest Defender | 294303 | [294303-bitesize-heroes-forest-defender.json](./294303-bitesize-heroes-forest-defender.json) |
 | Bitfighter | 47275 | [47275-bitfighter.json](./47275-bitfighter.json) |
 | Bitgram | 55157 | [55157-bitgram.json](./55157-bitgram.json) |
+| BitHero Survivors | 366982 | [366982-bithero-survivors.json](./366982-bithero-survivors.json) |
 | BitLiberator | 340036 | [340036-bitliberator.json](./340036-bitliberator.json) |
 | BitLife | 140762 | [140762-bitlife.json](./140762-bitlife.json) |
 | Bitmap Bureau Collection | 287089 | [287089-bitmap-bureau-collection.json](./287089-bitmap-bureau-collection.json) |
