@@ -1509,6 +1509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casper and the Ghostly Trio | 83232 | [83232-casper-and-the-ghostly-trio.json](./83232-casper-and-the-ghostly-trio.json) |
 | Casper Brainy Book | 125318 | [125318-casper-brainy-book.json](./125318-casper-brainy-book.json) |
 | Casper: Friends Around the World | 44956 | [44956-casper-friends-around-the-world.json](./44956-casper-friends-around-the-world.json) |
+| Caspers | 337837 | [337837-caspers.json](./337837-caspers.json) |
 | Cassandra's Fabulous Foray | 67931 | [67931-cassandras-fabulous-foray.json](./67931-cassandras-fabulous-foray.json) |
 | Cassette 50 | 93344 | [93344-cassette-50.json](./93344-cassette-50.json) |
 | Cassette Beasts 2002 | 404378 | [404378-cassette-beasts-2002.json](./404378-cassette-beasts-2002.json) |
@@ -1793,6 +1794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Chases Mouse | 406722 | [406722-cat-chases-mouse.json](./406722-cat-chases-mouse.json) |
 | Cat City | 260227 | [260227-cat-city.json](./260227-cat-city.json) |
 | Cat Clean Ocean | 320916 | [320916-cat-clean-ocean.json](./320916-cat-clean-ocean.json) |
+| Cat Clicker | 337840 | [337840-cat-clicker.json](./337840-cat-clicker.json) |
 | Cat Clinic Simulator: Vet Hospital | 364075 | [364075-cat-clinic-simulator-vet-hospital.json](./364075-cat-clinic-simulator-vet-hospital.json) |
 | Cat Cosmic Puzzle | 347317 | [347317-cat-cosmic-puzzle.json](./347317-cat-cosmic-puzzle.json) |
 | Cat Crisis | 412438 | [412438-cat-crisis.json](./412438-cat-crisis.json) |
@@ -8102,6 +8104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepy Clown Revenge | 28054 | [28054-creepy-clown-revenge.json](./28054-creepy-clown-revenge.json) |
 | Creepy Corridors | 23902 | [23902-creepy-corridors.json](./23902-creepy-corridors.json) |
 | Creepy Crawlers | 317452 | [317452-creepy-crawlers.json](./317452-creepy-crawlers.json) |
+| Creepy Crawling | 337742 | [337742-creepy-crawling.json](./337742-creepy-crawling.json) |
 | Creepy Dungeons | 355609 | [355609-creepy-dungeons.json](./355609-creepy-dungeons.json) |
 | Creepy Dungeons Heroes | 226744 | [226744-creepy-dungeons-heroes.json](./226744-creepy-dungeons-heroes.json) |
 | Creepy Halloween Differences | 234172 | [234172-creepy-halloween-differences.json](./234172-creepy-halloween-differences.json) |
