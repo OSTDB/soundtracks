@@ -4231,6 +4231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Time Explosion | 125445 | [125445-pizza-time-explosion.json](./125445-pizza-time-explosion.json) |
 | Pizza to Osake to Suika-chan to! | 403162 | [403162-pizza-to-osake-to-suika-chan-to.json](./403162-pizza-to-osake-to-suika-chan-to.json) |
 | Pizza Tower Repainted | 365807 | [365807-pizza-tower-repainted.json](./365807-pizza-tower-repainted.json) |
+| Pizza Tower: Counterfeit Edition | 352342 | [352342-pizza-tower-counterfeit-edition.json](./352342-pizza-tower-counterfeit-edition.json) |
 | Pizza Tower: Final Round | 345569 | [345569-pizza-tower-final-round.json](./345569-pizza-tower-final-round.json) |
 | Pizza Tower: Idle Tycoon | 320926 | [320926-pizza-tower-idle-tycoon.json](./320926-pizza-tower-idle-tycoon.json) |
 | Pizza Tower: The Noise Update | 291543 | [291543-pizza-tower-the-noise-update.json](./291543-pizza-tower-the-noise-update.json) |
@@ -5355,6 +5356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Ranger: Shadows of Almia | 14699 | [14699-pokemon-ranger-shadows-of-almia.json](./14699-pokemon-ranger-shadows-of-almia.json) |
 | Pokémon Re:Union | 270629 | [270629-pokemon-re-union.json](./270629-pokemon-re-union.json) |
 | Pokémon Reborn | 127326 | [127326-pokemon-reborn.json](./127326-pokemon-reborn.json) |
+| Pokémon Recharged Pink | 352245 | [352245-pokemon-recharged-pink.json](./352245-pokemon-recharged-pink.json) |
 | Pokémon Recharged Yellow | 308400 | [308400-pokemon-recharged-yellow.json](./308400-pokemon-recharged-yellow.json) |
 | Pokémon Recordkeepers | 376582 | [376582-pokemon-recordkeepers.json](./376582-pokemon-recordkeepers.json) |
 | Pokémon Red Full Color | 213036 | [213036-pokemon-red-full-color.json](./213036-pokemon-red-full-color.json) |
@@ -8703,6 +8705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzles: Fish | 414498 | [414498-puzzles-fish.json](./414498-puzzles-fish.json) |
 | PuzzleScriptMis | 312684 | [312684-puzzlescriptmis.json](./312684-puzzlescriptmis.json) |
 | PuzzleSpin: Patterns in Nature | 98572 | [98572-puzzlespin-patterns-in-nature.json](./98572-puzzlespin-patterns-in-nature.json) |
+| Puzzlestuck | 352313 | [352313-puzzlestuck.json](./352313-puzzlestuck.json) |
 | PuzzleTales: Svalbard | 120202 | [120202-puzzletales-svalbard.json](./120202-puzzletales-svalbard.json) |
 | Puzzletronics Digital Infinite | 157039 | [157039-puzzletronics-digital-infinite.json](./157039-puzzletronics-digital-infinite.json) |
 | Puzzletrunk | 358452 | [358452-puzzletrunk.json](./358452-puzzletrunk.json) |
@@ -8837,6 +8840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pythagoria | 33723 | [33723-pythagoria.json](./33723-pythagoria.json) |
 | Pythian | 163922 | [163922-pythian.json](./163922-pythian.json) |
 | Pytho's Mask | 60016 | [60016-pythos-mask.json](./60016-pythos-mask.json) |
+| Pythonisa | 352336 | [352336-pythonisa.json](./352336-pythonisa.json) |
 | Pythonmancer | 298161 | [298161-pythonmancer.json](./298161-pythonmancer.json) |
 | PyWright Tutorial | 303767 | [303767-pywright-tutorial.json](./303767-pywright-tutorial.json) |
 | Pyxel Knight | 159850 | [159850-pyxel-knight.json](./159850-pyxel-knight.json) |
