@@ -2321,6 +2321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seedbo And That Time The Sun Exploded | 325829 | [325829-seedbo-and-that-time-the-sun-exploded.json](./325829-seedbo-and-that-time-the-sun-exploded.json) |
 | Seedborne Soldiers | 349390 | [349390-seedborne-soldiers.json](./349390-seedborne-soldiers.json) |
 | Seeders Puzzle Reboot | 123411 | [123411-seeders-puzzle-reboot.json](./123411-seeders-puzzle-reboot.json) |
+| SeedHero | 342709 | [342709-seedhero.json](./342709-seedhero.json) |
 | Seedling | 62421 | [62421-seedling.json](./62421-seedling.json) |
 | Seeds | 337669 | [337669-seeds.json](./337669-seeds.json) |
 | Seeds Life | 25756 | [25756-seeds-life.json](./25756-seeds-life.json) |
@@ -10014,6 +10015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectre | 59846 | [59846-spectre.json](./59846-spectre.json) |
 | Spectre Divide | 311967 | [311967-spectre-divide.json](./311967-spectre-divide.json) |
 | Spectre of Eternity | 210865 | [210865-spectre-of-eternity.json](./210865-spectre-of-eternity.json) |
+| Spectre Vigil | 342785 | [342785-spectre-vigil.json](./342785-spectre-vigil.json) |
 | Spectre's Library | 235971 | [235971-spectres-library.json](./235971-spectres-library.json) |
 | Spectres | 45359 | [45359-spectres.json](./45359-spectres.json) |
 | Spectrewoods | 154987 | [154987-spectrewoods.json](./154987-spectrewoods.json) |
@@ -15219,6 +15221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 64: All Star Adventure Extreme Edition | 215202 | [215202-super-mario-64-all-star-adventure-extreme-edition.json](./215202-super-mario-64-all-star-adventure-extreme-edition.json) |
 | Super Mario 64: Arguably Better Edition | 146248 | [146248-super-mario-64-arguably-better-edition.json](./146248-super-mario-64-arguably-better-edition.json) |
 | Super Mario 64: Beyond Hell Valley | 313301 | [313301-super-mario-64-beyond-hell-valley.json](./313301-super-mario-64-beyond-hell-valley.json) |
+| Super Mario 64: Dark Edition | 342830 | [342830-super-mario-64-dark-edition.json](./342830-super-mario-64-dark-edition.json) |
 | Super Mario 64: Gore/Hard-Mode | 326065 | [326065-super-mario-64-gore-hard-mode.json](./326065-super-mario-64-gore-hard-mode.json) |
 | Super Mario 64: Green Demon Challenge | 365714 | [365714-super-mario-64-green-demon-challenge.json](./365714-super-mario-64-green-demon-challenge.json) |
 | Super Mario 64: Ocarina of Time | 132837 | [132837-super-mario-64-ocarina-of-time.json](./132837-super-mario-64-ocarina-of-time.json) |
