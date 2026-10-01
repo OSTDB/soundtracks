@@ -1571,6 +1571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Protocol | 377288 | [377288-void-protocol.json](./377288-void-protocol.json) |
 | Void Raiders | 335962 | [335962-void-raiders.json](./335962-void-raiders.json) |
 | Void Reaver | 390730 | [390730-void-reaver.json](./390730-void-reaver.json) |
+| Void Red | 376001 | [376001-void-red.json](./376001-void-red.json) |
 | Void Rifter XR | 232920 | [232920-void-rifter-xr.json](./232920-void-rifter-xr.json) |
 | Void Runner | 259593 | [259593-void-runner.json](./259593-void-runner.json) |
 | Void Sails | 325647 | [325647-void-sails.json](./325647-void-sails.json) |
