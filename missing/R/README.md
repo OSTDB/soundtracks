@@ -2471,6 +2471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renascor | 389677 | [389677-renascor.json](./389677-renascor.json) |
 | Rencia | 120925 | [120925-rencia.json](./120925-rencia.json) |
 | Rend | 27770 | [27770-rend.json](./27770-rend.json) |
+| Rendagor | 372058 | [372058-rendagor.json](./372058-rendagor.json) |
 | Rendering Ranger: R2 | 38369 | [38369-rendering-ranger-r2.json](./38369-rendering-ranger-r2.json) |
 | Rendezvous | 144977 | [144977-rendezvous.json](./144977-rendezvous.json) |
 | Rendezvous Delano | 323295 | [323295-rendezvous-delano.json](./323295-rendezvous-delano.json) |
@@ -2650,6 +2651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Research Station | 273140 | [273140-research-station.json](./273140-research-station.json) |
 | Research Story | 168637 | [168637-research-story.json](./168637-research-story.json) |
 | Researcher | 143476 | [143476-researcher.json](./143476-researcher.json) |
+| Reseed | 372063 | [372063-reseed.json](./372063-reseed.json) |
 | Resequenced | 96650 | [96650-resequenced.json](./96650-resequenced.json) |
 | Reset | 195635 | [195635-reset.json](./195635-reset.json) |
 | Reset | 23906 | [23906-reset.json](./23906-reset.json) |
