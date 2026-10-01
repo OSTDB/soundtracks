@@ -1412,6 +1412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Days of Purgatory | 76706 | [76706-days-of-purgatory.json](./76706-days-of-purgatory.json) |
 | Days of Reckoning: Last Battle | 402898 | [402898-days-of-reckoning-last-battle.json](./402898-days-of-reckoning-last-battle.json) |
 | Days of Saturn | 326062 | [326062-days-of-saturn.json](./326062-days-of-saturn.json) |
+| Days of the Dead | 335481 | [335481-days-of-the-dead.json](./335481-days-of-the-dead.json) |
 | Days of the Divine | 243955 | [243955-days-of-the-divine.json](./243955-days-of-the-divine.json) |
 | Days of Thunder | 326790 | [326790-days-of-thunder.json](./326790-days-of-thunder.json) |
 | Days of Thunder: Arcade | 47436 | [47436-days-of-thunder-arcade.json](./47436-days-of-thunder-arcade.json) |
@@ -1435,6 +1436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daze Before Christmas | 7662 | [7662-daze-before-christmas.json](./7662-daze-before-christmas.json) |
 | Dazzeloids | 64351 | [64351-dazzeloids.json](./64351-dazzeloids.json) |
 | Dazzly Stories: Ambre's Secret | 346723 | [346723-dazzly-stories-ambres-secret.json](./346723-dazzly-stories-ambres-secret.json) |
+| DB2: Disco Boogie of the Dead Beats | 335499 | [335499-db2-disco-boogie-of-the-dead-beats.json](./335499-db2-disco-boogie-of-the-dead-beats.json) |
 | DBall | 339368 | [339368-dball.json](./339368-dball.json) |
 | DC Battle Arena | 137600 | [137600-dc-battle-arena.json](./137600-dc-battle-arena.json) |
 | DC Comics Legends | 60027 | [60027-dc-comics-legends.json](./60027-dc-comics-legends.json) |
@@ -2418,6 +2420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Forest Chapter 2 | 362931 | [362931-deep-forest-chapter-2.json](./362931-deep-forest-chapter-2.json) |
 | Deep Freeze | 44757 | [44757-deep-freeze.json](./44757-deep-freeze.json) |
 | Deep Fried Nikki | 229667 | [229667-deep-fried-nikki.json](./229667-deep-fried-nikki.json) |
+| Deep Fringe | 335419 | [335419-deep-fringe.json](./335419-deep-fringe.json) |
 | Deep Fry Maker | 227520 | [227520-deep-fry-maker.json](./227520-deep-fry-maker.json) |
 | Deep Golf | 250658 | [250658-deep-golf.json](./250658-deep-golf.json) |
 | Deep Horizon | 41969 | [41969-deep-horizon.json](./41969-deep-horizon.json) |
@@ -2889,6 +2892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demigod Idle: Rise of a legend | 265426 | [265426-demigod-idle-rise-of-a-legend.json](./265426-demigod-idle-rise-of-a-legend.json) |
 | Demigod Islands: A Puzzle to Die For | 390620 | [390620-demigod-islands-a-puzzle-to-die-for.json](./390620-demigod-islands-a-puzzle-to-die-for.json) |
 | Demigod Kiugi | 245267 | [245267-demigod-kiugi.json](./245267-demigod-kiugi.json) |
+| Demigoddess! | 335418 | [335418-demigoddess.json](./335418-demigoddess.json) |
 | Demigods | 34304 | [34304-demigods.json](./34304-demigods.json) |
 | Demining | 342163 | [342163-demining.json](./342163-demining.json) |
 | Demise Sanctuary | 201243 | [201243-demise-sanctuary.json](./201243-demise-sanctuary.json) |
