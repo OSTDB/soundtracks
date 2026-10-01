@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sad Ghouls | 194655 | [194655-sad-ghouls.json](./194655-sad-ghouls.json) |
 | Sad RPG | 124135 | [124135-sad-rpg.json](./124135-sad-rpg.json) |
 | Sad Satan | 136346 | [136346-sad-satan.json](./136346-sad-satan.json) |
+| Sad Virus | 367548 | [367548-sad-virus.json](./367548-sad-virus.json) |
 | Sad Virus Asia | 403181 | [403181-sad-virus-asia.json](./403181-sad-virus-asia.json) |
 | Sad Virus Darkland | 412510 | [412510-sad-virus-darkland.json](./412510-sad-virus-darkland.json) |
 | Sad Virus Foodland | 367389 | [367389-sad-virus-foodland.json](./367389-sad-virus-foodland.json) |
@@ -1159,6 +1160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Santa | 219611 | [219611-save-santa.json](./219611-save-santa.json) |
 | Save Snegurochka | 99021 | [99021-save-snegurochka.json](./99021-save-snegurochka.json) |
 | Save The Babies | 335260 | [335260-save-the-babies.json](./335260-save-the-babies.json) |
+| Save The Bear Cubs | 367564 | [367564-save-the-bear-cubs.json](./367564-save-the-bear-cubs.json) |
 | Save the Body | 190466 | [190466-save-the-body.json](./190466-save-the-body.json) |
 | Save the City | 359440 | [359440-save-the-city.json](./359440-save-the-city.json) |
 | Save the Creatures | 34194 | [34194-save-the-creatures.json](./34194-save-the-creatures.json) |
@@ -3778,6 +3780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheer Poison | 142884 | [142884-sheer-poison.json](./142884-sheer-poison.json) |
 | Sheesh Adventures | 58492 | [58492-sheesh-adventures.json](./58492-sheesh-adventures.json) |
 | Shei Toule Wo de Nu Pengyou | 322344 | [322344-shei-toule-wo-de-nu-pengyou.json](./322344-shei-toule-wo-de-nu-pengyou.json) |
+| Shel: The Cure | 367565 | [367565-shel-the-cure.json](./367565-shel-the-cure.json) |
 | Shelf | 278694 | [278694-shelf.json](./278694-shelf.json) |
 | Shelf Happens | 419828 | [419828-shelf-happens.json](./419828-shelf-happens.json) |
 | Shelf Heroes | 336147 | [336147-shelf-heroes.json](./336147-shelf-heroes.json) |
@@ -3936,6 +3939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shifters | 43557 | [43557-shifters.json](./43557-shifters.json) |
 | Shifting Planes of Existence | 271793 | [271793-shifting-planes-of-existence.json](./271793-shifting-planes-of-existence.json) |
 | Shifting Sand Land | 308232 | [308232-shifting-sand-land.json](./308232-shifting-sand-land.json) |
+| Shifting Sands | 367543 | [367543-shifting-sands.json](./367543-shifting-sands.json) |
 | Shiftlings | 9215 | [9215-shiftlings.json](./9215-shiftlings.json) |
 | Shigatsu Boujitsu, Hana Kudaru Yoru | 398357 | [398357-shigatsu-boujitsu-hana-kudaru-yoru.json](./398357-shigatsu-boujitsu-hana-kudaru-yoru.json) |
 | Shigatsu Youka | 275642 | [275642-shigatsu-youka.json](./275642-shigatsu-youka.json) |
@@ -8909,6 +8913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulframe | 209643 | [209643-soulframe.json](./209643-soulframe.json) |
 | SoulFrost | 90653 | [90653-soulfrost.json](./90653-soulfrost.json) |
 | SoulfulLand | 126604 | [126604-soulfulland.json](./126604-soulfulland.json) |
+| SoulGatherer | 367539 | [367539-soulgatherer.json](./367539-soulgatherer.json) |
 | Soulgrave | 412294 | [412294-soulgrave.json](./412294-soulgrave.json) |
 | SoulHunt | 32121 | [32121-soulhunt.json](./32121-soulhunt.json) |
 | Soulitaire | 204520 | [204520-soulitaire.json](./204520-soulitaire.json) |
@@ -10703,6 +10708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spore: Galactic Edition | 46617 | [46617-spore-galactic-edition.json](./46617-spore-galactic-edition.json) |
 | SporeBloom | 304716 | [304716-sporebloom.json](./304716-sporebloom.json) |
 | Sporeborn Dark | 272907 | [272907-sporeborn-dark.json](./272907-sporeborn-dark.json) |
+| Sporeborne | 367535 | [367535-sporeborne.json](./367535-sporeborne.json) |
 | Sporos | 203314 | [203314-sporos.json](./203314-sporos.json) |
 | Sport & Fun: Swimming - Amazing Edition | 283165 | [283165-sport-and-fun-swimming-amazing-edition.json](./283165-sport-and-fun-swimming-amazing-edition.json) |
 | Sport & Fun: Swimming - Complete + | 328836 | [328836-sport-and-fun-swimming-complete.json](./328836-sport-and-fun-swimming-complete.json) |
@@ -13785,6 +13791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subrov | 152859 | [152859-subrov.json](./152859-subrov.json) |
 | Subsiege | 26677 | [26677-subsiege.json](./26677-subsiege.json) |
 | Subsist: Apocalypse Survival | 296453 | [296453-subsist-apocalypse-survival.json](./296453-subsist-apocalypse-survival.json) |
+| Subspace Reticulum | 367537 | [367537-subspace-reticulum.json](./367537-subspace-reticulum.json) |
 | Substrate: Emergence | 398531 | [398531-substrate-emergence.json](./398531-substrate-emergence.json) |
 | Substructure | 380408 | [380408-substructure.json](./380408-substructure.json) |
 | Subsuelo | 272035 | [272035-subsuelo.json](./272035-subsuelo.json) |
@@ -14144,6 +14151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer and Poetry Journey | 308909 | [308909-summer-and-poetry-journey.json](./308909-summer-and-poetry-journey.json) |
 | Summer at Marisol Bay | 183035 | [183035-summer-at-marisol-bay.json](./183035-summer-at-marisol-bay.json) |
 | Summer Athletics | 5196 | [5196-summer-athletics.json](./5196-summer-athletics.json) |
+| Summer Beach Trip | 367560 | [367560-summer-beach-trip.json](./367560-summer-beach-trip.json) |
 | Summer Beach Vacation Objects - Hidden Object Time | 102814 | [102814-summer-beach-vacation-objects-hidden-object-time.json](./102814-summer-beach-vacation-objects-hidden-object-time.json) |
 | Summer Before Dawn | 389745 | [389745-summer-before-dawn.json](./389745-summer-before-dawn.json) |
 | Summer Camp | 167865 | [167865-summer-camp.json](./167865-summer-camp.json) |
@@ -16570,6 +16578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Bakery Tycoon: Super Edition | 315851 | [315851-sweet-bakery-tycoon-super-edition.json](./315851-sweet-bakery-tycoon-super-edition.json) |
 | Sweet Bakery Tycoon: Value Edition | 317243 | [317243-sweet-bakery-tycoon-value-edition.json](./317243-sweet-bakery-tycoon-value-edition.json) |
 | Sweet Bar | 392908 | [392908-sweet-bar.json](./392908-sweet-bar.json) |
+| Sweet Beach Holidays | 367567 | [367567-sweet-beach-holidays.json](./367567-sweet-beach-holidays.json) |
 | Sweet Bell Day: The Game | 123414 | [123414-sweet-bell-day-the-game.json](./123414-sweet-bell-day-the-game.json) |
 | Sweet Berry Crush | 55444 | [55444-sweet-berry-crush.json](./55444-sweet-berry-crush.json) |
 | Sweet Cafe | 239881 | [239881-sweet-cafe.json](./239881-sweet-cafe.json) |
