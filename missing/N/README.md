@@ -2034,6 +2034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Driver | 260733 | [260733-night-driver.json](./260733-night-driver.json) |
 | Night Driver | 311116 | [311116-night-driver.json](./311116-night-driver.json) |
 | Night Drone | 373654 | [373654-night-drone.json](./373654-night-drone.json) |
+| Night Errand | 381200 | [381200-night-errand.json](./381200-night-errand.json) |
 | Night Errors | 395798 | [395798-night-errors.json](./395798-night-errors.json) |
 | Night Escaper | 201266 | [201266-night-escaper.json](./201266-night-escaper.json) |
 | Night Feeder | 279104 | [279104-night-feeder.json](./279104-night-feeder.json) |
@@ -2774,6 +2775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Jokes With Mages | 392373 | [392373-no-jokes-with-mages.json](./392373-no-jokes-with-mages.json) |
 | No King No Kingdom | 75606 | [75606-no-king-no-kingdom.json](./75606-no-king-no-kingdom.json) |
 | No Kings Tiny Defenders | 376455 | [376455-no-kings-tiny-defenders.json](./376455-no-kings-tiny-defenders.json) |
+| No Law | 381205 | [381205-no-law.json](./381205-no-law.json) |
 | No Light | 150684 | [150684-no-light.json](./150684-no-light.json) |
 | No Lights | 52080 | [52080-no-lights.json](./52080-no-lights.json) |
 | No Limit Drag Racing 2 | 227370 | [227370-no-limit-drag-racing-2.json](./227370-no-limit-drag-racing-2.json) |
