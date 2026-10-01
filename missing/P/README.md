@@ -4332,6 +4332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Romance Girls: Conquer the Zodiac Horoscope | 378862 | [378862-planet-romance-girls-conquer-the-zodiac-horoscope.json](./378862-planet-romance-girls-conquer-the-zodiac-horoscope.json) |
 | Planet Royale | 292556 | [292556-planet-royale.json](./292556-planet-royale.json) |
 | Planet Runners | 96258 | [96258-planet-runners.json](./96258-planet-runners.json) |
+| Planet S: A New Horizon | 369146 | [369146-planet-s-a-new-horizon.json](./369146-planet-s-a-new-horizon.json) |
 | Planet Smashers | 12336 | [12336-planet-smashers.json](./12336-planet-smashers.json) |
 | Planet Soccer | 57688 | [57688-planet-soccer.json](./57688-planet-soccer.json) |
 | Planet Squirrel | 106743 | [106743-planet-squirrel.json](./106743-planet-squirrel.json) |
