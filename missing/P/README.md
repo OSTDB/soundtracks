@@ -3567,6 +3567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pioneer | 370851 | [370851-pioneer.json](./370851-pioneer.json) |
 | Pioneer | 61666 | [61666-pioneer.json](./61666-pioneer.json) |
 | Pioneer Lands | 59430 | [59430-pioneer-lands.json](./59430-pioneer-lands.json) |
+| Pioneer Racing | 338306 | [338306-pioneer-racing.json](./338306-pioneer-racing.json) |
 | Pioneer Space Sim | 179050 | [179050-pioneer-space-sim.json](./179050-pioneer-space-sim.json) |
 | Pioneers | 63237 | [63237-pioneers.json](./63237-pioneers.json) |
 | Pioneers of New World | 336724 | [336724-pioneers-of-new-world.json](./336724-pioneers-of-new-world.json) |
@@ -4072,6 +4073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Zombies | 162941 | [162941-pixel-puzzles-illustrations-and-anime-jigsaw-pack-zombies.json](./162941-pixel-puzzles-illustrations-and-anime-jigsaw-pack-zombies.json) |
 | Pixel Quest | 246099 | [246099-pixel-quest.json](./246099-pixel-quest.json) |
 | Pixel Quest: Lost Relics | 304560 | [304560-pixel-quest-lost-relics.json](./304560-pixel-quest-lost-relics.json) |
+| Pixel Quest: Realm Eater | 338344 | [338344-pixel-quest-realm-eater.json](./338344-pixel-quest-realm-eater.json) |
 | Pixel Quest: The Lost Gifts | 413681 | [413681-pixel-quest-the-lost-gifts.json](./413681-pixel-quest-the-lost-gifts.json) |
 | Pixel Quest: The Lost Idols | 413680 | [413680-pixel-quest-the-lost-idols.json](./413680-pixel-quest-the-lost-idols.json) |
 | Pixel Race Maker | 309443 | [309443-pixel-race-maker.json](./309443-pixel-race-maker.json) |
@@ -4898,6 +4900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pochi and Nyaa | 40188 | [40188-pochi-and-nyaa.json](./40188-pochi-and-nyaa.json) |
 | Pocke-Kano: Shizuka Houjouin | 166553 | [166553-pocke-kano-shizuka-houjouin.json](./166553-pocke-kano-shizuka-houjouin.json) |
 | Pocke-Kano: Yumi Aida | 166552 | [166552-pocke-kano-yumi-aida.json](./166552-pocke-kano-yumi-aida.json) |
+| Pocket & Zooom | 338310 | [338310-pocket-and-zooom.json](./338310-pocket-and-zooom.json) |
 | Pocket Action: Pro Football | 245423 | [245423-pocket-action-pro-football.json](./245423-pocket-action-pro-football.json) |
 | Pocket Adventurer | 416043 | [416043-pocket-adventurer.json](./416043-pocket-adventurer.json) |
 | Pocket Ants | 193954 | [193954-pocket-ants.json](./193954-pocket-ants.json) |
@@ -8783,6 +8786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PuzzleSpin: Patterns in Nature | 98572 | [98572-puzzlespin-patterns-in-nature.json](./98572-puzzlespin-patterns-in-nature.json) |
 | Puzzlestuck | 352313 | [352313-puzzlestuck.json](./352313-puzzlestuck.json) |
 | PuzzleTales: Svalbard | 120202 | [120202-puzzletales-svalbard.json](./120202-puzzletales-svalbard.json) |
+| Puzzletown Mysteries | 338343 | [338343-puzzletown-mysteries.json](./338343-puzzletown-mysteries.json) |
 | Puzzletronics Digital Infinite | 157039 | [157039-puzzletronics-digital-infinite.json](./157039-puzzletronics-digital-infinite.json) |
 | Puzzletrunk | 358452 | [358452-puzzletrunk.json](./358452-puzzletrunk.json) |
 | Puzzleverse | 358453 | [358453-puzzleverse.json](./358453-puzzleverse.json) |
