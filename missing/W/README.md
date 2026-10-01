@@ -1538,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weird creatures | 30779 | [30779-weird-creatures.json](./30779-weird-creatures.json) |
 | Weird Dreams | 12232 | [12232-weird-dreams.json](./12232-weird-dreams.json) |
 | Weird Hat Fight | 201804 | [201804-weird-hat-fight.json](./201804-weird-hat-fight.json) |
+| Weird Little Guys | 335422 | [335422-weird-little-guys.json](./335422-weird-little-guys.json) |
 | Weird Park: Scary Tales | 53128 | [53128-weird-park-scary-tales.json](./53128-weird-park-scary-tales.json) |
 | Weird Pizza Dreams | 323344 | [323344-weird-pizza-dreams.json](./323344-weird-pizza-dreams.json) |
 | Weird Rituals in the Ancient Temples | 98403 | [98403-weird-rituals-in-the-ancient-temples.json](./98403-weird-rituals-in-the-ancient-temples.json) |
@@ -3182,6 +3183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Battle | 121638 | [121638-wizard-battle.json](./121638-wizard-battle.json) |
 | Wizard Bros | 158233 | [158233-wizard-bros.json](./158233-wizard-bros.json) |
 | Wizard Card Game | 144116 | [144116-wizard-card-game.json](./144116-wizard-card-game.json) |
+| Wizard Cats | 335494 | [335494-wizard-cats.json](./335494-wizard-cats.json) |
 | Wizard Confidential | 401549 | [401549-wizard-confidential.json](./401549-wizard-confidential.json) |
 | Wizard Defenders | 85493 | [85493-wizard-defenders.json](./85493-wizard-defenders.json) |
 | Wizard Duel | 312542 | [312542-wizard-duel.json](./312542-wizard-duel.json) |
