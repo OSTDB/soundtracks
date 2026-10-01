@@ -1403,6 +1403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Were Here Together | 109535 | [109535-we-were-here-together.json](./109535-we-were-here-together.json) |
 | We Were Here Tomorrow | 393015 | [393015-we-were-here-tomorrow.json](./393015-we-were-here-tomorrow.json) |
 | We Were Here Too | 54486 | [54486-we-were-here-too.json](./54486-we-were-here-too.json) |
+| We Will Be Gods | 342716 | [342716-we-will-be-gods.json](./342716-we-will-be-gods.json) |
 | We, Junk Artists | 369043 | [369043-we-junk-artists.json](./369043-we-junk-artists.json) |
 | We'll always have Paris | 164263 | [164263-well-always-have-paris.json](./164263-well-always-have-paris.json) |
 | We'll Be Alright | 310564 | [310564-well-be-alright.json](./310564-well-be-alright.json) |
