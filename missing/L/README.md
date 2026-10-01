@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LabyrinTheam | 399687 | [399687-labyrintheam.json](./399687-labyrintheam.json) |
 | Labyrinthian: Lost 'til Dawn | 238512 | [238512-labyrinthian-lost-til-dawn.json](./238512-labyrinthian-lost-til-dawn.json) |
 | Labyrinthine | 133409 | [133409-labyrinthine.json](./133409-labyrinthine.json) |
+| Labyrinthine Dread | 342789 | [342789-labyrinthine-dread.json](./342789-labyrinthine-dread.json) |
 | Labyrinthine Dreams | 17077 | [17077-labyrinthine-dreams.json](./17077-labyrinthine-dreams.json) |
 | Labyrinthion | 92848 | [92848-labyrinthion.json](./92848-labyrinthion.json) |
 | Labyrinthos: The Depths Want You | 408764 | [408764-labyrinthos-the-depths-want-you.json](./408764-labyrinthos-the-depths-want-you.json) |
@@ -815,6 +816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Launch Window | 412486 | [412486-launch-window.json](./412486-launch-window.json) |
 | Launcher | 358923 | [358923-launcher.json](./358923-launcher.json) |
 | Launcher Heroes | 236817 | [236817-launcher-heroes.json](./236817-launcher-heroes.json) |
+| Launching Over It | 342796 | [342796-launching-over-it.json](./342796-launching-over-it.json) |
 | Launderley | 374304 | [374304-launderley.json](./374304-launderley.json) |
 | Laundro-Mess | 185551 | [185551-laundro-mess.json](./185551-laundro-mess.json) |
 | Laundromat 8 | 414615 | [414615-laundromat-8.json](./414615-laundromat-8.json) |
@@ -4848,6 +4850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lust from Beyond: Scarlet | 141129 | [141129-lust-from-beyond-scarlet.json](./141129-lust-from-beyond-scarlet.json) |
 | Lust Galaxy | 309478 | [309478-lust-galaxy.json](./309478-lust-galaxy.json) |
 | Lust Girl | 241514 | [241514-lust-girl.json](./241514-lust-girl.json) |
+| Lust Goddess | 342791 | [342791-lust-goddess.json](./342791-lust-goddess.json) |
 | Lust Harem 1001 Pleasures | 384757 | [384757-lust-harem-1001-pleasures.json](./384757-lust-harem-1001-pleasures.json) |
 | Lust Island | 384761 | [384761-lust-island.json](./384761-lust-island.json) |
 | Lust Kingdom | 264032 | [264032-lust-kingdom.json](./264032-lust-kingdom.json) |
