@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raahi | 379051 | [379051-raahi.json](./379051-raahi.json) |
 | Raanaa: The Shaman Girl | 321137 | [321137-raanaa-the-shaman-girl.json](./321137-raanaa-the-shaman-girl.json) |
 | Raanaa: The Shaman Girl - Helheim | 342145 | [342145-raanaa-the-shaman-girl-helheim.json](./342145-raanaa-the-shaman-girl-helheim.json) |
+| Raanaa: The Shaman Girl - The Frozen World | 335407 | [335407-raanaa-the-shaman-girl-the-frozen-world.json](./335407-raanaa-the-shaman-girl-the-frozen-world.json) |
 | Raanaa: The Shaman Girl - The Windman's Land | 321148 | [321148-raanaa-the-shaman-girl-the-windmans-land.json](./321148-raanaa-the-shaman-girl-the-windmans-land.json) |
 | Raanaa: The Shaman Girl - Valhalla | 342142 | [342142-raanaa-the-shaman-girl-valhalla.json](./342142-raanaa-the-shaman-girl-valhalla.json) |
 | Rabanaz | 403571 | [403571-rabanaz.json](./403571-rabanaz.json) |
@@ -325,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radical Aces | 320919 | [320919-radical-aces.json](./320919-radical-aces.json) |
 | Radical Bomber!! Jirai-kun | 41392 | [41392-radical-bomber-jirai-kun.json](./41392-radical-bomber-jirai-kun.json) |
 | Radical Dreamers: Le Trésor Interdit | 1803 | [1803-radical-dreamers-le-tresor-interdit.json](./1803-radical-dreamers-le-tresor-interdit.json) |
+| Radical Dreamers: Le Trésor Interdit | 335489 | [335489-radical-dreamers-le-tresor-interdit.json](./335489-radical-dreamers-le-tresor-interdit.json) |
 | Radical Fishing | 283311 | [283311-radical-fishing.json](./283311-radical-fishing.json) |
 | Radical Heroes: Crimson City Crisis | 31630 | [31630-radical-heroes-crimson-city-crisis.json](./31630-radical-heroes-crimson-city-crisis.json) |
 | Radical Rex | 5427 | [5427-radical-rex.json](./5427-radical-rex.json) |
@@ -359,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radio.Signal | 176910 | [176910-radio-signal.json](./176910-radio-signal.json) |
 | Radioactive | 29757 | [29757-radioactive.json](./29757-radioactive.json) |
 | Radioactive Dwarfs: Evil From the Sewers | 159731 | [159731-radioactive-dwarfs-evil-from-the-sewers.json](./159731-radioactive-dwarfs-evil-from-the-sewers.json) |
+| Radioactivity | 335502 | [335502-radioactivity.json](./335502-radioactivity.json) |
 | Radiolight | 170912 | [170912-radiolight.json](./170912-radiolight.json) |
 | Radiometric Dating | 193461 | [193461-radiometric-dating.json](./193461-radiometric-dating.json) |
 | Radiotelegraphist | 188940 | [188940-radiotelegraphist.json](./188940-radiotelegraphist.json) |
@@ -1385,6 +1388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ready Set Golf | 235351 | [235351-ready-set-golf.json](./235351-ready-set-golf.json) |
 | Ready Set Sumo! | 216758 | [216758-ready-set-sumo.json](./216758-ready-set-sumo.json) |
 | Ready Steady Play | 61073 | [61073-ready-steady-play.json](./61073-ready-steady-play.json) |
+| Ready, Set, Party Collection | 335510 | [335510-ready-set-party-collection.json](./335510-ready-set-party-collection.json) |
 | Ready, Set, Plumb! | 306352 | [306352-ready-set-plumb.json](./306352-ready-set-plumb.json) |
 | Ready, Set, Read with Bananas & Jack | 148450 | [148450-ready-set-read-with-bananas-and-jack.json](./148450-ready-set-read-with-bananas-and-jack.json) |
 | Ready? Set. Haiya! | 149601 | [149601-ready-set-haiya.json](./149601-ready-set-haiya.json) |
@@ -5338,6 +5342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room 14 | 301855 | [301855-room-14.json](./301855-room-14.json) |
 | Room 40 | 120364 | [120364-room-40.json](./120364-room-40.json) |
 | Room 404 | 55191 | [55191-room-404.json](./55191-room-404.json) |
+| Room 54: Horde Survival | 335414 | [335414-room-54-horde-survival.json](./335414-room-54-horde-survival.json) |
 | Room 817 | 262379 | [262379-room-817.json](./262379-room-817.json) |
 | Room Box | 195701 | [195701-room-box.json](./195701-room-box.json) |
 | Room by Room | 410932 | [410932-room-by-room.json](./410932-room-by-room.json) |
@@ -6110,6 +6115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runes of Dragon | 193957 | [193957-runes-of-dragon.json](./193957-runes-of-dragon.json) |
 | Runes of Legend | 326617 | [326617-runes-of-legend.json](./326617-runes-of-legend.json) |
 | Runes of Magic: Dragon Adventure Pack | 169974 | [169974-runes-of-magic-dragon-adventure-pack.json](./169974-runes-of-magic-dragon-adventure-pack.json) |
+| Runes of Mystery | 335420 | [335420-runes-of-mystery.json](./335420-runes-of-mystery.json) |
 | Runes of the Abyss | 348246 | [348246-runes-of-the-abyss.json](./348246-runes-of-the-abyss.json) |
 | Runes Saga: Puzzle Adventure | 122208 | [122208-runes-saga-puzzle-adventure.json](./122208-runes-saga-puzzle-adventure.json) |
 | Runes: Hidden Objects Puzzle Game | 312686 | [312686-runes-hidden-objects-puzzle-game.json](./312686-runes-hidden-objects-puzzle-game.json) |
