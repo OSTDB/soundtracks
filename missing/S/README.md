@@ -1844,6 +1844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam G Generation: Mono-Eye Gundams | 37320 | [37320-sd-gundam-g-generation-mono-eye-gundams.json](./37320-sd-gundam-g-generation-mono-eye-gundams.json) |
 | SD Gundam G Next | 38324 | [38324-sd-gundam-g-next.json](./38324-sd-gundam-g-next.json) |
 | SD Gundam G Next: Tsuika Unit Map Data | 234760 | [234760-sd-gundam-g-next-tsuika-unit-map-data.json](./234760-sd-gundam-g-next-tsuika-unit-map-data.json) |
+| SD Gundam Gaiden IV: Hikari no Knight Densetsu | 385788 | [385788-sd-gundam-gaiden-iv-hikari-no-knight-densetsu.json](./385788-sd-gundam-gaiden-iv-hikari-no-knight-densetsu.json) |
 | SD Gundam Gaiden: Knight Gundam Monogatari | 38326 | [38326-sd-gundam-gaiden-knight-gundam-monogatari.json](./38326-sd-gundam-gaiden-knight-gundam-monogatari.json) |
 | SD Gundam Gaiden: Knight Gundam Monogatari 2 - Hikari no Knight | 48854 | [48854-sd-gundam-gaiden-knight-gundam-monogatari-2-hikari-no-knight.json](./48854-sd-gundam-gaiden-knight-gundam-monogatari-2-hikari-no-knight.json) |
 | SD Gundam Gaiden: Knight Gundam Monogatari 3 - Densetsu no Kishi-dan | 48853 | [48853-sd-gundam-gaiden-knight-gundam-monogatari-3-densetsu-no-kishi-dan.json](./48853-sd-gundam-gaiden-knight-gundam-monogatari-3-densetsu-no-kishi-dan.json) |
@@ -3572,6 +3573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shark Go | 406781 | [406781-shark-go.json](./406781-shark-go.json) |
 | Shark Hunt | 346097 | [346097-shark-hunt.json](./346097-shark-hunt.json) |
 | Shark Hunter | 41572 | [41572-shark-hunter.json](./41572-shark-hunter.json) |
+| Shark Island | 385792 | [385792-shark-island.json](./385792-shark-island.json) |
 | Shark Mart | 402445 | [402445-shark-mart.json](./402445-shark-mart.json) |
 | Shark or Die | 61105 | [61105-shark-or-die.json](./61105-shark-or-die.json) |
 | Shark Pinball | 165614 | [165614-shark-pinball.json](./165614-shark-pinball.json) |
@@ -3976,6 +3978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Pokémon: Blue Version | 275103 | [275103-shin-pokemon-blue-version.json](./275103-shin-pokemon-blue-version.json) |
 | Shin Pokemon: Green Version | 275105 | [275105-shin-pokemon-green-version.json](./275105-shin-pokemon-green-version.json) |
 | Shin Pokemon: Red Version | 275104 | [275104-shin-pokemon-red-version.json](./275104-shin-pokemon-red-version.json) |
+| Shin SD Sengokuden: Chijou Saikyou-hen - Ryuuko Daigekitotsu! | 385789 | [385789-shin-sd-sengokuden-chijou-saikyou-hen-ryuuko-daigekitotsu.json](./385789-shin-sd-sengokuden-chijou-saikyou-hen-ryuuko-daigekitotsu.json) |
 | Shin Super Robot Taisen | 43908 | [43908-shin-super-robot-taisen.json](./43908-shin-super-robot-taisen.json) |
 | Shin Tennis no Ouji-sama: Let's Go!! Daily Life from RisingBeat | 222249 | [222249-shin-tennis-no-ouji-sama-lets-go-daily-life-from-risingbeat.json](./222249-shin-tennis-no-ouji-sama-lets-go-daily-life-from-risingbeat.json) |
 | Shin-chan: Bundle | 324125 | [324125-shin-chan-bundle.json](./324125-shin-chan-bundle.json) |
@@ -4310,6 +4313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot Yourself With a Rifle | 336531 | [336531-shoot-yourself-with-a-rifle.json](./336531-shoot-yourself-with-a-rifle.json) |
 | Shoot-No-Shoot | 107805 | [107805-shoot-no-shoot.json](./107805-shoot-no-shoot.json) |
 | Shoot-Out | 71588 | [71588-shoot-out.json](./71588-shoot-out.json) |
+| Shoot! & Ahhhhh | 385816 | [385816-shoot-and-ahhhhh.json](./385816-shoot-and-ahhhhh.json) |
 | Shoot! VR | 230948 | [230948-shoot-vr.json](./230948-shoot-vr.json) |
 | Shoot'n'Scroll 3D | 109875 | [109875-shootnscroll-3d.json](./109875-shootnscroll-3d.json) |
 | Shooter Game | 107871 | [107871-shooter-game.json](./107871-shooter-game.json) |
@@ -6554,6 +6558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slumberfish! | 243954 | [243954-slumberfish.json](./243954-slumberfish.json) |
 | Slums of Tetsoidea | 186820 | [186820-slums-of-tetsoidea.json](./186820-slums-of-tetsoidea.json) |
 | Slurpy | 25712 | [25712-slurpy.json](./25712-slurpy.json) |
+| Slut Squad | 385808 | [385808-slut-squad.json](./385808-slut-squad.json) |
 | Sly 3: Honor Among Thieves | 1800 | [1800-sly-3-honor-among-thieves.json](./1800-sly-3-honor-among-thieves.json) |
 | Sly 3: Honor Among Thieves | 222127 | [222127-sly-3-honor-among-thieves.json](./222127-sly-3-honor-among-thieves.json) |
 | Sly Cooper and the Thievius Raccoonus | 1798 | [1798-sly-cooper-and-the-thievius-raccoonus.json](./1798-sly-cooper-and-the-thievius-raccoonus.json) |
@@ -7613,6 +7618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Core | 68683 | [68683-solar-core.json](./68683-solar-core.json) |
 | Solar Cram School | 122393 | [122393-solar-cram-school.json](./122393-solar-cram-school.json) |
 | Solar Crusade | 45908 | [45908-solar-crusade.json](./45908-solar-crusade.json) |
+| Solar Derby | 385799 | [385799-solar-derby.json](./385799-solar-derby.json) |
 | Solar Dreamer Nikko | 369203 | [369203-solar-dreamer-nikko.json](./369203-solar-dreamer-nikko.json) |
 | Solar Echoes: The Star Legation | 149056 | [149056-solar-echoes-the-star-legation.json](./149056-solar-echoes-the-star-legation.json) |
 | Solar Expanse | 219595 | [219595-solar-expanse.json](./219595-solar-expanse.json) |
@@ -9210,6 +9216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hulk: Space Wolves Chapter | 168865 | [168865-space-hulk-space-wolves-chapter.json](./168865-space-hulk-space-wolves-chapter.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
 | Space Hunter | 271175 | [271175-space-hunter.json](./271175-space-hunter.json) |
+| Space Hurricane | 385796 | [385796-space-hurricane.json](./385796-space-hurricane.json) |
 | Space Hurricane Storm | 102388 | [102388-space-hurricane-storm.json](./102388-space-hurricane-storm.json) |
 | Space II | 84202 | [84202-space-ii.json](./84202-space-ii.json) |
 | Space Imperia 4X | 391570 | [391570-space-imperia-4x.json](./391570-space-imperia-4x.json) |
@@ -9398,6 +9405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Show Edition 17 | 290709 | [290709-space-show-edition-17.json](./290709-space-show-edition-17.json) |
 | Space Shrooms RollPlay | 219588 | [219588-space-shrooms-rollplay.json](./219588-space-shrooms-rollplay.json) |
 | Space Shuttle | 346100 | [346100-space-shuttle.json](./346100-space-shuttle.json) |
+| Space Shuttle 3-in-1 | 385809 | [385809-space-shuttle-3-in-1.json](./385809-space-shuttle-3-in-1.json) |
 | Space Shuttle Landing | 90779 | [90779-space-shuttle-landing.json](./90779-space-shuttle-landing.json) |
 | Space Shuttle Mission 2007 | 65180 | [65180-space-shuttle-mission-2007.json](./65180-space-shuttle-mission-2007.json) |
 | Space Shuttle: A Journey Into Space | 12318 | [12318-space-shuttle-a-journey-into-space.json](./12318-space-shuttle-a-journey-into-space.json) |
@@ -9547,6 +9555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceguy III | 109749 | [109749-spaceguy-iii.json](./109749-spaceguy-iii.json) |
 | Spaceguy: Red Space | 111666 | [111666-spaceguy-red-space.json](./111666-spaceguy-red-space.json) |
 | SpaceHack: Eden | 346245 | [346245-spacehack-eden.json](./346245-spacehack-eden.json) |
+| Spacehawk 50 | 385797 | [385797-spacehawk-50.json](./385797-spacehawk-50.json) |
 | SpaceInvasion | 196275 | [196275-spaceinvasion.json](./196275-spaceinvasion.json) |
 | Spacejacked | 24046 | [24046-spacejacked.json](./24046-spacejacked.json) |
 | Spacejump | 250598 | [250598-spacejump.json](./250598-spacejump.json) |
@@ -14087,6 +14096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summum Aeterna | 204692 | [204692-summum-aeterna.json](./204692-summum-aeterna.json) |
 | Sumo | 303084 | [303084-sumo.json](./303084-sumo.json) |
 | Sumoman | 28026 | [28026-sumoman.json](./28026-sumoman.json) |
+| Sumou | 385812 | [385812-sumou.json](./385812-sumou.json) |
 | Sump | 278460 | [278460-sump.json](./278460-sump.json) |
 | Sumtune | 236399 | [236399-sumtune.json](./236399-sumtune.json) |
 | Sumy Shelltris: Iceblocks 1 | 197388 | [197388-sumy-shelltris-iceblocks-1.json](./197388-sumy-shelltris-iceblocks-1.json) |
@@ -15731,6 +15741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superbot Arena | 257979 | [257979-superbot-arena.json](./257979-superbot-arena.json) |
 | Superbowl | 172527 | [172527-superbowl.json](./172527-superbowl.json) |
 | Superbowl | 61912 | [61912-superbowl.json](./61912-superbowl.json) |
+| Superboy | 385814 | [385814-superboy.json](./385814-superboy.json) |
 | SuperBoys: The Big Fight | 58851 | [58851-superboys-the-big-fight.json](./58851-superboys-the-big-fight.json) |
 | Superbrothers: Sword & Sworcery EP | 2991 | [2991-superbrothers-sword-and-sworcery-ep.json](./2991-superbrothers-sword-and-sworcery-ep.json) |
 | Supercar Collection Simulator | 329962 | [329962-supercar-collection-simulator.json](./329962-supercar-collection-simulator.json) |
@@ -16426,6 +16437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Home Puzzle | 156047 | [156047-sweet-home-puzzle.json](./156047-sweet-home-puzzle.json) |
 | Sweet Home: Design & Blast | 207810 | [207810-sweet-home-design-and-blast.json](./207810-sweet-home-design-and-blast.json) |
 | Sweet Honey | 339458 | [339458-sweet-honey.json](./339458-sweet-honey.json) |
+| Sweet Honey | 385800 | [385800-sweet-honey.json](./385800-sweet-honey.json) |
 | Sweet Hospital | 332624 | [332624-sweet-hospital.json](./332624-sweet-hospital.json) |
 | Sweet Hot Spring | 339456 | [339456-sweet-hot-spring.json](./339456-sweet-hot-spring.json) |
 | Sweet Hotel | 339457 | [339457-sweet-hotel.json](./339457-sweet-hotel.json) |
