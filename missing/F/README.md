@@ -1240,6 +1240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmch Revolution | 390648 | [390648-farmch-revolution.json](./390648-farmch-revolution.json) |
 | FarmCraft | 264584 | [264584-farmcraft.json](./264584-farmcraft.json) |
 | Farmcraft 2 | 411590 | [411590-farmcraft-2.json](./411590-farmcraft-2.json) |
+| FarmD | 368102 | [368102-farmd.json](./368102-farmd.json) |
 | Farmer Adventure | 186831 | [186831-farmer-adventure.json](./186831-farmer-adventure.json) |
 | Farmer Against Potatoes Idle | 199507 | [199507-farmer-against-potatoes-idle.json](./199507-farmer-against-potatoes-idle.json) |
 | Farmer and Zombie | 286008 | [286008-farmer-and-zombie.json](./286008-farmer-and-zombie.json) |
@@ -6062,6 +6063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frustration Golf | 181713 | [181713-frustration-golf.json](./181713-frustration-golf.json) |
 | Frutakia | 299776 | [299776-frutakia.json](./299776-frutakia.json) |
 | Frutiger Aero | 354488 | [354488-frutiger-aero.json](./354488-frutiger-aero.json) |
+| Frutiger Home | 368055 | [368055-frutiger-home.json](./368055-frutiger-home.json) |
 | Frutiger Space | 366227 | [366227-frutiger-space.json](./366227-frutiger-space.json) |
 | Frutz | 405530 | [405530-frutz.json](./405530-frutz.json) |
 | FSR: French Street Racing | 208480 | [208480-fsr-french-street-racing.json](./208480-fsr-french-street-racing.json) |
@@ -6524,6 +6526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futanari Jigsaw Puzzle | 212728 | [212728-futanari-jigsaw-puzzle.json](./212728-futanari-jigsaw-puzzle.json) |
 | Futanari Quest | 99592 | [99592-futanari-quest.json](./99592-futanari-quest.json) |
 | Futanari Sex Adventures: Episode 2 | 311582 | [311582-futanari-sex-adventures-episode-2.json](./311582-futanari-sex-adventures-episode-2.json) |
+| Futanari Sex Adventures: Episode 4 | 368101 | [368101-futanari-sex-adventures-episode-4.json](./368101-futanari-sex-adventures-episode-4.json) |
 | Futanari Sex: BDSM Room | 201564 | [201564-futanari-sex-bdsm-room.json](./201564-futanari-sex-bdsm-room.json) |
 | Futanari Sex: Naughty Massage | 203847 | [203847-futanari-sex-naughty-massage.json](./203847-futanari-sex-naughty-massage.json) |
 | Futanari Sex: Naughty Visit | 368124 | [368124-futanari-sex-naughty-visit.json](./368124-futanari-sex-naughty-visit.json) |
