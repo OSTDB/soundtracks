@@ -401,6 +401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragdoll Toss | 179124 | [179124-ragdoll-toss.json](./179124-ragdoll-toss.json) |
 | RagDollJoe | 115788 | [115788-ragdolljoe.json](./115788-ragdolljoe.json) |
 | Ragdolls Playground: The Sandbox | 188908 | [188908-ragdolls-playground-the-sandbox.json](./188908-ragdolls-playground-the-sandbox.json) |
+| Ragdore | 364027 | [364027-ragdore.json](./364027-ragdore.json) |
 | Rage 2 | 101211 | [101211-rage-2.json](./101211-rage-2.json) |
 | Rage Disco | 75218 | [75218-rage-disco.json](./75218-rage-disco.json) |
 | Rage District: Humanity Armageddon | 406800 | [406800-rage-district-humanity-armageddon.json](./406800-rage-district-humanity-armageddon.json) |
@@ -2440,6 +2441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remote Knights Online | 153401 | [153401-remote-knights-online.json](./153401-remote-knights-online.json) |
 | Remote Life | 121119 | [121119-remote-life.json](./121119-remote-life.json) |
 | Remote Life Simulator | 391352 | [391352-remote-life-simulator.json](./391352-remote-life-simulator.json) |
+| Remote Miner Co. | 364028 | [364028-remote-miner-co.json](./364028-remote-miner-co.json) |
 | Remote Planets | 224766 | [224766-remote-planets.json](./224766-remote-planets.json) |
 | Remote Presence | 275634 | [275634-remote-presence.json](./275634-remote-presence.json) |
 | Remote Racers | 84830 | [84830-remote-racers.json](./84830-remote-racers.json) |
@@ -5332,6 +5334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Root of Wisdom | 177400 | [177400-root-of-wisdom.json](./177400-root-of-wisdom.json) |
 | Root: Exiles & Partisans & Vagabonds | 195233 | [195233-root-exiles-and-partisans-and-vagabonds.json](./195233-root-exiles-and-partisans-and-vagabonds.json) |
 | Root: Hirelings & Landmarks | 385182 | [385182-root-hirelings-and-landmarks.json](./385182-root-hirelings-and-landmarks.json) |
+| Root: The Marauder Expansion | 364037 | [364037-root-the-marauder-expansion.json](./364037-root-the-marauder-expansion.json) |
 | Root: The Riverfolk Expansion | 221420 | [221420-root-the-riverfolk-expansion.json](./221420-root-the-riverfolk-expansion.json) |
 | Rootbound | 315102 | [315102-rootbound.json](./315102-rootbound.json) |
 | Rooted | 194616 | [194616-rooted.json](./194616-rooted.json) |
