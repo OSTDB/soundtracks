@@ -399,6 +399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairytale Solitaire: Witch Charms | 130843 | [130843-fairytale-solitaire-witch-charms.json](./130843-fairytale-solitaire-witch-charms.json) |
 | Fairytale Symphony | 330166 | [330166-fairytale-symphony.json](./330166-fairytale-symphony.json) |
 | Fairytale Theatre: Momotaro's Adventure | 283288 | [283288-fairytale-theatre-momotaros-adventure.json](./283288-fairytale-theatre-momotaros-adventure.json) |
+| Fairytale Thief: Sleeping Beauty | 351748 | [351748-fairytale-thief-sleeping-beauty.json](./351748-fairytale-thief-sleeping-beauty.json) |
 | Fairytale Thief: Snow White | 365172 | [365172-fairytale-thief-snow-white.json](./365172-fairytale-thief-snow-white.json) |
 | Fairytale Thief: The Goldfish | 259568 | [259568-fairytale-thief-the-goldfish.json](./259568-fairytale-thief-the-goldfish.json) |
 | Fäiser | 186063 | [186063-faiser.json](./186063-faiser.json) |
@@ -1100,6 +1101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Far Away From Here | 186836 | [186836-far-far-away-from-here.json](./186836-far-far-away-from-here.json) |
 | Far Far West | 348263 | [348263-far-far-west.json](./348263-far-far-west.json) |
 | Far Fetched | 150622 | [150622-far-fetched.json](./150622-far-fetched.json) |
+| Far Fishing | 351753 | [351753-far-fishing.json](./351753-far-fishing.json) |
 | Far Fresnel | 374289 | [374289-far-fresnel.json](./374289-far-fresnel.json) |
 | Far From Dead | 217276 | [217276-far-from-dead.json](./217276-far-from-dead.json) |
 | Far From Orbit | 123521 | [123521-far-from-orbit.json](./123521-far-from-orbit.json) |
@@ -3194,6 +3196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FishOnMC | 349950 | [349950-fishonmc.json](./349950-fishonmc.json) |
 | Fishos | 180763 | [180763-fishos.json](./180763-fishos.json) |
 | Fisht Fight | 367937 | [367937-fisht-fight.json](./367937-fisht-fight.json) |
+| Fishtank: Reality TV Simulator | 351159 | [351159-fishtank-reality-tv-simulator.json](./351159-fishtank-reality-tv-simulator.json) |
 | Fishton: A Town to Remember | 219785 | [219785-fishton-a-town-to-remember.json](./219785-fishton-a-town-to-remember.json) |
 | FishVerse: Ultimate Fishing | 279140 | [279140-fishverse-ultimate-fishing.json](./279140-fishverse-ultimate-fishing.json) |
 | Fishy 3D | 139409 | [139409-fishy-3d.json](./139409-fishy-3d.json) |
@@ -3748,6 +3751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip＊Flop: Rambling Overrun | 397245 | [397245-flip-flop-rambling-overrun.json](./397245-flip-flop-rambling-overrun.json) |
 | Flipbomb | 371348 | [371348-flipbomb.json](./371348-flipbomb.json) |
 | FlipBook | 315831 | [315831-flipbook.json](./315831-flipbook.json) |
+| FlipCard | 351751 | [351751-flipcard.json](./351751-flipcard.json) |
 | FlipFlipDuck | 175268 | [175268-flipflipduck.json](./175268-flipflipduck.json) |
 | Flipi Rivals | 420685 | [420685-flipi-rivals.json](./420685-flipi-rivals.json) |
 | Flipinity | 256357 | [256357-flipinity.json](./256357-flipinity.json) |
@@ -5757,6 +5761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Golf | 202694 | [202694-frog-golf.json](./202694-frog-golf.json) |
 | Frog in the Fog | 393630 | [393630-frog-in-the-fog.json](./393630-frog-in-the-fog.json) |
 | Frog Jump | 273912 | [273912-frog-jump.json](./273912-frog-jump.json) |
+| Frog Jump | 351745 | [351745-frog-jump.json](./351745-frog-jump.json) |
 | Frog King | 181219 | [181219-frog-king.json](./181219-frog-king.json) |
 | Frog King | 289452 | [289452-frog-king.json](./289452-frog-king.json) |
 | Frog Knight | 381175 | [381175-frog-knight.json](./381175-frog-knight.json) |
