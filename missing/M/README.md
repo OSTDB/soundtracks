@@ -4965,6 +4965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mexican Smashoff | 212221 | [212221-mexican-smashoff.json](./212221-mexican-smashoff.json) |
 | Mexico 1921: A Deep Slumber | 211921 | [211921-mexico-1921-a-deep-slumber.json](./211921-mexico-1921-a-deep-slumber.json) |
 | Meyni | 299128 | [299128-meyni.json](./299128-meyni.json) |
+| Meyouw | 334944 | [334944-meyouw.json](./334944-meyouw.json) |
 | Mezase Pachi Pro: Pachio-kun | 48776 | [48776-mezase-pachi-pro-pachio-kun.json](./48776-mezase-pachi-pro-pachio-kun.json) |
 | Mezase! Kanji Ou | 43962 | [43962-mezase-kanji-ou.json](./43962-mezase-kanji-ou.json) |
 | Mezase! Senkyu Ou | 166151 | [166151-mezase-senkyu-ou.json](./166151-mezase-senkyu-ou.json) |
@@ -6264,6 +6265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minion Masters: Vanguard | 330733 | [330733-minion-masters-vanguard.json](./330733-minion-masters-vanguard.json) |
 | Minion Masters: Voidborne Onslaught | 330736 | [330736-minion-masters-voidborne-onslaught.json](./330736-minion-masters-voidborne-onslaught.json) |
 | Minion Masters: Zealous Inferno | 330729 | [330729-minion-masters-zealous-inferno.json](./330729-minion-masters-zealous-inferno.json) |
+| Minion Pregnancy | 334909 | [334909-minion-pregnancy.json](./334909-minion-pregnancy.json) |
 | Minion Quest: The Search for Bowser | 266891 | [266891-minion-quest-the-search-for-bowser.json](./266891-minion-quest-the-search-for-bowser.json) |
 | Minion Rumble | 338349 | [338349-minion-rumble.json](./338349-minion-rumble.json) |
 | MiniOne Racing | 34989 | [34989-minione-racing.json](./34989-minione-racing.json) |
@@ -8185,6 +8187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morrow | 220844 | [220844-morrow.json](./220844-morrow.json) |
 | Morse | 198337 | [198337-morse.json](./198337-morse.json) |
 | Morse | 41542 | [41542-morse.json](./41542-morse.json) |
+| Morse Academy | 334926 | [334926-morse-academy.json](./334926-morse-academy.json) |
 | Morse Cod | 182901 | [182901-morse-cod.json](./182901-morse-cod.json) |
 | Morse Code | 103677 | [103677-morse-code.json](./103677-morse-code.json) |
 | Morse Shingou de Ai wo Tsutae yo. | 367396 | [367396-morse-shingou-de-ai-wo-tsutae-yo.json](./367396-morse-shingou-de-ai-wo-tsutae-yo.json) |
