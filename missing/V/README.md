@@ -740,6 +740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verho: Curse of Faces | 410369 | [410369-verho-curse-of-faces.json](./410369-verho-curse-of-faces.json) |
 | Veridus: The Walking Nightmare | 416672 | [416672-veridus-the-walking-nightmare.json](./416672-veridus-the-walking-nightmare.json) |
 | Verisim Skies | 244899 | [244899-verisim-skies.json](./244899-verisim-skies.json) |
+| Verismo | 362986 | [362986-verismo.json](./362986-verismo.json) |
 | Veritas | 111443 | [111443-veritas.json](./111443-veritas.json) |
 | Veritex | 81166 | [81166-veritex.json](./81166-veritex.json) |
 | Veritus | 260627 | [260627-veritus.json](./260627-veritus.json) |
