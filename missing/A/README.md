@@ -1370,6 +1370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Match | 338910 | [338910-adventure-match.json](./338910-adventure-match.json) |
 | Adventure Math | 94016 | [94016-adventure-math.json](./94016-adventure-math.json) |
 | Adventure Mosaics: Autumn Journey | 246958 | [246958-adventure-mosaics-autumn-journey.json](./246958-adventure-mosaics-autumn-journey.json) |
+| Adventure Mosaics: Land of the Rising Sun | 378338 | [378338-adventure-mosaics-land-of-the-rising-sun.json](./378338-adventure-mosaics-land-of-the-rising-sun.json) |
 | Adventure Mosaics: Moto-Trip | 196155 | [196155-adventure-mosaics-moto-trip.json](./196155-adventure-mosaics-moto-trip.json) |
 | Adventure Mosaics: Moto-Trip Africa | 294202 | [294202-adventure-mosaics-moto-trip-africa.json](./294202-adventure-mosaics-moto-trip-africa.json) |
 | Adventure Mosaics: St. Patrick's Day | 417517 | [417517-adventure-mosaics-st-patricks-day.json](./417517-adventure-mosaics-st-patricks-day.json) |
@@ -4371,6 +4372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Soccer World | 43355 | [43355-animal-soccer-world.json](./43355-animal-soccer-world.json) |
 | Animal Style | 391594 | [391594-animal-style.json](./391594-animal-style.json) |
 | Animal Super Squad | 74598 | [74598-animal-super-squad.json](./74598-animal-super-squad.json) |
+| Animal Survival | 378364 | [378364-animal-survival.json](./378364-animal-survival.json) |
 | Animal Survival | 379369 | [379369-animal-survival.json](./379369-animal-survival.json) |
 | Animal Tilt-A-Show | 376557 | [376557-animal-tilt-a-show.json](./376557-animal-tilt-a-show.json) |
 | Animal Trail Girlish Square | 212799 | [212799-animal-trail-girlish-square.json](./212799-animal-trail-girlish-square.json) |
