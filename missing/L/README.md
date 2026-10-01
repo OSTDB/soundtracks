@@ -119,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labubu Games | 363968 | [363968-labubu-games.json](./363968-labubu-games.json) |
 | LabWatch | 272261 | [272261-labwatch.json](./272261-labwatch.json) |
 | Laby to Panel de Shiritori | 325452 | [325452-laby-to-panel-de-shiritori.json](./325452-laby-to-panel-de-shiritori.json) |
+| LabyrAInth | 348918 | [348918-labyrainth.json](./348918-labyrainth.json) |
 | Labyren | 389086 | [389086-labyren.json](./389086-labyren.json) |
 | Labyrinth | 129067 | [129067-labyrinth.json](./129067-labyrinth.json) |
 | Labyrinth | 206701 | [206701-labyrinth.json](./206701-labyrinth.json) |
@@ -1102,6 +1103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leaving L.A. | 273138 | [273138-leaving-l-a.json](./273138-leaving-l-a.json) |
 | Leaving Whisper at Night | 326283 | [326283-leaving-whisper-at-night.json](./326283-leaving-whisper-at-night.json) |
 | Lecon De Cuisine: Qu'allons-Nous Manager? | 147311 | [147311-lecon-de-cuisine-quallons-nous-manager.json](./147311-lecon-de-cuisine-quallons-nous-manager.json) |
+| Lecture Me Later | 348921 | [348921-lecture-me-later.json](./348921-lecture-me-later.json) |
 | Led It Rain | 32912 | [32912-led-it-rain.json](./32912-led-it-rain.json) |
 | Led It Rain VR | 120373 | [120373-led-it-rain-vr.json](./120373-led-it-rain-vr.json) |
 | LED Storm Rally 2011 | 312321 | [312321-led-storm-rally-2011.json](./312321-led-storm-rally-2011.json) |
