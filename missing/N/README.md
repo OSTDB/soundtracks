@@ -2823,6 +2823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Love: 2009 | 399069 | [399069-no-love-2009.json](./399069-no-love-2009.json) |
 | No Luca No | 92496 | [92496-no-luca-no.json](./92496-no-luca-no.json) |
 | No Male Heroes | 74776 | [74776-no-male-heroes.json](./74776-no-male-heroes.json) |
+| No Man's Home | 346645 | [346645-no-mans-home.json](./346645-no-mans-home.json) |
 | No Man's Land | 377282 | [377282-no-mans-land.json](./377282-no-mans-land.json) |
 | No Man's Sky: Aquarius | 315656 | [315656-no-mans-sky-aquarius.json](./315656-no-mans-sky-aquarius.json) |
 | No Man's Sky: Desolation | 221742 | [221742-no-mans-sky-desolation.json](./221742-no-mans-sky-desolation.json) |
@@ -2919,6 +2920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Wave | 128583 | [128583-no-wave.json](./128583-no-wave.json) |
 | No way back | 177835 | [177835-no-way-back.json](./177835-no-way-back.json) |
 | No Way Home | 117007 | [117007-no-way-home.json](./117007-no-way-home.json) |
+| No Way Home (Update) | 346731 | [346731-no-way-home-update.json](./346731-no-way-home-update.json) |
 | No Way Home: Blammo! | 346798 | [346798-no-way-home-blammo.json](./346798-no-way-home-blammo.json) |
 | No Way Out | 239677 | [239677-no-way-out.json](./239677-no-way-out.json) |
 | No Way Out | 30104 | [30104-no-way-out.json](./30104-no-way-out.json) |
@@ -3688,6 +3690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numbers Destiny | 341489 | [341489-numbers-destiny.json](./341489-numbers-destiny.json) |
 | Numbers Go Up | 401069 | [401069-numbers-go-up.json](./401069-numbers-go-up.json) |
 | Numbershark 5 | 286602 | [286602-numbershark-5.json](./286602-numbershark-5.json) |
+| Numbra | 346727 | [346727-numbra.json](./346727-numbra.json) |
 | Numbskull | 308343 | [308343-numbskull.json](./308343-numbskull.json) |
 | Numenclature | 357249 | [357249-numenclature.json](./357249-numenclature.json) |
 | Numeral Lord | 221426 | [221426-numeral-lord.json](./221426-numeral-lord.json) |
