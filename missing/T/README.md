@@ -4650,6 +4650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Floor Is Really Cheap Lava | 115042 | [115042-the-floor-is-really-cheap-lava.json](./115042-the-floor-is-really-cheap-lava.json) |
 | The Flow | 140544 | [140544-the-flow.json](./140544-the-flow.json) |
 | The Flower | 361747 | [361747-the-flower.json](./361747-the-flower.json) |
+| The Flower Inspector | 348889 | [348889-the-flower-inspector.json](./348889-the-flower-inspector.json) |
 | The Flowers of Robert Mapplethorpe | 141004 | [141004-the-flowers-of-robert-mapplethorpe.json](./141004-the-flowers-of-robert-mapplethorpe.json) |
 | The Flowertest | 341003 | [341003-the-flowertest.json](./341003-the-flowertest.json) |
 | The Flute | 233094 | [233094-the-flute.json](./233094-the-flute.json) |
@@ -4907,6 +4908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Good Old Days | 312186 | [312186-the-good-old-days.json](./312186-the-good-old-days.json) |
 | The Good Overlord | 272582 | [272582-the-good-overlord.json](./272582-the-good-overlord.json) |
 | The Good Time Garden | 127409 | [127409-the-good-time-garden.json](./127409-the-good-time-garden.json) |
+| The Good, the Bad & the Monkey | 348900 | [348900-the-good-the-bad-and-the-monkey.json](./348900-the-good-the-bad-and-the-monkey.json) |
 | The Good, the Bad, and the Horsey | 264049 | [264049-the-good-the-bad-and-the-horsey.json](./264049-the-good-the-bad-and-the-horsey.json) |
 | The Googol Clicker | 367517 | [367517-the-googol-clicker.json](./367517-the-googol-clicker.json) |
 | The Goonies | 41375 | [41375-the-goonies.json](./41375-the-goonies.json) |
@@ -4967,6 +4969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Fusion | 19499 | [19499-the-great-fusion.json](./19499-the-great-fusion.json) |
 | The Great Ghoul Duel 2 | 223047 | [223047-the-great-ghoul-duel-2.json](./223047-the-great-ghoul-duel-2.json) |
 | The Great Gonzo in WordRider | 65040 | [65040-the-great-gonzo-in-wordrider.json](./65040-the-great-gonzo-in-wordrider.json) |
+| The Great Hatch | 348915 | [348915-the-great-hatch.json](./348915-the-great-hatch.json) |
 | The Great Hero's Cat | 209605 | [209605-the-great-heros-cat.json](./209605-the-great-heros-cat.json) |
 | The Great House Escape | 386220 | [386220-the-great-house-escape.json](./386220-the-great-house-escape.json) |
 | The Great Language Game | 58488 | [58488-the-great-language-game.json](./58488-the-great-language-game.json) |
@@ -7564,6 +7567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ritual | 118327 | [118327-the-ritual.json](./118327-the-ritual.json) |
 | The Ritual | 184031 | [184031-the-ritual.json](./184031-the-ritual.json) |
 | The Ritual on Weylyn Island | 26531 | [26531-the-ritual-on-weylyn-island.json](./26531-the-ritual-on-weylyn-island.json) |
+| The River | 348932 | [348932-the-river.json](./348932-the-river.json) |
 | The River Of Fire | 268730 | [268730-the-river-of-fire.json](./268730-the-river-of-fire.json) |
 | The Riverside Incident | 125266 | [125266-the-riverside-incident.json](./125266-the-riverside-incident.json) |
 | The Road 2 Success | 97386 | [97386-the-road-2-success.json](./97386-the-road-2-success.json) |
@@ -9254,6 +9258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wonderful 101: Remastered - The Wonderful One: After School Hero - Part 1 | 250349 | [250349-the-wonderful-101-remastered-the-wonderful-one-after-school-hero-part-1.json](./250349-the-wonderful-101-remastered-the-wonderful-one-after-school-hero-part-1.json) |
 | The Wonderful End of the World | 14905 | [14905-the-wonderful-end-of-the-world.json](./14905-the-wonderful-end-of-the-world.json) |
 | The Wonders of the Animal Kingdom | 14256 | [14256-the-wonders-of-the-animal-kingdom.json](./14256-the-wonders-of-the-animal-kingdom.json) |
+| The Wondrous Wedding of Ivan the Bard | 348920 | [348920-the-wondrous-wedding-of-ivan-the-bard.json](./348920-the-wondrous-wedding-of-ivan-the-bard.json) |
 | The Wood Story | 226306 | [226306-the-wood-story.json](./226306-the-wood-story.json) |
 | The Woodleys Summer Sports | 72965 | [72965-the-woodleys-summer-sports.json](./72965-the-woodleys-summer-sports.json) |
 | The Woods | 95165 | [95165-the-woods.json](./95165-the-woods.json) |
@@ -12188,6 +12193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tombo Survivor | 157167 | [157167-tombo-survivor.json](./157167-tombo-survivor.json) |
 | Tomboy Adventure | 154577 | [154577-tomboy-adventure.json](./154577-tomboy-adventure.json) |
 | Tomboy Adventure 2 | 298096 | [298096-tomboy-adventure-2.json](./298096-tomboy-adventure-2.json) |
+| Tomboy: Trapped by Orcs | 348934 | [348934-tomboy-trapped-by-orcs.json](./348934-tomboy-trapped-by-orcs.json) |
 | Tomboys Need Love Too! | 36470 | [36470-tomboys-need-love-too.json](./36470-tomboys-need-love-too.json) |
 | Tombs & Treasure | 215142 | [215142-tombs-and-treasure.json](./215142-tombs-and-treasure.json) |
 | Tombs & Trials | 360701 | [360701-tombs-and-trials.json](./360701-tombs-and-trials.json) |
@@ -14725,6 +14731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials of Imorah | 258531 | [258531-trials-of-imorah.json](./258531-trials-of-imorah.json) |
 | Trials of Kokoro | 204373 | [204373-trials-of-kokoro.json](./204373-trials-of-kokoro.json) |
 | Trials of Proelium | 192661 | [192661-trials-of-proelium.json](./192661-trials-of-proelium.json) |
+| Trials of Proelium Remastered | 348891 | [348891-trials-of-proelium-remastered.json](./348891-trials-of-proelium-remastered.json) |
 | Trials of the Gauntlet | 89662 | [89662-trials-of-the-gauntlet.json](./89662-trials-of-the-gauntlet.json) |
 | Trials of the Illuminati: Amazing Wildlife Jigsaws | 68201 | [68201-trials-of-the-illuminati-amazing-wildlife-jigsaws.json](./68201-trials-of-the-illuminati-amazing-wildlife-jigsaws.json) |
 | Trials of The Illuminati: Animated Christmas Time Jigsaws | 334758 | [334758-trials-of-the-illuminati-animated-christmas-time-jigsaws.json](./334758-trials-of-the-illuminati-animated-christmas-time-jigsaws.json) |
