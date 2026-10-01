@@ -1585,6 +1585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumping Jacks | 243100 | [243100-jumping-jacks.json](./243100-jumping-jacks.json) |
 | Jumping Joe! Friends Edition | 170387 | [170387-jumping-joe-friends-edition.json](./170387-jumping-joe-friends-edition.json) |
 | Jumping Line | 62417 | [62417-jumping-line.json](./62417-jumping-line.json) |
+| Jumping Man: Mine | 380608 | [380608-jumping-man-mine.json](./380608-jumping-man-mine.json) |
 | Jumping Master | 115590 | [115590-jumping-master.json](./115590-jumping-master.json) |
 | Jumping Mellow | 133202 | [133202-jumping-mellow.json](./133202-jumping-mellow.json) |
 | Jumping Ninja Battle | 345695 | [345695-jumping-ninja-battle.json](./345695-jumping-ninja-battle.json) |
