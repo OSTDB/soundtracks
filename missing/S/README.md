@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.T.A.L.K.E.R. 2: Heart of Chornobyl - Collector's Edition | 284360 | [284360-s-t-a-l-k-e-r-2-heart-of-chornobyl-collectors-edition.json](./284360-s-t-a-l-k-e-r-2-heart-of-chornobyl-collectors-edition.json) |
 | S.T.A.L.K.E.R. 2: Heart of Chornobyl - Deluxe Edition | 169175 | [169175-s-t-a-l-k-e-r-2-heart-of-chornobyl-deluxe-edition.json](./169175-s-t-a-l-k-e-r-2-heart-of-chornobyl-deluxe-edition.json) |
 | S.T.A.L.K.E.R. 2: Heart of Chornobyl - Ultimate Edition | 169174 | [169174-s-t-a-l-k-e-r-2-heart-of-chornobyl-ultimate-edition.json](./169174-s-t-a-l-k-e-r-2-heart-of-chornobyl-ultimate-edition.json) |
+| S.T.A.L.K.E.R. Complete | 359016 | [359016-s-t-a-l-k-e-r-complete.json](./359016-s-t-a-l-k-e-r-complete.json) |
 | S.T.A.L.K.E.R. H.A.C.R. | 377614 | [377614-s-t-a-l-k-e-r-h-a-c-r.json](./377614-s-t-a-l-k-e-r-h-a-c-r.json) |
 | S.T.A.L.K.E.R.: Anomaly | 126153 | [126153-s-t-a-l-k-e-r-anomaly.json](./126153-s-t-a-l-k-e-r-anomaly.json) |
 | S.T.A.L.K.E.R.: Call of Chernobyl | 132011 | [132011-s-t-a-l-k-e-r-call-of-chernobyl.json](./132011-s-t-a-l-k-e-r-call-of-chernobyl.json) |
@@ -15401,6 +15402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Metroid: Rotation | 199009 | [199009-super-metroid-rotation.json](./199009-super-metroid-rotation.json) |
 | Super Metroid: Rumbled | 377737 | [377737-super-metroid-rumbled.json](./377737-super-metroid-rumbled.json) |
 | Super Metroid: Unhundred % | 223019 | [223019-super-metroid-unhundred.json](./223019-super-metroid-unhundred.json) |
+| Super Metroid: X-Fusion | 359002 | [359002-super-metroid-x-fusion.json](./359002-super-metroid-x-fusion.json) |
 | Super Metroid: Y-Faster | 304133 | [304133-super-metroid-y-faster.json](./304133-super-metroid-y-faster.json) |
 | Super Miaoyin | 343816 | [343816-super-miaoyin.json](./343816-super-miaoyin.json) |
 | Super Minecraft 64 DS | 270381 | [270381-super-minecraft-64-ds.json](./270381-super-minecraft-64-ds.json) |
