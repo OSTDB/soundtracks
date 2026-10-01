@@ -135,6 +135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obscuritas | 18431 | [18431-obscuritas.json](./18431-obscuritas.json) |
 | Obscurite Magie: The Blood of Kings | 245948 | [245948-obscurite-magie-the-blood-of-kings.json](./245948-obscurite-magie-the-blood-of-kings.json) |
 | Obscurity | 99661 | [99661-obscurity.json](./99661-obscurity.json) |
+| Obscurium | 371409 | [371409-obscurium.json](./371409-obscurium.json) |
 | Obscurium | 401700 | [401700-obscurium.json](./401700-obscurium.json) |
 | Obscurum | 276184 | [276184-obscurum.json](./276184-obscurum.json) |
 | Observance of Homeland | 368151 | [368151-observance-of-homeland.json](./368151-observance-of-homeland.json) |
