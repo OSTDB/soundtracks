@@ -1115,6 +1115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch Your Back | 203838 | [203838-watch-your-back.json](./203838-watch-your-back.json) |
 | Watch_Dogs 1985 | 179119 | [179119-watch-dogs-1985.json](./179119-watch-dogs-1985.json) |
 | Watched | 383512 | [383512-watched.json](./383512-watched.json) |
+| Watcher From the Void | 374796 | [374796-watcher-from-the-void.json](./374796-watcher-from-the-void.json) |
 | Watchers: Batter Up Pack | 161186 | [161186-watchers-batter-up-pack.json](./161186-watchers-batter-up-pack.json) |
 | Watchers: Perfectly Calm Pack | 225572 | [225572-watchers-perfectly-calm-pack.json](./225572-watchers-perfectly-calm-pack.json) |
 | Watching Delusion | 105386 | [105386-watching-delusion.json](./105386-watching-delusion.json) |
@@ -2612,6 +2613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Willow Guard | 265256 | [265256-willow-guard.json](./265256-willow-guard.json) |
 | Willow Guard: Frostreign | 398430 | [398430-willow-guard-frostreign.json](./398430-willow-guard-frostreign.json) |
 | Willow: The Last Archivist | 402509 | [402509-willow-the-last-archivist.json](./402509-willow-the-last-archivist.json) |
+| Willow’s Descent: Into the Under | 374760 | [374760-willow-s-descent-into-the-under.json](./374760-willow-s-descent-into-the-under.json) |
 | Willows: A Dream of Shadows | 385330 | [385330-willows-a-dream-of-shadows.json](./385330-willows-a-dream-of-shadows.json) |
 | Wills test game | 82079 | [82079-wills-test-game.json](./82079-wills-test-game.json) |
 | Willy and Rosie: Bust Out of the Big House | 273387 | [273387-willy-and-rosie-bust-out-of-the-big-house.json](./273387-willy-and-rosie-bust-out-of-the-big-house.json) |
