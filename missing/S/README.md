@@ -2543,6 +2543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SEMP 64 | 331964 | [331964-semp-64.json](./331964-semp-64.json) |
 | Semper Fi | 78966 | [78966-semper-fi.json](./78966-semper-fi.json) |
 | Semper Fidelis: Marine Corps | 73830 | [73830-semper-fidelis-marine-corps.json](./73830-semper-fidelis-marine-corps.json) |
+| Semperfly | 372595 | [372595-semperfly.json](./372595-semperfly.json) |
 | Sempiternal | 272375 | [272375-sempiternal.json](./272375-sempiternal.json) |
 | Semu | 265123 | [265123-semu.json](./265123-semu.json) |
 | Sen no Hana, Sakihokoru Shiawase: La Vie en Bouquet Coloré | 395122 | [395122-sen-no-hana-sakihokoru-shiawase-la-vie-en-bouquet-colore.json](./395122-sen-no-hana-sakihokoru-shiawase-la-vie-en-bouquet-colore.json) |
@@ -4908,6 +4909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silence Coffee Shop | 222285 | [222285-silence-coffee-shop.json](./222285-silence-coffee-shop.json) |
 | Silence in the Cabin | 236255 | [236255-silence-in-the-cabin.json](./236255-silence-in-the-cabin.json) |
 | Silence Notes | 110169 | [110169-silence-notes.json](./110169-silence-notes.json) |
+| Silence of Elven Mage Rin | 372626 | [372626-silence-of-elven-mage-rin.json](./372626-silence-of-elven-mage-rin.json) |
 | Silence of the Sleep | 17819 | [17819-silence-of-the-sleep.json](./17819-silence-of-the-sleep.json) |
 | Silence-Dream | 310728 | [310728-silence-dream.json](./310728-silence-dream.json) |
 | Silence, Exile, and Cunning | 391061 | [391061-silence-exile-and-cunning.json](./391061-silence-exile-and-cunning.json) |
@@ -8908,6 +8910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulstone Survivors | 210585 | [210585-soulstone-survivors.json](./210585-soulstone-survivors.json) |
 | Soulsworn | 395107 | [395107-soulsworn.json](./395107-soulsworn.json) |
 | Soultia | 130939 | [130939-soultia.json](./130939-soultia.json) |
+| SoulTrigger | 372606 | [372606-soultrigger.json](./372606-soultrigger.json) |
 | Soulveyor | 216724 | [216724-soulveyor.json](./216724-soulveyor.json) |
 | SoulWander | 348785 | [348785-soulwander.json](./348785-soulwander.json) |
 | Soulward | 183458 | [183458-soulward.json](./183458-soulward.json) |
@@ -11192,6 +11195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stalker Defender Bunker 3D | 89238 | [89238-stalker-defender-bunker-3d.json](./89238-stalker-defender-bunker-3d.json) |
 | Stalker Together | 327831 | [327831-stalker-together.json](./327831-stalker-together.json) |
 | Stalker: Spatial Trap | 321516 | [321516-stalker-spatial-trap.json](./321516-stalker-spatial-trap.json) |
+| Stall | 372618 | [372618-stall.json](./372618-stall.json) |
 | Stallions in America | 199117 | [199117-stallions-in-america.json](./199117-stallions-in-america.json) |
 | Stamp Smash | 82184 | [82184-stamp-smash.json](./82184-stamp-smash.json) |
 | Stampede | 5704 | [5704-stampede.json](./5704-stampede.json) |
@@ -12465,6 +12469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar 2D | 34763 | [34763-stellar-2d.json](./34763-stellar-2d.json) |
 | Stellar 7 | 14513 | [14513-stellar-7.json](./14513-stellar-7.json) |
 | Stellar 7 | 14514 | [14514-stellar-7.json](./14514-stellar-7.json) |
+| Stellar Archipelago | 372612 | [372612-stellar-archipelago.json](./372612-stellar-archipelago.json) |
 | Stellar Attack | 52870 | [52870-stellar-attack.json](./52870-stellar-attack.json) |
 | Stellar Bewitching | 314057 | [314057-stellar-bewitching.json](./314057-stellar-bewitching.json) |
 | Stellar Bewitching Remastered | 265601 | [265601-stellar-bewitching-remastered.json](./265601-stellar-bewitching-remastered.json) |
@@ -12510,6 +12515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Renegades | 179699 | [179699-stellar-renegades.json](./179699-stellar-renegades.json) |
 | Stellar Rescue | 134423 | [134423-stellar-rescue.json](./134423-stellar-rescue.json) |
 | Stellar Return | 311275 | [311275-stellar-return.json](./311275-stellar-return.json) |
+| Stellar Rhythm | 372609 | [372609-stellar-rhythm.json](./372609-stellar-rhythm.json) |
 | Stellar Rising | 395790 | [395790-stellar-rising.json](./395790-stellar-rising.json) |
 | Stellar Scrapm'n | 369009 | [369009-stellar-scrapmn.json](./369009-stellar-scrapmn.json) |
 | Stellar Settlers | 272276 | [272276-stellar-settlers.json](./272276-stellar-settlers.json) |
@@ -14522,6 +14528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Chase: Criminal Termination | 40430 | [40430-super-chase-criminal-termination.json](./40430-super-chase-criminal-termination.json) |
 | Super Chibi Knight | 36438 | [36438-super-chibi-knight.json](./36438-super-chibi-knight.json) |
 | Super Chick Sisters | 140535 | [140535-super-chick-sisters.json](./140535-super-chick-sisters.json) |
+| Super Chillers: The Chat Room | 372641 | [372641-super-chillers-the-chat-room.json](./372641-super-chillers-the-chat-room.json) |
 | Super Chinese 1-2 Advance | 63963 | [63963-super-chinese-1-2-advance.json](./63963-super-chinese-1-2-advance.json) |
 | Super Chinese Fighter EX | 50557 | [50557-super-chinese-fighter-ex.json](./50557-super-chinese-fighter-ex.json) |
 | Super Choppy Orc | 219581 | [219581-super-choppy-orc.json](./219581-super-choppy-orc.json) |
