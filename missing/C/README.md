@@ -3833,6 +3833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono | 341329 | [341329-chrono.json](./341329-chrono.json) |
 | Chrono Ark: High Roller | 314900 | [314900-chrono-ark-high-roller.json](./314900-chrono-ark-high-roller.json) |
 | Chrono Ark: Summer Twilight | 310011 | [310011-chrono-ark-summer-twilight.json](./310011-chrono-ark-summer-twilight.json) |
+| Chrono CCG | 381788 | [381788-chrono-ccg.json](./381788-chrono-ccg.json) |
 | Chrono Clues | 411086 | [411086-chrono-clues.json](./411086-chrono-clues.json) |
 | Chrono Commando 2053 | 272340 | [272340-chrono-commando-2053.json](./272340-chrono-commando-2053.json) |
 | Chrono Crystal: Giant Gate DLC | 253386 | [253386-chrono-crystal-giant-gate-dlc.json](./253386-chrono-crystal-giant-gate-dlc.json) |
@@ -4830,6 +4831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Closure | 8146 | [8146-closure.json](./8146-closure.json) |
 | Clothes Forever - Styling Game | 90674 | [90674-clothes-forever-styling-game.json](./90674-clothes-forever-styling-game.json) |
 | Clothing Boutique Simulator: Store Manager | 370802 | [370802-clothing-boutique-simulator-store-manager.json](./370802-clothing-boutique-simulator-store-manager.json) |
+| Clothing Store Simulator | 381799 | [381799-clothing-store-simulator.json](./381799-clothing-store-simulator.json) |
 | Clotilde Soffritti in Never Double Park your Spaceship | 217876 | [217876-clotilde-soffritti-in-never-double-park-your-spaceship.json](./217876-clotilde-soffritti-in-never-double-park-your-spaceship.json) |
 | Clotilde Soffritti in: Never Buy a Used Spaceship | 217875 | [217875-clotilde-soffritti-in-never-buy-a-used-spaceship.json](./217875-clotilde-soffritti-in-never-buy-a-used-spaceship.json) |
 | Clou: Roll & Heist | 195644 | [195644-clou-roll-and-heist.json](./195644-clou-roll-and-heist.json) |
@@ -6416,6 +6418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contra: Rogue Corps | 119385 | [119385-contra-rogue-corps.json](./119385-contra-rogue-corps.json) |
 | Contra: The War of the Worlds | 216358 | [216358-contra-the-war-of-the-worlds.json](./216358-contra-the-war-of-the-worlds.json) |
 | Contraband | 152240 | [152240-contraband.json](./152240-contraband.json) |
+| Contraband Police - Crimson Fall | 381783 | [381783-contraband-police-crimson-fall.json](./381783-contraband-police-crimson-fall.json) |
 | Contract Bridge Solo | 398415 | [398415-contract-bridge-solo.json](./398415-contract-bridge-solo.json) |
 | Contract Cooks | 403578 | [403578-contract-cooks.json](./403578-contract-cooks.json) |
 | Contract J.A.C.K. | 1336 | [1336-contract-j-a-c-k.json](./1336-contract-j-a-c-k.json) |
@@ -6537,6 +6540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Arena Breakfast Bonanza | 316197 | [316197-cooking-arena-breakfast-bonanza.json](./316197-cooking-arena-breakfast-bonanza.json) |
 | Cooking Arena Culinary Legends | 385177 | [385177-cooking-arena-culinary-legends.json](./385177-cooking-arena-culinary-legends.json) |
 | Cooking Arena Pancake Paradise | 316198 | [316198-cooking-arena-pancake-paradise.json](./316198-cooking-arena-pancake-paradise.json) |
+| Cooking Arena Ultimate Feast | 381808 | [381808-cooking-arena-ultimate-feast.json](./381808-cooking-arena-ultimate-feast.json) |
 | Cooking Arena World Tour Edition | 385196 | [385196-cooking-arena-world-tour-edition.json](./385196-cooking-arena-world-tour-edition.json) |
 | Cooking Arena: 3 in 1 Edition | 283176 | [283176-cooking-arena-3-in-1-edition.json](./283176-cooking-arena-3-in-1-edition.json) |
 | Cooking Arena: 5 in 1 Edition | 266171 | [266171-cooking-arena-5-in-1-edition.json](./266171-cooking-arena-5-in-1-edition.json) |
