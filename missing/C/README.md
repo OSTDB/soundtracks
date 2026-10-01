@@ -7080,6 +7080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Count Duckula 2: Featuring Tremendous Terence | 15919 | [15919-count-duckula-2-featuring-tremendous-terence.json](./15919-count-duckula-2-featuring-tremendous-terence.json) |
 | Count Logica | 110135 | [110135-count-logica.json](./110135-count-logica.json) |
 | Count Masters | 305844 | [305844-count-masters.json](./305844-count-masters.json) |
+| Count Meowcula's Barbershop | 374773 | [374773-count-meowculas-barbershop.json](./374773-count-meowculas-barbershop.json) |
 | Count on Me | 176511 | [176511-count-on-me.json](./176511-count-on-me.json) |
 | Count to Ten: Supporter Edition | 310385 | [310385-count-to-ten-supporter-edition.json](./310385-count-to-ten-supporter-edition.json) |
 | Count your Clones | 413889 | [413889-count-your-clones.json](./413889-count-your-clones.json) |
