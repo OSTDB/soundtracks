@@ -5008,6 +5008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Paradise Anthology | 402901 | [402901-silent-paradise-anthology.json](./402901-silent-paradise-anthology.json) |
 | Silent Paws: Hidden Valley | 264006 | [264006-silent-paws-hidden-valley.json](./264006-silent-paws-hidden-valley.json) |
 | Silent Reel | 367979 | [367979-silent-reel.json](./367979-silent-reel.json) |
+| Silent Residence | 362402 | [362402-silent-residence.json](./362402-silent-residence.json) |
 | Silent Ruins | 183520 | [183520-silent-ruins.json](./183520-silent-ruins.json) |
 | Silent Scope 3 | 329121 | [329121-silent-scope-3.json](./329121-silent-scope-3.json) |
 | Silent Scope 3 | 44630 | [44630-silent-scope-3.json](./44630-silent-scope-3.json) |
