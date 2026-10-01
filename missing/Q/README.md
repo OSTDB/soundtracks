@@ -216,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Conundrum: IKE-aramba! | 168169 | [168169-quantum-conundrum-ike-aramba.json](./168169-quantum-conundrum-ike-aramba.json) |
 | Quantum Conundrum: The Desmond Debacle | 172125 | [172125-quantum-conundrum-the-desmond-debacle.json](./172125-quantum-conundrum-the-desmond-debacle.json) |
 | Quantum Covenant | 113718 | [113718-quantum-covenant.json](./113718-quantum-covenant.json) |
+| Quantum Curse | 385776 | [385776-quantum-curse.json](./385776-quantum-curse.json) |
 | Quantum Derail | 182939 | [182939-quantum-derail.json](./182939-quantum-derail.json) |
 | Quantum Drive | 278395 | [278395-quantum-drive.json](./278395-quantum-drive.json) |
 | Quantum Era | 407392 | [407392-quantum-era.json](./407392-quantum-era.json) |
