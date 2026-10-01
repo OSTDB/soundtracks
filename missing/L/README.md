@@ -399,6 +399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lane of the Eternal Night | 406207 | [406207-lane-of-the-eternal-night.json](./406207-lane-of-the-eternal-night.json) |
 | Lane Splitter | 233227 | [233227-lane-splitter.json](./233227-lane-splitter.json) |
 | Lanescape | 203570 | [203570-lanescape.json](./203570-lanescape.json) |
+| Lanesplit | 345072 | [345072-lanesplit.json](./345072-lanesplit.json) |
 | Laney, This Won’t Make You Happier | 400973 | [400973-laney-this-won-t-make-you-happier.json](./400973-laney-this-won-t-make-you-happier.json) |
 | Lang Ops: Blank Canvas | 403126 | [403126-lang-ops-blank-canvas.json](./403126-lang-ops-blank-canvas.json) |
 | Lang Ops: Corrupted Files | 403125 | [403125-lang-ops-corrupted-files.json](./403125-lang-ops-corrupted-files.json) |
