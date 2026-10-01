@@ -1946,6 +1946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fever Cabin | 128439 | [128439-fever-cabin.json](./128439-fever-cabin.json) |
 | Fever Frenzy | 209420 | [209420-fever-frenzy.json](./209420-fever-frenzy.json) |
 | Few Nights More | 147351 | [147351-few-nights-more.json](./147351-few-nights-more.json) |
+| Few Shall Return | 337777 | [337777-few-shall-return.json](./337777-few-shall-return.json) |
 | Fey | 388975 | [388975-fey.json](./388975-fey.json) |
 | Fey: Distant Daydream | 189201 | [189201-fey-distant-daydream.json](./189201-fey-distant-daydream.json) |
 | Feydome: Fairy Dress Up | 272323 | [272323-feydome-fairy-dress-up.json](./272323-feydome-fairy-dress-up.json) |
