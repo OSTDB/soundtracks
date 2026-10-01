@@ -4867,6 +4867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Glitched Attraction | 221852 | [221852-the-glitched-attraction.json](./221852-the-glitched-attraction.json) |
 | The Goalkeeper | 70946 | [70946-the-goalkeeper.json](./70946-the-goalkeeper.json) |
 | The Goatman | 104034 | [104034-the-goatman.json](./104034-the-goatman.json) |
+| The Goblin Tavern | 352912 | [352912-the-goblin-tavern.json](./352912-the-goblin-tavern.json) |
 | The Goblins are Coming | 246949 | [246949-the-goblins-are-coming.json](./246949-the-goblins-are-coming.json) |
 | The God | 100568 | [100568-the-god.json](./100568-the-god.json) |
 | The God Heroes | 282656 | [282656-the-god-heroes.json](./282656-the-god-heroes.json) |
