@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T05:32:55.214Z",
-  "total_missing": 148126,
+  "generated_at": "2026-10-01T05:47:57.454Z",
+  "total_missing": 148176,
   "games": [
     {
       "igdb_id": 186066,
@@ -63203,6 +63203,11 @@
       "file": "missing/B/411826-bens-zombie-apocalypse.json"
     },
     {
+      "igdb_id": 373696,
+      "game_name": "Běncǎo Shàn Shí Lù",
+      "file": "missing/B/373696-bencao-shan-shi-lu.json"
+    },
+    {
       "igdb_id": 326252,
       "game_name": "Benchmark Your Skills",
       "file": "missing/B/326252-benchmark-your-skills.json"
@@ -71741,6 +71746,11 @@
       "igdb_id": 343987,
       "game_name": "Bleepfrog",
       "file": "missing/B/343987-bleepfrog.json"
+    },
+    {
+      "igdb_id": 373673,
+      "game_name": "Bleeping Spaceships",
+      "file": "missing/B/373673-bleeping-spaceships.json"
     },
     {
       "igdb_id": 101530,
@@ -86468,6 +86478,11 @@
       "file": "missing/B/139294-bts-universe-story.json"
     },
     {
+      "igdb_id": 373701,
+      "game_name": "Bù Shàngàn Bù Liànài",
+      "file": "missing/B/373701-bu-shangan-bu-lianai.json"
+    },
+    {
       "igdb_id": 120348,
       "game_name": "Buba",
       "file": "missing/B/120348-buba.json"
@@ -93321,6 +93336,11 @@
       "igdb_id": 380689,
       "game_name": "Cam Quest",
       "file": "missing/C/380689-cam-quest.json"
+    },
+    {
+      "igdb_id": 373682,
+      "game_name": "Cam4Z: Bodycam Zombie Elevator Survivor",
+      "file": "missing/C/373682-cam4z-bodycam-zombie-elevator-survivor.json"
     },
     {
       "igdb_id": 387368,
@@ -107138,6 +107158,11 @@
       "file": "missing/C/174872-chick-city-construction.json"
     },
     {
+      "igdb_id": 373681,
+      "game_name": "Chick Game",
+      "file": "missing/C/373681-chick-game.json"
+    },
+    {
       "igdb_id": 281993,
       "game_name": "Chick Road Rage",
       "file": "missing/C/281993-chick-road-rage.json"
@@ -107241,6 +107266,11 @@
       "igdb_id": 181398,
       "game_name": "Chicken Defense",
       "file": "missing/C/181398-chicken-defense.json"
+    },
+    {
+      "igdb_id": 373675,
+      "game_name": "Chicken Defense",
+      "file": "missing/C/373675-chicken-defense.json"
     },
     {
       "igdb_id": 380065,
@@ -139926,6 +139956,11 @@
       "igdb_id": 125469,
       "game_name": "Dà Fùwēng",
       "file": "missing/D/125469-da-fuweng.json"
+    },
+    {
+      "igdb_id": 373702,
+      "game_name": "Dà Mèng Chūnqiū",
+      "file": "missing/D/373702-da-meng-chunqiu.json"
     },
     {
       "igdb_id": 259017,
@@ -223463,6 +223498,11 @@
       "file": "missing/F/367058-fly-or-die.json"
     },
     {
+      "igdb_id": 373677,
+      "game_name": "Fly Over! 100KM! Mountains!",
+      "file": "missing/F/373677-fly-over-100km-mountains.json"
+    },
+    {
       "igdb_id": 132201,
       "game_name": "Fly Punch Boom: First Impact!",
       "file": "missing/F/132201-fly-punch-boom-first-impact.json"
@@ -234688,6 +234728,11 @@
       "file": "missing/F/336599-funky-maker.json"
     },
     {
+      "igdb_id": 373671,
+      "game_name": "Funky Monkey: Time to Slack Off!",
+      "file": "missing/F/373671-funky-monkey-time-to-slack-off.json"
+    },
+    {
       "igdb_id": 85162,
       "game_name": "Funky Physics",
       "file": "missing/F/85162-funky-physics.json"
@@ -237596,6 +237641,11 @@
       "igdb_id": 292635,
       "game_name": "Galactic Dating: Harem in Space Station",
       "file": "missing/G/292635-galactic-dating-harem-in-space-station.json"
+    },
+    {
+      "igdb_id": 373680,
+      "game_name": "Galactic Deck Clash",
+      "file": "missing/G/373680-galactic-deck-clash.json"
     },
     {
       "igdb_id": 261338,
@@ -257396,6 +257446,11 @@
       "igdb_id": 214049,
       "game_name": "Greyskin",
       "file": "missing/G/214049-greyskin.json"
+    },
+    {
+      "igdb_id": 373689,
+      "game_name": "GreySky&StarNavigator",
+      "file": "missing/G/373689-greysky-and-starnavigator.json"
     },
     {
       "igdb_id": 73557,
@@ -314463,9 +314518,19 @@
       "file": "missing/J/106563-jin-lin-love-story.json"
     },
     {
+      "igdb_id": 373712,
+      "game_name": "Jǐn Nǐ Yī Rén",
+      "file": "missing/J/373712-jin-ni-yi-ren.json"
+    },
+    {
       "igdb_id": 303592,
       "game_name": "Jin Ping Mei",
       "file": "missing/J/303592-jin-ping-mei.json"
+    },
+    {
+      "igdb_id": 373705,
+      "game_name": "Jìn Shì Shū",
+      "file": "missing/J/373705-jin-shi-shu.json"
     },
     {
       "igdb_id": 337480,
@@ -314476,6 +314541,11 @@
       "igdb_id": 157043,
       "game_name": "Jing 'an District Copstories",
       "file": "missing/J/157043-jing-an-district-copstories.json"
+    },
+    {
+      "igdb_id": 373687,
+      "game_name": "Jìngjiè 2: Qiánkūn Yī Zhì",
+      "file": "missing/J/373687-jingjie-2-qiankun-yi-zhi.json"
     },
     {
       "igdb_id": 63293,
@@ -321901,6 +321971,11 @@
       "igdb_id": 265101,
       "game_name": "Karen's Fault",
       "file": "missing/K/265101-karens-fault.json"
+    },
+    {
+      "igdb_id": 373699,
+      "game_name": "Kareshi no Mawari ni itara Iya na Onna Tomodachi wo Kobushi de Wakaraseru Game",
+      "file": "missing/K/373699-kareshi-no-mawari-ni-itara-iya-na-onna-tomodachi-wo-kobushi-de-wakaraseru-game.json"
     },
     {
       "igdb_id": 296458,
@@ -344453,6 +344528,11 @@
       "file": "missing/L/236545-lhama-clicker.json"
     },
     {
+      "igdb_id": 373708,
+      "game_name": "Lǐ Èr Nián Yǒng Chuǎng Héhuān Zōng",
+      "file": "missing/L/373708-li-er-nian-yong-chuang-hehuan-zong.json"
+    },
+    {
       "igdb_id": 367402,
       "game_name": "Lǐ Shì Qírén Yì Wén Lù",
       "file": "missing/L/367402-li-shi-qiren-yi-wen-lu.json"
@@ -351773,6 +351853,11 @@
       "file": "missing/L/148914-long-road.json"
     },
     {
+      "igdb_id": 373692,
+      "game_name": "Lóng Shén de Xīnniáng Wàizhuàn: Yù Líng Qǐ Tán",
+      "file": "missing/L/373692-long-shen-de-xinniang-waizhuan-yu-ling-qi-tan.json"
+    },
+    {
       "igdb_id": 115793,
       "game_name": "Long Sky",
       "file": "missing/L/115793-long-sky.json"
@@ -357951,6 +358036,11 @@
       "igdb_id": 157565,
       "game_name": "Lúnhuí Xiūxiān Jué",
       "file": "missing/L/157565-lunhui-xiuxian-jue.json"
+    },
+    {
+      "igdb_id": 373688,
+      "game_name": "Lúnhuí Xiūxiān Zhuàn",
+      "file": "missing/L/373688-lunhui-xiuxian-zhuan.json"
     },
     {
       "igdb_id": 259020,
@@ -386358,6 +386448,11 @@
       "file": "missing/M/100311-mind-labyrinth-vr-dreams.json"
     },
     {
+      "igdb_id": 373667,
+      "game_name": "Mind Lure",
+      "file": "missing/M/373667-mind-lure.json"
+    },
+    {
       "igdb_id": 100308,
       "game_name": "Mind Maze",
       "file": "missing/M/100308-mind-maze.json"
@@ -401243,6 +401338,11 @@
       "file": "missing/M/111210-mr-husky.json"
     },
     {
+      "igdb_id": 373676,
+      "game_name": "Mr Investigator",
+      "file": "missing/M/373676-mr-investigator.json"
+    },
+    {
       "igdb_id": 175410,
       "game_name": "Mr Jack Pocket",
       "file": "missing/M/175410-mr-jack-pocket.json"
@@ -407968,6 +408068,11 @@
       "file": "missing/M/342662-mycopsychosys.json"
     },
     {
+      "igdb_id": 373683,
+      "game_name": "Mycopsychosys: Project Jupiter",
+      "file": "missing/M/373683-mycopsychosys-project-jupiter.json"
+    },
+    {
       "igdb_id": 274470,
       "game_name": "MycoRelic",
       "file": "missing/M/274470-mycorelic.json"
@@ -408606,6 +408711,11 @@
       "igdb_id": 147865,
       "game_name": "Mystery Island II",
       "file": "missing/M/147865-mystery-island-ii.json"
+    },
+    {
+      "igdb_id": 373684,
+      "game_name": "Mystery Island: Enigmatic Painting",
+      "file": "missing/M/373684-mystery-island-enigmatic-painting.json"
     },
     {
       "igdb_id": 121568,
@@ -435908,6 +436018,11 @@
       "file": "missing/O/119698-online-simulator.json"
     },
     {
+      "igdb_id": 373672,
+      "game_name": "Online World Drifting Championships",
+      "file": "missing/O/373672-online-world-drifting-championships.json"
+    },
+    {
       "igdb_id": 403155,
       "game_name": "Online: 404",
       "file": "missing/O/403155-online-404.json"
@@ -454621,6 +454736,11 @@
       "igdb_id": 177041,
       "game_name": "Pet Show Craze",
       "file": "missing/P/177041-pet-show-craze.json"
+    },
+    {
+      "igdb_id": 373691,
+      "game_name": "Pet Street Story",
+      "file": "missing/P/373691-pet-street-story.json"
     },
     {
       "igdb_id": 403799,
@@ -498753,6 +498873,11 @@
       "file": "missing/R/331512-red-panda-x-cats-bundle.json"
     },
     {
+      "igdb_id": 373669,
+      "game_name": "Red Passport: Ticket to Russia",
+      "file": "missing/R/373669-red-passport-ticket-to-russia.json"
+    },
+    {
       "igdb_id": 59925,
       "game_name": "Red Pixel",
       "file": "missing/R/59925-red-pixel.json"
@@ -519728,6 +519853,11 @@
       "file": "missing/R/38717-rush-rally-2.json"
     },
     {
+      "igdb_id": 373674,
+      "game_name": "Rush Roulette",
+      "file": "missing/R/373674-rush-roulette.json"
+    },
+    {
       "igdb_id": 141464,
       "game_name": "Rush Royale",
       "file": "missing/R/141464-rush-royale.json"
@@ -524556,6 +524686,11 @@
       "igdb_id": 288294,
       "game_name": "Sandstorm Strike Force",
       "file": "missing/S/288294-sandstorm-strike-force.json"
+    },
+    {
+      "igdb_id": 373717,
+      "game_name": "SandTable War: Three Kingdoms",
+      "file": "missing/S/373717-sandtable-war-three-kingdoms.json"
     },
     {
       "igdb_id": 146870,
@@ -530016,6 +530151,11 @@
       "igdb_id": 168904,
       "game_name": "SDST: Deluxe",
       "file": "missing/S/168904-sdst-deluxe.json"
+    },
+    {
+      "igdb_id": 373716,
+      "game_name": "Sè Sè Fādǒu",
+      "file": "missing/S/373716-se-se-fadou.json"
     },
     {
       "igdb_id": 415877,
@@ -539718,6 +539858,11 @@
       "file": "missing/S/152760-shenqi-shenluo.json"
     },
     {
+      "igdb_id": 373714,
+      "game_name": "Shényóu Kèběn",
+      "file": "missing/S/373714-shenyou-keben.json"
+    },
+    {
       "igdb_id": 165700,
       "game_name": "Shēnyuān",
       "file": "missing/S/165700-shenyuan.json"
@@ -540236,6 +540381,11 @@
       "igdb_id": 400305,
       "game_name": "Shìjiè Zhīwài",
       "file": "missing/S/400305-shijie-zhiwai.json"
+    },
+    {
+      "igdb_id": 373700,
+      "game_name": "Shìjiè Zhīwài de Yúrén Chuán",
+      "file": "missing/S/373700-shijie-zhiwai-de-yuren-chuan.json"
     },
     {
       "igdb_id": 64664,
@@ -543751,6 +543901,11 @@
       "igdb_id": 30381,
       "game_name": "Shtriga: Summer Camp",
       "file": "missing/S/30381-shtriga-summer-camp.json"
+    },
+    {
+      "igdb_id": 373694,
+      "game_name": "Shū Liàn yǔ Jūn: Xiānzǐ Xiàn",
+      "file": "missing/S/373694-shu-lian-yu-jun-xianzi-xian.json"
     },
     {
       "igdb_id": 247017,
@@ -584273,6 +584428,11 @@
       "file": "missing/S/295541-stig.json"
     },
     {
+      "igdb_id": 373686,
+      "game_name": "Stigma: The Salem Legacy",
+      "file": "missing/S/373686-stigma-the-salem-legacy.json"
+    },
+    {
       "igdb_id": 244867,
       "game_name": "Stigmata of Sacrilege",
       "file": "missing/S/244867-stigmata-of-sacrilege.json"
@@ -590681,6 +590841,11 @@
       "igdb_id": 290549,
       "game_name": "Suika Pets",
       "file": "missing/S/290549-suika-pets.json"
+    },
+    {
+      "igdb_id": 373668,
+      "game_name": "Suika Puffworks",
+      "file": "missing/S/373668-suika-puffworks.json"
     },
     {
       "igdb_id": 276165,
@@ -610608,6 +610773,11 @@
       "file": "missing/T/48886-tamura-mitsuaki-no-mahjong-seminar.json"
     },
     {
+      "igdb_id": 373715,
+      "game_name": "Tàn Dǎo Hǎiguītāng",
+      "file": "missing/T/373715-tan-dao-haiguitang.json"
+    },
+    {
       "igdb_id": 307142,
       "game_name": "Tan-Tan-Tanuki",
       "file": "missing/T/307142-tan-tan-tanuki.json"
@@ -610631,6 +610801,11 @@
       "igdb_id": 20174,
       "game_name": "Tane o Maku Tori",
       "file": "missing/T/20174-tane-o-maku-tori.json"
+    },
+    {
+      "igdb_id": 373703,
+      "game_name": "Táng Chuánqí: Shàng Yuáncháng Gān Xíng",
+      "file": "missing/T/373703-tang-chuanqi-shang-yuanchang-gan-xing.json"
     },
     {
       "igdb_id": 275341,
@@ -621446,6 +621621,11 @@
       "igdb_id": 88116,
       "game_name": "The Beast Inside",
       "file": "missing/T/88116-the-beast-inside.json"
+    },
+    {
+      "igdb_id": 373685,
+      "game_name": "The Beast Is yet to Come",
+      "file": "missing/T/373685-the-beast-is-yet-to-come.json"
     },
     {
       "igdb_id": 302134,
@@ -642753,6 +642933,11 @@
       "file": "missing/T/97926-the-rainsdowne-players.json"
     },
     {
+      "igdb_id": 373693,
+      "game_name": "The Rainy Night",
+      "file": "missing/T/373693-the-rainy-night.json"
+    },
+    {
       "igdb_id": 35758,
       "game_name": "The Rainy Port Keelung",
       "file": "missing/T/35758-the-rainy-port-keelung.json"
@@ -648346,6 +648531,11 @@
       "igdb_id": 115489,
       "game_name": "The Three Kingdoms of China",
       "file": "missing/T/115489-the-three-kingdoms-of-china.json"
+    },
+    {
+      "igdb_id": 373710,
+      "game_name": "The Three Kingdoms: Rebirth",
+      "file": "missing/T/373710-the-three-kingdoms-rebirth.json"
     },
     {
       "igdb_id": 212857,
@@ -663913,6 +664103,11 @@
       "file": "missing/T/327432-to-the-end-of-the-way.json"
     },
     {
+      "igdb_id": 373713,
+      "game_name": "To the Finale.",
+      "file": "missing/T/373713-to-the-finale.json"
+    },
+    {
       "igdb_id": 358385,
       "game_name": "To The Grave: The Hunters of Faenora",
       "file": "missing/T/358385-to-the-grave-the-hunters-of-faenora.json"
@@ -666686,6 +666881,11 @@
       "igdb_id": 358513,
       "game_name": "Tong Create Thorns",
       "file": "missing/T/358513-tong-create-thorns.json"
+    },
+    {
+      "igdb_id": 373707,
+      "game_name": "Tóng Dāo Yín Jiàn",
+      "file": "missing/T/373707-tong-dao-yin-jian.json"
     },
     {
       "igdb_id": 109053,
@@ -718018,6 +718218,11 @@
       "file": "missing/W/15932-windlands.json"
     },
     {
+      "igdb_id": 373679,
+      "game_name": "Window Aquarista",
+      "file": "missing/W/373679-window-aquarista.json"
+    },
+    {
       "igdb_id": 409643,
       "game_name": "Window Seat",
       "file": "missing/W/409643-window-seat.json"
@@ -729063,6 +729268,11 @@
       "file": "missing/X/69813-xiama.json"
     },
     {
+      "igdb_id": 373697,
+      "game_name": "Xiān Lǚ Yì Wén Lù",
+      "file": "missing/X/373697-xian-lu-yi-wen-lu.json"
+    },
+    {
       "igdb_id": 304027,
       "game_name": "Xián Shàng Huíyīn",
       "file": "missing/X/304027-xian-shang-huiyin.json"
@@ -730508,6 +730718,26 @@
       "file": "missing/Y/75781-yanone-letter-splatter.json"
     },
     {
+      "igdb_id": 373709,
+      "game_name": "Yáo Àn Dēng Hǎi",
+      "file": "missing/Y/373709-yao-an-deng-hai.json"
+    },
+    {
+      "igdb_id": 373695,
+      "game_name": "Yāo Dāo Zhuàn",
+      "file": "missing/Y/373695-yao-dao-zhuan.json"
+    },
+    {
+      "igdb_id": 373706,
+      "game_name": "Yāo Xiān Dòngfǔ",
+      "file": "missing/Y/373706-yao-xian-dongfu.json"
+    },
+    {
+      "igdb_id": 373711,
+      "game_name": "Yāoliàn Xīyóu",
+      "file": "missing/Y/373711-yaolian-xiyou.json"
+    },
+    {
       "igdb_id": 356299,
       "game_name": "Yaoyoro Zoo",
       "file": "missing/Y/356299-yaoyoro-zoo.json"
@@ -731221,6 +731451,11 @@
       "igdb_id": 312029,
       "game_name": "Yin-Yang Ping-Pong: Supporter Pack",
       "file": "missing/Y/312029-yin-yang-ping-pong-supporter-pack.json"
+    },
+    {
+      "igdb_id": 373704,
+      "game_name": "Yìnéng Chóngzǔ",
+      "file": "missing/Y/373704-yineng-chongzu.json"
     },
     {
       "igdb_id": 156641,
@@ -737323,6 +737558,11 @@
       "file": "missing/Z/23878-zhombre-the-undead-hombre.json"
     },
     {
+      "igdb_id": 373698,
+      "game_name": "Zhōng Yān Yǔ Lóng Tóngxíng",
+      "file": "missing/Z/373698-zhong-yan-yu-long-tongxing.json"
+    },
+    {
       "igdb_id": 375430,
       "game_name": "Zhōngguó Shì Fùháo",
       "file": "missing/Z/375430-zhongguo-shi-fuhao.json"
@@ -737351,6 +737591,11 @@
       "igdb_id": 81770,
       "game_name": "Zhulik.exe",
       "file": "missing/Z/81770-zhulik-exe.json"
+    },
+    {
+      "igdb_id": 373690,
+      "game_name": "Zhúlù Hàn Mò",
+      "file": "missing/Z/373690-zhulu-han-mo.json"
     },
     {
       "igdb_id": 40463,
@@ -738656,6 +738901,11 @@
       "igdb_id": 343474,
       "game_name": "Zombie Isle",
       "file": "missing/Z/343474-zombie-isle.json"
+    },
+    {
+      "igdb_id": 373670,
+      "game_name": "Zombie Kill",
+      "file": "missing/Z/373670-zombie-kill.json"
     },
     {
       "igdb_id": 181776,
