@@ -1411,6 +1411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PastoralPainting | 270078 | [270078-pastoralpainting.json](./270078-pastoralpainting.json) |
 | Pastry Lovers | 30029 | [30029-pastry-lovers.json](./30029-pastry-lovers.json) |
 | Pastry Wars | 91730 | [91730-pastry-wars.json](./91730-pastry-wars.json) |
+| Pasture Palette | 374251 | [374251-pasture-palette.json](./374251-pasture-palette.json) |
 | Pat Pat Cat | 387590 | [387590-pat-pat-cat.json](./387590-pat-pat-cat.json) |
 | Pat Riley Basketball | 28020 | [28020-pat-riley-basketball.json](./28020-pat-riley-basketball.json) |
 | Pat Sajak's Trivia Gems | 98966 | [98966-pat-sajaks-trivia-gems.json](./98966-pat-sajaks-trivia-gems.json) |
@@ -4506,6 +4507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platoon Commander | 328034 | [328034-platoon-commander.json](./328034-platoon-commander.json) |
 | Platoon Leader | 152132 | [152132-platoon-leader.json](./152132-platoon-leader.json) |
 | Platro | 31346 | [31346-platro.json](./31346-platro.json) |
+| Platswarmers | 374235 | [374235-platswarmers.json](./374235-platswarmers.json) |
 | Plattis | 341569 | [341569-plattis.json](./341569-plattis.json) |
 | Platty Game | 417678 | [417678-platty-game.json](./417678-platty-game.json) |
 | Platwormer | 181325 | [181325-platwormer.json](./181325-platwormer.json) |
@@ -8194,6 +8196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push Comes to Shovel | 211783 | [211783-push-comes-to-shovel.json](./211783-push-comes-to-shovel.json) |
 | Push IT: Sokoban Puzzle | 232386 | [232386-push-it-sokoban-puzzle.json](./232386-push-it-sokoban-puzzle.json) |
 | Push Pull | 115442 | [115442-push-pull.json](./115442-push-pull.json) |
+| Push Push | 374199 | [374199-push-push.json](./374199-push-push.json) |
 | Push Push Cat | 234333 | [234333-push-push-cat.json](./234333-push-push-cat.json) |
 | Push Push Penguin | 209600 | [209600-push-push-penguin.json](./209600-push-push-penguin.json) |
 | Push Puzzle: Rescue Adventure | 179205 | [179205-push-puzzle-rescue-adventure.json](./179205-push-puzzle-rescue-adventure.json) |
