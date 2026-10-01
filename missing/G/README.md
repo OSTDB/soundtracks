@@ -450,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Raiders | 287789 | [287789-galaxy-raiders.json](./287789-galaxy-raiders.json) |
 | Galaxy Reavers | 24411 | [24411-galaxy-reavers.json](./24411-galaxy-reavers.json) |
 | Galaxy Revo: Remake | 247488 | [247488-galaxy-revo-remake.json](./247488-galaxy-revo-remake.json) |
+| Galaxy Roll | 358429 | [358429-galaxy-roll.json](./358429-galaxy-roll.json) |
 | Galaxy Shooter Space War Games | 231949 | [231949-galaxy-shooter-space-war-games.json](./231949-galaxy-shooter-space-war-games.json) |
 | Galaxy Shooting: Alien War | 105539 | [105539-galaxy-shooting-alien-war.json](./105539-galaxy-shooting-alien-war.json) |
 | Galaxy Strike | 135896 | [135896-galaxy-strike.json](./135896-galaxy-strike.json) |
@@ -2260,6 +2261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glasses Nightmare | 133218 | [133218-glasses-nightmare.json](./133218-glasses-nightmare.json) |
 | Glassfall | 250017 | [250017-glassfall.json](./250017-glassfall.json) |
 | Glassfish Bomb | 243074 | [243074-glassfish-bomb.json](./243074-glassfish-bomb.json) |
+| Glassy Stare | 358463 | [358463-glassy-stare.json](./358463-glassy-stare.json) |
 | Glay: Complete Works | 286588 | [286588-glay-complete-works.json](./286588-glay-complete-works.json) |
 | Glennhaven | 185540 | [185540-glennhaven.json](./185540-glennhaven.json) |
 | Glenwich Idle MMO | 397790 | [397790-glenwich-idle-mmo.json](./397790-glenwich-idle-mmo.json) |
