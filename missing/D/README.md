@@ -6185,6 +6185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dot Kareshi: We're 8bit Lovers! III - Yami no Hanayome | 206232 | [206232-dot-kareshi-were-8bit-lovers-iii-yami-no-hanayome.json](./206232-dot-kareshi-were-8bit-lovers-iii-yami-no-hanayome.json) |
 | Dot Ninja | 179183 | [179183-dot-ninja.json](./179183-dot-ninja.json) |
 | Dot Pop! | 99184 | [99184-dot-pop.json](./99184-dot-pop.json) |
+| Dot Scape | 379510 | [379510-dot-scape.json](./379510-dot-scape.json) |
 | Dot Tanki | 222940 | [222940-dot-tanki.json](./222940-dot-tanki.json) |
 | Dot to Tot - Connect Alphabets | 88210 | [88210-dot-to-tot-connect-alphabets.json](./88210-dot-to-tot-connect-alphabets.json) |
 | Dot. | 94201 | [94201-dot.json](./94201-dot.json) |
