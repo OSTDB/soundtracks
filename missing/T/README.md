@@ -1343,6 +1343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tattoo Design Studio: Fun Game | 89156 | [89156-tattoo-design-studio-fun-game.json](./89156-tattoo-design-studio-fun-game.json) |
 | Tattoo Mania | 77239 | [77239-tattoo-mania.json](./77239-tattoo-mania.json) |
 | Tattoo Punk | 146824 | [146824-tattoo-punk.json](./146824-tattoo-punk.json) |
+| Tattoo Studio Simulator | 371414 | [371414-tattoo-studio-simulator.json](./371414-tattoo-studio-simulator.json) |
 | Tattoos and Tulips | 257976 | [257976-tattoos-and-tulips.json](./257976-tattoos-and-tulips.json) |
 | Tatvalok | 380542 | [380542-tatvalok.json](./380542-tatvalok.json) |
 | Tau Defense | 120859 | [120859-tau-defense.json](./120859-tau-defense.json) |
@@ -3371,6 +3372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Case of the City Botucaiba | 257415 | [257415-the-case-of-the-city-botucaiba.json](./257415-the-case-of-the-city-botucaiba.json) |
 | The Case of the Dark Strangler | 337678 | [337678-the-case-of-the-dark-strangler.json](./337678-the-case-of-the-dark-strangler.json) |
 | The Case of the Golden Idol | 166722 | [166722-the-case-of-the-golden-idol.json](./166722-the-case-of-the-golden-idol.json) |
+| The Case of the Missing Heirloom | 371399 | [371399-the-case-of-the-missing-heirloom.json](./371399-the-case-of-the-missing-heirloom.json) |
 | The Case of the Muffin Diver | 70371 | [70371-the-case-of-the-muffin-diver.json](./70371-the-case-of-the-muffin-diver.json) |
 | The Case of the Murdered Matriarch | 302500 | [302500-the-case-of-the-murdered-matriarch.json](./302500-the-case-of-the-murdered-matriarch.json) |
 | The Case of the Mysterious Maulings | 306959 | [306959-the-case-of-the-mysterious-maulings.json](./306959-the-case-of-the-mysterious-maulings.json) |
@@ -6859,6 +6861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Numarin | 47543 | [47543-the-numarin.json](./47543-the-numarin.json) |
 | The Numbers I Keep In My Head | 375385 | [375385-the-numbers-i-keep-in-my-head.json](./375385-the-numbers-i-keep-in-my-head.json) |
 | The Numzle | 233096 | [233096-the-numzle.json](./233096-the-numzle.json) |
+| The Nurse | 371408 | [371408-the-nurse.json](./371408-the-nurse.json) |
 | The Nutcracker | 216997 | [216997-the-nutcracker.json](./216997-the-nutcracker.json) |
 | The Nutshack But It's A Game | 326591 | [326591-the-nutshack-but-its-a-game.json](./326591-the-nutshack-but-its-a-game.json) |
 | The Nutshack: The Game | 57165 | [57165-the-nutshack-the-game.json](./57165-the-nutshack-the-game.json) |
@@ -13166,6 +13169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Goblins | 57035 | [57035-toy-goblins.json](./57035-toy-goblins.json) |
 | Toy Gun Office Simulator | 108433 | [108433-toy-gun-office-simulator.json](./108433-toy-gun-office-simulator.json) |
 | Toy Kingdom | 246369 | [246369-toy-kingdom.json](./246369-toy-kingdom.json) |
+| Toy Land Adventure | 371406 | [371406-toy-land-adventure.json](./371406-toy-land-adventure.json) |
 | Toy Robot | 126582 | [126582-toy-robot.json](./126582-toy-robot.json) |
 | Toy RollerCoaster 3D | 87544 | [87544-toy-rollercoaster-3d.json](./87544-toy-rollercoaster-3d.json) |
 | Toy Rush | 74321 | [74321-toy-rush.json](./74321-toy-rush.json) |
