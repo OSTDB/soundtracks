@@ -324,6 +324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Ride Jumps Collection | 387670 | [387670-ultimate-ride-jumps-collection.json](./387670-ultimate-ride-jumps-collection.json) |
 | Ultimate Rivals: The Court | 150098 | [150098-ultimate-rivals-the-court.json](./150098-ultimate-rivals-the-court.json) |
 | Ultimate Rivals: The Rink | 127349 | [127349-ultimate-rivals-the-rink.json](./127349-ultimate-rivals-the-rink.json) |
+| Ultimate Robot Fighting | 334939 | [334939-ultimate-robot-fighting.json](./334939-ultimate-robot-fighting.json) |
 | Ultimate Romance Test | 399794 | [399794-ultimate-romance-test.json](./399794-ultimate-romance-test.json) |
 | Ultimate S | 262476 | [262476-ultimate-s.json](./262476-ultimate-s.json) |
 | Ultimate Sackboy | 232419 | [232419-ultimate-sackboy.json](./232419-ultimate-sackboy.json) |
@@ -1240,6 +1241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unleash | 398974 | [398974-unleash.json](./398974-unleash.json) |
 | Unleash | 72340 | [72340-unleash.json](./72340-unleash.json) |
 | Unleash Hell | 119643 | [119643-unleash-hell.json](./119643-unleash-hell.json) |
+| Unleashed | 334938 | [334938-unleashed.json](./334938-unleashed.json) |
 | Unless Terminalia | 399081 | [399081-unless-terminalia.json](./399081-unless-terminalia.json) |
 | Unlich | 315711 | [315711-unlich.json](./315711-unlich.json) |
 | Unlife | 151127 | [151127-unlife.json](./151127-unlife.json) |
