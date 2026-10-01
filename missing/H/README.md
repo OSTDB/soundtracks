@@ -2203,6 +2203,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Academy: Ultimate Edition | 315863 | [315863-hentai-academy-ultimate-edition.json](./315863-hentai-academy-ultimate-edition.json) |
 | Hentai Age Airport | 411064 | [411064-hentai-age-airport.json](./411064-hentai-age-airport.json) |
 | Hentai Age Hospital | 385272 | [385272-hentai-age-hospital.json](./385272-hentai-age-hospital.json) |
+| Hentai Age Summer | 384698 | [384698-hentai-age-summer.json](./384698-hentai-age-summer.json) |
+| Hentai Age Vacation | 384706 | [384706-hentai-age-vacation.json](./384706-hentai-age-vacation.json) |
 | Hentai Ahegao | 111270 | [111270-hentai-ahegao.json](./111270-hentai-ahegao.json) |
 | Hentai Aim Practice | 219832 | [219832-hentai-aim-practice.json](./219832-hentai-aim-practice.json) |
 | Hentai Akari | 312719 | [312719-hentai-akari.json](./312719-hentai-akari.json) |
@@ -2249,6 +2251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Dating Stories: Brazil - Special Edition | 315862 | [315862-hentai-dating-stories-brazil-special-edition.json](./315862-hentai-dating-stories-brazil-special-edition.json) |
 | Hentai Demon | 387503 | [387503-hentai-demon.json](./387503-hentai-demon.json) |
 | Hentai Demon's Lullaby | 390500 | [390500-hentai-demons-lullaby.json](./390500-hentai-demons-lullaby.json) |
+| Hentai Detective | 384705 | [384705-hentai-detective.json](./384705-hentai-detective.json) |
 | Hentai Devil | 263792 | [263792-hentai-devil.json](./263792-hentai-devil.json) |
 | Hentai DevilGirl | 228083 | [228083-hentai-devilgirl.json](./228083-hentai-devilgirl.json) |
 | Hentai Direct-Her | 263192 | [263192-hentai-direct-her.json](./263192-hentai-direct-her.json) |
@@ -2265,6 +2268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Fox | 310938 | [310938-hentai-fox.json](./310938-hentai-fox.json) |
 | Hentai Furry Bunny | 347768 | [347768-hentai-furry-bunny.json](./347768-hentai-furry-bunny.json) |
 | Hentai Furry Goat | 411126 | [411126-hentai-furry-goat.json](./411126-hentai-furry-goat.json) |
+| Hentai Furry Milf | 384701 | [384701-hentai-furry-milf.json](./384701-hentai-furry-milf.json) |
 | Hentai Furry Pig | 399712 | [399712-hentai-furry-pig.json](./399712-hentai-furry-pig.json) |
 | Hentai Furry Unicorny | 347771 | [347771-hentai-furry-unicorny.json](./347771-hentai-furry-unicorny.json) |
 | Hentai Gallery: Hidden Charms | 380700 | [380700-hentai-gallery-hidden-charms.json](./380700-hentai-gallery-hidden-charms.json) |
@@ -2327,6 +2331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Harem | 367976 | [367976-hentai-harem.json](./367976-hentai-harem.json) |
 | Hentai Heroes | 141010 | [141010-hentai-heroes.json](./141010-hentai-heroes.json) |
 | Hentai Homewrecker | 297799 | [297799-hentai-homewrecker.json](./297799-hentai-homewrecker.json) |
+| Hentai Horny Furry | 384703 | [384703-hentai-horny-furry.json](./384703-hentai-horny-furry.json) |
 | Hentai Hospital | 371360 | [371360-hentai-hospital.json](./371360-hentai-hospital.json) |
 | Hentai House: Next Door | 403713 | [403713-hentai-house-next-door.json](./403713-hentai-house-next-door.json) |
 | Hentai Island | 226187 | [226187-hentai-island.json](./226187-hentai-island.json) |
@@ -2401,6 +2406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Senpai: Goth Feet | 340450 | [340450-hentai-senpai-goth-feet.json](./340450-hentai-senpai-goth-feet.json) |
 | Hentai Senpai: Konbini no Shirigaru Onna | 311134 | [311134-hentai-senpai-konbini-no-shirigaru-onna.json](./311134-hentai-senpai-konbini-no-shirigaru-onna.json) |
 | Hentai Senpai: Thicc Fairies of Forest Lake | 372118 | [372118-hentai-senpai-thicc-fairies-of-forest-lake.json](./372118-hentai-senpai-thicc-fairies-of-forest-lake.json) |
+| Hentai Senpai: Thiccmas Cumsluts | 384704 | [384704-hentai-senpai-thiccmas-cumsluts.json](./384704-hentai-senpai-thiccmas-cumsluts.json) |
 | Hentai Sexy Nurse | 411074 | [411074-hentai-sexy-nurse.json](./411074-hentai-sexy-nurse.json) |
 | Hentai Sexy Nurses | 222284 | [222284-hentai-sexy-nurses.json](./222284-hentai-sexy-nurses.json) |
 | Hentai Shibari | 371359 | [371359-hentai-shibari.json](./371359-hentai-shibari.json) |
@@ -2477,9 +2483,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai World Bunny | 349956 | [349956-hentai-world-bunny.json](./349956-hentai-world-bunny.json) |
 | Hentai World Festival | 340461 | [340461-hentai-world-festival.json](./340461-hentai-world-festival.json) |
 | Hentai World Halloween | 326234 | [326234-hentai-world-halloween.json](./326234-hentai-world-halloween.json) |
+| Hentai World Office | 384699 | [384699-hentai-world-office.json](./384699-hentai-world-office.json) |
 | Hentai World Sexy | 322716 | [322716-hentai-world-sexy.json](./322716-hentai-world-sexy.json) |
 | Hentai World Slice | 340462 | [340462-hentai-world-slice.json](./340462-hentai-world-slice.json) |
 | Hentai World Succubus | 340463 | [340463-hentai-world-succubus.json](./340463-hentai-world-succubus.json) |
+| Hentai World Town | 384700 | [384700-hentai-world-town.json](./384700-hentai-world-town.json) |
 | Hentai World Winter | 340464 | [340464-hentai-world-winter.json](./340464-hentai-world-winter.json) |
 | Hentai World: Complete + | 324453 | [324453-hentai-world-complete.json](./324453-hentai-world-complete.json) |
 | Hentai World: Complete Edition | 262327 | [262327-hentai-world-complete-edition.json](./262327-hentai-world-complete-edition.json) |
@@ -4850,6 +4858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot And Lovely Waifu XXII | 318430 | [318430-hot-and-lovely-waifu-xxii.json](./318430-hot-and-lovely-waifu-xxii.json) |
 | Hot And Lovely XXII | 318431 | [318431-hot-and-lovely-xxii.json](./318431-hot-and-lovely-xxii.json) |
 | Hot And Lovely: Dream | 296911 | [296911-hot-and-lovely-dream.json](./296911-hot-and-lovely-dream.json) |
+| Hot and Lovely: Seduction Waifu | 384719 | [384719-hot-and-lovely-seduction-waifu.json](./384719-hot-and-lovely-seduction-waifu.json) |
 | Hot And Lovely: Uniform | 262926 | [262926-hot-and-lovely-uniform.json](./262926-hot-and-lovely-uniform.json) |
 | Hot Brass | 129108 | [129108-hot-brass.json](./129108-hot-brass.json) |
 | Hot Brass: Operator Edition | 167176 | [167176-hot-brass-operator-edition.json](./167176-hot-brass-operator-edition.json) |
