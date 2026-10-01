@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valhall | 107681 | [107681-valhall.json](./107681-valhall.json) |
 | Valhalla | 23053 | [23053-valhalla.json](./23053-valhalla.json) |
 | Valhalla | 313350 | [313350-valhalla.json](./313350-valhalla.json) |
+| Valhalla | 351184 | [351184-valhalla.json](./351184-valhalla.json) |
 | Valhalla & the Fortress of Eve | 12810 | [12810-valhalla-and-the-fortress-of-eve.json](./12810-valhalla-and-the-fortress-of-eve.json) |
 | Valhalla and the Lord of Infinity | 12811 | [12811-valhalla-and-the-lord-of-infinity.json](./12811-valhalla-and-the-lord-of-infinity.json) |
 | Valhalla Awaits | 334197 | [334197-valhalla-awaits.json](./334197-valhalla-awaits.json) |
@@ -1657,6 +1658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volcanic Planet | 297242 | [297242-volcanic-planet.json](./297242-volcanic-planet.json) |
 | Volcano | 13768 | [13768-volcano.json](./13768-volcano.json) |
 | Volcano Eruption | 103635 | [103635-volcano-eruption.json](./103635-volcano-eruption.json) |
+| Volcano Jumper | 351767 | [351767-volcano-jumper.json](./351767-volcano-jumper.json) |
 | Volcano Snek | 185604 | [185604-volcano-snek.json](./185604-volcano-snek.json) |
 | Volcano! Mount Saint Helens | 209438 | [209438-volcano-mount-saint-helens.json](./209438-volcano-mount-saint-helens.json) |
 | Volcanoids | 109117 | [109117-volcanoids.json](./109117-volcanoids.json) |
@@ -1713,6 +1715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voodoo Whisperer Curse of a Legend | 17202 | [17202-voodoo-whisperer-curse-of-a-legend.json](./17202-voodoo-whisperer-curse-of-a-legend.json) |
 | Voodoom | 312561 | [312561-voodoom.json](./312561-voodoom.json) |
 | Voody Hex | 391326 | [391326-voody-hex.json](./391326-voody-hex.json) |
+| Voracious | 351770 | [351770-voracious.json](./351770-voracious.json) |
 | Vorago | 312560 | [312560-vorago.json](./312560-vorago.json) |
 | Voraxis | 387350 | [387350-voraxis.json](./387350-voraxis.json) |
 | Vorble | 22208 | [22208-vorble.json](./22208-vorble.json) |
@@ -2026,6 +2029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VTuber Beats | 163862 | [163862-vtuber-beats.json](./163862-vtuber-beats.json) |
 | Vtuber ni Kusokome wo Okuru Typing Game | 362397 | [362397-vtuber-ni-kusokome-wo-okuru-typing-game.json](./362397-vtuber-ni-kusokome-wo-okuru-typing-game.json) |
 | Vtuber Simulator | 192193 | [192193-vtuber-simulator.json](./192193-vtuber-simulator.json) |
+| Vtuber Survivor | 351747 | [351747-vtuber-survivor.json](./351747-vtuber-survivor.json) |
 | VTumbler | 319718 | [319718-vtumbler.json](./319718-vtumbler.json) |
 | Vulcan 3055 | 110331 | [110331-vulcan-3055.json](./110331-vulcan-3055.json) |
 | Vulcan Sacrifice | 53880 | [53880-vulcan-sacrifice.json](./53880-vulcan-sacrifice.json) |
