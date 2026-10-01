@@ -1914,6 +1914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catacomb | 11042 | [11042-catacomb.json](./11042-catacomb.json) |
 | Catacomb | 380060 | [380060-catacomb.json](./380060-catacomb.json) |
 | Catacomb Abyss 3D | 11044 | [11044-catacomb-abyss-3d.json](./11044-catacomb-abyss-3d.json) |
+| Catacomb Chess | 354050 | [354050-catacomb-chess.json](./354050-catacomb-chess.json) |
 | Catacomb Explorers | 30766 | [30766-catacomb-explorers.json](./30766-catacomb-explorers.json) |
 | Catacomb II | 11043 | [11043-catacomb-ii.json](./11043-catacomb-ii.json) |
 | Catacomb Kitties | 224207 | [224207-catacomb-kitties.json](./224207-catacomb-kitties.json) |
@@ -5333,6 +5334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Crypt | 14570 | [14570-coin-crypt.json](./14570-coin-crypt.json) |
 | Coin Dash | 149414 | [149414-coin-dash.json](./149414-coin-dash.json) |
 | Coin Digger | 246349 | [246349-coin-digger.json](./246349-coin-digger.json) |
+| Coin Dozer | 354047 | [354047-coin-dozer.json](./354047-coin-dozer.json) |
 | Coin Drop | 58196 | [58196-coin-drop.json](./58196-coin-drop.json) |
 | Coin Exchange Craze | 275356 | [275356-coin-exchange-craze.json](./275356-coin-exchange-craze.json) |
 | Coin Factory | 312885 | [312885-coin-factory.json](./312885-coin-factory.json) |
@@ -6437,6 +6439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction Simulator: Year 2 Season Pass | 293132 | [293132-construction-simulator-year-2-season-pass.json](./293132-construction-simulator-year-2-season-pass.json) |
 | Construction Site Driver 2 | 223568 | [223568-construction-site-driver-2.json](./223568-construction-site-driver-2.json) |
 | Construction Worker Simulator | 151102 | [151102-construction-worker-simulator.json](./151102-construction-worker-simulator.json) |
+| Construction: Action | 354053 | [354053-construction-action.json](./354053-construction-action.json) |
 | Construction: Action - Map: Ampharos | 354492 | [354492-construction-action-map-ampharos.json](./354492-construction-action-map-ampharos.json) |
 | Construction: Action - Map: Arcanine | 354493 | [354493-construction-action-map-arcanine.json](./354493-construction-action-map-arcanine.json) |
 | Construction: Action - Map: Beedrill | 354610 | [354610-construction-action-map-beedrill.json](./354610-construction-action-map-beedrill.json) |
