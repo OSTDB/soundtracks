@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U.S.A. Football | 93576 | [93576-u-s-a-football.json](./93576-u-s-a-football.json) |
 | U.S.G. A New Beginning | 216332 | [216332-u-s-g-a-new-beginning.json](./216332-u-s-g-a-new-beginning.json) |
 | U.S.S. Stinger | 93177 | [93177-u-s-s-stinger.json](./93177-u-s-s-stinger.json) |
+| U.S.Z.I.O.K. | 376061 | [376061-u-s-z-i-o-k.json](./376061-u-s-z-i-o-k.json) |
 | U.V.S. Nirmana | 400475 | [400475-u-v-s-nirmana.json](./400475-u-v-s-nirmana.json) |
 | U96 | 207513 | [207513-u96.json](./207513-u96.json) |
 | UAC Invasion: The Supply Depot | 256868 | [256868-uac-invasion-the-supply-depot.json](./256868-uac-invasion-the-supply-depot.json) |
@@ -745,6 +746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Legions II | 106353 | [106353-undead-legions-ii.json](./106353-undead-legions-ii.json) |
 | Undead Line | 46178 | [46178-undead-line.json](./46178-undead-line.json) |
 | Undead Mayhem | 277614 | [277614-undead-mayhem.json](./277614-undead-mayhem.json) |
+| Undead Night Crew | 376065 | [376065-undead-night-crew.json](./376065-undead-night-crew.json) |
 | Undead Overlord | 36363 | [36363-undead-overlord.json](./36363-undead-overlord.json) |
 | Undead Party | 222268 | [222268-undead-party.json](./222268-undead-party.json) |
 | Undead Pixels | 163365 | [163365-undead-pixels.json](./163365-undead-pixels.json) |
@@ -1584,6 +1586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urania | 313835 | [313835-urania.json](./313835-urania.json) |
 | Urania's Cloak | 144200 | [144200-uranias-cloak.json](./144200-uranias-cloak.json) |
 | Urânio 235 | 256281 | [256281-uranio-235.json](./256281-uranio-235.json) |
+| Uranium Gays | 376054 | [376054-uranium-gays.json](./376054-uranium-gays.json) |
 | Uranium Mario 64 | 338828 | [338828-uranium-mario-64.json](./338828-uranium-mario-64.json) |
 | Urawaza Mahjong: Korette Tenwatte Yatsukai | 363966 | [363966-urawaza-mahjong-korette-tenwatte-yatsukai.json](./363966-urawaza-mahjong-korette-tenwatte-yatsukai.json) |
 | Urban | 312570 | [312570-urban.json](./312570-urban.json) |
