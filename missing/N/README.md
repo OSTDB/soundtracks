@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nameless Record | 163757 | [163757-nameless-record.json](./163757-nameless-record.json) |
 | Nameless Shells | 267916 | [267916-nameless-shells.json](./267916-nameless-shells.json) |
 | Nami | 169846 | [169846-nami.json](./169846-nami.json) |
+| Nami no Iro: The Color of the Waves | 385775 | [385775-nami-no-iro-the-color-of-the-waves.json](./385775-nami-no-iro-the-color-of-the-waves.json) |
 | Nami no Mani Mani - Sazanami Shinryoushou | 70645 | [70645-nami-no-mani-mani-sazanami-shinryoushou.json](./70645-nami-no-mani-mani-sazanami-shinryoushou.json) |
 | Namiko | 64127 | [64127-namiko.json](./64127-namiko.json) |
 | Nampa Forest | 104626 | [104626-nampa-forest.json](./104626-nampa-forest.json) |
