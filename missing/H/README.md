@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack_It | 33489 | [33489-hack-it.json](./33489-hack-it.json) |
 | Hack_Me 2 | 29287 | [29287-hack-me-2.json](./29287-hack-me-2.json) |
 | Hack_Me Collection | 53175 | [53175-hack-me-collection.json](./53175-hack-me-collection.json) |
+| Hack.bak | 386363 | [386363-hack-bak.json](./386363-hack-bak.json) |
 | Hack.ing | 290927 | [290927-hack-ing.json](./290927-hack-ing.json) |
 | Hacker | 12131 | [12131-hacker.json](./12131-hacker.json) |
 | Hacker Ball | 185128 | [185128-hacker-ball.json](./185128-hacker-ball.json) |
@@ -3451,6 +3452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Burger | 256257 | [256257-high-burger.json](./256257-high-burger.json) |
 | High Cars | 271269 | [271269-high-cars.json](./271269-high-cars.json) |
 | High Cars 2 | 325014 | [325014-high-cars-2.json](./325014-high-cars-2.json) |
+| High Cars 3 | 386368 | [386368-high-cars-3.json](./386368-high-cars-3.json) |
 | High Clouds | 372995 | [372995-high-clouds.json](./372995-high-clouds.json) |
 | High Command: Europe 1939-'45 | 71806 | [71806-high-command-europe-1939-45.json](./71806-high-command-europe-1939-45.json) |
 | High Dimension | 194952 | [194952-high-dimension.json](./194952-high-dimension.json) |
@@ -4144,6 +4146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holo Arena: Death League | 217380 | [217380-holo-arena-death-league.json](./217380-holo-arena-death-league.json) |
 | Holo Dungeon | 180144 | [180144-holo-dungeon.json](./180144-holo-dungeon.json) |
 | Holo EN Rhythm Game | 179623 | [179623-holo-en-rhythm-game.json](./179623-holo-en-rhythm-game.json) |
+| Holo vs. Robo | 386362 | [386362-holo-vs-robo.json](./386362-holo-vs-robo.json) |
 | Holo X Break | 292089 | [292089-holo-x-break.json](./292089-holo-x-break.json) |
 | Holo-Graham | 30189 | [30189-holo-graham.json](./30189-holo-graham.json) |
 | Holo8 | 331327 | [331327-holo8.json](./331327-holo8.json) |
