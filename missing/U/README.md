@@ -78,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uchuu Bouken Shoujo Nami: Davie Jones - Umi no Akuma | 400501 | [400501-uchuu-bouken-shoujo-nami-davie-jones-umi-no-akuma.json](./400501-uchuu-bouken-shoujo-nami-davie-jones-umi-no-akuma.json) |
 | Uchuu no Kishi: Tekkaman Blade | 68070 | [68070-uchuu-no-kishi-tekkaman-blade.json](./68070-uchuu-no-kishi-tekkaman-blade.json) |
 | Uchuu Senkan Yamato | 37350 | [37350-uchuu-senkan-yamato.json](./37350-uchuu-senkan-yamato.json) |
+| Uchuu Senkan Yamato: Kanketsu-hen | 385807 | [385807-uchuu-senkan-yamato-kanketsu-hen.json](./385807-uchuu-senkan-yamato-kanketsu-hen.json) |
 | Ucieczka | 398338 | [398338-ucieczka.json](./398338-ucieczka.json) |
 | UCraft | 85462 | [85462-ucraft.json](./85462-ucraft.json) |
 | Ucube Avcıları | 268222 | [268222-ucube-avc-lar.json](./268222-ucube-avc-lar.json) |
