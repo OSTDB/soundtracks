@@ -1525,6 +1525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incredible Ink | 343924 | [343924-incredible-ink.json](./343924-incredible-ink.json) |
 | Incredibous Shells | 328060 | [328060-incredibous-shells.json](./328060-incredibous-shells.json) |
 | IncrediBubble | 328581 | [328581-incredibubble.json](./328581-incredibubble.json) |
+| Incredibug | 361255 | [361255-incredibug.json](./361255-incredibug.json) |
 | IncreKnight | 391822 | [391822-increknight.json](./391822-increknight.json) |
 | Increlution | 158719 | [158719-increlution.json](./158719-increlution.json) |
 | Incremental Dungeon | 388335 | [388335-incremental-dungeon.json](./388335-incremental-dungeon.json) |
@@ -1708,6 +1709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infected: The Twin Vaccine - Collector's Edition | 125309 | [125309-infected-the-twin-vaccine-collectors-edition.json](./125309-infected-the-twin-vaccine-collectors-edition.json) |
 | Infection | 129082 | [129082-infection.json](./129082-infection.json) |
 | Infection | 142474 | [142474-infection.json](./142474-infection.json) |
+| Infection | 361278 | [361278-infection.json](./361278-infection.json) |
 | Infection Bio War | 343978 | [343978-infection-bio-war.json](./343978-infection-bio-war.json) |
 | Infection Crisis: Fight For Life | 270134 | [270134-infection-crisis-fight-for-life.json](./270134-infection-crisis-fight-for-life.json) |
 | Infection Free Zone | 215036 | [215036-infection-free-zone.json](./215036-infection-free-zone.json) |
