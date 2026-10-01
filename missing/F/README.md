@@ -1581,6 +1581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatrifice 2 | 262941 | [262941-fatrifice-2.json](./262941-fatrifice-2.json) |
 | Fatrifice 3 | 334211 | [334211-fatrifice-3.json](./334211-fatrifice-3.json) |
 | FatSheep Crisis | 247763 | [247763-fatsheep-crisis.json](./247763-fatsheep-crisis.json) |
+| FatSheep Crisis II | 372076 | [372076-fatsheep-crisis-ii.json](./372076-fatsheep-crisis-ii.json) |
 | Fatty Fight | 256544 | [256544-fatty-fight.json](./256544-fatty-fight.json) |
 | Fatty In Trouble | 238398 | [238398-fatty-in-trouble.json](./238398-fatty-in-trouble.json) |
 | Fatty Maze's Adventures | 35723 | [35723-fatty-mazes-adventures.json](./35723-fatty-mazes-adventures.json) |
@@ -4751,6 +4752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula 2026: Rise of Legends | 401728 | [401728-formula-2026-rise-of-legends.json](./401728-formula-2026-rise-of-legends.json) |
 | Formula 2D: Steer To Persevere | 212833 | [212833-formula-2d-steer-to-persevere.json](./212833-formula-2d-steer-to-persevere.json) |
 | Formula 500 | 230861 | [230861-formula-500.json](./230861-formula-500.json) |
+| Formula Auto Sport Racing | 372042 | [372042-formula-auto-sport-racing.json](./372042-formula-auto-sport-racing.json) |
 | Formula Bit Racing DX | 207275 | [207275-formula-bit-racing-dx.json](./207275-formula-bit-racing-dx.json) |
 | Formula Car Racing Simulator | 99409 | [99409-formula-car-racing-simulator.json](./99409-formula-car-racing-simulator.json) |
 | Formula Cartoon All Stars | 59924 | [59924-formula-cartoon-all-stars.json](./59924-formula-cartoon-all-stars.json) |
@@ -5128,6 +5130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FoxHaunt | 386279 | [386279-foxhaunt.json](./386279-foxhaunt.json) |
 | FoxHunt | 115719 | [115719-foxhunt.json](./115719-foxhunt.json) |
 | Foxingdale: The Magical Stones of Kentaroo | 273492 | [273492-foxingdale-the-magical-stones-of-kentaroo.json](./273492-foxingdale-the-magical-stones-of-kentaroo.json) |
+| Foxo | 372039 | [372039-foxo.json](./372039-foxo.json) |
 | FoxRun | 340241 | [340241-foxrun.json](./340241-foxrun.json) |
 | FoxTrotte | 239627 | [239627-foxtrotte.json](./239627-foxtrotte.json) |
 | Foxventures | 235763 | [235763-foxventures.json](./235763-foxventures.json) |
@@ -5497,6 +5500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freight Tycoon Inc. | 10335 | [10335-freight-tycoon-inc.json](./10335-freight-tycoon-inc.json) |
 | Freiwillig | 151072 | [151072-freiwillig.json](./151072-freiwillig.json) |
 | French with Rayman | 193346 | [193346-french-with-rayman.json](./193346-french-with-rayman.json) |
+| Frenetika | 372083 | [372083-frenetika.json](./372083-frenetika.json) |
 | FrenQuest | 307604 | [307604-frenquest.json](./307604-frenquest.json) |
 | FrenVania | 143047 | [143047-frenvania.json](./143047-frenvania.json) |
 | Frenzic | 66739 | [66739-frenzic.json](./66739-frenzic.json) |
@@ -5591,6 +5595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fridge | 384166 | [384166-fridge.json](./384166-fridge.json) |
 | Frido | 232456 | [232456-frido.json](./232456-frido.json) |
 | Fried Chicken in Wonderland | 158576 | [158576-fried-chicken-in-wonderland.json](./158576-fried-chicken-in-wonderland.json) |
+| Fried Chicken Wings Cause Love Fires | 372084 | [372084-fried-chicken-wings-cause-love-fires.json](./372084-fried-chicken-wings-cause-love-fires.json) |
 | Fried Rice Apocalypse | 338727 | [338727-fried-rice-apocalypse.json](./338727-fried-rice-apocalypse.json) |
 | Frieda is Changing | 357272 | [357272-frieda-is-changing.json](./357272-frieda-is-changing.json) |
 | Friend Hunt | 276777 | [276777-friend-hunt.json](./276777-friend-hunt.json) |
