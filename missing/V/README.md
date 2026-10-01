@@ -916,6 +916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vicky Saves the Big Dumb World | 34415 | [34415-vicky-saves-the-big-dumb-world.json](./34415-vicky-saves-the-big-dumb-world.json) |
 | Vico | 193768 | [193768-vico.json](./193768-vico.json) |
 | Vico 3: Tale of the Seven Seas | 243790 | [243790-vico-3-tale-of-the-seven-seas.json](./243790-vico-3-tale-of-the-seven-seas.json) |
+| Victim 10 PM | 358336 | [358336-victim-10-pm.json](./358336-victim-10-pm.json) |
 | Victim Doll | 239195 | [239195-victim-doll.json](./239195-victim-doll.json) |
 | Victim.exe | 335344 | [335344-victim-exe.json](./335344-victim-exe.json) |
 | Victim's Tongue | 397765 | [397765-victims-tongue.json](./397765-victims-tongue.json) |
