@@ -264,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Napoleon at Waterloo | 25092 | [25092-napoleon-at-waterloo.json](./25092-napoleon-at-waterloo.json) |
 | Napoleon Dynamite: The Game | 2824 | [2824-napoleon-dynamite-the-game.json](./2824-napoleon-dynamite-the-game.json) |
 | Napoleon Solitaire | 132169 | [132169-napoleon-solitaire.json](./132169-napoleon-solitaire.json) |
+| Napoleon: Rule of Iron | 358985 | [358985-napoleon-rule-of-iron.json](./358985-napoleon-rule-of-iron.json) |
 | Napoleon: Total War - Coalition Battle Pack | 82108 | [82108-napoleon-total-war-coalition-battle-pack.json](./82108-napoleon-total-war-coalition-battle-pack.json) |
 | Napoleon: Total War - Gold Edition | 88274 | [88274-napoleon-total-war-gold-edition.json](./88274-napoleon-total-war-gold-edition.json) |
 | Napoleon: Total War - Heroes of the Napoleonic Wars | 82111 | [82111-napoleon-total-war-heroes-of-the-napoleonic-wars.json](./82111-napoleon-total-war-heroes-of-the-napoleonic-wars.json) |
@@ -2871,6 +2872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Results Found | 412478 | [412478-no-results-found.json](./412478-no-results-found.json) |
 | No Retreat! the Russian Front | 348867 | [348867-no-retreat-the-russian-front.json](./348867-no-retreat-the-russian-front.json) |
 | No Return | 198350 | [198350-no-return.json](./198350-no-return.json) |
+| No Road to Peak: Together | 358988 | [358988-no-road-to-peak-together.json](./358988-no-road-to-peak-together.json) |
 | No Rules Box! | 301815 | [301815-no-rules-box.json](./301815-no-rules-box.json) |
 | No Senses | 198236 | [198236-no-senses.json](./198236-no-senses.json) |
 | No Service | 391030 | [391030-no-service.json](./391030-no-service.json) |
