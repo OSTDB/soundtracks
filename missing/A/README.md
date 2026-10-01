@@ -3752,6 +3752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among Ripples 2 | 119637 | [119637-among-ripples-2.json](./119637-among-ripples-2.json) |
 | Among Ripples: Shallow Waters | 133793 | [133793-among-ripples-shallow-waters.json](./133793-among-ripples-shallow-waters.json) |
 | Among School Girls | 165006 | [165006-among-school-girls.json](./165006-among-school-girls.json) |
+| Among Shadows | 380068 | [380068-among-shadows.json](./380068-among-shadows.json) |
 | Among Stars | 211405 | [211405-among-stars.json](./211405-among-stars.json) |
 | Among the Dead Ones | 174671 | [174671-among-the-dead-ones.json](./174671-among-the-dead-ones.json) |
 | Among the Innocent: A Stricken Tale | 30439 | [30439-among-the-innocent-a-stricken-tale.json](./30439-among-the-innocent-a-stricken-tale.json) |
@@ -5123,6 +5124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Appleblossom Academy | 185427 | [185427-appleblossom-academy.json](./185427-appleblossom-academy.json) |
 | Appleblossom Academy 2 | 185422 | [185422-appleblossom-academy-2.json](./185422-appleblossom-academy-2.json) |
 | Apples and Oranges | 308424 | [308424-apples-and-oranges.json](./308424-apples-and-oranges.json) |
+| Apples in the Tree | 380028 | [380028-apples-in-the-tree.json](./380028-apples-in-the-tree.json) |
 | Appleseed: Prometheus no Shintaku | 38370 | [38370-appleseed-prometheus-no-shintaku.json](./38370-appleseed-prometheus-no-shintaku.json) |
 | AppleSnake | 51989 | [51989-applesnake.json](./51989-applesnake.json) |
 | AppleSnake: Christmas story | 88181 | [88181-applesnake-christmas-story.json](./88181-applesnake-christmas-story.json) |
