@@ -3477,6 +3477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shagster Online 2 | 176812 | [176812-shagster-online-2.json](./176812-shagster-online-2.json) |
 | Shaiya | 85841 | [85841-shaiya.json](./85841-shaiya.json) |
 | Shakadou-san no Jun'ai Road | 182226 | [182226-shakadou-san-no-junai-road.json](./182226-shakadou-san-no-junai-road.json) |
+| Shake | 343962 | [343962-shake.json](./343962-shake.json) |
 | Shake | 383508 | [383508-shake.json](./383508-shake.json) |
 | Shake | 399840 | [399840-shake.json](./399840-shake.json) |
 | Shake Ground | 202659 | [202659-shake-ground.json](./202659-shake-ground.json) |
@@ -5385,6 +5386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimRefinery | 72604 | [72604-simrefinery.json](./72604-simrefinery.json) |
 | SimSafari | 95477 | [95477-simsafari.json](./95477-simsafari.json) |
 | Simsig | 125969 | [125969-simsig.json](./125969-simsig.json) |
+| Simson Pet Rescue | 343929 | [343929-simson-pet-rescue.json](./343929-simson-pet-rescue.json) |
 | Simson Tuningwerkstatt 3D | 111634 | [111634-simson-tuningwerkstatt-3d.json](./111634-simson-tuningwerkstatt-3d.json) |
 | Simstory: Live As You Wish | 101573 | [101573-simstory-live-as-you-wish.json](./101573-simstory-live-as-you-wish.json) |
 | SIMT Simulator | 55118 | [55118-simt-simulator.json](./55118-simt-simulator.json) |
@@ -12284,6 +12286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starsphere | 34321 | [34321-starsphere.json](./34321-starsphere.json) |
 | StarStorm | 258032 | [258032-starstorm.json](./258032-starstorm.json) |
 | Starstride | 264622 | [264622-starstride.json](./264622-starstride.json) |
+| Starstrike | 343972 | [343972-starstrike.json](./343972-starstrike.json) |
 | Starstrike 2 | 39133 | [39133-starstrike-2.json](./39133-starstrike-2.json) |
 | Starstruck | 116842 | [116842-starstruck.json](./116842-starstruck.json) |
 | Starstruck | 239651 | [239651-starstruck.json](./239651-starstruck.json) |
@@ -15950,6 +15953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Street Fighter IV: Arcade Edition | 20586 | [20586-super-street-fighter-iv-arcade-edition.json](./20586-super-street-fighter-iv-arcade-edition.json) |
 | Super Street Fighter IV: Pachislot Edition | 69377 | [69377-super-street-fighter-iv-pachislot-edition.json](./69377-super-street-fighter-iv-pachislot-edition.json) |
 | Super Strip Fighter IV | 66653 | [66653-super-strip-fighter-iv.json](./66653-super-strip-fighter-iv.json) |
+| Super Stroke the Pants | 343931 | [343931-super-stroke-the-pants.json](./343931-super-stroke-the-pants.json) |
 | Super Strong Hero | 188005 | [188005-super-strong-hero.json](./188005-super-strong-hero.json) |
 | Super Strong Warriors | 64922 | [64922-super-strong-warriors.json](./64922-super-strong-warriors.json) |
 | Super Stunt Spectacular | 208350 | [208350-super-stunt-spectacular.json](./208350-super-stunt-spectacular.json) |
@@ -16564,6 +16568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Cat Legacy Collection | 377246 | [377246-sushi-cat-legacy-collection.json](./377246-sushi-cat-legacy-collection.json) |
 | Sushi Cat Storycraft World Creator | 377775 | [377775-sushi-cat-storycraft-world-creator.json](./377775-sushi-cat-storycraft-world-creator.json) |
 | Sushi Catapult | 320746 | [320746-sushi-catapult.json](./320746-sushi-catapult.json) |
+| Sushi Clickers | 343971 | [343971-sushi-clickers.json](./343971-sushi-clickers.json) |
 | Sushi for Robots | 177320 | [177320-sushi-for-robots.json](./177320-sushi-for-robots.json) |
 | Sushi girlfriend | 129718 | [129718-sushi-girlfriend.json](./129718-sushi-girlfriend.json) |
 | Sushi Gun | 181867 | [181867-sushi-gun.json](./181867-sushi-gun.json) |
@@ -17028,6 +17033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Coast Legends: Rage of Demons | 19477 | [19477-sword-coast-legends-rage-of-demons.json](./19477-sword-coast-legends-rage-of-demons.json) |
 | Sword Collector | 245787 | [245787-sword-collector.json](./245787-sword-collector.json) |
 | Sword Dancer | 117673 | [117673-sword-dancer.json](./117673-sword-dancer.json) |
+| Sword Dancer: Kyoujin no Megami | 343961 | [343961-sword-dancer-kyoujin-no-megami.json](./343961-sword-dancer-kyoujin-no-megami.json) |
 | Sword Daughter | 35937 | [35937-sword-daughter.json](./35937-sword-daughter.json) |
 | Sword Defense | 116170 | [116170-sword-defense.json](./116170-sword-defense.json) |
 | Sword Fight | 289876 | [289876-sword-fight.json](./289876-sword-fight.json) |
@@ -17385,6 +17391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Systemic War | 365202 | [365202-systemic-war.json](./365202-systemic-war.json) |
 | Syunsoku Mezase! Zenkoku Saikyou Runner | 222512 | [222512-syunsoku-mezase-zenkoku-saikyou-runner.json](./222512-syunsoku-mezase-zenkoku-saikyou-runner.json) |
 | Syvalion | 40249 | [40249-syvalion.json](./40249-syvalion.json) |
+| Syvnta: Sovereignty | 343952 | [343952-syvnta-sovereignty.json](./343952-syvnta-sovereignty.json) |
 | Syzgy | 178018 | [178018-syzgy.json](./178018-syzgy.json) |
 | Syzygy | 123068 | [123068-syzygy.json](./123068-syzygy.json) |
 | Szen | 114364 | [114364-szen.json](./114364-szen.json) |
