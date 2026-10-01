@@ -453,6 +453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icarus Challenge | 210893 | [210893-icarus-challenge.json](./210893-icarus-challenge.json) |
 | Icarus Online | 62770 | [62770-icarus-online.json](./62770-icarus-online.json) |
 | Icarus Proudbottom's World of Typing Weekly! | 61865 | [61865-icarus-proudbottoms-world-of-typing-weekly.json](./61865-icarus-proudbottoms-world-of-typing-weekly.json) |
+| Icarus-X | 341074 | [341074-icarus-x.json](./341074-icarus-x.json) |
 | Icarus: Alien Vanguard | 140513 | [140513-icarus-alien-vanguard.json](./140513-icarus-alien-vanguard.json) |
 | Icarus: Arcticus Outpost | 266826 | [266826-icarus-arcticus-outpost.json](./266826-icarus-arcticus-outpost.json) |
 | Icarus: Art Deco Furniture Pack | 276231 | [276231-icarus-art-deco-furniture-pack.json](./276231-icarus-art-deco-furniture-pack.json) |
@@ -915,6 +916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iffermoon | 167145 | [167145-iffermoon.json](./167145-iffermoon.json) |
 | Iffy Institute | 96238 | [96238-iffy-institute.json](./96238-iffy-institute.json) |
 | iFighter 1945 | 91940 | [91940-ifighter-1945.json](./91940-ifighter-1945.json) |
+| Ifighter 2: The Pacific 1942 | 341075 | [341075-ifighter-2-the-pacific-1942.json](./341075-ifighter-2-the-pacific-1942.json) |
 | Ifu | 302488 | [302488-ifu.json](./302488-ifu.json) |
 | IFU | 274774 | [274774-ifu.json](./274774-ifu.json) |
 | IG Arena: Idle RPG | 232054 | [232054-ig-arena-idle-rpg.json](./232054-ig-arena-idle-rpg.json) |
