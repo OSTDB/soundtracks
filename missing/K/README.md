@@ -1245,6 +1245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Instinct Gold | 10613 | [10613-killer-instinct-gold.json](./10613-killer-instinct-gold.json) |
 | Killer Instinct: Definitive Edition | 25662 | [25662-killer-instinct-definitive-edition.json](./25662-killer-instinct-definitive-edition.json) |
 | Killer Is Dead | 2940 | [2940-killer-is-dead.json](./2940-killer-is-dead.json) |
+| Killer Island | 358984 | [358984-killer-island.json](./358984-killer-island.json) |
 | Killer Junkyard | 295894 | [295894-killer-junkyard.json](./295894-killer-junkyard.json) |
 | Killer Karaoke: el juego | 245308 | [245308-killer-karaoke-el-juego.json](./245308-killer-karaoke-el-juego.json) |
 | Killer Klowns From Outer Space: Fatso | 322739 | [322739-killer-klowns-from-outer-space-fatso.json](./322739-killer-klowns-from-outer-space-fatso.json) |
