@@ -2037,6 +2037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orlando Theme Park VR | 292691 | [292691-orlando-theme-park-vr.json](./292691-orlando-theme-park-vr.json) |
 | Orly's Draw-A-Story | 60506 | [60506-orlys-draw-a-story.json](./60506-orlys-draw-a-story.json) |
 | ORM | 253889 | [253889-orm.json](./253889-orm.json) |
+| Ormod: Directive | 378378 | [378378-ormod-directive.json](./378378-ormod-directive.json) |
 | Orna | 105733 | [105733-orna.json](./105733-orna.json) |
 | Ornament Tower | 404393 | [404393-ornament-tower.json](./404393-ornament-tower.json) |
 | Ornélia | 403776 | [403776-ornelia.json](./403776-ornelia.json) |
@@ -2324,6 +2325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Wonderland | 403157 | [403157-our-wonderland.json](./403157-our-wonderland.json) |
 | Our Worlds | 130877 | [130877-our-worlds.json](./130877-our-worlds.json) |
 | Ouran High School Host Club | 81475 | [81475-ouran-high-school-host-club.json](./81475-ouran-high-school-host-club.json) |
+| Ourobolos | 378376 | [378376-ourobolos.json](./378376-ourobolos.json) |
 | Ouroboros | 230408 | [230408-ouroboros.json](./230408-ouroboros.json) |
 | Ouroboros Saiaku.exe: Crazy for you | 358363 | [358363-ouroboros-saiaku-exe-crazy-for-you.json](./358363-ouroboros-saiaku-exe-crazy-for-you.json) |
 | Ouroboros Solitaire | 405689 | [405689-ouroboros-solitaire.json](./405689-ouroboros-solitaire.json) |
