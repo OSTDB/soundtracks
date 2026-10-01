@@ -1441,6 +1441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manga Collection | 92287 | [92287-manga-collection.json](./92287-manga-collection.json) |
 | Manga de Tantei Mystery | 260692 | [260692-manga-de-tantei-mystery.json](./260692-manga-de-tantei-mystery.json) |
 | Manga English Native Phrase Quiz | 409544 | [409544-manga-english-native-phrase-quiz.json](./409544-manga-english-native-phrase-quiz.json) |
+| Manga Ninja | 358432 | [358432-manga-ninja.json](./358432-manga-ninja.json) |
 | Manga Solitaire | 73844 | [73844-manga-solitaire.json](./73844-manga-solitaire.json) |
 | Manga-ka Debut Monogatari: Suteki na Manga wo Egakou | 222393 | [222393-manga-ka-debut-monogatari-suteki-na-manga-wo-egakou.json](./222393-manga-ka-debut-monogatari-suteki-na-manga-wo-egakou.json) |
 | Mangadle | 374286 | [374286-mangadle.json](./374286-mangadle.json) |
@@ -1833,6 +1834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart 8 Deluxe: Booster Course Pass - Wave 6 | 231445 | [231445-mario-kart-8-deluxe-booster-course-pass-wave-6.json](./231445-mario-kart-8-deluxe-booster-course-pass-wave-6.json) |
 | Mario Kart Arcade GP | 45160 | [45160-mario-kart-arcade-gp.json](./45160-mario-kart-arcade-gp.json) |
 | Mario Kart Arcade GP VR | 48711 | [48711-mario-kart-arcade-gp-vr.json](./48711-mario-kart-arcade-gp-vr.json) |
+| Mario Kart Black | 358436 | [358436-mario-kart-black.json](./358436-mario-kart-black.json) |
 | Mario Kart DS: GameCube Grand Prix | 313347 | [313347-mario-kart-ds-gamecube-grand-prix.json](./313347-mario-kart-ds-gamecube-grand-prix.json) |
 | Mario Kart PC | 294712 | [294712-mario-kart-pc.json](./294712-mario-kart-pc.json) |
 | Mario Kart R | 42204 | [42204-mario-kart-r.json](./42204-mario-kart-r.json) |
@@ -5412,6 +5414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mike Piazza's Strike Zone | 3410 | [3410-mike-piazzas-strike-zone.json](./3410-mike-piazzas-strike-zone.json) |
 | Mike Tyson Boxing | 23452 | [23452-mike-tyson-boxing.json](./23452-mike-tyson-boxing.json) |
 | Mike Tyson Heavyweight Boxing | 24076 | [24076-mike-tyson-heavyweight-boxing.json](./24076-mike-tyson-heavyweight-boxing.json) |
+| Mike Tyson's Punch Out!!?? | 358438 | [358438-mike-tysons-punch-out.json](./358438-mike-tysons-punch-out.json) |
 | Mike Tyson's Punch-Out!! | 2195 | [2195-mike-tysons-punch-out.json](./2195-mike-tysons-punch-out.json) |
 | Mike Tyson's Punch-Out!! SNES | 377739 | [377739-mike-tysons-punch-out-snes.json](./377739-mike-tysons-punch-out-snes.json) |
 | Mike V: Skateboard Party HD | 87709 | [87709-mike-v-skateboard-party-hd.json](./87709-mike-v-skateboard-party-hd.json) |
@@ -6016,6 +6019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Star Survivor | 262902 | [262902-mini-star-survivor.json](./262902-mini-star-survivor.json) |
 | Mini Stasol | 366918 | [366918-mini-stasol.json](./366918-mini-stasol.json) |
 | Mini Subway: Logic on the Metro Line | 209693 | [209693-mini-subway-logic-on-the-metro-line.json](./209693-mini-subway-logic-on-the-metro-line.json) |
+| Mini TD | 358424 | [358424-mini-td.json](./358424-mini-td.json) |
 | Mini TD 2: Relax Tower Defense | 305272 | [305272-mini-td-2-relax-tower-defense.json](./305272-mini-td-2-relax-tower-defense.json) |
 | Mini Tekton | 120822 | [120822-mini-tekton.json](./120822-mini-tekton.json) |
 | Mini Tennis | 242560 | [242560-mini-tennis.json](./242560-mini-tennis.json) |
