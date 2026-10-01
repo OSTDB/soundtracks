@@ -547,6 +547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danmaku Shimai: La soeur de barrage | 286593 | [286593-danmaku-shimai-la-soeur-de-barrage.json](./286593-danmaku-shimai-la-soeur-de-barrage.json) |
 | Danmaku Unlimited | 124756 | [124756-danmaku-unlimited.json](./124756-danmaku-unlimited.json) |
 | Danmaku Unlimited 2 | 17107 | [17107-danmaku-unlimited-2.json](./17107-danmaku-unlimited-2.json) |
+| Danmaku Unlimited 4 Wyver Ultra | 359529 | [359529-danmaku-unlimited-4-wyver-ultra.json](./359529-danmaku-unlimited-4-wyver-ultra.json) |
 | Dànmù Nàgè Èrén | 116113 | [116113-danmu-nage-eren.json](./116113-danmu-nage-eren.json) |
 | Dann Fox & the Time Machine | 192383 | [192383-dann-fox-and-the-time-machine.json](./192383-dann-fox-and-the-time-machine.json) |
 | Danny Phantom: Ghost Frenzy | 257386 | [257386-danny-phantom-ghost-frenzy.json](./257386-danny-phantom-ghost-frenzy.json) |
@@ -7235,6 +7236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw Souls | 54488 | [54488-draw-souls.json](./54488-draw-souls.json) |
 | Draw Stuff | 65043 | [65043-draw-stuff.json](./65043-draw-stuff.json) |
 | Draw Sword | 358926 | [358926-draw-sword.json](./358926-draw-sword.json) |
+| Draw Sword | 359540 | [359540-draw-sword.json](./359540-draw-sword.json) |
 | Draw the Hands | 405580 | [405580-draw-the-hands.json](./405580-draw-the-hands.json) |
 | Draw the Way | 29833 | [29833-draw-the-way.json](./29833-draw-the-way.json) |
 | Draw Two Save: Save the man | 197363 | [197363-draw-two-save-save-the-man.json](./197363-draw-two-save-save-the-man.json) |
