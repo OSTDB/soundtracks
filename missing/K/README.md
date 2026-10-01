@@ -2075,6 +2075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knife Dash | 87055 | [87055-knife-dash.json](./87055-knife-dash.json) |
 | Knife Flip - Hit Geometry Cube | 104666 | [104666-knife-flip-hit-geometry-cube.json](./104666-knife-flip-hit-geometry-cube.json) |
 | Knife Flipping | 101334 | [101334-knife-flipping.json](./101334-knife-flipping.json) |
+| Knife Man | 380625 | [380625-knife-man.json](./380625-knife-man.json) |
 | Knife road | 122434 | [122434-knife-road.json](./122434-knife-road.json) |
 | Knife Rush | 104093 | [104093-knife-rush.json](./104093-knife-rush.json) |
 | Knife Sisters | 110158 | [110158-knife-sisters.json](./110158-knife-sisters.json) |
