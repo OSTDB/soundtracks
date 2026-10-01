@@ -967,6 +967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harmony | 260660 | [260660-harmony.json](./260660-harmony.json) |
 | Harmony | 371452 | [371452-harmony.json](./371452-harmony.json) |
 | Harmony in the Wild | 346717 | [346717-harmony-in-the-wild.json](./346717-harmony-in-the-wild.json) |
+| Harmony of Fear | 337207 | [337207-harmony-of-fear.json](./337207-harmony-of-fear.json) |
 | HarmonyTD | 104133 | [104133-harmonytd.json](./104133-harmonytd.json) |
 | Harms Way | 47443 | [47443-harms-way.json](./47443-harms-way.json) |
 | Harold | 7865 | [7865-harold.json](./7865-harold.json) |
