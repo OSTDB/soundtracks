@@ -2681,6 +2681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Over the Hedge: Hammy Goes Nuts! | 358374 | [358374-over-the-hedge-hammy-goes-nuts.json](./358374-over-the-hedge-hammy-goes-nuts.json) |
 | Over the Hill | 329124 | [329124-over-the-hill.json](./329124-over-the-hill.json) |
 | Over the Hills and Far Away | 34615 | [34615-over-the-hills-and-far-away.json](./34615-over-the-hills-and-far-away.json) |
+| Over the Moon | 352252 | [352252-over-the-moon.json](./352252-over-the-moon.json) |
 | Over the Net | 295907 | [295907-over-the-net.json](./295907-over-the-net.json) |
 | Over the Net | 87181 | [87181-over-the-net.json](./87181-over-the-net.json) |
 | Over The Phone | 282676 | [282676-over-the-phone.json](./282676-over-the-phone.json) |
