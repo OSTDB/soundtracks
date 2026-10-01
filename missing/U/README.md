@@ -1053,6 +1053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unheroic Misfits | 286068 | [286068-unheroic-misfits.json](./286068-unheroic-misfits.json) |
 | Unhinged | 144979 | [144979-unhinged.json](./144979-unhinged.json) |
 | Unhinged 2 | 245864 | [245864-unhinged-2.json](./245864-unhinged-2.json) |
+| Unhinged Pet Store Simulator | 349457 | [349457-unhinged-pet-store-simulator.json](./349457-unhinged-pet-store-simulator.json) |
 | Unhold | 407330 | [407330-unhold.json](./407330-unhold.json) |
 | Unholy | 90213 | [90213-unholy.json](./90213-unholy.json) |
 | Unholy Adventure 2 | 295933 | [295933-unholy-adventure-2.json](./295933-unholy-adventure-2.json) |
