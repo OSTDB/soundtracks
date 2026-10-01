@@ -1754,6 +1754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed Me Oil 2 | 39207 | [39207-feed-me-oil-2.json](./39207-feed-me-oil-2.json) |
 | Feed Me Oil 2: Liquid Puzzle Adventure | 108499 | [108499-feed-me-oil-2-liquid-puzzle-adventure.json](./108499-feed-me-oil-2-liquid-puzzle-adventure.json) |
 | Feed My Alien | 60629 | [60629-feed-my-alien.json](./60629-feed-my-alien.json) |
+| Feed My Raptor 2 | 340528 | [340528-feed-my-raptor-2.json](./340528-feed-my-raptor-2.json) |
 | Feed My Raptor VR | 391839 | [391839-feed-my-raptor-vr.json](./391839-feed-my-raptor-vr.json) |
 | Feed the AI | 398585 | [398585-feed-the-ai.json](./398585-feed-the-ai.json) |
 | Feed the Animals | 75916 | [75916-feed-the-animals.json](./75916-feed-the-animals.json) |
@@ -3080,6 +3081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish RPG | 232912 | [232912-fish-rpg.json](./232912-fish-rpg.json) |
 | Fish Season | 350506 | [350506-fish-season.json](./350506-fish-season.json) |
 | Fish Simulator: Agonik Lake | 240761 | [240761-fish-simulator-agonik-lake.json](./240761-fish-simulator-agonik-lake.json) |
+| Fish Stick Protocol | 340540 | [340540-fish-stick-protocol.json](./340540-fish-stick-protocol.json) |
 | Fish Swarm: Within Inches | 383962 | [383962-fish-swarm-within-inches.json](./383962-fish-swarm-within-inches.json) |
 | Fish Tales | 358849 | [358849-fish-tales.json](./358849-fish-tales.json) |
 | Fish Tales | 94364 | [94364-fish-tales.json](./94364-fish-tales.json) |
@@ -6469,6 +6471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furni-Jumpin' | 255132 | [255132-furni-jumpin.json](./255132-furni-jumpin.json) |
 | Furnish Master | 212816 | [212816-furnish-master.json](./212816-furnish-master.json) |
 | Furniture Assembler Simulator | 402351 | [402351-furniture-assembler-simulator.json](./402351-furniture-assembler-simulator.json) |
+| Furniture Service | 340541 | [340541-furniture-service.json](./340541-furniture-service.json) |
 | Furniture: Build & Repair | 288864 | [288864-furniture-build-and-repair.json](./288864-furniture-build-and-repair.json) |
 | Furopon World | 85822 | [85822-furopon-world.json](./85822-furopon-world.json) |
 | Furries & Scalies & Bears Oh My! 2: Return to Kale Bay | 169296 | [169296-furries-and-scalies-and-bears-oh-my-2-return-to-kale-bay.json](./169296-furries-and-scalies-and-bears-oh-my-2-return-to-kale-bay.json) |
