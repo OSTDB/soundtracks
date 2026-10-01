@@ -612,6 +612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balance: Umbilical Wake | 410977 | [410977-balance-umbilical-wake.json](./410977-balance-umbilical-wake.json) |
 | Balanced | 320309 | [320309-balanced.json](./320309-balanced.json) |
 | Balancefield | 180826 | [180826-balancefield.json](./180826-balancefield.json) |
+| Balances | 346709 | [346709-balances.json](./346709-balances.json) |
 | Balancing Cats | 330833 | [330833-balancing-cats.json](./330833-balancing-cats.json) |
 | Balathrone | 390720 | [390720-balathrone.json](./390720-balathrone.json) |
 | Balatro: Cryptid | 331968 | [331968-balatro-cryptid.json](./331968-balatro-cryptid.json) |
@@ -750,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballerburg | 129148 | [129148-ballerburg.json](./129148-ballerburg.json) |
 | Ballerburg: Castle Chaos | 43879 | [43879-ballerburg-castle-chaos.json](./43879-ballerburg-castle-chaos.json) |
 | Ballerina Magazine Dress Up | 95844 | [95844-ballerina-magazine-dress-up.json](./95844-ballerina-magazine-dress-up.json) |
+| Ballermann: Hey Baby! | 346711 | [346711-ballermann-hey-baby.json](./346711-ballermann-hey-baby.json) |
 | Ballet Parking | 314070 | [314070-ballet-parking.json](./314070-ballet-parking.json) |
 | BallFrog | 186755 | [186755-ballfrog.json](./186755-ballfrog.json) |
 | Ballgame 2 | 79224 | [79224-ballgame-2.json](./79224-ballgame-2.json) |
@@ -3848,6 +3850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BioForge | 2213 | [2213-bioforge.json](./2213-bioforge.json) |
 | BioFury | 277426 | [277426-biofury.json](./277426-biofury.json) |
 | BioFusion | 258546 | [258546-biofusion.json](./258546-biofusion.json) |
+| Biogenesis | 346732 | [346732-biogenesis.json](./346732-biogenesis.json) |
 | BioGloom | 207835 | [207835-biogloom.json](./207835-biogloom.json) |
 | Biohazard | 178438 | [178438-biohazard.json](./178438-biohazard.json) |
 | Biohazard 0 | 307948 | [307948-biohazard-0.json](./307948-biohazard-0.json) |
@@ -4603,6 +4606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blanket of Snow | 394362 | [394362-blanket-of-snow.json](./394362-blanket-of-snow.json) |
 | Blankos Block Party | 134573 | [134573-blankos-block-party.json](./134573-blankos-block-party.json) |
 | Blankspace | 184580 | [184580-blankspace.json](./184580-blankspace.json) |
+| Blankspace | 346736 | [346736-blankspace.json](./346736-blankspace.json) |
 | BlankSpace | 178973 | [178973-blankspace.json](./178973-blankspace.json) |
 | Blanksword | 338720 | [338720-blanksword.json](./338720-blanksword.json) |
 | BlapRacer | 71507 | [71507-blapracer.json](./71507-blapracer.json) |
@@ -5725,6 +5729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boba | 177569 | [177569-boba.json](./177569-boba.json) |
 | Boba | 239588 | [239588-boba.json](./239588-boba.json) |
 | Boba Avoider | 413031 | [413031-boba-avoider.json](./413031-boba-avoider.json) |
+| Boba Cafe Simulator | 346644 | [346644-boba-cafe-simulator.json](./346644-boba-cafe-simulator.json) |
 | Boba Tale | 199622 | [199622-boba-tale.json](./199622-boba-tale.json) |
 | Boba Tea Shop Simulator | 244236 | [244236-boba-tea-shop-simulator.json](./244236-boba-tea-shop-simulator.json) |
 | Bobanook! | 390788 | [390788-bobanook.json](./390788-bobanook.json) |
