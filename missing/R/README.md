@@ -2548,6 +2548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Replica: Temporary Safety | 174218 | [174218-replica-temporary-safety.json](./174218-replica-temporary-safety.json) |
 | Replicart | 41390 | [41390-replicart.json](./41390-replicart.json) |
 | Replicators | 98785 | [98785-replicators.json](./98785-replicators.json) |
+| Replicomica | 361252 | [361252-replicomica.json](./361252-replicomica.json) |
 | Replics | 129765 | [129765-replics.json](./129765-replics.json) |
 | Replics 3 - Behind the Light | 132075 | [132075-replics-3-behind-the-light.json](./132075-replics-3-behind-the-light.json) |
 | Replik Survivors | 266296 | [266296-replik-survivors.json](./266296-replik-survivors.json) |
@@ -3050,6 +3051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Returning Nightmares | 202363 | [202363-returning-nightmares.json](./202363-returning-nightmares.json) |
 | Returning the favor of the dog | 169358 | [169358-returning-the-favor-of-the-dog.json](./169358-returning-the-favor-of-the-dog.json) |
 | Returning to Mia | 226726 | [226726-returning-to-mia.json](./226726-returning-to-mia.json) |
+| Returns Outlet Simulator | 361272 | [361272-returns-outlet-simulator.json](./361272-returns-outlet-simulator.json) |
 | Retwined | 178945 | [178945-retwined.json](./178945-retwined.json) |
 | Reunion | 12471 | [12471-reunion.json](./12471-reunion.json) |
 | Reunion | 135873 | [135873-reunion.json](./135873-reunion.json) |
