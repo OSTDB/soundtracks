@@ -398,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaori After Story | 112770 | [112770-kaori-after-story.json](./112770-kaori-after-story.json) |
 | Kaos | 118397 | [118397-kaos.json](./118397-kaos.json) |
 | Kaos 2 | 57724 | [57724-kaos-2.json](./57724-kaos-2.json) |
+| Kaos Kards | 374247 | [374247-kaos-kards.json](./374247-kaos-kards.json) |
 | Kǎpái Màoxiǎnzhě | 148369 | [148369-kapai-maoxianzhe.json](./148369-kapai-maoxianzhe.json) |
 | Kaperfahrt | 414347 | [414347-kaperfahrt.json](./414347-kaperfahrt.json) |
 | Kapi Hospital | 260739 | [260739-kapi-hospital.json](./260739-kapi-hospital.json) |
@@ -1405,6 +1406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinesis | 276713 | [276713-kinesis.json](./276713-kinesis.json) |
 | Kinetic Connection | 45272 | [45272-kinetic-connection.json](./45272-kinetic-connection.json) |
 | Kinetic Edge | 139524 | [139524-kinetic-edge.json](./139524-kinetic-edge.json) |
+| Kinetic Neo Ornate Bout | 374220 | [374220-kinetic-neo-ornate-bout.json](./374220-kinetic-neo-ornate-bout.json) |
 | Kinetype | 398366 | [398366-kinetype.json](./398366-kinetype.json) |
 | King 'n Knight | 153944 | [153944-king-n-knight.json](./153944-king-n-knight.json) |
 | King and Country | 151148 | [151148-king-and-country.json](./151148-king-and-country.json) |
