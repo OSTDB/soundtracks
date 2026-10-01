@@ -3808,6 +3808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Deltarune | 408795 | [408795-lost-deltarune.json](./408795-lost-deltarune.json) |
 | Lost Dooors | 383641 | [383641-lost-dooors.json](./383641-lost-dooors.json) |
 | Lost Dream | 169473 | [169473-lost-dream.json](./169473-lost-dream.json) |
+| Lost Dream 1 | 365236 | [365236-lost-dream-1.json](./365236-lost-dream-1.json) |
 | Lost Dream Chronicle | 316632 | [316632-lost-dream-chronicle.json](./316632-lost-dream-chronicle.json) |
 | Lost Dream: Darkness | 240799 | [240799-lost-dream-darkness.json](./240799-lost-dream-darkness.json) |
 | Lost Dutchman's Gold | 25133 | [25133-lost-dutchmans-gold.json](./25133-lost-dutchmans-gold.json) |
@@ -4248,6 +4249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LoveCraft | 286544 | [286544-lovecraft.json](./286544-lovecraft.json) |
 | Lovecraft Quest: A Comix Game | 110643 | [110643-lovecraft-quest-a-comix-game.json](./110643-lovecraft-quest-a-comix-game.json) |
 | Lovecraft Tales | 103394 | [103394-lovecraft-tales.json](./103394-lovecraft-tales.json) |
+| Lovecraft's Cat | 365231 | [365231-lovecrafts-cat.json](./365231-lovecrafts-cat.json) |
 | Lovecraft's Mythos Run | 248055 | [248055-lovecrafts-mythos-run.json](./248055-lovecrafts-mythos-run.json) |
 | Lovecraftian Bundle | 259512 | [259512-lovecraftian-bundle.json](./259512-lovecraftian-bundle.json) |
 | LoveCrafting | 180797 | [180797-lovecrafting.json](./180797-lovecrafting.json) |
