@@ -3205,6 +3205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechQuest | 78644 | [78644-mechquest.json](./78644-mechquest.json) |
 | Mechs V Kaijus 2 | 400402 | [400402-mechs-v-kaijus-2.json](./400402-mechs-v-kaijus-2.json) |
 | MechScape | 94019 | [94019-mechscape.json](./94019-mechscape.json) |
+| MechShell | 373147 | [373147-mechshell.json](./373147-mechshell.json) |
 | Mechsprofit | 96842 | [96842-mechsprofit.json](./96842-mechsprofit.json) |
 | Mechsternmination Force | 115705 | [115705-mechsternmination-force.json](./115705-mechsternmination-force.json) |
 | MechWarrior 2: Ghost Bear's Legacy | 19189 | [19189-mechwarrior-2-ghost-bears-legacy.json](./19189-mechwarrior-2-ghost-bears-legacy.json) |
@@ -5419,6 +5420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milkshake! | 240740 | [240740-milkshake.json](./240740-milkshake.json) |
 | MilkSnake | 61717 | [61717-milksnake.json](./61717-milksnake.json) |
 | MilkSnake: Torus Edition | 99573 | [99573-milksnake-torus-edition.json](./99573-milksnake-torus-edition.json) |
+| MilkTea Time | 373150 | [373150-milktea-time.json](./373150-milktea-time.json) |
 | Milky Bear Rescue Rocket | 221971 | [221971-milky-bear-rescue-rocket.json](./221971-milky-bear-rescue-rocket.json) |
 | Milky Bear: Lunch Frenzy | 250296 | [250296-milky-bear-lunch-frenzy.json](./250296-milky-bear-lunch-frenzy.json) |
 | Milky Quest II | 232654 | [232654-milky-quest-ii.json](./232654-milky-quest-ii.json) |
