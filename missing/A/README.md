@@ -1546,6 +1546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aery: Surreal World | 411807 | [411807-aery-surreal-world.json](./411807-aery-surreal-world.json) |
 | Aery: The King's Messenger | 393040 | [393040-aery-the-kings-messenger.json](./393040-aery-the-kings-messenger.json) |
 | Aery: Viking Saga | 364086 | [364086-aery-viking-saga.json](./364086-aery-viking-saga.json) |
+| Aery: Winter Wonderland | 378997 | [378997-aery-winter-wonderland.json](./378997-aery-winter-wonderland.json) |
 | Aeschylus: Death | 379564 | [379564-aeschylus-death.json](./379564-aeschylus-death.json) |
 | Aesculap OrthoPilot Elite VR Palpation | 57031 | [57031-aesculap-orthopilot-elite-vr-palpation.json](./57031-aesculap-orthopilot-elite-vr-palpation.json) |
 | Aesos | 379565 | [379565-aesos.json](./379565-aesos.json) |
@@ -5441,6 +5442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Ice Climber | 68333 | [68333-arcade-archives-ice-climber.json](./68333-arcade-archives-ice-climber.json) |
 | Arcade Archives: Ikki | 99567 | [99567-arcade-archives-ikki.json](./99567-arcade-archives-ikki.json) |
 | Arcade Archives: Image Fight | 119087 | [119087-arcade-archives-image-fight.json](./119087-arcade-archives-image-fight.json) |
+| Arcade Archives: Karate Blazers | 378998 | [378998-arcade-archives-karate-blazers.json](./378998-arcade-archives-karate-blazers.json) |
 | Arcade Archives: Kid's Horehore Daisakusen | 99544 | [99544-arcade-archives-kids-horehore-daisakusen.json](./99544-arcade-archives-kids-horehore-daisakusen.json) |
 | Arcade Archives: King & Balloon | 257326 | [257326-arcade-archives-king-and-balloon.json](./257326-arcade-archives-king-and-balloon.json) |
 | Arcade Archives: Knuckle Heads | 314877 | [314877-arcade-archives-knuckle-heads.json](./314877-arcade-archives-knuckle-heads.json) |
