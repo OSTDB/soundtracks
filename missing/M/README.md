@@ -5579,6 +5579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine Blast | 96758 | [96758-mine-blast.json](./96758-mine-blast.json) |
 | Mine Bombers | 14449 | [14449-mine-bombers.json](./14449-mine-bombers.json) |
 | Mine Boss Simulator | 212892 | [212892-mine-boss-simulator.json](./212892-mine-boss-simulator.json) |
+| Mine Breaker Simulator 2026 | 386372 | [386372-mine-breaker-simulator-2026.json](./386372-mine-breaker-simulator-2026.json) |
 | Mine Click | 358288 | [358288-mine-click.json](./358288-mine-click.json) |
 | Mine Crazy: The Korean Grinder | 158678 | [158678-mine-crazy-the-korean-grinder.json](./158678-mine-crazy-the-korean-grinder.json) |
 | Mine Defense | 412313 | [412313-mine-defense.json](./412313-mine-defense.json) |
@@ -5841,6 +5842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Golf Master | 67656 | [67656-mini-golf-master.json](./67656-mini-golf-master.json) |
 | Mini Golf Master 2 | 67650 | [67650-mini-golf-master-2.json](./67650-mini-golf-master-2.json) |
 | Mini Golf MatchUp | 99578 | [99578-mini-golf-matchup.json](./99578-mini-golf-matchup.json) |
+| Mini Golf Quest | 386373 | [386373-mini-golf-quest.json](./386373-mini-golf-quest.json) |
 | Mini Golf Resort DS | 26588 | [26588-mini-golf-resort-ds.json](./26588-mini-golf-resort-ds.json) |
 | Mini Golf RPG | 188400 | [188400-mini-golf-rpg.json](./188400-mini-golf-rpg.json) |
 | Mini Golf Simulator | 407552 | [407552-mini-golf-simulator.json](./407552-mini-golf-simulator.json) |
