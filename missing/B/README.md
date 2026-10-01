@@ -3008,6 +3008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben's Zombie Apocalypse | 411826 | [411826-bens-zombie-apocalypse.json](./411826-bens-zombie-apocalypse.json) |
 | Běncǎo Shàn Shí Lù | 373696 | [373696-bencao-shan-shi-lu.json](./373696-bencao-shan-shi-lu.json) |
 | Benchmark Your Skills | 326252 | [326252-benchmark-your-skills.json](./326252-benchmark-your-skills.json) |
+| Bend-jo | 362934 | [362934-bend-jo.json](./362934-bend-jo.json) |
 | Bender 2: Bend Harder | 319163 | [319163-bender-2-bend-harder.json](./319163-bender-2-bend-harder.json) |
 | Bendy and the Dark Revival | 120163 | [120163-bendy-and-the-dark-revival.json](./120163-bendy-and-the-dark-revival.json) |
 | Bendy and the Ink Machine | 28311 | [28311-bendy-and-the-ink-machine.json](./28311-bendy-and-the-ink-machine.json) |
@@ -4781,6 +4782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind: Summer Sunset | 324425 | [324425-blind-summer-sunset.json](./324425-blind-summer-sunset.json) |
 | BlindBlade II | 133374 | [133374-blindblade-ii.json](./133374-blindblade-ii.json) |
 | BlinDead | 289298 | [289298-blindead.json](./289298-blindead.json) |
+| Blindernoth | 362995 | [362995-blindernoth.json](./362995-blindernoth.json) |
 | Blindfire | 320139 | [320139-blindfire.json](./320139-blindfire.json) |
 | Blindfold | 356150 | [356150-blindfold.json](./356150-blindfold.json) |
 | Blindfold: Hide and Seek | 413172 | [413172-blindfold-hide-and-seek.json](./413172-blindfold-hide-and-seek.json) |
