@@ -4282,6 +4282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Pop Mahjong: JangJang Shimasho | 130298 | [130298-lovely-pop-mahjong-jangjang-shimasho.json](./130298-lovely-pop-mahjong-jangjang-shimasho.json) |
 | Lovely Quest | 62445 | [62445-lovely-quest.json](./62445-lovely-quest.json) |
 | Lovely Quest: Unlimited | 147302 | [147302-lovely-quest-unlimited.json](./147302-lovely-quest-unlimited.json) |
+| Lovely Spot the Difference | 370813 | [370813-lovely-spot-the-difference.json](./370813-lovely-spot-the-difference.json) |
 | Lovely Spot the Difference Fantasy Edition | 379002 | [379002-lovely-spot-the-difference-fantasy-edition.json](./379002-lovely-spot-the-difference-fantasy-edition.json) |
 | Lovely Sweet Dream | 172766 | [172766-lovely-sweet-dream.json](./172766-lovely-sweet-dream.json) |
 | Lovely Tesserae | 382311 | [382311-lovely-tesserae.json](./382311-lovely-tesserae.json) |
