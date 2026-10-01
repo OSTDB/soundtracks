@@ -3076,6 +3076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berserk World | 379453 | [379453-berserk-world.json](./379453-berserk-world.json) |
 | Berserker | 144185 | [144185-berserker.json](./144185-berserker.json) |
 | Berserker 2: The Saga of Hilde | 390633 | [390633-berserker-2-the-saga-of-hilde.json](./390633-berserker-2-the-saga-of-hilde.json) |
+| Berserker Girl | 377202 | [377202-berserker-girl.json](./377202-berserker-girl.json) |
 | Berserker: A Viking Board Game | 213203 | [213203-berserker-a-viking-board-game.json](./213203-berserker-a-viking-board-game.json) |
 | Berserker's Descent | 145433 | [145433-berserkers-descent.json](./145433-berserkers-descent.json) |
 | Berserker's Domain | 350024 | [350024-berserkers-domain.json](./350024-berserkers-domain.json) |
@@ -4555,6 +4556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaster Bunny + | 135014 | [135014-blaster-bunny.json](./135014-blaster-bunny.json) |
 | Blaster Cop | 68759 | [68759-blaster-cop.json](./68759-blaster-cop.json) |
 | Blaster Lilo | 113868 | [113868-blaster-lilo.json](./113868-blaster-lilo.json) |
+| Blaster Master SNES Port | 377231 | [377231-blaster-master-snes-port.json](./377231-blaster-master-snes-port.json) |
 | Blaster Master Zero | 27438 | [27438-blaster-master-zero.json](./27438-blaster-master-zero.json) |
 | Blaster Master Zero 2: Kanna Raising Simulator | 168165 | [168165-blaster-master-zero-2-kanna-raising-simulator.json](./168165-blaster-master-zero-2-kanna-raising-simulator.json) |
 | Blaster Master Zero II | 116416 | [116416-blaster-master-zero-ii.json](./116416-blaster-master-zero-ii.json) |
@@ -7454,6 +7456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Voyage | 405471 | [405471-broken-voyage.json](./405471-broken-voyage.json) |
 | Broken War | 309136 | [309136-broken-war.json](./309136-broken-war.json) |
 | BrokenEarth | 62973 | [62973-brokenearth.json](./62973-brokenearth.json) |
+| BrokenLore: Ascend | 377235 | [377235-brokenlore-ascend.json](./377235-brokenlore-ascend.json) |
 | BrokenLore: Don't Lie | 370708 | [370708-brokenlore-dont-lie.json](./370708-brokenlore-dont-lie.json) |
 | Bromeliad | 158053 | [158053-bromeliad.json](./158053-bromeliad.json) |
 | BROMS: Battle Royale Management Simulator | 410877 | [410877-broms-battle-royale-management-simulator.json](./410877-broms-battle-royale-management-simulator.json) |
@@ -8318,6 +8321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burrito Bison: Launcha Libre | 80360 | [80360-burrito-bison-launcha-libre.json](./80360-burrito-bison-launcha-libre.json) |
 | Burrito Galaxy 65 | 61875 | [61875-burrito-galaxy-65.json](./61875-burrito-galaxy-65.json) |
 | Burrow | 158717 | [158717-burrow.json](./158717-burrow.json) |
+| Burrows | 377195 | [377195-burrows.json](./377195-burrows.json) |
 | Burrows | 380045 | [380045-burrows.json](./380045-burrows.json) |
 | Burst | 380044 | [380044-burst.json](./380044-burst.json) |
 | Burst Error: Eve the First | 59434 | [59434-burst-error-eve-the-first.json](./59434-burst-error-eve-the-first.json) |
