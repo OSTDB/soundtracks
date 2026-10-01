@@ -1447,6 +1447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weaves of Fate | 53306 | [53306-weaves-of-fate.json](./53306-weaves-of-fate.json) |
 | Web City 1 | 82834 | [82834-web-city-1.json](./82834-web-city-1.json) |
 | Web Crawlies | 236523 | [236523-web-crawlies.json](./236523-web-crawlies.json) |
+| Web Digger | 359468 | [359468-web-digger.json](./359468-web-digger.json) |
 | Web Dimension | 172034 | [172034-web-dimension.json](./172034-web-dimension.json) |
 | Web Earth Online | 392155 | [392155-web-earth-online.json](./392155-web-earth-online.json) |
 | Web or Dead | 236272 | [236272-web-or-dead.json](./236272-web-or-dead.json) |
@@ -2222,6 +2223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Night | 8921 | [8921-white-night.json](./8921-white-night.json) |
 | White Noise 2 | 28112 | [28112-white-noise-2.json](./28112-white-noise-2.json) |
 | White Noise: Ghost Signal | 374145 | [374145-white-noise-ghost-signal.json](./374145-white-noise-ghost-signal.json) |
+| White Noise! | 359546 | [359546-white-noise.json](./359546-white-noise.json) |
 | White Nothing | 103634 | [103634-white-nothing.json](./103634-white-nothing.json) |
 | White Pearl | 76663 | [76663-white-pearl.json](./76663-white-pearl.json) |
 | White Rabbit | 161356 | [161356-white-rabbit.json](./161356-white-rabbit.json) |
@@ -2485,6 +2487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Tower | 373740 | [373740-wild-tower.json](./373740-wild-tower.json) |
 | Wild Turkey Hunt | 95453 | [95453-wild-turkey-hunt.json](./95453-wild-turkey-hunt.json) |
 | Wild Warfare | 17598 | [17598-wild-warfare.json](./17598-wild-warfare.json) |
+| Wild Web | 359553 | [359553-wild-web.json](./359553-wild-web.json) |
 | Wild West | 215648 | [215648-wild-west.json](./215648-wild-west.json) |
 | Wild West C.O.W.-Boys of Moo Mesa | 39383 | [39383-wild-west-c-o-w-boys-of-moo-mesa.json](./39383-wild-west-c-o-w-boys-of-moo-mesa.json) |
 | Wild West Chase | 415991 | [415991-wild-west-chase.json](./415991-wild-west-chase.json) |
@@ -2658,6 +2661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Win the Game: Do It! | 96648 | [96648-win-the-game-do-it.json](./96648-win-the-game-do-it.json) |
 | Win the White House | 207837 | [207837-win-the-white-house.json](./207837-win-the-white-house.json) |
 | Win With Steadily | 116297 | [116297-win-with-steadily.json](./116297-win-with-steadily.json) |
+| Win, Lose or Draw | 359461 | [359461-win-lose-or-draw.json](./359461-win-lose-or-draw.json) |
 | Win, Lose or Draw | 48093 | [48093-win-lose-or-draw.json](./48093-win-lose-or-draw.json) |
 | Wincars Racer | 33292 | [33292-wincars-racer.json](./33292-wincars-racer.json) |
 | Winch it Out | 300387 | [300387-winch-it-out.json](./300387-winch-it-out.json) |
