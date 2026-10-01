@@ -2269,6 +2269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Instruments of Power | 395696 | [395696-instruments-of-power.json](./395696-instruments-of-power.json) |
 | Insufficient Adjectives | 134621 | [134621-insufficient-adjectives.json](./134621-insufficient-adjectives.json) |
 | Insula: Bounty Royale | 149959 | [149959-insula-bounty-royale.json](./149959-insula-bounty-royale.json) |
+| Insularis Draco | 356239 | [356239-insularis-draco.json](./356239-insularis-draco.json) |
 | Insulted | 229676 | [229676-insulted.json](./229676-insulted.json) |
 | Insurgence | 183349 | [183349-insurgence.json](./183349-insurgence.json) |
 | Insurgence: Chains of Renegade - Remastered | 240768 | [240768-insurgence-chains-of-renegade-remastered.json](./240768-insurgence-chains-of-renegade-remastered.json) |
