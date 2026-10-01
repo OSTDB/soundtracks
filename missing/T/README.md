@@ -1659,6 +1659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TEEFAX: Cold Case | 289442 | [289442-teefax-cold-case.json](./289442-teefax-cold-case.json) |
 | TeeJay RPG | 55995 | [55995-teejay-rpg.json](./55995-teejay-rpg.json) |
 | TeeJay RPG 2: Blame All | 55998 | [55998-teejay-rpg-2-blame-all.json](./55998-teejay-rpg-2-blame-all.json) |
+| Teeko | 347844 | [347844-teeko.json](./347844-teeko.json) |
 | Teel Me You! | 181361 | [181361-teel-me-you.json](./181361-teel-me-you.json) |
 | Teemo Jump! | 150052 | [150052-teemo-jump.json](./150052-teemo-jump.json) |
 | Teen Patti Octro | 169878 | [169878-teen-patti-octro.json](./169878-teen-patti-octro.json) |
@@ -1727,6 +1728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teikoku Kareido -Kakumei no Rondo- | 136434 | [136434-teikoku-kareido-kakumei-no-rondo.json](./136434-teikoku-kareido-kakumei-no-rondo.json) |
 | Teikoku Sensenki | 204483 | [204483-teikoku-sensenki.json](./204483-teikoku-sensenki.json) |
 | Teikyuu wo Koete | 350576 | [350576-teikyuu-wo-koete.json](./350576-teikyuu-wo-koete.json) |
+| Teios' Journey | 347849 | [347849-teios-journey.json](./347849-teios-journey.json) |
 | Teisatsu | 196248 | [196248-teisatsu.json](./196248-teisatsu.json) |
 | Teisoukannen Zero: Yariman Kazoku to Hame Kurui Natsuyasumi | 82956 | [82956-teisoukannen-zero-yariman-kazoku-to-hame-kurui-natsuyasumi.json](./82956-teisoukannen-zero-yariman-kazoku-to-hame-kurui-natsuyasumi.json) |
 | Tek-Kids Flash-Ops: Mission - Sky Fortress | 69940 | [69940-tek-kids-flash-ops-mission-sky-fortress.json](./69940-tek-kids-flash-ops-mission-sky-fortress.json) |
@@ -5483,6 +5485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jigsaw Puzzle Room | 30168 | [30168-the-jigsaw-puzzle-room.json](./30168-the-jigsaw-puzzle-room.json) |
 | The Jingol | 306972 | [306972-the-jingol.json](./306972-the-jingol.json) |
 | The Johnny Papa | 265124 | [265124-the-johnny-papa.json](./265124-the-johnny-papa.json) |
+| The Joker's Game | 347809 | [347809-the-jokers-game.json](./347809-the-jokers-game.json) |
 | The Joker's Wild | 46562 | [46562-the-jokers-wild.json](./46562-the-jokers-wild.json) |
 | The Journal of Ambrose Brant | 401025 | [401025-the-journal-of-ambrose-brant.json](./401025-the-journal-of-ambrose-brant.json) |
 | The Journey | 118946 | [118946-the-journey.json](./118946-the-journey.json) |
@@ -7497,6 +7500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Repair House | 234542 | [234542-the-repair-house.json](./234542-the-repair-house.json) |
 | The Report: The Eastwind Creature | 319767 | [319767-the-report-the-eastwind-creature.json](./319767-the-report-the-eastwind-creature.json) |
 | The Repossessor | 81338 | [81338-the-repossessor.json](./81338-the-repossessor.json) |
+| The Requiem of Shadows | 347855 | [347855-the-requiem-of-shadows.json](./347855-the-requiem-of-shadows.json) |
 | The Rescue of Lorri in Lorrinitron | 74052 | [74052-the-rescue-of-lorri-in-lorrinitron.json](./74052-the-rescue-of-lorri-in-lorrinitron.json) |
 | The Rescue Squad | 164916 | [164916-the-rescue-squad.json](./164916-the-rescue-squad.json) |
 | The Research Facility No.507 | 90576 | [90576-the-research-facility-no-507.json](./90576-the-research-facility-no-507.json) |
@@ -9469,6 +9473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Therapy Simulator 2023 | 248078 | [248078-therapy-simulator-2023.json](./248078-therapy-simulator-2023.json) |
 | Therapy with Dr. Albert Krueger | 148411 | [148411-therapy-with-dr-albert-krueger.json](./148411-therapy-with-dr-albert-krueger.json) |
 | There a no Armadillos in this game | 129212 | [129212-there-a-no-armadillos-in-this-game.json](./129212-there-a-no-armadillos-in-this-game.json) |
+| There Are No Ghosts at the Grand | 347841 | [347841-there-are-no-ghosts-at-the-grand.json](./347841-there-are-no-ghosts-at-the-grand.json) |
 | There Are People In Your Walls | 373644 | [373644-there-are-people-in-your-walls.json](./373644-there-are-people-in-your-walls.json) |
 | There Aren't Really Words... | 135852 | [135852-there-arent-really-words.json](./135852-there-arent-really-words.json) |
 | There be Treasure! | 176258 | [176258-there-be-treasure.json](./176258-there-be-treasure.json) |
@@ -13275,6 +13280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Town Story | 106967 | [106967-town-story.json](./106967-town-story.json) |
 | Town Village: Farm Build Trade | 88736 | [88736-town-village-farm-build-trade.json](./88736-town-village-farm-build-trade.json) |
 | Town With No Name | 69874 | [69874-town-with-no-name.json](./69874-town-with-no-name.json) |
+| Townbox | 347829 | [347829-townbox.json](./347829-townbox.json) |
 | TownCraft | 17319 | [17319-towncraft.json](./17319-towncraft.json) |
 | Towne of Gringle | 319178 | [319178-towne-of-gringle.json](./319178-towne-of-gringle.json) |
 | Townframe | 199128 | [199128-townframe.json](./199128-townframe.json) |
