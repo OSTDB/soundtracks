@@ -570,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candlelight | 33296 | [33296-candlelight.json](./33296-candlelight.json) |
 | Candleman:find yourself | 130755 | [130755-candleman-find-yourself.json](./130755-candleman-find-yourself.json) |
 | Candles | 178946 | [178946-candles.json](./178946-candles.json) |
+| Candles Aren't Eternal | 386385 | [386385-candles-arent-eternal.json](./386385-candles-arent-eternal.json) |
 | Candles of the Damned | 271491 | [271491-candles-of-the-damned.json](./271491-candles-of-the-damned.json) |
 | Candy | 104011 | [104011-candy.json](./104011-candy.json) |
 | Candy Adventure HD | 232046 | [232046-candy-adventure-hd.json](./232046-candy-adventure-hd.json) |
@@ -3913,6 +3914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chucky: The Road To Heaven | 235449 | [235449-chucky-the-road-to-heaven.json](./235449-chucky-the-road-to-heaven.json) |
 | Chuggington: Babysitter Brewster | 230548 | [230548-chuggington-babysitter-brewster.json](./230548-chuggington-babysitter-brewster.json) |
 | Chuhou Joutai | 133460 | [133460-chuhou-joutai.json](./133460-chuhou-joutai.json) |
+| Chuka Taisen | 386350 | [386350-chuka-taisen.json](./386350-chuka-taisen.json) |
 | Chukcha v Bolshom Gorode | 403576 | [403576-chukcha-v-bolshom-gorode.json](./403576-chukcha-v-bolshom-gorode.json) |
 | Chukgwi | 369102 | [369102-chukgwi.json](./369102-chukgwi.json) |
 | Chulip | 20657 | [20657-chulip.json](./20657-chulip.json) |
@@ -4831,6 +4833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloud Grove | 59934 | [59934-cloud-grove.json](./59934-cloud-grove.json) |
 | Cloud Heart | 211822 | [211822-cloud-heart.json](./211822-cloud-heart.json) |
 | Cloud House | 236497 | [236497-cloud-house.json](./236497-cloud-house.json) |
+| Cloud Master | 386335 | [386335-cloud-master.json](./386335-cloud-master.json) |
 | Cloud of Souls | 25766 | [25766-cloud-of-souls.json](./25766-cloud-of-souls.json) |
 | Cloud Piercer | 322767 | [322767-cloud-piercer.json](./322767-cloud-piercer.json) |
 | Cloud Pirates | 27687 | [27687-cloud-pirates.json](./27687-cloud-pirates.json) |
@@ -4939,6 +4942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClueFinders Search and Solve Adventures: The Phantom Amusement Park | 186038 | [186038-cluefinders-search-and-solve-adventures-the-phantom-amusement-park.json](./186038-cluefinders-search-and-solve-adventures-the-phantom-amusement-park.json) |
 | Cluefinders: Math Adventures - Mystery of the Himalayas | 66092 | [66092-cluefinders-math-adventures-mystery-of-the-himalayas.json](./66092-cluefinders-math-adventures-mystery-of-the-himalayas.json) |
 | Clueless: The CD-ROM | 69852 | [69852-clueless-the-cd-rom.json](./69852-clueless-the-cd-rom.json) |
+| Cluju | 386327 | [386327-cluju.json](./386327-cluju.json) |
 | Clumsy Cat | 259242 | [259242-clumsy-cat.json](./259242-clumsy-cat.json) |
 | Clumsy Climber | 105782 | [105782-clumsy-climber.json](./105782-clumsy-climber.json) |
 | Clumsy Fighting | 104613 | [104613-clumsy-fighting.json](./104613-clumsy-fighting.json) |
@@ -6253,6 +6257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conspiracy Crew | 312152 | [312152-conspiracy-crew.json](./312152-conspiracy-crew.json) |
 | Conspiracy Girls | 158534 | [158534-conspiracy-girls.json](./158534-conspiracy-girls.json) |
 | Conspiracy! | 151638 | [151638-conspiracy.json](./151638-conspiracy.json) |
+| Conspiration: Le défi des derniers rois | 386328 | [386328-conspiration-le-defi-des-derniers-rois.json](./386328-conspiration-le-defi-des-derniers-rois.json) |
 | Constance | 258950 | [258950-constance.json](./258950-constance.json) |
 | ConsTance | 323524 | [323524-constance.json](./323524-constance.json) |
 | Constancia | 177326 | [177326-constancia.json](./177326-constancia.json) |
