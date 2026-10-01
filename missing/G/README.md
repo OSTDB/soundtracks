@@ -488,6 +488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gallerie | 392169 | [392169-gallerie.json](./392169-gallerie.json) |
 | Gallery Fake | 197660 | [197660-gallery-fake.json](./197660-gallery-fake.json) |
 | Gallery Hero | 110301 | [110301-gallery-hero.json](./110301-gallery-hero.json) |
+| Gallery of Shadows: Lycans Returns | 376055 | [376055-gallery-of-shadows-lycans-returns.json](./376055-gallery-of-shadows-lycans-returns.json) |
 | Gallery One | 184002 | [184002-gallery-one.json](./184002-gallery-one.json) |
 | Gallery Theft | 348312 | [348312-gallery-theft.json](./348312-gallery-theft.json) |
 | Gallery: Coloring book & decor | 322558 | [322558-gallery-coloring-book-and-decor.json](./322558-gallery-coloring-book-and-decor.json) |
@@ -728,6 +729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Games Galaxy 2 | 66946 | [66946-games-galaxy-2.json](./66946-games-galaxy-2.json) |
 | Games Interactive 2 | 96506 | [96506-games-interactive-2.json](./96506-games-interactive-2.json) |
 | Games of Rome | 391815 | [391815-games-of-rome.json](./391815-games-of-rome.json) |
+| Games8x8 | 376022 | [376022-games8x8.json](./376022-games8x8.json) |
 | Gametrak: Dark Wind | 72072 | [72072-gametrak-dark-wind.json](./72072-gametrak-dark-wind.json) |
 | Gaminator | 360982 | [360982-gaminator.json](./360982-gaminator.json) |
 | Gaming Burnout Treatment Center | 408063 | [408063-gaming-burnout-treatment-center.json](./408063-gaming-burnout-treatment-center.json) |
@@ -2628,6 +2630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goban | 95567 | [95567-goban.json](./95567-goban.json) |
 | GoBangTetris | 192437 | [192437-gobangtetris.json](./192437-gobangtetris.json) |
 | Gobble | 394530 | [394530-gobble.json](./394530-gobble.json) |
+| Gobble Fantasy 2003 | 376039 | [376039-gobble-fantasy-2003.json](./376039-gobble-fantasy-2003.json) |
 | Gobblemen | 152346 | [152346-gobblemen.json](./152346-gobblemen.json) |
 | Gobbo Goes Adventures | 251834 | [251834-gobbo-goes-adventures.json](./251834-gobbo-goes-adventures.json) |
 | Gobbo's Gambit | 253952 | [253952-gobbos-gambit.json](./253952-gobbos-gambit.json) |
@@ -3004,6 +3007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Rainbow Slot Simulator | 88734 | [88734-golden-rainbow-slot-simulator.json](./88734-golden-rainbow-slot-simulator.json) |
 | Golden Record Retriever | 234310 | [234310-golden-record-retriever.json](./234310-golden-record-retriever.json) |
 | Golden Retriever | 168646 | [168646-golden-retriever.json](./168646-golden-retriever.json) |
+| Golden Retriever Simple Life | 376020 | [376020-golden-retriever-simple-life.json](./376020-golden-retriever-simple-life.json) |
 | Golden Road | 295853 | [295853-golden-road.json](./295853-golden-road.json) |
 | Golden Royal Hold'em | 67974 | [67974-golden-royal-holdem.json](./67974-golden-royal-holdem.json) |
 | Golden Sails | 329144 | [329144-golden-sails.json](./329144-golden-sails.json) |
@@ -3235,6 +3239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodbye | 178455 | [178455-goodbye.json](./178455-goodbye.json) |
 | Goodbye Cendrillon | 285991 | [285991-goodbye-cendrillon.json](./285991-goodbye-cendrillon.json) |
 | Goodbye Deponia: Premium Edition | 54069 | [54069-goodbye-deponia-premium-edition.json](./54069-goodbye-deponia-premium-edition.json) |
+| Goodbye World | 376046 | [376046-goodbye-world.json](./376046-goodbye-world.json) |
 | Goodbye, Doggy | 135905 | [135905-goodbye-doggy.json](./135905-goodbye-doggy.json) |
 | Goodbye, New World | 282642 | [282642-goodbye-new-world.json](./282642-goodbye-new-world.json) |
 | Goodbye.Monster | 323716 | [323716-goodbye-monster.json](./323716-goodbye-monster.json) |
@@ -4549,6 +4554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Growing Sakura | 185517 | [185517-growing-sakura.json](./185517-growing-sakura.json) |
 | Growing Things Up | 351731 | [351731-growing-things-up.json](./351731-growing-things-up.json) |
 | Growing Up | 155796 | [155796-growing-up.json](./155796-growing-up.json) |
+| Growing Up | 376045 | [376045-growing-up.json](./376045-growing-up.json) |
 | Growing Wild | 356751 | [356751-growing-wild.json](./356751-growing-wild.json) |
 | Growlanser Generations | 21311 | [21311-growlanser-generations.json](./21311-growlanser-generations.json) |
 | Growlanser IV: Overreloaded | 52222 | [52222-growlanser-iv-overreloaded.json](./52222-growlanser-iv-overreloaded.json) |
@@ -5210,6 +5216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guts'n | 40183 | [40183-gutsn.json](./40183-gutsn.json) |
 | Gutsy Grid | 402438 | [402438-gutsy-grid.json](./402438-gutsy-grid.json) |
 | Gutted: Infested Crypts | 405682 | [405682-gutted-infested-crypts.json](./405682-gutted-infested-crypts.json) |
+| Gutter Night | 376028 | [376028-gutter-night.json](./376028-gutter-night.json) |
 | Gutter: The Perished | 296902 | [296902-gutter-the-perished.json](./296902-gutter-the-perished.json) |
 | Gutter: The Reject | 257691 | [257691-gutter-the-reject.json](./257691-gutter-the-reject.json) |
 | Gutterball 2 | 344018 | [344018-gutterball-2.json](./344018-gutterball-2.json) |
