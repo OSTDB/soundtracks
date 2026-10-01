@@ -1937,6 +1937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch Flex: Quest | 347722 | [347722-catch-flex-quest.json](./347722-catch-flex-quest.json) |
 | Catch Hina | 185590 | [185590-catch-hina.json](./185590-catch-hina.json) |
 | Catch Idle: Dimension Warp Story | 208038 | [208038-catch-idle-dimension-warp-story.json](./208038-catch-idle-dimension-warp-story.json) |
+| Catch It | 380611 | [380611-catch-it.json](./380611-catch-it.json) |
 | Catch Me If You Can | 143716 | [143716-catch-me-if-you-can.json](./143716-catch-me-if-you-can.json) |
 | Catch Me If You Can | 289386 | [289386-catch-me-if-you-can.json](./289386-catch-me-if-you-can.json) |
 | Catch Me If You Can | 351088 | [351088-catch-me-if-you-can.json](./351088-catch-me-if-you-can.json) |
@@ -8235,6 +8236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crosshollow Foundations | 182508 | [182508-crosshollow-foundations.json](./182508-crosshollow-foundations.json) |
 | Crossing Acheron | 354427 | [354427-crossing-acheron.json](./354427-crossing-acheron.json) |
 | Crossing Brothel: Tales of an Interspecies Bordello | 82839 | [82839-crossing-brothel-tales-of-an-interspecies-bordello.json](./82839-crossing-brothel-tales-of-an-interspecies-bordello.json) |
+| Crossing Chains | 380635 | [380635-crossing-chains.json](./380635-crossing-chains.json) |
 | Crossing Damaged Bridge | 250944 | [250944-crossing-damaged-bridge.json](./250944-crossing-damaged-bridge.json) |
 | Crossing Dungeon | 149930 | [149930-crossing-dungeon.json](./149930-crossing-dungeon.json) |
 | Crossing Frontier: Fate Foretold | 275096 | [275096-crossing-frontier-fate-foretold.json](./275096-crossing-frontier-fate-foretold.json) |
@@ -9160,6 +9162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CursedSword | 235195 | [235195-cursedsword.json](./235195-cursedsword.json) |
 | Curses 'N Chaos | 16470 | [16470-curses-n-chaos.json](./16470-curses-n-chaos.json) |
 | Cursewarden | 348233 | [348233-cursewarden.json](./348233-cursewarden.json) |
+| Cursflip | 380630 | [380630-cursflip.json](./380630-cursflip.json) |
 | Cursor Blast | 348439 | [348439-cursor-blast.json](./348439-cursor-blast.json) |
 | Cursor Car | 182928 | [182928-cursor-car.json](./182928-cursor-car.json) |
 | Cursor Challenge | 33120 | [33120-cursor-challenge.json](./33120-cursor-challenge.json) |
@@ -9442,6 +9445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberDrive 2077 | 395806 | [395806-cyberdrive-2077.json](./395806-cyberdrive-2077.json) |
 | Cyberdrome | 113511 | [113511-cyberdrome.json](./113511-cyberdrome.json) |
 | Cyberdyne Warrior | 47234 | [47234-cyberdyne-warrior.json](./47234-cyberdyne-warrior.json) |
+| Cyberemo 2007 | 380620 | [380620-cyberemo-2007.json](./380620-cyberemo-2007.json) |
 | Cyberference | 244490 | [244490-cyberference.json](./244490-cyberference.json) |
 | Cyberflow | 61679 | [61679-cyberflow.json](./61679-cyberflow.json) |
 | Cybergeist | 156537 | [156537-cybergeist.json](./156537-cybergeist.json) |
