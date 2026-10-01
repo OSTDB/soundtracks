@@ -1031,6 +1031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maid Envy | 74760 | [74760-maid-envy.json](./74760-maid-envy.json) |
 | Maid for Loving You | 227872 | [227872-maid-for-loving-you.json](./227872-maid-for-loving-you.json) |
 | Maid for Loving You | 255115 | [255115-maid-for-loving-you.json](./255115-maid-for-loving-you.json) |
+| Maid For My Master | 370285 | [370285-maid-for-my-master.json](./370285-maid-for-my-master.json) |
 | Maid Harem With Futa | 384720 | [384720-maid-harem-with-futa.json](./384720-maid-harem-with-futa.json) |
 | Maid Hunter | 235462 | [235462-maid-hunter.json](./235462-maid-hunter.json) |
 | Maid in Witch Life!: Yakata de Hajimaru H na Miryou Seikatsu | 194633 | [194633-maid-in-witch-life-yakata-de-hajimaru-h-na-miryou-seikatsu.json](./194633-maid-in-witch-life-yakata-de-hajimaru-h-na-miryou-seikatsu.json) |
@@ -7424,6 +7425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Ops 2 | 341333 | [341333-monster-ops-2.json](./341333-monster-ops-2.json) |
 | Monster Ops 3 | 341334 | [341334-monster-ops-3.json](./341334-monster-ops-3.json) |
 | Monster Ops 4 | 341335 | [341335-monster-ops-4.json](./341335-monster-ops-4.json) |
+| Monster Ops 5 | 370276 | [370276-monster-ops-5.json](./370276-monster-ops-5.json) |
 | Monster Pack Volume 1 | 78937 | [78937-monster-pack-volume-1.json](./78937-monster-pack-volume-1.json) |
 | Monster Pack Volume 2 | 98947 | [98947-monster-pack-volume-2.json](./98947-monster-pack-volume-2.json) |
 | Monster Panic | 289379 | [289379-monster-panic.json](./289379-monster-panic.json) |
