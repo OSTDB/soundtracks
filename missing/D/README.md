@@ -650,6 +650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Colors | 190235 | [190235-dark-colors.json](./190235-dark-colors.json) |
 | Dark Communion | 314283 | [314283-dark-communion.json](./314283-dark-communion.json) |
 | Dark Confrontation Chapter 1 | 337679 | [337679-dark-confrontation-chapter-1.json](./337679-dark-confrontation-chapter-1.json) |
+| Dark Continent | 369150 | [369150-dark-continent.json](./369150-dark-continent.json) |
 | Dark Continent: Mist | 304167 | [304167-dark-continent-mist.json](./304167-dark-continent-mist.json) |
 | Dark Cube | 125906 | [125906-dark-cube.json](./125906-dark-cube.json) |
 | Dark Day Afternoon | 140598 | [140598-dark-day-afternoon.json](./140598-dark-day-afternoon.json) |
@@ -3829,6 +3830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamonds | 119547 | [119547-diamonds.json](./119547-diamonds.json) |
 | Diamonds on the forest | 227831 | [227831-diamonds-on-the-forest.json](./227831-diamonds-on-the-forest.json) |
 | Diǎnchū Gè Sānguó | 413033 | [413033-dianchu-ge-sanguo.json](./413033-dianchu-ge-sanguo.json) |
+| Diànwán Bǔyú | 369189 | [369189-dianwan-buyu.json](./369189-dianwan-buyu.json) |
 | Diapause | 374597 | [374597-diapause.json](./374597-diapause.json) |
 | Diaper Dash | 16069 | [16069-diaper-dash.json](./16069-diaper-dash.json) |
 | Diaperquest 2055 | 112464 | [112464-diaperquest-2055.json](./112464-diaperquest-2055.json) |
