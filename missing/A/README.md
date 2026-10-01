@@ -2916,6 +2916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien X | 134562 | [134562-alien-x.json](./134562-alien-x.json) |
 | Alien X | 171579 | [171579-alien-x.json](./171579-alien-x.json) |
 | Alien Xenoblaster | 209133 | [209133-alien-xenoblaster.json](./209133-alien-xenoblaster.json) |
+| Alien Xenocide | 356796 | [356796-alien-xenocide.json](./356796-alien-xenocide.json) |
 | Alien: Isolation - Corporate Lockdown | 15459 | [15459-alien-isolation-corporate-lockdown.json](./15459-alien-isolation-corporate-lockdown.json) |
 | Alien: Isolation - Lost Contact | 15555 | [15555-alien-isolation-lost-contact.json](./15555-alien-isolation-lost-contact.json) |
 | Alien: Isolation - Safe Haven | 15552 | [15552-alien-isolation-safe-haven.json](./15552-alien-isolation-safe-haven.json) |
@@ -6035,6 +6036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argonauts Agency: Chair of Hephaestus | 188084 | [188084-argonauts-agency-chair-of-hephaestus.json](./188084-argonauts-agency-chair-of-hephaestus.json) |
 | Argonauts Agency: Chair of Hephaestus - Collector's Edition | 357335 | [357335-argonauts-agency-chair-of-hephaestus-collectors-edition.json](./357335-argonauts-agency-chair-of-hephaestus-collectors-edition.json) |
 | Argonauts Agency: Glove of Midas - Collector's Edition | 357336 | [357336-argonauts-agency-glove-of-midas-collectors-edition.json](./357336-argonauts-agency-glove-of-midas-collectors-edition.json) |
+| Argonauts Agency: God of the Storm - Collector's Edition | 356771 | [356771-argonauts-agency-god-of-the-storm-collectors-edition.json](./356771-argonauts-agency-god-of-the-storm-collectors-edition.json) |
 | Argonauts Agency: Golden Fleece | 115133 | [115133-argonauts-agency-golden-fleece.json](./115133-argonauts-agency-golden-fleece.json) |
 | Argonauts Agency: Missing Daughter | 187206 | [187206-argonauts-agency-missing-daughter.json](./187206-argonauts-agency-missing-daughter.json) |
 | Argonauts Agency: Missing Daughter - Collector's Edition | 357419 | [357419-argonauts-agency-missing-daughter-collectors-edition.json](./357419-argonauts-agency-missing-daughter-collectors-edition.json) |
@@ -7451,6 +7453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Yumia: "Knight's Long-Distance Swimwear" Costume for Viktor | 333757 | [333757-atelier-yumia-knights-long-distance-swimwear-costume-for-viktor.json](./333757-atelier-yumia-knights-long-distance-swimwear-costume-for-viktor.json) |
 | Atelier Yumia: "Super Cute! Beach Memories" Costume for Isla | 333758 | [333758-atelier-yumia-super-cute-beach-memories-costume-for-isla.json](./333758-atelier-yumia-super-cute-beach-memories-costume-for-isla.json) |
 | Atelier Yumia: Aladiss Investigation Preparation Set | 333751 | [333751-atelier-yumia-aladiss-investigation-preparation-set.json](./333751-atelier-yumia-aladiss-investigation-preparation-set.json) |
+| Atelier Yumia: Atelier Yumia and "Tekken" Series Collaboration Pack | 356797 | [356797-atelier-yumia-atelier-yumia-and-tekken-series-collaboration-pack.json](./356797-atelier-yumia-atelier-yumia-and-tekken-series-collaboration-pack.json) |
 | Atelier Yumia: Fantasy Academy Costume Set | 356743 | [356743-atelier-yumia-fantasy-academy-costume-set.json](./356743-atelier-yumia-fantasy-academy-costume-set.json) |
 | Atelier Yumia: Idus Training Grounds | 363021 | [363021-atelier-yumia-idus-training-grounds.json](./363021-atelier-yumia-idus-training-grounds.json) |
 | Atelier Yumia: The Alchemist of Memories & the Envisioned Land - Atelier Series Legacy BGM Pack | 380624 | [380624-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-atelier-series-legacy-bgm-pack.json](./380624-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-atelier-series-legacy-bgm-pack.json) |
