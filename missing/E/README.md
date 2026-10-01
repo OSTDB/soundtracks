@@ -2825,6 +2825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Labyrinth | 338271 | [338271-eternal-labyrinth.json](./338271-eternal-labyrinth.json) |
 | Eternal Lands | 69208 | [69208-eternal-lands.json](./69208-eternal-lands.json) |
 | Eternal Liiivie: EP1 Liiivie - Isolated From the World | 284348 | [284348-eternal-liiivie-ep1-liiivie-isolated-from-the-world.json](./284348-eternal-liiivie-ep1-liiivie-isolated-from-the-world.json) |
+| Eternal Link | 345085 | [345085-eternal-link.json](./345085-eternal-link.json) |
 | Eternal Love | 164283 | [164283-eternal-love.json](./164283-eternal-love.json) |
 | Eternal Magic: Keeper | 171013 | [171013-eternal-magic-keeper.json](./171013-eternal-magic-keeper.json) |
 | Eternal Man: Jump | 99605 | [99605-eternal-man-jump.json](./99605-eternal-man-jump.json) |
@@ -3576,6 +3577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exmortis | 196724 | [196724-exmortis.json](./196724-exmortis.json) |
 | EXO Encounter 667 | 179188 | [179188-exo-encounter-667.json](./179188-exo-encounter-667.json) |
 | Exo Exit | 18542 | [18542-exo-exit.json](./18542-exo-exit.json) |
+| Exo Helljumper: Descent X | 345074 | [345074-exo-helljumper-descent-x.json](./345074-exo-helljumper-descent-x.json) |
 | Exo Mayhem | 312143 | [312143-exo-mayhem.json](./312143-exo-mayhem.json) |
 | Exo Pexo Dots & Diamond | 226740 | [226740-exo-pexo-dots-and-diamond.json](./226740-exo-pexo-dots-and-diamond.json) |
 | Exo Rally Championship | 252862 | [252862-exo-rally-championship.json](./252862-exo-rally-championship.json) |
