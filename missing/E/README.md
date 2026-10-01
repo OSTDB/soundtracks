@@ -1386,6 +1386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emerge | 342631 | [342631-emerge.json](./342631-emerge.json) |
 | Emerge: Cities of the Apocalypse | 33136 | [33136-emerge-cities-of-the-apocalypse.json](./33136-emerge-cities-of-the-apocalypse.json) |
 | Emergence | 130878 | [130878-emergence.json](./130878-emergence.json) |
+| Emergency | 346073 | [346073-emergency.json](./346073-emergency.json) |
 | Emergency 2 | 112482 | [112482-emergency-2.json](./112482-emergency-2.json) |
 | Emergency 2013 | 2979 | [2979-emergency-2013.json](./2979-emergency-2013.json) |
 | Emergency 2014 | 52960 | [52960-emergency-2014.json](./52960-emergency-2014.json) |
@@ -2908,6 +2909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EthnoGuessr | 340230 | [340230-ethnoguessr.json](./340230-ethnoguessr.json) |
 | Ethos: Divinity's Curse | 201706 | [201706-ethos-divinitys-curse.json](./201706-ethos-divinitys-curse.json) |
 | Eti Yami: Mekanik Istila | 92630 | [92630-eti-yami-mekanik-istila.json](./92630-eti-yami-mekanik-istila.json) |
+| Etiquette Elegance | 346195 | [346195-etiquette-elegance.json](./346195-etiquette-elegance.json) |
 | Eto-cetera In no Maki | 113729 | [113729-eto-cetera-in-no-maki.json](./113729-eto-cetera-in-no-maki.json) |
 | Etre | 270182 | [270182-etre.json](./270182-etre.json) |
 | Etrian Mystery Dungeon | 8607 | [8607-etrian-mystery-dungeon.json](./8607-etrian-mystery-dungeon.json) |
