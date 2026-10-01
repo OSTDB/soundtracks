@@ -1867,6 +1867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Premonition: Director's Cut | 9245 | [9245-deadly-premonition-directors-cut.json](./9245-deadly-premonition-directors-cut.json) |
 | Deadly Premonition: The Director's Cut - Classified Edition | 51538 | [51538-deadly-premonition-the-directors-cut-classified-edition.json](./51538-deadly-premonition-the-directors-cut-classified-edition.json) |
 | Deadly Premonition: The Director's Cut Ultimate Edition | 26925 | [26925-deadly-premonition-the-directors-cut-ultimate-edition.json](./26925-deadly-premonition-the-directors-cut-ultimate-edition.json) |
+| Deadly Project | 386358 | [386358-deadly-project.json](./386358-deadly-project.json) |
 | Deadly Quiet | 342268 | [342268-deadly-quiet.json](./342268-deadly-quiet.json) |
 | Deadly Rehearsal | 326599 | [326599-deadly-rehearsal.json](./326599-deadly-rehearsal.json) |
 | Deadly Rooms of Death | 50147 | [50147-deadly-rooms-of-death.json](./50147-deadly-rooms-of-death.json) |
@@ -3412,6 +3413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destruction Darius 2 | 121432 | [121432-destruction-darius-2.json](./121432-destruction-darius-2.json) |
 | Destruction Derby 64 | 10686 | [10686-destruction-derby-64.json](./10686-destruction-derby-64.json) |
 | Destruction Derby: Arenas | 1171 | [1171-destruction-derby-arenas.json](./1171-destruction-derby-arenas.json) |
+| Destruction Joukan | 386343 | [386343-destruction-joukan.json](./386343-destruction-joukan.json) |
 | Destruction of Planets | 193498 | [193498-destruction-of-planets.json](./193498-destruction-of-planets.json) |
 | Destruction Rocks | 186192 | [186192-destruction-rocks.json](./186192-destruction-rocks.json) |
 | Destruction Simulator | 311455 | [311455-destruction-simulator.json](./311455-destruction-simulator.json) |
@@ -4351,6 +4353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Air Hockey | 397897 | [397897-dinosaur-air-hockey.json](./397897-dinosaur-air-hockey.json) |
 | Dinosaur Assassin: I-Evolution | 264013 | [264013-dinosaur-assassin-i-evolution.json](./264013-dinosaur-assassin-i-evolution.json) |
 | Dinosaur Battlegrounds | 57127 | [57127-dinosaur-battlegrounds.json](./57127-dinosaur-battlegrounds.json) |
+| Dinosaur Bones Digging Simulator 2026 | 386366 | [386366-dinosaur-bones-digging-simulator-2026.json](./386366-dinosaur-bones-digging-simulator-2026.json) |
 | Dinosaur Cousin Squad | 338286 | [338286-dinosaur-cousin-squad.json](./338286-dinosaur-cousin-squad.json) |
 | Dinosaur Discovery | 109172 | [109172-dinosaur-discovery.json](./109172-dinosaur-discovery.json) |
 | Dinosaur Games Simulator 2018 | 105967 | [105967-dinosaur-games-simulator-2018.json](./105967-dinosaur-games-simulator-2018.json) |
