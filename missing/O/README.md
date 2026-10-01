@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oasis | 334662 | [334662-oasis.json](./334662-oasis.json) |
 | Oasis | 821 | [821-oasis.json](./821-oasis.json) |
 | Oasis Games VR Fun Pack | 108862 | [108862-oasis-games-vr-fun-pack.json](./108862-oasis-games-vr-fun-pack.json) |
+| Oasis Invasion | 380648 | [380648-oasis-invasion.json](./380648-oasis-invasion.json) |
 | Oasis of Lilies | 412276 | [412276-oasis-of-lilies.json](./412276-oasis-of-lilies.json) |
 | Oasis VR | 140520 | [140520-oasis-vr.json](./140520-oasis-vr.json) |
 | Oath | 169955 | [169955-oath.json](./169955-oath.json) |
@@ -2695,6 +2696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overground | 178495 | [178495-overground.json](./178495-overground.json) |
 | Overgrown | 147395 | [147395-overgrown.json](./147395-overgrown.json) |
 | Overgrown | 271181 | [271181-overgrown.json](./271181-overgrown.json) |
+| Overgrown | 380629 | [380629-overgrown.json](./380629-overgrown.json) |
 | Overgrown! | 348464 | [348464-overgrown.json](./348464-overgrown.json) |
 | Overgun | 285447 | [285447-overgun.json](./285447-overgun.json) |
 | Overhatched | 410321 | [410321-overhatched.json](./410321-overhatched.json) |
