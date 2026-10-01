@@ -4234,6 +4234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Paradox | 104866 | [104866-black-paradox.json](./104866-black-paradox.json) |
 | Black Paradox Reloaded | 349393 | [349393-black-paradox-reloaded.json](./349393-black-paradox-reloaded.json) |
 | Black Parallax | 395206 | [395206-black-parallax.json](./395206-black-parallax.json) |
+| Black Pellet | 377784 | [377784-black-pellet.json](./377784-black-pellet.json) |
 | Black plane | 291736 | [291736-black-plane.json](./291736-black-plane.json) |
 | Black Powder | 101590 | [101590-black-powder.json](./101590-black-powder.json) |
 | Black Prophecy | 280361 | [280361-black-prophecy.json](./280361-black-prophecy.json) |
@@ -8041,6 +8042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullship! | 375297 | [375297-bullship.json](./375297-bullship.json) |
 | Bullwagon Business | 278554 | [278554-bullwagon-business.json](./278554-bullwagon-business.json) |
 | Bully Ball Soccer | 296653 | [296653-bully-ball-soccer.json](./296653-bully-ball-soccer.json) |
+| Bully Breaker | 377738 | [377738-bully-breaker.json](./377738-bully-breaker.json) |
 | Bully: Anniversary Edition | 88952 | [88952-bully-anniversary-edition.json](./88952-bully-anniversary-edition.json) |
 | Bully: Scholarship Edition | 6574 | [6574-bully-scholarship-edition.json](./6574-bully-scholarship-edition.json) |
 | BullyBall | 161894 | [161894-bullyball.json](./161894-bullyball.json) |
