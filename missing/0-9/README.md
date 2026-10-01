@@ -486,6 +486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 13 Thieves | 234074 | [234074-13-thieves.json](./234074-13-thieves.json) |
 | 13: Origin - Chapter One | 197399 | [197399-13-origin-chapter-one.json](./197399-13-origin-chapter-one.json) |
 | 13! | 87045 | [87045-13.json](./87045-13.json) |
+| 1306 Chapter 1: Reactors & Robots | 343403 | [343403-1306-chapter-1-reactors-and-robots.json](./343403-1306-chapter-1-reactors-and-robots.json) |
 | 1337D00m | 109489 | [109489-1337d00m.json](./109489-1337d00m.json) |
 | 1378km | 139389 | [139389-1378km.json](./139389-1378km.json) |
 | 137E0 Action 1 Steak | 234303 | [234303-137e0-action-1-steak.json](./234303-137e0-action-1-steak.json) |
