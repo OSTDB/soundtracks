@@ -411,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Nothing | 359059 | [359059-echoes-of-nothing.json](./359059-echoes-of-nothing.json) |
 | Echoes of Pinebridge | 390719 | [390719-echoes-of-pinebridge.json](./390719-echoes-of-pinebridge.json) |
 | Echoes of Red | 369141 | [369141-echoes-of-red.json](./369141-echoes-of-red.json) |
+| Echoes of Seasons | 364036 | [364036-echoes-of-seasons.json](./364036-echoes-of-seasons.json) |
 | Echoes of Sin: Confusion | 400239 | [400239-echoes-of-sin-confusion.json](./400239-echoes-of-sin-confusion.json) |
 | Echoes of Somewhere: Series 1 | 240801 | [240801-echoes-of-somewhere-series-1.json](./240801-echoes-of-somewhere-series-1.json) |
 | Echoes of Steel | 277851 | [277851-echoes-of-steel.json](./277851-echoes-of-steel.json) |
@@ -2836,6 +2837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternights | 203367 | [203367-eternights.json](./203367-eternights.json) |
 | Eternity | 276757 | [276757-eternity.json](./276757-eternity.json) |
 | Eternity | 313863 | [313863-eternity.json](./313863-eternity.json) |
+| Eternity | 364005 | [364005-eternity.json](./364005-eternity.json) |
 | Eternity Breaker | 376662 | [376662-eternity-breaker.json](./376662-eternity-breaker.json) |
 | Eternity Convergence | 156135 | [156135-eternity-convergence.json](./156135-eternity-convergence.json) |
 | Eternity Guards | 148488 | [148488-eternity-guards.json](./148488-eternity-guards.json) |
