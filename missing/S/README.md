@@ -10744,6 +10744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Typing: The Ghost Plague | 178097 | [178097-spooky-typing-the-ghost-plague.json](./178097-spooky-typing-the-ghost-plague.json) |
 | Spooky Walking Simulator | 400425 | [400425-spooky-walking-simulator.json](./400425-spooky-walking-simulator.json) |
 | Spooky's Jump Scare Mansion: The Doll House | 140550 | [140550-spookys-jump-scare-mansion-the-doll-house.json](./140550-spookys-jump-scare-mansion-the-doll-house.json) |
+| Spooky's Jumpscare Mansion Plus | 356227 | [356227-spookys-jumpscare-mansion-plus.json](./356227-spookys-jumpscare-mansion-plus.json) |
 | SpookyKillers | 191121 | [191121-spookykillers.json](./191121-spookykillers.json) |
 | Spoonman: Ballad of a Bonehead | 307708 | [307708-spoonman-ballad-of-a-bonehead.json](./307708-spoonman-ballad-of-a-bonehead.json) |
 | Spoons Card Game | 102740 | [102740-spoons-card-game.json](./102740-spoons-card-game.json) |
@@ -11263,6 +11264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stagnatum | 185109 | [185109-stagnatum.json](./185109-stagnatum.json) |
 | Stahlfeder: Tekkou Hikuudan | 138746 | [138746-stahlfeder-tekkou-hikuudan.json](./138746-stahlfeder-tekkou-hikuudan.json) |
 | Stahlkampf | 179480 | [179480-stahlkampf.json](./179480-stahlkampf.json) |
+| Stainless Steel | 356243 | [356243-stainless-steel.json](./356243-stainless-steel.json) |
 | Stair Dismount | 19285 | [19285-stair-dismount.json](./19285-stair-dismount.json) |
 | Stair Quest | 148409 | [148409-stair-quest.json](./148409-stair-quest.json) |
 | Stair Tap | 365064 | [365064-stair-tap.json](./365064-stair-tap.json) |
@@ -16507,6 +16509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Susume Tactics | 193724 | [193724-susume-tactics.json](./193724-susume-tactics.json) |
 | Susume! Kaizoku: Be Pirates! | 200661 | [200661-susume-kaizoku-be-pirates.json](./200661-susume-kaizoku-be-pirates.json) |
 | Susume! Taisen Puzzle Dama: Toukon! Marutama Chou | 136858 | [136858-susume-taisen-puzzle-dama-toukon-marutama-chou.json](./136858-susume-taisen-puzzle-dama-toukon-marutama-chou.json) |
+| Sutte Hakkun | 356234 | [356234-sutte-hakkun.json](./356234-sutte-hakkun.json) |
 | Sutte Hakkun | 42541 | [42541-sutte-hakkun.json](./42541-sutte-hakkun.json) |
 | Suugaku Riki-ou: Shokyuu Chuu-1 Level | 282046 | [282046-suugaku-riki-ou-shokyuu-chuu-1-level.json](./282046-suugaku-riki-ou-shokyuu-chuu-1-level.json) |
 | Suuji Atta! | 266165 | [266165-suuji-atta.json](./266165-suuji-atta.json) |
