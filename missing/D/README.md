@@ -5287,6 +5287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do Not Kill Me Jacob!! JAM Ver. | 176482 | [176482-do-not-kill-me-jacob-jam-ver.json](./176482-do-not-kill-me-jacob-jam-ver.json) |
 | Do Not Look at the Moon | 309360 | [309360-do-not-look-at-the-moon.json](./309360-do-not-look-at-the-moon.json) |
 | Do Not Open | 183869 | [183869-do-not-open.json](./183869-do-not-open.json) |
+| Do Not Play | 339989 | [339989-do-not-play.json](./339989-do-not-play.json) |
 | Do Not Touch | 266518 | [266518-do-not-touch.json](./266518-do-not-touch.json) |
 | Do or Die | 377199 | [377199-do-or-die.json](./377199-do-or-die.json) |
 | Do or Die: Frontal Warfare | 329166 | [329166-do-or-die-frontal-warfare.json](./329166-do-or-die-frontal-warfare.json) |
@@ -6172,6 +6173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomed Dwarves | 387633 | [387633-doomed-dwarves.json](./387633-doomed-dwarves.json) |
 | Doomed Heretic | 104599 | [104599-doomed-heretic.json](./104599-doomed-heretic.json) |
 | Doomed Love | 301944 | [301944-doomed-love.json](./301944-doomed-love.json) |
+| Doomed Otaku | 339981 | [339981-doomed-otaku.json](./339981-doomed-otaku.json) |
 | Doomed Space Wars | 261284 | [261284-doomed-space-wars.json](./261284-doomed-space-wars.json) |
 | Doomed Urbex | 283731 | [283731-doomed-urbex.json](./283731-doomed-urbex.json) |
 | Doomer | 189104 | [189104-doomer.json](./189104-doomer.json) |
@@ -7472,6 +7474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Fire | 241951 | [241951-dream-fire.json](./241951-dream-fire.json) |
 | Dream Football Club | 220843 | [220843-dream-football-club.json](./220843-dream-football-club.json) |
 | Dream Frontier | 301902 | [301902-dream-frontier.json](./301902-dream-frontier.json) |
+| Dream Garden | 339968 | [339968-dream-garden.json](./339968-dream-garden.json) |
 | Dream Genie | 201294 | [201294-dream-genie.json](./201294-dream-genie.json) |
 | Dream Girlfriend | 208979 | [208979-dream-girlfriend.json](./208979-dream-girlfriend.json) |
 | Dream Girlfriend: Twitch Thot | 368106 | [368106-dream-girlfriend-twitch-thot.json](./368106-dream-girlfriend-twitch-thot.json) |
@@ -9090,6 +9093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynopunk: Welcome to Synth-City | 244703 | [244703-dynopunk-welcome-to-synth-city.json](./244703-dynopunk-welcome-to-synth-city.json) |
 | Dynos & Ghosts | 143563 | [143563-dynos-and-ghosts.json](./143563-dynos-and-ghosts.json) |
 | Dynowarz: Destruction of Spondylus | 48029 | [48029-dynowarz-destruction-of-spondylus.json](./48029-dynowarz-destruction-of-spondylus.json) |
+| Dyping Escape | 339959 | [339959-dyping-escape.json](./339959-dyping-escape.json) |
 | Dys: Eternal Space Jail RPG | 142362 | [142362-dys-eternal-space-jail-rpg.json](./142362-dys-eternal-space-jail-rpg.json) |
 | Dys4ia | 15850 | [15850-dys4ia.json](./15850-dys4ia.json) |
 | Dysarmia | 304896 | [304896-dysarmia.json](./304896-dysarmia.json) |
