@@ -268,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Wanna Be the Hedgehog | 417434 | [417434-i-wanna-be-the-hedgehog.json](./417434-i-wanna-be-the-hedgehog.json) |
 | I Wanna Be the King! | 367960 | [367960-i-wanna-be-the-king.json](./367960-i-wanna-be-the-king.json) |
 | I Wanna Eat the Lemon | 191263 | [191263-i-wanna-eat-the-lemon.json](./191263-i-wanna-eat-the-lemon.json) |
+| I Wanna Escape Into My Mind | 355175 | [355175-i-wanna-escape-into-my-mind.json](./355175-i-wanna-escape-into-my-mind.json) |
 | I Wanna Flip the Sky | 195506 | [195506-i-wanna-flip-the-sky.json](./195506-i-wanna-flip-the-sky.json) |
 | I Wanna Fly | 115451 | [115451-i-wanna-fly.json](./115451-i-wanna-fly.json) |
 | I Wanna Fuck My Busty Boss | 369163 | [369163-i-wanna-fuck-my-busty-boss.json](./369163-i-wanna-fuck-my-busty-boss.json) |
