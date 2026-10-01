@@ -451,7 +451,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies | 19902 | [19902-bad-piggies.json](./19902-bad-piggies.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
 | Bad Rats Show | 27510 | [27510-bad-rats-show.json](./27510-bad-rats-show.json) |
@@ -1304,6 +1303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BarGirls | 400463 | [400463-bargirls.json](./400463-bargirls.json) |
 | Bargue | 203903 | [203903-bargue.json](./203903-bargue.json) |
 | Barista | 347150 | [347150-barista.json](./347150-barista.json) |
+| Barista Coffee Simulator | 342213 | [342213-barista-coffee-simulator.json](./342213-barista-coffee-simulator.json) |
 | Barista Dream | 366354 | [366354-barista-dream.json](./366354-barista-dream.json) |
 | Barista Life | 405001 | [405001-barista-life.json](./405001-barista-life.json) |
 | Barista Life Simulator 2026 | 391255 | [391255-barista-life-simulator-2026.json](./391255-barista-life-simulator-2026.json) |
@@ -4915,6 +4915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blitz Society | 386109 | [386109-blitz-society.json](./386109-blitz-society.json) |
 | Blitz Sonic | 332549 | [332549-blitz-sonic.json](./332549-blitz-sonic.json) |
 | Blitz Tennis | 14611 | [14611-blitz-tennis.json](./14611-blitz-tennis.json) |
+| Blitz: Race Against Time | 342208 | [342208-blitz-race-against-time.json](./342208-blitz-race-against-time.json) |
 | Blitz: The League | 264860 | [264860-blitz-the-league.json](./264860-blitz-the-league.json) |
 | Blitz: The League | 5753 | [5753-blitz-the-league.json](./5753-blitz-the-league.json) |
 | Blitz: The League II | 6921 | [6921-blitz-the-league-ii.json](./6921-blitz-the-league-ii.json) |
@@ -5725,6 +5726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob the Elementalist | 267489 | [267489-bob-the-elementalist.json](./267489-bob-the-elementalist.json) |
 | Bob the Goose | 213476 | [213476-bob-the-goose.json](./213476-bob-the-goose.json) |
 | Bob The Mad Rabbit | 410402 | [410402-bob-the-mad-rabbit.json](./410402-bob-the-mad-rabbit.json) |
+| Bob the Robber 4 | 342199 | [342199-bob-the-robber-4.json](./342199-bob-the-robber-4.json) |
 | Bob the Robber 5 | 187970 | [187970-bob-the-robber-5.json](./187970-bob-the-robber-5.json) |
 | Bob Venture 3D Level Editor | 130199 | [130199-bob-venture-3d-level-editor.json](./130199-bob-venture-3d-level-editor.json) |
 | Bob vs the Mob | 57670 | [57670-bob-vs-the-mob.json](./57670-bob-vs-the-mob.json) |
@@ -6800,6 +6802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxing Revolution: Boxing Games - Knock Out | 104434 | [104434-boxing-revolution-boxing-games-knock-out.json](./104434-boxing-revolution-boxing-games-knock-out.json) |
 | Boxing Saga | 31364 | [31364-boxing-saga.json](./31364-boxing-saga.json) |
 | Boxing School | 110119 | [110119-boxing-school.json](./110119-boxing-school.json) |
+| Boxing School II | 342182 | [342182-boxing-school-ii.json](./342182-boxing-school-ii.json) |
 | Boxing Star | 105868 | [105868-boxing-star.json](./105868-boxing-star.json) |
 | Boxing Surgery Simulator 2000 | 183515 | [183515-boxing-surgery-simulator-2000.json](./183515-boxing-surgery-simulator-2000.json) |
 | BoxLoop | 207542 | [207542-boxloop.json](./207542-boxloop.json) |
@@ -7132,12 +7135,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawlhalla X Lara Croft Bundle | 381166 | [381166-brawlhalla-x-lara-croft-bundle.json](./381166-brawlhalla-x-lara-croft-bundle.json) |
 | Brawlhalla X Year of Shadow Launch | 342153 | [342153-brawlhalla-x-year-of-shadow-launch.json](./342153-brawlhalla-x-year-of-shadow-launch.json) |
 | Brawlhalla: Autumn Championship 2018 Pack | 342628 | [342628-brawlhalla-autumn-championship-2018-pack.json](./342628-brawlhalla-autumn-championship-2018-pack.json) |
+| Brawlhalla: BCX 2017 Pack | 342230 | [342230-brawlhalla-bcx-2017-pack.json](./342230-brawlhalla-bcx-2017-pack.json) |
 | Brawlhalla: BCX 2023 Pack | 274586 | [274586-brawlhalla-bcx-2023-pack.json](./274586-brawlhalla-bcx-2023-pack.json) |
 | Brawlhalla: Bonus Pack 12 | 305851 | [305851-brawlhalla-bonus-pack-12.json](./305851-brawlhalla-bonus-pack-12.json) |
 | Brawlhalla: Bonus Pack 13 | 313245 | [313245-brawlhalla-bonus-pack-13.json](./313245-brawlhalla-bonus-pack-13.json) |
 | Brawlhalla: Bonus Pack 14 | 316624 | [316624-brawlhalla-bonus-pack-14.json](./316624-brawlhalla-bonus-pack-14.json) |
 | Brawlhalla: Bonus Pack 16 | 327316 | [327316-brawlhalla-bonus-pack-16.json](./327316-brawlhalla-bonus-pack-16.json) |
+| Brawlhalla: Collector's Pack | 342116 | [342116-brawlhalla-collectors-pack.json](./342116-brawlhalla-collectors-pack.json) |
+| Brawlhalla: Spring Championship 2017 Pack | 342227 | [342227-brawlhalla-spring-championship-2017-pack.json](./342227-brawlhalla-spring-championship-2017-pack.json) |
 | Brawlhalla: Spring Championship 2018 Pack | 342626 | [342626-brawlhalla-spring-championship-2018-pack.json](./342626-brawlhalla-spring-championship-2018-pack.json) |
+| Brawlhalla: Summer Championship 2017 Pack | 342229 | [342229-brawlhalla-summer-championship-2017-pack.json](./342229-brawlhalla-summer-championship-2017-pack.json) |
 | Brawlhalla: Summer Championship 2018 Pack | 342627 | [342627-brawlhalla-summer-championship-2018-pack.json](./342627-brawlhalla-summer-championship-2018-pack.json) |
 | Brawlhalla: Winter Championship 2018 Pack | 342625 | [342625-brawlhalla-winter-championship-2018-pack.json](./342625-brawlhalla-winter-championship-2018-pack.json) |
 | Brawlin' Sailor | 201288 | [201288-brawlin-sailor.json](./201288-brawlin-sailor.json) |
