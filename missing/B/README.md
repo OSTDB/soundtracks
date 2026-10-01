@@ -3519,6 +3519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Time Rush: Dance Party | 50625 | [50625-big-time-rush-dance-party.json](./50625-big-time-rush-dance-party.json) |
 | Big Titty Teacher: Hentai School Life | 97667 | [97667-big-titty-teacher-hentai-school-life.json](./97667-big-titty-teacher-hentai-school-life.json) |
 | Big Top Solitaire | 386134 | [386134-big-top-solitaire.json](./386134-big-top-solitaire.json) |
+| Big Truck 4X4 Challenge | 385266 | [385266-big-truck-4x4-challenge.json](./385266-big-truck-4x4-challenge.json) |
 | Big TV Mary Bar | 48324 | [48324-big-tv-mary-bar.json](./48324-big-tv-mary-bar.json) |
 | Big Watermelon Galaxy | 420677 | [420677-big-watermelon-galaxy.json](./420677-big-watermelon-galaxy.json) |
 | Big Watermelon Match | 283295 | [283295-big-watermelon-match.json](./283295-big-watermelon-match.json) |
@@ -5338,6 +5339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blossom | 388708 | [388708-blossom.json](./388708-blossom.json) |
 | Blossom Blast Saga | 99140 | [99140-blossom-blast-saga.json](./99140-blossom-blast-saga.json) |
 | Blossom Breeze | 347356 | [347356-blossom-breeze.json](./347356-blossom-breeze.json) |
+| Blossom Sort | 385285 | [385285-blossom-sort.json](./385285-blossom-sort.json) |
 | Blossom Voyage | 403740 | [403740-blossom-voyage.json](./403740-blossom-voyage.json) |
 | Blossoms of Eternity | 339815 | [339815-blossoms-of-eternity.json](./339815-blossoms-of-eternity.json) |
 | Blow Away | 244885 | [244885-blow-away.json](./244885-blow-away.json) |
@@ -6976,6 +6978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bread | 178027 | [178027-bread.json](./178027-bread.json) |
 | Bread & Fred | 204524 | [204524-bread-and-fred.json](./204524-bread-and-fred.json) |
 | Bread Barbershop Differences | 219819 | [219819-bread-barbershop-differences.json](./219819-bread-barbershop-differences.json) |
+| Bread Bun World | 385261 | [385261-bread-bun-world.json](./385261-bread-bun-world.json) |
 | Bread Fish Clicker | 306637 | [306637-bread-fish-clicker.json](./306637-bread-fish-clicker.json) |
 | Bread Kittens | 159352 | [159352-bread-kittens.json](./159352-bread-kittens.json) |
 | Breadbox | 321736 | [321736-breadbox.json](./321736-breadbox.json) |
