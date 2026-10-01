@@ -1661,6 +1661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teddy Terror | 25845 | [25845-teddy-terror.json](./25845-teddy-terror.json) |
 | Teddy the Wanderer: Kayaking | 112121 | [112121-teddy-the-wanderer-kayaking.json](./112121-teddy-the-wanderer-kayaking.json) |
 | Teddy Together | 85430 | [85430-teddy-together.json](./85430-teddy-together.json) |
+| Teddy's Haven: A Fantasy Inspired Shop Simulator | 342807 | [342807-teddys-haven-a-fantasy-inspired-shop-simulator.json](./342807-teddys-haven-a-fantasy-inspired-shop-simulator.json) |
 | Teddy's Marbles | 226754 | [226754-teddys-marbles.json](./226754-teddys-marbles.json) |
 | Tedram | 231366 | [231366-tedram.json](./231366-tedram.json) |
 | Tedram Online: Car Racing & Customization | 337637 | [337637-tedram-online-car-racing-and-customization.json](./337637-tedram-online-car-racing-and-customization.json) |
@@ -4949,6 +4950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grand Jump 5 | 99416 | [99416-the-grand-jump-5.json](./99416-the-grand-jump-5.json) |
 | The Grand Prismatic | 411613 | [411613-the-grand-prismatic.json](./411613-the-grand-prismatic.json) |
 | The Grand Way | 104462 | [104462-the-grand-way.json](./104462-the-grand-way.json) |
+| The Grandfather | 342792 | [342792-the-grandfather.json](./342792-the-grandfather.json) |
 | The Grandma from Coco in Sonic 1 | 325693 | [325693-the-grandma-from-coco-in-sonic-1.json](./325693-the-grandma-from-coco-in-sonic-1.json) |
 | The Grass | 163955 | [163955-the-grass.json](./163955-the-grass.json) |
 | The Grass Reaper | 363897 | [363897-the-grass-reaper.json](./363897-the-grass-reaper.json) |
@@ -9073,6 +9075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wall Mustn't Fall | 215793 | [215793-the-wall-mustnt-fall.json](./215793-the-wall-mustnt-fall.json) |
 | The Walls | 289952 | [289952-the-walls.json](./289952-the-walls.json) |
 | The Walls of Bratock | 14423 | [14423-the-walls-of-bratock.json](./14423-the-walls-of-bratock.json) |
+| The Wallway | 342790 | [342790-the-wallway.json](./342790-the-wallway.json) |
 | The Walsingham Files: Chapter 1 | 116120 | [116120-the-walsingham-files-chapter-1.json](./116120-the-walsingham-files-chapter-1.json) |
 | The Walt Disney World Explorer | 132096 | [132096-the-walt-disney-world-explorer.json](./132096-the-walt-disney-world-explorer.json) |
 | The Walt Disney World Explorer: Second Edition | 51375 | [51375-the-walt-disney-world-explorer-second-edition.json](./51375-the-walt-disney-world-explorer-second-edition.json) |
@@ -9598,6 +9601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Know | 283232 | [283232-they-know.json](./283232-they-know.json) |
 | They Linger | 259588 | [259588-they-linger.json](./259588-they-linger.json) |
 | They Look Strange and Have to Die | 181233 | [181233-they-look-strange-and-have-to-die.json](./181233-they-look-strange-and-have-to-die.json) |
+| They See Us | 342780 | [342780-they-see-us.json](./342780-they-see-us.json) |
 | They Sold a Million II | 73335 | [73335-they-sold-a-million-ii.json](./73335-they-sold-a-million-ii.json) |
 | They Started It | 181224 | [181224-they-started-it.json](./181224-they-started-it.json) |
 | They Stop for Gas at Night | 404445 | [404445-they-stop-for-gas-at-night.json](./404445-they-stop-for-gas-at-night.json) |
@@ -11911,6 +11915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toki Tori 2 | 2351 | [2351-toki-tori-2.json](./2351-toki-tori-2.json) |
 | Toki Tori 2+ | 16282 | [16282-toki-tori-2.json](./16282-toki-tori-2.json) |
 | Toki Tori Collection | 122202 | [122202-toki-tori-collection.json](./122202-toki-tori-collection.json) |
+| Toki Tori: Ultimate Edition | 342781 | [342781-toki-tori-ultimate-edition.json](./342781-toki-tori-ultimate-edition.json) |
 | Toki: Retrollector | 112962 | [112962-toki-retrollector.json](./112962-toki-retrollector.json) |
 | Tokigeon | 398399 | [398399-tokigeon.json](./398399-tokigeon.json) |
 | Tokimeki Card Paradise: Koi no Royal Straight Flush | 310969 | [310969-tokimeki-card-paradise-koi-no-royal-straight-flush.json](./310969-tokimeki-card-paradise-koi-no-royal-straight-flush.json) |
@@ -13940,6 +13945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Training Mode | 180276 | [180276-training-mode.json](./180276-training-mode.json) |
 | Training Vice Principal: Square Headed & Chaste Woman Disciplined into Slut | 82991 | [82991-training-vice-principal-square-headed-and-chaste-woman-disciplined-into-slut.json](./82991-training-vice-principal-square-headed-and-chaste-woman-disciplined-into-slut.json) |
 | TrainingPeaks Virtual | 328624 | [328624-trainingpeaks-virtual.json](./328624-trainingpeaks-virtual.json) |
+| Trainlax: Railway Puzzle Simulator | 342794 | [342794-trainlax-railway-puzzle-simulator.json](./342794-trainlax-railway-puzzle-simulator.json) |
 | Trainpunk Run | 95201 | [95201-trainpunk-run.json](./95201-trainpunk-run.json) |
 | Trains | 95443 | [95443-trains.json](./95443-trains.json) |
 | Trains & Things | 105314 | [105314-trains-and-things.json](./105314-trains-and-things.json) |
@@ -15453,6 +15459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsukutori | 395001 | [395001-tsukutori.json](./395001-tsukutori.json) |
 | Tsukutte Utau: Saru Band | 230300 | [230300-tsukutte-utau-saru-band.json](./230300-tsukutte-utau-saru-band.json) |
 | Tsukuyomi: Marebito no Uta | 77941 | [77941-tsukuyomi-marebito-no-uta.json](./77941-tsukuyomi-marebito-no-uta.json) |
+| Tsukuyomi: The Divine Hunter | 342812 | [342812-tsukuyomi-the-divine-hunter.json](./342812-tsukuyomi-the-divine-hunter.json) |
 | Tsuma ga Kirei ni Natta Wake | 82977 | [82977-tsuma-ga-kirei-ni-natta-wake.json](./82977-tsuma-ga-kirei-ni-natta-wake.json) |
 | Tsumera | 268456 | [268456-tsumera.json](./268456-tsumera.json) |
 | Tsumiki: The Infernal Tower | 124107 | [124107-tsumiki-the-infernal-tower.json](./124107-tsumiki-the-infernal-tower.json) |
