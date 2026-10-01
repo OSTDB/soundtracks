@@ -2033,6 +2033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Field: The Battle Royale of Disaster | 96234 | [96234-death-field-the-battle-royale-of-disaster.json](./96234-death-field-the-battle-royale-of-disaster.json) |
 | Death Fighter | 285007 | [285007-death-fighter.json](./285007-death-fighter.json) |
 | Death Fighter 4 | 55968 | [55968-death-fighter-4.json](./55968-death-fighter-4.json) |
+| Death Flags | 374746 | [374746-death-flags.json](./374746-death-flags.json) |
 | Death Flush | 140622 | [140622-death-flush.json](./140622-death-flush.json) |
 | Death Forest: Seikin | 385186 | [385186-death-forest-seikin.json](./385186-death-forest-seikin.json) |
 | Death From Above: Complete Edition | 336140 | [336140-death-from-above-complete-edition.json](./336140-death-from-above-complete-edition.json) |
@@ -3913,6 +3914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dickland: Racing | 259064 | [259064-dickland-racing.json](./259064-dickland-racing.json) |
 | Dickme Dicki | 202353 | [202353-dickme-dicki.json](./202353-dickme-dicki.json) |
 | Dictator | 78955 | [78955-dictator.json](./78955-dictator.json) |
+| Dictator Simulator: Gradnar | 374789 | [374789-dictator-simulator-gradnar.json](./374789-dictator-simulator-gradnar.json) |
 | Dictator's Creed | 212749 | [212749-dictators-creed.json](./212749-dictators-creed.json) |
 | Diction | 319124 | [319124-diction.json](./319124-diction.json) |
 | Dicy Chess | 299148 | [299148-dicy-chess.json](./299148-dicy-chess.json) |
@@ -5367,6 +5369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doggy Quest: The Dark Forest | 378410 | [378410-doggy-quest-the-dark-forest.json](./378410-doggy-quest-the-dark-forest.json) |
 | DogHotel | 101582 | [101582-doghotel.json](./101582-doghotel.json) |
 | Doghouse 2 | 216167 | [216167-doghouse-2.json](./216167-doghouse-2.json) |
+| Doghouse 3 | 374756 | [374756-doghouse-3.json](./374756-doghouse-3.json) |
 | Dogistry | 58799 | [58799-dogistry.json](./58799-dogistry.json) |
 | Dogma | 74466 | [74466-dogma.json](./74466-dogma.json) |
 | Dogma no Hakoniwa | 394543 | [394543-dogma-no-hakoniwa.json](./394543-dogma-no-hakoniwa.json) |
@@ -6280,6 +6283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dragon 3: The Rosetta Stone | 281518 | [281518-double-dragon-3-the-rosetta-stone.json](./281518-double-dragon-3-the-rosetta-stone.json) |
 | Double Dragon 3: The Rosetta Stone | 281519 | [281519-double-dragon-3-the-rosetta-stone.json](./281519-double-dragon-3-the-rosetta-stone.json) |
 | Double Dragon 3: The Rosetta Stone | 281520 | [281520-double-dragon-3-the-rosetta-stone.json](./281520-double-dragon-3-the-rosetta-stone.json) |
+| Double Dragon Dodgeball | 374779 | [374779-double-dragon-dodgeball.json](./374779-double-dragon-dodgeball.json) |
 | Double Dragon II SNES Port | 377224 | [377224-double-dragon-ii-snes-port.json](./377224-double-dragon-ii-snes-port.json) |
 | Double Dragon II: The Revenge | 281506 | [281506-double-dragon-ii-the-revenge.json](./281506-double-dragon-ii-the-revenge.json) |
 | Double Dragon II: The Revenge | 281507 | [281507-double-dragon-ii-the-revenge.json](./281507-double-dragon-ii-the-revenge.json) |
@@ -8879,6 +8883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dyschronia: Chronos Alternate - Dual Edition | 273637 | [273637-dyschronia-chronos-alternate-dual-edition.json](./273637-dyschronia-chronos-alternate-dual-edition.json) |
 | Dyscourse | 16504 | [16504-dyscourse.json](./16504-dyscourse.json) |
 | Dysis | 62817 | [62817-dysis.json](./62817-dysis.json) |
+| Dyskairos | 374771 | [374771-dyskairos.json](./374771-dyskairos.json) |
 | Dysmantle | 113998 | [113998-dysmantle.json](./113998-dysmantle.json) |
 | Dysmantle: Doomsday | 240771 | [240771-dysmantle-doomsday.json](./240771-dysmantle-doomsday.json) |
 | Dysmantle: Underworld | 207258 | [207258-dysmantle-underworld.json](./207258-dysmantle-underworld.json) |
