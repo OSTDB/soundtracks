@@ -3440,6 +3440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Invasion | 412515 | [412515-medieval-invasion.json](./412515-medieval-invasion.json) |
 | Medieval Kingdom Wars: Prologue | 266471 | [266471-medieval-kingdom-wars-prologue.json](./266471-medieval-kingdom-wars-prologue.json) |
 | Medieval Kingdom Wars: Royal Blood | 213487 | [213487-medieval-kingdom-wars-royal-blood.json](./213487-medieval-kingdom-wars-royal-blood.json) |
+| Medieval Kingdoms Total War: 1212 AD | 356223 | [356223-medieval-kingdoms-total-war-1212-ad.json](./356223-medieval-kingdoms-total-war-1212-ad.json) |
 | Medieval Lands | 412430 | [412430-medieval-lands.json](./412430-medieval-lands.json) |
 | Medieval Legacy | 333011 | [333011-medieval-legacy.json](./333011-medieval-legacy.json) |
 | Medieval Life | 280299 | [280299-medieval-life.json](./280299-medieval-life.json) |
