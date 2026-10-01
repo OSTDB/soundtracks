@@ -3677,6 +3677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator | 9667 | [9667-american-truck-simulator.json](./9667-american-truck-simulator.json) |
 | American Truck Simulator 2018 | 86722 | [86722-american-truck-simulator-2018.json](./86722-american-truck-simulator-2018.json) |
 | American Truck Simulator 2022 | 197844 | [197844-american-truck-simulator-2022.json](./197844-american-truck-simulator-2022.json) |
+| American Truck Simulator: British Columbia | 375345 | [375345-american-truck-simulator-british-columbia.json](./375345-american-truck-simulator-british-columbia.json) |
 | American Truck Simulator: Christmas Paint Jobs Pack | 353403 | [353403-american-truck-simulator-christmas-paint-jobs-pack.json](./353403-american-truck-simulator-christmas-paint-jobs-pack.json) |
 | American Truck Simulator: Colorado | 167679 | [167679-american-truck-simulator-colorado.json](./167679-american-truck-simulator-colorado.json) |
 | American Truck Simulator: Dragon Truck Design Pack | 263050 | [263050-american-truck-simulator-dragon-truck-design-pack.json](./263050-american-truck-simulator-dragon-truck-design-pack.json) |
@@ -5811,6 +5812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archmage Ricka | 211440 | [211440-archmage-ricka.json](./211440-archmage-ricka.json) |
 | Archmage Rises | 31937 | [31937-archmage-rises.json](./31937-archmage-rises.json) |
 | ArchOlden | 248018 | [248018-archolden.json](./248018-archolden.json) |
+| Archon | 375399 | [375399-archon.json](./375399-archon.json) |
 | Archon | 5539 | [5539-archon.json](./5539-archon.json) |
 | Archon Classic | 16208 | [16208-archon-classic.json](./16208-archon-classic.json) |
 | Archon: Initiator | 339920 | [339920-archon-initiator.json](./339920-archon-initiator.json) |
@@ -6862,6 +6864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault Squad 2: Men of War Origins | 36398 | [36398-assault-squad-2-men-of-war-origins.json](./36398-assault-squad-2-men-of-war-origins.json) |
 | Assault Suit Leynos | 18655 | [18655-assault-suit-leynos.json](./18655-assault-suit-leynos.json) |
 | Assault Suit Leynos 2: Saturn Tribute | 298102 | [298102-assault-suit-leynos-2-saturn-tribute.json](./298102-assault-suit-leynos-2-saturn-tribute.json) |
+| Assault Suits Valken | 375386 | [375386-assault-suits-valken.json](./375386-assault-suits-valken.json) |
 | Assault Suits Valken 2 | 44750 | [44750-assault-suits-valken-2.json](./44750-assault-suits-valken-2.json) |
 | Assault Wing | 274517 | [274517-assault-wing.json](./274517-assault-wing.json) |
 | AssaultCube | 9530 | [9530-assaultcube.json](./9530-assaultcube.json) |
