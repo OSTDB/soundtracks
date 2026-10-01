@@ -1047,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanoth | 52019 | [52019-tanoth.json](./52019-tanoth.json) |
 | Tansaikigou: Sec Life, Monochrome Cube | 376603 | [376603-tansaikigou-sec-life-monochrome-cube.json](./376603-tansaikigou-sec-life-monochrome-cube.json) |
 | Tantal | 159801 | [159801-tantal.json](./159801-tantal.json) |
+| Tantalus | 377197 | [377197-tantalus.json](./377197-tantalus.json) |
 | Tantei Gakuen Q: Kioukan no Satsui | 359064 | [359064-tantei-gakuen-q-kioukan-no-satsui.json](./359064-tantei-gakuen-q-kioukan-no-satsui.json) |
 | Tantei ha Tsuki wo Miru | 343979 | [343979-tantei-ha-tsuki-wo-miru.json](./343979-tantei-ha-tsuki-wo-miru.json) |
 | Tantei Jinguji Saburo Series No. 02: Yokohama-ko Renzoku Satsujin Jiken | 347247 | [347247-tantei-jinguji-saburo-series-no-02-yokohama-ko-renzoku-satsujin-jiken.json](./347247-tantei-jinguji-saburo-series-no-02-yokohama-ko-renzoku-satsujin-jiken.json) |
@@ -3987,6 +3988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Devilz Work | 315512 | [315512-the-devilz-work.json](./315512-the-devilz-work.json) |
 | The Devourer: Hunted Souls | 238626 | [238626-the-devourer-hunted-souls.json](./238626-the-devourer-hunted-souls.json) |
 | The Dew | 55273 | [55273-the-dew.json](./55273-the-dew.json) |
+| The Diamond Adventures | 377218 | [377218-the-diamond-adventures.json](./377218-the-diamond-adventures.json) |
 | The Diary | 250356 | [250356-the-diary.json](./250356-the-diary.json) |
 | The Die Is Cast | 240474 | [240474-the-die-is-cast.json](./240474-the-die-is-cast.json) |
 | The Dig | 207 | [207-the-dig.json](./207-the-dig.json) |
@@ -10817,6 +10819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiki Tandems | 272263 | [272263-tiki-tandems.json](./272263-tiki-tandems.json) |
 | Tiki Tiki Hop | 209672 | [209672-tiki-tiki-hop.json](./209672-tiki-tiki-hop.json) |
 | Tiki Towers | 79912 | [79912-tiki-towers.json](./79912-tiki-towers.json) |
+| Tiki-Taka-Toe | 377233 | [377233-tiki-taka-toe.json](./377233-tiki-taka-toe.json) |
 | Tiki: The Masked Journey | 163850 | [163850-tiki-the-masked-journey.json](./163850-tiki-the-masked-journey.json) |
 | Tikus Tales | 211167 | [211167-tikus-tales.json](./211167-tikus-tales.json) |
 | Tikutaku Concert | 148936 | [148936-tikutaku-concert.json](./148936-tikutaku-concert.json) |
@@ -12711,6 +12714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Kobuto V: Burst Battle - Youmu Konpaku | 238035 | [238035-touhou-kobuto-v-burst-battle-youmu-konpaku.json](./238035-touhou-kobuto-v-burst-battle-youmu-konpaku.json) |
 | Touhou Kosuzu no Butsuri Game! | 256898 | [256898-touhou-kosuzu-no-butsuri-game.json](./256898-touhou-kosuzu-no-butsuri-game.json) |
 | Touhou Kourinden: Mythos of Phantasmagoria | 289935 | [289935-touhou-kourinden-mythos-of-phantasmagoria.json](./289935-touhou-kourinden-mythos-of-phantasmagoria.json) |
+| Touhou Kourokuen: Glorious and Huge Singer | 377213 | [377213-touhou-kourokuen-glorious-and-huge-singer.json](./377213-touhou-kourokuen-glorious-and-huge-singer.json) |
 | Touhou Kouryuudou: Unconnected Marketeers | 144093 | [144093-touhou-kouryuudou-unconnected-marketeers.json](./144093-touhou-kouryuudou-unconnected-marketeers.json) |
 | Touhou Landmine Mahjong | 196162 | [196162-touhou-landmine-mahjong.json](./196162-touhou-landmine-mahjong.json) |
 | Touhou Library Survivors | 219544 | [219544-touhou-library-survivors.json](./219544-touhou-library-survivors.json) |
@@ -14099,6 +14103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TransMemory | 318802 | [318802-transmemory.json](./318802-transmemory.json) |
 | Transmission | 108606 | [108606-transmission.json](./108606-transmission.json) |
 | Transmission From Start to End | 308900 | [308900-transmission-from-start-to-end.json](./308900-transmission-from-start-to-end.json) |
+| Transmission: Shortwave | 377208 | [377208-transmission-shortwave.json](./377208-transmission-shortwave.json) |
 | Transmissions | 213412 | [213412-transmissions.json](./213412-transmissions.json) |
 | Transmorpher 3 | 101937 | [101937-transmorpher-3.json](./101937-transmorpher-3.json) |
 | Transmute Syndrome | 311670 | [311670-transmute-syndrome.json](./311670-transmute-syndrome.json) |
