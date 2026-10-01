@@ -3604,6 +3604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Forward | 58298 | [58298-word-forward.json](./58298-word-forward.json) |
 | Word Game | 161224 | [161224-word-game.json](./161224-word-game.json) |
 | Word Game | 88428 | [88428-word-game.json](./88428-word-game.json) |
+| Word Game World | 339961 | [339961-word-game-world.json](./339961-word-game-world.json) |
 | Word Games - Order letters and create words | 96070 | [96070-word-games-order-letters-and-create-words.json](./96070-word-games-order-letters-and-create-words.json) |
 | Word Guru - Puzzle Word Game | 89233 | [89233-word-guru-puzzle-word-game.json](./89233-word-guru-puzzle-word-game.json) |
 | Word Harmony | 52130 | [52130-word-harmony.json](./52130-word-harmony.json) |
