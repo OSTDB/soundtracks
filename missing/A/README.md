@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A (W)hole lot of Colors | 177479 | [177479-a-w-hole-lot-of-colors.json](./177479-a-w-hole-lot-of-colors.json) |
 | A 2ª Jornada | 299470 | [299470-a-2a-jornada.json](./299470-a-2a-jornada.json) |
 | A Army Base | 277571 | [277571-a-army-base.json](./277571-a-army-base.json) |
+| A Aventura Máxica de Merliño | 362969 | [362969-a-aventura-maxica-de-merlino.json](./362969-a-aventura-maxica-de-merlino.json) |
 | A Baby CEO?! | 391884 | [391884-a-baby-ceo.json](./391884-a-baby-ceo.json) |
 | A Bad Clicker | 337787 | [337787-a-bad-clicker.json](./337787-a-bad-clicker.json) |
 | A Bark in the Dark | 225289 | [225289-a-bark-in-the-dark.json](./225289-a-bark-in-the-dark.json) |
@@ -1842,6 +1843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Zombies | 8628 | [8628-age-of-zombies.json](./8628-age-of-zombies.json) |
 | Age-age the Zero-Yon Shinya | 122955 | [122955-age-age-the-zero-yon-shinya.json](./122955-age-age-the-zero-yon-shinya.json) |
 | Agebringer | 379513 | [379513-agebringer.json](./379513-agebringer.json) |
+| Agecraft | 362933 | [362933-agecraft.json](./362933-agecraft.json) |
 | Ageless Machine: Cup of Tea | 180716 | [180716-ageless-machine-cup-of-tea.json](./180716-ageless-machine-cup-of-tea.json) |
 | Agence | 135115 | [135115-agence.json](./135115-agence.json) |
 | Agenda | 31784 | [31784-agenda.json](./31784-agenda.json) |
@@ -5333,6 +5335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ara Ngc 6397 | 206130 | [206130-ara-ngc-6397.json](./206130-ara-ngc-6397.json) |
 | Arab Drift Cars | 221746 | [221746-arab-drift-cars.json](./221746-arab-drift-cars.json) |
 | Arab Drift Cars 2 | 330192 | [330192-arab-drift-cars-2.json](./330192-arab-drift-cars-2.json) |
+| Arab Drift Cars 3 | 362967 | [362967-arab-drift-cars-3.json](./362967-arab-drift-cars-3.json) |
 | Arabian | 13682 | [13682-arabian.json](./13682-arabian.json) |
 | Arabian Magic | 13684 | [13684-arabian-magic.json](./13684-arabian-magic.json) |
 | Arabian Nights | 10861 | [10861-arabian-nights.json](./10861-arabian-nights.json) |
@@ -5672,6 +5675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcana Noir | 261833 | [261833-arcana-noir.json](./261833-arcana-noir.json) |
 | Arcana of Paradise: The Tower | 194945 | [194945-arcana-of-paradise-the-tower.json](./194945-arcana-of-paradise-the-tower.json) |
 | Arcana Ritter | 91422 | [91422-arcana-ritter.json](./91422-arcana-ritter.json) |
+| Arcana Roma | 362930 | [362930-arcana-roma.json](./362930-arcana-roma.json) |
 | Arcana Strikes | 45428 | [45428-arcana-strikes.json](./45428-arcana-strikes.json) |
 | Arcana: Boundless Horizon | 220306 | [220306-arcana-boundless-horizon.json](./220306-arcana-boundless-horizon.json) |
 | Arcana: Heat and Cold - Season 2 | 191241 | [191241-arcana-heat-and-cold-season-2.json](./191241-arcana-heat-and-cold-season-2.json) |
@@ -6068,6 +6072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arindama | 378898 | [378898-arindama.json](./378898-arindama.json) |
 | Arinn | 261787 | [261787-arinn.json](./261787-arinn.json) |
 | Aripi | 158136 | [158136-aripi.json](./158136-aripi.json) |
+| Arise | 362992 | [362992-arise.json](./362992-arise.json) |
 | Arise: A Simple Story | 122563 | [122563-arise-a-simple-story.json](./122563-arise-a-simple-story.json) |
 | Arise: A Simple Story - Definitive Edition | 199171 | [199171-arise-a-simple-story-definitive-edition.json](./199171-arise-a-simple-story-definitive-edition.json) |
 | Arisen Force: Life Devotee of Wukong | 322972 | [322972-arisen-force-life-devotee-of-wukong.json](./322972-arisen-force-life-devotee-of-wukong.json) |
