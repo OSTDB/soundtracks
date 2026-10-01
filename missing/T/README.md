@@ -3471,6 +3471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Christmas Spirit: Golden Ticket | 187968 | [187968-the-christmas-spirit-golden-ticket.json](./187968-the-christmas-spirit-golden-ticket.json) |
 | The Christmas Spirit: Grimm Tales | 139430 | [139430-the-christmas-spirit-grimm-tales.json](./139430-the-christmas-spirit-grimm-tales.json) |
 | The Christopher Redemption: I | 276811 | [276811-the-christopher-redemption-i.json](./276811-the-christopher-redemption-i.json) |
+| The Chroma: From the Wasteland | 367542 | [367542-the-chroma-from-the-wasteland.json](./367542-the-chroma-from-the-wasteland.json) |
 | The Chronicler | 150631 | [150631-the-chronicler.json](./150631-the-chronicler.json) |
 | The Chronicles of Dragon Wing - Reborn | 44160 | [44160-the-chronicles-of-dragon-wing-reborn.json](./44160-the-chronicles-of-dragon-wing-reborn.json) |
 | The Chronicles of Ezra Blackwell: Episode 1 - Pappi's Peril | 277281 | [277281-the-chronicles-of-ezra-blackwell-episode-1-pappis-peril.json](./277281-the-chronicles-of-ezra-blackwell-episode-1-pappis-peril.json) |
@@ -7519,6 +7520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Room Collection | 351251 | [351251-the-room-collection.json](./351251-the-room-collection.json) |
 | The Room in a Glass Box | 339934 | [339934-the-room-in-a-glass-box.json](./339934-the-room-in-a-glass-box.json) |
 | The Room of Black & White | 34455 | [34455-the-room-of-black-and-white.json](./34455-the-room-of-black-and-white.json) |
+| The Room Stalker | 367566 | [367566-the-room-stalker.json](./367566-the-room-stalker.json) |
 | The Room Syndrome | 124218 | [124218-the-room-syndrome.json](./124218-the-room-syndrome.json) |
 | The Room Tribute | 92463 | [92463-the-room-tribute.json](./92463-the-room-tribute.json) |
 | The Room VR: A Dark Matter | 123991 | [123991-the-room-vr-a-dark-matter.json](./123991-the-room-vr-a-dark-matter.json) |
