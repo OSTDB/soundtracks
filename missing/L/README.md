@@ -4727,6 +4727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lust Company | 366236 | [366236-lust-company.json](./366236-lust-company.json) |
 | Lust Dungeon | 209485 | [209485-lust-dungeon.json](./209485-lust-dungeon.json) |
 | Lust Effect | 384751 | [384751-lust-effect.json](./384751-lust-effect.json) |
+| Lust Eternal | 379529 | [379529-lust-eternal.json](./379529-lust-eternal.json) |
 | Lust for Darkness VR | 193508 | [193508-lust-for-darkness-vr.json](./193508-lust-for-darkness-vr.json) |
 | Lust for Lucre | 305760 | [305760-lust-for-lucre.json](./305760-lust-for-lucre.json) |
 | Lust for Speed | 152807 | [152807-lust-for-speed.json](./152807-lust-for-speed.json) |
