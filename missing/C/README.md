@@ -1549,6 +1549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Cat 3 | 356074 | [356074-castle-cat-3.json](./356074-castle-cat-3.json) |
 | Castle Champion | 154390 | [154390-castle-champion.json](./154390-castle-champion.json) |
 | Castle Clash | 38890 | [38890-castle-clash.json](./38890-castle-clash.json) |
+| Castle Combat | 342194 | [342194-castle-combat.json](./342194-castle-combat.json) |
 | Castle Combat | 47551 | [47551-castle-combat.json](./47551-castle-combat.json) |
 | Castle Come | 307043 | [307043-castle-come.json](./307043-castle-come.json) |
 | Castle Corp | 280332 | [280332-castle-corp.json](./280332-castle-corp.json) |
@@ -7211,6 +7212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Couch Storm: Battle Royale | 119735 | [119735-couch-storm-battle-royale.json](./119735-couch-storm-battle-royale.json) |
 | Couch Versus | 113669 | [113669-couch-versus.json](./113669-couch-versus.json) |
 | Couic d'or ! | 328595 | [328595-couic-dor.json](./328595-couic-dor.json) |
+| Councell for the Best Death | 342191 | [342191-councell-for-the-best-death.json](./342191-councell-for-the-best-death.json) |
 | Counseling | 401050 | [401050-counseling.json](./401050-counseling.json) |
 | Count 427 | 287624 | [287624-count-427.json](./287624-count-427.json) |
 | Count Downula | 109040 | [109040-count-downula.json](./109040-count-downula.json) |
@@ -8312,6 +8314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croc's World | 87410 | [87410-crocs-world.json](./87410-crocs-world.json) |
 | Croc's World Run | 115465 | [115465-crocs-world-run.json](./115465-crocs-world-run.json) |
 | Crock | 184390 | [184390-crock.json](./184390-crock.json) |
+| Croco.Games | 342201 | [342201-croco-games.json](./342201-croco-games.json) |
 | Crococo | 406883 | [406883-crococo.json](./406883-crococo.json) |
 | Crocodile Blood: The Final Moments of Kurumizawa Keiko | 394154 | [394154-crocodile-blood-the-final-moments-of-kurumizawa-keiko.json](./394154-crocodile-blood-the-final-moments-of-kurumizawa-keiko.json) |
 | Crocodile Transformator | 217388 | [217388-crocodile-transformator.json](./217388-crocodile-transformator.json) |
@@ -9625,6 +9628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Sprint | 261754 | [261754-cyber-sprint.json](./261754-cyber-sprint.json) |
 | Cyber Sprinters | 386839 | [386839-cyber-sprinters.json](./386839-cyber-sprinters.json) |
 | Cyber Stadium Series: Base Wars | 9876 | [9876-cyber-stadium-series-base-wars.json](./9876-cyber-stadium-series-base-wars.json) |
+| Cyber Storm | 342291 | [342291-cyber-storm.json](./342291-cyber-storm.json) |
 | Cyber Storm Edge 64 | 294866 | [294866-cyber-storm-edge-64.json](./294866-cyber-storm-edge-64.json) |
 | Cyber Strider | 248028 | [248028-cyber-strider.json](./248028-cyber-strider.json) |
 | Cyber Strike | 194001 | [194001-cyber-strike.json](./194001-cyber-strike.json) |
