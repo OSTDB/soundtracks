@@ -1875,6 +1875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peck Peck's Garden | 243633 | [243633-peck-pecks-garden.json](./243633-peck-pecks-garden.json) |
 | Pecker | 244272 | [244272-pecker.json](./244272-pecker.json) |
 | Peckin' Pixels | 135692 | [135692-peckin-pixels.json](./135692-peckin-pixels.json) |
+| Pecking Order | 337778 | [337778-pecking-order.json](./337778-pecking-order.json) |
 | Pecky Clicker | 391192 | [391192-pecky-clicker.json](./391192-pecky-clicker.json) |
 | Pecos Bill | 210008 | [210008-pecos-bill.json](./210008-pecos-bill.json) |
 | Peculiar Fables: The Werebed | 186731 | [186731-peculiar-fables-the-werebed.json](./186731-peculiar-fables-the-werebed.json) |
