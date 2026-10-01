@@ -866,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss Pact | 339129 | [339129-abyss-pact.json](./339129-abyss-pact.json) |
 | Abyss Prowler | 383581 | [383581-abyss-prowler.json](./383581-abyss-prowler.json) |
 | Abyss Rebel | 357415 | [357415-abyss-rebel.json](./357415-abyss-rebel.json) |
+| Abyss Ring | 339958 | [339958-abyss-ring.json](./339958-abyss-ring.json) |
 | Abyss Saga | 369111 | [369111-abyss-saga.json](./369111-abyss-saga.json) |
 | Abyss Soul Lotus | 216799 | [216799-abyss-soul-lotus.json](./216799-abyss-soul-lotus.json) |
 | Abyss Unchained | 331349 | [331349-abyss-unchained.json](./331349-abyss-unchained.json) |
@@ -4686,6 +4687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annihilate the Spance | 192985 | [192985-annihilate-the-spance.json](./192985-annihilate-the-spance.json) |
 | Annihilation | 289380 | [289380-annihilation.json](./289380-annihilation.json) |
 | Annihilation: Space Tycoon | 255794 | [255794-annihilation-space-tycoon.json](./255794-annihilation-space-tycoon.json) |
+| Annihilator | 339993 | [339993-annihilator.json](./339993-annihilator.json) |
 | Annihilator | 94893 | [94893-annihilator.json](./94893-annihilator.json) |
 | Annihilith Of Abhorration | 271293 | [271293-annihilith-of-abhorration.json](./271293-annihilith-of-abhorration.json) |
 | Anniversary Collection Arcade Classics | 116390 | [116390-anniversary-collection-arcade-classics.json](./116390-anniversary-collection-arcade-classics.json) |
