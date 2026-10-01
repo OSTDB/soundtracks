@@ -565,6 +565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Navicula Meatus | 319727 | [319727-navicula-meatus.json](./319727-navicula-meatus.json) |
 | Navigating the Labyrinth | 274549 | [274549-navigating-the-labyrinth.json](./274549-navigating-the-labyrinth.json) |
 | Navigavia: Kirka's Island | 267107 | [267107-navigavia-kirkas-island.json](./267107-navigavia-kirkas-island.json) |
+| Navinosuke: The Yo-kai Buster | 349430 | [349430-navinosuke-the-yo-kai-buster.json](./349430-navinosuke-the-yo-kai-buster.json) |
 | Navit | 380446 | [380446-navit.json](./380446-navit.json) |
 | Navitune: Dragon Koukaigi | 400944 | [400944-navitune-dragon-koukaigi.json](./400944-navitune-dragon-koukaigi.json) |
 | Navitune: Dragon Koukaigi | 400945 | [400945-navitune-dragon-koukaigi.json](./400945-navitune-dragon-koukaigi.json) |
@@ -998,6 +999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Neko Nihonshi: Rekishi Hakken Puzzle! | 222536 | [222536-neko-neko-nihonshi-rekishi-hakken-puzzle.json](./222536-neko-neko-nihonshi-rekishi-hakken-puzzle.json) |
 | Neko Neko Rampage | 231304 | [231304-neko-neko-rampage.json](./231304-neko-neko-rampage.json) |
 | Neko Night | 222912 | [222912-neko-night.json](./222912-neko-night.json) |
+| Neko Ningen Eugene | 349439 | [349439-neko-ningen-eugene.json](./349439-neko-ningen-eugene.json) |
 | Neko Nyaa~ | 195479 | [195479-neko-nyaa.json](./195479-neko-nyaa.json) |
 | Neko Rescue Tale | 241040 | [241040-neko-rescue-tale.json](./241040-neko-rescue-tale.json) |
 | Neko Sagashi | 227270 | [227270-neko-sagashi.json](./227270-neko-sagashi.json) |
@@ -3255,6 +3257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norn9: Last Era - Limited Edition | 249735 | [249735-norn9-last-era-limited-edition.json](./249735-norn9-last-era-limited-edition.json) |
 | Nornium | 293384 | [293384-nornium.json](./293384-nornium.json) |
 | Noroi Kago: The Grduged Domain - The Birth of Kitaro: The Mystery of GeGeGe Costume - Kitaro's father and Mizuki | 355202 | [355202-noroi-kago-the-grduged-domain-the-birth-of-kitaro-the-mystery-of-gegege-costume-kitaros-father-and-mizuki.json](./355202-noroi-kago-the-grduged-domain-the-birth-of-kitaro-the-mystery-of-gegege-costume-kitaros-father-and-mizuki.json) |
+| Noroi no Kegareuta: Narumi Tatsuya no Kaikiroku | 349464 | [349464-noroi-no-kegareuta-narumi-tatsuya-no-kaikiroku.json](./349464-noroi-no-kegareuta-narumi-tatsuya-no-kaikiroku.json) |
 | Noroware Cycle | 223481 | [223481-noroware-cycle.json](./223481-noroware-cycle.json) |
 | NoRoY | 193490 | [193490-noroy.json](./193490-noroy.json) |
 | Norr part I: Ace Shot | 120828 | [120828-norr-part-i-ace-shot.json](./120828-norr-part-i-ace-shot.json) |
