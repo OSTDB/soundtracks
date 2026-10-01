@@ -744,6 +744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JFCBP1 | 273114 | [273114-jfcbp1.json](./273114-jfcbp1.json) |
 | JFCBP2 | 273115 | [273115-jfcbp2.json](./273115-jfcbp2.json) |
 | JFK Reloaded | 71814 | [71814-jfk-reloaded.json](./71814-jfk-reloaded.json) |
+| JGTC: All-Japan Grand Touring Car Championship | 381781 | [381781-jgtc-all-japan-grand-touring-car-championship.json](./381781-jgtc-all-japan-grand-touring-car-championship.json) |
 | Ji Tan Nohua | 121648 | [121648-ji-tan-nohua.json](./121648-ji-tan-nohua.json) |
 | Jí Xiàn Zhēn Tàn | 368143 | [368143-ji-xian-zhen-tan.json](./368143-ji-xian-zhen-tan.json) |
 | Jia Ran er Zhi De Yin Fu | 188415 | [188415-jia-ran-er-zhi-de-yin-fu.json](./188415-jia-ran-er-zhi-de-yin-fu.json) |
@@ -970,6 +971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jinchou | 337480 | [337480-jinchou.json](./337480-jinchou.json) |
 | Jing 'an District Copstories | 157043 | [157043-jing-an-district-copstories.json](./157043-jing-an-district-copstories.json) |
 | Jingle Cats | 63293 | [63293-jingle-cats.json](./63293-jingle-cats.json) |
+| Jingle Strike VR | 381764 | [381764-jingle-strike-vr.json](./381764-jingle-strike-vr.json) |
 | Jingoku | 175829 | [175829-jingoku.json](./175829-jingoku.json) |
 | Jinja | 313500 | [313500-jinja.json](./313500-jinja.json) |
 | Jinki Resurrection | 141177 | [141177-jinki-resurrection.json](./141177-jinki-resurrection.json) |
