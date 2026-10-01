@@ -270,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Wanna Eat the Lemon | 191263 | [191263-i-wanna-eat-the-lemon.json](./191263-i-wanna-eat-the-lemon.json) |
 | I Wanna Flip the Sky | 195506 | [195506-i-wanna-flip-the-sky.json](./195506-i-wanna-flip-the-sky.json) |
 | I Wanna Fly | 115451 | [115451-i-wanna-fly.json](./115451-i-wanna-fly.json) |
+| I Wanna Fuck My Busty Boss | 369163 | [369163-i-wanna-fuck-my-busty-boss.json](./369163-i-wanna-fuck-my-busty-boss.json) |
 | I Wanna Go for a Walk | 381767 | [381767-i-wanna-go-for-a-walk.json](./381767-i-wanna-go-for-a-walk.json) |
 | I Wanna Go Home | 220043 | [220043-i-wanna-go-home.json](./220043-i-wanna-go-home.json) |
 | I Wanna How Many Bottles of Coke Zero Can Badlands Chug in 3 Minutes? Watch & See! | 210657 | [210657-i-wanna-how-many-bottles-of-coke-zero-can-badlands-chug-in-3-minutes-watch-and-see.json](./210657-i-wanna-how-many-bottles-of-coke-zero-can-badlands-chug-in-3-minutes-watch-and-see.json) |
@@ -374,6 +375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm on Observation Duty 3 | 141126 | [141126-im-on-observation-duty-3.json](./141126-im-on-observation-duty-3.json) |
 | I'm on Observation Duty 4 | 184481 | [184481-im-on-observation-duty-4.json](./184481-im-on-observation-duty-4.json) |
 | I'm on Observation Duty 6 | 254443 | [254443-im-on-observation-duty-6.json](./254443-im-on-observation-duty-6.json) |
+| I'm on Observation Duty 8 | 369153 | [369153-im-on-observation-duty-8.json](./369153-im-on-observation-duty-8.json) |
 | I'm on Sorority Duty | 372672 | [372672-im-on-sorority-duty.json](./372672-im-on-sorority-duty.json) |
 | I'm Only Sleeping | 71001 | [71001-im-only-sleeping.json](./71001-im-only-sleeping.json) |
 | I'm Pregnant at 16 | 336639 | [336639-im-pregnant-at-16.json](./336639-im-pregnant-at-16.json) |
