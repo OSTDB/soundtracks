@@ -4096,6 +4096,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon Story: Cyber Sleuth | 15705 | [15705-digimon-story-cyber-sleuth.json](./15705-digimon-story-cyber-sleuth.json) |
 | Digimon Story: Cyber Sleuth - Hacker's Memory | 27920 | [27920-digimon-story-cyber-sleuth-hackers-memory.json](./27920-digimon-story-cyber-sleuth-hackers-memory.json) |
 | Digimon Story: Lost Evolution | 67307 | [67307-digimon-story-lost-evolution.json](./67307-digimon-story-lost-evolution.json) |
+| Digimon Story: Time Stranger - Episode Pack 1: Alternate Dimension | 377240 | [377240-digimon-story-time-stranger-episode-pack-1-alternate-dimension.json](./377240-digimon-story-time-stranger-episode-pack-1-alternate-dimension.json) |
+| Digimon Story: Time Stranger - Season Pass | 377242 | [377242-digimon-story-time-stranger-season-pass.json](./377242-digimon-story-time-stranger-season-pass.json) |
 | Digimon Super Rumble | 202964 | [202964-digimon-super-rumble.json](./202964-digimon-super-rumble.json) |
 | Digimon T.K. and Patamon | 203237 | [203237-digimon-t-k-and-patamon.json](./203237-digimon-t-k-and-patamon.json) |
 | Digimon Tamer Frontier | 56444 | [56444-digimon-tamer-frontier.json](./56444-digimon-tamer-frontier.json) |
@@ -5143,6 +5145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do Not Look at the Moon | 309360 | [309360-do-not-look-at-the-moon.json](./309360-do-not-look-at-the-moon.json) |
 | Do Not Open | 183869 | [183869-do-not-open.json](./183869-do-not-open.json) |
 | Do Not Touch | 266518 | [266518-do-not-touch.json](./266518-do-not-touch.json) |
+| Do or Die | 377199 | [377199-do-or-die.json](./377199-do-or-die.json) |
 | Do or Die: Frontal Warfare | 329166 | [329166-do-or-die-frontal-warfare.json](./329166-do-or-die-frontal-warfare.json) |
 | Do or Die: Hunt to Survive | 235975 | [235975-do-or-die-hunt-to-survive.json](./235975-do-or-die-hunt-to-survive.json) |
 | Do the Cat | 326267 | [326267-do-the-cat.json](./326267-do-the-cat.json) |
@@ -6268,6 +6271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dragon 3: The Rosetta Stone | 281518 | [281518-double-dragon-3-the-rosetta-stone.json](./281518-double-dragon-3-the-rosetta-stone.json) |
 | Double Dragon 3: The Rosetta Stone | 281519 | [281519-double-dragon-3-the-rosetta-stone.json](./281519-double-dragon-3-the-rosetta-stone.json) |
 | Double Dragon 3: The Rosetta Stone | 281520 | [281520-double-dragon-3-the-rosetta-stone.json](./281520-double-dragon-3-the-rosetta-stone.json) |
+| Double Dragon II SNES Port | 377224 | [377224-double-dragon-ii-snes-port.json](./377224-double-dragon-ii-snes-port.json) |
 | Double Dragon II: The Revenge | 281506 | [281506-double-dragon-ii-the-revenge.json](./281506-double-dragon-ii-the-revenge.json) |
 | Double Dragon II: The Revenge | 281507 | [281507-double-dragon-ii-the-revenge.json](./281507-double-dragon-ii-the-revenge.json) |
 | Double Dragon II: The Revenge | 281508 | [281508-double-dragon-ii-the-revenge.json](./281508-double-dragon-ii-the-revenge.json) |
@@ -6279,6 +6283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dragon II: The Revenge | 281525 | [281525-double-dragon-ii-the-revenge.json](./281525-double-dragon-ii-the-revenge.json) |
 | Double Dragon III: The Sacred Stones | 79335 | [79335-double-dragon-iii-the-sacred-stones.json](./79335-double-dragon-iii-the-sacred-stones.json) |
 | Double Dragon Revive: Additional Character Color | 375155 | [375155-double-dragon-revive-additional-character-color.json](./375155-double-dragon-revive-additional-character-color.json) |
+| Double Dragon SNES Port | 377222 | [377222-double-dragon-snes-port.json](./377222-double-dragon-snes-port.json) |
 | Double Dribble: 5 on 5 | 48952 | [48952-double-dribble-5-on-5.json](./48952-double-dribble-5-on-5.json) |
 | Double Dungeons | 206965 | [206965-double-dungeons.json](./206965-double-dungeons.json) |
 | Double Dunk | 18007 | [18007-double-dunk.json](./18007-double-dunk.json) |
@@ -8850,6 +8855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors: God Seekers | 44537 | [44537-dynasty-warriors-god-seekers.json](./44537-dynasty-warriors-god-seekers.json) |
 | Dynasty Warriors: Gundam | 6977 | [6977-dynasty-warriors-gundam.json](./6977-dynasty-warriors-gundam.json) |
 | Dynasty Warriors: Gundam 3 | 6982 | [6982-dynasty-warriors-gundam-3.json](./6982-dynasty-warriors-gundam-3.json) |
+| Dynasty Warriors: Origins - Visions of Four Heroes | 377234 | [377234-dynasty-warriors-origins-visions-of-four-heroes.json](./377234-dynasty-warriors-origins-visions-of-four-heroes.json) |
 | Dynasty Wars | 12060 | [12060-dynasty-wars.json](./12060-dynasty-wars.json) |
 | Dynasty's Defender: The Scroll's Curse | 312745 | [312745-dynastys-defender-the-scrolls-curse.json](./312745-dynastys-defender-the-scrolls-curse.json) |
 | Dynogems | 42826 | [42826-dynogems.json](./42826-dynogems.json) |
