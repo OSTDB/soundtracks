@@ -1667,6 +1667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Depths | 354510 | [354510-endless-depths.json](./354510-endless-depths.json) |
 | Endless Depths 2 RPG | 197784 | [197784-endless-depths-2-rpg.json](./197784-endless-depths-2-rpg.json) |
 | Endless Desert TD | 275340 | [275340-endless-desert-td.json](./275340-endless-desert-td.json) |
+| Endless Doves | 380641 | [380641-endless-doves.json](./380641-endless-doves.json) |
 | Endless Dream | 253341 | [253341-endless-dream.json](./253341-endless-dream.json) |
 | Endless Drive | 234610 | [234610-endless-drive.json](./234610-endless-drive.json) |
 | Endless Dungeon | 109970 | [109970-endless-dungeon.json](./109970-endless-dungeon.json) |
