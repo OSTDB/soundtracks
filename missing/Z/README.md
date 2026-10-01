@@ -1102,8 +1102,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zueirama 2077 | 323276 | [323276-zueirama-2077.json](./323276-zueirama-2077.json) |
 | Zug in Sicht | 383972 | [383972-zug-in-sicht.json](./383972-zug-in-sicht.json) |
 | Zugya | 264070 | [264070-zugya.json](./264070-zugya.json) |
+| Zui's Witch Academy | 338311 | [338311-zuis-witch-academy.json](./338311-zuis-witch-academy.json) |
 | Zuìhòu de Xiūxiānzhě | 375416 | [375416-zuihou-de-xiuxianzhe.json](./375416-zuihou-de-xiuxianzhe.json) |
 | ZukuRace | 308920 | [308920-zukurace.json](./308920-zukurace.json) |
+| Zulkania | 338323 | [338323-zulkania.json](./338323-zulkania.json) |
 | Zulu | 365287 | [365287-zulu.json](./365287-zulu.json) |
 | Zulup | 129021 | [129021-zulup.json](./129021-zulup.json) |
 | Zuma Girls | 369564 | [369564-zuma-girls.json](./369564-zuma-girls.json) |
