@@ -795,6 +795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neckbeards: Cuck Invaders | 81737 | [81737-neckbeards-cuck-invaders.json](./81737-neckbeards-cuck-invaders.json) |
 | Necks Please... | 294212 | [294212-necks-please.json](./294212-necks-please.json) |
 | Necogram | 243384 | [243384-necogram.json](./243384-necogram.json) |
+| Necomen | 359550 | [359550-necomen.json](./359550-necomen.json) |
 | NECR: Chain Reaction Physics | 395779 | [395779-necr-chain-reaction-physics.json](./395779-necr-chain-reaction-physics.json) |
 | Necris Dome | 12956 | [12956-necris-dome.json](./12956-necris-dome.json) |
 | Necro Defense | 113687 | [113687-necro-defense.json](./113687-necro-defense.json) |
@@ -984,6 +985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Golf: Anime Golf | 223126 | [223126-neko-golf-anime-golf.json](./223126-neko-golf-anime-golf.json) |
 | Neko Hacker Plus | 169779 | [169779-neko-hacker-plus.json](./169779-neko-hacker-plus.json) |
 | Neko Journey | 190462 | [190462-neko-journey.json](./190462-neko-journey.json) |
+| Neko Kitchen | 359552 | [359552-neko-kitchen.json](./359552-neko-kitchen.json) |
 | Neko Michi | 385601 | [385601-neko-michi.json](./385601-neko-michi.json) |
 | Neko Miko Kaibyo Shioki No Emaki | 406901 | [406901-neko-miko-kaibyo-shioki-no-emaki.json](./406901-neko-miko-kaibyo-shioki-no-emaki.json) |
 | Neko Miko Onryou Toubatsu Emaki | 244997 | [244997-neko-miko-onryou-toubatsu-emaki.json](./244997-neko-miko-onryou-toubatsu-emaki.json) |
