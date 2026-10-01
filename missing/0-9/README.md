@@ -865,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 Stars of Destiny | 9933 | [9933-3-stars-of-destiny.json](./9933-3-stars-of-destiny.json) |
 | 3 Tactical Lines | 158538 | [158538-3-tactical-lines.json](./158538-3-tactical-lines.json) |
 | 3 Tiles: Tile Matching Games | 331356 | [331356-3-tiles-tile-matching-games.json](./331356-3-tiles-tile-matching-games.json) |
+| 3-D Docking Mission | 342821 | [342821-3-d-docking-mission.json](./342821-3-d-docking-mission.json) |
 | 3-D Escape!: 1000 Mazes | 245577 | [245577-3-d-escape-1000-mazes.json](./245577-3-d-escape-1000-mazes.json) |
 | 3-D Man | 83270 | [83270-3-d-man.json](./83270-3-d-man.json) |
 | 3-D Tank Zone | 15579 | [15579-3-d-tank-zone.json](./15579-3-d-tank-zone.json) |
