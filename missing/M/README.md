@@ -9186,6 +9186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MVP Baseball 2005 | 796 | [796-mvp-baseball-2005.json](./796-mvp-baseball-2005.json) |
 | MX 2002 Featuring Ricky Carmichael | 18265 | [18265-mx-2002-featuring-ricky-carmichael.json](./18265-mx-2002-featuring-ricky-carmichael.json) |
 | MX Bikes | 37424 | [37424-mx-bikes.json](./37424-mx-bikes.json) |
+| MX Bodycam Bikes Racing | 374250 | [374250-mx-bodycam-bikes-racing.json](./374250-mx-bodycam-bikes-racing.json) |
 | MX Dirt Bike: Unlimited Bike Experience | 317442 | [317442-mx-dirt-bike-unlimited-bike-experience.json](./317442-mx-dirt-bike-unlimited-bike-experience.json) |
 | MX Nitro: Unleashed | 133400 | [133400-mx-nitro-unleashed.json](./133400-mx-nitro-unleashed.json) |
 | MX Racing World | 364704 | [364704-mx-racing-world.json](./364704-mx-racing-world.json) |
