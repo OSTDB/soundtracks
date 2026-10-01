@@ -2951,6 +2951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexagon Dungeon: The Arcana Stone | 114786 | [114786-hexagon-dungeon-the-arcana-stone.json](./114786-hexagon-dungeon-the-arcana-stone.json) |
 | Hexagon Hamlet | 183529 | [183529-hexagon-hamlet.json](./183529-hexagon-hamlet.json) |
 | Hexagon Heroes | 132272 | [132272-hexagon-heroes.json](./132272-hexagon-heroes.json) |
+| Hexagon Soup | 384143 | [384143-hexagon-soup.json](./384143-hexagon-soup.json) |
 | Hexagon Survivors | 249855 | [249855-hexagon-survivors.json](./249855-hexagon-survivors.json) |
 | Hexagonal Explods | 238729 | [238729-hexagonal-explods.json](./238729-hexagonal-explods.json) |
 | Hexagonal Tower | 195109 | [195109-hexagonal-tower.json](./195109-hexagonal-tower.json) |
@@ -3090,6 +3091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hi-5 DVD Game | 274991 | [274991-hi-5-dvd-game.json](./274991-hi-5-dvd-game.json) |
 | Hi-5: Fun & Games | 274993 | [274993-hi-5-fun-and-games.json](./274993-hi-5-fun-and-games.json) |
 | Hi-5: Fun Club | 274992 | [274992-hi-5-fun-club.json](./274992-hi-5-fun-club.json) |
+| Hi-Fi Roller | 384157 | [384157-hi-fi-roller.json](./384157-hi-fi-roller.json) |
 | Hi-Fi Rush | 233585 | [233585-hi-fi-rush.json](./233585-hi-fi-rush.json) |
 | Hi-Fi Rush: Deluxe Edition | 233614 | [233614-hi-fi-rush-deluxe-edition.json](./233614-hi-fi-rush-deluxe-edition.json) |
 | Hi-Fi Rush: Teamplay Costume Pack | 275615 | [275615-hi-fi-rush-teamplay-costume-pack.json](./275615-hi-fi-rush-teamplay-costume-pack.json) |
@@ -5159,6 +5161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Party: Valentine's Day Holiday Pack | 287076 | [287076-house-party-valentines-day-holiday-pack.json](./287076-house-party-valentines-day-holiday-pack.json) |
 | House Renovator Simulator | 350052 | [350052-house-renovator-simulator.json](./350052-house-renovator-simulator.json) |
 | House spirit cat | 279768 | [279768-house-spirit-cat.json](./279768-house-spirit-cat.json) |
+| House Tidy | 384178 | [384178-house-tidy.json](./384178-house-tidy.json) |
 | House with Puzzles | 274762 | [274762-house-with-puzzles.json](./274762-house-with-puzzles.json) |
 | Household Budget Management | 42197 | [42197-household-budget-management.json](./42197-household-budget-management.json) |
 | Housekeeper: Anomaly | 350532 | [350532-housekeeper-anomaly.json](./350532-housekeeper-anomaly.json) |
