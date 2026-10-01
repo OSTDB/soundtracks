@@ -1585,6 +1585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indiana Jones in the Lost Kingdom | 25862 | [25862-indiana-jones-in-the-lost-kingdom.json](./25862-indiana-jones-in-the-lost-kingdom.json) |
 | Indiana Jones y la estatua sagrada | 322931 | [322931-indiana-jones-y-la-estatua-sagrada.json](./322931-indiana-jones-y-la-estatua-sagrada.json) |
 | Indiana Rodent | 57093 | [57093-indiana-rodent.json](./57093-indiana-rodent.json) |
+| IndianOps | 348408 | [348408-indianops.json](./348408-indianops.json) |
 | Indie All Star Bundle | 317216 | [317216-indie-all-star-bundle.json](./317216-indie-all-star-bundle.json) |
 | Indie All Star Vol. 2 | 320759 | [320759-indie-all-star-vol-2.json](./320759-indie-all-star-vol-2.json) |
 | Indie Arena Booth Online | 138721 | [138721-indie-arena-booth-online.json](./138721-indie-arena-booth-online.json) |
@@ -2927,6 +2928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ISDDS: Drone VR Simulator | 163919 | [163919-isdds-drone-vr-simulator.json](./163919-isdds-drone-vr-simulator.json) |
 | Ise Shima Mystery Annai: Itsuwari no Kuro Shinju | 69363 | [69363-ise-shima-mystery-annai-itsuwari-no-kuro-shinju.json](./69363-ise-shima-mystery-annai-itsuwari-no-kuro-shinju.json) |
 | Isee | 51514 | [51514-isee.json](./51514-isee.json) |
+| Isekai Adventurer Guild | 348401 | [348401-isekai-adventurer-guild.json](./348401-isekai-adventurer-guild.json) |
 | Isekai Awakening | 296942 | [296942-isekai-awakening.json](./296942-isekai-awakening.json) |
 | Isekai Brick Breaker | 225065 | [225065-isekai-brick-breaker.json](./225065-isekai-brick-breaker.json) |
 | Isekai Eternal | 157537 | [157537-isekai-eternal.json](./157537-isekai-eternal.json) |
