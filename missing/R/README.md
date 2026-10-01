@@ -1892,6 +1892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Faction: Guerrilla | 846 | [846-red-faction-guerrilla.json](./846-red-faction-guerrilla.json) |
 | Red Faction: Guerrilla - Steam Edition | 28988 | [28988-red-faction-guerrilla-steam-edition.json](./28988-red-faction-guerrilla-steam-edition.json) |
 | Red Feud | 69566 | [69566-red-feud.json](./69566-red-feud.json) |
+| Red Finger | 339400 | [339400-red-finger.json](./339400-red-finger.json) |
 | Red Flood | 321567 | [321567-red-flood.json](./321567-red-flood.json) |
 | Red Flower | 230959 | [230959-red-flower.json](./230959-red-flower.json) |
 | Red Flu | 81217 | [81217-red-flu.json](./81217-red-flu.json) |
