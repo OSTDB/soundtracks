@@ -1472,6 +1472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inbound | 86531 | [86531-inbound.json](./86531-inbound.json) |
 | Inbox Unbox | 160239 | [160239-inbox-unbox.json](./160239-inbox-unbox.json) |
 | INC | 22331 | [22331-inc.json](./22331-inc.json) |
+| Inc: The Beginning | 370816 | [370816-inc-the-beginning.json](./370816-inc-the-beginning.json) |
 | Inca | 25890 | [25890-inca.json](./25890-inca.json) |
 | Inca Curse | 13008 | [13008-inca-curse.json](./13008-inca-curse.json) |
 | Inca Gold | 97501 | [97501-inca-gold.json](./97501-inca-gold.json) |
