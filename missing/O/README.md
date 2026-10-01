@@ -1748,6 +1748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ophidia | 36523 | [36523-ophidia.json](./36523-ophidia.json) |
 | Opia | 322946 | [322946-opia.json](./322946-opia.json) |
 | Oplitak | 155982 | [155982-oplitak.json](./155982-oplitak.json) |
+| Opollo | 360718 | [360718-opollo.json](./360718-opollo.json) |
 | Oppai Academy Big, Bouncy, Booby Babes! | 147454 | [147454-oppai-academy-big-bouncy-booby-babes.json](./147454-oppai-academy-big-bouncy-booby-babes.json) |
 | Oppai Heart: Kanojo wa Kedamono Hatsujouki!? | 77934 | [77934-oppai-heart-kanojo-wa-kedamono-hatsujouki.json](./77934-oppai-heart-kanojo-wa-kedamono-hatsujouki.json) |
 | Oppai Muse | 203383 | [203383-oppai-muse.json](./203383-oppai-muse.json) |
@@ -1788,6 +1789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oquonie | 60514 | [60514-oquonie.json](./60514-oquonie.json) |
 | Oracle | 27457 | [27457-oracle.json](./27457-oracle.json) |
 | Oracle | 366368 | [366368-oracle.json](./366368-oracle.json) |
+| Oracle 5000 | 360715 | [360715-oracle-5000.json](./360715-oracle-5000.json) |
 | Oracle Chain | 181241 | [181241-oracle-chain.json](./181241-oracle-chain.json) |
 | Oracle of Meles | 304382 | [304382-oracle-of-meles.json](./304382-oracle-of-meles.json) |
 | Oracle Pine | 181674 | [181674-oracle-pine.json](./181674-oracle-pine.json) |
