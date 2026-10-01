@@ -3974,10 +3974,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles Ultimate: Variety Pack 24 | 357889 | [357889-pixel-puzzles-ultimate-variety-pack-24.json](./357889-pixel-puzzles-ultimate-variety-pack-24.json) |
 | Pixel Puzzles Ultimate: Variety Pack 25 | 357890 | [357890-pixel-puzzles-ultimate-variety-pack-25.json](./357890-pixel-puzzles-ultimate-variety-pack-25.json) |
 | Pixel Puzzles Ultimate: Variety Pack 26 | 357891 | [357891-pixel-puzzles-ultimate-variety-pack-26.json](./357891-pixel-puzzles-ultimate-variety-pack-26.json) |
+| Pixel Puzzles Ultimate: Variety Pack 27 | 357892 | [357892-pixel-puzzles-ultimate-variety-pack-27.json](./357892-pixel-puzzles-ultimate-variety-pack-27.json) |
 | Pixel Puzzles Ultimate: Variety Pack 3XL | 192147 | [192147-pixel-puzzles-ultimate-variety-pack-3xl.json](./192147-pixel-puzzles-ultimate-variety-pack-3xl.json) |
 | Pixel Puzzles Ultimate: Variety Pack 4 | 162155 | [162155-pixel-puzzles-ultimate-variety-pack-4.json](./162155-pixel-puzzles-ultimate-variety-pack-4.json) |
 | Pixel Puzzles Ultimate: Variety Pack 5 | 162168 | [162168-pixel-puzzles-ultimate-variety-pack-5.json](./162168-pixel-puzzles-ultimate-variety-pack-5.json) |
 | Pixel Puzzles Ultimate: Variety Pack 5XS | 192144 | [192144-pixel-puzzles-ultimate-variety-pack-5xs.json](./192144-pixel-puzzles-ultimate-variety-pack-5xs.json) |
+| Pixel Puzzles Ultimate: Variety Pack 8SX | 357893 | [357893-pixel-puzzles-ultimate-variety-pack-8sx.json](./357893-pixel-puzzles-ultimate-variety-pack-8sx.json) |
 | Pixel Puzzles Ultimate: Variety Pack 9 | 162166 | [162166-pixel-puzzles-ultimate-variety-pack-9.json](./162166-pixel-puzzles-ultimate-variety-pack-9.json) |
 | Pixel Puzzles Ultimate: Variety Pack XS | 162170 | [162170-pixel-puzzles-ultimate-variety-pack-xs.json](./162170-pixel-puzzles-ultimate-variety-pack-xs.json) |
 | Pixel Puzzles Ultimate: Variety Pack XXS | 162161 | [162161-pixel-puzzles-ultimate-variety-pack-xxs.json](./162161-pixel-puzzles-ultimate-variety-pack-xxs.json) |
