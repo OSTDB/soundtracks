@@ -3598,6 +3598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective of the Dead | 318179 | [318179-detective-of-the-dead.json](./318179-detective-of-the-dead.json) |
 | Detective Olivia: The Cult of Whisperers | 294448 | [294448-detective-olivia-the-cult-of-whisperers.json](./294448-detective-olivia-the-cult-of-whisperers.json) |
 | Detective Patch | 257958 | [257958-detective-patch.json](./257958-detective-patch.json) |
+| Detective Penguin | 340533 | [340533-detective-penguin.json](./340533-detective-penguin.json) |
 | Detective Pikachu Returns | 128307 | [128307-detective-pikachu-returns.json](./128307-detective-pikachu-returns.json) |
 | Detective Puz | 133907 | [133907-detective-puz.json](./133907-detective-puz.json) |
 | Detective R & Prophet J | 402369 | [402369-detective-r-and-prophet-j.json](./402369-detective-r-and-prophet-j.json) |
@@ -6022,6 +6023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dontrel Dolphin 2 | 305838 | [305838-dontrel-dolphin-2.json](./305838-dontrel-dolphin-2.json) |
 | Donut 80 | 201052 | [201052-donut-80.json](./201052-donut-80.json) |
 | Donut Arena | 190137 | [190137-donut-arena.json](./190137-donut-arena.json) |
+| Donut Blast | 340529 | [340529-donut-blast.json](./340529-donut-blast.json) |
 | Donut Boi | 130268 | [130268-donut-boi.json](./130268-donut-boi.json) |
 | Donut Break 2: Head to Head | 214516 | [214516-donut-break-2-head-to-head.json](./214516-donut-break-2-head-to-head.json) |
 | Donut County | 55080 | [55080-donut-county.json](./55080-donut-county.json) |
