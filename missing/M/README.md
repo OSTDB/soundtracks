@@ -1027,6 +1027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maid Envy | 74760 | [74760-maid-envy.json](./74760-maid-envy.json) |
 | Maid for Loving You | 227872 | [227872-maid-for-loving-you.json](./227872-maid-for-loving-you.json) |
 | Maid for Loving You | 255115 | [255115-maid-for-loving-you.json](./255115-maid-for-loving-you.json) |
+| Maid Harem With Futa | 384720 | [384720-maid-harem-with-futa.json](./384720-maid-harem-with-futa.json) |
 | Maid Hunter | 235462 | [235462-maid-hunter.json](./235462-maid-hunter.json) |
 | Maid in Witch Life!: Yakata de Hajimaru H na Miryou Seikatsu | 194633 | [194633-maid-in-witch-life-yakata-de-hajimaru-h-na-miryou-seikatsu.json](./194633-maid-in-witch-life-yakata-de-hajimaru-h-na-miryou-seikatsu.json) |
 | Maid Knight Alicia | 199089 | [199089-maid-knight-alicia.json](./199089-maid-knight-alicia.json) |
@@ -3452,6 +3453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Dead Pixel | 120241 | [120241-mega-dead-pixel.json](./120241-mega-dead-pixel.json) |
 | Mega Deal Card | 390276 | [390276-mega-deal-card.json](./390276-mega-deal-card.json) |
 | Mega Demon Blaster | 207379 | [207379-mega-demon-blaster.json](./207379-mega-demon-blaster.json) |
+| Mega Dimension Ripper 9000 | 384711 | [384711-mega-dimension-ripper-9000.json](./384711-mega-dimension-ripper-9000.json) |
 | Mega Drive | 305267 | [305267-mega-drive.json](./305267-mega-drive.json) |
 | Mega Drive 3 | 230810 | [230810-mega-drive-3.json](./230810-mega-drive-3.json) |
 | Mega Drive 3 | 230834 | [230834-mega-drive-3.json](./230834-mega-drive-3.json) |
@@ -9373,6 +9375,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Garage | 162411 | [162411-my-garage.json](./162411-my-garage.json) |
 | My Garbage Cat Wakes Me Up At 3AM Every Day | 128556 | [128556-my-garbage-cat-wakes-me-up-at-3am-every-day.json](./128556-my-garbage-cat-wakes-me-up-at-3am-every-day.json) |
 | My Ghost Pet Is Zhong Kui | 309362 | [309362-my-ghost-pet-is-zhong-kui.json](./309362-my-ghost-pet-is-zhong-kui.json) |
+| My Giant Sexy Sensei Bullies Me 10 | 384738 | [384738-my-giant-sexy-sensei-bullies-me-10.json](./384738-my-giant-sexy-sensei-bullies-me-10.json) |
+| My Giant Sexy Sensei Bullies Me 5 | 384724 | [384724-my-giant-sexy-sensei-bullies-me-5.json](./384724-my-giant-sexy-sensei-bullies-me-5.json) |
+| My Giant Sexy Sensei Bullies Me 6 | 384727 | [384727-my-giant-sexy-sensei-bullies-me-6.json](./384727-my-giant-sexy-sensei-bullies-me-6.json) |
+| My Giant Sexy Sensei Bullies Me 7 | 384729 | [384729-my-giant-sexy-sensei-bullies-me-7.json](./384729-my-giant-sexy-sensei-bullies-me-7.json) |
+| My Giant Sexy Sensei Bullies Me 8 | 384732 | [384732-my-giant-sexy-sensei-bullies-me-8.json](./384732-my-giant-sexy-sensei-bullies-me-8.json) |
+| My Giant Sexy Sensei Bullies Me 9 | 384735 | [384735-my-giant-sexy-sensei-bullies-me-9.json](./384735-my-giant-sexy-sensei-bullies-me-9.json) |
 | My Girlfriend | 81184 | [81184-my-girlfriend.json](./81184-my-girlfriend.json) |
 | My Girlfriend is a Mermaid!? Refine | 188642 | [188642-my-girlfriend-is-a-mermaid-refine.json](./188642-my-girlfriend-is-a-mermaid-refine.json) |
 | My Girlfriend is a Mermaid!? Refine: Limited Edition | 188645 | [188645-my-girlfriend-is-a-mermaid-refine-limited-edition.json](./188645-my-girlfriend-is-a-mermaid-refine-limited-edition.json) |
