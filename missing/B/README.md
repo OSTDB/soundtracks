@@ -2559,12 +2559,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Saber: Daft Punk Music Pack | 357254 | [357254-beat-saber-daft-punk-music-pack.json](./357254-beat-saber-daft-punk-music-pack.json) |
 | Beat Saber: Darude - "Sandstorm" | 357240 | [357240-beat-saber-darude-sandstorm.json](./357240-beat-saber-darude-sandstorm.json) |
 | Beat Saber: deadmau5 - "Ghosts 'n' Stuff (feat. Rob Swire)" | 357238 | [357238-beat-saber-deadmau5-ghosts-n-stuff-feat-rob-swire.json](./357238-beat-saber-deadmau5-ghosts-n-stuff-feat-rob-swire.json) |
+| Beat Saber: Electronic Mixtape Music Pack | 357354 | [357354-beat-saber-electronic-mixtape-music-pack.json](./357354-beat-saber-electronic-mixtape-music-pack.json) |
 | Beat Saber: Foo Fighters - "The Pretender" | 357231 | [357231-beat-saber-foo-fighters-the-pretender.json](./357231-beat-saber-foo-fighters-the-pretender.json) |
 | Beat Saber: Green Day - "Holiday" | 357247 | [357247-beat-saber-green-day-holiday.json](./357247-beat-saber-green-day-holiday.json) |
+| Beat Saber: Green Day Music Pack | 357397 | [357397-beat-saber-green-day-music-pack.json](./357397-beat-saber-green-day-music-pack.json) |
 | Beat Saber: Hip Hop Mixtape | 357263 | [357263-beat-saber-hip-hop-mixtape.json](./357263-beat-saber-hip-hop-mixtape.json) |
 | Beat Saber: KISS - "I Was Made For Lovin' You" | 357229 | [357229-beat-saber-kiss-i-was-made-for-lovin-you.json](./357229-beat-saber-kiss-i-was-made-for-lovin-you.json) |
 | Beat Saber: Lady Gaga - "Alejandro" | 357242 | [357242-beat-saber-lady-gaga-alejandro.json](./357242-beat-saber-lady-gaga-alejandro.json) |
 | Beat Saber: Lady Gaga - "Poker Face" | 357241 | [357241-beat-saber-lady-gaga-poker-face.json](./357241-beat-saber-lady-gaga-poker-face.json) |
+| Beat Saber: Lady Gaga Music Pack | 357355 | [357355-beat-saber-lady-gaga-music-pack.json](./357355-beat-saber-lady-gaga-music-pack.json) |
 | Beat Saber: Monstercat Music Pack Vol. 1 | 251057 | [251057-beat-saber-monstercat-music-pack-vol-1.json](./251057-beat-saber-monstercat-music-pack-vol-1.json) |
 | Beat Saber: Queen - "Another One Bites the Dust" | 357227 | [357227-beat-saber-queen-another-one-bites-the-dust.json](./357227-beat-saber-queen-another-one-bites-the-dust.json) |
 | Beat Saber: Queen - "Bohemian Rhapsody" | 357228 | [357228-beat-saber-queen-bohemian-rhapsody.json](./357228-beat-saber-queen-bohemian-rhapsody.json) |
@@ -2575,10 +2578,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Saber: Skrillex – "Bangarang (feat. Sirah)" | 357245 | [357245-beat-saber-skrillex-bangarang-feat-sirah.json](./357245-beat-saber-skrillex-bangarang-feat-sirah.json) |
 | Beat Saber: Skrillex – "Scary Monsters and Nice Sprites" | 357244 | [357244-beat-saber-skrillex-scary-monsters-and-nice-sprites.json](./357244-beat-saber-skrillex-scary-monsters-and-nice-sprites.json) |
 | Beat Saber: Skrillex & Wolfgang Gartner – "The Devil’s Den" | 357243 | [357243-beat-saber-skrillex-and-wolfgang-gartner-the-devil-s-den.json](./357243-beat-saber-skrillex-and-wolfgang-gartner-the-devil-s-den.json) |
+| Beat Saber: Skrillex Music Pack | 357356 | [357356-beat-saber-skrillex-music-pack.json](./357356-beat-saber-skrillex-music-pack.json) |
 | Beat Saber: Steppenwolf - "Born To Be Wild" | 357232 | [357232-beat-saber-steppenwolf-born-to-be-wild.json](./357232-beat-saber-steppenwolf-born-to-be-wild.json) |
 | Beat Saber: Survivor - "Eye of the Tiger" | 357233 | [357233-beat-saber-survivor-eye-of-the-tiger.json](./357233-beat-saber-survivor-eye-of-the-tiger.json) |
 | Beat Saber: The Weeknd - "Blinding Lights" | 357236 | [357236-beat-saber-the-weeknd-blinding-lights.json](./357236-beat-saber-the-weeknd-blinding-lights.json) |
 | Beat Saber: The Weeknd - "Can't Feel My Face" | 357237 | [357237-beat-saber-the-weeknd-cant-feel-my-face.json](./357237-beat-saber-the-weeknd-cant-feel-my-face.json) |
+| Beat Saber: The Weeknd Music Pack | 357353 | [357353-beat-saber-the-weeknd-music-pack.json](./357353-beat-saber-the-weeknd-music-pack.json) |
 | Beat Shapes | 385585 | [385585-beat-shapes.json](./385585-beat-shapes.json) |
 | Beat Slicer | 410273 | [410273-beat-slicer.json](./410273-beat-slicer.json) |
 | Beat Slug Hyperway | 208030 | [208030-beat-slug-hyperway.json](./208030-beat-slug-hyperway.json) |
@@ -4750,6 +4755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleemcast! for Metal Gear Solid | 315682 | [315682-bleemcast-for-metal-gear-solid.json](./315682-bleemcast-for-metal-gear-solid.json) |
 | Bleepfrog | 343987 | [343987-bleepfrog.json](./343987-bleepfrog.json) |
 | Bleeping Spaceships | 373673 | [373673-bleeping-spaceships.json](./373673-bleeping-spaceships.json) |
+| Bleeping Spaceships MR | 357298 | [357298-bleeping-spaceships-mr.json](./357298-bleeping-spaceships-mr.json) |
 | Blendamaze | 101530 | [101530-blendamaze.json](./101530-blendamaze.json) |
 | Blender Express HD | 245259 | [245259-blender-express-hd.json](./245259-blender-express-hd.json) |
 | Blendoku | 259559 | [259559-blendoku.json](./259559-blendoku.json) |
@@ -4801,6 +4807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind Simulator | 351262 | [351262-blind-simulator.json](./351262-blind-simulator.json) |
 | Blind Spot | 377586 | [377586-blind-spot.json](./377586-blind-spot.json) |
 | Blind Touch | 346760 | [346760-blind-touch.json](./346760-blind-touch.json) |
+| Blind Trust: The City | 357383 | [357383-blind-trust-the-city.json](./357383-blind-trust-the-city.json) |
 | Blind Wars | 69795 | [69795-blind-wars.json](./69795-blind-wars.json) |
 | Blind Wizard's Assistant | 195124 | [195124-blind-wizards-assistant.json](./195124-blind-wizards-assistant.json) |
 | Blind zum Bus | 383973 | [383973-blind-zum-bus.json](./383973-blind-zum-bus.json) |
@@ -8440,6 +8447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Driving Simulator 24: City Roads - Electric Bus | 284958 | [284958-bus-driving-simulator-24-city-roads-electric-bus.json](./284958-bus-driving-simulator-24-city-roads-electric-bus.json) |
 | Bus Driving Simulator 24: City Roads - London Double Decker Bus | 284959 | [284959-bus-driving-simulator-24-city-roads-london-double-decker-bus.json](./284959-bus-driving-simulator-24-city-roads-london-double-decker-bus.json) |
 | Bus Driving Simulator 24: City Roads - School Bus | 284960 | [284960-bus-driving-simulator-24-city-roads-school-bus.json](./284960-bus-driving-simulator-24-city-roads-school-bus.json) |
+| Bus Escape: Traffic Jam | 357384 | [357384-bus-escape-traffic-jam.json](./357384-bus-escape-traffic-jam.json) |
 | Bus Fix 2019 | 120179 | [120179-bus-fix-2019.json](./120179-bus-fix-2019.json) |
 | Bus Simulator | 130938 | [130938-bus-simulator.json](./130938-bus-simulator.json) |
 | Bus Simulator 16: Man Lion's City CNG Pack | 163355 | [163355-bus-simulator-16-man-lions-city-cng-pack.json](./163355-bus-simulator-16-man-lions-city-cng-pack.json) |
