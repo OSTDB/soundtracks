@@ -3586,6 +3586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Slider | 148955 | [148955-loot-slider.json](./148955-loot-slider.json) |
 | Loot Survivor | 392485 | [392485-loot-survivor.json](./392485-loot-survivor.json) |
 | Loot Survivors | 413098 | [413098-loot-survivors.json](./413098-loot-survivors.json) |
+| Loot The Game | 377752 | [377752-loot-the-game.json](./377752-loot-the-game.json) |
 | Loot Train | 166154 | [166154-loot-train.json](./166154-loot-train.json) |
 | Loot Tycoon | 379479 | [379479-loot-tycoon.json](./379479-loot-tycoon.json) |
 | Loot, Luck & Levels | 213481 | [213481-loot-luck-and-levels.json](./213481-loot-luck-and-levels.json) |
