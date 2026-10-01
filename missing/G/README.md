@@ -3782,6 +3782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graph TD: Cosmic | 395104 | [395104-graph-td-cosmic.json](./395104-graph-td-cosmic.json) |
 | Graphic Mahjong | 91959 | [91959-graphic-mahjong.json](./91959-graphic-mahjong.json) |
 | Graphic Tower Defense | 348767 | [348767-graphic-tower-defense.json](./348767-graphic-tower-defense.json) |
+| Graphite | 351161 | [351161-graphite.json](./351161-graphite.json) |
 | Graphomata | 288878 | [288878-graphomata.json](./288878-graphomata.json) |
 | GraphSpacer | 68637 | [68637-graphspacer.json](./68637-graphspacer.json) |
 | GraphSpacer Black | 80243 | [80243-graphspacer-black.json](./80243-graphspacer-black.json) |
