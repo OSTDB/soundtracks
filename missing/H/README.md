@@ -3224,6 +3224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Cats vs. Zombies 3 | 380609 | [380609-hidden-cats-vs-zombies-3.json](./380609-hidden-cats-vs-zombies-3.json) |
 | Hidden Cats: Castle | 412261 | [412261-hidden-cats-castle.json](./412261-hidden-cats-castle.json) |
 | Hidden Cats: Magic Forest | 277297 | [277297-hidden-cats-magic-forest.json](./277297-hidden-cats-magic-forest.json) |
+| Hidden Cats: Rome | 350572 | [350572-hidden-cats-rome.json](./350572-hidden-cats-rome.json) |
 | Hidden Cats: Zombie Hunter | 365284 | [365284-hidden-cats-zombie-hunter.json](./365284-hidden-cats-zombie-hunter.json) |
 | Hidden City Top-Down 3D | 267460 | [267460-hidden-city-top-down-3d.json](./267460-hidden-city-top-down-3d.json) |
 | Hidden Clues: Mystery Scene Challenge | 409532 | [409532-hidden-clues-mystery-scene-challenge.json](./409532-hidden-clues-mystery-scene-challenge.json) |
@@ -4518,6 +4519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai Impact 3rd: Equinox Gate | 276497 | [276497-honkai-impact-3rd-equinox-gate.json](./276497-honkai-impact-3rd-equinox-gate.json) |
 | Honkai Impact 3rd: Fading Dreams, Dimming Shadows | 309112 | [309112-honkai-impact-3rd-fading-dreams-dimming-shadows.json](./309112-honkai-impact-3rd-fading-dreams-dimming-shadows.json) |
 | Honkai Impact 3rd: Fēngyìn Zhī Jiàn | 361294 | [361294-honkai-impact-3rd-fengyin-zhi-jian.json](./361294-honkai-impact-3rd-fengyin-zhi-jian.json) |
+| Honkai Impact 3rd: Flickers of a Spacetime Warp | 350593 | [350593-honkai-impact-3rd-flickers-of-a-spacetime-warp.json](./350593-honkai-impact-3rd-flickers-of-a-spacetime-warp.json) |
 | Honkai Impact 3rd: For the Stars Shall Defy Fate | 362261 | [362261-honkai-impact-3rd-for-the-stars-shall-defy-fate.json](./362261-honkai-impact-3rd-for-the-stars-shall-defy-fate.json) |
 | Honkai Impact 3rd: Infinite Future | 276502 | [276502-honkai-impact-3rd-infinite-future.json](./276502-honkai-impact-3rd-infinite-future.json) |
 | Honkai Impact 3rd: Lives Flourish Where Feathers Fall | 408932 | [408932-honkai-impact-3rd-lives-flourish-where-feathers-fall.json](./408932-honkai-impact-3rd-lives-flourish-where-feathers-fall.json) |
