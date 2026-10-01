@@ -492,6 +492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falldown 3D | 254497 | [254497-falldown-3d.json](./254497-falldown-3d.json) |
 | Fallen | 171594 | [171594-fallen.json](./171594-fallen.json) |
 | Fallen | 26796 | [26796-fallen.json](./26796-fallen.json) |
+| Fallen | 374204 | [374204-fallen.json](./374204-fallen.json) |
 | Fallen Angel: Hell Survival | 258185 | [258185-fallen-angel-hell-survival.json](./258185-fallen-angel-hell-survival.json) |
 | Fallen Angel: The War in Heaven | 120883 | [120883-fallen-angel-the-war-in-heaven.json](./120883-fallen-angel-the-war-in-heaven.json) |
 | Fallen Angels | 275733 | [275733-fallen-angels.json](./275733-fallen-angels.json) |
@@ -4723,6 +4724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forlorn | 280804 | [280804-forlorn.json](./280804-forlorn.json) |
 | Forlorn Memories | 214761 | [214761-forlorn-memories.json](./214761-forlorn-memories.json) |
 | Forlorn Outcast | 260226 | [260226-forlorn-outcast.json](./260226-forlorn-outcast.json) |
+| Forlorn Screams of Agony Echoing Forevermore | 374233 | [374233-forlorn-screams-of-agony-echoing-forevermore.json](./374233-forlorn-screams-of-agony-echoing-forevermore.json) |
 | Form | 28446 | [28446-form.json](./28446-form.json) |
 | Form of a Legend | 132800 | [132800-form-of-a-legend.json](./132800-form-of-a-legend.json) |
 | Formaggio 2 | 327365 | [327365-formaggio-2.json](./327365-formaggio-2.json) |
