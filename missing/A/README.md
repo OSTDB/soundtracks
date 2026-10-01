@@ -1528,6 +1528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeronaut | 178522 | [178522-aeronaut.json](./178522-aeronaut.json) |
 | Aeronautica Imperialis: Flight Command | 132207 | [132207-aeronautica-imperialis-flight-command.json](./132207-aeronautica-imperialis-flight-command.json) |
 | Aeronautica Imperialis: Flight Command - Skulls Pack | 162754 | [162754-aeronautica-imperialis-flight-command-skulls-pack.json](./162754-aeronautica-imperialis-flight-command-skulls-pack.json) |
+| Aeropunx | 369180 | [369180-aeropunx.json](./369180-aeropunx.json) |
 | AeroSpace Engineering | 379494 | [379494-aerospace-engineering.json](./379494-aerospace-engineering.json) |
 | Aerospace Forces | 101387 | [101387-aerospace-forces.json](./101387-aerospace-forces.json) |
 | Aerostar | 7746 | [7746-aerostar.json](./7746-aerostar.json) |
@@ -1761,6 +1762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Emerald | 132173 | [132173-age-of-emerald.json](./132173-age-of-emerald.json) |
 | Age of Empires II Mobile | 144346 | [144346-age-of-empires-ii-mobile.json](./144346-age-of-empires-ii-mobile.json) |
 | Age of Empires II: Definitive Edition | 55056 | [55056-age-of-empires-ii-definitive-edition.json](./55056-age-of-empires-ii-definitive-edition.json) |
+| Age of Empires II: Definitive Edition - Chronicles: Alexander the Great | 369166 | [369166-age-of-empires-ii-definitive-edition-chronicles-alexander-the-great.json](./369166-age-of-empires-ii-definitive-edition-chronicles-alexander-the-great.json) |
 | Age of Empires II: Definitive Edition - Chronicles: Battle for Greece | 323348 | [323348-age-of-empires-ii-definitive-edition-chronicles-battle-for-greece.json](./323348-age-of-empires-ii-definitive-edition-chronicles-battle-for-greece.json) |
 | Age of Empires II: Definitive Edition - Dynasties of India | 197890 | [197890-age-of-empires-ii-definitive-edition-dynasties-of-india.json](./197890-age-of-empires-ii-definitive-edition-dynasties-of-india.json) |
 | Age of Empires II: Definitive Edition - The Last Chieftains | 386971 | [386971-age-of-empires-ii-definitive-edition-the-last-chieftains.json](./386971-age-of-empires-ii-definitive-edition-the-last-chieftains.json) |
@@ -3445,6 +3447,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amagami Chotto Omake Gekijou | 345602 | [345602-amagami-chotto-omake-gekijou.json](./345602-amagami-chotto-omake-gekijou.json) |
 | Amagami GS | 345603 | [345603-amagami-gs.json](./345603-amagami-gs.json) |
 | Amagi Shien | 45443 | [45443-amagi-shien.json](./45443-amagi-shien.json) |
+| Amaginu Kanojo: Side A | 369142 | [369142-amaginu-kanojo-side-a.json](./369142-amaginu-kanojo-side-a.json) |
+| Amaginu Kanojo: Side B | 369143 | [369143-amaginu-kanojo-side-b.json](./369143-amaginu-kanojo-side-b.json) |
 | Amagon | 8916 | [8916-amagon.json](./8916-amagon.json) |
 | Amairo Chocolate 3 | 381003 | [381003-amairo-chocolate-3.json](./381003-amairo-chocolate-3.json) |
 | Amakano | 374832 | [374832-amakano.json](./374832-amakano.json) |
