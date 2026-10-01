@@ -1858,6 +1858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinitum: The Backrooms Story | 258179 | [258179-infinitum-the-backrooms-story.json](./258179-infinitum-the-backrooms-story.json) |
 | Infinity | 13729 | [13729-infinity.json](./13729-infinity.json) |
 | Infinity | 313865 | [313865-infinity.json](./313865-infinity.json) |
+| Infinity | 382380 | [382380-infinity.json](./382380-infinity.json) |
 | Infinity Attackers | 120415 | [120415-infinity-attackers.json](./120415-infinity-attackers.json) |
 | Infinity BattleSoul | 188516 | [188516-infinity-battlesoul.json](./188516-infinity-battlesoul.json) |
 | Infinity Beats Song Edition | 87150 | [87150-infinity-beats-song-edition.json](./87150-infinity-beats-song-edition.json) |
@@ -1932,6 +1933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Informal Detective | 119661 | [119661-informal-detective.json](./119661-informal-detective.json) |
 | Informaticus | 343876 | [343876-informaticus.json](./343876-informaticus.json) |
 | Informe Zenteno | 322947 | [322947-informe-zenteno.json](./322947-informe-zenteno.json) |
+| Infra | 382369 | [382369-infra.json](./382369-infra.json) |
 | Infra: Underground | 255360 | [255360-infra-underground.json](./255360-infra-underground.json) |
 | Infraworld: Coma Moonlight | 256832 | [256832-infraworld-coma-moonlight.json](./256832-infraworld-coma-moonlight.json) |
 | Ingenious | 210038 | [210038-ingenious.json](./210038-ingenious.json) |
