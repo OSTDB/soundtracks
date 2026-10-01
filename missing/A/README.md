@@ -3457,6 +3457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alto's Adventure | 18130 | [18130-altos-adventure.json](./18130-altos-adventure.json) |
 | Alto's Odyssey | 26428 | [26428-altos-odyssey.json](./26428-altos-odyssey.json) |
 | Altruism | 147451 | [147451-altruism.json](./147451-altruism.json) |
+| Altruistic | 349453 | [349453-altruistic.json](./349453-altruistic.json) |
 | Altushka + | 368073 | [368073-altushka.json](./368073-altushka.json) |
 | Alty's Dinner | 390762 | [390762-altys-dinner.json](./390762-altys-dinner.json) |
 | Alucinod | 118422 | [118422-alucinod.json](./118422-alucinod.json) |
@@ -6566,6 +6567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artillery Duel | 12241 | [12241-artillery-duel.json](./12241-artillery-duel.json) |
 | Artillery Royale | 145532 | [145532-artillery-royale.json](./145532-artillery-royale.json) |
 | Artillery: Knights vs. Orcs | 84975 | [84975-artillery-knights-vs-orcs.json](./84975-artillery-knights-vs-orcs.json) |
+| Artis Impact: Meiji Spa | 349467 | [349467-artis-impact-meiji-spa.json](./349467-artis-impact-meiji-spa.json) |
 | Artisan | 190096 | [190096-artisan.json](./190096-artisan.json) |
 | Artisan Story | 260215 | [260215-artisan-story.json](./260215-artisan-story.json) |
 | Artist Colony | 23284 | [23284-artist-colony.json](./23284-artist-colony.json) |
@@ -6648,6 +6650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascending Madness | 96706 | [96706-ascending-madness.json](./96706-ascending-madness.json) |
 | Ascending Pinball | 26684 | [26684-ascending-pinball.json](./26684-ascending-pinball.json) |
 | Ascending: Dojo | 170523 | [170523-ascending-dojo.json](./170523-ascending-dojo.json) |
+| Ascendora | 349466 | [349466-ascendora.json](./349466-ascendora.json) |
 | Ascendshaft | 214060 | [214060-ascendshaft.json](./214060-ascendshaft.json) |
 | Ascension | 95408 | [95408-ascension.json](./95408-ascension.json) |
 | Ascension VR | 32106 | [32106-ascension-vr.json](./32106-ascension-vr.json) |
