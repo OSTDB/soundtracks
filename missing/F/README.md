@@ -953,6 +953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Girls | 310732 | [310732-fantasy-girls.json](./310732-fantasy-girls.json) |
 | Fantasy Gladiators | 148932 | [148932-fantasy-gladiators.json](./148932-fantasy-gladiators.json) |
 | Fantasy Grounds | 30234 | [30234-fantasy-grounds.json](./30234-fantasy-grounds.json) |
+| Fantasy Hearts | 345068 | [345068-fantasy-hearts.json](./345068-fantasy-hearts.json) |
 | Fantasy Hentai Quest | 210856 | [210856-fantasy-hentai-quest.json](./210856-fantasy-hentai-quest.json) |
 | Fantasy Hero Biography | 119561 | [119561-fantasy-hero-biography.json](./119561-fantasy-hero-biography.json) |
 | Fantasy Hero Manager | 118396 | [118396-fantasy-hero-manager.json](./118396-fantasy-hero-manager.json) |
@@ -1658,6 +1659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear & Hunger 2: Termina | 224262 | [224262-fear-and-hunger-2-termina.json](./224262-fear-and-hunger-2-termina.json) |
 | Fear & Hunger 3 | 324308 | [324308-fear-and-hunger-3.json](./324308-fear-and-hunger-3.json) |
 | Fear & Respect | 70423 | [70423-fear-and-respect.json](./70423-fear-and-respect.json) |
+| Fear Academy | 345079 | [345079-fear-academy.json](./345079-fear-academy.json) |
 | Fear Calibration | 303072 | [303072-fear-calibration.json](./303072-fear-calibration.json) |
 | Fear Effect | 320361 | [320361-fear-effect.json](./320361-fear-effect.json) |
 | Fear Effect: Reinvented | 55026 | [55026-fear-effect-reinvented.json](./55026-fear-effect-reinvented.json) |
