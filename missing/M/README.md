@@ -7959,6 +7959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morbidity: 2 | 271758 | [271758-morbidity-2.json](./271758-morbidity-2.json) |
 | Morbius Heardle | 203829 | [203829-morbius-heardle.json](./203829-morbius-heardle.json) |
 | Mordecai Saw Game | 385050 | [385050-mordecai-saw-game.json](./385050-mordecai-saw-game.json) |
+| Mordeny | 356804 | [356804-mordeny.json](./356804-mordeny.json) |
 | Mordeth | 316605 | [316605-mordeth.json](./316605-mordeth.json) |
 | Mordfield Command | 304874 | [304874-mordfield-command.json](./304874-mordfield-command.json) |
 | Mordhau | 27729 | [27729-mordhau.json](./27729-mordhau.json) |
@@ -8076,6 +8077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Fighter | 251837 | [251837-mortal-fighter.json](./251837-mortal-fighter.json) |
 | Mortal Glory | 119763 | [119763-mortal-glory.json](./119763-mortal-glory.json) |
 | Mortal Glory 2 | 235841 | [235841-mortal-glory-2.json](./235841-mortal-glory-2.json) |
+| Mortal Glory 2 + DLC | 356824 | [356824-mortal-glory-2-dlc.json](./356824-mortal-glory-2-dlc.json) |
 | Mortal Glory 2: Reign of Tyrants | 311996 | [311996-mortal-glory-2-reign-of-tyrants.json](./311996-mortal-glory-2-reign-of-tyrants.json) |
 | Mortal Hire | 295006 | [295006-mortal-hire.json](./295006-mortal-hire.json) |
 | Mortal Kombat | 198828 | [198828-mortal-kombat.json](./198828-mortal-kombat.json) |
@@ -8447,6 +8449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorcycle RPG | 196815 | [196815-motorcycle-rpg.json](./196815-motorcycle-rpg.json) |
 | Motorcycles: World Championship | 312113 | [312113-motorcycles-world-championship.json](./312113-motorcycles-world-championship.json) |
 | MotorGun | 63394 | [63394-motorgun.json](./63394-motorgun.json) |
+| Motorhome: Traveling America - Collector's Edition | 356772 | [356772-motorhome-traveling-america-collectors-edition.json](./356772-motorhome-traveling-america-collectors-edition.json) |
 | Motorhome: Traveling North America 2 - Collector's Edition | 377671 | [377671-motorhome-traveling-north-america-2-collectors-edition.json](./377671-motorhome-traveling-north-america-2-collectors-edition.json) |
 | Motorhome: Traveling North America 3 - Collector's Edition | 377672 | [377672-motorhome-traveling-north-america-3-collectors-edition.json](./377672-motorhome-traveling-north-america-3-collectors-edition.json) |
 | MotoRodeo | 40787 | [40787-motorodeo.json](./40787-motorodeo.json) |
@@ -10169,6 +10172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery of Mortlake Mansion | 65188 | [65188-mystery-of-mortlake-mansion.json](./65188-mystery-of-mortlake-mansion.json) |
 | Mystery of Munroe Manor | 298865 | [298865-mystery-of-munroe-manor.json](./298865-mystery-of-munroe-manor.json) |
 | Mystery of Myths: Heart of Athens - Collector's Edition | 337258 | [337258-mystery-of-myths-heart-of-athens-collectors-edition.json](./337258-mystery-of-myths-heart-of-athens-collectors-edition.json) |
+| Mystery of Myths: Mystery of the Fjords - Collector's Edition | 356775 | [356775-mystery-of-myths-mystery-of-the-fjords-collectors-edition.json](./356775-mystery-of-myths-mystery-of-the-fjords-collectors-edition.json) |
 | Mystery of the Ancients: Curse of the Black Water - Collector's Edition | 107837 | [107837-mystery-of-the-ancients-curse-of-the-black-water-collectors-edition.json](./107837-mystery-of-the-ancients-curse-of-the-black-water-collectors-edition.json) |
 | Mystery of the Ancients: Mudwater Creek | 74415 | [74415-mystery-of-the-ancients-mudwater-creek.json](./74415-mystery-of-the-ancients-mudwater-creek.json) |
 | Mystery of the Ancients: Three Guardians - Collector's Edition | 117133 | [117133-mystery-of-the-ancients-three-guardians-collectors-edition.json](./117133-mystery-of-the-ancients-three-guardians-collectors-edition.json) |
