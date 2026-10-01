@@ -3255,6 +3255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Lands | 343784 | [343784-hidden-lands.json](./343784-hidden-lands.json) |
 | Hidden Legacy: Dark Heirloom | 416709 | [416709-hidden-legacy-dark-heirloom.json](./416709-hidden-legacy-dark-heirloom.json) |
 | Hidden Legacy: Dark Heirloom - Collector's Edition | 360637 | [360637-hidden-legacy-dark-heirloom-collectors-edition.json](./360637-hidden-legacy-dark-heirloom-collectors-edition.json) |
+| Hidden Legends | 370817 | [370817-hidden-legends.json](./370817-hidden-legends.json) |
 | Hidden Map | 187369 | [187369-hidden-map.json](./187369-hidden-map.json) |
 | Hidden Memories | 345564 | [345564-hidden-memories.json](./345564-hidden-memories.json) |
 | Hidden Memories of a Bright Summer | 100608 | [100608-hidden-memories-of-a-bright-summer.json](./100608-hidden-memories-of-a-bright-summer.json) |
@@ -4144,6 +4145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollenburg: Hell Castle | 256259 | [256259-hollenburg-hell-castle.json](./256259-hollenburg-hell-castle.json) |
 | Höllische Nachbarn | 92979 | [92979-hollische-nachbarn.json](./92979-hollische-nachbarn.json) |
 | Hollow | 186257 | [186257-hollow.json](./186257-hollow.json) |
+| Hollow Ascent | 370840 | [370840-hollow-ascent.json](./370840-hollow-ascent.json) |
 | Hollow Bequest | 386714 | [386714-hollow-bequest.json](./386714-hollow-bequest.json) |
 | Hollow Bliss | 90569 | [90569-hollow-bliss.json](./90569-hollow-bliss.json) |
 | Hollow Cocoon | 255114 | [255114-hollow-cocoon.json](./255114-hollow-cocoon.json) |
