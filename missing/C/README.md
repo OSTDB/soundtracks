@@ -2701,6 +2701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos | 91395 | [91395-chaos.json](./91395-chaos.json) |
 | Chaos Academy | 208057 | [208057-chaos-academy.json](./208057-chaos-academy.json) |
 | Chaos Adventure | 281990 | [281990-chaos-adventure.json](./281990-chaos-adventure.json) |
+| Chaos Agents | 356774 | [356774-chaos-agents.json](./356774-chaos-agents.json) |
 | Chaos among Realms: Reborn The Game | 364649 | [364649-chaos-among-realms-reborn-the-game.json](./364649-chaos-among-realms-reborn-the-game.json) |
 | Chaos and the White Robot | 67927 | [67927-chaos-and-the-white-robot.json](./67927-chaos-and-the-white-robot.json) |
 | Chaos Arena | 174640 | [174640-chaos-arena.json](./174640-chaos-arena.json) |
@@ -4828,6 +4829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloak Hero | 258494 | [258494-cloak-hero.json](./258494-cloak-hero.json) |
 | Cloaked Protocol | 284977 | [284977-cloaked-protocol.json](./284977-cloaked-protocol.json) |
 | Cloaks and Capes | 148471 | [148471-cloaks-and-capes.json](./148471-cloaks-and-capes.json) |
+| Clobber Barons | 356800 | [356800-clobber-barons.json](./356800-clobber-barons.json) |
 | Clobbr | 62807 | [62807-clobbr.json](./62807-clobbr.json) |
 | Clock Game | 369210 | [369210-clock-game.json](./369210-clock-game.json) |
 | Clock Mayhem | 414580 | [414580-clock-mayhem.json](./414580-clock-mayhem.json) |
