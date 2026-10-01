@@ -369,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Normal Survey | 393794 | [393794-a-normal-survey.json](./393794-a-normal-survey.json) |
 | A Once Glorious City | 271725 | [271725-a-once-glorious-city.json](./271725-a-once-glorious-city.json) |
 | A Pair of Feathers Squawk Together | 311607 | [311607-a-pair-of-feathers-squawk-together.json](./311607-a-pair-of-feathers-squawk-together.json) |
+| A Paranormal Story | 335399 | [335399-a-paranormal-story.json](./335399-a-paranormal-story.json) |
 | A Park Full of Cats | 276198 | [276198-a-park-full-of-cats.json](./276198-a-park-full-of-cats.json) |
 | A Park Full of Cats: Haunted Ride | 276234 | [276234-a-park-full-of-cats-haunted-ride.json](./276234-a-park-full-of-cats-haunted-ride.json) |
 | A part of me | 294229 | [294229-a-part-of-me.json](./294229-a-part-of-me.json) |
@@ -7806,6 +7807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATV Quad Power Racing | 4142 | [4142-atv-quad-power-racing.json](./4142-atv-quad-power-racing.json) |
 | ATV Racers | 62261 | [62261-atv-racers.json](./62261-atv-racers.json) |
 | ATV Thunder Ridge Riders | 49369 | [49369-atv-thunder-ridge-riders.json](./49369-atv-thunder-ridge-riders.json) |
+| ATYI | 335512 | [335512-atyi.json](./335512-atyi.json) |
 | Atypian | 369046 | [369046-atypian.json](./369046-atypian.json) |
 | Au Pays des PooYoos: Activités d'Éveil | 408976 | [408976-au-pays-des-pooyoos-activites-deveil.json](./408976-au-pays-des-pooyoos-activites-deveil.json) |
 | Au Sable | 125855 | [125855-au-sable.json](./125855-au-sable.json) |
