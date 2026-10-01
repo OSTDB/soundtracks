@@ -435,6 +435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xordle | 197903 | [197903-xordle.json](./197903-xordle.json) |
 | Xorple | 86555 | [86555-xorple.json](./86555-xorple.json) |
 | XP Racing | 289880 | [289880-xp-racing.json](./289880-xp-racing.json) |
+| XP Slime | 369726 | [369726-xp-slime.json](./369726-xp-slime.json) |
 | XP8 | 15569 | [15569-xp8.json](./15569-xp8.json) |
 | Xpand Rally Xtreme | 9310 | [9310-xpand-rally-xtreme.json](./9310-xpand-rally-xtreme.json) |
 | XPilot | 142943 | [142943-xpilot.json](./142943-xpilot.json) |
