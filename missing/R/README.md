@@ -4936,6 +4936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roguesweeper | 389126 | [389126-roguesweeper.json](./389126-roguesweeper.json) |
 | RogueType | 221142 | [221142-roguetype.json](./221142-roguetype.json) |
 | RogueVerse | 120777 | [120777-rogueverse.json](./120777-rogueverse.json) |
+| RogueVirus | 372621 | [372621-roguevirus.json](./372621-roguevirus.json) |
 | Roguie | 382303 | [382303-roguie.json](./382303-roguie.json) |
 | Rogum: A Cat Match Puzzle | 386691 | [386691-rogum-a-cat-match-puzzle.json](./386691-rogum-a-cat-match-puzzle.json) |
 | Rogun Arena | 165046 | [165046-rogun-arena.json](./165046-rogun-arena.json) |
