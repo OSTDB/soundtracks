@@ -4245,6 +4245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shipwreck Escape | 152827 | [152827-shipwreck-escape.json](./152827-shipwreck-escape.json) |
 | Shipwrecked | 313859 | [313859-shipwrecked.json](./313859-shipwrecked.json) |
 | Shipwrecked 64 | 284041 | [284041-shipwrecked-64.json](./284041-shipwrecked-64.json) |
+| Shipwrecked Raft Survival | 347305 | [347305-shipwrecked-raft-survival.json](./347305-shipwrecked-raft-survival.json) |
 | Shipwrecked: A Quick Automation | 360651 | [360651-shipwrecked-a-quick-automation.json](./360651-shipwrecked-a-quick-automation.json) |
 | Shipwrecked: Lost Colony | 298166 | [298166-shipwrecked-lost-colony.json](./298166-shipwrecked-lost-colony.json) |
 | Shíqǔ Bǎoshí Hòu Yìwài Juéxǐngle Fùzhì Mówáng Lìliàng de Nì Tiān Jìnéng | 396491 | [396491-shiqu-baoshi-hou-yiwai-juexingle-fuzhi-mowang-liliang-de-ni-tian-jineng.json](./396491-shiqu-baoshi-hou-yiwai-juexingle-fuzhi-mowang-liliang-de-ni-tian-jineng.json) |
@@ -5917,6 +5918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skull and Bones: Season 2 - Chorus of Havoc | 303241 | [303241-skull-and-bones-season-2-chorus-of-havoc.json](./303241-skull-and-bones-season-2-chorus-of-havoc.json) |
 | Skull Dash | 272553 | [272553-skull-dash.json](./272553-skull-dash.json) |
 | Skull Golf: Creation in Decay | 181714 | [181714-skull-golf-creation-in-decay.json](./181714-skull-golf-creation-in-decay.json) |
+| Skull Hotel | 347285 | [347285-skull-hotel.json](./347285-skull-hotel.json) |
 | Skull Island: Rise of Kong | 257674 | [257674-skull-island-rise-of-kong.json](./257674-skull-island-rise-of-kong.json) |
 | Skull Island: Rise of Kong - Colossal Pack | 272584 | [272584-skull-island-rise-of-kong-colossal-pack.json](./272584-skull-island-rise-of-kong-colossal-pack.json) |
 | Skull Jones | 259664 | [259664-skull-jones.json](./259664-skull-jones.json) |
@@ -11134,6 +11136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squarepinski | 372994 | [372994-squarepinski.json](./372994-squarepinski.json) |
 | Squares | 101610 | [101610-squares.json](./101610-squares.json) |
 | Squares | 131454 | [131454-squares.json](./131454-squares.json) |
+| Squares | 347300 | [347300-squares.json](./347300-squares.json) |
 | Squares | 59961 | [59961-squares.json](./59961-squares.json) |
 | Squares | 86246 | [86246-squares.json](./86246-squares.json) |
 | Squares of Hell | 304612 | [304612-squares-of-hell.json](./304612-squares-of-hell.json) |
