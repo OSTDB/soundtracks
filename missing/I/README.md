@@ -2004,6 +2004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Initial Drift Online: Car Pack | 243067 | [243067-initial-drift-online-car-pack.json](./243067-initial-drift-online-car-pack.json) |
 | Initial Unity | 342282 | [342282-initial-unity.json](./342282-initial-unity.json) |
 | Initiating Station Plus | 374225 | [374225-initiating-station-plus.json](./374225-initiating-station-plus.json) |
+| Initium | 342793 | [342793-initium.json](./342793-initium.json) |
 | Initium Legenda | 192972 | [192972-initium-legenda.json](./192972-initium-legenda.json) |
 | Injection | 60044 | [60044-injection.json](./60044-injection.json) |
 | Injection π 23: No Name, No Number | 121486 | [121486-injection-23-no-name-no-number.json](./121486-injection-23-no-name-no-number.json) |
