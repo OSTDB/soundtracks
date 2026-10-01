@@ -621,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Innocence R: Limited Edition | 89870 | [89870-tales-of-innocence-r-limited-edition.json](./89870-tales-of-innocence-r-limited-edition.json) |
 | Tales of Isenberg | 375419 | [375419-tales-of-isenberg.json](./375419-tales-of-isenberg.json) |
 | Tales of Justice Academy: Winds Arise | 373177 | [373177-tales-of-justice-academy-winds-arise.json](./373177-tales-of-justice-academy-winds-arise.json) |
+| Tales of Kathay | 361259 | [361259-tales-of-kathay.json](./361259-tales-of-kathay.json) |
 | Tales of Klodan | 349328 | [349328-tales-of-klodan.json](./349328-tales-of-klodan.json) |
 | Tales of Lagoona: Orphans of the Ocean | 54424 | [54424-tales-of-lagoona-orphans-of-the-ocean.json](./54424-tales-of-lagoona-orphans-of-the-ocean.json) |
 | Tales of Legends IV: If | 55500 | [55500-tales-of-legends-iv-if.json](./55500-tales-of-legends-iv-if.json) |
@@ -715,6 +716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talesshop Puzzle: Jugeobeorin Byeorui Neokduri Deussi | 167859 | [167859-talesshop-puzzle-jugeobeorin-byeorui-neokduri-deussi.json](./167859-talesshop-puzzle-jugeobeorin-byeorui-neokduri-deussi.json) |
 | Talesshop Puzzle: Jugeobeorin Byeorui Neokduri Dummy | 167858 | [167858-talesshop-puzzle-jugeobeorin-byeorui-neokduri-dummy.json](./167858-talesshop-puzzle-jugeobeorin-byeorui-neokduri-dummy.json) |
 | TalesWeaver | 57117 | [57117-talesweaver.json](./57117-talesweaver.json) |
+| Talewarden: Riders of the New Day | 361248 | [361248-talewarden-riders-of-the-new-day.json](./361248-talewarden-riders-of-the-new-day.json) |
 | Talewind | 25307 | [25307-talewind.json](./25307-talewind.json) |
 | Talisman Online | 140560 | [140560-talisman-online.json](./140560-talisman-online.json) |
 | Talisman: Digital Edition - Apprentice Mage | 149053 | [149053-talisman-digital-edition-apprentice-mage.json](./149053-talisman-digital-edition-apprentice-mage.json) |
@@ -1313,6 +1315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tasokare Hotel: Tsubomi | 408273 | [408273-tasokare-hotel-tsubomi.json](./408273-tasokare-hotel-tsubomi.json) |
 | Tasomachi: Behind the Twilight | 121481 | [121481-tasomachi-behind-the-twilight.json](./121481-tasomachi-behind-the-twilight.json) |
 | Tass Times in Tonetown | 29031 | [29031-tass-times-in-tonetown.json](./29031-tass-times-in-tonetown.json) |
+| Taste of Blood | 361268 | [361268-taste-of-blood.json](./361268-taste-of-blood.json) |
 | Taste of Seduction | 212198 | [212198-taste-of-seduction.json](./212198-taste-of-seduction.json) |
 | Taste of the Wind | 366249 | [366249-taste-of-the-wind.json](./366249-taste-of-the-wind.json) |
 | Taste of War | 232929 | [232929-taste-of-war.json](./232929-taste-of-war.json) |
@@ -1833,6 +1836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temp Zero | 196258 | [196258-temp-zero.json](./196258-temp-zero.json) |
 | Tempaux | 354525 | [354525-tempaux.json](./354525-tempaux.json) |
 | Temperature Adjustment Log #1587325 | 186624 | [186624-temperature-adjustment-log-1587325.json](./186624-temperature-adjustment-log-1587325.json) |
+| Tempered Hue | 361260 | [361260-tempered-hue.json](./361260-tempered-hue.json) |
 | Tempest | 143034 | [143034-tempest.json](./143034-tempest.json) |
 | Tempest | 15383 | [15383-tempest.json](./15383-tempest.json) |
 | Tempest | 198939 | [198939-tempest.json](./198939-tempest.json) |
@@ -3709,6 +3713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crimson Maid | 279002 | [279002-the-crimson-maid.json](./279002-the-crimson-maid.json) |
 | The Crimson Serpent | 176807 | [176807-the-crimson-serpent.json](./176807-the-crimson-serpent.json) |
 | The Crisis Zone | 257117 | [257117-the-crisis-zone.json](./257117-the-crisis-zone.json) |
+| The Croaked Crown | 361265 | [361265-the-croaked-crown.json](./361265-the-croaked-crown.json) |
 | The Croaker: The Ice | 306058 | [306058-the-croaker-the-ice.json](./306058-the-croaker-the-ice.json) |
 | The Croods: Prehistoric Party and Rise of the Guardians Combo Pack | 79313 | [79313-the-croods-prehistoric-party-and-rise-of-the-guardians-combo-pack.json](./79313-the-croods-prehistoric-party-and-rise-of-the-guardians-combo-pack.json) |
 | The Croods: Prehistoric Party! | 25161 | [25161-the-croods-prehistoric-party.json](./25161-the-croods-prehistoric-party.json) |
@@ -8541,6 +8546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tourist Trap | 119088 | [119088-the-tourist-trap.json](./119088-the-tourist-trap.json) |
 | The Tournament of Zulula | 63383 | [63383-the-tournament-of-zulula.json](./63383-the-tournament-of-zulula.json) |
 | The Touryst | 121748 | [121748-the-touryst.json](./121748-the-touryst.json) |
+| The Tovanian Stones | 361249 | [361249-the-tovanian-stones.json](./361249-the-tovanian-stones.json) |
 | The Tower | 138180 | [138180-the-tower.json](./138180-the-tower.json) |
 | The Tower | 238604 | [238604-the-tower.json](./238604-the-tower.json) |
 | The Tower | 282089 | [282089-the-tower.json](./282089-the-tower.json) |
@@ -11890,6 +11896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo School Girl | 289940 | [289940-tokyo-school-girl.json](./289940-tokyo-school-girl.json) |
 | Tokyo Shadow | 209609 | [209609-tokyo-shadow.json](./209609-tokyo-shadow.json) |
 | Tokyo Tattoo Girls | 27260 | [27260-tokyo-tattoo-girls.json](./27260-tokyo-tattoo-girls.json) |
+| Tokyo Trigger | 361274 | [361274-tokyo-trigger.json](./361274-tokyo-trigger.json) |
 | Tokyo Underground Killer | 213420 | [213420-tokyo-underground-killer.json](./213420-tokyo-underground-killer.json) |
 | Tokyo Wall-gai | 220301 | [220301-tokyo-wall-gai.json](./220301-tokyo-wall-gai.json) |
 | Tokyo Walled City | 402258 | [402258-tokyo-walled-city.json](./402258-tokyo-walled-city.json) |
