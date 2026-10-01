@@ -1054,6 +1054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gather the Gems! | 100013 | [100013-gather-the-gems.json](./100013-gather-the-gems.json) |
 | Gathera | 405563 | [405563-gathera.json](./405563-gathera.json) |
 | Gathering Our Childhoods | 249756 | [249756-gathering-our-childhoods.json](./249756-gathering-our-childhoods.json) |
+| GatherX | 362937 | [362937-gatherx.json](./362937-gatherx.json) |
 | Gator Brigade | 321565 | [321565-gator-brigade.json](./321565-gator-brigade.json) |
 | Gator Parade | 123533 | [123533-gator-parade.json](./123533-gator-parade.json) |
 | Gaucho and the Grassland | 192368 | [192368-gaucho-and-the-grassland.json](./192368-gaucho-and-the-grassland.json) |
@@ -1061,6 +1062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gauge | 9837 | [9837-gauge.json](./9837-gauge.json) |
 | Gauge Guessr | 409727 | [409727-gauge-guessr.json](./409727-gauge-guessr.json) |
 | Gauley | 341327 | [341327-gauley.json](./341327-gauley.json) |
+| Gaung | 362998 | [362998-gaung.json](./362998-gaung.json) |
 | Gauntlet | 330890 | [330890-gauntlet.json](./330890-gauntlet.json) |
 | Gauntlet | 381045 | [381045-gauntlet.json](./381045-gauntlet.json) |
 | Gauntlet | 7293 | [7293-gauntlet.json](./7293-gauntlet.json) |
@@ -1183,6 +1185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gehirn Sport Sammlung | 81388 | [81388-gehirn-sport-sammlung.json](./81388-gehirn-sport-sammlung.json) |
 | Geisha | 12116 | [12116-geisha.json](./12116-geisha.json) |
 | Geist Force | 62131 | [62131-geist-force.json](./62131-geist-force.json) |
+| Geisterbahnhof | 362990 | [362990-geisterbahnhof.json](./362990-geisterbahnhof.json) |
 | Geki Kuukan Pro Baseball: At the End of the Century 1999 | 302700 | [302700-geki-kuukan-pro-baseball-at-the-end-of-the-century-1999.json](./302700-geki-kuukan-pro-baseball-at-the-end-of-the-century-1999.json) |
 | Geki Yaba Runner Habanero | 222389 | [222389-geki-yaba-runner-habanero.json](./222389-geki-yaba-runner-habanero.json) |
 | Gekiden Youitan: Ep.1 | 83244 | [83244-gekiden-youitan-ep-1.json](./83244-gekiden-youitan-ep-1.json) |
@@ -3833,6 +3836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravebound Dash | 402903 | [402903-gravebound-dash.json](./402903-gravebound-dash.json) |
 | GraveBoy CrowFeet: A Quest for Skulls | 405030 | [405030-graveboy-crowfeet-a-quest-for-skulls.json](./405030-graveboy-crowfeet-a-quest-for-skulls.json) |
 | Gravedigger | 94557 | [94557-gravedigger.json](./94557-gravedigger.json) |
+| Gravehearts | 362976 | [362976-gravehearts.json](./362976-gravehearts.json) |
 | Gravehold: Survival | 399136 | [399136-gravehold-survival.json](./399136-gravehold-survival.json) |
 | Gravel | 27514 | [27514-gravel.json](./27514-gravel.json) |
 | Gravel Gang | 243791 | [243791-gravel-gang.json](./243791-gravel-gang.json) |
