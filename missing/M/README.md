@@ -4360,6 +4360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mermaid Swamp | 287635 | [287635-mermaid-swamp.json](./287635-mermaid-swamp.json) |
 | Mermaid Tail | 302132 | [302132-mermaid-tail.json](./302132-mermaid-tail.json) |
 | Mermaidio 3 | 229077 | [229077-mermaidio-3.json](./229077-mermaidio-3.json) |
+| Mermaids Are Seafood | 381188 | [381188-mermaids-are-seafood.json](./381188-mermaids-are-seafood.json) |
 | Mermaids of Atlantis: The Riddle of the Magic Bubble | 48172 | [48172-mermaids-of-atlantis-the-riddle-of-the-magic-bubble.json](./48172-mermaids-of-atlantis-the-riddle-of-the-magic-bubble.json) |
 | Mermeows - Chill Cat Mermaids | 371459 | [371459-mermeows-chill-cat-mermaids.json](./371459-mermeows-chill-cat-mermaids.json) |
 | Merper VR | 75013 | [75013-merper-vr.json](./75013-merper-vr.json) |
@@ -6976,6 +6977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monarch: Medieval Remastered | 117134 | [117134-monarch-medieval-remastered.json](./117134-monarch-medieval-remastered.json) |
 | Monarch: The Butterfly King | 106734 | [106734-monarch-the-butterfly-king.json](./106734-monarch-the-butterfly-king.json) |
 | Monarch: The Tainted Kingdom | 410962 | [410962-monarch-the-tainted-kingdom.json](./410962-monarch-the-tainted-kingdom.json) |
+| Monarchs at Play | 381206 | [381206-monarchs-at-play.json](./381206-monarchs-at-play.json) |
 | Monari Station | 395567 | [395567-monari-station.json](./395567-monari-station.json) |
 | Monark: Limited Edition Box | 152340 | [152340-monark-limited-edition-box.json](./152340-monark-limited-edition-box.json) |
 | Monastery | 342174 | [342174-monastery.json](./342174-monastery.json) |
