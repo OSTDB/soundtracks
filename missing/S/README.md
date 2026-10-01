@@ -4123,6 +4123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiosai no Serenade: Episode 2 | 396562 | [396562-shiosai-no-serenade-episode-2.json](./396562-shiosai-no-serenade-episode-2.json) |
 | Shiosai no Serenade: Episode 3 | 396564 | [396564-shiosai-no-serenade-episode-3.json](./396564-shiosai-no-serenade-episode-3.json) |
 | Ship Adventure | 179185 | [179185-ship-adventure.json](./179185-ship-adventure.json) |
+| Ship Explorer: Bismarck | 377776 | [377776-ship-explorer-bismarck.json](./377776-ship-explorer-bismarck.json) |
 | Ship Fight | 113864 | [113864-ship-fight.json](./113864-ship-fight.json) |
 | Ship Fight! | 372129 | [372129-ship-fight.json](./372129-ship-fight.json) |
 | Ship Graveyard Simulator 2: Warships DLC | 277940 | [277940-ship-graveyard-simulator-2-warships-dlc.json](./277940-ship-graveyard-simulator-2-warships-dlc.json) |
@@ -8668,6 +8669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorry! I surrounded beauty! | 366288 | [366288-sorry-i-surrounded-beauty.json](./366288-sorry-i-surrounded-beauty.json) |
 | Sort and Stack | 108295 | [108295-sort-and-stack.json](./108295-sort-and-stack.json) |
 | Sort It! | 268528 | [268528-sort-it.json](./268528-sort-it.json) |
+| Sort Letters | 377769 | [377769-sort-letters.json](./377769-sort-letters.json) |
 | Sort of Justice: Chapter 1 | 335991 | [335991-sort-of-justice-chapter-1.json](./335991-sort-of-justice-chapter-1.json) |
 | Sort the Cube | 106392 | [106392-sort-the-cube.json](./106392-sort-the-cube.json) |
 | Sort the Socks | 87624 | [87624-sort-the-socks.json](./87624-sort-the-socks.json) |
@@ -15036,6 +15038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. in Crazy Castle | 323826 | [323826-super-mario-bros-in-crazy-castle.json](./323826-super-mario-bros-in-crazy-castle.json) |
 | Super Mario Bros. MM | 322779 | [322779-super-mario-bros-mm.json](./322779-super-mario-bros-mm.json) |
 | Super Mario Bros. Peach's Adventure | 142383 | [142383-super-mario-bros-peachs-adventure.json](./142383-super-mario-bros-peachs-adventure.json) |
+| Super Mario Bros. SNES | 377742 | [377742-super-mario-bros-snes.json](./377742-super-mario-bros-snes.json) |
 | Super Mario Bros. SNES Days | 321586 | [321586-super-mario-bros-snes-days.json](./321586-super-mario-bros-snes-days.json) |
 | Super Mario Bros. SNES Days 2 | 321585 | [321585-super-mario-bros-snes-days-2.json](./321585-super-mario-bros-snes-days-2.json) |
 | Super Mario Bros. Star Scramble 2: Ghost Island | 215251 | [215251-super-mario-bros-star-scramble-2-ghost-island.json](./215251-super-mario-bros-star-scramble-2-ghost-island.json) |
@@ -15086,6 +15089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Kart: 64 Reverse Remake | 198457 | [198457-super-mario-kart-64-reverse-remake.json](./198457-super-mario-kart-64-reverse-remake.json) |
 | Super Mario Kart: Double Dash Reverse Remake | 198453 | [198453-super-mario-kart-double-dash-reverse-remake.json](./198453-super-mario-kart-double-dash-reverse-remake.json) |
 | Super Mario Kart: F1 Tracks | 198446 | [198446-super-mario-kart-f1-tracks.json](./198446-super-mario-kart-f1-tracks.json) |
+| Super Mario Kart: Rumble Version | 377735 | [377735-super-mario-kart-rumble-version.json](./377735-super-mario-kart-rumble-version.json) |
 | Super Mario Kart: Super Circuit Demake | 198458 | [198458-super-mario-kart-super-circuit-demake.json](./198458-super-mario-kart-super-circuit-demake.json) |
 | Super Mario Kingdom | 318036 | [318036-super-mario-kingdom.json](./318036-super-mario-kingdom.json) |
 | Super Mario Land 2 DX | 173156 | [173156-super-mario-land-2-dx.json](./173156-super-mario-land-2-dx.json) |
@@ -15154,6 +15158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario World 2021 | 267933 | [267933-super-mario-world-2021.json](./267933-super-mario-world-2021.json) |
 | Super Mario World 64 | 230538 | [230538-super-mario-world-64.json](./230538-super-mario-world-64.json) |
 | Super Mario World Odyssey | 247185 | [247185-super-mario-world-odyssey.json](./247185-super-mario-world-odyssey.json) |
+| Super Mario World Rumbled | 377736 | [377736-super-mario-world-rumbled.json](./377736-super-mario-world-rumbled.json) |
 | Super Mario World The Pit Version | 267973 | [267973-super-mario-world-the-pit-version.json](./267973-super-mario-world-the-pit-version.json) |
 | Super Mario World Widescreen | 165069 | [165069-super-mario-world-widescreen.json](./165069-super-mario-world-widescreen.json) |
 | Super Mario World: 2025 | 365286 | [365286-super-mario-world-2025.json](./365286-super-mario-world-2025.json) |
@@ -15239,6 +15244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Metroid: Opposition | 255372 | [255372-super-metroid-opposition.json](./255372-super-metroid-opposition.json) |
 | Super Metroid: Redux | 188575 | [188575-super-metroid-redux.json](./188575-super-metroid-redux.json) |
 | Super Metroid: Rotation | 199009 | [199009-super-metroid-rotation.json](./199009-super-metroid-rotation.json) |
+| Super Metroid: Rumbled | 377737 | [377737-super-metroid-rumbled.json](./377737-super-metroid-rumbled.json) |
 | Super Metroid: Unhundred % | 223019 | [223019-super-metroid-unhundred.json](./223019-super-metroid-unhundred.json) |
 | Super Metroid: Y-Faster | 304133 | [304133-super-metroid-y-faster.json](./304133-super-metroid-y-faster.json) |
 | Super Miaoyin | 343816 | [343816-super-miaoyin.json](./343816-super-miaoyin.json) |
@@ -16271,6 +16277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Ben VR | 152219 | [152219-sushi-ben-vr.json](./152219-sushi-ben-vr.json) |
 | Sushi Cat | 87214 | [87214-sushi-cat.json](./87214-sushi-cat.json) |
 | Sushi Cat 2 | 323934 | [323934-sushi-cat-2.json](./323934-sushi-cat-2.json) |
+| Sushi Cat Storycraft World Creator | 377775 | [377775-sushi-cat-storycraft-world-creator.json](./377775-sushi-cat-storycraft-world-creator.json) |
 | Sushi Catapult | 320746 | [320746-sushi-catapult.json](./320746-sushi-catapult.json) |
 | Sushi for Robots | 177320 | [177320-sushi-for-robots.json](./177320-sushi-for-robots.json) |
 | Sushi girlfriend | 129718 | [129718-sushi-girlfriend.json](./129718-sushi-girlfriend.json) |
