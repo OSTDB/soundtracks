@@ -5198,6 +5198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roof Genocide | 193492 | [193492-roof-genocide.json](./193492-roof-genocide.json) |
 | Roof Jump Stunt Driver | 231054 | [231054-roof-jump-stunt-driver.json](./231054-roof-jump-stunt-driver.json) |
 | Roof Jumping: Stunt Driver Sim | 104087 | [104087-roof-jumping-stunt-driver-sim.json](./104087-roof-jumping-stunt-driver-sim.json) |
+| Roof Leak Hero | 385250 | [385250-roof-leak-hero.json](./385250-roof-leak-hero.json) |
 | Roof Rage | 77775 | [77775-roof-rage.json](./77775-roof-rage.json) |
 | Roofbot | 30897 | [30897-roofbot.json](./30897-roofbot.json) |
 | Roofbot: Puzzler on the Roof | 96729 | [96729-roofbot-puzzler-on-the-roof.json](./96729-roofbot-puzzler-on-the-roof.json) |
