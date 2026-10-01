@@ -1089,6 +1089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravenwood Drive | 311626 | [311626-ravenwood-drive.json](./311626-ravenwood-drive.json) |
 | Ravenwood Horror | 59916 | [59916-ravenwood-horror.json](./59916-ravenwood-horror.json) |
 | Raver Champions | 129589 | [129589-raver-champions.json](./129589-raver-champions.json) |
+| Raveren: The Legend Of Etheria | 378365 | [378365-raveren-the-legend-of-etheria.json](./378365-raveren-the-legend-of-etheria.json) |
 | Ravesta Racing | 127752 | [127752-ravesta-racing.json](./127752-ravesta-racing.json) |
 | Raving Mad | 93004 | [93004-raving-mad.json](./93004-raving-mad.json) |
 | Raving Rabbids Travel in Time Browser | 83902 | [83902-raving-rabbids-travel-in-time-browser.json](./83902-raving-rabbids-travel-in-time-browser.json) |
@@ -1579,6 +1580,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RealSports Volleyball | 18420 | [18420-realsports-volleyball.json](./18420-realsports-volleyball.json) |
 | Realtor | 273445 | [273445-realtor.json](./273445-realtor.json) |
 | Reanimal | 314265 | [314265-reanimal.json](./314265-reanimal.json) |
+| Reanimal: Collector's Edition | 378339 | [378339-reanimal-collectors-edition.json](./378339-reanimal-collectors-edition.json) |
+| Reanimal: Deluxe Edition | 378346 | [378346-reanimal-deluxe-edition.json](./378346-reanimal-deluxe-edition.json) |
+| Reanimal: Digital Deluxe Edition | 378343 | [378343-reanimal-digital-deluxe-edition.json](./378343-reanimal-digital-deluxe-edition.json) |
 | Reanimal: The Expanded World - Chapter 2 | 395672 | [395672-reanimal-the-expanded-world-chapter-2.json](./395672-reanimal-the-expanded-world-chapter-2.json) |
 | Reanimal: The Expanded World - Chapter 3 | 395673 | [395673-reanimal-the-expanded-world-chapter-3.json](./395673-reanimal-the-expanded-world-chapter-3.json) |
 | Reanimated | 274205 | [274205-reanimated.json](./274205-reanimated.json) |
@@ -2419,6 +2423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remnants of the Rift | 154369 | [154369-remnants-of-the-rift.json](./154369-remnants-of-the-rift.json) |
 | Remnants of Yore | 342654 | [342654-remnants-of-yore.json](./342654-remnants-of-yore.json) |
 | Remorse | 167606 | [167606-remorse.json](./167606-remorse.json) |
+| Remorse | 378391 | [378391-remorse.json](./378391-remorse.json) |
 | Remote Aphrodite | 404996 | [404996-remote-aphrodite.json](./404996-remote-aphrodite.json) |
 | Remote Control | 388921 | [388921-remote-control.json](./388921-remote-control.json) |
 | Remote Control Fun Airplanes | 104443 | [104443-remote-control-fun-airplanes.json](./104443-remote-control-fun-airplanes.json) |
@@ -3075,6 +3080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge of the Beefsteak Tomatoes | 22760 | [22760-revenge-of-the-beefsteak-tomatoes.json](./22760-revenge-of-the-beefsteak-tomatoes.json) |
 | Revenge Of The Colon | 279005 | [279005-revenge-of-the-colon.json](./279005-revenge-of-the-colon.json) |
 | Revenge of the Fallen | 123600 | [123600-revenge-of-the-fallen.json](./123600-revenge-of-the-fallen.json) |
+| Revenge of the Firstborn | 378336 | [378336-revenge-of-the-firstborn.json](./378336-revenge-of-the-firstborn.json) |
 | Revenge of the Gamer | 372685 | [372685-revenge-of-the-gamer.json](./372685-revenge-of-the-gamer.json) |
 | Revenge of the Mutant Camels | 40918 | [40918-revenge-of-the-mutant-camels.json](./40918-revenge-of-the-mutant-camels.json) |
 | Revenge of the Ronin | 277302 | [277302-revenge-of-the-ronin.json](./277302-revenge-of-the-ronin.json) |
