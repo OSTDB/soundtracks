@@ -765,6 +765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Paradise Train | 252990 | [252990-magical-paradise-train.json](./252990-magical-paradise-train.json) |
 | Magical Prisma | 130404 | [130404-magical-prisma.json](./130404-magical-prisma.json) |
 | Magical Psalter II: Féngmó zhī Tú | 394500 | [394500-magical-psalter-ii-fengmo-zhi-tu.json](./394500-magical-psalter-ii-fengmo-zhi-tu.json) |
+| Magical Runes | 368600 | [368600-magical-runes.json](./368600-magical-runes.json) |
 | Magical School Girls Battle Arena | 316643 | [316643-magical-school-girls-battle-arena.json](./316643-magical-school-girls-battle-arena.json) |
 | Magical Sound Car | 159359 | [159359-magical-sound-car.json](./159359-magical-sound-car.json) |
 | Magical Sports: 2001 Pro Yakyuu | 58511 | [58511-magical-sports-2001-pro-yakyuu.json](./58511-magical-sports-2001-pro-yakyuu.json) |
@@ -2056,6 +2057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marki Game Collection | 260243 | [260243-marki-game-collection.json](./260243-marki-game-collection.json) |
 | Marko | 19774 | [19774-marko.json](./19774-marko.json) |
 | Marko: Beyond Brave | 223167 | [223167-marko-beyond-brave.json](./223167-marko-beyond-brave.json) |
+| Marko's Magic Football | 368608 | [368608-markos-magic-football.json](./368608-markos-magic-football.json) |
 | Marksman Shooting | 245298 | [245298-marksman-shooting.json](./245298-marksman-shooting.json) |
 | MarksmanVR | 28878 | [28878-marksmanvr.json](./28878-marksmanvr.json) |
 | Marktopia | 365154 | [365154-marktopia.json](./365154-marktopia.json) |
@@ -4134,6 +4136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Of Psycho | 349505 | [349505-memory-of-psycho.json](./349505-memory-of-psycho.json) |
 | Memory of Time | 339123 | [339123-memory-of-time.json](./339123-memory-of-time.json) |
 | Memory Patches | 264660 | [264660-memory-patches.json](./264660-memory-patches.json) |
+| Memory Puzzle: Futanari Gym | 368623 | [368623-memory-puzzle-futanari-gym.json](./368623-memory-puzzle-futanari-gym.json) |
 | Memory Puzzle: Neko Girls | 286496 | [286496-memory-puzzle-neko-girls.json](./286496-memory-puzzle-neko-girls.json) |
 | Memory Quickie | 310754 | [310754-memory-quickie.json](./310754-memory-quickie.json) |
 | Memory Recoil | 338793 | [338793-memory-recoil.json](./338793-memory-recoil.json) |
