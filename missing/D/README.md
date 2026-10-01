@@ -910,6 +910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Wave | 104480 | [104480-dark-wave.json](./104480-dark-wave.json) |
 | Dark Wind: War on Wheels | 78069 | [78069-dark-wind-war-on-wheels.json](./78069-dark-wind-war-on-wheels.json) |
 | Dark Wish | 99011 | [99011-dark-wish.json](./99011-dark-wish.json) |
+| Dark Witch Connect | 381777 | [381777-dark-witch-connect.json](./381777-dark-witch-connect.json) |
 | Dark Witch Music Episode: Rudymical | 28520 | [28520-dark-witch-music-episode-rudymical.json](./28520-dark-witch-music-episode-rudymical.json) |
 | Dark Witch Music Episode: Rudymical | 323918 | [323918-dark-witch-music-episode-rudymical.json](./323918-dark-witch-music-episode-rudymical.json) |
 | Dark Wizard | 5374 | [5374-dark-wizard.json](./5374-dark-wizard.json) |
@@ -4455,6 +4456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Dash | 39827 | [39827-dirt-dash.json](./39827-dirt-dash.json) |
 | Dirt Moto Racing | 63840 | [63840-dirt-moto-racing.json](./63840-dirt-moto-racing.json) |
 | Dirt Racing 2 Sprint Car Game | 232161 | [232161-dirt-racing-2-sprint-car-game.json](./232161-dirt-racing-2-sprint-car-game.json) |
+| Dirt Racing Bundle 4 in 1 | 381798 | [381798-dirt-racing-bundle-4-in-1.json](./381798-dirt-racing-bundle-4-in-1.json) |
 | Dirt Racing Bundle Off Road & Truck | 409667 | [409667-dirt-racing-bundle-off-road-and-truck.json](./409667-dirt-racing-bundle-off-road-and-truck.json) |
 | Dirt Racing Mobile 3D | 101493 | [101493-dirt-racing-mobile-3d.json](./101493-dirt-racing-mobile-3d.json) |
 | Dirt Rally Driver HD | 116383 | [116383-dirt-rally-driver-hd.json](./116383-dirt-rally-driver-hd.json) |
@@ -8265,6 +8267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Delvers | 201671 | [201671-dungeon-delvers.json](./201671-dungeon-delvers.json) |
 | Dungeon Digger | 304001 | [304001-dungeon-digger.json](./304001-dungeon-digger.json) |
 | Dungeon Display | 159867 | [159867-dungeon-display.json](./159867-dungeon-display.json) |
+| Dungeon Divas | 381776 | [381776-dungeon-divas.json](./381776-dungeon-divas.json) |
 | Dungeon Dominator | 408778 | [408778-dungeon-dominator.json](./408778-dungeon-dominator.json) |
 | Dungeon Done | 311484 | [311484-dungeon-done.json](./311484-dungeon-done.json) |
 | Dungeon Drafters | 133810 | [133810-dungeon-drafters.json](./133810-dungeon-drafters.json) |
