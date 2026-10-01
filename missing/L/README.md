@@ -812,6 +812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laundromat Manager Simulator | 330929 | [330929-laundromat-manager-simulator.json](./330929-laundromat-manager-simulator.json) |
 | Laundry | 233991 | [233991-laundry.json](./233991-laundry.json) |
 | Laundry | 317025 | [317025-laundry.json](./317025-laundry.json) |
+| Laundry Boss Simulator | 360045 | [360045-laundry-boss-simulator.json](./360045-laundry-boss-simulator.json) |
 | Laundry Night | 304166 | [304166-laundry-night.json](./304166-laundry-night.json) |
 | Laundry Service Simulator | 326395 | [326395-laundry-service-simulator.json](./326395-laundry-service-simulator.json) |
 | Laundry Simulator | 326396 | [326396-laundry-simulator.json](./326396-laundry-simulator.json) |
@@ -2442,6 +2443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilly Knight and the Three Cities of Lust | 127999 | [127999-lilly-knight-and-the-three-cities-of-lust.json](./127999-lilly-knight-and-the-three-cities-of-lust.json) |
 | Lilly Monster | 195690 | [195690-lilly-monster.json](./195690-lilly-monster.json) |
 | Lilly's Rescue | 164908 | [164908-lillys-rescue.json](./164908-lillys-rescue.json) |
+| Lilly's Saga: The Stones of Evergreen | 360131 | [360131-lillys-saga-the-stones-of-evergreen.json](./360131-lillys-saga-the-stones-of-evergreen.json) |
 | Lillyann | 186186 | [186186-lillyann.json](./186186-lillyann.json) |
 | Lillysia | 235695 | [235695-lillysia.json](./235695-lillysia.json) |
 | Lilulu | 149412 | [149412-lilulu.json](./149412-lilulu.json) |
