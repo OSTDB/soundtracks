@@ -2395,6 +2395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masagoro | 153826 | [153826-masagoro.json](./153826-masagoro.json) |
 | Masala Drive | 263542 | [263542-masala-drive.json](./263542-masala-drive.json) |
 | Mascar | 394891 | [394891-mascar.json](./394891-mascar.json) |
+| Mascot Mayhem | 350004 | [350004-mascot-mayhem.json](./350004-mascot-mayhem.json) |
 | Masefeh | 378443 | [378443-masefeh.json](./378443-masefeh.json) |
 | Maseylia: Echoes of the Past | 302107 | [302107-maseylia-echoes-of-the-past.json](./302107-maseylia-echoes-of-the-past.json) |
 | Mash | 100606 | [100606-mash.json](./100606-mash.json) |
@@ -2472,6 +2473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Plus | 126576 | [126576-mass-plus.json](./126576-mass-plus.json) |
 | Mass Vector | 34260 | [34260-mass-vector.json](./34260-mass-vector.json) |
 | Massacre Tower | 161359 | [161359-massacre-tower.json](./161359-massacre-tower.json) |
+| MassEve | 350003 | [350003-masseve.json](./350003-masseve.json) |
 | Massira | 116369 | [116369-massira.json](./116369-massira.json) |
 | Massive Air Combat: Puzzles | 163423 | [163423-massive-air-combat-puzzles.json](./163423-massive-air-combat-puzzles.json) |
 | Massive Assault | 9378 | [9378-massive-assault.json](./9378-massive-assault.json) |
@@ -5694,6 +5696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Detective Psychology Test | 409539 | [409539-mind-detective-psychology-test.json](./409539-mind-detective-psychology-test.json) |
 | Mind Diver | 236519 | [236519-mind-diver.json](./236519-mind-diver.json) |
 | Mind Echoes: Remnants of the Past | 416705 | [416705-mind-echoes-remnants-of-the-past.json](./416705-mind-echoes-remnants-of-the-past.json) |
+| Mind Echoes: Remnants of the Past - Collector's Edition | 349977 | [349977-mind-echoes-remnants-of-the-past-collectors-edition.json](./349977-mind-echoes-remnants-of-the-past-collectors-edition.json) |
 | Mind Echoes: The Lost Mysteries - Collector's Edition | 338696 | [338696-mind-echoes-the-lost-mysteries-collectors-edition.json](./338696-mind-echoes-the-lost-mysteries-collectors-edition.json) |
 | Mind Games | 33393 | [33393-mind-games.json](./33393-mind-games.json) |
 | Mind Games | 81416 | [81416-mind-games.json](./81416-mind-games.json) |
@@ -8290,6 +8293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moses: Old Testament Adventure #1 | 100018 | [100018-moses-old-testament-adventure-1.json](./100018-moses-old-testament-adventure-1.json) |
 | Mosh Lift | 283798 | [283798-mosh-lift.json](./283798-mosh-lift.json) |
 | Mosh Pit Simulator | 109545 | [109545-mosh-pit-simulator.json](./109545-mosh-pit-simulator.json) |
+| Moshi Monsters | 349990 | [349990-moshi-monsters.json](./349990-moshi-monsters.json) |
 | Moshi Monsters: Buster's Lost Moshlings | 96897 | [96897-moshi-monsters-busters-lost-moshlings.json](./96897-moshi-monsters-busters-lost-moshlings.json) |
 | Moshi Monsters: Moshlings Theme Park | 47658 | [47658-moshi-monsters-moshlings-theme-park.json](./47658-moshi-monsters-moshlings-theme-park.json) |
 | Moshi Monsters: School of ROX | 230391 | [230391-moshi-monsters-school-of-rox.json](./230391-moshi-monsters-school-of-rox.json) |
