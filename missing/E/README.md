@@ -329,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ECH8 | 395554 | [395554-ech8.json](./395554-ech8.json) |
 | Echelon | 269106 | [269106-echelon.json](./269106-echelon.json) |
 | Echelon | 277845 | [277845-echelon.json](./277845-echelon.json) |
+| Echelon | 377781 | [377781-echelon.json](./377781-echelon.json) |
 | Echelon | 55093 | [55093-echelon.json](./55093-echelon.json) |
 | Echidna Wars DX | 382894 | [382894-echidna-wars-dx.json](./382894-echidna-wars-dx.json) |
 | Echo | 136715 | [136715-echo.json](./136715-echo.json) |
