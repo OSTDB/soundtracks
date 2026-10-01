@@ -1578,6 +1578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realms of Pixel | 333553 | [333553-realms-of-pixel.json](./333553-realms-of-pixel.json) |
 | Realms of Reverie | 358855 | [358855-realms-of-reverie.json](./358855-realms-of-reverie.json) |
 | Realms of Supremacy | 102191 | [102191-realms-of-supremacy.json](./102191-realms-of-supremacy.json) |
+| Realms of the Forgotten | 337776 | [337776-realms-of-the-forgotten.json](./337776-realms-of-the-forgotten.json) |
 | Realms of the Haunting | 844 | [844-realms-of-the-haunting.json](./844-realms-of-the-haunting.json) |
 | Realms of Wilorth | 250871 | [250871-realms-of-wilorth.json](./250871-realms-of-wilorth.json) |
 | Realms VR | 164241 | [164241-realms-vr.json](./164241-realms-vr.json) |
@@ -4884,6 +4885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Dice | 217027 | [217027-rogue-dice.json](./217027-rogue-dice.json) |
 | Rogue Doodle | 395195 | [395195-rogue-doodle.json](./395195-rogue-doodle.json) |
 | Rogue Drone | 107163 | [107163-rogue-drone.json](./107163-rogue-drone.json) |
+| Rogue Drone Hunter | 337759 | [337759-rogue-drone-hunter.json](./337759-rogue-drone-hunter.json) |
 | Rogue Dungeon | 188515 | [188515-rogue-dungeon.json](./188515-rogue-dungeon.json) |
 | Rogue Dungeons | 138581 | [138581-rogue-dungeons.json](./138581-rogue-dungeons.json) |
 | Rogue Earth | 197136 | [197136-rogue-earth.json](./197136-rogue-earth.json) |
@@ -5310,6 +5312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roofbot | 30897 | [30897-roofbot.json](./30897-roofbot.json) |
 | Roofbot: Puzzler on the Roof | 96729 | [96729-roofbot-puzzler-on-the-roof.json](./96729-roofbot-puzzler-on-the-roof.json) |
 | Rooftop | 229706 | [229706-rooftop.json](./229706-rooftop.json) |
+| Rooftop | 337768 | [337768-rooftop.json](./337768-rooftop.json) |
 | Rooftop Cop | 35696 | [35696-rooftop-cop.json](./35696-rooftop-cop.json) |
 | Rooftop Postgirl | 216756 | [216756-rooftop-postgirl.json](./216756-rooftop-postgirl.json) |
 | Rooftop Rascal: The Alien Cat | 393933 | [393933-rooftop-rascal-the-alien-cat.json](./393933-rooftop-rascal-the-alien-cat.json) |
