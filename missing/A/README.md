@@ -169,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Furry Tale: A night in Havena | 312673 | [312673-a-furry-tale-a-night-in-havena.json](./312673-a-furry-tale-a-night-in-havena.json) |
 | A Future With You | 364521 | [364521-a-future-with-you.json](./364521-a-future-with-you.json) |
 | A G-G-Ghost! | 311656 | [311656-a-g-g-ghost.json](./311656-a-g-g-ghost.json) |
+| A Game About a King Saving a Dragon | 384142 | [384142-a-game-about-a-king-saving-a-dragon.json](./384142-a-game-about-a-king-saving-a-dragon.json) |
 | A Game About Ants | 184916 | [184916-a-game-about-ants.json](./184916-a-game-about-ants.json) |
 | A Game About Bouncing DVD | 406321 | [406321-a-game-about-bouncing-dvd.json](./406321-a-game-about-bouncing-dvd.json) |
 | A Game About Chopping Trees | 403786 | [403786-a-game-about-chopping-trees.json](./403786-a-game-about-chopping-trees.json) |
@@ -562,6 +563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Wheel Without a View | 177319 | [177319-a-wheel-without-a-view.json](./177319-a-wheel-without-a-view.json) |
 | A Whisper in the Twilight: Chapter Two | 338298 | [338298-a-whisper-in-the-twilight-chapter-two.json](./338298-a-whisper-in-the-twilight-chapter-two.json) |
 | A white horse is not a horse | 192183 | [192183-a-white-horse-is-not-a-horse.json](./192183-a-white-horse-is-not-a-horse.json) |
+| A Whittle Tale | 384174 | [384174-a-whittle-tale.json](./384174-a-whittle-tale.json) |
 | A Whole Wolfrush | 329682 | [329682-a-whole-wolfrush.json](./329682-a-whole-wolfrush.json) |
 | A Wild Heist | 390106 | [390106-a-wild-heist.json](./390106-a-wild-heist.json) |
 | A Winding Path | 157709 | [157709-a-winding-path.json](./157709-a-winding-path.json) |
@@ -3865,6 +3867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anarchy Online: Lost Eden | 21390 | [21390-anarchy-online-lost-eden.json](./21390-anarchy-online-lost-eden.json) |
 | Anarchy Online: Shadowlands | 598 | [598-anarchy-online-shadowlands.json](./598-anarchy-online-shadowlands.json) |
 | Anarchy Park | 262655 | [262655-anarchy-park.json](./262655-anarchy-park.json) |
+| Anarchy Racer | 384135 | [384135-anarchy-racer.json](./384135-anarchy-racer.json) |
 | Anarchy Reigns: Bayonetta Pack | 246899 | [246899-anarchy-reigns-bayonetta-pack.json](./246899-anarchy-reigns-bayonetta-pack.json) |
 | Anarchy Reigns: Limited Edition | 44663 | [44663-anarchy-reigns-limited-edition.json](./44663-anarchy-reigns-limited-edition.json) |
 | Anarchy Zone | 15595 | [15595-anarchy-zone.json](./15595-anarchy-zone.json) |
@@ -6951,6 +6954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astonia 3 | 57661 | [57661-astonia-3.json](./57661-astonia-3.json) |
 | Astonia: The Return of Yendor | 129670 | [129670-astonia-the-return-of-yendor.json](./129670-astonia-the-return-of-yendor.json) |
 | Astonishia VS | 61577 | [61577-astonishia-vs.json](./61577-astonishia-vs.json) |
+| Astonishing | 384171 | [384171-astonishing.json](./384171-astonishing.json) |
 | Astonishing Baseball 20 | 133470 | [133470-astonishing-baseball-20.json](./133470-astonishing-baseball-20.json) |
 | Astonishing Baseball 2019 | 119695 | [119695-astonishing-baseball-2019.json](./119695-astonishing-baseball-2019.json) |
 | Astonishing Baseball 2019 for Windows | 125988 | [125988-astonishing-baseball-2019-for-windows.json](./125988-astonishing-baseball-2019-for-windows.json) |
