@@ -560,6 +560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Suck and I Hate You | 362413 | [362413-you-suck-and-i-hate-you.json](./362413-you-suck-and-i-hate-you.json) |
 | You Suck at Football | 363571 | [363571-you-suck-at-football.json](./363571-you-suck-at-football.json) |
 | You Suck at Parking | 138884 | [138884-you-suck-at-parking.json](./138884-you-suck-at-parking.json) |
+| You Sure Wanna Drink This? | 346699 | [346699-you-sure-wanna-drink-this.json](./346699-you-sure-wanna-drink-this.json) |
 | You vs. Boo | 307665 | [307665-you-vs-boo.json](./307665-you-vs-boo.json) |
 | You vs. Wild | 256863 | [256863-you-vs-wild.json](./256863-you-vs-wild.json) |
 | You vs. Wild: Out Cold | 256855 | [256855-you-vs-wild-out-cold.json](./256855-you-vs-wild-out-cold.json) |
