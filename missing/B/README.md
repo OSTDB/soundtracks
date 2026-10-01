@@ -2554,6 +2554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Monsters | 119003 | [119003-beat-monsters.json](./119003-beat-monsters.json) |
 | Beat MP3 for YouTube | 213380 | [213380-beat-mp3-for-youtube.json](./213380-beat-mp3-for-youtube.json) |
 | Beat Nebula | 25609 | [25609-beat-nebula.json](./25609-beat-nebula.json) |
+| Beat of Life | 347311 | [347311-beat-of-life.json](./347311-beat-of-life.json) |
 | Beat of Rebellion | 373532 | [373532-beat-of-rebellion.json](./373532-beat-of-rebellion.json) |
 | Beat or Die: The MiniGames | 127368 | [127368-beat-or-die-the-minigames.json](./127368-beat-or-die-the-minigames.json) |
 | Beat Planet Music | 98807 | [98807-beat-planet-music.json](./98807-beat-planet-music.json) |
@@ -5429,6 +5430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloom Barrage | 240206 | [240206-bloom-barrage.json](./240206-bloom-barrage.json) |
 | Bloom Blast | 392809 | [392809-bloom-blast.json](./392809-bloom-blast.json) |
 | Bloom for Me | 358327 | [358327-bloom-for-me.json](./358327-bloom-for-me.json) |
+| Bloom Paradise | 347310 | [347310-bloom-paradise.json](./347310-bloom-paradise.json) |
 | Bloom Runner | 258175 | [258175-bloom-runner.json](./258175-bloom-runner.json) |
 | Bloom: Memories | 61558 | [61558-bloom-memories.json](./61558-bloom-memories.json) |
 | Bloom: The Forest Burns | 132701 | [132701-bloom-the-forest-burns.json](./132701-bloom-the-forest-burns.json) |
@@ -6552,6 +6554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce Time! | 233240 | [233240-bounce-time.json](./233240-bounce-time.json) |
 | Bounce your Bullets! | 213310 | [213310-bounce-your-bullets.json](./213310-bounce-your-bullets.json) |
 | Bounce Zone | 84241 | [84241-bounce-zone.json](./84241-bounce-zone.json) |
+| Bounce, Swing, Slide!: 3 in 1 Bundle | 347309 | [347309-bounce-swing-slide-3-in-1-bundle.json](./347309-bounce-swing-slide-3-in-1-bundle.json) |
 | Bounce'n'Pounce | 377827 | [377827-bouncenpounce.json](./377827-bouncenpounce.json) |
 | Bounce95 | 382460 | [382460-bounce95.json](./382460-bounce95.json) |
 | Bounceables | 217548 | [217548-bounceables.json](./217548-bounceables.json) |
@@ -6985,6 +6988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bratz 4 Real | 213888 | [213888-bratz-4-real.json](./213888-bratz-4-real.json) |
 | Bratz Fashion Pixiez: The Secret Necklace | 213374 | [213374-bratz-fashion-pixiez-the-secret-necklace.json](./213374-bratz-fashion-pixiez-the-secret-necklace.json) |
 | Bratz Ponyz 2 | 94733 | [94733-bratz-ponyz-2.json](./94733-bratz-ponyz-2.json) |
+| Bratz Rhythm & Style | 347308 | [347308-bratz-rhythm-and-style.json](./347308-bratz-rhythm-and-style.json) |
 | Bratz: Flaunt Your Fashion - Pretty 'N' Punk Fashion Pack | 301569 | [301569-bratz-flaunt-your-fashion-pretty-n-punk-fashion-pack.json](./301569-bratz-flaunt-your-fashion-pretty-n-punk-fashion-pack.json) |
 | Bratz: Girlz Really Rock | 43248 | [43248-bratz-girlz-really-rock.json](./43248-bratz-girlz-really-rock.json) |
 | Bratz: The Movie | 248612 | [248612-bratz-the-movie.json](./248612-bratz-the-movie.json) |
@@ -7415,6 +7419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge Master | 94682 | [94682-bridge-master.json](./94682-bridge-master.json) |
 | Bridge Master with Terence Reese | 362444 | [362444-bridge-master-with-terence-reese.json](./362444-bridge-master-with-terence-reese.json) |
 | Bridge Race: Platinum Edition | 378956 | [378956-bridge-race-platinum-edition.json](./378956-bridge-race-platinum-edition.json) |
+| Bridge Race: Rush Edition | 347319 | [347319-bridge-race-rush-edition.json](./347319-bridge-race-rush-edition.json) |
 | Bridge Race: Silly Edition | 362376 | [362376-bridge-race-silly-edition.json](./362376-bridge-race-silly-edition.json) |
 | Bridge Strike | 124035 | [124035-bridge-strike.json](./124035-bridge-strike.json) |
 | Bridge to Another World Remastered: Burnt Dreams Collector's Edition | 362834 | [362834-bridge-to-another-world-remastered-burnt-dreams-collectors-edition.json](./362834-bridge-to-another-world-remastered-burnt-dreams-collectors-edition.json) |
@@ -7849,6 +7854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Trouble | 83918 | [83918-bubble-trouble.json](./83918-bubble-trouble.json) |
 | Bubble Trubble | 42829 | [42829-bubble-trubble.json](./42829-bubble-trubble.json) |
 | Bubble Truck | 235228 | [235228-bubble-truck.json](./235228-bubble-truck.json) |
+| Bubble Wizard III Saga | 347318 | [347318-bubble-wizard-iii-saga.json](./347318-bubble-wizard-iii-saga.json) |
 | Bubble Woods | 116447 | [116447-bubble-woods.json](./116447-bubble-woods.json) |
 | Bubble World | 127890 | [127890-bubble-world.json](./127890-bubble-world.json) |
 | Bubble Wrap DS | 215382 | [215382-bubble-wrap-ds.json](./215382-bubble-wrap-ds.json) |
@@ -7984,6 +7990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugboy | 329080 | [329080-bugboy.json](./329080-bugboy.json) |
 | BugBurgh | 305268 | [305268-bugburgh.json](./305268-bugburgh.json) |
 | Bugdas | 113721 | [113721-bugdas.json](./113721-bugdas.json) |
+| Bugdasu | 347301 | [347301-bugdasu.json](./347301-bugdasu.json) |
 | Bugged | 195115 | [195115-bugged.json](./195115-bugged.json) |
 | Bugged Out | 391880 | [391880-bugged-out.json](./391880-bugged-out.json) |
 | Bugger Off! | 278712 | [278712-bugger-off.json](./278712-bugger-off.json) |
