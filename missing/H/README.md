@@ -558,6 +558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hananezumi | 200742 | [200742-hananezumi.json](./200742-hananezumi.json) |
 | Hanano | 28828 | [28828-hanano.json](./28828-hanano.json) |
 | Hanapon Princess | 135790 | [135790-hanapon-princess.json](./135790-hanapon-princess.json) |
+| Hanarenga: Takumi no Utage | 338309 | [338309-hanarenga-takumi-no-utage.json](./338309-hanarenga-takumi-no-utage.json) |
 | Hanata-Kadaka!? | 59993 | [59993-hanata-kadaka.json](./59993-hanata-kadaka.json) |
 | Hanayaka Nari, Waga Ichizoku | 61640 | [61640-hanayaka-nari-waga-ichizoku.json](./61640-hanayaka-nari-waga-ichizoku.json) |
 | Hanctt Origins | 253455 | [253455-hanctt-origins.json](./253455-hanctt-origins.json) |
@@ -3004,6 +3005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex and Chill | 335365 | [335365-hex-and-chill.json](./335365-hex-and-chill.json) |
 | Hex Blast | 341604 | [341604-hex-blast.json](./341604-hex-blast.json) |
 | Hex Blocks Puzzle | 101754 | [101754-hex-blocks-puzzle.json](./101754-hex-blocks-puzzle.json) |
+| Hex Bots | 338313 | [338313-hex-bots.json](./338313-hex-bots.json) |
 | Hex For Hire | 182925 | [182925-hex-for-hire.json](./182925-hex-for-hire.json) |
 | Hex Gambit | 70704 | [70704-hex-gambit.json](./70704-hex-gambit.json) |
 | Hex Mahjong 3D | 200133 | [200133-hex-mahjong-3d.json](./200133-hex-mahjong-3d.json) |
@@ -5287,6 +5289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Sin | 189967 | [189967-house-of-sin.json](./189967-house-of-sin.json) |
 | House of Slender-Man | 64425 | [64425-house-of-slender-man.json](./64425-house-of-slender-man.json) |
 | House of Spikes | 271786 | [271786-house-of-spikes.json](./271786-house-of-spikes.json) |
+| House of Terror | 338328 | [338328-house-of-terror.json](./338328-house-of-terror.json) |
 | House of Terror VR | 23336 | [23336-house-of-terror-vr.json](./23336-house-of-terror-vr.json) |
 | House of the Golden Mask | 378175 | [378175-house-of-the-golden-mask.json](./378175-house-of-the-golden-mask.json) |
 | House of the Soul | 234198 | [234198-house-of-the-soul.json](./234198-house-of-the-soul.json) |
