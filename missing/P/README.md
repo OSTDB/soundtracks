@@ -248,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Packed to the Gills | 270788 | [270788-packed-to-the-gills.json](./270788-packed-to-the-gills.json) |
 | Packin' | 342180 | [342180-packin.json](./342180-packin.json) |
 | Packing House | 184475 | [184475-packing-house.json](./184475-packing-house.json) |
+| Packit List | 341601 | [341601-packit-list.json](./341601-packit-list.json) |
 | Packmates | 366231 | [366231-packmates.json](./366231-packmates.json) |
 | Packri Monster | 347688 | [347688-packri-monster.json](./347688-packri-monster.json) |
 | PacMac Deluxe | 146224 | [146224-pacmac-deluxe.json](./146224-pacmac-deluxe.json) |
@@ -353,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint My Cat - Color and Play | 96045 | [96045-paint-my-cat-color-and-play.json](./96045-paint-my-cat-color-and-play.json) |
 | Paint on Paint TD | 373193 | [373193-paint-on-paint-td.json](./373193-paint-on-paint-td.json) |
 | Paint Park Plus | 119585 | [119585-paint-park-plus.json](./119585-paint-park-plus.json) |
+| Paint Puzzle Quest | 341600 | [341600-paint-puzzle-quest.json](./341600-paint-puzzle-quest.json) |
 | Paint Rider | 179187 | [179187-paint-rider.json](./179187-paint-rider.json) |
 | Paint Rings | 290462 | [290462-paint-rings.json](./290462-paint-rings.json) |
 | Paint Royale | 220619 | [220619-paint-royale.json](./220619-paint-royale.json) |
@@ -3683,6 +3685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirated Code | 179612 | [179612-pirated-code.json](./179612-pirated-code.json) |
 | Pirated Code: Admin Edition | 212187 | [212187-pirated-code-admin-edition.json](./212187-pirated-code-admin-edition.json) |
 | Pirateer: High Seas | 253575 | [253575-pirateer-high-seas.json](./253575-pirateer-high-seas.json) |
+| PirateFi | 341610 | [341610-piratefi.json](./341610-piratefi.json) |
 | Piratepoly Gold: Caribbean Treasure | 218723 | [218723-piratepoly-gold-caribbean-treasure.json](./218723-piratepoly-gold-caribbean-treasure.json) |
 | Pirates | 197378 | [197378-pirates.json](./197378-pirates.json) |
 | Pirates Adventure Solitaire | 341574 | [341574-pirates-adventure-solitaire.json](./341574-pirates-adventure-solitaire.json) |
