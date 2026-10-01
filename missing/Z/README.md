@@ -488,6 +488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zhèngzōng Taiwan Shíliù Zhāng Mahjong | 149591 | [149591-zhengzong-taiwan-shiliu-zhang-mahjong.json](./149591-zhengzong-taiwan-shiliu-zhang-mahjong.json) |
 | Zhi Huan Wang: Shou Bu Qu | 321765 | [321765-zhi-huan-wang-shou-bu-qu.json](./321765-zhi-huan-wang-shou-bu-qu.json) |
 | Zhiel's Mystery | 237390 | [237390-zhiels-mystery.json](./237390-zhiels-mystery.json) |
+| Zhǐjiān Wèndào | 344512 | [344512-zhijian-wendao.json](./344512-zhijian-wendao.json) |
 | Zhījiāng Wǎngshì | 155549 | [155549-zhijiang-wangshi.json](./155549-zhijiang-wangshi.json) |
 | Zhījiāng Xiǎozhèn | 369570 | [369570-zhijiang-xiaozhen.json](./369570-zhijiang-xiaozhen.json) |
 | Zhǐshàngtánbīng Mónǐqì | 147359 | [147359-zhishangtanbing-moniqi.json](./147359-zhishangtanbing-moniqi.json) |
@@ -786,6 +787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Nightmare | 74448 | [74448-zombie-nightmare.json](./74448-zombie-nightmare.json) |
 | Zombie Ninja Confessional | 128652 | [128652-zombie-ninja-confessional.json](./128652-zombie-ninja-confessional.json) |
 | Zombie Office Politics | 34166 | [34166-zombie-office-politics.json](./34166-zombie-office-politics.json) |
+| Zombie Outbreak 1942 | 344485 | [344485-zombie-outbreak-1942.json](./344485-zombie-outbreak-1942.json) |
 | Zombie Outbreak 1943 | 362390 | [362390-zombie-outbreak-1943.json](./362390-zombie-outbreak-1943.json) |
 | Zombie Outbreak: Survival in Ancient Egyptian | 262326 | [262326-zombie-outbreak-survival-in-ancient-egyptian.json](./262326-zombie-outbreak-survival-in-ancient-egyptian.json) |
 | Zombie Panic in Wonderland Plus | 22320 | [22320-zombie-panic-in-wonderland-plus.json](./22320-zombie-panic-in-wonderland-plus.json) |
