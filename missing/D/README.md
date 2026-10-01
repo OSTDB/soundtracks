@@ -2802,6 +2802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deltarune: Hummer Jevil | 352215 | [352215-deltarune-hummer-jevil.json](./352215-deltarune-hummer-jevil.json) |
 | Deltarune: Internal Demons | 330253 | [330253-deltarune-internal-demons.json](./330253-deltarune-internal-demons.json) |
 | Deltarune: Master Mode | 336354 | [336354-deltarune-master-mode.json](./336354-deltarune-master-mode.json) |
+| Deltarune: Reimagined - Angelic Altercation | 351779 | [351779-deltarune-reimagined-angelic-altercation.json](./351779-deltarune-reimagined-angelic-altercation.json) |
 | Deltarune: Rouxls Kaard | 270732 | [270732-deltarune-rouxls-kaard.json](./270732-deltarune-rouxls-kaard.json) |
 | Deltarune: Survey Program | 397081 | [397081-deltarune-survey-program.json](./397081-deltarune-survey-program.json) |
 | Deltarune: The Upper Hand | 329669 | [329669-deltarune-the-upper-hand.json](./329669-deltarune-the-upper-hand.json) |
@@ -2825,6 +2826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delve Deeper | 16204 | [16204-delve-deeper.json](./16204-delve-deeper.json) |
 | Delve Deeper: Gratis Grottos | 26640 | [26640-delve-deeper-gratis-grottos.json](./26640-delve-deeper-gratis-grottos.json) |
 | Delve Deeper: Treasures and Tunnels | 171487 | [171487-delve-deeper-treasures-and-tunnels.json](./171487-delve-deeper-treasures-and-tunnels.json) |
+| Delve Survivors | 351789 | [351789-delve-survivors.json](./351789-delve-survivors.json) |
 | Delveborn | 364046 | [364046-delveborn.json](./364046-delveborn.json) |
 | Delven | 250357 | [250357-delven.json](./250357-delven.json) |
 | Delverun | 416683 | [416683-delverun.json](./416683-delverun.json) |
@@ -2927,6 +2929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Path: Tower of Armagor | 215904 | [215904-demon-path-tower-of-armagor.json](./215904-demon-path-tower-of-armagor.json) |
 | Demon Positive | 376657 | [376657-demon-positive.json](./376657-demon-positive.json) |
 | Demon Protocol | 417467 | [417467-demon-protocol.json](./417467-demon-protocol.json) |
+| Demon Raiders: Bloody Gems of Blood | 351788 | [351788-demon-raiders-bloody-gems-of-blood.json](./351788-demon-raiders-bloody-gems-of-blood.json) |
 | DeMon Researcher | 361797 | [361797-demon-researcher.json](./361797-demon-researcher.json) |
 | Demon robot runner | 89369 | [89369-demon-robot-runner.json](./89369-demon-robot-runner.json) |
 | Demon RPG | 299451 | [299451-demon-rpg.json](./299451-demon-rpg.json) |
@@ -3114,6 +3117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depth VR | 31098 | [31098-depth-vr.json](./31098-depth-vr.json) |
 | Depth: Aquatic Stealth | 79194 | [79194-depth-aquatic-stealth.json](./79194-depth-aquatic-stealth.json) |
 | Depth: Digital Deluxe Edition | 52889 | [52889-depth-digital-deluxe-edition.json](./52889-depth-digital-deluxe-edition.json) |
+| Depth:Origin | 351787 | [351787-depth-origin.json](./351787-depth-origin.json) |
 | Depthbound Descent | 403793 | [403793-depthbound-descent.json](./403793-depthbound-descent.json) |
 | DepthMera | 55511 | [55511-depthmera.json](./55511-depthmera.json) |
 | Depths Of Apollyon | 351123 | [351123-depths-of-apollyon.json](./351123-depths-of-apollyon.json) |
@@ -3992,6 +3996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die CD-ROM mit der Maus 2 | 250610 | [250610-die-cd-rom-mit-der-maus-2.json](./250610-die-cd-rom-mit-der-maus-2.json) |
 | Die CD-ROM mit der Maus 3 | 250611 | [250611-die-cd-rom-mit-der-maus-3.json](./250611-die-cd-rom-mit-der-maus-3.json) |
 | Die Cook | 277024 | [277024-die-cook.json](./277024-die-cook.json) |
+| Die Deep | 351786 | [351786-die-deep.json](./351786-die-deep.json) |
 | Die Die Die | 346218 | [346218-die-die-die.json](./346218-die-die-die.json) |
 | Die Die Die and Try | 195116 | [195116-die-die-die-and-try.json](./195116-die-die-die-and-try.json) |
 | Die DillyBillys | 398477 | [398477-die-dillybillys.json](./398477-die-dillybillys.json) |
@@ -4303,6 +4308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diner Dash | 85564 | [85564-diner-dash.json](./85564-diner-dash.json) |
 | Diner Dash 2: Restaurant Rescue | 78690 | [78690-diner-dash-2-restaurant-rescue.json](./78690-diner-dash-2-restaurant-rescue.json) |
 | Diner Dash Mobile | 104663 | [104663-diner-dash-mobile.json](./104663-diner-dash-mobile.json) |
+| Diner Dash Rush | 351764 | [351764-diner-dash-rush.json](./351764-diner-dash-rush.json) |
 | Diner Dash: Family Style | 366420 | [366420-diner-dash-family-style.json](./366420-diner-dash-family-style.json) |
 | Diner Dash: Hometown Hero | 16070 | [16070-diner-dash-hometown-hero.json](./16070-diner-dash-hometown-hero.json) |
 | Diner Mania | 34984 | [34984-diner-mania.json](./34984-diner-mania.json) |
