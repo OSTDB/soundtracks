@@ -593,6 +593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katou Hifumi Kudan Kanshuu Hifumin No Shogi Dojo | 136881 | [136881-katou-hifumi-kudan-kanshuu-hifumin-no-shogi-dojo.json](./136881-katou-hifumi-kudan-kanshuu-hifumin-no-shogi-dojo.json) |
 | Katou Hifumi Kudan no Shogi Kyoushitsu | 97858 | [97858-katou-hifumi-kudan-no-shogi-kyoushitsu.json](./97858-katou-hifumi-kudan-no-shogi-kyoushitsu.json) |
 | Katou Hifumi Kudan Shogi Club | 37742 | [37742-katou-hifumi-kudan-shogi-club.json](./37742-katou-hifumi-kudan-shogi-club.json) |
+| Kats Trigger | 372633 | [372633-kats-trigger.json](./372633-kats-trigger.json) |
 | KatsuobushiClicker | 401732 | [401732-katsuobushiclicker.json](./401732-katsuobushiclicker.json) |
 | Katte ni Shirokuma | 77407 | [77407-katte-ni-shirokuma.json](./77407-katte-ni-shirokuma.json) |
 | Kattespill | 177950 | [177950-kattespill.json](./177950-kattespill.json) |
