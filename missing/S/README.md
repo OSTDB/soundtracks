@@ -190,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sad Virus Foodland | 367389 | [367389-sad-virus-foodland.json](./367389-sad-virus-foodland.json) |
 | Sad Virus Land | 366318 | [366318-sad-virus-land.json](./366318-sad-virus-land.json) |
 | Sad Virus Military | 398324 | [398324-sad-virus-military.json](./398324-sad-virus-military.json) |
+| Sad Virus Runner | 369712 | [369712-sad-virus-runner.json](./369712-sad-virus-runner.json) |
 | Sad Virus Shitcoin | 387494 | [387494-sad-virus-shitcoin.json](./387494-sad-virus-shitcoin.json) |
 | Sad Virus Town | 365877 | [365877-sad-virus-town.json](./365877-sad-virus-town.json) |
 | Sadame | 19980 | [19980-sadame.json](./19980-sadame.json) |
@@ -3673,6 +3674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Legion | 180108 | [180108-shattered-legion.json](./180108-shattered-legion.json) |
 | Shattered Light | 73869 | [73869-shattered-light.json](./73869-shattered-light.json) |
 | Shattered Lights | 118800 | [118800-shattered-lights.json](./118800-shattered-lights.json) |
+| Shattered Minds: Masquerade | 369714 | [369714-shattered-minds-masquerade.json](./369714-shattered-minds-masquerade.json) |
 | Shattered Palace | 312902 | [312902-shattered-palace.json](./312902-shattered-palace.json) |
 | Shattered Paradise | 387019 | [387019-shattered-paradise.json](./387019-shattered-paradise.json) |
 | Shattered Pixel Dungeon | 130394 | [130394-shattered-pixel-dungeon.json](./130394-shattered-pixel-dungeon.json) |
@@ -12783,6 +12785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Still Not Dead | 41952 | [41952-still-not-dead.json](./41952-still-not-dead.json) |
 | Still Room: I Miss You | 396499 | [396499-still-room-i-miss-you.json](./396499-still-room-i-miss-you.json) |
 | Still Rooms | 415924 | [415924-still-rooms.json](./415924-still-rooms.json) |
+| Still Stars Echo | 369703 | [369703-still-stars-echo.json](./369703-still-stars-echo.json) |
 | Still Sword for Adult | 67258 | [67258-still-sword-for-adult.json](./67258-still-sword-for-adult.json) |
 | Still There | 119886 | [119886-still-there.json](./119886-still-there.json) |
 | Still Time | 69244 | [69244-still-time.json](./69244-still-time.json) |
@@ -15385,6 +15388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super NicoNico Kart | 198462 | [198462-super-niconico-kart.json](./198462-super-niconico-kart.json) |
 | Super Night at the Gates of Hell | 263538 | [263538-super-night-at-the-gates-of-hell.json](./263538-super-night-at-the-gates-of-hell.json) |
 | Super Night Riders S1 | 193196 | [193196-super-night-riders-s1.json](./193196-super-night-riders-s1.json) |
+| Super Nihon Cheating Cup 86' | 369691 | [369691-super-nihon-cheating-cup-86.json](./369691-super-nihon-cheating-cup-86.json) |
 | Super Ninja Boy | 42603 | [42603-super-ninja-boy.json](./42603-super-ninja-boy.json) |
 | Super Ninja Hero VR | 31164 | [31164-super-ninja-hero-vr.json](./31164-super-ninja-hero-vr.json) |
 | Super Ninja Meow Cat | 115165 | [115165-super-ninja-meow-cat.json](./115165-super-ninja-meow-cat.json) |
@@ -16066,6 +16070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supreme Commander 2 | 7201 | [7201-supreme-commander-2.json](./7201-supreme-commander-2.json) |
 | Supreme Duo | 227269 | [227269-supreme-duo.json](./227269-supreme-duo.json) |
 | Supreme Earth Champion | 73257 | [73257-supreme-earth-champion.json](./73257-supreme-earth-champion.json) |
+| Supreme Heroes | 369687 | [369687-supreme-heroes.json](./369687-supreme-heroes.json) |
 | Supreme Kung Fu | 339474 | [339474-supreme-kung-fu.json](./339474-supreme-kung-fu.json) |
 | Supreme Ruler 1936 | 16574 | [16574-supreme-ruler-1936.json](./16574-supreme-ruler-1936.json) |
 | Supreme Ruler 2020 | 2024 | [2024-supreme-ruler-2020.json](./2024-supreme-ruler-2020.json) |
@@ -16321,6 +16326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor Warrior-Vampire.io | 245342 | [245342-survivor-warrior-vampire-io.json](./245342-survivor-warrior-vampire-io.json) |
 | Survivor: Day One | 62737 | [62737-survivor-day-one.json](./62737-survivor-day-one.json) |
 | Survivor: Heroes | 85415 | [85415-survivor-heroes.json](./85415-survivor-heroes.json) |
+| Survivor: Spark | 369689 | [369689-survivor-spark.json](./369689-survivor-spark.json) |
 | Survivor: Stay in the Light | 232980 | [232980-survivor-stay-in-the-light.json](./232980-survivor-stay-in-the-light.json) |
 | Survivor! | 221149 | [221149-survivor.json](./221149-survivor.json) |
 | Survivor's Dawn | 319940 | [319940-survivors-dawn.json](./319940-survivors-dawn.json) |
@@ -16629,6 +16635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Spring Festival | 339441 | [339441-sweet-spring-festival.json](./339441-sweet-spring-festival.json) |
 | Sweet Starlight Sisters | 378897 | [378897-sweet-starlight-sisters.json](./378897-sweet-starlight-sisters.json) |
 | Sweet Story Neko | 371441 | [371441-sweet-story-neko.json](./371441-sweet-story-neko.json) |
+| Sweet Story Wet-Bottom Pie | 369675 | [369675-sweet-story-wet-bottom-pie.json](./369675-sweet-story-wet-bottom-pie.json) |
 | Sweet Succubus | 379532 | [379532-sweet-succubus.json](./379532-sweet-succubus.json) |
 | Sweet Summer | 339440 | [339440-sweet-summer.json](./339440-sweet-summer.json) |
 | Sweet Surge | 195196 | [195196-sweet-surge.json](./195196-sweet-surge.json) |
