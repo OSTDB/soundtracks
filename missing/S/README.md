@@ -1635,6 +1635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP Operations | 244720 | [244720-scp-operations.json](./244720-scp-operations.json) |
 | SCP RP | 405031 | [405031-scp-rp.json](./405031-scp-rp.json) |
 | SCP-002 | 316791 | [316791-scp-002.json](./316791-scp-002.json) |
+| SCP-015 | 352346 | [352346-scp-015.json](./352346-scp-015.json) |
 | SCP-087 | 241908 | [241908-scp-087.json](./241908-scp-087.json) |
 | SCP-087 | 336366 | [336366-scp-087.json](./336366-scp-087.json) |
 | SCP-087-B | 20204 | [20204-scp-087-b.json](./20204-scp-087-b.json) |
