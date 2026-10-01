@@ -7829,6 +7829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Audio Forager | 83963 | [83963-audio-forager.json](./83963-audio-forager.json) |
 | Audio Hero | 26831 | [26831-audio-hero.json](./26831-audio-hero.json) |
 | Audio Infection | 111669 | [111669-audio-infection.json](./111669-audio-infection.json) |
+| Audioglide | 334343 | [334343-audioglide.json](./334343-audioglide.json) |
 | AudioQuake | 208927 | [208927-audioquake.json](./208927-audioquake.json) |
 | Audioshield | 18981 | [18981-audioshield.json](./18981-audioshield.json) |
 | Audiospeed | 415896 | [415896-audiospeed.json](./415896-audiospeed.json) |
