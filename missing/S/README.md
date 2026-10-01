@@ -2530,6 +2530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sen no Inori no Paradox | 295928 | [295928-sen-no-inori-no-paradox.json](./295928-sen-no-inori-no-paradox.json) |
 | Senalux: Level Pack 3 | 168755 | [168755-senalux-level-pack-3.json](./168755-senalux-level-pack-3.json) |
 | Senalux: Level Pack 4 | 168756 | [168756-senalux-level-pack-4.json](./168756-senalux-level-pack-4.json) |
+| Send In The Vampires | 386344 | [386344-send-in-the-vampires.json](./386344-send-in-the-vampires.json) |
 | Send It: The Game | 277833 | [277833-send-it-the-game.json](./277833-send-it-the-game.json) |
 | Send You a Link | 229654 | [229654-send-you-a-link.json](./229654-send-you-a-link.json) |
 | Senda Salvaje | 272301 | [272301-senda-salvaje.json](./272301-senda-salvaje.json) |
@@ -6901,6 +6902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snails | 299126 | [299126-snails.json](./299126-snails.json) |
 | Snails | 35694 | [35694-snails.json](./35694-snails.json) |
 | Snails vs. Humans | 326076 | [326076-snails-vs-humans.json](./326076-snails-vs-humans.json) |
+| Snailshell | 386352 | [386352-snailshell.json](./386352-snailshell.json) |
 | Snake | 100202 | [100202-snake.json](./100202-snake.json) |
 | Snake | 125831 | [125831-snake.json](./125831-snake.json) |
 | Snake | 170467 | [170467-snake.json](./170467-snake.json) |
@@ -7047,6 +7049,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneak Ops | 106995 | [106995-sneak-ops.json](./106995-sneak-ops.json) |
 | Sneak Out | 253350 | [253350-sneak-out.json](./253350-sneak-out.json) |
 | Sneak Thief | 31931 | [31931-sneak-thief.json](./31931-sneak-thief.json) |
+| Sneak Thief - Prime Catch | 386341 | [386341-sneak-thief-prime-catch.json](./386341-sneak-thief-prime-catch.json) |
+| Sneak Thief 2: Second Strike | 386345 | [386345-sneak-thief-2-second-strike.json](./386345-sneak-thief-2-second-strike.json) |
+| Sneak Thief 3: Triple Trouble | 386349 | [386349-sneak-thief-3-triple-trouble.json](./386349-sneak-thief-3-triple-trouble.json) |
 | SneakBit | 326712 | [326712-sneakbit.json](./326712-sneakbit.json) |
 | Sneaker Store Simulator | 389965 | [389965-sneaker-store-simulator.json](./389965-sneaker-store-simulator.json) |
 | Sneakers | 6053 | [6053-sneakers.json](./6053-sneakers.json) |
@@ -9145,6 +9150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Fox Kimi and the Interstellar Fortress | 171589 | [171589-space-fox-kimi-and-the-interstellar-fortress.json](./171589-space-fox-kimi-and-the-interstellar-fortress.json) |
 | Space Fox Kimi: The Battle of Mochi Prime | 171563 | [171563-space-fox-kimi-the-battle-of-mochi-prime.json](./171563-space-fox-kimi-the-battle-of-mochi-prime.json) |
 | Space Freeks | 60060 | [60060-space-freeks.json](./60060-space-freeks.json) |
+| Space Frontier | 386380 | [386380-space-frontier.json](./386380-space-frontier.json) |
 | Space Funeral 2: of Rubies and Gold II - From Shadows We Rise | 360744 | [360744-space-funeral-2-of-rubies-and-gold-ii-from-shadows-we-rise.json](./360744-space-funeral-2-of-rubies-and-gold-ii-from-shadows-we-rise.json) |
 | Space Funeral 3: The Legend of Earth Birth | 127145 | [127145-space-funeral-3-the-legend-of-earth-birth.json](./127145-space-funeral-3-the-legend-of-earth-birth.json) |
 | Space Funeral: Of Rubies and Gold | 360743 | [360743-space-funeral-of-rubies-and-gold.json](./360743-space-funeral-of-rubies-and-gold.json) |
@@ -11309,6 +11315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Project | 32068 | [32068-star-project.json](./32068-star-project.json) |
 | Star Quest | 249861 | [249861-star-quest.json](./249861-star-quest.json) |
 | Star Quest 1 in the 27th Century | 14511 | [14511-star-quest-1-in-the-27th-century.json](./14511-star-quest-1-in-the-27th-century.json) |
+| Star Quiz Airline Two-Choice Universe | 386376 | [386376-star-quiz-airline-two-choice-universe.json](./386376-star-quiz-airline-two-choice-universe.json) |
 | Star Racer | 270085 | [270085-star-racer.json](./270085-star-racer.json) |
 | Star Rage VR | 68697 | [68697-star-rage-vr.json](./68697-star-rage-vr.json) |
 | Star Raiders | 2217 | [2217-star-raiders.json](./2217-star-raiders.json) |
@@ -14391,6 +14398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Cat Herding: Totally Awesome Edition | 33084 | [33084-super-cat-herding-totally-awesome-edition.json](./33084-super-cat-herding-totally-awesome-edition.json) |
 | Super Cat Tales | 96155 | [96155-super-cat-tales.json](./96155-super-cat-tales.json) |
 | Super Cat Tales: Paws | 250999 | [250999-super-cat-tales-paws.json](./250999-super-cat-tales-paws.json) |
+| Super Cat the Builder | 386332 | [386332-super-cat-the-builder.json](./386332-super-cat-the-builder.json) |
 | Super Cat Wars | 165551 | [165551-super-cat-wars.json](./165551-super-cat-wars.json) |
 | Super Cats | 111058 | [111058-super-cats.json](./111058-super-cats.json) |
 | Super Catscape | 116308 | [116308-super-catscape.json](./116308-super-catscape.json) |
@@ -16955,6 +16963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syrenka Racer | 255659 | [255659-syrenka-racer.json](./255659-syrenka-racer.json) |
 | Syrian Warfare: Return to Palmyra | 167798 | [167798-syrian-warfare-return-to-palmyra.json](./167798-syrian-warfare-return-to-palmyra.json) |
 | SyS KillMirror | 316616 | [316616-sys-killmirror.json](./316616-sys-killmirror.json) |
+| SYS: Save Your Soul | 386330 | [386330-sys-save-your-soul.json](./386330-sys-save-your-soul.json) |
 | Sys//Purge | 395041 | [395041-sys-purge.json](./395041-sys-purge.json) |
 | Sysop | 130950 | [130950-sysop.json](./130950-sysop.json) |
 | System City | 257403 | [257403-system-city.json](./257403-system-city.json) |
