@@ -1011,6 +1011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rat Racer | 127760 | [127760-rat-racer.json](./127760-rat-racer.json) |
 | Rat Raze / Road to Riches: Tilt Five | 341308 | [341308-rat-raze-road-to-riches-tilt-five.json](./341308-rat-raze-road-to-riches-tilt-five.json) |
 | Rat Simulator | 29405 | [29405-rat-simulator.json](./29405-rat-simulator.json) |
+| Rat Toy | 351197 | [351197-rat-toy.json](./351197-rat-toy.json) |
 | Rat vs. Cat | 242794 | [242794-rat-vs-cat.json](./242794-rat-vs-cat.json) |
 | Rat Wars Survivors | 281463 | [281463-rat-wars-survivors.json](./281463-rat-wars-survivors.json) |
 | Rat Wrap | 342769 | [342769-rat-wrap.json](./342769-rat-wrap.json) |
@@ -1051,6 +1052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratstronaut | 362912 | [362912-ratstronaut.json](./362912-ratstronaut.json) |
 | Ratten Reich: Dance of Kings | 149032 | [149032-ratten-reich-dance-of-kings.json](./149032-ratten-reich-dance-of-kings.json) |
 | Rattle Royale | 323705 | [323705-rattle-royale.json](./323705-rattle-royale.json) |
+| Rattus Velocitas | 351195 | [351195-rattus-velocitas.json](./351195-rattus-velocitas.json) |
 | Rattyivty Lab | 234559 | [234559-rattyivty-lab.json](./234559-rattyivty-lab.json) |
 | Ratyboy Adventures | 242657 | [242657-ratyboy-adventures.json](./242657-ratyboy-adventures.json) |
 | Ratz Instagib | 9193 | [9193-ratz-instagib.json](./9193-ratz-instagib.json) |
@@ -3668,6 +3670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift Survivors | 373199 | [373199-rift-survivors.json](./373199-rift-survivors.json) |
 | Rift Walker | 256905 | [256905-rift-walker.json](./256905-rift-walker.json) |
 | Rift Walker | 293677 | [293677-rift-walker.json](./293677-rift-walker.json) |
+| Rift War Tower Defense | 351185 | [351185-rift-war-tower-defense.json](./351185-rift-war-tower-defense.json) |
 | Rift Wizard 2 | 270936 | [270936-rift-wizard-2.json](./270936-rift-wizard-2.json) |
 | Rift Wizard 3 | 400404 | [400404-rift-wizard-3.json](./400404-rift-wizard-3.json) |
 | Rift World | 148550 | [148550-rift-world.json](./148550-rift-world.json) |
@@ -6023,6 +6026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Factory 5 | 115279 | [115279-rune-factory-5.json](./115279-rune-factory-5.json) |
 | Rune Factory 6 | 250924 | [250924-rune-factory-6.json](./250924-rune-factory-6.json) |
 | Rune Factory Frontier | 5132 | [5132-rune-factory-frontier.json](./5132-rune-factory-frontier.json) |
+| Rune Factory: Guardians of Azuma - Rune Factory 4 Bachelorette Outfit Bundle | 351193 | [351193-rune-factory-guardians-of-azuma-rune-factory-4-bachelorette-outfit-bundle.json](./351193-rune-factory-guardians-of-azuma-rune-factory-4-bachelorette-outfit-bundle.json) |
 | Rune Factory: Guardians of Azuma - Story of Seasons Bundle | 377761 | [377761-rune-factory-guardians-of-azuma-story-of-seasons-bundle.json](./377761-rune-factory-guardians-of-azuma-story-of-seasons-bundle.json) |
 | Rune Factory: Tides of Destiny | 5133 | [5133-rune-factory-tides-of-destiny.json](./5133-rune-factory-tides-of-destiny.json) |
 | Rune Girl | 118976 | [118976-rune-girl.json](./118976-rune-girl.json) |
