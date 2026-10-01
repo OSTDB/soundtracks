@@ -3290,6 +3290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Over the Twelve Lands | 305338 | [305338-shadow-over-the-twelve-lands.json](./305338-shadow-over-the-twelve-lands.json) |
 | Shadow Overlord: The Beginning | 272264 | [272264-shadow-overlord-the-beginning.json](./272264-shadow-overlord-the-beginning.json) |
 | Shadow Pride | 227367 | [227367-shadow-pride.json](./227367-shadow-pride.json) |
+| Shadow Protocol | 351750 | [351750-shadow-protocol.json](./351750-shadow-protocol.json) |
 | Shadow Puppet | 336687 | [336687-shadow-puppet.json](./336687-shadow-puppet.json) |
 | Shadow Quest | 188095 | [188095-shadow-quest.json](./188095-shadow-quest.json) |
 | Shadow Quest | 326959 | [326959-shadow-quest.json](./326959-shadow-quest.json) |
@@ -5045,6 +5046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Storm | 10844 | [10844-silent-storm.json](./10844-silent-storm.json) |
 | Silent Storm: Sentinels | 10845 | [10845-silent-storm-sentinels.json](./10845-silent-storm-sentinels.json) |
 | Silent Streets: The Mockingbird's Last Dive | 110290 | [110290-silent-streets-the-mockingbirds-last-dive.json](./110290-silent-streets-the-mockingbirds-last-dive.json) |
+| Silent Survivor: Under the Crisis | 351760 | [351760-silent-survivor-under-the-crisis.json](./351760-silent-survivor-under-the-crisis.json) |
 | Silent Threat | 311259 | [311259-silent-threat.json](./311259-silent-threat.json) |
 | Silent Thunder: A-10 Tank Killer II | 871 | [871-silent-thunder-a-10-tank-killer-ii.json](./871-silent-thunder-a-10-tank-killer-ii.json) |
 | Silent Tweets | 87987 | [87987-silent-tweets.json](./87987-silent-tweets.json) |
@@ -5170,6 +5172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimCity 4: Rush Hour | 18494 | [18494-simcity-4-rush-hour.json](./18494-simcity-4-rush-hour.json) |
 | SimCity BuildIt | 20053 | [20053-simcity-buildit.json](./20053-simcity-buildit.json) |
 | SimCity Creator | 343813 | [343813-simcity-creator.json](./343813-simcity-creator.json) |
+| SimCity Deluxe | 351165 | [351165-simcity-deluxe.json](./351165-simcity-deluxe.json) |
 | SimCity DS | 1494 | [1494-simcity-ds.json](./1494-simcity-ds.json) |
 | SimCity Graphics Set 1: Ancient Cities | 84170 | [84170-simcity-graphics-set-1-ancient-cities.json](./84170-simcity-graphics-set-1-ancient-cities.json) |
 | SimCity Graphics Set 2: Future Cities | 77969 | [77969-simcity-graphics-set-2-future-cities.json](./77969-simcity-graphics-set-2-future-cities.json) |
@@ -8283,6 +8286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Dash | 330299 | [330299-sonic-dash.json](./330299-sonic-dash.json) |
 | Sonic Dash 2: Sonic Boom | 38695 | [38695-sonic-dash-2-sonic-boom.json](./38695-sonic-dash-2-sonic-boom.json) |
 | Sonic Dash Quiz | 261292 | [261292-sonic-dash-quiz.json](./261292-sonic-dash-quiz.json) |
+| Sonic Dash: 3D Endless Runner | 351758 | [351758-sonic-dash-3d-endless-runner.json](./351758-sonic-dash-3d-endless-runner.json) |
 | Sonic Dash+ | 254488 | [254488-sonic-dash.json](./254488-sonic-dash.json) |
 | Sonic Daybreak | 370215 | [370215-sonic-daybreak.json](./370215-sonic-daybreak.json) |
 | Sonic Debut | 337169 | [337169-sonic-debut.json](./337169-sonic-debut.json) |
@@ -8492,6 +8496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Speed Blast | 330708 | [330708-sonic-speed-blast.json](./330708-sonic-speed-blast.json) |
 | Sonic Speed DX | 261281 | [261281-sonic-speed-dx.json](./261281-sonic-speed-dx.json) |
 | Sonic Speedfighters 2 | 332609 | [332609-sonic-speedfighters-2.json](./332609-sonic-speedfighters-2.json) |
+| Sonic Speedfreshed | 351190 | [351190-sonic-speedfreshed.json](./351190-sonic-speedfreshed.json) |
 | Sonic SpeedStars | 417667 | [417667-sonic-speedstars.json](./417667-sonic-speedstars.json) |
 | Sonic Spinball: Life Savers | 274722 | [274722-sonic-spinball-life-savers.json](./274722-sonic-spinball-life-savers.json) |
 | Sonic Stars | 331865 | [331865-sonic-stars.json](./331865-sonic-stars.json) |
@@ -13507,6 +13512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streetdance 3D | 9466 | [9466-streetdance-3d.json](./9466-streetdance-3d.json) |
 | Streetdog BMX | 280252 | [280252-streetdog-bmx.json](./280252-streetdog-bmx.json) |
 | Streetkix Freestyle | 52865 | [52865-streetkix-freestyle.json](./52865-streetkix-freestyle.json) |
+| Streets of Fear | 351754 | [351754-streets-of-fear.json](./351754-streets-of-fear.json) |
 | Streets of Fortuna | 305186 | [305186-streets-of-fortuna.json](./305186-streets-of-fortuna.json) |
 | Streets of Fury EX | 20151 | [20151-streets-of-fury-ex.json](./20151-streets-of-fury-ex.json) |
 | Streets of Gotham City | 272015 | [272015-streets-of-gotham-city.json](./272015-streets-of-gotham-city.json) |
