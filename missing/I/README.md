@@ -803,6 +803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Tick | 274043 | [274043-idle-tick.json](./274043-idle-tick.json) |
 | Idle Tides | 409814 | [409814-idle-tides.json](./409814-idle-tides.json) |
 | Idle Tiers | 369577 | [369577-idle-tiers.json](./369577-idle-tiers.json) |
+| Idle to Level 1000 | 359570 | [359570-idle-to-level-1000.json](./359570-idle-to-level-1000.json) |
 | Idle Tower Tycoon | 101522 | [101522-idle-tower-tycoon.json](./101522-idle-tower-tycoon.json) |
 | Idle Towers | 357844 | [357844-idle-towers.json](./357844-idle-towers.json) |
 | Idle Traffic Tycoon Game | 227263 | [227263-idle-traffic-tycoon-game.json](./227263-idle-traffic-tycoon-game.json) |
