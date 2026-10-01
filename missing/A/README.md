@@ -3190,6 +3190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Your Creeps | 65438 | [65438-all-your-creeps.json](./65438-all-your-creeps.json) |
 | All Zombies Must Die! | 9971 | [9971-all-zombies-must-die.json](./9971-all-zombies-must-die.json) |
 | All-American College Football | 205116 | [205116-all-american-college-football.json](./205116-all-american-college-football.json) |
+| All-front Assault | 344498 | [344498-all-front-assault.json](./344498-all-front-assault.json) |
 | All-in-One Mahjong 2 | 89225 | [89225-all-in-one-mahjong-2.json](./89225-all-in-one-mahjong-2.json) |
 | All-Mountain Hucker | 283908 | [283908-all-mountain-hucker.json](./283908-all-mountain-hucker.json) |
 | All-Pro Football 2K8 | 5481 | [5481-all-pro-football-2k8.json](./5481-all-pro-football-2k8.json) |
@@ -5242,6 +5243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Appel | 381201 | [381201-appel.json](./381201-appel.json) |
 | Apperception | 81733 | [81733-apperception.json](./81733-apperception.json) |
 | Appetit | 325662 | [325662-appetit.json](./325662-appetit.json) |
+| Appetité Amor | 344513 | [344513-appetite-amor.json](./344513-appetite-amor.json) |
 | Appetite for Detestation | 147482 | [147482-appetite-for-detestation.json](./147482-appetite-for-detestation.json) |
 | Appetite of the Abyss | 383562 | [383562-appetite-of-the-abyss.json](./383562-appetite-of-the-abyss.json) |
 | Apple | 346077 | [346077-apple.json](./346077-apple.json) |
@@ -6151,6 +6153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arindama | 378898 | [378898-arindama.json](./378898-arindama.json) |
 | Arinn | 261787 | [261787-arinn.json](./261787-arinn.json) |
 | Aripi | 158136 | [158136-aripi.json](./158136-aripi.json) |
+| Aris | 344428 | [344428-aris.json](./344428-aris.json) |
 | Arise | 362992 | [362992-arise.json](./362992-arise.json) |
 | Arise: A Simple Story | 122563 | [122563-arise-a-simple-story.json](./122563-arise-a-simple-story.json) |
 | Arise: A Simple Story - Definitive Edition | 199171 | [199171-arise-a-simple-story-definitive-edition.json](./199171-arise-a-simple-story-definitive-edition.json) |
