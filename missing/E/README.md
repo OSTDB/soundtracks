@@ -417,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Stella | 403011 | [403011-echoes-of-stella.json](./403011-echoes-of-stella.json) |
 | Echoes of the Abyss | 290524 | [290524-echoes-of-the-abyss.json](./290524-echoes-of-the-abyss.json) |
 | Echoes of The Backrooms | 303053 | [303053-echoes-of-the-backrooms.json](./303053-echoes-of-the-backrooms.json) |
+| Echoes of the Core | 365840 | [365840-echoes-of-the-core.json](./365840-echoes-of-the-core.json) |
 | Echoes of the Court | 366349 | [366349-echoes-of-the-court.json](./366349-echoes-of-the-court.json) |
 | Echoes of the Fey: The Last Sacrament | 102346 | [102346-echoes-of-the-fey-the-last-sacrament.json](./102346-echoes-of-the-fey-the-last-sacrament.json) |
 | Echoes of the Forgotten | 251006 | [251006-echoes-of-the-forgotten.json](./251006-echoes-of-the-forgotten.json) |
