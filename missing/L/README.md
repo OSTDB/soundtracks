@@ -722,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Survivors | 255964 | [255964-last-survivors.json](./255964-last-survivors.json) |
 | Last Term | 370870 | [370870-last-term.json](./370870-last-term.json) |
 | Last Term, First Love | 391734 | [391734-last-term-first-love.json](./391734-last-term-first-love.json) |
+| Last Throne | 364035 | [364035-last-throne.json](./364035-last-throne.json) |
 | Last Toon Standing | 72512 | [72512-last-toon-standing.json](./72512-last-toon-standing.json) |
 | Last Train Home | 131385 | [131385-last-train-home.json](./131385-last-train-home.json) |
 | Last Ultima | 269088 | [269088-last-ultima.json](./269088-last-ultima.json) |
