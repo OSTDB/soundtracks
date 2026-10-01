@@ -625,6 +625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawaii Force: Liberty Line | 397876 | [397876-kawaii-force-liberty-line.json](./397876-kawaii-force-liberty-line.json) |
 | Kawaii Girls | 334088 | [334088-kawaii-girls.json](./334088-kawaii-girls.json) |
 | Kawaii Girls: Busty Bear | 378810 | [378810-kawaii-girls-busty-bear.json](./378810-kawaii-girls-busty-bear.json) |
+| Kawaii Girls: Cute Cheerleader | 362962 | [362962-kawaii-girls-cute-cheerleader.json](./362962-kawaii-girls-cute-cheerleader.json) |
 | Kawaii Girls: Mighty Mongolian | 370815 | [370815-kawaii-girls-mighty-mongolian.json](./370815-kawaii-girls-mighty-mongolian.json) |
 | Kawaii Girls: Pretty Mermaid | 370814 | [370814-kawaii-girls-pretty-mermaid.json](./370814-kawaii-girls-pretty-mermaid.json) |
 | Kawaii Girls: Rural Romance | 364079 | [364079-kawaii-girls-rural-romance.json](./364079-kawaii-girls-rural-romance.json) |
