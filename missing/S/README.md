@@ -6858,6 +6858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smashpunks | 178088 | [178088-smashpunks.json](./178088-smashpunks.json) |
 | SmashThem | 28202 | [28202-smashthem.json](./28202-smashthem.json) |
 | Smashy Brick | 237324 | [237324-smashy-brick.json](./237324-smashy-brick.json) |
+| Smashy Cannon | 359532 | [359532-smashy-cannon.json](./359532-smashy-cannon.json) |
 | Smashy Road: Wanted 2 | 144196 | [144196-smashy-road-wanted-2.json](./144196-smashy-road-wanted-2.json) |
 | SMB RMX: Shattered Realms | 370902 | [370902-smb-rmx-shattered-realms.json](./370902-smb-rmx-shattered-realms.json) |
 | SMBX: Level Contest Japan | 359515 | [359515-smbx-level-contest-japan.json](./359515-smbx-level-contest-japan.json) |
@@ -10263,22 +10264,26 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider | 88429 | [88429-spider.json](./88429-spider.json) |
 | Spider Alley | 25079 | [25079-spider-alley.json](./25079-spider-alley.json) |
 | Spider and Web | 91916 | [91916-spider-and-web.json](./91916-spider-and-web.json) |
+| Spider Bike | 359463 | [359463-spider-bike.json](./359463-spider-bike.json) |
 | Spider Bounce | 263745 | [263745-spider-bounce.json](./263745-spider-bounce.json) |
 | Spider Canyon | 332990 | [332990-spider-canyon.json](./332990-spider-canyon.json) |
 | Spider Caro | 329106 | [329106-spider-caro.json](./329106-spider-caro.json) |
 | Spider Derby | 120370 | [120370-spider-derby.json](./120370-spider-derby.json) |
+| Spider Escape | 359464 | [359464-spider-escape.json](./359464-spider-escape.json) |
 | Spider Fear | 130914 | [130914-spider-fear.json](./130914-spider-fear.json) |
 | Spider Fighter | 18530 | [18530-spider-fighter.json](./18530-spider-fighter.json) |
 | Spider Fire | 181117 | [181117-spider-fire.json](./181117-spider-fire.json) |
 | Spider Fox | 254558 | [254558-spider-fox.json](./254558-spider-fox.json) |
 | Spider Inferno | 285460 | [285460-spider-inferno.json](./285460-spider-inferno.json) |
 | Spider Jack | 65478 | [65478-spider-jack.json](./65478-spider-jack.json) |
+| Spider Jet | 359465 | [359465-spider-jet.json](./359465-spider-jet.json) |
 | Spider Kong | 40737 | [40737-spider-kong.json](./40737-spider-kong.json) |
 | Spider Lander | 111723 | [111723-spider-lander.json](./111723-spider-lander.json) |
 | Spider Lily | 403806 | [403806-spider-lily.json](./403806-spider-lily.json) |
 | Spider Matrix | 408780 | [408780-spider-matrix.json](./408780-spider-matrix.json) |
 | Spider Maze | 363061 | [363061-spider-maze.json](./363061-spider-maze.json) |
 | Spider Ponds | 129571 | [129571-spider-ponds.json](./129571-spider-ponds.json) |
+| Spider Pong | 359466 | [359466-spider-pong.json](./359466-spider-pong.json) |
 | Spider Riders: Battle for Arachna | 316801 | [316801-spider-riders-battle-for-arachna.json](./316801-spider-riders-battle-for-arachna.json) |
 | Spider Roulette | 386694 | [386694-spider-roulette.json](./386694-spider-roulette.json) |
 | Spider Shooting Bee | 119793 | [119793-spider-shooting-bee.json](./119793-spider-shooting-bee.json) |
@@ -10286,6 +10291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Solitaire 2022 | 217792 | [217792-spider-solitaire-2022.json](./217792-spider-solitaire-2022.json) |
 | Spider Solitaire F | 109493 | [109493-spider-solitaire-f.json](./109493-spider-solitaire-f.json) |
 | Spider Solitaire Pro! | 89182 | [89182-spider-solitaire-pro.json](./89182-spider-solitaire-pro.json) |
+| Spider Sub | 359467 | [359467-spider-sub.json](./359467-spider-sub.json) |
 | Spider Tanks | 175785 | [175785-spider-tanks.json](./175785-spider-tanks.json) |
 | Spider Tanks: Cores of Chaos | 380592 | [380592-spider-tanks-cores-of-chaos.json](./380592-spider-tanks-cores-of-chaos.json) |
 | Spider Trouble | 199935 | [199935-spider-trouble.json](./199935-spider-trouble.json) |
@@ -11046,6 +11052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Head Zombies 2 - FPS Game | 99638 | [99638-square-head-zombies-2-fps-game.json](./99638-square-head-zombies-2-fps-game.json) |
 | Square It: An Electronic Game of Capture the Boxes | 217928 | [217928-square-it-an-electronic-game-of-capture-the-boxes.json](./217928-square-it-an-electronic-game-of-capture-the-boxes.json) |
 | Square Jump | 106377 | [106377-square-jump.json](./106377-square-jump.json) |
+| Square Love | 359554 | [359554-square-love.json](./359554-square-love.json) |
 | Square Massacre | 76526 | [76526-square-massacre.json](./76526-square-massacre.json) |
 | Square n Fair | 29862 | [29862-square-n-fair.json](./29862-square-n-fair.json) |
 | Square of Joy | 312733 | [312733-square-of-joy.json](./312733-square-of-joy.json) |
