@@ -1973,6 +1973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Level Up! | 95373 | [95373-level-up.json](./95373-level-up.json) |
 | Level Up! Factory | 298153 | [298153-level-up-factory.json](./298153-level-up-factory.json) |
 | Level Zero: Extraction | 223473 | [223473-level-zero-extraction.json](./223473-level-zero-extraction.json) |
+| Leveleers | 348378 | [348378-leveleers.json](./348378-leveleers.json) |
 | LevelMergePuzzle | 297652 | [297652-levelmergepuzzle.json](./297652-levelmergepuzzle.json) |
 | Levers! | 200195 | [200195-levers.json](./200195-levers.json) |
 | Levi no Slime Factory | 355189 | [355189-levi-no-slime-factory.json](./355189-levi-no-slime-factory.json) |
@@ -2108,6 +2109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lies as a Starting Point | 258507 | [258507-lies-as-a-starting-point.json](./258507-lies-as-a-starting-point.json) |
 | Lies Beneath | 133280 | [133280-lies-beneath.json](./133280-lies-beneath.json) |
 | Lies of Astaroth | 57975 | [57975-lies-of-astaroth.json](./57975-lies-of-astaroth.json) |
+| Lies of P: Overture Bundle | 348364 | [348364-lies-of-p-overture-bundle.json](./348364-lies-of-p-overture-bundle.json) |
 | Lies Under Ice | 148989 | [148989-lies-under-ice.json](./148989-lies-under-ice.json) |
 | Liese in the City of Trials | 358928 | [358928-liese-in-the-city-of-trials.json](./358928-liese-in-the-city-of-trials.json) |
 | Lieve Oma | 27648 | [27648-lieve-oma.json](./27648-lieve-oma.json) |
