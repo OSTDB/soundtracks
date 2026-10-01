@@ -4088,6 +4088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Door Museum | 177483 | [177483-the-door-museum.json](./177483-the-door-museum.json) |
 | The Door of Redemption | 148972 | [148972-the-door-of-redemption.json](./148972-the-door-of-redemption.json) |
 | The Door of thoughts | 212777 | [212777-the-door-of-thoughts.json](./212777-the-door-of-thoughts.json) |
+| The Door You Can Never Open | 360726 | [360726-the-door-you-can-never-open.json](./360726-the-door-you-can-never-open.json) |
 | The Door-Secret Neighbor | 96912 | [96912-the-door-secret-neighbor.json](./96912-the-door-secret-neighbor.json) |
 | The Doorbreaker | 74136 | [74136-the-doorbreaker.json](./74136-the-doorbreaker.json) |
 | The Doors That Led to Nowhere | 336604 | [336604-the-doors-that-led-to-nowhere.json](./336604-the-doors-that-led-to-nowhere.json) |
@@ -5458,6 +5459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Journal of Ambrose Brant | 401025 | [401025-the-journal-of-ambrose-brant.json](./401025-the-journal-of-ambrose-brant.json) |
 | The Journey | 118946 | [118946-the-journey.json](./118946-the-journey.json) |
 | The Journey Down: Chapter One | 9048 | [9048-the-journey-down-chapter-one.json](./9048-the-journey-down-chapter-one.json) |
+| The Journey East and West | 360686 | [360686-the-journey-east-and-west.json](./360686-the-journey-east-and-west.json) |
 | The Journey Home | 178529 | [178529-the-journey-home.json](./178529-the-journey-home.json) |
 | The Journey into the Virtual Void | 312167 | [312167-the-journey-into-the-virtual-void.json](./312167-the-journey-into-the-virtual-void.json) |
 | The Journey of Allen Strange: Match-Master | 273879 | [273879-the-journey-of-allen-strange-match-master.json](./273879-the-journey-of-allen-strange-match-master.json) |
@@ -11390,6 +11392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Toon Adventures: Buster's Hidden Treasure | 8049 | [8049-tiny-toon-adventures-busters-hidden-treasure.json](./8049-tiny-toon-adventures-busters-hidden-treasure.json) |
 | Tiny Toon Adventures: Defenders of the Universe | 206214 | [206214-tiny-toon-adventures-defenders-of-the-universe.json](./206214-tiny-toon-adventures-defenders-of-the-universe.json) |
 | Tiny Toon Adventures: Wacky Sports Challenge | 8051 | [8051-tiny-toon-adventures-wacky-sports-challenge.json](./8051-tiny-toon-adventures-wacky-sports-challenge.json) |
+| Tiny Tots | 360719 | [360719-tiny-tots.json](./360719-tiny-tots.json) |
 | Tiny Touchdown | 241058 | [241058-tiny-touchdown.json](./241058-tiny-touchdown.json) |
 | Tiny Town Mail | 202131 | [202131-tiny-town-mail.json](./202131-tiny-town-mail.json) |
 | Tiny Town VR | 51976 | [51976-tiny-town-vr.json](./51976-tiny-town-vr.json) |
@@ -12129,6 +12132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomboy Adventure 2 | 298096 | [298096-tomboy-adventure-2.json](./298096-tomboy-adventure-2.json) |
 | Tomboys Need Love Too! | 36470 | [36470-tomboys-need-love-too.json](./36470-tomboys-need-love-too.json) |
 | Tombs & Treasure | 215142 | [215142-tombs-and-treasure.json](./215142-tombs-and-treasure.json) |
+| Tombs & Trials | 360701 | [360701-tombs-and-trials.json](./360701-tombs-and-trials.json) |
 | Tombs of Reschette | 59678 | [59678-tombs-of-reschette.json](./59678-tombs-of-reschette.json) |
 | TombStar | 138867 | [138867-tombstar.json](./138867-tombstar.json) |
 | Tombstone Tally | 319361 | [319361-tombstone-tally.json](./319361-tombstone-tally.json) |
@@ -15667,6 +15671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twelve Sky 2 | 104129 | [104129-twelve-sky-2.json](./104129-twelve-sky-2.json) |
 | Twelve Sky M | 221390 | [221390-twelve-sky-m.json](./221390-twelve-sky-m.json) |
 | Twelve Sky2 World | 325269 | [325269-twelve-sky2-world.json](./325269-twelve-sky2-world.json) |
+| Twelves: Shadow | 360688 | [360688-twelves-shadow.json](./360688-twelves-shadow.json) |
 | Twenties Flappers vs. The Mummy | 269836 | [269836-twenties-flappers-vs-the-mummy.json](./269836-twenties-flappers-vs-the-mummy.json) |
 | Twenty | 59389 | [59389-twenty.json](./59389-twenty.json) |
 | Twenty One | 395559 | [395559-twenty-one.json](./395559-twenty-one.json) |
