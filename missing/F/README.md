@@ -1686,6 +1686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feast or Fracture | 274459 | [274459-feast-or-fracture.json](./274459-feast-or-fracture.json) |
 | Feast Your Eyes | 138580 | [138580-feast-your-eyes.json](./138580-feast-your-eyes.json) |
 | Feast: Book One - Family Ties | 137036 | [137036-feast-book-one-family-ties.json](./137036-feast-book-one-family-ties.json) |
+| Feastopia | 368626 | [368626-feastopia.json](./368626-feastopia.json) |
 | FeastTower | 277298 | [277298-feasttower.json](./277298-feasttower.json) |
 | Feather | 107222 | [107222-feather.json](./107222-feather.json) |
 | Feather of Praying | 102970 | [102970-feather-of-praying.json](./102970-feather-of-praying.json) |
