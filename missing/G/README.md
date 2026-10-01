@@ -4399,6 +4399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grime&Gold | 345554 | [345554-grime-and-gold.json](./345554-grime-and-gold.json) |
 | Grimgig Railway | 322156 | [322156-grimgig-railway.json](./322156-grimgig-railway.json) |
 | Grimgrad | 199612 | [199612-grimgrad.json](./199612-grimgrad.json) |
+| GrimGraves | 346206 | [346206-grimgraves.json](./346206-grimgraves.json) |
 | GrimGrimoire OnceMore | 197949 | [197949-grimgrimoire-oncemore.json](./197949-grimgrimoire-oncemore.json) |
 | GrimGrimoire OnceMore: Limited Edition | 283698 | [283698-grimgrimoire-oncemore-limited-edition.json](./283698-grimgrimoire-oncemore-limited-edition.json) |
 | Grimhook | 277334 | [277334-grimhook.json](./277334-grimhook.json) |
