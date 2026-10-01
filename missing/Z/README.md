@@ -958,6 +958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZombLabs | 31891 | [31891-zomblabs.json](./31891-zomblabs.json) |
 | ZombMe | 343795 | [343795-zombme.json](./343795-zombme.json) |
 | Zombnami | 308921 | [308921-zombnami.json](./308921-zombnami.json) |
+| Zomboard | 336055 | [336055-zomboard.json](./336055-zomboard.json) |
 | Zombobox: Bredo Story | 405602 | [405602-zombobox-bredo-story.json](./405602-zombobox-bredo-story.json) |
 | Zombocalypse | 345559 | [345559-zombocalypse.json](./345559-zombocalypse.json) |
 | Zombodrive | 192826 | [192826-zombodrive.json](./192826-zombodrive.json) |
