@@ -3674,6 +3674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fling! | 343986 | [343986-fling.json](./343986-fling.json) |
 | Flingin' Poo | 394475 | [394475-flingin-poo.json](./394475-flingin-poo.json) |
 | Flint | 368493 | [368493-flint.json](./368493-flint.json) |
+| Flint | 369680 | [369680-flint.json](./369680-flint.json) |
 | Flint and Charlie | 19957 | [19957-flint-and-charlie.json](./19957-flint-and-charlie.json) |
 | Flint: Treasure of Oblivion | 295635 | [295635-flint-treasure-of-oblivion.json](./295635-flint-treasure-of-oblivion.json) |
 | Flintlock: The Siege of Dawn - Deluxe Edition | 305332 | [305332-flintlock-the-siege-of-dawn-deluxe-edition.json](./305332-flintlock-the-siege-of-dawn-deluxe-edition.json) |
@@ -3816,6 +3817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flood | 12104 | [12104-flood.json](./12104-flood.json) |
 | Flood | 320187 | [320187-flood.json](./320187-flood.json) |
 | Flood Descendance | 355024 | [355024-flood-descendance.json](./355024-flood-descendance.json) |
+| Flood Escape | 369683 | [369683-flood-escape.json](./369683-flood-escape.json) |
 | Flood Escape 64 | 243112 | [243112-flood-escape-64.json](./243112-flood-escape-64.json) |
 | Flood Fighting Hero | 165019 | [165019-flood-fighting-hero.json](./165019-flood-fighting-hero.json) |
 | Flood the Chamber | 242813 | [242813-flood-the-chamber.json](./242813-flood-the-chamber.json) |
@@ -4940,6 +4942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune Cookie | 340238 | [340238-fortune-cookie.json](./340238-fortune-cookie.json) |
 | Fortune Cookie | 59928 | [59928-fortune-cookie.json](./59928-fortune-cookie.json) |
 | Fortune Cookie: More Cookies | 340239 | [340239-fortune-cookie-more-cookies.json](./340239-fortune-cookie-more-cookies.json) |
+| Fortune Crafter | 369711 | [369711-fortune-crafter.json](./369711-fortune-crafter.json) |
 | Fortune Decker | 270743 | [270743-fortune-decker.json](./270743-fortune-decker.json) |
 | Fortune Factory | 413873 | [413873-fortune-factory.json](./413873-fortune-factory.json) |
 | Fortune Fragments | 391788 | [391788-fortune-fragments.json](./391788-fortune-fragments.json) |
