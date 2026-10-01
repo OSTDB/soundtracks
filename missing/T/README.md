@@ -3963,6 +3963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Desire of the Amazons | 272279 | [272279-the-desire-of-the-amazons.json](./272279-the-desire-of-the-amazons.json) |
 | The Desperate Flight of Hand Solo | 293923 | [293923-the-desperate-flight-of-hand-solo.json](./293923-the-desperate-flight-of-hand-solo.json) |
 | The Destiny Star of Girlfriend: Episode of Fujiko | 305322 | [305322-the-destiny-star-of-girlfriend-episode-of-fujiko.json](./305322-the-destiny-star-of-girlfriend-episode-of-fujiko.json) |
+| The Destroyer from Jail | 378377 | [378377-the-destroyer-from-jail.json](./378377-the-destroyer-from-jail.json) |
 | The Detail: Episode 2 - From the Ashes | 171455 | [171455-the-detail-episode-2-from-the-ashes.json](./171455-the-detail-episode-2-from-the-ashes.json) |
 | The Detail: Episode 3 - Devil in the Detail | 171613 | [171613-the-detail-episode-3-devil-in-the-detail.json](./171613-the-detail-episode-3-devil-in-the-detail.json) |
 | The Detective | 275700 | [275700-the-detective.json](./275700-the-detective.json) |
@@ -4105,6 +4106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dungeon Experience | 113668 | [113668-the-dungeon-experience.json](./113668-the-dungeon-experience.json) |
 | The Dungeon of Destiny | 74399 | [74399-the-dungeon-of-destiny.json](./74399-the-dungeon-of-destiny.json) |
 | The Dungeon of Doom | 229374 | [229374-the-dungeon-of-doom.json](./229374-the-dungeon-of-doom.json) |
+| The Dungeon Of Horror | 378382 | [378382-the-dungeon-of-horror.json](./378382-the-dungeon-of-horror.json) |
 | The Dungeon of Lulu Farea | 113800 | [113800-the-dungeon-of-lulu-farea.json](./113800-the-dungeon-of-lulu-farea.json) |
 | The Dungeon of Lulu Farea: Rebirth | 410948 | [410948-the-dungeon-of-lulu-farea-rebirth.json](./410948-the-dungeon-of-lulu-farea-rebirth.json) |
 | The Dungeon Of Naheulbeuk: The Amulet Of Chaos - Chicken Edition | 146166 | [146166-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-chicken-edition.json](./146166-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-chicken-edition.json) |
@@ -4388,6 +4390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fall of Elements | 264607 | [264607-the-fall-of-elements.json](./264607-the-fall-of-elements.json) |
 | The Fall of Eskaria | 137630 | [137630-the-fall-of-eskaria.json](./137630-the-fall-of-eskaria.json) |
 | The Fall of Lazarus | 28679 | [28679-the-fall-of-lazarus.json](./28679-the-fall-of-lazarus.json) |
+| The Fall of Magic Castle | 378368 | [378368-the-fall-of-magic-castle.json](./378368-the-fall-of-magic-castle.json) |
 | The Fall of Nemesis: Clash of the Kaijujin | 62681 | [62681-the-fall-of-nemesis-clash-of-the-kaijujin.json](./62681-the-fall-of-nemesis-clash-of-the-kaijujin.json) |
 | The Fall of Rallys Factory: Episode 2 - It's for Science | 186347 | [186347-the-fall-of-rallys-factory-episode-2-its-for-science.json](./186347-the-fall-of-rallys-factory-episode-2-its-for-science.json) |
 | The Fall of Rome | 262401 | [262401-the-fall-of-rome.json](./262401-the-fall-of-rome.json) |
@@ -7285,6 +7288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rainsdowne Players | 97926 | [97926-the-rainsdowne-players.json](./97926-the-rainsdowne-players.json) |
 | The Rainy Port Keelung | 35758 | [35758-the-rainy-port-keelung.json](./35758-the-rainy-port-keelung.json) |
 | The Rake: Back To Asylum | 342135 | [342135-the-rake-back-to-asylum.json](./342135-the-rake-back-to-asylum.json) |
+| The Ramen Shop | 378366 | [378366-the-ramen-shop.json](./378366-the-ramen-shop.json) |
 | The Ramen Stand | 298626 | [298626-the-ramen-stand.json](./298626-the-ramen-stand.json) |
 | The Ramp | 159248 | [159248-the-ramp.json](./159248-the-ramp.json) |
 | The Ranchers | 142498 | [142498-the-ranchers.json](./142498-the-ranchers.json) |
@@ -9951,6 +9955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiddy Bounce | 156061 | [156061-tiddy-bounce.json](./156061-tiddy-bounce.json) |
 | Tide of Thieves | 216501 | [216501-tide-of-thieves.json](./216501-tide-of-thieves.json) |
 | Tide: 1927 | 368034 | [368034-tide-1927.json](./368034-tide-1927.json) |
+| Tideborne | 378363 | [378363-tideborne.json](./378363-tideborne.json) |
 | Tideborne Haven | 402429 | [402429-tideborne-haven.json](./402429-tideborne-haven.json) |
 | Tides of Existence | 126504 | [126504-tides-of-existence.json](./126504-tides-of-existence.json) |
 | Tides of the Endless | 345037 | [345037-tides-of-the-endless.json](./345037-tides-of-the-endless.json) |
@@ -14609,6 +14614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trigger Happy | 174806 | [174806-trigger-happy.json](./174806-trigger-happy.json) |
 | Trigger Heart Exelica Enhanced | 43476 | [43476-trigger-heart-exelica-enhanced.json](./43476-trigger-heart-exelica-enhanced.json) |
 | Trigger Knight | 314452 | [314452-trigger-knight.json](./314452-trigger-knight.json) |
+| Trigger Path | 378386 | [378386-trigger-path.json](./378386-trigger-path.json) |
 | Trigger Rally | 63239 | [63239-trigger-rally.json](./63239-trigger-rally.json) |
 | Trigger Saint | 35627 | [35627-trigger-saint.json](./35627-trigger-saint.json) |
 | Trigger Spree | 195623 | [195623-trigger-spree.json](./195623-trigger-spree.json) |
@@ -15465,6 +15471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuscany Hotel | 106759 | [106759-tuscany-hotel.json](./106759-tuscany-hotel.json) |
 | Tut's Tomb | 282107 | [282107-tuts-tomb.json](./282107-tuts-tomb.json) |
 | Tutankham | 385836 | [385836-tutankham.json](./385836-tutankham.json) |
+| Tutankhamun: Builders of the Eternal | 378360 | [378360-tutankhamun-builders-of-the-eternal.json](./378360-tutankhamun-builders-of-the-eternal.json) |
 | Tutelary | 246371 | [246371-tutelary.json](./246371-tutelary.json) |
 | Tutorial | 231092 | [231092-tutorial.json](./231092-tutorial.json) |
 | Tutututu: Tea party | 120318 | [120318-tutututu-tea-party.json](./120318-tutututu-tea-party.json) |
