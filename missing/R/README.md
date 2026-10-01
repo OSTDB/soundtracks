@@ -6162,6 +6162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruslicstan Invades | 238497 | [238497-ruslicstan-invades.json](./238497-ruslicstan-invades.json) |
 | Russi.a Simulator | 105148 | [105148-russi-a-simulator.json](./105148-russi-a-simulator.json) |
 | Russia Horror 20!8 | 90212 | [90212-russia-horror-20-8.json](./90212-russia-horror-20-8.json) |
+| Russia Inside Out: New Year | 368072 | [368072-russia-inside-out-new-year.json](./368072-russia-inside-out-new-year.json) |
 | Russia Roguelike | 116117 | [116117-russia-roguelike.json](./116117-russia-roguelike.json) |
 | Russia: The Great War in the East 1941-1945 | 44124 | [44124-russia-the-great-war-in-the-east-1941-1945.json](./44124-russia-the-great-war-in-the-east-1941-1945.json) |
 | Russian Anime | 156034 | [156034-russian-anime.json](./156034-russian-anime.json) |
