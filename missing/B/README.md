@@ -1329,9 +1329,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baroque | 147807 | [147807-baroque.json](./147807-baroque.json) |
 | Baroque Darts | 316763 | [316763-baroque-darts.json](./316763-baroque-darts.json) |
 | Baroque Shooting | 73368 | [73368-baroque-shooting.json](./73368-baroque-shooting.json) |
+| Baroque Shooting: Reversed | 378350 | [378350-baroque-shooting-reversed.json](./378350-baroque-shooting-reversed.json) |
 | Baroque Syndrome | 73872 | [73872-baroque-syndrome.json](./73872-baroque-syndrome.json) |
 | Baroque-Ya | 368639 | [368639-baroque-ya.json](./368639-baroque-ya.json) |
 | Baroque: Become a Meta-Being | 316764 | [316764-baroque-become-a-meta-being.json](./316764-baroque-become-a-meta-being.json) |
+| Baroque: Become a Meta-Being Revive | 378351 | [378351-baroque-become-a-meta-being-revive.json](./378351-baroque-become-a-meta-being-revive.json) |
 | Barotrauma | 27344 | [27344-barotrauma.json](./27344-barotrauma.json) |
 | Barp Online | 379959 | [379959-barp-online.json](./379959-barp-online.json) |
 | Barrack | 83919 | [83919-barrack.json](./83919-barrack.json) |
@@ -4041,6 +4043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitdude | 30049 | [30049-bitdude.json](./30049-bitdude.json) |
 | Bite at the Museum | 146727 | [146727-bite-at-the-museum.json](./146727-bite-at-the-museum.json) |
 | Bite Me | 128623 | [128623-bite-me.json](./128623-bite-me.json) |
+| Bite Me | 378369 | [378369-bite-me.json](./378369-bite-me.json) |
 | Bite Nite | 215023 | [215023-bite-nite.json](./215023-bite-nite.json) |
 | Bite Size Terrors: Eye Candy | 272836 | [272836-bite-size-terrors-eye-candy.json](./272836-bite-size-terrors-eye-candy.json) |
 | Bite the Bullet | 108770 | [108770-bite-the-bullet.json](./108770-bite-the-bullet.json) |
@@ -5456,6 +5459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Stinger | 6715 | [6715-blue-stinger.json](./6715-blue-stinger.json) |
 | Blue Submarine No. 6: Antarctica | 78956 | [78956-blue-submarine-no-6-antarctica.json](./78956-blue-submarine-no-6-antarctica.json) |
 | Blue Sun Saga | 416863 | [416863-blue-sun-saga.json](./416863-blue-sun-saga.json) |
+| Blue Swift Wind | 378362 | [378362-blue-swift-wind.json](./378362-blue-swift-wind.json) |
 | Blue Tear | 30308 | [30308-blue-tear.json](./30308-blue-tear.json) |
 | Blue Thunder | 296678 | [296678-blue-thunder.json](./296678-blue-thunder.json) |
 | Blue Tower Chronicle | 413739 | [413739-blue-tower-chronicle.json](./413739-blue-tower-chronicle.json) |
