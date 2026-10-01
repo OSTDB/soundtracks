@@ -58,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Not A Robot | 388336 | [388336-i-am-not-a-robot.json](./388336-i-am-not-a-robot.json) |
 | I Am Not What Remains | 176498 | [176498-i-am-not-what-remains.json](./176498-i-am-not-what-remains.json) |
 | I Am Overburdened | 74212 | [74212-i-am-overburdened.json](./74212-i-am-overburdened.json) |
+| I Am Reptile | 345086 | [345086-i-am-reptile.json](./345086-i-am-reptile.json) |
 | I Am Ripper | 342772 | [342772-i-am-ripper.json](./342772-i-am-ripper.json) |
 | I am Rock | 389725 | [389725-i-am-rock.json](./389725-i-am-rock.json) |
 | I am Sakuya VR: Touhou FPS Game | 244477 | [244477-i-am-sakuya-vr-touhou-fps-game.json](./244477-i-am-sakuya-vr-touhou-fps-game.json) |
@@ -2767,6 +2768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iris and the Giant | 121390 | [121390-iris-and-the-giant.json](./121390-iris-and-the-giant.json) |
 | Iris and the Giant: Deluxe Soundtrack Edition | 240337 | [240337-iris-and-the-giant-deluxe-soundtrack-edition.json](./240337-iris-and-the-giant-deluxe-soundtrack-edition.json) |
 | Iris Dissolution | 337116 | [337116-iris-dissolution.json](./337116-iris-dissolution.json) |
+| Iris Odyssey | 345070 | [345070-iris-odyssey.json](./345070-iris-odyssey.json) |
 | Iris School of Wizardry: Vinculum Hearts | 110982 | [110982-iris-school-of-wizardry-vinculum-hearts.json](./110982-iris-school-of-wizardry-vinculum-hearts.json) |
 | Iris to Id: Ghosts in the Machine | 319161 | [319161-iris-to-id-ghosts-in-the-machine.json](./319161-iris-to-id-ghosts-in-the-machine.json) |
 | Iris: I'm Reflecting in the Silence | 413771 | [413771-iris-im-reflecting-in-the-silence.json](./413771-iris-im-reflecting-in-the-silence.json) |
