@@ -1856,6 +1856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helixian | 158154 | [158154-helixian.json](./158154-helixian.json) |
 | Hell Awaits | 229366 | [229366-hell-awaits.json](./229366-hell-awaits.json) |
 | Hell Blood: Inferno Retro Shooter | 378804 | [378804-hell-blood-inferno-retro-shooter.json](./378804-hell-blood-inferno-retro-shooter.json) |
+| Hell Bug | 371376 | [371376-hell-bug.json](./371376-hell-bug.json) |
 | Hell Builder | 352221 | [352221-hell-builder.json](./352221-hell-builder.json) |
 | Hell Cab | 57625 | [57625-hell-cab.json](./57625-hell-cab.json) |
 | Hell Can Wait | 133412 | [133412-hell-can-wait.json](./133412-hell-can-wait.json) |
@@ -2240,14 +2241,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Breeding Simulator | 309474 | [309474-hentai-breeding-simulator.json](./309474-hentai-breeding-simulator.json) |
 | Hentai Brick Breaker 2 | 161162 | [161162-hentai-brick-breaker-2.json](./161162-hentai-brick-breaker-2.json) |
 | Hentai BunnyGirl | 226162 | [226162-hentai-bunnygirl.json](./226162-hentai-bunnygirl.json) |
+| Hentai Cafe | 371373 | [371373-hentai-cafe.json](./371373-hentai-cafe.json) |
 | Hentai Cast: Podcast Simulator | 212195 | [212195-hentai-cast-podcast-simulator.json](./212195-hentai-cast-podcast-simulator.json) |
 | Hentai Casual Slider 2 | 234736 | [234736-hentai-casual-slider-2.json](./234736-hentai-casual-slider-2.json) |
+| Hentai Casual Swap 3 | 371402 | [371402-hentai-casual-swap-3.json](./371402-hentai-casual-swap-3.json) |
 | Hentai Cheerleader | 239749 | [239749-hentai-cheerleader.json](./239749-hentai-cheerleader.json) |
 | Hentai Chicks 2 | 149415 | [149415-hentai-chicks-2.json](./149415-hentai-chicks-2.json) |
+| Hentai Clicker: Alerinna Is Streaming | 371383 | [371383-hentai-clicker-alerinna-is-streaming.json](./371383-hentai-clicker-alerinna-is-streaming.json) |
 | Hentai Clicker: Bethy Is Streaming | 389609 | [389609-hentai-clicker-bethy-is-streaming.json](./389609-hentai-clicker-bethy-is-streaming.json) |
 | Hentai Clicker: Cassandra Is Streaming | 389616 | [389616-hentai-clicker-cassandra-is-streaming.json](./389616-hentai-clicker-cassandra-is-streaming.json) |
+| Hentai Clicker: Emy Is Streaming | 371384 | [371384-hentai-clicker-emy-is-streaming.json](./371384-hentai-clicker-emy-is-streaming.json) |
 | Hentai Clicker: Eva Is Streaming | 389610 | [389610-hentai-clicker-eva-is-streaming.json](./389610-hentai-clicker-eva-is-streaming.json) |
 | Hentai Clicker: Hanma Is Streaming | 370768 | [370768-hentai-clicker-hanma-is-streaming.json](./370768-hentai-clicker-hanma-is-streaming.json) |
+| Hentai Clicker: Midori is Streaming | 371385 | [371385-hentai-clicker-midori-is-streaming.json](./371385-hentai-clicker-midori-is-streaming.json) |
+| Hentai Clicker: Nina is Streaming | 371389 | [371389-hentai-clicker-nina-is-streaming.json](./371389-hentai-clicker-nina-is-streaming.json) |
+| Hentai Clicker: Reika is Streaming | 371391 | [371391-hentai-clicker-reika-is-streaming.json](./371391-hentai-clicker-reika-is-streaming.json) |
 | Hentai Clicker: Sayuri Is Streaming | 389613 | [389613-hentai-clicker-sayuri-is-streaming.json](./389613-hentai-clicker-sayuri-is-streaming.json) |
 | Hentai Clicker: Selena Is Streaming | 389611 | [389611-hentai-clicker-selena-is-streaming.json](./389611-hentai-clicker-selena-is-streaming.json) |
 | Hentai Clicker: Stella Is Streaming | 389615 | [389615-hentai-clicker-stella-is-streaming.json](./389615-hentai-clicker-stella-is-streaming.json) |
@@ -2275,6 +2283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Evangeline | 372486 | [372486-hentai-evangeline.json](./372486-hentai-evangeline.json) |
 | Hentai Evilgirls | 367019 | [367019-hentai-evilgirls.json](./367019-hentai-evilgirls.json) |
 | Hentai Fantasy | 219041 | [219041-hentai-fantasy.json](./219041-hentai-fantasy.json) |
+| Hentai Fantasy | 371380 | [371380-hentai-fantasy.json](./371380-hentai-fantasy.json) |
 | Hentai Fantasy Chicks | 253935 | [253935-hentai-fantasy-chicks.json](./253935-hentai-fantasy-chicks.json) |
 | Hentai Fetishes: Yuri | 379548 | [379548-hentai-fetishes-yuri.json](./379548-hentai-fetishes-yuri.json) |
 | Hentai Foot Fetish | 404940 | [404940-hentai-foot-fetish.json](./404940-hentai-foot-fetish.json) |
@@ -2348,12 +2357,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Homewrecker | 297799 | [297799-hentai-homewrecker.json](./297799-hentai-homewrecker.json) |
 | Hentai Horny Furry | 384703 | [384703-hentai-horny-furry.json](./384703-hentai-horny-furry.json) |
 | Hentai Hospital | 371360 | [371360-hentai-hospital.json](./371360-hentai-hospital.json) |
+| Hentai House Wife | 371369 | [371369-hentai-house-wife.json](./371369-hentai-house-wife.json) |
 | Hentai House: Next Door | 403713 | [403713-hentai-house-next-door.json](./403713-hentai-house-next-door.json) |
 | Hentai Island | 226187 | [226187-hentai-island.json](./226187-hentai-island.json) |
 | Hentai Jigsaw Puzzle 2 | 188496 | [188496-hentai-jigsaw-puzzle-2.json](./188496-hentai-jigsaw-puzzle-2.json) |
 | Hentai Jigsaw Puzzle Collection: Autumn | 371234 | [371234-hentai-jigsaw-puzzle-collection-autumn.json](./371234-hentai-jigsaw-puzzle-collection-autumn.json) |
 | Hentai Jigsaw Puzzle Collection: Christmas Edition | 235476 | [235476-hentai-jigsaw-puzzle-collection-christmas-edition.json](./235476-hentai-jigsaw-puzzle-collection-christmas-edition.json) |
 | Hentai Jigsaw Puzzle Collection: Spring Edition | 263218 | [263218-hentai-jigsaw-puzzle-collection-spring-edition.json](./263218-hentai-jigsaw-puzzle-collection-spring-edition.json) |
+| Hentai Kai | 371395 | [371395-hentai-kai.json](./371395-hentai-kai.json) |
 | Hentai Killer: Girls & Chess | 151622 | [151622-hentai-killer-girls-and-chess.json](./151622-hentai-killer-girls-and-chess.json) |
 | Hentai Lady | 110742 | [110742-hentai-lady.json](./110742-hentai-lady.json) |
 | Hentai Ladyboy Ren | 367051 | [367051-hentai-ladyboy-ren.json](./367051-hentai-ladyboy-ren.json) |
@@ -2363,11 +2374,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai MagicalGirl | 237403 | [237403-hentai-magicalgirl.json](./237403-hentai-magicalgirl.json) |
 | Hentai Maid Club | 149429 | [149429-hentai-maid-club.json](./149429-hentai-maid-club.json) |
 | Hentai Match 3 | 155000 | [155000-hentai-match-3.json](./155000-hentai-match-3.json) |
+| Hentai Mature Milf | 371368 | [371368-hentai-mature-milf.json](./371368-hentai-mature-milf.json) |
 | Hentai MatureCat | 243162 | [243162-hentai-maturecat.json](./243162-hentai-maturecat.json) |
 | Hentai Maya | 265572 | [265572-hentai-maya.json](./265572-hentai-maya.json) |
 | Hentai Memorama | 112775 | [112775-hentai-memorama.json](./112775-hentai-memorama.json) |
 | Hentai Memory | 105200 | [105200-hentai-memory.json](./105200-hentai-memory.json) |
 | Hentai Milf | 296908 | [296908-hentai-milf.json](./296908-hentai-milf.json) |
+| Hentai Milf City | 371375 | [371375-hentai-milf-city.json](./371375-hentai-milf-city.json) |
 | Hentai Military | 238434 | [238434-hentai-military.json](./238434-hentai-military.json) |
 | Hentai MineSweeper | 146280 | [146280-hentai-minesweeper.json](./146280-hentai-minesweeper.json) |
 | Hentai MineSweeper: Endless Mode | 146281 | [146281-hentai-minesweeper-endless-mode.json](./146281-hentai-minesweeper-endless-mode.json) |
@@ -2379,6 +2392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Nefiris | 411073 | [411073-hentai-nefiris.json](./411073-hentai-nefiris.json) |
 | Hentai Neko | 223403 | [223403-hentai-neko.json](./223403-hentai-neko.json) |
 | Hentai Neon Nights | 265608 | [265608-hentai-neon-nights.json](./265608-hentai-neon-nights.json) |
+| Hentai Night Milf | 371377 | [371377-hentai-night-milf.json](./371377-hentai-night-milf.json) |
 | Hentai no Hero | 110358 | [110358-hentai-no-hero.json](./110358-hentai-no-hero.json) |
 | Hentai Nureta Puzzle College | 161411 | [161411-hentai-nureta-puzzle-college.json](./161411-hentai-nureta-puzzle-college.json) |
 | Hentai Nurse | 296945 | [296945-hentai-nurse.json](./296945-hentai-nurse.json) |
@@ -2464,6 +2478,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Tales: Academy's Record | 371357 | [371357-hentai-tales-academys-record.json](./371357-hentai-tales-academys-record.json) |
 | Hentai Tales: Breeding Order 2050 | 389605 | [389605-hentai-tales-breeding-order-2050.json](./389605-hentai-tales-breeding-order-2050.json) |
 | Hentai Tales: Bunny Hole | 340453 | [340453-hentai-tales-bunny-hole.json](./340453-hentai-tales-bunny-hole.json) |
+| Hentai Tales: C-D Girls | 371382 | [371382-hentai-tales-c-d-girls.json](./371382-hentai-tales-c-d-girls.json) |
+| Hentai Tales: Cheating Family | 371381 | [371381-hentai-tales-cheating-family.json](./371381-hentai-tales-cheating-family.json) |
 | Hentai Tales: Creampie Cuckold Wife | 389607 | [389607-hentai-tales-creampie-cuckold-wife.json](./389607-hentai-tales-creampie-cuckold-wife.json) |
 | Hentai Tales: Isekai Uncle Reversal | 367029 | [367029-hentai-tales-isekai-uncle-reversal.json](./367029-hentai-tales-isekai-uncle-reversal.json) |
 | Hentai Tales: Mysterious Clinic | 291094 | [291094-hentai-tales-mysterious-clinic.json](./291094-hentai-tales-mysterious-clinic.json) |
@@ -2494,10 +2510,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Waifu II | 286497 | [286497-hentai-waifu-ii.json](./286497-hentai-waifu-ii.json) |
 | Hentai Witch | 296949 | [296949-hentai-witch.json](./296949-hentai-witch.json) |
 | Hentai Words | 104151 | [104151-hentai-words.json](./104151-hentai-words.json) |
+| Hentai World Apocalove | 371396 | [371396-hentai-world-apocalove.json](./371396-hentai-world-apocalove.json) |
 | Hentai World Bikini | 340460 | [340460-hentai-world-bikini.json](./340460-hentai-world-bikini.json) |
 | Hentai World Bunny | 349956 | [349956-hentai-world-bunny.json](./349956-hentai-world-bunny.json) |
 | Hentai World Festival | 340461 | [340461-hentai-world-festival.json](./340461-hentai-world-festival.json) |
 | Hentai World Halloween | 326234 | [326234-hentai-world-halloween.json](./326234-hentai-world-halloween.json) |
+| Hentai World Mystery | 371371 | [371371-hentai-world-mystery.json](./371371-hentai-world-mystery.json) |
 | Hentai World Office | 384699 | [384699-hentai-world-office.json](./384699-hentai-world-office.json) |
 | Hentai World Sexy | 322716 | [322716-hentai-world-sexy.json](./322716-hentai-world-sexy.json) |
 | Hentai World Slice | 340462 | [340462-hentai-world-slice.json](./340462-hentai-world-slice.json) |
