@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zarya and the Cursed Skull | 29229 | [29229-zarya-and-the-cursed-skull.json](./29229-zarya-and-the-cursed-skull.json) |
 | Zarya-1: Mystery on the Moon | 38792 | [38792-zarya-1-mystery-on-the-moon.json](./38792-zarya-1-mystery-on-the-moon.json) |
 | Zasa: An AI Story | 33399 | [33399-zasa-an-ai-story.json](./33399-zasa-an-ai-story.json) |
+| Zashiki-mawashi | 356812 | [356812-zashiki-mawashi.json](./356812-zashiki-mawashi.json) |
 | Zatch Bell! Mamodo Fury Update | 358308 | [358308-zatch-bell-mamodo-fury-update.json](./358308-zatch-bell-mamodo-fury-update.json) |
 | Zatikon: Crusades | 52782 | [52782-zatikon-crusades.json](./52782-zatikon-crusades.json) |
 | Zatsugaku Olympic Quiz Part II | 41419 | [41419-zatsugaku-olympic-quiz-part-ii.json](./41419-zatsugaku-olympic-quiz-part-ii.json) |
