@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives 44: Dragon x Dragon | 241041 | [241041-g-mode-archives-44-dragon-x-dragon.json](./241041-g-mode-archives-44-dragon-x-dragon.json) |
 | G-Mode Archives 56: Mystia3 | 381724 | [381724-g-mode-archives-56-mystia3.json](./381724-g-mode-archives-56-mystia3.json) |
 | G-Mode Archives 58: Gekidan Musume Akane & Aoi | 381255 | [381255-g-mode-archives-58-gekidan-musume-akane-and-aoi.json](./381255-g-mode-archives-58-gekidan-musume-akane-and-aoi.json) |
+| G-Mode Archives+: Armored Core Mobile 2 | 350578 | [350578-g-mode-archives-armored-core-mobile-2.json](./350578-g-mode-archives-armored-core-mobile-2.json) |
 | G-Mode Archives+: Bokujou Monogatari Mobile - Life & Love | 315678 | [315678-g-mode-archives-bokujou-monogatari-mobile-life-and-love.json](./315678-g-mode-archives-bokujou-monogatari-mobile-life-and-love.json) |
 | G-Mode Archives+: Flash Motor Karen | 388380 | [388380-g-mode-archives-flash-motor-karen.json](./388380-g-mode-archives-flash-motor-karen.json) |
 | G-Mode Archives+: Idol Janshi Suchie-Pai | 256268 | [256268-g-mode-archives-idol-janshi-suchie-pai.json](./256268-g-mode-archives-idol-janshi-suchie-pai.json) |
@@ -5015,6 +5016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Trails | 259277 | [259277-gun-trails.json](./259277-gun-trails.json) |
 | Gun vs. Bottles | 233442 | [233442-gun-vs-bottles.json](./233442-gun-vs-bottles.json) |
 | Gun X Gunner | 384153 | [384153-gun-x-gunner.json](./384153-gun-x-gunner.json) |
+| Gun-A-Gang 360° | 350591 | [350591-gun-a-gang-360.json](./350591-gun-a-gang-360.json) |
 | Gun-Running War Dogs | 52774 | [52774-gun-running-war-dogs.json](./52774-gun-running-war-dogs.json) |
 | Gun-Toting Cats | 176358 | [176358-gun-toting-cats.json](./176358-gun-toting-cats.json) |
 | Gun.Smoke | 40965 | [40965-gun-smoke.json](./40965-gun-smoke.json) |
