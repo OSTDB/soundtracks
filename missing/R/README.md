@@ -1823,6 +1823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Carpet Diaries: Book 3 | 313690 | [313690-red-carpet-diaries-book-3.json](./313690-red-carpet-diaries-book-3.json) |
 | Red Chaos: The Strict Order | 211677 | [211677-red-chaos-the-strict-order.json](./211677-red-chaos-the-strict-order.json) |
 | Red Chat Ritual: Tsumimi Time | 400336 | [400336-red-chat-ritual-tsumimi-time.json](./400336-red-chat-ritual-tsumimi-time.json) |
+| Red Christmas | 383580 | [383580-red-christmas.json](./383580-red-christmas.json) |
 | Red Colony | 139466 | [139466-red-colony.json](./139466-red-colony.json) |
 | Red Comrades 2: For the Great Justice - Reloaded | 33509 | [33509-red-comrades-2-for-the-great-justice-reloaded.json](./33509-red-comrades-2-for-the-great-justice-reloaded.json) |
 | Red Comrades 3: Return of Alaska - Reloaded | 30871 | [30871-red-comrades-3-return-of-alaska-reloaded.json](./30871-red-comrades-3-return-of-alaska-reloaded.json) |
@@ -2154,6 +2155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflections of Life: Dark Architect - Collector's Edition | 53498 | [53498-reflections-of-life-dark-architect-collectors-edition.json](./53498-reflections-of-life-dark-architect-collectors-edition.json) |
 | Reflections of Life: Dream Box - Collector's Edition | 362833 | [362833-reflections-of-life-dream-box-collectors-edition.json](./362833-reflections-of-life-dream-box-collectors-edition.json) |
 | Reflections of Life: Equilibrium - Collector's Edition | 117813 | [117813-reflections-of-life-equilibrium-collectors-edition.json](./117813-reflections-of-life-equilibrium-collectors-edition.json) |
+| Reflections of Life: Gone but not Forgotten - Collector's Edition | 383558 | [383558-reflections-of-life-gone-but-not-forgotten-collectors-edition.json](./383558-reflections-of-life-gone-but-not-forgotten-collectors-edition.json) |
 | Reflections of Life: Hearts Taken - Collector's Edition | 362830 | [362830-reflections-of-life-hearts-taken-collectors-edition.json](./362830-reflections-of-life-hearts-taken-collectors-edition.json) |
 | Reflections of Life: In Screams and Sorrow - Collector's Edition | 358853 | [358853-reflections-of-life-in-screams-and-sorrow-collectors-edition.json](./358853-reflections-of-life-in-screams-and-sorrow-collectors-edition.json) |
 | Reflections of Life: Meridiem | 187946 | [187946-reflections-of-life-meridiem.json](./187946-reflections-of-life-meridiem.json) |
@@ -3824,6 +3826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of SamuraizerzZz | 156664 | [156664-rise-of-samuraizerzzz.json](./156664-rise-of-samuraizerzzz.json) |
 | Rise of Stars Re:Verse | 226769 | [226769-rise-of-stars-re-verse.json](./226769-rise-of-stars-re-verse.json) |
 | Rise of the Bugs | 304592 | [304592-rise-of-the-bugs.json](./304592-rise-of-the-bugs.json) |
+| Rise of the Cones: Planetary Defense | 383576 | [383576-rise-of-the-cones-planetary-defense.json](./383576-rise-of-the-cones-planetary-defense.json) |
 | Rise of the Eternal | 288756 | [288756-rise-of-the-eternal.json](./288756-rise-of-the-eternal.json) |
 | Rise of The Fallen | 102574 | [102574-rise-of-the-fallen.json](./102574-rise-of-the-fallen.json) |
 | Rise of The Fey | 82120 | [82120-rise-of-the-fey.json](./82120-rise-of-the-fey.json) |
