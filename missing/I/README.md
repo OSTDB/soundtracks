@@ -891,6 +891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | If Solitaire | 417476 | [417476-if-solitaire.json](./417476-if-solitaire.json) |
 | If U Seek Amy | 327415 | [327415-if-u-seek-amy.json](./327415-if-u-seek-amy.json) |
 | If We Make It Home | 347790 | [347790-if-we-make-it-home.json](./347790-if-we-make-it-home.json) |
+| If You Had One Shot | 364629 | [364629-if-you-had-one-shot.json](./364629-if-you-had-one-shot.json) |
 | If you know what I mean | 88004 | [88004-if-you-know-what-i-mean.json](./88004-if-you-know-what-i-mean.json) |
 | If You Let Me In | 276760 | [276760-if-you-let-me-in.json](./276760-if-you-let-me-in.json) |
 | If You Stay | 413853 | [413853-if-you-stay.json](./413853-if-you-stay.json) |
