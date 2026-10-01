@@ -4291,6 +4291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hololive Error | 186622 | [186622-hololive-error.json](./186622-hololive-error.json) |
 | Hololive Gorogoro Mountain | 348243 | [348243-hololive-gorogoro-mountain.json](./348243-hololive-gorogoro-mountain.json) |
 | Hololive GoroGoro Mountain DX | 384189 | [384189-hololive-gorogoro-mountain-dx.json](./384189-hololive-gorogoro-mountain-dx.json) |
+| Hololive Holo's Hanafuda | 339960 | [339960-hololive-holos-hanafuda.json](./339960-hololive-holos-hanafuda.json) |
 | Hololive Horror | 210581 | [210581-hololive-horror.json](./210581-hololive-horror.json) |
 | Hololive Treasure Mountain | 311821 | [311821-hololive-treasure-mountain.json](./311821-hololive-treasure-mountain.json) |
 | Hololore: Amethyst | 266868 | [266868-hololore-amethyst.json](./266868-hololore-amethyst.json) |
@@ -5957,6 +5958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyena Simulator | 86848 | [86848-hyena-simulator.json](./86848-hyena-simulator.json) |
 | Hyena Squad | 175206 | [175206-hyena-squad.json](./175206-hyena-squad.json) |
 | Hyenas | 206103 | [206103-hyenas.json](./206103-hyenas.json) |
+| Hyke: Northern Light(s) | 339994 | [339994-hyke-northern-light-s.json](./339994-hyke-northern-light-s.json) |
 | Hylics 2 | 98469 | [98469-hylics-2.json](./98469-hylics-2.json) |
 | Hymeno Striker: Akashicverse Minigame | 171597 | [171597-hymeno-striker-akashicverse-minigame.json](./171597-hymeno-striker-akashicverse-minigame.json) |
 | Hyokkori Hyoutan-jima: Takaramono Tocchae! | 346028 | [346028-hyokkori-hyoutan-jima-takaramono-tocchae.json](./346028-hyokkori-hyoutan-jima-takaramono-tocchae.json) |
