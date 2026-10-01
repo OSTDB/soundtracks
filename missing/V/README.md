@@ -1553,6 +1553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Fighters | 403667 | [403667-void-fighters.json](./403667-void-fighters.json) |
 | Void Game | 394338 | [394338-void-game.json](./394338-void-game.json) |
 | Void Guard | 277276 | [277276-void-guard.json](./277276-void-guard.json) |
+| Void Hazard | 372628 | [372628-void-hazard.json](./372628-void-hazard.json) |
 | Void Inc. | 183895 | [183895-void-inc.json](./183895-void-inc.json) |
 | Void Inside | 282023 | [282023-void-inside.json](./282023-void-inside.json) |
 | Void Inspector | 415891 | [415891-void-inspector.json](./415891-void-inspector.json) |
