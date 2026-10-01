@@ -4683,6 +4683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrine's Legacy | 139352 | [139352-shrines-legacy.json](./139352-shrines-legacy.json) |
 | Shrines of Power | 278682 | [278682-shrines-of-power.json](./278682-shrines-of-power.json) |
 | Shrines of Sacred Essenсe | 110991 | [110991-shrines-of-sacred-essen-e.json](./110991-shrines-of-sacred-essen-e.json) |
+| Shrink Rooms | 339971 | [339971-shrink-rooms.json](./339971-shrink-rooms.json) |
 | Shrinking Pains | 99624 | [99624-shrinking-pains.json](./99624-shrinking-pains.json) |
 | Shrinking Planet | 182932 | [182932-shrinking-planet.json](./182932-shrinking-planet.json) |
 | Shrinking Professor | 262094 | [262094-shrinking-professor.json](./262094-shrinking-professor.json) |
@@ -15790,6 +15791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sheffy World 2: The Quest for 5 Shells | 214773 | [214773-super-sheffy-world-2-the-quest-for-5-shells.json](./214773-super-sheffy-world-2-the-quest-for-5-shells.json) |
 | Super Sheffy World Deluxe | 214774 | [214774-super-sheffy-world-deluxe.json](./214774-super-sheffy-world-deluxe.json) |
 | Super Shield Dash | 164915 | [164915-super-shield-dash.json](./164915-super-shield-dash.json) |
+| Super Shinobi Den | 339982 | [339982-super-shinobi-den.json](./339982-super-shinobi-den.json) |
 | Super Shogi | 42225 | [42225-super-shogi.json](./42225-super-shogi.json) |
 | Super Shogi 2 | 42224 | [42224-super-shogi-2.json](./42224-super-shogi-2.json) |
 | Super Shogi 3: Kitaihei | 42223 | [42223-super-shogi-3-kitaihei.json](./42223-super-shogi-3-kitaihei.json) |
