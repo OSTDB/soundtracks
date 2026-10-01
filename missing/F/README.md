@@ -4478,6 +4478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For the Night | 123486 | [123486-for-the-night.json](./123486-for-the-night.json) |
 | For the People | 135844 | [135844-for-the-people.json](./135844-for-the-people.json) |
 | For the Revenge | 107921 | [107921-for-the-revenge.json](./107921-for-the-revenge.json) |
+| For the Wheat | 361734 | [361734-for-the-wheat.json](./361734-for-the-wheat.json) |
 | For The Win | 321509 | [321509-for-the-win.json](./321509-for-the-win.json) |
 | For What Will Come | 213010 | [213010-for-what-will-come.json](./213010-for-what-will-come.json) |
 | For Whom the Alchemist Exists | 57896 | [57896-for-whom-the-alchemist-exists.json](./57896-for-whom-the-alchemist-exists.json) |
@@ -5143,6 +5144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fox and Frog Travelers: The Demon of Adashino Island | 204377 | [204377-fox-and-frog-travelers-the-demon-of-adashino-island.json](./204377-fox-and-frog-travelers-the-demon-of-adashino-island.json) |
 | Fox and Shadow | 320556 | [320556-fox-and-shadow.json](./320556-fox-and-shadow.json) |
 | Fox Detective | 97912 | [97912-fox-detective.json](./97912-fox-detective.json) |
+| Fox Flare Night | 361674 | [361674-fox-flare-night.json](./361674-fox-flare-night.json) |
 | Fox Girl Taming | 239318 | [239318-fox-girl-taming.json](./239318-fox-girl-taming.json) |
 | Fox Hime | 90144 | [90144-fox-hime.json](./90144-fox-hime.json) |
 | Fox Hime Zero | 102325 | [102325-fox-hime-zero.json](./102325-fox-hime-zero.json) |
