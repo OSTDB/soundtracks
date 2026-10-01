@@ -3485,6 +3485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piofiore: Episodio 1926 Limited Edition | 223129 | [223129-piofiore-episodio-1926-limited-edition.json](./223129-piofiore-episodio-1926-limited-edition.json) |
 | Pion | 44092 | [44092-pion.json](./44092-pion.json) |
 | Pioneer | 337737 | [337737-pioneer.json](./337737-pioneer.json) |
+| Pioneer | 370851 | [370851-pioneer.json](./370851-pioneer.json) |
 | Pioneer | 61666 | [61666-pioneer.json](./61666-pioneer.json) |
 | Pioneer Lands | 59430 | [59430-pioneer-lands.json](./59430-pioneer-lands.json) |
 | Pioneer Space Sim | 179050 | [179050-pioneer-space-sim.json](./179050-pioneer-space-sim.json) |
@@ -3807,6 +3808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Game Maker Series: Ninja Sneaking R | 215114 | [215114-pixel-game-maker-series-ninja-sneaking-r.json](./215114-pixel-game-maker-series-ninja-sneaking-r.json) |
 | Pixel Game Maker Series: Pearl vs Grey | 227845 | [227845-pixel-game-maker-series-pearl-vs-grey.json](./227845-pixel-game-maker-series-pearl-vs-grey.json) |
 | Pixel Game Maker Series: Rocket Frog | 335354 | [335354-pixel-game-maker-series-rocket-frog.json](./335354-pixel-game-maker-series-rocket-frog.json) |
+| Pixel Game Maker Series: Stray Witch and the Ghost Train | 370820 | [370820-pixel-game-maker-series-stray-witch-and-the-ghost-train.json](./370820-pixel-game-maker-series-stray-witch-and-the-ghost-train.json) |
 | Pixel Game Maker Series: The Willow Man | 316190 | [316190-pixel-game-maker-series-the-willow-man.json](./316190-pixel-game-maker-series-the-willow-man.json) |
 | Pixel Gangsters | 211184 | [211184-pixel-gangsters.json](./211184-pixel-gangsters.json) |
 | Pixel Gear | 25182 | [25182-pixel-gear.json](./25182-pixel-gear.json) |
