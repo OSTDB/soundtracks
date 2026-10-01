@@ -2461,6 +2461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Script: Nature | 319348 | [319348-wild-script-nature.json](./319348-wild-script-nature.json) |
 | Wild Seasons | 273383 | [273383-wild-seasons.json](./273383-wild-seasons.json) |
 | Wild Shape | 180311 | [180311-wild-shape.json](./180311-wild-shape.json) |
+| Wild Snap | 367577 | [367577-wild-snap.json](./367577-wild-snap.json) |
 | Wild Souls | 152740 | [152740-wild-souls.json](./152740-wild-souls.json) |
 | Wild Streets | 12827 | [12827-wild-streets.json](./12827-wild-streets.json) |
 | Wild Superman | 116819 | [116819-wild-superman.json](./116819-wild-superman.json) |
@@ -2959,6 +2960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witanlore: Dreamtime | 27309 | [27309-witanlore-dreamtime.json](./27309-witanlore-dreamtime.json) |
 | Witch | 120153 | [120153-witch.json](./120153-witch.json) |
 | Witch | 299159 | [299159-witch.json](./299159-witch.json) |
+| Witch & Bun Cats | 367552 | [367552-witch-and-bun-cats.json](./367552-witch-and-bun-cats.json) |
 | Witch & Cats | 258177 | [258177-witch-and-cats.json](./258177-witch-and-cats.json) |
 | Witch & Fairy Dungeon | 327311 | [327311-witch-and-fairy-dungeon.json](./327311-witch-and-fairy-dungeon.json) |
 | Witch & Hero 2 | 21925 | [21925-witch-and-hero-2.json](./21925-witch-and-hero-2.json) |
@@ -3791,6 +3793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Darts | 12873 | [12873-world-darts.json](./12873-world-darts.json) |
 | World Destruction League: Thunder Tanks | 49873 | [49873-world-destruction-league-thunder-tanks.json](./49873-world-destruction-league-thunder-tanks.json) |
 | World Driver Championship | 3642 | [3642-world-driver-championship.json](./3642-world-driver-championship.json) |
+| World Eater | 367531 | [367531-world-eater.json](./367531-world-eater.json) |
 | World Election | 143515 | [143515-world-election.json](./143515-world-election.json) |
 | World Empire III | 79578 | [79578-world-empire-iii.json](./79578-world-empire-iii.json) |
 | World Empire IV | 73753 | [73753-world-empire-iv.json](./73753-world-empire-iv.json) |
