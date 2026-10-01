@@ -5542,6 +5542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rox | 50066 | [50066-rox.json](./50066-rox.json) |
 | Rox II | 315507 | [315507-rox-ii.json](./315507-rox-ii.json) |
 | Roxanne | 382316 | [382316-roxanne.json](./382316-roxanne.json) |
+| Roxanne The Forgotten Path | 365846 | [365846-roxanne-the-forgotten-path.json](./365846-roxanne-the-forgotten-path.json) |
 | Roxy Raccoon | 159290 | [159290-roxy-raccoon.json](./159290-roxy-raccoon.json) |
 | Roxy Raccoon 3: Troubles in Time | 375845 | [375845-roxy-raccoon-3-troubles-in-time.json](./375845-roxy-raccoon-3-troubles-in-time.json) |
 | Roxy Raccoon's Pinball Panic: American Anniversary | 311788 | [311788-roxy-raccoons-pinball-panic-american-anniversary.json](./311788-roxy-raccoons-pinball-panic-american-anniversary.json) |
