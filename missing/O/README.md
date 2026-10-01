@@ -1014,6 +1014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On the Wings: Birth of a Hero | 199585 | [199585-on-the-wings-birth-of-a-hero.json](./199585-on-the-wings-birth-of-a-hero.json) |
 | On Thy Knees | 393483 | [393483-on-thy-knees.json](./393483-on-thy-knees.json) |
 | On Track | 292509 | [292509-on-track.json](./292509-on-track.json) |
+| On Your Notebook | 365845 | [365845-on-your-notebook.json](./365845-on-your-notebook.json) |
 | On-looker | 129203 | [129203-on-looker.json](./129203-on-looker.json) |
 | On/off | 217798 | [217798-on-off.json](./217798-on-off.json) |
 | OnAir Airline Manager | 327816 | [327816-onair-airline-manager.json](./327816-onair-airline-manager.json) |
@@ -1675,6 +1676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Eco-Nightmare | 210686 | [210686-operation-eco-nightmare.json](./210686-operation-eco-nightmare.json) |
 | Operation Eventide | 337477 | [337477-operation-eventide.json](./337477-operation-eventide.json) |
 | Operation Eventide | 392457 | [392457-operation-eventide.json](./392457-operation-eventide.json) |
+| Operation Eventide: Dolorosa | 365815 | [365815-operation-eventide-dolorosa.json](./365815-operation-eventide-dolorosa.json) |
 | Operation F.A.T.E. | 152865 | [152865-operation-f-a-t-e.json](./152865-operation-f-a-t-e.json) |
 | Operation Fireball | 293744 | [293744-operation-fireball.json](./293744-operation-fireball.json) |
 | Operation Flashpoint: Cold War Crisis | 288 | [288-operation-flashpoint-cold-war-crisis.json](./288-operation-flashpoint-cold-war-crisis.json) |
