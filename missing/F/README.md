@@ -1229,6 +1229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Town | 62237 | [62237-farm-town.json](./62237-farm-town.json) |
 | Farm Under Fire | 199377 | [199377-farm-under-fire.json](./199377-farm-under-fire.json) |
 | Farm Up | 87693 | [87693-farm-up.json](./87693-farm-up.json) |
+| Farm Vet | 357386 | [357386-farm-vet.json](./357386-farm-vet.json) |
 | Farm Wars | 219291 | [219291-farm-wars.json](./219291-farm-wars.json) |
 | Farm World | 36062 | [36062-farm-world.json](./36062-farm-world.json) |
 | Farm Your Friends | 132276 | [132276-farm-your-friends.json](./132276-farm-your-friends.json) |
@@ -5211,6 +5212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FPV Freerider Recharged | 90412 | [90412-fpv-freerider-recharged.json](./90412-fpv-freerider-recharged.json) |
 | FPV Kamikaze Drone | 280172 | [280172-fpv-kamikaze-drone.json](./280172-fpv-kamikaze-drone.json) |
 | FPV Simulator | 192407 | [192407-fpv-simulator.json](./192407-fpv-simulator.json) |
+| FPV Worldwide | 357361 | [357361-fpv-worldwide.json](./357361-fpv-worldwide.json) |
 | FR Legends | 126025 | [126025-fr-legends.json](./126025-fr-legends.json) |
 | FR Master: Formula Racing Simulator | 261356 | [261356-fr-master-formula-racing-simulator.json](./261356-fr-master-formula-racing-simulator.json) |
 | FR34KS | 412538 | [412538-fr34ks.json](./412538-fr34ks.json) |
