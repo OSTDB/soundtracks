@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Historia De | 129078 | [129078-la-historia-de.json](./129078-la-historia-de.json) |
 | LA Hollywood Zombies | 273633 | [273633-la-hollywood-zombies.json](./273633-la-hollywood-zombies.json) |
 | La Isla de lo Mono | 208467 | [208467-la-isla-de-lo-mono.json](./208467-la-isla-de-lo-mono.json) |
+| La Java du Privé | 350540 | [350540-la-java-du-prive.json](./350540-la-java-du-prive.json) |
 | La Leyenda del Chupacabra | 75094 | [75094-la-leyenda-del-chupacabra.json](./75094-la-leyenda-del-chupacabra.json) |
 | La Libertad Arrasa: Milei | 323725 | [323725-la-libertad-arrasa-milei.json](./323725-la-libertad-arrasa-milei.json) |
 | La Llorona Wants Your Soul | 291737 | [291737-la-llorona-wants-your-soul.json](./291737-la-llorona-wants-your-soul.json) |
@@ -3195,6 +3196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loaf: The Video Game | 408148 | [408148-loaf-the-video-game.json](./408148-loaf-the-video-game.json) |
 | Loaf's Adventure | 408147 | [408147-loafs-adventure.json](./408147-loafs-adventure.json) |
 | Loafing Town | 369064 | [369064-loafing-town.json](./369064-loafing-town.json) |
+| Loan Shark | 350592 | [350592-loan-shark.json](./350592-loan-shark.json) |
 | Loan Wolf | 177505 | [177505-loan-wolf.json](./177505-loan-wolf.json) |
 | Lobber | 257987 | [257987-lobber.json](./257987-lobber.json) |
 | Lobby Cam by Bryn Oh | 235468 | [235468-lobby-cam-by-bryn-oh.json](./235468-lobby-cam-by-bryn-oh.json) |
@@ -4630,6 +4632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumiel the Awakening | 260165 | [260165-lumiel-the-awakening.json](./260165-lumiel-the-awakening.json) |
 | Lumiere | 415100 | [415100-lumiere.json](./415100-lumiere.json) |
 | Lumiland | 166726 | [166726-lumiland.json](./166726-lumiland.json) |
+| Lumilight: The Fifth Energy | 350555 | [350555-lumilight-the-fifth-energy.json](./350555-lumilight-the-fifth-energy.json) |
 | Lumina | 119091 | [119091-lumina.json](./119091-lumina.json) |
 | Lumina | 347889 | [347889-lumina.json](./347889-lumina.json) |
 | Luminaria: Dark Echoes | 278450 | [278450-luminaria-dark-echoes.json](./278450-luminaria-dark-echoes.json) |
