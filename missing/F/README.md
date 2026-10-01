@@ -378,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Tale Fighters | 406081 | [406081-fairy-tale-fighters.json](./406081-fairy-tale-fighters.json) |
 | Fairy Tale Puzzles: Magic Objects | 111460 | [111460-fairy-tale-puzzles-magic-objects.json](./111460-fairy-tale-puzzles-magic-objects.json) |
 | Fairy Tale Puzzles: Magic Objects - Alice in Wonderland: The Tea Party | 238056 | [238056-fairy-tale-puzzles-magic-objects-alice-in-wonderland-the-tea-party.json](./238056-fairy-tale-puzzles-magic-objects-alice-in-wonderland-the-tea-party.json) |
+| Fairy Tale TD 2 | 348885 | [348885-fairy-tale-td-2.json](./348885-fairy-tale-td-2.json) |
 | Fairy Tale Tower Defense | 357835 | [357835-fairy-tale-tower-defense.json](./357835-fairy-tale-tower-defense.json) |
 | Fairy Tower | 213964 | [213964-fairy-tower.json](./213964-fairy-tower.json) |
 | Fairy Tower | 218159 | [218159-fairy-tower.json](./218159-fairy-tower.json) |
@@ -6660,6 +6661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Vibe Check | 335292 | [335292-future-vibe-check.json](./335292-future-vibe-check.json) |
 | Future Vox Imaginarium Dot Exe | 198444 | [198444-future-vox-imaginarium-dot-exe.json](./198444-future-vox-imaginarium-dot-exe.json) |
 | Future Vox Imaginarium Dot Exe V1.1: Doge Lover Edition | 198445 | [198445-future-vox-imaginarium-dot-exe-v1-1-doge-lover-edition.json](./198445-future-vox-imaginarium-dot-exe-v1-1-doge-lover-edition.json) |
+| Future War Tactics: SOF vs. Alien Invasion - Turn-based Strategy | 348829 | [348829-future-war-tactics-sof-vs-alien-invasion-turn-based-strategy.json](./348829-future-war-tactics-sof-vs-alien-invasion-turn-based-strategy.json) |
 | Future War: Reborn | 78061 | [78061-future-war-reborn.json](./78061-future-war-reborn.json) |
 | Future Wars | 2478 | [2478-future-wars.json](./2478-future-wars.json) |
 | Future Zero | 378172 | [378172-future-zero.json](./378172-future-zero.json) |
