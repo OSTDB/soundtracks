@@ -1777,6 +1777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReCore: Definitive Edition | 54787 | [54787-recore-definitive-edition.json](./54787-recore-definitive-edition.json) |
 | Recore: Eye of Obsidian | 139396 | [139396-recore-eye-of-obsidian.json](./139396-recore-eye-of-obsidian.json) |
 | Recoup | 373182 | [373182-recoup.json](./373182-recoup.json) |
+| Recovering Stolen | 336683 | [336683-recovering-stolen.json](./336683-recovering-stolen.json) |
 | Recovery Syndicate | 235868 | [235868-recovery-syndicate.json](./235868-recovery-syndicate.json) |
 | Recovery: Search & Rescue | 53493 | [53493-recovery-search-and-rescue.json](./53493-recovery-search-and-rescue.json) |
 | Recreation Room | 369732 | [369732-recreation-room.json](./369732-recreation-room.json) |
@@ -3256,6 +3257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolutionary Quest | 292594 | [292594-revolutionary-quest.json](./292594-revolutionary-quest.json) |
 | Revolve | 26722 | [26722-revolve.json](./26722-revolve.json) |
 | Revolve | 377200 | [377200-revolve.json](./377200-revolve.json) |
+| Revolver | 336748 | [336748-revolver.json](./336748-revolver.json) |
 | Revolver and Co | 152759 | [152759-revolver-and-co.json](./152759-revolver-and-co.json) |
 | Revolver roulette | 336697 | [336697-revolver-roulette.json](./336697-revolver-roulette.json) |
 | Revolver360 | 79926 | [79926-revolver360.json](./79926-revolver360.json) |
