@@ -1724,6 +1724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teikoku Kaigun Koibojou: Meiji Yokosuka Koushinkyoku | 136433 | [136433-teikoku-kaigun-koibojou-meiji-yokosuka-koushinkyoku.json](./136433-teikoku-kaigun-koibojou-meiji-yokosuka-koushinkyoku.json) |
 | Teikoku Kareido -Kakumei no Rondo- | 136434 | [136434-teikoku-kareido-kakumei-no-rondo.json](./136434-teikoku-kareido-kakumei-no-rondo.json) |
 | Teikoku Sensenki | 204483 | [204483-teikoku-sensenki.json](./204483-teikoku-sensenki.json) |
+| Teikyuu wo Koete | 350576 | [350576-teikyuu-wo-koete.json](./350576-teikyuu-wo-koete.json) |
 | Teisatsu | 196248 | [196248-teisatsu.json](./196248-teisatsu.json) |
 | Teisoukannen Zero: Yariman Kazoku to Hame Kurui Natsuyasumi | 82956 | [82956-teisoukannen-zero-yariman-kazoku-to-hame-kurui-natsuyasumi.json](./82956-teisoukannen-zero-yariman-kazoku-to-hame-kurui-natsuyasumi.json) |
 | Tek-Kids Flash-Ops: Mission - Sky Fortress | 69940 | [69940-tek-kids-flash-ops-mission-sky-fortress.json](./69940-tek-kids-flash-ops-mission-sky-fortress.json) |
@@ -5506,6 +5507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Joy of Kaizo with Bob Ross | 268195 | [268195-the-joy-of-kaizo-with-bob-ross.json](./268195-the-joy-of-kaizo-with-bob-ross.json) |
 | The Joy of Putting | 386699 | [386699-the-joy-of-putting.json](./386699-the-joy-of-putting.json) |
 | The Joy of Sex | 46561 | [46561-the-joy-of-sex.json](./46561-the-joy-of-sex.json) |
+| The Joycare | 350583 | [350583-the-joycare.json](./350583-the-joycare.json) |
 | The Joylancer: Legendary Motor Knight | 10974 | [10974-the-joylancer-legendary-motor-knight.json](./10974-the-joylancer-legendary-motor-knight.json) |
 | The Judgement Chamber | 243656 | [243656-the-judgement-chamber.json](./243656-the-judgement-chamber.json) |
 | The Judgement of Q | 173272 | [173272-the-judgement-of-q.json](./173272-the-judgement-of-q.json) |
@@ -7465,6 +7467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The redemption of pancakes | 106555 | [106555-the-redemption-of-pancakes.json](./106555-the-redemption-of-pancakes.json) |
 | The Redundant | 318979 | [318979-the-redundant.json](./318979-the-redundant.json) |
 | The Reggae Operation | 188119 | [188119-the-reggae-operation.json](./188119-the-reggae-operation.json) |
+| The Regreening | 350554 | [350554-the-regreening.json](./350554-the-regreening.json) |
 | The Regular: Same Dog Every Time | 411750 | [411750-the-regular-same-dog-every-time.json](./411750-the-regular-same-dog-every-time.json) |
 | The Relief of Impact | 179751 | [179751-the-relief-of-impact.json](./179751-the-relief-of-impact.json) |
 | The Remainder: Act 1 | 170855 | [170855-the-remainder-act-1.json](./170855-the-remainder-act-1.json) |
@@ -11741,6 +11744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toaru Kagaku no Railgun | 12380 | [12380-toaru-kagaku-no-railgun.json](./12380-toaru-kagaku-no-railgun.json) |
 | Toaru Majutsu no Virtual-On | 55040 | [55040-toaru-majutsu-no-virtual-on.json](./55040-toaru-majutsu-no-virtual-on.json) |
 | Toast Ghost | 307739 | [307739-toast-ghost.json](./307739-toast-ghost.json) |
+| Toast Hell | 350556 | [350556-toast-hell.json](./350556-toast-hell.json) |
 | Toast Shooter | 260199 | [260199-toast-shooter.json](./260199-toast-shooter.json) |
 | Toast the Chicken: Hard Puzzle Game Unique Brain Teaser | 232534 | [232534-toast-the-chicken-hard-puzzle-game-unique-brain-teaser.json](./232534-toast-the-chicken-hard-puzzle-game-unique-brain-teaser.json) |
 | Toast! | 23987 | [23987-toast.json](./23987-toast.json) |
