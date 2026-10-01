@@ -696,6 +696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Dawn of War II - Retribution: The Last Standalone | 77255 | [77255-warhammer-40-000-dawn-of-war-ii-retribution-the-last-standalone.json](./77255-warhammer-40-000-dawn-of-war-ii-retribution-the-last-standalone.json) |
 | Warhammer 40,000: Dawn of War III - Collector's Edition | 27768 | [27768-warhammer-40-000-dawn-of-war-iii-collectors-edition.json](./27768-warhammer-40-000-dawn-of-war-iii-collectors-edition.json) |
 | Warhammer 40,000: Dawn of War III - Limited Edition | 27769 | [27769-warhammer-40-000-dawn-of-war-iii-limited-edition.json](./27769-warhammer-40-000-dawn-of-war-iii-limited-edition.json) |
+| Warhammer 40,000: Dawn of War IV | 361859 | [361859-warhammer-40-000-dawn-of-war-iv.json](./361859-warhammer-40-000-dawn-of-war-iv.json) |
 | Warhammer 40,000: Deathwatch - Enhanced Edition | 34636 | [34636-warhammer-40-000-deathwatch-enhanced-edition.json](./34636-warhammer-40-000-deathwatch-enhanced-edition.json) |
 | Warhammer 40,000: Eternal Crusade - Belial War Pack | 225868 | [225868-warhammer-40-000-eternal-crusade-belial-war-pack.json](./225868-warhammer-40-000-eternal-crusade-belial-war-pack.json) |
 | Warhammer 40,000: Eternal Crusade - Imperium Edition | 53902 | [53902-warhammer-40-000-eternal-crusade-imperium-edition.json](./53902-warhammer-40-000-eternal-crusade-imperium-edition.json) |
