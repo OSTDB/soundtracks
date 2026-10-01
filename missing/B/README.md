@@ -1030,6 +1030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bannerman | 70395 | [70395-bannerman.json](./70395-bannerman.json) |
 | Banners of Ruin: Collection | 324501 | [324501-banners-of-ruin-collection.json](./324501-banners-of-ruin-collection.json) |
 | Banners of Ruin: Moonstone | 230817 | [230817-banners-of-ruin-moonstone.json](./230817-banners-of-ruin-moonstone.json) |
+| Banpo's Bridge Wondrous Worlds | 348887 | [348887-banpos-bridge-wondrous-worlds.json](./348887-banpos-bridge-wondrous-worlds.json) |
 | Banquet for Fools | 318079 | [318079-banquet-for-fools.json](./318079-banquet-for-fools.json) |
 | Banquet of Nausea | 402887 | [402887-banquet-of-nausea.json](./402887-banquet-of-nausea.json) |
 | Banshee | 11939 | [11939-banshee.json](./11939-banshee.json) |
