@@ -4463,6 +4463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blades of Time: Limited Edition | 52656 | [52656-blades-of-time-limited-edition.json](./52656-blades-of-time-limited-edition.json) |
 | Blades of Vengeance | 45565 | [45565-blades-of-vengeance.json](./45565-blades-of-vengeance.json) |
 | Blades of Vharan | 396224 | [396224-blades-of-vharan.json](./396224-blades-of-vharan.json) |
+| Blades or Bets | 380647 | [380647-blades-or-bets.json](./380647-blades-or-bets.json) |
 | Blades, Bows & Magic | 329403 | [329403-blades-bows-and-magic.json](./329403-blades-bows-and-magic.json) |
 | Blaine Bananatree | 97458 | [97458-blaine-bananatree.json](./97458-blaine-bananatree.json) |
 | Blair Witch | 119298 | [119298-blair-witch.json](./119298-blair-witch.json) |
