@@ -2363,6 +2363,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relaxing Kite | 148571 | [148571-relaxing-kite.json](./148571-relaxing-kite.json) |
 | Relaxing Rain Sounds: Amayadori | 151669 | [151669-relaxing-rain-sounds-amayadori.json](./151669-relaxing-rain-sounds-amayadori.json) |
 | Relaxing Sudoku and Futushiki | 359073 | [359073-relaxing-sudoku-and-futushiki.json](./359073-relaxing-sudoku-and-futushiki.json) |
+| Relaxing Time: Enchanting France - Collector's Edition | 337245 | [337245-relaxing-time-enchanting-france-collectors-edition.json](./337245-relaxing-time-enchanting-france-collectors-edition.json) |
+| Relaxing Time: Italy Tour - Collector's Edition | 337246 | [337246-relaxing-time-italy-tour-collectors-edition.json](./337246-relaxing-time-italy-tour-collectors-edition.json) |
 | Relaxing Time: Paradise Resort - Collector's Edition | 304591 | [304591-relaxing-time-paradise-resort-collectors-edition.json](./304591-relaxing-time-paradise-resort-collectors-edition.json) |
 | Relaxing VR Games: Mahjong | 31166 | [31166-relaxing-vr-games-mahjong.json](./31166-relaxing-vr-games-mahjong.json) |
 | Relaxjong | 368677 | [368677-relaxjong.json](./368677-relaxjong.json) |
