@@ -2218,6 +2218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AirportPRG | 207868 | [207868-airportprg.json](./207868-airportprg.json) |
 | AirportSim | 204548 | [204548-airportsim.json](./204548-airportsim.json) |
 | AirportSim: Rovaniemi Airport | 283886 | [283886-airportsim-rovaniemi-airport.json](./283886-airportsim-rovaniemi-airport.json) |
+| Airrade: Summer | 384707 | [384707-airrade-summer.json](./384707-airrade-summer.json) |
 | Airranger | 122978 | [122978-airranger.json](./122978-airranger.json) |
 | AirRevo | 187453 | [187453-airrevo.json](./187453-airrevo.json) |
 | Airs Adventure | 45430 | [45430-airs-adventure.json](./45430-airs-adventure.json) |
