@@ -304,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate NFL Coaches Club Football | 81470 | [81470-ultimate-nfl-coaches-club-football.json](./81470-ultimate-nfl-coaches-club-football.json) |
 | Ultimate Ninja: Ninja King | 99410 | [99410-ultimate-ninja-ninja-king.json](./99410-ultimate-ninja-ninja-king.json) |
 | Ultimate Ocean Simulator | 86890 | [86890-ultimate-ocean-simulator.json](./86890-ultimate-ocean-simulator.json) |
+| Ultimate Pain | 364017 | [364017-ultimate-pain.json](./364017-ultimate-pain.json) |
 | Ultimate Paintball | 49901 | [49901-ultimate-paintball.json](./49901-ultimate-paintball.json) |
 | Ultimate Panzer | 216490 | [216490-ultimate-panzer.json](./216490-ultimate-panzer.json) |
 | Ultimate Pinball | 146840 | [146840-ultimate-pinball.json](./146840-ultimate-pinball.json) |
@@ -1385,6 +1386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unsorted Horror | 258669 | [258669-unsorted-horror.json](./258669-unsorted-horror.json) |
 | Unsought | 303073 | [303073-unsought.json](./303073-unsought.json) |
 | Unsouled | 124772 | [124772-unsouled.json](./124772-unsouled.json) |
+| Unspoken | 364004 | [364004-unspoken.json](./364004-unspoken.json) |
 | Unstable | 191248 | [191248-unstable.json](./191248-unstable.json) |
 | Unstable | 28858 | [28858-unstable.json](./28858-unstable.json) |
 | Unstable Blocks | 303224 | [303224-unstable-blocks.json](./303224-unstable-blocks.json) |
