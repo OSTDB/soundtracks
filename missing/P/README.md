@@ -3434,6 +3434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ping Of Death: Odyssey Live | 375862 | [375862-ping-of-death-odyssey-live.json](./375862-ping-of-death-odyssey-live.json) |
 | Ping Pong | 247006 | [247006-ping-pong.json](./247006-ping-pong.json) |
 | Ping Pong | 343478 | [343478-ping-pong.json](./343478-ping-pong.json) |
+| Ping Pong | 358839 | [358839-ping-pong.json](./358839-ping-pong.json) |
 | Ping Pong | 86218 | [86218-ping-pong.json](./86218-ping-pong.json) |
 | Ping Pong 3D | 90348 | [90348-ping-pong-3d.json](./90348-ping-pong-3d.json) |
 | Ping Pong League | 32252 | [32252-ping-pong-league.json](./32252-ping-pong-league.json) |
@@ -4261,6 +4262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planar Conquest | 33335 | [33335-planar-conquest.json](./33335-planar-conquest.json) |
 | Planarity | 246117 | [246117-planarity.json](./246117-planarity.json) |
 | Planck | 92468 | [92468-planck.json](./92468-planck.json) |
+| Planckman | 359025 | [359025-planckman.json](./359025-planckman.json) |
 | Plandzz | 51737 | [51737-plandzz.json](./51737-plandzz.json) |
 | Plane and Simple | 143108 | [143108-plane-and-simple.json](./143108-plane-and-simple.json) |
 | Plane Master | 232691 | [232691-plane-master.json](./232691-plane-master.json) |
@@ -5521,6 +5523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police: Chase Down | 82131 | [82131-police-chase-down.json](./82131-police-chase-down.json) |
 | Policenauts Pilot Disk | 37116 | [37116-policenauts-pilot-disk.json](./37116-policenauts-pilot-disk.json) |
 | Polidog Patrol | 365703 | [365703-polidog-patrol.json](./365703-polidog-patrol.json) |
+| Poligons | 358997 | [358997-poligons.json](./358997-poligons.json) |
 | PoligonVR | 258481 | [258481-poligonvr.json](./258481-poligonvr.json) |
 | Polilaser | 238493 | [238493-polilaser.json](./238493-polilaser.json) |
 | Polinizamor | 179037 | [179037-polinizamor.json](./179037-polinizamor.json) |
@@ -6605,6 +6608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pri Pri: Primitive Princess! | 66205 | [66205-pri-pri-primitive-princess.json](./66205-pri-pri-primitive-princess.json) |
 | Price for Freedom: Avarice | 234035 | [234035-price-for-freedom-avarice.json](./234035-price-for-freedom-avarice.json) |
 | Price for Freedom: Gold and Sand | 295345 | [295345-price-for-freedom-gold-and-sand.json](./295345-price-for-freedom-gold-and-sand.json) |
+| Price of a Life | 358991 | [358991-price-of-a-life.json](./358991-price-of-a-life.json) |
 | Price of Power | 291069 | [291069-price-of-power.json](./291069-price-of-power.json) |
 | PriceGuessers | 394860 | [394860-priceguessers.json](./394860-priceguessers.json) |
 | PriceRPG | 111217 | [111217-pricerpg.json](./111217-pricerpg.json) |
@@ -7459,6 +7463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Sail | 231367 | [231367-project-sail.json](./231367-project-sail.json) |
 | Project Sang | 176338 | [176338-project-sang.json](./176338-project-sang.json) |
 | Project Sara | 374591 | [374591-project-sara.json](./374591-project-sara.json) |
+| Project Save the Kiddins | 359006 | [359006-project-save-the-kiddins.json](./359006-project-save-the-kiddins.json) |
 | Project Scar | 288781 | [288781-project-scar.json](./288781-project-scar.json) |
 | Project Scav | 173279 | [173279-project-scav.json](./173279-project-scav.json) |
 | Project Screwed | 236293 | [236293-project-screwed.json](./236293-project-screwed.json) |
