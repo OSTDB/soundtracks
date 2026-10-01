@@ -3097,6 +3097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pierhead Arcade 2 | 188081 | [188081-pierhead-arcade-2.json](./188081-pierhead-arcade-2.json) |
 | Pierre le Chef is... Out to Lunch | 39042 | [39042-pierre-le-chef-is-out-to-lunch.json](./39042-pierre-le-chef-is-out-to-lunch.json) |
 | Pierrot à la Mode | 340572 | [340572-pierrot-a-la-mode.json](./340572-pierrot-a-la-mode.json) |
+| Pierrot’s Pilgrimage | 336097 | [336097-pierrot-s-pilgrimage.json](./336097-pierrot-s-pilgrimage.json) |
 | Pif Paf | 105323 | [105323-pif-paf.json](./105323-pif-paf.json) |
 | Pig | 367569 | [367569-pig.json](./367569-pig.json) |
 | Pig & Chikin | 341576 | [341576-pig-and-chikin.json](./341576-pig-and-chikin.json) |
