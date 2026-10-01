@@ -8010,6 +8010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Shoot | 330928 | [330928-duck-shoot.json](./330928-duck-shoot.json) |
 | Duck Shoot | 385597 | [385597-duck-shoot.json](./385597-duck-shoot.json) |
 | Duck Simulator 2 | 182367 | [182367-duck-simulator-2.json](./182367-duck-simulator-2.json) |
+| Duck Tales SNES | 377743 | [377743-duck-tales-snes.json](./377743-duck-tales-snes.json) |
 | Duck Tales ZX: Webby to the Rescue! | 279736 | [279736-duck-tales-zx-webby-to-the-rescue.json](./279736-duck-tales-zx-webby-to-the-rescue.json) |
 | Duck vs. Evil | 350453 | [350453-duck-vs-evil.json](./350453-duck-vs-evil.json) |
 | Duck Warfare | 96811 | [96811-duck-warfare.json](./96811-duck-warfare.json) |
