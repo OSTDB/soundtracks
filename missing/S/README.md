@@ -1533,6 +1533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooby-Doo: Funland Frenzy | 73002 | [73002-scooby-doo-funland-frenzy.json](./73002-scooby-doo-funland-frenzy.json) |
 | Scooby-Doo! & Looney Tunes Cartoon Universe: Adventure | 36326 | [36326-scooby-doo-and-looney-tunes-cartoon-universe-adventure.json](./36326-scooby-doo-and-looney-tunes-cartoon-universe-adventure.json) |
 | Scooby-Doo! & Looney Tunes Cartoon Universe: Arcade | 247599 | [247599-scooby-doo-and-looney-tunes-cartoon-universe-arcade.json](./247599-scooby-doo-and-looney-tunes-cartoon-universe-arcade.json) |
+| Scooby-Doo! 2: Dark Dungeons | 378383 | [378383-scooby-doo-2-dark-dungeons.json](./378383-scooby-doo-2-dark-dungeons.json) |
 | Scooby-Doo! First Frights | 2862 | [2862-scooby-doo-first-frights.json](./2862-scooby-doo-first-frights.json) |
 | Scooby-Doo! Mystery of the Fun Park Phantom | 2857 | [2857-scooby-doo-mystery-of-the-fun-park-phantom.json](./2857-scooby-doo-mystery-of-the-fun-park-phantom.json) |
 | Scooby-Doo! Unmasked | 210729 | [210729-scooby-doo-unmasked.json](./210729-scooby-doo-unmasked.json) |
@@ -6606,7 +6607,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SM64 Colorful Stars | 313109 | [313109-sm64-colorful-stars.json](./313109-sm64-colorful-stars.json) |
 | SM64 Coop Deluxe: Mario in the Multiverse | 378261 | [378261-sm64-coop-deluxe-mario-in-the-multiverse.json](./378261-sm64-coop-deluxe-mario-in-the-multiverse.json) |
 | SM64 Coop DX: Bananza Kong | 386853 | [386853-sm64-coop-dx-bananza-kong.json](./386853-sm64-coop-dx-bananza-kong.json) |
+| SM64 Coop DX: Mario on Indigo Island | 378332 | [378332-sm64-coop-dx-mario-on-indigo-island.json](./378332-sm64-coop-dx-mario-on-indigo-island.json) |
 | SM64 Coop DX: Super Mario World in Super Mario 64 | 360171 | [360171-sm64-coop-dx-super-mario-world-in-super-mario-64.json](./360171-sm64-coop-dx-super-mario-world-in-super-mario-64.json) |
+| SM64 Coop DX: Uranium Mario 64 | 378333 | [378333-sm64-coop-dx-uranium-mario-64.json](./378333-sm64-coop-dx-uranium-mario-64.json) |
 | SM64 Generations | 195080 | [195080-sm64-generations.json](./195080-sm64-generations.json) |
 | SM64 GeSEGKt | 392354 | [392354-sm64-gesegkt.json](./392354-sm64-gesegkt.json) |
 | SM64 Power Star Madness | 358286 | [358286-sm64-power-star-madness.json](./358286-sm64-power-star-madness.json) |
@@ -10137,6 +10140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spherix | 285514 | [285514-spherix.json](./285514-spherix.json) |
 | Spheroid | 100149 | [100149-spheroid.json](./100149-spheroid.json) |
 | Spheroid | 34535 | [34535-spheroid.json](./34535-spheroid.json) |
+| Spheromania | 378361 | [378361-spheromania.json](./378361-spheromania.json) |
 | Spherythm | 118456 | [118456-spherythm.json](./118456-spherythm.json) |
 | Sphinx Adventure | 13760 | [13760-sphinx-adventure.json](./13760-sphinx-adventure.json) |
 | Sphinx and the Cursed Mummy | 210438 | [210438-sphinx-and-the-cursed-mummy.json](./210438-sphinx-and-the-cursed-mummy.json) |
@@ -10588,6 +10592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Chase | 136485 | [136485-spooky-chase.json](./136485-spooky-chase.json) |
 | Spooky Dwellers 2: Collector's Edition | 272350 | [272350-spooky-dwellers-2-collectors-edition.json](./272350-spooky-dwellers-2-collectors-edition.json) |
 | Spooky Dwellers 4 | 418536 | [418536-spooky-dwellers-4.json](./418536-spooky-dwellers-4.json) |
+| Spooky Dwellers 4: Collector's Edition | 378357 | [378357-spooky-dwellers-4-collectors-edition.json](./378357-spooky-dwellers-4-collectors-edition.json) |
 | Spooky Dwellers 5: Collector's Edition | 416773 | [416773-spooky-dwellers-5-collectors-edition.json](./416773-spooky-dwellers-5-collectors-edition.json) |
 | Spooky Halloween in the Voxel World | 219681 | [219681-spooky-halloween-in-the-voxel-world.json](./219681-spooky-halloween-in-the-voxel-world.json) |
 | Spooky Hoofs | 90394 | [90394-spooky-hoofs.json](./90394-spooky-hoofs.json) |
