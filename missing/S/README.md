@@ -3364,6 +3364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowkin | 244515 | [244515-shadowkin.json](./244515-shadowkin.json) |
 | Shadowland | 119020 | [119020-shadowland.json](./119020-shadowland.json) |
 | Shadowland | 206147 | [206147-shadowland.json](./206147-shadowland.json) |
+| Shadowland: Rise of the Fallen | 360720 | [360720-shadowland-rise-of-the-fallen.json](./360720-shadowland-rise-of-the-fallen.json) |
 | Shadowlands | 37128 | [37128-shadowlands.json](./37128-shadowlands.json) |
 | Shadowless | 351081 | [351081-shadowless.json](./351081-shadowless.json) |
 | ShadowLight Siblings | 314300 | [314300-shadowlight-siblings.json](./314300-shadowlight-siblings.json) |
@@ -4155,6 +4156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinsouban Mahoutsukai to Goshujin-sama: Wizard and The Master | 60251 | [60251-shinsouban-mahoutsukai-to-goshujin-sama-wizard-and-the-master.json](./60251-shinsouban-mahoutsukai-to-goshujin-sama-wizard-and-the-master.json) |
 | Shiny Ninjas | 36479 | [36479-shiny-ninjas.json](./36479-shiny-ninjas.json) |
 | Shiny Sisters | 336596 | [336596-shiny-sisters.json](./336596-shiny-sisters.json) |
+| Shiny Stones | 360696 | [360696-shiny-stones.json](./360696-shiny-stones.json) |
 | Shiny Summer | 164897 | [164897-shiny-summer.json](./164897-shiny-summer.json) |
 | Shiny the Firefly | 10823 | [10823-shiny-the-firefly.json](./10823-shiny-the-firefly.json) |
 | Shiny-Man-Adventures | 211751 | [211751-shiny-man-adventures.json](./211751-shiny-man-adventures.json) |
@@ -10388,6 +10390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin Dasher | 410469 | [410469-spin-dasher.json](./410469-spin-dasher.json) |
 | Spin Doctor | 175389 | [175389-spin-doctor.json](./175389-spin-doctor.json) |
 | Spin Evolution | 116288 | [116288-spin-evolution.json](./116288-spin-evolution.json) |
+| Spin Forward | 360716 | [360716-spin-forward.json](./360716-spin-forward.json) |
 | Spin Hero | 298130 | [298130-spin-hero.json](./298130-spin-hero.json) |
 | Spin Jam | 24129 | [24129-spin-jam.json](./24129-spin-jam.json) |
 | Spin Off 2 | 54381 | [54381-spin-off-2.json](./54381-spin-off-2.json) |
@@ -13021,6 +13024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm VR | 33175 | [33175-storm-vr.json](./33175-storm-vr.json) |
 | Storm Wars | 56482 | [56482-storm-wars.json](./56482-storm-wars.json) |
 | Storm: Frontline Nation | 10928 | [10928-storm-frontline-nation.json](./10928-storm-frontline-nation.json) |
+| Storm's Wrath | 360630 | [360630-storms-wrath.json](./360630-storms-wrath.json) |
 | Stormball | 77379 | [77379-stormball.json](./77379-stormball.json) |
 | Stormbane | 258956 | [258956-stormbane.json](./258956-stormbane.json) |
 | Stormbinders | 336520 | [336520-stormbinders.json](./336520-stormbinders.json) |
@@ -13755,6 +13759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sub Rebellion | 43329 | [43329-sub-rebellion.json](./43329-sub-rebellion.json) |
 | Sub Rosa | 16951 | [16951-sub-rosa.json](./16951-sub-rosa.json) |
 | Sub Stalker | 93053 | [93053-sub-stalker.json](./93053-sub-stalker.json) |
+| Sub Terra | 360717 | [360717-sub-terra.json](./360717-sub-terra.json) |
 | Sub Terra Draconis | 57099 | [57099-sub-terra-draconis.json](./57099-sub-terra-draconis.json) |
 | Sub Terra Draconis: Hidden Glade | 382887 | [382887-sub-terra-draconis-hidden-glade.json](./382887-sub-terra-draconis-hidden-glade.json) |
 | Sub Terrania | 22680 | [22680-sub-terrania.json](./22680-sub-terrania.json) |
@@ -14271,6 +14276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summoner Apprentice | 158572 | [158572-summoner-apprentice.json](./158572-summoner-apprentice.json) |
 | Summoner Rises | 308904 | [308904-summoner-rises.json](./308904-summoner-rises.json) |
 | Summoner Symbols | 316802 | [316802-summoner-symbols.json](./316802-summoner-symbols.json) |
+| Summoner's Automata | 360691 | [360691-summoners-automata.json](./360691-summoners-automata.json) |
 | Summoner's Gambit | 353894 | [353894-summoners-gambit.json](./353894-summoners-gambit.json) |
 | Summoner's Handbook | 181696 | [181696-summoners-handbook.json](./181696-summoners-handbook.json) |
 | Summoner's Sky | 295562 | [295562-summoners-sky.json](./295562-summoners-sky.json) |
@@ -16324,6 +16330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive Ten Days | 306094 | [306094-survive-ten-days.json](./306094-survive-ten-days.json) |
 | Survive the Apocalypse | 404208 | [404208-survive-the-apocalypse.json](./404208-survive-the-apocalypse.json) |
 | Survive the Backrooms! | 192961 | [192961-survive-the-backrooms.json](./192961-survive-the-backrooms.json) |
+| Survive the Cards | 360721 | [360721-survive-the-cards.json](./360721-survive-the-cards.json) |
 | Survive the Fall | 216900 | [216900-survive-the-fall.json](./216900-survive-the-fall.json) |
 | Survive the Forest | 219572 | [219572-survive-the-forest.json](./219572-survive-the-forest.json) |
 | Survive the Grid | 365162 | [365162-survive-the-grid.json](./365162-survive-the-grid.json) |
