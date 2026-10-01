@@ -6885,6 +6885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Next Stop | 364026 | [364026-the-next-stop.json](./364026-the-next-stop.json) |
 | The Next Tetris | 51179 | [51179-the-next-tetris.json](./51179-the-next-tetris.json) |
 | The Night Guard | 295385 | [295385-the-night-guard.json](./295385-the-night-guard.json) |
+| The Night Is Long | 350010 | [350010-the-night-is-long.json](./350010-the-night-is-long.json) |
 | The Night Jackals Vol. 1 | 289975 | [289975-the-night-jackals-vol-1.json](./289975-the-night-jackals-vol-1.json) |
 | The Night Journey | 105505 | [105505-the-night-journey.json](./105505-the-night-journey.json) |
 | The Night of Erosion: Prequel | 267677 | [267677-the-night-of-erosion-prequel.json](./267677-the-night-of-erosion-prequel.json) |
@@ -7289,6 +7290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Promised Land | 17318 | [17318-the-promised-land.json](./17318-the-promised-land.json) |
 | The Promised Land | 78648 | [78648-the-promised-land.json](./78648-the-promised-land.json) |
 | The Prophecy | 12822 | [12822-the-prophecy.json](./12822-the-prophecy.json) |
+| The Prophecy of Horn | 349999 | [349999-the-prophecy-of-horn.json](./349999-the-prophecy-of-horn.json) |
 | The Prophecy of Statues | 109754 | [109754-the-prophecy-of-statues.json](./109754-the-prophecy-of-statues.json) |
 | The Proposal | 310587 | [310587-the-proposal.json](./310587-the-proposal.json) |
 | The Protean Forest | 267426 | [267426-the-protean-forest.json](./267426-the-protean-forest.json) |
@@ -7566,10 +7568,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Road 2 Success | 97386 | [97386-the-road-2-success.json](./97386-the-road-2-success.json) |
 | The Road Driver | 221387 | [221387-the-road-driver.json](./221387-the-road-driver.json) |
 | The Road Less Taken | 219122 | [219122-the-road-less-taken.json](./219122-the-road-less-taken.json) |
+| The Road Not Taken | 349968 | [349968-the-road-not-taken.json](./349968-the-road-not-taken.json) |
 | The Road to Baghdad | 24108 | [24108-the-road-to-baghdad.json](./24108-the-road-to-baghdad.json) |
 | The Road to Gettysburg | 24885 | [24885-the-road-to-gettysburg.json](./24885-the-road-to-gettysburg.json) |
 | The Road to Hades | 96354 | [96354-the-road-to-hades.json](./96354-the-road-to-hades.json) |
 | The Roaring Empire | 132661 | [132661-the-roaring-empire.json](./132661-the-roaring-empire.json) |
+| The Roast: Coffee Shop Simulator | 350012 | [350012-the-roast-coffee-shop-simulator.json](./350012-the-roast-coffee-shop-simulator.json) |
 | The Robolovers | 172707 | [172707-the-robolovers.json](./172707-the-robolovers.json) |
 | The Rock and the Rose | 353996 | [353996-the-rock-and-the-rose.json](./353996-the-rock-and-the-rose.json) |
 | The Rocket Jumper | 232965 | [232965-the-rocket-jumper.json](./232965-the-rocket-jumper.json) |
