@@ -421,6 +421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10Minutes | 258997 | [258997-10minutes.json](./258997-10minutes.json) |
 | 10n: Ten Power N | 392455 | [392455-10n-ten-power-n.json](./392455-10n-ten-power-n.json) |
 | 10s | 397234 | [397234-10s.json](./397234-10s.json) |
+| 10S Forever | 343951 | [343951-10s-forever.json](./343951-10s-forever.json) |
 | 10SII | 143489 | [143489-10sii.json](./143489-10sii.json) |
 | 11 Eyes: CrossOver | 47396 | [47396-11-eyes-crossover.json](./47396-11-eyes-crossover.json) |
 | 11 Trials of Raz | 379454 | [379454-11-trials-of-raz.json](./379454-11-trials-of-raz.json) |
