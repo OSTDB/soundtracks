@@ -4430,6 +4430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clam Man | 114921 | [114921-clam-man.json](./114921-clam-man.json) |
 | Clamb | 278553 | [278553-clamb.json](./278553-clamb.json) |
 | Clan and Crown | 402939 | [402939-clan-and-crown.json](./402939-clan-and-crown.json) |
+| Clan Fantasy Adventures | 373156 | [373156-clan-fantasy-adventures.json](./373156-clan-fantasy-adventures.json) |
 | Clan Generator | 212244 | [212244-clan-generator.json](./212244-clan-generator.json) |
 | Clan of Champions | 16341 | [16341-clan-of-champions.json](./16341-clan-of-champions.json) |
 | Clan Wars | 188089 | [188089-clan-wars.json](./188089-clan-wars.json) |
@@ -8069,6 +8070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Moon | 389428 | [389428-crimson-moon.json](./389428-crimson-moon.json) |
 | Crimson Needle 3 | 265205 | [265205-crimson-needle-3.json](./265205-crimson-needle-3.json) |
 | Crimson Night | 403099 | [403099-crimson-night.json](./403099-crimson-night.json) |
+| Crimson Oath | 373152 | [373152-crimson-oath.json](./373152-crimson-oath.json) |
 | Crimson Realms: Relics of the Forgotten World | 389959 | [389959-crimson-realms-relics-of-the-forgotten-world.json](./389959-crimson-realms-relics-of-the-forgotten-world.json) |
 | Crimson Room | 247536 | [247536-crimson-room.json](./247536-crimson-room.json) |
 | Crimson Room: Decade | 25809 | [25809-crimson-room-decade.json](./25809-crimson-room-decade.json) |
@@ -8533,6 +8535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crush Roller | 72747 | [72747-crush-roller.json](./72747-crush-roller.json) |
 | Crush the Industry | 158700 | [158700-crush-the-industry.json](./158700-crush-the-industry.json) |
 | Crush the Monsters: Cannon Game | 232398 | [232398-crush-the-monsters-cannon-game.json](./232398-crush-the-monsters-cannon-game.json) |
+| Crush the Rebellion! | 373136 | [373136-crush-the-rebellion.json](./373136-crush-the-rebellion.json) |
 | Crush Your Enemies | 17027 | [17027-crush-your-enemies.json](./17027-crush-your-enemies.json) |
 | Crush Your Enemies: Complete Plundered Edition | 52856 | [52856-crush-your-enemies-complete-plundered-edition.json](./52856-crush-your-enemies-complete-plundered-edition.json) |
 | CrushBorgs | 199626 | [199626-crushborgs.json](./199626-crushborgs.json) |
