@@ -464,6 +464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take Off: The Flight Simulator | 89683 | [89683-take-off-the-flight-simulator.json](./89683-take-off-the-flight-simulator.json) |
 | Take on Helicopters: Hinds | 166219 | [166219-take-on-helicopters-hinds.json](./166219-take-on-helicopters-hinds.json) |
 | Take Shape | 92488 | [92488-take-shape.json](./92488-take-shape.json) |
+| Take Stock | 348369 | [348369-take-stock.json](./348369-take-stock.json) |
 | Take the Cake | 76290 | [76290-take-the-cake.json](./76290-take-the-cake.json) |
 | Take the Earth | 258439 | [258439-take-the-earth.json](./258439-take-the-earth.json) |
 | Take the King! | 270737 | [270737-take-the-king.json](./270737-take-the-king.json) |
@@ -4378,6 +4379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Eternal Castle: Remastered | 112074 | [112074-the-eternal-castle-remastered.json](./112074-the-eternal-castle-remastered.json) |
 | The Eternal Cylinder | 121715 | [121715-the-eternal-cylinder.json](./121715-the-eternal-cylinder.json) |
 | The Eternal Fool | 217496 | [217496-the-eternal-fool.json](./217496-the-eternal-fool.json) |
+| The Eternal Hunt | 348399 | [348399-the-eternal-hunt.json](./348399-the-eternal-hunt.json) |
 | The Eternal Mines | 379379 | [379379-the-eternal-mines.json](./379379-the-eternal-mines.json) |
 | The Eternal Woods | 414427 | [414427-the-eternal-woods.json](./414427-the-eternal-woods.json) |
 | The Evelyn Game | 370315 | [370315-the-evelyn-game.json](./370315-the-evelyn-game.json) |
@@ -6540,6 +6542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Maid | 335680 | [335680-the-maid.json](./335680-the-maid.json) |
 | The Maid-san's Caving Adventure | 90644 | [90644-the-maid-sans-caving-adventure.json](./90644-the-maid-sans-caving-adventure.json) |
 | The Mailroom | 365273 | [365273-the-mailroom.json](./365273-the-mailroom.json) |
+| The Maimed God's Saga | 348380 | [348380-the-maimed-gods-saga.json](./348380-the-maimed-gods-saga.json) |
 | The Main Menu | 418516 | [418516-the-main-menu.json](./418516-the-main-menu.json) |
 | The Majestic | 211745 | [211745-the-majestic.json](./211745-the-majestic.json) |
 | The Majesty of Colors | 41956 | [41956-the-majesty-of-colors.json](./41956-the-majesty-of-colors.json) |
@@ -9741,6 +9744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This was Once a Place of Honour | 239199 | [239199-this-was-once-a-place-of-honour.json](./239199-this-was-once-a-place-of-honour.json) |
 | This Way Madness Lies | 221775 | [221775-this-way-madness-lies.json](./221775-this-way-madness-lies.json) |
 | This Way!! | 199943 | [199943-this-way.json](./199943-this-way.json) |
+| This World Is Over | 348386 | [348386-this-world-is-over.json](./348386-this-world-is-over.json) |
 | This, My Soul | 179692 | [179692-this-my-soul.json](./179692-this-my-soul.json) |
 | Thistledown: Marrowroot | 216502 | [216502-thistledown-marrowroot.json](./216502-thistledown-marrowroot.json) |
 | THO Simulator | 188086 | [188086-tho-simulator.json](./188086-tho-simulator.json) |
