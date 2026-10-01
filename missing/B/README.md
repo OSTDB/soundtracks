@@ -1867,6 +1867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Golf Online | 90703 | [90703-battle-golf-online.json](./90703-battle-golf-online.json) |
 | Battle Grand Prix | 42628 | [42628-battle-grand-prix.json](./42628-battle-grand-prix.json) |
 | Battle Grid Arena | 306333 | [306333-battle-grid-arena.json](./306333-battle-grid-arena.json) |
+| Battle Ground Battle Royale | 344516 | [344516-battle-ground-battle-royale.json](./344516-battle-ground-battle-royale.json) |
 | Battle Ground Training | 98769 | [98769-battle-ground-training.json](./98769-battle-ground-training.json) |
 | Battle Grounds III | 117066 | [117066-battle-grounds-iii.json](./117066-battle-grounds-iii.json) |
 | Battle Group 2 | 10040 | [10040-battle-group-2.json](./10040-battle-group-2.json) |
@@ -2888,6 +2889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind Enemy Line | 156167 | [156167-behind-enemy-line.json](./156167-behind-enemy-line.json) |
 | Behind Nowhere | 105403 | [105403-behind-nowhere.json](./105403-behind-nowhere.json) |
 | Behind the Beyond | 176908 | [176908-behind-the-beyond.json](./176908-behind-the-beyond.json) |
+| Behind The Beyond | 344424 | [344424-behind-the-beyond.json](./344424-behind-the-beyond.json) |
 | Behind the Beyond: Ulti | 277979 | [277979-behind-the-beyond-ulti.json](./277979-behind-the-beyond-ulti.json) |
 | Behind the Frame: The Finest Scenery | 148499 | [148499-behind-the-frame-the-finest-scenery.json](./148499-behind-the-frame-the-finest-scenery.json) |
 | Behind the Horizon: The Desert | 195239 | [195239-behind-the-horizon-the-desert.json](./195239-behind-the-horizon-the-desert.json) |
@@ -2996,6 +2998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10 Bundle | 146329 | [146329-ben-10-bundle.json](./146329-ben-10-bundle.json) |
 | Ben 10 Game Generator | 130941 | [130941-ben-10-game-generator.json](./130941-ben-10-game-generator.json) |
 | Ben 10 Game Generator 4D | 131350 | [131350-ben-10-game-generator-4d.json](./131350-ben-10-game-generator-4d.json) |
+| Ben 10 Omniverse: The Return of Psyphon | 344520 | [344520-ben-10-omniverse-the-return-of-psyphon.json](./344520-ben-10-omniverse-the-return-of-psyphon.json) |
 | Ben 10 Slammers | 88305 | [88305-ben-10-slammers.json](./88305-ben-10-slammers.json) |
 | Ben 10 Triple Pack | 86074 | [86074-ben-10-triple-pack.json](./86074-ben-10-triple-pack.json) |
 | Ben 10 Ultimate Alien: Mind Mine | 231387 | [231387-ben-10-ultimate-alien-mind-mine.json](./231387-ben-10-ultimate-alien-mind-mine.json) |
@@ -6172,6 +6175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boobs | 268499 | [268499-boobs.json](./268499-boobs.json) |
 | Boobs | 344551 | [344551-boobs.json](./344551-boobs.json) |
 | Boobs Hidden Los Angeles | 320329 | [320329-boobs-hidden-los-angeles.json](./320329-boobs-hidden-los-angeles.json) |
+| Boobs Hidden Rio De Janeiro | 344522 | [344522-boobs-hidden-rio-de-janeiro.json](./344522-boobs-hidden-rio-de-janeiro.json) |
 | Boobs on Island | 97179 | [97179-boobs-on-island.json](./97179-boobs-on-island.json) |
 | Boobs or [Redacted] | 368061 | [368061-boobs-or-redacted.json](./368061-boobs-or-redacted.json) |
 | Boobs Saga | 89322 | [89322-boobs-saga.json](./89322-boobs-saga.json) |
@@ -7167,6 +7171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breadbulls | 351264 | [351264-breadbulls.json](./351264-breadbulls.json) |
 | Breadieval | 361683 | [361683-breadieval.json](./361683-breadieval.json) |
 | BreadKnight Adventures | 355568 | [355568-breadknight-adventures.json](./355568-breadknight-adventures.json) |
+| Breadleg | 344496 | [344496-breadleg.json](./344496-breadleg.json) |
 | Breadskate Forever | 350543 | [350543-breadskate-forever.json](./350543-breadskate-forever.json) |
 | Breadwinner VR | 55493 | [55493-breadwinner-vr.json](./55493-breadwinner-vr.json) |
 | Break 'Em All | 20534 | [20534-break-em-all.json](./20534-break-em-all.json) |
@@ -7346,6 +7351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Breaker Bunch | 87968 | [87968-brick-breaker-bunch.json](./87968-brick-breaker-bunch.json) |
 | Brick Breaker Infinity | 305932 | [305932-brick-breaker-infinity.json](./305932-brick-breaker-infinity.json) |
 | Brick Breaker Lab | 237306 | [237306-brick-breaker-lab.json](./237306-brick-breaker-lab.json) |
+| Brick Breaker Maker | 344515 | [344515-brick-breaker-maker.json](./344515-brick-breaker-maker.json) |
 | Brick Breaker Premium | 104081 | [104081-brick-breaker-premium.json](./104081-brick-breaker-premium.json) |
 | Brick Breaker Revolution | 383630 | [383630-brick-breaker-revolution.json](./383630-brick-breaker-revolution.json) |
 | Brick Breaker Unicorn | 151199 | [151199-brick-breaker-unicorn.json](./151199-brick-breaker-unicorn.json) |
@@ -7356,6 +7362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Building | 166220 | [166220-brick-building.json](./166220-brick-building.json) |
 | Brick City | 214526 | [214526-brick-city.json](./214526-brick-city.json) |
 | Brick Crossy Road | 241613 | [241613-brick-crossy-road.json](./241613-brick-crossy-road.json) |
+| Brick Exorcist | 344423 | [344423-brick-exorcist.json](./344423-brick-exorcist.json) |
 | Brick Force: Black Knight | 155573 | [155573-brick-force-black-knight.json](./155573-brick-force-black-knight.json) |
 | Brick Force: Navy Soldier | 155572 | [155572-brick-force-navy-soldier.json](./155572-brick-force-navy-soldier.json) |
 | Brick Game | 106202 | [106202-brick-game.json](./106202-brick-game.json) |
@@ -7626,6 +7633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broom Racer | 405525 | [405525-broom-racer.json](./405525-broom-racer.json) |
 | Broomball | 32147 | [32147-broomball.json](./32147-broomball.json) |
 | Broombot Battlegrounds | 235174 | [235174-broombot-battlegrounds.json](./235174-broombot-battlegrounds.json) |
+| Broomstick Exorcist | 344497 | [344497-broomstick-exorcist.json](./344497-broomstick-exorcist.json) |
 | BroomSweeper | 345662 | [345662-broomsweeper.json](./345662-broomsweeper.json) |
 | Bros | 198391 | [198391-bros.json](./198391-bros.json) |
 | Bros Survivors | 404928 | [404928-bros-survivors.json](./404928-bros-survivors.json) |
