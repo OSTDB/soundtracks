@@ -3082,6 +3082,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigeon: A Love Story | 368542 | [368542-pigeon-a-love-story.json](./368542-pigeon-a-love-story.json) |
 | Pigeon's Mission | 287762 | [287762-pigeons-mission.json](./287762-pigeons-mission.json) |
 | Pigeons Attack | 90831 | [90831-pigeons-attack.json](./90831-pigeons-attack.json) |
+| Pigg Life | 355167 | [355167-pigg-life.json](./355167-pigg-life.json) |
+| Pigg Party | 355157 | [355157-pigg-party.json](./355157-pigg-party.json) |
 | Piggy Go | 212489 | [212489-piggy-go.json](./212489-piggy-go.json) |
 | Piggy Monte | 415154 | [415154-piggy-monte.json](./415154-piggy-monte.json) |
 | Piggy One Super Spark | 303002 | [303002-piggy-one-super-spark.json](./303002-piggy-one-super-spark.json) |
