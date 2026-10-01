@@ -450,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12am | 212754 | [212754-12am.json](./212754-12am.json) |
 | 12nin no Onna Kyoushi | 98423 | [98423-12nin-no-onna-kyoushi.json](./98423-12nin-no-onna-kyoushi.json) |
 | 12nin no Onna Kyoushi Re-Innovation -In- | 98419 | [98419-12nin-no-onna-kyoushi-re-innovation-in.json](./98419-12nin-no-onna-kyoushi-re-innovation-in.json) |
+| 13 Bones | 384726 | [384726-13-bones.json](./384726-13-bones.json) |
 | 13 Cycles | 102927 | [102927-13-cycles.json](./102927-13-cycles.json) |
 | 13 Jellyfish | 176793 | [176793-13-jellyfish.json](./176793-13-jellyfish.json) |
 | 13 Laurel Road | 177834 | [177834-13-laurel-road.json](./177834-13-laurel-road.json) |
