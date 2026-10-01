@@ -6235,6 +6235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiniState | 129683 | [129683-ministate.json](./129683-ministate.json) |
 | Ministry of Order | 334893 | [334893-ministry-of-order.json](./334893-ministry-of-order.json) |
 | Ministry of Sound: Club Manager | 57933 | [57933-ministry-of-sound-club-manager.json](./57933-ministry-of-sound-club-manager.json) |
+| Ministry of Truth: False Memory | 346204 | [346204-ministry-of-truth-false-memory.json](./346204-ministry-of-truth-false-memory.json) |
 | Minitechno | 278529 | [278529-minitechno.json](./278529-minitechno.json) |
 | MiniTracks | 108646 | [108646-minitracks.json](./108646-minitracks.json) |
 | MiniTrans | 202664 | [202664-minitrans.json](./202664-minitrans.json) |
@@ -7307,6 +7308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monobehevo | 196678 | [196678-monobehevo.json](./196678-monobehevo.json) |
 | Monobeno: Happy End | 396370 | [396370-monobeno-happy-end.json](./396370-monobeno-happy-end.json) |
 | Monochro | 150164 | [150164-monochro.json](./150164-monochro.json) |
+| Monochromality | 346170 | [346170-monochromality.json](./346170-monochromality.json) |
 | Monochromaniacs | 124147 | [124147-monochromaniacs.json](./124147-monochromaniacs.json) |
 | Monochromatic Aberration | 417673 | [417673-monochromatic-aberration.json](./417673-monochromatic-aberration.json) |
 | Monochrome Boo & Baby Boo: Kururin Boo | 273419 | [273419-monochrome-boo-and-baby-boo-kururin-boo.json](./273419-monochrome-boo-and-baby-boo-kururin-boo.json) |
@@ -9579,6 +9581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Empire | 149590 | [149590-my-empire.json](./149590-my-empire.json) |
 | My English Coach: Para Hispanoparlantes | 82064 | [82064-my-english-coach-para-hispanoparlantes.json](./82064-my-english-coach-para-hispanoparlantes.json) |
 | My Escort Company | 215916 | [215916-my-escort-company.json](./215916-my-escort-company.json) |
+| My Esports Club | 346192 | [346192-my-esports-club.json](./346192-my-esports-club.json) |
 | My European Trucking Skills | 316856 | [316856-my-european-trucking-skills.json](./316856-my-european-trucking-skills.json) |
 | My Everyday Life at Insect Academy | 364529 | [364529-my-everyday-life-at-insect-academy.json](./364529-my-everyday-life-at-insect-academy.json) |
 | My evil magician boss suddenly loves me?! | 385053 | [385053-my-evil-magician-boss-suddenly-loves-me.json](./385053-my-evil-magician-boss-suddenly-loves-me.json) |
@@ -9834,6 +9837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Mine | 262896 | [262896-my-mine.json](./262896-my-mine.json) |
 | My Mistress | 221202 | [221202-my-mistress.json](./221202-my-mistress.json) |
 | My Mistress Lu Bu | 253892 | [253892-my-mistress-lu-bu.json](./253892-my-mistress-lu-bu.json) |
+| My Mom's Bestfriend! | 346194 | [346194-my-moms-bestfriend.json](./346194-my-moms-bestfriend.json) |
 | My Monster | 318391 | [318391-my-monster.json](./318391-my-monster.json) |
 | My Monster Rancher | 61129 | [61129-my-monster-rancher.json](./61129-my-monster-rancher.json) |
 | My Moon Mart | 212467 | [212467-my-moon-mart.json](./212467-my-moon-mart.json) |
