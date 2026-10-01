@@ -297,6 +297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamikomori | 358504 | [358504-kamikomori.json](./358504-kamikomori.json) |
 | Kamikuishiki-mura Monogatari | 130768 | [130768-kamikuishiki-mura-monogatari.json](./130768-kamikuishiki-mura-monogatari.json) |
 | Kamikura Hina no Himitsu: Gohoubi ha Watashi no Karada | 396484 | [396484-kamikura-hina-no-himitsu-gohoubi-ha-watashi-no-karada.json](./396484-kamikura-hina-no-himitsu-gohoubi-ha-watashi-no-karada.json) |
+| Kamilia | 336672 | [336672-kamilia.json](./336672-kamilia.json) |
 | Kamimachi Site - Dating story | 118287 | [118287-kamimachi-site-dating-story.json](./118287-kamimachi-site-dating-story.json) |
 | Kaminariko Konpeki no Akira | 221246 | [221246-kaminariko-konpeki-no-akira.json](./221246-kaminariko-konpeki-no-akira.json) |
 | Kaminazo: Mirai kara no Omoi de | 222261 | [222261-kaminazo-mirai-kara-no-omoi-de.json](./222261-kaminazo-mirai-kara-no-omoi-de.json) |
@@ -366,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanji Wars | 346014 | [346014-kanji-wars.json](./346014-kanji-wars.json) |
 | KanjiFlash | 367056 | [367056-kanjiflash.json](./367056-kanjiflash.json) |
 | Kanjozoku Game: Car Racing & Highway Driving Simulator Remaster | 399798 | [399798-kanjozoku-game-car-racing-and-highway-driving-simulator-remaster.json](./399798-kanjozoku-game-car-racing-and-highway-driving-simulator-remaster.json) |
+| Kanna School | 336662 | [336662-kanna-school.json](./336662-kanna-school.json) |
 | Kannagi no Mori Samidare Tsuzuri | 136476 | [136476-kannagi-no-mori-samidare-tsuzuri.json](./136476-kannagi-no-mori-samidare-tsuzuri.json) |
 | Kannou Mukashi Banashi Portable | 56766 | [56766-kannou-mukashi-banashi-portable.json](./56766-kannou-mukashi-banashi-portable.json) |
 | Kanojo * Step | 139862 | [139862-kanojo-step.json](./139862-kanojo-step.json) |
