@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's: The Hunt - Championship Edition | 110706 | [110706-cabelas-the-hunt-championship-edition.json](./110706-cabelas-the-hunt-championship-edition.json) |
 | Cabernet | 250803 | [250803-cabernet.json](./250803-cabernet.json) |
 | Cabin Crew Life Simulator | 302423 | [302423-cabin-crew-life-simulator.json](./302423-cabin-crew-life-simulator.json) |
+| Cabin Escape | 362984 | [362984-cabin-escape.json](./362984-cabin-escape.json) |
 | Cabin of Souls | 254002 | [254002-cabin-of-souls.json](./254002-cabin-of-souls.json) |
 | Cabin Rush | 248004 | [248004-cabin-rush.json](./248004-cabin-rush.json) |
 | Cabinet of Curiosities VR | 201691 | [201691-cabinet-of-curiosities-vr.json](./201691-cabinet-of-curiosities-vr.json) |
@@ -290,6 +291,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops - Zombies | 77267 | [77267-call-of-duty-black-ops-zombies.json](./77267-call-of-duty-black-ops-zombies.json) |
 | Call of Duty: Black Ops 6 - Season 1 | 324925 | [324925-call-of-duty-black-ops-6-season-1.json](./324925-call-of-duty-black-ops-6-season-1.json) |
 | Call Of Duty: Black Ops 6 - Season 2 | 330137 | [330137-call-of-duty-black-ops-6-season-2.json](./330137-call-of-duty-black-ops-6-season-2.json) |
+| Call of Duty: Black Ops 6 - Season 3 | 362953 | [362953-call-of-duty-black-ops-6-season-3.json](./362953-call-of-duty-black-ops-6-season-3.json) |
+| Call of Duty: Black Ops 6 - Season 4 | 362955 | [362955-call-of-duty-black-ops-6-season-4.json](./362955-call-of-duty-black-ops-6-season-4.json) |
+| Call of Duty: Black Ops 6 - Season 5 | 362956 | [362956-call-of-duty-black-ops-6-season-5.json](./362956-call-of-duty-black-ops-6-season-5.json) |
 | Call of Duty: Black Ops Cold War | 137001 | [137001-call-of-duty-black-ops-cold-war.json](./137001-call-of-duty-black-ops-cold-war.json) |
 | Call of Duty: Black Ops Cold War - Season Four | 152117 | [152117-call-of-duty-black-ops-cold-war-season-four.json](./152117-call-of-duty-black-ops-cold-war-season-four.json) |
 | Call of Duty: Black Ops Cold War - Season Six | 172674 | [172674-call-of-duty-black-ops-cold-war-season-six.json](./172674-call-of-duty-black-ops-cold-war-season-six.json) |
@@ -1125,6 +1129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardinal Quest | 46744 | [46744-cardinal-quest.json](./46744-cardinal-quest.json) |
 | Cardinal Ramship Pirate | 176295 | [176295-cardinal-ramship-pirate.json](./176295-cardinal-ramship-pirate.json) |
 | Cardinal Sequence | 333163 | [333163-cardinal-sequence.json](./333163-cardinal-sequence.json) |
+| Cardio | 363000 | [363000-cardio.json](./363000-cardio.json) |
 | CardioCasino | 177924 | [177924-cardiocasino.json](./177924-cardiocasino.json) |
 | CardioEX | 215246 | [215246-cardioex.json](./215246-cardioex.json) |
 | Cardiophobia | 124601 | [124601-cardiophobia.json](./124601-cardiophobia.json) |
@@ -2763,6 +2768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChaosTower | 120326 | [120326-chaostower.json](./120326-chaostower.json) |
 | ChaosWorld | 221183 | [221183-chaosworld.json](./221183-chaosworld.json) |
 | Chaotic Airport Construction Manager | 149608 | [149608-chaotic-airport-construction-manager.json](./149608-chaotic-airport-construction-manager.json) |
+| Chaotic Cats | 362988 | [362988-chaotic-cats.json](./362988-chaotic-cats.json) |
 | Chaotic Loop | 202650 | [202650-chaotic-loop.json](./202650-chaotic-loop.json) |
 | Chaotic Pursuit | 259857 | [259857-chaotic-pursuit.json](./259857-chaotic-pursuit.json) |
 | Chaotic World | 414343 | [414343-chaotic-world.json](./414343-chaotic-world.json) |
