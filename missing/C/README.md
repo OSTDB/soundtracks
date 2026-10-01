@@ -3851,6 +3851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chroma Blast | 43498 | [43498-chroma-blast.json](./43498-chroma-blast.json) |
 | Chroma Cannon | 136245 | [136245-chroma-cannon.json](./136245-chroma-cannon.json) |
 | Chroma Chronicles | 194450 | [194450-chroma-chronicles.json](./194450-chroma-chronicles.json) |
+| Chroma Crush | 343955 | [343955-chroma-crush.json](./343955-chroma-crush.json) |
 | Chroma Deluxe: Sexy Hentai Girls | 368062 | [368062-chroma-deluxe-sexy-hentai-girls.json](./368062-chroma-deluxe-sexy-hentai-girls.json) |
 | Chroma Match | 102822 | [102822-chroma-match.json](./102822-chroma-match.json) |
 | Chroma Quaternion: Experience & RP x2 | 171029 | [171029-chroma-quaternion-experience-and-rp-x2.json](./171029-chroma-quaternion-experience-and-rp-x2.json) |
@@ -4715,6 +4716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clear the Lot | 224082 | [224082-clear-the-lot.json](./224082-clear-the-lot.json) |
 | Clear Vision | 95568 | [95568-clear-vision.json](./95568-clear-vision.json) |
 | Clear Vision 2 HD | 388410 | [388410-clear-vision-2-hd.json](./388410-clear-vision-2-hd.json) |
+| Clear Vision 3 | 343968 | [343968-clear-vision-3.json](./343968-clear-vision-3.json) |
 | Clear Vision 4 | 174814 | [174814-clear-vision-4.json](./174814-clear-vision-4.json) |
 | Clear Vision Elite | 272793 | [272793-clear-vision-elite.json](./272793-clear-vision-elite.json) |
 | Clear: Atarashii Kaze no Fuku Oka de | 133909 | [133909-clear-atarashii-kaze-no-fuku-oka-de.json](./133909-clear-atarashii-kaze-no-fuku-oka-de.json) |
@@ -4760,6 +4762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click the Clown 2020 | 142437 | [142437-click-the-clown-2020.json](./142437-click-the-clown-2020.json) |
 | Click the Shape | 362476 | [362476-click-the-shape.json](./362476-click-the-shape.json) |
 | Click to 13 | 288334 | [288334-click-to-13.json](./288334-click-to-13.json) |
+| Click to Continue | 343847 | [343847-click-to-continue.json](./343847-click-to-continue.json) |
 | Click To Eleven | 298656 | [298656-click-to-eleven.json](./298656-click-to-eleven.json) |
 | Click to Obsolete | 413167 | [413167-click-to-obsolete.json](./413167-click-to-obsolete.json) |
 | Click to Sail | 218703 | [218703-click-to-sail.json](./218703-click-to-sail.json) |
@@ -8642,6 +8645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader Kings III: Crowns of the World | 352848 | [352848-crusader-kings-iii-crowns-of-the-world.json](./352848-crusader-kings-iii-crowns-of-the-world.json) |
 | Crusader Kings III: Fashion of the Abbasid Court | 286097 | [286097-crusader-kings-iii-fashion-of-the-abbasid-court.json](./286097-crusader-kings-iii-fashion-of-the-abbasid-court.json) |
 | Crusader Kings III: Fate of Iberia | 203964 | [203964-crusader-kings-iii-fate-of-iberia.json](./203964-crusader-kings-iii-fate-of-iberia.json) |
+| Crusader Kings III: Khans of the Steppe | 343945 | [343945-crusader-kings-iii-khans-of-the-steppe.json](./343945-crusader-kings-iii-khans-of-the-steppe.json) |
 | Crusader Kings III: Northern Lords | 164510 | [164510-crusader-kings-iii-northern-lords.json](./164510-crusader-kings-iii-northern-lords.json) |
 | Crusader Kings III: Royal Court | 184511 | [184511-crusader-kings-iii-royal-court.json](./184511-crusader-kings-iii-royal-court.json) |
 | Crusader Kings III: Royal Edition | 188022 | [188022-crusader-kings-iii-royal-edition.json](./188022-crusader-kings-iii-royal-edition.json) |
@@ -9059,6 +9063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubic Defender | 283846 | [283846-cubic-defender.json](./283846-cubic-defender.json) |
 | Cubic Figures | 215112 | [215112-cubic-figures.json](./215112-cubic-figures.json) |
 | Cubic Figures 2 | 249488 | [249488-cubic-figures-2.json](./249488-cubic-figures-2.json) |
+| Cubic Gallery | 343946 | [343946-cubic-gallery.json](./343946-cubic-gallery.json) |
 | Cubic Haikus - hikikomori | 418533 | [418533-cubic-haikus-hikikomori.json](./418533-cubic-haikus-hikikomori.json) |
 | Cubic Juice | 158221 | [158221-cubic-juice.json](./158221-cubic-juice.json) |
 | Cubic Light | 229164 | [229164-cubic-light.json](./229164-cubic-light.json) |
