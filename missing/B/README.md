@@ -912,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bancroft Academy | 265412 | [265412-bancroft-academy.json](./265412-bancroft-academy.json) |
 | Band Hero | 2678 | [2678-band-hero.json](./2678-band-hero.json) |
 | Band Mates | 386414 | [386414-band-mates.json](./386414-band-mates.json) |
+| Band of Badasses | 355138 | [355138-band-of-badasses.json](./355138-band-of-badasses.json) |
 | Band of Brothers | 148924 | [148924-band-of-brothers.json](./148924-band-of-brothers.json) |
 | Band of Monsters | 38950 | [38950-band-of-monsters.json](./38950-band-of-monsters.json) |
 | Band of Outlaws | 54491 | [54491-band-of-outlaws.json](./54491-band-of-outlaws.json) |
@@ -1551,9 +1552,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball Pro Management 2015 | 10027 | [10027-basketball-pro-management-2015.json](./10027-basketball-pro-management-2015.json) |
 | Basketball PVP | 87279 | [87279-basketball-pvp.json](./87279-basketball-pvp.json) |
 | Basketball Rivals | 227267 | [227267-basketball-rivals.json](./227267-basketball-rivals.json) |
+| Basketball Serial Shooter | 355140 | [355140-basketball-serial-shooter.json](./355140-basketball-serial-shooter.json) |
 | Basketball Showdown: Royale | 244798 | [244798-basketball-showdown-royale.json](./244798-basketball-showdown-royale.json) |
 | Basketball Simulator | 255061 | [255061-basketball-simulator.json](./255061-basketball-simulator.json) |
 | Basketball Slam! | 237651 | [237651-basketball-slam.json](./237651-basketball-slam.json) |
+| Basketball Théorie Pratique sur Ensembles Aléatoires | 355145 | [355145-basketball-theorie-pratique-sur-ensembles-aleatoires.json](./355145-basketball-theorie-pratique-sur-ensembles-aleatoires.json) |
 | Basketball Trivia | 88203 | [88203-basketball-trivia.json](./88203-basketball-trivia.json) |
 | Basketball VR | 304687 | [304687-basketball-vr.json](./304687-basketball-vr.json) |
 | Basketball: Breakthrough Gaming Arcade | 204079 | [204079-basketball-breakthrough-gaming-arcade.json](./204079-basketball-breakthrough-gaming-arcade.json) |
@@ -2299,6 +2302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bckspce | 411576 | [411576-bckspce.json](./411576-bckspce.json) |
 | BCV: Battle Construction Vehicles | 43534 | [43534-bcv-battle-construction-vehicles.json](./43534-bcv-battle-construction-vehicles.json) |
 | BDef | 61130 | [61130-bdef.json](./61130-bdef.json) |
+| BDSM Clicker | 355136 | [355136-bdsm-clicker.json](./355136-bdsm-clicker.json) |
 | BDSM Sex | 294129 | [294129-bdsm-sex.json](./294129-bdsm-sex.json) |
 | BDSM Sex: Episode 2 | 295381 | [295381-bdsm-sex-episode-2.json](./295381-bdsm-sex-episode-2.json) |
 | BDSM Sex: Episode 3 | 295382 | [295382-bdsm-sex-episode-3.json](./295382-bdsm-sex-episode-3.json) |
@@ -3718,6 +3722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billy Masters Was Right | 139402 | [139402-billy-masters-was-right.json](./139402-billy-masters-was-right.json) |
 | Billy Meets World | 121605 | [121605-billy-meets-world.json](./121605-billy-meets-world.json) |
 | Billy the Hero | 411755 | [411755-billy-the-hero.json](./411755-billy-the-hero.json) |
+| Billy the Kid | 355142 | [355142-billy-the-kid.json](./355142-billy-the-kid.json) |
 | Billy's Boot Camp: Wii de Enjoy Diet! | 136884 | [136884-billys-boot-camp-wii-de-enjoy-diet.json](./136884-billys-boot-camp-wii-de-enjoy-diet.json) |
 | Billy's Bootcamp | 92601 | [92601-billys-bootcamp.json](./92601-billys-bootcamp.json) |
 | Billy's Nightmare | 176811 | [176811-billys-nightmare.json](./176811-billys-nightmare.json) |
@@ -5727,6 +5732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bobo the Cat | 221984 | [221984-bobo-the-cat.json](./221984-bobo-the-cat.json) |
 | BoBo World: Hospital | 237645 | [237645-bobo-world-hospital.json](./237645-bobo-world-hospital.json) |
 | Bobo: In Animia | 380032 | [380032-bobo-in-animia.json](./380032-bobo-in-animia.json) |
+| Bobo's Big Tower | 355170 | [355170-bobos-big-tower.json](./355170-bobos-big-tower.json) |
 | Bobobird | 365141 | [365141-bobobird.json](./365141-bobobird.json) |
 | Bobobo-bo Bo-bobo: Dassutsu! Hajike Royale | 50588 | [50588-bobobo-bo-bo-bobo-dassutsu-hajike-royale.json](./50588-bobobo-bo-bo-bobo-dassutsu-hajike-royale.json) |
 | BoboInvasion | 287777 | [287777-boboinvasion.json](./287777-boboinvasion.json) |
@@ -6741,6 +6747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxing Babes: Sexy Fight Hentai Anime Girls | 165016 | [165016-boxing-babes-sexy-fight-hentai-anime-girls.json](./165016-boxing-babes-sexy-fight-hentai-anime-girls.json) |
 | Boxing Champions | 43425 | [43425-boxing-champions.json](./43425-boxing-champions.json) |
 | Boxing Club: Ultimate Fighting | 108469 | [108469-boxing-club-ultimate-fighting.json](./108469-boxing-club-ultimate-fighting.json) |
+| Boxing Fighter: Shadow Battle | 355149 | [355149-boxing-fighter-shadow-battle.json](./355149-boxing-fighter-shadow-battle.json) |
 | Boxing Fighter: Super Punch | 93717 | [93717-boxing-fighter-super-punch.json](./93717-boxing-fighter-super-punch.json) |
 | Boxing Fighting Def Jam NY | 196582 | [196582-boxing-fighting-def-jam-ny.json](./196582-boxing-fighting-def-jam-ny.json) |
 | Boxing Go | 293112 | [293112-boxing-go.json](./293112-boxing-go.json) |
