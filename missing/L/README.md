@@ -3490,6 +3490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely Mountains: Downhill | 29144 | [29144-lonely-mountains-downhill.json](./29144-lonely-mountains-downhill.json) |
 | Lonely Mountains: Downhill - Eldfjall Island | 138241 | [138241-lonely-mountains-downhill-eldfjall-island.json](./138241-lonely-mountains-downhill-eldfjall-island.json) |
 | Lonely Mountains: Downhill - Rivera's Revenge | 274479 | [274479-lonely-mountains-downhill-riveras-revenge.json](./274479-lonely-mountains-downhill-riveras-revenge.json) |
+| Lonely Mountains: Snow Riders - Baifushan | 339953 | [339953-lonely-mountains-snow-riders-baifushan.json](./339953-lonely-mountains-snow-riders-baifushan.json) |
 | Lonely Owl | 335460 | [335460-lonely-owl.json](./335460-lonely-owl.json) |
 | Lonely Path | 250006 | [250006-lonely-path.json](./250006-lonely-path.json) |
 | Lonely People Potion Shop | 152279 | [152279-lonely-people-potion-shop.json](./152279-lonely-people-potion-shop.json) |
