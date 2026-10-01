@@ -2222,6 +2222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Henry's Adventure | 268188 | [268188-henrys-adventure.json](./268188-henrys-adventure.json) |
 | Henry's Escape: Prison | 280327 | [280327-henrys-escape-prison.json](./280327-henrys-escape-prison.json) |
 | Henry's Forgotten Performance | 295778 | [295778-henrys-forgotten-performance.json](./295778-henrys-forgotten-performance.json) |
+| Henry's Hoard | 354568 | [354568-henrys-hoard.json](./354568-henrys-hoard.json) |
 | Hentai 15 Puzzle 2 | 236379 | [236379-hentai-15-puzzle-2.json](./236379-hentai-15-puzzle-2.json) |
 | Hentai 18+ | 261874 | [261874-hentai-18.json](./261874-hentai-18.json) |
 | Hentai 2+2=4 | 110176 | [110176-hentai-2-2-4.json](./110176-hentai-2-2-4.json) |
@@ -4289,6 +4290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Breaker! The Witch Betrayed Blue Moon Wicca | 256321 | [256321-holy-breaker-the-witch-betrayed-blue-moon-wicca.json](./256321-holy-breaker-the-witch-betrayed-blue-moon-wicca.json) |
 | Holy Cow! Milking Simulator | 118390 | [118390-holy-cow-milking-simulator.json](./118390-holy-cow-milking-simulator.json) |
 | Holy Crap Bears! | 396386 | [396386-holy-crap-bears.json](./396386-holy-crap-bears.json) |
+| Holy Deadline | 354559 | [354559-holy-deadline.json](./354559-holy-deadline.json) |
 | Holy Fire Meow Meow: Special Forces | 370182 | [370182-holy-fire-meow-meow-special-forces.json](./370182-holy-fire-meow-meow-special-forces.json) |
 | Holy Ghost Story | 229808 | [229808-holy-ghost-story.json](./229808-holy-ghost-story.json) |
 | Holy Grail for Dummies | 400327 | [400327-holy-grail-for-dummies.json](./400327-holy-grail-for-dummies.json) |
