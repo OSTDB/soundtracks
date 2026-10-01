@@ -3246,6 +3246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desdemona | 150545 | [150545-desdemona.json](./150545-desdemona.json) |
 | Desecrated Deck | 338709 | [338709-desecrated-deck.json](./338709-desecrated-deck.json) |
 | Desecration | 157019 | [157019-desecration.json](./157019-desecration.json) |
+| Desecration | 343843 | [343843-desecration.json](./343843-desecration.json) |
 | Desert | 18605 | [18605-desert.json](./18605-desert.json) |
 | Desert Angels | 348359 | [348359-desert-angels.json](./348359-desert-angels.json) |
 | Desert Armor | 127217 | [127217-desert-armor.json](./127217-desert-armor.json) |
@@ -3700,6 +3701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil May Cry | 302712 | [302712-devil-may-cry.json](./302712-devil-may-cry.json) |
 | Devil May Cry 2 | 135 | [135-devil-may-cry-2.json](./135-devil-may-cry-2.json) |
 | Devil May Cry 2 | 222655 | [222655-devil-may-cry-2.json](./222655-devil-may-cry-2.json) |
+| Devil May Cry 3 Crimson | 343960 | [343960-devil-may-cry-3-crimson.json](./343960-devil-may-cry-3-crimson.json) |
 | Devil May Cry 3: Dante's Awakening - Special Edition | 218390 | [218390-devil-may-cry-3-dantes-awakening-special-edition.json](./218390-devil-may-cry-3-dantes-awakening-special-edition.json) |
 | Devil May Cry 4: Collector's Edition | 41601 | [41601-devil-may-cry-4-collectors-edition.json](./41601-devil-may-cry-4-collectors-edition.json) |
 | Devil May Cry 4: Special Edition - Lady & Trish Costume Pack | 410413 | [410413-devil-may-cry-4-special-edition-lady-and-trish-costume-pack.json](./410413-devil-may-cry-4-special-edition-lady-and-trish-costume-pack.json) |
@@ -3867,6 +3869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond | 314304 | [314304-diamond.json](./314304-diamond.json) |
 | Diamond | 35826 | [35826-diamond.json](./35826-diamond.json) |
 | Diamond Battle | 90385 | [90385-diamond-battle.json](./90385-diamond-battle.json) |
+| Diamond Crush 2 | 343975 | [343975-diamond-crush-2.json](./343975-diamond-crush-2.json) |
 | Diamond Dash | 72688 | [72688-diamond-dash.json](./72688-diamond-dash.json) |
 | Diamond Dash: Plaid Peril | 276224 | [276224-diamond-dash-plaid-peril.json](./276224-diamond-dash-plaid-peril.json) |
 | Diamond Diaries Saga | 105511 | [105511-diamond-diaries-saga.json](./105511-diamond-diaries-saga.json) |
@@ -6251,6 +6254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dora & Kai-Lan's Pet Shelter | 97372 | [97372-dora-and-kai-lans-pet-shelter.json](./97372-dora-and-kai-lans-pet-shelter.json) |
 | Dora and the Three Little Pigs | 231378 | [231378-dora-and-the-three-little-pigs.json](./231378-dora-and-the-three-little-pigs.json) |
 | Dora Kazu: Nobita no Suuji Daibouken | 142282 | [142282-dora-kazu-nobita-no-suuji-daibouken.json](./142282-dora-kazu-nobita-no-suuji-daibouken.json) |
+| Dora Laparoscopic Appendectomy | 343935 | [343935-dora-laparoscopic-appendectomy.json](./343935-dora-laparoscopic-appendectomy.json) |
 | Dora Star Explorer | 406776 | [406776-dora-star-explorer.json](./406776-dora-star-explorer.json) |
 | Dora the Explorer | 221672 | [221672-dora-the-explorer.json](./221672-dora-the-explorer.json) |
 | Dora the Explorer: Adventures 3-Pack | 100113 | [100113-dora-the-explorer-adventures-3-pack.json](./100113-dora-the-explorer-adventures-3-pack.json) |
