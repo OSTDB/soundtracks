@@ -861,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vex Mage | 360778 | [360778-vex-mage.json](./360778-vex-mage.json) |
 | Vexbox | 351643 | [351643-vexbox.json](./351643-vexbox.json) |
 | Vexius | 76677 | [76677-vexius.json](./76677-vexius.json) |
+| Veylora | 382407 | [382407-veylora.json](./382407-veylora.json) |
 | Veyora | 386298 | [386298-veyora.json](./386298-veyora.json) |
 | Veyrasol | 413754 | [413754-veyrasol.json](./413754-veyrasol.json) |
 | VFR Real Scenery: Birmingham, Coventry & Wolverhampton | 71464 | [71464-vfr-real-scenery-birmingham-coventry-and-wolverhampton.json](./71464-vfr-real-scenery-birmingham-coventry-and-wolverhampton.json) |
