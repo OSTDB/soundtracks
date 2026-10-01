@@ -1501,6 +1501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OnlyFap Simulator 4 | 224790 | [224790-onlyfap-simulator-4.json](./224790-onlyfap-simulator-4.json) |
 | OnlyFuck 2: Scarlett | 173831 | [173831-onlyfuck-2-scarlett.json](./173831-onlyfuck-2-scarlett.json) |
 | OnlyGame: Working Girls | 167829 | [167829-onlygame-working-girls.json](./167829-onlygame-working-girls.json) |
+| OnlySluts: Waifu Match | 384717 | [384717-onlysluts-waifu-match.json](./384717-onlysluts-waifu-match.json) |
 | OnlySociety: Dawn | 223381 | [223381-onlysociety-dawn.json](./223381-onlysociety-dawn.json) |
 | Onmitsu Kiritan | 204729 | [204729-onmitsu-kiritan.json](./204729-onmitsu-kiritan.json) |
 | Onmyoji Chess | 194010 | [194010-onmyoji-chess.json](./194010-onmyoji-chess.json) |
@@ -1713,6 +1714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation: Thunder | 91403 | [91403-operation-thunder.json](./91403-operation-thunder.json) |
 | Operation: Vietnam | 20760 | [20760-operation-vietnam.json](./20760-operation-vietnam.json) |
 | Operation7: Revolution | 127836 | [127836-operation7-revolution.json](./127836-operation7-revolution.json) |
+| Operation7: Showdown | 384739 | [384739-operation7-showdown.json](./384739-operation7-showdown.json) |
 | Operation8 Project | 189935 | [189935-operation8-project.json](./189935-operation8-project.json) |
 | Operator | 125348 | [125348-operator.json](./125348-operator.json) |
 | Operator | 220613 | [220613-operator.json](./220613-operator.json) |
