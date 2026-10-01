@@ -522,6 +522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panchito Chepas | 325639 | [325639-panchito-chepas.json](./325639-panchito-chepas.json) |
 | Panchito Delivery: Project Elevator | 416084 | [416084-panchito-delivery-project-elevator.json](./416084-panchito-delivery-project-elevator.json) |
 | Pancho's Mission | 278140 | [278140-panchos-mission.json](./278140-panchos-mission.json) |
+| PancitoMerge | 347847 | [347847-pancitomerge.json](./347847-pancitomerge.json) |
 | Panco's Journey | 109680 | [109680-pancos-journey.json](./109680-pancos-journey.json) |
 | Panda & Crow: A Paraglide Adventure | 267438 | [267438-panda-and-crow-a-paraglide-adventure.json](./267438-panda-and-crow-a-paraglide-adventure.json) |
 | Panda Bamboo Adventure | 388196 | [388196-panda-bamboo-adventure.json](./388196-panda-bamboo-adventure.json) |
@@ -1654,6 +1655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paws: A Shelter 2 Game - Pitter Patter Edition | 154943 | [154943-paws-a-shelter-2-game-pitter-patter-edition.json](./154943-paws-a-shelter-2-game-pitter-patter-edition.json) |
 | Pawsitive | 298873 | [298873-pawsitive.json](./298873-pawsitive.json) |
 | Pawsome Resort | 374711 | [374711-pawsome-resort.json](./374711-pawsome-resort.json) |
+| Pawsta | 347834 | [347834-pawsta.json](./347834-pawsta.json) |
 | Paww: Feline Fatale | 397899 | [397899-paww-feline-fatale.json](./397899-paww-feline-fatale.json) |
 | Pax | 274201 | [274201-pax.json](./274201-pax.json) |
 | Pax Corpus | 44845 | [44845-pax-corpus.json](./44845-pax-corpus.json) |
@@ -3263,6 +3265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pin Zhi | 304893 | [304893-pin-zhi.json](./304893-pin-zhi.json) |
 | Pin-Bowler | 92541 | [92541-pin-bowler.json](./92541-pin-bowler.json) |
 | Pin-Crawl | 401697 | [401697-pin-crawl.json](./401697-pin-crawl.json) |
+| Pin-Kod. Poluchi patent pervym! | 347819 | [347819-pin-kod-poluchi-patent-pervym.json](./347819-pin-kod-poluchi-patent-pervym.json) |
 | Pina Colada | 269685 | [269685-pina-colada.json](./269685-pina-colada.json) |
 | Pina Colada 2 | 321367 | [321367-pina-colada-2.json](./321367-pina-colada-2.json) |
 | Piñata | 32885 | [32885-pinata.json](./32885-pinata.json) |
@@ -8213,6 +8216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PunchMan Online | 182234 | [182234-punchman-online.json](./182234-punchman-online.json) |
 | Punchmasters | 196341 | [196341-punchmasters.json](./196341-punchmasters.json) |
 | Pungo | 355522 | [355522-pungo.json](./355522-pungo.json) |
+| Puni the Florist | 347831 | [347831-puni-the-florist.json](./347831-puni-the-florist.json) |
 | Puniru ha Kawaii Slime no Game wo "Ano Game" de Tsukuttemita Keredo, Hatashite Anata ha Clear Dekirunoka? | 326577 | [326577-puniru-ha-kawaii-slime-no-game-wo-ano-game-de-tsukuttemita-keredo-hatashite-anata-ha-clear-dekirunoka.json](./326577-puniru-ha-kawaii-slime-no-game-wo-ano-game-de-tsukuttemita-keredo-hatashite-anata-ha-clear-dekirunoka.json) |
 | Punirunes | 370299 | [370299-punirunes.json](./370299-punirunes.json) |
 | Punish Me | 385255 | [385255-punish-me.json](./385255-punish-me.json) |
