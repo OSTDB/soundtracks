@@ -6426,6 +6426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missland 2 | 277427 | [277427-missland-2.json](./277427-missland-2.json) |
 | Missman | 295360 | [295360-missman.json](./295360-missman.json) |
 | MissPedaling Simulator | 230949 | [230949-misspedaling-simulator.json](./230949-misspedaling-simulator.json) |
+| Misspell | 364011 | [364011-misspell.json](./364011-misspell.json) |
 | Mist | 200629 | [200629-mist.json](./200629-mist.json) |
 | Mist Bouncer | 63264 | [63264-mist-bouncer.json](./63264-mist-bouncer.json) |
 | Mist Gears | 107142 | [107142-mist-gears.json](./107142-mist-gears.json) |
