@@ -898,6 +898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Layer Cake | 370342 | [370342-layer-cake.json](./370342-layer-cake.json) |
 | Layer Hunt | 219689 | [219689-layer-hunt.json](./219689-layer-hunt.json) |
 | Layer Section & Galactic Attack: S-Tribute | 199159 | [199159-layer-section-and-galactic-attack-s-tribute.json](./199159-layer-section-and-galactic-attack-s-tribute.json) |
+| Layered Ordeal | 356803 | [356803-layered-ordeal.json](./356803-layered-ordeal.json) |
 | Layermask | 402995 | [402995-layermask.json](./402995-layermask.json) |
 | Layers | 75098 | [75098-layers.json](./75098-layers.json) |
 | Layers of Bust | 405024 | [405024-layers-of-bust.json](./405024-layers-of-bust.json) |
