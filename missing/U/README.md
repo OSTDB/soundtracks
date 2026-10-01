@@ -1562,6 +1562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uprooted - a carrot simulator! | 97712 | [97712-uprooted-a-carrot-simulator.json](./97712-uprooted-a-carrot-simulator.json) |
 | Uprush | 266239 | [266239-uprush.json](./266239-uprush.json) |
 | Upscale Studio: Logic Bundle: 5 in 1 | 379360 | [379360-upscale-studio-logic-bundle-5-in-1.json](./379360-upscale-studio-logic-bundle-5-in-1.json) |
+| Upshift StrikeRacer | 375395 | [375395-upshift-strikeracer.json](./375395-upshift-strikeracer.json) |
 | Upside Down | 90487 | [90487-upside-down.json](./90487-upside-down.json) |
 | Upside the Backrooms | 258740 | [258740-upside-the-backrooms.json](./258740-upside-the-backrooms.json) |
 | Upside-Down Dimensions | 52009 | [52009-upside-down-dimensions.json](./52009-upside-down-dimensions.json) |
