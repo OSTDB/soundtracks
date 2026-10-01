@@ -3224,6 +3224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Breaker | 39862 | [39862-desert-breaker.json](./39862-desert-breaker.json) |
 | Desert Bus | 251590 | [251590-desert-bus.json](./251590-desert-bus.json) |
 | Desert Bus | 277307 | [277307-desert-bus.json](./277307-desert-bus.json) |
+| Desert Bus | 356780 | [356780-desert-bus.json](./356780-desert-bus.json) |
 | Desert Bus | 86206 | [86206-desert-bus.json](./86206-desert-bus.json) |
 | Desert Bus Frontiers | 293222 | [293222-desert-bus-frontiers.json](./293222-desert-bus-frontiers.json) |
 | Desert Comets | 184923 | [184923-desert-comets.json](./184923-desert-comets.json) |
@@ -6261,6 +6262,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dormant | 313496 | [313496-dormant.json](./313496-dormant.json) |
 | Dormitabis | 230514 | [230514-dormitabis.json](./230514-dormitabis.json) |
 | Doronko Wanko | 290647 | [290647-doronko-wanko.json](./290647-doronko-wanko.json) |
+| Doronko Wanko: Bulldog | 356790 | [356790-doronko-wanko-bulldog.json](./356790-doronko-wanko-bulldog.json) |
+| Doronko Wanko: Corgi | 356793 | [356793-doronko-wanko-corgi.json](./356793-doronko-wanko-corgi.json) |
+| Doronko Wanko: Jack Russell Terrier | 356792 | [356792-doronko-wanko-jack-russell-terrier.json](./356792-doronko-wanko-jack-russell-terrier.json) |
+| Doronko Wanko: Shiba Inu | 356794 | [356794-doronko-wanko-shiba-inu.json](./356794-doronko-wanko-shiba-inu.json) |
+| Doronko Wanko: Toy Poodle | 356791 | [356791-doronko-wanko-toy-poodle.json](./356791-doronko-wanko-toy-poodle.json) |
+| Doronko Wanko: Ultimate Doggie Bundle | 356795 | [356795-doronko-wanko-ultimate-doggie-bundle.json](./356795-doronko-wanko-ultimate-doggie-bundle.json) |
 | Dororo: Jigoku Emaki no Shou | 353899 | [353899-dororo-jigoku-emaki-no-shou.json](./353899-dororo-jigoku-emaki-no-shou.json) |
 | Dorotea | 372576 | [372576-dorotea.json](./372576-dorotea.json) |
 | Dorothy's Job | 368016 | [368016-dorothys-job.json](./368016-dorothys-job.json) |
