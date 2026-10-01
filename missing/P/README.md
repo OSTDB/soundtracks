@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man World 2 | 134428 | [134428-pac-man-world-2.json](./134428-pac-man-world-2.json) |
 | Pac-Man World 2 | 305269 | [305269-pac-man-world-2.json](./305269-pac-man-world-2.json) |
 | Pac-Man World 2 Re-Pac | 358530 | [358530-pac-man-world-2-re-pac.json](./358530-pac-man-world-2-re-pac.json) |
+| Pac-Man World 2 Re-Pac x Sonic the Hedgehog | 361843 | [361843-pac-man-world-2-re-pac-x-sonic-the-hedgehog.json](./361843-pac-man-world-2-re-pac-x-sonic-the-hedgehog.json) |
 | Pac-Man World 3 | 4064 | [4064-pac-man-world-3.json](./4064-pac-man-world-3.json) |
 | Pac-Man World Re-Pac | 206811 | [206811-pac-man-world-re-pac.json](./206811-pac-man-world-re-pac.json) |
 | Pac-Man: Adventures in Time | 78239 | [78239-pac-man-adventures-in-time.json](./78239-pac-man-adventures-in-time.json) |
