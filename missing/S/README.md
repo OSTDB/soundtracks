@@ -242,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safety Driving: The Safety Simulation - Car | 10804 | [10804-safety-driving-the-safety-simulation-car.json](./10804-safety-driving-the-safety-simulation-car.json) |
 | Safety First! | 32189 | [32189-safety-first.json](./32189-safety-first.json) |
 | Safety Instructions | 414290 | [414290-safety-instructions.json](./414290-safety-instructions.json) |
+| Saffron | 384725 | [384725-saffron.json](./384725-saffron.json) |
 | Safo and The Moon Warriors | 381107 | [381107-safo-and-the-moon-warriors.json](./381107-safo-and-the-moon-warriors.json) |
 | Saga | 21484 | [21484-saga.json](./21484-saga.json) |
 | Saga | 266812 | [266812-saga.json](./266812-saga.json) |
@@ -596,6 +597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samhain | 267442 | [267442-samhain.json](./267442-samhain.json) |
 | Sami | 367959 | [367959-sami.json](./367959-sami.json) |
 | Samidare | 126040 | [126040-samidare.json](./126040-samidare.json) |
+| Samla | 384709 | [384709-samla.json](./384709-samla.json) |
 | Sammi's Quest vol.1: The Wandering Ogres | 104628 | [104628-sammis-quest-vol-1-the-wandering-ogres.json](./104628-sammis-quest-vol-1-the-wandering-ogres.json) |
 | Sammon Salat | 294208 | [294208-sammon-salat.json](./294208-sammon-salat.json) |
 | Sammy Lightfoot | 23885 | [23885-sammy-lightfoot.json](./23885-sammy-lightfoot.json) |
@@ -2924,6 +2926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Adventures: BDSM Dungeon | 219597 | [219597-sex-adventures-bdsm-dungeon.json](./219597-sex-adventures-bdsm-dungeon.json) |
 | Sex Adventures: Cuckold Gym | 226151 | [226151-sex-adventures-cuckold-gym.json](./226151-sex-adventures-cuckold-gym.json) |
 | Sex Adventures: Futanari Doctor | 286529 | [286529-sex-adventures-futanari-doctor.json](./286529-sex-adventures-futanari-doctor.json) |
+| Sex Adventures: Futanari Mistress | 384721 | [384721-sex-adventures-futanari-mistress.json](./384721-sex-adventures-futanari-mistress.json) |
 | Sex Adventures: GangBang Surprise | 219598 | [219598-sex-adventures-gangbang-surprise.json](./219598-sex-adventures-gangbang-surprise.json) |
 | Sex Adventures: Kinky Bondage | 226145 | [226145-sex-adventures-kinky-bondage.json](./226145-sex-adventures-kinky-bondage.json) |
 | Sex Adventures: Mile High Club | 286528 | [286528-sex-adventures-mile-high-club.json](./286528-sex-adventures-mile-high-club.json) |
