@@ -414,6 +414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Recipe for Survival | 356142 | [356142-a-recipe-for-survival.json](./356142-a-recipe-for-survival.json) |
 | A Red Boat | 229918 | [229918-a-red-boat.json](./229918-a-red-boat.json) |
 | A Regular Pinball Game | 349474 | [349474-a-regular-pinball-game.json](./349474-a-regular-pinball-game.json) |
+| A Regular Store | 337209 | [337209-a-regular-store.json](./337209-a-regular-store.json) |
 | A Ride Into the Mountains | 41507 | [41507-a-ride-into-the-mountains.json](./41507-a-ride-into-the-mountains.json) |
 | A Ride to Love | 140536 | [140536-a-ride-to-love.json](./140536-a-ride-to-love.json) |
 | A Right to Rule | 347228 | [347228-a-right-to-rule.json](./347228-a-right-to-rule.json) |
@@ -3637,7 +3638,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Trip to Europe | 241300 | [241300-amazing-trip-to-europe.json](./241300-amazing-trip-to-europe.json) |
 | Amazing Trivia | 81846 | [81846-amazing-trivia.json](./81846-amazing-trivia.json) |
 | Amazing Vacation: Chicago | 337253 | [337253-amazing-vacation-chicago.json](./337253-amazing-vacation-chicago.json) |
+| Amazing Vacation: Los Angeles | 337227 | [337227-amazing-vacation-los-angeles.json](./337227-amazing-vacation-los-angeles.json) |
 | Amazing Vacation: Miami | 294767 | [294767-amazing-vacation-miami.json](./294767-amazing-vacation-miami.json) |
+| Amazing Vacation: New York | 337233 | [337233-amazing-vacation-new-york.json](./337233-amazing-vacation-new-york.json) |
+| Amazing Vacation: San Francisco | 337234 | [337234-amazing-vacation-san-francisco.json](./337234-amazing-vacation-san-francisco.json) |
+| Amazing Vacation: Seattle | 337226 | [337226-amazing-vacation-seattle.json](./337226-amazing-vacation-seattle.json) |
 | Amazing Weekend 2: Search and Relax - Collector's Edition | 337822 | [337822-amazing-weekend-2-search-and-relax-collectors-edition.json](./337822-amazing-weekend-2-search-and-relax-collectors-edition.json) |
 | Amazing Wire | 233526 | [233526-amazing-wire.json](./233526-amazing-wire.json) |
 | Amazing Word Search | 180151 | [180151-amazing-word-search.json](./180151-amazing-word-search.json) |
@@ -6123,6 +6128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argonauts Agency: Glove of Midas - Collector's Edition | 357336 | [357336-argonauts-agency-glove-of-midas-collectors-edition.json](./357336-argonauts-agency-glove-of-midas-collectors-edition.json) |
 | Argonauts Agency: God of the Storm - Collector's Edition | 356771 | [356771-argonauts-agency-god-of-the-storm-collectors-edition.json](./356771-argonauts-agency-god-of-the-storm-collectors-edition.json) |
 | Argonauts Agency: Golden Fleece | 115133 | [115133-argonauts-agency-golden-fleece.json](./115133-argonauts-agency-golden-fleece.json) |
+| Argonauts Agency: Gorgon Medusa - Collector's Edition | 337212 | [337212-argonauts-agency-gorgon-medusa-collectors-edition.json](./337212-argonauts-agency-gorgon-medusa-collectors-edition.json) |
 | Argonauts Agency: Missing Daughter | 187206 | [187206-argonauts-agency-missing-daughter.json](./187206-argonauts-agency-missing-daughter.json) |
 | Argonauts Agency: Missing Daughter - Collector's Edition | 357419 | [357419-argonauts-agency-missing-daughter-collectors-edition.json](./357419-argonauts-agency-missing-daughter-collectors-edition.json) |
 | Argonauts Agency: Pandora's Box | 117094 | [117094-argonauts-agency-pandoras-box.json](./117094-argonauts-agency-pandoras-box.json) |
@@ -8049,6 +8055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avalon Code | 21206 | [21206-avalon-code.json](./21206-avalon-code.json) |
 | Avalon Crew | 386705 | [386705-avalon-crew.json](./386705-avalon-crew.json) |
 | Avalon Heroes | 63886 | [63886-avalon-heroes.json](./63886-avalon-heroes.json) |
+| Avalon Jewels 2: Collector's Edition | 337222 | [337222-avalon-jewels-2-collectors-edition.json](./337222-avalon-jewels-2-collectors-edition.json) |
 | Avalon Jewels 3: Collector's Edition | 381256 | [381256-avalon-jewels-3-collectors-edition.json](./381256-avalon-jewels-3-collectors-edition.json) |
 | Avalon Legends | 80195 | [80195-avalon-legends.json](./80195-avalon-legends.json) |
 | Avalon Legends Solitaire 2 | 31720 | [31720-avalon-legends-solitaire-2.json](./31720-avalon-legends-solitaire-2.json) |
