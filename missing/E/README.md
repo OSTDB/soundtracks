@@ -709,6 +709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Onryou Senki PC-8801mkIISR | 412951 | [412951-eggconsole-onryou-senki-pc-8801mkiisr.json](./412951-eggconsole-onryou-senki-pc-8801mkiisr.json) |
 | Eggconsole Puyo Puyo MSX2 | 378795 | [378795-eggconsole-puyo-puyo-msx2.json](./378795-eggconsole-puyo-puyo-msx2.json) |
 | Eggconsole Puyo Puyo PC-9801 | 362367 | [362367-eggconsole-puyo-puyo-pc-9801.json](./362367-eggconsole-puyo-puyo-pc-9801.json) |
+| Eggconsole Revival Xanadu Easy Ver PC-9801 | 347313 | [347313-eggconsole-revival-xanadu-easy-ver-pc-9801.json](./347313-eggconsole-revival-xanadu-easy-ver-pc-9801.json) |
 | Eggconsole Star Cruiser PC-8801mkIISR | 317225 | [317225-eggconsole-star-cruiser-pc-8801mkiisr.json](./317225-eggconsole-star-cruiser-pc-8801mkiisr.json) |
 | Eggconsole Star Trader PC-8801mkIISR | 314867 | [314867-eggconsole-star-trader-pc-8801mkiisr.json](./314867-eggconsole-star-trader-pc-8801mkiisr.json) |
 | Eggconsole Super Tritorn MSX2 | 387663 | [387663-eggconsole-super-tritorn-msx2.json](./387663-eggconsole-super-tritorn-msx2.json) |
@@ -1865,6 +1866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Engawa Danshi to Kemono Tan | 222242 | [222242-engawa-danshi-to-kemono-tan.json](./222242-engawa-danshi-to-kemono-tan.json) |
 | Engels met Rayman + Frans met Rayman | 193349 | [193349-engels-met-rayman-frans-met-rayman.json](./193349-engels-met-rayman-frans-met-rayman.json) |
 | Engie Benjy: Time for Teamwork! | 325255 | [325255-engie-benjy-time-for-teamwork.json](./325255-engie-benjy-time-for-teamwork.json) |
+| Engine Eternal | 347297 | [347297-engine-eternal.json](./347297-engine-eternal.json) |
 | Engine Roar | 238475 | [238475-engine-roar.json](./238475-engine-roar.json) |
 | Engine Room | 47266 | [47266-engine-room.json](./47266-engine-room.json) |
 | Engine Sentai Go-Onger: Mach de Oboeru! Aiueo!! | 123618 | [123618-engine-sentai-go-onger-mach-de-oboeru-aiueo.json](./123618-engine-sentai-go-onger-mach-de-oboeru-aiueo.json) |
