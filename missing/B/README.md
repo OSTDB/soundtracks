@@ -479,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Badminton Kings VR | 89258 | [89258-badminton-kings-vr.json](./89258-badminton-kings-vr.json) |
 | Badminton Master | 224101 | [224101-badminton-master.json](./224101-badminton-master.json) |
 | Baduk Challenge | 365880 | [365880-baduk-challenge.json](./365880-baduk-challenge.json) |
+| Bae Bash! The Chaos Collection | 372066 | [372066-bae-bash-the-chaos-collection.json](./372066-bae-bash-the-chaos-collection.json) |
 | Bae Yong-joon to Manabu Kankokugo DS: Date-Hen | 269660 | [269660-bae-yong-joon-to-manabu-kankokugo-ds-date-hen.json](./269660-bae-yong-joon-to-manabu-kankokugo-ds-date-hen.json) |
 | Bae Yong-joon to Manabu Kankokugo DS: Test-Hen | 269659 | [269659-bae-yong-joon-to-manabu-kankokugo-ds-test-hen.json](./269659-bae-yong-joon-to-manabu-kankokugo-ds-test-hen.json) |
 | Baezult | 31846 | [31846-baezult.json](./31846-baezult.json) |
@@ -543,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakery Story 2 | 349297 | [349297-bakery-story-2.json](./349297-bakery-story-2.json) |
 | Baki Hanma: Blood Arena | 337462 | [337462-baki-hanma-blood-arena.json](./337462-baki-hanma-blood-arena.json) |
 | Baki the Grappler: Ultimate Championship | 44109 | [44109-baki-the-grappler-ultimate-championship.json](./44109-baki-the-grappler-ultimate-championship.json) |
+| Baking Bad | 372028 | [372028-baking-bad.json](./372028-baking-bad.json) |
 | Baking Bustle | 158536 | [158536-baking-bustle.json](./158536-baking-bustle.json) |
 | Baking Fun | 359405 | [359405-baking-fun.json](./359405-baking-fun.json) |
 | Baking Time | 300771 | [300771-baking-time.json](./300771-baking-time.json) |
@@ -2914,6 +2916,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Below Surface | 298110 | [298110-below-surface.json](./298110-below-surface.json) |
 | Below the Crown | 363946 | [363946-below-the-crown.json](./363946-below-the-crown.json) |
 | Below the Ocean | 173312 | [173312-below-the-ocean.json](./173312-below-the-ocean.json) |
+| Below the Surface: Assassin's Prison | 372073 | [372073-below-the-surface-assassins-prison.json](./372073-below-the-surface-assassins-prison.json) |
+| Below the Surface: Uncovering the Truth in the Sewers | 372074 | [372074-below-the-surface-uncovering-the-truth-in-the-sewers.json](./372074-below-the-surface-uncovering-the-truth-in-the-sewers.json) |
 | Below, Rusted Gods | 304148 | [304148-below-rusted-gods.json](./304148-below-rusted-gods.json) |
 | Beltmatic | 281960 | [281960-beltmatic.json](./281960-beltmatic.json) |
 | Belts of Iron | 374243 | [374243-belts-of-iron.json](./374243-belts-of-iron.json) |
