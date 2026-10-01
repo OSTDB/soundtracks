@@ -2700,6 +2700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Path | 382446 | [382446-goblin-path.json](./382446-goblin-path.json) |
 | Goblin Quest: Escape! | 115648 | [115648-goblin-quest-escape.json](./115648-goblin-quest-escape.json) |
 | Goblin Rules Football | 217277 | [217277-goblin-rules-football.json](./217277-goblin-rules-football.json) |
+| Goblin Shaman | 348914 | [348914-goblin-shaman.json](./348914-goblin-shaman.json) |
 | Goblin Slayer | 335853 | [335853-goblin-slayer.json](./335853-goblin-slayer.json) |
 | Goblin Slayer Another Adventurer: Nightmare Feast | 230618 | [230618-goblin-slayer-another-adventurer-nightmare-feast.json](./230618-goblin-slayer-another-adventurer-nightmare-feast.json) |
 | Goblin Squad - Total Division | 116293 | [116293-goblin-squad-total-division.json](./116293-goblin-squad-total-division.json) |
@@ -2724,6 +2725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblins Please | 260405 | [260405-goblins-please.json](./260405-goblins-please.json) |
 | Goblins With Guns | 364039 | [364039-goblins-with-guns.json](./364039-goblins-with-guns.json) |
 | GoBlock's Impossible Medley | 28884 | [28884-goblocks-impossible-medley.json](./28884-goblocks-impossible-medley.json) |
+| Goblomite | 348893 | [348893-goblomite.json](./348893-goblomite.json) |
 | Goblr: Goblin Date Night Simulator | 238719 | [238719-goblr-goblin-date-night-simulator.json](./238719-goblr-goblin-date-night-simulator.json) |
 | Gobo & Spike | 357303 | [357303-gobo-and-spike.json](./357303-gobo-and-spike.json) |
 | Gobo’s Arena | 260173 | [260173-gobo-s-arena.json](./260173-gobo-s-arena.json) |
@@ -4970,6 +4972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Chain | 117135 | [117135-gun-chain.json](./117135-gun-chain.json) |
 | Gun Commando | 52221 | [52221-gun-commando.json](./52221-gun-commando.json) |
 | Gun Crazy | 110093 | [110093-gun-crazy.json](./110093-gun-crazy.json) |
+| Gun Dealer | 348904 | [348904-gun-dealer.json](./348904-gun-dealer.json) |
 | Gun Done | 32888 | [32888-gun-done.json](./32888-gun-done.json) |
 | Gun Done: Who is Awesome | 97923 | [97923-gun-done-who-is-awesome.json](./97923-gun-done-who-is-awesome.json) |
 | Gun Duel | 164987 | [164987-gun-duel.json](./164987-gun-duel.json) |
