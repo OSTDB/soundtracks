@@ -1419,6 +1419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Farm: Potato Pack | 225571 | [225571-real-farm-potato-pack.json](./225571-real-farm-potato-pack.json) |
 | Real Farm: Premium Edition | 155097 | [155097-real-farm-premium-edition.json](./155097-real-farm-premium-edition.json) |
 | Real Fast Race - Furious Sports | 96006 | [96006-real-fast-race-furious-sports.json](./96006-real-fast-race-furious-sports.json) |
+| Real Feel | 368620 | [368620-real-feel.json](./368620-real-feel.json) |
 | Real Fighter | 267951 | [267951-real-fighter.json](./267951-real-fighter.json) |
 | Real Fishing Pro 3D | 93703 | [93703-real-fishing-pro-3d.json](./93703-real-fishing-pro-3d.json) |
 | Real Fishing VR | 115634 | [115634-real-fishing-vr.json](./115634-real-fishing-vr.json) |
@@ -5276,6 +5277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room Explorer 2010 | 198511 | [198511-room-explorer-2010.json](./198511-room-explorer-2010.json) |
 | Room Explorer 2010: Deluxe Lover's Paque | 198512 | [198512-room-explorer-2010-deluxe-lovers-paque.json](./198512-room-explorer-2010-deluxe-lovers-paque.json) |
 | Room Football: Cursed West | 368545 | [368545-room-football-cursed-west.json](./368545-room-football-cursed-west.json) |
+| Room Football: Junk Town | 368588 | [368588-room-football-junk-town.json](./368588-room-football-junk-town.json) |
 | Room Football: Ranch | 370713 | [370713-room-football-ranch.json](./370713-room-football-ranch.json) |
 | Room Football: Royale Lands | 368558 | [368558-room-football-royale-lands.json](./368558-room-football-royale-lands.json) |
 | Room Football: Wetlands | 339282 | [339282-room-football-wetlands.json](./339282-room-football-wetlands.json) |
@@ -5962,6 +5964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runa | 129162 | [129162-runa.json](./129162-runa.json) |
 | Runa & the Chaikurú Legacy | 238734 | [238734-runa-and-the-chaikuru-legacy.json](./238734-runa-and-the-chaikuru-legacy.json) |
 | Runa Illustra | 341659 | [341659-runa-illustra.json](./341659-runa-illustra.json) |
+| Runai | 368613 | [368613-runai.json](./368613-runai.json) |
 | Runaround Reaper | 276730 | [276730-runaround-reaper.json](./276730-runaround-reaper.json) |
 | Runaway | 40419 | [40419-runaway.json](./40419-runaway.json) |
 | Runaway 2: The Dream of the Turtle | 13227 | [13227-runaway-2-the-dream-of-the-turtle.json](./13227-runaway-2-the-dream-of-the-turtle.json) |
@@ -6251,6 +6254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusty's Real Deal Baseball: Volley Bats | 258738 | [258738-rustys-real-deal-baseball-volley-bats.json](./258738-rustys-real-deal-baseball-volley-bats.json) |
 | Rusty's Retirement | 278251 | [278251-rustys-retirement.json](./278251-rustys-retirement.json) |
 | Rusty's Retirement x Vampire Survivors | 339632 | [339632-rustys-retirement-x-vampire-survivors.json](./339632-rustys-retirement-x-vampire-survivors.json) |
+| Rusty's Retirement: Autumn Update | 368631 | [368631-rustys-retirement-autumn-update.json](./368631-rustys-retirement-autumn-update.json) |
 | Rusty's Retirement: Supporter Pack | 305770 | [305770-rustys-retirement-supporter-pack.json](./305770-rustys-retirement-supporter-pack.json) |
 | Rustyard | 322354 | [322354-rustyard.json](./322354-rustyard.json) |
 | Rutabaga Desert Storm | 275704 | [275704-rutabaga-desert-storm.json](./275704-rutabaga-desert-storm.json) |
