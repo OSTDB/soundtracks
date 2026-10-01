@@ -2364,6 +2364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niko Niko Pun | 42057 | [42057-niko-niko-pun.json](./42057-niko-niko-pun.json) |
 | Niko: Through the Dream | 17323 | [17323-niko-through-the-dream.json](./17323-niko-through-the-dream.json) |
 | Nikoderiko: The Magical World | 305108 | [305108-nikoderiko-the-magical-world.json](./305108-nikoderiko-the-magical-world.json) |
+| Nikoderiko: The Magical World - Director’s Cut | 340988 | [340988-nikoderiko-the-magical-world-director-s-cut.json](./340988-nikoderiko-the-magical-world-director-s-cut.json) |
 | Nikola's Fate | 329678 | [329678-nikolas-fate.json](./329678-nikolas-fate.json) |
 | Nikolai's Knights | 205127 | [205127-nikolais-knights.json](./205127-nikolais-knights.json) |
 | Nikolai's Mysteries | 205128 | [205128-nikolais-mysteries.json](./205128-nikolais-mysteries.json) |
@@ -2515,6 +2516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Hands | 266254 | [266254-ninja-hands.json](./266254-ninja-hands.json) |
 | Ninja Hattori-kun | 346042 | [346042-ninja-hattori-kun.json](./346042-ninja-hattori-kun.json) |
 | Ninja Hattori-kun | 58882 | [58882-ninja-hattori-kun.json](./58882-ninja-hattori-kun.json) |
+| Ninja Hayate HD Remaster | 341094 | [341094-ninja-hayate-hd-remaster.json](./341094-ninja-hayate-hd-remaster.json) |
 | Ninja Hero Revenge | 102728 | [102728-ninja-hero-revenge.json](./102728-ninja-hero-revenge.json) |
 | Ninja Hunter | 64635 | [64635-ninja-hunter.json](./64635-ninja-hunter.json) |
 | Ninja in Training | 74337 | [74337-ninja-in-training.json](./74337-ninja-in-training.json) |
