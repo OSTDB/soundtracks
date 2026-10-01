@@ -5815,6 +5815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine The Diamond | 245005 | [245005-mine-the-diamond.json](./245005-mine-the-diamond.json) |
 | Mine Trap Reborn | 140509 | [140509-mine-trap-reborn.json](./140509-mine-trap-reborn.json) |
 | Mine Upgrade | 369585 | [369585-mine-upgrade.json](./369585-mine-upgrade.json) |
+| Mine Your Way Out 2 | 345623 | [345623-mine-your-way-out-2.json](./345623-mine-your-way-out-2.json) |
 | Minebot Arena | 74050 | [74050-minebot-arena.json](./74050-minebot-arena.json) |
 | Minebuilder | 86893 | [86893-minebuilder.json](./86893-minebuilder.json) |
 | MineCart - 3D Mine Cart Game for MineCraft | 86692 | [86692-minecart-3d-mine-cart-game-for-minecraft.json](./86692-minecart-3d-mine-cart-game-for-minecraft.json) |
@@ -6393,6 +6394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirrorama | 186824 | [186824-mirrorama.json](./186824-mirrorama.json) |
 | Mirrored Phantoms | 333180 | [333180-mirrored-phantoms.json](./333180-mirrored-phantoms.json) |
 | Mirrored Souls | 244278 | [244278-mirrored-souls.json](./244278-mirrored-souls.json) |
+| Mirrormind | 345647 | [345647-mirrormind.json](./345647-mirrormind.json) |
 | Mirrorscape | 270120 | [270120-mirrorscape.json](./270120-mirrorscape.json) |
 | Mirrorscape: Deluxe Starter Pack | 301849 | [301849-mirrorscape-deluxe-starter-pack.json](./301849-mirrorscape-deluxe-starter-pack.json) |
 | Mirrorscape: Outdoor Starter Pack | 301848 | [301848-mirrorscape-outdoor-starter-pack.json](./301848-mirrorscape-outdoor-starter-pack.json) |
