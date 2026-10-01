@@ -1080,6 +1080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maimai DX Universe Plus | 331677 | [331677-maimai-dx-universe-plus.json](./331677-maimai-dx-universe-plus.json) |
 | Maimai Milk | 331127 | [331127-maimai-milk.json](./331127-maimai-milk.json) |
 | Maimai Milk Plus | 331132 | [331132-maimai-milk-plus.json](./331132-maimai-milk-plus.json) |
+| Maimaimaigoen | 368082 | [368082-maimaimaigoen.json](./368082-maimaimaigoen.json) |
 | Maimaimaigoen: Episode 1 - Welcome to Uropia | 343898 | [343898-maimaimaigoen-episode-1-welcome-to-uropia.json](./343898-maimaimaigoen-episode-1-welcome-to-uropia.json) |
 | Maimaimaigoen: Episode 2 - Promises and Crayons | 343901 | [343901-maimaimaigoen-episode-2-promises-and-crayons.json](./343901-maimaimaigoen-episode-2-promises-and-crayons.json) |
 | Maimaimaigoen: Episode 3 - The Divided Children | 343902 | [343902-maimaimaigoen-episode-3-the-divided-children.json](./343902-maimaimaigoen-episode-3-the-divided-children.json) |
@@ -5833,6 +5834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper | 413617 | [413617-minesweeper.json](./413617-minesweeper.json) |
 | Minesweeper | 89153 | [89153-minesweeper.json](./89153-minesweeper.json) |
 | Minesweeper !! | 88352 | [88352-minesweeper.json](./88352-minesweeper.json) |
+| MineSweeper 3D | 368071 | [368071-minesweeper-3d.json](./368071-minesweeper-3d.json) |
 | Minesweeper Arena | 395161 | [395161-minesweeper-arena.json](./395161-minesweeper-arena.json) |
 | Minesweeper But the First Tile is Always a Mine | 327378 | [327378-minesweeper-but-the-first-tile-is-always-a-mine.json](./327378-minesweeper-but-the-first-tile-is-always-a-mine.json) |
 | Minesweeper Challenge | 96705 | [96705-minesweeper-challenge.json](./96705-minesweeper-challenge.json) |
@@ -9273,6 +9275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Best Nightmare | 166673 | [166673-my-best-nightmare.json](./166673-my-best-nightmare.json) |
 | My Big Sister: Remastered | 222871 | [222871-my-big-sister-remastered.json](./222871-my-big-sister-remastered.json) |
 | My Billionaire Girlfriend | 220335 | [220335-my-billionaire-girlfriend.json](./220335-my-billionaire-girlfriend.json) |
+| My Bimbo Dream: Season 1 | 368058 | [368058-my-bimbo-dream-season-1.json](./368058-my-bimbo-dream-season-1.json) |
 | My Bird | 368664 | [368664-my-bird.json](./368664-my-bird.json) |
 | My Bloodsucking 9-to-5 | 397260 | [397260-my-bloodsucking-9-to-5.json](./397260-my-bloodsucking-9-to-5.json) |
 | My Body Coach | 67354 | [67354-my-body-coach.json](./67354-my-body-coach.json) |
