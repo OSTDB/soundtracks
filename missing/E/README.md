@@ -2230,6 +2230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eridu | 180684 | [180684-eridu.json](./180684-eridu.json) |
 | Erie | 63380 | [63380-erie.json](./63380-erie.json) |
 | Eriguns | 202844 | [202844-eriguns.json](./202844-eriguns.json) |
+| Erik | 354577 | [354577-erik.json](./354577-erik.json) |
 | Erik: Phantom of the Opera | 55082 | [55082-erik-phantom-of-the-opera.json](./55082-erik-phantom-of-the-opera.json) |
 | Erika America | 351008 | [351008-erika-america.json](./351008-erika-america.json) |
 | Eriksholm: The Stolen Dream | 305107 | [305107-eriksholm-the-stolen-dream.json](./305107-eriksholm-the-stolen-dream.json) |
