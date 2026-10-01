@@ -2197,6 +2197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TerranLands | 258513 | [258513-terranlands.json](./258513-terranlands.json) |
 | Terrapets | 140467 | [140467-terrapets.json](./140467-terrapets.json) |
 | Terrapins | 185141 | [185141-terrapins.json](./185141-terrapins.json) |
+| TerrApocalipse | 370857 | [370857-terrapocalipse.json](./370857-terrapocalipse.json) |
 | Terraria 2 | 3021 | [3021-terraria-2.json](./3021-terraria-2.json) |
 | Terraria: Bigger and Boulder | 386978 | [386978-terraria-bigger-and-boulder.json](./386978-terraria-bigger-and-boulder.json) |
 | Terraria: Calamity Mod | 141229 | [141229-terraria-calamity-mod.json](./141229-terraria-calamity-mod.json) |
@@ -4951,6 +4952,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grim Outpost | 271323 | [271323-the-grim-outpost.json](./271323-the-grim-outpost.json) |
 | The Grimsworth Reports: Woodfall | 75004 | [75004-the-grimsworth-reports-woodfall.json](./75004-the-grimsworth-reports-woodfall.json) |
 | The Grinch | 15487 | [15487-the-grinch.json](./15487-the-grinch.json) |
+| The Grinch: Christmas Adventures - Determined to Love Christmas | 370830 | [370830-the-grinch-christmas-adventures-determined-to-love-christmas.json](./370830-the-grinch-christmas-adventures-determined-to-love-christmas.json) |
+| The Grinch: Christmas Adventures - Merry & Mischievous Edition | 370827 | [370827-the-grinch-christmas-adventures-merry-and-mischievous-edition.json](./370827-the-grinch-christmas-adventures-merry-and-mischievous-edition.json) |
 | The Grinding of Teeth | 271852 | [271852-the-grinding-of-teeth.json](./271852-the-grinding-of-teeth.json) |
 | The Grip Games PS Vita Collection | 99795 | [99795-the-grip-games-ps-vita-collection.json](./99795-the-grip-games-ps-vita-collection.json) |
 | The Grizzled: Armistice Digital | 215744 | [215744-the-grizzled-armistice-digital.json](./215744-the-grizzled-armistice-digital.json) |
@@ -11210,6 +11213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Chills: Not From Ear | 395024 | [395024-tiny-chills-not-from-ear.json](./395024-tiny-chills-not-from-ear.json) |
 | Tiny Clusters | 177477 | [177477-tiny-clusters.json](./177477-tiny-clusters.json) |
 | Tiny Combat Arena | 154015 | [154015-tiny-combat-arena.json](./154015-tiny-combat-arena.json) |
+| Tiny Company | 370845 | [370845-tiny-company.json](./370845-tiny-company.json) |
 | Tiny Crate | 177568 | [177568-tiny-crate.json](./177568-tiny-crate.json) |
 | Tiny Crown | 401562 | [401562-tiny-crown.json](./401562-tiny-crown.json) |
 | Tiny Dangerous Dungeons | 114972 | [114972-tiny-dangerous-dungeons.json](./114972-tiny-dangerous-dungeons.json) |
@@ -11486,6 +11490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TMNT | 3817 | [3817-tmnt.json](./3817-tmnt.json) |
 | TMNT: Mutant Melee | 4201 | [4201-tmnt-mutant-melee.json](./4201-tmnt-mutant-melee.json) |
 | TMNT: Ninja Adventures | 64469 | [64469-tmnt-ninja-adventures.json](./64469-tmnt-ninja-adventures.json) |
+| TMNT: Splintered Fate Heroes Bundle | 370828 | [370828-tmnt-splintered-fate-heroes-bundle.json](./370828-tmnt-splintered-fate-heroes-bundle.json) |
 | TMNT: The Power of 4 | 146241 | [146241-tmnt-the-power-of-4.json](./146241-tmnt-the-power-of-4.json) |
 | tModLoader | 134157 | [134157-tmodloader.json](./134157-tmodloader.json) |
 | TNA vs. ROH | 256926 | [256926-tna-vs-roh.json](./256926-tna-vs-roh.json) |
@@ -13379,7 +13384,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trailpa | 256518 | [256518-trailpa.json](./256518-trailpa.json) |
 | TrailRail | 366850 | [366850-trailrail.json](./366850-trailrail.json) |
 | Trails | 342158 | [342158-trails.json](./342158-trails.json) |
+| Trails in the Sky 1st Chapter: Banner Set C | 370831 | [370831-trails-in-the-sky-1st-chapter-banner-set-c.json](./370831-trails-in-the-sky-1st-chapter-banner-set-c.json) |
+| Trails in the Sky 1st Chapter: Character Stand Set | 370832 | [370832-trails-in-the-sky-1st-chapter-character-stand-set.json](./370832-trails-in-the-sky-1st-chapter-character-stand-set.json) |
+| Trails in the Sky 1st Chapter: Demon King Dress-up Set | 370833 | [370833-trails-in-the-sky-1st-chapter-demon-king-dress-up-set.json](./370833-trails-in-the-sky-1st-chapter-demon-king-dress-up-set.json) |
+| Trails in the Sky 1st Chapter: Fine Red Diner Costume Set Vol. 3 | 370834 | [370834-trails-in-the-sky-1st-chapter-fine-red-diner-costume-set-vol-3.json](./370834-trails-in-the-sky-1st-chapter-fine-red-diner-costume-set-vol-3.json) |
+| Trails in the Sky 1st Chapter: Launch Celebration Pack | 370835 | [370835-trails-in-the-sky-1st-chapter-launch-celebration-pack.json](./370835-trails-in-the-sky-1st-chapter-launch-celebration-pack.json) |
+| Trails in the Sky 1st Chapter: Original Diner Costume Set Vol. 3 | 370836 | [370836-trails-in-the-sky-1st-chapter-original-diner-costume-set-vol-3.json](./370836-trails-in-the-sky-1st-chapter-original-diner-costume-set-vol-3.json) |
+| Trails in the Sky 1st Chapter: Resort Style Swimsuits (Estelle & Joshua) | 370837 | [370837-trails-in-the-sky-1st-chapter-resort-style-swimsuits-estelle-and-joshua.json](./370837-trails-in-the-sky-1st-chapter-resort-style-swimsuits-estelle-and-joshua.json) |
 | Trails in the Sky 1st Chapter: Steelbook Edition | 351131 | [351131-trails-in-the-sky-1st-chapter-steelbook-edition.json](./351131-trails-in-the-sky-1st-chapter-steelbook-edition.json) |
+| Trails in the Sky 1st Chapter: Trendy Headgear Set | 370838 | [370838-trails-in-the-sky-1st-chapter-trendy-headgear-set.json](./370838-trails-in-the-sky-1st-chapter-trendy-headgear-set.json) |
 | Trails in the Sky 2nd Chapter | 377314 | [377314-trails-in-the-sky-2nd-chapter.json](./377314-trails-in-the-sky-2nd-chapter.json) |
 | Trails of Illusion | 197951 | [197951-trails-of-illusion.json](./197951-trails-of-illusion.json) |
 | Trails of Sunder | 241077 | [241077-trails-of-sunder.json](./241077-trails-of-sunder.json) |
@@ -15599,6 +15612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Manor | 289929 | [289929-twilight-manor.json](./289929-twilight-manor.json) |
 | Twilight of Humanity | 181157 | [181157-twilight-of-humanity.json](./181157-twilight-of-humanity.json) |
 | Twilight of the Gods | 223436 | [223436-twilight-of-the-gods.json](./223436-twilight-of-the-gods.json) |
+| Twilight of the Gods | 370855 | [370855-twilight-of-the-gods.json](./370855-twilight-of-the-gods.json) |
 | Twilight Oracle | 244873 | [244873-twilight-oracle.json](./244873-twilight-oracle.json) |
 | Twilight Path | 109615 | [109615-twilight-path.json](./109615-twilight-path.json) |
 | Twilight Protocol | 373734 | [373734-twilight-protocol.json](./373734-twilight-protocol.json) |
