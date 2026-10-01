@@ -2042,6 +2042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gilded Destiny | 236528 | [236528-gilded-destiny.json](./236528-gilded-destiny.json) |
 | Gilgalad | 92638 | [92638-gilgalad.json](./92638-gilgalad.json) |
 | Gilgamesh II | 276275 | [276275-gilgamesh-ii.json](./276275-gilgamesh-ii.json) |
+| GilGul | 339990 | [339990-gilgul.json](./339990-gilgul.json) |
 | Gillbert: Guardian of the Grotto | 310499 | [310499-gillbert-guardian-of-the-grotto.json](./310499-gillbert-guardian-of-the-grotto.json) |
 | Gilly and the Isle of Sorrow | 340024 | [340024-gilly-and-the-isle-of-sorrow.json](./340024-gilly-and-the-isle-of-sorrow.json) |
 | Gilroy's Grove | 376456 | [376456-gilroys-grove.json](./376456-gilroys-grove.json) |
@@ -2343,6 +2344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloaming Comedian Simulator | 259860 | [259860-gloaming-comedian-simulator.json](./259860-gloaming-comedian-simulator.json) |
 | Gloamroot | 399850 | [399850-gloamroot.json](./399850-gloamroot.json) |
 | Gloamryn | 346577 | [346577-gloamryn.json](./346577-gloamryn.json) |
+| Gloamvault | 339957 | [339957-gloamvault.json](./339957-gloamvault.json) |
 | Globaglorp Simulator | 341147 | [341147-globaglorp-simulator.json](./341147-globaglorp-simulator.json) |
 | Global Arcade Classics | 93502 | [93502-global-arcade-classics.json](./93502-global-arcade-classics.json) |
 | Global ATC Simulator | 16945 | [16945-global-atc-simulator.json](./16945-global-atc-simulator.json) |
@@ -3612,6 +3614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granblue Fantasy Versus Rising: Color Set 2 | 332821 | [332821-granblue-fantasy-versus-rising-color-set-2.json](./332821-granblue-fantasy-versus-rising-color-set-2.json) |
 | Granblue Fantasy Versus Rising: Color Set 3 | 332822 | [332822-granblue-fantasy-versus-rising-color-set-3.json](./332822-granblue-fantasy-versus-rising-color-set-3.json) |
 | Granblue Fantasy Versus Rising: Premium Avatar Set Zombie Land Saga Movie | 373632 | [373632-granblue-fantasy-versus-rising-premium-avatar-set-zombie-land-saga-movie.json](./373632-granblue-fantasy-versus-rising-premium-avatar-set-zombie-land-saga-movie.json) |
+| Granblue Fantasy Versus: Rising - Additional Character Set - Sandalphon | 339965 | [339965-granblue-fantasy-versus-rising-additional-character-set-sandalphon.json](./339965-granblue-fantasy-versus-rising-additional-character-set-sandalphon.json) |
 | Granblue Fantasy Versus: Rising - Additional Character: Beatrix | 301988 | [301988-granblue-fantasy-versus-rising-additional-character-beatrix.json](./301988-granblue-fantasy-versus-rising-additional-character-beatrix.json) |
 | Granblue Fantasy Versus: Rising - Additional Character: Galleon | 373627 | [373627-granblue-fantasy-versus-rising-additional-character-galleon.json](./373627-granblue-fantasy-versus-rising-additional-character-galleon.json) |
 | Granblue Fantasy Versus: Rising - Additional Character: Meg | 373631 | [373631-granblue-fantasy-versus-rising-additional-character-meg.json](./373631-granblue-fantasy-versus-rising-additional-character-meg.json) |
