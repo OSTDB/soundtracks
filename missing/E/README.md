@@ -2012,6 +2012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eos | 147330 | [147330-eos.json](./147330-eos.json) |
 | eOthello | 277283 | [277283-eothello.json](./277283-eothello.json) |
 | Epejsodion Dodgeball Defense | 166748 | [166748-epejsodion-dodgeball-defense.json](./166748-epejsodion-dodgeball-defense.json) |
+| Epejsodion Dodgeball Training | 369724 | [369724-epejsodion-dodgeball-training.json](./369724-epejsodion-dodgeball-training.json) |
 | Ephemeral Dreams, Eternal Love | 260116 | [260116-ephemeral-dreams-eternal-love.json](./260116-ephemeral-dreams-eternal-love.json) |
 | Ephemeral Fantasia | 44722 | [44722-ephemeral-fantasia.json](./44722-ephemeral-fantasia.json) |
 | Ephemeral Legend | 274979 | [274979-ephemeral-legend.json](./274979-ephemeral-legend.json) |
