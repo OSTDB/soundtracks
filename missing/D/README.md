@@ -1308,6 +1308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day D: Through Time - Collector's Edition | 355556 | [355556-day-d-through-time-collectors-edition.json](./355556-day-d-through-time-collectors-edition.json) |
 | Day D: Time Mayhem | 52874 | [52874-day-d-time-mayhem.json](./52874-day-d-time-mayhem.json) |
 | Day Hard | 222413 | [222413-day-hard.json](./222413-day-hard.json) |
+| Day In | 374202 | [374202-day-in.json](./374202-day-in.json) |
 | Day In Dementia | 103170 | [103170-day-in-dementia.json](./103170-day-in-dementia.json) |
 | Day in the Life | 177323 | [177323-day-in-the-life.json](./177323-day-in-the-life.json) |
 | Day Island | 135747 | [135747-day-island.json](./135747-day-island.json) |
@@ -3678,6 +3679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devilition | 318597 | [318597-devilition.json](./318597-devilition.json) |
 | Devilman | 43896 | [43896-devilman.json](./43896-devilman.json) |
 | Devilman | 80868 | [80868-devilman.json](./80868-devilman.json) |
+| DeviloutionX | 374214 | [374214-deviloutionx.json](./374214-deviloutionx.json) |
 | Devilry | 34936 | [34936-devilry.json](./34936-devilry.json) |
 | Devils Due | 359520 | [359520-devils-due.json](./359520-devils-due.json) |
 | Devils of the Deep | 294738 | [294738-devils-of-the-deep.json](./294738-devils-of-the-deep.json) |
@@ -4592,6 +4594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discovering Galimore | 294154 | [294154-discovering-galimore.json](./294154-discovering-galimore.json) |
 | Discovering Space 2 | 32205 | [32205-discovering-space-2.json](./32205-discovering-space-2.json) |
 | Discovering the Dinosaurs | 105755 | [105755-discovering-the-dinosaurs.json](./105755-discovering-the-dinosaurs.json) |
+| Discoverx | 374213 | [374213-discoverx.json](./374213-discoverx.json) |
 | Discovery Freelancer | 111445 | [111445-discovery-freelancer.json](./111445-discovery-freelancer.json) |
 | Discovery Islands | 399706 | [399706-discovery-islands.json](./399706-discovery-islands.json) |
 | Discovery Kids: Dolphin Discovery | 72755 | [72755-discovery-kids-dolphin-discovery.json](./72755-discovery-kids-dolphin-discovery.json) |
@@ -5184,6 +5187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dock King | 204420 | [204420-dock-king.json](./204420-dock-king.json) |
 | Docked: DLC 2 | 398957 | [398957-docked-dlc-2.json](./398957-docked-dlc-2.json) |
 | Docked: New Horizons Pack | 398958 | [398958-docked-new-horizons-pack.json](./398958-docked-new-horizons-pack.json) |
+| Docking Bay | 374212 | [374212-docking-bay.json](./374212-docking-bay.json) |
 | Docking Donuts2 in 1 | 233225 | [233225-docking-donuts2-in-1.json](./233225-docking-donuts2-in-1.json) |
 | Docking Doom | 271991 | [271991-docking-doom.json](./271991-docking-doom.json) |
 | Dockside Dreams: Fish & Cook Simulator | 373015 | [373015-dockside-dreams-fish-and-cook-simulator.json](./373015-dockside-dreams-fish-and-cook-simulator.json) |
@@ -5720,6 +5724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Stare | 153936 | [153936-dont-stare.json](./153936-dont-stare.json) |
 | Don't Starve Elsewhere | 397822 | [397822-dont-starve-elsewhere.json](./397822-dont-starve-elsewhere.json) |
 | Don't Starve Together: Console Edition | 99751 | [99751-dont-starve-together-console-edition.json](./99751-dont-starve-together-console-edition.json) |
+| Don't Starve Together: Starter Pack 2025 | 374238 | [374238-dont-starve-together-starter-pack-2025.json](./374238-dont-starve-together-starter-pack-2025.json) |
 | Don't Starve: Console Edition | 154347 | [154347-dont-starve-console-edition.json](./154347-dont-starve-console-edition.json) |
 | Don't Starve: Pocket Edition | 86925 | [86925-dont-starve-pocket-edition.json](./86925-dont-starve-pocket-edition.json) |
 | Don't Stop | 106139 | [106139-dont-stop.json](./106139-dont-stop.json) |
