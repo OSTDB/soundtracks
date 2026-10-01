@@ -531,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panda Hero: Remastered | 143054 | [143054-panda-hero-remastered.json](./143054-panda-hero-remastered.json) |
 | Panda in the clouds | 165645 | [165645-panda-in-the-clouds.json](./165645-panda-in-the-clouds.json) |
 | Panda Jump | 147846 | [147846-panda-jump.json](./147846-panda-jump.json) |
+| Panda Jump Seasons | 353362 | [353362-panda-jump-seasons.json](./353362-panda-jump-seasons.json) |
 | Panda Legend | 214723 | [214723-panda-legend.json](./214723-panda-legend.json) |
 | Panda Lu Baby Bear Care 2 | 227472 | [227472-panda-lu-baby-bear-care-2.json](./227472-panda-lu-baby-bear-care-2.json) |
 | Panda Man | 115600 | [115600-panda-man.json](./115600-panda-man.json) |
@@ -4029,11 +4030,29 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Rampage | 358334 | [358334-pixel-rampage.json](./358334-pixel-rampage.json) |
 | Pixel Restorer | 312026 | [312026-pixel-restorer.json](./312026-pixel-restorer.json) |
 | Pixel Restorer: Image Folder 1 | 353414 | [353414-pixel-restorer-image-folder-1.json](./353414-pixel-restorer-image-folder-1.json) |
+| Pixel Restorer: Image Folder 10 | 353426 | [353426-pixel-restorer-image-folder-10.json](./353426-pixel-restorer-image-folder-10.json) |
+| Pixel Restorer: Image Folder 11 | 353427 | [353427-pixel-restorer-image-folder-11.json](./353427-pixel-restorer-image-folder-11.json) |
+| Pixel Restorer: Image Folder 12 | 353428 | [353428-pixel-restorer-image-folder-12.json](./353428-pixel-restorer-image-folder-12.json) |
+| Pixel Restorer: Image Folder 13 | 353429 | [353429-pixel-restorer-image-folder-13.json](./353429-pixel-restorer-image-folder-13.json) |
+| Pixel Restorer: Image Folder 14 | 353430 | [353430-pixel-restorer-image-folder-14.json](./353430-pixel-restorer-image-folder-14.json) |
+| Pixel Restorer: Image Folder 15 | 353431 | [353431-pixel-restorer-image-folder-15.json](./353431-pixel-restorer-image-folder-15.json) |
+| Pixel Restorer: Image Folder 16 | 353432 | [353432-pixel-restorer-image-folder-16.json](./353432-pixel-restorer-image-folder-16.json) |
+| Pixel Restorer: Image Folder 17 | 353433 | [353433-pixel-restorer-image-folder-17.json](./353433-pixel-restorer-image-folder-17.json) |
+| Pixel Restorer: Image Folder 18 | 353434 | [353434-pixel-restorer-image-folder-18.json](./353434-pixel-restorer-image-folder-18.json) |
+| Pixel Restorer: Image Folder 19 | 353435 | [353435-pixel-restorer-image-folder-19.json](./353435-pixel-restorer-image-folder-19.json) |
 | Pixel Restorer: Image Folder 2 | 353415 | [353415-pixel-restorer-image-folder-2.json](./353415-pixel-restorer-image-folder-2.json) |
+| Pixel Restorer: Image Folder 20 | 353436 | [353436-pixel-restorer-image-folder-20.json](./353436-pixel-restorer-image-folder-20.json) |
+| Pixel Restorer: Image Folder 21 | 353437 | [353437-pixel-restorer-image-folder-21.json](./353437-pixel-restorer-image-folder-21.json) |
+| Pixel Restorer: Image Folder 22 | 353438 | [353438-pixel-restorer-image-folder-22.json](./353438-pixel-restorer-image-folder-22.json) |
+| Pixel Restorer: Image Folder 23 | 353439 | [353439-pixel-restorer-image-folder-23.json](./353439-pixel-restorer-image-folder-23.json) |
+| Pixel Restorer: Image Folder 24 | 353440 | [353440-pixel-restorer-image-folder-24.json](./353440-pixel-restorer-image-folder-24.json) |
 | Pixel Restorer: Image Folder 3 | 353416 | [353416-pixel-restorer-image-folder-3.json](./353416-pixel-restorer-image-folder-3.json) |
 | Pixel Restorer: Image Folder 4 | 353417 | [353417-pixel-restorer-image-folder-4.json](./353417-pixel-restorer-image-folder-4.json) |
 | Pixel Restorer: Image Folder 5 | 353418 | [353418-pixel-restorer-image-folder-5.json](./353418-pixel-restorer-image-folder-5.json) |
 | Pixel Restorer: Image Folder 6 | 353419 | [353419-pixel-restorer-image-folder-6.json](./353419-pixel-restorer-image-folder-6.json) |
+| Pixel Restorer: Image Folder 7 | 353420 | [353420-pixel-restorer-image-folder-7.json](./353420-pixel-restorer-image-folder-7.json) |
+| Pixel Restorer: Image Folder 8 | 353421 | [353421-pixel-restorer-image-folder-8.json](./353421-pixel-restorer-image-folder-8.json) |
+| Pixel Restorer: Image Folder 9 | 353425 | [353425-pixel-restorer-image-folder-9.json](./353425-pixel-restorer-image-folder-9.json) |
 | Pixel Rift Adventure | 342737 | [342737-pixel-rift-adventure.json](./342737-pixel-rift-adventure.json) |
 | Pixel Ripped 1978 | 242384 | [242384-pixel-ripped-1978.json](./242384-pixel-ripped-1978.json) |
 | Pixel Ripped 1989 | 29839 | [29839-pixel-ripped-1989.json](./29839-pixel-ripped-1989.json) |
@@ -8693,9 +8712,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzling Places | 144870 | [144870-puzzling-places.json](./144870-puzzling-places.json) |
 | Puzzling Places: A Sunny Stroll in Barcelos | 353486 | [353486-puzzling-places-a-sunny-stroll-in-barcelos.json](./353486-puzzling-places-a-sunny-stroll-in-barcelos.json) |
 | Puzzling Places: All Puzzles of 2024 Bundle | 353878 | [353878-puzzling-places-all-puzzles-of-2024-bundle.json](./353878-puzzling-places-all-puzzles-of-2024-bundle.json) |
+| Puzzling Places: Ancient Egypt | 353469 | [353469-puzzling-places-ancient-egypt.json](./353469-puzzling-places-ancient-egypt.json) |
+| Puzzling Places: Behind High Walls | 353447 | [353447-puzzling-places-behind-high-walls.json](./353447-puzzling-places-behind-high-walls.json) |
 | Puzzling Places: Cityscapes Bundle | 353888 | [353888-puzzling-places-cityscapes-bundle.json](./353888-puzzling-places-cityscapes-bundle.json) |
 | Puzzling Places: Cozy Rooms Bundle | 353889 | [353889-puzzling-places-cozy-rooms-bundle.json](./353889-puzzling-places-cozy-rooms-bundle.json) |
 | Puzzling Places: EuroTrip Bundle | 353885 | [353885-puzzling-places-eurotrip-bundle.json](./353885-puzzling-places-eurotrip-bundle.json) |
+| Puzzling Places: Monastery of Batalha - Day & Night | 353461 | [353461-puzzling-places-monastery-of-batalha-day-and-night.json](./353461-puzzling-places-monastery-of-batalha-day-and-night.json) |
+| Puzzling Places: Monthly Pack #10 | 353455 | [353455-puzzling-places-monthly-pack-10.json](./353455-puzzling-places-monthly-pack-10.json) |
+| Puzzling Places: Monthly Pack #11 - Skogaholm Manor | 353456 | [353456-puzzling-places-monthly-pack-11-skogaholm-manor.json](./353456-puzzling-places-monthly-pack-11-skogaholm-manor.json) |
+| Puzzling Places: Monthly Pack #12 | 353457 | [353457-puzzling-places-monthly-pack-12.json](./353457-puzzling-places-monthly-pack-12.json) |
+| Puzzling Places: Monthly Pack #13 | 353458 | [353458-puzzling-places-monthly-pack-13.json](./353458-puzzling-places-monthly-pack-13.json) |
+| Puzzling Places: Monthly Pack #14 | 353459 | [353459-puzzling-places-monthly-pack-14.json](./353459-puzzling-places-monthly-pack-14.json) |
+| Puzzling Places: Monthly Pack #15 - Trucks of Pakistan | 353464 | [353464-puzzling-places-monthly-pack-15-trucks-of-pakistan.json](./353464-puzzling-places-monthly-pack-15-trucks-of-pakistan.json) |
+| Puzzling Places: Monthly Pack #16 - Beta Pack | 353465 | [353465-puzzling-places-monthly-pack-16-beta-pack.json](./353465-puzzling-places-monthly-pack-16-beta-pack.json) |
+| Puzzling Places: Monthly Pack #17 - Moments in Japan | 353467 | [353467-puzzling-places-monthly-pack-17-moments-in-japan.json](./353467-puzzling-places-monthly-pack-17-moments-in-japan.json) |
+| Puzzling Places: Monthly Pack #18 - French Chateaux | 353468 | [353468-puzzling-places-monthly-pack-18-french-chateaux.json](./353468-puzzling-places-monthly-pack-18-french-chateaux.json) |
+| Puzzling Places: Monthly Pack #19 - Snowy Sights | 353470 | [353470-puzzling-places-monthly-pack-19-snowy-sights.json](./353470-puzzling-places-monthly-pack-19-snowy-sights.json) |
+| Puzzling Places: Monthly Pack #2 | 353442 | [353442-puzzling-places-monthly-pack-2.json](./353442-puzzling-places-monthly-pack-2.json) |
 | Puzzling Places: Monthly Pack #20 - Tamerlane | 353471 | [353471-puzzling-places-monthly-pack-20-tamerlane.json](./353471-puzzling-places-monthly-pack-20-tamerlane.json) |
 | Puzzling Places: Monthly Pack #21 - Estonia | 353472 | [353472-puzzling-places-monthly-pack-21-estonia.json](./353472-puzzling-places-monthly-pack-21-estonia.json) |
 | Puzzling Places: Monthly Pack #22 - Streets of San Francisco | 353473 | [353473-puzzling-places-monthly-pack-22-streets-of-san-francisco.json](./353473-puzzling-places-monthly-pack-22-streets-of-san-francisco.json) |
@@ -8706,6 +8739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzling Places: Monthly Pack #27 | 353482 | [353482-puzzling-places-monthly-pack-27.json](./353482-puzzling-places-monthly-pack-27.json) |
 | Puzzling Places: Monthly Pack #28 - China | 353483 | [353483-puzzling-places-monthly-pack-28-china.json](./353483-puzzling-places-monthly-pack-28-china.json) |
 | Puzzling Places: Monthly Pack #29 - Full of Color | 353484 | [353484-puzzling-places-monthly-pack-29-full-of-color.json](./353484-puzzling-places-monthly-pack-29-full-of-color.json) |
+| Puzzling Places: Monthly Pack #3 - Churches of Catalonia | 353444 | [353444-puzzling-places-monthly-pack-3-churches-of-catalonia.json](./353444-puzzling-places-monthly-pack-3-churches-of-catalonia.json) |
 | Puzzling Places: Monthly Pack #30 | 353488 | [353488-puzzling-places-monthly-pack-30.json](./353488-puzzling-places-monthly-pack-30.json) |
 | Puzzling Places: Monthly Pack #31 | 353489 | [353489-puzzling-places-monthly-pack-31.json](./353489-puzzling-places-monthly-pack-31.json) |
 | Puzzling Places: Monthly Pack #32 - Along the Coast | 353490 | [353490-puzzling-places-monthly-pack-32-along-the-coast.json](./353490-puzzling-places-monthly-pack-32-along-the-coast.json) |
@@ -8713,9 +8747,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzling Places: Monthly Pack #34 | 353492 | [353492-puzzling-places-monthly-pack-34.json](./353492-puzzling-places-monthly-pack-34.json) |
 | Puzzling Places: Monthly Pack #35 - Inside and Out 2 | 353498 | [353498-puzzling-places-monthly-pack-35-inside-and-out-2.json](./353498-puzzling-places-monthly-pack-35-inside-and-out-2.json) |
 | Puzzling Places: Monthly Pack #36 - South Korea Pack | 353499 | [353499-puzzling-places-monthly-pack-36-south-korea-pack.json](./353499-puzzling-places-monthly-pack-36-south-korea-pack.json) |
+| Puzzling Places: Monthly Pack #4 - Promenade in Portugal | 353448 | [353448-puzzling-places-monthly-pack-4-promenade-in-portugal.json](./353448-puzzling-places-monthly-pack-4-promenade-in-portugal.json) |
+| Puzzling Places: Monthly Pack #5 - The Ukraine Pack | 353449 | [353449-puzzling-places-monthly-pack-5-the-ukraine-pack.json](./353449-puzzling-places-monthly-pack-5-the-ukraine-pack.json) |
+| Puzzling Places: Monthly Pack #6 - Remarkable Rooms | 353450 | [353450-puzzling-places-monthly-pack-6-remarkable-rooms.json](./353450-puzzling-places-monthly-pack-6-remarkable-rooms.json) |
+| Puzzling Places: Monthly Pack #7 | 353451 | [353451-puzzling-places-monthly-pack-7.json](./353451-puzzling-places-monthly-pack-7.json) |
+| Puzzling Places: Monthly Pack #8 - Antique Treasures | 353453 | [353453-puzzling-places-monthly-pack-8-antique-treasures.json](./353453-puzzling-places-monthly-pack-8-antique-treasures.json) |
+| Puzzling Places: Monthly Pack #9 - Greece | 353454 | [353454-puzzling-places-monthly-pack-9-greece.json](./353454-puzzling-places-monthly-pack-9-greece.json) |
 | Puzzling Places: New York City | 353487 | [353487-puzzling-places-new-york-city.json](./353487-puzzling-places-new-york-city.json) |
 | Puzzling Places: Premium Puzzles Bundle | 353887 | [353887-puzzling-places-premium-puzzles-bundle.json](./353887-puzzling-places-premium-puzzles-bundle.json) |
 | Puzzling Places: Summer Dive | 353475 | [353475-puzzling-places-summer-dive.json](./353475-puzzling-places-summer-dive.json) |
+| Puzzling Places: The Wave | 353466 | [353466-puzzling-places-the-wave.json](./353466-puzzling-places-the-wave.json) |
+| Puzzling Places: Variety Pack - Volume 2 | 353446 | [353446-puzzling-places-variety-pack-volume-2.json](./353446-puzzling-places-variety-pack-volume-2.json) |
 | Puzzling Places: World Heritage Tour | 353485 | [353485-puzzling-places-world-heritage-tour.json](./353485-puzzling-places-world-heritage-tour.json) |
 | Puzzling Robot in the Dungeon | 358465 | [358465-puzzling-robot-in-the-dungeon.json](./358465-puzzling-robot-in-the-dungeon.json) |
 | Puzzling Rooms VR | 31837 | [31837-puzzling-rooms-vr.json](./31837-puzzling-rooms-vr.json) |
