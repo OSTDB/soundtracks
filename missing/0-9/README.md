@@ -199,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10-Yard Fight | 229983 | [229983-10-yard-fight.json](./229983-10-yard-fight.json) |
 | 10-Yard Fight | 2733 | [2733-10-yard-fight.json](./2733-10-yard-fight.json) |
 | 10,000 Feet Below | 271729 | [271729-10-000-feet-below.json](./271729-10-000-feet-below.json) |
+| 10,000 Player Chess | 341648 | [341648-10-000-player-chess.json](./341648-10-000-player-chess.json) |
 | 10:59 | 308936 | [308936-10-59.json](./308936-10-59.json) |
 | 100 Africa Cats | 334117 | [334117-100-africa-cats.json](./334117-100-africa-cats.json) |
 | 100 Aliens Cats | 288726 | [288726-100-aliens-cats.json](./288726-100-aliens-cats.json) |
