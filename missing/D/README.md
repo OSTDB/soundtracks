@@ -1067,6 +1067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darts Frenzy | 280785 | [280785-darts-frenzy.json](./280785-darts-frenzy.json) |
 | Darts Up | 85556 | [85556-darts-up.json](./85556-darts-up.json) |
 | Darts VR | 52091 | [52091-darts-vr.json](./52091-darts-vr.json) |
+| Dartz | 354574 | [354574-dartz.json](./354574-dartz.json) |
 | Daruino | 185536 | [185536-daruino.json](./185536-daruino.json) |
 | Darumeshi Sports Store | 230306 | [230306-darumeshi-sports-store.json](./230306-darumeshi-sports-store.json) |
 | Darwin | 309853 | [309853-darwin.json](./309853-darwin.json) |
@@ -4248,6 +4249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diluvium | 64890 | [64890-diluvium.json](./64890-diluvium.json) |
 | Dim | 329686 | [329686-dim.json](./329686-dim.json) |
 | Dim Glow | 158193 | [158193-dim-glow.json](./158193-dim-glow.json) |
+| Dim X: Dimensional Explorer | 354576 | [354576-dim-x-dimensional-explorer.json](./354576-dim-x-dimensional-explorer.json) |
 | Dima Rescues Ira | 75157 | [75157-dima-rescues-ira.json](./75157-dima-rescues-ira.json) |
 | Dimachaerus | 301248 | [301248-dimachaerus.json](./301248-dimachaerus.json) |
 | Dimahoo | 38527 | [38527-dimahoo.json](./38527-dimahoo.json) |
@@ -4656,6 +4658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discovering Space 2 | 32205 | [32205-discovering-space-2.json](./32205-discovering-space-2.json) |
 | Discovering the Dinosaurs | 105755 | [105755-discovering-the-dinosaurs.json](./105755-discovering-the-dinosaurs.json) |
 | Discoverx | 374213 | [374213-discoverx.json](./374213-discoverx.json) |
+| Discovery | 354575 | [354575-discovery.json](./354575-discovery.json) |
 | Discovery Freelancer | 111445 | [111445-discovery-freelancer.json](./111445-discovery-freelancer.json) |
 | Discovery Islands | 399706 | [399706-discovery-islands.json](./399706-discovery-islands.json) |
 | Discovery Kids: Dolphin Discovery | 72755 | [72755-discovery-kids-dolphin-discovery.json](./72755-discovery-kids-dolphin-discovery.json) |
@@ -6511,6 +6514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DownSouth | 391048 | [391048-downsouth.json](./391048-downsouth.json) |
 | Downstairs at Grandma's House | 113832 | [113832-downstairs-at-grandmas-house.json](./113832-downstairs-at-grandmas-house.json) |
 | Downtown | 174110 | [174110-downtown.json](./174110-downtown.json) |
+| Downtown | 354573 | [354573-downtown.json](./354573-downtown.json) |
 | Downtown Club | 330284 | [330284-downtown-club.json](./330284-downtown-club.json) |
 | Downtown Dodgeball Da yo: Zenin Shuugou!! | 60501 | [60501-downtown-dodgeball-da-yo-zenin-shuugou.json](./60501-downtown-dodgeball-da-yo-zenin-shuugou.json) |
 | Downtown Jam | 207784 | [207784-downtown-jam.json](./207784-downtown-jam.json) |
@@ -7306,6 +7310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dread X Collection: The Hunt | 145624 | [145624-dread-x-collection-the-hunt.json](./145624-dread-x-collection-the-hunt.json) |
 | Dreadbone | 347786 | [347786-dreadbone.json](./347786-dreadbone.json) |
 | DreadBound | 382895 | [382895-dreadbound.json](./382895-dreadbound.json) |
+| Dreadcore: Locked Unit | 354556 | [354556-dreadcore-locked-unit.json](./354556-dreadcore-locked-unit.json) |
 | Dreader | 176487 | [176487-dreader.json](./176487-dreader.json) |
 | DreadFall | 260241 | [260241-dreadfall.json](./260241-dreadfall.json) |
 | Dreadfold | 397901 | [397901-dreadfold.json](./397901-dreadfold.json) |
