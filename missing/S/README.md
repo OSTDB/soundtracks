@@ -2400,6 +2400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Chess | 19490 | [19490-sega-chess.json](./19490-sega-chess.json) |
 | Sega Classics Arcade Collection 4-in-1 | 5432 | [5432-sega-classics-arcade-collection-4-in-1.json](./5432-sega-classics-arcade-collection-4-in-1.json) |
 | Sega Flipper | 308409 | [308409-sega-flipper.json](./308409-sega-flipper.json) |
+| Sega Football Club Champions | 346196 | [346196-sega-football-club-champions.json](./346196-sega-football-club-champions.json) |
 | Sega Game Pack 4 in 1 | 79600 | [79600-sega-game-pack-4-in-1.json](./79600-sega-game-pack-4-in-1.json) |
 | Sega Genesis Classic Collection: Gold Edition | 51261 | [51261-sega-genesis-classic-collection-gold-edition.json](./51261-sega-genesis-classic-collection-gold-edition.json) |
 | Sega Genesis Classics | 80185 | [80185-sega-genesis-classics.json](./80185-sega-genesis-classics.json) |
@@ -4679,6 +4680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shroom & Doom | 256911 | [256911-shroom-and-doom.json](./256911-shroom-and-doom.json) |
 | Shroom and Gloom: Jam Version | 191809 | [191809-shroom-and-gloom-jam-version.json](./191809-shroom-and-gloom-jam-version.json) |
 | Shroomageddon | 388305 | [388305-shroomageddon.json](./388305-shroomageddon.json) |
+| Shroomer | 346178 | [346178-shroomer.json](./346178-shroomer.json) |
 | Shroomio's Adventure | 185455 | [185455-shroomios-adventure.json](./185455-shroomios-adventure.json) |
 | Shroomscape Zone | 192465 | [192465-shroomscape-zone.json](./192465-shroomscape-zone.json) |
 | Shroomtopia | 286092 | [286092-shroomtopia.json](./286092-shroomtopia.json) |
@@ -7550,6 +7552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer | 261792 | [261792-soccer.json](./261792-soccer.json) |
 | Soccer | 300003 | [300003-soccer.json](./300003-soccer.json) |
 | Soccer | 346058 | [346058-soccer.json](./346058-soccer.json) |
+| Soccer | 346074 | [346074-soccer.json](./346074-soccer.json) |
 | Soccer | 346099 | [346099-soccer.json](./346099-soccer.json) |
 | Soccer | 72370 | [72370-soccer.json](./72370-soccer.json) |
 | Soccer | 86375 | [86375-soccer.json](./86375-soccer.json) |
