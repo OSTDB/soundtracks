@@ -349,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Night Train to the Forest Zone | 138054 | [138054-a-night-train-to-the-forest-zone.json](./138054-a-night-train-to-the-forest-zone.json) |
 | A Night Was Had on the Town | 178944 | [178944-a-night-was-had-on-the-town.json](./178944-a-night-was-had-on-the-town.json) |
 | A Night With Angel | 266280 | [266280-a-night-with-angel.json](./266280-a-night-with-angel.json) |
+| A Night With Gigsjaw VR | 374226 | [374226-a-night-with-gigsjaw-vr.json](./374226-a-night-with-gigsjaw-vr.json) |
 | A night with Natalie VR | 111376 | [111376-a-night-with-natalie-vr.json](./111376-a-night-with-natalie-vr.json) |
 | A Night With: Succubus | 331291 | [331291-a-night-with-succubus.json](./331291-a-night-with-succubus.json) |
 | A Nightmare on Elm Street | 129595 | [129595-a-nightmare-on-elm-street.json](./129595-a-nightmare-on-elm-street.json) |
@@ -628,6 +629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.E. | 20175 | [20175-a-e.json](./20175-a-e.json) |
 | A.E. | 282086 | [282086-a-e.json](./282086-a-e.json) |
 | A.I am Monster | 26569 | [26569-a-i-am-monster.json](./26569-a-i-am-monster.json) |
+| A.I: Mnemosyne | 374224 | [374224-a-i-mnemosyne.json](./374224-a-i-mnemosyne.json) |
 | A.I. An Experience With Artificial Intelligence | 73556 | [73556-a-i-an-experience-with-artificial-intelligence.json](./73556-a-i-an-experience-with-artificial-intelligence.json) |
 | A.I. Invasion | 34855 | [34855-a-i-invasion.json](./34855-a-i-invasion.json) |
 | A.I. Invasion: Road of Rodan | 164435 | [164435-a-i-invasion-road-of-rodan.json](./164435-a-i-invasion-road-of-rodan.json) |
@@ -3156,6 +3158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Allez Raconte | 269548 | [269548-allez-raconte.json](./269548-allez-raconte.json) |
 | AllFive Classic | 307277 | [307277-allfive-classic.json](./307277-allfive-classic.json) |
 | AllFive XP | 307280 | [307280-allfive-xp.json](./307280-allfive-xp.json) |
+| Allgo: The Prime Reset | 374249 | [374249-allgo-the-prime-reset.json](./374249-allgo-the-prime-reset.json) |
 | Allia Quest | 73527 | [73527-allia-quest.json](./73527-allia-quest.json) |
 | Alliance Aligned | 105129 | [105129-alliance-aligned.json](./105129-alliance-aligned.json) |
 | Alliance at War | 193992 | [193992-alliance-at-war.json](./193992-alliance-at-war.json) |
@@ -4889,6 +4892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AntQueen 3D | 117642 | [117642-antqueen-3d.json](./117642-antqueen-3d.json) |
 | Antrabhara | 223491 | [223491-antrabhara.json](./223491-antrabhara.json) |
 | Ants in Space! | 248031 | [248031-ants-in-space.json](./248031-ants-in-space.json) |
+| Ants March TD | 374200 | [374200-ants-march-td.json](./374200-ants-march-td.json) |
 | Ants of Duty | 226169 | [226169-ants-of-duty.json](./226169-ants-of-duty.json) |
 | Ants Took My Eyeball | 211273 | [211273-ants-took-my-eyeball.json](./211273-ants-took-my-eyeball.json) |
 | Ants With Guns | 211436 | [211436-ants-with-guns.json](./211436-ants-with-guns.json) |
