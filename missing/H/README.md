@@ -5925,6 +5925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydraulic Empire | 34969 | [34969-hydraulic-empire.json](./34969-hydraulic-empire.json) |
 | Hydraulic Press | 372043 | [372043-hydraulic-press.json](./372043-hydraulic-press.json) |
 | Hydraulic Press Pocket | 400391 | [400391-hydraulic-press-pocket.json](./400391-hydraulic-press-pocket.json) |
+| Hydro | 344997 | [344997-hydro.json](./344997-hydro.json) |
 | Hydro Thunder | 3370 | [3370-hydro-thunder.json](./3370-hydro-thunder.json) |
 | Hydrofoil Generation | 190237 | [190237-hydrofoil-generation.json](./190237-hydrofoil-generation.json) |
 | Hydrofusion Substation | 270677 | [270677-hydrofusion-substation.json](./270677-hydrofusion-substation.json) |
