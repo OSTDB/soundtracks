@@ -2663,6 +2663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beautiful Sakura: Fashion Club | 327971 | [327971-beautiful-sakura-fashion-club.json](./327971-beautiful-sakura-fashion-club.json) |
 | Beautiful Sakura: Running Club | 327973 | [327973-beautiful-sakura-running-club.json](./327973-beautiful-sakura-running-club.json) |
 | Beautiful Sakura: Surfing Club | 265240 | [265240-beautiful-sakura-surfing-club.json](./265240-beautiful-sakura-surfing-club.json) |
+| Beautiful Summer | 367578 | [367578-beautiful-summer.json](./367578-beautiful-summer.json) |
 | Beautiful Warrior Hibiki's Captive Violation Days | 82828 | [82828-beautiful-warrior-hibikis-captive-violation-days.json](./82828-beautiful-warrior-hibikis-captive-violation-days.json) |
 | Beauty and the Beast | 105383 | [105383-beauty-and-the-beast.json](./105383-beauty-and-the-beast.json) |
 | Beauty and the Beast | 211430 | [211430-beauty-and-the-beast.json](./211430-beauty-and-the-beast.json) |
@@ -2994,6 +2995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben Tennyson: Ace Attorney | 308534 | [308534-ben-tennyson-ace-attorney.json](./308534-ben-tennyson-ace-attorney.json) |
 | Ben the Binder | 378303 | [378303-ben-the-binder.json](./378303-ben-the-binder.json) |
 | Ben There, Dan That! | 9541 | [9541-ben-there-dan-that.json](./9541-ben-there-dan-that.json) |
+| Ben's World | 367581 | [367581-bens-world.json](./367581-bens-world.json) |
 | Ben's Zombie Apocalypse | 411826 | [411826-bens-zombie-apocalypse.json](./411826-bens-zombie-apocalypse.json) |
 | Běncǎo Shàn Shí Lù | 373696 | [373696-bencao-shan-shi-lu.json](./373696-bencao-shan-shi-lu.json) |
 | Benchmark Your Skills | 326252 | [326252-benchmark-your-skills.json](./326252-benchmark-your-skills.json) |
@@ -4724,6 +4726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blessed Redux | 382201 | [382201-blessed-redux.json](./382201-blessed-redux.json) |
 | Blessed Surface | 76357 | [76357-blessed-surface.json](./76357-blessed-surface.json) |
 | Blessing in the Darkness | 333059 | [333059-blessing-in-the-darkness.json](./333059-blessing-in-the-darkness.json) |
+| Blest | 367534 | [367534-blest.json](./367534-blest.json) |
 | Bleu Bayou | 349836 | [349836-bleu-bayou.json](./349836-bleu-bayou.json) |
 | Blewie | 157482 | [157482-blewie.json](./157482-blewie.json) |
 | Blight | 211161 | [211161-blight.json](./211161-blight.json) |
@@ -6402,6 +6405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouken Yuuki Pluster World: Pluston GP | 49525 | [49525-bouken-yuuki-pluster-world-pluston-gp.json](./49525-bouken-yuuki-pluster-world-pluston-gp.json) |
 | Bouken-Ou Beet: Busters Road | 49524 | [49524-bouken-ou-beet-busters-road.json](./49524-bouken-ou-beet-busters-road.json) |
 | Bouken-Ou Beet: Vandel vs. Busters | 269670 | [269670-bouken-ou-beet-vandel-vs-busters.json](./269670-bouken-ou-beet-vandel-vs-busters.json) |
+| Boukyaku no Edicius | 367544 | [367544-boukyaku-no-edicius.json](./367544-boukyaku-no-edicius.json) |
 | Boukyaku no Senritsu | 49523 | [49523-boukyaku-no-senritsu.json](./49523-boukyaku-no-senritsu.json) |
 | Boulder Boy | 61639 | [61639-boulder-boy.json](./61639-boulder-boy.json) |
 | Boulder Dash | 12942 | [12942-boulder-dash.json](./12942-boulder-dash.json) |
