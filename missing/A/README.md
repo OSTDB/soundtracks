@@ -167,19 +167,27 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Friday Night Real Music Funkin Game | 325105 | [325105-a-friday-night-real-music-funkin-game.json](./325105-a-friday-night-real-music-funkin-game.json) |
 | A Frog in a Well | 337798 | [337798-a-frog-in-a-well.json](./337798-a-frog-in-a-well.json) |
 | A Frog's Job 2: Froggina | 400419 | [400419-a-frogs-job-2-froggina.json](./400419-a-frogs-job-2-froggina.json) |
+| A Fugu's Dive | 379501 | [379501-a-fugus-dive.json](./379501-a-fugus-dive.json) |
 | A Furry Tale: A night in Havena | 312673 | [312673-a-furry-tale-a-night-in-havena.json](./312673-a-furry-tale-a-night-in-havena.json) |
 | A Future With You | 364521 | [364521-a-future-with-you.json](./364521-a-future-with-you.json) |
 | A G-G-Ghost! | 311656 | [311656-a-g-g-ghost.json](./311656-a-g-g-ghost.json) |
 | A Game About a King Saving a Dragon | 384142 | [384142-a-game-about-a-king-saving-a-dragon.json](./384142-a-game-about-a-king-saving-a-dragon.json) |
 | A Game About Ants | 184916 | [184916-a-game-about-ants.json](./184916-a-game-about-ants.json) |
 | A Game About Bouncing DVD | 406321 | [406321-a-game-about-bouncing-dvd.json](./406321-a-game-about-bouncing-dvd.json) |
+| A Game About Breaking A Cube | 379511 | [379511-a-game-about-breaking-a-cube.json](./379511-a-game-about-breaking-a-cube.json) |
 | A Game About Chopping Trees | 403786 | [403786-a-game-about-chopping-trees.json](./403786-a-game-about-chopping-trees.json) |
+| A Game About Clicking Crystals | 379509 | [379509-a-game-about-clicking-crystals.json](./379509-a-game-about-clicking-crystals.json) |
 | A Game About Dodging Balls | 389708 | [389708-a-game-about-dodging-balls.json](./389708-a-game-about-dodging-balls.json) |
 | A Game About Fishing | 412382 | [412382-a-game-about-fishing.json](./412382-a-game-about-fishing.json) |
 | A Game About Flicking A Switch | 287146 | [287146-a-game-about-flicking-a-switch.json](./287146-a-game-about-flicking-a-switch.json) |
 | A Game About Getting Bigger | 405583 | [405583-a-game-about-getting-bigger.json](./405583-a-game-about-getting-bigger.json) |
+| A Game About Making Mosaics | 379507 | [379507-a-game-about-making-mosaics.json](./379507-a-game-about-making-mosaics.json) |
+| A Game About Mining an Asteroid | 379508 | [379508-a-game-about-mining-an-asteroid.json](./379508-a-game-about-mining-an-asteroid.json) |
 | A Game About My Cat | 303749 | [303749-a-game-about-my-cat.json](./303749-a-game-about-my-cat.json) |
 | A Game About Opening a Chest | 390749 | [390749-a-game-about-opening-a-chest.json](./390749-a-game-about-opening-a-chest.json) |
+| A Game About Plant | 379506 | [379506-a-game-about-plant.json](./379506-a-game-about-plant.json) |
+| A Game About Selling Used Games | 379505 | [379505-a-game-about-selling-used-games.json](./379505-a-game-about-selling-used-games.json) |
+| A Game About You | 379504 | [379504-a-game-about-you.json](./379504-a-game-about-you.json) |
 | A Game of Concentration | 40723 | [40723-a-game-of-concentration.json](./40723-a-game-of-concentration.json) |
 | A Game of Dwarves: Star Dwarves | 171034 | [171034-a-game-of-dwarves-star-dwarves.json](./171034-a-game-of-dwarves-star-dwarves.json) |
 | A Game of Tennis | 92621 | [92621-a-game-of-tennis.json](./92621-a-game-of-tennis.json) |
@@ -1510,12 +1518,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerofly FS 4 Flight Simulator: Aircraft AddOn | 204990 | [204990-aerofly-fs-4-flight-simulator-aircraft-addon.json](./204990-aerofly-fs-4-flight-simulator-aircraft-addon.json) |
 | aerofly RC 7 | 17839 | [17839-aerofly-rc-7.json](./17839-aerofly-rc-7.json) |
 | Aerolicious | 416623 | [416623-aerolicious.json](./416623-aerolicious.json) |
+| AéroMultiverse | 379493 | [379493-aeromultiverse.json](./379493-aeromultiverse.json) |
 | Aeronaut | 124175 | [124175-aeronaut.json](./124175-aeronaut.json) |
 | Aeronaut | 178522 | [178522-aeronaut.json](./178522-aeronaut.json) |
 | Aeronautica Imperialis: Flight Command | 132207 | [132207-aeronautica-imperialis-flight-command.json](./132207-aeronautica-imperialis-flight-command.json) |
 | Aeronautica Imperialis: Flight Command - Skulls Pack | 162754 | [162754-aeronautica-imperialis-flight-command-skulls-pack.json](./162754-aeronautica-imperialis-flight-command-skulls-pack.json) |
+| AeroSpace Engineering | 379494 | [379494-aerospace-engineering.json](./379494-aerospace-engineering.json) |
 | Aerospace Forces | 101387 | [101387-aerospace-forces.json](./101387-aerospace-forces.json) |
 | Aerostar | 7746 | [7746-aerostar.json](./7746-aerostar.json) |
+| AeroStrike | 379495 | [379495-aerostrike.json](./379495-aerostrike.json) |
+| Aerotopia | 379496 | [379496-aerotopia.json](./379496-aerotopia.json) |
 | Aerovice Frutiger World | 411785 | [411785-aerovice-frutiger-world.json](./411785-aerovice-frutiger-world.json) |
 | AeroWings | 3709 | [3709-aerowings.json](./3709-aerowings.json) |
 | AeroWings 2: Airstrike | 3708 | [3708-aerowings-2-airstrike.json](./3708-aerowings-2-airstrike.json) |
@@ -1618,11 +1630,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After School | 182819 | [182819-after-school.json](./182819-after-school.json) |
 | After School | 252719 | [252719-after-school.json](./252719-after-school.json) |
 | After School | 253348 | [253348-after-school.json](./253348-after-school.json) |
+| After School Cure | 379497 | [379497-after-school-cure.json](./379497-after-school-cure.json) |
 | After School Girlfriend | 206197 | [206197-after-school-girlfriend.json](./206197-after-school-girlfriend.json) |
 | After School Girlfriend: Performing Arts Club | 210608 | [210608-after-school-girlfriend-performing-arts-club.json](./210608-after-school-girlfriend-performing-arts-club.json) |
+| After School Grounds | 379498 | [379498-after-school-grounds.json](./379498-after-school-grounds.json) |
 | After School: Full Horror Game | 233469 | [233469-after-school-full-horror-game.json](./233469-after-school-full-horror-game.json) |
 | After Stream | 235465 | [235465-after-stream.json](./235465-after-stream.json) |
 | After Sun | 180815 | [180815-after-sun.json](./180815-after-sun.json) |
+| After the Crash: Colony | 379499 | [379499-after-the-crash-colony.json](./379499-after-the-crash-colony.json) |
 | After the Curtain Call | 377042 | [377042-after-the-curtain-call.json](./377042-after-the-curtain-call.json) |
 | After the Empire | 28111 | [28111-after-the-empire.json](./28111-after-the-empire.json) |
 | After The End | 323963 | [323963-after-the-end.json](./323963-after-the-end.json) |
@@ -1630,6 +1645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After the Fall | 119330 | [119330-after-the-fall.json](./119330-after-the-fall.json) |
 | After the Fall: Frontrunner Season | 204497 | [204497-after-the-fall-frontrunner-season.json](./204497-after-the-fall-frontrunner-season.json) |
 | After the Fall: Launch Edition | 196313 | [196313-after-the-fall-launch-edition.json](./196313-after-the-fall-launch-edition.json) |
+| After the Melodrama Novel | 379500 | [379500-after-the-melodrama-novel.json](./379500-after-the-melodrama-novel.json) |
 | After the Meteor Shower | 230940 | [230940-after-the-meteor-shower.json](./230940-after-the-meteor-shower.json) |
 | After the Suns | 119533 | [119533-after-the-suns.json](./119533-after-the-suns.json) |
 | After the Wane | 387356 | [387356-after-the-wane.json](./387356-after-the-wane.json) |
@@ -1691,7 +1707,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Against | 152211 | [152211-against.json](./152211-against.json) |
 | Against All Odds | 174102 | [174102-against-all-odds.json](./174102-against-all-odds.json) |
 | Against All Odds | 228719 | [228719-against-all-odds.json](./228719-against-all-odds.json) |
+| Against All Skies | 379502 | [379502-against-all-skies.json](./379502-against-all-skies.json) |
 | Against Ether | 173293 | [173293-against-ether.json](./173293-against-ether.json) |
+| Against the Horde | 379503 | [379503-against-the-horde.json](./379503-against-the-horde.json) |
 | Against the Storm | 147519 | [147519-against-the-storm.json](./147519-against-the-storm.json) |
 | Against the Storm: Keepers of the Stone | 315116 | [315116-against-the-storm-keepers-of-the-stone.json](./315116-against-the-storm-keepers-of-the-stone.json) |
 | Against the Storm: Nightwatchers | 356650 | [356650-against-the-storm-nightwatchers.json](./356650-against-the-storm-nightwatchers.json) |
@@ -1714,10 +1732,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agatha Christie: Murder on the Orient Express - Deluxe Edition | 249719 | [249719-agatha-christie-murder-on-the-orient-express-deluxe-edition.json](./249719-agatha-christie-murder-on-the-orient-express-deluxe-edition.json) |
 | Agatha Christie: Peril at End House | 78604 | [78604-agatha-christie-peril-at-end-house.json](./78604-agatha-christie-peril-at-end-house.json) |
 | Agatha's Folly | 58866 | [58866-agathas-folly.json](./58866-agathas-folly.json) |
+| Age After Age | 379512 | [379512-age-after-age.json](./379512-age-after-age.json) |
 | Age of 2048: World | 106373 | [106373-age-of-2048-world.json](./106373-age-of-2048-world.json) |
 | Age of Ants | 275672 | [275672-age-of-ants.json](./275672-age-of-ants.json) |
 | Age of Barbarian Extended Cut: The Slaves' Fortress | 171499 | [171499-age-of-barbarian-extended-cut-the-slaves-fortress.json](./171499-age-of-barbarian-extended-cut-the-slaves-fortress.json) |
 | Age of Barbarians Chronicles | 207506 | [207506-age-of-barbarians-chronicles.json](./207506-age-of-barbarians-chronicles.json) |
+| Age of Blocks | 379516 | [379516-age-of-blocks.json](./379516-age-of-blocks.json) |
 | Age of Booty: Tactics | 61332 | [61332-age-of-booty-tactics.json](./61332-age-of-booty-tactics.json) |
 | Age of Chaos: Legends | 193934 | [193934-age-of-chaos-legends.json](./193934-age-of-chaos-legends.json) |
 | Age of Clicks | 412397 | [412397-age-of-clicks.json](./412397-age-of-clicks.json) |
@@ -1806,6 +1826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Wushu Dynasty | 23661 | [23661-age-of-wushu-dynasty.json](./23661-age-of-wushu-dynasty.json) |
 | Age of Zombies | 8628 | [8628-age-of-zombies.json](./8628-age-of-zombies.json) |
 | Age-age the Zero-Yon Shinya | 122955 | [122955-age-age-the-zero-yon-shinya.json](./122955-age-age-the-zero-yon-shinya.json) |
+| Agebringer | 379513 | [379513-agebringer.json](./379513-agebringer.json) |
 | Ageless Machine: Cup of Tea | 180716 | [180716-ageless-machine-cup-of-tea.json](./180716-ageless-machine-cup-of-tea.json) |
 | Agence | 135115 | [135115-agence.json](./135115-agence.json) |
 | Agenda | 31784 | [31784-agenda.json](./31784-agenda.json) |
@@ -1828,10 +1849,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent Reverb | 235149 | [235149-agent-reverb.json](./235149-agent-reverb.json) |
 | Agent Roy: Zombie Hunt | 232449 | [232449-agent-roy-zombie-hunt.json](./232449-agent-roy-zombie-hunt.json) |
 | Agent USA | 12247 | [12247-agent-usa.json](./12247-agent-usa.json) |
+| Agent Versus | 379515 | [379515-agent-versus.json](./379515-agent-versus.json) |
 | Agent X: Equation Rider | 81754 | [81754-agent-x-equation-rider.json](./81754-agent-x-equation-rider.json) |
 | Agent XXL und das Geheimnis der Quadrate | 113470 | [113470-agent-xxl-und-das-geheimnis-der-quadrate.json](./113470-agent-xxl-und-das-geheimnis-der-quadrate.json) |
 | Agent-00 | 140355 | [140355-agent-00.json](./140355-agent-00.json) |
 | Agent: osoboye zadaniye | 132158 | [132158-agent-osoboye-zadaniye.json](./132158-agent-osoboye-zadaniye.json) |
+| Agents 4 Hire | 379514 | [379514-agents-4-hire.json](./379514-agents-4-hire.json) |
 | Agents 404 | 408224 | [408224-agents-404.json](./408224-agents-404.json) |
 | Agents of Groove | 325644 | [325644-agents-of-groove.json](./325644-agents-of-groove.json) |
 | Agents of Mayhem: Johnny Gat | 118271 | [118271-agents-of-mayhem-johnny-gat.json](./118271-agents-of-mayhem-johnny-gat.json) |
@@ -1998,12 +2021,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aimbeast | 124750 | [124750-aimbeast.json](./124750-aimbeast.json) |
 | Aimcademy | 273364 | [273364-aimcademy.json](./273364-aimcademy.json) |
 | Aimee's Cafe | 266520 | [266520-aimees-cafe.json](./266520-aimees-cafe.json) |
+| AimJJang | 379517 | [379517-aimjjang.json](./379517-aimjjang.json) |
 | Aimlabs | 67902 | [67902-aimlabs.json](./67902-aimlabs.json) |
 | AimRogue | 288747 | [288747-aimrogue.json](./288747-aimrogue.json) |
 | AimX | 212901 | [212901-aimx.json](./212901-aimx.json) |
+| Ain't No Surprise | 379518 | [379518-aint-no-surprise.json](./379518-aint-no-surprise.json) |
 | AInder | 239682 | [239682-ainder.json](./239682-ainder.json) |
 | Ainmora: The Impending Disaster | 241949 | [241949-ainmora-the-impending-disaster.json](./241949-ainmora-the-impending-disaster.json) |
 | Ainsley | 294247 | [294247-ainsley.json](./294247-ainsley.json) |
+| Ainur | 379519 | [379519-ainur.json](./379519-ainur.json) |
 | Aion | 563 | [563-aion.json](./563-aion.json) |
 | Aion 2 | 117297 | [117297-aion-2.json](./117297-aion-2.json) |
 | Aion Collector's Edition | 405640 | [405640-aion-collectors-edition.json](./405640-aion-collectors-edition.json) |
@@ -2014,6 +2040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aion: Steel Cavalry | 62416 | [62416-aion-steel-cavalry.json](./62416-aion-steel-cavalry.json) |
 | AionGuard | 94732 | [94732-aionguard.json](./94732-aionguard.json) |
 | Aious: World's End | 177333 | [177333-aious-worlds-end.json](./177333-aious-worlds-end.json) |
+| Aiphobia | 379520 | [379520-aiphobia.json](./379520-aiphobia.json) |
 | Aipom's Great Pirate Adventure | 414465 | [414465-aipoms-great-pirate-adventure.json](./414465-aipoms-great-pirate-adventure.json) |
 | AiPri Verse | 284922 | [284922-aipri-verse.json](./284922-aipri-verse.json) |
 | Air | 270385 | [270385-air.json](./270385-air.json) |
@@ -2026,6 +2053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Ball 2 | 146818 | [146818-air-ball-2.json](./146818-air-ball-2.json) |
 | Air Battle Chess | 197361 | [197361-air-battle-chess.json](./197361-air-battle-chess.json) |
 | AIR Battlefront | 117477 | [117477-air-battlefront.json](./117477-air-battlefront.json) |
+| Air Blitz | 379521 | [379521-air-blitz.json](./379521-air-blitz.json) |
 | Air Blocks | 206101 | [206101-air-blocks.json](./206101-air-blocks.json) |
 | Air Brawl | 35081 | [35081-air-brawl.json](./35081-air-brawl.json) |
 | Air Bucks | 14230 | [14230-air-bucks.json](./14230-air-bucks.json) |
@@ -2067,6 +2095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Hockey | 43934 | [43934-air-hockey.json](./43934-air-hockey.json) |
 | Air Hockey Blue | 197773 | [197773-air-hockey-blue.json](./197773-air-hockey-blue.json) |
 | Air Hockey Pink | 175177 | [175177-air-hockey-pink.json](./175177-air-hockey-pink.json) |
+| Air Hockey Simulator | 379525 | [379525-air-hockey-simulator.json](./379525-air-hockey-simulator.json) |
 | Air Hockey-fuu: Soukai Taisen Action Game - Breaking Beats! | 250444 | [250444-air-hockey-fuu-soukai-taisen-action-game-breaking-beats.json](./250444-air-hockey-fuu-soukai-taisen-action-game-breaking-beats.json) |
 | Air Hockey: Casual Table Arcade | 306526 | [306526-air-hockey-casual-table-arcade.json](./306526-air-hockey-casual-table-arcade.json) |
 | Air Hockey: Championship 3D+ | 239889 | [239889-air-hockey-championship-3d.json](./239889-air-hockey-championship-3d.json) |
@@ -2170,6 +2199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airline Manager | 206104 | [206104-airline-manager.json](./206104-airline-manager.json) |
 | Airline Tycoon 2: Falcon Airlines | 9956 | [9956-airline-tycoon-2-falcon-airlines.json](./9956-airline-tycoon-2-falcon-airlines.json) |
 | Airline Tycoon 2: Falcon Lines | 52568 | [52568-airline-tycoon-2-falcon-lines.json](./52568-airline-tycoon-2-falcon-lines.json) |
+| Airline Tycoon 2: Gold | 379524 | [379524-airline-tycoon-2-gold.json](./379524-airline-tycoon-2-gold.json) |
 | Airline Tycoon 2: Gold Edition | 52569 | [52569-airline-tycoon-2-gold-edition.json](./52569-airline-tycoon-2-gold-edition.json) |
 | Airline Tycoon 2: Honey Airlines | 9959 | [9959-airline-tycoon-2-honey-airlines.json](./9959-airline-tycoon-2-honey-airlines.json) |
 | Airline Tycoon Deluxe | 11086 | [11086-airline-tycoon-deluxe.json](./11086-airline-tycoon-deluxe.json) |
@@ -2201,6 +2231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport CEO: Beasts of the East | 193185 | [193185-airport-ceo-beasts-of-the-east.json](./193185-airport-ceo-beasts-of-the-east.json) |
 | Airport CEO: Business Class Edition | 202127 | [202127-airport-ceo-business-class-edition.json](./202127-airport-ceo-business-class-edition.json) |
 | Airport CEO: Helicopters | 272868 | [272868-airport-ceo-helicopters.json](./272868-airport-ceo-helicopters.json) |
+| Airport Control 25 | 379523 | [379523-airport-control-25.json](./379523-airport-control-25.json) |
 | Airport Control 27 | 398961 | [398961-airport-control-27.json](./398961-airport-control-27.json) |
 | Airport Control Simulator | 9960 | [9960-airport-control-simulator.json](./9960-airport-control-simulator.json) |
 | Airport Fever | 233467 | [233467-airport-fever.json](./233467-airport-fever.json) |
@@ -2211,6 +2242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Link: Connect Near Me | 290465 | [290465-airport-link-connect-near-me.json](./290465-airport-link-connect-near-me.json) |
 | Airport Madness 3D | 33481 | [33481-airport-madness-3d.json](./33481-airport-madness-3d.json) |
 | Airport Madness Collection | 52566 | [52566-airport-madness-collection.json](./52566-airport-madness-collection.json) |
+| Airport Manager | 379522 | [379522-airport-manager.json](./379522-airport-manager.json) |
 | Airport Mania: First Flight HD | 175282 | [175282-airport-mania-first-flight-hd.json](./175282-airport-mania-first-flight-hd.json) |
 | Airport Master | 208904 | [208904-airport-master.json](./208904-airport-master.json) |
 | Airport Master | 29649 | [29649-airport-master.json](./29649-airport-master.json) |
@@ -2231,6 +2263,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airranger | 122978 | [122978-airranger.json](./122978-airranger.json) |
 | AirRevo | 187453 | [187453-airrevo.json](./187453-airrevo.json) |
 | Airs Adventure | 45430 | [45430-airs-adventure.json](./45430-airs-adventure.json) |
+| Airship | 379526 | [379526-airship.json](./379526-airship.json) |
+| Airship | 379527 | [379527-airship.json](./379527-airship.json) |
 | Airship 2: Kingdoms Ablaze | 396536 | [396536-airship-2-kingdoms-ablaze.json](./396536-airship-2-kingdoms-ablaze.json) |
 | Airship: Kingdoms Adrift | 231336 | [231336-airship-kingdoms-adrift.json](./231336-airship-kingdoms-adrift.json) |
 | Airships: Conquer the Skies | 35934 | [35934-airships-conquer-the-skies.json](./35934-airships-conquer-the-skies.json) |
@@ -4436,6 +4470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Girl Puzzles: Wakana | 297773 | [297773-anime-girl-puzzles-wakana.json](./297773-anime-girl-puzzles-wakana.json) |
 | Anime Girl Puzzles: Yui | 297772 | [297772-anime-girl-puzzles-yui.json](./297772-anime-girl-puzzles-yui.json) |
 | Anime Girls | 261367 | [261367-anime-girls.json](./261367-anime-girls.json) |
+| Anime Girls Trample | 379535 | [379535-anime-girls-trample.json](./379535-anime-girls-trample.json) |
 | Anime Girls: College Love | 378779 | [378779-anime-girls-college-love.json](./378779-anime-girls-college-love.json) |
 | Anime Girls: Extended Edition | 277305 | [277305-anime-girls-extended-edition.json](./277305-anime-girls-extended-edition.json) |
 | Anime Girls: Fantasy Desire | 345678 | [345678-anime-girls-fantasy-desire.json](./345678-anime-girls-fantasy-desire.json) |
@@ -6517,6 +6552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascent: Rivals | 288339 | [288339-ascent-rivals.json](./288339-ascent-rivals.json) |
 | ASCII Game Series: Beginning | 334774 | [334774-ascii-game-series-beginning.json](./334774-ascii-game-series-beginning.json) |
 | ASCII Game Series: Blocks | 334775 | [334775-ascii-game-series-blocks.json](./334775-ascii-game-series-blocks.json) |
+| ASCII Game Series: Pinball | 379539 | [379539-ascii-game-series-pinball.json](./379539-ascii-game-series-pinball.json) |
 | ASCII Game Series: Snake | 334776 | [334776-ascii-game-series-snake.json](./334776-ascii-game-series-snake.json) |
 | ASCII Survivors | 398448 | [398448-ascii-survivors.json](./398448-ascii-survivors.json) |
 | Ascii the Brave Cat | 143752 | [143752-ascii-the-brave-cat.json](./143752-ascii-the-brave-cat.json) |
