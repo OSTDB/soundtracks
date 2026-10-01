@@ -2516,6 +2516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defcon 5 | 39776 | [39776-defcon-5.json](./39776-defcon-5.json) |
 | Defeat Me | 321507 | [321507-defeat-me.json](./321507-defeat-me.json) |
 | Defeat the Beat | 112485 | [112485-defeat-the-beat.json](./112485-defeat-the-beat.json) |
+| Defeat the Goblin King | 366366 | [366366-defeat-the-goblin-king.json](./366366-defeat-the-goblin-king.json) |
 | Defeated Girl | 219038 | [219038-defeated-girl.json](./219038-defeated-girl.json) |
 | Defect | 21928 | [21928-defect.json](./21928-defect.json) |
 | Defence Agent Gaya | 82906 | [82906-defence-agent-gaya.json](./82906-defence-agent-gaya.json) |
@@ -5561,6 +5562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolphy Dash | 104003 | [104003-dolphy-dash.json](./104003-dolphy-dash.json) |
 | Dolven | 248022 | [248022-dolven.json](./248022-dolven.json) |
 | Døm Rusalok | 132625 | [132625-d-m-rusalok.json](./132625-d-m-rusalok.json) |
+| Dom-2 | 366376 | [366376-dom-2.json](./366376-dom-2.json) |
 | Domain | 149957 | [149957-domain.json](./149957-domain.json) |
 | Domain Defense | 33197 | [33197-domain-defense.json](./33197-domain-defense.json) |
 | Domain Defense VR | 33183 | [33183-domain-defense-vr.json](./33183-domain-defense-vr.json) |
@@ -8490,6 +8492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon RPG: Hero | 235161 | [235161-dungeon-rpg-hero.json](./235161-dungeon-rpg-hero.json) |
 | Dungeon Ruins | 294294 | [294294-dungeon-ruins.json](./294294-dungeon-ruins.json) |
 | Dungeon Rummage: Tiqee's Escape | 195248 | [195248-dungeon-rummage-tiqees-escape.json](./195248-dungeon-rummage-tiqees-escape.json) |
+| Dungeon Run | 366356 | [366356-dungeon-run.json](./366356-dungeon-run.json) |
 | Dungeon Rush | 105304 | [105304-dungeon-rush.json](./105304-dungeon-rush.json) |
 | Dungeon Rushers | 20395 | [20395-dungeon-rushers.json](./20395-dungeon-rushers.json) |
 | Dungeon Scale | 157012 | [157012-dungeon-scale.json](./157012-dungeon-scale.json) |
