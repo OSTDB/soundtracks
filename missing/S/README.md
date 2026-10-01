@@ -4788,6 +4788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siberian Dawn: Winterflood | 310408 | [310408-siberian-dawn-winterflood.json](./310408-siberian-dawn-winterflood.json) |
 | Siberian Strike | 91888 | [91888-siberian-strike.json](./91888-siberian-strike.json) |
 | Sibilla | 405005 | [405005-sibilla.json](./405005-sibilla.json) |
+| Sibling Souls | 343388 | [343388-sibling-souls.json](./343388-sibling-souls.json) |
 | Sicaria | 289425 | [289425-sicaria.json](./289425-sicaria.json) |
 | Sicier's Zweck | 117076 | [117076-siciers-zweck.json](./117076-siciers-zweck.json) |
 | Sick | 277612 | [277612-sick.json](./277612-sick.json) |
@@ -10769,6 +10770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spookulele | 204715 | [204715-spookulele.json](./204715-spookulele.json) |
 | Spookware: Watch Party | 189180 | [189180-spookware-watch-party.json](./189180-spookware-watch-party.json) |
 | SpookWave | 183065 | [183065-spookwave.json](./183065-spookwave.json) |
+| Spooky Bodies | 343392 | [343392-spooky-bodies.json](./343392-spooky-bodies.json) |
 | Spooky Castle | 47235 | [47235-spooky-castle.json](./47235-spooky-castle.json) |
 | Spooky Chase | 136485 | [136485-spooky-chase.json](./136485-spooky-chase.json) |
 | Spooky Dating Sim | 374222 | [374222-spooky-dating-sim.json](./374222-spooky-dating-sim.json) |
@@ -15836,12 +15838,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Challenger Pack 4 | 122261 | [122261-super-smash-bros-ultimate-challenger-pack-4.json](./122261-super-smash-bros-ultimate-challenger-pack-4.json) |
 | Super Smash Bros. Ultimate: Competitive Playable Bosses | 280797 | [280797-super-smash-bros-ultimate-competitive-playable-bosses.json](./280797-super-smash-bros-ultimate-competitive-playable-bosses.json) |
 | Super Smash Bros. Ultimate: Conker Moveset | 395143 | [395143-super-smash-bros-ultimate-conker-moveset.json](./395143-super-smash-bros-ultimate-conker-moveset.json) |
+| Super Smash Bros. Ultimate: Expanding Donkey Kong | 343413 | [343413-super-smash-bros-ultimate-expanding-donkey-kong.json](./343413-super-smash-bros-ultimate-expanding-donkey-kong.json) |
+| Super Smash Bros. Ultimate: Fall Damage | 343408 | [343408-super-smash-bros-ultimate-fall-damage.json](./343408-super-smash-bros-ultimate-fall-damage.json) |
 | Super Smash Bros. Ultimate: Fall Guy Moveset | 395031 | [395031-super-smash-bros-ultimate-fall-guy-moveset.json](./395031-super-smash-bros-ultimate-fall-guy-moveset.json) |
 | Super Smash Bros. Ultimate: Geno Hat + Outfit | 325078 | [325078-super-smash-bros-ultimate-geno-hat-outfit.json](./325078-super-smash-bros-ultimate-geno-hat-outfit.json) |
 | Super Smash Bros. Ultimate: Gil's Armor and Helmet | 306452 | [306452-super-smash-bros-ultimate-gils-armor-and-helmet.json](./306452-super-smash-bros-ultimate-gils-armor-and-helmet.json) |
 | Super Smash Bros. Ultimate: Gogeta Moveset | 376026 | [376026-super-smash-bros-ultimate-gogeta-moveset.json](./376026-super-smash-bros-ultimate-gogeta-moveset.json) |
 | Super Smash Bros. Ultimate: Goku Mod | 242815 | [242815-super-smash-bros-ultimate-goku-mod.json](./242815-super-smash-bros-ultimate-goku-mod.json) |
 | Super Smash Bros. Ultimate: Ichiban Kasuga Moveset (Yakuza) | 395018 | [395018-super-smash-bros-ultimate-ichiban-kasuga-moveset-yakuza.json](./395018-super-smash-bros-ultimate-ichiban-kasuga-moveset-yakuza.json) |
+| Super Smash Bros. Ultimate: Ike 20% Bigger | 343411 | [343411-super-smash-bros-ultimate-ike-20-bigger.json](./343411-super-smash-bros-ultimate-ike-20-bigger.json) |
 | Super Smash Bros. Ultimate: Impostor Moveset | 395030 | [395030-super-smash-bros-ultimate-impostor-moveset.json](./395030-super-smash-bros-ultimate-impostor-moveset.json) |
 | Super Smash Bros. Ultimate: Iron Man Moveset | 395016 | [395016-super-smash-bros-ultimate-iron-man-moveset.json](./395016-super-smash-bros-ultimate-iron-man-moveset.json) |
 | Super Smash Bros. Ultimate: Jin - Xenoblade 2 Moveset | 395027 | [395027-super-smash-bros-ultimate-jin-xenoblade-2-moveset.json](./395027-super-smash-bros-ultimate-jin-xenoblade-2-moveset.json) |
