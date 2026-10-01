@@ -3700,6 +3700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binary Stack | 57741 | [57741-binary-stack.json](./57741-binary-stack.json) |
 | Binary Trigger | 30080 | [30080-binary-trigger.json](./30080-binary-trigger.json) |
 | Binary. | 206173 | [206173-binary.json](./206173-binary.json) |
+| Binarycurse | 369690 | [369690-binarycurse.json](./369690-binarycurse.json) |
 | BinaryGrab | 130724 | [130724-binarygrab.json](./130724-binarygrab.json) |
 | Binaural Odyssey | 153365 | [153365-binaural-odyssey.json](./153365-binaural-odyssey.json) |
 | Bind: Brain teaser puzzle game | 88292 | [88292-bind-brain-teaser-puzzle-game.json](./88292-bind-brain-teaser-puzzle-game.json) |
@@ -4128,6 +4129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black | 159265 | [159265-black.json](./159265-black.json) |
 | Black | 5749 | [5749-black.json](./5749-black.json) |
 | Black & White | 376747 | [376747-black-and-white.json](./376747-black-and-white.json) |
+| Black 9 | 369716 | [369716-black-9.json](./369716-black-9.json) |
 | Black Astral | 201317 | [201317-black-astral.json](./201317-black-astral.json) |
 | Black Baby | 139292 | [139292-black-baby.json](./139292-black-baby.json) |
 | Black Baby Classic | 178461 | [178461-black-baby-classic.json](./178461-black-baby-classic.json) |
@@ -8244,6 +8246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Shop 3 | 265102 | [265102-burger-shop-3.json](./265102-burger-shop-3.json) |
 | Burger Shop Simulator 2024 | 326584 | [326584-burger-shop-simulator-2024.json](./326584-burger-shop-simulator-2024.json) |
 | Burger Story Beach Edition | 97150 | [97150-burger-story-beach-edition.json](./97150-burger-story-beach-edition.json) |
+| Burger Typer | 369713 | [369713-burger-typer.json](./369713-burger-typer.json) |
 | Burger Up | 121037 | [121037-burger-up.json](./121037-burger-up.json) |
 | Burger Wars | 66112 | [66112-burger-wars.json](./66112-burger-wars.json) |
 | Burger World | 181794 | [181794-burger-world.json](./181794-burger-world.json) |
