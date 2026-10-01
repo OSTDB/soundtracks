@@ -3898,6 +3898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Journey | 192803 | [192803-the-dark-journey.json](./192803-the-dark-journey.json) |
 | The Dark Kingdom | 356670 | [356670-the-dark-kingdom.json](./356670-the-dark-kingdom.json) |
 | The Dark Knight Rises | 64769 | [64769-the-dark-knight-rises.json](./64769-the-dark-knight-rises.json) |
+| The Dark Knight Rises: The Mobile Game | 343944 | [343944-the-dark-knight-rises-the-mobile-game.json](./343944-the-dark-knight-rises-the-mobile-game.json) |
 | The Dark Matter | 23920 | [23920-the-dark-matter.json](./23920-the-dark-matter.json) |
 | The Dark Meadow | 38957 | [38957-the-dark-meadow.json](./38957-the-dark-meadow.json) |
 | The Dark Mind | 320529 | [320529-the-dark-mind.json](./320529-the-dark-mind.json) |
@@ -7706,6 +7707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sands of Egypt | 23688 | [23688-the-sands-of-egypt.json](./23688-the-sands-of-egypt.json) |
 | The Sapling | 126479 | [126479-the-sapling.json](./126479-the-sapling.json) |
 | The Sarah Jane Adventures: Alien Alliance | 249264 | [249264-the-sarah-jane-adventures-alien-alliance.json](./249264-the-sarah-jane-adventures-alien-alliance.json) |
+| The Sarah Jane Adventures: Plant and Animal Habitats | 343939 | [343939-the-sarah-jane-adventures-plant-and-animal-habitats.json](./343939-the-sarah-jane-adventures-plant-and-animal-habitats.json) |
 | The Savage Hypnotist's Puppets | 213400 | [213400-the-savage-hypnotists-puppets.json](./213400-the-savage-hypnotists-puppets.json) |
 | The Savior of Darkload | 231874 | [231874-the-savior-of-darkload.json](./231874-the-savior-of-darkload.json) |
 | The Savior of Salem | 109919 | [109919-the-savior-of-salem.json](./109919-the-savior-of-salem.json) |
@@ -12323,6 +12325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TonoTone | 393744 | [393744-tonotone.json](./393744-tonotone.json) |
 | TonpaQuest | 178043 | [178043-tonpaquest.json](./178043-tonpaquest.json) |
 | Tonpuso | 37312 | [37312-tonpuso.json](./37312-tonpuso.json) |
+| Tons of Guns | 343845 | [343845-tons-of-guns.json](./343845-tons-of-guns.json) |
 | Tony & Friends in Kellogg's Land | 58272 | [58272-tony-and-friends-in-kelloggs-land.json](./58272-tony-and-friends-in-kelloggs-land.json) |
 | Tony and Clyde | 172753 | [172753-tony-and-clyde.json](./172753-tony-and-clyde.json) |
 | Tony and Jennie | 337166 | [337166-tony-and-jennie.json](./337166-tony-and-jennie.json) |
@@ -13536,6 +13539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffic V | 149931 | [149931-traffic-v.json](./149931-traffic-v.json) |
 | Traffic X | 68096 | [68096-traffic-x.json](./68096-traffic-x.json) |
 | Traffic.io Car Games & Race | 240188 | [240188-traffic-io-car-games-and-race.json](./240188-traffic-io-car-games-and-race.json) |
+| TrafficVille 3D | 343846 | [343846-trafficville-3d.json](./343846-trafficville-3d.json) |
 | Traffix | 118755 | [118755-traffix.json](./118755-traffix.json) |
 | Traffix 3D | 296071 | [296071-traffix-3d.json](./296071-traffix-3d.json) |
 | Trafic Road Rush | 111869 | [111869-trafic-road-rush.json](./111869-trafic-road-rush.json) |
