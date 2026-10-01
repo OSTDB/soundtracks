@@ -2023,6 +2023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orisinal Collection | 397867 | [397867-orisinal-collection.json](./397867-orisinal-collection.json) |
 | Orisinal: Morning Sunshine | 194618 | [194618-orisinal-morning-sunshine.json](./194618-orisinal-morning-sunshine.json) |
 | Orisries | 314635 | [314635-orisries.json](./314635-orisries.json) |
+| Orium | 381782 | [381782-orium.json](./381782-orium.json) |
 | Orix! | 102384 | [102384-orix.json](./102384-orix.json) |
 | Orixo | 132118 | [132118-orixo.json](./132118-orixo.json) |
 | Orixo Hex | 232165 | [232165-orixo-hex.json](./232165-orixo-hex.json) |
