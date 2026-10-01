@@ -273,6 +273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lakehouse | 191189 | [191189-lakehouse.json](./191189-lakehouse.json) |
 | LakeQueen | 394130 | [394130-lakequeen.json](./394130-lakequeen.json) |
 | Lakeside | 269563 | [269563-lakeside.json](./269563-lakeside.json) |
+| Lakeside Bar | 346701 | [346701-lakeside-bar.json](./346701-lakeside-bar.json) |
 | Lakeside Has No Lake!! | 355614 | [355614-lakeside-has-no-lake.json](./355614-lakeside-has-no-lake.json) |
 | Lakesider: Above and Below | 285477 | [285477-lakesider-above-and-below.json](./285477-lakesider-above-and-below.json) |
 | Lakeview Cabin 2 | 149478 | [149478-lakeview-cabin-2.json](./149478-lakeview-cabin-2.json) |
@@ -364,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landing Party | 74089 | [74089-landing-party.json](./74089-landing-party.json) |
 | Landlady Seduction Simulator | 326394 | [326394-landlady-seduction-simulator.json](./326394-landlady-seduction-simulator.json) |
 | Landline | 367526 | [367526-landline.json](./367526-landline.json) |
+| Landlord | 346718 | [346718-landlord.json](./346718-landlord.json) |
 | Landlord | 385584 | [385584-landlord.json](./385584-landlord.json) |
 | Landlord Simulator | 231878 | [231878-landlord-simulator.json](./231878-landlord-simulator.json) |
 | Landlord Simulator | 89654 | [89654-landlord-simulator.json](./89654-landlord-simulator.json) |
@@ -3649,6 +3651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Loop | 391204 | [391204-loot-loop.json](./391204-loot-loop.json) |
 | Loot Loot Goblin | 316778 | [316778-loot-loot-goblin.json](./316778-loot-loot-goblin.json) |
 | Loot or Die | 31403 | [31403-loot-or-die.json](./31403-loot-or-die.json) |
+| Loot Profit | 346643 | [346643-loot-profit.json](./346643-loot-profit.json) |
 | Loot Run | 75939 | [75939-loot-run.json](./75939-loot-run.json) |
 | Loot Scoot | 386702 | [386702-loot-scoot.json](./386702-loot-scoot.json) |
 | Loot Slider | 148955 | [148955-loot-slider.json](./148955-loot-slider.json) |
@@ -4227,6 +4230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love M01 | 338299 | [338299-love-m01.json](./338299-love-m01.json) |
 | Love Mansion | 346672 | [346672-love-mansion.json](./346672-love-mansion.json) |
 | Love Mart | 348226 | [348226-love-mart.json](./348226-love-mart.json) |
+| Love Me | 346741 | [346741-love-me.json](./346741-love-me.json) |
 | Love Me Not | 252147 | [252147-love-me-not.json](./252147-love-me-not.json) |
 | Love Meeting | 165032 | [165032-love-meeting.json](./165032-love-meeting.json) |
 | Love My Pegasus | 239871 | [239871-love-my-pegasus.json](./239871-love-my-pegasus.json) |
