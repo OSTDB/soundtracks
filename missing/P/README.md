@@ -863,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paperboy 2 | 307086 | [307086-paperboy-2.json](./307086-paperboy-2.json) |
 | Paperboy 2 | 307087 | [307087-paperboy-2.json](./307087-paperboy-2.json) |
 | Paperboy: Special Delivery | 55885 | [55885-paperboy-special-delivery.json](./55885-paperboy-special-delivery.json) |
+| Papercraft Tactics | 345092 | [345092-papercraft-tactics.json](./345092-papercraft-tactics.json) |
 | Papercut Art Gallery-Growth | 297802 | [297802-papercut-art-gallery-growth.json](./297802-papercut-art-gallery-growth.json) |
 | Papercut Art Gallery: Nature | 292854 | [292854-papercut-art-gallery-nature.json](./292854-papercut-art-gallery-nature.json) |
 | Paperhead Ep. 0 | 321587 | [321587-paperhead-ep-0.json](./321587-paperhead-ep-0.json) |
@@ -4120,6 +4121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixelance | 382883 | [382883-pixelance.json](./382883-pixelance.json) |
 | Pixelarium | 117853 | [117853-pixelarium.json](./117853-pixelarium.json) |
 | PixelBot Extreme! | 96229 | [96229-pixelbot-extreme.json](./96229-pixelbot-extreme.json) |
+| Pixelburg | 345055 | [345055-pixelburg.json](./345055-pixelburg.json) |
 | PixelCraft Game | 100929 | [100929-pixelcraft-game.json](./100929-pixelcraft-game.json) |
 | PixelCraft VR | 126542 | [126542-pixelcraft-vr.json](./126542-pixelcraft-vr.json) |
 | Pixelegend | 346615 | [346615-pixelegend.json](./346615-pixelegend.json) |
@@ -7474,6 +7476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Hive | 317034 | [317034-project-hive.json](./317034-project-hive.json) |
 | Project Home | 177336 | [177336-project-home.json](./177336-project-home.json) |
 | Project Homecoming Haven | 300711 | [300711-project-homecoming-haven.json](./300711-project-homecoming-haven.json) |
+| Project Horizon | 345088 | [345088-project-horizon.json](./345088-project-horizon.json) |
 | Project Horror Anthology: Project Prequel | 244183 | [244183-project-horror-anthology-project-prequel.json](./244183-project-horror-anthology-project-prequel.json) |
 | Project Horror Tales | 240174 | [240174-project-horror-tales.json](./240174-project-horror-tales.json) |
 | Project Hospital | 75855 | [75855-project-hospital.json](./75855-project-hospital.json) |
@@ -8179,6 +8182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumpkin Jam | 269562 | [269562-pumpkin-jam.json](./269562-pumpkin-jam.json) |
 | PumpKin Majo | 235704 | [235704-pumpkin-majo.json](./235704-pumpkin-majo.json) |
 | Pumpkin Panic | 257329 | [257329-pumpkin-panic.json](./257329-pumpkin-panic.json) |
+| Pumpkin Restaurant | 345064 | [345064-pumpkin-restaurant.json](./345064-pumpkin-restaurant.json) |
 | Pumpkin Story | 201571 | [201571-pumpkin-story.json](./201571-pumpkin-story.json) |
 | Pumpkinban | 382214 | [382214-pumpkinban.json](./382214-pumpkinban.json) |
 | PumPum | 159883 | [159883-pumpum.json](./159883-pumpum.json) |
