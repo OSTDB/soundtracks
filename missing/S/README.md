@@ -3869,6 +3869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock Purr 2 | 292155 | [292155-sherlock-purr-2.json](./292155-sherlock-purr-2.json) |
 | Sherlock Purr 2: Deluxe Edition | 314890 | [314890-sherlock-purr-2-deluxe-edition.json](./314890-sherlock-purr-2-deluxe-edition.json) |
 | Sherlock Purr: Extended Edition | 243369 | [243369-sherlock-purr-extended-edition.json](./243369-sherlock-purr-extended-edition.json) |
+| Sherlock Spot DX | 370823 | [370823-sherlock-spot-dx.json](./370823-sherlock-spot-dx.json) |
 | Sherlock: Hidden Object & Match-3 Mystery | 357304 | [357304-sherlock-hidden-object-and-match-3-mystery.json](./357304-sherlock-hidden-object-and-match-3-mystery.json) |
 | Sherlock: The Network | 285038 | [285038-sherlock-the-network.json](./285038-sherlock-the-network.json) |
 | Sherman Commander | 155650 | [155650-sherman-commander.json](./155650-sherman-commander.json) |
@@ -5940,6 +5941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Kingdoms | 54366 | [54366-sky-kingdoms.json](./54366-sky-kingdoms.json) |
 | Sky Kingdoms - Castle Siege | 100747 | [100747-sky-kingdoms-castle-siege.json](./100747-sky-kingdoms-castle-siege.json) |
 | Sky Knights | 26633 | [26633-sky-knights.json](./26633-sky-knights.json) |
+| Sky Love Boys: Flight Attendant Crush | 370824 | [370824-sky-love-boys-flight-attendant-crush.json](./370824-sky-love-boys-flight-attendant-crush.json) |
 | Sky Love Girls: Flight Attendant Crush | 370797 | [370797-sky-love-girls-flight-attendant-crush.json](./370797-sky-love-girls-flight-attendant-crush.json) |
 | Sky Mad | 310184 | [310184-sky-mad.json](./310184-sky-mad.json) |
 | Sky Madness | 54367 | [54367-sky-madness.json](./54367-sky-madness.json) |
@@ -12250,6 +12252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steadfast | 417535 | [417535-steadfast.json](./417535-steadfast.json) |
 | Steady, Steady, Steady! | 348254 | [348254-steady-steady-steady.json](./348254-steady-steady-steady.json) |
 | Steal & Sell Simulator | 413173 | [413173-steal-and-sell-simulator.json](./413173-steal-and-sell-simulator.json) |
+| Steal a Monke | 370849 | [370849-steal-a-monke.json](./370849-steal-a-monke.json) |
 | Steal My Artificial Heart | 9516 | [9516-steal-my-artificial-heart.json](./9516-steal-my-artificial-heart.json) |
 | Steal the Meal: Unblock Puzzle | 261514 | [261514-steal-the-meal-unblock-puzzle.json](./261514-steal-the-meal-unblock-puzzle.json) |
 | Steal The Pig | 344448 | [344448-steal-the-pig.json](./344448-steal-the-pig.json) |
@@ -13218,6 +13221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streamer Mini Games Collection | 324508 | [324508-streamer-mini-games-collection.json](./324508-streamer-mini-games-collection.json) |
 | Streamer Party | 384105 | [384105-streamer-party.json](./384105-streamer-party.json) |
 | Streamer Screamer | 375937 | [375937-streamer-screamer.json](./375937-streamer-screamer.json) |
+| Streamer Top | 370843 | [370843-streamer-top.json](./370843-streamer-top.json) |
 | Streamer vs. Chat | 414605 | [414605-streamer-vs-chat.json](./414605-streamer-vs-chat.json) |
 | StreamerFun | 413064 | [413064-streamerfun.json](./413064-streamerfun.json) |
 | Streamers Interactive Quiz Game | 343454 | [343454-streamers-interactive-quiz-game.json](./343454-streamers-interactive-quiz-game.json) |
