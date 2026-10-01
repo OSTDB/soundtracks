@@ -2734,6 +2734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beaver Creek | 360060 | [360060-beaver-creek.json](./360060-beaver-creek.json) |
 | Beaver Fun | 216355 | [216355-beaver-fun.json](./216355-beaver-fun.json) |
 | Beaver Fun River Run: Steam Edition | 162715 | [162715-beaver-fun-river-run-steam-edition.json](./162715-beaver-fun-river-run-steam-edition.json) |
+| Beaver Rampage | 341543 | [341543-beaver-rampage.json](./341543-beaver-rampage.json) |
 | Bebe Miner | 416664 | [416664-bebe-miner.json](./416664-bebe-miner.json) |
 | Beberserker | 132094 | [132094-beberserker.json](./132094-beberserker.json) |
 | Beboop to the Rescue! | 211431 | [211431-beboop-to-the-rescue.json](./211431-beboop-to-the-rescue.json) |
@@ -3538,6 +3539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big City Adventure: Barcelona | 341050 | [341050-big-city-adventure-barcelona.json](./341050-big-city-adventure-barcelona.json) |
 | Big City Adventure: Istanbul | 294743 | [294743-big-city-adventure-istanbul.json](./294743-big-city-adventure-istanbul.json) |
 | Big City Adventure: London Classic | 417564 | [417564-big-city-adventure-london-classic.json](./417564-big-city-adventure-london-classic.json) |
+| Big City Adventure: London Story | 341625 | [341625-big-city-adventure-london-story.json](./341625-big-city-adventure-london-story.json) |
 | Big City Adventure: New York City | 65201 | [65201-big-city-adventure-new-york-city.json](./65201-big-city-adventure-new-york-city.json) |
 | Big City Adventure: Paris | 341057 | [341057-big-city-adventure-paris.json](./341057-big-city-adventure-paris.json) |
 | Big City Adventure: Rome | 341056 | [341056-big-city-adventure-rome.json](./341056-big-city-adventure-rome.json) |
@@ -3778,6 +3780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binaural Odyssey | 153365 | [153365-binaural-odyssey.json](./153365-binaural-odyssey.json) |
 | Bind: Brain teaser puzzle game | 88292 | [88292-bind-brain-teaser-puzzle-game.json](./88292-bind-brain-teaser-puzzle-game.json) |
 | Binding of Elements | 249227 | [249227-binding-of-elements.json](./249227-binding-of-elements.json) |
+| Binding of Isaac Bundle | 341547 | [341547-binding-of-isaac-bundle.json](./341547-binding-of-isaac-bundle.json) |
 | Binding Tower | 271785 | [271785-binding-tower.json](./271785-binding-tower.json) |
 | Bindmancer | 254006 | [254006-bindmancer.json](./254006-bindmancer.json) |
 | Bing Bong Blippo | 274436 | [274436-bing-bong-blippo.json](./274436-bing-bong-blippo.json) |
@@ -8091,6 +8094,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build-A-Delivery | 257337 | [257337-build-a-delivery.json](./257337-build-a-delivery.json) |
 | Build-A-Lot: Fairy Tales | 62821 | [62821-build-a-lot-fairy-tales.json](./62821-build-a-lot-fairy-tales.json) |
 | Build-A-Lot: Mysteries | 62820 | [62820-build-a-lot-mysteries.json](./62820-build-a-lot-mysteries.json) |
+| Build-A-Lot: Mysteries 2 | 341620 | [341620-build-a-lot-mysteries-2.json](./341620-build-a-lot-mysteries-2.json) |
+| Build-A-Lot: The Elizabethan Era | 341621 | [341621-build-a-lot-the-elizabethan-era.json](./341621-build-a-lot-the-elizabethan-era.json) |
 | Buildanauts | 34638 | [34638-buildanauts.json](./34638-buildanauts.json) |
 | BuildCraft | 232655 | [232655-buildcraft.json](./232655-buildcraft.json) |
 | Builder Flipper Bundle | 276307 | [276307-builder-flipper-bundle.json](./276307-builder-flipper-bundle.json) |
