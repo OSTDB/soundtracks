@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Table Tennis Simulation | 72076 | [72076-table-tennis-simulation.json](./72076-table-tennis-simulation.json) |
 | Table Top Racing | 8350 | [8350-table-top-racing.json](./8350-table-top-racing.json) |
 | Table Top Racing: World Tour | 18978 | [18978-table-top-racing-world-tour.json](./18978-table-top-racing-world-tour.json) |
+| Table Troopers | 366370 | [366370-table-troopers.json](./366370-table-troopers.json) |
 | TableSoccer | 339092 | [339092-tablesoccer.json](./339092-tablesoccer.json) |
 | Tabletop Baseball | 412396 | [412396-tabletop-baseball.json](./412396-tabletop-baseball.json) |
 | Tabletop Dice | 108617 | [108617-tabletop-dice.json](./108617-tabletop-dice.json) |
@@ -1107,6 +1108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanuki: Pon's Summer | 317817 | [317817-tanuki-pons-summer.json](./317817-tanuki-pons-summer.json) |
 | Tanuki's Dream | 307152 | [307152-tanukis-dream.json](./307152-tanukis-dream.json) |
 | Tanx | 71058 | [71058-tanx.json](./71058-tanx.json) |
+| Tanya Grotter And Magic Double Bass | 366377 | [366377-tanya-grotter-and-magic-double-bass.json](./366377-tanya-grotter-and-magic-double-bass.json) |
 | Tanzanite Crush | 282548 | [282548-tanzanite-crush.json](./282548-tanzanite-crush.json) |
 | TanZen HD | 100144 | [100144-tanzen-hd.json](./100144-tanzen-hd.json) |
 | Tao Taido | 39585 | [39585-tao-taido.json](./39585-tao-taido.json) |
@@ -2155,6 +2157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Cresta II | 37728 | [37728-terra-cresta-ii.json](./37728-terra-cresta-ii.json) |
 | Terra Farmers | 54428 | [54428-terra-farmers.json](./54428-terra-farmers.json) |
 | Terra Firma | 155509 | [155509-terra-firma.json](./155509-terra-firma.json) |
+| Terra Firma 2 | 366335 | [366335-terra-firma-2.json](./366335-terra-firma-2.json) |
 | Terra Flame | 197265 | [197265-terra-flame.json](./197265-terra-flame.json) |
 | Terra Incognita | 129119 | [129119-terra-incognita.json](./129119-terra-incognita.json) |
 | Terra Maega | 217265 | [217265-terra-maega.json](./217265-terra-maega.json) |
@@ -9631,6 +9634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Onion | 271243 | [271243-this-onion.json](./271243-this-onion.json) |
 | This Panda Needs You | 185652 | [185652-this-panda-needs-you.json](./185652-this-panda-needs-you.json) |
 | This Rain Will Never End | 169462 | [169462-this-rain-will-never-end.json](./169462-this-rain-will-never-end.json) |
+| This Ship Goes Brrr | 366339 | [366339-this-ship-goes-brrr.json](./366339-this-ship-goes-brrr.json) |
 | This Short Indie Game Made Me Miss My Friends: Rainy Plays Lonely Game Livestream | 403029 | [403029-this-short-indie-game-made-me-miss-my-friends-rainy-plays-lonely-game-livestream.json](./403029-this-short-indie-game-made-me-miss-my-friends-rainy-plays-lonely-game-livestream.json) |
 | This Side Up | 272897 | [272897-this-side-up.json](./272897-this-side-up.json) |
 | This Starry Midnight We Make | 17776 | [17776-this-starry-midnight-we-make.json](./17776-this-starry-midnight-we-make.json) |
@@ -11161,6 +11165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timore 5: The Flood | 171942 | [171942-timore-5-the-flood.json](./171942-timore-5-the-flood.json) |
 | Timore 6 | 111636 | [111636-timore-6.json](./111636-timore-6.json) |
 | Timore 6: The Cadaver | 381806 | [381806-timore-6-the-cadaver.json](./381806-timore-6-the-cadaver.json) |
+| Timore Avaritia | 366350 | [366350-timore-avaritia.json](./366350-timore-avaritia.json) |
 | Timore Narhelma | 317381 | [317381-timore-narhelma.json](./317381-timore-narhelma.json) |
 | Timothy | 64992 | [64992-timothy.json](./64992-timothy.json) |
 | Timothy and the Tower of Mu | 169876 | [169876-timothy-and-the-tower-of-mu.json](./169876-timothy-and-the-tower-of-mu.json) |
@@ -14368,6 +14373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travel With Dinosaurs | 351710 | [351710-travel-with-dinosaurs.json](./351710-travel-with-dinosaurs.json) |
 | Traveler Lost | 367031 | [367031-traveler-lost.json](./367031-traveler-lost.json) |
 | Traveler of Artcaster | 149508 | [149508-traveler-of-artcaster.json](./149508-traveler-of-artcaster.json) |
+| Traveler of Light | 366338 | [366338-traveler-of-light.json](./366338-traveler-of-light.json) |
 | Traveler: Set Sail | 273351 | [273351-traveler-set-sail.json](./273351-traveler-set-sail.json) |
 | Traveler's Bastion | 234936 | [234936-travelers-bastion.json](./234936-travelers-bastion.json) |
 | Traveler's Bastion: Spirit Guardians Expansion | 241506 | [241506-travelers-bastion-spirit-guardians-expansion.json](./241506-travelers-bastion-spirit-guardians-expansion.json) |
