@@ -1476,6 +1476,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untold Riches | 59673 | [59673-untold-riches.json](./59673-untold-riches.json) |
 | Untold Stories 01: Goliath | 406718 | [406718-untold-stories-01-goliath.json](./406718-untold-stories-01-goliath.json) |
 | Untold Stories 3: Myriad Caves | 355115 | [355115-untold-stories-3-myriad-caves.json](./355115-untold-stories-3-myriad-caves.json) |
+| Untold Stories 5: Calamity Canyon | 355134 | [355134-untold-stories-5-calamity-canyon.json](./355134-untold-stories-5-calamity-canyon.json) |
+| Untold Stories 6: Horrifeye | 355137 | [355137-untold-stories-6-horrifeye.json](./355137-untold-stories-6-horrifeye.json) |
+| Untold Stories 7: Nova Arcana | 355139 | [355139-untold-stories-7-nova-arcana.json](./355139-untold-stories-7-nova-arcana.json) |
+| Untold Stories 8: Burnout Fantasy | 355141 | [355141-untold-stories-8-burnout-fantasy.json](./355141-untold-stories-8-burnout-fantasy.json) |
+| Untold Stories 9: Castlemania | 355146 | [355146-untold-stories-9-castlemania.json](./355146-untold-stories-9-castlemania.json) |
 | Untold Story | 311636 | [311636-untold-story.json](./311636-untold-story.json) |
 | Untold Tales Adventure & Story-Rich Bundle | 401783 | [401783-untold-tales-adventure-and-story-rich-bundle.json](./401783-untold-tales-adventure-and-story-rich-bundle.json) |
 | Untold Tales: A Scarlet Way | 312567 | [312567-untold-tales-a-scarlet-way.json](./312567-untold-tales-a-scarlet-way.json) |
