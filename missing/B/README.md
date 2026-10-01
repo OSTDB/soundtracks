@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B-Cubed | 159169 | [159169-b-cubed.json](./159169-b-cubed.json) |
 | B-e-e-t-l-e | 178507 | [178507-b-e-e-t-l-e.json](./178507-b-e-e-t-l-e.json) |
 | B-e-e-t-l-e: Be right back! | 366937 | [366937-b-e-e-t-l-e-be-right-back.json](./366937-b-e-e-t-l-e-be-right-back.json) |
+| B-Line | 370237 | [370237-b-line.json](./370237-b-line.json) |
 | B-Prison Unchain | 410418 | [410418-b-prison-unchain.json](./410418-b-prison-unchain.json) |
 | B-Rabbit | 117482 | [117482-b-rabbit.json](./117482-b-rabbit.json) |
 | B-Sides | 183582 | [183582-b-sides.json](./183582-b-sides.json) |
@@ -944,6 +945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bang Bang Girls: Moe Panic | 376757 | [376757-bang-bang-girls-moe-panic.json](./376757-bang-bang-girls-moe-panic.json) |
 | Bang Bang Homeroom | 82736 | [82736-bang-bang-homeroom.json](./82736-bang-bang-homeroom.json) |
 | Bang Bang Land | 241519 | [241519-bang-bang-land.json](./241519-bang-bang-land.json) |
+| Bang Bang Legion | 370248 | [370248-bang-bang-legion.json](./370248-bang-bang-legion.json) |
 | Bang Bang Pull Pull | 329020 | [329020-bang-bang-pull-pull.json](./329020-bang-bang-pull-pull.json) |
 | Bang Bang Racing | 15286 | [15286-bang-bang-racing.json](./15286-bang-bang-racing.json) |
 | Bang Bang Simulations | 266288 | [266288-bang-bang-simulations.json](./266288-bang-bang-simulations.json) |
@@ -2718,6 +2720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bedtime Blues | 112782 | [112782-bedtime-blues.json](./112782-bedtime-blues.json) |
 | Bedtime Horror Stories | 220647 | [220647-bedtime-horror-stories.json](./220647-bedtime-horror-stories.json) |
 | Bedtime Stories | 371963 | [371963-bedtime-stories.json](./371963-bedtime-stories.json) |
+| Bedtime Stories 2 | 370252 | [370252-bedtime-stories-2.json](./370252-bedtime-stories-2.json) |
 | Bedtime Story: Saint | 338208 | [338208-bedtime-story-saint.json](./338208-bedtime-story-saint.json) |
 | Bee | 78084 | [78084-bee.json](./78084-bee.json) |
 | Bee Farming | 175281 | [175281-bee-farming.json](./175281-bee-farming.json) |
@@ -3603,6 +3606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bikerz | 119018 | [119018-bikerz.json](./119018-bikerz.json) |
 | Bikini Balls 2: Christmas Edition | 216455 | [216455-bikini-balls-2-christmas-edition.json](./216455-bikini-balls-2-christmas-edition.json) |
 | Bikini Beach: Stunt Racer | 73750 | [73750-bikini-beach-stunt-racer.json](./73750-bikini-beach-stunt-racer.json) |
+| Bikini Brickout | 370290 | [370290-bikini-brickout.json](./370290-bikini-brickout.json) |
 | Bikini Girls | 169418 | [169418-bikini-girls.json](./169418-bikini-girls.json) |
 | Bikini Hunter Attack on Bikini Army | 297807 | [297807-bikini-hunter-attack-on-bikini-army.json](./297807-bikini-hunter-attack-on-bikini-army.json) |
 | Bikini Island | 385819 | [385819-bikini-island.json](./385819-bikini-island.json) |
@@ -4041,6 +4045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitch Hell | 197891 | [197891-bitch-hell.json](./197891-bitch-hell.json) |
 | Bitch Shop Simulator | 389114 | [389114-bitch-shop-simulator.json](./389114-bitch-shop-simulator.json) |
 | Bitcoin | 90174 | [90174-bitcoin.json](./90174-bitcoin.json) |
+| Bitcoin Billionaire: Bitstone To The Past | 370236 | [370236-bitcoin-billionaire-bitstone-to-the-past.json](./370236-bitcoin-billionaire-bitstone-to-the-past.json) |
 | Bitcoin Bounce | 208314 | [208314-bitcoin-bounce.json](./208314-bitcoin-bounce.json) |
 | Bitcoin Collector | 53209 | [53209-bitcoin-collector.json](./53209-bitcoin-collector.json) |
 | Bitcoin Collector: Spinners Attack | 68665 | [68665-bitcoin-collector-spinners-attack.json](./68665-bitcoin-collector-spinners-attack.json) |
