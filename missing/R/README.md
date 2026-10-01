@@ -1825,6 +1825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Carpet Diaries: Book 1 | 313688 | [313688-red-carpet-diaries-book-1.json](./313688-red-carpet-diaries-book-1.json) |
 | Red Carpet Diaries: Book 2 | 313689 | [313689-red-carpet-diaries-book-2.json](./313689-red-carpet-diaries-book-2.json) |
 | Red Carpet Diaries: Book 3 | 313690 | [313690-red-carpet-diaries-book-3.json](./313690-red-carpet-diaries-book-3.json) |
+| Red Cell | 380030 | [380030-red-cell.json](./380030-red-cell.json) |
 | Red Chaos: The Strict Order | 211677 | [211677-red-chaos-the-strict-order.json](./211677-red-chaos-the-strict-order.json) |
 | Red Chat Ritual: Tsumimi Time | 400336 | [400336-red-chat-ritual-tsumimi-time.json](./400336-red-chat-ritual-tsumimi-time.json) |
 | Red Christmas | 383580 | [383580-red-christmas.json](./383580-red-christmas.json) |
