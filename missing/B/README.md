@@ -274,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms Santa | 382949 | [382949-backrooms-santa.json](./382949-backrooms-santa.json) |
 | Backrooms Security Room | 406258 | [406258-backrooms-security-room.json](./406258-backrooms-security-room.json) |
 | Backrooms Society | 245870 | [245870-backrooms-society.json](./245870-backrooms-society.json) |
+| Backrooms Stories | 374784 | [374784-backrooms-stories.json](./374784-backrooms-stories.json) |
 | Backrooms The Company | 309864 | [309864-backrooms-the-company.json](./309864-backrooms-the-company.json) |
 | Backrooms Untold | 409746 | [409746-backrooms-untold.json](./409746-backrooms-untold.json) |
 | Backrooms VS | 250942 | [250942-backrooms-vs.json](./250942-backrooms-vs.json) |
@@ -1265,6 +1266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barezu ni Ikiru! | 212465 | [212465-barezu-ni-ikiru.json](./212465-barezu-ni-ikiru.json) |
 | Barf and Beer | 92615 | [92615-barf-and-beer.json](./92615-barf-and-beer.json) |
 | Barf Royale | 401510 | [401510-barf-royale.json](./401510-barf-royale.json) |
+| Barfbot | 374767 | [374767-barfbot.json](./374767-barfbot.json) |
 | Barfy's Adventure | 413718 | [413718-barfys-adventure.json](./413718-barfys-adventure.json) |
 | Bargain Basement | 293251 | [293251-bargain-basement.json](./293251-bargain-basement.json) |
 | Bargain Blocz | 235745 | [235745-bargain-blocz.json](./235745-bargain-blocz.json) |
@@ -2451,6 +2453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast Mode: Night of the Werewolf Silver Bullet Edition | 273113 | [273113-beast-mode-night-of-the-werewolf-silver-bullet-edition.json](./273113-beast-mode-night-of-the-werewolf-silver-bullet-edition.json) |
 | Beast Modon | 108063 | [108063-beast-modon.json](./108063-beast-modon.json) |
 | Beast OL | 358509 | [358509-beast-ol.json](./358509-beast-ol.json) |
+| Beast Survivor | 374792 | [374792-beast-survivor.json](./374792-beast-survivor.json) |
 | Beast Whalers | 192685 | [192685-beast-whalers.json](./192685-beast-whalers.json) |
 | Beast Wrestler | 46239 | [46239-beast-wrestler.json](./46239-beast-wrestler.json) |
 | Beastfall | 381252 | [381252-beastfall.json](./381252-beastfall.json) |
@@ -3331,6 +3334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BFGE | 114995 | [114995-bfge.json](./114995-bfge.json) |
 | BGPA Missions Liberation | 256849 | [256849-bgpa-missions-liberation.json](./256849-bgpa-missions-liberation.json) |
 | Bhangarh: The Untold Story | 391173 | [391173-bhangarh-the-untold-story.json](./391173-bhangarh-the-untold-story.json) |
+| Bharat Police | 374770 | [374770-bharat-police.json](./374770-bharat-police.json) |
 | Bhard | 401525 | [401525-bhard.json](./401525-bhard.json) |
 | Bhavacakra Grace | 114829 | [114829-bhavacakra-grace.json](./114829-bhavacakra-grace.json) |
 | BHB: BioHazard Bot | 75047 | [75047-bhb-biohazard-bot.json](./75047-bhb-biohazard-bot.json) |
@@ -3400,6 +3404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Adventure: Trip to Europe 9 | 417380 | [417380-big-adventure-trip-to-europe-9.json](./417380-big-adventure-trip-to-europe-9.json) |
 | Big Bad Sudoku Book | 267334 | [267334-big-bad-sudoku-book.json](./267334-big-bad-sudoku-book.json) |
 | Big Ball Sports | 275876 | [275876-big-ball-sports.json](./275876-big-ball-sports.json) |
+| Big Band Survivors | 374786 | [374786-big-band-survivors.json](./374786-big-band-survivors.json) |
 | Big Bang Billiards | 75819 | [75819-big-bang-billiards.json](./75819-big-bang-billiards.json) |
 | Big Bang Board Games | 78654 | [78654-big-bang-board-games.json](./78654-big-bang-board-games.json) |
 | Big Bang Mini | 18549 | [18549-big-bang-mini.json](./18549-big-bang-mini.json) |
@@ -6531,6 +6536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bow & Crystal Tower Defense | 157169 | [157169-bow-and-crystal-tower-defense.json](./157169-bow-and-crystal-tower-defense.json) |
 | Bow Climb | 239660 | [239660-bow-climb.json](./239660-bow-climb.json) |
 | Bow Course: Archery Golf | 345668 | [345668-bow-course-archery-golf.json](./345668-bow-course-archery-golf.json) |
+| Bow Hunter | 374761 | [374761-bow-hunter.json](./374761-bow-hunter.json) |
 | Bow Hunter 2015 | 250937 | [250937-bow-hunter-2015.json](./250937-bow-hunter-2015.json) |
 | Bow-Bots | 208599 | [208599-bow-bots.json](./208599-bow-bots.json) |
 | Bow-wow Battle | 398481 | [398481-bow-wow-battle.json](./398481-bow-wow-battle.json) |
@@ -6900,6 +6906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Rounds | 390759 | [390759-brave-rounds.json](./390759-brave-rounds.json) |
 | Brave Shot 2 | 286666 | [286666-brave-shot-2.json](./286666-brave-shot-2.json) |
 | Brave Soldier: Invasion of Cyborgs | 227856 | [227856-brave-soldier-invasion-of-cyborgs.json](./227856-brave-soldier-invasion-of-cyborgs.json) |
+| Brave Splat | 374755 | [374755-brave-splat.json](./374755-brave-splat.json) |
 | Brave Story: New Traveler | 14607 | [14607-brave-story-new-traveler.json](./14607-brave-story-new-traveler.json) |
 | Brave Survivor | 200570 | [200570-brave-survivor.json](./200570-brave-survivor.json) |
 | Brave survivors | 213489 | [213489-brave-survivors.json](./213489-brave-survivors.json) |
