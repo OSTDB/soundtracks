@@ -2508,6 +2508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Dungeon | 180596 | [180596-beat-dungeon.json](./180596-beat-dungeon.json) |
 | Beat Feet | 369635 | [369635-beat-feet.json](./369635-beat-feet.json) |
 | Beat Fever: Music Tap Rhythm Game | 82995 | [82995-beat-fever-music-tap-rhythm-game.json](./82995-beat-fever-music-tap-rhythm-game.json) |
+| Beat Hazard Arcade | 368084 | [368084-beat-hazard-arcade.json](./368084-beat-hazard-arcade.json) |
 | Beat Hopper | 96049 | [96049-beat-hopper.json](./96049-beat-hopper.json) |
 | Beat It! | 66758 | [66758-beat-it.json](./66758-beat-it.json) |
 | Beat It!: Christmas Edition | 68649 | [68649-beat-it-christmas-edition.json](./68649-beat-it-christmas-edition.json) |
@@ -6068,6 +6069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boobs | 344551 | [344551-boobs.json](./344551-boobs.json) |
 | Boobs Hidden Los Angeles | 320329 | [320329-boobs-hidden-los-angeles.json](./320329-boobs-hidden-los-angeles.json) |
 | Boobs on Island | 97179 | [97179-boobs-on-island.json](./97179-boobs-on-island.json) |
+| Boobs or [Redacted] | 368061 | [368061-boobs-or-redacted.json](./368061-boobs-or-redacted.json) |
 | Boobs Saga | 89322 | [89322-boobs-saga.json](./89322-boobs-saga.json) |
 | Booby Kids | 7796 | [7796-booby-kids.json](./7796-booby-kids.json) |
 | Boofie's Birthday Adventure | 340246 | [340246-boofies-birthday-adventure.json](./340246-boofies-birthday-adventure.json) |
