@@ -2596,6 +2596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Void | 296681 | [296681-escape-the-void.json](./296681-escape-the-void.json) |
 | Escape to Hell | 179517 | [179517-escape-to-hell.json](./179517-escape-to-hell.json) |
 | Escape to Mars | 159707 | [159707-escape-to-mars.json](./159707-escape-to-mars.json) |
+| Escape to Moscow 2 | 355150 | [355150-escape-to-moscow-2.json](./355150-escape-to-moscow-2.json) |
 | Escape to School | 192804 | [192804-escape-to-school.json](./192804-escape-to-school.json) |
 | Escape to Sidious | 157500 | [157500-escape-to-sidious.json](./157500-escape-to-sidious.json) |
 | Escape to the Ocean | 231061 | [231061-escape-to-the-ocean.json](./231061-escape-to-the-ocean.json) |
@@ -2796,6 +2797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Fury | 119570 | [119570-eternal-fury.json](./119570-eternal-fury.json) |
 | Eternal Gem | 280318 | [280318-eternal-gem.json](./280318-eternal-gem.json) |
 | Eternal Guardian Rubine: The First Fight | 336552 | [336552-eternal-guardian-rubine-the-first-fight.json](./336552-eternal-guardian-rubine-the-first-fight.json) |
+| Eternal Hand | 355184 | [355184-eternal-hand.json](./355184-eternal-hand.json) |
 | Eternal Haunt | 323887 | [323887-eternal-haunt.json](./323887-eternal-haunt.json) |
 | Eternal Hearts: Curse of the Endless | 207267 | [207267-eternal-hearts-curse-of-the-endless.json](./207267-eternal-hearts-curse-of-the-endless.json) |
 | Eternal Home Floristry | 123587 | [123587-eternal-home-floristry.json](./123587-eternal-home-floristry.json) |
