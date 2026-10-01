@@ -933,6 +933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warranty Man | 338397 | [338397-warranty-man.json](./338397-warranty-man.json) |
 | Warrecs 2 | 159817 | [159817-warrecs-2.json](./159817-warrecs-2.json) |
 | Warrens Of Random | 389614 | [389614-warrens-of-random.json](./389614-warrens-of-random.json) |
+| Warrented Humanity | 351170 | [351170-warrented-humanity.json](./351170-warrented-humanity.json) |
 | Warring States | 168687 | [168687-warring-states.json](./168687-warring-states.json) |
 | Warring States Tactics | 60516 | [60516-warring-states-tactics.json](./60516-warring-states-tactics.json) |
 | Warring Universe | 290459 | [290459-warring-universe.json](./290459-warring-universe.json) |
