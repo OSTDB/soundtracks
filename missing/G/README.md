@@ -2402,6 +2402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloriana | 169888 | [169888-gloriana.json](./169888-gloriana.json) |
 | Glorious | 169851 | [169851-glorious.json](./169851-glorious.json) |
 | Glorious Companions | 113839 | [113839-glorious-companions.json](./113839-glorious-companions.json) |
+| Glorious Golf | 353445 | [353445-glorious-golf.json](./353445-glorious-golf.json) |
 | Glorious Mission | 74323 | [74323-glorious-mission.json](./74323-glorious-mission.json) |
 | Glorious Savior | 38972 | [38972-glorious-savior.json](./38972-glorious-savior.json) |
 | Glorious Storm | 258201 | [258201-glorious-storm.json](./258201-glorious-storm.json) |
