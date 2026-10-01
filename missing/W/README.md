@@ -2009,6 +2009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where is Mrs Peregrine? | 318772 | [318772-where-is-mrs-peregrine.json](./318772-where-is-mrs-peregrine.json) |
 | Where is my Brain!? | 29888 | [29888-where-is-my-brain.json](./29888-where-is-my-brain.json) |
 | Where Is My Cat | 302421 | [302421-where-is-my-cat.json](./302421-where-is-my-cat.json) |
+| Where Is My Hat? | 345652 | [345652-where-is-my-hat.json](./345652-where-is-my-hat.json) |
 | Where is My Home? | 410996 | [410996-where-is-my-home.json](./410996-where-is-my-home.json) |
 | Where is my mind | 25764 | [25764-where-is-my-mind.json](./25764-where-is-my-mind.json) |
 | Where Is My Parking Spot | 141016 | [141016-where-is-my-parking-spot.json](./141016-where-is-my-parking-spot.json) |
