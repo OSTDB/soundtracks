@@ -1613,6 +1613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teddy Gangs | 124072 | [124072-teddy-gangs.json](./124072-teddy-gangs.json) |
 | Teddy Horses | 374149 | [374149-teddy-horses.json](./374149-teddy-horses.json) |
 | Teddy Is Coming | 400421 | [400421-teddy-is-coming.json](./400421-teddy-is-coming.json) |
+| Teddy Knight | 374793 | [374793-teddy-knight.json](./374793-teddy-knight.json) |
 | Teddy Roller 1 | 323534 | [323534-teddy-roller-1.json](./323534-teddy-roller-1.json) |
 | Teddy Terror | 25845 | [25845-teddy-terror.json](./25845-teddy-terror.json) |
 | Teddy the Wanderer: Kayaking | 112121 | [112121-teddy-the-wanderer-kayaking.json](./112121-teddy-the-wanderer-kayaking.json) |
@@ -2921,6 +2922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Azure One | 402373 | [402373-the-azure-one.json](./402373-the-azure-one.json) |
 | The Backroom: Lost and Found | 207763 | [207763-the-backroom-lost-and-found.json](./207763-the-backroom-lost-and-found.json) |
 | The Backrooms | 221748 | [221748-the-backrooms.json](./221748-the-backrooms.json) |
+| The Backrooms | 374795 | [374795-the-backrooms.json](./374795-the-backrooms.json) |
 | The Backrooms | 401676 | [401676-the-backrooms.json](./401676-the-backrooms.json) |
 | The Backrooms Company | 293614 | [293614-the-backrooms-company.json](./293614-the-backrooms-company.json) |
 | The Backrooms Footage | 213973 | [213973-the-backrooms-footage.json](./213973-the-backrooms-footage.json) |
@@ -3151,6 +3153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Black Onyx II: Search for the Fire Crystal | 25861 | [25861-the-black-onyx-ii-search-for-the-fire-crystal.json](./25861-the-black-onyx-ii-search-for-the-fire-crystal.json) |
 | The Black Pepper Crew | 184629 | [184629-the-black-pepper-crew.json](./184629-the-black-pepper-crew.json) |
 | The Black Pool | 226447 | [226447-the-black-pool.json](./226447-the-black-pool.json) |
+| The Black Pool: Arena Survivors | 374750 | [374750-the-black-pool-arena-survivors.json](./374750-the-black-pool-arena-survivors.json) |
 | The Black Rose | 124260 | [124260-the-black-rose.json](./124260-the-black-rose.json) |
 | The Black Signal | 351709 | [351709-the-black-signal.json](./351709-the-black-signal.json) |
 | The Black Tower | 58827 | [58827-the-black-tower.json](./58827-the-black-tower.json) |
@@ -3883,6 +3886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Day in a Life of a Dayfly | 357461 | [357461-the-day-in-a-life-of-a-dayfly.json](./357461-the-day-in-a-life-of-a-dayfly.json) |
 | The Day Nothing Happened | 70379 | [70379-the-day-nothing-happened.json](./70379-the-day-nothing-happened.json) |
 | The Day of Sagittarius III | 281481 | [281481-the-day-of-sagittarius-iii.json](./281481-the-day-of-sagittarius-iii.json) |
+| The Day of Salvation | 374744 | [374744-the-day-of-salvation.json](./374744-the-day-of-salvation.json) |
 | The Day of the Jellyfish | 368154 | [368154-the-day-of-the-jellyfish.json](./368154-the-day-of-the-jellyfish.json) |
 | The Day That Changed My Life | 224642 | [224642-the-day-that-changed-my-life.json](./224642-the-day-that-changed-my-life.json) |
 | The Day the World Broke | 7721 | [7721-the-day-the-world-broke.json](./7721-the-day-the-world-broke.json) |
@@ -4205,6 +4209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls VI | 81249 | [81249-the-elder-scrolls-vi.json](./81249-the-elder-scrolls-vi.json) |
 | The Elder Scrolls: Arena - Deluxe Edition | 206663 | [206663-the-elder-scrolls-arena-deluxe-edition.json](./206663-the-elder-scrolls-arena-deluxe-edition.json) |
 | The Elder Tales | 264606 | [264606-the-elder-tales.json](./264606-the-elder-tales.json) |
+| The Eldritch Ascent | 374787 | [374787-the-eldritch-ascent.json](./374787-the-eldritch-ascent.json) |
 | The Eldritch Monarch | 324692 | [324692-the-eldritch-monarch.json](./324692-the-eldritch-monarch.json) |
 | The Election Game | 12951 | [12951-the-election-game.json](./12951-the-election-game.json) |
 | The Electric Odyssey | 219554 | [219554-the-electric-odyssey.json](./219554-the-electric-odyssey.json) |
@@ -4253,6 +4258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The End of Sanity | 296452 | [296452-the-end-of-sanity.json](./296452-the-end-of-sanity.json) |
 | The End of Solace | 271751 | [271751-the-end-of-solace.json](./271751-the-end-of-solace.json) |
 | The End of Us | 115033 | [115033-the-end-of-us.json](./115033-the-end-of-us.json) |
+| The End Protocol | 374748 | [374748-the-end-protocol.json](./374748-the-end-protocol.json) |
 | The End Was Nigh | 135777 | [135777-the-end-was-nigh.json](./135777-the-end-was-nigh.json) |
 | The End: Inari's Quest | 77737 | [77737-the-end-inaris-quest.json](./77737-the-end-inaris-quest.json) |
 | The End: Pronton | 240749 | [240749-the-end-pronton.json](./240749-the-end-pronton.json) |
@@ -11224,6 +11230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny industry | 415275 | [415275-tiny-industry.json](./415275-tiny-industry.json) |
 | Tiny Invaders | 92501 | [92501-tiny-invaders.json](./92501-tiny-invaders.json) |
 | Tiny Island Survival | 187809 | [187809-tiny-island-survival.json](./187809-tiny-island-survival.json) |
+| Tiny Isle | 374794 | [374794-tiny-isle.json](./374794-tiny-isle.json) |
 | Tiny Jump | 254559 | [254559-tiny-jump.json](./254559-tiny-jump.json) |
 | Tiny Jumper | 109922 | [109922-tiny-jumper.json](./109922-tiny-jumper.json) |
 | Tiny Kingdom Builder | 315634 | [315634-tiny-kingdom-builder.json](./315634-tiny-kingdom-builder.json) |
@@ -11548,6 +11555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the Stars | 211235 | [211235-to-the-stars.json](./211235-to-the-stars.json) |
 | To the Stars | 336917 | [336917-to-the-stars.json](./336917-to-the-stars.json) |
 | To the Stars Idle | 396212 | [396212-to-the-stars-idle.json](./396212-to-the-stars-idle.json) |
+| To the Sunset | 374781 | [374781-to-the-sunset.json](./374781-to-the-sunset.json) |
 | To the Top | 219534 | [219534-to-the-top.json](./219534-to-the-top.json) |
 | To the Top, Mammoth! | 192013 | [192013-to-the-top-mammoth.json](./192013-to-the-top-mammoth.json) |
 | To The Trenches | 401663 | [401663-to-the-trenches.json](./401663-to-the-trenches.json) |
@@ -13647,6 +13655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: Union Pacific Heavy Challenger Steam Loco | 212227 | [212227-train-simulator-union-pacific-heavy-challenger-steam-loco.json](./212227-train-simulator-union-pacific-heavy-challenger-steam-loco.json) |
 | Train Station Renovation | 108347 | [108347-train-station-renovation.json](./108347-train-station-renovation.json) |
 | Train Station Renovation: Germany | 195217 | [195217-train-station-renovation-germany.json](./195217-train-station-renovation-germany.json) |
+| Train Station Simulator: Together in Japan | 374747 | [374747-train-station-simulator-together-in-japan.json](./374747-train-station-simulator-together-in-japan.json) |
 | Train Station: Rail Transport | 243085 | [243085-train-station-rail-transport.json](./243085-train-station-rail-transport.json) |
 | Train Story | 128986 | [128986-train-story.json](./128986-train-story.json) |
 | Train to Amber Coast | 179666 | [179666-train-to-amber-coast.json](./179666-train-to-amber-coast.json) |
