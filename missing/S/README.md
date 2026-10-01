@@ -852,6 +852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanguo Warriors VR | 99017 | [99017-sanguo-warriors-vr.json](./99017-sanguo-warriors-vr.json) |
 | Sanguo Warriors VR2 | 110534 | [110534-sanguo-warriors-vr2.json](./110534-sanguo-warriors-vr2.json) |
 | Sānguó Yóuxiá Zhì | 83569 | [83569-sanguo-youxia-zhi.json](./83569-sanguo-youxia-zhi.json) |
+| Sānguó Zhì: Qúnxióng Zhēngbà | 350017 | [350017-sanguo-zhi-qunxiong-zhengba.json](./350017-sanguo-zhi-qunxiong-zhengba.json) |
 | Sānguó: 223 | 257678 | [257678-sanguo-223.json](./257678-sanguo-223.json) |
 | Sānguózhì Měngjiàng Zhuán | 158528 | [158528-sanguozhi-mengjiang-zhuan.json](./158528-sanguozhi-mengjiang-zhuan.json) |
 | Sānguózhì Qúnyīng Zhuàn | 410976 | [410976-sanguozhi-qunying-zhuan.json](./410976-sanguozhi-qunying-zhuan.json) |
@@ -5960,6 +5961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Dancer: Free Falling | 87498 | [87498-sky-dancer-free-falling.json](./87498-sky-dancer-free-falling.json) |
 | Sky Dancers: They Magically Fly! | 49401 | [49401-sky-dancers-they-magically-fly.json](./49401-sky-dancers-they-magically-fly.json) |
 | Sky DarkCrow | 190195 | [190195-sky-darkcrow.json](./190195-sky-darkcrow.json) |
+| Sky Die | 349967 | [349967-sky-die.json](./349967-sky-die.json) |
 | Sky Diver | 16970 | [16970-sky-diver.json](./16970-sky-diver.json) |
 | Sky Fighter Legends | 81195 | [81195-sky-fighter-legends.json](./81195-sky-fighter-legends.json) |
 | Sky Fighters | 275664 | [275664-sky-fighters.json](./275664-sky-fighters.json) |
@@ -7810,6 +7812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solbot Energy Rush | 105401 | [105401-solbot-energy-rush.json](./105401-solbot-energy-rush.json) |
 | Solbreak Skirmish | 413881 | [413881-solbreak-skirmish.json](./413881-solbreak-skirmish.json) |
 | Solcialists | 272581 | [272581-solcialists.json](./272581-solcialists.json) |
+| SolCycle | 349993 | [349993-solcycle.json](./349993-solcycle.json) |
 | Sold Out | 253337 | [253337-sold-out.json](./253337-sold-out.json) |
 | Soldat | 8722 | [8722-soldat.json](./8722-soldat.json) |
 | Soldier Blade Special: Caravan Stage | 42024 | [42024-soldier-blade-special-caravan-stage.json](./42024-soldier-blade-special-caravan-stage.json) |
@@ -11450,6 +11453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fire | 408210 | [408210-star-fire.json](./408210-star-fire.json) |
 | Star Fire: Eternal Cycle | 316656 | [316656-star-fire-eternal-cycle.json](./316656-star-fire-eternal-cycle.json) |
 | Star Firebirds | 30215 | [30215-star-firebirds.json](./30215-star-firebirds.json) |
+| Star Fish | 349979 | [349979-star-fish.json](./349979-star-fish.json) |
 | Star Fleet I: The War Begins! | 25939 | [25939-star-fleet-i-the-war-begins.json](./25939-star-fleet-i-the-war-begins.json) |
 | Star Force | 288103 | [288103-star-force.json](./288103-star-force.json) |
 | Star Fox | 8581 | [8581-star-fox.json](./8581-star-fox.json) |
@@ -11890,6 +11894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starburst Fever Night | 390669 | [390669-starburst-fever-night.json](./390669-starburst-fever-night.json) |
 | Starbust | 181378 | [181378-starbust.json](./181378-starbust.json) |
 | Starcaller | 142496 | [142496-starcaller.json](./142496-starcaller.json) |
+| StarCast | 349980 | [349980-starcast.json](./349980-starcast.json) |
 | Starcaster | 89677 | [89677-starcaster.json](./89677-starcaster.json) |
 | StarCat Major | 209962 | [209962-starcat-major.json](./209962-starcat-major.json) |
 | Starcatcher | 228094 | [228094-starcatcher.json](./228094-starcatcher.json) |
@@ -11917,6 +11922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stardoll Dress Up Blog Stars | 357220 | [357220-stardoll-dress-up-blog-stars.json](./357220-stardoll-dress-up-blog-stars.json) |
 | Stardom 2000 | 380431 | [380431-stardom-2000.json](./380431-stardom-2000.json) |
 | Stardom Warriors: LaSalle Ishii's Childs Quest | 340027 | [340027-stardom-warriors-lasalle-ishiis-childs-quest.json](./340027-stardom-warriors-lasalle-ishiis-childs-quest.json) |
+| Stardream | 349984 | [349984-stardream.json](./349984-stardream.json) |
 | StarDrive 2 | 13660 | [13660-stardrive-2.json](./13660-stardrive-2.json) |
 | StarDrone Extreme | 20815 | [20815-stardrone-extreme.json](./20815-stardrone-extreme.json) |
 | StarDrone VR | 118930 | [118930-stardrone-vr.json](./118930-stardrone-vr.json) |
@@ -12404,6 +12410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stealthscape | 96732 | [96732-stealthscape.json](./96732-stealthscape.json) |
 | Stealthy Guy | 102573 | [102573-stealthy-guy.json](./102573-stealthy-guy.json) |
 | Steam | 95441 | [95441-steam.json](./95441-steam.json) |
+| Steam & Clicks | 350005 | [350005-steam-and-clicks.json](./350005-steam-and-clicks.json) |
 | Steam & Steel Railway Tycoon | 384191 | [384191-steam-and-steel-railway-tycoon.json](./384191-steam-and-steel-railway-tycoon.json) |
 | Steam and Metal | 36139 | [36139-steam-and-metal.json](./36139-steam-and-metal.json) |
 | Steam Bandits: Outpost | 30368 | [30368-steam-bandits-outpost.json](./30368-steam-bandits-outpost.json) |
@@ -12442,6 +12449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steamlands | 216317 | [216317-steamlands.json](./216317-steamlands.json) |
 | Steamle | 353897 | [353897-steamle.json](./353897-steamle.json) |
 | SteamMaze | 326284 | [326284-steammaze.json](./326284-steammaze.json) |
+| SteamPowered | 350009 | [350009-steampowered.json](./350009-steampowered.json) |
 | Steampunch | 335075 | [335075-steampunch.json](./335075-steampunch.json) |
 | Steampunch: Lost Tombs | 358357 | [358357-steampunch-lost-tombs.json](./358357-steampunch-lost-tombs.json) |
 | Steampunk Jigsaw Puzzles | 264578 | [264578-steampunk-jigsaw-puzzles.json](./264578-steampunk-jigsaw-puzzles.json) |
@@ -14130,6 +14138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugarlawn | 209610 | [209610-sugarlawn.json](./209610-sugarlawn.json) |
 | Sugary Delight | 234619 | [234619-sugary-delight.json](./234619-sugary-delight.json) |
 | Sugary Shifter | 314055 | [314055-sugary-shifter.json](./314055-sugary-shifter.json) |
+| Sugary Spire: Exhibition Night | 349966 | [349966-sugary-spire-exhibition-night.json](./349966-sugary-spire-exhibition-night.json) |
 | Sugee Yasashii Yandere no Ichiniji no Ruutin | 398546 | [398546-sugee-yasashii-yandere-no-ichiniji-no-ruutin.json](./398546-sugee-yasashii-yandere-no-ichiniji-no-ruutin.json) |
 | Suggoi! Arcana Heart 2 | 243414 | [243414-suggoi-arcana-heart-2.json](./243414-suggoi-arcana-heart-2.json) |
 | Suggoi! Arcana Heart 2 | 243419 | [243419-suggoi-arcana-heart-2.json](./243419-suggoi-arcana-heart-2.json) |
