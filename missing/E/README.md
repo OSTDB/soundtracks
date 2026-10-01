@@ -1581,6 +1581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Encore! | 372557 | [372557-encore.json](./372557-encore.json) |
 | Encore! | 380428 | [380428-encore.json](./380428-encore.json) |
 | Encounter | 81445 | [81445-encounter.json](./81445-encounter.json) |
+| Encounter Bar | 385258 | [385258-encounter-bar.json](./385258-encounter-bar.json) |
 | Encounter of Galaxies | 28931 | [28931-encounter-of-galaxies.json](./28931-encounter-of-galaxies.json) |
 | Encounter: The Lost Cards | 354540 | [354540-encounter-the-lost-cards.json](./354540-encounter-the-lost-cards.json) |
 | Encourage | 113142 | [113142-encourage.json](./113142-encourage.json) |
@@ -1969,6 +1970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entwined Challenge | 174226 | [174226-entwined-challenge.json](./174226-entwined-challenge.json) |
 | Entwined: The Perfect Murder | 112489 | [112489-entwined-the-perfect-murder.json](./112489-entwined-the-perfect-murder.json) |
 | Envido | 418535 | [418535-envido.json](./418535-envido.json) |
+| Environment Protection Ambassador | 385287 | [385287-environment-protection-ambassador.json](./385287-environment-protection-ambassador.json) |
 | EnvironmentZ | 374724 | [374724-environmentz.json](./374724-environmentz.json) |
 | Envoy | 33413 | [33413-envoy.json](./33413-envoy.json) |
 | Envoy 2 | 33367 | [33367-envoy-2.json](./33367-envoy-2.json) |
