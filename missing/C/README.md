@@ -1812,6 +1812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Jigsaw Puzzle Games: Expansion Pack 8 | 262945 | [262945-cat-jigsaw-puzzle-games-expansion-pack-8.json](./262945-cat-jigsaw-puzzle-games-expansion-pack-8.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 9 | 241322 | [241322-cat-jigsaw-puzzle-games-expansion-pack-9.json](./241322-cat-jigsaw-puzzle-games-expansion-pack-9.json) |
 | Cat Jumper | 175792 | [175792-cat-jumper.json](./175792-cat-jumper.json) |
+| Cat Karting | 366951 | [366951-cat-karting.json](./366951-cat-karting.json) |
 | Cat Killer | 249176 | [249176-cat-killer.json](./249176-cat-killer.json) |
 | Cat Knights | 90096 | [90096-cat-knights.json](./90096-cat-knights.json) |
 | Cat Lady | 119282 | [119282-cat-lady.json](./119282-cat-lady.json) |
@@ -6875,6 +6876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corrupted Cistern | 256828 | [256828-corrupted-cistern.json](./256828-corrupted-cistern.json) |
 | Corrupted Dice | 405520 | [405520-corrupted-dice.json](./405520-corrupted-dice.json) |
 | Corrupted Kingdoms | 232550 | [232550-corrupted-kingdoms.json](./232550-corrupted-kingdoms.json) |
+| Corrupted Souls | 366960 | [366960-corrupted-souls.json](./366960-corrupted-souls.json) |
 | Corrupted Universe Cries Quietly | 269282 | [269282-corrupted-universe-cries-quietly.json](./269282-corrupted-universe-cries-quietly.json) |
 | Corruption | 101599 | [101599-corruption.json](./101599-corruption.json) |
 | Corruption Catharsis: Try To Act Normal | 271507 | [271507-corruption-catharsis-try-to-act-normal.json](./271507-corruption-catharsis-try-to-act-normal.json) |
