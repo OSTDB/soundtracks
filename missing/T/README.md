@@ -3194,6 +3194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Binding of Isaac: Afterbirth | 13177 | [13177-the-binding-of-isaac-afterbirth.json](./13177-the-binding-of-isaac-afterbirth.json) |
 | The Binding of Isaac: Antibirth | 103333 | [103333-the-binding-of-isaac-antibirth.json](./103333-the-binding-of-isaac-antibirth.json) |
 | The Binding of Isaac: Epiphany | 223039 | [223039-the-binding-of-isaac-epiphany.json](./223039-the-binding-of-isaac-epiphany.json) |
+| The Binding of Isaac: Eternal Edition | 341546 | [341546-the-binding-of-isaac-eternal-edition.json](./341546-the-binding-of-isaac-eternal-edition.json) |
 | The Binding of Isaac: Repentance | 310643 | [310643-the-binding-of-isaac-repentance.json](./310643-the-binding-of-isaac-repentance.json) |
 | The Binding of Isaac: Revelations | 376126 | [376126-the-binding-of-isaac-revelations.json](./376126-the-binding-of-isaac-revelations.json) |
 | The Binding of You | 83551 | [83551-the-binding-of-you.json](./83551-the-binding-of-you.json) |
@@ -5998,6 +5999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Zone | 369123 | [369123-the-last-zone.json](./369123-the-last-zone.json) |
 | The Late D. Flate's Great Estate | 188090 | [188090-the-late-d-flates-great-estate.json](./188090-the-late-d-flates-great-estate.json) |
 | The Lattice Grimoire | 120396 | [120396-the-lattice-grimoire.json](./120396-the-lattice-grimoire.json) |
+| The Lavarish Facility | 341647 | [341647-the-lavarish-facility.json](./341647-the-lavarish-facility.json) |
 | The Law | 186173 | [186173-the-law.json](./186173-the-law.json) |
 | The Lawnmower Man | 388206 | [388206-the-lawnmower-man.json](./388206-the-lawnmower-man.json) |
 | The Lays of Althas : Sundered Order | 7575 | [7575-the-lays-of-althas-sundered-order.json](./7575-the-lays-of-althas-sundered-order.json) |
@@ -11057,6 +11059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TileGuesser | 363060 | [363060-tileguesser.json](./363060-tileguesser.json) |
 | TileKnight | 389028 | [389028-tileknight.json](./389028-tileknight.json) |
 | Tilelander | 72143 | [72143-tilelander.json](./72143-tilelander.json) |
+| Tilemount | 341640 | [341640-tilemount.json](./341640-tilemount.json) |
 | Tiles and Towers TD | 216503 | [216503-tiles-and-towers-td.json](./216503-tiles-and-towers-td.json) |
 | Tiles Hop: Forever Dancing Ball | 108439 | [108439-tiles-hop-forever-dancing-ball.json](./108439-tiles-hop-forever-dancing-ball.json) |
 | Tiles in Time | 336547 | [336547-tiles-in-time.json](./336547-tiles-in-time.json) |
@@ -15212,6 +15215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trove: Geode Companion Pack 2 | 168142 | [168142-trove-geode-companion-pack-2.json](./168142-trove-geode-companion-pack-2.json) |
 | Trove: Mega Menagerie Pack | 168143 | [168143-trove-mega-menagerie-pack.json](./168143-trove-mega-menagerie-pack.json) |
 | Trove: Square Necessities Pack | 168149 | [168149-trove-square-necessities-pack.json](./168149-trove-square-necessities-pack.json) |
+| Trovemount | 341644 | [341644-trovemount.json](./341644-trovemount.json) |
 | Trover Saves the Universe: Important Cosmic Jobs | 132636 | [132636-trover-saves-the-universe-important-cosmic-jobs.json](./132636-trover-saves-the-universe-important-cosmic-jobs.json) |
 | Trow's Space | 250876 | [250876-trows-space.json](./250876-trows-space.json) |
 | Troxia | 214480 | [214480-troxia.json](./214480-troxia.json) |
