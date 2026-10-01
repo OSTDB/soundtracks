@@ -281,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faeria: Premium Edition | 238045 | [238045-faeria-premium-edition.json](./238045-faeria-premium-edition.json) |
 | Faery: Legends of Avalon | 10295 | [10295-faery-legends-of-avalon.json](./10295-faery-legends-of-avalon.json) |
 | Faery: Swapped | 298022 | [298022-faery-swapped.json](./298022-faery-swapped.json) |
+| Faewoods | 352248 | [352248-faewoods.json](./352248-faewoods.json) |
 | Fahrenheit | 298554 | [298554-fahrenheit.json](./298554-fahrenheit.json) |
 | Fahrenheit | 298555 | [298555-fahrenheit.json](./298555-fahrenheit.json) |
 | Fahrenheit: Indigo Prophecy Remastered | 25009 | [25009-fahrenheit-indigo-prophecy-remastered.json](./25009-fahrenheit-indigo-prophecy-remastered.json) |
@@ -685,6 +686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 76: Steel Reign | 152310 | [152310-fallout-76-steel-reign.json](./152310-fallout-76-steel-reign.json) |
 | Fallout 76: The Pitt - Deluxe Edition | 218503 | [218503-fallout-76-the-pitt-deluxe-edition.json](./218503-fallout-76-the-pitt-deluxe-edition.json) |
 | Fallout 76: Wild Appalachia | 115713 | [115713-fallout-76-wild-appalachia.json](./115713-fallout-76-wild-appalachia.json) |
+| Fallout Rancher | 352339 | [352339-fallout-rancher.json](./352339-fallout-rancher.json) |
 | Fallout: Dust | 243647 | [243647-fallout-dust.json](./243647-fallout-dust.json) |
 | Fallout: New Vegas - Courier's Stash | 45127 | [45127-fallout-new-vegas-couriers-stash.json](./45127-fallout-new-vegas-couriers-stash.json) |
 | Fallout: New Vegas - Dead Money | 10304 | [10304-fallout-new-vegas-dead-money.json](./10304-fallout-new-vegas-dead-money.json) |
@@ -1337,6 +1339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmington Tales 2: Winter Crop | 294225 | [294225-farmington-tales-2-winter-crop.json](./294225-farmington-tales-2-winter-crop.json) |
 | Farmnana Defence | 404863 | [404863-farmnana-defence.json](./404863-farmnana-defence.json) |
 | FarmRPG | 227832 | [227832-farmrpg.json](./227832-farmrpg.json) |
+| Farmtastic | 352351 | [352351-farmtastic.json](./352351-farmtastic.json) |
 | FarmTech | 257891 | [257891-farmtech.json](./257891-farmtech.json) |
 | FarmVille 2: Country Escape | 38889 | [38889-farmville-2-country-escape.json](./38889-farmville-2-country-escape.json) |
 | FarmVille 3 | 204459 | [204459-farmville-3.json](./204459-farmville-3.json) |
@@ -1976,6 +1979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fidget Spinner Editor | 68595 | [68595-fidget-spinner-editor.json](./68595-fidget-spinner-editor.json) |
 | Fidget Spinner Simulator | 51415 | [51415-fidget-spinner-simulator.json](./51415-fidget-spinner-simulator.json) |
 | Fido | 315275 | [315275-fido.json](./315275-fido.json) |
+| Fido | 352330 | [352330-fido.json](./352330-fido.json) |
 | Fido 2: Puppy Power | 315278 | [315278-fido-2-puppy-power.json](./315278-fido-2-puppy-power.json) |
 | Fido Dido | 93010 | [93010-fido-dido.json](./93010-fido-dido.json) |
 | FIE Swordplay | 152225 | [152225-fie-swordplay.json](./152225-fie-swordplay.json) |
@@ -4575,6 +4579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest 3 | 381236 | [381236-forest-3.json](./381236-forest-3.json) |
 | Forest 6174 | 410354 | [410354-forest-6174.json](./410354-forest-6174.json) |
 | Forest Adventure | 195727 | [195727-forest-adventure.json](./195727-forest-adventure.json) |
+| Forest Asylum 2 | 352359 | [352359-forest-asylum-2.json](./352359-forest-asylum-2.json) |
 | Forest at World's End | 25917 | [25917-forest-at-worlds-end.json](./25917-forest-at-worlds-end.json) |
 | Forest Battle | 166732 | [166732-forest-battle.json](./166732-forest-battle.json) |
 | Forest Camp Story | 174297 | [174297-forest-camp-story.json](./174297-forest-camp-story.json) |
