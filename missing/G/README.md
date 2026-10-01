@@ -21,6 +21,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-LOC R360 | 363982 | [363982-g-loc-r360.json](./363982-g-loc-r360.json) |
 | G-LOC R360 | 363983 | [363983-g-loc-r360.json](./363983-g-loc-r360.json) |
 | G-LOC R360 | 363984 | [363984-g-loc-r360.json](./363984-g-loc-r360.json) |
+| G-LOC R360 | 363996 | [363996-g-loc-r360.json](./363996-g-loc-r360.json) |
+| G-LOC R360 | 363997 | [363997-g-loc-r360.json](./363997-g-loc-r360.json) |
+| G-LOC: Air Battle | 363999 | [363999-g-loc-air-battle.json](./363999-g-loc-air-battle.json) |
 | G-man Invasion | 222304 | [222304-g-man-invasion.json](./222304-g-man-invasion.json) |
 | G-Mode Archives 03: Kururin Cafe | 137538 | [137538-g-mode-archives-03-kururin-cafe.json](./137538-g-mode-archives-03-kururin-cafe.json) |
 | G-Mode Archives 06: Shijou Saikyou Miyamoto Julia | 137617 | [137617-g-mode-archives-06-shijou-saikyou-miyamoto-julia.json](./137617-g-mode-archives-06-shijou-saikyou-miyamoto-julia.json) |
@@ -2702,6 +2705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblins Never Die | 258446 | [258446-goblins-never-die.json](./258446-goblins-never-die.json) |
 | Goblins of Elderstone | 55262 | [55262-goblins-of-elderstone.json](./55262-goblins-of-elderstone.json) |
 | Goblins Please | 260405 | [260405-goblins-please.json](./260405-goblins-please.json) |
+| Goblins With Guns | 364039 | [364039-goblins-with-guns.json](./364039-goblins-with-guns.json) |
 | GoBlock's Impossible Medley | 28884 | [28884-goblocks-impossible-medley.json](./28884-goblocks-impossible-medley.json) |
 | Goblr: Goblin Date Night Simulator | 238719 | [238719-goblr-goblin-date-night-simulator.json](./238719-goblr-goblin-date-night-simulator.json) |
 | Gobo & Spike | 357303 | [357303-gobo-and-spike.json](./357303-gobo-and-spike.json) |
