@@ -377,6 +377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Pixel: Close Quarters | 112948 | [112948-call-of-pixel-close-quarters.json](./112948-call-of-pixel-close-quarters.json) |
 | Call of Senpai: Waifu Warfare | 192379 | [192379-call-of-senpai-waifu-warfare.json](./192379-call-of-senpai-waifu-warfare.json) |
 | Call of Sentinels | 264152 | [264152-call-of-sentinels.json](./264152-call-of-sentinels.json) |
+| Call of the Ages: Collector's Edition | 341086 | [341086-call-of-the-ages-collectors-edition.json](./341086-call-of-the-ages-collectors-edition.json) |
 | Call of the Apostate | 268766 | [268766-call-of-the-apostate.json](./268766-call-of-the-apostate.json) |
 | Call of the Elder Gods | 347882 | [347882-call-of-the-elder-gods.json](./347882-call-of-the-elder-gods.json) |
 | Call of the Ninja! | 35730 | [35730-call-of-the-ninja.json](./35730-call-of-the-ninja.json) |
@@ -493,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campfire Legends: The Babysitter | 62833 | [62833-campfire-legends-the-babysitter.json](./62833-campfire-legends-the-babysitter.json) |
 | Campfire Legends: The Hookman | 62834 | [62834-campfire-legends-the-hookman.json](./62834-campfire-legends-the-hookman.json) |
 | Campfire Legends: The Last Act | 62832 | [62832-campfire-legends-the-last-act.json](./62832-campfire-legends-the-last-act.json) |
+| Campfire Legends: The Last Act - Premium Edition | 341083 | [341083-campfire-legends-the-last-act-premium-edition.json](./341083-campfire-legends-the-last-act-premium-edition.json) |
 | Campfire Stories : Episode 1 | 265400 | [265400-campfire-stories-episode-1.json](./265400-campfire-stories-episode-1.json) |
 | Campground Owner | 192692 | [192692-campground-owner.json](./192692-campground-owner.json) |
 | Campground Simulator | 379355 | [379355-campground-simulator.json](./379355-campground-simulator.json) |
@@ -1456,6 +1458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casebook: Episode 0 - The Missing Urn | 335437 | [335437-casebook-episode-0-the-missing-urn.json](./335437-casebook-episode-0-the-missing-urn.json) |
 | CaseCracker2 | 301425 | [301425-casecracker2.json](./301425-casecracker2.json) |
 | Casenology | 382778 | [382778-casenology.json](./382778-casenology.json) |
+| Cases of Stolen Beauty | 341084 | [341084-cases-of-stolen-beauty.json](./341084-cases-of-stolen-beauty.json) |
 | Casey Duck: Butter Duck | 218408 | [218408-casey-duck-butter-duck.json](./218408-casey-duck-butter-duck.json) |
 | Casey Noir and Carved Pumpkin's Latte | 353967 | [353967-casey-noir-and-carved-pumpkins-latte.json](./353967-casey-noir-and-carved-pumpkins-latte.json) |
 | Casey Powell Lacrosse 16 | 20969 | [20969-casey-powell-lacrosse-16.json](./20969-casey-powell-lacrosse-16.json) |
@@ -9101,6 +9104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CubicPanic | 98980 | [98980-cubicpanic.json](./98980-cubicpanic.json) |
 | Cubidle | 311473 | [311473-cubidle.json](./311473-cubidle.json) |
 | Cubik | 294301 | [294301-cubik.json](./294301-cubik.json) |
+| Cubikill | 341076 | [341076-cubikill.json](./341076-cubikill.json) |
 | Cubikolor | 19888 | [19888-cubikolor.json](./19888-cubikolor.json) |
 | Cubin | 299744 | [299744-cubin.json](./299744-cubin.json) |
 | Cubin II | 368485 | [368485-cubin-ii.json](./368485-cubin-ii.json) |
