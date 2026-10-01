@@ -4625,6 +4625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platforms Unlimited | 101323 | [101323-platforms-unlimited.json](./101323-platforms-unlimited.json) |
 | Plati and the Tower of Time | 310739 | [310739-plati-and-the-tower-of-time.json](./310739-plati-and-the-tower-of-time.json) |
 | Plati Nalog: Favorite Russian Game | 88083 | [88083-plati-nalog-favorite-russian-game.json](./88083-plati-nalog-favorite-russian-game.json) |
+| Platina: Lab | 339987 | [339987-platina-lab.json](./339987-platina-lab.json) |
 | Platinum | 313829 | [313829-platinum.json](./313829-platinum.json) |
 | Platinum Demo: Final Fantasy XV | 299106 | [299106-platinum-demo-final-fantasy-xv.json](./299106-platinum-demo-final-fantasy-xv.json) |
 | Platinum Kill | 112272 | [112272-platinum-kill.json](./112272-platinum-kill.json) |
@@ -5290,6 +5291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Emerald Crest | 267421 | [267421-pokemon-emerald-crest.json](./267421-pokemon-emerald-crest.json) |
 | Pokémon Emerald Cross | 301933 | [301933-pokemon-emerald-cross.json](./301933-pokemon-emerald-cross.json) |
 | Pokémon Emerald Final | 149964 | [149964-pokemon-emerald-final.json](./149964-pokemon-emerald-final.json) |
+| Pokémon Emerald Horizons | 339967 | [339967-pokemon-emerald-horizons.json](./339967-pokemon-emerald-horizons.json) |
 | Pokémon Emerald Imperium | 329650 | [329650-pokemon-emerald-imperium.json](./329650-pokemon-emerald-imperium.json) |
 | Pokémon Emerald Kaizo | 172744 | [172744-pokemon-emerald-kaizo.json](./172744-pokemon-emerald-kaizo.json) |
 | Pokémon Emerald Rogue | 221244 | [221244-pokemon-emerald-rogue.json](./221244-pokemon-emerald-rogue.json) |
@@ -7104,6 +7106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Private: Pornmania | 254545 | [254545-private-pornmania.json](./254545-private-pornmania.json) |
 | Privateers | 58288 | [58288-privateers.json](./58288-privateers.json) |
 | Prixel | 111205 | [111205-prixel.json](./111205-prixel.json) |
+| Prize Denied | 339962 | [339962-prize-denied.json](./339962-prize-denied.json) |
 | Prize Fighter | 5424 | [5424-prize-fighter.json](./5424-prize-fighter.json) |
 | Prizefight | 68609 | [68609-prizefight.json](./68609-prizefight.json) |
 | Prizefighters | 239914 | [239914-prizefighters.json](./239914-prizefighters.json) |
