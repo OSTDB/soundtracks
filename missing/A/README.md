@@ -448,6 +448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Show of Hands | 52563 | [52563-a-show-of-hands.json](./52563-a-show-of-hands.json) |
 | A Show of Kindness | 112465 | [112465-a-show-of-kindness.json](./112465-a-show-of-kindness.json) |
 | A Silent Wood | 61318 | [61318-a-silent-wood.json](./61318-a-silent-wood.json) |
+| A Simple Ball Game | 345073 | [345073-a-simple-ball-game.json](./345073-a-simple-ball-game.json) |
 | A Simple Door | 311647 | [311647-a-simple-door.json](./311647-a-simple-door.json) |
 | A Simple Garbage Sorting Game | 329705 | [329705-a-simple-garbage-sorting-game.json](./329705-a-simple-garbage-sorting-game.json) |
 | A Simple Love Story | 25072 | [25072-a-simple-love-story.json](./25072-a-simple-love-story.json) |
@@ -1871,6 +1872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Undead | 211145 | [211145-age-of-undead.json](./211145-age-of-undead.json) |
 | Age of Valakas: Vietnam | 190456 | [190456-age-of-valakas-vietnam.json](./190456-age-of-valakas-vietnam.json) |
 | Age of War | 18348 | [18348-age-of-war.json](./18348-age-of-war.json) |
+| Age of Warbots | 345089 | [345089-age-of-warbots.json](./345089-age-of-warbots.json) |
 | Age of Warscape | 28209 | [28209-age-of-warscape.json](./28209-age-of-warscape.json) |
 | Age of Wonders | 589 | [589-age-of-wonders.json](./589-age-of-wonders.json) |
 | Age of Wonders 4: Empires & Ashes | 259051 | [259051-age-of-wonders-4-empires-and-ashes.json](./259051-age-of-wonders-4-empires-and-ashes.json) |
@@ -2694,6 +2696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alfa-Arkiv | 60793 | [60793-alfa-arkiv.json](./60793-alfa-arkiv.json) |
 | Alfabet Śmierci | 14238 | [14238-alfabet-smierci.json](./14238-alfabet-smierci.json) |
 | Alfal's Grove | 132651 | [132651-alfals-grove.json](./132651-alfals-grove.json) |
+| Alfons World | 345053 | [345053-alfons-world.json](./345053-alfons-world.json) |
 | Alfred Chicken | 118492 | [118492-alfred-chicken.json](./118492-alfred-chicken.json) |
 | Alfred Chicken | 272843 | [272843-alfred-chicken.json](./272843-alfred-chicken.json) |
 | Alfred Chicken | 7749 | [7749-alfred-chicken.json](./7749-alfred-chicken.json) |
@@ -6757,6 +6760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes of Equestria | 121722 | [121722-ashes-of-equestria.json](./121722-ashes-of-equestria.json) |
 | Ashes of Immortality Trilogy | 52607 | [52607-ashes-of-immortality-trilogy.json](./52607-ashes-of-immortality-trilogy.json) |
 | Ashes of Kardoria | 386145 | [386145-ashes-of-kardoria.json](./386145-ashes-of-kardoria.json) |
+| Ashes of Morgravia | 345083 | [345083-ashes-of-morgravia.json](./345083-ashes-of-morgravia.json) |
 | Ashes of Oahu | 116196 | [116196-ashes-of-oahu.json](./116196-ashes-of-oahu.json) |
 | Ashes of Paradise | 377808 | [377808-ashes-of-paradise.json](./377808-ashes-of-paradise.json) |
 | Ashes of Paradise | 379042 | [379042-ashes-of-paradise.json](./379042-ashes-of-paradise.json) |
@@ -6867,6 +6871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin of Monsters 2: Spacenator | 404810 | [404810-assassin-of-monsters-2-spacenator.json](./404810-assassin-of-monsters-2-spacenator.json) |
 | Assassin Of Spider | 384680 | [384680-assassin-of-spider.json](./384680-assassin-of-spider.json) |
 | Assassin Of Spider 2: 2099 | 404811 | [404811-assassin-of-spider-2-2099.json](./404811-assassin-of-spider-2-2099.json) |
+| Assassin Story | 345076 | [345076-assassin-story.json](./345076-assassin-story.json) |
 | Assassin vs. Mummies: Match 3 | 101047 | [101047-assassin-vs-mummies-match-3.json](./101047-assassin-vs-mummies-match-3.json) |
 | Assassin War Sniper Shooting | 274452 | [274452-assassin-war-sniper-shooting.json](./274452-assassin-war-sniper-shooting.json) |
 | Assassin: Special Edition | 14601 | [14601-assassin-special-edition.json](./14601-assassin-special-edition.json) |
@@ -7909,6 +7914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autobahn Raser: Das Spiel zum Film | 144385 | [144385-autobahn-raser-das-spiel-zum-film.json](./144385-autobahn-raser-das-spiel-zum-film.json) |
 | Autobahn Tokio | 37206 | [37206-autobahn-tokio.json](./37206-autobahn-tokio.json) |
 | Autoball | 394887 | [394887-autoball.json](./394887-autoball.json) |
+| AutoBlobber | 345066 | [345066-autoblobber.json](./345066-autoblobber.json) |
 | Autobots | 14457 | [14457-autobots.json](./14457-autobots.json) |
 | Autocard: Your RPG Adventure | 381264 | [381264-autocard-your-rpg-adventure.json](./381264-autocard-your-rpg-adventure.json) |
 | AutoCompete | 233099 | [233099-autocompete.json](./233099-autocompete.json) |
@@ -8147,6 +8153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avrach Resurrection | 137567 | [137567-avrach-resurrection.json](./137567-avrach-resurrection.json) |
 | Avril | 373011 | [373011-avril.json](./373011-avril.json) |
 | Avrod | 149452 | [149452-avrod.json](./149452-avrod.json) |
+| AVTale | 344994 | [344994-avtale.json](./344994-avtale.json) |
 | Avventura nel Castello | 304177 | [304177-avventura-nel-castello.json](./304177-avventura-nel-castello.json) |
 | Avy, Fables of the Night | 269288 | [269288-avy-fables-of-the-night.json](./269288-avy-fables-of-the-night.json) |
 | Aw Heck, War! | 241302 | [241302-aw-heck-war.json](./241302-aw-heck-war.json) |
