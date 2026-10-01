@@ -506,6 +506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pana der Hejhog | 270217 | [270217-pana-der-hejhog.json](./270217-pana-der-hejhog.json) |
 | Panacle: Back to Wild | 190177 | [190177-panacle-back-to-wild.json](./190177-panacle-back-to-wild.json) |
 | Panama Canal | 156143 | [156143-panama-canal.json](./156143-panama-canal.json) |
+| Panama Canal Clash | 367547 | [367547-panama-canal-clash.json](./367547-panama-canal-clash.json) |
 | Pancake Bar Tycoon: Expansion Pack 1 | 237915 | [237915-pancake-bar-tycoon-expansion-pack-1.json](./237915-pancake-bar-tycoon-expansion-pack-1.json) |
 | Pancake Bar Tycoon: Expansion Pack 2 | 237916 | [237916-pancake-bar-tycoon-expansion-pack-2.json](./237916-pancake-bar-tycoon-expansion-pack-2.json) |
 | Pancake Bar Tycoon: Extended Edition | 207902 | [207902-pancake-bar-tycoon-extended-edition.json](./207902-pancake-bar-tycoon-extended-edition.json) |
@@ -535,6 +536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panda vs Lightning | 98796 | [98796-panda-vs-lightning.json](./98796-panda-vs-lightning.json) |
 | Panda vs. Bugs | 196555 | [196555-panda-vs-bugs.json](./196555-panda-vs-bugs.json) |
 | Panda? | 287715 | [287715-panda.json](./287715-panda.json) |
+| PandaBomber | 367559 | [367559-pandabomber.json](./367559-pandabomber.json) |
 | Pandamonium | 345520 | [345520-pandamonium.json](./345520-pandamonium.json) |
 | PandaSG | 157122 | [157122-pandasg.json](./157122-pandasg.json) |
 | Pandash | 248913 | [248913-pandash.json](./248913-pandash.json) |
@@ -3043,6 +3045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pierre le Chef is... Out to Lunch | 39042 | [39042-pierre-le-chef-is-out-to-lunch.json](./39042-pierre-le-chef-is-out-to-lunch.json) |
 | Pierrot à la Mode | 340572 | [340572-pierrot-a-la-mode.json](./340572-pierrot-a-la-mode.json) |
 | Pif Paf | 105323 | [105323-pif-paf.json](./105323-pif-paf.json) |
+| Pig | 367569 | [367569-pig.json](./367569-pig.json) |
 | Pig & Chikin | 341576 | [341576-pig-and-chikin.json](./341576-pig-and-chikin.json) |
 | Pig Bros Adventure | 214729 | [214729-pig-bros-adventure.json](./214729-pig-bros-adventure.json) |
 | Pig Escape | 185003 | [185003-pig-escape.json](./185003-pig-escape.json) |
@@ -5191,6 +5194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon LuigiGreen | 372605 | [372605-pokemon-luigigreen.json](./372605-pokemon-luigigreen.json) |
 | Pokémon Luminescent Platinum | 199621 | [199621-pokemon-luminescent-platinum.json](./199621-pokemon-luminescent-platinum.json) |
 | Pokémon MarioRed | 372602 | [372602-pokemon-mariored.json](./372602-pokemon-mariored.json) |
+| Pokemon Masters Stadium | 367553 | [367553-pokemon-masters-stadium.json](./367553-pokemon-masters-stadium.json) |
 | Pokémon Mega Evolution Aquamarine | 300428 | [300428-pokemon-mega-evolution-aquamarine.json](./300428-pokemon-mega-evolution-aquamarine.json) |
 | Pokémon Mino | 265214 | [265214-pokemon-mino.json](./265214-pokemon-mino.json) |
 | Pokémon Moemon Emerald Version | 229058 | [229058-pokemon-moemon-emerald-version.json](./229058-pokemon-moemon-emerald-version.json) |
