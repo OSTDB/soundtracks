@@ -820,6 +820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sangoku Stories Ten | 222510 | [222510-sangoku-stories-ten.json](./222510-sangoku-stories-ten.json) |
 | Sangoku Xiangqi | 259096 | [259096-sangoku-xiangqi.json](./259096-sangoku-xiangqi.json) |
 | Sangokushi 11: Power Up Kit | 350410 | [350410-sangokushi-11-power-up-kit.json](./350410-sangokushi-11-power-up-kit.json) |
+| Sangokushi 12: Power Up Kit | 350585 | [350585-sangokushi-12-power-up-kit.json](./350585-sangokushi-12-power-up-kit.json) |
 | Sangokushi Dice | 196600 | [196600-sangokushi-dice.json](./196600-sangokushi-dice.json) |
 | Sangokushi Eiketsuden | 327954 | [327954-sangokushi-eiketsuden.json](./327954-sangokushi-eiketsuden.json) |
 | Sangokushi Game Boy-ban | 349837 | [349837-sangokushi-game-boy-ban.json](./349837-sangokushi-game-boy-ban.json) |
@@ -1907,6 +1908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Blast | 91729 | [91729-sea-blast.json](./91729-sea-blast.json) |
 | Sea Blindness | 343428 | [343428-sea-blindness.json](./343428-sea-blindness.json) |
 | Sea Bubble Burst | 205833 | [205833-sea-bubble-burst.json](./205833-sea-bubble-burst.json) |
+| Sea Bunnies | 350568 | [350568-sea-bunnies.json](./350568-sea-bunnies.json) |
 | Sea Chronicles | 249879 | [249879-sea-chronicles.json](./249879-sea-chronicles.json) |
 | Sea Creatures | 112373 | [112373-sea-creatures.json](./112373-sea-creatures.json) |
 | Sea Dogs: Caribbean Tales | 51868 | [51868-sea-dogs-caribbean-tales.json](./51868-sea-dogs-caribbean-tales.json) |
@@ -3747,6 +3749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She is Mermaid | 102086 | [102086-she-is-mermaid.json](./102086-she-is-mermaid.json) |
 | She is Sexaroid | 148439 | [148439-she-is-sexaroid.json](./148439-she-is-sexaroid.json) |
 | She is... | 413045 | [413045-she-is.json](./413045-she-is.json) |
+| She Keeps Me Damn Alive | 350542 | [350542-she-keeps-me-damn-alive.json](./350542-she-keeps-me-damn-alive.json) |
 | She Never Left | 416718 | [416718-she-never-left.json](./416718-she-never-left.json) |
 | She Save | 50511 | [50511-she-save.json](./50511-she-save.json) |
 | She Sings, but She’s Not a Skylark, Not Even a Nightingale. | 412445 | [412445-she-sings-but-she-s-not-a-skylark-not-even-a-nightingale.json](./412445-she-sings-but-she-s-not-a-skylark-not-even-a-nightingale.json) |
@@ -4062,6 +4065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Tennis no Ouji-sama: Let's Go!! Daily Life from RisingBeat | 222249 | [222249-shin-tennis-no-ouji-sama-lets-go-daily-life-from-risingbeat.json](./222249-shin-tennis-no-ouji-sama-lets-go-daily-life-from-risingbeat.json) |
 | Shin-chan: Bundle | 324125 | [324125-shin-chan-bundle.json](./324125-shin-chan-bundle.json) |
 | Shin-chan: Shiro and the Coal Town | 266712 | [266712-shin-chan-shiro-and-the-coal-town.json](./266712-shin-chan-shiro-and-the-coal-town.json) |
+| Shinai Naru Kodoku to Kunou e | 350600 | [350600-shinai-naru-kodoku-to-kunou-e.json](./350600-shinai-naru-kodoku-to-kunou-e.json) |
 | Shinban Arishia no Panse | 415278 | [415278-shinban-arishia-no-panse.json](./415278-shinban-arishia-no-panse.json) |
 | Shine of Fullmoon | 264148 | [264148-shine-of-fullmoon.json](./264148-shine-of-fullmoon.json) |
 | Shine On, My Little Sun | 320147 | [320147-shine-on-my-little-sun.json](./320147-shine-on-my-little-sun.json) |
@@ -10722,6 +10726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooked | 45325 | [45325-spooked.json](./45325-spooked.json) |
 | Spooker | 403027 | [403027-spooker.json](./403027-spooker.json) |
 | Spookie Dookie | 372669 | [372669-spookie-dookie.json](./372669-spookie-dookie.json) |
+| Spookitchen | 350595 | [350595-spookitchen.json](./350595-spookitchen.json) |
 | Spookity Hollow | 170549 | [170549-spookity-hollow.json](./170549-spookity-hollow.json) |
 | Spooklands | 61064 | [61064-spooklands.json](./61064-spooklands.json) |
 | Spookshow | 371956 | [371956-spookshow.json](./371956-spookshow.json) |
@@ -12368,6 +12373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | STCC: The Game | 10921 | [10921-stcc-the-game.json](./10921-stcc-the-game.json) |
 | Steadfast | 417535 | [417535-steadfast.json](./417535-steadfast.json) |
 | Steady, Steady, Steady! | 348254 | [348254-steady-steady-steady.json](./348254-steady-steady-steady.json) |
+| Steak Stacker | 350597 | [350597-steak-stacker.json](./350597-steak-stacker.json) |
 | Steal & Sell Simulator | 413173 | [413173-steal-and-sell-simulator.json](./413173-steal-and-sell-simulator.json) |
 | Steal a Monke | 370849 | [370849-steal-a-monke.json](./370849-steal-a-monke.json) |
 | Steal My Artificial Heart | 9516 | [9516-steal-my-artificial-heart.json](./9516-steal-my-artificial-heart.json) |
@@ -12551,6 +12557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Wound | 217310 | [217310-steel-wound.json](./217310-steel-wound.json) |
 | SteelBlade Shop Simulator | 382322 | [382322-steelblade-shop-simulator.json](./382322-steelblade-shop-simulator.json) |
 | Steelborn: Tank Idle RPG | 418517 | [418517-steelborn-tank-idle-rpg.json](./418517-steelborn-tank-idle-rpg.json) |
+| SteelFront | 350558 | [350558-steelfront.json](./350558-steelfront.json) |
 | Steelpaw | 124141 | [124141-steelpaw.json](./124141-steelpaw.json) |
 | SteelPinion | 192703 | [192703-steelpinion.json](./192703-steelpinion.json) |
 | SteelRacer | 250939 | [250939-steelracer.json](./250939-steelracer.json) |
@@ -16695,6 +16702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Berry Crush | 55444 | [55444-sweet-berry-crush.json](./55444-sweet-berry-crush.json) |
 | Sweet Cafe | 239881 | [239881-sweet-cafe.json](./239881-sweet-cafe.json) |
 | Sweet Cafe | 385252 | [385252-sweet-cafe.json](./385252-sweet-cafe.json) |
+| Sweet Calamity | 350587 | [350587-sweet-calamity.json](./350587-sweet-calamity.json) |
 | Sweet Camping | 368521 | [368521-sweet-camping.json](./368521-sweet-camping.json) |
 | Sweet Candy Mahjong | 31055 | [31055-sweet-candy-mahjong.json](./31055-sweet-candy-mahjong.json) |
 | Sweet Casino | 339470 | [339470-sweet-casino.json](./339470-sweet-casino.json) |
