@@ -1763,6 +1763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peaceful Fishing Story | 390502 | [390502-peaceful-fishing-story.json](./390502-peaceful-fishing-story.json) |
 | Peaceful Gunner | 153389 | [153389-peaceful-gunner.json](./153389-peaceful-gunner.json) |
 | Peacemaker: Bloody Emperor | 264665 | [264665-peacemaker-bloody-emperor.json](./264665-peacemaker-bloody-emperor.json) |
+| Peacemaker: Protect, Search & Destroy | 382364 | [382364-peacemaker-protect-search-and-destroy.json](./382364-peacemaker-protect-search-and-destroy.json) |
 | Peacequarium | 312707 | [312707-peacequarium.json](./312707-peacequarium.json) |
 | Peach Clicker | 312761 | [312761-peach-clicker.json](./312761-peach-clicker.json) |
 | Peach Territory | 378438 | [378438-peach-territory.json](./378438-peach-territory.json) |
@@ -5314,6 +5315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon/Grand Order | 330927 | [330927-pokemon-grand-order.json](./330927-pokemon-grand-order.json) |
 | Pokénet | 333548 | [333548-pokenet.json](./333548-pokenet.json) |
 | PokéPark: Fishing Rally DS | 94906 | [94906-pokepark-fishing-rally-ds.json](./94906-pokepark-fishing-rally-ds.json) |
+| PokéPath TD | 382382 | [382382-pokepath-td.json](./382382-pokepath-td.json) |
 | PokeQuest VR | 201764 | [201764-pokequest-vr.json](./201764-pokequest-vr.json) |
 | Poker | 366922 | [366922-poker.json](./366922-poker.json) |
 | Poker 1 | 86065 | [86065-poker-1.json](./86065-poker-1.json) |
@@ -6720,6 +6722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prism Crush | 372131 | [372131-prism-crush.json](./372131-prism-crush.json) |
 | Prism Hotel Murder Case: Super Mystery Wars - Episode Conan | 310012 | [310012-prism-hotel-murder-case-super-mystery-wars-episode-conan.json](./310012-prism-hotel-murder-case-super-mystery-wars-episode-conan.json) |
 | Prism Queen's Heroine | 83934 | [83934-prism-queens-heroine.json](./83934-prism-queens-heroine.json) |
+| Prism Wilds | 382404 | [382404-prism-wilds.json](./382404-prism-wilds.json) |
 | Prism: Light the Way | 20765 | [20765-prism-light-the-way.json](./20765-prism-light-the-way.json) |
 | Prism: Master Tape | 369236 | [369236-prism-master-tape.json](./369236-prism-master-tape.json) |
 | Prisma & the Masquerade Menace | 30907 | [30907-prisma-and-the-masquerade-menace.json](./30907-prisma-and-the-masquerade-menace.json) |
@@ -7285,6 +7288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Lumoria | 136481 | [136481-project-lumoria.json](./136481-project-lumoria.json) |
 | Project Luna | 220659 | [220659-project-luna.json](./220659-project-luna.json) |
 | Project M | 127155 | [127155-project-m.json](./127155-project-m.json) |
+| Project M | 382401 | [382401-project-m.json](./382401-project-m.json) |
 | Project M EX Remix | 202916 | [202916-project-m-ex-remix.json](./202916-project-m-ex-remix.json) |
 | Project MA | 317422 | [317422-project-ma.json](./317422-project-ma.json) |
 | Project Malice | 220660 | [220660-project-malice.json](./220660-project-malice.json) |
