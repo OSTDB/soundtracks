@@ -625,6 +625,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawaii Force: Liberty Line | 397876 | [397876-kawaii-force-liberty-line.json](./397876-kawaii-force-liberty-line.json) |
 | Kawaii Girls | 334088 | [334088-kawaii-girls.json](./334088-kawaii-girls.json) |
 | Kawaii Girls: Busty Bear | 378810 | [378810-kawaii-girls-busty-bear.json](./378810-kawaii-girls-busty-bear.json) |
+| Kawaii Girls: Mighty Mongolian | 370815 | [370815-kawaii-girls-mighty-mongolian.json](./370815-kawaii-girls-mighty-mongolian.json) |
+| Kawaii Girls: Pretty Mermaid | 370814 | [370814-kawaii-girls-pretty-mermaid.json](./370814-kawaii-girls-pretty-mermaid.json) |
 | Kawaii Girls: Rural Romance | 364079 | [364079-kawaii-girls-rural-romance.json](./364079-kawaii-girls-rural-romance.json) |
 | Kawaii Hentai Girls 2 | 203553 | [203553-kawaii-hentai-girls-2.json](./203553-kawaii-hentai-girls-2.json) |
 | Kawaii Islands | 176880 | [176880-kawaii-islands.json](./176880-kawaii-islands.json) |
@@ -1087,6 +1089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidou Senshi Gundam: Gihren no Yabou | 76598 | [76598-kidou-senshi-gundam-gihren-no-yabou.json](./76598-kidou-senshi-gundam-gihren-no-yabou.json) |
 | Kidou Senshi Gundam: Giren no Yabou - Tokubetsu-hen Aokisei no Hasha | 37367 | [37367-kidou-senshi-gundam-giren-no-yabou-tokubetsu-hen-aokisei-no-hasha.json](./37367-kidou-senshi-gundam-giren-no-yabou-tokubetsu-hen-aokisei-no-hasha.json) |
 | Kidou Senshi Gundam: Senjou No Kizuna Portable | 56744 | [56744-kidou-senshi-gundam-senjou-no-kizuna-portable.json](./56744-kidou-senshi-gundam-senjou-no-kizuna-portable.json) |
+| Kidou Shinsengumi: Moeyo Ken | 370867 | [370867-kidou-shinsengumi-moeyo-ken.json](./370867-kidou-shinsengumi-moeyo-ken.json) |
 | Kids | 95167 | [95167-kids.json](./95167-kids.json) |
 | Kids ABC and Counting Jigsaw Puzzles Pre school | 87151 | [87151-kids-abc-and-counting-jigsaw-puzzles-pre-school.json](./87151-kids-abc-and-counting-jigsaw-puzzles-pre-school.json) |
 | Kids Animal Slide Puzzle 15 Mystic squares game | 100315 | [100315-kids-animal-slide-puzzle-15-mystic-squares-game.json](./100315-kids-animal-slide-puzzle-15-mystic-squares-game.json) |
