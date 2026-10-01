@@ -230,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safe Journey | 175941 | [175941-safe-journey.json](./175941-safe-journey.json) |
 | Safe Place for Dust | 135743 | [135743-safe-place-for-dust.json](./135743-safe-place-for-dust.json) |
 | Safe Robber | 256283 | [256283-safe-robber.json](./256283-safe-robber.json) |
+| Safe Safe Revolution | 340597 | [340597-safe-safe-revolution.json](./340597-safe-safe-revolution.json) |
 | Safe Squares | 159833 | [159833-safe-squares.json](./159833-safe-squares.json) |
 | Safe Zone | 342744 | [342744-safe-zone.json](./342744-safe-zone.json) |
 | Safebreaker | 296373 | [296373-safebreaker.json](./296373-safebreaker.json) |
@@ -1783,6 +1784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screeps: World | 25903 | [25903-screeps-world.json](./25903-screeps-world.json) |
 | Screw Drivers | 305376 | [305376-screw-drivers.json](./305376-screw-drivers.json) |
 | Screw Loose | 40412 | [40412-screw-loose.json](./40412-screw-loose.json) |
+| Screw Master | 340523 | [340523-screw-master.json](./340523-screw-master.json) |
 | Screw Master 3D: Pin Puzzle | 328582 | [328582-screw-master-3d-pin-puzzle.json](./328582-screw-master-3d-pin-puzzle.json) |
 | Screw-Nut | 87970 | [87970-screw-nut.json](./87970-screw-nut.json) |
 | Screwdom 3D | 332430 | [332430-screwdom-3d.json](./332430-screwdom-3d.json) |
@@ -3510,6 +3512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shall we date?: Pirates Treasured Love in the Ocean | 225665 | [225665-shall-we-date-pirates-treasured-love-in-the-ocean.json](./225665-shall-we-date-pirates-treasured-love-in-the-ocean.json) |
 | Shall We Date?: War of Prayers - Inori no Otome | 225662 | [225662-shall-we-date-war-of-prayers-inori-no-otome.json](./225662-shall-we-date-war-of-prayers-inori-no-otome.json) |
 | Shall we date?: We the Girls | 225671 | [225671-shall-we-date-we-the-girls.json](./225671-shall-we-date-we-the-girls.json) |
+| Shallow Blue | 340599 | [340599-shallow-blue.json](./340599-shallow-blue.json) |
 | Shallow End | 293752 | [293752-shallow-end.json](./293752-shallow-end.json) |
 | Shallow Sea Roaming | 298187 | [298187-shallow-sea-roaming.json](./298187-shallow-sea-roaming.json) |
 | Shalnor Legends 2: Trials of Thunder | 232702 | [232702-shalnor-legends-2-trials-of-thunder.json](./232702-shalnor-legends-2-trials-of-thunder.json) |
@@ -16685,6 +16688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swampstar | 201177 | [201177-swampstar.json](./201177-swampstar.json) |
 | Swampstar | 201178 | [201178-swampstar.json](./201178-swampstar.json) |
 | Swan Hill | 177821 | [177821-swan-hill.json](./177821-swan-hill.json) |
+| Swan Princess Gator Escape | 340534 | [340534-swan-princess-gator-escape.json](./340534-swan-princess-gator-escape.json) |
 | Swan Song | 257090 | [257090-swan-song.json](./257090-swan-song.json) |
 | Swan's Song | 342283 | [342283-swans-song.json](./342283-swans-song.json) |
 | Swangman | 183366 | [183366-swangman.json](./183366-swangman.json) |
