@@ -921,6 +921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garfield Kart | 35467 | [35467-garfield-kart.json](./35467-garfield-kart.json) |
 | Garfield Kart 2: All You Can Drift | 345489 | [345489-garfield-kart-2-all-you-can-drift.json](./345489-garfield-kart-2-all-you-can-drift.json) |
 | Garfield Kart 2: All You Can Drift - Garfing Cosmeowtics | 387615 | [387615-garfield-kart-2-all-you-can-drift-garfing-cosmeowtics.json](./387615-garfield-kart-2-all-you-can-drift-garfing-cosmeowtics.json) |
+| Garfield Kart 2: All You Can Drift - Pack Lazy-nya | 356821 | [356821-garfield-kart-2-all-you-can-drift-pack-lazy-nya.json](./356821-garfield-kart-2-all-you-can-drift-pack-lazy-nya.json) |
 | Garfield Kart: Furious Racing | 121230 | [121230-garfield-kart-furious-racing.json](./121230-garfield-kart-furious-racing.json) |
 | Garfield Labyrinth | 153452 | [153452-garfield-labyrinth.json](./153452-garfield-labyrinth.json) |
 | Garfield Rush | 130887 | [130887-garfield-rush.json](./130887-garfield-rush.json) |
