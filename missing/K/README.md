@@ -475,6 +475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kari | 150497 | [150497-kari.json](./150497-kari.json) |
 | Kari Gurashi Ren'ai | 97347 | [97347-kari-gurashi-renai.json](./97347-kari-gurashi-renai.json) |
 | Karian Cross | 40212 | [40212-karian-cross.json](./40212-karian-cross.json) |
+| Karim and the 60 Thieves | 348905 | [348905-karim-and-the-60-thieves.json](./348905-karim-and-the-60-thieves.json) |
 | Karjala | 303606 | [303606-karjala.json](./303606-karjala.json) |
 | Karl Boom | 126519 | [126519-karl-boom.json](./126519-karl-boom.json) |
 | Karl Marx and the Ring of Communism | 217367 | [217367-karl-marx-and-the-ring-of-communism.json](./217367-karl-marx-and-the-ring-of-communism.json) |
