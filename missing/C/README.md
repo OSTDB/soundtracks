@@ -1008,6 +1008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carbon Warfare | 106128 | [106128-carbon-warfare.json](./106128-carbon-warfare.json) |
 | Carbonflesh | 224641 | [224641-carbonflesh.json](./224641-carbonflesh.json) |
 | Carbox | 317997 | [317997-carbox.json](./317997-carbox.json) |
+| Carcassonne | 370250 | [370250-carcassonne.json](./370250-carcassonne.json) |
 | Carcassonne: The Official Board Game - Inns & Cathedrals | 171018 | [171018-carcassonne-the-official-board-game-inns-and-cathedrals.json](./171018-carcassonne-the-official-board-game-inns-and-cathedrals.json) |
 | Carcassonne: The Official Board Game - The River | 157564 | [157564-carcassonne-the-official-board-game-the-river.json](./157564-carcassonne-the-official-board-game-the-river.json) |
 | Carcassonne: The Official Board Game - Traders & Builders | 227359 | [227359-carcassonne-the-official-board-game-traders-and-builders.json](./227359-carcassonne-the-official-board-game-traders-and-builders.json) |
@@ -1428,6 +1429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Case Files: The Death of Paulette Williams | 213024 | [213024-case-files-the-death-of-paulette-williams.json](./213024-case-files-the-death-of-paulette-williams.json) |
 | Case Guardians | 277963 | [277963-case-guardians.json](./277963-case-guardians.json) |
 | Case Kovacs: Agent 228 | 171467 | [171467-case-kovacs-agent-228.json](./171467-case-kovacs-agent-228.json) |
+| Case No.1: Rose Academy | 370266 | [370266-case-no-1-rose-academy.json](./370266-case-no-1-rose-academy.json) |
 | Case Solved: The London Files | 392811 | [392811-case-solved-the-london-files.json](./392811-case-solved-the-london-files.json) |
 | Casebook Trilogy: Special Edition | 67277 | [67277-casebook-trilogy-special-edition.json](./67277-casebook-trilogy-special-edition.json) |
 | Casebook: Episode 0 - The Missing Urn | 335437 | [335437-casebook-episode-0-the-missing-urn.json](./335437-casebook-episode-0-the-missing-urn.json) |
@@ -7048,6 +7050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmula | 306348 | [306348-cosmula.json](./306348-cosmula.json) |
 | Cosplay Convention Crisis | 102330 | [102330-cosplay-convention-crisis.json](./102330-cosplay-convention-crisis.json) |
 | Cosplay Crisis: Succubus Invasion | 309861 | [309861-cosplay-crisis-succubus-invasion.json](./309861-cosplay-crisis-succubus-invasion.json) |
+| Cosplay Fever!! | 370261 | [370261-cosplay-fever.json](./370261-cosplay-fever.json) |
 | Cosplay House | 275651 | [275651-cosplay-house.json](./275651-cosplay-house.json) |
 | Cosplay Labo: Nekomimi Nurse With Big Breast | 98026 | [98026-cosplay-labo-nekomimi-nurse-with-big-breast.json](./98026-cosplay-labo-nekomimi-nurse-with-big-breast.json) |
 | Cosplay Relaxation | 275137 | [275137-cosplay-relaxation.json](./275137-cosplay-relaxation.json) |
@@ -8846,6 +8849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Game | 137605 | [137605-cube-game.json](./137605-cube-game.json) |
 | Cube Gothic | 140359 | [140359-cube-gothic.json](./140359-cube-gothic.json) |
 | Cube Gravity | 182227 | [182227-cube-gravity.json](./182227-cube-gravity.json) |
+| Cube Hits Corner | 370280 | [370280-cube-hits-corner.json](./370280-cube-hits-corner.json) |
 | Cube Jump 3D | 152404 | [152404-cube-jump-3d.json](./152404-cube-jump-3d.json) |
 | Cube Jump Game | 402937 | [402937-cube-jump-game.json](./402937-cube-jump-game.json) |
 | Cube Jump Ultimate | 290467 | [290467-cube-jump-ultimate.json](./290467-cube-jump-ultimate.json) |
