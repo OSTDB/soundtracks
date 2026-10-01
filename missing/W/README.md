@@ -1625,6 +1625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome To... Chichester OVN: Omnibus Edition | 248334 | [248334-welcome-to-chichester-ovn-omnibus-edition.json](./248334-welcome-to-chichester-ovn-omnibus-edition.json) |
 | Welcome, [Employee Name] | 402286 | [402286-welcome-employee-name.json](./402286-welcome-employee-name.json) |
 | Welcome, Sharehouse! | 347369 | [347369-welcome-sharehouse.json](./347369-welcome-sharehouse.json) |
+| Welcome! Uninvited Guest | 338859 | [338859-welcome-uninvited-guest.json](./338859-welcome-uninvited-guest.json) |
 | Weldon | 175888 | [175888-weldon.json](./175888-weldon.json) |
 | Welehola | 378355 | [378355-welehola.json](./378355-welehola.json) |
 | Welkin Road | 18684 | [18684-welkin-road.json](./18684-welkin-road.json) |
