@@ -2771,6 +2771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kukoo Kitchen | 112349 | [112349-kukoo-kitchen.json](./112349-kukoo-kitchen.json) |
 | Kukuevo | 280764 | [280764-kukuevo.json](./280764-kukuevo.json) |
 | Kukui 2 | 140011 | [140011-kukui-2.json](./140011-kukui-2.json) |
+| Kukulu | 385281 | [385281-kukulu.json](./385281-kukulu.json) |
 | Kukumushi Virtual Pet | 189134 | [189134-kukumushi-virtual-pet.json](./189134-kukumushi-virtual-pet.json) |
 | Kuky Adventure | 388286 | [388286-kuky-adventure.json](./388286-kuky-adventure.json) |
 | Kula | 164992 | [164992-kula.json](./164992-kula.json) |
