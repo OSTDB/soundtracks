@@ -2670,6 +2670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauty or the Beast | 165517 | [165517-beauty-or-the-beast.json](./165517-beauty-or-the-beast.json) |
 | Beauty Showdown: Awakening | 273088 | [273088-beauty-showdown-awakening.json](./273088-beauty-showdown-awakening.json) |
 | Beauty vs. Zombie | 309844 | [309844-beauty-vs-zombie.json](./309844-beauty-vs-zombie.json) |
+| Beaux-Arts | 372623 | [372623-beaux-arts.json](./372623-beaux-arts.json) |
 | Beaver Creek | 360060 | [360060-beaver-creek.json](./360060-beaver-creek.json) |
 | Beaver Fun | 216355 | [216355-beaver-fun.json](./216355-beaver-fun.json) |
 | Beaver Fun River Run: Steam Edition | 162715 | [162715-beaver-fun-river-run-steam-edition.json](./162715-beaver-fun-river-run-steam-edition.json) |
@@ -5985,6 +5986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonely Hearts Club | 411802 | [411802-bonely-hearts-club.json](./411802-bonely-hearts-club.json) |
 | Bonerdale | 221762 | [221762-bonerdale.json](./221762-bonerdale.json) |
 | Bonereader | 397769 | [397769-bonereader.json](./397769-bonereader.json) |
+| Bones | 372636 | [372636-bones.json](./372636-bones.json) |
 | Bones 'n' Bullets | 118303 | [118303-bones-n-bullets.json](./118303-bones-n-bullets.json) |
 | Bones in the Boneyard | 319339 | [319339-bones-in-the-boneyard.json](./319339-bones-in-the-boneyard.json) |
 | Bones of the Earth | 362880 | [362880-bones-of-the-earth.json](./362880-bones-of-the-earth.json) |
@@ -7178,6 +7180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breeze in the Clouds | 198220 | [198220-breeze-in-the-clouds.json](./198220-breeze-in-the-clouds.json) |
 | Breeze of Ashes | 332251 | [332251-breeze-of-ashes.json](./332251-breeze-of-ashes.json) |
 | Breeze of Passion | 358979 | [358979-breeze-of-passion.json](./358979-breeze-of-passion.json) |
+| Breezy Bakes Simulator | 372596 | [372596-breezy-bakes-simulator.json](./372596-breezy-bakes-simulator.json) |
 | Breezy Paws | 274735 | [274735-breezy-paws.json](./274735-breezy-paws.json) |
 | Brelok: Nezumi-tachi no Dasshutsu | 330509 | [330509-brelok-nezumi-tachi-no-dasshutsu.json](./330509-brelok-nezumi-tachi-no-dasshutsu.json) |
 | Brendan Keogh's Putting Land | 329908 | [329908-brendan-keoghs-putting-land.json](./329908-brendan-keoghs-putting-land.json) |
