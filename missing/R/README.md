@@ -1278,6 +1278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re: Aetatis | 174769 | [174769-re-aetatis.json](./174769-re-aetatis.json) |
 | RE: Castle Defense | 130367 | [130367-re-castle-defense.json](./130367-re-castle-defense.json) |
 | Re: Danganronpa Refresh Retreat | 304349 | [304349-re-danganronpa-refresh-retreat.json](./304349-re-danganronpa-refresh-retreat.json) |
+| Re: Gals Panic 2 | 348933 | [348933-re-gals-panic-2.json](./348933-re-gals-panic-2.json) |
 | Re: LieF ~Shin'ainaru Anata e~ | 144956 | [144956-re-lief-shinainaru-anata-e.json](./144956-re-lief-shinainaru-anata-e.json) |
 | Re: My Dear Sister | 368648 | [368648-re-my-dear-sister.json](./368648-re-my-dear-sister.json) |
 | Re: Pian | 368035 | [368035-re-pian.json](./368035-re-pian.json) |
@@ -1753,6 +1754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Record of Battle 3D Maiden Wars | 166209 | [166209-record-of-battle-3d-maiden-wars.json](./166209-record-of-battle-3d-maiden-wars.json) |
 | Record of Lodoss War | 81386 | [81386-record-of-lodoss-war.json](./81386-record-of-lodoss-war.json) |
 | Record of Lodoss War II | 66140 | [66140-record-of-lodoss-war-ii.json](./66140-record-of-lodoss-war-ii.json) |
+| Record Rewind Repeat | 348903 | [348903-record-rewind-repeat.json](./348903-record-rewind-repeat.json) |
 | Record Run | 61703 | [61703-record-run.json](./61703-record-run.json) |
 | Record Scratch Fever | 183528 | [183528-record-scratch-fever.json](./183528-record-scratch-fever.json) |
 | Record Store Nightmare | 68660 | [68660-record-store-nightmare.json](./68660-record-store-nightmare.json) |
@@ -1791,6 +1793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recycle Master | 300851 | [300851-recycle-master.json](./300851-recycle-master.json) |
 | Recycle Shop Eco | 415993 | [415993-recycle-shop-eco.json](./415993-recycle-shop-eco.json) |
 | Recycler's Terminal | 116327 | [116327-recyclers-terminal.json](./116327-recyclers-terminal.json) |
+| Recyclic | 348888 | [348888-recyclic.json](./348888-recyclic.json) |
 | Red | 196139 | [196139-red.json](./196139-red.json) |
 | Red | 29948 | [29948-red.json](./29948-red.json) |
 | Red | 75084 | [75084-red.json](./75084-red.json) |
