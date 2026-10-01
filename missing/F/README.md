@@ -315,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairies Coloring Book + | 88278 | [88278-fairies-coloring-book.json](./88278-fairies-coloring-book.json) |
 | Fairies Praying To Heaven 2: Great Devil's Return Match | 285541 | [285541-fairies-praying-to-heaven-2-great-devils-return-match.json](./285541-fairies-praying-to-heaven-2-great-devils-return-match.json) |
 | Fairlight: A Prelude | 40962 | [40962-fairlight-a-prelude.json](./40962-fairlight-a-prelude.json) |
+| Fairune | 386353 | [386353-fairune.json](./386353-fairune.json) |
 | Fairune 2 | 57297 | [57297-fairune-2.json](./57297-fairune-2.json) |
 | Fairune: Fragment Isles | 276195 | [276195-fairune-fragment-isles.json](./276195-fairune-fragment-isles.json) |
 | Fairvalley VR | 116401 | [116401-fairvalley-vr.json](./116401-fairvalley-vr.json) |
@@ -6416,6 +6417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fushigi Yuugi DS | 68021 | [68021-fushigi-yuugi-ds.json](./68021-fushigi-yuugi-ds.json) |
 | Fushigi Yuugi Genbu Kaiden Gaiden: Kagami no Miko | 62179 | [62179-fushigi-yuugi-genbu-kaiden-gaiden-kagami-no-miko.json](./62179-fushigi-yuugi-genbu-kaiden-gaiden-kagami-no-miko.json) |
 | Fushigi Yuugi Suzaku Ibun | 62178 | [62178-fushigi-yuugi-suzaku-ibun.json](./62178-fushigi-yuugi-suzaku-ibun.json) |
+| Fusil | 386347 | [386347-fusil.json](./386347-fusil.json) |
 | Fusillade | 264570 | [264570-fusillade.json](./264570-fusillade.json) |
 | Fusing Noracam | 267090 | [267090-fusing-noracam.json](./267090-fusing-noracam.json) |
 | Fusion | 158712 | [158712-fusion.json](./158712-fusion.json) |
