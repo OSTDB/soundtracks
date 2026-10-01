@@ -1525,6 +1525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart Of Nadia | 288236 | [288236-heart-of-nadia.json](./288236-heart-of-nadia.json) |
 | Heart of Saphilamun | 230220 | [230220-heart-of-saphilamun.json](./230220-heart-of-saphilamun.json) |
 | Heart of Summer | 158569 | [158569-heart-of-summer.json](./158569-heart-of-summer.json) |
+| Heart of the Alien | 343417 | [343417-heart-of-the-alien.json](./343417-heart-of-the-alien.json) |
 | Heart of the Dragon | 74048 | [74048-heart-of-the-dragon.json](./74048-heart-of-the-dragon.json) |
 | Heart of the Emberstone: Coliseum | 81767 | [81767-heart-of-the-emberstone-coliseum.json](./81767-heart-of-the-emberstone-coliseum.json) |
 | Heart of the Hedgehog | 330288 | [330288-heart-of-the-hedgehog.json](./330288-heart-of-the-hedgehog.json) |
