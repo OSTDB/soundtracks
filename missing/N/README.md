@@ -1132,6 +1132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeoCube | 55482 | [55482-neocube.json](./55482-neocube.json) |
 | Neodarlo | 380655 | [380655-neodarlo.json](./380655-neodarlo.json) |
 | Neodash | 148497 | [148497-neodash.json](./148497-neodash.json) |
+| Neoditronix | 376666 | [376666-neoditronix.json](./376666-neoditronix.json) |
 | Neodori Infinity | 330285 | [330285-neodori-infinity.json](./330285-neodori-infinity.json) |
 | NeoFables | 330552 | [330552-neofables.json](./330552-neofables.json) |
 | Neofeud 2 | 397714 | [397714-neofeud-2.json](./397714-neofeud-2.json) |
@@ -2473,6 +2474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Gaiden: Hurricane Pack I | 215249 | [215249-ninja-gaiden-hurricane-pack-i.json](./215249-ninja-gaiden-hurricane-pack-i.json) |
 | Ninja Gaiden: Master Collection | 143619 | [143619-ninja-gaiden-master-collection.json](./143619-ninja-gaiden-master-collection.json) |
 | Ninja Gaiden: Master Collection - Version D | 222501 | [222501-ninja-gaiden-master-collection-version-d.json](./222501-ninja-gaiden-master-collection-version-d.json) |
+| Ninja Game | 376639 | [376639-ninja-game.json](./376639-ninja-game.json) |
 | Ninja Games | 360175 | [360175-ninja-games.json](./360175-ninja-games.json) |
 | Ninja Gardening Simulator | 281531 | [281531-ninja-gardening-simulator.json](./281531-ninja-gardening-simulator.json) |
 | Ninja Gear | 322583 | [322583-ninja-gear.json](./322583-ninja-gear.json) |
