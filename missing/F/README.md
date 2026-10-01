@@ -218,6 +218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factor Find | 243637 | [243637-factor-find.json](./243637-factor-find.json) |
 | Factor Zoo | 413187 | [413187-factor-zoo.json](./413187-factor-zoo.json) |
 | Factor72 | 318540 | [318540-factor72.json](./318540-factor72.json) |
+| Factoriant | 376019 | [376019-factoriant.json](./376019-factoriant.json) |
 | Factories of Golden Waters | 276248 | [276248-factories-of-golden-waters.json](./276248-factories-of-golden-waters.json) |
 | Factorio: IR3 | 326052 | [326052-factorio-ir3.json](./326052-factorio-ir3.json) |
 | Factorio: Nullius | 326049 | [326049-factorio-nullius.json](./326049-factorio-nullius.json) |
@@ -1564,6 +1565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fateweaver: The Alchemist's Quandary | 236930 | [236930-fateweaver-the-alchemists-quandary.json](./236930-fateweaver-the-alchemists-quandary.json) |
 | Fathammer Classics Pack | 70439 | [70439-fathammer-classics-pack.json](./70439-fathammer-classics-pack.json) |
 | Father and Son | 97361 | [97361-father-and-son.json](./97361-father-and-son.json) |
+| Father Figure | 376029 | [376029-father-figure.json](./376029-father-figure.json) |
 | Father's Day | 213858 | [213858-fathers-day.json](./213858-fathers-day.json) |
 | Father's Island | 33072 | [33072-fathers-island.json](./33072-fathers-island.json) |
 | Fathers Farm | 377851 | [377851-fathers-farm.json](./377851-fathers-farm.json) |
@@ -2405,6 +2407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XIV: Endwalker | 143232 | [143232-final-fantasy-xiv-endwalker.json](./143232-final-fantasy-xiv-endwalker.json) |
 | Final Fantasy XIV: Endwalker - Collector's Edition | 152343 | [152343-final-fantasy-xiv-endwalker-collectors-edition.json](./152343-final-fantasy-xiv-endwalker-collectors-edition.json) |
 | Final Fantasy XIV: Heavensward - Collector's Edition | 51532 | [51532-final-fantasy-xiv-heavensward-collectors-edition.json](./51532-final-fantasy-xiv-heavensward-collectors-edition.json) |
+| Final Fantasy XIV: Into the Mist | 376015 | [376015-final-fantasy-xiv-into-the-mist.json](./376015-final-fantasy-xiv-into-the-mist.json) |
 | Final Fantasy XIV: Stormblood | 26625 | [26625-final-fantasy-xiv-stormblood.json](./26625-final-fantasy-xiv-stormblood.json) |
 | Final Fantasy XIV: The Dark Throne | 246956 | [246956-final-fantasy-xiv-the-dark-throne.json](./246956-final-fantasy-xiv-the-dark-throne.json) |
 | Final Fantasy XV Mobile | 129157 | [129157-final-fantasy-xv-mobile.json](./129157-final-fantasy-xv-mobile.json) |
@@ -3425,6 +3428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Box | 285478 | [285478-flappy-box.json](./285478-flappy-box.json) |
 | Flappy Camel | 283767 | [283767-flappy-camel.json](./283767-flappy-camel.json) |
 | Flappy Cato | 413158 | [413158-flappy-cato.json](./413158-flappy-cato.json) |
+| Flappy Coq | 376044 | [376044-flappy-coq.json](./376044-flappy-coq.json) |
 | Flappy Cube | 179195 | [179195-flappy-cube.json](./179195-flappy-cube.json) |
 | Flappy Daft Punk | 231468 | [231468-flappy-daft-punk.json](./231468-flappy-daft-punk.json) |
 | Flappy Defense | 60041 | [60041-flappy-defense.json](./60041-flappy-defense.json) |
@@ -4421,6 +4425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Me | 396500 | [396500-for-me.json](./396500-for-me.json) |
 | For My Babies | 270770 | [270770-for-my-babies.json](./270770-for-my-babies.json) |
 | For My Babies 8 | 271246 | [271246-for-my-babies-8.json](./271246-for-my-babies-8.json) |
+| For Old Time's Sake | 376035 | [376035-for-old-times-sake.json](./376035-for-old-times-sake.json) |
 | For Political Lovers, a Little Utopia Sketch | 128612 | [128612-for-political-lovers-a-little-utopia-sketch.json](./128612-for-political-lovers-a-little-utopia-sketch.json) |
 | For Rent: Haunted House | 83600 | [83600-for-rent-haunted-house.json](./83600-for-rent-haunted-house.json) |
 | For Runner Night | 195720 | [195720-for-runner-night.json](./195720-for-runner-night.json) |
