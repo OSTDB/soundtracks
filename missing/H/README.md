@@ -583,6 +583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hands Over | 403826 | [403826-hands-over.json](./403826-hands-over.json) |
 | Hands up | 395149 | [395149-hands-up.json](./395149-hands-up.json) |
 | Handshakes: Hands On | 233010 | [233010-handshakes-hands-on.json](./233010-handshakes-hands-on.json) |
+| Handsome Laundering: The Mystic Lover | 385263 | [385263-handsome-laundering-the-mystic-lover.json](./385263-handsome-laundering-the-mystic-lover.json) |
 | Handsome Mr. Frog | 31905 | [31905-handsome-mr-frog.json](./31905-handsome-mr-frog.json) |
 | HandsON | 158232 | [158232-handson.json](./158232-handson.json) |
 | Handwalk | 402355 | [402355-handwalk.json](./402355-handwalk.json) |
@@ -2201,6 +2202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Academy: Extended Edition | 317253 | [317253-hentai-academy-extended-edition.json](./317253-hentai-academy-extended-edition.json) |
 | Hentai Academy: Ultimate Edition | 315863 | [315863-hentai-academy-ultimate-edition.json](./315863-hentai-academy-ultimate-edition.json) |
 | Hentai Age Airport | 411064 | [411064-hentai-age-airport.json](./411064-hentai-age-airport.json) |
+| Hentai Age Hospital | 385272 | [385272-hentai-age-hospital.json](./385272-hentai-age-hospital.json) |
 | Hentai Ahegao | 111270 | [111270-hentai-ahegao.json](./111270-hentai-ahegao.json) |
 | Hentai Aim Practice | 219832 | [219832-hentai-aim-practice.json](./219832-hentai-aim-practice.json) |
 | Hentai Akari | 312719 | [312719-hentai-akari.json](./312719-hentai-akari.json) |
@@ -5992,6 +5994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypnofantasis | 276228 | [276228-hypnofantasis.json](./276228-hypnofantasis.json) |
 | HypnoQuest: Do as you please with MC Power | 82779 | [82779-hypnoquest-do-as-you-please-with-mc-power.json](./82779-hypnoquest-do-as-you-please-with-mc-power.json) |
 | Hypnorynth | 323294 | [323294-hypnorynth.json](./323294-hypnorynth.json) |
+| Hypnos | 385283 | [385283-hypnos.json](./385283-hypnos.json) |
 | Hypnosis Card 2 | 296917 | [296917-hypnosis-card-2.json](./296917-hypnosis-card-2.json) |
 | Hypnosis Done Braves | 82926 | [82926-hypnosis-done-braves.json](./82926-hypnosis-done-braves.json) |
 | Hypnosis Microphone: Alternative Rap Battle | 132016 | [132016-hypnosis-microphone-alternative-rap-battle.json](./132016-hypnosis-microphone-alternative-rap-battle.json) |
