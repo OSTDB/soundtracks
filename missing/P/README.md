@@ -946,6 +946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Para-sol | 309651 | [309651-para-sol.json](./309651-para-sol.json) |
 | Para//ax | 186170 | [186170-para-ax.json](./186170-para-ax.json) |
 | Para//Llax | 413226 | [413226-para-llax.json](./413226-para-llax.json) |
+| Parable Academy | 346708 | [346708-parable-academy.json](./346708-parable-academy.json) |
 | Parables of the Set Apart: The Pursuit of Wisdom | 387530 | [387530-parables-of-the-set-apart-the-pursuit-of-wisdom.json](./387530-parables-of-the-set-apart-the-pursuit-of-wisdom.json) |
 | Paracelsus no Maken | 112517 | [112517-paracelsus-no-maken.json](./112517-paracelsus-no-maken.json) |
 | Parachute 22 | 205098 | [205098-parachute-22.json](./205098-parachute-22.json) |
@@ -1919,6 +1920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peggy's Post | 365093 | [365093-peggys-post.json](./365093-peggys-post.json) |
 | Peglin | 133512 | [133512-peglin.json](./133512-peglin.json) |
 | Pegs of Hell | 416008 | [416008-pegs-of-hell.json](./416008-pegs-of-hell.json) |
+| Pegshot: Vendetta | 346743 | [346743-pegshot-vendetta.json](./346743-pegshot-vendetta.json) |
 | Pegture | 389722 | [389722-pegture.json](./389722-pegture.json) |
 | Pegzo | 78073 | [78073-pegzo.json](./78073-pegzo.json) |
 | Peh Pai | 91361 | [91361-peh-pai.json](./91361-peh-pai.json) |
@@ -2782,6 +2784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photobound | 181164 | [181164-photobound.json](./181164-photobound.json) |
 | Photogeist | 307693 | [307693-photogeist.json](./307693-photogeist.json) |
 | Photogeist Albums: Case 1 | 307337 | [307337-photogeist-albums-case-1.json](./307337-photogeist-albums-case-1.json) |
+| Photographer's Life Simulator | 346716 | [346716-photographers-life-simulator.json](./346716-photographers-life-simulator.json) |
 | PhotoLoop | 361811 | [361811-photoloop.json](./361811-photoloop.json) |
 | Photomount | 384653 | [384653-photomount.json](./384653-photomount.json) |
 | Photon Blade | 404979 | [404979-photon-blade.json](./404979-photon-blade.json) |
