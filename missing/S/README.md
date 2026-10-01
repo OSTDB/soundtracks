@@ -1946,6 +1946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Dawn | 167674 | [167674-sea-of-dawn.json](./167674-sea-of-dawn.json) |
 | Sea of Dreamland | 48322 | [48322-sea-of-dreamland.json](./48322-sea-of-dreamland.json) |
 | Sea of Dreams | 195487 | [195487-sea-of-dreams.json](./195487-sea-of-dreams.json) |
+| Sea of Dreams Survivors | 335402 | [335402-sea-of-dreams-survivors.json](./335402-sea-of-dreams-survivors.json) |
 | Sea of Giants: Monument Island | 96046 | [96046-sea-of-giants-monument-island.json](./96046-sea-of-giants-monument-island.json) |
 | Sea of Intrigue | 395800 | [395800-sea-of-intrigue.json](./395800-sea-of-intrigue.json) |
 | Sea of Lies: Burning Coast | 98434 | [98434-sea-of-lies-burning-coast.json](./98434-sea-of-lies-burning-coast.json) |
@@ -7547,6 +7548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So Much Stuff 2: Collector's Edition | 290425 | [290425-so-much-stuff-2-collectors-edition.json](./290425-so-much-stuff-2-collectors-edition.json) |
 | So Much Stuff 3: Odds & Ends | 257896 | [257896-so-much-stuff-3-odds-and-ends.json](./257896-so-much-stuff-3-odds-and-ends.json) |
 | So Much Stuff 5: Mix-Knacks | 336631 | [336631-so-much-stuff-5-mix-knacks.json](./336631-so-much-stuff-5-mix-knacks.json) |
+| So Much Stuff 5: Mix-Knacks - Collector's Edition | 335511 | [335511-so-much-stuff-5-mix-knacks-collectors-edition.json](./335511-so-much-stuff-5-mix-knacks-collectors-edition.json) |
 | So Much Stuff: Collector's Edition | 251596 | [251596-so-much-stuff-collectors-edition.json](./251596-so-much-stuff-collectors-edition.json) |
 | So Obscure; | 178534 | [178534-so-obscure.json](./178534-so-obscure.json) |
 | So Quirky! Puzzle Escape Game | 399789 | [399789-so-quirky-puzzle-escape-game.json](./399789-so-quirky-puzzle-escape-game.json) |
@@ -8111,6 +8113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Something Left | 369224 | [369224-something-left.json](./369224-something-left.json) |
 | Something Meaningful | 381613 | [381613-something-meaningful.json](./381613-something-meaningful.json) |
 | Something Special: Zoe's American Adventure | 208871 | [208871-something-special-zoes-american-adventure.json](./208871-something-special-zoes-american-adventure.json) |
+| Something Strange has Come Over God's Country Tonight | 335515 | [335515-something-strange-has-come-over-gods-country-tonight.json](./335515-something-strange-has-come-over-gods-country-tonight.json) |
 | Something Strange in the Woods | 149531 | [149531-something-strange-in-the-woods.json](./149531-something-strange-in-the-woods.json) |
 | Something That Shouldn't Be There Is Visible. | 410371 | [410371-something-that-shouldnt-be-there-is-visible.json](./410371-something-that-shouldnt-be-there-is-visible.json) |
 | Something To Write About: Unbroken - Book One | 336066 | [336066-something-to-write-about-unbroken-book-one.json](./336066-something-to-write-about-unbroken-book-one.json) |
@@ -9922,6 +9925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spartacus: Blood and Sand | 66648 | [66648-spartacus-blood-and-sand.json](./66648-spartacus-blood-and-sand.json) |
 | Spartaga | 51853 | [51853-spartaga.json](./51853-spartaga.json) |
 | Spartan Runner | 96223 | [96223-spartan-runner.json](./96223-spartan-runner.json) |
+| Spartan Survivors | 335403 | [335403-spartan-survivors.json](./335403-spartan-survivors.json) |
 | Spartan Wars | 256253 | [256253-spartan-wars.json](./256253-spartan-wars.json) |
 | Spartan Wars: Blood and Fire | 323185 | [323185-spartan-wars-blood-and-fire.json](./323185-spartan-wars-blood-and-fire.json) |
 | Spartan X | 214467 | [214467-spartan-x.json](./214467-spartan-x.json) |
