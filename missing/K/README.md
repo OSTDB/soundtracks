@@ -2531,6 +2531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konpeki no Kantai 2 Advance | 91759 | [91759-konpeki-no-kantai-2-advance.json](./91759-konpeki-no-kantai-2-advance.json) |
 | Konpeki no Kantai 2 Perfect | 91761 | [91761-konpeki-no-kantai-2-perfect.json](./91761-konpeki-no-kantai-2-perfect.json) |
 | Konrad's Kittens | 31830 | [31830-konrads-kittens.json](./31830-konrads-kittens.json) |
+| Konran;Zanki | 353452 | [353452-konran-zanki.json](./353452-konran-zanki.json) |
 | Konsui Fighter | 105555 | [105555-konsui-fighter.json](./105555-konsui-fighter.json) |
 | Kontra | 238396 | [238396-kontra.json](./238396-kontra.json) |
 | Kook | 245829 | [245829-kook.json](./245829-kook.json) |
