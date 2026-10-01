@@ -856,6 +856,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Tsubasa Zero: Miracle Shot | 124759 | [124759-captain-tsubasa-zero-miracle-shot.json](./124759-captain-tsubasa-zero-miracle-shot.json) |
 | Captain Tsubasa: Dream Team | 76738 | [76738-captain-tsubasa-dream-team.json](./76738-captain-tsubasa-dream-team.json) |
 | Captain Tsubasa: Eikou no Kiseki | 49521 | [49521-captain-tsubasa-eikou-no-kiseki.json](./49521-captain-tsubasa-eikou-no-kiseki.json) |
+| Captain Tsubasa: Moeyo! Drive Shoot | 385801 | [385801-captain-tsubasa-moeyo-drive-shoot.json](./385801-captain-tsubasa-moeyo-drive-shoot.json) |
+| Captain Tsubasa: No. 1 Striker | 385802 | [385802-captain-tsubasa-no-1-striker.json](./385802-captain-tsubasa-no-1-striker.json) |
 | Captain Tsubasa: Rise of New Champions - Deluxe Month 1 Edition | 139942 | [139942-captain-tsubasa-rise-of-new-champions-deluxe-month-1-edition.json](./139942-captain-tsubasa-rise-of-new-champions-deluxe-month-1-edition.json) |
 | Captain Tsubasa: Rise of New Champions - Juan Diaz Mission | 214543 | [214543-captain-tsubasa-rise-of-new-champions-juan-diaz-mission.json](./214543-captain-tsubasa-rise-of-new-champions-juan-diaz-mission.json) |
 | Captain Tsubasa: Rise of New Champions - Tachibana Brothers Mission | 214542 | [214542-captain-tsubasa-rise-of-new-champions-tachibana-brothers-mission.json](./214542-captain-tsubasa-rise-of-new-champions-tachibana-brothers-mission.json) |
@@ -7631,6 +7633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Driver | 119479 | [119479-crazy-driver.json](./119479-crazy-driver.json) |
 | Crazy Economy Craft | 71047 | [71047-crazy-economy-craft.json](./71047-crazy-economy-craft.json) |
 | Crazy Eights | 70353 | [70353-crazy-eights.json](./70353-crazy-eights.json) |
+| Crazy Empress | 385798 | [385798-crazy-empress.json](./385798-crazy-empress.json) |
 | Crazy Er-Bert | 354650 | [354650-crazy-er-bert.json](./354650-crazy-er-bert.json) |
 | Crazy Estate | 200042 | [200042-crazy-estate.json](./200042-crazy-estate.json) |
 | Crazy Factory | 24070 | [24070-crazy-factory.json](./24070-crazy-factory.json) |
