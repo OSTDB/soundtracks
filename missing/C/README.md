@@ -1179,6 +1179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cargo-Bot | 318204 | [318204-cargo-bot.json](./318204-cargo-bot.json) |
 | Cargo, Please! | 395719 | [395719-cargo-please.json](./395719-cargo-please.json) |
 | Cargogo | 351260 | [351260-cargogo.json](./351260-cargogo.json) |
+| Cargor | 382415 | [382415-cargor.json](./382415-cargor.json) |
 | CargoRun | 237328 | [237328-cargorun.json](./237328-cargorun.json) |
 | Caribbean Disaster | 74056 | [74056-caribbean-disaster.json](./74056-caribbean-disaster.json) |
 | Caribbean Rhythms Lite | 232151 | [232151-caribbean-rhythms-lite.json](./232151-caribbean-rhythms-lite.json) |
@@ -2658,6 +2659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Caves | 113680 | [113680-chaos-caves.json](./113680-chaos-caves.json) |
 | Chaos Chronicle | 57893 | [57893-chaos-chronicle.json](./57893-chaos-chronicle.json) |
 | Chaos Chronicles | 63923 | [63923-chaos-chronicles.json](./63923-chaos-chronicles.json) |
+| Chaos Claw | 382409 | [382409-chaos-claw.json](./382409-chaos-claw.json) |
 | Chaos Code | 78605 | [78605-chaos-code.json](./78605-chaos-code.json) |
 | Chaos Code: Exact Xeno Attack | 348232 | [348232-chaos-code-exact-xeno-attack.json](./348232-chaos-code-exact-xeno-attack.json) |
 | Chaos Code: New Sign of Catastrophe | 27718 | [27718-chaos-code-new-sign-of-catastrophe.json](./27718-chaos-code-new-sign-of-catastrophe.json) |
@@ -5693,6 +5695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comanche: Maximum Overkill - Mission Disk 1 | 94240 | [94240-comanche-maximum-overkill-mission-disk-1.json](./94240-comanche-maximum-overkill-mission-disk-1.json) |
 | Comando Rio | 297097 | [297097-comando-rio.json](./297097-comando-rio.json) |
 | Comando Tracer | 138800 | [138800-comando-tracer.json](./138800-comando-tracer.json) |
+| Comanomaly | 382375 | [382375-comanomaly.json](./382375-comanomaly.json) |
 | Comatose | 369778 | [369778-comatose.json](./369778-comatose.json) |
 | Combat | 131545 | [131545-combat.json](./131545-combat.json) |
 | Combat | 300791 | [300791-combat.json](./300791-combat.json) |
@@ -9051,6 +9054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curro | 200468 | [200468-curro.json](./200468-curro.json) |
 | Curro Jimenez | 272298 | [272298-curro-jimenez.json](./272298-curro-jimenez.json) |
 | CurryKitten FPV Simulator | 169443 | [169443-currykitten-fpv-simulator.json](./169443-currykitten-fpv-simulator.json) |
+| Curse Chapter: Dawnthief | 382365 | [382365-curse-chapter-dawnthief.json](./382365-curse-chapter-dawnthief.json) |
 | Curse in our heads | 103452 | [103452-curse-in-our-heads.json](./103452-curse-in-our-heads.json) |
 | Curse of Anabelle | 122826 | [122826-curse-of-anabelle.json](./122826-curse-of-anabelle.json) |
 | Curse of Blood | 312893 | [312893-curse-of-blood.json](./312893-curse-of-blood.json) |
@@ -9494,8 +9498,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberside Picnic | 252249 | [252249-cyberside-picnic.json](./252249-cyberside-picnic.json) |
 | CyberSkyscrUpper | 265770 | [265770-cyberskyscrupper.json](./265770-cyberskyscrupper.json) |
 | Cybersonic Strike | 258538 | [258538-cybersonic-strike.json](./258538-cybersonic-strike.json) |
+| Cybersoul | 382405 | [382405-cybersoul.json](./382405-cybersoul.json) |
 | Cybersoul: Cosmic Resonance | 385864 | [385864-cybersoul-cosmic-resonance.json](./385864-cybersoul-cosmic-resonance.json) |
 | Cybersoul: Digital Sorcery | 382960 | [382960-cybersoul-digital-sorcery.json](./382960-cybersoul-digital-sorcery.json) |
+| Cybersoul: Retribution Protocol | 382406 | [382406-cybersoul-retribution-protocol.json](./382406-cybersoul-retribution-protocol.json) |
 | CyberSpace Crossword Puzzle | 83450 | [83450-cyberspace-crossword-puzzle.json](./83450-cyberspace-crossword-puzzle.json) |
 | Cyberspace VR | 160145 | [160145-cyberspace-vr.json](./160145-cyberspace-vr.json) |
 | Cybersphere | 228696 | [228696-cybersphere.json](./228696-cybersphere.json) |
