@@ -1318,7 +1318,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 22: Volvo LM 845 | 228402 | [228402-farming-simulator-22-volvo-lm-845.json](./228402-farming-simulator-22-volvo-lm-845.json) |
 | Farming Simulator 23 Mobile | 250936 | [250936-farming-simulator-23-mobile.json](./250936-farming-simulator-23-mobile.json) |
 | Farming Simulator 25 | 306822 | [306822-farming-simulator-25.json](./306822-farming-simulator-25.json) |
+| Farming Simulator 25: Highlands Fishing Edition | 352917 | [352917-farming-simulator-25-highlands-fishing-edition.json](./352917-farming-simulator-25-highlands-fishing-edition.json) |
+| Farming Simulator 25: Highlands Fishing Expansion | 352887 | [352887-farming-simulator-25-highlands-fishing-expansion.json](./352887-farming-simulator-25-highlands-fishing-expansion.json) |
+| Farming Simulator 25: MacDon Pack | 352882 | [352882-farming-simulator-25-macdon-pack.json](./352882-farming-simulator-25-macdon-pack.json) |
+| Farming Simulator 25: New Holland CR11 Gold Edition | 352881 | [352881-farming-simulator-25-new-holland-cr11-gold-edition.json](./352881-farming-simulator-25-new-holland-cr11-gold-edition.json) |
+| Farming Simulator 25: NEXAT Pack | 352884 | [352884-farming-simulator-25-nexat-pack.json](./352884-farming-simulator-25-nexat-pack.json) |
+| Farming Simulator 25: Plains & Prairies Pack | 352879 | [352879-farming-simulator-25-plains-and-prairies-pack.json](./352879-farming-simulator-25-plains-and-prairies-pack.json) |
 | Farming Simulator 25: Straw Harvest Pack | 360753 | [360753-farming-simulator-25-straw-harvest-pack.json](./360753-farming-simulator-25-straw-harvest-pack.json) |
+| Farming Simulator 25: Year 1 Season Pass | 352888 | [352888-farming-simulator-25-year-1-season-pass.json](./352888-farming-simulator-25-year-1-season-pass.json) |
 | Farming Simulator C64: Limited Edition | 260776 | [260776-farming-simulator-c64-limited-edition.json](./260776-farming-simulator-c64-limited-edition.json) |
 | Farming Simulator: Grow a Garden 2025 | 378801 | [378801-farming-simulator-grow-a-garden-2025.json](./378801-farming-simulator-grow-a-garden-2025.json) |
 | Farming Sweeper | 191201 | [191201-farming-sweeper.json](./191201-farming-sweeper.json) |
