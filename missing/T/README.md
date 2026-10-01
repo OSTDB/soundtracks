@@ -1314,6 +1314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tasty Static | 216166 | [216166-tasty-static.json](./216166-tasty-static.json) |
 | Tasty Town | 114793 | [114793-tasty-town.json](./114793-tasty-town.json) |
 | Tasty Words - Free Word Games | 105973 | [105973-tasty-words-free-word-games.json](./105973-tasty-words-free-word-games.json) |
+| Tatakae! Draft Redder | 385811 | [385811-tatakae-draft-redder.json](./385811-tatakae-draft-redder.json) |
 | Tatakae! KitadeMan | 173078 | [173078-tatakae-kitademan.json](./173078-tatakae-kitademan.json) |
 | Tatami Crime Scenes What’s Wrong? | 420650 | [420650-tatami-crime-scenes-what-s-wrong.json](./420650-tatami-crime-scenes-what-s-wrong.json) |
 | Tatara Kogasa's Surprise Operation | 273948 | [273948-tatara-kogasas-surprise-operation.json](./273948-tatara-kogasas-surprise-operation.json) |
@@ -1587,6 +1588,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tecmo World Wrestling | 48083 | [48083-tecmo-world-wrestling.json](./48083-tecmo-world-wrestling.json) |
 | Tecmo's Deception: Invitation to Darkness | 20801 | [20801-tecmos-deception-invitation-to-darkness.json](./20801-tecmos-deception-invitation-to-darkness.json) |
 | Tecnology War | 248747 | [248747-tecnology-war.json](./248747-tecnology-war.json) |
+| Tectron: Command Radar | 385823 | [385823-tectron-command-radar.json](./385823-tectron-command-radar.json) |
+| Tectron: Ecchi na Kobito | 385820 | [385820-tectron-ecchi-na-kobito.json](./385820-tectron-ecchi-na-kobito.json) |
 | Tectron: Omorashi Baby | 385826 | [385826-tectron-omorashi-baby.json](./385826-tectron-omorashi-baby.json) |
 | Tectus | 106375 | [106375-tectus.json](./106375-tectus.json) |
 | Ted by Dawn | 34963 | [34963-ted-by-dawn.json](./34963-ted-by-dawn.json) |
@@ -5802,6 +5805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Stand at Camp Zombie | 251812 | [251812-the-last-stand-at-camp-zombie.json](./251812-the-last-stand-at-camp-zombie.json) |
 | The Last Stand Legacy Collection | 158727 | [158727-the-last-stand-legacy-collection.json](./158727-the-last-stand-legacy-collection.json) |
 | The Last Stand: Union City | 61586 | [61586-the-last-stand-union-city.json](./61586-the-last-stand-union-city.json) |
+| The Last Star Walker: Season 1 | 385793 | [385793-the-last-star-walker-season-1.json](./385793-the-last-star-walker-season-1.json) |
 | The Last Starfighter | 282069 | [282069-the-last-starfighter.json](./282069-the-last-starfighter.json) |
 | The Last Stop | 290001 | [290001-the-last-stop.json](./290001-the-last-stop.json) |
 | The Last Strand | 318621 | [318621-the-last-strand.json](./318621-the-last-strand.json) |
@@ -7128,6 +7132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Principals Bimbofication | 388954 | [388954-the-principals-bimbofication.json](./388954-the-principals-bimbofication.json) |
 | The Prison | 117089 | [117089-the-prison.json](./117089-the-prison.json) |
 | The Prisoning: Fletcher's Quest | 284895 | [284895-the-prisoning-fletchers-quest.json](./284895-the-prisoning-fletchers-quest.json) |
+| The Pro Wrestling | 385780 | [385780-the-pro-wrestling.json](./385780-the-pro-wrestling.json) |
 | The Pro Yakyuu | 132129 | [132129-the-pro-yakyuu.json](./132129-the-pro-yakyuu.json) |
 | The Pro Yakyuu Super '94 | 307092 | [307092-the-pro-yakyuu-super-94.json](./307092-the-pro-yakyuu-super-94.json) |
 | The Problem With Golf | 330156 | [330156-the-problem-with-golf.json](./330156-the-problem-with-golf.json) |
@@ -8236,6 +8241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tabung | 196310 | [196310-the-tabung.json](./196310-the-tabung.json) |
 | The Tactics of War | 109881 | [109881-the-tactics-of-war.json](./109881-the-tactics-of-war.json) |
 | The Tail of the Serpent | 178681 | [178681-the-tail-of-the-serpent.json](./178681-the-tail-of-the-serpent.json) |
+| The Takechan Man | 385818 | [385818-the-takechan-man.json](./385818-the-takechan-man.json) |
 | The Tale of (Your Name) | 282030 | [282030-the-tale-of-your-name.json](./282030-the-tale-of-your-name.json) |
 | The Tale of a Man named Tom | 57147 | [57147-the-tale-of-a-man-named-tom.json](./57147-the-tale-of-a-man-named-tom.json) |
 | The Tale of Despereaux | 51163 | [51163-the-tale-of-despereaux.json](./51163-the-tale-of-despereaux.json) |
@@ -12526,6 +12532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totto's Magic Soup | 353293 | [353293-tottos-magic-soup.json](./353293-tottos-magic-soup.json) |
 | Tottoko Hamtaro Card-e | 220854 | [220854-tottoko-hamtaro-card-e.json](./220854-tottoko-hamtaro-card-e.json) |
 | Tou Ikkyoku Gojyuusan Honba | 360085 | [360085-tou-ikkyoku-gojyuusan-honba.json](./360085-tou-ikkyoku-gojyuusan-honba.json) |
+| Toubatsu | 385825 | [385825-toubatsu.json](./385825-toubatsu.json) |
 | Touch | 256328 | [256328-touch.json](./256328-touch.json) |
 | Touch 'N' Play Collection | 206746 | [206746-touch-n-play-collection.json](./206746-touch-n-play-collection.json) |
 | Touch Battle Ninja | 58828 | [58828-touch-battle-ninja.json](./58828-touch-battle-ninja.json) |
