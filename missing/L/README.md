@@ -1994,6 +1994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LGBT+ Flags | 182840 | [182840-lgbt-flags.json](./182840-lgbt-flags.json) |
 | Lgnorant girl doll | 114994 | [114994-lgnorant-girl-doll.json](./114994-lgnorant-girl-doll.json) |
 | Lhama Clicker | 236545 | [236545-lhama-clicker.json](./236545-lhama-clicker.json) |
+| Lǐ Èr Nián Yǒng Chuǎng Héhuān Zōng | 373708 | [373708-li-er-nian-yong-chuang-hehuan-zong.json](./373708-li-er-nian-yong-chuang-hehuan-zong.json) |
 | Lǐ Shì Qírén Yì Wén Lù | 367402 | [367402-li-shi-qiren-yi-wen-lu.json](./367402-li-shi-qiren-yi-wen-lu.json) |
 | Li Shui | 374138 | [374138-li-shui.json](./374138-li-shui.json) |
 | Li'l Red | 272357 | [272357-lil-red.json](./272357-lil-red.json) |
@@ -3458,6 +3459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Nardy | 264362 | [264362-long-nardy.json](./264362-long-nardy.json) |
 | Long Night | 16941 | [16941-long-night.json](./16941-long-night.json) |
 | Long Road | 148914 | [148914-long-road.json](./148914-long-road.json) |
+| Lóng Shén de Xīnniáng Wàizhuàn: Yù Líng Qǐ Tán | 373692 | [373692-long-shen-de-xinniang-waizhuan-yu-ling-qi-tan.json](./373692-long-shen-de-xinniang-waizhuan-yu-ling-qi-tan.json) |
 | Long Sky | 115793 | [115793-long-sky.json](./115793-long-sky.json) |
 | Long Star | 131618 | [131618-long-star.json](./131618-long-star.json) |
 | Long Time No See | 143477 | [143477-long-time-no-see.json](./143477-long-time-no-see.json) |
@@ -4692,6 +4694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunera | 356673 | [356673-lunera.json](./356673-lunera.json) |
 | Lunhowl: Co-op Horror | 348762 | [348762-lunhowl-co-op-horror.json](./348762-lunhowl-co-op-horror.json) |
 | Lúnhuí Xiūxiān Jué | 157565 | [157565-lunhui-xiuxian-jue.json](./157565-lunhui-xiuxian-jue.json) |
+| Lúnhuí Xiūxiān Zhuàn | 373688 | [373688-lunhui-xiuxian-zhuan.json](./373688-lunhui-xiuxian-zhuan.json) |
 | Lunia Z:Revival | 259020 | [259020-lunia-z-revival.json](./259020-lunia-z-revival.json) |
 | Lunicus | 79597 | [79597-lunicus.json](./79597-lunicus.json) |
 | Lunium | 282674 | [282674-lunium.json](./282674-lunium.json) |
