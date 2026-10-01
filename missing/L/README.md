@@ -1134,6 +1134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy Code | 185034 | [185034-legacy-code.json](./185034-legacy-code.json) |
 | Legacy of Aeroja | 193480 | [193480-legacy-of-aeroja.json](./193480-legacy-of-aeroja.json) |
 | Legacy of Ancestors | 346589 | [346589-legacy-of-ancestors.json](./346589-legacy-of-ancestors.json) |
+| Legacy of Ashes | 384742 | [384742-legacy-of-ashes.json](./384742-legacy-of-ashes.json) |
 | Legacy of Defense | 345015 | [345015-legacy-of-defense.json](./345015-legacy-of-defense.json) |
 | Legacy of Dorn: Herald of Oblivion | 31692 | [31692-legacy-of-dorn-herald-of-oblivion.json](./31692-legacy-of-dorn-herald-of-oblivion.json) |
 | Legacy of Epstein: Bad Omen | 244478 | [244478-legacy-of-epstein-bad-omen.json](./244478-legacy-of-epstein-bad-omen.json) |
@@ -4709,6 +4710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lust Campus | 251229 | [251229-lust-campus.json](./251229-lust-campus.json) |
 | Lust Company | 366236 | [366236-lust-company.json](./366236-lust-company.json) |
 | Lust Dungeon | 209485 | [209485-lust-dungeon.json](./209485-lust-dungeon.json) |
+| Lust Effect | 384751 | [384751-lust-effect.json](./384751-lust-effect.json) |
 | Lust for Darkness VR | 193508 | [193508-lust-for-darkness-vr.json](./193508-lust-for-darkness-vr.json) |
 | Lust for Lucre | 305760 | [305760-lust-for-lucre.json](./305760-lust-for-lucre.json) |
 | Lust for Speed | 152807 | [152807-lust-for-speed.json](./152807-lust-for-speed.json) |
@@ -4737,6 +4739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lusty Bubbles: Animated Edition | 395845 | [395845-lusty-bubbles-animated-edition.json](./395845-lusty-bubbles-animated-edition.json) |
 | Lusty Chapters | 384759 | [384759-lusty-chapters.json](./384759-lusty-chapters.json) |
 | Lusty God | 238763 | [238763-lusty-god.json](./238763-lusty-god.json) |
+| LustyVerse: ShackBang | 384750 | [384750-lustyverse-shackbang.json](./384750-lustyverse-shackbang.json) |
 | Lutarus | 293621 | [293621-lutarus.json](./293621-lutarus.json) |
 | Lutra's Monologue | 186274 | [186274-lutras-monologue.json](./186274-lutras-monologue.json) |
 | Lutte | 97508 | [97508-lutte.json](./97508-lutte.json) |
