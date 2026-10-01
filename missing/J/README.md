@@ -1296,6 +1296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey of Reincarnation | 303598 | [303598-journey-of-reincarnation.json](./303598-journey-of-reincarnation.json) |
 | Journey of the Broken Circle | 136502 | [136502-journey-of-the-broken-circle.json](./136502-journey-of-the-broken-circle.json) |
 | Journey of the Forgotten | 274460 | [274460-journey-of-the-forgotten.json](./274460-journey-of-the-forgotten.json) |
+| Journey Of The Light | 370850 | [370850-journey-of-the-light.json](./370850-journey-of-the-light.json) |
 | Journey of the Sword | 72348 | [72348-journey-of-the-sword.json](./72348-journey-of-the-sword.json) |
 | Journey of the World | 119676 | [119676-journey-of-the-world.json](./119676-journey-of-the-world.json) |
 | Journey On | 154023 | [154023-journey-on.json](./154023-journey-on.json) |
