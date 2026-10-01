@@ -721,6 +721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Gem Quest | 224562 | [224562-idle-gem-quest.json](./224562-idle-gem-quest.json) |
 | Idle Geometry Defense | 373735 | [373735-idle-geometry-defense.json](./373735-idle-geometry-defense.json) |
 | Idle Guardians | 117816 | [117816-idle-guardians.json](./117816-idle-guardians.json) |
+| Idle Gumball Machine | 365835 | [365835-idle-gumball-machine.json](./365835-idle-gumball-machine.json) |
 | Idle Hacker | 406185 | [406185-idle-hacker.json](./406185-idle-hacker.json) |
 | Idle Hamburgers Save the World | 224215 | [224215-idle-hamburgers-save-the-world.json](./224215-idle-hamburgers-save-the-world.json) |
 | Idle Heist | 101368 | [101368-idle-heist.json](./101368-idle-heist.json) |
@@ -1267,6 +1268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperium: Galactic War | 120263 | [120263-imperium-galactic-war.json](./120263-imperium-galactic-war.json) |
 | Imperius | 195640 | [195640-imperius.json](./195640-imperius.json) |
 | Imperivm: Great Battles of Rome - HD Edition | 165540 | [165540-imperivm-great-battles-of-rome-hd-edition.json](./165540-imperivm-great-battles-of-rome-hd-edition.json) |
+| Impermanence | 365837 | [365837-impermanence.json](./365837-impermanence.json) |
 | Impermanence | 404915 | [404915-impermanence.json](./404915-impermanence.json) |
 | Impetus | 327977 | [327977-impetus.json](./327977-impetus.json) |
 | Impetus: Clamor in Portis | 135276 | [135276-impetus-clamor-in-portis.json](./135276-impetus-clamor-in-portis.json) |
@@ -1750,6 +1752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infernum Bound | 337094 | [337094-infernum-bound.json](./337094-infernum-bound.json) |
 | Infestation | 9119 | [9119-infestation.json](./9119-infestation.json) |
 | Infestation | 9486 | [9486-infestation.json](./9486-infestation.json) |
+| Infestation on Epsilon 13 | 365826 | [365826-infestation-on-epsilon-13.json](./365826-infestation-on-epsilon-13.json) |
 | Infestation Sea | 273420 | [273420-infestation-sea.json](./273420-infestation-sea.json) |
 | Infestation: Battle Royale | 130205 | [130205-infestation-battle-royale.json](./130205-infestation-battle-royale.json) |
 | Infestation: Origins | 281398 | [281398-infestation-origins.json](./281398-infestation-origins.json) |
