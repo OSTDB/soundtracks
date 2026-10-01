@@ -1375,6 +1375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In a Bit of Tales | 344525 | [344525-in-a-bit-of-tales.json](./344525-in-a-bit-of-tales.json) |
 | In A Dark Cave | 179175 | [179175-in-a-dark-cave.json](./179175-in-a-dark-cave.json) |
 | In a search of a new home | 133407 | [133407-in-a-search-of-a-new-home.json](./133407-in-a-search-of-a-new-home.json) |
+| In a World After People | 339956 | [339956-in-a-world-after-people.json](./339956-in-a-world-after-people.json) |
 | In Another World with My Smartphone: Fantasia Connect | 403148 | [403148-in-another-world-with-my-smartphone-fantasia-connect.json](./403148-in-another-world-with-my-smartphone-fantasia-connect.json) |
 | In another world, I will attain my dream of ALL I CAN SEX! | 82896 | [82896-in-another-world-i-will-attain-my-dream-of-all-i-can-sex.json](./82896-in-another-world-i-will-attain-my-dream-of-all-i-can-sex.json) |
 | In Ashes | 329377 | [329377-in-ashes.json](./329377-in-ashes.json) |
