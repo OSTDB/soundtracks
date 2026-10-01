@@ -2409,6 +2409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bearded Dragons | 133475 | [133475-bearded-dragons.json](./133475-bearded-dragons.json) |
 | Beards vs. Claws | 399695 | [399695-beards-vs-claws.json](./399695-beards-vs-claws.json) |
 | BearHammer | 105100 | [105100-bearhammer.json](./105100-bearhammer.json) |
+| Bearly Awesome | 382368 | [382368-bearly-awesome.json](./382368-bearly-awesome.json) |
 | Bearly Baking | 355040 | [355040-bearly-baking.json](./355040-bearly-baking.json) |
 | Bearly Chillin' | 363976 | [363976-bearly-chillin.json](./363976-bearly-chillin.json) |
 | Bearnard + What Lies in the Multiverse | 375405 | [375405-bearnard-what-lies-in-the-multiverse.json](./375405-bearnard-what-lies-in-the-multiverse.json) |
@@ -4178,6 +4179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Hole | 85507 | [85507-black-hole.json](./85507-black-hole.json) |
 | Black Hole Gun | 413182 | [413182-black-hole-gun.json](./413182-black-hole-gun.json) |
 | Black Hole Void: Survive The Hole | 332601 | [332601-black-hole-void-survive-the-hole.json](./332601-black-hole-void-survive-the-hole.json) |
+| Black Hole: Farmageddon | 382410 | [382410-black-hole-farmageddon.json](./382410-black-hole-farmageddon.json) |
 | Black Hollow | 410993 | [410993-black-hollow.json](./410993-black-hollow.json) |
 | Black Hornet | 14309 | [14309-black-hornet.json](./14309-black-hornet.json) |
 | Black Ice Mod Advanced | 394546 | [394546-black-ice-mod-advanced.json](./394546-black-ice-mod-advanced.json) |
