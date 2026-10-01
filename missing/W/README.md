@@ -631,6 +631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warframe: The Mad Cephalon | 201162 | [201162-warframe-the-mad-cephalon.json](./201162-warframe-the-mad-cephalon.json) |
 | Warframe: The Old Blood | 198498 | [198498-warframe-the-old-blood.json](./198498-warframe-the-old-blood.json) |
 | Warframe: The Seven Crimes of Kullervo | 263491 | [263491-warframe-the-seven-crimes-of-kullervo.json](./263491-warframe-the-seven-crimes-of-kullervo.json) |
+| Warframe: The Vallis Undermind | 374217 | [374217-warframe-the-vallis-undermind.json](./374217-warframe-the-vallis-undermind.json) |
 | Warframe: Veilbreaker | 216199 | [216199-warframe-veilbreaker.json](./216199-warframe-veilbreaker.json) |
 | Warframe: Vor's Revenge | 200650 | [200650-warframe-vors-revenge.json](./200650-warframe-vors-revenge.json) |
 | Warframe: Whispers in the Walls | 263560 | [263560-warframe-whispers-in-the-walls.json](./263560-warframe-whispers-in-the-walls.json) |
