@@ -6369,6 +6369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Border Mountain | 292624 | [292624-border-mountain.json](./292624-border-mountain.json) |
 | Border of her Heart 2 | 156669 | [156669-border-of-her-heart-2.json](./156669-border-of-her-heart-2.json) |
 | Border of Insanity | 110152 | [110152-border-of-insanity.json](./110152-border-of-insanity.json) |
+| Border Patrol Simulator | 334342 | [334342-border-patrol-simulator.json](./334342-border-patrol-simulator.json) |
 | Border Reign | 142468 | [142468-border-reign.json](./142468-border-reign.json) |
 | Border Wars | 224091 | [224091-border-wars.json](./224091-border-wars.json) |
 | BorderCollie Game | 393011 | [393011-bordercollie-game.json](./393011-bordercollie-game.json) |
