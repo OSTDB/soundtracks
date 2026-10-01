@@ -275,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sagittarius: The Lost and Cursed | 352225 | [352225-sagittarius-the-lost-and-cursed.json](./352225-sagittarius-the-lost-and-cursed.json) |
 | Sago Mini Forest Flyer | 200108 | [200108-sago-mini-forest-flyer.json](./200108-sago-mini-forest-flyer.json) |
 | SAHUR: Escape Together | 367936 | [367936-sahur-escape-together.json](./367936-sahur-escape-together.json) |
+| SaHwa: The Altered Timeline | 368601 | [368601-sahwa-the-altered-timeline.json](./368601-sahwa-the-altered-timeline.json) |
 | Sai | 133880 | [133880-sai.json](./133880-sai.json) |
 | Sai | 185100 | [185100-sai.json](./185100-sai.json) |
 | Saiaku Tantei Kanojo | 150115 | [150115-saiaku-tantei-kanojo.json](./150115-saiaku-tantei-kanojo.json) |
@@ -2957,6 +2958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Adventures: Office Affairs | 223406 | [223406-sex-adventures-office-affairs.json](./223406-sex-adventures-office-affairs.json) |
 | Sex Adventures: Swingers Gym | 212800 | [212800-sex-adventures-swingers-gym.json](./212800-sex-adventures-swingers-gym.json) |
 | Sex Adventures: The Bar Hookup | 219600 | [219600-sex-adventures-the-bar-hookup.json](./219600-sex-adventures-the-bar-hookup.json) |
+| Sex Adventures: The Job Promotion | 368621 | [368621-sex-adventures-the-job-promotion.json](./368621-sex-adventures-the-job-promotion.json) |
 | Sex Adventures: The Pool Party | 213459 | [213459-sex-adventures-the-pool-party.json](./213459-sex-adventures-the-pool-party.json) |
 | Sex Airlines | 311576 | [311576-sex-airlines.json](./311576-sex-airlines.json) |
 | Sex and the Furry Titty 2: Sins of the City - Love Stories Episodes | 173846 | [173846-sex-and-the-furry-titty-2-sins-of-the-city-love-stories-episodes.json](./173846-sex-and-the-furry-titty-2-sins-of-the-city-love-stories-episodes.json) |
@@ -5306,6 +5308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Story: Alex | 90395 | [90395-simple-story-alex.json](./90395-simple-story-alex.json) |
 | Simple Story: Alex - Two Guys | 172132 | [172132-simple-story-alex-two-guys.json](./172132-simple-story-alex-two-guys.json) |
 | Simple Tower Defense | 259287 | [259287-simple-tower-defense.json](./259287-simple-tower-defense.json) |
+| Simple Zombie Survival | 368594 | [368594-simple-zombie-survival.json](./368594-simple-zombie-survival.json) |
 | SimplePlanes 2 | 304696 | [304696-simpleplanes-2.json](./304696-simpleplanes-2.json) |
 | Simpler Times | 308240 | [308240-simpler-times.json](./308240-simpler-times.json) |
 | SimpleRoad | 370872 | [370872-simpleroad.json](./370872-simpleroad.json) |
@@ -10928,6 +10931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpyHunt | 330294 | [330294-spyhunt.json](./330294-spyhunt.json) |
 | SpyHunter | 4166 | [4166-spyhunter.json](./4166-spyhunter.json) |
 | Spykebots | 113706 | [113706-spykebots.json](./113706-spykebots.json) |
+| SpyLens: Sex in focus | 368622 | [368622-spylens-sex-in-focus.json](./368622-spylens-sex-in-focus.json) |
 | Spymaster | 395813 | [395813-spymaster.json](./395813-spymaster.json) |
 | Spyragon | 227809 | [227809-spyragon.json](./227809-spyragon.json) |
 | Spyrazoid | 227833 | [227833-spyrazoid.json](./227833-spyrazoid.json) |
@@ -14977,6 +14981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Magbot | 132921 | [132921-super-magbot.json](./132921-super-magbot.json) |
 | Super Magic Chess | 331134 | [331134-super-magic-chess.json](./331134-super-magic-chess.json) |
 | Super Magro World | 152315 | [152315-super-magro-world.json](./152315-super-magro-world.json) |
+| Super Magus Parvomagnus | 368611 | [368611-super-magus-parvomagnus.json](./368611-super-magus-parvomagnus.json) |
 | Super Mahjong | 37814 | [37814-super-mahjong.json](./37814-super-mahjong.json) |
 | Super Mahjong 2: Honkaku 4-nin Uchi | 37813 | [37813-super-mahjong-2-honkaku-4-nin-uchi.json](./37813-super-mahjong-2-honkaku-4-nin-uchi.json) |
 | Super Mahjong 3 | 37812 | [37812-super-mahjong-3.json](./37812-super-mahjong-3.json) |
@@ -16752,6 +16757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switch 'N' Shoot | 32171 | [32171-switch-n-shoot.json](./32171-switch-n-shoot.json) |
 | Switch & Ditch | 113872 | [113872-switch-and-ditch.json](./113872-switch-and-ditch.json) |
 | Switch Blasters | 402902 | [402902-switch-blasters.json](./402902-switch-blasters.json) |
+| Switch Box | 368592 | [368592-switch-box.json](./368592-switch-box.json) |
 | Switch Color | 101093 | [101093-switch-color.json](./101093-switch-color.json) |
 | Switch Color 2018 | 104774 | [104774-switch-color-2018.json](./104774-switch-color-2018.json) |
 | Switch Colors+ | 187984 | [187984-switch-colors.json](./187984-switch-colors.json) |
