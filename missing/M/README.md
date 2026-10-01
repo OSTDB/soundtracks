@@ -2999,6 +2999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Death Race | 319586 | [319586-maze-death-race.json](./319586-maze-death-race.json) |
 | Maze Defenders | 255734 | [255734-maze-defenders.json](./255734-maze-defenders.json) |
 | Maze Escape | 345524 | [345524-maze-escape.json](./345524-maze-escape.json) |
+| Maze Estate Escape | 362982 | [362982-maze-estate-escape.json](./362982-maze-estate-escape.json) |
 | Maze Forever | 233249 | [233249-maze-forever.json](./233249-maze-forever.json) |
 | Maze Game | 216256 | [216256-maze-game.json](./216256-maze-game.json) |
 | Maze Girl | 253907 | [253907-maze-girl.json](./253907-maze-girl.json) |
@@ -5229,6 +5230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight is Lost | 156689 | [156689-midnight-is-lost.json](./156689-midnight-is-lost.json) |
 | Midnight Kebab | 384504 | [384504-midnight-kebab.json](./384504-midnight-kebab.json) |
 | Midnight Lane | 296976 | [296976-midnight-lane.json](./296976-midnight-lane.json) |
+| Midnight Launch: A GameShop Sim | 362938 | [362938-midnight-launch-a-gameshop-sim.json](./362938-midnight-launch-a-gameshop-sim.json) |
 | Midnight Looters | 392121 | [392121-midnight-looters.json](./392121-midnight-looters.json) |
 | Midnight Mahjong | 182360 | [182360-midnight-mahjong.json](./182360-midnight-mahjong.json) |
 | Midnight Maintenance | 180780 | [180780-midnight-maintenance.json](./180780-midnight-maintenance.json) |
@@ -5729,6 +5731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft Triple Bundle | 334490 | [334490-minecraft-triple-bundle.json](./334490-minecraft-triple-bundle.json) |
 | Minecraft vs. Zombies 2 | 273112 | [273112-minecraft-vs-zombies-2.json](./273112-minecraft-vs-zombies-2.json) |
 | Minecraft x Crocs: Choose Your Mode | 310599 | [310599-minecraft-x-crocs-choose-your-mode.json](./310599-minecraft-x-crocs-choose-your-mode.json) |
+| Minecraft X Magic: The Gathering Skin Pack | 362947 | [362947-minecraft-x-magic-the-gathering-skin-pack.json](./362947-minecraft-x-magic-the-gathering-skin-pack.json) |
 | Minecraft: 10 Years Of Minecraft | 322956 | [322956-minecraft-10-years-of-minecraft.json](./322956-minecraft-10-years-of-minecraft.json) |
 | Minecraft: 1st Birthday Skin Pack | 255346 | [255346-minecraft-1st-birthday-skin-pack.json](./255346-minecraft-1st-birthday-skin-pack.json) |
 | Minecraft: A Minecraft Movie Add-On | 333583 | [333583-minecraft-a-minecraft-movie-add-on.json](./333583-minecraft-a-minecraft-movie-add-on.json) |
@@ -5799,6 +5802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Story Mode Season Two - Episode 1: Hero in Residence | 91298 | [91298-minecraft-story-mode-season-two-episode-1-hero-in-residence.json](./91298-minecraft-story-mode-season-two-episode-1-hero-in-residence.json) |
 | Minecraft: Teenage Mutant Ninja Turtles | 259850 | [259850-minecraft-teenage-mutant-ninja-turtles.json](./259850-minecraft-teenage-mutant-ninja-turtles.json) |
 | Minecraft: The Cake Is A Lie | 325863 | [325863-minecraft-the-cake-is-a-lie.json](./325863-minecraft-the-cake-is-a-lie.json) |
+| Minecraft: The Copper Age | 363001 | [363001-minecraft-the-copper-age.json](./363001-minecraft-the-copper-age.json) |
 | Minecraft: The Garden Awakens | 324509 | [324509-minecraft-the-garden-awakens.json](./324509-minecraft-the-garden-awakens.json) |
 | Minecraft: The Nightmare Before Christmas Mash-up | 235332 | [235332-minecraft-the-nightmare-before-christmas-mash-up.json](./235332-minecraft-the-nightmare-before-christmas-mash-up.json) |
 | Minecraft: The Theme Park | 316747 | [316747-minecraft-the-theme-park.json](./316747-minecraft-the-theme-park.json) |
@@ -6329,6 +6333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misplaced | 413185 | [413185-misplaced.json](./413185-misplaced.json) |
 | Miss | 242777 | [242777-miss.json](./242777-miss.json) |
 | Miss Agatha's Palace | 187199 | [187199-miss-agathas-palace.json](./187199-miss-agathas-palace.json) |
+| Miss Bellevue Never Heard the Whistle | 362961 | [362961-miss-bellevue-never-heard-the-whistle.json](./362961-miss-bellevue-never-heard-the-whistle.json) |
 | Miss Bullard's School for Former Ladies | 184058 | [184058-miss-bullards-school-for-former-ladies.json](./184058-miss-bullards-school-for-former-ladies.json) |
 | Miss Clue: Formula for Danger | 200655 | [200655-miss-clue-formula-for-danger.json](./200655-miss-clue-formula-for-danger.json) |
 | Miss Detective's Undercover | 202817 | [202817-miss-detectives-undercover.json](./202817-miss-detectives-undercover.json) |
