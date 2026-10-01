@@ -541,6 +541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last 4 Survive: The Outbreak | 287158 | [287158-last-4-survive-the-outbreak.json](./287158-last-4-survive-the-outbreak.json) |
 | Last Alive | 104823 | [104823-last-alive.json](./104823-last-alive.json) |
 | Last Alive | 37363 | [37363-last-alive.json](./37363-last-alive.json) |
+| Last Alliance: Total War | 356251 | [356251-last-alliance-total-war.json](./356251-last-alliance-total-war.json) |
 | Last Answer | 30062 | [30062-last-answer.json](./30062-last-answer.json) |
 | Last Antagonist | 361885 | [361885-last-antagonist.json](./361885-last-antagonist.json) |
 | Last Arrows | 123535 | [123535-last-arrows.json](./123535-last-arrows.json) |
@@ -1171,6 +1172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of Solitaire 3D | 252713 | [252713-legacy-of-solitaire-3d.json](./252713-legacy-of-solitaire-3d.json) |
 | Legacy of Svarog | 59050 | [59050-legacy-of-svarog.json](./59050-legacy-of-svarog.json) |
 | Legacy of the Ancients | 19794 | [19794-legacy-of-the-ancients.json](./19794-legacy-of-the-ancients.json) |
+| Legacy of the Dragonborn | 356218 | [356218-legacy-of-the-dragonborn.json](./356218-legacy-of-the-dragonborn.json) |
 | Legacy of the Elder Star | 33555 | [33555-legacy-of-the-elder-star.json](./33555-legacy-of-the-elder-star.json) |
 | Legacy of the Stones | 117730 | [117730-legacy-of-the-stones.json](./117730-legacy-of-the-stones.json) |
 | Legacy of the Times | 59964 | [59964-legacy-of-the-times.json](./59964-legacy-of-the-times.json) |
@@ -1488,6 +1490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Dimensions: Unikitty Fun Pack | 172620 | [172620-lego-dimensions-unikitty-fun-pack.json](./172620-lego-dimensions-unikitty-fun-pack.json) |
 | LEGO Dimensions: Wonder Woman Fun Pack | 172626 | [172626-lego-dimensions-wonder-woman-fun-pack.json](./172626-lego-dimensions-wonder-woman-fun-pack.json) |
 | LEGO Dimensions: Zane Fun Pack | 172610 | [172610-lego-dimensions-zane-fun-pack.json](./172610-lego-dimensions-zane-fun-pack.json) |
+| LEGO Duplo World | 356220 | [356220-lego-duplo-world.json](./356220-lego-duplo-world.json) |
 | LEGO Fortnite: Brick Life | 325544 | [325544-lego-fortnite-brick-life.json](./325544-lego-fortnite-brick-life.json) |
 | LEGO Fortnite: Expeditions | 387000 | [387000-lego-fortnite-expeditions.json](./387000-lego-fortnite-expeditions.json) |
 | LEGO Friends | 142951 | [142951-lego-friends.json](./142951-lego-friends.json) |
@@ -2810,6 +2813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Fighter Online | 79905 | [79905-little-fighter-online.json](./79905-little-fighter-online.json) |
 | Little Fire Girl Fights Final Boss | 298673 | [298673-little-fire-girl-fights-final-boss.json](./298673-little-fire-girl-fights-final-boss.json) |
 | Little Fish Seek to Live On | 370189 | [370189-little-fish-seek-to-live-on.json](./370189-little-fish-seek-to-live-on.json) |
+| Little Folk of Faery | 356212 | [356212-little-folk-of-faery.json](./356212-little-folk-of-faery.json) |
 | Little Fox: Bubble Spinner | 296074 | [296074-little-fox-bubble-spinner.json](./296074-little-fox-bubble-spinner.json) |
 | Little Friends: Dogs & Cats | 110337 | [110337-little-friends-dogs-and-cats.json](./110337-little-friends-dogs-and-cats.json) |
 | Little Frog Game | 229057 | [229057-little-frog-game.json](./229057-little-frog-game.json) |
@@ -4432,6 +4436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucinda | 217821 | [217821-lucinda.json](./217821-lucinda.json) |
 | Lucinda Green's Equestrian Challenge | 43254 | [43254-lucinda-greens-equestrian-challenge.json](./43254-lucinda-greens-equestrian-challenge.json) |
 | Lucipurr | 346603 | [346603-lucipurr.json](./346603-lucipurr.json) |
+| Lucium Total War | 356240 | [356240-lucium-total-war.json](./356240-lucium-total-war.json) |
 | Lucius II | 17329 | [17329-lucius-ii.json](./17329-lucius-ii.json) |
 | Luck be a Landlord | 142035 | [142035-luck-be-a-landlord.json](./142035-luck-be-a-landlord.json) |
 | Luck Breaker | 262318 | [262318-luck-breaker.json](./262318-luck-breaker.json) |
