@@ -659,6 +659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Over! | 380539 | [380539-game-over.json](./380539-game-over.json) |
 | Game Pack CD: 37 VGA Games Volume 2 | 137574 | [137574-game-pack-cd-37-vga-games-volume-2.json](./137574-game-pack-cd-37-vga-games-volume-2.json) |
 | Game Party 3 | 76982 | [76982-game-party-3.json](./76982-game-party-3.json) |
+| Game Quest: The Backlog Battler | 346715 | [346715-game-quest-the-backlog-battler.json](./346715-game-quest-the-backlog-battler.json) |
 | Game Room | 328212 | [328212-game-room.json](./328212-game-room.json) |
 | Game Room | 360634 | [360634-game-room.json](./360634-game-room.json) |
 | Game Royale 2 - The Secret of Jannis Island | 30140 | [30140-game-royale-2-the-secret-of-jannis-island.json](./30140-game-royale-2-the-secret-of-jannis-island.json) |
@@ -998,6 +999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gas Station Simulator, Airstrip DLC and Can Touch This DLC Bundle | 297455 | [297455-gas-station-simulator-airstrip-dlc-and-can-touch-this-dlc-bundle.json](./297455-gas-station-simulator-airstrip-dlc-and-can-touch-this-dlc-bundle.json) |
 | Gas Station Simulator: Can Touch This DLC | 298596 | [298596-gas-station-simulator-can-touch-this-dlc.json](./298596-gas-station-simulator-can-touch-this-dlc.json) |
 | Gas Station Simulator: DLC Pack | 267415 | [267415-gas-station-simulator-dlc-pack.json](./267415-gas-station-simulator-dlc-pack.json) |
+| Gas Station Simulator: RV Camp | 346728 | [346728-gas-station-simulator-rv-camp.json](./346728-gas-station-simulator-rv-camp.json) |
 | Gas Station Sketch | 131553 | [131553-gas-station-sketch.json](./131553-gas-station-sketch.json) |
 | Gas Station Tycoon | 261835 | [261835-gas-station-tycoon.json](./261835-gas-station-tycoon.json) |
 | Gas Station Weed Simulator 2024 | 323291 | [323291-gas-station-weed-simulator-2024.json](./323291-gas-station-weed-simulator-2024.json) |
@@ -1826,6 +1828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Rush! | 97107 | [97107-ghost-rush.json](./97107-ghost-rush.json) |
 | Ghost Shadow | 214199 | [214199-ghost-shadow.json](./214199-ghost-shadow.json) |
 | Ghost Ship: Hidden Object Adventure Games | 97210 | [97210-ghost-ship-hidden-object-adventure-games.json](./97210-ghost-ship-hidden-object-adventure-games.json) |
+| Ghost Shock | 346702 | [346702-ghost-shock.json](./346702-ghost-shock.json) |
 | Ghost Signal: A Stellaris Game | 251560 | [251560-ghost-signal-a-stellaris-game.json](./251560-ghost-signal-a-stellaris-game.json) |
 | Ghost Signal: Fleet Expansion | 251575 | [251575-ghost-signal-fleet-expansion.json](./251575-ghost-signal-fleet-expansion.json) |
 | Ghost Simulator | 258491 | [258491-ghost-simulator.json](./258491-ghost-simulator.json) |
@@ -3797,6 +3800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grapixo Arte em Guerra | 407522 | [407522-grapixo-arte-em-guerra.json](./407522-grapixo-arte-em-guerra.json) |
 | Grapple Bear | 114538 | [114538-grapple-bear.json](./114538-grapple-bear.json) |
 | Grapple Boy | 62425 | [62425-grapple-boy.json](./62425-grapple-boy.json) |
+| Grapple Car | 346704 | [346704-grapple-car.json](./346704-grapple-car.json) |
 | Grapple Cars | 253300 | [253300-grapple-cars.json](./253300-grapple-cars.json) |
 | Grapple Dogs Collection | 331408 | [331408-grapple-dogs-collection.json](./331408-grapple-dogs-collection.json) |
 | Grapple Flow VR | 301826 | [301826-grapple-flow-vr.json](./301826-grapple-flow-vr.json) |
