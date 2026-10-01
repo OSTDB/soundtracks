@@ -200,8 +200,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daikaijuu Deburas | 48313 | [48313-daikaijuu-deburas.json](./48313-daikaijuu-deburas.json) |
 | Daikatana | 8201 | [8201-daikatana.json](./8201-daikatana.json) |
 | Daikon Set | 55911 | [55911-daikon-set.json](./55911-daikon-set.json) |
+| Daikoukai Jidai II | 351143 | [351143-daikoukai-jidai-ii.json](./351143-daikoukai-jidai-ii.json) |
+| Daikoukai Jidai II Premium Pack | 351145 | [351145-daikoukai-jidai-ii-premium-pack.json](./351145-daikoukai-jidai-ii-premium-pack.json) |
 | Daikoukai Jidai III: Costa del Sol | 186736 | [186736-daikoukai-jidai-iii-costa-del-sol.json](./186736-daikoukai-jidai-iii-costa-del-sol.json) |
 | Daikoukai Jidai IV: Porto Estado - Power Up Kit | 351127 | [351127-daikoukai-jidai-iv-porto-estado-power-up-kit.json](./351127-daikoukai-jidai-iv-porto-estado-power-up-kit.json) |
+| Daikoukai Jidai IV: Porto Estado - Shokai Gentei-ban | 351146 | [351146-daikoukai-jidai-iv-porto-estado-shokai-gentei-ban.json](./351146-daikoukai-jidai-iv-porto-estado-shokai-gentei-ban.json) |
 | Daikoukai Jidai V | 56530 | [56530-daikoukai-jidai-v.json](./56530-daikoukai-jidai-v.json) |
 | Daiku no Gen-san: Kachi-kachi no Tonkachi ga Kachi | 50563 | [50563-daiku-no-gen-san-kachi-kachi-no-tonkachi-ga-kachi.json](./50563-daiku-no-gen-san-kachi-kachi-no-tonkachi-ga-kachi.json) |
 | Daiku no Medium | 159106 | [159106-daiku-no-medium.json](./159106-daiku-no-medium.json) |
@@ -1995,6 +1998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Girl: Stories Hibiki - Hibiki Tokkun Daisakusen! | 204480 | [204480-dear-girl-stories-hibiki-hibiki-tokkun-daisakusen.json](./204480-dear-girl-stories-hibiki-hibiki-tokkun-daisakusen.json) |
 | Dear Lighthouse | 384230 | [384230-dear-lighthouse.json](./384230-dear-lighthouse.json) |
 | Dear Mariko | 124638 | [124638-dear-mariko.json](./124638-dear-mariko.json) |
+| Dear me, I was… | 351207 | [351207-dear-me-i-was.json](./351207-dear-me-i-was.json) |
 | Dear Mom: My Letter to You | 164965 | [164965-dear-mom-my-letter-to-you.json](./164965-dear-mom-my-letter-to-you.json) |
 | Dear My Bot | 405635 | [405635-dear-my-bot.json](./405635-dear-my-bot.json) |
 | Dear My Cat | 200453 | [200453-dear-my-cat.json](./200453-dear-my-cat.json) |
@@ -2234,6 +2238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debug | 190097 | [190097-debug.json](./190097-debug.json) |
 | Debugger 3.16: Recoded - Despair of the Developer Edition | 380127 | [380127-debugger-3-16-recoded-despair-of-the-developer-edition.json](./380127-debugger-3-16-recoded-despair-of-the-developer-edition.json) |
 | Debugger 4406 | 187218 | [187218-debugger-4406.json](./187218-debugger-4406.json) |
+| Debugging Hero | 351164 | [351164-debugging-hero.json](./351164-debugging-hero.json) |
 | Deca Sports 3 | 20699 | [20699-deca-sports-3.json](./20699-deca-sports-3.json) |
 | Decadence | 256799 | [256799-decadence.json](./256799-decadence.json) |
 | Decadent Heir | 334217 | [334217-decadent-heir.json](./334217-decadent-heir.json) |
@@ -3008,6 +3013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demons Roots | 189139 | [189139-demons-roots.json](./189139-demons-roots.json) |
 | Demons vs. Fairyland | 245328 | [245328-demons-vs-fairyland.json](./245328-demons-vs-fairyland.json) |
 | Demons with Shotguns: Deluxe Edition | 52890 | [52890-demons-with-shotguns-deluxe-edition.json](./52890-demons-with-shotguns-deluxe-edition.json) |
+| Demons' Night Fever | 351210 | [351210-demons-night-fever.json](./351210-demons-night-fever.json) |
 | Demonschool | 204640 | [204640-demonschool.json](./204640-demonschool.json) |
 | Demonschool: Digital Deluxe Edition | 378957 | [378957-demonschool-digital-deluxe-edition.json](./378957-demonschool-digital-deluxe-edition.json) |
 | Demonspire | 381701 | [381701-demonspire.json](./381701-demonspire.json) |
