@@ -1880,6 +1880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lets Get Loot | 331988 | [331988-lets-get-loot.json](./331988-lets-get-loot.json) |
 | Lets Go Champ | 60539 | [60539-lets-go-champ.json](./60539-lets-go-champ.json) |
 | Lets Play Bingo | 87271 | [87271-lets-play-bingo.json](./87271-lets-play-bingo.json) |
+| Letsss Play | 373153 | [373153-letsss-play.json](./373153-letsss-play.json) |
 | Letter Bender | 195107 | [195107-letter-bender.json](./195107-letter-bender.json) |
 | Letter Boxed | 296097 | [296097-letter-boxed.json](./296097-letter-boxed.json) |
 | Letter Bunny | 304202 | [304202-letter-bunny.json](./304202-letter-bunny.json) |
@@ -3387,6 +3388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Londonian Gothics: Meikyuu no Lolita | 122996 | [122996-londonian-gothics-meikyuu-no-lolita.json](./122996-londonian-gothics-meikyuu-no-lolita.json) |
 | Lone | 181160 | [181160-lone.json](./181160-lone.json) |
 | Lone Chef | 388208 | [388208-lone-chef.json](./388208-lone-chef.json) |
+| Lone City | 373163 | [373163-lone-city.json](./373163-lone-city.json) |
 | Lone Eagle: Colombian Encounter | 73762 | [73762-lone-eagle-colombian-encounter.json](./73762-lone-eagle-colombian-encounter.json) |
 | Lone Elven Wanderer | 200575 | [200575-lone-elven-wanderer.json](./200575-lone-elven-wanderer.json) |
 | Lone Fungus: Melody of Spores | 264139 | [264139-lone-fungus-melody-of-spores.json](./264139-lone-fungus-melody-of-spores.json) |
