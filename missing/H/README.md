@@ -2166,6 +2166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellslinger | 217976 | [217976-hellslinger.json](./217976-hellslinger.json) |
 | Hellspawn | 244204 | [244204-hellspawn.json](./244204-hellspawn.json) |
 | Hellsplit: Labyrinth | 410965 | [410965-hellsplit-labyrinth.json](./410965-hellsplit-labyrinth.json) |
+| Hellsprint | 349447 | [349447-hellsprint.json](./349447-hellsprint.json) |
 | HellStar Squadron | 97112 | [97112-hellstar-squadron.json](./97112-hellstar-squadron.json) |
 | Hellstuck: Rage With Your Friends | 200712 | [200712-hellstuck-rage-with-your-friends.json](./200712-hellstuck-rage-with-your-friends.json) |
 | Helltaker | 133152 | [133152-helltaker.json](./133152-helltaker.json) |
@@ -5624,6 +5625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humans vs. Vampires | 199060 | [199060-humans-vs-vampires.json](./199060-humans-vs-vampires.json) |
 | Humble Pie | 96873 | [96873-humble-pie.json](./96873-humble-pie.json) |
 | Humble Rumble | 128371 | [128371-humble-rumble.json](./128371-humble-rumble.json) |
+| Humblets | 349461 | [349461-humblets.json](./349461-humblets.json) |
 | Humbug | 57637 | [57637-humbug.json](./57637-humbug.json) |
 | Hume Index | 276218 | [276218-hume-index.json](./276218-hume-index.json) |
 | Hummer | 92631 | [92631-hummer.json](./92631-hummer.json) |
