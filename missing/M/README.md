@@ -4405,6 +4405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Circle | 262342 | [262342-merge-circle.json](./262342-merge-circle.json) |
 | Merge Circus | 285472 | [285472-merge-circus.json](./285472-merge-circus.json) |
 | Merge Clash | 202230 | [202230-merge-clash.json](./202230-merge-clash.json) |
+| Merge Coin: Mai | 355678 | [355678-merge-coin-mai.json](./355678-merge-coin-mai.json) |
 | Merge County | 212449 | [212449-merge-county.json](./212449-merge-county.json) |
 | Merge Design: Mansion Makeover | 246662 | [246662-merge-design-mansion-makeover.json](./246662-merge-design-mansion-makeover.json) |
 | Merge Donut | 311580 | [311580-merge-donut.json](./311580-merge-donut.json) |
