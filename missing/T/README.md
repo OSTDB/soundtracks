@@ -428,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takamori Puzzle | 264328 | [264328-takamori-puzzle.json](./264328-takamori-puzzle.json) |
 | Takanaria | 113495 | [113495-takanaria.json](./113495-takanaria.json) |
 | Takara Cards | 194401 | [194401-takara-cards.json](./194401-takara-cards.json) |
+| Takara Shimai: Scratch Simulator | 384133 | [384133-takara-shimai-scratch-simulator.json](./384133-takara-shimai-scratch-simulator.json) |
 | Takara-hai Oozumou Eisei Basho | 151639 | [151639-takara-hai-oozumou-eisei-basho.json](./151639-takara-hai-oozumou-eisei-basho.json) |
 | Takatron: 2098 | 384785 | [384785-takatron-2098.json](./384785-takatron-2098.json) |
 | Take 'Em Out | 71802 | [71802-take-em-out.json](./71802-take-em-out.json) |
@@ -490,6 +491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takeyariman | 222300 | [222300-takeyariman.json](./222300-takeyariman.json) |
 | Taking Root | 263045 | [263045-taking-root.json](./263045-taking-root.json) |
 | Taking Root: Academic Version | 270089 | [270089-taking-root-academic-version.json](./270089-taking-root-academic-version.json) |
+| Taking Today Off | 384156 | [384156-taking-today-off.json](./384156-taking-today-off.json) |
 | Takishawa is Dead | 242655 | [242655-takishawa-is-dead.json](./242655-takishawa-is-dead.json) |
 | Tako no Himitsu: Ocean of Secrets | 250031 | [250031-tako-no-himitsu-ocean-of-secrets.json](./250031-tako-no-himitsu-ocean-of-secrets.json) |
 | Tako no Marine | 107647 | [107647-tako-no-marine.json](./107647-tako-no-marine.json) |
@@ -946,6 +948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Carnage | 28037 | [28037-tank-carnage.json](./28037-tank-carnage.json) |
 | Tank Chess | 304706 | [304706-tank-chess.json](./304706-tank-chess.json) |
 | Tank Combat | 54425 | [54425-tank-combat.json](./54425-tank-combat.json) |
+| Tank Commander: Battlefield | 384164 | [384164-tank-commander-battlefield.json](./384164-tank-commander-battlefield.json) |
 | Tank Domination | 343877 | [343877-tank-domination.json](./343877-tank-domination.json) |
 | Tank Elite | 82130 | [82130-tank-elite.json](./82130-tank-elite.json) |
 | Tank Force | 81329 | [81329-tank-force.json](./81329-tank-force.json) |
@@ -2151,6 +2154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terracosmic | 132622 | [132622-terracosmic.json](./132622-terracosmic.json) |
 | Terracotta | 271235 | [271235-terracotta.json](./271235-terracotta.json) |
 | TerraCube | 361690 | [361690-terracube.json](./361690-terracube.json) |
+| Terrafactory: Idle Planet | 384154 | [384154-terrafactory-idle-planet.json](./384154-terrafactory-idle-planet.json) |
 | TerraFire | 69334 | [69334-terrafire.json](./69334-terrafire.json) |
 | TerraFirmaCraft+ | 297577 | [297577-terrafirmacraft.json](./297577-terrafirmacraft.json) |
 | TerraForge | 258527 | [258527-terraforge.json](./258527-terraforge.json) |
@@ -7827,6 +7831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Desert Luxe Kit | 217801 | [217801-the-sims-4-desert-luxe-kit.json](./217801-the-sims-4-desert-luxe-kit.json) |
 | The Sims 4: Dine Out | 24373 | [24373-the-sims-4-dine-out.json](./24373-the-sims-4-dine-out.json) |
 | The Sims 4: Discover University | 126182 | [126182-the-sims-4-discover-university.json](./126182-the-sims-4-discover-university.json) |
+| The Sims 4: EA Play Edition | 384181 | [384181-the-sims-4-ea-play-edition.json](./384181-the-sims-4-ea-play-edition.json) |
 | The Sims 4: Eco Lifestyle | 135144 | [135144-the-sims-4-eco-lifestyle.json](./135144-the-sims-4-eco-lifestyle.json) |
 | The Sims 4: Essential Glam Kit | 362300 | [362300-the-sims-4-essential-glam-kit.json](./362300-the-sims-4-essential-glam-kit.json) |
 | The Sims 4: Everyday Stuff Bundle | 159341 | [159341-the-sims-4-everyday-stuff-bundle.json](./159341-the-sims-4-everyday-stuff-bundle.json) |
@@ -9648,6 +9653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Lions | 249151 | [249151-three-lions.json](./249151-three-lions.json) |
 | Three Little Pigs - fairy tale with games for kids | 91154 | [91154-three-little-pigs-fairy-tale-with-games-for-kids.json](./91154-three-little-pigs-fairy-tale-with-games-for-kids.json) |
 | Three Mazeketeers | 192869 | [192869-three-mazeketeers.json](./192869-three-mazeketeers.json) |
+| Three Men's Morris | 384169 | [384169-three-mens-morris.json](./384169-three-mens-morris.json) |
 | Three Misses Confectionery | 398455 | [398455-three-misses-confectionery.json](./398455-three-misses-confectionery.json) |
 | Three of a Fish | 123546 | [123546-three-of-a-fish.json](./123546-three-of-a-fish.json) |
 | Three Random Archives | 265114 | [265114-three-random-archives.json](./265114-three-random-archives.json) |
@@ -15526,6 +15532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Calibre: 688 Attack Sub + Chuck Yeager's Air Combat | 86086 | [86086-twin-calibre-688-attack-sub-chuck-yeagers-air-combat.json](./86086-twin-calibre-688-attack-sub-chuck-yeagers-air-combat.json) |
 | Twin Cards | 277866 | [277866-twin-cards.json](./277866-twin-cards.json) |
 | Twin Circle | 192299 | [192299-twin-circle.json](./192299-twin-circle.json) |
+| Twin Cobra | 384136 | [384136-twin-cobra.json](./384136-twin-cobra.json) |
 | Twin Cobra | 8189 | [8189-twin-cobra.json](./8189-twin-cobra.json) |
 | Twin Coves | 169315 | [169315-twin-coves.json](./169315-twin-coves.json) |
 | Twin Dragons | 159356 | [159356-twin-dragons.json](./159356-twin-dragons.json) |
