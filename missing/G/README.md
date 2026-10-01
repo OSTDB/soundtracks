@@ -4842,6 +4842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guile | 13249 | [13249-guile.json](./13249-guile.json) |
 | Guiling's Adventure | 355200 | [355200-guilings-adventure.json](./355200-guilings-adventure.json) |
 | Guillermo Tell | 146307 | [146307-guillermo-tell.json](./146307-guillermo-tell.json) |
+| Guilt | 341099 | [341099-guilt.json](./341099-guilt.json) |
 | Guilt | 345521 | [345521-guilt.json](./345521-guilt.json) |
 | Guilty | 215389 | [215389-guilty.json](./215389-guilty.json) |
 | Guilty | 7839 | [7839-guilty.json](./7839-guilty.json) |
