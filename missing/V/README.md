@@ -679,6 +679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vendetta Online | 2450 | [2450-vendetta-online.json](./2450-vendetta-online.json) |
 | Vendetta: Curse of Raven's Cry - Deluxe Edition | 53875 | [53875-vendetta-curse-of-ravens-cry-deluxe-edition.json](./53875-vendetta-curse-of-ravens-cry-deluxe-edition.json) |
 | Vendetta: Mafia Wars | 216856 | [216856-vendetta-mafia-wars.json](./216856-vendetta-mafia-wars.json) |
+| Vending Machine Co. | 347747 | [347747-vending-machine-co.json](./347747-vending-machine-co.json) |
 | Vending Machine Simulator 2025 | 366225 | [366225-vending-machine-simulator-2025.json](./366225-vending-machine-simulator-2025.json) |
 | Vending Mayhem | 276737 | [276737-vending-mayhem.json](./276737-vending-mayhem.json) |
 | Vendir: Plague of Lies | 190212 | [190212-vendir-plague-of-lies.json](./190212-vendir-plague-of-lies.json) |
