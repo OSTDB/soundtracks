@@ -1665,6 +1665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reboot Heroes | 292020 | [292020-reboot-heroes.json](./292020-reboot-heroes.json) |
 | Reborn | 301985 | [301985-reborn.json](./301985-reborn.json) |
 | Reborn in Sin | 157000 | [157000-reborn-in-sin.json](./157000-reborn-in-sin.json) |
+| Reborn in the toilet | 359548 | [359548-reborn-in-the-toilet.json](./359548-reborn-in-the-toilet.json) |
 | Reborn in Wild City | 111073 | [111073-reborn-in-wild-city.json](./111073-reborn-in-wild-city.json) |
 | Reborn Online | 135807 | [135807-reborn-online.json](./135807-reborn-online.json) |
 | Reborn Souls | 201589 | [201589-reborn-souls.json](./201589-reborn-souls.json) |
@@ -4948,6 +4949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RogueJack: Roguelike Blackjack | 133370 | [133370-roguejack-roguelike-blackjack.json](./133370-roguejack-roguelike-blackjack.json) |
 | Roguelands | 19748 | [19748-roguelands.json](./19748-roguelands.json) |
 | Roguelike Hero | 107898 | [107898-roguelike-hero.json](./107898-roguelike-hero.json) |
+| Roguelike Journey to the West: 100 Ways to Slay Erlang Shen | 359536 | [359536-roguelike-journey-to-the-west-100-ways-to-slay-erlang-shen.json](./359536-roguelike-journey-to-the-west-100-ways-to-slay-erlang-shen.json) |
 | Rogueline | 209659 | [209659-rogueline.json](./209659-rogueline.json) |
 | RogueLive | 291769 | [291769-roguelive.json](./291769-roguelive.json) |
 | Roguemance | 27198 | [27198-roguemance.json](./27198-roguemance.json) |
