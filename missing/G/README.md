@@ -203,7 +203,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gal Metal: Encore Pack | 314025 | [314025-gal-metal-encore-pack.json](./314025-gal-metal-encore-pack.json) |
 | Gal, Geek and Summer | 364078 | [364078-gal-geek-and-summer.json](./364078-gal-geek-and-summer.json) |
 | Gal*Gun 2 | 68279 | [68279-gal-gun-2.json](./68279-gal-gun-2.json) |
+| Gal*Gun 2: Limited Edition | 358981 | [358981-gal-gun-2-limited-edition.json](./358981-gal-gun-2-limited-edition.json) |
 | Gal*Gun: Double Peace - Mr. Happiness Edition | 89910 | [89910-gal-gun-double-peace-mr-happiness-edition.json](./89910-gal-gun-double-peace-mr-happiness-edition.json) |
+| Gal*Gun: Double Peace Horny Trinity Edition | 358982 | [358982-gal-gun-double-peace-horny-trinity-edition.json](./358982-gal-gun-double-peace-horny-trinity-edition.json) |
+| Gal*Gun: Double Peace Ultimate Horny Edition | 358983 | [358983-gal-gun-double-peace-ultimate-horny-edition.json](./358983-gal-gun-double-peace-ultimate-horny-edition.json) |
 | Gala Collider | 127750 | [127750-gala-collider.json](./127750-gala-collider.json) |
 | Galacard: Ackian Archives | 365210 | [365210-galacard-ackian-archives.json](./365210-galacard-ackian-archives.json) |
 | Galacatraz: Eject Equip Escape | 82044 | [82044-galacatraz-eject-equip-escape.json](./82044-galacatraz-eject-equip-escape.json) |
