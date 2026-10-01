@@ -2233,6 +2233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fill & Cross: Pirate Riddles | 155013 | [155013-fill-and-cross-pirate-riddles.json](./155013-fill-and-cross-pirate-riddles.json) |
 | Fill & Cross: Pirate Riddles 2 | 101556 | [101556-fill-and-cross-pirate-riddles-2.json](./101556-fill-and-cross-pirate-riddles-2.json) |
 | Fill & Cross: Pirate Riddles 3 | 213014 | [213014-fill-and-cross-pirate-riddles-3.json](./213014-fill-and-cross-pirate-riddles-3.json) |
+| Fill All | 380615 | [380615-fill-all.json](./380615-fill-all.json) |
 | Fill and Cross: Magic Journey | 159654 | [159654-fill-and-cross-magic-journey.json](./159654-fill-and-cross-magic-journey.json) |
 | Fill and Cross: Trick or Treat | 163987 | [163987-fill-and-cross-trick-or-treat.json](./163987-fill-and-cross-trick-or-treat.json) |
 | Fill and Cross: Trick or Treat 3! | 94877 | [94877-fill-and-cross-trick-or-treat-3.json](./94877-fill-and-cross-trick-or-treat-3.json) |
@@ -2298,6 +2299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fanta-Three | 183900 | [183900-final-fanta-three.json](./183900-final-fanta-three.json) |
 | Final Fantasy | 271227 | [271227-final-fantasy.json](./271227-final-fantasy.json) |
 | Final Fantasy | 286674 | [286674-final-fantasy.json](./286674-final-fantasy.json) |
+| Final Fantasy | 380632 | [380632-final-fantasy.json](./380632-final-fantasy.json) |
 | Final Fantasy | 408304 | [408304-final-fantasy.json](./408304-final-fantasy.json) |
 | Final Fantasy 25th Anniversary Ultimate Box | 282727 | [282727-final-fantasy-25th-anniversary-ultimate-box.json](./282727-final-fantasy-25th-anniversary-ultimate-box.json) |
 | Final Fantasy Agito | 7400 | [7400-final-fantasy-agito.json](./7400-final-fantasy-agito.json) |
@@ -2313,6 +2315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy II | 158981 | [158981-final-fantasy-ii.json](./158981-final-fantasy-ii.json) |
 | Final Fantasy II | 16474 | [16474-final-fantasy-ii.json](./16474-final-fantasy-ii.json) |
 | Final Fantasy II | 271819 | [271819-final-fantasy-ii.json](./271819-final-fantasy-ii.json) |
+| Final Fantasy II | 380633 | [380633-final-fantasy-ii.json](./380633-final-fantasy-ii.json) |
 | Final Fantasy II | 387 | [387-final-fantasy-ii.json](./387-final-fantasy-ii.json) |
 | Final Fantasy II: 20th Anniversary Edition | 121717 | [121717-final-fantasy-ii-20th-anniversary-edition.json](./121717-final-fantasy-ii-20th-anniversary-edition.json) |
 | Final Fantasy II: Job System | 343369 | [343369-final-fantasy-ii-job-system.json](./343369-final-fantasy-ii-job-system.json) |
@@ -2323,6 +2326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy IV | 158983 | [158983-final-fantasy-iv.json](./158983-final-fantasy-iv.json) |
 | Final Fantasy IV | 282725 | [282725-final-fantasy-iv.json](./282725-final-fantasy-iv.json) |
 | Final Fantasy IV | 283313 | [283313-final-fantasy-iv.json](./283313-final-fantasy-iv.json) |
+| Final Fantasy IV | 380634 | [380634-final-fantasy-iv.json](./380634-final-fantasy-iv.json) |
 | Final Fantasy IV Advance | 406 | [406-final-fantasy-iv-advance.json](./406-final-fantasy-iv-advance.json) |
 | Final Fantasy IV Namingway Edition | 379337 | [379337-final-fantasy-iv-namingway-edition.json](./379337-final-fantasy-iv-namingway-edition.json) |
 | Final Fantasy IV: Interlude | 131995 | [131995-final-fantasy-iv-interlude.json](./131995-final-fantasy-iv-interlude.json) |
@@ -2517,6 +2521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Cats 5 | 348425 | [348425-find-cats-5.json](./348425-find-cats-5.json) |
 | Find Cats in the Casino | 400481 | [400481-find-cats-in-the-casino.json](./400481-find-cats-in-the-casino.json) |
 | Find Cats2 | 307687 | [307687-find-cats2.json](./307687-find-cats2.json) |
+| Find Differences | 380628 | [380628-find-differences.json](./380628-find-differences.json) |
 | Find El Chupacabra | 359393 | [359393-find-el-chupacabra.json](./359393-find-el-chupacabra.json) |
 | Find HQ: Police Station | 331123 | [331123-find-hq-police-station.json](./331123-find-hq-police-station.json) |
 | Find It - Tap the Different | 55102 | [55102-find-it-tap-the-different.json](./55102-find-it-tap-the-different.json) |
@@ -3824,6 +3829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floors | 309374 | [309374-floors.json](./309374-floors.json) |
 | FLOP | 342168 | [342168-flop.json](./342168-flop.json) |
 | Flop to the Top | 181712 | [181712-flop-to-the-top.json](./181712-flop-to-the-top.json) |
+| Flopfish | 380645 | [380645-flopfish.json](./380645-flopfish.json) |
 | Floppy and the Sleepy Planet | 116385 | [116385-floppy-and-the-sleepy-planet.json](./116385-floppy-and-the-sleepy-planet.json) |
 | Floppy Cat Bow Golf! | 252981 | [252981-floppy-cat-bow-golf.json](./252981-floppy-cat-bow-golf.json) |
 | Floppy Dick | 408952 | [408952-floppy-dick.json](./408952-floppy-dick.json) |
@@ -5200,6 +5206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragments | 142384 | [142384-fragments.json](./142384-fragments.json) |
 | Fragments | 381037 | [381037-fragments.json](./381037-fragments.json) |
 | Fragments | 74490 | [74490-fragments.json](./74490-fragments.json) |
+| Fragments Blue | 380603 | [380603-fragments-blue.json](./380603-fragments-blue.json) |
 | Fragments of Dread: Late Lines FM | 390228 | [390228-fragments-of-dread-late-lines-fm.json](./390228-fragments-of-dread-late-lines-fm.json) |
 | Fragments of Fear | 406703 | [406703-fragments-of-fear.json](./406703-fragments-of-fear.json) |
 | Fragments of Him | 12518 | [12518-fragments-of-him.json](./12518-fragments-of-him.json) |
