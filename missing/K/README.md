@@ -1646,6 +1646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Under Fire: Heroes | 5882 | [5882-kingdom-under-fire-heroes.json](./5882-kingdom-under-fire-heroes.json) |
 | Kingdom vs Zombies | 133204 | [133204-kingdom-vs-zombies.json](./133204-kingdom-vs-zombies.json) |
 | Kingdom Warriors | 58240 | [58240-kingdom-warriors.json](./58240-kingdom-warriors.json) |
+| Kingdom Wars | 374769 | [374769-kingdom-wars.json](./374769-kingdom-wars.json) |
 | Kingdom Winds | 224031 | [224031-kingdom-winds.json](./224031-kingdom-winds.json) |
 | Kingdom: Classic | 13686 | [13686-kingdom-classic.json](./13686-kingdom-classic.json) |
 | Kingdom: Ikkitousen no Tsurugi | 59367 | [59367-kingdom-ikkitousen-no-tsurugi.json](./59367-kingdom-ikkitousen-no-tsurugi.json) |
