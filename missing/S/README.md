@@ -767,6 +767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sand: A Superfluous Game | 177946 | [177946-sand-a-superfluous-game.json](./177946-sand-a-superfluous-game.json) |
 | Sand:box | 223924 | [223924-sand-box.json](./223924-sand-box.json) |
 | Sandbox | 251826 | [251826-sandbox.json](./251826-sandbox.json) |
+| Sandbox | 368087 | [368087-sandbox.json](./368087-sandbox.json) |
 | Sandbox Planet | 256534 | [256534-sandbox-planet.json](./256534-sandbox-planet.json) |
 | Sandcastle Builder | 62457 | [62457-sandcastle-builder.json](./62457-sandcastle-builder.json) |
 | Sandcastles | 134693 | [134693-sandcastles.json](./134693-sandcastles.json) |
@@ -837,6 +838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanguine Melancholia | 138730 | [138730-sanguine-melancholia.json](./138730-sanguine-melancholia.json) |
 | Sanguivore: Twenty Below | 266271 | [266271-sanguivore-twenty-below.json](./266271-sanguivore-twenty-below.json) |
 | Sanguo | 113003 | [113003-sanguo.json](./113003-sanguo.json) |
+| Sānguó Qún Jiàng Zhuàn | 368105 | [368105-sanguo-qun-jiang-zhuan.json](./368105-sanguo-qun-jiang-zhuan.json) |
 | Sānguó Qúnyīng | 308916 | [308916-sanguo-qunying.json](./308916-sanguo-qunying.json) |
 | Sānguó Qúnyīng Lù | 407319 | [407319-sanguo-qunying-lu.json](./407319-sanguo-qunying-lu.json) |
 | Sānguó Qúnyīng Zhuán | 143495 | [143495-sanguo-qunying-zhuan.json](./143495-sanguo-qunying-zhuan.json) |
@@ -2192,6 +2194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Service: In Harm's Way | 73800 | [73800-secret-service-in-harms-way.json](./73800-secret-service-in-harms-way.json) |
 | Secret Service: Security Breach | 73350 | [73350-secret-service-security-breach.json](./73350-secret-service-security-breach.json) |
 | Secret Spy: Operation Love | 240249 | [240249-secret-spy-operation-love.json](./240249-secret-spy-operation-love.json) |
+| Secret Summer | 368096 | [368096-secret-summer.json](./368096-secret-summer.json) |
 | Secret Summoner | 236954 | [236954-secret-summoner.json](./236954-secret-summoner.json) |
 | Secret Thursday | 312926 | [312926-secret-thursday.json](./312926-secret-thursday.json) |
 | Secret Tower | 186761 | [186761-secret-tower.json](./186761-secret-tower.json) |
@@ -2947,6 +2950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sewer Quest | 376007 | [376007-sewer-quest.json](./376007-sewer-quest.json) |
 | Sewer Rave | 125326 | [125326-sewer-rave.json](./125326-sewer-rave.json) |
 | Sewermania | 42179 | [42179-sewermania.json](./42179-sewermania.json) |
+| Sex & Gun | 368092 | [368092-sex-and-gun.json](./368092-sex-and-gun.json) |
 | Sex Adventures: BDSM Dungeon | 219597 | [219597-sex-adventures-bdsm-dungeon.json](./219597-sex-adventures-bdsm-dungeon.json) |
 | Sex Adventures: Cuckold Gym | 226151 | [226151-sex-adventures-cuckold-gym.json](./226151-sex-adventures-cuckold-gym.json) |
 | Sex Adventures: Futanari Doctor | 286529 | [286529-sex-adventures-futanari-doctor.json](./286529-sex-adventures-futanari-doctor.json) |
@@ -2973,6 +2977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex College | 297214 | [297214-sex-college.json](./297214-sex-college.json) |
 | Sex Diary: Double Trouble Teacher | 286532 | [286532-sex-diary-double-trouble-teacher.json](./286532-sex-diary-double-trouble-teacher.json) |
 | Sex Diary: Futanari Jail | 286533 | [286533-sex-diary-futanari-jail.json](./286533-sex-diary-futanari-jail.json) |
+| Sex Diary: Futanari Massage | 368094 | [368094-sex-diary-futanari-massage.json](./368094-sex-diary-futanari-massage.json) |
 | Sex Diary: Swingers Yacht | 237484 | [237484-sex-diary-swingers-yacht.json](./237484-sex-diary-swingers-yacht.json) |
 | Sex Doll K-Pop Idol | 243155 | [243155-sex-doll-k-pop-idol.json](./243155-sex-doll-k-pop-idol.json) |
 | Sex Dorm | 349868 | [349868-sex-dorm.json](./349868-sex-dorm.json) |
@@ -2999,6 +3004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Inspector | 311144 | [311144-sex-inspector.json](./311144-sex-inspector.json) |
 | Sex Instructor Yoga | 173830 | [173830-sex-instructor-yoga.json](./173830-sex-instructor-yoga.json) |
 | Sex Latex | 272933 | [272933-sex-latex.json](./272933-sex-latex.json) |
+| Sex Lesson | 368086 | [368086-sex-lesson.json](./368086-sex-lesson.json) |
 | Sex Magic | 295320 | [295320-sex-magic.json](./295320-sex-magic.json) |
 | Sex Massage | 276822 | [276822-sex-massage.json](./276822-sex-massage.json) |
 | Sex Massage 2 | 311579 | [311579-sex-massage-2.json](./311579-sex-massage-2.json) |
@@ -3010,6 +3016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Play: The Sauna | 264636 | [264636-sex-play-the-sauna.json](./264636-sex-play-the-sauna.json) |
 | Sex Play: Tropical Vacation | 272934 | [272934-sex-play-tropical-vacation.json](./272934-sex-play-tropical-vacation.json) |
 | Sex Prison | 175795 | [175795-sex-prison.json](./175795-sex-prison.json) |
+| Sex Prison VR | 368090 | [368090-sex-prison-vr.json](./368090-sex-prison-vr.json) |
 | Sex Search | 230950 | [230950-sex-search.json](./230950-sex-search.json) |
 | Sex Search 2: Ultimate | 204430 | [204430-sex-search-2-ultimate.json](./204430-sex-search-2-ultimate.json) |
 | Sex Shop Simulator | 330188 | [330188-sex-shop-simulator.json](./330188-sex-shop-simulator.json) |
@@ -3051,6 +3058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex x Hex | 243381 | [243381-sex-x-hex.json](./243381-sex-x-hex.json) |
 | Sex-Slave Doctor | 97845 | [97845-sex-slave-doctor.json](./97845-sex-slave-doctor.json) |
 | Sex, Beach & Girls | 311818 | [311818-sex-beach-and-girls.json](./311818-sex-beach-and-girls.json) |
+| Sex, Drugs and Cyberpunk | 368093 | [368093-sex-drugs-and-cyberpunk.json](./368093-sex-drugs-and-cyberpunk.json) |
 | Sex, Drugs, and Beer Can | 247553 | [247553-sex-drugs-and-beer-can.json](./247553-sex-drugs-and-beer-can.json) |
 | Sex, Love & Girls | 235689 | [235689-sex-love-and-girls.json](./235689-sex-love-and-girls.json) |
 | Sexbot | 277364 | [277364-sexbot.json](./277364-sexbot.json) |
@@ -8297,6 +8305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Inflation 2: Battle | 140539 | [140539-sonic-inflation-2-battle.json](./140539-sonic-inflation-2-battle.json) |
 | Sonic Inflation Adventure | 140538 | [140538-sonic-inflation-adventure.json](./140538-sonic-inflation-adventure.json) |
 | Sonic into the Black Sea | 417671 | [417671-sonic-into-the-black-sea.json](./417671-sonic-into-the-black-sea.json) |
+| Sonic Islands | 368089 | [368089-sonic-islands.json](./368089-sonic-islands.json) |
 | Sonic Jam | 133930 | [133930-sonic-jam.json](./133930-sonic-jam.json) |
 | Sonic Jam | 72129 | [72129-sonic-jam.json](./72129-sonic-jam.json) |
 | Sonic Journey | 317609 | [317609-sonic-journey.json](./317609-sonic-journey.json) |
@@ -10366,6 +10375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpinDrive Ping Pong | 43354 | [43354-spindrive-ping-pong.json](./43354-spindrive-ping-pong.json) |
 | Spine | 165432 | [165432-spine.json](./165432-spine.json) |
 | Spine & Quill | 304630 | [304630-spine-and-quill.json](./304630-spine-and-quill.json) |
+| Spine Lasher | 368057 | [368057-spine-lasher.json](./368057-spine-lasher.json) |
 | Spineworld | 209494 | [209494-spineworld.json](./209494-spineworld.json) |
 | Sping | 145442 | [145442-sping.json](./145442-sping.json) |
 | SpinGhost | 336712 | [336712-spinghost.json](./336712-spinghost.json) |
@@ -12251,6 +12261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay Dead Evolution | 10896 | [10896-stay-dead-evolution.json](./10896-stay-dead-evolution.json) |
 | Stay Focus | 296992 | [296992-stay-focus.json](./296992-stay-focus.json) |
 | Stay Home | 184055 | [184055-stay-home.json](./184055-stay-home.json) |
+| Stay Home and Play With Waifu! | 368097 | [368097-stay-home-and-play-with-waifu.json](./368097-stay-home-and-play-with-waifu.json) |
 | Stay Home It Rains Outside | 316406 | [316406-stay-home-it-rains-outside.json](./316406-stay-home-it-rains-outside.json) |
 | Stay in | 237056 | [237056-stay-in.json](./237056-stay-in.json) |
 | Stay in the Light | 118641 | [118641-stay-in-the-light.json](./118641-stay-in-the-light.json) |
