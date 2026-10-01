@@ -2827,6 +2827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mathematic Adventures | 149423 | [149423-mathematic-adventures.json](./149423-mathematic-adventures.json) |
 | Mathematician | 377078 | [377078-mathematician.json](./377078-mathematician.json) |
 | Mathematiqa - Brain Game | 106977 | [106977-mathematiqa-brain-game.json](./106977-mathematiqa-brain-game.json) |
+| Mathigo | 350544 | [350544-mathigo.json](./350544-mathigo.json) |
 | MathJelly | 386854 | [386854-mathjelly.json](./386854-mathjelly.json) |
 | MathLand | 146687 | [146687-mathland.json](./146687-mathland.json) |
 | Mathle | 363038 | [363038-mathle.json](./363038-mathle.json) |
@@ -4301,6 +4302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Men's Room Mayhem | 52590 | [52590-mens-room-mayhem.json](./52590-mens-room-mayhem.json) |
 | Menace | 262664 | [262664-menace.json](./262664-menace.json) |
 | Menace from the Deep: Complete Edition | 401133 | [401133-menace-from-the-deep-complete-edition.json](./401133-menace-from-the-deep-complete-edition.json) |
+| Menace from the Deep: The Rift of Sanity | 350548 | [350548-menace-from-the-deep-the-rift-of-sanity.json](./350548-menace-from-the-deep-the-rift-of-sanity.json) |
 | Menace Labs | 199401 | [199401-menace-labs.json](./199401-menace-labs.json) |
 | Menacer | 45599 | [45599-menacer.json](./45599-menacer.json) |
 | Menacetide | 386238 | [386238-menacetide.json](./386238-menacetide.json) |
@@ -6104,6 +6106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Warrior Defense | 404217 | [404217-mini-warrior-defense.json](./404217-mini-warrior-defense.json) |
 | Mini Warriors: Three Kingdoms | 196305 | [196305-mini-warriors-three-kingdoms.json](./196305-mini-warriors-three-kingdoms.json) |
 | Mini Wheels | 83591 | [83591-mini-wheels.json](./83591-mini-wheels.json) |
+| Mini Wizards | 350581 | [350581-mini-wizards.json](./350581-mini-wizards.json) |
 | Mini Words | 125710 | [125710-mini-words.json](./125710-mini-words.json) |
 | Mini Z Racers Turbo | 31902 | [31902-mini-z-racers-turbo.json](./31902-mini-z-racers-turbo.json) |
 | Mini Zag | 84341 | [84341-mini-zag.json](./84341-mini-zag.json) |
@@ -6868,6 +6871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobo Greenhouse Garden | 256903 | [256903-mobo-greenhouse-garden.json](./256903-mobo-greenhouse-garden.json) |
 | Mobo Hide and Seek | 200128 | [200128-mobo-hide-and-seek.json](./200128-mobo-hide-and-seek.json) |
 | Mobocratic | 164279 | [164279-mobocratic.json](./164279-mobocratic.json) |
+| MobOS | 350566 | [350566-mobos.json](./350566-mobos.json) |
 | Mobs 'N Monsters | 321379 | [321379-mobs-n-monsters.json](./321379-mobs-n-monsters.json) |
 | Mobsmash.io | 125981 | [125981-mobsmash-io.json](./125981-mobsmash-io.json) |
 | Mobsters | 78608 | [78608-mobsters.json](./78608-mobsters.json) |
@@ -6928,6 +6932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern Naval Warfare | 186903 | [186903-modern-naval-warfare.json](./186903-modern-naval-warfare.json) |
 | Modern Naval Warfare: Sea Combat | 389067 | [389067-modern-naval-warfare-sea-combat.json](./389067-modern-naval-warfare-sea-combat.json) |
 | Modern Road-Like | 104041 | [104041-modern-road-like.json](./104041-modern-road-like.json) |
+| Modern Sonic Adventure 2: The Trial | 350564 | [350564-modern-sonic-adventure-2-the-trial.json](./350564-modern-sonic-adventure-2-the-trial.json) |
 | Modern Towers | 140988 | [140988-modern-towers.json](./140988-modern-towers.json) |
 | Modern War | 100206 | [100206-modern-war.json](./100206-modern-war.json) |
 | Modern War by Gree | 39186 | [39186-modern-war-by-gree.json](./39186-modern-war-by-gree.json) |
@@ -10066,6 +10071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mycelium: The Silent Contract | 343357 | [343357-mycelium-the-silent-contract.json](./343357-mycelium-the-silent-contract.json) |
 | Mychess | 73301 | [73301-mychess.json](./73301-mychess.json) |
 | Mychess II | 59886 | [59886-mychess-ii.json](./59886-mychess-ii.json) |
+| Mycocosm | 350559 | [350559-mycocosm.json](./350559-mycocosm.json) |
 | Mycofall | 391726 | [391726-mycofall.json](./391726-mycofall.json) |
 | MyCoke | 64136 | [64136-mycoke.json](./64136-mycoke.json) |
 | Mycopsychosys | 342662 | [342662-mycopsychosys.json](./342662-mycopsychosys.json) |
