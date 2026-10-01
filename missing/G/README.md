@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives+: Ridge Racer | 416050 | [416050-g-mode-archives-ridge-racer.json](./416050-g-mode-archives-ridge-racer.json) |
 | G-Mode Archives+: Saiko Mystery Series Vol.3 - Sin | 260681 | [260681-g-mode-archives-saiko-mystery-series-vol-3-sin.json](./260681-g-mode-archives-saiko-mystery-series-vol-3-sin.json) |
 | G-Mode Archives+: Saiko Mystery Series Vol.5 - Cold Rain | 276453 | [276453-g-mode-archives-saiko-mystery-series-vol-5-cold-rain.json](./276453-g-mode-archives-saiko-mystery-series-vol-5-cold-rain.json) |
+| G-Mode Archives+: Stella Deus - The Age of Alchemy | 378337 | [378337-g-mode-archives-stella-deus-the-age-of-alchemy.json](./378337-g-mode-archives-stella-deus-the-age-of-alchemy.json) |
 | G-Mode Archives+: Stella Deus - The Spirit of Darkness | 374605 | [374605-g-mode-archives-stella-deus-the-spirit-of-darkness.json](./374605-g-mode-archives-stella-deus-the-spirit-of-darkness.json) |
 | G-Mode Archives+: Tantei Kibugawa Ryousuke Jiken-tan Vol. 14 - Rasen no Kan Satsujin Jiken | 295849 | [295849-g-mode-archives-tantei-kibugawa-ryousuke-jiken-tan-vol-14-rasen-no-kan-satsujin-jiken.json](./295849-g-mode-archives-tantei-kibugawa-ryousuke-jiken-tan-vol-14-rasen-no-kan-satsujin-jiken.json) |
 | G-Mode Archives+: Tantei Kibukawa Ryousuke Jikenbo Vol. 13 - Tasogare ha Ruri no Tsuioki | 279118 | [279118-g-mode-archives-tantei-kibukawa-ryousuke-jikenbo-vol-13-tasogare-ha-ruri-no-tsuioki.json](./279118-g-mode-archives-tantei-kibukawa-ryousuke-jikenbo-vol-13-tasogare-ha-ruri-no-tsuioki.json) |
@@ -2828,6 +2829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods' Margarita | 197368 | [197368-gods-margarita.json](./197368-gods-margarita.json) |
 | GodsArena Online | 368541 | [368541-godsarena-online.json](./368541-godsarena-online.json) |
 | Godsbane Idle | 202670 | [202670-godsbane-idle.json](./202670-godsbane-idle.json) |
+| Godscale | 378349 | [378349-godscale.json](./378349-godscale.json) |
 | Godsend | 112757 | [112757-godsend.json](./112757-godsend.json) |
 | Godsend Arena | 235853 | [235853-godsend-arena.json](./235853-godsend-arena.json) |
 | Godslayer Arena | 295851 | [295851-godslayer-arena.json](./295851-godslayer-arena.json) |
@@ -4384,6 +4386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gripless: Drift Valley | 386885 | [386885-gripless-drift-valley.json](./386885-gripless-drift-valley.json) |
 | Gripper | 130776 | [130776-gripper.json](./130776-gripper.json) |
 | Gripper's Adventure | 89272 | [89272-grippers-adventure.json](./89272-grippers-adventure.json) |
+| Grippy | 378389 | [378389-grippy.json](./378389-grippy.json) |
 | Gripshot | 340401 | [340401-gripshot.json](./340401-gripshot.json) |
 | Griptape Backbone | 29755 | [29755-griptape-backbone.json](./29755-griptape-backbone.json) |
 | Grisaia Phantom Trigger 01&02 | 147935 | [147935-grisaia-phantom-trigger-01-and-02.json](./147935-grisaia-phantom-trigger-01-and-02.json) |
