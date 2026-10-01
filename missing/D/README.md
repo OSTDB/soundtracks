@@ -2811,6 +2811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deltarune: Rouxls Kaard | 270732 | [270732-deltarune-rouxls-kaard.json](./270732-deltarune-rouxls-kaard.json) |
 | Deltarune: Survey Program | 397081 | [397081-deltarune-survey-program.json](./397081-deltarune-survey-program.json) |
 | Deltarune: The Upper Hand | 329669 | [329669-deltarune-the-upper-hand.json](./329669-deltarune-the-upper-hand.json) |
+| Deltarune: Wilter's Wonderland | 350545 | [350545-deltarune-wilters-wonderland.json](./350545-deltarune-wilters-wonderland.json) |
 | Deltatale | 318535 | [318535-deltatale.json](./318535-deltatale.json) |
 | Deltatraveler | 182345 | [182345-deltatraveler.json](./182345-deltatraveler.json) |
 | Deltatraveler: Section 4 | 315072 | [315072-deltatraveler-section-4.json](./315072-deltatraveler-section-4.json) |
@@ -4104,6 +4105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig Dug | 2636 | [2636-dig-dug.json](./2636-dig-dug.json) |
 | Dig Dug Arrangement | 132160 | [132160-dig-dug-arrangement.json](./132160-dig-dug-arrangement.json) |
 | Dig Dug Arrangement | 178410 | [178410-dig-dug-arrangement.json](./178410-dig-dug-arrangement.json) |
+| Dig Dug New Frontier | 350575 | [350575-dig-dug-new-frontier.json](./350575-dig-dug-new-frontier.json) |
 | Dig Dug: Digging Strike | 47729 | [47729-dig-dug-digging-strike.json](./47729-dig-dug-digging-strike.json) |
 | Dig Dungeon: Roguelike | 233498 | [233498-dig-dungeon-roguelike.json](./233498-dig-dungeon-roguelike.json) |
 | Dig for TCG Cards With Your Friends | 409765 | [409765-dig-for-tcg-cards-with-your-friends.json](./409765-dig-for-tcg-cards-with-your-friends.json) |
