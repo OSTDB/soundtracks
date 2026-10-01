@@ -1192,6 +1192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Land: Puppy Edition | 277904 | [277904-farm-land-puppy-edition.json](./277904-farm-land-puppy-edition.json) |
 | Farm Life | 381011 | [381011-farm-life.json](./381011-farm-life.json) |
 | Farm Life: Natures Adventure | 31804 | [31804-farm-life-natures-adventure.json](./31804-farm-life-natures-adventure.json) |
+| Farm Love Legend: Transform your Animals into Anime Boys | 379000 | [379000-farm-love-legend-transform-your-animals-into-anime-boys.json](./379000-farm-love-legend-transform-your-animals-into-anime-boys.json) |
 | Farm Love Legend: Transform your Animals into Anime Girls | 380709 | [380709-farm-love-legend-transform-your-animals-into-anime-girls.json](./380709-farm-love-legend-transform-your-animals-into-anime-girls.json) |
 | Farm Manager 2018 | 55308 | [55308-farm-manager-2018.json](./55308-farm-manager-2018.json) |
 | Farm Manager 2021 | 139459 | [139459-farm-manager-2021.json](./139459-farm-manager-2021.json) |
