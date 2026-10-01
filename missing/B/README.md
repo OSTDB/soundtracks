@@ -693,6 +693,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Points | 304693 | [304693-ball-points.json](./304693-ball-points.json) |
 | Ball Raider II | 14282 | [14282-ball-raider-ii.json](./14282-ball-raider-ii.json) |
 | Ball Relay | 108471 | [108471-ball-relay.json](./108471-ball-relay.json) |
+| Ball Revamped | 381187 | [381187-ball-revamped.json](./381187-ball-revamped.json) |
+| Ball Revamped 2: Metaphysik | 381191 | [381191-ball-revamped-2-metaphysik.json](./381191-ball-revamped-2-metaphysik.json) |
+| Ball Revamped III: Andromeda | 381213 | [381213-ball-revamped-iii-andromeda.json](./381213-ball-revamped-iii-andromeda.json) |
 | Ball Roller | 384713 | [384713-ball-roller.json](./384713-ball-roller.json) |
 | Ball Rows | 103879 | [103879-ball-rows.json](./103879-ball-rows.json) |
 | Ball Run | 118797 | [118797-ball-run.json](./118797-ball-run.json) |
@@ -4240,6 +4243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Rose | 33253 | [33253-black-rose.json](./33253-black-rose.json) |
 | Black Rose Valkyrie | 137079 | [137079-black-rose-valkyrie.json](./137079-black-rose-valkyrie.json) |
 | Black Runes | 266764 | [266764-black-runes.json](./266764-black-runes.json) |
+| Black Sailors | 381172 | [381172-black-sailors.json](./381172-black-sailors.json) |
 | Black Sails | 289384 | [289384-black-sails.json](./289384-black-sails.json) |
 | Black Sand Drift | 31911 | [31911-black-sand-drift.json](./31911-black-sand-drift.json) |
 | Black Sand Drift: Collector's Edition | 52627 | [52627-black-sand-drift-collectors-edition.json](./52627-black-sand-drift-collectors-edition.json) |
@@ -5963,6 +5967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoneTown | 145047 | [145047-bonetown.json](./145047-bonetown.json) |
 | Bonetown: The Power of Death | 35741 | [35741-bonetown-the-power-of-death.json](./35741-bonetown-the-power-of-death.json) |
 | BoneTown: The Second Coming Edition | 173828 | [173828-bonetown-the-second-coming-edition.json](./173828-bonetown-the-second-coming-edition.json) |
+| Bonetox | 381180 | [381180-bonetox.json](./381180-bonetox.json) |
 | Boneyard Bounce! | 414604 | [414604-boneyard-bounce.json](./414604-boneyard-bounce.json) |
 | Bonez Adventures: Tomb of Fulaos | 120874 | [120874-bonez-adventures-tomb-of-fulaos.json](./120874-bonez-adventures-tomb-of-fulaos.json) |
 | Bonfire Kingdom | 260413 | [260413-bonfire-kingdom.json](./260413-bonfire-kingdom.json) |
@@ -6681,6 +6686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bracket Chain | 279765 | [279765-bracket-chain.json](./279765-bracket-chain.json) |
 | Bracket City | 341031 | [341031-bracket-city.json](./341031-bracket-city.json) |
 | Brad Has A Pain | 194424 | [194424-brad-has-a-pain.json](./194424-brad-has-a-pain.json) |
+| Bradley the Badger | 381211 | [381211-bradley-the-badger.json](./381211-bradley-the-badger.json) |
 | Bradley Trainer | 40272 | [40272-bradley-trainer.json](./40272-bradley-trainer.json) |
 | Bradyon Veda | 372659 | [372659-bradyon-veda.json](./372659-bradyon-veda.json) |
 | Bragger's Run | 150610 | [150610-braggers-run.json](./150610-braggers-run.json) |
@@ -6951,6 +6957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawlers | 266240 | [266240-brawlers.json](./266240-brawlers.json) |
 | Brawlers of Duality | 310500 | [310500-brawlers-of-duality.json](./310500-brawlers-of-duality.json) |
 | Brawlhalla x Guacamelee Crossover | 342146 | [342146-brawlhalla-x-guacamelee-crossover.json](./342146-brawlhalla-x-guacamelee-crossover.json) |
+| Brawlhalla X Lara Croft Bundle | 381166 | [381166-brawlhalla-x-lara-croft-bundle.json](./381166-brawlhalla-x-lara-croft-bundle.json) |
 | Brawlhalla X Year of Shadow Launch | 342153 | [342153-brawlhalla-x-year-of-shadow-launch.json](./342153-brawlhalla-x-year-of-shadow-launch.json) |
 | Brawlhalla: Autumn Championship 2018 Pack | 342628 | [342628-brawlhalla-autumn-championship-2018-pack.json](./342628-brawlhalla-autumn-championship-2018-pack.json) |
 | Brawlhalla: BCX 2023 Pack | 274586 | [274586-brawlhalla-bcx-2023-pack.json](./274586-brawlhalla-bcx-2023-pack.json) |
