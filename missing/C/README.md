@@ -5511,6 +5511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Cannons+ | 107383 | [107383-color-cannons.json](./107383-color-cannons.json) |
 | Color Chain | 111488 | [111488-color-chain.json](./111488-color-chain.json) |
 | Color Cingdom | 334788 | [334788-color-cingdom.json](./334788-color-cingdom.json) |
+| Color Clash | 369135 | [369135-color-clash.json](./369135-color-clash.json) |
 | Color Clash | 93980 | [93980-color-clash.json](./93980-color-clash.json) |
 | Color Computer Games #1 | 71247 | [71247-color-computer-games-1.json](./71247-color-computer-games-1.json) |
 | Color Connect | 168679 | [168679-color-connect.json](./168679-color-connect.json) |
