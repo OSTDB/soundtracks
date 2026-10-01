@@ -3713,6 +3713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dfuse | 314423 | [314423-dfuse.json](./314423-dfuse.json) |
 | DGU: Death God University | 35689 | [35689-dgu-death-god-university.json](./35689-dgu-death-god-university.json) |
 | DGU: Death God University - Midterm Mania | 171457 | [171457-dgu-death-god-university-midterm-mania.json](./171457-dgu-death-god-university-midterm-mania.json) |
+| Dhaka Racing | 385278 | [385278-dhaka-racing.json](./385278-dhaka-racing.json) |
 | Dharma Dojo | 79948 | [79948-dharma-dojo.json](./79948-dharma-dojo.json) |
 | DHTML Lemmings | 352223 | [352223-dhtml-lemmings.json](./352223-dhtml-lemmings.json) |
 | Di Feng Long Huang | 308898 | [308898-di-feng-long-huang.json](./308898-di-feng-long-huang.json) |
