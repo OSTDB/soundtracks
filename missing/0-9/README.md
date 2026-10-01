@@ -893,6 +893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3594e: Sangokushi Eiga | 80633 | [80633-3594e-sangokushi-eiga.json](./80633-3594e-sangokushi-eiga.json) |
 | 35MM | 19396 | [19396-35mm.json](./19396-35mm.json) |
 | 36 Nights | 277942 | [277942-36-nights.json](./277942-36-nights.json) |
+| 36 Zodiac Cycles | 362407 | [362407-36-zodiac-cycles.json](./362407-36-zodiac-cycles.json) |
 | 360 | 178446 | [178446-360.json](./178446-360.json) |
 | 360 Breakout | 57321 | [57321-360-breakout.json](./57321-360-breakout.json) |
 | 360 Mega App Pack HD | 78352 | [78352-360-mega-app-pack-hd.json](./78352-360-mega-app-pack-hd.json) |
