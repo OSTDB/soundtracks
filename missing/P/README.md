@@ -2407,6 +2407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pete Sampras Tennis 97 | 57672 | [57672-pete-sampras-tennis-97.json](./57672-pete-sampras-tennis-97.json) |
 | Pete's Peril | 215697 | [215697-petes-peril.json](./215697-petes-peril.json) |
 | Peter Frankl: Puzzle no Tou | 254499 | [254499-peter-frankl-puzzle-no-tou.json](./254499-peter-frankl-puzzle-no-tou.json) |
+| Peter Griffin Bike | 343930 | [343930-peter-griffin-bike.json](./343930-peter-griffin-bike.json) |
 | Peter Padder Pauleypop | 181167 | [181167-peter-padder-pauleypop.json](./181167-peter-padder-pauleypop.json) |
 | Peter Pan | 95405 | [95405-peter-pan.json](./95405-peter-pan.json) |
 | Peter Pan: A Story Painting Adventure | 327871 | [327871-peter-pan-a-story-painting-adventure.json](./327871-peter-pan-a-story-painting-adventure.json) |
@@ -4233,6 +4234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Boy | 94182 | [94182-pizza-boy.json](./94182-pizza-boy.json) |
 | Pizza Chef | 40758 | [40758-pizza-chef.json](./40758-pizza-chef.json) |
 | Pizza City | 225591 | [225591-pizza-city.json](./225591-pizza-city.json) |
+| Pizza Clickers | 343973 | [343973-pizza-clickers.json](./343973-pizza-clickers.json) |
 | Pizza Death | 207541 | [207541-pizza-death.json](./207541-pizza-death.json) |
 | Pizza Deathlivery | 347717 | [347717-pizza-deathlivery.json](./347717-pizza-deathlivery.json) |
 | Pizza Delivery Bagel | 209676 | [209676-pizza-delivery-bagel.json](./209676-pizza-delivery-bagel.json) |
@@ -7416,6 +7418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Downfall | 113813 | [113813-project-downfall.json](./113813-project-downfall.json) |
 | Project Dream 64 | 315029 | [315029-project-dream-64.json](./315029-project-dream-64.json) |
 | Project DT | 143098 | [143098-project-dt.json](./143098-project-dt.json) |
+| Project Dukkha | 343942 | [343942-project-dukkha.json](./343942-project-dukkha.json) |
 | Project Dunk | 122328 | [122328-project-dunk.json](./122328-project-dunk.json) |
 | Project DX | 174821 | [174821-project-dx.json](./174821-project-dx.json) |
 | Project Eagle | 112960 | [112960-project-eagle.json](./112960-project-eagle.json) |
