@@ -3529,6 +3529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exodus Idle | 211761 | [211761-exodus-idle.json](./211761-exodus-idle.json) |
 | Exodus: Sunflower on the Horizon | 257977 | [257977-exodus-sunflower-on-the-horizon.json](./257977-exodus-sunflower-on-the-horizon.json) |
 | Exodus: The Last War | 69930 | [69930-exodus-the-last-war.json](./69930-exodus-the-last-war.json) |
+| Exofinity Clicker | 383579 | [383579-exofinity-clicker.json](./383579-exofinity-clicker.json) |
 | ExoFrontier: Venus | 319724 | [319724-exofrontier-venus.json](./319724-exofrontier-venus.json) |
 | Exogear | 415210 | [415210-exogear.json](./415210-exogear.json) |
 | Exogen VR Experience | 117049 | [117049-exogen-vr-experience.json](./117049-exogen-vr-experience.json) |
@@ -3820,6 +3821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyes of the Killer | 150095 | [150095-eyes-of-the-killer.json](./150095-eyes-of-the-killer.json) |
 | Eyes of the Night | 173231 | [173231-eyes-of-the-night.json](./173231-eyes-of-the-night.json) |
 | Eyes on Me | 385855 | [385855-eyes-on-me.json](./385855-eyes-on-me.json) |
+| Eyes On Me | 383577 | [383577-eyes-on-me.json](./383577-eyes-on-me.json) |
 | Eyes That Hypnotise | 324878 | [324878-eyes-that-hypnotise.json](./324878-eyes-that-hypnotise.json) |
 | Eyeshield 21: AmeFoot Yarouze! Ya! Ha! | 58281 | [58281-eyeshield-21-amefoot-yarouze-ya-ha.json](./58281-eyeshield-21-amefoot-yarouze-ya-ha.json) |
 | Eyeshield 21: DevilBats DevilDays | 49582 | [49582-eyeshield-21-devilbats-devildays.json](./49582-eyeshield-21-devilbats-devildays.json) |
