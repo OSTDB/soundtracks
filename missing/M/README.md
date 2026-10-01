@@ -4401,6 +4401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merc Elite | 63276 | [63276-merc-elite.json](./63276-merc-elite.json) |
 | Merc Storia - The Healer and the Melody of the Heart | 333560 | [333560-merc-storia-the-healer-and-the-melody-of-the-heart.json](./333560-merc-storia-the-healer-and-the-melody-of-the-heart.json) |
 | Merc Tactics | 183973 | [183973-merc-tactics.json](./183973-merc-tactics.json) |
+| Mercator | 345071 | [345071-mercator.json](./345071-mercator.json) |
 | Mercenaries 2: World in Flames | 2684 | [2684-mercenaries-2-world-in-flames.json](./2684-mercenaries-2-world-in-flames.json) |
 | Mercenaries Blaze: Dawn of the Twin Dragons | 141648 | [141648-mercenaries-blaze-dawn-of-the-twin-dragons.json](./141648-mercenaries-blaze-dawn-of-the-twin-dragons.json) |
 | Mercenaries of Astonia | 115487 | [115487-mercenaries-of-astonia.json](./115487-mercenaries-of-astonia.json) |
@@ -9938,6 +9939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Singing Monsters | 16305 | [16305-my-singing-monsters.json](./16305-my-singing-monsters.json) |
 | My Singing Monsters Karaoke | 412306 | [412306-my-singing-monsters-karaoke.json](./412306-my-singing-monsters-karaoke.json) |
 | My Singing Monsters: Dawn of Fire | 89694 | [89694-my-singing-monsters-dawn-of-fire.json](./89694-my-singing-monsters-dawn-of-fire.json) |
+| My Sleeper | 345062 | [345062-my-sleeper.json](./345062-my-sleeper.json) |
 | My Slime Garden | 328458 | [328458-my-slime-garden.json](./328458-my-slime-garden.json) |
 | My Slow Life with the Princess Knight and Her Devoted Handmaiden | 270974 | [270974-my-slow-life-with-the-princess-knight-and-her-devoted-handmaiden.json](./270974-my-slow-life-with-the-princess-knight-and-her-devoted-handmaiden.json) |
 | My So-called Future Girlfriend | 112750 | [112750-my-so-called-future-girlfriend.json](./112750-my-so-called-future-girlfriend.json) |
