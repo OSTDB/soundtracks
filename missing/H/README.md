@@ -4835,6 +4835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Tale 2: Remaster | 390498 | [390498-horror-tale-2-remaster.json](./390498-horror-tale-2-remaster.json) |
 | Horror Tale 2: Samantha | 230953 | [230953-horror-tale-2-samantha.json](./230953-horror-tale-2-samantha.json) |
 | Horror Tale 3: The Witch | 339906 | [339906-horror-tale-3-the-witch.json](./339906-horror-tale-3-the-witch.json) |
+| Horror Tales Eats The World | 358460 | [358460-horror-tales-eats-the-world.json](./358460-horror-tales-eats-the-world.json) |
 | Horror Tales: The Beggar | 149523 | [149523-horror-tales-the-beggar.json](./149523-horror-tales-the-beggar.json) |
 | Horror Tomb | 295869 | [295869-horror-tomb.json](./295869-horror-tomb.json) |
 | Horror Tour | 209625 | [209625-horror-tour.json](./209625-horror-tour.json) |
