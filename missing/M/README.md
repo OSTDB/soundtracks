@@ -4698,6 +4698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metaltech: Battledrome | 73516 | [73516-metaltech-battledrome.json](./73516-metaltech-battledrome.json) |
 | Metaltech: Earthsiege - Expansion Pack | 73554 | [73554-metaltech-earthsiege-expansion-pack.json](./73554-metaltech-earthsiege-expansion-pack.json) |
 | Metaltech: Earthsiege Speech Pack | 98937 | [98937-metaltech-earthsiege-speech-pack.json](./98937-metaltech-earthsiege-speech-pack.json) |
+| Metalyx | 354579 | [354579-metalyx.json](./354579-metalyx.json) |
 | Metamon | 227835 | [227835-metamon.json](./227835-metamon.json) |
 | Metamon Island | 223947 | [223947-metamon-island.json](./223947-metamon-island.json) |
 | Metamoqester | 39542 | [39542-metamoqester.json](./39542-metamoqester.json) |
@@ -8055,6 +8056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morra 3D | 371474 | [371474-morra-3d.json](./371474-morra-3d.json) |
 | Morrigan's Isle | 324876 | [324876-morrigans-isle.json](./324876-morrigans-isle.json) |
 | Morris Cave | 213448 | [213448-morris-cave.json](./213448-morris-cave.json) |
+| Morris Meets the Bikers | 354594 | [354594-morris-meets-the-bikers.json](./354594-morris-meets-the-bikers.json) |
 | Morrok | 250974 | [250974-morrok.json](./250974-morrok.json) |
 | Morrow | 220844 | [220844-morrow.json](./220844-morrow.json) |
 | Morse | 198337 | [198337-morse.json](./198337-morse.json) |
@@ -8821,6 +8823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mroi | 333940 | [333940-mroi.json](./333940-mroi.json) |
 | Mrs. Estacion | 375347 | [375347-mrs-estacion.json](./375347-mrs-estacion.json) |
 | Mrs. Fantastic's Freaky Figurine Shop | 166702 | [166702-mrs-fantastics-freaky-figurine-shop.json](./166702-mrs-fantastics-freaky-figurine-shop.json) |
+| Mrs. Mopp | 354578 | [354578-mrs-mopp.json](./354578-mrs-mopp.json) |
 | MrToilet | 401824 | [401824-mrtoilet.json](./401824-mrtoilet.json) |
 | Ms Jenkins Estate | 217300 | [217300-ms-jenkins-estate.json](./217300-ms-jenkins-estate.json) |
 | MS Saga: A New Dawn | 20492 | [20492-ms-saga-a-new-dawn.json](./20492-ms-saga-a-new-dawn.json) |
