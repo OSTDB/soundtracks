@@ -4026,6 +4026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly Killer VR | 102222 | [102222-fly-killer-vr.json](./102222-fly-killer-vr.json) |
 | Fly Logic: Fly Fishing - The Green River | 209463 | [209463-fly-logic-fly-fishing-the-green-river.json](./209463-fly-logic-fly-fishing-the-green-river.json) |
 | Fly Or Die | 367058 | [367058-fly-or-die.json](./367058-fly-or-die.json) |
+| Fly Over! 100KM! Mountains! | 373677 | [373677-fly-over-100km-mountains.json](./373677-fly-over-100km-mountains.json) |
 | Fly Punch Boom: First Impact! | 132201 | [132201-fly-punch-boom-first-impact.json](./132201-fly-punch-boom-first-impact.json) |
 | Fly Simulator | 40706 | [40706-fly-simulator.json](./40706-fly-simulator.json) |
 | Fly Spy | 12997 | [12997-fly-spy.json](./12997-fly-spy.json) |
@@ -6271,6 +6272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funky Karts | 107397 | [107397-funky-karts.json](./107397-funky-karts.json) |
 | Funky Lab Rat | 52227 | [52227-funky-lab-rat.json](./52227-funky-lab-rat.json) |
 | Funky Maker | 336599 | [336599-funky-maker.json](./336599-funky-maker.json) |
+| Funky Monkey: Time to Slack Off! | 373671 | [373671-funky-monkey-time-to-slack-off.json](./373671-funky-monkey-time-to-slack-off.json) |
 | Funky Physics | 85162 | [85162-funky-physics.json](./85162-funky-physics.json) |
 | Funky Punch | 64687 | [64687-funky-punch.json](./64687-funky-punch.json) |
 | Funnels and Buckets | 46644 | [46644-funnels-and-buckets.json](./46644-funnels-and-buckets.json) |
