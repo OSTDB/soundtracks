@@ -817,6 +817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abstract Code | 283873 | [283873-abstract-code.json](./283873-abstract-code.json) |
 | Abstract Driver | 250450 | [250450-abstract-driver.json](./250450-abstract-driver.json) |
 | Abstract Initiative | 44748 | [44748-abstract-initiative.json](./44748-abstract-initiative.json) |
+| Abstract Tales: Techno-World | 366386 | [366386-abstract-tales-techno-world.json](./366386-abstract-tales-techno-world.json) |
 | Abstract World | 201247 | [201247-abstract-world.json](./201247-abstract-world.json) |
 | Abstractanoid | 68851 | [68851-abstractanoid.json](./68851-abstractanoid.json) |
 | Abstraction | 154572 | [154572-abstraction.json](./154572-abstraction.json) |
