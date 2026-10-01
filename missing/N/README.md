@@ -2181,6 +2181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NightCaster II: Equinox | 5970 | [5970-nightcaster-ii-equinox.json](./5970-nightcaster-ii-equinox.json) |
 | NightCaster: Defeat the Darkness | 47323 | [47323-nightcaster-defeat-the-darkness.json](./47323-nightcaster-defeat-the-darkness.json) |
 | Nightclub 69: Bunny Girls | 367032 | [367032-nightclub-69-bunny-girls.json](./367032-nightclub-69-bunny-girls.json) |
+| NightClub City | 337235 | [337235-nightclub-city.json](./337235-nightclub-city.json) |
 | Nightclub Emporium | 34788 | [34788-nightclub-emporium.json](./34788-nightclub-emporium.json) |
 | Nightclub Manager Simulator | 326391 | [326391-nightclub-manager-simulator.json](./326391-nightclub-manager-simulator.json) |
 | Nightclub Royale: Let's Party! | 254608 | [254608-nightclub-royale-lets-party.json](./254608-nightclub-royale-lets-party.json) |
