@@ -6336,6 +6336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrow Patterns | 267361 | [267361-arrow-patterns.json](./267361-arrow-patterns.json) |
 | Arrow Rain | 351122 | [351122-arrow-rain.json](./351122-arrow-rain.json) |
 | Arrow Snake | 135874 | [135874-arrow-snake.json](./135874-arrow-snake.json) |
+| Arrow Survival: 15 Seconds | 372080 | [372080-arrow-survival-15-seconds.json](./372080-arrow-survival-15-seconds.json) |
 | Arrow Tourney | 127924 | [127924-arrow-tourney.json](./127924-arrow-tourney.json) |
 | Arrow Ventura VR | 132853 | [132853-arrow-ventura-vr.json](./132853-arrow-ventura-vr.json) |
 | Arrow War | 248104 | [248104-arrow-war.json](./248104-arrow-war.json) |
