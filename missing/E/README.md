@@ -682,6 +682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Eggy PC-8801 | 389053 | [389053-eggconsole-eggy-pc-8801.json](./389053-eggconsole-eggy-pc-8801.json) |
 | Eggconsole Fray PC-9801 | 351228 | [351228-eggconsole-fray-pc-9801.json](./351228-eggconsole-fray-pc-9801.json) |
 | Eggconsole Guardic MSX | 323704 | [323704-eggconsole-guardic-msx.json](./323704-eggconsole-guardic-msx.json) |
+| Eggconsole Hajya No Fuuin PC-8801 | 371417 | [371417-eggconsole-hajya-no-fuuin-pc-8801.json](./371417-eggconsole-hajya-no-fuuin-pc-8801.json) |
 | Eggconsole Hydlide MSX | 315833 | [315833-eggconsole-hydlide-msx.json](./315833-eggconsole-hydlide-msx.json) |
 | Eggconsole Kiss of Murder PC-8801 | 375407 | [375407-eggconsole-kiss-of-murder-pc-8801.json](./375407-eggconsole-kiss-of-murder-pc-8801.json) |
 | Eggconsole Kohakuiro no Yuigon PC-8801mkIISR | 393629 | [393629-eggconsole-kohakuiro-no-yuigon-pc-8801mkiisr.json](./393629-eggconsole-kohakuiro-no-yuigon-pc-8801mkiisr.json) |
