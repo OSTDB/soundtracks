@@ -1033,6 +1033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Hunter: Samurai | 334772 | [334772-achievement-hunter-samurai.json](./334772-achievement-hunter-samurai.json) |
 | Achievement Hunter: Thief | 334762 | [334762-achievement-hunter-thief.json](./334762-achievement-hunter-thief.json) |
 | Achievement Hunter: Witch | 334780 | [334780-achievement-hunter-witch.json](./334780-achievement-hunter-witch.json) |
+| Achievement Hunter: Wizard | 368633 | [368633-achievement-hunter-wizard.json](./368633-achievement-hunter-wizard.json) |
 | Achievement Idler Black | 95124 | [95124-achievement-idler-black.json](./95124-achievement-idler-black.json) |
 | Achievement Lurker: Ballad of the Shimapan Warrior - King of Panties | 102133 | [102133-achievement-lurker-ballad-of-the-shimapan-warrior-king-of-panties.json](./102133-achievement-lurker-ballad-of-the-shimapan-warrior-king-of-panties.json) |
 | Achievement Lurker: Easiest Cosmetic Numbers | 90120 | [90120-achievement-lurker-easiest-cosmetic-numbers.json](./90120-achievement-lurker-easiest-cosmetic-numbers.json) |
@@ -2600,6 +2601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aletheia: Return of Odysseus | 288753 | [288753-aletheia-return-of-odysseus.json](./288753-aletheia-return-of-odysseus.json) |
 | Aletta | 200170 | [200170-aletta.json](./200170-aletta.json) |
 | Alex and Der Murder | 396378 | [396378-alex-and-der-murder.json](./396378-alex-and-der-murder.json) |
+| Alex and the Jets | 368610 | [368610-alex-and-the-jets.json](./368610-alex-and-the-jets.json) |
 | Alex Demeo's Race America | 48215 | [48215-alex-demeos-race-america.json](./48215-alex-demeos-race-america.json) |
 | Alex Hill: The Body at Clearwater Bay | 335423 | [335423-alex-hill-the-body-at-clearwater-bay.json](./335423-alex-hill-the-body-at-clearwater-bay.json) |
 | Alex Hill: Whispers at White Oak Inn | 288752 | [288752-alex-hill-whispers-at-white-oak-inn.json](./288752-alex-hill-whispers-at-white-oak-inn.json) |
@@ -4234,6 +4236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Opera | 237496 | [237496-angry-birds-opera.json](./237496-angry-birds-opera.json) |
 | Angry Birds Racing | 226776 | [226776-angry-birds-racing.json](./226776-angry-birds-racing.json) |
 | Angry Birds Refresh | 357348 | [357348-angry-birds-refresh.json](./357348-angry-birds-refresh.json) |
+| Angry Birds Rush | 368638 | [368638-angry-birds-rush.json](./368638-angry-birds-rush.json) |
 | Angry Birds Seasons HD | 102139 | [102139-angry-birds-seasons-hd.json](./102139-angry-birds-seasons-hd.json) |
 | Angry Birds Space | 16365 | [16365-angry-birds-space.json](./16365-angry-birds-space.json) |
 | Angry Birds Space HD | 102601 | [102601-angry-birds-space-hd.json](./102601-angry-birds-space-hd.json) |
@@ -7070,6 +7073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral | 14273 | [14273-astral.json](./14273-astral.json) |
 | Astral | 377836 | [377836-astral.json](./377836-astral.json) |
 | Astral Ascent: Yamat - The Breach Traveler | 313217 | [313217-astral-ascent-yamat-the-breach-traveler.json](./313217-astral-ascent-yamat-the-breach-traveler.json) |
+| Astral Blaze | 368593 | [368593-astral-blaze.json](./368593-astral-blaze.json) |
 | Astral Chain | 115283 | [115283-astral-chain.json](./115283-astral-chain.json) |
 | Astral Chain: Collector's Edition | 136273 | [136273-astral-chain-collectors-edition.json](./136273-astral-chain-collectors-edition.json) |
 | Astral Coconut | 235834 | [235834-astral-coconut.json](./235834-astral-coconut.json) |
