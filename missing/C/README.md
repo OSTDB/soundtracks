@@ -1835,6 +1835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Life | 230525 | [230525-cat-life.json](./230525-cat-life.json) |
 | Cat Life Simulator | 267486 | [267486-cat-life-simulator.json](./267486-cat-life-simulator.json) |
 | Cat Lobster Simulator | 253401 | [253401-cat-lobster-simulator.json](./253401-cat-lobster-simulator.json) |
+| Cat Magic School | 350002 | [350002-cat-magic-school.json](./350002-cat-magic-school.json) |
 | Cat Mail Co. | 406739 | [406739-cat-mail-co.json](./406739-cat-mail-co.json) |
 | Cat Meat | 32911 | [32911-cat-meat.json](./32911-cat-meat.json) |
 | Cat Meme Clicker | 391214 | [391214-cat-meme-clicker.json](./391214-cat-meme-clicker.json) |
@@ -9498,6 +9499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cy: Cyberpunk Survivors | 248908 | [248908-cy-cyberpunk-survivors.json](./248908-cy-cyberpunk-survivors.json) |
 | Cyadonia | 99658 | [99658-cyadonia.json](./99658-cyadonia.json) |
 | Cyan Avenger | 278999 | [278999-cyan-avenger.json](./278999-cyan-avenger.json) |
+| Cyan Breach | 349975 | [349975-cyan-breach.json](./349975-cyan-breach.json) |
 | Cyan Heart | 374245 | [374245-cyan-heart.json](./374245-cyan-heart.json) |
 | Cyan's Snow House | 289446 | [289446-cyans-snow-house.json](./289446-cyans-snow-house.json) |
 | Cyanide & Happiness: Freakpocalypse - Episode 1 | 147983 | [147983-cyanide-and-happiness-freakpocalypse-episode-1.json](./147983-cyanide-and-happiness-freakpocalypse-episode-1.json) |
