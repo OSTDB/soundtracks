@@ -546,6 +546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales Beyond the Tomb: No Witnesses | 407331 | [407331-tales-beyond-the-tomb-no-witnesses.json](./407331-tales-beyond-the-tomb-no-witnesses.json) |
 | Tales Beyond the Tomb: Route 86 | 362327 | [362327-tales-beyond-the-tomb-route-86.json](./362327-tales-beyond-the-tomb-route-86.json) |
 | Tales Beyond the Tomb: The Farm's Secret | 326746 | [326746-tales-beyond-the-tomb-the-farms-secret.json](./326746-tales-beyond-the-tomb-the-farms-secret.json) |
+| Tales for the Long Nights | 358461 | [358461-tales-for-the-long-nights.json](./358461-tales-for-the-long-nights.json) |
 | Tales from Ahrum | 175981 | [175981-tales-from-ahrum.json](./175981-tales-from-ahrum.json) |
 | Tales from Centropolis | 244239 | [244239-tales-from-centropolis.json](./244239-tales-from-centropolis.json) |
 | Tales From Deep Space | 94751 | [94751-tales-from-deep-space.json](./94751-tales-from-deep-space.json) |
@@ -575,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Agaris: Children of Fate | 236929 | [236929-tales-of-agaris-children-of-fate.json](./236929-tales-of-agaris-children-of-fate.json) |
 | Tales of Agaris: The Legendary Rion | 225102 | [225102-tales-of-agaris-the-legendary-rion.json](./225102-tales-of-agaris-the-legendary-rion.json) |
 | Tales of Ancient Nights | 114334 | [114334-tales-of-ancient-nights.json](./114334-tales-of-ancient-nights.json) |
+| Tales of Aradia: Idle RPG | 358457 | [358457-tales-of-aradia-idle-rpg.json](./358457-tales-of-aradia-idle-rpg.json) |
 | Tales of Aravorn: Seasons Of The Wolf - Bad Blood | 171632 | [171632-tales-of-aravorn-seasons-of-the-wolf-bad-blood.json](./171632-tales-of-aravorn-seasons-of-the-wolf-bad-blood.json) |
 | Tales of Argento: Spirit of the Goddess | 379433 | [379433-tales-of-argento-spirit-of-the-goddess.json](./379433-tales-of-argento-spirit-of-the-goddess.json) |
 | Tales of Arise: Beyond the Dawn | 266719 | [266719-tales-of-arise-beyond-the-dawn.json](./266719-tales-of-arise-beyond-the-dawn.json) |
@@ -592,6 +594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Destiny 2 | 1203 | [1203-tales-of-destiny-2.json](./1203-tales-of-destiny-2.json) |
 | Tales of Destiny: Director's Cut | 80500 | [80500-tales-of-destiny-directors-cut.json](./80500-tales-of-destiny-directors-cut.json) |
 | Tales of Echoes of the Symphony of Mana | 379434 | [379434-tales-of-echoes-of-the-symphony-of-mana.json](./379434-tales-of-echoes-of-the-symphony-of-mana.json) |
+| Tales of Eden: Midgard | 358455 | [358455-tales-of-eden-midgard.json](./358455-tales-of-eden-midgard.json) |
 | Tales of Elastic Boy: Mission 1 | 85418 | [85418-tales-of-elastic-boy-mission-1.json](./85418-tales-of-elastic-boy-mission-1.json) |
 | Tales of Eldoria | 376003 | [376003-tales-of-eldoria.json](./376003-tales-of-eldoria.json) |
 | Tales of Elondria | 296996 | [296996-tales-of-elondria.json](./296996-tales-of-elondria.json) |
@@ -669,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of the Drunken Paladin | 191811 | [191811-tales-of-the-drunken-paladin.json](./191811-tales-of-the-drunken-paladin.json) |
 | Tales of the Elements: 2nd Chapter | 168848 | [168848-tales-of-the-elements-2nd-chapter.json](./168848-tales-of-the-elements-2nd-chapter.json) |
 | Tales of the Heroes: Twin Brave | 42760 | [42760-tales-of-the-heroes-twin-brave.json](./42760-tales-of-the-heroes-twin-brave.json) |
+| Tales of the Lost: The Stranger | 358458 | [358458-tales-of-the-lost-the-stranger.json](./358458-tales-of-the-lost-the-stranger.json) |
 | Tales of the Magic Ball | 239747 | [239747-tales-of-the-magic-ball.json](./239747-tales-of-the-magic-ball.json) |
 | Tales of the Neon Sea: Collector's Edition | 228733 | [228733-tales-of-the-neon-sea-collectors-edition.json](./228733-tales-of-the-neon-sea-collectors-edition.json) |
 | Tales of The Nightmares: Episode One | 352834 | [352834-tales-of-the-nightmares-episode-one.json](./352834-tales-of-the-nightmares-episode-one.json) |
@@ -685,6 +689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of the Unknown: Volume I - The Bard's Tale | 394230 | [394230-tales-of-the-unknown-volume-i-the-bards-tale.json](./394230-tales-of-the-unknown-volume-i-the-bards-tale.json) |
 | Tales of the Unknown: Volume I - The Bard's Tale | 394234 | [394234-tales-of-the-unknown-volume-i-the-bards-tale.json](./394234-tales-of-the-unknown-volume-i-the-bards-tale.json) |
 | Tales of The White Knight | 320546 | [320546-tales-of-the-white-knight.json](./320546-tales-of-the-white-knight.json) |
+| Tales of the Withered | 358456 | [358456-tales-of-the-withered.json](./358456-tales-of-the-withered.json) |
 | Tales of the World: Radiant Mythology | 19159 | [19159-tales-of-the-world-radiant-mythology.json](./19159-tales-of-the-world-radiant-mythology.json) |
 | Tales of the World: Radiant Mythology 2 | 42794 | [42794-tales-of-the-world-radiant-mythology-2.json](./42794-tales-of-the-world-radiant-mythology-2.json) |
 | Tales of the World: Radiant Mythology 3 | 42793 | [42793-tales-of-the-world-radiant-mythology-3.json](./42793-tales-of-the-world-radiant-mythology-3.json) |
@@ -779,6 +784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talking ABC's: A Day at the Beach | 292118 | [292118-talking-abcs-a-day-at-the-beach.json](./292118-talking-abcs-a-day-at-the-beach.json) |
 | Talking Ben the Dog | 191877 | [191877-talking-ben-the-dog.json](./191877-talking-ben-the-dog.json) |
 | Talking Bruce the Panda | 266251 | [266251-talking-bruce-the-panda.json](./266251-talking-bruce-the-panda.json) |
+| Talking Cactus | 358423 | [358423-talking-cactus.json](./358423-talking-cactus.json) |
 | Talking Caillou | 325678 | [325678-talking-caillou.json](./325678-talking-caillou.json) |
 | Talking Ghostbusters II | 218434 | [218434-talking-ghostbusters-ii.json](./218434-talking-ghostbusters-ii.json) |
 | Talking Ginger 2 | 344922 | [344922-talking-ginger-2.json](./344922-talking-ginger-2.json) |
@@ -6307,6 +6313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Long Tale | 342144 | [342144-the-long-tale.json](./342144-the-long-tale.json) |
 | The Long Way Home | 390118 | [390118-the-long-way-home.json](./390118-the-long-way-home.json) |
 | The Long Winter: I Am Not an Animal | 390646 | [390646-the-long-winter-i-am-not-an-animal.json](./390646-the-long-winter-i-am-not-an-animal.json) |
+| The Longed-for Revenge of Undecember | 358280 | [358280-the-longed-for-revenge-of-undecember.json](./358280-the-longed-for-revenge-of-undecember.json) |
 | The Longest Drift | 175441 | [175441-the-longest-drift.json](./175441-the-longest-drift.json) |
 | The Longest Dungeon | 238602 | [238602-the-longest-dungeon.json](./238602-the-longest-dungeon.json) |
 | The Longest Five Minutes | 44078 | [44078-the-longest-five-minutes.json](./44078-the-longest-five-minutes.json) |
@@ -8499,6 +8506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Things We Don't See: 10 Interactive Stories of Horror, Mystery, and the Unknown | 415192 | [415192-the-things-we-dont-see-10-interactive-stories-of-horror-mystery-and-the-unknown.json](./415192-the-things-we-dont-see-10-interactive-stories-of-horror-mystery-and-the-unknown.json) |
 | The Things We Lost in the Flood | 118170 | [118170-the-things-we-lost-in-the-flood.json](./118170-the-things-we-lost-in-the-flood.json) |
 | The Thinker | 294210 | [294210-the-thinker.json](./294210-the-thinker.json) |
+| The Third | 358337 | [358337-the-third.json](./358337-the-third.json) |
 | The Third Age | 264137 | [264137-the-third-age.json](./264137-the-third-age.json) |
 | The Third Celestial Realm | 358500 | [358500-the-third-celestial-realm.json](./358500-the-third-celestial-realm.json) |
 | The Third Pig | 337176 | [337176-the-third-pig.json](./337176-the-third-pig.json) |
@@ -11391,6 +11399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Tank Showdown | 420658 | [420658-tiny-tank-showdown.json](./420658-tiny-tank-showdown.json) |
 | Tiny Tanks | 78904 | [78904-tiny-tanks.json](./78904-tiny-tanks.json) |
 | Tiny Tap Quest | 307066 | [307066-tiny-tap-quest.json](./307066-tiny-tap-quest.json) |
+| Tiny Tengu Tactics | 358444 | [358444-tiny-tengu-tactics.json](./358444-tiny-tengu-tactics.json) |
 | Tiny Tennis | 247173 | [247173-tiny-tennis.json](./247173-tiny-tennis.json) |
 | Tiny Terraces | 311476 | [311476-tiny-terraces.json](./311476-tiny-terraces.json) |
 | Tiny Terry's Turbo Trip | 253106 | [253106-tiny-terrys-turbo-trip.json](./253106-tiny-terrys-turbo-trip.json) |
@@ -14410,6 +14419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travel Along | 272905 | [272905-travel-along.json](./272905-travel-along.json) |
 | Travel Bug | 86096 | [86096-travel-bug.json](./86096-travel-bug.json) |
 | Travel Cuisine 2: Sweet Life | 358405 | [358405-travel-cuisine-2-sweet-life.json](./358405-travel-cuisine-2-sweet-life.json) |
+| Travel Cuisine 2: Sweet Life - Collector's Edition | 358422 | [358422-travel-cuisine-2-sweet-life-collectors-edition.json](./358422-travel-cuisine-2-sweet-life-collectors-edition.json) |
 | Travel Cuisine 3: The Sea of Flavours - Collector's Edition | 358404 | [358404-travel-cuisine-3-the-sea-of-flavours-collectors-edition.json](./358404-travel-cuisine-3-the-sea-of-flavours-collectors-edition.json) |
 | Travel Cuisine: Collector's Edition | 250655 | [250655-travel-cuisine-collectors-edition.json](./250655-travel-cuisine-collectors-edition.json) |
 | Travel Junction | 335859 | [335859-travel-junction.json](./335859-travel-junction.json) |
