@@ -5305,6 +5305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apricot Kernel | 364531 | [364531-apricot-kernel.json](./364531-apricot-kernel.json) |
 | April '86 | 251841 | [251841-april-86.json](./251841-april-86.json) |
 | April 7th | 58863 | [58863-april-7th.json](./58863-april-7th.json) |
+| April Grove | 339401 | [339401-april-grove.json](./339401-april-grove.json) |
 | April Was A Fool | 199052 | [199052-april-was-a-fool.json](./199052-april-was-a-fool.json) |
 | Aptly Rolling | 165661 | [165661-aptly-rolling.json](./165661-aptly-rolling.json) |
 | Apu's Journey | 276854 | [276854-apus-journey.json](./276854-apus-journey.json) |
