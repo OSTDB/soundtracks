@@ -1062,6 +1062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nemesis - RPG | 143084 | [143084-nemesis-rpg.json](./143084-nemesis-rpg.json) |
 | Nemesis '90 Kai | 314677 | [314677-nemesis-90-kai.json](./314677-nemesis-90-kai.json) |
 | Nemesis 2 | 1480 | [1480-nemesis-2.json](./1480-nemesis-2.json) |
+| Nemesis Macana | 364630 | [364630-nemesis-macana.json](./364630-nemesis-macana.json) |
 | Nemesis Realms | 80883 | [80883-nemesis-realms.json](./80883-nemesis-realms.json) |
 | Nemesis the Warlock | 37187 | [37187-nemesis-the-warlock.json](./37187-nemesis-the-warlock.json) |
 | Nemesis Z | 287211 | [287211-nemesis-z.json](./287211-nemesis-z.json) |
@@ -2551,6 +2552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Spirit | 6819 | [6819-ninja-spirit.json](./6819-ninja-spirit.json) |
 | Ninja Stealth 2 | 29639 | [29639-ninja-stealth-2.json](./29639-ninja-stealth-2.json) |
 | Ninja Stealth 4 | 163314 | [163314-ninja-stealth-4.json](./163314-ninja-stealth-4.json) |
+| Ninja Step | 364651 | [364651-ninja-step.json](./364651-ninja-step.json) |
 | Ninja Story: Akio's Tale | 102743 | [102743-ninja-story-akios-tale.json](./102743-ninja-story-akios-tale.json) |
 | Ninja Striker! | 96854 | [96854-ninja-striker.json](./96854-ninja-striker.json) |
 | Ninja Suffering | 181786 | [181786-ninja-suffering.json](./181786-ninja-suffering.json) |
