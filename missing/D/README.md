@@ -3275,6 +3275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desohunter | 156524 | [156524-desohunter.json](./156524-desohunter.json) |
 | Desolate City: The Bloody Dawn - Enhanced Edition | 113731 | [113731-desolate-city-the-bloody-dawn-enhanced-edition.json](./113731-desolate-city-the-bloody-dawn-enhanced-edition.json) |
 | Desolate Echoes | 337666 | [337666-desolate-echoes.json](./337666-desolate-echoes.json) |
+| Desolate Hope | 383593 | [383593-desolate-hope.json](./383593-desolate-hope.json) |
 | Desolate Realms | 276847 | [276847-desolate-realms.json](./276847-desolate-realms.json) |
 | Desolate Sands | 109697 | [109697-desolate-sands.json](./109697-desolate-sands.json) |
 | Desolate Wastes: Vendor Chronicles | 30314 | [30314-desolate-wastes-vendor-chronicles.json](./30314-desolate-wastes-vendor-chronicles.json) |
@@ -6032,6 +6033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doon Snake | 87218 | [87218-doon-snake.json](./87218-doon-snake.json) |
 | Doons | 306464 | [306464-doons.json](./306464-doons.json) |
 | Dooors | 85575 | [85575-dooors.json](./85575-dooors.json) |
+| Dooors 2 | 383575 | [383575-dooors-2.json](./383575-dooors-2.json) |
 | Dooors 3 | 383640 | [383640-dooors-3.json](./383640-dooors-3.json) |
 | Dooors VR | 29947 | [29947-dooors-vr.json](./29947-dooors-vr.json) |
 | Door | 103457 | [103457-door.json](./103457-door.json) |
@@ -7723,6 +7725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop Cooking | 311478 | [311478-drop-cooking.json](./311478-drop-cooking.json) |
 | Drop Dead: The Cabin | 238999 | [238999-drop-dead-the-cabin.json](./238999-drop-dead-the-cabin.json) |
 | Drop Duchy | 317865 | [317865-drop-duchy.json](./317865-drop-duchy.json) |
+| Drop Duchy: The North | 383572 | [383572-drop-duchy-the-north.json](./383572-drop-duchy-the-north.json) |
 | Drop Flip | 96538 | [96538-drop-flip.json](./96538-drop-flip.json) |
 | Drop Flip Seasons | 96284 | [96284-drop-flip-seasons.json](./96284-drop-flip-seasons.json) |
 | Drop Loot | 411029 | [411029-drop-loot.json](./411029-drop-loot.json) |
