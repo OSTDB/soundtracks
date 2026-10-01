@@ -5776,6 +5776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruiga Pirates: Cursed Seas | 301823 | [301823-ruiga-pirates-cursed-seas.json](./301823-ruiga-pirates-cursed-seas.json) |
 | Ruin | 272378 | [272378-ruin.json](./272378-ruin.json) |
 | Ruin 2: Mimic Adventures | 313241 | [313241-ruin-2-mimic-adventures.json](./313241-ruin-2-mimic-adventures.json) |
+| Ruin and Rebirth | 376031 | [376031-ruin-and-rebirth.json](./376031-ruin-and-rebirth.json) |
 | Ruin Arm | 38292 | [38292-ruin-arm.json](./38292-ruin-arm.json) |
 | Ruin Hunter Raichi | 392456 | [392456-ruin-hunter-raichi.json](./392456-ruin-hunter-raichi.json) |
 | Ruin of the Reckless | 28240 | [28240-ruin-of-the-reckless.json](./28240-ruin-of-the-reckless.json) |
