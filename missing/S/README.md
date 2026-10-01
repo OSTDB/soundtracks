@@ -1326,6 +1326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ScarQuest | 301242 | [301242-scarquest.json](./301242-scarquest.json) |
 | Scarred | 264640 | [264640-scarred.json](./264640-scarred.json) |
 | Scarred Stars | 154985 | [154985-scarred-stars.json](./154985-scarred-stars.json) |
+| Scarred Steel | 374780 | [374780-scarred-steel.json](./374780-scarred-steel.json) |
 | Scarry Village | 301995 | [301995-scarry-village.json](./301995-scarry-village.json) |
 | Scars of Mars | 267687 | [267687-scars-of-mars.json](./267687-scars-of-mars.json) |
 | Scars of Summer | 169438 | [169438-scars-of-summer.json](./169438-scars-of-summer.json) |
@@ -1814,6 +1815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sculpt | 263763 | [263763-sculpt.json](./263763-sculpt.json) |
 | Sculpt People: Creative Edition | 308789 | [308789-sculpt-people-creative-edition.json](./308789-sculpt-people-creative-edition.json) |
 | Sculptor | 122286 | [122286-sculptor.json](./122286-sculptor.json) |
+| Sculptor | 374775 | [374775-sculptor.json](./374775-sculptor.json) |
 | Sculpture of Chance | 244749 | [244749-sculpture-of-chance.json](./244749-sculpture-of-chance.json) |
 | Sculpturn | 264141 | [264141-sculpturn.json](./264141-sculpturn.json) |
 | Scum: Vehicle Skins Pack | 288905 | [288905-scum-vehicle-skins-pack.json](./288905-scum-vehicle-skins-pack.json) |
@@ -5330,6 +5332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simulator Z | 277838 | [277838-simulator-z.json](./277838-simulator-z.json) |
 | Simulator: Parking Lot | 323510 | [323510-simulator-parking-lot.json](./323510-simulator-parking-lot.json) |
 | Simuliator Sidieniia Na Kryshie | 163858 | [163858-simuliator-sidieniia-na-kryshie.json](./163858-simuliator-sidieniia-na-kryshie.json) |
+| Simulo | 374766 | [374766-simulo.json](./374766-simulo.json) |
 | SimuLove! vol. 1 | 309438 | [309438-simulove-vol-1.json](./309438-simulove-vol-1.json) |
 | SimuSex | 94335 | [94335-simusex.json](./94335-simusex.json) |
 | SiN | 1045 | [1045-sin.json](./1045-sin.json) |
@@ -7276,6 +7279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Plow | 192872 | [192872-snow-plow.json](./192872-snow-plow.json) |
 | Snow Plow Train Simulator 3D - Russia | 87104 | [87104-snow-plow-train-simulator-3d-russia.json](./87104-snow-plow-train-simulator-3d-russia.json) |
 | Snow Plow Truck | 101488 | [101488-snow-plow-truck.json](./101488-snow-plow-truck.json) |
+| Snow Plowing Simulator: Ski Resort | 374764 | [374764-snow-plowing-simulator-ski-resort.json](./374764-snow-plowing-simulator-ski-resort.json) |
 | Snow Problem | 342060 | [342060-snow-problem.json](./342060-snow-problem.json) |
 | Snow Rider | 43336 | [43336-snow-rider.json](./43336-snow-rider.json) |
 | Snow Rider 3D | 353507 | [353507-snow-rider-3d.json](./353507-snow-rider-3d.json) |
@@ -7892,6 +7896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solo Leveling: Arise Overdrive | 349302 | [349302-solo-leveling-arise-overdrive.json](./349302-solo-leveling-arise-overdrive.json) |
 | Solo Noble | 175374 | [175374-solo-noble.json](./175374-solo-noble.json) |
 | Solo Records | 177936 | [177936-solo-records.json](./177936-solo-records.json) |
+| Solo Tactics | 374790 | [374790-solo-tactics.json](./374790-solo-tactics.json) |
 | Solo_Poker | 118936 | [118936-solo-poker.json](./118936-solo-poker.json) |
 | Solomania | 329378 | [329378-solomania.json](./329378-solomania.json) |
 | Solomon Division | 216891 | [216891-solomon-division.json](./216891-solomon-division.json) |
@@ -12046,6 +12051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starseed Harmonies | 385553 | [385553-starseed-harmonies.json](./385553-starseed-harmonies.json) |
 | Starshapes | 249864 | [249864-starshapes.json](./249864-starshapes.json) |
 | Starshatter | 70929 | [70929-starshatter.json](./70929-starshatter.json) |
+| Starshield | 374752 | [374752-starshield.json](./374752-starshield.json) |
 | Starshifter | 211942 | [211942-starshifter.json](./211942-starshifter.json) |
 | Starshine Legacy Episode 1: Mystery of the Soul Riders | 196735 | [196735-starshine-legacy-episode-1-mystery-of-the-soul-riders.json](./196735-starshine-legacy-episode-1-mystery-of-the-soul-riders.json) |
 | Starship | 208449 | [208449-starship.json](./208449-starship.json) |
@@ -13771,6 +13777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubus Farm | 151166 | [151166-succubus-farm.json](./151166-succubus-farm.json) |
 | Succubus Girl Story | 192443 | [192443-succubus-girl-story.json](./192443-succubus-girl-story.json) |
 | Succubus Imprisoned | 83258 | [83258-succubus-imprisoned.json](./83258-succubus-imprisoned.json) |
+| Succubus Memories | 374785 | [374785-succubus-memories.json](./374785-succubus-memories.json) |
 | Succubus Puttel | 385845 | [385845-succubus-puttel.json](./385845-succubus-puttel.json) |
 | Succubus Quest | 97486 | [97486-succubus-quest.json](./97486-succubus-quest.json) |
 | Succubus Rem | 74452 | [74452-succubus-rem.json](./74452-succubus-rem.json) |
