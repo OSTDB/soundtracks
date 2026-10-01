@@ -660,8 +660,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball at Work: A Fun and Unique Game of Skill and Patience! | 139870 | [139870-ball-at-work-a-fun-and-unique-game-of-skill-and-patience.json](./139870-ball-at-work-a-fun-and-unique-game-of-skill-and-patience.json) |
 | Ball at Work: The Ultimate Speedrun Platformer! | 171570 | [171570-ball-at-work-the-ultimate-speedrun-platformer.json](./171570-ball-at-work-the-ultimate-speedrun-platformer.json) |
 | Ball Attack | 78984 | [78984-ball-attack.json](./78984-ball-attack.json) |
+| Ball Blast: Dreamland DLC | 356814 | [356814-ball-blast-dreamland-dlc.json](./356814-ball-blast-dreamland-dlc.json) |
 | Ball Blast: Platinum Edition | 395674 | [395674-ball-blast-platinum-edition.json](./395674-ball-blast-platinum-edition.json) |
+| Ball Blast: Space DLC | 356815 | [356815-ball-blast-space-dlc.json](./356815-ball-blast-space-dlc.json) |
 | Ball Blast: Space Edition | 364097 | [364097-ball-blast-space-edition.json](./364097-ball-blast-space-edition.json) |
+| Ball Blast: Wilds DLC | 356816 | [356816-ball-blast-wilds-dlc.json](./356816-ball-blast-wilds-dlc.json) |
 | Ball Bounce Maze | 166611 | [166611-ball-bounce-maze.json](./166611-ball-bounce-maze.json) |
 | Ball Boy Simulator | 412511 | [412511-ball-boy-simulator.json](./412511-ball-boy-simulator.json) |
 | Ball Breaker 3D | 78036 | [78036-ball-breaker-3d.json](./78036-ball-breaker-3d.json) |
@@ -8603,6 +8606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buying Tomato | 394869 | [394869-buying-tomato.json](./394869-buying-tomato.json) |
 | Buzludzha VR | 126496 | [126496-buzludzha-vr.json](./126496-buzludzha-vr.json) |
 | Buzz | 232552 | [232552-buzz.json](./232552-buzz.json) |
+| Buzz Bombers | 356783 | [356783-buzz-bombers.json](./356783-buzz-bombers.json) |
 | Buzz Bombers | 5665 | [5665-buzz-bombers.json](./5665-buzz-bombers.json) |
 | Buzz Cut Simulation | 277313 | [277313-buzz-cut-simulation.json](./277313-buzz-cut-simulation.json) |
 | Buzz is a VTuber: I want to be famous, even if it's just a game | 301887 | [301887-buzz-is-a-vtuber-i-want-to-be-famous-even-if-its-just-a-game.json](./301887-buzz-is-a-vtuber-i-want-to-be-famous-even-if-its-just-a-game.json) |
