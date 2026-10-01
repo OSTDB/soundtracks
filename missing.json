@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T03:17:39.750Z",
-  "total_missing": 147676,
+  "generated_at": "2026-10-01T03:32:47.753Z",
+  "total_missing": 147726,
   "games": [
     {
       "igdb_id": 186066,
@@ -14721,6 +14721,11 @@
       "igdb_id": 364086,
       "game_name": "Aery: Viking Saga",
       "file": "missing/A/364086-aery-viking-saga.json"
+    },
+    {
+      "igdb_id": 378997,
+      "game_name": "Aery: Winter Wonderland",
+      "file": "missing/A/378997-aery-winter-wonderland.json"
     },
     {
       "igdb_id": 379564,
@@ -34246,6 +34251,11 @@
       "igdb_id": 119087,
       "game_name": "Arcade Archives: Image Fight",
       "file": "missing/A/119087-arcade-archives-image-fight.json"
+    },
+    {
+      "igdb_id": 378998,
+      "game_name": "Arcade Archives: Karate Blazers",
+      "file": "missing/A/378998-arcade-archives-karate-blazers.json"
     },
     {
       "igdb_id": 99544,
@@ -77353,6 +77363,11 @@
       "file": "missing/B/179129-bombarium.json"
     },
     {
+      "igdb_id": 379008,
+      "game_name": "Bombastar",
+      "file": "missing/B/379008-bombastar.json"
+    },
+    {
       "igdb_id": 308253,
       "game_name": "Bombastic",
       "file": "missing/B/308253-bombastic.json"
@@ -80888,6 +80903,11 @@
       "file": "missing/B/256240-bowling-crew.json"
     },
     {
+      "igdb_id": 378961,
+      "game_name": "Bowling Fever Strike Masters",
+      "file": "missing/B/378961-bowling-fever-strike-masters.json"
+    },
+    {
       "igdb_id": 288285,
       "game_name": "Bowling Fever: Deluxe Edition",
       "file": "missing/B/288285-bowling-fever-deluxe-edition.json"
@@ -82016,6 +82036,11 @@
       "igdb_id": 364099,
       "game_name": "Brain Workout! Jellyfish Puzzle",
       "file": "missing/B/364099-brain-workout-jellyfish-puzzle.json"
+    },
+    {
+      "igdb_id": 378999,
+      "game_name": "Brain Workout! Spinning Insect Puzzle",
+      "file": "missing/B/378999-brain-workout-spinning-insect-puzzle.json"
     },
     {
       "igdb_id": 135677,
@@ -84551,6 +84576,11 @@
       "igdb_id": 362444,
       "game_name": "Bridge Master with Terence Reese",
       "file": "missing/B/362444-bridge-master-with-terence-reese.json"
+    },
+    {
+      "igdb_id": 378956,
+      "game_name": "Bridge Race: Platinum Edition",
+      "file": "missing/B/378956-bridge-race-platinum-edition.json"
     },
     {
       "igdb_id": 124035,
@@ -105511,6 +105541,11 @@
       "igdb_id": 412971,
       "game_name": "Cheese Bit",
       "file": "missing/C/412971-cheese-bit.json"
+    },
+    {
+      "igdb_id": 378974,
+      "game_name": "Cheese Dreams",
+      "file": "missing/C/378974-cheese-dreams.json"
     },
     {
       "igdb_id": 326738,
@@ -144393,6 +144428,11 @@
       "file": "missing/D/328548-darts-fever.json"
     },
     {
+      "igdb_id": 378962,
+      "game_name": "Darts Fever Bullseye Legends",
+      "file": "missing/D/378962-darts-fever-bullseye-legends.json"
+    },
+    {
       "igdb_id": 333720,
       "game_name": "Darts Fever: Deluxe Edition",
       "file": "missing/D/333720-darts-fever-deluxe-edition.json"
@@ -153916,6 +153956,11 @@
       "igdb_id": 204640,
       "game_name": "Demonschool",
       "file": "missing/D/204640-demonschool.json"
+    },
+    {
+      "igdb_id": 378957,
+      "game_name": "Demonschool: Digital Deluxe Edition",
+      "file": "missing/D/378957-demonschool-digital-deluxe-edition.json"
     },
     {
       "igdb_id": 381701,
@@ -163758,6 +163803,16 @@
       "file": "missing/D/385197-dive-expedition-complete-edition.json"
     },
     {
+      "igdb_id": 378971,
+      "game_name": "Dive Expedition: Plane Wreck DLC",
+      "file": "missing/D/378971-dive-expedition-plane-wreck-dlc.json"
+    },
+    {
+      "igdb_id": 378970,
+      "game_name": "Dive Expedition: Sunken Ship DLC",
+      "file": "missing/D/378970-dive-expedition-sunken-ship-dlc.json"
+    },
+    {
       "igdb_id": 199911,
       "game_name": "Dive in the Past",
       "file": "missing/D/199911-dive-in-the-past.json"
@@ -171988,6 +172043,11 @@
       "file": "missing/D/178969-drag-them-out-into-space.json"
     },
     {
+      "igdb_id": 378980,
+      "game_name": "Drag-on Dragoon 10th Anniversary",
+      "file": "missing/D/378980-drag-on-dragoon-10th-anniversary.json"
+    },
+    {
       "igdb_id": 417585,
       "game_name": "Drag'n Wash",
       "file": "missing/D/417585-dragn-wash.json"
@@ -174531,6 +174591,61 @@
       "igdb_id": 11663,
       "game_name": "Drakengard 2",
       "file": "missing/D/11663-drakengard-2.json"
+    },
+    {
+      "igdb_id": 378983,
+      "game_name": "Drakengard 3: Beautiful Child",
+      "file": "missing/D/378983-drakengard-3-beautiful-child.json"
+    },
+    {
+      "igdb_id": 378984,
+      "game_name": "Drakengard 3: Caim's Garb",
+      "file": "missing/D/378984-drakengard-3-caims-garb.json"
+    },
+    {
+      "igdb_id": 378981,
+      "game_name": "Drakengard 3: Collector's Edition",
+      "file": "missing/D/378981-drakengard-3-collectors-edition.json"
+    },
+    {
+      "igdb_id": 378985,
+      "game_name": "Drakengard 3: Eris's Garb",
+      "file": "missing/D/378985-drakengard-3-eriss-garb.json"
+    },
+    {
+      "igdb_id": 378986,
+      "game_name": "Drakengard 3: Experimental Weapon 7",
+      "file": "missing/D/378986-drakengard-3-experimental-weapon-7.json"
+    },
+    {
+      "igdb_id": 378991,
+      "game_name": "Drakengard 3: Furiae's Garb",
+      "file": "missing/D/378991-drakengard-3-furiaes-garb.json"
+    },
+    {
+      "igdb_id": 378982,
+      "game_name": "Drakengard 3: Kainé's Garb",
+      "file": "missing/D/378982-drakengard-3-kaines-garb.json"
+    },
+    {
+      "igdb_id": 378990,
+      "game_name": "Drakengard 3: Manah's Garb",
+      "file": "missing/D/378990-drakengard-3-manahs-garb.json"
+    },
+    {
+      "igdb_id": 378989,
+      "game_name": "Drakengard 3: Nier's Garb",
+      "file": "missing/D/378989-drakengard-3-niers-garb.json"
+    },
+    {
+      "igdb_id": 378988,
+      "game_name": "Drakengard 3: Tokyo Tower",
+      "file": "missing/D/378988-drakengard-3-tokyo-tower.json"
+    },
+    {
+      "igdb_id": 378987,
+      "game_name": "Drakengard 3: Zero's Garb (Variety Pack)",
+      "file": "missing/D/378987-drakengard-3-zeros-garb-variety-pack.json"
     },
     {
       "igdb_id": 139804,
@@ -208641,6 +208756,11 @@
       "igdb_id": 31804,
       "game_name": "Farm Life: Natures Adventure",
       "file": "missing/F/31804-farm-life-natures-adventure.json"
+    },
+    {
+      "igdb_id": 379000,
+      "game_name": "Farm Love Legend: Transform your Animals into Anime Boys",
+      "file": "missing/F/379000-farm-love-legend-transform-your-animals-into-anime-boys.json"
     },
     {
       "igdb_id": 380709,
@@ -263493,6 +263613,11 @@
       "file": "missing/H/295556-halloween-experience-3-ggen.json"
     },
     {
+      "igdb_id": 379001,
+      "game_name": "Halloween Ghost Grabbers",
+      "file": "missing/H/379001-halloween-ghost-grabbers.json"
+    },
+    {
       "igdb_id": 373750,
       "game_name": "Halloween Girls",
       "file": "missing/H/373750-halloween-girls.json"
@@ -272821,6 +272946,11 @@
       "igdb_id": 80642,
       "game_name": "Henry",
       "file": "missing/H/80642-henry.json"
+    },
+    {
+      "igdb_id": 378979,
+      "game_name": "Henry Stickmin: Defending the Mall",
+      "file": "missing/H/378979-henry-stickmin-defending-the-mall.json"
     },
     {
       "igdb_id": 140712,
@@ -282198,6 +282328,11 @@
       "file": "missing/H/263554-hole-io-animals-dlc.json"
     },
     {
+      "igdb_id": 378958,
+      "game_name": "Hole io: Blossom Edition",
+      "file": "missing/H/378958-hole-io-blossom-edition.json"
+    },
+    {
       "igdb_id": 268563,
       "game_name": "Hole io: Complete Edition",
       "file": "missing/H/268563-hole-io-complete-edition.json"
@@ -282216,6 +282351,11 @@
       "igdb_id": 263555,
       "game_name": "Hole io: Freaks DLC",
       "file": "missing/H/263555-hole-io-freaks-dlc.json"
+    },
+    {
+      "igdb_id": 378969,
+      "game_name": "Hole io: Japan DLC",
+      "file": "missing/H/378969-hole-io-japan-dlc.json"
     },
     {
       "igdb_id": 263556,
@@ -354748,6 +354888,11 @@
       "file": "missing/L/147302-lovely-quest-unlimited.json"
     },
     {
+      "igdb_id": 379002,
+      "game_name": "Lovely Spot the Difference Fantasy Edition",
+      "file": "missing/L/379002-lovely-spot-the-difference-fantasy-edition.json"
+    },
+    {
       "igdb_id": 172766,
       "game_name": "Lovely Sweet Dream",
       "file": "missing/L/172766-lovely-sweet-dream.json"
@@ -356911,6 +357056,11 @@
       "igdb_id": 98958,
       "game_name": "Lupo Alberto: The VideoGame",
       "file": "missing/L/98958-lupo-alberto-the-videogame.json"
+    },
+    {
+      "igdb_id": 379003,
+      "game_name": "Luppy",
+      "file": "missing/L/379003-luppy.json"
     },
     {
       "igdb_id": 361742,
@@ -370108,6 +370258,11 @@
       "file": "missing/M/207536-masterq.json"
     },
     {
+      "igdb_id": 378977,
+      "game_name": "MasterQuest Fantasy",
+      "file": "missing/M/378977-masterquest-fantasy.json"
+    },
+    {
       "igdb_id": 225586,
       "game_name": "Masters & Heroes",
       "file": "missing/M/225586-masters-and-heroes.json"
@@ -383141,6 +383296,11 @@
       "igdb_id": 294462,
       "game_name": "Midnight Castle",
       "file": "missing/M/294462-midnight-castle.json"
+    },
+    {
+      "igdb_id": 378996,
+      "game_name": "Midnight Cat Heist",
+      "file": "missing/M/378996-midnight-cat-heist.json"
     },
     {
       "igdb_id": 273457,
@@ -398426,6 +398586,11 @@
       "igdb_id": 115751,
       "game_name": "Moto Rush GT",
       "file": "missing/M/115751-moto-rush-gt.json"
+    },
+    {
+      "igdb_id": 378968,
+      "game_name": "Moto Rush GT Asphalt Fury",
+      "file": "missing/M/378968-moto-rush-gt-asphalt-fury.json"
     },
     {
       "igdb_id": 315871,
@@ -442813,6 +442978,11 @@
       "file": "missing/P/345105-pact-with-a-demon.json"
     },
     {
+      "igdb_id": 378993,
+      "game_name": "Pact with a Demon EP01",
+      "file": "missing/P/378993-pact-with-a-demon-ep01.json"
+    },
+    {
       "igdb_id": 118350,
       "game_name": "Pact With a Witch",
       "file": "missing/P/118350-pact-with-a-witch.json"
@@ -447096,6 +447266,11 @@
       "igdb_id": 24986,
       "game_name": "Paratroopers",
       "file": "missing/P/24986-paratroopers.json"
+    },
+    {
+      "igdb_id": 378975,
+      "game_name": "Paravalence: With My Angel",
+      "file": "missing/P/378975-paravalence-with-my-angel.json"
     },
     {
       "igdb_id": 325677,
@@ -460143,6 +460318,11 @@
       "file": "missing/P/105962-pixel-builder.json"
     },
     {
+      "igdb_id": 378963,
+      "game_name": "Pixel Cafe Dreamy Interiors",
+      "file": "missing/P/378963-pixel-cafe-dreamy-interiors.json"
+    },
+    {
       "igdb_id": 400200,
       "game_name": "Pixel Cafe: Definitive Edition",
       "file": "missing/P/400200-pixel-cafe-definitive-edition.json"
@@ -463856,6 +464036,11 @@
       "igdb_id": 326257,
       "game_name": "Platform 4",
       "file": "missing/P/326257-platform-4.json"
+    },
+    {
+      "igdb_id": 379004,
+      "game_name": "Platform 6 Online",
+      "file": "missing/P/379004-platform-6-online.json"
     },
     {
       "igdb_id": 324129,
@@ -469981,6 +470166,11 @@
       "igdb_id": 103180,
       "game_name": "Pool Elite",
       "file": "missing/P/103180-pool-elite.json"
+    },
+    {
+      "igdb_id": 378964,
+      "game_name": "Pool Fever Cue to Glory",
+      "file": "missing/P/378964-pool-fever-cue-to-glory.json"
     },
     {
       "igdb_id": 332513,
@@ -477003,6 +477193,11 @@
       "file": "missing/P/231908-progear-airplane-shooter.json"
     },
     {
+      "igdb_id": 378978,
+      "game_name": "Progenitor",
+      "file": "missing/P/378978-progenitor.json"
+    },
+    {
       "igdb_id": 319591,
       "game_name": "Program Pack 4",
       "file": "missing/P/319591-program-pack-4.json"
@@ -480918,6 +481113,11 @@
       "file": "missing/P/313354-puffmin-quest.json"
     },
     {
+      "igdb_id": 379005,
+      "game_name": "Puffy Dog Puzzle",
+      "file": "missing/P/379005-puffy-dog-puzzle.json"
+    },
+    {
       "igdb_id": 311252,
       "game_name": "Pug'llector",
       "file": "missing/P/311252-pugllector.json"
@@ -481701,6 +481901,11 @@
       "igdb_id": 362351,
       "game_name": "Punyan Connecty",
       "file": "missing/P/362351-punyan-connecty.json"
+    },
+    {
+      "igdb_id": 378954,
+      "game_name": "Punyan for Nintendo Switch 2",
+      "file": "missing/P/378954-punyan-for-nintendo-switch-2.json"
     },
     {
       "igdb_id": 221147,
@@ -483096,6 +483301,11 @@
       "igdb_id": 237980,
       "game_name": "Puzzle Book: Adventure Pack",
       "file": "missing/P/237980-puzzle-book-adventure-pack.json"
+    },
+    {
+      "igdb_id": 378959,
+      "game_name": "Puzzle Book: Animals Edition",
+      "file": "missing/P/378959-puzzle-book-animals-edition.json"
     },
     {
       "igdb_id": 223564,
@@ -488806,6 +489016,11 @@
       "igdb_id": 49352,
       "game_name": "Racing Fever",
       "file": "missing/R/49352-racing-fever.json"
+    },
+    {
+      "igdb_id": 379006,
+      "game_name": "Racing Game Bundle",
+      "file": "missing/R/379006-racing-game-bundle.json"
     },
     {
       "igdb_id": 90681,
@@ -501571,6 +501786,11 @@
       "igdb_id": 399826,
       "game_name": "Restaurant Tycoon: My Cooking Empire - Complete Edition",
       "file": "missing/R/399826-restaurant-tycoon-my-cooking-empire-complete-edition.json"
+    },
+    {
+      "igdb_id": 378965,
+      "game_name": "Restaurant Tycoon: My Cooking Empire - Cozy Corners",
+      "file": "missing/R/378965-restaurant-tycoon-my-cooking-empire-cozy-corners.json"
     },
     {
       "igdb_id": 396927,
@@ -519246,6 +519466,11 @@
       "igdb_id": 250394,
       "game_name": "S.N.I.P.E.R.: Hunter Scope - Silver Edition",
       "file": "missing/S/250394-s-n-i-p-e-r-hunter-scope-silver-edition.json"
+    },
+    {
+      "igdb_id": 378966,
+      "game_name": "S.N.I.P.E.R.: Hunter Scope Hostile Territory",
+      "file": "missing/S/378966-s-n-i-p-e-r-hunter-scope-hostile-territory.json"
     },
     {
       "igdb_id": 412447,
@@ -583528,6 +583753,11 @@
       "file": "missing/S/181227-storming-the-grandmothership.json"
     },
     {
+      "igdb_id": 378994,
+      "game_name": "Stormlander",
+      "file": "missing/S/378994-stormlander.json"
+    },
+    {
       "igdb_id": 12781,
       "game_name": "Stormlord",
       "file": "missing/S/12781-stormlord.json"
@@ -601736,6 +601966,11 @@
       "igdb_id": 392910,
       "game_name": "Sweet Survival",
       "file": "missing/S/392910-sweet-survival.json"
+    },
+    {
+      "igdb_id": 378960,
+      "game_name": "Sweet Survivors: Classy Edition",
+      "file": "missing/S/378960-sweet-survivors-classy-edition.json"
     },
     {
       "igdb_id": 351240,
@@ -633486,6 +633721,11 @@
       "igdb_id": 113878,
       "game_name": "The Last Survivor",
       "file": "missing/T/113878-the-last-survivor.json"
+    },
+    {
+      "igdb_id": 379007,
+      "game_name": "The Last Survivors Harem",
+      "file": "missing/T/379007-the-last-survivors-harem.json"
     },
     {
       "igdb_id": 403004,
@@ -669838,6 +670078,11 @@
       "file": "missing/T/416853-toy-chute-sort-chute-organizer.json"
     },
     {
+      "igdb_id": 378955,
+      "game_name": "Toy Cowboy Royale: RPG Dragon's Challenge",
+      "file": "missing/T/378955-toy-cowboy-royale-rpg-dragons-challenge.json"
+    },
+    {
       "igdb_id": 100909,
       "game_name": "TOY DJ - An Electronic Music Rhythm Game",
       "file": "missing/T/100909-toy-dj-an-electronic-music-rhythm-game.json"
@@ -691501,6 +691746,11 @@
       "igdb_id": 385173,
       "game_name": "Urban Flow Chaos Control",
       "file": "missing/U/385173-urban-flow-chaos-control.json"
+    },
+    {
+      "igdb_id": 378967,
+      "game_name": "Urban Flow Roads To Perfection",
+      "file": "missing/U/378967-urban-flow-roads-to-perfection.json"
     },
     {
       "igdb_id": 309083,
