@@ -997,6 +997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leading Lap MPV | 138701 | [138701-leading-lap-mpv.json](./138701-leading-lap-mpv.json) |
 | Leadlight | 330903 | [330903-leadlight.json](./330903-leadlight.json) |
 | Leaf | 116865 | [116865-leaf.json](./116865-leaf.json) |
+| Leaf Blower Co. | 347820 | [347820-leaf-blower-co.json](./347820-leaf-blower-co.json) |
 | Leaf Blower Man: This Game Blows! | 244199 | [244199-leaf-blower-man-this-game-blows.json](./244199-leaf-blower-man-this-game-blows.json) |
 | Leaf Blower Sim | 276272 | [276272-leaf-blower-sim.json](./276272-leaf-blower-sim.json) |
 | Leaf Blowing Simulator | 290556 | [290556-leaf-blowing-simulator.json](./290556-leaf-blowing-simulator.json) |
@@ -1048,6 +1049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leap Day | 57759 | [57759-leap-day.json](./57759-leap-day.json) |
 | Leap Frog | 388926 | [388926-leap-frog.json](./388926-leap-frog.json) |
 | Leap Frog | 89158 | [89158-leap-frog.json](./89158-leap-frog.json) |
+| Leap Galaxy | 347854 | [347854-leap-galaxy.json](./347854-leap-galaxy.json) |
 | Leap in Bootstrap | 254530 | [254530-leap-in-bootstrap.json](./254530-leap-in-bootstrap.json) |
 | Leap In The Right Direction | 296487 | [296487-leap-in-the-right-direction.json](./296487-leap-in-the-right-direction.json) |
 | Leap of Champions | 129650 | [129650-leap-of-champions.json](./129650-leap-of-champions.json) |
@@ -1109,6 +1111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LED Storm Rally 2011 | 312321 | [312321-led-storm-rally-2011.json](./312321-led-storm-rally-2011.json) |
 | Lederzwerge Deluxe XXL Version | 84279 | [84279-lederzwerge-deluxe-xxl-version.json](./84279-lederzwerge-deluxe-xxl-version.json) |
 | Ledgeman | 348947 | [348947-ledgeman.json](./348947-ledgeman.json) |
+| Ledgerbound | 347856 | [347856-ledgerbound.json](./347856-ledgerbound.json) |
 | Ledoliel | 128629 | [128629-ledoliel.json](./128629-ledoliel.json) |
 | Lèdòng Dárén HD | 101473 | [101473-ledong-daren-hd.json](./101473-ledong-daren-hd.json) |
 | Lee Carvallo's Putting Challenge | 180781 | [180781-lee-carvallos-putting-challenge.json](./180781-lee-carvallos-putting-challenge.json) |
@@ -1264,6 +1267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Red | 334507 | [334507-legend-of-red.json](./334507-legend-of-red.json) |
 | Legend of Roland | 39781 | [39781-legend-of-roland.json](./39781-legend-of-roland.json) |
 | Legend of Rome 2: The Magic Hourglass | 296488 | [296488-legend-of-rome-2-the-magic-hourglass.json](./296488-legend-of-rome-2-the-magic-hourglass.json) |
+| Legend of Saha | 347817 | [347817-legend-of-saha.json](./347817-legend-of-saha.json) |
 | Legend of Silkroad | 23625 | [23625-legend-of-silkroad.json](./23625-legend-of-silkroad.json) |
 | Legend of Slime: Idle RPG | 237529 | [237529-legend-of-slime-idle-rpg.json](./237529-legend-of-slime-idle-rpg.json) |
 | Legend of Snake | 215645 | [215645-legend-of-snake.json](./215645-legend-of-snake.json) |
@@ -4055,6 +4059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Twins 2 | 173308 | [173308-lost-twins-2.json](./173308-lost-twins-2.json) |
 | Lost Verses | 323523 | [323523-lost-verses.json](./323523-lost-verses.json) |
 | Lost Voice | 148948 | [148948-lost-voice.json](./148948-lost-voice.json) |
+| Lost Vulcan | 347851 | [347851-lost-vulcan.json](./347851-lost-vulcan.json) |
 | Lost Wage Rampage | 108989 | [108989-lost-wage-rampage.json](./108989-lost-wage-rampage.json) |
 | Lost Wiki: Kozlovka | 374721 | [374721-lost-wiki-kozlovka.json](./374721-lost-wiki-kozlovka.json) |
 | Lost Wing | 75371 | [75371-lost-wing.json](./75371-lost-wing.json) |
@@ -4608,6 +4613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lulu's Temple | 195696 | [195696-lulus-temple.json](./195696-lulus-temple.json) |
 | Lum: Hide from Nightmares | 211180 | [211180-lum-hide-from-nightmares.json](./211180-lum-hide-from-nightmares.json) |
 | Luma Island | 293035 | [293035-luma-island.json](./293035-luma-island.json) |
+| Luma Island: Pirates | 347822 | [347822-luma-island-pirates.json](./347822-luma-island-pirates.json) |
 | LumaWorlds | 411677 | [411677-lumaworlds.json](./411677-lumaworlds.json) |
 | Lumba: Redux | 210890 | [210890-lumba-redux.json](./210890-lumba-redux.json) |
 | Lumbah Jump | 211789 | [211789-lumbah-jump.json](./211789-lumbah-jump.json) |
