@@ -509,6 +509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can Knockdown 3 | 96722 | [96722-can-knockdown-3.json](./96722-can-knockdown-3.json) |
 | Can No One Hear Me? | 329591 | [329591-can-no-one-hear-me.json](./329591-can-no-one-hear-me.json) |
 | Can of Wormholes | 211936 | [211936-can-of-wormholes.json](./211936-can-of-wormholes.json) |
+| Can We Be Three? | 385271 | [385271-can-we-be-three.json](./385271-can-we-be-three.json) |
 | Can We Start Over? | 321777 | [321777-can-we-start-over.json](./321777-can-we-start-over.json) |
 | Can You Beat the Square? | 176419 | [176419-can-you-beat-the-square.json](./176419-can-you-beat-the-square.json) |
 | Can You Come In? | 144235 | [144235-can-you-come-in.json](./144235-can-you-come-in.json) |
@@ -2106,6 +2107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catz 4 | 159146 | [159146-catz-4.json](./159146-catz-4.json) |
 | Catz: Your Computer Petz | 79286 | [79286-catz-your-computer-petz.json](./79286-catz-your-computer-petz.json) |
 | Caught by a Spider | 330917 | [330917-caught-by-a-spider.json](./330917-caught-by-a-spider.json) |
+| Caught Lacking: Femboy Edition | 385247 | [385247-caught-lacking-femboy-edition.json](./385247-caught-lacking-femboy-edition.json) |
 | Cauldron Caution | 309653 | [309653-cauldron-caution.json](./309653-cauldron-caution.json) |
 | Cauldron Chaos | 368495 | [368495-cauldron-chaos.json](./368495-cauldron-chaos.json) |
 | Cauldron Forager | 362916 | [362916-cauldron-forager.json](./362916-cauldron-forager.json) |
