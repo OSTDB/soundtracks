@@ -397,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XIII Century: Death or Glory | 9860 | [9860-xiii-century-death-or-glory.json](./9860-xiii-century-death-or-glory.json) |
 | Xile | 54731 | [54731-xile.json](./54731-xile.json) |
 | Xilost | 118354 | [118354-xilost.json](./118354-xilost.json) |
+| Xīn Jiàn Xiá Qíngyuán | 350571 | [350571-xin-jian-xia-qingyuan.json](./350571-xin-jian-xia-qingyuan.json) |
 | Xin Jianxia Qingyuan | 86014 | [86014-xin-jianxia-qingyuan.json](./86014-xin-jianxia-qingyuan.json) |
 | Xin Juedai Shuangjiao 2 | 78051 | [78051-xin-juedai-shuangjiao-2.json](./78051-xin-juedai-shuangjiao-2.json) |
 | Xin Juedai Shuangjiao 3 | 68688 | [68688-xin-juedai-shuangjiao-3.json](./68688-xin-juedai-shuangjiao-3.json) |
