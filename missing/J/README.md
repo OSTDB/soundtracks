@@ -1238,6 +1238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JollyWorld | 162408 | [162408-jollyworld.json](./162408-jollyworld.json) |
 | Jolt Family Robot Racer | 85217 | [85217-jolt-family-robot-racer.json](./85217-jolt-family-robot-racer.json) |
 | Jolt: Neon Breaker | 406234 | [406234-jolt-neon-breaker.json](./406234-jolt-neon-breaker.json) |
+| Joltt: Battle Pillars | 351784 | [351784-joltt-battle-pillars.json](./351784-joltt-battle-pillars.json) |
 | Jon Shafer's At the Gates | 8423 | [8423-jon-shafers-at-the-gates.json](./8423-jon-shafers-at-the-gates.json) |
 | Jon's Jigsaw Puzzle | 357909 | [357909-jons-jigsaw-puzzle.json](./357909-jons-jigsaw-puzzle.json) |
 | Jonah Barrington's Squash | 72155 | [72155-jonah-barringtons-squash.json](./72155-jonah-barringtons-squash.json) |
