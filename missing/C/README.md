@@ -4268,6 +4268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citri Plays Noirwood | 220635 | [220635-citri-plays-noirwood.json](./220635-citri-plays-noirwood.json) |
 | Citrus | 104440 | [104440-citrus.json](./104440-citrus.json) |
 | Citrus Rampage | 189073 | [189073-citrus-rampage.json](./189073-citrus-rampage.json) |
+| CitrusBall | 355162 | [355162-citrusball.json](./355162-citrusball.json) |
 | CiTV Racing | 325555 | [325555-citv-racing.json](./325555-citv-racing.json) |
 | City 7: Toronto Conflict | 281410 | [281410-city-7-toronto-conflict.json](./281410-city-7-toronto-conflict.json) |
 | City Adventure Touch: Mystery of Triangle | 48315 | [48315-city-adventure-touch-mystery-of-triangle.json](./48315-city-adventure-touch-mystery-of-triangle.json) |
@@ -5212,6 +5213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code_18 | 18072 | [18072-code-18.json](./18072-code-18.json) |
 | Code, Solve, Revolt! | 265387 | [265387-code-solve-revolt.json](./265387-code-solve-revolt.json) |
 | Code: 9 | 361300 | [361300-code-9.json](./361300-code-9.json) |
+| Code: Antithesis | 355176 | [355176-code-antithesis.json](./355176-code-antithesis.json) |
 | Code: D-Blood | 139222 | [139222-code-d-blood.json](./139222-code-d-blood.json) |
 | Code: Dead Ends | 254612 | [254612-code-dead-ends.json](./254612-code-dead-ends.json) |
 | Code: Europe | 73848 | [73848-code-europe.json](./73848-code-europe.json) |
@@ -5338,6 +5340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Pit | 394563 | [394563-coin-pit.json](./394563-coin-pit.json) |
 | Coin Push RPG | 336010 | [336010-coin-push-rpg.json](./336010-coin-push-rpg.json) |
 | Coin Rush | 336594 | [336594-coin-rush.json](./336594-coin-rush.json) |
+| Coin Slot | 355181 | [355181-coin-slot.json](./355181-coin-slot.json) |
 | Coin Slots Live | 386856 | [386856-coin-slots-live.json](./386856-coin-slots-live.json) |
 | Coin Toss Rainbow Simulator | 272871 | [272871-coin-toss-rainbow-simulator.json](./272871-coin-toss-rainbow-simulator.json) |
 | Coin World | 94347 | [94347-coin-world.json](./94347-coin-world.json) |
