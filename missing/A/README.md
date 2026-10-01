@@ -955,6 +955,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Accolade's Comics featuring Steve Keene Thrillseeker | 37156 | [37156-accolades-comics-featuring-steve-keene-thrillseeker.json](./37156-accolades-comics-featuring-steve-keene-thrillseeker.json) |
 | Accounting | 25251 | [25251-accounting.json](./25251-accounting.json) |
 | AccuBow VR | 337792 | [337792-accubow-vr.json](./337792-accubow-vr.json) |
+| Accurate Segmentation 2 | 334829 | [334829-accurate-segmentation-2.json](./334829-accurate-segmentation-2.json) |
+| Accurate Segmentation 3 | 334828 | [334828-accurate-segmentation-3.json](./334828-accurate-segmentation-3.json) |
 | Accurate Shot | 288743 | [288743-accurate-shot.json](./288743-accurate-shot.json) |
 | Accurate Tag | 379461 | [379461-accurate-tag.json](./379461-accurate-tag.json) |
 | AccuRC 2 | 90621 | [90621-accurc-2.json](./90621-accurc-2.json) |
@@ -4629,6 +4631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Sexy Girl Puzzle: Hentai Game History Adventure | 267371 | [267371-anime-sexy-girl-puzzle-hentai-game-history-adventure.json](./267371-anime-sexy-girl-puzzle-hentai-game-history-adventure.json) |
 | Anime Shop Simulator ✨ | 415269 | [415269-anime-shop-simulator.json](./415269-anime-shop-simulator.json) |
 | Anime Sniper | 255062 | [255062-anime-sniper.json](./255062-anime-sniper.json) |
+| Anime Solitaire | 334820 | [334820-anime-solitaire.json](./334820-anime-solitaire.json) |
 | Anime Spa | 279757 | [279757-anime-spa.json](./279757-anime-spa.json) |
 | Anime Standing | 142969 | [142969-anime-standing.json](./142969-anime-standing.json) |
 | Anime Story Otome Game: Comino | 298878 | [298878-anime-story-otome-game-comino.json](./298878-anime-story-otome-game-comino.json) |
@@ -4781,6 +4784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomaly Control Simulator | 409646 | [409646-anomaly-control-simulator.json](./409646-anomaly-control-simulator.json) |
 | Anomaly Corridor | 319143 | [319143-anomaly-corridor.json](./319143-anomaly-corridor.json) |
 | Anomaly Exit | 290720 | [290720-anomaly-exit.json](./290720-anomaly-exit.json) |
+| Anomaly Living | 334922 | [334922-anomaly-living.json](./334922-anomaly-living.json) |
 | Anomaly Loop | 293091 | [293091-anomaly-loop.json](./293091-anomaly-loop.json) |
 | Anomaly Observer | 353284 | [353284-anomaly-observer.json](./353284-anomaly-observer.json) |
 | Anomaly Patroller | 325240 | [325240-anomaly-patroller.json](./325240-anomaly-patroller.json) |
@@ -5209,6 +5213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse: The Game | 61615 | [61615-apocalypse-the-game.json](./61615-apocalypse-the-game.json) |
 | Apocalypter | 378318 | [378318-apocalypter.json](./378318-apocalypter.json) |
 | Apocalyptic | 205656 | [205656-apocalyptic.json](./205656-apocalyptic.json) |
+| Apocalyptic Cars War | 334830 | [334830-apocalyptic-cars-war.json](./334830-apocalyptic-cars-war.json) |
 | Apocalyptic Vibes | 189189 | [189189-apocalyptic-vibes.json](./189189-apocalyptic-vibes.json) |
 | Apocalyptic World | 155976 | [155976-apocalyptic-world.json](./155976-apocalyptic-world.json) |
 | ApocaShift | 346614 | [346614-apocashift.json](./346614-apocashift.json) |
