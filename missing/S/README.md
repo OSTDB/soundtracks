@@ -2542,6 +2542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku | 5433 | [5433-sengoku.json](./5433-sengoku.json) |
 | Sengoku 2 | 46785 | [46785-sengoku-2.json](./46785-sengoku-2.json) |
 | Sengoku 3 | 46784 | [46784-sengoku-3.json](./46784-sengoku-3.json) |
+| Sengoku A Live | 385253 | [385253-sengoku-a-live.json](./385253-sengoku-a-live.json) |
 | Sengoku Anthology | 43460 | [43460-sengoku-anthology.json](./43460-sengoku-anthology.json) |
 | Sengoku Basara X | 68950 | [68950-sengoku-basara-x.json](./68950-sengoku-basara-x.json) |
 | Sengoku Bishoujo Emaki: Cut Sky | 147927 | [147927-sengoku-bishoujo-emaki-cut-sky.json](./147927-sengoku-bishoujo-emaki-cut-sky.json) |
@@ -3017,6 +3018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexdivers | 324680 | [324680-sexdivers.json](./324680-sexdivers.json) |
 | Sexorcism: Lust Confession | 396404 | [396404-sexorcism-lust-confession.json](./396404-sexorcism-lust-confession.json) |
 | Sextris | 185629 | [185629-sextris.json](./185629-sextris.json) |
+| Sextris Effect | 385240 | [385240-sextris-effect.json](./385240-sextris-effect.json) |
 | Sexts | 234750 | [234750-sexts.json](./234750-sexts.json) |
 | Sexual Girl | 367626 | [367626-sexual-girl.json](./367626-sexual-girl.json) |
 | Sexual Life with Shikigami | 82990 | [82990-sexual-life-with-shikigami.json](./82990-sexual-life-with-shikigami.json) |
@@ -3754,6 +3756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShellPieces | 356894 | [356894-shellpieces.json](./356894-shellpieces.json) |
 | Shells Delivery | 267918 | [267918-shells-delivery.json](./267918-shells-delivery.json) |
 | Shells Delivery Deluxe | 267917 | [267917-shells-delivery-deluxe.json](./267917-shells-delivery-deluxe.json) |
+| Shells MMCCCXXXIV | 385291 | [385291-shells-mmcccxxxiv.json](./385291-shells-mmcccxxxiv.json) |
 | Shells Shooter | 340378 | [340378-shells-shooter.json](./340378-shells-shooter.json) |
 | Shellshock | 20635 | [20635-shellshock.json](./20635-shellshock.json) |
 | ShellShock Live | 17904 | [17904-shellshock-live.json](./17904-shellshock-live.json) |
@@ -13708,6 +13711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubus Sexy Devils | 345111 | [345111-succubus-sexy-devils.json](./345111-succubus-sexy-devils.json) |
 | Succubus Shop | 185414 | [185414-succubus-shop.json](./185414-succubus-shop.json) |
 | Succubus Successor: Delilah's Juicy Journey | 406898 | [406898-succubus-successor-delilahs-juicy-journey.json](./406898-succubus-successor-delilahs-juicy-journey.json) |
+| Succubus Throne | 385254 | [385254-succubus-throne.json](./385254-succubus-throne.json) |
 | Succubus Waifu | 127998 | [127998-succubus-waifu.json](./127998-succubus-waifu.json) |
 | Succubus War | 186830 | [186830-succubus-war.json](./186830-succubus-war.json) |
 | Succubus: Elysian Fields | 337829 | [337829-succubus-elysian-fields.json](./337829-succubus-elysian-fields.json) |
@@ -15582,6 +15586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Stacey World | 223025 | [223025-super-stacey-world.json](./223025-super-stacey-world.json) |
 | Super Stacker | 52894 | [52894-super-stacker.json](./52894-super-stacker.json) |
 | Super Star | 32027 | [32027-super-star.json](./32027-super-star.json) |
+| Super Star Adventure | 385286 | [385286-super-star-adventure.json](./385286-super-star-adventure.json) |
 | Super Star Car | 146714 | [146714-super-star-car.json](./146714-super-star-car.json) |
 | Super Star Panda | 80950 | [80950-super-star-panda.json](./80950-super-star-panda.json) |
 | Super Star Path | 19981 | [19981-super-star-path.json](./19981-super-star-path.json) |
@@ -16398,9 +16403,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Bell Day: The Game | 123414 | [123414-sweet-bell-day-the-game.json](./123414-sweet-bell-day-the-game.json) |
 | Sweet Berry Crush | 55444 | [55444-sweet-berry-crush.json](./55444-sweet-berry-crush.json) |
 | Sweet Cafe | 239881 | [239881-sweet-cafe.json](./239881-sweet-cafe.json) |
+| Sweet Cafe | 385252 | [385252-sweet-cafe.json](./385252-sweet-cafe.json) |
 | Sweet Camping | 368521 | [368521-sweet-camping.json](./368521-sweet-camping.json) |
 | Sweet Candy Mahjong | 31055 | [31055-sweet-candy-mahjong.json](./31055-sweet-candy-mahjong.json) |
 | Sweet Casino | 339470 | [339470-sweet-casino.json](./339470-sweet-casino.json) |
+| Sweet Casino 2 | 385251 | [385251-sweet-casino-2.json](./385251-sweet-casino-2.json) |
 | Sweet Cheerleaders | 339469 | [339469-sweet-cheerleaders.json](./339469-sweet-cheerleaders.json) |
 | Sweet Cheongsam | 384626 | [384626-sweet-cheongsam.json](./384626-sweet-cheongsam.json) |
 | Sweet Cinema | 339468 | [339468-sweet-cinema.json](./339468-sweet-cinema.json) |
