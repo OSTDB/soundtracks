@@ -1397,6 +1397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oneli | 388348 | [388348-oneli.json](./388348-oneli.json) |
 | OneMaze.io | 98444 | [98444-onemaze-io.json](./98444-onemaze-io.json) |
 | Onenellemoo | 239638 | [239638-onenellemoo.json](./239638-onenellemoo.json) |
+| Oneone | 348907 | [348907-oneone.json](./348907-oneone.json) |
 | Oneons: Prisoners | 159643 | [159643-oneons-prisoners.json](./159643-oneons-prisoners.json) |
 | Ones and Zeroes | 104813 | [104813-ones-and-zeroes.json](./104813-ones-and-zeroes.json) |
 | Ones! | 232385 | [232385-ones.json](./232385-ones.json) |
