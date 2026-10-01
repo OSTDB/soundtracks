@@ -4512,6 +4512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Paper Scissors 2! | 178621 | [178621-rock-paper-scissors-2.json](./178621-rock-paper-scissors-2.json) |
 | Rock Paper Scissors Champion | 33322 | [33322-rock-paper-scissors-champion.json](./33322-rock-paper-scissors-champion.json) |
 | Rock Paper Scissors Party | 391732 | [391732-rock-paper-scissors-party.json](./391732-rock-paper-scissors-party.json) |
+| Rock Paper Scissors: The Final Match | 369705 | [369705-rock-paper-scissors-the-final-match.json](./369705-rock-paper-scissors-the-final-match.json) |
 | Rock Paper Scissors: The Roguelike Puzzle Game | 410207 | [410207-rock-paper-scissors-the-roguelike-puzzle-game.json](./410207-rock-paper-scissors-the-roguelike-puzzle-game.json) |
 | Rock Paper Smash | 213464 | [213464-rock-paper-smash.json](./213464-rock-paper-smash.json) |
 | Rock Scissor Paper | 262927 | [262927-rock-scissor-paper.json](./262927-rock-scissor-paper.json) |
@@ -5447,6 +5448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotschwert | 333660 | [333660-rotschwert.json](./333660-rotschwert.json) |
 | Rotten Escape | 101542 | [101542-rotten-escape.json](./101542-rotten-escape.json) |
 | Rotten Tide | 157055 | [157055-rotten-tide.json](./157055-rotten-tide.json) |
+| Rotten Woods | 369710 | [369710-rotten-woods.json](./369710-rotten-woods.json) |
 | Rottenroots | 322766 | [322766-rottenroots.json](./322766-rottenroots.json) |
 | Rotting Crescendo | 136441 | [136441-rotting-crescendo.json](./136441-rotting-crescendo.json) |
 | Rotting Grief | 415068 | [415068-rotting-grief.json](./415068-rotting-grief.json) |
