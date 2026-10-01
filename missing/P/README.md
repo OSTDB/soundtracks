@@ -4603,6 +4603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playing House | 335262 | [335262-playing-house.json](./335262-playing-house.json) |
 | Playing With Fire 2 | 202372 | [202372-playing-with-fire-2.json](./202372-playing-with-fire-2.json) |
 | Playing with Our Lives | 291003 | [291003-playing-with-our-lives.json](./291003-playing-with-our-lives.json) |
+| PlayMaker Football | 366964 | [366964-playmaker-football.json](./366964-playmaker-football.json) |
 | Playmobil: Novelmore | 207844 | [207844-playmobil-novelmore.json](./207844-playmobil-novelmore.json) |
 | Playmobil: The Explorers | 103901 | [103901-playmobil-the-explorers.json](./103901-playmobil-the-explorers.json) |
 | Playmobil: The Movie VR Adventures | 128438 | [128438-playmobil-the-movie-vr-adventures.json](./128438-playmobil-the-movie-vr-adventures.json) |
@@ -6115,6 +6116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potion Meister | 163834 | [163834-potion-meister.json](./163834-potion-meister.json) |
 | Potion Notions | 176993 | [176993-potion-notions.json](./176993-potion-notions.json) |
 | Potion Permit | 155706 | [155706-potion-permit.json](./155706-potion-permit.json) |
+| Potion Permit: Christmas Tree | 366954 | [366954-potion-permit-christmas-tree.json](./366954-potion-permit-christmas-tree.json) |
 | Potion Permit: Deluxe Edition | 218549 | [218549-potion-permit-deluxe-edition.json](./218549-potion-permit-deluxe-edition.json) |
 | Potion Permit: Halloween Bundle | 272286 | [272286-potion-permit-halloween-bundle.json](./272286-potion-permit-halloween-bundle.json) |
 | Potion Permit: Rudolph Plush | 371313 | [371313-potion-permit-rudolph-plush.json](./371313-potion-permit-rudolph-plush.json) |
@@ -6133,6 +6135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potioneer: The VR Gardening Simulator | 27341 | [27341-potioneer-the-vr-gardening-simulator.json](./27341-potioneer-the-vr-gardening-simulator.json) |
 | Potionomics: Boss Finn Content Pack | 360595 | [360595-potionomics-boss-finn-content-pack.json](./360595-potionomics-boss-finn-content-pack.json) |
 | Potions & Emotions | 264683 | [264683-potions-and-emotions.json](./264683-potions-and-emotions.json) |
+| Potions of Veldenkeep | 367000 | [367000-potions-of-veldenkeep.json](./367000-potions-of-veldenkeep.json) |
 | Potions War | 201802 | [201802-potions-war.json](./201802-potions-war.json) |
 | Potions, Frankly | 183598 | [183598-potions-frankly.json](./183598-potions-frankly.json) |
 | Potions, Please! | 381186 | [381186-potions-please.json](./381186-potions-please.json) |
