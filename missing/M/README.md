@@ -5546,6 +5546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Jab | 227846 | [227846-mind-jab.json](./227846-mind-jab.json) |
 | Mind Keeper | 296974 | [296974-mind-keeper.json](./296974-mind-keeper.json) |
 | Mind Labyrinth VR Dreams | 100311 | [100311-mind-labyrinth-vr-dreams.json](./100311-mind-labyrinth-vr-dreams.json) |
+| Mind Lure | 373667 | [373667-mind-lure.json](./373667-mind-lure.json) |
 | Mind Maze | 100308 | [100308-mind-maze.json](./100308-mind-maze.json) |
 | Mind Medley | 209509 | [209509-mind-medley.json](./209509-mind-medley.json) |
 | Mind Muscle VR | 150531 | [150531-mind-muscle-vr.json](./150531-mind-muscle-vr.json) |
@@ -8523,6 +8524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Gun | 98848 | [98848-mr-gun.json](./98848-mr-gun.json) |
 | Mr Henry and his Magical Hat | 58508 | [58508-mr-henry-and-his-magical-hat.json](./58508-mr-henry-and-his-magical-hat.json) |
 | Mr Husky | 111210 | [111210-mr-husky.json](./111210-mr-husky.json) |
+| Mr Investigator | 373676 | [373676-mr-investigator.json](./373676-mr-investigator.json) |
 | Mr Jack Pocket | 175410 | [175410-mr-jack-pocket.json](./175410-mr-jack-pocket.json) |
 | Mr Jorries! | 157136 | [157136-mr-jorries.json](./157136-mr-jorries.json) |
 | Mr Jump World | 217804 | [217804-mr-jump-world.json](./217804-mr-jump-world.json) |
@@ -9868,6 +9870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mycofall | 391726 | [391726-mycofall.json](./391726-mycofall.json) |
 | MyCoke | 64136 | [64136-mycoke.json](./64136-mycoke.json) |
 | Mycopsychosys | 342662 | [342662-mycopsychosys.json](./342662-mycopsychosys.json) |
+| Mycopsychosys: Project Jupiter | 373683 | [373683-mycopsychosys-project-jupiter.json](./373683-mycopsychosys-project-jupiter.json) |
 | MycoRelic | 274470 | [274470-mycorelic.json](./274470-mycorelic.json) |
 | Mycro | 152858 | [152858-mycro.json](./152858-mycro.json) |
 | Mycubium | 356294 | [356294-mycubium.json](./356294-mycubium.json) |
@@ -9996,6 +9999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery House: Secret Stealth | 88133 | [88133-mystery-house-secret-stealth.json](./88133-mystery-house-secret-stealth.json) |
 | Mystery in the Office | 245840 | [245840-mystery-in-the-office.json](./245840-mystery-in-the-office.json) |
 | Mystery Island II | 147865 | [147865-mystery-island-ii.json](./147865-mystery-island-ii.json) |
+| Mystery Island: Enigmatic Painting | 373684 | [373684-mystery-island-enigmatic-painting.json](./373684-mystery-island-enigmatic-painting.json) |
 | Mystery Island: Hidden Object Games | 121568 | [121568-mystery-island-hidden-object-games.json](./121568-mystery-island-hidden-object-games.json) |
 | Mystery Island: Missing Amy | 367614 | [367614-mystery-island-missing-amy.json](./367614-mystery-island-missing-amy.json) |
 | Mystery Legends: Phantom of the Opera | 62836 | [62836-mystery-legends-phantom-of-the-opera.json](./62836-mystery-legends-phantom-of-the-opera.json) |
