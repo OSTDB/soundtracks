@@ -902,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume Shoko | 202351 | [202351-yume-shoko.json](./202351-yume-shoko.json) |
 | Yume Slide | 243654 | [243654-yume-slide.json](./243654-yume-slide.json) |
 | Yume Smashi | 229662 | [229662-yume-smashi.json](./229662-yume-smashi.json) |
+| Yume Tenshi | 364030 | [364030-yume-tenshi.json](./364030-yume-tenshi.json) |
 | Yume Utsutsu Dreamy | 247507 | [247507-yume-utsutsu-dreamy.json](./247507-yume-utsutsu-dreamy.json) |
 | Yume Wheeky | 229687 | [229687-yume-wheeky.json](./229687-yume-wheeky.json) |
 | Yume Wo. | 150159 | [150159-yume-wo.json](./150159-yume-wo.json) |
