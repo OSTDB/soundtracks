@@ -3403,6 +3403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excised | 260223 | [260223-excised.json](./260223-excised.json) |
 | Excite Invader | 138024 | [138024-excite-invader.json](./138024-excite-invader.json) |
 | Excite Mahjong | 80200 | [80200-excite-mahjong.json](./80200-excite-mahjong.json) |
+| Excite Shoot! | 385804 | [385804-excite-shoot.json](./385804-excite-shoot.json) |
 | Excite Truck | 2635 | [2635-excite-truck.json](./2635-excite-truck.json) |
 | Excitebike | 214457 | [214457-excitebike.json](./214457-excitebike.json) |
 | Excitebike | 4600 | [4600-excitebike.json](./4600-excitebike.json) |
