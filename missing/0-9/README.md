@@ -868,6 +868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 300 Dwarves | 52354 | [52354-300-dwarves.json](./52354-300-dwarves.json) |
 | 300 Heroes | 75139 | [75139-300-heroes.json](./75139-300-heroes.json) |
 | 300 Miles to Pigsland | 286646 | [286646-300-miles-to-pigsland.json](./286646-300-miles-to-pigsland.json) |
+| 3000m to Whatever’s up There | 373133 | [373133-3000m-to-whatever-s-up-there.json](./373133-3000m-to-whatever-s-up-there.json) |
 | 303 Game Collection | 273918 | [273918-303-game-collection.json](./273918-303-game-collection.json) |
 | 303 Logic, Action & Arcade Games | 228411 | [228411-303-logic-action-and-arcade-games.json](./228411-303-logic-action-and-arcade-games.json) |
 | 303 Squadron: Battle of Britain | 90654 | [90654-303-squadron-battle-of-britain.json](./90654-303-squadron-battle-of-britain.json) |
