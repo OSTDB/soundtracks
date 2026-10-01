@@ -3012,6 +3012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nocked! | 174208 | [174208-nocked.json](./174208-nocked.json) |
 | Nocked! True Tales of Robin Hood | 118139 | [118139-nocked-true-tales-of-robin-hood.json](./118139-nocked-true-tales-of-robin-hood.json) |
 | Nocko | 157004 | [157004-nocko.json](./157004-nocko.json) |
+| Nocky el Armadillo | 372048 | [372048-nocky-el-armadillo.json](./372048-nocky-el-armadillo.json) |
 | Noct | 12978 | [12978-noct.json](./12978-noct.json) |
 | Noctiria | 409759 | [409759-noctiria.json](./409759-noctiria.json) |
 | Noctropolis | 243766 | [243766-noctropolis.json](./243766-noctropolis.json) |
