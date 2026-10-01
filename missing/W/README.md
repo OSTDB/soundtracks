@@ -2559,6 +2559,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WildCraft | 241635 | [241635-wildcraft.json](./241635-wildcraft.json) |
 | WildCraft | 253329 | [253329-wildcraft.json](./253329-wildcraft.json) |
 | Wilde Investigations: Animal Sanctuary Shuffle | 415989 | [415989-wilde-investigations-animal-sanctuary-shuffle.json](./415989-wilde-investigations-animal-sanctuary-shuffle.json) |
+| Wilde Investigations: Animal Sanctuary Shuffle - Collector's Edition | 337248 | [337248-wilde-investigations-animal-sanctuary-shuffle-collectors-edition.json](./337248-wilde-investigations-animal-sanctuary-shuffle-collectors-edition.json) |
+| Wilde Investigations: The Zoo Kerfuffle - Collector's Edition | 337240 | [337240-wilde-investigations-the-zoo-kerfuffle-collectors-edition.json](./337240-wilde-investigations-the-zoo-kerfuffle-collectors-edition.json) |
 | Wildekin | 362280 | [362280-wildekin.json](./362280-wildekin.json) |
 | Wildemist Isle | 129008 | [129008-wildemist-isle.json](./129008-wildemist-isle.json) |
 | WilderLands | 382219 | [382219-wilderlands.json](./382219-wilderlands.json) |
@@ -4612,6 +4614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wyrmhall: Brush and Banter | 326221 | [326221-wyrmhall-brush-and-banter.json](./326221-wyrmhall-brush-and-banter.json) |
 | Wyrmhole: The Forbidden Knowledge | 253384 | [253384-wyrmhole-the-forbidden-knowledge.json](./253384-wyrmhole-the-forbidden-knowledge.json) |
 | Wyrmstooth | 313267 | [313267-wyrmstooth.json](./313267-wyrmstooth.json) |
+| WyshBound | 337300 | [337300-wyshbound.json](./337300-wyshbound.json) |
 | Wytchsun: Elleros Origins | 117544 | [117544-wytchsun-elleros-origins.json](./117544-wytchsun-elleros-origins.json) |
 | Wyv and Keep: The Temple of the Lost Idol | 16847 | [16847-wyv-and-keep-the-temple-of-the-lost-idol.json](./16847-wyv-and-keep-the-temple-of-the-lost-idol.json) |
 | Wyvern | 389106 | [389106-wyvern.json](./389106-wyvern.json) |
