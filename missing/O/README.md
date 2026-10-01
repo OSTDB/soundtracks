@@ -1187,6 +1187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One More Step | 164236 | [164236-one-more-step.json](./164236-one-more-step.json) |
 | One more time... From the Top! | 178661 | [178661-one-more-time-from-the-top.json](./178661-one-more-time-from-the-top.json) |
 | One More Trail | 400855 | [400855-one-more-trail.json](./400855-one-more-trail.json) |
+| One More Treasure | 369133 | [369133-one-more-treasure.json](./369133-one-more-treasure.json) |
 | One More Wipe! | 389594 | [389594-one-more-wipe.json](./389594-one-more-wipe.json) |
 | One Move Away | 325581 | [325581-one-move-away.json](./325581-one-move-away.json) |
 | One Must Fall | 14428 | [14428-one-must-fall.json](./14428-one-must-fall.json) |
@@ -1813,6 +1814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orb of Millean | 301440 | [301440-orb-of-millean.json](./301440-orb-of-millean.json) |
 | Orb Of The Watcher | 285969 | [285969-orb-of-the-watcher.json](./285969-orb-of-the-watcher.json) |
 | Orb Overload | 151146 | [151146-orb-overload.json](./151146-orb-overload.json) |
+| Orb Slide Dodge Danger | 369183 | [369183-orb-slide-dodge-danger.json](./369183-orb-slide-dodge-danger.json) |
 | Orb Tower | 331951 | [331951-orb-tower.json](./331951-orb-tower.json) |
 | Orb-3D | 48191 | [48191-orb-3d.json](./48191-orb-3d.json) |
 | Orb's Betrayal | 271732 | [271732-orbs-betrayal.json](./271732-orbs-betrayal.json) |
