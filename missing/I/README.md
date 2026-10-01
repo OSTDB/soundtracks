@@ -2645,6 +2645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invest | 94215 | [94215-invest.json](./94215-invest.json) |
 | Investation | 92527 | [92527-investation.json](./92527-investation.json) |
 | Investigate | 229017 | [229017-investigate.json](./229017-investigate.json) |
+| Investigating Alien Cats | 368591 | [368591-investigating-alien-cats.json](./368591-investigating-alien-cats.json) |
 | Investigation Stories: Gunsound | 369552 | [369552-investigation-stories-gunsound.json](./369552-investigation-stories-gunsound.json) |
 | Investigator | 32526 | [32526-investigator.json](./32526-investigator.json) |
 | Investigator and the Case of the Unconventional Weapon | 179660 | [179660-investigator-and-the-case-of-the-unconventional-weapon.json](./179660-investigator-and-the-case-of-the-unconventional-weapon.json) |
