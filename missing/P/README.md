@@ -1232,6 +1232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkour Chief: Chapter Secret Agent | 341595 | [341595-parkour-chief-chapter-secret-agent.json](./341595-parkour-chief-chapter-secret-agent.json) |
 | Parkour Every Day | 292167 | [292167-parkour-every-day.json](./292167-parkour-every-day.json) |
 | Parkour Flight | 86876 | [86876-parkour-flight.json](./86876-parkour-flight.json) |
+| Parkour Fortress: Redux | 350570 | [350570-parkour-fortress-redux.json](./350570-parkour-fortress-redux.json) |
 | Parkour Game 2 | 270957 | [270957-parkour-game-2.json](./270957-parkour-game-2.json) |
 | Parkour Go | 146713 | [146713-parkour-go.json](./146713-parkour-go.json) |
 | Parkour Jump Adventure | 245914 | [245914-parkour-jump-adventure.json](./245914-parkour-jump-adventure.json) |
