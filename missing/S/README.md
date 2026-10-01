@@ -3978,6 +3978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shimajiro no Eigo Activity Ehon: ABC Park de Asobou! | 327617 | [327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json](./327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json) |
 | Shime Houmeichou | 415071 | [415071-shime-houmeichou.json](./415071-shime-houmeichou.json) |
 | Shin Egokoro Kyoushitsu | 141122 | [141122-shin-egokoro-kyoushitsu.json](./141122-shin-egokoro-kyoushitsu.json) |
+| Shin Era Tensei | 365818 | [365818-shin-era-tensei.json](./365818-shin-era-tensei.json) |
 | Shin Fumi Ikemen Ouoku Kinjirareta Koi | 229027 | [229027-shin-fumi-ikemen-ouoku-kinjirareta-koi.json](./229027-shin-fumi-ikemen-ouoku-kinjirareta-koi.json) |
 | Shin Galaxy: Engage | 259598 | [259598-shin-galaxy-engage.json](./259598-shin-galaxy-engage.json) |
 | Shin Gundam Musou | 52832 | [52832-shin-gundam-musou.json](./52832-shin-gundam-musou.json) |
@@ -5083,6 +5084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silted Prayer | 257904 | [257904-silted-prayer.json](./257904-silted-prayer.json) |
 | Silva Saga | 48708 | [48708-silva-saga.json](./48708-silva-saga.json) |
 | SilvaGunner: Rebooted | 326957 | [326957-silvagunner-rebooted.json](./326957-silvagunner-rebooted.json) |
+| Silvanis | 365848 | [365848-silvanis.json](./365848-silvanis.json) |
 | Silver | 7042 | [7042-silver.json](./7042-silver.json) |
 | Silver Axe: The Honest Elf | 195129 | [195129-silver-axe-the-honest-elf.json](./195129-silver-axe-the-honest-elf.json) |
 | Silver Blade of Gods' End | 301602 | [301602-silver-blade-of-gods-end.json](./301602-silver-blade-of-gods-end.json) |
@@ -9492,6 +9494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Rocket | 81601 | [81601-space-rocket.json](./81601-space-rocket.json) |
 | Space Rocket Adventurers | 61155 | [61155-space-rocket-adventurers.json](./61155-space-rocket-adventurers.json) |
 | Space Rockets: Spaceship Rocket Simulator | 232180 | [232180-space-rockets-spaceship-rocket-simulator.json](./232180-space-rockets-spaceship-rocket-simulator.json) |
+| Space Rocks in Space | 365825 | [365825-space-rocks-in-space.json](./365825-space-rocks-in-space.json) |
 | Space Rocks! | 277829 | [277829-space-rocks.json](./277829-space-rocks.json) |
 | Space RPG 3 | 99407 | [99407-space-rpg-3.json](./99407-space-rpg-3.json) |
 | Space Run | 202768 | [202768-space-run.json](./202768-space-run.json) |
@@ -11400,6 +11403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Goose! | 13083 | [13083-star-goose.json](./13083-star-goose.json) |
 | Star Guard | 185136 | [185136-star-guard.json](./185136-star-guard.json) |
 | Star Gun | 348780 | [348780-star-gun.json](./348780-star-gun.json) |
+| Star Gun | 365838 | [365838-star-gun.json](./365838-star-gun.json) |
 | Star gunner | 40795 | [40795-star-gunner.json](./40795-star-gunner.json) |
 | Star Hacker | 197364 | [197364-star-hacker.json](./197364-star-hacker.json) |
 | Star Hammer Tactics | 52860 | [52860-star-hammer-tactics.json](./52860-star-hammer-tactics.json) |
@@ -13799,6 +13803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subsiege | 26677 | [26677-subsiege.json](./26677-subsiege.json) |
 | Subsist: Apocalypse Survival | 296453 | [296453-subsist-apocalypse-survival.json](./296453-subsist-apocalypse-survival.json) |
 | Subspace Reticulum | 367537 | [367537-subspace-reticulum.json](./367537-subspace-reticulum.json) |
+| Subspace Voyage | 365850 | [365850-subspace-voyage.json](./365850-subspace-voyage.json) |
 | Substrate: Emergence | 398531 | [398531-substrate-emergence.json](./398531-substrate-emergence.json) |
 | Substructure | 380408 | [380408-substructure.json](./380408-substructure.json) |
 | Subsuelo | 272035 | [272035-subsuelo.json](./272035-subsuelo.json) |
@@ -15603,6 +15608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sean 007 | 239736 | [239736-super-sean-007.json](./239736-super-sean-007.json) |
 | Super Seducer 2 | 103232 | [103232-super-seducer-2.json](./103232-super-seducer-2.json) |
 | Super Senso | 26626 | [26626-super-senso.json](./26626-super-senso.json) |
+| Super Serious Golf | 365830 | [365830-super-serious-golf.json](./365830-super-serious-golf.json) |
 | Super Serpent Snake 3D | 412292 | [412292-super-serpent-snake-3d.json](./412292-super-serpent-snake-3d.json) |
 | Super Seymour Saves the Plant | 18573 | [18573-super-seymour-saves-the-plant.json](./18573-super-seymour-saves-the-plant.json) |
 | Super Shadow Dudes | 180186 | [180186-super-shadow-dudes.json](./180186-super-shadow-dudes.json) |
