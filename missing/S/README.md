@@ -2814,6 +2814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Solitaire | 84236 | [84236-serious-solitaire.json](./84236-serious-solitaire.json) |
 | Serious Survivors | 348774 | [348774-serious-survivors.json](./348774-serious-survivors.json) |
 | Seriously Warped Deathmatch | 361921 | [361921-seriously-warped-deathmatch.json](./361921-seriously-warped-deathmatch.json) |
+| Serk: Chaos City Delivery | 348919 | [348919-serk-chaos-city-delivery.json](./348919-serk-chaos-city-delivery.json) |
 | SerMon | 404386 | [404386-sermon.json](./404386-sermon.json) |
 | Seroutte | 234575 | [234575-seroutte.json](./234575-seroutte.json) |
 | Serpent | 360187 | [360187-serpent.json](./360187-serpent.json) |
@@ -3420,6 +3421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of Forbidden Gods | 180249 | [180249-shadows-of-forbidden-gods.json](./180249-shadows-of-forbidden-gods.json) |
 | Shadows of Kepler | 125390 | [125390-shadows-of-kepler.json](./125390-shadows-of-kepler.json) |
 | Shadows of Kurgansk | 26581 | [26581-shadows-of-kurgansk.json](./26581-shadows-of-kurgansk.json) |
+| Shadows of Memory Ll | 348912 | [348912-shadows-of-memory-ll.json](./348912-shadows-of-memory-ll.json) |
 | Shadows of Midnight: They Watch Me Sleep | 347366 | [347366-shadows-of-midnight-they-watch-me-sleep.json](./347366-shadows-of-midnight-they-watch-me-sleep.json) |
 | Shadows of Mordor: Game two of Lord of the Rings | 10799 | [10799-shadows-of-mordor-game-two-of-lord-of-the-rings.json](./10799-shadows-of-mordor-game-two-of-lord-of-the-rings.json) |
 | Shadows of Rogue: The Sorcerer's Curse | 272281 | [272281-shadows-of-rogue-the-sorcerers-curse.json](./272281-shadows-of-rogue-the-sorcerers-curse.json) |
@@ -9501,6 +9503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Ops Arcade | 285480 | [285480-space-ops-arcade.json](./285480-space-ops-arcade.json) |
 | Space Ops VR | 117705 | [117705-space-ops-vr.json](./117705-space-ops-vr.json) |
 | Space Orb | 105014 | [105014-space-orb.json](./105014-space-orb.json) |
+| Space Orcs Brawl | 348895 | [348895-space-orcs-brawl.json](./348895-space-orcs-brawl.json) |
 | Space Out | 195166 | [195166-space-out.json](./195166-space-out.json) |
 | Space Out | 72627 | [72627-space-out.json](./72627-space-out.json) |
 | Space Papers: Planet's Border | 277840 | [277840-space-papers-planets-border.json](./277840-space-papers-planets-border.json) |
@@ -9567,6 +9570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Scavengers | 278471 | [278471-space-scavengers.json](./278471-space-scavengers.json) |
 | Space Science Investigations | 215211 | [215211-space-science-investigations.json](./215211-space-science-investigations.json) |
 | Space Scrap Shuffle | 183351 | [183351-space-scrap-shuffle.json](./183351-space-scrap-shuffle.json) |
+| Space ScrubLords | 348930 | [348930-space-scrublords.json](./348930-space-scrublords.json) |
 | Space Shapes | 126567 | [126567-space-shapes.json](./126567-space-shapes.json) |
 | Space Shark Wrangle Fest | 245843 | [245843-space-shark-wrangle-fest.json](./245843-space-shark-wrangle-fest.json) |
 | Space Shells | 204100 | [204100-space-shells.json](./204100-space-shells.json) |
@@ -13184,6 +13188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranded Deep | 8751 | [8751-stranded-deep.json](./8751-stranded-deep.json) |
 | Stranded Engineers | 273398 | [273398-stranded-engineers.json](./273398-stranded-engineers.json) |
 | Stranded Hearts | 184914 | [184914-stranded-hearts.json](./184914-stranded-hearts.json) |
+| Stranded in Starlight | 348909 | [348909-stranded-in-starlight.json](./348909-stranded-in-starlight.json) |
 | Stranded Near Nowhere | 102804 | [102804-stranded-near-nowhere.json](./102804-stranded-near-nowhere.json) |
 | Stranded Nightmare | 207367 | [207367-stranded-nightmare.json](./207367-stranded-nightmare.json) |
 | Stranded Sails | 112344 | [112344-stranded-sails.json](./112344-stranded-sails.json) |
