@@ -3040,6 +3040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Road | 295853 | [295853-golden-road.json](./295853-golden-road.json) |
 | Golden Royal Hold'em | 67974 | [67974-golden-royal-holdem.json](./67974-golden-royal-holdem.json) |
 | Golden Sails | 329144 | [329144-golden-sails.json](./329144-golden-sails.json) |
+| Golden Sand Dream Curse | 359537 | [359537-golden-sand-dream-curse.json](./359537-golden-sand-dream-curse.json) |
 | Golden Sun | 356272 | [356272-golden-sun.json](./356272-golden-sun.json) |
 | Golden Sun QOL | 269063 | [269063-golden-sun-qol.json](./269063-golden-sun-qol.json) |
 | Golden Sun The Lost Age: Anniversary Mod | 269061 | [269061-golden-sun-the-lost-age-anniversary-mod.json](./269061-golden-sun-the-lost-age-anniversary-mod.json) |
