@@ -3929,6 +3929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flora | 364685 | [364685-flora.json](./364685-flora.json) |
 | Flora and Sauna | 201035 | [201035-flora-and-sauna.json](./201035-flora-and-sauna.json) |
 | Flora and the Darkness | 175906 | [175906-flora-and-the-darkness.json](./175906-flora-and-the-darkness.json) |
+| Flora Corner | 336654 | [336654-flora-corner.json](./336654-flora-corner.json) |
 | Flora Learns to Sing! | 321332 | [321332-flora-learns-to-sing.json](./321332-flora-learns-to-sing.json) |
 | Flora Parasocial | 406765 | [406765-flora-parasocial.json](./406765-flora-parasocial.json) |
 | Floracide | 386977 | [386977-floracide.json](./386977-floracide.json) |
