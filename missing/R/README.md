@@ -3016,6 +3016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return to ... | 348960 | [348960-return-to.json](./348960-return-to.json) |
 | Return to Abyss | 233251 | [233251-return-to-abyss.json](./233251-return-to-abyss.json) |
 | Return to Basic Killing | 274032 | [274032-return-to-basic-killing.json](./274032-return-to-basic-killing.json) |
+| Return To Booty Grotto | 363003 | [363003-return-to-booty-grotto.json](./363003-return-to-booty-grotto.json) |
 | Return to Castle Wolfenstein: Operation Resurrection | 77219 | [77219-return-to-castle-wolfenstein-operation-resurrection.json](./77219-return-to-castle-wolfenstein-operation-resurrection.json) |
 | Return to Castle Wolfenstein: Tides of War | 77220 | [77220-return-to-castle-wolfenstein-tides-of-war.json](./77220-return-to-castle-wolfenstein-tides-of-war.json) |
 | Return to College Age | 355226 | [355226-return-to-college-age.json](./355226-return-to-college-age.json) |
