@@ -1770,6 +1770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Learn Lingít | 391296 | [391296-lets-learn-lingit.json](./391296-lets-learn-lingit.json) |
 | Let's Learn Shogi | 168643 | [168643-lets-learn-shogi.json](./168643-lets-learn-shogi.json) |
 | Let's Learn Xaad Kil | 303627 | [303627-lets-learn-xaad-kil.json](./303627-lets-learn-xaad-kil.json) |
+| Let's Learn Xiangqi | 368088 | [368088-lets-learn-xiangqi.json](./368088-lets-learn-xiangqi.json) |
 | Let's Mahjong | 388356 | [388356-lets-mahjong.json](./388356-lets-mahjong.json) |
 | Let's Make a Pro Baseball Team! 2 | 138100 | [138100-lets-make-a-pro-baseball-team-2.json](./138100-lets-make-a-pro-baseball-team-2.json) |
 | Let's Meat Adam 2 | 180134 | [180134-lets-meat-adam-2.json](./180134-lets-meat-adam-2.json) |
