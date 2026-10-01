@@ -764,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy New Year, Zeliria! | 148996 | [148996-happy-new-year-zeliria.json](./148996-happy-new-year-zeliria.json) |
 | Happy New Year, Zeliria!: Dragon! | 291055 | [291055-happy-new-year-zeliria-dragon.json](./291055-happy-new-year-zeliria-dragon.json) |
 | Happy Night | 280767 | [280767-happy-night.json](./280767-happy-night.json) |
+| Happy Nuclear | 369704 | [369704-happy-nuclear.json](./369704-happy-nuclear.json) |
 | Happy Numbers | 149437 | [149437-happy-numbers.json](./149437-happy-numbers.json) |
 | Happy Orchard | 185530 | [185530-happy-orchard.json](./185530-happy-orchard.json) |
 | Happy Pet Island | 322174 | [322174-happy-pet-island.json](./322174-happy-pet-island.json) |
@@ -5694,6 +5695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunted | 188370 | [188370-hunted.json](./188370-hunted.json) |
 | Hunted | 411137 | [411137-hunted.json](./411137-hunted.json) |
 | Hunted By Monsters: Haunting In The Castle Dungeon | 240875 | [240875-hunted-by-monsters-haunting-in-the-castle-dungeon.json](./240875-hunted-by-monsters-haunting-in-the-castle-dungeon.json) |
+| Hunted Hunter | 369709 | [369709-hunted-hunter.json](./369709-hunted-hunter.json) |
 | Hunted Within: The Metro | 390207 | [390207-hunted-within-the-metro.json](./390207-hunted-within-the-metro.json) |
 | Hunted: One Step Too Far | 25874 | [25874-hunted-one-step-too-far.json](./25874-hunted-one-step-too-far.json) |
 | Hunted: Survive the Night | 211787 | [211787-hunted-survive-the-night.json](./211787-hunted-survive-the-night.json) |
@@ -5793,6 +5795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hurrican | 94360 | [94360-hurrican.json](./94360-hurrican.json) |
 | Hurricane | 25928 | [25928-hurricane.json](./25928-hurricane.json) |
 | Hurricane chase | 120775 | [120775-hurricane-chase.json](./120775-hurricane-chase.json) |
+| Hurricane Heroes | 369684 | [369684-hurricane-heroes.json](./369684-hurricane-heroes.json) |
 | Hurricane Ship Ghost | 104833 | [104833-hurricane-ship-ghost.json](./104833-hurricane-ship-ghost.json) |
 | Hurry Up Bird Hunter! | 82107 | [82107-hurry-up-bird-hunter.json](./82107-hurry-up-bird-hunter.json) |
 | Hurt Me Plenty | 20248 | [20248-hurt-me-plenty.json](./20248-hurt-me-plenty.json) |
