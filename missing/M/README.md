@@ -3605,7 +3605,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Battle Network 3 Blue | 1758 | [1758-mega-man-battle-network-3-blue.json](./1758-mega-man-battle-network-3-blue.json) |
 | Mega Man Battle Network 3 Blue | 352864 | [352864-mega-man-battle-network-3-blue.json](./352864-mega-man-battle-network-3-blue.json) |
 | Mega Man Battle Network 3 White | 352863 | [352863-mega-man-battle-network-3-white.json](./352863-mega-man-battle-network-3-white.json) |
+| Mega Man Battle Network 4: Blue Moon | 352328 | [352328-mega-man-battle-network-4-blue-moon.json](./352328-mega-man-battle-network-4-blue-moon.json) |
 | Mega Man Battle Network 4: Blue Moon | 352867 | [352867-mega-man-battle-network-4-blue-moon.json](./352867-mega-man-battle-network-4-blue-moon.json) |
+| Mega Man Battle Network 4: Red Sun | 352331 | [352331-mega-man-battle-network-4-red-sun.json](./352331-mega-man-battle-network-4-red-sun.json) |
 | Mega Man Battle Network 4: Red Sun | 352866 | [352866-mega-man-battle-network-4-red-sun.json](./352866-mega-man-battle-network-4-red-sun.json) |
 | Mega Man Battle Network 5: Patch Card - Anaconda | 351818 | [351818-mega-man-battle-network-5-patch-card-anaconda.json](./351818-mega-man-battle-network-5-patch-card-anaconda.json) |
 | Mega Man Battle Network 5: Patch Card - Bass | 351843 | [351843-mega-man-battle-network-5-patch-card-bass.json](./351843-mega-man-battle-network-5-patch-card-bass.json) |
@@ -3646,9 +3648,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Battle Network 5: Patch Card - Whirly | 351838 | [351838-mega-man-battle-network-5-patch-card-whirly.json](./351838-mega-man-battle-network-5-patch-card-whirly.json) |
 | Mega Man Battle Network 5: Patch Card - Yort | 351822 | [351822-mega-man-battle-network-5-patch-card-yort.json](./351822-mega-man-battle-network-5-patch-card-yort.json) |
 | Mega Man Battle Network 5: Patch Card - Zomon | 351835 | [351835-mega-man-battle-network-5-patch-card-zomon.json](./351835-mega-man-battle-network-5-patch-card-zomon.json) |
+| Mega Man Battle Network 5: Team Colonel | 352332 | [352332-mega-man-battle-network-5-team-colonel.json](./352332-mega-man-battle-network-5-team-colonel.json) |
 | Mega Man Battle Network 5: Team Colonel | 352869 | [352869-mega-man-battle-network-5-team-colonel.json](./352869-mega-man-battle-network-5-team-colonel.json) |
+| Mega Man Battle Network 5: Team Protoman | 352333 | [352333-mega-man-battle-network-5-team-protoman.json](./352333-mega-man-battle-network-5-team-protoman.json) |
 | Mega Man Battle Network 5: Team Protoman | 352868 | [352868-mega-man-battle-network-5-team-protoman.json](./352868-mega-man-battle-network-5-team-protoman.json) |
+| Mega Man Battle Network 6: Cybeast Falzar | 352335 | [352335-mega-man-battle-network-6-cybeast-falzar.json](./352335-mega-man-battle-network-6-cybeast-falzar.json) |
 | Mega Man Battle Network 6: Cybeast Falzar | 352874 | [352874-mega-man-battle-network-6-cybeast-falzar.json](./352874-mega-man-battle-network-6-cybeast-falzar.json) |
+| Mega Man Battle Network 6: Cybeast Gregar | 352338 | [352338-mega-man-battle-network-6-cybeast-gregar.json](./352338-mega-man-battle-network-6-cybeast-gregar.json) |
 | Mega Man Battle Network 6: Cybeast Gregar | 352873 | [352873-mega-man-battle-network-6-cybeast-gregar.json](./352873-mega-man-battle-network-6-cybeast-gregar.json) |
 | Mega Man Battle Network 6: Patch Card - Admission for Yuika's Show | 352727 | [352727-mega-man-battle-network-6-patch-card-admission-for-yuikas-show.json](./352727-mega-man-battle-network-6-patch-card-admission-for-yuikas-show.json) |
 | Mega Man Battle Network 6: Patch Card - Al's Boarding Ticket | 352714 | [352714-mega-man-battle-network-6-patch-card-als-boarding-ticket.json](./352714-mega-man-battle-network-6-patch-card-als-boarding-ticket.json) |
@@ -7445,6 +7451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster House | 112156 | [112156-monster-house.json](./112156-monster-house.json) |
 | Monster House Racing | 376708 | [376708-monster-house-racing.json](./376708-monster-house-racing.json) |
 | Monster Hunt | 79235 | [79235-monster-hunt.json](./79235-monster-hunt.json) |
+| Monster Hunter | 352353 | [352353-monster-hunter.json](./352353-monster-hunter.json) |
 | Monster Hunter 2 | 43668 | [43668-monster-hunter-2.json](./43668-monster-hunter-2.json) |
 | Monster Hunter 4 Ultimate | 6440 | [6440-monster-hunter-4-ultimate.json](./6440-monster-hunter-4-ultimate.json) |
 | Monster Hunter Diary: Poka Poka Airu Village G | 65178 | [65178-monster-hunter-diary-poka-poka-airu-village-g.json](./65178-monster-hunter-diary-poka-poka-airu-village-g.json) |
@@ -8895,6 +8902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MSSP 9: New Pietniemi | 308263 | [308263-mssp-9-new-pietniemi.json](./308263-mssp-9-new-pietniemi.json) |
 | MSSP8 | 308262 | [308262-mssp8.json](./308262-mssp8.json) |
 | MSX Baseball | 94321 | [94321-msx-baseball.json](./94321-msx-baseball.json) |
+| MSX Copycat | 352337 | [352337-msx-copycat.json](./352337-msx-copycat.json) |
 | MSX Soccer | 94680 | [94680-msx-soccer.json](./94680-msx-soccer.json) |
 | MT Force Aliens Uprising | 341343 | [341343-mt-force-aliens-uprising.json](./341343-mt-force-aliens-uprising.json) |
 | Mt. Doubt | 101979 | [101979-mt-doubt.json](./101979-mt-doubt.json) |
@@ -9741,6 +9749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Dog Adventure | 146772 | [146772-my-little-dog-adventure.json](./146772-my-little-dog-adventure.json) |
 | My Little Farm | 391620 | [391620-my-little-farm.json](./391620-my-little-farm.json) |
 | My Little Fast Food Booth | 147457 | [147457-my-little-fast-food-booth.json](./147457-my-little-fast-food-booth.json) |
+| My Little Foundation: Containment is Magic | 352348 | [352348-my-little-foundation-containment-is-magic.json](./352348-my-little-foundation-containment-is-magic.json) |
 | My Little Friend Chibi | 391738 | [391738-my-little-friend-chibi.json](./391738-my-little-friend-chibi.json) |
 | My Little Fruit Juice Booth | 153820 | [153820-my-little-fruit-juice-booth.json](./153820-my-little-fruit-juice-booth.json) |
 | My Little Garden | 261528 | [261528-my-little-garden.json](./261528-my-little-garden.json) |
