@@ -1642,6 +1642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles II: The Arcade Game | 3816 | [3816-teenage-mutant-ninja-turtles-ii-the-arcade-game.json](./3816-teenage-mutant-ninja-turtles-ii-the-arcade-game.json) |
 | Teenage Mutant Ninja Turtles IV: Turtles in Time | 14697 | [14697-teenage-mutant-ninja-turtles-iv-turtles-in-time.json](./14697-teenage-mutant-ninja-turtles-iv-turtles-in-time.json) |
 | Teenage Mutant Ninja Turtles of Rage | 314988 | [314988-teenage-mutant-ninja-turtles-of-rage.json](./314988-teenage-mutant-ninja-turtles-of-rage.json) |
+| Teenage Mutant Ninja Turtles SNES | 377744 | [377744-teenage-mutant-ninja-turtles-snes.json](./377744-teenage-mutant-ninja-turtles-snes.json) |
 | Teenage Mutant Ninja Turtles: Arcade Attack | 21156 | [21156-teenage-mutant-ninja-turtles-arcade-attack.json](./21156-teenage-mutant-ninja-turtles-arcade-attack.json) |
 | Teenage Mutant Ninja Turtles: Battle of the City | 146105 | [146105-teenage-mutant-ninja-turtles-battle-of-the-city.json](./146105-teenage-mutant-ninja-turtles-battle-of-the-city.json) |
 | Teenage Mutant Ninja Turtles: Brothers Unite | 61238 | [61238-teenage-mutant-ninja-turtles-brothers-unite.json](./61238-teenage-mutant-ninja-turtles-brothers-unite.json) |
@@ -5994,6 +5995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda Game Watch | 172501 | [172501-the-legend-of-zelda-game-watch.json](./172501-the-legend-of-zelda-game-watch.json) |
 | The Legend of Zelda Ocarina of Time 3D: First Edition | 89904 | [89904-the-legend-of-zelda-ocarina-of-time-3d-first-edition.json](./89904-the-legend-of-zelda-ocarina-of-time-3d-first-edition.json) |
 | The Legend of Zelda Remastered | 260748 | [260748-the-legend-of-zelda-remastered.json](./260748-the-legend-of-zelda-remastered.json) |
+| The Legend of Zelda SNES | 377748 | [377748-the-legend-of-zelda-snes.json](./377748-the-legend-of-zelda-snes.json) |
 | The Legend of Zelda XD2: Mercuris' Chess | 243666 | [243666-the-legend-of-zelda-xd2-mercuris-chess.json](./243666-the-legend-of-zelda-xd2-mercuris-chess.json) |
 | The Legend of Zelda: 3rd Quest | 256296 | [256296-the-legend-of-zelda-3rd-quest.json](./256296-the-legend-of-zelda-3rd-quest.json) |
 | The Legend of Zelda: A Link to the Dream | 243669 | [243669-the-legend-of-zelda-a-link-to-the-dream.json](./243669-the-legend-of-zelda-a-link-to-the-dream.json) |
@@ -7862,6 +7864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Fitness Stuff | 121027 | [121027-the-sims-4-fitness-stuff.json](./121027-the-sims-4-fitness-stuff.json) |
 | The Sims 4: For Rent | 275084 | [275084-the-sims-4-for-rent.json](./275084-the-sims-4-for-rent.json) |
 | The Sims 4: Fun Outside Bundle | 136330 | [136330-the-sims-4-fun-outside-bundle.json](./136330-the-sims-4-fun-outside-bundle.json) |
+| The Sims 4: Garden to Table Kit | 377760 | [377760-the-sims-4-garden-to-table-kit.json](./377760-the-sims-4-garden-to-table-kit.json) |
 | The Sims 4: Get to Work | 13143 | [13143-the-sims-4-get-to-work.json](./13143-the-sims-4-get-to-work.json) |
 | The Sims 4: Get Together | 13144 | [13144-the-sims-4-get-together.json](./13144-the-sims-4-get-together.json) |
 | The Sims 4: Golden Years Kit | 350998 | [350998-the-sims-4-golden-years-kit.json](./350998-the-sims-4-golden-years-kit.json) |
@@ -7882,6 +7885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Live Lavishly Bundle | 159330 | [159330-the-sims-4-live-lavishly-bundle.json](./159330-the-sims-4-live-lavishly-bundle.json) |
 | The Sims 4: Lovestruck | 307067 | [307067-the-sims-4-lovestruck.json](./307067-the-sims-4-lovestruck.json) |
 | The Sims 4: Modern Luxe Kit | 265706 | [265706-the-sims-4-modern-luxe-kit.json](./265706-the-sims-4-modern-luxe-kit.json) |
+| The Sims 4: Modern Retreat Kit | 377759 | [377759-the-sims-4-modern-retreat-kit.json](./377759-the-sims-4-modern-retreat-kit.json) |
 | The Sims 4: Moonlight Chic Kit | 202254 | [202254-the-sims-4-moonlight-chic-kit.json](./202254-the-sims-4-moonlight-chic-kit.json) |
 | The Sims 4: Movie Hangout Stuff | 121021 | [121021-the-sims-4-movie-hangout-stuff.json](./121021-the-sims-4-movie-hangout-stuff.json) |
 | The Sims 4: My First Pet Stuff | 121028 | [121028-the-sims-4-my-first-pet-stuff.json](./121028-the-sims-4-my-first-pet-stuff.json) |
@@ -14307,6 +14311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trazz | 173185 | [173185-trazz.json](./173185-trazz.json) |
 | Treachery | 277292 | [277292-treachery.json](./277292-treachery.json) |
 | Treachery in Beatdown City: U.N. Trouble | 272568 | [272568-treachery-in-beatdown-city-u-n-trouble.json](./272568-treachery-in-beatdown-city-u-n-trouble.json) |
+| Treadmillasaurus Rex | 377740 | [377740-treadmillasaurus-rex.json](./377740-treadmillasaurus-rex.json) |
 | Treason | 190229 | [190229-treason.json](./190229-treason.json) |
 | Treasure | 358936 | [358936-treasure.json](./358936-treasure.json) |
 | Treasure 'n Trio | 320773 | [320773-treasure-n-trio.json](./320773-treasure-n-trio.json) |
