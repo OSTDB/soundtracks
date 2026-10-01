@@ -965,6 +965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Lost | 193865 | [193865-paradise-lost.json](./193865-paradise-lost.json) |
 | Paradise Lost: First Contact | 59975 | [59975-paradise-lost-first-contact.json](./59975-paradise-lost-first-contact.json) |
 | Paradise Lost: FPS Cosmic Horror Game | 69441 | [69441-paradise-lost-fps-cosmic-horror-game.json](./69441-paradise-lost-fps-cosmic-horror-game.json) |
+| Paradise Love | 379541 | [379541-paradise-love.json](./379541-paradise-love.json) |
 | Paradise Lust 2 | 253369 | [253369-paradise-lust-2.json](./253369-paradise-lust-2.json) |
 | Paradise Marsh | 173042 | [173042-paradise-marsh.json](./173042-paradise-marsh.json) |
 | Paradise Never: The Revolution Fails | 14398 | [14398-paradise-never-the-revolution-fails.json](./14398-paradise-never-the-revolution-fails.json) |
@@ -1372,6 +1373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Passing Shot | 12839 | [12839-passing-shot.json](./12839-passing-shot.json) |
 | Passing Time | 64384 | [64384-passing-time.json](./64384-passing-time.json) |
 | Passion Rift | 369776 | [369776-passion-rift.json](./369776-passion-rift.json) |
+| Passioners | 379534 | [379534-passioners.json](./379534-passioners.json) |
 | Passive Hero: Save the World in 100 Days! | 359575 | [359575-passive-hero-save-the-world-in-100-days.json](./359575-passive-hero-save-the-world-in-100-days.json) |
 | Passpartout 2: The Lost Artist - Special Edition | 250284 | [250284-passpartout-2-the-lost-artist-special-edition.json](./250284-passpartout-2-the-lost-artist-special-edition.json) |
 | Passpartout: The One Man Band | 263452 | [263452-passpartout-the-one-man-band.json](./263452-passpartout-the-one-man-band.json) |
@@ -7432,6 +7434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Viper | 319154 | [319154-project-viper.json](./319154-project-viper.json) |
 | Project Volition | 270123 | [270123-project-volition.json](./270123-project-volition.json) |
 | Project Vostok | 258985 | [258985-project-vostok.json](./258985-project-vostok.json) |
+| Project Wand: Land of Leng | 379537 | [379537-project-wand-land-of-leng.json](./379537-project-wand-land-of-leng.json) |
 | Project Warlock II | 152272 | [152272-project-warlock-ii.json](./152272-project-warlock-ii.json) |
 | Project Watcher | 260218 | [260218-project-watcher.json](./260218-project-watcher.json) |
 | Project Waves | 114434 | [114434-project-waves.json](./114434-project-waves.json) |
