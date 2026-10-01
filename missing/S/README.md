@@ -5001,6 +5001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Night: A Christmas Delivery | 158667 | [158667-silent-night-a-christmas-delivery.json](./158667-silent-night-a-christmas-delivery.json) |
 | Silent Nightmares: A Christmas Story | 285511 | [285511-silent-nightmares-a-christmas-story.json](./285511-silent-nightmares-a-christmas-story.json) |
 | Silent Nights | 240787 | [240787-silent-nights.json](./240787-silent-nights.json) |
+| Silent Nova | 362974 | [362974-silent-nova.json](./362974-silent-nova.json) |
 | Silent Numbers | 390104 | [390104-silent-numbers.json](./390104-silent-numbers.json) |
 | Silent Ops | 332433 | [332433-silent-ops.json](./332433-silent-ops.json) |
 | Silent Paradise | 401796 | [401796-silent-paradise.json](./401796-silent-paradise.json) |
@@ -7473,6 +7474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So Obscure; | 178534 | [178534-so-obscure.json](./178534-so-obscure.json) |
 | So Quirky! Puzzle Escape Game | 399789 | [399789-so-quirky-puzzle-escape-game.json](./399789-so-quirky-puzzle-escape-game.json) |
 | So Who's Dr. Rabbit? | 291974 | [291974-so-whos-dr-rabbit.json](./291974-so-whos-dr-rabbit.json) |
+| So You Wanna Be A Redneck | 362972 | [362972-so-you-wanna-be-a-redneck.json](./362972-so-you-wanna-be-a-redneck.json) |
 | SO-108 | 232945 | [232945-so-108.json](./232945-so-108.json) |
 | So-Gnar | 176465 | [176465-so-gnar.json](./176465-so-gnar.json) |
 | Soak & Splash | 250948 | [250948-soak-and-splash.json](./250948-soak-and-splash.json) |
@@ -10244,6 +10246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spice Evaders | 180583 | [180583-spice-evaders.json](./180583-spice-evaders.json) |
 | Spice Road | 17287 | [17287-spice-road.json](./17287-spice-road.json) |
 | Spice World | 44907 | [44907-spice-world.json](./44907-spice-world.json) |
+| SpiceX | 362994 | [362994-spicex.json](./362994-spicex.json) |
 | Spicy Fruit | 293678 | [293678-spicy-fruit.json](./293678-spicy-fruit.json) |
 | Spider | 320132 | [320132-spider.json](./320132-spider.json) |
 | Spider | 379979 | [379979-spider.json](./379979-spider.json) |
