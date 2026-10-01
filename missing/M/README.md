@@ -1089,6 +1089,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maimaimaigoen: Episode 1 - Welcome to Uropia | 343898 | [343898-maimaimaigoen-episode-1-welcome-to-uropia.json](./343898-maimaimaigoen-episode-1-welcome-to-uropia.json) |
 | Maimaimaigoen: Episode 2 - Promises and Crayons | 343901 | [343901-maimaimaigoen-episode-2-promises-and-crayons.json](./343901-maimaimaigoen-episode-2-promises-and-crayons.json) |
 | Maimaimaigoen: Episode 3 - The Divided Children | 343902 | [343902-maimaimaigoen-episode-3-the-divided-children.json](./343902-maimaimaigoen-episode-3-the-divided-children.json) |
+| Maimaimaigoen: Episode 4 - Well Wishes | 343928 | [343928-maimaimaigoen-episode-4-well-wishes.json](./343928-maimaimaigoen-episode-4-well-wishes.json) |
+| Maimaimaigoen: Episode 5 - That Which Connects Us | 343934 | [343934-maimaimaigoen-episode-5-that-which-connects-us.json](./343934-maimaimaigoen-episode-5-that-which-connects-us.json) |
+| Maimaimaigoen: Episode 6 - The Red Mask | 343937 | [343937-maimaimaigoen-episode-6-the-red-mask.json](./343937-maimaimaigoen-episode-6-the-red-mask.json) |
+| Maimaimaigoen: Episode 7 - The Lost Path | 343940 | [343940-maimaimaigoen-episode-7-the-lost-path.json](./343940-maimaimaigoen-episode-7-the-lost-path.json) |
 | Main Action | 254777 | [254777-main-action.json](./254777-main-action.json) |
 | Mainasutto: I'm Not Alone | 268991 | [268991-mainasutto-im-not-alone.json](./268991-mainasutto-im-not-alone.json) |
 | Mainbody | 223424 | [223424-mainbody.json](./223424-mainbody.json) |
@@ -2359,6 +2363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel's Moon Girl and Devil Dinosaur: Moon Girl Moxie! | 306670 | [306670-marvels-moon-girl-and-devil-dinosaur-moon-girl-moxie.json](./306670-marvels-moon-girl-and-devil-dinosaur-moon-girl-moxie.json) |
 | Marvel's Spider-Man 2: Collector's Edition | 272315 | [272315-marvels-spider-man-2-collectors-edition.json](./272315-marvels-spider-man-2-collectors-edition.json) |
 | Marvel's Spider-Man 2: Digital Deluxe Edition | 272508 | [272508-marvels-spider-man-2-digital-deluxe-edition.json](./272508-marvels-spider-man-2-digital-deluxe-edition.json) |
+| Marvel's Spider-Man Digital Deluxe Edition | 343953 | [343953-marvels-spider-man-digital-deluxe-edition.json](./343953-marvels-spider-man-digital-deluxe-edition.json) |
 | Marvel's Spider-Man: Miles Morales - Launch Edition | 139968 | [139968-marvels-spider-man-miles-morales-launch-edition.json](./139968-marvels-spider-man-miles-morales-launch-edition.json) |
 | Marvel's Spider-Man: Miles Morales - Ultimate Edition | 138947 | [138947-marvels-spider-man-miles-morales-ultimate-edition.json](./138947-marvels-spider-man-miles-morales-ultimate-edition.json) |
 | Marvel's Spider-Man: New Game Plus Update | 251543 | [251543-marvels-spider-man-new-game-plus-update.json](./251543-marvels-spider-man-new-game-plus-update.json) |
@@ -2897,6 +2902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max and the Magic Marker: Gold Edition | 52571 | [52571-max-and-the-magic-marker-gold-edition.json](./52571-max-and-the-magic-marker-gold-edition.json) |
 | Max and the Pirates | 209540 | [209540-max-and-the-pirates.json](./209540-max-and-the-pirates.json) |
 | Max and the Secret Formula | 209538 | [209538-max-and-the-secret-formula.json](./209538-max-and-the-secret-formula.json) |
+| Max Axe | 343970 | [343970-max-axe.json](./343970-max-axe.json) |
 | Max Beyond | 259519 | [259519-max-beyond.json](./259519-max-beyond.json) |
 | Max Bradshaw and the Zombie Invasion | 197250 | [197250-max-bradshaw-and-the-zombie-invasion.json](./197250-max-bradshaw-and-the-zombie-invasion.json) |
 | Max Craft 2: New World HD | 96703 | [96703-max-craft-2-new-world-hd.json](./96703-max-craft-2-new-world-hd.json) |
@@ -6590,6 +6596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MissPedaling Simulator | 230949 | [230949-misspedaling-simulator.json](./230949-misspedaling-simulator.json) |
 | Misspell | 364011 | [364011-misspell.json](./364011-misspell.json) |
 | Mist | 200629 | [200629-mist.json](./200629-mist.json) |
+| Mist | 343840 | [343840-mist.json](./343840-mist.json) |
 | Mist Bouncer | 63264 | [63264-mist-bouncer.json](./63264-mist-bouncer.json) |
 | Mist Gears | 107142 | [107142-mist-gears.json](./107142-mist-gears.json) |
 | Mist Guard | 207346 | [207346-mist-guard.json](./207346-mist-guard.json) |
@@ -7344,6 +7351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monomyth | 112491 | [112491-monomyth.json](./112491-monomyth.json) |
 | Mononc's Adventures | 368659 | [368659-mononcs-adventures.json](./368659-mononcs-adventures.json) |
 | Mononobe no Futo to Muttsu no Shiren | 206958 | [206958-mononobe-no-futo-to-muttsu-no-shiren.json](./206958-mononobe-no-futo-to-muttsu-no-shiren.json) |
+| Mononoke Chigiri | 343948 | [343948-mononoke-chigiri.json](./343948-mononoke-chigiri.json) |
 | Mononoke no Kuni | 270069 | [270069-mononoke-no-kuni.json](./270069-mononoke-no-kuni.json) |
 | Monopoly | 131463 | [131463-monopoly.json](./131463-monopoly.json) |
 | Monopoly | 131548 | [131548-monopoly.json](./131548-monopoly.json) |
@@ -8459,6 +8467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motocross Madness | 10260 | [10260-motocross-madness.json](./10260-motocross-madness.json) |
 | Motocross Maniacs 2 | 49891 | [49891-motocross-maniacs-2.json](./49891-motocross-maniacs-2.json) |
 | Motocross Maniacs Advance | 23475 | [23475-motocross-maniacs-advance.json](./23475-motocross-maniacs-advance.json) |
+| Motocross Meltdown | 343969 | [343969-motocross-meltdown.json](./343969-motocross-meltdown.json) |
 | Motocross Mini Outrun | 255034 | [255034-motocross-mini-outrun.json](./255034-motocross-mini-outrun.json) |
 | Motocross Racer | 23841 | [23841-motocross-racer.json](./23841-motocross-racer.json) |
 | Motocross Racing | 238392 | [238392-motocross-racing.json](./238392-motocross-racing.json) |
