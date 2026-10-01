@@ -4823,6 +4823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ant Nation | 210250 | [210250-ant-nation.json](./210250-ant-nation.json) |
 | Ant Simulator | 171046 | [171046-ant-simulator.json](./171046-ant-simulator.json) |
 | Ant Simulator | 18016 | [18016-ant-simulator.json](./18016-ant-simulator.json) |
+| Ant Simulator | 360700 | [360700-ant-simulator.json](./360700-ant-simulator.json) |
 | Ant Smasher Christmas | 352174 | [352174-ant-smasher-christmas.json](./352174-ant-smasher-christmas.json) |
 | Ant War: Kingdom Battles | 255722 | [255722-ant-war-kingdom-battles.json](./255722-ant-war-kingdom-battles.json) |
 | Ant Workers Simulator | 362437 | [362437-ant-workers-simulator.json](./362437-ant-workers-simulator.json) |
@@ -6095,6 +6096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark Odyssey | 319366 | [319366-ark-odyssey.json](./319366-ark-odyssey.json) |
 | Ark of Artemis | 148564 | [148564-ark-of-artemis.json](./148564-ark-of-artemis.json) |
 | Ark of Isolation | 373550 | [373550-ark-of-isolation.json](./373550-ark-of-isolation.json) |
+| Ark of Trisolar | 360692 | [360692-ark-of-trisolar.json](./360692-ark-of-trisolar.json) |
 | Ark of War | 133399 | [133399-ark-of-war.json](./133399-ark-of-war.json) |
 | Ark Re:Code | 367393 | [367393-ark-re-code.json](./367393-ark-re-code.json) |
 | Ark Saver | 256225 | [256225-ark-saver.json](./256225-ark-saver.json) |
