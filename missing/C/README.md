@@ -1579,6 +1579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Infinity | 63576 | [63576-castle-infinity.json](./63576-castle-infinity.json) |
 | Castle Itter: The Strangest Battle of WWII | 169423 | [169423-castle-itter-the-strangest-battle-of-wwii.json](./169423-castle-itter-the-strangest-battle-of-wwii.json) |
 | Castle Karthenfrost | 308385 | [308385-castle-karthenfrost.json](./308385-castle-karthenfrost.json) |
+| Castle Kellmore | 342814 | [342814-castle-kellmore.json](./342814-castle-kellmore.json) |
 | Castle Kingdom Wars | 238490 | [238490-castle-kingdom-wars.json](./238490-castle-kingdom-wars.json) |
 | Castle Master TD | 270165 | [270165-castle-master-td.json](./270165-castle-master-td.json) |
 | Castle of Alchemists | 191808 | [191808-castle-of-alchemists.json](./191808-castle-of-alchemists.json) |
@@ -1745,6 +1746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casual Fishing | 380057 | [380057-casual-fishing.json](./380057-casual-fishing.json) |
 | Casual Games Collection | 98819 | [98819-casual-games-collection.json](./98819-casual-games-collection.json) |
 | Casual Pixel Warrior | 188910 | [188910-casual-pixel-warrior.json](./188910-casual-pixel-warrior.json) |
+| Casual Sport Series: Badminton | 342783 | [342783-casual-sport-series-badminton.json](./342783-casual-sport-series-badminton.json) |
 | Casual Sport Series: Racket Sports Bundle | 396915 | [396915-casual-sport-series-racket-sports-bundle.json](./396915-casual-sport-series-racket-sports-bundle.json) |
 | Casual Trucking | 306097 | [306097-casual-trucking.json](./306097-casual-trucking.json) |
 | Cat | 309516 | [309516-cat.json](./309516-cat.json) |
@@ -6844,6 +6846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corbel | 322609 | [322609-corbel.json](./322609-corbel.json) |
 | Corbid! A Colorful Adventure | 223157 | [223157-corbid-a-colorful-adventure.json](./223157-corbid-a-colorful-adventure.json) |
 | Corbyn Slots: General Election 2017 | 235133 | [235133-corbyn-slots-general-election-2017.json](./235133-corbyn-slots-general-election-2017.json) |
+| Corcovado's Night Guard | 342786 | [342786-corcovados-night-guard.json](./342786-corcovados-night-guard.json) |
 | Cordel Lands | 393823 | [393823-cordel-lands.json](./393823-cordel-lands.json) |
 | Cordelia | 248044 | [248044-cordelia.json](./248044-cordelia.json) |
 | Cordial Minuet | 97298 | [97298-cordial-minuet.json](./97298-cordial-minuet.json) |
