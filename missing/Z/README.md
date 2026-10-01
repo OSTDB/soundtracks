@@ -893,6 +893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie's Cool | 147261 | [147261-zombies-cool.json](./147261-zombies-cool.json) |
 | Zombie's Cool 2 | 222338 | [222338-zombies-cool-2.json](./222338-zombies-cool-2.json) |
 | Zombieeee! | 151718 | [151718-zombieeee.json](./151718-zombieeee.json) |
+| Zombiefield | 336751 | [336751-zombiefield.json](./336751-zombiefield.json) |
 | ZombieFight VR | 30061 | [30061-zombiefight-vr.json](./30061-zombiefight-vr.json) |
 | Zombiegrinder 60000 | 11343 | [11343-zombiegrinder-60000.json](./11343-zombiegrinder-60000.json) |
 | ZombieHunt | 86573 | [86573-zombiehunt.json](./86573-zombiehunt.json) |
