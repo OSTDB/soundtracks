@@ -517,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UMA-War VR | 30175 | [30175-uma-war-vr.json](./30175-uma-war-vr.json) |
 | Umadle | 369045 | [369045-umadle.json](./369045-umadle.json) |
 | Umami Island | 214503 | [214503-umami-island.json](./214503-umami-island.json) |
+| Umami Island | 377201 | [377201-umami-island.json](./377201-umami-island.json) |
 | Umamusume: Pretty Derby | 97494 | [97494-umamusume-pretty-derby.json](./97494-umamusume-pretty-derby.json) |
 | Umamusume: Pretty Derby - Party Dash: DLC Vol. 1 - Team Iris | 316227 | [316227-umamusume-pretty-derby-party-dash-dlc-vol-1-team-iris.json](./316227-umamusume-pretty-derby-party-dash-dlc-vol-1-team-iris.json) |
 | UmaNetto. Full Preved! | 252372 | [252372-umanetto-full-preved.json](./252372-umanetto-full-preved.json) |
