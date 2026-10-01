@@ -1348,6 +1348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tattoo Mania | 77239 | [77239-tattoo-mania.json](./77239-tattoo-mania.json) |
 | Tattoo Punk | 146824 | [146824-tattoo-punk.json](./146824-tattoo-punk.json) |
 | Tattoo Studio Simulator | 371414 | [371414-tattoo-studio-simulator.json](./371414-tattoo-studio-simulator.json) |
+| Tattoon Master | 362978 | [362978-tattoon-master.json](./362978-tattoon-master.json) |
 | Tattoos and Tulips | 257976 | [257976-tattoos-and-tulips.json](./257976-tattoos-and-tulips.json) |
 | Tatvalok | 380542 | [380542-tatvalok.json](./380542-tatvalok.json) |
 | Tau Defense | 120859 | [120859-tau-defense.json](./120859-tau-defense.json) |
@@ -1475,6 +1476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Fortress 2: Love & War Update | 256882 | [256882-team-fortress-2-love-and-war-update.json](./256882-team-fortress-2-love-and-war-update.json) |
 | Team Fortress 2: Mann vs. Machine - Two Cities Update | 256881 | [256881-team-fortress-2-mann-vs-machine-two-cities-update.json](./256881-team-fortress-2-mann-vs-machine-two-cities-update.json) |
 | Team Fortress 2: Mecha Update | 256782 | [256782-team-fortress-2-mecha-update.json](./256782-team-fortress-2-mecha-update.json) |
+| Team Fortress 2: Randomizer | 362981 | [362981-team-fortress-2-randomizer.json](./362981-team-fortress-2-randomizer.json) |
 | Team Fortress 2: Rebalanced | 400339 | [400339-team-fortress-2-rebalanced.json](./400339-team-fortress-2-rebalanced.json) |
 | Team Fortress 2: Robotic Boogaloo | 256783 | [256783-team-fortress-2-robotic-boogaloo.json](./256783-team-fortress-2-robotic-boogaloo.json) |
 | Team Fortress 2: The Gun Mettle Update | 256889 | [256889-team-fortress-2-the-gun-mettle-update.json](./256889-team-fortress-2-the-gun-mettle-update.json) |
@@ -2160,6 +2162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Avoider | 278508 | [278508-terra-avoider.json](./278508-terra-avoider.json) |
 | Terra Cognita | 29037 | [29037-terra-cognita.json](./29037-terra-cognita.json) |
 | Terra Cresta II | 37728 | [37728-terra-cresta-ii.json](./37728-terra-cresta-ii.json) |
+| Terra Engine | 362991 | [362991-terra-engine.json](./362991-terra-engine.json) |
 | Terra Farmers | 54428 | [54428-terra-farmers.json](./54428-terra-farmers.json) |
 | Terra Firma | 155509 | [155509-terra-firma.json](./155509-terra-firma.json) |
 | Terra Firma 2 | 366335 | [366335-terra-firma-2.json](./366335-terra-firma-2.json) |
@@ -9773,6 +9776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Misses Confectionery | 398455 | [398455-three-misses-confectionery.json](./398455-three-misses-confectionery.json) |
 | Three of a Fish | 123546 | [123546-three-of-a-fish.json](./123546-three-of-a-fish.json) |
 | Three Random Archives | 265114 | [265114-three-random-archives.json](./265114-three-random-archives.json) |
+| Three Six Nine | 362985 | [362985-three-six-nine.json](./362985-three-six-nine.json) |
 | Three Skies Ascension | 318398 | [318398-three-skies-ascension.json](./318398-three-skies-ascension.json) |
 | Three Sons | 192968 | [192968-three-sons.json](./192968-three-sons.json) |
 | Three Treason Theories | 110787 | [110787-three-treason-theories.json](./110787-three-treason-theories.json) |
@@ -11412,6 +11416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tinytopia | 131947 | [131947-tinytopia.json](./131947-tinytopia.json) |
 | Tinyverse | 181362 | [181362-tinyverse.json](./181362-tinyverse.json) |
 | TinyWars | 122207 | [122207-tinywars.json](./122207-tinywars.json) |
+| Tip | 362987 | [362987-tip.json](./362987-tip.json) |
 | Tip & Tumble | 232384 | [232384-tip-and-tumble.json](./232384-tip-and-tumble.json) |
 | Tip Top Deluxe | 206219 | [206219-tip-top-deluxe.json](./206219-tip-top-deluxe.json) |
 | Tip Top: Don't Fall! | 217814 | [217814-tip-top-dont-fall.json](./217814-tip-top-dont-fall.json) |
@@ -12398,6 +12403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toraware no Palm: Refrain - Deluxe Edition | 136843 | [136843-toraware-no-palm-refrain-deluxe-edition.json](./136843-toraware-no-palm-refrain-deluxe-edition.json) |
 | Torawase: The Girl in the Mirror | 397911 | [397911-torawase-the-girl-in-the-mirror.json](./397911-torawase-the-girl-in-the-mirror.json) |
 | Torbaci Oyunu | 274769 | [274769-torbaci-oyunu.json](./274769-torbaci-oyunu.json) |
+| Torc: Legend Of The Ogre Crown | 362968 | [362968-torc-legend-of-the-ogre-crown.json](./362968-torc-legend-of-the-ogre-crown.json) |
 | Torch | 232977 | [232977-torch.json](./232977-torch.json) |
 | Torch 2081 | 86047 | [86047-torch-2081.json](./86047-torch-2081.json) |
 | Torch Cave 2 | 31086 | [31086-torch-cave-2.json](./31086-torch-cave-2.json) |
