@@ -3040,6 +3040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alive | 226212 | [226212-alive.json](./226212-alive.json) |
 | Alive | 282657 | [282657-alive.json](./282657-alive.json) |
 | Alive | 287661 | [287661-alive.json](./287661-alive.json) |
+| Alive | 345645 | [345645-alive.json](./345645-alive.json) |
 | Alive 4-ever Returns | 94758 | [94758-alive-4-ever-returns.json](./94758-alive-4-ever-returns.json) |
 | Alive! Jigsaw | 94344 | [94344-alive-jigsaw.json](./94344-alive-jigsaw.json) |
 | Alive? Dead? | 105514 | [105514-alive-dead.json](./105514-alive-dead.json) |
@@ -4001,6 +4002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anarchy Racer | 384135 | [384135-anarchy-racer.json](./384135-anarchy-racer.json) |
 | Anarchy Reigns: Bayonetta Pack | 246899 | [246899-anarchy-reigns-bayonetta-pack.json](./246899-anarchy-reigns-bayonetta-pack.json) |
 | Anarchy Reigns: Limited Edition | 44663 | [44663-anarchy-reigns-limited-edition.json](./44663-anarchy-reigns-limited-edition.json) |
+| Anarchy Road | 345659 | [345659-anarchy-road.json](./345659-anarchy-road.json) |
 | Anarchy Zone | 15595 | [15595-anarchy-zone.json](./15595-anarchy-zone.json) |
 | Anarchy: Rush Hour | 44602 | [44602-anarchy-rush-hour.json](./44602-anarchy-rush-hour.json) |
 | Anarchy: Wolf's Law - Summer Adventure | 226222 | [226222-anarchy-wolfs-law-summer-adventure.json](./226222-anarchy-wolfs-law-summer-adventure.json) |
