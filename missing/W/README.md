@@ -1687,6 +1687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Western Quest | 244181 | [244181-western-quest.json](./244181-western-quest.json) |
 | Western Riding Academy | 80469 | [80469-western-riding-academy.json](./80469-western-riding-academy.json) |
 | Western War | 249754 | [249754-western-war.json](./249754-western-war.json) |
+| Westeros: Total War | 356236 | [356236-westeros-total-war.json](./356236-westeros-total-war.json) |
 | Westfall | 343252 | [343252-westfall.json](./343252-westfall.json) |
 | WestFallen | 201547 | [201547-westfallen.json](./201547-westfallen.json) |
 | Westgrove | 240321 | [240321-westgrove.json](./240321-westgrove.json) |
