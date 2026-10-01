@@ -2699,6 +2699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero's Everyday Life | 157706 | [157706-heros-everyday-life.json](./157706-heros-everyday-life.json) |
 | Hero's Hand | 335866 | [335866-heros-hand.json](./335866-heros-hand.json) |
 | Hero's Heart | 50485 | [50485-heros-heart.json](./50485-heros-heart.json) |
+| Hero's Hour 2 | 381190 | [381190-heros-hour-2.json](./381190-heros-hour-2.json) |
 | Hero's Hour: Deluxe Edition | 251551 | [251551-heros-hour-deluxe-edition.json](./251551-heros-hour-deluxe-edition.json) |
 | Hero's Ignition | 373743 | [373743-heros-ignition.json](./373743-heros-ignition.json) |
 | Hero's Journey | 368005 | [368005-heros-journey.json](./368005-heros-journey.json) |
