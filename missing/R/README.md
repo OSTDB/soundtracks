@@ -3703,6 +3703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rigid Force Redux | 134368 | [134368-rigid-force-redux.json](./134368-rigid-force-redux.json) |
 | Rigid Memory | 205107 | [205107-rigid-memory.json](./205107-rigid-memory.json) |
 | Riglord Saga 2 | 73838 | [73838-riglord-saga-2.json](./73838-riglord-saga-2.json) |
+| RigorZ | 350565 | [350565-rigorz.json](./350565-rigorz.json) |
 | Riichi City | 187355 | [187355-riichi-city.json](./187355-riichi-city.json) |
 | Riichi Mahjong | 403729 | [403729-riichi-mahjong.json](./403729-riichi-mahjong.json) |
 | RiiMajor | 294771 | [294771-riimajor.json](./294771-riimajor.json) |
@@ -5164,6 +5165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance of the Three Kingdoms Hadou | 371351 | [371351-romance-of-the-three-kingdoms-hadou.json](./371351-romance-of-the-three-kingdoms-hadou.json) |
 | Romance of the Three Kingdoms II | 350627 | [350627-romance-of-the-three-kingdoms-ii.json](./350627-romance-of-the-three-kingdoms-ii.json) |
 | Romance of the Three Kingdoms IV with Power Up Kit | 91114 | [91114-romance-of-the-three-kingdoms-iv-with-power-up-kit.json](./91114-romance-of-the-three-kingdoms-iv-with-power-up-kit.json) |
+| Romance of the Three Kingdoms IV: Wall of Fire | 350561 | [350561-romance-of-the-three-kingdoms-iv-wall-of-fire.json](./350561-romance-of-the-three-kingdoms-iv-wall-of-fire.json) |
 | Romance of the Three Kingdoms IV: Wall of Fire | 7040 | [7040-romance-of-the-three-kingdoms-iv-wall-of-fire.json](./7040-romance-of-the-three-kingdoms-iv-wall-of-fire.json) |
 | Romance of the Three Kingdoms IX: Power Up Kit | 350632 | [350632-romance-of-the-three-kingdoms-ix-power-up-kit.json](./350632-romance-of-the-three-kingdoms-ix-power-up-kit.json) |
 | Romance of the Three Kingdoms Maker | 34575 | [34575-romance-of-the-three-kingdoms-maker.json](./34575-romance-of-the-three-kingdoms-maker.json) |
@@ -5906,6 +5908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rummy Club | 223923 | [223923-rummy-club.json](./223923-rummy-club.json) |
 | Rumor Raiders | 350406 | [350406-rumor-raiders.json](./350406-rumor-raiders.json) |
 | Rumor Reporter | 391072 | [391072-rumor-reporter.json](./391072-rumor-reporter.json) |
+| Rumour | 350560 | [350560-rumour.json](./350560-rumour.json) |
 | Rump! | 35772 | [35772-rump.json](./35772-rump.json) |
 | Rumpus | 150522 | [150522-rumpus.json](./150522-rumpus.json) |
 | Rumpus | 30940 | [30940-rumpus.json](./30940-rumpus.json) |
