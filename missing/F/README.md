@@ -6208,6 +6208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funbag Fantasy 4: Brother Astor | 210718 | [210718-funbag-fantasy-4-brother-astor.json](./210718-funbag-fantasy-4-brother-astor.json) |
 | Funbag Fantasy: Sideboob Story | 127949 | [127949-funbag-fantasy-sideboob-story.json](./127949-funbag-fantasy-sideboob-story.json) |
 | Function.Repair | 63827 | [63827-function-repair.json](./63827-function-repair.json) |
+| Fundación 3M España: The Recycling Heroes | 377228 | [377228-fundacion-3m-espana-the-recycling-heroes.json](./377228-fundacion-3m-espana-the-recycling-heroes.json) |
 | Fune Tarou | 42241 | [42241-fune-tarou.json](./42241-fune-tarou.json) |
 | Funeral for the Sun | 385063 | [385063-funeral-for-the-sun.json](./385063-funeral-for-the-sun.json) |
 | Funeral Song for the Elemental Lords | 313260 | [313260-funeral-song-for-the-elemental-lords.json](./313260-funeral-song-for-the-elemental-lords.json) |
