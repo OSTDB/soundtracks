@@ -643,6 +643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Phantasia: Narikiri Dungeon X | 42864 | [42864-tales-of-phantasia-narikiri-dungeon-x.json](./42864-tales-of-phantasia-narikiri-dungeon-x.json) |
 | Tales of Pirates | 72702 | [72702-tales-of-pirates.json](./72702-tales-of-pirates.json) |
 | Tales Of Polygonia | 231326 | [231326-tales-of-polygonia.json](./231326-tales-of-polygonia.json) |
+| Tales of Popolon | 360137 | [360137-tales-of-popolon.json](./360137-tales-of-popolon.json) |
 | Tales of Rein Ravine | 319551 | [319551-tales-of-rein-ravine.json](./319551-tales-of-rein-ravine.json) |
 | Tales of Shadowland | 185644 | [185644-tales-of-shadowland.json](./185644-tales-of-shadowland.json) |
 | Tales of Sorrow: Strawsbrough Town | 114358 | [114358-tales-of-sorrow-strawsbrough-town.json](./114358-tales-of-sorrow-strawsbrough-town.json) |
@@ -2089,6 +2090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teocalli | 134698 | [134698-teocalli.json](./134698-teocalli.json) |
 | Teocida + Estigma | 265712 | [265712-teocida-estigma.json](./265712-teocida-estigma.json) |
 | Teodoro and the Evil Machines | 153873 | [153873-teodoro-and-the-evil-machines.json](./153873-teodoro-and-the-evil-machines.json) |
+| Teodoro no sabe volar | 360124 | [360124-teodoro-no-sabe-volar.json](./360124-teodoro-no-sabe-volar.json) |
 | TEOM | 236013 | [236013-teom.json](./236013-teom.json) |
 | Teon: All Fair Hardcore ARPG | 83271 | [83271-teon-all-fair-hardcore-arpg.json](./83271-teon-all-fair-hardcore-arpg.json) |
 | Tep the Destroyer | 180000 | [180000-tep-the-destroyer.json](./180000-tep-the-destroyer.json) |
@@ -2353,6 +2355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetra Cube | 144871 | [144871-tetra-cube.json](./144871-tetra-cube.json) |
 | Tetra Dungeon | 184391 | [184391-tetra-dungeon.json](./184391-tetra-dungeon.json) |
 | Tetra Dungeon | 403790 | [403790-tetra-dungeon.json](./403790-tetra-dungeon.json) |
+| Tetra Esports | 360041 | [360041-tetra-esports.json](./360041-tetra-esports.json) |
 | Tetra for Nintendo Switch: International Edition | 187462 | [187462-tetra-for-nintendo-switch-international-edition.json](./187462-tetra-for-nintendo-switch-international-edition.json) |
 | Tetra Form | 382454 | [382454-tetra-form.json](./382454-tetra-form.json) |
 | Tetra Master | 206212 | [206212-tetra-master.json](./206212-tetra-master.json) |
@@ -9784,6 +9787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Little Pigs - fairy tale with games for kids | 91154 | [91154-three-little-pigs-fairy-tale-with-games-for-kids.json](./91154-three-little-pigs-fairy-tale-with-games-for-kids.json) |
 | Three Mazeketeers | 192869 | [192869-three-mazeketeers.json](./192869-three-mazeketeers.json) |
 | Three Men's Morris | 384169 | [384169-three-mens-morris.json](./384169-three-mens-morris.json) |
+| Three Methods to Unseat a Fairy Monarch | 360144 | [360144-three-methods-to-unseat-a-fairy-monarch.json](./360144-three-methods-to-unseat-a-fairy-monarch.json) |
 | Three Misses Confectionery | 398455 | [398455-three-misses-confectionery.json](./398455-three-misses-confectionery.json) |
 | Three of a Fish | 123546 | [123546-three-of-a-fish.json](./123546-three-of-a-fish.json) |
 | Three Random Archives | 265114 | [265114-three-random-archives.json](./265114-three-random-archives.json) |
@@ -13412,6 +13416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffic Cop | 88177 | [88177-traffic-cop.json](./88177-traffic-cop.json) |
 | Traffic Department 2192 | 23728 | [23728-traffic-department-2192.json](./23728-traffic-department-2192.json) |
 | Traffic Giant | 57660 | [57660-traffic-giant.json](./57660-traffic-giant.json) |
+| Traffic Jam | 360114 | [360114-traffic-jam.json](./360114-traffic-jam.json) |
 | Traffic Jam | 42135 | [42135-traffic-jam.json](./42135-traffic-jam.json) |
 | Traffic Jammy | 179581 | [179581-traffic-jammy.json](./179581-traffic-jammy.json) |
 | Traffic Jelly | 88377 | [88377-traffic-jelly.json](./88377-traffic-jelly.json) |
@@ -14570,6 +14575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tren | 344455 | [344455-tren.json](./344455-tren.json) |
 | Trench Face | 365220 | [365220-trench-face.json](./365220-trench-face.json) |
 | Trench Lord: Eastern Front | 369049 | [369049-trench-lord-eastern-front.json](./369049-trench-lord-eastern-front.json) |
+| Trench Rats: The First March | 360147 | [360147-trench-rats-the-first-march.json](./360147-trench-rats-the-first-march.json) |
 | Trench Run | 30370 | [30370-trench-run.json](./30370-trench-run.json) |
 | Trench Runner! | 260984 | [260984-trench-runner.json](./260984-trench-runner.json) |
 | Trench Shooter: Warfare Tactics | 328468 | [328468-trench-shooter-warfare-tactics.json](./328468-trench-shooter-warfare-tactics.json) |
