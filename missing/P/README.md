@@ -660,6 +660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pantsylvania | 64373 | [64373-pantsylvania.json](./64373-pantsylvania.json) |
 | Pantufa the Cat | 318632 | [318632-pantufa-the-cat.json](./318632-pantufa-the-cat.json) |
 | Pantufa the Cat: Extended Edition | 318631 | [318631-pantufa-the-cat-extended-edition.json](./318631-pantufa-the-cat-extended-edition.json) |
+| Panty Match Girls | 386375 | [386375-panty-match-girls.json](./386375-panty-match-girls.json) |
 | Panty Raider: From Here to Immaturity | 81476 | [81476-panty-raider-from-here-to-immaturity.json](./81476-panty-raider-from-here-to-immaturity.json) |
 | Panty Slide | 113153 | [113153-panty-slide.json](./113153-panty-slide.json) |
 | Panty&Demons | 184479 | [184479-panty-and-demons.json](./184479-panty-and-demons.json) |
@@ -4248,6 +4249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Crafter | 143574 | [143574-planet-crafter.json](./143574-planet-crafter.json) |
 | Planet Crashers | 21036 | [21036-planet-crashers.json](./21036-planet-crashers.json) |
 | Planet Crossword | 220841 | [220841-planet-crossword.json](./220841-planet-crossword.json) |
+| Planet Defender | 386331 | [386331-planet-defender.json](./386331-planet-defender.json) |
 | Planet Delta | 80552 | [80552-planet-delta.json](./80552-planet-delta.json) |
 | Planet Ennea | 229653 | [229653-planet-ennea.json](./229653-planet-ennea.json) |
 | Planet Explorers | 5573 | [5573-planet-explorers.json](./5573-planet-explorers.json) |
@@ -4634,6 +4636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pleurghburg: Dark Ages | 79805 | [79805-pleurghburg-dark-ages.json](./79805-pleurghburg-dark-ages.json) |
 | Plexar | 84322 | [84322-plexar.json](./84322-plexar.json) |
 | Plicplic | 261324 | [261324-plicplic.json](./261324-plicplic.json) |
+| Plighters | 386386 | [386386-plighters.json](./386386-plighters.json) |
 | Plinbo | 372560 | [372560-plinbo.json](./372560-plinbo.json) |
 | Plinio Needs a Hand | 291089 | [291089-plinio-needs-a-hand.json](./291089-plinio-needs-a-hand.json) |
 | Plink by Pokerist | 401764 | [401764-plink-by-pokerist.json](./401764-plink-by-pokerist.json) |
