@@ -1830,6 +1830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peas Adventure | 117034 | [117034-peas-adventure.json](./117034-peas-adventure.json) |
 | Peasant | 309470 | [309470-peasant.json](./309470-peasant.json) |
 | Peasant Dream: Ascension | 377782 | [377782-peasant-dream-ascension.json](./377782-peasant-dream-ascension.json) |
+| Peasant Nightmare | 364012 | [364012-peasant-nightmare.json](./364012-peasant-nightmare.json) |
 | Peasant TD | 195158 | [195158-peasant-td.json](./195158-peasant-td.json) |
 | Pebble | 188610 | [188610-pebble.json](./188610-pebble.json) |
 | Pebble Knights | 347758 | [347758-pebble-knights.json](./347758-pebble-knights.json) |
@@ -3792,6 +3793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Dungeon | 9795 | [9795-pixel-dungeon.json](./9795-pixel-dungeon.json) |
 | Pixel Dungeon RPG | 326616 | [326616-pixel-dungeon-rpg.json](./326616-pixel-dungeon-rpg.json) |
 | Pixel Dungeon VR | 348951 | [348951-pixel-dungeon-vr.json](./348951-pixel-dungeon-vr.json) |
+| Pixel Dungeons | 364025 | [364025-pixel-dungeons.json](./364025-pixel-dungeons.json) |
 | Pixel Empires | 351259 | [351259-pixel-empires.json](./351259-pixel-empires.json) |
 | Pixel Exploration: Craft Edition | 101574 | [101574-pixel-exploration-craft-edition.json](./101574-pixel-exploration-craft-edition.json) |
 | Pixel Express | 107835 | [107835-pixel-express.json](./107835-pixel-express.json) |
@@ -4429,8 +4431,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plant Game | 405518 | [405518-plant-game.json](./405518-plant-game.json) |
 | Plant Therapy: Coney Island Plus | 337834 | [337834-plant-therapy-coney-island-plus.json](./337834-plant-therapy-coney-island-plus.json) |
 | Plant Therapy: Goth Pack | 324290 | [324290-plant-therapy-goth-pack.json](./324290-plant-therapy-goth-pack.json) |
+| Plant Therapy: Park Place | 364019 | [364019-plant-therapy-park-place.json](./364019-plant-therapy-park-place.json) |
 | Plant Therapy: Plush and Pots Pack | 316403 | [316403-plant-therapy-plush-and-pots-pack.json](./316403-plant-therapy-plush-and-pots-pack.json) |
 | Plant Therapy: Queens | 266802 | [266802-plant-therapy-queens.json](./266802-plant-therapy-queens.json) |
+| Plant Therapy: Tropical Dreams | 364018 | [364018-plant-therapy-tropical-dreams.json](./364018-plant-therapy-tropical-dreams.json) |
 | Plant Tycoon | 15942 | [15942-plant-tycoon.json](./15942-plant-tycoon.json) |
 | Plantabi: Little Garden | 288871 | [288871-plantabi-little-garden.json](./288871-plantabi-little-garden.json) |
 | Plantan | 110330 | [110330-plantan.json](./110330-plantan.json) |
@@ -4440,6 +4444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planternauts | 341571 | [341571-planternauts.json](./341571-planternauts.json) |
 | Plantgotchi | 122321 | [122321-plantgotchi.json](./122321-plantgotchi.json) |
 | Planth Care | 181356 | [181356-planth-care.json](./181356-planth-care.json) |
+| Planticulture | 364020 | [364020-planticulture.json](./364020-planticulture.json) |
 | Plantoons | 341570 | [341570-plantoons.json](./341570-plantoons.json) |
 | Plants | 101330 | [101330-plants.json](./101330-plants.json) |
 | Plants in Rush | 287718 | [287718-plants-in-rush.json](./287718-plants-in-rush.json) |
@@ -5637,6 +5642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polyrhythm Mania | 182445 | [182445-polyrhythm-mania.json](./182445-polyrhythm-mania.json) |
 | Polyrhythm Master | 235175 | [235175-polyrhythm-master.json](./235175-polyrhythm-master.json) |
 | Polyroll | 87936 | [87936-polyroll.json](./87936-polyroll.json) |
+| PolyRoyale | 364034 | [364034-polyroyale.json](./364034-polyroyale.json) |
 | Polyrun | 120960 | [120960-polyrun.json](./120960-polyrun.json) |
 | Polysemy‌ | 326187 | [326187-polysemy.json](./326187-polysemy.json) |
 | Polyslime | 173230 | [173230-polyslime.json](./173230-polyslime.json) |
