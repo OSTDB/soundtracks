@@ -993,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Rescue | 92301 | [92301-zoo-rescue.json](./92301-zoo-rescue.json) |
 | Zoo Simulator | 216802 | [216802-zoo-simulator.json](./216802-zoo-simulator.json) |
 | Zoo Squad | 192394 | [192394-zoo-squad.json](./192394-zoo-squad.json) |
+| Zoo Time | 369685 | [369685-zoo-time.json](./369685-zoo-time.json) |
 | Zoo Tycoon | 18538 | [18538-zoo-tycoon.json](./18538-zoo-tycoon.json) |
 | Zoo Tycoon 2 DS | 20773 | [20773-zoo-tycoon-2-ds.json](./20773-zoo-tycoon-2-ds.json) |
 | Zoo Tycoon 2: African Adventure | 70116 | [70116-zoo-tycoon-2-african-adventure.json](./70116-zoo-tycoon-2-african-adventure.json) |
