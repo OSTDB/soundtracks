@@ -2818,6 +2818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Apocryphal Gensoukyou | 212894 | [212894-the-apocryphal-gensoukyou.json](./212894-the-apocryphal-gensoukyou.json) |
 | The Apollo Project | 192682 | [192682-the-apollo-project.json](./192682-the-apollo-project.json) |
 | The Apothecary Diaries Palace Chronicles | 406943 | [406943-the-apothecary-diaries-palace-chronicles.json](./406943-the-apothecary-diaries-palace-chronicles.json) |
+| The Apothecary of Trubiz | 376645 | [376645-the-apothecary-of-trubiz.json](./376645-the-apothecary-of-trubiz.json) |
 | The Apothecary's Apprentice | 177571 | [177571-the-apothecarys-apprentice.json](./177571-the-apothecarys-apprentice.json) |
 | The Apple Girl | 379969 | [379969-the-apple-girl.json](./379969-the-apple-girl.json) |
 | The Apple of Our Time | 281374 | [281374-the-apple-of-our-time.json](./281374-the-apple-of-our-time.json) |
@@ -4720,6 +4721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gannet | 202968 | [202968-the-gannet.json](./202968-the-gannet.json) |
 | The Gap | 151120 | [151120-the-gap.json](./151120-the-gap.json) |
 | The Gap: Limited Edition | 292149 | [292149-the-gap-limited-edition.json](./292149-the-gap-limited-edition.json) |
+| The Garden | 376640 | [376640-the-garden.json](./376640-the-garden.json) |
 | The Garden of Hades | 231464 | [231464-the-garden-of-hades.json](./231464-the-garden-of-hades.json) |
 | The Garden of Hermeneus | 347349 | [347349-the-garden-of-hermeneus.json](./347349-the-garden-of-hermeneus.json) |
 | The Gardener | 389404 | [389404-the-gardener.json](./389404-the-gardener.json) |
@@ -4778,6 +4780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Girl From the Snuff Video | 247742 | [247742-the-girl-from-the-snuff-video.json](./247742-the-girl-from-the-snuff-video.json) |
 | The Girl in the Tower of Steel | 256326 | [256326-the-girl-in-the-tower-of-steel.json](./256326-the-girl-in-the-tower-of-steel.json) |
 | The Girl in the Window | 221722 | [221722-the-girl-in-the-window.json](./221722-the-girl-in-the-window.json) |
+| The Girl In White | 376655 | [376655-the-girl-in-white.json](./376655-the-girl-in-white.json) |
 | The Girl on the Train | 74247 | [74247-the-girl-on-the-train.json](./74247-the-girl-on-the-train.json) |
 | The Girl Who Kicked a Rabbit | 253302 | [253302-the-girl-who-kicked-a-rabbit.json](./253302-the-girl-who-kicked-a-rabbit.json) |
 | The Girl Who Sees | 149576 | [149576-the-girl-who-sees.json](./149576-the-girl-who-sees.json) |
@@ -6551,6 +6554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Midnight Lapse: Reborn | 26984 | [26984-the-midnight-lapse-reborn.json](./26984-the-midnight-lapse-reborn.json) |
 | The Midnight Park | 183066 | [183066-the-midnight-park.json](./183066-the-midnight-park.json) |
 | The Midnight Walkers | 289983 | [289983-the-midnight-walkers.json](./289983-the-midnight-walkers.json) |
+| The Midnighters | 376659 | [376659-the-midnighters.json](./376659-the-midnighters.json) |
 | The Mighty Claw | 249810 | [249810-the-mighty-claw.json](./249810-the-mighty-claw.json) |
 | The Mighty Eighth VR | 224786 | [224786-the-mighty-eighth-vr.json](./224786-the-mighty-eighth-vr.json) |
 | The Mighty Quest for Epic Loot | 217796 | [217796-the-mighty-quest-for-epic-loot.json](./217796-the-mighty-quest-for-epic-loot.json) |
@@ -7161,6 +7165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Principals Bimbofication | 388954 | [388954-the-principals-bimbofication.json](./388954-the-principals-bimbofication.json) |
 | The Prison | 117089 | [117089-the-prison.json](./117089-the-prison.json) |
 | The Prisoning: Fletcher's Quest | 284895 | [284895-the-prisoning-fletchers-quest.json](./284895-the-prisoning-fletchers-quest.json) |
+| The Pro Mahjong: Menkyo Minnaten | 376643 | [376643-the-pro-mahjong-menkyo-minnaten.json](./376643-the-pro-mahjong-menkyo-minnaten.json) |
 | The Pro Wrestling | 385780 | [385780-the-pro-wrestling.json](./385780-the-pro-wrestling.json) |
 | The Pro Yakyuu | 132129 | [132129-the-pro-yakyuu.json](./132129-the-pro-yakyuu.json) |
 | The Pro Yakyuu Super '94 | 307092 | [307092-the-pro-yakyuu-super-94.json](./307092-the-pro-yakyuu-super-94.json) |
@@ -9636,6 +9641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thousand Hells: The Underworld Heists | 360177 | [360177-thousand-hells-the-underworld-heists.json](./360177-thousand-hells-the-underworld-heists.json) |
 | Thousand Island Solitaire | 206225 | [206225-thousand-island-solitaire.json](./206225-thousand-island-solitaire.json) |
 | Thousand Island Solitaire HD | 355004 | [355004-thousand-island-solitaire-hd.json](./355004-thousand-island-solitaire-hd.json) |
+| Thousand N' Thousand: Mimico | 376665 | [376665-thousand-n-thousand-mimico.json](./376665-thousand-n-thousand-mimico.json) |
 | Thousands Layered Blade: Reforged | 327168 | [327168-thousands-layered-blade-reforged.json](./327168-thousands-layered-blade-reforged.json) |
 | Thrall of the Dying Sun | 177517 | [177517-thrall-of-the-dying-sun.json](./177517-thrall-of-the-dying-sun.json) |
 | Thrasher | 279618 | [279618-thrasher.json](./279618-thrasher.json) |
@@ -12032,6 +12038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tommy Is My Hero! | 272853 | [272853-tommy-is-my-hero.json](./272853-tommy-is-my-hero.json) |
 | Tommygun's Frag | 387516 | [387516-tommyguns-frag.json](./387516-tommyguns-frag.json) |
 | Tomo: Endless Blue | 339675 | [339675-tomo-endless-blue.json](./339675-tomo-endless-blue.json) |
+| Tomodachi 8in1 | 376653 | [376653-tomodachi-8in1.json](./376653-tomodachi-8in1.json) |
 | Tomodachi Life | 6403 | [6403-tomodachi-life.json](./6403-tomodachi-life.json) |
 | Tomodachi Life: The Gay Mod | 350609 | [350609-tomodachi-life-the-gay-mod.json](./350609-tomodachi-life-the-gay-mod.json) |
 | Tomodachi-kun | 398580 | [398580-tomodachi-kun.json](./398580-tomodachi-kun.json) |
