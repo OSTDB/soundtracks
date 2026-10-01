@@ -1021,6 +1021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tankitos | 201788 | [201788-tankitos.json](./201788-tankitos.json) |
 | Tankman | 121635 | [121635-tankman.json](./121635-tankman.json) |
 | Tankomatron War Robots: Transform Tanks into Bots | 104634 | [104634-tankomatron-war-robots-transform-tanks-into-bots.json](./104634-tankomatron-war-robots-transform-tanks-into-bots.json) |
+| TankRat | 381208 | [381208-tankrat.json](./381208-tankrat.json) |
 | Tankron | 215883 | [215883-tankron.json](./215883-tankron.json) |
 | Tanks | 102253 | [102253-tanks.json](./102253-tanks.json) |
 | Tanks | 259625 | [259625-tanks.json](./259625-tanks.json) |
@@ -4639,6 +4640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fox's Way Home | 308875 | [308875-the-foxs-way-home.json](./308875-the-foxs-way-home.json) |
 | The Fragment | 120369 | [120369-the-fragment.json](./120369-the-fragment.json) |
 | The Freddy Files | 277284 | [277284-the-freddy-files.json](./277284-the-freddy-files.json) |
+| The Free Shepherd | 381202 | [381202-the-free-shepherd.json](./381202-the-free-shepherd.json) |
 | The French and Indian War | 182258 | [182258-the-french-and-indian-war.json](./182258-the-french-and-indian-war.json) |
 | The Fridge is Red | 141660 | [141660-the-fridge-is-red.json](./141660-the-fridge-is-red.json) |
 | The friends of Ringo Ishikawa | 98898 | [98898-the-friends-of-ringo-ishikawa.json](./98898-the-friends-of-ringo-ishikawa.json) |
@@ -10995,6 +10997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Travel | 117091 | [117091-time-travel.json](./117091-time-travel.json) |
 | Time Travel | 204489 | [204489-time-travel.json](./204489-time-travel.json) |
 | Time Travel Cafe | 295777 | [295777-time-travel-cafe.json](./295777-time-travel-cafe.json) |
+| Time Travel Train | 381194 | [381194-time-travel-train.json](./381194-time-travel-train.json) |
 | Time Traveler | 201849 | [201849-time-traveler.json](./201849-time-traveler.json) |
 | Time Travelling Blues | 120909 | [120909-time-travelling-blues.json](./120909-time-travelling-blues.json) |
 | Time Travelling Space Pirates | 176296 | [176296-time-travelling-space-pirates.json](./176296-time-travelling-space-pirates.json) |
@@ -14438,6 +14441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tri-Strip | 85456 | [85456-tri-strip.json](./85456-tri-strip.json) |
 | Tri: Of Friendship and Madness | 2998 | [2998-tri-of-friendship-and-madness.json](./2998-tri-of-friendship-and-madness.json) |
 | Tri.Defender | 30933 | [30933-tri-defender.json](./30933-tri-defender.json) |
+| Tri6: Infinite 2 | 381199 | [381199-tri6-infinite-2.json](./381199-tri6-infinite-2.json) |
 | Triachnid | 63255 | [63255-triachnid.json](./63255-triachnid.json) |
 | Triad | 304367 | [304367-triad.json](./304367-triad.json) |
 | Triad | 54692 | [54692-triad.json](./54692-triad.json) |
