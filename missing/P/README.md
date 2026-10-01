@@ -1388,6 +1388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Passed Out | 213912 | [213912-passed-out.json](./213912-passed-out.json) |
 | Passenger Camel Taxi Driving | 227217 | [227217-passenger-camel-taxi-driving.json](./227217-passenger-camel-taxi-driving.json) |
 | Passenger Rush | 227956 | [227956-passenger-rush.json](./227956-passenger-rush.json) |
+| Passenger: Gone | 348398 | [348398-passenger-gone.json](./348398-passenger-gone.json) |
 | Passengers of Execution | 143743 | [143743-passengers-of-execution.json](./143743-passengers-of-execution.json) |
 | Passengers on the Wind II | 37173 | [37173-passengers-on-the-wind-ii.json](./37173-passengers-on-the-wind-ii.json) |
 | Passeport du CE2 au CM1 | 376072 | [376072-passeport-du-ce2-au-cm1.json](./376072-passeport-du-ce2-au-cm1.json) |
@@ -4374,6 +4375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet in the Shadows | 33362 | [33362-planet-in-the-shadows.json](./33362-planet-in-the-shadows.json) |
 | Planet Invasion | 70954 | [70954-planet-invasion.json](./70954-planet-invasion.json) |
 | Planet Iridium | 260172 | [260172-planet-iridium.json](./260172-planet-iridium.json) |
+| Planet IX | 348417 | [348417-planet-ix.json](./348417-planet-ix.json) |
 | Planet Joker | 91954 | [91954-planet-joker.json](./91954-planet-joker.json) |
 | Planet Jump 2 | 118441 | [118441-planet-jump-2.json](./118441-planet-jump-2.json) |
 | Planet Lander | 41577 | [41577-planet-lander.json](./41577-planet-lander.json) |
@@ -5726,6 +5728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polyfuru feat. Marinasu β | 127179 | [127179-polyfuru-feat-marinasu.json](./127179-polyfuru-feat-marinasu.json) |
 | Polyfuru feat. Miya Kamino | 118290 | [118290-polyfuru-feat-miya-kamino.json](./118290-polyfuru-feat-miya-kamino.json) |
 | Polygeddon: Survive | 248035 | [248035-polygeddon-survive.json](./248035-polygeddon-survive.json) |
+| Polyglock | 348400 | [348400-polyglock.json](./348400-polyglock.json) |
 | Polyglot Language Learning Quiz | 370760 | [370760-polyglot-language-learning-quiz.json](./370760-polyglot-language-learning-quiz.json) |
 | Polygon | 130203 | [130203-polygon.json](./130203-polygon.json) |
 | Polygon Arena | 268976 | [268976-polygon-arena.json](./268976-polygon-arena.json) |
@@ -7047,6 +7050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Private Detective Punch Drunk: PDPD | 77365 | [77365-private-detective-punch-drunk-pdpd.json](./77365-private-detective-punch-drunk-pdpd.json) |
 | Private Eye | 10999 | [10999-private-eye.json](./10999-private-eye.json) |
 | Private Eye | 25833 | [25833-private-eye.json](./25833-private-eye.json) |
+| Private Eye: The Young Heir | 348374 | [348374-private-eye-the-young-heir.json](./348374-private-eye-the-young-heir.json) |
 | Private Garden | 331099 | [331099-private-garden.json](./331099-private-garden.json) |
 | Private Infiltrator | 62676 | [62676-private-infiltrator.json](./62676-private-infiltrator.json) |
 | Private Lesson with My Lover Teacher | 255111 | [255111-private-lesson-with-my-lover-teacher.json](./255111-private-lesson-with-my-lover-teacher.json) |
