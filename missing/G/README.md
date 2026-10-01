@@ -2034,6 +2034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GigaSlave | 348455 | [348455-gigaslave.json](./348455-gigaslave.json) |
 | GigaSword | 177317 | [177317-gigasword.json](./177317-gigasword.json) |
 | Gigawing Generations | 43477 | [43477-gigawing-generations.json](./43477-gigawing-generations.json) |
+| Giggleland | 340535 | [340535-giggleland.json](./340535-giggleland.json) |
 | Giggleport | 412346 | [412346-giggleport.json](./412346-giggleport.json) |
 | Gigolo | 40777 | [40777-gigolo.json](./40777-gigolo.json) |
 | Gilbert and the chemystical island | 319364 | [319364-gilbert-and-the-chemystical-island.json](./319364-gilbert-and-the-chemystical-island.json) |
@@ -5354,6 +5355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyaruzuma Sex: Hoka no Otoko ni Inwai Houshi Suru Ai Suru Tsuma | 159165 | [159165-gyaruzuma-sex-hoka-no-otoko-ni-inwai-houshi-suru-ai-suru-tsuma.json](./159165-gyaruzuma-sex-hoka-no-otoko-ni-inwai-houshi-suru-ai-suru-tsuma.json) |
 | Gym Bullies | 302935 | [302935-gym-bullies.json](./302935-gym-bullies.json) |
 | Gym Class: Basketball VR | 223143 | [223143-gym-class-basketball-vr.json](./223143-gym-class-basketball-vr.json) |
+| Gym Lifting Hero: Tile Master | 340527 | [340527-gym-lifting-hero-tile-master.json](./340527-gym-lifting-hero-tile-master.json) |
 | Gym Nights | 274487 | [274487-gym-nights.json](./274487-gym-nights.json) |
 | Gym Orgasm | 340407 | [340407-gym-orgasm.json](./340407-gym-orgasm.json) |
 | Gym Rat Simulator | 410888 | [410888-gym-rat-simulator.json](./410888-gym-rat-simulator.json) |
