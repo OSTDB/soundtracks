@@ -142,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Father's Tale | 357791 | [357791-a-fathers-tale.json](./357791-a-fathers-tale.json) |
 | A Favor | 161748 | [161748-a-favor.json](./161748-a-favor.json) |
 | A Favor For The Alchemist | 385343 | [385343-a-favor-for-the-alchemist.json](./385343-a-favor-for-the-alchemist.json) |
+| A Femboy Polished My Knob | 385245 | [385245-a-femboy-polished-my-knob.json](./385245-a-femboy-polished-my-knob.json) |
 | A Few Billion Square Tiles | 104687 | [104687-a-few-billion-square-tiles.json](./104687-a-few-billion-square-tiles.json) |
 | A Few Days With: Olivia | 392955 | [392955-a-few-days-with-olivia.json](./392955-a-few-days-with-olivia.json) |
 | A Few Days With: The Fairies | 392953 | [392953-a-few-days-with-the-fairies.json](./392953-a-few-days-with-the-fairies.json) |
@@ -288,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Love Story: My Best Friend | 334090 | [334090-a-love-story-my-best-friend.json](./334090-a-love-story-my-best-friend.json) |
 | A Loving Family | 297061 | [297061-a-loving-family.json](./297061-a-loving-family.json) |
 | A Lucky First Turnabout: A Klavier Gavin Story | 308550 | [308550-a-lucky-first-turnabout-a-klavier-gavin-story.json](./308550-a-lucky-first-turnabout-a-klavier-gavin-story.json) |
+| A Lucky Hunt With Calista | 385277 | [385277-a-lucky-hunt-with-calista.json](./385277-a-lucky-hunt-with-calista.json) |
 | A Lucky Hunt With: Ione | 392956 | [392956-a-lucky-hunt-with-ione.json](./392956-a-lucky-hunt-with-ione.json) |
 | A Mage Reborn | 207342 | [207342-a-mage-reborn.json](./207342-a-mage-reborn.json) |
 | A Magical Girl's Duty | 181692 | [181692-a-magical-girls-duty.json](./181692-a-magical-girls-duty.json) |
@@ -456,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Space for the Unbound | 110039 | [110039-a-space-for-the-unbound.json](./110039-a-space-for-the-unbound.json) |
 | A Spider to A Fly | 280336 | [280336-a-spider-to-a-fly.json](./280336-a-spider-to-a-fly.json) |
 | A Spiritual Adventure | 386911 | [386911-a-spiritual-adventure.json](./386911-a-spiritual-adventure.json) |
+| A Spooky Hunt With: Malvina | 385274 | [385274-a-spooky-hunt-with-malvina.json](./385274-a-spooky-hunt-with-malvina.json) |
 | A Spooky Item Game | 363043 | [363043-a-spooky-item-game.json](./363043-a-spooky-item-game.json) |
 | A Star of Chrome | 217332 | [217332-a-star-of-chrome.json](./217332-a-star-of-chrome.json) |
 | A Steak Temple Panic | 202652 | [202652-a-steak-temple-panic.json](./202652-a-steak-temple-panic.json) |
@@ -1564,6 +1567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Affinity | 144199 | [144199-affinity.json](./144199-affinity.json) |
 | Affinity: Fallen from Paradise | 211262 | [211262-affinity-fallen-from-paradise.json](./211262-affinity-fallen-from-paradise.json) |
 | Affogato | 210654 | [210654-affogato.json](./210654-affogato.json) |
+| Affraid | 385267 | [385267-affraid.json](./385267-affraid.json) |
 | AFK Champions | 193866 | [193866-afk-champions.json](./193866-afk-champions.json) |
 | AFK Dungeon | 266256 | [266256-afk-dungeon.json](./266256-afk-dungeon.json) |
 | AFL 99 | 60580 | [60580-afl-99.json](./60580-afl-99.json) |
@@ -4857,6 +4861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anxiety: Lost Night | 179490 | [179490-anxiety-lost-night.json](./179490-anxiety-lost-night.json) |
 | Any Castle | 337298 | [337298-any-castle.json](./337298-any-castle.json) |
 | Any Other Color | 408133 | [408133-any-other-color.json](./408133-any-other-color.json) |
+| AnyCircuit | 385289 | [385289-anycircuit.json](./385289-anycircuit.json) |
 | Anykey | 89671 | [89671-anykey.json](./89671-anykey.json) |
 | Anykey Simulator | 31787 | [31787-anykey-simulator.json](./31787-anykey-simulator.json) |
 | Anyone's Diary | 118160 | [118160-anyones-diary.json](./118160-anyones-diary.json) |
