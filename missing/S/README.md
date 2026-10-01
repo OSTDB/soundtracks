@@ -164,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred Fire | 26559 | [26559-sacred-fire.json](./26559-sacred-fire.json) |
 | Sacred Gear | 70441 | [70441-sacred-gear.json](./70441-sacred-gear.json) |
 | Sacred Gems | 236298 | [236298-sacred-gems.json](./236298-sacred-gems.json) |
+| Sacred Light: Pyre of Hubris | 382986 | [382986-sacred-light-pyre-of-hubris.json](./382986-sacred-light-pyre-of-hubris.json) |
 | Sacred Line | 60524 | [60524-sacred-line.json](./60524-sacred-line.json) |
 | Sacred Line Genesis | 60523 | [60523-sacred-line-genesis.json](./60523-sacred-line-genesis.json) |
 | Sacred Plus | 53570 | [53570-sacred-plus.json](./53570-sacred-plus.json) |
@@ -7719,6 +7720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soletrando: Nova Ortografia | 181940 | [181940-soletrando-nova-ortografia.json](./181940-soletrando-nova-ortografia.json) |
 | SolForge | 16487 | [16487-solforge.json](./16487-solforge.json) |
 | Solheim | 397830 | [397830-solheim.json](./397830-solheim.json) |
+| Soli-tair-ror | 382969 | [382969-soli-tair-ror.json](./382969-soli-tair-ror.json) |
 | Solid Body Picross | 124053 | [124053-solid-body-picross.json](./124053-solid-body-picross.json) |
 | Solid Ice | 208882 | [208882-solid-ice.json](./208882-solid-ice.json) |
 | Solid Lancer | 248584 | [248584-solid-lancer.json](./248584-solid-lancer.json) |
@@ -15597,6 +15599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Stacker | 52894 | [52894-super-stacker.json](./52894-super-stacker.json) |
 | Super Star | 32027 | [32027-super-star.json](./32027-super-star.json) |
 | Super Star Adventure | 385286 | [385286-super-star-adventure.json](./385286-super-star-adventure.json) |
+| Super Star Battle Royale | 382973 | [382973-super-star-battle-royale.json](./382973-super-star-battle-royale.json) |
 | Super Star Car | 146714 | [146714-super-star-car.json](./146714-super-star-car.json) |
 | Super Star Panda | 80950 | [80950-super-star-panda.json](./80950-super-star-panda.json) |
 | Super Star Path | 19981 | [19981-super-star-path.json](./19981-super-star-path.json) |
@@ -15802,6 +15805,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperLandlady | 237657 | [237657-superlandlady.json](./237657-superlandlady.json) |
 | Superleague Soccer | 13084 | [13084-superleague-soccer.json](./13084-superleague-soccer.json) |
 | SuperLite 1500 series: Bomb Boat | 54742 | [54742-superlite-1500-series-bomb-boat.json](./54742-superlite-1500-series-bomb-boat.json) |
+| SuperLite 1500 Series: Fishing Club - Boat no Tsuri-hen | 382977 | [382977-superlite-1500-series-fishing-club-boat-no-tsuri-hen.json](./382977-superlite-1500-series-fishing-club-boat-no-tsuri-hen.json) |
+| SuperLite 1500 Series: Fishing Club - Bouhatei no Tsuri-hen | 382971 | [382971-superlite-1500-series-fishing-club-bouhatei-no-tsuri-hen.json](./382971-superlite-1500-series-fishing-club-bouhatei-no-tsuri-hen.json) |
+| SuperLite 1500 Series: Fishing Club - Hama no Tsuri-hen | 382974 | [382974-superlite-1500-series-fishing-club-hama-no-tsuri-hen.json](./382974-superlite-1500-series-fishing-club-hama-no-tsuri-hen.json) |
 | SuperLite 1500 Series: Lode Runner 2 | 382928 | [382928-superlite-1500-series-lode-runner-2.json](./382928-superlite-1500-series-lode-runner-2.json) |
 | SuperLite 1500 Series: Qix 2000 | 97320 | [97320-superlite-1500-series-qix-2000.json](./97320-superlite-1500-series-qix-2000.json) |
 | SuperLite 1500 Series: Shinsei Toire no Kakosan | 382913 | [382913-superlite-1500-series-shinsei-toire-no-kakosan.json](./382913-superlite-1500-series-shinsei-toire-no-kakosan.json) |
