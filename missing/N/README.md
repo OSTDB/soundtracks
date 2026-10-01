@@ -1940,6 +1940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nice de Shot: World Course Selections | 37907 | [37907-nice-de-shot-world-course-selections.json](./37907-nice-de-shot-world-course-selections.json) |
 | Nice Dice - 3D dice roller | 102724 | [102724-nice-dice-3d-dice-roller.json](./102724-nice-dice-3d-dice-roller.json) |
 | Nice Mario 75 | 294791 | [294791-nice-mario-75.json](./294791-nice-mario-75.json) |
+| Nice Pro? | 336749 | [336749-nice-pro.json](./336749-nice-pro.json) |
 | Nice Shot Golf | 123629 | [123629-nice-shot-golf.json](./123629-nice-shot-golf.json) |
 | Nice Shot! The Gun Golfing Game | 110942 | [110942-nice-shot-the-gun-golfing-game.json](./110942-nice-shot-the-gun-golfing-game.json) |
 | Nice to NO you | 139240 | [139240-nice-to-no-you.json](./139240-nice-to-no-you.json) |
@@ -2043,6 +2044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Bars | 233204 | [233204-night-bars.json](./233204-night-bars.json) |
 | Night Blade | 146122 | [146122-night-blade.json](./146122-night-blade.json) |
 | Night Blights | 33457 | [33457-night-blights.json](./33457-night-blights.json) |
+| Night Blood W: Cutthroat Wolf | 336646 | [336646-night-blood-w-cutthroat-wolf.json](./336646-night-blood-w-cutthroat-wolf.json) |
 | Night Bound | 313828 | [313828-night-bound.json](./313828-night-bound.json) |
 | Night Bus | 294257 | [294257-night-bus.json](./294257-night-bus.json) |
 | Night Cafe | 281422 | [281422-night-cafe.json](./281422-night-cafe.json) |
@@ -2698,6 +2700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nion Forge | 378922 | [378922-nion-forge.json](./378922-nion-forge.json) |
 | Nios | 189161 | [189161-nios.json](./189161-nios.json) |
 | Nip for Speed 2: Searching for Pussy | 342067 | [342067-nip-for-speed-2-searching-for-pussy.json](./342067-nip-for-speed-2-searching-for-pussy.json) |
+| NIPA | 336643 | [336643-nipa.json](./336643-nipa.json) |
 | Niplheim's Hunter - Branded Azel | 112834 | [112834-niplheims-hunter-branded-azel.json](./112834-niplheims-hunter-branded-azel.json) |
 | Niplob Adventure | 225726 | [225726-niplob-adventure.json](./225726-niplob-adventure.json) |
 | Nippets | 326613 | [326613-nippets.json](./326613-nippets.json) |
@@ -3634,6 +3637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nui | 138693 | [138693-nui.json](./138693-nui.json) |
 | Nui Goes to Town! | 354410 | [354410-nui-goes-to-town.json](./354410-nui-goes-to-town.json) |
 | Nuign Specter | 251242 | [251242-nuign-specter.json](./251242-nuign-specter.json) |
+| Nuke Bomberman | 336681 | [336681-nuke-bomberman.json](./336681-nuke-bomberman.json) |
 | Nuke Destroyer | 97158 | [97158-nuke-destroyer.json](./97158-nuke-destroyer.json) |
 | Nuke Mine | 311467 | [311467-nuke-mine.json](./311467-nuke-mine.json) |
 | Nuketris | 145666 | [145666-nuketris.json](./145666-nuketris.json) |
