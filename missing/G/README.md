@@ -2450,6 +2450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glyphwing: World Geography | 417444 | [417444-glyphwing-world-geography.json](./417444-glyphwing-world-geography.json) |
 | Gnarbike Trials 2 | 284489 | [284489-gnarbike-trials-2.json](./284489-gnarbike-trials-2.json) |
 | Gnaughty Gnomes | 346030 | [346030-gnaughty-gnomes.json](./346030-gnaughty-gnomes.json) |
+| Gnaw | 372037 | [372037-gnaw.json](./372037-gnaw.json) |
 | Gnilley | 261307 | [261307-gnilley.json](./261307-gnilley.json) |
 | Gnog | 26102 | [26102-gnog.json](./26102-gnog.json) |
 | GnollHack | 199058 | [199058-gnollhack.json](./199058-gnollhack.json) |
