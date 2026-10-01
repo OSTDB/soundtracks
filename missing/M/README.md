@@ -853,6 +853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magna Regna | 211926 | [211926-magna-regna.json](./211926-magna-regna.json) |
 | Magnat | 365757 | [365757-magnat.json](./365757-magnat.json) |
 | Magnate: Robot Idle Tycoon | 268449 | [268449-magnate-robot-idle-tycoon.json](./268449-magnate-robot-idle-tycoon.json) |
+| Magnavale: Eternal Soul | 385270 | [385270-magnavale-eternal-soul.json](./385270-magnavale-eternal-soul.json) |
 | Magnavody | 277610 | [277610-magnavody.json](./277610-magnavody.json) |
 | Magneboy | 299834 | [299834-magneboy.json](./299834-magneboy.json) |
 | Magnery Reign | 156580 | [156580-magnery-reign.json](./156580-magnery-reign.json) |
@@ -2440,6 +2441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of 4 Swords | 360666 | [360666-master-of-4-swords.json](./360666-master-of-4-swords.json) |
 | Master of Bow | 328449 | [328449-master-of-bow.json](./328449-master-of-bow.json) |
 | Master of Chaos | 398362 | [398362-master-of-chaos.json](./398362-master-of-chaos.json) |
+| Master of Cladia | 385282 | [385282-master-of-cladia.json](./385282-master-of-cladia.json) |
 | Master of Command | 298178 | [298178-master-of-command.json](./298178-master-of-command.json) |
 | Master of Dimensions | 7695 | [7695-master-of-dimensions.json](./7695-master-of-dimensions.json) |
 | Master of Dodging | 367631 | [367631-master-of-dodging.json](./367631-master-of-dodging.json) |
@@ -5453,6 +5455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimi | 202315 | [202315-mimi.json](./202315-mimi.json) |
 | Mimi & The Mites | 73870 | [73870-mimi-and-the-mites.json](./73870-mimi-and-the-mites.json) |
 | Mimi and animals | 229008 | [229008-mimi-and-animals.json](./229008-mimi-and-animals.json) |
+| Mimi in Meowndering House | 385290 | [385290-mimi-in-meowndering-house.json](./385290-mimi-in-meowndering-house.json) |
 | Mimi in The Sky | 267374 | [267374-mimi-in-the-sky.json](./267374-mimi-in-the-sky.json) |
 | Mimi the Cat: Mimi's Scratcher | 269052 | [269052-mimi-the-cat-mimis-scratcher.json](./269052-mimi-the-cat-mimis-scratcher.json) |
 | Mimi the Cat: New Friends | 253911 | [253911-mimi-the-cat-new-friends.json](./253911-mimi-the-cat-new-friends.json) |
@@ -5576,6 +5579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindustry Classic | 178425 | [178425-mindustry-classic.json](./178425-mindustry-classic.json) |
 | Mindwheel | 25778 | [25778-mindwheel.json](./25778-mindwheel.json) |
 | Mine | 311988 | [311988-mine.json](./311988-mine.json) |
+| Mine | 385265 | [385265-mine.json](./385265-mine.json) |
 | Mine & Ship Bundle: Gold Mining & Ship Graveyard Simulator 2 | 340950 | [340950-mine-and-ship-bundle-gold-mining-and-ship-graveyard-simulator-2.json](./340950-mine-and-ship-bundle-gold-mining-and-ship-graveyard-simulator-2.json) |
 | Mine Blast | 96758 | [96758-mine-blast.json](./96758-mine-blast.json) |
 | Mine Bombers | 14449 | [14449-mine-bombers.json](./14449-mine-bombers.json) |
@@ -9787,8 +9791,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Wedding and 7 Rings | 238423 | [238423-my-wedding-and-7-rings.json](./238423-my-wedding-and-7-rings.json) |
 | My Wet Leto Comic | 129118 | [129118-my-wet-leto-comic.json](./129118-my-wet-leto-comic.json) |
 | My Wife | 339913 | [339913-my-wife.json](./339913-my-wife.json) |
+| My Wife Is a Maid | 385242 | [385242-my-wife-is-a-maid.json](./385242-my-wife-is-a-maid.json) |
 | My Wife is a Princess | 216992 | [216992-my-wife-is-a-princess.json](./216992-my-wife-is-a-princess.json) |
 | My Wife is a Spy?! | 347865 | [347865-my-wife-is-a-spy.json](./347865-my-wife-is-a-spy.json) |
+| My Wife Serves the King | 385243 | [385243-my-wife-serves-the-king.json](./385243-my-wife-serves-the-king.json) |
 | My Wife Sucked a Futanari's Toes | 341356 | [341356-my-wife-sucked-a-futanaris-toes.json](./341356-my-wife-sucked-a-futanaris-toes.json) |
 | My Witch Wants Elixirs! | 385715 | [385715-my-witch-wants-elixirs.json](./385715-my-witch-wants-elixirs.json) |
 | My Wolf Girlfriend | 206199 | [206199-my-wolf-girlfriend.json](./206199-my-wolf-girlfriend.json) |
