@@ -937,6 +937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santas Little Helper | 363372 | [363372-santas-little-helper.json](./363372-santas-little-helper.json) |
 | Santatlantean | 42047 | [42047-santatlantean.json](./42047-santatlantean.json) |
 | Santego Special Unit | 216343 | [216343-santego-special-unit.json](./216343-santego-special-unit.json) |
+| Santherya Uprising | 376005 | [376005-santherya-uprising.json](./376005-santherya-uprising.json) |
 | Santo Island Incident | 199661 | [199661-santo-island-incident.json](./199661-santo-island-incident.json) |
 | Santy is Home | 326778 | [326778-santy-is-home.json](./326778-santy-is-home.json) |
 | Sanxion | 23045 | [23045-sanxion.json](./23045-sanxion.json) |
@@ -1265,6 +1266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scallion RPG | 315710 | [315710-scallion-rpg.json](./315710-scallion-rpg.json) |
 | Scam Artist | 413774 | [413774-scam-artist.json](./413774-scam-artist.json) |
 | Scam Line | 379595 | [379595-scam-line.json](./379595-scam-line.json) |
+| SCAMP 2025 | 376048 | [376048-scamp-2025.json](./376048-scamp-2025.json) |
 | Scamperghost | 62241 | [62241-scamperghost.json](./62241-scamperghost.json) |
 | Scampr | 152788 | [152788-scampr.json](./152788-scampr.json) |
 | Scamster Kombat | 366931 | [366931-scamster-kombat.json](./366931-scamster-kombat.json) |
@@ -2927,6 +2929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sewer Call | 407454 | [407454-sewer-call.json](./407454-sewer-call.json) |
 | Sewer Flood | 181322 | [181322-sewer-flood.json](./181322-sewer-flood.json) |
 | Sewer Jam 2 | 271196 | [271196-sewer-jam-2.json](./271196-sewer-jam-2.json) |
+| Sewer Quest | 376007 | [376007-sewer-quest.json](./376007-sewer-quest.json) |
 | Sewer Rave | 125326 | [125326-sewer-rave.json](./125326-sewer-rave.json) |
 | Sewermania | 42179 | [42179-sewermania.json](./42179-sewermania.json) |
 | Sex Adventures: BDSM Dungeon | 219597 | [219597-sex-adventures-bdsm-dungeon.json](./219597-sex-adventures-bdsm-dungeon.json) |
@@ -3486,6 +3489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanghai: Dynasty | 71448 | [71448-shanghai-dynasty.json](./71448-shanghai-dynasty.json) |
 | Shanghai: Great Moments | 73316 | [73316-shanghai-great-moments.json](./73316-shanghai-great-moments.json) |
 | Shanghai: Mah-Jongg Essentials | 70483 | [70483-shanghai-mah-jongg-essentials.json](./70483-shanghai-mah-jongg-essentials.json) |
+| Shanghai: Shoryuu Sairin | 376060 | [376060-shanghai-shoryuu-sairin.json](./376060-shanghai-shoryuu-sairin.json) |
 | Shanghai: True Valor | 45304 | [45304-shanghai-true-valor.json](./45304-shanghai-true-valor.json) |
 | Shanghai1920 | 169452 | [169452-shanghai1920.json](./169452-shanghai1920.json) |
 | Shanhe Remain | 375988 | [375988-shanhe-remain.json](./375988-shanhe-remain.json) |
@@ -12174,6 +12178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StattoPong | 92969 | [92969-stattopong.json](./92969-stattopong.json) |
 | Statues | 26519 | [26519-statues.json](./26519-statues.json) |
 | Status | 327418 | [327418-status.json](./327418-status.json) |
+| Status Kakunin Tantei | 376002 | [376002-status-kakunin-tantei.json](./376002-status-kakunin-tantei.json) |
 | StaudSoft's Synthetic World | 35899 | [35899-staudsofts-synthetic-world.json](./35899-staudsofts-synthetic-world.json) |
 | Staunch Defense | 175186 | [175186-staunch-defense.json](./175186-staunch-defense.json) |
 | Staxel | 37294 | [37294-staxel.json](./37294-staxel.json) |
@@ -14209,6 +14214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunday Golf | 54691 | [54691-sunday-golf.json](./54691-sunday-golf.json) |
 | Sunday League Manager: Horse & Spoon | 361731 | [361731-sunday-league-manager-horse-and-spoon.json](./361731-sunday-league-manager-horse-and-spoon.json) |
 | Sunday Morning | 312146 | [312146-sunday-morning.json](./312146-sunday-morning.json) |
+| Sunday School | 376052 | [376052-sunday-school.json](./376052-sunday-school.json) |
 | Sunday Sundae | 186642 | [186642-sunday-sundae.json](./186642-sunday-sundae.json) |
 | Sunday vs. Magazine: Shuuketsu! Choujou Daikessen | 42841 | [42841-sunday-vs-magazine-shuuketsu-choujou-daikessen.json](./42841-sunday-vs-magazine-shuuketsu-choujou-daikessen.json) |
 | Sunder | 135865 | [135865-sunder.json](./135865-sunder.json) |
@@ -15569,17 +15575,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Fall Guy Moveset | 395031 | [395031-super-smash-bros-ultimate-fall-guy-moveset.json](./395031-super-smash-bros-ultimate-fall-guy-moveset.json) |
 | Super Smash Bros. Ultimate: Geno Hat + Outfit | 325078 | [325078-super-smash-bros-ultimate-geno-hat-outfit.json](./325078-super-smash-bros-ultimate-geno-hat-outfit.json) |
 | Super Smash Bros. Ultimate: Gil's Armor and Helmet | 306452 | [306452-super-smash-bros-ultimate-gils-armor-and-helmet.json](./306452-super-smash-bros-ultimate-gils-armor-and-helmet.json) |
+| Super Smash Bros. Ultimate: Gogeta Moveset | 376026 | [376026-super-smash-bros-ultimate-gogeta-moveset.json](./376026-super-smash-bros-ultimate-gogeta-moveset.json) |
 | Super Smash Bros. Ultimate: Goku Mod | 242815 | [242815-super-smash-bros-ultimate-goku-mod.json](./242815-super-smash-bros-ultimate-goku-mod.json) |
 | Super Smash Bros. Ultimate: Ichiban Kasuga Moveset (Yakuza) | 395018 | [395018-super-smash-bros-ultimate-ichiban-kasuga-moveset-yakuza.json](./395018-super-smash-bros-ultimate-ichiban-kasuga-moveset-yakuza.json) |
 | Super Smash Bros. Ultimate: Impostor Moveset | 395030 | [395030-super-smash-bros-ultimate-impostor-moveset.json](./395030-super-smash-bros-ultimate-impostor-moveset.json) |
 | Super Smash Bros. Ultimate: Iron Man Moveset | 395016 | [395016-super-smash-bros-ultimate-iron-man-moveset.json](./395016-super-smash-bros-ultimate-iron-man-moveset.json) |
 | Super Smash Bros. Ultimate: Jin - Xenoblade 2 Moveset | 395027 | [395027-super-smash-bros-ultimate-jin-xenoblade-2-moveset.json](./395027-super-smash-bros-ultimate-jin-xenoblade-2-moveset.json) |
+| Super Smash Bros. Ultimate: Kamek Moveset | 376025 | [376025-super-smash-bros-ultimate-kamek-moveset.json](./376025-super-smash-bros-ultimate-kamek-moveset.json) |
 | Super Smash Bros. Ultimate: Latios/Latias Moveset | 395019 | [395019-super-smash-bros-ultimate-latios-latias-moveset.json](./395019-super-smash-bros-ultimate-latios-latias-moveset.json) |
 | Super Smash Bros. Ultimate: Lloyd Outfit and Wig | 306450 | [306450-super-smash-bros-ultimate-lloyd-outfit-and-wig.json](./306450-super-smash-bros-ultimate-lloyd-outfit-and-wig.json) |
 | Super Smash Bros. Ultimate: Megumin Moveset | 395028 | [395028-super-smash-bros-ultimate-megumin-moveset.json](./395028-super-smash-bros-ultimate-megumin-moveset.json) |
 | Super Smash Bros. Ultimate: Monster Hunter Moveset | 395029 | [395029-super-smash-bros-ultimate-monster-hunter-moveset.json](./395029-super-smash-bros-ultimate-monster-hunter-moveset.json) |
 | Super Smash Bros. Ultimate: Ninten Moveset | 281460 | [281460-super-smash-bros-ultimate-ninten-moveset.json](./281460-super-smash-bros-ultimate-ninten-moveset.json) |
 | Super Smash Bros. Ultimate: Sackboy Moveset | 395026 | [395026-super-smash-bros-ultimate-sackboy-moveset.json](./395026-super-smash-bros-ultimate-sackboy-moveset.json) |
+| Super Smash Bros. Ultimate: Sandbag Moveset | 376033 | [376033-super-smash-bros-ultimate-sandbag-moveset.json](./376033-super-smash-bros-ultimate-sandbag-moveset.json) |
 | Super Smash Bros. Ultimate: Shy Guy Moveset | 395032 | [395032-super-smash-bros-ultimate-shy-guy-moveset.json](./395032-super-smash-bros-ultimate-shy-guy-moveset.json) |
 | Super Smash Bros. Ultimate: Silver Moveset | 268014 | [268014-super-smash-bros-ultimate-silver-moveset.json](./268014-super-smash-bros-ultimate-silver-moveset.json) |
 | Super Smash Bros. Ultimate: Special Edition | 136326 | [136326-super-smash-bros-ultimate-special-edition.json](./136326-super-smash-bros-ultimate-special-edition.json) |
