@@ -509,6 +509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Surgeon: The Microscopic Mission | 69552 | [69552-laser-surgeon-the-microscopic-mission.json](./69552-laser-surgeon-the-microscopic-mission.json) |
 | Laser Survivor | 258499 | [258499-laser-survivor.json](./258499-laser-survivor.json) |
 | Laser Tag Massacre | 329376 | [329376-laser-tag-massacre.json](./329376-laser-tag-massacre.json) |
+| Laser Thief | 367001 | [367001-laser-thief.json](./367001-laser-thief.json) |
 | Laser War | 41567 | [41567-laser-war.json](./41567-laser-war.json) |
 | Laser Z | 127081 | [127081-laser-z.json](./127081-laser-z.json) |
 | Laser! | 253011 | [253011-laser.json](./253011-laser.json) |
@@ -1196,6 +1197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Chilli Tree | 161160 | [161160-legend-of-chilli-tree.json](./161160-legend-of-chilli-tree.json) |
 | Legend of Coin | 80874 | [80874-legend-of-coin.json](./80874-legend-of-coin.json) |
 | Legend of Cozar | 334475 | [334475-legend-of-cozar.json](./334475-legend-of-cozar.json) |
+| Legend of Deck | 366971 | [366971-legend-of-deck.json](./366971-legend-of-deck.json) |
 | Legend of Djel | 12176 | [12176-legend-of-djel.json](./12176-legend-of-djel.json) |
 | Legend of Dungeon | 7885 | [7885-legend-of-dungeon.json](./7885-legend-of-dungeon.json) |
 | Legend of Dungeon: Masters | 34394 | [34394-legend-of-dungeon-masters.json](./34394-legend-of-dungeon-masters.json) |
@@ -3560,6 +3562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LoopiaLike | 394203 | [394203-loopialike.json](./394203-loopialike.json) |
 | Looplash | 400209 | [400209-looplash.json](./400209-looplash.json) |
 | Loopmayor | 334295 | [334295-loopmayor.json](./334295-loopmayor.json) |
+| LooPool | 367003 | [367003-loopool.json](./367003-loopool.json) |
 | Loopover | 311987 | [311987-loopover.json](./311987-loopover.json) |
 | Loopquarium | 410915 | [410915-loopquarium.json](./410915-loopquarium.json) |
 | Loopr | 391163 | [391163-loopr.json](./391163-loopr.json) |
