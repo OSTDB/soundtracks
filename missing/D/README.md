@@ -568,6 +568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danzai Shitsu II | 358414 | [358414-danzai-shitsu-ii.json](./358414-danzai-shitsu-ii.json) |
 | Dànzhàrén 2222 | 81758 | [81758-danzharen-2222.json](./81758-danzharen-2222.json) |
 | Dāo Qūqū | 374621 | [374621-dao-ququ.json](./374621-dao-ququ.json) |
+| Dào zhī Zhàn | 367570 | [367570-dao-zhi-zhan.json](./367570-dao-zhi-zhan.json) |
 | Darco: Reign of Elements | 90092 | [90092-darco-reign-of-elements.json](./90092-darco-reign-of-elements.json) |
 | Dardeep | 232967 | [232967-dardeep.json](./232967-dardeep.json) |
 | Dare | 130352 | [130352-dare.json](./130352-dare.json) |
@@ -658,6 +659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Days of Horror | 102181 | [102181-dark-days-of-horror.json](./102181-dark-days-of-horror.json) |
 | Dark Days: Zombie Survival | 197372 | [197372-dark-days-zombie-survival.json](./197372-dark-days-zombie-survival.json) |
 | Dark Dealings | 167252 | [167252-dark-dealings.json](./167252-dark-dealings.json) |
+| Dark December | 367568 | [367568-dark-december.json](./367568-dark-december.json) |
 | Dark Deception: Chapter 2 | 168826 | [168826-dark-deception-chapter-2.json](./168826-dark-deception-chapter-2.json) |
 | Dark Deception: Chapter 3 | 168827 | [168827-dark-deception-chapter-3.json](./168827-dark-deception-chapter-3.json) |
 | Dark Deception: Chapter 4 | 168829 | [168829-dark-deception-chapter-4.json](./168829-dark-deception-chapter-4.json) |
@@ -1832,6 +1834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadliest Catch: Sea of Chaos | 20448 | [20448-deadliest-catch-sea-of-chaos.json](./20448-deadliest-catch-sea-of-chaos.json) |
 | Deadliest Catch: The Game | 111232 | [111232-deadliest-catch-the-game.json](./111232-deadliest-catch-the-game.json) |
 | Deadliest Demolition | 274747 | [274747-deadliest-demolition.json](./274747-deadliest-demolition.json) |
+| Deadliest Pigeon | 367556 | [367556-deadliest-pigeon.json](./367556-deadliest-pigeon.json) |
 | Deadliest Warrior: Ancient Combat | 20823 | [20823-deadliest-warrior-ancient-combat.json](./20823-deadliest-warrior-ancient-combat.json) |
 | Deadlight: Director's Cut | 19454 | [19454-deadlight-directors-cut.json](./19454-deadlight-directors-cut.json) |
 | Deadline | 185412 | [185412-deadline.json](./185412-deadline.json) |
@@ -1886,6 +1889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Quiet | 342268 | [342268-deadly-quiet.json](./342268-deadly-quiet.json) |
 | Deadly Rehearsal | 326599 | [326599-deadly-rehearsal.json](./326599-deadly-rehearsal.json) |
 | Deadly Rooms of Death | 50147 | [50147-deadly-rooms-of-death.json](./50147-deadly-rooms-of-death.json) |
+| Deadly Runner | 367562 | [367562-deadly-runner.json](./367562-deadly-runner.json) |
 | Deadly Secret Beneath the Dark Wood | 269657 | [269657-deadly-secret-beneath-the-dark-wood.json](./269657-deadly-secret-beneath-the-dark-wood.json) |
 | Deadly Skies | 22730 | [22730-deadly-skies.json](./22730-deadly-skies.json) |
 | Deadly Sky | 51981 | [51981-deadly-sky.json](./51981-deadly-sky.json) |
