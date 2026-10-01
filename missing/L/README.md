@@ -1976,6 +1976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lex Mortis | 26510 | [26510-lex-mortis.json](./26510-lex-mortis.json) |
 | Lexagrana | 174196 | [174196-lexagrana.json](./174196-lexagrana.json) |
 | Lexibble | 305344 | [305344-lexibble.json](./305344-lexibble.json) |
+| Lexica | 369673 | [369673-lexica.json](./369673-lexica.json) |
 | Lexica Word Finder for Scrabble | 93715 | [93715-lexica-word-finder-for-scrabble.json](./93715-lexica-word-finder-for-scrabble.json) |
 | Lexicon | 287757 | [287757-lexicon.json](./287757-lexicon.json) |
 | Lexicontainer | 183527 | [183527-lexicontainer.json](./183527-lexicontainer.json) |
@@ -3986,6 +3987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Sunday Comics | 192797 | [192797-lost-sunday-comics.json](./192797-lost-sunday-comics.json) |
 | Lost Surreal Hell | 244751 | [244751-lost-surreal-hell.json](./244751-lost-surreal-hell.json) |
 | Lost Sword | 353867 | [353867-lost-sword.json](./353867-lost-sword.json) |
+| Lost Tales: Forgotten Souls | 369715 | [369715-lost-tales-forgotten-souls.json](./369715-lost-tales-forgotten-souls.json) |
 | Lost Tales: Karai Vosa | 376134 | [376134-lost-tales-karai-vosa.json](./376134-lost-tales-karai-vosa.json) |
 | Lost Tales: The Castle Escape | 104809 | [104809-lost-tales-the-castle-escape.json](./104809-lost-tales-the-castle-escape.json) |
 | Lost Tenet | 260213 | [260213-lost-tenet.json](./260213-lost-tenet.json) |
@@ -4025,6 +4027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LotS: Light on the Sea | 400371 | [400371-lots-light-on-the-sea.json](./400371-lots-light-on-the-sea.json) |
 | Lotsa Blocks | 56580 | [56580-lotsa-blocks.json](./56580-lotsa-blocks.json) |
 | Lotte | 245815 | [245815-lotte.json](./245815-lotte.json) |
+| Lottery Center Simulator | 369723 | [369723-lottery-center-simulator.json](./369723-lottery-center-simulator.json) |
 | Lotto Fun | 312352 | [312352-lotto-fun.json](./312352-lotto-fun.json) |
 | Lotus | 105745 | [105745-lotus.json](./105745-lotus.json) |
 | Lotus Digital | 90973 | [90973-lotus-digital.json](./90973-lotus-digital.json) |
@@ -4252,6 +4255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovelorn Sanatorium Ⅲ | 239654 | [239654-lovelorn-sanatorium-iii.json](./239654-lovelorn-sanatorium-iii.json) |
 | Lovelove Boin: High-handed Girl's Boobs | 97374 | [97374-lovelove-boin-high-handed-girls-boobs.json](./97374-lovelove-boin-high-handed-girls-boobs.json) |
 | Lovely Anemone | 184905 | [184905-lovely-anemone.json](./184905-lovely-anemone.json) |
+| Lovely Anime Puzzle: Christmas | 369696 | [369696-lovely-anime-puzzle-christmas.json](./369696-lovely-anime-puzzle-christmas.json) |
 | Lovely Anime Puzzle: Spring | 398328 | [398328-lovely-anime-puzzle-spring.json](./398328-lovely-anime-puzzle-spring.json) |
 | Lovely Anime Puzzle: Summer | 385868 | [385868-lovely-anime-puzzle-summer.json](./385868-lovely-anime-puzzle-summer.json) |
 | Lovely Anime Puzzle: Valentine | 329163 | [329163-lovely-anime-puzzle-valentine.json](./329163-lovely-anime-puzzle-valentine.json) |
