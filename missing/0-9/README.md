@@ -1391,6 +1391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9 Empires | 27735 | [27735-9-empires.json](./27735-9-empires.json) |
 | 9 Games, 2 Buttons | 337784 | [337784-9-games-2-buttons.json](./337784-9-games-2-buttons.json) |
 | 9 in 1 Puzzles | 212336 | [212336-9-in-1-puzzles.json](./212336-9-in-1-puzzles.json) |
+| 9 in 1 Sports Games Mega Collection | 347307 | [347307-9-in-1-sports-games-mega-collection.json](./347307-9-in-1-sports-games-mega-collection.json) |
 | 9 Lives | 251003 | [251003-9-lives.json](./251003-9-lives.json) |
 | 9 Lives to Defend | 250947 | [250947-9-lives-to-defend.json](./250947-9-lives-to-defend.json) |
 | 9 Maker | 240352 | [240352-9-maker.json](./240352-9-maker.json) |
