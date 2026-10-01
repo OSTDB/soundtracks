@@ -371,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm Not Crazy | 309866 | [309866-im-not-crazy.json](./309866-im-not-crazy.json) |
 | I'm Not Jelly | 186263 | [186263-im-not-jelly.json](./186263-im-not-jelly.json) |
 | I'm Not Sleepy | 295002 | [295002-im-not-sleepy.json](./295002-im-not-sleepy.json) |
+| I'm Not Spider | 347801 | [347801-im-not-spider.json](./347801-im-not-spider.json) |
 | I'm Oh, So Busy...:A Week with Yoshimi | 143527 | [143527-im-oh-so-busy-a-week-with-yoshimi.json](./143527-im-oh-so-busy-a-week-with-yoshimi.json) |
 | I'm on Cirno Duty | 206931 | [206931-im-on-cirno-duty.json](./206931-im-on-cirno-duty.json) |
 | I'm on Merrymaking Watch | 237948 | [237948-im-on-merrymaking-watch.json](./237948-im-on-merrymaking-watch.json) |
@@ -3052,6 +3053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Islands of the Caliph | 197146 | [197146-islands-of-the-caliph.json](./197146-islands-of-the-caliph.json) |
 | Islands of Wakfu | 22947 | [22947-islands-of-wakfu.json](./22947-islands-of-wakfu.json) |
 | Islandville: A New Home | 192833 | [192833-islandville-a-new-home.json](./192833-islandville-a-new-home.json) |
+| Islantiles | 347807 | [347807-islantiles.json](./347807-islantiles.json) |
 | ISlash Dojo | 108448 | [108448-islash-dojo.json](./108448-islash-dojo.json) |
 | Islay Quest | 386874 | [386874-islay-quest.json](./386874-islay-quest.json) |
 | Isle Clash | 132265 | [132265-isle-clash.json](./132265-isle-clash.json) |
