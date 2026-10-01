@@ -14329,6 +14329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Daze: Tilly's Tale | 250360 | [250360-summer-daze-tillys-tale.json](./250360-summer-daze-tillys-tale.json) |
 | Summer Events | 41013 | [41013-summer-events.json](./41013-summer-events.json) |
 | Summer Fantasy | 275120 | [275120-summer-fantasy.json](./275120-summer-fantasy.json) |
+| Summer Flower of Summer Snow | 339482 | [339482-summer-flower-of-summer-snow.json](./339482-summer-flower-of-summer-snow.json) |
 | Summer for You | 339481 | [339481-summer-for-you.json](./339481-summer-for-you.json) |
 | Summer Funland | 87556 | [87556-summer-funland.json](./87556-summer-funland.json) |
 | Summer Games | 12340 | [12340-summer-games.json](./12340-summer-games.json) |
@@ -16894,6 +16895,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Wave | 97710 | [97710-sweet-wave.json](./97710-sweet-wave.json) |
 | Sweet Wedding | 339432 | [339432-sweet-wedding.json](./339432-sweet-wedding.json) |
 | Sweet Winter | 339431 | [339431-sweet-winter.json](./339431-sweet-winter.json) |
+| Sweet Zodiac 1 | 339429 | [339429-sweet-zodiac-1.json](./339429-sweet-zodiac-1.json) |
+| Sweet Zodiac 2 | 339428 | [339428-sweet-zodiac-2.json](./339428-sweet-zodiac-2.json) |
 | SweeTARTS 3D | 373551 | [373551-sweetarts-3d.json](./373551-sweetarts-3d.json) |
 | Sweetest Monster | 300720 | [300720-sweetest-monster.json](./300720-sweetest-monster.json) |
 | Sweetest Thing | 85412 | [85412-sweetest-thing.json](./85412-sweetest-thing.json) |
@@ -16987,6 +16990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switch Dash Game | 262069 | [262069-switch-dash-game.json](./262069-switch-dash-game.json) |
 | Switch Galaxy Ultra | 35517 | [35517-switch-galaxy-ultra.json](./35517-switch-galaxy-ultra.json) |
 | Switch It | 152896 | [152896-switch-it.json](./152896-switch-it.json) |
+| Switch Poker | 339427 | [339427-switch-poker.json](./339427-switch-poker.json) |
 | Switch Race | 306517 | [306517-switch-race.json](./306517-switch-race.json) |
 | Switch Shapes | 406772 | [406772-switch-shapes.json](./406772-switch-shapes.json) |
 | Switch Sides 2: Sea Sandwich | 255037 | [255037-switch-sides-2-sea-sandwich.json](./255037-switch-sides-2-sea-sandwich.json) |
@@ -17170,6 +17174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syd of Valis | 46191 | [46191-syd-of-valis.json](./46191-syd-of-valis.json) |
 | Syde Rugby League Simulator | 163837 | [163837-syde-rugby-league-simulator.json](./163837-syde-rugby-league-simulator.json) |
 | Sydless | 345576 | [345576-sydless.json](./345576-sydless.json) |
+| Sydney and the Cicadas in: Immanentize | 339426 | [339426-sydney-and-the-cicadas-in-immanentize.json](./339426-sydney-and-the-cicadas-in-immanentize.json) |
 | Syke | 295522 | [295522-syke.json](./295522-syke.json) |
 | SyLestia | 125957 | [125957-sylestia.json](./125957-sylestia.json) |
 | Sylox | 357388 | [357388-sylox.json](./357388-sylox.json) |
@@ -17207,6 +17212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symmodance | 263756 | [263756-symmodance.json](./263756-symmodance.json) |
 | Sympathia | 277608 | [277608-sympathia.json](./277608-sympathia.json) |
 | Sympathy Kiss | 222359 | [222359-sympathy-kiss.json](./222359-sympathy-kiss.json) |
+| Symphone | 339425 | [339425-symphone.json](./339425-symphone.json) |
 | Symphoni | 334890 | [334890-symphoni.json](./334890-symphoni.json) |
 | Symphonica | 63584 | [63584-symphonica.json](./63584-symphonica.json) |
 | Symphonics | 107934 | [107934-symphonics.json](./107934-symphonics.json) |
@@ -17222,6 +17228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symptoms of Deceit | 323729 | [323729-symptoms-of-deceit.json](./323729-symptoms-of-deceit.json) |
 | Symptoms of Infection | 406211 | [406211-symptoms-of-infection.json](./406211-symptoms-of-infection.json) |
 | Symulator Tuska 2014 | 62204 | [62204-symulator-tuska-2014.json](./62204-symulator-tuska-2014.json) |
+| Syn-Chorus 01: The New Life | 339424 | [339424-syn-chorus-01-the-new-life.json](./339424-syn-chorus-01-the-new-life.json) |
 | Synaesthete | 79917 | [79917-synaesthete.json](./79917-synaesthete.json) |
 | Synapse | 239381 | [239381-synapse.json](./239381-synapse.json) |
 | Synapse | 58318 | [58318-synapse.json](./58318-synapse.json) |
@@ -17351,6 +17358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synthetic Soul | 276159 | [276159-synthetic-soul.json](./276159-synthetic-soul.json) |
 | Synthetic Soul 2 | 292676 | [292676-synthetic-soul-2.json](./292676-synthetic-soul-2.json) |
 | Synthetic Soul 3 | 310736 | [310736-synthetic-soul-3.json](./310736-synthetic-soul-3.json) |
+| SynthetiCell BioClicker | 339423 | [339423-syntheticell-bioclicker.json](./339423-syntheticell-bioclicker.json) |
 | Synthetik: Arena | 112983 | [112983-synthetik-arena.json](./112983-synthetik-arena.json) |
 | Synthetik: Legion Rising | 86395 | [86395-synthetik-legion-rising.json](./86395-synthetik-legion-rising.json) |
 | Synthetik: Ultimate | 147972 | [147972-synthetik-ultimate.json](./147972-synthetik-ultimate.json) |
