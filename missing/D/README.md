@@ -260,6 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dakar Moto | 123057 | [123057-dakar-moto.json](./123057-dakar-moto.json) |
 | Dakar Series: Desafío Ruta 40 | 114792 | [114792-dakar-series-desafio-ruta-40.json](./114792-dakar-series-desafio-ruta-40.json) |
 | Dakkan Shirei Majo Dungeon: Nushi to Tamenara Yaraneba Narumai | 222513 | [222513-dakkan-shirei-majo-dungeon-nushi-to-tamenara-yaraneba-narumai.json](./222513-dakkan-shirei-majo-dungeon-nushi-to-tamenara-yaraneba-narumai.json) |
+| Dakkan Stiletto | 376683 | [376683-dakkan-stiletto.json](./376683-dakkan-stiletto.json) |
 | Dakkoshite! Chimpanzee | 67358 | [67358-dakkoshite-chimpanzee.json](./67358-dakkoshite-chimpanzee.json) |
 | Dakota Winchester's Adventures 2 | 310557 | [310557-dakota-winchesters-adventures-2.json](./310557-dakota-winchesters-adventures-2.json) |
 | Dakota Winchester's Adventures 3 | 310558 | [310558-dakota-winchesters-adventures-3.json](./310558-dakota-winchesters-adventures-3.json) |
@@ -1187,6 +1188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date Z: Romance Completionist Pack | 316201 | [316201-date-z-romance-completionist-pack.json](./316201-date-z-romance-completionist-pack.json) |
 | Date Z: Special Report Pack | 316202 | [316202-date-z-special-report-pack.json](./316202-date-z-special-report-pack.json) |
 | Date Z: TTRPG Enthusiast Pack | 316203 | [316203-date-z-ttrpg-enthusiast-pack.json](./316203-date-z-ttrpg-enthusiast-pack.json) |
+| DateBoy | 376656 | [376656-dateboy.json](./376656-dateboy.json) |
 | Datenshi Kyouko Part 1 | 230207 | [230207-datenshi-kyouko-part-1.json](./230207-datenshi-kyouko-part-1.json) |
 | Datenshi no Amai Yuuwaku x Kaikan Phrase | 67350 | [67350-datenshi-no-amai-yuuwaku-x-kaikan-phrase.json](./67350-datenshi-no-amai-yuuwaku-x-kaikan-phrase.json) |
 | Dating 4 Girls | 400931 | [400931-dating-4-girls.json](./400931-dating-4-girls.json) |
@@ -2878,6 +2880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Night | 288368 | [288368-demon-night.json](./288368-demon-night.json) |
 | Demon Party | 197847 | [197847-demon-party.json](./197847-demon-party.json) |
 | Demon Path: Tower of Armagor | 215904 | [215904-demon-path-tower-of-armagor.json](./215904-demon-path-tower-of-armagor.json) |
+| Demon Positive | 376657 | [376657-demon-positive.json](./376657-demon-positive.json) |
 | Demon Protocol | 417467 | [417467-demon-protocol.json](./417467-demon-protocol.json) |
 | DeMon Researcher | 361797 | [361797-demon-researcher.json](./361797-demon-researcher.json) |
 | Demon robot runner | 89369 | [89369-demon-robot-runner.json](./89369-demon-robot-runner.json) |
@@ -5748,6 +5751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donald Trump's Real Estate Tycoon | 25706 | [25706-donald-trumps-real-estate-tycoon.json](./25706-donald-trumps-real-estate-tycoon.json) |
 | Donald VS Martians | 113504 | [113504-donald-vs-martians.json](./113504-donald-vs-martians.json) |
 | Donald's Alphabet Chase | 57631 | [57631-donalds-alphabet-chase.json](./57631-donalds-alphabet-chase.json) |
+| Donare | 376673 | [376673-donare.json](./376673-donare.json) |
 | Donchan ga Kyu | 92051 | [92051-donchan-ga-kyu.json](./92051-donchan-ga-kyu.json) |
 | Donchan Puzzle Hanabi de Dohn Advance | 49585 | [49585-donchan-puzzle-hanabi-de-dohn-advance.json](./49585-donchan-puzzle-hanabi-de-dohn-advance.json) |
 | Dondgynns Auv Ye Wyrdd | 307769 | [307769-dondgynns-auv-ye-wyrdd.json](./307769-dondgynns-auv-ye-wyrdd.json) |
