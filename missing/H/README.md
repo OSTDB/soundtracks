@@ -3218,6 +3218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden & Dangerous: Action Pack | 77208 | [77208-hidden-and-dangerous-action-pack.json](./77208-hidden-and-dangerous-action-pack.json) |
 | Hidden & Dangerous: Devil's Bridge | 108 | [108-hidden-and-dangerous-devils-bridge.json](./108-hidden-and-dangerous-devils-bridge.json) |
 | Hidden Agenda | 37092 | [37092-hidden-agenda.json](./37092-hidden-agenda.json) |
+| Hidden Alphabets: Wallace & Gromit | 334913 | [334913-hidden-alphabets-wallace-and-gromit.json](./334913-hidden-alphabets-wallace-and-gromit.json) |
 | Hidden Among Thieves | 340470 | [340470-hidden-among-thieves.json](./340470-hidden-among-thieves.json) |
 | Hidden Animals Find : Detective Neko | 289343 | [289343-hidden-animals-find-detective-neko.json](./289343-hidden-animals-find-detective-neko.json) |
 | Hidden Animals: English - Spanish | 28068 | [28068-hidden-animals-english-spanish.json](./28068-hidden-animals-english-spanish.json) |
@@ -3449,6 +3450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Objects: Sherlock Holmes Mystery Case - The Big Apartment: My Mysterious House - The Big Hotel | 86723 | [86723-hidden-objects-sherlock-holmes-mystery-case-the-big-apartment-my-mysterious-house-the-big-hotel.json](./86723-hidden-objects-sherlock-holmes-mystery-case-the-big-apartment-my-mysterious-house-the-big-hotel.json) |
 | Hidden Objects: The Big Circus Mystery - My Watch Shop: Wanted Dead or Alive | 107677 | [107677-hidden-objects-the-big-circus-mystery-my-watch-shop-wanted-dead-or-alive.json](./107677-hidden-objects-the-big-circus-mystery-my-watch-shop-wanted-dead-or-alive.json) |
 | Hidden Objects: Victoria in Egypt - Cheops Pyramid | 200197 | [200197-hidden-objects-victoria-in-egypt-cheops-pyramid.json](./200197-hidden-objects-victoria-in-egypt-cheops-pyramid.json) |
+| Hidden Objects: Wallace & Gromit | 334916 | [334916-hidden-objects-wallace-and-gromit.json](./334916-hidden-objects-wallace-and-gromit.json) |
 | Hidden Oddities | 302099 | [302099-hidden-oddities.json](./302099-hidden-oddities.json) |
 | Hidden Oddities in Everyday Life Mystery | 403715 | [403715-hidden-oddities-in-everyday-life-mystery.json](./403715-hidden-oddities-in-everyday-life-mystery.json) |
 | Hidden Office | 152739 | [152739-hidden-office.json](./152739-hidden-office.json) |
@@ -4179,6 +4181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hole io: Red Planet DLC | 263556 | [263556-hole-io-red-planet-dlc.json](./263556-hole-io-red-planet-dlc.json) |
 | Hole Land | 40348 | [40348-hole-land.json](./40348-hole-land.json) |
 | Hole-In-One Miniature Golf | 70979 | [70979-hole-in-one-miniature-golf.json](./70979-hole-in-one-miniature-golf.json) |
+| Hole: Bottomless | 334927 | [334927-hole-bottomless.json](./334927-hole-bottomless.json) |
 | Hole.io | 104100 | [104100-hole-io.json](./104100-hole-io.json) |
 | Hole* | 408173 | [408173-hole.json](./408173-hole.json) |
 | Holedown | 105120 | [105120-holedown.json](./105120-holedown.json) |
