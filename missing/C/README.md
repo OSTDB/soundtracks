@@ -1487,6 +1487,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cassandra's Fabulous Foray | 67931 | [67931-cassandras-fabulous-foray.json](./67931-cassandras-fabulous-foray.json) |
 | Cassette 50 | 93344 | [93344-cassette-50.json](./93344-cassette-50.json) |
 | Cassette Beasts 2002 | 404378 | [404378-cassette-beasts-2002.json](./404378-cassette-beasts-2002.json) |
+| Cassette Beasts: Fashion Pack | 365834 | [365834-cassette-beasts-fashion-pack.json](./365834-cassette-beasts-fashion-pack.json) |
+| Cassette Beasts: Wing Pack | 365833 | [365833-cassette-beasts-wing-pack.json](./365833-cassette-beasts-wing-pack.json) |
 | Cassette Boy | 248898 | [248898-cassette-boy.json](./248898-cassette-boy.json) |
 | Cassette Five | 153853 | [153853-cassette-five.json](./153853-cassette-five.json) |
 | Cassidy | 145032 | [145032-cassidy.json](./145032-cassidy.json) |
@@ -3481,6 +3483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chiral | 309855 | [309855-chiral.json](./309855-chiral.json) |
 | Chiralmori | 287634 | [287634-chiralmori.json](./287634-chiralmori.json) |
 | Chirashiiru | 325444 | [325444-chirashiiru.json](./325444-chirashiiru.json) |
+| Chirax's Fortress | 365796 | [365796-chiraxs-fortress.json](./365796-chiraxs-fortress.json) |
 | Chiro Gravitas | 369718 | [369718-chiro-gravitas.json](./369718-chiro-gravitas.json) |
 | ChiroTerra | 278168 | [278168-chiroterra.json](./278168-chiroterra.json) |
 | Chirp Song: Wings of Praise | 304748 | [304748-chirp-song-wings-of-praise.json](./304748-chirp-song-wings-of-praise.json) |
@@ -4061,6 +4064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cine Tracer | 112265 | [112265-cine-tracer.json](./112265-cine-tracer.json) |
 | Cinema Madness | 310551 | [310551-cinema-madness.json](./310551-cinema-madness.json) |
 | Cinema Manager | 157171 | [157171-cinema-manager.json](./157171-cinema-manager.json) |
+| Cinema Manager Simulator | 365827 | [365827-cinema-manager-simulator.json](./365827-cinema-manager-simulator.json) |
 | Cinema Quest | 107249 | [107249-cinema-quest.json](./107249-cinema-quest.json) |
 | Cinema Simulator | 167581 | [167581-cinema-simulator.json](./167581-cinema-simulator.json) |
 | Cinema Theater Tycoon | 358377 | [358377-cinema-theater-tycoon.json](./358377-cinema-theater-tycoon.json) |
@@ -4800,6 +4804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clive Barker's Jericho | 6939 | [6939-clive-barkers-jericho.json](./6939-clive-barkers-jericho.json) |
 | Clive Barker's Jericho: Special Edition | 47470 | [47470-clive-barkers-jericho-special-edition.json](./47470-clive-barkers-jericho-special-edition.json) |
 | Clive vs. Hives 2 | 188685 | [188685-clive-vs-hives-2.json](./188685-clive-vs-hives-2.json) |
+| Cloak And Coin | 365810 | [365810-cloak-and-coin.json](./365810-cloak-and-coin.json) |
 | Cloak Hero | 258494 | [258494-cloak-hero.json](./258494-cloak-hero.json) |
 | Cloaked Protocol | 284977 | [284977-cloaked-protocol.json](./284977-cloaked-protocol.json) |
 | Cloaks and Capes | 148471 | [148471-cloaks-and-capes.json](./148471-cloaks-and-capes.json) |
@@ -8368,6 +8373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossout: Valentine's day pack | 226836 | [226836-crossout-valentines-day-pack.json](./226836-crossout-valentines-day-pack.json) |
 | Crossout: Wasteland Warrior Pack | 226837 | [226837-crossout-wasteland-warrior-pack.json](./226837-crossout-wasteland-warrior-pack.json) |
 | Crossout: Wholesale Recall Pack | 226838 | [226838-crossout-wholesale-recall-pack.json](./226838-crossout-wholesale-recall-pack.json) |
+| Crossover Clover | 365798 | [365798-crossover-clover.json](./365798-crossover-clover.json) |
 | Crossover Collab | 379890 | [379890-crossover-collab.json](./379890-crossover-collab.json) |
 | CrossOver: Roll For Initiative | 202861 | [202861-crossover-roll-for-initiative.json](./202861-crossover-roll-for-initiative.json) |
 | Crossovers by Powgi | 117488 | [117488-crossovers-by-powgi.json](./117488-crossovers-by-powgi.json) |
