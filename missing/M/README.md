@@ -1411,6 +1411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mandora | 63939 | [63939-mandora.json](./63939-mandora.json) |
 | Mandragora Seeker in the Creep Zone | 329200 | [329200-mandragora-seeker-in-the-creep-zone.json](./329200-mandragora-seeker-in-the-creep-zone.json) |
 | Mandragora: Whispers of the Witch Tree | 191427 | [191427-mandragora-whispers-of-the-witch-tree.json](./191427-mandragora-whispers-of-the-witch-tree.json) |
+| Mandragora: Whispers of the Witch Tree - Dark Ale Quest | 362381 | [362381-mandragora-whispers-of-the-witch-tree-dark-ale-quest.json](./362381-mandragora-whispers-of-the-witch-tree-dark-ale-quest.json) |
 | Mandragora: Whispers of the Witch Tree - Digital Deluxe Edition | 362373 | [362373-mandragora-whispers-of-the-witch-tree-digital-deluxe-edition.json](./362373-mandragora-whispers-of-the-witch-tree-digital-deluxe-edition.json) |
 | Mandragore | 13013 | [13013-mandragore.json](./13013-mandragore.json) |
 | Mandrake Boys | 202398 | [202398-mandrake-boys.json](./202398-mandrake-boys.json) |
@@ -5897,6 +5898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper Plus | 377754 | [377754-minesweeper-plus.json](./377754-minesweeper-plus.json) |
 | Minesweeper Puzzle Bomb | 104113 | [104113-minesweeper-puzzle-bomb.json](./104113-minesweeper-puzzle-bomb.json) |
 | Minesweeper Run | 151757 | [151757-minesweeper-run.json](./151757-minesweeper-run.json) |
+| MineSweeper Rush | 362387 | [362387-minesweeper-rush.json](./362387-minesweeper-rush.json) |
 | Minesweeper Twist | 296973 | [296973-minesweeper-twist.json](./296973-minesweeper-twist.json) |
 | Minesweeper Ultimate | 167815 | [167815-minesweeper-ultimate.json](./167815-minesweeper-ultimate.json) |
 | MineSweeper VR | 31617 | [31617-minesweeper-vr.json](./31617-minesweeper-vr.json) |
@@ -9891,6 +9893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Town : Hotel | 104615 | [104615-my-town-hotel.json](./104615-my-town-hotel.json) |
 | My Town : Police | 105920 | [105920-my-town-police.json](./105920-my-town-police.json) |
 | My Town : Street Fun | 104474 | [104474-my-town-street-fun.json](./104474-my-town-street-fun.json) |
+| My Town: Home | 362420 | [362420-my-town-home.json](./362420-my-town-home.json) |
 | My Town: ICEE Amusement Park | 99320 | [99320-my-town-icee-amusement-park.json](./99320-my-town-icee-amusement-park.json) |
 | My Town: Museum | 89126 | [89126-my-town-museum.json](./89126-my-town-museum.json) |
 | My Trailer Park Life | 275018 | [275018-my-trailer-park-life.json](./275018-my-trailer-park-life.json) |
