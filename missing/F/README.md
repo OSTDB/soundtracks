@@ -347,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Kitty no Kaiun Jiten: Yousei no Kuni no Uranai Shugyou | 65521 | [65521-fairy-kitty-no-kaiun-jiten-yousei-no-kuni-no-uranai-shugyou.json](./65521-fairy-kitty-no-kaiun-jiten-yousei-no-kuni-no-uranai-shugyou.json) |
 | Fairy Knights | 105943 | [105943-fairy-knights.json](./105943-fairy-knights.json) |
 | Fairy Lands: Rinka and the Fairy Gems | 52096 | [52096-fairy-lands-rinka-and-the-fairy-gems.json](./52096-fairy-lands-rinka-and-the-fairy-gems.json) |
+| Fairy Nook | 364627 | [364627-fairy-nook.json](./364627-fairy-nook.json) |
 | Fairy of the treasures | 81823 | [81823-fairy-of-the-treasures.json](./81823-fairy-of-the-treasures.json) |
 | Fairy Picturebook of Hero and Sorceress | 113698 | [113698-fairy-picturebook-of-hero-and-sorceress.json](./113698-fairy-picturebook-of-hero-and-sorceress.json) |
 | Fairy Pinball: Yousei-tachi no Pinball | 41359 | [41359-fairy-pinball-yousei-tachi-no-pinball.json](./41359-fairy-pinball-yousei-tachi-no-pinball.json) |
@@ -1508,6 +1509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Velocity: Physics Combat | 74439 | [74439-fatal-velocity-physics-combat.json](./74439-fatal-velocity-physics-combat.json) |
 | Fatal: Unleashed Darkness | 348261 | [348261-fatal-unleashed-darkness.json](./348261-fatal-unleashed-darkness.json) |
 | Fatberg | 382298 | [382298-fatberg.json](./382298-fatberg.json) |
+| Fate | 364622 | [364622-fate.json](./364622-fate.json) |
 | Fate (Carnivale Card Game) | 132012 | [132012-fate-carnivale-card-game.json](./132012-fate-carnivale-card-game.json) |
 | Fate / Hollow Ataraxia: Limited Edition | 89862 | [89862-fate-hollow-ataraxia-limited-edition.json](./89862-fate-hollow-ataraxia-limited-edition.json) |
 | Fate & Inflation | 391721 | [391721-fate-and-inflation.json](./391721-fate-and-inflation.json) |
@@ -2095,6 +2097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fifth Element Tamashii no Genso | 58743 | [58743-fifth-element-tamashii-no-genso.json](./58743-fifth-element-tamashii-no-genso.json) |
 | Fifth Era: Fragments of the Holy Stone | 162414 | [162414-fifth-era-fragments-of-the-holy-stone.json](./162414-fifth-era-fragments-of-the-holy-stone.json) |
 | Fig: The Game for Depression | 395113 | [395113-fig-the-game-for-depression.json](./395113-fig-the-game-for-depression.json) |
+| Figaro | 364631 | [364631-figaro.json](./364631-figaro.json) |
 | Fight | 147425 | [147425-fight.json](./147425-fight.json) |
 | Fight | 150650 | [150650-fight.json](./150650-fight.json) |
 | Fight | 330366 | [330366-fight.json](./330366-fight.json) |
@@ -5201,6 +5204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractal | 30192 | [30192-fractal.json](./30192-fractal.json) |
 | Fractal | 381036 | [381036-fractal.json](./381036-fractal.json) |
 | Fractal Block World | 152744 | [152744-fractal-block-world.json](./152744-fractal-block-world.json) |
+| Fractal Craft | 364635 | [364635-fractal-craft.json](./364635-fractal-craft.json) |
 | Fractal Evolution | 190453 | [190453-fractal-evolution.json](./190453-fractal-evolution.json) |
 | Fractal Fly | 196135 | [196135-fractal-fly.json](./196135-fractal-fly.json) |
 | Fractal Glide | 263503 | [263503-fractal-glide.json](./263503-fractal-glide.json) |
@@ -6292,6 +6296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fungus World | 344020 | [344020-fungus-world.json](./344020-fungus-world.json) |
 | Funguys Swarm | 332851 | [332851-funguys-swarm.json](./332851-funguys-swarm.json) |
 | Funk Unplugged | 31623 | [31623-funk-unplugged.json](./31623-funk-unplugged.json) |
+| Funk-E | 364640 | [364640-funk-e.json](./364640-funk-e.json) |
 | Funkels | 373103 | [373103-funkels.json](./373103-funkels.json) |
 | Funkin' at Freddy's + Afton Full Week | 298722 | [298722-funkin-at-freddys-afton-full-week.json](./298722-funkin-at-freddys-afton-full-week.json) |
 | Funko Fusion Deluxe Edition: Fantastik Plastik Pack 1 - Monkey Assassin + Sam (Retail Only) | 378880 | [378880-funko-fusion-deluxe-edition-fantastik-plastik-pack-1-monkey-assassin-sam-retail-only.json](./378880-funko-fusion-deluxe-edition-fantastik-plastik-pack-1-monkey-assassin-sam-retail-only.json) |
