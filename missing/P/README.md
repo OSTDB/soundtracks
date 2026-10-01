@@ -1280,6 +1280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Partial Control | 118358 | [118358-partial-control.json](./118358-partial-control.json) |
 | Partical City Guardians | 32245 | [32245-partical-city-guardians.json](./32245-partical-city-guardians.json) |
 | Particle | 309496 | [309496-particle.json](./309496-particle.json) |
+| Particle Accelerator | 357362 | [357362-particle-accelerator.json](./357362-particle-accelerator.json) |
 | Particle Fleet: Emergence | 24821 | [24821-particle-fleet-emergence.json](./24821-particle-fleet-emergence.json) |
 | Particle Mace | 17304 | [17304-particle-mace.json](./17304-particle-mace.json) |
 | Particles | 262696 | [262696-particles.json](./262696-particles.json) |
@@ -2210,6 +2211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perk Up | 372990 | [372990-perk-up.json](./372990-perk-up.json) |
 | Perkele! Suomi 100 vuotta | 74390 | [74390-perkele-suomi-100-vuotta.json](./74390-perkele-suomi-100-vuotta.json) |
 | Perky Little Things | 90825 | [90825-perky-little-things.json](./90825-perky-little-things.json) |
+| Perlin Festival | 357375 | [357375-perlin-festival.json](./357375-perlin-festival.json) |
 | Perma | 184997 | [184997-perma.json](./184997-perma.json) |
 | Permadeath | 337442 | [337442-permadeath.json](./337442-permadeath.json) |
 | Permafrost | 202319 | [202319-permafrost.json](./202319-permafrost.json) |
