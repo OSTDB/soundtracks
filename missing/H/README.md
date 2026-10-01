@@ -208,6 +208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakurei Frontier | 225725 | [225725-hakurei-frontier.json](./225725-hakurei-frontier.json) |
 | Hakurei Frontier Spell Strive | 225728 | [225728-hakurei-frontier-spell-strive.json](./225728-hakurei-frontier-spell-strive.json) |
 | Hal 21 | 25956 | [25956-hal-21.json](./25956-hal-21.json) |
+| HAL Protocol | 352325 | [352325-hal-protocol.json](./352325-hal-protocol.json) |
 | Hal Wrestling | 48993 | [48993-hal-wrestling.json](./48993-hal-wrestling.json) |
 | HAL's Hole in One Golf | 3653 | [3653-hals-hole-in-one-golf.json](./3653-hals-hole-in-one-golf.json) |
 | Halchemist | 264571 | [264571-halchemist.json](./264571-halchemist.json) |
@@ -3628,6 +3629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway | 267410 | [267410-highway.json](./267410-highway.json) |
 | Highway 11 | 377230 | [377230-highway-11.json](./377230-highway-11.json) |
 | Highway 2000 | 46097 | [46097-highway-2000.json](./46097-highway-2000.json) |
+| Highway Bus Rush | 352316 | [352316-highway-bus-rush.json](./352316-highway-bus-rush.json) |
 | Highway Cleaner | 234607 | [234607-highway-cleaner.json](./234607-highway-cleaner.json) |
 | Highway Drifter: Hajwala Simulator | 284927 | [284927-highway-drifter-hajwala-simulator.json](./284927-highway-drifter-hajwala-simulator.json) |
 | Highway Driving Simulator | 108449 | [108449-highway-driving-simulator.json](./108449-highway-driving-simulator.json) |
@@ -5530,6 +5532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hugo: Bukkazoom | 165052 | [165052-hugo-bukkazoom.json](./165052-hugo-bukkazoom.json) |
 | Hugo: Cannon Cruise | 43547 | [43547-hugo-cannon-cruise.json](./43547-hugo-cannon-cruise.json) |
 | Hugo: De Første Tegn | 301394 | [301394-hugo-de-f-rste-tegn.json](./301394-hugo-de-f-rste-tegn.json) |
+| Hugo: den forsvundne kæmpe | 352310 | [352310-hugo-den-forsvundne-k-mpe.json](./352310-hugo-den-forsvundne-k-mpe.json) |
 | Hugo: Frog Fighter | 25666 | [25666-hugo-frog-fighter.json](./25666-hugo-frog-fighter.json) |
 | Hugo: Heroes of the Savannah | 286614 | [286614-hugo-heroes-of-the-savannah.json](./286614-hugo-heroes-of-the-savannah.json) |
 | Hugo: Jungle Island 2 | 286615 | [286615-hugo-jungle-island-2.json](./286615-hugo-jungle-island-2.json) |
