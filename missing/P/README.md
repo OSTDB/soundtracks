@@ -5855,6 +5855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porkerpillar | 89209 | [89209-porkerpillar.json](./89209-porkerpillar.json) |
 | Porkshire Hero | 331485 | [331485-porkshire-hero.json](./331485-porkshire-hero.json) |
 | Porky's | 22761 | [22761-porkys.json](./22761-porkys.json) |
+| Porn Star Island | 385795 | [385795-porn-star-island.json](./385795-porn-star-island.json) |
 | Porno Empire | 270786 | [270786-porno-empire.json](./270786-porno-empire.json) |
 | Pornocrates | 158065 | [158065-pornocrates.json](./158065-pornocrates.json) |
 | Pornographer | 411054 | [411054-pornographer.json](./411054-pornographer.json) |
@@ -6488,6 +6489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Soldier Sailor Moon | 46788 | [46788-pretty-soldier-sailor-moon.json](./46788-pretty-soldier-sailor-moon.json) |
 | Pretty Soldier Sailor Moon S | 316798 | [316798-pretty-soldier-sailor-moon-s.json](./316798-pretty-soldier-sailor-moon-s.json) |
 | Pretty Visitors | 229791 | [229791-pretty-visitors.json](./229791-pretty-visitors.json) |
+| Pretty: Exotic | 385803 | [385803-pretty-exotic.json](./385803-pretty-exotic.json) |
 | Pretz'l Land | 105554 | [105554-pretzl-land.json](./105554-pretzl-land.json) |
 | Previous Tenant | 152208 | [152208-previous-tenant.json](./152208-previous-tenant.json) |
 | Prey 2 | 525 | [525-prey-2.json](./525-prey-2.json) |
@@ -6839,6 +6841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Private Model | 169229 | [169229-private-model.json](./169229-private-model.json) |
 | Private Property | 199378 | [199378-private-property.json](./199378-private-property.json) |
 | Private School Days | 89760 | [89760-private-school-days.json](./89760-private-school-days.json) |
+| Private Ward: VIP Floor - She Was My Nurse | 385821 | [385821-private-ward-vip-floor-she-was-my-nurse.json](./385821-private-ward-vip-floor-she-was-my-nurse.json) |
 | Private: Pornmania | 254545 | [254545-private-pornmania.json](./254545-private-pornmania.json) |
 | Privateers | 58288 | [58288-privateers.json](./58288-privateers.json) |
 | Prixel | 111205 | [111205-prixel.json](./111205-prixel.json) |
@@ -6855,6 +6858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Basketball Manager 2023 | 220656 | [220656-pro-basketball-manager-2023.json](./220656-pro-basketball-manager-2023.json) |
 | Pro Basketball Manager 2025 | 316054 | [316054-pro-basketball-manager-2025.json](./316054-pro-basketball-manager-2025.json) |
 | Pro Biker 2 | 66934 | [66934-pro-biker-2.json](./66934-pro-biker-2.json) |
+| Pro Bowling | 385781 | [385781-pro-bowling.json](./385781-pro-bowling.json) |
 | Pro Crack | 247026 | [247026-pro-crack.json](./247026-pro-crack.json) |
 | Pro Cycling 2009 | 68004 | [68004-pro-cycling-2009.json](./68004-pro-cycling-2009.json) |
 | Pro Cycling Manager 2010 | 67311 | [67311-pro-cycling-manager-2010.json](./67311-pro-cycling-manager-2010.json) |
@@ -6888,6 +6892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Foosball | 63831 | [63831-pro-foosball.json](./63831-pro-foosball.json) |
 | Pro Football | 289866 | [289866-pro-football.json](./289866-pro-football.json) |
 | Pro Gamer Tycoon | 103471 | [103471-pro-gamer-tycoon.json](./103471-pro-gamer-tycoon.json) |
+| Pro Golf | 385778 | [385778-pro-golf.json](./385778-pro-golf.json) |
 | Pro Gymnast Simulator | 128347 | [128347-pro-gymnast-simulator.json](./128347-pro-gymnast-simulator.json) |
 | Pro Gymnast Simulator + Brawl Chess | 219051 | [219051-pro-gymnast-simulator-brawl-chess.json](./219051-pro-gymnast-simulator-brawl-chess.json) |
 | Pro Gymnast Simulator + Clumsy Rush | 218456 | [218456-pro-gymnast-simulator-clumsy-rush.json](./218456-pro-gymnast-simulator-clumsy-rush.json) |
@@ -6930,6 +6935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Series Drag Racing | 91081 | [91081-pro-series-drag-racing.json](./91081-pro-series-drag-racing.json) |
 | Pro Skateboard Simulator | 69867 | [69867-pro-skateboard-simulator.json](./69867-pro-skateboard-simulator.json) |
 | Pro Snooker & Pool 2018 | 87554 | [87554-pro-snooker-and-pool-2018.json](./87554-pro-snooker-and-pool-2018.json) |
+| Pro Soccer | 385779 | [385779-pro-soccer.json](./385779-pro-soccer.json) |
 | PRO Soccer Challenges 2018 - World Football Stars | 95881 | [95881-pro-soccer-challenges-2018-world-football-stars.json](./95881-pro-soccer-challenges-2018-world-football-stars.json) |
 | Pro Soccer Cup 2002 | 251053 | [251053-pro-soccer-cup-2002.json](./251053-pro-soccer-cup-2002.json) |
 | Pro Soccer Online | 182202 | [182202-pro-soccer-online.json](./182202-pro-soccer-online.json) |
