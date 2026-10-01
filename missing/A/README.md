@@ -3168,6 +3168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All We Need | 263212 | [263212-all-we-need.json](./263212-all-we-need.json) |
 | All Will Fall | 328273 | [328273-all-will-fall.json](./328273-all-will-fall.json) |
 | All World Pro Wrestling: Bonus Stories | 196054 | [196054-all-world-pro-wrestling-bonus-stories.json](./196054-all-world-pro-wrestling-bonus-stories.json) |
+| All You Have to Do Is Click the Button | 352323 | [352323-all-you-have-to-do-is-click-the-button.json](./352323-all-you-have-to-do-is-click-the-button.json) |
 | All You Want Bundle | 231294 | [231294-all-you-want-bundle.json](./231294-all-you-want-bundle.json) |
 | All Your Creeps | 65438 | [65438-all-your-creeps.json](./65438-all-your-creeps.json) |
 | All Zombies Must Die! | 9971 | [9971-all-zombies-must-die.json](./9971-all-zombies-must-die.json) |
