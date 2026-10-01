@@ -786,6 +786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangsta Underground: The Poker | 132263 | [132263-gangsta-underground-the-poker.json](./132263-gangsta-underground-the-poker.json) |
 | Gangsta Woman | 120860 | [120860-gangsta-woman.json](./120860-gangsta-woman.json) |
 | Gangsta: The Return | 189117 | [189117-gangsta-the-return.json](./189117-gangsta-the-return.json) |
+| Gangstar City | 383591 | [383591-gangstar-city.json](./383591-gangstar-city.json) |
 | Gangstar City | 403574 | [403574-gangstar-city.json](./403574-gangstar-city.json) |
 | Gangstar New York | 211210 | [211210-gangstar-new-york.json](./211210-gangstar-new-york.json) |
 | Gangstar Vegas | 38934 | [38934-gangstar-vegas.json](./38934-gangstar-vegas.json) |
