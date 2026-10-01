@@ -705,6 +705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canvas of Thoughts | 399590 | [399590-canvas-of-thoughts.json](./399590-canvas-of-thoughts.json) |
 | Canvas Street | 347904 | [347904-canvas-street.json](./347904-canvas-street.json) |
 | CanvasCraft | 332241 | [332241-canvascraft.json](./332241-canvascraft.json) |
+| Canvasmount | 341635 | [341635-canvasmount.json](./341635-canvasmount.json) |
 | Canyon Bomber | 17017 | [17017-canyon-bomber.json](./17017-canyon-bomber.json) |
 | Canyon Miner: Minecart Rush | 233110 | [233110-canyon-miner-minecart-rush.json](./233110-canyon-miner-minecart-rush.json) |
 | Canyon of Outlaws | 343402 | [343402-canyon-of-outlaws.json](./343402-canyon-of-outlaws.json) |
@@ -825,6 +826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Corgi: Planetary Problem Solver | 369090 | [369090-captain-corgi-planetary-problem-solver.json](./369090-captain-corgi-planetary-problem-solver.json) |
 | Captain DinoHater | 180848 | [180848-captain-dinohater.json](./180848-captain-dinohater.json) |
 | Captain Disaster in: Death Has A Million Stomping Boots | 133978 | [133978-captain-disaster-in-death-has-a-million-stomping-boots.json](./133978-captain-disaster-in-death-has-a-million-stomping-boots.json) |
+| Captain Edward Continues | 341544 | [341544-captain-edward-continues.json](./341544-captain-edward-continues.json) |
 | Captain Explosion | 179152 | [179152-captain-explosion.json](./179152-captain-explosion.json) |
 | Captain Firat | 360737 | [360737-captain-firat.json](./360737-captain-firat.json) |
 | Captain Fizz Meets the Blaster-Trons | 14376 | [14376-captain-fizz-meets-the-blaster-trons.json](./14376-captain-fizz-meets-the-blaster-trons.json) |
@@ -1798,6 +1800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat doesn't like banana | 108033 | [108033-cat-doesnt-like-banana.json](./108033-cat-doesnt-like-banana.json) |
 | Cat Dungeon | 210880 | [210880-cat-dungeon.json](./210880-cat-dungeon.json) |
 | Cat Escape! Infinity！ | 247205 | [247205-cat-escape-infinity.json](./247205-cat-escape-infinity.json) |
+| Cat Evolution | 341636 | [341636-cat-evolution.json](./341636-cat-evolution.json) |
 | Cat Fantasy | 280799 | [280799-cat-fantasy.json](./280799-cat-fantasy.json) |
 | Cat Fish Island | 191181 | [191181-cat-fish-island.json](./191181-cat-fish-island.json) |
 | Cat Flower Tree | 175692 | [175692-cat-flower-tree.json](./175692-cat-flower-tree.json) |
@@ -2063,6 +2066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cathedral: Crow's Curse | 352757 | [352757-cathedral-crows-curse.json](./352757-cathedral-crows-curse.json) |
 | Catherine | 2151 | [2151-catherine.json](./2151-catherine.json) |
 | Catherine and the Spirit World | 315106 | [315106-catherine-and-the-spirit-world.json](./315106-catherine-and-the-spirit-world.json) |
+| Catherine Ragnor and the Cursed Island | 341619 | [341619-catherine-ragnor-and-the-cursed-island.json](./341619-catherine-ragnor-and-the-cursed-island.json) |
 | Catherine Ragnor and the Legend of the Flying Dutchman | 189113 | [189113-catherine-ragnor-and-the-legend-of-the-flying-dutchman.json](./189113-catherine-ragnor-and-the-legend-of-the-flying-dutchman.json) |
 | Catherine: Full Body - Dynamite Full Body Box | 136282 | [136282-catherine-full-body-dynamite-full-body-box.json](./136282-catherine-full-body-dynamite-full-body-box.json) |
 | Catherine: Full Body - Heart's Desire Premium Edition | 72067 | [72067-catherine-full-body-hearts-desire-premium-edition.json](./72067-catherine-full-body-hearts-desire-premium-edition.json) |
@@ -2262,6 +2266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caveman Stories | 95184 | [95184-caveman-stories.json](./95184-caveman-stories.json) |
 | Caveman Warriors | 29250 | [29250-caveman-warriors.json](./29250-caveman-warriors.json) |
 | Caveman Zac | 388324 | [388324-caveman-zac.json](./388324-caveman-zac.json) |
+| Cavemen Tales | 341618 | [341618-cavemen-tales.json](./341618-cavemen-tales.json) |
 | Cavemen vs. Aliens | 91412 | [91412-cavemen-vs-aliens.json](./91412-cavemen-vs-aliens.json) |
 | Cavequest | 2876 | [2876-cavequest.json](./2876-cavequest.json) |
 | Cavern | 272856 | [272856-cavern.json](./272856-cavern.json) |
@@ -2412,6 +2417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cellings | 190202 | [190202-cellings.json](./190202-cellings.json) |
 | Cellitaire | 338713 | [338713-cellitaire.json](./338713-cellitaire.json) |
 | Cellmons | 204562 | [204562-cellmons.json](./204562-cellmons.json) |
+| Cellmount: Automata | 341633 | [341633-cellmount-automata.json](./341633-cellmount-automata.json) |
 | Cellofania | 279580 | [279580-cellofania.json](./279580-cellofania.json) |
 | Cells of Division | 406329 | [406329-cells-of-division.json](./406329-cells-of-division.json) |
 | CellTD | 183879 | [183879-celltd.json](./183879-celltd.json) |
@@ -3320,6 +3326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Royale | 399747 | [399747-chicken-royale.json](./399747-chicken-royale.json) |
 | Chicken Run: Special Edition - Escape from the Pot-Pie Machine | 325109 | [325109-chicken-run-special-edition-escape-from-the-pot-pie-machine.json](./325109-chicken-run-special-edition-escape-from-the-pot-pie-machine.json) |
 | Chicken Run: Special Edition - Whack-A-Tweedy | 325108 | [325108-chicken-run-special-edition-whack-a-tweedy.json](./325108-chicken-run-special-edition-whack-a-tweedy.json) |
+| Chicken Rush Deluxe | 341617 | [341617-chicken-rush-deluxe.json](./341617-chicken-rush-deluxe.json) |
 | Chicken Scratch | 256558 | [256558-chicken-scratch.json](./256558-chicken-scratch.json) |
 | Chicken Shoot | 248610 | [248610-chicken-shoot.json](./248610-chicken-shoot.json) |
 | Chicken Shoot | 248611 | [248611-chicken-shoot.json](./248611-chicken-shoot.json) |
@@ -4163,6 +4170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circlebound | 384622 | [384622-circlebound.json](./384622-circlebound.json) |
 | Circlebrix: Falling Bricks | 285530 | [285530-circlebrix-falling-bricks.json](./285530-circlebrix-falling-bricks.json) |
 | Circlecers | 334790 | [334790-circlecers.json](./334790-circlecers.json) |
+| Circlemount | 341634 | [341634-circlemount.json](./341634-circlemount.json) |
 | Circles | 33061 | [33061-circles.json](./33061-circles.json) |
 | Circling | 304338 | [304338-circling.json](./304338-circling.json) |
 | Circlt | 57750 | [57750-circlt.json](./57750-circlt.json) |
@@ -5349,6 +5357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cogito Ergo Sum | 299852 | [299852-cogito-ergo-sum.json](./299852-cogito-ergo-sum.json) |
 | Cogito: Requiem | 402434 | [402434-cogito-requiem.json](./402434-cogito-requiem.json) |
 | Cogmo | 286072 | [286072-cogmo.json](./286072-cogmo.json) |
+| Cogmount | 341638 | [341638-cogmount.json](./341638-cogmount.json) |
 | Cognition Method | 211219 | [211219-cognition-method.json](./211219-cognition-method.json) |
 | Cognition: An Erica Reed Thriller - Episode 2: The Wise Monkey | 114985 | [114985-cognition-an-erica-reed-thriller-episode-2-the-wise-monkey.json](./114985-cognition-an-erica-reed-thriller-episode-2-the-wise-monkey.json) |
 | Cognition: An Erica Reed Thriller - Episode 3: The Oracle | 114986 | [114986-cognition-an-erica-reed-thriller-episode-3-the-oracle.json](./114986-cognition-an-erica-reed-thriller-episode-3-the-oracle.json) |
@@ -7331,8 +7340,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Courtroom Chaos: Starring Snoop Dogg | 371262 | [371262-courtroom-chaos-starring-snoop-dogg.json](./371262-courtroom-chaos-starring-snoop-dogg.json) |
 | Cousbians: Are They Cousins or Lesbians? | 182908 | [182908-cousbians-are-they-cousins-or-lesbians.json](./182908-cousbians-are-they-cousins-or-lesbians.json) |
 | Cov Shooter | 230244 | [230244-cov-shooter.json](./230244-cov-shooter.json) |
+| Covechrome | 341645 | [341645-covechrome.json](./341645-covechrome.json) |
 | Covelink | 384650 | [384650-covelink.json](./384650-covelink.json) |
 | Covemachine | 327296 | [327296-covemachine.json](./327296-covemachine.json) |
+| Covemouth | 341632 | [341632-covemouth.json](./341632-covemouth.json) |
 | Coven of the Chicken Foot | 381218 | [381218-coven-of-the-chicken-foot.json](./381218-coven-of-the-chicken-foot.json) |
 | Covenant | 324911 | [324911-covenant.json](./324911-covenant.json) |
 | Covenant of Anubis | 348771 | [348771-covenant-of-anubis.json](./348771-covenant-of-anubis.json) |
@@ -9828,6 +9839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cynthia: Hidden in the Moonshadow - Complete Edition | 283152 | [283152-cynthia-hidden-in-the-moonshadow-complete-edition.json](./283152-cynthia-hidden-in-the-moonshadow-complete-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Special Edition | 306491 | [306491-cynthia-hidden-in-the-moonshadow-special-edition.json](./306491-cynthia-hidden-in-the-moonshadow-special-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Summer Edition | 317261 | [317261-cynthia-hidden-in-the-moonshadow-summer-edition.json](./317261-cynthia-hidden-in-the-moonshadow-summer-edition.json) |
+| CYOM | 341643 | [341643-cyom.json](./341643-cyom.json) |
 | Cyoube | 302346 | [302346-cyoube.json](./302346-cyoube.json) |
 | Cypest Underground | 111734 | [111734-cypest-underground.json](./111734-cypest-underground.json) |
 | Cyphen | 339361 | [339361-cyphen.json](./339361-cyphen.json) |
