@@ -4491,6 +4491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Solid HD Edition - Premium Package | 298015 | [298015-metal-gear-solid-hd-edition-premium-package.json](./298015-metal-gear-solid-hd-edition-premium-package.json) |
 | Metal Gear Solid Touch | 12212 | [12212-metal-gear-solid-touch.json](./12212-metal-gear-solid-touch.json) |
 | Metal Gear Solid V: The Definitive Experience | 25637 | [25637-metal-gear-solid-v-the-definitive-experience.json](./25637-metal-gear-solid-v-the-definitive-experience.json) |
+| Metal Gear Solid V: The Definitive Subsistence Update | 377209 | [377209-metal-gear-solid-v-the-definitive-subsistence-update.json](./377209-metal-gear-solid-v-the-definitive-subsistence-update.json) |
 | Metal Gear Solid V: The Phantom Pain - Special Edition | 298021 | [298021-metal-gear-solid-v-the-phantom-pain-special-edition.json](./298021-metal-gear-solid-v-the-phantom-pain-special-edition.json) |
 | Metal Gear Solid: Fight of the Metal Gears | 331973 | [331973-metal-gear-solid-fight-of-the-metal-gears.json](./331973-metal-gear-solid-fight-of-the-metal-gears.json) |
 | Metal Gear Solid: Master Collection Version | 393638 | [393638-metal-gear-solid-master-collection-version.json](./393638-metal-gear-solid-master-collection-version.json) |
