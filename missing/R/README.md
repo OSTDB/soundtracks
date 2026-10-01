@@ -1062,6 +1062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rave: Ultimate Battle | 63349 | [63349-rave-ultimate-battle.json](./63349-rave-ultimate-battle.json) |
 | Ravelle: Last Draw | 387011 | [387011-ravelle-last-draw.json](./387011-ravelle-last-draw.json) |
 | Raven Gold | 329065 | [329065-raven-gold.json](./329065-raven-gold.json) |
+| Raven II | 357402 | [357402-raven-ii.json](./357402-raven-ii.json) |
 | Raven Quest | 133198 | [133198-raven-quest.json](./133198-raven-quest.json) |
 | Raven Squad: Operation Hidden Dagger | 7156 | [7156-raven-squad-operation-hidden-dagger.json](./7156-raven-squad-operation-hidden-dagger.json) |
 | Raven's Cry | 7686 | [7686-ravens-cry.json](./7686-ravens-cry.json) |
