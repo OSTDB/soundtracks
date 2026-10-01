@@ -5176,7 +5176,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Little Cup Red | 264094 | [264094-pokemon-little-cup-red.json](./264094-pokemon-little-cup-red.json) |
 | Pokémon Lost Silver | 320167 | [320167-pokemon-lost-silver.json](./320167-pokemon-lost-silver.json) |
 | Pokémon Lost World: Echoes of Eternity | 360181 | [360181-pokemon-lost-world-echoes-of-eternity.json](./360181-pokemon-lost-world-echoes-of-eternity.json) |
+| Pokémon LuigiGreen | 372605 | [372605-pokemon-luigigreen.json](./372605-pokemon-luigigreen.json) |
 | Pokémon Luminescent Platinum | 199621 | [199621-pokemon-luminescent-platinum.json](./199621-pokemon-luminescent-platinum.json) |
+| Pokémon MarioRed | 372602 | [372602-pokemon-mariored.json](./372602-pokemon-mariored.json) |
 | Pokémon Mega Evolution Aquamarine | 300428 | [300428-pokemon-mega-evolution-aquamarine.json](./300428-pokemon-mega-evolution-aquamarine.json) |
 | Pokémon Mino | 265214 | [265214-pokemon-mino.json](./265214-pokemon-mino.json) |
 | Pokémon Moemon Emerald Version | 229058 | [229058-pokemon-moemon-emerald-version.json](./229058-pokemon-moemon-emerald-version.json) |
@@ -7728,6 +7730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pseudo Collision | 389657 | [389657-pseudo-collision.json](./389657-pseudo-collision.json) |
 | Pseudo-Haunting | 272948 | [272948-pseudo-haunting.json](./272948-pseudo-haunting.json) |
 | Pseudoku | 337638 | [337638-pseudoku.json](./337638-pseudoku.json) |
+| PseudoSanity | 372635 | [372635-pseudosanity.json](./372635-pseudosanity.json) |
 | Psi Chess | 58251 | [58251-psi-chess.json](./58251-psi-chess.json) |
 | PSI Masquerade | 204064 | [204064-psi-masquerade.json](./204064-psi-masquerade.json) |
 | Psi Project 2 | 26965 | [26965-psi-project-2.json](./26965-psi-project-2.json) |
