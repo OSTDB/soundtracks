@@ -2071,6 +2071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Must Die | 244243 | [244243-death-must-die.json](./244243-death-must-die.json) |
 | Death Nomad | 236001 | [236001-death-nomad.json](./236001-death-nomad.json) |
 | Death Noodle Delivery | 207330 | [207330-death-noodle-delivery.json](./207330-death-noodle-delivery.json) |
+| Death Note: Confrontation | 372056 | [372056-death-note-confrontation.json](./372056-death-note-confrontation.json) |
 | Death Note: Killer Within | 320363 | [320363-death-note-killer-within.json](./320363-death-note-killer-within.json) |
 | Death Note: Kira Game | 22388 | [22388-death-note-kira-game.json](./22388-death-note-kira-game.json) |
 | Death Note: Successors to L | 22389 | [22389-death-note-successors-to-l.json](./22389-death-note-successors-to-l.json) |
@@ -3553,6 +3554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dethroned | 240813 | [240813-dethroned.json](./240813-dethroned.json) |
 | Detonation | 119563 | [119563-detonation.json](./119563-detonation.json) |
 | Detonator | 263477 | [263477-detonator.json](./263477-detonator.json) |
+| Detour | 372079 | [372079-detour.json](./372079-detour.json) |
 | Detourist | 278744 | [278744-detourist.json](./278744-detourist.json) |
 | Detox | 181882 | [181882-detox.json](./181882-detox.json) |
 | Detra | 345560 | [345560-detra.json](./345560-detra.json) |
@@ -3762,6 +3764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diablo IV: Loot Reborn | 299726 | [299726-diablo-iv-loot-reborn.json](./299726-diablo-iv-loot-reborn.json) |
 | Diablo IV: Lord of Hatred | 381239 | [381239-diablo-iv-lord-of-hatred.json](./381239-diablo-iv-lord-of-hatred.json) |
 | Diablo IV: Season of Divine Intervention | 380541 | [380541-diablo-iv-season-of-divine-intervention.json](./380541-diablo-iv-season-of-divine-intervention.json) |
+| Diablo IV: Season of Infernal Chaos | 372053 | [372053-diablo-iv-season-of-infernal-chaos.json](./372053-diablo-iv-season-of-infernal-chaos.json) |
 | Diablo IV: Sins of the Horadrim | 352222 | [352222-diablo-iv-sins-of-the-horadrim.json](./352222-diablo-iv-sins-of-the-horadrim.json) |
 | Diablo IV: Ultimate Edition | 249742 | [249742-diablo-iv-ultimate-edition.json](./249742-diablo-iv-ultimate-edition.json) |
 | Diablo IV: Vessel of Hatred | 275171 | [275171-diablo-iv-vessel-of-hatred.json](./275171-diablo-iv-vessel-of-hatred.json) |
@@ -4328,6 +4331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Panic | 351680 | [351680-dino-panic.json](./351680-dino-panic.json) |
 | Dino Pet Walker | 394535 | [394535-dino-pet-walker.json](./394535-dino-pet-walker.json) |
 | Dino Precision Platformer | 303476 | [303476-dino-precision-platformer.json](./303476-dino-precision-platformer.json) |
+| Dino Quake | 372038 | [372038-dino-quake.json](./372038-dino-quake.json) |
 | Dino Quest | 392472 | [392472-dino-quest.json](./392472-dino-quest.json) |
 | Dino R-r-age Defense | 88103 | [88103-dino-r-r-age-defense.json](./88103-dino-r-r-age-defense.json) |
 | Dino Race: Dinosaur Ride Ranch | 284487 | [284487-dino-race-dinosaur-ride-ranch.json](./284487-dino-race-dinosaur-ride-ranch.json) |
@@ -8033,6 +8037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Life 9: The Flock | 253309 | [253309-duck-life-9-the-flock.json](./253309-duck-life-9-the-flock.json) |
 | Duck Life: Space | 29177 | [29177-duck-life-space.json](./29177-duck-life-space.json) |
 | Duck Maze | 378193 | [378193-duck-maze.json](./378193-duck-maze.json) |
+| Duck Norris Tales | 372044 | [372044-duck-norris-tales.json](./372044-duck-norris-tales.json) |
 | Duck Nukem: Four Feathers | 230210 | [230210-duck-nukem-four-feathers.json](./230210-duck-nukem-four-feathers.json) |
 | Duck on the Run | 174349 | [174349-duck-on-the-run.json](./174349-duck-on-the-run.json) |
 | Duck Paradox | 208209 | [208209-duck-paradox.json](./208209-duck-paradox.json) |
