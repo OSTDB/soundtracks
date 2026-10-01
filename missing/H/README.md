@@ -2374,6 +2374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Lucia | 339914 | [339914-hentai-lucia.json](./339914-hentai-lucia.json) |
 | Hentai Lunara | 376108 | [376108-hentai-lunara.json](./376108-hentai-lunara.json) |
 | Hentai Lust | 256923 | [256923-hentai-lust.json](./256923-hentai-lust.json) |
+| Hentai Magic Academy | 368625 | [368625-hentai-magic-academy.json](./368625-hentai-magic-academy.json) |
 | Hentai MagicalGirl | 237403 | [237403-hentai-magicalgirl.json](./237403-hentai-magicalgirl.json) |
 | Hentai Maid Club | 149429 | [149429-hentai-maid-club.json](./149429-hentai-maid-club.json) |
 | Hentai Match 3 | 155000 | [155000-hentai-match-3.json](./155000-hentai-match-3.json) |
@@ -5891,6 +5892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Apocalypse | 303052 | [303052-hyper-apocalypse.json](./303052-hyper-apocalypse.json) |
 | Hyper Bishi Bashi Champ | 228466 | [228466-hyper-bishi-bashi-champ.json](./228466-hyper-bishi-bashi-champ.json) |
 | Hyper Black Bass '95 | 61349 | [61349-hyper-black-bass-95.json](./61349-hyper-black-bass-95.json) |
+| Hyper Bun Buster: Rocket Hammer Action | 368624 | [368624-hyper-bun-buster-rocket-hammer-action.json](./368624-hyper-bun-buster-rocket-hammer-action.json) |
 | Hyper Chess | 353916 | [353916-hyper-chess.json](./353916-hyper-chess.json) |
 | Hyper Danganronpa Melancholy | 304342 | [304342-hyper-danganronpa-melancholy.json](./304342-hyper-danganronpa-melancholy.json) |
 | Hyper Demon | 218183 | [218183-hyper-demon.json](./218183-hyper-demon.json) |
