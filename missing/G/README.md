@@ -3210,6 +3210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GooBall | 146187 | [146187-gooball.json](./146187-gooball.json) |
 | Goober Arena | 320378 | [320378-goober-arena.json](./320378-goober-arena.json) |
 | Goobers | 411751 | [411751-goobers.json](./411751-goobers.json) |
+| Goobs | 354042 | [354042-goobs.json](./354042-goobs.json) |
 | Gooch Grundy's X-Decathlon | 73797 | [73797-gooch-grundys-x-decathlon.json](./73797-gooch-grundys-x-decathlon.json) |
 | GooCubelets 2 | 34249 | [34249-goocubelets-2.json](./34249-goocubelets-2.json) |
 | GooCubelets: Color Blocking | 44224 | [44224-goocubelets-color-blocking.json](./44224-goocubelets-color-blocking.json) |
