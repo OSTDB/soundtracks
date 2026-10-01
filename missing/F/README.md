@@ -752,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Bash | 248052 | [248052-family-bash.json](./248052-family-bash.json) |
 | Family Bible Quest | 335322 | [335322-family-bible-quest.json](./335322-family-bible-quest.json) |
 | Family Billiards | 161760 | [161760-family-billiards.json](./161760-family-billiards.json) |
+| Family Bundle | 370825 | [370825-family-bundle.json](./370825-family-bundle.json) |
 | Family Card Games Fun Pack | 82139 | [82139-family-card-games-fun-pack.json](./82139-family-card-games-fun-pack.json) |
 | Family Chess | 207877 | [207877-family-chess.json](./207877-family-chess.json) |
 | Family Chess | 360205 | [360205-family-chess.json](./360205-family-chess.json) |
@@ -2475,6 +2476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Notice | 351112 | [351112-final-notice.json](./351112-final-notice.json) |
 | Final Odyssey | 378173 | [378173-final-odyssey.json](./378173-final-odyssey.json) |
 | Final Paradox | 280351 | [280351-final-paradox.json](./280351-final-paradox.json) |
+| Final Passage | 370844 | [370844-final-passage.json](./370844-final-passage.json) |
 | Final Payload | 394502 | [394502-final-payload.json](./394502-final-payload.json) |
 | Final Profit: A Shop RPG | 196721 | [196721-final-profit-a-shop-rpg.json](./196721-final-profit-a-shop-rpg.json) |
 | Final Quest | 31732 | [31732-final-quest.json](./31732-final-quest.json) |
