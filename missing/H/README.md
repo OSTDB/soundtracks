@@ -129,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haemo | 133934 | [133934-haemo.json](./133934-haemo.json) |
 | Haeven | 31930 | [31930-haeven.json](./31930-haeven.json) |
 | Hafermann | 177297 | [177297-hafermann.json](./177297-hafermann.json) |
+| Haffy DX | 336168 | [336168-haffy-dx.json](./336168-haffy-dx.json) |
 | Hag | 245946 | [245946-hag.json](./245946-hag.json) |
 | Hag's Castle | 105115 | [105115-hags-castle.json](./105115-hags-castle.json) |
 | Hagalegacy | 311113 | [311113-hagalegacy.json](./311113-hagalegacy.json) |
@@ -144,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hai-Shin 2 | 290992 | [290992-hai-shin-2.json](./290992-hai-shin-2.json) |
 | Hǎidǐ Xúnbǎo | 110136 | [110136-haidi-xunbao.json](./110136-haidi-xunbao.json) |
 | Haiki | 141134 | [141134-haiki.json](./141134-haiki.json) |
+| Haiku, and the Mother Virus | 336070 | [336070-haiku-and-the-mother-virus.json](./336070-haiku-and-the-mother-virus.json) |
 | Haikyu!! Tsunage! Itadaki no Keshiki!! | 136931 | [136931-haikyu-tsunage-itadaki-no-keshiki.json](./136931-haikyu-tsunage-itadaki-no-keshiki.json) |
 | Haikyuu!! Donpisha Match!! | 196599 | [196599-haikyuu-donpisha-match.json](./196599-haikyuu-donpisha-match.json) |
 | Hail Britannia | 340408 | [340408-hail-britannia.json](./340408-hail-britannia.json) |
@@ -6123,6 +6125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HyperGlide | 211194 | [211194-hyperglide.json](./211194-hyperglide.json) |
 | Hyperhell | 235965 | [235965-hyperhell.json](./235965-hyperhell.json) |
 | Hyperide VR | 75024 | [75024-hyperide-vr.json](./75024-hyperide-vr.json) |
+| Hyperkidmorph2mr.gunner | 336110 | [336110-hyperkidmorph2mr-gunner.json](./336110-hyperkidmorph2mr-gunner.json) |
 | Hyperlane Highway | 395812 | [395812-hyperlane-highway.json](./395812-hyperlane-highway.json) |
 | HyperLeague Heroes | 191179 | [191179-hyperleague-heroes.json](./191179-hyperleague-heroes.json) |
 | Hyperlight | 254435 | [254435-hyperlight.json](./254435-hyperlight.json) |
