@@ -2340,6 +2340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Dating Stories: Brazil - Complete + | 324465 | [324465-hentai-dating-stories-brazil-complete.json](./324465-hentai-dating-stories-brazil-complete.json) |
 | Hentai Dating Stories: Brazil - Deluxe Edition | 308802 | [308802-hentai-dating-stories-brazil-deluxe-edition.json](./308802-hentai-dating-stories-brazil-deluxe-edition.json) |
 | Hentai Dating Stories: Brazil - Extended Edition | 313786 | [313786-hentai-dating-stories-brazil-extended-edition.json](./313786-hentai-dating-stories-brazil-extended-edition.json) |
+| Hentai Dating Stories: Brazil - Premium Edition | 317913 | [317913-hentai-dating-stories-brazil-premium-edition.json](./317913-hentai-dating-stories-brazil-premium-edition.json) |
 | Hentai Dating Stories: Brazil - Special Edition | 315862 | [315862-hentai-dating-stories-brazil-special-edition.json](./315862-hentai-dating-stories-brazil-special-edition.json) |
 | Hentai Demon | 387503 | [387503-hentai-demon.json](./387503-hentai-demon.json) |
 | Hentai Demon's Lullaby | 390500 | [390500-hentai-demons-lullaby.json](./390500-hentai-demons-lullaby.json) |
@@ -2410,6 +2411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls: Ultra Premium | 316216 | [316216-hentai-girls-ultra-premium.json](./316216-hentai-girls-ultra-premium.json) |
 | Hentai Girls: Winky Witch | 322654 | [322654-hentai-girls-winky-witch.json](./322654-hentai-girls-winky-witch.json) |
 | Hentai Golf | 283177 | [283177-hentai-golf.json](./283177-hentai-golf.json) |
+| Hentai Golf: Amazing Edition | 317912 | [317912-hentai-golf-amazing-edition.json](./317912-hentai-golf-amazing-edition.json) |
 | Hentai Golf: Complete + | 324468 | [324468-hentai-golf-complete.json](./324468-hentai-golf-complete.json) |
 | Hentai Golf: Deluxe Edition | 283178 | [283178-hentai-golf-deluxe-edition.json](./283178-hentai-golf-deluxe-edition.json) |
 | Hentai Golf: GOTY Edition | 313790 | [313790-hentai-golf-goty-edition.json](./313790-hentai-golf-goty-edition.json) |
@@ -2528,6 +2530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Slash | 340451 | [340451-hentai-slash.json](./340451-hentai-slash.json) |
 | Hentai Solitaire: Complete + | 324450 | [324450-hentai-solitaire-complete.json](./324450-hentai-solitaire-complete.json) |
 | Hentai Solitaire: Extended Edition | 315868 | [315868-hentai-solitaire-extended-edition.json](./315868-hentai-solitaire-extended-edition.json) |
+| Hentai Solitaire: Special Edition | 317911 | [317911-hentai-solitaire-special-edition.json](./317911-hentai-solitaire-special-edition.json) |
 | Hentai Solitaire: Ultimate Edition | 313785 | [313785-hentai-solitaire-ultimate-edition.json](./313785-hentai-solitaire-ultimate-edition.json) |
 | Hentai Sport | 286537 | [286537-hentai-sport.json](./286537-hentai-sport.json) |
 | Hentai Sport | 371362 | [371362-hentai-sport.json](./371362-hentai-sport.json) |
@@ -2547,6 +2550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Stars: Superb Edition | 314885 | [314885-hentai-stars-superb-edition.json](./314885-hentai-stars-superb-edition.json) |
 | Hentai Stars: Ultimate Edition | 274475 | [274475-hentai-stars-ultimate-edition.json](./274475-hentai-stars-ultimate-edition.json) |
 | Hentai Stars: Ultra Deluxe | 316269 | [316269-hentai-stars-ultra-deluxe.json](./316269-hentai-stars-ultra-deluxe.json) |
+| Hentai Stars: Ultra Ultimate | 317924 | [317924-hentai-stars-ultra-ultimate.json](./317924-hentai-stars-ultra-ultimate.json) |
 | Hentai Step Milf | 340452 | [340452-hentai-step-milf.json](./340452-hentai-step-milf.json) |
 | Hentai Store | 370274 | [370274-hentai-store.json](./370274-hentai-store.json) |
 | Hentai Succubus Aura | 398550 | [398550-hentai-succubus-aura.json](./398550-hentai-succubus-aura.json) |
@@ -5144,6 +5148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Let's Race: Ultimate Speed - Deluxe Edition | 371436 | [371436-hot-wheels-lets-race-ultimate-speed-deluxe-edition.json](./371436-hot-wheels-lets-race-ultimate-speed-deluxe-edition.json) |
 | Hot Wheels Let's Race: Ultimate Speed - High Voltage Speed Pack | 371438 | [371438-hot-wheels-lets-race-ultimate-speed-high-voltage-speed-pack.json](./371438-hot-wheels-lets-race-ultimate-speed-high-voltage-speed-pack.json) |
 | Hot Wheels Monster Trucks: Stunt Mayhem | 313494 | [313494-hot-wheels-monster-trucks-stunt-mayhem.json](./313494-hot-wheels-monster-trucks-stunt-mayhem.json) |
+| Hot Wheels Monster Trucks: Stunt Mayhem - Deluxe Edition | 317910 | [317910-hot-wheels-monster-trucks-stunt-mayhem-deluxe-edition.json](./317910-hot-wheels-monster-trucks-stunt-mayhem-deluxe-edition.json) |
 | Hot Wheels Slot Car Racing | 100125 | [100125-hot-wheels-slot-car-racing.json](./100125-hot-wheels-slot-car-racing.json) |
 | Hot Wheels Stunt Track Driver | 249155 | [249155-hot-wheels-stunt-track-driver.json](./249155-hot-wheels-stunt-track-driver.json) |
 | Hot Wheels Turbo Racing | 3371 | [3371-hot-wheels-turbo-racing.json](./3371-hot-wheels-turbo-racing.json) |
