@@ -644,6 +644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hangman | 230850 | [230850-hangman.json](./230850-hangman.json) |
 | Hangman | 259633 | [259633-hangman.json](./259633-hangman.json) |
 | Hangman | 327217 | [327217-hangman.json](./327217-hangman.json) |
+| Hangman | 329790 | [329790-hangman.json](./329790-hangman.json) |
 | Hangman | 377831 | [377831-hangman.json](./377831-hangman.json) |
 | Hangman for Windows | 83452 | [83452-hangman-for-windows.json](./83452-hangman-for-windows.json) |
 | Hangman Hijinks | 366435 | [366435-hangman-hijinks.json](./366435-hangman-hijinks.json) |
@@ -1079,6 +1080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Master | 320522 | [320522-harvest-master.json](./320522-harvest-master.json) |
 | Harvest Moon 3 GBC | 3381 | [3381-harvest-moon-3-gbc.json](./3381-harvest-moon-3-gbc.json) |
 | Harvest Moon 64 | 3378 | [3378-harvest-moon-64.json](./3378-harvest-moon-64.json) |
+| Harvest Moon Cozy Bundle | 329763 | [329763-harvest-moon-cozy-bundle.json](./329763-harvest-moon-cozy-bundle.json) |
 | Harvest Moon DS Cute | 47699 | [47699-harvest-moon-ds-cute.json](./47699-harvest-moon-ds-cute.json) |
 | Harvest Moon DS: Island of Happiness | 3387 | [3387-harvest-moon-ds-island-of-happiness.json](./3387-harvest-moon-ds-island-of-happiness.json) |
 | Harvest Moon GB | 3377 | [3377-harvest-moon-gb.json](./3377-harvest-moon-gb.json) |
@@ -1141,6 +1143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hat Trick Hero 2 | 38332 | [38332-hat-trick-hero-2.json](./38332-hat-trick-hero-2.json) |
 | Hat Tricks: Hare in Box | 229054 | [229054-hat-tricks-hare-in-box.json](./229054-hat-tricks-hare-in-box.json) |
 | Hat World: New Testament | 229186 | [229186-hat-world-new-testament.json](./229186-hat-world-new-testament.json) |
+| Hataraku Otona no Renai Jijou | 329642 | [329642-hataraku-otona-no-renai-jijou.json](./329642-hataraku-otona-no-renai-jijou.json) |
 | Hatate-chan no Joshi Ryoku Training! | 403040 | [403040-hatate-chan-no-joshi-ryoku-training.json](./403040-hatate-chan-no-joshi-ryoku-training.json) |
 | Hatch | 314491 | [314491-hatch.json](./314491-hatch.json) |
 | Hatch Catch | 40175 | [40175-hatch-catch.json](./40175-hatch-catch.json) |
@@ -5031,6 +5034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Cocoa Magic! | 249469 | [249469-hot-cocoa-magic.json](./249469-hot-cocoa-magic.json) |
 | Hot Coffe Shop | 236773 | [236773-hot-coffe-shop.json](./236773-hot-coffe-shop.json) |
 | Hot Couture | 313849 | [313849-hot-couture.json](./313849-hot-couture.json) |
+| Hot Cross Buns | 329775 | [329775-hot-cross-buns.json](./329775-hot-cross-buns.json) |
 | Hot Date | 18136 | [18136-hot-date.json](./18136-hot-date.json) |
 | Hot Dish 2 | 53202 | [53202-hot-dish-2.json](./53202-hot-dish-2.json) |
 | Hot Dish 2: Cross Country Cook-Off | 54083 | [54083-hot-dish-2-cross-country-cook-off.json](./54083-hot-dish-2-cross-country-cook-off.json) |
