@@ -2868,6 +2868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resort Simulator | 407373 | [407373-resort-simulator.json](./407373-resort-simulator.json) |
 | Resortopia | 287627 | [287627-resortopia.json](./287627-resortopia.json) |
 | Resource Recon | 295352 | [295352-resource-recon.json](./295352-resource-recon.json) |
+| Resource War: Soul Squad Alpha | 299420 | [299420-resource-war-soul-squad-alpha.json](./299420-resource-war-soul-squad-alpha.json) |
 | Resourcer | 245945 | [245945-resourcer.json](./245945-resourcer.json) |
 | Respawn | 203851 | [203851-respawn.json](./203851-respawn.json) |
 | Respawnables: Special Forces | 94784 | [94784-respawnables-special-forces.json](./94784-respawnables-special-forces.json) |
@@ -4949,6 +4950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Bricks | 370898 | [370898-rogue-bricks.json](./370898-rogue-bricks.json) |
 | Rogue Buddies - Aztek Gold | 96227 | [96227-rogue-buddies-aztek-gold.json](./96227-rogue-buddies-aztek-gold.json) |
 | Rogue Carrier | 409641 | [409641-rogue-carrier.json](./409641-rogue-carrier.json) |
+| Rogue Citadel | 299379 | [299379-rogue-citadel.json](./299379-rogue-citadel.json) |
 | Rogue Climber | 312746 | [312746-rogue-climber.json](./312746-rogue-climber.json) |
 | Rogue Company | 122235 | [122235-rogue-company.json](./122235-rogue-company.json) |
 | Rogue Company Mobile | 175694 | [175694-rogue-company-mobile.json](./175694-rogue-company-mobile.json) |
