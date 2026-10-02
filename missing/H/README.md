@@ -531,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Drop | 63545 | [63545-hamster-drop.json](./63545-hamster-drop.json) |
 | Hamster Fighter | 246459 | [246459-hamster-fighter.json](./246459-hamster-fighter.json) |
 | Hamster Hunter: Rodent Rampage | 330556 | [330556-hamster-hunter-rodent-rampage.json](./330556-hamster-hunter-rodent-rampage.json) |
+| Hamster Inn | 297166 | [297166-hamster-inn.json](./297166-hamster-inn.json) |
 | Hamster Monogatari 2 GBA | 49591 | [49591-hamster-monogatari-2-gba.json](./49591-hamster-monogatari-2-gba.json) |
 | Hamster Monogatari 3 GBA | 49590 | [49590-hamster-monogatari-3-gba.json](./49590-hamster-monogatari-3-gba.json) |
 | Hamster Monogatari 3, 4, Special | 97817 | [97817-hamster-monogatari-3-4-special.json](./97817-hamster-monogatari-3-4-special.json) |
