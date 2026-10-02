@@ -1152,6 +1152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maja and Benny | 353976 | [353976-maja-and-benny.json](./353976-maja-and-benny.json) |
 | Majaventure: Mahjong Senki | 48785 | [48785-majaventure-mahjong-senki.json](./48785-majaventure-mahjong-senki.json) |
 | Majestic | 94676 | [94676-majestic.json](./94676-majestic.json) |
+| Majestic Aristocrat | 294935 | [294935-majestic-aristocrat.json](./294935-majestic-aristocrat.json) |
 | Majestic Hero Pin | 205026 | [205026-majestic-hero-pin.json](./205026-majestic-hero-pin.json) |
 | Majestic Majolical vol. 1 | 240523 | [240523-majestic-majolical-vol-1.json](./240523-majestic-majolical-vol-1.json) |
 | Majestic: Special Edition | 137479 | [137479-majestic-special-edition.json](./137479-majestic-special-edition.json) |
@@ -1286,6 +1287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maki Fes! | 186615 | [186615-maki-fes.json](./186615-maki-fes.json) |
 | Maki: Paw of Fury | 215610 | [215610-maki-paw-of-fury.json](./215610-maki-paw-of-fury.json) |
 | Makibishi Comic | 237501 | [237501-makibishi-comic.json](./237501-makibishi-comic.json) |
+| Makibishi Comic | 294981 | [294981-makibishi-comic.json](./294981-makibishi-comic.json) |
 | Makin Biscuits | 178516 | [178516-makin-biscuits.json](./178516-makin-biscuits.json) |
 | Making Friends | 303646 | [303646-making-friends.json](./303646-making-friends.json) |
 | Making History: The Calm & The Storm | 15043 | [15043-making-history-the-calm-and-the-storm.json](./15043-making-history-the-calm-and-the-storm.json) |
@@ -10341,6 +10343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Time at Portia | 43165 | [43165-my-time-at-portia.json](./43165-my-time-at-portia.json) |
 | My Time at Portia: Deluxe Edition | 224111 | [224111-my-time-at-portia-deluxe-edition.json](./224111-my-time-at-portia-deluxe-edition.json) |
 | My Time at Portia: Housewarming Gift Set | 300930 | [300930-my-time-at-portia-housewarming-gift-set.json](./300930-my-time-at-portia-housewarming-gift-set.json) |
+| My Time At Portia: Player Costume Package | 294956 | [294956-my-time-at-portia-player-costume-package.json](./294956-my-time-at-portia-player-costume-package.json) |
 | My Time at Sandrock: Builder's Beach and Ball Clothing Pack | 275107 | [275107-my-time-at-sandrock-builders-beach-and-ball-clothing-pack.json](./275107-my-time-at-sandrock-builders-beach-and-ball-clothing-pack.json) |
 | My Time at Sandrock: Builders Beach and Ball Clothing Pack | 275057 | [275057-my-time-at-sandrock-builders-beach-and-ball-clothing-pack.json](./275057-my-time-at-sandrock-builders-beach-and-ball-clothing-pack.json) |
 | My Time at Sandrock: Cute Critter Furniture Pack | 275076 | [275076-my-time-at-sandrock-cute-critter-furniture-pack.json](./275076-my-time-at-sandrock-cute-critter-furniture-pack.json) |
