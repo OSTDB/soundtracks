@@ -3906,6 +3906,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cursed Deep | 365819 | [365819-the-cursed-deep.json](./365819-the-cursed-deep.json) |
 | The Cursed Forest | 35848 | [35848-the-cursed-forest.json](./35848-the-cursed-forest.json) |
 | The Cursed Garden | 342750 | [342750-the-cursed-garden.json](./342750-the-cursed-garden.json) |
+| The Cursed Heart | 313733 | [313733-the-cursed-heart.json](./313733-the-cursed-heart.json) |
+| The Cursed Heart: Book 2 | 313734 | [313734-the-cursed-heart-book-2.json](./313734-the-cursed-heart-book-2.json) |
 | The Cursed Hotel | 398325 | [398325-the-cursed-hotel.json](./398325-the-cursed-hotel.json) |
 | The Cursed Land | 306093 | [306093-the-cursed-land.json](./306093-the-cursed-land.json) |
 | The Cursed love | 105297 | [105297-the-cursed-love.json](./105297-the-cursed-love.json) |
@@ -3934,6 +3936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Daily Diaonal Sudoku | 266838 | [266838-the-daily-diaonal-sudoku.json](./266838-the-daily-diaonal-sudoku.json) |
 | The Dallas Quest | 47218 | [47218-the-dallas-quest.json](./47218-the-dallas-quest.json) |
 | The Dalmatians | 44847 | [44847-the-dalmatians.json](./44847-the-dalmatians.json) |
+| The Dalton Affair | 313730 | [313730-the-dalton-affair.json](./313730-the-dalton-affair.json) |
 | The Dam Busters | 13566 | [13566-the-dam-busters.json](./13566-the-dam-busters.json) |
 | The Dam Nation | 211135 | [211135-the-dam-nation.json](./211135-the-dam-nation.json) |
 | The Dama | 101503 | [101503-the-dama.json](./101503-the-dama.json) |
@@ -4374,7 +4377,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Electric Yoyo | 221402 | [221402-the-electric-yoyo.json](./221402-the-electric-yoyo.json) |
 | The Elektra Complex | 280901 | [280901-the-elektra-complex.json](./280901-the-elektra-complex.json) |
 | The Elementalist Typing | 347183 | [347183-the-elementalist-typing.json](./347183-the-elementalist-typing.json) |
+| The Elementalists | 313741 | [313741-the-elementalists.json](./313741-the-elementalists.json) |
+| The Elementalists 2 | 313742 | [313742-the-elementalists-2.json](./313742-the-elementalists-2.json) |
 | The Elementalists Book 3 | 408177 | [408177-the-elementalists-book-3.json](./408177-the-elementalists-book-3.json) |
+| The Elementalists: Winters Past | 313743 | [313743-the-elementalists-winters-past.json](./313743-the-elementalists-winters-past.json) |
 | The Elephant E | 229040 | [229040-the-elephant-e.json](./229040-the-elephant-e.json) |
 | The Elevator | 317325 | [317325-the-elevator.json](./317325-the-elevator.json) |
 | The Elevator | 326986 | [326986-the-elevator.json](./326986-the-elevator.json) |
@@ -6173,6 +6179,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Trails of Cold Steel IV - Digital Deluxe Edition | 169218 | [169218-the-legend-of-heroes-trails-of-cold-steel-iv-digital-deluxe-edition.json](./169218-the-legend-of-heroes-trails-of-cold-steel-iv-digital-deluxe-edition.json) |
 | The Legend of Heroes: Trails of Cold Steel IV - Eternal Preservation Edition | 167068 | [167068-the-legend-of-heroes-trails-of-cold-steel-iv-eternal-preservation-edition.json](./167068-the-legend-of-heroes-trails-of-cold-steel-iv-eternal-preservation-edition.json) |
 | The Legend of Heroes: Trails of Cold Steel IV - Standard Costume Bundle | 227335 | [227335-the-legend-of-heroes-trails-of-cold-steel-iv-standard-costume-bundle.json](./227335-the-legend-of-heroes-trails-of-cold-steel-iv-standard-costume-bundle.json) |
+| The Legend of Heroes: Trails through Daybreak II - Deluxe Edition | 313763 | [313763-the-legend-of-heroes-trails-through-daybreak-ii-deluxe-edition.json](./313763-the-legend-of-heroes-trails-through-daybreak-ii-deluxe-edition.json) |
+| The Legend of Heroes: Trails through Daybreak II - Limited Edition | 313762 | [313762-the-legend-of-heroes-trails-through-daybreak-ii-limited-edition.json](./313762-the-legend-of-heroes-trails-through-daybreak-ii-limited-edition.json) |
 | The Legend of Heroes: Trails to Azure | 23323 | [23323-the-legend-of-heroes-trails-to-azure.json](./23323-the-legend-of-heroes-trails-to-azure.json) |
 | The Legend of Heroes: Trails to Azure - Deluxe Edition | 249169 | [249169-the-legend-of-heroes-trails-to-azure-deluxe-edition.json](./249169-the-legend-of-heroes-trails-to-azure-deluxe-edition.json) |
 | The Legend of Iowa | 269847 | [269847-the-legend-of-iowa.json](./269847-the-legend-of-iowa.json) |
@@ -6993,6 +7001,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
+| The Nanny Affair | 313727 | [313727-the-nanny-affair.json](./313727-the-nanny-affair.json) |
+| The Nanny Affair 2 | 313728 | [313728-the-nanny-affair-2.json](./313728-the-nanny-affair-2.json) |
+| The Nanny Affair 3 | 313729 | [313729-the-nanny-affair-3.json](./313729-the-nanny-affair-3.json) |
 | The Narrator is a Dick | 32629 | [32629-the-narrator-is-a-dick.json](./32629-the-narrator-is-a-dick.json) |
 | The Narrator is a Dick: Longer, Harder, and Uncut | 132196 | [132196-the-narrator-is-a-dick-longer-harder-and-uncut.json](./132196-the-narrator-is-a-dick-longer-harder-and-uncut.json) |
 | The Narrator Says We're Meant to Be! | 394816 | [394816-the-narrator-says-were-meant-to-be.json](./394816-the-narrator-says-were-meant-to-be.json) |
