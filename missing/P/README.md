@@ -4299,6 +4299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Deathlivery | 347717 | [347717-pizza-deathlivery.json](./347717-pizza-deathlivery.json) |
 | Pizza Delivery Bagel | 209676 | [209676-pizza-delivery-bagel.json](./209676-pizza-delivery-bagel.json) |
 | Pizza Delivery in a Storm | 319185 | [319185-pizza-delivery-in-a-storm.json](./319185-pizza-delivery-in-a-storm.json) |
+| Pizza Delivery Survivors | 320270 | [320270-pizza-delivery-survivors.json](./320270-pizza-delivery-survivors.json) |
 | Pizza Delivery: A Short Thriller | 305364 | [305364-pizza-delivery-a-short-thriller.json](./305364-pizza-delivery-a-short-thriller.json) |
 | Pizza Delivery: Zebaxx | 276189 | [276189-pizza-delivery-zebaxx.json](./276189-pizza-delivery-zebaxx.json) |
 | Pizza Empire | 151104 | [151104-pizza-empire.json](./151104-pizza-empire.json) |
@@ -5324,6 +5325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Colosseum Double Battle Card e+: 13-P001 - Hunter no Bit | 355521 | [355521-pokemon-colosseum-double-battle-card-e-13-p001-hunter-no-bit.json](./355521-pokemon-colosseum-double-battle-card-e-13-p001-hunter-no-bit.json) |
 | Pokémon Colosseum Double Battle Card e+: 13-P002 - Snatch-dan no Gaku | 355523 | [355523-pokemon-colosseum-double-battle-card-e-13-p002-snatch-dan-no-gaku.json](./355523-pokemon-colosseum-double-battle-card-e-13-p002-snatch-dan-no-gaku.json) |
 | Pokémon Coral Version | 234552 | [234552-pokemon-coral-version.json](./234552-pokemon-coral-version.json) |
+| Pokémon Covenant | 320277 | [320277-pokemon-covenant.json](./320277-pokemon-covenant.json) |
 | Pokémon Cross Stadium | 281394 | [281394-pokemon-cross-stadium.json](./281394-pokemon-cross-stadium.json) |
 | Pokémon Crystal 251 | 312377 | [312377-pokemon-crystal-251.json](./312377-pokemon-crystal-251.json) |
 | Pokémon Crystal Inheritance | 408208 | [408208-pokemon-crystal-inheritance.json](./408208-pokemon-crystal-inheritance.json) |
@@ -8070,6 +8072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychic Storm | 280322 | [280322-psychic-storm.json](./280322-psychic-storm.json) |
 | Psychic Ward: Kill The Seven King Dragon | 370283 | [370283-psychic-ward-kill-the-seven-king-dragon.json](./370283-psychic-ward-kill-the-seven-king-dragon.json) |
 | Psycho | 179574 | [179574-psycho.json](./179574-psycho.json) |
+| Psycho | 320238 | [320238-psycho.json](./320238-psycho.json) |
 | Psycho | 378393 | [378393-psycho.json](./378393-psycho.json) |
 | Psycho Boy: Dasshutsu Game | 223968 | [223968-psycho-boy-dasshutsu-game.json](./223968-psycho-boy-dasshutsu-game.json) |
 | Psycho Casket | 408287 | [408287-psycho-casket.json](./408287-psycho-casket.json) |
