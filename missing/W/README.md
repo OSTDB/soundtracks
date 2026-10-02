@@ -3025,6 +3025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wireball | 121721 | [121721-wireball.json](./121721-wireball.json) |
 | Wired | 105334 | [105334-wired.json](./105334-wired.json) |
 | Wired | 307616 | [307616-wired.json](./307616-wired.json) |
+| Wired Gambit | 307207 | [307207-wired-gambit.json](./307207-wired-gambit.json) |
 | Wired Tokyo | 395793 | [395793-wired-tokyo.json](./395793-wired-tokyo.json) |
 | Wired Witch | 413788 | [413788-wired-witch.json](./413788-wired-witch.json) |
 | Wireframe Warfare | 340989 | [340989-wireframe-warfare.json](./340989-wireframe-warfare.json) |
@@ -4579,6 +4580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WW2 Rebuilder | 158156 | [158156-ww2-rebuilder.json](./158156-ww2-rebuilder.json) |
 | WW2 Z Range VR | 119712 | [119712-ww2-z-range-vr.json](./119712-ww2-z-range-vr.json) |
 | WW2 Zone War: Cold Warzone Ops | 269098 | [269098-ww2-zone-war-cold-warzone-ops.json](./269098-ww2-zone-war-cold-warzone-ops.json) |
+| WW2: Bunker Simulator - Origins | 307185 | [307185-ww2-bunker-simulator-origins.json](./307185-ww2-bunker-simulator-origins.json) |
 | Wwaves | 181900 | [181900-wwaves.json](./181900-wwaves.json) |
 | WWC: World Wrestling Championship | 46028 | [46028-wwc-world-wrestling-championship.json](./46028-wwc-world-wrestling-championship.json) |
 | WWE | 220132 | [220132-wwe.json](./220132-wwe.json) |
