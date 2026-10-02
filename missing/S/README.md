@@ -1171,6 +1171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save 2020 | 156043 | [156043-save-2020.json](./156043-save-2020.json) |
 | Save 2B Young Man | 367009 | [367009-save-2b-young-man.json](./367009-save-2b-young-man.json) |
 | Save and Conquer | 214442 | [214442-save-and-conquer.json](./214442-save-and-conquer.json) |
+| Save and Survive | 291688 | [291688-save-and-survive.json](./291688-save-and-survive.json) |
 | Save Christmas With Santa | 325010 | [325010-save-christmas-with-santa.json](./325010-save-christmas-with-santa.json) |
 | Save City R | 260399 | [260399-save-city-r.json](./260399-save-city-r.json) |
 | Save Da Frogs | 237047 | [237047-save-da-frogs.json](./237047-save-da-frogs.json) |
@@ -1178,6 +1179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Daddy Trump 4: Maga 2024 | 301832 | [301832-save-daddy-trump-4-maga-2024.json](./301832-save-daddy-trump-4-maga-2024.json) |
 | Save Data | 153366 | [153366-save-data.json](./153366-save-data.json) |
 | Save Farty: The Trivia Game | 142838 | [142838-save-farty-the-trivia-game.json](./142838-save-farty-the-trivia-game.json) |
+| Save from Bobr Curve | 291679 | [291679-save-from-bobr-curve.json](./291679-save-from-bobr-curve.json) |
 | Save Granny | 100343 | [100343-save-granny.json](./100343-save-granny.json) |
 | Save Home | 31175 | [31175-save-home.json](./31175-save-home.json) |
 | Save HomeWorld | 110370 | [110370-save-homeworld.json](./110370-save-homeworld.json) |
@@ -1233,6 +1235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Villy | 101389 | [101389-save-the-villy.json](./101389-save-the-villy.json) |
 | Save the Whales | 22762 | [22762-save-the-whales.json](./22762-save-the-whales.json) |
 | Save Them | 106536 | [106536-save-them.json](./106536-save-them.json) |
+| Save Twiks | 291726 | [291726-save-twiks.json](./291726-save-twiks.json) |
 | Save Us, Doctor Faust! | 416827 | [416827-save-us-doctor-faust.json](./416827-save-us-doctor-faust.json) |
 | Save Your Soul | 370187 | [370187-save-your-soul.json](./370187-save-your-soul.json) |
 | Save: Teaser - Before the Dawn | 313463 | [313463-save-teaser-before-the-dawn.json](./313463-save-teaser-before-the-dawn.json) |
@@ -2005,6 +2008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Stars: Early Backer Limited Edition | 283826 | [283826-sea-of-stars-early-backer-limited-edition.json](./283826-sea-of-stars-early-backer-limited-edition.json) |
 | Sea of Stars: Throes of the Watchmaker | 314929 | [314929-sea-of-stars-throes-of-the-watchmaker.json](./314929-sea-of-stars-throes-of-the-watchmaker.json) |
 | Sea of Thieves: 2024 Deluxe Bundle | 298029 | [298029-sea-of-thieves-2024-deluxe-bundle.json](./298029-sea-of-thieves-2024-deluxe-bundle.json) |
+| Sea of Thieves: 2024 Deluxe Edition | 291677 | [291677-sea-of-thieves-2024-deluxe-edition.json](./291677-sea-of-thieves-2024-deluxe-edition.json) |
 | Sea of Thieves: 2024 Edition | 335072 | [335072-sea-of-thieves-2024-edition.json](./335072-sea-of-thieves-2024-edition.json) |
 | Sea of Thieves: 2024 Premium Bundle | 297734 | [297734-sea-of-thieves-2024-premium-bundle.json](./297734-sea-of-thieves-2024-premium-bundle.json) |
 | Sea of Thieves: Custom Seas - Season 20 | 405065 | [405065-sea-of-thieves-custom-seas-season-20.json](./405065-sea-of-thieves-custom-seas-season-20.json) |
@@ -2239,6 +2243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Mystery: Door of Stealth | 103910 | [103910-secret-mystery-door-of-stealth.json](./103910-secret-mystery-door-of-stealth.json) |
 | Secret Neighbor | 103295 | [103295-secret-neighbor.json](./103295-secret-neighbor.json) |
 | Secret Neighbor: Welcome Pack | 305854 | [305854-secret-neighbor-welcome-pack.json](./305854-secret-neighbor-welcome-pack.json) |
+| Secret Odyssey: Orb of Eternity | 291680 | [291680-secret-odyssey-orb-of-eternity.json](./291680-secret-odyssey-orb-of-eternity.json) |
 | Secret of Dungeon | 158515 | [158515-secret-of-dungeon.json](./158515-secret-of-dungeon.json) |
 | Secret of Evangelion | 61670 | [61670-secret-of-evangelion.json](./61670-secret-of-evangelion.json) |
 | Secret of Fantasy | 374203 | [374203-secret-of-fantasy.json](./374203-secret-of-fantasy.json) |
@@ -3422,6 +3427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Trick | 306609 | [306609-shadow-trick.json](./306609-shadow-trick.json) |
 | Shadow Vamp | 102737 | [102737-shadow-vamp.json](./102737-shadow-vamp.json) |
 | Shadow Walker | 252726 | [252726-shadow-walker.json](./252726-shadow-walker.json) |
+| Shadow Walker | 291684 | [291684-shadow-walker.json](./291684-shadow-walker.json) |
 | Shadow Walls | 149933 | [149933-shadow-walls.json](./149933-shadow-walls.json) |
 | Shadow Warren | 356631 | [356631-shadow-warren.json](./356631-shadow-warren.json) |
 | Shadow Warrior | 2947 | [2947-shadow-warrior.json](./2947-shadow-warrior.json) |
@@ -4982,6 +4988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SideQuest Hunters | 360017 | [360017-sidequest-hunters.json](./360017-sidequest-hunters.json) |
 | SideQuest: Reanimated | 260641 | [260641-sidequest-reanimated.json](./260641-sidequest-reanimated.json) |
 | Sidereal Defense | 54357 | [54357-sidereal-defense.json](./54357-sidereal-defense.json) |
+| Sidereal Wanderer | 291712 | [291712-sidereal-wanderer.json](./291712-sidereal-wanderer.json) |
 | SideShow | 70364 | [70364-sideshow.json](./70364-sideshow.json) |
 | Sidewalk Simulator | 324294 | [324294-sidewalk-simulator.json](./324294-sidewalk-simulator.json) |
 | Sideway New York | 16273 | [16273-sideway-new-york.json](./16273-sideway-new-york.json) |
@@ -11545,6 +11552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squidview | 381251 | [381251-squidview.json](./381251-squidview.json) |
 | Squidward Tentacles Jigsaw | 320895 | [320895-squidward-tentacles-jigsaw.json](./320895-squidward-tentacles-jigsaw.json) |
 | Squidward Tractor | 320896 | [320896-squidward-tractor.json](./320896-squidward-tractor.json) |
+| Squigley | 291724 | [291724-squigley.json](./291724-squigley.json) |
 | Squillamorph | 126652 | [126652-squillamorph.json](./126652-squillamorph.json) |
 | Squingle Arcade | 397933 | [397933-squingle-arcade.json](./397933-squingle-arcade.json) |
 | Squirdle | 194654 | [194654-squirdle.json](./194654-squirdle.json) |
@@ -12341,6 +12349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starduino | 228389 | [228389-starduino.json](./228389-starduino.json) |
 | Stardust | 318797 | [318797-stardust.json](./318797-stardust.json) |
 | Stardust | 372069 | [372069-stardust.json](./372069-stardust.json) |
+| Stardust Demon | 291687 | [291687-stardust-demon.json](./291687-stardust-demon.json) |
 | Stardust Escape | 373158 | [373158-stardust-escape.json](./373158-stardust-escape.json) |
 | Stardust League | 222391 | [222391-stardust-league.json](./222391-stardust-league.json) |
 | Stardust Odyssey | 122994 | [122994-stardust-odyssey.json](./122994-stardust-odyssey.json) |
@@ -14447,6 +14456,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubus Throne | 385254 | [385254-succubus-throne.json](./385254-succubus-throne.json) |
 | Succubus Waifu | 127998 | [127998-succubus-waifu.json](./127998-succubus-waifu.json) |
 | Succubus War | 186830 | [186830-succubus-war.json](./186830-succubus-war.json) |
+| Succubus With Guns: Campaign "Winding Path" | 291683 | [291683-succubus-with-guns-campaign-winding-path.json](./291683-succubus-with-guns-campaign-winding-path.json) |
+| Succubus With Guns: Costume "Joy of Succubus" | 291678 | [291678-succubus-with-guns-costume-joy-of-succubus.json](./291678-succubus-with-guns-costume-joy-of-succubus.json) |
 | Succubus x Saint | 327265 | [327265-succubus-x-saint.json](./327265-succubus-x-saint.json) |
 | Succubus: Elysian Fields | 337829 | [337829-succubus-elysian-fields.json](./337829-succubus-elysian-fields.json) |
 | Succubus: Onoskelis | 216209 | [216209-succubus-onoskelis.json](./216209-succubus-onoskelis.json) |
