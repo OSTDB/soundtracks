@@ -1596,6 +1596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: Hour of the Witch Chapter | 193756 | [193756-dead-by-daylight-hour-of-the-witch-chapter.json](./193756-dead-by-daylight-hour-of-the-witch-chapter.json) |
 | Dead by Daylight: Leatherface | 76225 | [76225-dead-by-daylight-leatherface.json](./76225-dead-by-daylight-leatherface.json) |
 | Dead by Daylight: Macabre Tales Pack | 283186 | [283186-dead-by-daylight-macabre-tales-pack.json](./283186-dead-by-daylight-macabre-tales-pack.json) |
+| Dead by Daylight: Maddening Darkness Pack | 285698 | [285698-dead-by-daylight-maddening-darkness-pack.json](./285698-dead-by-daylight-maddening-darkness-pack.json) |
 | Dead by Daylight: Of Flesh and Mud Chapter | 76222 | [76222-dead-by-daylight-of-flesh-and-mud-chapter.json](./76222-dead-by-daylight-of-flesh-and-mud-chapter.json) |
 | Dead by Daylight: Old Wounds Pack | 283185 | [283185-dead-by-daylight-old-wounds-pack.json](./283185-dead-by-daylight-old-wounds-pack.json) |
 | Dead by Daylight: Resident Evil - Carlos Oliveira | 358420 | [358420-dead-by-daylight-resident-evil-carlos-oliveira.json](./358420-dead-by-daylight-resident-evil-carlos-oliveira.json) |
