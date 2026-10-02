@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | Q Remastered | 222250 | [222250-q-remastered.json](./222250-q-remastered.json) |
 | Q-Ball: Billiards Master | 43272 | [43272-q-ball-billiards-master.json](./43272-q-ball-billiards-master.json) |
+| Q-Linq | 290623 | [290623-q-linq.json](./290623-q-linq.json) |
 | Q.U.B.E: Director's Cut | 19961 | [19961-q-u-b-e-directors-cut.json](./19961-q-u-b-e-directors-cut.json) |
 | Q.U.B.E. 10th Anniversary | 206756 | [206756-q-u-b-e-10th-anniversary.json](./206756-q-u-b-e-10th-anniversary.json) |
 | Q.U.B.E. 2: Deluxe Edition | 169210 | [169210-q-u-b-e-2-deluxe-edition.json](./169210-q-u-b-e-2-deluxe-edition.json) |
