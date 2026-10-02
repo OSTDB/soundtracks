@@ -264,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A is for Aardvark | 334281 | [334281-a-is-for-aardvark.json](./334281-a-is-for-aardvark.json) |
 | A Journey Through Valhalla | 165677 | [165677-a-journey-through-valhalla.json](./165677-a-journey-through-valhalla.json) |
 | A Journey Together | 261810 | [261810-a-journey-together.json](./261810-a-journey-together.json) |
+| A Journey's End | 291182 | [291182-a-journeys-end.json](./291182-a-journeys-end.json) |
 | A Juggler's Tale | 122050 | [122050-a-jugglers-tale.json](./122050-a-jugglers-tale.json) |
 | A Killer Chat! Christmas | 370876 | [370876-a-killer-chat-christmas.json](./370876-a-killer-chat-christmas.json) |
 | A King's Tale: Final Fantasy XV | 19600 | [19600-a-kings-tale-final-fantasy-xv.json](./19600-a-kings-tale-final-fantasy-xv.json) |
@@ -4556,6 +4557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Diner | 217391 | [217391-animal-diner.json](./217391-animal-diner.json) |
 | Animal Drifters | 219296 | [219296-animal-drifters.json](./219296-animal-drifters.json) |
 | Animal Drop Safari | 168658 | [168658-animal-drop-safari.json](./168658-animal-drop-safari.json) |
+| Animal Dungeon | 291177 | [291177-animal-dungeon.json](./291177-animal-dungeon.json) |
 | Animal Express | 152883 | [152883-animal-express.json](./152883-animal-express.json) |
 | Animal Express | 386404 | [386404-animal-express.json](./386404-animal-express.json) |
 | Animal Falling | 293089 | [293089-animal-falling.json](./293089-animal-falling.json) |
