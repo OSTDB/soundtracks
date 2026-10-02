@@ -1698,6 +1698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OpenGoal: Jak II | 275306 | [275306-opengoal-jak-ii.json](./275306-opengoal-jak-ii.json) |
 | OpenGuessr | 314022 | [314022-openguessr.json](./314022-openguessr.json) |
 | OpenHV | 184413 | [184413-openhv.json](./184413-openhv.json) |
+| Opening Night | 287325 | [287325-opening-night.json](./287325-opening-night.json) |
 | Opening Night | 68975 | [68975-opening-night.json](./68975-opening-night.json) |
 | Opening Night at the Großen Schauspielhaus: Berlin 1927 | 171409 | [171409-opening-night-at-the-gro-en-schauspielhaus-berlin-1927.json](./171409-opening-night-at-the-gro-en-schauspielhaus-berlin-1927.json) |
 | Opening Weekend - Varmint Season | 115778 | [115778-opening-weekend-varmint-season.json](./115778-opening-weekend-varmint-season.json) |
