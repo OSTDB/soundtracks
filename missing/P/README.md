@@ -1230,6 +1230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parking Jam: Complete Edition | 315855 | [315855-parking-jam-complete-edition.json](./315855-parking-jam-complete-edition.json) |
 | Parking Jam: Fast Food | 313219 | [313219-parking-jam-fast-food.json](./313219-parking-jam-fast-food.json) |
 | Parking Jam: Snow Rush | 313231 | [313231-parking-jam-snow-rush.json](./313231-parking-jam-snow-rush.json) |
+| Parking Jam: Tasty Edition | 324374 | [324374-parking-jam-tasty-edition.json](./324374-parking-jam-tasty-edition.json) |
 | Parking Lot Maze | 146815 | [146815-parking-lot-maze.json](./146815-parking-lot-maze.json) |
 | Parking Mania | 62763 | [62763-parking-mania.json](./62763-parking-mania.json) |
 | Parking Mania 2 | 261844 | [261844-parking-mania-2.json](./261844-parking-mania-2.json) |
