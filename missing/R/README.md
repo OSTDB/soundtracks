@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabi-Ribi | 28545 | [28545-rabi-ribi.json](./28545-rabi-ribi.json) |
 | Rabi-Ribi: Cicini's Halloween! | 171360 | [171360-rabi-ribi-cicinis-halloween.json](./171360-rabi-ribi-cicinis-halloween.json) |
 | Rabi-Ribi: Is the order a DLC? | 171637 | [171637-rabi-ribi-is-the-order-a-dlc.json](./171637-rabi-ribi-is-the-order-a-dlc.json) |
+| Rabi-Ribi: Platinum Edition DLC Pack | 324392 | [324392-rabi-ribi-platinum-edition-dlc-pack.json](./324392-rabi-ribi-platinum-edition-dlc-pack.json) |
 | Rabid Helix | 257656 | [257656-rabid-helix.json](./257656-rabid-helix.json) |
 | Rabiez: Epidemic | 33347 | [33347-rabiez-epidemic.json](./33347-rabiez-epidemic.json) |
 | Rabio | 219169 | [219169-rabio.json](./219169-rabio.json) |
