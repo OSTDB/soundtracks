@@ -3722,6 +3722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Corral | 271787 | [271787-the-corral.json](./271787-the-corral.json) |
 | The Corridor | 148443 | [148443-the-corridor.json](./148443-the-corridor.json) |
 | The Corrupted Turnabout | 308529 | [308529-the-corrupted-turnabout.json](./308529-the-corrupted-turnabout.json) |
+| The Corruption | 333148 | [333148-the-corruption.json](./333148-the-corruption.json) |
 | The Corruption Within | 153387 | [153387-the-corruption-within.json](./153387-the-corruption-within.json) |
 | The Cosmic Tunnels | 62760 | [62760-the-cosmic-tunnels.json](./62760-the-cosmic-tunnels.json) |
 | The Cosmic Wheel Sisterhood | 247578 | [247578-the-cosmic-wheel-sisterhood.json](./247578-the-cosmic-wheel-sisterhood.json) |
@@ -8617,6 +8618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Thing | 264859 | [264859-the-thing.json](./264859-the-thing.json) |
 | The Thing at the Window | 221750 | [221750-the-thing-at-the-window.json](./221750-the-thing-at-the-window.json) |
 | The Thing from Nowhere | 188945 | [188945-the-thing-from-nowhere.json](./188945-the-thing-from-nowhere.json) |
+| The Thing from Space | 333210 | [333210-the-thing-from-space.json](./333210-the-thing-from-space.json) |
 | The Thing in the Lake | 391889 | [391889-the-thing-in-the-lake.json](./391889-the-thing-in-the-lake.json) |
 | The Thing That Happened | 294284 | [294284-the-thing-that-happened.json](./294284-the-thing-that-happened.json) |
 | The Thing With Mistletoes | 29589 | [29589-the-thing-with-mistletoes.json](./29589-the-thing-with-mistletoes.json) |
@@ -9362,6 +9364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World According to Girl | 192823 | [192823-the-world-according-to-girl.json](./192823-the-world-according-to-girl.json) |
 | The World After | 184618 | [184618-the-world-after.json](./184618-the-world-after.json) |
 | The World Beyond | 389409 | [389409-the-world-beyond.json](./389409-the-world-beyond.json) |
+| The World Ends in Ohio | 333146 | [333146-the-world-ends-in-ohio.json](./333146-the-world-ends-in-ohio.json) |
 | The World Ends with You: Final Remix | 81143 | [81143-the-world-ends-with-you-final-remix.json](./81143-the-world-ends-with-you-final-remix.json) |
 | The World Hockey Championships | 242684 | [242684-the-world-hockey-championships.json](./242684-the-world-hockey-championships.json) |
 | The World Is Ruled According to Sexual Prowess So I’m Playing Dirty to Get My Harem: Episode 1 | 400241 | [400241-the-world-is-ruled-according-to-sexual-prowess-so-i-m-playing-dirty-to-get-my-harem-episode-1.json](./400241-the-world-is-ruled-according-to-sexual-prowess-so-i-m-playing-dirty-to-get-my-harem-episode-1.json) |
@@ -11103,6 +11106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tile-Throwing Legend: Mutsuki | 59382 | [59382-tile-throwing-legend-mutsuki.json](./59382-tile-throwing-legend-mutsuki.json) |
 | Tilebreaker | 368615 | [368615-tilebreaker.json](./368615-tilebreaker.json) |
 | Tileburg | 407598 | [407598-tileburg.json](./407598-tileburg.json) |
+| Tilecan | 333223 | [333223-tilecan.json](./333223-tilecan.json) |
 | Tilecraft | 221153 | [221153-tilecraft.json](./221153-tilecraft.json) |
 | Tiled Together | 326794 | [326794-tiled-together.json](./326794-tiled-together.json) |
 | TileDynasty FPS Arena | 90572 | [90572-tiledynasty-fps-arena.json](./90572-tiledynasty-fps-arena.json) |
@@ -11382,6 +11386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tina's Toy Factory | 59900 | [59900-tinas-toy-factory.json](./59900-tinas-toy-factory.json) |
 | Tinboy | 34507 | [34507-tinboy.json](./34507-tinboy.json) |
 | Tincan | 333076 | [333076-tincan.json](./333076-tincan.json) |
+| Tincan 2 | 333212 | [333212-tincan-2.json](./333212-tincan-2.json) |
 | Tincan HD | 333079 | [333079-tincan-hd.json](./333079-tincan-hd.json) |
 | Tincan Race | 383560 | [383560-tincan-race.json](./383560-tincan-race.json) |
 | Tincan! Escape | 85444 | [85444-tincan-escape.json](./85444-tincan-escape.json) |
