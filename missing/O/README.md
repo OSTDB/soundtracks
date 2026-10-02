@@ -1230,11 +1230,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Night You're Crazy | 61645 | [61645-one-night-youre-crazy.json](./61645-one-night-youre-crazy.json) |
 | One Night: Burlesque | 265106 | [265106-one-night-burlesque.json](./265106-one-night-burlesque.json) |
 | One Night: Burlesque - Amazing Edition | 313142 | [313142-one-night-burlesque-amazing-edition.json](./313142-one-night-burlesque-amazing-edition.json) |
+| One Night: Burlesque - Angels Pack | 324408 | [324408-one-night-burlesque-angels-pack.json](./324408-one-night-burlesque-angels-pack.json) |
 | One Night: Burlesque - Complete + | 324446 | [324446-one-night-burlesque-complete.json](./324446-one-night-burlesque-complete.json) |
 | One Night: Burlesque - Extended Edition | 283167 | [283167-one-night-burlesque-extended-edition.json](./283167-one-night-burlesque-extended-edition.json) |
 | One Night: Burlesque - GOTY Edition | 308790 | [308790-one-night-burlesque-goty-edition.json](./308790-one-night-burlesque-goty-edition.json) |
 | One Night: Burlesque - Magnificent Edition | 315857 | [315857-one-night-burlesque-magnificent-edition.json](./315857-one-night-burlesque-magnificent-edition.json) |
+| One Night: Burlesque - People Pack | 324403 | [324403-one-night-burlesque-people-pack.json](./324403-one-night-burlesque-people-pack.json) |
 | One Night: Burlesque - Premium Edition | 288283 | [288283-one-night-burlesque-premium-edition.json](./288283-one-night-burlesque-premium-edition.json) |
+| One Night: Burlesque - Sins Pack | 324391 | [324391-one-night-burlesque-sins-pack.json](./324391-one-night-burlesque-sins-pack.json) |
 | One Night: Burlesque - Superb Edition | 317246 | [317246-one-night-burlesque-superb-edition.json](./317246-one-night-burlesque-superb-edition.json) |
 | One Night: Burlesque - Ultimate Edition | 283168 | [283168-one-night-burlesque-ultimate-edition.json](./283168-one-night-burlesque-ultimate-edition.json) |
 | One Night: Young Bride for One Night | 341602 | [341602-one-night-young-bride-for-one-night.json](./341602-one-night-young-bride-for-one-night.json) |
