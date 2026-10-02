@@ -2482,6 +2482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from the Cannibal Family | 301246 | [301246-escape-from-the-cannibal-family.json](./301246-escape-from-the-cannibal-family.json) |
 | Escape From the Castle of Sad Ghosts | 181775 | [181775-escape-from-the-castle-of-sad-ghosts.json](./181775-escape-from-the-castle-of-sad-ghosts.json) |
 | Escape from the Collector | 262488 | [262488-escape-from-the-collector.json](./262488-escape-from-the-collector.json) |
+| Escape From The Core | 329046 | [329046-escape-from-the-core.json](./329046-escape-from-the-core.json) |
 | Escape From the Dark | 196285 | [196285-escape-from-the-dark.json](./196285-escape-from-the-dark.json) |
 | Escape From the Depth | 242050 | [242050-escape-from-the-depth.json](./242050-escape-from-the-depth.json) |
 | Escape From the Dragons | 111686 | [111686-escape-from-the-dragons.json](./111686-escape-from-the-dragons.json) |
