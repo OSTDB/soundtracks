@@ -1036,6 +1036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leaf Clicker: Grow Your Green Thumb! | 340908 | [340908-leaf-clicker-grow-your-green-thumb.json](./340908-leaf-clicker-grow-your-green-thumb.json) |
 | Leaf Me Alone | 408086 | [408086-leaf-me-alone.json](./408086-leaf-me-alone.json) |
 | Leaf on Wind | 149087 | [149087-leaf-on-wind.json](./149087-leaf-on-wind.json) |
+| Leaf Town | 302075 | [302075-leaf-town.json](./302075-leaf-town.json) |
 | Leaf Tree | 175791 | [175791-leaf-tree.json](./175791-leaf-tree.json) |
 | Leaf's Odyssey | 301354 | [301354-leafs-odyssey.json](./301354-leafs-odyssey.json) |
 | Leafing Home | 333006 | [333006-leafing-home.json](./333006-leafing-home.json) |
@@ -2918,6 +2919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Girl in Underland | 323733 | [323733-little-girl-in-underland.json](./323733-little-girl-in-underland.json) |
 | Little Gods | 244259 | [244259-little-gods.json](./244259-little-gods.json) |
 | Little Gods of the Abyss | 169434 | [169434-little-gods-of-the-abyss.json](./169434-little-gods-of-the-abyss.json) |
+| Little Green Frog | 302076 | [302076-little-green-frog.json](./302076-little-green-frog.json) |
 | Little Green Man | 55099 | [55099-little-green-man.json](./55099-little-green-man.json) |
 | Little Harvest | 254783 | [254783-little-harvest.json](./254783-little-harvest.json) |
 | Little Helper Cafe | 358353 | [358353-little-helper-cafe.json](./358353-little-helper-cafe.json) |
@@ -4753,6 +4755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LumberQwaxes | 154013 | [154013-lumberqwaxes.json](./154013-lumberqwaxes.json) |
 | LumberReborn | 217822 | [217822-lumberreborn.json](./217822-lumberreborn.json) |
 | Lumboo | 397093 | [397093-lumboo.json](./397093-lumboo.json) |
+| Lume | 302056 | [302056-lume.json](./302056-lume.json) |
 | Lume and the Shifting Void | 122952 | [122952-lume-and-the-shifting-void.json](./122952-lume-and-the-shifting-void.json) |
 | Lumeera and the Glow Reefs | 406803 | [406803-lumeera-and-the-glow-reefs.json](./406803-lumeera-and-the-glow-reefs.json) |
 | Lumen | 292608 | [292608-lumen.json](./292608-lumen.json) |
