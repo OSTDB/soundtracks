@@ -1703,6 +1703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Trial Tricky | 134783 | [134783-urban-trial-tricky.json](./134783-urban-trial-tricky.json) |
 | Urban Trial Tricky: Deluxe Edition | 152345 | [152345-urban-trial-tricky-deluxe-edition.json](./152345-urban-trial-tricky-deluxe-edition.json) |
 | Urban War Defense | 46591 | [46591-urban-war-defense.json](./46591-urban-war-defense.json) |
+| Urban Warfare: Assault | 308489 | [308489-urban-warfare-assault.json](./308489-urban-warfare-assault.json) |
 | Urbance Clans Card Battle! | 107879 | [107879-urbance-clans-card-battle.json](./107879-urbance-clans-card-battle.json) |
 | Urbano: Legends' Debut | 216853 | [216853-urbano-legends-debut.json](./216853-urbano-legends-debut.json) |
 | Urbek City Builder | 151535 | [151535-urbek-city-builder.json](./151535-urbek-city-builder.json) |
