@@ -58,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V696 | 186819 | [186819-v696.json](./186819-v696.json) |
 | V8 Challenge | 69886 | [69886-v8-challenge.json](./69886-v8-challenge.json) |
 | V8 Supercars 2 | 79836 | [79836-v8-supercars-2.json](./79836-v8-supercars-2.json) |
+| Vac Attack | 308488 | [308488-vac-attack.json](./308488-vac-attack.json) |
 | Vacancy Unlimited | 153956 | [153956-vacancy-unlimited.json](./153956-vacancy-unlimited.json) |
 | Vacant Ark | 266188 | [266188-vacant-ark.json](./266188-vacant-ark.json) |
 | Vacant Sky Vol. I: Contention | 83916 | [83916-vacant-sky-vol-i-contention.json](./83916-vacant-sky-vol-i-contention.json) |
@@ -742,6 +743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verdge | 377701 | [377701-verdge.json](./377701-verdge.json) |
 | Verdict | 166606 | [166606-verdict.json](./166606-verdict.json) |
 | Verdonia | 92446 | [92446-verdonia.json](./92446-verdonia.json) |
+| Verdoria's Kingdom Quest: Magic, Battles & Sorcery | 308485 | [308485-verdorias-kingdom-quest-magic-battles-and-sorcery.json](./308485-verdorias-kingdom-quest-magic-battles-and-sorcery.json) |
 | Verdun | 8036 | [8036-verdun.json](./8036-verdun.json) |
 | Verdungeon | 120215 | [120215-verdungeon.json](./120215-verdungeon.json) |
 | Verdungo | 149943 | [149943-verdungo.json](./149943-verdungo.json) |
@@ -1067,6 +1069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Farm | 396909 | [396909-viking-farm.json](./396909-viking-farm.json) |
 | Viking Fish | 318620 | [318620-viking-fish.json](./318620-viking-fish.json) |
 | Viking Frontiers | 286113 | [286113-viking-frontiers.json](./286113-viking-frontiers.json) |
+| Viking Heroes V: Collector's Edition | 308487 | [308487-viking-heroes-v-collectors-edition.json](./308487-viking-heroes-v-collectors-edition.json) |
 | Viking Idle | 172167 | [172167-viking-idle.json](./172167-viking-idle.json) |
 | Viking Invasion | 230864 | [230864-viking-invasion.json](./230864-viking-invasion.json) |
 | Viking Invasion | 67331 | [67331-viking-invasion.json](./67331-viking-invasion.json) |
