@@ -3601,6 +3601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flatlands | 349949 | [349949-flatlands.json](./349949-flatlands.json) |
 | Flatline | 168652 | [168652-flatline.json](./168652-flatline.json) |
 | FlatOut | 2667 | [2667-flatout.json](./2667-flatout.json) |
+| FlatOut | 313773 | [313773-flatout.json](./313773-flatout.json) |
 | FlatOut 3: Chaos & Destruction | 3778 | [3778-flatout-3-chaos-and-destruction.json](./3778-flatout-3-chaos-and-destruction.json) |
 | FlatOut 4: Total Insanity VR | 360782 | [360782-flatout-4-total-insanity-vr.json](./360782-flatout-4-total-insanity-vr.json) |
 | FlatOut 4: Total Insanity Workshop Tools | 90606 | [90606-flatout-4-total-insanity-workshop-tools.json](./90606-flatout-4-total-insanity-workshop-tools.json) |
@@ -5454,6 +5455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frankenstein 2000 | 57169 | [57169-frankenstein-2000.json](./57169-frankenstein-2000.json) |
 | Frankenstein: Beyond the Time | 103752 | [103752-frankenstein-beyond-the-time.json](./103752-frankenstein-beyond-the-time.json) |
 | Frankenstein: Birth of a Myth | 109569 | [109569-frankenstein-birth-of-a-myth.json](./109569-frankenstein-birth-of-a-myth.json) |
+| Frankenstein: Room Escape | 313761 | [313761-frankenstein-room-escape.json](./313761-frankenstein-room-escape.json) |
 | Frankenstein: The Village | 177050 | [177050-frankenstein-the-village.json](./177050-frankenstein-the-village.json) |
 | Frankenstein's Monster | 22763 | [22763-frankensteins-monster.json](./22763-frankensteins-monster.json) |
 | Frankenstories | 194289 | [194289-frankenstories.json](./194289-frankenstories.json) |
