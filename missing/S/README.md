@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.U.M. Slay Uncool Monsters: Rogue | 168251 | [168251-s-u-m-slay-uncool-monsters-rogue.json](./168251-s-u-m-slay-uncool-monsters-rogue.json) |
 | S.U.M. Slay Uncool Monsters: Wizard | 168249 | [168249-s-u-m-slay-uncool-monsters-wizard.json](./168249-s-u-m-slay-uncool-monsters-wizard.json) |
 | S.W.I.N.E. | 51224 | [51224-s-w-i-n-e.json](./51224-s-w-i-n-e.json) |
+| S.X.E. Slider | 298247 | [298247-s-x-e-slider.json](./298247-s-x-e-slider.json) |
 | S.X.E. Slider: Dungeons | 311617 | [311617-s-x-e-slider-dungeons.json](./311617-s-x-e-slider-dungeons.json) |
 | S0 | 129633 | [129633-s0.json](./129633-s0.json) |
 | S2: Silent Storm | 79956 | [79956-s2-silent-storm.json](./79956-s2-silent-storm.json) |
@@ -3696,6 +3697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaq Attaq | 94736 | [94736-shaq-attaq.json](./94736-shaq-attaq.json) |
 | Shaq Fu: A Legend Reborn | 51679 | [51679-shaq-fu-a-legend-reborn.json](./51679-shaq-fu-a-legend-reborn.json) |
 | Shaq-Fu | 8536 | [8536-shaq-fu.json](./8536-shaq-fu.json) |
+| Shaqing | 298281 | [298281-shaqing.json](./298281-shaqing.json) |
 | Shard of Kronos | 163967 | [163967-shard-of-kronos.json](./163967-shard-of-kronos.json) |
 | Shard of Spring | 2884 | [2884-shard-of-spring.json](./2884-shard-of-spring.json) |
 | Shard Squad | 323529 | [323529-shard-squad.json](./323529-shard-squad.json) |
@@ -5615,6 +5617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Singularity - Modern Lights Out | 128567 | [128567-singularity-modern-lights-out.json](./128567-singularity-modern-lights-out.json) |
 | Singularity Runner | 219678 | [219678-singularity-runner.json](./219678-singularity-runner.json) |
 | Singularity Shooter | 112728 | [112728-singularity-shooter.json](./112728-singularity-shooter.json) |
+| Singularity Survivors | 298245 | [298245-singularity-survivors.json](./298245-singularity-survivors.json) |
 | Singularium | 270124 | [270124-singularium.json](./270124-singularium.json) |
 | Singulier | 413634 | [413634-singulier.json](./413634-singulier.json) |
 | Sinij Parovoz | 301402 | [301402-sinij-parovoz.json](./301402-sinij-parovoz.json) |
@@ -5717,6 +5720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sirius 7 | 93516 | [93516-sirius-7.json](./93516-sirius-7.json) |
 | Sirius: Age of the Free Agents | 115075 | [115075-sirius-age-of-the-free-agents.json](./115075-sirius-age-of-the-free-agents.json) |
 | SirKwitz | 306336 | [306336-sirkwitz.json](./306336-sirkwitz.json) |
+| Sirocco | 298272 | [298272-sirocco.json](./298272-sirocco.json) |
 | Sister Lesson | 416016 | [416016-sister-lesson.json](./416016-sister-lesson.json) |
 | Sister Location: MA | 230756 | [230756-sister-location-ma.json](./230756-sister-location-ma.json) |
 | Sister Lumina and the Hypnosis Cult | 327395 | [327395-sister-lumina-and-the-hypnosis-cult.json](./327395-sister-lumina-and-the-hypnosis-cult.json) |
@@ -6482,6 +6486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleeping Gods Lie | 71585 | [71585-sleeping-gods-lie.json](./71585-sleeping-gods-lie.json) |
 | Sleeping Prince | 77966 | [77966-sleeping-prince.json](./77966-sleeping-prince.json) |
 | Sleeping Valley | 24960 | [24960-sleeping-valley.json](./24960-sleeping-valley.json) |
+| Sleeping With Sakuya Izayoi: ASMR DLC | 298255 | [298255-sleeping-with-sakuya-izayoi-asmr-dlc.json](./298255-sleeping-with-sakuya-izayoi-asmr-dlc.json) |
 | Sleeping With the Phish | 391178 | [391178-sleeping-with-the-phish.json](./391178-sleeping-with-the-phish.json) |
 | Sleeping: Counting Sheep | 321503 | [321503-sleeping-counting-sheep.json](./321503-sleeping-counting-sheep.json) |
 | SleepingPills | 383515 | [383515-sleepingpills.json](./383515-sleepingpills.json) |
@@ -6631,6 +6636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Evolutionary Path | 256516 | [256516-slime-evolutionary-path.json](./256516-slime-evolutionary-path.json) |
 | Slime Experiments | 265148 | [265148-slime-experiments.json](./265148-slime-experiments.json) |
 | Slime Factory | 367980 | [367980-slime-factory.json](./367980-slime-factory.json) |
+| Slime Farm | 298271 | [298271-slime-farm.json](./298271-slime-farm.json) |
 | Slime Flight: VIP | 95826 | [95826-slime-flight-vip.json](./95826-slime-flight-vip.json) |
 | Slime Garden | 104661 | [104661-slime-garden.json](./104661-slime-garden.json) |
 | Slime Guy | 348881 | [348881-slime-guy.json](./348881-slime-guy.json) |
@@ -7167,6 +7173,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SMW The Princess Rescue 2: Luigi's Journey! | 222889 | [222889-smw-the-princess-rescue-2-luigis-journey.json](./222889-smw-the-princess-rescue-2-luigis-journey.json) |
 | SMWLV | 267974 | [267974-smwlv.json](./267974-smwlv.json) |
 | SMYS: Classic | 292308 | [292308-smys-classic.json](./292308-smys-classic.json) |
+| SMYS: Classic - Costumes | 298253 | [298253-smys-classic-costumes.json](./298253-smys-classic-costumes.json) |
+| SMYS: Costumes | 298250 | [298250-smys-costumes.json](./298250-smys-costumes.json) |
 | SMYS: Crystal Blocks | 311088 | [311088-smys-crystal-blocks.json](./311088-smys-crystal-blocks.json) |
 | SMYS: Crystal Blocks | 311089 | [311089-smys-crystal-blocks.json](./311089-smys-crystal-blocks.json) |
 | SMYS: Gem Blocks | 311086 | [311086-smys-gem-blocks.json](./311086-smys-gem-blocks.json) |
@@ -11787,6 +11795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Escape | 135052 | [135052-star-escape.json](./135052-star-escape.json) |
 | Star Evil | 243936 | [243936-star-evil.json](./243936-star-evil.json) |
 | Star Exodus | 217306 | [217306-star-exodus.json](./217306-star-exodus.json) |
+| Star Fetchers: Escape from Pork Belly | 298240 | [298240-star-fetchers-escape-from-pork-belly.json](./298240-star-fetchers-escape-from-pork-belly.json) |
 | Star Fiction | 348276 | [348276-star-fiction.json](./348276-star-fiction.json) |
 | Star Fire | 408210 | [408210-star-fire.json](./408210-star-fire.json) |
 | Star Fire: Eternal Cycle | 316656 | [316656-star-fire-eternal-cycle.json](./316656-star-fire-eternal-cycle.json) |
@@ -16370,6 +16379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Spray n' Slay 3D | 184107 | [184107-super-spray-n-slay-3d.json](./184107-super-spray-n-slay-3d.json) |
 | Super Sprint | 217981 | [217981-super-sprint.json](./217981-super-sprint.json) |
 | Super Spy | 59500 | [59500-super-spy.json](./59500-super-spy.json) |
+| Super Spy Academy | 298269 | [298269-super-spy-academy.json](./298269-super-spy-academy.json) |
 | Super Spy Agents 3D | 197879 | [197879-super-spy-agents-3d.json](./197879-super-spy-agents-3d.json) |
 | Super Spy Violet | 335252 | [335252-super-spy-violet.json](./335252-super-spy-violet.json) |
 | Super Spyroxo Adventures: Island of Dnfoo | 211685 | [211685-super-spyroxo-adventures-island-of-dnfoo.json](./211685-super-spyroxo-adventures-island-of-dnfoo.json) |
@@ -16901,6 +16911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Zombies: The Inverted Evolution | 33575 | [33575-survival-zombies-the-inverted-evolution.json](./33575-survival-zombies-the-inverted-evolution.json) |
 | Survival Zone: Craft, Build & Grow | 336395 | [336395-survival-zone-craft-build-and-grow.json](./336395-survival-zone-craft-build-and-grow.json) |
 | Survival: Fountain of Youth - Captain's Edition | 317209 | [317209-survival-fountain-of-youth-captains-edition.json](./317209-survival-fountain-of-youth-captains-edition.json) |
+| Survival: Fountain of Youth - Sea Wolf Pack | 298249 | [298249-survival-fountain-of-youth-sea-wolf-pack.json](./298249-survival-fountain-of-youth-sea-wolf-pack.json) |
 | Survival: Revelation | 124225 | [124225-survival-revelation.json](./124225-survival-revelation.json) |
 | Survival: The Ultimate Challenge | 51243 | [51243-survival-the-ultimate-challenge.json](./51243-survival-the-ultimate-challenge.json) |
 | Survival: Wicked Forest | 102626 | [102626-survival-wicked-forest.json](./102626-survival-wicked-forest.json) |
