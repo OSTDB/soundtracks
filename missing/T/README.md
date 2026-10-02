@@ -6951,6 +6951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Neverhood | 2164 | [2164-the-neverhood.json](./2164-the-neverhood.json) |
 | The Neverwhere Tales : Book 1 | 275692 | [275692-the-neverwhere-tales-book-1.json](./275692-the-neverwhere-tales-book-1.json) |
 | The New Addams Family | 5345 | [5345-the-new-addams-family.json](./5345-the-new-addams-family.json) |
+| The New Apartment | 332567 | [332567-the-new-apartment.json](./332567-the-new-apartment.json) |
 | The New California | 61649 | [61649-the-new-california.json](./61649-the-new-california.json) |
 | The New Earth | 157540 | [157540-the-new-earth.json](./157540-the-new-earth.json) |
 | The New Girl | 96875 | [96875-the-new-girl.json](./96875-the-new-girl.json) |
@@ -13356,6 +13357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towers | 271222 | [271222-towers.json](./271222-towers.json) |
 | Towers & Goblins: The Last Stand | 290912 | [290912-towers-and-goblins-the-last-stand.json](./290912-towers-and-goblins-the-last-stand.json) |
 | Towers Heritage | 372465 | [372465-towers-heritage.json](./372465-towers-heritage.json) |
+| Towers II: Plight of the Stargazer | 332668 | [332668-towers-ii-plight-of-the-stargazer.json](./332668-towers-ii-plight-of-the-stargazer.json) |
 | Towers II: Plight of the Stargazer | 71222 | [71222-towers-ii-plight-of-the-stargazer.json](./71222-towers-ii-plight-of-the-stargazer.json) |
 | Towers Inc. | 166607 | [166607-towers-inc.json](./166607-towers-inc.json) |
 | Towers of Aghasba | 250636 | [250636-towers-of-aghasba.json](./250636-towers-of-aghasba.json) |
