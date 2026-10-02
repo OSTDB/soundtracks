@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I am Jesus | 57681 | [57681-i-am-jesus.json](./57681-i-am-jesus.json) |
 | I am Jesus Christ: Christ's Revenge | 240732 | [240732-i-am-jesus-christ-christs-revenge.json](./240732-i-am-jesus-christ-christs-revenge.json) |
 | I Am Kilt | 291247 | [291247-i-am-kilt.json](./291247-i-am-kilt.json) |
+| I Am Legion: Stand Survivors | 319664 | [319664-i-am-legion-stand-survivors.json](./319664-i-am-legion-stand-survivors.json) |
 | I Am Level | 267956 | [267956-i-am-level.json](./267956-i-am-level.json) |
 | I am Machine | 371877 | [371877-i-am-machine.json](./371877-i-am-machine.json) |
 | I Am Monkey | 372054 | [372054-i-am-monkey.json](./372054-i-am-monkey.json) |
@@ -619,6 +620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ID-Ego | 125359 | [125359-id-ego.json](./125359-id-ego.json) |
 | ID4 Mission Disk 2: Alien Science Officer | 78005 | [78005-id4-mission-disk-2-alien-science-officer.json](./78005-id4-mission-disk-2-alien-science-officer.json) |
 | iDate Reborn | 384190 | [384190-idate-reborn.json](./384190-idate-reborn.json) |
+| Ide Yosuke no Mahjong Kazoku 2 | 319695 | [319695-ide-yosuke-no-mahjong-kazoku-2.json](./319695-ide-yosuke-no-mahjong-kazoku-2.json) |
 | Idea | 204951 | [204951-idea.json](./204951-idea.json) |
 | Ideabookroom | 348443 | [348443-ideabookroom.json](./348443-ideabookroom.json) |
 | Ideabox | 125953 | [125953-ideabox.json](./125953-ideabox.json) |
@@ -2532,6 +2534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interwoven | 204970 | [204970-interwoven.json](./204970-interwoven.json) |
 | Interwoven Dream | 357811 | [357811-interwoven-dream.json](./357811-interwoven-dream.json) |
 | Intesa Vincente | 341899 | [341899-intesa-vincente.json](./341899-intesa-vincente.json) |
+| Inti Creates Gold Archive Collection | 319667 | [319667-inti-creates-gold-archive-collection.json](./319667-inti-creates-gold-archive-collection.json) |
 | Intimate Abode | 302475 | [302475-intimate-abode.json](./302475-intimate-abode.json) |
 | Intimate, Infinite | 134009 | [134009-intimate-infinite.json](./134009-intimate-infinite.json) |
 | Intlovert Game Club | 342756 | [342756-intlovert-game-club.json](./342756-intlovert-game-club.json) |
