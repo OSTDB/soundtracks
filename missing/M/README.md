@@ -3231,6 +3231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazewar | 381593 | [381593-mazewar.json](./381593-mazewar.json) |
 | MazezaM: Puzzle Game | 147358 | [147358-mazezam-puzzle-game.json](./147358-mazezam-puzzle-game.json) |
 | Maziacs | 93136 | [93136-maziacs.json](./93136-maziacs.json) |
+| Mazie | 296038 | [296038-mazie.json](./296038-mazie.json) |
 | Mazin Saga: Mutant Fighter | 36947 | [36947-mazin-saga-mutant-fighter.json](./36947-mazin-saga-mutant-fighter.json) |
 | Mazinger Z | 153841 | [153841-mazinger-z.json](./153841-mazinger-z.json) |
 | Mazy | 385576 | [385576-mazy.json](./385576-mazy.json) |
@@ -6969,6 +6970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB Home Run Derby 18 | 96055 | [96055-mlb-home-run-derby-18.json](./96055-mlb-home-run-derby-18.json) |
 | MLB Home Run Derby 2020 | 133805 | [133805-mlb-home-run-derby-2020.json](./133805-mlb-home-run-derby-2020.json) |
 | MLB Home Run Derby VR | 293378 | [293378-mlb-home-run-derby-vr.json](./293378-mlb-home-run-derby-vr.json) |
+| MLB Live Challenge | 296032 | [296032-mlb-live-challenge.json](./296032-mlb-live-challenge.json) |
 | MLB Manager 2015 | 279628 | [279628-mlb-manager-2015.json](./279628-mlb-manager-2015.json) |
 | MLB Manager 2018 | 96270 | [96270-mlb-manager-2018.json](./96270-mlb-manager-2018.json) |
 | MLB Perfect Inning | 323161 | [323161-mlb-perfect-inning.json](./323161-mlb-perfect-inning.json) |
@@ -8453,6 +8455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 11: Kollector's Edition | 136267 | [136267-mortal-kombat-11-kollectors-edition.json](./136267-mortal-kombat-11-kollectors-edition.json) |
 | Mortal Kombat 11: Kombat Pack | 133278 | [133278-mortal-kombat-11-kombat-pack.json](./133278-mortal-kombat-11-kombat-pack.json) |
 | Mortal Kombat 11: Kombat Pack 2 | 139445 | [139445-mortal-kombat-11-kombat-pack-2.json](./139445-mortal-kombat-11-kombat-pack-2.json) |
+| Mortal Kombat 11: Masquerade Skin Pack | 296025 | [296025-mortal-kombat-11-masquerade-skin-pack.json](./296025-mortal-kombat-11-masquerade-skin-pack.json) |
 | Mortal Kombat 11: Mileena | 139442 | [139442-mortal-kombat-11-mileena.json](./139442-mortal-kombat-11-mileena.json) |
 | Mortal Kombat 11: Ninja Mime Johnny Cage | 406880 | [406880-mortal-kombat-11-ninja-mime-johnny-cage.json](./406880-mortal-kombat-11-ninja-mime-johnny-cage.json) |
 | Mortal Kombat 11: Rain | 139443 | [139443-mortal-kombat-11-rain.json](./139443-mortal-kombat-11-rain.json) |
@@ -8490,6 +8493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat X: Apocalypse Pack | 302667 | [302667-mortal-kombat-x-apocalypse-pack.json](./302667-mortal-kombat-x-apocalypse-pack.json) |
 | Mortal Kombat X: Blue Steel Sub-Zero | 304364 | [304364-mortal-kombat-x-blue-steel-sub-zero.json](./304364-mortal-kombat-x-blue-steel-sub-zero.json) |
 | Mortal Kombat X: Brazil Pack | 304366 | [304366-mortal-kombat-x-brazil-pack.json](./304366-mortal-kombat-x-brazil-pack.json) |
+| Mortal Kombat X: Cosplay Pack | 296024 | [296024-mortal-kombat-x-cosplay-pack.json](./296024-mortal-kombat-x-cosplay-pack.json) |
 | Mortal Kombat X: Klassic Fatalities 1 | 339949 | [339949-mortal-kombat-x-klassic-fatalities-1.json](./339949-mortal-kombat-x-klassic-fatalities-1.json) |
 | Mortal Kombat X: Klassic Fatalities 2 | 340022 | [340022-mortal-kombat-x-klassic-fatalities-2.json](./340022-mortal-kombat-x-klassic-fatalities-2.json) |
 | Mortal Kombat X: Kold War Scorpion | 340201 | [340201-mortal-kombat-x-kold-war-scorpion.json](./340201-mortal-kombat-x-kold-war-scorpion.json) |
