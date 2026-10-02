@@ -16995,6 +16995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Calamity | 350587 | [350587-sweet-calamity.json](./350587-sweet-calamity.json) |
 | Sweet Camping | 368521 | [368521-sweet-camping.json](./368521-sweet-camping.json) |
 | Sweet Candy Mahjong | 31055 | [31055-sweet-candy-mahjong.json](./31055-sweet-candy-mahjong.json) |
+| Sweet Cards | 323239 | [323239-sweet-cards.json](./323239-sweet-cards.json) |
 | Sweet Casino | 339470 | [339470-sweet-casino.json](./339470-sweet-casino.json) |
 | Sweet Casino 2 | 385251 | [385251-sweet-casino-2.json](./385251-sweet-casino-2.json) |
 | Sweet Cheerleaders | 339469 | [339469-sweet-cheerleaders.json](./339469-sweet-cheerleaders.json) |
