@@ -1592,6 +1592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Come | 307043 | [307043-castle-come.json](./307043-castle-come.json) |
 | Castle Corp | 280332 | [280332-castle-corp.json](./280332-castle-corp.json) |
 | Castle Crashers: Blacksmith Pack | 170863 | [170863-castle-crashers-blacksmith-pack.json](./170863-castle-crashers-blacksmith-pack.json) |
+| Castle Crashers: Painter Boss Paradise | 310640 | [310640-castle-crashers-painter-boss-paradise.json](./310640-castle-crashers-painter-boss-paradise.json) |
 | Castle Crashers: Pink Knight Pack | 170864 | [170864-castle-crashers-pink-knight-pack.json](./170864-castle-crashers-pink-knight-pack.json) |
 | Castle Creeps Battle | 105908 | [105908-castle-creeps-battle.json](./105908-castle-creeps-battle.json) |
 | Castle Creeps TD | 106963 | [106963-castle-creeps-td.json](./106963-castle-creeps-td.json) |
@@ -3492,6 +3493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Children's Jigsaw Puzzles: Beautifully Illustrated - Expansion Pack | 225859 | [225859-childrens-jigsaw-puzzles-beautifully-illustrated-expansion-pack.json](./225859-childrens-jigsaw-puzzles-beautifully-illustrated-expansion-pack.json) |
 | Chilie Peppers | 82004 | [82004-chilie-peppers.json](./82004-chilie-peppers.json) |
 | Chill | 79608 | [79608-chill.json](./79608-chill.json) |
+| Chill Corner: Extras | 310653 | [310653-chill-corner-extras.json](./310653-chill-corner-extras.json) |
 | Chill Drive | 330387 | [330387-chill-drive.json](./330387-chill-drive.json) |
 | Chill Fishing | 337457 | [337457-chill-fishing.json](./337457-chill-fishing.json) |
 | Chill of Death's: Breath | 269280 | [269280-chill-of-deaths-breath.json](./269280-chill-of-deaths-breath.json) |
@@ -8982,6 +8984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crysis 3 Remastered | 165127 | [165127-crysis-3-remastered.json](./165127-crysis-3-remastered.json) |
 | Crysis 3: Digital Deluxe Edition | 52850 | [52850-crysis-3-digital-deluxe-edition.json](./52850-crysis-3-digital-deluxe-edition.json) |
 | Crysis 3: Hunter Edition | 46635 | [46635-crysis-3-hunter-edition.json](./46635-crysis-3-hunter-edition.json) |
+| Crysis Maximum Edition | 310642 | [310642-crysis-maximum-edition.json](./310642-crysis-maximum-edition.json) |
 | Crysis Remastered | 132164 | [132164-crysis-remastered.json](./132164-crysis-remastered.json) |
 | Crysis Remastered Trilogy | 150564 | [150564-crysis-remastered-trilogy.json](./150564-crysis-remastered-trilogy.json) |
 | Crysis Trilogy | 52852 | [52852-crysis-trilogy.json](./52852-crysis-trilogy.json) |
