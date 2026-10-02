@@ -2160,6 +2160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Cats: Ice Cream Day | 360648 | [360648-secret-cats-ice-cream-day.json](./360648-secret-cats-ice-cream-day.json) |
 | Secret Cats: Spooky | 320316 | [320316-secret-cats-spooky.json](./320316-secret-cats-spooky.json) |
 | Secret Cats: Spooky | 393712 | [393712-secret-cats-spooky.json](./393712-secret-cats-spooky.json) |
+| Secret Cats: Spring Festival | 329765 | [329765-secret-cats-spring-festival.json](./329765-secret-cats-spring-festival.json) |
 | Secret Cats: Zoo | 315300 | [315300-secret-cats-zoo.json](./315300-secret-cats-zoo.json) |
 | Secret City: Chalk of Fate - Collector's Edition | 129214 | [129214-secret-city-chalk-of-fate-collectors-edition.json](./129214-secret-city-chalk-of-fate-collectors-edition.json) |
 | Secret Collect. | 135848 | [135848-secret-collect.json](./135848-secret-collect.json) |
@@ -7278,6 +7279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Assassin 4 | 316088 | [316088-sniper-assassin-4.json](./316088-sniper-assassin-4.json) |
 | Sniper Assassin 5: Final Mission | 316090 | [316090-sniper-assassin-5-final-mission.json](./316090-sniper-assassin-5-final-mission.json) |
 | Sniper Assault | 66932 | [66932-sniper-assault.json](./66932-sniper-assault.json) |
+| Sniper at Work | 329764 | [329764-sniper-at-work.json](./329764-sniper-at-work.json) |
 | Sniper Blacklist | 34465 | [34465-sniper-blacklist.json](./34465-sniper-blacklist.json) |
 | Sniper Elite 3: Camouflage Weapons Pack | 254534 | [254534-sniper-elite-3-camouflage-weapons-pack.json](./254534-sniper-elite-3-camouflage-weapons-pack.json) |
 | Sniper Elite 4 | 18366 | [18366-sniper-elite-4.json](./18366-sniper-elite-4.json) |
@@ -14817,6 +14819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Brawl Universe | 125347 | [125347-super-brawl-universe.json](./125347-super-brawl-universe.json) |
 | Super Breakout | 239502 | [239502-super-breakout.json](./239502-super-breakout.json) |
 | Super Breakout Ultra | 64401 | [64401-super-breakout-ultra.json](./64401-super-breakout-ultra.json) |
+| Super Breakout: Evolved | 329632 | [329632-super-breakout-evolved.json](./329632-super-breakout-evolved.json) |
 | Super Bros. 8 | 163222 | [163222-super-bros-8.json](./163222-super-bros-8.json) |
 | Super Brothers Escape | 213384 | [213384-super-brothers-escape.json](./213384-super-brothers-escape.json) |
 | Super Bubble 2003 | 267979 | [267979-super-bubble-2003.json](./267979-super-bubble-2003.json) |
