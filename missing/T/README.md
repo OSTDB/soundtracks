@@ -4641,8 +4641,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Farnese Hercules | 203308 | [203308-the-farnese-hercules.json](./203308-the-farnese-hercules.json) |
 | The Farside of Titan | 274182 | [274182-the-farside-of-titan.json](./274182-the-farside-of-titan.json) |
 | The Fast and the Flirtatious: LA Drift | 304626 | [304626-the-fast-and-the-flirtatious-la-drift.json](./304626-the-fast-and-the-flirtatious-la-drift.json) |
+| The Fast and the Furious | 301501 | [301501-the-fast-and-the-furious.json](./301501-the-fast-and-the-furious.json) |
 | The Fast and The Furious | 152308 | [152308-the-fast-and-the-furious.json](./152308-the-fast-and-the-furious.json) |
 | The Fast and The Furious | 21383 | [21383-the-fast-and-the-furious.json](./21383-the-fast-and-the-furious.json) |
+| The Fast and the Furious & 2 Fast 2 Furious | 301503 | [301503-the-fast-and-the-furious-and-2-fast-2-furious.json](./301503-the-fast-and-the-furious-and-2-fast-2-furious.json) |
 | The Fast Journey | 276309 | [276309-the-fast-journey.json](./276309-the-fast-journey.json) |
 | The Fate of Baldr | 211209 | [211209-the-fate-of-baldr.json](./211209-the-fate-of-baldr.json) |
 | The Fate of the Pharaoh | 100188 | [100188-the-fate-of-the-pharaoh.json](./100188-the-fate-of-the-pharaoh.json) |
@@ -6291,6 +6293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Dungeons of Infinity | 316720 | [316720-the-legend-of-zelda-dungeons-of-infinity.json](./316720-the-legend-of-zelda-dungeons-of-infinity.json) |
 | The Legend of Zelda: Echoes of Aurelia | 323202 | [323202-the-legend-of-zelda-echoes-of-aurelia.json](./323202-the-legend-of-zelda-echoes-of-aurelia.json) |
 | The Legend of Zelda: Echoes of Wisdom | 306149 | [306149-the-legend-of-zelda-echoes-of-wisdom.json](./306149-the-legend-of-zelda-echoes-of-wisdom.json) |
+| The Legend of Zelda: Era of Decline | 301519 | [301519-the-legend-of-zelda-era-of-decline.json](./301519-the-legend-of-zelda-era-of-decline.json) |
 | The Legend of Zelda: Four Swords | 163572 | [163572-the-legend-of-zelda-four-swords.json](./163572-the-legend-of-zelda-four-swords.json) |
 | The Legend of Zelda: Four Swords Online | 323278 | [323278-the-legend-of-zelda-four-swords-online.json](./323278-the-legend-of-zelda-four-swords-online.json) |
 | The Legend of Zelda: Fourth Quest | 150079 | [150079-the-legend-of-zelda-fourth-quest.json](./150079-the-legend-of-zelda-fourth-quest.json) |
@@ -6774,6 +6777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Master's Pupil | 211813 | [211813-the-masters-pupil.json](./211813-the-masters-pupil.json) |
 | The Masters of Kin | 40360 | [40360-the-masters-of-kin.json](./40360-the-masters-of-kin.json) |
 | The Masters: Survival | 188571 | [188571-the-masters-survival.json](./188571-the-masters-survival.json) |
+| The Match | 301545 | [301545-the-match.json](./301545-the-match.json) |
 | The Match Golf | 402918 | [402918-the-match-golf.json](./402918-the-match-golf.json) |
 | The Matchless KungFu | 164874 | [164874-the-matchless-kungfu.json](./164874-the-matchless-kungfu.json) |
 | The Math Problem Killer | 257997 | [257997-the-math-problem-killer.json](./257997-the-math-problem-killer.json) |
@@ -7587,6 +7591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quintessential Quintuplets: Five Promises Made With Her | 243630 | [243630-the-quintessential-quintuplets-five-promises-made-with-her.json](./243630-the-quintessential-quintuplets-five-promises-made-with-her.json) |
 | The Quintessential Quintuplets: Gotopazu Story | 284393 | [284393-the-quintessential-quintuplets-gotopazu-story.json](./284393-the-quintessential-quintuplets-gotopazu-story.json) |
 | The Quintessential Quintuplets: Gotopazu Story 2nd | 299466 | [299466-the-quintessential-quintuplets-gotopazu-story-2nd.json](./299466-the-quintessential-quintuplets-gotopazu-story-2nd.json) |
+| The Quintessential Quintuplets: Memories of a Quintessential Summer | 301514 | [301514-the-quintessential-quintuplets-memories-of-a-quintessential-summer.json](./301514-the-quintessential-quintuplets-memories-of-a-quintessential-summer.json) |
 | The Quintessential Quintuplets: Omoide VR - Itsuki | 211734 | [211734-the-quintessential-quintuplets-omoide-vr-itsuki.json](./211734-the-quintessential-quintuplets-omoide-vr-itsuki.json) |
 | The Quintessential Quintuplets: Omoide VR - Yotsuba | 243776 | [243776-the-quintessential-quintuplets-omoide-vr-yotsuba.json](./243776-the-quintessential-quintuplets-omoide-vr-yotsuba.json) |
 | The Quintessential Quintuplets: The Quintuplets Can't Divide the Puzzle Into Five Equal Parts | 194029 | [194029-the-quintessential-quintuplets-the-quintuplets-cant-divide-the-puzzle-into-five-equal-parts.json](./194029-the-quintessential-quintuplets-the-quintuplets-cant-divide-the-puzzle-into-five-equal-parts.json) |
@@ -10341,6 +10346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tic-Tac-Toast | 233078 | [233078-tic-tac-toast.json](./233078-tic-tac-toast.json) |
 | Tic-Tac-Toe | 88434 | [88434-tic-tac-toe.json](./88434-tic-tac-toe.json) |
 | Tic-Tac-Toe - Two Players | 95561 | [95561-tic-tac-toe-two-players.json](./95561-tic-tac-toe-two-players.json) |
+| Tic-Tac-Toe Bolt | 301538 | [301538-tic-tac-toe-bolt.json](./301538-tic-tac-toe-bolt.json) |
 | Tic-Tac-Toe for Kids | 103678 | [103678-tic-tac-toe-for-kids.json](./103678-tic-tac-toe-for-kids.json) |
 | Tic-Tac-Toe Star | 240187 | [240187-tic-tac-toe-star.json](./240187-tic-tac-toe-star.json) |
 | Tic-Tac-Touch: FS5 | 72628 | [72628-tic-tac-touch-fs5.json](./72628-tic-tac-touch-fs5.json) |
@@ -11772,6 +11778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tip | 362987 | [362987-tip.json](./362987-tip.json) |
 | Tip & Tumble | 232384 | [232384-tip-and-tumble.json](./232384-tip-and-tumble.json) |
 | Tip Top Deluxe | 206219 | [206219-tip-top-deluxe.json](./206219-tip-top-deluxe.json) |
+| Tip Top Table Tennis | 301537 | [301537-tip-top-table-tennis.json](./301537-tip-top-table-tennis.json) |
 | Tip Top: Don't Fall! | 217814 | [217814-tip-top-dont-fall.json](./217814-tip-top-dont-fall.json) |
 | Tip-Toeing Around an Empty House | 374173 | [374173-tip-toeing-around-an-empty-house.json](./374173-tip-toeing-around-an-empty-house.json) |
 | Tip-Up Ice Fishing | 178578 | [178578-tip-up-ice-fishing.json](./178578-tip-up-ice-fishing.json) |
@@ -12081,6 +12088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toc | 183004 | [183004-toc.json](./183004-toc.json) |
 | Toca Boca Hair Salon 4 | 380522 | [380522-toca-boca-hair-salon-4.json](./380522-toca-boca-hair-salon-4.json) |
 | TOCA Championship Racing | 8000 | [8000-toca-championship-racing.json](./8000-toca-championship-racing.json) |
+| Toca Hair Salon 3 | 301546 | [301546-toca-hair-salon-3.json](./301546-toca-hair-salon-3.json) |
 | Toca Hair Salon: Christmas Gift | 351756 | [351756-toca-hair-salon-christmas-gift.json](./351756-toca-hair-salon-christmas-gift.json) |
 | Toca Life World | 126005 | [126005-toca-life-world.json](./126005-toca-life-world.json) |
 | Toca Pisadinha | 237621 | [237621-toca-pisadinha.json](./237621-toca-pisadinha.json) |
@@ -14911,6 +14919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Drop: Complete Edition | 385211 | [385211-treasure-drop-complete-edition.json](./385211-treasure-drop-complete-edition.json) |
 | Treasure Forest Clicker | 350494 | [350494-treasure-forest-clicker.json](./350494-treasure-forest-clicker.json) |
 | Treasure Gear | 130357 | [130357-treasure-gear.json](./130357-treasure-gear.json) |
+| Treasure Guardian: Collector Shift Defender's Saga | 301536 | [301536-treasure-guardian-collector-shift-defenders-saga.json](./301536-treasure-guardian-collector-shift-defenders-saga.json) |
 | Treasure Hunt | 12969 | [12969-treasure-hunt.json](./12969-treasure-hunt.json) |
 | Treasure Hunt | 208892 | [208892-treasure-hunt.json](./208892-treasure-hunt.json) |
 | Treasure Hunt | 246370 | [246370-treasure-hunt.json](./246370-treasure-hunt.json) |
@@ -15589,6 +15598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trucks and Things That Go Puzzle Game | 109022 | [109022-trucks-and-things-that-go-puzzle-game.json](./109022-trucks-and-things-that-go-puzzle-game.json) |
 | Trucksform3d Offroad 3D Shooting Bigfoot Endless Racing Truck | 102825 | [102825-trucksform3d-offroad-3d-shooting-bigfoot-endless-racing-truck.json](./102825-trucksform3d-offroad-3d-shooting-bigfoot-endless-racing-truck.json) |
 | Trucky McTruckface | 399132 | [399132-trucky-mctruckface.json](./399132-trucky-mctruckface.json) |
+| Truckz Racing | 301515 | [301515-truckz-racing.json](./301515-truckz-racing.json) |
 | Truckzilla: Monster Truck Mega Ramp Mania | 269051 | [269051-truckzilla-monster-truck-mega-ramp-mania.json](./269051-truckzilla-monster-truck-mega-ramp-mania.json) |
 | Truco | 193408 | [193408-truco.json](./193408-truco.json) |
 | Truco | 212888 | [212888-truco.json](./212888-truco.json) |
@@ -16268,6 +16278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twist: Majapahit | 214625 | [214625-twist-majapahit.json](./214625-twist-majapahit.json) |
 | Twisted | 30260 | [30260-twisted.json](./30260-twisted.json) |
 | Twisted Citadel | 182526 | [182526-twisted-citadel.json](./182526-twisted-citadel.json) |
+| Twisted Detective | 301488 | [301488-twisted-detective.json](./301488-twisted-detective.json) |
 | Twisted Draw | 199649 | [199649-twisted-draw.json](./199649-twisted-draw.json) |
 | Twisted Edge Extreme Snowboarding | 3622 | [3622-twisted-edge-extreme-snowboarding.json](./3622-twisted-edge-extreme-snowboarding.json) |
 | Twisted Insurrection | 219009 | [219009-twisted-insurrection.json](./219009-twisted-insurrection.json) |
