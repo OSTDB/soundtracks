@@ -2245,6 +2245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insertion | 274187 | [274187-insertion.json](./274187-insertion.json) |
 | Inside | 266747 | [266747-inside.json](./266747-inside.json) |
 | Inside | 80481 | [80481-inside.json](./80481-inside.json) |
+| Inside a Dead Skyscraper | 316687 | [316687-inside-a-dead-skyscraper.json](./316687-inside-a-dead-skyscraper.json) |
 | Inside Explorer | 148966 | [148966-inside-explorer.json](./148966-inside-explorer.json) |
 | Inside Her Bedroom | 391827 | [391827-inside-her-bedroom.json](./391827-inside-her-bedroom.json) |
 | Inside Intruder | 329564 | [329564-inside-intruder.json](./329564-inside-intruder.json) |
