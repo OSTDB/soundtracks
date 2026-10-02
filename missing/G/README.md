@@ -3630,7 +3630,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granblue Fantasy Versus: Rising - Additional Character: Versusia | 332230 | [332230-granblue-fantasy-versus-rising-additional-character-versusia.json](./332230-granblue-fantasy-versus-rising-additional-character-versusia.json) |
 | Granblue Fantasy Versus: Rising - Additional Character: Vikala | 332231 | [332231-granblue-fantasy-versus-rising-additional-character-vikala.json](./332231-granblue-fantasy-versus-rising-additional-character-vikala.json) |
 | Granblue Fantasy Versus: Rising - Additional Character: Wilnas | 373630 | [373630-granblue-fantasy-versus-rising-additional-character-wilnas.json](./373630-granblue-fantasy-versus-rising-additional-character-wilnas.json) |
+| Granblue Fantasy Versus: Rising - Character Costume Lady Serenity (Katalina) | 332666 | [332666-granblue-fantasy-versus-rising-character-costume-lady-serenity-katalina.json](./332666-granblue-fantasy-versus-rising-character-costume-lady-serenity-katalina.json) |
 | Granblue Fantasy Versus: Rising - Character Costume Unadulterated Amour Belial | 373628 | [373628-granblue-fantasy-versus-rising-character-costume-unadulterated-amour-belial.json](./373628-granblue-fantasy-versus-rising-character-costume-unadulterated-amour-belial.json) |
+| Granblue Fantasy Versus: Rising - Color Set 4 | 332667 | [332667-granblue-fantasy-versus-rising-color-set-4.json](./332667-granblue-fantasy-versus-rising-color-set-4.json) |
 | Granblue Fantasy Versus: Rising - Color Set 5 | 334145 | [334145-granblue-fantasy-versus-rising-color-set-5.json](./334145-granblue-fantasy-versus-rising-color-set-5.json) |
 | Granblue Fantasy Versus: Rising - Color Set 6 | 334146 | [334146-granblue-fantasy-versus-rising-color-set-6.json](./334146-granblue-fantasy-versus-rising-color-set-6.json) |
 | Granblue Fantasy Versus: Rising - Color Set Battle Pass Pack 1 | 334147 | [334147-granblue-fantasy-versus-rising-color-set-battle-pass-pack-1.json](./334147-granblue-fantasy-versus-rising-color-set-battle-pass-pack-1.json) |
@@ -3649,6 +3651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granblue Fantasy: Relink - Emote Expansion Set: Grab Bag | 312002 | [312002-granblue-fantasy-relink-emote-expansion-set-grab-bag.json](./312002-granblue-fantasy-relink-emote-expansion-set-grab-bag.json) |
 | Granblue Fantasy: Relink - Emote Expansion Set: I Work Out | 305779 | [305779-granblue-fantasy-relink-emote-expansion-set-i-work-out.json](./305779-granblue-fantasy-relink-emote-expansion-set-i-work-out.json) |
 | Granblue Fantasy: Versus | 113378 | [113378-granblue-fantasy-versus.json](./113378-granblue-fantasy-versus.json) |
+| Granblue Fantasy: Versus - Lobby Avatar (Gold Ship) | 332665 | [332665-granblue-fantasy-versus-lobby-avatar-gold-ship.json](./332665-granblue-fantasy-versus-lobby-avatar-gold-ship.json) |
 | Grand Academy for Future Villains | 67914 | [67914-grand-academy-for-future-villains.json](./67914-grand-academy-for-future-villains.json) |
 | Grand Ages: Rome | 8395 | [8395-grand-ages-rome.json](./8395-grand-ages-rome.json) |
 | Grand Attrition | 173044 | [173044-grand-attrition.json](./173044-grand-attrition.json) |
@@ -4880,6 +4883,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear Xrd 2: Character Colors Ky Kiske | 342874 | [342874-guilty-gear-xrd-2-character-colors-ky-kiske.json](./342874-guilty-gear-xrd-2-character-colors-ky-kiske.json) |
 | Guilty Gear Xrd 2: Character Colors Leo Whitefang | 342875 | [342875-guilty-gear-xrd-2-character-colors-leo-whitefang.json](./342875-guilty-gear-xrd-2-character-colors-leo-whitefang.json) |
 | Guilty Gear Xrd Rev 2: Additional Character Color Eclipse (for Answer & Baiken) | 409066 | [409066-guilty-gear-xrd-rev-2-additional-character-color-eclipse-for-answer-and-baiken.json](./409066-guilty-gear-xrd-rev-2-additional-character-color-eclipse-for-answer-and-baiken.json) |
+| Guilty Gear Xrd Rev 2: Character Colors - Elphelt Valentine | 332586 | [332586-guilty-gear-xrd-rev-2-character-colors-elphelt-valentine.json](./332586-guilty-gear-xrd-rev-2-character-colors-elphelt-valentine.json) |
+| Guilty Gear Xrd Rev 2: Character Colors - Faust | 332584 | [332584-guilty-gear-xrd-rev-2-character-colors-faust.json](./332584-guilty-gear-xrd-rev-2-character-colors-faust.json) |
+| Guilty Gear Xrd Rev 2: Character Colors - Johnny | 332585 | [332585-guilty-gear-xrd-rev-2-character-colors-johnny.json](./332585-guilty-gear-xrd-rev-2-character-colors-johnny.json) |
 | Guilty Gear Xrd: Rev 2 - Character Colors Zato-One | 344378 | [344378-guilty-gear-xrd-rev-2-character-colors-zato-one.json](./344378-guilty-gear-xrd-rev-2-character-colors-zato-one.json) |
 | Guilty Gear Xrd: Revelator | 13620 | [13620-guilty-gear-xrd-revelator.json](./13620-guilty-gear-xrd-revelator.json) |
 | Guilty Gear Xrd: Revelator - Additional Playable Character Kum Haehyun | 409067 | [409067-guilty-gear-xrd-revelator-additional-playable-character-kum-haehyun.json](./409067-guilty-gear-xrd-revelator-additional-playable-character-kum-haehyun.json) |
@@ -4887,6 +4893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear Xrd: Revelator - Deluxe Edition | 82089 | [82089-guilty-gear-xrd-revelator-deluxe-edition.json](./82089-guilty-gear-xrd-revelator-deluxe-edition.json) |
 | Guilty Gear Xrd: Revelator - Let's Rock! Edition | 89928 | [89928-guilty-gear-xrd-revelator-lets-rock-edition.json](./89928-guilty-gear-xrd-revelator-lets-rock-edition.json) |
 | Guilty Gear Xrd: Sign - Character Colors Christmas Set | 315513 | [315513-guilty-gear-xrd-sign-character-colors-christmas-set.json](./315513-guilty-gear-xrd-sign-character-colors-christmas-set.json) |
+| Guilty Gear Xrd: Sign - Character Colors PlayStation Plus Set | 332655 | [332655-guilty-gear-xrd-sign-character-colors-playstation-plus-set.json](./332655-guilty-gear-xrd-sign-character-colors-playstation-plus-set.json) |
 | Guilty Gear XX Accent Core | 9145 | [9145-guilty-gear-xx-accent-core.json](./9145-guilty-gear-xx-accent-core.json) |
 | Guilty Gear XX Slash | 9144 | [9144-guilty-gear-xx-slash.json](./9144-guilty-gear-xx-slash.json) |
 | Guilty Gear: Strive - Additional Battle Stage: Amber Fest with Kind Neighbors | 299723 | [299723-guilty-gear-strive-additional-battle-stage-amber-fest-with-kind-neighbors.json](./299723-guilty-gear-strive-additional-battle-stage-amber-fest-with-kind-neighbors.json) |
