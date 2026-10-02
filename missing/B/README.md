@@ -878,6 +878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bana Simulator | 252984 | [252984-bana-simulator.json](./252984-bana-simulator.json) |
 | Banan Abanan | 417658 | [417658-banan-abanan.json](./417658-banan-abanan.json) |
 | Banana | 305277 | [305277-banana.json](./305277-banana.json) |
+| Banana | 305441 | [305441-banana.json](./305441-banana.json) |
 | Banana | 95469 | [95469-banana.json](./95469-banana.json) |
 | Banana 2: Fruit | 314429 | [314429-banana-2-fruit.json](./314429-banana-2-fruit.json) |
 | Banana 3D | 338190 | [338190-banana-3d.json](./338190-banana-3d.json) |
@@ -1487,6 +1488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball | 297486 | [297486-baseball.json](./297486-baseball.json) |
 | Baseball | 300004 | [300004-baseball.json](./300004-baseball.json) |
 | Baseball | 305278 | [305278-baseball.json](./305278-baseball.json) |
+| Baseball | 305459 | [305459-baseball.json](./305459-baseball.json) |
 | Baseball | 324978 | [324978-baseball.json](./324978-baseball.json) |
 | Baseball | 7580 | [7580-baseball.json](./7580-baseball.json) |
 | Baseball | 7581 | [7581-baseball.json](./7581-baseball.json) |
@@ -2932,6 +2934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before We Leave | 120878 | [120878-before-we-leave.json](./120878-before-we-leave.json) |
 | Before You Depart | 252817 | [252817-before-you-depart.json](./252817-before-you-depart.json) |
 | Before You Die | 185434 | [185434-before-you-die.json](./185434-before-you-die.json) |
+| Before Your Eyes | 305472 | [305472-before-your-eyes.json](./305472-before-your-eyes.json) |
 | Before Your Eyes | 91477 | [91477-before-your-eyes.json](./91477-before-your-eyes.json) |
 | Befriendus | 179700 | [179700-befriendus.json](./179700-befriendus.json) |
 | Beggar Simulator: Istanbul | 413815 | [413815-beggar-simulator-istanbul.json](./413815-beggar-simulator-istanbul.json) |
@@ -6065,6 +6068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Disposer | 210638 | [210638-bomb-disposer.json](./210638-bomb-disposer.json) |
 | Bomb Farm | 413917 | [413917-bomb-farm.json](./413917-bomb-farm.json) |
 | Bomb Fight | 305297 | [305297-bomb-fight.json](./305297-bomb-fight.json) |
+| Bomb Fight | 305460 | [305460-bomb-fight.json](./305460-bomb-fight.json) |
 | Bomb Hero 3D | 175735 | [175735-bomb-hero-3d.json](./175735-bomb-hero-3d.json) |
 | Bomb Heroes | 97499 | [97499-bomb-heroes.json](./97499-bomb-heroes.json) |
 | Bomb Hunter MT | 95185 | [95185-bomb-hunter-mt.json](./95185-bomb-hunter-mt.json) |
