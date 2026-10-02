@@ -4198,6 +4198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinmai Kyoushi | 320835 | [320835-shinmai-kyoushi.json](./320835-shinmai-kyoushi.json) |
 | ShinNaZuki | 355196 | [355196-shinnazuki.json](./355196-shinnazuki.json) |
 | Shinobi | 10223 | [10223-shinobi.json](./10223-shinobi.json) |
+| Shinobi | 307860 | [307860-shinobi.json](./307860-shinobi.json) |
 | Shinobi | 309488 | [309488-shinobi.json](./309488-shinobi.json) |
 | Shinobi Breaker | 169844 | [169844-shinobi-breaker.json](./169844-shinobi-breaker.json) |
 | Shinobi Match | 332845 | [332845-shinobi-match.json](./332845-shinobi-match.json) |
@@ -5972,6 +5973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skincrawlers | 230292 | [230292-skincrawlers.json](./230292-skincrawlers.json) |
 | Skinfreak | 370337 | [370337-skinfreak.json](./370337-skinfreak.json) |
 | Skingdom | 398555 | [398555-skingdom.json](./398555-skingdom.json) |
+| Skinless The Horror Story Quest | 307870 | [307870-skinless-the-horror-story-quest.json](./307870-skinless-the-horror-story-quest.json) |
 | Skinner & The Superintendent | 245930 | [245930-skinner-and-the-superintendent.json](./245930-skinner-and-the-superintendent.json) |
 | Skinny | 111768 | [111768-skinny.json](./111768-skinny.json) |
 | Skinny & Franko: Fists of Violence | 215900 | [215900-skinny-and-franko-fists-of-violence.json](./215900-skinny-and-franko-fists-of-violence.json) |
@@ -9128,6 +9130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul of the Ultimate Nation | 51196 | [51196-soul-of-the-ultimate-nation.json](./51196-soul-of-the-ultimate-nation.json) |
 | Soul of War: Legions | 263992 | [263992-soul-of-war-legions.json](./263992-soul-of-war-legions.json) |
 | Soul Orb | 9650 | [9650-soul-orb.json](./9650-soul-orb.json) |
+| Soul Park | 307846 | [307846-soul-park.json](./307846-soul-park.json) |
 | Soul Passage | 236542 | [236542-soul-passage.json](./236542-soul-passage.json) |
 | Soul Reaper | 128464 | [128464-soul-reaper.json](./128464-soul-reaper.json) |
 | Soul Rebellion | 108071 | [108071-soul-rebellion.json](./108071-soul-rebellion.json) |
@@ -10924,6 +10927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob and the Pit of 100 Trials | 341664 | [341664-spongebob-and-the-pit-of-100-trials.json](./341664-spongebob-and-the-pit-of-100-trials.json) |
 | SpongeBob Big Guy Challenge | 382339 | [382339-spongebob-big-guy-challenge.json](./382339-spongebob-big-guy-challenge.json) |
 | Spongebob Boat-O-Cross | 235316 | [235316-spongebob-boat-o-cross.json](./235316-spongebob-boat-o-cross.json) |
+| Spongebob Boo or Boom | 307863 | [307863-spongebob-boo-or-boom.json](./307863-spongebob-boo-or-boom.json) |
 | SpongeBob GameStation | 196552 | [196552-spongebob-gamestation.json](./196552-spongebob-gamestation.json) |
 | SpongeBob HeroPants | 8474 | [8474-spongebob-heropants.json](./8474-spongebob-heropants.json) |
 | SpongeBob in Run For The Krusty Krab | 382779 | [382779-spongebob-in-run-for-the-krusty-krab.json](./382779-spongebob-in-run-for-the-krusty-krab.json) |
@@ -10935,6 +10939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants Boating School | 382924 | [382924-spongebob-squarepants-boating-school.json](./382924-spongebob-squarepants-boating-school.json) |
 | SpongeBob SquarePants Bowling | 23599 | [23599-spongebob-squarepants-bowling.json](./23599-spongebob-squarepants-bowling.json) |
 | SpongeBob SquarePants Bubble Ball | 382921 | [382921-spongebob-squarepants-bubble-ball.json](./382921-spongebob-squarepants-bubble-ball.json) |
+| SpongeBob SquarePants Bubble Rush! | 307852 | [307852-spongebob-squarepants-bubble-rush.json](./307852-spongebob-squarepants-bubble-rush.json) |
 | SpongeBob SquarePants Bubblegram | 382926 | [382926-spongebob-squarepants-bubblegram.json](./382926-spongebob-squarepants-bubblegram.json) |
 | SpongeBob SquarePants Saves the Krusty Krab | 135810 | [135810-spongebob-squarepants-saves-the-krusty-krab.json](./135810-spongebob-squarepants-saves-the-krusty-krab.json) |
 | SpongeBob SquarePants Talking Heads | 382919 | [382919-spongebob-squarepants-talking-heads.json](./382919-spongebob-squarepants-talking-heads.json) |
@@ -10951,6 +10956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: Fists of Foam | 230401 | [230401-spongebob-squarepants-fists-of-foam.json](./230401-spongebob-squarepants-fists-of-foam.json) |
 | SpongeBob SquarePants: Flip or Flop | 273123 | [273123-spongebob-squarepants-flip-or-flop.json](./273123-spongebob-squarepants-flip-or-flop.json) |
 | SpongeBob SquarePants: Four Squared | 288190 | [288190-spongebob-squarepants-four-squared.json](./288190-spongebob-squarepants-four-squared.json) |
+| SpongeBob Squarepants: Idea Sponge | 307851 | [307851-spongebob-squarepants-idea-sponge.json](./307851-spongebob-squarepants-idea-sponge.json) |
 | SpongeBob SquarePants: JellyFish Dodge | 220116 | [220116-spongebob-squarepants-jellyfish-dodge.json](./220116-spongebob-squarepants-jellyfish-dodge.json) |
 | SpongeBob SquarePants: JellyFish Dodge | 220118 | [220118-spongebob-squarepants-jellyfish-dodge.json](./220118-spongebob-squarepants-jellyfish-dodge.json) |
 | SpongeBob SquarePants: Krabby Quest | 141000 | [141000-spongebob-squarepants-krabby-quest.json](./141000-spongebob-squarepants-krabby-quest.json) |
@@ -11010,6 +11016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Manor | 62422 | [62422-spooky-manor.json](./62422-spooky-manor.json) |
 | Spooky Milk Life | 208631 | [208631-spooky-milk-life.json](./208631-spooky-milk-life.json) |
 | Spooky Murder House | 369242 | [369242-spooky-murder-house.json](./369242-spooky-murder-house.json) |
+| Spooky Pixel Hero | 307816 | [307816-spooky-pixel-hero.json](./307816-spooky-pixel-hero.json) |
 | Spooky Season | 361696 | [361696-spooky-season.json](./361696-spooky-season.json) |
 | Spooky Shelter | 242228 | [242228-spooky-shelter.json](./242228-spooky-shelter.json) |
 | Spooky Shooter 3D | 186802 | [186802-spooky-shooter-3d.json](./186802-spooky-shooter-3d.json) |
