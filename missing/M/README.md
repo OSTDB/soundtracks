@@ -4092,6 +4092,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megasuki!: Kanojo to Boku no Megane Jijou - Toono Shiori-hen | 416603 | [416603-megasuki-kanojo-to-boku-no-megane-jijou-toono-shiori-hen.json](./416603-megasuki-kanojo-to-boku-no-megane-jijou-toono-shiori-hen.json) |
 | Megatack | 38576 | [38576-megatack.json](./38576-megatack.json) |
 | Megaton | 322080 | [322080-megaton.json](./322080-megaton.json) |
+| Megaton Musashi W: Fashionable Pack Vol. 1 | 300939 | [300939-megaton-musashi-w-fashionable-pack-vol-1.json](./300939-megaton-musashi-w-fashionable-pack-vol-1.json) |
+| Megaton Musashi W: Fashionable Pack Vol. 2 | 300940 | [300940-megaton-musashi-w-fashionable-pack-vol-2.json](./300940-megaton-musashi-w-fashionable-pack-vol-2.json) |
+| Megaton Musashi W: Fashionable Pack Vol. 3 | 300942 | [300942-megaton-musashi-w-fashionable-pack-vol-3.json](./300942-megaton-musashi-w-fashionable-pack-vol-3.json) |
+| Megaton Musashi W: Fashionable Pack Vol. 4 | 300941 | [300941-megaton-musashi-w-fashionable-pack-vol-4.json](./300941-megaton-musashi-w-fashionable-pack-vol-4.json) |
+| Megaton Musashi W: Riding Board Color Set | 300922 | [300922-megaton-musashi-w-riding-board-color-set.json](./300922-megaton-musashi-w-riding-board-color-set.json) |
+| Megaton Musashi W: Riding Board Effect Set 1 | 300920 | [300920-megaton-musashi-w-riding-board-effect-set-1.json](./300920-megaton-musashi-w-riding-board-effect-set-1.json) |
+| Megaton Musashi W: Riding Board Effect Set 2 | 300921 | [300921-megaton-musashi-w-riding-board-effect-set-2.json](./300921-megaton-musashi-w-riding-board-effect-set-2.json) |
 | Megaton Musashi W: V Navigator "Dragon" | 301016 | [301016-megaton-musashi-w-v-navigator-dragon.json](./301016-megaton-musashi-w-v-navigator-dragon.json) |
 | Megaton Musashi W: V Navigator "Jibanyan" | 301014 | [301014-megaton-musashi-w-v-navigator-jibanyan.json](./301014-megaton-musashi-w-v-navigator-jibanyan.json) |
 | Megaton Musashi W: V Navigator "Korone Inugami" | 301015 | [301015-megaton-musashi-w-v-navigator-korone-inugami.json](./301015-megaton-musashi-w-v-navigator-korone-inugami.json) |
@@ -6889,6 +6896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mixx Island: Remix Plus - Magnificent Edition | 294830 | [294830-mixx-island-remix-plus-magnificent-edition.json](./294830-mixx-island-remix-plus-magnificent-edition.json) |
 | Mixx Island: Remix Plus - Superb Edition | 298573 | [298573-mixx-island-remix-plus-superb-edition.json](./298573-mixx-island-remix-plus-superb-edition.json) |
 | Mixx Island: Remix Plus - Ultra Definitive | 316274 | [316274-mixx-island-remix-plus-ultra-definitive.json](./316274-mixx-island-remix-plus-ultra-definitive.json) |
+| Mixx Island: Remix Plus - Ultra Deluxe | 300935 | [300935-mixx-island-remix-plus-ultra-deluxe.json](./300935-mixx-island-remix-plus-ultra-deluxe.json) |
 | Mixx Island: Remix Plus - Ultra Legendary | 324449 | [324449-mixx-island-remix-plus-ultra-legendary.json](./324449-mixx-island-remix-plus-ultra-legendary.json) |
 | Mixx Island: Remix Plus - Ultra Special | 308820 | [308820-mixx-island-remix-plus-ultra-special.json](./308820-mixx-island-remix-plus-ultra-special.json) |
 | Mixx Island: Remix Vol. 2 | 186316 | [186316-mixx-island-remix-vol-2.json](./186316-mixx-island-remix-vol-2.json) |
@@ -10005,8 +10013,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Horse Farm: Welcome to Trotterville | 206775 | [206775-my-horse-farm-welcome-to-trotterville.json](./206775-my-horse-farm-welcome-to-trotterville.json) |
 | My Horse Prince | 26786 | [26786-my-horse-prince.json](./26786-my-horse-prince.json) |
 | My Horse Stories | 300847 | [300847-my-horse-stories.json](./300847-my-horse-stories.json) |
+| My Horse Stories: Fancy | 300931 | [300931-my-horse-stories-fancy.json](./300931-my-horse-stories-fancy.json) |
 | My Horse Stories: Gold Edition | 385205 | [385205-my-horse-stories-gold-edition.json](./385205-my-horse-stories-gold-edition.json) |
+| My Horse Stories: Summer | 300932 | [300932-my-horse-stories-summer.json](./300932-my-horse-stories-summer.json) |
 | My Horse Stories: Sunny Edition | 308807 | [308807-my-horse-stories-sunny-edition.json](./308807-my-horse-stories-sunny-edition.json) |
+| My Horse Stories: Winter | 300933 | [300933-my-horse-stories-winter.json](./300933-my-horse-stories-winter.json) |
 | My Hospital Town | 299209 | [299209-my-hospital-town.json](./299209-my-hospital-town.json) |
 | My Hotel | 199122 | [199122-my-hotel.json](./199122-my-hotel.json) |
 | My Hotel Romance | 298900 | [298900-my-hotel-romance.json](./298900-my-hotel-romance.json) |
@@ -10293,6 +10304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Therapy | 207540 | [207540-my-therapy.json](./207540-my-therapy.json) |
 | My Time at Portia | 43165 | [43165-my-time-at-portia.json](./43165-my-time-at-portia.json) |
 | My Time at Portia: Deluxe Edition | 224111 | [224111-my-time-at-portia-deluxe-edition.json](./224111-my-time-at-portia-deluxe-edition.json) |
+| My Time at Portia: Housewarming Gift Set | 300930 | [300930-my-time-at-portia-housewarming-gift-set.json](./300930-my-time-at-portia-housewarming-gift-set.json) |
 | My Time at Sandrock: Builder's Beach and Ball Clothing Pack | 275107 | [275107-my-time-at-sandrock-builders-beach-and-ball-clothing-pack.json](./275107-my-time-at-sandrock-builders-beach-and-ball-clothing-pack.json) |
 | My Time at Sandrock: Builders Beach and Ball Clothing Pack | 275057 | [275057-my-time-at-sandrock-builders-beach-and-ball-clothing-pack.json](./275057-my-time-at-sandrock-builders-beach-and-ball-clothing-pack.json) |
 | My Time at Sandrock: Cute Critter Furniture Pack | 275076 | [275076-my-time-at-sandrock-cute-critter-furniture-pack.json](./275076-my-time-at-sandrock-cute-critter-furniture-pack.json) |
