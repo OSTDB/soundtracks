@@ -7589,6 +7589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astronot | 22270 | [22270-astronot.json](./22270-astronot.json) |
 | Astropark | 353380 | [353380-astropark.json](./353380-astropark.json) |
 | Astrophidia | 409682 | [409682-astrophidia.json](./409682-astrophidia.json) |
+| Astropocalypse | 289033 | [289033-astropocalypse.json](./289033-astropocalypse.json) |
 | Astropods: Starside Glaze | 316076 | [316076-astropods-starside-glaze.json](./316076-astropods-starside-glaze.json) |
 | AstroRunner | 272858 | [272858-astrorunner.json](./272858-astrorunner.json) |
 | AstroScaper | 337774 | [337774-astroscaper.json](./337774-astroscaper.json) |
