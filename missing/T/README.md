@@ -1873,6 +1873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teletubbies: My First App | 342650 | [342650-teletubbies-my-first-app.json](./342650-teletubbies-my-first-app.json) |
 | Teletubbies: Oooh! - Tinky Winky's Bag of Fun | 325258 | [325258-teletubbies-oooh-tinky-winkys-bag-of-fun.json](./325258-teletubbies-oooh-tinky-winkys-bag-of-fun.json) |
 | Teletubbies: Po's Daily Adventures | 101965 | [101965-teletubbies-pos-daily-adventures.json](./101965-teletubbies-pos-daily-adventures.json) |
+| Teletubbies: Sliding Down the Hill | 307840 | [307840-teletubbies-sliding-down-the-hill.json](./307840-teletubbies-sliding-down-the-hill.json) |
 | Teletubes: Electronic Pet | 314644 | [314644-teletubes-electronic-pet.json](./314644-teletubes-electronic-pet.json) |
 | Telf AG | 287781 | [287781-telf-ag.json](./287781-telf-ag.json) |
 | Tell a Demon | 51599 | [51599-tell-a-demon.json](./51599-tell-a-demon.json) |
@@ -6718,6 +6719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mammoth: A Cave Painting | 75768 | [75768-the-mammoth-a-cave-painting.json](./75768-the-mammoth-a-cave-painting.json) |
 | The Man Called Merc | 55045 | [55045-the-man-called-merc.json](./55045-the-man-called-merc.json) |
 | The Man from the Window 2 | 272352 | [272352-the-man-from-the-window-2.json](./272352-the-man-from-the-window-2.json) |
+| The Man in the Fields | 307850 | [307850-the-man-in-the-fields.json](./307850-the-man-in-the-fields.json) |
 | The Man Outside | 323396 | [323396-the-man-outside.json](./323396-the-man-outside.json) |
 | The Man Who Killed Time | 59681 | [59681-the-man-who-killed-time.json](./59681-the-man-who-killed-time.json) |
 | The Man Who Walked | 374051 | [374051-the-man-who-walked.json](./374051-the-man-who-walked.json) |
@@ -7705,6 +7707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Restless Dead | 87304 | [87304-the-restless-dead.json](./87304-the-restless-dead.json) |
 | The Restless Resort | 271987 | [271987-the-restless-resort.json](./271987-the-restless-resort.json) |
 | The Restless Sheep & The Lone Wolf: A Tale of Cutthroat Lovers | 307070 | [307070-the-restless-sheep-and-the-lone-wolf-a-tale-of-cutthroat-lovers.json](./307070-the-restless-sheep-and-the-lone-wolf-a-tale-of-cutthroat-lovers.json) |
+| The Restless Sheep & The Lone Wolf: Woolly Eyes Gaiden | 307842 | [307842-the-restless-sheep-and-the-lone-wolf-woolly-eyes-gaiden.json](./307842-the-restless-sheep-and-the-lone-wolf-woolly-eyes-gaiden.json) |
 | The Restricted Archive | 273870 | [273870-the-restricted-archive.json](./273870-the-restricted-archive.json) |
 | The Restricted Index | 398539 | [398539-the-restricted-index.json](./398539-the-restricted-index.json) |
 | The Resurrected | 366314 | [366314-the-resurrected.json](./366314-the-resurrected.json) |
@@ -9018,6 +9021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trump | 124087 | [124087-the-trump.json](./124087-the-trump.json) |
 | The Truth of a Snowy Night | 340955 | [340955-the-truth-of-a-snowy-night.json](./340955-the-truth-of-a-snowy-night.json) |
 | The Tsar's Secret | 209475 | [209475-the-tsars-secret.json](./209475-the-tsars-secret.json) |
+| The Tubby Custard Bubble Game | 307841 | [307841-the-tubby-custard-bubble-game.json](./307841-the-tubby-custard-bubble-game.json) |
 | The Tudors | 10986 | [10986-the-tudors.json](./10986-the-tudors.json) |
 | The Tuesday Collection | 331403 | [331403-the-tuesday-collection.json](./331403-the-tuesday-collection.json) |
 | The Tumor | 348448 | [348448-the-tumor.json](./348448-the-tumor.json) |
@@ -10371,6 +10375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tideborne | 378363 | [378363-tideborne.json](./378363-tideborne.json) |
 | Tideborne Haven | 402429 | [402429-tideborne-haven.json](./402429-tideborne-haven.json) |
 | Tides of Existence | 126504 | [126504-tides-of-existence.json](./126504-tides-of-existence.json) |
+| Tides of Tethys | 307832 | [307832-tides-of-tethys.json](./307832-tides-of-tethys.json) |
 | Tides of the Endless | 345037 | [345037-tides-of-the-endless.json](./345037-tides-of-the-endless.json) |
 | Tides of Time | 215096 | [215096-tides-of-time.json](./215096-tides-of-time.json) |
 | Tides of Time: The Board Game | 175284 | [175284-tides-of-time-the-board-game.json](./175284-tides-of-time-the-board-game.json) |
@@ -12651,6 +12656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toon Roads: Superbike | 308490 | [308490-toon-roads-superbike.json](./308490-toon-roads-superbike.json) |
 | Toon Shooters the Freelancers | 57193 | [57193-toon-shooters-the-freelancers.json](./57193-toon-shooters-the-freelancers.json) |
 | Toon Tanks | 84947 | [84947-toon-tanks.json](./84947-toon-tanks.json) |
+| Toon Troops Strategy | 307868 | [307868-toon-troops-strategy.json](./307868-toon-troops-strategy.json) |
 | Toon War | 86238 | [86238-toon-war.json](./86238-toon-war.json) |
 | Toon Wars: Tank Battles | 87898 | [87898-toon-wars-tank-battles.json](./87898-toon-wars-tank-battles.json) |
 | Toon-Doku | 20700 | [20700-toon-doku.json](./20700-toon-doku.json) |
@@ -12895,6 +12901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Extreme Wrestling 2008 | 73010 | [73010-total-extreme-wrestling-2008.json](./73010-total-extreme-wrestling-2008.json) |
 | Total Extreme Wrestling 2016 | 27681 | [27681-total-extreme-wrestling-2016.json](./27681-total-extreme-wrestling-2016.json) |
 | Total Extreme Wrestling 2020 | 134545 | [134545-total-extreme-wrestling-2020.json](./134545-total-extreme-wrestling-2020.json) |
+| Total Extreme Wrestling IX | 307862 | [307862-total-extreme-wrestling-ix.json](./307862-total-extreme-wrestling-ix.json) |
 | Total Football | 46184 | [46184-total-football.json](./46184-total-football.json) |
 | Total Football Management | 94320 | [94320-total-football-management.json](./94320-total-football-management.json) |
 | Total Football Online | 406683 | [406683-total-football-online.json](./406683-total-football-online.json) |
@@ -15791,6 +15798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TU-46 | 120876 | [120876-tu-46.json](./120876-tu-46.json) |
 | TU-95 | 120877 | [120877-tu-95.json](./120877-tu-95.json) |
 | Tub Sub | 180584 | [180584-tub-sub.json](./180584-tub-sub.json) |
+| Tubby Toast | 307839 | [307839-tubby-toast.json](./307839-tubby-toast.json) |
 | Tubby's Wonderful Town | 382751 | [382751-tubbys-wonderful-town.json](./382751-tubbys-wonderful-town.json) |
 | Tube Adventures | 19443 | [19443-tube-adventures.json](./19443-tube-adventures.json) |
 | Tube Adventures Offline Collection 1-3 | 186742 | [186742-tube-adventures-offline-collection-1-3.json](./186742-tube-adventures-offline-collection-1-3.json) |
