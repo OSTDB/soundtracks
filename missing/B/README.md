@@ -459,7 +459,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies | 19902 | [19902-bad-piggies.json](./19902-bad-piggies.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
 | Bad Rats Show | 27510 | [27510-bad-rats-show.json](./27510-bad-rats-show.json) |
@@ -847,6 +846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bally Hoo | 91436 | [91436-bally-hoo.json](./91436-bally-hoo.json) |
 | Bally Jump | 293174 | [293174-bally-jump.json](./293174-bally-jump.json) |
 | Bally Pin | 130870 | [130870-bally-pin.json](./130870-bally-pin.json) |
+| Ballz | 305983 | [305983-ballz.json](./305983-ballz.json) |
 | BallZ | 230914 | [230914-ballz.json](./230914-ballz.json) |
 | Ballz Deep | 245286 | [245286-ballz-deep.json](./245286-ballz-deep.json) |
 | Ballz Drop | 105795 | [105795-ballz-drop.json](./105795-ballz-drop.json) |
@@ -5754,6 +5754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlueSkies | 250907 | [250907-blueskies.json](./250907-blueskies.json) |
 | Bluesky Map Jam | 330805 | [330805-bluesky-map-jam.json](./330805-bluesky-map-jam.json) |
 | BlueSuburbia | 252235 | [252235-bluesuburbia.json](./252235-bluesuburbia.json) |
+| BlueTooth BiPlanes | 305991 | [305991-bluetooth-biplanes.json](./305991-bluetooth-biplanes.json) |
 | BlueTricks | 237087 | [237087-bluetricks.json](./237087-bluetricks.json) |
 | Bluevolution | 149419 | [149419-bluevolution.json](./149419-bluevolution.json) |
 | Bluewater: Private Military Operations VR | 190066 | [190066-bluewater-private-military-operations-vr.json](./190066-bluewater-private-military-operations-vr.json) |
