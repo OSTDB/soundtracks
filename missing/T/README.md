@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tabletopia: Wizard Kittens + Magical Monsters Expansion | 162883 | [162883-tabletopia-wizard-kittens-magical-monsters-expansion.json](./162883-tabletopia-wizard-kittens-magical-monsters-expansion.json) |
 | Tabletopia: Zoom In Barcelona | 162898 | [162898-tabletopia-zoom-in-barcelona.json](./162898-tabletopia-zoom-in-barcelona.json) |
 | Tabloid Beauties | 201265 | [201265-tabloid-beauties.json](./201265-tabloid-beauties.json) |
+| Taboo Trial: 5.0 Weapon And Dark Gold | 311716 | [311716-taboo-trial-5-0-weapon-and-dark-gold.json](./311716-taboo-trial-5-0-weapon-and-dark-gold.json) |
 | Taboo Trial: Deluxe Edition | 315850 | [315850-taboo-trial-deluxe-edition.json](./315850-taboo-trial-deluxe-edition.json) |
 | Taboo Trial: Skadi | 270780 | [270780-taboo-trial-skadi.json](./270780-taboo-trial-skadi.json) |
 | Taboo Trial: Skuld | 270781 | [270781-taboo-trial-skuld.json](./270781-taboo-trial-skuld.json) |
@@ -236,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tag Team Match M.U.S.C.L.E. | 73788 | [73788-tag-team-match-m-u-s-c-l-e.json](./73788-tag-team-match-m-u-s-c-l-e.json) |
 | Tag Team Wrestling | 286612 | [286612-tag-team-wrestling.json](./286612-tag-team-wrestling.json) |
 | Tag War VR | 336904 | [336904-tag-war-vr.json](./336904-tag-war-vr.json) |
+| Tag-Along Todd | 311703 | [311703-tag-along-todd.json](./311703-tag-along-todd.json) |
 | Tag: The Power of Paint | 101055 | [101055-tag-the-power-of-paint.json](./101055-tag-the-power-of-paint.json) |
 | Tag! You're Dead | 358987 | [358987-tag-youre-dead.json](./358987-tag-youre-dead.json) |
 | Tag.Io | 129726 | [129726-tag-io.json](./129726-tag-io.json) |
@@ -2764,6 +2766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Bunny and Pig | 265127 | [265127-the-adventures-of-bunny-and-pig.json](./265127-the-adventures-of-bunny-and-pig.json) |
 | The Adventures of Busy Billy | 206207 | [206207-the-adventures-of-busy-billy.json](./206207-the-adventures-of-busy-billy.json) |
 | The Adventures of Capitano Navarro | 51512 | [51512-the-adventures-of-capitano-navarro.json](./51512-the-adventures-of-capitano-navarro.json) |
+| The Adventures of Captain Becky | 311710 | [311710-the-adventures-of-captain-becky.json](./311710-the-adventures-of-captain-becky.json) |
 | The Adventures of Captain Potato | 107396 | [107396-the-adventures-of-captain-potato.json](./107396-the-adventures-of-captain-potato.json) |
 | The Adventures of Clive McMulligan on Planet Zeta Four | 94774 | [94774-the-adventures-of-clive-mcmulligan-on-planet-zeta-four.json](./94774-the-adventures-of-clive-mcmulligan-on-planet-zeta-four.json) |
 | The Adventures of Crackhead Jack: Overdose Edition | 141156 | [141156-the-adventures-of-crackhead-jack-overdose-edition.json](./141156-the-adventures-of-crackhead-jack-overdose-edition.json) |
@@ -5114,6 +5117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Greater | 301342 | [301342-the-greater.json](./301342-the-greater.json) |
 | The Greatest Chef | 322098 | [322098-the-greatest-chef.json](./322098-the-greatest-chef.json) |
 | The Greatest Game in the World | 182975 | [182975-the-greatest-game-in-the-world.json](./182975-the-greatest-game-in-the-world.json) |
+| The Green Book | 311569 | [311569-the-green-book.json](./311569-the-green-book.json) |
 | The Green Hook Fighter | 377075 | [377075-the-green-hook-fighter.json](./377075-the-green-hook-fighter.json) |
 | The Green Light | 211743 | [211743-the-green-light.json](./211743-the-green-light.json) |
 | The Green Room Experiment: Episode 1 | 232432 | [232432-the-green-room-experiment-episode-1.json](./232432-the-green-room-experiment-episode-1.json) |
@@ -10058,6 +10062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Kingdoms: Legends of Heroes | 108406 | [108406-three-kingdoms-legends-of-heroes.json](./108406-three-kingdoms-legends-of-heroes.json) |
 | Three Kingdoms: Shu-han Chronicles | 345028 | [345028-three-kingdoms-shu-han-chronicles.json](./345028-three-kingdoms-shu-han-chronicles.json) |
 | Three Kingdoms: The Last Warlord - The Age of Turbulence | 171574 | [171574-three-kingdoms-the-last-warlord-the-age-of-turbulence.json](./171574-three-kingdoms-the-last-warlord-the-age-of-turbulence.json) |
+| Three Kingdoms: Zhuge Liang | 311712 | [311712-three-kingdoms-zhuge-liang.json](./311712-three-kingdoms-zhuge-liang.json) |
 | Three Legions: Erosion of the Abyss | 346569 | [346569-three-legions-erosion-of-the-abyss.json](./346569-three-legions-erosion-of-the-abyss.json) |
 | Three Lesbians in a Barrow | 134524 | [134524-three-lesbians-in-a-barrow.json](./134524-three-lesbians-in-a-barrow.json) |
 | Three life | 106399 | [106399-three-life.json](./106399-three-life.json) |
@@ -12519,6 +12524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tongari Boushi to Oshare na Mahou Tsukai | 109054 | [109054-tongari-boushi-to-oshare-na-mahou-tsukai.json](./109054-tongari-boushi-to-oshare-na-mahou-tsukai.json) |
 | TongTong | 340026 | [340026-tongtong.json](./340026-tongtong.json) |
 | Tongue of Dog | 355084 | [355084-tongue-of-dog.json](./355084-tongue-of-dog.json) |
+| Tongueman's Logic | 311704 | [311704-tonguemans-logic.json](./311704-tonguemans-logic.json) |
 | Toni Island Adventure | 288198 | [288198-toni-island-adventure.json](./288198-toni-island-adventure.json) |
 | Tonic Tile | 57319 | [57319-tonic-tile.json](./57319-tonic-tile.json) |
 | Tonic Trouble | 249127 | [249127-tonic-trouble.json](./249127-tonic-trouble.json) |
