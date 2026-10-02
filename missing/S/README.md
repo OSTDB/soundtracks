@@ -11540,9 +11540,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stalked | 163313 | [163313-stalked.json](./163313-stalked.json) |
 | Stalked in Solitude | 334257 | [334257-stalked-in-solitude.json](./334257-stalked-in-solitude.json) |
 | Stalker 1: Path of Fire | 63351 | [63351-stalker-1-path-of-fire.json](./63351-stalker-1-path-of-fire.json) |
+| Stalker 2 | 314379 | [314379-stalker-2.json](./314379-stalker-2.json) |
 | Stalker Defender Bunker 3D | 89238 | [89238-stalker-defender-bunker-3d.json](./89238-stalker-defender-bunker-3d.json) |
 | Stalker Together | 327831 | [327831-stalker-together.json](./327831-stalker-together.json) |
 | Stalker: Spatial Trap | 321516 | [321516-stalker-spatial-trap.json](./321516-stalker-spatial-trap.json) |
+| Stalker: The Way of Survival | 314373 | [314373-stalker-the-way-of-survival.json](./314373-stalker-the-way-of-survival.json) |
 | Stall | 372618 | [372618-stall.json](./372618-stall.json) |
 | Stallions in America | 199117 | [199117-stallions-in-america.json](./199117-stallions-in-america.json) |
 | Stamp Smash | 82184 | [82184-stamp-smash.json](./82184-stamp-smash.json) |
@@ -12929,6 +12931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Warrior: Master Levels | 171929 | [171929-stellar-warrior-master-levels.json](./171929-stellar-warrior-master-levels.json) |
 | Stellar-Fire | 14515 | [14515-stellar-fire.json](./14515-stellar-fire.json) |
 | Stellar!: Infinity defense | 299453 | [299453-stellar-infinity-defense.json](./299453-stellar-infinity-defense.json) |
+| Stellarcraft | 314392 | [314392-stellarcraft.json](./314392-stellarcraft.json) |
 | StellarEchoes: Terrain Explorer | 264619 | [264619-stellarechoes-terrain-explorer.json](./264619-stellarechoes-terrain-explorer.json) |
 | Stellaren | 132202 | [132202-stellaren.json](./132202-stellaren.json) |
 | Stellaren: Acrux | 132223 | [132223-stellaren-acrux.json](./132223-stellaren-acrux.json) |
