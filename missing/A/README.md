@@ -176,6 +176,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Friday Night Real Music Funkin Game | 325105 | [325105-a-friday-night-real-music-funkin-game.json](./325105-a-friday-night-real-music-funkin-game.json) |
 | A Frog in a Well | 337798 | [337798-a-frog-in-a-well.json](./337798-a-frog-in-a-well.json) |
 | A Frog's Job 2: Froggina | 400419 | [400419-a-frogs-job-2-froggina.json](./400419-a-frogs-job-2-froggina.json) |
+| A Frog's Job: Level Pack 1 | 306558 | [306558-a-frogs-job-level-pack-1.json](./306558-a-frogs-job-level-pack-1.json) |
+| A Frog's Job: Level Pack 2 | 306559 | [306559-a-frogs-job-level-pack-2.json](./306559-a-frogs-job-level-pack-2.json) |
 | A Fugu's Dive | 379501 | [379501-a-fugus-dive.json](./379501-a-fugus-dive.json) |
 | A Furry Tale: A night in Havena | 312673 | [312673-a-furry-tale-a-night-in-havena.json](./312673-a-furry-tale-a-night-in-havena.json) |
 | A Future With You | 364521 | [364521-a-future-with-you.json](./364521-a-future-with-you.json) |
@@ -563,6 +565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Trip to Yugoslavia | 68932 | [68932-a-trip-to-yugoslavia.json](./68932-a-trip-to-yugoslavia.json) |
 | A True Story | 258043 | [258043-a-true-story.json](./258043-a-true-story.json) |
 | A Turd's Life | 89975 | [89975-a-turds-life.json](./89975-a-turds-life.json) |
+| A Turnabout Called Justice | 306606 | [306606-a-turnabout-called-justice.json](./306606-a-turnabout-called-justice.json) |
 | A Turnabout to El Dorado | 295241 | [295241-a-turnabout-to-el-dorado.json](./295241-a-turnabout-to-el-dorado.json) |
 | A Turtle In A Hare-Machine | 246102 | [246102-a-turtle-in-a-hare-machine.json](./246102-a-turtle-in-a-hare-machine.json) |
 | A Twisted Place | 177828 | [177828-a-twisted-place.json](./177828-a-twisted-place.json) |
@@ -1012,6 +1015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Banana | 25108 | [25108-ace-banana.json](./25108-ace-banana.json) |
 | Ace Combat 04: Shattered Skies | 9763 | [9763-ace-combat-04-shattered-skies.json](./9763-ace-combat-04-shattered-skies.json) |
 | Ace Combat 3: Electrosphere | 14751 | [14751-ace-combat-3-electrosphere.json](./14751-ace-combat-3-electrosphere.json) |
+| Ace Combat 3: Electrosphere | 306600 | [306600-ace-combat-3-electrosphere.json](./306600-ace-combat-3-electrosphere.json) |
 | Ace Combat 5: The Unsung War | 14753 | [14753-ace-combat-5-the-unsung-war.json](./14753-ace-combat-5-the-unsung-war.json) |
 | Ace Combat 7: Skies Unknown - 25th Anniversary Emblem Set II | 282591 | [282591-ace-combat-7-skies-unknown-25th-anniversary-emblem-set-ii.json](./282591-ace-combat-7-skies-unknown-25th-anniversary-emblem-set-ii.json) |
 | Ace Combat 7: Skies Unknown - 25th Anniversary Skin Set II | 282593 | [282593-ace-combat-7-skies-unknown-25th-anniversary-skin-set-ii.json](./282593-ace-combat-7-skies-unknown-25th-anniversary-skin-set-ii.json) |
@@ -1714,6 +1718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Burner | 365088 | [365088-after-burner.json](./365088-after-burner.json) |
 | After Burner | 365100 | [365100-after-burner.json](./365100-after-burner.json) |
 | After Burner | 45347 | [45347-after-burner.json](./45347-after-burner.json) |
+| After Burner 3D | 306582 | [306582-after-burner-3d.json](./306582-after-burner-3d.json) |
 | After Burner Climax | 20085 | [20085-after-burner-climax.json](./20085-after-burner-climax.json) |
 | After Burner III | 365185 | [365185-after-burner-iii.json](./365185-after-burner-iii.json) |
 | After Burner III | 5356 | [5356-after-burner-iii.json](./5356-after-burner-iii.json) |
@@ -7702,6 +7707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Athena | 9052 | [9052-athena.json](./9052-athena.json) |
 | Athena Code | 370262 | [370262-athena-code.json](./370262-athena-code.json) |
 | Athena Cykes: Ace Attorney - Dark Ace Saga | 308427 | [308427-athena-cykes-ace-attorney-dark-ace-saga.json](./308427-athena-cykes-ace-attorney-dark-ace-saga.json) |
+| Athena Cykes: Ace Attorney - Locks on the Heart | 306604 | [306604-athena-cykes-ace-attorney-locks-on-the-heart.json](./306604-athena-cykes-ace-attorney-locks-on-the-heart.json) |
 | Athena Cykes: Ace Attorney - Trials of time. | 305191 | [305191-athena-cykes-ace-attorney-trials-of-time.json](./305191-athena-cykes-ace-attorney-trials-of-time.json) |
 | Athena no Kateiban: Family Games | 285988 | [285988-athena-no-kateiban-family-games.json](./285988-athena-no-kateiban-family-games.json) |
 | Athena: Full Throttle | 55894 | [55894-athena-full-throttle.json](./55894-athena-full-throttle.json) |
