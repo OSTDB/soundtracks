@@ -2840,6 +2840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overloop | 75025 | [75025-overloop.json](./75025-overloop.json) |
 | Overlooting | 334898 | [334898-overlooting.json](./334898-overlooting.json) |
 | Overlord: Dark Legend | 47 | [47-overlord-dark-legend.json](./47-overlord-dark-legend.json) |
+| Overlord: Escape From Nazarick - Limited Collector's Edition | 285683 | [285683-overlord-escape-from-nazarick-limited-collectors-edition.json](./285683-overlord-escape-from-nazarick-limited-collectors-edition.json) |
 | Overlord: Minions | 48 | [48-overlord-minions.json](./48-overlord-minions.json) |
 | Overlord: Nobody Know Victory Better Than Me | 193199 | [193199-overlord-nobody-know-victory-better-than-me.json](./193199-overlord-nobody-know-victory-better-than-me.json) |
 | Overlord's Odyssey | 223979 | [223979-overlords-odyssey.json](./223979-overlords-odyssey.json) |
