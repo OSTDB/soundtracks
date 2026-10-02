@@ -2362,6 +2362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caxy Gambá Encontra o Monstruário | 257103 | [257103-caxy-gamba-encontra-o-monstruario.json](./257103-caxy-gamba-encontra-o-monstruario.json) |
 | Cazzarion: Astro Bouncer | 290418 | [290418-cazzarion-astro-bouncer.json](./290418-cazzarion-astro-bouncer.json) |
 | Cazzarion: Builder | 335961 | [335961-cazzarion-builder.json](./335961-cazzarion-builder.json) |
+| Cazzarion: Car Chase | 304267 | [304267-cazzarion-car-chase.json](./304267-cazzarion-car-chase.json) |
 | Cazzarion: Dart Wheel | 296087 | [296087-cazzarion-dart-wheel.json](./296087-cazzarion-dart-wheel.json) |
 | Cazzarion: Drone Attack | 320760 | [320760-cazzarion-drone-attack.json](./320760-cazzarion-drone-attack.json) |
 | Cazzarion: Fishing | 335091 | [335091-cazzarion-fishing.json](./335091-cazzarion-fishing.json) |
@@ -2958,6 +2959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chase H.Q. | 6802 | [6802-chase-h-q.json](./6802-chase-h-q.json) |
 | Chase H.Q. 2 | 307661 | [307661-chase-h-q-2.json](./307661-chase-h-q-2.json) |
 | Chase H.Q. 3D | 286677 | [286677-chase-h-q-3d.json](./286677-chase-h-q-3d.json) |
+| Chase H.Q. II | 304296 | [304296-chase-h-q-ii.json](./304296-chase-h-q-ii.json) |
 | Chase H.Q.: Secret Police | 49898 | [49898-chase-h-q-secret-police.json](./49898-chase-h-q-secret-police.json) |
 | Chase Love in Japan | 231472 | [231472-chase-love-in-japan.json](./231472-chase-love-in-japan.json) |
 | Chase St | 388251 | [388251-chase-st.json](./388251-chase-st.json) |
@@ -7602,6 +7604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Crunch | 349833 | [349833-cozy-crunch.json](./349833-cozy-crunch.json) |
 | Cozy Days | 209604 | [209604-cozy-days.json](./209604-cozy-days.json) |
 | Cozy Designer | 295783 | [295783-cozy-designer.json](./295783-cozy-designer.json) |
+| Cozy Dungeons | 304307 | [304307-cozy-dungeons.json](./304307-cozy-dungeons.json) |
 | Cozy Escapes | 279006 | [279006-cozy-escapes.json](./279006-cozy-escapes.json) |
 | Cozy Farm Life Simulator | 412458 | [412458-cozy-farm-life-simulator.json](./412458-cozy-farm-life-simulator.json) |
 | Cozy Farming 3 in 1 Collection | 328546 | [328546-cozy-farming-3-in-1-collection.json](./328546-cozy-farming-3-in-1-collection.json) |
@@ -8484,6 +8487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critical Shift | 344467 | [344467-critical-shift.json](./344467-critical-shift.json) |
 | Critical Slash | 197798 | [197798-critical-slash.json](./197798-critical-slash.json) |
 | Critical Strike | 345571 | [345571-critical-strike.json](./345571-critical-strike.json) |
+| Critical Strike Shooter: SWAT Rescue Missions | 304275 | [304275-critical-strike-shooter-swat-rescue-missions.json](./304275-critical-strike-shooter-swat-rescue-missions.json) |
 | Criticality | 180788 | [180788-criticality.json](./180788-criticality.json) |
 | CriticalOrb | 290929 | [290929-criticalorb.json](./290929-criticalorb.json) |
 | Criticom | 19165 | [19165-criticom.json](./19165-criticom.json) |
