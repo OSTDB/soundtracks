@@ -512,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Club: Awasete Chu | 281541 | [281541-hamster-club-awasete-chu.json](./281541-hamster-club-awasete-chu.json) |
 | Hamster Club: Oshiema Chu | 281542 | [281542-hamster-club-oshiema-chu.json](./281542-hamster-club-oshiema-chu.json) |
 | Hamster Combat: Road to Whale | 337831 | [337831-hamster-combat-road-to-whale.json](./337831-hamster-combat-road-to-whale.json) |
+| Hamster Cozy: Tears of Acorn Valley | 330401 | [330401-hamster-cozy-tears-of-acorn-valley.json](./330401-hamster-cozy-tears-of-acorn-valley.json) |
 | Hamster Drop | 63545 | [63545-hamster-drop.json](./63545-hamster-drop.json) |
 | Hamster Fighter | 246459 | [246459-hamster-fighter.json](./246459-hamster-fighter.json) |
 | Hamster Hunter: Rodent Rampage | 330556 | [330556-hamster-hunter-rodent-rampage.json](./330556-hamster-hunter-rodent-rampage.json) |
@@ -980,6 +981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harold and the Gameover | 228986 | [228986-harold-and-the-gameover.json](./228986-harold-and-the-gameover.json) |
 | Harold Rabbit 2: The Case of the Pastry Pirate | 371448 | [371448-harold-rabbit-2-the-case-of-the-pastry-pirate.json](./371448-harold-rabbit-2-the-case-of-the-pastry-pirate.json) |
 | Harold Rabbit: Finder of Lost Things | 333141 | [333141-harold-rabbit-finder-of-lost-things.json](./333141-harold-rabbit-finder-of-lost-things.json) |
+| Harold's Mission | 330388 | [330388-harolds-mission.json](./330388-harolds-mission.json) |
 | Harp | 145597 | [145597-harp.json](./145597-harp.json) |
 | Harp | 72346 | [72346-harp.json](./72346-harp.json) |
 | Harp & Chrysanthemum | 356213 | [356213-harp-and-chrysanthemum.json](./356213-harp-and-chrysanthemum.json) |
@@ -1819,6 +1821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heist Kitty: Cats Go a Stray | 231485 | [231485-heist-kitty-cats-go-a-stray.json](./231485-heist-kitty-cats-go-a-stray.json) |
 | Heist Royale | 344532 | [344532-heist-royale.json](./344532-heist-royale.json) |
 | Heist Simulator | 159135 | [159135-heist-simulator.json](./159135-heist-simulator.json) |
+| Heist Simulator 2025 | 330402 | [330402-heist-simulator-2025.json](./330402-heist-simulator-2025.json) |
 | Heist: The Score | 61135 | [61135-heist-the-score.json](./61135-heist-the-score.json) |
 | HeistGeist | 211182 | [211182-heistgeist.json](./211182-heistgeist.json) |
 | Heisting | 294241 | [294241-heisting.json](./294241-heisting.json) |
@@ -2562,6 +2565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai vs. Orcs | 161388 | [161388-hentai-vs-orcs.json](./161388-hentai-vs-orcs.json) |
 | Hentai Waifu 101 | 156098 | [156098-hentai-waifu-101.json](./156098-hentai-waifu-101.json) |
 | Hentai Waifu 2 | 324451 | [324451-hentai-waifu-2.json](./324451-hentai-waifu-2.json) |
+| Hentai Waifu 4 | 330232 | [330232-hentai-waifu-4.json](./330232-hentai-waifu-4.json) |
 | Hentai Waifu 5 | 333734 | [333734-hentai-waifu-5.json](./333734-hentai-waifu-5.json) |
 | Hentai Waifu II | 286497 | [286497-hentai-waifu-ii.json](./286497-hentai-waifu-ii.json) |
 | Hentai Witch | 296949 | [296949-hentai-witch.json](./296949-hentai-witch.json) |
@@ -5272,6 +5276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House M.D.: Episode 3 - Skull and Bones | 85176 | [85176-house-m-d-episode-3-skull-and-bones.json](./85176-house-m-d-episode-3-skull-and-bones.json) |
 | House M.D.: Episode 4 - Crashed | 85175 | [85175-house-m-d-episode-4-crashed.json](./85175-house-m-d-episode-4-crashed.json) |
 | House Maid Asuka | 97368 | [97368-house-maid-asuka.json](./97368-house-maid-asuka.json) |
+| House Mansion Flipper | 330233 | [330233-house-mansion-flipper.json](./330233-house-mansion-flipper.json) |
 | House of 1000 Doors: Evil Inside - Collector's Edition | 273946 | [273946-house-of-1000-doors-evil-inside-collectors-edition.json](./273946-house-of-1000-doors-evil-inside-collectors-edition.json) |
 | House of 1000 Doors: Family Secrets | 36371 | [36371-house-of-1000-doors-family-secrets.json](./36371-house-of-1000-doors-family-secrets.json) |
 | House of 1000 Doors: Family Secrets | 79322 | [79322-house-of-1000-doors-family-secrets.json](./79322-house-of-1000-doors-family-secrets.json) |
