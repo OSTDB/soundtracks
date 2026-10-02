@@ -2531,6 +2531,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Lynx Jigsaw | 357967 | [357967-wild-lynx-jigsaw.json](./357967-wild-lynx-jigsaw.json) |
 | Wild Lynx Jigsaw: Expansion Pack 1 | 357968 | [357968-wild-lynx-jigsaw-expansion-pack-1.json](./357968-wild-lynx-jigsaw-expansion-pack-1.json) |
 | Wild Lynx Jigsaw: Expansion Pack 2 | 357969 | [357969-wild-lynx-jigsaw-expansion-pack-2.json](./357969-wild-lynx-jigsaw-expansion-pack-2.json) |
+| Wild Man Jump | 305465 | [305465-wild-man-jump.json](./305465-wild-man-jump.json) |
+| Wild Man Jump | 305473 | [305473-wild-man-jump.json](./305473-wild-man-jump.json) |
 | Wild Marble Beats | 181351 | [181351-wild-marble-beats.json](./181351-wild-marble-beats.json) |
 | Wild Mutation | 257927 | [257927-wild-mutation.json](./257927-wild-mutation.json) |
 | Wild Ones Battle Stadium | 338365 | [338365-wild-ones-battle-stadium.json](./338365-wild-ones-battle-stadium.json) |
