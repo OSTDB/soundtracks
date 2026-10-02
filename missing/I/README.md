@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Ball II: Quest for the Past | 70351 | [70351-i-ball-ii-quest-for-the-past.json](./70351-i-ball-ii-quest-for-the-past.json) |
 | I Became a Dog | 142334 | [142334-i-became-a-dog.json](./142334-i-became-a-dog.json) |
 | I Became a Dog 2 | 142332 | [142332-i-became-a-dog-2.json](./142332-i-became-a-dog-2.json) |
+| I Became a Dog 3 | 319086 | [319086-i-became-a-dog-3.json](./319086-i-became-a-dog-3.json) |
 | I Believe in Capybara Supremacy! | 250992 | [250992-i-believe-in-capybara-supremacy.json](./250992-i-believe-in-capybara-supremacy.json) |
 | I Bring The Chaos | 277934 | [277934-i-bring-the-chaos.json](./277934-i-bring-the-chaos.json) |
 | I Bug | 340501 | [340501-i-bug.json](./340501-i-bug.json) |
