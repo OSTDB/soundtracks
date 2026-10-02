@@ -826,6 +826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Soccer Physics | 97311 | [97311-happy-soccer-physics.json](./97311-happy-soccer-physics.json) |
 | Happy Summer Quest | 189931 | [189931-happy-summer-quest.json](./189931-happy-summer-quest.json) |
 | Happy Tails Zoo Keeper | 54077 | [54077-happy-tails-zoo-keeper.json](./54077-happy-tails-zoo-keeper.json) |
+| Happy Telepathy | 286218 | [286218-happy-telepathy.json](./286218-happy-telepathy.json) |
 | Happy Time | 362282 | [362282-happy-time.json](./362282-happy-time.json) |
 | Happy Trails | 23685 | [23685-happy-trails.json](./23685-happy-trails.json) |
 | Happy Trap House | 224552 | [224552-happy-trap-house.json](./224552-happy-trap-house.json) |
@@ -1939,6 +1940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helix Jump 2 | 101536 | [101536-helix-jump-2.json](./101536-helix-jump-2.json) |
 | Helix Jump Ball | 106740 | [106740-helix-jump-ball.json](./106740-helix-jump-ball.json) |
 | Helix Jump Down | 102106 | [102106-helix-jump-down.json](./102106-helix-jump-down.json) |
+| Helix Jump: Catch The Letters | 286192 | [286192-helix-jump-catch-the-letters.json](./286192-helix-jump-catch-the-letters.json) |
 | Helix Jump: Complete Edition | 283173 | [283173-helix-jump-complete-edition.json](./283173-helix-jump-complete-edition.json) |
 | Helix Jump: Letter Madness | 277896 | [277896-helix-jump-letter-madness.json](./277896-helix-jump-letter-madness.json) |
 | Helix Jump: Party Skins | 277898 | [277898-helix-jump-party-skins.json](./277898-helix-jump-party-skins.json) |
@@ -3013,6 +3015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Umbra | 3226 | [3226-heroes-of-umbra.json](./3226-heroes-of-umbra.json) |
 | Heroes of Valhalla | 224104 | [224104-heroes-of-valhalla.json](./224104-heroes-of-valhalla.json) |
 | Heroes of War | 227471 | [227471-heroes-of-war.json](./227471-heroes-of-war.json) |
+| Heroes of War | 286215 | [286215-heroes-of-war.json](./286215-heroes-of-war.json) |
 | Heroes of Warland | 112141 | [112141-heroes-of-warland.json](./112141-heroes-of-warland.json) |
 | Heroes of Zaruban | 159652 | [159652-heroes-of-zaruban.json](./159652-heroes-of-zaruban.json) |
 | Heroes of Zulula | 63381 | [63381-heroes-of-zulula.json](./63381-heroes-of-zulula.json) |
