@@ -1803,6 +1803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heileen 3: New Horizons | 36280 | [36280-heileen-3-new-horizons.json](./36280-heileen-3-new-horizons.json) |
 | Heimdall | 5393 | [5393-heimdall.json](./5393-heimdall.json) |
 | Heimdallr | 174871 | [174871-heimdallr.json](./174871-heimdallr.json) |
+| Heinz Honor and Revenge | 327279 | [327279-heinz-honor-and-revenge.json](./327279-heinz-honor-and-revenge.json) |
 | Heir | 191566 | [191566-heir.json](./191566-heir.json) |
 | Heir Obscure | 164918 | [164918-heir-obscure.json](./164918-heir-obscure.json) |
 | Heir of Darkness | 127250 | [127250-heir-of-darkness.json](./127250-heir-of-darkness.json) |
