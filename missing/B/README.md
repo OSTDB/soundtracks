@@ -2843,6 +2843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bedrone | 270713 | [270713-bedrone.json](./270713-bedrone.json) |
 | Bedroom Battlegrounds | 288231 | [288231-bedroom-battlegrounds.json](./288231-bedroom-battlegrounds.json) |
 | Bedrooms | 342732 | [342732-bedrooms.json](./342732-bedrooms.json) |
+| Bedrotting | 298265 | [298265-bedrotting.json](./298265-bedrotting.json) |
 | Bedtime | 182911 | [182911-bedtime.json](./182911-bedtime.json) |
 | Bedtime Blues | 112782 | [112782-bedtime-blues.json](./112782-bedtime-blues.json) |
 | Bedtime Horror Stories | 220647 | [220647-bedtime-horror-stories.json](./220647-bedtime-horror-stories.json) |
@@ -5428,6 +5429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Permafrost | 387556 | [387556-blood-permafrost.json](./387556-blood-permafrost.json) |
 | Blood Punk | 309563 | [309563-blood-punk.json](./309563-blood-punk.json) |
 | Blood Radiant | 277275 | [277275-blood-radiant.json](./277275-blood-radiant.json) |
+| Blood Reaver | 298237 | [298237-blood-reaver.json](./298237-blood-reaver.json) |
 | Blood Rising | 338257 | [338257-blood-rising.json](./338257-blood-rising.json) |
 | Blood Rite | 238505 | [238505-blood-rite.json](./238505-blood-rite.json) |
 | Blood Running: Prologue | 293388 | [293388-blood-running-prologue.json](./293388-blood-running-prologue.json) |
@@ -7385,6 +7387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break In | 70097 | [70097-break-in.json](./70097-break-in.json) |
 | Break Into Zatwor | 27775 | [27775-break-into-zatwor.json](./27775-break-into-zatwor.json) |
 | Break It Out | 99194 | [99194-break-it-out.json](./99194-break-it-out.json) |
+| Break It! | 298263 | [298263-break-it.json](./298263-break-it.json) |
 | Break Limit | 91945 | [91945-break-limit.json](./91945-break-limit.json) |
 | Break Liner | 57346 | [57346-break-liner.json](./57346-break-liner.json) |
 | Break my body | 120771 | [120771-break-my-body.json](./120771-break-my-body.json) |
