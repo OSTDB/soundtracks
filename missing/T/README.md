@@ -3761,6 +3761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Creativest Love Doll | 82747 | [82747-the-creativest-love-doll.json](./82747-the-creativest-love-doll.json) |
 | The Creator | 347359 | [347359-the-creator.json](./347359-the-creator.json) |
 | The Creature | 120783 | [120783-the-creature.json](./120783-the-creature.json) |
+| The Creature in my Dreams | 330369 | [330369-the-creature-in-my-dreams.json](./330369-the-creature-in-my-dreams.json) |
 | The Creature Mafia | 415162 | [415162-the-creature-mafia.json](./415162-the-creature-mafia.json) |
 | The Creature Zone VR: Nightfall | 259834 | [259834-the-creature-zone-vr-nightfall.json](./259834-the-creature-zone-vr-nightfall.json) |
 | The Creature Zone VR: Welcome To Dystopia | 286069 | [286069-the-creature-zone-vr-welcome-to-dystopia.json](./286069-the-creature-zone-vr-welcome-to-dystopia.json) |
@@ -8082,12 +8083,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Bundle Pack 3 | 159327 | [159327-the-sims-4-bundle-pack-3.json](./159327-the-sims-4-bundle-pack-3.json) |
 | The Sims 4: Bundle Pack 4 | 159328 | [159328-the-sims-4-bundle-pack-4.json](./159328-the-sims-4-bundle-pack-4.json) |
 | The Sims 4: Bundle Pack 6 | 159329 | [159329-the-sims-4-bundle-pack-6.json](./159329-the-sims-4-bundle-pack-6.json) |
+| The Sims 4: Business Chic Kit | 330394 | [330394-the-sims-4-business-chic-kit.json](./330394-the-sims-4-business-chic-kit.json) |
 | The Sims 4: Bust the Dust Kit | 151112 | [151112-the-sims-4-bust-the-dust-kit.json](./151112-the-sims-4-bust-the-dust-kit.json) |
+| The Sims 4: Casanova Cave Kit | 330393 | [330393-the-sims-4-casanova-cave-kit.json](./330393-the-sims-4-casanova-cave-kit.json) |
 | The Sims 4: Cats & Dogs | 75675 | [75675-the-sims-4-cats-and-dogs.json](./75675-the-sims-4-cats-and-dogs.json) |
 | The Sims 4: City Living | 25321 | [25321-the-sims-4-city-living.json](./25321-the-sims-4-city-living.json) |
 | The Sims 4: Collector's Edition | 159074 | [159074-the-sims-4-collectors-edition.json](./159074-the-sims-4-collectors-edition.json) |
+| The Sims 4: Comfy Gamer Kit | 330391 | [330391-the-sims-4-comfy-gamer-kit.json](./330391-the-sims-4-comfy-gamer-kit.json) |
 | The Sims 4: Cool Kitchen Stuff | 13149 | [13149-the-sims-4-cool-kitchen-stuff.json](./13149-the-sims-4-cool-kitchen-stuff.json) |
 | The Sims 4: Country Kitchen Kit | 148501 | [148501-the-sims-4-country-kitchen-kit.json](./148501-the-sims-4-country-kitchen-kit.json) |
+| The Sims 4: Cozy Kitsch Kit | 330389 | [330389-the-sims-4-cozy-kitsch-kit.json](./330389-the-sims-4-cozy-kitsch-kit.json) |
 | The Sims 4: Decor to the Max Kit | 195598 | [195598-the-sims-4-decor-to-the-max-kit.json](./195598-the-sims-4-decor-to-the-max-kit.json) |
 | The Sims 4: Desert Luxe Kit | 217801 | [217801-the-sims-4-desert-luxe-kit.json](./217801-the-sims-4-desert-luxe-kit.json) |
 | The Sims 4: Dine Out | 24373 | [24373-the-sims-4-dine-out.json](./24373-the-sims-4-dine-out.json) |
@@ -8134,9 +8139,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Prairie Dreams | 404225 | [404225-the-sims-4-prairie-dreams.json](./404225-the-sims-4-prairie-dreams.json) |
 | The Sims 4: Premium Edition | 159073 | [159073-the-sims-4-premium-edition.json](./159073-the-sims-4-premium-edition.json) |
 | The Sims 4: Realm of Magic | 122317 | [122317-the-sims-4-realm-of-magic.json](./122317-the-sims-4-realm-of-magic.json) |
+| The Sims 4: Refined Living Room Kit | 330395 | [330395-the-sims-4-refined-living-room-kit.json](./330395-the-sims-4-refined-living-room-kit.json) |
 | The Sims 4: Restoration Workshop Kit | 350997 | [350997-the-sims-4-restoration-workshop-kit.json](./350997-the-sims-4-restoration-workshop-kit.json) |
 | The Sims 4: Romantic Garden Stuff | 121022 | [121022-the-sims-4-romantic-garden-stuff.json](./121022-the-sims-4-romantic-garden-stuff.json) |
 | The Sims 4: Seasons, Jungle Adventure, Spooky Stuff | 159332 | [159332-the-sims-4-seasons-jungle-adventure-spooky-stuff.json](./159332-the-sims-4-seasons-jungle-adventure-spooky-stuff.json) |
+| The Sims 4: Secret Sanctuary Kit | 330392 | [330392-the-sims-4-secret-sanctuary-kit.json](./330392-the-sims-4-secret-sanctuary-kit.json) |
 | The Sims 4: Silver Screen Style Kit | 404223 | [404223-the-sims-4-silver-screen-style-kit.json](./404223-the-sims-4-silver-screen-style-kit.json) |
 | The Sims 4: Sims' Night Out Bundle | 159337 | [159337-the-sims-4-sims-night-out-bundle.json](./159337-the-sims-4-sims-night-out-bundle.json) |
 | The Sims 4: Simtimates Collection Kit | 232427 | [232427-the-sims-4-simtimates-collection-kit.json](./232427-the-sims-4-simtimates-collection-kit.json) |
@@ -8147,6 +8154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Storybook Nursery Kit | 317647 | [317647-the-sims-4-storybook-nursery-kit.json](./317647-the-sims-4-storybook-nursery-kit.json) |
 | The Sims 4: StrangerVille | 116594 | [116594-the-sims-4-strangerville.json](./116594-the-sims-4-strangerville.json) |
 | The Sims 4: Stuff Bundle | 159340 | [159340-the-sims-4-stuff-bundle.json](./159340-the-sims-4-stuff-bundle.json) |
+| The Sims 4: Sweet Slumber Party Kit | 330390 | [330390-the-sims-4-sweet-slumber-party-kit.json](./330390-the-sims-4-sweet-slumber-party-kit.json) |
 | The Sims 4: Tea Time Solarium Kit | 404224 | [404224-the-sims-4-tea-time-solarium-kit.json](./404224-the-sims-4-tea-time-solarium-kit.json) |
 | The Sims 4: The Daring Lifestyle Bundle | 249484 | [249484-the-sims-4-the-daring-lifestyle-bundle.json](./249484-the-sims-4-the-daring-lifestyle-bundle.json) |
 | The Sims 4: Toddler Stuff | 54696 | [54696-the-sims-4-toddler-stuff.json](./54696-the-sims-4-toddler-stuff.json) |
@@ -13484,6 +13492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Stunt Bike: Tiptop's Trials | 106979 | [106979-toy-stunt-bike-tiptops-trials.json](./106979-toy-stunt-bike-tiptops-trials.json) |
 | Toy Stunt Bike: Tiptop's Trials | 108249 | [108249-toy-stunt-bike-tiptops-trials.json](./108249-toy-stunt-bike-tiptops-trials.json) |
 | Toy Tactics | 204089 | [204089-toy-tactics.json](./204089-toy-tactics.json) |
+| Toy Tale: The Forgotten Factory | 330242 | [330242-toy-tale-the-forgotten-factory.json](./330242-toy-tale-the-forgotten-factory.json) |
 | Toy Tanks | 149450 | [149450-toy-tanks.json](./149450-toy-tanks.json) |
 | Toy Tinker Simulator | 150000 | [150000-toy-tinker-simulator.json](./150000-toy-tinker-simulator.json) |
 | Toy Voyage | 349391 | [349391-toy-voyage.json](./349391-toy-voyage.json) |
