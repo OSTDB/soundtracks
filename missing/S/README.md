@@ -2985,6 +2985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Severance | 196235 | [196235-severance.json](./196235-severance.json) |
 | Severance | 327843 | [327843-severance.json](./327843-severance.json) |
 | Severance | 374827 | [374827-severance.json](./374827-severance.json) |
+| Severed | 319081 | [319081-severed.json](./319081-severed.json) |
 | Severed | 6066 | [6066-severed.json](./6066-severed.json) |
 | Severed Love | 342754 | [342754-severed-love.json](./342754-severed-love.json) |
 | Severen | 198223 | [198223-severen.json](./198223-severen.json) |
@@ -4885,6 +4886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid the Science Kid: Red Light Green Light | 365073 | [365073-sid-the-science-kid-red-light-green-light.json](./365073-sid-the-science-kid-red-light-green-light.json) |
 | SID the Spellbinder | 41557 | [41557-sid-the-spellbinder.json](./41557-sid-the-spellbinder.json) |
 | Side | 149025 | [149025-side.json](./149025-side.json) |
+| Side Alley | 319084 | [319084-side-alley.json](./319084-side-alley.json) |
 | Side Bullet | 197657 | [197657-side-bullet.json](./197657-side-bullet.json) |
 | Side by Side Special | 93055 | [93055-side-by-side-special.json](./93055-side-by-side-special.json) |
 | Side Effects | 343472 | [343472-side-effects.json](./343472-side-effects.json) |
@@ -10452,6 +10454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sphere TD | 400231 | [400231-sphere-td.json](./400231-sphere-td.json) |
 | Sphere: Flying Cities - Save the World Edition | 186905 | [186905-sphere-flying-cities-save-the-world-edition.json](./186905-sphere-flying-cities-save-the-world-edition.json) |
 | Sphere: The Knight of Elf | 191096 | [191096-sphere-the-knight-of-elf.json](./191096-sphere-the-knight-of-elf.json) |
+| Spherebuddie 64 | 319063 | [319063-spherebuddie-64.json](./319063-spherebuddie-64.json) |
 | Spherecraft | 118387 | [118387-spherecraft.json](./118387-spherecraft.json) |
 | SphereFace | 28749 | [28749-sphereface.json](./28749-sphereface.json) |
 | SphereKnight | 109484 | [109484-sphereknight.json](./109484-sphereknight.json) |
@@ -12641,6 +12644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steam Squad | 36354 | [36354-steam-squad.json](./36354-steam-squad.json) |
 | Steam Tactics | 61606 | [61606-steam-tactics.json](./61606-steam-tactics.json) |
 | Steam Train Simulator | 328089 | [328089-steam-train-simulator.json](./328089-steam-train-simulator.json) |
+| Steam Veins | 319062 | [319062-steam-veins.json](./319062-steam-veins.json) |
 | Steam-Heart's | 45973 | [45973-steam-hearts.json](./45973-steam-hearts.json) |
 | Steam: Rails to Riches - Belgium & Luxembourg Map | 162706 | [162706-steam-rails-to-riches-belgium-and-luxembourg-map.json](./162706-steam-rails-to-riches-belgium-and-luxembourg-map.json) |
 | Steam: Rails to Riches - Carcassonne Map | 162705 | [162705-steam-rails-to-riches-carcassonne-map.json](./162705-steam-rails-to-riches-carcassonne-map.json) |
