@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Fish V | 237654 | [237654-i-am-fish-v.json](./237654-i-am-fish-v.json) |
 | I Am Fly | 166714 | [166714-i-am-fly.json](./166714-i-am-fly.json) |
 | I am Future | 204508 | [204508-i-am-future.json](./204508-i-am-future.json) |
+| I Am Giraffe | 313176 | [313176-i-am-giraffe.json](./313176-i-am-giraffe.json) |
 | I Am Hamster: Simulator | 407583 | [407583-i-am-hamster-simulator.json](./407583-i-am-hamster-simulator.json) |
 | I Am Here, I Won't Disappear. I Am Here, I Won't... | 329547 | [329547-i-am-here-i-wont-disappear-i-am-here-i-wont.json](./329547-i-am-here-i-wont-disappear-i-am-here-i-wont.json) |
 | I Am Human! | 161173 | [161173-i-am-human.json](./161173-i-am-human.json) |
@@ -738,6 +739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Dino | 340517 | [340517-idle-dino.json](./340517-idle-dino.json) |
 | Idle Dragon Clicker: Expansion Pack 1 | 263188 | [263188-idle-dragon-clicker-expansion-pack-1.json](./263188-idle-dragon-clicker-expansion-pack-1.json) |
 | Idle Dungeons | 103476 | [103476-idle-dungeons.json](./103476-idle-dungeons.json) |
+| Idle Dyson Swarm | 313189 | [313189-idle-dyson-swarm.json](./313189-idle-dyson-swarm.json) |
 | Idle Elemental | 392446 | [392446-idle-elemental.json](./392446-idle-elemental.json) |
 | Idle Empires | 372697 | [372697-idle-empires.json](./372697-idle-empires.json) |
 | Idle Exorcism Hero | 270167 | [270167-idle-exorcism-hero.json](./270167-idle-exorcism-hero.json) |
