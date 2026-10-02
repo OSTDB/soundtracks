@@ -365,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Factory | 20560 | [20560-dance-factory.json](./20560-dance-factory.json) |
 | Dance Fantasy | 40899 | [40899-dance-fantasy.json](./40899-dance-fantasy.json) |
 | Dance Fever HD | 232150 | [232150-dance-fever-hd.json](./232150-dance-fever-hd.json) |
+| Dance Gangnam Style | 310669 | [310669-dance-gangnam-style.json](./310669-dance-gangnam-style.json) |
 | Dance Hime: Rhythm Matching | 211754 | [211754-dance-hime-rhythm-matching.json](./211754-dance-hime-rhythm-matching.json) |
 | Dance It! | 317853 | [317853-dance-it.json](./317853-dance-it.json) |
 | Dance Magic | 34720 | [34720-dance-magic.json](./34720-dance-magic.json) |
@@ -6434,6 +6435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon Tanoshii Enseikatsu Youchien Hoikuen | 313284 | [313284-doraemon-tanoshii-enseikatsu-youchien-hoikuen.json](./313284-doraemon-tanoshii-enseikatsu-youchien-hoikuen.json) |
 | Doraemon Waku-waku Sekai Isshuu Game: Asonde Oboeru Chizu Kokki | 327575 | [327575-doraemon-waku-waku-sekai-isshuu-game-asonde-oboeru-chizu-kokki.json](./327575-doraemon-waku-waku-sekai-isshuu-game-asonde-oboeru-chizu-kokki.json) |
 | Doraemon Wii: Himitsu Douguou Ketteisen! | 91773 | [91773-doraemon-wii-himitsu-douguou-ketteisen.json](./91773-doraemon-wii-himitsu-douguou-ketteisen.json) |
+| Doraemon: Dorayaki House | 310670 | [310670-doraemon-dorayaki-house.json](./310670-doraemon-dorayaki-house.json) |
 | Doraemon: Minna de Asobou! Mini Doland | 50587 | [50587-doraemon-minna-de-asobou-mini-doland.json](./50587-doraemon-minna-de-asobou-mini-doland.json) |
 | Doraemon: Nobita no Daimakyou | 349416 | [349416-doraemon-nobita-no-daimakyou.json](./349416-doraemon-nobita-no-daimakyou.json) |
 | Doraemon: Nobita no Doki-doki! Obake Land | 231512 | [231512-doraemon-nobita-no-doki-doki-obake-land.json](./231512-doraemon-nobita-no-doki-doki-obake-land.json) |
