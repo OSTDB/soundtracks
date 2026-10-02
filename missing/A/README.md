@@ -8007,6 +8007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autograv: Mini | 289408 | [289408-autograv-mini.json](./289408-autograv-mini.json) |
 | AutoGuessr | 331319 | [331319-autoguessr.json](./331319-autoguessr.json) |
 | Autogun Heroes | 300784 | [300784-autogun-heroes.json](./300784-autogun-heroes.json) |
+| Autogun Heroes: Supercharged | 325518 | [325518-autogun-heroes-supercharged.json](./325518-autogun-heroes-supercharged.json) |
 | AutoHeroes | 248883 | [248883-autoheroes.json](./248883-autoheroes.json) |
 | Automachef | 107217 | [107217-automachef.json](./107217-automachef.json) |
 | Automania | 30216 | [30216-automania.json](./30216-automania.json) |
