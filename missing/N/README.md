@@ -468,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natsumegu | 59960 | [59960-natsumegu.json](./59960-natsumegu.json) |
 | Natsumi & Fuyuko: All That's Inbetween | 212802 | [212802-natsumi-and-fuyuko-all-thats-inbetween.json](./212802-natsumi-and-fuyuko-all-thats-inbetween.json) |
 | Natsumi and the Absurd Academy | 385841 | [385841-natsumi-and-the-absurd-academy.json](./385841-natsumi-and-the-absurd-academy.json) |
+| Natsuyasumi | 327917 | [327917-natsuyasumi.json](./327917-natsuyasumi.json) |
 | Natsuyume Yawa | 408093 | [408093-natsuyume-yawa.json](./408093-natsuyume-yawa.json) |
 | Natti | 236911 | [236911-natti.json](./236911-natti.json) |
 | Natto-Cat | 68776 | [68776-natto-cat.json](./68776-natto-cat.json) |
@@ -3663,6 +3664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Null Horizon | 411076 | [411076-null-horizon.json](./411076-null-horizon.json) |
 | Null Kitchen Exception | 405734 | [405734-null-kitchen-exception.json](./405734-null-kitchen-exception.json) |
 | Null Matter | 243070 | [243070-null-matter.json](./243070-null-matter.json) |
+| Null Path | 327912 | [327912-null-path.json](./327912-null-path.json) |
 | Null Sequence | 263213 | [263213-null-sequence.json](./263213-null-sequence.json) |
 | Null State | 327807 | [327807-null-state.json](./327807-null-state.json) |
 | Null Vector | 55710 | [55710-null-vector.json](./55710-null-vector.json) |
