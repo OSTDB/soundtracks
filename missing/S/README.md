@@ -422,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakigake!! Otokojuku | 64112 | [64112-sakigake-otokojuku.json](./64112-sakigake-otokojuku.json) |
 | Sakigake!! Otokojuku: Meikoushima Kessen | 64113 | [64113-sakigake-otokojuku-meikoushima-kessen.json](./64113-sakigake-otokojuku-meikoushima-kessen.json) |
 | Sakigake!! Otokojuku: Shippuu Ichi Gou Sei | 48674 | [48674-sakigake-otokojuku-shippuu-ichi-gou-sei.json](./48674-sakigake-otokojuku-shippuu-ichi-gou-sei.json) |
+| SakiMizu Life | 300326 | [300326-sakimizu-life.json](./300326-sakimizu-life.json) |
 | Sakimori | 405703 | [405703-sakimori.json](./405703-sakimori.json) |
 | Saku Saku: Love Blooms with the Cherry Blossoms | 72366 | [72366-saku-saku-love-blooms-with-the-cherry-blossoms.json](./72366-saku-saku-love-blooms-with-the-cherry-blossoms.json) |
 | Saku the Covert Agent | 310181 | [310181-saku-the-covert-agent.json](./310181-saku-the-covert-agent.json) |
@@ -4781,6 +4782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrouded | 26791 | [26791-shrouded.json](./26791-shrouded.json) |
 | Shrouded Aspect | 345146 | [345146-shrouded-aspect.json](./345146-shrouded-aspect.json) |
 | Shrouded Siege | 374052 | [374052-shrouded-siege.json](./374052-shrouded-siege.json) |
+| Shrouded Space | 300335 | [300335-shrouded-space.json](./300335-shrouded-space.json) |
 | Shtdn | 202225 | [202225-shtdn.json](./202225-shtdn.json) |
 | SHTF | 55980 | [55980-shtf.json](./55980-shtf.json) |
 | Shtriga: Summer Camp | 30381 | [30381-shtriga-summer-camp.json](./30381-shtriga-summer-camp.json) |
@@ -5213,6 +5215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sillage | 195117 | [195117-sillage.json](./195117-sillage.json) |
 | Sillouhettes of Phobos | 274212 | [274212-sillouhettes-of-phobos.json](./274212-sillouhettes-of-phobos.json) |
 | Silly Billy | 295397 | [295397-silly-billy.json](./295397-silly-billy.json) |
+| Silly Little Guys | 300270 | [300270-silly-little-guys.json](./300270-silly-little-guys.json) |
 | Silly Royale: Devil Amongst Us | 242233 | [242233-silly-royale-devil-amongst-us.json](./242233-silly-royale-devil-amongst-us.json) |
 | Silly Sausage Buffet | 411842 | [411842-silly-sausage-buffet.json](./411842-silly-sausage-buffet.json) |
 | Silly Sausage in Meat Land | 74297 | [74297-silly-sausage-in-meat-land.json](./74297-silly-sausage-in-meat-land.json) |
@@ -10959,6 +10962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spolous Ex | 182920 | [182920-spolous-ex.json](./182920-spolous-ex.json) |
 | Sponchies | 68603 | [68603-sponchies.json](./68603-sponchies.json) |
 | Spongebob & Patrick: Dirty Bubble Busters | 338942 | [338942-spongebob-and-patrick-dirty-bubble-busters.json](./338942-spongebob-and-patrick-dirty-bubble-busters.json) |
+| SpongeBob Adventures: In A Jam | 300331 | [300331-spongebob-adventures-in-a-jam.json](./300331-spongebob-adventures-in-a-jam.json) |
 | SpongeBob and the Pit of 100 Trials | 341664 | [341664-spongebob-and-the-pit-of-100-trials.json](./341664-spongebob-and-the-pit-of-100-trials.json) |
 | SpongeBob Big Guy Challenge | 382339 | [382339-spongebob-big-guy-challenge.json](./382339-spongebob-big-guy-challenge.json) |
 | Spongebob Boat-O-Cross | 235316 | [235316-spongebob-boat-o-cross.json](./235316-spongebob-boat-o-cross.json) |
@@ -11894,10 +11898,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Revenge 0.5: The Unused Levels | 260807 | [260807-star-revenge-0-5-the-unused-levels.json](./260807-star-revenge-0-5-the-unused-levels.json) |
 | Star Revenge 1: Star Takeover | 132841 | [132841-star-revenge-1-star-takeover.json](./132841-star-revenge-1-star-takeover.json) |
 | Star Revenge 1: Star Takeover PC | 378289 | [378289-star-revenge-1-star-takeover-pc.json](./378289-star-revenge-1-star-takeover-pc.json) |
+| Star Revenge 1.3: Redone | 300261 | [300261-star-revenge-1-3-redone.json](./300261-star-revenge-1-3-redone.json) |
 | Star Revenge 1.5: Star Takeover Redone | 180247 | [180247-star-revenge-1-5-star-takeover-redone.json](./180247-star-revenge-1-5-star-takeover-redone.json) |
 | Star Revenge 2: Act 1 to the Moon | 180248 | [180248-star-revenge-2-act-1-to-the-moon.json](./180248-star-revenge-2-act-1-to-the-moon.json) |
 | Star Revenge 2: Night of Doom PC | 378290 | [378290-star-revenge-2-night-of-doom-pc.json](./378290-star-revenge-2-night-of-doom-pc.json) |
 | Star Revenge 2.5: Remnant of Doom PC | 378297 | [378297-star-revenge-2-5-remnant-of-doom-pc.json](./378297-star-revenge-2-5-remnant-of-doom-pc.json) |
+| Star Revenge 4: The Kedama Takeover | 300260 | [300260-star-revenge-4-the-kedama-takeover.json](./300260-star-revenge-4-the-kedama-takeover.json) |
 | Star Revenge 5: Neo Blue Realm | 260806 | [260806-star-revenge-5-neo-blue-realm.json](./260806-star-revenge-5-neo-blue-realm.json) |
 | Star Revenge 6: Luigi's Adventure | 260804 | [260804-star-revenge-6-luigis-adventure.json](./260804-star-revenge-6-luigis-adventure.json) |
 | Star Revenge 6.5: Wrath of The Dim. Flower PC Port | 378270 | [378270-star-revenge-6-5-wrath-of-the-dim-flower-pc-port.json](./378270-star-revenge-6-5-wrath-of-the-dim-flower-pc-port.json) |
@@ -12533,6 +12539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stars in Shadow | 27089 | [27089-stars-in-shadow.json](./27089-stars-in-shadow.json) |
 | Stars in Shadow: Legacies | 124781 | [124781-stars-in-shadow-legacies.json](./124781-stars-in-shadow-legacies.json) |
 | Stars of Icarus | 348306 | [348306-stars-of-icarus.json](./348306-stars-of-icarus.json) |
+| Stars of the Beast 2 | 300259 | [300259-stars-of-the-beast-2.json](./300259-stars-of-the-beast-2.json) |
 | Stars of the Screen | 232677 | [232677-stars-of-the-screen.json](./232677-stars-of-the-screen.json) |
 | Stars Shooter | 245301 | [245301-stars-shooter.json](./245301-stars-shooter.json) |
 | Stars Survivor | 291481 | [291481-stars-survivor.json](./291481-stars-survivor.json) |
@@ -14280,6 +14287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subnet | 80545 | [80545-subnet.json](./80545-subnet.json) |
 | Subnodule | 79587 | [79587-subnodule.json](./79587-subnodule.json) |
 | Subocto | 263598 | [263598-subocto.json](./263598-subocto.json) |
+| Suboptimal | 300336 | [300336-suboptimal.json](./300336-suboptimal.json) |
 | Suborbital | 260386 | [260386-suborbital.json](./260386-suborbital.json) |
 | SuborWin 2000 | 309611 | [309611-suborwin-2000.json](./309611-suborwin-2000.json) |
 | Subpar Commander | 27808 | [27808-subpar-commander.json](./27808-subpar-commander.json) |
@@ -14836,6 +14844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sundown | 86071 | [86071-sundown.json](./86071-sundown.json) |
 | Sundown Refusal | 118351 | [118351-sundown-refusal.json](./118351-sundown-refusal.json) |
 | Sundowner | 154022 | [154022-sundowner.json](./154022-sundowner.json) |
+| Sundy Stairway | 300300 | [300300-sundy-stairway.json](./300300-sundy-stairway.json) |
 | Sune och Hans Värld: Pussjakten | 129781 | [129781-sune-och-hans-varld-pussjakten.json](./129781-sune-och-hans-varld-pussjakten.json) |
 | Sunes Sportlov | 316081 | [316081-sunes-sportlov.json](./316081-sunes-sportlov.json) |
 | Sunfall: Children of Adiona | 265632 | [265632-sunfall-children-of-adiona.json](./265632-sunfall-children-of-adiona.json) |
@@ -14947,6 +14956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super | 51970 | [51970-super.json](./51970-super.json) |
 | Super "Mario" World | 297240 | [297240-super-mario-world.json](./297240-super-mario-world.json) |
 | Super "Mario" World 2 | 297496 | [297496-super-mario-world-2.json](./297496-super-mario-world-2.json) |
+| Super 10 VR Bundle | 300275 | [300275-super-10-vr-bundle.json](./300275-super-10-vr-bundle.json) |
 | Super 2048 | 99983 | [99983-super-2048.json](./99983-super-2048.json) |
 | Super ACiD Block Attack | 82459 | [82459-super-acid-block-attack.json](./82459-super-acid-block-attack.json) |
 | Super Action Baseball | 40909 | [40909-super-action-baseball.json](./40909-super-action-baseball.json) |
@@ -15608,8 +15618,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 64: Sonic Edition Plus | 309614 | [309614-super-mario-64-sonic-edition-plus.json](./309614-super-mario-64-sonic-edition-plus.json) |
 | Super Mario 64: Star Revenge | 132839 | [132839-super-mario-64-star-revenge.json](./132839-super-mario-64-star-revenge.json) |
 | Super Mario 64: Star Revenge Redone | 132840 | [132840-super-mario-64-star-revenge-redone.json](./132840-super-mario-64-star-revenge-redone.json) |
+| Super Mario 64: Stars of the Beast | 300258 | [300258-super-mario-64-stars-of-the-beast.json](./300258-super-mario-64-stars-of-the-beast.json) |
 | Super Mario 64: The Missing Stars | 135176 | [135176-super-mario-64-the-missing-stars.json](./135176-super-mario-64-the-missing-stars.json) |
 | Super Mario 64: Through the Ages | 199070 | [199070-super-mario-64-through-the-ages.json](./199070-super-mario-64-through-the-ages.json) |
+| Super Mario 64: Trouble Town | 300257 | [300257-super-mario-64-trouble-town.json](./300257-super-mario-64-trouble-town.json) |
 | Super Mario 64x4 | 315007 | [315007-super-mario-64x4.json](./315007-super-mario-64x4.json) |
 | Super Mario 74 | 132842 | [132842-super-mario-74.json](./132842-super-mario-74.json) |
 | Super Mario 74: Extreme Edition | 132843 | [132843-super-mario-74-extreme-edition.json](./132843-super-mario-74-extreme-edition.json) |
@@ -15715,6 +15727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Eclipse | 320228 | [320228-super-mario-eclipse.json](./320228-super-mario-eclipse.json) |
 | Super Mario Epic | 323814 | [323814-super-mario-epic.json](./323814-super-mario-epic.json) |
 | Super Mario Epic 3 | 323815 | [323815-super-mario-epic-3.json](./323815-super-mario-epic-3.json) |
+| Super Mario Fantasy | 300256 | [300256-super-mario-fantasy.json](./300256-super-mario-fantasy.json) |
 | Super Mario Flash 2 | 183605 | [183605-super-mario-flash-2.json](./183605-super-mario-flash-2.json) |
 | Super Mario Flash 2: SMW Remake | 198502 | [198502-super-mario-flash-2-smw-remake.json](./198502-super-mario-flash-2-smw-remake.json) |
 | Super Mario Flashback | 134075 | [134075-super-mario-flashback.json](./134075-super-mario-flashback.json) |
@@ -16339,6 +16352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Splatters | 9696 | [9696-super-splatters.json](./9696-super-splatters.json) |
 | Super SpongeBob 2 | 382398 | [382398-super-spongebob-2.json](./382398-super-spongebob-2.json) |
 | Super SpongeBob Kart | 42203 | [42203-super-spongebob-kart.json](./42203-super-spongebob-kart.json) |
+| Super Spooky 64 | 300255 | [300255-super-spooky-64.json](./300255-super-spooky-64.json) |
 | Super Sportmatchen | 97963 | [97963-super-sportmatchen.json](./97963-super-sportmatchen.json) |
 | Super Sports Surgery | 40843 | [40843-super-sports-surgery.json](./40843-super-sports-surgery.json) |
 | Super Spray n' Slay 3D | 184107 | [184107-super-spray-n-slay-3d.json](./184107-super-spray-n-slay-3d.json) |
@@ -16700,6 +16714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supplice | 165070 | [165070-supplice.json](./165070-supplice.json) |
 | Supply Chain Expansion | 373746 | [373746-supply-chain-expansion.json](./373746-supply-chain-expansion.json) |
 | Supposedly Wonderful Future | 72491 | [72491-supposedly-wonderful-future.json](./72491-supposedly-wonderful-future.json) |
+| Supra Mayro Kratt | 300345 | [300345-supra-mayro-kratt.json](./300345-supra-mayro-kratt.json) |
 | Suprabac.io | 243380 | [243380-suprabac-io.json](./243380-suprabac-io.json) |
 | Supracore | 251854 | [251854-supracore.json](./251854-supracore.json) |
 | Supraland | 89354 | [89354-supraland.json](./89354-supraland.json) |
