@@ -222,6 +222,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X4: Kingdom End | 230806 | [230806-x4-kingdom-end.json](./230806-x4-kingdom-end.json) |
 | X4: Split Vendetta | 124814 | [124814-x4-split-vendetta.json](./124814-x4-split-vendetta.json) |
 | X8 | 220724 | [220724-x8.json](./220724-x8.json) |
+| X8: Fallen Angel DLC | 302590 | [302590-x8-fallen-angel-dlc.json](./302590-x8-fallen-angel-dlc.json) |
+| X8: NEO-19 White DLC | 302591 | [302591-x8-neo-19-white-dlc.json](./302591-x8-neo-19-white-dlc.json) |
 | Xadom | 294729 | [294729-xadom.json](./294729-xadom.json) |
 | Xagia Wars | 75933 | [75933-xagia-wars.json](./75933-xagia-wars.json) |
 | Xain'd Sleena: Soldier of Light | 12854 | [12854-xaind-sleena-soldier-of-light.json](./12854-xaind-sleena-soldier-of-light.json) |
