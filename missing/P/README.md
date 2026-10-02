@@ -1755,6 +1755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payday 2: Guardians Tailor Pack | 225166 | [225166-payday-2-guardians-tailor-pack.json](./225166-payday-2-guardians-tailor-pack.json) |
 | Payday 2: High Octane Tailor Pack | 225167 | [225167-payday-2-high-octane-tailor-pack.json](./225167-payday-2-high-octane-tailor-pack.json) |
 | Payday 2: John Wick Heists | 167686 | [167686-payday-2-john-wick-heists.json](./167686-payday-2-john-wick-heists.json) |
+| Payday 2: Legacy Collection | 289004 | [289004-payday-2-legacy-collection.json](./289004-payday-2-legacy-collection.json) |
 | Payday 2: McShay Weapon Pack | 225170 | [225170-payday-2-mcshay-weapon-pack.json](./225170-payday-2-mcshay-weapon-pack.json) |
 | Payday 2: Mega City Tailor Pack | 225171 | [225171-payday-2-mega-city-tailor-pack.json](./225171-payday-2-mega-city-tailor-pack.json) |
 | Payday 2: Mountain Master Heist | 196150 | [196150-payday-2-mountain-master-heist.json](./196150-payday-2-mountain-master-heist.json) |
@@ -3998,6 +3999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Fireplace | 134645 | [134645-pixel-fireplace.json](./134645-pixel-fireplace.json) |
 | Pixel Fish | 114342 | [114342-pixel-fish.json](./114342-pixel-fish.json) |
 | Pixel Fish | 310755 | [310755-pixel-fish.json](./310755-pixel-fish.json) |
+| Pixel Fixel | 289020 | [289020-pixel-fixel.json](./289020-pixel-fixel.json) |
 | Pixel Flip | 336703 | [336703-pixel-flip.json](./336703-pixel-flip.json) |
 | Pixel Fodder | 34858 | [34858-pixel-fodder.json](./34858-pixel-fodder.json) |
 | Pixel Force 2 | 175278 | [175278-pixel-force-2.json](./175278-pixel-force-2.json) |
