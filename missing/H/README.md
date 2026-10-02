@@ -1531,6 +1531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart Keeper | 342634 | [342634-heart-keeper.json](./342634-heart-keeper.json) |
 | Heart Knots | 138022 | [138022-heart-knots.json](./138022-heart-knots.json) |
 | Heart Maze | 40994 | [40994-heart-maze.json](./40994-heart-maze.json) |
+| Heart of a Knight | 322078 | [322078-heart-of-a-knight.json](./322078-heart-of-a-knight.json) |
 | Heart of a Warrior | 190072 | [190072-heart-of-a-warrior.json](./190072-heart-of-a-warrior.json) |
 | Heart of Africa | 13874 | [13874-heart-of-africa.json](./13874-heart-of-africa.json) |
 | Heart of China | 12139 | [12139-heart-of-china.json](./12139-heart-of-china.json) |
@@ -1578,6 +1579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartburn | 301968 | [301968-heartburn.json](./301968-heartburn.json) |
 | HeartCore Descent | 407381 | [407381-heartcore-descent.json](./407381-heartcore-descent.json) |
 | Heartdust | 370254 | [370254-heartdust.json](./370254-heartdust.json) |
+| HeartFinder | 322099 | [322099-heartfinder.json](./322099-heartfinder.json) |
 | HeartFix Express | 391195 | [391195-heartfix-express.json](./391195-heartfix-express.json) |
 | Heartful Memories: Little Witch Parfait 2 | 332419 | [332419-heartful-memories-little-witch-parfait-2.json](./332419-heartful-memories-little-witch-parfait-2.json) |
 | Hearth Bound | 397128 | [397128-hearth-bound.json](./397128-hearth-bound.json) |
@@ -1656,6 +1658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartshot | 278683 | [278683-heartshot.json](./278683-heartshot.json) |
 | Heartstop | 199510 | [199510-heartstop.json](./199510-heartstop.json) |
 | Heartstrings | 202371 | [202371-heartstrings.json](./202371-heartstrings.json) |
+| HeartWeaver | 322090 | [322090-heartweaver.json](./322090-heartweaver.json) |
 | Heartwild Solitaire Book One | 88737 | [88737-heartwild-solitaire-book-one.json](./88737-heartwild-solitaire-book-one.json) |
 | Heartwood | 179158 | [179158-heartwood.json](./179158-heartwood.json) |
 | Heat 'n Hit: The Blacksmith Simulator | 371962 | [371962-heat-n-hit-the-blacksmith-simulator.json](./371962-heat-n-hit-the-blacksmith-simulator.json) |
@@ -3268,6 +3271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Cats in Spooky Town | 266771 | [266771-hidden-cats-in-spooky-town.json](./266771-hidden-cats-in-spooky-town.json) |
 | Hidden Cats in Town | 244274 | [244274-hidden-cats-in-town.json](./244274-hidden-cats-in-town.json) |
 | Hidden Cats In White Sand Village | 367036 | [367036-hidden-cats-in-white-sand-village.json](./367036-hidden-cats-in-white-sand-village.json) |
+| Hidden Cats of Egypt | 322096 | [322096-hidden-cats-of-egypt.json](./322096-hidden-cats-of-egypt.json) |
 | Hidden Cats of Mayan | 340471 | [340471-hidden-cats-of-mayan.json](./340471-hidden-cats-of-mayan.json) |
 | Hidden Cats of Shanghai | 340472 | [340472-hidden-cats-of-shanghai.json](./340472-hidden-cats-of-shanghai.json) |
 | Hidden Cats on Christmas | 380707 | [380707-hidden-cats-on-christmas.json](./380707-hidden-cats-on-christmas.json) |
@@ -4256,6 +4260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Cocoon | 255114 | [255114-hollow-cocoon.json](./255114-hollow-cocoon.json) |
 | Hollow Crew | 416806 | [416806-hollow-crew.json](./416806-hollow-crew.json) |
 | Hollow Cries | 125198 | [125198-hollow-cries.json](./125198-hollow-cries.json) |
+| Hollow Doll | 322060 | [322060-hollow-doll.json](./322060-hollow-doll.json) |
 | Hollow Floor | 355154 | [355154-hollow-floor.json](./355154-hollow-floor.json) |
 | Hollow Ghost | 144779 | [144779-hollow-ghost.json](./144779-hollow-ghost.json) |
 | Hollow Ground | 365295 | [365295-hollow-ground.json](./365295-hollow-ground.json) |
