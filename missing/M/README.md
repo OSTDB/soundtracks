@@ -2172,6 +2172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Red: Edge of the Nightmare | 153384 | [153384-mars-red-edge-of-the-nightmare.json](./153384-mars-red-edge-of-the-nightmare.json) |
 | Mars Saga | 70980 | [70980-mars-saga.json](./70980-mars-saga.json) |
 | Mars Survivor: Blue Blaster | 324456 | [324456-mars-survivor-blue-blaster.json](./324456-mars-survivor-blue-blaster.json) |
+| Mars Survivor: Complete Edition | 324372 | [324372-mars-survivor-complete-edition.json](./324372-mars-survivor-complete-edition.json) |
 | Mars Survivor: Gold Edition | 385204 | [385204-mars-survivor-gold-edition.json](./385204-mars-survivor-gold-edition.json) |
 | Mars Survivor: Green Gun | 324457 | [324457-mars-survivor-green-gun.json](./324457-mars-survivor-green-gun.json) |
 | Mars Survivor: Red Rifle | 324458 | [324458-mars-survivor-red-rifle.json](./324458-mars-survivor-red-rifle.json) |
@@ -2657,6 +2658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master x Re:master | 395138 | [395138-master-x-re-master.json](./395138-master-x-re-master.json) |
 | Masterchef Cakes Edition | 217507 | [217507-masterchef-cakes-edition.json](./217507-masterchef-cakes-edition.json) |
 | Masterchef Chinese Food Edition | 195273 | [195273-masterchef-chinese-food-edition.json](./195273-masterchef-chinese-food-edition.json) |
+| MasterChef: Learn to Cook! - Complete Edition | 324375 | [324375-masterchef-learn-to-cook-complete-edition.json](./324375-masterchef-learn-to-cook-complete-edition.json) |
 | MasterChef: Learn to Cook! - Fruits, Nuts & Sweets | 324480 | [324480-masterchef-learn-to-cook-fruits-nuts-and-sweets.json](./324480-masterchef-learn-to-cook-fruits-nuts-and-sweets.json) |
 | MasterChef: Learn to Cook! - Meat, Dairy & Seafood | 324481 | [324481-masterchef-learn-to-cook-meat-dairy-and-seafood.json](./324481-masterchef-learn-to-cook-meat-dairy-and-seafood.json) |
 | MasterChef: Learn to Cook! - Vegetables & Grains | 324482 | [324482-masterchef-learn-to-cook-vegetables-and-grains.json](./324482-masterchef-learn-to-cook-vegetables-and-grains.json) |
@@ -8539,6 +8541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Rush GT: Gold Edition | 259546 | [259546-moto-rush-gt-gold-edition.json](./259546-moto-rush-gt-gold-edition.json) |
 | Moto Rush GT: Grand Edition | 315869 | [315869-moto-rush-gt-grand-edition.json](./315869-moto-rush-gt-grand-edition.json) |
 | Moto Rush GT: Hyper Edition | 338005 | [338005-moto-rush-gt-hyper-edition.json](./338005-moto-rush-gt-hyper-edition.json) |
+| Moto Rush GT: Mega Edition | 324373 | [324373-moto-rush-gt-mega-edition.json](./324373-moto-rush-gt-mega-edition.json) |
 | Moto Rush GT: NY Edition | 277895 | [277895-moto-rush-gt-ny-edition.json](./277895-moto-rush-gt-ny-edition.json) |
 | Moto Rush GT: Platinium Edition | 275048 | [275048-moto-rush-gt-platinium-edition.json](./275048-moto-rush-gt-platinium-edition.json) |
 | Moto Rush GT: Prime Edition | 271503 | [271503-moto-rush-gt-prime-edition.json](./271503-moto-rush-gt-prime-edition.json) |
