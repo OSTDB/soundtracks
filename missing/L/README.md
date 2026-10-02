@@ -233,6 +233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lafuma Unlimit | 69942 | [69942-lafuma-unlimit.json](./69942-lafuma-unlimit.json) |
 | Lafuma Unlimit 2 | 94694 | [94694-lafuma-unlimit-2.json](./94694-lafuma-unlimit-2.json) |
 | Lag Simulator | 343958 | [343958-lag-simulator.json](./343958-lag-simulator.json) |
+| Lagaf': Les Aventures de Moktar: Vol 1 - La Zoubida | 307197 | [307197-lagaf-les-aventures-de-moktar-vol-1-la-zoubida.json](./307197-lagaf-les-aventures-de-moktar-vol-1-la-zoubida.json) |
 | Lagnacure Legend | 93533 | [93533-lagnacure-legend.json](./93533-lagnacure-legend.json) |
 | Lagoon | 276473 | [276473-lagoon.json](./276473-lagoon.json) |
 | Lagoon Lounge: The Poisonous Fountain | 102437 | [102437-lagoon-lounge-the-poisonous-fountain.json](./102437-lagoon-lounge-the-poisonous-fountain.json) |
@@ -261,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lair of the Titans | 88187 | [88187-lair-of-the-titans.json](./88187-lair-of-the-titans.json) |
 | Lair of Torment | 266799 | [266799-lair-of-torment.json](./266799-lair-of-torment.json) |
 | Laira Cut Me Open | 408179 | [408179-laira-cut-me-open.json](./408179-laira-cut-me-open.json) |
+| LAIzy Picture Phone | 307217 | [307217-laizy-picture-phone.json](./307217-laizy-picture-phone.json) |
 | Lake Adventure | 279780 | [279780-lake-adventure.json](./279780-lake-adventure.json) |
 | Lake Hero | 412959 | [412959-lake-hero.json](./412959-lake-hero.json) |
 | Lake House: Children of Silence | 40967 | [40967-lake-house-children-of-silence.json](./40967-lake-house-children-of-silence.json) |
@@ -4204,6 +4206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lotzo and The Ray of Light | 391251 | [391251-lotzo-and-the-ray-of-light.json](./391251-lotzo-and-the-ray-of-light.json) |
 | Lou's Lagoon | 214706 | [214706-lous-lagoon.json](./214706-lous-lagoon.json) |
 | Loud or Quiet | 74341 | [74341-loud-or-quiet.json](./74341-loud-or-quiet.json) |
+| Loud Run | 307239 | [307239-loud-run.json](./307239-loud-run.json) |
 | Louder Than Words: The Story of a Field Trip | 195647 | [195647-louder-than-words-the-story-of-a-field-trip.json](./195647-louder-than-words-the-story-of-a-field-trip.json) |
 | Louie Lucha | 246113 | [246113-louie-lucha.json](./246113-louie-lucha.json) |
 | Louis Charles in the Louvre | 360640 | [360640-louis-charles-in-the-louvre.json](./360640-louis-charles-in-the-louvre.json) |
