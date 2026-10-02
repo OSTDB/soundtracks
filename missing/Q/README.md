@@ -102,6 +102,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qpang | 144094 | [144094-qpang.json](./144094-qpang.json) |
 | QPet Zoo | 362487 | [362487-qpet-zoo.json](./362487-qpet-zoo.json) |
 | QQ Chinese Chess | 86193 | [86193-qq-chinese-chess.json](./86193-qq-chinese-chess.json) |
+| QQ Dazzling Dance | 279214 | [279214-qq-dazzling-dance.json](./279214-qq-dazzling-dance.json) |
+| QQ Free Fantasy | 279212 | [279212-qq-free-fantasy.json](./279212-qq-free-fantasy.json) |
 | QQ Speed | 199934 | [199934-qq-speed.json](./199934-qq-speed.json) |
 | QQQbeats!!! | 354547 | [354547-qqqbeats.json](./354547-qqqbeats.json) |
 | QQTang | 240882 | [240882-qqtang.json](./240882-qqtang.json) |
@@ -526,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiet Farm | 190450 | [190450-quiet-farm.json](./190450-quiet-farm.json) |
 | Quiet House Massacre | 317023 | [317023-quiet-house-massacre.json](./317023-quiet-house-massacre.json) |
 | Quiet in the Library | 390688 | [390688-quiet-in-the-library.json](./390688-quiet-in-the-library.json) |
+| Quiet is the Eyes | 279263 | [279263-quiet-is-the-eyes.json](./279263-quiet-is-the-eyes.json) |
 | Quiet Maple | 184992 | [184992-quiet-maple.json](./184992-quiet-maple.json) |
 | Quiet on Set | 266300 | [266300-quiet-on-set.json](./266300-quiet-on-set.json) |
 | Quiet Rehabilitation | 281411 | [281411-quiet-rehabilitation.json](./281411-quiet-rehabilitation.json) |
