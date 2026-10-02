@@ -429,6 +429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calmed by the Dark: Leviathan | 153967 | [153967-calmed-by-the-dark-leviathan.json](./153967-calmed-by-the-dark-leviathan.json) |
 | CalmLine | 238448 | [238448-calmline.json](./238448-calmline.json) |
 | Calorie-kun vs. Moguranian | 301953 | [301953-calorie-kun-vs-moguranian.json](./301953-calorie-kun-vs-moguranian.json) |
+| CalorieMate Liquid for Game Creators | 316719 | [316719-caloriemate-liquid-for-game-creators.json](./316719-caloriemate-liquid-for-game-creators.json) |
 | Calpria | 416686 | [416686-calpria.json](./416686-calpria.json) |
 | CalQ | 61569 | [61569-calq.json](./61569-calq.json) |
 | Caltron 6-in-1 | 81250 | [81250-caltron-6-in-1.json](./81250-caltron-6-in-1.json) |
@@ -3464,6 +3465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Children of Orc | 30920 | [30920-children-of-orc.json](./30920-children-of-orc.json) |
 | Children of Saturn | 312134 | [312134-children-of-saturn.json](./312134-children-of-saturn.json) |
 | Children of Silentown | 121016 | [121016-children-of-silentown.json](./121016-children-of-silentown.json) |
+| Children of the Flower | 316684 | [316684-children-of-the-flower.json](./316684-children-of-the-flower.json) |
 | Children of the Galaxy | 30304 | [30304-children-of-the-galaxy.json](./30304-children-of-the-galaxy.json) |
 | Children of the Gate | 57902 | [57902-children-of-the-gate.json](./57902-children-of-the-gate.json) |
 | Children of the Nile: Enhanced Edition | 27834 | [27834-children-of-the-nile-enhanced-edition.json](./27834-children-of-the-nile-enhanced-edition.json) |
@@ -3939,6 +3941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromatic: Color Puzzles | 134425 | [134425-chromatic-color-puzzles.json](./134425-chromatic-color-puzzles.json) |
 | Chromatrix | 295769 | [295769-chromatrix.json](./295769-chromatrix.json) |
 | Chromatron | 77636 | [77636-chromatron.json](./77636-chromatron.json) |
+| ChromaZone | 316704 | [316704-chromazone.json](./316704-chromazone.json) |
 | Chromb | 316398 | [316398-chromb.json](./316398-chromb.json) |
 | Chrome Carnage | 398345 | [398345-chrome-carnage.json](./398345-chrome-carnage.json) |
 | Chrome Death | 259247 | [259247-chrome-death.json](./259247-chrome-death.json) |
@@ -4605,6 +4608,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Chefs VR | 111704 | [111704-clash-of-chefs-vr.json](./111704-clash-of-chefs-vr.json) |
 | Clash of Chess | 174898 | [174898-clash-of-chess.json](./174898-clash-of-chess.json) |
 | Clash of Clans | 5589 | [5589-clash-of-clans.json](./5589-clash-of-clans.json) |
+| Clash of Clans: Clash-O-Ween Season | 317324 | [317324-clash-of-clans-clash-o-ween-season.json](./317324-clash-of-clans-clash-o-ween-season.json) |
+| Clash of Clans: Egypt Season | 317327 | [317327-clash-of-clans-egypt-season.json](./317327-clash-of-clans-egypt-season.json) |
+| Clash of Clans: The North Season | 317335 | [317335-clash-of-clans-the-north-season.json](./317335-clash-of-clans-the-north-season.json) |
 | Clash of Coins | 135029 | [135029-clash-of-coins.json](./135029-clash-of-coins.json) |
 | Clash of Critters | 383642 | [383642-clash-of-critters.json](./383642-clash-of-critters.json) |
 | Clash of Digital: Rumble Smash | 241666 | [241666-clash-of-digital-rumble-smash.json](./241666-clash-of-digital-rumble-smash.json) |
@@ -5189,6 +5195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clutter 17: Flower Power - Collector's Edition | 338869 | [338869-clutter-17-flower-power-collectors-edition.json](./338869-clutter-17-flower-power-collectors-edition.json) |
 | Clutter 18: Joe's Ultimate Challenge - Collector's Edition | 369562 | [369562-clutter-18-joes-ultimate-challenge-collectors-edition.json](./369562-clutter-18-joes-ultimate-challenge-collectors-edition.json) |
 | Clutter 19: Survey Says What? - Collector's Edition | 416781 | [416781-clutter-19-survey-says-what-collectors-edition.json](./416781-clutter-19-survey-says-what-collectors-edition.json) |
+| Clutter 2: He Said She Said | 317294 | [317294-clutter-2-he-said-she-said.json](./317294-clutter-2-he-said-she-said.json) |
 | Clutter Craze | 82188 | [82188-clutter-craze.json](./82188-clutter-craze.json) |
 | Clutter III : Who Is The Void? | 318199 | [318199-clutter-iii-who-is-the-void.json](./318199-clutter-iii-who-is-the-void.json) |
 | Clutter Puzzle Magazine Vol. 15 No. 1: Collector's Edition | 281999 | [281999-clutter-puzzle-magazine-vol-15-no-1-collectors-edition.json](./281999-clutter-puzzle-magazine-vol-15-no-1-collectors-edition.json) |
@@ -5273,6 +5280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coconut CEO Idle | 387629 | [387629-coconut-ceo-idle.json](./387629-coconut-ceo-idle.json) |
 | Coconut Farm 3D | 300779 | [300779-coconut-farm-3d.json](./300779-coconut-farm-3d.json) |
 | Coconuts versus Bananas: The Invasion of Carl CocoPalm | 97456 | [97456-coconuts-versus-bananas-the-invasion-of-carl-cocopalm.json](./97456-coconuts-versus-bananas-the-invasion-of-carl-cocopalm.json) |
+| Cocoro | 317333 | [317333-cocoro.json](./317333-cocoro.json) |
 | Cocoron | 48644 | [48644-cocoron.json](./48644-cocoron.json) |
 | Cocosic: On Pirates' Trail | 417696 | [417696-cocosic-on-pirates-trail.json](./417696-cocosic-on-pirates-trail.json) |
 | Cocoto Alien Brick Breaker | 63857 | [63857-cocoto-alien-brick-breaker.json](./63857-cocoto-alien-brick-breaker.json) |
@@ -9592,6 +9600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cut Cats' Balls | 410309 | [410309-cut-cats-balls.json](./410309-cut-cats-balls.json) |
 | Cut Cut Buffet | 29753 | [29753-cut-cut-buffet.json](./29753-cut-cut-buffet.json) |
 | Cut Grass | 188392 | [188392-cut-grass.json](./188392-cut-grass.json) |
+| Cut It | 316716 | [316716-cut-it.json](./316716-cut-it.json) |
 | Cut Me Deeply | 229159 | [229159-cut-me-deeply.json](./229159-cut-me-deeply.json) |
 | Cut Off | 175192 | [175192-cut-off.json](./175192-cut-off.json) |
 | Cut Off From The World | 245318 | [245318-cut-off-from-the-world.json](./245318-cut-off-from-the-world.json) |
