@@ -1020,6 +1020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiara and the Case of the Missing Chocolates | 181844 | [181844-kiara-and-the-case-of-the-missing-chocolates.json](./181844-kiara-and-the-case-of-the-missing-chocolates.json) |
 | Kibble Cats | 410233 | [410233-kibble-cats.json](./410233-kibble-cats.json) |
 | Kiborg | 249998 | [249998-kiborg.json](./249998-kiborg.json) |
+| Kiborg: Arena | 306565 | [306565-kiborg-arena.json](./306565-kiborg-arena.json) |
 | Kiborg: Descent | 393609 | [393609-kiborg-descent.json](./393609-kiborg-descent.json) |
 | Kichiku Megane | 142451 | [142451-kichiku-megane.json](./142451-kichiku-megane.json) |
 | Kick Ass Commandos | 20347 | [20347-kick-ass-commandos.json](./20347-kick-ass-commandos.json) |
@@ -2061,6 +2062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitty's Adventure for XBox One | 358365 | [358365-kittys-adventure-for-xbox-one.json](./358365-kittys-adventure-for-xbox-one.json) |
 | Kitty's Hungry Adventure | 367550 | [367550-kittys-hungry-adventure.json](./367550-kittys-hungry-adventure.json) |
 | Kitty's Last Adventure | 295372 | [295372-kittys-last-adventure.json](./295372-kittys-last-adventure.json) |
+| KittyToy | 306605 | [306605-kittytoy.json](./306605-kittytoy.json) |
 | Kity Builder | 204525 | [204525-kity-builder.json](./204525-kity-builder.json) |
 | Kivi, Toilet and Shotgun | 16308 | [16308-kivi-toilet-and-shotgun.json](./16308-kivi-toilet-and-shotgun.json) |
 | Kiwame Mahjong Deluxe: Mirai Senshi 21 | 128365 | [128365-kiwame-mahjong-deluxe-mirai-senshi-21.json](./128365-kiwame-mahjong-deluxe-mirai-senshi-21.json) |
@@ -2388,6 +2390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knuckles' Emerald Hunt | 129184 | [129184-knuckles-emerald-hunt.json](./129184-knuckles-emerald-hunt.json) |
 | Knuckles' Week At Sonic's | 400429 | [400429-knuckles-week-at-sonics.json](./400429-knuckles-week-at-sonics.json) |
 | Knuffi | 295900 | [295900-knuffi.json](./295900-knuffi.json) |
+| Knyaz' Vladimir | 306566 | [306566-knyaz-vladimir.json](./306566-knyaz-vladimir.json) |
 | Knytt Classic | 412975 | [412975-knytt-classic.json](./412975-knytt-classic.json) |
 | Knytt Stories | 51317 | [51317-knytt-stories.json](./51317-knytt-stories.json) |
 | KO Chaos | 285456 | [285456-ko-chaos.json](./285456-ko-chaos.json) |
