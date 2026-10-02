@@ -263,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Commandos | 250014 | [250014-galactic-commandos.json](./250014-galactic-commandos.json) |
 | Galactic Conquest | 94918 | [94918-galactic-conquest.json](./94918-galactic-conquest.json) |
 | Galactic Core: The Lost Fleet | 30100 | [30100-galactic-core-the-lost-fleet.json](./30100-galactic-core-the-lost-fleet.json) |
+| Galactic Counselors | 292245 | [292245-galactic-counselors.json](./292245-galactic-counselors.json) |
 | Galactic Dating: Harem in Space Station | 292635 | [292635-galactic-dating-harem-in-space-station.json](./292635-galactic-dating-harem-in-space-station.json) |
 | Galactic Deck Clash | 373680 | [373680-galactic-deck-clash.json](./373680-galactic-deck-clash.json) |
 | Galactic Defender | 261338 | [261338-galactic-defender.json](./261338-galactic-defender.json) |
@@ -643,6 +644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Legends: Rise of Champions | 194023 | [194023-game-of-legends-rise-of-champions.json](./194023-game-of-legends-rise-of-champions.json) |
 | Game of Life | 76506 | [76506-game-of-life.json](./76506-game-of-life.json) |
 | Game of Life Kuzushi | 366434 | [366434-game-of-life-kuzushi.json](./366434-game-of-life-kuzushi.json) |
+| Game of Life: Time | 292263 | [292263-game-of-life-time.json](./292263-game-of-life-time.json) |
 | Game of Mafia | 169415 | [169415-game-of-mafia.json](./169415-game-of-mafia.json) |
 | Game of Puzzles: Animals | 163428 | [163428-game-of-puzzles-animals.json](./163428-game-of-puzzles-animals.json) |
 | Game of Puzzles: Animals - Expansion Pack | 163429 | [163429-game-of-puzzles-animals-expansion-pack.json](./163429-game-of-puzzles-animals-expansion-pack.json) |
@@ -4771,6 +4773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Growth Experiment | 285526 | [285526-growth-experiment.json](./285526-growth-experiment.json) |
 | Growth Spurt: A Meandering Intermission into the Afterhours of a Miscalculation | 301910 | [301910-growth-spurt-a-meandering-intermission-into-the-afterhours-of-a-miscalculation.json](./301910-growth-spurt-a-meandering-intermission-into-the-afterhours-of-a-miscalculation.json) |
 | Grozs Fantasy World | 262921 | [262921-grozs-fantasy-world.json](./262921-grozs-fantasy-world.json) |
+| Grr Boo I | 292262 | [292262-grr-boo-i.json](./292262-grr-boo-i.json) |
 | Grr! Bearly Sane | 169891 | [169891-grr-bearly-sane.json](./169891-grr-bearly-sane.json) |
 | Gru Dash Play | 384538 | [384538-gru-dash-play.json](./384538-gru-dash-play.json) |
 | Grub Guardian | 395883 | [395883-grub-guardian.json](./395883-grub-guardian.json) |
