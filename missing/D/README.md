@@ -8225,6 +8225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop Duchy: The North | 383572 | [383572-drop-duchy-the-north.json](./383572-drop-duchy-the-north.json) |
 | Drop Flip | 96538 | [96538-drop-flip.json](./96538-drop-flip.json) |
 | Drop Flip Seasons | 96284 | [96284-drop-flip-seasons.json](./96284-drop-flip-seasons.json) |
+| Drop It | 285127 | [285127-drop-it.json](./285127-drop-it.json) |
 | Drop Loot | 411029 | [411029-drop-loot.json](./411029-drop-loot.json) |
 | Drop Mahjong Tiles | 287314 | [287314-drop-mahjong-tiles.json](./287314-drop-mahjong-tiles.json) |
 | Drop Pane: Not Only Match-3 | 290480 | [290480-drop-pane-not-only-match-3.json](./290480-drop-pane-not-only-match-3.json) |
