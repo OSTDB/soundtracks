@@ -1285,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sayo-kun no Omajinai | 314850 | [314850-sayo-kun-no-omajinai.json](./314850-sayo-kun-no-omajinai.json) |
 | Sayonara | 252989 | [252989-sayonara.json](./252989-sayonara.json) |
 | Sayonara Golden Days: Golden Souls | 148345 | [148345-sayonara-golden-days-golden-souls.json](./148345-sayonara-golden-days-golden-souls.json) |
+| Sayonara Jinsei. | 288438 | [288438-sayonara-jinsei.json](./288438-sayonara-jinsei.json) |
 | Sayonara Mr. Stealer | 388004 | [388004-sayonara-mr-stealer.json](./388004-sayonara-mr-stealer.json) |
 | Sayonara NightCap | 260397 | [260397-sayonara-nightcap.json](./260397-sayonara-nightcap.json) |
 | Sayonara Sigil Sentry | 331679 | [331679-sayonara-sigil-sentry.json](./331679-sayonara-sigil-sentry.json) |
@@ -14293,6 +14294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stupid Quest | 116814 | [116814-stupid-quest.json](./116814-stupid-quest.json) |
 | Stupid Space Shooter | 310759 | [310759-stupid-space-shooter.json](./310759-stupid-space-shooter.json) |
 | Stupid Spaceships | 390622 | [390622-stupid-spaceships.json](./390622-stupid-spaceships.json) |
+| Stupid Teammates | 288428 | [288428-stupid-teammates.json](./288428-stupid-teammates.json) |
 | Stupid Zombies 2 | 207250 | [207250-stupid-zombies-2.json](./207250-stupid-zombies-2.json) |
 | Stupid Zombies 3 | 207251 | [207251-stupid-zombies-3.json](./207251-stupid-zombies-3.json) |
 | SturmFront - The Mutant War | 15394 | [15394-sturmfront-the-mutant-war.json](./15394-sturmfront-the-mutant-war.json) |
