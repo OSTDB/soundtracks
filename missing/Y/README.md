@@ -486,6 +486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You are Awake Now | 234716 | [234716-you-are-awake-now.json](./234716-you-are-awake-now.json) |
 | You Are Being Followed | 152293 | [152293-you-are-being-followed.json](./152293-you-are-being-followed.json) |
 | You Are Being Watched | 230764 | [230764-you-are-being-watched.json](./230764-you-are-being-watched.json) |
+| You Are Dead! | 323798 | [323798-you-are-dead.json](./323798-you-are-dead.json) |
 | You are Dough | 243643 | [243643-you-are-dough.json](./243643-you-are-dough.json) |
 | You Are Family | 418531 | [418531-you-are-family.json](./418531-you-are-family.json) |
 | You Are Grounded | 370191 | [370191-you-are-grounded.json](./370191-you-are-grounded.json) |
