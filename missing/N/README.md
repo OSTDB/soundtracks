@@ -475,6 +475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natsuyasumi | 327917 | [327917-natsuyasumi.json](./327917-natsuyasumi.json) |
 | Natsuyasumi ga Machidooshii | 307833 | [307833-natsuyasumi-ga-machidooshii.json](./307833-natsuyasumi-ga-machidooshii.json) |
 | Natsuyume Yawa | 408093 | [408093-natsuyume-yawa.json](./408093-natsuyume-yawa.json) |
+| Natsuzora no Monologue: Another Memory | 287895 | [287895-natsuzora-no-monologue-another-memory.json](./287895-natsuzora-no-monologue-another-memory.json) |
 | Natti | 236911 | [236911-natti.json](./236911-natti.json) |
 | Natto-Cat | 68776 | [68776-natto-cat.json](./68776-natto-cat.json) |
 | Natural | 189065 | [189065-natural.json](./189065-natural.json) |
@@ -2548,6 +2549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Fight | 336374 | [336374-ninja-fight.json](./336374-ninja-fight.json) |
 | Ninja Fighter | 200422 | [200422-ninja-fighter.json](./200422-ninja-fighter.json) |
 | Ninja Fishing | 228412 | [228412-ninja-fishing.json](./228412-ninja-fishing.json) |
+| Ninja Five-O | 287869 | [287869-ninja-five-o.json](./287869-ninja-five-o.json) |
 | Ninja Flip | 300856 | [300856-ninja-flip.json](./300856-ninja-flip.json) |
 | Ninja Frog | 93523 | [93523-ninja-frog.json](./93523-ninja-frog.json) |
 | Ninja from Hell vs. Reptiloids | 105346 | [105346-ninja-from-hell-vs-reptiloids.json](./105346-ninja-from-hell-vs-reptiloids.json) |
