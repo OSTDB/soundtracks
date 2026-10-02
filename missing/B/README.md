@@ -7018,6 +7018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Off | 172101 | [172101-brain-off.json](./172101-brain-off.json) |
 | Brain on Physics Boxs Puzzles | 86990 | [86990-brain-on-physics-boxs-puzzles.json](./86990-brain-on-physics-boxs-puzzles.json) |
 | Brain On: Can You Pass It? | 224089 | [224089-brain-on-can-you-pass-it.json](./224089-brain-on-can-you-pass-it.json) |
+| Brain Out: Can You Pass It? | 312644 | [312644-brain-out-can-you-pass-it.json](./312644-brain-out-can-you-pass-it.json) |
 | Brain Pump | 116155 | [116155-brain-pump.json](./116155-brain-pump.json) |
 | Brain Puzzle | 90203 | [90203-brain-puzzle.json](./90203-brain-puzzle.json) |
 | Brain Quest Grades 3 & 4 | 68941 | [68941-brain-quest-grades-3-and-4.json](./68941-brain-quest-grades-3-and-4.json) |
@@ -7486,6 +7487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Block | 304041 | [304041-brick-block.json](./304041-brick-block.json) |
 | Brick Breaker | 195751 | [195751-brick-breaker.json](./195751-brick-breaker.json) |
 | Brick Breaker Bunch | 87968 | [87968-brick-breaker-bunch.json](./87968-brick-breaker-bunch.json) |
+| Brick Breaker DEMOLITION | 312645 | [312645-brick-breaker-demolition.json](./312645-brick-breaker-demolition.json) |
 | Brick Breaker Infinity | 305932 | [305932-brick-breaker-infinity.json](./305932-brick-breaker-infinity.json) |
 | Brick Breaker Lab | 237306 | [237306-brick-breaker-lab.json](./237306-brick-breaker-lab.json) |
 | Brick Breaker Maker | 344515 | [344515-brick-breaker-maker.json](./344515-brick-breaker-maker.json) |
