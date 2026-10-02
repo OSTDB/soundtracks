@@ -1653,6 +1653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ura Kyoushi: Haitoku no Inetsu Jugyou | 77930 | [77930-ura-kyoushi-haitoku-no-inetsu-jugyou.json](./77930-ura-kyoushi-haitoku-no-inetsu-jugyou.json) |
 | Ura no Ura | 76596 | [76596-ura-no-ura.json](./76596-ura-no-ura.json) |
 | Uraankhians Dygyn: The Beginning | 314904 | [314904-uraankhians-dygyn-the-beginning.json](./314904-uraankhians-dygyn-the-beginning.json) |
+| Uragiri wa Boku no Namae wo Shitteiru: Tasogare ni Ochita Inori | 287900 | [287900-uragiri-wa-boku-no-namae-wo-shitteiru-tasogare-ni-ochita-inori.json](./287900-uragiri-wa-boku-no-namae-wo-shitteiru-tasogare-ni-ochita-inori.json) |
 | URagnarok | 98042 | [98042-uragnarok.json](./98042-uragnarok.json) |
 | URagnarok 2 | 98022 | [98022-uragnarok-2.json](./98022-uragnarok-2.json) |
 | Urania | 313835 | [313835-urania.json](./313835-urania.json) |
