@@ -2013,6 +2013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinos Exa | 316072 | [316072-infinos-exa.json](./316072-infinos-exa.json) |
 | Infinos Gaiden | 81841 | [81841-infinos-gaiden.json](./81841-infinos-gaiden.json) |
 | Inflatable doll | 155462 | [155462-inflatable-doll.json](./155462-inflatable-doll.json) |
+| Inflatables | 309033 | [309033-inflatables.json](./309033-inflatables.json) |
 | Inflate Me to the Moon | 177494 | [177494-inflate-me-to-the-moon.json](./177494-inflate-me-to-the-moon.json) |
 | Inflation RPG | 208481 | [208481-inflation-rpg.json](./208481-inflation-rpg.json) |
 | Inflatum | 295879 | [295879-inflatum.json](./295879-inflatum.json) |
