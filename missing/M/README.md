@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.A.C.E. TD | 87607 | [87607-m-a-c-e-td.json](./87607-m-a-c-e-td.json) |
 | M.A.C.H | 44508 | [44508-m-a-c-h.json](./44508-m-a-c-h.json) |
 | M.A.C.S. | 90645 | [90645-m-a-c-s.json](./90645-m-a-c-s.json) |
+| M.A.D. Cows | 279879 | [279879-m-a-d-cows.json](./279879-m-a-d-cows.json) |
 | M.A.D. Cows and D.U.M.B. Ducks Bundle | 331533 | [331533-m-a-d-cows-and-d-u-m-b-ducks-bundle.json](./331533-m-a-d-cows-and-d-u-m-b-ducks-bundle.json) |
 | M.A.I.D.s | 148360 | [148360-m-a-i-d-s.json](./148360-m-a-i-d-s.json) |
 | M.A.L.M.O: Scorched Earth | 358346 | [358346-m-a-l-m-o-scorched-earth.json](./358346-m-a-l-m-o-scorched-earth.json) |
