@@ -255,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fade Into Darkness | 63841 | [63841-fade-into-darkness.json](./63841-fade-into-darkness.json) |
 | Fade Out | 118292 | [118292-fade-out.json](./118292-fade-out.json) |
 | Fade: A Ghost Story | 307742 | [307742-fade-a-ghost-story.json](./307742-fade-a-ghost-story.json) |
+| Fade^2 | 279889 | [279889-fade-2.json](./279889-fade-2.json) |
 | Faded | 290525 | [290525-faded.json](./290525-faded.json) |
 | Faded Grey | 166729 | [166729-faded-grey.json](./166729-faded-grey.json) |
 | Faded Melodies | 298897 | [298897-faded-melodies.json](./298897-faded-melodies.json) |
@@ -1850,6 +1851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feline Fever Dream | 416641 | [416641-feline-fever-dream.json](./416641-feline-fever-dream.json) |
 | Feline Forensics and the Meowseum Mystery | 299368 | [299368-feline-forensics-and-the-meowseum-mystery.json](./299368-feline-forensics-and-the-meowseum-mystery.json) |
 | Feline Realms: The Ancients' Legacy | 386280 | [386280-feline-realms-the-ancients-legacy.json](./386280-feline-realms-the-ancients-legacy.json) |
+| Feline Shenanigans | 279854 | [279854-feline-shenanigans.json](./279854-feline-shenanigans.json) |
 | Feline Sweet | 165430 | [165430-feline-sweet.json](./165430-feline-sweet.json) |
 | Felinea Tales | 328532 | [328532-felinea-tales.json](./328532-felinea-tales.json) |
 | Felis: Cat Saving Platformer | 30106 | [30106-felis-cat-saving-platformer.json](./30106-felis-cat-saving-platformer.json) |
@@ -3352,6 +3354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fitness Boxing 2: Rhythm & Exercise | 138952 | [138952-fitness-boxing-2-rhythm-and-exercise.json](./138952-fitness-boxing-2-rhythm-and-exercise.json) |
 | Fitness Boxing 3: Your Personal Trainer | 314941 | [314941-fitness-boxing-3-your-personal-trainer.json](./314941-fitness-boxing-3-your-personal-trainer.json) |
 | Fitness Boxing Fist of the North Star | 217551 | [217551-fitness-boxing-fist-of-the-north-star.json](./217551-fitness-boxing-fist-of-the-north-star.json) |
+| Fitness Boxing: Fist of the North Star - Expansion Pack | 279869 | [279869-fitness-boxing-fist-of-the-north-star-expansion-pack.json](./279869-fitness-boxing-fist-of-the-north-star-expansion-pack.json) |
 | Fitness Dash | 16078 | [16078-fitness-dash.json](./16078-fitness-dash.json) |
 | Fitness Fables | 327589 | [327589-fitness-fables.json](./327589-fitness-fables.json) |
 | Fitness Game: Romance Story | 256250 | [256250-fitness-game-romance-story.json](./256250-fitness-game-romance-story.json) |
@@ -3483,6 +3486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five-A-Side Soccer | 84235 | [84235-five-a-side-soccer.json](./84235-five-a-side-soccer.json) |
 | Five-element Seal: Infinity | 309523 | [309523-five-element-seal-infinity.json](./309523-five-element-seal-infinity.json) |
 | Five-O Deluxe | 104103 | [104103-five-o-deluxe.json](./104103-five-o-deluxe.json) |
+| Five-Star: Chef Ops | 279901 | [279901-five-star-chef-ops.json](./279901-five-star-chef-ops.json) |
 | Five: Guardians of David | 20205 | [20205-five-guardians-of-david.json](./20205-five-guardians-of-david.json) |
 | FiveM | 146553 | [146553-fivem.json](./146553-fivem.json) |
 | Fivies | 220343 | [220343-fivies.json](./220343-fivies.json) |
