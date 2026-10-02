@@ -7091,6 +7091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nutshack: The Game | 57165 | [57165-the-nutshack-the-game.json](./57165-the-nutshack-the-game.json) |
 | The Oath of the Dark Magic Queen | 181120 | [181120-the-oath-of-the-dark-magic-queen.json](./181120-the-oath-of-the-dark-magic-queen.json) |
 | The Obedience Experiment | 406893 | [406893-the-obedience-experiment.json](./406893-the-obedience-experiment.json) |
+| The Object | 316182 | [316182-the-object.json](./316182-the-object.json) |
 | The Oblivion Asylum | 117676 | [117676-the-oblivion-asylum.json](./117676-the-oblivion-asylum.json) |
 | The Obscura Experiment | 239652 | [239652-the-obscura-experiment.json](./239652-the-obscura-experiment.json) |
 | The Observed | 182555 | [182555-the-observed.json](./182555-the-observed.json) |
@@ -11833,6 +11834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TNT Goes Boom! | 269661 | [269661-tnt-goes-boom.json](./269661-tnt-goes-boom.json) |
 | TNT Racers | 20555 | [20555-tnt-racers.json](./20555-tnt-racers.json) |
 | TNT: Evilution | 46616 | [46616-tnt-evilution.json](./46616-tnt-evilution.json) |
+| TNT: Threevilution | 316174 | [316174-tnt-threevilution.json](./316174-tnt-threevilution.json) |
 | TNT! | 118978 | [118978-tnt.json](./118978-tnt.json) |
 | TNTPhobia | 311461 | [311461-tntphobia.json](./311461-tntphobia.json) |
 | To Akimon | 115462 | [115462-to-akimon.json](./115462-to-akimon.json) |
