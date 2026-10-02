@@ -2414,6 +2414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls: Ultra Definitive | 317285 | [317285-hentai-girls-ultra-definitive.json](./317285-hentai-girls-ultra-definitive.json) |
 | Hentai Girls: Ultra Extended | 308817 | [308817-hentai-girls-ultra-extended.json](./308817-hentai-girls-ultra-extended.json) |
 | Hentai Girls: Ultra Premium | 316216 | [316216-hentai-girls-ultra-premium.json](./316216-hentai-girls-ultra-premium.json) |
+| Hentai Girls: Ultra Special | 312086 | [312086-hentai-girls-ultra-special.json](./312086-hentai-girls-ultra-special.json) |
 | Hentai Girls: Winky Witch | 322654 | [322654-hentai-girls-winky-witch.json](./322654-hentai-girls-winky-witch.json) |
 | Hentai Golf | 283177 | [283177-hentai-golf.json](./283177-hentai-golf.json) |
 | Hentai Golf: Amazing Edition | 317912 | [317912-hentai-golf-amazing-edition.json](./317912-hentai-golf-amazing-edition.json) |
