@@ -377,6 +377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoiyami Biscuit | 307308 | [307308-yoiyami-biscuit.json](./307308-yoiyami-biscuit.json) |
 | Yoiyami Dancers | 100556 | [100556-yoiyami-dancers.json](./100556-yoiyami-dancers.json) |
 | Yoiyami Dreamer: Voice of the Dreambringer | 69353 | [69353-yoiyami-dreamer-voice-of-the-dreambringer.json](./69353-yoiyami-dreamer-voice-of-the-dreambringer.json) |
+| Yoiyo Mori no Hime | 293326 | [293326-yoiyo-mori-no-hime.json](./293326-yoiyo-mori-no-hime.json) |
 | Yokai Art: Night Parade of One Hundred Demons | 195726 | [195726-yokai-art-night-parade-of-one-hundred-demons.json](./195726-yokai-art-night-parade-of-one-hundred-demons.json) |
 | Yokai Busters | 320225 | [320225-yokai-busters.json](./320225-yokai-busters.json) |
 | Yokai Inn | 152181 | [152181-yokai-inn.json](./152181-yokai-inn.json) |
