@@ -1734,6 +1734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Corruption | 211173 | [211173-after-corruption.json](./211173-after-corruption.json) |
 | After Dark | 357793 | [357793-after-dark.json](./357793-after-dark.json) |
 | After Dark: Under the Moonlight | 302631 | [302631-after-dark-under-the-moonlight.json](./302631-after-dark-under-the-moonlight.json) |
+| After Doom | 300354 | [300354-after-doom.json](./300354-after-doom.json) |
 | After Exposure | 341131 | [341131-after-exposure.json](./341131-after-exposure.json) |
 | After Friday | 339803 | [339803-after-friday.json](./339803-after-friday.json) |
 | After Fright | 279068 | [279068-after-fright.json](./279068-after-fright.json) |
@@ -6344,6 +6345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arisen Force: Life Devotee of Wukong | 322972 | [322972-arisen-force-life-devotee-of-wukong.json](./322972-arisen-force-life-devotee-of-wukong.json) |
 | Arisen Force: LifeDevotee | 366210 | [366210-arisen-force-lifedevotee.json](./366210-arisen-force-lifedevotee.json) |
 | Arisen Force: Vonimir | 244893 | [244893-arisen-force-vonimir.json](./244893-arisen-force-vonimir.json) |
+| Arishia Tale | 300298 | [300298-arishia-tale.json](./300298-arishia-tale.json) |
 | Aristocratic Potato | 343913 | [343913-aristocratic-potato.json](./343913-aristocratic-potato.json) |
 | Aristoi | 180233 | [180233-aristoi.json](./180233-aristoi.json) |
 | Aritana and the Twin Masks | 120865 | [120865-aritana-and-the-twin-masks.json](./120865-aritana-and-the-twin-masks.json) |
