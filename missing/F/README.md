@@ -530,6 +530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Evolution | 334792 | [334792-fallen-evolution.json](./334792-fallen-evolution.json) |
 | Fallen Fates | 345579 | [345579-fallen-fates.json](./345579-fallen-fates.json) |
 | Fallen from Grace | 271220 | [271220-fallen-from-grace.json](./271220-fallen-from-grace.json) |
+| Fallen GF | 297733 | [297733-fallen-gf.json](./297733-fallen-gf.json) |
 | Fallen Gods | 58297 | [58297-fallen-gods.json](./58297-fallen-gods.json) |
 | Fallen Guns | 190444 | [190444-fallen-guns.json](./190444-fallen-guns.json) |
 | Fallen Haven | 24072 | [24072-fallen-haven.json](./24072-fallen-haven.json) |
@@ -6213,6 +6214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen Synapse: Tactics | 52228 | [52228-frozen-synapse-tactics.json](./52228-frozen-synapse-tactics.json) |
 | Frozen Time | 256864 | [256864-frozen-time.json](./256864-frozen-time.json) |
 | Frozen Way Tri-Bundle | 342237 | [342237-frozen-way-tri-bundle.json](./342237-frozen-way-tri-bundle.json) |
+| Frozen: Laptop Infantil | 297748 | [297748-frozen-laptop-infantil.json](./297748-frozen-laptop-infantil.json) |
 | Frozen: Royal Castle | 306444 | [306444-frozen-royal-castle.json](./306444-frozen-royal-castle.json) |
 | FrozenPizza | 270096 | [270096-frozenpizza.json](./270096-frozenpizza.json) |
 | Frozzic's Revenge | 57603 | [57603-frozzics-revenge.json](./57603-frozzics-revenge.json) |
