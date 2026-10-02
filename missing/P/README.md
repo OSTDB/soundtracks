@@ -109,6 +109,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Double Feature | 378397 | [378397-pac-man-double-feature.json](./378397-pac-man-double-feature.json) |
 | Pac-Man Geo | 172697 | [172697-pac-man-geo.json](./172697-pac-man-geo.json) |
 | Pac-Man Maker | 28186 | [28186-pac-man-maker.json](./28186-pac-man-maker.json) |
+| Pac-Man Mega Tunnel Battle: Chomp Champs - Lunar Animals Pac | 300927 | [300927-pac-man-mega-tunnel-battle-chomp-champs-lunar-animals-pac.json](./300927-pac-man-mega-tunnel-battle-chomp-champs-lunar-animals-pac.json) |
+| Pac-Man Mega Tunnel Battle: Chomp Champs - Namco Pals Pac | 300926 | [300926-pac-man-mega-tunnel-battle-chomp-champs-namco-pals-pac.json](./300926-pac-man-mega-tunnel-battle-chomp-champs-namco-pals-pac.json) |
 | Pac-Man Megamix | 322106 | [322106-pac-man-megamix.json](./322106-pac-man-megamix.json) |
 | Pac-Man Museum: Ms. Pac-Man DLC | 343386 | [343386-pac-man-museum-ms-pac-man-dlc.json](./343386-pac-man-museum-ms-pac-man-dlc.json) |
 | Pac-Man Museum+ | 182246 | [182246-pac-man-museum.json](./182246-pac-man-museum.json) |
@@ -3438,6 +3440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX: Goat Simulator Pinball | 316243 | [316243-pinball-fx-goat-simulator-pinball.json](./316243-pinball-fx-goat-simulator-pinball.json) |
 | Pinball FX: Marvel Pinball Collection 1 | 239027 | [239027-pinball-fx-marvel-pinball-collection-1.json](./239027-pinball-fx-marvel-pinball-collection-1.json) |
 | Pinball FX: Nightmare Mansion | 395547 | [395547-pinball-fx-nightmare-mansion.json](./395547-pinball-fx-nightmare-mansion.json) |
+| Pinball FX: Pacific Rim Pinball | 300925 | [300925-pinball-fx-pacific-rim-pinball.json](./300925-pinball-fx-pacific-rim-pinball.json) |
 | Pinball FX: Peanuts' Snoopy Pinball | 239029 | [239029-pinball-fx-peanuts-snoopy-pinball.json](./239029-pinball-fx-peanuts-snoopy-pinball.json) |
 | Pinball FX: Rocky and Bullwinkle | 395546 | [395546-pinball-fx-rocky-and-bullwinkle.json](./395546-pinball-fx-rocky-and-bullwinkle.json) |
 | Pinball FX: Secrets and Shadows Pack | 239028 | [239028-pinball-fx-secrets-and-shadows-pack.json](./239028-pinball-fx-secrets-and-shadows-pack.json) |
@@ -3445,6 +3448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX: Star Wars Pinball Collection 1 | 239026 | [239026-pinball-fx-star-wars-pinball-collection-1.json](./239026-pinball-fx-star-wars-pinball-collection-1.json) |
 | Pinball FX: Star Wars Pinball Collection 2 | 239025 | [239025-pinball-fx-star-wars-pinball-collection-2.json](./239025-pinball-fx-star-wars-pinball-collection-2.json) |
 | Pinball FX: Street Fighter II Tribute | 395551 | [395551-pinball-fx-street-fighter-ii-tribute.json](./395551-pinball-fx-street-fighter-ii-tribute.json) |
+| Pinball FX: Super League Football | 300924 | [300924-pinball-fx-super-league-football.json](./300924-pinball-fx-super-league-football.json) |
 | Pinball FX: System Shock Pinball | 287178 | [287178-pinball-fx-system-shock-pinball.json](./287178-pinball-fx-system-shock-pinball.json) |
 | Pinball FX: The Machine - Bride of Pin Bot️ | 239023 | [239023-pinball-fx-the-machine-bride-of-pin-bot.json](./239023-pinball-fx-the-machine-bride-of-pin-bot.json) |
 | Pinball FX: The Princess Bride Pinball | 316244 | [316244-pinball-fx-the-princess-bride-pinball.json](./316244-pinball-fx-the-princess-bride-pinball.json) |
@@ -3580,6 +3584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ping Pong Trick Shot 2 | 84823 | [84823-ping-pong-trick-shot-2.json](./84823-ping-pong-trick-shot-2.json) |
 | Ping Pong Trick Shot Evolution | 115059 | [115059-ping-pong-trick-shot-evolution.json](./115059-ping-pong-trick-shot-evolution.json) |
 | Ping Profit: Internet Tycoon | 345646 | [345646-ping-profit-internet-tycoon.json](./345646-ping-profit-internet-tycoon.json) |
+| Ping Race | 300923 | [300923-ping-race.json](./300923-ping-race.json) |
 | Ping Redux | 119797 | [119797-ping-redux.json](./119797-ping-redux.json) |
 | Ping! | 79906 | [79906-ping.json](./79906-ping.json) |
 | Pinga Ponga | 31850 | [31850-pinga-ponga.json](./31850-pinga-ponga.json) |
