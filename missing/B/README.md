@@ -5183,6 +5183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocktopia | 326241 | [326241-blocktopia.json](./326241-blocktopia.json) |
 | Blockudoku | 227479 | [227479-blockudoku.json](./227479-blockudoku.json) |
 | BlockUrbs | 338251 | [338251-blockurbs.json](./338251-blockurbs.json) |
+| Blockus | 327456 | [327456-blockus.json](./327456-blockus.json) |
 | Blockus' Adventures | 118344 | [118344-blockus-adventures.json](./118344-blockus-adventures.json) |
 | Blockwick | 74783 | [74783-blockwick.json](./74783-blockwick.json) |
 | Blockxy Puzzle Adventure | 328560 | [328560-blockxy-puzzle-adventure.json](./328560-blockxy-puzzle-adventure.json) |
@@ -6370,6 +6371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Booty Diver | 68321 | [68321-booty-diver.json](./68321-booty-diver.json) |
 | Booty Hunt | 112289 | [112289-booty-hunt.json](./112289-booty-hunt.json) |
 | Bootybuns 2 | 127925 | [127925-bootybuns-2.json](./127925-bootybuns-2.json) |
+| Booze & Ooze | 327291 | [327291-booze-and-ooze.json](./327291-booze-and-ooze.json) |
 | Booze Master | 191852 | [191852-booze-master.json](./191852-booze-master.json) |
 | Booze Masters: Freezing Moonshine | 119092 | [119092-booze-masters-freezing-moonshine.json](./119092-booze-masters-freezing-moonshine.json) |
 | Booze Masters: Freezing Moonshine | 266821 | [266821-booze-masters-freezing-moonshine.json](./266821-booze-masters-freezing-moonshine.json) |
@@ -7580,6 +7582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brio World: Railway | 374257 | [374257-brio-world-railway.json](./374257-brio-world-railway.json) |
 | Briquette Sprite | 87105 | [87105-briquette-sprite.json](./87105-briquette-sprite.json) |
 | Briscola | 100011 | [100011-briscola.json](./100011-briscola.json) |
+| Brisk | 327267 | [327267-brisk.json](./327267-brisk.json) |
 | Brisk Square | 151178 | [151178-brisk-square.json](./151178-brisk-square.json) |
 | Bristle and the Artificial Invasion | 316102 | [316102-bristle-and-the-artificial-invasion.json](./316102-bristle-and-the-artificial-invasion.json) |
 | Bristles | 23863 | [23863-bristles.json](./23863-bristles.json) |
