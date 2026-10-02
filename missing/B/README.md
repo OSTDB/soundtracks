@@ -7355,6 +7355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawlhalla: Summer Championship 2017 Pack | 342229 | [342229-brawlhalla-summer-championship-2017-pack.json](./342229-brawlhalla-summer-championship-2017-pack.json) |
 | Brawlhalla: Summer Championship 2018 Pack | 342627 | [342627-brawlhalla-summer-championship-2018-pack.json](./342627-brawlhalla-summer-championship-2018-pack.json) |
 | Brawlhalla: Winter Championship 2018 Pack | 342625 | [342625-brawlhalla-winter-championship-2018-pack.json](./342625-brawlhalla-winter-championship-2018-pack.json) |
+| Brawlhalla: Winter Championship 2024 Pack | 292744 | [292744-brawlhalla-winter-championship-2024-pack.json](./292744-brawlhalla-winter-championship-2024-pack.json) |
 | Brawlin' Sailor | 201288 | [201288-brawlin-sailor.json](./201288-brawlin-sailor.json) |
 | Brawlout: Deluxe Edition | 119077 | [119077-brawlout-deluxe-edition.json](./119077-brawlout-deluxe-edition.json) |
 | BrawlQuest | 103637 | [103637-brawlquest.json](./103637-brawlquest.json) |
@@ -7855,6 +7856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bronze Dragon: Conquest of Infinity | 122987 | [122987-bronze-dragon-conquest-of-infinity.json](./122987-bronze-dragon-conquest-of-infinity.json) |
 | Bronze Hoof | 127083 | [127083-bronze-hoof.json](./127083-bronze-hoof.json) |
 | Bronzebeard's Tavern | 258955 | [258955-bronzebeards-tavern.json](./258955-bronzebeards-tavern.json) |
+| Bronzebeard's Tavern: Founder's Pack | 292752 | [292752-bronzebeards-tavern-founders-pack.json](./292752-bronzebeards-tavern-founders-pack.json) |
 | Brood | 116514 | [116514-brood.json](./116514-brood.json) |
 | Brooklyn Sentai: Episode One | 132729 | [132729-brooklyn-sentai-episode-one.json](./132729-brooklyn-sentai-episode-one.json) |
 | Brooklyn Trash King | 172508 | [172508-brooklyn-trash-king.json](./172508-brooklyn-trash-king.json) |
