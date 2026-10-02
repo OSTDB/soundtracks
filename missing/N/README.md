@@ -1335,6 +1335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nepenthe | 100600 | [100600-nepenthe.json](./100600-nepenthe.json) |
 | Nephelem: A Path of Vice and Virtue | 342653 | [342653-nephelem-a-path-of-vice-and-virtue.json](./342653-nephelem-a-path-of-vice-and-virtue.json) |
 | Nephilim | 270973 | [270973-nephilim.json](./270973-nephilim.json) |
+| Nephilim Resurrection | 323233 | [323233-nephilim-resurrection.json](./323233-nephilim-resurrection.json) |
 | Nephise Begins | 36469 | [36469-nephise-begins.json](./36469-nephise-begins.json) |
 | Nephise: Ascension | 88057 | [88057-nephise-ascension.json](./88057-nephise-ascension.json) |
 | Neptune Island | 319796 | [319796-neptune-island.json](./319796-neptune-island.json) |
@@ -1412,6 +1413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NetGunner | 139844 | [139844-netgunner.json](./139844-netgunner.json) |
 | NetHack | 207850 | [207850-nethack.json](./207850-nethack.json) |
 | NetHack | 2895 | [2895-nethack.json](./2895-nethack.json) |
+| Nether Dungeons | 323221 | [323221-nether-dungeons.json](./323221-nether-dungeons.json) |
 | Nether Gallery | 116111 | [116111-nether-gallery.json](./116111-nether-gallery.json) |
 | Nether Spirits: Beyond the Gate | 263769 | [263769-nether-spirits-beyond-the-gate.json](./263769-nether-spirits-beyond-the-gate.json) |
 | Nether: The Untold Chapter | 118029 | [118029-nether-the-untold-chapter.json](./118029-nether-the-untold-chapter.json) |
