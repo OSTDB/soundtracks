@@ -1797,6 +1797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hebi no Inochi | 288873 | [288873-hebi-no-inochi.json](./288873-hebi-no-inochi.json) |
 | Hecatomb | 398404 | [398404-hecatomb.json](./398404-hecatomb.json) |
 | Hecaton | 133231 | [133231-hecaton.json](./133231-hecaton.json) |
+| Héchéng Dà Xīguā | 296019 | [296019-hecheng-da-xigua.json](./296019-hecheng-da-xigua.json) |
 | Heckin' Slimes | 176788 | [176788-heckin-slimes.json](./176788-heckin-slimes.json) |
 | Hector The Cat: Treasure Hunter | 257437 | [257437-hector-the-cat-treasure-hunter.json](./257437-hector-the-cat-treasure-hunter.json) |
 | Hector: Badge of Carnage! - Episode 1 | 119182 | [119182-hector-badge-of-carnage-episode-1.json](./119182-hector-badge-of-carnage-episode-1.json) |
