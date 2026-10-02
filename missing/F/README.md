@@ -958,6 +958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Clash | 54738 | [54738-fantasy-clash.json](./54738-fantasy-clash.json) |
 | Fantasy Clicker of Cute Cocoa | 197748 | [197748-fantasy-clicker-of-cute-cocoa.json](./197748-fantasy-clicker-of-cute-cocoa.json) |
 | Fantasy Climber: Fun Adventure | 213322 | [213322-fantasy-climber-fun-adventure.json](./213322-fantasy-climber-fun-adventure.json) |
+| Fantasy Creature Jigsaws | 292257 | [292257-fantasy-creature-jigsaws.json](./292257-fantasy-creature-jigsaws.json) |
 | Fantasy Dash | 188027 | [188027-fantasy-dash.json](./188027-fantasy-dash.json) |
 | Fantasy Dynasty: Le Château Deretic | 99639 | [99639-fantasy-dynasty-le-chateau-deretic.json](./99639-fantasy-dynasty-le-chateau-deretic.json) |
 | Fantasy Earth: Zero | 51192 | [51192-fantasy-earth-zero.json](./51192-fantasy-earth-zero.json) |
@@ -1256,6 +1257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm of the Unseen | 353382 | [353382-farm-of-the-unseen.json](./353382-farm-of-the-unseen.json) |
 | Farm On! | 96696 | [96696-farm-on.json](./96696-farm-on.json) |
 | Farm Pets Bundle | 272330 | [272330-farm-pets-bundle.json](./272330-farm-pets-bundle.json) |
+| Farm Racing | 292224 | [292224-farm-racing.json](./292224-farm-racing.json) |
 | Farm Racing | 381014 | [381014-farm-racing.json](./381014-farm-racing.json) |
 | Farm Rescue | 359407 | [359407-farm-rescue.json](./359407-farm-rescue.json) |
 | Farm Slam | 241628 | [241628-farm-slam.json](./241628-farm-slam.json) |
@@ -5559,6 +5561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freak Control | 137490 | [137490-freak-control.json](./137490-freak-control.json) |
 | Freak Factory | 265664 | [265664-freak-factory.json](./265664-freak-factory.json) |
 | Freak Fortress 2 | 363055 | [363055-freak-fortress-2.json](./363055-freak-fortress-2.json) |
+| Freak House | 292236 | [292236-freak-house.json](./292236-freak-house.json) |
 | Freaked Fleapit | 204437 | [204437-freaked-fleapit.json](./204437-freaked-fleapit.json) |
 | Freakfield 2042 | 195268 | [195268-freakfield-2042.json](./195268-freakfield-2042.json) |
 | Freakhunter | 281487 | [281487-freakhunter.json](./281487-freakhunter.json) |
