@@ -2829,6 +2829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Tactics | 181921 | [181921-hero-tactics.json](./181921-hero-tactics.json) |
 | Hero Tower | 132746 | [132746-hero-tower.json](./132746-hero-tower.json) |
 | Hero Tower Wars | 340537 | [340537-hero-tower-wars.json](./340537-hero-tower-wars.json) |
+| Hero vs. 1000 | 302044 | [302044-hero-vs-1000.json](./302044-hero-vs-1000.json) |
 | Hero Wars | 140571 | [140571-hero-wars.json](./140571-hero-wars.json) |
 | Hero Well | 249200 | [249200-hero-well.json](./249200-hero-well.json) |
 | Hero Wheels | 213343 | [213343-hero-wheels.json](./213343-hero-wheels.json) |
@@ -3521,6 +3522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Oddities | 302099 | [302099-hidden-oddities.json](./302099-hidden-oddities.json) |
 | Hidden Oddities in Everyday Life Mystery | 403715 | [403715-hidden-oddities-in-everyday-life-mystery.json](./403715-hidden-oddities-in-everyday-life-mystery.json) |
 | Hidden Office | 152739 | [152739-hidden-office.json](./152739-hidden-office.json) |
+| Hidden Old House Top-Down 3D | 302062 | [302062-hidden-old-house-top-down-3d.json](./302062-hidden-old-house-top-down-3d.json) |
 | Hidden Paradise: Aloha with Love - Collector's Edition | 362831 | [362831-hidden-paradise-aloha-with-love-collectors-edition.json](./362831-hidden-paradise-aloha-with-love-collectors-edition.json) |
 | Hidden Paradise: Kiwi Christmas - Collector's Edition | 399130 | [399130-hidden-paradise-kiwi-christmas-collectors-edition.json](./399130-hidden-paradise-kiwi-christmas-collectors-edition.json) |
 | Hidden Pass | 253352 | [253352-hidden-pass.json](./253352-hidden-pass.json) |
@@ -3714,6 +3716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highborn: Chapter 3 | 168839 | [168839-highborn-chapter-3.json](./168839-highborn-chapter-3.json) |
 | Higher Ground | 105077 | [105077-higher-ground.json](./105077-higher-ground.json) |
 | HighFleet | 157439 | [157439-highfleet.json](./157439-highfleet.json) |
+| Highland Huntress | 302079 | [302079-highland-huntress.json](./302079-highland-huntress.json) |
 | Highland Panic | 248077 | [248077-highland-panic.json](./248077-highland-panic.json) |
 | Highland Warriors | 9356 | [9356-highland-warriors.json](./9356-highland-warriors.json) |
 | Highlander | 28851 | [28851-highlander.json](./28851-highlander.json) |
