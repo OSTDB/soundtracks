@@ -2315,6 +2315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persian Nights 2: The Moonlight Veil | 134557 | [134557-persian-nights-2-the-moonlight-veil.json](./134557-persian-nights-2-the-moonlight-veil.json) |
 | Persian: The Great Lamp Heist | 51505 | [51505-persian-the-great-lamp-heist.json](./51505-persian-the-great-lamp-heist.json) |
 | Persist | 223681 | [223681-persist.json](./223681-persist.json) |
+| Persist Online | 304255 | [304255-persist-online.json](./304255-persist-online.json) |
 | Persnippety | 305942 | [305942-persnippety.json](./305942-persnippety.json) |
 | Perso | 30781 | [30781-perso.json](./30781-perso.json) |
 | Person Box Jump with Hammer | 87614 | [87614-person-box-jump-with-hammer.json](./87614-person-box-jump-with-hammer.json) |
@@ -3696,6 +3697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pippin's Mysterious Garden | 258729 | [258729-pippins-mysterious-garden.json](./258729-pippins-mysterious-garden.json) |
 | Pippo's Quest | 251584 | [251584-pippos-quest.json](./251584-pippos-quest.json) |
 | Pips | 362932 | [362932-pips.json](./362932-pips.json) |
+| Pipsqueak! | 304306 | [304306-pipsqueak.json](./304306-pipsqueak.json) |
 | Pir-Crew | 176783 | [176783-pir-crew.json](./176783-pir-crew.json) |
 | Piradice | 176290 | [176290-piradice.json](./176290-piradice.json) |
 | Piraka Attack | 409761 | [409761-piraka-attack.json](./409761-piraka-attack.json) |
@@ -5394,6 +5396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokemon Daycare | 264130 | [264130-pokemon-daycare.json](./264130-pokemon-daycare.json) |
 | Pokémon Decay | 360192 | [360192-pokemon-decay.json](./360192-pokemon-decay.json) |
 | Pokémon Deluge | 172745 | [172745-pokemon-deluge.json](./172745-pokemon-deluge.json) |
+| Pokémon Donjon Mystère Online | 304297 | [304297-pokemon-donjon-mystere-online.json](./304297-pokemon-donjon-mystere-online.json) |
 | Pokémon Dreary | 213962 | [213962-pokemon-dreary.json](./213962-pokemon-dreary.json) |
 | Pokémon Duelist | 359980 | [359980-pokemon-duelist.json](./359980-pokemon-duelist.json) |
 | Pokémon Dumbdumb Island | 362817 | [362817-pokemon-dumbdumb-island.json](./362817-pokemon-dumbdumb-island.json) |
@@ -8341,6 +8344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulsonic Baseball II | 245419 | [245419-pulsonic-baseball-ii.json](./245419-pulsonic-baseball-ii.json) |
 | Pulsonic Electronic Baseball | 245418 | [245418-pulsonic-electronic-baseball.json](./245418-pulsonic-electronic-baseball.json) |
 | Pulstar | 7255 | [7255-pulstar.json](./7255-pulstar.json) |
+| Pulzar | 304294 | [304294-pulzar.json](./304294-pulzar.json) |
 | PulzAR | 93544 | [93544-pulzar.json](./93544-pulzar.json) |
 | Pum | 119053 | [119053-pum.json](./119053-pum.json) |
 | Puma: The Cat | 270158 | [270158-puma-the-cat.json](./270158-puma-the-cat.json) |
