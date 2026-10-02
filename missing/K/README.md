@@ -1285,6 +1285,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing Bites | 59412 | [59412-killing-bites.json](./59412-killing-bites.json) |
 | Killing Bullet | 272242 | [272242-killing-bullet.json](./272242-killing-bullet.json) |
 | Killing Floor | 2949 | [2949-killing-floor.json](./2949-killing-floor.json) |
+| Killing Floor 2: Commando Chicken Bundle | 332001 | [332001-killing-floor-2-commando-chicken-bundle.json](./332001-killing-floor-2-commando-chicken-bundle.json) |
+| Killing Floor 2: Day of the Zed Character Outfit Set | 332006 | [332006-killing-floor-2-day-of-the-zed-character-outfit-set.json](./332006-killing-floor-2-day-of-the-zed-character-outfit-set.json) |
 | Killing Floor 2: Deluxe Edition | 53242 | [53242-killing-floor-2-deluxe-edition.json](./53242-killing-floor-2-deluxe-edition.json) |
 | Killing Floor 2: Digital Deluxe Edition | 53241 | [53241-killing-floor-2-digital-deluxe-edition.json](./53241-killing-floor-2-digital-deluxe-edition.json) |
 | Killing Floor 2: Horzine Diver Outfit Bundle | 332025 | [332025-killing-floor-2-horzine-diver-outfit-bundle.json](./332025-killing-floor-2-horzine-diver-outfit-bundle.json) |
