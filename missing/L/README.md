@@ -1402,6 +1402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Amberland III: The Crimson Tower | 355038 | [355038-legends-of-amberland-iii-the-crimson-tower.json](./355038-legends-of-amberland-iii-the-crimson-tower.json) |
 | Legends of Andor: The King's Secret | 114540 | [114540-legends-of-andor-the-kings-secret.json](./114540-legends-of-andor-the-kings-secret.json) |
 | Legends of Aria Eternal | 361910 | [361910-legends-of-aria-eternal.json](./361910-legends-of-aria-eternal.json) |
+| Legends of Aria: Classic | 298244 | [298244-legends-of-aria-classic.json](./298244-legends-of-aria-classic.json) |
 | Legends of Atlantis: Exodus Premium | 174337 | [174337-legends-of-atlantis-exodus-premium.json](./174337-legends-of-atlantis-exodus-premium.json) |
 | Legends of Azulgar | 32013 | [32013-legends-of-azulgar.json](./32013-legends-of-azulgar.json) |
 | Legends of Boom | 319743 | [319743-legends-of-boom.json](./319743-legends-of-boom.json) |
@@ -1879,6 +1880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Play! Oink Games: Kobayakawa | 263993 | [263993-lets-play-oink-games-kobayakawa.json](./263993-lets-play-oink-games-kobayakawa.json) |
 | Let's Play! Oink Games: Nine Tiles | 241310 | [241310-lets-play-oink-games-nine-tiles.json](./241310-lets-play-oink-games-nine-tiles.json) |
 | Let's Play! Oink Games: Rafter Five | 275559 | [275559-lets-play-oink-games-rafter-five.json](./275559-lets-play-oink-games-rafter-five.json) |
+| Let's Puzzle: Celestial Wonders Pack | 298256 | [298256-lets-puzzle-celestial-wonders-pack.json](./298256-lets-puzzle-celestial-wonders-pack.json) |
 | Let's Quip | 61896 | [61896-lets-quip.json](./61896-lets-quip.json) |
 | Let's Ride! Championship Dreams | 72136 | [72136-lets-ride-championship-dreams.json](./72136-lets-ride-championship-dreams.json) |
 | Let's Ride! Silver Buckle Stables | 43522 | [43522-lets-ride-silver-buckle-stables.json](./43522-lets-ride-silver-buckle-stables.json) |
@@ -4051,6 +4053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in the Mythic Island | 100306 | [100306-lost-in-the-mythic-island.json](./100306-lost-in-the-mythic-island.json) |
 | Lost in the Open | 208609 | [208609-lost-in-the-open.json](./208609-lost-in-the-open.json) |
 | Lost in the Past: A Heart's Remembrance Labyrinth | 287210 | [287210-lost-in-the-past-a-hearts-remembrance-labyrinth.json](./287210-lost-in-the-past-a-hearts-remembrance-labyrinth.json) |
+| Lost in the Roots | 298235 | [298235-lost-in-the-roots.json](./298235-lost-in-the-roots.json) |
 | Lost in the Sand | 215641 | [215641-lost-in-the-sand.json](./215641-lost-in-the-sand.json) |
 | Lost In The Store | 408064 | [408064-lost-in-the-store.json](./408064-lost-in-the-store.json) |
 | Lost in the tomb | 74473 | [74473-lost-in-the-tomb.json](./74473-lost-in-the-tomb.json) |
