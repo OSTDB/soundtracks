@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Life | 91752 | [91752-baby-life.json](./91752-baby-life.json) |
 | Baby Lite A Line | 100171 | [100171-baby-lite-a-line.json](./100171-baby-lite-a-line.json) |
 | Baby Maker Extreme | 66779 | [66779-baby-maker-extreme.json](./66779-baby-maker-extreme.json) |
+| Baby Mammoth's Journey to Mars | 311711 | [311711-baby-mammoths-journey-to-mars.json](./311711-baby-mammoths-journey-to-mars.json) |
 | Baby Mario's A-Maze-ing Game | 341043 | [341043-baby-marios-a-maze-ing-game.json](./341043-baby-marios-a-maze-ing-game.json) |
 | Baby Nom Nom | 20916 | [20916-baby-nom-nom.json](./20916-baby-nom-nom.json) |
 | Baby Pals | 91753 | [91753-baby-pals.json](./91753-baby-pals.json) |
@@ -2882,6 +2883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beer Bar | 111867 | [111867-beer-bar.json](./111867-beer-bar.json) |
 | Beer Belly Burt's Brew Biz | 93167 | [93167-beer-belly-burts-brew-biz.json](./93167-beer-belly-burts-brew-biz.json) |
 | Beer Break | 199391 | [199391-beer-break.json](./199391-beer-break.json) |
+| Beer Drinkin' Terrorist Hunter | 311681 | [311681-beer-drinkin-terrorist-hunter.json](./311681-beer-drinkin-terrorist-hunter.json) |
 | Beer Pong : Trickshot | 90694 | [90694-beer-pong-trickshot.json](./90694-beer-pong-trickshot.json) |
 | Beer Pong League | 111342 | [111342-beer-pong-league.json](./111342-beer-pong-league.json) |
 | Beer Pong VR | 88194 | [88194-beer-pong-vr.json](./88194-beer-pong-vr.json) |
