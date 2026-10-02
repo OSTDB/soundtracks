@@ -5966,6 +5966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Bots Arena | 115134 | [115134-bomb-bots-arena.json](./115134-bomb-bots-arena.json) |
 | Bomb Bowling | 307307 | [307307-bomb-bowling.json](./307307-bomb-bowling.json) |
 | Bomb Bowling 2 | 124189 | [124189-bomb-bowling-2.json](./124189-bomb-bowling-2.json) |
+| Bomb Bowling X | 331461 | [331461-bomb-bowling-x.json](./331461-bomb-bowling-x.json) |
 | Bomb Cat | 300776 | [300776-bomb-cat.json](./300776-bomb-cat.json) |
 | Bomb Club | 175194 | [175194-bomb-club.json](./175194-bomb-club.json) |
 | Bomb Craft Tnt | 88319 | [88319-bomb-craft-tnt.json](./88319-bomb-craft-tnt.json) |
