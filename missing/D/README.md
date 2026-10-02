@@ -3434,6 +3434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desperados III: Money for the Vultures - Part 1: Late to the Party | 152234 | [152234-desperados-iii-money-for-the-vultures-part-1-late-to-the-party.json](./152234-desperados-iii-money-for-the-vultures-part-1-late-to-the-party.json) |
 | Desperados III: Money for the Vultures - Part 2: Five Steps Ahead | 152235 | [152235-desperados-iii-money-for-the-vultures-part-2-five-steps-ahead.json](./152235-desperados-iii-money-for-the-vultures-part-2-five-steps-ahead.json) |
 | Desperados III: Money for the Vultures - Part 3: Once More With Feeling | 152236 | [152236-desperados-iii-money-for-the-vultures-part-3-once-more-with-feeling.json](./152236-desperados-iii-money-for-the-vultures-part-3-once-more-with-feeling.json) |
+| Desperate 1: After Sunset | 323235 | [323235-desperate-1-after-sunset.json](./323235-desperate-1-after-sunset.json) |
 | Desperate Defence | 115433 | [115433-desperate-defence.json](./115433-desperate-defence.json) |
 | Desperate game | 82050 | [82050-desperate-game.json](./82050-desperate-game.json) |
 | Desperate Place | 335290 | [335290-desperate-place.json](./335290-desperate-place.json) |
