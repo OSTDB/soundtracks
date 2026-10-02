@@ -436,6 +436,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Hordes | 258978 | [258978-galaxy-hordes.json](./258978-galaxy-hordes.json) |
 | Galaxy Hunter: Into the Portal | 137639 | [137639-galaxy-hunter-into-the-portal.json](./137639-galaxy-hunter-into-the-portal.json) |
 | Galaxy Idle Clicker | 311697 | [311697-galaxy-idle-clicker.json](./311697-galaxy-idle-clicker.json) |
+| Galaxy II | 305455 | [305455-galaxy-ii.json](./305455-galaxy-ii.json) |
+| Galaxy II | 305456 | [305456-galaxy-ii.json](./305456-galaxy-ii.json) |
 | Galaxy in Peril: Time Trouble | 157063 | [157063-galaxy-in-peril-time-trouble.json](./157063-galaxy-in-peril-time-trouble.json) |
 | Galaxy in Turmoil | 19436 | [19436-galaxy-in-turmoil.json](./19436-galaxy-in-turmoil.json) |
 | Galaxy Invader 1000 | 47282 | [47282-galaxy-invader-1000.json](./47282-galaxy-invader-1000.json) |
@@ -1916,6 +1918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosthero: Shadow of Vengeance | 295845 | [295845-ghosthero-shadow-of-vengeance.json](./295845-ghosthero-shadow-of-vengeance.json) |
 | GhostHunt With Triggered Insaan | 289316 | [289316-ghosthunt-with-triggered-insaan.json](./289316-ghosthunt-with-triggered-insaan.json) |
 | Ghosthunter | 22279 | [22279-ghosthunter.json](./22279-ghosthunter.json) |
+| Ghosthunter | 305475 | [305475-ghosthunter.json](./305475-ghosthunter.json) |
 | GhostHunter | 189052 | [189052-ghosthunter.json](./189052-ghosthunter.json) |
 | Ghostkeeper | 210859 | [210859-ghostkeeper.json](./210859-ghostkeeper.json) |
 | Ghostland | 322673 | [322673-ghostland.json](./322673-ghostland.json) |
@@ -3594,6 +3597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grab 2 Coins | 328680 | [328680-grab-2-coins.json](./328680-grab-2-coins.json) |
 | Grab 50 Coins | 400264 | [400264-grab-50-coins.json](./400264-grab-50-coins.json) |
 | Grab it! Crane Game | 334095 | [334095-grab-it-crane-game.json](./334095-grab-it-crane-game.json) |
+| Grab Man | 305457 | [305457-grab-man.json](./305457-grab-man.json) |
 | Grab Man | 47264 | [47264-grab-man.json](./47264-grab-man.json) |
 | Grab the Goblins! | 250650 | [250650-grab-the-goblins.json](./250650-grab-the-goblins.json) |
 | Grab the Mask | 121546 | [121546-grab-the-mask.json](./121546-grab-the-mask.json) |
