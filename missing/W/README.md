@@ -368,6 +368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waning Flowers of a World Eternal: The Rainbow Appears After Flowering Rain | 339324 | [339324-waning-flowers-of-a-world-eternal-the-rainbow-appears-after-flowering-rain.json](./339324-waning-flowers-of-a-world-eternal-the-rainbow-appears-after-flowering-rain.json) |
 | Wanisan Shooting Game | 296013 | [296013-wanisan-shooting-game.json](./296013-wanisan-shooting-game.json) |
 | Wanking Simulator | 122993 | [122993-wanking-simulator.json](./122993-wanking-simulator.json) |
+| Wanko to Asobou! Mezase Dog Trainer! | 285664 | [285664-wanko-to-asobou-mezase-dog-trainer.json](./285664-wanko-to-asobou-mezase-dog-trainer.json) |
 | Wankuru | 242769 | [242769-wankuru.json](./242769-wankuru.json) |
 | Wanna B Wonka? Crazy Candy Creation Game | 373553 | [373553-wanna-b-wonka-crazy-candy-creation-game.json](./373553-wanna-b-wonka-crazy-candy-creation-game.json) |
 | Wanna Run Again | 116368 | [116368-wanna-run-again.json](./116368-wanna-run-again.json) |
