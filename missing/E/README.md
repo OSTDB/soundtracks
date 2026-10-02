@@ -681,6 +681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg Monster Hero | 67364 | [67364-egg-monster-hero.json](./67364-egg-monster-hero.json) |
 | Egg Over It: Fall Flat From the Top | 201560 | [201560-egg-over-it-fall-flat-from-the-top.json](./201560-egg-over-it-fall-flat-from-the-top.json) |
 | Egg Run | 320731 | [320731-egg-run.json](./320731-egg-run.json) |
+| Egg Squeeze | 318509 | [318509-egg-squeeze.json](./318509-egg-squeeze.json) |
 | Egg Surprise | 314432 | [314432-egg-surprise.json](./314432-egg-surprise.json) |
 | Egg Tales | 58749 | [58749-egg-tales.json](./58749-egg-tales.json) |
 | Egg Time | 31213 | [31213-egg-time.json](./31213-egg-time.json) |
@@ -2256,6 +2257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ergenekon | 378430 | [378430-ergenekon.json](./378430-ergenekon.json) |
 | Ergo | 152799 | [152799-ergo.json](./152799-ergo.json) |
 | Eri | 116282 | [116282-eri.json](./116282-eri.json) |
+| Eric & Yannik X | 318519 | [318519-eric-and-yannik-x.json](./318519-eric-and-yannik-x.json) |
 | Eric and the Floaters | 45324 | [45324-eric-and-the-floaters.json](./45324-eric-and-the-floaters.json) |
 | Eric the Unready | 12426 | [12426-eric-the-unready.json](./12426-eric-the-unready.json) |
 | Eric's All-in-1 Solitaire | 86728 | [86728-erics-all-in-1-solitaire.json](./86728-erics-all-in-1-solitaire.json) |
