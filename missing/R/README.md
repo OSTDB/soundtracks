@@ -1577,6 +1577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm of Mystery | 365288 | [365288-realm-of-mystery.json](./365288-realm-of-mystery.json) |
 | Realm of Rulers | 98222 | [98222-realm-of-rulers.json](./98222-realm-of-rulers.json) |
 | Realm of the Dead | 257898 | [257898-realm-of-the-dead.json](./257898-realm-of-the-dead.json) |
+| Realm of the Everbound | 292775 | [292775-realm-of-the-everbound.json](./292775-realm-of-the-everbound.json) |
 | Realm of the Fallen | 223439 | [223439-realm-of-the-fallen.json](./223439-realm-of-the-fallen.json) |
 | Realm of the hero | 156128 | [156128-realm-of-the-hero.json](./156128-realm-of-the-hero.json) |
 | Realm of The Lieutenant | 282621 | [282621-realm-of-the-lieutenant.json](./282621-realm-of-the-lieutenant.json) |
@@ -4930,6 +4931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocococo: Audiogame Fantastique | 258700 | [258700-rocococo-audiogame-fantastique.json](./258700-rocococo-audiogame-fantastique.json) |
 | Rod Multiplayer Car Driving | 226146 | [226146-rod-multiplayer-car-driving.json](./226146-rod-multiplayer-car-driving.json) |
 | Rod Roll | 329102 | [329102-rod-roll.json](./329102-rod-roll.json) |
+| Rod-Land | 292796 | [292796-rod-land.json](./292796-rod-land.json) |
 | Rod-Land | 293157 | [293157-rod-land.json](./293157-rod-land.json) |
 | ROD: Revolt of Defense | 31933 | [31933-rod-revolt-of-defense.json](./31933-rod-revolt-of-defense.json) |
 | Roda a Roda | 254788 | [254788-roda-a-roda.json](./254788-roda-a-roda.json) |
@@ -6472,6 +6474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rutrum | 406896 | [406896-rutrum.json](./406896-rutrum.json) |
 | Rutterkin | 416685 | [416685-rutterkin.json](./416685-rutterkin.json) |
 | Ruukoto the Robot | 392353 | [392353-ruukoto-the-robot.json](./392353-ruukoto-the-robot.json) |
+| RUVN Contest Reboot | 292759 | [292759-ruvn-contest-reboot.json](./292759-ruvn-contest-reboot.json) |
 | Ruyn HD | 345565 | [345565-ruyn-hd.json](./345565-ruyn-hd.json) |
 | Ruzar: The Dark Stones | 310217 | [310217-ruzar-the-dark-stones.json](./310217-ruzar-the-dark-stones.json) |
 | Ruzzle | 58212 | [58212-ruzzle.json](./58212-ruzzle.json) |
