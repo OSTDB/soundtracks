@@ -1424,6 +1424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Netcorter: City 2179 | 217385 | [217385-netcorter-city-2179.json](./217385-netcorter-city-2179.json) |
 | Netcrawler | 183883 | [183883-netcrawler.json](./183883-netcrawler.json) |
 | NetDive | 358862 | [358862-netdive.json](./358862-netdive.json) |
+| Netghost | 293838 | [293838-netghost.json](./293838-netghost.json) |
 | NetGunner | 139844 | [139844-netgunner.json](./139844-netgunner.json) |
 | NetHack | 207850 | [207850-nethack.json](./207850-nethack.json) |
 | NetHack | 2895 | [2895-nethack.json](./2895-nethack.json) |
@@ -2102,6 +2103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night City Tokyo Drift: Clumsy Ninja Chasing Cars | 102752 | [102752-night-city-tokyo-drift-clumsy-ninja-chasing-cars.json](./102752-night-city-tokyo-drift-clumsy-ninja-chasing-cars.json) |
 | Night Clerk | 376476 | [376476-night-clerk.json](./376476-night-clerk.json) |
 | Night Clerk | 389597 | [389597-night-clerk.json](./389597-night-clerk.json) |
+| Night Confessional | 293343 | [293343-night-confessional.json](./293343-night-confessional.json) |
 | Night Crisis | 113838 | [113838-night-crisis.json](./113838-night-crisis.json) |
 | Night Darkness | 166602 | [166602-night-darkness.json](./166602-night-darkness.json) |
 | Night Dream | 26797 | [26797-night-dream.json](./26797-night-dream.json) |
@@ -2257,6 +2259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightfire Open | 316773 | [316773-nightfire-open.json](./316773-nightfire-open.json) |
 | Nightflite | 98957 | [98957-nightflite.json](./98957-nightflite.json) |
 | Nightgate | 57737 | [57737-nightgate.json](./57737-nightgate.json) |
+| NightGhast | 293366 | [293366-nightghast.json](./293366-nightghast.json) |
 | Nighthaw-X3000 | 29181 | [29181-nighthaw-x3000.json](./29181-nighthaw-x3000.json) |
 | Nighthawk | 334329 | [334329-nighthawk.json](./334329-nighthawk.json) |
 | Nighthawk no Shokuzai: Zenpen | 401609 | [401609-nighthawk-no-shokuzai-zenpen.json](./401609-nighthawk-no-shokuzai-zenpen.json) |
@@ -2882,6 +2885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No King No Kingdom | 75606 | [75606-no-king-no-kingdom.json](./75606-no-king-no-kingdom.json) |
 | No Kings Tiny Defenders | 376455 | [376455-no-kings-tiny-defenders.json](./376455-no-kings-tiny-defenders.json) |
 | No Law | 381205 | [381205-no-law.json](./381205-no-law.json) |
+| No Life: Zombie Survivor | 293872 | [293872-no-life-zombie-survivor.json](./293872-no-life-zombie-survivor.json) |
 | No Light | 150684 | [150684-no-light.json](./150684-no-light.json) |
 | No Lights | 52080 | [52080-no-lights.json](./52080-no-lights.json) |
 | No Limit Drag Racing 2 | 227370 | [227370-no-limit-drag-racing-2.json](./227370-no-limit-drag-racing-2.json) |
