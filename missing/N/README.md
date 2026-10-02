@@ -954,6 +954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neighbor | 181842 | [181842-neighbor.json](./181842-neighbor.json) |
 | Neighbor Diana | 167172 | [167172-neighbor-diana.json](./167172-neighbor-diana.json) |
 | Neighbor Next Door | 309668 | [309668-neighbor-next-door.json](./309668-neighbor-next-door.json) |
+| Neighbor Sponge: Scary Secret | 326700 | [326700-neighbor-sponge-scary-secret.json](./326700-neighbor-sponge-scary-secret.json) |
 | Neighbor Watching | 171037 | [171037-neighbor-watching.json](./171037-neighbor-watching.json) |
 | Neighbor: Lingering Memories Side-Story | 171385 | [171385-neighbor-lingering-memories-side-story.json](./171385-neighbor-lingering-memories-side-story.json) |
 | Neighbor's Wife | 298652 | [298652-neighbors-wife.json](./298652-neighbors-wife.json) |
@@ -1072,6 +1073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nelson Piquet's Grand Prix Evolution | 73547 | [73547-nelson-piquets-grand-prix-evolution.json](./73547-nelson-piquets-grand-prix-evolution.json) |
 | Nelumbra | 333178 | [333178-nelumbra.json](./333178-nelumbra.json) |
 | Nemac IV | 138259 | [138259-nemac-iv.json](./138259-nemac-iv.json) |
+| Nemegraphe | 326837 | [326837-nemegraphe.json](./326837-nemegraphe.json) |
 | Nemesis | 197671 | [197671-nemesis.json](./197671-nemesis.json) |
 | Nemesis | 210282 | [210282-nemesis.json](./210282-nemesis.json) |
 | Nemesis | 262390 | [262390-nemesis.json](./262390-nemesis.json) |
@@ -2423,6 +2425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nina Aquila: Legal Eagle, Season One | 152936 | [152936-nina-aquila-legal-eagle-season-one.json](./152936-nina-aquila-legal-eagle-season-one.json) |
 | Nina in Depravity | 333615 | [333615-nina-in-depravity.json](./333615-nina-in-depravity.json) |
 | Nina: Agent Chronicles | 24090 | [24090-nina-agent-chronicles.json](./24090-nina-agent-chronicles.json) |
+| Nina: Season of Adventures | 326681 | [326681-nina-season-of-adventures.json](./326681-nina-season-of-adventures.json) |
 | Ninano: Dream Ranch | 235676 | [235676-ninano-dream-ranch.json](./235676-ninano-dream-ranch.json) |
 | NinCat | 204971 | [204971-nincat.json](./204971-nincat.json) |
 | Nindo: Guardian of the Starlit Shadow | 342050 | [342050-nindo-guardian-of-the-starlit-shadow.json](./342050-nindo-guardian-of-the-starlit-shadow.json) |
