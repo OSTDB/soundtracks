@@ -308,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamisama: Spirit of the Shrine | 218737 | [218737-kamisama-spirit-of-the-shrine.json](./218737-kamisama-spirit-of-the-shrine.json) |
 | Kamitsubaki Academy Newspaper Club | 339807 | [339807-kamitsubaki-academy-newspaper-club.json](./339807-kamitsubaki-academy-newspaper-club.json) |
 | Kamitsubaki City Ensemble | 273635 | [273635-kamitsubaki-city-ensemble.json](./273635-kamitsubaki-city-ensemble.json) |
+| Kamitsubaki City Ensemble: Extension Pack No.5 feat. V.W.P | 324417 | [324417-kamitsubaki-city-ensemble-extension-pack-no-5-feat-v-w-p.json](./324417-kamitsubaki-city-ensemble-extension-pack-no-5-feat-v-w-p.json) |
 | Kamitsubaki City Ensemble: Extra Pack feat. V.I.P with V.W.P | 324418 | [324418-kamitsubaki-city-ensemble-extra-pack-feat-v-i-p-with-v-w-p.json](./324418-kamitsubaki-city-ensemble-extra-pack-feat-v-i-p-with-v-w-p.json) |
 | Kamitsubaki City Virtual Reality | 328261 | [328261-kamitsubaki-city-virtual-reality.json](./328261-kamitsubaki-city-virtual-reality.json) |
 | Kamiwaza Wanda | 222531 | [222531-kamiwaza-wanda.json](./222531-kamiwaza-wanda.json) |
@@ -2235,6 +2236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights & Guns: NY Edition | 277893 | [277893-knights-and-guns-ny-edition.json](./277893-knights-and-guns-ny-edition.json) |
 | Knights & Guns: Platinum Edition | 274494 | [274494-knights-and-guns-platinum-edition.json](./274494-knights-and-guns-platinum-edition.json) |
 | Knights & Guns: Prime Edition | 270795 | [270795-knights-and-guns-prime-edition.json](./270795-knights-and-guns-prime-edition.json) |
+| Knights & Guns: Special Edition | 324371 | [324371-knights-and-guns-special-edition.json](./324371-knights-and-guns-special-edition.json) |
 | Knights & Guns: Ultimate Edition | 283142 | [283142-knights-and-guns-ultimate-edition.json](./283142-knights-and-guns-ultimate-edition.json) |
 | Knights & Outlaws | 120917 | [120917-knights-and-outlaws.json](./120917-knights-and-outlaws.json) |
 | Knights & Slimes | 115649 | [115649-knights-and-slimes.json](./115649-knights-and-slimes.json) |
