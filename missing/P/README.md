@@ -2519,6 +2519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petit Island | 204526 | [204526-petit-island.json](./204526-petit-island.json) |
 | Petit Novel Series: Harvest December | 59433 | [59433-petit-novel-series-harvest-december.json](./59433-petit-novel-series-harvest-december.json) |
 | Petit Petit Petit | 239763 | [239763-petit-petit-petit.json](./239763-petit-petit-petit.json) |
+| Petit Petit Petit: Nightmare Pack | 286214 | [286214-petit-petit-petit-nightmare-pack.json](./286214-petit-petit-petit-nightmare-pack.json) |
 | Petit Petit Petit: Specter Pack | 289331 | [289331-petit-petit-petit-specter-pack.json](./289331-petit-petit-petit-specter-pack.json) |
 | Petit Planet | 370095 | [370095-petit-planet.json](./370095-petit-planet.json) |
 | Petit Royaume | 321338 | [321338-petit-royaume.json](./321338-petit-royaume.json) |
@@ -5104,6 +5105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Farmer | 350073 | [350073-pocket-farmer.json](./350073-pocket-farmer.json) |
 | Pocket Farmery: Idle Pop Farm | 256356 | [256356-pocket-farmery-idle-pop-farm.json](./256356-pocket-farmery-idle-pop-farm.json) |
 | Pocket Fish | 67942 | [67942-pocket-fish.json](./67942-pocket-fish.json) |
+| Pocket Fishing | 286199 | [286199-pocket-fishing.json](./286199-pocket-fishing.json) |
 | Pocket Galaxy | 116454 | [116454-pocket-galaxy.json](./116454-pocket-galaxy.json) |
 | Pocket Garden | 367505 | [367505-pocket-garden.json](./367505-pocket-garden.json) |
 | Pocket Hero-Wars of Mini Tanks | 105906 | [105906-pocket-hero-wars-of-mini-tanks.json](./105906-pocket-hero-wars-of-mini-tanks.json) |
