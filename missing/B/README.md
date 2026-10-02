@@ -1037,6 +1037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bannerman | 44277 | [44277-bannerman.json](./44277-bannerman.json) |
 | Bannerman | 70395 | [70395-bannerman.json](./70395-bannerman.json) |
 | Banners of Ruin: Collection | 324501 | [324501-banners-of-ruin-collection.json](./324501-banners-of-ruin-collection.json) |
+| Banners of Ruin: DLC Pack | 324413 | [324413-banners-of-ruin-dlc-pack.json](./324413-banners-of-ruin-dlc-pack.json) |
 | Banners of Ruin: Moonstone | 230817 | [230817-banners-of-ruin-moonstone.json](./230817-banners-of-ruin-moonstone.json) |
 | Banpo's Bridge Wondrous Worlds | 348887 | [348887-banpos-bridge-wondrous-worlds.json](./348887-banpos-bridge-wondrous-worlds.json) |
 | Banquet for Fools | 318079 | [318079-banquet-for-fools.json](./318079-banquet-for-fools.json) |
@@ -4662,6 +4663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blargle and the Quest for the Nothing Burger | 415208 | [415208-blargle-and-the-quest-for-the-nothing-burger.json](./415208-blargle-and-the-quest-for-the-nothing-burger.json) |
 | Blaseball | 136475 | [136475-blaseball.json](./136475-blaseball.json) |
 | Blasphemous + Blasphemous 2 Bundle | 274522 | [274522-blasphemous-blasphemous-2-bundle.json](./274522-blasphemous-blasphemous-2-bundle.json) |
+| Blasphemous 2: Mea Culpa Edition | 324383 | [324383-blasphemous-2-mea-culpa-edition.json](./324383-blasphemous-2-mea-culpa-edition.json) |
 | Blasphemous Experiments | 268723 | [268723-blasphemous-experiments.json](./268723-blasphemous-experiments.json) |
 | Blasphemous II: Mea Culpa | 317595 | [317595-blasphemous-ii-mea-culpa.json](./317595-blasphemous-ii-mea-culpa.json) |
 | Blasphemous: Wounds of Eventide | 165391 | [165391-blasphemous-wounds-of-eventide.json](./165391-blasphemous-wounds-of-eventide.json) |
@@ -6331,6 +6333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boomer Brawler | 355616 | [355616-boomer-brawler.json](./355616-boomer-brawler.json) |
 | Boomer Zombie | 211250 | [211250-boomer-zombie.json](./211250-boomer-zombie.json) |
 | Boomerang | 279059 | [279059-boomerang.json](./279059-boomerang.json) |
+| Boomerang Fu: Deluxe Edition | 324381 | [324381-boomerang-fu-deluxe-edition.json](./324381-boomerang-fu-deluxe-edition.json) |
 | Boomerang RPG | 297248 | [297248-boomerang-rpg.json](./297248-boomerang-rpg.json) |
 | Boomeraxe | 258522 | [258522-boomeraxe.json](./258522-boomeraxe.json) |
 | Boomlings | 61067 | [61067-boomlings.json](./61067-boomlings.json) |
