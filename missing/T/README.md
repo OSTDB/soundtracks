@@ -1680,6 +1680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teddy Is Coming | 400421 | [400421-teddy-is-coming.json](./400421-teddy-is-coming.json) |
 | Teddy Knight | 374793 | [374793-teddy-knight.json](./374793-teddy-knight.json) |
 | Teddy Roller 1 | 323534 | [323534-teddy-roller-1.json](./323534-teddy-roller-1.json) |
+| Teddy Tavern: A Culinary Adventure | 327255 | [327255-teddy-tavern-a-culinary-adventure.json](./327255-teddy-tavern-a-culinary-adventure.json) |
 | Teddy Terror | 25845 | [25845-teddy-terror.json](./25845-teddy-terror.json) |
 | Teddy the Wanderer: Kayaking | 112121 | [112121-teddy-the-wanderer-kayaking.json](./112121-teddy-the-wanderer-kayaking.json) |
 | Teddy Together | 85430 | [85430-teddy-together.json](./85430-teddy-together.json) |
@@ -4290,6 +4291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Eerie Inn | 95595 | [95595-the-eerie-inn.json](./95595-the-eerie-inn.json) |
 | The Eerie Inn VR | 106635 | [106635-the-eerie-inn-vr.json](./106635-the-eerie-inn-vr.json) |
 | The Effective Detective | 300811 | [300811-the-effective-detective.json](./300811-the-effective-detective.json) |
+| The Egg | 327287 | [327287-the-egg.json](./327287-the-egg.json) |
 | The Egg | 354651 | [354651-the-egg.json](./354651-the-egg.json) |
 | The Egg of Human Endeavors | 223133 | [223133-the-egg-of-human-endeavors.json](./223133-the-egg-of-human-endeavors.json) |
 | The Eggsperts | 373560 | [373560-the-eggsperts.json](./373560-the-eggsperts.json) |
@@ -5357,6 +5359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hunted | 28786 | [28786-the-hunted.json](./28786-the-hunted.json) |
 | The Hunted Witch | 252678 | [252678-the-hunted-witch.json](./252678-the-hunted-witch.json) |
 | The Hunter Cursed by Night | 296467 | [296467-the-hunter-cursed-by-night.json](./296467-the-hunter-cursed-by-night.json) |
+| The Hunter's Path | 327292 | [327292-the-hunters-path.json](./327292-the-hunters-path.json) |
 | The Hunters Journals; Pale Harbour | 119680 | [119680-the-hunters-journals-pale-harbour.json](./119680-the-hunters-journals-pale-harbour.json) |
 | The Hunting God | 51418 | [51418-the-hunting-god.json](./51418-the-hunting-god.json) |
 | The Huntsman: Winter's Curse (Book 2) | 164437 | [164437-the-huntsman-winters-curse-book-2.json](./164437-the-huntsman-winters-curse-book-2.json) |
@@ -7558,6 +7561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Red Cathedral | 359042 | [359042-the-red-cathedral.json](./359042-the-red-cathedral.json) |
 | The Red Crystal: The Seven Secrets of Life | 198262 | [198262-the-red-crystal-the-seven-secrets-of-life.json](./198262-the-red-crystal-the-seven-secrets-of-life.json) |
 | The Red Forest | 267674 | [267674-the-red-forest.json](./267674-the-red-forest.json) |
+| The Red Hat | 327275 | [327275-the-red-hat.json](./327275-the-red-hat.json) |
 | The Red Hood | 193482 | [193482-the-red-hood.json](./193482-the-red-hood.json) |
 | The Red Juggernaut | 272385 | [272385-the-red-juggernaut.json](./272385-the-red-juggernaut.json) |
 | The Red Lantern | 116413 | [116413-the-red-lantern.json](./116413-the-red-lantern.json) |
@@ -7640,6 +7644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rewinder: Definitive Edition | 294824 | [294824-the-rewinder-definitive-edition.json](./294824-the-rewinder-definitive-edition.json) |
 | The Rewinder: Root of Evil | 267364 | [267364-the-rewinder-root-of-evil.json](./267364-the-rewinder-root-of-evil.json) |
 | The Rewrite Journal | 297573 | [297573-the-rewrite-journal.json](./297573-the-rewrite-journal.json) |
+| The Rez! | 327293 | [327293-the-rez.json](./327293-the-rez.json) |
 | The Rhine Railway: Mannheim - Karlsruhe Collection | 53783 | [53783-the-rhine-railway-mannheim-karlsruhe-collection.json](./53783-the-rhine-railway-mannheim-karlsruhe-collection.json) |
 | The Rhymatory | 399736 | [399736-the-rhymatory.json](./399736-the-rhymatory.json) |
 | The Rhythm of Fighters: SNK Original Sound Collection | 80562 | [80562-the-rhythm-of-fighters-snk-original-sound-collection.json](./80562-the-rhythm-of-fighters-snk-original-sound-collection.json) |
@@ -7844,6 +7849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret Island of Dr. Quandary | 46654 | [46654-the-secret-island-of-dr-quandary.json](./46654-the-secret-island-of-dr-quandary.json) |
 | The Secret Life of Pets: Unleashed | 58324 | [58324-the-secret-life-of-pets-unleashed.json](./58324-the-secret-life-of-pets-unleashed.json) |
 | The Secret of Cat Island | 194003 | [194003-the-secret-of-cat-island.json](./194003-the-secret-of-cat-island.json) |
+| The Secret of Chunky Salsa | 327274 | [327274-the-secret-of-chunky-salsa.json](./327274-the-secret-of-chunky-salsa.json) |
 | The Secret of Crimson Manor | 297503 | [297503-the-secret-of-crimson-manor.json](./297503-the-secret-of-crimson-manor.json) |
 | The Secret of Crystal Mountain | 293243 | [293243-the-secret-of-crystal-mountain.json](./293243-the-secret-of-crystal-mountain.json) |
 | The Secret of Darkwoods | 236942 | [236942-the-secret-of-darkwoods.json](./236942-the-secret-of-darkwoods.json) |
@@ -11844,7 +11850,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the Max | 164242 | [164242-to-the-max.json](./164242-to-the-max.json) |
 | To the Moon | 339932 | [339932-to-the-moon.json](./339932-to-the-moon.json) |
 | To the Moon and Beyond | 203832 | [203832-to-the-moon-and-beyond.json](./203832-to-the-moon-and-beyond.json) |
+| To the Moon: Sigmund Minisode 1 (Holiday Special) | 327443 | [327443-to-the-moon-sigmund-minisode-1-holiday-special.json](./327443-to-the-moon-sigmund-minisode-1-holiday-special.json) |
 | To the Moon: Sigmund Minisode 1 & 2 (Holiday Special) | 332533 | [332533-to-the-moon-sigmund-minisode-1-and-2-holiday-special.json](./332533-to-the-moon-sigmund-minisode-1-and-2-holiday-special.json) |
+| To the Moon: Sigmund Minisode 2 (Holiday Special) | 327444 | [327444-to-the-moon-sigmund-minisode-2-holiday-special.json](./327444-to-the-moon-sigmund-minisode-2-holiday-special.json) |
 | To the Mountain | 331128 | [331128-to-the-mountain.json](./331128-to-the-mountain.json) |
 | To the Ones We Lost | 186600 | [186600-to-the-ones-we-lost.json](./186600-to-the-ones-we-lost.json) |
 | To the Rescue | 359443 | [359443-to-the-rescue.json](./359443-to-the-rescue.json) |
@@ -12260,6 +12268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomahawk | 26474 | [26474-tomahawk.json](./26474-tomahawk.json) |
 | Tomahawk Missile | 277897 | [277897-tomahawk-missile.json](./277897-tomahawk-missile.json) |
 | Tomarc the Barbarian | 23840 | [23840-tomarc-the-barbarian.json](./23840-tomarc-the-barbarian.json) |
+| Tómate un Descanso | 327435 | [327435-tomate-un-descanso.json](./327435-tomate-un-descanso.json) |
 | Tomato Dealer | 396579 | [396579-tomato-dealer.json](./396579-tomato-dealer.json) |
 | Tomato Jones | 32370 | [32370-tomato-jones.json](./32370-tomato-jones.json) |
 | Tomato Jones - Episode 3 | 83542 | [83542-tomato-jones-episode-3.json](./83542-tomato-jones-episode-3.json) |
