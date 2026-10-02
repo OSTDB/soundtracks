@@ -3020,6 +3020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximal Mahjongg | 94235 | [94235-maximal-mahjongg.json](./94235-maximal-mahjongg.json) |
 | Maximo vs. Army of Zin | 43642 | [43642-maximo-vs-army-of-zin.json](./43642-maximo-vs-army-of-zin.json) |
 | Maximum Action | 92784 | [92784-maximum-action.json](./92784-maximum-action.json) |
+| Maximum Apocalypse: The Video Game | 304291 | [304291-maximum-apocalypse-the-video-game.json](./304291-maximum-apocalypse-the-video-game.json) |
 | Maximum Chaser: 1001 Squad | 325509 | [325509-maximum-chaser-1001-squad.json](./325509-maximum-chaser-1001-squad.json) |
 | Maximum Entertainment Horror Bundle | 313209 | [313209-maximum-entertainment-horror-bundle.json](./313209-maximum-entertainment-horror-bundle.json) |
 | Maximum Entertainment Puzzle Platformer Bundle | 313208 | [313208-maximum-entertainment-puzzle-platformer-bundle.json](./313208-maximum-entertainment-puzzle-platformer-bundle.json) |
@@ -3877,6 +3878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man: Rock N Roll | 144203 | [144203-mega-man-rock-n-roll.json](./144203-mega-man-rock-n-roll.json) |
 | Mega Man: Shattered Diamond | 215151 | [215151-mega-man-shattered-diamond.json](./215151-mega-man-shattered-diamond.json) |
 | Mega Man: Speed Bomber | 269872 | [269872-mega-man-speed-bomber.json](./269872-mega-man-speed-bomber.json) |
+| Mega Man: Square Root of Negative One | 304266 | [304266-mega-man-square-root-of-negative-one.json](./304266-mega-man-square-root-of-negative-one.json) |
 | Mega Man: The New Lands Remastered | 269873 | [269873-mega-man-the-new-lands-remastered.json](./269873-mega-man-the-new-lands-remastered.json) |
 | Mega Man: The Power Battle | 1724 | [1724-mega-man-the-power-battle.json](./1724-mega-man-the-power-battle.json) |
 | Mega Man: The Sequel Wars | 215146 | [215146-mega-man-the-sequel-wars.json](./215146-mega-man-the-sequel-wars.json) |
@@ -6620,6 +6622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss Agatha's Palace | 187199 | [187199-miss-agathas-palace.json](./187199-miss-agathas-palace.json) |
 | Miss Bellevue Never Heard the Whistle | 362961 | [362961-miss-bellevue-never-heard-the-whistle.json](./362961-miss-bellevue-never-heard-the-whistle.json) |
 | Miss Bullard's School for Former Ladies | 184058 | [184058-miss-bullards-school-for-former-ladies.json](./184058-miss-bullards-school-for-former-ladies.json) |
+| Miss Chocolate Eater | 304259 | [304259-miss-chocolate-eater.json](./304259-miss-chocolate-eater.json) |
 | Miss Clue: Formula for Danger | 200655 | [200655-miss-clue-formula-for-danger.json](./200655-miss-clue-formula-for-danger.json) |
 | Miss Detective's Undercover | 202817 | [202817-miss-detectives-undercover.json](./202817-miss-detectives-undercover.json) |
 | Miss Fisher and the Deathly Maze | 26783 | [26783-miss-fisher-and-the-deathly-maze.json](./26783-miss-fisher-and-the-deathly-maze.json) |
@@ -9317,6 +9320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mumu's Soup Adventure | 250314 | [250314-mumus-soup-adventure.json](./250314-mumus-soup-adventure.json) |
 | MuMuMu: Mist of Six Dreams | 312590 | [312590-mumumu-mist-of-six-dreams.json](./312590-mumumu-mist-of-six-dreams.json) |
 | Munasawagi no Season | 246104 | [246104-munasawagi-no-season.json](./246104-munasawagi-no-season.json) |
+| Munch | 304300 | [304300-munch.json](./304300-munch.json) |
 | Munch Mobile | 40204 | [40204-munch-mobile.json](./40204-munch-mobile.json) |
 | Munchees | 319588 | [319588-munchees.json](./319588-munchees.json) |
 | Muncher | 80219 | [80219-muncher.json](./80219-muncher.json) |
