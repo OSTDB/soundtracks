@@ -5599,6 +5599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker TD | 390103 | [390103-poker-td.json](./390103-poker-td.json) |
 | Poker Train | 320148 | [320148-poker-train.json](./320148-poker-train.json) |
 | Poker World: Casino Game | 219292 | [219292-poker-world-casino-game.json](./219292-poker-world-casino-game.json) |
+| Poker: Panther Chameleon | 326154 | [326154-poker-panther-chameleon.json](./326154-poker-panther-chameleon.json) |
 | Poker: Texas & Omaha Hold'em - Premium Edition | 411836 | [411836-poker-texas-and-omaha-holdem-premium-edition.json](./411836-poker-texas-and-omaha-holdem-premium-edition.json) |
 | PokeRank | 414554 | [414554-pokerank.json](./414554-pokerank.json) |
 | PokerMania | 76593 | [76593-pokermania.json](./76593-pokermania.json) |
@@ -7589,6 +7590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Luminext | 372653 | [372653-project-luminext.json](./372653-project-luminext.json) |
 | Project Lumoria | 136481 | [136481-project-lumoria.json](./136481-project-lumoria.json) |
 | Project Luna | 220659 | [220659-project-luna.json](./220659-project-luna.json) |
+| Project Lynx | 326165 | [326165-project-lynx.json](./326165-project-lynx.json) |
 | Project M | 127155 | [127155-project-m.json](./127155-project-m.json) |
 | Project M | 382401 | [382401-project-m.json](./382401-project-m.json) |
 | Project M EX Remix | 202916 | [202916-project-m-ex-remix.json](./202916-project-m-ex-remix.json) |
