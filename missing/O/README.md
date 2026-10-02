@@ -1409,6 +1409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onee-san ni Makasenasai! Ryoubo to Joushi no Yawaraka Oppai ni Hasamarete | 108869 | [108869-onee-san-ni-makasenasai-ryoubo-to-joushi-no-yawaraka-oppai-ni-hasamarete.json](./108869-onee-san-ni-makasenasai-ryoubo-to-joushi-no-yawaraka-oppai-ni-hasamarete.json) |
 | Onefog Xonix | 98974 | [98974-onefog-xonix.json](./98974-onefog-xonix.json) |
 | Onegai AiPri | 396935 | [396935-onegai-aipri.json](./396935-onegai-aipri.json) |
+| Onegai My Melody: My Melody Adventure | 315563 | [315563-onegai-my-melody-my-melody-adventure.json](./315563-onegai-my-melody-my-melody-adventure.json) |
 | Onegai Twin(s) | 98037 | [98037-onegai-twin-s.json](./98037-onegai-twin-s.json) |
 | OneHit | 75104 | [75104-onehit.json](./75104-onehit.json) |
 | Oneiric | 285509 | [285509-oneiric.json](./285509-oneiric.json) |
