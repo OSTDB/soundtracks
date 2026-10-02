@@ -1781,6 +1781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Westworld | 90565 | [90565-westworld.json](./90565-westworld.json) |
 | Westworld | 97841 | [97841-westworld.json](./97841-westworld.json) |
 | Wet Candy | 408263 | [408263-wet-candy.json](./408263-wet-candy.json) |
+| Wet Cute Girls | 286752 | [286752-wet-cute-girls.json](./286752-wet-cute-girls.json) |
 | Wet Dreams | 229797 | [229797-wet-dreams.json](./229797-wet-dreams.json) |
 | Wet Dreams Spa | 385813 | [385813-wet-dreams-spa.json](./385813-wet-dreams-spa.json) |
 | Wet Girl | 114232 | [114232-wet-girl.json](./114232-wet-girl.json) |
