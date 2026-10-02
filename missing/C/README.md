@@ -5996,6 +5996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Columns | 4446 | [4446-columns.json](./4446-columns.json) |
 | Columns GB: Tezuka Osamu Characters | 72044 | [72044-columns-gb-tezuka-osamu-characters.json](./72044-columns-gb-tezuka-osamu-characters.json) |
 | Columns III | 14971 | [14971-columns-iii.json](./14971-columns-iii.json) |
+| Com2uS Pro Baseball V24 | 303176 | [303176-com2us-pro-baseball-v24.json](./303176-com2us-pro-baseball-v24.json) |
 | Coma: A Mind Adventure | 64976 | [64976-coma-a-mind-adventure.json](./64976-coma-a-mind-adventure.json) |
 | Coma: Lost in the Maze | 186816 | [186816-coma-lost-in-the-maze.json](./186816-coma-lost-in-the-maze.json) |
 | Coma: Mortuary | 36321 | [36321-coma-mortuary.json](./36321-coma-mortuary.json) |
@@ -6727,6 +6728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Container Terminal Simulator | 362389 | [362389-container-terminal-simulator.json](./362389-container-terminal-simulator.json) |
 | Containers | 338885 | [338885-containers.json](./338885-containers.json) |
 | Containment Initiative: PC Standalone | 99583 | [99583-containment-initiative-pc-standalone.json](./99583-containment-initiative-pc-standalone.json) |
+| Containment Search | 303173 | [303173-containment-search.json](./303173-containment-search.json) |
 | Containment Zone | 235749 | [235749-containment-zone.json](./235749-containment-zone.json) |
 | Contamination | 12986 | [12986-contamination.json](./12986-contamination.json) |
 | Contender | 44853 | [44853-contender.json](./44853-contender.json) |
