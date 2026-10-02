@@ -5674,8 +5674,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hua-Z | 397788 | [397788-hua-z.json](./397788-hua-z.json) |
 | Huáijiù Bǎn Sānguózhì Idle RPG | 369188 | [369188-huaijiu-ban-sanguozhi-idle-rpg.json](./369188-huaijiu-ban-sanguozhi-idle-rpg.json) |
 | Huang Quan Dream | 355194 | [355194-huang-quan-dream.json](./355194-huang-quan-dream.json) |
+| Huang Ye Ri Ji | 283417 | [283417-huang-ye-ri-ji.json](./283417-huang-ye-ri-ji.json) |
 | Huang Zhu Qian Kun | 308872 | [308872-huang-zhu-qian-kun.json](./308872-huang-zhu-qian-kun.json) |
 | Huāngdǎo Qiúshēng | 123555 | [123555-huangdao-qiusheng.json](./123555-huangdao-qiusheng.json) |
+| Huāngyě Rìjì: Gūdǎo | 283413 | [283413-huangye-riji-gudao.json](./283413-huangye-riji-gudao.json) |
 | Huànrèn Lù | 158155 | [158155-huanren-lu.json](./158155-huanren-lu.json) |
 | Huànshì Qíngyuán | 102971 | [102971-huanshi-qingyuan.json](./102971-huanshi-qingyuan.json) |
 | Huanu Poems | 339119 | [339119-huanu-poems.json](./339119-huanu-poems.json) |
