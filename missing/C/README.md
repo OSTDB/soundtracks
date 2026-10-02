@@ -3650,6 +3650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chippy & Noppo | 240228 | [240228-chippy-and-noppo.json](./240228-chippy-and-noppo.json) |
 | Chiptune DJ | 106409 | [106409-chiptune-dj.json](./106409-chiptune-dj.json) |
 | Chiptune Runner | 52741 | [52741-chiptune-runner.json](./52741-chiptune-runner.json) |
+| ChipWits | 292223 | [292223-chipwits.json](./292223-chipwits.json) |
 | Chiqing Meimei Shaxue de Xiongkong Riji | 411775 | [411775-chiqing-meimei-shaxue-de-xiongkong-riji.json](./411775-chiqing-meimei-shaxue-de-xiongkong-riji.json) |
 | Chiral | 146176 | [146176-chiral.json](./146176-chiral.json) |
 | Chiral | 309855 | [309855-chiral.json](./309855-chiral.json) |
@@ -6495,6 +6496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confined Space | 415101 | [415101-confined-space.json](./415101-confined-space.json) |
 | Confined: Leaving OKB-134 | 291489 | [291489-confined-leaving-okb-134.json](./291489-confined-leaving-okb-134.json) |
 | Confinement Community Project | 312891 | [312891-confinement-community-project.json](./312891-confinement-community-project.json) |
+| Confiscator | 292235 | [292235-confiscator.json](./292235-confiscator.json) |
 | Conflagrant Rodent | 271815 | [271815-conflagrant-rodent.json](./271815-conflagrant-rodent.json) |
 | Conflicks - Revolutionary Space Battles | 17195 | [17195-conflicks-revolutionary-space-battles.json](./17195-conflicks-revolutionary-space-battles.json) |
 | Conflict / Resolution | 201123 | [201123-conflict-resolution.json](./201123-conflict-resolution.json) |
