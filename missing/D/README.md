@@ -766,6 +766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Legend | 45525 | [45525-dark-legend.json](./45525-dark-legend.json) |
 | Dark Legion | 27574 | [27574-dark-legion.json](./27574-dark-legion.json) |
 | Dark Lessons | 285002 | [285002-dark-lessons.json](./285002-dark-lessons.json) |
+| Dark Light: Survivor | 317334 | [317334-dark-light-survivor.json](./317334-dark-light-survivor.json) |
 | Dark Lord | 175733 | [175733-dark-lord.json](./175733-dark-lord.json) |
 | Dark Lord | 227272 | [227272-dark-lord.json](./227272-dark-lord.json) |
 | Dark Lord | 85882 | [85882-dark-lord.json](./85882-dark-lord.json) |
@@ -2316,6 +2317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decide 4 God | 173046 | [173046-decide-4-god.json](./173046-decide-4-god.json) |
 | Decide in 5 Seconds: Who Is the Culprit? | 409665 | [409665-decide-in-5-seconds-who-is-the-culprit.json](./409665-decide-in-5-seconds-who-is-the-culprit.json) |
 | Decide Your Fate | 405694 | [405694-decide-your-fate.json](./405694-decide-your-fate.json) |
+| Decidit | 317328 | [317328-decidit.json](./317328-decidit.json) |
 | Decimated | 206358 | [206358-decimated.json](./206358-decimated.json) |
 | Decimation X | 66374 | [66374-decimation-x.json](./66374-decimation-x.json) |
 | Decipher the Deck | 309473 | [309473-decipher-the-deck.json](./309473-decipher-the-deck.json) |
@@ -2352,6 +2354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deckanism: Singularity Island | 373165 | [373165-deckanism-singularity-island.json](./373165-deckanism-singularity-island.json) |
 | Deckbane | 347782 | [347782-deckbane.json](./347782-deckbane.json) |
 | DeckBuilder Village | 211703 | [211703-deckbuilder-village.json](./211703-deckbuilder-village.json) |
+| Deckception | 317308 | [317308-deckception.json](./317308-deckception.json) |
 | DeckEleven's Railroads | 87687 | [87687-deckelevens-railroads.json](./87687-deckelevens-railroads.json) |
 | DeckEleven's Railroads 2 | 244898 | [244898-deckelevens-railroads-2.json](./244898-deckelevens-railroads-2.json) |
 | Deckline | 342637 | [342637-deckline.json](./342637-deckline.json) |
@@ -8056,6 +8059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Shadow Strike | 303262 | [303262-drone-shadow-strike.json](./303262-drone-shadow-strike.json) |
 | Drone Showcase | 186287 | [186287-drone-showcase.json](./186287-drone-showcase.json) |
 | Drone Simulator | 188948 | [188948-drone-simulator.json](./188948-drone-simulator.json) |
+| Drone Simulator VR | 316723 | [316723-drone-simulator-vr.json](./316723-drone-simulator-vr.json) |
 | Drone Simulator: Smash Zombies | 343249 | [343249-drone-simulator-smash-zombies.json](./343249-drone-simulator-smash-zombies.json) |
 | Drone Simulator: Smash Zombies | 401116 | [401116-drone-simulator-smash-zombies.json](./401116-drone-simulator-smash-zombies.json) |
 | Drone Smuggler | 363575 | [363575-drone-smuggler.json](./363575-drone-smuggler.json) |
