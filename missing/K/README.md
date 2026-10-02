@@ -910,6 +910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kether | 45921 | [45921-kether.json](./45921-kether.json) |
 | KetnetKick | 94236 | [94236-ketnetkick.json](./94236-ketnetkick.json) |
 | Ketris | 182540 | [182540-ketris.json](./182540-ketris.json) |
+| Ketsu Battler | 330226 | [330226-ketsu-battler.json](./330226-ketsu-battler.json) |
 | Ketsugou Danshi: Elements with Emotions - Zenshi Konkan Pack | 260691 | [260691-ketsugou-danshi-elements-with-emotions-zenshi-konkan-pack.json](./260691-ketsugou-danshi-elements-with-emotions-zenshi-konkan-pack.json) |
 | Ketsui Death Label | 47856 | [47856-ketsui-death-label.json](./47856-ketsui-death-label.json) |
 | Ketsui: Kizuna Jigoku Tachi Extra | 79853 | [79853-ketsui-kizuna-jigoku-tachi-extra.json](./79853-ketsui-kizuna-jigoku-tachi-extra.json) |
@@ -1639,6 +1640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Majestic | 136344 | [136344-kingdom-majestic.json](./136344-kingdom-majestic.json) |
 | Kingdom of Arcana | 292320 | [292320-kingdom-of-arcana.json](./292320-kingdom-of-arcana.json) |
 | Kingdom of Assetia: The Clicker Game | 166621 | [166621-kingdom-of-assetia-the-clicker-game.json](./166621-kingdom-of-assetia-the-clicker-game.json) |
+| Kingdom of Asteborg | 330227 | [330227-kingdom-of-asteborg.json](./330227-kingdom-of-asteborg.json) |
 | Kingdom of Atham: Crown of the Champions | 166715 | [166715-kingdom-of-atham-crown-of-the-champions.json](./166715-kingdom-of-atham-crown-of-the-champions.json) |
 | Kingdom of Bärn | 279129 | [279129-kingdom-of-barn.json](./279129-kingdom-of-barn.json) |
 | Kingdom of Dinza | 190179 | [190179-kingdom-of-dinza.json](./190179-kingdom-of-dinza.json) |
