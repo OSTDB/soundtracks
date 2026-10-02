@@ -1313,8 +1313,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Pirate Warriors 4 - One Piece Film: Red Anime Song Pack | 291058 | [291058-one-piece-pirate-warriors-4-one-piece-film-red-anime-song-pack.json](./291058-one-piece-pirate-warriors-4-one-piece-film-red-anime-song-pack.json) |
 | One Piece: Pirate Warriors 4 - One Piece Film: Red Pack | 283182 | [283182-one-piece-pirate-warriors-4-one-piece-film-red-pack.json](./283182-one-piece-pirate-warriors-4-one-piece-film-red-pack.json) |
 | One Piece: Pirate Warriors 4 - Path to the King of the Pirates & Soul Map 3 | 294429 | [294429-one-piece-pirate-warriors-4-path-to-the-king-of-the-pirates-and-soul-map-3.json](./294429-one-piece-pirate-warriors-4-path-to-the-king-of-the-pirates-and-soul-map-3.json) |
+| One Piece: Pirate Warriors 4 - Soba Mask Costume | 296021 | [296021-one-piece-pirate-warriors-4-soba-mask-costume.json](./296021-one-piece-pirate-warriors-4-soba-mask-costume.json) |
 | One Piece: Pirate Warriors 4 - The Battle of Onigashima Pack | 266743 | [266743-one-piece-pirate-warriors-4-the-battle-of-onigashima-pack.json](./266743-one-piece-pirate-warriors-4-the-battle-of-onigashima-pack.json) |
 | One Piece: Pirate Warriors 4 - Ultimate Edition | 266820 | [266820-one-piece-pirate-warriors-4-ultimate-edition.json](./266820-one-piece-pirate-warriors-4-ultimate-edition.json) |
+| One Piece: Pirate Warriors 4 - Zorojuro Costume | 296020 | [296020-one-piece-pirate-warriors-4-zorojuro-costume.json](./296020-one-piece-pirate-warriors-4-zorojuro-costume.json) |
 | One Piece: Romance Dawn | 6851 | [6851-one-piece-romance-dawn.json](./6851-one-piece-romance-dawn.json) |
 | One Piece: Starboard | 300799 | [300799-one-piece-starboard.json](./300799-one-piece-starboard.json) |
 | One Piece: Tobidase Kaizoku-dan! | 75740 | [75740-one-piece-tobidase-kaizoku-dan.json](./75740-one-piece-tobidase-kaizoku-dan.json) |
