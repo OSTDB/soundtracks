@@ -2187,6 +2187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Training Camp VR | 264115 | [264115-mars-training-camp-vr.json](./264115-mars-training-camp-vr.json) |
 | Mars Type I | 181855 | [181855-mars-type-i.json](./181855-mars-type-i.json) |
 | Mars Underground | 110490 | [110490-mars-underground.json](./110490-mars-underground.json) |
+| Mars vs. Robots | 319693 | [319693-mars-vs-robots.json](./319693-mars-vs-robots.json) |
 | Mars: Chaos Menace | 111712 | [111712-mars-chaos-menace.json](./111712-mars-chaos-menace.json) |
 | Mars: The New Eden | 215618 | [215618-mars-the-new-eden.json](./215618-mars-the-new-eden.json) |
 | Mars: War Logs | 1830 | [1830-mars-war-logs.json](./1830-mars-war-logs.json) |
@@ -5478,6 +5479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Watcher: Village | 403685 | [403685-midnight-watcher-village.json](./403685-midnight-watcher-village.json) |
 | Midnight Wave | 109669 | [109669-midnight-wave.json](./109669-midnight-wave.json) |
 | Midnight Witch | 244228 | [244228-midnight-witch.json](./244228-midnight-witch.json) |
+| Midnight's Bell | 319647 | [319647-midnights-bell.json](./319647-midnights-bell.json) |
 | Midnight's Blessing 2 | 33040 | [33040-midnights-blessing-2.json](./33040-midnights-blessing-2.json) |
 | Midnight's Curse | 154569 | [154569-midnights-curse.json](./154569-midnights-curse.json) |
 | MidnightNears | 344342 | [344342-midnightnears.json](./344342-midnightnears.json) |
