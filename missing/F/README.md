@@ -2353,6 +2353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fill Fill | 362399 | [362399-fill-fill.json](./362399-fill-fill.json) |
 | Fill in the Holes | 205027 | [205027-fill-in-the-holes.json](./205027-fill-in-the-holes.json) |
 | Fill Missing Letters | 187977 | [187977-fill-missing-letters.json](./187977-fill-missing-letters.json) |
+| Fill Multicolor | 283380 | [283380-fill-multicolor.json](./283380-fill-multicolor.json) |
 | Fill The Cup | 315705 | [315705-fill-the-cup.json](./315705-fill-the-cup.json) |
 | Fill The Cup 3: Frost | 390801 | [390801-fill-the-cup-3-frost.json](./390801-fill-the-cup-3-frost.json) |
 | Fill the Fridge | 311817 | [311817-fill-the-fridge.json](./311817-fill-the-fridge.json) |
@@ -4566,6 +4567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Footballer of the Year | 41005 | [41005-footballer-of-the-year.json](./41005-footballer-of-the-year.json) |
 | Footballer of the Year 2 | 41004 | [41004-footballer-of-the-year-2.json](./41004-footballer-of-the-year-2.json) |
 | FootGoal! Tiki Taka | 147921 | [147921-footgoal-tiki-taka.json](./147921-footgoal-tiki-taka.json) |
+| Foothold VR | 283409 | [283409-foothold-vr.json](./283409-foothold-vr.json) |
 | Footie | 268485 | [268485-footie.json](./268485-footie.json) |
 | FootLOL: Crazy Soccer! | 102620 | [102620-footlol-crazy-soccer.json](./102620-footlol-crazy-soccer.json) |
 | Footlord | 383527 | [383527-footlord.json](./383527-footlord.json) |
@@ -5160,6 +5162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune Quest: Dice wo Korogase | 42242 | [42242-fortune-quest-dice-wo-korogase.json](./42242-fortune-quest-dice-wo-korogase.json) |
 | Fortune Rewritten: Costume Pack 1 | 277939 | [277939-fortune-rewritten-costume-pack-1.json](./277939-fortune-rewritten-costume-pack-1.json) |
 | Fortune Street | 19930 | [19930-fortune-street.json](./19930-fortune-street.json) |
+| Fortune Street 2: Rolling Again | 283405 | [283405-fortune-street-2-rolling-again.json](./283405-fortune-street-2-rolling-again.json) |
 | Fortune Street Smart | 64398 | [64398-fortune-street-smart.json](./64398-fortune-street-smart.json) |
 | Fortune Teller Simulator | 388385 | [388385-fortune-teller-simulator.json](./388385-fortune-teller-simulator.json) |
 | Fortune Telling | 121042 | [121042-fortune-telling.json](./121042-fortune-telling.json) |
