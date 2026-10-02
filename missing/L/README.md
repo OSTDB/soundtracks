@@ -484,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laruaville 8 | 270079 | [270079-laruaville-8.json](./270079-laruaville-8.json) |
 | Larva Mortus | 15780 | [15780-larva-mortus.json](./15780-larva-mortus.json) |
 | Las Diablas Blackjack | 84187 | [84187-las-diablas-blackjack.json](./84187-las-diablas-blackjack.json) |
+| Las gafas nuevas del yayo Carmelo | 314380 | [314380-las-gafas-nuevas-del-yayo-carmelo.json](./314380-las-gafas-nuevas-del-yayo-carmelo.json) |
 | Las Gymkhanikas de Uli | 377290 | [377290-las-gymkhanikas-de-uli.json](./377290-las-gymkhanikas-de-uli.json) |
 | Las Vegas | 41423 | [41423-las-vegas.json](./41423-las-vegas.json) |
 | Las Vegas | 91384 | [91384-las-vegas.json](./91384-las-vegas.json) |
@@ -1785,6 +1786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Boogie | 329058 | [329058-lets-boogie.json](./329058-lets-boogie.json) |
 | Let's Bounce! Popsicle Boy! | 255021 | [255021-lets-bounce-popsicle-boy.json](./255021-lets-bounce-popsicle-boy.json) |
 | Let's Bravo Music | 326944 | [326944-lets-bravo-music.json](./326944-lets-bravo-music.json) |
+| Let's Build a Dungeon | 314389 | [314389-lets-build-a-dungeon.json](./314389-lets-build-a-dungeon.json) |
 | Let's Build a Garden | 340914 | [340914-lets-build-a-garden.json](./340914-lets-build-a-garden.json) |
 | Let's Build a Zoo | 146395 | [146395-lets-build-a-zoo.json](./146395-lets-build-a-zoo.json) |
 | Let's Build a Zoo + Dinosaur Island Bundle | 208433 | [208433-lets-build-a-zoo-dinosaur-island-bundle.json](./208433-lets-build-a-zoo-dinosaur-island-bundle.json) |
