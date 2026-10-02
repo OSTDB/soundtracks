@@ -6732,6 +6732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce ASMR: Hexagon | 288913 | [288913-bounce-asmr-hexagon.json](./288913-bounce-asmr-hexagon.json) |
 | Bounce ASMR: Pentagon | 288912 | [288912-bounce-asmr-pentagon.json](./288912-bounce-asmr-pentagon.json) |
 | Bounce ASMR: Triangle | 288907 | [288907-bounce-asmr-triangle.json](./288907-bounce-asmr-triangle.json) |
+| Bounce Back | 296036 | [296036-bounce-back.json](./296036-bounce-back.json) |
 | Bounce Ball | 68653 | [68653-bounce-ball.json](./68653-bounce-ball.json) |
 | Bounce Ball Blitz | 272382 | [272382-bounce-ball-blitz.json](./272382-bounce-ball-blitz.json) |
 | Bounce Boing Voyage | 245006 | [245006-bounce-boing-voyage.json](./245006-bounce-boing-voyage.json) |
