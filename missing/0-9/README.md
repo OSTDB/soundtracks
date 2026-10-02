@@ -501,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1234 Connect Puzzle | 357975 | [357975-1234-connect-puzzle.json](./357975-1234-connect-puzzle.json) |
 | 123Babycount | 89724 | [89724-123babycount.json](./89724-123babycount.json) |
 | 12am | 212754 | [212754-12am.json](./212754-12am.json) |
+| 12Gems | 292786 | [292786-12gems.json](./292786-12gems.json) |
 | 12nin no Onna Kyoushi | 98423 | [98423-12nin-no-onna-kyoushi.json](./98423-12nin-no-onna-kyoushi.json) |
 | 12nin no Onna Kyoushi Re-Innovation -In- | 98419 | [98419-12nin-no-onna-kyoushi-re-innovation-in.json](./98419-12nin-no-onna-kyoushi-re-innovation-in.json) |
 | 13 Bones | 384726 | [384726-13-bones.json](./384726-13-bones.json) |
