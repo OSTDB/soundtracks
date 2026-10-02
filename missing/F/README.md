@@ -3928,6 +3928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floor Plan Puzzle (Red Room Simulator) | 347321 | [347321-floor-plan-puzzle-red-room-simulator.json](./347321-floor-plan-puzzle-red-room-simulator.json) |
 | Floor Plan: Hands-On Edition | 55801 | [55801-floor-plan-hands-on-edition.json](./55801-floor-plan-hands-on-edition.json) |
 | Floor Wiping Race | 420674 | [420674-floor-wiping-race.json](./420674-floor-wiping-race.json) |
+| Floor X | 323263 | [323263-floor-x.json](./323263-floor-x.json) |
 | Floor404 | 409741 | [409741-floor404.json](./409741-floor404.json) |
 | Floor44 | 213011 | [213011-floor44.json](./213011-floor44.json) |
 | FloorBreaker | 358990 | [358990-floorbreaker.json](./358990-floorbreaker.json) |
