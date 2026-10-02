@@ -3781,6 +3781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number Party | 223994 | [223994-number-party.json](./223994-number-party.json) |
 | Number Place Value Tutor | 108497 | [108497-number-place-value-tutor.json](./108497-number-place-value-tutor.json) |
 | Number Puzzler | 109042 | [109042-number-puzzler.json](./109042-number-puzzler.json) |
+| Number Shoot VR | 292249 | [292249-number-shoot-vr.json](./292249-number-shoot-vr.json) |
 | Number Slide Puzzle | 228106 | [228106-number-slide-puzzle.json](./228106-number-slide-puzzle.json) |
 | Number Stomper | 338282 | [338282-number-stomper.json](./338282-number-stomper.json) |
 | Number Tower | 341490 | [341490-number-tower.json](./341490-number-tower.json) |
