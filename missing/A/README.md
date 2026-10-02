@@ -6264,6 +6264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena Runner | 92817 | [92817-arena-runner.json](./92817-arena-runner.json) |
 | Arena Titans | 94789 | [94789-arena-titans.json](./94789-arena-titans.json) |
 | Arena Warrior | 325022 | [325022-arena-warrior.json](./325022-arena-warrior.json) |
+| Arena Worker | 292780 | [292780-arena-worker.json](./292780-arena-worker.json) |
 | Arena: Blood on the Sand VR | 29795 | [29795-arena-blood-on-the-sand-vr.json](./29795-arena-blood-on-the-sand-vr.json) |
 | Arena: Gameboy Edition | 280296 | [280296-arena-gameboy-edition.json](./280296-arena-gameboy-edition.json) |
 | Arena: Maze of Death | 19694 | [19694-arena-maze-of-death.json](./19694-arena-maze-of-death.json) |
