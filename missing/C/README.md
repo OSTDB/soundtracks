@@ -2663,6 +2663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champions of Midgard | 111632 | [111632-champions-of-midgard.json](./111632-champions-of-midgard.json) |
 | Champions of Quortz | 249215 | [249215-champions-of-quortz.json](./249215-champions-of-quortz.json) |
 | Champions of Regnum | 16426 | [16426-champions-of-regnum.json](./16426-champions-of-regnum.json) |
+| Champions of Shond: Echoes of Faith | 333699 | [333699-champions-of-shond-echoes-of-faith.json](./333699-champions-of-shond-echoes-of-faith.json) |
 | Champions of Titan | 105082 | [105082-champions-of-titan.json](./105082-champions-of-titan.json) |
 | Champions of Zulula | 71604 | [71604-champions-of-zulula.json](./71604-champions-of-zulula.json) |
 | Champions of Zulula: Elite Edition | 63382 | [63382-champions-of-zulula-elite-edition.json](./63382-champions-of-zulula-elite-edition.json) |
@@ -2767,6 +2768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Edge | 29090 | [29090-chaos-edge.json](./29090-chaos-edge.json) |
 | Chaos Entropy | 320559 | [320559-chaos-entropy.json](./320559-chaos-entropy.json) |
 | Chaos Faction 2 | 192096 | [192096-chaos-faction-2.json](./192096-chaos-faction-2.json) |
+| Chaos Faction Legacy Collection | 333776 | [333776-chaos-faction-legacy-collection.json](./333776-chaos-faction-legacy-collection.json) |
 | Chaos Field: New Order | 43458 | [43458-chaos-field-new-order.json](./43458-chaos-field-new-order.json) |
 | Chaos Frenzy | 295347 | [295347-chaos-frenzy.json](./295347-chaos-frenzy.json) |
 | Chaos Front | 291490 | [291490-chaos-front.json](./291490-chaos-front.json) |
@@ -6673,6 +6675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Control Freak | 111233 | [111233-control-freak.json](./111233-control-freak.json) |
 | Control Resonant | 225582 | [225582-control-resonant.json](./225582-control-resonant.json) |
 | Control Resonant: Digital Deluxe Edition | 418570 | [418570-control-resonant-digital-deluxe-edition.json](./418570-control-resonant-digital-deluxe-edition.json) |
+| Control Room | 333794 | [333794-control-room.json](./333794-control-room.json) |
 | Control Room Alpha | 207816 | [207816-control-room-alpha.json](./207816-control-room-alpha.json) |
 | Control Season Pass | 122314 | [122314-control-season-pass.json](./122314-control-season-pass.json) |
 | Control the Ball | 312198 | [312198-control-the-ball.json](./312198-control-the-ball.json) |
@@ -7066,6 +7069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmetic Paradise: Make no Kiseki | 70674 | [70674-cosmetic-paradise-make-no-kiseki.json](./70674-cosmetic-paradise-make-no-kiseki.json) |
 | Cosmetic Paradise: Princess Life | 130392 | [130392-cosmetic-paradise-princess-life.json](./130392-cosmetic-paradise-princess-life.json) |
 | Cosmi-Cave 64 | 106414 | [106414-cosmi-cave-64.json](./106414-cosmi-cave-64.json) |
+| Cosmi: Forbidden Forest & Beyond | 333789 | [333789-cosmi-forbidden-forest-and-beyond.json](./333789-cosmi-forbidden-forest-and-beyond.json) |
 | Cosmic Avenger | 18504 | [18504-cosmic-avenger.json](./18504-cosmic-avenger.json) |
 | Cosmic Badger | 197746 | [197746-cosmic-badger.json](./197746-cosmic-badger.json) |
 | Cosmic Blastards | 275873 | [275873-cosmic-blastards.json](./275873-cosmic-blastards.json) |
