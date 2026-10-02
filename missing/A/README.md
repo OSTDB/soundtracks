@@ -1685,6 +1685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeternitas | 111896 | [111896-aeternitas.json](./111896-aeternitas.json) |
 | AeternoBlade II | 28079 | [28079-aeternoblade-ii.json](./28079-aeternoblade-ii.json) |
 | AeternoBlade II: Infinity | 285602 | [285602-aeternoblade-ii-infinity.json](./285602-aeternoblade-ii-infinity.json) |
+| Aether | 280472 | [280472-aether.json](./280472-aether.json) |
 | Aether Crown | 405616 | [405616-aether-crown.json](./405616-aether-crown.json) |
 | Aether Drift | 108046 | [108046-aether-drift.json](./108046-aether-drift.json) |
 | Aether Effect | 357787 | [357787-aether-effect.json](./357787-aether-effect.json) |
@@ -2992,6 +2993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Hominid | 210733 | [210733-alien-hominid.json](./210733-alien-hominid.json) |
 | Alien Hominid | 314892 | [314892-alien-hominid.json](./314892-alien-hominid.json) |
 | Alien Hominid 360 | 314895 | [314895-alien-hominid-360.json](./314895-alien-hominid-360.json) |
+| Alien Hominid: PDA Classic Pack 2 | 280416 | [280416-alien-hominid-pda-classic-pack-2.json](./280416-alien-hominid-pda-classic-pack-2.json) |
 | Alien Hominid: PDA Games | 61164 | [61164-alien-hominid-pda-games.json](./61164-alien-hominid-pda-games.json) |
 | Alien Hominid: The Extra Terrestrial Bundle | 274442 | [274442-alien-hominid-the-extra-terrestrial-bundle.json](./274442-alien-hominid-the-extra-terrestrial-bundle.json) |
 | Alien Hordes | 99390 | [99390-alien-hordes.json](./99390-alien-hordes.json) |
