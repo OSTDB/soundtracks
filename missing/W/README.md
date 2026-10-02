@@ -3798,6 +3798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Work Beasts | 304023 | [304023-work-beasts.json](./304023-work-beasts.json) |
 | Work from Home | 218717 | [218717-work-from-home.json](./218717-work-from-home.json) |
 | Work Girl | 378359 | [378359-work-girl.json](./378359-work-girl.json) |
+| Work In Progress | 326171 | [326171-work-in-progress.json](./326171-work-in-progress.json) |
 | Work Inc. | 393821 | [393821-work-inc.json](./393821-work-inc.json) |
 | Work Life Balance | 372470 | [372470-work-life-balance.json](./372470-work-life-balance.json) |
 | Work Till Die | 391060 | [391060-work-till-die.json](./391060-work-till-die.json) |
