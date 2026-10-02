@@ -2966,6 +2966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godzilla: Destroy All Monsters Melee Remastered | 404939 | [404939-godzilla-destroy-all-monsters-melee-remastered.json](./404939-godzilla-destroy-all-monsters-melee-remastered.json) |
 | Godzilla: Doki-doki Kaijuu-tou!! | 75890 | [75890-godzilla-doki-doki-kaijuu-tou.json](./75890-godzilla-doki-doki-kaijuu-tou.json) |
 | Godzilla: Save the Earth | 5847 | [5847-godzilla-save-the-earth.json](./5847-godzilla-save-the-earth.json) |
+| Godzilla: Save the Earth - Melee | 301492 | [301492-godzilla-save-the-earth-melee.json](./301492-godzilla-save-the-earth-melee.json) |
 | Godzilla: The Game | 8731 | [8731-godzilla-the-game.json](./8731-godzilla-the-game.json) |
 | Godzilla: The Series | 75893 | [75893-godzilla-the-series.json](./75893-godzilla-the-series.json) |
 | Goemon: Mononoke Sugoroku | 3507 | [3507-goemon-mononoke-sugoroku.json](./3507-goemon-mononoke-sugoroku.json) |
@@ -4888,6 +4889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guess My Word | 314418 | [314418-guess-my-word.json](./314418-guess-my-word.json) |
 | Guess Pony Cartoon | 202387 | [202387-guess-pony-cartoon.json](./202387-guess-pony-cartoon.json) |
 | Guess the Character! | 99977 | [99977-guess-the-character.json](./99977-guess-the-character.json) |
+| Guess the Door | 301513 | [301513-guess-the-door.json](./301513-guess-the-door.json) |
 | Guess the Flag! | 305905 | [305905-guess-the-flag.json](./305905-guess-the-flag.json) |
 | Guess the Flags: A Fun Quiz | 55136 | [55136-guess-the-flags-a-fun-quiz.json](./55136-guess-the-flags-a-fun-quiz.json) |
 | Guess The Movie | 273111 | [273111-guess-the-movie.json](./273111-guess-the-movie.json) |
