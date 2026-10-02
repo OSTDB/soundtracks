@@ -2600,6 +2600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aladdin | 204504 | [204504-aladdin.json](./204504-aladdin.json) |
 | Aladdin | 204505 | [204505-aladdin.json](./204505-aladdin.json) |
 | Aladdin II | 242085 | [242085-aladdin-ii.json](./242085-aladdin-ii.json) |
+| Aladdin Magic Carpet Racing | 296030 | [296030-aladdin-magic-carpet-racing.json](./296030-aladdin-magic-carpet-racing.json) |
 | Aladdin's Magic Lamp | 14235 | [14235-aladdins-magic-lamp.json](./14235-aladdins-magic-lamp.json) |
 | Aladin & the Enchanted Lamp: Extended Edition | 416859 | [416859-aladin-and-the-enchanted-lamp-extended-edition.json](./416859-aladin-and-the-enchanted-lamp-extended-edition.json) |
 | Alakenisland | 195161 | [195161-alakenisland.json](./195161-alakenisland.json) |
@@ -6562,6 +6563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arms Race: TCWE - Politics | 170914 | [170914-arms-race-tcwe-politics.json](./170914-arms-race-tcwe-politics.json) |
 | Arms Trade Tycoon: Tanks | 190232 | [190232-arms-trade-tycoon-tanks.json](./190232-arms-trade-tycoon-tanks.json) |
 | Army Antz | 175721 | [175721-army-antz.json](./175721-army-antz.json) |
+| Army Clash | 295989 | [295989-army-clash.json](./295989-army-clash.json) |
 | Army Days | 13796 | [13796-army-days.json](./13796-army-days.json) |
 | Army Defence | 256519 | [256519-army-defence.json](./256519-army-defence.json) |
 | Army Defender | 66994 | [66994-army-defender.json](./66994-army-defender.json) |
