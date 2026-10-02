@@ -997,6 +997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harmoni | 296903 | [296903-harmoni.json](./296903-harmoni.json) |
 | Harmonia | 138141 | [138141-harmonia.json](./138141-harmonia.json) |
 | Harmonia Heart | 206181 | [206181-harmonia-heart.json](./206181-harmonia-heart.json) |
+| Harmonia: Full HD Edition | 289587 | [289587-harmonia-full-hd-edition.json](./289587-harmonia-full-hd-edition.json) |
 | Harmonis: The Hand-Made Kingdoms | 287073 | [287073-harmonis-the-hand-made-kingdoms.json](./287073-harmonis-the-hand-made-kingdoms.json) |
 | Harmonium: The Musical | 279616 | [279616-harmonium-the-musical.json](./279616-harmonium-the-musical.json) |
 | Harmony | 260660 | [260660-harmony.json](./260660-harmony.json) |
