@@ -871,6 +871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Drive: Open World Multiplayer Racing | 163830 | [163830-need-for-drive-open-world-multiplayer-racing.json](./163830-need-for-drive-open-world-multiplayer-racing.json) |
 | Need for Kill | 333213 | [333213-need-for-kill.json](./333213-need-for-kill.json) |
 | Need For Madness 2 | 63232 | [63232-need-for-madness-2.json](./63232-need-for-madness-2.json) |
+| Need For Race: Street King | 328511 | [328511-need-for-race-street-king.json](./328511-need-for-race-street-king.json) |
 | Need For Scream | 345550 | [345550-need-for-scream.json](./345550-need-for-scream.json) |
 | Need For Seed: Undergrowth | 185512 | [185512-need-for-seed-undergrowth.json](./185512-need-for-seed-undergrowth.json) |
 | Need for Speed Deluxe Bundle | 331479 | [331479-need-for-speed-deluxe-bundle.json](./331479-need-for-speed-deluxe-bundle.json) |
@@ -1369,6 +1370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nervous Brickdown | 9507 | [9507-nervous-brickdown.json](./9507-nervous-brickdown.json) |
 | Nervous Pinguin | 96034 | [96034-nervous-pinguin.json](./96034-nervous-pinguin.json) |
 | NES Classic Edition | 213361 | [213361-nes-classic-edition.json](./213361-nes-classic-edition.json) |
+| NES Classics | 328666 | [328666-nes-classics.json](./328666-nes-classics.json) |
 | NES Open Tournament Golf | 3400 | [3400-nes-open-tournament-golf.json](./3400-nes-open-tournament-golf.json) |
 | NES Play Action Football | 48194 | [48194-nes-play-action-football.json](./48194-nes-play-action-football.json) |
 | NES Remix 2 | 6402 | [6402-nes-remix-2.json](./6402-nes-remix-2.json) |
