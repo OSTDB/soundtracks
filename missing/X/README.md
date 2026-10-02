@@ -383,6 +383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xi Coliseum | 334216 | [334216-xi-coliseum.json](./334216-xi-coliseum.json) |
 | XI O'Clock | 341878 | [341878-xi-oclock.json](./341878-xi-oclock.json) |
 | Xiákè Yīngxióng Zhuán | 86019 | [86019-xiake-yingxiong-zhuan.json](./86019-xiake-yingxiong-zhuan.json) |
+| Xialuo: Kill All Flowers | 284613 | [284613-xialuo-kill-all-flowers.json](./284613-xialuo-kill-all-flowers.json) |
 | Xiama | 69813 | [69813-xiama.json](./69813-xiama.json) |
 | Xiān Lǚ Yì Wén Lù | 373697 | [373697-xian-lu-yi-wen-lu.json](./373697-xian-lu-yi-wen-lu.json) |
 | Xián Shàng Huíyīn | 304027 | [304027-xian-shang-huiyin.json](./304027-xian-shang-huiyin.json) |
