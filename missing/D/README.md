@@ -2094,6 +2094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death By Chatter | 322934 | [322934-death-by-chatter.json](./322934-death-by-chatter.json) |
 | Death by Cube | 22977 | [22977-death-by-cube.json](./22977-death-by-cube.json) |
 | Death by Dark Shadows | 57665 | [57665-death-by-dark-shadows.json](./57665-death-by-dark-shadows.json) |
+| Death by Deduction | 302069 | [302069-death-by-deduction.json](./302069-death-by-deduction.json) |
 | Death by Degrees | 1241 | [1241-death-by-degrees.json](./1241-death-by-degrees.json) |
 | Death by Flower Arrangement | 186164 | [186164-death-by-flower-arrangement.json](./186164-death-by-flower-arrangement.json) |
 | Death By Hamster | 262666 | [262666-death-by-hamster.json](./262666-death-by-hamster.json) |
@@ -2555,6 +2556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deepest Oblivion | 271813 | [271813-deepest-oblivion.json](./271813-deepest-oblivion.json) |
 | Deepest Regret | 280434 | [280434-deepest-regret.json](./280434-deepest-regret.json) |
 | Deepest Valley | 395832 | [395832-deepest-valley.json](./395832-deepest-valley.json) |
+| Deepest World | 302050 | [302050-deepest-world.json](./302050-deepest-world.json) |
 | Deepfield | 211202 | [211202-deepfield.json](./211202-deepfield.json) |
 | Deepfried in Deepspace | 373541 | [373541-deepfried-in-deepspace.json](./373541-deepfried-in-deepspace.json) |
 | DeepFriedCraft, the Worst Modpack Ever | 205066 | [205066-deepfriedcraft-the-worst-modpack-ever.json](./205066-deepfriedcraft-the-worst-modpack-ever.json) |
@@ -3207,6 +3209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depth | 11291 | [11291-depth.json](./11291-depth.json) |
 | Depth Ascend | 311644 | [311644-depth-ascend.json](./311644-depth-ascend.json) |
 | Depth Charge | 282718 | [282718-depth-charge.json](./282718-depth-charge.json) |
+| Depth Diver | 302067 | [302067-depth-diver.json](./302067-depth-diver.json) |
 | Depth Fantasia | 99155 | [99155-depth-fantasia.json](./99155-depth-fantasia.json) |
 | Depth Gun | 185024 | [185024-depth-gun.json](./185024-depth-gun.json) |
 | Depth Hunter 2: Ocean Mysteries | 167273 | [167273-depth-hunter-2-ocean-mysteries.json](./167273-depth-hunter-2-ocean-mysteries.json) |
@@ -6797,6 +6800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Franken | 48949 | [48949-dr-franken.json](./48949-dr-franken.json) |
 | Dr. Franken II | 48948 | [48948-dr-franken-ii.json](./48948-dr-franken-ii.json) |
 | Dr. Fruit | 133789 | [133789-dr-fruit.json](./133789-dr-fruit.json) |
+| Dr. Gloom’s Lab | 302082 | [302082-dr-gloom-s-lab.json](./302082-dr-gloom-s-lab.json) |
 | Dr. Jekyll and Mr. Hyde | 7961 | [7961-dr-jekyll-and-mr-hyde.json](./7961-dr-jekyll-and-mr-hyde.json) |
 | Dr. Kamasutra 2 | 336027 | [336027-dr-kamasutra-2.json](./336027-dr-kamasutra-2.json) |
 | Dr. Kobushi's Labyrinthine Laboratory | 190976 | [190976-dr-kobushis-labyrinthine-laboratory.json](./190976-dr-kobushis-labyrinthine-laboratory.json) |
@@ -9108,6 +9112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dust to Dust | 385854 | [385854-dust-to-dust.json](./385854-dust-to-dust.json) |
 | Dust Town | 386227 | [386227-dust-town.json](./386227-dust-town.json) |
 | Dust: An Elysian Tail | 2130 | [2130-dust-an-elysian-tail.json](./2130-dust-an-elysian-tail.json) |
+| Dust: Undefined | 302041 | [302041-dust-undefined.json](./302041-dust-undefined.json) |
 | Dustborn: Deluxe Edition | 284478 | [284478-dustborn-deluxe-edition.json](./284478-dustborn-deluxe-edition.json) |
 | Dustborn: The Vision Tour Bundle | 315518 | [315518-dustborn-the-vision-tour-bundle.json](./315518-dustborn-the-vision-tour-bundle.json) |
 | Dustbunny: Emotions to Plants | 322598 | [322598-dustbunny-emotions-to-plants.json](./322598-dustbunny-emotions-to-plants.json) |
