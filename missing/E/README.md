@@ -2632,6 +2632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Simulator 2 | 325646 | [325646-escape-simulator-2.json](./325646-escape-simulator-2.json) |
 | Escape Simulator 2: Apocalypse DLC | 407417 | [407417-escape-simulator-2-apocalypse-dlc.json](./407417-escape-simulator-2-apocalypse-dlc.json) |
 | Escape Simulator: Mayan DLC | 321345 | [321345-escape-simulator-mayan-dlc.json](./321345-escape-simulator-mayan-dlc.json) |
+| Escape Simulator: PowerWash DLC | 306583 | [306583-escape-simulator-powerwash-dlc.json](./306583-escape-simulator-powerwash-dlc.json) |
 | Escape Simulator: Spy | 365719 | [365719-escape-simulator-spy.json](./365719-escape-simulator-spy.json) |
 | Escape Simulator: The Talos Principle DLC | 321346 | [321346-escape-simulator-the-talos-principle-dlc.json](./321346-escape-simulator-the-talos-principle-dlc.json) |
 | Escape The Aquarium | 294132 | [294132-escape-the-aquarium.json](./294132-escape-the-aquarium.json) |
