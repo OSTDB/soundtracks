@@ -2908,6 +2908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kumamon Run | 283275 | [283275-kumamon-run.json](./283275-kumamon-run.json) |
 | Kumari Samsara: The Living Goddess | 402909 | [402909-kumari-samsara-the-living-goddess.json](./402909-kumari-samsara-the-living-goddess.json) |
 | Kumatanchi | 70683 | [70683-kumatanchi.json](./70683-kumatanchi.json) |
+| KumaWelt 1: Honey Frontier | 291183 | [291183-kumawelt-1-honey-frontier.json](./291183-kumawelt-1-honey-frontier.json) |
 | Kumi-Daiko Beatoff | 274546 | [274546-kumi-daiko-beatoff.json](./274546-kumi-daiko-beatoff.json) |
 | Kumi-Daiko Beatoff 64 | 145458 | [145458-kumi-daiko-beatoff-64.json](./145458-kumi-daiko-beatoff-64.json) |
 | Kumitate Battle: Kuttu Ketto | 70995 | [70995-kumitate-battle-kuttu-ketto.json](./70995-kumitate-battle-kuttu-ketto.json) |
