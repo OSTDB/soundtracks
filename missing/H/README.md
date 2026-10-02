@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hail to the Chimp | 7005 | [7005-hail-to-the-chimp.json](./7005-hail-to-the-chimp.json) |
 | Hailborn: UFO Stole My Egg! | 337292 | [337292-hailborn-ufo-stole-my-egg.json](./337292-hailborn-ufo-stole-my-egg.json) |
 | Hailey | 109738 | [109738-hailey.json](./109738-hailey.json) |
+| Hailey's Aesop | 303696 | [303696-haileys-aesop.json](./303696-haileys-aesop.json) |
 | Hailstorm | 363955 | [363955-hailstorm.json](./363955-hailstorm.json) |
 | Hailstorm | 68171 | [68171-hailstorm.json](./68171-hailstorm.json) |
 | Hain | 386980 | [386980-hain.json](./386980-hain.json) |
@@ -5222,6 +5223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HotDog TD | 264656 | [264656-hotdog-td.json](./264656-hotdog-td.json) |
 | Hotel 12th | 317970 | [317970-hotel-12th.json](./317970-hotel-12th.json) |
 | Hotel 626 | 62712 | [62712-hotel-626.json](./62712-hotel-626.json) |
+| Hotel 77 | 303683 | [303683-hotel-77.json](./303683-hotel-77.json) |
 | Hotel Alien | 229368 | [229368-hotel-alien.json](./229368-hotel-alien.json) |
 | Hotel Anatolia | 29328 | [29328-hotel-anatolia.json](./29328-hotel-anatolia.json) |
 | Hotel Blind | 33139 | [33139-hotel-blind.json](./33139-hotel-blind.json) |
