@@ -182,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Hear Them | 398454 | [398454-i-hear-them.json](./398454-i-hear-them.json) |
 | I heard a dog barking | 177522 | [177522-i-heard-a-dog-barking.json](./177522-i-heard-a-dog-barking.json) |
 | I Heart Shift | 67672 | [67672-i-heart-shift.json](./67672-i-heart-shift.json) |
+| I Hit You | 329059 | [329059-i-hit-you.json](./329059-i-hit-you.json) |
 | I hope she's ok | 142893 | [142893-i-hope-shes-ok.json](./142893-i-hope-shes-ok.json) |
 | I Hope To See You Again | 313815 | [313815-i-hope-to-see-you-again.json](./313815-i-hope-to-see-you-again.json) |
 | I Human Machine | 195222 | [195222-i-human-machine.json](./195222-i-human-machine.json) |
