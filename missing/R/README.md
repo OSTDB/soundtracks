@@ -4157,6 +4157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River Bones | 204342 | [204342-river-bones.json](./204342-river-bones.json) |
 | River City Girls | 117533 | [117533-river-city-girls.json](./117533-river-city-girls.json) |
 | River City Girls 2 | 152321 | [152321-river-city-girls-2.json](./152321-river-city-girls-2.json) |
+| River City Girls 2: Double Dragon DLC | 309037 | [309037-river-city-girls-2-double-dragon-dlc.json](./309037-river-city-girls-2-double-dragon-dlc.json) |
 | River City Girls Zero | 137195 | [137195-river-city-girls-zero.json](./137195-river-city-girls-zero.json) |
 | River City Melee Mach!! | 115481 | [115481-river-city-melee-mach.json](./115481-river-city-melee-mach.json) |
 | River City Melee: Battle Royal Special | 63712 | [63712-river-city-melee-battle-royal-special.json](./63712-river-city-melee-battle-royal-special.json) |
