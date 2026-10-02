@@ -1480,6 +1480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nev It Up | 240153 | [240153-nev-it-up.json](./240153-nev-it-up.json) |
 | Nev vs. Bouncer Boy | 240152 | [240152-nev-vs-bouncer-boy.json](./240152-nev-vs-bouncer-boy.json) |
 | Nev's Jam Buster | 235337 | [235337-nevs-jam-buster.json](./235337-nevs-jam-buster.json) |
+| Nev's Socks | 311678 | [311678-nevs-socks.json](./311678-nevs-socks.json) |
 | Neven | 75205 | [75205-neven.json](./75205-neven.json) |
 | Never | 262997 | [262997-never.json](./262997-never.json) |
 | Never / Together | 402908 | [402908-never-together.json](./402908-never-together.json) |
