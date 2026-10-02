@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacha Macha Pon! | 286585 | [286585-hacha-macha-pon.json](./286585-hacha-macha-pon.json) |
 | Hacha Mecha Fighter | 40182 | [40182-hacha-mecha-fighter.json](./40182-hacha-mecha-fighter.json) |
 | Hachiemon | 49595 | [49595-hachiemon.json](./49595-hachiemon.json) |
+| HachikanShogi Matta Ari | 329057 | [329057-hachikanshogi-matta-ari.json](./329057-hachikanshogi-matta-ari.json) |
 | Hachishakusama | 412501 | [412501-hachishakusama.json](./412501-hachishakusama.json) |
 | Hack | 2875 | [2875-hack.json](./2875-hack.json) |
 | Hack '95 | 405079 | [405079-hack-95.json](./405079-hack-95.json) |
@@ -58,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack 0 | 272813 | [272813-hack-0.json](./272813-hack-0.json) |
 | Hack 0 2 | 320292 | [320292-hack-0-2.json](./320292-hack-0-2.json) |
 | Hack 42: Typing Incremental | 407601 | [407601-hack-42-typing-incremental.json](./407601-hack-42-typing-incremental.json) |
+| Hack and Slash Fury | 329207 | [329207-hack-and-slash-fury.json](./329207-hack-and-slash-fury.json) |
 | Hack And Slash Fury: Battalion Armor | 334515 | [334515-hack-and-slash-fury-battalion-armor.json](./334515-hack-and-slash-fury-battalion-armor.json) |
 | Hack And Slash Fury: Car Armor | 334514 | [334514-hack-and-slash-fury-car-armor.json](./334514-hack-and-slash-fury-car-armor.json) |
 | Hack And Slash Fury: Cat Fire Armor | 334513 | [334513-hack-and-slash-fury-cat-fire-armor.json](./334513-hack-and-slash-fury-cat-fire-armor.json) |
@@ -5292,6 +5294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Dead Skin | 316078 | [316078-house-of-dead-skin.json](./316078-house-of-dead-skin.json) |
 | House of Everlast | 269004 | [269004-house-of-everlast.json](./269004-house-of-everlast.json) |
 | House of Fear: Cursed Souls | 228686 | [228686-house-of-fear-cursed-souls.json](./228686-house-of-fear-cursed-souls.json) |
+| House of Ghosts and Cats | 329232 | [329232-house-of-ghosts-and-cats.json](./329232-house-of-ghosts-and-cats.json) |
 | House of Golf | 125252 | [125252-house-of-golf.json](./125252-house-of-golf.json) |
 | House of Golf 2 | 303573 | [303573-house-of-golf-2.json](./303573-house-of-golf-2.json) |
 | House of Heists | 398406 | [398406-house-of-heists.json](./398406-house-of-heists.json) |
