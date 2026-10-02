@@ -2880,6 +2880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Love: 2009 | 399069 | [399069-no-love-2009.json](./399069-no-love-2009.json) |
 | No Luca No | 92496 | [92496-no-luca-no.json](./92496-no-luca-no.json) |
 | No Male Heroes | 74776 | [74776-no-male-heroes.json](./74776-no-male-heroes.json) |
+| No Man's Area | 302080 | [302080-no-mans-area.json](./302080-no-mans-area.json) |
 | No Man's Home | 346645 | [346645-no-mans-home.json](./346645-no-mans-home.json) |
 | No Man's Land | 377282 | [377282-no-mans-land.json](./377282-no-mans-land.json) |
 | No Man's Sky: Aquarius | 315656 | [315656-no-mans-sky-aquarius.json](./315656-no-mans-sky-aquarius.json) |
@@ -3509,6 +3510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noumisou Journey | 274557 | [274557-noumisou-journey.json](./274557-noumisou-journey.json) |
 | Noun Town: Learn & Chill | 408986 | [408986-noun-town-learn-and-chill.json](./408986-noun-town-learn-and-chill.json) |
 | Nounishpunk | 264649 | [264649-nounishpunk.json](./264649-nounishpunk.json) |
+| Nouns Crown | 302040 | [302040-nouns-crown.json](./302040-nouns-crown.json) |
 | Nour: Play with Your Food | 138619 | [138619-nour-play-with-your-food.json](./138619-nour-play-with-your-food.json) |
 | Nourish | 279709 | [279709-nourish.json](./279709-nourish.json) |
 | Nous | 142387 | [142387-nous.json](./142387-nous.json) |
