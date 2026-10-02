@@ -1609,6 +1609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empyrean Swarm | 273649 | [273649-empyrean-swarm.json](./273649-empyrean-swarm.json) |
 | Empyrion - Galactic Survival: Complete Edition | 371228 | [371228-empyrion-galactic-survival-complete-edition.json](./371228-empyrion-galactic-survival-complete-edition.json) |
 | Empyrion: Galactic Survival | 19249 | [19249-empyrion-galactic-survival.json](./19249-empyrion-galactic-survival.json) |
+| Empyrion: Galactic Survival - Dark Faction | 294938 | [294938-empyrion-galactic-survival-dark-faction.json](./294938-empyrion-galactic-survival-dark-faction.json) |
 | Emre and Jevon's Tale of Knowledge, Emulating a Dream Where You Gain Wisdom and Knowledge and Probably Meet Hermes | 323301 | [323301-emre-and-jevons-tale-of-knowledge-emulating-a-dream-where-you-gain-wisdom-and-knowledge-and-probably-meet-hermes.json](./323301-emre-and-jevons-tale-of-knowledge-emulating-a-dream-where-you-gain-wisdom-and-knowledge-and-probably-meet-hermes.json) |
 | Emross War | 343482 | [343482-emross-war.json](./343482-emross-war.json) |
 | EmuDevz | 386285 | [386285-emudevz.json](./386285-emudevz.json) |
@@ -1796,6 +1797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Memories | 126265 | [126265-endless-memories.json](./126265-endless-memories.json) |
 | Endless Monday: Dreams and Deadlines | 236360 | [236360-endless-monday-dreams-and-deadlines.json](./236360-endless-monday-dreams-and-deadlines.json) |
 | Endless Mountain | 234058 | [234058-endless-mountain.json](./234058-endless-mountain.json) |
+| Endless Mountain | 294957 | [294957-endless-mountain.json](./294957-endless-mountain.json) |
 | Endless National | 188376 | [188376-endless-national.json](./188376-endless-national.json) |
 | Endless Nightmare | 193996 | [193996-endless-nightmare.json](./193996-endless-nightmare.json) |
 | Endless Nightmare: Shrine | 200737 | [200737-endless-nightmare-shrine.json](./200737-endless-nightmare-shrine.json) |
