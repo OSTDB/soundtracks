@@ -509,6 +509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PalSync | 341599 | [341599-palsync.json](./341599-palsync.json) |
 | PalWar | 371275 | [371275-palwar.json](./371275-palwar.json) |
 | Palworld: Palfarm | 369677 | [369677-palworld-palfarm.json](./369677-palworld-palfarm.json) |
+| Palworld: Pokémon Mod | 296045 | [296045-palworld-pokemon-mod.json](./296045-palworld-pokemon-mod.json) |
 | Pam's HarvestCraft | 232682 | [232682-pams-harvestcraft.json](./232682-pams-harvestcraft.json) |
 | Pamali: Indonesian Folklore Horror - The Tied Corpse | 117737 | [117737-pamali-indonesian-folklore-horror-the-tied-corpse.json](./117737-pamali-indonesian-folklore-horror-the-tied-corpse.json) |
 | Pamali: The Vengeful Mother | 274761 | [274761-pamali-the-vengeful-mother.json](./274761-pamali-the-vengeful-mother.json) |
@@ -6639,6 +6640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Rangers: Battle For the Grid - Jen Scotts: Time Force Pink Ranger | 326726 | [326726-power-rangers-battle-for-the-grid-jen-scotts-time-force-pink-ranger.json](./326726-power-rangers-battle-for-the-grid-jen-scotts-time-force-pink-ranger.json) |
 | Power Rangers: Battle for the Grid - Lauren Shiba Super Samurai | 167787 | [167787-power-rangers-battle-for-the-grid-lauren-shiba-super-samurai.json](./167787-power-rangers-battle-for-the-grid-lauren-shiba-super-samurai.json) |
 | Power Rangers: Battle for the Grid - Lord Zedd | 167790 | [167790-power-rangers-battle-for-the-grid-lord-zedd.json](./167790-power-rangers-battle-for-the-grid-lord-zedd.json) |
+| Power Rangers: Battle for the Grid - Mega Edition | 296042 | [296042-power-rangers-battle-for-the-grid-mega-edition.json](./296042-power-rangers-battle-for-the-grid-mega-edition.json) |
 | Power Rangers: Battle for the Grid - Ranger Edition | 136360 | [136360-power-rangers-battle-for-the-grid-ranger-edition.json](./136360-power-rangers-battle-for-the-grid-ranger-edition.json) |
 | Power Rangers: Battle for the Grid - Robert James Jungle Fury | 167789 | [167789-power-rangers-battle-for-the-grid-robert-james-jungle-fury.json](./167789-power-rangers-battle-for-the-grid-robert-james-jungle-fury.json) |
 | Power Rangers: Battle for the Grid - Ryu Crimson Hawk Ranger | 167791 | [167791-power-rangers-battle-for-the-grid-ryu-crimson-hawk-ranger.json](./167791-power-rangers-battle-for-the-grid-ryu-crimson-hawk-ranger.json) |
@@ -8489,6 +8491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punchline!! | 130189 | [130189-punchline.json](./130189-punchline.json) |
 | PunchMan Online | 182234 | [182234-punchman-online.json](./182234-punchman-online.json) |
 | Punchmasters | 196341 | [196341-punchmasters.json](./196341-punchmasters.json) |
+| Pune | 295991 | [295991-pune.json](./295991-pune.json) |
 | Pungo | 355522 | [355522-pungo.json](./355522-pungo.json) |
 | Puni the Florist | 347831 | [347831-puni-the-florist.json](./347831-puni-the-florist.json) |
 | Puniru ha Kawaii Slime no Game wo "Ano Game" de Tsukuttemita Keredo, Hatashite Anata ha Clear Dekirunoka? | 326577 | [326577-puniru-ha-kawaii-slime-no-game-wo-ano-game-de-tsukuttemita-keredo-hatashite-anata-ha-clear-dekirunoka.json](./326577-puniru-ha-kawaii-slime-no-game-wo-ano-game-de-tsukuttemita-keredo-hatashite-anata-ha-clear-dekirunoka.json) |
@@ -8692,6 +8695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PushOver | 267436 | [267436-pushover.json](./267436-pushover.json) |
 | Pushpully | 261222 | [261222-pushpully.json](./261222-pushpully.json) |
 | Pushy | 354009 | [354009-pushy.json](./354009-pushy.json) |
+| Pushy II | 295992 | [295992-pushy-ii.json](./295992-pushy-ii.json) |
 | Pusoy Go | 386225 | [386225-pusoy-go.json](./386225-pusoy-go.json) |
 | Puss 'n Boots: Pero's Great Adventure | 48219 | [48219-puss-n-boots-peros-great-adventure.json](./48219-puss-n-boots-peros-great-adventure.json) |
 | Puss in Book: Trapped in an Epic Tale | 256844 | [256844-puss-in-book-trapped-in-an-epic-tale.json](./256844-puss-in-book-trapped-in-an-epic-tale.json) |
@@ -8909,6 +8913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Nebula | 32165 | [32165-puzzle-nebula.json](./32165-puzzle-nebula.json) |
 | Puzzle Nintama Rantarou | 37871 | [37871-puzzle-nintama-rantarou.json](./37871-puzzle-nintama-rantarou.json) |
 | Puzzle Nintama Rantarou GB | 97863 | [97863-puzzle-nintama-rantarou-gb.json](./97863-puzzle-nintama-rantarou-gb.json) |
+| Puzzle of Insects | 295993 | [295993-puzzle-of-insects.json](./295993-puzzle-of-insects.json) |
 | Puzzle of Words | 37301 | [37301-puzzle-of-words.json](./37301-puzzle-of-words.json) |
 | Puzzle Page | 91122 | [91122-puzzle-page.json](./91122-puzzle-page.json) |
 | Puzzle Parasite | 366826 | [366826-puzzle-parasite.json](./366826-puzzle-parasite.json) |
