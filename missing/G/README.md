@@ -1903,6 +1903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosthunter | 22279 | [22279-ghosthunter.json](./22279-ghosthunter.json) |
 | GhostHunter | 189052 | [189052-ghosthunter.json](./189052-ghosthunter.json) |
 | Ghostkeeper | 210859 | [210859-ghostkeeper.json](./210859-ghostkeeper.json) |
+| Ghostland | 322673 | [322673-ghostland.json](./322673-ghostland.json) |
 | Ghostless | 404399 | [404399-ghostless.json](./404399-ghostless.json) |
 | Ghostlop (Limited release) | 75470 | [75470-ghostlop-limited-release.json](./75470-ghostlop-limited-release.json) |
 | Ghostly Desires | 73856 | [73856-ghostly-desires.json](./73856-ghostly-desires.json) |
@@ -3381,6 +3382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gooncrusher | 302113 | [302113-gooncrusher.json](./302113-gooncrusher.json) |
 | Goonect 2 | 400382 | [400382-goonect-2.json](./400382-goonect-2.json) |
 | Goons: Legends & Mayhem | 138643 | [138643-goons-legends-and-mayhem.json](./138643-goons-legends-and-mayhem.json) |
+| Goontang Chackalaka | 322674 | [322674-goontang-chackalaka.json](./322674-goontang-chackalaka.json) |
 | Goony | 85632 | [85632-goony.json](./85632-goony.json) |
 | Goonya Fighter: Jiggly Haptic Edition | 146316 | [146316-goonya-fighter-jiggly-haptic-edition.json](./146316-goonya-fighter-jiggly-haptic-edition.json) |
 | Goonya Fighter: Puimo | 196140 | [196140-goonya-fighter-puimo.json](./196140-goonya-fighter-puimo.json) |
@@ -3420,7 +3422,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gord: Deluxe Edition | 259522 | [259522-gord-deluxe-edition.json](./259522-gord-deluxe-edition.json) |
 | Gordian Snake | 139319 | [139319-gordian-snake.json](./139319-gordian-snake.json) |
 | Gordian Tomb | 73850 | [73850-gordian-tomb.json](./73850-gordian-tomb.json) |
+| Gordinho Adventure | 322675 | [322675-gordinho-adventure.json](./322675-gordinho-adventure.json) |
 | Gordon and the Light Within | 334691 | [334691-gordon-and-the-light-within.json](./334691-gordon-and-the-light-within.json) |
+| Gordon Freakman | 322671 | [322671-gordon-freakman.json](./322671-gordon-freakman.json) |
+| Gordon Freakman 2: Kleiner-Life | 322672 | [322672-gordon-freakman-2-kleiner-life.json](./322672-gordon-freakman-2-kleiner-life.json) |
 | Gordon Ramsay Dash | 58306 | [58306-gordon-ramsay-dash.json](./58306-gordon-ramsay-dash.json) |
 | Gore | 371991 | [371991-gore.json](./371991-gore.json) |
 | Gore Crush | 323728 | [323728-gore-crush.json](./323728-gore-crush.json) |
@@ -3819,6 +3824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandpa: The Horror Game | 99307 | [99307-grandpa-the-horror-game.json](./99307-grandpa-the-horror-game.json) |
 | Grandpa's House | 257900 | [257900-grandpas-house.json](./257900-grandpas-house.json) |
 | Grandpa's Workshop | 68925 | [68925-grandpas-workshop.json](./68925-grandpas-workshop.json) |
+| GrandPaper | 322676 | [322676-grandpaper.json](./322676-grandpaper.json) |
 | Grandpurrents | 149469 | [149469-grandpurrents.json](./149469-grandpurrents.json) |
 | Grandslam Gamer Gold Collection | 379589 | [379589-grandslam-gamer-gold-collection.json](./379589-grandslam-gamer-gold-collection.json) |
 | Grandslam: The Tennis Tournament | 81410 | [81410-grandslam-the-tennis-tournament.json](./81410-grandslam-the-tennis-tournament.json) |
@@ -4284,6 +4290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grepolis | 62922 | [62922-grepolis.json](./62922-grepolis.json) |
 | Grepr | 185556 | [185556-grepr.json](./185556-grepr.json) |
 | Greta Sees Ghosts! | 348348 | [348348-greta-sees-ghosts.json](./348348-greta-sees-ghosts.json) |
+| Gretel & Hansel | 322677 | [322677-gretel-and-hansel.json](./322677-gretel-and-hansel.json) |
 | Gretel & Hansel | 383030 | [383030-gretel-and-hansel.json](./383030-gretel-and-hansel.json) |
 | Gretel & Hansel 2 | 98576 | [98576-gretel-and-hansel-2.json](./98576-gretel-and-hansel-2.json) |
 | Gretel: The Lost Tale | 323501 | [323501-gretel-the-lost-tale.json](./323501-gretel-the-lost-tale.json) |
