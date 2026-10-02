@@ -1204,6 +1204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One More Dig! | 405576 | [405576-one-more-dig.json](./405576-one-more-dig.json) |
 | One More Dream | 216981 | [216981-one-more-dream.json](./216981-one-more-dream.json) |
 | One More Dungeon 2 | 157115 | [157115-one-more-dungeon-2.json](./157115-one-more-dungeon-2.json) |
+| One More Encounter | 298817 | [298817-one-more-encounter.json](./298817-one-more-encounter.json) |
 | One More Experiment | 346576 | [346576-one-more-experiment.json](./346576-one-more-experiment.json) |
 | One more game | 152931 | [152931-one-more-game.json](./152931-one-more-game.json) |
 | One More Gate : A Wakfu Legend | 204689 | [204689-one-more-gate-a-wakfu-legend.json](./204689-one-more-gate-a-wakfu-legend.json) |
