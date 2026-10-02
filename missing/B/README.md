@@ -983,6 +983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bandocracy | 415143 | [415143-bandocracy.json](./415143-bandocracy.json) |
 | BandRoll | 236294 | [236294-bandroll.json](./236294-bandroll.json) |
 | Baneseed | 184658 | [184658-baneseed.json](./184658-baneseed.json) |
+| Bang | 285674 | [285674-bang.json](./285674-bang.json) |
 | Bang | 38547 | [38547-bang.json](./38547-bang.json) |
 | Bang 2 Busters | 40189 | [40189-bang-2-busters.json](./40189-bang-2-busters.json) |
 | Bang Bang Ball | 40268 | [40268-bang-bang-ball.json](./40268-bang-bang-ball.json) |
@@ -3342,6 +3343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Betsy's Hospital | 159067 | [159067-betsys-hospital.json](./159067-betsys-hospital.json) |
 | Better Call Saul | 221831 | [221831-better-call-saul.json](./221831-better-call-saul.json) |
 | Better Days | 341862 | [341862-better-days.json](./341862-better-days.json) |
+| Better End | 285678 | [285678-better-end.json](./285678-better-end.json) |
 | Better Half | 176801 | [176801-better-half.json](./176801-better-half.json) |
 | Better Late Than Dead | 16291 | [16291-better-late-than-dead.json](./16291-better-late-than-dead.json) |
 | Better Mart Simulator | 332148 | [332148-better-mart-simulator.json](./332148-better-mart-simulator.json) |
