@@ -7553,6 +7553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Forest | 383949 | [383949-monster-forest.json](./383949-monster-forest.json) |
 | Monster Fruit Academy | 187864 | [187864-monster-fruit-academy.json](./187864-monster-fruit-academy.json) |
 | Monster Galaxy | 197943 | [197943-monster-galaxy.json](./197943-monster-galaxy.json) |
+| Monster Galaxy: Exile | 324933 | [324933-monster-galaxy-exile.json](./324933-monster-galaxy-exile.json) |
 | Monster Galaxy: The Zodiac Islands | 98577 | [98577-monster-galaxy-the-zodiac-islands.json](./98577-monster-galaxy-the-zodiac-islands.json) |
 | Monster Gals: Voyage | 373100 | [373100-monster-gals-voyage.json](./373100-monster-gals-voyage.json) |
 | Monster Girl * Fusion | 82764 | [82764-monster-girl-fusion.json](./82764-monster-girl-fusion.json) |
@@ -9329,6 +9330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murderwave: Digital Slaughter | 121011 | [121011-murderwave-digital-slaughter.json](./121011-murderwave-digital-slaughter.json) |
 | Murdle | 194471 | [194471-murdle.json](./194471-murdle.json) |
 | Murdoku | 401511 | [401511-murdoku.json](./401511-murdoku.json) |
+| Muri: Wildwoods | 324950 | [324950-muri-wildwoods.json](./324950-muri-wildwoods.json) |
 | Murkon's Refuge | 65490 | [65490-murkons-refuge.json](./65490-murkons-refuge.json) |
 | Murkon's Vengeance | 65491 | [65491-murkons-vengeance.json](./65491-murkons-vengeance.json) |
 | Murky Horizon | 66622 | [66622-murky-horizon.json](./66622-murky-horizon.json) |
