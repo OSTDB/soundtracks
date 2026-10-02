@@ -308,6 +308,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Crystals | 64093 | [64093-vampire-crystals.json](./64093-vampire-crystals.json) |
 | Vampire Crystals: Rebirth | 85471 | [85471-vampire-crystals-rebirth.json](./85471-vampire-crystals-rebirth.json) |
 | Vampire Domain | 319020 | [319020-vampire-domain.json](./319020-vampire-domain.json) |
+| Vampire Escape | 315576 | [315576-vampire-escape.json](./315576-vampire-escape.json) |
+| Vampire Escape 2 | 315577 | [315577-vampire-escape-2.json](./315577-vampire-escape-2.json) |
+| Vampire Escape 3 | 315579 | [315579-vampire-escape-3.json](./315579-vampire-escape-3.json) |
 | Vampire Family | 236837 | [236837-vampire-family.json](./236837-vampire-family.json) |
 | Vampire Girls | 243152 | [243152-vampire-girls.json](./243152-vampire-girls.json) |
 | Vampire Hunter D | 126469 | [126469-vampire-hunter-d.json](./126469-vampire-hunter-d.json) |
