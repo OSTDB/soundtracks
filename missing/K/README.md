@@ -371,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kangoku Lock | 284448 | [284448-kangoku-lock.json](./284448-kangoku-lock.json) |
 | Kangoku Suieibu: Kyouei Mizugi ni Kuikomu Inbi na Shitai | 70652 | [70652-kangoku-suieibu-kyouei-mizugi-ni-kuikomu-inbi-na-shitai.json](./70652-kangoku-suieibu-kyouei-mizugi-ni-kuikomu-inbi-na-shitai.json) |
 | Kangoorun: Fly to the Moon | 37181 | [37181-kangoorun-fly-to-the-moon.json](./37181-kangoorun-fly-to-the-moon.json) |
+| Kanhoji's Island | 286227 | [286227-kanhojis-island.json](./286227-kanhojis-island.json) |
 | Kanji Boy | 228573 | [228573-kanji-boy.json](./228573-kanji-boy.json) |
 | Kanji Boy 2 | 228574 | [228574-kanji-boy-2.json](./228574-kanji-boy-2.json) |
 | Kanji de Go Go! | 408220 | [408220-kanji-de-go-go.json](./408220-kanji-de-go-go.json) |
@@ -874,6 +875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kena: Scars of Kosmora | 389419 | [389419-kena-scars-of-kosmora.json](./389419-kena-scars-of-kosmora.json) |
 | Kenas-unarpe | 299130 | [299130-kenas-unarpe.json](./299130-kenas-unarpe.json) |
 | Kenchana: Oath of a Magical Spear | 238756 | [238756-kenchana-oath-of-a-magical-spear.json](./238756-kenchana-oath-of-a-magical-spear.json) |
+| Kendo Warrior | 286224 | [286224-kendo-warrior.json](./286224-kendo-warrior.json) |
 | Kendrick Lamar Heardle | 369137 | [369137-kendrick-lamar-heardle.json](./369137-kendrick-lamar-heardle.json) |
 | Kengohazard 2 | 118418 | [118418-kengohazard-2.json](./118418-kengohazard-2.json) |
 | Kenja no Ishi | 373029 | [373029-kenja-no-ishi.json](./373029-kenja-no-ishi.json) |
@@ -2556,6 +2558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Komori Fruit Rush | 126633 | [126633-komori-fruit-rush.json](./126633-komori-fruit-rush.json) |
 | Kőműves Kelemen | 120803 | [120803-komuves-kelemen.json](./120803-komuves-kelemen.json) |
 | Kona | 14404 | [14404-kona.json](./14404-kona.json) |
+| Kona & Snowrabbit | 286230 | [286230-kona-and-snowrabbit.json](./286230-kona-and-snowrabbit.json) |
 | Kona II: Brume | 211242 | [211242-kona-ii-brume.json](./211242-kona-ii-brume.json) |
 | Kona Project | 299742 | [299742-kona-project.json](./299742-kona-project.json) |
 | Kona: Day One | 50159 | [50159-kona-day-one.json](./50159-kona-day-one.json) |
@@ -2614,6 +2617,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KonoSuba: Fantastic Days! | 138261 | [138261-konosuba-fantastic-days.json](./138261-konosuba-fantastic-days.json) |
 | KonoSuba: God's Blessing on this Wonderful World! Judgment on this Greedy Game! | 34218 | [34218-konosuba-gods-blessing-on-this-wonderful-world-judgment-on-this-greedy-game.json](./34218-konosuba-gods-blessing-on-this-wonderful-world-judgment-on-this-greedy-game.json) |
 | KonoSuba: God’s Blessing on this Wonderful World! Love for this Tempting Attire - Limited Edition | 167137 | [167137-konosuba-god-s-blessing-on-this-wonderful-world-love-for-this-tempting-attire-limited-edition.json](./167137-konosuba-god-s-blessing-on-this-wonderful-world-love-for-this-tempting-attire-limited-edition.json) |
+| KonoSuba: God's Blessing on this Wonderful World!: Aqua Special Swimsuit | 286193 | [286193-konosuba-gods-blessing-on-this-wonderful-world-aqua-special-swimsuit.json](./286193-konosuba-gods-blessing-on-this-wonderful-world-aqua-special-swimsuit.json) |
+| KonoSuba: God's Blessing on this Wonderful World!: Darkness Special Swimsuit | 286194 | [286194-konosuba-gods-blessing-on-this-wonderful-world-darkness-special-swimsuit.json](./286194-konosuba-gods-blessing-on-this-wonderful-world-darkness-special-swimsuit.json) |
+| KonoSuba: God's Blessing on this Wonderful World!: Megumin Special Swimsuit | 286195 | [286195-konosuba-gods-blessing-on-this-wonderful-world-megumin-special-swimsuit.json](./286195-konosuba-gods-blessing-on-this-wonderful-world-megumin-special-swimsuit.json) |
+| KonoSuba: God's Blessing on this Wonderful World!: The Bikini Bundle | 286196 | [286196-konosuba-gods-blessing-on-this-wonderful-world-the-bikini-bundle.json](./286196-konosuba-gods-blessing-on-this-wonderful-world-the-bikini-bundle.json) |
 | Konpeki no Kantai | 37955 | [37955-konpeki-no-kantai.json](./37955-konpeki-no-kantai.json) |
 | Konpeki no Kantai 2 Advance | 91759 | [91759-konpeki-no-kantai-2-advance.json](./91759-konpeki-no-kantai-2-advance.json) |
 | Konpeki no Kantai 2 Perfect | 91761 | [91761-konpeki-no-kantai-2-perfect.json](./91761-konpeki-no-kantai-2-perfect.json) |
