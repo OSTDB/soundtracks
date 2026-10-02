@@ -509,6 +509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OffRoad Drive Desert | 90087 | [90087-offroad-drive-desert.json](./90087-offroad-drive-desert.json) |
 | Offroad Driving Simulator 4x4: Trucks & SUV Trophy | 147933 | [147933-offroad-driving-simulator-4x4-trucks-and-suv-trophy.json](./147933-offroad-driving-simulator-4x4-trucks-and-suv-trophy.json) |
 | Offroad Extreme! | 66935 | [66935-offroad-extreme.json](./66935-offroad-extreme.json) |
+| Offroad Jeep Quest: Mountain Trails | 293363 | [293363-offroad-jeep-quest-mountain-trails.json](./293363-offroad-jeep-quest-mountain-trails.json) |
 | Offroad Mania | 128460 | [128460-offroad-mania.json](./128460-offroad-mania.json) |
 | Offroad Moto Bike | 232464 | [232464-offroad-moto-bike.json](./232464-offroad-moto-bike.json) |
 | Offroad Oil Tanker Hill Drivin | 108488 | [108488-offroad-oil-tanker-hill-drivin.json](./108488-offroad-oil-tanker-hill-drivin.json) |
@@ -1768,6 +1769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Steel | 151732 | [151732-operation-steel.json](./151732-operation-steel.json) |
 | Operation Stutter | 406888 | [406888-operation-stutter.json](./406888-operation-stutter.json) |
 | Operation Swat | 29656 | [29656-operation-swat.json](./29656-operation-swat.json) |
+| Operation Temple | 293874 | [293874-operation-temple.json](./293874-operation-temple.json) |
 | Operation Thunderbolt | 12191 | [12191-operation-thunderbolt.json](./12191-operation-thunderbolt.json) |
 | Operation Trick-Or-Treat | 333657 | [333657-operation-trick-or-treat.json](./333657-operation-trick-or-treat.json) |
 | Operation Trust | 257402 | [257402-operation-trust.json](./257402-operation-trust.json) |
