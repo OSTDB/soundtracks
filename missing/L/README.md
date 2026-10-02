@@ -1066,6 +1066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leap in Bootstrap | 254530 | [254530-leap-in-bootstrap.json](./254530-leap-in-bootstrap.json) |
 | Leap In The Right Direction | 296487 | [296487-leap-in-the-right-direction.json](./296487-leap-in-the-right-direction.json) |
 | Leap of Champions | 129650 | [129650-leap-of-champions.json](./129650-leap-of-champions.json) |
+| Leap Of Faith | 333127 | [333127-leap-of-faith.json](./333127-leap-of-faith.json) |
 | Leap of Fate | 50227 | [50227-leap-of-fate.json](./50227-leap-of-fate.json) |
 | Leap of Love | 149436 | [149436-leap-of-love.json](./149436-leap-of-love.json) |
 | Leap of Sins | 319763 | [319763-leap-of-sins.json](./319763-leap-of-sins.json) |
@@ -2492,6 +2493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lillysia | 235695 | [235695-lillysia.json](./235695-lillysia.json) |
 | Lilulu | 149412 | [149412-lilulu.json](./149412-lilulu.json) |
 | Lily | 112746 | [112746-lily.json](./112746-lily.json) |
+| Lily & Sury: Adventures On Cristya | 333230 | [333230-lily-and-sury-adventures-on-cristya.json](./333230-lily-and-sury-adventures-on-cristya.json) |
 | Lily Adventuresses! Episode 4: The Ancienaut beneath the Mask | 419954 | [419954-lily-adventuresses-episode-4-the-ancienaut-beneath-the-mask.json](./419954-lily-adventuresses-episode-4-the-ancienaut-beneath-the-mask.json) |
 | Lily Bergamo | 52542 | [52542-lily-bergamo.json](./52542-lily-bergamo.json) |
 | Lily Fantasia | 278975 | [278975-lily-fantasia.json](./278975-lily-fantasia.json) |
@@ -3620,6 +3622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loop Room | 168151 | [168151-loop-room.json](./168151-loop-room.json) |
 | Loop Theory | 288817 | [288817-loop-theory.json](./288817-loop-theory.json) |
 | Loop Yourself | 359021 | [359021-loop-yourself.json](./359021-loop-yourself.json) |
+| Loop: New Reality | 333219 | [333219-loop-new-reality.json](./333219-loop-new-reality.json) |
 | Loopbreaker | 395586 | [395586-loopbreaker.json](./395586-loopbreaker.json) |
 | LoopBreaker | 335241 | [335241-loopbreaker.json](./335241-loopbreaker.json) |
 | Loopdrop | 364696 | [364696-loopdrop.json](./364696-loopdrop.json) |
