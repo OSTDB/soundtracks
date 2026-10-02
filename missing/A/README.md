@@ -892,6 +892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss Vaulter | 341612 | [341612-abyss-vaulter.json](./341612-abyss-vaulter.json) |
 | Abyss World | 235746 | [235746-abyss-world.json](./235746-abyss-world.json) |
 | Abyss: House | 356070 | [356070-abyss-house.json](./356070-abyss-house.json) |
+| Abyss: Konmei no Toki | 319645 | [319645-abyss-konmei-no-toki.json](./319645-abyss-konmei-no-toki.json) |
 | Abyss: New Dawn | 283878 | [283878-abyss-new-dawn.json](./283878-abyss-new-dawn.json) |
 | Abyss: The Wraiths of Eden | 17136 | [17136-abyss-the-wraiths-of-eden.json](./17136-abyss-the-wraiths-of-eden.json) |
 | Abyssal | 249850 | [249850-abyssal.json](./249850-abyssal.json) |
@@ -7634,6 +7635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier: The Alchemist of Arland 1-2-3 DX - Premium Box | 167138 | [167138-atelier-the-alchemist-of-arland-1-2-3-dx-premium-box.json](./167138-atelier-the-alchemist-of-arland-1-2-3-dx-premium-box.json) |
 | Aternia: Deep | 157001 | [157001-aternia-deep.json](./157001-aternia-deep.json) |
 | Atgtha in Absurdia | 133913 | [133913-atgtha-in-absurdia.json](./133913-atgtha-in-absurdia.json) |
+| Atha: In Search of the Well | 319677 | [319677-atha-in-search-of-the-well.json](./319677-atha-in-search-of-the-well.json) |
 | Athamuff | 370303 | [370303-athamuff.json](./370303-athamuff.json) |
 | Athanasia | 202129 | [202129-athanasia.json](./202129-athanasia.json) |
 | Athar: Echoes of Time | 387657 | [387657-athar-echoes-of-time.json](./387657-athar-echoes-of-time.json) |
@@ -8410,6 +8412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ayakashi: Romance Reborn Dawn Chapter & Twilight Chapter | 147817 | [147817-ayakashi-romance-reborn-dawn-chapter-and-twilight-chapter.json](./147817-ayakashi-romance-reborn-dawn-chapter-and-twilight-chapter.json) |
 | Ayakashibito: Genyou Ibunroku | 56521 | [56521-ayakashibito-genyou-ibunroku.json](./56521-ayakashibito-genyou-ibunroku.json) |
 | Ayame no Machi to Ohime-sama | 194546 | [194546-ayame-no-machi-to-ohime-sama.json](./194546-ayame-no-machi-to-ohime-sama.json) |
+| Ayasa: Shadows of Silence | 319650 | [319650-ayasa-shadows-of-silence.json](./319650-ayasa-shadows-of-silence.json) |
 | Ayatana | 211291 | [211291-ayatana.json](./211291-ayatana.json) |
 | Ayda | 317604 | [317604-ayda.json](./317604-ayda.json) |
 | Aydox | 90819 | [90819-aydox.json](./90819-aydox.json) |
