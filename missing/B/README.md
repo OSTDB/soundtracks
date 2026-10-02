@@ -3705,6 +3705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Striker | 39817 | [39817-big-striker.json](./39817-big-striker.json) |
 | Big Survivor | 235875 | [235875-big-survivor.json](./235875-big-survivor.json) |
 | Big Sword Hero | 249820 | [249820-big-sword-hero.json](./249820-big-sword-hero.json) |
+| Big Tall Small | 298793 | [298793-big-tall-small.json](./298793-big-tall-small.json) |
 | Big Thanks Super Keirin | 55898 | [55898-big-thanks-super-keirin.json](./55898-big-thanks-super-keirin.json) |
 | Big the Cat in Sonic the Hedgehog | 201296 | [201296-big-the-cat-in-sonic-the-hedgehog.json](./201296-big-the-cat-in-sonic-the-hedgehog.json) |
 | Big Theft Valkeala | 351638 | [351638-big-theft-valkeala.json](./351638-big-theft-valkeala.json) |
@@ -4723,6 +4724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blank Frame | 181888 | [181888-blank-frame.json](./181888-blank-frame.json) |
 | Blank Page | 303266 | [303266-blank-page.json](./303266-blank-page.json) |
 | Blank Relish | 292016 | [292016-blank-relish.json](./292016-blank-relish.json) |
+| Blank Relish: Remastered | 298828 | [298828-blank-relish-remastered.json](./298828-blank-relish-remastered.json) |
 | Blanket Cat | 395179 | [395179-blanket-cat.json](./395179-blanket-cat.json) |
 | Blanket Fort | 355539 | [355539-blanket-fort.json](./355539-blanket-fort.json) |
 | Blanket of Snow | 394362 | [394362-blanket-of-snow.json](./394362-blanket-of-snow.json) |
@@ -8406,6 +8408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet'nTunes | 175342 | [175342-bulletntunes.json](./175342-bulletntunes.json) |
 | BulletAsylum | 93506 | [93506-bulletasylum.json](./93506-bulletasylum.json) |
 | Bulletfest | 327372 | [327372-bulletfest.json](./327372-bulletfest.json) |
+| BulletGBA | 298810 | [298810-bulletgba.json](./298810-bulletgba.json) |
 | Bulletgrounds | 110126 | [110126-bulletgrounds.json](./110126-bulletgrounds.json) |
 | Bullethead | 326734 | [326734-bullethead.json](./326734-bullethead.json) |
 | Bulletheart | 380043 | [380043-bulletheart.json](./380043-bulletheart.json) |
@@ -8485,6 +8488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bumpy's Arcade Fantasy | 11724 | [11724-bumpys-arcade-fantasy.json](./11724-bumpys-arcade-fantasy.json) |
 | Bun | 172123 | [172123-bun.json](./172123-bun.json) |
 | Bun 'N' Gun | 265671 | [265671-bun-n-gun.json](./265671-bun-n-gun.json) |
+| Bun Bun Samurai | 298783 | [298783-bun-bun-samurai.json](./298783-bun-bun-samurai.json) |
 | Bun Buns | 395220 | [395220-bun-buns.json](./395220-bun-buns.json) |
 | Bun Buns: Complete Edition | 399813 | [399813-bun-buns-complete-edition.json](./399813-bun-buns-complete-edition.json) |
 | Bun Buns: Cozy DLC | 395688 | [395688-bun-buns-cozy-dlc.json](./395688-bun-buns-cozy-dlc.json) |
@@ -8553,6 +8557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Maid's Estrus Diary | 82777 | [82777-bunny-maids-estrus-diary.json](./82777-bunny-maids-estrus-diary.json) |
 | Bunny Mazes | 324986 | [324986-bunny-mazes.json](./324986-bunny-mazes.json) |
 | Bunny Minesweeper | 106579 | [106579-bunny-minesweeper.json](./106579-bunny-minesweeper.json) |
+| Bunny on Rails | 298831 | [298831-bunny-on-rails.json](./298831-bunny-on-rails.json) |
 | Bunny Pop 2: Beat the Wolf | 103890 | [103890-bunny-pop-2-beat-the-wolf.json](./103890-bunny-pop-2-beat-the-wolf.json) |
 | Bunny Prison Break | 250010 | [250010-bunny-prison-break.json](./250010-bunny-prison-break.json) |
 | Bunny Reversi | 119535 | [119535-bunny-reversi.json](./119535-bunny-reversi.json) |
