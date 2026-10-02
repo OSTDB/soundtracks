@@ -4702,6 +4702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrek: Ogres and Dronkeys | 47860 | [47860-shrek-ogres-and-dronkeys.json](./47860-shrek-ogres-and-dronkeys.json) |
 | Shrek: The Forbidden Onion | 359043 | [359043-shrek-the-forbidden-onion.json](./359043-shrek-the-forbidden-onion.json) |
 | Shrek's Vacation | 230274 | [230274-shreks-vacation.json](./230274-shreks-vacation.json) |
+| Shrew | 320265 | [320265-shrew.json](./320265-shrew.json) |
 | Shriddle | 143006 | [143006-shriddle.json](./143006-shriddle.json) |
 | Shrike | 371394 | [371394-shrike.json](./371394-shrike.json) |
 | Shrike Avenger | 25883 | [25883-shrike-avenger.json](./25883-shrike-avenger.json) |
@@ -4724,6 +4725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrommzzz | 247752 | [247752-shrommzzz.json](./247752-shrommzzz.json) |
 | Shroom & Doom | 256911 | [256911-shroom-and-doom.json](./256911-shroom-and-doom.json) |
 | Shroom and Gloom: Jam Version | 191809 | [191809-shroom-and-gloom-jam-version.json](./191809-shroom-and-gloom-jam-version.json) |
+| Shroom Editor | 320235 | [320235-shroom-editor.json](./320235-shroom-editor.json) |
 | Shroomageddon | 388305 | [388305-shroomageddon.json](./388305-shroomageddon.json) |
 | Shroomer | 346178 | [346178-shroomer.json](./346178-shroomer.json) |
 | Shroomio's Adventure | 185455 | [185455-shroomios-adventure.json](./185455-shroomios-adventure.json) |
@@ -6244,6 +6246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skywire | 116128 | [116128-skywire.json](./116128-skywire.json) |
 | Skywire 2 | 280333 | [280333-skywire-2.json](./280333-skywire-2.json) |
 | Skywriter | 108073 | [108073-skywriter.json](./108073-skywriter.json) |
+| SL The Game | 320274 | [320274-sl-the-game.json](./320274-sl-the-game.json) |
 | Slab | 98708 | [98708-slab.json](./98708-slab.json) |
 | Slackers: Carts of Glory | 293685 | [293685-slackers-carts-of-glory.json](./293685-slackers-carts-of-glory.json) |
 | Slag | 253336 | [253336-slag.json](./253336-slag.json) |
@@ -12392,6 +12395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stars Blast | 243088 | [243088-stars-blast.json](./243088-stars-blast.json) |
 | Stars Collapse | 302672 | [302672-stars-collapse.json](./302672-stars-collapse.json) |
 | Stars Era: Abyss Frontier | 289303 | [289303-stars-era-abyss-frontier.json](./289303-stars-era-abyss-frontier.json) |
+| Stars Era: The Final Defence | 320241 | [320241-stars-era-the-final-defence.json](./320241-stars-era-the-final-defence.json) |
 | Stars Force | 148491 | [148491-stars-force.json](./148491-stars-force.json) |
 | Stars in Shadow | 27089 | [27089-stars-in-shadow.json](./27089-stars-in-shadow.json) |
 | Stars in Shadow: Legacies | 124781 | [124781-stars-in-shadow-legacies.json](./124781-stars-in-shadow-legacies.json) |
@@ -14190,6 +14194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Successfully Learning German: Year 3 | 85407 | [85407-successfully-learning-german-year-3.json](./85407-successfully-learning-german-year-3.json) |
 | Successfully Learning German: Year 4 | 85406 | [85406-successfully-learning-german-year-4.json](./85406-successfully-learning-german-year-4.json) |
 | Successor of the Moon | 115578 | [115578-successor-of-the-moon.json](./115578-successor-of-the-moon.json) |
+| Succubers! Dark Covenant | 320229 | [320229-succubers-dark-covenant.json](./320229-succubers-dark-covenant.json) |
 | Succubi Domini | 401043 | [401043-succubi-domini.json](./401043-succubi-domini.json) |
 | SuccuBoss | 367057 | [367057-succuboss.json](./367057-succuboss.json) |
 | Succubus | 114156 | [114156-succubus.json](./114156-succubus.json) |
@@ -15497,7 +15502,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros: Dual Dash | 320158 | [320158-super-mario-bros-dual-dash.json](./320158-super-mario-bros-dual-dash.json) |
 | Super Mario Bros: Impending Doom | 336103 | [336103-super-mario-bros-impending-doom.json](./336103-super-mario-bros-impending-doom.json) |
 | Super Mario Bros: Merry Mountain Christmas Adventure - SMW Christmas Edition V3.0 | 229679 | [229679-super-mario-bros-merry-mountain-christmas-adventure-smw-christmas-edition-v3-0.json](./229679-super-mario-bros-merry-mountain-christmas-adventure-smw-christmas-edition-v3-0.json) |
+| Super Mario Bros: Mythical Mushrooms | 320224 | [320224-super-mario-bros-mythical-mushrooms.json](./320224-super-mario-bros-mythical-mushrooms.json) |
+| Super Mario Bros: Restless Reality | 320223 | [320223-super-mario-bros-restless-reality.json](./320223-super-mario-bros-restless-reality.json) |
 | Super Mario Bros: Revenge of Bowser | 250056 | [250056-super-mario-bros-revenge-of-bowser.json](./250056-super-mario-bros-revenge-of-bowser.json) |
+| Super Mario Bros: Ztar Turmoil | 320226 | [320226-super-mario-bros-ztar-turmoil.json](./320226-super-mario-bros-ztar-turmoil.json) |
 | Super Mario Bros. | 206934 | [206934-super-mario-bros.json](./206934-super-mario-bros.json) |
 | Super Mario Bros. | 222095 | [222095-super-mario-bros.json](./222095-super-mario-bros.json) |
 | Super Mario Bros. & The Midas Machine | 135098 | [135098-super-mario-bros-and-the-midas-machine.json](./135098-super-mario-bros-and-the-midas-machine.json) |
@@ -15545,6 +15553,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Craft | 313112 | [313112-super-mario-craft.json](./313112-super-mario-craft.json) |
 | Super Mario Death Row 2: Shroomshank Redemption | 220042 | [220042-super-mario-death-row-2-shroomshank-redemption.json](./220042-super-mario-death-row-2-shroomshank-redemption.json) |
 | Super Mario DX | 210709 | [210709-super-mario-dx.json](./210709-super-mario-dx.json) |
+| Super Mario Dynamo | 320230 | [320230-super-mario-dynamo.json](./320230-super-mario-dynamo.json) |
+| Super Mario Eclipse | 320228 | [320228-super-mario-eclipse.json](./320228-super-mario-eclipse.json) |
 | Super Mario Epic | 323814 | [323814-super-mario-epic.json](./323814-super-mario-epic.json) |
 | Super Mario Epic 3 | 323815 | [323815-super-mario-epic-3.json](./323815-super-mario-epic-3.json) |
 | Super Mario Flash 2 | 183605 | [183605-super-mario-flash-2.json](./183605-super-mario-flash-2.json) |
@@ -15615,6 +15625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Party Jamboree: Nintendo Switch 2 Edition + Jamboree TV | 338071 | [338071-super-mario-party-jamboree-nintendo-switch-2-edition-jamboree-tv.json](./338071-super-mario-party-jamboree-nintendo-switch-2-edition-jamboree-tv.json) |
 | Super Mario Pearls of Wisdom | 135095 | [135095-super-mario-pearls-of-wisdom.json](./135095-super-mario-pearls-of-wisdom.json) |
 | Super Mario Place | 273893 | [273893-super-mario-place.json](./273893-super-mario-place.json) |
+| Super Mario Prism | 320232 | [320232-super-mario-prism.json](./320232-super-mario-prism.json) |
 | Super Mario Prostate Exam | 323900 | [323900-super-mario-prostate-exam.json](./323900-super-mario-prostate-exam.json) |
 | Super Mario Rampage! | 334881 | [334881-super-mario-rampage.json](./334881-super-mario-rampage.json) |
 | Super Mario RPG 2 | 231474 | [231474-super-mario-rpg-2.json](./231474-super-mario-rpg-2.json) |
