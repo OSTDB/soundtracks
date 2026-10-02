@@ -90,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Became a Dog 3 | 319086 | [319086-i-became-a-dog-3.json](./319086-i-became-a-dog-3.json) |
 | I Believe in Capybara Supremacy! | 250992 | [250992-i-believe-in-capybara-supremacy.json](./250992-i-believe-in-capybara-supremacy.json) |
 | I Bring The Chaos | 277934 | [277934-i-bring-the-chaos.json](./277934-i-bring-the-chaos.json) |
+| I Brought the Noble Girl Home | 293850 | [293850-i-brought-the-noble-girl-home.json](./293850-i-brought-the-noble-girl-home.json) |
 | I Bug | 340501 | [340501-i-bug.json](./340501-i-bug.json) |
 | I C Redd | 84543 | [84543-i-c-redd.json](./84543-i-c-redd.json) |
 | I Can Destroy Everything!!! | 274739 | [274739-i-can-destroy-everything.json](./274739-i-can-destroy-everything.json) |
@@ -742,6 +743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Death Knight | 208031 | [208031-idle-death-knight.json](./208031-idle-death-knight.json) |
 | Idle Dessert Tycoon | 299452 | [299452-idle-dessert-tycoon.json](./299452-idle-dessert-tycoon.json) |
 | Idle Devils | 235851 | [235851-idle-devils.json](./235851-idle-devils.json) |
+| Idle Devils: New Character - Belial | 293848 | [293848-idle-devils-new-character-belial.json](./293848-idle-devils-new-character-belial.json) |
 | Idle Devils: New Character - Lucifer | 399806 | [399806-idle-devils-new-character-lucifer.json](./399806-idle-devils-new-character-lucifer.json) |
 | Idle Devils: New Character - Samael | 399807 | [399807-idle-devils-new-character-samael.json](./399807-idle-devils-new-character-samael.json) |
 | Idle Devils: Ultimate Edition | 399809 | [399809-idle-devils-ultimate-edition.json](./399809-idle-devils-ultimate-edition.json) |
@@ -1511,6 +1513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Rim | 103398 | [103398-in-the-rim.json](./103398-in-the-rim.json) |
 | In The Ruined Courtyard | 260420 | [260420-in-the-ruined-courtyard.json](./260420-in-the-ruined-courtyard.json) |
 | In the Shadows | 18932 | [18932-in-the-shadows.json](./18932-in-the-shadows.json) |
+| In The Shadows | 292777 | [292777-in-the-shadows.json](./292777-in-the-shadows.json) |
 | In the Space: Escape Room | 195800 | [195800-in-the-space-escape-room.json](./195800-in-the-space-escape-room.json) |
 | In the Thrall of Darkness: The Gift of Dreams | 76685 | [76685-in-the-thrall-of-darkness-the-gift-of-dreams.json](./76685-in-the-thrall-of-darkness-the-gift-of-dreams.json) |
 | In the Valley of Death | 172673 | [172673-in-the-valley-of-death.json](./172673-in-the-valley-of-death.json) |
