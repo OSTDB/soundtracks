@@ -1019,6 +1019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Khaos Wind | 111894 | [111894-khaos-wind.json](./111894-khaos-wind.json) |
 | Khara the Game | 108830 | [108830-khara-the-game.json](./108830-khara-the-game.json) |
 | Kharkov: Disaster on the Donets | 59493 | [59493-kharkov-disaster-on-the-donets.json](./59493-kharkov-disaster-on-the-donets.json) |
+| Kharkov: Disaster on the Donets - Across the Dnepr: Second Edition | 281007 | [281007-kharkov-disaster-on-the-donets-across-the-dnepr-second-edition.json](./281007-kharkov-disaster-on-the-donets-across-the-dnepr-second-edition.json) |
 | Khatyrka: Prelude | 229967 | [229967-khatyrka-prelude.json](./229967-khatyrka-prelude.json) |
 | Khemia | 136460 | [136460-khemia.json](./136460-khemia.json) |
 | Khimera: Puzzle Island | 146205 | [146205-khimera-puzzle-island.json](./146205-khimera-puzzle-island.json) |
