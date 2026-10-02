@@ -1102,6 +1102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illegal Dealership Simulator | 326410 | [326410-illegal-dealership-simulator.json](./326410-illegal-dealership-simulator.json) |
 | Illegal Excavation | 249880 | [249880-illegal-excavation.json](./249880-illegal-excavation.json) |
 | Illegal Mahjong | 272563 | [272563-illegal-mahjong.json](./272563-illegal-mahjong.json) |
+| Illegal Simulator | 302058 | [302058-illegal-simulator.json](./302058-illegal-simulator.json) |
 | Illo: birth of the cool | 85626 | [85626-illo-birth-of-the-cool.json](./85626-illo-birth-of-the-cool.json) |
 | Illove dream | 243650 | [243650-illove-dream.json](./243650-illove-dream.json) |
 | Illu-Logi VOW | 269635 | [269635-illu-logi-vow.json](./269635-illu-logi-vow.json) |
@@ -1259,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal: And the Death that Follows | 217325 | [217325-immortal-and-the-death-that-follows.json](./217325-immortal-and-the-death-that-follows.json) |
 | Immortal: Unchained | 55038 | [55038-immortal-unchained.json](./55038-immortal-unchained.json) |
 | Immortal: Unchained - Storm Breaker | 118202 | [118202-immortal-unchained-storm-breaker.json](./118202-immortal-unchained-storm-breaker.json) |
+| Immortal's Way | 302068 | [302068-immortals-way.json](./302068-immortals-way.json) |
 | Immortality | 152288 | [152288-immortality.json](./152288-immortality.json) |
 | Immortality | 355212 | [355212-immortality.json](./355212-immortality.json) |
 | Immortality Paradox | 267999 | [267999-immortality-paradox.json](./267999-immortality-paradox.json) |
@@ -1891,6 +1893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Golf 2 | 153825 | [153825-infinite-golf-2.json](./153825-infinite-golf-2.json) |
 | Infinite Guitars | 133239 | [133239-infinite-guitars.json](./133239-infinite-guitars.json) |
 | Infinite Incantation | 236854 | [236854-infinite-incantation.json](./236854-infinite-incantation.json) |
+| Infinite Innocence | 302047 | [302047-infinite-innocence.json](./302047-infinite-innocence.json) |
 | Infinite Inside | 306748 | [306748-infinite-inside.json](./306748-infinite-inside.json) |
 | Infinite Jigsaw Puzzle | 94222 | [94222-infinite-jigsaw-puzzle.json](./94222-infinite-jigsaw-puzzle.json) |
 | Infinite Jigsaw Puzzle Pack | 78010 | [78010-infinite-jigsaw-puzzle-pack.json](./78010-infinite-jigsaw-puzzle-pack.json) |
