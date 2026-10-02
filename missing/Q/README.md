@@ -196,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qualia's Sweets Craft | 165658 | [165658-qualias-sweets-craft.json](./165658-qualias-sweets-craft.json) |
 | Qualia/Delta | 242066 | [242066-qualia-delta.json](./242066-qualia-delta.json) |
 | Qualial Nature | 392940 | [392940-qualial-nature.json](./392940-qualial-nature.json) |
+| Quality Dreams, Reasonably Priced | 318478 | [318478-quality-dreams-reasonably-priced.json](./318478-quality-dreams-reasonably-priced.json) |
 | Quality Television | 180697 | [180697-quality-television.json](./180697-quality-television.json) |
 | Qualle Party | 292640 | [292640-qualle-party.json](./292640-qualle-party.json) |
 | Quallet | 287725 | [287725-quallet.json](./287725-quallet.json) |
