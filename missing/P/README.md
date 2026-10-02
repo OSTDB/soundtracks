@@ -5012,6 +5012,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Monsters: Suuji wo Tsukamaeyou! | 63849 | [63849-pocket-monsters-suuji-wo-tsukamaeyou.json](./63849-pocket-monsters-suuji-wo-tsukamaeyou.json) |
 | Pocket Music | 98797 | [98797-pocket-music.json](./98797-pocket-music.json) |
 | Pocket MuuMuu | 72991 | [72991-pocket-muumuu.json](./72991-pocket-muumuu.json) |
+| Pocket Mystery EP | 322056 | [322056-pocket-mystery-ep.json](./322056-pocket-mystery-ep.json) |
+| Pocket Mystery EP DX | 322042 | [322042-pocket-mystery-ep-dx.json](./322042-pocket-mystery-ep-dx.json) |
 | Pocket Necromancer | 319383 | [319383-pocket-necromancer.json](./319383-pocket-necromancer.json) |
 | Pocket no Naka no Doraemon | 37357 | [37357-pocket-no-naka-no-doraemon.json](./37357-pocket-no-naka-no-doraemon.json) |
 | Pocket of Horror | 344566 | [344566-pocket-of-horror.json](./344566-pocket-of-horror.json) |
