@@ -2592,6 +2592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into The Wild | 377583 | [377583-into-the-wild.json](./377583-into-the-wild.json) |
 | Into the Woods | 230293 | [230293-into-the-woods.json](./230293-into-the-woods.json) |
 | Intoxicated Driver | 286136 | [286136-intoxicated-driver.json](./286136-intoxicated-driver.json) |
+| Intra | 332673 | [332673-intra.json](./332673-intra.json) |
 | Intra-System: Trust Issues | 194282 | [194282-intra-system-trust-issues.json](./194282-intra-system-trust-issues.json) |
 | Intrana | 310207 | [310207-intrana.json](./310207-intrana.json) |
 | Intransigent | 326275 | [326275-intransigent.json](./326275-intransigent.json) |
