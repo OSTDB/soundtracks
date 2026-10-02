@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | D Life | 253973 | [253973-d-life.json](./253973-d-life.json) |
+| D Missile | 304278 | [304278-d-missile.json](./304278-d-missile.json) |
 | D or D | 250004 | [250004-d-or-d.json](./250004-d-or-d.json) |
 | D-100 | 250968 | [250968-d-100.json](./250968-d-100.json) |
 | D-Day | 14768 | [14768-d-day.json](./14768-d-day.json) |
@@ -3945,6 +3946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diabolik Lovers Chaos Lineage | 113463 | [113463-diabolik-lovers-chaos-lineage.json](./113463-diabolik-lovers-chaos-lineage.json) |
 | Diabolik Lovers: Haunted Dark Bridal - Limited Edition | 44509 | [44509-diabolik-lovers-haunted-dark-bridal-limited-edition.json](./44509-diabolik-lovers-haunted-dark-bridal-limited-edition.json) |
 | Diabolika | 93159 | [93159-diabolika.json](./93159-diabolika.json) |
+| Diabotical Rogue | 304285 | [304285-diabotical-rogue.json](./304285-diabotical-rogue.json) |
 | Diadem of Manstraut | 407349 | [407349-diadem-of-manstraut.json](./407349-diadem-of-manstraut.json) |
 | Diadra Empty | 17133 | [17133-diadra-empty.json](./17133-diadra-empty.json) |
 | Diagnosis -Inma no Note- | 97381 | [97381-diagnosis-inma-no-note.json](./97381-diagnosis-inma-no-note.json) |
@@ -4212,6 +4214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Difficult times | 327826 | [327826-difficult-times.json](./327826-difficult-times.json) |
 | Diffraction | 207247 | [207247-diffraction.json](./207247-diffraction.json) |
 | Diffusion | 316771 | [316771-diffusion.json](./316771-diffusion.json) |
+| Dig | 304283 | [304283-dig.json](./304283-dig.json) |
 | Dig | 333199 | [333199-dig.json](./333199-dig.json) |
 | Dig & Spike Volleyball | 94194 | [94194-dig-and-spike-volleyball.json](./94194-dig-and-spike-volleyball.json) |
 | Dig 4 Destruction | 31981 | [31981-dig-4-destruction.json](./31981-dig-4-destruction.json) |
@@ -5737,6 +5740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doku to Kuzu | 285989 | [285989-doku-to-kuzu.json](./285989-doku-to-kuzu.json) |
 | Dokutsu Randamu | 384656 | [384656-dokutsu-randamu.json](./384656-dokutsu-randamu.json) |
 | Dokutsujima | 222396 | [222396-dokutsujima.json](./222396-dokutsujima.json) |
+| Dokyusei: Bangin' Summer - Home Edition | 304282 | [304282-dokyusei-bangin-summer-home-edition.json](./304282-dokyusei-bangin-summer-home-edition.json) |
 | Dolan Kart | 96914 | [96914-dolan-kart.json](./96914-dolan-kart.json) |
 | Dolan Reborn | 265685 | [265685-dolan-reborn.json](./265685-dolan-reborn.json) |
 | Dolce | 229972 | [229972-dolce.json](./229972-dolce.json) |
