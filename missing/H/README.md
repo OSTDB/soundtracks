@@ -2037,6 +2037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HellCrunch | 89400 | [89400-hellcrunch.json](./89400-hellcrunch.json) |
 | Helldivers | 14523 | [14523-helldivers.json](./14523-helldivers.json) |
 | Helldivers 2: Devoid of Liberty | 412429 | [412429-helldivers-2-devoid-of-liberty.json](./412429-helldivers-2-devoid-of-liberty.json) |
+| Helldivers 2: Escalation of Freedom | 309615 | [309615-helldivers-2-escalation-of-freedom.json](./309615-helldivers-2-escalation-of-freedom.json) |
 | Helldivers 2: Omens of Tyranny | 325601 | [325601-helldivers-2-omens-of-tyranny.json](./325601-helldivers-2-omens-of-tyranny.json) |
 | Helldivers 2: TR-117 Alpha Commander Armor Set | 325558 | [325558-helldivers-2-tr-117-alpha-commander-armor-set.json](./325558-helldivers-2-tr-117-alpha-commander-armor-set.json) |
 | Helldivers II: Super Citizen Edition | 267925 | [267925-helldivers-ii-super-citizen-edition.json](./267925-helldivers-ii-super-citizen-edition.json) |
@@ -3237,6 +3238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hi Hi Puffy AmiYumi: The Genie and the Amp | 2818 | [2818-hi-hi-puffy-amiyumi-the-genie-and-the-amp.json](./2818-hi-hi-puffy-amiyumi-the-genie-and-the-amp.json) |
 | Hi no Homo | 133312 | [133312-hi-no-homo.json](./133312-hi-no-homo.json) |
 | Hi On Rhythm | 267459 | [267459-hi-on-rhythm.json](./267459-hi-on-rhythm.json) |
+| Hi Pai Paradise | 309599 | [309599-hi-pai-paradise.json](./309599-hi-pai-paradise.json) |
 | Hi Rise | 39153 | [39153-hi-rise.json](./39153-hi-rise.json) |
 | Hi-5 DVD Game | 274991 | [274991-hi-5-dvd-game.json](./274991-hi-5-dvd-game.json) |
 | Hi-5: Fun & Games | 274993 | [274993-hi-5-fun-and-games.json](./274993-hi-5-fun-and-games.json) |
