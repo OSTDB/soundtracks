@@ -1216,6 +1216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Park Story | 148947 | [148947-park-story.json](./148947-park-story.json) |
 | Park the Car | 166711 | [166711-park-the-car.json](./166711-park-the-car.json) |
 | Park the Retro Car | 309498 | [309498-park-the-retro-car.json](./309498-park-the-retro-car.json) |
+| Park Them All! | 297728 | [297728-park-them-all.json](./297728-park-them-all.json) |
 | Park Up Car | 268972 | [268972-park-up-car.json](./268972-park-up-car.json) |
 | Parkan: Iron Strategy | 7701 | [7701-parkan-iron-strategy.json](./7701-parkan-iron-strategy.json) |
 | Parkan: The Imperial Chronicles | 7700 | [7700-parkan-the-imperial-chronicles.json](./7700-parkan-the-imperial-chronicles.json) |
@@ -4415,6 +4416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pj Masks: Heroes of the Night | 148527 | [148527-pj-masks-heroes-of-the-night.json](./148527-pj-masks-heroes-of-the-night.json) |
 | PJ Masks: Heroes of the Night - Complete Edition | 214727 | [214727-pj-masks-heroes-of-the-night-complete-edition.json](./214727-pj-masks-heroes-of-the-night-complete-edition.json) |
 | PJ Masks: Heroes of the Night - Mischief on Mystery Mountain | 195772 | [195772-pj-masks-heroes-of-the-night-mischief-on-mystery-mountain.json](./195772-pj-masks-heroes-of-the-night-mischief-on-mystery-mountain.json) |
+| PJ Masks: Laptop Infantil | 297764 | [297764-pj-masks-laptop-infantil.json](./297764-pj-masks-laptop-infantil.json) |
 | PJ Masks: Moonlight Heroes | 237649 | [237649-pj-masks-moonlight-heroes.json](./237649-pj-masks-moonlight-heroes.json) |
 | PJ Masks: Time to be a Hero | 137539 | [137539-pj-masks-time-to-be-a-hero.json](./137539-pj-masks-time-to-be-a-hero.json) |
 | PK Scramble | 93521 | [93521-pk-scramble.json](./93521-pk-scramble.json) |
@@ -5806,6 +5808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Simulator: Patrol Officers - Extended Edition | 292618 | [292618-police-simulator-patrol-officers-extended-edition.json](./292618-police-simulator-patrol-officers-extended-edition.json) |
 | Police Simulator: Patrol Officers - Gold Edition | 293933 | [293933-police-simulator-patrol-officers-gold-edition.json](./293933-police-simulator-patrol-officers-gold-edition.json) |
 | Police Simulator: Patrol Officers - Guardian Police Vehicle | 278390 | [278390-police-simulator-patrol-officers-guardian-police-vehicle.json](./278390-police-simulator-patrol-officers-guardian-police-vehicle.json) |
+| Police Simulator: Patrol Officers - Highway Patrol Expansion | 297735 | [297735-police-simulator-patrol-officers-highway-patrol-expansion.json](./297735-police-simulator-patrol-officers-highway-patrol-expansion.json) |
 | Police Simulator: Patrol Officers - Nintendo Switch Edition | 308630 | [308630-police-simulator-patrol-officers-nintendo-switch-edition.json](./308630-police-simulator-patrol-officers-nintendo-switch-edition.json) |
 | Police Simulator: Patrol Officers - Surveillance Police Vehicle | 278391 | [278391-police-simulator-patrol-officers-surveillance-police-vehicle.json](./278391-police-simulator-patrol-officers-surveillance-police-vehicle.json) |
 | Police Station Cop Inc: Tycoon | 174884 | [174884-police-station-cop-inc-tycoon.json](./174884-police-station-cop-inc-tycoon.json) |
