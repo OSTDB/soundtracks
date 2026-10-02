@@ -1377,6 +1377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daybreak Legends: Origin | 101069 | [101069-daybreak-legends-origin.json](./101069-daybreak-legends-origin.json) |
 | Daybreakers | 259062 | [259062-daybreakers.json](./259062-daybreakers.json) |
 | Daycare Descent | 256909 | [256909-daycare-descent.json](./256909-daycare-descent.json) |
+| Daycare Dungeon | 324947 | [324947-daycare-dungeon.json](./324947-daycare-dungeon.json) |
 | DayD: Through Time | 105300 | [105300-dayd-through-time.json](./105300-dayd-through-time.json) |
 | Daydam Knight | 295794 | [295794-daydam-knight.json](./295794-daydam-knight.json) |
 | Daydream | 192955 | [192955-daydream.json](./192955-daydream.json) |
