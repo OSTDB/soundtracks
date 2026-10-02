@@ -2470,6 +2470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glow Puzzle by Glosculptor | 94787 | [94787-glow-puzzle-by-glosculptor.json](./94787-glow-puzzle-by-glosculptor.json) |
 | Glow Rings Puzzle | 106975 | [106975-glow-rings-puzzle.json](./106975-glow-rings-puzzle.json) |
 | Glow Stairs | 174358 | [174358-glow-stairs.json](./174358-glow-stairs.json) |
+| Glow Storm | 322085 | [322085-glow-storm.json](./322085-glow-storm.json) |
 | Glowfall Vale | 389057 | [389057-glowfall-vale.json](./389057-glowfall-vale.json) |
 | Glowfish | 10366 | [10366-glowfish.json](./10366-glowfish.json) |
 | Glowfish HD | 86697 | [86697-glowfish-hd.json](./86697-glowfish-hd.json) |
@@ -4204,6 +4205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Field Silver Tree | 117689 | [117689-green-field-silver-tree.json](./117689-green-field-silver-tree.json) |
 | Green Game: TimeSwapper | 33753 | [33753-green-game-timeswapper.json](./33753-green-game-timeswapper.json) |
 | Green Guy Goes Grappling 2 | 255065 | [255065-green-guy-goes-grappling-2.json](./255065-green-guy-goes-grappling-2.json) |
+| Green Heights | 322094 | [322094-green-heights.json](./322094-green-heights.json) |
 | Green Hell | 101461 | [101461-green-hell.json](./101461-green-hell.json) |
 | Green Hell VR | 152223 | [152223-green-hell-vr.json](./152223-green-hell-vr.json) |
 | Green Hill Zone 2.5D | 332550 | [332550-green-hill-zone-2-5d.json](./332550-green-hill-zone-2-5d.json) |
