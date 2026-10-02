@@ -1040,6 +1040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekogumi | 352309 | [352309-nekogumi.json](./352309-nekogumi.json) |
 | Nekokami: The Human Restoration Project | 289424 | [289424-nekokami-the-human-restoration-project.json](./289424-nekokami-the-human-restoration-project.json) |
 | Nekoman | 97829 | [97829-nekoman.json](./97829-nekoman.json) |
+| Nekomancer of Nowhere | 325512 | [325512-nekomancer-of-nowhere.json](./325512-nekomancer-of-nowhere.json) |
 | Nekomancy | 213440 | [213440-nekomancy.json](./213440-nekomancy.json) |
 | Nekome: Nazi Hunter | 388249 | [388249-nekome-nazi-hunter.json](./388249-nekome-nazi-hunter.json) |
 | Nekomew's Potty Trouble | 81921 | [81921-nekomews-potty-trouble.json](./81921-nekomews-potty-trouble.json) |
