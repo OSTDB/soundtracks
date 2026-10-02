@@ -1639,6 +1639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enceladus | 261819 | [261819-enceladus.json](./261819-enceladus.json) |
 | Enceladus | 75049 | [75049-enceladus.json](./75049-enceladus.json) |
 | Enchancement | 337225 | [337225-enchancement.json](./337225-enchancement.json) |
+| Enchant Farm | 287329 | [287329-enchant-farm.json](./287329-enchant-farm.json) |
 | Enchantasy: The Quest for the Eternal Grimoire | 356657 | [356657-enchantasy-the-quest-for-the-eternal-grimoire.json](./356657-enchantasy-the-quest-for-the-eternal-grimoire.json) |
 | Enchanted | 13641 | [13641-enchanted.json](./13641-enchanted.json) |
 | Enchanted Broom | 384071 | [384071-enchanted-broom.json](./384071-enchanted-broom.json) |
