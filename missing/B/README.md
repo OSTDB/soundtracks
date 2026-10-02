@@ -1107,6 +1107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BarBarQ | 82149 | [82149-barbarq.json](./82149-barbarq.json) |
 | Barbearian | 90157 | [90157-barbearian.json](./90157-barbearian.json) |
 | Barbecue | 408222 | [408222-barbecue.json](./408222-barbecue.json) |
+| Barbecue With Friends | 319670 | [319670-barbecue-with-friends.json](./319670-barbecue-with-friends.json) |
 | Barbershop Simulator | 220351 | [220351-barbershop-simulator.json](./220351-barbershop-simulator.json) |
 | Barbican Of Hell | 271796 | [271796-barbican-of-hell.json](./271796-barbican-of-hell.json) |
 | Barbie | 245570 | [245570-barbie.json](./245570-barbie.json) |
@@ -4226,6 +4227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitten | 319756 | [319756-bitten.json](./319756-bitten.json) |
 | Bitten! | 146235 | [146235-bitten.json](./146235-bitten.json) |
 | Bitter | 217336 | [217336-bitter.json](./217336-bitter.json) |
+| Bitter Dream | 319660 | [319660-bitter-dream.json](./319660-bitter-dream.json) |
 | Bitter Tides | 106404 | [106404-bitter-tides.json](./106404-bitter-tides.json) |
 | Bitter-Sweet Cohabitation | 241372 | [241372-bitter-sweet-cohabitation.json](./241372-bitter-sweet-cohabitation.json) |
 | Bitterroot | 181857 | [181857-bitterroot.json](./181857-bitterroot.json) |
@@ -5413,6 +5415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodkill: Goreblast Overkill | 332642 | [332642-bloodkill-goreblast-overkill.json](./332642-bloodkill-goreblast-overkill.json) |
 | Bloodless Heart | 366879 | [366879-bloodless-heart.json](./366879-bloodless-heart.json) |
 | Bloodletter | 337717 | [337717-bloodletter.json](./337717-bloodletter.json) |
+| BloodLight | 319696 | [319696-bloodlight.json](./319696-bloodlight.json) |
 | Bloodline | 338252 | [338252-bloodline.json](./338252-bloodline.json) |
 | Bloodline Champions: Huntress Pack | 27657 | [27657-bloodline-champions-huntress-pack.json](./27657-bloodline-champions-huntress-pack.json) |
 | Bloodline Champions: Warchief Pack | 27655 | [27655-bloodline-champions-warchief-pack.json](./27655-bloodline-champions-warchief-pack.json) |
@@ -6158,6 +6161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bondage Black Jack | 151621 | [151621-bondage-black-jack.json](./151621-bondage-black-jack.json) |
 | Bonded in Darkness | 320893 | [320893-bonded-in-darkness.json](./320893-bonded-in-darkness.json) |
 | Bonded Realities | 66109 | [66109-bonded-realities.json](./66109-bonded-realities.json) |
+| Bonding, Now | 319676 | [319676-bonding-now.json](./319676-bonding-now.json) |
 | Bonds | 111096 | [111096-bonds.json](./111096-bonds.json) |
 | Bonds | 380036 | [380036-bonds.json](./380036-bonds.json) |
 | Bonds of the Skies | 210264 | [210264-bonds-of-the-skies.json](./210264-bonds-of-the-skies.json) |
