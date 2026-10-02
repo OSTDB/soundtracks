@@ -1030,6 +1030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SAT Prep Math 2008 | 76976 | [76976-sat-prep-math-2008.json](./76976-sat-prep-math-2008.json) |
 | SatAM Online | 331950 | [331950-satam-online.json](./331950-satam-online.json) |
 | Satama Puzzle | 190461 | [190461-satama-puzzle.json](./190461-satama-puzzle.json) |
+| Satan | 311182 | [311182-satan.json](./311182-satan.json) |
 | Satan II | 380552 | [380552-satan-ii.json](./380552-satan-ii.json) |
 | Satan Santa | 369743 | [369743-satan-santa.json](./369743-satan-santa.json) |
 | Satan's Dungeon | 329593 | [329593-satans-dungeon.json](./329593-satans-dungeon.json) |
@@ -2654,6 +2655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Turb: Fanfan I Heart Me Dunce-Doublentendre | 142401 | [142401-sengoku-turb-fanfan-i-heart-me-dunce-doublentendre.json](./142401-sengoku-turb-fanfan-i-heart-me-dunce-doublentendre.json) |
 | Sengoku Warriors 4 DX: 15th Anniversary Box | 136948 | [136948-sengoku-warriors-4-dx-15th-anniversary-box.json](./136948-sengoku-warriors-4-dx-15th-anniversary-box.json) |
 | Senile Wizards | 259815 | [259815-senile-wizards.json](./259815-senile-wizards.json) |
+| Senile Zombies | 311180 | [311180-senile-zombies.json](./311180-senile-zombies.json) |
 | Senior Sunset | 384060 | [384060-senior-sunset.json](./384060-senior-sunset.json) |
 | Senity: The Game | 116329 | [116329-senity-the-game.json](./116329-senity-the-game.json) |
 | Senjin Aleste | 165428 | [165428-senjin-aleste.json](./165428-senjin-aleste.json) |
@@ -3060,6 +3062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Hotel Simulator | 253312 | [253312-sex-hotel-simulator.json](./253312-sex-hotel-simulator.json) |
 | Sex House: Orgy Party | 273658 | [273658-sex-house-orgy-party.json](./273658-sex-house-orgy-party.json) |
 | Sex in Space | 275709 | [275709-sex-in-space.json](./275709-sex-in-space.json) |
+| Sex Industry XXX | 311175 | [311175-sex-industry-xxx.json](./311175-sex-industry-xxx.json) |
 | Sex Inspector | 311144 | [311144-sex-inspector.json](./311144-sex-inspector.json) |
 | Sex Instructor Yoga | 173830 | [173830-sex-instructor-yoga.json](./173830-sex-instructor-yoga.json) |
 | Sex Latex | 272933 | [272933-sex-latex.json](./272933-sex-latex.json) |
@@ -5939,6 +5942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skiing Yeti Mountain | 59463 | [59463-skiing-yeti-mountain.json](./59463-skiing-yeti-mountain.json) |
 | Skill Gap | 393662 | [393662-skill-gap.json](./393662-skill-gap.json) |
 | Skill Legends Royale | 316603 | [316603-skill-legends-royale.json](./316603-skill-legends-royale.json) |
+| Skill Random Defense | 311196 | [311196-skill-random-defense.json](./311196-skill-random-defense.json) |
 | Skill Up! | 289445 | [289445-skill-up.json](./289445-skill-up.json) |
 | SkillGrid | 392785 | [392785-skillgrid.json](./392785-skillgrid.json) |
 | Skills and Slimes | 340367 | [340367-skills-and-slimes.json](./340367-skills-and-slimes.json) |
@@ -8160,6 +8164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Somari the Adventurer | 198522 | [198522-somari-the-adventurer.json](./198522-somari-the-adventurer.json) |
 | Somber | 216892 | [216892-somber.json](./216892-somber.json) |
 | Somber: Card Game | 185431 | [185431-somber-card-game.json](./185431-somber-card-game.json) |
+| Sombra | 311212 | [311212-sombra.json](./311212-sombra.json) |
 | Sombras | 261304 | [261304-sombras.json](./261304-sombras.json) |
 | Sombras: Negative Frames | 406115 | [406115-sombras-negative-frames.json](./406115-sombras-negative-frames.json) |
 | Sombrero: Spaghetti Western Mayhem | 20758 | [20758-sombrero-spaghetti-western-mayhem.json](./20758-sombrero-spaghetti-western-mayhem.json) |
@@ -16454,6 +16459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superhot Prototype | 18119 | [18119-superhot-prototype.json](./18119-superhot-prototype.json) |
 | Superhuman | 330798 | [330798-superhuman.json](./330798-superhuman.json) |
 | SuperHyperCube | 20332 | [20332-superhypercube.json](./20332-superhypercube.json) |
+| SuperHyperHappyGame | 311186 | [311186-superhyperhappygame.json](./311186-superhyperhappygame.json) |
 | Superior IQ | 369637 | [369637-superior-iq.json](./369637-superior-iq.json) |
 | Superior Wizards | 110134 | [110134-superior-wizards.json](./110134-superior-wizards.json) |
 | SuperJumpWorld Rage | 391299 | [391299-superjumpworld-rage.json](./391299-superjumpworld-rage.json) |
