@@ -1829,6 +1829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voyager | 131492 | [131492-voyager.json](./131492-voyager.json) |
 | Voyager | 346075 | [346075-voyager.json](./346075-voyager.json) |
 | Voyager I: Sabotage of the Robot Ship | 24848 | [24848-voyager-i-sabotage-of-the-robot-ship.json](./24848-voyager-i-sabotage-of-the-robot-ship.json) |
+| Voyager-19 | 301505 | [301505-voyager-19.json](./301505-voyager-19.json) |
 | VoYD | 89211 | [89211-voyd.json](./89211-voyd.json) |
 | Voyeur Hotel | 272001 | [272001-voyeur-hotel.json](./272001-voyeur-hotel.json) |
 | Voyeur Villa: Harem Manager | 296654 | [296654-voyeur-villa-harem-manager.json](./296654-voyeur-villa-harem-manager.json) |
