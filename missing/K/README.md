@@ -378,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanji Wars | 346014 | [346014-kanji-wars.json](./346014-kanji-wars.json) |
 | KanjiFlash | 367056 | [367056-kanjiflash.json](./367056-kanjiflash.json) |
 | Kanjozoku Game: Car Racing & Highway Driving Simulator Remaster | 399798 | [399798-kanjozoku-game-car-racing-and-highway-driving-simulator-remaster.json](./399798-kanjozoku-game-car-racing-and-highway-driving-simulator-remaster.json) |
+| Kanna Maze | 300967 | [300967-kanna-maze.json](./300967-kanna-maze.json) |
 | Kanna School | 336662 | [336662-kanna-school.json](./336662-kanna-school.json) |
 | Kannagi no Mori Samidare Tsuzuri | 136476 | [136476-kannagi-no-mori-samidare-tsuzuri.json](./136476-kannagi-no-mori-samidare-tsuzuri.json) |
 | Kannou Mukashi Banashi Portable | 56766 | [56766-kannou-mukashi-banashi-portable.json](./56766-kannou-mukashi-banashi-portable.json) |
@@ -1428,6 +1429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kindred Fates: Combat Arena | 393012 | [393012-kindred-fates-combat-arena.json](./393012-kindred-fates-combat-arena.json) |
 | Kindred Spirits Complete Collection | 53240 | [53240-kindred-spirits-complete-collection.json](./53240-kindred-spirits-complete-collection.json) |
 | Kindred Spirits on the Roof: Full Chorus | 124804 | [124804-kindred-spirits-on-the-roof-full-chorus.json](./124804-kindred-spirits-on-the-roof-full-chorus.json) |
+| Kindred Vale | 300965 | [300965-kindred-vale.json](./300965-kindred-vale.json) |
 | Kindred: High Tide | 373210 | [373210-kindred-high-tide.json](./373210-kindred-high-tide.json) |
 | Kinduo 2: Frostbite | 263043 | [263043-kinduo-2-frostbite.json](./263043-kinduo-2-frostbite.json) |
 | Kine | 95225 | [95225-kine.json](./95225-kine.json) |
