@@ -678,6 +678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark City: Munich - Collector's Edition | 376578 | [376578-dark-city-munich-collectors-edition.json](./376578-dark-city-munich-collectors-edition.json) |
 | Dark City: Paris | 397179 | [397179-dark-city-paris.json](./397179-dark-city-paris.json) |
 | Dark City: Paris Collector's Edition | 190743 | [190743-dark-city-paris-collectors-edition.json](./190743-dark-city-paris-collectors-edition.json) |
+| Dark Color | 289543 | [289543-dark-color.json](./289543-dark-color.json) |
 | Dark Colors | 190235 | [190235-dark-colors.json](./190235-dark-colors.json) |
 | Dark Communion | 314283 | [314283-dark-communion.json](./314283-dark-communion.json) |
 | Dark Confrontation Chapter 1 | 337679 | [337679-dark-confrontation-chapter-1.json](./337679-dark-confrontation-chapter-1.json) |
@@ -2509,11 +2510,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Realms | 92442 | [92442-deep-realms.json](./92442-deep-realms.json) |
 | Deep Research | 271493 | [271493-deep-research.json](./271493-deep-research.json) |
 | Deep Rest | 106395 | [106395-deep-rest.json](./106395-deep-rest.json) |
+| Deep Rock Galactic: Decontaminator Pack | 289559 | [289559-deep-rock-galactic-decontaminator-pack.json](./289559-deep-rock-galactic-decontaminator-pack.json) |
 | Deep Rock Galactic: Deluxe Edition | 188021 | [188021-deep-rock-galactic-deluxe-edition.json](./188021-deep-rock-galactic-deluxe-edition.json) |
 | Deep Rock Galactic: Order of the Deep Pack | 302936 | [302936-deep-rock-galactic-order-of-the-deep-pack.json](./302936-deep-rock-galactic-order-of-the-deep-pack.json) |
 | Deep Rock Galactic: Rogue Core | 270354 | [270354-deep-rock-galactic-rogue-core.json](./270354-deep-rock-galactic-rogue-core.json) |
 | Deep Rock Galactic: Season 2 - Rival Escalation | 209974 | [209974-deep-rock-galactic-season-2-rival-escalation.json](./209974-deep-rock-galactic-season-2-rival-escalation.json) |
 | Deep Rock Galactic: Season 4 - Critical Corruption | 251542 | [251542-deep-rock-galactic-season-4-critical-corruption.json](./251542-deep-rock-galactic-season-4-critical-corruption.json) |
+| Deep Rock Galactic: Supporter II Upgrade | 289558 | [289558-deep-rock-galactic-supporter-ii-upgrade.json](./289558-deep-rock-galactic-supporter-ii-upgrade.json) |
 | Deep Rock Galactic: Survivor | 240556 | [240556-deep-rock-galactic-survivor.json](./240556-deep-rock-galactic-survivor.json) |
 | Deep Rock Galactic: Ultimate Edition | 188047 | [188047-deep-rock-galactic-ultimate-edition.json](./188047-deep-rock-galactic-ultimate-edition.json) |
 | Deep Rune | 153962 | [153962-deep-rune.json](./153962-deep-rune.json) |
@@ -8332,6 +8335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunken Fist 2: Zombie Hangover | 203560 | [203560-drunken-fist-2-zombie-hangover.json](./203560-drunken-fist-2-zombie-hangover.json) |
 | Drunken Fist Totally Accurate Beat 'em up | 124272 | [124272-drunken-fist-totally-accurate-beat-em-up.json](./124272-drunken-fist-totally-accurate-beat-em-up.json) |
 | Drunken Samurai | 157042 | [157042-drunken-samurai.json](./157042-drunken-samurai.json) |
+| Drunken Superhero | 289561 | [289561-drunken-superhero.json](./289561-drunken-superhero.json) |
 | Drunken Way to Home | 266795 | [266795-drunken-way-to-home.json](./266795-drunken-way-to-home.json) |
 | Drunken Wolf | 358880 | [358880-drunken-wolf.json](./358880-drunken-wolf.json) |
 | Drunkenpants | 80934 | [80934-drunkenpants.json](./80934-drunkenpants.json) |
