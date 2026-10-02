@@ -1705,6 +1705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Industrial Accident | 183993 | [183993-industrial-accident.json](./183993-industrial-accident.json) |
 | Industrial Annihilation | 324902 | [324902-industrial-annihilation.json](./324902-industrial-annihilation.json) |
 | Industrial Combat | 271750 | [271750-industrial-combat.json](./271750-industrial-combat.json) |
+| Industrial Fear | 310648 | [310648-industrial-fear.json](./310648-industrial-fear.json) |
 | Industrial Infection! | 107810 | [107810-industrial-infection.json](./107810-industrial-infection.json) |
 | Industrial Legion | 398570 | [398570-industrial-legion.json](./398570-industrial-legion.json) |
 | Industrial War | 241515 | [241515-industrial-war.json](./241515-industrial-war.json) |
