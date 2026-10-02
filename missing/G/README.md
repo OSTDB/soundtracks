@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | G Press | 394476 | [394476-g-press.json](./394476-g-press.json) |
 | G Prime into the Rain | 32201 | [32201-g-prime-into-the-rain.json](./32201-g-prime-into-the-rain.json) |
+| G Sides | 324399 | [324399-g-sides.json](./324399-g-sides.json) |
 | G Warrior | 278666 | [278666-g-warrior.json](./278666-g-warrior.json) |
 | G-Darius | 39691 | [39691-g-darius.json](./39691-g-darius.json) |
 | G-Diffuser | 413108 | [413108-g-diffuser.json](./413108-g-diffuser.json) |
@@ -4574,6 +4575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groove Coaster EX | 126463 | [126463-groove-coaster-ex.json](./126463-groove-coaster-ex.json) |
 | Groove Coaster for Steam | 104523 | [104523-groove-coaster-for-steam.json](./104523-groove-coaster-for-steam.json) |
 | Groove Coaster Wai Wai Party!!!!: Chunithm Pack | 316220 | [316220-groove-coaster-wai-wai-party-chunithm-pack.json](./316220-groove-coaster-wai-wai-party-chunithm-pack.json) |
+| Groove Coaster Wai Wai Party!!!!: Touhou Project Arrangements Pack 9 | 324384 | [324384-groove-coaster-wai-wai-party-touhou-project-arrangements-pack-9.json](./324384-groove-coaster-wai-wai-party-touhou-project-arrangements-pack-9.json) |
 | Groove Coaster: Arcaea Pack | 361671 | [361671-groove-coaster-arcaea-pack.json](./361671-groove-coaster-arcaea-pack.json) |
 | Groove Coaster: Bad Apple!! feat. nomico | 358959 | [358959-groove-coaster-bad-apple-feat-nomico.json](./358959-groove-coaster-bad-apple-feat-nomico.json) |
 | Groove Coaster: Darius Cozmic Collection Pack | 361704 | [361704-groove-coaster-darius-cozmic-collection-pack.json](./361704-groove-coaster-darius-cozmic-collection-pack.json) |
@@ -5127,6 +5129,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundam Breaker | 45290 | [45290-gundam-breaker.json](./45290-gundam-breaker.json) |
 | Gundam Breaker 2 | 44552 | [44552-gundam-breaker-2.json](./44552-gundam-breaker-2.json) |
 | Gundam Breaker 3 | 19858 | [19858-gundam-breaker-3.json](./19858-gundam-breaker-3.json) |
+| Gundam Breaker 4: Diorama Pack 1 - Colony Set | 324396 | [324396-gundam-breaker-4-diorama-pack-1-colony-set.json](./324396-gundam-breaker-4-diorama-pack-1-colony-set.json) |
+| Gundam Breaker 4: Diorama Pack 2 - Mobile Weapon & Colony Laser Inner Wall | 324397 | [324397-gundam-breaker-4-diorama-pack-2-mobile-weapon-and-colony-laser-inner-wall.json](./324397-gundam-breaker-4-diorama-pack-2-mobile-weapon-and-colony-laser-inner-wall.json) |
+| Gundam Breaker 4: Diorama Pack 3 - Class Room Set & Haro | 324398 | [324398-gundam-breaker-4-diorama-pack-3-class-room-set-and-haro.json](./324398-gundam-breaker-4-diorama-pack-3-class-room-set-and-haro.json) |
 | Gundam Breaker 4: Diorama Pack 4 - Beach Set & Effect | 361236 | [361236-gundam-breaker-4-diorama-pack-4-beach-set-and-effect.json](./361236-gundam-breaker-4-diorama-pack-4-beach-set-and-effect.json) |
 | Gundam Breaker 4: Diorama Pack Set | 328995 | [328995-gundam-breaker-4-diorama-pack-set.json](./328995-gundam-breaker-4-diorama-pack-set.json) |
 | Gundam Breaker 4: Season Pass | 316215 | [316215-gundam-breaker-4-season-pass.json](./316215-gundam-breaker-4-season-pass.json) |
