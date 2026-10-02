@@ -8240,6 +8240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DTXPlayer | 130948 | [130948-dtxplayer.json](./130948-dtxplayer.json) |
 | Du Lac & Fey: Dance of Death | 76211 | [76211-du-lac-and-fey-dance-of-death.json](./76211-du-lac-and-fey-dance-of-death.json) |
 | Duael Invaders | 42827 | [42827-duael-invaders.json](./42827-duael-invaders.json) |
+| Duake | 320260 | [320260-duake.json](./320260-duake.json) |
 | Dual Brain Vol.1: Calculation | 127170 | [127170-dual-brain-vol-1-calculation.json](./127170-dual-brain-vol-1-calculation.json) |
 | Dual Brain: Complete Edition | 196178 | [196178-dual-brain-complete-edition.json](./196178-dual-brain-complete-edition.json) |
 | Dual Bus Simulator | 269028 | [269028-dual-bus-simulator.json](./269028-dual-bus-simulator.json) |
