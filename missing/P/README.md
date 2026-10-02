@@ -2173,6 +2173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | People's Tactics | 69556 | [69556-peoples-tactics.json](./69556-peoples-tactics.json) |
 | People's World | 284903 | [284903-peoples-world.json](./284903-peoples-world.json) |
 | Peopletale Online | 176790 | [176790-peopletale-online.json](./176790-peopletale-online.json) |
+| Pepe Chatters | 287356 | [287356-pepe-chatters.json](./287356-pepe-chatters.json) |
 | Pepe's Little Adventure | 325703 | [325703-pepes-little-adventure.json](./325703-pepes-little-adventure.json) |
 | Pepez: The game | 341584 | [341584-pepez-the-game.json](./341584-pepez-the-game.json) |
 | Pepi Doctor | 343994 | [343994-pepi-doctor.json](./343994-pepi-doctor.json) |
@@ -2816,6 +2817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phobia Exposure VR | 260619 | [260619-phobia-exposure-vr.json](./260619-phobia-exposure-vr.json) |
 | Phobia III: Edge of Humanity | 18483 | [18483-phobia-iii-edge-of-humanity.json](./18483-phobia-iii-edge-of-humanity.json) |
 | Phobic Nightmares | 344502 | [344502-phobic-nightmares.json](./344502-phobic-nightmares.json) |
+| PhoboChromaPhobia | 287310 | [287310-phobochromaphobia.json](./287310-phobochromaphobia.json) |
 | PhoboPhobia | 306479 | [306479-phobophobia.json](./306479-phobophobia.json) |
 | Phobos | 141096 | [141096-phobos.json](./141096-phobos.json) |
 | Phobos | 184093 | [184093-phobos.json](./184093-phobos.json) |
@@ -3090,6 +3092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picopicotron | 402505 | [402505-picopicotron.json](./402505-picopicotron.json) |
 | PicoPlex | 178619 | [178619-picoplex.json](./178619-picoplex.json) |
 | PicoQuest: Darkness Rising | 183448 | [183448-picoquest-darkness-rising.json](./183448-picoquest-darkness-rising.json) |
+| Picoracer-2048 | 287324 | [287324-picoracer-2048.json](./287324-picoracer-2048.json) |
 | Picoware | 279711 | [279711-picoware.json](./279711-picoware.json) |
 | Picowars | 184630 | [184630-picowars.json](./184630-picowars.json) |
 | PicPu | 175358 | [175358-picpu.json](./175358-picpu.json) |
@@ -3557,6 +3560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Prelude | 15564 | [15564-pinball-prelude.json](./15564-pinball-prelude.json) |
 | Pinball Pulse: The Ancients Beckon | 67355 | [67355-pinball-pulse-the-ancients-beckon.json](./67355-pinball-pulse-the-ancients-beckon.json) |
 | Pinball Quest | 48026 | [48026-pinball-quest.json](./48026-pinball-quest.json) |
+| Pinball Racer | 287351 | [287351-pinball-racer.json](./287351-pinball-racer.json) |
 | Pinball Science | 216248 | [216248-pinball-science.json](./216248-pinball-science.json) |
 | Pinball Shuffle | 88315 | [88315-pinball-shuffle.json](./88315-pinball-shuffle.json) |
 | Pinball Sniper | 344963 | [344963-pinball-sniper.json](./344963-pinball-sniper.json) |
@@ -6349,6 +6353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal Factory | 324335 | [324335-portal-factory.json](./324335-portal-factory.json) |
 | Portal Fantasy | 257931 | [257931-portal-fantasy.json](./257931-portal-fantasy.json) |
 | Portal for TIC-80 | 349495 | [349495-portal-for-tic-80.json](./349495-portal-for-tic-80.json) |
+| Portal Golf | 287361 | [287361-portal-golf.json](./287361-portal-golf.json) |
 | Portal Guardian | 389991 | [389991-portal-guardian.json](./389991-portal-guardian.json) |
 | Portal Gun in Sonic 2 | 129175 | [129175-portal-gun-in-sonic-2.json](./129175-portal-gun-in-sonic-2.json) |
 | Portal Hunter | 373623 | [373623-portal-hunter.json](./373623-portal-hunter.json) |
