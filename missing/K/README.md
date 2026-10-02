@@ -2811,6 +2811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kremling Krushin | 231605 | [231605-kremling-krushin.json](./231605-kremling-krushin.json) |
 | Kreton La Resistance | 317428 | [317428-kreton-la-resistance.json](./317428-kreton-la-resistance.json) |
 | Krew Eats | 172718 | [172718-krew-eats.json](./172718-krew-eats.json) |
+| Krezber | 289574 | [289574-krezber.json](./289574-krezber.json) |
 | Kriegsland | 196022 | [196022-kriegsland.json](./196022-kriegsland.json) |
 | Kriegspiel | 84274 | [84274-kriegspiel.json](./84274-kriegspiel.json) |
 | Kriegsspiel: 7 Years' War | 388760 | [388760-kriegsspiel-7-years-war.json](./388760-kriegsspiel-7-years-war.json) |
