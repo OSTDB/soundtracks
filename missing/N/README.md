@@ -2167,6 +2167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Shift | 311609 | [311609-night-shift.json](./311609-night-shift.json) |
 | Night Shift Customer | 372599 | [372599-night-shift-customer.json](./372599-night-shift-customer.json) |
 | Night Shift Nightmare | 395794 | [395794-night-shift-nightmare.json](./395794-night-shift-nightmare.json) |
+| Night Shift Nurses | 320234 | [320234-night-shift-nurses.json](./320234-night-shift-nurses.json) |
 | Night Shift: 1999 | 366829 | [366829-night-shift-1999.json](./366829-night-shift-1999.json) |
 | Night Shift: Laundry | 328253 | [328253-night-shift-laundry.json](./328253-night-shift-laundry.json) |
 | Night Shift: Remade | 181792 | [181792-night-shift-remade.json](./181792-night-shift-remade.json) |
