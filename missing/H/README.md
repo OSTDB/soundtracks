@@ -3535,6 +3535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden World of Art 2 | 126667 | [126667-hidden-world-of-art-2.json](./126667-hidden-world-of-art-2.json) |
 | Hidden World of Art 4 | 294848 | [294848-hidden-world-of-art-4.json](./294848-hidden-world-of-art-4.json) |
 | Hidden World Top-Down 3D | 192466 | [192466-hidden-world-top-down-3d.json](./192466-hidden-world-top-down-3d.json) |
+| Hidden Worlds Bundle | 328520 | [328520-hidden-worlds-bundle.json](./328520-hidden-worlds-bundle.json) |
 | Hiddens Awakening | 212998 | [212998-hiddens-awakening.json](./212998-hiddens-awakening.json) |
 | Hiddenverse: Ariadna Dreaming | 203374 | [203374-hiddenverse-ariadna-dreaming.json](./203374-hiddenverse-ariadna-dreaming.json) |
 | Hiddenverse: Divided Kingdom | 223140 | [223140-hiddenverse-divided-kingdom.json](./223140-hiddenverse-divided-kingdom.json) |
@@ -3630,6 +3631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High School Girl Life Sim 3D | 297504 | [297504-high-school-girl-life-sim-3d.json](./297504-high-school-girl-life-sim-3d.json) |
 | High School Girl Life Simulator | 102757 | [102757-high-school-girl-life-simulator.json](./102757-high-school-girl-life-simulator.json) |
 | High School Girl Simulator 3D | 299905 | [299905-high-school-girl-simulator-3d.json](./299905-high-school-girl-simulator-3d.json) |
+| High School Love: A Visual Novel Romance | 328519 | [328519-high-school-love-a-visual-novel-romance.json](./328519-high-school-love-a-visual-novel-romance.json) |
 | High School Maze 3D | 297633 | [297633-high-school-maze-3d.json](./297633-high-school-maze-3d.json) |
 | High School Musical 2: Work This Out! | 21371 | [21371-high-school-musical-2-work-this-out.json](./21371-high-school-musical-2-work-this-out.json) |
 | High School Musical 3: Senior Year | 138091 | [138091-high-school-musical-3-senior-year.json](./138091-high-school-musical-3-senior-year.json) |
@@ -4186,6 +4188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hole in One Golf | 49924 | [49924-hole-in-one-golf.json](./49924-hole-in-one-golf.json) |
 | Hole in the Wall | 20119 | [20119-hole-in-the-wall.json](./20119-hole-in-the-wall.json) |
 | Hole io | 263553 | [263553-hole-io.json](./263553-hole-io.json) |
+| Hole io & Candivity | 328512 | [328512-hole-io-and-candivity.json](./328512-hole-io-and-candivity.json) |
 | Hole io & Helix Jump | 315836 | [315836-hole-io-and-helix-jump.json](./315836-hole-io-and-helix-jump.json) |
 | Hole io: Ancient DLC | 309081 | [309081-hole-io-ancient-dlc.json](./309081-hole-io-ancient-dlc.json) |
 | Hole io: Animals DLC | 263554 | [263554-hole-io-animals-dlc.json](./263554-hole-io-animals-dlc.json) |
@@ -5331,6 +5334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Velez: Part 2 | 171505 | [171505-house-of-velez-part-2.json](./171505-house-of-velez-part-2.json) |
 | House of Wonders: Kitty Kat Wedding | 53195 | [53195-house-of-wonders-kitty-kat-wedding.json](./53195-house-of-wonders-kitty-kat-wedding.json) |
 | House on [Redacted] Street | 352197 | [352197-house-on-redacted-street.json](./352197-house-on-redacted-street.json) |
+| House Painting: Simulator | 328513 | [328513-house-painting-simulator.json](./328513-house-painting-simulator.json) |
 | House Party: Valentine's Day Holiday Pack | 287076 | [287076-house-party-valentines-day-holiday-pack.json](./287076-house-party-valentines-day-holiday-pack.json) |
 | House Renovator Simulator | 350052 | [350052-house-renovator-simulator.json](./350052-house-renovator-simulator.json) |
 | House spirit cat | 279768 | [279768-house-spirit-cat.json](./279768-house-spirit-cat.json) |
