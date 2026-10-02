@@ -1316,6 +1316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Putt Wonder | 181709 | [181709-one-putt-wonder.json](./181709-one-putt-wonder.json) |
 | One Py Berry Match | 97317 | [97317-one-py-berry-match.json](./97317-one-py-berry-match.json) |
 | One Question and You'll Want to Share It! 1000 Trivia Quiz Questions | 409554 | [409554-one-question-and-youll-want-to-share-it-1000-trivia-quiz-questions.json](./409554-one-question-and-youll-want-to-share-it-1000-trivia-quiz-questions.json) |
+| One Room Dungeon | 319069 | [319069-one-room-dungeon.json](./319069-one-room-dungeon.json) |
 | One Room Hotel | 178654 | [178654-one-room-hotel.json](./178654-one-room-hotel.json) |
 | One Room: Prisoner's Dilemma | 304353 | [304353-one-room-prisoners-dilemma.json](./304353-one-room-prisoners-dilemma.json) |
 | One Rotten Oath | 358376 | [358376-one-rotten-oath.json](./358376-one-rotten-oath.json) |
