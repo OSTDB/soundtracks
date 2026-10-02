@@ -5292,6 +5292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blonde Justice | 37198 | [37198-blonde-justice.json](./37198-blonde-justice.json) |
 | Blonsters | 304877 | [304877-blonsters.json](./304877-blonsters.json) |
 | Bloo Kid | 58463 | [58463-bloo-kid.json](./58463-bloo-kid.json) |
+| Bloobs Adventure Idle | 303165 | [303165-bloobs-adventure-idle.json](./303165-bloobs-adventure-idle.json) |
 | Blood 'N Bullets | 239778 | [239778-blood-n-bullets.json](./239778-blood-n-bullets.json) |
 | Blood 'n Guts | 37070 | [37070-blood-n-guts.json](./37070-blood-n-guts.json) |
 | Blood 'n' Guts | 380107 | [380107-blood-n-guts.json](./380107-blood-n-guts.json) |
@@ -5466,6 +5467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BloodFlood | 265407 | [265407-bloodflood.json](./265407-bloodflood.json) |
 | Bloodfront | 391730 | [391730-bloodfront.json](./391730-bloodfront.json) |
 | Bloodgeon | 125444 | [125444-bloodgeon.json](./125444-bloodgeon.json) |
+| Bloodgrounds | 303164 | [303164-bloodgrounds.json](./303164-bloodgrounds.json) |
 | Bloodhound | 195382 | [195382-bloodhound.json](./195382-bloodhound.json) |
 | Bloodia | 118394 | [118394-bloodia.json](./118394-bloodia.json) |
 | BloodKeeper | 143037 | [143037-bloodkeeper.json](./143037-bloodkeeper.json) |
@@ -5639,6 +5641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloxi: The Word Game | 190949 | [190949-bloxi-the-word-game.json](./190949-bloxi-the-word-game.json) |
 | Bloxicus | 122428 | [122428-bloxicus.json](./122428-bloxicus.json) |
 | Bloxiq VR | 31828 | [31828-bloxiq-vr.json](./31828-bloxiq-vr.json) |
+| Bloxolotl | 303166 | [303166-bloxolotl.json](./303166-bloxolotl.json) |
 | Bloxorz: Roll the Block | 105786 | [105786-bloxorz-roll-the-block.json](./105786-bloxorz-roll-the-block.json) |
 | Bloxs | 244791 | [244791-bloxs.json](./244791-bloxs.json) |
 | Bloxtacle Course | 267485 | [267485-bloxtacle-course.json](./267485-bloxtacle-course.json) |
@@ -5680,6 +5683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Hawk | 39875 | [39875-blue-hawk.json](./39875-blue-hawk.json) |
 | Blue Honey | 416862 | [416862-blue-honey.json](./416862-blue-honey.json) |
 | Blue Horizon | 23930 | [23930-blue-horizon.json](./23930-blue-horizon.json) |
+| Blue Hunter | 303167 | [303167-blue-hunter.json](./303167-blue-hunter.json) |
 | Blue Jay Joyride | 195628 | [195628-blue-jay-joyride.json](./195628-blue-jay-joyride.json) |
 | Blue June | 153405 | [153405-blue-june.json](./153405-blue-june.json) |
 | Blue Land | 302476 | [302476-blue-land.json](./302476-blue-land.json) |
@@ -5769,10 +5773,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bluey Wackadoo Watch | 230557 | [230557-bluey-wackadoo-watch.json](./230557-bluey-wackadoo-watch.json) |
 | Bluey x Crossy Road Castle | 403839 | [403839-bluey-x-crossy-road-castle.json](./403839-bluey-x-crossy-road-castle.json) |
 | Bluey: The Videogame | 257332 | [257332-bluey-the-videogame.json](./257332-bluey-the-videogame.json) |
+| Bluff with Ash | 303171 | [303171-bluff-with-ash.json](./303171-bluff-with-ash.json) |
 | Bluff: Fun Family Card Game | 227852 | [227852-bluff-fun-family-card-game.json](./227852-bluff-fun-family-card-game.json) |
 | Bluk | 57735 | [57735-bluk.json](./57735-bluk.json) |
 | Blukaty | 291241 | [291241-blukaty.json](./291241-blukaty.json) |
 | Blumgi Castle | 219262 | [219262-blumgi-castle.json](./219262-blumgi-castle.json) |
+| Blumgi Soccer | 303170 | [303170-blumgi-soccer.json](./303170-blumgi-soccer.json) |
+| Blunder The Sea | 303169 | [303169-blunder-the-sea.json](./303169-blunder-the-sea.json) |
 | Blunt Force | 26566 | [26566-blunt-force.json](./26566-blunt-force.json) |
 | Blunted in The Malen | 302956 | [302956-blunted-in-the-malen.json](./302956-blunted-in-the-malen.json) |
 | Blur time | 60790 | [60790-blur-time.json](./60790-blur-time.json) |
@@ -5800,6 +5807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Board Fight | 169314 | [169314-board-fight.json](./169314-board-fight.json) |
 | Board Game Collection | 100743 | [100743-board-game-collection.json](./100743-board-game-collection.json) |
 | Board Game Online | 60809 | [60809-board-game-online.json](./60809-board-game-online.json) |
+| Board Game Party | 303172 | [303172-board-game-party.json](./303172-board-game-party.json) |
 | Board Games Gallery (10 Games) | 100168 | [100168-board-games-gallery-10-games.json](./100168-board-games-gallery-10-games.json) |
 | Board Games Live | 86121 | [86121-board-games-live.json](./86121-board-games-live.json) |
 | Board Games VR | 74457 | [74457-board-games-vr.json](./74457-board-games-vr.json) |
