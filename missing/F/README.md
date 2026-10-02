@@ -269,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fading Echo | 347887 | [347887-fading-echo.json](./347887-fading-echo.json) |
 | Fading Echoes | 291213 | [291213-fading-echoes.json](./291213-fading-echoes.json) |
 | Fading Existence | 179029 | [179029-fading-existence.json](./179029-fading-existence.json) |
+| Fading Faith | 312218 | [312218-fading-faith.json](./312218-fading-faith.json) |
 | Fading Haven | 402260 | [402260-fading-haven.json](./402260-fading-haven.json) |
 | Fading Hearts | 16778 | [16778-fading-hearts.json](./16778-fading-hearts.json) |
 | Fading Light and Summer's Shadow | 411769 | [411769-fading-light-and-summers-shadow.json](./411769-fading-light-and-summers-shadow.json) |
@@ -3351,7 +3352,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's 2 | 9195 | [9195-five-nights-at-freddys-2.json](./9195-five-nights-at-freddys-2.json) |
 | Five Nights at Freddy's 3 | 230775 | [230775-five-nights-at-freddys-3.json](./230775-five-nights-at-freddys-3.json) |
 | Five Nights at Freddy's 3 | 241177 | [241177-five-nights-at-freddys-3.json](./241177-five-nights-at-freddys-3.json) |
+| Five Nights at Freddy's 3 | 312229 | [312229-five-nights-at-freddys-3.json](./312229-five-nights-at-freddys-3.json) |
 | Five Nights at Freddy's 4 | 11583 | [11583-five-nights-at-freddys-4.json](./11583-five-nights-at-freddys-4.json) |
+| Five Nights at Freddy's 4 | 312230 | [312230-five-nights-at-freddys-4.json](./312230-five-nights-at-freddys-4.json) |
 | Five Nights at Freddy's 4: Halloween Edition | 226410 | [226410-five-nights-at-freddys-4-halloween-edition.json](./226410-five-nights-at-freddys-4-halloween-edition.json) |
 | Five Nights at Freddy's 5 | 271717 | [271717-five-nights-at-freddys-5.json](./271717-five-nights-at-freddys-5.json) |
 | Five Nights at Freddy's AR Lite | 273955 | [273955-five-nights-at-freddys-ar-lite.json](./273955-five-nights-at-freddys-ar-lite.json) |
@@ -5100,6 +5103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forward March: Attack! Deluxe | 25106 | [25106-forward-march-attack-deluxe.json](./25106-forward-march-attack-deluxe.json) |
 | Forward Motion | 366378 | [366378-forward-motion.json](./366378-forward-motion.json) |
 | Forwards Compatible | 271742 | [271742-forwards-compatible.json](./271742-forwards-compatible.json) |
+| Foryster | 312225 | [312225-foryster.json](./312225-foryster.json) |
 | Forza Horizon - December IGN Car Pack | 132825 | [132825-forza-horizon-december-ign-car-pack.json](./132825-forza-horizon-december-ign-car-pack.json) |
 | Forza Horizon 2 Presents Fast & Furious | 74159 | [74159-forza-horizon-2-presents-fast-and-furious.json](./74159-forza-horizon-2-presents-fast-and-furious.json) |
 | Forza Horizon 3 | 19539 | [19539-forza-horizon-3.json](./19539-forza-horizon-3.json) |
@@ -5810,6 +5814,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friendzoned 3 | 276806 | [276806-friendzoned-3.json](./276806-friendzoned-3.json) |
 | Friendzoned 4 | 276807 | [276807-friendzoned-4.json](./276807-friendzoned-4.json) |
 | Frigate | 250923 | [250923-frigate.json](./250923-frigate.json) |
+| Fright Chasers: Director's Cut | 312212 | [312212-fright-chasers-directors-cut.json](./312212-fright-chasers-directors-cut.json) |
+| Fright Chasers: Soul Reaper | 312213 | [312213-fright-chasers-soul-reaper.json](./312213-fright-chasers-soul-reaper.json) |
 | Fright Cops | 216459 | [216459-fright-cops.json](./216459-fright-cops.json) |
 | Fright Fight | 61901 | [61901-fright-fight.json](./61901-fright-fight.json) |
 | Fright House | 329352 | [329352-fright-house.json](./329352-fright-house.json) |
