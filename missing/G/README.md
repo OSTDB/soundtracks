@@ -2867,6 +2867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Opens the Door | 177405 | [177405-god-opens-the-door.json](./177405-god-opens-the-door.json) |
 | God Panic: Shijou Saikyou Gundan | 55887 | [55887-god-panic-shijou-saikyou-gundan.json](./55887-god-panic-shijou-saikyou-gundan.json) |
 | God Pill | 217515 | [217515-god-pill.json](./217515-god-pill.json) |
+| God Please Help Me | 293861 | [293861-god-please-help-me.json](./293861-god-please-help-me.json) |
 | God Save Birmingham | 314428 | [314428-god-save-birmingham.json](./314428-god-save-birmingham.json) |
 | God Shot | 399852 | [399852-god-shot.json](./399852-god-shot.json) |
 | God Simulator | 191570 | [191570-god-simulator.json](./191570-god-simulator.json) |
@@ -4062,6 +4063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graviteam Tactics: Operation Star - Sokolovo 1943 | 155494 | [155494-graviteam-tactics-operation-star-sokolovo-1943.json](./155494-graviteam-tactics-operation-star-sokolovo-1943.json) |
 | Graviteam Tactics: Operation Star - Volokonovka 1942 | 155496 | [155496-graviteam-tactics-operation-star-volokonovka-1942.json](./155496-graviteam-tactics-operation-star-volokonovka-1942.json) |
 | Graviteam Tactics: Operation Star - Zhalanashkol 1969 | 54061 | [54061-graviteam-tactics-operation-star-zhalanashkol-1969.json](./54061-graviteam-tactics-operation-star-zhalanashkol-1969.json) |
+| Gravitee 2 | 293351 | [293351-gravitee-2.json](./293351-gravitee-2.json) |
 | Gravitee Wars | 245575 | [245575-gravitee-wars.json](./245575-gravitee-wars.json) |
 | Graviton | 122382 | [122382-graviton.json](./122382-graviton.json) |
 | Graviton Flux | 371957 | [371957-graviton-flux.json](./371957-graviton-flux.json) |
@@ -5004,6 +5006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear: Strive - Additional Battle Stage: Tír na nÓg | 254566 | [254566-guilty-gear-strive-additional-battle-stage-tir-na-nog.json](./254566-guilty-gear-strive-additional-battle-stage-tir-na-nog.json) |
 | Guilty Gear: Strive - Additional Battle Stage: White House Reborn | 254562 | [254562-guilty-gear-strive-additional-battle-stage-white-house-reborn.json](./254562-guilty-gear-strive-additional-battle-stage-white-house-reborn.json) |
 | Guilty Gear: Strive - Additional Character 10: Johnny | 263028 | [263028-guilty-gear-strive-additional-character-10-johnny.json](./263028-guilty-gear-strive-additional-character-10-johnny.json) |
+| Guilty Gear: Strive - Additional Character 12: A.B.A | 293843 | [293843-guilty-gear-strive-additional-character-12-a-b-a.json](./293843-guilty-gear-strive-additional-character-12-a-b-a.json) |
 | Guilty Gear: Strive - Additional Character 13: Slayer | 299722 | [299722-guilty-gear-strive-additional-character-13-slayer.json](./299722-guilty-gear-strive-additional-character-13-slayer.json) |
 | Guilty Gear: Strive - Additional Character 2: Jack-O' | 166147 | [166147-guilty-gear-strive-additional-character-2-jack-o.json](./166147-guilty-gear-strive-additional-character-2-jack-o.json) |
 | Guilty Gear: Strive - Additional Character 6: Bridget | 213005 | [213005-guilty-gear-strive-additional-character-6-bridget.json](./213005-guilty-gear-strive-additional-character-6-bridget.json) |
