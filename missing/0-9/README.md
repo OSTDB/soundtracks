@@ -506,6 +506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12nin no Onna Kyoushi Re-Innovation -In- | 98419 | [98419-12nin-no-onna-kyoushi-re-innovation-in.json](./98419-12nin-no-onna-kyoushi-re-innovation-in.json) |
 | 13 Bones | 384726 | [384726-13-bones.json](./384726-13-bones.json) |
 | 13 Cycles | 102927 | [102927-13-cycles.json](./102927-13-cycles.json) |
+| 13 Floors: Anomalies | 292243 | [292243-13-floors-anomalies.json](./292243-13-floors-anomalies.json) |
 | 13 Jellyfish | 176793 | [176793-13-jellyfish.json](./176793-13-jellyfish.json) |
 | 13 Laurel Road | 177834 | [177834-13-laurel-road.json](./177834-13-laurel-road.json) |
 | 13 Letters | 98416 | [98416-13-letters.json](./98416-13-letters.json) |
