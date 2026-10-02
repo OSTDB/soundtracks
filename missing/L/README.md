@@ -894,6 +894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lawless Lands: Smoking Sands | 167711 | [167711-lawless-lands-smoking-sands.json](./167711-lawless-lands-smoking-sands.json) |
 | Lawless Lands: Unrest | 167712 | [167712-lawless-lands-unrest.json](./167712-lawless-lands-unrest.json) |
 | Lawless Lands: Witchcraft | 277349 | [277349-lawless-lands-witchcraft.json](./277349-lawless-lands-witchcraft.json) |
+| Lawless Racer: 2D Street Racing | 294379 | [294379-lawless-racer-2d-street-racing.json](./294379-lawless-racer-2d-street-racing.json) |
 | Lawless West | 226675 | [226675-lawless-west.json](./226675-lawless-west.json) |
 | Lawless: Blood and Dust | 360207 | [360207-lawless-blood-and-dust.json](./360207-lawless-blood-and-dust.json) |
 | Lawmage Academy | 125472 | [125472-lawmage-academy.json](./125472-lawmage-academy.json) |
@@ -2415,6 +2416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LightFall | 234201 | [234201-lightfall.json](./234201-lightfall.json) |
 | Lightfish | 16271 | [16271-lightfish.json](./16271-lightfish.json) |
 | Lightforce | 28823 | [28823-lightforce.json](./28823-lightforce.json) |
+| LightGone | 294374 | [294374-lightgone.json](./294374-lightgone.json) |
 | Lighthaze World | 197264 | [197264-lighthaze-world.json](./197264-lighthaze-world.json) |
 | Lighthockey | 34352 | [34352-lighthockey.json](./34352-lighthockey.json) |
 | Lighthouse | 262307 | [262307-lighthouse.json](./262307-lighthouse.json) |
