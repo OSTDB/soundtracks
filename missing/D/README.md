@@ -3090,6 +3090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DemonPandemicVR | 146703 | [146703-demonpandemicvr.json](./146703-demonpandemicvr.json) |
 | Demonrift TD : The Mountain of doom | 136247 | [136247-demonrift-td-the-mountain-of-doom.json](./136247-demonrift-td-the-mountain-of-doom.json) |
 | Demonrock: War of Ages | 216156 | [216156-demonrock-war-of-ages.json](./216156-demonrock-war-of-ages.json) |
+| Demons | 306588 | [306588-demons.json](./306588-demons.json) |
 | Demons and Doobins | 291760 | [291760-demons-and-doobins.json](./291760-demons-and-doobins.json) |
 | Demons are coming! | 278160 | [278160-demons-are-coming.json](./278160-demons-are-coming.json) |
 | Demons Ate My Neighbors! | 138676 | [138676-demons-ate-my-neighbors.json](./138676-demons-ate-my-neighbors.json) |
@@ -5200,6 +5201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divided: Soul Theft | 89370 | [89370-divided-soul-theft.json](./89370-divided-soul-theft.json) |
 | Divilethion | 176299 | [176299-divilethion.json](./176299-divilethion.json) |
 | Divilixa | 149456 | [149456-divilixa.json](./149456-divilixa.json) |
+| Divinastros | 306577 | [306577-divinastros.json](./306577-divinastros.json) |
 | Divination | 339102 | [339102-divination.json](./339102-divination.json) |
 | Divine Adventure: Act One | 174121 | [174121-divine-adventure-act-one.json](./174121-divine-adventure-act-one.json) |
 | Divine Ascent | 29179 | [29179-divine-ascent.json](./29179-divine-ascent.json) |
@@ -7949,6 +7951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drifted | 287227 | [287227-drifted.json](./287227-drifted.json) |
 | Driftence | 190130 | [190130-driftence.json](./190130-driftence.json) |
 | Drifter | 16772 | [16772-drifter.json](./16772-drifter.json) |
+| Drifter | 306599 | [306599-drifter.json](./306599-drifter.json) |
 | Drifter King Online | 133358 | [133358-drifter-king-online.json](./133358-drifter-king-online.json) |
 | Drifter Star: Evolution | 371872 | [371872-drifter-star-evolution.json](./371872-drifter-star-evolution.json) |
 | Drifter's Tales | 195174 | [195174-drifters-tales.json](./195174-drifters-tales.json) |
