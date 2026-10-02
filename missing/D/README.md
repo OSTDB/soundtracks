@@ -5589,6 +5589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Corrupted Files | 259649 | [259649-doki-doki-corrupted-files.json](./259649-doki-doki-corrupted-files.json) |
 | Doki Doki Despair | 333918 | [333918-doki-doki-despair.json](./333918-doki-doki-despair.json) |
 | Doki Doki Dollmaker | 246651 | [246651-doki-doki-dollmaker.json](./246651-doki-doki-dollmaker.json) |
+| Doki Doki Don't | 333784 | [333784-doki-doki-dont.json](./333784-doki-doki-dont.json) |
 | Doki Doki Exit Music Epilogue | 353423 | [353423-doki-doki-exit-music-epilogue.json](./353423-doki-doki-exit-music-epilogue.json) |
 | Doki Doki Exit Music: Redux | 201845 | [201845-doki-doki-exit-music-redux.json](./201845-doki-doki-exit-music-redux.json) |
 | Doki Doki Fiendish | 332852 | [332852-doki-doki-fiendish.json](./332852-doki-doki-fiendish.json) |
@@ -6648,6 +6649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DPS Idle 2 | 253970 | [253970-dps-idle-2.json](./253970-dps-idle-2.json) |
 | DQ Girls Colosseum | 97699 | [97699-dq-girls-colosseum.json](./97699-dq-girls-colosseum.json) |
 | DQ Tycoon | 94000 | [94000-dq-tycoon.json](./94000-dq-tycoon.json) |
+| Dr Goo | 333706 | [333706-dr-goo.json](./333706-dr-goo.json) |
 | Dr Iwan | 167598 | [167598-dr-iwan.json](./167598-dr-iwan.json) |
 | Dr Jugo | 404446 | [404446-dr-jugo.json](./404446-dr-jugo.json) |
 | Dr Livesey Rom and Death Edition | 224897 | [224897-dr-livesey-rom-and-death-edition.json](./224897-dr-livesey-rom-and-death-edition.json) |
