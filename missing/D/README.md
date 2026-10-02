@@ -329,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dan Marino's Powerplay Football | 408059 | [408059-dan-marinos-powerplay-football.json](./408059-dan-marinos-powerplay-football.json) |
 | Dan Sisal's 501 Darts Trainer | 168305 | [168305-dan-sisals-501-darts-trainer.json](./168305-dan-sisals-501-darts-trainer.json) |
 | Dan Vs. This Game | 63879 | [63879-dan-vs-this-game.json](./63879-dan-vs-this-game.json) |
+| Danball Senki | 321466 | [321466-danball-senki.json](./321466-danball-senki.json) |
 | Danball Senki Boost | 146768 | [146768-danball-senki-boost.json](./146768-danball-senki-boost.json) |
 | Danball Senki W Chou Custom | 59406 | [59406-danball-senki-w-chou-custom.json](./59406-danball-senki-w-chou-custom.json) |
 | Danball Senki Wars | 59404 | [59404-danball-senki-wars.json](./59404-danball-senki-wars.json) |
