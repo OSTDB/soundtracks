@@ -2322,6 +2322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighty Driver | 411045 | [411045-fighty-driver.json](./411045-fighty-driver.json) |
 | Fignermukcre | 128627 | [128627-fignermukcre.json](./128627-fignermukcre.json) |
 | Figurality | 269020 | [269020-figurality.json](./269020-figurality.json) |
+| Figuras y Figuraciones | 284569 | [284569-figuras-y-figuraciones.json](./284569-figuras-y-figuraciones.json) |
 | Figure Fantasy | 182491 | [182491-figure-fantasy.json](./182491-figure-fantasy.json) |
 | Figure of Eight | 402927 | [402927-figure-of-eight.json](./402927-figure-of-eight.json) |
 | Figure Shop Simulator | 343263 | [343263-figure-shop-simulator.json](./343263-figure-shop-simulator.json) |
@@ -3848,6 +3849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip Out Rush | 337724 | [337724-flip-out-rush.json](./337724-flip-out-rush.json) |
 | Flip Out! | 40799 | [40799-flip-out.json](./40799-flip-out.json) |
 | Flip Tale | 133381 | [133381-flip-tale.json](./133381-flip-tale.json) |
+| Flip That Coin! | 284573 | [284573-flip-that-coin.json](./284573-flip-that-coin.json) |
 | Flip the Birdie | 252711 | [252711-flip-the-birdie.json](./252711-flip-the-birdie.json) |
 | Flip the Rocket | 101102 | [101102-flip-the-rocket.json](./101102-flip-the-rocket.json) |
 | Flip Trickster | 89215 | [89215-flip-trickster.json](./89215-flip-trickster.json) |
