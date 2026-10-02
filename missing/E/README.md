@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Sports FC 27: Ultimate Plus Edition | 411107 | [411107-ea-sports-fc-27-ultimate-plus-edition.json](./411107-ea-sports-fc-27-ultimate-plus-edition.json) |
 | EA Sports FC Online | 93902 | [93902-ea-sports-fc-online.json](./93902-ea-sports-fc-online.json) |
 | EA Sports FC Tactical | 302626 | [302626-ea-sports-fc-tactical.json](./302626-ea-sports-fc-tactical.json) |
+| EA Sports Madden NFL 25: Deluxe Edition | 301508 | [301508-ea-sports-madden-nfl-25-deluxe-edition.json](./301508-ea-sports-madden-nfl-25-deluxe-edition.json) |
 | EA Sports MMA | 6984 | [6984-ea-sports-mma.json](./6984-ea-sports-mma.json) |
 | EA Sports NASCAR Racing | 269525 | [269525-ea-sports-nascar-racing.json](./269525-ea-sports-nascar-racing.json) |
 | EA Sports PGA Tour | 145232 | [145232-ea-sports-pga-tour.json](./145232-ea-sports-pga-tour.json) |
@@ -1711,6 +1712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endarchy | 327340 | [327340-endarchy.json](./327340-endarchy.json) |
 | Endciv | 33502 | [33502-endciv.json](./33502-endciv.json) |
 | Endeavor | 228677 | [228677-endeavor.json](./228677-endeavor.json) |
+| Endeavor | 301527 | [301527-endeavor.json](./301527-endeavor.json) |
 | Endeavour Survival | 28036 | [28036-endeavour-survival.json](./28036-endeavour-survival.json) |
 | Ender IO | 232676 | [232676-ender-io.json](./232676-ender-io.json) |
 | Ender Ocean | 368670 | [368670-ender-ocean.json](./368670-ender-ocean.json) |
