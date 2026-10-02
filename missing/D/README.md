@@ -7419,6 +7419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DragonScales: Chambers of The Dragon Whisperer | 55854 | [55854-dragonscales-chambers-of-the-dragon-whisperer.json](./55854-dragonscales-chambers-of-the-dragon-whisperer.json) |
 | Dragonscapes Adventure | 219830 | [219830-dragonscapes-adventure.json](./219830-dragonscapes-adventure.json) |
 | DragonScriber | 179575 | [179575-dragonscriber.json](./179575-dragonscriber.json) |
+| DragonSky | 303178 | [303178-dragonsky.json](./303178-dragonsky.json) |
 | DragonSpear EX | 200164 | [200164-dragonspear-ex.json](./200164-dragonspear-ex.json) |
 | Dragonsphere | 2487 | [2487-dragonsphere.json](./2487-dragonsphere.json) |
 | Dragonspire | 221139 | [221139-dragonspire.json](./221139-dragonspire.json) |
