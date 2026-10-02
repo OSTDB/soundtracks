@@ -128,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaikyuu Karane Kotoba | 206381 | [206381-kaikyuu-karane-kotoba.json](./206381-kaikyuu-karane-kotoba.json) |
 | Kaikyuu no Eshi | 239678 | [239678-kaikyuu-no-eshi.json](./239678-kaikyuu-no-eshi.json) |
 | Kaimeishi | 312654 | [312654-kaimeishi.json](./312654-kaimeishi.json) |
+| Kain Cobra: Autogun Blaster | 307205 | [307205-kain-cobra-autogun-blaster.json](./307205-kain-cobra-autogun-blaster.json) |
 | Kainga: Collector's Edition | 243803 | [243803-kainga-collectors-edition.json](./243803-kainga-collectors-edition.json) |
 | Kaire | 344388 | [344388-kaire.json](./344388-kaire.json) |
 | Kairo Land | 208037 | [208037-kairo-land.json](./208037-kairo-land.json) |
@@ -2592,6 +2593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konsui Fighter | 105555 | [105555-konsui-fighter.json](./105555-konsui-fighter.json) |
 | Kontra | 238396 | [238396-kontra.json](./238396-kontra.json) |
 | Kook | 245829 | [245829-kook.json](./245829-kook.json) |
+| Kooka Bonga | 307215 | [307215-kooka-bonga.json](./307215-kooka-bonga.json) |
 | Kooky Kids Fort Defense | 255958 | [255958-kooky-kids-fort-defense.json](./255958-kooky-kids-fort-defense.json) |
 | Kool-Aid Man | 5676 | [5676-kool-aid-man.json](./5676-kool-aid-man.json) |
 | Koopa CD | 233599 | [233599-koopa-cd.json](./233599-koopa-cd.json) |
