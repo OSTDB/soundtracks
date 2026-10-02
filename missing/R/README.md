@@ -4328,6 +4328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roblox 64 | 245382 | [245382-roblox-64.json](./245382-roblox-64.json) |
 | Roblox: Mae Plunderjack | 409070 | [409070-roblox-mae-plunderjack.json](./409070-roblox-mae-plunderjack.json) |
 | Robman | 178614 | [178614-robman.json](./178614-robman.json) |
+| Robmembor | 332566 | [332566-robmembor.json](./332566-robmembor.json) |
 | Robo Army | 46786 | [46786-robo-army.json](./46786-robo-army.json) |
 | Robo Boop | 89970 | [89970-robo-boop.json](./89970-robo-boop.json) |
 | Robo Go | 165715 | [165715-robo-go.json](./165715-robo-go.json) |
