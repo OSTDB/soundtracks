@@ -904,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OmniFootman | 118386 | [118386-omnifootman.json](./118386-omnifootman.json) |
 | Omnigon | 245909 | [245909-omnigon.json](./245909-omnigon.json) |
 | Omniheroes | 255790 | [255790-omniheroes.json](./255790-omniheroes.json) |
+| Omnimancer | 307830 | [307830-omnimancer.json](./307830-omnimancer.json) |
 | Omnimus | 122166 | [122166-omnimus.json](./122166-omnimus.json) |
 | Omnipresence | 245938 | [245938-omnipresence.json](./245938-omnipresence.json) |
 | Omniswarm | 183056 | [183056-omniswarm.json](./183056-omniswarm.json) |
@@ -2850,6 +2851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overtime at Freddy's | 280919 | [280919-overtime-at-freddys.json](./280919-overtime-at-freddys.json) |
 | Overtime Heroes Exit 8 | 310729 | [310729-overtime-heroes-exit-8.json](./310729-overtime-heroes-exit-8.json) |
 | Overtime: Paper Trail | 404426 | [404426-overtime-paper-trail.json](./404426-overtime-paper-trail.json) |
+| OverTrip | 307818 | [307818-overtrip.json](./307818-overtrip.json) |
 | Overturn | 68584 | [68584-overturn.json](./68584-overturn.json) |
 | Overview | 81946 | [81946-overview.json](./81946-overview.json) |
 | Overview: Rain Echoes | 325063 | [325063-overview-rain-echoes.json](./325063-overview-rain-echoes.json) |
