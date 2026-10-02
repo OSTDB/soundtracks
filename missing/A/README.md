@@ -4524,6 +4524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Breeder | 78715 | [78715-animal-breeder.json](./78715-animal-breeder.json) |
 | Animal Buddies: Party Beasts | 290438 | [290438-animal-buddies-party-beasts.json](./290438-animal-buddies-party-beasts.json) |
 | Animal Cafe | 356711 | [356711-animal-cafe.json](./356711-animal-cafe.json) |
+| Animal Camp: Healing Resort | 299393 | [299393-animal-camp-healing-resort.json](./299393-animal-camp-healing-resort.json) |
 | Animal Circus: Learning Games | 106521 | [106521-animal-circus-learning-games.json](./106521-animal-circus-learning-games.json) |
 | Animal City | 130756 | [130756-animal-city.json](./130756-animal-city.json) |
 | Animal Cove: Match 3 Adventure | 108854 | [108854-animal-cove-match-3-adventure.json](./108854-animal-cove-match-3-adventure.json) |
@@ -4605,6 +4606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Survival | 379369 | [379369-animal-survival.json](./379369-animal-survival.json) |
 | Animal Tilt-A-Show | 376557 | [376557-animal-tilt-a-show.json](./376557-animal-tilt-a-show.json) |
 | Animal Tower Battle | 314952 | [314952-animal-tower-battle.json](./314952-animal-tower-battle.json) |
+| Animal Town | 299404 | [299404-animal-town.json](./299404-animal-town.json) |
 | Animal Trail Girlish Square | 212799 | [212799-animal-trail-girlish-square.json](./212799-animal-trail-girlish-square.json) |
 | Animal Trainer Simulator | 226236 | [226236-animal-trainer-simulator.json](./226236-animal-trainer-simulator.json) |
 | Animal Unite | 212472 | [212472-animal-unite.json](./212472-animal-unite.json) |
