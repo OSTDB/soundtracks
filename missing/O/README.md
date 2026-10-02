@@ -257,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octo Vinctum: Saga of the Galactic Stardom War | 197124 | [197124-octo-vinctum-saga-of-the-galactic-stardom-war.json](./197124-octo-vinctum-saga-of-the-galactic-stardom-war.json) |
 | Octo's Balloon Challenge | 301022 | [301022-octos-balloon-challenge.json](./301022-octos-balloon-challenge.json) |
 | October Nightmares | 272341 | [272341-october-nightmares.json](./272341-october-nightmares.json) |
+| October Ordeal | 318511 | [318511-october-ordeal.json](./318511-october-ordeal.json) |
 | OctoCraps | 365169 | [365169-octocraps.json](./365169-octocraps.json) |
 | Octodad | 8110 | [8110-octodad.json](./8110-octodad.json) |
 | Octodad Shorts | 382904 | [382904-octodad-shorts.json](./382904-octodad-shorts.json) |
@@ -673,6 +674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Okkotoshi Puzzle Tonjan!? | 60799 | [60799-okkotoshi-puzzle-tonjan.json](./60799-okkotoshi-puzzle-tonjan.json) |
 | Oko | 128559 | [128559-oko.json](./128559-oko.json) |
 | Okthryssia and Saturnia's Bureaucratic Adventures | 323245 | [323245-okthryssia-and-saturnias-bureaucratic-adventures.json](./323245-okthryssia-and-saturnias-bureaucratic-adventures.json) |
+| Oktoberfest | 318471 | [318471-oktoberfest.json](./318471-oktoberfest.json) |
 | Oktoberfest Break: Head to Head | 214518 | [214518-oktoberfest-break-head-to-head.json](./214518-oktoberfest-break-head-to-head.json) |
 | Oktoberfest: The Official Game | 67682 | [67682-oktoberfest-the-official-game.json](./67682-oktoberfest-the-official-game.json) |
 | Oku | 345536 | [345536-oku.json](./345536-oku.json) |
