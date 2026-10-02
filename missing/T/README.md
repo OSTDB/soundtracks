@@ -619,6 +619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Graces | 1211 | [1211-tales-of-graces.json](./1211-tales-of-graces.json) |
 | Tales of Graces f | 20444 | [20444-tales-of-graces-f.json](./20444-tales-of-graces-f.json) |
 | Tales of Graces F Remastered | 314945 | [314945-tales-of-graces-f-remastered.json](./314945-tales-of-graces-f-remastered.json) |
+| Tales of Graces F Remastered: Deluxe Edition | 324370 | [324370-tales-of-graces-f-remastered-deluxe-edition.json](./324370-tales-of-graces-f-remastered-deluxe-edition.json) |
 | Tales of Graces F/ Tales of Symphonia Chronicles | 44617 | [44617-tales-of-graces-f-tales-of-symphonia-chronicles.json](./44617-tales-of-graces-f-tales-of-symphonia-chronicles.json) |
 | Tales of Grimace | 317984 | [317984-tales-of-grimace.json](./317984-tales-of-grimace.json) |
 | Tales of Grimm | 193895 | [193895-tales-of-grimm.json](./193895-tales-of-grimm.json) |
