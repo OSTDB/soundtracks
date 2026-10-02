@@ -2251,6 +2251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminator 2: Judgment Day | 307082 | [307082-terminator-2-judgment-day.json](./307082-terminator-2-judgment-day.json) |
 | Terminator 2: Judgment Day | 45346 | [45346-terminator-2-judgment-day.json](./45346-terminator-2-judgment-day.json) |
 | Terminator 2: Judgment Day - Chess Wars | 14557 | [14557-terminator-2-judgment-day-chess-wars.json](./14557-terminator-2-judgment-day-chess-wars.json) |
+| Terminator: Dark Fate | 287867 | [287867-terminator-dark-fate.json](./287867-terminator-dark-fate.json) |
 | Terminator: Dark Fate - Defiance: Evolution | 380994 | [380994-terminator-dark-fate-defiance-evolution.json](./380994-terminator-dark-fate-defiance-evolution.json) |
 | Terminator: Dark Fate - Defiance: We are Legion | 320901 | [320901-terminator-dark-fate-defiance-we-are-legion.json](./320901-terminator-dark-fate-defiance-we-are-legion.json) |
 | Terminator: Resistance | 122611 | [122611-terminator-resistance.json](./122611-terminator-resistance.json) |
@@ -2508,6 +2509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris | 215387 | [215387-tetris.json](./215387-tetris.json) |
 | Tetris | 221969 | [221969-tetris.json](./221969-tetris.json) |
 | Tetris | 270420 | [270420-tetris.json](./270420-tetris.json) |
+| Tetris | 287892 | [287892-tetris.json](./287892-tetris.json) |
 | Tetris | 326807 | [326807-tetris.json](./326807-tetris.json) |
 | Tetris | 88894 | [88894-tetris.json](./88894-tetris.json) |
 | Tetris 2 | 254511 | [254511-tetris-2.json](./254511-tetris-2.json) |
@@ -3799,6 +3801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Corpse | 376714 | [376714-the-corpse.json](./376714-the-corpse.json) |
 | The Corral | 271787 | [271787-the-corral.json](./271787-the-corral.json) |
 | The Corridor | 148443 | [148443-the-corridor.json](./148443-the-corridor.json) |
+| The Corridors | 287913 | [287913-the-corridors.json](./287913-the-corridors.json) |
 | The Corrupted Turnabout | 308529 | [308529-the-corrupted-turnabout.json](./308529-the-corrupted-turnabout.json) |
 | The Corruption | 333148 | [333148-the-corruption.json](./333148-the-corruption.json) |
 | The Corruption Within | 153387 | [153387-the-corruption-within.json](./153387-the-corruption-within.json) |
@@ -5356,6 +5359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hobbit: Kingdoms of Middle Earth | 38905 | [38905-the-hobbit-kingdoms-of-middle-earth.json](./38905-the-hobbit-kingdoms-of-middle-earth.json) |
 | The Hockey Experiment | 62725 | [62725-the-hockey-experiment.json](./62725-the-hockey-experiment.json) |
 | The Hoff vs Hitler | 342741 | [342741-the-hoff-vs-hitler.json](./342741-the-hoff-vs-hitler.json) |
+| The Hokkaido Serial Murder Case: The Okhotsk Disappearance - Memories in Ice, Tearful Figurine | 287889 | [287889-the-hokkaido-serial-murder-case-the-okhotsk-disappearance-memories-in-ice-tearful-figurine.json](./287889-the-hokkaido-serial-murder-case-the-okhotsk-disappearance-memories-in-ice-tearful-figurine.json) |
 | The Hole Keeper | 370270 | [370270-the-hole-keeper.json](./370270-the-hole-keeper.json) |
 | The Hollow Alchemist | 371257 | [371257-the-hollow-alchemist.json](./371257-the-hollow-alchemist.json) |
 | The Hollow Lighthouse | 358329 | [358329-the-hollow-lighthouse.json](./358329-the-hollow-lighthouse.json) |
@@ -7104,6 +7108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The New Addams Family | 5345 | [5345-the-new-addams-family.json](./5345-the-new-addams-family.json) |
 | The New Apartment | 332567 | [332567-the-new-apartment.json](./332567-the-new-apartment.json) |
 | The New California | 61649 | [61649-the-new-california.json](./61649-the-new-california.json) |
+| The New Denpa Men | 287886 | [287886-the-new-denpa-men.json](./287886-the-new-denpa-men.json) |
 | The New Earth | 157540 | [157540-the-new-earth.json](./157540-the-new-earth.json) |
 | The New Girl | 96875 | [96875-the-new-girl.json](./96875-the-new-girl.json) |
 | The New Order Victoria 3 | 356270 | [356270-the-new-order-victoria-3.json](./356270-the-new-order-victoria-3.json) |
@@ -7694,6 +7699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Real Texas: Dusty Skies Edition | 51922 | [51922-the-real-texas-dusty-skies-edition.json](./51922-the-real-texas-dusty-skies-edition.json) |
 | The Realm | 292558 | [292558-the-realm.json](./292558-the-realm.json) |
 | The Reaper Survivors | 224760 | [224760-the-reaper-survivors.json](./224760-the-reaper-survivors.json) |
+| The Reason for Your Smile | 287911 | [287911-the-reason-for-your-smile.json](./287911-the-reason-for-your-smile.json) |
 | The Reason Why Raeliana Ended up at the Duke's Mansion: Heika's Colorful Day Out | 170832 | [170832-the-reason-why-raeliana-ended-up-at-the-dukes-mansion-heikas-colorful-day-out.json](./170832-the-reason-why-raeliana-ended-up-at-the-dukes-mansion-heikas-colorful-day-out.json) |
 | The Reasons for It. | 397080 | [397080-the-reasons-for-it.json](./397080-the-reasons-for-it.json) |
 | The Rebel | 33275 | [33275-the-rebel.json](./33275-the-rebel.json) |
@@ -11837,6 +11843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tip Top: Don't Fall! | 217814 | [217814-tip-top-dont-fall.json](./217814-tip-top-dont-fall.json) |
 | Tip-Toeing Around an Empty House | 374173 | [374173-tip-toeing-around-an-empty-house.json](./374173-tip-toeing-around-an-empty-house.json) |
 | Tip-Up Ice Fishing | 178578 | [178578-tip-up-ice-fishing.json](./178578-tip-up-ice-fishing.json) |
+| Tippy Pads | 287883 | [287883-tippy-pads.json](./287883-tippy-pads.json) |
 | Tippy Putts | 401120 | [401120-tippy-putts.json](./401120-tippy-putts.json) |
 | Tippy Train | 245262 | [245262-tippy-train.json](./245262-tippy-train.json) |
 | Tippy Tree | 113041 | [113041-tippy-tree.json](./113041-tippy-tree.json) |
