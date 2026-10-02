@@ -2666,6 +2666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai World: Deluxe Edition | 252208 | [252208-hentai-world-deluxe-edition.json](./252208-hentai-world-deluxe-edition.json) |
 | Hentai World: Expanded Edition | 260683 | [260683-hentai-world-expanded-edition.json](./260683-hentai-world-expanded-edition.json) |
 | Hentai World: Foxy Akane | 251687 | [251687-hentai-world-foxy-akane.json](./251687-hentai-world-foxy-akane.json) |
+| Hentai World: Happy Edition | 279873 | [279873-hentai-world-happy-edition.json](./279873-hentai-world-happy-edition.json) |
 | Hentai World: Kitty Rose | 251686 | [251686-hentai-world-kitty-rose.json](./251686-hentai-world-kitty-rose.json) |
 | Hentai World: Legendary Edition | 268562 | [268562-hentai-world-legendary-edition.json](./268562-hentai-world-legendary-edition.json) |
 | Hentai World: Puppy Nanami | 251685 | [251685-hentai-world-puppy-nanami.json](./251685-hentai-world-puppy-nanami.json) |
@@ -3174,6 +3175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexaverse Adventures | 249252 | [249252-hexaverse-adventures.json](./249252-hexaverse-adventures.json) |
 | HexaWars | 260151 | [260151-hexawars.json](./260151-hexawars.json) |
 | Hexaword | 386725 | [386725-hexaword.json](./386725-hexaword.json) |
+| Hexbot Colony | 279848 | [279848-hexbot-colony.json](./279848-hexbot-colony.json) |
 | HexCasters | 181250 | [181250-hexcasters.json](./181250-hexcasters.json) |
 | Hexceed: Alphard | 397883 | [397883-hexceed-alphard.json](./397883-hexceed-alphard.json) |
 | Hexceed: Aquila | 397882 | [397882-hexceed-aquila.json](./397882-hexceed-aquila.json) |
@@ -4771,6 +4773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoodsters | 259536 | [259536-hoodsters.json](./259536-hoodsters.json) |
 | Hoodwink | 20820 | [20820-hoodwink.json](./20820-hoodwink.json) |
 | Hoofdrekenen | 98950 | [98950-hoofdrekenen.json](./98950-hoofdrekenen.json) |
+| Hoofobia | 279898 | [279898-hoofobia.json](./279898-hoofobia.json) |
 | Hook | 10225 | [10225-hook.json](./10225-hook.json) |
 | Hook | 214611 | [214611-hook.json](./214611-hook.json) |
 | Hook | 78145 | [78145-hook.json](./78145-hook.json) |
