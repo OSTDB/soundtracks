@@ -2832,6 +2832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Gasoline | 291527 | [291527-no-gasoline.json](./291527-no-gasoline.json) |
 | No Ghost in Circus Caravan | 311999 | [311999-no-ghost-in-circus-caravan.json](./311999-no-ghost-in-circus-caravan.json) |
 | No Ghost in Stay Home | 152778 | [152778-no-ghost-in-stay-home.json](./152778-no-ghost-in-stay-home.json) |
+| No Give up | 316675 | [316675-no-give-up.json](./316675-no-give-up.json) |
 | No Gods of Men | 346764 | [346764-no-gods-of-men.json](./346764-no-gods-of-men.json) |
 | No Gods, Only Ducks | 415902 | [415902-no-gods-only-ducks.json](./415902-no-gods-only-ducks.json) |
 | No Gravity: The Plague Of Mind | 42846 | [42846-no-gravity-the-plague-of-mind.json](./42846-no-gravity-the-plague-of-mind.json) |
@@ -3159,6 +3160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noise1 | 134525 | [134525-noise1.json](./134525-noise1.json) |
 | Noisetube | 117481 | [117481-noisetube.json](./117481-noisetube.json) |
 | Noisz Re: Collection G | 270796 | [270796-noisz-re-collection-g.json](./270796-noisz-re-collection-g.json) |
+| Noisz Starlivht: True Heroes | 316706 | [316706-noisz-starlivht-true-heroes.json](./316706-noisz-starlivht-true-heroes.json) |
 | Noisz: DM Ashura Level Pack | 317032 | [317032-noisz-dm-ashura-level-pack.json](./317032-noisz-dm-ashura-level-pack.json) |
 | Noisz: Hyun Level Pack | 317031 | [317031-noisz-hyun-level-pack.json](./317031-noisz-hyun-level-pack.json) |
 | Noitapeli | 249886 | [249886-noitapeli.json](./249886-noitapeli.json) |
