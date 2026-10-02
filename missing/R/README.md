@@ -1977,6 +1977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Panda x Cats Bundle | 331512 | [331512-red-panda-x-cats-bundle.json](./331512-red-panda-x-cats-bundle.json) |
 | Red Passport: Ticket to Russia | 373669 | [373669-red-passport-ticket-to-russia.json](./373669-red-passport-ticket-to-russia.json) |
 | Red Pixel | 59925 | [59925-red-pixel.json](./59925-red-pixel.json) |
+| Red Planet Rampart | 311205 | [311205-red-planet-rampart.json](./311205-red-planet-rampart.json) |
 | Red Planet: Survive | 327919 | [327919-red-planet-survive.json](./327919-red-planet-survive.json) |
 | Red points | 111735 | [111735-red-points.json](./111735-red-points.json) |
 | Red Protocol | 412491 | [412491-red-protocol.json](./412491-red-protocol.json) |
@@ -3793,6 +3794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rim Rockin' Basketball | 40423 | [40423-rim-rockin-basketball.json](./40423-rim-rockin-basketball.json) |
 | Rim Runners | 64661 | [64661-rim-runners.json](./64661-rim-runners.json) |
 | Rim: Battle Planets | 71747 | [71747-rim-battle-planets.json](./71747-rim-battle-planets.json) |
+| Rim: Soul Jar | 311163 | [311163-rim-soul-jar.json](./311163-rim-soul-jar.json) |
 | Rima: The Story Begins | 207859 | [207859-rima-the-story-begins.json](./207859-rima-the-story-begins.json) |
 | Rimal Game | 290535 | [290535-rimal-game.json](./290535-rimal-game.json) |
 | Rimebeard | 153974 | [153974-rimebeard.json](./153974-rimebeard.json) |
