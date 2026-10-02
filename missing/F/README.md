@@ -6017,6 +6017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontiers | 14081 | [14081-frontiers.json](./14081-frontiers.json) |
 | Frontiers | 63353 | [63353-frontiers.json](./63353-frontiers.json) |
 | Frontiers of the Mind | 315519 | [315519-frontiers-of-the-mind.json](./315519-frontiers-of-the-mind.json) |
+| Frontiers Reborn | 329056 | [329056-frontiers-reborn.json](./329056-frontiers-reborn.json) |
 | Frontiers.io: Expansion Pack 1 | 167309 | [167309-frontiers-io-expansion-pack-1.json](./167309-frontiers-io-expansion-pack-1.json) |
 | Frontiers.io: Expansion Pack 2 | 167310 | [167310-frontiers-io-expansion-pack-2.json](./167310-frontiers-io-expansion-pack-2.json) |
 | Frontiers.io: Expansion Pack 3 | 167311 | [167311-frontiers-io-expansion-pack-3.json](./167311-frontiers-io-expansion-pack-3.json) |
