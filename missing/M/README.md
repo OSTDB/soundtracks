@@ -2163,6 +2163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Colony: Frontier | 34643 | [34643-mars-colony-frontier.json](./34643-mars-colony-frontier.json) |
 | Mars Dash | 224013 | [224013-mars-dash.json](./224013-mars-dash.json) |
 | Mars Dragons the Return | 26798 | [26798-mars-dragons-the-return.json](./26798-mars-dragons-the-return.json) |
+| Mars Farce | 322067 | [322067-mars-farce.json](./322067-mars-farce.json) |
 | Mars Farming 2034 | 300845 | [300845-mars-farming-2034.json](./300845-mars-farming-2034.json) |
 | Mars for the Rich | 202382 | [202382-mars-for-the-rich.json](./202382-mars-for-the-rich.json) |
 | Mars Hopper | 341652 | [341652-mars-hopper.json](./341652-mars-hopper.json) |
@@ -4033,6 +4034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megasuki!: Kanojo to Boku no Megane Jijou - Azumino G Sakurako-hen | 416602 | [416602-megasuki-kanojo-to-boku-no-megane-jijou-azumino-g-sakurako-hen.json](./416602-megasuki-kanojo-to-boku-no-megane-jijou-azumino-g-sakurako-hen.json) |
 | Megasuki!: Kanojo to Boku no Megane Jijou - Toono Shiori-hen | 416603 | [416603-megasuki-kanojo-to-boku-no-megane-jijou-toono-shiori-hen.json](./416603-megasuki-kanojo-to-boku-no-megane-jijou-toono-shiori-hen.json) |
 | Megatack | 38576 | [38576-megatack.json](./38576-megatack.json) |
+| Megaton | 322080 | [322080-megaton.json](./322080-megaton.json) |
 | Megaton Musashi W: V Navigator "Dragon" | 301016 | [301016-megaton-musashi-w-v-navigator-dragon.json](./301016-megaton-musashi-w-v-navigator-dragon.json) |
 | Megaton Musashi W: V Navigator "Jibanyan" | 301014 | [301014-megaton-musashi-w-v-navigator-jibanyan.json](./301014-megaton-musashi-w-v-navigator-jibanyan.json) |
 | Megaton Musashi W: V Navigator "Korone Inugami" | 301015 | [301015-megaton-musashi-w-v-navigator-korone-inugami.json](./301015-megaton-musashi-w-v-navigator-korone-inugami.json) |
@@ -5802,6 +5804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Jab | 227846 | [227846-mind-jab.json](./227846-mind-jab.json) |
 | Mind Keeper | 296974 | [296974-mind-keeper.json](./296974-mind-keeper.json) |
 | Mind Labyrinth VR Dreams | 100311 | [100311-mind-labyrinth-vr-dreams.json](./100311-mind-labyrinth-vr-dreams.json) |
+| Mind Loop | 322063 | [322063-mind-loop.json](./322063-mind-loop.json) |
 | Mind Lure | 373667 | [373667-mind-lure.json](./373667-mind-lure.json) |
 | Mind Maze | 100308 | [100308-mind-maze.json](./100308-mind-maze.json) |
 | Mind Medley | 209509 | [209509-mind-medley.json](./209509-mind-medley.json) |
@@ -8172,6 +8175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | More Easter Eggs! | 96051 | [96051-more-easter-eggs.json](./96051-more-easter-eggs.json) |
 | More Fun with The Wiggles | 274215 | [274215-more-fun-with-the-wiggles.json](./274215-more-fun-with-the-wiggles.json) |
 | More Invaders! | 273100 | [273100-more-invaders.json](./273100-more-invaders.json) |
+| More Lies | 322084 | [322084-more-lies.json](./322084-more-lies.json) |
 | More Objects Mod | 315011 | [315011-more-objects-mod.json](./315011-more-objects-mod.json) |
 | More of a Kind | 185597 | [185597-more-of-a-kind.json](./185597-more-of-a-kind.json) |
 | More or Less | 261256 | [261256-more-or-less.json](./261256-more-or-less.json) |
