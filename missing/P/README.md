@@ -837,6 +837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Mario: Showtime!! | 318522 | [318522-paper-mario-showtime.json](./318522-paper-mario-showtime.json) |
 | Paper Mario: Star Nova | 358284 | [358284-paper-mario-star-nova.json](./358284-paper-mario-star-nova.json) |
 | Paper Mario: Sticker Star | 3350 | [3350-paper-mario-sticker-star.json](./3350-paper-mario-sticker-star.json) |
+| Paper Mario: The Origami King Refolded | 281008 | [281008-paper-mario-the-origami-king-refolded.json](./281008-paper-mario-the-origami-king-refolded.json) |
 | Paper Mario: The Thousand-Year Door | 266690 | [266690-paper-mario-the-thousand-year-door.json](./266690-paper-mario-the-thousand-year-door.json) |
 | Paper Mario: The Thousand-Year Door | 328663 | [328663-paper-mario-the-thousand-year-door.json](./328663-paper-mario-the-thousand-year-door.json) |
 | Paper Mario: The Thousand-Year Door - Hero Mode | 257966 | [257966-paper-mario-the-thousand-year-door-hero-mode.json](./257966-paper-mario-the-thousand-year-door-hero-mode.json) |
@@ -3278,6 +3279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin 2 | 254335 | [254335-pikmin-2.json](./254335-pikmin-2.json) |
 | Pikmin 2 | 84697 | [84697-pikmin-2.json](./84697-pikmin-2.json) |
 | Pikmin 2 Hallows Haunt | 291158 | [291158-pikmin-2-hallows-haunt.json](./291158-pikmin-2-hallows-haunt.json) |
+| Pikmin 2 Infernal Edition | 281009 | [281009-pikmin-2-infernal-edition.json](./281009-pikmin-2-infernal-edition.json) |
 | Pikmin 2 Kaizo Edition | 291560 | [291560-pikmin-2-kaizo-edition.json](./291560-pikmin-2-kaizo-edition.json) |
 | Pikmin 2 Lands of Torture | 292126 | [292126-pikmin-2-lands-of-torture.json](./292126-pikmin-2-lands-of-torture.json) |
 | Pikmin 2 Maps in Pikmin 3 | 294792 | [294792-pikmin-2-maps-in-pikmin-3.json](./294792-pikmin-2-maps-in-pikmin-3.json) |
@@ -3291,6 +3293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin 3 Deluxe | 136498 | [136498-pikmin-3-deluxe.json](./136498-pikmin-3-deluxe.json) |
 | Pikmin 3 DX: Caves Reborn | 313484 | [313484-pikmin-3-dx-caves-reborn.json](./313484-pikmin-3-dx-caves-reborn.json) |
 | Pikmin Finder | 264892 | [264892-pikmin-finder.json](./264892-pikmin-finder.json) |
+| Pikmin Lost Hope | 281012 | [281012-pikmin-lost-hope.json](./281012-pikmin-lost-hope.json) |
 | Pikmin Maps in Minecraft | 313469 | [313469-pikmin-maps-in-minecraft.json](./313469-pikmin-maps-in-minecraft.json) |
 | Pikmin Puzzle Card e+ | 220852 | [220852-pikmin-puzzle-card-e.json](./220852-pikmin-puzzle-card-e.json) |
 | Pikmin Puzzle Card e+: Hikkonuki Pikmin - Olimar | 353505 | [353505-pikmin-puzzle-card-e-hikkonuki-pikmin-olimar.json](./353505-pikmin-puzzle-card-e-hikkonuki-pikmin-olimar.json) |
