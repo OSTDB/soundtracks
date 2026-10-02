@@ -8415,6 +8415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Golf | 261242 | [261242-sonic-golf.json](./261242-sonic-golf.json) |
 | Sonic Golf 3D | 261280 | [261280-sonic-golf-3d.json](./261280-sonic-golf-3d.json) |
 | Sonic Golf DX | 261294 | [261294-sonic-golf-dx.json](./261294-sonic-golf-dx.json) |
+| Sonic Groove | 331532 | [331532-sonic-groove.json](./331532-sonic-groove.json) |
 | Sonic Head On | 237487 | [237487-sonic-head-on.json](./237487-sonic-head-on.json) |
 | Sonic Headway | 331713 | [331713-sonic-headway.json](./331713-sonic-headway.json) |
 | Sonic Heardle | 198251 | [198251-sonic-heardle.json](./198251-sonic-heardle.json) |
@@ -8460,6 +8461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Mania Randomizer | 386230 | [386230-sonic-mania-randomizer.json](./386230-sonic-mania-randomizer.json) |
 | Sonic Mania: Collector's Edition | 25684 | [25684-sonic-mania-collectors-edition.json](./25684-sonic-mania-collectors-edition.json) |
 | Sonic Mars Remake | 332576 | [332576-sonic-mars-remake.json](./332576-sonic-mars-remake.json) |
+| Sonic Matrix | 331397 | [331397-sonic-matrix.json](./331397-sonic-matrix.json) |
 | Sonic Maze Craze | 273985 | [273985-sonic-maze-craze.json](./273985-sonic-maze-craze.json) |
 | Sonic McOrigins Plus | 265230 | [265230-sonic-mcorigins-plus.json](./265230-sonic-mcorigins-plus.json) |
 | Sonic Medley | 326999 | [326999-sonic-medley.json](./326999-sonic-medley.json) |
@@ -8514,6 +8516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Racing: CrossWorlds - SpongeBob SquarePants Pack | 375166 | [375166-sonic-racing-crossworlds-spongebob-squarepants-pack.json](./375166-sonic-racing-crossworlds-spongebob-squarepants-pack.json) |
 | Sonic Racing: CrossWorlds - Teenage Mutant Ninja Turtles Mutant Mayhem Pack | 375168 | [375168-sonic-racing-crossworlds-teenage-mutant-ninja-turtles-mutant-mayhem-pack.json](./375168-sonic-racing-crossworlds-teenage-mutant-ninja-turtles-mutant-mayhem-pack.json) |
 | Sonic Racing: CrossWorlds - Werehog Pack | 408746 | [408746-sonic-racing-crossworlds-werehog-pack.json](./408746-sonic-racing-crossworlds-werehog-pack.json) |
+| Sonic Reactor | 331398 | [331398-sonic-reactor.json](./331398-sonic-reactor.json) |
 | Sonic Realmz | 326996 | [326996-sonic-realmz.json](./326996-sonic-realmz.json) |
 | Sonic Rebirth | 326821 | [326821-sonic-rebirth.json](./326821-sonic-rebirth.json) |
 | Sonic Recharged | 317356 | [317356-sonic-recharged.json](./317356-sonic-recharged.json) |
@@ -8645,6 +8648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog Turbo | 331708 | [331708-sonic-the-hedgehog-turbo.json](./331708-sonic-the-hedgehog-turbo.json) |
 | Sonic the Hedgehog TX | 336381 | [336381-sonic-the-hedgehog-tx.json](./336381-sonic-the-hedgehog-tx.json) |
 | Sonic the Hedgehog Vol.2 | 198533 | [198533-sonic-the-hedgehog-vol-2.json](./198533-sonic-the-hedgehog-vol-2.json) |
+| Sonic the Hedgehog: Chaos Spirits | 331396 | [331396-sonic-the-hedgehog-chaos-spirits.json](./331396-sonic-the-hedgehog-chaos-spirits.json) |
 | Sonic the Hedgehog: Character Pak | 198542 | [198542-sonic-the-hedgehog-character-pak.json](./198542-sonic-the-hedgehog-character-pak.json) |
 | Sonic the Hedgehog: Egg on Toast Edition | 129183 | [129183-sonic-the-hedgehog-egg-on-toast-edition.json](./129183-sonic-the-hedgehog-egg-on-toast-edition.json) |
 | Sonic The Hedgehog: Electro Block | 313323 | [313323-sonic-the-hedgehog-electro-block.json](./313323-sonic-the-hedgehog-electro-block.json) |
@@ -12349,6 +12353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Troopers | 245392 | [245392-starship-troopers.json](./245392-starship-troopers.json) |
 | Starship Troopers TC | 218116 | [218116-starship-troopers-tc.json](./218116-starship-troopers-tc.json) |
 | Starship Troopers: Battlespace | 72724 | [72724-starship-troopers-battlespace.json](./72724-starship-troopers-battlespace.json) |
+| Starship Troopers: Extermination - Warrior Tiger Bundle | 331519 | [331519-starship-troopers-extermination-warrior-tiger-bundle.json](./331519-starship-troopers-extermination-warrior-tiger-bundle.json) |
 | Starship Troopers: Terran Command - Urban Onslaught | 298054 | [298054-starship-troopers-terran-command-urban-onslaught.json](./298054-starship-troopers-terran-command-urban-onslaught.json) |
 | StarShip Wars | 389422 | [389422-starship-wars.json](./389422-starship-wars.json) |
 | Starship: Invasion | 69889 | [69889-starship-invasion.json](./69889-starship-invasion.json) |
@@ -13884,6 +13889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stuffo the Puzzle Bot | 236848 | [236848-stuffo-the-puzzle-bot.json](./236848-stuffo-the-puzzle-bot.json) |
 | Stug | 180219 | [180219-stug.json](./180219-stug.json) |
 | Stumble And Fall | 310388 | [310388-stumble-and-fall.json](./310388-stumble-and-fall.json) |
+| Stumble Guys: Burger Banger | 331462 | [331462-stumble-guys-burger-banger.json](./331462-stumble-guys-burger-banger.json) |
 | Stumble Guys: Founder's Pack Bundle | 313218 | [313218-stumble-guys-founders-pack-bundle.json](./313218-stumble-guys-founders-pack-bundle.json) |
 | Stumble Guys: Polygon Guy Banger | 332037 | [332037-stumble-guys-polygon-guy-banger.json](./332037-stumble-guys-polygon-guy-banger.json) |
 | Stumblehill | 117510 | [117510-stumblehill.json](./117510-stumblehill.json) |
@@ -14335,6 +14341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suika Puffworks | 373668 | [373668-suika-puffworks.json](./373668-suika-puffworks.json) |
 | Suika Shapes | 276165 | [276165-suika-shapes.json](./276165-suika-shapes.json) |
 | Suika Wan! | 397064 | [397064-suika-wan.json](./397064-suika-wan.json) |
+| Suikaiju | 331520 | [331520-suikaiju.json](./331520-suikaiju.json) |
 | Suikan Quest | 82857 | [82857-suikan-quest.json](./82857-suikan-quest.json) |
 | Suikarad Gold | 280766 | [280766-suikarad-gold.json](./280766-suikarad-gold.json) |
 | Suikawa Lead | 316290 | [316290-suikawa-lead.json](./316290-suikawa-lead.json) |
@@ -14717,6 +14724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Artificial Intelligence Psike | 216871 | [216871-super-artificial-intelligence-psike.json](./216871-super-artificial-intelligence-psike.json) |
 | Super Asqr | 199370 | [199370-super-asqr.json](./199370-super-asqr.json) |
 | Super Assfuck RPG | 282096 | [282096-super-assfuck-rpg.json](./282096-super-assfuck-rpg.json) |
+| Super Astro Cat | 331521 | [331521-super-astro-cat.json](./331521-super-astro-cat.json) |
 | Super Astro Fighter | 60200 | [60200-super-astro-fighter.json](./60200-super-astro-fighter.json) |
 | Super Astro Space Blast | 387542 | [387542-super-astro-space-blast.json](./387542-super-astro-space-blast.json) |
 | Super Ate in Wonderland | 195192 | [195192-super-ate-in-wonderland.json](./195192-super-ate-in-wonderland.json) |
