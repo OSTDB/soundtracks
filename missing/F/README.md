@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-Zero Climax | 6400 | [6400-f-zero-climax.json](./6400-f-zero-climax.json) |
 | F-Zero DSX | 313346 | [313346-f-zero-dsx.json](./313346-f-zero-dsx.json) |
 | F-Zero GX | 3492 | [3492-f-zero-gx.json](./3492-f-zero-gx.json) |
+| F-Zero GX Demake Overdrive | 290106 | [290106-f-zero-gx-demake-overdrive.json](./290106-f-zero-gx-demake-overdrive.json) |
 | F-Zero X | 3489 | [3489-f-zero-x.json](./3489-f-zero-x.json) |
 | F-Zero X Climax | 135258 | [135258-f-zero-x-climax.json](./135258-f-zero-x-climax.json) |
 | F-Zero ZX Overdrive | 173084 | [173084-f-zero-zx-overdrive.json](./173084-f-zero-zx-overdrive.json) |
@@ -6839,6 +6840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futbol Kicks | 324992 | [324992-futbol-kicks.json](./324992-futbol-kicks.json) |
 | Futbolín Revolution | 138020 | [138020-futbolin-revolution.json](./138020-futbolin-revolution.json) |
 | Futebol | 92984 | [92984-futebol.json](./92984-futebol.json) |
+| Futebol de Tampinhas | 290090 | [290090-futebol-de-tampinhas.json](./290090-futebol-de-tampinhas.json) |
 | Futilitris | 138152 | [138152-futilitris.json](./138152-futilitris.json) |
 | Futr8 | 231339 | [231339-futr8.json](./231339-futr8.json) |
 | FutSim | 276783 | [276783-futsim.json](./276783-futsim.json) |
