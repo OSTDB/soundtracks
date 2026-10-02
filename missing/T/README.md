@@ -2325,6 +2325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terror Diversion | 318013 | [318013-terror-diversion.json](./318013-terror-diversion.json) |
 | Terror for Two | 110167 | [110167-terror-for-two.json](./110167-terror-for-two.json) |
 | Terror House | 62798 | [62798-terror-house.json](./62798-terror-house.json) |
+| Terror In The Corn | 319649 | [319649-terror-in-the-corn.json](./319649-terror-in-the-corn.json) |
 | Terror in the Kitchen | 257897 | [257897-terror-in-the-kitchen.json](./257897-terror-in-the-kitchen.json) |
 | Terror Lab | 33391 | [33391-terror-lab.json](./33391-terror-lab.json) |
 | Terror Mansion | 283836 | [283836-terror-mansion.json](./283836-terror-mansion.json) |
@@ -6369,6 +6370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lilliput Workshop | 205249 | [205249-the-lilliput-workshop.json](./205249-the-lilliput-workshop.json) |
 | The Lilows 2 | 239888 | [239888-the-lilows-2.json](./239888-the-lilows-2.json) |
 | The Lima Project | 271492 | [271492-the-lima-project.json](./271492-the-lima-project.json) |
+| The Limb | 319694 | [319694-the-limb.json](./319694-the-limb.json) |
 | The Limbo of Loss | 183345 | [183345-the-limbo-of-loss.json](./183345-the-limbo-of-loss.json) |
 | The Liminal | 372130 | [372130-the-liminal.json](./372130-the-liminal.json) |
 | The Liminal Space | 289988 | [289988-the-liminal-space.json](./289988-the-liminal-space.json) |
@@ -9117,7 +9119,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The VIllage of Eri | 289953 | [289953-the-village-of-eri.json](./289953-the-village-of-eri.json) |
 | The Village Story | 169776 | [169776-the-village-story.json](./169776-the-village-story.json) |
 | The Villager and the Werewolf | 221154 | [221154-the-villager-and-the-werewolf.json](./221154-the-villager-and-the-werewolf.json) |
+| The Villain Simulator | 319671 | [319671-the-villain-simulator.json](./319671-the-villain-simulator.json) |
 | The Villainess Just Wants to Eat!! | 264327 | [264327-the-villainess-just-wants-to-eat.json](./264327-the-villainess-just-wants-to-eat.json) |
+| The Villainess Quits | 319674 | [319674-the-villainess-quits.json](./319674-the-villainess-quits.json) |
 | The Violets of Amicus | 327330 | [327330-the-violets-of-amicus.json](./327330-the-violets-of-amicus.json) |
 | The Viriditas Chapel of Perpetual Adoration | 241381 | [241381-the-viriditas-chapel-of-perpetual-adoration.json](./241381-the-viriditas-chapel-of-perpetual-adoration.json) |
 | The Virtual Museum of Dead-Wifery | 188617 | [188617-the-virtual-museum-of-dead-wifery.json](./188617-the-virtual-museum-of-dead-wifery.json) |
@@ -11960,6 +11964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toasty: Ashes of Dusk | 144275 | [144275-toasty-ashes-of-dusk.json](./144275-toasty-ashes-of-dusk.json) |
 | Toazzle | 90856 | [90856-toazzle.json](./90856-toazzle.json) |
 | Tob Run | 359062 | [359062-tob-run.json](./359062-tob-run.json) |
+| Tobacco Shop Simulator | 319666 | [319666-tobacco-shop-simulator.json](./319666-tobacco-shop-simulator.json) |
 | TOBAFCASS | 12887 | [12887-tobafcass.json](./12887-tobafcass.json) |
 | Tobal 2 | 1662 | [1662-tobal-2.json](./1662-tobal-2.json) |
 | Tobari 2: Dream Ocean | 135815 | [135815-tobari-2-dream-ocean.json](./135815-tobari-2-dream-ocean.json) |
@@ -14772,6 +14777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trax: Build it Race it | 105939 | [105939-trax-build-it-race-it.json](./105939-trax-build-it-race-it.json) |
 | Trax: The Robot Wars | 62160 | [62160-trax-the-robot-wars.json](./62160-trax-the-robot-wars.json) |
 | Traxion | 257688 | [257688-traxion.json](./257688-traxion.json) |
+| Traxion 3000 | 319663 | [319663-traxion-3000.json](./319663-traxion-3000.json) |
 | TraxWorld | 190167 | [190167-traxworld.json](./190167-traxworld.json) |
 | Traxxpad: Portable Studio | 71039 | [71039-traxxpad-portable-studio.json](./71039-traxxpad-portable-studio.json) |
 | Tray Racers! | 204540 | [204540-tray-racers.json](./204540-tray-racers.json) |
@@ -15493,6 +15499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Love For Her | 297042 | [297042-true-love-for-her.json](./297042-true-love-for-her.json) |
 | True Love Story 3 | 138012 | [138012-true-love-story-3.json](./138012-true-love-story-3.json) |
 | True Nightmare: Diner Loop | 413209 | [413209-true-nightmare-diner-loop.json](./413209-true-nightmare-diner-loop.json) |
+| True Nightmare: Roadside Сafe | 319642 | [319642-true-nightmare-roadside-afe.json](./319642-true-nightmare-roadside-afe.json) |
 | True or False | 96483 | [96483-true-or-false.json](./96483-true-or-false.json) |
 | True or False 2 | 29717 | [29717-true-or-false-2.json](./29717-true-or-false-2.json) |
 | True Pinball | 9131 | [9131-true-pinball.json](./9131-true-pinball.json) |
