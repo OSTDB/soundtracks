@@ -2380,6 +2380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cavesleeper | 371372 | [371372-cavesleeper.json](./371372-cavesleeper.json) |
 | Cavesweeper | 103816 | [103816-cavesweeper.json](./103816-cavesweeper.json) |
 | Caveworks | 383522 | [383522-caveworks.json](./383522-caveworks.json) |
+| CavEX | 293331 | [293331-cavex.json](./293331-cavex.json) |
 | Cavrncrate | 318513 | [318513-cavrncrate.json](./318513-cavrncrate.json) |
 | Cavy Chronicles | 281984 | [281984-cavy-chronicles.json](./281984-cavy-chronicles.json) |
 | Cawcaknight | 417695 | [417695-cawcaknight.json](./417695-cawcaknight.json) |
@@ -4274,6 +4275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CircL | 185080 | [185080-circl.json](./185080-circl.json) |
 | Circle | 129066 | [129066-circle.json](./129066-circle.json) |
 | Circle | 289387 | [289387-circle.json](./289387-circle.json) |
+| Circle = Circle | 293853 | [293853-circle-circle.json](./293853-circle-circle.json) |
 | Circle Breakout | 128577 | [128577-circle-breakout.json](./128577-circle-breakout.json) |
 | Circle Empires | 104937 | [104937-circle-empires.json](./104937-circle-empires.json) |
 | Circle of Blood | 616 | [616-circle-of-blood.json](./616-circle-of-blood.json) |
@@ -4778,6 +4780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic64 | 308474 | [308474-classic64.json](./308474-classic64.json) |
 | Classical Jukebox | 175933 | [175933-classical-jukebox.json](./175933-classical-jukebox.json) |
 | ClassiCube | 117562 | [117562-classicube.json](./117562-classicube.json) |
+| Classified of 2015 | 293336 | [293336-classified-of-2015.json](./293336-classified-of-2015.json) |
 | Classified Stories: Color Out of Space | 190951 | [190951-classified-stories-color-out-of-space.json](./190951-classified-stories-color-out-of-space.json) |
 | Classified Stories: The Tome of Myrkah | 109725 | [109725-classified-stories-the-tome-of-myrkah.json](./109725-classified-stories-the-tome-of-myrkah.json) |
 | Classified: Death in the Alley | 253991 | [253991-classified-death-in-the-alley.json](./253991-classified-death-in-the-alley.json) |
@@ -4849,6 +4852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleaner Simulator 2026 | 391254 | [391254-cleaner-simulator-2026.json](./391254-cleaner-simulator-2026.json) |
 | Cleaning Girls | 258174 | [258174-cleaning-girls.json](./258174-cleaning-girls.json) |
 | Cleaning house | 176350 | [176350-cleaning-house.json](./176350-cleaning-house.json) |
+| Cleaning Queens 2: Sparkling Palace | 293367 | [293367-cleaning-queens-2-sparkling-palace.json](./293367-cleaning-queens-2-sparkling-palace.json) |
 | Cleaning Redville | 217873 | [217873-cleaning-redville.json](./217873-cleaning-redville.json) |
 | Cleaning Robot Match: Scatter Battlers | 151672 | [151672-cleaning-robot-match-scatter-battlers.json](./151672-cleaning-robot-match-scatter-battlers.json) |
 | Cleaning Service | 183544 | [183544-cleaning-service.json](./183544-cleaning-service.json) |
@@ -5567,6 +5571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coins Only! | 373113 | [373113-coins-only.json](./373113-coins-only.json) |
 | Coiny Block | 98441 | [98441-coiny-block.json](./98441-coiny-block.json) |
 | Coke Bugs | 265398 | [265398-coke-bugs.json](./265398-coke-bugs.json) |
+| Col:Verse | 293830 | [293830-col-verse.json](./293830-col-verse.json) |
 | CoLab | 31943 | [31943-colab.json](./31943-colab.json) |
 | CoLane | 405666 | [405666-colane.json](./405666-colane.json) |
 | Cold | 344370 | [344370-cold.json](./344370-cold.json) |
@@ -5785,6 +5790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Dots Connect | 148569 | [148569-color-dots-connect.json](./148569-color-dots-connect.json) |
 | Color Dots! | 65572 | [65572-color-dots.json](./65572-color-dots.json) |
 | Color Energy: Blow the monster! | 323223 | [323223-color-energy-blow-the-monster.json](./323223-color-energy-blow-the-monster.json) |
+| Color Escape: The Love Levels | 293867 | [293867-color-escape-the-love-levels.json](./293867-color-escape-the-love-levels.json) |
 | Color Fan | 315059 | [315059-color-fan.json](./315059-color-fan.json) |
 | Color Fear | 296656 | [296656-color-fear.json](./296656-color-fear.json) |
 | Color Fusion Fever | 278165 | [278165-color-fusion-fever.json](./278165-color-fusion-fever.json) |
@@ -6158,6 +6164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comic Sakka Series Touma Senki #4: Tenkuu Ryuumaou Fukkatsu | 41351 | [41351-comic-sakka-series-touma-senki-4-tenkuu-ryuumaou-fukkatsu.json](./41351-comic-sakka-series-touma-senki-4-tenkuu-ryuumaou-fukkatsu.json) |
 | Comic Sakka Series Touma Senki #5: Youjuu Rudo no Chousen | 41350 | [41350-comic-sakka-series-touma-senki-5-youjuu-rudo-no-chousen.json](./41350-comic-sakka-series-touma-senki-5-youjuu-rudo-no-chousen.json) |
 | Comicado | 16858 | [16858-comicado.json](./16858-comicado.json) |
+| ComicBachiCooon!! | 293833 | [293833-comicbachicooon.json](./293833-comicbachicooon.json) |
 | Coming Back | 183545 | [183545-coming-back.json](./183545-coming-back.json) |
 | Coming From Above! | 338881 | [338881-coming-from-above.json](./338881-coming-from-above.json) |
 | Coming Home | 347152 | [347152-coming-home.json](./347152-coming-home.json) |
