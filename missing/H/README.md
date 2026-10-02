@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Habitat | 181243 | [181243-habitat.json](./181243-habitat.json) |
 | Habitat Complex | 312896 | [312896-habitat-complex.json](./312896-habitat-complex.json) |
 | Habitat Shapes: The Tropical Journey | 401127 | [401127-habitat-shapes-the-tropical-journey.json](./401127-habitat-shapes-the-tropical-journey.json) |
+| Habitatrix | 292242 | [292242-habitatrix.json](./292242-habitatrix.json) |
 | Habitica | 395187 | [395187-habitica.json](./395187-habitica.json) |
 | Habitrail Hamster Ball | 9606 | [9606-habitrail-hamster-ball.json](./9606-habitrail-hamster-ball.json) |
 | Habitus | 34647 | [34647-habitus.json](./34647-habitus.json) |
@@ -91,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack.bak | 386363 | [386363-hack-bak.json](./386363-hack-bak.json) |
 | Hack.ing | 290927 | [290927-hack-ing.json](./290927-hack-ing.json) |
 | Hacker | 12131 | [12131-hacker.json](./12131-hacker.json) |
+| Hacker | 292252 | [292252-hacker.json](./292252-hacker.json) |
 | Hacker Ball | 185128 | [185128-hacker-ball.json](./185128-hacker-ball.json) |
 | Hacker Clicker | 183903 | [183903-hacker-clicker.json](./183903-hacker-clicker.json) |
 | Hacker Evolution Duality | 10393 | [10393-hacker-evolution-duality.json](./10393-hacker-evolution-duality.json) |
