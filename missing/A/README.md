@@ -608,6 +608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Witch's Stop | 382374 | [382374-a-witchs-stop.json](./382374-a-witchs-stop.json) |
 | A Wizard's Curse | 416855 | [416855-a-wizards-curse.json](./416855-a-wizards-curse.json) |
 | A Wizard's Odyssey | 68651 | [68651-a-wizards-odyssey.json](./68651-a-wizards-odyssey.json) |
+| A Woman for All Seasons | 323217 | [323217-a-woman-for-all-seasons.json](./323217-a-woman-for-all-seasons.json) |
 | A Wonder | 75164 | [75164-a-wonder.json](./75164-a-wonder.json) |
 | A Work of Art | 319801 | [319801-a-work-of-art.json](./319801-a-work-of-art.json) |
 | A Worker's Guide to Espionage | 144245 | [144245-a-workers-guide-to-espionage.json](./144245-a-workers-guide-to-espionage.json) |
@@ -4240,7 +4241,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Island Tour | 210752 | [210752-angel-island-tour.json](./210752-angel-island-tour.json) |
 | Angel Legion: Chain Trace - Orange | 321958 | [321958-angel-legion-chain-trace-orange.json](./321958-angel-legion-chain-trace-orange.json) |
 | Angel Legion: Chain Trace - Red | 332605 | [332605-angel-legion-chain-trace-red.json](./332605-angel-legion-chain-trace-red.json) |
+| Angel Legion: Future Dream - Green | 323231 | [323231-angel-legion-future-dream-green.json](./323231-angel-legion-future-dream-green.json) |
 | Angel Legion: Oriental - Purple | 254160 | [254160-angel-legion-oriental-purple.json](./254160-angel-legion-oriental-purple.json) |
+| Angel Legion: Shadow Woven - Blue | 323253 | [323253-angel-legion-shadow-woven-blue.json](./323253-angel-legion-shadow-woven-blue.json) |
 | Angel Night | 314651 | [314651-angel-night.json](./314651-angel-night.json) |
 | Angel of Death | 269285 | [269285-angel-of-death.json](./269285-angel-of-death.json) |
 | Angel Paradise Vol. 1: Sakaki Yuko - Koi no Yokan in Hollywood | 45439 | [45439-angel-paradise-vol-1-sakaki-yuko-koi-no-yokan-in-hollywood.json](./45439-angel-paradise-vol-1-sakaki-yuko-koi-no-yokan-in-hollywood.json) |
@@ -4947,6 +4950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ant Smasher Christmas | 352174 | [352174-ant-smasher-christmas.json](./352174-ant-smasher-christmas.json) |
 | Ant War: Kingdom Battles | 255722 | [255722-ant-war-kingdom-battles.json](./255722-ant-war-kingdom-battles.json) |
 | Ant Workers Simulator | 362437 | [362437-ant-workers-simulator.json](./362437-ant-workers-simulator.json) |
+| Ant: Protect The Queen | 323219 | [323219-ant-protect-the-queen.json](./323219-ant-protect-the-queen.json) |
 | Antagonist | 27869 | [27869-antagonist.json](./27869-antagonist.json) |
 | Antarah | 326691 | [326691-antarah.json](./326691-antarah.json) |
 | Antarctic Adventure | 239172 | [239172-antarctic-adventure.json](./239172-antarctic-adventure.json) |
