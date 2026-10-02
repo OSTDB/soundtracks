@@ -5401,6 +5401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Corogarena | 309595 | [309595-pokemon-corogarena.json](./309595-pokemon-corogarena.json) |
 | Pokémon Covenant | 320277 | [320277-pokemon-covenant.json](./320277-pokemon-covenant.json) |
 | Pokémon Cross Stadium | 281394 | [281394-pokemon-cross-stadium.json](./281394-pokemon-cross-stadium.json) |
+| Pokémon Crown | 300330 | [300330-pokemon-crown.json](./300330-pokemon-crown.json) |
 | Pokémon Crystal 251 | 312377 | [312377-pokemon-crystal-251.json](./312377-pokemon-crystal-251.json) |
 | Pokémon Crystal Inheritance | 408208 | [408208-pokemon-crystal-inheritance.json](./408208-pokemon-crystal-inheritance.json) |
 | Pokémon Crystal Kaizo | 210705 | [210705-pokemon-crystal-kaizo.json](./210705-pokemon-crystal-kaizo.json) |
@@ -5514,6 +5515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Nightmare Version: Invasion | 279053 | [279053-pokemon-nightmare-version-invasion.json](./279053-pokemon-nightmare-version-invasion.json) |
 | Pokémon Nova | 406870 | [406870-pokemon-nova.json](./406870-pokemon-nova.json) |
 | Pokemon Nova Sun | 288201 | [288201-pokemon-nova-sun.json](./288201-pokemon-nova-sun.json) |
+| Pokémon Odyssey | 300329 | [300329-pokemon-odyssey.json](./300329-pokemon-odyssey.json) |
 | Pokémon Omega Ruby and Alpha Sapphire Special Demo Version | 313320 | [313320-pokemon-omega-ruby-and-alpha-sapphire-special-demo-version.json](./313320-pokemon-omega-ruby-and-alpha-sapphire-special-demo-version.json) |
 | Pokémon Omega Ruby and Pokémon Alpha Sapphire Dual Pack | 159108 | [159108-pokemon-omega-ruby-and-pokemon-alpha-sapphire-dual-pack.json](./159108-pokemon-omega-ruby-and-pokemon-alpha-sapphire-dual-pack.json) |
 | Pokémon Online | 311459 | [311459-pokemon-online.json](./311459-pokemon-online.json) |
@@ -7184,6 +7186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Gang Wars | 268982 | [268982-prison-gang-wars.json](./268982-prison-gang-wars.json) |
 | Prison Girl | 150645 | [150645-prison-girl.json](./150645-prison-girl.json) |
 | Prison Life: Idle Game | 408750 | [408750-prison-life-idle-game.json](./408750-prison-life-idle-game.json) |
+| Prison Loop | 300350 | [300350-prison-loop.json](./300350-prison-loop.json) |
 | Prison Manager 2 | 194002 | [194002-prison-manager-2.json](./194002-prison-manager-2.json) |
 | Prison Miners | 333546 | [333546-prison-miners.json](./333546-prison-miners.json) |
 | Prison of Husks | 269682 | [269682-prison-of-husks.json](./269682-prison-of-husks.json) |
@@ -8854,6 +8857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Mania: Chronicles of the Unicorn | 73523 | [73523-puzzle-mania-chronicles-of-the-unicorn.json](./73523-puzzle-mania-chronicles-of-the-unicorn.json) |
 | Puzzle Master | 49951 | [49951-puzzle-master.json](./49951-puzzle-master.json) |
 | Puzzle Master 2 | 145642 | [145642-puzzle-master-2.json](./145642-puzzle-master-2.json) |
+| Puzzle Master 64 | 300253 | [300253-puzzle-master-64.json](./300253-puzzle-master-64.json) |
 | Puzzle Masters | 104657 | [104657-puzzle-masters.json](./104657-puzzle-masters.json) |
 | Puzzle Masters | 312682 | [312682-puzzle-masters.json](./312682-puzzle-masters.json) |
 | Puzzle Mate DS: Crossword Mate | 306451 | [306451-puzzle-mate-ds-crossword-mate.json](./306451-puzzle-mate-ds-crossword-mate.json) |
