@@ -1300,6 +1300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carousel | 13700 | [13700-carousel.json](./13700-carousel.json) |
 | Carousel | 261887 | [261887-carousel.json](./261887-carousel.json) |
 | Carpark Hero | 404216 | [404216-carpark-hero.json](./404216-carpark-hero.json) |
+| Carpathian Night Starring Bela Lugosi | 330234 | [330234-carpathian-night-starring-bela-lugosi.json](./330234-carpathian-night-starring-bela-lugosi.json) |
 | Carpathian Survival | 315263 | [315263-carpathian-survival.json](./315263-carpathian-survival.json) |
 | Carpe Diem Project | 226297 | [226297-carpe-diem-project.json](./226297-carpe-diem-project.json) |
 | Carpe Noctem | 309372 | [309372-carpe-noctem.json](./309372-carpe-noctem.json) |
@@ -2160,6 +2161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Spotter | 307322 | [307322-cats-spotter.json](./307322-cats-spotter.json) |
 | Cats Story | 336025 | [336025-cats-story.json](./336025-cats-story.json) |
 | Cats Super Bundle | 268567 | [268567-cats-super-bundle.json](./268567-cats-super-bundle.json) |
+| Cats the Commander for Nintendo Switch | 330235 | [330235-cats-the-commander-for-nintendo-switch.json](./330235-cats-the-commander-for-nintendo-switch.json) |
 | Cats Visiting Christmas Town | 325663 | [325663-cats-visiting-christmas-town.json](./325663-cats-visiting-christmas-town.json) |
 | Cats Visiting Lunar New Year | 328566 | [328566-cats-visiting-lunar-new-year.json](./328566-cats-visiting-lunar-new-year.json) |
 | Cats Visiting Underwater World | 328542 | [328542-cats-visiting-underwater-world.json](./328542-cats-visiting-underwater-world.json) |
@@ -3447,6 +3449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Children's Jigsaw Puzzles: Beautifully Illustrated - Expansion Pack | 225859 | [225859-childrens-jigsaw-puzzles-beautifully-illustrated-expansion-pack.json](./225859-childrens-jigsaw-puzzles-beautifully-illustrated-expansion-pack.json) |
 | Chilie Peppers | 82004 | [82004-chilie-peppers.json](./82004-chilie-peppers.json) |
 | Chill | 79608 | [79608-chill.json](./79608-chill.json) |
+| Chill Drive | 330387 | [330387-chill-drive.json](./330387-chill-drive.json) |
 | Chill Fishing | 337457 | [337457-chill-fishing.json](./337457-chill-fishing.json) |
 | Chill of Death's: Breath | 269280 | [269280-chill-of-deaths-breath.json](./269280-chill-of-deaths-breath.json) |
 | Chill Out | 335474 | [335474-chill-out.json](./335474-chill-out.json) |
@@ -3853,6 +3856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Time 2019 | 114326 | [114326-christmas-time-2019.json](./114326-christmas-time-2019.json) |
 | Christmas Town: Passion House | 207795 | [207795-christmas-town-passion-house.json](./207795-christmas-town-passion-house.json) |
 | Christmas Tree Decorating Simulator | 324993 | [324993-christmas-tree-decorating-simulator.json](./324993-christmas-tree-decorating-simulator.json) |
+| Christmas Tree: Holiday Decorate Simulator | 330236 | [330236-christmas-tree-holiday-decorate-simulator.json](./330236-christmas-tree-holiday-decorate-simulator.json) |
 | Christmas with Freddy's | 239286 | [239286-christmas-with-freddys.json](./239286-christmas-with-freddys.json) |
 | Christmas With My Family: Jigsaw Puzzle | 384063 | [384063-christmas-with-my-family-jigsaw-puzzle.json](./384063-christmas-with-my-family-jigsaw-puzzle.json) |
 | Christmas with Weezer | 70426 | [70426-christmas-with-weezer.json](./70426-christmas-with-weezer.json) |
@@ -8567,6 +8571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossover Collab | 379890 | [379890-crossover-collab.json](./379890-crossover-collab.json) |
 | CrossOver: Roll For Initiative | 202861 | [202861-crossover-roll-for-initiative.json](./202861-crossover-roll-for-initiative.json) |
 | Crossovers by Powgi | 117488 | [117488-crossovers-by-powgi.json](./117488-crossovers-by-powgi.json) |
+| Crossovertale | 330368 | [330368-crossovertale.json](./330368-crossovertale.json) |
 | CrossPlanet | 165433 | [165433-crossplanet.json](./165433-crossplanet.json) |
 | Crossroad Crisis | 43739 | [43739-crossroad-crisis.json](./43739-crossroad-crisis.json) |
 | Crossroad of Worlds: Cursed Letters - Collector's Edition | 257434 | [257434-crossroad-of-worlds-cursed-letters-collectors-edition.json](./257434-crossroad-of-worlds-cursed-letters-collectors-edition.json) |
