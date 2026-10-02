@@ -561,6 +561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jericho's Rose | 173246 | [173246-jerichos-rose.json](./173246-jerichos-rose.json) |
 | Jerma Rancher | 329939 | [329939-jerma-rancher.json](./329939-jerma-rancher.json) |
 | JermaSlots | 138008 | [138008-jermaslots.json](./138008-jermaslots.json) |
+| Jerod Kart 64 | 300263 | [300263-jerod-kart-64.json](./300263-jerod-kart-64.json) |
 | Jerry and the Mystery Loot Box | 83564 | [83564-jerry-and-the-mystery-loot-box.json](./83564-jerry-and-the-mystery-loot-box.json) |
 | Jerry Glanville's Pigskin Footbrawl | 46188 | [46188-jerry-glanvilles-pigskin-footbrawl.json](./46188-jerry-glanvilles-pigskin-footbrawl.json) |
 | Jerry Jobhopper | 122174 | [122174-jerry-jobhopper.json](./122174-jerry-jobhopper.json) |
