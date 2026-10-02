@@ -5858,6 +5858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Fret | 289433 | [289433-dont-fret.json](./289433-dont-fret.json) |
 | Don't Get a Virus | 181874 | [181874-dont-get-a-virus.json](./181874-dont-get-a-virus.json) |
 | Don't Get Fired! | 406825 | [406825-dont-get-fired.json](./406825-dont-get-fired.json) |
+| Don't Get Got | 329216 | [329216-dont-get-got.json](./329216-dont-get-got.json) |
 | Don't Give Up: A Cynical Tale | 111141 | [111141-dont-give-up-a-cynical-tale.json](./111141-dont-give-up-a-cynical-tale.json) |
 | Don't Give Up: Not Ready to Die | 158530 | [158530-dont-give-up-not-ready-to-die.json](./158530-dont-give-up-not-ready-to-die.json) |
 | Don't Go | 267089 | [267089-dont-go.json](./267089-dont-go.json) |
@@ -7491,6 +7492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Builder: Amusement Park | 294200 | [294200-dream-builder-amusement-park.json](./294200-dream-builder-amusement-park.json) |
 | Dream Busters | 192825 | [192825-dream-busters.json](./192825-dream-busters.json) |
 | Dream C Club: Host Girls on Stage | 62711 | [62711-dream-c-club-host-girls-on-stage.json](./62711-dream-c-club-host-girls-on-stage.json) |
+| Dream Cage | 329222 | [329222-dream-cage.json](./329222-dream-cage.json) |
 | Dream Car Racing 3D | 32896 | [32896-dream-car-racing-3d.json](./32896-dream-car-racing-3d.json) |
 | Dream Cat Paradise | 374175 | [374175-dream-cat-paradise.json](./374175-dream-cat-paradise.json) |
 | Dream Catchers | 164448 | [164448-dream-catchers.json](./164448-dream-catchers.json) |
@@ -8105,6 +8107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drum Legend | 277023 | [277023-drum-legend.json](./277023-drum-legend.json) |
 | Drum Revolution | 337842 | [337842-drum-revolution.json](./337842-drum-revolution.json) |
 | Drumbeat Quest | 174229 | [174229-drumbeat-quest.json](./174229-drumbeat-quest.json) |
+| Drumguy | 329050 | [329050-drumguy.json](./329050-drumguy.json) |
 | DrumMania 3rdMix | 188662 | [188662-drummania-3rdmix.json](./188662-drummania-3rdmix.json) |
 | Drumpf 2: Lost, But Not Forgotten! | 120366 | [120366-drumpf-2-lost-but-not-forgotten.json](./120366-drumpf-2-lost-but-not-forgotten.json) |
 | Drumpf: Rise Up, Libertonia! | 88017 | [88017-drumpf-rise-up-libertonia.json](./88017-drumpf-rise-up-libertonia.json) |
@@ -8312,6 +8315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duckpocalypse | 31767 | [31767-duckpocalypse.json](./31767-duckpocalypse.json) |
 | Ducks | 314262 | [314262-ducks.json](./314262-ducks.json) |
 | Ducks | 314263 | [314263-ducks.json](./314263-ducks.json) |
+| Ducks | 329054 | [329054-ducks.json](./329054-ducks.json) |
 | Ducks Ahoy! | 76603 | [76603-ducks-ahoy.json](./76603-ducks-ahoy.json) |
 | Ducks Can Drive | 255159 | [255159-ducks-can-drive.json](./255159-ducks-can-drive.json) |
 | Ducks in a Row | 288811 | [288811-ducks-in-a-row.json](./288811-ducks-in-a-row.json) |
