@@ -1657,6 +1657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aery: Calm Mind 4 | 263037 | [263037-aery-calm-mind-4.json](./263037-aery-calm-mind-4.json) |
 | Aery: Cyber City | 283896 | [283896-aery-cyber-city.json](./283896-aery-cyber-city.json) |
 | Aery: Midnight Hour | 288376 | [288376-aery-midnight-hour.json](./288376-aery-midnight-hour.json) |
+| Aery: Peace of Mind | 296628 | [296628-aery-peace-of-mind.json](./296628-aery-peace-of-mind.json) |
 | Aery: Peace of Mind 4 | 377272 | [377272-aery-peace-of-mind-4.json](./377272-aery-peace-of-mind-4.json) |
 | Aery: Stone Age | 283895 | [283895-aery-stone-age.json](./283895-aery-stone-age.json) |
 | Aery: Surreal World | 411807 | [411807-aery-surreal-world.json](./411807-aery-surreal-world.json) |
