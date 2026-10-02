@@ -1614,6 +1614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fateweaver: The Alchemist's Quandary | 236930 | [236930-fateweaver-the-alchemists-quandary.json](./236930-fateweaver-the-alchemists-quandary.json) |
 | Fathammer Classics Pack | 70439 | [70439-fathammer-classics-pack.json](./70439-fathammer-classics-pack.json) |
 | Father and Son | 97361 | [97361-father-and-son.json](./97361-father-and-son.json) |
+| Father and Son 2 | 314382 | [314382-father-and-son-2.json](./314382-father-and-son-2.json) |
 | Father Figure | 376029 | [376029-father-figure.json](./376029-father-figure.json) |
 | Father's Day | 213858 | [213858-fathers-day.json](./213858-fathers-day.json) |
 | Father's Island | 33072 | [33072-fathers-island.json](./33072-fathers-island.json) |
@@ -5109,12 +5110,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Horizon 4: Welcome Pack | 365712 | [365712-forza-horizon-4-welcome-pack.json](./365712-forza-horizon-4-welcome-pack.json) |
 | Forza Horizon 5 Nissan Heritage Car Pack | 361777 | [361777-forza-horizon-5-nissan-heritage-car-pack.json](./361777-forza-horizon-5-nissan-heritage-car-pack.json) |
 | Forza Horizon 5 Universal Icons Car Pack | 361779 | [361779-forza-horizon-5-universal-icons-car-pack.json](./361779-forza-horizon-5-universal-icons-car-pack.json) |
+| Forza Horizon 5: 1969 Chevrolet Camaro Jordan Luka 3 | 314391 | [314391-forza-horizon-5-1969-chevrolet-camaro-jordan-luka-3.json](./314391-forza-horizon-5-1969-chevrolet-camaro-jordan-luka-3.json) |
 | Forza Horizon 5: 2019 Nissan 370Z Nismo | 208448 | [208448-forza-horizon-5-2019-nissan-370z-nismo.json](./208448-forza-horizon-5-2019-nissan-370z-nismo.json) |
 | Forza Horizon 5: American Automotive Car Pack | 275616 | [275616-forza-horizon-5-american-automotive-car-pack.json](./275616-forza-horizon-5-american-automotive-car-pack.json) |
 | Forza Horizon 5: Apex Allstars Car Pack | 305531 | [305531-forza-horizon-5-apex-allstars-car-pack.json](./305531-forza-horizon-5-apex-allstars-car-pack.json) |
 | Forza Horizon 5: Car Pass | 293918 | [293918-forza-horizon-5-car-pass.json](./293918-forza-horizon-5-car-pass.json) |
 | Forza Horizon 5: Chinese Lucky Stars Car Pack | 291076 | [291076-forza-horizon-5-chinese-lucky-stars-car-pack.json](./291076-forza-horizon-5-chinese-lucky-stars-car-pack.json) |
 | Forza Horizon 5: Expansions Bundle | 200693 | [200693-forza-horizon-5-expansions-bundle.json](./200693-forza-horizon-5-expansions-bundle.json) |
+| Forza Horizon 5: Hide & Seek | 314386 | [314386-forza-horizon-5-hide-and-seek.json](./314386-forza-horizon-5-hide-and-seek.json) |
 | Forza Horizon 5: Italian Exotics Car Pack | 261851 | [261851-forza-horizon-5-italian-exotics-car-pack.json](./261851-forza-horizon-5-italian-exotics-car-pack.json) |
 | Forza Horizon 5: VIP | 387371 | [387371-forza-horizon-5-vip.json](./387371-forza-horizon-5-vip.json) |
 | Forza Horizon 5: Welcome Pack | 387369 | [387369-forza-horizon-5-welcome-pack.json](./387369-forza-horizon-5-welcome-pack.json) |
@@ -5137,6 +5140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Motorsport 7 | 36872 | [36872-forza-motorsport-7.json](./36872-forza-motorsport-7.json) |
 | Forza Motorsport 7: Deluxe Edition | 84940 | [84940-forza-motorsport-7-deluxe-edition.json](./84940-forza-motorsport-7-deluxe-edition.json) |
 | Forza Motorsport 7: Ultimate Edition | 84941 | [84941-forza-motorsport-7-ultimate-edition.json](./84941-forza-motorsport-7-ultimate-edition.json) |
+| Forza Motorsport: 1969 Chevrolet Camaro Jordan Luka 3 | 314390 | [314390-forza-motorsport-1969-chevrolet-camaro-jordan-luka-3.json](./314390-forza-motorsport-1969-chevrolet-camaro-jordan-luka-3.json) |
 | Forza Motorsport: 1983 Porsche #11 John Fitzpatrick Racing 956 | 286134 | [286134-forza-motorsport-1983-porsche-11-john-fitzpatrick-racing-956.json](./286134-forza-motorsport-1983-porsche-11-john-fitzpatrick-racing-956.json) |
 | Forza Motorsport: 2016 Ligier #11 Eurointernational JS P3 | 305542 | [305542-forza-motorsport-2016-ligier-11-eurointernational-js-p3.json](./305542-forza-motorsport-2016-ligier-11-eurointernational-js-p3.json) |
 | Forza Motorsport: 2018 Cadillac #57 TA CTS-V | 292648 | [292648-forza-motorsport-2018-cadillac-57-ta-cts-v.json](./292648-forza-motorsport-2018-cadillac-57-ta-cts-v.json) |
@@ -6280,6 +6284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fugitive Flight | 395835 | [395835-fugitive-flight.json](./395835-fugitive-flight.json) |
 | Fugitive Hunter | 24101 | [24101-fugitive-hunter.json](./24101-fugitive-hunter.json) |
 | Fugitive Tense: A Game About TIme | 382468 | [382468-fugitive-tense-a-game-about-time.json](./382468-fugitive-tense-a-game-about-time.json) |
+| Fugu | 314377 | [314377-fugu.json](./314377-fugu.json) |
 | Fugue | 104072 | [104072-fugue.json](./104072-fugue.json) |
 | Fugue in Void | 105212 | [105212-fugue-in-void.json](./105212-fugue-in-void.json) |
 | Fugue State | 106420 | [106420-fugue-state.json](./106420-fugue-state.json) |
