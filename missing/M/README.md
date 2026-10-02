@@ -4371,6 +4371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory of Lust | 384760 | [384760-memory-of-lust.json](./384760-memory-of-lust.json) |
 | Memory of Memorie: A Chill Story | 409654 | [409654-memory-of-memorie-a-chill-story.json](./409654-memory-of-memorie-a-chill-story.json) |
 | Memory Of Psycho | 349505 | [349505-memory-of-psycho.json](./349505-memory-of-psycho.json) |
+| Memory of Souls | 314378 | [314378-memory-of-souls.json](./314378-memory-of-souls.json) |
 | Memory of Time | 339123 | [339123-memory-of-time.json](./339123-memory-of-time.json) |
 | Memory Patches | 264660 | [264660-memory-patches.json](./264660-memory-patches.json) |
 | Memory Puzzle: Futanari Gym | 368623 | [368623-memory-puzzle-futanari-gym.json](./368623-memory-puzzle-futanari-gym.json) |
@@ -5676,6 +5677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Military:Run | 101463 | [101463-military-run.json](./101463-military-run.json) |
 | Military.io | 197362 | [197362-military-io.json](./197362-military-io.json) |
 | Milites Fortunae | 249210 | [249210-milites-fortunae.json](./249210-milites-fortunae.json) |
+| Milk | 314396 | [314396-milk.json](./314396-milk.json) |
 | Milk and Cookies | 132233 | [132233-milk-and-cookies.json](./132233-milk-and-cookies.json) |
 | Milk Farm | 103664 | [103664-milk-farm.json](./103664-milk-farm.json) |
 | Milk Farm Tycoon | 243708 | [243708-milk-farm-tycoon.json](./243708-milk-farm-tycoon.json) |
@@ -5871,6 +5873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindcop | 137044 | [137044-mindcop.json](./137044-mindcop.json) |
 | Minder | 100207 | [100207-minder.json](./100207-minder.json) |
 | MindEscape | 379338 | [379338-mindescape.json](./379338-mindescape.json) |
+| MindFall | 314360 | [314360-mindfall.json](./314360-mindfall.json) |
 | Mindfate | 319064 | [319064-mindfate.json](./319064-mindfate.json) |
 | Mindflux: Dead Man Walking | 319701 | [319701-mindflux-dead-man-walking.json](./319701-mindflux-dead-man-walking.json) |
 | Mindframe: The Secret Design - Collector's Edition | 132778 | [132778-mindframe-the-secret-design-collectors-edition.json](./132778-mindframe-the-secret-design-collectors-edition.json) |
@@ -7873,6 +7876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsterpatch | 334706 | [334706-monsterpatch.json](./334706-monsterpatch.json) |
 | MonsterRoll | 97917 | [97917-monsterroll.json](./97917-monsterroll.json) |
 | Monsters | 13741 | [13741-monsters.json](./13741-monsters.json) |
+| Monsters | 314359 | [314359-monsters.json](./314359-monsters.json) |
 | Monsters 'til Midnight | 236220 | [236220-monsters-til-midnight.json](./236220-monsters-til-midnight.json) |
 | Monsters & Munitions | 16720 | [16720-monsters-and-munitions.json](./16720-monsters-and-munitions.json) |
 | Monsters and Magic | 356671 | [356671-monsters-and-magic.json](./356671-monsters-and-magic.json) |
