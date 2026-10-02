@@ -3802,6 +3802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NutritionZ | 374725 | [374725-nutritionz.json](./374725-nutritionz.json) |
 | Nuts | 118757 | [118757-nuts.json](./118757-nuts.json) |
 | Nuts | 282631 | [282631-nuts.json](./282631-nuts.json) |
+| Nuts | 309576 | [309576-nuts.json](./309576-nuts.json) |
 | Nuts & Bolts Puzzle | 265749 | [265749-nuts-and-bolts-puzzle.json](./265749-nuts-and-bolts-puzzle.json) |
 | Nuts Physics | 175272 | [175272-nuts-physics.json](./175272-nuts-physics.json) |
 | NutsMania | 401757 | [401757-nutsmania.json](./401757-nutsmania.json) |
