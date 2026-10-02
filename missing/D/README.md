@@ -333,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danball Senki Boost | 146768 | [146768-danball-senki-boost.json](./146768-danball-senki-boost.json) |
 | Danball Senki W Chou Custom | 59406 | [59406-danball-senki-w-chou-custom.json](./59406-danball-senki-w-chou-custom.json) |
 | Danball Senki Wars | 59404 | [59404-danball-senki-wars.json](./59404-danball-senki-wars.json) |
+| Dance 86.4 Funky Radio Station | 314336 | [314336-dance-86-4-funky-radio-station.json](./314336-dance-86-4-funky-radio-station.json) |
 | Dance Aerobics | 48176 | [48176-dance-aerobics.json](./48176-dance-aerobics.json) |
 | Dance Around | 210279 | [210279-dance-around.json](./210279-dance-around.json) |
 | Dance Dance Revolution 2ndMix | 77640 | [77640-dance-dance-revolution-2ndmix.json](./77640-dance-dance-revolution-2ndmix.json) |
@@ -3903,6 +3904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diablo IV: Loot Reborn | 299726 | [299726-diablo-iv-loot-reborn.json](./299726-diablo-iv-loot-reborn.json) |
 | Diablo IV: Lord of Hatred | 381239 | [381239-diablo-iv-lord-of-hatred.json](./381239-diablo-iv-lord-of-hatred.json) |
 | Diablo IV: Season of Divine Intervention | 380541 | [380541-diablo-iv-season-of-divine-intervention.json](./380541-diablo-iv-season-of-divine-intervention.json) |
+| Diablo IV: Season of Hatred Rising | 314387 | [314387-diablo-iv-season-of-hatred-rising.json](./314387-diablo-iv-season-of-hatred-rising.json) |
 | Diablo IV: Season of Infernal Chaos | 372053 | [372053-diablo-iv-season-of-infernal-chaos.json](./372053-diablo-iv-season-of-infernal-chaos.json) |
 | Diablo IV: Sins of the Horadrim | 352222 | [352222-diablo-iv-sins-of-the-horadrim.json](./352222-diablo-iv-sins-of-the-horadrim.json) |
 | Diablo IV: Ultimate Edition | 249742 | [249742-diablo-iv-ultimate-edition.json](./249742-diablo-iv-ultimate-edition.json) |
@@ -6404,11 +6406,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon Comic Traveler | 405668 | [405668-doraemon-comic-traveler.json](./405668-doraemon-comic-traveler.json) |
 | Doraemon Dorayaki Shop Story | 314958 | [314958-doraemon-dorayaki-shop-story.json](./314958-doraemon-dorayaki-shop-story.json) |
 | Doraemon Gadget Rush | 259527 | [259527-doraemon-gadget-rush.json](./259527-doraemon-gadget-rush.json) |
+| Doraemon Giga Pad | 314371 | [314371-doraemon-giga-pad.json](./314371-doraemon-giga-pad.json) |
 | Doraemon no Bouken Meiro | 349437 | [349437-doraemon-no-bouken-meiro.json](./349437-doraemon-no-bouken-meiro.json) |
 | Doraemon no Eawase Montage | 349436 | [349436-doraemon-no-eawase-montage.json](./349436-doraemon-no-eawase-montage.json) |
 | Doraemon no Eawase Montage | 376530 | [376530-doraemon-no-eawase-montage.json](./376530-doraemon-no-eawase-montage.json) |
 | Doraemon no Study Boy: Kuku Game | 65537 | [65537-doraemon-no-study-boy-kuku-game.json](./65537-doraemon-no-study-boy-kuku-game.json) |
 | Doraemon Pocket Drill Moji Quiz | 310524 | [310524-doraemon-pocket-drill-moji-quiz.json](./310524-doraemon-pocket-drill-moji-quiz.json) |
+| Doraemon Step-Up PC | 314372 | [314372-doraemon-step-up-pc.json](./314372-doraemon-step-up-pc.json) |
 | Doraemon Story of Seasons: Friends of the Great Kingdom | 206815 | [206815-doraemon-story-of-seasons-friends-of-the-great-kingdom.json](./206815-doraemon-story-of-seasons-friends-of-the-great-kingdom.json) |
 | Doraemon Story of Seasons: Friends of the Great Kingdom - Together with Animals | 241321 | [241321-doraemon-story-of-seasons-friends-of-the-great-kingdom-together-with-animals.json](./241321-doraemon-story-of-seasons-friends-of-the-great-kingdom-together-with-animals.json) |
 | Doraemon Tanoshii Enseikatsu Youchien Hoikuen | 313284 | [313284-doraemon-tanoshii-enseikatsu-youchien-hoikuen.json](./313284-doraemon-tanoshii-enseikatsu-youchien-hoikuen.json) |
@@ -7744,6 +7748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamless Girl: Deluxe Edtion Plus | 335097 | [335097-dreamless-girl-deluxe-edtion-plus.json](./335097-dreamless-girl-deluxe-edtion-plus.json) |
 | Dreamless: The Madness from the Sea | 146846 | [146846-dreamless-the-madness-from-the-sea.json](./146846-dreamless-the-madness-from-the-sea.json) |
 | Dreamlight | 151025 | [151025-dreamlight.json](./151025-dreamlight.json) |
+| Dreamlike Love with Seira | 314376 | [314376-dreamlike-love-with-seira.json](./314376-dreamlike-love-with-seira.json) |
 | Dreamlords: The Reawakening | 21460 | [21460-dreamlords-the-reawakening.json](./21460-dreamlords-the-reawakening.json) |
 | Dreamly | 93706 | [93706-dreamly.json](./93706-dreamly.json) |
 | Dreamnest | 345651 | [345651-dreamnest.json](./345651-dreamnest.json) |
@@ -8907,6 +8912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of Daggorath | 42156 | [42156-dungeons-of-daggorath.json](./42156-dungeons-of-daggorath.json) |
 | Dungeons of Death | 356659 | [356659-dungeons-of-death.json](./356659-dungeons-of-death.json) |
 | Dungeons of Dreadrock | 194009 | [194009-dungeons-of-dreadrock.json](./194009-dungeons-of-dreadrock.json) |
+| Dungeons of Dreadrock 2: The Dead King´s Secret | 314393 | [314393-dungeons-of-dreadrock-2-the-dead-king-s-secret.json](./314393-dungeons-of-dreadrock-2-the-dead-king-s-secret.json) |
 | Dungeons of Dredmor: Conquest of the Wizardlands | 172164 | [172164-dungeons-of-dredmor-conquest-of-the-wizardlands.json](./172164-dungeons-of-dredmor-conquest-of-the-wizardlands.json) |
 | Dungeons of Dredmor: You Have to Name the Expansion Pack | 169334 | [169334-dungeons-of-dredmor-you-have-to-name-the-expansion-pack.json](./169334-dungeons-of-dredmor-you-have-to-name-the-expansion-pack.json) |
 | Dungeons of Dusk | 380425 | [380425-dungeons-of-dusk.json](./380425-dungeons-of-dusk.json) |
