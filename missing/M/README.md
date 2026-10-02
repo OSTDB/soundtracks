@@ -1197,6 +1197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Major League Gladiators | 75817 | [75817-major-league-gladiators.json](./75817-major-league-gladiators.json) |
 | Major League Manager | 70126 | [70126-major-league-manager.json](./70126-major-league-manager.json) |
 | Major Maox | 74754 | [74754-major-maox.json](./74754-major-maox.json) |
+| Major Marble | 296589 | [296589-major-marble.json](./296589-major-marble.json) |
 | Major Minor 2.0: (Re)Vision | 277924 | [277924-major-minor-2-0-re-vision.json](./277924-major-minor-2-0-re-vision.json) |
 | Major Party Racing | 358994 | [358994-major-party-racing.json](./358994-major-party-racing.json) |
 | Major Title | 40363 | [40363-major-title.json](./40363-major-title.json) |
@@ -2673,6 +2674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Pieces Jigsaw Puzzles: Winter Tale | 303686 | [303686-master-of-pieces-jigsaw-puzzles-winter-tale.json](./303686-master-of-pieces-jigsaw-puzzles-winter-tale.json) |
 | Master of Pieces: Jigsaw Puzzle - Beautiful Nonsense | 288914 | [288914-master-of-pieces-jigsaw-puzzle-beautiful-nonsense.json](./288914-master-of-pieces-jigsaw-puzzle-beautiful-nonsense.json) |
 | Master of Pieces: Jigsaw Puzzle - Bonsai | 293065 | [293065-master-of-pieces-jigsaw-puzzle-bonsai.json](./293065-master-of-pieces-jigsaw-puzzle-bonsai.json) |
+| Master of Pieces: Jigsaw Puzzle - Edge of Spring | 296593 | [296593-master-of-pieces-jigsaw-puzzle-edge-of-spring.json](./296593-master-of-pieces-jigsaw-puzzle-edge-of-spring.json) |
 | Master of Pieces: Jigsaw Puzzle - Glass Dreams | 303649 | [303649-master-of-pieces-jigsaw-puzzle-glass-dreams.json](./303649-master-of-pieces-jigsaw-puzzle-glass-dreams.json) |
 | Master of Pieces: Jigsaw Puzzle - Paper Art | 293066 | [293066-master-of-pieces-jigsaw-puzzle-paper-art.json](./293066-master-of-pieces-jigsaw-puzzle-paper-art.json) |
 | Master of Pieces: Jigsaw Puzzle - Timeless Heritage | 303650 | [303650-master-of-pieces-jigsaw-puzzle-timeless-heritage.json](./303650-master-of-pieces-jigsaw-puzzle-timeless-heritage.json) |
@@ -4780,6 +4782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Detector and 2nd Hundred | 267963 | [267963-metal-detector-and-2nd-hundred.json](./267963-metal-detector-and-2nd-hundred.json) |
 | Metal Detector Island | 409807 | [409807-metal-detector-island.json](./409807-metal-detector-island.json) |
 | Metal Dogs | 144769 | [144769-metal-dogs.json](./144769-metal-dogs.json) |
+| Metal Dogs EX Quest01: Here Comes the Metal Enemies | 296619 | [296619-metal-dogs-ex-quest01-here-comes-the-metal-enemies.json](./296619-metal-dogs-ex-quest01-here-comes-the-metal-enemies.json) |
 | Metal Dogs: New Dog Addition - Labrador Retriever | 302919 | [302919-metal-dogs-new-dog-addition-labrador-retriever.json](./302919-metal-dogs-new-dog-addition-labrador-retriever.json) |
 | Metal Dragon | 325243 | [325243-metal-dragon.json](./325243-metal-dragon.json) |
 | Metal Dragon/Life on Mars | 325244 | [325244-metal-dragon-life-on-mars.json](./325244-metal-dragon-life-on-mars.json) |
