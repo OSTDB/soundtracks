@@ -1052,6 +1052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caravana 2000 | 400367 | [400367-caravana-2000.json](./400367-caravana-2000.json) |
 | Carbage | 130766 | [130766-carbage.json](./130766-carbage.json) |
 | Carbon Battle Royale | 143717 | [143717-carbon-battle-royale.json](./143717-carbon-battle-royale.json) |
+| Carbón Heart | 294949 | [294949-carbon-heart.json](./294949-carbon-heart.json) |
 | Carbon Warfare | 106128 | [106128-carbon-warfare.json](./106128-carbon-warfare.json) |
 | Carbonflesh | 224641 | [224641-carbonflesh.json](./224641-carbonflesh.json) |
 | Carbox | 317997 | [317997-carbox.json](./317997-carbox.json) |
@@ -3938,6 +3939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Stories: The Adventures of Santa Claus | 328539 | [328539-christmas-stories-the-adventures-of-santa-claus.json](./328539-christmas-stories-the-adventures-of-santa-claus.json) |
 | Christmas Stories: The Christmas Tree Forest | 187961 | [187961-christmas-stories-the-christmas-tree-forest.json](./187961-christmas-stories-the-christmas-tree-forest.json) |
 | Christmas Stories: The Gift of the Magi | 57126 | [57126-christmas-stories-the-gift-of-the-magi.json](./57126-christmas-stories-the-gift-of-the-magi.json) |
+| Christmas Stories: The Legend of Toymakers - Collector's Edition | 294932 | [294932-christmas-stories-the-legend-of-toymakers-collectors-edition.json](./294932-christmas-stories-the-legend-of-toymakers-collectors-edition.json) |
 | Christmas Stories: Yulemen | 187966 | [187966-christmas-stories-yulemen.json](./187966-christmas-stories-yulemen.json) |
 | Christmas Story | 378202 | [378202-christmas-story.json](./378202-christmas-story.json) |
 | Christmas Sweeper 3 | 227365 | [227365-christmas-sweeper-3.json](./227365-christmas-sweeper-3.json) |
@@ -6266,6 +6268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Common Ground | 60070 | [60070-common-ground.json](./60070-common-ground.json) |
 | Common Hanzi Quiz: Simplified Chinese | 101360 | [101360-common-hanzi-quiz-simplified-chinese.json](./101360-common-hanzi-quiz-simplified-chinese.json) |
 | Common Loot | 400254 | [400254-common-loot.json](./400254-common-loot.json) |
+| Common Wealth | 294942 | [294942-common-wealth.json](./294942-common-wealth.json) |
 | Commonplace | 205594 | [205594-commonplace.json](./205594-commonplace.json) |
 | Commonwealth Games | 13705 | [13705-commonwealth-games.json](./13705-commonwealth-games.json) |
 | Commune Corvidae | 142399 | [142399-commune-corvidae.json](./142399-commune-corvidae.json) |
@@ -8301,6 +8304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepy Corridors | 23902 | [23902-creepy-corridors.json](./23902-creepy-corridors.json) |
 | Creepy Crawlers | 317452 | [317452-creepy-crawlers.json](./317452-creepy-crawlers.json) |
 | Creepy Crawling | 337742 | [337742-creepy-crawling.json](./337742-creepy-crawling.json) |
+| Creepy Creepy Love | 294933 | [294933-creepy-creepy-love.json](./294933-creepy-creepy-love.json) |
 | Creepy Dungeons | 355609 | [355609-creepy-dungeons.json](./355609-creepy-dungeons.json) |
 | Creepy Dungeons Heroes | 226744 | [226744-creepy-dungeons-heroes.json](./226744-creepy-dungeons-heroes.json) |
 | Creepy Halloween Differences | 234172 | [234172-creepy-halloween-differences.json](./234172-creepy-halloween-differences.json) |
