@@ -929,6 +929,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy 6 Pack | 86035 | [86035-fantasy-6-pack.json](./86035-fantasy-6-pack.json) |
 | Fantasy Adventure | 156145 | [156145-fantasy-adventure.json](./156145-fantasy-adventure.json) |
 | Fantasy Battles | 109762 | [109762-fantasy-battles.json](./109762-fantasy-battles.json) |
+| Fantasy Beauties - All Girls Photo Pack | 310636 | [310636-fantasy-beauties-all-girls-photo-pack.json](./310636-fantasy-beauties-all-girls-photo-pack.json) |
+| Fantasy Beauties - Astrid Photo Pack | 310634 | [310634-fantasy-beauties-astrid-photo-pack.json](./310634-fantasy-beauties-astrid-photo-pack.json) |
+| Fantasy Beauties - Brunhilda Photo Pack | 310633 | [310633-fantasy-beauties-brunhilda-photo-pack.json](./310633-fantasy-beauties-brunhilda-photo-pack.json) |
+| Fantasy Beauties - Calliope Photo Pack | 310632 | [310632-fantasy-beauties-calliope-photo-pack.json](./310632-fantasy-beauties-calliope-photo-pack.json) |
+| Fantasy Beauties - Elowen Photo Pack | 310631 | [310631-fantasy-beauties-elowen-photo-pack.json](./310631-fantasy-beauties-elowen-photo-pack.json) |
+| Fantasy Beauties - Premium Edition | 310638 | [310638-fantasy-beauties-premium-edition.json](./310638-fantasy-beauties-premium-edition.json) |
 | Fantasy Beauties: Brunhilda Level Pack | 312102 | [312102-fantasy-beauties-brunhilda-level-pack.json](./312102-fantasy-beauties-brunhilda-level-pack.json) |
 | Fantasy Beauties: Fiona Level Pack | 312103 | [312103-fantasy-beauties-fiona-level-pack.json](./312103-fantasy-beauties-fiona-level-pack.json) |
 | Fantasy Beauties: Ivy Level Pack | 312104 | [312104-fantasy-beauties-ivy-level-pack.json](./312104-fantasy-beauties-ivy-level-pack.json) |
@@ -1933,6 +1939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ferrum's Secrets: where is grandpa? | 34729 | [34729-ferrums-secrets-where-is-grandpa.json](./34729-ferrums-secrets-where-is-grandpa.json) |
 | Ferry Good Day | 391725 | [391725-ferry-good-day.json](./391725-ferry-good-day.json) |
 | Ferus: The Dark Abyss | 385829 | [385829-ferus-the-dark-abyss.json](./385829-ferus-the-dark-abyss.json) |
+| Fervent | 310647 | [310647-fervent.json](./310647-fervent.json) |
 | Fesnia | 104448 | [104448-fesnia.json](./104448-fesnia.json) |
 | Fest Guests | 302389 | [302389-fest-guests.json](./302389-fest-guests.json) |
 | Fester's Quest | 5343 | [5343-festers-quest.json](./5343-festers-quest.json) |
@@ -4105,6 +4112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluster Cluck | 52210 | [52210-fluster-cluck.json](./52210-fluster-cluck.json) |
 | Flute Master: Epic Christmas | 170514 | [170514-flute-master-epic-christmas.json](./170514-flute-master-epic-christmas.json) |
 | Flute Master: Trick or Treat | 170513 | [170513-flute-master-trick-or-treat.json](./170513-flute-master-trick-or-treat.json) |
+| Flutter of birds II: Tenshi-tachi no Tsubasa | 310651 | [310651-flutter-of-birds-ii-tenshi-tachi-no-tsubasa.json](./310651-flutter-of-birds-ii-tenshi-tachi-no-tsubasa.json) |
 | Flutter of Birds: Tori-tachi no Habataki | 293164 | [293164-flutter-of-birds-tori-tachi-no-habataki.json](./293164-flutter-of-birds-tori-tachi-no-habataki.json) |
 | Flutter! | 304135 | [304135-flutter.json](./304135-flutter.json) |
 | Flutterdash | 391199 | [391199-flutterdash.json](./391199-flutterdash.json) |
@@ -4951,6 +4959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fort Apocalypse | 13850 | [13850-fort-apocalypse.json](./13850-fort-apocalypse.json) |
 | Fort Apocalypse II | 47202 | [47202-fort-apocalypse-ii.json](./47202-fort-apocalypse-ii.json) |
 | Fort Boyard | 50030 | [50030-fort-boyard.json](./50030-fort-boyard.json) |
+| Fort Boyard: Millennium | 310666 | [310666-fort-boyard-millennium.json](./310666-fort-boyard-millennium.json) |
 | Fort Commander II: Counterattack | 118932 | [118932-fort-commander-ii-counterattack.json](./118932-fort-commander-ii-counterattack.json) |
 | Fort Commander: King's Gambit | 209563 | [209563-fort-commander-kings-gambit.json](./209563-fort-commander-kings-gambit.json) |
 | Fort Craft | 160226 | [160226-fort-craft.json](./160226-fort-craft.json) |
