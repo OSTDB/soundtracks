@@ -3249,6 +3249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonentity Galaxy | 311490 | [311490-nonentity-galaxy.json](./311490-nonentity-galaxy.json) |
 | Nonessential | 179074 | [179074-nonessential.json](./179074-nonessential.json) |
 | Nonet Sympathia | 124761 | [124761-nonet-sympathia.json](./124761-nonet-sympathia.json) |
+| Nonetheless | 294362 | [294362-nonetheless.json](./294362-nonetheless.json) |
 | Nonlinear Door | 273450 | [273450-nonlinear-door.json](./273450-nonlinear-door.json) |
 | Nonno Lorenzo | 216983 | [216983-nonno-lorenzo.json](./216983-nonno-lorenzo.json) |
 | Nono Adventure | 240218 | [240218-nono-adventure.json](./240218-nono-adventure.json) |
@@ -3485,6 +3486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Quite Dead | 414336 | [414336-not-quite-dead.json](./414336-not-quite-dead.json) |
 | Not So Heart | 117801 | [117801-not-so-heart.json](./117801-not-so-heart.json) |
 | Not So Middle Ages | 98775 | [98775-not-so-middle-ages.json](./98775-not-so-middle-ages.json) |
+| Not so Simple Sonic Advance 2 Worlds | 294405 | [294405-not-so-simple-sonic-advance-2-worlds.json](./294405-not-so-simple-sonic-advance-2-worlds.json) |
 | Not Sonic Flash | 330525 | [330525-not-sonic-flash.json](./330525-not-sonic-flash.json) |
 | Not Spooky: But Good Enough For Me | 197117 | [197117-not-spooky-but-good-enough-for-me.json](./197117-not-spooky-but-good-enough-for-me.json) |
 | Not the Hero | 241938 | [241938-not-the-hero.json](./241938-not-the-hero.json) |
