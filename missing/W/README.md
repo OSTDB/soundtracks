@@ -274,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wallslide | 32802 | [32802-wallslide.json](./32802-wallslide.json) |
 | WallSmashers | 334168 | [334168-wallsmashers.json](./334168-wallsmashers.json) |
 | WallWar | 287200 | [287200-wallwar.json](./287200-wallwar.json) |
+| Wally the Seal 2 | 320255 | [320255-wally-the-seal-2.json](./320255-wally-the-seal-2.json) |
 | Wally wo Sagase! Ehon no Kuni no Daibouken! | 37769 | [37769-wally-wo-sagase-ehon-no-kuni-no-daibouken.json](./37769-wally-wo-sagase-ehon-no-kuni-no-daibouken.json) |
 | Walpurgis Night: Unmyeong-ui Gil 2 | 145620 | [145620-walpurgis-night-unmyeong-ui-gil-2.json](./145620-walpurgis-night-unmyeong-ui-gil-2.json) |
 | Walpurgis Quintet | 205253 | [205253-walpurgis-quintet.json](./205253-walpurgis-quintet.json) |
@@ -1330,6 +1331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wayward Shadows | 213416 | [213416-wayward-shadows.json](./213416-wayward-shadows.json) |
 | Wayward Souls: Curse of Shadow | 19270 | [19270-wayward-souls-curse-of-shadow.json](./19270-wayward-souls-curse-of-shadow.json) |
 | Wayward Terran Frontier: Zero Falls | 34680 | [34680-wayward-terran-frontier-zero-falls.json](./34680-wayward-terran-frontier-zero-falls.json) |
+| Waznk Zahb | 320275 | [320275-waznk-zahb.json](./320275-waznk-zahb.json) |
 | WBTR: Welcome Back to Reality | 130376 | [130376-wbtr-welcome-back-to-reality.json](./130376-wbtr-welcome-back-to-reality.json) |
 | WC Dream | 296385 | [296385-wc-dream.json](./296385-wc-dream.json) |
 | WCCW 64 | 256793 | [256793-wccw-64.json](./256793-wccw-64.json) |
@@ -2302,6 +2304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whitematter | 365895 | [365895-whitematter.json](./365895-whitematter.json) |
 | Whiteout | 181385 | [181385-whiteout.json](./181385-whiteout.json) |
 | Whiteout Survival | 240884 | [240884-whiteout-survival.json](./240884-whiteout-survival.json) |
+| Whites This | 320262 | [320262-whites-this.json](./320262-whites-this.json) |
 | Whiteside | 69339 | [69339-whiteside.json](./69339-whiteside.json) |
 | Whitestone | 263534 | [263534-whitestone.json](./263534-whitestone.json) |
 | Whitevale Defender | 98774 | [98774-whitevale-defender.json](./98774-whitevale-defender.json) |
