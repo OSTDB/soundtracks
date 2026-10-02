@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack And Slash Fury: Soldiers Armor | 334521 | [334521-hack-and-slash-fury-soldiers-armor.json](./334521-hack-and-slash-fury-soldiers-armor.json) |
 | Hack And Slash Fury: Sorcerer Armor | 334522 | [334522-hack-and-slash-fury-sorcerer-armor.json](./334522-hack-and-slash-fury-sorcerer-armor.json) |
 | Hack And Slash Fury: War Armor | 334523 | [334523-hack-and-slash-fury-war-armor.json](./334523-hack-and-slash-fury-war-armor.json) |
+| Hack Deep | 291711 | [291711-hack-deep.json](./291711-hack-deep.json) |
 | Hack FPS | 151715 | [151715-hack-fps.json](./151715-hack-fps.json) |
 | Hack FPS: Anniversary Edition | 205015 | [205015-hack-fps-anniversary-edition.json](./205015-hack-fps-anniversary-edition.json) |
 | Hack Grid | 169852 | [169852-hack-grid.json](./169852-hack-grid.json) |
@@ -4331,6 +4332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Crew | 416806 | [416806-hollow-crew.json](./416806-hollow-crew.json) |
 | Hollow Cries | 125198 | [125198-hollow-cries.json](./125198-hollow-cries.json) |
 | Hollow Doll | 322060 | [322060-hollow-doll.json](./322060-hollow-doll.json) |
+| Hollow Earth | 291689 | [291689-hollow-earth.json](./291689-hollow-earth.json) |
 | Hollow Floor | 296617 | [296617-hollow-floor.json](./296617-hollow-floor.json) |
 | Hollow Floor | 355154 | [355154-hollow-floor.json](./355154-hollow-floor.json) |
 | Hollow Ghost | 144779 | [144779-hollow-ghost.json](./144779-hollow-ghost.json) |
