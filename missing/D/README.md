@@ -4909,6 +4909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Miraness Fitness | 366901 | [366901-disney-miraness-fitness.json](./366901-disney-miraness-fitness.json) |
 | Disney Mirrorverse | 137964 | [137964-disney-mirrorverse.json](./137964-disney-mirrorverse.json) |
 | Disney Move | 43499 | [43499-disney-move.json](./43499-disney-move.json) |
+| Disney Music Parade Encore | 314949 | [314949-disney-music-parade-encore.json](./314949-disney-music-parade-encore.json) |
 | Disney Piglet's Special Day | 220130 | [220130-disney-piglets-special-day.json](./220130-disney-piglets-special-day.json) |
 | Disney Pop Town | 386962 | [386962-disney-pop-town.json](./386962-disney-pop-town.json) |
 | Disney Princess | 220084 | [220084-disney-princess.json](./220084-disney-princess.json) |
@@ -6401,6 +6402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon 2: Nobita to Hikari no Shinden | 3473 | [3473-doraemon-2-nobita-to-hikari-no-shinden.json](./3473-doraemon-2-nobita-to-hikari-no-shinden.json) |
 | Doraemon 3: Nobita no Machi SOS! | 3474 | [3474-doraemon-3-nobita-no-machi-sos.json](./3474-doraemon-3-nobita-no-machi-sos.json) |
 | Doraemon Comic Traveler | 405668 | [405668-doraemon-comic-traveler.json](./405668-doraemon-comic-traveler.json) |
+| Doraemon Dorayaki Shop Story | 314958 | [314958-doraemon-dorayaki-shop-story.json](./314958-doraemon-dorayaki-shop-story.json) |
 | Doraemon Gadget Rush | 259527 | [259527-doraemon-gadget-rush.json](./259527-doraemon-gadget-rush.json) |
 | Doraemon no Bouken Meiro | 349437 | [349437-doraemon-no-bouken-meiro.json](./349437-doraemon-no-bouken-meiro.json) |
 | Doraemon no Eawase Montage | 349436 | [349436-doraemon-no-eawase-montage.json](./349436-doraemon-no-eawase-montage.json) |
