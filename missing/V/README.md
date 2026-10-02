@@ -150,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valdis Story: Abyssal City | 6134 | [6134-valdis-story-abyssal-city.json](./6134-valdis-story-abyssal-city.json) |
 | Vale | 263012 | [263012-vale.json](./263012-vale.json) |
 | Vale | 304641 | [304641-vale.json](./304641-vale.json) |
+| Valefor | 291685 | [291685-valefor.json](./291685-valefor.json) |
 | Valefor II | 403765 | [403765-valefor-ii.json](./403765-valefor-ii.json) |
 | Valehona Tap! | 406679 | [406679-valehona-tap.json](./406679-valehona-tap.json) |
 | Valenium | 382294 | [382294-valenium.json](./382294-valenium.json) |
