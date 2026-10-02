@@ -266,6 +266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OctoFurry | 128971 | [128971-octofurry.json](./128971-octofurry.json) |
 | Octogram | 265686 | [265686-octogram.json](./265686-octogram.json) |
 | Octonauts | 230394 | [230394-octonauts.json](./230394-octonauts.json) |
+| Octopath Traveler + Octopath Traveler II Bundle | 304800 | [304800-octopath-traveler-octopath-traveler-ii-bundle.json](./304800-octopath-traveler-octopath-traveler-ii-bundle.json) |
 | Octopath Traveler: Wayfarer's Edition | 136350 | [136350-octopath-traveler-wayfarers-edition.json](./136350-octopath-traveler-wayfarers-edition.json) |
 | Octopede | 94202 | [94202-octopede.json](./94202-octopede.json) |
 | Octopie | 204723 | [204723-octopie.json](./204723-octopie.json) |
@@ -989,6 +990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OMSI 2: Vienna 1 - Line 24A | 155122 | [155122-omsi-2-vienna-1-line-24a.json](./155122-omsi-2-vienna-1-line-24a.json) |
 | OMSI 2: Wuppertal Buslinie 639 | 155144 | [155144-omsi-2-wuppertal-buslinie-639.json](./155144-omsi-2-wuppertal-buslinie-639.json) |
 | OMSI 2: Yorkshire Counties | 155108 | [155108-omsi-2-yorkshire-counties.json](./155108-omsi-2-yorkshire-counties.json) |
+| Omusubi | 304818 | [304818-omusubi.json](./304818-omusubi.json) |
 | Omvorm | 109494 | [109494-omvorm.json](./109494-omvorm.json) |
 | On & Off | 412468 | [412468-on-and-off.json](./412468-on-and-off.json) |
 | On & Off Racing | 356302 | [356302-on-and-off-racing.json](./356302-on-and-off-racing.json) |
@@ -1246,6 +1248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Night: Burlesque - Amazing Edition | 313142 | [313142-one-night-burlesque-amazing-edition.json](./313142-one-night-burlesque-amazing-edition.json) |
 | One Night: Burlesque - Angels Pack | 324408 | [324408-one-night-burlesque-angels-pack.json](./324408-one-night-burlesque-angels-pack.json) |
 | One Night: Burlesque - Complete + | 324446 | [324446-one-night-burlesque-complete.json](./324446-one-night-burlesque-complete.json) |
+| One Night: Burlesque - Director's Cut | 304790 | [304790-one-night-burlesque-directors-cut.json](./304790-one-night-burlesque-directors-cut.json) |
 | One Night: Burlesque - Extended Edition | 283167 | [283167-one-night-burlesque-extended-edition.json](./283167-one-night-burlesque-extended-edition.json) |
 | One Night: Burlesque - GOTY Edition | 308790 | [308790-one-night-burlesque-goty-edition.json](./308790-one-night-burlesque-goty-edition.json) |
 | One Night: Burlesque - Happy Edition | 309040 | [309040-one-night-burlesque-happy-edition.json](./309040-one-night-burlesque-happy-edition.json) |
@@ -2356,6 +2359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Fantasy Quest | 221737 | [221737-our-fantasy-quest.json](./221737-our-fantasy-quest.json) |
 | Our Fate Forsaken | 197411 | [197411-our-fate-forsaken.json](./197411-our-fate-forsaken.json) |
 | Our Field Trip Adventure | 298582 | [298582-our-field-trip-adventure.json](./298582-our-field-trip-adventure.json) |
+| Our Field Trip Adventure + More Missions Pack Set | 304812 | [304812-our-field-trip-adventure-more-missions-pack-set.json](./304812-our-field-trip-adventure-more-missions-pack-set.json) |
 | Our Friend Sloth | 179196 | [179196-our-friend-sloth.json](./179196-our-friend-sloth.json) |
 | Our Great Revolution! | 180133 | [180133-our-great-revolution.json](./180133-our-great-revolution.json) |
 | Our Hero! Last | 211174 | [211174-our-hero-last.json](./211174-our-hero-last.json) |
