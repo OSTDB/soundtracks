@@ -1541,6 +1541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Fortress | 266277 | [266277-only-fortress.json](./266277-only-fortress.json) |
 | Only Girl in High School | 223998 | [223998-only-girl-in-high-school.json](./223998-only-girl-in-high-school.json) |
 | Only Go Up 2 | 370819 | [370819-only-go-up-2.json](./370819-only-go-up-2.json) |
+| Only High | 291144 | [291144-only-high.json](./291144-only-high.json) |
 | Only Hope: Episode 1 | 170917 | [170917-only-hope-episode-1.json](./170917-only-hope-episode-1.json) |
 | Only Hope: Episode 2 | 170919 | [170919-only-hope-episode-2.json](./170919-only-hope-episode-2.json) |
 | Only Hope: Episode 3 | 170921 | [170921-only-hope-episode-3.json](./170921-only-hope-episode-3.json) |
@@ -2560,6 +2561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak: Take a Bite Collection | 331416 | [331416-outbreak-take-a-bite-collection.json](./331416-outbreak-take-a-bite-collection.json) |
 | Outbreak: Tenth Anniversary Celebration Collection | 331414 | [331414-outbreak-tenth-anniversary-celebration-collection.json](./331414-outbreak-tenth-anniversary-celebration-collection.json) |
 | Outbreak: The Fall of Cypress Ridge Collection | 331415 | [331415-outbreak-the-fall-of-cypress-ridge-collection.json](./331415-outbreak-the-fall-of-cypress-ridge-collection.json) |
+| Outbreak: The Fedora Files - What Lydia Knows | 291173 | [291173-outbreak-the-fedora-files-what-lydia-knows.json](./291173-outbreak-the-fedora-files-what-lydia-knows.json) |
 | Outbreak: The Fedora Files Desperate Struggle Collection | 338025 | [338025-outbreak-the-fedora-files-desperate-struggle-collection.json](./338025-outbreak-the-fedora-files-desperate-struggle-collection.json) |
 | Outbreak: The Full Monty Collection | 331417 | [331417-outbreak-the-full-monty-collection.json](./331417-outbreak-the-full-monty-collection.json) |
 | Outbreak: The New Nightmare - Definitive Collection | 234305 | [234305-outbreak-the-new-nightmare-definitive-collection.json](./234305-outbreak-the-new-nightmare-definitive-collection.json) |
