@@ -5349,6 +5349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunship | 133964 | [133964-gunship.json](./133964-gunship.json) |
 | Gunship | 244760 | [244760-gunship.json](./244760-gunship.json) |
 | Gunship | 261208 | [261208-gunship.json](./261208-gunship.json) |
+| Gunship + Gunship 2000 | 296604 | [296604-gunship-gunship-2000.json](./296604-gunship-gunship-2000.json) |
 | Gunship 2000 | 12129 | [12129-gunship-2000.json](./12129-gunship-2000.json) |
 | Gunship Assault | 188006 | [188006-gunship-assault.json](./188006-gunship-assault.json) |
 | Gunship Battle | 174901 | [174901-gunship-battle.json](./174901-gunship-battle.json) |
