@@ -909,6 +909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasteroids | 218588 | [218588-fantasteroids.json](./218588-fantasteroids.json) |
 | Fantastic 4 | 3914 | [3914-fantastic-4.json](./3914-fantastic-4.json) |
 | Fantastic 4 in a Row HD | 70407 | [70407-fantastic-4-in-a-row-hd.json](./70407-fantastic-4-in-a-row-hd.json) |
+| Fantastic Baseball | 292785 | [292785-fantastic-baseball.json](./292785-fantastic-baseball.json) |
 | Fantastic Children | 49578 | [49578-fantastic-children.json](./49578-fantastic-children.json) |
 | Fantastic Contraption | 168671 | [168671-fantastic-contraption.json](./168671-fantastic-contraption.json) |
 | Fantastic Contraption Classic 1 & 2 | 169227 | [169227-fantastic-contraption-classic-1-and-2.json](./169227-fantastic-contraption-classic-1-and-2.json) |
@@ -2632,6 +2633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Cats2 | 307687 | [307687-find-cats2.json](./307687-find-cats2.json) |
 | Find Differences | 380628 | [380628-find-differences.json](./380628-find-differences.json) |
 | Find El Chupacabra | 359393 | [359393-find-el-chupacabra.json](./359393-find-el-chupacabra.json) |
+| Find Him | 292771 | [292771-find-him.json](./292771-find-him.json) |
 | Find HQ: Police Station | 331123 | [331123-find-hq-police-station.json](./331123-find-hq-police-station.json) |
 | Find It - Tap the Different | 55102 | [55102-find-it-tap-the-different.json](./55102-find-it-tap-the-different.json) |
 | Find It! | 366431 | [366431-find-it.json](./366431-find-it.json) |
