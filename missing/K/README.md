@@ -821,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kemo Kare! Oretachi no BL Byoutou | 240515 | [240515-kemo-kare-oretachi-no-bl-byoutou.json](./240515-kemo-kare-oretachi-no-bl-byoutou.json) |
 | Kemono Dash! | 222247 | [222247-kemono-dash.json](./222247-kemono-dash.json) |
 | Kemono Friends | 109605 | [109605-kemono-friends.json](./109605-kemono-friends.json) |
+| Kemono Friends Festival | 327934 | [327934-kemono-friends-festival.json](./327934-kemono-friends-festival.json) |
 | Kemono Friends Pavilion | 214738 | [214738-kemono-friends-pavilion.json](./214738-kemono-friends-pavilion.json) |
 | Kemono Friends Picross | 107655 | [107655-kemono-friends-picross.json](./107655-kemono-friends-picross.json) |
 | Kemono Friends: Cellien May Cry | 199376 | [199376-kemono-friends-cellien-may-cry.json](./199376-kemono-friends-cellien-may-cry.json) |
@@ -2450,6 +2451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koisuru Purin! Koi ha Daibouken! Dr. Kanmi no Yabou!? | 269581 | [269581-koisuru-purin-koi-ha-daibouken-dr-kanmi-no-yabou.json](./269581-koisuru-purin-koi-ha-daibouken-dr-kanmi-no-yabou.json) |
 | Koitsugi: Legend of the Water Guardian | 303616 | [303616-koitsugi-legend-of-the-water-guardian.json](./303616-koitsugi-legend-of-the-water-guardian.json) |
 | Kojouji | 149543 | [149543-kojouji.json](./149543-kojouji.json) |
+| Koko kara Natsu no Innocence! | 327920 | [327920-koko-kara-natsu-no-innocence.json](./327920-koko-kara-natsu-no-innocence.json) |
 | Koko's Cafe | 406678 | [406678-kokos-cafe.json](./406678-kokos-cafe.json) |
 | Kokohore! Pukka: Dig-a-Dig Pukka | 138825 | [138825-kokohore-pukka-dig-a-dig-pukka.json](./138825-kokohore-pukka-dig-a-dig-pukka.json) |
 | Kokomando | 299719 | [299719-kokomando.json](./299719-kokomando.json) |
