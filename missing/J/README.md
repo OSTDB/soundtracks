@@ -507,6 +507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JellyCar | 95422 | [95422-jellycar.json](./95422-jellycar.json) |
 | JellyCar | 9635 | [9635-jellycar.json](./9635-jellycar.json) |
 | Jellydad Hero | 180135 | [180135-jellydad-hero.json](./180135-jellydad-hero.json) |
+| JellyFish | 321429 | [321429-jellyfish.json](./321429-jellyfish.json) |
 | Jellyfish Archipelago | 272019 | [272019-jellyfish-archipelago.json](./272019-jellyfish-archipelago.json) |
 | Jellyfish Blind Box | 365149 | [365149-jellyfish-blind-box.json](./365149-jellyfish-blind-box.json) |
 | Jellyfish Season | 109726 | [109726-jellyfish-season.json](./109726-jellyfish-season.json) |
