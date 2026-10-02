@@ -555,6 +555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Scream 7 Friends: Lis | 275009 | [275009-ice-scream-7-friends-lis.json](./275009-ice-scream-7-friends-lis.json) |
 | Ice Scream United | 243705 | [243705-ice-scream-united.json](./243705-ice-scream-united.json) |
 | Ice Slider | 355232 | [355232-ice-slider.json](./355232-ice-slider.json) |
+| Ice Slider Z | 294403 | [294403-ice-slider-z.json](./294403-ice-slider-z.json) |
 | Ice Star | 150630 | [150630-ice-star.json](./150630-ice-star.json) |
 | Ice Star: Chapter 2 | 168842 | [168842-ice-star-chapter-2.json](./168842-ice-star-chapter-2.json) |
 | Ice Sugar | 189119 | [189119-ice-sugar.json](./189119-ice-sugar.json) |
@@ -2752,6 +2753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invert: Tile Flipping Puzzles | 82953 | [82953-invert-tile-flipping-puzzles.json](./82953-invert-tile-flipping-puzzles.json) |
 | Inverted | 187236 | [187236-inverted.json](./187236-inverted.json) |
 | Inverted | 32209 | [32209-inverted.json](./32209-inverted.json) |
+| Inverted Angel | 294356 | [294356-inverted-angel.json](./294356-inverted-angel.json) |
 | Inverted Dreams | 390111 | [390111-inverted-dreams.json](./390111-inverted-dreams.json) |
 | Inverted Journey | 295886 | [295886-inverted-journey.json](./295886-inverted-journey.json) |
 | Inverted Space | 176990 | [176990-inverted-space.json](./176990-inverted-space.json) |
