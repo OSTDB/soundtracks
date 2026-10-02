@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Zero World GP | 338830 | [338830-g-zero-world-gp.json](./338830-g-zero-world-gp.json) |
 | G-Zilla | 196271 | [196271-g-zilla.json](./196271-g-zilla.json) |
 | G:nom | 125389 | [125389-g-nom.json](./125389-g-nom.json) |
+| G.E.A.R. | 323238 | [323238-g-e-a-r.json](./323238-g-e-a-r.json) |
 | G.E.T. | 192812 | [192812-g-e-t.json](./192812-g-e-t.json) |
 | G.G Series Collection + | 66965 | [66965-g-g-series-collection.json](./66965-g-g-series-collection.json) |
 | G.G Series: Air Pinball Hockey | 60083 | [60083-g-g-series-air-pinball-hockey.json](./60083-g-g-series-air-pinball-hockey.json) |
@@ -1056,6 +1057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gates and Violet | 413029 | [413029-gates-and-violet.json](./413029-gates-and-violet.json) |
 | Gates of Andaron | 209594 | [209594-gates-of-andaron.json](./209594-gates-of-andaron.json) |
 | Gates of Dawn | 13857 | [13857-gates-of-dawn.json](./13857-gates-of-dawn.json) |
+| Gates of Despair | 323261 | [323261-gates-of-despair.json](./323261-gates-of-despair.json) |
 | Gates of Devoroth | 211288 | [211288-gates-of-devoroth.json](./211288-gates-of-devoroth.json) |
 | Gates of Horizon | 36125 | [36125-gates-of-horizon.json](./36125-gates-of-horizon.json) |
 | Gates of Horn and Ivory | 108633 | [108633-gates-of-horn-and-ivory.json](./108633-gates-of-horn-and-ivory.json) |
@@ -2271,6 +2273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glass Cannons | 181772 | [181772-glass-cannons.json](./181772-glass-cannons.json) |
 | Glass Fort: Smash It | 88313 | [88313-glass-fort-smash-it.json](./88313-glass-fort-smash-it.json) |
 | Glass Heart | 234199 | [234199-glass-heart.json](./234199-glass-heart.json) |
+| Glass Heart: Retold | 323237 | [323237-glass-heart-retold.json](./323237-glass-heart-retold.json) |
 | Glass Hearts | 221191 | [221191-glass-hearts.json](./221191-glass-hearts.json) |
 | Glass Hime to Kagami no Juusha | 172587 | [172587-glass-hime-to-kagami-no-juusha.json](./172587-glass-hime-to-kagami-no-juusha.json) |
 | Glass Hime to Kagami no Juusha: Limited Edition | 172588 | [172588-glass-hime-to-kagami-no-juusha-limited-edition.json](./172588-glass-hime-to-kagami-no-juusha-limited-edition.json) |
