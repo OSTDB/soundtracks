@@ -2824,6 +2824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overheat: Kitchen Chaos | 324134 | [324134-overheat-kitchen-chaos.json](./324134-overheat-kitchen-chaos.json) |
 | Overhills | 279108 | [279108-overhills.json](./279108-overhills.json) |
 | Overhours | 253599 | [253599-overhours.json](./253599-overhours.json) |
+| OverKart 64 Christmas Mod | 282813 | [282813-overkart-64-christmas-mod.json](./282813-overkart-64-christmas-mod.json) |
 | Overkill | 196561 | [196561-overkill.json](./196561-overkill.json) |
 | Overkill | 272013 | [272013-overkill.json](./272013-overkill.json) |
 | Overkill | 95402 | [95402-overkill.json](./95402-overkill.json) |
