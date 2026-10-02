@@ -3291,6 +3291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilli Adventure | 76534 | [76534-pilli-adventure.json](./76534-pilli-adventure.json) |
 | Pillow Bellow | 151173 | [151173-pillow-bellow.json](./151173-pillow-bellow.json) |
 | Pillow Fort | 56171 | [56171-pillow-fort.json](./56171-pillow-fort.json) |
+| Pillow Legends and The Last Nugget | 316703 | [316703-pillow-legends-and-the-last-nugget.json](./316703-pillow-legends-and-the-last-nugget.json) |
 | Pillowheads: It's Party Time | 137644 | [137644-pillowheads-its-party-time.json](./137644-pillowheads-its-party-time.json) |
 | Pilot 6174: Orbital Survival | 386445 | [386445-pilot-6174-orbital-survival.json](./386445-pilot-6174-orbital-survival.json) |
 | Pilot Attack | 281534 | [281534-pilot-attack.json](./281534-pilot-attack.json) |
@@ -4657,6 +4658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plateman | 240776 | [240776-plateman.json](./240776-plateman.json) |
 | Plates | 32188 | [32188-plates.json](./32188-plates.json) |
 | PlateUp!: Collector's Edition | 247191 | [247191-plateup-collectors-edition.json](./247191-plateup-collectors-edition.json) |
+| Platform | 316717 | [316717-platform.json](./316717-platform.json) |
 | Platform 4 | 326257 | [326257-platform-4.json](./326257-platform-4.json) |
 | Platform 6 Online | 379004 | [379004-platform-6-online.json](./379004-platform-6-online.json) |
 | Platform 9: No Way Out | 324129 | [324129-platform-9-no-way-out.json](./324129-platform-9-no-way-out.json) |
@@ -4745,6 +4747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playboy: The Mansion | 2161 | [2161-playboy-the-mansion.json](./2161-playboy-the-mansion.json) |
 | Playboy: The Mansion - Private Party | 68037 | [68037-playboy-the-mansion-private-party.json](./68037-playboy-the-mansion-private-party.json) |
 | PlayChapas | 177934 | [177934-playchapas.json](./177934-playchapas.json) |
+| PlayCOQ: The Coop Defender | 317309 | [317309-playcoq-the-coop-defender.json](./317309-playcoq-the-coop-defender.json) |
 | PlayCrafter | 351768 | [351768-playcrafter.json](./351768-playcrafter.json) |
 | Playdate Bunny Bundle | 245320 | [245320-playdate-bunny-bundle.json](./245320-playdate-bunny-bundle.json) |
 | Playdate Season 1 | 398519 | [398519-playdate-season-1.json](./398519-playdate-season-1.json) |
@@ -4775,6 +4778,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playing with Our Lives | 291003 | [291003-playing-with-our-lives.json](./291003-playing-with-our-lives.json) |
 | Playing With the Big Boys | 360697 | [360697-playing-with-the-big-boys.json](./360697-playing-with-the-big-boys.json) |
 | PlayMaker Football | 366964 | [366964-playmaker-football.json](./366964-playmaker-football.json) |
+| Playman Extreme Running | 316707 | [316707-playman-extreme-running.json](./316707-playman-extreme-running.json) |
+| Playman Extreme Running | 316708 | [316708-playman-extreme-running.json](./316708-playman-extreme-running.json) |
 | Playmobil: Novelmore | 207844 | [207844-playmobil-novelmore.json](./207844-playmobil-novelmore.json) |
 | Playmobil: The Explorers | 103901 | [103901-playmobil-the-explorers.json](./103901-playmobil-the-explorers.json) |
 | Playmobil: The Movie VR Adventures | 128438 | [128438-playmobil-the-movie-vr-adventures.json](./128438-playmobil-the-movie-vr-adventures.json) |
