@@ -4156,6 +4156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | And Yet It Hurt | 229628 | [229628-and-yet-it-hurt.json](./229628-and-yet-it-hurt.json) |
 | And Yet It Moves | 9772 | [9772-and-yet-it-moves.json](./9772-and-yet-it-moves.json) |
 | Anda | 266885 | [266885-anda.json](./266885-anda.json) |
+| Andalas: Realms of Eternal Lights | 330946 | [330946-andalas-realms-of-eternal-lights.json](./330946-andalas-realms-of-eternal-lights.json) |
 | Andalusian Roulette | 303789 | [303789-andalusian-roulette.json](./303789-andalusian-roulette.json) |
 | Andara: Rise for Rebellion | 255986 | [255986-andara-rise-for-rebellion.json](./255986-andara-rise-for-rebellion.json) |
 | Andarigas | 132767 | [132767-andarigas.json](./132767-andarigas.json) |
