@@ -760,12 +760,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa Needs a Headshot | 360095 | [360095-papa-needs-a-headshot.json](./360095-papa-needs-a-headshot.json) |
 | Papa Pear Saga | 18062 | [18062-papa-pear-saga.json](./18062-papa-pear-saga.json) |
 | Papa Sangre | 7698 | [7698-papa-sangre.json](./7698-papa-sangre.json) |
+| Papa-letras | 290083 | [290083-papa-letras.json](./290083-papa-letras.json) |
 | Papa's Burgeria | 77672 | [77672-papas-burgeria.json](./77672-papas-burgeria.json) |
 | Papa's Burgeria HD | 86695 | [86695-papas-burgeria-hd.json](./86695-papas-burgeria-hd.json) |
 | Papa's Burgeria to Go! | 96986 | [96986-papas-burgeria-to-go.json](./96986-papas-burgeria-to-go.json) |
 | Papa's Donuteria | 210502 | [210502-papas-donuteria.json](./210502-papas-donuteria.json) |
 | Papa's Donutria | 143040 | [143040-papas-donutria.json](./143040-papas-donutria.json) |
 | Papa's Hot Doggeria HD | 88892 | [88892-papas-hot-doggeria-hd.json](./88892-papas-hot-doggeria-hd.json) |
+| Papa's Paleteria To Go! | 290074 | [290074-papas-paleteria-to-go.json](./290074-papas-paleteria-to-go.json) |
 | Papa's Pancakeria HD | 88891 | [88891-papas-pancakeria-hd.json](./88891-papas-pancakeria-hd.json) |
 | Papa's Pastaria | 210501 | [210501-papas-pastaria.json](./210501-papas-pastaria.json) |
 | Papa's Pizzeria to Go! | 96296 | [96296-papas-pizzeria-to-go.json](./96296-papas-pizzeria-to-go.json) |
@@ -2193,6 +2195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pepsi Invaders | 40715 | [40715-pepsi-invaders.json](./40715-pepsi-invaders.json) |
 | Pepsi Max Extreme Sports | 110806 | [110806-pepsi-max-extreme-sports.json](./110806-pepsi-max-extreme-sports.json) |
 | Pepsi Nex Game | 315595 | [315595-pepsi-nex-game.json](./315595-pepsi-nex-game.json) |
+| Pequeno Eu | 290082 | [290082-pequeno-eu.json](./290082-pequeno-eu.json) |
 | Pequod | 126449 | [126449-pequod.json](./126449-pequod.json) |
 | Per Aspera Test | 289441 | [289441-per-aspera-test.json](./289441-per-aspera-test.json) |
 | Per Aspera: Deluxe Edition | 154545 | [154545-per-aspera-deluxe-edition.json](./154545-per-aspera-deluxe-edition.json) |
@@ -3669,6 +3672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pintern | 353377 | [353377-pintern.json](./353377-pintern.json) |
 | Pinto | 326968 | [326968-pinto.json](./326968-pinto.json) |
 | Pintorino | 386399 | [386399-pintorino.json](./386399-pintorino.json) |
+| Pintura | 290081 | [290081-pintura.json](./290081-pintura.json) |
 | Pinup | 403142 | [403142-pinup.json](./403142-pinup.json) |
 | PinWar | 93632 | [93632-pinwar.json](./93632-pinwar.json) |
 | Piofiore no Banshou | 69342 | [69342-piofiore-no-banshou.json](./69342-piofiore-no-banshou.json) |
@@ -6510,6 +6514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potion Permit: Snowman Plush Toy | 371314 | [371314-potion-permit-snowman-plush-toy.json](./371314-potion-permit-snowman-plush-toy.json) |
 | Potion Pleasing | 333177 | [333177-potion-pleasing.json](./333177-potion-pleasing.json) |
 | Potion Pony | 391161 | [391161-potion-pony.json](./391161-potion-pony.json) |
+| Potion Problem | 290113 | [290113-potion-problem.json](./290113-potion-problem.json) |
 | Potion Problems | 343256 | [343256-potion-problems.json](./343256-potion-problems.json) |
 | Potion Prodigy | 175939 | [175939-potion-prodigy.json](./175939-potion-prodigy.json) |
 | Potion Punch | 247220 | [247220-potion-punch.json](./247220-potion-punch.json) |
