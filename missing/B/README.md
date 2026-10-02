@@ -5827,6 +5827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blurred Weird Night | 150647 | [150647-blurred-weird-night.json](./150647-blurred-weird-night.json) |
 | Blurry Shopping | 381098 | [381098-blurry-shopping.json](./381098-blurry-shopping.json) |
 | Blyte | 358867 | [358867-blyte.json](./358867-blyte.json) |
+| Blythe | 287904 | [287904-blythe.json](./287904-blythe.json) |
 | Blyx | 272859 | [272859-blyx.json](./272859-blyx.json) |
 | BMP Puzzle | 217997 | [217997-bmp-puzzle.json](./217997-bmp-puzzle.json) |
 | BMX Backflip King | 255173 | [255173-bmx-backflip-king.json](./255173-bmx-backflip-king.json) |
@@ -9029,6 +9030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Byte Bitten | 93183 | [93183-byte-bitten.json](./93183-byte-bitten.json) |
 | Byte Breakers | 314978 | [314978-byte-breakers.json](./314978-byte-breakers.json) |
 | Byte Fyte: Multiplayer | 226276 | [226276-byte-fyte-multiplayer.json](./226276-byte-fyte-multiplayer.json) |
+| Byte Hack | 287914 | [287914-byte-hack.json](./287914-byte-hack.json) |
 | Byte Lynx | 203889 | [203889-byte-lynx.json](./203889-byte-lynx.json) |
 | Byte Rider | 234011 | [234011-byte-rider.json](./234011-byte-rider.json) |
 | Byte Survivor | 303717 | [303717-byte-survivor.json](./303717-byte-survivor.json) |
