@@ -5931,6 +5931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Moana Character Pack | 254491 | [254491-minecraft-moana-character-pack.json](./254491-minecraft-moana-character-pack.json) |
 | Minecraft: Mob Vote 2022 Skin Pack | 303029 | [303029-minecraft-mob-vote-2022-skin-pack.json](./303029-minecraft-mob-vote-2022-skin-pack.json) |
 | Minecraft: Mob Weapons | 333584 | [333584-minecraft-mob-weapons.json](./333584-minecraft-mob-weapons.json) |
+| Minecraft: Nightmare Skin Pack | 333235 | [333235-minecraft-nightmare-skin-pack.json](./333235-minecraft-nightmare-skin-pack.json) |
 | Minecraft: Nintendo Switch Edition | 85614 | [85614-minecraft-nintendo-switch-edition.json](./85614-minecraft-nintendo-switch-edition.json) |
 | Minecraft: Norse Mythology Bonus Skins | 322957 | [322957-minecraft-norse-mythology-bonus-skins.json](./322957-minecraft-norse-mythology-bonus-skins.json) |
 | Minecraft: Norse Mythology Mash-up | 235326 | [235326-minecraft-norse-mythology-mash-up.json](./235326-minecraft-norse-mythology-mash-up.json) |
@@ -8304,6 +8305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat: Unchained | 1615 | [1615-mortal-kombat-unchained.json](./1615-mortal-kombat-unchained.json) |
 | Mortal Kombat: Warrior Kenshi | 388955 | [388955-mortal-kombat-warrior-kenshi.json](./388955-mortal-kombat-warrior-kenshi.json) |
 | Mortal Online 2 | 127546 | [127546-mortal-online-2.json](./127546-mortal-online-2.json) |
+| Mortal Quest | 333130 | [333130-mortal-quest.json](./333130-mortal-quest.json) |
 | Mortal Shell | 132050 | [132050-mortal-shell.json](./132050-mortal-shell.json) |
 | Mortal Shell II | 347633 | [347633-mortal-shell-ii.json](./347633-mortal-shell-ii.json) |
 | Mortal Shell: Complete Edition | 229693 | [229693-mortal-shell-complete-edition.json](./229693-mortal-shell-complete-edition.json) |
@@ -9313,6 +9315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Museful | 398543 | [398543-museful.json](./398543-museful.json) |
 | Museum | 109891 | [109891-museum.json](./109891-museum.json) |
 | Museum | 185437 | [185437-museum.json](./185437-museum.json) |
+| Museum of All Things | 333238 | [333238-museum-of-all-things.json](./333238-museum-of-all-things.json) |
 | Museum of Extravagance | 169860 | [169860-museum-of-extravagance.json](./169860-museum-of-extravagance.json) |
 | Museum of Immersive Art | 341345 | [341345-museum-of-immersive-art.json](./341345-museum-of-immersive-art.json) |
 | Museum of Mechanics: Lockpicking | 139214 | [139214-museum-of-mechanics-lockpicking.json](./139214-museum-of-mechanics-lockpicking.json) |
@@ -9785,6 +9788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hero: Astronaut | 68093 | [68093-my-hero-astronaut.json](./68093-my-hero-astronaut.json) |
 | My Hero: Doctor | 206773 | [206773-my-hero-doctor.json](./206773-my-hero-doctor.json) |
 | My Hero: Tiny Ninja | 232544 | [232544-my-hero-tiny-ninja.json](./232544-my-hero-tiny-ninja.json) |
+| My Hero's One Justice 2: Itsuka Kendo Cheerleader Costume | 333233 | [333233-my-heros-one-justice-2-itsuka-kendo-cheerleader-costume.json](./333233-my-heros-one-justice-2-itsuka-kendo-cheerleader-costume.json) |
 | My Heroes: SEA | 142426 | [142426-my-heroes-sea.json](./142426-my-heroes-sea.json) |
 | My Hidden Dreams | 339928 | [339928-my-hidden-dreams.json](./339928-my-hidden-dreams.json) |
 | My High School Cat Girlfriend | 206155 | [206155-my-high-school-cat-girlfriend.json](./206155-my-high-school-cat-girlfriend.json) |
