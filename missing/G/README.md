@@ -332,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Warrior | 28817 | [28817-galactic-warrior.json](./28817-galactic-warrior.json) |
 | Galactic Wars | 133996 | [133996-galactic-wars.json](./133996-galactic-wars.json) |
 | Galactic Wars EX | 176351 | [176351-galactic-wars-ex.json](./176351-galactic-wars-ex.json) |
+| Galactic Wars: Defend Your Star Worlds | 286206 | [286206-galactic-wars-defend-your-star-worlds.json](./286206-galactic-wars-defend-your-star-worlds.json) |
 | Galactic-A-Tactic: The Most Diplomatic Solution | 367975 | [367975-galactic-a-tactic-the-most-diplomatic-solution.json](./367975-galactic-a-tactic-the-most-diplomatic-solution.json) |
 | Galactic: The Xmas Edition | 327803 | [327803-galactic-the-xmas-edition.json](./327803-galactic-the-xmas-edition.json) |
 | Galactica: Batalha Espacial | 123033 | [123033-galactica-batalha-espacial.json](./123033-galactica-batalha-espacial.json) |
@@ -525,6 +526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galletron | 13001 | [13001-galletron.json](./13001-galletron.json) |
 | Gallium | 314077 | [314077-gallium.json](./314077-gallium.json) |
 | Gallium | 362417 | [362417-gallium.json](./362417-gallium.json) |
+| Gallop Champion | 286225 | [286225-gallop-champion.json](./286225-gallop-champion.json) |
 | Gallop Glory: Obstacle Racing & Horse Simulator | 300726 | [300726-gallop-glory-obstacle-racing-and-horse-simulator.json](./300726-gallop-glory-obstacle-racing-and-horse-simulator.json) |
 | Gallop Racer | 13659 | [13659-gallop-racer.json](./13659-gallop-racer.json) |
 | Gallop Racer 2001 | 20144 | [20144-gallop-racer-2001.json](./20144-gallop-racer-2001.json) |
@@ -894,6 +896,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden In! | 198625 | [198625-garden-in.json](./198625-garden-in.json) |
 | Garden Island Plant Village: Grow & Harvest Fruits & Vegetables on your country farm! | 89825 | [89825-garden-island-plant-village-grow-and-harvest-fruits-and-vegetables-on-your-country-farm.json](./89825-garden-island-plant-village-grow-and-harvest-fruits-and-vegetables-on-your-country-farm.json) |
 | Garden Life: A Cozy Simulator | 204554 | [204554-garden-life-a-cozy-simulator.json](./204554-garden-life-a-cozy-simulator.json) |
+| Garden Life: Eco-friendly Decoration Set | 286205 | [286205-garden-life-eco-friendly-decoration-set.json](./286205-garden-life-eco-friendly-decoration-set.json) |
+| Garden Life: Garden Party Edition | 286204 | [286204-garden-life-garden-party-edition.json](./286204-garden-life-garden-party-edition.json) |
+| Garden Life: Garden Party Pack | 286203 | [286203-garden-life-garden-party-pack.json](./286203-garden-life-garden-party-pack.json) |
 | Garden Life: Supporter Pack | 289321 | [289321-garden-life-supporter-pack.json](./289321-garden-life-supporter-pack.json) |
 | Garden Madness | 192330 | [192330-garden-madness.json](./192330-garden-madness.json) |
 | Garden of Aiden | 295843 | [295843-garden-of-aiden.json](./295843-garden-of-aiden.json) |
@@ -3204,6 +3209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Guys | 277888 | [277888-golf-guys.json](./277888-golf-guys.json) |
 | Golf Guys: Complete Edition | 283174 | [283174-golf-guys-complete-edition.json](./283174-golf-guys-complete-edition.json) |
 | Golf Guys: Fantasy | 277903 | [277903-golf-guys-fantasy.json](./277903-golf-guys-fantasy.json) |
+| Golf Guys: Fantasy Edition | 286202 | [286202-golf-guys-fantasy-edition.json](./286202-golf-guys-fantasy-edition.json) |
 | Golf Guys: Party | 277902 | [277902-golf-guys-party.json](./277902-golf-guys-party.json) |
 | Golf Guys: Space | 277901 | [277901-golf-guys-space.json](./277901-golf-guys-space.json) |
 | Golf in Paper | 117115 | [117115-golf-in-paper.json](./117115-golf-in-paper.json) |
@@ -3287,6 +3293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gon | 97118 | [97118-gon.json](./97118-gon.json) |
 | Gon' E-Choo! | 19023 | [19023-gon-e-choo.json](./19023-gon-e-choo.json) |
 | Gone | 199927 | [199927-gone.json](./199927-gone.json) |
+| Gone Camping! | 286223 | [286223-gone-camping.json](./286223-gone-camping.json) |
 | Gone Digging | 388416 | [388416-gone-digging.json](./388416-gone-digging.json) |
 | Gone Exploring | 412409 | [412409-gone-exploring.json](./412409-gone-exploring.json) |
 | Gone Fishing | 348447 | [348447-gone-fishing.json](./348447-gone-fishing.json) |
@@ -5407,6 +5414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunsmith | 355085 | [355085-gunsmith.json](./355085-gunsmith.json) |
 | Gunsmith | 81232 | [81232-gunsmith.json](./81232-gunsmith.json) |
 | Gunsmith Simulator | 133405 | [133405-gunsmith-simulator.json](./133405-gunsmith-simulator.json) |
+| Gunsmith Workshop Simulator | 286191 | [286191-gunsmith-workshop-simulator.json](./286191-gunsmith-workshop-simulator.json) |
 | Gunso's Skateboard Run | 333733 | [333733-gunsos-skateboard-run.json](./333733-gunsos-skateboard-run.json) |
 | GunSoul Girl 2 | 213000 | [213000-gunsoul-girl-2.json](./213000-gunsoul-girl-2.json) |
 | Gunspell | 54071 | [54071-gunspell.json](./54071-gunspell.json) |
