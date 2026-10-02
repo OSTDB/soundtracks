@@ -931,6 +931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy 6 Pack | 86035 | [86035-fantasy-6-pack.json](./86035-fantasy-6-pack.json) |
 | Fantasy Adventure | 156145 | [156145-fantasy-adventure.json](./156145-fantasy-adventure.json) |
 | Fantasy Battles | 109762 | [109762-fantasy-battles.json](./109762-fantasy-battles.json) |
+| Fantasy Beauties | 301512 | [301512-fantasy-beauties.json](./301512-fantasy-beauties.json) |
 | Fantasy Beauties - All Girls Photo Pack | 310636 | [310636-fantasy-beauties-all-girls-photo-pack.json](./310636-fantasy-beauties-all-girls-photo-pack.json) |
 | Fantasy Beauties - Astrid Photo Pack | 310634 | [310634-fantasy-beauties-astrid-photo-pack.json](./310634-fantasy-beauties-astrid-photo-pack.json) |
 | Fantasy Beauties - Brunhilda Photo Pack | 310633 | [310633-fantasy-beauties-brunhilda-photo-pack.json](./310633-fantasy-beauties-brunhilda-photo-pack.json) |
@@ -3409,6 +3410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Haunted House | 281468 | [281468-five-nights-at-haunted-house.json](./281468-five-nights-at-haunted-house.json) |
 | Five Nights at Jaygi's: Into Dreams... | 322379 | [322379-five-nights-at-jaygis-into-dreams.json](./322379-five-nights-at-jaygis-into-dreams.json) |
 | Five Nights at Kyle's 2 | 179724 | [179724-five-nights-at-kyles-2.json](./179724-five-nights-at-kyles-2.json) |
+| Five Nights At Maggies | 301498 | [301498-five-nights-at-maggies.json](./301498-five-nights-at-maggies.json) |
 | Five Nights at Pikachu's | 360770 | [360770-five-nights-at-pikachus.json](./360770-five-nights-at-pikachus.json) |
 | Five Nights At Pingas | 403829 | [403829-five-nights-at-pingas.json](./403829-five-nights-at-pingas.json) |
 | Five Nights At PT's II | 412393 | [412393-five-nights-at-pts-ii.json](./412393-five-nights-at-pts-ii.json) |
@@ -5455,6 +5457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frame Gride | 10908 | [10908-frame-gride.json](./10908-frame-gride.json) |
 | Frame Machina: OcularZero | 364060 | [364060-frame-machina-ocularzero.json](./364060-frame-machina-ocularzero.json) |
 | Frame of Mind | 142281 | [142281-frame-of-mind.json](./142281-frame-of-mind.json) |
+| Frame of Mind | 301491 | [301491-frame-of-mind.json](./301491-frame-of-mind.json) |
 | Frame of Reference | 119594 | [119594-frame-of-reference.json](./119594-frame-of-reference.json) |
 | Frame of Suffering | 403555 | [403555-frame-of-suffering.json](./403555-frame-of-suffering.json) |
 | Frame Out | 98051 | [98051-frame-out.json](./98051-frame-out.json) |
@@ -5585,6 +5588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freddi Fish and Luther's Water Worries | 17296 | [17296-freddi-fish-and-luthers-water-worries.json](./17296-freddi-fish-and-luthers-water-worries.json) |
 | Freddi Fish Collection | 300717 | [300717-freddi-fish-collection.json](./300717-freddi-fish-collection.json) |
 | Freddi Fish: ABC's Under the Sea | 3749 | [3749-freddi-fish-abcs-under-the-sea.json](./3749-freddi-fish-abcs-under-the-sea.json) |
+| Freddi Fish: Het Verhaal van de Verdwenen Zeewierzaadjes | 301504 | [301504-freddi-fish-het-verhaal-van-de-verdwenen-zeewierzaadjes.json](./301504-freddi-fish-het-verhaal-van-de-verdwenen-zeewierzaadjes.json) |
 | Freddy | 280774 | [280774-freddy.json](./280774-freddy.json) |
 | Freddy Fazbear's Pizza Massacre | 272297 | [272297-freddy-fazbears-pizza-massacre.json](./272297-freddy-fazbears-pizza-massacre.json) |
 | Freddy Fazbear's Pizzeria Simulator | 76725 | [76725-freddy-fazbears-pizzeria-simulator.json](./76725-freddy-fazbears-pizzeria-simulator.json) |
