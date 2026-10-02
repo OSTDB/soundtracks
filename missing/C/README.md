@@ -556,6 +556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can You Reach 60 Seconds | 339940 | [339940-can-you-reach-60-seconds.json](./339940-can-you-reach-60-seconds.json) |
 | Can You Save the World? | 182902 | [182902-can-you-save-the-world.json](./182902-can-you-save-the-world.json) |
 | Can You See What I See?: Curfuffles Collectibles | 51399 | [51399-can-you-see-what-i-see-curfuffles-collectibles.json](./51399-can-you-see-what-i-see-curfuffles-collectibles.json) |
+| Can You See What I See?: Dream Machine | 312210 | [312210-can-you-see-what-i-see-dream-machine.json](./312210-can-you-see-what-i-see-dream-machine.json) |
 | Can You Survive?: Survival World | 95825 | [95825-can-you-survive-survival-world.json](./95825-can-you-survive-survival-world.json) |
 | Can Your Pet | 215086 | [215086-can-your-pet.json](./215086-can-your-pet.json) |
 | Can't buy me love! | 363940 | [363940-cant-buy-me-love.json](./363940-cant-buy-me-love.json) |
@@ -8089,6 +8090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Space Goat Simulator 3D - 2 | 101960 | [101960-crazy-space-goat-simulator-3d-2.json](./101960-crazy-space-goat-simulator-3d-2.json) |
 | Crazy space pirate | 117633 | [117633-crazy-space-pirate.json](./117633-crazy-space-pirate.json) |
 | Crazy Squares: Milk River Run | 365889 | [365889-crazy-squares-milk-river-run.json](./365889-crazy-squares-milk-river-run.json) |
+| Crazy Stars: Sport Climbing | 312081 | [312081-crazy-stars-sport-climbing.json](./312081-crazy-stars-sport-climbing.json) |
 | Crazy Steam Bros 2 | 35640 | [35640-crazy-steam-bros-2.json](./35640-crazy-steam-bros-2.json) |
 | Crazy Stone Deep Learning | 208915 | [208915-crazy-stone-deep-learning.json](./208915-crazy-stone-deep-learning.json) |
 | Crazy Street Traffic Race | 105520 | [105520-crazy-street-traffic-race.json](./105520-crazy-street-traffic-race.json) |
