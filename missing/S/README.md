@@ -1544,6 +1544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scientist and Alchemist | 413140 | [413140-scientist-and-alchemist.json](./413140-scientist-and-alchemist.json) |
 | Scientist Hunt | 248299 | [248299-scientist-hunt.json](./248299-scientist-hunt.json) |
 | Scientist Slaughterhouse | 221665 | [221665-scientist-slaughterhouse.json](./221665-scientist-slaughterhouse.json) |
+| Scifi Zombie | 316151 | [316151-scifi-zombie.json](./316151-scifi-zombie.json) |
 | Scikor Final Scale | 121743 | [121743-scikor-final-scale.json](./121743-scikor-final-scale.json) |
 | Scion | 25885 | [25885-scion.json](./25885-scion.json) |
 | Scions of Fate | 72656 | [72656-scions-of-fate.json](./72656-scions-of-fate.json) |
@@ -5632,6 +5633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sir Ababol: Remastered Edition | 194641 | [194641-sir-ababol-remastered-edition.json](./194641-sir-ababol-remastered-edition.json) |
 | Sir Eatsalot | 69340 | [69340-sir-eatsalot.json](./69340-sir-eatsalot.json) |
 | Sir Erik | 301439 | [301439-sir-erik.json](./301439-sir-erik.json) |
+| Sir Fallen: Shadows of the Phoenixheart | 316128 | [316128-sir-fallen-shadows-of-the-phoenixheart.json](./316128-sir-fallen-shadows-of-the-phoenixheart.json) |
 | Sir Fallen: Supporter Pack | 312008 | [312008-sir-fallen-supporter-pack.json](./312008-sir-fallen-supporter-pack.json) |
 | Sir Fred | 270668 | [270668-sir-fred.json](./270668-sir-fred.json) |
 | Sir Loin | 93997 | [93997-sir-loin.json](./93997-sir-loin.json) |
@@ -10440,6 +10442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spelunker: Collection | 45280 | [45280-spelunker-collection.json](./45280-spelunker-collection.json) |
 | Spelunkery | 374726 | [374726-spelunkery.json](./374726-spelunkery.json) |
 | Spelunky 2 | 75239 | [75239-spelunky-2.json](./75239-spelunky-2.json) |
+| Spelunky64 | 316126 | [316126-spelunky64.json](./316126-spelunky64.json) |
 | Spencer | 90124 | [90124-spencer.json](./90124-spencer.json) |
 | Sperm Into Labia | 310742 | [310742-sperm-into-labia.json](./310742-sperm-into-labia.json) |
 | Sperma | 232698 | [232698-sperma.json](./232698-sperma.json) |
@@ -16972,6 +16975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swap Blocks | 44217 | [44217-swap-blocks.json](./44217-swap-blocks.json) |
 | Swap Fire | 336655 | [336655-swap-fire.json](./336655-swap-fire.json) |
 | Swap Heroes | 197242 | [197242-swap-heroes.json](./197242-swap-heroes.json) |
+| Swap Motion | 316134 | [316134-swap-motion.json](./316134-swap-motion.json) |
 | Swap Swap | 110536 | [110536-swap-swap.json](./110536-swap-swap.json) |
 | Swap the Matrix | 54417 | [54417-swap-the-matrix.json](./54417-swap-the-matrix.json) |
 | Swap-Swap Panda | 336122 | [336122-swap-swap-panda.json](./336122-swap-swap-panda.json) |
@@ -17424,6 +17428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords Fantasy: Battlefield | 192450 | [192450-swords-fantasy-battlefield.json](./192450-swords-fantasy-battlefield.json) |
 | Swords of Blood | 365203 | [365203-swords-of-blood.json](./365203-swords-of-blood.json) |
 | Swords of Destiny | 23007 | [23007-swords-of-destiny.json](./23007-swords-of-destiny.json) |
+| Swords of Freeport | 316164 | [316164-swords-of-freeport.json](./316164-swords-of-freeport.json) |
 | Swords of Gargantua | 103277 | [103277-swords-of-gargantua.json](./103277-swords-of-gargantua.json) |
 | Swords of Glass | 2887 | [2887-swords-of-glass.json](./2887-swords-of-glass.json) |
 | Swords of Legends | 361838 | [361838-swords-of-legends.json](./361838-swords-of-legends.json) |
