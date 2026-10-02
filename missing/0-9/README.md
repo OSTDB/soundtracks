@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1 on 1 Government | 39809 | [39809-1-on-1-government.json](./39809-1-on-1-government.json) |
 | 1 Screen Platformer | 97902 | [97902-1-screen-platformer.json](./97902-1-screen-platformer.json) |
 | 1 Screen Platformer 2 | 133473 | [133473-1-screen-platformer-2.json](./133473-1-screen-platformer-2.json) |
+| 1 Shot 1 Kill | 297759 | [297759-1-shot-1-kill.json](./297759-1-shot-1-kill.json) |
 | 1 Thousand Deaths | 411656 | [411656-1-thousand-deaths.json](./411656-1-thousand-deaths.json) |
 | 1 Trait Escape | 237063 | [237063-1-trait-escape.json](./237063-1-trait-escape.json) |
 | 1 vs. 100 | 138101 | [138101-1-vs-100.json](./138101-1-vs-100.json) |
