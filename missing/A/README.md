@@ -287,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Lab of One's Own | 177848 | [177848-a-lab-of-ones-own.json](./177848-a-lab-of-ones-own.json) |
 | A Lakeside Walk in the Dolomites | 341085 | [341085-a-lakeside-walk-in-the-dolomites.json](./341085-a-lakeside-walk-in-the-dolomites.json) |
 | A Last Will and Testament | 203869 | [203869-a-last-will-and-testament.json](./203869-a-last-will-and-testament.json) |
+| A Lazy Magic Teacher | 286779 | [286779-a-lazy-magic-teacher.json](./286779-a-lazy-magic-teacher.json) |
 | A Legend of Wisdom | 232962 | [232962-a-legend-of-wisdom.json](./232962-a-legend-of-wisdom.json) |
 | A Legionary's Life | 117101 | [117101-a-legionarys-life.json](./117101-a-legionarys-life.json) |
 | A Letter For You! | 184082 | [184082-a-letter-for-you.json](./184082-a-letter-for-you.json) |
@@ -2090,6 +2091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Solitaire: Lovely Ladies | 304006 | [304006-ai-solitaire-lovely-ladies.json](./304006-ai-solitaire-lovely-ladies.json) |
 | AI Solitaire: Painted Ladies | 303139 | [303139-ai-solitaire-painted-ladies.json](./303139-ai-solitaire-painted-ladies.json) |
 | AI Solitaire: Solitaire Favorites Pack | 303140 | [303140-ai-solitaire-solitaire-favorites-pack.json](./303140-ai-solitaire-solitaire-favorites-pack.json) |
+| AI Stories | 286768 | [286768-ai-stories.json](./286768-ai-stories.json) |
 | Ai Suru Tsuma, Mariko no Furin Houkoku: Otto Kounin no Gachi Furin Sex | 159164 | [159164-ai-suru-tsuma-mariko-no-furin-houkoku-otto-kounin-no-gachi-furin-sex.json](./159164-ai-suru-tsuma-mariko-no-furin-houkoku-otto-kounin-no-gachi-furin-sex.json) |
 | Ai To Noroi: School Simulator | 296442 | [296442-ai-to-noroi-school-simulator.json](./296442-ai-to-noroi-school-simulator.json) |
 | Ai to Yume no Kuni Sanrio Puroland Asobinagara Oboeyou! Hiragana Katakana | 250332 | [250332-ai-to-yume-no-kuni-sanrio-puroland-asobinagara-oboeyou-hiragana-katakana.json](./250332-ai-to-yume-no-kuni-sanrio-puroland-asobinagara-oboeyou-hiragana-katakana.json) |
@@ -4901,6 +4903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annoying Orange: Splatter Up! | 108462 | [108462-annoying-orange-splatter-up.json](./108462-annoying-orange-splatter-up.json) |
 | Annuit Coeptis | 303149 | [303149-annuit-coeptis.json](./303149-annuit-coeptis.json) |
 | Annulus | 196308 | [196308-annulus.json](./196308-annulus.json) |
+| Annum | 286749 | [286749-annum.json](./286749-annum.json) |
 | Annunaki Clicker | 348786 | [348786-annunaki-clicker.json](./348786-annunaki-clicker.json) |
 | Annventure | 221769 | [221769-annventure.json](./221769-annventure.json) |
 | Annyversaire | 283912 | [283912-annyversaire.json](./283912-annyversaire.json) |
@@ -6818,6 +6821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artisan Story | 260215 | [260215-artisan-story.json](./260215-artisan-story.json) |
 | Artist Colony | 23284 | [23284-artist-colony.json](./23284-artist-colony.json) |
 | Artist Idle | 146809 | [146809-artist-idle.json](./146809-artist-idle.json) |
+| Artistic Girl 1 | 286792 | [286792-artistic-girl-1.json](./286792-artistic-girl-1.json) |
 | Artists of a Dead World | 177307 | [177307-artists-of-a-dead-world.json](./177307-artists-of-a-dead-world.json) |
 | Artists of Fortune: Distant Worlds - Crystallus Planet | 148349 | [148349-artists-of-fortune-distant-worlds-crystallus-planet.json](./148349-artists-of-fortune-distant-worlds-crystallus-planet.json) |
 | Artists of Fortune: Distant Worlds - Ferrum Planet | 148350 | [148350-artists-of-fortune-distant-worlds-ferrum-planet.json](./148350-artists-of-fortune-distant-worlds-ferrum-planet.json) |
@@ -7097,6 +7101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ass Sniffing Simulator | 398496 | [398496-ass-sniffing-simulator.json](./398496-ass-sniffing-simulator.json) |
 | Assassin 2015 | 69944 | [69944-assassin-2015.json](./69944-assassin-2015.json) |
 | Assassin Blue | 124628 | [124628-assassin-blue.json](./124628-assassin-blue.json) |
+| Assassin Girls | 286746 | [286746-assassin-girls.json](./286746-assassin-girls.json) |
 | Assassin In the City | 181767 | [181767-assassin-in-the-city.json](./181767-assassin-in-the-city.json) |
 | Assassin Of Dombardos | 406159 | [406159-assassin-of-dombardos.json](./406159-assassin-of-dombardos.json) |
 | Assassin of Monsters | 370186 | [370186-assassin-of-monsters.json](./370186-assassin-of-monsters.json) |
