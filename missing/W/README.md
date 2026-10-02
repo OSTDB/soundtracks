@@ -167,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walaber's Trampoline | 69936 | [69936-walabers-trampoline.json](./69936-walabers-trampoline.json) |
 | Walden Horde | 159746 | [159746-walden-horde.json](./159746-walden-horde.json) |
 | Waldo: In the Heart of the City | 381285 | [381285-waldo-in-the-heart-of-the-city.json](./381285-waldo-in-the-heart-of-the-city.json) |
+| Waldorf's Journey | 318474 | [318474-waldorfs-journey.json](./318474-waldorfs-journey.json) |
 | Wales Interactive Publisher Bundle | 301564 | [301564-wales-interactive-publisher-bundle.json](./301564-wales-interactive-publisher-bundle.json) |
 | Wales Interactive VR Bundle | 119086 | [119086-wales-interactive-vr-bundle.json](./119086-wales-interactive-vr-bundle.json) |
 | Walfie's Nonograms | 389599 | [389599-walfies-nonograms.json](./389599-walfies-nonograms.json) |
@@ -4653,6 +4654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wyld Land | 334480 | [334480-wyld-land.json](./334480-wyld-land.json) |
 | Wyldheart | 395042 | [395042-wyldheart.json](./395042-wyldheart.json) |
 | WyndBlast | 234752 | [234752-wyndblast.json](./234752-wyndblast.json) |
+| Wyprawa po zlote runo | 318490 | [318490-wyprawa-po-zlote-runo.json](./318490-wyprawa-po-zlote-runo.json) |
 | Wyrd World | 360571 | [360571-wyrd-world.json](./360571-wyrd-world.json) |
 | Wyrdbonds | 365841 | [365841-wyrdbonds.json](./365841-wyrdbonds.json) |
 | Wyred | 261764 | [261764-wyred.json](./261764-wyred.json) |
