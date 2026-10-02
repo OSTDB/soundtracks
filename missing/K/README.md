@@ -1599,6 +1599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Come: Deliverance II - The Lion’s Crest | 337179 | [337179-kingdom-come-deliverance-ii-the-lion-s-crest.json](./337179-kingdom-come-deliverance-ii-the-lion-s-crest.json) |
 | Kingdom Come: Deliverance II: Legacy of the Forge | 361887 | [361887-kingdom-come-deliverance-ii-legacy-of-the-forge.json](./361887-kingdom-come-deliverance-ii-legacy-of-the-forge.json) |
 | Kingdom Death: Simulator | 360609 | [360609-kingdom-death-simulator.json](./360609-kingdom-death-simulator.json) |
+| Kingdom Defense: Deliverance | 333136 | [333136-kingdom-defense-deliverance.json](./333136-kingdom-defense-deliverance.json) |
 | Kingdom Eighties | 209620 | [209620-kingdom-eighties.json](./209620-kingdom-eighties.json) |
 | Kingdom Fortress | 337293 | [337293-kingdom-fortress.json](./337293-kingdom-fortress.json) |
 | Kingdom Hearts | 301925 | [301925-kingdom-hearts.json](./301925-kingdom-hearts.json) |
@@ -1954,6 +1955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitchen Wars | 319205 | [319205-kitchen-wars.json](./319205-kitchen-wars.json) |
 | Kitchened | 393135 | [393135-kitchened.json](./393135-kitchened.json) |
 | Kite | 31757 | [31757-kite.json](./31757-kite.json) |
+| Kite Hunter | 333147 | [333147-kite-hunter.json](./333147-kite-hunter.json) |
 | Kiteboard Hero | 175339 | [175339-kiteboard-hero.json](./175339-kiteboard-hero.json) |
 | Kiteboarding | 304600 | [304600-kiteboarding.json](./304600-kiteboarding.json) |
 | Kiteretsu Daihyakka Bouken Ooedo Jyuraki | 271712 | [271712-kiteretsu-daihyakka-bouken-ooedo-jyuraki.json](./271712-kiteretsu-daihyakka-bouken-ooedo-jyuraki.json) |
