@@ -355,6 +355,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint Gal Adventures | 388227 | [388227-paint-gal-adventures.json](./388227-paint-gal-adventures.json) |
 | Paint Hit | 102784 | [102784-paint-hit.json](./102784-paint-hit.json) |
 | Paint Hit: Color Blast | 103631 | [103631-paint-hit-color-blast.json](./103631-paint-hit-color-blast.json) |
+| Paint It: Christmas Edition | 278651 | [278651-paint-it-christmas-edition.json](./278651-paint-it-christmas-edition.json) |
+| Paint It: Christmas Pack | 278654 | [278654-paint-it-christmas-pack.json](./278654-paint-it-christmas-pack.json) |
 | Paint My Cat - Color and Play | 96045 | [96045-paint-my-cat-color-and-play.json](./96045-paint-my-cat-color-and-play.json) |
 | Paint on Paint TD | 373193 | [373193-paint-on-paint-td.json](./373193-paint-on-paint-td.json) |
 | Paint Park Plus | 119585 | [119585-paint-park-plus.json](./119585-paint-park-plus.json) |
@@ -3558,6 +3560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball M: Bethesda Pinball | 386717 | [386717-pinball-m-bethesda-pinball.json](./386717-pinball-m-bethesda-pinball.json) |
 | Pinball M: Chucky's Killer Pinball | 278537 | [278537-pinball-m-chuckys-killer-pinball.json](./278537-pinball-m-chuckys-killer-pinball.json) |
 | Pinball M: Dead by Daylight Pinball | 278536 | [278536-pinball-m-dead-by-daylight-pinball.json](./278536-pinball-m-dead-by-daylight-pinball.json) |
+| Pinball M: Death Save Bundle | 278636 | [278636-pinball-m-death-save-bundle.json](./278636-pinball-m-death-save-bundle.json) |
 | Pinball M: Duke Nukem's Big Shot Pinball | 276743 | [276743-pinball-m-duke-nukems-big-shot-pinball.json](./276743-pinball-m-duke-nukems-big-shot-pinball.json) |
 | Pinball M: System Shock Pinball | 287179 | [287179-pinball-m-system-shock-pinball.json](./287179-pinball-m-system-shock-pinball.json) |
 | Pinball M: The Thing Pinball | 278535 | [278535-pinball-m-the-thing-pinball.json](./278535-pinball-m-the-thing-pinball.json) |
