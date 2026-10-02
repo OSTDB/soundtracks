@@ -1879,6 +1879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Got Your Tongue | 360674 | [360674-cat-got-your-tongue.json](./360674-cat-got-your-tongue.json) |
 | Cat Guardian | 319201 | [319201-cat-guardian.json](./319201-cat-guardian.json) |
 | Cat Gunner | 356273 | [356273-cat-gunner.json](./356273-cat-gunner.json) |
+| Cat Heroes | 299394 | [299394-cat-heroes.json](./299394-cat-heroes.json) |
 | Cat Hits the Deck | 406209 | [406209-cat-hits-the-deck.json](./406209-cat-hits-the-deck.json) |
 | Cat Hostel | 359070 | [359070-cat-hostel.json](./359070-cat-hostel.json) |
 | Cat in Rain | 320764 | [320764-cat-in-rain.json](./320764-cat-in-rain.json) |
@@ -2195,6 +2196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats in Hell | 201768 | [201768-cats-in-hell.json](./201768-cats-in-hell.json) |
 | Cats in the Shell | 408988 | [408988-cats-in-the-shell.json](./408988-cats-in-the-shell.json) |
 | Cats Kill Zombies | 225183 | [225183-cats-kill-zombies.json](./225183-cats-kill-zombies.json) |
+| Cats Link | 299397 | [299397-cats-link.json](./299397-cats-link.json) |
 | Cats Logic | 334092 | [334092-cats-logic.json](./334092-cats-logic.json) |
 | Cats Lover | 55281 | [55281-cats-lover.json](./55281-cats-lover.json) |
 | Cats n Wires | 177476 | [177476-cats-n-wires.json](./177476-cats-n-wires.json) |
@@ -3441,6 +3443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chickens Don't Fly | 361681 | [361681-chickens-dont-fly.json](./361681-chickens-dont-fly.json) |
 | Chickens in Choppers | 270401 | [270401-chickens-in-choppers.json](./270401-chickens-in-choppers.json) |
 | Chickens on the Road | 143072 | [143072-chickens-on-the-road.json](./143072-chickens-on-the-road.json) |
+| Chickens VS Zombies | 299414 | [299414-chickens-vs-zombies.json](./299414-chickens-vs-zombies.json) |
 | Chickens. Chickens? Chickens! | 417412 | [417412-chickens-chickens-chickens.json](./417412-chickens-chickens-chickens.json) |
 | Chicklet | 365167 | [365167-chicklet.json](./365167-chicklet.json) |
 | Chicktionary | 375202 | [375202-chicktionary.json](./375202-chicktionary.json) |
@@ -3448,6 +3451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicku | 33515 | [33515-chicku.json](./33515-chicku.json) |
 | Chicky Woggy | 305433 | [305433-chicky-woggy.json](./305433-chicky-woggy.json) |
 | Chicky Woggy | 41421 | [41421-chicky-woggy.json](./41421-chicky-woggy.json) |
+| Chiclana & Friends: The Game | 299387 | [299387-chiclana-and-friends-the-game.json](./299387-chiclana-and-friends-the-game.json) |
 | Chico and the Magic Orchards | 199361 | [199361-chico-and-the-magic-orchards.json](./199361-chico-and-the-magic-orchards.json) |
 | Chico and the Magic Orchards DX | 277885 | [277885-chico-and-the-magic-orchards-dx.json](./277885-chico-and-the-magic-orchards-dx.json) |
 | Chico's Rebound | 345050 | [345050-chicos-rebound.json](./345050-chicos-rebound.json) |
@@ -5200,6 +5204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clubhouse Games Express: Card Classics | 70418 | [70418-clubhouse-games-express-card-classics.json](./70418-clubhouse-games-express-card-classics.json) |
 | Cluck | 195184 | [195184-cluck.json](./195184-cluck.json) |
 | Cluck and Tag | 389702 | [389702-cluck-and-tag.json](./389702-cluck-and-tag.json) |
+| Cluck Avengers | 299407 | [299407-cluck-avengers.json](./299407-cluck-avengers.json) |
 | Cluck Cluck'em | 183456 | [183456-cluck-cluckem.json](./183456-cluck-cluckem.json) |
 | Cludbugz's Twisted Magic | 51969 | [51969-cludbugzs-twisted-magic.json](./51969-cludbugzs-twisted-magic.json) |
 | Clue | 206977 | [206977-clue.json](./206977-clue.json) |
@@ -6924,6 +6929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Misha | 399752 | [399752-cooking-misha.json](./399752-cooking-misha.json) |
 | Cooking Papa: Cookstar | 237641 | [237641-cooking-papa-cookstar.json](./237641-cooking-papa-cookstar.json) |
 | Cooking Simulator: Cakes and Cookies | 129196 | [129196-cooking-simulator-cakes-and-cookies.json](./129196-cooking-simulator-cakes-and-cookies.json) |
+| Cooking Simulator: Pizza | 299378 | [299378-cooking-simulator-pizza.json](./299378-cooking-simulator-pizza.json) |
 | Cooking Simulator: Sushi | 273371 | [273371-cooking-simulator-sushi.json](./273371-cooking-simulator-sushi.json) |
 | Cooking Time! | 369725 | [369725-cooking-time.json](./369725-cooking-time.json) |
 | Cooking Trip: Back on the Road | 120385 | [120385-cooking-trip-back-on-the-road.json](./120385-cooking-trip-back-on-the-road.json) |
