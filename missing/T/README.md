@@ -2256,6 +2256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terracide | 77393 | [77393-terracide.json](./77393-terracide.json) |
 | Terracosmic | 132622 | [132622-terracosmic.json](./132622-terracosmic.json) |
 | Terracotta | 271235 | [271235-terracotta.json](./271235-terracotta.json) |
+| Terracrest | 317330 | [317330-terracrest.json](./317330-terracrest.json) |
 | TerraCube | 361690 | [361690-terracube.json](./361690-terracube.json) |
 | Terrafactory: Idle Planet | 384154 | [384154-terrafactory-idle-planet.json](./384154-terrafactory-idle-planet.json) |
 | TerraFire | 69334 | [69334-terrafire.json](./69334-terrafire.json) |
@@ -4103,6 +4104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Denpa Men: They Came By Wave | 9662 | [9662-the-denpa-men-they-came-by-wave.json](./9662-the-denpa-men-they-came-by-wave.json) |
 | The Depraved Vampire Slut | 152207 | [152207-the-depraved-vampire-slut.json](./152207-the-depraved-vampire-slut.json) |
 | The Depths of Depravity | 345133 | [345133-the-depths-of-depravity.json](./345133-the-depths-of-depravity.json) |
+| The Depths of Despair | 317305 | [317305-the-depths-of-despair.json](./317305-the-depths-of-despair.json) |
 | The Depths: Prehistoric Survival | 166724 | [166724-the-depths-prehistoric-survival.json](./166724-the-depths-prehistoric-survival.json) |
 | The Derailed | 333377 | [333377-the-derailed.json](./333377-the-derailed.json) |
 | The Derailed: Devour the Harvest | 413675 | [413675-the-derailed-devour-the-harvest.json](./413675-the-derailed-devour-the-harvest.json) |
@@ -4166,6 +4168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dismal Silhouette | 282620 | [282620-the-dismal-silhouette.json](./282620-the-dismal-silhouette.json) |
 | The Disney Collection: Quackshot Starring Donald Duck & Castle of Illusion Starring Mickey Mouse | 45561 | [45561-the-disney-collection-quackshot-starring-donald-duck-and-castle-of-illusion-starring-mickey-mouse.json](./45561-the-disney-collection-quackshot-starring-donald-duck-and-castle-of-illusion-starring-mickey-mouse.json) |
 | The Dispatcher | 329003 | [329003-the-dispatcher.json](./329003-the-dispatcher.json) |
+| The Displacement | 316712 | [316712-the-displacement.json](./316712-the-displacement.json) |
 | The Distortion Beast | 299141 | [299141-the-distortion-beast.json](./299141-the-distortion-beast.json) |
 | The District | 35538 | [35538-the-district.json](./35538-the-district.json) |
 | The Ditzy Demons Are in Love With Me | 109617 | [109617-the-ditzy-demons-are-in-love-with-me.json](./109617-the-ditzy-demons-are-in-love-with-me.json) |
@@ -4368,6 +4371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elementalist Typing | 347183 | [347183-the-elementalist-typing.json](./347183-the-elementalist-typing.json) |
 | The Elementalists Book 3 | 408177 | [408177-the-elementalists-book-3.json](./408177-the-elementalists-book-3.json) |
 | The Elephant E | 229040 | [229040-the-elephant-e.json](./229040-the-elephant-e.json) |
+| The Elevator | 317325 | [317325-the-elevator.json](./317325-the-elevator.json) |
 | The Elevator | 326986 | [326986-the-elevator.json](./326986-the-elevator.json) |
 | The Elevator | 57174 | [57174-the-elevator.json](./57174-the-elevator.json) |
 | The Elevator Breakdown | 337700 | [337700-the-elevator-breakdown.json](./337700-the-elevator-breakdown.json) |
@@ -4530,6 +4534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Faceless Man | 301996 | [301996-the-faceless-man.json](./301996-the-faceless-man.json) |
 | The Faces of Evil Remastered | 206133 | [206133-the-faces-of-evil-remastered.json](./206133-the-faces-of-evil-remastered.json) |
 | The Facility | 34646 | [34646-the-facility.json](./34646-the-facility.json) |
+| The Factory Must Grow | 317295 | [317295-the-factory-must-grow.json](./317295-the-factory-must-grow.json) |
 | The Fading of Nicole Wilson | 319711 | [319711-the-fading-of-nicole-wilson.json](./319711-the-fading-of-nicole-wilson.json) |
 | The Fae King Is My Roommate | 342076 | [342076-the-fae-king-is-my-roommate.json](./342076-the-fae-king-is-my-roommate.json) |
 | The Faery Tale Adventure | 12087 | [12087-the-faery-tale-adventure.json](./12087-the-faery-tale-adventure.json) |
@@ -5390,6 +5395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hypno Shop | 228364 | [228364-the-hypno-shop.json](./228364-the-hypno-shop.json) |
 | The I of It | 225292 | [225292-the-i-of-it.json](./225292-the-i-of-it.json) |
 | The IBM Basic Quiz | 79603 | [79603-the-ibm-basic-quiz.json](./79603-the-ibm-basic-quiz.json) |
+| The Icarus Experiment | 317307 | [317307-the-icarus-experiment.json](./317307-the-icarus-experiment.json) |
 | The Iceberg | 180672 | [180672-the-iceberg.json](./180672-the-iceberg.json) |
 | The Icecream Machine | 397167 | [397167-the-icecream-machine.json](./397167-the-icecream-machine.json) |
 | The Icky Mr Fox | 299261 | [299261-the-icky-mr-fox.json](./299261-the-icky-mr-fox.json) |
@@ -6243,6 +6249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Child Quest | 346598 | [346598-the-legend-of-zelda-child-quest.json](./346598-the-legend-of-zelda-child-quest.json) |
 | The Legend of Zelda: Chiming Bells | 323273 | [323273-the-legend-of-zelda-chiming-bells.json](./323273-the-legend-of-zelda-chiming-bells.json) |
 | The Legend of Zelda: Demon's Quest | 345626 | [345626-the-legend-of-zelda-demons-quest.json](./345626-the-legend-of-zelda-demons-quest.json) |
+| The Legend of Zelda: Dungeons of Infinity | 316720 | [316720-the-legend-of-zelda-dungeons-of-infinity.json](./316720-the-legend-of-zelda-dungeons-of-infinity.json) |
 | The Legend of Zelda: Echoes of Aurelia | 323202 | [323202-the-legend-of-zelda-echoes-of-aurelia.json](./323202-the-legend-of-zelda-echoes-of-aurelia.json) |
 | The Legend of Zelda: Echoes of Wisdom | 306149 | [306149-the-legend-of-zelda-echoes-of-wisdom.json](./306149-the-legend-of-zelda-echoes-of-wisdom.json) |
 | The Legend of Zelda: Four Swords | 163572 | [163572-the-legend-of-zelda-four-swords.json](./163572-the-legend-of-zelda-four-swords.json) |
@@ -7267,6 +7274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Patrick Polly Swooshball Challenge | 186748 | [186748-the-patrick-polly-swooshball-challenge.json](./186748-the-patrick-polly-swooshball-challenge.json) |
 | The Patriot | 24166 | [24166-the-patriot.json](./24166-the-patriot.json) |
 | The Paupers | 275698 | [275698-the-paupers.json](./275698-the-paupers.json) |
+| The Pauser | 317299 | [317299-the-pauser.json](./317299-the-pauser.json) |
 | The Pawn | 12193 | [12193-the-pawn.json](./12193-the-pawn.json) |
 | The Payphone | 398484 | [398484-the-payphone.json](./398484-the-payphone.json) |
 | The Peacekeeper | 307300 | [307300-the-peacekeeper.json](./307300-the-peacekeeper.json) |
@@ -11485,6 +11493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tinker Bell: 2 Disney Games | 113889 | [113889-tinker-bell-2-disney-games.json](./113889-tinker-bell-2-disney-games.json) |
 | Tinker Racers | 129739 | [129739-tinker-racers.json](./129739-tinker-racers.json) |
 | Tinker's Ascent | 355564 | [355564-tinkers-ascent.json](./355564-tinkers-ascent.json) |
+| Tinkercore | 316686 | [316686-tinkercore.json](./316686-tinkercore.json) |
 | Tinkerlands: A Shipwrecked Adventure | 274567 | [274567-tinkerlands-a-shipwrecked-adventure.json](./274567-tinkerlands-a-shipwrecked-adventure.json) |
 | Tinkernest | 404846 | [404846-tinkernest.json](./404846-tinkernest.json) |
 | TinkerQuarry | 47231 | [47231-tinkerquarry.json](./47231-tinkerquarry.json) |
@@ -12557,6 +12566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Many Sheep | 249838 | [249838-too-many-sheep.json](./249838-too-many-sheep.json) |
 | Too Many Snakes | 233082 | [233082-too-many-snakes.json](./233082-too-many-snakes.json) |
 | Too Slime and Snake | 218410 | [218410-too-slime-and-snake.json](./218410-too-slime-and-snake.json) |
+| Too Tired To Die | 317301 | [317301-too-tired-to-die.json](./317301-too-tired-to-die.json) |
 | Too White Basketball | 119636 | [119636-too-white-basketball.json](./119636-too-white-basketball.json) |
 | TooBold 3 | 97102 | [97102-toobold-3.json](./97102-toobold-3.json) |
 | Toofan AlAqsa | 289938 | [289938-toofan-alaqsa.json](./289938-toofan-alaqsa.json) |
@@ -13755,6 +13765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trailer Park Zombies | 389462 | [389462-trailer-park-zombies.json](./389462-trailer-park-zombies.json) |
 | Trailer Trashers | 130157 | [130157-trailer-trashers.json](./130157-trailer-trashers.json) |
 | Trailmakers: High Seas Expansion | 193221 | [193221-trailmakers-high-seas-expansion.json](./193221-trailmakers-high-seas-expansion.json) |
+| Trailmakers: Motorhead Pack | 317323 | [317323-trailmakers-motorhead-pack.json](./317323-trailmakers-motorhead-pack.json) |
 | Trailmakers: Rescue Pack | 293396 | [293396-trailmakers-rescue-pack.json](./293396-trailmakers-rescue-pack.json) |
 | Trailmappers | 211233 | [211233-trailmappers.json](./211233-trailmappers.json) |
 | Trailmarks | 391079 | [391079-trailmarks.json](./391079-trailmarks.json) |
