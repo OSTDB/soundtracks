@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | W.O.T.E: Waking On The Endtimes | 309875 | [309875-w-o-t-e-waking-on-the-endtimes.json](./309875-w-o-t-e-waking-on-the-endtimes.json) |
 | W.T. | 151689 | [151689-w-t.json](./151689-w-t.json) |
 | W2000_CHAN_>W<.exe | 383932 | [383932-w2000-chan-w-exe.json](./383932-w2000-chan-w-exe.json) |
+| W3Champions | 316722 | [316722-w3champions.json](./316722-w3champions.json) |
 | W3llidk’s Bean Game | 406260 | [406260-w3llidk-s-bean-game.json](./406260-w3llidk-s-bean-game.json) |
 | W4RR-i/o-RS | 75910 | [75910-w4rr-i-o-rs.json](./75910-w4rr-i-o-rs.json) |
 | Wa ga Ryuu wo Miyo: Pride of the Dragon Peace | 227795 | [227795-wa-ga-ryuu-wo-miyo-pride-of-the-dragon-peace.json](./227795-wa-ga-ryuu-wo-miyo-pride-of-the-dragon-peace.json) |
@@ -2198,6 +2199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispered Secrets: Cruise of Misfortune - Collector's Edition | 338697 | [338697-whispered-secrets-cruise-of-misfortune-collectors-edition.json](./338697-whispered-secrets-cruise-of-misfortune-collectors-edition.json) |
 | Whispered Secrets: Cursed Wealth - Collector's Edition | 351714 | [351714-whispered-secrets-cursed-wealth-collectors-edition.json](./351714-whispered-secrets-cursed-wealth-collectors-edition.json) |
 | Whispered Secrets: Everburning Candle | 100344 | [100344-whispered-secrets-everburning-candle.json](./100344-whispered-secrets-everburning-candle.json) |
+| Whispered Secrets: Everburning Candle - Collector's Edition | 316694 | [316694-whispered-secrets-everburning-candle-collectors-edition.json](./316694-whispered-secrets-everburning-candle-collectors-edition.json) |
 | Whispered Secrets: Forgotten Sins - Collector's Edition | 362843 | [362843-whispered-secrets-forgotten-sins-collectors-edition.json](./362843-whispered-secrets-forgotten-sins-collectors-edition.json) |
 | Whispered Secrets: In the Cards - Collector's Edition | 362836 | [362836-whispered-secrets-in-the-cards-collectors-edition.json](./362836-whispered-secrets-in-the-cards-collectors-edition.json) |
 | Whispered Secrets: Morbid Obsession - Collector's Edition | 362837 | [362837-whispered-secrets-morbid-obsession-collectors-edition.json](./362837-whispered-secrets-morbid-obsession-collectors-edition.json) |
@@ -4226,6 +4228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World2D Re | 262282 | [262282-world2d-re.json](./262282-world2d-re.json) |
 | WorldCraft: mini sandbox world | 89247 | [89247-worldcraft-mini-sandbox-world.json](./89247-worldcraft-mini-sandbox-world.json) |
 | WorldCup Super Stadium | 268526 | [268526-worldcup-super-stadium.json](./268526-worldcup-super-stadium.json) |
+| Worlde Lande Countrie | 316691 | [316691-worlde-lande-countrie.json](./316691-worlde-lande-countrie.json) |
 | Worldforge: Construct & Destroy | 413125 | [413125-worldforge-construct-and-destroy.json](./413125-worldforge-construct-and-destroy.json) |
 | WorldGuessr | 315679 | [315679-worldguessr.json](./315679-worldguessr.json) |
 | Worldless | 214709 | [214709-worldless.json](./214709-worldless.json) |
@@ -4543,6 +4546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wuthering Waves: Lightly We Toss the Crown | 346182 | [346182-wuthering-waves-lightly-we-toss-the-crown.json](./346182-wuthering-waves-lightly-we-toss-the-crown.json) |
 | Wuthering Waves: Resolution to Illuminate the Shadows | 394857 | [394857-wuthering-waves-resolution-to-illuminate-the-shadows.json](./394857-wuthering-waves-resolution-to-illuminate-the-shadows.json) |
 | Wuthering Waves: Thaw of Eons | 311653 | [311653-wuthering-waves-thaw-of-eons.json](./311653-wuthering-waves-thaw-of-eons.json) |
+| Wuthering Waves: To the Shore's End | 317337 | [317337-wuthering-waves-to-the-shores-end.json](./317337-wuthering-waves-to-the-shores-end.json) |
 | Wuthering Waves: Unfading Melody of Life | 355745 | [355745-wuthering-waves-unfading-melody-of-life.json](./355745-wuthering-waves-unfading-melody-of-life.json) |
 | Wuthering Waves: We Who See the Stars | 381238 | [381238-wuthering-waves-we-who-see-the-stars.json](./381238-wuthering-waves-we-who-see-the-stars.json) |
 | Wuthering Waves: When the Night Knocks | 321376 | [321376-wuthering-waves-when-the-night-knocks.json](./321376-wuthering-waves-when-the-night-knocks.json) |
@@ -4632,6 +4636,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWI: Aces of the Sky | 9392 | [9392-wwi-aces-of-the-sky.json](./9392-wwi-aces-of-the-sky.json) |
 | WWI: The First DogFighters | 179130 | [179130-wwi-the-first-dogfighters.json](./179130-wwi-the-first-dogfighters.json) |
 | WWI: The Great War | 71540 | [71540-wwi-the-great-war.json](./71540-wwi-the-great-war.json) |
+| WWII Airplane Fight: Battle War Squad - Cash Injection | 317287 | [317287-wwii-airplane-fight-battle-war-squad-cash-injection.json](./317287-wwii-airplane-fight-battle-war-squad-cash-injection.json) |
+| WWII Airplane Fight: Battle War Squad - Master | 317288 | [317288-wwii-airplane-fight-battle-war-squad-master.json](./317288-wwii-airplane-fight-battle-war-squad-master.json) |
 | WWII Battle Tanks: T-34 vs. Tiger | 21292 | [21292-wwii-battle-tanks-t-34-vs-tiger.json](./21292-wwii-battle-tanks-t-34-vs-tiger.json) |
 | WWII Eiyuu Retsuden: Saikyou no Tora - Kurt Knispel | 91407 | [91407-wwii-eiyuu-retsuden-saikyou-no-tora-kurt-knispel.json](./91407-wwii-eiyuu-retsuden-saikyou-no-tora-kurt-knispel.json) |
 | WWII Simulator 3D | 303093 | [303093-wwii-simulator-3d.json](./303093-wwii-simulator-3d.json) |
