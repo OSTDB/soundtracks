@@ -539,6 +539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XXX Puzzle | 103646 | [103646-xxx-puzzle.json](./103646-xxx-puzzle.json) |
 | Xxx Talent | 385865 | [385865-xxx-talent.json](./385865-xxx-talent.json) |
 | Xxx_Cyberrat_Xxx | 216818 | [216818-xxx-cyberrat-xxx.json](./216818-xxx-cyberrat-xxx.json) |
+| XXX, I Want You to Keep Fighting | 294385 | [294385-xxx-i-want-you-to-keep-fighting.json](./294385-xxx-i-want-you-to-keep-fighting.json) |
 | XxxHolic: Watanuki no Izayoi Sowa | 194567 | [194567-xxxholic-watanuki-no-izayoi-sowa.json](./194567-xxxholic-watanuki-no-izayoi-sowa.json) |
 | XXZ | 55272 | [55272-xxz.json](./55272-xxz.json) |
 | XXZ: XXL | 149917 | [149917-xxz-xxl.json](./149917-xxz-xxl.json) |
