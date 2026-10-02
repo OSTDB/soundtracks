@@ -567,6 +567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eden Warrior | 303506 | [303506-eden-warrior.json](./303506-eden-warrior.json) |
 | Eden: A Genesis Through Time | 290722 | [290722-eden-a-genesis-through-time.json](./290722-eden-a-genesis-through-time.json) |
 | Eden: New Dawn | 369642 | [369642-eden-new-dawn.json](./369642-eden-new-dawn.json) |
+| Eden: Project New Earth | 286228 | [286228-eden-project-new-earth.json](./286228-eden-project-new-earth.json) |
 | Eden: World Builder Simulator | 259626 | [259626-eden-world-builder-simulator.json](./259626-eden-world-builder-simulator.json) |
 | Eden.schemata(); | 151707 | [151707-eden-schemata.json](./151707-eden-schemata.json) |
 | Eden's Inferno | 353304 | [353304-edens-inferno.json](./353304-edens-inferno.json) |
@@ -753,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Xanadu Scenario II PC-8801mkIISR | 314859 | [314859-eggconsole-xanadu-scenario-ii-pc-8801mkiisr.json](./314859-eggconsole-xanadu-scenario-ii-pc-8801mkiisr.json) |
 | Eggconsole Yokai Tantei PC-8801 | 283284 | [283284-eggconsole-yokai-tantei-pc-8801.json](./283284-eggconsole-yokai-tantei-pc-8801.json) |
 | Eggconsole Ys II MSX2 | 328525 | [328525-eggconsole-ys-ii-msx2.json](./328525-eggconsole-ys-ii-msx2.json) |
+| Eggconsole Ys PC-8801mkIISR | 286210 | [286210-eggconsole-ys-pc-8801mkiisr.json](./286210-eggconsole-ys-pc-8801mkiisr.json) |
 | Eggconsole Yuureikun MSX2 | 381705 | [381705-eggconsole-yuureikun-msx2.json](./381705-eggconsole-yuureikun-msx2.json) |
 | Eggconsole: Arugisu no Tsubasa | 385060 | [385060-eggconsole-arugisu-no-tsubasa.json](./385060-eggconsole-arugisu-no-tsubasa.json) |
 | Eggerland 2 | 47529 | [47529-eggerland-2.json](./47529-eggerland-2.json) |
@@ -1476,6 +1478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergents Trading Card Game | 183603 | [183603-emergents-trading-card-game.json](./183603-emergents-trading-card-game.json) |
 | Emerging Tactical | 278421 | [278421-emerging-tactical.json](./278421-emerging-tactical.json) |
 | Emerland Solitaire: Endless Journey | 32079 | [32079-emerland-solitaire-endless-journey.json](./32079-emerland-solitaire-endless-journey.json) |
+| Emery Hearts | 286226 | [286226-emery-hearts.json](./286226-emery-hearts.json) |
 | Emetic Skimmer | 55185 | [55185-emetic-skimmer.json](./55185-emetic-skimmer.json) |
 | Emi-chan no Moero Yakyuuken | 41373 | [41373-emi-chan-no-moero-yakyuuken.json](./41373-emi-chan-no-moero-yakyuuken.json) |
 | Emi: New Beginning | 225600 | [225600-emi-new-beginning.json](./225600-emi-new-beginning.json) |
