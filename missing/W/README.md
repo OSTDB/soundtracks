@@ -1215,6 +1215,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waterloo | 328018 | [328018-waterloo.json](./328018-waterloo.json) |
 | Waterloo: Napoleon's Last Battle | 71611 | [71611-waterloo-napoleons-last-battle.json](./71611-waterloo-napoleons-last-battle.json) |
 | WaterMeasure | 344542 | [344542-watermeasure.json](./344542-watermeasure.json) |
+| Watermelon | 314365 | [314365-watermelon.json](./314365-watermelon.json) |
+| Watermelon | 314366 | [314366-watermelon.json](./314366-watermelon.json) |
 | Watermelon | 338390 | [338390-watermelon.json](./338390-watermelon.json) |
 | Watermelon (with a Broken Head) Game | 334307 | [334307-watermelon-with-a-broken-head-game.json](./334307-watermelon-with-a-broken-head-game.json) |
 | Watermelon Blocks | 148953 | [148953-watermelon-blocks.json](./148953-watermelon-blocks.json) |
