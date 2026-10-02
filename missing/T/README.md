@@ -7677,6 +7677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rack | 207808 | [207808-the-rack.json](./207808-the-rack.json) |
 | The Radiants | 144138 | [144138-the-radiants.json](./144138-the-radiants.json) |
 | The Radio Chaser | 292074 | [292074-the-radio-chaser.json](./292074-the-radio-chaser.json) |
+| The Radio Wave Bureau | 280433 | [280433-the-radio-wave-bureau.json](./280433-the-radio-wave-bureau.json) |
 | The Ragdoll | 108272 | [108272-the-ragdoll.json](./108272-the-ragdoll.json) |
 | The Raid of Brunswick | 397919 | [397919-the-raid-of-brunswick.json](./397919-the-raid-of-brunswick.json) |
 | The Railroad Works | 72047 | [72047-the-railroad-works.json](./72047-the-railroad-works.json) |
@@ -15881,6 +15882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsukikage no Simulacre: Kaihou no Hane | 120995 | [120995-tsukikage-no-simulacre-kaihou-no-hane.json](./120995-tsukikage-no-simulacre-kaihou-no-hane.json) |
 | Tsukikomori | 37781 | [37781-tsukikomori.json](./37781-tsukikomori.json) |
 | Tsukino Paradise | 44105 | [44105-tsukino-paradise.json](./44105-tsukino-paradise.json) |
+| Tsukodome | 280469 | [280469-tsukodome.json](./280469-tsukodome.json) |
 | Tsukumo Reiko's Summer Holidays | 394163 | [394163-tsukumo-reikos-summer-holidays.json](./394163-tsukumo-reikos-summer-holidays.json) |
 | Tsukumobake | 183452 | [183452-tsukumobake.json](./183452-tsukumobake.json) |
 | Tsukumogamis! | 272870 | [272870-tsukumogamis.json](./272870-tsukumogamis.json) |
@@ -16164,6 +16166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TurnOn | 19606 | [19606-turnon.json](./19606-turnon.json) |
 | Turnout | 337760 | [337760-turnout.json](./337760-turnout.json) |
 | Turnpike | 308463 | [308463-turnpike.json](./308463-turnpike.json) |
+| TurnSkull | 280436 | [280436-turnskull.json](./280436-turnskull.json) |
 | Turochamp | 232670 | [232670-turochamp.json](./232670-turochamp.json) |
 | Turok | 308368 | [308368-turok.json](./308368-turok.json) |
 | Turok 2 | 146729 | [146729-turok-2.json](./146729-turok-2.json) |
