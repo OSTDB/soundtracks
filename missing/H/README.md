@@ -5137,6 +5137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Host Master and the Conquest of Humor | 62186 | [62186-host-master-and-the-conquest-of-humor.json](./62186-host-master-and-the-conquest-of-humor.json) |
 | Host Master Deux: Quest for Identity | 62185 | [62185-host-master-deux-quest-for-identity.json](./62185-host-master-deux-quest-for-identity.json) |
 | Host no Abunai Sekai | 264091 | [264091-host-no-abunai-sekai.json](./264091-host-no-abunai-sekai.json) |
+| Host Security Guard | 278641 | [278641-host-security-guard.json](./278641-host-security-guard.json) |
 | Hostage Heart | 417565 | [417565-hostage-heart.json](./417565-hostage-heart.json) |
 | Hostil | 75816 | [75816-hostil.json](./75816-hostil.json) |
 | Hostile Mars | 151031 | [151031-hostile-mars.json](./151031-hostile-mars.json) |
@@ -5185,6 +5186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Girls | 344570 | [344570-hot-girls.json](./344570-hot-girls.json) |
 | Hot Girls Delivery Club | 253932 | [253932-hot-girls-delivery-club.json](./253932-hot-girls-delivery-club.json) |
 | Hot Guns: International Missions | 213967 | [213967-hot-guns-international-missions.json](./213967-hot-guns-international-missions.json) |
+| Hot Hatch Adventure | 278640 | [278640-hot-hatch-adventure.json](./278640-hot-hatch-adventure.json) |
 | Hot Heat Reset | 224512 | [224512-hot-heat-reset.json](./224512-hot-heat-reset.json) |
 | Hot Homework Help | 269011 | [269011-hot-homework-help.json](./269011-hot-homework-help.json) |
 | Hot Job 94' | 265228 | [265228-hot-job-94.json](./265228-hot-job-94.json) |
