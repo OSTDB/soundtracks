@@ -6324,6 +6324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argus | 46762 | [46762-argus.json](./46762-argus.json) |
 | Argus DX | 361326 | [361326-argus-dx.json](./361326-argus-dx.json) |
 | Argy Bargy | 135755 | [135755-argy-bargy.json](./135755-argy-bargy.json) |
+| Argyle Manor, Book 1: Away From The Sun | 291713 | [291713-argyle-manor-book-1-away-from-the-sun.json](./291713-argyle-manor-book-1-away-from-the-sun.json) |
 | Arhaekon | 195204 | [195204-arhaekon.json](./195204-arhaekon.json) |
 | Ari In Wonderland: Episode 1 | 200646 | [200646-ari-in-wonderland-episode-1.json](./200646-ari-in-wonderland-episode-1.json) |
 | Aria | 192416 | [192416-aria.json](./192416-aria.json) |
@@ -8500,6 +8501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AX-6: Powered Knight | 80218 | [80218-ax-6-powered-knight.json](./80218-ax-6-powered-knight.json) |
 | AX-7: Police & Gangster | 91461 | [91461-ax-7-police-and-gangster.json](./91461-ax-7-police-and-gangster.json) |
 | AX-8: Galaxy Mission | 91460 | [91460-ax-8-galaxy-mission.json](./91460-ax-8-galaxy-mission.json) |
+| AX: Portal Slayers | 291710 | [291710-ax-portal-slayers.json](./291710-ax-portal-slayers.json) |
 | Axan Ships | 120152 | [120152-axan-ships.json](./120152-axan-ships.json) |
 | Axan Ships: Low Poly | 118348 | [118348-axan-ships-low-poly.json](./118348-axan-ships-low-poly.json) |
 | Axe And Claw | 400457 | [400457-axe-and-claw.json](./400457-axe-and-claw.json) |
