@@ -6746,6 +6746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fusion: Genesis | 22935 | [22935-fusion-genesis.json](./22935-fusion-genesis.json) |
 | Fusion: Sentient | 65602 | [65602-fusion-sentient.json](./65602-fusion-sentient.json) |
 | Fusionfall Heroes | 302950 | [302950-fusionfall-heroes.json](./302950-fusionfall-heroes.json) |
+| Fusionfall Legacy | 302612 | [302612-fusionfall-legacy.json](./302612-fusionfall-legacy.json) |
 | FusionFall Retro | 54747 | [54747-fusionfall-retro.json](./54747-fusionfall-retro.json) |
 | Fusionist | 250945 | [250945-fusionist.json](./250945-fusionist.json) |
 | Fussball Manager 25 | 335346 | [335346-fussball-manager-25.json](./335346-fussball-manager-25.json) |
