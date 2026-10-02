@@ -2218,6 +2218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Trap | 2486 | [2486-night-trap.json](./2486-night-trap.json) |
 | Night Trap | 298556 | [298556-night-trap.json](./298556-night-trap.json) |
 | Night Trap: 25th Anniversary Edition | 28249 | [28249-night-trap-25th-anniversary-edition.json](./28249-night-trap-25th-anniversary-edition.json) |
+| Night Vigil | 289548 | [289548-night-vigil.json](./289548-night-vigil.json) |
 | Night Vigil | 31848 | [31848-night-vigil.json](./31848-night-vigil.json) |
 | Night Walker | 256316 | [256316-night-walker.json](./256316-night-walker.json) |
 | Night Watch | 20540 | [20540-night-watch.json](./20540-night-watch.json) |
