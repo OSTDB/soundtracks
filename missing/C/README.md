@@ -6483,6 +6483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Concrete Rage | 269117 | [269117-concrete-rage.json](./269117-concrete-rage.json) |
 | Concrete Spaces | 335871 | [335871-concrete-spaces.json](./335871-concrete-spaces.json) |
 | Concrete Tremor | 234033 | [234033-concrete-tremor.json](./234033-concrete-tremor.json) |
+| Concrete Visions | 282816 | [282816-concrete-visions.json](./282816-concrete-visions.json) |
 | Concurrence | 166779 | [166779-concurrence.json](./166779-concurrence.json) |
 | Concurrency | 34668 | [34668-concurrency.json](./34668-concurrency.json) |
 | Conde | 265424 | [265424-conde.json](./265424-conde.json) |
@@ -8837,6 +8838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossword Puzzle | 286096 | [286096-crossword-puzzle.json](./286096-crossword-puzzle.json) |
 | Crossword Safari: Word Hunt | 108630 | [108630-crossword-safari-word-hunt.json](./108630-crossword-safari-word-hunt.json) |
 | Crosswords | 89675 | [89675-crosswords.json](./89675-crosswords.json) |
+| Crosswords and More | 282843 | [282843-crosswords-and-more.json](./282843-crosswords-and-more.json) |
 | Crosswords Classic | 97301 | [97301-crosswords-classic.json](./97301-crosswords-classic.json) |
 | Crosswords With Friends | 90063 | [90063-crosswords-with-friends.json](./90063-crosswords-with-friends.json) |
 | Crossy Crash | 98779 | [98779-crossy-crash.json](./98779-crossy-crash.json) |
