@@ -1142,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parasite Mutant | 370711 | [370711-parasite-mutant.json](./370711-parasite-mutant.json) |
 | Parasite Pack | 207292 | [207292-parasite-pack.json](./207292-parasite-pack.json) |
 | Parasited Will | 333060 | [333060-parasited-will.json](./333060-parasited-will.json) |
+| Parasitic Descent | 319117 | [319117-parasitic-descent.json](./319117-parasitic-descent.json) |
 | Parasitus: Ninja Zero | 93628 | [93628-parasitus-ninja-zero.json](./93628-parasitus-ninja-zero.json) |
 | Parasol Fall | 231632 | [231632-parasol-fall.json](./231632-parasol-fall.json) |
 | Parasol Stars: Rainbow Islands 2 | 39027 | [39027-parasol-stars-rainbow-islands-2.json](./39027-parasol-stars-rainbow-islands-2.json) |
@@ -4717,6 +4718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play Nintendo: Paint-By-Number | 291049 | [291049-play-nintendo-paint-by-number.json](./291049-play-nintendo-paint-by-number.json) |
 | Play Nintendo: Puzzles | 291047 | [291047-play-nintendo-puzzles.json](./291047-play-nintendo-puzzles.json) |
 | Play Nintendo: Skill Quizzes | 328062 | [328062-play-nintendo-skill-quizzes.json](./328062-play-nintendo-skill-quizzes.json) |
+| Play of Wire | 319089 | [319089-play-of-wire.json](./319089-play-of-wire.json) |
 | Play Outside Simulator | 189145 | [189145-play-outside-simulator.json](./189145-play-outside-simulator.json) |
 | Play Room 0g | 111017 | [111017-play-room-0g.json](./111017-play-room-0g.json) |
 | Play Something Different Vol. 1 | 173788 | [173788-play-something-different-vol-1.json](./173788-play-something-different-vol-1.json) |
@@ -5780,6 +5782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly City : Vengeance | 114423 | [114423-poly-city-vengeance.json](./114423-poly-city-vengeance.json) |
 | Poly Ego | 260729 | [260729-poly-ego.json](./260729-poly-ego.json) |
 | Poly Fighter | 403109 | [403109-poly-fighter.json](./403109-poly-fighter.json) |
+| Poly Fire | 319119 | [319119-poly-fire.json](./319119-poly-fire.json) |
 | Poly Frenzy | 373217 | [373217-poly-frenzy.json](./373217-poly-frenzy.json) |
 | Poly Gangs | 159724 | [159724-poly-gangs.json](./159724-poly-gangs.json) |
 | Poly Island | 113867 | [113867-poly-island.json](./113867-poly-island.json) |
@@ -6637,6 +6640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pragmata: Shelter Variety Pack | 385179 | [385179-pragmata-shelter-variety-pack.json](./385179-pragmata-shelter-variety-pack.json) |
 | Pragmatics | 326068 | [326068-pragmatics.json](./326068-pragmatics.json) |
 | Prague Metro Simulator: Passenger Transport | 207813 | [207813-prague-metro-simulator-passenger-transport.json](./207813-prague-metro-simulator-passenger-transport.json) |
+| Prairie Dog Hunt | 319120 | [319120-prairie-dog-hunt.json](./319120-prairie-dog-hunt.json) |
 | Prana | 75113 | [75113-prana.json](./75113-prana.json) |
 | Prank Call | 165423 | [165423-prank-call.json](./165423-prank-call.json) |
 | Prank Heart | 287754 | [287754-prank-heart.json](./287754-prank-heart.json) |
@@ -7629,6 +7633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Midgard | 149529 | [149529-project-midgard.json](./149529-project-midgard.json) |
 | Project Mind | 197108 | [197108-project-mind.json](./197108-project-mind.json) |
 | Project Mirror | 156058 | [156058-project-mirror.json](./156058-project-mirror.json) |
+| Project Missionary: The Reckoning of Hizzokahpolis | 319074 | [319074-project-missionary-the-reckoning-of-hizzokahpolis.json](./319074-project-missionary-the-reckoning-of-hizzokahpolis.json) |
 | Project Mnemosyne | 370706 | [370706-project-mnemosyne.json](./370706-project-mnemosyne.json) |
 | Project Monarch | 70422 | [70422-project-monarch.json](./70422-project-monarch.json) |
 | Project Moonborn | 284904 | [284904-project-moonborn.json](./284904-project-moonborn.json) |
