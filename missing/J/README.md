@@ -1591,6 +1591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump on the Ball | 329380 | [329380-jump-on-the-ball.json](./329380-jump-on-the-ball.json) |
 | Jump or Roll Game | 246987 | [246987-jump-or-roll-game.json](./246987-jump-or-roll-game.json) |
 | Jump Out | 280310 | [280310-jump-out.json](./280310-jump-out.json) |
+| Jump Pals | 291704 | [291704-jump-pals.json](./291704-jump-pals.json) |
 | Jump Protocol | 411816 | [411816-jump-protocol.json](./411816-jump-protocol.json) |
 | Jump Puzzle | 244369 | [244369-jump-puzzle.json](./244369-jump-puzzle.json) |
 | Jump Race | 324998 | [324998-jump-race.json](./324998-jump-race.json) |
@@ -1890,6 +1891,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurnal Malam: Bestfriend | 310057 | [310057-jurnal-malam-bestfriend.json](./310057-jurnal-malam-bestfriend.json) |
 | Jurnal Risa: Dark Destiny | 334165 | [334165-jurnal-risa-dark-destiny.json](./334165-jurnal-risa-dark-destiny.json) |
 | Jury Trial | 160157 | [160157-jury-trial.json](./160157-jury-trial.json) |
+| Jury: Episode 1 - Before the Trial | 293841 | [293841-jury-episode-1-before-the-trial.json](./293841-jury-episode-1-before-the-trial.json) |
+| Jury: Episode 2 - The Trial of Brooke Lafferty | 293842 | [293842-jury-episode-2-the-trial-of-brooke-lafferty.json](./293842-jury-episode-2-the-trial-of-brooke-lafferty.json) |
 | Jusou: Gakkou no Kaidan | 308906 | [308906-jusou-gakkou-no-kaidan.json](./308906-jusou-gakkou-no-kaidan.json) |
 | Just 1 Minute! Memory Test with Masterpieces | 316273 | [316273-just-1-minute-memory-test-with-masterpieces.json](./316273-just-1-minute-memory-test-with-masterpieces.json) |
 | Just 15 minutes | 151594 | [151594-just-15-minutes.json](./151594-just-15-minutes.json) |
@@ -2036,6 +2039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Slide | 180616 | [180616-just-slide.json](./180616-just-slide.json) |
 | Just Slide 2 | 180617 | [180617-just-slide-2.json](./180617-just-slide-2.json) |
 | Just Snowboarding | 86798 | [86798-just-snowboarding.json](./86798-just-snowboarding.json) |
+| Just Stack | 291695 | [291695-just-stack.json](./291695-just-stack.json) |
 | Just Survival: The Zombie Awakening | 212217 | [212217-just-survival-the-zombie-awakening.json](./212217-just-survival-the-zombie-awakening.json) |
 | Just Survive | 18093 | [18093-just-survive.json](./18093-just-survive.json) |
 | Just Take Your Left | 148542 | [148542-just-take-your-left.json](./148542-just-take-your-left.json) |
