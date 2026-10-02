@@ -861,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Spree: The Dawn | 211957 | [211957-zombie-spree-the-dawn.json](./211957-zombie-spree-the-dawn.json) |
 | Zombie Squad | 235460 | [235460-zombie-squad.json](./235460-zombie-squad.json) |
 | Zombie Squash | 25060 | [25060-zombie-squash.json](./25060-zombie-squash.json) |
+| Zombie State | 299371 | [299371-zombie-state.json](./299371-zombie-state.json) |
 | Zombie Strike | 152796 | [152796-zombie-strike.json](./152796-zombie-strike.json) |
 | Zombie Strike Force | 335951 | [335951-zombie-strike-force.json](./335951-zombie-strike-force.json) |
 | Zombie Survival | 212487 | [212487-zombie-survival.json](./212487-zombie-survival.json) |
