@@ -450,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ibara | 44623 | [44623-ibara.json](./44623-ibara.json) |
 | Ibasket Manager 3: Online Basketball Manager | 340500 | [340500-ibasket-manager-3-online-basketball-manager.json](./340500-ibasket-manager-3-online-basketball-manager.json) |
 | Ibb & Obb | 9139 | [9139-ibb-and-obb.json](./9139-ibb-and-obb.json) |
+| Iberia | 298787 | [298787-iberia.json](./298787-iberia.json) |
 | Ibix the Viking | 13250 | [13250-ibix-the-viking.json](./13250-ibix-the-viking.json) |
 | Iblis | 344578 | [344578-iblis.json](./344578-iblis.json) |
 | Iblis2: Sorcery | 226703 | [226703-iblis2-sorcery.json](./226703-iblis2-sorcery.json) |
@@ -3280,6 +3281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Dark | 207779 | [207779-its-dark.json](./207779-its-dark.json) |
 | It's Dark Inside | 235675 | [235675-its-dark-inside.json](./235675-its-dark-inside.json) |
 | It's Dungeon Time! | 172748 | [172748-its-dungeon-time.json](./172748-its-dungeon-time.json) |
+| It's Either Them Or Us | 298812 | [298812-its-either-them-or-us.json](./298812-its-either-them-or-us.json) |
 | It's Fine | 382473 | [382473-its-fine.json](./382473-its-fine.json) |
 | It's Full of Stars | 204098 | [204098-its-full-of-stars.json](./204098-its-full-of-stars.json) |
 | It's good to be a pirate | 110780 | [110780-its-good-to-be-a-pirate.json](./110780-its-good-to-be-a-pirate.json) |
