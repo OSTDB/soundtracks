@@ -900,6 +900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Souls: Prepare to Die Edition | 21040 | [21040-dark-souls-prepare-to-die-edition.json](./21040-dark-souls-prepare-to-die-edition.json) |
 | Dark Star | 134598 | [134598-dark-star.json](./134598-dark-star.json) |
 | Dark Static | 362886 | [362886-dark-static.json](./362886-dark-static.json) |
+| Dark Stories | 311685 | [311685-dark-stories.json](./311685-dark-stories.json) |
 | Dark Storm VR Missions | 34649 | [34649-dark-storm-vr-missions.json](./34649-dark-storm-vr-missions.json) |
 | Dark Stream | 406849 | [406849-dark-stream.json](./406849-dark-stream.json) |
 | Dark Strokes: Sins of the Fathers | 52839 | [52839-dark-strokes-sins-of-the-fathers.json](./52839-dark-strokes-sins-of-the-fathers.json) |
@@ -1447,6 +1448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daytona Championship USA | 57333 | [57333-daytona-championship-usa.json](./57333-daytona-championship-usa.json) |
 | Daytona Racing | 92623 | [92623-daytona-racing.json](./92623-daytona-racing.json) |
 | DayZ | 2117 | [2117-dayz.json](./2117-dayz.json) |
+| DayZ: Frostline | 311724 | [311724-dayz-frostline.json](./311724-dayz-frostline.json) |
 | DayZ: Livonia Edition | 164803 | [164803-dayz-livonia-edition.json](./164803-dayz-livonia-edition.json) |
 | Daze Before Christmas | 7662 | [7662-daze-before-christmas.json](./7662-daze-before-christmas.json) |
 | Dazzeloids | 64351 | [64351-dazzeloids.json](./64351-dazzeloids.json) |
@@ -3520,6 +3522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny Connect: Tick-Tock Travelers | 112082 | [112082-destiny-connect-tick-tock-travelers.json](./112082-destiny-connect-tick-tock-travelers.json) |
 | Destiny Contract | 101081 | [101081-destiny-contract.json](./101081-destiny-contract.json) |
 | Destiny Duel | 236546 | [236546-destiny-duel.json](./236546-destiny-duel.json) |
+| Destiny Encore | 311687 | [311687-destiny-encore.json](./311687-destiny-encore.json) |
 | Destiny Fails Us: A New Life | 134516 | [134516-destiny-fails-us-a-new-life.json](./134516-destiny-fails-us-a-new-life.json) |
 | Destiny Fantasia | 197756 | [197756-destiny-fantasia.json](./197756-destiny-fantasia.json) |
 | Destiny Is Dice | 368043 | [368043-destiny-is-dice.json](./368043-destiny-is-dice.json) |
@@ -7107,6 +7110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Force | 2968 | [2968-dragon-force.json](./2968-dragon-force.json) |
 | Dragon Force II: Kamisarishi Daichi ni | 45461 | [45461-dragon-force-ii-kamisarishi-daichi-ni.json](./45461-dragon-force-ii-kamisarishi-daichi-ni.json) |
 | Dragon Force: The Day 3 | 65737 | [65737-dragon-force-the-day-3.json](./65737-dragon-force-the-day-3.json) |
+| Dragon Forge | 311708 | [311708-dragon-forge.json](./311708-dragon-forge.json) |
 | Dragon Friends: The Secret of Green Witch | 212453 | [212453-dragon-friends-the-secret-of-green-witch.json](./212453-dragon-friends-the-secret-of-green-witch.json) |
 | Dragon Front | 57717 | [57717-dragon-front.json](./57717-dragon-front.json) |
 | Dragon Fun Classic | 221974 | [221974-dragon-fun-classic.json](./221974-dragon-fun-classic.json) |
@@ -8018,6 +8022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driver Pro: 2017 | 68602 | [68602-driver-pro-2017.json](./68602-driver-pro-2017.json) |
 | Driver Test | 98799 | [98799-driver-test.json](./98799-driver-test.json) |
 | Driver: San Francisco | 554 | [554-driver-san-francisco.json](./554-driver-san-francisco.json) |
+| Driver's Dread! | 311689 | [311689-drivers-dread.json](./311689-drivers-dread.json) |
 | Driver's Edge | 39825 | [39825-drivers-edge.json](./39825-drivers-edge.json) |
 | Driver's Education '98 | 69331 | [69331-drivers-education-98.json](./69331-drivers-education-98.json) |
 | Driver's Work Trip | 185150 | [185150-drivers-work-trip.json](./185150-drivers-work-trip.json) |
