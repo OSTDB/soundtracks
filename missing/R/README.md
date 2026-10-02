@@ -5078,6 +5078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll the Ball | 273418 | [273418-roll-the-ball.json](./273418-roll-the-ball.json) |
 | Roll the Dark Heart | 251850 | [251850-roll-the-dark-heart.json](./251850-roll-the-dark-heart.json) |
 | Roll The Die: Prologue | 309467 | [309467-roll-the-die-prologue.json](./309467-roll-the-die-prologue.json) |
+| Roll the TP | 328677 | [328677-roll-the-tp.json](./328677-roll-the-tp.json) |
 | Roll Turtle | 208577 | [208577-roll-turtle.json](./208577-roll-turtle.json) |
 | Roll! | 110114 | [110114-roll.json](./110114-roll.json) |
 | Roll.io | 108260 | [108260-roll-io.json](./108260-roll-io.json) |
