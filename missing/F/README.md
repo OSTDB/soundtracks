@@ -3425,6 +3425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fix My Hand Doc | 219789 | [219789-fix-my-hand-doc.json](./219789-fix-my-hand-doc.json) |
 | Fix My Truck: Offroad Pickup | 104670 | [104670-fix-my-truck-offroad-pickup.json](./104670-fix-my-truck-offroad-pickup.json) |
 | Fix the Lab! | 265929 | [265929-fix-the-lab.json](./265929-fix-the-lab.json) |
+| Fix This House | 319060 | [319060-fix-this-house.json](./319060-fix-this-house.json) |
 | Fix und Foxi Adventskalender | 91550 | [91550-fix-und-foxi-adventskalender.json](./91550-fix-und-foxi-adventskalender.json) |
 | Fix und Foxi Familienspiele | 81400 | [81400-fix-und-foxi-familienspiele.json](./81400-fix-und-foxi-familienspiele.json) |
 | Fix und Foxi Spielzeugfabrik | 81402 | [81402-fix-und-foxi-spielzeugfabrik.json](./81402-fix-und-foxi-spielzeugfabrik.json) |
@@ -4877,6 +4878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula Circus | 286579 | [286579-formula-circus.json](./286579-formula-circus.json) |
 | Formula Circus | 302347 | [302347-formula-circus.json](./302347-formula-circus.json) |
 | Formula Drag Manager | 221708 | [221708-formula-drag-manager.json](./221708-formula-drag-manager.json) |
+| Formula Karts | 319112 | [319112-formula-karts.json](./319112-formula-karts.json) |
 | Formula Legends | 342187 | [342187-formula-legends.json](./342187-formula-legends.json) |
 | Formula Legends: Early 2010’s Season Pack | 403569 | [403569-formula-legends-early-2010-s-season-pack.json](./403569-formula-legends-early-2010-s-season-pack.json) |
 | Formula Legends: Formula E - Electric Evolution | 403568 | [403568-formula-legends-formula-e-electric-evolution.json](./403568-formula-legends-formula-e-electric-evolution.json) |
