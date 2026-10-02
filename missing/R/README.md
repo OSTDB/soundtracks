@@ -920,6 +920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RanDungeon | 338856 | [338856-randungeon.json](./338856-randungeon.json) |
 | Randy the Racoon | 345061 | [345061-randy-the-racoon.json](./345061-randy-the-racoon.json) |
 | Rangarok End Girls | 309357 | [309357-rangarok-end-girls.json](./309357-rangarok-end-girls.json) |
+| RangBi | 297720 | [297720-rangbi.json](./297720-rangbi.json) |
 | Range Ball | 104056 | [104056-range-ball.json](./104056-range-ball.json) |
 | Range Game | 125837 | [125837-range-game.json](./125837-range-game.json) |
 | Range is HOT! | 146230 | [146230-range-is-hot.json](./146230-range-is-hot.json) |
@@ -1523,6 +1524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RealDoom | 291986 | [291986-realdoom.json](./291986-realdoom.json) |
 | RealFighter | 370887 | [370887-realfighter.json](./370887-realfighter.json) |
 | RealFlight 8 | 90068 | [90068-realflight-8.json](./90068-realflight-8.json) |
+| RealFlight Evolution: 2024 Year Content Pass | 297729 | [297729-realflight-evolution-2024-year-content-pass.json](./297729-realflight-evolution-2024-year-content-pass.json) |
 | RealFlight Evolution: Blade Eclipse 360 | 311080 | [311080-realflight-evolution-blade-eclipse-360.json](./311080-realflight-evolution-blade-eclipse-360.json) |
 | RealFlight Evolution: E-flite Beechcraft D18 1.5m | 356713 | [356713-realflight-evolution-e-flite-beechcraft-d18-1-5m.json](./356713-realflight-evolution-e-flite-beechcraft-d18-1-5m.json) |
 | RealFlight Evolution: E-flite Cherokee 1.3m | 311081 | [311081-realflight-evolution-e-flite-cherokee-1-3m.json](./311081-realflight-evolution-e-flite-cherokee-1-3m.json) |
