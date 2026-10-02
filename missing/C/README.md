@@ -2548,6 +2548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Centipulp | 230787 | [230787-centipulp.json](./230787-centipulp.json) |
 | Cento | 281985 | [281985-cento.json](./281985-cento.json) |
 | Central Bank | 364014 | [364014-central-bank.json](./364014-central-bank.json) |
+| Central de Atividades | 290098 | [290098-central-de-atividades.json](./290098-central-de-atividades.json) |
 | Central De Fantasmas: Los Huéspedes De Mortimer | 260102 | [260102-central-de-fantasmas-los-huespedes-de-mortimer.json](./260102-central-de-fantasmas-los-huespedes-de-mortimer.json) |
 | Central Limit Theorem | 133979 | [133979-central-limit-theorem.json](./133979-central-limit-theorem.json) |
 | Central Standard | 321130 | [321130-central-standard.json](./321130-central-standard.json) |
@@ -3753,6 +3754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choky! Choky! | 40980 | [40980-choky-choky.json](./40980-choky-choky.json) |
 | Cholo | 12984 | [12984-cholo.json](./12984-cholo.json) |
 | Chomp | 79888 | [79888-chomp.json](./79888-chomp.json) |
+| Chomp Chomp | 290097 | [290097-chomp-chomp.json](./290097-chomp-chomp.json) |
 | Chomp Hero | 392253 | [392253-chomp-hero.json](./392253-chomp-hero.json) |
 | Chomp! | 137067 | [137067-chomp.json](./137067-chomp.json) |
 | Chompania | 284969 | [284969-chompania.json](./284969-chompania.json) |
@@ -4265,6 +4267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinema Tycoon | 369679 | [369679-cinema-tycoon.json](./369679-cinema-tycoon.json) |
 | Cinematrix | 319218 | [319218-cinematrix.json](./319218-cinematrix.json) |
 | Cinemax Complete | 52735 | [52735-cinemax-complete.json](./52735-cinemax-complete.json) |
+| Cineminha | 290096 | [290096-cineminha.json](./290096-cineminha.json) |
 | CineNerdle | 231638 | [231638-cinenerdle.json](./231638-cinenerdle.json) |
 | CineNerdle | 231639 | [231639-cinenerdle.json](./231639-cinenerdle.json) |
 | Cinnabar Nights | 314682 | [314682-cinnabar-nights.json](./314682-cinnabar-nights.json) |
@@ -5485,6 +5488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CodStar | 316147 | [316147-codstar.json](./316147-codstar.json) |
 | Cody's Nightmare Vacation | 310548 | [310548-codys-nightmare-vacation.json](./310548-codys-nightmare-vacation.json) |
 | CodyCross: Crossword Puzzles | 86994 | [86994-codycross-crossword-puzzles.json](./86994-codycross-crossword-puzzles.json) |
+| Coelhos Construtores | 290095 | [290095-coelhos-construtores.json](./290095-coelhos-construtores.json) |
 | Coffee & Boobs | 347219 | [347219-coffee-and-boobs.json](./347219-coffee-and-boobs.json) |
 | Coffee Addict | 62808 | [62808-coffee-addict.json](./62808-coffee-addict.json) |
 | Coffee At Night | 339351 | [339351-coffee-at-night.json](./339351-coffee-at-night.json) |
@@ -5829,6 +5833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Rings Puzzle | 104652 | [104652-color-rings-puzzle.json](./104652-color-rings-puzzle.json) |
 | Color Road! | 90364 | [90364-color-road.json](./90364-color-road.json) |
 | Color Roll 3D | 215242 | [215242-color-roll-3d.json](./215242-color-roll-3d.json) |
+| Color Shooter | 290094 | [290094-color-shooter.json](./290094-color-shooter.json) |
 | Color Slayer | 121012 | [121012-color-slayer.json](./121012-color-slayer.json) |
 | Color SlayerS | 214500 | [214500-color-slayers.json](./214500-color-slayers.json) |
 | Color Slots | 190446 | [190446-color-slots.json](./190446-color-slots.json) |
@@ -6772,6 +6777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contact Draw: Football | 102915 | [102915-contact-draw-football.json](./102915-contact-draw-football.json) |
 | Contact Me | 149447 | [149447-contact-me.json](./149447-contact-me.json) |
 | Contacts | 379591 | [379591-contacts.json](./379591-contacts.json) |
+| Contador de Histórias | 290093 | [290093-contador-de-historias.json](./290093-contador-de-historias.json) |
 | Contain | 226717 | [226717-contain.json](./226717-contain.json) |
 | Container Terminal Simulator | 362389 | [362389-container-terminal-simulator.json](./362389-container-terminal-simulator.json) |
 | Containers | 338885 | [338885-containers.json](./338885-containers.json) |
@@ -8868,6 +8874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown Siege | 386943 | [386943-crown-siege.json](./386943-crown-siege.json) |
 | Crown Solitaire: Card Game | 96714 | [96714-crown-solitaire-card-game.json](./96714-crown-solitaire-card-game.json) |
 | Crown Wars: The Black Prince | 208416 | [208416-crown-wars-the-black-prince.json](./208416-crown-wars-the-black-prince.json) |
+| Crown Wars: The Black Prince - Brotherhood of Light Cosmetic Pack | 290124 | [290124-crown-wars-the-black-prince-brotherhood-of-light-cosmetic-pack.json](./290124-crown-wars-the-black-prince-brotherhood-of-light-cosmetic-pack.json) |
 | Crown's Trial | 402270 | [402270-crowns-trial.json](./402270-crowns-trial.json) |
 | Crownbane | 411701 | [411701-crownbane.json](./411701-crownbane.json) |
 | Crownborne | 405528 | [405528-crownborne.json](./405528-crownborne.json) |
