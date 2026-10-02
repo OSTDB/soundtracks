@@ -640,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hang Man | 83451 | [83451-hang-man.json](./83451-hang-man.json) |
 | Hang On | 169892 | [169892-hang-on.json](./169892-hang-on.json) |
 | Hang Out | 405718 | [405718-hang-out.json](./405718-hang-out.json) |
+| Hang Pilot | 307858 | [307858-hang-pilot.json](./307858-hang-pilot.json) |
 | Hang up Street | 333092 | [333092-hang-up-street.json](./333092-hang-up-street.json) |
 | Hang-On | 364569 | [364569-hang-on.json](./364569-hang-on.json) |
 | Hang-On | 364571 | [364571-hang-on.json](./364571-hang-on.json) |
@@ -2223,6 +2224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HellStar Squadron | 97112 | [97112-hellstar-squadron.json](./97112-hellstar-squadron.json) |
 | Hellstuck: Rage With Your Friends | 200712 | [200712-hellstuck-rage-with-your-friends.json](./200712-hellstuck-rage-with-your-friends.json) |
 | Helltaker | 133152 | [133152-helltaker.json](./133152-helltaker.json) |
+| Helltown: Revival Update | 307822 | [307822-helltown-revival-update.json](./307822-helltown-revival-update.json) |
 | Helluva Brawl | 342257 | [342257-helluva-brawl.json](./342257-helluva-brawl.json) |
 | Hellver | 129692 | [129692-hellver.json](./129692-hellver.json) |
 | Hellvivors | 217317 | [217317-hellvivors.json](./217317-hellvivors.json) |
