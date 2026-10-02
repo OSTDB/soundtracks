@@ -1767,6 +1767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let There Be Smite! | 414288 | [414288-let-there-be-smite.json](./414288-let-there-be-smite.json) |
 | Let Yourself Out, Eddie Kaspbrak! | 158724 | [158724-let-yourself-out-eddie-kaspbrak.json](./158724-let-yourself-out-eddie-kaspbrak.json) |
 | Let's Be a Mouse | 273470 | [273470-lets-be-a-mouse.json](./273470-lets-be-a-mouse.json) |
+| Let's Boogie | 329058 | [329058-lets-boogie.json](./329058-lets-boogie.json) |
 | Let's Bounce! Popsicle Boy! | 255021 | [255021-lets-bounce-popsicle-boy.json](./255021-lets-bounce-popsicle-boy.json) |
 | Let's Bravo Music | 326944 | [326944-lets-bravo-music.json](./326944-lets-bravo-music.json) |
 | Let's Build a Garden | 340914 | [340914-lets-build-a-garden.json](./340914-lets-build-a-garden.json) |
@@ -2511,6 +2512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilycle Rainbow Stage!!! | 115310 | [115310-lilycle-rainbow-stage.json](./115310-lilycle-rainbow-stage.json) |
 | LilyDeux: Black Lily Warning | 129698 | [129698-lilydeux-black-lily-warning.json](./129698-lilydeux-black-lily-warning.json) |
 | Lim | 62989 | [62989-lim.json](./62989-lim.json) |
+| LiM Balls: Every Second Counts | 329210 | [329210-lim-balls-every-second-counts.json](./329210-lim-balls-every-second-counts.json) |
 | Lim Beyond One-on-One Basketball | 254782 | [254782-lim-beyond-one-on-one-basketball.json](./254782-lim-beyond-one-on-one-basketball.json) |
 | Limacina Open Season | 398564 | [398564-limacina-open-season.json](./398564-limacina-open-season.json) |
 | Limb Lobber | 395707 | [395707-limb-lobber.json](./395707-limb-lobber.json) |
@@ -2998,6 +3000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Reds Forest Fun | 114958 | [114958-little-reds-forest-fun.json](./114958-little-reds-forest-fun.json) |
 | Little Retreat | 381609 | [381609-little-retreat.json](./381609-little-retreat.json) |
 | Little Robo Climber | 195687 | [195687-little-robo-climber.json](./195687-little-robo-climber.json) |
+| Little Robot | 329208 | [329208-little-robot.json](./329208-little-robot.json) |
 | Little Robot Stories | 149588 | [149588-little-robot-stories.json](./149588-little-robot-stories.json) |
 | Little Rock, MI | 203379 | [203379-little-rock-mi.json](./203379-little-rock-mi.json) |
 | Little Rocket Girl | 62250 | [62250-little-rocket-girl.json](./62250-little-rocket-girl.json) |
