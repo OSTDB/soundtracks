@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.T.A.L.K.E.R.: Wind of Time | 138799 | [138799-s-t-a-l-k-e-r-wind-of-time.json](./138799-s-t-a-l-k-e-r-wind-of-time.json) |
 | S.T.A.R: Space Typing Action Rangers | 226684 | [226684-s-t-a-r-space-typing-action-rangers.json](./226684-s-t-a-r-space-typing-action-rangers.json) |
 | S.T.A.R.V.E. | 410263 | [410263-s-t-a-r-v-e.json](./410263-s-t-a-r-v-e.json) |
+| S.T.A.R.W.I.E.L.D. | 303710 | [303710-s-t-a-r-w-i-e-l-d.json](./303710-s-t-a-r-w-i-e-l-d.json) |
 | S.T.G: Strike Gunner | 39692 | [39692-s-t-g-strike-gunner.json](./39692-s-t-g-strike-gunner.json) |
 | S.T.R.E.T.C.H. | 100566 | [100566-s-t-r-e-t-c-h.json](./100566-s-t-r-e-t-c-h.json) |
 | S.T.U.N. Runner | 12368 | [12368-s-t-u-n-runner.json](./12368-s-t-u-n-runner.json) |
