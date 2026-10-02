@@ -2011,6 +2011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiteretsu Daihyakka: Koujiki Daihatsumei Nari | 349429 | [349429-kiteretsu-daihyakka-koujiki-daihatsumei-nari.json](./349429-kiteretsu-daihyakka-koujiki-daihatsumei-nari.json) |
 | Kitesurf Runner | 304379 | [304379-kitesurf-runner.json](./304379-kitesurf-runner.json) |
 | Kiting Mechanics | 239739 | [239739-kiting-mechanics.json](./239739-kiting-mechanics.json) |
+| Kitiplant | 291721 | [291721-kitiplant.json](./291721-kitiplant.json) |
 | Kito Pizzas | 397691 | [397691-kito-pizzas.json](./397691-kito-pizzas.json) |
 | Kitori Academy | 136477 | [136477-kitori-academy.json](./136477-kitori-academy.json) |
 | KitPupPom! | 176279 | [176279-kitpuppom.json](./176279-kitpuppom.json) |
