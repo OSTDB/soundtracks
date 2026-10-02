@@ -768,6 +768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Girl Momo | 82820 | [82820-magical-girl-momo.json](./82820-magical-girl-momo.json) |
 | Magical Girl Noble Rose | 173817 | [173817-magical-girl-noble-rose.json](./173817-magical-girl-noble-rose.json) |
 | Magical Girl Opal | 354444 | [354444-magical-girl-opal.json](./354444-magical-girl-opal.json) |
+| Magical Girl Paranoids | 297746 | [297746-magical-girl-paranoids.json](./297746-magical-girl-paranoids.json) |
 | Magical Girl Sarah: Her Dark Skin Clouded White With Cum | 82794 | [82794-magical-girl-sarah-her-dark-skin-clouded-white-with-cum.json](./82794-magical-girl-sarah-her-dark-skin-clouded-white-with-cum.json) |
 | Magical Girl Witch Trials: Famitsu DX Pack | 403787 | [403787-magical-girl-witch-trials-famitsu-dx-pack.json](./403787-magical-girl-witch-trials-famitsu-dx-pack.json) |
 | Magical Girl Yusya-chan and the Labyrinth of Lust | 406694 | [406694-magical-girl-yusya-chan-and-the-labyrinth-of-lust.json](./406694-magical-girl-yusya-chan-and-the-labyrinth-of-lust.json) |
@@ -916,6 +917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnum Quest | 166527 | [166527-magnum-quest.json](./166527-magnum-quest.json) |
 | Magnus Imago | 188683 | [188683-magnus-imago.json](./188683-magnus-imago.json) |
 | Magnus Kingdom of Chess | 103897 | [103897-magnus-kingdom-of-chess.json](./103897-magnus-kingdom-of-chess.json) |
+| Magnus Trilogy | 297726 | [297726-magnus-trilogy.json](./297726-magnus-trilogy.json) |
 | Magnussoft's Colossus Chess | 91540 | [91540-magnussofts-colossus-chess.json](./91540-magnussofts-colossus-chess.json) |
 | Mago | 120365 | [120365-mago.json](./120365-mago.json) |
 | Magocracy | 70339 | [70339-magocracy.json](./70339-magocracy.json) |
@@ -4857,6 +4859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Saga | 20521 | [20521-metal-saga.json](./20521-metal-saga.json) |
 | Metal Saga: The Ark of Wastes | 75851 | [75851-metal-saga-the-ark-of-wastes.json](./75851-metal-saga-the-ark-of-wastes.json) |
 | Metal Savior | 342272 | [342272-metal-savior.json](./342272-metal-savior.json) |
+| Metal Savior Black | 297717 | [297717-metal-savior-black.json](./297717-metal-savior-black.json) |
 | Metal Shell: Neon Pulse | 99163 | [99163-metal-shell-neon-pulse.json](./99163-metal-shell-neon-pulse.json) |
 | Metal Shock Game | 211206 | [211206-metal-shock-game.json](./211206-metal-shock-game.json) |
 | Metal Slader Glory 2 | 297474 | [297474-metal-slader-glory-2.json](./297474-metal-slader-glory-2.json) |
@@ -7369,6 +7372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momoka | 333192 | [333192-momoka.json](./333192-momoka.json) |
 | Momokan | 97490 | [97490-momokan.json](./97490-momokan.json) |
 | Momoko 120% | 38583 | [38583-momoko-120.json](./38583-momoko-120.json) |
+| Momoko 1200% | 297710 | [297710-momoko-1200.json](./297710-momoko-1200.json) |
 | Momolu and Friends | 166678 | [166678-momolu-and-friends.json](./166678-momolu-and-friends.json) |
 | Momon: Relic Seekers | 273455 | [273455-momon-relic-seekers.json](./273455-momon-relic-seekers.json) |
 | Momotaro Collection | 64418 | [64418-momotaro-collection.json](./64418-momotaro-collection.json) |
@@ -10487,6 +10491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysteries of Perception | 317583 | [317583-mysteries-of-perception.json](./317583-mysteries-of-perception.json) |
 | Mysteries of the Forbidden Forest | 337464 | [337464-mysteries-of-the-forbidden-forest.json](./337464-mysteries-of-the-forbidden-forest.json) |
 | Mysteries of the Heart: The Psychic Detective Case Files | 299138 | [299138-mysteries-of-the-heart-the-psychic-detective-case-files.json](./299138-mysteries-of-the-heart-the-psychic-detective-case-files.json) |
+| Mysteries of the Manor | 297752 | [297752-mysteries-of-the-manor.json](./297752-mysteries-of-the-manor.json) |
 | Mysteries of the Past: Shadow of the Deamon | 87275 | [87275-mysteries-of-the-past-shadow-of-the-deamon.json](./87275-mysteries-of-the-past-shadow-of-the-deamon.json) |
 | Mysteries Under Lake Ophelia | 178415 | [178415-mysteries-under-lake-ophelia.json](./178415-mysteries-under-lake-ophelia.json) |
 | Mysterious Adventure of Michael | 44205 | [44205-mysterious-adventure-of-michael.json](./44205-mysterious-adventure-of-michael.json) |
