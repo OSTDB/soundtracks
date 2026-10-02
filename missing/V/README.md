@@ -1206,6 +1206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viridian Room | 247597 | [247597-viridian-room.json](./247597-viridian-room.json) |
 | Virion | 338568 | [338568-virion.json](./338568-virion.json) |
 | Virivì e l'ombra della pioggia | 389125 | [389125-virivi-e-lombra-della-pioggia.json](./389125-virivi-e-lombra-della-pioggia.json) |
+| Virmachina | 320857 | [320857-virmachina.json](./320857-virmachina.json) |
 | Viro Move | 131041 | [131041-viro-move.json](./131041-viro-move.json) |
 | Virocop | 69792 | [69792-virocop.json](./69792-virocop.json) |
 | Viroids | 178981 | [178981-viroids.json](./178981-viroids.json) |
