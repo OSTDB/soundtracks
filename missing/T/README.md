@@ -2716,6 +2716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Accursed Crown of the Giant King: Chapter 2 - The Duchy of Despair | 207774 | [207774-the-accursed-crown-of-the-giant-king-chapter-2-the-duchy-of-despair.json](./207774-the-accursed-crown-of-the-giant-king-chapter-2-the-duchy-of-despair.json) |
 | The Accursed Crown of the Giant King: Chapter 3 - Citadel on the Wilderlands | 207775 | [207775-the-accursed-crown-of-the-giant-king-chapter-3-citadel-on-the-wilderlands.json](./207775-the-accursed-crown-of-the-giant-king-chapter-3-citadel-on-the-wilderlands.json) |
 | The Accursed Crown of the Giant King: Chapter 4 - The Fallen Giant Kingdom | 207776 | [207776-the-accursed-crown-of-the-giant-king-chapter-4-the-fallen-giant-kingdom.json](./207776-the-accursed-crown-of-the-giant-king-chapter-4-the-fallen-giant-kingdom.json) |
+| The Accuser and the Abyss | 325532 | [325532-the-accuser-and-the-abyss.json](./325532-the-accuser-and-the-abyss.json) |
 | The Aching Aversion: Blood Orange Dreams | 312589 | [312589-the-aching-aversion-blood-orange-dreams.json](./312589-the-aching-aversion-blood-orange-dreams.json) |
 | The Acorn Protocol | 408036 | [408036-the-acorn-protocol.json](./408036-the-acorn-protocol.json) |
 | The Act | 64990 | [64990-the-act.json](./64990-the-act.json) |
@@ -7156,6 +7157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Otter Ways | 288778 | [288778-the-otter-ways.json](./288778-the-otter-ways.json) |
 | The Otterman Empire | 126964 | [126964-the-otterman-empire.json](./126964-the-otterman-empire.json) |
 | The Ourboros King | 215374 | [215374-the-ourboros-king.json](./215374-the-ourboros-king.json) |
+| The Ouroboros Express | 325529 | [325529-the-ouroboros-express.json](./325529-the-ouroboros-express.json) |
 | The Ouroboros King | 215098 | [215098-the-ouroboros-king.json](./215098-the-ouroboros-king.json) |
 | The Out Door | 312723 | [312723-the-out-door.json](./312723-the-out-door.json) |
 | The Outcast Lovers | 135899 | [135899-the-outcast-lovers.json](./135899-the-outcast-lovers.json) |
@@ -9055,6 +9057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vanishing of Ethan Carter Redux | 102123 | [102123-the-vanishing-of-ethan-carter-redux.json](./102123-the-vanishing-of-ethan-carter-redux.json) |
 | The Vanishing of Ethan Carter VR | 19065 | [19065-the-vanishing-of-ethan-carter-vr.json](./19065-the-vanishing-of-ethan-carter-vr.json) |
 | THE Variety Game Daishugo: Kingyo Sukui, Card, Suji Puzzle, Nikakudori | 136833 | [136833-the-variety-game-daishugo-kingyo-sukui-card-suji-puzzle-nikakudori.json](./136833-the-variety-game-daishugo-kingyo-sukui-card-suji-puzzle-nikakudori.json) |
+| The Vast White | 325511 | [325511-the-vast-white.json](./325511-the-vast-white.json) |
 | The Vault | 295247 | [295247-the-vault.json](./295247-the-vault.json) |
 | The Vault | 97331 | [97331-the-vault.json](./97331-the-vault.json) |
 | The Vaults | 197914 | [197914-the-vaults.json](./197914-the-vaults.json) |
@@ -12872,6 +12875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Warhammer III - Immortal Empires | 203268 | [203268-total-war-warhammer-iii-immortal-empires.json](./203268-total-war-warhammer-iii-immortal-empires.json) |
 | Total War: Warhammer III - Limited Edition | 146143 | [146143-total-war-warhammer-iii-limited-edition.json](./146143-total-war-warhammer-iii-limited-edition.json) |
 | Total War: Warhammer III - Ogre Kingdoms | 194428 | [194428-total-war-warhammer-iii-ogre-kingdoms.json](./194428-total-war-warhammer-iii-ogre-kingdoms.json) |
+| Total War: Warhammer III - Omens of Destruction: Gorbad | 325526 | [325526-total-war-warhammer-iii-omens-of-destruction-gorbad.json](./325526-total-war-warhammer-iii-omens-of-destruction-gorbad.json) |
 | Total War: Warhammer III - Shadows of Change | 251223 | [251223-total-war-warhammer-iii-shadows-of-change.json](./251223-total-war-warhammer-iii-shadows-of-change.json) |
 | Total War: Warhammer III - Thrones of Decay | 251224 | [251224-total-war-warhammer-iii-thrones-of-decay.json](./251224-total-war-warhammer-iii-thrones-of-decay.json) |
 | Total War: Warhammer III - Update 3.1 | 251222 | [251222-total-war-warhammer-iii-update-3-1.json](./251222-total-war-warhammer-iii-update-3-1.json) |
@@ -13462,6 +13466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Townsmen: A Kingdom Rebuilt | 115912 | [115912-townsmen-a-kingdom-rebuilt.json](./115912-townsmen-a-kingdom-rebuilt.json) |
 | Townsmen: A Kingdom Rebuilt - The Seaside Empire | 155067 | [155067-townsmen-a-kingdom-rebuilt-the-seaside-empire.json](./155067-townsmen-a-kingdom-rebuilt-the-seaside-empire.json) |
 | Townville, the Show | 132178 | [132178-townville-the-show.json](./132178-townville-the-show.json) |
+| Towny Bar | 325516 | [325516-towny-bar.json](./325516-towny-bar.json) |
 | TowOrbs | 413726 | [413726-toworbs.json](./413726-toworbs.json) |
 | Toxastra | 132699 | [132699-toxastra.json](./132699-toxastra.json) |
 | Toxic 2 | 97685 | [97685-toxic-2.json](./97685-toxic-2.json) |
