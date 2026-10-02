@@ -2772,6 +2772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phobos | 184093 | [184093-phobos.json](./184093-phobos.json) |
 | Phobos Down | 285462 | [285462-phobos-down.json](./285462-phobos-down.json) |
 | Phobos Massacre | 268424 | [268424-phobos-massacre.json](./268424-phobos-massacre.json) |
+| Phobos Revisited | 313166 | [313166-phobos-revisited.json](./313166-phobos-revisited.json) |
 | Phobos Vector Prime: The First Ring | 111057 | [111057-phobos-vector-prime-the-first-ring.json](./111057-phobos-vector-prime-the-first-ring.json) |
 | Phobos: Anomaly Reborn | 255623 | [255623-phobos-anomaly-reborn.json](./255623-phobos-anomaly-reborn.json) |
 | PhobosDeimos Anomaly | 263449 | [263449-phobosdeimos-anomaly.json](./263449-phobosdeimos-anomaly.json) |
