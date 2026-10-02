@@ -2450,6 +2450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interkosmos 2000 | 215398 | [215398-interkosmos-2000.json](./215398-interkosmos-2000.json) |
 | Interland | 55999 | [55999-interland.json](./55999-interland.json) |
 | Interlayer | 216745 | [216745-interlayer.json](./216745-interlayer.json) |
+| Interlocked | 296028 | [296028-interlocked.json](./296028-interlocked.json) |
 | Interlocked | 83578 | [83578-interlocked.json](./83578-interlocked.json) |
 | Interlocked: Puzzle Islands | 406183 | [406183-interlocked-puzzle-islands.json](./406183-interlocked-puzzle-islands.json) |
 | InterLogic | 30311 | [30311-interlogic.json](./30311-interlogic.json) |
