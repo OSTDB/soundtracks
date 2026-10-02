@@ -888,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Hat Mack | 13871 | [13871-hard-hat-mack.json](./13871-hard-hat-mack.json) |
 | Hard Hat Willy | 67244 | [67244-hard-hat-willy.json](./67244-hard-hat-willy.json) |
 | Hard Hat: Rebuild | 284401 | [284401-hard-hat-rebuild.json](./284401-hard-hat-rebuild.json) |
+| Hard Head | 282790 | [282790-hard-head.json](./282790-hard-head.json) |
 | Hard Head | 40179 | [40179-hard-head.json](./40179-hard-head.json) |
 | Hard Head 2 | 40180 | [40180-hard-head-2.json](./40180-hard-head-2.json) |
 | Hard Helmets | 99596 | [99596-hard-helmets.json](./99596-hard-helmets.json) |
@@ -5834,6 +5835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humblets | 349461 | [349461-humblets.json](./349461-humblets.json) |
 | Humbug | 57637 | [57637-humbug.json](./57637-humbug.json) |
 | Hume Index | 276218 | [276218-hume-index.json](./276218-hume-index.json) |
+| Humerous | 282795 | [282795-humerous.json](./282795-humerous.json) |
 | Hummer | 92631 | [92631-hummer.json](./92631-hummer.json) |
 | Hummer Offroad Challenge | 23559 | [23559-hummer-offroad-challenge.json](./23559-hummer-offroad-challenge.json) |
 | Hummingbird's Crown | 207241 | [207241-hummingbirds-crown.json](./207241-hummingbirds-crown.json) |
