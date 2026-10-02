@@ -1228,6 +1228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ad Exitum | 33466 | [33466-ad-exitum.json](./33466-ad-exitum.json) |
 | Ad Infinitum | 77338 | [77338-ad-infinitum.json](./77338-ad-infinitum.json) |
 | Ad Infinitum: Supporter Edition | 336136 | [336136-ad-infinitum-supporter-edition.json](./336136-ad-infinitum-supporter-edition.json) |
+| Ad Memoriam | 309575 | [309575-ad-memoriam.json](./309575-ad-memoriam.json) |
 | Ad Mortem | 262441 | [262441-ad-mortem.json](./262441-ad-mortem.json) |
 | Ad Nauseam | 304201 | [304201-ad-nauseam.json](./304201-ad-nauseam.json) |
 | Ad Nauseam 2 | 138262 | [138262-ad-nauseam-2.json](./138262-ad-nauseam-2.json) |
@@ -7488,6 +7489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AstroScaper | 337774 | [337774-astroscaper.json](./337774-astroscaper.json) |
 | AstroShift | 68763 | [68763-astroshift.json](./68763-astroshift.json) |
 | Astrosmash | 382989 | [382989-astrosmash.json](./382989-astrosmash.json) |
+| Astrostrike | 309571 | [309571-astrostrike.json](./309571-astrostrike.json) |
 | AstroSurf | 68772 | [68772-astrosurf.json](./68772-astrosurf.json) |
 | AstroSurfer | 178985 | [178985-astrosurfer.json](./178985-astrosurfer.json) |
 | Astroswarm | 276701 | [276701-astroswarm.json](./276701-astroswarm.json) |
