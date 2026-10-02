@@ -2240,6 +2240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightlife | 262308 | [262308-nightlife.json](./262308-nightlife.json) |
 | Nightline | 132031 | [132031-nightline.json](./132031-nightline.json) |
 | Nightlings | 338862 | [338862-nightlings.json](./338862-nightlings.json) |
+| Nightly Hobo | 321463 | [321463-nightly-hobo.json](./321463-nightly-hobo.json) |
 | Nightly Maintenance | 196852 | [196852-nightly-maintenance.json](./196852-nightly-maintenance.json) |
 | Nightly Trash | 236238 | [236238-nightly-trash.json](./236238-nightly-trash.json) |
 | NightmAR Protocol | 158074 | [158074-nightmar-protocol.json](./158074-nightmar-protocol.json) |
