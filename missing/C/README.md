@@ -90,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cable 2 | 11363 | [11363-cable-2.json](./11363-cable-2.json) |
 | Cable Clutter | 211255 | [211255-cable-clutter.json](./211255-cable-clutter.json) |
 | Cable Swiper | 22363 | [22363-cable-swiper.json](./22363-cable-swiper.json) |
+| Cabral's Quest | 291176 | [291176-cabrals-quest.json](./291176-cabrals-quest.json) |
 | Caccia al Ladro | 305461 | [305461-caccia-al-ladro.json](./305461-caccia-al-ladro.json) |
 | Caccia al Ladro/Heathcliff | 305279 | [305279-caccia-al-ladro-heathcliff.json](./305279-caccia-al-ladro-heathcliff.json) |
 | Cache Overload | 212908 | [212908-cache-overload.json](./212908-cache-overload.json) |
@@ -270,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call Center | 287208 | [287208-call-center.json](./287208-call-center.json) |
 | Call Center Tycoon | 292311 | [292311-call-center-tycoon.json](./292311-call-center-tycoon.json) |
 | Call Each New Year | 104082 | [104082-call-each-new-year.json](./104082-call-each-new-year.json) |
+| Call from the Abyss | 291179 | [291179-call-from-the-abyss.json](./291179-call-from-the-abyss.json) |
 | Call From the Darkness | 337465 | [337465-call-from-the-darkness.json](./337465-call-from-the-darkness.json) |
 | Call Hating 2000 | 290497 | [290497-call-hating-2000.json](./290497-call-hating-2000.json) |
 | Call Me Cera | 163982 | [163982-call-me-cera.json](./163982-call-me-cera.json) |
@@ -3964,6 +3966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Wonderland 11 | 417591 | [417591-christmas-wonderland-11.json](./417591-christmas-wonderland-11.json) |
 | Christmas Wonderland 11: Collector's Edition | 417592 | [417592-christmas-wonderland-11-collectors-edition.json](./417592-christmas-wonderland-11-collectors-edition.json) |
 | Christmas Wonderland 12 | 186292 | [186292-christmas-wonderland-12.json](./186292-christmas-wonderland-12.json) |
+| Christmas Wonderland 13 | 291155 | [291155-christmas-wonderland-13.json](./291155-christmas-wonderland-13.json) |
 | Christmas Wonderland 13: Collector's Edition | 227929 | [227929-christmas-wonderland-13-collectors-edition.json](./227929-christmas-wonderland-13-collectors-edition.json) |
 | Christmas Wonderland 14 | 417593 | [417593-christmas-wonderland-14.json](./417593-christmas-wonderland-14.json) |
 | Christmas Wonderland 15 | 417594 | [417594-christmas-wonderland-15.json](./417594-christmas-wonderland-15.json) |
@@ -8583,6 +8586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croak | 314420 | [314420-croak.json](./314420-croak.json) |
 | Croak and Solve | 404433 | [404433-croak-and-solve.json](./404433-croak-and-solve.json) |
 | Croak Cafe: From Pond to Plate | 311487 | [311487-croak-cafe-from-pond-to-plate.json](./311487-croak-cafe-from-pond-to-plate.json) |
+| Croak Croak On The Sea | 291186 | [291186-croak-croak-on-the-sea.json](./291186-croak-croak-on-the-sea.json) |
 | Croaka-Crawla | 319576 | [319576-croaka-crawla.json](./319576-croaka-crawla.json) |
 | Croaked | 251652 | [251652-croaked.json](./251652-croaked.json) |
 | Croaking Around | 265696 | [265696-croaking-around.json](./265696-croaking-around.json) |
@@ -8704,6 +8708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossed Paths | 183045 | [183045-crossed-paths.json](./183045-crossed-paths.json) |
 | Crossed Paths: Connected Worlds - At First Sight | 180105 | [180105-crossed-paths-connected-worlds-at-first-sight.json](./180105-crossed-paths-connected-worlds-at-first-sight.json) |
 | Crossed Swords | 39642 | [39642-crossed-swords.json](./39642-crossed-swords.json) |
+| Crossed Wires | 291191 | [291191-crossed-wires.json](./291191-crossed-wires.json) |
 | Crossedland | 207501 | [207501-crossedland.json](./207501-crossedland.json) |
 | Crosser | 121550 | [121550-crosser.json](./121550-crosser.json) |
 | Crossfire | 9739 | [9739-crossfire.json](./9739-crossfire.json) |
