@@ -1988,6 +1988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat'n'Robot: Idle Defense | 174912 | [174912-catnrobot-idle-defense.json](./174912-catnrobot-idle-defense.json) |
 | Cat's Cosmic Atlas | 258012 | [258012-cats-cosmic-atlas.json](./258012-cats-cosmic-atlas.json) |
 | Cat's Cosmic Atlas: Definitive Edition | 288286 | [288286-cats-cosmic-atlas-definitive-edition.json](./288286-cats-cosmic-atlas-definitive-edition.json) |
+| Cat's Cosmic Atlas: Premium Edition | 286212 | [286212-cats-cosmic-atlas-premium-edition.json](./286212-cats-cosmic-atlas-premium-edition.json) |
 | Cat's Kiss | 152296 | [152296-cats-kiss.json](./152296-cats-kiss.json) |
 | Cat's Request | 237043 | [237043-cats-request.json](./237043-cats-request.json) |
 | Cat's Vote | 274509 | [274509-cats-vote.json](./274509-cats-vote.json) |
