@@ -1672,6 +1672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bat N' Ball | 237274 | [237274-bat-n-ball.json](./237274-bat-n-ball.json) |
 | Bat of Dead | 233252 | [233252-bat-of-dead.json](./233252-bat-of-dead.json) |
 | Bat Tap | 338196 | [338196-bat-tap.json](./338196-bat-tap.json) |
+| Bat to the Heavens | 307210 | [307210-bat-to-the-heavens.json](./307210-bat-to-the-heavens.json) |
 | Bat-L-Blocks | 92616 | [92616-bat-l-blocks.json](./92616-bat-l-blocks.json) |
 | BataGacha! | 121031 | [121031-batagacha.json](./121031-batagacha.json) |
 | Batalla de Arquitectos | 353307 | [353307-batalla-de-arquitectos.json](./353307-batalla-de-arquitectos.json) |
@@ -5390,6 +5391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood of the Elves | 290560 | [290560-blood-of-the-elves.json](./290560-blood-of-the-elves.json) |
 | Blood of the Killer | 178572 | [178572-blood-of-the-killer.json](./178572-blood-of-the-killer.json) |
 | Blood of Utpia | 189930 | [189930-blood-of-utpia.json](./189930-blood-of-utpia.json) |
+| Blood of Vladula Jr. | 307237 | [307237-blood-of-vladula-jr.json](./307237-blood-of-vladula-jr.json) |
 | Blood Omen 2: Legacy of Kain | 323372 | [323372-blood-omen-2-legacy-of-kain.json](./323372-blood-omen-2-legacy-of-kain.json) |
 | Blood Omen 2: Legacy of Kain | 3823 | [3823-blood-omen-2-legacy-of-kain.json](./3823-blood-omen-2-legacy-of-kain.json) |
 | Blood Omen: Legacy of Kain | 317629 | [317629-blood-omen-legacy-of-kain.json](./317629-blood-omen-legacy-of-kain.json) |
@@ -6405,6 +6407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boomerang Fu: Deluxe Edition | 324381 | [324381-boomerang-fu-deluxe-edition.json](./324381-boomerang-fu-deluxe-edition.json) |
 | Boomerang RPG | 297248 | [297248-boomerang-rpg.json](./297248-boomerang-rpg.json) |
 | Boomeraxe | 258522 | [258522-boomeraxe.json](./258522-boomeraxe.json) |
+| Boomies | 307256 | [307256-boomies.json](./307256-boomies.json) |
 | Boomlings | 61067 | [61067-boomlings.json](./61067-boomlings.json) |
 | Boomlings MatchUp | 61066 | [61066-boomlings-matchup.json](./61066-boomlings-matchup.json) |
 | BoomScroll | 400236 | [400236-boomscroll.json](./400236-boomscroll.json) |
