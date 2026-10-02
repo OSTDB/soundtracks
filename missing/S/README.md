@@ -402,6 +402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saints Row: The Third Remastered | 132097 | [132097-saints-row-the-third-remastered.json](./132097-saints-row-the-third-remastered.json) |
 | Saira | 67328 | [67328-saira.json](./67328-saira.json) |
 | Saishuu Heiki Kanojo | 74055 | [74055-saishuu-heiki-kanojo.json](./74055-saishuu-heiki-kanojo.json) |
+| Saitama Zombie Parade | 314852 | [314852-saitama-zombie-parade.json](./314852-saitama-zombie-parade.json) |
 | Saitekikai Spy Simulator | 284323 | [284323-saitekikai-spy-simulator.json](./284323-saitekikai-spy-simulator.json) |
 | Sáivu | 293889 | [293889-saivu.json](./293889-saivu.json) |
 | Sáivu | 293893 | [293893-saivu.json](./293893-saivu.json) |
@@ -1260,6 +1261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Say Something Positive About | 265219 | [265219-say-something-positive-about.json](./265219-say-something-positive-about.json) |
 | Sayaka | 29858 | [29858-sayaka.json](./29858-sayaka.json) |
 | Sayako Story | 253868 | [253868-sayako-story.json](./253868-sayako-story.json) |
+| Sayo-kun no Omajinai | 314850 | [314850-sayo-kun-no-omajinai.json](./314850-sayo-kun-no-omajinai.json) |
 | Sayonara | 252989 | [252989-sayonara.json](./252989-sayonara.json) |
 | Sayonara Golden Days: Golden Souls | 148345 | [148345-sayonara-golden-days-golden-souls.json](./148345-sayonara-golden-days-golden-souls.json) |
 | Sayonara Mr. Stealer | 388004 | [388004-sayonara-mr-stealer.json](./388004-sayonara-mr-stealer.json) |
@@ -4296,6 +4298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiraha Kirameku Koi Shirabe | 194531 | [194531-shiraha-kirameku-koi-shirabe.json](./194531-shiraha-kirameku-koi-shirabe.json) |
 | Shirazu Yama | 196886 | [196886-shirazu-yama.json](./196886-shirazu-yama.json) |
 | Shire Scopes | 255126 | [255126-shire-scopes.json](./255126-shire-scopes.json) |
+| Shiren the Wanderer 6: Toguro Island Exploration Record Plus Pack | 314953 | [314953-shiren-the-wanderer-6-toguro-island-exploration-record-plus-pack.json](./314953-shiren-the-wanderer-6-toguro-island-exploration-record-plus-pack.json) |
 | Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island | 268079 | [268079-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island.json](./268079-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island.json) |
 | Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island - Plus Pack | 323544 | [323544-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island-plus-pack.json](./323544-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island-plus-pack.json) |
 | Shiren the Wanderer: The Tower of Fortune and the Dice of Fate | 19460 | [19460-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate.json](./19460-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate.json) |
@@ -4813,6 +4816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuwa no Mori | 254483 | [254483-shuwa-no-mori.json](./254483-shuwa-no-mori.json) |
 | Shuwa Shuwa Guin! | 383940 | [383940-shuwa-shuwa-guin.json](./383940-shuwa-shuwa-guin.json) |
 | ShuXian Chronicles: Idle Ascension | 358471 | [358471-shuxian-chronicles-idle-ascension.json](./358471-shuxian-chronicles-idle-ascension.json) |
+| Shuyaku ni Narenai Boku-tachi ha Kadan de Kaeru wo Tsubusunda. | 314849 | [314849-shuyaku-ni-narenai-boku-tachi-ha-kadan-de-kaeru-wo-tsubusunda.json](./314849-shuyaku-ni-narenai-boku-tachi-ha-kadan-de-kaeru-wo-tsubusunda.json) |
 | Shuyaku wa Zenigata | 66203 | [66203-shuyaku-wa-zenigata.json](./66203-shuyaku-wa-zenigata.json) |
 | Shuyan Saga | 27692 | [27692-shuyan-saga.json](./27692-shuyan-saga.json) |
 | Shuyun Huazhang | 335360 | [335360-shuyun-huazhang.json](./335360-shuyun-huazhang.json) |
@@ -7854,6 +7858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sol705 | 89939 | [89939-sol705.json](./89939-sol705.json) |
 | Sola | 173223 | [173223-sola.json](./173223-sola.json) |
 | Sola Rola: The Gravity Maze | 269855 | [269855-sola-rola-the-gravity-maze.json](./269855-sola-rola-the-gravity-maze.json) |
+| Solace Creek | 314920 | [314920-solace-creek.json](./314920-solace-creek.json) |
 | Solana and Sunny's Atelier | 216783 | [216783-solana-and-sunnys-atelier.json](./216783-solana-and-sunnys-atelier.json) |
 | Solar 2 | 6342 | [6342-solar-2.json](./6342-solar-2.json) |
 | Solar Battalion | 99600 | [99600-solar-battalion.json](./99600-solar-battalion.json) |
@@ -10618,6 +10623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spike Match | 369748 | [369748-spike-match.json](./369748-spike-match.json) |
 | Spike the Hedgehog | 91555 | [91555-spike-the-hedgehog.json](./91555-spike-the-hedgehog.json) |
 | Spike Volleyball | 112846 | [112846-spike-volleyball.json](./112846-spike-volleyball.json) |
+| Spikeball Smash | 314980 | [314980-spikeball-smash.json](./314980-spikeball-smash.json) |
 | Spikeout: Battle Street | 6056 | [6056-spikeout-battle-street.json](./6056-spikeout-battle-street.json) |
 | SpikeOut: Final Edition | 319157 | [319157-spikeout-final-edition.json](./319157-spikeout-final-edition.json) |
 | Spiker | 46869 | [46869-spiker.json](./46869-spiker.json) |
@@ -11969,6 +11975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Battlefront - Elite Squadron | 192925 | [192925-star-wars-battlefront-elite-squadron.json](./192925-star-wars-battlefront-elite-squadron.json) |
 | Star Wars: Bounty Hunter | 307040 | [307040-star-wars-bounty-hunter.json](./307040-star-wars-bounty-hunter.json) |
 | Star Wars: Clone Wars Adventures | 21739 | [21739-star-wars-clone-wars-adventures.json](./21739-star-wars-clone-wars-adventures.json) |
+| Star Wars: Clone Wars: Planetary Forces | 314981 | [314981-star-wars-clone-wars-planetary-forces.json](./314981-star-wars-clone-wars-planetary-forces.json) |
 | Star Wars: Commander | 19429 | [19429-star-wars-commander.json](./19429-star-wars-commander.json) |
 | Star Wars: Conquest | 356198 | [356198-star-wars-conquest.json](./356198-star-wars-conquest.json) |
 | Star Wars: Dark Forces | 157 | [157-star-wars-dark-forces.json](./157-star-wars-dark-forces.json) |
@@ -12003,6 +12010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Hunters - Frosty Nerf Herder Cosmetic Pack | 328991 | [328991-star-wars-hunters-frosty-nerf-herder-cosmetic-pack.json](./328991-star-wars-hunters-frosty-nerf-herder-cosmetic-pack.json) |
 | Star Wars: Hunters - Gorax Fury Cosmetic Pack | 324394 | [324394-star-wars-hunters-gorax-fury-cosmetic-pack.json](./324394-star-wars-hunters-gorax-fury-cosmetic-pack.json) |
 | Star Wars: Hunters - Season 2: Empire Resurgent | 317322 | [317322-star-wars-hunters-season-2-empire-resurgent.json](./317322-star-wars-hunters-season-2-empire-resurgent.json) |
+| Star Wars: Hunters - Season 3: Echoes of the Rebellion | 314937 | [314937-star-wars-hunters-season-3-echoes-of-the-rebellion.json](./314937-star-wars-hunters-season-3-echoes-of-the-rebellion.json) |
 | Star Wars: Hunters - Season 4: Survival Instinct | 347673 | [347673-star-wars-hunters-season-4-survival-instinct.json](./347673-star-wars-hunters-season-4-survival-instinct.json) |
 | Star Wars: Hunters - Season 5: Scum & Villainy | 347677 | [347677-star-wars-hunters-season-5-scum-and-villainy.json](./347677-star-wars-hunters-season-5-scum-and-villainy.json) |
 | Star Wars: Imperial Assault | 198919 | [198919-star-wars-imperial-assault.json](./198919-star-wars-imperial-assault.json) |
@@ -16623,6 +16631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surfing Legends | 260253 | [260253-surfing-legends.json](./260253-surfing-legends.json) |
 | Surfingers | 33613 | [33613-surfingers.json](./33613-surfingers.json) |
 | Surflexers | 201017 | [201017-surflexers.json](./201017-surflexers.json) |
+| Surfpunk | 314921 | [314921-surfpunk.json](./314921-surfpunk.json) |
 | Surfwords | 219573 | [219573-surfwords.json](./219573-surfwords.json) |
 | Surge | 275573 | [275573-surge.json](./275573-surge.json) |
 | Surge | 86219 | [86219-surge.json](./86219-surge.json) |
