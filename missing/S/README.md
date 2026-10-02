@@ -1062,6 +1062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satellite 7 | 46130 | [46130-satellite-7.json](./46130-satellite-7.json) |
 | Satellite Attack | 41571 | [41571-satellite-attack.json](./41571-satellite-attack.json) |
 | Satellite Command | 31778 | [31778-satellite-command.json](./31778-satellite-command.json) |
+| Satellite Engineer | 292259 | [292259-satellite-engineer.json](./292259-satellite-engineer.json) |
 | Satellite Odyssey: Jupiter | 383033 | [383033-satellite-odyssey-jupiter.json](./383033-satellite-odyssey-jupiter.json) |
 | Satellite Odyssey: Prologue | 266748 | [266748-satellite-odyssey-prologue.json](./266748-satellite-odyssey-prologue.json) |
 | Satellite Repairman | 30015 | [30015-satellite-repairman.json](./30015-satellite-repairman.json) |
@@ -2303,6 +2304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of the Shore | 293839 | [293839-secrets-of-the-shore.json](./293839-secrets-of-the-shore.json) |
 | Secrets of the Temple | 193416 | [193416-secrets-of-the-temple.json](./193416-secrets-of-the-temple.json) |
 | Secrets of the Titanic 1912-2012 | 54345 | [54345-secrets-of-the-titanic-1912-2012.json](./54345-secrets-of-the-titanic-1912-2012.json) |
+| Secrets of the Tundra | 292219 | [292219-secrets-of-the-tundra.json](./292219-secrets-of-the-tundra.json) |
 | Secrets of the Vatican Extended Edition | 54344 | [54344-secrets-of-the-vatican-extended-edition.json](./54344-secrets-of-the-vatican-extended-edition.json) |
 | Secrets of the Waves | 181142 | [181142-secrets-of-the-waves.json](./181142-secrets-of-the-waves.json) |
 | Secrets of the Witch House | 240758 | [240758-secrets-of-the-witch-house.json](./240758-secrets-of-the-witch-house.json) |
@@ -7426,6 +7428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snezhinka: Sentinel Girls 2 | 284892 | [284892-snezhinka-sentinel-girls-2.json](./284892-snezhinka-sentinel-girls-2.json) |
 | Snezhnaja Koroleva | 197956 | [197956-snezhnaja-koroleva.json](./197956-snezhnaja-koroleva.json) |
 | Snik | 34795 | [34795-snik.json](./34795-snik.json) |
+| Snip It! | 292247 | [292247-snip-it.json](./292247-snip-it.json) |
 | Sniper 3D | 311780 | [311780-sniper-3d.json](./311780-sniper-3d.json) |
 | Sniper 3D: Fun FPS Shooting | 87378 | [87378-sniper-3d-fun-fps-shooting.json](./87378-sniper-3d-fun-fps-shooting.json) |
 | Sniper and Spotter Climbing a Tower | 125950 | [125950-sniper-and-spotter-climbing-a-tower.json](./125950-sniper-and-spotter-climbing-a-tower.json) |
@@ -7926,6 +7929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokocat: Combo | 203267 | [203267-sokocat-combo.json](./203267-sokocat-combo.json) |
 | SokoChess White | 232960 | [232960-sokochess-white.json](./232960-sokochess-white.json) |
 | SokoCode | 322593 | [322593-sokocode.json](./322593-sokocode.json) |
+| SokoFarm | 292237 | [292237-sokofarm.json](./292237-sokofarm.json) |
 | SokoFrog | 219593 | [219593-sokofrog.json](./219593-sokofrog.json) |
 | SokoMage | 235205 | [235205-sokomage.json](./235205-sokomage.json) |
 | SokoMatch: Lizard Saga | 152722 | [152722-sokomatch-lizard-saga.json](./152722-sokomatch-lizard-saga.json) |
