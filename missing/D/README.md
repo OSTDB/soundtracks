@@ -2206,6 +2206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Strike | 182918 | [182918-death-strike.json](./182918-death-strike.json) |
 | Death Swap: End As One | 231350 | [231350-death-swap-end-as-one.json](./231350-death-swap-end-as-one.json) |
 | Death Sword | 4639 | [4639-death-sword.json](./4639-death-sword.json) |
+| Death Sword Spirit | 310146 | [310146-death-sword-spirit.json](./310146-death-sword-spirit.json) |
 | Death Tank | 21259 | [21259-death-tank.json](./21259-death-tank.json) |
 | Death That Blooms Into a Flower | 388300 | [388300-death-that-blooms-into-a-flower.json](./388300-death-that-blooms-into-a-flower.json) |
 | Death the Guitar | 257925 | [257925-death-the-guitar.json](./257925-death-the-guitar.json) |
@@ -4949,6 +4950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Speedstorm: Aladdin Pack | 366993 | [366993-disney-speedstorm-aladdin-pack.json](./366993-disney-speedstorm-aladdin-pack.json) |
 | Disney Speedstorm: Baloo Pack | 366994 | [366994-disney-speedstorm-baloo-pack.json](./366994-disney-speedstorm-baloo-pack.json) |
 | Disney Speedstorm: Buzz Lightyear Pack | 366995 | [366995-disney-speedstorm-buzz-lightyear-pack.json](./366995-disney-speedstorm-buzz-lightyear-pack.json) |
+| Disney Speedstorm: Season 8 - Journey of Emotions | 310114 | [310114-disney-speedstorm-season-8-journey-of-emotions.json](./310114-disney-speedstorm-season-8-journey-of-emotions.json) |
 | Disney Speedstorm: Special Pack | 374697 | [374697-disney-speedstorm-special-pack.json](./374697-disney-speedstorm-special-pack.json) |
 | Disney Speedstorm: Sulley Pack | 366992 | [366992-disney-speedstorm-sulley-pack.json](./366992-disney-speedstorm-sulley-pack.json) |
 | Disney Speedstorm: The Genie Pack | 366991 | [366991-disney-speedstorm-the-genie-pack.json](./366991-disney-speedstorm-the-genie-pack.json) |
