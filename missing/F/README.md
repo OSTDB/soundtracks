@@ -3670,6 +3670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fleet Wars | 28812 | [28812-fleet-wars.json](./28812-fleet-wars.json) |
 | Fleetbreakers | 342190 | [342190-fleetbreakers.json](./342190-fleetbreakers.json) |
 | FleeTing | 371241 | [371241-fleeting.json](./371241-fleeting.json) |
+| Fleeting Iris: Alansya Chronicles Ren'Py Edition | 302042 | [302042-fleeting-iris-alansya-chronicles-renpy-edition.json](./302042-fleeting-iris-alansya-chronicles-renpy-edition.json) |
 | Fleeting JKT | 183048 | [183048-fleeting-jkt.json](./183048-fleeting-jkt.json) |
 | FleetMaster | 234060 | [234060-fleetmaster.json](./234060-fleetmaster.json) |
 | Fleetoad Mac | 184928 | [184928-fleetoad-mac.json](./184928-fleetoad-mac.json) |
@@ -5689,6 +5690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freestyle Football R | 213008 | [213008-freestyle-football-r.json](./213008-freestyle-football-r.json) |
 | Freestyle Football Z | 270774 | [270774-freestyle-football-z.json](./270774-freestyle-football-z.json) |
 | FreeStyle Street Basketball | 21423 | [21423-freestyle-street-basketball.json](./21423-freestyle-street-basketball.json) |
+| Freestyle2: Must-have summer Outfit Box | 302033 | [302033-freestyle2-must-have-summer-outfit-box.json](./302033-freestyle2-must-have-summer-outfit-box.json) |
 | Freetown Forest | 374839 | [374839-freetown-forest.json](./374839-freetown-forest.json) |
 | Freeway | 131544 | [131544-freeway.json](./131544-freeway.json) |
 | Freeway Fiasco | 203837 | [203837-freeway-fiasco.json](./203837-freeway-fiasco.json) |
