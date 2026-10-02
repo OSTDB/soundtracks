@@ -1399,6 +1399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Stickmen | 386963 | [386963-scary-stickmen.json](./386963-scary-stickmen.json) |
 | Scary Stories | 323518 | [323518-scary-stories.json](./323518-scary-stories.json) |
 | Scary Stranger 3D | 303249 | [303249-scary-stranger-3d.json](./303249-scary-stranger-3d.json) |
+| Scary Sun | 311691 | [311691-scary-sun.json](./311691-scary-sun.json) |
 | Scary Tales | 13033 | [13033-scary-tales.json](./13033-scary-tales.json) |
 | Scary Tales | 171587 | [171587-scary-tales.json](./171587-scary-tales.json) |
 | Scary Tales: Horror School | 337122 | [337122-scary-tales-horror-school.json](./337122-scary-tales-horror-school.json) |
@@ -1556,6 +1557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scission | 384144 | [384144-scission.json](./384144-scission.json) |
 | Scissors and Pink Angels | 345616 | [345616-scissors-and-pink-angels.json](./345616-scissors-and-pink-angels.json) |
 | Sciware Defense | 245841 | [245841-sciware-defense.json](./245841-sciware-defense.json) |
+| Sclash: Joystick | 311713 | [311713-sclash-joystick.json](./311713-sclash-joystick.json) |
 | Sclash: Sakura | 309999 | [309999-sclash-sakura.json](./309999-sclash-sakura.json) |
 | Scoober Splat! | 151165 | [151165-scoober-splat.json](./151165-scoober-splat.json) |
 | Scooby Doc 4: The Destroyer | 356757 | [356757-scooby-doc-4-the-destroyer.json](./356757-scooby-doc-4-the-destroyer.json) |
@@ -16537,6 +16539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superpanel | 377702 | [377702-superpanel.json](./377702-superpanel.json) |
 | Superpantsu Harematchii | 151607 | [151607-superpantsu-harematchii.json](./151607-superpantsu-harematchii.json) |
 | Superpersons University | 277362 | [277362-superpersons-university.json](./277362-superpersons-university.json) |
+| Superpix | 311702 | [311702-superpix.json](./311702-superpix.json) |
 | Superpopular | 127308 | [127308-superpopular.json](./127308-superpopular.json) |
 | SuperPower | 23466 | [23466-superpower.json](./23466-superpower.json) |
 | SuperPower 2: Steam Edition | 90586 | [90586-superpower-2-steam-edition.json](./90586-superpower-2-steam-edition.json) |
@@ -16847,6 +16850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor Cells | 199590 | [199590-survivor-cells.json](./199590-survivor-cells.json) |
 | Survivor Cells: Virusbane | 310389 | [310389-survivor-cells-virusbane.json](./310389-survivor-cells-virusbane.json) |
 | Survivor Challenge TD | 276158 | [276158-survivor-challenge-td.json](./276158-survivor-challenge-td.json) |
+| Survivor Company | 311562 | [311562-survivor-company.json](./311562-survivor-company.json) |
 | Survivor Day | 195599 | [195599-survivor-day.json](./195599-survivor-day.json) |
 | Survivor Dieland | 160257 | [160257-survivor-dieland.json](./160257-survivor-dieland.json) |
 | Survivor Girls | 277367 | [277367-survivor-girls.json](./277367-survivor-girls.json) |
@@ -17340,6 +17344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword and Expedition: Placing Heroes | 188040 | [188040-sword-and-expedition-placing-heroes.json](./188040-sword-and-expedition-placing-heroes.json) |
 | Sword and Fairy 3 Ex | 369568 | [369568-sword-and-fairy-3-ex.json](./369568-sword-and-fairy-3-ex.json) |
 | Sword and Fairy Inn | 78048 | [78048-sword-and-fairy-inn.json](./78048-sword-and-fairy-inn.json) |
+| Sword and Hammer: Hand of the King | 311706 | [311706-sword-and-hammer-hand-of-the-king.json](./311706-sword-and-hammer-hand-of-the-king.json) |
 | Sword and Plow | 305346 | [305346-sword-and-plow.json](./305346-sword-and-plow.json) |
 | Sword and Shield Idle | 296993 | [296993-sword-and-shield-idle.json](./296993-sword-and-shield-idle.json) |
 | Sword and Shield: Arena VR | 31095 | [31095-sword-and-shield-arena-vr.json](./31095-sword-and-shield-arena-vr.json) |
