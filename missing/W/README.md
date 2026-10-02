@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waco Resurrection | 308429 | [308429-waco-resurrection.json](./308429-waco-resurrection.json) |
 | Waddle Dev Vs Kirby Dark Dawn | 395700 | [395700-waddle-dev-vs-kirby-dark-dawn.json](./395700-waddle-dev-vs-kirby-dark-dawn.json) |
 | Waddle Home | 25568 | [25568-waddle-home.json](./25568-waddle-home.json) |
+| Waddle Knight | 321437 | [321437-waddle-knight.json](./321437-waddle-knight.json) |
 | Waddle Paddle | 365718 | [365718-waddle-paddle.json](./365718-waddle-paddle.json) |
 | Waddle Throttle | 419962 | [419962-waddle-throttle.json](./419962-waddle-throttle.json) |
 | Waddle Wars: Roguelike Defense | 266831 | [266831-waddle-wars-roguelike-defense.json](./266831-waddle-wars-roguelike-defense.json) |
