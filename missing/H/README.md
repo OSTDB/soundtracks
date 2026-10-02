@@ -892,6 +892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Knock High | 43350 | [43350-hard-knock-high.json](./43350-hard-knock-high.json) |
 | Hard Lads | 135305 | [135305-hard-lads.json](./135305-hard-lads.json) |
 | Hard Life | 219810 | [219810-hard-life.json](./219810-hard-life.json) |
+| Hard Love: Darkest Desire | 286763 | [286763-hard-love-darkest-desire.json](./286763-hard-love-darkest-desire.json) |
 | Hard Man | 37423 | [37423-hard-man.json](./37423-hard-man.json) |
 | Hard Minus | 55243 | [55243-hard-minus.json](./55243-hard-minus.json) |
 | Hard Minus Classic Redux | 163924 | [163924-hard-minus-classic-redux.json](./163924-hard-minus-classic-redux.json) |
@@ -2474,6 +2475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai House Wife | 371369 | [371369-hentai-house-wife.json](./371369-hentai-house-wife.json) |
 | Hentai House: Next Door | 403713 | [403713-hentai-house-next-door.json](./403713-hentai-house-next-door.json) |
 | Hentai Island | 226187 | [226187-hentai-island.json](./226187-hentai-island.json) |
+| Hentai Jigsaw Photo Studio: Neko Girls | 286747 | [286747-hentai-jigsaw-photo-studio-neko-girls.json](./286747-hentai-jigsaw-photo-studio-neko-girls.json) |
 | Hentai Jigsaw Puzzle 2 | 188496 | [188496-hentai-jigsaw-puzzle-2.json](./188496-hentai-jigsaw-puzzle-2.json) |
 | Hentai Jigsaw Puzzle Collection: Autumn | 371234 | [371234-hentai-jigsaw-puzzle-collection-autumn.json](./371234-hentai-jigsaw-puzzle-collection-autumn.json) |
 | Hentai Jigsaw Puzzle Collection: Christmas Edition | 235476 | [235476-hentai-jigsaw-puzzle-collection-christmas-edition.json](./235476-hentai-jigsaw-puzzle-collection-christmas-edition.json) |
@@ -3217,6 +3219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HexoCity | 291590 | [291590-hexocity.json](./291590-hexocity.json) |
 | Hexodius | 16517 | [16517-hexodius.json](./16517-hexodius.json) |
 | Hexogin | 127865 | [127865-hexogin.json](./127865-hexogin.json) |
+| HexoJago | 286772 | [286772-hexojago.json](./286772-hexojago.json) |
 | Hexon | 127310 | [127310-hexon.json](./127310-hexon.json) |
 | Hexonaut | 293168 | [293168-hexonaut.json](./293168-hexonaut.json) |
 | Hexopods | 75339 | [75339-hexopods.json](./75339-hexopods.json) |
@@ -3723,6 +3726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High School of Blitz | 166207 | [166207-high-school-of-blitz.json](./166207-high-school-of-blitz.json) |
 | High School of Memories | 165007 | [165007-high-school-of-memories.json](./165007-high-school-of-memories.json) |
 | High School of the Dead Day 0 | 402943 | [402943-high-school-of-the-dead-day-0.json](./402943-high-school-of-the-dead-day-0.json) |
+| High School Simulator 2017 | 286757 | [286757-high-school-simulator-2017.json](./286757-high-school-simulator-2017.json) |
 | High School Story | 39189 | [39189-high-school-story.json](./39189-high-school-story.json) |
 | High School: Bisexual Experience | 106590 | [106590-high-school-bisexual-experience.json](./106590-high-school-bisexual-experience.json) |
 | High Sea Saga | 202849 | [202849-high-sea-saga.json](./202849-high-sea-saga.json) |
@@ -5173,6 +5177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Mars 69 | 89587 | [89587-hot-mars-69.json](./89587-hot-mars-69.json) |
 | Hot Milf 2 | 189976 | [189976-hot-milf-2.json](./189976-hot-milf-2.json) |
 | Hot Milf 4 | 192441 | [192441-hot-milf-4.json](./192441-hot-milf-4.json) |
+| Hot Milf 5 | 286748 | [286748-hot-milf-5.json](./286748-hot-milf-5.json) |
 | Hot Milf 9 | 224222 | [224222-hot-milf-9.json](./224222-hot-milf-9.json) |
 | Hot MILF VR | 344432 | [344432-hot-milf-vr.json](./344432-hot-milf-vr.json) |
 | Hot Office: Sex Story | 296910 | [296910-hot-office-sex-story.json](./296910-hot-office-sex-story.json) |
