@@ -3031,6 +3031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheese Rolling | 362406 | [362406-cheese-rolling.json](./362406-cheese-rolling.json) |
 | Cheese Runner | 209474 | [209474-cheese-runner.json](./209474-cheese-runner.json) |
 | Cheese Terminator | 105404 | [105404-cheese-terminator.json](./105404-cheese-terminator.json) |
+| Cheese: The Cheese Collector | 319092 | [319092-cheese-the-cheese-collector.json](./319092-cheese-the-cheese-collector.json) |
 | Cheesecake Cult: Unholy Feast | 275579 | [275579-cheesecake-cult-unholy-feast.json](./275579-cheesecake-cult-unholy-feast.json) |
 | Cheeseland Mistery | 384176 | [384176-cheeseland-mistery.json](./384176-cheeseland-mistery.json) |
 | CheeseLords | 378440 | [378440-cheeselords.json](./378440-cheeselords.json) |
@@ -8682,6 +8683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown Code Chronicles | 294285 | [294285-crown-code-chronicles.json](./294285-crown-code-chronicles.json) |
 | Crown Land | 159844 | [159844-crown-land.json](./159844-crown-land.json) |
 | Crown of Arthain | 129812 | [129812-crown-of-arthain.json](./129812-crown-of-arthain.json) |
+| Crown of Ashes and Flames | 319113 | [319113-crown-of-ashes-and-flames.json](./319113-crown-of-ashes-and-flames.json) |
 | Crown Of Blight | 417413 | [417413-crown-of-blight.json](./417413-crown-of-blight.json) |
 | Crown of Greed | 216725 | [216725-crown-of-greed.json](./216725-crown-of-greed.json) |
 | Crown of Hispania | 403203 | [403203-crown-of-hispania.json](./403203-crown-of-hispania.json) |
