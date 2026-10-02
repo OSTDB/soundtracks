@@ -736,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Famaze | 9170 | [9170-famaze.json](./9170-famaze.json) |
 | FamCram | 381197 | [381197-famcram.json](./381197-famcram.json) |
 | Fame Academy: Dance Edition | 44721 | [44721-fame-academy-dance-edition.json](./44721-fame-academy-dance-edition.json) |
+| Fame City | 325530 | [325530-fame-city.json](./325530-fame-city.json) |
 | Fame or Folly | 394181 | [394181-fame-or-folly.json](./394181-fame-or-folly.json) |
 | Famicom Bunko: Hajimari no Mori | 42245 | [42245-famicom-bunko-hajimari-no-mori.json](./42245-famicom-bunko-hajimari-no-mori.json) |
 | Famicom Fighters | 307666 | [307666-famicom-fighters.json](./307666-famicom-fighters.json) |
@@ -5583,6 +5584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FreeJack | 51276 | [51276-freejack.json](./51276-freejack.json) |
 | Freekscape: Escape From Hell | 52231 | [52231-freekscape-escape-from-hell.json](./52231-freekscape-escape-from-hell.json) |
 | Freekstyle | 3919 | [3919-freekstyle.json](./3919-freekstyle.json) |
+| Freeky Faucets Arcade | 325513 | [325513-freeky-faucets-arcade.json](./325513-freeky-faucets-arcade.json) |
 | Freelance Dead | 390663 | [390663-freelance-dead.json](./390663-freelance-dead.json) |
 | Freelance Simulator: Game Developer Edition | 100874 | [100874-freelance-simulator-game-developer-edition.json](./100874-freelance-simulator-game-developer-edition.json) |
 | Freelance Trucker: Insurance Fraud Edition | 150644 | [150644-freelance-trucker-insurance-fraud-edition.json](./150644-freelance-trucker-insurance-fraud-edition.json) |
@@ -6296,6 +6298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Metal Planet | 12110 | [12110-full-metal-planet.json](./12110-full-metal-planet.json) |
 | Full Metal Schoolgirl | 352205 | [352205-full-metal-schoolgirl.json](./352205-full-metal-schoolgirl.json) |
 | Full Metal Sergeant | 189108 | [189108-full-metal-sergeant.json](./189108-full-metal-sergeant.json) |
+| Full Metal Sergeant 2 | 325496 | [325496-full-metal-sergeant-2.json](./325496-full-metal-sergeant-2.json) |
 | Full Moon | 125910 | [125910-full-moon.json](./125910-full-moon.json) |
 | Full Moon Fishing | 383396 | [383396-full-moon-fishing.json](./383396-full-moon-fishing.json) |
 | Full Moon Guildhouse Simulator | 366251 | [366251-full-moon-guildhouse-simulator.json](./366251-full-moon-guildhouse-simulator.json) |
