@@ -1358,6 +1358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlet and Blank | 180674 | [180674-scarlet-and-blank.json](./180674-scarlet-and-blank.json) |
 | Scarlet City of Devils | 356880 | [356880-scarlet-city-of-devils.json](./356880-scarlet-city-of-devils.json) |
 | Scarlet Deer Inn | 143710 | [143710-scarlet-deer-inn.json](./143710-scarlet-deer-inn.json) |
+| Scarlet Defiance: The Wall Between Us | 291149 | [291149-scarlet-defiance-the-wall-between-us.json](./291149-scarlet-defiance-the-wall-between-us.json) |
 | Scarlet Girls | 328211 | [328211-scarlet-girls.json](./328211-scarlet-girls.json) |
 | Scarlet Hollow | 139194 | [139194-scarlet-hollow.json](./139194-scarlet-hollow.json) |
 | Scarlet Hood and the Wicked Wood: Deluxe Edition | 154546 | [154546-scarlet-hood-and-the-wicked-wood-deluxe-edition.json](./154546-scarlet-hood-and-the-wicked-wood-deluxe-edition.json) |
@@ -3342,6 +3343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of Asha | 203542 | [203542-shadow-of-asha.json](./203542-shadow-of-asha.json) |
 | Shadow of Aten | 72963 | [72963-shadow-of-aten.json](./72963-shadow-of-aten.json) |
 | Shadow of Atlantis | 298294 | [298294-shadow-of-atlantis.json](./298294-shadow-of-atlantis.json) |
+| Shadow of Azrael 2 | 291180 | [291180-shadow-of-azrael-2.json](./291180-shadow-of-azrael-2.json) |
 | Shadow of Babel | 184496 | [184496-shadow-of-babel.json](./184496-shadow-of-babel.json) |
 | Shadow of Chaos | 324701 | [324701-shadow-of-chaos.json](./324701-shadow-of-chaos.json) |
 | Shadow of Death 2: RPG Games | 323176 | [323176-shadow-of-death-2-rpg-games.json](./323176-shadow-of-death-2-rpg-games.json) |
@@ -7351,6 +7353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snakes Subsonic | 133871 | [133871-snakes-subsonic.json](./133871-snakes-subsonic.json) |
 | Snakes with Fists! | 343271 | [343271-snakes-with-fists.json](./343271-snakes-with-fists.json) |
 | Snakest | 109773 | [109773-snakest.json](./109773-snakest.json) |
+| SnakeTris | 291164 | [291164-snaketris.json](./291164-snaketris.json) |
 | Snaky Cat | 337093 | [337093-snaky-cat.json](./337093-snaky-cat.json) |
 | Snaky Snake | 70996 | [70996-snaky-snake.json](./70996-snaky-snake.json) |
 | Snaky Snakes | 321505 | [321505-snaky-snakes.json](./321505-snaky-snakes.json) |
@@ -7489,6 +7492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Hunter Shooter | 264581 | [264581-sniper-hunter-shooter.json](./264581-sniper-hunter-shooter.json) |
 | Sniper Master: City Hunter | 227482 | [227482-sniper-master-city-hunter.json](./227482-sniper-master-city-hunter.json) |
 | Sniper Ops 3D | 88297 | [88297-sniper-ops-3d.json](./88297-sniper-ops-3d.json) |
+| Sniper Rescue | 291172 | [291172-sniper-rescue.json](./291172-sniper-rescue.json) |
 | Sniper Road | 190956 | [190956-sniper-road.json](./190956-sniper-road.json) |
 | Sniper Shooter 3D: SWAT Missions Pro | 86719 | [86719-sniper-shooter-3d-swat-missions-pro.json](./86719-sniper-shooter-3d-swat-missions-pro.json) |
 | Sniper Shooter: Gun Shooting | 86982 | [86982-sniper-shooter-gun-shooting.json](./86982-sniper-shooter-gun-shooting.json) |
@@ -12625,6 +12629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stars, Stripes and Subgames: Collector's Edition | 308494 | [308494-stars-stripes-and-subgames-collectors-edition.json](./308494-stars-stripes-and-subgames-collectors-edition.json) |
 | Starsand | 152754 | [152754-starsand.json](./152754-starsand.json) |
 | Starsand Island | 310885 | [310885-starsand-island.json](./310885-starsand-island.json) |
+| StarsAway | 291195 | [291195-starsaway.json](./291195-starsaway.json) |
 | Starseed Harmonies | 385553 | [385553-starseed-harmonies.json](./385553-starseed-harmonies.json) |
 | Starshapes | 249864 | [249864-starshapes.json](./249864-starshapes.json) |
 | Starshatter | 70929 | [70929-starshatter.json](./70929-starshatter.json) |
@@ -17228,6 +17233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swamp Sim | 345586 | [345586-swamp-sim.json](./345586-swamp-sim.json) |
 | Swamp Thing | 198935 | [198935-swamp-thing.json](./198935-swamp-thing.json) |
 | Swamp Thing | 365685 | [365685-swamp-thing.json](./365685-swamp-thing.json) |
+| Swamp Up | 291193 | [291193-swamp-up.json](./291193-swamp-up.json) |
 | Swamped! | 309525 | [309525-swamped.json](./309525-swamped.json) |
 | Swampify | 305753 | [305753-swampify.json](./305753-swampify.json) |
 | Swampstar | 201177 | [201177-swampstar.json](./201177-swampstar.json) |
