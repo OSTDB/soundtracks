@@ -652,6 +652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warframe: Sanctuary | 202147 | [202147-warframe-sanctuary.json](./202147-warframe-sanctuary.json) |
 | Warframe: Shadows of the Dead | 200659 | [200659-warframe-shadows-of-the-dead.json](./200659-warframe-shadows-of-the-dead.json) |
 | Warframe: Starter Weapon Pack | 353309 | [353309-warframe-starter-weapon-pack.json](./353309-warframe-starter-weapon-pack.json) |
+| Warframe: TennoCon 2024 Digital Pack | 294972 | [294972-warframe-tennocon-2024-digital-pack.json](./294972-warframe-tennocon-2024-digital-pack.json) |
 | Warframe: The Duviri Paradox | 204361 | [204361-warframe-the-duviri-paradox.json](./204361-warframe-the-duviri-paradox.json) |
 | Warframe: The Jovian Concord | 198496 | [198496-warframe-the-jovian-concord.json](./198496-warframe-the-jovian-concord.json) |
 | Warframe: The Mad Cephalon | 201162 | [201162-warframe-the-mad-cephalon.json](./201162-warframe-the-mad-cephalon.json) |
@@ -1079,6 +1080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WASDJK | 311198 | [311198-wasdjk.json](./311198-wasdjk.json) |
 | Wash & Warm | 390728 | [390728-wash-and-warm.json](./390728-wash-and-warm.json) |
 | Wash Card | 223705 | [223705-wash-card.json](./223705-wash-card.json) |
+| Wash Sim | 294969 | [294969-wash-sim.json](./294969-wash-sim.json) |
 | Wash Simulator: Clean Garage, House, Cars Business Tycoons | 259617 | [259617-wash-simulator-clean-garage-house-cars-business-tycoons.json](./259617-wash-simulator-clean-garage-house-cars-business-tycoons.json) |
 | Wash Simulator: Clean Garage, House, Cars Business Tycoons - Extended Edition | 328818 | [328818-wash-simulator-clean-garage-house-cars-business-tycoons-extended-edition.json](./328818-wash-simulator-clean-garage-house-cars-business-tycoons-extended-edition.json) |
 | Wash the Cars | 338394 | [338394-wash-the-cars.json](./338394-wash-the-cars.json) |
