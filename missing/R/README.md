@@ -2210,6 +2210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReEvolve | 103178 | [103178-reevolve.json](./103178-reevolve.json) |
 | Refactor | 155510 | [155510-refactor.json](./155510-refactor.json) |
 | Refactor | 35928 | [35928-refactor.json](./35928-refactor.json) |
+| Refactoro: Chaotic Farm | 294961 | [294961-refactoro-chaotic-farm.json](./294961-refactoro-chaotic-farm.json) |
 | Refantasia: Charm and Conquer | 200744 | [200744-refantasia-charm-and-conquer.json](./200744-refantasia-charm-and-conquer.json) |
 | Refarm | 312178 | [312178-refarm.json](./312178-refarm.json) |
 | Refbals | 392272 | [392272-refbals.json](./392272-refbals.json) |
@@ -4805,6 +4806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockitty | 329116 | [329116-rockitty.json](./329116-rockitty.json) |
 | Rockjack | 156538 | [156538-rockjack.json](./156538-rockjack.json) |
 | Rockland VR | 75031 | [75031-rockland-vr.json](./75031-rockland-vr.json) |
+| Rocklings | 294974 | [294974-rocklings.json](./294974-rocklings.json) |
 | Rockman & Forte FC | 320354 | [320354-rockman-and-forte-fc.json](./320354-rockman-and-forte-fc.json) |
 | Rockman 2: Basic Master | 269878 | [269878-rockman-2-basic-master.json](./269878-rockman-2-basic-master.json) |
 | Rockman 2: Gray Zone | 269879 | [269879-rockman-2-gray-zone.json](./269879-rockman-2-gray-zone.json) |
