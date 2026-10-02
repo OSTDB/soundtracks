@@ -1888,6 +1888,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing 2022: French Version | 175978 | [175978-lets-sing-2022-french-version.json](./175978-lets-sing-2022-french-version.json) |
 | Let's Sing 2024 with International Hits: Gold Edition | 271838 | [271838-lets-sing-2024-with-international-hits-gold-edition.json](./271838-lets-sing-2024-with-international-hits-gold-edition.json) |
 | Let's Sing 2024 with International Hits: Platinum Edition | 271836 | [271836-lets-sing-2024-with-international-hits-platinum-edition.json](./271836-lets-sing-2024-with-international-hits-platinum-edition.json) |
+| Let's Sing 2025 with International Hits | 317926 | [317926-lets-sing-2025-with-international-hits.json](./317926-lets-sing-2025-with-international-hits.json) |
+| Let's Sing 2025 with International Hits: Gold Edition | 317907 | [317907-lets-sing-2025-with-international-hits-gold-edition.json](./317907-lets-sing-2025-with-international-hits-gold-edition.json) |
+| Let's Sing 2025 with International Hits: Platinum Edition | 317906 | [317906-lets-sing-2025-with-international-hits-platinum-edition.json](./317906-lets-sing-2025-with-international-hits-platinum-edition.json) |
 | Let's Sing 2026 | 371252 | [371252-lets-sing-2026.json](./371252-lets-sing-2026.json) |
 | Let's Sing 2026 with International Hits | 371423 | [371423-lets-sing-2026-with-international-hits.json](./371423-lets-sing-2026-with-international-hits.json) |
 | Let's Sing 2026 with International Hits: Gold Edition | 371434 | [371434-lets-sing-2026-with-international-hits-gold-edition.json](./371434-lets-sing-2026-with-international-hits-gold-edition.json) |
