@@ -1867,6 +1867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ngolf: Complete + | 324447 | [324447-ngolf-complete.json](./324447-ngolf-complete.json) |
 | NGolf: Complete Edition | 313152 | [313152-ngolf-complete-edition.json](./313152-ngolf-complete-edition.json) |
 | Ngolf: Director's Cut | 324430 | [324430-ngolf-directors-cut.json](./324430-ngolf-directors-cut.json) |
+| Ngolf: GOTY Edition | 324376 | [324376-ngolf-goty-edition.json](./324376-ngolf-goty-edition.json) |
 | Ngolf: Legendary Edition | 315858 | [315858-ngolf-legendary-edition.json](./315858-ngolf-legendary-edition.json) |
 | Ngolf: Moon Swing | 288296 | [288296-ngolf-moon-swing.json](./288296-ngolf-moon-swing.json) |
 | Ngolf: Platinum Edition | 317247 | [317247-ngolf-platinum-edition.json](./317247-ngolf-platinum-edition.json) |
