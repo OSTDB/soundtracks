@@ -1110,6 +1110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturday Night Slam Masters | 4504 | [4504-saturday-night-slam-masters.json](./4504-saturday-night-slam-masters.json) |
 | Saturday School | 171557 | [171557-saturday-school.json](./171557-saturday-school.json) |
 | Sature | 183450 | [183450-sature.json](./183450-sature.json) |
+| Saturn | 285121 | [285121-saturn.json](./285121-saturn.json) |
 | Saturn | 313467 | [313467-saturn.json](./313467-saturn.json) |
 | Saturn Bomberman | 28393 | [28393-saturn-bomberman.json](./28393-saturn-bomberman.json) |
 | Saturn Quest: R.U.N.E. 3000 | 221169 | [221169-saturn-quest-r-u-n-e-3000.json](./221169-saturn-quest-r-u-n-e-3000.json) |
@@ -2975,6 +2976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Session: Skate Sim | 75694 | [75694-session-skate-sim.json](./75694-session-skate-sim.json) |
 | Session: Skate Sim - Brandalised Pack | 231325 | [231325-session-skate-sim-brandalised-pack.json](./231325-session-skate-sim-brandalised-pack.json) |
 | Session: Skate Sim - Deluxe Edition | 218488 | [218488-session-skate-sim-deluxe-edition.json](./218488-session-skate-sim-deluxe-edition.json) |
+| Session: Skate Sim - Year 1 Pack | 285110 | [285110-session-skate-sim-year-1-pack.json](./285110-session-skate-sim-year-1-pack.json) |
 | Session: Skate Sim Waterpark & Chris Cole | 357406 | [357406-session-skate-sim-waterpark-and-chris-cole.json](./357406-session-skate-sim-waterpark-and-chris-cole.json) |
 | Session: Skate Sim Year One & Two Edition | 331843 | [331843-session-skate-sim-year-one-and-two-edition.json](./331843-session-skate-sim-year-one-and-two-edition.json) |
 | Set 'N Det | 186861 | [186861-set-n-det.json](./186861-set-n-det.json) |
@@ -3571,6 +3573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows: Awakening | 54775 | [54775-shadows-awakening.json](./54775-shadows-awakening.json) |
 | Shadowsense. | 207510 | [207510-shadowsense.json](./207510-shadowsense.json) |
 | Shadowstone | 388342 | [388342-shadowstone.json](./388342-shadowstone.json) |
+| ShadowStrikeVR | 285114 | [285114-shadowstrikevr.json](./285114-shadowstrikevr.json) |
 | Shadowvane | 254781 | [254781-shadowvane.json](./254781-shadowvane.json) |
 | Shadowveil: Legend of The Five Rings | 321163 | [321163-shadowveil-legend-of-the-five-rings.json](./321163-shadowveil-legend-of-the-five-rings.json) |
 | Shadowverse: Wonderland Dreams | 37072 | [37072-shadowverse-wonderland-dreams.json](./37072-shadowverse-wonderland-dreams.json) |
@@ -4423,6 +4426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shitataru Ano Ko: Drenched Girls | 271505 | [271505-shitataru-ano-ko-drenched-girls.json](./271505-shitataru-ano-ko-drenched-girls.json) |
 | Shitataru Nikki | 257085 | [257085-shitataru-nikki.json](./257085-shitataru-nikki.json) |
 | Shitlings | 369626 | [369626-shitlings.json](./369626-shitlings.json) |
+| ShitMan | 285140 | [285140-shitman.json](./285140-shitman.json) |
 | Shitsuji ga Aruji wo Erabu Toki | 216245 | [216245-shitsuji-ga-aruji-wo-erabu-toki.json](./216245-shitsuji-ga-aruji-wo-erabu-toki.json) |
 | Shivah | 7418 | [7418-shivah.json](./7418-shivah.json) |
 | Shiver 3D | 152771 | [152771-shiver-3d.json](./152771-shiver-3d.json) |
@@ -14237,6 +14241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Struggle For Talyria | 148920 | [148920-struggle-for-talyria.json](./148920-struggle-for-talyria.json) |
 | Struggle for the Iliac Bay | 356168 | [356168-struggle-for-the-iliac-bay.json](./356168-struggle-for-the-iliac-bay.json) |
 | Struggle Weapon Girl | 410899 | [410899-struggle-weapon-girl.json](./410899-struggle-weapon-girl.json) |
+| Strum | 285159 | [285159-strum.json](./285159-strum.json) |
 | Stryfe - The Everlasting Battle | 39136 | [39136-stryfe-the-everlasting-battle.json](./39136-stryfe-the-everlasting-battle.json) |
 | Stryke | 249805 | [249805-stryke.json](./249805-stryke.json) |
 | STSP: Super Titty Space Prison | 260643 | [260643-stsp-super-titty-space-prison.json](./260643-stsp-super-titty-space-prison.json) |
@@ -17677,6 +17682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of Convallaria: For This World of Peace | 212438 | [212438-sword-of-convallaria-for-this-world-of-peace.json](./212438-sword-of-convallaria-for-this-world-of-peace.json) |
 | Sword of Fireheart - The Awakening Element | 31989 | [31989-sword-of-fireheart-the-awakening-element.json](./31989-sword-of-fireheart-the-awakening-element.json) |
 | Sword of Hearts | 183437 | [183437-sword-of-hearts.json](./183437-sword-of-hearts.json) |
+| Sword of Jade: Parallel Dreams | 285149 | [285149-sword-of-jade-parallel-dreams.json](./285149-sword-of-jade-parallel-dreams.json) |
 | Sword of Mana | 6630 | [6630-sword-of-mana.json](./6630-sword-of-mana.json) |
 | Sword of Power | 176273 | [176273-sword-of-power.json](./176273-sword-of-power.json) |
 | Sword of Rapier | 64509 | [64509-sword-of-rapier.json](./64509-sword-of-rapier.json) |
