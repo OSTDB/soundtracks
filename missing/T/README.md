@@ -1753,6 +1753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teeny Titans: Teen Titans Go! | 38941 | [38941-teeny-titans-teen-titans-go.json](./38941-teeny-titans-teen-titans-go.json) |
 | Teenyshire | 274004 | [274004-teenyshire.json](./274004-teenyshire.json) |
 | Teeter | 205067 | [205067-teeter.json](./205067-teeter.json) |
+| Teeter | 324975 | [324975-teeter.json](./324975-teeter.json) |
 | Teeth Brushing Simulator | 228730 | [228730-teeth-brushing-simulator.json](./228730-teeth-brushing-simulator.json) |
 | Teeth Cutter | 390617 | [390617-teeth-cutter.json](./390617-teeth-cutter.json) |
 | Teething | 63797 | [63797-teething.json](./63797-teething.json) |
@@ -2995,6 +2996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Asylum Closed Ward | 331523 | [331523-the-asylum-closed-ward.json](./331523-the-asylum-closed-ward.json) |
 | The Asylum: Psychiatric Clinic for Abused Cuddly Toys | 66153 | [66153-the-asylum-psychiatric-clinic-for-abused-cuddly-toys.json](./66153-the-asylum-psychiatric-clinic-for-abused-cuddly-toys.json) |
 | The Atlas Mystery: PC Edition | 336567 | [336567-the-atlas-mystery-pc-edition.json](./336567-the-atlas-mystery-pc-edition.json) |
+| The Atlas: Renaissance Voyager | 324956 | [324956-the-atlas-renaissance-voyager.json](./324956-the-atlas-renaissance-voyager.json) |
 | The Atlas: Renaissance Voyager | 38315 | [38315-the-atlas-renaissance-voyager.json](./38315-the-atlas-renaissance-voyager.json) |
 | The Atomy | 33124 | [33124-the-atomy.json](./33124-the-atomy.json) |
 | The Attack on Egg Harbor | 344357 | [344357-the-attack-on-egg-harbor.json](./344357-the-attack-on-egg-harbor.json) |
@@ -5520,6 +5522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Irate Gamer Game | 20195 | [20195-the-irate-gamer-game.json](./20195-the-irate-gamer-game.json) |
 | The Iron Age | 223151 | [223151-the-iron-age.json](./223151-the-iron-age.json) |
 | The Iron Oath | 55966 | [55966-the-iron-oath.json](./55966-the-iron-oath.json) |
+| The Irony | 324952 | [324952-the-irony.json](./324952-the-irony.json) |
 | The Irregular at Magic High School Reloaded Memory | 174649 | [174649-the-irregular-at-magic-high-school-reloaded-memory.json](./174649-the-irregular-at-magic-high-school-reloaded-memory.json) |
 | The Island | 274188 | [274188-the-island.json](./274188-the-island.json) |
 | The Island | 287239 | [287239-the-island.json](./287239-the-island.json) |
@@ -8948,6 +8951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Twilight Zone | 12804 | [12804-the-twilight-zone.json](./12804-the-twilight-zone.json) |
 | The Twilight Zone II: Final Dreams | 274008 | [274008-the-twilight-zone-ii-final-dreams.json](./274008-the-twilight-zone-ii-final-dreams.json) |
 | The Twins | 128337 | [128337-the-twins.json](./128337-the-twins.json) |
+| The Twins | 324870 | [324870-the-twins.json](./324870-the-twins.json) |
 | The Twisted Dream | 323354 | [323354-the-twisted-dream.json](./323354-the-twisted-dream.json) |
 | The Twisted Zone: Foreborn | 413827 | [413827-the-twisted-zone-foreborn.json](./413827-the-twisted-zone-foreborn.json) |
 | The Twisting Trail of Clues | 295524 | [295524-the-twisting-trail-of-clues.json](./295524-the-twisting-trail-of-clues.json) |
