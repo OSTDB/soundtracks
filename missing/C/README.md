@@ -535,6 +535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can Androids Pray: Blue | 125388 | [125388-can-androids-pray-blue.json](./125388-can-androids-pray-blue.json) |
 | Can Androids Survive | 167709 | [167709-can-androids-survive.json](./167709-can-androids-survive.json) |
 | Can Bullet | 296646 | [296646-can-bullet.json](./296646-can-bullet.json) |
+| Can Do! | 298813 | [298813-can-do.json](./298813-can-do.json) |
 | Can I Buy You a Cheeseburger? | 358486 | [358486-can-i-buy-you-a-cheeseburger.json](./358486-can-i-buy-you-a-cheeseburger.json) |
 | Can I Get an Iced Coffee with Breastmilk!? | 391264 | [391264-can-i-get-an-iced-coffee-with-breastmilk.json](./391264-can-i-get-an-iced-coffee-with-breastmilk.json) |
 | Can I Not Fall for Idols? | 390818 | [390818-can-i-not-fall-for-idols.json](./390818-can-i-not-fall-for-idols.json) |
