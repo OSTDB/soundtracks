@@ -1378,6 +1378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mamusphere of the Forgotten | 124621 | [124621-mamusphere-of-the-forgotten.json](./124621-mamusphere-of-the-forgotten.json) |
 | Mamzer Corp | 404991 | [404991-mamzer-corp.json](./404991-mamzer-corp.json) |
 | Man and Dog: Small Game Hunt | 337651 | [337651-man-and-dog-small-game-hunt.json](./337651-man-and-dog-small-game-hunt.json) |
+| Man Boy vs. Doctor Sock | 327272 | [327272-man-boy-vs-doctor-sock.json](./327272-man-boy-vs-doctor-sock.json) |
 | Man Face Spider I | 132773 | [132773-man-face-spider-i.json](./132773-man-face-spider-i.json) |
 | Man For Takeaway | 323844 | [323844-man-for-takeaway.json](./323844-man-for-takeaway.json) |
 | Man I Just Wanna Go Home | 303644 | [303644-man-i-just-wanna-go-home.json](./303644-man-i-just-wanna-go-home.json) |
