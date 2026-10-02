@@ -382,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landmine Larry | 31174 | [31174-landmine-larry.json](./31174-landmine-larry.json) |
 | Landmine Princess | 342881 | [342881-landmine-princess.json](./342881-landmine-princess.json) |
 | Landnav | 197380 | [197380-landnav.json](./197380-landnav.json) |
+| Lando: Me? A Hero? | 321422 | [321422-lando-me-a-hero.json](./321422-lando-me-a-hero.json) |
 | Landomayzer | 370122 | [370122-landomayzer.json](./370122-landomayzer.json) |
 | LandPort | 201005 | [201005-landport.json](./201005-landport.json) |
 | Landrocker | 149513 | [149513-landrocker.json](./149513-landrocker.json) |
@@ -3650,6 +3651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loop: New Reality | 333219 | [333219-loop-new-reality.json](./333219-loop-new-reality.json) |
 | Loopbreaker | 395586 | [395586-loopbreaker.json](./395586-loopbreaker.json) |
 | LoopBreaker | 335241 | [335241-loopbreaker.json](./335241-loopbreaker.json) |
+| Loopdio | 321425 | [321425-loopdio.json](./321425-loopdio.json) |
 | Loopdrop | 364696 | [364696-loopdrop.json](./364696-loopdrop.json) |
 | Looped | 285506 | [285506-looped.json](./285506-looped.json) |
 | Loopedal | 364642 | [364642-loopedal.json](./364642-loopedal.json) |
