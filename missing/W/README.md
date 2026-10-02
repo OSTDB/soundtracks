@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wagamama Fairy: Mirumo de Pon! Hachinin no Toki no Yousei | 284597 | [284597-wagamama-fairy-mirumo-de-pon-hachinin-no-toki-no-yousei.json](./284597-wagamama-fairy-mirumo-de-pon-hachinin-no-toki-no-yousei.json) |
 | Wagamama Fairy: Mirumo de Pon! Nazo no Kagi to Shinjitsu no Tobira | 284606 | [284606-wagamama-fairy-mirumo-de-pon-nazo-no-kagi-to-shinjitsu-no-tobira.json](./284606-wagamama-fairy-mirumo-de-pon-nazo-no-kagi-to-shinjitsu-no-tobira.json) |
 | Wagamama Fairy: Mirumo de Pon! Ougon Maracas no Densetsu | 284598 | [284598-wagamama-fairy-mirumo-de-pon-ougon-maracas-no-densetsu.json](./284598-wagamama-fairy-mirumo-de-pon-ougon-maracas-no-densetsu.json) |
+| Wagamama Fairy: Mirumo de Pon! Taisen Mahoudama | 283397 | [283397-wagamama-fairy-mirumo-de-pon-taisen-mahoudama.json](./283397-wagamama-fairy-mirumo-de-pon-taisen-mahoudama.json) |
 | Wagee | 402519 | [402519-wagee.json](./402519-wagee.json) |
 | Wages of War: The Business of Battle | 70982 | [70982-wages-of-war-the-business-of-battle.json](./70982-wages-of-war-the-business-of-battle.json) |
 | Wageslave | 397239 | [397239-wageslave.json](./397239-wageslave.json) |
