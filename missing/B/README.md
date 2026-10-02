@@ -5505,6 +5505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BloodSpire | 411005 | [411005-bloodspire.json](./411005-bloodspire.json) |
 | Bloodsports.TV | 10057 | [10057-bloodsports-tv.json](./10057-bloodsports-tv.json) |
 | Bloodstained: Ritual of the Night | 10760 | [10760-bloodstained-ritual-of-the-night.json](./10760-bloodstained-ritual-of-the-night.json) |
+| Bloodstained: Ritual of the Night - Classic II: Dominique's Curse | 306560 | [306560-bloodstained-ritual-of-the-night-classic-ii-dominiques-curse.json](./306560-bloodstained-ritual-of-the-night-classic-ii-dominiques-curse.json) |
 | Bloodstained: Ritual of the Night - IGA's Back Pack | 155036 | [155036-bloodstained-ritual-of-the-night-igas-back-pack.json](./155036-bloodstained-ritual-of-the-night-igas-back-pack.json) |
 | Bloodstained: Ritual of the Night Complete Edition | 391058 | [391058-bloodstained-ritual-of-the-night-complete-edition.json](./391058-bloodstained-ritual-of-the-night-complete-edition.json) |
 | Bloodstained: The Scarlet Engagement | 347120 | [347120-bloodstained-the-scarlet-engagement.json](./347120-bloodstained-the-scarlet-engagement.json) |
