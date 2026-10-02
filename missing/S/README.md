@@ -437,6 +437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakunaverse | 363980 | [363980-sakunaverse.json](./363980-sakunaverse.json) |
 | Sakura Agent | 29850 | [29850-sakura-agent.json](./29850-sakura-agent.json) |
 | Sakura Alien | 186848 | [186848-sakura-alien.json](./186848-sakura-alien.json) |
+| Sakura And The Airyvixen | 289539 | [289539-sakura-and-the-airyvixen.json](./289539-sakura-and-the-airyvixen.json) |
 | Sakura Arms: Radiant Duels | 388956 | [388956-sakura-arms-radiant-duels.json](./388956-sakura-arms-radiant-duels.json) |
 | Sakura Bunny Girls 2 | 355079 | [355079-sakura-bunny-girls-2.json](./355079-sakura-bunny-girls-2.json) |
 | Sakura Day 2 Mahjong | 100216 | [100216-sakura-day-2-mahjong.json](./100216-sakura-day-2-mahjong.json) |
@@ -8237,6 +8238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solo Crisis | 62975 | [62975-solo-crisis.json](./62975-solo-crisis.json) |
 | Solo Defender | 333110 | [333110-solo-defender.json](./333110-solo-defender.json) |
 | Solo Flight | 25037 | [25037-solo-flight.json](./25037-solo-flight.json) |
+| Solo Flight | 289550 | [289550-solo-flight.json](./289550-solo-flight.json) |
 | Solo Leveling: Arise Overdrive | 349302 | [349302-solo-leveling-arise-overdrive.json](./349302-solo-leveling-arise-overdrive.json) |
 | Solo Noble | 175374 | [175374-solo-noble.json](./175374-solo-noble.json) |
 | Solo Records | 177936 | [177936-solo-records.json](./177936-solo-records.json) |
@@ -9958,6 +9960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Survival | 183863 | [183863-space-survival.json](./183863-space-survival.json) |
 | Space Survival | 32932 | [32932-space-survival.json](./32932-space-survival.json) |
 | Space Survivor | 245334 | [245334-space-survivor.json](./245334-space-survivor.json) |
+| Space Survivor | 289553 | [289553-space-survivor.json](./289553-space-survivor.json) |
 | Space Survivor VR AR | 404354 | [404354-space-survivor-vr-ar.json](./404354-space-survivor-vr-ar.json) |
 | Space Swap 110% | 392950 | [392950-space-swap-110.json](./392950-space-swap-110.json) |
 | Space Tail | 361876 | [361876-space-tail.json](./361876-space-tail.json) |
@@ -10544,6 +10547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellfarers | 308580 | [308580-spellfarers.json](./308580-spellfarers.json) |
 | Spellfast | 70393 | [70393-spellfast.json](./70393-spellfast.json) |
 | Spellfire Odyssey | 239764 | [239764-spellfire-odyssey.json](./239764-spellfire-odyssey.json) |
+| Spellfolio | 289549 | [289549-spellfolio.json](./289549-spellfolio.json) |
 | SpellForce 2: Faith in Destiny - Scenario 1: Flink's Secret Diary | 144284 | [144284-spellforce-2-faith-in-destiny-scenario-1-flinks-secret-diary.json](./144284-spellforce-2-faith-in-destiny-scenario-1-flinks-secret-diary.json) |
 | SpellForce 2: Faith in Destiny - Scenario 2: The Golden Fool | 144286 | [144286-spellforce-2-faith-in-destiny-scenario-2-the-golden-fool.json](./144286-spellforce-2-faith-in-destiny-scenario-2-the-golden-fool.json) |
 | SpellForce 2: Faith in Destiny - Scenario 3: The Last Stand | 144287 | [144287-spellforce-2-faith-in-destiny-scenario-3-the-last-stand.json](./144287-spellforce-2-faith-in-destiny-scenario-3-the-last-stand.json) |
@@ -13263,6 +13267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Slasher | 264615 | [264615-stick-slasher.json](./264615-stick-slasher.json) |
 | Stick Soldiers | 68700 | [68700-stick-soldiers.json](./68700-stick-soldiers.json) |
 | Stick Spartans | 102956 | [102956-stick-spartans.json](./102956-stick-spartans.json) |
+| Stick Stunt Biker | 289564 | [289564-stick-stunt-biker.json](./289564-stick-stunt-biker.json) |
 | Stick Tennis | 277566 | [277566-stick-tennis.json](./277566-stick-tennis.json) |
 | Stick Tennis Tour | 261513 | [261513-stick-tennis-tour.json](./261513-stick-tennis-tour.json) |
 | Stick to the Plan | 234299 | [234299-stick-to-the-plan.json](./234299-stick-to-the-plan.json) |
