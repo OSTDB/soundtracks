@@ -473,6 +473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take the Earth | 258439 | [258439-take-the-earth.json](./258439-take-the-earth.json) |
 | Take the King! | 270737 | [270737-take-the-king.json](./270737-take-the-king.json) |
 | Take town | 163402 | [163402-take-town.json](./163402-take-town.json) |
+| Take Your Altushka | 310106 | [310106-take-your-altushka.json](./310106-take-your-altushka.json) |
 | Take Your Best Shot | 69794 | [69794-take-your-best-shot.json](./69794-take-your-best-shot.json) |
 | Take Yutaka G1 Memory | 37795 | [37795-take-yutaka-g1-memory.json](./37795-take-yutaka-g1-memory.json) |
 | Take-out Weight Curling | 70949 | [70949-take-out-weight-curling.json](./70949-take-out-weight-curling.json) |
@@ -6796,6 +6797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Memories That Shape Us | 327371 | [327371-the-memories-that-shape-us.json](./327371-the-memories-that-shape-us.json) |
 | The Memory Library | 414404 | [414404-the-memory-library.json](./414404-the-memory-library.json) |
 | The Memory of Eldurim | 16905 | [16905-the-memory-of-eldurim.json](./16905-the-memory-of-eldurim.json) |
+| The Memory of Mallet | 310119 | [310119-the-memory-of-mallet.json](./310119-the-memory-of-mallet.json) |
 | The Memory Thieves | 321599 | [321599-the-memory-thieves.json](./321599-the-memory-thieves.json) |
 | The Men of Yoshiwara: Ohgiya | 33398 | [33398-the-men-of-yoshiwara-ohgiya.json](./33398-the-men-of-yoshiwara-ohgiya.json) |
 | The Menacing | 156030 | [156030-the-menacing.json](./156030-the-menacing.json) |
@@ -7377,6 +7379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pirate Mermaid | 178528 | [178528-the-pirate-mermaid.json](./178528-the-pirate-mermaid.json) |
 | The Pirate: Caribbean Hunt | 31726 | [31726-the-pirate-caribbean-hunt.json](./31726-the-pirate-caribbean-hunt.json) |
 | The Pirate's Fate: Prisoner of Destiny | 169331 | [169331-the-pirates-fate-prisoner-of-destiny.json](./169331-the-pirates-fate-prisoner-of-destiny.json) |
+| The Pirate's Quest | 310092 | [310092-the-pirates-quest.json](./310092-the-pirates-quest.json) |
 | The Pirates Kill | 188037 | [188037-the-pirates-kill.json](./188037-the-pirates-kill.json) |
 | The Pirates of Dark Water | 342059 | [342059-the-pirates-of-dark-water.json](./342059-the-pirates-of-dark-water.json) |
 | The Pirates of Dark Water | 8104 | [8104-the-pirates-of-dark-water.json](./8104-the-pirates-of-dark-water.json) |
@@ -11448,6 +11451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timekeepers Expansion | 210702 | [210702-timekeepers-expansion.json](./210702-timekeepers-expansion.json) |
 | Timelake: Time Travel Tactics | 327841 | [327841-timelake-time-travel-tactics.json](./327841-timelake-time-travel-tactics.json) |
 | Timeless | 119751 | [119751-timeless.json](./119751-timeless.json) |
+| Timeless | 310093 | [310093-timeless.json](./310093-timeless.json) |
 | Timeless Adventure: A Journey to Begin | 134533 | [134533-timeless-adventure-a-journey-to-begin.json](./134533-timeless-adventure-a-journey-to-begin.json) |
 | Timeless Dual | 152809 | [152809-timeless-dual.json](./152809-timeless-dual.json) |
 | Timeless Paradox VR | 133200 | [133200-timeless-paradox-vr.json](./133200-timeless-paradox-vr.json) |
@@ -12987,6 +12991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Warhammer III - Shadows of Change | 251223 | [251223-total-war-warhammer-iii-shadows-of-change.json](./251223-total-war-warhammer-iii-shadows-of-change.json) |
 | Total War: Warhammer III - Thrones of Decay | 251224 | [251224-total-war-warhammer-iii-thrones-of-decay.json](./251224-total-war-warhammer-iii-thrones-of-decay.json) |
 | Total War: Warhammer III - Update 3.1 | 251222 | [251222-total-war-warhammer-iii-update-3-1.json](./251222-total-war-warhammer-iii-update-3-1.json) |
+| Total Zugzwang | 310145 | [310145-total-zugzwang.json](./310145-total-zugzwang.json) |
 | Totality | 272278 | [272278-totality.json](./272278-totality.json) |
 | Totally Accurate Battle Simulator: Bug DLC | 239080 | [239080-totally-accurate-battle-simulator-bug-dlc.json](./239080-totally-accurate-battle-simulator-bug-dlc.json) |
 | Totally Accurate Battle Zombielator | 71583 | [71583-totally-accurate-battle-zombielator.json](./71583-totally-accurate-battle-zombielator.json) |
