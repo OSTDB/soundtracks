@@ -2572,10 +2572,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChainDive | 66743 | [66743-chaindive.json](./66743-chaindive.json) |
 | Chained | 309352 | [309352-chained.json](./309352-chained.json) |
 | Chained 2 Violence | 346691 | [346691-chained-2-violence.json](./346691-chained-2-violence.json) |
+| Chained Echoes: Ashes of Elrant | 324936 | [324936-chained-echoes-ashes-of-elrant.json](./324936-chained-echoes-ashes-of-elrant.json) |
 | Chained Horror Experiences | 258980 | [258980-chained-horror-experiences.json](./258980-chained-horror-experiences.json) |
 | Chained Runes | 303077 | [303077-chained-runes.json](./303077-chained-runes.json) |
 | Chained Sun | 382293 | [382293-chained-sun.json](./382293-chained-sun.json) |
 | Chained Survive Together | 320375 | [320375-chained-survive-together.json](./320375-chained-survive-together.json) |
+| Chained Through Hell | 324983 | [324983-chained-through-hell.json](./324983-chained-through-hell.json) |
 | Chained Together | 265111 | [265111-chained-together.json](./265111-chained-together.json) |
 | Chainer | 350062 | [350062-chainer.json](./350062-chainer.json) |
 | ChainMan | 39763 | [39763-chainman.json](./39763-chainman.json) |
@@ -4668,6 +4670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Snake Game Gold | 100962 | [100962-classic-snake-game-gold.json](./100962-classic-snake-game-gold.json) |
 | Classic Solitaire | 323511 | [323511-classic-solitaire.json](./323511-classic-solitaire.json) |
 | Classic Solitaire | 88321 | [88321-classic-solitaire.json](./88321-classic-solitaire.json) |
+| Classic Sonic 3D Adventure | 324961 | [324961-classic-sonic-3d-adventure.json](./324961-classic-sonic-3d-adventure.json) |
 | Classic Start of International Students | 359541 | [359541-classic-start-of-international-students.json](./359541-classic-start-of-international-students.json) |
 | Classic Sudoku | 126741 | [126741-classic-sudoku.json](./126741-classic-sudoku.json) |
 | Classic Sudoku | 206973 | [206973-classic-sudoku.json](./206973-classic-sudoku.json) |
