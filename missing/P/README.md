@@ -1667,6 +1667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paw Patrol the Movie: Adventure City Calls | 152302 | [152302-paw-patrol-the-movie-adventure-city-calls.json](./152302-paw-patrol-the-movie-adventure-city-calls.json) |
 | Paw Patrol: Laptop Infantil | 294467 | [294467-paw-patrol-laptop-infantil.json](./294467-paw-patrol-laptop-infantil.json) |
 | Paw Patrol: World | 252175 | [252175-paw-patrol-world.json](./252175-paw-patrol-world.json) |
+| Pawafuru Puroyakyu 2024-2025 | 287890 | [287890-pawafuru-puroyakyu-2024-2025.json](./287890-pawafuru-puroyakyu-2024-2025.json) |
 | Pawafuru Puroyakyu: Eikan Nine Crossroad | 265625 | [265625-pawafuru-puroyakyu-eikan-nine-crossroad.json](./265625-pawafuru-puroyakyu-eikan-nine-crossroad.json) |
 | Pawapuro Adventures | 396373 | [396373-pawapuro-adventures.json](./396373-pawapuro-adventures.json) |
 | Pawapuro Stadium | 63285 | [63285-pawapuro-stadium.json](./63285-pawapuro-stadium.json) |
@@ -4709,6 +4710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs. Zombies | 275575 | [275575-plants-vs-zombies.json](./275575-plants-vs-zombies.json) |
 | Plants vs. Zombies | 342043 | [342043-plants-vs-zombies.json](./342043-plants-vs-zombies.json) |
 | Plants vs. Zombies | 342044 | [342044-plants-vs-zombies.json](./342044-plants-vs-zombies.json) |
+| Plants vs. Zombies 2: A Journey Through Time and Space | 287879 | [287879-plants-vs-zombies-2-a-journey-through-time-and-space.json](./287879-plants-vs-zombies-2-a-journey-through-time-and-space.json) |
 | Plants vs. Zombies 2: Garden Rush | 272845 | [272845-plants-vs-zombies-2-garden-rush.json](./272845-plants-vs-zombies-2-garden-rush.json) |
 | Plants vs. Zombies 2: Into the Storm | 272546 | [272546-plants-vs-zombies-2-into-the-storm.json](./272546-plants-vs-zombies-2-into-the-storm.json) |
 | Plants vs. Zombies 2: It's About Time | 3145 | [3145-plants-vs-zombies-2-its-about-time.json](./3145-plants-vs-zombies-2-its-about-time.json) |
@@ -4721,9 +4723,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs. Zombies Delturbia | 343926 | [343926-plants-vs-zombies-delturbia.json](./343926-plants-vs-zombies-delturbia.json) |
 | Plants vs. Zombies: Battle for Neighborville - Deluxe Edition | 136356 | [136356-plants-vs-zombies-battle-for-neighborville-deluxe-edition.json](./136356-plants-vs-zombies-battle-for-neighborville-deluxe-edition.json) |
 | Plants vs. Zombies: Cubed | 272801 | [272801-plants-vs-zombies-cubed.json](./272801-plants-vs-zombies-cubed.json) |
+| Plants vs. Zombies: Endless Edition | 287882 | [287882-plants-vs-zombies-endless-edition.json](./287882-plants-vs-zombies-endless-edition.json) |
 | Plants vs. Zombies: Fusion | 330905 | [330905-plants-vs-zombies-fusion.json](./330905-plants-vs-zombies-fusion.json) |
 | Plants vs. Zombies: Garden Warfare 2 | 11148 | [11148-plants-vs-zombies-garden-warfare-2.json](./11148-plants-vs-zombies-garden-warfare-2.json) |
 | Plants vs. Zombies: GOTY Edition | 20546 | [20546-plants-vs-zombies-goty-edition.json](./20546-plants-vs-zombies-goty-edition.json) |
+| Plants vs. Zombies: Match | 287877 | [287877-plants-vs-zombies-match.json](./287877-plants-vs-zombies-match.json) |
 | Plants vs. Zombies: Original Edition | 310568 | [310568-plants-vs-zombies-original-edition.json](./310568-plants-vs-zombies-original-edition.json) |
 | Plants vs. Zombies: Replanted | 358529 | [358529-plants-vs-zombies-replanted.json](./358529-plants-vs-zombies-replanted.json) |
 | Planum | 96890 | [96890-planum.json](./96890-planum.json) |
