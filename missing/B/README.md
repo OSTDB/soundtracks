@@ -117,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Hazel Easter Fun | 89710 | [89710-baby-hazel-easter-fun.json](./89710-baby-hazel-easter-fun.json) |
 | Baby Hazel Hand Fracture | 106767 | [106767-baby-hazel-hand-fracture.json](./106767-baby-hazel-hand-fracture.json) |
 | Baby Kaizo World | 145478 | [145478-baby-kaizo-world.json](./145478-baby-kaizo-world.json) |
+| Baby Kaizo World 2 | 328073 | [328073-baby-kaizo-world-2.json](./328073-baby-kaizo-world-2.json) |
 | Baby Killer | 117733 | [117733-baby-killer.json](./117733-baby-killer.json) |
 | Baby Kings | 373753 | [373753-baby-kings.json](./373753-baby-kings.json) |
 | Baby Life | 91752 | [91752-baby-life.json](./91752-baby-life.json) |
@@ -243,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backlash: A Turret Gunner Simulation | 338818 | [338818-backlash-a-turret-gunner-simulation.json](./338818-backlash-a-turret-gunner-simulation.json) |
 | Backlot: Hollywood Studio Tycoon | 416649 | [416649-backlot-hollywood-studio-tycoon.json](./416649-backlot-hollywood-studio-tycoon.json) |
 | Backpack | 297779 | [297779-backpack.json](./297779-backpack.json) |
+| Backpack Boy | 328103 | [328103-backpack-boy.json](./328103-backpack-boy.json) |
 | Backpack Dungeon | 407407 | [407407-backpack-dungeon.json](./407407-backpack-dungeon.json) |
 | Backpack Heroes | 174760 | [174760-backpack-heroes.json](./174760-backpack-heroes.json) |
 | Backpack Jianghu | 391202 | [391202-backpack-jianghu.json](./391202-backpack-jianghu.json) |
@@ -8760,6 +8762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buy Sell | 374158 | [374158-buy-sell.json](./374158-buy-sell.json) |
 | Buyhads | 169872 | [169872-buyhads.json](./169872-buyhads.json) |
 | Buying Tomato | 394869 | [394869-buying-tomato.json](./394869-buying-tomato.json) |
+| Buzludzha Evil | 328094 | [328094-buzludzha-evil.json](./328094-buzludzha-evil.json) |
 | Buzludzha VR | 126496 | [126496-buzludzha-vr.json](./126496-buzludzha-vr.json) |
 | Buzz | 232552 | [232552-buzz.json](./232552-buzz.json) |
 | Buzz Bombers | 356783 | [356783-buzz-bombers.json](./356783-buzz-bombers.json) |
