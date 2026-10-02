@@ -4883,6 +4883,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians: Royal Journey | 155003 | [155003-guardians-royal-journey.json](./155003-guardians-royal-journey.json) |
 | Guardians: Unite the Realms | 299417 | [299417-guardians-unite-the-realms.json](./299417-guardians-unite-the-realms.json) |
 | Guarding Goddess | 207331 | [207331-guarding-goddess.json](./207331-guarding-goddess.json) |
+| Guardiões da Natureza: Mamíferos | 290089 | [290089-guardioes-da-natureza-mamiferos.json](./290089-guardioes-da-natureza-mamiferos.json) |
+| Guardiões do Mundo: estados brasileiros | 290088 | [290088-guardioes-do-mundo-estados-brasileiros.json](./290088-guardioes-do-mundo-estados-brasileiros.json) |
 | Guards of the Gate | 90168 | [90168-guards-of-the-gate.json](./90168-guards-of-the-gate.json) |
 | Guards!: Vanguard Supporter Pack | 289322 | [289322-guards-vanguard-supporter-pack.json](./289322-guards-vanguard-supporter-pack.json) |
 | Guarrd the Rum | 176800 | [176800-guarrd-the-rum.json](./176800-guarrd-the-rum.json) |
