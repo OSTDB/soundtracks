@@ -4780,6 +4780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Hill: Surgery | 101764 | [101764-forgotten-hill-surgery.json](./101764-forgotten-hill-surgery.json) |
 | Forgotten Hill: The Wardrobe | 340235 | [340235-forgotten-hill-the-wardrobe.json](./340235-forgotten-hill-the-wardrobe.json) |
 | Forgotten Hill: The Wardrobe - Other Friends | 393167 | [393167-forgotten-hill-the-wardrobe-other-friends.json](./393167-forgotten-hill-the-wardrobe-other-friends.json) |
+| Forgotten Hope | 319675 | [319675-forgotten-hope.json](./319675-forgotten-hope.json) |
 | Forgotten Land | 53096 | [53096-forgotten-land.json](./53096-forgotten-land.json) |
 | Forgotten Lands: Online | 340236 | [340236-forgotten-lands-online.json](./340236-forgotten-lands-online.json) |
 | Forgotten Lore | 34723 | [34723-forgotten-lore.json](./34723-forgotten-lore.json) |
@@ -5518,6 +5519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fred Versus | 200044 | [200044-fred-versus.json](./200044-fred-versus.json) |
 | Fred's Cereal Company | 253950 | [253950-freds-cereal-company.json](./253950-freds-cereal-company.json) |
 | Fred3ric | 139225 | [139225-fred3ric.json](./139225-fred3ric.json) |
+| Fredbear and Friends: Reboot | 319668 | [319668-fredbear-and-friends-reboot.json](./319668-fredbear-and-friends-reboot.json) |
 | Fredbear Game Number 998433 | 397951 | [397951-fredbear-game-number-998433.json](./397951-fredbear-game-number-998433.json) |
 | Fredbear's Fright | 225631 | [225631-fredbears-fright.json](./225631-fredbears-fright.json) |
 | Freddi Fish 2: The Case of the Haunted Schoolhouse | 3744 | [3744-freddi-fish-2-the-case-of-the-haunted-schoolhouse.json](./3744-freddi-fish-2-the-case-of-the-haunted-schoolhouse.json) |
