@@ -3159,6 +3159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piggy Wiggy | 267335 | [267335-piggy-wiggy.json](./267335-piggy-wiggy.json) |
 | Piggy: Chapter 1 | 246093 | [246093-piggy-chapter-1.json](./246093-piggy-chapter-1.json) |
 | Piggy's Farm | 401723 | [401723-piggys-farm.json](./401723-piggys-farm.json) |
+| Pigillionaire | 327256 | [327256-pigillionaire.json](./327256-pigillionaire.json) |
 | Pigkour | 416682 | [416682-pigkour.json](./416682-pigkour.json) |
 | Piglet's Big Game | 314629 | [314629-piglets-big-game.json](./314629-piglets-big-game.json) |
 | Piglet's Big Game | 4066 | [4066-piglets-big-game.json](./4066-piglets-big-game.json) |
@@ -5347,6 +5348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Fool's Gold | 136877 | [136877-pokemon-fools-gold.json](./136877-pokemon-fools-gold.json) |
 | Pokémon FR Advanced Challenge | 136412 | [136412-pokemon-fr-advanced-challenge.json](./136412-pokemon-fr-advanced-challenge.json) |
 | Pokémon Friends | 356551 | [356551-pokemon-friends.json](./356551-pokemon-friends.json) |
+| Pokemon Fused Dimensions | 327270 | [327270-pokemon-fused-dimensions.json](./327270-pokemon-fused-dimensions.json) |
 | Pokémon Fushigi no Dungeon: Ikuzo! Arashi no Boukendan | 103512 | [103512-pokemon-fushigi-no-dungeon-ikuzo-arashi-no-boukendan.json](./103512-pokemon-fushigi-no-dungeon-ikuzo-arashi-no-boukendan.json) |
 | Pokémon Fushigi no Dungeon: Mezase! Hikari no Boukendan | 103513 | [103513-pokemon-fushigi-no-dungeon-mezase-hikari-no-boukendan.json](./103513-pokemon-fushigi-no-dungeon-mezase-hikari-no-boukendan.json) |
 | Pokémon Fushigi no Dungeon: Susume! Honoo no Boukendan | 103511 | [103511-pokemon-fushigi-no-dungeon-susume-honoo-no-boukendan.json](./103511-pokemon-fushigi-no-dungeon-susume-honoo-no-boukendan.json) |
@@ -5498,6 +5500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Stranded | 252122 | [252122-pokemon-stranded.json](./252122-pokemon-stranded.json) |
 | Pokémon Sun and Moon Special Demo Version | 313321 | [313321-pokemon-sun-and-moon-special-demo-version.json](./313321-pokemon-sun-and-moon-special-demo-version.json) |
 | Pokémon Super Gold 97 | 142232 | [142232-pokemon-super-gold-97.json](./142232-pokemon-super-gold-97.json) |
+| Pokemon Supreme Fire | 327263 | [327263-pokemon-supreme-fire.json](./327263-pokemon-supreme-fire.json) |
 | Pokémon Sweet 2th | 141822 | [141822-pokemon-sweet-2th.json](./141822-pokemon-sweet-2th.json) |
 | Pokémon Sword & Pokémon Shield Double Pack | 115652 | [115652-pokemon-sword-and-pokemon-shield-double-pack.json](./115652-pokemon-sword-and-pokemon-shield-double-pack.json) |
 | Pokémon Sword and Shield | 294432 | [294432-pokemon-sword-and-shield.json](./294432-pokemon-sword-and-shield.json) |
@@ -7139,6 +7142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Private Detective Punch Drunk: PDPD | 77365 | [77365-private-detective-punch-drunk-pdpd.json](./77365-private-detective-punch-drunk-pdpd.json) |
 | Private Eye | 10999 | [10999-private-eye.json](./10999-private-eye.json) |
 | Private Eye | 25833 | [25833-private-eye.json](./25833-private-eye.json) |
+| Private Eye: Greatest Unsolved Mysteries | 327257 | [327257-private-eye-greatest-unsolved-mysteries.json](./327257-private-eye-greatest-unsolved-mysteries.json) |
 | Private Eye: The Young Heir | 348374 | [348374-private-eye-the-young-heir.json](./348374-private-eye-the-young-heir.json) |
 | Private Garden | 331099 | [331099-private-garden.json](./331099-private-garden.json) |
 | Private Infiltrator | 62676 | [62676-private-infiltrator.json](./62676-private-infiltrator.json) |
