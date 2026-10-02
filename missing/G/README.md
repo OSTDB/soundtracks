@@ -262,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Command Echo Squad SE | 17156 | [17156-galactic-command-echo-squad-se.json](./17156-galactic-command-echo-squad-se.json) |
 | Galactic Commandos | 250014 | [250014-galactic-commandos.json](./250014-galactic-commandos.json) |
 | Galactic Conquest | 94918 | [94918-galactic-conquest.json](./94918-galactic-conquest.json) |
+| Galactic Core | 278601 | [278601-galactic-core.json](./278601-galactic-core.json) |
 | Galactic Core: The Lost Fleet | 30100 | [30100-galactic-core-the-lost-fleet.json](./30100-galactic-core-the-lost-fleet.json) |
 | Galactic Counselors | 292245 | [292245-galactic-counselors.json](./292245-galactic-counselors.json) |
 | Galactic Dating: Harem in Space Station | 292635 | [292635-galactic-dating-harem-in-space-station.json](./292635-galactic-dating-harem-in-space-station.json) |
