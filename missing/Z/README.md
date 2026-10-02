@@ -429,6 +429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Team USA | 40207 | [40207-zero-team-usa.json](./40207-zero-team-usa.json) |
 | Zero the Kamikaze Squirrel | 38405 | [38405-zero-the-kamikaze-squirrel.json](./38405-zero-the-kamikaze-squirrel.json) |
 | Zero to Army | 391893 | [391893-zero-to-army.json](./391893-zero-to-army.json) |
+| Zero to Death | 297756 | [297756-zero-to-death.json](./297756-zero-to-death.json) |
 | Zero to Hero | 235325 | [235325-zero-to-hero.json](./235325-zero-to-hero.json) |
 | Zero to South | 418664 | [418664-zero-to-south.json](./418664-zero-to-south.json) |
 | Zero Velocity | 176984 | [176984-zero-velocity.json](./176984-zero-velocity.json) |
@@ -455,6 +456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeroth Zone | 72133 | [72133-zeroth-zone.json](./72133-zeroth-zone.json) |
 | ZeroVector | 241638 | [241638-zerovector.json](./241638-zerovector.json) |
 | ZeroZeta | 361761 | [361761-zerozeta.json](./361761-zerozeta.json) |
+| Zerra's Adventure | 297757 | [297757-zerras-adventure.json](./297757-zerras-adventure.json) |
 | Zerstört Zerstört | 128582 | [128582-zerstort-zerstort.json](./128582-zerstort-zerstort.json) |
 | ZEscape | 103502 | [103502-zescape.json](./103502-zescape.json) |
 | Zest & Goop | 183512 | [183512-zest-and-goop.json](./183512-zest-and-goop.json) |
@@ -910,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombiegrinder 60000 | 11343 | [11343-zombiegrinder-60000.json](./11343-zombiegrinder-60000.json) |
 | ZombieHunt | 86573 | [86573-zombiehunt.json](./86573-zombiehunt.json) |
 | ZombieHunterZ | 101335 | [101335-zombiehunterz.json](./101335-zombiehunterz.json) |
+| Zombieland: Survivors | 297758 | [297758-zombieland-survivors.json](./297758-zombieland-survivors.json) |
 | Zombies | 196006 | [196006-zombies.json](./196006-zombies.json) |
 | Zombies | 218976 | [218976-zombies.json](./218976-zombies.json) |
 | Zombies & Bullets | 372638 | [372638-zombies-and-bullets.json](./372638-zombies-and-bullets.json) |
@@ -1075,6 +1078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoomerang | 64949 | [64949-zoomerang.json](./64949-zoomerang.json) |
 | Zoomers Versus Boomers | 347802 | [347802-zoomers-versus-boomers.json](./347802-zoomers-versus-boomers.json) |
 | ZoomnBoom | 107876 | [107876-zoomnboom.json](./107876-zoomnboom.json) |
+| Zooms Rampage | 297754 | [297754-zooms-rampage.json](./297754-zooms-rampage.json) |
 | ZooMumba | 304277 | [304277-zoomumba.json](./304277-zoomumba.json) |
 | Zooo | 265196 | [265196-zooo.json](./265196-zooo.json) |
 | Zoop | 20615 | [20615-zoop.json](./20615-zoop.json) |
