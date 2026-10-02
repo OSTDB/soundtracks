@@ -1295,6 +1295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makka Pakka 2 | 375322 | [375322-makka-pakka-2.json](./375322-makka-pakka-2.json) |
 | Makoto Mobius | 150152 | [150152-makoto-mobius.json](./150152-makoto-mobius.json) |
 | Makoto Wakaido's Case Files: Executioner's Wedge | 245045 | [245045-makoto-wakaidos-case-files-executioners-wedge.json](./245045-makoto-wakaidos-case-files-executioners-wedge.json) |
+| Makutsu no Liliane | 310120 | [310120-makutsu-no-liliane.json](./310120-makutsu-no-liliane.json) |
 | Mala Petaka | 224535 | [224535-mala-petaka.json](./224535-mala-petaka.json) |
 | Malacadabra | 229037 | [229037-malacadabra.json](./229037-malacadabra.json) |
 | Malasombra | 227820 | [227820-malasombra.json](./227820-malasombra.json) |
@@ -4557,6 +4558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merendam 2: Diary of Two Shaman Sisters | 70409 | [70409-merendam-2-diary-of-two-shaman-sisters.json](./70409-merendam-2-diary-of-two-shaman-sisters.json) |
 | MerFight | 191862 | [191862-merfight.json](./191862-merfight.json) |
 | Merge | 121544 | [121544-merge.json](./121544-merge.json) |
+| Merge | 310137 | [310137-merge.json](./310137-merge.json) |
 | Merge 3 Mania | 234618 | [234618-merge-3-mania.json](./234618-merge-3-mania.json) |
 | Merge 5: 10x10 Color | 233518 | [233518-merge-5-10x10-color.json](./233518-merge-5-10x10-color.json) |
 | Merge AirPlane | 227501 | [227501-merge-airplane.json](./227501-merge-airplane.json) |
@@ -5511,6 +5513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Train: New Moon | 401047 | [401047-midnight-train-new-moon.json](./401047-midnight-train-new-moon.json) |
 | Midnight Transmission | 331334 | [331334-midnight-transmission.json](./331334-midnight-transmission.json) |
 | Midnight Wanderers: Quest for the Chariot | 361330 | [361330-midnight-wanderers-quest-for-the-chariot.json](./361330-midnight-wanderers-quest-for-the-chariot.json) |
+| Midnight Watch | 310097 | [310097-midnight-watch.json](./310097-midnight-watch.json) |
 | Midnight Watcher: Village | 403685 | [403685-midnight-watcher-village.json](./403685-midnight-watcher-village.json) |
 | Midnight Wave | 109669 | [109669-midnight-wave.json](./109669-midnight-wave.json) |
 | Midnight Witch | 244228 | [244228-midnight-witch.json](./244228-midnight-witch.json) |
@@ -7889,6 +7892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsterhearts 2 | 138699 | [138699-monsterhearts-2.json](./138699-monsterhearts-2.json) |
 | Monsterium | 357360 | [357360-monsterium.json](./357360-monsterium.json) |
 | Monsterlands | 203531 | [203531-monsterlands.json](./203531-monsterlands.json) |
+| MonsterLife | 310132 | [310132-monsterlife.json](./310132-monsterlife.json) |
 | MonsterMind | 304210 | [304210-monstermind.json](./304210-monstermind.json) |
 | Monsterpatch | 334706 | [334706-monsterpatch.json](./334706-monsterpatch.json) |
 | MonsterRoll | 97917 | [97917-monsterroll.json](./97917-monsterroll.json) |
