@@ -1637,6 +1637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indie Jane and the Snake Tower | 240198 | [240198-indie-jane-and-the-snake-tower.json](./240198-indie-jane-and-the-snake-tower.json) |
 | Indie Nights | 274481 | [274481-indie-nights.json](./274481-indie-nights.json) |
 | Indie Nights: Nightmare in Yellow Pine | 277289 | [277289-indie-nights-nightmare-in-yellow-pine.json](./277289-indie-nights-nightmare-in-yellow-pine.json) |
+| Indie Platformer Bundle: Run & Jump Guy + Pancho's Mission | 331531 | [331531-indie-platformer-bundle-run-and-jump-guy-panchos-mission.json](./331531-indie-platformer-bundle-run-and-jump-guy-panchos-mission.json) |
 | Indie Pogo | 67203 | [67203-indie-pogo.json](./67203-indie-pogo.json) |
 | Indie Rumble | 182262 | [182262-indie-rumble.json](./182262-indie-rumble.json) |
 | Indie Stars Double-Pack! | 56780 | [56780-indie-stars-double-pack.json](./56780-indie-stars-double-pack.json) |
