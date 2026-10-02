@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yawara! | 58886 | [58886-yawara.json](./58886-yawara.json) |
 | Yawara! 2 | 58885 | [58885-yawara-2.json](./58885-yawara-2.json) |
 | Yawara!: Yawara no Seishun | 353407 | [353407-yawara-yawara-no-seishun.json](./353407-yawara-yawara-no-seishun.json) |
+| Yawnoc | 288449 | [288449-yawnoc.json](./288449-yawnoc.json) |
 | Yay BMO | 268988 | [268988-yay-bmo.json](./268988-yay-bmo.json) |
 | Yay! Spring Trip with My Coworkers! | 319071 | [319071-yay-spring-trip-with-my-coworkers.json](./319071-yay-spring-trip-with-my-coworkers.json) |
 | Yaysuu's X-Treme Adventure | 316697 | [316697-yaysuus-x-treme-adventure.json](./316697-yaysuus-x-treme-adventure.json) |
@@ -716,6 +717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Train 2 | 267085 | [267085-your-train-2.json](./267085-your-train-2.json) |
 | Your True Nature Test | 399797 | [399797-your-true-nature-test.json](./399797-your-true-nature-test.json) |
 | Your Turn to Die: Death Game by Majority | 120974 | [120974-your-turn-to-die-death-game-by-majority.json](./120974-your-turn-to-die-death-game-by-majority.json) |
+| Your Turn to Disembark | 288448 | [288448-your-turn-to-disembark.json](./288448-your-turn-to-disembark.json) |
 | Your Turn To Thrive | 413776 | [413776-your-turn-to-thrive.json](./413776-your-turn-to-thrive.json) |
 | Your Very Last Words | 352760 | [352760-your-very-last-words.json](./352760-your-very-last-words.json) |
 | Your Waifu Juice | 216478 | [216478-your-waifu-juice.json](./216478-your-waifu-juice.json) |
@@ -982,6 +984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yummyland Solitaire 3 | 403837 | [403837-yummyland-solitaire-3.json](./403837-yummyland-solitaire-3.json) |
 | Yumori Forest | 107426 | [107426-yumori-forest.json](./107426-yumori-forest.json) |
 | Yumper | 146306 | [146306-yumper.json](./146306-yumper.json) |
+| Yumpgril | 288447 | [288447-yumpgril.json](./288447-yumpgril.json) |
 | Yumpr | 287675 | [287675-yumpr.json](./287675-yumpr.json) |
 | Yuna and other troubles | 129072 | [129072-yuna-and-other-troubles.json](./129072-yuna-and-other-troubles.json) |
 | Yuna: Sugar hearts and Love | 110967 | [110967-yuna-sugar-hearts-and-love.json](./110967-yuna-sugar-hearts-and-love.json) |
