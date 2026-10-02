@@ -5455,6 +5455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microtrip | 344909 | [344909-microtrip.json](./344909-microtrip.json) |
 | MicroVolts Surge | 16263 | [16263-microvolts-surge.json](./16263-microvolts-surge.json) |
 | Microwave Story | 311060 | [311060-microwave-story.json](./311060-microwave-story.json) |
+| Mid-Death Crisis | 295495 | [295495-mid-death-crisis.json](./295495-mid-death-crisis.json) |
 | Midas | 338837 | [338837-midas.json](./338837-midas.json) |
 | Midautumn | 148943 | [148943-midautumn.json](./148943-midautumn.json) |
 | Middle Ages Hero | 115147 | [115147-middle-ages-hero.json](./115147-middle-ages-hero.json) |
