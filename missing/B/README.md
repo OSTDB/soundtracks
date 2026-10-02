@@ -2030,6 +2030,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Spirit CrossOver: [BSC41] Greatest Record 2023 Rare Card Set | 359602 | [359602-battle-spirit-crossover-bsc41-greatest-record-2023-rare-card-set.json](./359602-battle-spirit-crossover-bsc41-greatest-record-2023-rare-card-set.json) |
 | Battle Spirits CrossOver | 321743 | [321743-battle-spirits-crossover.json](./321743-battle-spirits-crossover.json) |
 | Battle Spirits Digital Starter | 137587 | [137587-battle-spirits-digital-starter.json](./137587-battle-spirits-digital-starter.json) |
+| Battle Spirits: Character Play Sheet Set 1 | 325494 | [325494-battle-spirits-character-play-sheet-set-1.json](./325494-battle-spirits-character-play-sheet-set-1.json) |
+| Battle Spirits: Character Sleep Set 1 | 325493 | [325493-battle-spirits-character-sleep-set-1.json](./325493-battle-spirits-character-sleep-set-1.json) |
 | Battle Spirits: Connected Battlers | 146910 | [146910-battle-spirits-connected-battlers.json](./146910-battle-spirits-connected-battlers.json) |
 | Battle Spirits: Kiseki no Hasha | 56516 | [56516-battle-spirits-kiseki-no-hasha.json](./56516-battle-spirits-kiseki-no-hasha.json) |
 | Battle Squares | 322008 | [322008-battle-squares.json](./322008-battle-squares.json) |
@@ -2227,6 +2229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleship Crafting | 358484 | [358484-battleship-crafting.json](./358484-battleship-crafting.json) |
 | Battleship Lonewolf | 260651 | [260651-battleship-lonewolf.json](./260651-battleship-lonewolf.json) |
 | Battleship Naval Combat | 366404 | [366404-battleship-naval-combat.json](./366404-battleship-naval-combat.json) |
+| Battleship War Multiplayer | 325534 | [325534-battleship-war-multiplayer.json](./325534-battleship-war-multiplayer.json) |
 | Battleship War: Time to Sink the Fleet | 215116 | [215116-battleship-war-time-to-sink-the-fleet.json](./215116-battleship-war-time-to-sink-the-fleet.json) |
 | Battleships | 193863 | [193863-battleships.json](./193863-battleships.json) |
 | Battleships and Carriers: WW2 Battleship Game | 111706 | [111706-battleships-and-carriers-ww2-battleship-game.json](./111706-battleships-and-carriers-ww2-battleship-game.json) |
