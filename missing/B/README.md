@@ -792,6 +792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Fighter | 122196 | [122196-balloon-fighter.json](./122196-balloon-fighter.json) |
 | Balloon Gun | 63847 | [63847-balloon-gun.json](./63847-balloon-gun.json) |
 | Balloon guy | 89368 | [89368-balloon-guy.json](./89368-balloon-guy.json) |
+| Balloon Head | 317296 | [317296-balloon-head.json](./317296-balloon-head.json) |
 | Balloon Jump | 152877 | [152877-balloon-jump.json](./152877-balloon-jump.json) |
 | Balloon Kid | 3682 | [3682-balloon-kid.json](./3682-balloon-kid.json) |
 | Balloon Man | 359433 | [359433-balloon-man.json](./359433-balloon-man.json) |
@@ -853,6 +854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balrog Sampler | 24903 | [24903-balrog-sampler.json](./24903-balrog-sampler.json) |
 | Balsa Model Flight Simulator | 111892 | [111892-balsa-model-flight-simulator.json](./111892-balsa-model-flight-simulator.json) |
 | Balseo: The Sea Beyond | 387642 | [387642-balseo-the-sea-beyond.json](./387642-balseo-the-sea-beyond.json) |
+| Baltazar the Familiar | 317298 | [317298-baltazar-the-familiar.json](./317298-baltazar-the-familiar.json) |
 | Baltron | 48588 | [48588-baltron.json](./48588-baltron.json) |
 | Baluno | 297780 | [297780-baluno.json](./297780-baluno.json) |
 | Bam 'N Jam | 61547 | [61547-bam-n-jam.json](./61547-bam-n-jam.json) |
@@ -1062,6 +1064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banzai Mario World | 132855 | [132855-banzai-mario-world.json](./132855-banzai-mario-world.json) |
 | Banzai Pecan: The Last Hope For the Young Century | 35947 | [35947-banzai-pecan-the-last-hope-for-the-young-century.json](./35947-banzai-pecan-the-last-hope-for-the-young-century.json) |
 | Bao | 167577 | [167577-bao.json](./167577-bao.json) |
+| Bao Bao's Cozy Laundromat | 316705 | [316705-bao-baos-cozy-laundromat.json](./316705-bao-baos-cozy-laundromat.json) |
 | Baobabs Mausoleum Ep. 2 1313 Barnabas Dead End Drive | 81164 | [81164-baobabs-mausoleum-ep-2-1313-barnabas-dead-end-drive.json](./81164-baobabs-mausoleum-ep-2-1313-barnabas-dead-end-drive.json) |
 | Baoxiao Chuji | 306642 | [306642-baoxiao-chuji.json](./306642-baoxiao-chuji.json) |
 | Baoxiao Duobiqiu | 97353 | [97353-baoxiao-duobiqiu.json](./97353-baoxiao-duobiqiu.json) |
@@ -1409,6 +1412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barren Roads | 35954 | [35954-barren-roads.json](./35954-barren-roads.json) |
 | Barrhell | 276702 | [276702-barrhell.json](./276702-barrhell.json) |
 | Barricade | 18116 | [18116-barricade.json](./18116-barricade.json) |
+| Barrier | 317304 | [317304-barrier.json](./317304-barrier.json) |
 | Barrier | 346049 | [346049-barrier.json](./346049-barrier.json) |
 | Barrier | 38546 | [38546-barrier.json](./38546-barrier.json) |
 | Barro 2020 | 123866 | [123866-barro-2020.json](./123866-barro-2020.json) |
@@ -1435,11 +1439,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bart SimpSon Rambo Dwarf | 343927 | [343927-bart-simpson-rambo-dwarf.json](./343927-bart-simpson-rambo-dwarf.json) |
 | Bart Simpson vs. Dragon Ball | 365245 | [365245-bart-simpson-vs-dragon-ball.json](./365245-bart-simpson-vs-dragon-ball.json) |
 | Bart's Nightmare Redux | 219272 | [219272-barts-nightmare-redux.json](./219272-barts-nightmare-redux.json) |
+| Bart's Quest For TV | 317310 | [317310-barts-quest-for-tv.json](./317310-barts-quest-for-tv.json) |
 | Bartender Hustle | 153899 | [153899-bartender-hustle.json](./153899-bartender-hustle.json) |
 | Bartender VR Simulator | 74216 | [74216-bartender-vr-simulator.json](./74216-bartender-vr-simulator.json) |
 | Bartenders | 244205 | [244205-bartenders.json](./244205-bartenders.json) |
 | Bartholomew.exe | 358899 | [358899-bartholomew-exe.json](./358899-bartholomew-exe.json) |
 | Bartlow's Dread Machine | 128934 | [128934-bartlows-dread-machine.json](./128934-bartlows-dread-machine.json) |
+| Bartolomeo, Misled by Circumstances, Learns that Appearances can be Deceptive | 317311 | [317311-bartolomeo-misled-by-circumstances-learns-that-appearances-can-be-deceptive.json](./317311-bartolomeo-misled-by-circumstances-learns-that-appearances-can-be-deceptive.json) |
 | Bartolomeu Odyssey | 248891 | [248891-bartolomeu-odyssey.json](./248891-bartolomeu-odyssey.json) |
 | Barton Lynch Pro Surfing | 272292 | [272292-barton-lynch-pro-surfing.json](./272292-barton-lynch-pro-surfing.json) |
 | Barton Lynch Pro Surfing 2022 | 196295 | [196295-barton-lynch-pro-surfing-2022.json](./196295-barton-lynch-pro-surfing-2022.json) |
@@ -2728,6 +2734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatus Creation Solitaire | 201004 | [201004-beatus-creation-solitaire.json](./201004-beatus-creation-solitaire.json) |
 | Beatworks Inc. | 386444 | [386444-beatworks-inc.json](./386444-beatworks-inc.json) |
 | Beauties Academy: Spellcraft Tournament | 211429 | [211429-beauties-academy-spellcraft-tournament.json](./211429-beauties-academy-spellcraft-tournament.json) |
+| Beauties and Beasts | 317315 | [317315-beauties-and-beasts.json](./317315-beauties-and-beasts.json) |
 | Beauties Unveiled | 284499 | [284499-beauties-unveiled.json](./284499-beauties-unveiled.json) |
 | Beauties Unveiled 2: CEO 69 Edition | 315874 | [315874-beauties-unveiled-2-ceo-69-edition.json](./315874-beauties-unveiled-2-ceo-69-edition.json) |
 | Beauties Unveiled: Hot Edition | 298568 | [298568-beauties-unveiled-hot-edition.json](./298568-beauties-unveiled-hot-edition.json) |
@@ -3020,6 +3027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Below the Ocean | 173312 | [173312-below-the-ocean.json](./173312-below-the-ocean.json) |
 | Below the Surface: Assassin's Prison | 372073 | [372073-below-the-surface-assassins-prison.json](./372073-below-the-surface-assassins-prison.json) |
 | Below the Surface: Uncovering the Truth in the Sewers | 372074 | [372074-below-the-surface-uncovering-the-truth-in-the-sewers.json](./372074-below-the-surface-uncovering-the-truth-in-the-sewers.json) |
+| Below Zero: Prologue | 317326 | [317326-below-zero-prologue.json](./317326-below-zero-prologue.json) |
 | Below, Rusted Gods | 304148 | [304148-below-rusted-gods.json](./304148-below-rusted-gods.json) |
 | Beltmatic | 281960 | [281960-beltmatic.json](./281960-beltmatic.json) |
 | Belts of Iron | 374243 | [374243-belts-of-iron.json](./374243-belts-of-iron.json) |
@@ -3385,6 +3393,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Pearl Harbor: Pacific Warriors | 37289 | [37289-beyond-pearl-harbor-pacific-warriors.json](./37289-beyond-pearl-harbor-pacific-warriors.json) |
 | Beyond Perception | 108845 | [108845-beyond-perception.json](./108845-beyond-perception.json) |
 | Beyond Protocol | 72646 | [72646-beyond-protocol.json](./72646-beyond-protocol.json) |
+| Beyond Reach | 316725 | [316725-beyond-reach.json](./316725-beyond-reach.json) |
+| Beyond Reality | 317339 | [317339-beyond-reality.json](./317339-beyond-reality.json) |
 | Beyond Sandbox | 399220 | [399220-beyond-sandbox.json](./399220-beyond-sandbox.json) |
 | Beyond Senses | 124169 | [124169-beyond-senses.json](./124169-beyond-senses.json) |
 | Beyond Shattered Isles | 126545 | [126545-beyond-shattered-isles.json](./126545-beyond-shattered-isles.json) |
@@ -3961,6 +3971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionicle: Glatorian Arena 2 | 343358 | [343358-bionicle-glatorian-arena-2.json](./343358-bionicle-glatorian-arena-2.json) |
 | Bionicle: Masks of Power | 141873 | [141873-bionicle-masks-of-power.json](./141873-bionicle-masks-of-power.json) |
 | Bionicle: The Game | 3811 | [3811-bionicle-the-game.json](./3811-bionicle-the-game.json) |
+| Biophage | 316701 | [316701-biophage.json](./316701-biophage.json) |
 | Biophobia | 343832 | [343832-biophobia.json](./343832-biophobia.json) |
 | Biorage | 367035 | [367035-biorage.json](./367035-biorage.json) |
 | Biorhythm | 170531 | [170531-biorhythm.json](./170531-biorhythm.json) |
@@ -7613,6 +7624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bring Honey Home | 150635 | [150635-bring-honey-home.json](./150635-bring-honey-home.json) |
 | Bring me a man, Santa | 159727 | [159727-bring-me-a-man-santa.json](./159727-bring-me-a-man-santa.json) |
 | Bring Me Down | 241350 | [241350-bring-me-down.json](./241350-bring-me-down.json) |
+| Bring Me... | 317318 | [317318-bring-me.json](./317318-bring-me.json) |
 | Bring the Book Back | 338330 | [338330-bring-the-book-back.json](./338330-bring-the-book-back.json) |
 | Bring Them Home | 114188 | [114188-bring-them-home.json](./114188-bring-them-home.json) |
 | Bringris | 174191 | [174191-bringris.json](./174191-bringris.json) |
@@ -7645,6 +7657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broadside | 34450 | [34450-broadside.json](./34450-broadside.json) |
 | Broadside Bets | 401617 | [401617-broadside-bets.json](./401617-broadside-bets.json) |
 | Broadsides | 23988 | [23988-broadsides.json](./23988-broadsides.json) |
+| Broadtrip | 316709 | [316709-broadtrip.json](./316709-broadtrip.json) |
 | Broadway Legend Ellena | 252127 | [252127-broadway-legend-ellena.json](./252127-broadway-legend-ellena.json) |
 | Brobot | 159866 | [159866-brobot.json](./159866-brobot.json) |
 | Brocante Game: Blister Hunter | 263020 | [263020-brocante-game-blister-hunter.json](./263020-brocante-game-blister-hunter.json) |
