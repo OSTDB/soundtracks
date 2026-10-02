@@ -161,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raccoon Valley Tycoon | 373083 | [373083-raccoon-valley-tycoon.json](./373083-raccoon-valley-tycoon.json) |
 | Raccooneering | 306601 | [306601-raccooneering.json](./306601-raccooneering.json) |
 | Raccoonwave | 307120 | [307120-raccoonwave.json](./307120-raccoonwave.json) |
+| Race | 295994 | [295994-race.json](./295994-race.json) |
 | Race 07 | 10380 | [10380-race-07.json](./10380-race-07.json) |
 | Race 07: Formula RaceRoom | 120183 | [120183-race-07-formula-raceroom.json](./120183-race-07-formula-raceroom.json) |
 | Race Ace | 315274 | [315274-race-ace.json](./315274-race-ace.json) |
@@ -3302,6 +3303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolter | 227761 | [227761-revolter.json](./227761-revolter.json) |
 | Revoltin' Youth | 42814 | [42814-revoltin-youth.json](./42814-revoltin-youth.json) |
 | Revolty-II | 237517 | [237517-revolty-ii.json](./237517-revolty-ii.json) |
+| Revolution | 295995 | [295995-revolution.json](./295995-revolution.json) |
 | Revolution | 81387 | [81387-revolution.json](./81387-revolution.json) |
 | Revolution Ace | 17033 | [17033-revolution-ace.json](./17033-revolution-ace.json) |
 | Revolution Editions: Shadow & Steel | 361790 | [361790-revolution-editions-shadow-and-steel.json](./361790-revolution-editions-shadow-and-steel.json) |
@@ -6087,6 +6089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Forrest Run | 305912 | [305912-run-forrest-run.json](./305912-run-forrest-run.json) |
 | Run Foxy, Run! | 224543 | [224543-run-foxy-run.json](./224543-run-foxy-run.json) |
 | Run from Bubol Horror | 359990 | [359990-run-from-bubol-horror.json](./359990-run-from-bubol-horror.json) |
+| Run from the Light | 296017 | [296017-run-from-the-light.json](./296017-run-from-the-light.json) |
 | Run Gor | 270932 | [270932-run-gor.json](./270932-run-gor.json) |
 | Run Hunter Run | 96086 | [96086-run-hunter-run.json](./96086-run-hunter-run.json) |
 | Run It Back | 364672 | [364672-run-it-back.json](./364672-run-it-back.json) |
