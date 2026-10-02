@@ -455,6 +455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XorceD - Sashiro's Laedrum | 33432 | [33432-xorced-sashiros-laedrum.json](./33432-xorced-sashiros-laedrum.json) |
 | Xordle | 197903 | [197903-xordle.json](./197903-xordle.json) |
 | Xorple | 86555 | [86555-xorple.json](./86555-xorple.json) |
+| Xoru | 324973 | [324973-xoru.json](./324973-xoru.json) |
 | XP Racing | 289880 | [289880-xp-racing.json](./289880-xp-racing.json) |
 | XP Slime | 369726 | [369726-xp-slime.json](./369726-xp-slime.json) |
 | XP8 | 15569 | [15569-xp8.json](./15569-xp8.json) |
