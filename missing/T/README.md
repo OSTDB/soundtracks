@@ -2220,6 +2220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal | 253360 | [253360-terminal.json](./253360-terminal.json) |
 | Terminal 13 | 364699 | [364699-terminal-13.json](./364699-terminal-13.json) |
 | Terminal 64 | 252820 | [252820-terminal-64.json](./252820-terminal-64.json) |
+| Terminal 69 | 289030 | [289030-terminal-69.json](./289030-terminal-69.json) |
 | Terminal 81R | 339409 | [339409-terminal-81r.json](./339409-terminal-81r.json) |
 | Terminal Breach | 217394 | [217394-terminal-breach.json](./217394-terminal-breach.json) |
 | Terminal City | 314463 | [314463-terminal-city.json](./314463-terminal-city.json) |
@@ -2282,6 +2283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Militaris | 66367 | [66367-terra-militaris.json](./66367-terra-militaris.json) |
 | Terra Nil | 152424 | [152424-terra-nil.json](./152424-terra-nil.json) |
 | Terra Nil: Deluxe Edition | 243138 | [243138-terra-nil-deluxe-edition.json](./243138-terra-nil-deluxe-edition.json) |
+| Terra Nova Pinball | 289034 | [289034-terra-nova-pinball.json](./289034-terra-nova-pinball.json) |
 | Terra Omega | 238975 | [238975-terra-omega.json](./238975-terra-omega.json) |
 | Terra Pulse | 142433 | [142433-terra-pulse.json](./142433-terra-pulse.json) |
 | TerraBlocks | 291777 | [291777-terrablocks.json](./291777-terrablocks.json) |
@@ -3773,6 +3775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Confinement | 332413 | [332413-the-confinement.json](./332413-the-confinement.json) |
 | The Consequences of Gardening | 183026 | [183026-the-consequences-of-gardening.json](./183026-the-consequences-of-gardening.json) |
 | The Consumist Journey | 270099 | [270099-the-consumist-journey.json](./270099-the-consumist-journey.json) |
+| The Contact | 288981 | [288981-the-contact.json](./288981-the-contact.json) |
 | The Contact | 34717 | [34717-the-contact.json](./34717-the-contact.json) |
 | The Contender: Fight of the Century | 108519 | [108519-the-contender-fight-of-the-century.json](./108519-the-contender-fight-of-the-century.json) |
 | The Continuum | 258520 | [258520-the-continuum.json](./258520-the-continuum.json) |
@@ -7990,6 +7993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Second Reality Room: Unspoken Truths | 390782 | [390782-the-second-reality-room-unspoken-truths.json](./390782-the-second-reality-room-unspoken-truths.json) |
 | The Second Reproduction: Reunion | 383596 | [383596-the-second-reproduction-reunion.json](./383596-the-second-reproduction-reunion.json) |
 | The Second Sight: Dead Reckoning | 331138 | [331138-the-second-sight-dead-reckoning.json](./331138-the-second-sight-dead-reckoning.json) |
+| The Secret Atelier | 288991 | [288991-the-secret-atelier.json](./288991-the-secret-atelier.json) |
 | The Secret Chronicles of Dr. M. | 134077 | [134077-the-secret-chronicles-of-dr-m.json](./134077-the-secret-chronicles-of-dr-m.json) |
 | The Secret Codes of C.Y.P.H.E.R.: Operation Wildlife | 68739 | [68739-the-secret-codes-of-c-y-p-h-e-r-operation-wildlife.json](./68739-the-secret-codes-of-c-y-p-h-e-r-operation-wildlife.json) |
 | The Secret Fake Ring | 352327 | [352327-the-secret-fake-ring.json](./352327-the-secret-fake-ring.json) |
@@ -9512,6 +9516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witch's House MV | 111081 | [111081-the-witchs-house-mv.json](./111081-the-witchs-house-mv.json) |
 | The Witch's Isle | 55764 | [55764-the-witchs-isle.json](./55764-the-witchs-isle.json) |
 | The Witch's Knight | 254745 | [254745-the-witchs-knight.json](./254745-the-witchs-knight.json) |
+| The Witch's Night Watch | 288988 | [288988-the-witchs-night-watch.json](./288988-the-witchs-night-watch.json) |
 | The Witch's Realm | 346583 | [346583-the-witchs-realm.json](./346583-the-witchs-realm.json) |
 | The Witch's Redemption | 298629 | [298629-the-witchs-redemption.json](./298629-the-witchs-redemption.json) |
 | The Witch's Yarn | 9510 | [9510-the-witchs-yarn.json](./9510-the-witchs-yarn.json) |
@@ -13217,9 +13222,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Chouseisho: Sapphire Panlogism | 181892 | [181892-touhou-chouseisho-sapphire-panlogism.json](./181892-touhou-chouseisho-sapphire-panlogism.json) |
 | Touhou Chronicles: Tales of the Two Immortals | 372059 | [372059-touhou-chronicles-tales-of-the-two-immortals.json](./372059-touhou-chronicles-tales-of-the-two-immortals.json) |
 | Touhou Danmaku Kagura: Phantasia Lost | 222995 | [222995-touhou-danmaku-kagura-phantasia-lost.json](./222995-touhou-danmaku-kagura-phantasia-lost.json) |
+| Touhou Danmaku Kagura: Phantasia Lost - Extra Song Pack 1 | 289028 | [289028-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-1.json](./289028-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-1.json) |
 | Touhou Danmaku Kagura: Phantasia Lost - Extra Song Pack 10 | 351245 | [351245-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-10.json](./351245-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-10.json) |
 | Touhou Danmaku Kagura: Phantasia Lost - Extra Song Pack 11 | 351244 | [351244-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-11.json](./351244-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-11.json) |
 | Touhou Danmaku Kagura: Phantasia Lost - Extra Song Pack 12 | 351243 | [351243-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-12.json](./351243-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-12.json) |
+| Touhou Danmaku Kagura: Phantasia Lost - Extra Song Pack 2 | 289029 | [289029-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-2.json](./289029-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-2.json) |
+| Touhou Danmaku Kagura: Phantasia Lost - Extra Song Pack 3 | 289032 | [289032-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-3.json](./289032-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-3.json) |
+| Touhou Danmaku Kagura: Phantasia Lost - Extra Song Pack 4 | 289035 | [289035-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-4.json](./289035-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-4.json) |
 | Touhou Danmaku Kagura: Phantasia Lost - Toby Fox & ZUN "U.N. Owen Was Hero?" | 289937 | [289937-touhou-danmaku-kagura-phantasia-lost-toby-fox-and-zun-u-n-owen-was-hero.json](./289937-touhou-danmaku-kagura-phantasia-lost-toby-fox-and-zun-u-n-owen-was-hero.json) |
 | Touhou Danmaku Kagura: Phantasia Lost - Touhou Mystia's Izakaya Collab "Beneath the Purple Cherry Blossoms Once Again" | 310004 | [310004-touhou-danmaku-kagura-phantasia-lost-touhou-mystias-izakaya-collab-beneath-the-purple-cherry-blossoms-once-again.json](./310004-touhou-danmaku-kagura-phantasia-lost-touhou-mystias-izakaya-collab-beneath-the-purple-cherry-blossoms-once-again.json) |
 | Touhou Danmaku Maze | 304050 | [304050-touhou-danmaku-maze.json](./304050-touhou-danmaku-maze.json) |
