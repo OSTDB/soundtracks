@@ -864,6 +864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sānguózhì Qúnyīng Zhuàn | 410976 | [410976-sanguozhi-qunying-zhuan.json](./410976-sanguozhi-qunying-zhuan.json) |
 | Sānguózhì: Chìbì zhī Zhàn | 48289 | [48289-sanguozhi-chibi-zhi-zhan.json](./48289-sanguozhi-chibi-zhi-zhan.json) |
 | Sangwich | 186069 | [186069-sangwich.json](./186069-sangwich.json) |
+| Sani Yang's Laboratory | 330229 | [330229-sani-yangs-laboratory.json](./330229-sani-yangs-laboratory.json) |
 | Sanitarium Massacre | 62684 | [62684-sanitarium-massacre.json](./62684-sanitarium-massacre.json) |
 | Sanity Break | 369013 | [369013-sanity-break.json](./369013-sanity-break.json) |
 | Sanity of Morris | 137638 | [137638-sanity-of-morris.json](./137638-sanity-of-morris.json) |
@@ -3966,6 +3967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shieldwall Chronicles | 197769 | [197769-shieldwall-chronicles.json](./197769-shieldwall-chronicles.json) |
 | Shien's Revenge | 20173 | [20173-shiens-revenge.json](./20173-shiens-revenge.json) |
 | Shienryu | 92074 | [92074-shienryu.json](./92074-shienryu.json) |
+| Shieven | 330376 | [330376-shieven.json](./330376-shieven.json) |
 | Shift | 181920 | [181920-shift.json](./181920-shift.json) |
 | Shift 0 | 352204 | [352204-shift-0.json](./352204-shift-0.json) |
 | Shift at Midnight | 352789 | [352789-shift-at-midnight.json](./352789-shift-at-midnight.json) |
@@ -5019,6 +5021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Dread: Last Order | 408116 | [408116-silent-dread-last-order.json](./408116-silent-dread-last-order.json) |
 | Silent Escape: Induction | 127945 | [127945-silent-escape-induction.json](./127945-silent-escape-induction.json) |
 | Silent Fangs: Stealthy Vampire's Tale | 371264 | [371264-silent-fangs-stealthy-vampires-tale.json](./371264-silent-fangs-stealthy-vampires-tale.json) |
+| Silent Forest: Deadly Night Horror | 330404 | [330404-silent-forest-deadly-night-horror.json](./330404-silent-forest-deadly-night-horror.json) |
 | Silent Frontiers | 304606 | [304606-silent-frontiers.json](./304606-silent-frontiers.json) |
 | Silent Harmony | 394479 | [394479-silent-harmony.json](./394479-silent-harmony.json) |
 | Silent Hill | 349441 | [349441-silent-hill.json](./349441-silent-hill.json) |
@@ -7153,6 +7156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake: Road to apple | 74909 | [74909-snake-road-to-apple.json](./74909-snake-road-to-apple.json) |
 | Snake: Secret Treasure | 370311 | [370311-snake-secret-treasure.json](./370311-snake-secret-treasure.json) |
 | Snake: The Elder Forest | 122415 | [122415-snake-the-elder-forest.json](./122415-snake-the-elder-forest.json) |
+| Snake.io | 330240 | [330240-snake-io.json](./330240-snake-io.json) |
 | Snake's Revenge | 7848 | [7848-snakes-revenge.json](./7848-snakes-revenge.json) |
 | Snake360 | 71607 | [71607-snake360.json](./71607-snake360.json) |
 | Snakebird | 13104 | [13104-snakebird.json](./13104-snakebird.json) |
@@ -14314,6 +14318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugoi Girls: Sassy Heroine | 315843 | [315843-sugoi-girls-sassy-heroine.json](./315843-sugoi-girls-sassy-heroine.json) |
 | Sugoi Girls: Sexy Steampunk | 333739 | [333739-sugoi-girls-sexy-steampunk.json](./333739-sugoi-girls-sexy-steampunk.json) |
 | Sugoi RPG? | 151632 | [151632-sugoi-rpg.json](./151632-sugoi-rpg.json) |
+| Sugoro Quest: Dice Heroes | 330241 | [330241-sugoro-quest-dice-heroes.json](./330241-sugoro-quest-dice-heroes.json) |
 | Sugoro Quest: Dice no Senshi-tachi | 48621 | [48621-sugoro-quest-dice-no-senshi-tachi.json](./48621-sugoro-quest-dice-no-senshi-tachi.json) |
 | Sugoro Quest++ Dicenics | 37807 | [37807-sugoro-quest-dicenics.json](./37807-sugoro-quest-dicenics.json) |
 | Sugoroku New Year's Party | 379373 | [379373-sugoroku-new-years-party.json](./379373-sugoroku-new-years-party.json) |
