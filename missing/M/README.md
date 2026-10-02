@@ -1825,6 +1825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Cave Escape | 381766 | [381766-mario-cave-escape.json](./381766-mario-cave-escape.json) |
 | Mario Doom | 314469 | [314469-mario-doom.json](./314469-mario-doom.json) |
 | Mario Drinks A Glass of Milk | 250051 | [250051-mario-drinks-a-glass-of-milk.json](./250051-mario-drinks-a-glass-of-milk.json) |
+| Mario Editor | 320233 | [320233-mario-editor.json](./320233-mario-editor.json) |
 | Mario Eisouoku: Illusionary Blossom of Cranium Prayer | 216179 | [216179-mario-eisouoku-illusionary-blossom-of-cranium-prayer.json](./216179-mario-eisouoku-illusionary-blossom-of-cranium-prayer.json) |
 | Mario FA: Vanishing Colosseum | 322772 | [322772-mario-fa-vanishing-colosseum.json](./322772-mario-fa-vanishing-colosseum.json) |
 | Mario for the Masses | 330716 | [330716-mario-for-the-masses.json](./330716-mario-for-the-masses.json) |
@@ -6025,6 +6026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Winter Whimsy Skin Pack | 324892 | [324892-minecraft-winter-whimsy-skin-pack.json](./324892-minecraft-winter-whimsy-skin-pack.json) |
 | Minecraft: Wukong Uproar In Heaven | 332582 | [332582-minecraft-wukong-uproar-in-heaven.json](./332582-minecraft-wukong-uproar-in-heaven.json) |
 | Minecraft: Xbox 360 Edition | 94029 | [94029-minecraft-xbox-360-edition.json](./94029-minecraft-xbox-360-edition.json) |
+| Minecraft: Young Gru | 320257 | [320257-minecraft-young-gru.json](./320257-minecraft-young-gru.json) |
 | MinecraftEdu | 337206 | [337206-minecraftedu.json](./337206-minecraftedu.json) |
 | Minecraftle | 306695 | [306695-minecraftle.json](./306695-minecraftle.json) |
 | Minecranker | 259636 | [259636-minecranker.json](./259636-minecranker.json) |
@@ -9773,6 +9775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My First Grade Fantasy Adventure | 266304 | [266304-my-first-grade-fantasy-adventure.json](./266304-my-first-grade-fantasy-adventure.json) |
 | My First Gran Turismo | 324502 | [324502-my-first-gran-turismo.json](./324502-my-first-gran-turismo.json) |
 | My First Horse: Adventures on Seahorse Island | 238478 | [238478-my-first-horse-adventures-on-seahorse-island.json](./238478-my-first-horse-adventures-on-seahorse-island.json) |
+| My First Quantum Translocator | 320248 | [320248-my-first-quantum-translocator.json](./320248-my-first-quantum-translocator.json) |
 | My First Tangrams for iPad | 95569 | [95569-my-first-tangrams-for-ipad.json](./95569-my-first-tangrams-for-ipad.json) |
 | My First Trainz Set | 11019 | [11019-my-first-trainz-set.json](./11019-my-first-trainz-set.json) |
 | My Fish Farm | 212492 | [212492-my-fish-farm.json](./212492-my-fish-farm.json) |
