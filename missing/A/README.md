@@ -7010,6 +7010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Valhalla: Mastery Challenge | 222815 | [222815-assassins-creed-valhalla-mastery-challenge.json](./222815-assassins-creed-valhalla-mastery-challenge.json) |
 | Assassin's Creed Valhalla: River Raids | 228704 | [228704-assassins-creed-valhalla-river-raids.json](./228704-assassins-creed-valhalla-river-raids.json) |
 | Assassin's Creed Valhalla: Season Pass | 293717 | [293717-assassins-creed-valhalla-season-pass.json](./293717-assassins-creed-valhalla-season-pass.json) |
+| Assassin's Creed Valhalla: The Legend of Beowulf | 323775 | [323775-assassins-creed-valhalla-the-legend-of-beowulf.json](./323775-assassins-creed-valhalla-the-legend-of-beowulf.json) |
 | Assassin's Creed Valhalla: The Siege of Paris | 140175 | [140175-assassins-creed-valhalla-the-siege-of-paris.json](./140175-assassins-creed-valhalla-the-siege-of-paris.json) |
 | Assassin's Creed Valhalla: Title Update 1.5.1 | 222819 | [222819-assassins-creed-valhalla-title-update-1-5-1.json](./222819-assassins-creed-valhalla-title-update-1-5-1.json) |
 | Assassin's Creed Valhalla: Tombs of the Fallen | 222834 | [222834-assassins-creed-valhalla-tombs-of-the-fallen.json](./222834-assassins-creed-valhalla-tombs-of-the-fallen.json) |
@@ -7085,6 +7086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assembly Planter | 160176 | [160176-assembly-planter.json](./160176-assembly-planter.json) |
 | Assembly Required | 96496 | [96496-assembly-required.json](./96496-assembly-required.json) |
 | Assenizator | 355116 | [355116-assenizator.json](./355116-assenizator.json) |
+| Assessment | 323791 | [323791-assessment.json](./323791-assessment.json) |
 | Assetto Corsa | 5597 | [5597-assetto-corsa.json](./5597-assetto-corsa.json) |
 | Assetto Corsa Competizione | 171274 | [171274-assetto-corsa-competizione.json](./171274-assetto-corsa-competizione.json) |
 | Assetto Corsa Competizione DLC Pack | 266247 | [266247-assetto-corsa-competizione-dlc-pack.json](./266247-assetto-corsa-competizione-dlc-pack.json) |
