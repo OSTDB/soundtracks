@@ -12451,6 +12451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Station Command | 402523 | [402523-station-command.json](./402523-station-command.json) |
 | Station Commander | 166074 | [166074-station-commander.json](./166074-station-commander.json) |
 | Station Commander | 76654 | [76654-station-commander.json](./76654-station-commander.json) |
+| Station Haven 3 | 331942 | [331942-station-haven-3.json](./331942-station-haven-3.json) |
 | Station Inc | 310502 | [310502-station-inc.json](./310502-station-inc.json) |
 | Station Master | 183550 | [183550-station-master.json](./183550-station-master.json) |
 | Station Memories | 216220 | [216220-station-memories.json](./216220-station-memories.json) |
