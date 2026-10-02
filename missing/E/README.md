@@ -3096,18 +3096,25 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eve of Cultivation | 390199 | [390199-eve-of-cultivation.json](./390199-eve-of-cultivation.json) |
 | Eve of Destruction | 290946 | [290946-eve-of-destruction.json](./290946-eve-of-destruction.json) |
 | Eve of the Genesis | 38500 | [38500-eve-of-the-genesis.json](./38500-eve-of-the-genesis.json) |
+| Eve Online: Apocrypha | 329789 | [329789-eve-online-apocrypha.json](./329789-eve-online-apocrypha.json) |
 | Eve Online: Ascension | 329910 | [329910-eve-online-ascension.json](./329910-eve-online-ascension.json) |
+| Eve Online: Crucible | 329791 | [329791-eve-online-crucible.json](./329791-eve-online-crucible.json) |
+| Eve Online: Dominion | 329792 | [329792-eve-online-dominion.json](./329792-eve-online-dominion.json) |
 | Eve Online: Eclipse - Quadrant 2 | 329918 | [329918-eve-online-eclipse-quadrant-2.json](./329918-eve-online-eclipse-quadrant-2.json) |
 | Eve Online: Equinox | 329933 | [329933-eve-online-equinox.json](./329933-eve-online-equinox.json) |
 | EVE Online: Equinox Era pack | 316396 | [316396-eve-online-equinox-era-pack.json](./316396-eve-online-equinox-era-pack.json) |
 | Eve Online: Gateway | 329920 | [329920-eve-online-gateway.json](./329920-eve-online-gateway.json) |
 | Eve Online: Havoc | 329931 | [329931-eve-online-havoc.json](./329931-eve-online-havoc.json) |
+| Eve Online: Incarna | 329794 | [329794-eve-online-incarna.json](./329794-eve-online-incarna.json) |
+| Eve Online: Incursion | 329795 | [329795-eve-online-incursion.json](./329795-eve-online-incursion.json) |
+| Eve Online: Inferno | 329797 | [329797-eve-online-inferno.json](./329797-eve-online-inferno.json) |
 | Eve Online: Invasion | 118157 | [118157-eve-online-invasion.json](./118157-eve-online-invasion.json) |
 | Eve Online: New Dawn | 329927 | [329927-eve-online-new-dawn.json](./329927-eve-online-new-dawn.json) |
 | Eve Online: Onslaught | 329913 | [329913-eve-online-onslaught.json](./329913-eve-online-onslaught.json) |
 | Eve Online: Reign | 329925 | [329925-eve-online-reign.json](./329925-eve-online-reign.json) |
 | Eve Online: Revelations | 21391 | [21391-eve-online-revelations.json](./21391-eve-online-revelations.json) |
 | Eve Online: Revenant | 329685 | [329685-eve-online-revenant.json](./329685-eve-online-revenant.json) |
+| Eve Online: Special Edition | 329788 | [329788-eve-online-special-edition.json](./329788-eve-online-special-edition.json) |
 | Eve Online: Zenith - Quadrant 3 | 329917 | [329917-eve-online-zenith-quadrant-3.json](./329917-eve-online-zenith-quadrant-3.json) |
 | EVE Vanguard | 277846 | [277846-eve-vanguard.json](./277846-eve-vanguard.json) |
 | Eve Zero | 44729 | [44729-eve-zero.json](./44729-eve-zero.json) |
