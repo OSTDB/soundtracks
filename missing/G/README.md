@@ -3935,6 +3935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graveyard Shift | 271588 | [271588-graveyard-shift.json](./271588-graveyard-shift.json) |
 | Graveyard Shift | 292517 | [292517-graveyard-shift.json](./292517-graveyard-shift.json) |
 | Graveyard Shift | 31801 | [31801-graveyard-shift.json](./31801-graveyard-shift.json) |
+| Graveyard Shift | 329212 | [329212-graveyard-shift.json](./329212-graveyard-shift.json) |
 | Graveyard Shift 2 | 176814 | [176814-graveyard-shift-2.json](./176814-graveyard-shift-2.json) |
 | Graveyard Smash | 90583 | [90583-graveyard-smash.json](./90583-graveyard-smash.json) |
 | Graveyard Sprint | 245874 | [245874-graveyard-sprint.json](./245874-graveyard-sprint.json) |
