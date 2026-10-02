@@ -1534,6 +1534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casinopia: The Blackjack | 71246 | [71246-casinopia-the-blackjack.json](./71246-casinopia-the-blackjack.json) |
 | CasinoRPG | 82057 | [82057-casinorpg.json](./82057-casinorpg.json) |
 | Casio Handheld Games CG-5X emulator for ZX Spectrum | 279735 | [279735-casio-handheld-games-cg-5x-emulator-for-zx-spectrum.json](./279735-casio-handheld-games-cg-5x-emulator-for-zx-spectrum.json) |
+| Casketball Queen | 311684 | [311684-casketball-queen.json](./311684-casketball-queen.json) |
 | Casos Extravagantes Poco Complicados | 151531 | [151531-casos-extravagantes-poco-complicados.json](./151531-casos-extravagantes-poco-complicados.json) |
 | Casper and the Ghostly Trio | 83232 | [83232-casper-and-the-ghostly-trio.json](./83232-casper-and-the-ghostly-trio.json) |
 | Casper Brainy Book | 125318 | [125318-casper-brainy-book.json](./125318-casper-brainy-book.json) |
@@ -2500,6 +2501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Centipede | 289407 | [289407-centipede.json](./289407-centipede.json) |
 | Centipede & Battlezone | 64399 | [64399-centipede-and-battlezone.json](./64399-centipede-and-battlezone.json) |
 | Centipede & Millipede | 74408 | [74408-centipede-and-millipede.json](./74408-centipede-and-millipede.json) |
+| Centipede Channel F | 311682 | [311682-centipede-channel-f.json](./311682-centipede-channel-f.json) |
 | Centipede X | 356282 | [356282-centipede-x.json](./356282-centipede-x.json) |
 | Centipede: Evolved | 329639 | [329639-centipede-evolved.json](./329639-centipede-evolved.json) |
 | Centipede/Breakout/Warlords | 79816 | [79816-centipede-breakout-warlords.json](./79816-centipede-breakout-warlords.json) |
@@ -5653,6 +5655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colonial Combat | 332651 | [332651-colonial-combat.json](./332651-colonial-combat.json) |
 | Colonial Conquest | 97307 | [97307-colonial-conquest.json](./97307-colonial-conquest.json) |
 | Colonies | 118353 | [118353-colonies.json](./118353-colonies.json) |
+| Colonies: Neociv | 311707 | [311707-colonies-neociv.json](./311707-colonies-neociv.json) |
 | Colonisator | 336634 | [336634-colonisator.json](./336634-colonisator.json) |
 | Colonist | 130901 | [130901-colonist.json](./130901-colonist.json) |
 | Colonization Simulator | 292687 | [292687-colonization-simulator.json](./292687-colonization-simulator.json) |
@@ -7502,6 +7505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covert Front: Episode 3 - Night in Zurich | 129559 | [129559-covert-front-episode-3-night-in-zurich.json](./129559-covert-front-episode-3-night-in-zurich.json) |
 | Covert Front: Episode 4 - the Spark of Life | 129560 | [129560-covert-front-episode-4-the-spark-of-life.json](./129560-covert-front-episode-4-the-spark-of-life.json) |
 | Covert Koalas: Phasco | 407378 | [407378-covert-koalas-phasco.json](./407378-covert-koalas-phasco.json) |
+| Covert Operations | 311709 | [311709-covert-operations.json](./311709-covert-operations.json) |
 | Covert Ops: Nuclear Dawn | 4137 | [4137-covert-ops-nuclear-dawn.json](./4137-covert-ops-nuclear-dawn.json) |
 | Covetous | 138188 | [138188-covetous.json](./138188-covetous.json) |
 | Covid '99 | 140514 | [140514-covid-99.json](./140514-covid-99.json) |
@@ -9605,9 +9609,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custom Mech Wars: Ultimate Edition | 268008 | [268008-custom-mech-wars-ultimate-edition.json](./268008-custom-mech-wars-ultimate-edition.json) |
 | Custom Monsters | 222498 | [222498-custom-monsters.json](./222498-custom-monsters.json) |
 | Custom Order Maid 3D2 | 139227 | [139227-custom-order-maid-3d2.json](./139227-custom-order-maid-3d2.json) |
+| Custom Order Maid 3D2: Character EX Pack Gyaru | 311721 | [311721-custom-order-maid-3d2-character-ex-pack-gyaru.json](./311721-custom-order-maid-3d2-character-ex-pack-gyaru.json) |
 | Custom Order Maid 3D2: It's a Night Magic Beauty Hair Set SP All in One Pack | 291054 | [291054-custom-order-maid-3d2-its-a-night-magic-beauty-hair-set-sp-all-in-one-pack.json](./291054-custom-order-maid-3d2-its-a-night-magic-beauty-hair-set-sp-all-in-one-pack.json) |
 | Custom Order Maid 3D2: It's a Night Magic Dancing Night, Merry Night All in Pack | 280319 | [280319-custom-order-maid-3d2-its-a-night-magic-dancing-night-merry-night-all-in-pack.json](./280319-custom-order-maid-3d2-its-a-night-magic-dancing-night-merry-night-all-in-pack.json) |
+| Custom Order Maid 3D2: It's a Night Magic Just Around the Summer All in One Pack | 311722 | [311722-custom-order-maid-3d2-its-a-night-magic-just-around-the-summer-all-in-one-pack.json](./311722-custom-order-maid-3d2-its-a-night-magic-just-around-the-summer-all-in-one-pack.json) |
 | Custom Order Maid 3D2: It's a Night Magic Spring Full Swing All In Pack | 298113 | [298113-custom-order-maid-3d2-its-a-night-magic-spring-full-swing-all-in-pack.json](./298113-custom-order-maid-3d2-its-a-night-magic-spring-full-swing-all-in-pack.json) |
+| Custom Order Maid 3D2: It's a Night Magic Step in Summer All in One Pack | 311720 | [311720-custom-order-maid-3d2-its-a-night-magic-step-in-summer-all-in-one-pack.json](./311720-custom-order-maid-3d2-its-a-night-magic-step-in-summer-all-in-one-pack.json) |
 | Custom Order Maid 3D2: It's a Night Magic the Arrival of Spring All In Pack | 298043 | [298043-custom-order-maid-3d2-its-a-night-magic-the-arrival-of-spring-all-in-pack.json](./298043-custom-order-maid-3d2-its-a-night-magic-the-arrival-of-spring-all-in-pack.json) |
 | Custom Order Maid 3D2: Mature, Level-Headed, and Dependable Secretary Maid GP-01 | 296663 | [296663-custom-order-maid-3d2-mature-level-headed-and-dependable-secretary-maid-gp-01.json](./296663-custom-order-maid-3d2-mature-level-headed-and-dependable-secretary-maid-gp-01.json) |
 | Custom Order Maid 3D2: Mature, Level-Headed, and Dependable Secretary Maid GP-01fb | 296662 | [296662-custom-order-maid-3d2-mature-level-headed-and-dependable-secretary-maid-gp-01fb.json](./296662-custom-order-maid-3d2-mature-level-headed-and-dependable-secretary-maid-gp-01fb.json) |
@@ -9618,6 +9625,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custom Order Maid 3D2: Soft Cuddly Girl GP-01 | 290937 | [290937-custom-order-maid-3d2-soft-cuddly-girl-gp-01.json](./290937-custom-order-maid-3d2-soft-cuddly-girl-gp-01.json) |
 | Custom Order Maid 3D2: Soft Cuddly Girl GP-01fb | 290940 | [290940-custom-order-maid-3d2-soft-cuddly-girl-gp-01fb.json](./290940-custom-order-maid-3d2-soft-cuddly-girl-gp-01fb.json) |
 | Custom Order Maid 3D2: Soft Cuddly Girl GP-02 | 290935 | [290935-custom-order-maid-3d2-soft-cuddly-girl-gp-02.json](./290935-custom-order-maid-3d2-soft-cuddly-girl-gp-02.json) |
+| Custom Order Maid 3D2: Sweet, Affectionate, and Devoted Long-lost Friend GP-01 | 311719 | [311719-custom-order-maid-3d2-sweet-affectionate-and-devoted-long-lost-friend-gp-01.json](./311719-custom-order-maid-3d2-sweet-affectionate-and-devoted-long-lost-friend-gp-01.json) |
+| Custom Order Maid 3D2: Sweet, Affectionate, and Devoted Long-lost Friend GP-01fb | 311718 | [311718-custom-order-maid-3d2-sweet-affectionate-and-devoted-long-lost-friend-gp-01fb.json](./311718-custom-order-maid-3d2-sweet-affectionate-and-devoted-long-lost-friend-gp-01fb.json) |
+| Custom Order Maid 3D2: Sweet, Affectionate, and Devoted Long-lost Friend GP-02 | 311717 | [311717-custom-order-maid-3d2-sweet-affectionate-and-devoted-long-lost-friend-gp-02.json](./311717-custom-order-maid-3d2-sweet-affectionate-and-devoted-long-lost-friend-gp-02.json) |
+| Custom Order Maid 3D2&2.5+: X1+Vol.01 | 311723 | [311723-custom-order-maid-3d2-and-2-5-x1-vol-01.json](./311723-custom-order-maid-3d2-and-2-5-x1-vol-01.json) |
 | Custom Robo | 3465 | [3465-custom-robo.json](./3465-custom-robo.json) |
 | Custom Robo Arena Redux | 219276 | [219276-custom-robo-arena-redux.json](./219276-custom-robo-arena-redux.json) |
 | Custom Robo GX | 3464 | [3464-custom-robo-gx.json](./3464-custom-robo-gx.json) |
