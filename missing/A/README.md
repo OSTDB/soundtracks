@@ -552,6 +552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tiny Eternity | 318177 | [318177-a-tiny-eternity.json](./318177-a-tiny-eternity.json) |
 | A Tiny Wander | 324887 | [324887-a-tiny-wander.json](./324887-a-tiny-wander.json) |
 | A Tithe in Blood | 304683 | [304683-a-tithe-in-blood.json](./304683-a-tithe-in-blood.json) |
+| A to Zap! Featuring the Sunbuddies | 293313 | [293313-a-to-zap-featuring-the-sunbuddies.json](./293313-a-to-zap-featuring-the-sunbuddies.json) |
 | A Toast for the End Times | 395139 | [395139-a-toast-for-the-end-times.json](./395139-a-toast-for-the-end-times.json) |
 | A Todas Las Lagartijas Que Atrapé | 399761 | [399761-a-todas-las-lagartijas-que-atrape.json](./399761-a-todas-las-lagartijas-que-atrape.json) |
 | A Tofu Tail | 58803 | [58803-a-tofu-tail.json](./58803-a-tofu-tail.json) |
@@ -3426,6 +3427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpacapaca Dash 1 + 2 Bundle | 331445 | [331445-alpacapaca-dash-1-2-bundle.json](./331445-alpacapaca-dash-1-2-bundle.json) |
 | Alpacapaca Dash 2 | 331444 | [331444-alpacapaca-dash-2.json](./331444-alpacapaca-dash-2.json) |
 | Alpacas X Cats Bundle | 331446 | [331446-alpacas-x-cats-bundle.json](./331446-alpacas-x-cats-bundle.json) |
+| Alpamys | 293358 | [293358-alpamys.json](./293358-alpamys.json) |
 | AlpenCross | 52585 | [52585-alpencross.json](./52585-alpencross.json) |
 | Alpenglow | 384668 | [384668-alpenglow.json](./384668-alpenglow.json) |
 | Alpha | 117490 | [117490-alpha.json](./117490-alpha.json) |
@@ -4782,6 +4784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Wave Simulator | 156668 | [156668-anime-wave-simulator.json](./156668-anime-wave-simulator.json) |
 | Anime-dle | 337089 | [337089-anime-dle.json](./337089-anime-dle.json) |
 | Anime: Fantasy Uni | 393625 | [393625-anime-fantasy-uni.json](./393625-anime-fantasy-uni.json) |
+| Anime: Japanese Goblins | 293364 | [293364-anime-japanese-goblins.json](./293364-anime-japanese-goblins.json) |
 | Animeahikoaprinceaverse A4: Prince Akihiko & Princess A | 303154 | [303154-animeahikoaprinceaverse-a4-prince-akihiko-and-princess-a.json](./303154-animeahikoaprinceaverse-a4-prince-akihiko-and-princess-a.json) |
 | Animelee | 74774 | [74774-animelee.json](./74774-animelee.json) |
 | Animentals | 387361 | [387361-animentals.json](./387361-animentals.json) |
@@ -4835,6 +4838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annihilate the Spance | 192985 | [192985-annihilate-the-spance.json](./192985-annihilate-the-spance.json) |
 | Annihilation | 289380 | [289380-annihilation.json](./289380-annihilation.json) |
 | Annihilation: Space Tycoon | 255794 | [255794-annihilation-space-tycoon.json](./255794-annihilation-space-tycoon.json) |
+| Annihilator | 293348 | [293348-annihilator.json](./293348-annihilator.json) |
 | Annihilator | 339993 | [339993-annihilator.json](./339993-annihilator.json) |
 | Annihilator | 94893 | [94893-annihilator.json](./94893-annihilator.json) |
 | Annihilith Of Abhorration | 271293 | [271293-annihilith-of-abhorration.json](./271293-annihilith-of-abhorration.json) |
@@ -6352,6 +6356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arima Lodge | 326630 | [326630-arima-lodge.json](./326630-arima-lodge.json) |
 | Arindama | 378898 | [378898-arindama.json](./378898-arindama.json) |
 | Arinn | 261787 | [261787-arinn.json](./261787-arinn.json) |
+| Ario | 293346 | [293346-ario.json](./293346-ario.json) |
 | Aripi | 158136 | [158136-aripi.json](./158136-aripi.json) |
 | Aris | 344428 | [344428-aris.json](./344428-aris.json) |
 | Arise | 362992 | [362992-arise.json](./362992-arise.json) |
