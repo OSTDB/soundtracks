@@ -640,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Youmu's Cube Adventure | 365153 | [365153-youmus-cube-adventure.json](./365153-youmus-cube-adventure.json) |
 | Young Bird Endless Flight | 333526 | [333526-young-bird-endless-flight.json](./333526-young-bird-endless-flight.json) |
 | Young Detective | 196304 | [196304-young-detective.json](./196304-young-detective.json) |
+| Young Detectives: Undersea | 309564 | [309564-young-detectives-undersea.json](./309564-young-detectives-undersea.json) |
 | Young Dilbert Hi-Tech Hijinks | 70332 | [70332-young-dilbert-hi-tech-hijinks.json](./70332-young-dilbert-hi-tech-hijinks.json) |
 | Young Justice Shadow Mission | 80565 | [80565-young-justice-shadow-mission.json](./80565-young-justice-shadow-mission.json) |
 | Young Justice: Legacy | 194949 | [194949-young-justice-legacy.json](./194949-young-justice-legacy.json) |
@@ -824,6 +825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh! Forbidden Memories | 4108 | [4108-yu-gi-oh-forbidden-memories.json](./4108-yu-gi-oh-forbidden-memories.json) |
 | Yu-Gi-Oh! Forbidden Memories II Ultimate | 308412 | [308412-yu-gi-oh-forbidden-memories-ii-ultimate.json](./308412-yu-gi-oh-forbidden-memories-ii-ultimate.json) |
 | Yu-Gi-Oh! Forbidden Memories: Alpha Mod | 308396 | [308396-yu-gi-oh-forbidden-memories-alpha-mod.json](./308396-yu-gi-oh-forbidden-memories-alpha-mod.json) |
+| Yu-Gi-Oh! Forbidden Memories: Deep Fried Mod | 309602 | [309602-yu-gi-oh-forbidden-memories-deep-fried-mod.json](./309602-yu-gi-oh-forbidden-memories-deep-fried-mod.json) |
 | Yu-Gi-Oh! GX Card Almanac | 328252 | [328252-yu-gi-oh-gx-card-almanac.json](./328252-yu-gi-oh-gx-card-almanac.json) |
 | Yu-Gi-Oh! GX Tag Force 2 | 21945 | [21945-yu-gi-oh-gx-tag-force-2.json](./21945-yu-gi-oh-gx-tag-force-2.json) |
 | Yu-Gi-Oh! Master Duel | 159298 | [159298-yu-gi-oh-master-duel.json](./159298-yu-gi-oh-master-duel.json) |
