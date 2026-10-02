@@ -1528,6 +1528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casino Simulator | 295316 | [295316-casino-simulator.json](./295316-casino-simulator.json) |
 | Casino Slot Machine | 41528 | [41528-casino-slot-machine.json](./41528-casino-slot-machine.json) |
 | Casino Slot Machines | 81794 | [81794-casino-slot-machines.json](./81794-casino-slot-machines.json) |
+| Casino Tycoon Simulator | 308491 | [308491-casino-tycoon-simulator.json](./308491-casino-tycoon-simulator.json) |
 | Casino World | 303087 | [303087-casino-world.json](./303087-casino-world.json) |
 | Casino! | 68727 | [68727-casino.json](./68727-casino.json) |
 | Casinolife Poker | 139239 | [139239-casinolife-poker.json](./139239-casinolife-poker.json) |
@@ -4727,6 +4728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Trivia | 87062 | [87062-classic-trivia.json](./87062-classic-trivia.json) |
 | Classic Us | 393463 | [393463-classic-us.json](./393463-classic-us.json) |
 | Classic Words Plus | 101589 | [101589-classic-words-plus.json](./101589-classic-words-plus.json) |
+| Classic64 | 308474 | [308474-classic64.json](./308474-classic64.json) |
 | Classical Jukebox | 175933 | [175933-classical-jukebox.json](./175933-classical-jukebox.json) |
 | ClassiCube | 117562 | [117562-classicube.json](./117562-classicube.json) |
 | Classified Stories: Color Out of Space | 190951 | [190951-classified-stories-color-out-of-space.json](./190951-classified-stories-color-out-of-space.json) |
@@ -6222,6 +6224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Communication Breakdown | 266294 | [266294-communication-breakdown.json](./266294-communication-breakdown.json) |
 | Communication Game | 312918 | [312918-communication-game.json](./312918-communication-game.json) |
 | Communion | 290724 | [290724-communion.json](./290724-communion.json) |
+| Community Build Project 9: Halloween-2020 | 308480 | [308480-community-build-project-9-halloween-2020.json](./308480-community-build-project-9-halloween-2020.json) |
 | Community Button | 402383 | [402383-community-button.json](./402383-community-button.json) |
 | Community College Hero: Knowledge is Power | 99058 | [99058-community-college-hero-knowledge-is-power.json](./99058-community-college-hero-knowledge-is-power.json) |
 | Community Garden | 68589 | [68589-community-garden.json](./68589-community-garden.json) |
