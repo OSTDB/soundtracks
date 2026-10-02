@@ -6212,6 +6212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Are You Smarter Than the Crowd? | 194989 | [194989-are-you-smarter-than-the-crowd.json](./194989-are-you-smarter-than-the-crowd.json) |
 | Are You With Us? | 97715 | [97715-are-you-with-us.json](./97715-are-you-with-us.json) |
 | Are you yet Living? | 271478 | [271478-are-you-yet-living.json](./271478-are-you-yet-living.json) |
+| Area 19 | 289545 | [289545-area-19.json](./289545-area-19.json) |
 | Area 4643 | 112756 | [112756-area-4643.json](./112756-area-4643.json) |
 | Area 51 | 199022 | [199022-area-51.json](./199022-area-51.json) |
 | Area 51 | 200152 | [200152-area-51.json](./200152-area-51.json) |
@@ -6911,6 +6912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ASCII Game Series: Blocks | 334775 | [334775-ascii-game-series-blocks.json](./334775-ascii-game-series-blocks.json) |
 | ASCII Game Series: Pinball | 379539 | [379539-ascii-game-series-pinball.json](./379539-ascii-game-series-pinball.json) |
 | ASCII Game Series: Snake | 334776 | [334776-ascii-game-series-snake.json](./334776-ascii-game-series-snake.json) |
+| Ascii Sector | 289583 | [289583-ascii-sector.json](./289583-ascii-sector.json) |
 | ASCII Survivors | 398448 | [398448-ascii-survivors.json](./398448-ascii-survivors.json) |
 | Ascii the Brave Cat | 143752 | [143752-ascii-the-brave-cat.json](./143752-ascii-the-brave-cat.json) |
 | ASCII Tower Defense | 302097 | [302097-ascii-tower-defense.json](./302097-ascii-tower-defense.json) |
@@ -7445,6 +7447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Terra | 16882 | [16882-astral-terra.json](./16882-astral-terra.json) |
 | Astral Tournament | 73863 | [73863-astral-tournament.json](./73863-astral-tournament.json) |
 | Astral Traveler | 51973 | [51973-astral-traveler.json](./51973-astral-traveler.json) |
+| Astral Vangard | 289546 | [289546-astral-vangard.json](./289546-astral-vangard.json) |
 | Astral Wield | 319068 | [319068-astral-wield.json](./319068-astral-wield.json) |
 | Astral Zone | 380451 | [380451-astral-zone.json](./380451-astral-zone.json) |
 | AstralAir no Shiroki Towa Finale: Shiroki Hoshi no Yume | 137105 | [137105-astralair-no-shiroki-towa-finale-shiroki-hoshi-no-yume.json](./137105-astralair-no-shiroki-towa-finale-shiroki-hoshi-no-yume.json) |
