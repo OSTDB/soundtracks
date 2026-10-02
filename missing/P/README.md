@@ -8808,6 +8808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Journey: Match 3 Blast | 232373 | [232373-puzzle-journey-match-3-blast.json](./232373-puzzle-journey-match-3-blast.json) |
 | Puzzle Juggle Trouble | 184376 | [184376-puzzle-juggle-trouble.json](./184376-puzzle-juggle-trouble.json) |
 | Puzzle Kana? | 312354 | [312354-puzzle-kana.json](./312354-puzzle-kana.json) |
+| Puzzle Kids | 306597 | [306597-puzzle-kids.json](./306597-puzzle-kids.json) |
 | Puzzle King | 46791 | [46791-puzzle-king.json](./46791-puzzle-king.json) |
 | Puzzle Light | 149455 | [149455-puzzle-light.json](./149455-puzzle-light.json) |
 | Puzzle Light: Rotate | 152763 | [152763-puzzle-light-rotate.json](./152763-puzzle-light-rotate.json) |
