@@ -2982,6 +2982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Infection | 120915 | [120915-alien-infection.json](./120915-alien-infection.json) |
 | Alien Invaders Plus | 41533 | [41533-alien-invaders-plus.json](./41533-alien-invaders-plus.json) |
 | Alien Invasion | 273129 | [273129-alien-invasion.json](./273129-alien-invasion.json) |
+| Alien Invasion | 295468 | [295468-alien-invasion.json](./295468-alien-invasion.json) |
 | Alien Invasion | 94885 | [94885-alien-invasion.json](./94885-alien-invasion.json) |
 | Alien Invasion 3D Part 2 | 126561 | [126561-alien-invasion-3d-part-2.json](./126561-alien-invasion-3d-part-2.json) |
 | Alien Invasion Tower Defense | 30829 | [30829-alien-invasion-tower-defense.json](./30829-alien-invasion-tower-defense.json) |
@@ -4605,6 +4606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal School 1st Grade Games | 241356 | [241356-animal-school-1st-grade-games.json](./241356-animal-school-1st-grade-games.json) |
 | Animal School Simulator | 297646 | [297646-animal-school-simulator.json](./297646-animal-school-simulator.json) |
 | Animal Seasons | 82179 | [82179-animal-seasons.json](./82179-animal-seasons.json) |
+| Animal Shake | 295510 | [295510-animal-shake.json](./295510-animal-shake.json) |
 | Animal Shelter Simulator | 130134 | [130134-animal-shelter-simulator.json](./130134-animal-shelter-simulator.json) |
 | Animal Shelter Simulator: Horse Shelter DLC | 232523 | [232523-animal-shelter-simulator-horse-shelter-dlc.json](./232523-animal-shelter-simulator-horse-shelter-dlc.json) |
 | Animal Shelter Simulator: Puppies & Kittens | 209661 | [209661-animal-shelter-simulator-puppies-and-kittens.json](./209661-animal-shelter-simulator-puppies-and-kittens.json) |
@@ -7998,6 +8000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attract Fragments 5 | 119747 | [119747-attract-fragments-5.json](./119747-attract-fragments-5.json) |
 | Attractorache | 109904 | [109904-attractorache.json](./109904-attractorache.json) |
 | Attrax | 349381 | [349381-attrax.json](./349381-attrax.json) |
+| Attribute2 | 295486 | [295486-attribute2.json](./295486-attribute2.json) |
 | Attrition | 378197 | [378197-attrition.json](./378197-attrition.json) |
 | Atulos Online | 33343 | [33343-atulos-online.json](./33343-atulos-online.json) |
 | Atum | 128624 | [128624-atum.json](./128624-atum.json) |
