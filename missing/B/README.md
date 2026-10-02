@@ -2830,6 +2830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Become Castellane in Another World | 290501 | [290501-become-castellane-in-another-world.json](./290501-become-castellane-in-another-world.json) |
 | Become Deity | 359544 | [359544-become-deity.json](./359544-become-deity.json) |
 | Become Prey 2: Of Everlasting Sin | 181298 | [181298-become-prey-2-of-everlasting-sin.json](./181298-become-prey-2-of-everlasting-sin.json) |
+| Become The Moon | 290104 | [290104-become-the-moon.json](./290104-become-the-moon.json) |
 | Becoming a King | 348457 | [348457-becoming-a-king.json](./348457-becoming-a-king.json) |
 | Becoming a Legend: New Advent | 403671 | [403671-becoming-a-legend-new-advent.json](./403671-becoming-a-legend-new-advent.json) |
 | Becoming Captain | 296497 | [296497-becoming-captain.json](./296497-becoming-captain.json) |
@@ -6969,6 +6970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box World | 338824 | [338824-box-world.json](./338824-box-world.json) |
 | Box World Greens | 338846 | [338846-box-world-greens.json](./338846-box-world-greens.json) |
 | Box Zombies | 311783 | [311783-box-zombies.json](./311783-box-zombies.json) |
+| Box-In | 290100 | [290100-box-in.json](./290100-box-in.json) |
 | BOX: Space Station | 147383 | [147383-box-space-station.json](./147383-box-space-station.json) |
 | Box's Dream | 186741 | [186741-boxs-dream.json](./186741-boxs-dream.json) |
 | BoxBoxBoy! | 19598 | [19598-boxboxboy.json](./19598-boxboxboy.json) |
@@ -7752,6 +7754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brink of Consciousness: The Lonely Hearts Murders | 17918 | [17918-brink-of-consciousness-the-lonely-hearts-murders.json](./17918-brink-of-consciousness-the-lonely-hearts-murders.json) |
 | Brink Traveler | 168681 | [168681-brink-traveler.json](./168681-brink-traveler.json) |
 | Brink: Agents of Change | 164366 | [164366-brink-agents-of-change.json](./164366-brink-agents-of-change.json) |
+| Brinquemática: Aventura Pirata | 290099 | [290099-brinquematica-aventura-pirata.json](./290099-brinquematica-aventura-pirata.json) |
 | Brio World: Railway | 374257 | [374257-brio-world-railway.json](./374257-brio-world-railway.json) |
 | Briquette Sprite | 87105 | [87105-briquette-sprite.json](./87105-briquette-sprite.json) |
 | Briscola | 100011 | [100011-briscola.json](./100011-briscola.json) |
