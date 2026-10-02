@@ -1472,6 +1472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DC Universe Online: Episode 45 - Shock to the System | 248600 | [248600-dc-universe-online-episode-45-shock-to-the-system.json](./248600-dc-universe-online-episode-45-shock-to-the-system.json) |
 | DC Universe Online: Episode Pack I | 161187 | [161187-dc-universe-online-episode-pack-i.json](./161187-dc-universe-online-episode-pack-i.json) |
 | DC Wonder: Unlimited | 43496 | [43496-dc-wonder-unlimited.json](./43496-dc-wonder-unlimited.json) |
+| DC: Batman Bat-Tech Edition | 309605 | [309605-dc-batman-bat-tech-edition.json](./309605-dc-batman-bat-tech-edition.json) |
 | DC's Justice League: Cosmic Chaos | 228740 | [228740-dcs-justice-league-cosmic-chaos.json](./228740-dcs-justice-league-cosmic-chaos.json) |
 | DC3: Viral Menace | 244360 | [244360-dc3-viral-menace.json](./244360-dc3-viral-menace.json) |
 | DCF Universe Triple Trouble Bundle | 338026 | [338026-dcf-universe-triple-trouble-bundle.json](./338026-dcf-universe-triple-trouble-bundle.json) |
@@ -5099,6 +5100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dissolving | 118821 | [118821-dissolving.json](./118821-dissolving.json) |
 | Dissolving Disarray | 324292 | [324292-dissolving-disarray.json](./324292-dissolving-disarray.json) |
 | Distance and Mirage | 299118 | [299118-distance-and-mirage.json](./299118-distance-and-mirage.json) |
+| Distance: Console Edition | 309585 | [309585-distance-console-edition.json](./309585-distance-console-edition.json) |
 | DistanceGuessr | 386116 | [386116-distanceguessr.json](./386116-distanceguessr.json) |
 | Distancy | 316153 | [316153-distancy.json](./316153-distancy.json) |
 | Distant | 329390 | [329390-distant.json](./329390-distant.json) |
@@ -5866,6 +5868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don Pan | 55860 | [55860-don-pan.json](./55860-don-pan.json) |
 | Don Quijote | 51440 | [51440-don-quijote.json](./51440-don-quijote.json) |
 | Don Quixote: A Dream in Seven Crystals | 273124 | [273124-don-quixote-a-dream-in-seven-crystals.json](./273124-don-quixote-a-dream-in-seven-crystals.json) |
+| Don-Chan Puzzle: Hanabi de Don | 309598 | [309598-don-chan-puzzle-hanabi-de-don.json](./309598-don-chan-puzzle-hanabi-de-don.json) |
 | Don't Ask Succubus | 173822 | [173822-dont-ask-succubus.json](./173822-dont-ask-succubus.json) |
 | Don't Be Afraid | 80904 | [80904-dont-be-afraid.json](./80904-dont-be-afraid.json) |
 | Don't Be Afraid 2 | 287825 | [287825-dont-be-afraid-2.json](./287825-dont-be-afraid-2.json) |
@@ -8754,6 +8757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Master: Theron's Quest | 3800 | [3800-dungeon-master-therons-quest.json](./3800-dungeon-master-therons-quest.json) |
 | Dungeon Maze | 114341 | [114341-dungeon-maze.json](./114341-dungeon-maze.json) |
 | Dungeon Maze | 343789 | [343789-dungeon-maze.json](./343789-dungeon-maze.json) |
+| Dungeon Mercenaries | 309568 | [309568-dungeon-mercenaries.json](./309568-dungeon-mercenaries.json) |
 | Dungeon Merchant | 250872 | [250872-dungeon-merchant.json](./250872-dungeon-merchant.json) |
 | Dungeon Mori | 338000 | [338000-dungeon-mori.json](./338000-dungeon-mori.json) |
 | Dungeon Mutt | 386236 | [386236-dungeon-mutt.json](./386236-dungeon-mutt.json) |
