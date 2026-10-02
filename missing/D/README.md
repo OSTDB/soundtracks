@@ -4021,6 +4021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice: The Dice Game! | 229971 | [229971-dice-the-dice-game.json](./229971-dice-the-dice-game.json) |
 | Dice'n'Go | 404963 | [404963-dicengo.json](./404963-dicengo.json) |
 | Dicealot | 319726 | [319726-dicealot.json](./319726-dicealot.json) |
+| Dicefolk: Will Chimeras Pack | 324415 | [324415-dicefolk-will-chimeras-pack.json](./324415-dicefolk-will-chimeras-pack.json) |
 | Diceies | 79898 | [79898-diceies.json](./79898-diceies.json) |
 | Dicentra | 255649 | [255649-dicentra.json](./255649-dicentra.json) |
 | Dicepath | 405592 | [405592-dicepath.json](./405592-dicepath.json) |
