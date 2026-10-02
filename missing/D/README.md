@@ -3033,6 +3033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeMon Researcher | 361797 | [361797-demon-researcher.json](./361797-demon-researcher.json) |
 | Demon robot runner | 89369 | [89369-demon-robot-runner.json](./89369-demon-robot-runner.json) |
 | Demon RPG | 299451 | [299451-demon-rpg.json](./299451-demon-rpg.json) |
+| Demon Save the World | 298262 | [298262-demon-save-the-world.json](./298262-demon-save-the-world.json) |
 | Demon Scrolls | 249716 | [249716-demon-scrolls.json](./249716-demon-scrolls.json) |
 | Demon Seed | 218135 | [218135-demon-seed.json](./218135-demon-seed.json) |
 | Demon Siege | 406905 | [406905-demon-siege.json](./406905-demon-siege.json) |
@@ -7283,6 +7284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Roller Coaster VR | 114331 | [114331-dragon-roller-coaster-vr.json](./114331-dragon-roller-coaster-vr.json) |
 | Dragon Roomates | 342193 | [342193-dragon-roomates.json](./342193-dragon-roomates.json) |
 | Dragon RPG: Dragon Village M | 125895 | [125895-dragon-rpg-dragon-village-m.json](./125895-dragon-rpg-dragon-village-m.json) |
+| Dragon Ruins | 298282 | [298282-dragon-ruins.json](./298282-dragon-ruins.json) |
 | Dragon Ruins II | 328277 | [328277-dragon-ruins-ii.json](./328277-dragon-ruins-ii.json) |
 | Dragon Ruins II: Aftermath | 356739 | [356739-dragon-ruins-ii-aftermath.json](./356739-dragon-ruins-ii-aftermath.json) |
 | Dragon Run Classic | 218553 | [218553-dragon-run-classic.json](./218553-dragon-run-classic.json) |
@@ -9100,6 +9102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusklight Manor | 255096 | [255096-dusklight-manor.json](./255096-dusklight-manor.json) |
 | Dusky Cap | 343862 | [343862-dusky-cap.json](./343862-dusky-cap.json) |
 | Dusky Depths | 273628 | [273628-dusky-depths.json](./273628-dusky-depths.json) |
+| Dust & Courage: Jake Bolton’s Journey | 298233 | [298233-dust-and-courage-jake-bolton-s-journey.json](./298233-dust-and-courage-jake-bolton-s-journey.json) |
 | Dust & Diamonds | 419901 | [419901-dust-and-diamonds.json](./419901-dust-and-diamonds.json) |
 | Dust & Letters | 402915 | [402915-dust-and-letters.json](./402915-dust-and-letters.json) |
 | Dust & Neon | 215894 | [215894-dust-and-neon.json](./215894-dust-and-neon.json) |
