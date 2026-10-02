@@ -7781,6 +7781,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Roaring Empire | 132661 | [132661-the-roaring-empire.json](./132661-the-roaring-empire.json) |
 | The Roast: Coffee Shop Simulator | 350012 | [350012-the-roast-coffee-shop-simulator.json](./350012-the-roast-coffee-shop-simulator.json) |
 | The Robolovers | 172707 | [172707-the-robolovers.json](./172707-the-robolovers.json) |
+| The Rock | 308461 | [308461-the-rock.json](./308461-the-rock.json) |
+| The Rock | 308462 | [308462-the-rock.json](./308462-the-rock.json) |
 | The Rock and the Rose | 353996 | [353996-the-rock-and-the-rose.json](./353996-the-rock-and-the-rose.json) |
 | The Rocket Jumper | 232965 | [232965-the-rocket-jumper.json](./232965-the-rocket-jumper.json) |
 | The Rocketeer | 136871 | [136871-the-rocketeer.json](./136871-the-rocketeer.json) |
@@ -12646,6 +12648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toon Puzzle Island | 233083 | [233083-toon-puzzle-island.json](./233083-toon-puzzle-island.json) |
 | Toon Puzzle Quest | 108480 | [108480-toon-puzzle-quest.json](./108480-toon-puzzle-quest.json) |
 | Toon Roads: Race & Drift | 288315 | [288315-toon-roads-race-and-drift.json](./288315-toon-roads-race-and-drift.json) |
+| Toon Roads: Superbike | 308490 | [308490-toon-roads-superbike.json](./308490-toon-roads-superbike.json) |
 | Toon Shooters the Freelancers | 57193 | [57193-toon-shooters-the-freelancers.json](./57193-toon-shooters-the-freelancers.json) |
 | Toon Tanks | 84947 | [84947-toon-tanks.json](./84947-toon-tanks.json) |
 | Toon War | 86238 | [86238-toon-war.json](./86238-toon-war.json) |
@@ -16010,6 +16013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turnip Boy Steals the Mail | 342657 | [342657-turnip-boy-steals-the-mail.json](./342657-turnip-boy-steals-the-mail.json) |
 | TurnOn | 19606 | [19606-turnon.json](./19606-turnon.json) |
 | Turnout | 337760 | [337760-turnout.json](./337760-turnout.json) |
+| Turnpike | 308463 | [308463-turnpike.json](./308463-turnpike.json) |
 | Turochamp | 232670 | [232670-turochamp.json](./232670-turochamp.json) |
 | Turok | 308368 | [308368-turok.json](./308368-turok.json) |
 | Turok 2 | 146729 | [146729-turok-2.json](./146729-turok-2.json) |
