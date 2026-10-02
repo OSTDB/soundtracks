@@ -2646,6 +2646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find This Pixel Anomaly | 320982 | [320982-find-this-pixel-anomaly.json](./320982-find-this-pixel-anomaly.json) |
 | Find Together on Stream | 289411 | [289411-find-together-on-stream.json](./289411-find-together-on-stream.json) |
 | Find Us Cats | 315297 | [315297-find-us-cats.json](./315297-find-us-cats.json) |
+| Find Wario and Friends | 328669 | [328669-find-wario-and-friends.json](./328669-find-wario-and-friends.json) |
 | Find with Seoul: Story Puzzle | 253385 | [253385-find-with-seoul-story-puzzle.json](./253385-find-with-seoul-story-puzzle.json) |
 | Find X | 310038 | [310038-find-x.json](./310038-find-x.json) |
 | Find Yer Treasure! | 176454 | [176454-find-yer-treasure.json](./176454-find-yer-treasure.json) |
@@ -6157,6 +6158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Salad Theory | 186807 | [186807-fruit-salad-theory.json](./186807-fruit-salad-theory.json) |
 | Fruit Search | 277379 | [277379-fruit-search.json](./277379-fruit-search.json) |
 | Fruit Shinobi | 252807 | [252807-fruit-shinobi.json](./252807-fruit-shinobi.json) |
+| Fruit Slash | 328678 | [328678-fruit-slash.json](./328678-fruit-slash.json) |
 | Fruit Slice | 249270 | [249270-fruit-slice.json](./249270-fruit-slice.json) |
 | Fruit Slide | 359993 | [359993-fruit-slide.json](./359993-fruit-slide.json) |
 | Fruit Stand Fortune | 330980 | [330980-fruit-stand-fortune.json](./330980-fruit-stand-fortune.json) |
@@ -6343,6 +6345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun Home | 374298 | [374298-fun-home.json](./374298-fun-home.json) |
 | Fun Infused Arcade | 260178 | [260178-fun-infused-arcade.json](./260178-fun-infused-arcade.json) |
 | Fun Kid Racing Magic Forest | 175720 | [175720-fun-kid-racing-magic-forest.json](./175720-fun-kid-racing-magic-forest.json) |
+| Fun Match | 328658 | [328658-fun-match.json](./328658-fun-match.json) |
 | Fun on the Farm with Barney | 71608 | [71608-fun-on-the-farm-with-barney.json](./71608-fun-on-the-farm-with-barney.json) |
 | Fun Pack | 319790 | [319790-fun-pack.json](./319790-fun-pack.json) |
 | Fun Park Simulator | 394165 | [394165-fun-park-simulator.json](./394165-fun-park-simulator.json) |
