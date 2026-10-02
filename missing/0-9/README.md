@@ -116,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 0101: Classic Bonus Levels 3 | 325453 | [325453-0101-classic-bonus-levels-3.json](./325453-0101-classic-bonus-levels-3.json) |
 | 0101: Pusher Bonus Levels 3 | 325455 | [325455-0101-pusher-bonus-levels-3.json](./325455-0101-pusher-bonus-levels-3.json) |
 | 03.04 | 113188 | [113188-03-04.json](./113188-03-04.json) |
+| 07Gorillas | 325492 | [325492-07gorillas.json](./325492-07gorillas.json) |
 | 07th Theater | 258995 | [258995-07th-theater.json](./258995-07th-theater.json) |
 | 0Hz Zero Hertz | 216771 | [216771-0hz-zero-hertz.json](./216771-0hz-zero-hertz.json) |
 | 0th floor.: The Cursed Elevator To Floor Zero | 292535 | [292535-0th-floor-the-cursed-elevator-to-floor-zero.json](./292535-0th-floor-the-cursed-elevator-to-floor-zero.json) |
@@ -207,6 +208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Aliens Cats: Extra Content | 308929 | [308929-100-aliens-cats-extra-content.json](./308929-100-aliens-cats-extra-content.json) |
 | 100 All-Time Favorites | 67343 | [67343-100-all-time-favorites.json](./67343-100-all-time-favorites.json) |
 | 100 Amsterdam Cats | 351683 | [351683-100-amsterdam-cats.json](./351683-100-amsterdam-cats.json) |
+| 100 Animals on an Island | 325501 | [325501-100-animals-on-an-island.json](./325501-100-animals-on-an-island.json) |
 | 100 Archeology Cats | 393728 | [393728-100-archeology-cats.json](./393728-100-archeology-cats.json) |
 | 100 Astro Cats | 347755 | [347755-100-astro-cats.json](./347755-100-astro-cats.json) |
 | 100 Balls | 331350 | [331350-100-balls.json](./331350-100-balls.json) |
@@ -233,6 +235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Cats Lost in the Future Find & Color | 359034 | [359034-100-cats-lost-in-the-future-find-and-color.json](./359034-100-cats-lost-in-the-future-find-and-color.json) |
 | 100 Cats Lost in the Stone Age Find & Color | 359053 | [359053-100-cats-lost-in-the-stone-age-find-and-color.json](./359053-100-cats-lost-in-the-stone-age-find-and-color.json) |
 | 100 Cats Lost in Toyland Trouble | 359028 | [359028-100-cats-lost-in-toyland-trouble.json](./359028-100-cats-lost-in-toyland-trouble.json) |
+| 100 Cats New York: Extra Content | 325502 | [325502-100-cats-new-york-extra-content.json](./325502-100-cats-new-york-extra-content.json) |
 | 100 Cats Pakistan | 283867 | [283867-100-cats-pakistan.json](./283867-100-cats-pakistan.json) |
 | 100 Chernobyl Cats | 375450 | [375450-100-chernobyl-cats.json](./375450-100-chernobyl-cats.json) |
 | 100 Chests | 101332 | [101332-100-chests.json](./101332-100-chests.json) |
@@ -244,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Demon Cats | 347752 | [347752-100-demon-cats.json](./347752-100-demon-cats.json) |
 | 100 Dino Cats | 284395 | [284395-100-dino-cats.json](./284395-100-dino-cats.json) |
 | 100 Dogs | 308933 | [308933-100-dogs.json](./308933-100-dogs.json) |
+| 100 Dogs in India | 325504 | [325504-100-dogs-in-india.json](./325504-100-dogs-in-india.json) |
 | 100 Doors Escape: Let me In! | 256349 | [256349-100-doors-escape-let-me-in.json](./256349-100-doors-escape-let-me-in.json) |
 | 100 doors of artifact: Room Escape Challenge | 145001 | [145001-100-doors-of-artifact-room-escape-challenge.json](./145001-100-doors-of-artifact-room-escape-challenge.json) |
 | 100 Doors of Revenge | 234190 | [234190-100-doors-of-revenge.json](./234190-100-doors-of-revenge.json) |
@@ -270,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Hidden Fish | 187205 | [187205-100-hidden-fish.json](./187205-100-hidden-fish.json) |
 | 100 Hidden Frogs | 186155 | [186155-100-hidden-frogs.json](./186155-100-hidden-frogs.json) |
 | 100 Hidden Rams | 163750 | [163750-100-hidden-rams.json](./163750-100-hidden-rams.json) |
+| 100 Hiddensaurs: Egypt | 325503 | [325503-100-hiddensaurs-egypt.json](./325503-100-hiddensaurs-egypt.json) |
 | 100 Hiddensaurs: Greece | 318394 | [318394-100-hiddensaurs-greece.json](./318394-100-hiddensaurs-greece.json) |
 | 100 Hiddensaurs: Medieval | 359558 | [359558-100-hiddensaurs-medieval.json](./359558-100-hiddensaurs-medieval.json) |
 | 100 Hiddensaurs: Renaissance | 359557 | [359557-100-hiddensaurs-renaissance.json](./359557-100-hiddensaurs-renaissance.json) |
@@ -279,6 +284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Italy Cats | 315290 | [315290-100-italy-cats.json](./315290-100-italy-cats.json) |
 | 100 Keys to Your Heart | 231615 | [231615-100-keys-to-your-heart.json](./231615-100-keys-to-your-heart.json) |
 | 100 Kills Challenge: Origins | 294244 | [294244-100-kills-challenge-origins.json](./294244-100-kills-challenge-origins.json) |
+| 100 Korea Cats: Extra Content | 325505 | [325505-100-korea-cats-extra-content.json](./325505-100-korea-cats-extra-content.json) |
 | 100 Logic Games: Time Killers | 232531 | [232531-100-logic-games-time-killers.json](./232531-100-logic-games-time-killers.json) |
 | 100 London Cats | 282722 | [282722-100-london-cats.json](./282722-100-london-cats.json) |
 | 100 Los Angeles Cats | 334125 | [334125-100-los-angeles-cats.json](./334125-100-los-angeles-cats.json) |
@@ -291,12 +297,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Mushroom Cats | 393731 | [393731-100-mushroom-cats.json](./393731-100-mushroom-cats.json) |
 | 100 Mystic Cats | 393727 | [393727-100-mystic-cats.json](./393727-100-mystic-cats.json) |
 | 100 New Year Cats | 324238 | [324238-100-new-year-cats.json](./324238-100-new-year-cats.json) |
+| 100 New Year Cats: Extra Content | 325506 | [325506-100-new-year-cats-extra-content.json](./325506-100-new-year-cats-extra-content.json) |
 | 100 Ninja Cats | 283034 | [283034-100-ninja-cats.json](./283034-100-ninja-cats.json) |
 | 100 Pics Quiz | 70890 | [70890-100-pics-quiz.json](./70890-100-pics-quiz.json) |
 | 100 Radioactive Cats | 379455 | [379455-100-radioactive-cats.json](./379455-100-radioactive-cats.json) |
 | 100 Rogues | 22347 | [22347-100-rogues.json](./22347-100-rogues.json) |
 | 100 Romantic Cats: Extra Content | 359566 | [359566-100-romantic-cats-extra-content.json](./359566-100-romantic-cats-extra-content.json) |
 | 100 Ruin Cats | 347756 | [347756-100-ruin-cats.json](./347756-100-ruin-cats.json) |
+| 100 Screamers | 325498 | [325498-100-screamers.json](./325498-100-screamers.json) |
 | 100 Sea Cats | 315291 | [315291-100-sea-cats.json](./315291-100-sea-cats.json) |
 | 100 Seconds | 89387 | [89387-100-seconds.json](./89387-100-seconds.json) |
 | 100 Space Cats | 288398 | [288398-100-space-cats.json](./288398-100-space-cats.json) |
@@ -334,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100% Orange Juice: Waruda Prison Break Pack | 255025 | [255025-100-orange-juice-waruda-prison-break-pack.json](./255025-100-orange-juice-waruda-prison-break-pack.json) |
 | 100% Orange Juice: Yuki & Tomomo Renewal Pack | 164470 | [164470-100-orange-juice-yuki-and-tomomo-renewal-pack.json](./164470-100-orange-juice-yuki-and-tomomo-renewal-pack.json) |
 | 100% Pasukaru Sensei: Perfect Paint Bombers | 55906 | [55906-100-pasukaru-sensei-perfect-paint-bombers.json](./55906-100-pasukaru-sensei-perfect-paint-bombers.json) |
+| 100% Wedding Mission: Love Love Christmas | 325510 | [325510-100-wedding-mission-love-love-christmas.json](./325510-100-wedding-mission-love-love-christmas.json) |
 | 100+ Great Games | 273901 | [273901-100-great-games.json](./273901-100-great-games.json) |
 | 100+ Great Games: Volume II | 273902 | [273902-100-great-games-volume-ii.json](./273902-100-great-games-volume-ii.json) |
 | 100$ | 231486 | [231486-100.json](./231486-100.json) |
@@ -345,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1000 of Single Stroke | 297641 | [297641-1000-of-single-stroke.json](./297641-1000-of-single-stroke.json) |
 | 1000 Score: 2D Platformer | 389990 | [389990-1000-score-2d-platformer.json](./389990-1000-score-2d-platformer.json) |
 | 1000 Stages | 105308 | [105308-1000-stages.json](./105308-1000-stages.json) |
+| 1000 Waves | 325500 | [325500-1000-waves.json](./325500-1000-waves.json) |
 | 1000 Words | 83913 | [83913-1000-words.json](./83913-1000-words.json) |
 | 1000: The All-Mother's Embrace | 326044 | [326044-1000-the-all-mothers-embrace.json](./326044-1000-the-all-mothers-embrace.json) |
 | 10000000 | 9705 | [9705-10000000.json](./9705-10000000.json) |
