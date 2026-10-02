@@ -6728,6 +6728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missile Command: Evolved | 329635 | [329635-missile-command-evolved.json](./329635-missile-command-evolved.json) |
 | Missile Command: Recharged | 132154 | [132154-missile-command-recharged.json](./132154-missile-command-recharged.json) |
 | Missile Control | 13252 | [13252-missile-control.json](./13252-missile-control.json) |
+| Missile Defence | 290654 | [290654-missile-defence.json](./290654-missile-defence.json) |
 | Missile Input | 190477 | [190477-missile-input.json](./190477-missile-input.json) |
 | Missile Mayhem | 360139 | [360139-missile-mayhem.json](./360139-missile-mayhem.json) |
 | Missile Survivor | 319240 | [319240-missile-survivor.json](./319240-missile-survivor.json) |
@@ -9551,6 +9552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musasabi | 122375 | [122375-musasabi.json](./122375-musasabi.json) |
 | Musashi no Bouken | 48688 | [48688-musashi-no-bouken.json](./48688-musashi-no-bouken.json) |
 | Musashi vs. Cthulhu | 127465 | [127465-musashi-vs-cthulhu.json](./127465-musashi-vs-cthulhu.json) |
+| Musashi: Mobile Samurai | 290646 | [290646-musashi-mobile-samurai.json](./290646-musashi-mobile-samurai.json) |
 | Musashi: Samurai Legend | 1811 | [1811-musashi-samurai-legend.json](./1811-musashi-samurai-legend.json) |
 | Muscle Car 76 | 210111 | [210111-muscle-car-76.json](./210111-muscle-car-76.json) |
 | Muscle Car Robot | 117178 | [117178-muscle-car-robot.json](./117178-muscle-car-robot.json) |
