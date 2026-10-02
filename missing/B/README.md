@@ -3701,6 +3701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Time Gangsta | 316758 | [316758-big-time-gangsta.json](./316758-big-time-gangsta.json) |
 | Big Time Rush: Dance Party | 50625 | [50625-big-time-rush-dance-party.json](./50625-big-time-rush-dance-party.json) |
 | Big Titty Teacher: Hentai School Life | 97667 | [97667-big-titty-teacher-hentai-school-life.json](./97667-big-titty-teacher-hentai-school-life.json) |
+| Big Top | 304302 | [304302-big-top.json](./304302-big-top.json) |
 | Big Top Solitaire | 386134 | [386134-big-top-solitaire.json](./386134-big-top-solitaire.json) |
 | Big Truck 4X4 Challenge | 385266 | [385266-big-truck-4x4-challenge.json](./385266-big-truck-4x4-challenge.json) |
 | Big TV Mary Bar | 48324 | [48324-big-tv-mary-bar.json](./48324-big-tv-mary-bar.json) |
@@ -7290,6 +7291,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawlhalla: Autumn Championship 2018 Pack | 342628 | [342628-brawlhalla-autumn-championship-2018-pack.json](./342628-brawlhalla-autumn-championship-2018-pack.json) |
 | Brawlhalla: BCX 2017 Pack | 342230 | [342230-brawlhalla-bcx-2017-pack.json](./342230-brawlhalla-bcx-2017-pack.json) |
 | Brawlhalla: BCX 2023 Pack | 274586 | [274586-brawlhalla-bcx-2023-pack.json](./274586-brawlhalla-bcx-2023-pack.json) |
+| Brawlhalla: Bonus Pack 10 | 304301 | [304301-brawlhalla-bonus-pack-10.json](./304301-brawlhalla-bonus-pack-10.json) |
+| Brawlhalla: Bonus Pack 11 | 304303 | [304303-brawlhalla-bonus-pack-11.json](./304303-brawlhalla-bonus-pack-11.json) |
 | Brawlhalla: Bonus Pack 12 | 305851 | [305851-brawlhalla-bonus-pack-12.json](./305851-brawlhalla-bonus-pack-12.json) |
 | Brawlhalla: Bonus Pack 13 | 313245 | [313245-brawlhalla-bonus-pack-13.json](./313245-brawlhalla-bonus-pack-13.json) |
 | Brawlhalla: Bonus Pack 14 | 316624 | [316624-brawlhalla-bonus-pack-14.json](./316624-brawlhalla-bonus-pack-14.json) |
@@ -7789,6 +7792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrokenEarth | 62973 | [62973-brokenearth.json](./62973-brokenearth.json) |
 | BrokenLore: Ascend | 377235 | [377235-brokenlore-ascend.json](./377235-brokenlore-ascend.json) |
 | BrokenLore: Don't Lie | 370708 | [370708-brokenlore-dont-lie.json](./370708-brokenlore-dont-lie.json) |
+| BrokenLore: Low | 304308 | [304308-brokenlore-low.json](./304308-brokenlore-low.json) |
 | Bromeliad | 158053 | [158053-bromeliad.json](./158053-bromeliad.json) |
 | BROMS: Battle Royale Management Simulator | 410877 | [410877-broms-battle-royale-management-simulator.json](./410877-broms-battle-royale-management-simulator.json) |
 | Bronk's Jungle Adventure | 143679 | [143679-bronks-jungle-adventure.json](./143679-bronks-jungle-adventure.json) |
@@ -7976,6 +7980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Bath Babes | 48677 | [48677-bubble-bath-babes.json](./48677-bubble-bath-babes.json) |
 | Bubble Battle | 333378 | [333378-bubble-battle.json](./333378-bubble-battle.json) |
 | Bubble Bird | 250395 | [250395-bubble-bird.json](./250395-bubble-bird.json) |
+| Bubble Blast | 304262 | [304262-bubble-blast.json](./304262-bubble-blast.json) |
 | Bubble Blobb | 386703 | [386703-bubble-blobb.json](./386703-bubble-blobb.json) |
 | Bubble Blow | 419835 | [419835-bubble-blow.json](./419835-bubble-blow.json) |
 | Bubble Blowout | 25704 | [25704-bubble-blowout.json](./25704-bubble-blowout.json) |
