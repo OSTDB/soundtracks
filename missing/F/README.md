@@ -3392,6 +3392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Treasure Island: Old Builds | 238428 | [238428-five-nights-at-treasure-island-old-builds.json](./238428-five-nights-at-treasure-island-old-builds.json) |
 | Five Nights at Treasure Island: Room Zero | 272819 | [272819-five-nights-at-treasure-island-room-zero.json](./272819-five-nights-at-treasure-island-room-zero.json) |
 | Five Nights at Treasure Island: Sister Location | 274981 | [274981-five-nights-at-treasure-island-sister-location.json](./274981-five-nights-at-treasure-island-sister-location.json) |
+| Five Nights at Vsauce VR | 323802 | [323802-five-nights-at-vsauce-vr.json](./323802-five-nights-at-vsauce-vr.json) |
 | Five Nights at Wario's 4 | 280770 | [280770-five-nights-at-warios-4.json](./280770-five-nights-at-warios-4.json) |
 | Five Nights In Saransk | 381257 | [381257-five-nights-in-saransk.json](./381257-five-nights-in-saransk.json) |
 | Five Nights on the Toilet | 267389 | [267389-five-nights-on-the-toilet.json](./267389-five-nights-on-the-toilet.json) |
