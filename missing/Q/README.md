@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quadrax | 69907 | [69907-quadrax.json](./69907-quadrax.json) |
 | Quadrax III | 69590 | [69590-quadrax-iii.json](./69590-quadrax-iii.json) |
 | Quadremor | 235977 | [235977-quadremor.json](./235977-quadremor.json) |
+| Quadricolor: Ultra Sentai Color Ranger | 292221 | [292221-quadricolor-ultra-sentai-color-ranger.json](./292221-quadricolor-ultra-sentai-color-ranger.json) |
 | Quadrilactic | 184400 | [184400-quadrilactic.json](./184400-quadrilactic.json) |
 | Quadrilateral Battle | 174846 | [174846-quadrilateral-battle.json](./174846-quadrilateral-battle.json) |
 | Quadrilateral Cowboy | 9014 | [9014-quadrilateral-cowboy.json](./9014-quadrilateral-cowboy.json) |
@@ -610,6 +611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QV | 141251 | [141251-qv.json](./141251-qv.json) |
 | Qvabllock | 99631 | [99631-qvabllock.json](./99631-qvabllock.json) |
 | Qvadriga | 17347 | [17347-qvadriga.json](./17347-qvadriga.json) |
+| Qwepoi | 292255 | [292255-qwepoi.json](./292255-qwepoi.json) |
 | Qwerty Garden | 396585 | [396585-qwerty-garden.json](./396585-qwerty-garden.json) |
 | Qwess | 276192 | [276192-qwess.json](./276192-qwess.json) |
 | QwikWits | 314866 | [314866-qwikwits.json](./314866-qwikwits.json) |
