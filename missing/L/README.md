@@ -2127,6 +2127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Libtard: The Satire Game | 138026 | [138026-libtard-the-satire-game.json](./138026-libtard-the-satire-game.json) |
 | Licačka | 254422 | [254422-licacka.json](./254422-licacka.json) |
 | Licca-chan ni Naritai! | 58848 | [58848-licca-chan-ni-naritai.json](./58848-licca-chan-ni-naritai.json) |
+| License To Clone | 319689 | [319689-license-to-clone.json](./319689-license-to-clone.json) |
 | Lich Legend | 159238 | [159238-lich-legend.json](./159238-lich-legend.json) |
 | Lich of Might | 399777 | [399777-lich-of-might.json](./399777-lich-of-might.json) |
 | Lichdom: Battlemage | 7443 | [7443-lichdom-battlemage.json](./7443-lichdom-battlemage.json) |
