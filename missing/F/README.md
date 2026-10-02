@@ -5276,6 +5276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fowl Magic | 121543 | [121543-fowl-magic.json](./121543-fowl-magic.json) |
 | Fowl Scourge | 201238 | [201238-fowl-scourge.json](./201238-fowl-scourge.json) |
 | Fowl Swarm | 295837 | [295837-fowl-swarm.json](./295837-fowl-swarm.json) |
+| Fowling | 305453 | [305453-fowling.json](./305453-fowling.json) |
 | Fox & Goat | 40740 | [40740-fox-and-goat.json](./40740-fox-and-goat.json) |
 | Fox Adventure: Homeward Journey | 253439 | [253439-fox-adventure-homeward-journey.json](./253439-fox-adventure-homeward-journey.json) |
 | Fox and Bunny | 117780 | [117780-fox-and-bunny.json](./117780-fox-and-bunny.json) |
@@ -5882,6 +5883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Bard | 338312 | [338312-frog-bard.json](./338312-frog-bard.json) |
 | Frog Bath | 132665 | [132665-frog-bath.json](./132665-frog-bath.json) |
 | Frog Bath Challenge | 413177 | [413177-frog-bath-challenge.json](./413177-frog-bath-challenge.json) |
+| Frog Boaster | 305454 | [305454-frog-boaster.json](./305454-frog-boaster.json) |
 | Frog Bog | 18553 | [18553-frog-bog.json](./18553-frog-bog.json) |
 | Frog Box | 319237 | [319237-frog-box.json](./319237-frog-box.json) |
 | Frog Clan Official Server 24/7 ZK Map | 395868 | [395868-frog-clan-official-server-24-7-zk-map.json](./395868-frog-clan-official-server-24-7-zk-map.json) |
