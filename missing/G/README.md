@@ -664,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Thrones: Beyond the Wall - Blood Bound | 171636 | [171636-game-of-thrones-beyond-the-wall-blood-bound.json](./171636-game-of-thrones-beyond-the-wall-blood-bound.json) |
 | Game of Thrones: Legends | 330384 | [330384-game-of-thrones-legends.json](./330384-game-of-thrones-legends.json) |
 | Game of Thrones: Seven Kingdoms | 110315 | [110315-game-of-thrones-seven-kingdoms.json](./110315-game-of-thrones-seven-kingdoms.json) |
+| Game of Vampires: Twilight Sun | 300265 | [300265-game-of-vampires-twilight-sun.json](./300265-game-of-vampires-twilight-sun.json) |
 | Game Over | 13854 | [13854-game-over.json](./13854-game-over.json) |
 | Game Over Gopher | 336924 | [336924-game-over-gopher.json](./336924-game-over-gopher.json) |
 | Game Over II | 46658 | [46658-game-over-ii.json](./46658-game-over-ii.json) |
@@ -5066,6 +5067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gulf Strike | 25034 | [25034-gulf-strike.json](./25034-gulf-strike.json) |
 | Gulkave | 6109 | [6109-gulkave.json](./6109-gulkave.json) |
 | Gull Kebap VR | 104058 | [104058-gull-kebap-vr.json](./104058-gull-kebap-vr.json) |
+| Gulliver in the Land of Giants | 300339 | [300339-gulliver-in-the-land-of-giants.json](./300339-gulliver-in-the-land-of-giants.json) |
 | Gulman 3D | 199059 | [199059-gulman-3d.json](./199059-gulman-3d.json) |
 | Gulman 4: Still alive | 30405 | [30405-gulman-4-still-alive.json](./30405-gulman-4-still-alive.json) |
 | Gǔlóng Chuánshuō | 155990 | [155990-gulong-chuanshuo.json](./155990-gulong-chuanshuo.json) |
