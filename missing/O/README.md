@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O Conde de Monte Cristo | 293914 | [293914-o-conde-de-monte-cristo.json](./293914-o-conde-de-monte-cristo.json) |
 | O Conto de Ada | 307229 | [307229-o-conto-de-ada.json](./307229-o-conto-de-ada.json) |
 | O Horror Amarelo | 338939 | [338939-o-horror-amarelo.json](./338939-o-horror-amarelo.json) |
+| O Livro Mágico | 290084 | [290084-o-livro-magico.json](./290084-o-livro-magico.json) |
 | O Rei | 121649 | [121649-o-rei.json](./121649-o-rei.json) |
 | O reino em outro mundo | 315131 | [315131-o-reino-em-outro-mundo.json](./315131-o-reino-em-outro-mundo.json) |
 | O Vagabundo | 290018 | [290018-o-vagabundo.json](./290018-o-vagabundo.json) |
@@ -2312,6 +2313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OtoZ | 375359 | [375359-otoz.json](./375359-otoz.json) |
 | Otsuge Uranai nan desu | 69268 | [69268-otsuge-uranai-nan-desu.json](./69268-otsuge-uranai-nan-desu.json) |
 | Otter Chaos | 201554 | [201554-otter-chaos.json](./201554-otter-chaos.json) |
+| Otter Island | 290109 | [290109-otter-island.json](./290109-otter-island.json) |
 | Otter Ocean | 242786 | [242786-otter-ocean.json](./242786-otter-ocean.json) |
 | Otter of My Life | 104662 | [104662-otter-of-my-life.json](./104662-otter-of-my-life.json) |
 | Otter Yakuza | 369113 | [369113-otter-yakuza.json](./369113-otter-yakuza.json) |
