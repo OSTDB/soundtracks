@@ -7365,6 +7365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mole Mole ! | 39771 | [39771-mole-mole.json](./39771-mole-mole.json) |
 | Mole Mole 2 | 47522 | [47522-mole-mole-2.json](./47522-mole-mole-2.json) |
 | Mole Patrol | 347686 | [347686-mole-patrol.json](./347686-mole-patrol.json) |
+| Mole Royal | 285693 | [285693-mole-royal.json](./285693-mole-royal.json) |
 | Mole Story: games for kids | 91108 | [91108-mole-story-games-for-kids.json](./91108-mole-story-games-for-kids.json) |
 | Mole: Great Adventure | 333389 | [333389-mole-great-adventure.json](./333389-mole-great-adventure.json) |
 | Mole's Quest | 329728 | [329728-moles-quest.json](./329728-moles-quest.json) |
@@ -8419,6 +8420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morphatrons Alien | 198825 | [198825-morphatrons-alien.json](./198825-morphatrons-alien.json) |
 | Morphatrons Arachnid | 198826 | [198826-morphatrons-arachnid.json](./198826-morphatrons-arachnid.json) |
 | Morphatrons Raptor | 198827 | [198827-morphatrons-raptor.json](./198827-morphatrons-raptor.json) |
+| MorphaVerse | 285714 | [285714-morphaverse.json](./285714-morphaverse.json) |
 | Morphcat Games Collection 1 | 191899 | [191899-morphcat-games-collection-1.json](./191899-morphcat-games-collection-1.json) |
 | Morpheus | 40966 | [40966-morpheus.json](./40966-morpheus.json) |
 | Morphies Law | 25633 | [25633-morphies-law.json](./25633-morphies-law.json) |
