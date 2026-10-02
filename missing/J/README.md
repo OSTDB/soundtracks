@@ -616,6 +616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Set Radio | 279629 | [279629-jet-set-radio.json](./279629-jet-set-radio.json) |
 | Jet Set Radio | 398453 | [398453-jet-set-radio.json](./398453-jet-set-radio.json) |
 | Jet Set Radio Future | 1570 | [1570-jet-set-radio-future.json](./1570-jet-set-radio-future.json) |
+| Jet Set Radio: MiniMix | 306027 | [306027-jet-set-radio-minimix.json](./306027-jet-set-radio-minimix.json) |
 | Jet Set Speeders | 330958 | [330958-jet-set-speeders.json](./330958-jet-set-speeders.json) |
 | Jet Set Willy | 8170 | [8170-jet-set-willy.json](./8170-jet-set-willy.json) |
 | Jet Set Willy: Online | 92850 | [92850-jet-set-willy-online.json](./92850-jet-set-willy-online.json) |
