@@ -6180,6 +6180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commanders: Attack of the Genos | 20775 | [20775-commanders-attack-of-the-genos.json](./20775-commanders-attack-of-the-genos.json) |
 | CommanderTux | 320161 | [320161-commandertux.json](./320161-commandertux.json) |
 | Commando | 282623 | [282623-commando.json](./282623-commando.json) |
+| Commando | 310110 | [310110-commando.json](./310110-commando.json) |
 | Commando 3 | 335477 | [335477-commando-3.json](./335477-commando-3.json) |
 | Commando Assault | 335476 | [335476-commando-assault.json](./335476-commando-assault.json) |
 | Commando Dog | 119550 | [119550-commando-dog.json](./119550-commando-dog.json) |
@@ -7893,6 +7894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crate Expectations | 299446 | [299446-crate-expectations.json](./299446-crate-expectations.json) |
 | Crate Knight | 207532 | [207532-crate-knight.json](./207532-crate-knight.json) |
 | Crate Man | 61568 | [61568-crate-man.json](./61568-crate-man.json) |
+| CrateMage | 310103 | [310103-cratemage.json](./310103-cratemage.json) |
 | Crates n' Mohawks | 186339 | [186339-crates-n-mohawks.json](./186339-crates-n-mohawks.json) |
 | CrateTastrophe | 164271 | [164271-cratetastrophe.json](./164271-cratetastrophe.json) |
 | Crawl | 11049 | [11049-crawl.json](./11049-crawl.json) |
@@ -9979,6 +9981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberworld Online | 221376 | [221376-cyberworld-online.json](./221376-cyberworld-online.json) |
 | Cyborg City | 339359 | [339359-cyborg-city.json](./339359-cyborg-city.json) |
 | Cyborg Detonator | 32984 | [32984-cyborg-detonator.json](./32984-cyborg-detonator.json) |
+| Cyborg Force | 310147 | [310147-cyborg-force.json](./310147-cyborg-force.json) |
 | Cyborg Invasion Shooter 2: Battle of Earth | 88256 | [88256-cyborg-invasion-shooter-2-battle-of-earth.json](./88256-cyborg-invasion-shooter-2-battle-of-earth.json) |
 | Cyborg Justice | 46236 | [46236-cyborg-justice.json](./46236-cyborg-justice.json) |
 | Cyborg Lumberjack | 297083 | [297083-cyborg-lumberjack.json](./297083-cyborg-lumberjack.json) |
