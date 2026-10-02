@@ -2038,6 +2038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Control Ends | 405564 | [405564-where-control-ends.json](./405564-where-control-ends.json) |
 | Where Did I Put It? | 223472 | [223472-where-did-i-put-it.json](./223472-where-did-i-put-it.json) |
 | Where Do I Fit? | 177489 | [177489-where-do-i-fit.json](./177489-where-do-i-fit.json) |
+| Where Dragon Spirits | 295485 | [295485-where-dragon-spirits.json](./295485-where-dragon-spirits.json) |
 | Where Giants Fall | 403137 | [403137-where-giants-fall.json](./403137-where-giants-fall.json) |
 | Where in America's Past Is Carmen Sandiego? | 50495 | [50495-where-in-americas-past-is-carmen-sandiego.json](./50495-where-in-americas-past-is-carmen-sandiego.json) |
 | Where in Europe is Carmen Sandiego? | 12824 | [12824-where-in-europe-is-carmen-sandiego.json](./12824-where-in-europe-is-carmen-sandiego.json) |
