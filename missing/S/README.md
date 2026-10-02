@@ -4170,6 +4170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinkansen Card Pull Simulator | 399783 | [399783-shinkansen-card-pull-simulator.json](./399783-shinkansen-card-pull-simulator.json) |
 | Shinkon Gattai Godannar!! | 70905 | [70905-shinkon-gattai-godannar.json](./70905-shinkon-gattai-godannar.json) |
 | Shinkyoku Soukai Polyphonica: 0~4 wa Full Pack | 269529 | [269529-shinkyoku-soukai-polyphonica-0-4-wa-full-pack.json](./269529-shinkyoku-soukai-polyphonica-0-4-wa-full-pack.json) |
+| Shinmai Kyoushi | 320835 | [320835-shinmai-kyoushi.json](./320835-shinmai-kyoushi.json) |
 | ShinNaZuki | 355196 | [355196-shinnazuki.json](./355196-shinnazuki.json) |
 | Shinobi | 10223 | [10223-shinobi.json](./10223-shinobi.json) |
 | Shinobi | 309488 | [309488-shinobi.json](./309488-shinobi.json) |
@@ -4515,6 +4516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shop Life Simulator | 333697 | [333697-shop-life-simulator.json](./333697-shop-life-simulator.json) |
 | Shop Mistress NTR | 379891 | [379891-shop-mistress-ntr.json](./379891-shop-mistress-ntr.json) |
 | Shop of Forgotten Memories | 298883 | [298883-shop-of-forgotten-memories.json](./298883-shop-of-forgotten-memories.json) |
+| Shop Simulator: Pet Shop | 320842 | [320842-shop-simulator-pet-shop.json](./320842-shop-simulator-pet-shop.json) |
 | Shop Simulator: Supermarket | 320721 | [320721-shop-simulator-supermarket.json](./320721-shop-simulator-supermarket.json) |
 | Shop Simulator: Waifu Pillows | 333226 | [333226-shop-simulator-waifu-pillows.json](./333226-shop-simulator-waifu-pillows.json) |
 | Shop Titans | 119969 | [119969-shop-titans.json](./119969-shop-titans.json) |
@@ -6937,6 +6939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Remix: Version 1.4.0 | 255787 | [255787-smash-remix-version-1-4-0.json](./255787-smash-remix-version-1-4-0.json) |
 | Smash Reversi | 167287 | [167287-smash-reversi.json](./167287-smash-reversi.json) |
 | Smash Rush | 127183 | [127183-smash-rush.json](./127183-smash-rush.json) |
+| Smash simulator | 320833 | [320833-smash-simulator.json](./320833-smash-simulator.json) |
 | Smash Table Tennis | 84880 | [84880-smash-table-tennis.json](./84880-smash-table-tennis.json) |
 | Smash Team | 61735 | [61735-smash-team.json](./61735-smash-team.json) |
 | Smash Therapy | 220598 | [220598-smash-therapy.json](./220598-smash-therapy.json) |
@@ -12733,6 +12736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Hunters | 301568 | [301568-steel-hunters.json](./301568-steel-hunters.json) |
 | Steel Invaders | 30417 | [30417-steel-invaders.json](./30417-steel-invaders.json) |
 | Steel Judgment | 329589 | [329589-steel-judgment.json](./329589-steel-judgment.json) |
+| Steel Knight's Armis | 320807 | [320807-steel-knights-armis.json](./320807-steel-knights-armis.json) |
 | Steel Lords | 57320 | [57320-steel-lords.json](./57320-steel-lords.json) |
 | Steel Machine | 46566 | [46566-steel-machine.json](./46566-steel-machine.json) |
 | Steel Manticore | 295016 | [295016-steel-manticore.json](./295016-steel-manticore.json) |
@@ -13492,6 +13496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategy & Tactics: Sandbox World War II TBS | 99992 | [99992-strategy-and-tactics-sandbox-world-war-ii-tbs.json](./99992-strategy-and-tactics-sandbox-world-war-ii-tbs.json) |
 | Strategy Battles​ | 221753 | [221753-strategy-battles.json](./221753-strategy-battles.json) |
 | Strategy Games | 84213 | [84213-strategy-games.json](./84213-strategy-games.json) |
+| Strategy Master | 320832 | [320832-strategy-master.json](./320832-strategy-master.json) |
 | Strategy Six-Pack | 86034 | [86034-strategy-six-pack.json](./86034-strategy-six-pack.json) |
 | Stratform | 181246 | [181246-stratform.json](./181246-stratform.json) |
 | Strato | 35955 | [35955-strato.json](./35955-strato.json) |
