@@ -116,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Day With Mochi | 323717 | [323717-a-day-with-mochi.json](./323717-a-day-with-mochi.json) |
 | A Day with the Wiggles | 273875 | [273875-a-day-with-the-wiggles.json](./273875-a-day-with-the-wiggles.json) |
 | A Day's Work | 307699 | [307699-a-days-work.json](./307699-a-days-work.json) |
+| A Death in the Red Light | 297761 | [297761-a-death-in-the-red-light.json](./297761-a-death-in-the-red-light.json) |
 | A Decade Outside | 186043 | [186043-a-decade-outside.json](./186043-a-decade-outside.json) |
 | A Demon's Game: Episode 1 | 30053 | [30053-a-demons-game-episode-1.json](./30053-a-demons-game-episode-1.json) |
 | A Desert Christmas Story | 235974 | [235974-a-desert-christmas-story.json](./235974-a-desert-christmas-story.json) |
@@ -129,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Directionless Cycle | 329236 | [329236-a-directionless-cycle.json](./329236-a-directionless-cycle.json) |
 | A Divided Light | 96766 | [96766-a-divided-light.json](./96766-a-divided-light.json) |
 | A Divine Wager | 176912 | [176912-a-divine-wager.json](./176912-a-divine-wager.json) |
+| A Doctor's Term | 297762 | [297762-a-doctors-term.json](./297762-a-doctors-term.json) |
 | A Dog Called Buddy | 341469 | [341469-a-dog-called-buddy.json](./341469-a-dog-called-buddy.json) |
 | A Dog Tale | 295872 | [295872-a-dog-tale.json](./295872-a-dog-tale.json) |
 | A Dogs Dream | 378434 | [378434-a-dogs-dream.json](./378434-a-dogs-dream.json) |
@@ -1143,6 +1145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acrobat Star Show | 108440 | [108440-acrobat-star-show.json](./108440-acrobat-star-show.json) |
 | AcroChallenge | 367506 | [367506-acrochallenge.json](./367506-acrochallenge.json) |
 | Acrodog | 185023 | [185023-acrodog.json](./185023-acrodog.json) |
+| Acroflow | 297760 | [297760-acroflow.json](./297760-acroflow.json) |
 | Acrofobic Lunchbreak | 26956 | [26956-acrofobic-lunchbreak.json](./26956-acrofobic-lunchbreak.json) |
 | Across | 172028 | [172028-across.json](./172028-across.json) |
 | Across | 30823 | [30823-across.json](./30823-across.json) |
@@ -1702,6 +1705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Affinity | 144199 | [144199-affinity.json](./144199-affinity.json) |
 | Affinity: Fallen from Paradise | 211262 | [211262-affinity-fallen-from-paradise.json](./211262-affinity-fallen-from-paradise.json) |
 | Affogato | 210654 | [210654-affogato.json](./210654-affogato.json) |
+| Affordable Healthcare | 297763 | [297763-affordable-healthcare.json](./297763-affordable-healthcare.json) |
 | Affraid | 385267 | [385267-affraid.json](./385267-affraid.json) |
 | AFK Champions | 193866 | [193866-afk-champions.json](./193866-afk-champions.json) |
 | AFK Dungeon | 266256 | [266256-afk-dungeon.json](./266256-afk-dungeon.json) |
@@ -2415,6 +2419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airships: Heroes and Villains | 244353 | [244353-airships-heroes-and-villains.json](./244353-airships-heroes-and-villains.json) |
 | Airsoft Allstars | 393023 | [393023-airsoft-allstars.json](./393023-airsoft-allstars.json) |
 | Airsoft Bomb | 102575 | [102575-airsoft-bomb.json](./102575-airsoft-bomb.json) |
+| Airsoft Online | 297765 | [297765-airsoft-online.json](./297765-airsoft-online.json) |
 | Airsoft Range | 312192 | [312192-airsoft-range.json](./312192-airsoft-range.json) |
 | Airstrife: Assault of the Aviators | 143691 | [143691-airstrife-assault-of-the-aviators.json](./143691-airstrife-assault-of-the-aviators.json) |
 | AirStrike 3D: Operation W.A.T. | 70123 | [70123-airstrike-3d-operation-w-a-t.json](./70123-airstrike-3d-operation-w-a-t.json) |
@@ -2686,6 +2691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemy Odyssey 2: Tears of the Elements | 417519 | [417519-alchemy-odyssey-2-tears-of-the-elements.json](./417519-alchemy-odyssey-2-tears-of-the-elements.json) |
 | Alchemy of Love | 214160 | [214160-alchemy-of-love.json](./214160-alchemy-of-love.json) |
 | Alchemy of the Earth | 288750 | [288750-alchemy-of-the-earth.json](./288750-alchemy-of-the-earth.json) |
+| Alchemy Pipes Puzzle | 297727 | [297727-alchemy-pipes-puzzle.json](./297727-alchemy-pipes-puzzle.json) |
 | Alchemy Quest | 135904 | [135904-alchemy-quest.json](./135904-alchemy-quest.json) |
 | Alchemy Story | 116544 | [116544-alchemy-story.json](./116544-alchemy-story.json) |
 | Alchemy Unbound | 293084 | [293084-alchemy-unbound.json](./293084-alchemy-unbound.json) |
@@ -8317,6 +8323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avenger | 109599 | [109599-avenger.json](./109599-avenger.json) |
 | Avenger | 280325 | [280325-avenger.json](./280325-avenger.json) |
 | Avenger | 91358 | [91358-avenger.json](./91358-avenger.json) |
+| Avengers: Laptop Infantil | 297740 | [297740-avengers-laptop-infantil.json](./297740-avengers-laptop-infantil.json) |
 | AvengeXX | 118836 | [118836-avengexx.json](./118836-avengexx.json) |
 | Avenging Angel Hikari Akeldama | 386973 | [386973-avenging-angel-hikari-akeldama.json](./386973-avenging-angel-hikari-akeldama.json) |
 | Avenir Tower | 332414 | [332414-avenir-tower.json](./332414-avenir-tower.json) |
