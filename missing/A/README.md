@@ -1530,6 +1530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Dimension of Insidual Cruelitude. | 218996 | [218996-adventures-in-the-dimension-of-insidual-cruelitude.json](./218996-adventures-in-the-dimension-of-insidual-cruelitude.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of Beetlejuice: Skeletons in the Closet | 50826 | [50826-adventures-of-beetlejuice-skeletons-in-the-closet.json](./50826-adventures-of-beetlejuice-skeletons-in-the-closet.json) |
 | Adventures of Ben: Rabbit Run | 248002 | [248002-adventures-of-ben-rabbit-run.json](./248002-adventures-of-ben-rabbit-run.json) |
@@ -1995,6 +1996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agile Firefighter | 207912 | [207912-agile-firefighter.json](./207912-agile-firefighter.json) |
 | AGIS | 239647 | [239647-agis.json](./239647-agis.json) |
 | Agnostic Requiem | 273363 | [273363-agnostic-requiem.json](./273363-agnostic-requiem.json) |
+| Agnostiko Origins | 305986 | [305986-agnostiko-origins.json](./305986-agnostiko-origins.json) |
 | Agon: The Lost Sword of Toledo | 9953 | [9953-agon-the-lost-sword-of-toledo.json](./9953-agon-the-lost-sword-of-toledo.json) |
 | Agonize | 187402 | [187402-agonize.json](./187402-agonize.json) |
 | Agony | 11890 | [11890-agony.json](./11890-agony.json) |
@@ -2248,6 +2250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Raiders | 11114 | [11114-air-raiders.json](./11114-air-raiders.json) |
 | Air Ranger 2: Rescue Helicopter | 68268 | [68268-air-ranger-2-rescue-helicopter.json](./68268-air-ranger-2-rescue-helicopter.json) |
 | Air Rescue | 45671 | [45671-air-rescue.json](./45671-air-rescue.json) |
+| Air Sea Modern Conflict | 305985 | [305985-air-sea-modern-conflict.json](./305985-air-sea-modern-conflict.json) |
 | Air Soccer Impossible | 234072 | [234072-air-soccer-impossible.json](./234072-air-soccer-impossible.json) |
 | Air Stacky | 291589 | [291589-air-stacky.json](./291589-air-stacky.json) |
 | Air Star | 239759 | [239759-air-star.json](./239759-air-star.json) |
@@ -5015,6 +5018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antares | 125343 | [125343-antares.json](./125343-antares.json) |
 | Antares | 132727 | [132727-antares.json](./132727-antares.json) |
 | Antartica | 400962 | [400962-antartica.json](./400962-antartica.json) |
+| Antcopter | 306036 | [306036-antcopter.json](./306036-antcopter.json) |
 | Anteater | 38523 | [38523-anteater.json](./38523-anteater.json) |
 | Antecrypt | 176341 | [176341-antecrypt.json](./176341-antecrypt.json) |
 | Antediluvian | 271251 | [271251-antediluvian.json](./271251-antediluvian.json) |
@@ -6250,6 +6254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argosy | 408092 | [408092-argosy.json](./408092-argosy.json) |
 | Argument Wars | 207833 | [207833-argument-wars.json](./207833-argument-wars.json) |
 | Argumentum Ad Culpam | 248012 | [248012-argumentum-ad-culpam.json](./248012-argumentum-ad-culpam.json) |
+| Argus | 306012 | [306012-argus.json](./306012-argus.json) |
 | Argus | 361325 | [361325-argus.json](./361325-argus.json) |
 | Argus | 363051 | [363051-argus.json](./363051-argus.json) |
 | Argus | 46762 | [46762-argus.json](./46762-argus.json) |
