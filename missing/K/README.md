@@ -874,6 +874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KenKen: Train Your Brain | 68022 | [68022-kenken-train-your-brain.json](./68022-kenken-train-your-brain.json) |
 | Kennedy Approach | 25920 | [25920-kennedy-approach.json](./25920-kennedy-approach.json) |
 | Kenny 7 | 253310 | [253310-kenny-7.json](./253310-kenny-7.json) |
+| Kenny vs. Spenny: Best Friends/Worst Enemies | 303697 | [303697-kenny-vs-spenny-best-friends-worst-enemies.json](./303697-kenny-vs-spenny-best-friends-worst-enemies.json) |
 | Kenny vs. Spenny: The Handheld Game | 395002 | [395002-kenny-vs-spenny-the-handheld-game.json](./395002-kenny-vs-spenny-the-handheld-game.json) |
 | Kenny vs. Spenny: Versusville | 303021 | [303021-kenny-vs-spenny-versusville.json](./303021-kenny-vs-spenny-versusville.json) |
 | Kenny's Adventure | 268204 | [268204-kennys-adventure.json](./268204-kennys-adventure.json) |
