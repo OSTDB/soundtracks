@@ -226,6 +226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Skills BMX 2 | 58785 | [58785-mad-skills-bmx-2.json](./58785-mad-skills-bmx-2.json) |
 | Mad Skills Motocross 2 | 103626 | [103626-mad-skills-motocross-2.json](./103626-mad-skills-motocross-2.json) |
 | Mad Skills Motocross 3 | 241639 | [241639-mad-skills-motocross-3.json](./241639-mad-skills-motocross-3.json) |
+| Mad Skills Motocross: Chasing the Dream | 292230 | [292230-mad-skills-motocross-chasing-the-dream.json](./292230-mad-skills-motocross-chasing-the-dream.json) |
 | Mad Stalker: Full Metal Force | 41408 | [41408-mad-stalker-full-metal-force.json](./41408-mad-stalker-full-metal-force.json) |
 | Mad Taxi | 153327 | [153327-mad-taxi.json](./153327-mad-taxi.json) |
 | Mad Taxi Simulator | 411739 | [411739-mad-taxi-simulator.json](./411739-mad-taxi-simulator.json) |
@@ -1505,6 +1506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mangchi the Hammer Boy | 240178 | [240178-mangchi-the-hammer-boy.json](./240178-mangchi-the-hammer-boy.json) |
 | Mango | 393833 | [393833-mango.json](./393833-mango.json) |
 | Mango 64 | 296972 | [296972-mango-64.json](./296972-mango-64.json) |
+| Mango Goes to Mewsic School | 292256 | [292256-mango-goes-to-mewsic-school.json](./292256-mango-goes-to-mewsic-school.json) |
 | Mango's Fisharium | 348890 | [348890-mangos-fisharium.json](./348890-mangos-fisharium.json) |
 | MangoMan | 183471 | [183471-mangoman.json](./183471-mangoman.json) |
 | ManHandler | 243689 | [243689-manhandler.json](./243689-manhandler.json) |
@@ -9281,6 +9283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mudness Offroad Car Simulator Runner | 345710 | [345710-mudness-offroad-car-simulator-runner.json](./345710-mudness-offroad-car-simulator-runner.json) |
 | Mudness Offroad: 4x4 Truck Car Simulator | 313210 | [313210-mudness-offroad-4x4-truck-car-simulator.json](./313210-mudness-offroad-4x4-truck-car-simulator.json) |
 | Mudoba | 236302 | [236302-mudoba.json](./236302-mudoba.json) |
+| Mudoku: Next Sudoku | 292267 | [292267-mudoku-next-sudoku.json](./292267-mudoku-next-sudoku.json) |
 | Mueitou: Shinsou-hen | 261203 | [261203-mueitou-shinsou-hen.json](./261203-mueitou-shinsou-hen.json) |
 | Muffin Knight | 9268 | [9268-muffin-knight.json](./9268-muffin-knight.json) |
 | Muffins on Stream | 239307 | [239307-muffins-on-stream.json](./239307-muffins-on-stream.json) |
@@ -9687,6 +9690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant League Football | 46254 | [46254-mutant-league-football.json](./46254-mutant-league-football.json) |
 | Mutant League Hockey | 46253 | [46253-mutant-league-hockey.json](./46253-mutant-league-hockey.json) |
 | Mutant Meltdown | 211148 | [211148-mutant-meltdown.json](./211148-mutant-meltdown.json) |
+| Mutant Monster Invasion | 292240 | [292240-mutant-monster-invasion.json](./292240-mutant-monster-invasion.json) |
 | Mutant Monty | 66711 | [66711-mutant-monty.json](./66711-mutant-monty.json) |
 | Mutant Mudds Collection + Xeodrifter | 248705 | [248705-mutant-mudds-collection-xeodrifter.json](./248705-mutant-mudds-collection-xeodrifter.json) |
 | Mutant Mudds Super Challenge | 20100 | [20100-mutant-mudds-super-challenge.json](./20100-mutant-mudds-super-challenge.json) |
@@ -10546,6 +10550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Adventure The Maid Did It | 402378 | [402378-mystery-adventure-the-maid-did-it.json](./402378-mystery-adventure-the-maid-did-it.json) |
 | Mystery at Rainy Night Manor: The Missing Invitation | 409657 | [409657-mystery-at-rainy-night-manor-the-missing-invitation.json](./409657-mystery-at-rainy-night-manor-the-missing-invitation.json) |
 | Mystery Box 4-in-1 Bundle | 328508 | [328508-mystery-box-4-in-1-bundle.json](./328508-mystery-box-4-in-1-bundle.json) |
+| Mystery Box 5: Elements | 292251 | [292251-mystery-box-5-elements.json](./292251-mystery-box-5-elements.json) |
 | Mystery Box: The Journey | 257360 | [257360-mystery-box-the-journey.json](./257360-mystery-box-the-journey.json) |
 | Mystery Case Files: Black Crown - Collector's Edition | 127100 | [127100-mystery-case-files-black-crown-collectors-edition.json](./127100-mystery-case-files-black-crown-collectors-edition.json) |
 | Mystery Case Files: Broken Hour | 56174 | [56174-mystery-case-files-broken-hour.json](./56174-mystery-case-files-broken-hour.json) |
