@@ -1339,6 +1339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Zelda: The Dual Mage | 323891 | [323891-legend-of-zelda-the-dual-mage.json](./323891-legend-of-zelda-the-dual-mage.json) |
 | Legend of Zero | 225601 | [225601-legend-of-zero.json](./225601-legend-of-zero.json) |
 | Legend of Zord | 341066 | [341066-legend-of-zord.json](./341066-legend-of-zord.json) |
+| Legend Pirates | 316729 | [316729-legend-pirates.json](./316729-legend-pirates.json) |
 | Legend Sang 1 | 374264 | [374264-legend-sang-1.json](./374264-legend-sang-1.json) |
 | Legend: Ashita he no Tsubasa | 334883 | [334883-legend-ashita-he-no-tsubasa.json](./334883-legend-ashita-he-no-tsubasa.json) |
 | Legend's Duty: The Rifted World | 397265 | [397265-legends-duty-the-rifted-world.json](./397265-legends-duty-the-rifted-world.json) |
@@ -2242,6 +2243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Stage, Virtual House | 37122 | [37122-life-stage-virtual-house.json](./37122-life-stage-virtual-house.json) |
 | Life The Game | 326720 | [326720-life-the-game.json](./326720-life-the-game.json) |
 | Life with Mary | 150513 | [150513-life-with-mary.json](./150513-life-with-mary.json) |
+| Life Without You | 316727 | [316727-life-without-you.json](./316727-life-without-you.json) |
 | Life-Term | 354581 | [354581-life-term.json](./354581-life-term.json) |
 | Life: The Game | 332839 | [332839-life-the-game.json](./332839-life-the-game.json) |
 | Life: the game of chance | 135686 | [135686-life-the-game-of-chance.json](./135686-life-the-game-of-chance.json) |
@@ -2322,6 +2324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Infantry | 161157 | [161157-light-infantry.json](./161157-light-infantry.json) |
 | Light Instinct | 357818 | [357818-light-instinct.json](./357818-light-instinct.json) |
 | Light Leak | 395170 | [395170-light-leak.json](./395170-light-leak.json) |
+| Light Magic 2 | 316683 | [316683-light-magic-2.json](./316683-light-magic-2.json) |
 | Light my Fear | 116435 | [116435-light-my-fear.json](./116435-light-my-fear.json) |
 | Light of Atlantis | 253915 | [253915-light-of-atlantis.json](./253915-light-of-atlantis.json) |
 | Light Of Chaos | 304361 | [304361-light-of-chaos.json](./304361-light-of-chaos.json) |
@@ -3775,6 +3778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of Gun | 40370 | [40370-lord-of-gun.json](./40370-lord-of-gun.json) |
 | Lord of Heroes | 137634 | [137634-lord-of-heroes.json](./137634-lord-of-heroes.json) |
 | Lord of Magna: Maiden Heaven | 20020 | [20020-lord-of-magna-maiden-heaven.json](./20020-lord-of-magna-maiden-heaven.json) |
+| Lord of Nazarick | 317316 | [317316-lord-of-nazarick.json](./317316-lord-of-nazarick.json) |
 | Lord of Ogre | 365078 | [365078-lord-of-ogre.json](./365078-lord-of-ogre.json) |
 | Lord of the Balrogs | 47225 | [47225-lord-of-the-balrogs.json](./47225-lord-of-the-balrogs.json) |
 | Lord of the Click 3 | 197410 | [197410-lord-of-the-click-3.json](./197410-lord-of-the-click-3.json) |
