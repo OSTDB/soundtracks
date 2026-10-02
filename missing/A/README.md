@@ -150,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Femboy Polished My Knob | 385245 | [385245-a-femboy-polished-my-knob.json](./385245-a-femboy-polished-my-knob.json) |
 | A Few Billion Square Tiles | 104687 | [104687-a-few-billion-square-tiles.json](./104687-a-few-billion-square-tiles.json) |
 | A Few Days With: Bianca | 329203 | [329203-a-few-days-with-bianca.json](./329203-a-few-days-with-bianca.json) |
+| A Few Days With: Emma | 326177 | [326177-a-few-days-with-emma.json](./326177-a-few-days-with-emma.json) |
 | A Few Days With: Olivia | 392955 | [392955-a-few-days-with-olivia.json](./392955-a-few-days-with-olivia.json) |
 | A Few Days With: The Fairies | 392953 | [392953-a-few-days-with-the-fairies.json](./392953-a-few-days-with-the-fairies.json) |
 | A Few Days With: Valentina | 337797 | [337797-a-few-days-with-valentina.json](./337797-a-few-days-with-valentina.json) |
@@ -2445,6 +2446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akazukin Dark Side | 150154 | [150154-akazukin-dark-side.json](./150154-akazukin-dark-side.json) |
 | AKB1/153: Renai Sousenkyo - Ultra Luxury Limited Box | 89867 | [89867-akb1-153-renai-sousenkyo-ultra-luxury-limited-box.json](./89867-akb1-153-renai-sousenkyo-ultra-luxury-limited-box.json) |
 | AKB1/48: Idol to Koishitara | 66373 | [66373-akb1-48-idol-to-koishitara.json](./66373-akb1-48-idol-to-koishitara.json) |
+| AKB48's Dobon! | 326139 | [326139-akb48s-dobon.json](./326139-akb48s-dobon.json) |
 | Akcionář II | 391053 | [391053-akcionar-ii.json](./391053-akcionar-ii.json) |
 | Akda | 81676 | [81676-akda.json](./81676-akda.json) |
 | Ake no Yosuga: Twilight Loop | 402477 | [402477-ake-no-yosuga-twilight-loop.json](./402477-ake-no-yosuga-twilight-loop.json) |
@@ -5903,6 +5905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archaeology: Egypt | 371480 | [371480-archaeology-egypt.json](./371480-archaeology-egypt.json) |
 | Archaeology: Grass Farm | 368559 | [368559-archaeology-grass-farm.json](./368559-archaeology-grass-farm.json) |
 | Archaeology: Grass Kingdom | 368562 | [368562-archaeology-grass-kingdom.json](./368562-archaeology-grass-kingdom.json) |
+| Archaeology: Sand Fantasy | 326174 | [326174-archaeology-sand-fantasy.json](./326174-archaeology-sand-fantasy.json) |
 | Archaid | 133211 | [133211-archaid.json](./133211-archaid.json) |
 | Archamon | 76077 | [76077-archamon.json](./76077-archamon.json) |
 | Archangel | 26504 | [26504-archangel.json](./26504-archangel.json) |
