@@ -3054,6 +3054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demonic Libido | 262427 | [262427-demonic-libido.json](./262427-demonic-libido.json) |
 | Demonk | 347239 | [347239-demonk.json](./347239-demonk.json) |
 | DeMonkey | 302122 | [302122-demonkey.json](./302122-demonkey.json) |
+| Demonology: Incubus - Chapter 5 | 319659 | [319659-demonology-incubus-chapter-5.json](./319659-demonology-incubus-chapter-5.json) |
 | Demonology: Incubus: Chapter 6 | 349987 | [349987-demonology-incubus-chapter-6.json](./349987-demonology-incubus-chapter-6.json) |
 | Demonology: Incubus: Chapter 7 | 350653 | [350653-demonology-incubus-chapter-7.json](./350653-demonology-incubus-chapter-7.json) |
 | Demonophobia | 195267 | [195267-demonophobia.json](./195267-demonophobia.json) |
@@ -5568,6 +5569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doggy | 262423 | [262423-doggy.json](./262423-doggy.json) |
 | Doggy | 304054 | [304054-doggy.json](./304054-doggy.json) |
 | Doggy Quest: The Dark Forest | 378410 | [378410-doggy-quest-the-dark-forest.json](./378410-doggy-quest-the-dark-forest.json) |
+| Doggy Waiter 2 | 319678 | [319678-doggy-waiter-2.json](./319678-doggy-waiter-2.json) |
 | DogHotel | 101582 | [101582-doghotel.json](./101582-doghotel.json) |
 | Doghouse 2 | 216167 | [216167-doghouse-2.json](./216167-doghouse-2.json) |
 | Doghouse 3 | 374756 | [374756-doghouse-3.json](./374756-doghouse-3.json) |
@@ -6219,6 +6221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom II: Japanese Community Project | 140048 | [140048-doom-ii-japanese-community-project.json](./140048-doom-ii-japanese-community-project.json) |
 | Doom II: Onna Shinkan Companion | 202835 | [202835-doom-ii-onna-shinkan-companion.json](./202835-doom-ii-onna-shinkan-companion.json) |
 | Doom II: The Sentinel's Lexicon | 202838 | [202838-doom-ii-the-sentinels-lexicon.json](./202838-doom-ii-the-sentinels-lexicon.json) |
+| Doom III | 319655 | [319655-doom-iii.json](./319655-doom-iii.json) |
 | Doom Incarnate | 201183 | [201183-doom-incarnate.json](./201183-doom-incarnate.json) |
 | Doom Raider: Crypt of the Vile | 256817 | [256817-doom-raider-crypt-of-the-vile.json](./256817-doom-raider-crypt-of-the-vile.json) |
 | Doom Rails | 16116 | [16116-doom-rails.json](./16116-doom-rails.json) |
@@ -6312,6 +6315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Door Runners | 417374 | [417374-door-runners.json](./417374-door-runners.json) |
 | Door Smasher | 153844 | [153844-door-smasher.json](./153844-door-smasher.json) |
 | Door XP | 178956 | [178956-door-xp.json](./178956-door-xp.json) |
+| Door4: Ultimatum | 319686 | [319686-door4-ultimatum.json](./319686-door4-ultimatum.json) |
 | Dooria | 158231 | [158231-dooria.json](./158231-dooria.json) |
 | Doorka | 346154 | [346154-doorka.json](./346154-doorka.json) |
 | Doors | 168388 | [168388-doors.json](./168388-doors.json) |
