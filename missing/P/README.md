@@ -1160,6 +1160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parasite Mutant | 370711 | [370711-parasite-mutant.json](./370711-parasite-mutant.json) |
 | Parasite Pack | 207292 | [207292-parasite-pack.json](./207292-parasite-pack.json) |
 | Parasited Will | 333060 | [333060-parasited-will.json](./333060-parasited-will.json) |
+| Parasites | 282840 | [282840-parasites.json](./282840-parasites.json) |
 | Parasitic Descent | 319117 | [319117-parasitic-descent.json](./319117-parasitic-descent.json) |
 | Parasitus: Ninja Zero | 93628 | [93628-parasitus-ninja-zero.json](./93628-parasitus-ninja-zero.json) |
 | Parasol Fall | 231632 | [231632-parasol-fall.json](./231632-parasol-fall.json) |
