@@ -169,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Science | 159176 | [159176-earth-science.json](./159176-earth-science.json) |
 | Earth Space Defenders | 373211 | [373211-earth-space-defenders.json](./373211-earth-space-defenders.json) |
 | Earth Taken | 362339 | [362339-earth-taken.json](./362339-earth-taken.json) |
+| Earth vs. Mars | 333779 | [333779-earth-vs-mars.json](./333779-earth-vs-mars.json) |
 | Earth, Fire, And Wind | 286044 | [286044-earth-fire-and-wind.json](./286044-earth-fire-and-wind.json) |
 | Earth: Revival | 215230 | [215230-earth-revival.json](./215230-earth-revival.json) |
 | Earth's Center of Gravity | 209667 | [209667-earths-center-of-gravity.json](./209667-earths-center-of-gravity.json) |
@@ -3901,6 +3902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyes First: Match Two | 210741 | [210741-eyes-first-match-two.json](./210741-eyes-first-match-two.json) |
 | Eyes First: Tile Slide | 210743 | [210743-eyes-first-tile-slide.json](./210743-eyes-first-tile-slide.json) |
 | Eyes of Darkness | 201583 | [201583-eyes-of-darkness.json](./201583-eyes-of-darkness.json) |
+| Eyes of Hellfire | 333788 | [333788-eyes-of-hellfire.json](./333788-eyes-of-hellfire.json) |
 | Eyes of Souls | 177948 | [177948-eyes-of-souls.json](./177948-eyes-of-souls.json) |
 | Eyes of the Factory | 408185 | [408185-eyes-of-the-factory.json](./408185-eyes-of-the-factory.json) |
 | Eyes of the Forest | 389087 | [389087-eyes-of-the-forest.json](./389087-eyes-of-the-forest.json) |
