@@ -1283,6 +1283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Golf | 13261 | [13261-virtual-golf.json](./13261-virtual-golf.json) |
 | Virtual Grand Prix 2 | 79281 | [79281-virtual-grand-prix-2.json](./79281-virtual-grand-prix-2.json) |
 | Virtual Gunman | 355117 | [355117-virtual-gunman.json](./355117-virtual-gunman.json) |
+| Virtual Happy Land | 329231 | [329231-virtual-happy-land.json](./329231-virtual-happy-land.json) |
 | Virtual Hero VR | 118995 | [118995-virtual-hero-vr.json](./118995-virtual-hero-vr.json) |
 | Virtual Hiryuu no Ken | 61162 | [61162-virtual-hiryuu-no-ken.json](./61162-virtual-hiryuu-no-ken.json) |
 | Virtual Horse Ranch II | 73250 | [73250-virtual-horse-ranch-ii.json](./73250-virtual-horse-ranch-ii.json) |
