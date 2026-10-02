@@ -286,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eat Me Alive | 218584 | [218584-eat-me-alive.json](./218584-eat-me-alive.json) |
 | Eat Me! | 301896 | [301896-eat-me.json](./301896-eat-me.json) |
 | Eat More Vegetables! | 157206 | [157206-eat-more-vegetables.json](./157206-eat-more-vegetables.json) |
+| Eat or Fight | 314950 | [314950-eat-or-fight.json](./314950-eat-or-fight.json) |
 | Eat the Fish 2016 | 90680 | [90680-eat-the-fish-2016.json](./90680-eat-the-fish-2016.json) |
 | Eat the Rich | 176802 | [176802-eat-the-rich.json](./176802-eat-the-rich.json) |
 | Eat the Rich | 285024 | [285024-eat-the-rich.json](./285024-eat-the-rich.json) |
@@ -1007,6 +1008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electric Crayon: Fun on the Farm | 73265 | [73265-electric-crayon-fun-on-the-farm.json](./73265-electric-crayon-fun-on-the-farm.json) |
 | Electric Crayon: This Land Is Your Land | 70335 | [70335-electric-crayon-this-land-is-your-land.json](./70335-electric-crayon-this-land-is-your-land.json) |
 | Electric Dreams | 313124 | [313124-electric-dreams.json](./313124-electric-dreams.json) |
+| Electric Fairyland | 314922 | [314922-electric-fairyland.json](./314922-electric-fairyland.json) |
 | Electric RC Sim | 101044 | [101044-electric-rc-sim.json](./101044-electric-rc-sim.json) |
 | Electric Road | 366422 | [366422-electric-road.json](./366422-electric-road.json) |
 | Electric Sheep | 406705 | [406705-electric-sheep.json](./406705-electric-sheep.json) |
@@ -3636,6 +3638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exitium | 131457 | [131457-exitium.json](./131457-exitium.json) |
 | Exitor | 230958 | [230958-exitor.json](./230958-exitor.json) |
 | Exitrance | 417537 | [417537-exitrance.json](./417537-exitrance.json) |
+| Exits | 314964 | [314964-exits.json](./314964-exits.json) |
 | Exive | 110551 | [110551-exive.json](./110551-exive.json) |
 | Exmortis | 196724 | [196724-exmortis.json](./196724-exmortis.json) |
 | EXO Encounter 667 | 179188 | [179188-exo-encounter-667.json](./179188-exo-encounter-667.json) |
