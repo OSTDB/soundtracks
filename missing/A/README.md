@@ -583,6 +583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Way to Die | 159854 | [159854-a-way-to-die.json](./159854-a-way-to-die.json) |
 | A Week | 223494 | [223494-a-week.json](./223494-a-week.json) |
 | A Week in the Cold | 132745 | [132745-a-week-in-the-cold.json](./132745-a-week-in-the-cold.json) |
+| A Week in the Life of Asocial Giraffe | 333220 | [333220-a-week-in-the-life-of-asocial-giraffe.json](./333220-a-week-in-the-life-of-asocial-giraffe.json) |
 | A Week in the Office: Under the Table | 154976 | [154976-a-week-in-the-office-under-the-table.json](./154976-a-week-in-the-office-under-the-table.json) |
 | A Week of Circus Terror | 32169 | [32169-a-week-of-circus-terror.json](./32169-a-week-of-circus-terror.json) |
 | A Weekend in Puzzleburg | 201680 | [201680-a-weekend-in-puzzleburg.json](./201680-a-weekend-in-puzzleburg.json) |
@@ -3254,6 +3255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alliance at War | 193992 | [193992-alliance-at-war.json](./193992-alliance-at-war.json) |
 | Alliance of the Sacred Suns | 120833 | [120833-alliance-of-the-sacred-suns.json](./120833-alliance-of-the-sacred-suns.json) |
 | Alliance of Valiant Arms | 16253 | [16253-alliance-of-valiant-arms.json](./16253-alliance-of-valiant-arms.json) |
+| Alliance Peacefighter | 333129 | [333129-alliance-peacefighter.json](./333129-alliance-peacefighter.json) |
 | Alliance Tales: Battle for the Frontier | 380568 | [380568-alliance-tales-battle-for-the-frontier.json](./380568-alliance-tales-battle-for-the-frontier.json) |
 | Alliance: Future Combat | 61681 | [61681-alliance-future-combat.json](./61681-alliance-future-combat.json) |
 | Alliance: Heroes of the Spire | 76545 | [76545-alliance-heroes-of-the-spire.json](./76545-alliance-heroes-of-the-spire.json) |
@@ -6578,6 +6580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artery Gear: Fusion | 152111 | [152111-artery-gear-fusion.json](./152111-artery-gear-fusion.json) |
 | Arthur and the Invisibles | 200689 | [200689-arthur-and-the-invisibles.json](./200689-arthur-and-the-invisibles.json) |
 | Arthur and the Revenge of Maltazard | 51155 | [51155-arthur-and-the-revenge-of-maltazard.json](./51155-arthur-and-the-revenge-of-maltazard.json) |
+| Arthur Loves Watermelon | 333132 | [333132-arthur-loves-watermelon.json](./333132-arthur-loves-watermelon.json) |
 | Arthur Owl's Word Block | 337839 | [337839-arthur-owls-word-block.json](./337839-arthur-owls-word-block.json) |
 | Arthur to Astaroth no Nazomakaimura: Incredible Toons | 45427 | [45427-arthur-to-astaroth-no-nazomakaimura-incredible-toons.json](./45427-arthur-to-astaroth-no-nazomakaimura-incredible-toons.json) |
 | Arthur Yahtzee: The Curse of Hell's Cheesecake | 217857 | [217857-arthur-yahtzee-the-curse-of-hells-cheesecake.json](./217857-arthur-yahtzee-the-curse-of-hells-cheesecake.json) |
