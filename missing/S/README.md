@@ -420,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saku Saku: Love Blooms with the Cherry Blossoms | 72366 | [72366-saku-saku-love-blooms-with-the-cherry-blossoms.json](./72366-saku-saku-love-blooms-with-the-cherry-blossoms.json) |
 | Saku the Covert Agent | 310181 | [310181-saku-the-covert-agent.json](./310181-saku-the-covert-agent.json) |
 | Sakumon | 412956 | [412956-sakumon.json](./412956-sakumon.json) |
+| Sakuna Chronicles: Kokorowa and the Gears of Creation | 322093 | [322093-sakuna-chronicles-kokorowa-and-the-gears-of-creation.json](./322093-sakuna-chronicles-kokorowa-and-the-gears-of-creation.json) |
 | Sakuna: Hinuka Junreitan | 359480 | [359480-sakuna-hinuka-junreitan.json](./359480-sakuna-hinuka-junreitan.json) |
 | Sakuna: Of Rice and Ruin - Collector's Edition | 139843 | [139843-sakuna-of-rice-and-ruin-collectors-edition.json](./139843-sakuna-of-rice-and-ruin-collectors-edition.json) |
 | Sakuna: Of Rice and Ruin - Digital Deluxe Edition | 169184 | [169184-sakuna-of-rice-and-ruin-digital-deluxe-edition.json](./169184-sakuna-of-rice-and-ruin-digital-deluxe-edition.json) |
@@ -5681,6 +5682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Situation Outbreak | 91456 | [91456-situation-outbreak.json](./91456-situation-outbreak.json) |
 | SituationCovid | 149416 | [149416-situationcovid.json](./149416-situationcovid.json) |
 | Sity | 202332 | [202332-sity.json](./202332-sity.json) |
+| Sivi's Factory | 322061 | [322061-sivis-factory.json](./322061-sivis-factory.json) |
 | SiviCity | 25608 | [25608-sivicity.json](./25608-sivicity.json) |
 | Six | 60012 | [60012-six.json](./60012-six.json) |
 | Six & Six | 392759 | [392759-six-and-six.json](./392759-six-and-six.json) |
@@ -9915,6 +9917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceman Sid | 330888 | [330888-spaceman-sid.json](./330888-spaceman-sid.json) |
 | Spaceman Sparkles 3 | 33242 | [33242-spaceman-sparkles-3.json](./33242-spaceman-sparkles-3.json) |
 | Spaceman Splorf: Planet of Doom | 58497 | [58497-spaceman-splorf-planet-of-doom.json](./58497-spaceman-splorf-planet-of-doom.json) |
+| Spaceman Wakes Up In A New World, The Government Has Been Experimenting On People On the Moon and Created Crazy Vine Monsters | 322081 | [322081-spaceman-wakes-up-in-a-new-world-the-government-has-been-experimenting-on-people-on-the-moon-and-created-crazy-vine-monsters.json](./322081-spaceman-wakes-up-in-a-new-world-the-government-has-been-experimenting-on-people-on-the-moon-and-created-crazy-vine-monsters.json) |
 | Spaceman's Luck | 404427 | [404427-spacemans-luck.json](./404427-spacemans-luck.json) |
 | Spacemancer | 200716 | [200716-spacemancer.json](./200716-spacemancer.json) |
 | SpaceMaster X-7 | 23844 | [23844-spacemaster-x-7.json](./23844-spacemaster-x-7.json) |
@@ -11023,6 +11026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spot It | 320341 | [320341-spot-it.json](./320341-spot-it.json) |
 | Spot Pool | 94717 | [94717-spot-pool.json](./94717-spot-pool.json) |
 | Spot the Cat | 378285 | [378285-spot-the-cat.json](./378285-spot-the-cat.json) |
+| Spot The Difference: Christmas Edition | 322074 | [322074-spot-the-difference-christmas-edition.json](./322074-spot-the-difference-christmas-edition.json) |
 | Spot The Difference: Classic Finding Puzzle | 324123 | [324123-spot-the-difference-classic-finding-puzzle.json](./324123-spot-the-difference-classic-finding-puzzle.json) |
 | Spot the Difference: Ukiyo-e Thirty-six Views of Mt. Fuji | 316242 | [316242-spot-the-difference-ukiyo-e-thirty-six-views-of-mt-fuji.json](./316242-spot-the-difference-ukiyo-e-thirty-six-views-of-mt-fuji.json) |
 | Spot the Differences | 44502 | [44502-spot-the-differences.json](./44502-spot-the-differences.json) |
@@ -14413,6 +14417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suigetsu 2 | 93515 | [93515-suigetsu-2.json](./93515-suigetsu-2.json) |
 | Suigetsu: Mayoi-Gokoro | 396592 | [396592-suigetsu-mayoi-gokoro.json](./396592-suigetsu-mayoi-gokoro.json) |
 | Suika | 132085 | [132085-suika.json](./132085-suika.json) |
+| Suika Animal Kingdom | 322066 | [322066-suika-animal-kingdom.json](./322066-suika-animal-kingdom.json) |
 | Suika Dish More Plates | 276166 | [276166-suika-dish-more-plates.json](./276166-suika-dish-more-plates.json) |
 | Suika Game | 221740 | [221740-suika-game.json](./221740-suika-game.json) |
 | Suika Game Planet | 366891 | [366891-suika-game-planet.json](./366891-suika-game-planet.json) |
