@@ -1402,6 +1402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cart Panic! OS: E-Commerce Tycoon | 402494 | [402494-cart-panic-os-e-commerce-tycoon.json](./402494-cart-panic-os-e-commerce-tycoon.json) |
 | Cart Precision Racing | 627 | [627-cart-precision-racing.json](./627-cart-precision-racing.json) |
 | Cart Racing | 93163 | [93163-cart-racing.json](./93163-cart-racing.json) |
+| Cart To The End | 306598 | [306598-cart-to-the-end.json](./306598-cart-to-the-end.json) |
 | Cartagra: First Press Limited Edition | 388046 | [388046-cartagra-first-press-limited-edition.json](./388046-cartagra-first-press-limited-edition.json) |
 | Cartagra: Tsuki Kurui no Yamai - Rebirth FHD Size Edition | 150033 | [150033-cartagra-tsuki-kurui-no-yamai-rebirth-fhd-size-edition.json](./150033-cartagra-tsuki-kurui-no-yamai-rebirth-fhd-size-edition.json) |
 | Cartapli: Fold Quest | 386834 | [386834-cartapli-fold-quest.json](./386834-cartapli-fold-quest.json) |
@@ -5287,6 +5288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coca-Cola Lawnmower | 329722 | [329722-coca-cola-lawnmower.json](./329722-coca-cola-lawnmower.json) |
 | Cocaine McBain | 185007 | [185007-cocaine-mcbain.json](./185007-cocaine-mcbain.json) |
 | Cochonnet | 382750 | [382750-cochonnet.json](./382750-cochonnet.json) |
+| Cock | 306612 | [306612-cock.json](./306612-cock.json) |
 | Cock Soccer | 291608 | [291608-cock-soccer.json](./291608-cock-soccer.json) |
 | Cock-A-Doodle-Doo | 151628 | [151628-cock-a-doodle-doo.json](./151628-cock-a-doodle-doo.json) |
 | Cockatrice Attacking the city | 120970 | [120970-cockatrice-attacking-the-city.json](./120970-cockatrice-attacking-the-city.json) |
@@ -6303,6 +6305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Compress(Space) | 346199 | [346199-compress-space.json](./346199-compress-space.json) |
 | Compression | 345664 | [345664-compression.json](./345664-compression.json) |
 | Compromised | 79596 | [79596-compromised.json](./79596-compromised.json) |
+| Compton's Interactive Encyclopedia | 306581 | [306581-comptons-interactive-encyclopedia.json](./306581-comptons-interactive-encyclopedia.json) |
 | Compu-Tron x3000 | 338291 | [338291-compu-tron-x3000.json](./338291-compu-tron-x3000.json) |
 | CompuChess | 91563 | [91563-compuchess.json](./91563-compuchess.json) |
 | Compulsive | 250661 | [250661-compulsive.json](./250661-compulsive.json) |
@@ -6729,6 +6732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contra 4 | 9545 | [9545-contra-4.json](./9545-contra-4.json) |
 | Contra Advance: The Alien Wars EX | 49158 | [49158-contra-advance-the-alien-wars-ex.json](./49158-contra-advance-the-alien-wars-ex.json) |
 | Contra Force | 24978 | [24978-contra-force.json](./24978-contra-force.json) |
+| Contra Online | 306610 | [306610-contra-online.json](./306610-contra-online.json) |
 | Contra Run & Gun Bundle | 317236 | [317236-contra-run-and-gun-bundle.json](./317236-contra-run-and-gun-bundle.json) |
 | Contra SNES | 377741 | [377741-contra-snes.json](./377741-contra-snes.json) |
 | Contra Spirits | 242088 | [242088-contra-spirits.json](./242088-contra-spirits.json) |
@@ -8454,6 +8458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criss Cross | 152756 | [152756-criss-cross.json](./152756-criss-cross.json) |
 | Criss Cross | 67520 | [67520-criss-cross.json](./67520-criss-cross.json) |
 | Criss Cross Bomb | 322064 | [322064-criss-cross-bomb.json](./322064-criss-cross-bomb.json) |
+| Crista Caelestis | 306573 | [306573-crista-caelestis.json](./306573-crista-caelestis.json) |
 | Cristal Absoluto | 411734 | [411734-cristal-absoluto.json](./411734-cristal-absoluto.json) |
 | Criteria | 326203 | [326203-criteria.json](./326203-criteria.json) |
 | Critias Empire | 197123 | [197123-critias-empire.json](./197123-critias-empire.json) |
