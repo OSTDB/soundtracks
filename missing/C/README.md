@@ -1970,6 +1970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cataclysm | 308268 | [308268-cataclysm.json](./308268-cataclysm.json) |
 | Cataclysm Upon Us | 274771 | [274771-cataclysm-upon-us.json](./274771-cataclysm-upon-us.json) |
 | Cataclysm: Bright Nights | 194968 | [194968-cataclysm-bright-nights.json](./194968-cataclysm-bright-nights.json) |
+| Cataclysm: Even Angels Sin | 307238 | [307238-cataclysm-even-angels-sin.json](./307238-cataclysm-even-angels-sin.json) |
 | Catacomb | 11042 | [11042-catacomb.json](./11042-catacomb.json) |
 | Catacomb | 380060 | [380060-catacomb.json](./380060-catacomb.json) |
 | Catacomb Abyss 3D | 11044 | [11044-catacomb-abyss-3d.json](./11044-catacomb-abyss-3d.json) |
@@ -3155,6 +3156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cherry Tree High Girls' Fight | 33094 | [33094-cherry-tree-high-girls-fight.json](./33094-cherry-tree-high-girls-fight.json) |
 | Cherry Tree High I! My! Girls! | 36156 | [36156-cherry-tree-high-i-my-girls.json](./36156-cherry-tree-high-i-my-girls.json) |
 | Cherry VX | 161380 | [161380-cherry-vx.json](./161380-cherry-vx.json) |
+| Cherry's Joi | 307209 | [307209-cherrys-joi.json](./307209-cherrys-joi.json) |
 | Cherrywitched! | 246070 | [246070-cherrywitched.json](./246070-cherrywitched.json) |
 | Chesh | 15551 | [15551-chesh.json](./15551-chesh.json) |
 | Chess | 128646 | [128646-chess.json](./128646-chess.json) |
@@ -6400,6 +6402,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Condominium: No Exit | 411793 | [411793-condominium-no-exit.json](./411793-condominium-no-exit.json) |
 | Condor | 47268 | [47268-condor.json](./47268-condor.json) |
 | Condor 3 | 327922 | [327922-condor-3.json](./327922-condor-3.json) |
+| Conduct Together!: Track Pack | 307246 | [307246-conduct-together-track-pack.json](./307246-conduct-together-track-pack.json) |
+| Conduct Together!: Track Pack 2 | 307247 | [307247-conduct-together-track-pack-2.json](./307247-conduct-together-track-pack-2.json) |
 | Conductor | 179599 | [179599-conductor.json](./179599-conductor.json) |
 | Conductor & Abode | 52831 | [52831-conductor-and-abode.json](./52831-conductor-and-abode.json) |
 | Conductor Cat | 335364 | [335364-conductor-cat.json](./335364-conductor-cat.json) |
