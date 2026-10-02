@@ -266,6 +266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms Abyss | 253419 | [253419-backrooms-abyss.json](./253419-backrooms-abyss.json) |
 | Backrooms Anomaly | 374836 | [374836-backrooms-anomaly.json](./374836-backrooms-anomaly.json) |
 | Backrooms Blackmarket | 348848 | [348848-backrooms-blackmarket.json](./348848-backrooms-blackmarket.json) |
+| Backrooms Cats and Lava | 304830 | [304830-backrooms-cats-and-lava.json](./304830-backrooms-cats-and-lava.json) |
 | Backrooms Cycle | 235470 | [235470-backrooms-cycle.json](./235470-backrooms-cycle.json) |
 | Backrooms Cycle | 256781 | [256781-backrooms-cycle.json](./256781-backrooms-cycle.json) |
 | Backrooms Descent | 236363 | [236363-backrooms-descent.json](./236363-backrooms-descent.json) |
@@ -7878,6 +7879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutal Doom 64 | 25583 | [25583-brutal-doom-64.json](./25583-brutal-doom-64.json) |
 | Brutal Doom: Ali Jr's Challenge | 199067 | [199067-brutal-doom-ali-jrs-challenge.json](./199067-brutal-doom-ali-jrs-challenge.json) |
 | Brutal Inventions | 88003 | [88003-brutal-inventions.json](./88003-brutal-inventions.json) |
+| Brutal Katana | 304832 | [304832-brutal-katana.json](./304832-brutal-katana.json) |
 | Brutal Mario | 132862 | [132862-brutal-mario.json](./132862-brutal-mario.json) |
 | Brutal MooD | 95589 | [95589-brutal-mood.json](./95589-brutal-mood.json) |
 | Brutal Rage | 132657 | [132657-brutal-rage.json](./132657-brutal-rage.json) |
@@ -8428,6 +8430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BumbleTales | 294740 | [294740-bumbletales.json](./294740-bumbletales.json) |
 | Bumbling Builders | 176971 | [176971-bumbling-builders.json](./176971-bumbling-builders.json) |
 | BumFight! | 69221 | [69221-bumfight.json](./69221-bumfight.json) |
+| Bump | 304821 | [304821-bump.json](./304821-bump.json) |
 | Bump 'N' Burn | 14353 | [14353-bump-n-burn.json](./14353-bump-n-burn.json) |
 | Bump and Run Racing | 265396 | [265396-bump-and-run-racing.json](./265396-bump-and-run-racing.json) |
 | Bump Battle Royale | 198822 | [198822-bump-battle-royale.json](./198822-bump-battle-royale.json) |
