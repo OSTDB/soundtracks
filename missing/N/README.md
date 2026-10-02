@@ -75,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nairobi X | 139890 | [139890-nairobi-x.json](./139890-nairobi-x.json) |
 | NaissanceE | 8116 | [8116-naissancee.json](./8116-naissancee.json) |
 | Naisu Gaisu Survivors | 305871 | [305871-naisu-gaisu-survivors.json](./305871-naisu-gaisu-survivors.json) |
+| Naive Novel | 297744 | [297744-naive-novel.json](./297744-naive-novel.json) |
 | Naive Riri | 236511 | [236511-naive-riri.json](./236511-naive-riri.json) |
 | Nak | 330344 | [330344-nak.json](./330344-nak.json) |
 | Nak Sim: Fallen Warriors | 153380 | [153380-nak-sim-fallen-warriors.json](./153380-nak-sim-fallen-warriors.json) |
@@ -3258,6 +3259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonogram: Master's Legacy - The Greatest Pack | 161739 | [161739-nonogram-masters-legacy-the-greatest-pack.json](./161739-nonogram-masters-legacy-the-greatest-pack.json) |
 | Nonogram: Master's Legacy - The Speed Pack | 349415 | [349415-nonogram-masters-legacy-the-speed-pack.json](./349415-nonogram-masters-legacy-the-speed-pack.json) |
 | Nonograms | 233466 | [233466-nonograms.json](./233466-nonograms.json) |
+| Nonograms: Ammunition | 297730 | [297730-nonograms-ammunition.json](./297730-nonograms-ammunition.json) |
 | Nonolith | 321176 | [321176-nonolith.json](./321176-nonolith.json) |
 | Nonomatic | 371453 | [371453-nonomatic.json](./371453-nonomatic.json) |
 | Nonononogram | 343313 | [343313-nonononogram.json](./343313-nonononogram.json) |
