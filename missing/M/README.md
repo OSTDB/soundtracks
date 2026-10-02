@@ -2652,6 +2652,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Pieces Jigsaw Puzzle: Welcome to Slumberland | 312706 | [312706-master-of-pieces-jigsaw-puzzle-welcome-to-slumberland.json](./312706-master-of-pieces-jigsaw-puzzle-welcome-to-slumberland.json) |
 | Master of Pieces Jigsaw Puzzle: Winter Wonders | 357936 | [357936-master-of-pieces-jigsaw-puzzle-winter-wonders.json](./357936-master-of-pieces-jigsaw-puzzle-winter-wonders.json) |
 | Master of Pieces Jigsaw Puzzle: Women's Day | 357935 | [357935-master-of-pieces-jigsaw-puzzle-womens-day.json](./357935-master-of-pieces-jigsaw-puzzle-womens-day.json) |
+| Master of Pieces Jigsaw Puzzles: Butterflies | 303687 | [303687-master-of-pieces-jigsaw-puzzles-butterflies.json](./303687-master-of-pieces-jigsaw-puzzles-butterflies.json) |
+| Master of Pieces Jigsaw Puzzles: Cats | 303690 | [303690-master-of-pieces-jigsaw-puzzles-cats.json](./303690-master-of-pieces-jigsaw-puzzles-cats.json) |
+| Master of Pieces Jigsaw Puzzles: Christmas 2021 | 303688 | [303688-master-of-pieces-jigsaw-puzzles-christmas-2021.json](./303688-master-of-pieces-jigsaw-puzzles-christmas-2021.json) |
+| Master of Pieces Jigsaw Puzzles: Fantasy | 303691 | [303691-master-of-pieces-jigsaw-puzzles-fantasy.json](./303691-master-of-pieces-jigsaw-puzzles-fantasy.json) |
+| Master of Pieces Jigsaw Puzzles: Good Old Christmas | 303692 | [303692-master-of-pieces-jigsaw-puzzles-good-old-christmas.json](./303692-master-of-pieces-jigsaw-puzzles-good-old-christmas.json) |
+| Master of Pieces Jigsaw Puzzles: Impossibles #1 | 303685 | [303685-master-of-pieces-jigsaw-puzzles-impossibles-1.json](./303685-master-of-pieces-jigsaw-puzzles-impossibles-1.json) |
+| Master of Pieces Jigsaw Puzzles: Mandalas Part 1 | 303693 | [303693-master-of-pieces-jigsaw-puzzles-mandalas-part-1.json](./303693-master-of-pieces-jigsaw-puzzles-mandalas-part-1.json) |
+| Master of Pieces Jigsaw Puzzles: Reflections. Part 1 | 303694 | [303694-master-of-pieces-jigsaw-puzzles-reflections-part-1.json](./303694-master-of-pieces-jigsaw-puzzles-reflections-part-1.json) |
+| Master of Pieces Jigsaw Puzzles: Still Life #1 | 303684 | [303684-master-of-pieces-jigsaw-puzzles-still-life-1.json](./303684-master-of-pieces-jigsaw-puzzles-still-life-1.json) |
+| Master of Pieces Jigsaw Puzzles: Ukraine | 303689 | [303689-master-of-pieces-jigsaw-puzzles-ukraine.json](./303689-master-of-pieces-jigsaw-puzzles-ukraine.json) |
+| Master of Pieces Jigsaw Puzzles: Winter Tale | 303686 | [303686-master-of-pieces-jigsaw-puzzles-winter-tale.json](./303686-master-of-pieces-jigsaw-puzzles-winter-tale.json) |
 | Master of Pieces: Jigsaw Puzzle - Beautiful Nonsense | 288914 | [288914-master-of-pieces-jigsaw-puzzle-beautiful-nonsense.json](./288914-master-of-pieces-jigsaw-puzzle-beautiful-nonsense.json) |
 | Master of Pieces: Jigsaw Puzzle - Bonsai | 293065 | [293065-master-of-pieces-jigsaw-puzzle-bonsai.json](./293065-master-of-pieces-jigsaw-puzzle-bonsai.json) |
 | Master of Pieces: Jigsaw Puzzle - Glass Dreams | 303649 | [303649-master-of-pieces-jigsaw-puzzle-glass-dreams.json](./303649-master-of-pieces-jigsaw-puzzle-glass-dreams.json) |
