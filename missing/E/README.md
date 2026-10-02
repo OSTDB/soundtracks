@@ -2218,6 +2218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epido | 127947 | [127947-epido.json](./127947-epido.json) |
 | Epido: Second Move | 127946 | [127946-epido-second-move.json](./127946-epido-second-move.json) |
 | Epigenesis | 16576 | [16576-epigenesis.json](./16576-epigenesis.json) |
+| Epigraph | 287857 | [287857-epigraph.json](./287857-epigraph.json) |
 | Epimutation | 338835 | [338835-epimutation.json](./338835-epimutation.json) |
 | Epiphany in Spaaace! | 66356 | [66356-epiphany-in-spaaace.json](./66356-epiphany-in-spaaace.json) |
 | Episode | 369114 | [369114-episode.json](./369114-episode.json) |
