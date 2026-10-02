@@ -3261,6 +3261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin 2 | 2240 | [2240-pikmin-2.json](./2240-pikmin-2.json) |
 | Pikmin 2 | 254335 | [254335-pikmin-2.json](./254335-pikmin-2.json) |
 | Pikmin 2 | 84697 | [84697-pikmin-2.json](./84697-pikmin-2.json) |
+| Pikmin 2 Hallows Haunt | 291158 | [291158-pikmin-2-hallows-haunt.json](./291158-pikmin-2-hallows-haunt.json) |
 | Pikmin 2 Kaizo Edition | 291560 | [291560-pikmin-2-kaizo-edition.json](./291560-pikmin-2-kaizo-edition.json) |
 | Pikmin 2 Lands of Torture | 292126 | [292126-pikmin-2-lands-of-torture.json](./292126-pikmin-2-lands-of-torture.json) |
 | Pikmin 2 Maps in Pikmin 3 | 294792 | [294792-pikmin-2-maps-in-pikmin-3.json](./294792-pikmin-2-maps-in-pikmin-3.json) |
@@ -4915,6 +4916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please Ignore The Anomalies | 412277 | [412277-please-ignore-the-anomalies.json](./412277-please-ignore-the-anomalies.json) |
 | Please Leave a Message | 259577 | [259577-please-leave-a-message.json](./259577-please-leave-a-message.json) |
 | Please Leave Me Alone | 301948 | [301948-please-leave-me-alone.json](./301948-please-leave-me-alone.json) |
+| Please Leave Me Alone, I Need to Poop | 291187 | [291187-please-leave-me-alone-i-need-to-poop.json](./291187-please-leave-me-alone-i-need-to-poop.json) |
 | Please Praise the SR Girls! | 419937 | [419937-please-praise-the-sr-girls.json](./419937-please-praise-the-sr-girls.json) |
 | Please read me | 229789 | [229789-please-read-me.json](./229789-please-read-me.json) |
 | Please Say Hi | 341568 | [341568-please-say-hi.json](./341568-please-say-hi.json) |
@@ -8082,6 +8084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protect the campus | 123502 | [123502-protect-the-campus.json](./123502-protect-the-campus.json) |
 | Protect the Grimoire | 413133 | [413133-protect-the-grimoire.json](./413133-protect-the-grimoire.json) |
 | Protect the Planet | 257969 | [257969-protect-the-planet.json](./257969-protect-the-planet.json) |
+| Protect The Town: Armageddon | 291165 | [291165-protect-the-town-armageddon.json](./291165-protect-the-town-armageddon.json) |
 | Protect Your Gold From Barack Obama | 313343 | [313343-protect-your-gold-from-barack-obama.json](./313343-protect-your-gold-from-barack-obama.json) |
 | Protect Zoey from the Zombies | 98595 | [98595-protect-zoey-from-the-zombies.json](./98595-protect-zoey-from-the-zombies.json) |
 | ProtectHeart | 286036 | [286036-protectheart.json](./286036-protectheart.json) |
