@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mace Knight | 391572 | [391572-mace-knight.json](./391572-mace-knight.json) |
 | Mace: The Dark Age | 3535 | [3535-mace-the-dark-age.json](./3535-mace-the-dark-age.json) |
 | MacGuffin | 34526 | [34526-macguffin.json](./34526-macguffin.json) |
+| Mach K9 | 300348 | [300348-mach-k9.json](./300348-mach-k9.json) |
 | Mach's noch einmal, Sven | 206794 | [206794-machs-noch-einmal-sven.json](./206794-machs-noch-einmal-sven.json) |
 | Machi | 279747 | [279747-machi.json](./279747-machi.json) |
 | Machi Knights: Blood Bagos | 115662 | [115662-machi-knights-blood-bagos.json](./115662-machi-knights-blood-bagos.json) |
@@ -2090,6 +2091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Mystery Meat | 174730 | [174730-marios-mystery-meat.json](./174730-marios-mystery-meat.json) |
 | Mario's Orange Lavaburst Adventure | 328659 | [328659-marios-orange-lavaburst-adventure.json](./328659-marios-orange-lavaburst-adventure.json) |
 | Mario's Picross | 71976 | [71976-marios-picross.json](./71976-marios-picross.json) |
+| Mario's Point and Click 64 | 300267 | [300267-marios-point-and-click-64.json](./300267-marios-point-and-click-64.json) |
 | Mario's Pride: Mini Quest | 254516 | [254516-marios-pride-mini-quest.json](./254516-marios-pride-mini-quest.json) |
 | Mario's Rules: Variety on 3 | 323748 | [323748-marios-rules-variety-on-3.json](./323748-marios-rules-variety-on-3.json) |
 | Mario's Slightly Unusual Boss Rush | 318497 | [318497-marios-slightly-unusual-boss-rush.json](./318497-marios-slightly-unusual-boss-rush.json) |
@@ -6843,6 +6845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misuzu no Kuni | 341591 | [341591-misuzu-no-kuni.json](./341591-misuzu-no-kuni.json) |
 | Miszou | 224752 | [224752-miszou.json](./224752-miszou.json) |
 | MitchiriNeko Bubble | 228544 | [228544-mitchirineko-bubble.json](./228544-mitchirineko-bubble.json) |
+| Mite ha Ikenai | 300344 | [300344-mite-ha-ikenai.json](./300344-mite-ha-ikenai.json) |
 | Mithra | 285485 | [285485-mithra.json](./285485-mithra.json) |
 | Mithra Episode 1: The Calling | 359065 | [359065-mithra-episode-1-the-calling.json](./359065-mithra-episode-1-the-calling.json) |
 | Mithraeum | 213622 | [213622-mithraeum.json](./213622-mithraeum.json) |
@@ -8602,6 +8605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mother 3 | 3683 | [3683-mother-3.json](./3683-mother-3.json) |
 | Mother 3.5 | 310951 | [310951-mother-3-5.json](./310951-mother-3-5.json) |
 | Mother 4 | 186042 | [186042-mother-4.json](./186042-mother-4.json) |
+| Mother 4 | 300351 | [300351-mother-4.json](./300351-mother-4.json) |
 | Mother Christmas | 394818 | [394818-mother-christmas.json](./394818-mother-christmas.json) |
 | Mother Fucker Galaxy | 254523 | [254523-mother-fucker-galaxy.json](./254523-mother-fucker-galaxy.json) |
 | Mother Is Gone | 180843 | [180843-mother-is-gone.json](./180843-mother-is-gone.json) |
@@ -9293,6 +9297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multi Sports | 94688 | [94688-multi-sports.json](./94688-multi-sports.json) |
 | Multi Sports II | 301579 | [301579-multi-sports-ii.json](./301579-multi-sports-ii.json) |
 | Multi Theft Auto | 140059 | [140059-multi-theft-auto.json](./140059-multi-theft-auto.json) |
+| Multi's Going Out | 300271 | [300271-multis-going-out.json](./300271-multis-going-out.json) |
 | Multibowl | 239313 | [239313-multibowl.json](./239313-multibowl.json) |
 | Multicraft | 39187 | [39187-multicraft.json](./39187-multicraft.json) |
 | Multicrash! | 290712 | [290712-multicrash.json](./290712-multicrash.json) |
