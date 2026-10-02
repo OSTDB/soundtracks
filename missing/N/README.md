@@ -3395,6 +3395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nostromo's Run | 274197 | [274197-nostromos-run.json](./274197-nostromos-run.json) |
 | Nosy | 205112 | [205112-nosy.json](./205112-nosy.json) |
 | Not 4 Usual Games | 182912 | [182912-not-4-usual-games.json](./182912-not-4-usual-games.json) |
+| Not A Banana: Capybara | 312610 | [312610-not-a-banana-capybara.json](./312610-not-a-banana-capybara.json) |
 | Not a Creature Was Stirring... | 177435 | [177435-not-a-creature-was-stirring.json](./177435-not-a-creature-was-stirring.json) |
 | Not a Crow | 394553 | [394553-not-a-crow.json](./394553-not-a-crow.json) |
 | Not a Customer | 406711 | [406711-not-a-customer.json](./406711-not-a-customer.json) |
