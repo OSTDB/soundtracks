@@ -1117,6 +1117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Das Boot: German U-Boat Simulation | 14332 | [14332-das-boot-german-u-boat-simulation.json](./14332-das-boot-german-u-boat-simulation.json) |
 | Das Erbe | 86037 | [86037-das-erbe.json](./86037-das-erbe.json) |
 | Das Geheimnis der Ägyptischen Mumie | 92285 | [92285-das-geheimnis-der-agyptischen-mumie.json](./92285-das-geheimnis-der-agyptischen-mumie.json) |
+| Das Magische Labyrinth | 301499 | [301499-das-magische-labyrinth.json](./301499-das-magische-labyrinth.json) |
 | Das Milliarden-Quiz | 94533 | [94533-das-milliarden-quiz.json](./94533-das-milliarden-quiz.json) |
 | Das neue Dr. Brain Gehirn Jogging Vol.2 | 98815 | [98815-das-neue-dr-brain-gehirn-jogging-vol-2.json](./98815-das-neue-dr-brain-gehirn-jogging-vol-2.json) |
 | Das neue Dr.Brain Gehirnjogging Vol.3 | 98805 | [98805-das-neue-dr-brain-gehirnjogging-vol-3.json](./98805-das-neue-dr-brain-gehirnjogging-vol-3.json) |
@@ -4007,6 +4008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diary of Broken Dreams | 193327 | [193327-diary-of-broken-dreams.json](./193327-diary-of-broken-dreams.json) |
 | Diary of Defender | 104800 | [104800-diary-of-defender.json](./104800-diary-of-defender.json) |
 | Diaspora | 191125 | [191125-diaspora.json](./191125-diaspora.json) |
+| Diatomic | 301531 | [301531-diatomic.json](./301531-diatomic.json) |
 | Diatris | 183524 | [183524-diatris.json](./183524-diatris.json) |
 | Diavolo no Daibouken | 219042 | [219042-diavolo-no-daibouken.json](./219042-diavolo-no-daibouken.json) |
 | Dib's Nanochase | 191879 | [191879-dibs-nanochase.json](./191879-dibs-nanochase.json) |
@@ -4326,6 +4328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon World Re:Digitize Decode | 80507 | [80507-digimon-world-re-digitize-decode.json](./80507-digimon-world-re-digitize-decode.json) |
 | Digimon World Vice | 339254 | [339254-digimon-world-vice.json](./339254-digimon-world-vice.json) |
 | Digimon: Heroic Battle Spirit | 332590 | [332590-digimon-heroic-battle-spirit.json](./332590-digimon-heroic-battle-spirit.json) |
+| Digiquad | 301500 | [301500-digiquad.json](./301500-digiquad.json) |
 | Digit & Dash | 60255 | [60255-digit-and-dash.json](./60255-digit-and-dash.json) |
 | Digit Daze | 101350 | [101350-digit-daze.json](./101350-digit-daze.json) |
 | Digit Factory | 221128 | [221128-digit-factory.json](./221128-digit-factory.json) |
