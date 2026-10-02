@@ -1678,6 +1678,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reaver | 194429 | [194429-reaver.json](./194429-reaver.json) |
 | Reavers of New Rome | 138133 | [138133-reavers-of-new-rome.json](./138133-reavers-of-new-rome.json) |
 | Rebadge | 397096 | [397096-rebadge.json](./397096-rebadge.json) |
+| Rebaixados Elite Brasil | 282828 | [282828-rebaixados-elite-brasil.json](./282828-rebaixados-elite-brasil.json) |
+| Rebaixados Elite Brasil Clássicos | 282837 | [282837-rebaixados-elite-brasil-classicos.json](./282837-rebaixados-elite-brasil-classicos.json) |
 | Reball | 68931 | [68931-reball.json](./68931-reball.json) |
 | Rebel | 52756 | [52756-rebel.json](./52756-rebel.json) |
 | Rebel | 78086 | [78086-rebel.json](./78086-rebel.json) |
