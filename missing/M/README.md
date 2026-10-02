@@ -3860,6 +3860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Zero 4 | 1778 | [1778-mega-man-zero-4.json](./1778-mega-man-zero-4.json) |
 | Mega Man Zero Collection | 24355 | [24355-mega-man-zero-collection.json](./24355-mega-man-zero-collection.json) |
 | Mega Man ZX | 1779 | [1779-mega-man-zx.json](./1779-mega-man-zx.json) |
+| Mega Man ZX Prequel | 311210 | [311210-mega-man-zx-prequel.json](./311210-mega-man-zx-prequel.json) |
 | Mega Man ZX Zeta | 334149 | [334149-mega-man-zx-zeta.json](./334149-mega-man-zx-zeta.json) |
 | Mega Man: Dr Wily Visits Indonesia | 356694 | [356694-mega-man-dr-wily-visits-indonesia.json](./356694-mega-man-dr-wily-visits-indonesia.json) |
 | Mega Man: Dual Override | 381249 | [381249-mega-man-dual-override.json](./381249-mega-man-dual-override.json) |
@@ -10071,6 +10072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Neighbor's Lonely Wife 2 | 379889 | [379889-my-neighbors-lonely-wife-2.json](./379889-my-neighbors-lonely-wife-2.json) |
 | My Neighbour Mr.Ghost | 265591 | [265591-my-neighbour-mr-ghost.json](./265591-my-neighbour-mr-ghost.json) |
 | My Nemesis and Hero | 186849 | [186849-my-nemesis-and-hero.json](./186849-my-nemesis-and-hero.json) |
+| My New Memories: The Beginning | 311191 | [311191-my-new-memories-the-beginning.json](./311191-my-new-memories-the-beginning.json) |
 | My New Tenant | 408305 | [408305-my-new-tenant.json](./408305-my-new-tenant.json) |
 | My Newborn Puppy | 109165 | [109165-my-newborn-puppy.json](./109165-my-newborn-puppy.json) |
 | My Newborn Santa: Grow A Christmas Baby | 256348 | [256348-my-newborn-santa-grow-a-christmas-baby.json](./256348-my-newborn-santa-grow-a-christmas-baby.json) |
