@@ -2303,6 +2303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terre Scramble! | 260427 | [260427-terre-scramble.json](./260427-terre-scramble.json) |
 | Terrela | 27672 | [27672-terrela.json](./27672-terrela.json) |
 | Terrene: An Evidence of Life Game | 169429 | [169429-terrene-an-evidence-of-life-game.json](./169429-terrene-an-evidence-of-life-game.json) |
+| Terres: Supporter Pack | 323240 | [323240-terres-supporter-pack.json](./323240-terres-supporter-pack.json) |
 | Terrestial | 250929 | [250929-terrestial.json](./250929-terrestial.json) |
 | Terrestrial | 311826 | [311826-terrestrial.json](./311826-terrestrial.json) |
 | Terrible Beast from the East | 111602 | [111602-terrible-beast-from-the-east.json](./111602-terrible-beast-from-the-east.json) |
@@ -6255,6 +6256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Oracle of Ages | 1041 | [1041-the-legend-of-zelda-oracle-of-ages.json](./1041-the-legend-of-zelda-oracle-of-ages.json) |
 | The Legend of Zelda: Oracle of Life Online | 324095 | [324095-the-legend-of-zelda-oracle-of-life-online.json](./324095-the-legend-of-zelda-oracle-of-life-online.json) |
 | The Legend of Zelda: Oracle of Seasons | 1032 | [1032-the-legend-of-zelda-oracle-of-seasons.json](./1032-the-legend-of-zelda-oracle-of-seasons.json) |
+| The Legend of Zelda: Oracle of Secrets | 323220 | [323220-the-legend-of-zelda-oracle-of-secrets.json](./323220-the-legend-of-zelda-oracle-of-secrets.json) |
 | The Legend of Zelda: Oracle of Secrets | 323793 | [323793-the-legend-of-zelda-oracle-of-secrets.json](./323793-the-legend-of-zelda-oracle-of-secrets.json) |
 | The Legend of Zelda: Parallel Worlds Remodel | 198543 | [198543-the-legend-of-zelda-parallel-worlds-remodel.json](./198543-the-legend-of-zelda-parallel-worlds-remodel.json) |
 | The Legend of Zelda: Perils of Darkness | 213041 | [213041-the-legend-of-zelda-perils-of-darkness.json](./213041-the-legend-of-zelda-perils-of-darkness.json) |
@@ -13254,6 +13256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower climber | 90193 | [90193-tower-climber.json](./90193-tower-climber.json) |
 | Tower Command | 370908 | [370908-tower-command.json](./370908-tower-command.json) |
 | Tower Defence | 80216 | [80216-tower-defence.json](./80216-tower-defence.json) |
+| Tower Defence Engineer | 323248 | [323248-tower-defence-engineer.json](./323248-tower-defence-engineer.json) |
 | Tower Defender: Hero Wars | 207270 | [207270-tower-defender-hero-wars.json](./207270-tower-defender-hero-wars.json) |
 | Tower Defense King | 208379 | [208379-tower-defense-king.json](./208379-tower-defense-king.json) |
 | Tower Defense Ultimate | 32900 | [32900-tower-defense-ultimate.json](./32900-tower-defense-ultimate.json) |
