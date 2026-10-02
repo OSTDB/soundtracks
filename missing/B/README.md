@@ -294,6 +294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Between Lost Dimension | 304101 | [304101-backrooms-between-lost-dimension.json](./304101-backrooms-between-lost-dimension.json) |
 | Backrooms: Duck Escape | 378180 | [378180-backrooms-duck-escape.json](./378180-backrooms-duck-escape.json) |
 | Backrooms: Escape Together | 220348 | [220348-backrooms-escape-together.json](./220348-backrooms-escape-together.json) |
+| Backrooms: Eternal Shadows | 293849 | [293849-backrooms-eternal-shadows.json](./293849-backrooms-eternal-shadows.json) |
 | Backrooms: Eternals | 408307 | [408307-backrooms-eternals.json](./408307-backrooms-eternals.json) |
 | Backrooms: Exit from Supermarket | 333729 | [333729-backrooms-exit-from-supermarket.json](./333729-backrooms-exit-from-supermarket.json) |
 | Backrooms: Exploration | 338326 | [338326-backrooms-exploration.json](./338326-backrooms-exploration.json) |
@@ -510,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bag Game | 411696 | [411696-bag-game.json](./411696-bag-game.json) |
 | Bagarre | 386970 | [386970-bagarre.json](./386970-bagarre.json) |
 | Bagel Love Story | 298691 | [298691-bagel-love-story.json](./298691-bagel-love-story.json) |
+| Baggage Inspector | 293854 | [293854-baggage-inspector.json](./293854-baggage-inspector.json) |
 | Baggio's Magical Kicks | 64973 | [64973-baggios-magical-kicks.json](./64973-baggios-magical-kicks.json) |
 | Baghdad Central: Desert Gunner | 63014 | [63014-baghdad-central-desert-gunner.json](./63014-baghdad-central-desert-gunner.json) |
 | Bagitman | 79324 | [79324-bagitman.json](./79324-bagitman.json) |
@@ -2906,6 +2908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beer Belly Burt's Brew Biz | 93167 | [93167-beer-belly-burts-brew-biz.json](./93167-beer-belly-burts-brew-biz.json) |
 | Beer Break | 199391 | [199391-beer-break.json](./199391-beer-break.json) |
 | Beer Drinkin' Terrorist Hunter | 311681 | [311681-beer-drinkin-terrorist-hunter.json](./311681-beer-drinkin-terrorist-hunter.json) |
+| Beer Factory Crew | 293851 | [293851-beer-factory-crew.json](./293851-beer-factory-crew.json) |
 | Beer Pong : Trickshot | 90694 | [90694-beer-pong-trickshot.json](./90694-beer-pong-trickshot.json) |
 | Beer Pong League | 111342 | [111342-beer-pong-league.json](./111342-beer-pong-league.json) |
 | Beer Pong VR | 88194 | [88194-beer-pong-vr.json](./88194-beer-pong-vr.json) |
@@ -5981,6 +5984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bodyconscious Digital Rave! Part 1: Shinjuku & Takashi | 245249 | [245249-bodyconscious-digital-rave-part-1-shinjuku-and-takashi.json](./245249-bodyconscious-digital-rave-part-1-shinjuku-and-takashi.json) |
 | Bodyguard Task Force | 291252 | [291252-bodyguard-task-force.json](./291252-bodyguard-task-force.json) |
 | Bodyguard: Cellwars | 365160 | [365160-bodyguard-cellwars.json](./365160-bodyguard-cellwars.json) |
+| Bodyrain | 293857 | [293857-bodyrain.json](./293857-bodyrain.json) |
 | BodyRecords | 340943 | [340943-bodyrecords.json](./340943-bodyrecords.json) |
 | BodySlam! | 180705 | [180705-bodyslam.json](./180705-bodyslam.json) |
 | Bodyworks Voyager: Mission in Anatomy | 74084 | [74084-bodyworks-voyager-mission-in-anatomy.json](./74084-bodyworks-voyager-mission-in-anatomy.json) |
@@ -6235,6 +6239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomboban | 386102 | [386102-bomboban.json](./386102-bomboban.json) |
 | Bomboban | 386355 | [386355-bomboban.json](./386355-bomboban.json) |
 | Bomboras Forever | 58173 | [58173-bomboras-forever.json](./58173-bomboras-forever.json) |
+| Bombox | 293339 | [293339-bombox.json](./293339-bombox.json) |
 | BombParty | 186047 | [186047-bombparty.json](./186047-bombparty.json) |
 | Bombproof Bob | 241612 | [241612-bombproof-bob.json](./241612-bombproof-bob.json) |
 | Bombs Away! | 245548 | [245548-bombs-away.json](./245548-bombs-away.json) |
