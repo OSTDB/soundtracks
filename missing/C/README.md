@@ -4563,6 +4563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clarisse | 56425 | [56425-clarisse.json](./56425-clarisse.json) |
 | Clark: Hoova VR | 82067 | [82067-clark-hoova-vr.json](./82067-clark-hoova-vr.json) |
 | Clash | 55033 | [55033-clash.json](./55033-clash.json) |
+| Clash Bro's! | 330962 | [330962-clash-bros.json](./330962-clash-bros.json) |
 | Clash Cup Turbo | 34703 | [34703-clash-cup-turbo.json](./34703-clash-cup-turbo.json) |
 | Clash for Crust | 310042 | [310042-clash-for-crust.json](./310042-clash-for-crust.json) |
 | Clash Heroes | 145547 | [145547-clash-heroes.json](./145547-clash-heroes.json) |
