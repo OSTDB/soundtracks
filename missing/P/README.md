@@ -7715,6 +7715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project XY | 178645 | [178645-project-xy.json](./178645-project-xy.json) |
 | Project Z | 126431 | [126431-project-z.json](./126431-project-z.json) |
 | Project Zero | 236252 | [236252-project-zero.json](./236252-project-zero.json) |
+| Project Zeta | 333777 | [333777-project-zeta.json](./333777-project-zeta.json) |
 | Project Zombie | 345672 | [345672-project-zombie.json](./345672-project-zombie.json) |
 | Project Zomboid | 3189 | [3189-project-zomboid.json](./3189-project-zomboid.json) |
 | Project_8 | 387524 | [387524-project-8.json](./387524-project-8.json) |
