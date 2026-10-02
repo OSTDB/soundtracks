@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Difficult Game About Climbing | 283892 | [283892-a-difficult-game-about-climbing.json](./283892-a-difficult-game-about-climbing.json) |
 | A Difficult Game About Rolling: ReUpRise | 293739 | [293739-a-difficult-game-about-rolling-reuprise.json](./293739-a-difficult-game-about-rolling-reuprise.json) |
 | A Dino's Journey | 319388 | [319388-a-dinos-journey.json](./319388-a-dinos-journey.json) |
+| A Directionless Cycle | 329236 | [329236-a-directionless-cycle.json](./329236-a-directionless-cycle.json) |
 | A Divided Light | 96766 | [96766-a-divided-light.json](./96766-a-divided-light.json) |
 | A Divine Wager | 176912 | [176912-a-divine-wager.json](./176912-a-divine-wager.json) |
 | A Dog Called Buddy | 341469 | [341469-a-dog-called-buddy.json](./341469-a-dog-called-buddy.json) |
@@ -147,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Favor For The Alchemist | 385343 | [385343-a-favor-for-the-alchemist.json](./385343-a-favor-for-the-alchemist.json) |
 | A Femboy Polished My Knob | 385245 | [385245-a-femboy-polished-my-knob.json](./385245-a-femboy-polished-my-knob.json) |
 | A Few Billion Square Tiles | 104687 | [104687-a-few-billion-square-tiles.json](./104687-a-few-billion-square-tiles.json) |
+| A Few Days With: Bianca | 329203 | [329203-a-few-days-with-bianca.json](./329203-a-few-days-with-bianca.json) |
 | A Few Days With: Olivia | 392955 | [392955-a-few-days-with-olivia.json](./392955-a-few-days-with-olivia.json) |
 | A Few Days With: The Fairies | 392953 | [392953-a-few-days-with-the-fairies.json](./392953-a-few-days-with-the-fairies.json) |
 | A Few Days With: Valentina | 337797 | [337797-a-few-days-with-valentina.json](./337797-a-few-days-with-valentina.json) |
