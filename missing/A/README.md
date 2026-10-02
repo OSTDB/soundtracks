@@ -3081,6 +3081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alize | 399762 | [399762-alize.json](./399762-alize.json) |
 | Alkali | 154412 | [154412-alkali.json](./154412-alkali.json) |
 | Alkaline | 195492 | [195492-alkaline.json](./195492-alkaline.json) |
+| Alkatria | 326709 | [326709-alkatria.json](./326709-alkatria.json) |
 | Alkey the Brave | 226214 | [226214-alkey-the-brave.json](./226214-alkey-the-brave.json) |
 | Alkimya: House of Wisdom | 415155 | [415155-alkimya-house-of-wisdom.json](./415155-alkimya-house-of-wisdom.json) |
 | All 9 Lives | 408271 | [408271-all-9-lives.json](./408271-all-9-lives.json) |
@@ -4938,6 +4939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ant War: Kingdom Battles | 255722 | [255722-ant-war-kingdom-battles.json](./255722-ant-war-kingdom-battles.json) |
 | Ant Workers Simulator | 362437 | [362437-ant-workers-simulator.json](./362437-ant-workers-simulator.json) |
 | Antagonist | 27869 | [27869-antagonist.json](./27869-antagonist.json) |
+| Antarah | 326691 | [326691-antarah.json](./326691-antarah.json) |
 | Antarctic Adventure | 239172 | [239172-antarctic-adventure.json](./239172-antarctic-adventure.json) |
 | Antarctic Girl | 127922 | [127922-antarctic-girl.json](./127922-antarctic-girl.json) |
 | Antarctic Tales Enhanced Edition | 268511 | [268511-antarctic-tales-enhanced-edition.json](./268511-antarctic-tales-enhanced-edition.json) |
@@ -4997,6 +4999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antiny 0 | 180127 | [180127-antiny-0.json](./180127-antiny-0.json) |
 | Antioch: Scarlet Bay | 18451 | [18451-antioch-scarlet-bay.json](./18451-antioch-scarlet-bay.json) |
 | Antioma | 344912 | [344912-antioma.json](./344912-antioma.json) |
+| Antipathy | 326668 | [326668-antipathy.json](./326668-antipathy.json) |
 | Antiphona no Seikahime: Tenshi no Score Op.A | 56523 | [56523-antiphona-no-seikahime-tenshi-no-score-op-a.json](./56523-antiphona-no-seikahime-tenshi-no-score-op-a.json) |
 | AntiPodal | 342658 | [342658-antipodal.json](./342658-antipodal.json) |
 | Antipole DX | 60519 | [60519-antipole-dx.json](./60519-antipole-dx.json) |
@@ -6182,6 +6185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aria and the Secret of the Labyrinth | 385837 | [385837-aria-and-the-secret-of-the-labyrinth.json](./385837-aria-and-the-secret-of-the-labyrinth.json) |
 | Aria Chronicle | 135749 | [135749-aria-chronicle.json](./135749-aria-chronicle.json) |
 | Aria Dating Simulator | 385049 | [385049-aria-dating-simulator.json](./385049-aria-dating-simulator.json) |
+| Aria of Destiny | 326828 | [326828-aria-of-destiny.json](./326828-aria-of-destiny.json) |
 | Aria of God Killing | 193977 | [193977-aria-of-god-killing.json](./193977-aria-of-god-killing.json) |
 | ARia's Legacy | 102795 | [102795-arias-legacy.json](./102795-arias-legacy.json) |
 | Ariadna's Bane | 119663 | [119663-ariadnas-bane.json](./119663-ariadnas-bane.json) |
