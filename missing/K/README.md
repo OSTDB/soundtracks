@@ -1719,6 +1719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdoms of Amalur: Reckoning - Teeth of Naros | 14676 | [14676-kingdoms-of-amalur-reckoning-teeth-of-naros.json](./14676-kingdoms-of-amalur-reckoning-teeth-of-naros.json) |
 | Kingdoms of Dice: The Elonia Chronicles | 360685 | [360685-kingdoms-of-dice-the-elonia-chronicles.json](./360685-kingdoms-of-dice-the-elonia-chronicles.json) |
 | Kingdoms of England | 55988 | [55988-kingdoms-of-england.json](./55988-kingdoms-of-england.json) |
+| Kingdoms Of Eternity | 318488 | [318488-kingdoms-of-eternity.json](./318488-kingdoms-of-eternity.json) |
 | Kingdoms of Germany | 65441 | [65441-kingdoms-of-germany.json](./65441-kingdoms-of-germany.json) |
 | Kingdoms of Lost Valleys | 311126 | [311126-kingdoms-of-lost-valleys.json](./311126-kingdoms-of-lost-valleys.json) |
 | Kingdoms of Marazia: Classic | 107199 | [107199-kingdoms-of-marazia-classic.json](./107199-kingdoms-of-marazia-classic.json) |
@@ -2717,6 +2718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kowloon's Rhizome: A Day of the Fire - Vol. 2 | 255806 | [255806-kowloons-rhizome-a-day-of-the-fire-vol-2.json](./255806-kowloons-rhizome-a-day-of-the-fire-vol-2.json) |
 | Köy | 320997 | [320997-koy.json](./320997-koy.json) |
 | Koyomin's Revenge | 343473 | [343473-koyomins-revenge.json](./343473-koyomins-revenge.json) |
+| Koziolek Matolek idzie do szkoly | 318492 | [318492-koziolek-matolek-idzie-do-szkoly.json](./318492-koziolek-matolek-idzie-do-szkoly.json) |
 | Koziołek Matołek Wynalazca | 135255 | [135255-kozio-ek-mato-ek-wynalazca.json](./135255-kozio-ek-mato-ek-wynalazca.json) |
 | Kozmik Krooz'r | 245279 | [245279-kozmik-kroozr.json](./245279-kozmik-kroozr.json) |
 | KPatience | 134532 | [134532-kpatience.json](./134532-kpatience.json) |
@@ -2784,6 +2786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KrissX | 67327 | [67327-krissx.json](./67327-krissx.json) |
 | Kritika Global | 211930 | [211930-kritika-global.json](./211930-kritika-global.json) |
 | Kritika: The White Knights | 39231 | [39231-kritika-the-white-knights.json](./39231-kritika-the-white-knights.json) |
+| Krolewna Sniezka | 318484 | [318484-krolewna-sniezka.json](./318484-krolewna-sniezka.json) |
 | Kromaia | 8815 | [8815-kromaia.json](./8815-kromaia.json) |
 | Kromer Kollector | 181875 | [181875-kromer-kollector.json](./181875-kromer-kollector.json) |
 | Kromex | 400850 | [400850-kromex.json](./400850-kromex.json) |
@@ -2815,6 +2818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krzyżacy: The Knights of the Cross - Shining Stars | 289320 | [289320-krzyzacy-the-knights-of-the-cross-shining-stars.json](./289320-krzyzacy-the-knights-of-the-cross-shining-stars.json) |
 | KSame | 64431 | [64431-ksame.json](./64431-ksame.json) |
 | Kselebox | 169978 | [169978-kselebox.json](./169978-kselebox.json) |
+| Ksiega Dzungli | 318486 | [318486-ksiega-dzungli.json](./318486-ksiega-dzungli.json) |
 | Ku Gyoku Den | 216761 | [216761-ku-gyoku-den.json](./216761-ku-gyoku-den.json) |
 | Ku: Shroud of the Morrigan | 16936 | [16936-ku-shroud-of-the-morrigan.json](./16936-ku-shroud-of-the-morrigan.json) |
 | Kuafu Chases the Sun | 367611 | [367611-kuafu-chases-the-sun.json](./367611-kuafu-chases-the-sun.json) |
