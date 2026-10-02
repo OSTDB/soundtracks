@@ -599,6 +599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samba de Amigo: Virtual Party | 251561 | [251561-samba-de-amigo-virtual-party.json](./251561-samba-de-amigo-virtual-party.json) |
 | Samba Hero | 315574 | [315574-samba-hero.json](./315574-samba-hero.json) |
 | Sambaquis: A Story before Brazil | 216192 | [216192-sambaquis-a-story-before-brazil.json](./216192-sambaquis-a-story-before-brazil.json) |
+| SambaSim | 299382 | [299382-sambasim.json](./299382-sambasim.json) |
 | Same | 64423 | [64423-same.json](./64423-same.json) |
 | Same Game for Windows | 80229 | [80229-same-game-for-windows.json](./80229-same-game-for-windows.json) |
 | Same Room Same Day | 316610 | [316610-same-room-same-day.json](./316610-same-room-same-day.json) |
@@ -8607,6 +8608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Mania: Collector's Edition | 25684 | [25684-sonic-mania-collectors-edition.json](./25684-sonic-mania-collectors-edition.json) |
 | Sonic Mars Remake | 332576 | [332576-sonic-mars-remake.json](./332576-sonic-mars-remake.json) |
 | Sonic Matrix | 331397 | [331397-sonic-matrix.json](./331397-sonic-matrix.json) |
+| Sonic Mayhem | 299381 | [299381-sonic-mayhem.json](./299381-sonic-mayhem.json) |
 | Sonic Maze Craze | 273985 | [273985-sonic-maze-craze.json](./273985-sonic-maze-craze.json) |
 | Sonic McOrigins Plus | 265230 | [265230-sonic-mcorigins-plus.json](./265230-sonic-mcorigins-plus.json) |
 | Sonic Medley | 326999 | [326999-sonic-medley.json](./326999-sonic-medley.json) |
@@ -11073,6 +11075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky's Jump Scare Mansion: The Doll House | 140550 | [140550-spookys-jump-scare-mansion-the-doll-house.json](./140550-spookys-jump-scare-mansion-the-doll-house.json) |
 | Spooky's Jumpscare Mansion Plus | 356227 | [356227-spookys-jumpscare-mansion-plus.json](./356227-spookys-jumpscare-mansion-plus.json) |
 | SpookyKillers | 191121 | [191121-spookykillers.json](./191121-spookykillers.json) |
+| Spookyville | 299409 | [299409-spookyville.json](./299409-spookyville.json) |
 | Spoonman: Ballad of a Bonehead | 307708 | [307708-spoonman-ballad-of-a-bonehead.json](./307708-spoonman-ballad-of-a-bonehead.json) |
 | Spoons Card Game | 102740 | [102740-spoons-card-game.json](./102740-spoons-card-game.json) |
 | Spoons III | 70369 | [70369-spoons-iii.json](./70369-spoons-iii.json) |
@@ -16005,6 +16008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Night at the Gates of Hell | 263538 | [263538-super-night-at-the-gates-of-hell.json](./263538-super-night-at-the-gates-of-hell.json) |
 | Super Night Riders S1 | 193196 | [193196-super-night-riders-s1.json](./193196-super-night-riders-s1.json) |
 | Super Nihon Cheating Cup 86' | 369691 | [369691-super-nihon-cheating-cup-86.json](./369691-super-nihon-cheating-cup-86.json) |
+| Super Ninja | 299411 | [299411-super-ninja.json](./299411-super-ninja.json) |
 | Super Ninja Boy | 42603 | [42603-super-ninja-boy.json](./42603-super-ninja-boy.json) |
 | Super Ninja Hero VR | 31164 | [31164-super-ninja-hero-vr.json](./31164-super-ninja-hero-vr.json) |
 | Super Ninja Meow Cat | 115165 | [115165-super-ninja-meow-cat.json](./115165-super-ninja-meow-cat.json) |
