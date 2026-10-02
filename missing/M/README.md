@@ -234,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MAD: Mutually Assured Destruction | 101727 | [101727-mad-mutually-assured-destruction.json](./101727-mad-mutually-assured-destruction.json) |
 | Madagascar | 3764 | [3764-madagascar.json](./3764-madagascar.json) |
 | Madagascar 3: Europe's Most Wanted | 243270 | [243270-madagascar-3-europes-most-wanted.json](./243270-madagascar-3-europes-most-wanted.json) |
+| Madagascar Kartz | 309578 | [309578-madagascar-kartz.json](./309578-madagascar-kartz.json) |
 | Madagascar Kartz | 3767 | [3767-madagascar-kartz.json](./3767-madagascar-kartz.json) |
 | Madagascar Mini-Mayhem | 137609 | [137609-madagascar-mini-mayhem.json](./137609-madagascar-mini-mayhem.json) |
 | Madagascar: Escape 2 Africa | 116787 | [116787-madagascar-escape-2-africa.json](./116787-madagascar-escape-2-africa.json) |
@@ -1102,6 +1103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mailbag Mayhem | 62191 | [62191-mailbag-mayhem.json](./62191-mailbag-mayhem.json) |
 | Mailfrog | 178040 | [178040-mailfrog.json](./178040-mailfrog.json) |
 | Maimai DX | 130331 | [130331-maimai-dx.json](./130331-maimai-dx.json) |
+| Maimai DX Buddies Plus | 309594 | [309594-maimai-dx-buddies-plus.json](./309594-maimai-dx-buddies-plus.json) |
 | Maimai DX Festival Plus | 243688 | [243688-maimai-dx-festival-plus.json](./243688-maimai-dx-festival-plus.json) |
 | Maimai DX Plus | 331676 | [331676-maimai-dx-plus.json](./331676-maimai-dx-plus.json) |
 | Maimai DX Prism Plus | 335417 | [335417-maimai-dx-prism-plus.json](./335417-maimai-dx-prism-plus.json) |
@@ -1437,6 +1439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Management Worlds Bundle | 325005 | [325005-management-worlds-bundle.json](./325005-management-worlds-bundle.json) |
 | ManagerLeague | 152113 | [152113-managerleague.json](./152113-managerleague.json) |
 | Manahex | 291598 | [291598-manahex.json](./291598-manahex.json) |
+| Manall's FF1 | 309580 | [309580-manalls-ff1.json](./309580-manalls-ff1.json) |
 | Manascape | 257933 | [257933-manascape.json](./257933-manascape.json) |
 | Manatee | 311249 | [311249-manatee.json](./311249-manatee.json) |
 | Manaulyn | 296971 | [296971-manaulyn.json](./296971-manaulyn.json) |
