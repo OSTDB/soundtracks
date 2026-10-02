@@ -1803,6 +1803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Symphony of the Night - Reborn | 338814 | [338814-castlevania-symphony-of-the-night-reborn.json](./338814-castlevania-symphony-of-the-night-reborn.json) |
 | Castlevania: Symphony of the Night Randomizer | 218152 | [218152-castlevania-symphony-of-the-night-randomizer.json](./218152-castlevania-symphony-of-the-night-randomizer.json) |
 | Castlevania: The Adventure | 1118 | [1118-castlevania-the-adventure.json](./1118-castlevania-the-adventure.json) |
+| Castlevania: The Adventure DX | 280448 | [280448-castlevania-the-adventure-dx.json](./280448-castlevania-the-adventure-dx.json) |
 | Castlevania: The Adventure ReBirth | 1146 | [1146-castlevania-the-adventure-rebirth.json](./1146-castlevania-the-adventure-rebirth.json) |
 | Castlevania: The Holy Relics | 127263 | [127263-castlevania-the-holy-relics.json](./127263-castlevania-the-holy-relics.json) |
 | Castlevania: The Seal Of The Curse X | 317630 | [317630-castlevania-the-seal-of-the-curse-x.json](./317630-castlevania-the-seal-of-the-curse-x.json) |
@@ -3609,6 +3610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chimparty | 103404 | [103404-chimparty.json](./103404-chimparty.json) |
 | Chimpuzzle Pro | 84574 | [84574-chimpuzzle-pro.json](./84574-chimpuzzle-pro.json) |
 | Chimpy Chippa's: The Game | 284568 | [284568-chimpy-chippas-the-game.json](./284568-chimpy-chippas-the-game.json) |
+| China Crisis | 280463 | [280463-china-crisis.json](./280463-china-crisis.json) |
 | China Miner | 13828 | [13828-china-miner.json](./13828-china-miner.json) |
 | China Syndrome | 18554 | [18554-china-syndrome.json](./18554-china-syndrome.json) |
 | China Warrior | 42127 | [42127-china-warrior.json](./42127-china-warrior.json) |
@@ -3835,6 +3837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choppie's | 236541 | [236541-choppies.json](./236541-choppies.json) |
 | Chopping Together | 389581 | [389581-chopping-together.json](./389581-chopping-together.json) |
 | Choppy Cuts | 349383 | [349383-choppy-cuts.json](./349383-choppy-cuts.json) |
+| Chordata | 280459 | [280459-chordata.json](./280459-chordata.json) |
 | Chordosis | 266874 | [266874-chordosis.json](./266874-chordosis.json) |
 | Chords Enchanter | 292685 | [292685-chords-enchanter.json](./292685-chords-enchanter.json) |
 | Chorizo | 217409 | [217409-chorizo.json](./217409-chorizo.json) |
@@ -3925,6 +3928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Fables: Holiday Guardians | 417586 | [417586-christmas-fables-holiday-guardians.json](./417586-christmas-fables-holiday-guardians.json) |
 | Christmas Fables: Holiday Guardians - Collector's Edition | 234738 | [234738-christmas-fables-holiday-guardians-collectors-edition.json](./234738-christmas-fables-holiday-guardians-collectors-edition.json) |
 | Christmas Fables: Nutcracker's Tale - Collector's Edition | 382194 | [382194-christmas-fables-nutcrackers-tale-collectors-edition.json](./382194-christmas-fables-nutcrackers-tale-collectors-edition.json) |
+| Christmas Fables: The Magic Snowflake - Collector's Edition | 280435 | [280435-christmas-fables-the-magic-snowflake-collectors-edition.json](./280435-christmas-fables-the-magic-snowflake-collectors-edition.json) |
 | Christmas Fables: The Wishing Store - Collector's Edition | 337272 | [337272-christmas-fables-the-wishing-store-collectors-edition.json](./337272-christmas-fables-the-wishing-store-collectors-edition.json) |
 | Christmas Fishing | 419830 | [419830-christmas-fishing.json](./419830-christmas-fishing.json) |
 | Christmas Fun | 226312 | [226312-christmas-fun.json](./226312-christmas-fun.json) |
@@ -4874,6 +4878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clean Sweep | 18159 | [18159-clean-sweep.json](./18159-clean-sweep.json) |
 | Clean Sweep | 301287 | [301287-clean-sweep.json](./301287-clean-sweep.json) |
 | Clean The Sea! | 284820 | [284820-clean-the-sea.json](./284820-clean-the-sea.json) |
+| Clean Up After Your Dog | 280427 | [280427-clean-up-after-your-dog.json](./280427-clean-up-after-your-dog.json) |
 | Clean Up Crew | 360057 | [360057-clean-up-crew.json](./360057-clean-up-crew.json) |
 | Clean-up Squad | 258493 | [258493-clean-up-squad.json](./258493-clean-up-squad.json) |
 | Clean'Em Up | 35709 | [35709-cleanem-up.json](./35709-cleanem-up.json) |
@@ -8757,6 +8762,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossfire: The Multiplayer Adventure Game | 171544 | [171544-crossfire-the-multiplayer-adventure-game.json](./171544-crossfire-the-multiplayer-adventure-game.json) |
 | CrossfireX | 119307 | [119307-crossfirex.json](./119307-crossfirex.json) |
 | CrossfireX: Operation Spectre | 221392 | [221392-crossfirex-operation-spectre.json](./221392-crossfirex-operation-spectre.json) |
+| CrossGunr | 280461 | [280461-crossgunr.json](./280461-crossgunr.json) |
+| CrossGunr: Infinite | 280462 | [280462-crossgunr-infinite.json](./280462-crossgunr-infinite.json) |
 | Crosshatch | 125946 | [125946-crosshatch.json](./125946-crosshatch.json) |
 | Crosshollow Foundations | 182508 | [182508-crosshollow-foundations.json](./182508-crosshollow-foundations.json) |
 | Crossing Acheron | 354427 | [354427-crossing-acheron.json](./354427-crossing-acheron.json) |
@@ -8792,6 +8799,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossout: Horsemen of Apocalypse - Famine | 331996 | [331996-crossout-horsemen-of-apocalypse-famine.json](./331996-crossout-horsemen-of-apocalypse-famine.json) |
 | Crossout: Insomnia Pack | 226826 | [226826-crossout-insomnia-pack.json](./226826-crossout-insomnia-pack.json) |
 | Crossout: Iron Shield Pack | 226827 | [226827-crossout-iron-shield-pack.json](./226827-crossout-iron-shield-pack.json) |
+| Crossout: Menace of the Machines | 280454 | [280454-crossout-menace-of-the-machines.json](./280454-crossout-menace-of-the-machines.json) |
+| Crossout: Menace of the Machines - Deluxe edition | 280455 | [280455-crossout-menace-of-the-machines-deluxe-edition.json](./280455-crossout-menace-of-the-machines-deluxe-edition.json) |
 | Crossout: Pandemic Pack | 226828 | [226828-crossout-pandemic-pack.json](./226828-crossout-pandemic-pack.json) |
 | Crossout: Polar Explorer | 331998 | [331998-crossout-polar-explorer.json](./331998-crossout-polar-explorer.json) |
 | Crossout: Polymorph pack | 226829 | [226829-crossout-polymorph-pack.json](./226829-crossout-polymorph-pack.json) |
