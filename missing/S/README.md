@@ -2280,6 +2280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sector Alpha | 183518 | [183518-sector-alpha.json](./183518-sector-alpha.json) |
 | Sector Alpha | 301339 | [301339-sector-alpha.json](./301339-sector-alpha.json) |
 | Sector Alpha | 40913 | [40913-sector-alpha.json](./40913-sector-alpha.json) |
+| Sector Beam | 327438 | [327438-sector-beam.json](./327438-sector-beam.json) |
 | Sector Lockdown | 382335 | [382335-sector-lockdown.json](./382335-sector-lockdown.json) |
 | Sector Shooter | 361266 | [361266-sector-shooter.json](./361266-sector-shooter.json) |
 | Sector Six | 32924 | [32924-sector-six.json](./32924-sector-six.json) |
@@ -3614,6 +3615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shapeguard | 264023 | [264023-shapeguard.json](./264023-shapeguard.json) |
 | Shapeland | 366298 | [366298-shapeland.json](./366298-shapeland.json) |
 | ShapeNeon Chaos | 157119 | [157119-shapeneon-chaos.json](./157119-shapeneon-chaos.json) |
+| Shapeo | 327437 | [327437-shapeo.json](./327437-shapeo.json) |
 | Shaper | 240810 | [240810-shaper.json](./240810-shaper.json) |
 | Shaper Runners | 231903 | [231903-shaper-runners.json](./231903-shaper-runners.json) |
 | ShapeRockets | 31196 | [31196-shaperockets.json](./31196-shaperockets.json) |
@@ -6301,6 +6303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slaughter Cannon 2 | 200566 | [200566-slaughter-cannon-2.json](./200566-slaughter-cannon-2.json) |
 | Slaughter Cats | 235354 | [235354-slaughter-cats.json](./235354-slaughter-cats.json) |
 | Slaughter Horse 2 | 211133 | [211133-slaughter-horse-2.json](./211133-slaughter-horse-2.json) |
+| Slaughter Me Street: 1999 | 327276 | [327276-slaughter-me-street-1999.json](./327276-slaughter-me-street-1999.json) |
 | Slaughter Until Death | 274217 | [274217-slaughter-until-death.json](./274217-slaughter-until-death.json) |
 | Slaughterhouse | 149596 | [149596-slaughterhouse.json](./149596-slaughterhouse.json) |
 | Slav Tiles | 198505 | [198505-slav-tiles.json](./198505-slav-tiles.json) |
@@ -12580,6 +12583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steambirds Alliance | 36530 | [36530-steambirds-alliance.json](./36530-steambirds-alliance.json) |
 | Steamboat Billy: The Curse of the Leviathan | 102090 | [102090-steamboat-billy-the-curse-of-the-leviathan.json](./102090-steamboat-billy-the-curse-of-the-leviathan.json) |
 | Steamboat Willie | 286040 | [286040-steamboat-willie.json](./286040-steamboat-willie.json) |
+| Steamboat Willie Incident | 327445 | [327445-steamboat-willie-incident.json](./327445-steamboat-willie-incident.json) |
 | Steamboat Willie Rescue Mission | 398597 | [398597-steamboat-willie-rescue-mission.json](./398597-steamboat-willie-rescue-mission.json) |
 | Steambot Chronicles: Battle Tournament | 42891 | [42891-steambot-chronicles-battle-tournament.json](./42891-steambot-chronicles-battle-tournament.json) |
 | Steambots | 296655 | [296655-steambots.json](./296655-steambots.json) |
@@ -13236,6 +13240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm Tale 2 & Ancient Relics: Adventure Bundle | 387681 | [387681-storm-tale-2-and-ancient-relics-adventure-bundle.json](./387681-storm-tale-2-and-ancient-relics-adventure-bundle.json) |
 | Storm The Court | 296470 | [296470-storm-the-court.json](./296470-storm-the-court.json) |
 | Storm the Field | 401067 | [401067-storm-the-field.json](./401067-storm-the-field.json) |
+| Storm the Swan | 327288 | [327288-storm-the-swan.json](./327288-storm-the-swan.json) |
 | Storm United | 36153 | [36153-storm-united.json](./36153-storm-united.json) |
 | Storm VR | 33175 | [33175-storm-vr.json](./33175-storm-vr.json) |
 | Storm Wars | 56482 | [56482-storm-wars.json](./56482-storm-wars.json) |
@@ -14138,6 +14143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubus Throne | 385254 | [385254-succubus-throne.json](./385254-succubus-throne.json) |
 | Succubus Waifu | 127998 | [127998-succubus-waifu.json](./127998-succubus-waifu.json) |
 | Succubus War | 186830 | [186830-succubus-war.json](./186830-succubus-war.json) |
+| Succubus x Saint | 327265 | [327265-succubus-x-saint.json](./327265-succubus-x-saint.json) |
 | Succubus: Elysian Fields | 337829 | [337829-succubus-elysian-fields.json](./337829-succubus-elysian-fields.json) |
 | Succubus: Onoskelis | 216209 | [216209-succubus-onoskelis.json](./216209-succubus-onoskelis.json) |
 | Succubuses Love Creampie | 169424 | [169424-succubuses-love-creampie.json](./169424-succubuses-love-creampie.json) |
