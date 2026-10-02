@@ -139,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mackle Story Remake | 407462 | [407462-mackle-story-remake.json](./407462-mackle-story-remake.json) |
 | MacMan And The Caber Eater | 314495 | [314495-macman-and-the-caber-eater.json](./314495-macman-and-the-caber-eater.json) |
 | MacMan And The Great Escape | 314496 | [314496-macman-and-the-great-escape.json](./314496-macman-and-the-great-escape.json) |
+| Macro Data Refinement Simulator: Shapes | 333778 | [333778-macro-data-refinement-simulator-shapes.json](./333778-macro-data-refinement-simulator-shapes.json) |
 | Macro golf | 169772 | [169772-macro-golf.json](./169772-macro-golf.json) |
 | Macrocosm | 200180 | [200180-macrocosm.json](./200180-macrocosm.json) |
 | Macross - Eternal Love Song | 41994 | [41994-macross-eternal-love-song.json](./41994-macross-eternal-love-song.json) |
@@ -470,6 +471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mageanoid | 312190 | [312190-mageanoid.json](./312190-mageanoid.json) |
 | Magefall | 210719 | [210719-magefall.json](./210719-magefall.json) |
 | Magekeepers | 302359 | [302359-magekeepers.json](./302359-magekeepers.json) |
+| Magenta | 333771 | [333771-magenta.json](./333771-magenta.json) |
 | Magenta Arcade II | 373639 | [373639-magenta-arcade-ii.json](./373639-magenta-arcade-ii.json) |
 | Magerealm: Rise of Chaos | 12874 | [12874-magerealm-rise-of-chaos.json](./12874-magerealm-rise-of-chaos.json) |
 | Mageroom | 176872 | [176872-mageroom.json](./176872-mageroom.json) |
@@ -1115,6 +1117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maison Ikkoku Kanketsu Hen: Sayonara, Soshite... | 91766 | [91766-maison-ikkoku-kanketsu-hen-sayonara-soshite.json](./91766-maison-ikkoku-kanketsu-hen-sayonara-soshite.json) |
 | Maison Ikkoku Kanketsu Special | 91764 | [91764-maison-ikkoku-kanketsu-special.json](./91764-maison-ikkoku-kanketsu-special.json) |
 | Maison Kanraku: The Second Climax | 59992 | [59992-maison-kanraku-the-second-climax.json](./59992-maison-kanraku-the-second-climax.json) |
+| Maisons de repos | 333714 | [333714-maisons-de-repos.json](./333714-maisons-de-repos.json) |
 | Maitetsu: Pure Station - Special Luxury Version with Triple Suede Tapestry Limited Edition | 167158 | [167158-maitetsu-pure-station-special-luxury-version-with-triple-suede-tapestry-limited-edition.json](./167158-maitetsu-pure-station-special-luxury-version-with-triple-suede-tapestry-limited-edition.json) |
 | Maitetsu: Pure Station: Hachiroku Figure - Limited Edition | 212325 | [212325-maitetsu-pure-station-hachiroku-figure-limited-edition.json](./212325-maitetsu-pure-station-hachiroku-figure-limited-edition.json) |
 | Maize | 19518 | [19518-maize.json](./19518-maize.json) |
@@ -4244,6 +4247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories Off 6: T-wave | 288772 | [288772-memories-off-6-t-wave.json](./288772-memories-off-6-t-wave.json) |
 | Memories Off 6: T-wave | 7068 | [7068-memories-off-6-t-wave.json](./7068-memories-off-6-t-wave.json) |
 | Memories Off Pure | 43974 | [43974-memories-off-pure.json](./43974-memories-off-pure.json) |
+| Memories Off Sousou: Not Always True | 333791 | [333791-memories-off-sousou-not-always-true.json](./333791-memories-off-sousou-not-always-true.json) |
 | Memories Off: Festa | 37361 | [37361-memories-off-festa.json](./37361-memories-off-festa.json) |
 | Memories Off: Historia - Vol. 1 | 140386 | [140386-memories-off-historia-vol-1.json](./140386-memories-off-historia-vol-1.json) |
 | Memories Off: Historia - Volume 2 | 140387 | [140387-memories-off-historia-volume-2.json](./140387-memories-off-historia-volume-2.json) |
@@ -8546,6 +8550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotoGP 24: Day One Edition | 292136 | [292136-motogp-24-day-one-edition.json](./292136-motogp-24-day-one-edition.json) |
 | MotoGP 24: Nolan Helmet Liveries | 309663 | [309663-motogp-24-nolan-helmet-liveries.json](./309663-motogp-24-nolan-helmet-liveries.json) |
 | MotoGP 24: Test Suits | 309662 | [309662-motogp-24-test-suits.json](./309662-motogp-24-test-suits.json) |
+| MotoGP 25 | 333787 | [333787-motogp-25.json](./333787-motogp-25.json) |
 | MotoGP 25: Iconic Liveries Pack | 374757 | [374757-motogp-25-iconic-liveries-pack.json](./374757-motogp-25-iconic-liveries-pack.json) |
 | MotoGP 25: Off Road Helmets Pack | 374758 | [374758-motogp-25-off-road-helmets-pack.json](./374758-motogp-25-off-road-helmets-pack.json) |
 | MotoGP 3 | 5938 | [5938-motogp-3.json](./5938-motogp-3.json) |
