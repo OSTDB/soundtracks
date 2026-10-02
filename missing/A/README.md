@@ -607,6 +607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Winding Path | 157709 | [157709-a-winding-path.json](./157709-a-winding-path.json) |
 | A Winter's Daydream | 110460 | [110460-a-winters-daydream.json](./110460-a-winters-daydream.json) |
 | A Wish Star | 308887 | [308887-a-wish-star.json](./308887-a-wish-star.json) |
+| A Witch Shall be Born | 315559 | [315559-a-witch-shall-be-born.json](./315559-a-witch-shall-be-born.json) |
 | A Witch's Stop | 382374 | [382374-a-witchs-stop.json](./382374-a-witchs-stop.json) |
 | A Wizard's Curse | 416855 | [416855-a-wizards-curse.json](./416855-a-wizards-curse.json) |
 | A Wizard's Odyssey | 68651 | [68651-a-wizards-odyssey.json](./68651-a-wizards-odyssey.json) |
@@ -2826,6 +2827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice: Asylum | 82393 | [82393-alice-asylum.json](./82393-alice-asylum.json) |
 | Alice: Dark Fairytale | 174656 | [174656-alice-dark-fairytale.json](./174656-alice-dark-fairytale.json) |
 | Alice! | 186324 | [186324-alice.json](./186324-alice.json) |
+| Alice's 1997 | 315592 | [315592-alices-1997.json](./315592-alices-1997.json) |
 | Alice's Adventures | 96939 | [96939-alices-adventures.json](./96939-alices-adventures.json) |
 | Alice's Adventures in Wonderland | 95466 | [95466-alices-adventures-in-wonderland.json](./95466-alices-adventures-in-wonderland.json) |
 | Alice's Burger Shop | 223485 | [223485-alices-burger-shop.json](./223485-alices-burger-shop.json) |
