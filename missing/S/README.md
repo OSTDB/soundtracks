@@ -4420,6 +4420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoomer Booter | 287717 | [287717-shoomer-booter.json](./287717-shoomer-booter.json) |
 | Shooper Nova | 296512 | [296512-shooper-nova.json](./296512-shooper-nova.json) |
 | Shoot 'n' Smash | 340374 | [340374-shoot-n-smash.json](./340374-shoot-n-smash.json) |
+| Shoot & Destroy | 318527 | [318527-shoot-and-destroy.json](./318527-shoot-and-destroy.json) |
 | Shoot & Destroy X | 326169 | [326169-shoot-and-destroy-x.json](./326169-shoot-and-destroy-x.json) |
 | Shoot 8 Ball: Billiards Pool8 | 231902 | [231902-shoot-8-ball-billiards-pool8.json](./231902-shoot-8-ball-billiards-pool8.json) |
 | Shoot Away Pro | 326742 | [326742-shoot-away-pro.json](./326742-shoot-away-pro.json) |
@@ -6849,6 +6850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Soldiers | 71671 | [71671-small-soldiers.json](./71671-small-soldiers.json) |
 | Small Soldiers: Globotech Design Lab | 14594 | [14594-small-soldiers-globotech-design-lab.json](./14594-small-soldiers-globotech-design-lab.json) |
 | Small Soldiers: Hand to Hand Combat Game | 245408 | [245408-small-soldiers-hand-to-hand-combat-game.json](./245408-small-soldiers-hand-to-hand-combat-game.json) |
+| Small Spaces | 318506 | [318506-small-spaces.json](./318506-small-spaces.json) |
 | Small Super Mario Bros. U Deluxe | 256808 | [256808-small-super-mario-bros-u-deluxe.json](./256808-small-super-mario-bros-u-deluxe.json) |
 | Small Tank | 255017 | [255017-small-tank.json](./255017-small-tank.json) |
 | Small Town Detective | 310585 | [310585-small-town-detective.json](./310585-small-town-detective.json) |
@@ -8394,6 +8396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic CD++ | 198545 | [198545-sonic-cd.json](./198545-sonic-cd.json) |
 | Sonic Celerity | 336344 | [336344-sonic-celerity.json](./336344-sonic-celerity.json) |
 | Sonic Champions | 330527 | [330527-sonic-champions.json](./330527-sonic-champions.json) |
+| Sonic Chances | 318514 | [318514-sonic-chances.json](./318514-sonic-chances.json) |
 | Sonic Chaos Planet | 330711 | [330711-sonic-chaos-planet.json](./330711-sonic-chaos-planet.json) |
 | Sonic Chaos Remake | 321992 | [321992-sonic-chaos-remake.json](./321992-sonic-chaos-remake.json) |
 | Sonic Chaos Revolution | 329946 | [329946-sonic-chaos-revolution.json](./329946-sonic-chaos-revolution.json) |
@@ -8427,6 +8430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Definitive | 370216 | [370216-sonic-definitive.json](./370216-sonic-definitive.json) |
 | Sonic Destiny | 331715 | [331715-sonic-destiny.json](./331715-sonic-destiny.json) |
 | Sonic Digitalized | 326152 | [326152-sonic-digitalized.json](./326152-sonic-digitalized.json) |
+| Sonic DL Adventure | 318512 | [318512-sonic-dl-adventure.json](./318512-sonic-dl-adventure.json) |
 | Sonic Doom 2: 'Bots on Mobius | 374276 | [374276-sonic-doom-2-bots-on-mobius.json](./374276-sonic-doom-2-bots-on-mobius.json) |
 | Sonic Dream Team | 274840 | [274840-sonic-dream-team.json](./274840-sonic-dream-team.json) |
 | Sonic Dreams Collection | 11656 | [11656-sonic-dreams-collection.json](./11656-sonic-dreams-collection.json) |
@@ -8717,6 +8721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog Turbo | 331708 | [331708-sonic-the-hedgehog-turbo.json](./331708-sonic-the-hedgehog-turbo.json) |
 | Sonic the Hedgehog TX | 336381 | [336381-sonic-the-hedgehog-tx.json](./336381-sonic-the-hedgehog-tx.json) |
 | Sonic the Hedgehog Vol.2 | 198533 | [198533-sonic-the-hedgehog-vol-2.json](./198533-sonic-the-hedgehog-vol-2.json) |
+| Sonic the Hedgehog: Borderline | 318516 | [318516-sonic-the-hedgehog-borderline.json](./318516-sonic-the-hedgehog-borderline.json) |
 | Sonic the Hedgehog: Chaos Factor | 330963 | [330963-sonic-the-hedgehog-chaos-factor.json](./330963-sonic-the-hedgehog-chaos-factor.json) |
 | Sonic the Hedgehog: Chaos Spirits | 331396 | [331396-sonic-the-hedgehog-chaos-spirits.json](./331396-sonic-the-hedgehog-chaos-spirits.json) |
 | Sonic the Hedgehog: Character Pak | 198542 | [198542-sonic-the-hedgehog-character-pak.json](./198542-sonic-the-hedgehog-character-pak.json) |
@@ -10376,6 +10381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpellForce 3: Soul Harvest - Oktoberfest | 157561 | [157561-spellforce-3-soul-harvest-oktoberfest.json](./157561-spellforce-3-soul-harvest-oktoberfest.json) |
 | SpellForce 3: Versus | 144290 | [144290-spellforce-3-versus.json](./144290-spellforce-3-versus.json) |
 | Spellforce: Conquest of Eo - Children of Nor | 343445 | [343445-spellforce-conquest-of-eo-children-of-nor.json](./343445-spellforce-conquest-of-eo-children-of-nor.json) |
+| SpellForce: Conquest of Eo - Weaver's Realms | 318472 | [318472-spellforce-conquest-of-eo-weavers-realms.json](./318472-spellforce-conquest-of-eo-weavers-realms.json) |
 | SpellForce: Heroes & Magic | 118373 | [118373-spellforce-heroes-and-magic.json](./118373-spellforce-heroes-and-magic.json) |
 | SpellForce: Shadow of the Phoenix | 7031 | [7031-spellforce-shadow-of-the-phoenix.json](./7031-spellforce-shadow-of-the-phoenix.json) |
 | SpellForce: The Order of Dawn | 7027 | [7027-spellforce-the-order-of-dawn.json](./7027-spellforce-the-order-of-dawn.json) |
@@ -10452,6 +10458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sphere III: Enchanted World | 34619 | [34619-sphere-iii-enchanted-world.json](./34619-sphere-iii-enchanted-world.json) |
 | Sphere of Destiny | 13759 | [13759-sphere-of-destiny.json](./13759-sphere-of-destiny.json) |
 | Sphere TD | 400231 | [400231-sphere-td.json](./400231-sphere-td.json) |
+| Sphere vs. Gravity | 318476 | [318476-sphere-vs-gravity.json](./318476-sphere-vs-gravity.json) |
 | Sphere: Flying Cities - Save the World Edition | 186905 | [186905-sphere-flying-cities-save-the-world-edition.json](./186905-sphere-flying-cities-save-the-world-edition.json) |
 | Sphere: The Knight of Elf | 191096 | [191096-sphere-the-knight-of-elf.json](./191096-sphere-the-knight-of-elf.json) |
 | Spherebuddie 64 | 319063 | [319063-spherebuddie-64.json](./319063-spherebuddie-64.json) |
