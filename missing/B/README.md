@@ -3116,6 +3116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Benkei Gaiden | 80572 | [80572-benkei-gaiden.json](./80572-benkei-gaiden.json) |
 | Bennett Foddy's Speed Chess | 342167 | [342167-bennett-foddys-speed-chess.json](./342167-bennett-foddys-speed-chess.json) |
 | Bennu Bennu: Protect the Pyramid | 253378 | [253378-bennu-bennu-protect-the-pyramid.json](./253378-bennu-bennu-protect-the-pyramid.json) |
+| Benny Bash | 330973 | [330973-benny-bash.json](./330973-benny-bash.json) |
 | Benny's Backrooms | 303109 | [303109-bennys-backrooms.json](./303109-bennys-backrooms.json) |
 | Bent Oak Island | 240719 | [240719-bent-oak-island.json](./240719-bent-oak-island.json) |
 | Bent on Destruction | 195648 | [195648-bent-on-destruction.json](./195648-bent-on-destruction.json) |
@@ -4586,6 +4587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bladenet | 68166 | [68166-bladenet.json](./68166-bladenet.json) |
 | Bladequest: The First Chapter - Gold | 106548 | [106548-bladequest-the-first-chapter-gold.json](./106548-bladequest-the-first-chapter-gold.json) |
 | BladeRite: Rivals | 409794 | [409794-bladerite-rivals.json](./409794-bladerite-rivals.json) |
+| Bladerunners SX | 330820 | [330820-bladerunners-sx.json](./330820-bladerunners-sx.json) |
 | Blades Adrift | 176272 | [176272-blades-adrift.json](./176272-blades-adrift.json) |
 | Blades and Bullets | 277279 | [277279-blades-and-bullets.json](./277279-blades-and-bullets.json) |
 | Blades and Rings | 82122 | [82122-blades-and-rings.json](./82122-blades-and-rings.json) |
@@ -5665,6 +5667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blues Brothers 2000 | 3425 | [3425-blues-brothers-2000.json](./3425-blues-brothers-2000.json) |
 | Blues Brothers S | 330865 | [330865-blues-brothers-s.json](./330865-blues-brothers-s.json) |
 | BlueSkies | 250907 | [250907-blueskies.json](./250907-blueskies.json) |
+| Bluesky Map Jam | 330805 | [330805-bluesky-map-jam.json](./330805-bluesky-map-jam.json) |
 | BlueSuburbia | 252235 | [252235-bluesuburbia.json](./252235-bluesuburbia.json) |
 | BlueTricks | 237087 | [237087-bluetricks.json](./237087-bluetricks.json) |
 | Bluevolution | 149419 | [149419-bluevolution.json](./149419-bluevolution.json) |
@@ -5845,6 +5848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bodycam Police Simulator | 317218 | [317218-bodycam-police-simulator.json](./317218-bodycam-police-simulator.json) |
 | Bodycam Recorded | 377079 | [377079-bodycam-recorded.json](./377079-bodycam-recorded.json) |
 | Bodycam Shooter | 317436 | [317436-bodycam-shooter.json](./317436-bodycam-shooter.json) |
+| Bodycam Shooter 2025 | 330807 | [330807-bodycam-shooter-2025.json](./330807-bodycam-shooter-2025.json) |
 | Bodyconscious Digital Rave! Part 1: Shinjuku & Takashi | 245249 | [245249-bodyconscious-digital-rave-part-1-shinjuku-and-takashi.json](./245249-bodyconscious-digital-rave-part-1-shinjuku-and-takashi.json) |
 | Bodyguard Task Force | 291252 | [291252-bodyguard-task-force.json](./291252-bodyguard-task-force.json) |
 | Bodyguard: Cellwars | 365160 | [365160-bodyguard-cellwars.json](./365160-bodyguard-cellwars.json) |
