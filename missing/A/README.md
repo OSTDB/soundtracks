@@ -2072,6 +2072,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Solitaire: 4th of July | 322726 | [322726-ai-solitaire-4th-of-july.json](./322726-ai-solitaire-4th-of-july.json) |
 | AI Solitaire: Handsome Heroes | 304005 | [304005-ai-solitaire-handsome-heroes.json](./304005-ai-solitaire-handsome-heroes.json) |
 | AI Solitaire: Lovely Ladies | 304006 | [304006-ai-solitaire-lovely-ladies.json](./304006-ai-solitaire-lovely-ladies.json) |
+| AI Solitaire: Painted Ladies | 303139 | [303139-ai-solitaire-painted-ladies.json](./303139-ai-solitaire-painted-ladies.json) |
+| AI Solitaire: Solitaire Favorites Pack | 303140 | [303140-ai-solitaire-solitaire-favorites-pack.json](./303140-ai-solitaire-solitaire-favorites-pack.json) |
 | Ai Suru Tsuma, Mariko no Furin Houkoku: Otto Kounin no Gachi Furin Sex | 159164 | [159164-ai-suru-tsuma-mariko-no-furin-houkoku-otto-kounin-no-gachi-furin-sex.json](./159164-ai-suru-tsuma-mariko-no-furin-houkoku-otto-kounin-no-gachi-furin-sex.json) |
 | Ai To Noroi: School Simulator | 296442 | [296442-ai-to-noroi-school-simulator.json](./296442-ai-to-noroi-school-simulator.json) |
 | Ai to Yume no Kuni Sanrio Puroland Asobinagara Oboeyou! Hiragana Katakana | 250332 | [250332-ai-to-yume-no-kuni-sanrio-puroland-asobinagara-oboeyou-hiragana-katakana.json](./250332-ai-to-yume-no-kuni-sanrio-puroland-asobinagara-oboeyou-hiragana-katakana.json) |
@@ -3595,6 +3597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Am I the baddie? | 173287 | [173287-am-i-the-baddie.json](./173287-am-i-the-baddie.json) |
 | Ama Me (In Incisis) | 297551 | [297551-ama-me-in-incisis.json](./297551-ama-me-in-incisis.json) |
 | AMA Superbike | 94233 | [94233-ama-superbike.json](./94233-ama-superbike.json) |
+| Ama's Lullaby | 303156 | [303156-amas-lullaby.json](./303156-amas-lullaby.json) |
 | Amadeus Revenge | 70471 | [70471-amadeus-revenge.json](./70471-amadeus-revenge.json) |
 | Amadeus: A Riddle for Thee - Episode 1: Waltz | 296491 | [296491-amadeus-a-riddle-for-thee-episode-1-waltz.json](./296491-amadeus-a-riddle-for-thee-episode-1-waltz.json) |
 | Amado | 14496 | [14496-amado.json](./14496-amado.json) |
@@ -3970,6 +3973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among School Girls | 165006 | [165006-among-school-girls.json](./165006-among-school-girls.json) |
 | Among Shadows | 380068 | [380068-among-shadows.json](./380068-among-shadows.json) |
 | Among Stars | 211405 | [211405-among-stars.json](./211405-among-stars.json) |
+| Among The Dead | 303157 | [303157-among-the-dead.json](./303157-among-the-dead.json) |
 | Among the Dead Ones | 174671 | [174671-among-the-dead-ones.json](./174671-among-the-dead-ones.json) |
 | Among the Innocent: A Stricken Tale | 30439 | [30439-among-the-innocent-a-stricken-tale.json](./30439-among-the-innocent-a-stricken-tale.json) |
 | Among the Monolyths | 180786 | [180786-among-the-monolyths.json](./180786-among-the-monolyths.json) |
@@ -4033,6 +4037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Adventurer's Gallantry | 238518 | [238518-an-adventurers-gallantry.json](./238518-an-adventurers-gallantry.json) |
 | An Adventurer's Tale | 112604 | [112604-an-adventurers-tale.json](./112604-an-adventurers-tale.json) |
 | An Afternoon Rippling | 122337 | [122337-an-afternoon-rippling.json](./122337-an-afternoon-rippling.json) |
+| An Agonized Mind | 303158 | [303158-an-agonized-mind.json](./303158-an-agonized-mind.json) |
 | An Alien with a Magnet | 34750 | [34750-an-alien-with-a-magnet.json](./34750-an-alien-with-a-magnet.json) |
 | An Alien with a Magnet HD | 90682 | [90682-an-alien-with-a-magnet-hd.json](./90682-an-alien-with-a-magnet-hd.json) |
 | An Alien's Work is Never Done | 316715 | [316715-an-aliens-work-is-never-done.json](./316715-an-aliens-work-is-never-done.json) |
@@ -4086,6 +4091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anamorphine | 27873 | [27873-anamorphine.json](./27873-anamorphine.json) |
 | Anan Kanshuu: Onna-jikara Kinkyuu Up! DS | 269549 | [269549-anan-kanshuu-onna-jikara-kinkyuu-up-ds.json](./269549-anan-kanshuu-onna-jikara-kinkyuu-up-ds.json) |
 | Ananas: Pineapple Idle Game | 337815 | [337815-ananas-pineapple-idle-game.json](./337815-ananas-pineapple-idle-game.json) |
+| Anandala | 303159 | [303159-anandala.json](./303159-anandala.json) |
 | Ananke | 221293 | [221293-ananke.json](./221293-ananke.json) |
 | Ananse and the Pot of Wisdom | 251827 | [251827-ananse-and-the-pot-of-wisdom.json](./251827-ananse-and-the-pot-of-wisdom.json) |
 | Anaon | 274031 | [274031-anaon.json](./274031-anaon.json) |
@@ -4133,6 +4139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anchored Alone | 408269 | [408269-anchored-alone.json](./408269-anchored-alone.json) |
 | Anchorhead | 138147 | [138147-anchorhead.json](./138147-anchorhead.json) |
 | Anchors: Blockade Zone | 239900 | [239900-anchors-blockade-zone.json](./239900-anchors-blockade-zone.json) |
+| Anchors: Start | 303160 | [303160-anchors-start.json](./303160-anchors-start.json) |
 | Ancient | 371889 | [371889-ancient.json](./371889-ancient.json) |
 | Ancient Adventure | 406222 | [406222-ancient-adventure.json](./406222-ancient-adventure.json) |
 | Ancient Adventures | 205841 | [205841-ancient-adventures.json](./205841-ancient-adventures.json) |
@@ -4189,6 +4196,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Rus vs. Lizards | 277013 | [277013-ancient-rus-vs-lizards.json](./277013-ancient-rus-vs-lizards.json) |
 | Ancient Russian Life Simulator | 278177 | [278177-ancient-russian-life-simulator.json](./278177-ancient-russian-life-simulator.json) |
 | Ancient Sacrifice | 236297 | [236297-ancient-sacrifice.json](./236297-ancient-sacrifice.json) |
+| Ancient Savo | 303161 | [303161-ancient-savo.json](./303161-ancient-savo.json) |
+| Ancient Scroll | 303162 | [303162-ancient-scroll.json](./303162-ancient-scroll.json) |
 | Ancient Shadows: Awakening | 351121 | [351121-ancient-shadows-awakening.json](./351121-ancient-shadows-awakening.json) |
 | Ancient Siberia | 68471 | [68471-ancient-siberia.json](./68471-ancient-siberia.json) |
 | Ancient Souls Tamag | 167676 | [167676-ancient-souls-tamag.json](./167676-ancient-souls-tamag.json) |
@@ -4197,6 +4206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Swarm | 410345 | [410345-ancient-swarm.json](./410345-ancient-swarm.json) |
 | Ancient Taxi | 91557 | [91557-ancient-taxi.json](./91557-ancient-taxi.json) |
 | Ancient TD | 363062 | [363062-ancient-td.json](./363062-ancient-td.json) |
+| Ancient Totems | 303163 | [303163-ancient-totems.json](./303163-ancient-totems.json) |
 | Ancient Tribe | 84886 | [84886-ancient-tribe.json](./84886-ancient-tribe.json) |
 | Ancient TriPeaks | 202099 | [202099-ancient-tripeaks.json](./202099-ancient-tripeaks.json) |
 | Ancient War: Three Kingdoms | 113695 | [113695-ancient-war-three-kingdoms.json](./113695-ancient-war-three-kingdoms.json) |
@@ -4238,6 +4248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AnderKant | 367493 | [367493-anderkant.json](./367493-anderkant.json) |
 | AnderKant 2 | 326243 | [326243-anderkant-2.json](./326243-anderkant-2.json) |
 | AnderKant 4 | 339935 | [339935-anderkant-4.json](./339935-anderkant-4.json) |
+| Anders: The Dark Coast | 303146 | [303146-anders-the-dark-coast.json](./303146-anders-the-dark-coast.json) |
 | Anderson | 102378 | [102378-anderson.json](./102378-anderson.json) |
 | Andi-Land | 84203 | [84203-andi-land.json](./84203-andi-land.json) |
 | Andou: Pulse of Cup | 369572 | [369572-andou-pulse-of-cup.json](./369572-andou-pulse-of-cup.json) |
@@ -4268,6 +4279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andromis | 377085 | [377085-andromis.json](./377085-andromis.json) |
 | Andromium | 94740 | [94740-andromium.json](./94740-andromium.json) |
 | Androne | 42155 | [42155-androne.json](./42155-androne.json) |
+| Androsystem Idle | 303145 | [303145-androsystem-idle.json](./303145-androsystem-idle.json) |
 | Andy Blast vs. The Forces of Evil | 291772 | [291772-andy-blast-vs-the-forces-of-evil.json](./291772-andy-blast-vs-the-forces-of-evil.json) |
 | Andy's Adventure Game | 316760 | [316760-andys-adventure-game.json](./316760-andys-adventure-game.json) |
 | Andy's Apple Farm: Christmas Special | 193505 | [193505-andys-apple-farm-christmas-special.json](./193505-andys-apple-farm-christmas-special.json) |
@@ -4449,6 +4461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Space Bees | 149029 | [149029-angry-space-bees.json](./149029-angry-space-bees.json) |
 | Angry Squirrel | 164233 | [164233-angry-squirrel.json](./164233-angry-squirrel.json) |
 | Angry stone | 296533 | [296533-angry-stone.json](./296533-angry-stone.json) |
+| Angry Tiny Sun | 303144 | [303144-angry-tiny-sun.json](./303144-angry-tiny-sun.json) |
 | Angry Troll | 122210 | [122210-angry-troll.json](./122210-angry-troll.json) |
 | Angry Troll Simulator 2018 | 110510 | [110510-angry-troll-simulator-2018.json](./110510-angry-troll-simulator-2018.json) |
 | Angry Universe VR | 297066 | [297066-angry-universe-vr.json](./297066-angry-universe-vr.json) |
@@ -4494,6 +4507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Adventure Downhill Rush | 269084 | [269084-animal-adventure-downhill-rush.json](./269084-animal-adventure-downhill-rush.json) |
 | Animal Away Jam | 297651 | [297651-animal-away-jam.json](./297651-animal-away-jam.json) |
 | Animal Babysister Fighter | 200474 | [200474-animal-babysister-fighter.json](./200474-animal-babysister-fighter.json) |
+| Animal Bomb Chess | 303147 | [303147-animal-bomb-chess.json](./303147-animal-bomb-chess.json) |
 | Animal Bomber | 147466 | [147466-animal-bomber.json](./147466-animal-bomber.json) |
 | Animal Boxing | 68953 | [68953-animal-boxing.json](./68953-animal-boxing.json) |
 | Animal Breeder | 78715 | [78715-animal-breeder.json](./78715-animal-breeder.json) |
@@ -4556,6 +4570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Puzzle for Kids and Toddlers | 300765 | [300765-animal-puzzle-for-kids-and-toddlers.json](./300765-animal-puzzle-for-kids-and-toddlers.json) |
 | Animal Puzzle World | 237364 | [237364-animal-puzzle-world.json](./237364-animal-puzzle-world.json) |
 | Animal Puzzle: Preschool Learning Game for Kids and Toddlers | 165618 | [165618-animal-puzzle-preschool-learning-game-for-kids-and-toddlers.json](./165618-animal-puzzle-preschool-learning-game-for-kids-and-toddlers.json) |
+| Animal Race Run VR | 303155 | [303155-animal-race-run-vr.json](./303155-animal-race-run-vr.json) |
 | Animal Rescue | 169407 | [169407-animal-rescue.json](./169407-animal-rescue.json) |
 | Animal Rescuer | 139419 | [139419-animal-rescuer.json](./139419-animal-rescuer.json) |
 | Animal Restaurant | 133792 | [133792-animal-restaurant.json](./133792-animal-restaurant.json) |
@@ -4673,7 +4688,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Girl or Boy? | 108419 | [108419-anime-girl-or-boy.json](./108419-anime-girl-or-boy.json) |
 | Anime Girl Puzzles | 290910 | [290910-anime-girl-puzzles.json](./290910-anime-girl-puzzles.json) |
 | Anime Girl Puzzles: Akari | 297770 | [297770-anime-girl-puzzles-akari.json](./297770-anime-girl-puzzles-akari.json) |
+| Anime Girl Puzzles: Honomi | 303151 | [303151-anime-girl-puzzles-honomi.json](./303151-anime-girl-puzzles-honomi.json) |
 | Anime Girl Puzzles: Kohana | 298708 | [298708-anime-girl-puzzles-kohana.json](./298708-anime-girl-puzzles-kohana.json) |
+| Anime Girl Puzzles: Sana | 303152 | [303152-anime-girl-puzzles-sana.json](./303152-anime-girl-puzzles-sana.json) |
+| Anime Girl Puzzles: Suki | 303153 | [303153-anime-girl-puzzles-suki.json](./303153-anime-girl-puzzles-suki.json) |
 | Anime Girl Puzzles: Wakana | 297773 | [297773-anime-girl-puzzles-wakana.json](./297773-anime-girl-puzzles-wakana.json) |
 | Anime Girl Puzzles: Yui | 297772 | [297772-anime-girl-puzzles-yui.json](./297772-anime-girl-puzzles-yui.json) |
 | Anime Girls | 261367 | [261367-anime-girls.json](./261367-anime-girls.json) |
@@ -4738,6 +4756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Wave Simulator | 156668 | [156668-anime-wave-simulator.json](./156668-anime-wave-simulator.json) |
 | Anime-dle | 337089 | [337089-anime-dle.json](./337089-anime-dle.json) |
 | Anime: Fantasy Uni | 393625 | [393625-anime-fantasy-uni.json](./393625-anime-fantasy-uni.json) |
+| Animeahikoaprinceaverse A4: Prince Akihiko & Princess A | 303154 | [303154-animeahikoaprinceaverse-a4-prince-akihiko-and-princess-a.json](./303154-animeahikoaprinceaverse-a4-prince-akihiko-and-princess-a.json) |
 | Animelee | 74774 | [74774-animelee.json](./74774-animelee.json) |
 | Animentals | 387361 | [387361-animentals.json](./387361-animentals.json) |
 | Animesports: Party Basketball! | 348431 | [348431-animesports-party-basketball.json](./348431-animesports-party-basketball.json) |
@@ -4844,6 +4863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annoying Orange Pinball | 266517 | [266517-annoying-orange-pinball.json](./266517-annoying-orange-pinball.json) |
 | Annoying Orange: Kitchen Carnage | 266516 | [266516-annoying-orange-kitchen-carnage.json](./266516-annoying-orange-kitchen-carnage.json) |
 | Annoying Orange: Splatter Up! | 108462 | [108462-annoying-orange-splatter-up.json](./108462-annoying-orange-splatter-up.json) |
+| Annuit Coeptis | 303149 | [303149-annuit-coeptis.json](./303149-annuit-coeptis.json) |
 | Annulus | 196308 | [196308-annulus.json](./196308-annulus.json) |
 | Annunaki Clicker | 348786 | [348786-annunaki-clicker.json](./348786-annunaki-clicker.json) |
 | Annventure | 221769 | [221769-annventure.json](./221769-annventure.json) |
@@ -4942,6 +4962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Pint | 361865 | [361865-another-pint.json](./361865-another-pint.json) |
 | Another Prince: A Lost Tale | 191915 | [191915-another-prince-a-lost-tale.json](./191915-another-prince-a-lost-tale.json) |
 | Another Princess is in Our Castle | 228362 | [228362-another-princess-is-in-our-castle.json](./228362-another-princess-is-in-our-castle.json) |
+| Another Realm | 303150 | [303150-another-realm.json](./303150-another-realm.json) |
 | Another road | 167243 | [167243-another-road.json](./167243-another-road.json) |
 | Another Round | 330254 | [330254-another-round.json](./330254-another-round.json) |
 | Another Runner | 55214 | [55214-another-runner.json](./55214-another-runner.json) |
@@ -5000,6 +5021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Answer Campus | 260408 | [260408-answer-campus.json](./260408-answer-campus.json) |
 | Answer Me | 157164 | [157164-answer-me.json](./157164-answer-me.json) |
 | Answered Prayers | 145035 | [145035-answered-prayers.json](./145035-answered-prayers.json) |
+| Ant Attack | 303148 | [303148-ant-attack.json](./303148-ant-attack.json) |
 | Ant Colony | 42163 | [42163-ant-colony.json](./42163-ant-colony.json) |
 | Ant Destroyer 2 | 102596 | [102596-ant-destroyer-2.json](./102596-ant-destroyer-2.json) |
 | Ant Empire | 109705 | [109705-ant-empire.json](./109705-ant-empire.json) |
@@ -7361,8 +7383,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Divide | 277816 | [277816-astral-divide.json](./277816-astral-divide.json) |
 | Astral Domine | 33078 | [33078-astral-domine.json](./33078-astral-domine.json) |
 | Astral Equilibrium | 140358 | [140358-astral-equilibrium.json](./140358-astral-equilibrium.json) |
+| Astral Fable | 303187 | [303187-astral-fable.json](./303187-astral-fable.json) |
 | Astral Fantasy | 350662 | [350662-astral-fantasy.json](./350662-astral-fantasy.json) |
 | Astral Green | 184079 | [184079-astral-green.json](./184079-astral-green.json) |
+| Astral Guardians | 303188 | [303188-astral-guardians.json](./303188-astral-guardians.json) |
 | Astral Masters | 140983 | [140983-astral-masters.json](./140983-astral-masters.json) |
 | Astral Maze: Escape the Horror | 304677 | [304677-astral-maze-escape-the-horror.json](./304677-astral-maze-escape-the-horror.json) |
 | Astral Ooze | 348345 | [348345-astral-ooze.json](./348345-astral-ooze.json) |
