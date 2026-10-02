@@ -820,9 +820,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wario Land II | 204786 | [204786-wario-land-ii.json](./204786-wario-land-ii.json) |
 | Wario Land Remix | 322778 | [322778-wario-land-remix.json](./322778-wario-land-remix.json) |
 | Wario Land: Shake It! | 1702 | [1702-wario-land-shake-it.json](./1702-wario-land-shake-it.json) |
+| Wario Land: The Shake Dimension | 328671 | [328671-wario-land-the-shake-dimension.json](./328671-wario-land-the-shake-dimension.json) |
 | Wario no Mori: Event Ban Ver. 1 | 401088 | [401088-wario-no-mori-event-ban-ver-1.json](./401088-wario-no-mori-event-ban-ver-1.json) |
 | Wario: Master of Disguise | 1701 | [1701-wario-master-of-disguise.json](./1701-wario-master-of-disguise.json) |
 | Wario: Master of Disguise Trivia | 231649 | [231649-wario-master-of-disguise-trivia.json](./231649-wario-master-of-disguise-trivia.json) |
+| Wario's Flashin' Fruit Punch Splash | 328660 | [328660-warios-flashin-fruit-punch-splash.json](./328660-warios-flashin-fruit-punch-splash.json) |
 | Wario's Hint Art | 300685 | [300685-warios-hint-art.json](./300685-warios-hint-art.json) |
 | WarioWare D.I.Y. | 1708 | [1708-warioware-d-i-y.json](./1708-warioware-d-i-y.json) |
 | WarioWare Mouse Workz! | 250046 | [250046-warioware-mouse-workz.json](./250046-warioware-mouse-workz.json) |
