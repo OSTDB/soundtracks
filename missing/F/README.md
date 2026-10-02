@@ -1249,6 +1249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Land | 365204 | [365204-farm-land.json](./365204-farm-land.json) |
 | Farm Land: Complete Edition | 270793 | [270793-farm-land-complete-edition.json](./270793-farm-land-complete-edition.json) |
 | Farm Land: Gold Edition | 385198 | [385198-farm-land-gold-edition.json](./385198-farm-land-gold-edition.json) |
+| Farm Land: Kitty Edition | 278652 | [278652-farm-land-kitty-edition.json](./278652-farm-land-kitty-edition.json) |
 | Farm Land: Puppy Edition | 277904 | [277904-farm-land-puppy-edition.json](./277904-farm-land-puppy-edition.json) |
 | Farm Life | 381011 | [381011-farm-life.json](./381011-farm-life.json) |
 | Farm Life: Natures Adventure | 31804 | [31804-farm-life-natures-adventure.json](./31804-farm-life-natures-adventure.json) |
@@ -4591,6 +4592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For a Vast Future: Deluxe Edition | 268557 | [268557-for-a-vast-future-deluxe-edition.json](./268557-for-a-vast-future-deluxe-edition.json) |
 | For a Vast Future: Legendary Edition | 288287 | [288287-for-a-vast-future-legendary-edition.json](./288287-for-a-vast-future-legendary-edition.json) |
 | For a Vast Future: Premium Edition | 283149 | [283149-for-a-vast-future-premium-edition.json](./283149-for-a-vast-future-premium-edition.json) |
+| For a Vast Future: Special Edition | 278643 | [278643-for-a-vast-future-special-edition.json](./278643-for-a-vast-future-special-edition.json) |
 | For All the People I Love | 336894 | [336894-for-all-the-people-i-love.json](./336894-for-all-the-people-i-love.json) |
 | For Amerta | 220572 | [220572-for-amerta.json](./220572-for-amerta.json) |
 | For Double | 255155 | [255155-for-double.json](./255155-for-double.json) |
@@ -6115,6 +6117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From the Darkness | 149716 | [149716-from-the-darkness.json](./149716-from-the-darkness.json) |
 | From the Deep | 224240 | [224240-from-the-deep.json](./224240-from-the-deep.json) |
 | From The Past | 329689 | [329689-from-the-past.json](./329689-from-the-past.json) |
+| From the Psychothread | 278611 | [278611-from-the-psychothread.json](./278611-from-the-psychothread.json) |
 | From the Shadows | 142329 | [142329-from-the-shadows.json](./142329-from-the-shadows.json) |
 | From the Streets to the Script: A Carabanchel Story | 238500 | [238500-from-the-streets-to-the-script-a-carabanchel-story.json](./238500-from-the-streets-to-the-script-a-carabanchel-story.json) |
 | From the Town of Gleming | 195630 | [195630-from-the-town-of-gleming.json](./195630-from-the-town-of-gleming.json) |
@@ -6670,6 +6673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fureraba: Friend to Lover | 60763 | [60763-fureraba-friend-to-lover.json](./60763-fureraba-friend-to-lover.json) |
 | Fureraba: Friend to Lover - Mini Fandisk | 77936 | [77936-fureraba-friend-to-lover-mini-fandisk.json](./77936-fureraba-friend-to-lover-mini-fandisk.json) |
 | Furi | 17026 | [17026-furi.json](./17026-furi.json) |
+| Furi Demake: The Chain | 278637 | [278637-furi-demake-the-chain.json](./278637-furi-demake-the-chain.json) |
 | Furi: Onnamusha | 200436 | [200436-furi-onnamusha.json](./200436-furi-onnamusha.json) |
 | Furikake Spacey | 216461 | [216461-furikake-spacey.json](./216461-furikake-spacey.json) |
 | Furiosity | 225286 | [225286-furiosity.json](./225286-furiosity.json) |
