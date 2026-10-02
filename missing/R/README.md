@@ -2445,6 +2445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rema the Truth | 111887 | [111887-rema-the-truth.json](./111887-rema-the-truth.json) |
 | Remain | 30054 | [30054-remain.json](./30054-remain.json) |
 | Remain At Your Desk | 401513 | [401513-remain-at-your-desk.json](./401513-remain-at-your-desk.json) |
+| Remain on Earth | 316135 | [316135-remain-on-earth.json](./316135-remain-on-earth.json) |
 | Remains of Yith | 340007 | [340007-remains-of-yith.json](./340007-remains-of-yith.json) |
 | Remake Lover | 403194 | [403194-remake-lover.json](./403194-remake-lover.json) |
 | Remaster Textures | 271488 | [271488-remaster-textures.json](./271488-remaster-textures.json) |
@@ -4698,6 +4699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket League: Season 12 | 265236 | [265236-rocket-league-season-12.json](./265236-rocket-league-season-12.json) |
 | Rocket League: Season 15 | 305787 | [305787-rocket-league-season-15.json](./305787-rocket-league-season-15.json) |
 | Rocket League: Season 15 Rookie Pack | 326039 | [326039-rocket-league-season-15-rookie-pack.json](./326039-rocket-league-season-15-rookie-pack.json) |
+| Rocket League: Season 16 | 316170 | [316170-rocket-league-season-16.json](./316170-rocket-league-season-16.json) |
 | Rocket League: Season 17 Rocketeer Pack | 331860 | [331860-rocket-league-season-17-rocketeer-pack.json](./331860-rocket-league-season-17-rocketeer-pack.json) |
 | Rocket League: Season 17 Veteran Pack | 330705 | [330705-rocket-league-season-17-veteran-pack.json](./330705-rocket-league-season-17-veteran-pack.json) |
 | Rocket League: Season 18 Rocketeer Pack | 366846 | [366846-rocket-league-season-18-rocketeer-pack.json](./366846-rocket-league-season-18-rocketeer-pack.json) |
@@ -4897,6 +4899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rodeo Judge | 57068 | [57068-rodeo-judge.json](./57068-rodeo-judge.json) |
 | Rodgerbints: Romance and Scandal in High Society | 328488 | [328488-rodgerbints-romance-and-scandal-in-high-society.json](./328488-rodgerbints-romance-and-scandal-in-high-society.json) |
 | Rododendron | 370721 | [370721-rododendron.json](./370721-rododendron.json) |
+| Rods: Rod Roll | 316152 | [316152-rods-rod-roll.json](./316152-rods-rod-roll.json) |
 | Rody & Mastico | 13077 | [13077-rody-and-mastico.json](./13077-rody-and-mastico.json) |
 | Rog & Roll | 139401 | [139401-rog-and-roll.json](./139401-rog-and-roll.json) |
 | Rogalia | 31300 | [31300-rogalia.json](./31300-rogalia.json) |
