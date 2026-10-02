@@ -2169,6 +2169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Hidden in Chang'an | 351716 | [351716-cats-hidden-in-changan.json](./351716-cats-hidden-in-changan.json) |
 | Cats Hidden in China | 272861 | [272861-cats-hidden-in-china.json](./272861-cats-hidden-in-china.json) |
 | Cats Hidden in Italy | 239729 | [239729-cats-hidden-in-italy.json](./239729-cats-hidden-in-italy.json) |
+| Cats Hidden in Magic Places | 309047 | [309047-cats-hidden-in-magic-places.json](./309047-cats-hidden-in-magic-places.json) |
 | Cats Hidden in Paris: Extra Level | 255705 | [255705-cats-hidden-in-paris-extra-level.json](./255705-cats-hidden-in-paris-extra-level.json) |
 | Cats Hiding in 3D | 318209 | [318209-cats-hiding-in-3d.json](./318209-cats-hiding-in-3d.json) |
 | Cats Huddled Together | 277839 | [277839-cats-huddled-together.json](./277839-cats-huddled-together.json) |
@@ -4502,6 +4503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City States: Medieval | 381155 | [381155-city-states-medieval.json](./381155-city-states-medieval.json) |
 | City Super Hero 3D: Flying Legend Warriors Deluxe Simulator | 212276 | [212276-city-super-hero-3d-flying-legend-warriors-deluxe-simulator.json](./212276-city-super-hero-3d-flying-legend-warriors-deluxe-simulator.json) |
 | City Survival Project | 130842 | [130842-city-survival-project.json](./130842-city-survival-project.json) |
+| City Takeover | 309048 | [309048-city-takeover.json](./309048-city-takeover.json) |
 | City Takeover: Fierce Animals | 309085 | [309085-city-takeover-fierce-animals.json](./309085-city-takeover-fierce-animals.json) |
 | City Takeover: Gentle Animals | 309086 | [309086-city-takeover-gentle-animals.json](./309086-city-takeover-gentle-animals.json) |
 | City Takeover: Wild Edition | 364096 | [364096-city-takeover-wild-edition.json](./364096-city-takeover-wild-edition.json) |
@@ -5273,6 +5275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cobra | 12945 | [12945-cobra.json](./12945-cobra.json) |
 | Cobra | 74748 | [74748-cobra.json](./74748-cobra.json) |
 | Cobra Kai 2: Dojos Rising Nemesis Pack | 263194 | [263194-cobra-kai-2-dojos-rising-nemesis-pack.json](./263194-cobra-kai-2-dojos-rising-nemesis-pack.json) |
+| Cobra Kai Collection | 309015 | [309015-cobra-kai-collection.json](./309015-cobra-kai-collection.json) |
 | Cobra: Galaxy Nights | 75736 | [75736-cobra-galaxy-nights.json](./75736-cobra-galaxy-nights.json) |
 | Cobra: Kokuryuu Ou no Densetsu | 74749 | [74749-cobra-kokuryuu-ou-no-densetsu.json](./74749-cobra-kokuryuu-ou-no-densetsu.json) |
 | Cobra's Arc | 39110 | [39110-cobras-arc.json](./39110-cobras-arc.json) |
@@ -9245,6 +9248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubes and More Cubes | 180221 | [180221-cubes-and-more-cubes.json](./180221-cubes-and-more-cubes.json) |
 | Cubes Crush Legend | 174819 | [174819-cubes-crush-legend.json](./174819-cubes-crush-legend.json) |
 | Cubes: Procedural Wonders | 240339 | [240339-cubes-procedural-wonders.json](./240339-cubes-procedural-wonders.json) |
+| CubeSat Builder: Build a NASA Spacecraft! | 309025 | [309025-cubesat-builder-build-a-nasa-spacecraft.json](./309025-cubesat-builder-build-a-nasa-spacecraft.json) |
 | Cubeshift | 54542 | [54542-cubeshift.json](./54542-cubeshift.json) |
 | CubeShooter | 203967 | [203967-cubeshooter.json](./203967-cubeshooter.json) |
 | Cubesis | 36225 | [36225-cubesis.json](./36225-cubesis.json) |
@@ -9931,6 +9935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberpunk Inquisitor | 306065 | [306065-cyberpunk-inquisitor.json](./306065-cyberpunk-inquisitor.json) |
 | Cyberpunk Men for Cyberpunk Sex | 288882 | [288882-cyberpunk-men-for-cyberpunk-sex.json](./288882-cyberpunk-men-for-cyberpunk-sex.json) |
 | Cyberpunk Men for Sex Motel | 288895 | [288895-cyberpunk-men-for-sex-motel.json](./288895-cyberpunk-men-for-sex-motel.json) |
+| Cyberpunk Samurai | 309006 | [309006-cyberpunk-samurai.json](./309006-cyberpunk-samurai.json) |
 | Cyberpunk Sex | 277366 | [277366-cyberpunk-sex.json](./277366-cyberpunk-sex.json) |
 | CyberPunk Sex Tower | 171604 | [171604-cyberpunk-sex-tower.json](./171604-cyberpunk-sex-tower.json) |
 | Cyberpunk Women for Sex Motel | 288896 | [288896-cyberpunk-women-for-sex-motel.json](./288896-cyberpunk-women-for-sex-motel.json) |
