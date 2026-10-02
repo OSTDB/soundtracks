@@ -924,6 +924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardball + Hardball 2 | 336132 | [336132-hardball-hardball-2.json](./336132-hardball-hardball-2.json) |
 | HardBall II | 12433 | [12433-hardball-ii.json](./12433-hardball-ii.json) |
 | HardBall! | 12136 | [12136-hardball.json](./12136-hardball.json) |
+| HardBall! + HardBall II | 296603 | [296603-hardball-hardball-ii.json](./296603-hardball-hardball-ii.json) |
 | HardBoiledFarm | 255967 | [255967-hardboiledfarm.json](./255967-hardboiledfarm.json) |
 | Hardcheologist | 405060 | [405060-hardcheologist.json](./405060-hardcheologist.json) |
 | HardCop 2 | 156681 | [156681-hardcop-2.json](./156681-hardcop-2.json) |
@@ -4319,6 +4320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Crew | 416806 | [416806-hollow-crew.json](./416806-hollow-crew.json) |
 | Hollow Cries | 125198 | [125198-hollow-cries.json](./125198-hollow-cries.json) |
 | Hollow Doll | 322060 | [322060-hollow-doll.json](./322060-hollow-doll.json) |
+| Hollow Floor | 296617 | [296617-hollow-floor.json](./296617-hollow-floor.json) |
 | Hollow Floor | 355154 | [355154-hollow-floor.json](./355154-hollow-floor.json) |
 | Hollow Ghost | 144779 | [144779-hollow-ghost.json](./144779-hollow-ghost.json) |
 | Hollow Ground | 365295 | [365295-hollow-ground.json](./365295-hollow-ground.json) |
@@ -4936,6 +4938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horny Massage Clinic | 411063 | [411063-horny-massage-clinic.json](./411063-horny-massage-clinic.json) |
 | Horny Recruiter | 368046 | [368046-horny-recruiter.json](./368046-horny-recruiter.json) |
 | Horny Spell | 226189 | [226189-horny-spell.json](./226189-horny-spell.json) |
+| Horny Suika: Wet Watermelon | 296614 | [296614-horny-suika-wet-watermelon.json](./296614-horny-suika-wet-watermelon.json) |
 | Horny Sweeper 2 | 130735 | [130735-horny-sweeper-2.json](./130735-horny-sweeper-2.json) |
 | Horny Warp: Hentai Fantasy | 343372 | [343372-horny-warp-hentai-fantasy.json](./343372-horny-warp-hentai-fantasy.json) |
 | Horny Witch Hunt | 212200 | [212200-horny-witch-hunt.json](./212200-horny-witch-hunt.json) |
