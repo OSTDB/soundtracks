@@ -1145,6 +1145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Hell of a Ride | 218562 | [218562-one-hell-of-a-ride.json](./218562-one-hell-of-a-ride.json) |
 | One Hell of a Trip | 151553 | [151553-one-hell-of-a-trip.json](./151553-one-hell-of-a-trip.json) |
 | One Hell of a Turnabout | 310419 | [310419-one-hell-of-a-turnabout.json](./310419-one-hell-of-a-turnabout.json) |
+| One Helluva Reskin for Pizza Tower | 310667 | [310667-one-helluva-reskin-for-pizza-tower.json](./310667-one-helluva-reskin-for-pizza-tower.json) |
 | One Hit Cowboy | 233097 | [233097-one-hit-cowboy.json](./233097-one-hit-cowboy.json) |
 | One Hit KO | 29218 | [29218-one-hit-ko.json](./29218-one-hit-ko.json) |
 | One Hop Ahead | 390764 | [390764-one-hop-ahead.json](./390764-one-hop-ahead.json) |
@@ -2913,6 +2914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oxyblack Fortress | 271317 | [271317-oxyblack-fortress.json](./271317-oxyblack-fortress.json) |
 | Oxyd Extra | 93036 | [93036-oxyd-extra.json](./93036-oxyd-extra.json) |
 | Oxygen Cocktail | 249275 | [249275-oxygen-cocktail.json](./249275-oxygen-cocktail.json) |
+| Oxygen Not Included: The Frosty Planet Pack | 310683 | [310683-oxygen-not-included-the-frosty-planet-pack.json](./310683-oxygen-not-included-the-frosty-planet-pack.json) |
 | Oyabu Clinic Deathcare Corporation | 244264 | [244264-oyabu-clinic-deathcare-corporation.json](./244264-oyabu-clinic-deathcare-corporation.json) |
 | Oyadori no Ko | 150552 | [150552-oyadori-no-ko.json](./150552-oyadori-no-ko.json) |
 | Oyako de Manabu SDGs | 256269 | [256269-oyako-de-manabu-sdgs.json](./256269-oyako-de-manabu-sdgs.json) |
