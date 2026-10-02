@@ -1666,6 +1666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawns of War | 341589 | [341589-pawns-of-war.json](./341589-pawns-of-war.json) |
 | Pawns Survival | 390002 | [390002-pawns-survival.json](./390002-pawns-survival.json) |
 | Pawnshop No. 17 | 386290 | [386290-pawnshop-no-17.json](./386290-pawnshop-no-17.json) |
+| PawnShop Simulator | 325525 | [325525-pawnshop-simulator.json](./325525-pawnshop-simulator.json) |
 | Pawprints Match | 359410 | [359410-pawprints-match.json](./359410-pawprints-match.json) |
 | PawRebuild | 406698 | [406698-pawrebuild.json](./406698-pawrebuild.json) |
 | Paws | 94253 | [94253-paws.json](./94253-paws.json) |
@@ -3409,6 +3410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX: Williams Pinball Collection 1 | 239021 | [239021-pinball-fx-williams-pinball-collection-1.json](./239021-pinball-fx-williams-pinball-collection-1.json) |
 | Pinball FX: Williams Pinball Collection 2 | 239020 | [239020-pinball-fx-williams-pinball-collection-2.json](./239020-pinball-fx-williams-pinball-collection-2.json) |
 | Pinball FX: Williams Pinball Volume 7 | 271828 | [271828-pinball-fx-williams-pinball-volume-7.json](./271828-pinball-fx-williams-pinball-volume-7.json) |
+| Pinball FX: Williams Pinball Volume 8 | 325528 | [325528-pinball-fx-williams-pinball-volume-8.json](./325528-pinball-fx-williams-pinball-volume-8.json) |
 | Pinball FX: World War Z Pinball | 239016 | [239016-pinball-fx-world-war-z-pinball.json](./239016-pinball-fx-world-war-z-pinball.json) |
 | Pinball FX: Zen Originals Collection 1 | 239015 | [239015-pinball-fx-zen-originals-collection-1.json](./239015-pinball-fx-zen-originals-collection-1.json) |
 | Pinball FX2 | 79328 | [79328-pinball-fx2.json](./79328-pinball-fx2.json) |
@@ -7656,6 +7658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Re-Rainbow | 321785 | [321785-project-re-rainbow.json](./321785-project-re-rainbow.json) |
 | Project Reality | 315026 | [315026-project-reality.json](./315026-project-reality.json) |
 | Project Reality 2 | 2942 | [2942-project-reality-2.json](./2942-project-reality-2.json) |
+| Project Rebirth | 325499 | [325499-project-rebirth.json](./325499-project-rebirth.json) |
 | Project Reborn | 192881 | [192881-project-reborn.json](./192881-project-reborn.json) |
 | Project Red Sun | 407527 | [407527-project-red-sun.json](./407527-project-red-sun.json) |
 | Project Regolith | 236793 | [236793-project-regolith.json](./236793-project-regolith.json) |
