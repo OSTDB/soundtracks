@@ -676,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Mosaics: Blooming Garden | 294460 | [294460-rainbow-mosaics-blooming-garden.json](./294460-rainbow-mosaics-blooming-garden.json) |
 | Rainbow Mosaics: Christmas Lights | 294459 | [294459-rainbow-mosaics-christmas-lights.json](./294459-rainbow-mosaics-christmas-lights.json) |
 | Rainbow Mosaics: Christmas Lights 2 | 415881 | [415881-rainbow-mosaics-christmas-lights-2.json](./415881-rainbow-mosaics-christmas-lights-2.json) |
+| Rainbow Mosaics: The Forest's Guardian | 295467 | [295467-rainbow-mosaics-the-forests-guardian.json](./295467-rainbow-mosaics-the-forests-guardian.json) |
 | Rainbow Mosaics: Treasure Trip 2 | 337622 | [337622-rainbow-mosaics-treasure-trip-2.json](./337622-rainbow-mosaics-treasure-trip-2.json) |
 | Rainbow Rapture | 54702 | [54702-rainbow-rapture.json](./54702-rainbow-rapture.json) |
 | Rainbow Rendezvous | 247990 | [247990-rainbow-rendezvous.json](./247990-rainbow-rendezvous.json) |
@@ -2852,6 +2853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resolutiion | 121996 | [121996-resolutiion.json](./121996-resolutiion.json) |
 | Resonance | 276280 | [276280-resonance.json](./276280-resonance.json) |
 | Resonance | 6327 | [6327-resonance.json](./6327-resonance.json) |
+| Resonance chain | 295488 | [295488-resonance-chain.json](./295488-resonance-chain.json) |
 | Resonance in Orbit | 408192 | [408192-resonance-in-orbit.json](./408192-resonance-in-orbit.json) |
 | Resonance of Fate | 7159 | [7159-resonance-of-fate.json](./7159-resonance-of-fate.json) |
 | Resonance of Fate 4k/HD Edition | 109580 | [109580-resonance-of-fate-4k-hd-edition.json](./109580-resonance-of-fate-4k-hd-edition.json) |
