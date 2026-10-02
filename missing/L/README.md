@@ -1766,6 +1766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let There Be Life | 35984 | [35984-let-there-be-life.json](./35984-let-there-be-life.json) |
 | Let There Be Smite! | 414288 | [414288-let-there-be-smite.json](./414288-let-there-be-smite.json) |
 | Let Yourself Out, Eddie Kaspbrak! | 158724 | [158724-let-yourself-out-eddie-kaspbrak.json](./158724-let-yourself-out-eddie-kaspbrak.json) |
+| Let's Aim! Ring Toss | 328506 | [328506-lets-aim-ring-toss.json](./328506-lets-aim-ring-toss.json) |
 | Let's Be a Mouse | 273470 | [273470-lets-be-a-mouse.json](./273470-lets-be-a-mouse.json) |
 | Let's Boogie | 329058 | [329058-lets-boogie.json](./329058-lets-boogie.json) |
 | Let's Bounce! Popsicle Boy! | 255021 | [255021-lets-bounce-popsicle-boy.json](./255021-lets-bounce-popsicle-boy.json) |
@@ -2797,6 +2798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Alchemy | 38911 | [38911-little-alchemy.json](./38911-little-alchemy.json) |
 | Little Alchemy 2 | 68111 | [68111-little-alchemy-2.json](./68111-little-alchemy-2.json) |
 | Little Amazon | 356196 | [356196-little-amazon.json](./356196-little-amazon.json) |
+| Little Animals: The Wild Race | 328505 | [328505-little-animals-the-wild-race.json](./328505-little-animals-the-wild-race.json) |
 | Little Artist - Drawing and Coloring Book | 104598 | [104598-little-artist-drawing-and-coloring-book.json](./104598-little-artist-drawing-and-coloring-book.json) |
 | Little Astronaut | 199133 | [199133-little-astronaut.json](./199133-little-astronaut.json) |
 | Little Backpack | 407408 | [407408-little-backpack.json](./407408-little-backpack.json) |
@@ -4635,6 +4637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi's Mansion 3 | 109455 | [109455-luigis-mansion-3.json](./109455-luigis-mansion-3.json) |
 | Luigi's Mansion 3: Multiplayer Pack - Part 2 | 127550 | [127550-luigis-mansion-3-multiplayer-pack-part-2.json](./127550-luigis-mansion-3-multiplayer-pack-part-2.json) |
 | Luigi's Mansion 64.5: Super Player Mode | 374176 | [374176-luigis-mansion-64-5-super-player-mode.json](./374176-luigis-mansion-64-5-super-player-mode.json) |
+| Luigi's Mansion Organ Game | 328657 | [328657-luigis-mansion-organ-game.json](./328657-luigis-mansion-organ-game.json) |
 | Luigi's Mansion: Dark Moon | 2476 | [2476-luigis-mansion-dark-moon.json](./2476-luigis-mansion-dark-moon.json) |
 | Luigi's Mansion: Extra Tangy | 313113 | [313113-luigis-mansion-extra-tangy.json](./313113-luigis-mansion-extra-tangy.json) |
 | Luigi's Mansion: Premium Deluxe | 259268 | [259268-luigis-mansion-premium-deluxe.json](./259268-luigis-mansion-premium-deluxe.json) |
