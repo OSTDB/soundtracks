@@ -7044,6 +7044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brasil Fusion | 273993 | [273993-brasil-fusion.json](./273993-brasil-fusion.json) |
 | Brasil Simuleitor | 244371 | [244371-brasil-simuleitor.json](./244371-brasil-simuleitor.json) |
 | Brasília Defense | 404817 | [404817-brasilia-defense.json](./404817-brasilia-defense.json) |
+| BraSonic 2 | 326825 | [326825-brasonic-2.json](./326825-brasonic-2.json) |
 | Brass | 302431 | [302431-brass.json](./302431-brass.json) |
 | Brass | 68443 | [68443-brass.json](./68443-brass.json) |
 | Brass & Bramble | 371467 | [371467-brass-and-bramble.json](./371467-brass-and-bramble.json) |
