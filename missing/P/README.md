@@ -6481,6 +6481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pottergame | 159069 | [159069-pottergame.json](./159069-pottergame.json) |
 | Pottery Maker | 89264 | [89264-pottery-maker.json](./89264-pottery-maker.json) |
 | Pottis Dream Forge | 108045 | [108045-pottis-dream-forge.json](./108045-pottis-dream-forge.json) |
+| Potty Painter | 301529 | [301529-potty-painter.json](./301529-potty-painter.json) |
 | Potty Quest | 225768 | [225768-potty-quest.json](./225768-potty-quest.json) |
 | Potty Racers | 269602 | [269602-potty-racers.json](./269602-potty-racers.json) |
 | Pouch | 340596 | [340596-pouch.json](./340596-pouch.json) |
@@ -6788,6 +6789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prehistorik Man | 159266 | [159266-prehistorik-man.json](./159266-prehistorik-man.json) |
 | Prehistorik Man | 85589 | [85589-prehistorik-man.json](./85589-prehistorik-man.json) |
 | Prelogate | 36151 | [36151-prelogate.json](./36151-prelogate.json) |
+| Prelude Dark Pain | 301494 | [301494-prelude-dark-pain.json](./301494-prelude-dark-pain.json) |
 | Prelude Gardens | 395576 | [395576-prelude-gardens.json](./395576-prelude-gardens.json) |
 | Prelude to Freedom | 310122 | [310122-prelude-to-freedom.json](./310122-prelude-to-freedom.json) |
 | Premier Action | 70915 | [70915-premier-action.json](./70915-premier-action.json) |
