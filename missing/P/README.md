@@ -2156,6 +2156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pepsi in Sonic the Hedgehog I | 270218 | [270218-pepsi-in-sonic-the-hedgehog-i.json](./270218-pepsi-in-sonic-the-hedgehog-i.json) |
 | Pepsi Invaders | 40715 | [40715-pepsi-invaders.json](./40715-pepsi-invaders.json) |
 | Pepsi Max Extreme Sports | 110806 | [110806-pepsi-max-extreme-sports.json](./110806-pepsi-max-extreme-sports.json) |
+| Pepsi Nex Game | 315595 | [315595-pepsi-nex-game.json](./315595-pepsi-nex-game.json) |
 | Pequod | 126449 | [126449-pequod.json](./126449-pequod.json) |
 | Per Aspera Test | 289441 | [289441-per-aspera-test.json](./289441-per-aspera-test.json) |
 | Per Aspera: Deluxe Edition | 154545 | [154545-per-aspera-deluxe-edition.json](./154545-per-aspera-deluxe-edition.json) |
