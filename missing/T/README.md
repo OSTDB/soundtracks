@@ -3257,6 +3257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Billion Clicker | 387596 | [387596-the-billion-clicker.json](./387596-the-billion-clicker.json) |
 | The Billionaire's Baby | 313890 | [313890-the-billionaires-baby.json](./313890-the-billionaires-baby.json) |
 | The Binding of Isaac: Afterbirth | 13177 | [13177-the-binding-of-isaac-afterbirth.json](./13177-the-binding-of-isaac-afterbirth.json) |
+| The Binding of Isaac: Afterbirth+ | 310644 | [310644-the-binding-of-isaac-afterbirth.json](./310644-the-binding-of-isaac-afterbirth.json) |
 | The Binding of Isaac: Antibirth | 103333 | [103333-the-binding-of-isaac-antibirth.json](./103333-the-binding-of-isaac-antibirth.json) |
 | The Binding of Isaac: Epiphany | 223039 | [223039-the-binding-of-isaac-epiphany.json](./223039-the-binding-of-isaac-epiphany.json) |
 | The Binding of Isaac: Eternal Edition | 341546 | [341546-the-binding-of-isaac-eternal-edition.json](./341546-the-binding-of-isaac-eternal-edition.json) |
@@ -8085,6 +8086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Short Bread Game | 324900 | [324900-the-short-bread-game.json](./324900-the-short-bread-game.json) |
 | The Shortest Journey | 327327 | [327327-the-shortest-journey.json](./327327-the-shortest-journey.json) |
 | The Shouboutai | 124081 | [124081-the-shouboutai.json](./124081-the-shouboutai.json) |
+| The Show | 310641 | [310641-the-show.json](./310641-the-show.json) |
 | The Show is Over It | 272577 | [272577-the-show-is-over-it.json](./272577-the-show-is-over-it.json) |
 | The Show Must Go On | 179583 | [179583-the-show-must-go-on.json](./179583-the-show-must-go-on.json) |
 | The Showdown Effect | 9070 | [9070-the-showdown-effect.json](./9070-the-showdown-effect.json) |
@@ -9481,6 +9483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wood Story | 226306 | [226306-the-wood-story.json](./226306-the-wood-story.json) |
 | The Woodleys Summer Sports | 72965 | [72965-the-woodleys-summer-sports.json](./72965-the-woodleys-summer-sports.json) |
 | The Woods | 95165 | [95165-the-woods.json](./95165-the-woods.json) |
+| The Woods Have Horns | 310676 | [310676-the-woods-have-horns.json](./310676-the-woods-have-horns.json) |
 | The Woods: VR Escape the Room | 114975 | [114975-the-woods-vr-escape-the-room.json](./114975-the-woods-vr-escape-the-room.json) |
 | The Word is Not the Thing | 74468 | [74468-the-word-is-not-the-thing.json](./74468-the-word-is-not-the-thing.json) |
 | The World 3: Rise of Demon | 91965 | [91965-the-world-3-rise-of-demon.json](./91965-the-world-3-rise-of-demon.json) |
@@ -12622,6 +12625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tool Land | 391747 | [391747-tool-land.json](./391747-tool-land.json) |
 | Toolbox Tycoon | 362826 | [362826-toolbox-tycoon.json](./362826-toolbox-tycoon.json) |
 | ToolBoy | 116869 | [116869-toolboy.json](./116869-toolboy.json) |
+| Toolkid Creation | 310664 | [310664-toolkid-creation.json](./310664-toolkid-creation.json) |
 | Tools Up! | 118357 | [118357-tools-up.json](./118357-tools-up.json) |
 | Tools Up! Garden Party: Episode 2 - Tunnel Vision | 169281 | [169281-tools-up-garden-party-episode-2-tunnel-vision.json](./169281-tools-up-garden-party-episode-2-tunnel-vision.json) |
 | Tools Up! Garden Party: Episode 3 - Home Sweet Home | 169279 | [169279-tools-up-garden-party-episode-3-home-sweet-home.json](./169279-tools-up-garden-party-episode-3-home-sweet-home.json) |
@@ -15103,6 +15107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triboo | 85455 | [85455-triboo.json](./85455-triboo.json) |
 | Tribulum | 410983 | [410983-tribulum.json](./410983-tribulum.json) |
 | Tribute | 293387 | [293387-tribute.json](./293387-tribute.json) |
+| Tribute to Shadow of the Colossus | 310656 | [310656-tribute-to-shadow-of-the-colossus.json](./310656-tribute-to-shadow-of-the-colossus.json) |
 | Trick DS Ban: Kakushigami no Sumu Yakata | 329949 | [329949-trick-ds-ban-kakushigami-no-sumu-yakata.json](./329949-trick-ds-ban-kakushigami-no-sumu-yakata.json) |
 | Trick Eight | 369088 | [369088-trick-eight.json](./369088-trick-eight.json) |
 | Trick or Alice | 251191 | [251191-trick-or-alice.json](./251191-trick-or-alice.json) |
