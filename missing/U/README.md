@@ -739,6 +739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncounted Isles | 219532 | [219532-uncounted-isles.json](./219532-uncounted-isles.json) |
 | Uncover | 273390 | [273390-uncover.json](./273390-uncover.json) |
 | Uncover | 316427 | [316427-uncover.json](./316427-uncover.json) |
+| Uncover the Triad of Terror | 309052 | [309052-uncover-the-triad-of-terror.json](./309052-uncover-the-triad-of-terror.json) |
 | Uncracked | 406826 | [406826-uncracked.json](./406826-uncracked.json) |
 | Uncraft Me! | 147333 | [147333-uncraft-me.json](./147333-uncraft-me.json) |
 | Uncrashed: FPV Drone Simulator | 165627 | [165627-uncrashed-fpv-drone-simulator.json](./165627-uncrashed-fpv-drone-simulator.json) |
@@ -1694,6 +1695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Space Squirrels | 66362 | [66362-urban-space-squirrels.json](./66362-urban-space-squirrels.json) |
 | Urban Street Fighting | 147476 | [147476-urban-street-fighting.json](./147476-urban-street-fighting.json) |
 | Urban Survival | 148957 | [148957-urban-survival.json](./148957-urban-survival.json) |
+| Urban Survival Simulator: The Bum's Journey | 309053 | [309053-urban-survival-simulator-the-bums-journey.json](./309053-urban-survival-simulator-the-bums-journey.json) |
 | Urban Terror | 9532 | [9532-urban-terror.json](./9532-urban-terror.json) |
 | Urban Trial Freestyle | 196841 | [196841-urban-trial-freestyle.json](./196841-urban-trial-freestyle.json) |
 | Urban Trial Freestyle 2 | 57841 | [57841-urban-trial-freestyle-2.json](./57841-urban-trial-freestyle-2.json) |
