@@ -202,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cain | 380049 | [380049-cain.json](./380049-cain.json) |
 | Cain & Iddo: Break Week | 316138 | [316138-cain-and-iddo-break-week.json](./316138-cain-and-iddo-break-week.json) |
 | Cain x Nica | 304609 | [304609-cain-x-nica.json](./304609-cain-x-nica.json) |
+| Caiobá | 287337 | [287337-caioba.json](./287337-caioba.json) |
 | Cairn | 178665 | [178665-cairn.json](./178665-cairn.json) |
 | Cairn | 394894 | [394894-cairn.json](./394894-cairn.json) |
 | Cairn: Deluxe Edition | 401736 | [401736-cairn-deluxe-edition.json](./401736-cairn-deluxe-edition.json) |
@@ -1323,6 +1324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnival Hammer | 335993 | [335993-carnival-hammer.json](./335993-carnival-hammer.json) |
 | Carnival Island | 20826 | [20826-carnival-island.json](./20826-carnival-island.json) |
 | Carnival Massacre | 25701 | [25701-carnival-massacre.json](./25701-carnival-massacre.json) |
+| Carnival of Shadows | 287327 | [287327-carnival-of-shadows.json](./287327-carnival-of-shadows.json) |
 | Carnival of Souls | 309526 | [309526-carnival-of-souls.json](./309526-carnival-of-souls.json) |
 | Carnivore! | 413214 | [413214-carnivore.json](./413214-carnivore.json) |
 | Carnivores: Cityscape | 20568 | [20568-carnivores-cityscape.json](./20568-carnivores-cityscape.json) |
@@ -2486,6 +2488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestian Tales: Old North - Howl of the Ravager | 124779 | [124779-celestian-tales-old-north-howl-of-the-ravager.json](./124779-celestian-tales-old-north-howl-of-the-ravager.json) |
 | Celestian Tales: Realms Beyond | 55252 | [55252-celestian-tales-realms-beyond.json](./55252-celestian-tales-realms-beyond.json) |
 | Celestio 64 | 257399 | [257399-celestio-64.json](./257399-celestio-64.json) |
+| Cell | 287357 | [287357-cell.json](./287357-cell.json) |
 | CELL 0: Cyber Entertainment Leisure Lounge | 326756 | [326756-cell-0-cyber-entertainment-leisure-lounge.json](./326756-cell-0-cyber-entertainment-leisure-lounge.json) |
 | Cell Bound | 254495 | [254495-cell-bound.json](./254495-cell-bound.json) |
 | Cell Command | 323507 | [323507-cell-command.json](./323507-cell-command.json) |
@@ -6868,6 +6871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Control Room Alpha | 207816 | [207816-control-room-alpha.json](./207816-control-room-alpha.json) |
 | Control Season Pass | 122314 | [122314-control-season-pass.json](./122314-control-season-pass.json) |
 | Control the Ball | 312198 | [312198-control-the-ball.json](./312198-control-the-ball.json) |
+| Control the Body | 287303 | [287303-control-the-body.json](./287303-control-the-body.json) |
 | Control: Expeditions | 298854 | [298854-control-expeditions.json](./298854-control-expeditions.json) |
 | Control: Ultimate Edition | 136604 | [136604-control-ultimate-edition.json](./136604-control-ultimate-edition.json) |
 | Control: Ultimate Edition - Cloud Version | 140503 | [140503-control-ultimate-edition-cloud-version.json](./140503-control-ultimate-edition-cloud-version.json) |
@@ -8935,6 +8939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crumble's Crisis | 159269 | [159269-crumbles-crisis.json](./159269-crumbles-crisis.json) |
 | Crumbling | 192499 | [192499-crumbling.json](./192499-crumbling.json) |
 | Crumbling Construction, Inc. | 184375 | [184375-crumbling-construction-inc.json](./184375-crumbling-construction-inc.json) |
+| Crumpets 2 | 287308 | [287308-crumpets-2.json](./287308-crumpets-2.json) |
 | Crumps | 334270 | [334270-crumps.json](./334270-crumps.json) |
 | Crunch Bandicoot: Submarine Hunt | 314660 | [314660-crunch-bandicoot-submarine-hunt.json](./314660-crunch-bandicoot-submarine-hunt.json) |
 | Crunch Element | 119770 | [119770-crunch-element.json](./119770-crunch-element.json) |
