@@ -149,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth of the Witch DX | 217538 | [217538-labyrinth-of-the-witch-dx.json](./217538-labyrinth-of-the-witch-dx.json) |
 | Labyrinth of Touhou | 63855 | [63855-labyrinth-of-touhou.json](./63855-labyrinth-of-touhou.json) |
 | Labyrinth of Touhou 2 | 63005 | [63005-labyrinth-of-touhou-2.json](./63005-labyrinth-of-touhou-2.json) |
+| Labyrinth of Touhou Tri: The Dreaming Girls & The Mysterious Orbs | 319083 | [319083-labyrinth-of-touhou-tri-the-dreaming-girls-and-the-mysterious-orbs.json](./319083-labyrinth-of-touhou-tri-the-dreaming-girls-and-the-mysterious-orbs.json) |
 | Labyrinth of Touhou: Gensoukyo and the Heaven Piercing Tree | 166080 | [166080-labyrinth-of-touhou-gensoukyo-and-the-heaven-piercing-tree.json](./166080-labyrinth-of-touhou-gensoukyo-and-the-heaven-piercing-tree.json) |
 | Labyrinth of Zangetsu: Adventure Academia - The Fractured Continent Collab: Additional Characters Pack | 246643 | [246643-labyrinth-of-zangetsu-adventure-academia-the-fractured-continent-collab-additional-characters-pack.json](./246643-labyrinth-of-zangetsu-adventure-academia-the-fractured-continent-collab-additional-characters-pack.json) |
 | Labyrinth of Zangetsu: Akiba's Beat Collaboration - Additional Characters Pack | 246642 | [246642-labyrinth-of-zangetsu-akibas-beat-collaboration-additional-characters-pack.json](./246642-labyrinth-of-zangetsu-akibas-beat-collaboration-additional-characters-pack.json) |
@@ -3569,6 +3570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Night | 16941 | [16941-long-night.json](./16941-long-night.json) |
 | Long Road | 148914 | [148914-long-road.json](./148914-long-road.json) |
 | Lóng Shén de Xīnniáng Wàizhuàn: Yù Líng Qǐ Tán | 373692 | [373692-long-shen-de-xinniang-waizhuan-yu-ling-qi-tan.json](./373692-long-shen-de-xinniang-waizhuan-yu-ling-qi-tan.json) |
+| Long Since The Eschaton | 319072 | [319072-long-since-the-eschaton.json](./319072-long-since-the-eschaton.json) |
 | Long Sky | 115793 | [115793-long-sky.json](./115793-long-sky.json) |
 | Long Star | 131618 | [131618-long-star.json](./131618-long-star.json) |
 | Long Time No See | 143477 | [143477-long-time-no-see.json](./143477-long-time-no-see.json) |
@@ -3860,6 +3862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loser Simulator | 305835 | [305835-loser-simulator.json](./305835-loser-simulator.json) |
 | Losing Control | 179061 | [179061-losing-control.json](./179061-losing-control.json) |
 | Loskop | 200112 | [200112-loskop.json](./200112-loskop.json) |
+| Loss | 319061 | [319061-loss.json](./319061-loss.json) |
 | Loss at Sea | 384114 | [384114-loss-at-sea.json](./384114-loss-at-sea.json) |
 | Lost | 186258 | [186258-lost.json](./186258-lost.json) |
 | Lost | 327379 | [327379-lost.json](./327379-lost.json) |
@@ -3994,6 +3997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Shadow | 4980 | [4980-lost-in-shadow.json](./4980-lost-in-shadow.json) |
 | Lost in Space | 167812 | [167812-lost-in-space.json](./167812-lost-in-space.json) |
 | Lost in Space | 278408 | [278408-lost-in-space.json](./278408-lost-in-space.json) |
+| Lost In Static | 319080 | [319080-lost-in-static.json](./319080-lost-in-static.json) |
 | Lost In Sweets | 126525 | [126525-lost-in-sweets.json](./126525-lost-in-sweets.json) |
 | Lost in the Amazon | 296057 | [296057-lost-in-the-amazon.json](./296057-lost-in-the-amazon.json) |
 | Lost in the Backrooms | 221756 | [221756-lost-in-the-backrooms.json](./221756-lost-in-the-backrooms.json) |
@@ -4668,6 +4672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi's Mansion: Sweet Home | 308372 | [308372-luigis-mansion-sweet-home.json](./308372-luigis-mansion-sweet-home.json) |
 | Luigi's Misadventures 5: Rougenia Merald's Challenge | 276789 | [276789-luigis-misadventures-5-rougenia-meralds-challenge.json](./276789-luigis-misadventures-5-rougenia-meralds-challenge.json) |
 | Luigi's Other Mansion | 259838 | [259838-luigis-other-mansion.json](./259838-luigis-other-mansion.json) |
+| Luigi's Requiem | 319091 | [319091-luigis-requiem.json](./319091-luigis-requiem.json) |
 | Luippy | 230957 | [230957-luippy.json](./230957-luippy.json) |
 | Luise and Secret Basement Rooms | 157705 | [157705-luise-and-secret-basement-rooms.json](./157705-luise-and-secret-basement-rooms.json) |
 | Luka Tim Incident | 318624 | [318624-luka-tim-incident.json](./318624-luka-tim-incident.json) |
