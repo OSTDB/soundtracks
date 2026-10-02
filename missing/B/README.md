@@ -1329,6 +1329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bargin to Win | 213438 | [213438-bargin-to-win.json](./213438-bargin-to-win.json) |
 | BarGirls | 400463 | [400463-bargirls.json](./400463-bargirls.json) |
 | Bargue | 203903 | [203903-bargue.json](./203903-bargue.json) |
+| Barista | 310682 | [310682-barista.json](./310682-barista.json) |
 | Barista | 347150 | [347150-barista.json](./347150-barista.json) |
 | Barista Coffee Simulator | 342213 | [342213-barista-coffee-simulator.json](./342213-barista-coffee-simulator.json) |
 | Barista Dream | 366354 | [366354-barista-dream.json](./366354-barista-dream.json) |
@@ -3428,6 +3429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Doors | 380009 | [380009-beyond-the-doors.json](./380009-beyond-the-doors.json) |
 | Beyond the Evil | 161365 | [161365-beyond-the-evil.json](./161365-beyond-the-evil.json) |
 | Beyond the Eyes | 392264 | [392264-beyond-the-eyes.json](./392264-beyond-the-eyes.json) |
+| Beyond the Forbidden Lands | 310657 | [310657-beyond-the-forbidden-lands.json](./310657-beyond-the-forbidden-lands.json) |
 | Beyond The Frame | 411756 | [411756-beyond-the-frame.json](./411756-beyond-the-frame.json) |
 | Beyond the Fringe | 296498 | [296498-beyond-the-fringe.json](./296498-beyond-the-fringe.json) |
 | Beyond the Future: Fix the Time Arrows | 44588 | [44588-beyond-the-future-fix-the-time-arrows.json](./44588-beyond-the-future-fix-the-time-arrows.json) |
