@@ -459,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PalaDog HD | 235148 | [235148-paladog-hd.json](./235148-paladog-hd.json) |
 | Palais de Reine | 130397 | [130397-palais-de-reine.json](./130397-palais-de-reine.json) |
 | Palamedes II: Star Twinkles | 48808 | [48808-palamedes-ii-star-twinkles.json](./48808-palamedes-ii-star-twinkles.json) |
+| Palavrinhas | 329784 | [329784-palavrinhas.json](./329784-palavrinhas.json) |
 | Pale Carnations | 239316 | [239316-pale-carnations.json](./239316-pale-carnations.json) |
 | Pale Coins | 253876 | [253876-pale-coins.json](./253876-pale-coins.json) |
 | Pale Luna | 393080 | [393080-pale-luna.json](./393080-pale-luna.json) |
@@ -5882,6 +5883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pong Pong's Learning Adventure: Mysteries of Human Body | 188076 | [188076-pong-pongs-learning-adventure-mysteries-of-human-body.json](./188076-pong-pongs-learning-adventure-mysteries-of-human-body.json) |
 | Pong Temple | 190725 | [190725-pong-temple.json](./190725-pong-temple.json) |
 | Pong Toss Pro: Frat Party Games | 84810 | [84810-pong-toss-pro-frat-party-games.json](./84810-pong-toss-pro-frat-party-games.json) |
+| Pong: Evolved | 329631 | [329631-pong-evolved.json](./329631-pong-evolved.json) |
 | Pongarena | 137615 | [137615-pongarena.json](./137615-pongarena.json) |
 | PongBall | 255993 | [255993-pongball.json](./255993-pongball.json) |
 | Pongémon | 285035 | [285035-pongemon.json](./285035-pongemon.json) |
@@ -7807,6 +7809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ProjectRIK | 60244 | [60244-projectrik.json](./60244-projectrik.json) |
 | ProjectTeo | 149932 | [149932-projectteo.json](./149932-projectteo.json) |
 | Projekt Everblood | 213590 | [213590-projekt-everblood.json](./213590-projekt-everblood.json) |
+| Projekt Godhand | 329766 | [329766-projekt-godhand.json](./329766-projekt-godhand.json) |
 | Projekt Z: Beyond Order | 138752 | [138752-projekt-z-beyond-order.json](./138752-projekt-z-beyond-order.json) |
 | Prokshov | 143728 | [143728-prokshov.json](./143728-prokshov.json) |
 | Prologue | 127345 | [127345-prologue.json](./127345-prologue.json) |
@@ -8740,6 +8743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Series: Jigsaw Puzzle - Koneko Mekuri-hen | 344572 | [344572-puzzle-series-jigsaw-puzzle-koneko-mekuri-hen.json](./344572-puzzle-series-jigsaw-puzzle-koneko-mekuri-hen.json) |
 | Puzzle Sigma | 176420 | [176420-puzzle-sigma.json](./176420-puzzle-sigma.json) |
 | Puzzle Snake | 206382 | [206382-puzzle-snake.json](./206382-puzzle-snake.json) |
+| Puzzle Spy International | 329773 | [329773-puzzle-spy-international.json](./329773-puzzle-spy-international.json) |
 | Puzzle Stampede | 26605 | [26605-puzzle-stampede.json](./26605-puzzle-stampede.json) |
 | Puzzle Star Sweep | 44744 | [44744-puzzle-star-sweep.json](./44744-puzzle-star-sweep.json) |
 | Puzzle Sudoku | 304171 | [304171-puzzle-sudoku.json](./304171-puzzle-sudoku.json) |
