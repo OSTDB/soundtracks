@@ -559,6 +559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salvador Dali painting match | 103529 | [103529-salvador-dali-painting-match.json](./103529-salvador-dali-painting-match.json) |
 | Salvage | 181242 | [181242-salvage.json](./181242-salvage.json) |
 | Salvage Shop Simulator | 355103 | [355103-salvage-shop-simulator.json](./355103-salvage-shop-simulator.json) |
+| Salvage Title | 308464 | [308464-salvage-title.json](./308464-salvage-title.json) |
 | Salvage Unlimited | 391302 | [391302-salvage-unlimited.json](./391302-salvage-unlimited.json) |
 | Salvagers | 329398 | [329398-salvagers.json](./329398-salvagers.json) |
 | Salvagers | 365885 | [365885-salvagers.json](./365885-salvagers.json) |
@@ -1588,6 +1589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooby-Doo!: Mistery Mayhem | 44634 | [44634-scooby-doo-mistery-mayhem.json](./44634-scooby-doo-mistery-mayhem.json) |
 | Scooby-Doo!: Pirate Ghost of the Barbary Coast | 137540 | [137540-scooby-doo-pirate-ghost-of-the-barbary-coast.json](./137540-scooby-doo-pirate-ghost-of-the-barbary-coast.json) |
 | ScooMart | 265765 | [265765-scoomart.json](./265765-scoomart.json) |
+| Scoop it! Goldfish | 308500 | [308500-scoop-it-goldfish.json](./308500-scoop-it-goldfish.json) |
 | Scoop Kick! | 190175 | [190175-scoop-kick.json](./190175-scoop-kick.json) |
 | Scoop: Excavator | 200024 | [200024-scoop-excavator.json](./200024-scoop-excavator.json) |
 | Scoop'n Birds | 28141 | [28141-scoopn-birds.json](./28141-scoopn-birds.json) |
@@ -4942,6 +4944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sidewinder 2 | 66656 | [66656-sidewinder-2.json](./66656-sidewinder-2.json) |
 | Sidewinder Max | 322940 | [322940-sidewinder-max.json](./322940-sidewinder-max.json) |
 | Sidius Nova | 413813 | [413813-sidius-nova.json](./413813-sidius-nova.json) |
+| Siebenpolis | 308458 | [308458-siebenpolis.json](./308458-siebenpolis.json) |
 | Siege | 78612 | [78612-siege.json](./78612-siege.json) |
 | Siege and Destroy | 29802 | [29802-siege-and-destroy.json](./29802-siege-and-destroy.json) |
 | Siege Hammer | 31105 | [31105-siege-hammer.json](./31105-siege-hammer.json) |
@@ -6745,6 +6748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sloppy Eater: Meal Deal Edition | 186638 | [186638-sloppy-eater-meal-deal-edition.json](./186638-sloppy-eater-meal-deal-edition.json) |
 | Slordax: The Unknown Enemy | 73244 | [73244-slordax-the-unknown-enemy.json](./73244-slordax-the-unknown-enemy.json) |
 | Slorpus Slaughter VII: Singular Shoot Soul | 391245 | [391245-slorpus-slaughter-vii-singular-shoot-soul.json](./391245-slorpus-slaughter-vii-singular-shoot-soul.json) |
+| Slot & Learn Country Names in Kanji | 308496 | [308496-slot-and-learn-country-names-in-kanji.json](./308496-slot-and-learn-country-names-in-kanji.json) |
 | Slot & Learn Hangul | 409555 | [409555-slot-and-learn-hangul.json](./409555-slot-and-learn-hangul.json) |
 | Slot & Learn Hiragana | 312079 | [312079-slot-and-learn-hiragana.json](./312079-slot-and-learn-hiragana.json) |
 | Slot & Learn Kanji | 300832 | [300832-slot-and-learn-kanji.json](./300832-slot-and-learn-kanji.json) |
@@ -11063,6 +11067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sporting Clays | 207246 | [207246-sporting-clays.json](./207246-sporting-clays.json) |
 | Sporting Goods Shop | 342895 | [342895-sporting-goods-shop.json](./342895-sporting-goods-shop.json) |
 | Sporting Triangles | 72062 | [72062-sporting-triangles.json](./72062-sporting-triangles.json) |
+| Sportitions ’24 | 308497 | [308497-sportitions-24.json](./308497-sportitions-24.json) |
 | Sports Action Pak | 56456 | [56456-sports-action-pak.json](./56456-sports-action-pak.json) |
 | Sports Babes | 382284 | [382284-sports-babes.json](./382284-sports-babes.json) |
 | Sports Car Challenge 2 | 233243 | [233243-sports-car-challenge-2.json](./233243-sports-car-challenge-2.json) |
@@ -11236,6 +11241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Game: Mission in Moskow | 241331 | [241331-spy-game-mission-in-moskow.json](./241331-spy-game-mission-in-moskow.json) |
 | Spy Girls: Undercover Agent | 206200 | [206200-spy-girls-undercover-agent.json](./206200-spy-girls-undercover-agent.json) |
 | Spy Guy American Dream | 375162 | [375162-spy-guy-american-dream.json](./375162-spy-guy-american-dream.json) |
+| Spy Guy Animals Junior | 308495 | [308495-spy-guy-animals-junior.json](./308495-spy-guy-animals-junior.json) |
 | Spy Guy Animals Junior: Untypical Animals | 387685 | [387685-spy-guy-animals-junior-untypical-animals.json](./387685-spy-guy-animals-junior-untypical-animals.json) |
 | Spy Guy Christmas | 381803 | [381803-spy-guy-christmas.json](./381803-spy-guy-christmas.json) |
 | Spy Guy Cosmos: Cosmos Edition | 333725 | [333725-spy-guy-cosmos-cosmos-edition.json](./333725-spy-guy-cosmos-cosmos-edition.json) |
@@ -12478,6 +12484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stars of the Screen | 232677 | [232677-stars-of-the-screen.json](./232677-stars-of-the-screen.json) |
 | Stars Shooter | 245301 | [245301-stars-shooter.json](./245301-stars-shooter.json) |
 | Stars Survivor | 291481 | [291481-stars-survivor.json](./291481-stars-survivor.json) |
+| Stars, Stripes and Subgames: Collector's Edition | 308494 | [308494-stars-stripes-and-subgames-collectors-edition.json](./308494-stars-stripes-and-subgames-collectors-edition.json) |
 | Starsand | 152754 | [152754-starsand.json](./152754-starsand.json) |
 | Starsand Island | 310885 | [310885-starsand-island.json](./310885-starsand-island.json) |
 | Starseed Harmonies | 385553 | [385553-starseed-harmonies.json](./385553-starseed-harmonies.json) |
@@ -14249,6 +14256,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subtracto | 372536 | [372536-subtracto.json](./372536-subtracto.json) |
 | Suburban Commando | 73811 | [73811-suburban-commando.json](./73811-suburban-commando.json) |
 | Suburban Footy League | 272911 | [272911-suburban-footy-league.json](./272911-suburban-footy-league.json) |
+| Suburban Hive | 308482 | [308482-suburban-hive.json](./308482-suburban-hive.json) |
+| Suburban Hive II: Crimson Moon | 308483 | [308483-suburban-hive-ii-crimson-moon.json](./308483-suburban-hive-ii-crimson-moon.json) |
 | Subverse | 116848 | [116848-subverse.json](./116848-subverse.json) |
 | Subverse - Celestina Unbound | 414547 | [414547-subverse-celestina-unbound.json](./414547-subverse-celestina-unbound.json) |
 | Subversion: The Official Incoming Expansion Pack | 84326 | [84326-subversion-the-official-incoming-expansion-pack.json](./84326-subversion-the-official-incoming-expansion-pack.json) |
@@ -14327,6 +14336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudden Strike 5 | 355088 | [355088-sudden-strike-5.json](./355088-sudden-strike-5.json) |
 | Sudden Strike Anthology | 85819 | [85819-sudden-strike-anthology.json](./85819-sudden-strike-anthology.json) |
 | Sudden Strike: Forever | 81471 | [81471-sudden-strike-forever.json](./81471-sudden-strike-forever.json) |
+| Suddenly an Ogre | 308493 | [308493-suddenly-an-ogre.json](./308493-suddenly-an-ogre.json) |
 | Suddenly Meow 2 | 197932 | [197932-suddenly-meow-2.json](./197932-suddenly-meow-2.json) |
 | Sudeki | 6179 | [6179-sudeki.json](./6179-sudeki.json) |
 | Sudo Cats | 221263 | [221263-sudo-cats.json](./221263-sudo-cats.json) |
@@ -14486,6 +14496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugoi Girls: Dental Darling | 389073 | [389073-sugoi-girls-dental-darling.json](./389073-sugoi-girls-dental-darling.json) |
 | Sugoi Girls: Dragon Love | 351232 | [351232-sugoi-girls-dragon-love.json](./351232-sugoi-girls-dragon-love.json) |
 | Sugoi Girls: Enchanting Elf | 328480 | [328480-sugoi-girls-enchanting-elf.json](./328480-sugoi-girls-enchanting-elf.json) |
+| Sugoi Girls: Kinky Knight | 308492 | [308492-sugoi-girls-kinky-knight.json](./308492-sugoi-girls-kinky-knight.json) |
 | Sugoi Girls: Madame Fantasy | 376764 | [376764-sugoi-girls-madame-fantasy.json](./376764-sugoi-girls-madame-fantasy.json) |
 | Sugoi Girls: Mighty Mecha | 317230 | [317230-sugoi-girls-mighty-mecha.json](./317230-sugoi-girls-mighty-mecha.json) |
 | Sugoi Girls: Raunchy Rabbit | 345704 | [345704-sugoi-girls-raunchy-rabbit.json](./345704-sugoi-girls-raunchy-rabbit.json) |
@@ -14871,6 +14882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunya | 253006 | [253006-sunya.json](./253006-sunya.json) |
 | Sunyata CCG | 403554 | [403554-sunyata-ccg.json](./403554-sunyata-ccg.json) |
 | Supa Nova | 100019 | [100019-supa-nova.json](./100019-supa-nova.json) |
+| Supa3 | 308470 | [308470-supa3.json](./308470-supa3.json) |
 | Supaplex | 14418 | [14418-supaplex.json](./14418-supaplex.json) |
 | Supaplex | 413616 | [413616-supaplex.json](./413616-supaplex.json) |
 | Supaplex Hard | 107929 | [107929-supaplex-hard.json](./107929-supaplex-hard.json) |
@@ -15509,6 +15521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 64 EX Alo | 307321 | [307321-super-mario-64-ex-alo.json](./307321-super-mario-64-ex-alo.json) |
 | Super Mario 64 FPS | 144163 | [144163-super-mario-64-fps.json](./144163-super-mario-64-fps.json) |
 | Super Mario 64 HD | 176900 | [176900-super-mario-64-hd.json](./176900-super-mario-64-hd.json) |
+| Super Mario 64 in Teeworlds/DDNet | 308477 | [308477-super-mario-64-in-teeworlds-ddnet.json](./308477-super-mario-64-in-teeworlds-ddnet.json) |
 | Super Mario 64 in Tomb Raider | 262677 | [262677-super-mario-64-in-tomb-raider.json](./262677-super-mario-64-in-tomb-raider.json) |
 | Super Mario 64 Land | 132609 | [132609-super-mario-64-land.json](./132609-super-mario-64-land.json) |
 | Super Mario 64 Maker | 135229 | [135229-super-mario-64-maker.json](./135229-super-mario-64-maker.json) |
@@ -16589,6 +16602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supersonic | 265741 | [265741-supersonic.json](./265741-supersonic.json) |
 | Supersonic Fight | 216712 | [216712-supersonic-fight.json](./216712-supersonic-fight.json) |
 | Supersonic Highway Defenders | 355559 | [355559-supersonic-highway-defenders.json](./355559-supersonic-highway-defenders.json) |
+| Supersonic Mario | 308471 | [308471-supersonic-mario.json](./308471-supersonic-mario.json) |
 | SuperSpec Rallycross | 291740 | [291740-superspec-rallycross.json](./291740-superspec-rallycross.json) |
 | SuperSpeed Deluxe | 366963 | [366963-superspeed-deluxe.json](./366963-superspeed-deluxe.json) |
 | Supersportic | 68273 | [68273-supersportic.json](./68273-supersportic.json) |
