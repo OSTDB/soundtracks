@@ -10366,6 +10366,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectral Souls | 39194 | [39194-spectral-souls.json](./39194-spectral-souls.json) |
 | Spectral Souls: Resurrection of the Ethereal Empires | 44519 | [44519-spectral-souls-resurrection-of-the-ethereal-empires.json](./44519-spectral-souls-resurrection-of-the-ethereal-empires.json) |
 | Spectral Survivor | 307581 | [307581-spectral-survivor.json](./307581-spectral-survivor.json) |
+| Spectral Tower | 281680 | [281680-spectral-tower.json](./281680-spectral-tower.json) |
+| Spectral Tower II | 281681 | [281681-spectral-tower-ii.json](./281681-spectral-tower-ii.json) |
 | SpectralClimb | 271281 | [271281-spectralclimb.json](./271281-spectralclimb.json) |
 | Spectralia | 312735 | [312735-spectralia.json](./312735-spectralia.json) |
 | Spectre | 59846 | [59846-spectre.json](./59846-spectre.json) |
@@ -14351,6 +14353,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stylist Girl: Complete Edition | 313214 | [313214-stylist-girl-complete-edition.json](./313214-stylist-girl-complete-edition.json) |
 | Stylist Girl: Sunny Edition | 317242 | [317242-stylist-girl-sunny-edition.json](./317242-stylist-girl-sunny-edition.json) |
 | Styria | 304631 | [304631-styria.json](./304631-styria.json) |
+| Styrlitz 3: Agent USSR | 281656 | [281656-styrlitz-3-agent-ussr.json](./281656-styrlitz-3-agent-ussr.json) |
+| Styrlitz 4: The Matrix - A Step to Death | 281658 | [281658-styrlitz-4-the-matrix-a-step-to-death.json](./281658-styrlitz-4-the-matrix-a-step-to-death.json) |
 | Styx VR DrumSim | 130296 | [130296-styx-vr-drumsim.json](./130296-styx-vr-drumsim.json) |
 | Su Hack | 111002 | [111002-su-hack.json](./111002-su-hack.json) |
 | SU the Son of Gaia | 211795 | [211795-su-the-son-of-gaia.json](./211795-su-the-son-of-gaia.json) |
@@ -14839,6 +14843,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer for You | 339481 | [339481-summer-for-you.json](./339481-summer-for-you.json) |
 | Summer Funland | 87556 | [87556-summer-funland.json](./87556-summer-funland.json) |
 | Summer Games | 12340 | [12340-summer-games.json](./12340-summer-games.json) |
+| Summer Games | 281670 | [281670-summer-games.json](./281670-summer-games.json) |
+| Summer Games | 281671 | [281671-summer-games.json](./281671-summer-games.json) |
+| Summer Games | 281672 | [281672-summer-games.json](./281672-summer-games.json) |
+| Summer Games | 281673 | [281673-summer-games.json](./281673-summer-games.json) |
+| Summer Games | 281674 | [281674-summer-games.json](./281674-summer-games.json) |
+| Summer Games | 281675 | [281675-summer-games.json](./281675-summer-games.json) |
+| Summer Games | 281676 | [281676-summer-games.json](./281676-summer-games.json) |
+| Summer Games | 281677 | [281677-summer-games.json](./281677-summer-games.json) |
+| Summer Games | 281678 | [281678-summer-games.json](./281678-summer-games.json) |
+| Summer Games | 281679 | [281679-summer-games.json](./281679-summer-games.json) |
+| Summer Games | 281682 | [281682-summer-games.json](./281682-summer-games.json) |
 | Summer Games 3D | 88164 | [88164-summer-games-3d.json](./88164-summer-games-3d.json) |
 | Summer Games Challenge: Jumping & Shooting | 362362 | [362362-summer-games-challenge-jumping-and-shooting.json](./362362-summer-games-challenge-jumping-and-shooting.json) |
 | Summer Games Challenge: Running | 362345 | [362345-summer-games-challenge-running.json](./362345-summer-games-challenge-running.json) |
@@ -14930,6 +14945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summons Sword: Pot Guardian | 326180 | [326180-summons-sword-pot-guardian.json](./326180-summons-sword-pot-guardian.json) |
 | Summum | 181402 | [181402-summum.json](./181402-summum.json) |
 | Summum Aeterna | 204692 | [204692-summum-aeterna.json](./204692-summum-aeterna.json) |
+| Sumo | 281686 | [281686-sumo.json](./281686-sumo.json) |
 | Sumo | 303084 | [303084-sumo.json](./303084-sumo.json) |
 | Sumoman | 28026 | [28026-sumoman.json](./28026-sumoman.json) |
 | Sumou | 385812 | [385812-sumou.json](./385812-sumou.json) |
