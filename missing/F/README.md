@@ -4885,6 +4885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forklore | 196803 | [196803-forklore.json](./196803-forklore.json) |
 | Forknite | 313201 | [313201-forknite.json](./313201-forknite.json) |
 | Forks & Daggers | 380676 | [380676-forks-and-daggers.json](./380676-forks-and-daggers.json) |
+| Forlands | 303183 | [303183-forlands.json](./303183-forlands.json) |
 | Forlorn | 280804 | [280804-forlorn.json](./280804-forlorn.json) |
 | Forlorn Memories | 214761 | [214761-forlorn-memories.json](./214761-forlorn-memories.json) |
 | Forlorn Outcast | 260226 | [260226-forlorn-outcast.json](./260226-forlorn-outcast.json) |
