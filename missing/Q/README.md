@@ -439,6 +439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Questprobe featuring The Hulk | 12934 | [12934-questprobe-featuring-the-hulk.json](./12934-questprobe-featuring-the-hulk.json) |
 | Questris | 413871 | [413871-questris.json](./413871-questris.json) |
 | Questscape | 294145 | [294145-questscape.json](./294145-questscape.json) |
+| Questscape: Survival | 310128 | [310128-questscape-survival.json](./310128-questscape-survival.json) |
 | Quetzal | 299302 | [299302-quetzal.json](./299302-quetzal.json) |
 | Quetzi | 300816 | [300816-quetzi.json](./300816-quetzi.json) |
 | Queue | 180255 | [180255-queue.json](./180255-queue.json) |
