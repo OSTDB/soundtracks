@@ -2420,6 +2420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decurion | 285012 | [285012-decurion.json](./285012-decurion.json) |
 | Decurse: A New Magic Farming Game | 254159 | [254159-decurse-a-new-magic-farming-game.json](./254159-decurse-a-new-magic-farming-game.json) |
 | Decwar | 66735 | [66735-decwar.json](./66735-decwar.json) |
+| Decypher | 290633 | [290633-decypher.json](./290633-decypher.json) |
 | Ded | 30073 | [30073-ded.json](./30073-ded.json) |
 | Ded Inside | 120776 | [120776-ded-inside.json](./120776-ded-inside.json) |
 | Dedalium | 199418 | [199418-dedalium.json](./199418-dedalium.json) |
@@ -5449,6 +5450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doala de Wii | 81237 | [81237-doala-de-wii.json](./81237-doala-de-wii.json) |
 | Doashime | 274538 | [274538-doashime.json](./274538-doashime.json) |
 | Doba Dash | 182942 | [182942-doba-dash.json](./182942-doba-dash.json) |
+| Dobbel Dungeon | 290612 | [290612-dobbel-dungeon.json](./290612-dobbel-dungeon.json) |
 | Doblons.io | 126023 | [126023-doblons-io.json](./126023-doblons-io.json) |
 | Dobo's Heroes | 147420 | [147420-dobos-heroes.json](./147420-dobos-heroes.json) |
 | Dobraminhos | 246932 | [246932-dobraminhos.json](./246932-dobraminhos.json) |
@@ -7867,6 +7869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreams of Literature: Noir | 334822 | [334822-dreams-of-literature-noir.json](./334822-dreams-of-literature-noir.json) |
 | Dreams of Sand | 306347 | [306347-dreams-of-sand.json](./306347-dreams-of-sand.json) |
 | Dreams of Solari - Chapter 1 | 120376 | [120376-dreams-of-solari-chapter-1.json](./120376-dreams-of-solari-chapter-1.json) |
+| Dreams of the Void | 290614 | [290614-dreams-of-the-void.json](./290614-dreams-of-the-void.json) |
 | Dreams of Valhalla | 250448 | [250448-dreams-of-valhalla.json](./250448-dreams-of-valhalla.json) |
 | Dreams of Witchtown | 67282 | [67282-dreams-of-witchtown.json](./67282-dreams-of-witchtown.json) |
 | Dreams on a Pillow | 342893 | [342893-dreams-on-a-pillow.json](./342893-dreams-on-a-pillow.json) |
@@ -8859,6 +8862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of Minos | 175346 | [175346-dungeon-of-minos.json](./175346-dungeon-of-minos.json) |
 | Dungeon of Minos - movable maze | 97142 | [97142-dungeon-of-minos-movable-maze.json](./97142-dungeon-of-minos-movable-maze.json) |
 | Dungeon of Souls | 103900 | [103900-dungeon-of-souls.json](./103900-dungeon-of-souls.json) |
+| Dungeon of Stone | 290628 | [290628-dungeon-of-stone.json](./290628-dungeon-of-stone.json) |
 | Dungeon of the Damned | 200585 | [200585-dungeon-of-the-damned.json](./200585-dungeon-of-the-damned.json) |
 | Dungeon of the Endless: Deep Freeze | 168244 | [168244-dungeon-of-the-endless-deep-freeze.json](./168244-dungeon-of-the-endless-deep-freeze.json) |
 | Dungeon of the Endless: Rescue Team | 168245 | [168245-dungeon-of-the-endless-rescue-team.json](./168245-dungeon-of-the-endless-rescue-team.json) |
