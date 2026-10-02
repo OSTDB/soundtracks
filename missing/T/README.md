@@ -16160,6 +16160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tut's Tomb | 282107 | [282107-tuts-tomb.json](./282107-tuts-tomb.json) |
 | Tutankham | 385836 | [385836-tutankham.json](./385836-tutankham.json) |
 | Tutankhamun: Builders of the Eternal | 378360 | [378360-tutankhamun-builders-of-the-eternal.json](./378360-tutankhamun-builders-of-the-eternal.json) |
+| Tutel Quest | 291168 | [291168-tutel-quest.json](./291168-tutel-quest.json) |
 | Tutelary | 246371 | [246371-tutelary.json](./246371-tutelary.json) |
 | Tutorial | 231092 | [231092-tutorial.json](./231092-tutorial.json) |
 | Tutututu: Tea party | 120318 | [120318-tutututu-tea-party.json](./120318-tutututu-tea-party.json) |
