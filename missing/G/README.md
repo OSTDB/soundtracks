@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Netix | 92830 | [92830-g-netix.json](./92830-g-netix.json) |
 | G-Scramble | 260753 | [260753-g-scramble.json](./260753-g-scramble.json) |
 | G-Switch 3 | 101770 | [101770-g-switch-3.json](./101770-g-switch-3.json) |
+| G-Switch 4: Creator | 321440 | [321440-g-switch-4-creator.json](./321440-g-switch-4-creator.json) |
 | G-Type | 241496 | [241496-g-type.json](./241496-g-type.json) |
 | G-ump | 260398 | [260398-g-ump.json](./260398-g-ump.json) |
 | G-Zero | 248762 | [248762-g-zero.json](./248762-g-zero.json) |
@@ -3308,6 +3309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Morning, Radio | 203365 | [203365-good-morning-radio.json](./203365-good-morning-radio.json) |
 | Good Mourning | 148556 | [148556-good-mourning.json](./148556-good-mourning.json) |
 | Good News | 382300 | [382300-good-news.json](./382300-good-news.json) |
+| Good Night Mr. Snoozleberg | 321456 | [321456-good-night-mr-snoozleberg.json](./321456-good-night-mr-snoozleberg.json) |
 | Good Night, Every Night | 244197 | [244197-good-night-every-night.json](./244197-good-night-every-night.json) |
 | Good Night, Peregrine | 222936 | [222936-good-night-peregrine.json](./222936-good-night-peregrine.json) |
 | Good Night, Rowan | 178564 | [178564-good-night-rowan.json](./178564-good-night-rowan.json) |
