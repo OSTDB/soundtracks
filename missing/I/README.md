@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Expect You to Die: Home Sweet Home | 223146 | [223146-i-expect-you-to-die-home-sweet-home.json](./223146-i-expect-you-to-die-home-sweet-home.json) |
 | I face the darkness | 113141 | [113141-i-face-the-darkness.json](./113141-i-face-the-darkness.json) |
 | I Feel Fantastic | 217834 | [217834-i-feel-fantastic.json](./217834-i-feel-fantastic.json) |
+| I Fell In Love With A Fantasy Farmer | 296609 | [296609-i-fell-in-love-with-a-fantasy-farmer.json](./296609-i-fell-in-love-with-a-fantasy-farmer.json) |
 | I Fell in Love with the Mentally Unstable Depressed Goth on Campus | 410903 | [410903-i-fell-in-love-with-the-mentally-unstable-depressed-goth-on-campus.json](./410903-i-fell-in-love-with-the-mentally-unstable-depressed-goth-on-campus.json) |
 | I Fetch Rocks | 153351 | [153351-i-fetch-rocks.json](./153351-i-fetch-rocks.json) |
 | i Fishing HD | 90811 | [90811-i-fishing-hd.json](./90811-i-fishing-hd.json) |
