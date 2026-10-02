@@ -1422,6 +1422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 90 Minutes European Prime Goal | 42663 | [42663-90-minutes-european-prime-goal.json](./42663-90-minutes-european-prime-goal.json) |
 | 90 Seconds | 259237 | [259237-90-seconds.json](./259237-90-seconds.json) |
 | 90'' Soccer | 212342 | [212342-90-soccer.json](./212342-90-soccer.json) |
+| 90s Extreme Skiing | 328091 | [328091-90s-extreme-skiing.json](./328091-90s-extreme-skiing.json) |
 | 911 Fire Rescue | 71612 | [71612-911-fire-rescue.json](./71612-911-fire-rescue.json) |
 | 911 Operator | 20927 | [20927-911-operator.json](./20927-911-operator.json) |
 | 911 Operator Bundle | 237907 | [237907-911-operator-bundle.json](./237907-911-operator-bundle.json) |
