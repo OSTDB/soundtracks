@@ -768,6 +768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sand In a Box | 306434 | [306434-sand-in-a-box.json](./306434-sand-in-a-box.json) |
 | Sand Legends | 335078 | [335078-sand-legends.json](./335078-sand-legends.json) |
 | Sand Pirates | 181129 | [181129-sand-pirates.json](./181129-sand-pirates.json) |
+| Sand Saga | 322648 | [322648-sand-saga.json](./322648-sand-saga.json) |
 | Sand Scorpion | 40184 | [40184-sand-scorpion.json](./40184-sand-scorpion.json) |
 | Sand Seeker | 390504 | [390504-sand-seeker.json](./390504-sand-seeker.json) |
 | Sand Storm | 81422 | [81422-sand-storm.json](./81422-sand-storm.json) |
@@ -6963,6 +6964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smashy Cannon | 359532 | [359532-smashy-cannon.json](./359532-smashy-cannon.json) |
 | Smashy Road: Wanted 2 | 144196 | [144196-smashy-road-wanted-2.json](./144196-smashy-road-wanted-2.json) |
 | SMB RMX: Shattered Realms | 370902 | [370902-smb-rmx-shattered-realms.json](./370902-smb-rmx-shattered-realms.json) |
+| SMB1 Autumn Challenge | 322651 | [322651-smb1-autumn-challenge.json](./322651-smb1-autumn-challenge.json) |
 | SMBX: Level Contest Japan | 359515 | [359515-smbx-level-contest-japan.json](./359515-smbx-level-contest-japan.json) |
 | SMBX2 Demo Stages | 328243 | [328243-smbx2-demo-stages.json](./328243-smbx2-demo-stages.json) |
 | Smeesa Street | 239641 | [239641-smeesa-street.json](./239641-smeesa-street.json) |
@@ -15669,6 +15671,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario: The Stellar Star Quest | 323356 | [323356-super-mario-the-stellar-star-quest.json](./323356-super-mario-the-stellar-star-quest.json) |
 | Super Mario: The Trip | 277045 | [277045-super-mario-the-trip.json](./277045-super-mario-the-trip.json) |
 | Super Mario: Tree of Dreams | 338845 | [338845-super-mario-tree-of-dreams.json](./338845-super-mario-tree-of-dreams.json) |
+| Super Mario: Turd Feast | 322695 | [322695-super-mario-turd-feast.json](./322695-super-mario-turd-feast.json) |
+| Super Mario: Turd Feast 2 | 322697 | [322697-super-mario-turd-feast-2.json](./322697-super-mario-turd-feast-2.json) |
 | Super Mario.exe Reborn | 323877 | [323877-super-mario-exe-reborn.json](./323877-super-mario-exe-reborn.json) |
 | Super Mario's Jammin' Journey 64 | 135163 | [135163-super-marios-jammin-journey-64.json](./135163-super-marios-jammin-journey-64.json) |
 | Super Mariofell 64 | 397048 | [397048-super-mariofell-64.json](./397048-super-mariofell-64.json) |
@@ -16605,6 +16609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SurviBall | 339473 | [339473-surviball.json](./339473-surviball.json) |
 | Survirus | 345527 | [345527-survirus.json](./345527-survirus.json) |
 | Survisland | 105015 | [105015-survisland.json](./105015-survisland.json) |
+| Survius | 322684 | [322684-survius.json](./322684-survius.json) |
 | Survival & Horror: Hangman's Rope | 244273 | [244273-survival-and-horror-hangmans-rope.json](./244273-survival-and-horror-hangmans-rope.json) |
 | Survival & Horror: Mortanis Prisoners Prologue | 253422 | [253422-survival-and-horror-mortanis-prisoners-prologue.json](./253422-survival-and-horror-mortanis-prisoners-prologue.json) |
 | Survival & Horror: The Damned City | 244750 | [244750-survival-and-horror-the-damned-city.json](./244750-survival-and-horror-the-damned-city.json) |
