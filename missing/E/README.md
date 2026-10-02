@@ -733,6 +733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Puyo Puyo MSX2 | 378795 | [378795-eggconsole-puyo-puyo-msx2.json](./378795-eggconsole-puyo-puyo-msx2.json) |
 | Eggconsole Puyo Puyo PC-9801 | 362367 | [362367-eggconsole-puyo-puyo-pc-9801.json](./362367-eggconsole-puyo-puyo-pc-9801.json) |
 | Eggconsole Revival Xanadu Easy Ver PC-9801 | 347313 | [347313-eggconsole-revival-xanadu-easy-ver-pc-9801.json](./347313-eggconsole-revival-xanadu-easy-ver-pc-9801.json) |
+| Eggconsole Sorcerian PC-8801mkIISR | 304797 | [304797-eggconsole-sorcerian-pc-8801mkiisr.json](./304797-eggconsole-sorcerian-pc-8801mkiisr.json) |
 | Eggconsole Star Cruiser PC-8801mkIISR | 317225 | [317225-eggconsole-star-cruiser-pc-8801mkiisr.json](./317225-eggconsole-star-cruiser-pc-8801mkiisr.json) |
 | Eggconsole Star Trader PC-8801mkIISR | 314867 | [314867-eggconsole-star-trader-pc-8801mkiisr.json](./314867-eggconsole-star-trader-pc-8801mkiisr.json) |
 | Eggconsole Super Tritorn MSX2 | 387663 | [387663-eggconsole-super-tritorn-msx2.json](./387663-eggconsole-super-tritorn-msx2.json) |
@@ -846,6 +847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eikou no Saint Andrews | 3484 | [3484-eikou-no-saint-andrews.json](./3484-eikou-no-saint-andrews.json) |
 | Eilean Mor: The Lost Keepers | 355026 | [355026-eilean-mor-the-lost-keepers.json](./355026-eilean-mor-the-lost-keepers.json) |
 | Ein Fall für TKKG: Katjas Geheimnis | 127995 | [127995-ein-fall-fur-tkkg-katjas-geheimnis.json](./127995-ein-fall-fur-tkkg-katjas-geheimnis.json) |
+| Ein's Sword 2 | 304798 | [304798-eins-sword-2.json](./304798-eins-sword-2.json) |
 | Ein's Sword 3 | 312112 | [312112-eins-sword-3.json](./312112-eins-sword-3.json) |
 | Einar | 50540 | [50540-einar.json](./50540-einar.json) |
 | Einar: Loki's Traps | 171357 | [171357-einar-lokis-traps.json](./171357-einar-lokis-traps.json) |
@@ -2641,6 +2643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Simulator: PowerWash DLC | 306583 | [306583-escape-simulator-powerwash-dlc.json](./306583-escape-simulator-powerwash-dlc.json) |
 | Escape Simulator: Spy | 365719 | [365719-escape-simulator-spy.json](./365719-escape-simulator-spy.json) |
 | Escape Simulator: The Talos Principle DLC | 321346 | [321346-escape-simulator-the-talos-principle-dlc.json](./321346-escape-simulator-the-talos-principle-dlc.json) |
+| Escape Tales: The Awakening | 304829 | [304829-escape-tales-the-awakening.json](./304829-escape-tales-the-awakening.json) |
 | Escape The Aquarium | 294132 | [294132-escape-the-aquarium.json](./294132-escape-the-aquarium.json) |
 | Escape the Arcana | 336713 | [336713-escape-the-arcana.json](./336713-escape-the-arcana.json) |
 | Escape the Ayurok | 125254 | [125254-escape-the-ayurok.json](./125254-escape-the-ayurok.json) |
