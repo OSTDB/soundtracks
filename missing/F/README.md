@@ -3037,6 +3037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Up | 264567 | [264567-first-up.json](./264567-first-up.json) |
 | First Winter | 97027 | [97027-first-winter.json](./97027-first-winter.json) |
 | First, Breathe | 124751 | [124751-first-breathe.json](./124751-first-breathe.json) |
+| First! Person Shooter | 333228 | [333228-first-person-shooter.json](./333228-first-person-shooter.json) |
 | FirstPlanet | 114552 | [114552-firstplanet.json](./114552-firstplanet.json) |
 | FirstPlate | 400994 | [400994-firstplate.json](./400994-firstplate.json) |
 | Fiscal Jesters | 176509 | [176509-fiscal-jesters.json](./176509-fiscal-jesters.json) |
@@ -3886,6 +3887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flood Escape | 369683 | [369683-flood-escape.json](./369683-flood-escape.json) |
 | Flood Escape 64 | 243112 | [243112-flood-escape-64.json](./243112-flood-escape-64.json) |
 | Flood Fighting Hero | 165019 | [165019-flood-fighting-hero.json](./165019-flood-fighting-hero.json) |
+| Flood of Zombies | 333241 | [333241-flood-of-zombies.json](./333241-flood-of-zombies.json) |
 | Flood the Chamber | 242813 | [242813-flood-the-chamber.json](./242813-flood-the-chamber.json) |
 | Flood-It! | 254605 | [254605-flood-it.json](./254605-flood-it.json) |
 | Flood-it! 2 | 254606 | [254606-flood-it-2.json](./254606-flood-it-2.json) |
@@ -5626,6 +5628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frequency Garden | 126522 | [126522-frequency-garden.json](./126522-frequency-garden.json) |
 | Frequency Sync | 130241 | [130241-frequency-sync.json](./130241-frequency-sync.json) |
 | Fresh Catch! | 346712 | [346712-fresh-catch.json](./346712-fresh-catch.json) |
+| Fresh Hops | 333232 | [333232-fresh-hops.json](./333232-fresh-hops.json) |
 | Fresh Merchandise | 136366 | [136366-fresh-merchandise.json](./136366-fresh-merchandise.json) |
 | Fresh Milk For Mars | 295838 | [295838-fresh-milk-for-mars.json](./295838-fresh-milk-for-mars.json) |
 | Fresh Start | 212066 | [212066-fresh-start.json](./212066-fresh-start.json) |
