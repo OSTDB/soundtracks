@@ -2711,6 +2711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alex Kidd: Radaxian In Turmoil | 326963 | [326963-alex-kidd-radaxian-in-turmoil.json](./326963-alex-kidd-radaxian-in-turmoil.json) |
 | Alex Kidd: The Lost Stars | 13678 | [13678-alex-kidd-the-lost-stars.json](./13678-alex-kidd-the-lost-stars.json) |
 | Alex the Allegator 2 | 306995 | [306995-alex-the-allegator-2.json](./306995-alex-the-allegator-2.json) |
+| Alex's Caves | 316145 | [316145-alexs-caves.json](./316145-alexs-caves.json) |
 | Alex's Journey to the Grave | 319226 | [319226-alexs-journey-to-the-grave.json](./319226-alexs-journey-to-the-grave.json) |
 | Alex's Sketchbook World | 359618 | [359618-alexs-sketchbook-world.json](./359618-alexs-sketchbook-world.json) |
 | Alexa, Destroy Me | 398487 | [398487-alexa-destroy-me.json](./398487-alexa-destroy-me.json) |
@@ -3476,6 +3477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alter Ego | 270396 | [270396-alter-ego.json](./270396-alter-ego.json) |
 | Alter Ego | 305386 | [305386-alter-ego.json](./305386-alter-ego.json) |
 | Alter Ego Complex | 174307 | [174307-alter-ego-complex.json](./174307-alter-ego-complex.json) |
+| Alter Ego S | 316133 | [316133-alter-ego-s.json](./316133-alter-ego-s.json) |
 | Alter Ego: DreamWalker | 63535 | [63535-alter-ego-dreamwalker.json](./63535-alter-ego-dreamwalker.json) |
 | Alter Psycho | 346740 | [346740-alter-psycho.json](./346740-alter-psycho.json) |
 | Alter World | 35588 | [35588-alter-world.json](./35588-alter-world.json) |
@@ -7028,6 +7030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Shadows: Thrown to the Dogs | 301432 | [301432-assassins-creed-shadows-thrown-to-the-dogs.json](./301432-assassins-creed-shadows-thrown-to-the-dogs.json) |
 | Assassin's Creed Syndicate: Streets of London Pack | 109437 | [109437-assassins-creed-syndicate-streets-of-london-pack.json](./109437-assassins-creed-syndicate-streets-of-london-pack.json) |
 | Assassin's Creed Syndicate: The Dreadful Crimes | 109432 | [109432-assassins-creed-syndicate-the-dreadful-crimes.json](./109432-assassins-creed-syndicate-the-dreadful-crimes.json) |
+| Assassin's Creed Unity: Underground Armory Pack | 316131 | [316131-assassins-creed-unity-underground-armory-pack.json](./316131-assassins-creed-unity-underground-armory-pack.json) |
 | Assassin's Creed Valhalla: A Fated Encounter | 228706 | [228706-assassins-creed-valhalla-a-fated-encounter.json](./228706-assassins-creed-valhalla-a-fated-encounter.json) |
 | Assassin's Creed Valhalla: Collector's Edition | 141160 | [141160-assassins-creed-valhalla-collectors-edition.json](./141160-assassins-creed-valhalla-collectors-edition.json) |
 | Assassin's Creed Valhalla: Dawn of Ragnarök | 185706 | [185706-assassins-creed-valhalla-dawn-of-ragnarok.json](./185706-assassins-creed-valhalla-dawn-of-ragnarok.json) |
