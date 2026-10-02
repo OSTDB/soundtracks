@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Habitus | 34647 | [34647-habitus.json](./34647-habitus.json) |
 | Habla Kadabla | 310639 | [310639-habla-kadabla.json](./310639-habla-kadabla.json) |
 | Hablet | 344475 | [344475-hablet.json](./344475-hablet.json) |
+| Hablon Dawani | 293319 | [293319-hablon-dawani.json](./293319-hablon-dawani.json) |
 | Hacha Macha Pon! | 286585 | [286585-hacha-macha-pon.json](./286585-hacha-macha-pon.json) |
 | Hacha Mecha Fighter | 40182 | [40182-hacha-mecha-fighter.json](./40182-hacha-mecha-fighter.json) |
 | Hachiemon | 49595 | [49595-hachiemon.json](./49595-hachiemon.json) |
@@ -1342,6 +1343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunting: The Rosefield Manor | 318994 | [318994-haunting-the-rosefield-manor.json](./318994-haunting-the-rosefield-manor.json) |
 | Hauntrick | 334176 | [334176-hauntrick.json](./334176-hauntrick.json) |
 | Hauntsgiving | 341129 | [341129-hauntsgiving.json](./341129-hauntsgiving.json) |
+| Hauntsville | 293335 | [293335-hauntsville.json](./293335-hauntsville.json) |
 | Hauntworks | 410264 | [410264-hauntworks.json](./410264-hauntworks.json) |
 | Haus | 377074 | [377074-haus.json](./377074-haus.json) |
 | Haus Of Klaus | 391829 | [391829-haus-of-klaus.json](./391829-haus-of-klaus.json) |
@@ -1881,6 +1883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helga the Viking Warrior | 192817 | [192817-helga-the-viking-warrior.json](./192817-helga-the-viking-warrior.json) |
 | Helga the Viking Warrior 5: Dawn of Doom | 318609 | [318609-helga-the-viking-warrior-5-dawn-of-doom.json](./318609-helga-the-viking-warrior-5-dawn-of-doom.json) |
 | Helga the Viking Warrior 8: Valhalla's Last War | 417509 | [417509-helga-the-viking-warrior-8-valhallas-last-war.json](./417509-helga-the-viking-warrior-8-valhallas-last-war.json) |
+| Helga's Cheese Festival | 293349 | [293349-helgas-cheese-festival.json](./293349-helgas-cheese-festival.json) |
 | Helheim Hassle | 129208 | [129208-helheim-hassle.json](./129208-helheim-hassle.json) |
 | Helhigan | 360714 | [360714-helhigan.json](./360714-helhigan.json) |
 | Heli Commando in Hell | 124752 | [124752-heli-commando-in-hell.json](./124752-heli-commando-in-hell.json) |
@@ -2765,6 +2768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hermes | 94255 | [94255-hermes.json](./94255-hermes.json) |
 | Hermes: War of the Gods | 127089 | [127089-hermes-war-of-the-gods.json](./127089-hermes-war-of-the-gods.json) |
 | Hermes' Runner | 334193 | [334193-hermes-runner.json](./334193-hermes-runner.json) |
+| Hermetica | 293875 | [293875-hermetica.json](./293875-hermetica.json) |
 | Hermetica | 388301 | [388301-hermetica.json](./388301-hermetica.json) |
 | Hermina to Culus: Lillie no Atelier Mou Hitotsu no Monogatari | 123013 | [123013-hermina-to-culus-lillie-no-atelier-mou-hitotsu-no-monogatari.json](./123013-hermina-to-culus-lillie-no-atelier-mou-hitotsu-no-monogatari.json) |
 | Hermit | 291025 | [291025-hermit.json](./291025-hermit.json) |
