@@ -2568,6 +2568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sekei | 389651 | [389651-sekei.json](./389651-sekei.json) |
 | Sekibanki Head Adventure | 158520 | [158520-sekibanki-head-adventure.json](./158520-sekibanki-head-adventure.json) |
 | Sekien no Inganock ~What a Beautiful People~ Fullvoice ReBORN | 378204 | [378204-sekien-no-inganock-what-a-beautiful-people-fullvoice-reborn.json](./378204-sekien-no-inganock-what-a-beautiful-people-fullvoice-reborn.json) |
+| Sekimori Gami: Saien | 300959 | [300959-sekimori-gami-saien.json](./300959-sekimori-gami-saien.json) |
 | Sekira | 345093 | [345093-sekira.json](./345093-sekira.json) |
 | Sekirei: Mirai Kara no Okurimono | 65547 | [65547-sekirei-mirai-kara-no-okurimono.json](./65547-sekirei-mirai-kara-no-okurimono.json) |
 | Sekiro: Shadows Die Twice - Game of the Year Edition | 365281 | [365281-sekiro-shadows-die-twice-game-of-the-year-edition.json](./365281-sekiro-shadows-die-twice-game-of-the-year-edition.json) |
@@ -9347,6 +9348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | South Park: Save Kenny | 57934 | [57934-south-park-save-kenny.json](./57934-south-park-save-kenny.json) |
 | South Park: Snow Day! | 261145 | [261145-south-park-snow-day.json](./261145-south-park-snow-day.json) |
 | South Park: Snow Day! - 420 Pack | 298710 | [298710-south-park-snow-day-420-pack.json](./298710-south-park-snow-day-420-pack.json) |
+| South Park: Snow Day! - Bear-Serker Pack | 300919 | [300919-south-park-snow-day-bear-serker-pack.json](./300919-south-park-snow-day-bear-serker-pack.json) |
 | South Park: Snow Day! - Bigger, Longer & Uncut Anniversary Pack | 316256 | [316256-south-park-snow-day-bigger-longer-and-uncut-anniversary-pack.json](./316256-south-park-snow-day-bigger-longer-and-uncut-anniversary-pack.json) |
 | South Park: Snow Day! - Chaos Pack | 327315 | [327315-south-park-snow-day-chaos-pack.json](./327315-south-park-snow-day-chaos-pack.json) |
 | South Park: Snow Day! - Collector's Edition | 282050 | [282050-south-park-snow-day-collectors-edition.json](./282050-south-park-snow-day-collectors-edition.json) |
@@ -11250,6 +11252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprout of Control | 310125 | [310125-sprout-of-control.json](./310125-sprout-of-control.json) |
 | Sprout Valley + Bit Orchard: Animal Valley | 277892 | [277892-sprout-valley-bit-orchard-animal-valley.json](./277892-sprout-valley-bit-orchard-animal-valley.json) |
 | Sprout Valley Big Pack | 328993 | [328993-sprout-valley-big-pack.json](./328993-sprout-valley-big-pack.json) |
+| Sprout Valley: Cows | 300937 | [300937-sprout-valley-cows.json](./300937-sprout-valley-cows.json) |
 | Sprout Valley: Friends Forever | 332505 | [332505-sprout-valley-friends-forever.json](./332505-sprout-valley-friends-forever.json) |
 | Sprout Valley: Friends Forever Expansion | 332526 | [332526-sprout-valley-friends-forever-expansion.json](./332526-sprout-valley-friends-forever-expansion.json) |
 | Sprout Valley: Nico's Skins | 316247 | [316247-sprout-valley-nicos-skins.json](./316247-sprout-valley-nicos-skins.json) |
