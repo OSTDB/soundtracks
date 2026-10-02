@@ -1040,6 +1040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electro Man | 70109 | [70109-electro-man.json](./70109-electro-man.json) |
 | Electro Rush | 39201 | [39201-electro-rush.json](./39201-electro-rush.json) |
 | Electro-Dynamic Mayhem | 324679 | [324679-electro-dynamic-mayhem.json](./324679-electro-dynamic-mayhem.json) |
+| Electrobasis | 290618 | [290618-electrobasis.json](./290618-electrobasis.json) |
 | Electrodash | 159725 | [159725-electrodash.json](./159725-electrodash.json) |
 | Electrogical | 262107 | [262107-electrogical.json](./262107-electrogical.json) |
 | Electrolight | 319192 | [319192-electrolight.json](./319192-electrolight.json) |
@@ -1078,6 +1079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Element147 | 98016 | [98016-element147.json](./98016-element147.json) |
 | Element4l | 8715 | [8715-element4l.json](./8715-element4l.json) |
 | Elementaire | 297088 | [297088-elementaire.json](./297088-elementaire.json) |
+| Elemental | 290641 | [290641-elemental.json](./290641-elemental.json) |
 | Elemental | 351639 | [351639-elemental.json](./351639-elemental.json) |
 | Elemental | 95377 | [95377-elemental.json](./95377-elemental.json) |
 | Elemental Adventure | 226451 | [226451-elemental-adventure.json](./226451-elemental-adventure.json) |
@@ -2055,6 +2057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enter/Exit the Gungeon | 228735 | [228735-enter-exit-the-gungeon.json](./228735-enter-exit-the-gungeon.json) |
 | Enterprise | 12993 | [12993-enterprise.json](./12993-enterprise.json) |
 | Enterprise | 252181 | [252181-enterprise.json](./252181-enterprise.json) |
+| Enterprise: Space Agency Simulator | 290630 | [290630-enterprise-space-agency-simulator.json](./290630-enterprise-space-agency-simulator.json) |
 | Entertainment Hero | 26833 | [26833-entertainment-hero.json](./26833-entertainment-hero.json) |
 | Entertainment Hero 2 | 130154 | [130154-entertainment-hero-2.json](./130154-entertainment-hero-2.json) |
 | Entertainment Simulator | 151713 | [151713-entertainment-simulator.json](./151713-entertainment-simulator.json) |
@@ -2848,6 +2851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Esse mundo é um Colosso | 230758 | [230758-esse-mundo-e-um-colosso.json](./230758-esse-mundo-e-um-colosso.json) |
 | Esse Rakuraku Kakeibo | 141724 | [141724-esse-rakuraku-kakeibo.json](./141724-esse-rakuraku-kakeibo.json) |
 | Essence | 383502 | [383502-essence.json](./383502-essence.json) |
+| Essence Bloom | 290644 | [290644-essence-bloom.json](./290644-essence-bloom.json) |
 | Essence Child | 260967 | [260967-essence-child.json](./260967-essence-child.json) |
 | Essence Hunt | 177512 | [177512-essence-hunt.json](./177512-essence-hunt.json) |
 | Essence of Illumination: The Beginning | 89672 | [89672-essence-of-illumination-the-beginning.json](./89672-essence-of-illumination-the-beginning.json) |
@@ -3684,6 +3688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit Ways | 346652 | [346652-exit-ways.json](./346652-exit-ways.json) |
 | Exit: A Biodelic Adventure | 129020 | [129020-exit-a-biodelic-adventure.json](./129020-exit-a-biodelic-adventure.json) |
 | Exit: Echoes of Insanity | 395145 | [395145-exit-echoes-of-insanity.json](./395145-exit-echoes-of-insanity.json) |
+| Exit: Left or Right | 290653 | [290653-exit-left-or-right.json](./290653-exit-left-or-right.json) |
 | Exit: The Curse of Ophir | 174278 | [174278-exit-the-curse-of-ophir.json](./174278-exit-the-curse-of-ophir.json) |
 | Exit/Corners | 101734 | [101734-exit-corners.json](./101734-exit-corners.json) |
 | Exit16: Byilhan Hotel | 305523 | [305523-exit16-byilhan-hotel.json](./305523-exit16-byilhan-hotel.json) |
@@ -3692,6 +3697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exitor | 230958 | [230958-exitor.json](./230958-exitor.json) |
 | Exitrance | 417537 | [417537-exitrance.json](./417537-exitrance.json) |
 | Exits | 314964 | [314964-exits.json](./314964-exits.json) |
+| Exitus | 290619 | [290619-exitus.json](./290619-exitus.json) |
 | Exive | 110551 | [110551-exive.json](./110551-exive.json) |
 | Exmortis | 196724 | [196724-exmortis.json](./196724-exmortis.json) |
 | EXO Encounter 667 | 179188 | [179188-exo-encounter-667.json](./179188-exo-encounter-667.json) |
