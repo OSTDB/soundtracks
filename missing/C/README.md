@@ -1495,6 +1495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casino Conqueror | 273376 | [273376-casino-conqueror.json](./273376-casino-conqueror.json) |
 | Casino De Pink | 41372 | [41372-casino-de-pink.json](./41372-casino-de-pink.json) |
 | Casino FunPak | 117931 | [117931-casino-funpak.json](./117931-casino-funpak.json) |
+| Casino Heist: Aruba | 327449 | [327449-casino-heist-aruba.json](./327449-casino-heist-aruba.json) |
 | Casino Inc: The Management | 70951 | [70951-casino-inc-the-management.json](./70951-casino-inc-the-management.json) |
 | Casino Kid II | 48101 | [48101-casino-kid-ii.json](./48101-casino-kid-ii.json) |
 | Casino Mogul | 73759 | [73759-casino-mogul.json](./73759-casino-mogul.json) |
@@ -5609,6 +5610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colonumbers | 102941 | [102941-colonumbers.json](./102941-colonumbers.json) |
 | Colonus | 413051 | [413051-colonus.json](./413051-colonus.json) |
 | Colony | 211667 | [211667-colony.json](./211667-colony.json) |
+| Colony | 327447 | [327447-colony.json](./327447-colony.json) |
 | Colony | 76645 | [76645-colony.json](./76645-colony.json) |
 | Colony 28 | 388929 | [388929-colony-28.json](./388929-colony-28.json) |
 | Colony 37 | 355554 | [355554-colony-37.json](./355554-colony-37.json) |
