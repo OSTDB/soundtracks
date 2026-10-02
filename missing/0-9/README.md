@@ -178,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 Gnomes in Trstenik | 383643 | [383643-10-gnomes-in-trstenik.json](./383643-10-gnomes-in-trstenik.json) |
 | 10 Gnomes in Venice | 383610 | [383610-10-gnomes-in-venice.json](./383610-10-gnomes-in-venice.json) |
 | 10 Hours Below | 178430 | [178430-10-hours-below.json](./178430-10-hours-below.json) |
+| 10 in 1 Classic Games Pack | 304804 | [304804-10-in-1-classic-games-pack.json](./304804-10-in-1-classic-games-pack.json) |
 | 10 in 1 games Bundle | 284955 | [284955-10-in-1-games-bundle.json](./284955-10-in-1-games-bundle.json) |
 | 10 Levels: 10 Monsters | 262292 | [262292-10-levels-10-monsters.json](./262292-10-levels-10-monsters.json) |
 | 10 Little Robots | 76621 | [76621-10-little-robots.json](./76621-10-little-robots.json) |
