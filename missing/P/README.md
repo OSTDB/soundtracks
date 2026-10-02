@@ -2456,6 +2456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Oddities: Desktop Shelter | 372461 | [372461-pet-oddities-desktop-shelter.json](./372461-pet-oddities-desktop-shelter.json) |
 | Pet Pad | 243423 | [243423-pet-pad.json](./243423-pet-pad.json) |
 | Pet Pals: New Leash on Life | 64121 | [64121-pet-pals-new-leash-on-life.json](./64121-pet-pals-new-leash-on-life.json) |
+| PET Panic! | 290656 | [290656-pet-panic.json](./290656-pet-panic.json) |
 | Pet Paradise Story | 232171 | [232171-pet-paradise-story.json](./232171-pet-paradise-story.json) |
 | Pet Peaves Monsters | 232168 | [232168-pet-peaves-monsters.json](./232168-pet-peaves-monsters.json) |
 | Pet Puzzle | 119025 | [119025-pet-puzzle.json](./119025-pet-puzzle.json) |
@@ -2542,6 +2543,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pets Crossing | 247028 | [247028-pets-crossing.json](./247028-pets-crossing.json) |
 | Pets in Action Bundle | 212787 | [212787-pets-in-action-bundle.json](./212787-pets-in-action-bundle.json) |
 | Pets Survivors | 411145 | [411145-pets-survivors.json](./411145-pets-survivors.json) |
+| PETSCII Bros | 290652 | [290652-petscii-bros.json](./290652-petscii-bros.json) |
+| PETSCII Raiders | 290655 | [290655-petscii-raiders.json](./290655-petscii-raiders.json) |
 | PetShop | 235494 | [235494-petshop.json](./235494-petshop.json) |
 | Pettan Pyuu | 151160 | [151160-pettan-pyuu.json](./151160-pettan-pyuu.json) |
 | Pettson & Findus: Födelsedagskatten | 286110 | [286110-pettson-and-findus-fodelsedagskatten.json](./286110-pettson-and-findus-fodelsedagskatten.json) |
@@ -7615,6 +7618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Blur | 372086 | [372086-project-blur.json](./372086-project-blur.json) |
 | Project Breach Online | 208965 | [208965-project-breach-online.json](./208965-project-breach-online.json) |
 | Project Bridge | 187432 | [187432-project-bridge.json](./187432-project-bridge.json) |
+| Project Bubblegum | 290607 | [290607-project-bubblegum.json](./290607-project-bubblegum.json) |
 | Project Cairo | 297475 | [297475-project-cairo.json](./297475-project-cairo.json) |
 | Project Canopy | 144090 | [144090-project-canopy.json](./144090-project-canopy.json) |
 | Project Canvas: Isekai Joucho Ikusei Keikaku | 294787 | [294787-project-canvas-isekai-joucho-ikusei-keikaku.json](./294787-project-canvas-isekai-joucho-ikusei-keikaku.json) |
