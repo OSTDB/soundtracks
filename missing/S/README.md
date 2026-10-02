@@ -2190,6 +2190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Agent Spy Game: Hotel Assassination Mission | 196334 | [196334-secret-agent-spy-game-hotel-assassination-mission.json](./196334-secret-agent-spy-game-hotel-assassination-mission.json) |
 | Secret Agent Wizard Boy and the International Crime Syndicate | 319719 | [319719-secret-agent-wizard-boy-and-the-international-crime-syndicate.json](./319719-secret-agent-wizard-boy-and-the-international-crime-syndicate.json) |
 | Secret Agent: Cold War Espionage | 243396 | [243396-secret-agent-cold-war-espionage.json](./243396-secret-agent-cold-war-espionage.json) |
+| Secret Agent: Mission One | 294400 | [294400-secret-agent-mission-one.json](./294400-secret-agent-mission-one.json) |
 | Secret Agents | 179197 | [179197-secret-agents.json](./179197-secret-agents.json) |
 | Secret Archives | 294476 | [294476-secret-archives.json](./294476-secret-archives.json) |
 | Secret Backrooms | 204094 | [204094-secret-backrooms.json](./204094-secret-backrooms.json) |
@@ -6955,6 +6956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Town Terrors: Pilgrim's Hook | 79249 | [79249-small-town-terrors-pilgrims-hook.json](./79249-small-town-terrors-pilgrims-hook.json) |
 | Small Town Terrors: Pilgrim's Hook - Collector's Edition | 36314 | [36314-small-town-terrors-pilgrims-hook-collectors-edition.json](./36314-small-town-terrors-pilgrims-hook-collectors-edition.json) |
 | Small Void | 365200 | [365200-small-void.json](./365200-small-void.json) |
+| Small Wars: Mohicans | 294376 | [294376-small-wars-mohicans.json](./294376-small-wars-mohicans.json) |
 | Small World | 272927 | [272927-small-world.json](./272927-small-world.json) |
 | Smalland: Survive the Wilds VR | 299752 | [299752-smalland-survive-the-wilds-vr.json](./299752-smalland-survive-the-wilds-vr.json) |
 | Smalls Island Woes | 177341 | [177341-smalls-island-woes.json](./177341-smalls-island-woes.json) |
@@ -11246,6 +11248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spring Cleaning | 179733 | [179733-spring-cleaning.json](./179733-spring-cleaning.json) |
 | Spring Crisis 2 | 280922 | [280922-spring-crisis-2.json](./280922-spring-crisis-2.json) |
 | Spring Dash | 216723 | [216723-spring-dash.json](./216723-spring-dash.json) |
+| Spring Dogs: Ultimate Multiplayer Battle Royale | 294371 | [294371-spring-dogs-ultimate-multiplayer-battle-royale.json](./294371-spring-dogs-ultimate-multiplayer-battle-royale.json) |
 | Spring Falls | 122845 | [122845-spring-falls.json](./122845-spring-falls.json) |
 | Spring Gothic | 338216 | [338216-spring-gothic.json](./338216-spring-gothic.json) |
 | Spring Hell | 266770 | [266770-spring-hell.json](./266770-spring-hell.json) |
@@ -17227,6 +17230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SwapStar | 252394 | [252394-swapstar.json](./252394-swapstar.json) |
 | SwapTales: Leon! | 116439 | [116439-swaptales-leon.json](./116439-swaptales-leon.json) |
 | Swarm 2 | 280060 | [280060-swarm-2.json](./280060-swarm-2.json) |
+| Swarm Fortress | 294372 | [294372-swarm-fortress.json](./294372-swarm-fortress.json) |
 | Swarm Harvest | 417418 | [417418-swarm-harvest.json](./417418-swarm-harvest.json) |
 | Swarm Hunter | 345557 | [345557-swarm-hunter.json](./345557-swarm-hunter.json) |
 | Swarm Me | 374722 | [374722-swarm-me.json](./374722-swarm-me.json) |
