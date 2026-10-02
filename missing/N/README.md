@@ -501,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nature Atelier | 368520 | [368520-nature-atelier.json](./368520-nature-atelier.json) |
 | Nature Escapes | 215635 | [215635-nature-escapes.json](./215635-nature-escapes.json) |
 | Nature Escapes 2 | 235182 | [235182-nature-escapes-2.json](./235182-nature-escapes-2.json) |
+| Nature Escapes 3: Collector's Edition | 286198 | [286198-nature-escapes-3-collectors-edition.json](./286198-nature-escapes-3-collectors-edition.json) |
 | Nature Escapes 5: Collector's Edition | 385087 | [385087-nature-escapes-5-collectors-edition.json](./385087-nature-escapes-5-collectors-edition.json) |
 | Nature Minds | 380681 | [380681-nature-minds.json](./380681-nature-minds.json) |
 | Nature Moms | 82168 | [82168-nature-moms.json](./82168-nature-moms.json) |
