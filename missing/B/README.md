@@ -2068,6 +2068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Runner | 75919 | [75919-battle-runner.json](./75919-battle-runner.json) |
 | Battle Sad Boy | 157480 | [157480-battle-sad-boy.json](./157480-battle-sad-boy.json) |
 | Battle Sage | 217517 | [217517-battle-sage.json](./217517-battle-sage.json) |
+| Battle Santa 64 | 281041 | [281041-battle-santa-64.json](./281041-battle-santa-64.json) |
 | Battle Sea | 268479 | [268479-battle-sea.json](./268479-battle-sea.json) |
 | Battle Shapers | 244184 | [244184-battle-shapers.json](./244184-battle-shapers.json) |
 | Battle Ship Clapton II | 47547 | [47547-battle-ship-clapton-ii.json](./47547-battle-ship-clapton-ii.json) |
@@ -3177,6 +3178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bender 2: Bend Harder | 319163 | [319163-bender-2-bend-harder.json](./319163-bender-2-bend-harder.json) |
 | Bendy and the Dark Revival | 120163 | [120163-bendy-and-the-dark-revival.json](./120163-bendy-and-the-dark-revival.json) |
 | Bendy and the Ink Machine | 28311 | [28311-bendy-and-the-ink-machine.json](./28311-bendy-and-the-ink-machine.json) |
+| Bendy and the Ink Machine: Chapter Five | 281029 | [281029-bendy-and-the-ink-machine-chapter-five.json](./281029-bendy-and-the-ink-machine-chapter-five.json) |
 | Bendy Road | 98782 | [98782-bendy-road.json](./98782-bendy-road.json) |
 | Bendy: Ink Demon's Collection | 393061 | [393061-bendy-ink-demons-collection.json](./393061-bendy-ink-demons-collection.json) |
 | Bendy: Revive and Survive Bundle | 393062 | [393062-bendy-revive-and-survive-bundle.json](./393062-bendy-revive-and-survive-bundle.json) |
