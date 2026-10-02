@@ -1270,6 +1270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ellixir's Dream | 348376 | [348376-ellixirs-dream.json](./348376-ellixirs-dream.json) |
 | EllrLand | 229801 | [229801-ellrland.json](./229801-ellrland.json) |
 | Ells Tales: Chairbound | 358388 | [358388-ells-tales-chairbound.json](./358388-ells-tales-chairbound.json) |
+| Ells Tales: Egg | 302053 | [302053-ells-tales-egg.json](./302053-ells-tales-egg.json) |
 | Ellsydia | 378416 | [378416-ellsydia.json](./378416-ellsydia.json) |
 | Elm Knight: A Living Body Armor | 91762 | [91762-elm-knight-a-living-body-armor.json](./91762-elm-knight-a-living-body-armor.json) |
 | Elmin | 345588 | [345588-elmin.json](./345588-elmin.json) |
@@ -1857,6 +1858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endrays | 266860 | [266860-endrays.json](./266860-endrays.json) |
 | Endro | 164971 | [164971-endro.json](./164971-endro.json) |
 | Endrr | 200690 | [200690-endrr.json](./200690-endrr.json) |
+| Ends | 302078 | [302078-ends.json](./302078-ends.json) |
 | EndSeeker | 333143 | [333143-endseeker.json](./333143-endseeker.json) |
 | Endura | 301272 | [301272-endura.json](./301272-endura.json) |
 | Endurance | 13642 | [13642-endurance.json](./13642-endurance.json) |
