@@ -868,6 +868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eiyuden Chronicle: Hundred Heroes - Digital Deluxe Edition | 267962 | [267962-eiyuden-chronicle-hundred-heroes-digital-deluxe-edition.json](./267962-eiyuden-chronicle-hundred-heroes-digital-deluxe-edition.json) |
 | Eiyuden Chronicle: Hundred Heroes - Hope of the Alliance: Special HQ Statue | 323249 | [323249-eiyuden-chronicle-hundred-heroes-hope-of-the-alliance-special-hq-statue.json](./323249-eiyuden-chronicle-hundred-heroes-hope-of-the-alliance-special-hq-statue.json) |
 | Eiyuden Chronicle: Hundred Heroes - Pioneer Pack | 323251 | [323251-eiyuden-chronicle-hundred-heroes-pioneer-pack.json](./323251-eiyuden-chronicle-hundred-heroes-pioneer-pack.json) |
+| Eiyuden Chronicle: Hundred Heroes - Season Pass | 300938 | [300938-eiyuden-chronicle-hundred-heroes-season-pass.json](./300938-eiyuden-chronicle-hundred-heroes-season-pass.json) |
 | Eiyuden Chronicle: Hundred Heroes - The Chapter of Marisa | 332517 | [332517-eiyuden-chronicle-hundred-heroes-the-chapter-of-marisa.json](./332517-eiyuden-chronicle-hundred-heroes-the-chapter-of-marisa.json) |
 | Eiyuden Chronicle: Hundred Heroes - The Chapter of Markus | 332518 | [332518-eiyuden-chronicle-hundred-heroes-the-chapter-of-markus.json](./332518-eiyuden-chronicle-hundred-heroes-the-chapter-of-markus.json) |
 | Eiyuden Chronicle: Hundred Heroes - The Chapter of Seign | 332519 | [332519-eiyuden-chronicle-hundred-heroes-the-chapter-of-seign.json](./332519-eiyuden-chronicle-hundred-heroes-the-chapter-of-seign.json) |
