@@ -2493,6 +2493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remington Upland Game Hunter | 319121 | [319121-remington-upland-game-hunter.json](./319121-remington-upland-game-hunter.json) |
 | Reminisce | 306685 | [306685-reminisce.json](./306685-reminisce.json) |
 | Reminiscence | 360643 | [360643-reminiscence.json](./360643-reminiscence.json) |
+| Reminiscence in the Rain | 294369 | [294369-reminiscence-in-the-rain.json](./294369-reminiscence-in-the-rain.json) |
 | ReMix: Encore | 311815 | [311815-remix-encore.json](./311815-remix-encore.json) |
 | Remnant Frontier: Survival | 373001 | [373001-remnant-frontier-survival.json](./373001-remnant-frontier-survival.json) |
 | Remnant Generation: Prologue | 392293 | [392293-remnant-generation-prologue.json](./392293-remnant-generation-prologue.json) |
@@ -3192,6 +3193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge of the 'Gator: Gold | 257393 | [257393-revenge-of-the-gator-gold.json](./257393-revenge-of-the-gator-gold.json) |
 | Revenge of the Apes | 40772 | [40772-revenge-of-the-apes.json](./40772-revenge-of-the-apes.json) |
 | Revenge of the Beefsteak Tomatoes | 22760 | [22760-revenge-of-the-beefsteak-tomatoes.json](./22760-revenge-of-the-beefsteak-tomatoes.json) |
+| Revenge of the C5 | 294402 | [294402-revenge-of-the-c5.json](./294402-revenge-of-the-c5.json) |
 | Revenge Of The Colon | 279005 | [279005-revenge-of-the-colon.json](./279005-revenge-of-the-colon.json) |
 | Revenge of the Fallen | 123600 | [123600-revenge-of-the-fallen.json](./123600-revenge-of-the-fallen.json) |
 | Revenge of the Firstborn | 378336 | [378336-revenge-of-the-firstborn.json](./378336-revenge-of-the-firstborn.json) |
