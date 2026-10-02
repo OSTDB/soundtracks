@@ -1438,6 +1438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Ski | 5275 | [5275-we-ski.json](./5275-we-ski.json) |
 | We Slay Monsters | 36183 | [36183-we-slay-monsters.json](./36183-we-slay-monsters.json) |
 | We Surround You | 150687 | [150687-we-surround-you.json](./150687-we-surround-you.json) |
+| We Suspect Foul Play | 293338 | [293338-we-suspect-foul-play.json](./293338-we-suspect-foul-play.json) |
 | We the People | 236841 | [236841-we-the-people.json](./236841-we-the-people.json) |
 | We The Pixies | 365805 | [365805-we-the-pixies.json](./365805-we-the-pixies.json) |
 | We Thieves HD | 343368 | [343368-we-thieves-hd.json](./343368-we-thieves-hd.json) |
@@ -4529,6 +4530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrong Floor | 177032 | [177032-wrong-floor.json](./177032-wrong-floor.json) |
 | Wrong Floor | 348898 | [348898-wrong-floor.json](./348898-wrong-floor.json) |
 | Wronged Us | 190482 | [190482-wronged-us.json](./190482-wronged-us.json) |
+| Wrongly Accused | 293337 | [293337-wrongly-accused.json](./293337-wrongly-accused.json) |
 | Wrongly Accused | 384115 | [384115-wrongly-accused.json](./384115-wrongly-accused.json) |
 | Wroom Wroom Puzzles | 261343 | [261343-wroom-wroom-puzzles.json](./261343-wroom-wroom-puzzles.json) |
 | Wroth | 271744 | [271744-wroth.json](./271744-wroth.json) |
