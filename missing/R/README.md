@@ -1616,6 +1616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realms of Wilorth | 250871 | [250871-realms-of-wilorth.json](./250871-realms-of-wilorth.json) |
 | Realms VR | 164241 | [164241-realms-vr.json](./164241-realms-vr.json) |
 | Realmstone | 118980 | [118980-realmstone.json](./118980-realmstone.json) |
+| Realmweaver | 291192 | [291192-realmweaver.json](./291192-realmweaver.json) |
 | realMyst | 16198 | [16198-realmyst.json](./16198-realmyst.json) |
 | Realmz | 94900 | [94900-realmz.json](./94900-realmz.json) |
 | RealPlay Golf | 21365 | [21365-realplay-golf.json](./21365-realplay-golf.json) |
@@ -1997,6 +1998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Panda x Cats Bundle | 331512 | [331512-red-panda-x-cats-bundle.json](./331512-red-panda-x-cats-bundle.json) |
 | Red Passport: Ticket to Russia | 373669 | [373669-red-passport-ticket-to-russia.json](./373669-red-passport-ticket-to-russia.json) |
 | Red Pixel | 59925 | [59925-red-pixel.json](./59925-red-pixel.json) |
+| Red Planet Rampage | 291178 | [291178-red-planet-rampage.json](./291178-red-planet-rampage.json) |
 | Red Planet Rampart | 311205 | [311205-red-planet-rampart.json](./311205-red-planet-rampart.json) |
 | Red Planet: Survive | 327919 | [327919-red-planet-survive.json](./327919-red-planet-survive.json) |
 | Red points | 111735 | [111735-red-points.json](./111735-red-points.json) |
