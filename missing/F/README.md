@@ -1630,6 +1630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Father and Son 2 | 314382 | [314382-father-and-son-2.json](./314382-father-and-son-2.json) |
 | Father Figure | 376029 | [376029-father-figure.json](./376029-father-figure.json) |
 | Father's Day | 213858 | [213858-fathers-day.json](./213858-fathers-day.json) |
+| Father's Day Journey | 304270 | [304270-fathers-day-journey.json](./304270-fathers-day-journey.json) |
 | Father's Island | 33072 | [33072-fathers-island.json](./33072-fathers-island.json) |
 | Fathers Farm | 377851 | [377851-fathers-farm.json](./377851-fathers-farm.json) |
 | Fathom | 10966 | [10966-fathom.json](./10966-fathom.json) |
@@ -2149,6 +2150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Soccer Manager | 79955 | [79955-fifa-soccer-manager.json](./79955-fifa-soccer-manager.json) |
 | FIFA Soccer: Prime Stars | 58312 | [58312-fifa-soccer-prime-stars.json](./58312-fifa-soccer-prime-stars.json) |
 | FIFA Street 3 | 7304 | [7304-fifa-street-3.json](./7304-fifa-street-3.json) |
+| FIFA Superstars | 304276 | [304276-fifa-superstars.json](./304276-fifa-superstars.json) |
 | FIFA World | 7433 | [7433-fifa-world.json](./7433-fifa-world.json) |
 | FIFA World Cup: Launch Edition | 404400 | [404400-fifa-world-cup-launch-edition.json](./404400-fifa-world-cup-launch-edition.json) |
 | FIFA: Road to World Cup 98 | 705 | [705-fifa-road-to-world-cup-98.json](./705-fifa-road-to-world-cup-98.json) |
@@ -4508,6 +4510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Story | 103391 | [103391-football-story.json](./103391-football-story.json) |
 | Football Streaker Simulator | 259086 | [259086-football-streaker-simulator.json](./259086-football-streaker-simulator.json) |
 | Football Strike | 68338 | [68338-football-strike.json](./68338-football-strike.json) |
+| Football Striker 2024 | 304264 | [304264-football-striker-2024.json](./304264-football-striker-2024.json) |
 | Football Superstar 2 | 317008 | [317008-football-superstar-2.json](./317008-football-superstar-2.json) |
 | Football Survivors | 390197 | [390197-football-survivors.json](./390197-football-survivors.json) |
 | Football Thug Life Soccer | 255741 | [255741-football-thug-life-soccer.json](./255741-football-thug-life-soccer.json) |
@@ -5803,6 +5806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday the 13th: The Game - Spring Break 1984 Clothing Pack | 224244 | [224244-friday-the-13th-the-game-spring-break-1984-clothing-pack.json](./224244-friday-the-13th-the-game-spring-break-1984-clothing-pack.json) |
 | Friday: Death to Arthur Yahtzee | 62155 | [62155-friday-death-to-arthur-yahtzee.json](./62155-friday-death-to-arthur-yahtzee.json) |
 | Fridge | 384166 | [384166-fridge.json](./384166-fridge.json) |
+| Fridge Escape | 304263 | [304263-fridge-escape.json](./304263-fridge-escape.json) |
 | Frido | 232456 | [232456-frido.json](./232456-frido.json) |
 | Fried Chicken in Wonderland | 158576 | [158576-fried-chicken-in-wonderland.json](./158576-fried-chicken-in-wonderland.json) |
 | Fried Chicken Wings Cause Love Fires | 372084 | [372084-fried-chicken-wings-cause-love-fires.json](./372084-fried-chicken-wings-cause-love-fires.json) |
