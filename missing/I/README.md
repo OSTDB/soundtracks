@@ -784,6 +784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Knights | 220174 | [220174-idle-knights.json](./220174-idle-knights.json) |
 | Idle Land of Exile | 348849 | [348849-idle-land-of-exile.json](./348849-idle-land-of-exile.json) |
 | Idle landmark! | 249175 | [249175-idle-landmark.json](./249175-idle-landmark.json) |
+| Idle Legends | 303184 | [303184-idle-legends.json](./303184-idle-legends.json) |
 | Idle Lemonade Tycoon Empire | 255802 | [255802-idle-lemonade-tycoon-empire.json](./255802-idle-lemonade-tycoon-empire.json) |
 | Idle looter | 376073 | [376073-idle-looter.json](./376073-idle-looter.json) |
 | Idle Love | 101067 | [101067-idle-love.json](./101067-idle-love.json) |
@@ -838,6 +839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Spiral | 211230 | [211230-idle-spiral.json](./211230-idle-spiral.json) |
 | Idle Squire | 391172 | [391172-idle-squire.json](./391172-idle-squire.json) |
 | Idle Stellar | 262911 | [262911-idle-stellar.json](./262911-idle-stellar.json) |
+| Idle Strikers 1945 | 303181 | [303181-idle-strikers-1945.json](./303181-idle-strikers-1945.json) |
 | Idle Submarine | 255747 | [255747-idle-submarine.json](./255747-idle-submarine.json) |
 | Idle Summoners: Heroes VIP | 100756 | [100756-idle-summoners-heroes-vip.json](./100756-idle-summoners-heroes-vip.json) |
 | Idle Tamers: Mini Monsters | 188369 | [188369-idle-tamers-mini-monsters.json](./188369-idle-tamers-mini-monsters.json) |
