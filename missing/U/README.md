@@ -526,6 +526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultron | 57133 | [57133-ultron.json](./57133-ultron.json) |
 | Ultrono Arena | 94211 | [94211-ultrono-arena.json](./94211-ultrono-arena.json) |
 | Ultros: Deluxe Edition | 279040 | [279040-ultros-deluxe-edition.json](./279040-ultros-deluxe-edition.json) |
+| Um Dia na Fazenda | 290077 | [290077-um-dia-na-fazenda.json](./290077-um-dia-na-fazenda.json) |
 | Um Jammer Lammy | 6081 | [6081-um-jammer-lammy.json](./6081-um-jammer-lammy.json) |
 | Um Jammer Lammy Now | 243420 | [243420-um-jammer-lammy-now.json](./243420-um-jammer-lammy-now.json) |
 | Uma Casa Que Não é Sua | 178625 | [178625-uma-casa-que-nao-e-sua.json](./178625-uma-casa-que-nao-e-sua.json) |
