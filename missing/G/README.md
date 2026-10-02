@@ -2249,6 +2249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiate! | 301947 | [301947-gladiate.json](./301947-gladiate.json) |
 | Gladiato Potato | 349387 | [349387-gladiato-potato.json](./349387-gladiato-potato.json) |
 | Gladiator | 194615 | [194615-gladiator.json](./194615-gladiator.json) |
+| Gladiator | 320853 | [320853-gladiator.json](./320853-gladiator.json) |
 | Gladiator | 401715 | [401715-gladiator.json](./401715-gladiator.json) |
 | Gladiator | 401718 | [401718-gladiator.json](./401718-gladiator.json) |
 | Gladiator Fights | 343401 | [343401-gladiator-fights.json](./343401-gladiator-fights.json) |
