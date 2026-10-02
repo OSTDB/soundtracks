@@ -1949,6 +1949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nibiru | 205071 | [205071-nibiru.json](./205071-nibiru.json) |
 | Nibû | 112753 | [112753-nibu.json](./112753-nibu.json) |
 | Nice Body All-Star Suiei Taikai | 248117 | [248117-nice-body-all-star-suiei-taikai.json](./248117-nice-body-all-star-suiei-taikai.json) |
+| Nice Day for Fishing | 324939 | [324939-nice-day-for-fishing.json](./324939-nice-day-for-fishing.json) |
 | Nice de Shot: World Course Selections | 37907 | [37907-nice-de-shot-world-course-selections.json](./37907-nice-de-shot-world-course-selections.json) |
 | Nice Dice - 3D dice roller | 102724 | [102724-nice-dice-3d-dice-roller.json](./102724-nice-dice-3d-dice-roller.json) |
 | Nice Mario 75 | 294791 | [294791-nice-mario-75.json](./294791-nice-mario-75.json) |
