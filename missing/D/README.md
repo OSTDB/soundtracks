@@ -6160,6 +6160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom 64 Reloaded | 346668 | [346668-doom-64-reloaded.json](./346668-doom-64-reloaded.json) |
 | Doom 64: Complete Edition | 408132 | [408132-doom-64-complete-edition.json](./408132-doom-64-complete-edition.json) |
 | DOOM Abort | 202841 | [202841-doom-abort.json](./202841-doom-abort.json) |
+| Doom Anthology | 332005 | [332005-doom-anthology.json](./332005-doom-anthology.json) |
 | Doom ChessMaster | 398500 | [398500-doom-chessmaster.json](./398500-doom-chessmaster.json) |
 | Doom City | 144214 | [144214-doom-city.json](./144214-doom-city.json) |
 | Doom Core | 275569 | [275569-doom-core.json](./275569-doom-core.json) |
@@ -7673,6 +7674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamlander | 147805 | [147805-dreamlander.json](./147805-dreamlander.json) |
 | Dreamlands: Cotton Candy Hunt | 190441 | [190441-dreamlands-cotton-candy-hunt.json](./190441-dreamlands-cotton-candy-hunt.json) |
 | Dreamless | 320135 | [320135-dreamless.json](./320135-dreamless.json) |
+| Dreamless Girl: Deluxe Edition | 332004 | [332004-dreamless-girl-deluxe-edition.json](./332004-dreamless-girl-deluxe-edition.json) |
 | Dreamless Girl: Deluxe Edtion Plus | 335097 | [335097-dreamless-girl-deluxe-edtion-plus.json](./335097-dreamless-girl-deluxe-edtion-plus.json) |
 | Dreamless: The Madness from the Sea | 146846 | [146846-dreamless-the-madness-from-the-sea.json](./146846-dreamless-the-madness-from-the-sea.json) |
 | Dreamlight | 151025 | [151025-dreamlight.json](./151025-dreamlight.json) |
