@@ -3796,6 +3796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Count of Monte Carlo | 151696 | [151696-the-count-of-monte-carlo.json](./151696-the-count-of-monte-carlo.json) |
 | The Counter Gambit | 379037 | [379037-the-counter-gambit.json](./379037-the-counter-gambit.json) |
 | The Counting Kingdom | 17435 | [17435-the-counting-kingdom.json](./17435-the-counting-kingdom.json) |
+| The Courage to be Disliked | 294967 | [294967-the-courage-to-be-disliked.json](./294967-the-courage-to-be-disliked.json) |
 | The Court of Wanderers | 152793 | [152793-the-court-of-wanderers.json](./152793-the-court-of-wanderers.json) |
 | The Coven | 37114 | [37114-the-coven.json](./37114-the-coven.json) |
 | The Coveted Mirror | 25038 | [25038-the-coveted-mirror.json](./25038-the-coveted-mirror.json) |
@@ -4956,6 +4957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gatekeeper of Scarlet's Mansion | 348237 | [348237-the-gatekeeper-of-scarlets-mansion.json](./348237-the-gatekeeper-of-scarlets-mansion.json) |
 | The Gateway to Hell | 271752 | [271752-the-gateway-to-hell.json](./271752-the-gateway-to-hell.json) |
 | The Gateway Trilogy | 51980 | [51980-the-gateway-trilogy.json](./51980-the-gateway-trilogy.json) |
+| The Gauntlet | 294930 | [294930-the-gauntlet.json](./294930-the-gauntlet.json) |
 | The Gazebo | 358949 | [358949-the-gazebo.json](./358949-the-gazebo.json) |
 | The Geekwad: Games of the Galaxy | 71772 | [71772-the-geekwad-games-of-the-galaxy.json](./71772-the-geekwad-games-of-the-galaxy.json) |
 | The Gem Collector | 85435 | [85435-the-gem-collector.json](./85435-the-gem-collector.json) |
