@@ -8243,6 +8243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic 1 8-bit Redux | 317353 | [317353-sonic-1-8-bit-redux.json](./317353-sonic-1-8-bit-redux.json) |
 | Sonic 1 Easy Mode | 270220 | [270220-sonic-1-easy-mode.json](./270220-sonic-1-easy-mode.json) |
 | Sonic 1 Pilot | 337708 | [337708-sonic-1-pilot.json](./337708-sonic-1-pilot.json) |
+| Sonic 1 Sigma | 332570 | [332570-sonic-1-sigma.json](./332570-sonic-1-sigma.json) |
 | Sonic 1 Spike Bug Fix & Spindash | 198532 | [198532-sonic-1-spike-bug-fix-and-spindash.json](./198532-sonic-1-spike-bug-fix-and-spindash.json) |
 | Sonic 1: Alt Reality | 333783 | [333783-sonic-1-alt-reality.json](./333783-sonic-1-alt-reality.json) |
 | Sonic 1: South Island Expedition | 215157 | [215157-sonic-1-south-island-expedition.json](./215157-sonic-1-south-island-expedition.json) |
@@ -8310,6 +8311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Battle 2 | 326806 | [326806-sonic-battle-2.json](./326806-sonic-battle-2.json) |
 | Sonic Battle 4: The Call to Chaos | 330280 | [330280-sonic-battle-4-the-call-to-chaos.json](./330280-sonic-battle-4-the-call-to-chaos.json) |
 | Sonic Battle Cards | 338941 | [338941-sonic-battle-cards.json](./338941-sonic-battle-cards.json) |
+| Sonic Battle Force | 332649 | [332649-sonic-battle-force.json](./332649-sonic-battle-force.json) |
 | Sonic Battle R | 169233 | [169233-sonic-battle-r.json](./169233-sonic-battle-r.json) |
 | Sonic Battle Rush | 266507 | [266507-sonic-battle-rush.json](./266507-sonic-battle-rush.json) |
 | Sonic Billiards | 261246 | [261246-sonic-billiards.json](./261246-sonic-billiards.json) |
@@ -8331,6 +8333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic CD | 5452 | [5452-sonic-cd.json](./5452-sonic-cd.json) |
 | Sonic CD | 86807 | [86807-sonic-cd.json](./86807-sonic-cd.json) |
 | Sonic CD 2011 Decompilation | 202234 | [202234-sonic-cd-2011-decompilation.json](./202234-sonic-cd-2011-decompilation.json) |
+| Sonic CD Breakout | 332650 | [332650-sonic-cd-breakout.json](./332650-sonic-cd-breakout.json) |
 | Sonic CD: Episode Metal | 201809 | [201809-sonic-cd-episode-metal.json](./201809-sonic-cd-episode-metal.json) |
 | Sonic CD++ | 198545 | [198545-sonic-cd.json](./198545-sonic-cd.json) |
 | Sonic Celerity | 336344 | [336344-sonic-celerity.json](./336344-sonic-celerity.json) |
@@ -8456,6 +8459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Mania Plus | 94873 | [94873-sonic-mania-plus.json](./94873-sonic-mania-plus.json) |
 | Sonic Mania Randomizer | 386230 | [386230-sonic-mania-randomizer.json](./386230-sonic-mania-randomizer.json) |
 | Sonic Mania: Collector's Edition | 25684 | [25684-sonic-mania-collectors-edition.json](./25684-sonic-mania-collectors-edition.json) |
+| Sonic Mars Remake | 332576 | [332576-sonic-mars-remake.json](./332576-sonic-mars-remake.json) |
 | Sonic Maze Craze | 273985 | [273985-sonic-maze-craze.json](./273985-sonic-maze-craze.json) |
 | Sonic McOrigins Plus | 265230 | [265230-sonic-mcorigins-plus.json](./265230-sonic-mcorigins-plus.json) |
 | Sonic Medley | 326999 | [326999-sonic-medley.json](./326999-sonic-medley.json) |
@@ -8486,6 +8490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Origins: Premium Fun Pack | 254492 | [254492-sonic-origins-premium-fun-pack.json](./254492-sonic-origins-premium-fun-pack.json) |
 | Sonic Outbound | 266515 | [266515-sonic-outbound.json](./266515-sonic-outbound.json) |
 | Sonic Overdrive | 266513 | [266513-sonic-overdrive.json](./266513-sonic-overdrive.json) |
+| Sonic Overture | 332645 | [332645-sonic-overture.json](./332645-sonic-overture.json) |
 | Sonic P-06 | 148406 | [148406-sonic-p-06.json](./148406-sonic-p-06.json) |
 | Sonic Panel Puzzle | 261274 | [261274-sonic-panel-puzzle.json](./261274-sonic-panel-puzzle.json) |
 | Sonic Paradigm | 333935 | [333935-sonic-paradigm.json](./333935-sonic-paradigm.json) |
@@ -8623,6 +8628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog Classic Heroes | 129159 | [129159-sonic-the-hedgehog-classic-heroes.json](./129159-sonic-the-hedgehog-classic-heroes.json) |
 | Sonic the Hedgehog DVD | 334139 | [334139-sonic-the-hedgehog-dvd.json](./334139-sonic-the-hedgehog-dvd.json) |
 | Sonic the Hedgehog Extreme Boarding | 198563 | [198563-sonic-the-hedgehog-extreme-boarding.json](./198563-sonic-the-hedgehog-extreme-boarding.json) |
+| Sonic the Hedgehog Game Gear/Master System Remake | 332588 | [332588-sonic-the-hedgehog-game-gear-master-system-remake.json](./332588-sonic-the-hedgehog-game-gear-master-system-remake.json) |
 | Sonic the Hedgehog Golf | 197369 | [197369-sonic-the-hedgehog-golf.json](./197369-sonic-the-hedgehog-golf.json) |
 | Sonic the Hedgehog Interactive Watch | 238200 | [238200-sonic-the-hedgehog-interactive-watch.json](./238200-sonic-the-hedgehog-interactive-watch.json) |
 | Sonic the Hedgehog Legacy Bundle | 316736 | [316736-sonic-the-hedgehog-legacy-bundle.json](./316736-sonic-the-hedgehog-legacy-bundle.json) |
@@ -8694,11 +8700,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic X Shadow Generations: Sonic the Hedgehog 3 Movie Pack | 325688 | [325688-sonic-x-shadow-generations-sonic-the-hedgehog-3-movie-pack.json](./325688-sonic-x-shadow-generations-sonic-the-hedgehog-3-movie-pack.json) |
 | Sonic x Vapor | 233072 | [233072-sonic-x-vapor.json](./233072-sonic-x-vapor.json) |
 | Sonic X-Treme | 336383 | [336383-sonic-x-treme.json](./336383-sonic-x-treme.json) |
+| Sonic X-Treme 2D | 332574 | [332574-sonic-x-treme-2d.json](./332574-sonic-x-treme-2d.json) |
 | Sonic X-Treme Revitalized | 326953 | [326953-sonic-x-treme-revitalized.json](./326953-sonic-x-treme-revitalized.json) |
 | Sonic X: Emerald Grab | 269876 | [269876-sonic-x-emerald-grab.json](./269876-sonic-x-emerald-grab.json) |
 | Sonic X: The Game | 326809 | [326809-sonic-x-the-game.json](./326809-sonic-x-the-game.json) |
 | Sonic XG | 280874 | [280874-sonic-xg.json](./280874-sonic-xg.json) |
 | Sonic XN | 331666 | [331666-sonic-xn.json](./331666-sonic-xn.json) |
+| Sonic Xperience | 332573 | [332573-sonic-xperience.json](./332573-sonic-xperience.json) |
 | Sonic Xtreme 2D | 315027 | [315027-sonic-xtreme-2d.json](./315027-sonic-xtreme-2d.json) |
 | Sonic Zoom | 270223 | [270223-sonic-zoom.json](./270223-sonic-zoom.json) |
 | Sonic: After the Sequel | 19722 | [19722-sonic-after-the-sequel.json](./19722-sonic-after-the-sequel.json) |
@@ -8715,7 +8723,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic: Lost in Nightmare World | 337171 | [337171-sonic-lost-in-nightmare-world.json](./337171-sonic-lost-in-nightmare-world.json) |
 | Sonic: Maniac Adventure | 334141 | [334141-sonic-maniac-adventure.json](./334141-sonic-maniac-adventure.json) |
 | Sonic: Power Rings | 330699 | [330699-sonic-power-rings.json](./330699-sonic-power-rings.json) |
+| Sonic: Project Eclipse | 332572 | [332572-sonic-project-eclipse.json](./332572-sonic-project-eclipse.json) |
+| Sonic: Project Endless | 332577 | [332577-sonic-project-endless.json](./332577-sonic-project-endless.json) |
 | Sonic: Project Survival | 246089 | [246089-sonic-project-survival.json](./246089-sonic-project-survival.json) |
+| Sonic: Project Time | 332653 | [332653-sonic-project-time.json](./332653-sonic-project-time.json) |
 | Sonic: Quick Step Challenge | 332604 | [332604-sonic-quick-step-challenge.json](./332604-sonic-quick-step-challenge.json) |
 | Sonic: Rewind | 326804 | [326804-sonic-rewind.json](./326804-sonic-rewind.json) |
 | Sonic: RTFI | 330513 | [330513-sonic-rtfi.json](./330513-sonic-rtfi.json) |
@@ -11141,6 +11152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spyro: Year of the Dragon | 1578 | [1578-spyro-year-of-the-dragon.json](./1578-spyro-year-of-the-dragon.json) |
 | Spyyn | 372101 | [372101-spyyn.json](./372101-spyyn.json) |
 | Sqdef | 194297 | [194297-sqdef.json](./194297-sqdef.json) |
+| SQGT | 332647 | [332647-sqgt.json](./332647-sqgt.json) |
 | SQR | 333793 | [333793-sqr.json](./333793-sqr.json) |
 | Sqr 3 | 334766 | [334766-sqr-3.json](./334766-sqr-3.json) |
 | Sqroma | 186020 | [186020-sqroma.json](./186020-sqroma.json) |
@@ -13569,6 +13581,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter V: 2016 Summer Costume Bundle | 343896 | [343896-street-fighter-v-2016-summer-costume-bundle.json](./343896-street-fighter-v-2016-summer-costume-bundle.json) |
 | Street Fighter V: Arcade Edition | 74155 | [74155-street-fighter-v-arcade-edition.json](./74155-street-fighter-v-arcade-edition.json) |
 | Street Fighter V: Blanka | 322207 | [322207-street-fighter-v-blanka.json](./322207-street-fighter-v-blanka.json) |
+| Street Fighter V: Capcom Pro Tour 2016 Pack | 332659 | [332659-street-fighter-v-capcom-pro-tour-2016-pack.json](./332659-street-fighter-v-capcom-pro-tour-2016-pack.json) |
+| Street Fighter V: Capcom Pro Tour 2017 Premier Pass | 332662 | [332662-street-fighter-v-capcom-pro-tour-2017-premier-pass.json](./332662-street-fighter-v-capcom-pro-tour-2017-premier-pass.json) |
+| Street Fighter V: Capcom Pro Tour 2018 Premier Pass | 332660 | [332660-street-fighter-v-capcom-pro-tour-2018-premier-pass.json](./332660-street-fighter-v-capcom-pro-tour-2018-premier-pass.json) |
+| Street Fighter V: Capcom Pro Tour 2019 Premier Pass | 332663 | [332663-street-fighter-v-capcom-pro-tour-2019-premier-pass.json](./332663-street-fighter-v-capcom-pro-tour-2019-premier-pass.json) |
+| Street Fighter V: Capcom Pro Tour 2020 Premier Pass | 332664 | [332664-street-fighter-v-capcom-pro-tour-2020-premier-pass.json](./332664-street-fighter-v-capcom-pro-tour-2020-premier-pass.json) |
+| Street Fighter V: Capcom Pro Tour 2021 Premier Pass | 332658 | [332658-street-fighter-v-capcom-pro-tour-2021-premier-pass.json](./332658-street-fighter-v-capcom-pro-tour-2021-premier-pass.json) |
+| Street Fighter V: Capcom Pro Tour 2022 Premier Pass | 332661 | [332661-street-fighter-v-capcom-pro-tour-2022-premier-pass.json](./332661-street-fighter-v-capcom-pro-tour-2022-premier-pass.json) |
 | Street Fighter V: Champion Edition | 126095 | [126095-street-fighter-v-champion-edition.json](./126095-street-fighter-v-champion-edition.json) |
 | Street Fighter V: Champion Edition - All Character Pack | 201034 | [201034-street-fighter-v-champion-edition-all-character-pack.json](./201034-street-fighter-v-champion-edition-all-character-pack.json) |
 | Street Fighter V: Cody Travers | 322209 | [322209-street-fighter-v-cody-travers.json](./322209-street-fighter-v-cody-travers.json) |
@@ -13580,6 +13599,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter V: Season 1-3 Nostalgia Costume Pack | 343900 | [343900-street-fighter-v-season-1-3-nostalgia-costume-pack.json](./343900-street-fighter-v-season-1-3-nostalgia-costume-pack.json) |
 | Street Fighter V: Season 4 Character Pass | 350071 | [350071-street-fighter-v-season-4-character-pass.json](./350071-street-fighter-v-season-4-character-pass.json) |
 | Street Fighter V: Season 5 Character Pass | 350070 | [350070-street-fighter-v-season-5-character-pass.json](./350070-street-fighter-v-season-5-character-pass.json) |
+| Street Fighter V: SFL2020 NASR Costumes Bundle | 332657 | [332657-street-fighter-v-sfl2020-nasr-costumes-bundle.json](./332657-street-fighter-v-sfl2020-nasr-costumes-bundle.json) |
+| Street Fighter V: SFL2020 UYU Costumes Bundle | 332656 | [332656-street-fighter-v-sfl2020-uyu-costumes-bundle.json](./332656-street-fighter-v-sfl2020-uyu-costumes-bundle.json) |
 | Street Fighter x All Capcom | 55064 | [55064-street-fighter-x-all-capcom.json](./55064-street-fighter-x-all-capcom.json) |
 | Street Fighter X Mega Man | 45184 | [45184-street-fighter-x-mega-man.json](./45184-street-fighter-x-mega-man.json) |
 | Street Fighter Zero 3 | 242649 | [242649-street-fighter-zero-3.json](./242649-street-fighter-zero-3.json) |
