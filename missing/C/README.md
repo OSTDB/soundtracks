@@ -2566,6 +2566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CGA Pumpkin Carver | 179741 | [179741-cga-pumpkin-carver.json](./179741-cga-pumpkin-carver.json) |
 | Cgencore | 115028 | [115028-cgencore.json](./115028-cgencore.json) |
 | CGI: The Game | 234075 | [234075-cgi-the-game.json](./234075-cgi-the-game.json) |
+| CH Retro Episode | 313158 | [313158-ch-retro-episode.json](./313158-ch-retro-episode.json) |
 | Ch1mpnotic | 141686 | [141686-ch1mpnotic.json](./141686-ch1mpnotic.json) |
 | Cha-no-Ma | 358483 | [358483-cha-no-ma.json](./358483-cha-no-ma.json) |
 | Chacha Fighter V | 98258 | [98258-chacha-fighter-v.json](./98258-chacha-fighter-v.json) |
@@ -4959,6 +4960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clock Mayhem | 414580 | [414580-clock-mayhem.json](./414580-clock-mayhem.json) |
 | Clock of Atonement | 240491 | [240491-clock-of-atonement.json](./240491-clock-of-atonement.json) |
 | Clock Out | 312922 | [312922-clock-out.json](./312922-clock-out.json) |
+| Clock Out At 2 | 313173 | [313173-clock-out-at-2.json](./313173-clock-out-at-2.json) |
 | clock out. | 310963 | [310963-clock-out.json](./310963-clock-out.json) |
 | Clock Overwhelmed | 152800 | [152800-clock-overwhelmed.json](./152800-clock-overwhelmed.json) |
 | Clock Rogue | 295004 | [295004-clock-rogue.json](./295004-clock-rogue.json) |
@@ -5112,6 +5114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clover Heart's: Looking for Happiness | 69282 | [69282-clover-hearts-looking-for-happiness.json](./69282-clover-hearts-looking-for-happiness.json) |
 | Clover no Kuni no Alice: Wonderful Wonder World | 64667 | [64667-clover-no-kuni-no-alice-wonderful-wonder-world.json](./64667-clover-no-kuni-no-alice-wonderful-wonder-world.json) |
 | Clover's Quadrants | 392120 | [392120-clovers-quadrants.json](./392120-clovers-quadrants.json) |
+| Clover's Space Beat | 313204 | [313204-clovers-space-beat.json](./313204-clovers-space-beat.json) |
 | Cloverheart | 140019 | [140019-cloverheart.json](./140019-cloverheart.json) |
 | Clown | 169966 | [169966-clown.json](./169966-clown.json) |
 | Clown Camp | 346081 | [346081-clown-camp.json](./346081-clown-camp.json) |
@@ -9418,6 +9421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cupid Parasite | 136964 | [136964-cupid-parasite.json](./136964-cupid-parasite.json) |
 | Cupid Parasite: Sweet and Spicy Darling | 200558 | [200558-cupid-parasite-sweet-and-spicy-darling.json](./200558-cupid-parasite-sweet-and-spicy-darling.json) |
 | Cupid's Bargain | 392422 | [392422-cupids-bargain.json](./392422-cupids-bargain.json) |
+| Cupig's Key Collectathon | 313183 | [313183-cupigs-key-collectathon.json](./313183-cupigs-key-collectathon.json) |
 | Cupky Jump | 252157 | [252157-cupky-jump.json](./252157-cupky-jump.json) |
 | Cuppy Coffee Sim | 359620 | [359620-cuppy-coffee-sim.json](./359620-cuppy-coffee-sim.json) |
 | Cuprum2929 | 311131 | [311131-cuprum2929.json](./311131-cuprum2929.json) |
