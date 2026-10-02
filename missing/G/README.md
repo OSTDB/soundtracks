@@ -1582,6 +1582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometry Rocket | 150534 | [150534-geometry-rocket.json](./150534-geometry-rocket.json) |
 | Geometry Runner Online | 88183 | [88183-geometry-runner-online.json](./88183-geometry-runner-online.json) |
 | Geometry Rush | 102366 | [102366-geometry-rush.json](./102366-geometry-rush.json) |
+| Geometry Shooter | 312769 | [312769-geometry-shooter.json](./312769-geometry-shooter.json) |
 | Geometry Shooter Pro | 320386 | [320386-geometry-shooter-pro.json](./320386-geometry-shooter-pro.json) |
 | Geometry Wars: Retro Evolved | 15756 | [15756-geometry-wars-retro-evolved.json](./15756-geometry-wars-retro-evolved.json) |
 | Geomoth Boot Sequence | 289312 | [289312-geomoth-boot-sequence.json](./289312-geomoth-boot-sequence.json) |
@@ -3882,6 +3883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grapple Gunners | 219805 | [219805-grapple-gunners.json](./219805-grapple-gunners.json) |
 | Grapple Souls | 388333 | [388333-grapple-souls.json](./388333-grapple-souls.json) |
 | Grapple the Abyss! | 182974 | [182974-grapple-the-abyss.json](./182974-grapple-the-abyss.json) |
+| Grapple Up! | 312648 | [312648-grapple-up.json](./312648-grapple-up.json) |
 | Grapple Whip | 120360 | [120360-grapple-whip.json](./120360-grapple-whip.json) |
 | GrappleApp | 107002 | [107002-grappleapp.json](./107002-grappleapp.json) |
 | Grappledrome | 36453 | [36453-grappledrome.json](./36453-grappledrome.json) |
