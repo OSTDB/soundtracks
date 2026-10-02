@@ -352,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Battles | 62812 | [62812-backyard-battles.json](./62812-backyard-battles.json) |
 | Backyard Bounce | 20720 | [20720-backyard-bounce.json](./20720-backyard-bounce.json) |
 | Backyard Boxing | 329668 | [329668-backyard-boxing.json](./329668-backyard-boxing.json) |
+| Backyard Buzzing | 285134 | [285134-backyard-buzzing.json](./285134-backyard-buzzing.json) |
 | Backyard Digger | 346673 | [346673-backyard-digger.json](./346673-backyard-digger.json) |
 | Backyard Football '99 | 366897 | [366897-backyard-football-99.json](./366897-backyard-football-99.json) |
 | Backyard Football 2006 | 72974 | [72974-backyard-football-2006.json](./72974-backyard-football-2006.json) |
@@ -844,6 +845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balls n Blocks | 120255 | [120255-balls-n-blocks.json](./120255-balls-n-blocks.json) |
 | Balls of Glory Pinball | 261803 | [261803-balls-of-glory-pinball.json](./261803-balls-of-glory-pinball.json) |
 | Balls of Steel | 11097 | [11097-balls-of-steel.json](./11097-balls-of-steel.json) |
+| Balls of Steel | 285147 | [285147-balls-of-steel.json](./285147-balls-of-steel.json) |
 | Balls of Steel Community Project | 229708 | [229708-balls-of-steel-community-project.json](./229708-balls-of-steel-community-project.json) |
 | Balls Out | 119651 | [119651-balls-out.json](./119651-balls-out.json) |
 | Balls Out of Control | 154994 | [154994-balls-out-of-control.json](./154994-balls-out-of-control.json) |
@@ -6681,6 +6683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boti: Byteland Overclocked | 221164 | [221164-boti-byteland-overclocked.json](./221164-boti-byteland-overclocked.json) |
 | Boti: Byteland Overclocked - Bit Racing | 327814 | [327814-boti-byteland-overclocked-bit-racing.json](./327814-boti-byteland-overclocked-bit-racing.json) |
 | Boti: Byteland Overclocked - Bitosaurus | 327813 | [327813-boti-byteland-overclocked-bitosaurus.json](./327813-boti-byteland-overclocked-bitosaurus.json) |
+| Boti: Byteland Overclocked - Hidden Giftware | 285112 | [285112-boti-byteland-overclocked-hidden-giftware.json](./285112-boti-byteland-overclocked-hidden-giftware.json) |
 | Botics | 14336 | [14336-botics.json](./14336-botics.json) |
 | Botlike: A Robot's Rampage | 53310 | [53310-botlike-a-robots-rampage.json](./53310-botlike-a-robots-rampage.json) |
 | BotMobile | 293111 | [293111-botmobile.json](./293111-botmobile.json) |
@@ -8664,6 +8667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger King Halloween Game | 238202 | [238202-burger-king-halloween-game.json](./238202-burger-king-halloween-game.json) |
 | Burger King Orientation CD-i Training | 182507 | [182507-burger-king-orientation-cd-i-training.json](./182507-burger-king-orientation-cd-i-training.json) |
 | Burger Kombat | 314291 | [314291-burger-kombat.json](./314291-burger-kombat.json) |
+| Burger Maker | 285160 | [285160-burger-maker.json](./285160-burger-maker.json) |
 | Burger Memory Game | 240919 | [240919-burger-memory-game.json](./240919-burger-memory-game.json) |
 | Burger Night | 158708 | [158708-burger-night.json](./158708-burger-night.json) |
 | Burger Patrol | 189928 | [189928-burger-patrol.json](./189928-burger-patrol.json) |
