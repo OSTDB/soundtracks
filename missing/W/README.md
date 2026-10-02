@@ -4514,6 +4514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wub-Wub Wescue | 330162 | [330162-wub-wub-wescue.json](./330162-wub-wub-wescue.json) |
 | Wubbo: PuterPal | 390687 | [390687-wubbo-puterpal.json](./390687-wubbo-puterpal.json) |
 | Wufo | 228074 | [228074-wufo.json](./228074-wufo.json) |
+| Wuhu Island Explorer | 313184 | [313184-wuhu-island-explorer.json](./313184-wuhu-island-explorer.json) |
 | WuJiDaoRen | 216816 | [216816-wujidaoren.json](./216816-wujidaoren.json) |
 | Wukong Sun: Black Legend | 328464 | [328464-wukong-sun-black-legend.json](./328464-wukong-sun-black-legend.json) |
 | Wukong Survivors: Begin | 387379 | [387379-wukong-survivors-begin.json](./387379-wukong-survivors-begin.json) |
