@@ -897,6 +897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VG II: The Bout of Cabalistic Goddess | 98253 | [98253-vg-ii-the-bout-of-cabalistic-goddess.json](./98253-vg-ii-the-bout-of-cabalistic-goddess.json) |
 | VG Trivia Challenge | 334650 | [334650-vg-trivia-challenge.json](./334650-vg-trivia-challenge.json) |
 | VGA Planets | 135285 | [135285-vga-planets.json](./135285-vga-planets.json) |
+| VGA Planets Nu | 294378 | [294378-vga-planets-nu.json](./294378-vga-planets-nu.json) |
 | VGA Sharks | 92965 | [92965-vga-sharks.json](./92965-vga-sharks.json) |
 | VGM Quiz | 219270 | [219270-vgm-quiz.json](./219270-vgm-quiz.json) |
 | Vheda | 345054 | [345054-vheda.json](./345054-vheda.json) |
