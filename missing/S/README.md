@@ -6433,7 +6433,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slender Myth | 220665 | [220665-slender-myth.json](./220665-slender-myth.json) |
 | Slender-Man | 64424 | [64424-slender-man.json](./64424-slender-man.json) |
 | Slender: Adrift | 321330 | [321330-slender-adrift.json](./321330-slender-adrift.json) |
+| Slender: Dark Woods | 321434 | [321434-slender-dark-woods.json](./321434-slender-dark-woods.json) |
 | Slender: Lonely Home | 126446 | [126446-slender-lonely-home.json](./126446-slender-lonely-home.json) |
+| Slender: New Hope | 321430 | [321430-slender-new-hope.json](./321430-slender-new-hope.json) |
 | Slender: Reborn | 327987 | [327987-slender-reborn.json](./327987-slender-reborn.json) |
 | Slender: The Arrival | 2049 | [2049-slender-the-arrival.json](./2049-slender-the-arrival.json) |
 | Slender: The Arrival | 265723 | [265723-slender-the-arrival.json](./265723-slender-the-arrival.json) |
@@ -6451,6 +6453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slendrina Must Die: The Asylum | 321384 | [321384-slendrina-must-die-the-asylum.json](./321384-slendrina-must-die-the-asylum.json) |
 | Slendrina Must Die: The Cellar | 108844 | [108844-slendrina-must-die-the-cellar.json](./108844-slendrina-must-die-the-cellar.json) |
 | Slendrina Must Die: The House | 321382 | [321382-slendrina-must-die-the-house.json](./321382-slendrina-must-die-the-house.json) |
+| Slendrina Must Die: The School | 321411 | [321411-slendrina-must-die-the-school.json](./321411-slendrina-must-die-the-school.json) |
 | Slendrina X | 233773 | [233773-slendrina-x.json](./233773-slendrina-x.json) |
 | Slendyjan | 393760 | [393760-slendyjan.json](./393760-slendyjan.json) |
 | Slendytubbies Ø | 332814 | [332814-slendytubbies.json](./332814-slendytubbies.json) |
@@ -10278,6 +10281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedy Gonzales: Aztec Adventure | 49970 | [49970-speedy-gonzales-aztec-adventure.json](./49970-speedy-gonzales-aztec-adventure.json) |
 | Speedy Rush | 174908 | [174908-speedy-rush.json](./174908-speedy-rush.json) |
 | Speedy Spears | 216730 | [216730-speedy-spears.json](./216730-speedy-spears.json) |
+| Speedy Speedy Cat Slowly | 321424 | [321424-speedy-speedy-cat-slowly.json](./321424-speedy-speedy-cat-slowly.json) |
 | Speedy Stacks | 232030 | [232030-speedy-stacks.json](./232030-speedy-stacks.json) |
 | Speedy the Rollerskater 2 | 336016 | [336016-speedy-the-rollerskater-2.json](./336016-speedy-the-rollerskater-2.json) |
 | Speer DX | 201699 | [201699-speer-dx.json](./201699-speer-dx.json) |
@@ -12193,6 +12197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarL2 | 274570 | [274570-starl2.json](./274570-starl2.json) |
 | Starlab | 258721 | [258721-starlab.json](./258721-starlab.json) |
 | Starlaxis - Light Hunter | 64465 | [64465-starlaxis-light-hunter.json](./64465-starlaxis-light-hunter.json) |
+| Starlaxy Cats | 321416 | [321416-starlaxy-cats.json](./321416-starlaxy-cats.json) |
 | Starleaf | 415960 | [415960-starleaf.json](./415960-starleaf.json) |
 | Starless | 204092 | [204092-starless.json](./204092-starless.json) |
 | Starless Abyss | 319573 | [319573-starless-abyss.json](./319573-starless-abyss.json) |
@@ -14606,6 +14611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumoman | 28026 | [28026-sumoman.json](./28026-sumoman.json) |
 | Sumou | 385812 | [385812-sumou.json](./385812-sumou.json) |
 | Sump | 278460 | [278460-sump.json](./278460-sump.json) |
+| Sumrak | 321444 | [321444-sumrak.json](./321444-sumrak.json) |
 | Sumtune | 236399 | [236399-sumtune.json](./236399-sumtune.json) |
 | Sumy Shelltris: Iceblocks 1 | 197388 | [197388-sumy-shelltris-iceblocks-1.json](./197388-sumy-shelltris-iceblocks-1.json) |
 | Sun Breed | 264037 | [264037-sun-breed.json](./264037-sun-breed.json) |
@@ -14794,6 +14800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Alloy Ranger | 200550 | [200550-super-alloy-ranger.json](./200550-super-alloy-ranger.json) |
 | Super Alpaca Bros. | 114336 | [114336-super-alpaca-bros.json](./114336-super-alpaca-bros.json) |
 | Super Among Us 64 DS | 270379 | [270379-super-among-us-64-ds.json](./270379-super-among-us-64-ds.json) |
+| Super Ancient Keys | 321450 | [321450-super-ancient-keys.json](./321450-super-ancient-keys.json) |
 | Super Angling | 126629 | [126629-super-angling.json](./126629-super-angling.json) |
 | Super Angry Birds | 163212 | [163212-super-angry-birds.json](./163212-super-angry-birds.json) |
 | Super Animal Royale: Season 0 | 204696 | [204696-super-animal-royale-season-0.json](./204696-super-animal-royale-season-0.json) |
@@ -15559,6 +15566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Horizons | 276784 | [276784-super-mario-horizons.json](./276784-super-mario-horizons.json) |
 | Super Mario In Element World | 267978 | [267978-super-mario-in-element-world.json](./267978-super-mario-in-element-world.json) |
 | Super Mario In Element World 2: The Master Hand Revenge | 267980 | [267980-super-mario-in-element-world-2-the-master-hand-revenge.json](./267980-super-mario-in-element-world-2-the-master-hand-revenge.json) |
+| Super Mario in Marooned on Mars! | 321451 | [321451-super-mario-in-marooned-on-mars.json](./321451-super-mario-in-marooned-on-mars.json) |
 | Super Mario Journey to Infinity | 313107 | [313107-super-mario-journey-to-infinity.json](./313107-super-mario-journey-to-infinity.json) |
 | Super Mario Kart 8 | 198451 | [198451-super-mario-kart-8.json](./198451-super-mario-kart-8.json) |
 | Super Mario Kart DS | 198450 | [198450-super-mario-kart-ds.json](./198450-super-mario-kart-ds.json) |
@@ -17174,6 +17182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swing Solver | 277293 | [277293-swing-solver.json](./277293-swing-solver.json) |
 | Swing Striker | 133471 | [133471-swing-striker.json](./133471-swing-striker.json) |
 | Swing Swamp | 333765 | [333765-swing-swamp.json](./333765-swing-swamp.json) |
+| Swing Swing Swing | 321452 | [321452-swing-swing-swing.json](./321452-swing-swing-swing.json) |
 | Swing the Universe | 191814 | [191814-swing-the-universe.json](./191814-swing-the-universe.json) |
 | Swinger | 91378 | [91378-swinger.json](./91378-swinger.json) |
 | Swinger-Man | 123548 | [123548-swinger-man.json](./123548-swinger-man.json) |
@@ -17442,6 +17451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symphony of Souls | 253573 | [253573-symphony-of-souls.json](./253573-symphony-of-souls.json) |
 | Symphony of the Night | 181156 | [181156-symphony-of-the-night.json](./181156-symphony-of-the-night.json) |
 | Symphony of the Origin | 39783 | [39783-symphony-of-the-origin.json](./39783-symphony-of-the-origin.json) |
+| Symphony of the Stars | 321464 | [321464-symphony-of-the-stars.json](./321464-symphony-of-the-stars.json) |
 | Symphony of War: Legends | 252370 | [252370-symphony-of-war-legends.json](./252370-symphony-of-war-legends.json) |
 | Symphony of War: The Nephilim Saga | 192840 | [192840-symphony-of-war-the-nephilim-saga.json](./192840-symphony-of-war-the-nephilim-saga.json) |
 | Symphorix | 333400 | [333400-symphorix.json](./333400-symphorix.json) |
