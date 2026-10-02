@@ -726,6 +726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncle's Basement | 289927 | [289927-uncles-basement.json](./289927-uncles-basement.json) |
 | Uncle's Basement: The Winter House | 384058 | [384058-uncles-basement-the-winter-house.json](./384058-uncles-basement-the-winter-house.json) |
 | Uncle's Casino | 78674 | [78674-uncles-casino.json](./78674-uncles-casino.json) |
+| Unclogged | 302055 | [302055-unclogged.json](./302055-unclogged.json) |
 | Unclouded | 418537 | [418537-unclouded.json](./418537-unclouded.json) |
 | Uncolor for iPad | 108460 | [108460-uncolor-for-ipad.json](./108460-uncolor-for-ipad.json) |
 | Uncommon Valor: Campaign for the South Pacific | 69881 | [69881-uncommon-valor-campaign-for-the-south-pacific.json](./69881-uncommon-valor-campaign-for-the-south-pacific.json) |
@@ -1037,6 +1038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unfated | 410974 | [410974-unfated.json](./410974-unfated.json) |
 | Unfathomable Villa | 112971 | [112971-unfathomable-villa.json](./112971-unfathomable-villa.json) |
 | Unfazed | 31948 | [31948-unfazed.json](./31948-unfazed.json) |
+| Unfeigned Depths | 302049 | [302049-unfeigned-depths.json](./302049-unfeigned-depths.json) |
 | Unfinished - An Artist's Lament | 34810 | [34810-unfinished-an-artists-lament.json](./34810-unfinished-an-artists-lament.json) |
 | Unfinished 2 | 338589 | [338589-unfinished-2.json](./338589-unfinished-2.json) |
 | Unfinished Battle | 89389 | [89389-unfinished-battle.json](./89389-unfinished-battle.json) |
