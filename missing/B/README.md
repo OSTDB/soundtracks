@@ -449,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad News Baseball | 9167 | [9167-bad-news-baseball.json](./9167-bad-news-baseball.json) |
 | Bad Note | 111865 | [111865-bad-note.json](./111865-bad-note.json) |
 | Bad Pad | 31579 | [31579-bad-pad.json](./31579-bad-pad.json) |
+| Bad Parenthood | 330397 | [330397-bad-parenthood.json](./330397-bad-parenthood.json) |
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies | 19902 | [19902-bad-piggies.json](./19902-bad-piggies.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
@@ -8295,6 +8296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bumble Games | 72171 | [72171-bumble-games.json](./72171-bumble-games.json) |
 | Bumble Plot | 68725 | [68725-bumble-plot.json](./68725-bumble-plot.json) |
 | Bumble Rumble | 346678 | [346678-bumble-rumble.json](./346678-bumble-rumble.json) |
+| Bumblebee: Search for Happiness | 330398 | [330398-bumblebee-search-for-happiness.json](./330398-bumblebee-search-for-happiness.json) |
 | Bumblebee: Storm of Friendship | 345691 | [345691-bumblebee-storm-of-friendship.json](./345691-bumblebee-storm-of-friendship.json) |
 | Bumbledore | 16348 | [16348-bumbledore.json](./16348-bumbledore.json) |
 | Bumblepig | 94735 | [94735-bumblepig.json](./94735-bumblepig.json) |
@@ -8578,6 +8580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burujiru | 108997 | [108997-burujiru.json](./108997-burujiru.json) |
 | Bury | 151571 | [151571-bury.json](./151571-bury.json) |
 | Bury Me in the Sand | 165523 | [165523-bury-me-in-the-sand.json](./165523-bury-me-in-the-sand.json) |
+| Bury Me With The Rain | 330370 | [330370-bury-me-with-the-rain.json](./330370-bury-me-with-the-rain.json) |
 | Bury me, my Love | 74959 | [74959-bury-me-my-love.json](./74959-bury-me-my-love.json) |
 | Bury Your Gays | 269864 | [269864-bury-your-gays.json](./269864-bury-your-gays.json) |
 | Bus & Taxi Driving Simulator | 86825 | [86825-bus-and-taxi-driving-simulator.json](./86825-bus-and-taxi-driving-simulator.json) |
