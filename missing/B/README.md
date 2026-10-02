@@ -486,6 +486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad-Boon Strikes Back | 341706 | [341706-bad-boon-strikes-back.json](./341706-bad-boon-strikes-back.json) |
 | Bada Space Station | 146355 | [146355-bada-space-station.json](./146355-bada-space-station.json) |
 | Badaboom | 233203 | [233203-badaboom.json](./233203-badaboom.json) |
+| BadDool | 279899 | [279899-baddool.json](./279899-baddool.json) |
 | Baderna: Um Conto de Barro | 283974 | [283974-baderna-um-conto-de-barro.json](./283974-baderna-um-conto-de-barro.json) |
 | Badge Emperor | 101732 | [101732-badge-emperor.json](./101732-badge-emperor.json) |
 | Badger Brawl | 177016 | [177016-badger-brawl.json](./177016-badger-brawl.json) |
