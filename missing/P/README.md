@@ -6130,6 +6130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool 2D - Poolians | 107406 | [107406-pool-2d-poolians.json](./107406-pool-2d-poolians.json) |
 | Pool 3D | 86900 | [86900-pool-3d.json](./86900-pool-3d.json) |
 | Pool 8 Ball | 90756 | [90756-pool-8-ball.json](./90756-pool-8-ball.json) |
+| Pool Academy | 279207 | [279207-pool-academy.json](./279207-pool-academy.json) |
 | Pool Adventure | 191221 | [191221-pool-adventure.json](./191221-pool-adventure.json) |
 | Pool Ball Battle Royale | 235679 | [235679-pool-ball-battle-royale.json](./235679-pool-ball-battle-royale.json) |
 | Pool Break 3D Billiards 8 Ball, 9 Ball, Snooker | 100147 | [100147-pool-break-3d-billiards-8-ball-9-ball-snooker.json](./100147-pool-break-3d-billiards-8-ball-9-ball-snooker.json) |
@@ -8700,6 +8701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purrfect Apawcalypse: Patches' Infurno | 147324 | [147324-purrfect-apawcalypse-patches-infurno.json](./147324-purrfect-apawcalypse-patches-infurno.json) |
 | Purrfect Apawcalypse! Incredible Furture! | 304121 | [304121-purrfect-apawcalypse-incredible-furture.json](./304121-purrfect-apawcalypse-incredible-furture.json) |
 | Purrfect Catch | 255041 | [255041-purrfect-catch.json](./255041-purrfect-catch.json) |
+| Purrfect Rescue | 279259 | [279259-purrfect-rescue.json](./279259-purrfect-rescue.json) |
 | Purrfect Stall | 371958 | [371958-purrfect-stall.json](./371958-purrfect-stall.json) |
 | Purrfect Tanks: The Yarnpocalypse | 391064 | [391064-purrfect-tanks-the-yarnpocalypse.json](./391064-purrfect-tanks-the-yarnpocalypse.json) |
 | Purrfectly Ever After | 150041 | [150041-purrfectly-ever-after.json](./150041-purrfectly-ever-after.json) |
