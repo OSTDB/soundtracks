@@ -4670,6 +4670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groove Coaster: Wai Wai Party!!!! - Vocaloid Pack 5 | 237880 | [237880-groove-coaster-wai-wai-party-vocaloid-pack-5.json](./237880-groove-coaster-wai-wai-party-vocaloid-pack-5.json) |
 | Groove Coaster: Wai Wai Party!!!! - Vocaloid Pack 9 | 283180 | [283180-groove-coaster-wai-wai-party-vocaloid-pack-9.json](./283180-groove-coaster-wai-wai-party-vocaloid-pack-9.json) |
 | Groove Coaster: Wai Wai Party!!!! - Wacca + Hardcore Tano*c Pack | 237881 | [237881-groove-coaster-wai-wai-party-wacca-hardcore-tano-c-pack.json](./237881-groove-coaster-wai-wai-party-wacca-hardcore-tano-c-pack.json) |
+| Groove Coaster: Wai Wai Party!!!!!: Hit Song + VTuber Pack 6 | 300944 | [300944-groove-coaster-wai-wai-party-hit-song-vtuber-pack-6.json](./300944-groove-coaster-wai-wai-party-hit-song-vtuber-pack-6.json) |
 | Groove Galaxy | 58280 | [58280-groove-galaxy.json](./58280-groove-galaxy.json) |
 | Groove Gunner | 112778 | [112778-groove-gunner.json](./112778-groove-gunner.json) |
 | Groove In The Grove | 376712 | [376712-groove-in-the-grove.json](./376712-groove-in-the-grove.json) |
