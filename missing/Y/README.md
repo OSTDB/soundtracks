@@ -736,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Youtubers Life: Gaming Channel | 88942 | [88942-youtubers-life-gaming-channel.json](./88942-youtubers-life-gaming-channel.json) |
 | Youtubers Life: OMG Edition | 111159 | [111159-youtubers-life-omg-edition.json](./111159-youtubers-life-omg-edition.json) |
 | Youyou Kengeki Musou | 137062 | [137062-youyou-kengeki-musou.json](./137062-youyou-kengeki-musou.json) |
+| Yowie | 300334 | [300334-yowie.json](./300334-yowie.json) |
 | Yoyo | 128468 | [128468-yoyo.json](./128468-yoyo.json) |
 | Yoyo Fighter | 339992 | [339992-yoyo-fighter.json](./339992-yoyo-fighter.json) |
 | Yoyo Punk | 349375 | [349375-yoyo-punk.json](./349375-yoyo-punk.json) |
