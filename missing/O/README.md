@@ -539,6 +539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OG Memory: Synthwave Vampires | 341501 | [341501-og-memory-synthwave-vampires.json](./341501-og-memory-synthwave-vampires.json) |
 | OG Memory: Winter 2K23 | 288784 | [288784-og-memory-winter-2k23.json](./288784-og-memory-winter-2k23.json) |
 | OG Puzzlers: Kira Maus | 277582 | [277582-og-puzzlers-kira-maus.json](./277582-og-puzzlers-kira-maus.json) |
+| OG Puzzlers: Synthwave Astronauts | 292253 | [292253-og-puzzlers-synthwave-astronauts.json](./292253-og-puzzlers-synthwave-astronauts.json) |
 | OG Puzzlers: Synthwave Cars | 288788 | [288788-og-puzzlers-synthwave-cars.json](./288788-og-puzzlers-synthwave-cars.json) |
 | OG Puzzlers: Synthwave Dinosaurs | 291234 | [291234-og-puzzlers-synthwave-dinosaurs.json](./291234-og-puzzlers-synthwave-dinosaurs.json) |
 | OG Puzzlers: Synthwave Vampires | 341502 | [341502-og-puzzlers-synthwave-vampires.json](./341502-og-puzzlers-synthwave-vampires.json) |
