@@ -1386,6 +1386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrom Pool: Disc Game | 174772 | [174772-carrom-pool-disc-game.json](./174772-carrom-pool-disc-game.json) |
 | Carrot Catcher | 382766 | [382766-carrot-catcher.json](./382766-carrot-catcher.json) |
 | Carrot Clicker | 281536 | [281536-carrot-clicker.json](./281536-carrot-clicker.json) |
+| Carrot Fantasy | 279200 | [279200-carrot-fantasy.json](./279200-carrot-fantasy.json) |
 | Carrot Girl Adventures | 165678 | [165678-carrot-girl-adventures.json](./165678-carrot-girl-adventures.json) |
 | Carrot Heart | 155979 | [155979-carrot-heart.json](./155979-carrot-heart.json) |
 | Carrot Kingdom! | 401798 | [401798-carrot-kingdom.json](./401798-carrot-kingdom.json) |
@@ -7785,6 +7786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crab God: Supporter Pack | 382435 | [382435-crab-god-supporter-pack.json](./382435-crab-god-supporter-pack.json) |
 | Crab Hunt | 346729 | [346729-crab-hunt.json](./346729-crab-hunt.json) |
 | Crab Island | 226775 | [226775-crab-island.json](./226775-crab-island.json) |
+| Crab My Passion | 279210 | [279210-crab-my-passion.json](./279210-crab-my-passion.json) |
 | Crab Raid Tactics | 247749 | [247749-crab-raid-tactics.json](./247749-crab-raid-tactics.json) |
 | Crab Wave | 315646 | [315646-crab-wave.json](./315646-crab-wave.json) |
 | Crab-Ball | 370111 | [370111-crab-ball.json](./370111-crab-ball.json) |
@@ -9653,6 +9655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of Blood | 312893 | [312893-curse-of-blood.json](./312893-curse-of-blood.json) |
 | Curse of Deflection | 404204 | [404204-curse-of-deflection.json](./404204-curse-of-deflection.json) |
 | Curse of Dominion | 366886 | [366886-curse-of-dominion.json](./366886-curse-of-dominion.json) |
+| Curse of Elmwood | 279262 | [279262-curse-of-elmwood.json](./279262-curse-of-elmwood.json) |
 | Curse of Greed: Ultimate | 176973 | [176973-curse-of-greed-ultimate.json](./176973-curse-of-greed-ultimate.json) |
 | Curse of Issyos | 137101 | [137101-curse-of-issyos.json](./137101-curse-of-issyos.json) |
 | Curse of Mermos | 35678 | [35678-curse-of-mermos.json](./35678-curse-of-mermos.json) |
