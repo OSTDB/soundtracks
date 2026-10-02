@@ -5425,6 +5425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Appetité Amor | 344513 | [344513-appetite-amor.json](./344513-appetite-amor.json) |
 | Appetite for Detestation | 147482 | [147482-appetite-for-detestation.json](./147482-appetite-for-detestation.json) |
 | Appetite of the Abyss | 383562 | [383562-appetite-of-the-abyss.json](./383562-appetite-of-the-abyss.json) |
+| Applaydu | 294979 | [294979-applaydu.json](./294979-applaydu.json) |
 | Apple | 346077 | [346077-apple.json](./346077-apple.json) |
 | Apple Bag | 280197 | [280197-apple-bag.json](./280197-apple-bag.json) |
 | Apple Bang! | 150046 | [150046-apple-bang.json](./150046-apple-bang.json) |
@@ -7545,6 +7546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astroidle | 336115 | [336115-astroidle.json](./336115-astroidle.json) |
 | Astrojunk | 415320 | [415320-astrojunk.json](./415320-astrojunk.json) |
 | Astrokings | 109915 | [109915-astrokings.json](./109915-astrokings.json) |
+| Astrolancer | 294943 | [294943-astrolancer.json](./294943-astrolancer.json) |
 | Astroloco: Worst Contact | 9987 | [9987-astroloco-worst-contact.json](./9987-astroloco-worst-contact.json) |
 | Astrologer | 130963 | [130963-astrologer.json](./130963-astrologer.json) |
 | Astrology DS: The Stars in Your Hands | 315632 | [315632-astrology-ds-the-stars-in-your-hands.json](./315632-astrology-ds-the-stars-in-your-hands.json) |
