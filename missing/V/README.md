@@ -1125,6 +1125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Villain Master: Dead or Alive | 197356 | [197356-villain-master-dead-or-alive.json](./197356-villain-master-dead-or-alive.json) |
 | Villain Project | 225638 | [225638-villain-project.json](./225638-villain-project.json) |
 | Villainous | 319976 | [319976-villainous.json](./319976-villainous.json) |
+| Villainous Valentine | 313750 | [313750-villainous-valentine.json](./313750-villainous-valentine.json) |
 | Villains Corp. | 252136 | [252136-villains-corp.json](./252136-villains-corp.json) |
 | Villnoire | 143562 | [143562-villnoire.json](./143562-villnoire.json) |
 | Vilmonic | 33104 | [33104-vilmonic.json](./33104-vilmonic.json) |
