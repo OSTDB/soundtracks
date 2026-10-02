@@ -5871,6 +5871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane ReRaise: Deluxe Edition | 52594 | [52594-arcane-reraise-deluxe-edition.json](./52594-arcane-reraise-deluxe-edition.json) |
 | Arcane Rift | 370766 | [370766-arcane-rift.json](./370766-arcane-rift.json) |
 | Arcane Rings | 352167 | [352167-arcane-rings.json](./352167-arcane-rings.json) |
+| Arcane Rush | 322667 | [322667-arcane-rush.json](./322667-arcane-rush.json) |
 | Arcane Saga Online | 63304 | [63304-arcane-saga-online.json](./63304-arcane-saga-online.json) |
 | Arcane Shores | 343800 | [343800-arcane-shores.json](./343800-arcane-shores.json) |
 | Arcane Sorcery | 34548 | [34548-arcane-sorcery.json](./34548-arcane-sorcery.json) |
@@ -6211,6 +6212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arid Arnold | 318202 | [318202-arid-arnold.json](./318202-arid-arnold.json) |
 | Arid Jared | 217268 | [217268-arid-jared.json](./217268-arid-jared.json) |
 | Arida: Backland's Awakening | 106433 | [106433-arida-backlands-awakening.json](./106433-arida-backlands-awakening.json) |
+| Arida: Backland's Awakening - Definitive Edition | 322655 | [322655-arida-backlands-awakening-definitive-edition.json](./322655-arida-backlands-awakening-definitive-edition.json) |
 | AridFortress | 102224 | [102224-aridfortress.json](./102224-aridfortress.json) |
 | Arie: Moonprayer | 258534 | [258534-arie-moonprayer.json](./258534-arie-moonprayer.json) |
 | Ariel | 33319 | [33319-ariel.json](./33319-ariel.json) |
@@ -7860,6 +7862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATV Quad Power Racing | 248615 | [248615-atv-quad-power-racing.json](./248615-atv-quad-power-racing.json) |
 | ATV Quad Power Racing | 4142 | [4142-atv-quad-power-racing.json](./4142-atv-quad-power-racing.json) |
 | ATV Racers | 62261 | [62261-atv-racers.json](./62261-atv-racers.json) |
+| ATV Stunt Racing: Extreme Offroad Simulator | 322658 | [322658-atv-stunt-racing-extreme-offroad-simulator.json](./322658-atv-stunt-racing-extreme-offroad-simulator.json) |
 | ATV Thunder Ridge Riders | 49369 | [49369-atv-thunder-ridge-riders.json](./49369-atv-thunder-ridge-riders.json) |
 | ATYI | 335512 | [335512-atyi.json](./335512-atyi.json) |
 | Atypian | 369046 | [369046-atypian.json](./369046-atypian.json) |
@@ -8334,6 +8337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axan Ships | 120152 | [120152-axan-ships.json](./120152-axan-ships.json) |
 | Axan Ships: Low Poly | 118348 | [118348-axan-ships-low-poly.json](./118348-axan-ships-low-poly.json) |
 | Axe And Claw | 400457 | [400457-axe-and-claw.json](./400457-axe-and-claw.json) |
+| Axe Champ Shoot Out | 322659 | [322659-axe-champ-shoot-out.json](./322659-axe-champ-shoot-out.json) |
 | Axe Champ! | 107663 | [107663-axe-champ.json](./107663-axe-champ.json) |
 | Axe Ghost | 295353 | [295353-axe-ghost.json](./295353-axe-ghost.json) |
 | Axe Girl | 149556 | [149556-axe-girl.json](./149556-axe-girl.json) |
