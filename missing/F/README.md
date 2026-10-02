@@ -1827,6 +1827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fell Seal: Arbiter's Mark | 55771 | [55771-fell-seal-arbiters-mark.json](./55771-fell-seal-arbiters-mark.json) |
 | Fell Seal: Arbiter's Mark - Missions and Monsters | 154969 | [154969-fell-seal-arbiters-mark-missions-and-monsters.json](./154969-fell-seal-arbiters-mark-missions-and-monsters.json) |
 | Fellas | 408143 | [408143-fellas.json](./408143-fellas.json) |
+| Fellowship | 330379 | [330379-fellowship.json](./330379-fellowship.json) |
 | Felon-E | 302356 | [302356-felon-e.json](./302356-felon-e.json) |
 | Felonian Special Forces | 255161 | [255161-felonian-special-forces.json](./255161-felonian-special-forces.json) |
 | Felony! | 25860 | [25860-felony.json](./25860-felony.json) |
