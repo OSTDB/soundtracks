@@ -1270,6 +1270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tappy Lap | 243640 | [243640-tappy-lap.json](./243640-tappy-lap.json) |
 | Tappy Shots | 87362 | [87362-tappy-shots.json](./87362-tappy-shots.json) |
 | Tappy Shots 2018 | 100871 | [100871-tappy-shots-2018.json](./100871-tappy-shots-2018.json) |
+| Tappy Tilt | 295466 | [295466-tappy-tilt.json](./295466-tappy-tilt.json) |
 | Tappy Town | 25872 | [25872-tappy-town.json](./25872-tappy-town.json) |
 | Tappy Word | 274447 | [274447-tappy-word.json](./274447-tappy-word.json) |
 | Tappy Word 2 | 274448 | [274448-tappy-word-2.json](./274448-tappy-word-2.json) |
@@ -3846,6 +3847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crimson Debt | 290408 | [290408-the-crimson-debt.json](./290408-the-crimson-debt.json) |
 | The Crimson Diamond: Chapter 1 | 129722 | [129722-the-crimson-diamond-chapter-1.json](./129722-the-crimson-diamond-chapter-1.json) |
 | The Crimson Line | 345043 | [345043-the-crimson-line.json](./345043-the-crimson-line.json) |
+| The Crimson Lyre | 295504 | [295504-the-crimson-lyre.json](./295504-the-crimson-lyre.json) |
 | The Crimson Maid | 279002 | [279002-the-crimson-maid.json](./279002-the-crimson-maid.json) |
 | The Crimson Serpent | 176807 | [176807-the-crimson-serpent.json](./176807-the-crimson-serpent.json) |
 | The Crisis Zone | 257117 | [257117-the-crisis-zone.json](./257117-the-crisis-zone.json) |
