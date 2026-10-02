@@ -3835,6 +3835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Advocate: Alexander Twist | 224581 | [224581-devils-advocate-alexander-twist.json](./224581-devils-advocate-alexander-twist.json) |
 | Devil's Affliction | 26681 | [26681-devils-affliction.json](./26681-devils-affliction.json) |
 | Devil's Bluff | 34941 | [34941-devils-bluff.json](./34941-devils-bluff.json) |
+| Devil's Calling | 295473 | [295473-devils-calling.json](./295473-devils-calling.json) |
 | Devil's Corp | 329786 | [329786-devils-corp.json](./329786-devils-corp.json) |
 | Devil's Crown | 13592 | [13592-devils-crown.json](./13592-devils-crown.json) |
 | Devil's Dare | 8798 | [8798-devils-dare.json](./8798-devils-dare.json) |
@@ -4487,6 +4488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinky Guardians | 244516 | [244516-dinky-guardians.json](./244516-dinky-guardians.json) |
 | Dinky Rinky | 231610 | [231610-dinky-rinky.json](./231610-dinky-rinky.json) |
 | Dinner Bell | 60005 | [60005-dinner-bell.json](./60005-dinner-bell.json) |
+| Dinner Defenders | 295489 | [295489-dinner-defenders.json](./295489-dinner-defenders.json) |
 | Dinner Etiquette VR | 160138 | [160138-dinner-etiquette-vr.json](./160138-dinner-etiquette-vr.json) |
 | Dinner for Pigeons | 168385 | [168385-dinner-for-pigeons.json](./168385-dinner-for-pigeons.json) |
 | Dino | 100355 | [100355-dino.json](./100355-dino.json) |
@@ -7607,6 +7609,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadtome | 349884 | [349884-dreadtome.json](./349884-dreadtome.json) |
 | Dreadway | 321577 | [321577-dreadway.json](./321577-dreadway.json) |
 | DreadWood | 184110 | [184110-dreadwood.json](./184110-dreadwood.json) |
+| Dreadwoods Gatekeeper | 295507 | [295507-dreadwoods-gatekeeper.json](./295507-dreadwoods-gatekeeper.json) |
+| Dreadwoods Gatekeeper: Prologue | 295494 | [295494-dreadwoods-gatekeeper-prologue.json](./295494-dreadwoods-gatekeeper-prologue.json) |
 | Dream | 147828 | [147828-dream.json](./147828-dream.json) |
 | Dream "ID" Journey | 292860 | [292860-dream-id-journey.json](./292860-dream-id-journey.json) |
 | Dream 64 | 244999 | [244999-dream-64.json](./244999-dream-64.json) |
@@ -9096,6 +9100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusk of the Cage | 237949 | [237949-dusk-of-the-cage.json](./237949-dusk-of-the-cage.json) |
 | Dusk Park | 400854 | [400854-dusk-park.json](./400854-dusk-park.json) |
 | Dusk Pub | 224771 | [224771-dusk-pub.json](./224771-dusk-pub.json) |
+| Dusk Shrouded | 295491 | [295491-dusk-shrouded.json](./295491-dusk-shrouded.json) |
 | Duskborn | 265095 | [265095-duskborn.json](./265095-duskborn.json) |
 | Duskbound | 258197 | [258197-duskbound.json](./258197-duskbound.json) |
 | Duskers 2.0 | 405061 | [405061-duskers-2-0.json](./405061-duskers-2-0.json) |
