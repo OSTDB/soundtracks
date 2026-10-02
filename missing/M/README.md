@@ -763,6 +763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Drop III: Toretate Zoukangou! | 171031 | [171031-magical-drop-iii-toretate-zoukangou.json](./171031-magical-drop-iii-toretate-zoukangou.json) |
 | Magical Drop VI | 221060 | [221060-magical-drop-vi.json](./221060-magical-drop-vi.json) |
 | Magical Escape | 194660 | [194660-magical-escape.json](./194660-magical-escape.json) |
+| Magical Fantasista | 289588 | [289588-magical-fantasista.json](./289588-magical-fantasista.json) |
 | Magical Fantasista II | 292071 | [292071-magical-fantasista-ii.json](./292071-magical-fantasista-ii.json) |
 | Magical Girl | 158086 | [158086-magical-girl.json](./158086-magical-girl.json) |
 | Magical Girl | 258429 | [258429-magical-girl.json](./258429-magical-girl.json) |
@@ -2085,6 +2086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Balls | 343829 | [343829-marios-balls.json](./343829-marios-balls.json) |
 | Mario's Carnival Quest | 307903 | [307903-marios-carnival-quest.json](./307903-marios-carnival-quest.json) |
 | Mario's Cement Factory | 67940 | [67940-marios-cement-factory.json](./67940-marios-cement-factory.json) |
+| Mario's Cement Factory C64 | 289585 | [289585-marios-cement-factory-c64.json](./289585-marios-cement-factory-c64.json) |
 | Mario's Deadly Flight | 323183 | [323183-marios-deadly-flight.json](./323183-marios-deadly-flight.json) |
 | Mario's Deadly Flight 2 | 323184 | [323184-marios-deadly-flight-2.json](./323184-marios-deadly-flight-2.json) |
 | Mario's Early Years! Fun with Letters | 42502 | [42502-marios-early-years-fun-with-letters.json](./42502-marios-early-years-fun-with-letters.json) |
@@ -2381,6 +2383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Heroes: 070 - Story Mod: Daredevil Challenge | 363511 | [363511-marvel-heroes-070-story-mod-daredevil-challenge.json](./363511-marvel-heroes-070-story-mod-daredevil-challenge.json) |
 | Marvel Kapow! | 92612 | [92612-marvel-kapow.json](./92612-marvel-kapow.json) |
 | Marvel Mystic Mayhem | 319970 | [319970-marvel-mystic-mayhem.json](./319970-marvel-mystic-mayhem.json) |
+| Marvel Nemesis: Rise of the Imperfects 2 | 289591 | [289591-marvel-nemesis-rise-of-the-imperfects-2.json](./289591-marvel-nemesis-rise-of-the-imperfects-2.json) |
 | Marvel Pinball | 19651 | [19651-marvel-pinball.json](./19651-marvel-pinball.json) |
 | Marvel Pinball 3D | 23672 | [23672-marvel-pinball-3d.json](./23672-marvel-pinball-3d.json) |
 | Marvel Pinball: Avengers Chronicles | 20821 | [20821-marvel-pinball-avengers-chronicles.json](./20821-marvel-pinball-avengers-chronicles.json) |
