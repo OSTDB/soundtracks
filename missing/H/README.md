@@ -3165,6 +3165,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexement | 68621 | [68621-hexement.json](./68621-hexement.json) |
 | Hexen II Mission Pack: Portal of Praevus | 745 | [745-hexen-ii-mission-pack-portal-of-praevus.json](./745-hexen-ii-mission-pack-portal-of-praevus.json) |
 | HexenHold | 340469 | [340469-hexenhold.json](./340469-hexenhold.json) |
+| Hexepta: Logic Hack | 302600 | [302600-hexepta-logic-hack.json](./302600-hexepta-logic-hack.json) |
+| Hexepta: Mayor Attack | 302598 | [302598-hexepta-mayor-attack.json](./302598-hexepta-mayor-attack.json) |
 | Hexes | 147416 | [147416-hexes.json](./147416-hexes.json) |
 | Hexes | 243780 | [243780-hexes.json](./243780-hexes.json) |
 | Hexforger | 295866 | [295866-hexforger.json](./295866-hexforger.json) |
@@ -4389,6 +4391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holonglide | 106611 | [106611-holonglide.json](./106611-holonglide.json) |
 | Holonomy | 310570 | [310570-holonomy.json](./310570-holonomy.json) |
 | HoloParade | 276842 | [276842-holoparade.json](./276842-holoparade.json) |
+| HoloParade: DLC with BGM and Costume - Shirakami Fubuki | 302580 | [302580-holoparade-dlc-with-bgm-and-costume-shirakami-fubuki.json](./302580-holoparade-dlc-with-bgm-and-costume-shirakami-fubuki.json) |
 | Holopoint | 33147 | [33147-holopoint.json](./33147-holopoint.json) |
 | Holoquest | 180136 | [180136-holoquest.json](./180136-holoquest.json) |
 | HoloReality | 322160 | [322160-holoreality.json](./322160-holoreality.json) |
@@ -4505,6 +4508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Sweet Homecoming | 135306 | [135306-home-sweet-homecoming.json](./135306-home-sweet-homecoming.json) |
 | Home Sweet RoN | 70370 | [70370-home-sweet-ron.json](./70370-home-sweet-ron.json) |
 | Home Tech VR | 29891 | [29891-home-tech-vr.json](./29891-home-tech-vr.json) |
+| Home Together | 302624 | [302624-home-together.json](./302624-home-together.json) |
 | Home Town Work | 393768 | [393768-home-town-work.json](./393768-home-town-work.json) |
 | Home trip | 262103 | [262103-home-trip.json](./262103-home-trip.json) |
 | Home Wars | 43334 | [43334-home-wars.json](./43334-home-wars.json) |
