@@ -3406,6 +3406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfman | 54716 | [54716-wolfman.json](./54716-wolfman.json) |
 | Wolfpack | 100177 | [100177-wolfpack.json](./100177-wolfpack.json) |
 | WolfPlay | 144817 | [144817-wolfplay.json](./144817-wolfplay.json) |
+| Wolfram | 319118 | [319118-wolfram.json](./319118-wolfram.json) |
 | Wolfriders A Sniper Adventure | 159859 | [159859-wolfriders-a-sniper-adventure.json](./159859-wolfriders-a-sniper-adventure.json) |
 | Wolfschanze | 81168 | [81168-wolfschanze.json](./81168-wolfschanze.json) |
 | Wolfschanze II | 27646 | [27646-wolfschanze-ii.json](./27646-wolfschanze-ii.json) |
@@ -3773,6 +3774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordlike | 326808 | [326808-wordlike.json](./326808-wordlike.json) |
 | Wordly | 323327 | [323327-wordly.json](./323327-wordly.json) |
 | WordMaster | 207524 | [207524-wordmaster.json](./207524-wordmaster.json) |
+| Wordpieces | 319079 | [319079-wordpieces.json](./319079-wordpieces.json) |
 | Words | 197391 | [197391-words.json](./197391-words.json) |
 | Words Across America | 310565 | [310565-words-across-america.json](./310565-words-across-america.json) |
 | Words Collide | 254165 | [254165-words-collide.json](./254165-words-collide.json) |
