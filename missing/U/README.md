@@ -1385,6 +1385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unreal Flash 3 | 234154 | [234154-unreal-flash-3.json](./234154-unreal-flash-3.json) |
 | Unreal Golf | 154408 | [154408-unreal-golf.json](./154408-unreal-golf.json) |
 | Unreal II: The Awakening - Special Edition | 46625 | [46625-unreal-ii-the-awakening-special-edition.json](./46625-unreal-ii-the-awakening-special-edition.json) |
+| Unreal Island | 294971 | [294971-unreal-island.json](./294971-unreal-island.json) |
 | Unreal Land | 62220 | [62220-unreal-land.json](./62220-unreal-land.json) |
 | Unreal Match 3 | 308364 | [308364-unreal-match-3.json](./308364-unreal-match-3.json) |
 | Unreal Maze Survival | 116107 | [116107-unreal-maze-survival.json](./116107-unreal-maze-survival.json) |
