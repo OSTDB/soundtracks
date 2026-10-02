@@ -2156,6 +2156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life by You | 240899 | [240899-life-by-you.json](./240899-life-by-you.json) |
 | Life Code | 287774 | [287774-life-code.json](./287774-life-code.json) |
 | Life Combinations | 117479 | [117479-life-combinations.json](./117479-life-combinations.json) |
+| Life Dream | 331456 | [331456-life-dream.json](./331456-life-dream.json) |
 | Life Eater | 289431 | [289431-life-eater.json](./289431-life-eater.json) |
 | Life Effect | 236763 | [236763-life-effect.json](./236763-life-effect.json) |
 | Life Force | 174945 | [174945-life-force.json](./174945-life-force.json) |
