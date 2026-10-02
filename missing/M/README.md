@@ -3894,6 +3894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Museum | 108294 | [108294-mega-museum.json](./108294-mega-museum.json) |
 | Mega Pede | 78990 | [78990-mega-pede.json](./78990-mega-pede.json) |
 | Mega Platformer Bundle | 331537 | [331537-mega-platformer-bundle.json](./331537-mega-platformer-bundle.json) |
+| Mega Plaza Shopping Center | 308466 | [308466-mega-plaza-shopping-center.json](./308466-mega-plaza-shopping-center.json) |
 | Mega Pony | 39604 | [39604-mega-pony.json](./39604-mega-pony.json) |
 | Mega Punchy Golf | 120935 | [120935-mega-punchy-golf.json](./120935-mega-punchy-golf.json) |
 | Mega Q*bert | 360128 | [360128-mega-q-bert.json](./360128-mega-q-bert.json) |
@@ -7985,6 +7986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monument Valley II: The Lost Forest | 255779 | [255779-monument-valley-ii-the-lost-forest.json](./255779-monument-valley-ii-the-lost-forest.json) |
 | Monument Valley: Panoramic Edition | 203331 | [203331-monument-valley-panoramic-edition.json](./203331-monument-valley-panoramic-edition.json) |
 | Monument Valley+ | 145466 | [145466-monument-valley.json](./145466-monument-valley.json) |
+| Monument: Invasion | 308501 | [308501-monument-invasion.json](./308501-monument-invasion.json) |
 | Monument: Ultimate Edition | 317249 | [317249-monument-ultimate-edition.json](./317249-monument-ultimate-edition.json) |
 | Monumental Failure | 29940 | [29940-monumental-failure.json](./29940-monumental-failure.json) |
 | Monuments Flipper | 132741 | [132741-monuments-flipper.json](./132741-monuments-flipper.json) |
@@ -10296,6 +10298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Village Life | 166506 | [166506-my-village-life.json](./166506-my-village-life.json) |
 | My Vineyard | 92440 | [92440-my-vineyard.json](./92440-my-vineyard.json) |
 | My Virtual Friend | 330534 | [330534-my-virtual-friend.json](./330534-my-virtual-friend.json) |
+| My Virtual Pet | 308508 | [308508-my-virtual-pet.json](./308508-my-virtual-pet.json) |
 | My Virtual Pet Louie the Pug | 250019 | [250019-my-virtual-pet-louie-the-pug.json](./250019-my-virtual-pet-louie-the-pug.json) |
 | My Virtual Tutor: Reading First Grade to Second Grade | 67662 | [67662-my-virtual-tutor-reading-first-grade-to-second-grade.json](./67662-my-virtual-tutor-reading-first-grade-to-second-grade.json) |
 | My Virtual Tutor: Reading Kindergarten to First Grade | 67665 | [67665-my-virtual-tutor-reading-kindergarten-to-first-grade.json](./67665-my-virtual-tutor-reading-kindergarten-to-first-grade.json) |
