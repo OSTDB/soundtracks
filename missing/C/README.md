@@ -879,6 +879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Kalani: Definitive Edition | 264113 | [264113-captain-kalani-definitive-edition.json](./264113-captain-kalani-definitive-edition.json) |
 | Captain Kaon | 27566 | [27566-captain-kaon.json](./27566-captain-kaon.json) |
 | Captain Knick Knack | 210641 | [210641-captain-knick-knack.json](./210641-captain-knick-knack.json) |
+| Captain Laserhawk: The G.A.M.E. | 283390 | [283390-captain-laserhawk-the-g-a-m-e.json](./283390-captain-laserhawk-the-g-a-m-e.json) |
 | Captain MaCaw | 110165 | [110165-captain-macaw.json](./110165-captain-macaw.json) |
 | Captain MaCaw 2 | 238594 | [238594-captain-macaw-2.json](./238594-captain-macaw-2.json) |
 | Captain Mayo | 137491 | [137491-captain-mayo.json](./137491-captain-mayo.json) |
@@ -2809,6 +2810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Change Maker | 71769 | [71769-change-maker.json](./71769-change-maker.json) |
 | Change: A Homeless Survival Experience | 109339 | [109339-change-a-homeless-survival-experience.json](./109339-change-a-homeless-survival-experience.json) |
 | Change: A Homeless Survival Experience - Living City Expansion | 199664 | [199664-change-a-homeless-survival-experience-living-city-expansion.json](./199664-change-a-homeless-survival-experience-living-city-expansion.json) |
+| Changeable Guardian Estique | 283375 | [283375-changeable-guardian-estique.json](./283375-changeable-guardian-estique.json) |
 | Changed | 89955 | [89955-changed.json](./89955-changed.json) |
 | Changeling | 113896 | [113896-changeling.json](./113896-changeling.json) |
 | Changelog | 360569 | [360569-changelog.json](./360569-changelog.json) |
