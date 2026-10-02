@@ -4860,6 +4860,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click Manga: Opera Za no Kaijin | 260111 | [260111-click-manga-opera-za-no-kaijin.json](./260111-click-manga-opera-za-no-kaijin.json) |
 | Click Me Harder | 365165 | [365165-click-me-harder.json](./365165-click-me-harder.json) |
 | Click On Cups Together | 309480 | [309480-click-on-cups-together.json](./309480-click-on-cups-together.json) |
+| Click on piña coladas together | 306023 | [306023-click-on-pina-coladas-together.json](./306023-click-on-pina-coladas-together.json) |
+| Click On Staplers Together | 306024 | [306024-click-on-staplers-together.json](./306024-click-on-staplers-together.json) |
 | Click on their Heads | 158189 | [158189-click-on-their-heads.json](./158189-click-on-their-heads.json) |
 | Click Painter | 309852 | [309852-click-painter.json](./309852-click-painter.json) |
 | Click Quest 3D 2: Plus | 379551 | [379551-click-quest-3d-2-plus.json](./379551-click-quest-3d-2-plus.json) |
