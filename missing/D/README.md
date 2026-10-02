@@ -1263,6 +1263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dàtóu Zhūluójì | 158556 | [158556-datou-zhuluoji.json](./158556-datou-zhuluoji.json) |
 | Datswer | 35820 | [35820-datswer.json](./35820-datswer.json) |
 | Datura Time | 219143 | [219143-datura-time.json](./219143-datura-time.json) |
+| Daughter | 287875 | [287875-daughter.json](./287875-daughter.json) |
 | Daughter of Essence | 158654 | [158654-daughter-of-essence.json](./158654-daughter-of-essence.json) |
 | Daughter of Serpents | 12416 | [12416-daughter-of-serpents.json](./12416-daughter-of-serpents.json) |
 | Daughter of Shadows: An SCP Breach Event | 33300 | [33300-daughter-of-shadows-an-scp-breach-event.json](./33300-daughter-of-shadows-an-scp-breach-event.json) |
@@ -4123,6 +4124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dichotomy | 344580 | [344580-dichotomy.json](./344580-dichotomy.json) |
 | Dichromatic | 184926 | [184926-dichromatic.json](./184926-dichromatic.json) |
 | Dick and Dom's Hoopla! | 304208 | [304208-dick-and-doms-hoopla.json](./304208-dick-and-doms-hoopla.json) |
+| Dick Hook | 287901 | [287901-dick-hook.json](./287901-dick-hook.json) |
 | Dick Richards | 185410 | [185410-dick-richards.json](./185410-dick-richards.json) |
 | Dick Tracy | 13058 | [13058-dick-tracy.json](./13058-dick-tracy.json) |
 | Dick Tracy | 316832 | [316832-dick-tracy.json](./316832-dick-tracy.json) |
