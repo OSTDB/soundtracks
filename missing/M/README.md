@@ -2024,6 +2024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Paint 64 | 175957 | [175957-mario-paint-64.json](./175957-mario-paint-64.json) |
 | Mario Paint BS Ban: Yuushou Sakuhin Naizou Version | 150147 | [150147-mario-paint-bs-ban-yuushou-sakuhin-naizou-version.json](./150147-mario-paint-bs-ban-yuushou-sakuhin-naizou-version.json) |
 | Mario Party | 2327 | [2327-mario-party.json](./2327-mario-party.json) |
+| Mario Party 1: SNES Rainbow Road | 283421 | [283421-mario-party-1-snes-rainbow-road.json](./283421-mario-party-1-snes-rainbow-road.json) |
 | Mario Party 3 | 2329 | [2329-mario-party-3.json](./2329-mario-party-3.json) |
 | Mario Party 3 StarStruck | 248306 | [248306-mario-party-3-starstruck.json](./248306-mario-party-3-starstruck.json) |
 | Mario Party 4 | 231603 | [231603-mario-party-4.json](./231603-mario-party-4.json) |
@@ -2032,6 +2033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Party 7 Bon Voyage | 231602 | [231602-mario-party-7-bon-voyage.json](./231602-mario-party-7-bon-voyage.json) |
 | Mario Party 8 | 328675 | [328675-mario-party-8.json](./328675-mario-party-8.json) |
 | Mario Party Heardle | 203828 | [203828-mario-party-heardle.json](./203828-mario-party-heardle.json) |
+| Mario Party Legacy 1 Vol. 2 | 283422 | [283422-mario-party-legacy-1-vol-2.json](./283422-mario-party-legacy-1-vol-2.json) |
 | Mario Party: Fushigi no Koro-koro Catcher 2 | 132044 | [132044-mario-party-fushigi-no-koro-koro-catcher-2.json](./132044-mario-party-fushigi-no-koro-koro-catcher-2.json) |
 | Mario Party: Love Land | 294763 | [294763-mario-party-love-land.json](./294763-mario-party-love-land.json) |
 | Mario Party: Star Rush | 19599 | [19599-mario-party-star-rush.json](./19599-mario-party-star-rush.json) |
@@ -2787,6 +2789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mata Nui Online Game II: The Final Chronicle | 125378 | [125378-mata-nui-online-game-ii-the-final-chronicle.json](./125378-mata-nui-online-game-ii-the-final-chronicle.json) |
 | Mata Yume no Naka de | 205239 | [205239-mata-yume-no-naka-de.json](./205239-mata-yume-no-naka-de.json) |
 | Mata, Itsuka. | 201309 | [201309-mata-itsuka.json](./201309-mata-itsuka.json) |
+| Matadouro: Grindhouse | 283395 | [283395-matadouro-grindhouse.json](./283395-matadouro-grindhouse.json) |
 | Match | 119019 | [119019-match.json](./119019-match.json) |
 | Match & Mastery | 347910 | [347910-match-and-mastery.json](./347910-match-and-mastery.json) |
 | Match & Merge | 232372 | [232372-match-and-merge.json](./232372-match-and-merge.json) |
@@ -3281,6 +3284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | McPlay | 86984 | [86984-mcplay.json](./86984-mcplay.json) |
 | McTetris | 230831 | [230831-mctetris.json](./230831-mctetris.json) |
 | MCW Regicide! | 360127 | [360127-mcw-regicide.json](./360127-mcw-regicide.json) |
+| McWorld | 283408 | [283408-mcworld.json](./283408-mcworld.json) |
 | MD Card Game 1 | 287862 | [287862-md-card-game-1.json](./287862-md-card-game-1.json) |
 | MD Card Game 2 | 287863 | [287863-md-card-game-2.json](./287863-md-card-game-2.json) |
 | MDF: Magical Defense Force - Chapters 10-18 | 285445 | [285445-mdf-magical-defense-force-chapters-10-18.json](./285445-mdf-magical-defense-force-chapters-10-18.json) |
@@ -5088,6 +5092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid: Galactic Marine | 341143 | [341143-metroid-galactic-marine.json](./341143-metroid-galactic-marine.json) |
 | Metroid: Genesis | 323757 | [323757-metroid-genesis.json](./323757-metroid-genesis.json) |
 | Metroid: HD | 310611 | [310611-metroid-hd.json](./310611-metroid-hd.json) |
+| Metroid: Juicy Mission | 283383 | [283383-metroid-juicy-mission.json](./283383-metroid-juicy-mission.json) |
 | Metroid: Origins | 224478 | [224478-metroid-origins.json](./224478-metroid-origins.json) |
 | Metroid: Other M | 1113 | [1113-metroid-other-m.json](./1113-metroid-other-m.json) |
 | Metroid: Rechoose | 318019 | [318019-metroid-rechoose.json](./318019-metroid-rechoose.json) |
@@ -6799,6 +6804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission Angel Angelic Pink | 82908 | [82908-mission-angel-angelic-pink.json](./82908-mission-angel-angelic-pink.json) |
 | Mission Attack | 42136 | [42136-mission-attack.json](./42136-mission-attack.json) |
 | Mission Bravo | 295040 | [295040-mission-bravo.json](./295040-mission-bravo.json) |
+| Mission Craft | 283402 | [283402-mission-craft.json](./283402-mission-craft.json) |
 | Mission Critical: Foresight | 186328 | [186328-mission-critical-foresight.json](./186328-mission-critical-foresight.json) |
 | Mission Europa | 66072 | [66072-mission-europa.json](./66072-mission-europa.json) |
 | Mission Genocide | 58868 | [58868-mission-genocide.json](./58868-mission-genocide.json) |
@@ -7688,6 +7694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Band | 293221 | [293221-monster-band.json](./293221-monster-band.json) |
 | Monster Bang | 233764 | [233764-monster-bang.json](./233764-monster-bang.json) |
 | Monster Bar | 240784 | [240784-monster-bar.json](./240784-monster-bar.json) |
+| Monster Bargain | 283403 | [283403-monster-bargain.json](./283403-monster-bargain.json) |
 | Monster Bark | 264131 | [264131-monster-bark.json](./264131-monster-bark.json) |
 | Monster Bash | 18059 | [18059-monster-bash.json](./18059-monster-bash.json) |
 | Monster Battle | 302368 | [302368-monster-battle.json](./302368-monster-battle.json) |
@@ -9044,6 +9051,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mozarella Hills | 291766 | [291766-mozarella-hills.json](./291766-mozarella-hills.json) |
 | Mozart Requiem | 141726 | [141726-mozart-requiem.json](./141726-mozart-requiem.json) |
 | Mozzle | 175414 | [175414-mozzle.json](./175414-mozzle.json) |
+| MP1: Constellation Chaos | 283414 | [283414-mp1-constellation-chaos.json](./283414-mp1-constellation-chaos.json) |
+| MP1: Minecraft Mayhem | 283416 | [283416-mp1-minecraft-mayhem.json](./283416-mp1-minecraft-mayhem.json) |
+| MP1: Monopoly | 283419 | [283419-mp1-monopoly.json](./283419-mp1-monopoly.json) |
+| MP1: Mushroom Gorge | 283420 | [283420-mp1-mushroom-gorge.json](./283420-mp1-mushroom-gorge.json) |
+| MP1: Pallet Town | 283418 | [283418-mp1-pallet-town.json](./283418-mp1-pallet-town.json) |
+| MP1: Rainbow Road | 283415 | [283415-mp1-rainbow-road.json](./283415-mp1-rainbow-road.json) |
+| MP1: Snowflake Lake | 283412 | [283412-mp1-snowflake-lake.json](./283412-mp1-snowflake-lake.json) |
+| MP1: Some 1950s BW Nostalgia | 283424 | [283424-mp1-some-1950s-bw-nostalgia.json](./283424-mp1-some-1950s-bw-nostalgia.json) |
+| MP1: vila do Chaves | 283423 | [283423-mp1-vila-do-chaves.json](./283423-mp1-vila-do-chaves.json) |
+| MP1: Wii Menu | 283425 | [283425-mp1-wii-menu.json](./283425-mp1-wii-menu.json) |
 | MP2: Bill Nye's Science Lab | 283777 | [283777-mp2-bill-nyes-science-lab.json](./283777-mp2-bill-nyes-science-lab.json) |
 | MP2: Blue Koopa Land | 283779 | [283779-mp2-blue-koopa-land.json](./283779-mp2-blue-koopa-land.json) |
 | MP2: Calm Isles | 283783 | [283783-mp2-calm-isles.json](./283783-mp2-calm-isles.json) |
