@@ -733,6 +733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ABC Sports Presents: The Palm Spring Open | 46559 | [46559-abc-sports-presents-the-palm-spring-open.json](./46559-abc-sports-presents-the-palm-spring-open.json) |
 | ABC: Audioreactive Beat Circle | 138623 | [138623-abc-audioreactive-beat-circle.json](./138623-abc-audioreactive-beat-circle.json) |
 | ABC's Featuring the Jungle Jukebox | 392413 | [392413-abcs-featuring-the-jungle-jukebox.json](./392413-abcs-featuring-the-jungle-jukebox.json) |
+| Abcdef | 330374 | [330374-abcdef.json](./330374-abcdef.json) |
 | ABD: A Beautiful Day | 34900 | [34900-abd-a-beautiful-day.json](./34900-abd-a-beautiful-day.json) |
 | Abduct and Destroy! | 182543 | [182543-abduct-and-destroy.json](./182543-abduct-and-destroy.json) |
 | Abducted Toad | 135096 | [135096-abducted-toad.json](./135096-abducted-toad.json) |
@@ -4687,6 +4688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ankoku-jou | 334900 | [334900-ankoku-jou.json](./334900-ankoku-jou.json) |
 | Ankora: Lost Days | 108867 | [108867-ankora-lost-days.json](./108867-ankora-lost-days.json) |
 | Anna & die Liebe | 269557 | [269557-anna-and-die-liebe.json](./269557-anna-and-die-liebe.json) |
+| Anna Apocalypse | 330372 | [330372-anna-apocalypse.json](./330372-anna-apocalypse.json) |
 | Anna vs. Sentimental Fighter | 330933 | [330933-anna-vs-sentimental-fighter.json](./330933-anna-vs-sentimental-fighter.json) |
 | Anna-san-tachi no Fushigi no Meikyuu | 208405 | [208405-anna-san-tachi-no-fushigi-no-meikyuu.json](./208405-anna-san-tachi-no-fushigi-no-meikyuu.json) |
 | Anna: The Magic of Words | 210701 | [210701-anna-the-magic-of-words.json](./210701-anna-the-magic-of-words.json) |
