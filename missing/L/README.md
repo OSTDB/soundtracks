@@ -3058,6 +3058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Problems | 272792 | [272792-little-problems.json](./272792-little-problems.json) |
 | Little Racer | 124023 | [124023-little-racer.json](./124023-little-racer.json) |
 | Little Racers | 91735 | [91735-little-racers.json](./91735-little-racers.json) |
+| Little Racers + Red Wings: American Aces | 287884 | [287884-little-racers-red-wings-american-aces.json](./287884-little-racers-red-wings-american-aces.json) |
 | Little Races | 115148 | [115148-little-races.json](./115148-little-races.json) |
 | Little Rats' Big Top | 180804 | [180804-little-rats-big-top.json](./180804-little-rats-big-top.json) |
 | Little Re-collector | 369059 | [369059-little-re-collector.json](./369059-little-re-collector.json) |
