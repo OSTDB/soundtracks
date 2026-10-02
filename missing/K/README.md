@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kago no Naka no Alicis | 218383 | [218383-kago-no-naka-no-alicis.json](./218383-kago-no-naka-no-alicis.json) |
 | Kaguya-sama: Love Is War | 239005 | [239005-kaguya-sama-love-is-war.json](./239005-kaguya-sama-love-is-war.json) |
 | Kahen Soukou Gunbike | 44756 | [44756-kahen-soukou-gunbike.json](./44756-kahen-soukou-gunbike.json) |
+| Kai | 302610 | [302610-kai.json](./302610-kai.json) |
 | Kai Temple | 94910 | [94910-kai-temple.json](./94910-kai-temple.json) |
 | Kai Yuan | 236948 | [236948-kai-yuan.json](./236948-kai-yuan.json) |
 | Kai Yuen's Overlapped Universe | 111068 | [111068-kai-yuens-overlapped-universe.json](./111068-kai-yuens-overlapped-universe.json) |
@@ -1159,6 +1160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Station: Magical Doremi #: Maho-dou Dance Carnival | 329032 | [329032-kids-station-magical-doremi-maho-dou-dance-carnival.json](./329032-kids-station-magical-doremi-maho-dou-dance-carnival.json) |
 | Kids Station: Motto! Oja Majo Do-Re-Mi - Mahodou Smile Party | 58774 | [58774-kids-station-motto-oja-majo-do-re-mi-mahodou-smile-party.json](./58774-kids-station-motto-oja-majo-do-re-mi-mahodou-smile-party.json) |
 | Kids Station: Oja Majo Doremi Dokkan! Maho-dou Eigo Festival | 389454 | [389454-kids-station-oja-majo-doremi-dokkan-maho-dou-eigo-festival.json](./389454-kids-station-oja-majo-doremi-dokkan-maho-dou-eigo-festival.json) |
+| Kids Station: Soreike! Anpanman | 302606 | [302606-kids-station-soreike-anpanman.json](./302606-kids-station-soreike-anpanman.json) |
 | Kids Train Sim | 100614 | [100614-kids-train-sim.json](./100614-kids-train-sim.json) |
 | Kids Vehicles Fire Truck games | 107649 | [107649-kids-vehicles-fire-truck-games.json](./107649-kids-vehicles-fire-truck-games.json) |
 | Kids: Zoo Puzzle | 215395 | [215395-kids-zoo-puzzle.json](./215395-kids-zoo-puzzle.json) |
