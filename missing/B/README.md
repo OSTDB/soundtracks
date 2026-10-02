@@ -7305,6 +7305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Time! | 29813 | [29813-break-time.json](./29813-break-time.json) |
 | Break Ultimate | 241614 | [241614-break-ultimate.json](./241614-break-ultimate.json) |
 | Break Up | 245545 | [245545-break-up.json](./245545-break-up.json) |
+| Break Wolf | 320239 | [320239-break-wolf.json](./320239-break-wolf.json) |
 | Breakage | 165521 | [165521-breakage.json](./165521-breakage.json) |
 | Breakaway Hockey League | 415167 | [415167-breakaway-hockey-league.json](./415167-breakaway-hockey-league.json) |
 | BreakBall | 304651 | [304651-breakball.json](./304651-breakball.json) |
@@ -8240,6 +8241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet | 84189 | [84189-bullet.json](./84189-bullet.json) |
 | Bullet Angel | 143101 | [143101-bullet-angel.json](./143101-bullet-angel.json) |
 | Bullet Art | 156680 | [156680-bullet-art.json](./156680-bullet-art.json) |
+| Bullet Audyssey | 320253 | [320253-bullet-audyssey.json](./320253-bullet-audyssey.json) |
 | Bullet Barrage Basketball | 417367 | [417367-bullet-barrage-basketball.json](./417367-bullet-barrage-basketball.json) |
 | Bullet Bash | 205246 | [205246-bullet-bash.json](./205246-bullet-bash.json) |
 | Bullet Battle | 174721 | [174721-bullet-battle.json](./174721-bullet-battle.json) |
