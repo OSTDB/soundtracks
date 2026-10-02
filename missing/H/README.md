@@ -3215,6 +3215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexteria | 153889 | [153889-hexteria.json](./153889-hexteria.json) |
 | Hexterminate | 133411 | [133411-hexterminate.json](./133411-hexterminate.json) |
 | Hexters | 81393 | [81393-hexters.json](./81393-hexters.json) |
+| Hexton | 298243 | [298243-hexton.json](./298243-hexton.json) |
 | HexTrains | 102953 | [102953-hextrains.json](./102953-hextrains.json) |
 | Hextris | 183898 | [183898-hextris.json](./183898-hextris.json) |
 | HextriX | 105912 | [105912-hextrix.json](./105912-hextrix.json) |
@@ -4197,6 +4198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HocusDOOM | 201232 | [201232-hocusdoom.json](./201232-hocusdoom.json) |
 | HoD: On open seas | 90612 | [90612-hod-on-open-seas.json](./90612-hod-on-open-seas.json) |
 | Hodge Dodge | 280345 | [280345-hodge-dodge.json](./280345-hodge-dodge.json) |
+| Hodgepodge Hunch: Premium Pack - Sakura | 298260 | [298260-hodgepodge-hunch-premium-pack-sakura.json](./298260-hodgepodge-hunch-premium-pack-sakura.json) |
 | Hodl: The God of Crypto | 97922 | [97922-hodl-the-god-of-crypto.json](./97922-hodl-the-god-of-crypto.json) |
 | HodlGod | 175895 | [175895-hodlgod.json](./175895-hodlgod.json) |
 | Hog Heist | 360645 | [360645-hog-heist.json](./360645-hog-heist.json) |
