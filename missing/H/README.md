@@ -587,6 +587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanarenga: Takumi no Utage | 338309 | [338309-hanarenga-takumi-no-utage.json](./338309-hanarenga-takumi-no-utage.json) |
 | Hanata-Kadaka!? | 59993 | [59993-hanata-kadaka.json](./59993-hanata-kadaka.json) |
 | Hanayaka Nari, Waga Ichizoku | 61640 | [61640-hanayaka-nari-waga-ichizoku.json](./61640-hanayaka-nari-waga-ichizoku.json) |
+| Hanayome: The Sacrificial Bride | 284611 | [284611-hanayome-the-sacrificial-bride.json](./284611-hanayome-the-sacrificial-bride.json) |
 | Hanctt Origins | 253455 | [253455-hanctt-origins.json](./253455-hanctt-origins.json) |
 | Hand Almighty | 393759 | [393759-hand-almighty.json](./393759-hand-almighty.json) |
 | Hand Cannon Virtuoso | 132256 | [132256-hand-cannon-virtuoso.json](./132256-hand-cannon-virtuoso.json) |
