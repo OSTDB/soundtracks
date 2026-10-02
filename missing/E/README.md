@@ -2399,6 +2399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Blocks | 295269 | [295269-escape-blocks.json](./295269-escape-blocks.json) |
 | Escape Blythe Castle | 250412 | [250412-escape-blythe-castle.json](./250412-escape-blythe-castle.json) |
 | Escape By Spoon | 396421 | [396421-escape-by-spoon.json](./396421-escape-by-spoon.json) |
+| Escape Capyland | 312620 | [312620-escape-capyland.json](./312620-escape-capyland.json) |
 | Escape Chase Monster | 219254 | [219254-escape-chase-monster.json](./219254-escape-chase-monster.json) |
 | Escape Chronicles | 241384 | [241384-escape-chronicles.json](./241384-escape-chronicles.json) |
 | Escape Condition | 219255 | [219255-escape-condition.json](./219255-escape-condition.json) |
