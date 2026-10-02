@@ -6362,6 +6362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boobs or [Redacted] | 368061 | [368061-boobs-or-redacted.json](./368061-boobs-or-redacted.json) |
 | Boobs Saga | 89322 | [89322-boobs-saga.json](./89322-boobs-saga.json) |
 | Booby Kids | 7796 | [7796-booby-kids.json](./7796-booby-kids.json) |
+| Booeys: Rip in the Rift | 292246 | [292246-booeys-rip-in-the-rift.json](./292246-booeys-rip-in-the-rift.json) |
 | Boofie's Birthday Adventure | 340246 | [340246-boofies-birthday-adventure.json](./340246-boofies-birthday-adventure.json) |
 | Boofle's Home | 29068 | [29068-boofles-home.json](./29068-boofles-home.json) |
 | Boog Adventure | 155472 | [155472-boog-adventure.json](./155472-boog-adventure.json) |
