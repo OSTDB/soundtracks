@@ -1132,6 +1132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GB Pachio-kun 2 | 59512 | [59512-gb-pachio-kun-2.json](./59512-gb-pachio-kun-2.json) |
 | GB Pachio-kun 3 | 59513 | [59513-gb-pachio-kun-3.json](./59513-gb-pachio-kun-3.json) |
 | GB Rober | 152875 | [152875-gb-rober.json](./152875-gb-rober.json) |
+| GB Studio's 5th Anniversary | 316682 | [316682-gb-studios-5th-anniversary.json](./316682-gb-studios-5th-anniversary.json) |
 | GBA Championship Basketball: Two-on-Two | 12114 | [12114-gba-championship-basketball-two-on-two.json](./12114-gba-championship-basketball-two-on-two.json) |
 | GBox: The Puzzle Collection | 107014 | [107014-gbox-the-puzzle-collection.json](./107014-gbox-the-puzzle-collection.json) |
 | GDO Masters | 180016 | [180016-gdo-masters.json](./180016-gdo-masters.json) |
@@ -2151,6 +2152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl Wars: Fantasy World Unification Battle | 270643 | [270643-girl-wars-fantasy-world-unification-battle.json](./270643-girl-wars-fantasy-world-unification-battle.json) |
 | Girl Werewolf Hamlet Saves Christmas | 376102 | [376102-girl-werewolf-hamlet-saves-christmas.json](./376102-girl-werewolf-hamlet-saves-christmas.json) |
 | Girl Who Cried Wolf | 298891 | [298891-girl-who-cried-wolf.json](./298891-girl-who-cried-wolf.json) |
+| Girl Who Shrunk the Neighbors | 316690 | [316690-girl-who-shrunk-the-neighbors.json](./316690-girl-who-shrunk-the-neighbors.json) |
 | Girl with a Big Sword | 110174 | [110174-girl-with-a-big-sword.json](./110174-girl-with-a-big-sword.json) |
 | Girl with a Heart of | 64906 | [64906-girl-with-a-heart-of.json](./64906-girl-with-a-heart-of.json) |
 | Girl With Gun | 390203 | [390203-girl-with-gun.json](./390203-girl-with-gun.json) |
