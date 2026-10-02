@@ -591,6 +591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samba de Amigo | 70087 | [70087-samba-de-amigo.json](./70087-samba-de-amigo.json) |
 | Samba de Amigo: Party-To-Go | 264096 | [264096-samba-de-amigo-party-to-go.json](./264096-samba-de-amigo-party-to-go.json) |
 | Samba de Amigo: Virtual Party | 251561 | [251561-samba-de-amigo-virtual-party.json](./251561-samba-de-amigo-virtual-party.json) |
+| Samba Hero | 315574 | [315574-samba-hero.json](./315574-samba-hero.json) |
 | Sambaquis: A Story before Brazil | 216192 | [216192-sambaquis-a-story-before-brazil.json](./216192-sambaquis-a-story-before-brazil.json) |
 | Same | 64423 | [64423-same.json](./64423-same.json) |
 | Same Game for Windows | 80229 | [80229-same-game-for-windows.json](./80229-same-game-for-windows.json) |
@@ -12822,6 +12823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stefanos Sizzilin Pizza Pie | 103481 | [103481-stefanos-sizzilin-pizza-pie.json](./103481-stefanos-sizzilin-pizza-pie.json) |
 | Stefanos Sizzlin Pizza Pie | 180042 | [180042-stefanos-sizzlin-pizza-pie.json](./180042-stefanos-sizzlin-pizza-pie.json) |
 | Stegosaurs | 185028 | [185028-stegosaurs.json](./185028-stegosaurs.json) |
+| Steigar | 315598 | [315598-steigar.json](./315598-steigar.json) |
 | Stein.World | 95575 | [95575-stein-world.json](./95575-stein-world.json) |
 | Steinkraft | 320162 | [320162-steinkraft.json](./320162-steinkraft.json) |
 | Steins;Gate 0 | 11394 | [11394-steins-gate-0.json](./11394-steins-gate-0.json) |
@@ -16647,6 +16649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surprise Party! | 164907 | [164907-surprise-party.json](./164907-surprise-party.json) |
 | Surprising Laws Around the World True or False Quiz | 401096 | [401096-surprising-laws-around-the-world-true-or-false-quiz.json](./401096-surprising-laws-around-the-world-true-or-false-quiz.json) |
 | Surprising My Neighbors 2 | 149038 | [149038-surprising-my-neighbors-2.json](./149038-surprising-my-neighbors-2.json) |
+| Surreal Escape | 315575 | [315575-surreal-escape.json](./315575-surreal-escape.json) |
 | Surreal Farm | 316418 | [316418-surreal-farm.json](./316418-surreal-farm.json) |
 | Surreal House | 260186 | [260186-surreal-house.json](./260186-surreal-house.json) |
 | SurReal Subway | 113762 | [113762-surreal-subway.json](./113762-surreal-subway.json) |
