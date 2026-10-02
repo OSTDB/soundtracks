@@ -200,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthflow: Fate of the Stargazer | 52205 | [52205-earthflow-fate-of-the-stargazer.json](./52205-earthflow-fate-of-the-stargazer.json) |
 | EarthKart | 269029 | [269029-earthkart.json](./269029-earthkart.json) |
 | Earthless | 252866 | [252866-earthless.json](./252866-earthless.json) |
+| Earthling of Gaia | 294367 | [294367-earthling-of-gaia.json](./294367-earthling-of-gaia.json) |
 | Earthling Priorities | 229154 | [229154-earthling-priorities.json](./229154-earthling-priorities.json) |
 | EarthNight | 27742 | [27742-earthnight.json](./27742-earthnight.json) |
 | Earthquake | 349482 | [349482-earthquake.json](./349482-earthquake.json) |
@@ -2984,6 +2985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ether Quest | 97283 | [97283-ether-quest.json](./97283-ether-quest.json) |
 | Ether Saga Online | 51195 | [51195-ether-saga-online.json](./51195-ether-saga-online.json) |
 | Ethereal | 183955 | [183955-ethereal.json](./183955-ethereal.json) |
+| Ethereal Abyss | 294357 | [294357-ethereal-abyss.json](./294357-ethereal-abyss.json) |
 | Ethereal Storm | 405045 | [405045-ethereal-storm.json](./405045-ethereal-storm.json) |
 | Ethereal: Clash of Souls | 127325 | [127325-ethereal-clash-of-souls.json](./127325-ethereal-clash-of-souls.json) |
 | Ethereal: New Moon | 244779 | [244779-ethereal-new-moon.json](./244779-ethereal-new-moon.json) |
