@@ -915,6 +915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underquest | 250016 | [250016-underquest.json](./250016-underquest.json) |
 | UnderRaid | 56125 | [56125-underraid.json](./56125-underraid.json) |
 | Undersea Adventure | 69837 | [69837-undersea-adventure.json](./69837-undersea-adventure.json) |
+| Undersea Escape | 315599 | [315599-undersea-escape.json](./315599-undersea-escape.json) |
 | Understanding of the Abyss | 151733 | [151733-understanding-of-the-abyss.json](./151733-understanding-of-the-abyss.json) |
 | Understeel | 382204 | [382204-understeel.json](./382204-understeel.json) |
 | Underswap: Echoed | 329656 | [329656-underswap-echoed.json](./329656-underswap-echoed.json) |
