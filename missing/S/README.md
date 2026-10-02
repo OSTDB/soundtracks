@@ -849,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sangokushi Eiketsuden | 327954 | [327954-sangokushi-eiketsuden.json](./327954-sangokushi-eiketsuden.json) |
 | Sangokushi Game Boy-ban | 349837 | [349837-sangokushi-game-boy-ban.json](./349837-sangokushi-game-boy-ban.json) |
 | Sangokushi II: Haou no Tairiku | 48861 | [48861-sangokushi-ii-haou-no-tairiku.json](./48861-sangokushi-ii-haou-no-tairiku.json) |
+| Sangokushi Nendaiki DX | 290123 | [290123-sangokushi-nendaiki-dx.json](./290123-sangokushi-nendaiki-dx.json) |
 | Sangokushi Returns | 97459 | [97459-sangokushi-returns.json](./97459-sangokushi-returns.json) |
 | Sangokushi Tactics | 341156 | [341156-sangokushi-tactics.json](./341156-sangokushi-tactics.json) |
 | Sangokushi Taisen | 27624 | [27624-sangokushi-taisen.json](./27624-sangokushi-taisen.json) |
@@ -3529,6 +3530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of Progakko | 325542 | [325542-shadows-of-progakko.json](./325542-shadows-of-progakko.json) |
 | Shadows of Rogue: The Sorcerer's Curse | 272281 | [272281-shadows-of-rogue-the-sorcerers-curse.json](./272281-shadows-of-rogue-the-sorcerers-curse.json) |
 | Shadows of Soldiers | 264143 | [264143-shadows-of-soldiers.json](./264143-shadows-of-soldiers.json) |
+| Shadows of Souls | 290116 | [290116-shadows-of-souls.json](./290116-shadows-of-souls.json) |
 | Shadows of Steam | 328499 | [328499-shadows-of-steam.json](./328499-shadows-of-steam.json) |
 | Shadows of Taumiel | 207378 | [207378-shadows-of-taumiel.json](./207378-shadows-of-taumiel.json) |
 | Shadows of the Afterland | 269067 | [269067-shadows-of-the-afterland.json](./269067-shadows-of-the-afterland.json) |
@@ -4714,6 +4716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shovel Knight: Pocket Dungeon - Puzzler's Pack DLC | 246405 | [246405-shovel-knight-pocket-dungeon-puzzlers-pack-dlc.json](./246405-shovel-knight-pocket-dungeon-puzzlers-pack-dlc.json) |
 | Shovel Knight: Shovel of Hope DX | 305757 | [305757-shovel-knight-shovel-of-hope-dx.json](./305757-shovel-knight-shovel-of-hope-dx.json) |
 | Shovel Knight: Treasure Trove | 26848 | [26848-shovel-knight-treasure-trove.json](./26848-shovel-knight-treasure-trove.json) |
+| Shovelboy: Zone X | 290114 | [290114-shovelboy-zone-x.json](./290114-shovelboy-zone-x.json) |
 | Shovelware | 346231 | [346231-shovelware.json](./346231-shovelware.json) |
 | Shovelware Adventure! | 262303 | [262303-shovelware-adventure.json](./262303-shovelware-adventure.json) |
 | Show Ball: Tiger Life | 226142 | [226142-show-ball-tiger-life.json](./226142-show-ball-tiger-life.json) |
@@ -7874,6 +7877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soda Dungeon 2 | 122712 | [122712-soda-dungeon-2.json](./122712-soda-dungeon-2.json) |
 | Soda Pipes | 208900 | [208900-soda-pipes.json](./208900-soda-pipes.json) |
 | Soda Sabotage | 200469 | [200469-soda-sabotage.json](./200469-soda-sabotage.json) |
+| Soda Scuffle | 290117 | [290117-soda-scuffle.json](./290117-soda-scuffle.json) |
 | Soda Story: Brewing Tycoon | 119016 | [119016-soda-story-brewing-tycoon.json](./119016-soda-story-brewing-tycoon.json) |
 | Soda-Powered Penguin | 216734 | [216734-soda-powered-penguin.json](./216734-soda-powered-penguin.json) |
 | Sodablood | 312174 | [312174-sodablood.json](./312174-sodablood.json) |
@@ -10497,6 +10501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellarium 11 | 311594 | [311594-spellarium-11.json](./311594-spellarium-11.json) |
 | Spellarium 14: Collector's Edition | 416771 | [416771-spellarium-14-collectors-edition.json](./416771-spellarium-14-collectors-edition.json) |
 | Spellarium 2 | 298089 | [298089-spellarium-2.json](./298089-spellarium-2.json) |
+| Spellarium 3 | 290122 | [290122-spellarium-3.json](./290122-spellarium-3.json) |
 | Spellarium 4 | 293703 | [293703-spellarium-4.json](./293703-spellarium-4.json) |
 | Spellarium 5 | 295476 | [295476-spellarium-5.json](./295476-spellarium-5.json) |
 | Spellarium 8 Match 3 Puzzle | 202665 | [202665-spellarium-8-match-3-puzzle.json](./202665-spellarium-8-match-3-puzzle.json) |
