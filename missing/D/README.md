@@ -3633,6 +3633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Araka | 334313 | [334313-detective-araka.json](./334313-detective-araka.json) |
 | Detective Barbie 2: The Vacation Mystery | 197864 | [197864-detective-barbie-2-the-vacation-mystery.json](./197864-detective-barbie-2-the-vacation-mystery.json) |
 | Detective Barbie: The Mystery Cruise | 43915 | [43915-detective-barbie-the-mystery-cruise.json](./43915-detective-barbie-the-mystery-cruise.json) |
+| Detective Bass: Fish Out Of Water | 299369 | [299369-detective-bass-fish-out-of-water.json](./299369-detective-bass-fish-out-of-water.json) |
 | Detective Boiled-Hard / Case File - Death of the Space Dino Hunter | 393455 | [393455-detective-boiled-hard-case-file-death-of-the-space-dino-hunter.json](./393455-detective-boiled-hard-case-file-death-of-the-space-dino-hunter.json) |
 | Detective Boto: Belle Memoir | 410934 | [410934-detective-boto-belle-memoir.json](./410934-detective-boto-belle-memoir.json) |
 | Detective Bureau Simulator | 150015 | [150015-detective-bureau-simulator.json](./150015-detective-bureau-simulator.json) |
@@ -8617,6 +8618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DunDun VR | 160148 | [160148-dundun-vr.json](./160148-dundun-vr.json) |
 | Dune | 282716 | [282716-dune.json](./282716-dune.json) |
 | Dune 2000 | 87 | [87-dune-2000.json](./87-dune-2000.json) |
+| Dune Dasher | 299377 | [299377-dune-dasher.json](./299377-dune-dasher.json) |
 | Dune Dynasty | 134529 | [134529-dune-dynasty.json](./134529-dune-dynasty.json) |
 | Dune Legacy | 134535 | [134535-dune-legacy.json](./134535-dune-legacy.json) |
 | Dune Raider | 377839 | [377839-dune-raider.json](./377839-dune-raider.json) |
@@ -8889,6 +8891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Survivor II | 126007 | [126007-dungeon-survivor-ii.json](./126007-dungeon-survivor-ii.json) |
 | Dungeon Survivor.io | 260706 | [260706-dungeon-survivor-io.json](./260706-dungeon-survivor-io.json) |
 | Dungeon Survivors | 257935 | [257935-dungeon-survivors.json](./257935-dungeon-survivors.json) |
+| Dungeon Sweeper KiKi | 299396 | [299396-dungeon-sweeper-kiki.json](./299396-dungeon-sweeper-kiki.json) |
 | Dungeon Sweeper Plus | 401058 | [401058-dungeon-sweeper-plus.json](./401058-dungeon-sweeper-plus.json) |
 | Dungeon Tales: RPG Card Game | 121732 | [121732-dungeon-tales-rpg-card-game.json](./121732-dungeon-tales-rpg-card-game.json) |
 | Dungeon Tiles | 58235 | [58235-dungeon-tiles.json](./58235-dungeon-tiles.json) |
