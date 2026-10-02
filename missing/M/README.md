@@ -1222,6 +1222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make It In Time | 214164 | [214164-make-it-in-time.json](./214164-make-it-in-time.json) |
 | Make It Rain: The Love of Money | 61718 | [61718-make-it-rain-the-love-of-money.json](./61718-make-it-rain-the-love-of-money.json) |
 | Make It Stop! | 301349 | [301349-make-it-stop.json](./301349-make-it-stop.json) |
+| Make It True | 326679 | [326679-make-it-true.json](./326679-make-it-true.json) |
 | Make it! Crepe | 315839 | [315839-make-it-crepe.json](./315839-make-it-crepe.json) |
 | Make it! Ikayaki | 294837 | [294837-make-it-ikayaki.json](./294837-make-it-ikayaki.json) |
 | Make it! Oden | 328503 | [328503-make-it-oden.json](./328503-make-it-oden.json) |
@@ -3262,6 +3263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meatly's Storage World | 233751 | [233751-meatlys-storage-world.json](./233751-meatlys-storage-world.json) |
 | Meatmare | 334306 | [334306-meatmare.json](./334306-meatmare.json) |
 | Meatsauce Madness: The Game | 174271 | [174271-meatsauce-madness-the-game.json](./174271-meatsauce-madness-the-game.json) |
+| Meatshot | 326686 | [326686-meatshot.json](./326686-meatshot.json) |
 | Meaty McSkinBones | 116281 | [116281-meaty-mcskinbones.json](./116281-meaty-mcskinbones.json) |
 | Meawja | 57194 | [57194-meawja.json](./57194-meawja.json) |
 | Mebius Adventure | 206172 | [206172-mebius-adventure.json](./206172-mebius-adventure.json) |
@@ -3270,6 +3272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech Ace Combat Trainer | 31880 | [31880-mech-ace-combat-trainer.json](./31880-mech-ace-combat-trainer.json) |
 | Mech Bros | 302678 | [302678-mech-bros.json](./302678-mech-bros.json) |
 | Mech Commander Gold | 51238 | [51238-mech-commander-gold.json](./51238-mech-commander-gold.json) |
+| Mech Explorer | 326680 | [326680-mech-explorer.json](./326680-mech-explorer.json) |
 | Mech Farmer | 150696 | [150696-mech-farmer.json](./150696-mech-farmer.json) |
 | Mech Fortress | 360058 | [360058-mech-fortress.json](./360058-mech-fortress.json) |
 | Mech Frontier: Kinkyuu Shirei! Wakusei Shigen wo Kakuho se yo | 141734 | [141734-mech-frontier-kinkyuu-shirei-wakusei-shigen-wo-kakuho-se-yo.json](./141734-mech-frontier-kinkyuu-shirei-wakusei-shigen-wo-kakuho-se-yo.json) |
@@ -5899,6 +5902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft 4k | 238607 | [238607-minecraft-4k.json](./238607-minecraft-4k.json) |
 | Minecraft Backrooms Found Footage | 346784 | [346784-minecraft-backrooms-found-footage.json](./346784-minecraft-backrooms-found-footage.json) |
 | Minecraft Blast | 377668 | [377668-minecraft-blast.json](./377668-minecraft-blast.json) |
+| Minecraft Create: Above and Beyond | 326827 | [326827-minecraft-create-above-and-beyond.json](./326827-minecraft-create-above-and-beyond.json) |
 | Minecraft Dungeons: Hero Edition | 132145 | [132145-minecraft-dungeons-hero-edition.json](./132145-minecraft-dungeons-hero-edition.json) |
 | Minecraft Dungeons: Ultimate Edition | 164776 | [164776-minecraft-dungeons-ultimate-edition.json](./164776-minecraft-dungeons-ultimate-edition.json) |
 | Minecraft Earth | 118711 | [118711-minecraft-earth.json](./118711-minecraft-earth.json) |
@@ -6043,6 +6047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner Ultra Rag Smash | 163918 | [163918-miner-ultra-rag-smash.json](./163918-miner-ultra-rag-smash.json) |
 | Miner: Dig Deep | 23846 | [23846-miner-dig-deep.json](./23846-miner-dig-deep.json) |
 | Mineral | 302438 | [302438-mineral.json](./302438-mineral.json) |
+| Mineral Defense | 326685 | [326685-mineral-defense.json](./326685-mineral-defense.json) |
 | MineRalph | 112260 | [112260-mineralph.json](./112260-mineralph.json) |
 | Minerals: Deep Core Mining | 404349 | [404349-minerals-deep-core-mining.json](./404349-minerals-deep-core-mining.json) |
 | Minerest | 184883 | [184883-minerest.json](./184883-minerest.json) |
