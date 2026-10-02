@@ -3692,6 +3692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flecto | 407325 | [407325-flecto.json](./407325-flecto.json) |
 | Fledge | 257909 | [257909-fledge.json](./257909-fledge.json) |
 | Fledgling Heroes | 124027 | [124027-fledgling-heroes.json](./124027-fledgling-heroes.json) |
+| Fledglings | 285685 | [285685-fledglings.json](./285685-fledglings.json) |
 | Flee or Be: Chapter One - Lurking Alone | 305535 | [305535-flee-or-be-chapter-one-lurking-alone.json](./305535-flee-or-be-chapter-one-lurking-alone.json) |
 | Flee the Backrooms | 238744 | [238744-flee-the-backrooms.json](./238744-flee-the-backrooms.json) |
 | Flee the Fallen | 370307 | [370307-flee-the-fallen.json](./370307-flee-the-fallen.json) |
