@@ -756,6 +756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Forester | 35760 | [35760-dark-forester.json](./35760-dark-forester.json) |
 | Dark Frontiers | 203362 | [203362-dark-frontiers.json](./203362-dark-frontiers.json) |
 | Dark Gates | 36166 | [36166-dark-gates.json](./36166-dark-gates.json) |
+| Dark Gaze: Curse of the Black Nazar | 279853 | [279853-dark-gaze-curse-of-the-black-nazar.json](./279853-dark-gaze-curse-of-the-black-nazar.json) |
 | Dark Ghost RPG | 96879 | [96879-dark-ghost-rpg.json](./96879-dark-ghost-rpg.json) |
 | Dark Goddess of Destruction | 339364 | [339364-dark-goddess-of-destruction.json](./339364-dark-goddess-of-destruction.json) |
 | Dark Grid | 373014 | [373014-dark-grid.json](./373014-dark-grid.json) |
