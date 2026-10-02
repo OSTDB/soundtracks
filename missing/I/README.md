@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I am Tasi | 133396 | [133396-i-am-tasi.json](./133396-i-am-tasi.json) |
 | I Am the Captain Now | 153402 | [153402-i-am-the-captain-now.json](./153402-i-am-the-captain-now.json) |
 | I Am The Caretaker | 177315 | [177315-i-am-the-caretaker.json](./177315-i-am-the-caretaker.json) |
+| I Am The Registered Environmental Engineer | 309562 | [309562-i-am-the-registered-environmental-engineer.json](./309562-i-am-the-registered-environmental-engineer.json) |
 | I Am the Sun | 183369 | [183369-i-am-the-sun.json](./183369-i-am-the-sun.json) |
 | I am Titan | 301005 | [301005-i-am-titan.json](./301005-i-am-titan.json) |
 | I Am Your Beast VR | 360781 | [360781-i-am-your-beast-vr.json](./360781-i-am-your-beast-vr.json) |
@@ -467,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iCarly: iDream in Toons | 210060 | [210060-icarly-idream-in-toons.json](./210060-icarly-idream-in-toons.json) |
 | Icarus | 245054 | [245054-icarus.json](./245054-icarus.json) |
 | Icarus Challenge | 210893 | [210893-icarus-challenge.json](./210893-icarus-challenge.json) |
+| Icarus M: Guild War | 309569 | [309569-icarus-m-guild-war.json](./309569-icarus-m-guild-war.json) |
 | Icarus Online | 62770 | [62770-icarus-online.json](./62770-icarus-online.json) |
 | Icarus Proudbottom's World of Typing Weekly! | 61865 | [61865-icarus-proudbottoms-world-of-typing-weekly.json](./61865-icarus-proudbottoms-world-of-typing-weekly.json) |
 | Icarus-X | 341074 | [341074-icarus-x.json](./341074-icarus-x.json) |
@@ -493,6 +495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Age: Arctic Blast | 58325 | [58325-ice-age-arctic-blast.json](./58325-ice-age-arctic-blast.json) |
 | Ice Age: Continental Drift | 282576 | [282576-ice-age-continental-drift.json](./282576-ice-age-continental-drift.json) |
 | Ice Age: Continental Drift - Arctic Games | 20002 | [20002-ice-age-continental-drift-arctic-games.json](./20002-ice-age-continental-drift-arctic-games.json) |
+| Ice Age: Continental Drift - Arctic Games | 309577 | [309577-ice-age-continental-drift-arctic-games.json](./309577-ice-age-continental-drift-arctic-games.json) |
 | Ice Age: Scrat's Nutty Adventure | 119930 | [119930-ice-age-scrats-nutty-adventure.json](./119930-ice-age-scrats-nutty-adventure.json) |
 | Ice Age: The DVD Game | 364525 | [364525-ice-age-the-dvd-game.json](./364525-ice-age-the-dvd-game.json) |
 | Ice Agent | 110771 | [110771-ice-agent.json](./110771-ice-agent.json) |
