@@ -161,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cafe Mahjongg | 52720 | [52720-cafe-mahjongg.json](./52720-cafe-mahjongg.json) |
 | Cafe Maid | 243764 | [243764-cafe-maid.json](./243764-cafe-maid.json) |
 | Cafe Owner Simulator | 191851 | [191851-cafe-owner-simulator.json](./191851-cafe-owner-simulator.json) |
+| Cafe Owner Simulator: Farm DLC | 296632 | [296632-cafe-owner-simulator-farm-dlc.json](./296632-cafe-owner-simulator-farm-dlc.json) |
 | Cafe Panic | 296075 | [296075-cafe-panic.json](./296075-cafe-panic.json) |
 | Cafe Simulator | 380048 | [380048-cafe-simulator.json](./380048-cafe-simulator.json) |
 | Café Stella and the Reaper's Butterflies | 195774 | [195774-cafe-stella-and-the-reapers-butterflies.json](./195774-cafe-stella-and-the-reapers-butterflies.json) |
@@ -433,6 +434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calm Before The Storm | 316852 | [316852-calm-before-the-storm.json](./316852-calm-before-the-storm.json) |
 | Calm Cards: Klondike | 88356 | [88356-calm-cards-klondike.json](./88356-calm-cards-klondike.json) |
 | Calm Cove | 272243 | [272243-calm-cove.json](./272243-calm-cove.json) |
+| Calm Down Princess | 296626 | [296626-calm-down-princess.json](./296626-calm-down-princess.json) |
 | Calm Down, Stalin | 32011 | [32011-calm-down-stalin.json](./32011-calm-down-stalin.json) |
 | Calm Down, Stalin VR | 286535 | [286535-calm-down-stalin-vr.json](./286535-calm-down-stalin-vr.json) |
 | Calm Down, Stalin: The First Person | 161351 | [161351-calm-down-stalin-the-first-person.json](./161351-calm-down-stalin-the-first-person.json) |
@@ -2606,6 +2608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chachacha Slot | 87296 | [87296-chachacha-slot.json](./87296-chachacha-slot.json) |
 | Chack'n Pop | 6103 | [6103-chackn-pop.json](./6103-chackn-pop.json) |
 | Chadboy | 241618 | [241618-chadboy.json](./241618-chadboy.json) |
+| Chadgeon: Enjoyers Edition+ | 296635 | [296635-chadgeon-enjoyers-edition.json](./296635-chadgeon-enjoyers-edition.json) |
 | Chagunitzu | 79586 | [79586-chagunitzu.json](./79586-chagunitzu.json) |
 | Chai | 236280 | [236280-chai.json](./236280-chai.json) |
 | Chai Glide | 414443 | [414443-chai-glide.json](./414443-chai-glide.json) |
@@ -2667,6 +2670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Challenge 100 | 359419 | [359419-challenge-100.json](./359419-challenge-100.json) |
 | Challenge Dream Cat | 179997 | [179997-challenge-dream-cat.json](./179997-challenge-dream-cat.json) |
 | Challenge from Kiyoshi | 141772 | [141772-challenge-from-kiyoshi.json](./141772-challenge-from-kiyoshi.json) |
+| Challenge Love | 296608 | [296608-challenge-love.json](./296608-challenge-love.json) |
 | Challenge Me: Math Workout | 21639 | [21639-challenge-me-math-workout.json](./21639-challenge-me-math-workout.json) |
 | Challenge of the Dragon | 48294 | [48294-challenge-of-the-dragon.json](./48294-challenge-of-the-dragon.json) |
 | Challenge of the Tentacle | 217872 | [217872-challenge-of-the-tentacle.json](./217872-challenge-of-the-tentacle.json) |
@@ -6967,6 +6971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cool Kid Cody: Season 2 - Episode 04 | 248017 | [248017-cool-kid-cody-season-2-episode-04.json](./248017-cool-kid-cody-season-2-episode-04.json) |
 | Cool Kid Cody: Season 2 - Episode 09 | 253977 | [253977-cool-kid-cody-season-2-episode-09.json](./253977-cool-kid-cody-season-2-episode-09.json) |
 | Cool Kid Cody: Season 2 - Episode 10 | 252693 | [252693-cool-kid-cody-season-2-episode-10.json](./252693-cool-kid-cody-season-2-episode-10.json) |
+| Cool Kid Cody: Season 3 - Episode 01 | 296596 | [296596-cool-kid-cody-season-3-episode-01.json](./296596-cool-kid-cody-season-3-episode-01.json) |
 | Cool Kid Cody: Season 3 - Episode 03 | 302582 | [302582-cool-kid-cody-season-3-episode-03.json](./302582-cool-kid-cody-season-3-episode-03.json) |
 | Cool Kid Cody: Season 3 - Episode 04 | 302583 | [302583-cool-kid-cody-season-3-episode-04.json](./302583-cool-kid-cody-season-3-episode-04.json) |
 | Cool Kid Cody: Season 3 - Episode 05 | 302584 | [302584-cool-kid-cody-season-3-episode-05.json](./302584-cool-kid-cody-season-3-episode-05.json) |
@@ -8708,6 +8713,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossout: Cleaner Starter Pack | 243104 | [243104-crossout-cleaner-starter-pack.json](./243104-crossout-cleaner-starter-pack.json) |
 | Crossout: Corrida Pack | 226822 | [226822-crossout-corrida-pack.json](./226822-crossout-corrida-pack.json) |
 | Crossout: Day of the Dead Pack | 226823 | [226823-crossout-day-of-the-dead-pack.json](./226823-crossout-day-of-the-dead-pack.json) |
+| Crossout: Dragonfly | 296630 | [296630-crossout-dragonfly.json](./296630-crossout-dragonfly.json) |
+| Crossout: Dragonfly - Deluxe Edition | 296610 | [296610-crossout-dragonfly-deluxe-edition.json](./296610-crossout-dragonfly-deluxe-edition.json) |
+| Crossout: Dragonfly - Lite Edition | 296611 | [296611-crossout-dragonfly-lite-edition.json](./296611-crossout-dragonfly-lite-edition.json) |
 | Crossout: Drive Pack | 226824 | [226824-crossout-drive-pack.json](./226824-crossout-drive-pack.json) |
 | Crossout: Early Access Pack | 302581 | [302581-crossout-early-access-pack.json](./302581-crossout-early-access-pack.json) |
 | Crossout: Electric beetle | 293760 | [293760-crossout-electric-beetle.json](./293760-crossout-electric-beetle.json) |
