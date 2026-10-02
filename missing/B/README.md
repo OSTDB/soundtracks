@@ -4013,6 +4013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BioShock: Ultimate Rapture Edition | 47467 | [47467-bioshock-ultimate-rapture-edition.json](./47467-bioshock-ultimate-rapture-edition.json) |
 | Biosmose | 260644 | [260644-biosmose.json](./260644-biosmose.json) |
 | Biosphere | 185531 | [185531-biosphere.json](./185531-biosphere.json) |
+| BioStorm | 309007 | [309007-biostorm.json](./309007-biostorm.json) |
 | Biosupremacy | 29793 | [29793-biosupremacy.json](./29793-biosupremacy.json) |
 | BioSwarm | 297472 | [297472-bioswarm.json](./297472-bioswarm.json) |
 | BioSynth: Rising | 336892 | [336892-biosynth-rising.json](./336892-biosynth-rising.json) |
@@ -4144,6 +4145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bishoujo Mangekyou: Norowareshi Densetsu no Shoujo | 115722 | [115722-bishoujo-mangekyou-norowareshi-densetsu-no-shoujo.json](./115722-bishoujo-mangekyou-norowareshi-densetsu-no-shoujo.json) |
 | Bishoujo Mangekyou: Wasurenagusa to Eien no Shoujo | 115723 | [115723-bishoujo-mangekyou-wasurenagusa-to-eien-no-shoujo.json](./115723-bishoujo-mangekyou-wasurenagusa-to-eien-no-shoujo.json) |
 | Bishoujo Senshi Sailor Moon | 38279 | [38279-bishoujo-senshi-sailor-moon.json](./38279-bishoujo-senshi-sailor-moon.json) |
+| Bishoujo Senshi Sailor Moon R | 309013 | [309013-bishoujo-senshi-sailor-moon-r.json](./309013-bishoujo-senshi-sailor-moon-r.json) |
 | Bishoujo Senshi Sailor Moon R: Moon Sensation! | 385787 | [385787-bishoujo-senshi-sailor-moon-r-moon-sensation.json](./385787-bishoujo-senshi-sailor-moon-r-moon-sensation.json) |
 | Bishoujo Senshi Sailor Moon R: Sailor Senshi Sanjou! | 385783 | [385783-bishoujo-senshi-sailor-moon-r-sailor-senshi-sanjou.json](./385783-bishoujo-senshi-sailor-moon-r-sailor-senshi-sanjou.json) |
 | Bishoujo Senshi Sailor Moon S: Kondo ha Puzzle de Oshioki yo!! | 38274 | [38274-bishoujo-senshi-sailor-moon-s-kondo-ha-puzzle-de-oshioki-yo.json](./38274-bishoujo-senshi-sailor-moon-s-kondo-ha-puzzle-de-oshioki-yo.json) |
@@ -7150,6 +7152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bratz: Girlz Really Rock | 43248 | [43248-bratz-girlz-really-rock.json](./43248-bratz-girlz-really-rock.json) |
 | Bratz: The Movie | 248612 | [248612-bratz-the-movie.json](./248612-bratz-the-movie.json) |
 | Brave 22 | 263507 | [263507-brave-22.json](./263507-brave-22.json) |
+| Brave and Glory | 309022 | [309022-brave-and-glory.json](./309022-brave-and-glory.json) |
 | Brave Arms | 65527 | [65527-brave-arms.json](./65527-brave-arms.json) |
 | Brave Battle Saga the Space Fighter | 45542 | [45542-brave-battle-saga-the-space-fighter.json](./45542-brave-battle-saga-the-space-fighter.json) |
 | Brave Blades | 224075 | [224075-brave-blades.json](./224075-brave-blades.json) |
