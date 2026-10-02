@@ -1061,6 +1061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wartune | 23652 | [23652-wartune.json](./23652-wartune.json) |
 | WarUniverse | 123614 | [123614-waruniverse.json](./123614-waruniverse.json) |
 | WarWest | 112336 | [112336-warwest.json](./112336-warwest.json) |
+| Warzone | 308473 | [308473-warzone.json](./308473-warzone.json) |
 | WarZone | 370920 | [370920-warzone.json](./370920-warzone.json) |
 | Warzone Chronicles: Virtual Warfare Shooter | 283217 | [283217-warzone-chronicles-virtual-warfare-shooter.json](./283217-warzone-chronicles-virtual-warfare-shooter.json) |
 | Warzone Chronicles: Virtual Warfare Shooter - Premium Edition | 308795 | [308795-warzone-chronicles-virtual-warfare-shooter-premium-edition.json](./308795-warzone-chronicles-virtual-warfare-shooter-premium-edition.json) |
@@ -2141,6 +2142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Which Comes First? | 60628 | [60628-which-comes-first.json](./60628-which-comes-first.json) |
 | Which Country Is Larger? | 294819 | [294819-which-country-is-larger.json](./294819-which-country-is-larger.json) |
 | Which hand? | 379866 | [379866-which-hand.json](./379866-which-hand.json) |
+| Which Kanji? So Fancy! | 308486 | [308486-which-kanji-so-fancy.json](./308486-which-kanji-so-fancy.json) |
 | Which Naruto Character Are You? | 230540 | [230540-which-naruto-character-are-you.json](./230540-which-naruto-character-are-you.json) |
 | Which Place in the World? Sightseeing Word Quiz | 100314 | [100314-which-place-in-the-world-sightseeing-word-quiz.json](./100314-which-place-in-the-world-sightseeing-word-quiz.json) |
 | Which Way | 246372 | [246372-which-way.json](./246372-which-way.json) |
