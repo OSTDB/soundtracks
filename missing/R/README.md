@@ -1718,6 +1718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebuilding Civilization | 355227 | [355227-rebuilding-civilization.json](./355227-rebuilding-civilization.json) |
 | Rebungered!! That Time I Got Reincarnated As A Bunger! | 405474 | [405474-rebungered-that-time-i-got-reincarnated-as-a-bunger.json](./405474-rebungered-that-time-i-got-reincarnated-as-a-bunger.json) |
 | Rebut! | 389003 | [389003-rebut.json](./389003-rebut.json) |
+| Rec | 322669 | [322669-rec.json](./322669-rec.json) |
 | Rec Room | 32617 | [32617-rec-room.json](./32617-rec-room.json) |
 | Rec: Beyond The Lens | 255957 | [255957-rec-beyond-the-lens.json](./255957-rec-beyond-the-lens.json) |
 | Recalcitrant | 326273 | [326273-recalcitrant.json](./326273-recalcitrant.json) |
