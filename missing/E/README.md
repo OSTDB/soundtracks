@@ -961,6 +961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elder Village | 123490 | [123490-elder-village.json](./123490-elder-village.json) |
 | Elder's Grace: Rise of the Mobley | 248667 | [248667-elders-grace-rise-of-the-mobley.json](./248667-elders-grace-rise-of-the-mobley.json) |
 | Elder's Grace: Unchained | 266309 | [266309-elders-grace-unchained.json](./266309-elders-grace-unchained.json) |
+| Elder's Will | 293845 | [293845-elders-will.json](./293845-elders-will.json) |
 | Elderborn: Metal AF Edition | 154951 | [154951-elderborn-metal-af-edition.json](./154951-elderborn-metal-af-edition.json) |
 | Eldercraft: Mountaineers | 336591 | [336591-eldercraft-mountaineers.json](./336591-eldercraft-mountaineers.json) |
 | Elderfeast | 408071 | [408071-elderfeast.json](./408071-elderfeast.json) |
@@ -3038,6 +3039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eukarion Tales: Origins | 259581 | [259581-eukarion-tales-origins.json](./259581-eukarion-tales-origins.json) |
 | Euler Wars | 130166 | [130166-euler-wars.json](./130166-euler-wars.json) |
 | Eulogy for Nonno | 374813 | [374813-eulogy-for-nonno.json](./374813-eulogy-for-nonno.json) |
+| Eunae Liaro in: Fowl Play | 293334 | [293334-eunae-liaro-in-fowl-play.json](./293334-eunae-liaro-in-fowl-play.json) |
 | EunHye DS | 217839 | [217839-eunhye-ds.json](./217839-eunhye-ds.json) |
 | Euotopia | 261901 | [261901-euotopia.json](./261901-euotopia.json) |
 | Euphionia: The Tree Spirit's Curse | 330965 | [330965-euphionia-the-tree-spirits-curse.json](./330965-euphionia-the-tree-spirits-curse.json) |
@@ -3214,6 +3216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Event Horizon | 271755 | [271755-event-horizon.json](./271755-event-horizon.json) |
 | Event Horizon | 32923 | [32923-event-horizon.json](./32923-event-horizon.json) |
 | Event Race | 280349 | [280349-event-race.json](./280349-event-race.json) |
+| Event Race: Bob's Art Table Tracks | 293864 | [293864-event-race-bobs-art-table-tracks.json](./293864-event-race-bobs-art-table-tracks.json) |
 | Event World VR | 295523 | [295523-event-world-vr.json](./295523-event-world-vr.json) |
 | Event[0] | 18397 | [18397-event-0.json](./18397-event-0.json) |
 | Eventide 2: The Sorcerers Mirror | 31825 | [31825-eventide-2-the-sorcerers-mirror.json](./31825-eventide-2-the-sorcerers-mirror.json) |
