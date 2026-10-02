@@ -1078,6 +1078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dart Rage | 50735 | [50735-dart-rage.json](./50735-dart-rage.json) |
 | Dart The Dog | 304701 | [304701-dart-the-dog.json](./304701-dart-the-dog.json) |
 | Dartford Street | 183593 | [183593-dartford-street.json](./183593-dartford-street.json) |
+| Darth Vader Tamagotchi | 329787 | [329787-darth-vader-tamagotchi.json](./329787-darth-vader-tamagotchi.json) |
 | Darthy | 34374 | [34374-darthy.json](./34374-darthy.json) |
 | DartMUD: Lands of Ferdarchi | 349935 | [349935-dartmud-lands-of-ferdarchi.json](./349935-dartmud-lands-of-ferdarchi.json) |
 | Darts | 159273 | [159273-darts.json](./159273-darts.json) |
@@ -3771,6 +3772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Advocate: Alexander Twist | 224581 | [224581-devils-advocate-alexander-twist.json](./224581-devils-advocate-alexander-twist.json) |
 | Devil's Affliction | 26681 | [26681-devils-affliction.json](./26681-devils-affliction.json) |
 | Devil's Bluff | 34941 | [34941-devils-bluff.json](./34941-devils-bluff.json) |
+| Devil's Corp | 329786 | [329786-devils-corp.json](./329786-devils-corp.json) |
 | Devil's Crown | 13592 | [13592-devils-crown.json](./13592-devils-crown.json) |
 | Devil's Dare | 8798 | [8798-devils-dare.json](./8798-devils-dare.json) |
 | Devil's Deck: Astray Destiny | 207370 | [207370-devils-deck-astray-destiny.json](./207370-devils-deck-astray-destiny.json) |
@@ -3821,6 +3823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devotion | 107228 | [107228-devotion.json](./107228-devotion.json) |
 | Devour | 181916 | [181916-devour.json](./181916-devour.json) |
 | Devtheism | 134512 | [134512-devtheism.json](./134512-devtheism.json) |
+| DevTycoon | 329780 | [329780-devtycoon.json](./329780-devtycoon.json) |
 | Devwill Too ZX | 333924 | [333924-devwill-too-zx.json](./333924-devwill-too-zx.json) |
 | Devyat' princev Ambera | 305174 | [305174-devyat-princev-ambera.json](./305174-devyat-princev-ambera.json) |
 | Dew | 343439 | [343439-dew.json](./343439-dew.json) |
@@ -4425,8 +4428,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino City | 42202 | [42202-dino-city.json](./42202-dino-city.json) |
 | Dino Crisis | 3027 | [3027-dino-crisis.json](./3027-dino-crisis.json) |
 | Dino Crisis | 317628 | [317628-dino-crisis.json](./317628-dino-crisis.json) |
+| Dino Crisis | 329772 | [329772-dino-crisis.json](./329772-dino-crisis.json) |
+| Dino Crisis 2 | 329776 | [329776-dino-crisis-2.json](./329776-dino-crisis-2.json) |
 | Dino Crisis 2 | 4132 | [4132-dino-crisis-2.json](./4132-dino-crisis-2.json) |
 | Dino Crisis 2 | 416083 | [416083-dino-crisis-2.json](./416083-dino-crisis-2.json) |
+| Dino Crisis Bundle | 329777 | [329777-dino-crisis-bundle.json](./329777-dino-crisis-bundle.json) |
 | Dino Crisis: 5th Anniversary | 161345 | [161345-dino-crisis-5th-anniversary.json](./161345-dino-crisis-5th-anniversary.json) |
 | Dino Crisis: Dungeon in Chaos | 146923 | [146923-dino-crisis-dungeon-in-chaos.json](./146923-dino-crisis-dungeon-in-chaos.json) |
 | Dino Cub | 188914 | [188914-dino-cub.json](./188914-dino-cub.json) |
