@@ -2677,6 +2677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Simulator | 145439 | [145439-escape-simulator.json](./145439-escape-simulator.json) |
 | Escape Simulator 2 | 325646 | [325646-escape-simulator-2.json](./325646-escape-simulator-2.json) |
 | Escape Simulator 2: Apocalypse DLC | 407417 | [407417-escape-simulator-2-apocalypse-dlc.json](./407417-escape-simulator-2-apocalypse-dlc.json) |
+| Escape Simulator: Among Us | 280413 | [280413-escape-simulator-among-us.json](./280413-escape-simulator-among-us.json) |
 | Escape Simulator: Mayan DLC | 321345 | [321345-escape-simulator-mayan-dlc.json](./321345-escape-simulator-mayan-dlc.json) |
 | Escape Simulator: PowerWash DLC | 306583 | [306583-escape-simulator-powerwash-dlc.json](./306583-escape-simulator-powerwash-dlc.json) |
 | Escape Simulator: Spy | 365719 | [365719-escape-simulator-spy.json](./365719-escape-simulator-spy.json) |
@@ -4007,6 +4008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exсive A-1000 | 113714 | [113714-ex-ive-a-1000.json](./113714-ex-ive-a-1000.json) |
 | Eyad and Hala | 186182 | [186182-eyad-and-hala.json](./186182-eyad-and-hala.json) |
 | Eye | 13656 | [13656-eye.json](./13656-eye.json) |
+| Eye | 280425 | [280425-eye.json](./280425-eye.json) |
 | Eye Can See You | 208475 | [208475-eye-can-see-you.json](./208475-eye-can-see-you.json) |
 | Eye For Blood | 217327 | [217327-eye-for-blood.json](./217327-eye-for-blood.json) |
 | Eye Juice | 403205 | [403205-eye-juice.json](./403205-eye-juice.json) |
