@@ -1845,6 +1845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orange Santa | 151131 | [151131-orange-santa.json](./151131-orange-santa.json) |
 | Orange Season | 34231 | [34231-orange-season.json](./34231-orange-season.json) |
 | Orange Simulator | 351769 | [351769-orange-simulator.json](./351769-orange-simulator.json) |
+| Orange: The Annoying Clicker | 314358 | [314358-orange-the-annoying-clicker.json](./314358-orange-the-annoying-clicker.json) |
 | Orangeblood | 119591 | [119591-orangeblood.json](./119591-orangeblood.json) |
 | Oranges | 270716 | [270716-oranges.json](./270716-oranges.json) |
 | Orangia | 366934 | [366934-orangia.json](./366934-orangia.json) |
