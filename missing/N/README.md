@@ -3319,6 +3319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nora and Frank | 358925 | [358925-nora-and-frank.json](./358925-nora-and-frank.json) |
 | Nora to Oujo to Noraneko Heart 2 | 205267 | [205267-nora-to-oujo-to-noraneko-heart-2.json](./205267-nora-to-oujo-to-noraneko-heart-2.json) |
 | Nora to Oujo to Noraneko Heart 2: Dakimakura Cover Set | 136972 | [136972-nora-to-oujo-to-noraneko-heart-2-dakimakura-cover-set.json](./136972-nora-to-oujo-to-noraneko-heart-2-dakimakura-cover-set.json) |
+| Nora Wanna Rise | 291709 | [291709-nora-wanna-rise.json](./291709-nora-wanna-rise.json) |
 | Nora: Forest Nights | 298654 | [298654-nora-forest-nights.json](./298654-nora-forest-nights.json) |
 | Nora: In Search of Hidden Ingredients | 306334 | [306334-nora-in-search-of-hidden-ingredients.json](./306334-nora-in-search-of-hidden-ingredients.json) |
 | Nora's Dream | 200732 | [200732-noras-dream.json](./200732-noras-dream.json) |
