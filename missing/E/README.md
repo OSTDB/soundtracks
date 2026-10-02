@@ -1808,6 +1808,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Space: Definitive Edition | 231650 | [231650-endless-space-definitive-edition.json](./231650-endless-space-definitive-edition.json) |
 | Endless Space: Emperor Edition | 28083 | [28083-endless-space-emperor-edition.json](./28083-endless-space-emperor-edition.json) |
 | Endless Suburbia | 255700 | [255700-endless-suburbia.json](./255700-endless-suburbia.json) |
+| Endless Summer: Book 1 | 313747 | [313747-endless-summer-book-1.json](./313747-endless-summer-book-1.json) |
+| Endless Summer: Book 2 | 313748 | [313748-endless-summer-book-2.json](./313748-endless-summer-book-2.json) |
+| Endless Summer: Book 3 | 313749 | [313749-endless-summer-book-3.json](./313749-endless-summer-book-3.json) |
 | Endless Surf | 187827 | [187827-endless-surf.json](./187827-endless-surf.json) |
 | Endless Thief: a Furry Stealth Adventure | 201567 | [201567-endless-thief-a-furry-stealth-adventure.json](./201567-endless-thief-a-furry-stealth-adventure.json) |
 | Endless Turns | 117807 | [117807-endless-turns.json](./117807-endless-turns.json) |
