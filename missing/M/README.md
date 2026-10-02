@@ -6073,6 +6073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Star Wars - Path of the Jedi | 272800 | [272800-minecraft-star-wars-path-of-the-jedi.json](./272800-minecraft-star-wars-path-of-the-jedi.json) |
 | Minecraft: Star Wars Classic Skin Pack | 303041 | [303041-minecraft-star-wars-classic-skin-pack.json](./303041-minecraft-star-wars-classic-skin-pack.json) |
 | MInecraft: Star Wars Prequel Skin Pack | 302666 | [302666-minecraft-star-wars-prequel-skin-pack.json](./302666-minecraft-star-wars-prequel-skin-pack.json) |
+| Minecraft: Star Wars Sequel Skin Pack | 303141 | [303141-minecraft-star-wars-sequel-skin-pack.json](./303141-minecraft-star-wars-sequel-skin-pack.json) |
 | Minecraft: Steven Universe Mash-up | 235338 | [235338-minecraft-steven-universe-mash-up.json](./235338-minecraft-steven-universe-mash-up.json) |
 | Minecraft: Story Mode - Episode 1: The Order of the Stone | 85612 | [85612-minecraft-story-mode-episode-1-the-order-of-the-stone.json](./85612-minecraft-story-mode-episode-1-the-order-of-the-stone.json) |
 | Minecraft: Story Mode - Episode 5: Order Up! | 91295 | [91295-minecraft-story-mode-episode-5-order-up.json](./91295-minecraft-story-mode-episode-5-order-up.json) |
@@ -6524,6 +6525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirage Noir | 309655 | [309655-mirage-noir.json](./309655-mirage-noir.json) |
 | Mirage: Beyond the Screen | 278530 | [278530-mirage-beyond-the-screen.json](./278530-mirage-beyond-the-screen.json) |
 | Mirage: Illusions | 326977 | [326977-mirage-illusions.json](./326977-mirage-illusions.json) |
+| Mirage: Perfect Skyline | 303194 | [303194-mirage-perfect-skyline.json](./303194-mirage-perfect-skyline.json) |
 | Mirages | 223433 | [223433-mirages.json](./223433-mirages.json) |
 | Miragine War | 176890 | [176890-miragine-war.json](./176890-miragine-war.json) |
 | Mirai | 200755 | [200755-mirai.json](./200755-mirai.json) |
@@ -6922,6 +6924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB 9 Innings 18 | 96267 | [96267-mlb-9-innings-18.json](./96267-mlb-9-innings-18.json) |
 | MLB 9 Innings 21 | 145538 | [145538-mlb-9-innings-21.json](./145538-mlb-9-innings-21.json) |
 | MLB 9 Innings 23 | 243137 | [243137-mlb-9-innings-23.json](./243137-mlb-9-innings-23.json) |
+| MLB 9 Innings 24 | 303182 | [303182-mlb-9-innings-24.json](./303182-mlb-9-innings-24.json) |
 | MLB 98 | 28190 | [28190-mlb-98.json](./28190-mlb-98.json) |
 | MLB 99 | 28191 | [28191-mlb-99.json](./28191-mlb-99.json) |
 | MLB Ballpark Empire | 61354 | [61354-mlb-ballpark-empire.json](./61354-mlb-ballpark-empire.json) |
@@ -8451,6 +8454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat X: Klassic Fatalities 2 | 340022 | [340022-mortal-kombat-x-klassic-fatalities-2.json](./340022-mortal-kombat-x-klassic-fatalities-2.json) |
 | Mortal Kombat X: Kold War Scorpion | 340201 | [340201-mortal-kombat-x-kold-war-scorpion.json](./340201-mortal-kombat-x-kold-war-scorpion.json) |
 | Mortal Kombat X: Predator | 164819 | [164819-mortal-kombat-x-predator.json](./164819-mortal-kombat-x-predator.json) |
+| Mortal Kombat X: Predator/Prey Pack | 303142 | [303142-mortal-kombat-x-predator-prey-pack.json](./303142-mortal-kombat-x-predator-prey-pack.json) |
 | Mortal Kombat X: Premium Edition | 53367 | [53367-mortal-kombat-x-premium-edition.json](./53367-mortal-kombat-x-premium-edition.json) |
 | Mortal Kombat X: Special Edition | 140997 | [140997-mortal-kombat-x-special-edition.json](./140997-mortal-kombat-x-special-edition.json) |
 | Mortal Kombat: Kollector's Edition | 44559 | [44559-mortal-kombat-kollectors-edition.json](./44559-mortal-kombat-kollectors-edition.json) |
