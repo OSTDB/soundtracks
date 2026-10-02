@@ -715,6 +715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VentureVerse: Legend of Ulora | 108623 | [108623-ventureverse-legend-of-ulora.json](./108623-ventureverse-legend-of-ulora.json) |
 | Venturous in the Footsteps of the Fallen | 269565 | [269565-venturous-in-the-footsteps-of-the-fallen.json](./269565-venturous-in-the-footsteps-of-the-fallen.json) |
 | Venus & Braves: Majo to Megami to Horobi no Yogen | 84319 | [84319-venus-and-braves-majo-to-megami-to-horobi-no-yogen.json](./84319-venus-and-braves-majo-to-megami-to-horobi-no-yogen.json) |
+| Venus Eleven Vivid! | 327936 | [327936-venus-eleven-vivid.json](./327936-venus-eleven-vivid.json) |
 | Venus Flytraps | 234593 | [234593-venus-flytraps.json](./234593-venus-flytraps.json) |
 | Venus in Furs: Sensual Pleasure | 215674 | [215674-venus-in-furs-sensual-pleasure.json](./215674-venus-in-furs-sensual-pleasure.json) |
 | Venus in Transit | 395581 | [395581-venus-in-transit.json](./395581-venus-in-transit.json) |
