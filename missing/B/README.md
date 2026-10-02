@@ -399,6 +399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Banker | 57747 | [57747-bad-banker.json](./57747-bad-banker.json) |
 | Bad Bitch Blasters | 337996 | [337996-bad-bitch-blasters.json](./337996-bad-bitch-blasters.json) |
 | Bad Blood | 11335 | [11335-bad-blood.json](./11335-bad-blood.json) |
+| Bad Blood: 1926 | 297709 | [297709-bad-blood-1926.json](./297709-bad-blood-1926.json) |
 | Bad Bots | 10130 | [10130-bad-bots.json](./10130-bad-bots.json) |
 | Bad Bots Battle Arena | 166699 | [166699-bad-bots-battle-arena.json](./166699-bad-bots-battle-arena.json) |
 | Bad Bots Rises | 27758 | [27758-bad-bots-rises.json](./27758-bad-bots-rises.json) |
@@ -735,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Sort Puzzle | 180152 | [180152-ball-sort-puzzle.json](./180152-ball-sort-puzzle.json) |
 | Ball Space | 369735 | [369735-ball-space.json](./369735-ball-space.json) |
 | Ball Torture | 205242 | [205242-ball-torture.json](./205242-ball-torture.json) |
+| Ball Tour | 297718 | [297718-ball-tour.json](./297718-ball-tour.json) |
 | Ball Travel | 351755 | [351755-ball-travel.json](./351755-ball-travel.json) |
 | Ball Turn | 105402 | [105402-ball-turn.json](./105402-ball-turn.json) |
 | Ball Vader MAX | 115432 | [115432-ball-vader-max.json](./115432-ball-vader-max.json) |
@@ -2638,6 +2640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Saber: Daft Punk - "Around The World" | 296494 | [296494-beat-saber-daft-punk-around-the-world.json](./296494-beat-saber-daft-punk-around-the-world.json) |
 | Beat Saber: Daft Punk - "Da Funk / Daftendirekt" | 298063 | [298063-beat-saber-daft-punk-da-funk-daftendirekt.json](./298063-beat-saber-daft-punk-da-funk-daftendirekt.json) |
 | Beat Saber: Daft Punk - "Get Lucky (feat. Pharrell Williams and Nile Rodgers)" | 298098 | [298098-beat-saber-daft-punk-get-lucky-feat-pharrell-williams-and-nile-rodgers.json](./298098-beat-saber-daft-punk-get-lucky-feat-pharrell-williams-and-nile-rodgers.json) |
+| Beat Saber: Daft Punk - "Harder, Better, Faster, Stronger" | 297731 | [297731-beat-saber-daft-punk-harder-better-faster-stronger.json](./297731-beat-saber-daft-punk-harder-better-faster-stronger.json) |
 | Beat Saber: Daft Punk - "Lose Yourself to Dance (feat. Pharrell Williams)" | 298030 | [298030-beat-saber-daft-punk-lose-yourself-to-dance-feat-pharrell-williams.json](./298030-beat-saber-daft-punk-lose-yourself-to-dance-feat-pharrell-williams.json) |
 | Beat Saber: Daft Punk - "One More Time" | 298060 | [298060-beat-saber-daft-punk-one-more-time.json](./298060-beat-saber-daft-punk-one-more-time.json) |
 | Beat Saber: Daft Punk - "Technologic" | 298062 | [298062-beat-saber-daft-punk-technologic.json](./298062-beat-saber-daft-punk-technologic.json) |
@@ -6288,6 +6291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoneTown | 145047 | [145047-bonetown.json](./145047-bonetown.json) |
 | Bonetown: The Power of Death | 35741 | [35741-bonetown-the-power-of-death.json](./35741-bonetown-the-power-of-death.json) |
 | BoneTown: The Second Coming Edition | 173828 | [173828-bonetown-the-second-coming-edition.json](./173828-bonetown-the-second-coming-edition.json) |
+| BoneTown: The Second Coming Edition - Kinks | 297732 | [297732-bonetown-the-second-coming-edition-kinks.json](./297732-bonetown-the-second-coming-edition-kinks.json) |
 | Bonetox | 381180 | [381180-bonetox.json](./381180-bonetox.json) |
 | Boneyard Bounce! | 414604 | [414604-boneyard-bounce.json](./414604-boneyard-bounce.json) |
 | Bonez Adventures: Tomb of Fulaos | 120874 | [120874-bonez-adventures-tomb-of-fulaos.json](./120874-bonez-adventures-tomb-of-fulaos.json) |
