@@ -565,6 +565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warau Salesman 3 | 239576 | [239576-warau-salesman-3.json](./239576-warau-salesman-3.json) |
 | Warauinu no Bouken GB: Silly Go Lucky! | 59400 | [59400-warauinu-no-bouken-gb-silly-go-lucky.json](./59400-warauinu-no-bouken-gb-silly-go-lucky.json) |
 | Warband | 402459 | [402459-warband.json](./402459-warband.json) |
+| Warband Survivors | 311177 | [311177-warband-survivors.json](./311177-warband-survivors.json) |
 | Warbanners | 44166 | [44166-warbanners.json](./44166-warbanners.json) |
 | Warbanners: Death Speaker | 172143 | [172143-warbanners-death-speaker.json](./172143-warbanners-death-speaker.json) |
 | Warbears Mission 01: The Bank Robbery | 237490 | [237490-warbears-mission-01-the-bank-robbery.json](./237490-warbears-mission-01-the-bank-robbery.json) |
@@ -1070,6 +1071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Was It Worth It? | 152811 | [152811-was-it-worth-it.json](./152811-was-it-worth-it.json) |
 | Wasabi Game | 245044 | [245044-wasabi-game.json](./245044-wasabi-game.json) |
 | WASD: The Adventure of Tori | 358333 | [358333-wasd-the-adventure-of-tori.json](./358333-wasd-the-adventure-of-tori.json) |
+| WASDJK | 311198 | [311198-wasdjk.json](./311198-wasdjk.json) |
 | Wash & Warm | 390728 | [390728-wash-and-warm.json](./390728-wash-and-warm.json) |
 | Wash Card | 223705 | [223705-wash-card.json](./223705-wash-card.json) |
 | Wash Simulator: Clean Garage, House, Cars Business Tycoons | 259617 | [259617-wash-simulator-clean-garage-house-cars-business-tycoons.json](./259617-wash-simulator-clean-garage-house-cars-business-tycoons.json) |
@@ -3348,6 +3350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wobble Wobble | 397923 | [397923-wobble-wobble.json](./397923-wobble-wobble.json) |
 | Wobbly Bobbly | 69882 | [69882-wobbly-bobbly.json](./69882-wobbly-bobbly.json) |
 | Wobbly Construction! | 327448 | [327448-wobbly-construction.json](./327448-wobbly-construction.json) |
+| Wobbly Heights | 311197 | [311197-wobbly-heights.json](./311197-wobbly-heights.json) |
 | Wobbly Heist | 411623 | [411623-wobbly-heist.json](./411623-wobbly-heist.json) |
 | Wobbuffet's Puzzle Pack | 233984 | [233984-wobbuffets-puzzle-pack.json](./233984-wobbuffets-puzzle-pack.json) |
 | Wodopom | 315677 | [315677-wodopom.json](./315677-wodopom.json) |
