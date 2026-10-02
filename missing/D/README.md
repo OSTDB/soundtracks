@@ -301,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dame Tu Cosita | 334917 | [334917-dame-tu-cosita.json](./334917-dame-tu-cosita.json) |
 | Damn Daniel: Basket Game | 252818 | [252818-damn-daniel-basket-game.json](./252818-damn-daniel-basket-game.json) |
 | Damn Daniel: White Vans Adventure | 201236 | [201236-damn-daniel-white-vans-adventure.json](./201236-damn-daniel-white-vans-adventure.json) |
+| Damn Dog | 313198 | [313198-damn-dog.json](./313198-damn-dog.json) |
 | Damn it! | 284995 | [284995-damn-it.json](./284995-damn-it.json) |
 | Damn Little Town | 262062 | [262062-damn-little-town.json](./262062-damn-little-town.json) |
 | Damn Love | 402274 | [402274-damn-love.json](./402274-damn-love.json) |
@@ -1168,6 +1169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dasshutsu Girls | 220308 | [220308-dasshutsu-girls.json](./220308-dasshutsu-girls.json) |
 | Dasshutsu Seijin!? Deru Deru Deru de | 222383 | [222383-dasshutsu-seijin-deru-deru-deru-de.json](./222383-dasshutsu-seijin-deru-deru-deru-de.json) |
 | Dasshutsu Youki no Jukai: Nehan no Mori | 138749 | [138749-dasshutsu-youki-no-jukai-nehan-no-mori.json](./138749-dasshutsu-youki-no-jukai-nehan-no-mori.json) |
+| Dastardly & Muttley: Operation - Pigeon Pursuit | 313186 | [313186-dastardly-and-muttley-operation-pigeon-pursuit.json](./313186-dastardly-and-muttley-operation-pigeon-pursuit.json) |
 | Dat Boi 2048 | 202702 | [202702-dat-boi-2048.json](./202702-dat-boi-2048.json) |
 | Data | 114781 | [114781-data.json](./114781-data.json) |
 | Data Ball | 104031 | [104031-data-ball.json](./104031-data-ball.json) |
@@ -1958,6 +1960,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Skies | 22730 | [22730-deadly-skies.json](./22730-deadly-skies.json) |
 | Deadly Sky | 51981 | [51981-deadly-sky.json](./51981-deadly-sky.json) |
 | Deadly Soccer | 242569 | [242569-deadly-soccer.json](./242569-deadly-soccer.json) |
+| Deadly Standards | 313159 | [313159-deadly-standards.json](./313159-deadly-standards.json) |
+| Deadly Standards 2 | 313160 | [313160-deadly-standards-2.json](./313160-deadly-standards-2.json) |
+| Deadly Standards 3 | 313163 | [313163-deadly-standards-3.json](./313163-deadly-standards-3.json) |
+| Deadly Standards 4 | 313165 | [313165-deadly-standards-4.json](./313165-deadly-standards-4.json) |
 | Deadly Standing | 104256 | [104256-deadly-standing.json](./104256-deadly-standing.json) |
 | Deadly Stasis | 29213 | [29213-deadly-stasis.json](./29213-deadly-stasis.json) |
 | Deadly Station | 96523 | [96523-deadly-station.json](./96523-deadly-station.json) |
@@ -2230,6 +2236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathbloom: Chapter 2 | 127103 | [127103-deathbloom-chapter-2.json](./127103-deathbloom-chapter-2.json) |
 | Deathbound | 135796 | [135796-deathbound.json](./135796-deathbound.json) |
 | Deathbound: Accepted by Death | 320735 | [320735-deathbound-accepted-by-death.json](./320735-deathbound-accepted-by-death.json) |
+| Deathbound: Ultimate Edition | 313211 | [313211-deathbound-ultimate-edition.json](./313211-deathbound-ultimate-edition.json) |
 | Deathbulge: Battle of the Bands | 114778 | [114778-deathbulge-battle-of-the-bands.json](./114778-deathbulge-battle-of-the-bands.json) |
 | Deathchase 2002 | 71775 | [71775-deathchase-2002.json](./71775-deathchase-2002.json) |
 | DeathCrank | 34726 | [34726-deathcrank.json](./34726-deathcrank.json) |
@@ -9121,6 +9128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarves: Glory, Death and Loot | 226680 | [226680-dwarves-glory-death-and-loot.json](./226680-dwarves-glory-death-and-loot.json) |
 | Dwarves: Idle Battles | 413753 | [413753-dwarves-idle-battles.json](./413753-dwarves-idle-battles.json) |
 | DwarVRs | 83611 | [83611-dwarvrs.json](./83611-dwarvrs.json) |
+| Dweebers | 313187 | [313187-dweebers.json](./313187-dweebers.json) |
 | DweeMixed: Thwee Pack | 187477 | [187477-dweemixed-thwee-pack.json](./187477-dweemixed-thwee-pack.json) |
 | Dweep | 180148 | [180148-dweep.json](./180148-dweep.json) |
 | Dwell | 394155 | [394155-dwell.json](./394155-dwell.json) |
