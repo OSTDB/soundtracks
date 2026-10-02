@@ -770,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballionaire | 274333 | [274333-ballionaire.json](./274333-ballionaire.json) |
 | Ballista Legend | 117038 | [117038-ballista-legend.json](./117038-ballista-legend.json) |
 | Ballistic | 29767 | [29767-ballistic.json](./29767-ballistic.json) |
+| Ballistic | 302039 | [302039-ballistic.json](./302039-ballistic.json) |
 | Ballistic | 80488 | [80488-ballistic.json](./80488-ballistic.json) |
 | Ballistic Brews | 415866 | [415866-ballistic-brews.json](./415866-ballistic-brews.json) |
 | Ballistic Mini Golf | 74117 | [74117-ballistic-mini-golf.json](./74117-ballistic-mini-golf.json) |
@@ -2370,6 +2371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BDSM Sex: Episode 2 | 295381 | [295381-bdsm-sex-episode-2.json](./295381-bdsm-sex-episode-2.json) |
 | BDSM Sex: Episode 3 | 295382 | [295382-bdsm-sex-episode-3.json](./295382-bdsm-sex-episode-3.json) |
 | BDSM Sex: Episode 4 | 295383 | [295383-bdsm-sex-episode-4.json](./295383-bdsm-sex-episode-4.json) |
+| BDSM Sex: Episode 6 | 302081 | [302081-bdsm-sex-episode-6.json](./302081-bdsm-sex-episode-6.json) |
 | Be | 207329 | [207329-be.json](./207329-be.json) |
 | Be (Not) Afraid | 356832 | [356832-be-not-afraid.json](./356832-be-not-afraid.json) |
 | Be a Bee | 386357 | [386357-be-a-bee.json](./386357-be-a-bee.json) |
@@ -2460,6 +2462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bead | 90636 | [90636-bead.json](./90636-bead.json) |
 | Beads of orange glass | 205106 | [205106-beads-of-orange-glass.json](./205106-beads-of-orange-glass.json) |
 | Beak Island Visitor Center | 339964 | [339964-beak-island-visitor-center.json](./339964-beak-island-visitor-center.json) |
+| Beaked Buccaneer | 302070 | [302070-beaked-buccaneer.json](./302070-beaked-buccaneer.json) |
 | Beam | 15700 | [15700-beam.json](./15700-beam.json) |
 | Beam Ball | 101731 | [101731-beam-ball.json](./101731-beam-ball.json) |
 | Beam Breakers | 24082 | [24082-beam-breakers.json](./24082-beam-breakers.json) |
