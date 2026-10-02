@@ -4095,6 +4095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megaton Punch | 134458 | [134458-megaton-punch.json](./134458-megaton-punch.json) |
 | Megaton: Total Destruction | 69413 | [69413-megaton-total-destruction.json](./69413-megaton-total-destruction.json) |
 | Megatouch Mobile Arcade | 286675 | [286675-megatouch-mobile-arcade.json](./286675-megatouch-mobile-arcade.json) |
+| Megatramp: A Success Story | 312613 | [312613-megatramp-a-success-story.json](./312613-megatramp-a-success-story.json) |
 | Megatron VGA | 46648 | [46648-megatron-vga.json](./46648-megatron-vga.json) |
 | MegaWorld | 286568 | [286568-megaworld.json](./286568-megaworld.json) |
 | Megazone 23: Aoi Garland | 7366 | [7366-megazone-23-aoi-garland.json](./7366-megazone-23-aoi-garland.json) |
@@ -5020,6 +5021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metropolismania 2 | 68118 | [68118-metropolismania-2.json](./68118-metropolismania-2.json) |
 | Metropolismania 4 | 178560 | [178560-metropolismania-4.json](./178560-metropolismania-4.json) |
 | Metropolitan Mayhem | 270667 | [270667-metropolitan-mayhem.json](./270667-metropolitan-mayhem.json) |
+| MetroRunner | 312634 | [312634-metrorunner.json](./312634-metrorunner.json) |
 | MetroSim: The Subway Simulator | 277598 | [277598-metrosim-the-subway-simulator.json](./277598-metrosim-the-subway-simulator.json) |
 | Metu Caligine | 169765 | [169765-metu-caligine.json](./169765-metu-caligine.json) |
 | Meu mundo | 120919 | [120919-meu-mundo.json](./120919-meu-mundo.json) |
@@ -6955,6 +6957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mob Wars: La Cosa Nostra | 125364 | [125364-mob-wars-la-cosa-nostra.json](./125364-mob-wars-la-cosa-nostra.json) |
 | Mobbers | 253891 | [253891-mobbers.json](./253891-mobbers.json) |
 | Mobenium 2D | 336040 | [336040-mobenium-2d.json](./336040-mobenium-2d.json) |
+| Mobfish Hunter | 312641 | [312641-mobfish-hunter.json](./312641-mobfish-hunter.json) |
 | Mobg.io Survive Battle Royale | 95837 | [95837-mobg-io-survive-battle-royale.json](./95837-mobg-io-survive-battle-royale.json) |
 | Mobia's Trip | 364602 | [364602-mobias-trip.json](./364602-mobias-trip.json) |
 | Mobil 1 Rally Championship | 793 | [793-mobil-1-rally-championship.json](./793-mobil-1-rally-championship.json) |
