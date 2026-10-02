@@ -2912,6 +2912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beginning Grammer | 42195 | [42195-beginning-grammer.json](./42195-beginning-grammer.json) |
 | BeGone | 109038 | [109038-begone.json](./109038-begone.json) |
 | Behemoth | 320724 | [320724-behemoth.json](./320724-behemoth.json) |
+| Behemoth | 323797 | [323797-behemoth.json](./323797-behemoth.json) |
 | Beherit | 125350 | [125350-beherit.json](./125350-beherit.json) |
 | BeHero: Be Your Legend | 122889 | [122889-behero-be-your-legend.json](./122889-behero-be-your-legend.json) |
 | Behind Closed Doors | 385578 | [385578-behind-closed-doors.json](./385578-behind-closed-doors.json) |
@@ -3139,6 +3140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bentley Bear’s Crystal Quest | 314440 | [314440-bentley-bear-s-crystal-quest.json](./314440-bentley-bear-s-crystal-quest.json) |
 | Bento Bugs | 329354 | [329354-bento-bugs.json](./329354-bento-bugs.json) |
 | Bento no Subarashisa wo Ano 2-do 3-do: Nama-ham to Yaki-udon Hen | 336179 | [336179-bento-no-subarashisa-wo-ano-2-do-3-do-nama-ham-to-yaki-udon-hen.json](./336179-bento-no-subarashisa-wo-ano-2-do-3-do-nama-ham-to-yaki-udon-hen.json) |
+| Beowulf Classic | 323805 | [323805-beowulf-classic.json](./323805-beowulf-classic.json) |
 | Bepuzzled Jigsaw Puzzle: Aquatic | 241662 | [241662-bepuzzled-jigsaw-puzzle-aquatic.json](./241662-bepuzzled-jigsaw-puzzle-aquatic.json) |
 | Bepuzzled Jigsaw Puzzle: Japan | 241658 | [241658-bepuzzled-jigsaw-puzzle-japan.json](./241658-bepuzzled-jigsaw-puzzle-japan.json) |
 | Bepuzzled Jigsaw Puzzle: Nature | 241659 | [241659-bepuzzled-jigsaw-puzzle-nature.json](./241659-bepuzzled-jigsaw-puzzle-nature.json) |
@@ -4163,6 +4165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit.Trip Beat HD | 21741 | [21741-bit-trip-beat-hd.json](./21741-bit-trip-beat-hd.json) |
 | Bit.Trip Core | 15280 | [15280-bit-trip-core.json](./15280-bit-trip-core.json) |
 | Bit.Trip Saga | 21894 | [21894-bit-trip-saga.json](./21894-bit-trip-saga.json) |
+| Bit.Trip Void 2 | 323786 | [323786-bit-trip-void-2.json](./323786-bit-trip-void-2.json) |
 | Bitardia Cards: Memes of 2ch | 33383 | [33383-bitardia-cards-memes-of-2ch.json](./33383-bitardia-cards-memes-of-2ch.json) |
 | Bitball | 333188 | [333188-bitball.json](./333188-bitball.json) |
 | BitBattle | 163809 | [163809-bitbattle.json](./163809-bitbattle.json) |
@@ -4242,6 +4245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bizarre Journey | 103164 | [103164-bizarre-journey.json](./103164-bizarre-journey.json) |
 | Bizarre Tale | 76671 | [76671-bizarre-tale.json](./76671-bizarre-tale.json) |
 | Bizerta: Silent Evil | 60570 | [60570-bizerta-silent-evil.json](./60570-bizerta-silent-evil.json) |
+| Biztopia | 323774 | [323774-biztopia.json](./323774-biztopia.json) |
 | Bizy Beezzzz | 60207 | [60207-bizy-beezzzz.json](./60207-bizy-beezzzz.json) |
 | Bizzare | 212757 | [212757-bizzare.json](./212757-bizzare.json) |
 | Bizzarioware | 185148 | [185148-bizzarioware.json](./185148-bizzarioware.json) |
@@ -6158,6 +6162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bone Mayhem | 146877 | [146877-bone-mayhem.json](./146877-bone-mayhem.json) |
 | Bone Souls | 359038 | [359038-bone-souls.json](./359038-bone-souls.json) |
 | Bone Stuff | 407338 | [407338-bone-stuff.json](./407338-bone-stuff.json) |
+| Bone Warper | 323777 | [323777-bone-warper.json](./323777-bone-warper.json) |
 | Bone's Cafe | 188921 | [188921-bones-cafe.json](./188921-bones-cafe.json) |
 | BoneBone | 19752 | [19752-bonebone.json](./19752-bonebone.json) |
 | Bonehearts | 395147 | [395147-bonehearts.json](./395147-bonehearts.json) |
