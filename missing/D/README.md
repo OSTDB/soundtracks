@@ -357,6 +357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution Ultramix 4 | 5802 | [5802-dance-dance-revolution-ultramix-4.json](./5802-dance-dance-revolution-ultramix-4.json) |
 | Dance Dance Revolution Universe 3 | 6955 | [6955-dance-dance-revolution-universe-3.json](./6955-dance-dance-revolution-universe-3.json) |
 | Dance Dance Revolution USA | 66659 | [66659-dance-dance-revolution-usa.json](./66659-dance-dance-revolution-usa.json) |
+| Dance Dance Revolution World | 305995 | [305995-dance-dance-revolution-world.json](./305995-dance-dance-revolution-world.json) |
 | Dance Dance Revolution X3 VS 2ndMix | 98239 | [98239-dance-dance-revolution-x3-vs-2ndmix.json](./98239-dance-dance-revolution-x3-vs-2ndmix.json) |
 | Dance Dance Revolution: Dear Daniel | 329929 | [329929-dance-dance-revolution-dear-daniel.json](./329929-dance-dance-revolution-dear-daniel.json) |
 | Dance Dance Revolution: Hello Kitty | 207264 | [207264-dance-dance-revolution-hello-kitty.json](./207264-dance-dance-revolution-hello-kitty.json) |
@@ -3177,6 +3178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deodar | 360742 | [360742-deodar.json](./360742-deodar.json) |
 | Deosurge | 183080 | [183080-deosurge.json](./183080-deosurge.json) |
 | Departed Away | 265112 | [265112-departed-away.json](./265112-departed-away.json) |
+| Department of Collections | 306029 | [306029-department-of-collections.json](./306029-department-of-collections.json) |
 | Department of Missing Persons | 400287 | [400287-department-of-missing-persons.json](./400287-department-of-missing-persons.json) |
 | Departure | 96681 | [96681-departure.json](./96681-departure.json) |
 | Departure!! Shipping Freighter | 299483 | [299483-departure-shipping-freighter.json](./299483-departure-shipping-freighter.json) |
@@ -5945,6 +5947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Kill the King! | 189078 | [189078-dont-kill-the-king.json](./189078-dont-kill-the-king.json) |
 | Don't Kill Them All | 303088 | [303088-dont-kill-them-all.json](./303088-dont-kill-them-all.json) |
 | Don't Leave | 285439 | [285439-dont-leave.json](./285439-dont-leave.json) |
+| Don't Let Her In | 305990 | [305990-dont-let-her-in.json](./305990-dont-let-her-in.json) |
 | Don't Let Me Down | 204417 | [204417-dont-let-me-down.json](./204417-dont-let-me-down.json) |
 | Don't Let Me Fade | 352220 | [352220-dont-let-me-fade.json](./352220-dont-let-me-fade.json) |
 | Don't Let Me Rot | 365209 | [365209-dont-let-me-rot.json](./365209-dont-let-me-rot.json) |
@@ -6150,6 +6153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dontbegrey | 51965 | [51965-dontbegrey.json](./51965-dontbegrey.json) |
 | Dontcrush | 384177 | [384177-dontcrush.json](./384177-dontcrush.json) |
 | Dontdy | 156108 | [156108-dontdy.json](./156108-dontdy.json) |
+| Dontrel Dolphin | 306003 | [306003-dontrel-dolphin.json](./306003-dontrel-dolphin.json) |
 | Dontrel Dolphin 2 | 305838 | [305838-dontrel-dolphin-2.json](./305838-dontrel-dolphin-2.json) |
 | Donut 80 | 201052 | [201052-donut-80.json](./201052-donut-80.json) |
 | Donut Arena | 190137 | [190137-donut-arena.json](./190137-donut-arena.json) |
