@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco Museum Vol. 5 | 39986 | [39986-namco-museum-vol-5.json](./39986-namco-museum-vol-5.json) |
 | Namco Open | 84332 | [84332-namco-open.json](./84332-namco-open.json) |
 | Namco Soccer Prime Goal | 40396 | [40396-namco-soccer-prime-goal.json](./40396-namco-soccer-prime-goal.json) |
+| Namco Super Heroes | 304281 | [304281-namco-super-heroes.json](./304281-namco-super-heroes.json) |
 | Namco Super Wars | 37359 | [37359-namco-super-wars.json](./37359-namco-super-wars.json) |
 | Namco Tennis Smash Court | 74301 | [74301-namco-tennis-smash-court.json](./74301-namco-tennis-smash-court.json) |
 | Namco Vintage | 206782 | [206782-namco-vintage.json](./206782-namco-vintage.json) |
