@@ -901,6 +901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underhero | 36652 | [36652-underhero.json](./36652-underhero.json) |
 | UnderHolo | 364613 | [364613-underholo.json](./364613-underholo.json) |
 | Underkeep | 389458 | [389458-underkeep.json](./389458-underkeep.json) |
+| UnderKingdom | 303704 | [303704-underkingdom.json](./303704-underkingdom.json) |
 | Underlab | 262667 | [262667-underlab.json](./262667-underlab.json) |
 | Underland Ambush | 164884 | [164884-underland-ambush.json](./164884-underland-ambush.json) |
 | Underland: The Climb | 157713 | [157713-underland-the-climb.json](./157713-underland-the-climb.json) |
@@ -1580,6 +1581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Up Up & Down! | 312324 | [312324-up-up-and-down.json](./312324-up-up-and-down.json) |
 | Up Up Up | 393836 | [393836-up-up-up.json](./393836-up-up-up.json) |
 | Up With Doznik | 312569 | [312569-up-with-doznik.json](./312569-up-with-doznik.json) |
+| Up! The Floor Is Lava | 303705 | [303705-up-the-floor-is-lava.json](./303705-up-the-floor-is-lava.json) |
 | Upbeat | 390130 | [390130-upbeat.json](./390130-upbeat.json) |
 | Upbeat Melody Project | 386257 | [386257-upbeat-melody-project.json](./386257-upbeat-melody-project.json) |
 | Upcreek | 395156 | [395156-upcreek.json](./395156-upcreek.json) |
