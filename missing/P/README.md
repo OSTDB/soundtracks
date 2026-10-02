@@ -3153,6 +3153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pig Newton | 40403 | [40403-pig-newton.json](./40403-pig-newton.json) |
 | Pig Out: Dine Like A Swine | 66386 | [66386-pig-out-dine-like-a-swine.json](./66386-pig-out-dine-like-a-swine.json) |
 | Pig Pen | 59881 | [59881-pig-pen.json](./59881-pig-pen.json) |
+| Pig Rush | 311193 | [311193-pig-rush.json](./311193-pig-rush.json) |
 | Pig Skater Simulator | 164990 | [164990-pig-skater-simulator.json](./164990-pig-skater-simulator.json) |
 | Pig vs. Box | 366219 | [366219-pig-vs-box.json](./366219-pig-vs-box.json) |
 | Pigbert | 361766 | [361766-pigbert.json](./361766-pigbert.json) |
@@ -5061,6 +5062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Races | 153834 | [153834-pocket-races.json](./153834-pocket-races.json) |
 | Pocket Ray | 227818 | [227818-pocket-ray.json](./227818-pocket-ray.json) |
 | Pocket Realms | 99223 | [99223-pocket-realms.json](./99223-pocket-realms.json) |
+| Pocket Robots | 311176 | [311176-pocket-robots.json](./311176-pocket-robots.json) |
 | Pocket Rogues | 111249 | [111249-pocket-rogues.json](./111249-pocket-rogues.json) |
 | Pocket Rogues: Ultimate | 101094 | [101094-pocket-rogues-ultimate.json](./101094-pocket-rogues-ultimate.json) |
 | Pocket Room Sanrio Characters | 334865 | [334865-pocket-room-sanrio-characters.json](./334865-pocket-room-sanrio-characters.json) |
@@ -8879,6 +8881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzlebot Challenge | 138794 | [138794-puzzlebot-challenge.json](./138794-puzzlebot-challenge.json) |
 | Puzzled | 100211 | [100211-puzzled.json](./100211-puzzled.json) |
 | Puzzled Heroes | 116294 | [116294-puzzled-heroes.json](./116294-puzzled-heroes.json) |
+| Puzzled Hive | 311199 | [311199-puzzled-hive.json](./311199-puzzled-hive.json) |
 | Puzzled Knight | 125819 | [125819-puzzled-knight.json](./125819-puzzled-knight.json) |
 | Puzzled Love | 180813 | [180813-puzzled-love.json](./180813-puzzled-love.json) |
 | Puzzledom - classic puzzles all in one | 99221 | [99221-puzzledom-classic-puzzles-all-in-one.json](./99221-puzzledom-classic-puzzles-all-in-one.json) |
