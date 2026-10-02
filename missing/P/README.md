@@ -3119,6 +3119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piece of..Horror | 253873 | [253873-piece-of-horror.json](./253873-piece-of-horror.json) |
 | Piece Out | 328083 | [328083-piece-out.json](./328083-piece-out.json) |
 | Piece Out | 54720 | [54720-piece-out.json](./54720-piece-out.json) |
+| Piece Shogi | 312772 | [312772-piece-shogi.json](./312772-piece-shogi.json) |
 | Piece Yourself Up | 341577 | [341577-piece-yourself-up.json](./341577-piece-yourself-up.json) |
 | Pieceful | 138237 | [138237-pieceful.json](./138237-pieceful.json) |
 | Pieces | 46587 | [46587-pieces.json](./46587-pieces.json) |
@@ -3993,6 +3994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Piracy | 5590 | [5590-pixel-piracy.json](./5590-pixel-piracy.json) |
 | Pixel Pirate | 342859 | [342859-pixel-pirate.json](./342859-pixel-pirate.json) |
 | Pixel Pirates | 53460 | [53460-pixel-pirates.json](./53460-pixel-pirates.json) |
+| Pixel Pixie | 312770 | [312770-pixel-pixie.json](./312770-pixel-pixie.json) |
 | Pixel Poops | 157054 | [157054-pixel-poops.json](./157054-pixel-poops.json) |
 | Pixel Poops: Number Two | 143480 | [143480-pixel-poops-number-two.json](./143480-pixel-poops-number-two.json) |
 | Pixel Privateers | 27405 | [27405-pixel-privateers.json](./27405-pixel-privateers.json) |
@@ -4910,6 +4912,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plummet | 84238 | [84238-plummet.json](./84238-plummet.json) |
 | Plummet Challenge Game | 214519 | [214519-plummet-challenge-game.json](./214519-plummet-challenge-game.json) |
 | Plummet Panic | 317618 | [317618-plummet-panic.json](./317618-plummet-panic.json) |
+| Plumo At The Zoo | 312632 | [312632-plumo-at-the-zoo.json](./312632-plumo-at-the-zoo.json) |
+| Plumo On The Farm | 312635 | [312635-plumo-on-the-farm.json](./312635-plumo-on-the-farm.json) |
 | Plunder | 113748 | [113748-plunder.json](./113748-plunder.json) |
 | Plunder Kings | 114149 | [114149-plunder-kings.json](./114149-plunder-kings.json) |
 | Plunder Squad | 107797 | [107797-plunder-squad.json](./107797-plunder-squad.json) |
@@ -8150,6 +8154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psyvariar 2: The Will to Fabricate | 5993 | [5993-psyvariar-2-the-will-to-fabricate.json](./5993-psyvariar-2-the-will-to-fabricate.json) |
 | Psyvariar 2: Ultimate Final | 43346 | [43346-psyvariar-2-ultimate-final.json](./43346-psyvariar-2-ultimate-final.json) |
 | Psyvariar: Complete Edition | 43351 | [43351-psyvariar-complete-edition.json](./43351-psyvariar-complete-edition.json) |
+| PTCS: A Post Traumatic Christmas Special | 312624 | [312624-ptcs-a-post-traumatic-christmas-special.json](./312624-ptcs-a-post-traumatic-christmas-special.json) |
 | Pteranodon | 260700 | [260700-pteranodon.json](./260700-pteranodon.json) |
 | Pteranodon 2: Primal Island | 275722 | [275722-pteranodon-2-primal-island.json](./275722-pteranodon-2-primal-island.json) |
 | Pteranodon's Flight: The Flying Dinosaur Game | 151012 | [151012-pteranodons-flight-the-flying-dinosaur-game.json](./151012-pteranodons-flight-the-flying-dinosaur-game.json) |
@@ -8732,6 +8737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle For Peppa Pig | 100825 | [100825-puzzle-for-peppa-pig.json](./100825-puzzle-for-peppa-pig.json) |
 | Puzzle Forge Dungeon | 130197 | [130197-puzzle-forge-dungeon.json](./130197-puzzle-forge-dungeon.json) |
 | Puzzle Freak | 196795 | [196795-puzzle-freak.json](./196795-puzzle-freak.json) |
+| Puzzle Fuzzle | 312651 | [312651-puzzle-fuzzle.json](./312651-puzzle-fuzzle.json) |
 | Puzzle Galaxies | 32936 | [32936-puzzle-galaxies.json](./32936-puzzle-galaxies.json) |
 | Puzzle Galaxy: Beautiful Paintings - 47 new puzzles | 378863 | [378863-puzzle-galaxy-beautiful-paintings-47-new-puzzles.json](./378863-puzzle-galaxy-beautiful-paintings-47-new-puzzles.json) |
 | Puzzle Galaxy: Complete Bundle | 378866 | [378866-puzzle-galaxy-complete-bundle.json](./378866-puzzle-galaxy-complete-bundle.json) |
