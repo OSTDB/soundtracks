@@ -861,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fan Tas Tic | 91441 | [91441-fan-tas-tic.json](./91441-fan-tas-tic.json) |
 | Fan Zhuan 21 Ke | 277316 | [277316-fan-zhuan-21-ke.json](./277316-fan-zhuan-21-ke.json) |
 | Fan'cie Veer! (Fish Are Nasty, Cake Is Excellent Vektor Evading Emblazed Rapture) | 105375 | [105375-fancie-veer-fish-are-nasty-cake-is-excellent-vektor-evading-emblazed-rapture.json](./105375-fancie-veer-fish-are-nasty-cake-is-excellent-vektor-evading-emblazed-rapture.json) |
+| Fanastasis | 306010 | [306010-fanastasis.json](./306010-fanastasis.json) |
 | Fanatic Earth | 38496 | [38496-fanatic-earth.json](./38496-fanatic-earth.json) |
 | Fanatica | 204555 | [204555-fanatica.json](./204555-fanatica.json) |
 | Fanatical Basketball | 175725 | [175725-fanatical-basketball.json](./175725-fanatical-basketball.json) |
@@ -1524,6 +1525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Evidence: Cursed Island - Collector's Edition | 119038 | [119038-fatal-evidence-cursed-island-collectors-edition.json](./119038-fatal-evidence-cursed-island-collectors-edition.json) |
 | Fatal Fight | 33318 | [33318-fatal-fight.json](./33318-fatal-fight.json) |
 | Fatal Flash | 98227 | [98227-fatal-flash.json](./98227-fatal-flash.json) |
+| Fatal Force: Earth Assault | 306000 | [306000-fatal-force-earth-assault.json](./306000-fatal-force-earth-assault.json) |
 | Fatal Frame | 321739 | [321739-fatal-frame.json](./321739-fatal-frame.json) |
 | Fatal Frame | 5106 | [5106-fatal-frame.json](./5106-fatal-frame.json) |
 | Fatal Frame II: Crimson Butterfly - Director's Cut | 24161 | [24161-fatal-frame-ii-crimson-butterfly-directors-cut.json](./24161-fatal-frame-ii-crimson-butterfly-directors-cut.json) |
@@ -2076,6 +2078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fiends of Imprisonment | 34265 | [34265-fiends-of-imprisonment.json](./34265-fiends-of-imprisonment.json) |
 | Fierce Allies | 237667 | [237667-fierce-allies.json](./237667-fierce-allies.json) |
 | Fierce Dragon Godzilla: Metropolis Destruction!! | 75885 | [75885-fierce-dragon-godzilla-metropolis-destruction.json](./75885-fierce-dragon-godzilla-metropolis-destruction.json) |
+| Fierce Soldier | 306016 | [306016-fierce-soldier.json](./306016-fierce-soldier.json) |
 | Fierce Tales: Feline Sight | 123637 | [123637-fierce-tales-feline-sight.json](./123637-fierce-tales-feline-sight.json) |
 | Fierce Tales: Feline Sight - Collector's Edition | 88198 | [88198-fierce-tales-feline-sight-collectors-edition.json](./88198-fierce-tales-feline-sight-collectors-edition.json) |
 | Fierce Tide | 188405 | [188405-fierce-tide.json](./188405-fierce-tide.json) |
