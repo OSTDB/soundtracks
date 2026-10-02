@@ -3025,6 +3025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bellular Hexatosis | 181793 | [181793-bellular-hexatosis.json](./181793-bellular-hexatosis.json) |
 | Bellum.io | 57347 | [57347-bellum-io.json](./57347-bellum-io.json) |
 | Bellumarot | 151712 | [151712-bellumarot.json](./151712-bellumarot.json) |
+| Bellumentum | 310098 | [310098-bellumentum.json](./310098-bellumentum.json) |
 | Bellus Battle | 260157 | [260157-bellus-battle.json](./260157-bellus-battle.json) |
 | Bellwright | 244040 | [244040-bellwright.json](./244040-bellwright.json) |
 | Belly Bumpers | 298168 | [298168-belly-bumpers.json](./298168-belly-bumpers.json) |
