@@ -4028,6 +4028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the Phoenix | 42650 | [42650-rise-of-the-phoenix.json](./42650-rise-of-the-phoenix.json) |
 | Rise of the Pirates | 114802 | [114802-rise-of-the-pirates.json](./114802-rise-of-the-pirates.json) |
 | Rise of the Robots X | 191127 | [191127-rise-of-the-robots-x.json](./191127-rise-of-the-robots-x.json) |
+| Rise of the Ronin: Digital Deluxe Edition | 284585 | [284585-rise-of-the-ronin-digital-deluxe-edition.json](./284585-rise-of-the-ronin-digital-deluxe-edition.json) |
 | Rise of the Spellbaker | 415293 | [415293-rise-of-the-spellbaker.json](./415293-rise-of-the-spellbaker.json) |
 | Rise of the Successor | 384168 | [384168-rise-of-the-successor.json](./384168-rise-of-the-successor.json) |
 | Rise of the Teenage Mutant Ninja Turtles: Bumper Bros | 146287 | [146287-rise-of-the-teenage-mutant-ninja-turtles-bumper-bros.json](./146287-rise-of-the-teenage-mutant-ninja-turtles-bumper-bros.json) |
