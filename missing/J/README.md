@@ -889,9 +889,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle World: Bears | 293067 | [293067-jigsaw-puzzle-world-bears.json](./293067-jigsaw-puzzle-world-bears.json) |
 | Jigsaw Puzzle World: Birds | 247625 | [247625-jigsaw-puzzle-world-birds.json](./247625-jigsaw-puzzle-world-birds.json) |
 | Jigsaw Puzzle World: Canada | 293609 | [293609-jigsaw-puzzle-world-canada.json](./293609-jigsaw-puzzle-world-canada.json) |
+| Jigsaw Puzzle World: Challenge | 286235 | [286235-jigsaw-puzzle-world-challenge.json](./286235-jigsaw-puzzle-world-challenge.json) |
 | Jigsaw Puzzle World: Desserts | 293611 | [293611-jigsaw-puzzle-world-desserts.json](./293611-jigsaw-puzzle-world-desserts.json) |
 | Jigsaw Puzzle World: Electronics | 247628 | [247628-jigsaw-puzzle-world-electronics.json](./247628-jigsaw-puzzle-world-electronics.json) |
 | Jigsaw Puzzle World: Fairground | 293068 | [293068-jigsaw-puzzle-world-fairground.json](./293068-jigsaw-puzzle-world-fairground.json) |
+| Jigsaw Puzzle World: Fast Food | 286234 | [286234-jigsaw-puzzle-world-fast-food.json](./286234-jigsaw-puzzle-world-fast-food.json) |
 | Jigsaw Puzzle World: Geology | 357906 | [357906-jigsaw-puzzle-world-geology.json](./357906-jigsaw-puzzle-world-geology.json) |
 | Jigsaw Puzzle World: Germany | 357904 | [357904-jigsaw-puzzle-world-germany.json](./357904-jigsaw-puzzle-world-germany.json) |
 | Jigsaw Puzzle World: Hobbies | 357905 | [357905-jigsaw-puzzle-world-hobbies.json](./357905-jigsaw-puzzle-world-hobbies.json) |
@@ -899,10 +901,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle World: Insects | 293610 | [293610-jigsaw-puzzle-world-insects.json](./293610-jigsaw-puzzle-world-insects.json) |
 | Jigsaw Puzzle World: Lions & Tigers | 357903 | [357903-jigsaw-puzzle-world-lions-and-tigers.json](./357903-jigsaw-puzzle-world-lions-and-tigers.json) |
 | Jigsaw Puzzle World: Mediterranean Food | 247626 | [247626-jigsaw-puzzle-world-mediterranean-food.json](./247626-jigsaw-puzzle-world-mediterranean-food.json) |
+| Jigsaw Puzzle World: Military Vehicles | 286236 | [286236-jigsaw-puzzle-world-military-vehicles.json](./286236-jigsaw-puzzle-world-military-vehicles.json) |
 | Jigsaw Puzzle World: Motorcycles | 247624 | [247624-jigsaw-puzzle-world-motorcycles.json](./247624-jigsaw-puzzle-world-motorcycles.json) |
 | Jigsaw Puzzle World: Musical Instruments | 357902 | [357902-jigsaw-puzzle-world-musical-instruments.json](./357902-jigsaw-puzzle-world-musical-instruments.json) |
 | Jigsaw Puzzle World: North Africa | 357900 | [357900-jigsaw-puzzle-world-north-africa.json](./357900-jigsaw-puzzle-world-north-africa.json) |
 | Jigsaw Puzzle World: Primates | 357901 | [357901-jigsaw-puzzle-world-primates.json](./357901-jigsaw-puzzle-world-primates.json) |
+| Jigsaw Puzzle World: Rabbits | 286237 | [286237-jigsaw-puzzle-world-rabbits.json](./286237-jigsaw-puzzle-world-rabbits.json) |
 | Jigsaw Puzzle World: Scandinavia | 357899 | [357899-jigsaw-puzzle-world-scandinavia.json](./357899-jigsaw-puzzle-world-scandinavia.json) |
 | Jigsaw Puzzle World: Sharks | 357898 | [357898-jigsaw-puzzle-world-sharks.json](./357898-jigsaw-puzzle-world-sharks.json) |
 | Jigsaw Puzzle World: South Korea | 293069 | [293069-jigsaw-puzzle-world-south-korea.json](./293069-jigsaw-puzzle-world-south-korea.json) |
@@ -928,6 +932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle: Pro Edition - Expansion Pack 6 | 162243 | [162243-jigsaw-puzzle-pro-edition-expansion-pack-6.json](./162243-jigsaw-puzzle-pro-edition-expansion-pack-6.json) |
 | Jigsaw Puzzle. Women's Day | 105903 | [105903-jigsaw-puzzle-womens-day.json](./105903-jigsaw-puzzle-womens-day.json) |
 | Jigsaw Puzzles | 357894 | [357894-jigsaw-puzzles.json](./357894-jigsaw-puzzles.json) |
+| Jigsaw Puzzles Infinite: Cats & Dogs Puzzle Pack | 286238 | [286238-jigsaw-puzzles-infinite-cats-and-dogs-puzzle-pack.json](./286238-jigsaw-puzzles-infinite-cats-and-dogs-puzzle-pack.json) |
 | Jigsaw Puzzles: Puzzle Game | 223946 | [223946-jigsaw-puzzles-puzzle-game.json](./223946-jigsaw-puzzles-puzzle-game.json) |
 | Jigsaw Realms: Nature | 386369 | [386369-jigsaw-realms-nature.json](./386369-jigsaw-realms-nature.json) |
 | Jigsaw Realms: Oasis | 389066 | [389066-jigsaw-realms-oasis.json](./389066-jigsaw-realms-oasis.json) |
