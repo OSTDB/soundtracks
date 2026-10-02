@@ -6401,6 +6401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slapstick Bosses | 349861 | [349861-slapstick-bosses.json](./349861-slapstick-bosses.json) |
 | Slapstick Fighter | 266257 | [266257-slapstick-fighter.json](./266257-slapstick-fighter.json) |
 | Slash & Roll | 186299 | [186299-slash-and-roll.json](./186299-slash-and-roll.json) |
+| Slash Abyss | 290629 | [290629-slash-abyss.json](./290629-slash-abyss.json) |
 | Slash and Fuck | 82893 | [82893-slash-and-fuck.json](./82893-slash-and-fuck.json) |
 | Slash Arena: Online | 51943 | [51943-slash-arena-online.json](./51943-slash-arena-online.json) |
 | Slash Em | 176825 | [176825-slash-em.json](./176825-slash-em.json) |
@@ -6596,6 +6597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slice the Ice | 75779 | [75779-slice-the-ice.json](./75779-slice-the-ice.json) |
 | Slice To Meet You | 409583 | [409583-slice-to-meet-you.json](./409583-slice-to-meet-you.json) |
 | Slice&Dice | 345526 | [345526-slice-and-dice.json](./345526-slice-and-dice.json) |
+| Sliced | 290617 | [290617-sliced.json](./290617-sliced.json) |
 | Slicer!! | 100324 | [100324-slicer.json](./100324-slicer.json) |
 | Slices | 105870 | [105870-slices.json](./105870-slices.json) |
 | Slick | 63260 | [63260-slick.json](./63260-slick.json) |
@@ -7917,6 +7919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soko Loco Deluxe | 115328 | [115328-soko-loco-deluxe.json](./115328-soko-loco-deluxe.json) |
 | Soko Spectacle | 334258 | [334258-soko-spectacle.json](./334258-soko-spectacle.json) |
 | Soko-Ban | 11763 | [11763-soko-ban.json](./11763-soko-ban.json) |
+| Soko64 | 290660 | [290660-soko64.json](./290660-soko64.json) |
 | Sokoball of Osaka | 64679 | [64679-sokoball-of-osaka.json](./64679-sokoball-of-osaka.json) |
 | Sokoban | 19573 | [19573-sokoban.json](./19573-sokoban.json) |
 | Sokoban | 306039 | [306039-sokoban.json](./306039-sokoban.json) |
@@ -9315,6 +9318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoulPactum | 342773 | [342773-soulpactum.json](./342773-soulpactum.json) |
 | Soulrise | 295544 | [295544-soulrise.json](./295544-soulrise.json) |
 | Souls | 261255 | [261255-souls.json](./261255-souls.json) |
+| Souls | 290622 | [290622-souls.json](./290622-souls.json) |
 | Souls | 51417 | [51417-souls.json](./51417-souls.json) |
 | Souls Divided | 410228 | [410228-souls-divided.json](./410228-souls-divided.json) |
 | Souls End | 345667 | [345667-souls-end.json](./345667-souls-end.json) |
@@ -11186,6 +11190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sportaldislexicartaphobia | 376533 | [376533-sportaldislexicartaphobia.json](./376533-sportaldislexicartaphobia.json) |
 | Sportball Challenge | 54394 | [54394-sportball-challenge.json](./54394-sportball-challenge.json) |
 | Sportfischen Professional | 130851 | [130851-sportfischen-professional.json](./130851-sportfischen-professional.json) |
+| Sporti's Universe | 290636 | [290636-sportis-universe.json](./290636-sportis-universe.json) |
 | Sporting Clays | 207246 | [207246-sporting-clays.json](./207246-sporting-clays.json) |
 | Sporting Goods Shop | 342895 | [342895-sporting-goods-shop.json](./342895-sporting-goods-shop.json) |
 | Sporting Triangles | 72062 | [72062-sporting-triangles.json](./72062-sporting-triangles.json) |
@@ -17668,6 +17673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swordbreaker the Game | 34192 | [34192-swordbreaker-the-game.json](./34192-swordbreaker-the-game.json) |
 | Swordbreaker: Back to the Castle | 113751 | [113751-swordbreaker-back-to-the-castle.json](./113751-swordbreaker-back-to-the-castle.json) |
 | Swordfight | 40794 | [40794-swordfight.json](./40794-swordfight.json) |
+| Swordhaven: Iron Conspiracy | 290620 | [290620-swordhaven-iron-conspiracy.json](./290620-swordhaven-iron-conspiracy.json) |
 | Swordia | 309882 | [309882-swordia.json](./309882-swordia.json) |
 | Swordless | 410220 | [410220-swordless.json](./410220-swordless.json) |
 | Swordlord | 31763 | [31763-swordlord.json](./31763-swordlord.json) |
