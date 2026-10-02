@@ -1104,6 +1104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon: Echoes of Teradea | 400976 | [400976-harvest-moon-echoes-of-teradea.json](./400976-harvest-moon-echoes-of-teradea.json) |
 | Harvest Moon: Frantic Farming | 47791 | [47791-harvest-moon-frantic-farming.json](./47791-harvest-moon-frantic-farming.json) |
 | Harvest Moon: Hero of Leaf Valley | 42887 | [42887-harvest-moon-hero-of-leaf-valley.json](./42887-harvest-moon-hero-of-leaf-valley.json) |
+| Harvest Moon: Home Sweet Home | 314971 | [314971-harvest-moon-home-sweet-home.json](./314971-harvest-moon-home-sweet-home.json) |
 | Harvest Moon: Intuitive Ranch Master | 219076 | [219076-harvest-moon-intuitive-ranch-master.json](./219076-harvest-moon-intuitive-ranch-master.json) |
 | Harvest Moon: Light of Hope | 28843 | [28843-harvest-moon-light-of-hope.json](./28843-harvest-moon-light-of-hope.json) |
 | Harvest Moon: Light of Hope - Special Edition: Divine Marriageable Characters Pack | 225043 | [225043-harvest-moon-light-of-hope-special-edition-divine-marriageable-characters-pack.json](./225043-harvest-moon-light-of-hope-special-edition-divine-marriageable-characters-pack.json) |
@@ -2388,6 +2389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls: College Romance | 325018 | [325018-hentai-girls-college-romance.json](./325018-hentai-girls-college-romance.json) |
 | Hentai Girls: Complete + | 324466 | [324466-hentai-girls-complete.json](./324466-hentai-girls-complete.json) |
 | Hentai Girls: Contact | 281523 | [281523-hentai-girls-contact.json](./281523-hentai-girls-contact.json) |
+| Hentai Girls: Crazy Cowgirl | 317284 | [317284-hentai-girls-crazy-cowgirl.json](./317284-hentai-girls-crazy-cowgirl.json) |
 | Hentai Girls: Director's Cut | 284501 | [284501-hentai-girls-directors-cut.json](./284501-hentai-girls-directors-cut.json) |
 | Hentai Girls: Extended Edition | 261348 | [261348-hentai-girls-extended-edition.json](./261348-hentai-girls-extended-edition.json) |
 | Hentai Girls: Fresh Firefighter | 300863 | [300863-hentai-girls-fresh-firefighter.json](./300863-hentai-girls-fresh-firefighter.json) |
@@ -2407,6 +2409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls: Steamy Maid | 300864 | [300864-hentai-girls-steamy-maid.json](./300864-hentai-girls-steamy-maid.json) |
 | Hentai Girls: Sweet Skier | 328521 | [328521-hentai-girls-sweet-skier.json](./328521-hentai-girls-sweet-skier.json) |
 | Hentai Girls: Ultra Complete | 324467 | [324467-hentai-girls-ultra-complete.json](./324467-hentai-girls-ultra-complete.json) |
+| Hentai Girls: Ultra Definitive | 317285 | [317285-hentai-girls-ultra-definitive.json](./317285-hentai-girls-ultra-definitive.json) |
 | Hentai Girls: Ultra Extended | 308817 | [308817-hentai-girls-ultra-extended.json](./308817-hentai-girls-ultra-extended.json) |
 | Hentai Girls: Ultra Premium | 316216 | [316216-hentai-girls-ultra-premium.json](./316216-hentai-girls-ultra-premium.json) |
 | Hentai Girls: Winky Witch | 322654 | [322654-hentai-girls-winky-witch.json](./322654-hentai-girls-winky-witch.json) |
@@ -3678,6 +3681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Seas, High Profits! | 290922 | [290922-high-seas-high-profits.json](./290922-high-seas-high-profits.json) |
 | High Sidin': Hyphy Edition | 325042 | [325042-high-sidin-hyphy-edition.json](./325042-high-sidin-hyphy-edition.json) |
 | High Speed Trains 2 - England | 88742 | [88742-high-speed-trains-2-england.json](./88742-high-speed-trains-2-england.json) |
+| High Spirits | 317300 | [317300-high-spirits.json](./317300-high-spirits.json) |
 | High Stakes | 141081 | [141081-high-stakes.json](./141081-high-stakes.json) |
 | High Stakes | 299750 | [299750-high-stakes.json](./299750-high-stakes.json) |
 | High Stakes on the Vegas Strip: Poker Edition | 52236 | [52236-high-stakes-on-the-vegas-strip-poker-edition.json](./52236-high-stakes-on-the-vegas-strip-poker-edition.json) |
@@ -3718,6 +3722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Haste | 146835 | [146835-highway-haste.json](./146835-highway-haste.json) |
 | Highway Hopper | 347797 | [347797-highway-hopper.json](./347797-highway-hopper.json) |
 | Highway Insanity | 107135 | [107135-highway-insanity.json](./107135-highway-insanity.json) |
+| Highway Legends: Traffic Speed Racer | 317286 | [317286-highway-legends-traffic-speed-racer.json](./317286-highway-legends-traffic-speed-racer.json) |
 | Highway Madness | 80943 | [80943-highway-madness.json](./80943-highway-madness.json) |
 | Highway Noir | 381605 | [381605-highway-noir.json](./381605-highway-noir.json) |
 | Highway of death | 112998 | [112998-highway-of-death.json](./112998-highway-of-death.json) |
@@ -4336,6 +4341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holo Arena: Death League | 217380 | [217380-holo-arena-death-league.json](./217380-holo-arena-death-league.json) |
 | Holo Dungeon | 180144 | [180144-holo-dungeon.json](./180144-holo-dungeon.json) |
 | Holo EN Rhythm Game | 179623 | [179623-holo-en-rhythm-game.json](./179623-holo-en-rhythm-game.json) |
+| Holo no Suika | 314982 | [314982-holo-no-suika.json](./314982-holo-no-suika.json) |
 | Holo vs. Robo | 386362 | [386362-holo-vs-robo.json](./386362-holo-vs-robo.json) |
 | Holo X Break | 292089 | [292089-holo-x-break.json](./292089-holo-x-break.json) |
 | Holo-Graham | 30189 | [30189-holo-graham.json](./30189-holo-graham.json) |
@@ -4783,6 +4789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hope Timbre | 295531 | [295531-hope-timbre.json](./295531-hope-timbre.json) |
 | Hope VR: Emotional Intelligence Assistant | 169926 | [169926-hope-vr-emotional-intelligence-assistant.json](./169926-hope-vr-emotional-intelligence-assistant.json) |
 | Hope We'll Still be Friends Tomorrow | 410251 | [410251-hope-well-still-be-friends-tomorrow.json](./410251-hope-well-still-be-friends-tomorrow.json) |
+| Hope: A Sky Full of Ghosts | 317312 | [317312-hope-a-sky-full-of-ghosts.json](./317312-hope-a-sky-full-of-ghosts.json) |
 | Hope: The Other Side of Adventure | 192900 | [192900-hope-the-other-side-of-adventure.json](./192900-hope-the-other-side-of-adventure.json) |
 | Hope's End | 238519 | [238519-hopes-end.json](./238519-hopes-end.json) |
 | Hope's Journey: A Therapeutic Experience | 158570 | [158570-hopes-journey-a-therapeutic-experience.json](./158570-hopes-journey-a-therapeutic-experience.json) |
@@ -5571,6 +5578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HS Galaxy | 147450 | [147450-hs-galaxy.json](./147450-hs-galaxy.json) |
 | HSHS | 303574 | [303574-hshs.json](./303574-hshs.json) |
 | HSNU Academy 79th Anniversary | 396207 | [396207-hsnu-academy-79th-anniversary.json](./396207-hsnu-academy-79th-anniversary.json) |
+| HSS: Reload | 317306 | [317306-hss-reload.json](./317306-hss-reload.json) |
 | HSX: Hypersonic Xtreme | 43656 | [43656-hsx-hypersonic-xtreme.json](./43656-hsx-hypersonic-xtreme.json) |
 | htoL#NiQ: The Firefly Diary - Limited Edition | 89918 | [89918-htol-niq-the-firefly-diary-limited-edition.json](./89918-htol-niq-the-firefly-diary-limited-edition.json) |
 | HTR High Tech Racing | 85174 | [85174-htr-high-tech-racing.json](./85174-htr-high-tech-racing.json) |
@@ -6025,6 +6033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydra Slayer | 33776 | [33776-hydra-slayer.json](./33776-hydra-slayer.json) |
 | Hydra: Poseidon's Сonspiracy | 342645 | [342645-hydra-poseidons-onspiracy.json](./342645-hydra-poseidons-onspiracy.json) |
 | Hydrangea | 299171 | [299171-hydrangea.json](./299171-hydrangea.json) |
+| Hydrate | 314911 | [314911-hydrate.json](./314911-hydrate.json) |
 | Hydraulic Empire | 34969 | [34969-hydraulic-empire.json](./34969-hydraulic-empire.json) |
 | Hydraulic Press | 372043 | [372043-hydraulic-press.json](./372043-hydraulic-press.json) |
 | Hydraulic Press Pocket | 400391 | [400391-hydraulic-press-pocket.json](./400391-hydraulic-press-pocket.json) |
