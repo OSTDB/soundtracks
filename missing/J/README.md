@@ -838,6 +838,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Masterpieces 2 | 289372 | [289372-jigsaw-masterpieces-2.json](./289372-jigsaw-masterpieces-2.json) |
 | Jigsaw Masterpieces 2: Additional Puzzle Pack Set Vol.1 | 328838 | [328838-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-1.json](./328838-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-1.json) |
 | Jigsaw Masterpieces 2: Additional Puzzle Pack Set Vol.2 | 328839 | [328839-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-2.json](./328839-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-2.json) |
+| Jigsaw Masterpieces 2: Additional Puzzle Pack Set Vol.3 | 304806 | [304806-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-3.json](./304806-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-3.json) |
+| Jigsaw Masterpieces 2: Additional Puzzle Pack Set Vol.4 | 304807 | [304807-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-4.json](./304807-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-4.json) |
 | Jigsaw Masterpieces: Beautiful Castles in Japan | 238219 | [238219-jigsaw-masterpieces-beautiful-castles-in-japan.json](./238219-jigsaw-masterpieces-beautiful-castles-in-japan.json) |
 | Jigsaw Masterpieces: Beautiful Castles in the World | 238220 | [238220-jigsaw-masterpieces-beautiful-castles-in-the-world.json](./238220-jigsaw-masterpieces-beautiful-castles-in-the-world.json) |
 | Jigsaw Masterpieces: Beautiful Sceneries in Japan | 238221 | [238221-jigsaw-masterpieces-beautiful-sceneries-in-japan.json](./238221-jigsaw-masterpieces-beautiful-sceneries-in-japan.json) |
