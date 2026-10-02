@@ -2336,9 +2336,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 5: Dancing in Starlight - Catherine Set | 362253 | [362253-persona-5-dancing-in-starlight-catherine-set.json](./362253-persona-5-dancing-in-starlight-catherine-set.json) |
 | Persona 5: Dancing in Starlight - Costume Season Pass | 362256 | [362256-persona-5-dancing-in-starlight-costume-season-pass.json](./362256-persona-5-dancing-in-starlight-costume-season-pass.json) |
 | Persona 5: Dancing in starlight - Dance! (OP ver.) | 324704 | [324704-persona-5-dancing-in-starlight-dance-op-ver.json](./324704-persona-5-dancing-in-starlight-dance-op-ver.json) |
+| Persona 5: Dancing in Starlight - Featherman Set | 324971 | [324971-persona-5-dancing-in-starlight-featherman-set.json](./324971-persona-5-dancing-in-starlight-featherman-set.json) |
 | Persona 5: Dancing in Starlight - Futaba's Shujin Academy Uniform & Loungewear Set | 362254 | [362254-persona-5-dancing-in-starlight-futabas-shujin-academy-uniform-and-loungewear-set.json](./362254-persona-5-dancing-in-starlight-futabas-shujin-academy-uniform-and-loungewear-set.json) |
+| Persona 5: Dancing in Starlight - Gouto-Douji Costume | 324970 | [324970-persona-5-dancing-in-starlight-gouto-douji-costume.json](./324970-persona-5-dancing-in-starlight-gouto-douji-costume.json) |
 | Persona 5: Dancing in Starlight - Groovy | 324705 | [324705-persona-5-dancing-in-starlight-groovy.json](./324705-persona-5-dancing-in-starlight-groovy.json) |
+| Persona 5: Dancing in Starlight - Heeho's School Uniform | 324969 | [324969-persona-5-dancing-in-starlight-heehos-school-uniform.json](./324969-persona-5-dancing-in-starlight-heehos-school-uniform.json) |
+| Persona 5: Dancing in Starlight - Protagonist's Life in the Attic Set | 324967 | [324967-persona-5-dancing-in-starlight-protagonists-life-in-the-attic-set.json](./324967-persona-5-dancing-in-starlight-protagonists-life-in-the-attic-set.json) |
 | Persona 5: Dancing in Starlight - Race Queen Set | 324709 | [324709-persona-5-dancing-in-starlight-race-queen-set.json](./324709-persona-5-dancing-in-starlight-race-queen-set.json) |
+| Persona 5: Dancing in Starlight - Sonic Suit | 324965 | [324965-persona-5-dancing-in-starlight-sonic-suit.json](./324965-persona-5-dancing-in-starlight-sonic-suit.json) |
 | Persona 5: Dancing in Starlight - Tanaka's Amazing Commodities (Atlus Kozuka Remix) | 324707 | [324707-persona-5-dancing-in-starlight-tanakas-amazing-commodities-atlus-kozuka-remix.json](./324707-persona-5-dancing-in-starlight-tanakas-amazing-commodities-atlus-kozuka-remix.json) |
 | Persona 5: Dancing in Starlight - Trish Costume V1 | 324710 | [324710-persona-5-dancing-in-starlight-trish-costume-v1.json](./324710-persona-5-dancing-in-starlight-trish-costume-v1.json) |
 | Persona 5: Dancing in Starlight - Trish Costume V2 | 324711 | [324711-persona-5-dancing-in-starlight-trish-costume-v2.json](./324711-persona-5-dancing-in-starlight-trish-costume-v2.json) |
