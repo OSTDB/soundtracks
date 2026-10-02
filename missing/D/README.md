@@ -5416,6 +5416,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DNF Duel: DLC 1 - Spectre | 255676 | [255676-dnf-duel-dlc-1-spectre.json](./255676-dnf-duel-dlc-1-spectre.json) |
 | DNF Duel: DLC 2 - Brawler | 265719 | [265719-dnf-duel-dlc-2-brawler.json](./265719-dnf-duel-dlc-2-brawler.json) |
 | DNF Duel: DLC 3 - Battle Mage | 269074 | [269074-dnf-duel-dlc-3-battle-mage.json](./269074-dnf-duel-dlc-3-battle-mage.json) |
+| DNF Duel: DLC 4 - Monk | 288992 | [288992-dnf-duel-dlc-4-monk.json](./288992-dnf-duel-dlc-4-monk.json) |
+| DNF Duel: DLC 5 - Nen Master | 288994 | [288994-dnf-duel-dlc-5-nen-master.json](./288994-dnf-duel-dlc-5-nen-master.json) |
 | DNF Duel: Season Pass | 255679 | [255679-dnf-duel-season-pass.json](./255679-dnf-duel-season-pass.json) |
 | DNF Duel: Who's Next | 242667 | [242667-dnf-duel-whos-next.json](./242667-dnf-duel-whos-next.json) |
 | Do a Crime | 390110 | [390110-do-a-crime.json](./390110-do-a-crime.json) |
@@ -5742,6 +5744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Sayori Date! | 332855 | [332855-doki-doki-sayori-date.json](./332855-doki-doki-sayori-date.json) |
 | Doki Doki Silver & Emerald | 334693 | [334693-doki-doki-silver-and-emerald.json](./334693-doki-doki-silver-and-emerald.json) |
 | Doki Doki Space | 334268 | [334268-doki-doki-space.json](./334268-doki-doki-space.json) |
+| Doki Doki Storm | 288984 | [288984-doki-doki-storm.json](./288984-doki-doki-storm.json) |
 | Doki Doki Switcheroo | 334832 | [334832-doki-doki-switcheroo.json](./334832-doki-doki-switcheroo.json) |
 | Doki Doki Takeover!: Bad Ending | 208412 | [208412-doki-doki-takeover-bad-ending.json](./208412-doki-doki-takeover-bad-ending.json) |
 | Doki Doki Tegami Relay | 217845 | [217845-doki-doki-tegami-relay.json](./217845-doki-doki-tegami-relay.json) |
@@ -7420,6 +7423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Valkyrie: Wings of Fire | 337667 | [337667-dragons-valkyrie-wings-of-fire.json](./337667-dragons-valkyrie-wings-of-fire.json) |
 | Dragon's Wake | 34533 | [34533-dragons-wake.json](./34533-dragons-wake.json) |
 | Dragon's Wandering Tavern | 153985 | [153985-dragons-wandering-tavern.json](./153985-dragons-wandering-tavern.json) |
+| Dragona: Fireborne | 289010 | [289010-dragona-fireborne.json](./289010-dragona-fireborne.json) |
 | Dragonbolt Vanguard | 55893 | [55893-dragonbolt-vanguard.json](./55893-dragonbolt-vanguard.json) |
 | Dragonbone Dynasty | 23356 | [23356-dragonbone-dynasty.json](./23356-dragonbone-dynasty.json) |
 | Dragonborne | 140594 | [140594-dragonborne.json](./140594-dragonborne.json) |
@@ -7565,6 +7569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw_Love | 43513 | [43513-draw-love.json](./43513-draw-love.json) |
 | Draw-A-Mountain | 185098 | [185098-draw-a-mountain.json](./185098-draw-a-mountain.json) |
 | Drawback Chess | 387533 | [387533-drawback-chess.json](./387533-drawback-chess.json) |
+| DrawBall | 289014 | [289014-drawball.json](./289014-drawball.json) |
 | Drawchemy | 410327 | [410327-drawchemy.json](./410327-drawchemy.json) |
 | Drawer | 187849 | [187849-drawer.json](./187849-drawer.json) |
 | Drawing Carnival: Horror Edition | 298570 | [298570-drawing-carnival-horror-edition.json](./298570-drawing-carnival-horror-edition.json) |
