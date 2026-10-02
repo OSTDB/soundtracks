@@ -682,6 +682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Blast: Space DLC | 356815 | [356815-ball-blast-space-dlc.json](./356815-ball-blast-space-dlc.json) |
 | Ball Blast: Space Edition | 364097 | [364097-ball-blast-space-edition.json](./364097-ball-blast-space-edition.json) |
 | Ball Blast: Wilds DLC | 356816 | [356816-ball-blast-wilds-dlc.json](./356816-ball-blast-wilds-dlc.json) |
+| Ball Blitz! | 296615 | [296615-ball-blitz.json](./296615-ball-blitz.json) |
 | Ball Bounce Maze | 166611 | [166611-ball-bounce-maze.json](./166611-ball-bounce-maze.json) |
 | Ball Boy Simulator | 412511 | [412511-ball-boy-simulator.json](./412511-ball-boy-simulator.json) |
 | Ball Breaker 3D | 78036 | [78036-ball-breaker-3d.json](./78036-ball-breaker-3d.json) |
@@ -3374,6 +3375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beware Tomorrow | 320765 | [320765-beware-tomorrow.json](./320765-beware-tomorrow.json) |
 | Bewbewbew | 201670 | [201670-bewbewbew.json](./201670-bewbewbew.json) |
 | Bewildebots | 114497 | [114497-bewildebots.json](./114497-bewildebots.json) |
+| Bewitched | 296602 | [296602-bewitched.json](./296602-bewitched.json) |
 | Bewitched Hearts | 179703 | [179703-bewitched-hearts.json](./179703-bewitched-hearts.json) |
 | Bewitching Boba | 388701 | [388701-bewitching-boba.json](./388701-bewitching-boba.json) |
 | Bewitching Sinners Royal Blood | 375292 | [375292-bewitching-sinners-royal-blood.json](./375292-bewitching-sinners-royal-blood.json) |
@@ -3473,6 +3475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Mountains | 244201 | [244201-beyond-the-mountains.json](./244201-beyond-the-mountains.json) |
 | Beyond the Phone Screen | 169886 | [169886-beyond-the-phone-screen.json](./169886-beyond-the-phone-screen.json) |
 | Beyond the Pitch | 349512 | [349512-beyond-the-pitch.json](./349512-beyond-the-pitch.json) |
+| Beyond the Portal: Island's Salvation | 296605 | [296605-beyond-the-portal-islands-salvation.json](./296605-beyond-the-portal-islands-salvation.json) |
 | Beyond the Rust | 362895 | [362895-beyond-the-rust.json](./362895-beyond-the-rust.json) |
 | Beyond the Sideline Football | 62223 | [62223-beyond-the-sideline-football.json](./62223-beyond-the-sideline-football.json) |
 | Beyond the Stars VR | 119721 | [119721-beyond-the-stars-vr.json](./119721-beyond-the-stars-vr.json) |
@@ -8522,6 +8525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunker Builder & Construction Simulator | 328562 | [328562-bunker-builder-and-construction-simulator.json](./328562-bunker-builder-and-construction-simulator.json) |
 | Bunker Builder Simulator | 217503 | [217503-bunker-builder-simulator.json](./217503-bunker-builder-simulator.json) |
 | Bunker Down | 344437 | [344437-bunker-down.json](./344437-bunker-down.json) |
+| Bunker Farmer | 296590 | [296590-bunker-farmer.json](./296590-bunker-farmer.json) |
 | Bunker Life | 220870 | [220870-bunker-life.json](./220870-bunker-life.json) |
 | Bunker of Barzai | 271460 | [271460-bunker-of-barzai.json](./271460-bunker-of-barzai.json) |
 | Bunker16 | 223684 | [223684-bunker16.json](./223684-bunker16.json) |
@@ -8571,6 +8575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Roulette | 335518 | [335518-bunny-roulette.json](./335518-bunny-roulette.json) |
 | Bunny Sword Master | 109043 | [109043-bunny-sword-master.json](./109043-bunny-sword-master.json) |
 | Bunny Swordmaster Story | 133954 | [133954-bunny-swordmaster-story.json](./133954-bunny-swordmaster-story.json) |
+| Bunny-girl with Golden Tummy | 296636 | [296636-bunny-girl-with-golden-tummy.json](./296636-bunny-girl-with-golden-tummy.json) |
 | Bunny's Flowers | 142422 | [142422-bunnys-flowers.json](./142422-bunnys-flowers.json) |
 | Bunny's Lie | 400863 | [400863-bunnys-lie.json](./400863-bunnys-lie.json) |
 | Bunny's Maze | 150605 | [150605-bunnys-maze.json](./150605-bunnys-maze.json) |
