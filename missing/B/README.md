@@ -4349,6 +4349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Ice Mod Advanced | 394546 | [394546-black-ice-mod-advanced.json](./394546-black-ice-mod-advanced.json) |
 | Black ICE/White Noise | 341681 | [341681-black-ice-white-noise.json](./341681-black-ice-white-noise.json) |
 | Black Idea | 370880 | [370880-black-idea.json](./370880-black-idea.json) |
+| Black Inc.: Go to Work | 320809 | [320809-black-inc-go-to-work.json](./320809-black-inc-go-to-work.json) |
 | Black Ink | 199495 | [199495-black-ink.json](./199495-black-ink.json) |
 | Black Jack | 246377 | [246377-black-jack.json](./246377-black-jack.json) |
 | Black Jack | 366927 | [366927-black-jack.json](./366927-black-jack.json) |
@@ -6409,6 +6410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Border Break | 81218 | [81218-border-break.json](./81218-border-break.json) |
 | Border Dungeon | 304645 | [304645-border-dungeon.json](./304645-border-dungeon.json) |
 | Border Force: Space Force | 171627 | [171627-border-force-space-force.json](./171627-border-force-space-force.json) |
+| Border Jumper | 320822 | [320822-border-jumper.json](./320822-border-jumper.json) |
 | Border Mountain | 292624 | [292624-border-mountain.json](./292624-border-mountain.json) |
 | Border of her Heart 2 | 156669 | [156669-border-of-her-heart-2.json](./156669-border-of-her-heart-2.json) |
 | Border of Insanity | 110152 | [110152-border-of-insanity.json](./110152-border-of-insanity.json) |
