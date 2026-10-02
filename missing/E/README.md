@@ -2256,6 +2256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epsilon Protocol | 342277 | [342277-epsilon-protocol.json](./342277-epsilon-protocol.json) |
 | Epsilon Tahari: Reign of the Machines | 69736 | [69736-epsilon-tahari-reign-of-the-machines.json](./69736-epsilon-tahari-reign-of-the-machines.json) |
 | Epsilon wars | 167296 | [167296-epsilon-wars.json](./167296-epsilon-wars.json) |
+| Epstein | 284575 | [284575-epstein.json](./284575-epstein.json) |
 | Epstein 2 | 315091 | [315091-epstein-2.json](./315091-epstein-2.json) |
 | Epyka | 327930 | [327930-epyka.json](./327930-epyka.json) |
 | EQ Survival Manual | 406819 | [406819-eq-survival-manual.json](./406819-eq-survival-manual.json) |
