@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Llave y Fabián Shones | 323227 | [323227-la-llave-y-fabian-shones.json](./323227-la-llave-y-fabian-shones.json) |
 | La Llorona Wants Your Soul | 291737 | [291737-la-llorona-wants-your-soul.json](./291737-la-llorona-wants-your-soul.json) |
 | LA Machine Guns | 66785 | [66785-la-machine-guns.json](./66785-la-machine-guns.json) |
+| La maison perdue de l’oncle Ernest | 287328 | [287328-la-maison-perdue-de-l-oncle-ernest.json](./287328-la-maison-perdue-de-l-oncle-ernest.json) |
 | La Malédiction | 275086 | [275086-la-malediction.json](./275086-la-malediction.json) |
 | La Maledizione dell'Uccello Serpente | 191225 | [191225-la-maledizione-delluccello-serpente.json](./191225-la-maledizione-delluccello-serpente.json) |
 | La Mansion Hoover | 323328 | [323328-la-mansion-hoover.json](./323328-la-mansion-hoover.json) |
@@ -1323,6 +1324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Slime: Idle RPG | 237529 | [237529-legend-of-slime-idle-rpg.json](./237529-legend-of-slime-idle-rpg.json) |
 | Legend of Snake | 215645 | [215645-legend-of-snake.json](./215645-legend-of-snake.json) |
 | Legend of Solgard | 107153 | [107153-legend-of-solgard.json](./107153-legend-of-solgard.json) |
+| Legend of Song | 287339 | [287339-legend-of-song.json](./287339-legend-of-song.json) |
 | Legend of Soul Cube | 220065 | [220065-legend-of-soul-cube.json](./220065-legend-of-soul-cube.json) |
 | Legend of Spacewalker | 214033 | [214033-legend-of-spacewalker.json](./214033-legend-of-spacewalker.json) |
 | Legend of Star Arthur II: Dark Nebula | 62767 | [62767-legend-of-star-arthur-ii-dark-nebula.json](./62767-legend-of-star-arthur-ii-dark-nebula.json) |
@@ -2923,6 +2925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Devourers | 169454 | [169454-little-devourers.json](./169454-little-devourers.json) |
 | Little Diggel | 29764 | [29764-little-diggel.json](./29764-little-diggel.json) |
 | Little Doll Queen | 260377 | [260377-little-doll-queen.json](./260377-little-doll-queen.json) |
+| Little Dragon Adventure | 287323 | [287323-little-dragon-adventure.json](./287323-little-dragon-adventure.json) |
 | Little Dragons Café | 88887 | [88887-little-dragons-cafe.json](./88887-little-dragons-cafe.json) |
 | Little Droid 2: Escape | 312144 | [312144-little-droid-2-escape.json](./312144-little-droid-2-escape.json) |
 | Little Duck Adventure | 303102 | [303102-little-duck-adventure.json](./303102-little-duck-adventure.json) |
@@ -3950,6 +3953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Amulets: Four Guardians | 223170 | [223170-lost-amulets-four-guardians.json](./223170-lost-amulets-four-guardians.json) |
 | Lost and Flounder | 108985 | [108985-lost-and-flounder.json](./108985-lost-and-flounder.json) |
 | Lost and Found Co. | 224629 | [224629-lost-and-found-co.json](./224629-lost-and-found-co.json) |
+| Lost and Foundry | 287304 | [287304-lost-and-foundry.json](./287304-lost-and-foundry.json) |
 | Lost and Hound | 116833 | [116833-lost-and-hound.json](./116833-lost-and-hound.json) |
 | Lost Artifacts: Frozen Queen | 123484 | [123484-lost-artifacts-frozen-queen.json](./123484-lost-artifacts-frozen-queen.json) |
 | Lost Artifacts: The Ghost of Florence - Collector's Edition | 378352 | [378352-lost-artifacts-the-ghost-of-florence-collectors-edition.json](./378352-lost-artifacts-the-ghost-of-florence-collectors-edition.json) |
