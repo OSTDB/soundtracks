@@ -883,6 +883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 Kings | 305270 | [305270-3-kings.json](./305270-3-kings.json) |
 | 3 Last Chances | 244883 | [244883-3-last-chances.json](./244883-3-last-chances.json) |
 | 3 Little Pigs & Bad Wolf | 124267 | [124267-3-little-pigs-and-bad-wolf.json](./124267-3-little-pigs-and-bad-wolf.json) |
+| 3 minutes Mystery 2 | 300960 | [300960-3-minutes-mystery-2.json](./300960-3-minutes-mystery-2.json) |
 | 3 Missing, 4am | 128589 | [128589-3-missing-4am.json](./128589-3-missing-4am.json) |
 | 3 Ninjas Kick Back | 5337 | [5337-3-ninjas-kick-back.json](./5337-3-ninjas-kick-back.json) |
 | 3 Ninjas Kick Back / Hook | 409773 | [409773-3-ninjas-kick-back-hook.json](./409773-3-ninjas-kick-back-hook.json) |
@@ -1218,6 +1219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5 Minute Climb | 245786 | [245786-5-minute-climb.json](./245786-5-minute-climb.json) |
 | 5 Minute Raid | 304004 | [304004-5-minute-raid.json](./304004-5-minute-raid.json) |
 | 5 minutes | 250903 | [250903-5-minutes.json](./250903-5-minutes.json) |
+| 5 Minutes until Goodbye | 300970 | [300970-5-minutes-until-goodbye.json](./300970-5-minutes-until-goodbye.json) |
 | 5 Nights At Grek's Hotel | 229199 | [229199-5-nights-at-greks-hotel.json](./229199-5-nights-at-greks-hotel.json) |
 | 5 Nights at Pizzeria: Animatronics Block Shooter | 102609 | [102609-5-nights-at-pizzeria-animatronics-block-shooter.json](./102609-5-nights-at-pizzeria-animatronics-block-shooter.json) |
 | 5 Nights at Timokha's 4 School | 326230 | [326230-5-nights-at-timokhas-4-school.json](./326230-5-nights-at-timokhas-4-school.json) |
@@ -1430,6 +1432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8minSurvival | 304669 | [304669-8minsurvival.json](./304669-8minsurvival.json) |
 | 8th Avenue | 333576 | [333576-8th-avenue.json](./333576-8th-avenue.json) |
 | 8th Baspis | 308925 | [308925-8th-baspis.json](./308925-8th-baspis.json) |
+| 8th Millenium: War Against The Pagan Gods | 300961 | [300961-8th-millenium-war-against-the-pagan-gods.json](./300961-8th-millenium-war-against-the-pagan-gods.json) |
 | 9 Ball Shootout | 39846 | [39846-9-ball-shootout.json](./39846-9-ball-shootout.json) |
 | 9 Childs Street | 207401 | [207401-9-childs-street.json](./207401-9-childs-street.json) |
 | 9 Classic Card & Board Games: No. 1 | 15584 | [15584-9-classic-card-and-board-games-no-1.json](./15584-9-classic-card-and-board-games-no-1.json) |
