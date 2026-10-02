@@ -1040,6 +1040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Mountains | 401027 | [401027-fantasy-mountains.json](./401027-fantasy-mountains.json) |
 | Fantasy of Esula | 292578 | [292578-fantasy-of-esula.json](./292578-fantasy-of-esula.json) |
 | Fantasy of Expedition | 113648 | [113648-fantasy-of-expedition.json](./113648-fantasy-of-expedition.json) |
+| Fantasy of Gun | 287340 | [287340-fantasy-of-gun.json](./287340-fantasy-of-gun.json) |
 | Fantasy Office | 226445 | [226445-fantasy-office.json](./226445-fantasy-office.json) |
 | Fantasy Online 2 | 327624 | [327624-fantasy-online-2.json](./327624-fantasy-online-2.json) |
 | Fantasy Puzzle King | 312697 | [312697-fantasy-puzzle-king.json](./312697-fantasy-puzzle-king.json) |
@@ -2085,6 +2086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fields of Logic | 225720 | [225720-fields-of-logic.json](./225720-fields-of-logic.json) |
 | Fields of Mine | 372981 | [372981-fields-of-mine.json](./372981-fields-of-mine.json) |
 | Fields of War | 62435 | [62435-fields-of-war.json](./62435-fields-of-war.json) |
+| Fieldwork | 287321 | [287321-fieldwork.json](./287321-fieldwork.json) |
 | Fiend | 69932 | [69932-fiend.json](./69932-fiend.json) |
 | Fiend Exile | 350520 | [350520-fiend-exile.json](./350520-fiend-exile.json) |
 | Fiend Hunter | 42000 | [42000-fiend-hunter.json](./42000-fiend-hunter.json) |
@@ -2395,6 +2397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Cut: The True Escapade | 98380 | [98380-final-cut-the-true-escapade.json](./98380-final-cut-the-true-escapade.json) |
 | Final Dawn | 227259 | [227259-final-dawn.json](./227259-final-dawn.json) |
 | Final Days | 33101 | [33101-final-days.json](./33101-final-days.json) |
+| Final Desolation | 287309 | [287309-final-desolation.json](./287309-final-desolation.json) |
 | Final Destiny | 307244 | [307244-final-destiny.json](./307244-final-destiny.json) |
 | Final District | 345045 | [345045-final-district.json](./345045-final-district.json) |
 | Final Doom | 8191 | [8191-final-doom.json](./8191-final-doom.json) |
