@@ -1166,6 +1166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parchis Club | 204683 | [204683-parchis-club.json](./204683-parchis-club.json) |
 | Parchisi | 209416 | [209416-parchisi.json](./209416-parchisi.json) |
 | Parchisi Star Online | 138606 | [138606-parchisi-star-online.json](./138606-parchisi-star-online.json) |
+| Pardus | 327913 | [327913-pardus.json](./327913-pardus.json) |
 | pareidolia in █▄██▄▄ | 280796 | [280796-pareidolia-in.json](./280796-pareidolia-in.json) |
 | Parents vs. Kids | 226320 | [226320-parents-vs-kids.json](./226320-parents-vs-kids.json) |
 | Parfait Fan Box | 332428 | [332428-parfait-fan-box.json](./332428-parfait-fan-box.json) |
@@ -2547,6 +2548,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PGA Tour 2K21: Baller Edition | 176792 | [176792-pga-tour-2k21-baller-edition.json](./176792-pga-tour-2k21-baller-edition.json) |
 | PGA Tour 2K23: Tiger Woods Edition | 221421 | [221421-pga-tour-2k23-tiger-woods-edition.json](./221421-pga-tour-2k23-tiger-woods-edition.json) |
 | PGA Tour 2K25 | 328079 | [328079-pga-tour-2k25.json](./328079-pga-tour-2k25.json) |
+| PGA Tour 2K25: Deluxe Edition | 328081 | [328081-pga-tour-2k25-deluxe-edition.json](./328081-pga-tour-2k25-deluxe-edition.json) |
+| PGA Tour 2K25: Legend Edition | 328082 | [328082-pga-tour-2k25-legend-edition.json](./328082-pga-tour-2k25-legend-edition.json) |
 | PGA Tour 96 TPC at Sawgrass Championship Course | 209982 | [209982-pga-tour-96-tpc-at-sawgrass-championship-course.json](./209982-pga-tour-96-tpc-at-sawgrass-championship-course.json) |
 | PGA Tour 96: Wentworth | 209981 | [209981-pga-tour-96-wentworth.json](./209981-pga-tour-96-wentworth.json) |
 | PGA Tour Golf 486 | 94530 | [94530-pga-tour-golf-486.json](./94530-pga-tour-golf-486.json) |
@@ -3095,6 +3098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piece of the Pie Pursuit | 97155 | [97155-piece-of-the-pie-pursuit.json](./97155-piece-of-the-pie-pursuit.json) |
 | Piece of Wonder | 72669 | [72669-piece-of-wonder.json](./72669-piece-of-wonder.json) |
 | Piece of..Horror | 253873 | [253873-piece-of-horror.json](./253873-piece-of-horror.json) |
+| Piece Out | 328083 | [328083-piece-out.json](./328083-piece-out.json) |
 | Piece Out | 54720 | [54720-piece-out.json](./54720-piece-out.json) |
 | Piece Yourself Up | 341577 | [341577-piece-yourself-up.json](./341577-piece-yourself-up.json) |
 | Pieceful | 138237 | [138237-pieceful.json](./138237-pieceful.json) |
@@ -3884,6 +3888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Drift | 83613 | [83613-pixel-drift.json](./83613-pixel-drift.json) |
 | Pixel Drifters | 234320 | [234320-pixel-drifters.json](./234320-pixel-drifters.json) |
 | Pixel Driver | 185656 | [185656-pixel-driver.json](./185656-pixel-driver.json) |
+| Pixel Duel | 327928 | [327928-pixel-duel.json](./327928-pixel-duel.json) |
 | Pixel Dungeon | 9795 | [9795-pixel-dungeon.json](./9795-pixel-dungeon.json) |
 | Pixel Dungeon RPG | 326616 | [326616-pixel-dungeon-rpg.json](./326616-pixel-dungeon-rpg.json) |
 | Pixel Dungeon VR | 348951 | [348951-pixel-dungeon-vr.json](./348951-pixel-dungeon-vr.json) |
