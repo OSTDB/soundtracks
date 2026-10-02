@@ -1422,6 +1422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Netabare ga Hageshisugiru RPG: Saigo no Teki no Shoutai ha Yuusha no Chichi | 335671 | [335671-netabare-ga-hageshisugiru-rpg-saigo-no-teki-no-shoutai-ha-yuusha-no-chichi.json](./335671-netabare-ga-hageshisugiru-rpg-saigo-no-teki-no-shoutai-ha-yuusha-no-chichi.json) |
 | Netannad | 254568 | [254568-netannad.json](./254568-netannad.json) |
 | Netcode The Protogen | 356706 | [356706-netcode-the-protogen.json](./356706-netcode-the-protogen.json) |
+| Netcode Warriors | 290611 | [290611-netcode-warriors.json](./290611-netcode-warriors.json) |
 | Netcorter: City 2179 | 217385 | [217385-netcorter-city-2179.json](./217385-netcorter-city-2179.json) |
 | Netcrawler | 183883 | [183883-netcrawler.json](./183883-netcrawler.json) |
 | NetDive | 358862 | [358862-netdive.json](./358862-netdive.json) |
@@ -2687,6 +2688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninjin: Clash of Carrots | 60534 | [60534-ninjin-clash-of-carrots.json](./60534-ninjin-clash-of-carrots.json) |
 | NinJump Dash | 60073 | [60073-ninjump-dash.json](./60073-ninjump-dash.json) |
 | NinJump Rush | 220828 | [220828-ninjump-rush.json](./220828-ninjump-rush.json) |
+| Ninjurate | 290639 | [290639-ninjurate.json](./290639-ninjurate.json) |
 | Ninki Seiyuu no Tsukurikata: Limited Edition | 167153 | [167153-ninki-seiyuu-no-tsukurikata-limited-edition.json](./167153-ninki-seiyuu-no-tsukurikata-limited-edition.json) |
 | Ninku | 248111 | [248111-ninku.json](./248111-ninku.json) |
 | Ninku | 248113 | [248113-ninku.json](./248113-ninku.json) |
@@ -3536,6 +3538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Notre-Dame de Paris: Journey Back in Time | 151074 | [151074-notre-dame-de-paris-journey-back-in-time.json](./151074-notre-dame-de-paris-journey-back-in-time.json) |
 | Notrium | 35751 | [35751-notrium.json](./35751-notrium.json) |
 | Nótt & Dagr | 135039 | [135039-nott-and-dagr.json](./135039-nott-and-dagr.json) |
+| Nottolot | 290648 | [290648-nottolot.json](./290648-nottolot.json) |
 | Notyet | 57352 | [57352-notyet.json](./57352-notyet.json) |
 | Nou wo Kitaeru! Nyanko Shashin de Machigai-sagashi | 266166 | [266166-nou-wo-kitaeru-nyanko-shashin-de-machigai-sagashi.json](./266166-nou-wo-kitaeru-nyanko-shashin-de-machigai-sagashi.json) |
 | Nou wo Kitaeru! Zekkei Shashin de Machigai-sagashi | 261371 | [261371-nou-wo-kitaeru-zekkei-shashin-de-machigai-sagashi.json](./261371-nou-wo-kitaeru-zekkei-shashin-de-machigai-sagashi.json) |
