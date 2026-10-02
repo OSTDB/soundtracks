@@ -423,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Fight Club | 198340 | [198340-galaxy-fight-club.json](./198340-galaxy-fight-club.json) |
 | Galaxy Fight: Universal Warriors | 39531 | [39531-galaxy-fight-universal-warriors.json](./39531-galaxy-fight-universal-warriors.json) |
 | Galaxy Fighters | 200023 | [200023-galaxy-fighters.json](./200023-galaxy-fighters.json) |
+| Galaxy Flavored Heroes | 306563 | [306563-galaxy-flavored-heroes.json](./306563-galaxy-flavored-heroes.json) |
 | Galaxy Force II | 6799 | [6799-galaxy-force-ii.json](./6799-galaxy-force-ii.json) |
 | Galaxy Fräulein Yuna 2: Eien no Princess | 64689 | [64689-galaxy-fraulein-yuna-2-eien-no-princess.json](./64689-galaxy-fraulein-yuna-2-eien-no-princess.json) |
 | Galaxy Fräulein Yuna: Final Edition | 280845 | [280845-galaxy-fraulein-yuna-final-edition.json](./280845-galaxy-fraulein-yuna-final-edition.json) |
