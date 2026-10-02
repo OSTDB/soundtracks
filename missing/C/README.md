@@ -4480,6 +4480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Block | 369721 | [369721-city-block.json](./369721-city-block.json) |
 | City Blocks | 108037 | [108037-city-blocks.json](./108037-city-blocks.json) |
 | City Builder | 101595 | [101595-city-builder.json](./101595-city-builder.json) |
+| City Bus Driver Simulator | 279864 | [279864-city-bus-driver-simulator.json](./279864-city-bus-driver-simulator.json) |
 | City Bus Driver Simulator 2 | 311632 | [311632-city-bus-driver-simulator-2.json](./311632-city-bus-driver-simulator-2.json) |
 | City Bus Simulator 2010 | 67299 | [67299-city-bus-simulator-2010.json](./67299-city-bus-simulator-2010.json) |
 | City Bus Simulator 2018 | 96501 | [96501-city-bus-simulator-2018.json](./96501-city-bus-simulator-2018.json) |
@@ -5150,6 +5151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Closet Organizer | 208913 | [208913-closet-organizer.json](./208913-closet-organizer.json) |
 | Closing at 2 | 280283 | [280283-closing-at-2.json](./280283-closing-at-2.json) |
 | Closing Doors | 368632 | [368632-closing-doors.json](./368632-closing-doors.json) |
+| Closing Shift | 279895 | [279895-closing-shift.json](./279895-closing-shift.json) |
 | Closing Shift | 412551 | [412551-closing-shift.json](./412551-closing-shift.json) |
 | Clostrophobia: Vol 1 | 293650 | [293650-clostrophobia-vol-1.json](./293650-clostrophobia-vol-1.json) |
 | Closure | 8146 | [8146-closure.json](./8146-closure.json) |
@@ -5269,6 +5271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clue Murder at Boddy Mansion | 28097 | [28097-clue-murder-at-boddy-mansion.json](./28097-clue-murder-at-boddy-mansion.json) |
 | Clue Solver | 105532 | [105532-clue-solver.json](./105532-clue-solver.json) |
 | Clue: Classic Mystery Game | 88928 | [88928-clue-classic-mystery-game.json](./88928-clue-classic-mystery-game.json) |
+| Clue: Deluxe Edition | 279886 | [279886-clue-deluxe-edition.json](./279886-clue-deluxe-edition.json) |
 | Clue: Murder By Death | 267439 | [267439-clue-murder-by-death.json](./267439-clue-murder-by-death.json) |
 | Clue: Secrets & Spies | 366414 | [366414-clue-secrets-and-spies.json](./366414-clue-secrets-and-spies.json) |
 | Clue/Cluedo | 262646 | [262646-clue-cluedo.json](./262646-clue-cluedo.json) |
@@ -7073,6 +7076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CoopRooms | 347156 | [347156-cooprooms.json](./347156-cooprooms.json) |
 | CoopValor 2056: Ukraine WW3 | 256292 | [256292-coopvalor-2056-ukraine-ww3.json](./256292-coopvalor-2056-ukraine-ww3.json) |
 | CoopValor WW2 Battle of the Bulge | 263522 | [263522-coopvalor-ww2-battle-of-the-bulge.json](./263522-coopvalor-ww2-battle-of-the-bulge.json) |
+| Cooties | 279887 | [279887-cooties.json](./279887-cooties.json) |
 | Cop Car Police Simulator Chase | 187469 | [187469-cop-car-police-simulator-chase.json](./187469-cop-car-police-simulator-chase.json) |
 | Cop Duty Police Car Simulator | 102761 | [102761-cop-duty-police-car-simulator.json](./102761-cop-duty-police-car-simulator.json) |
 | Copa City | 305177 | [305177-copa-city.json](./305177-copa-city.json) |
@@ -9676,6 +9680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of Woney | 365066 | [365066-curse-of-woney.json](./365066-curse-of-woney.json) |
 | Curse of Yggdrasil | 380102 | [380102-curse-of-yggdrasil.json](./380102-curse-of-yggdrasil.json) |
 | Curse Removal Service | 218150 | [218150-curse-removal-service.json](./218150-curse-removal-service.json) |
+| Curse Seal Rotation | 279896 | [279896-curse-seal-rotation.json](./279896-curse-seal-rotation.json) |
 | Curse That Magic Cat! | 142236 | [142236-curse-that-magic-cat.json](./142236-curse-that-magic-cat.json) |
 | Curse the Cursor | 369028 | [369028-curse-the-cursor.json](./369028-curse-the-cursor.json) |
 | Curse Words | 370775 | [370775-curse-words.json](./370775-curse-words.json) |
@@ -10050,6 +10055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybercon | 15923 | [15923-cybercon.json](./15923-cybercon.json) |
 | Cybercon II | 15922 | [15922-cybercon-ii.json](./15922-cybercon-ii.json) |
 | Cybercop | 287115 | [287115-cybercop.json](./287115-cybercop.json) |
+| Cybercore Leap | 279893 | [279893-cybercore-leap.json](./279893-cybercore-leap.json) |
 | Cybercum 2069 | 305763 | [305763-cybercum-2069.json](./305763-cybercum-2069.json) |
 | Cyberdillo | 39014 | [39014-cyberdillo.json](./39014-cyberdillo.json) |
 | Cyberdimension Neptunia: 4 Goddesses Online - Royal Edition | 212313 | [212313-cyberdimension-neptunia-4-goddesses-online-royal-edition.json](./212313-cyberdimension-neptunia-4-goddesses-online-royal-edition.json) |
