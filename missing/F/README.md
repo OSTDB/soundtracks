@@ -367,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Tail 2: Digital Deluxe | 324470 | [324470-fairy-tail-2-digital-deluxe.json](./324470-fairy-tail-2-digital-deluxe.json) |
 | Fairy Tail 2: Lucy Outfit - "Miss Fairy Tail Contest" | 324462 | [324462-fairy-tail-2-lucy-outfit-miss-fairy-tail-contest.json](./324462-fairy-tail-2-lucy-outfit-miss-fairy-tail-contest.json) |
 | Fairy Tail 2: Outfit Set - Swimsuit | 332229 | [332229-fairy-tail-2-outfit-set-swimsuit.json](./332229-fairy-tail-2-outfit-set-swimsuit.json) |
+| Fairy Tail 2: Ultimate Edition | 324378 | [324378-fairy-tail-2-ultimate-edition.json](./324378-fairy-tail-2-ultimate-edition.json) |
 | Fairy Tail Online | 59427 | [59427-fairy-tail-online.json](./59427-fairy-tail-online.json) |
 | Fairy Tail Portable Guild 2 | 42834 | [42834-fairy-tail-portable-guild-2.json](./42834-fairy-tail-portable-guild-2.json) |
 | Fairy Tail: Additional Dungeon - Rift in Time and Space | 238053 | [238053-fairy-tail-additional-dungeon-rift-in-time-and-space.json](./238053-fairy-tail-additional-dungeon-rift-in-time-and-space.json) |
@@ -5325,6 +5326,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frag Ops | 272322 | [272322-frag-ops.json](./272322-frag-ops.json) |
 | Frag the Tanks | 55261 | [55261-frag-the-tanks.json](./55261-frag-the-tanks.json) |
 | Frag-A-Friend | 408165 | [408165-frag-a-friend.json](./408165-frag-a-friend.json) |
+| Frag: Pro Shooter - Arena 11-13 Pro Player Pack | 324409 | [324409-frag-pro-shooter-arena-11-13-pro-player-pack.json](./324409-frag-pro-shooter-arena-11-13-pro-player-pack.json) |
+| Frag: Pro Shooter - Arena 2-4 Exclusive Character Pack | 324412 | [324412-frag-pro-shooter-arena-2-4-exclusive-character-pack.json](./324412-frag-pro-shooter-arena-2-4-exclusive-character-pack.json) |
+| Frag: Pro Shooter - Arena 5-7 Power Warriors Pack | 324410 | [324410-frag-pro-shooter-arena-5-7-power-warriors-pack.json](./324410-frag-pro-shooter-arena-5-7-power-warriors-pack.json) |
+| Frag: Pro Shooter - Arena 8-10 Elite Heroes Pack | 324411 | [324411-frag-pro-shooter-arena-8-10-elite-heroes-pack.json](./324411-frag-pro-shooter-arena-8-10-elite-heroes-pack.json) |
+| Frag: Pro Shooter - Strategic Vanguard Starter Pack | 324406 | [324406-frag-pro-shooter-strategic-vanguard-starter-pack.json](./324406-frag-pro-shooter-strategic-vanguard-starter-pack.json) |
+| Frag: Pro Shooter - The Brawler Heroes Pack | 324388 | [324388-frag-pro-shooter-the-brawler-heroes-pack.json](./324388-frag-pro-shooter-the-brawler-heroes-pack.json) |
+| Frag: Pro Shooter - The Explosive Heroes Pack | 324389 | [324389-frag-pro-shooter-the-explosive-heroes-pack.json](./324389-frag-pro-shooter-the-explosive-heroes-pack.json) |
+| Frag: Pro Shooter - The Fantasy Heroes Pack | 324387 | [324387-frag-pro-shooter-the-fantasy-heroes-pack.json](./324387-frag-pro-shooter-the-fantasy-heroes-pack.json) |
+| Frag: Pro Shooter - The Free Friendly Frag Heroes Pack | 324386 | [324386-frag-pro-shooter-the-free-friendly-frag-heroes-pack.json](./324386-frag-pro-shooter-the-free-friendly-frag-heroes-pack.json) |
+| Frag: Pro Shooter - The Sniper & Specialist Heroes Pack | 324385 | [324385-frag-pro-shooter-the-sniper-and-specialist-heroes-pack.json](./324385-frag-pro-shooter-the-sniper-and-specialist-heroes-pack.json) |
 | Fraga | 397270 | [397270-fraga.json](./397270-fraga.json) |
 | Fragger | 94183 | [94183-fragger.json](./94183-fragger.json) |
 | Fragging Free | 327339 | [327339-fragging-free.json](./327339-fragging-free.json) |
@@ -5471,12 +5482,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freaky Fun | 386914 | [386914-freaky-fun.json](./386914-freaky-fun.json) |
 | Freaky Racing | 233112 | [233112-freaky-racing.json](./233112-freaky-racing.json) |
 | Freaky Trip: Amazing Edition | 308803 | [308803-freaky-trip-amazing-edition.json](./308803-freaky-trip-amazing-edition.json) |
+| Freaky Trip: Camp Pack | 324414 | [324414-freaky-trip-camp-pack.json](./324414-freaky-trip-camp-pack.json) |
 | Freaky Trip: Deluxe Edition | 275059 | [275059-freaky-trip-deluxe-edition.json](./275059-freaky-trip-deluxe-edition.json) |
 | Freaky Trip: Extended Edition | 277913 | [277913-freaky-trip-extended-edition.json](./277913-freaky-trip-extended-edition.json) |
 | Freaky Trip: Fall Pack | 275056 | [275056-freaky-trip-fall-pack.json](./275056-freaky-trip-fall-pack.json) |
+| Freaky Trip: Garden Pack | 324407 | [324407-freaky-trip-garden-pack.json](./324407-freaky-trip-garden-pack.json) |
+| Freaky Trip: Hobby Pack | 324405 | [324405-freaky-trip-hobby-pack.json](./324405-freaky-trip-hobby-pack.json) |
 | Freaky Trip: Legendary Edition | 294828 | [294828-freaky-trip-legendary-edition.json](./294828-freaky-trip-legendary-edition.json) |
 | Freaky Trip: Platinum Edition | 298571 | [298571-freaky-trip-platinum-edition.json](./298571-freaky-trip-platinum-edition.json) |
 | Freaky Trip: Premium Edition | 284500 | [284500-freaky-trip-premium-edition.json](./284500-freaky-trip-premium-edition.json) |
+| Freaky Trip: Space Pack | 324390 | [324390-freaky-trip-space-pack.json](./324390-freaky-trip-space-pack.json) |
 | Freaky Trip: Special Edition | 283175 | [283175-freaky-trip-special-edition.json](./283175-freaky-trip-special-edition.json) |
 | Freaky Trip: Spring Pack | 275055 | [275055-freaky-trip-spring-pack.json](./275055-freaky-trip-spring-pack.json) |
 | Freaky Trip: Summer Pack | 275058 | [275058-freaky-trip-summer-pack.json](./275058-freaky-trip-summer-pack.json) |
