@@ -263,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XCOM: Enemy Unknown - Elite Soldier Pack | 286623 | [286623-xcom-enemy-unknown-elite-soldier-pack.json](./286623-xcom-enemy-unknown-elite-soldier-pack.json) |
 | XCOM: Enemy Unknown - Slingshot Pack | 225095 | [225095-xcom-enemy-unknown-slingshot-pack.json](./225095-xcom-enemy-unknown-slingshot-pack.json) |
 | XCOM: Enemy Unknown - The Complete Edition | 52118 | [52118-xcom-enemy-unknown-the-complete-edition.json](./52118-xcom-enemy-unknown-the-complete-edition.json) |
+| XCOM: Enemy Within - Commander Edition | 307236 | [307236-xcom-enemy-within-commander-edition.json](./307236-xcom-enemy-within-commander-edition.json) |
 | XCUTE(me) | 147389 | [147389-xcute-me.json](./147389-xcute-me.json) |
 | Xd Clicker | 364511 | [364511-xd-clicker.json](./364511-xd-clicker.json) |
 | xDasher | 132261 | [132261-xdasher.json](./132261-xdasher.json) |
