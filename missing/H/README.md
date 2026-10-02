@@ -5121,6 +5121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Job 94' | 265228 | [265228-hot-job-94.json](./265228-hot-job-94.json) |
 | Hot Lap League | 197776 | [197776-hot-lap-league.json](./197776-hot-lap-league.json) |
 | Hot Lap Racing | 265779 | [265779-hot-lap-racing.json](./265779-hot-lap-racing.json) |
+| Hot Line | 305458 | [305458-hot-line.json](./305458-hot-line.json) |
 | Hot Love Dreams: Classic Hentai Logic Puzzle | 274502 | [274502-hot-love-dreams-classic-hentai-logic-puzzle.json](./274502-hot-love-dreams-classic-hentai-logic-puzzle.json) |
 | Hot Mars 69 | 89587 | [89587-hot-mars-69.json](./89587-hot-mars-69.json) |
 | Hot Milf 2 | 189976 | [189976-hot-milf-2.json](./189976-hot-milf-2.json) |
