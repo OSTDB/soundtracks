@@ -1949,6 +1949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pegasis | 298866 | [298866-pegasis.json](./298866-pegasis.json) |
 | Pegasus-5: Gone Astray | 104797 | [104797-pegasus-5-gone-astray.json](./104797-pegasus-5-gone-astray.json) |
 | Pegaxy | 188410 | [188410-pegaxy.json](./188410-pegaxy.json) |
+| Pegged | 312228 | [312228-pegged.json](./312228-pegged.json) |
 | Peggle | 3751 | [3751-peggle.json](./3751-peggle.json) |
 | Peggle | 95409 | [95409-peggle.json](./95409-peggle.json) |
 | Peggle 2 | 3752 | [3752-peggle-2.json](./3752-peggle-2.json) |
@@ -4157,6 +4158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Restorer: Image Folder 7 | 353420 | [353420-pixel-restorer-image-folder-7.json](./353420-pixel-restorer-image-folder-7.json) |
 | Pixel Restorer: Image Folder 8 | 353421 | [353421-pixel-restorer-image-folder-8.json](./353421-pixel-restorer-image-folder-8.json) |
 | Pixel Restorer: Image Folder 9 | 353425 | [353425-pixel-restorer-image-folder-9.json](./353425-pixel-restorer-image-folder-9.json) |
+| Pixel Retro Drift: Arcade Car Racing | 312076 | [312076-pixel-retro-drift-arcade-car-racing.json](./312076-pixel-retro-drift-arcade-car-racing.json) |
 | Pixel Rift Adventure | 342737 | [342737-pixel-rift-adventure.json](./342737-pixel-rift-adventure.json) |
 | Pixel Ripped 1978 | 242384 | [242384-pixel-ripped-1978.json](./242384-pixel-ripped-1978.json) |
 | Pixel Ripped 1989 | 29839 | [29839-pixel-ripped-1989.json](./29839-pixel-ripped-1989.json) |
