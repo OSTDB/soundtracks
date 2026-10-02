@@ -1580,6 +1580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Destroyer 2: Ashes | 168377 | [168377-void-destroyer-2-ashes.json](./168377-void-destroyer-2-ashes.json) |
 | Void Destroyer 2: Big Red | 168376 | [168376-void-destroyer-2-big-red.json](./168376-void-destroyer-2-big-red.json) |
 | Void Disciple | 413885 | [413885-void-disciple.json](./413885-void-disciple.json) |
+| Void Dungeon | 322694 | [322694-void-dungeon.json](./322694-void-dungeon.json) |
 | Void Eagle | 215671 | [215671-void-eagle.json](./215671-void-eagle.json) |
 | Void Encounter | 172185 | [172185-void-encounter.json](./172185-void-encounter.json) |
 | Void Fighters | 403667 | [403667-void-fighters.json](./403667-void-fighters.json) |
