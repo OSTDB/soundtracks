@@ -1625,6 +1625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scotland Yard | 209023 | [209023-scotland-yard.json](./209023-scotland-yard.json) |
 | Scotland Yard | 73862 | [73862-scotland-yard.json](./73862-scotland-yard.json) |
 | Scotland Yard Interactive | 46567 | [46567-scotland-yard-interactive.json](./46567-scotland-yard-interactive.json) |
+| Scotland Yard: Hunting Mister X | 312078 | [312078-scotland-yard-hunting-mister-x.json](./312078-scotland-yard-hunting-mister-x.json) |
 | Scotland Yard: Hunting Mr. X | 22269 | [22269-scotland-yard-hunting-mr-x.json](./22269-scotland-yard-hunting-mr-x.json) |
 | Scott Adams' Graphic Adventure #4: Voodoo Castle | 73747 | [73747-scott-adams-graphic-adventure-4-voodoo-castle.json](./73747-scott-adams-graphic-adventure-4-voodoo-castle.json) |
 | Scott Adams' Graphic Adventure #5: The Count | 71580 | [71580-scott-adams-graphic-adventure-5-the-count.json](./71580-scott-adams-graphic-adventure-5-the-count.json) |
@@ -5116,6 +5117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Scope: Bone Eater | 159150 | [159150-silent-scope-bone-eater.json](./159150-silent-scope-bone-eater.json) |
 | Silent Scream | 236209 | [236209-silent-scream.json](./236209-silent-scream.json) |
 | Silent Scream 2 | 368512 | [368512-silent-scream-2.json](./368512-silent-scream-2.json) |
+| Silent Scream II: The Bride | 312211 | [312211-silent-scream-ii-the-bride.json](./312211-silent-scream-ii-the-bride.json) |
 | Silent Seeker | 209159 | [209159-silent-seeker.json](./209159-silent-seeker.json) |
 | Silent Shadow | 123007 | [123007-silent-shadow.json](./123007-silent-shadow.json) |
 | Silent Shark | 404429 | [404429-silent-shark.json](./404429-silent-shark.json) |
@@ -5126,6 +5128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent space VR | 75765 | [75765-silent-space-vr.json](./75765-silent-space-vr.json) |
 | Silent Spirits | 383363 | [383363-silent-spirits.json](./383363-silent-spirits.json) |
 | Silent Steel | 73827 | [73827-silent-steel.json](./73827-silent-steel.json) |
+| Silent Still | 312219 | [312219-silent-still.json](./312219-silent-still.json) |
 | Silent Still III | 387378 | [387378-silent-still-iii.json](./387378-silent-still-iii.json) |
 | Silent Storm | 10844 | [10844-silent-storm.json](./10844-silent-storm.json) |
 | Silent Storm: Sentinels | 10845 | [10845-silent-storm-sentinels.json](./10845-silent-storm-sentinels.json) |
@@ -6726,6 +6729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slordax: The Unknown Enemy | 73244 | [73244-slordax-the-unknown-enemy.json](./73244-slordax-the-unknown-enemy.json) |
 | Slorpus Slaughter VII: Singular Shoot Soul | 391245 | [391245-slorpus-slaughter-vii-singular-shoot-soul.json](./391245-slorpus-slaughter-vii-singular-shoot-soul.json) |
 | Slot & Learn Hangul | 409555 | [409555-slot-and-learn-hangul.json](./409555-slot-and-learn-hangul.json) |
+| Slot & Learn Hiragana | 312079 | [312079-slot-and-learn-hiragana.json](./312079-slot-and-learn-hiragana.json) |
 | Slot & Learn Kanji | 300832 | [300832-slot-and-learn-kanji.json](./300832-slot-and-learn-kanji.json) |
 | Slot & Learn Katakana | 403732 | [403732-slot-and-learn-katakana.json](./403732-slot-and-learn-katakana.json) |
 | Slot Car HTR+ : 3D Simulation | 239896 | [239896-slot-car-htr-3d-simulation.json](./239896-slot-car-htr-3d-simulation.json) |
@@ -9129,6 +9133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Thief: A Wizard's Lizard 2 | 58771 | [58771-soul-thief-a-wizards-lizard-2.json](./58771-soul-thief-a-wizards-lizard-2.json) |
 | Soul Tolerance | 211757 | [211757-soul-tolerance.json](./211757-soul-tolerance.json) |
 | Soul Unleashed | 213335 | [213335-soul-unleashed.json](./213335-soul-unleashed.json) |
+| Soul Void Redux | 312222 | [312222-soul-void-redux.json](./312222-soul-void-redux.json) |
 | Soul Warden Professional Academy | 288829 | [288829-soul-warden-professional-academy.json](./288829-soul-warden-professional-academy.json) |
 | Soul Wizards & Rogulite | 290933 | [290933-soul-wizards-and-rogulite.json](./290933-soul-wizards-and-rogulite.json) |
 | Soul Worker Rush | 193850 | [193850-soul-worker-rush.json](./193850-soul-worker-rush.json) |
@@ -10643,6 +10648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spikit | 31908 | [31908-spikit.json](./31908-spikit.json) |
 | Spiky | 144281 | [144281-spiky.json](./144281-spiky.json) |
 | Spill the Beans | 276818 | [276818-spill-the-beans.json](./276818-spill-the-beans.json) |
+| Spin & Match Puzzle Learn at Once 3 Languages | 312080 | [312080-spin-and-match-puzzle-learn-at-once-3-languages.json](./312080-spin-and-match-puzzle-learn-at-once-3-languages.json) |
 | Spin & Play: Carnival Madness | 73337 | [73337-spin-and-play-carnival-madness.json](./73337-spin-and-play-carnival-madness.json) |
 | Spin 2 Win | 410420 | [410420-spin-2-win.json](./410420-spin-2-win.json) |
 | Spin Blade Shop Simulator | 391728 | [391728-spin-blade-shop-simulator.json](./391728-spin-blade-shop-simulator.json) |
@@ -13219,6 +13225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stock Car USA | 408152 | [408152-stock-car-usa.json](./408152-stock-car-usa.json) |
 | Stock Market Tycoon: Challenge | 333703 | [333703-stock-market-tycoon-challenge.json](./333703-stock-market-tycoon-challenge.json) |
 | Stock Market: The Game | 78732 | [78732-stock-market-the-game.json](./78732-stock-market-the-game.json) |
+| Stock Stack | 312205 | [312205-stock-stack.json](./312205-stock-stack.json) |
 | Stock the Shelves | 357369 | [357369-stock-the-shelves.json](./357369-stock-the-shelves.json) |
 | Stock: Retail investors | 295542 | [295542-stock-retail-investors.json](./295542-stock-retail-investors.json) |
 | Stockfish Chess | 87155 | [87155-stockfish-chess.json](./87155-stockfish-chess.json) |
@@ -16962,6 +16969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SVETIK | 394507 | [394507-svetik.json](./394507-svetik.json) |
 | SVG-001 Puzzle | 312687 | [312687-svg-001-puzzle.json](./312687-svg-001-puzzle.json) |
 | Svrvive: The Deus Helix | 26121 | [26121-svrvive-the-deus-helix.json](./26121-svrvive-the-deus-helix.json) |
+| Swabby | 312224 | [312224-swabby.json](./312224-swabby.json) |
 | Swagbucks Live | 88542 | [88542-swagbucks-live.json](./88542-swagbucks-live.json) |
 | Swagman | 20810 | [20810-swagman.json](./20810-swagman.json) |
 | Swallow | 203871 | [203871-swallow.json](./203871-swallow.json) |
