@@ -3794,6 +3794,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip＊Flop: Rambling Overrun | 397245 | [397245-flip-flop-rambling-overrun.json](./397245-flip-flop-rambling-overrun.json) |
 | Flipbomb | 371348 | [371348-flipbomb.json](./371348-flipbomb.json) |
 | FlipBook | 315831 | [315831-flipbook.json](./315831-flipbook.json) |
+| FlipBook: Canvas Pack 1 | 317927 | [317927-flipbook-canvas-pack-1.json](./317927-flipbook-canvas-pack-1.json) |
+| FlipBook: Canvas Pack 2 | 317928 | [317928-flipbook-canvas-pack-2.json](./317928-flipbook-canvas-pack-2.json) |
 | FlipCard | 351751 | [351751-flipcard.json](./351751-flipcard.json) |
 | FlipFlipDuck | 175268 | [175268-flipflipduck.json](./175268-flipflipduck.json) |
 | Flipi Rivals | 420685 | [420685-flipi-rivals.json](./420685-flipi-rivals.json) |
