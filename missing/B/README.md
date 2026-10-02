@@ -5783,6 +5783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob Morane: Science Fiction 1 | 55096 | [55096-bob-morane-science-fiction-1.json](./55096-bob-morane-science-fiction-1.json) |
 | Bob Ross: The Joy of Painting | 205647 | [205647-bob-ross-the-joy-of-painting.json](./205647-bob-ross-the-joy-of-painting.json) |
 | Bob Saves the Princess | 373726 | [373726-bob-saves-the-princess.json](./373726-bob-saves-the-princess.json) |
+| Bob Smith and the Unsolved Case of Mystery | 318475 | [318475-bob-smith-and-the-unsolved-case-of-mystery.json](./318475-bob-smith-and-the-unsolved-case-of-mystery.json) |
 | Bob The Astronaut | 289404 | [289404-bob-the-astronaut.json](./289404-bob-the-astronaut.json) |
 | Bob the Block: Rebooted | 296499 | [296499-bob-the-block-rebooted.json](./296499-bob-the-block-rebooted.json) |
 | Bob the Builder | 83246 | [83246-bob-the-builder.json](./83246-bob-the-builder.json) |
@@ -6174,6 +6175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bone Dust | 236774 | [236774-bone-dust.json](./236774-bone-dust.json) |
 | Bone Marrow | 129624 | [129624-bone-marrow.json](./129624-bone-marrow.json) |
 | Bone Mayhem | 146877 | [146877-bone-mayhem.json](./146877-bone-mayhem.json) |
+| Bone Sniffer! | 318477 | [318477-bone-sniffer.json](./318477-bone-sniffer.json) |
 | Bone Souls | 359038 | [359038-bone-souls.json](./359038-bone-souls.json) |
 | Bone Stuff | 407338 | [407338-bone-stuff.json](./407338-bone-stuff.json) |
 | Bone Warper | 323777 | [323777-bone-warper.json](./323777-bone-warper.json) |
@@ -6891,6 +6893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoxLoop | 207542 | [207542-boxloop.json](./207542-boxloop.json) |
 | BoxMaker | 52078 | [52078-boxmaker.json](./52078-boxmaker.json) |
 | Boxman Adventures | 203896 | [203896-boxman-adventures.json](./203896-boxman-adventures.json) |
+| Boxman in the World of the Wuuza Wizards | 318481 | [318481-boxman-in-the-world-of-the-wuuza-wizards.json](./318481-boxman-in-the-world-of-the-wuuza-wizards.json) |
 | Boxman's Struggle | 129366 | [129366-boxmans-struggle.json](./129366-boxmans-struggle.json) |
 | Boxocost | 144962 | [144962-boxocost.json](./144962-boxocost.json) |
 | Boxpast Lov3you | 392301 | [392301-boxpast-lov3you.json](./392301-boxpast-lov3you.json) |
@@ -6940,6 +6943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bracer | 403818 | [403818-bracer.json](./403818-bracer.json) |
 | Bracket Chain | 279765 | [279765-bracket-chain.json](./279765-bracket-chain.json) |
 | Bracket City | 341031 | [341031-bracket-city.json](./341031-bracket-city.json) |
+| Brad Bradson in Key Quest | 318482 | [318482-brad-bradson-in-key-quest.json](./318482-brad-bradson-in-key-quest.json) |
 | Brad Has A Pain | 194424 | [194424-brad-has-a-pain.json](./194424-brad-has-a-pain.json) |
 | Bradley the Badger | 381211 | [381211-bradley-the-badger.json](./381211-bradley-the-badger.json) |
 | Bradley Trainer | 40272 | [40272-bradley-trainer.json](./40272-bradley-trainer.json) |
@@ -8379,6 +8383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bun Buns: Cozy DLC | 395688 | [395688-bun-buns-cozy-dlc.json](./395688-bun-buns-cozy-dlc.json) |
 | Bun Buns: Cute DLC | 395689 | [395689-bun-buns-cute-dlc.json](./395689-bun-buns-cute-dlc.json) |
 | Bun Wars: Best of fun for Boys Girls and Kids | 101533 | [101533-bun-wars-best-of-fun-for-boys-girls-and-kids.json](./101533-bun-wars-best-of-fun-for-boys-girls-and-kids.json) |
+| Buna Wants Beer | 318525 | [318525-buna-wants-beer.json](./318525-buna-wants-beer.json) |
 | Bunch of Heroes: Holiday Pack | 226274 | [226274-bunch-of-heroes-holiday-pack.json](./226274-bunch-of-heroes-holiday-pack.json) |
 | Bunches For Bart! | 297795 | [297795-bunches-for-bart.json](./297795-bunches-for-bart.json) |
 | Buncho: The Lost Bird | 185419 | [185419-buncho-the-lost-bird.json](./185419-buncho-the-lost-bird.json) |
