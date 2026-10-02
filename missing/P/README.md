@@ -1758,6 +1758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payday 3: Boys in Blue Heist | 312011 | [312011-payday-3-boys-in-blue-heist.json](./312011-payday-3-boys-in-blue-heist.json) |
 | Payday 3: Boys in Blue Tailor Pack | 312016 | [312016-payday-3-boys-in-blue-tailor-pack.json](./312016-payday-3-boys-in-blue-tailor-pack.json) |
 | Payday 3: Boys in Blue Weapon Pack | 312009 | [312009-payday-3-boys-in-blue-weapon-pack.json](./312009-payday-3-boys-in-blue-weapon-pack.json) |
+| Payday 3: Chapter 2 - Boys in Blue | 314343 | [314343-payday-3-chapter-2-boys-in-blue.json](./314343-payday-3-chapter-2-boys-in-blue.json) |
 | Payday 3: Chapter 4 - Fear & Greed | 371317 | [371317-payday-3-chapter-4-fear-and-greed.json](./371317-payday-3-chapter-4-fear-and-greed.json) |
 | Payday 3: Gold Pass | 314515 | [314515-payday-3-gold-pass.json](./314515-payday-3-gold-pass.json) |
 | Payday 3: Houston Breakout Heist | 314518 | [314518-payday-3-houston-breakout-heist.json](./314518-payday-3-houston-breakout-heist.json) |
@@ -6026,6 +6027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pools of Darkness | 12761 | [12761-pools-of-darkness.json](./12761-pools-of-darkness.json) |
 | Poolside Girls Kiss: Passion Fruits Hotel Dating Sim | 362364 | [362364-poolside-girls-kiss-passion-fruits-hotel-dating-sim.json](./362364-poolside-girls-kiss-passion-fruits-hotel-dating-sim.json) |
 | Poolside Vigil | 384180 | [384180-poolside-vigil.json](./384180-poolside-vigil.json) |
+| Poop | 314398 | [314398-poop.json](./314398-poop.json) |
 | Poop Clicker | 195625 | [195625-poop-clicker.json](./195625-poop-clicker.json) |
 | Poop Collector | 196169 | [196169-poop-collector.json](./196169-poop-collector.json) |
 | Poop Collector: Number 2 | 245282 | [245282-poop-collector-number-2.json](./245282-poop-collector-number-2.json) |
@@ -6098,8 +6100,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop'n Music Portable 2 | 64472 | [64472-popn-music-portable-2.json](./64472-popn-music-portable-2.json) |
 | Pop'n Music Sengoku Retsuden | 67315 | [67315-popn-music-sengoku-retsuden.json](./67315-popn-music-sengoku-retsuden.json) |
 | Pop'n Music the Movie | 67316 | [67316-popn-music-the-movie.json](./67316-popn-music-the-movie.json) |
+| Pop'n Music: Mickey Tunes | 314334 | [314334-popn-music-mickey-tunes.json](./314334-popn-music-mickey-tunes.json) |
 | pop'n music: Tune Street | 98811 | [98811-popn-music-tune-street.json](./98811-popn-music-tune-street.json) |
 | Pop'n pop globos | 50060 | [50060-popn-pop-globos.json](./50060-popn-pop-globos.json) |
+| Pop'n Stage EX | 314354 | [314354-popn-stage-ex.json](./314354-popn-stage-ex.json) |
 | Pop'n Taisen Puzzle Dama Online | 281402 | [281402-popn-taisen-puzzle-dama-online.json](./281402-popn-taisen-puzzle-dama-online.json) |
 | Pop's Pop's | 254593 | [254593-pops-pops.json](./254593-pops-pops.json) |
 | Pop4 | 134028 | [134028-pop4.json](./134028-pop4.json) |
