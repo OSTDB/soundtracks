@@ -209,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sadhana | 364598 | [364598-sadhana.json](./364598-sadhana.json) |
 | Sadist II: Ostatni Krzyk | 404380 | [404380-sadist-ii-ostatni-krzyk.json](./404380-sadist-ii-ostatni-krzyk.json) |
 | Sadko | 397674 | [397674-sadko.json](./397674-sadko.json) |
+| Sadlands | 284580 | [284580-sadlands.json](./284580-sadlands.json) |
 | Sadness & Solitude | 61149 | [61149-sadness-and-solitude.json](./61149-sadness-and-solitude.json) |
 | Sadness of Valor | 159070 | [159070-sadness-of-valor.json](./159070-sadness-of-valor.json) |
 | Sadoubu (Tea Ceremony Club) | 82946 | [82946-sadoubu-tea-ceremony-club.json](./82946-sadoubu-tea-ceremony-club.json) |
@@ -2930,6 +2931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serpy | 78054 | [78054-serpy.json](./78054-serpy.json) |
 | Serra Pelada | 80551 | [80551-serra-pelada.json](./80551-serra-pelada.json) |
 | Serre | 134522 | [134522-serre.json](./134522-serre.json) |
+| Sertorgina | 284616 | [284616-sertorgina.json](./284616-sertorgina.json) |
 | Serum | 216721 | [216721-serum.json](./216721-serum.json) |
 | Serum | 273863 | [273863-serum.json](./273863-serum.json) |
 | Serum X | 95229 | [95229-serum-x.json](./95229-serum-x.json) |
@@ -3639,6 +3641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shamus | 18659 | [18659-shamus.json](./18659-shamus.json) |
 | Shamus: Case II | 23889 | [23889-shamus-case-ii.json](./23889-shamus-case-ii.json) |
 | Shan Gui II: Sweet Osmanthus II | 110467 | [110467-shan-gui-ii-sweet-osmanthus-ii.json](./110467-shan-gui-ii-sweet-osmanthus-ii.json) |
+| Shān Hǎi Cháng Gē | 284607 | [284607-shan-hai-chang-ge.json](./284607-shan-hai-chang-ge.json) |
 | Shan Hai: Mythic Origins | 374845 | [374845-shan-hai-mythic-origins.json](./374845-shan-hai-mythic-origins.json) |
 | Shan's Salty Seamen | 176291 | [176291-shans-salty-seamen.json](./176291-shans-salty-seamen.json) |
 | Shane Warne's Cricket Test Interactive DVD Game | 352193 | [352193-shane-warnes-cricket-test-interactive-dvd-game.json](./352193-shane-warnes-cricket-test-interactive-dvd-game.json) |
@@ -13212,6 +13215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stephen King's F13 | 74412 | [74412-stephen-kings-f13.json](./74412-stephen-kings-f13.json) |
 | Stephen King's F13 | 92828 | [92828-stephen-kings-f13.json](./92828-stephen-kings-f13.json) |
 | StepMania | 51311 | [51311-stepmania.json](./51311-stepmania.json) |
+| Steppenwolf: The X-Creatures Project | 284584 | [284584-steppenwolf-the-x-creatures-project.json](./284584-steppenwolf-the-x-creatures-project.json) |
 | Stepping Selection | 66741 | [66741-stepping-selection.json](./66741-stepping-selection.json) |
 | Steppy Pants | 57944 | [57944-steppy-pants.json](./57944-steppy-pants.json) |
 | Steptile | 287097 | [287097-steptile.json](./287097-steptile.json) |
@@ -13665,6 +13669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stow Away | 400958 | [400958-stow-away.json](./400958-stow-away.json) |
 | Stowaway | 288868 | [288868-stowaway.json](./288868-stowaway.json) |
 | Stowizm | 184103 | [184103-stowizm.json](./184103-stowizm.json) |
+| Stozle: Solve the Mystery | 284563 | [284563-stozle-solve-the-mystery.json](./284563-stozle-solve-the-mystery.json) |
 | Stradale Racing Simulator | 175380 | [175380-stradale-racing-simulator.json](./175380-stradale-racing-simulator.json) |
 | Strafest | 397854 | [397854-strafest.json](./397854-strafest.json) |
 | Straftat | 253558 | [253558-straftat.json](./253558-straftat.json) |
@@ -17134,6 +17139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor Company | 311562 | [311562-survivor-company.json](./311562-survivor-company.json) |
 | Survivor Day | 195599 | [195599-survivor-day.json](./195599-survivor-day.json) |
 | Survivor Dieland | 160257 | [160257-survivor-dieland.json](./160257-survivor-dieland.json) |
+| Survivor Fantasia | 284605 | [284605-survivor-fantasia.json](./284605-survivor-fantasia.json) |
 | Survivor Girls | 277367 | [277367-survivor-girls.json](./277367-survivor-girls.json) |
 | Survivor Heroes | 313222 | [313222-survivor-heroes.json](./313222-survivor-heroes.json) |
 | Survivor Idle Run | 248124 | [248124-survivor-idle-run.json](./248124-survivor-idle-run.json) |
