@@ -2770,6 +2770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wind Child | 34632 | [34632-wind-child.json](./34632-wind-child.json) |
 | Wind Fantasy Double Cross | 408793 | [408793-wind-fantasy-double-cross.json](./408793-wind-fantasy-double-cross.json) |
 | Wind Fantasy II: Alive | 350516 | [350516-wind-fantasy-ii-alive.json](./350516-wind-fantasy-ii-alive.json) |
+| Wind Field | 292254 | [292254-wind-field.json](./292254-wind-field.json) |
 | Wind Force | 116984 | [116984-wind-force.json](./116984-wind-force.json) |
 | Wind Giants | 334353 | [334353-wind-giants.json](./334353-wind-giants.json) |
 | Wind Horizon | 57027 | [57027-wind-horizon.json](./57027-wind-horizon.json) |
