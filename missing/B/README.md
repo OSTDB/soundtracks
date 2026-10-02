@@ -1309,6 +1309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barista Dream | 366354 | [366354-barista-dream.json](./366354-barista-dream.json) |
 | Barista Life | 405001 | [405001-barista-life.json](./405001-barista-life.json) |
 | Barista Life Simulator 2026 | 391255 | [391255-barista-life-simulator-2026.json](./391255-barista-life-simulator-2026.json) |
+| Barista Master: Café Empire | 333713 | [333713-barista-master-cafe-empire.json](./333713-barista-master-cafe-empire.json) |
 | Barista: Take Away | 207533 | [207533-barista-take-away.json](./207533-barista-take-away.json) |
 | Bark Beat | 177443 | [177443-bark-beat.json](./177443-bark-beat.json) |
 | Bark Tank | 338194 | [338194-bark-tank.json](./338194-bark-tank.json) |
@@ -3533,6 +3534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Buck Hunter Arcade: Elk Adventure Pack | 226810 | [226810-big-buck-hunter-arcade-elk-adventure-pack.json](./226810-big-buck-hunter-arcade-elk-adventure-pack.json) |
 | Big Buck Hunter Pro | 220075 | [220075-big-buck-hunter-pro.json](./220075-big-buck-hunter-pro.json) |
 | Big Buck Hunter Pro Adventure | 328254 | [328254-big-buck-hunter-pro-adventure.json](./328254-big-buck-hunter-pro-adventure.json) |
+| Big Buck Hunter: Ultimate Trophy - Deluxe Edition | 333717 | [333717-big-buck-hunter-ultimate-trophy-deluxe-edition.json](./333717-big-buck-hunter-ultimate-trophy-deluxe-edition.json) |
 | Big Buck Hunter: Ultimate Trophy - Mythic Hunting Pack | 333752 | [333752-big-buck-hunter-ultimate-trophy-mythic-hunting-pack.json](./333752-big-buck-hunter-ultimate-trophy-mythic-hunting-pack.json) |
 | Big Buck Safari | 220076 | [220076-big-buck-safari.json](./220076-big-buck-safari.json) |
 | Big Buck World | 144195 | [144195-big-buck-world.json](./144195-big-buck-world.json) |
@@ -6729,6 +6731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling Crew | 256240 | [256240-bowling-crew.json](./256240-bowling-crew.json) |
 | Bowling Fever Strike Masters | 378961 | [378961-bowling-fever-strike-masters.json](./378961-bowling-fever-strike-masters.json) |
 | Bowling Fever: Deluxe Edition | 288285 | [288285-bowling-fever-deluxe-edition.json](./288285-bowling-fever-deluxe-edition.json) |
+| Bowling Fever: Discovery Edition | 333718 | [333718-bowling-fever-discovery-edition.json](./333718-bowling-fever-discovery-edition.json) |
 | Bowling Fever: Grand Edition | 396914 | [396914-bowling-fever-grand-edition.json](./396914-bowling-fever-grand-edition.json) |
 | Bowling Fever: Power Edition | 399811 | [399811-bowling-fever-power-edition.json](./399811-bowling-fever-power-edition.json) |
 | Bowling Islands | 234616 | [234616-bowling-islands.json](./234616-bowling-islands.json) |
