@@ -349,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japan Mahjong | 334660 | [334660-japan-mahjong.json](./334660-japan-mahjong.json) |
 | Japan Studio VR Music Festival | 68296 | [68296-japan-studio-vr-music-festival.json](./68296-japan-studio-vr-music-festival.json) |
 | Japan Sumo Cup: Yokozuna vs. Street Fighter | 59468 | [59468-japan-sumo-cup-yokozuna-vs-street-fighter.json](./59468-japan-sumo-cup-yokozuna-vs-street-fighter.json) |
+| Japan Train Models: JR Freight Edition | 294982 | [294982-japan-train-models-jr-freight-edition.json](./294982-japan-train-models-jr-freight-edition.json) |
 | Japan Train Models: JR Kyushu Edition | 286104 | [286104-japan-train-models-jr-kyushu-edition.json](./286104-japan-train-models-jr-kyushu-edition.json) |
 | Japan Train Models: JR West Edition | 278130 | [278130-japan-train-models-jr-west-edition.json](./278130-japan-train-models-jr-west-edition.json) |
 | Japan Trip | 340767 | [340767-japan-trip.json](./340767-japan-trip.json) |
@@ -1443,6 +1444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jrago III Requiem of the Night | 390531 | [390531-jrago-iii-requiem-of-the-night.json](./390531-jrago-iii-requiem-of-the-night.json) |
 | Jrago The Demon Hunter | 262914 | [262914-jrago-the-demon-hunter.json](./262914-jrago-the-demon-hunter.json) |
 | JRoguePG | 346657 | [346657-jroguepg.json](./346657-jroguepg.json) |
+| JTAC Beats | 294960 | [294960-jtac-beats.json](./294960-jtac-beats.json) |
 | Ju | 74382 | [74382-ju.json](./74382-ju.json) |
 | Ju Ju Densetsu | 40202 | [40202-ju-ju-densetsu.json](./40202-ju-ju-densetsu.json) |
 | Ju-on: The Grudge | 4945 | [4945-ju-on-the-grudge.json](./4945-ju-on-the-grudge.json) |
