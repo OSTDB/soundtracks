@@ -1360,6 +1360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Embers Adrift | 186247 | [186247-embers-adrift.json](./186247-embers-adrift.json) |
 | Embers of Caerus | 64975 | [64975-embers-of-caerus.json](./64975-embers-of-caerus.json) |
 | Embers of Mirrim | 29141 | [29141-embers-of-mirrim.json](./29141-embers-of-mirrim.json) |
+| Embers of Spiritflame | 319681 | [319681-embers-of-spiritflame.json](./319681-embers-of-spiritflame.json) |
 | Embers of the Empire | 402913 | [402913-embers-of-the-empire.json](./402913-embers-of-the-empire.json) |
 | Embers of the Gods | 403648 | [403648-embers-of-the-gods.json](./403648-embers-of-the-gods.json) |
 | Embers of the Night | 348863 | [348863-embers-of-the-night.json](./348863-embers-of-the-night.json) |
