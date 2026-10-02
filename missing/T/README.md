@@ -5070,6 +5070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gray Wolf and The Little Lamb | 245003 | [245003-the-gray-wolf-and-the-little-lamb.json](./245003-the-gray-wolf-and-the-little-lamb.json) |
 | The Great | 211959 | [211959-the-great.json](./211959-the-great.json) |
 | The Great Ace Attorney: Adventures | 76244 | [76244-the-great-ace-attorney-adventures.json](./76244-the-great-ace-attorney-adventures.json) |
+| The Great Adventures of Nedmapagmahal | 305984 | [305984-the-great-adventures-of-nedmapagmahal.json](./305984-the-great-adventures-of-nedmapagmahal.json) |
 | The Great Art Race | 10690 | [10690-the-great-art-race.json](./10690-the-great-art-race.json) |
 | The Great Axe | 365824 | [365824-the-great-axe.json](./365824-the-great-axe.json) |
 | The Great Basement Escape | 385192 | [385192-the-great-basement-escape.json](./385192-the-great-basement-escape.json) |
@@ -5594,6 +5595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Isle of Lost Bees | 404945 | [404945-the-isle-of-lost-bees.json](./404945-the-isle-of-lost-bees.json) |
 | The Isle of the Dead | 118320 | [118320-the-isle-of-the-dead.json](./118320-the-isle-of-the-dead.json) |
 | The Isle Survival | 261507 | [261507-the-isle-survival.json](./261507-the-isle-survival.json) |
+| The Isles of the Seven Moons | 306005 | [306005-the-isles-of-the-seven-moons.json](./306005-the-isles-of-the-seven-moons.json) |
 | The Isolated Town | 253594 | [253594-the-isolated-town.json](./253594-the-isolated-town.json) |
 | The Isolation Ward | 177840 | [177840-the-isolation-ward.json](./177840-the-isolation-ward.json) |
 | The Italianeer | 105552 | [105552-the-italianeer.json](./105552-the-italianeer.json) |
@@ -8526,6 +8528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Story of a World | 216154 | [216154-the-story-of-a-world.json](./216154-the-story-of-a-world.json) |
 | The Story of King Aress | 125464 | [125464-the-story-of-king-aress.json](./125464-the-story-of-king-aress.json) |
 | The Story of Mikagoyama | 390661 | [390661-the-story-of-mikagoyama.json](./390661-the-story-of-mikagoyama.json) |
+| The Story of Miss Mouse | 306026 | [306026-the-story-of-miss-mouse.json](./306026-the-story-of-miss-mouse.json) |
 | The Story of My Life | 114774 | [114774-the-story-of-my-life.json](./114774-the-story-of-my-life.json) |
 | The Story of Red Cloud | 361223 | [361223-the-story-of-red-cloud.json](./361223-the-story-of-red-cloud.json) |
 | The Story of the Revolutionary Watermelon That Wanted to Live Free as a Bird and Learned How to Escape | 144241 | [144241-the-story-of-the-revolutionary-watermelon-that-wanted-to-live-free-as-a-bird-and-learned-how-to-escape.json](./144241-the-story-of-the-revolutionary-watermelon-that-wanted-to-live-free-as-a-bird-and-learned-how-to-escape.json) |
