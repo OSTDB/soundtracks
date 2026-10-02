@@ -1142,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Dog Story | 28327 | [28327-one-dog-story.json](./28327-one-dog-story.json) |
 | One Dog's Stay | 326272 | [326272-one-dogs-stay.json](./326272-one-dogs-stay.json) |
 | One Dollar Empire | 402252 | [402252-one-dollar-empire.json](./402252-one-dollar-empire.json) |
+| One Dollar Simulator | 286745 | [286745-one-dollar-simulator.json](./286745-one-dollar-simulator.json) |
 | One Dreamy Night | 312587 | [312587-one-dreamy-night.json](./312587-one-dreamy-night.json) |
 | One Drone | 236251 | [236251-one-drone.json](./236251-one-drone.json) |
 | One Drop | 284396 | [284396-one-drop.json](./284396-one-drop.json) |
@@ -1478,7 +1479,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oni II: Innin Densetsu | 63371 | [63371-oni-ii-innin-densetsu.json](./63371-oni-ii-innin-densetsu.json) |
 | Oni III: Kuro no Hakaishin | 63372 | [63372-oni-iii-kuro-no-hakaishin.json](./63372-oni-iii-kuro-no-hakaishin.json) |
 | Oni IV: Kishin no Ketsuzoku | 63370 | [63370-oni-iv-kishin-no-ketsuzoku.json](./63370-oni-iv-kishin-no-ketsuzoku.json) |
+| Oni No Kenkyuushitsu | 286761 | [286761-oni-no-kenkyuushitsu.json](./286761-oni-no-kenkyuushitsu.json) |
 | Oni no Moribito | 355201 | [355201-oni-no-moribito.json](./355201-oni-no-moribito.json) |
+| Oni no Yakata | 286759 | [286759-oni-no-yakata.json](./286759-oni-no-yakata.json) |
 | Oni Oneesan | 253887 | [253887-oni-oneesan.json](./253887-oni-oneesan.json) |
 | Oni V: Innin no Tsugumono | 63369 | [63369-oni-v-innin-no-tsugumono.json](./63369-oni-v-innin-no-tsugumono.json) |
 | Oni: Road to be the Mightiest Oni | 194944 | [194944-oni-road-to-be-the-mightiest-oni.json](./194944-oni-road-to-be-the-mightiest-oni.json) |
