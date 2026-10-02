@@ -4251,6 +4251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black | 5749 | [5749-black.json](./5749-black.json) |
 | Black & White | 376747 | [376747-black-and-white.json](./376747-black-and-white.json) |
 | Black 9 | 369716 | [369716-black-9.json](./369716-black-9.json) |
+| Black Armor: Battle For Survivors | 326173 | [326173-black-armor-battle-for-survivors.json](./326173-black-armor-battle-for-survivors.json) |
 | Black Astral | 201317 | [201317-black-astral.json](./201317-black-astral.json) |
 | Black Baby | 139292 | [139292-black-baby.json](./139292-black-baby.json) |
 | Black Baby Classic | 178461 | [178461-black-baby-classic.json](./178461-black-baby-classic.json) |
