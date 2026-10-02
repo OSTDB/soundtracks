@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | O Conde de Monte Cristo | 293914 | [293914-o-conde-de-monte-cristo.json](./293914-o-conde-de-monte-cristo.json) |
+| O Conto de Ada | 307229 | [307229-o-conto-de-ada.json](./307229-o-conto-de-ada.json) |
 | O Horror Amarelo | 338939 | [338939-o-horror-amarelo.json](./338939-o-horror-amarelo.json) |
 | O Rei | 121649 | [121649-o-rei.json](./121649-o-rei.json) |
 | O reino em outro mundo | 315131 | [315131-o-reino-em-outro-mundo.json](./315131-o-reino-em-outro-mundo.json) |
