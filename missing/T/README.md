@@ -1057,6 +1057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tankex | 117436 | [117436-tankex.json](./117436-tankex.json) |
 | TankFall Arena | 406845 | [406845-tankfall-arena.json](./406845-tankfall-arena.json) |
 | TankHead | 324944 | [324944-tankhead.json](./324944-tankhead.json) |
+| Tanki 2011 | 298833 | [298833-tanki-2011.json](./298833-tanki-2011.json) |
 | Tanki X | 29163 | [29163-tanki-x.json](./29163-tanki-x.json) |
 | Tanking Tanks | 112375 | [112375-tanking-tanks.json](./112375-tanking-tanks.json) |
 | Tankiro | 346179 | [346179-tankiro.json](./346179-tankiro.json) |
@@ -1130,6 +1131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantei Jinguji Saburo: Toki no Sugiyuku Mama ni | 48883 | [48883-tantei-jinguji-saburo-toki-no-sugiyuku-mama-ni.json](./48883-tantei-jinguji-saburo-toki-no-sugiyuku-mama-ni.json) |
 | Tantei Jinguji Saburo: Tsubaki no Yukue & Nazono-Jikenbo | 347299 | [347299-tantei-jinguji-saburo-tsubaki-no-yukue-and-nazono-jikenbo.json](./347299-tantei-jinguji-saburo-tsubaki-no-yukue-and-nazono-jikenbo.json) |
 | Tantei Kibukawa Ryosuke Jiken Tan: The Masquerade Lullaby | 124070 | [124070-tantei-kibukawa-ryosuke-jiken-tan-the-masquerade-lullaby.json](./124070-tantei-kibukawa-ryosuke-jiken-tan-the-masquerade-lullaby.json) |
+| Tantei Kibukawa Ryousuke Jiken-tan Kamen Genei Satsujin Jiken Introduction | 298797 | [298797-tantei-kibukawa-ryousuke-jiken-tan-kamen-genei-satsujin-jiken-introduction.json](./298797-tantei-kibukawa-ryousuke-jiken-tan-kamen-genei-satsujin-jiken-introduction.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan Vol. 7: Otonari Keiji no Sousa Memo | 297585 | [297585-tantei-kibukawa-ryousuke-jiken-tan-vol-7-otonari-keiji-no-sousa-memo.json](./297585-tantei-kibukawa-ryousuke-jiken-tan-vol-7-otonari-keiji-no-sousa-memo.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan: Eigou-kai Jiken | 299763 | [299763-tantei-kibukawa-ryousuke-jiken-tan-eigou-kai-jiken.json](./299763-tantei-kibukawa-ryousuke-jiken-tan-eigou-kai-jiken.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan: Vol. 1 - Kamen Gensou Satsujin Jiken | 293239 | [293239-tantei-kibukawa-ryousuke-jiken-tan-vol-1-kamen-gensou-satsujin-jiken.json](./293239-tantei-kibukawa-ryousuke-jiken-tan-vol-1-kamen-gensou-satsujin-jiken.json) |
@@ -2016,6 +2018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenchi Muyo! Ryo-Ohki FX | 123079 | [123079-tenchi-muyo-ryo-ohki-fx.json](./123079-tenchi-muyo-ryo-ohki-fx.json) |
 | Tenchi Muyo! Toko Muyo | 66384 | [66384-tenchi-muyo-toko-muyo.json](./66384-tenchi-muyo-toko-muyo.json) |
 | Tenchi wo Kurau | 287154 | [287154-tenchi-wo-kurau.json](./287154-tenchi-wo-kurau.json) |
+| Tenchi wo Kurau | 298800 | [298800-tenchi-wo-kurau.json](./298800-tenchi-wo-kurau.json) |
 | Tenchi wo Kurau: Sangokushi Gunyuuden | 37790 | [37790-tenchi-wo-kurau-sangokushi-gunyuuden.json](./37790-tenchi-wo-kurau-sangokushi-gunyuuden.json) |
 | Tencho no Igo | 65565 | [65565-tencho-no-igo.json](./65565-tencho-no-igo.json) |
 | Tenchu: Time Of The Assassins | 44512 | [44512-tenchu-time-of-the-assassins.json](./44512-tenchu-time-of-the-assassins.json) |
@@ -3274,6 +3277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Binding of Isaac: Revelations | 376126 | [376126-the-binding-of-isaac-revelations.json](./376126-the-binding-of-isaac-revelations.json) |
 | The Binding of You | 83551 | [83551-the-binding-of-you.json](./83551-the-binding-of-you.json) |
 | The Biorift | 376550 | [376550-the-biorift.json](./376550-the-biorift.json) |
+| The Bird and the Bicycle | 298780 | [298780-the-bird-and-the-bicycle.json](./298780-the-bird-and-the-bicycle.json) |
 | The Bird Museum | 182545 | [182545-the-bird-museum.json](./182545-the-bird-museum.json) |
 | The Bird's Realm 3 | 201805 | [201805-the-birds-realm-3.json](./201805-the-birds-realm-3.json) |
 | The Birdcage 2 | 117499 | [117499-the-birdcage-2.json](./117499-the-birdcage-2.json) |
@@ -3329,6 +3333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blockheads | 39213 | [39213-the-blockheads.json](./39213-the-blockheads.json) |
 | The Blockheads Server | 87690 | [87690-the-blockheads-server.json](./87690-the-blockheads-server.json) |
 | The Blocks Cometh | 66103 | [66103-the-blocks-cometh.json](./66103-the-blocks-cometh.json) |
+| The Blocks Returneth | 298826 | [298826-the-blocks-returneth.json](./298826-the-blocks-returneth.json) |
 | The Blood Amulet | 219548 | [219548-the-blood-amulet.json](./219548-the-blood-amulet.json) |
 | The Blood Eclipse | 110826 | [110826-the-blood-eclipse.json](./110826-the-blood-eclipse.json) |
 | The Blood of Dawnwalker: Day 1 Edition | 416088 | [416088-the-blood-of-dawnwalker-day-1-edition.json](./416088-the-blood-of-dawnwalker-day-1-edition.json) |
@@ -14260,6 +14265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trains.io | 192296 | [192296-trains-io.json](./192296-trains-io.json) |
 | Trainsanity | 361333 | [361333-trainsanity.json](./361333-trainsanity.json) |
 | TrainTastic | 272900 | [272900-traintastic.json](./272900-traintastic.json) |
+| Traintracks Combat | 298815 | [298815-traintracks-combat.json](./298815-traintracks-combat.json) |
 | Trainwatch | 355613 | [355613-trainwatch.json](./355613-trainwatch.json) |
 | Trainwreck | 327325 | [327325-trainwreck.json](./327325-trainwreck.json) |
 | Trainyard | 92061 | [92061-trainyard.json](./92061-trainyard.json) |
