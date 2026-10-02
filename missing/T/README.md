@@ -8460,6 +8460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Snowman | 275641 | [275641-the-snowman.json](./275641-the-snowman.json) |
 | The Snowman | 299435 | [299435-the-snowman.json](./299435-the-snowman.json) |
 | The Social Distance Game | 228387 | [228387-the-social-distance-game.json](./228387-the-social-distance-game.json) |
+| The Social Engineer | 286221 | [286221-the-social-engineer.json](./286221-the-social-engineer.json) |
 | The Social Grip: Llama Drama | 406766 | [406766-the-social-grip-llama-drama.json](./406766-the-social-grip-llama-drama.json) |
 | The Sokoban | 175811 | [175811-the-sokoban.json](./175811-the-sokoban.json) |
 | The Sokpop Collection | 131559 | [131559-the-sokpop-collection.json](./131559-the-sokpop-collection.json) |
