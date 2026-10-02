@@ -668,6 +668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2-Finger Heroes | 66692 | [66692-2-finger-heroes.json](./66692-2-finger-heroes.json) |
 | 2-in-1 Fun Pack I Dreamworks Madagascar: Operation Penguin + Shrek 2 | 86054 | [86054-2-in-1-fun-pack-i-dreamworks-madagascar-operation-penguin-shrek-2.json](./86054-2-in-1-fun-pack-i-dreamworks-madagascar-operation-penguin-shrek-2.json) |
 | 2-in-1 Geminim/Siamond | 338795 | [338795-2-in-1-geminim-siamond.json](./338795-2-in-1-geminim-siamond.json) |
+| 2-in-1 Kart Racing Bundle | 331455 | [331455-2-in-1-kart-racing-bundle.json](./331455-2-in-1-kart-racing-bundle.json) |
 | 2-taku de Koishite Mune-kyun | 251629 | [251629-2-taku-de-koishite-mune-kyun.json](./251629-2-taku-de-koishite-mune-kyun.json) |
 | 2/29 | 288841 | [288841-2-29.json](./288841-2-29.json) |
 | 20 All-Time Favorites | 91382 | [91382-20-all-time-favorites.json](./91382-20-all-time-favorites.json) |
@@ -1102,6 +1103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 x 4 Dream Racing | 9935 | [9935-4-x-4-dream-racing.json](./9935-4-x-4-dream-racing.json) |
 | 4-4-2 Soccer | 45317 | [45317-4-4-2-soccer.json](./45317-4-4-2-soccer.json) |
 | 4-Block Dungeon | 122347 | [122347-4-block-dungeon.json](./122347-4-block-dungeon.json) |
+| 4-in-1 Award Winning Indie Gems | 331453 | [331453-4-in-1-award-winning-indie-gems.json](./331453-4-in-1-award-winning-indie-gems.json) |
 | 4-in-1 Fun Pak | 69787 | [69787-4-in-1-fun-pak.json](./69787-4-in-1-fun-pak.json) |
 | 4-in-1 Funpak Volume II | 93553 | [93553-4-in-1-funpak-volume-ii.json](./93553-4-in-1-funpak-volume-ii.json) |
 | 4-Lung Boy | 185651 | [185651-4-lung-boy.json](./185651-4-lung-boy.json) |
@@ -1382,8 +1384,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8BitMMO | 30232 | [30232-8bitmmo.json](./30232-8bitmmo.json) |
 | 8Floor Bundle 3 in 1 | 273940 | [273940-8floor-bundle-3-in-1.json](./273940-8floor-bundle-3-in-1.json) |
 | 8Floor Bundle 4 in 1 | 259835 | [259835-8floor-bundle-4-in-1.json](./259835-8floor-bundle-4-in-1.json) |
+| 8Floor Bundle 4 in 1 part 2 | 331451 | [331451-8floor-bundle-4-in-1-part-2.json](./331451-8floor-bundle-4-in-1-part-2.json) |
 | 8Floor Bundle 4 in 1 part 3 | 331450 | [331450-8floor-bundle-4-in-1-part-3.json](./331450-8floor-bundle-4-in-1-part-3.json) |
 | 8Floor Bundle 4 in 1 part 4 | 331449 | [331449-8floor-bundle-4-in-1-part-4.json](./331449-8floor-bundle-4-in-1-part-4.json) |
+| 8Floor Bundle 4 in 1 part 5 | 331452 | [331452-8floor-bundle-4-in-1-part-5.json](./331452-8floor-bundle-4-in-1-part-5.json) |
 | 8Floor Bundle 4 in 1 Part 7 | 338027 | [338027-8floor-bundle-4-in-1-part-7.json](./338027-8floor-bundle-4-in-1-part-7.json) |
 | 8Floor Bundle 4 in 1 part 8 | 342239 | [342239-8floor-bundle-4-in-1-part-8.json](./342239-8floor-bundle-4-in-1-part-8.json) |
 | 8i | 32988 | [32988-8i.json](./32988-8i.json) |
