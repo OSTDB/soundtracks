@@ -1972,8 +1972,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nickelodeon All-Star Brawl 2: Iroh Brawl Pack | 313298 | [313298-nickelodeon-all-star-brawl-2-iroh-brawl-pack.json](./313298-nickelodeon-all-star-brawl-2-iroh-brawl-pack.json) |
 | Nickelodeon All-Star Brawl 2: Mr. Krabs Brawl Pack | 287176 | [287176-nickelodeon-all-star-brawl-2-mr-krabs-brawl-pack.json](./287176-nickelodeon-all-star-brawl-2-mr-krabs-brawl-pack.json) |
 | Nickelodeon All-Star Brawl 2: Season Pass | 275618 | [275618-nickelodeon-all-star-brawl-2-season-pass.json](./275618-nickelodeon-all-star-brawl-2-season-pass.json) |
+| Nickelodeon All-Star Brawl 2: Stage Striking Mod | 330974 | [330974-nickelodeon-all-star-brawl-2-stage-striking-mod.json](./330974-nickelodeon-all-star-brawl-2-stage-striking-mod.json) |
 | Nickelodeon All-Star Brawl 2: The Elastic Waistband Costume | 315081 | [315081-nickelodeon-all-star-brawl-2-the-elastic-waistband-costume.json](./315081-nickelodeon-all-star-brawl-2-the-elastic-waistband-costume.json) |
 | Nickelodeon All-Star Brawl: Hugh Neutron | 212790 | [212790-nickelodeon-all-star-brawl-hugh-neutron.json](./212790-nickelodeon-all-star-brawl-hugh-neutron.json) |
+| Nickelodeon All-Star Brawl: StageHazardRemoverMod | 330977 | [330977-nickelodeon-all-star-brawl-stagehazardremovermod.json](./330977-nickelodeon-all-star-brawl-stagehazardremovermod.json) |
+| Nickelodeon All-Star Brawl: Turbo Mode | 330975 | [330975-nickelodeon-all-star-brawl-turbo-mode.json](./330975-nickelodeon-all-star-brawl-turbo-mode.json) |
 | Nickelodeon Director's Lab | 243145 | [243145-nickelodeon-directors-lab.json](./243145-nickelodeon-directors-lab.json) |
 | Nickelodeon Fit | 50706 | [50706-nickelodeon-fit.json](./50706-nickelodeon-fit.json) |
 | Nickelodeon Kart Racers 2: Grand Prix | 134680 | [134680-nickelodeon-kart-racers-2-grand-prix.json](./134680-nickelodeon-kart-racers-2-grand-prix.json) |
@@ -3107,6 +3110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noel's Hope | 113703 | [113703-noels-hope.json](./113703-noels-hope.json) |
 | Noelia | 325085 | [325085-noelia.json](./325085-noelia.json) |
 | Noelle Does Her Best! | 210717 | [210717-noelle-does-her-best.json](./210717-noelle-does-her-best.json) |
+| Noelle: Lost Soul | 330818 | [330818-noelle-lost-soul.json](./330818-noelle-lost-soul.json) |
 | Noelle's Forest Adventure | 280817 | [280817-noelles-forest-adventure.json](./280817-noelles-forest-adventure.json) |
 | Noema | 403695 | [403695-noema.json](./403695-noema.json) |
 | Noematica: Digital Dollhouse | 409772 | [409772-noematica-digital-dollhouse.json](./409772-noematica-digital-dollhouse.json) |
