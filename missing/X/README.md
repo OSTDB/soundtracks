@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | X | 37764 | [37764-x.json](./37764-x.json) |
+| X Defense: Timing TD | 288436 | [288436-x-defense-timing-td.json](./288436-x-defense-timing-td.json) |
 | X Japan - Virtual Shock 001 | 94710 | [94710-x-japan-virtual-shock-001.json](./94710-x-japan-virtual-shock-001.json) |
 | X Multiply | 12271 | [12271-x-multiply.json](./12271-x-multiply.json) |
 | X Mushrooms | 89649 | [89649-x-mushrooms.json](./89649-x-mushrooms.json) |
@@ -245,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xargon Remake Ep.3 | 253436 | [253436-xargon-remake-ep-3.json](./253436-xargon-remake-ep-3.json) |
 | Xark | 30840 | [30840-xark.json](./30840-xark.json) |
 | Xarq: The Zimmerman Trenches | 31185 | [31185-xarq-the-zimmerman-trenches.json](./31185-xarq-the-zimmerman-trenches.json) |
+| Xavian | 288456 | [288456-xavian.json](./288456-xavian.json) |
 | Xavier | 84959 | [84959-xavier.json](./84959-xavier.json) |
 | XaviX Baseball | 131489 | [131489-xavix-baseball.json](./131489-xavix-baseball.json) |
 | Xavix Bowling | 267372 | [267372-xavix-bowling.json](./267372-xavix-bowling.json) |
@@ -370,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xexex | 28052 | [28052-xexex.json](./28052-xexex.json) |
 | Xexis | 312903 | [312903-xexis.json](./312903-xexis.json) |
 | Xexyz | 14413 | [14413-xexyz.json](./14413-xexyz.json) |
+| Xeyyex | 288458 | [288458-xeyyex.json](./288458-xeyyex.json) |
 | Xezi: Story Mode | 23861 | [23861-xezi-story-mode.json](./23861-xezi-story-mode.json) |
 | XF: Football Arena | 193869 | [193869-xf-football-arena.json](./193869-xf-football-arena.json) |
 | XG Blast! | 21254 | [21254-xg-blast.json](./21254-xg-blast.json) |
@@ -390,6 +393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xiānjiànjué Wǎngluòbǎn | 161328 | [161328-xianjianjue-wangluoban.json](./161328-xianjianjue-wangluoban.json) |
 | Xiānxiá Díchén Lù | 316674 | [316674-xianxia-dichen-lu.json](./316674-xianxia-dichen-lu.json) |
 | Xiānyù | 113647 | [113647-xianyu.json](./113647-xianyu.json) |
+| Xiānzōng Lù | 288437 | [288437-xianzong-lu.json](./288437-xianzong-lu.json) |
 | Xiào Ào Jiānghú 2 Wàizhuàn: Dōngfāng Zàiqǐ | 184095 | [184095-xiao-ao-jianghu-2-waizhuan-dongfang-zaiqi.json](./184095-xiao-ao-jianghu-2-waizhuan-dongfang-zaiqi.json) |
 | Xiao La: Fantasy Dream | 272365 | [272365-xiao-la-fantasy-dream.json](./272365-xiao-la-fantasy-dream.json) |
 | Xiǎo Qiàn Dàmàoxiǎn | 359475 | [359475-xiao-qian-damaoxian.json](./359475-xiao-qian-damaoxian.json) |
@@ -532,6 +536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xuxa | 281455 | [281455-xuxa.json](./281455-xuxa.json) |
 | XV | 212778 | [212778-xv.json](./212778-xv.json) |
 | XVM | 277404 | [277404-xvm.json](./277404-xvm.json) |
+| XVTM | 288457 | [288457-xvtm.json](./288457-xvtm.json) |
 | XWarShooterVR | 283856 | [283856-xwarshootervr.json](./283856-xwarshootervr.json) |
 | XWing Fighter | 25158 | [25158-xwing-fighter.json](./25158-xwing-fighter.json) |
 | Xwung | 77017 | [77017-xwung.json](./77017-xwung.json) |
