@@ -1500,6 +1500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Arthur's K.O.R.T. | 69839 | [69839-king-arthurs-k-o-r-t.json](./69839-king-arthurs-k-o-r-t.json) |
 | King Boo's Revenge PC | 378293 | [378293-king-boos-revenge-pc.json](./378293-king-boos-revenge-pc.json) |
 | King Boo's Seven Towers | 313302 | [313302-king-boos-seven-towers.json](./313302-king-boos-seven-towers.json) |
+| King Bundle | 279218 | [279218-king-bundle.json](./279218-king-bundle.json) |
 | King Crab | 388292 | [388292-king-crab.json](./388292-king-crab.json) |
 | King Cribbage | 73223 | [73223-king-cribbage.json](./73223-king-cribbage.json) |
 | King Datchi | 244890 | [244890-king-datchi.json](./244890-king-datchi.json) |
@@ -1926,6 +1927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby's Dream World | 243927 | [243927-kirbys-dream-world.json](./243927-kirbys-dream-world.json) |
 | Kirby's Dreamland Collision | 323916 | [323916-kirbys-dreamland-collision.json](./323916-kirbys-dreamland-collision.json) |
 | Kirby's Epic Yarn | 2184 | [2184-kirbys-epic-yarn.json](./2184-kirbys-epic-yarn.json) |
+| Kirby's Pinball Land DX | 279225 | [279225-kirbys-pinball-land-dx.json](./279225-kirbys-pinball-land-dx.json) |
 | Kirchhoff's Revenge | 89398 | [89398-kirchhoffs-revenge.json](./89398-kirchhoffs-revenge.json) |
 | Kirikou | 50028 | [50028-kirikou.json](./50028-kirikou.json) |
 | Kirilma: Helix Horizon | 406847 | [406847-kirilma-helix-horizon.json](./406847-kirilma-helix-horizon.json) |
