@@ -3780,8 +3780,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PirateFi | 341610 | [341610-piratefi.json](./341610-piratefi.json) |
 | Piratepoly Gold: Caribbean Treasure | 218723 | [218723-piratepoly-gold-caribbean-treasure.json](./218723-piratepoly-gold-caribbean-treasure.json) |
 | Pirates | 197378 | [197378-pirates.json](./197378-pirates.json) |
+| Pirates | 298796 | [298796-pirates.json](./298796-pirates.json) |
 | Pirates Adventure Solitaire | 341574 | [341574-pirates-adventure-solitaire.json](./341574-pirates-adventure-solitaire.json) |
 | Pirates Ahoy! | 182379 | [182379-pirates-ahoy.json](./182379-pirates-ahoy.json) |
+| Pirates and Aztecs | 298832 | [298832-pirates-and-aztecs.json](./298832-pirates-and-aztecs.json) |
 | Pirates and Traders | 39174 | [39174-pirates-and-traders.json](./39174-pirates-and-traders.json) |
 | Pirates are Blanking Awesome | 117475 | [117475-pirates-are-blanking-awesome.json](./117475-pirates-are-blanking-awesome.json) |
 | Pirates Bay | 211802 | [211802-pirates-bay.json](./211802-pirates-bay.json) |
@@ -6338,6 +6340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portentum | 412401 | [412401-portentum.json](./412401-portentum.json) |
 | Porter | 196807 | [196807-porter.json](./196807-porter.json) |
 | Porter | 229060 | [229060-porter.json](./229060-porter.json) |
+| Porter | 298785 | [298785-porter.json](./298785-porter.json) |
 | Porter in the Castle | 163758 | [163758-porter-in-the-castle.json](./163758-porter-in-the-castle.json) |
 | Porter's Cafe | 359411 | [359411-porters-cafe.json](./359411-porters-cafe.json) |
 | Porterminus | 265954 | [265954-porterminus.json](./265954-porterminus.json) |
@@ -8175,6 +8178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychic Force | 20140 | [20140-psychic-force.json](./20140-psychic-force.json) |
 | Psychic Force Complete | 71790 | [71790-psychic-force-complete.json](./71790-psychic-force-complete.json) |
 | Psychic Investigation of Sakuragi Haru | 241385 | [241385-psychic-investigation-of-sakuragi-haru.json](./241385-psychic-investigation-of-sakuragi-haru.json) |
+| Psychic Shadows | 298799 | [298799-psychic-shadows.json](./298799-psychic-shadows.json) |
 | Psychic Storm | 280322 | [280322-psychic-storm.json](./280322-psychic-storm.json) |
 | Psychic Ward: Kill The Seven King Dragon | 370283 | [370283-psychic-ward-kill-the-seven-king-dragon.json](./370283-psychic-ward-kill-the-seven-king-dragon.json) |
 | Psycho | 179574 | [179574-psycho.json](./179574-psycho.json) |
