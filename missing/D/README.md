@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dà Fùwēng | 125469 | [125469-da-fuweng.json](./125469-da-fuweng.json) |
 | Dà Mèng Chūnqiū | 373702 | [373702-da-meng-chunqiu.json](./373702-da-meng-chunqiu.json) |
 | Da Paper Boy | 259017 | [259017-da-paper-boy.json](./259017-da-paper-boy.json) |
+| Da Rock | 332579 | [332579-da-rock.json](./332579-da-rock.json) |
 | Dà Sānguó Shídài | 347226 | [347226-da-sanguo-shidai.json](./347226-da-sanguo-shidai.json) |
 | Da Vinci Pinball | 89149 | [89149-da-vinci-pinball.json](./89149-da-vinci-pinball.json) |
 | DA-VI-NC1 | 360596 | [360596-da-vi-nc1.json](./360596-da-vi-nc1.json) |
@@ -746,6 +747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Heart Mansion | 156994 | [156994-dark-heart-mansion.json](./156994-dark-heart-mansion.json) |
 | Dark Honor | 403652 | [403652-dark-honor.json](./403652-dark-honor.json) |
 | Dark Horizon | 19639 | [19639-dark-horizon.json](./19639-dark-horizon.json) |
+| Dark Horizons: Lore | 332670 | [332670-dark-horizons-lore.json](./332670-dark-horizons-lore.json) |
 | Dark Hours | 251843 | [251843-dark-hours.json](./251843-dark-hours.json) |
 | Dark Hours 2 | 57719 | [57719-dark-hours-2.json](./57719-dark-hours-2.json) |
 | Dark Hunter | 311784 | [311784-dark-hunter.json](./311784-dark-hunter.json) |
@@ -2529,6 +2531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deeprealm Odyssey: Adventure game | 208917 | [208917-deeprealm-odyssey-adventure-game.json](./208917-deeprealm-odyssey-adventure-game.json) |
 | Deepsea Salvor | 128375 | [128375-deepsea-salvor.json](./128375-deepsea-salvor.json) |
 | DeepSea Serenity: VR Underwater Trip | 288786 | [288786-deepsea-serenity-vr-underwater-trip.json](./288786-deepsea-serenity-vr-underwater-trip.json) |
+| Deepspace Emporium | 332569 | [332569-deepspace-emporium.json](./332569-deepspace-emporium.json) |
 | Deepstone Rift | 372644 | [372644-deepstone-rift.json](./372644-deepstone-rift.json) |
 | DeepStorm Online | 197121 | [197121-deepstorm-online.json](./197121-deepstorm-online.json) |
 | DeepTrouble | 57629 | [57629-deeptrouble.json](./57629-deeptrouble.json) |
