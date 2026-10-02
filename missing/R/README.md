@@ -3825,6 +3825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ring Jongg | 209020 | [209020-ring-jongg.json](./209020-ring-jongg.json) |
 | Ring King | 37335 | [37335-ring-king.json](./37335-ring-king.json) |
 | Ring King | 48208 | [48208-ring-king.json](./48208-ring-king.json) |
+| Ring Man in the Castle | 304268 | [304268-ring-man-in-the-castle.json](./304268-ring-man-in-the-castle.json) |
 | Ring of Destruction: Slam Masters II | 39567 | [39567-ring-of-destruction-slam-masters-ii.json](./39567-ring-of-destruction-slam-masters-ii.json) |
 | Ring of Elysium | 95308 | [95308-ring-of-elysium.json](./95308-ring-of-elysium.json) |
 | Ring of Fire | 115464 | [115464-ring-of-fire.json](./115464-ring-of-fire.json) |
