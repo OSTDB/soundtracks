@@ -1975,6 +1975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peggle | 95409 | [95409-peggle.json](./95409-peggle.json) |
 | Peggle 2 | 3752 | [3752-peggle-2.json](./3752-peggle-2.json) |
 | Peggle 2: Jimmy Lightning Master Pack | 339484 | [339484-peggle-2-jimmy-lightning-master-pack.json](./339484-peggle-2-jimmy-lightning-master-pack.json) |
+| Peggle 2: Windy the Fairy Master Pack | 294409 | [294409-peggle-2-windy-the-fairy-master-pack.json](./294409-peggle-2-windy-the-fairy-master-pack.json) |
 | Peggle Deluxe | 28975 | [28975-peggle-deluxe.json](./28975-peggle-deluxe.json) |
 | Peggle Extreme | 15646 | [15646-peggle-extreme.json](./15646-peggle-extreme.json) |
 | Peggle Nights | 14813 | [14813-peggle-nights.json](./14813-peggle-nights.json) |
@@ -7629,6 +7630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Chameleon | 279584 | [279584-project-chameleon.json](./279584-project-chameleon.json) |
 | Project Chemistry | 132116 | [132116-project-chemistry.json](./132116-project-chemistry.json) |
 | Project Chernaya | 406246 | [406246-project-chernaya.json](./406246-project-chernaya.json) |
+| Project Circle | 294382 | [294382-project-circle.json](./294382-project-circle.json) |
 | Project Cobalt | 366310 | [366310-project-cobalt.json](./366310-project-cobalt.json) |
 | Project Colored Mountains | 264095 | [264095-project-colored-mountains.json](./264095-project-colored-mountains.json) |
 | Project Combat | 125922 | [125922-project-combat.json](./125922-project-combat.json) |
@@ -8047,6 +8049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proportionator | 316765 | [316765-proportionator.json](./316765-proportionator.json) |
 | Prose & Codes | 191577 | [191577-prose-and-codes.json](./191577-prose-and-codes.json) |
 | ProSoccer 2190 | 138723 | [138723-prosoccer-2190.json](./138723-prosoccer-2190.json) |
+| Prospect Renegade | 294375 | [294375-prospect-renegade.json](./294375-prospect-renegade.json) |
 | Prospector | 296680 | [296680-prospector.json](./296680-prospector.json) |
 | Prospector | 91935 | [91935-prospector.json](./91935-prospector.json) |
 | Prospector Stanley | 183553 | [183553-prospector-stanley.json](./183553-prospector-stanley.json) |
