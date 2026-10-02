@@ -2030,6 +2030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Mahjong 2003 | 269327 | [269327-ai-mahjong-2003.json](./269327-ai-mahjong-2003.json) |
 | AI Mahjong Selection | 349952 | [349952-ai-mahjong-selection.json](./349952-ai-mahjong-selection.json) |
 | Ai Painter: Painting Simulator | 350489 | [350489-ai-painter-painting-simulator.json](./350489-ai-painter-painting-simulator.json) |
+| AI People | 317314 | [317314-ai-people.json](./317314-ai-people.json) |
 | AI Rebellion | 90465 | [90465-ai-rebellion.json](./90465-ai-rebellion.json) |
 | AI Roguelite 2D | 287191 | [287191-ai-roguelite-2d.json](./287191-ai-roguelite-2d.json) |
 | AI Schoolgirls Murder Mystery | 312674 | [312674-ai-schoolgirls-murder-mystery.json](./312674-ai-schoolgirls-murder-mystery.json) |
@@ -3971,6 +3972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amsterdam Taxi Madness | 73746 | [73746-amsterdam-taxi-madness.json](./73746-amsterdam-taxi-madness.json) |
 | Amstrad Eterno X | 376589 | [376589-amstrad-eterno-x.json](./376589-amstrad-eterno-x.json) |
 | Amstrad Shuffle Card Games | 60234 | [60234-amstrad-shuffle-card-games.json](./60234-amstrad-shuffle-card-games.json) |
+| AMTAG: Another Medieval Themed Adventure Game | 316714 | [316714-amtag-another-medieval-themed-adventure-game.json](./316714-amtag-another-medieval-themed-adventure-game.json) |
 | Amtrack | 62249 | [62249-amtrack.json](./62249-amtrack.json) |
 | Amulet | 291515 | [291515-amulet.json](./291515-amulet.json) |
 | Amulet of Lovar | 245957 | [245957-amulet-of-lovar.json](./245957-amulet-of-lovar.json) |
@@ -3991,6 +3993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Afternoon Rippling | 122337 | [122337-an-afternoon-rippling.json](./122337-an-afternoon-rippling.json) |
 | An Alien with a Magnet | 34750 | [34750-an-alien-with-a-magnet.json](./34750-an-alien-with-a-magnet.json) |
 | An Alien with a Magnet HD | 90682 | [90682-an-alien-with-a-magnet-hd.json](./90682-an-alien-with-a-magnet-hd.json) |
+| An Alien's Work is Never Done | 316715 | [316715-an-aliens-work-is-never-done.json](./316715-an-aliens-work-is-never-done.json) |
 | An Alt Girl for Skoof | 298835 | [298835-an-alt-girl-for-skoof.json](./298835-an-alt-girl-for-skoof.json) |
 | An Altered State | 400881 | [400881-an-altered-state.json](./400881-an-altered-state.json) |
 | An Amazing Wizard | 169313 | [169313-an-amazing-wizard.json](./169313-an-amazing-wizard.json) |
@@ -4768,6 +4771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 1800: Land of Lions | 151061 | [151061-anno-1800-land-of-lions.json](./151061-anno-1800-land-of-lions.json) |
 | Anno 1800: New World Rising | 197351 | [197351-anno-1800-new-world-rising.json](./197351-anno-1800-new-world-rising.json) |
 | Anno 1800: Old Town Pack | 227938 | [227938-anno-1800-old-town-pack.json](./227938-anno-1800-old-town-pack.json) |
+| Anno 1800: Pirate Cove Pack | 317336 | [317336-anno-1800-pirate-cove-pack.json](./317336-anno-1800-pirate-cove-pack.json) |
 | Anno 1800: Seeds of Change | 197349 | [197349-anno-1800-seeds-of-change.json](./197349-anno-1800-seeds-of-change.json) |
 | Anno 1800: The Passage | 121765 | [121765-anno-1800-the-passage.json](./121765-anno-1800-the-passage.json) |
 | Anno 1800: Tourist Season | 151204 | [151204-anno-1800-tourist-season.json](./151204-anno-1800-tourist-season.json) |
