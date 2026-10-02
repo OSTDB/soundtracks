@@ -5254,6 +5254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poison Heart | 308242 | [308242-poison-heart.json](./308242-poison-heart.json) |
 | Poison Selection | 394551 | [394551-poison-selection.json](./394551-poison-selection.json) |
 | Poisoner | 110532 | [110532-poisoner.json](./110532-poisoner.json) |
+| Poka-poka Mama Koi Onsen: Mommy's Warm Hot Sprint | 288432 | [288432-poka-poka-mama-koi-onsen-mommys-warm-hot-sprint.json](./288432-poka-poka-mama-koi-onsen-mommys-warm-hot-sprint.json) |
 | Pokaboo | 197851 | [197851-pokaboo.json](./197851-pokaboo.json) |
 | Poké Everworld Online | 389447 | [389447-poke-everworld-online.json](./389447-poke-everworld-online.json) |
 | Poke Mission 97 | 322761 | [322761-poke-mission-97.json](./322761-poke-mission-97.json) |
