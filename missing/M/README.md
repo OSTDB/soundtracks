@@ -7427,6 +7427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monk Took Book | 393839 | [393839-monk-took-book.json](./393839-monk-took-book.json) |
 | Monkaru Fanta: Yuusha to Suishou no Shoujo | 348924 | [348924-monkaru-fanta-yuusha-to-suishou-no-shoujo.json](./348924-monkaru-fanta-yuusha-to-suishou-no-shoujo.json) |
 | Monkeround | 326219 | [326219-monkeround.json](./326219-monkeround.json) |
+| Monkey | 305464 | [305464-monkey.json](./305464-monkey.json) |
 | Monkey Bananza | 146349 | [146349-monkey-bananza.json](./146349-monkey-bananza.json) |
 | Monkey Boxing | 61063 | [61063-monkey-boxing.json](./61063-monkey-boxing.json) |
 | Monkey Business | 147895 | [147895-monkey-business.json](./147895-monkey-business.json) |
@@ -8705,6 +8706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motoko-chan no Wonder Kitchen | 37920 | [37920-motoko-chan-no-wonder-kitchen.json](./37920-motoko-chan-no-wonder-kitchen.json) |
 | Motomancer: Auto Battle | 181939 | [181939-motomancer-auto-battle.json](./181939-motomancer-auto-battle.json) |
 | Motor City Patrol | 48197 | [48197-motor-city-patrol.json](./48197-motor-city-patrol.json) |
+| Motor Cross | 305466 | [305466-motor-cross.json](./305466-motor-cross.json) |
 | Motor Cycle | 68274 | [68274-motor-cycle.json](./68274-motor-cycle.json) |
 | Motor Duels: Outcast | 55841 | [55841-motor-duels-outcast.json](./55841-motor-duels-outcast.json) |
 | Motor Mash | 44866 | [44866-motor-mash.json](./44866-motor-mash.json) |
