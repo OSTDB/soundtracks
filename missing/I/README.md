@@ -357,6 +357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I.T Never Ends | 388373 | [388373-i-t-never-ends.json](./388373-i-t-never-ends.json) |
 | I'd Kill You as a Worm | 331682 | [331682-id-kill-you-as-a-worm.json](./331682-id-kill-you-as-a-worm.json) |
 | I'd Kiss That Fish | 321616 | [321616-id-kiss-that-fish.json](./321616-id-kiss-that-fish.json) |
+| I'd rather be fishing | 313755 | [313755-id-rather-be-fishing.json](./313755-id-rather-be-fishing.json) |
 | I'll Be Back to the Future with a Terminator | 395714 | [395714-ill-be-back-to-the-future-with-a-terminator.json](./395714-ill-be-back-to-the-future-with-a-terminator.json) |
 | I'll Be Home With You | 360145 | [360145-ill-be-home-with-you.json](./360145-ill-be-home-with-you.json) |
 | I'll Do It Tomorrow | 278990 | [278990-ill-do-it-tomorrow.json](./278990-ill-do-it-tomorrow.json) |
@@ -570,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icee Maker | 159259 | [159259-icee-maker.json](./159259-icee-maker.json) |
 | Icee Slush Rush | 352751 | [352751-icee-slush-rush.json](./352751-icee-slush-rush.json) |
 | Icefishing v | 215101 | [215101-icefishing-v.json](./215101-icefishing-v.json) |
+| iceicellClicker | 313760 | [313760-iceicellclicker.json](./313760-iceicellclicker.json) |
 | IceLine | 221129 | [221129-iceline.json](./221129-iceline.json) |
 | Iceman: Digital PlayStage | 180837 | [180837-iceman-digital-playstage.json](./180837-iceman-digital-playstage.json) |
 | Iceroyds! | 126502 | [126502-iceroyds.json](./126502-iceroyds.json) |
@@ -1212,6 +1214,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Conquest | 174830 | [174830-immortal-conquest.json](./174830-immortal-conquest.json) |
 | Immortal Defense | 17358 | [17358-immortal-defense.json](./17358-immortal-defense.json) |
 | Immortal Desire | 245535 | [245535-immortal-desire.json](./245535-immortal-desire.json) |
+| Immortal Desires | 313735 | [313735-immortal-desires.json](./313735-immortal-desires.json) |
+| Immortal Desires: Book 2 | 313736 | [313736-immortal-desires-book-2.json](./313736-immortal-desires-book-2.json) |
 | Immortal Desires: Book 3 | 327988 | [327988-immortal-desires-book-3.json](./327988-immortal-desires-book-3.json) |
 | Immortal Desires: Paths Not Taken | 327989 | [327989-immortal-desires-paths-not-taken.json](./327989-immortal-desires-paths-not-taken.json) |
 | Immortal Empire | 21688 | [21688-immortal-empire.json](./21688-immortal-empire.json) |
@@ -3214,6 +3218,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Is Over 2024 | 282618 | [282618-it-is-over-2024.json](./282618-it-is-over-2024.json) |
 | It Knows You're Here | 185134 | [185134-it-knows-youre-here.json](./185134-it-knows-youre-here.json) |
 | It Lives | 270666 | [270666-it-lives.json](./270666-it-lives.json) |
+| It Lives Beneath | 313738 | [313738-it-lives-beneath.json](./313738-it-lives-beneath.json) |
+| It Lives in the Woods | 313737 | [313737-it-lives-in-the-woods.json](./313737-it-lives-in-the-woods.json) |
 | It Lives Within | 300413 | [300413-it-lives-within.json](./300413-it-lives-within.json) |
 | It Lurks Below | 85662 | [85662-it-lurks-below.json](./85662-it-lurks-below.json) |
 | It Pays to Be a Winner | 122410 | [122410-it-pays-to-be-a-winner.json](./122410-it-pays-to-be-a-winner.json) |
