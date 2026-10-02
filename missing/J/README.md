@@ -233,6 +233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jalecolle Famicom Ver. Saiyuuki World | 328518 | [328518-jalecolle-famicom-ver-saiyuuki-world.json](./328518-jalecolle-famicom-ver-saiyuuki-world.json) |
 | Jalecolle Famicom Ver. Shatterhand | 420688 | [420688-jalecolle-famicom-ver-shatterhand.json](./420688-jalecolle-famicom-ver-shatterhand.json) |
 | Jalecolle Famicom Ver. The Last Ninja | 347320 | [347320-jalecolle-famicom-ver-the-last-ninja.json](./347320-jalecolle-famicom-ver-the-last-ninja.json) |
+| Jalecolle Famicom Ver. Yokai Club | 312088 | [312088-jalecolle-famicom-ver-yokai-club.json](./312088-jalecolle-famicom-ver-yokai-club.json) |
 | Jalopy: Limited Edition | 96023 | [96023-jalopy-limited-edition.json](./96023-jalopy-limited-edition.json) |
 | Jam | 332595 | [332595-jam.json](./332595-jam.json) |
 | Jam City Rollergirls | 85200 | [85200-jam-city-rollergirls.json](./85200-jam-city-rollergirls.json) |
@@ -600,6 +601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Moto 2 | 45214 | [45214-jet-moto-2.json](./45214-jet-moto-2.json) |
 | Jet Moto 3 | 45040 | [45040-jet-moto-3.json](./45040-jet-moto-3.json) |
 | Jet Pack | 84273 | [84273-jet-pack.json](./84273-jet-pack.json) |
+| Jet Paco & Jet Puri | 312226 | [312226-jet-paco-and-jet-puri.json](./312226-jet-paco-and-jet-puri.json) |
 | Jet Pilot | 330740 | [330740-jet-pilot.json](./330740-jet-pilot.json) |
 | Jet Race | 359462 | [359462-jet-race.json](./359462-jet-race.json) |
 | Jet Racing Extreme | 34903 | [34903-jet-racing-extreme.json](./34903-jet-racing-extreme.json) |
@@ -619,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Ski Driving | 231943 | [231943-jet-ski-driving.json](./231943-jet-ski-driving.json) |
 | Jet Trains | 174200 | [174200-jet-trains.json](./174200-jet-trains.json) |
 | Jet-Getters | 61715 | [61715-jet-getters.json](./61715-jet-getters.json) |
+| Jet-Paco: Hyper Special Space Agent! | 312227 | [312227-jet-paco-hyper-special-space-agent.json](./312227-jet-paco-hyper-special-space-agent.json) |
 | JetBall Arena | 113697 | [113697-jetball-arena.json](./113697-jetball-arena.json) |
 | Jetborne Racing | 150003 | [150003-jetborne-racing.json](./150003-jetborne-racing.json) |
 | Jetboy | 119775 | [119775-jetboy.json](./119775-jetboy.json) |
@@ -642,6 +645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jetpack Joyride 2 | 208929 | [208929-jetpack-joyride-2.json](./208929-jetpack-joyride-2.json) |
 | Jetpack Joyride Deluxe | 99802 | [99802-jetpack-joyride-deluxe.json](./99802-jetpack-joyride-deluxe.json) |
 | Jetpack Joyride India Exclusive | 238204 | [238204-jetpack-joyride-india-exclusive.json](./238204-jetpack-joyride-india-exclusive.json) |
+| Jetpack Man | 312207 | [312207-jetpack-man.json](./312207-jetpack-man.json) |
 | Jetpack Soccer | 241055 | [241055-jetpack-soccer.json](./241055-jetpack-soccer.json) |
 | Jetpack Squad | 122284 | [122284-jetpack-squad.json](./122284-jetpack-squad.json) |
 | Jetpack Warrior VR | 107684 | [107684-jetpack-warrior-vr.json](./107684-jetpack-warrior-vr.json) |
@@ -1510,6 +1514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumanji: A Jungle Adventure Game Pack | 210003 | [210003-jumanji-a-jungle-adventure-game-pack.json](./210003-jumanji-a-jungle-adventure-game-pack.json) |
 | Jumanji: Epic Run | 234013 | [234013-jumanji-epic-run.json](./234013-jumanji-epic-run.json) |
 | Jumanji: Reverse the Curse | 246639 | [246639-jumanji-reverse-the-curse.json](./246639-jumanji-reverse-the-curse.json) |
+| Jumanji: The Curse Returns - Ultimate Movie Game Bundle | 312087 | [312087-jumanji-the-curse-returns-ultimate-movie-game-bundle.json](./312087-jumanji-the-curse-returns-ultimate-movie-game-bundle.json) |
 | Jumanji: The Curse Returns - Welcome to the Jungle | 210870 | [210870-jumanji-the-curse-returns-welcome-to-the-jungle.json](./210870-jumanji-the-curse-returns-welcome-to-the-jungle.json) |
 | Jumara | 393498 | [393498-jumara.json](./393498-jumara.json) |
 | Jumble Blocks | 58507 | [58507-jumble-blocks.json](./58507-jumble-blocks.json) |
