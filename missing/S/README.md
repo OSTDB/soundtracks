@@ -1851,6 +1851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scroll Driver Lite | 232157 | [232157-scroll-driver-lite.json](./232157-scroll-driver-lite.json) |
 | Scroll Extreme | 22266 | [22266-scroll-extreme.json](./22266-scroll-extreme.json) |
 | Scroll of Life | 192391 | [192391-scroll-of-life.json](./192391-scroll-of-life.json) |
+| Scroll of Onmyoji | 303186 | [303186-scroll-of-onmyoji.json](./303186-scroll-of-onmyoji.json) |
 | Scrolls of Gloom | 238976 | [238976-scrolls-of-gloom.json](./238976-scrolls-of-gloom.json) |
 | Scrolls of Sengoku Dynasty | 195606 | [195606-scrolls-of-sengoku-dynasty.json](./195606-scrolls-of-sengoku-dynasty.json) |
 | Scrolls of the Lord | 75947 | [75947-scrolls-of-the-lord.json](./75947-scrolls-of-the-lord.json) |
@@ -8231,6 +8232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Someone’s Ghost Photos | 399721 | [399721-someone-s-ghost-photos.json](./399721-someone-s-ghost-photos.json) |
 | Someone's Here | 410921 | [410921-someones-here.json](./410921-someones-here.json) |
 | Someone's in the Kitchen! | 208874 | [208874-someones-in-the-kitchen.json](./208874-someones-in-the-kitchen.json) |
+| Someone's Outside | 303174 | [303174-someones-outside.json](./303174-someones-outside.json) |
 | Someplace Else | 136387 | [136387-someplace-else.json](./136387-someplace-else.json) |
 | Something a Little Super | 352844 | [352844-something-a-little-super.json](./352844-something-a-little-super.json) |
 | Something Dark Beyond The Light | 353871 | [353871-something-dark-beyond-the-light.json](./353871-something-dark-beyond-the-light.json) |
@@ -12334,6 +12336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlight Explorers | 179204 | [179204-starlight-explorers.json](./179204-starlight-explorers.json) |
 | Starlight Idol: Colorful Top Stage! | 194586 | [194586-starlight-idol-colorful-top-stage.json](./194586-starlight-idol-colorful-top-stage.json) |
 | Starlight Inception | 16662 | [16662-starlight-inception.json](./16662-starlight-inception.json) |
+| Starlight Isle | 303191 | [303191-starlight-isle.json](./303191-starlight-isle.json) |
 | Starlight Mining Company | 372998 | [372998-starlight-mining-company.json](./372998-starlight-mining-company.json) |
 | StarLight Terminus | 180047 | [180047-starlight-terminus.json](./180047-starlight-terminus.json) |
 | Starlight Vega | 35041 | [35041-starlight-vega.json](./35041-starlight-vega.json) |
