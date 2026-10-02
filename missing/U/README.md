@@ -540,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umblight | 313487 | [313487-umblight.json](./313487-umblight.json) |
 | Umbra | 202338 | [202338-umbra.json](./202338-umbra.json) |
 | Umbra | 219531 | [219531-umbra.json](./219531-umbra.json) |
+| Umbra | 304828 | [304828-umbra.json](./304828-umbra.json) |
 | Umbra | 95415 | [95415-umbra.json](./95415-umbra.json) |
 | Umbra Fields | 272571 | [272571-umbra-fields.json](./272571-umbra-fields.json) |
 | Umbra Flora | 386886 | [386886-umbra-flora.json](./386886-umbra-flora.json) |
@@ -1682,6 +1683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Flow: Platinum Edition | 238741 | [238741-urban-flow-platinum-edition.json](./238741-urban-flow-platinum-edition.json) |
 | Urban Flow: Pro Edition | 399829 | [399829-urban-flow-pro-edition.json](./399829-urban-flow-pro-edition.json) |
 | Urban Flow: Silver Edition | 250390 | [250390-urban-flow-silver-edition.json](./250390-urban-flow-silver-edition.json) |
+| Urban Flow: Street Symphony | 304788 | [304788-urban-flow-street-symphony.json](./304788-urban-flow-street-symphony.json) |
 | Urban Flow: X-Mas Edition | 275893 | [275893-urban-flow-x-mas-edition.json](./275893-urban-flow-x-mas-edition.json) |
 | Urban Hunter | 358895 | [358895-urban-hunter.json](./358895-urban-hunter.json) |
 | Urban Jungle: Brother's Wedding Story | 401001 | [401001-urban-jungle-brothers-wedding-story.json](./401001-urban-jungle-brothers-wedding-story.json) |
