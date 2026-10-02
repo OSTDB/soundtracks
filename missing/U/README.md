@@ -275,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Gamepak | 273907 | [273907-ultimate-gamepak.json](./273907-ultimate-gamepak.json) |
 | Ultimate Gem | 259537 | [259537-ultimate-gem.json](./259537-ultimate-gem.json) |
 | Ultimate General: Gettysburg | 8424 | [8424-ultimate-general-gettysburg.json](./8424-ultimate-general-gettysburg.json) |
+| Ultimate Goomboss Challenge | 300254 | [300254-ultimate-goomboss-challenge.json](./300254-ultimate-goomboss-challenge.json) |
 | Ultimate Guess Game | 408797 | [408797-ultimate-guess-game.json](./408797-ultimate-guess-game.json) |
 | Ultimate Hangman HD | 68949 | [68949-ultimate-hangman-hd.json](./68949-ultimate-hangman-hd.json) |
 | Ultimate Hardbass Defence | 110775 | [110775-ultimate-hardbass-defence.json](./110775-ultimate-hardbass-defence.json) |
@@ -1329,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uno 2 Go | 229062 | [229062-uno-2-go.json](./229062-uno-2-go.json) |
 | Uno 52 | 47706 | [47706-uno-52.json](./47706-uno-52.json) |
 | Uno DX | 91956 | [91956-uno-dx.json](./91956-uno-dx.json) |
+| Uno Free Fall | 300352 | [300352-uno-free-fall.json](./300352-uno-free-fall.json) |
 | Uno God | 390230 | [390230-uno-god.json](./390230-uno-god.json) |
 | Uno: Arcade Edition | 346722 | [346722-uno-arcade-edition.json](./346722-uno-arcade-edition.json) |
 | Uno: Assassin's Creed Valhalla Theme Cards | 196679 | [196679-uno-assassins-creed-valhalla-theme-cards.json](./196679-uno-assassins-creed-valhalla-theme-cards.json) |
