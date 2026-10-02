@@ -484,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QuickSolve | 174316 | [174316-quicksolve.json](./174316-quicksolve.json) |
 | QuickSpot | 20677 | [20677-quickspot.json](./20677-quickspot.json) |
 | QuickSwitch | 341315 | [341315-quickswitch.json](./341315-quickswitch.json) |
+| Quidget the Wonderwiener | 314948 | [314948-quidget-the-wonderwiener.json](./314948-quidget-the-wonderwiener.json) |
 | Quiet as a Stone | 104941 | [104941-quiet-as-a-stone.json](./104941-quiet-as-a-stone.json) |
 | Quiet Christmas | 58236 | [58236-quiet-christmas.json](./58236-quiet-christmas.json) |
 | Quiet Dan | 379335 | [379335-quiet-dan.json](./379335-quiet-dan.json) |
