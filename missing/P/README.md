@@ -3314,6 +3314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piñata Attack | 129014 | [129014-pinata-attack.json](./129014-pinata-attack.json) |
 | Piñata Go Boom | 345537 | [345537-pinata-go-boom.json](./345537-pinata-go-boom.json) |
 | Pinata Hunter | 267387 | [267387-pinata-hunter.json](./267387-pinata-hunter.json) |
+| Piñata Puppy World | 330386 | [330386-pinata-puppy-world.json](./330386-pinata-puppy-world.json) |
 | Pinball | 131467 | [131467-pinball.json](./131467-pinball.json) |
 | Pinball | 131482 | [131482-pinball.json](./131482-pinball.json) |
 | Pinball | 131483 | [131483-pinball.json](./131483-pinball.json) |
