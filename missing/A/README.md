@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Box Full of Joy | 356680 | [356680-a-box-full-of-joy.json](./356680-a-box-full-of-joy.json) |
 | A Boy And His Barrel | 295931 | [295931-a-boy-and-his-barrel.json](./295931-a-boy-and-his-barrel.json) |
 | A Boy and His Blob: Trouble on Blobolonia | 2109 | [2109-a-boy-and-his-blob-trouble-on-blobolonia.json](./2109-a-boy-and-his-blob-trouble-on-blobolonia.json) |
+| A Brand New Camera | 279224 | [279224-a-brand-new-camera.json](./279224-a-brand-new-camera.json) |
 | A Brat's Journey: A Rose Playing Game | 372579 | [372579-a-brats-journey-a-rose-playing-game.json](./372579-a-brats-journey-a-rose-playing-game.json) |
 | A Break in the Road | 300000 | [300000-a-break-in-the-road.json](./300000-a-break-in-the-road.json) |
 | A Bridge Too Far | 181134 | [181134-a-bridge-too-far.json](./181134-a-bridge-too-far.json) |
@@ -1596,6 +1597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advisors at the End of the Universe | 122184 | [122184-advisors-at-the-end-of-the-universe.json](./122184-advisors-at-the-end-of-the-universe.json) |
 | Aebal | 167174 | [167174-aebal.json](./167174-aebal.json) |
 | Aëdemphia | 125943 | [125943-aedemphia.json](./125943-aedemphia.json) |
+| Aegis Dilemma: Veritas Omnia Vincit | 279265 | [279265-aegis-dilemma-veritas-omnia-vincit.json](./279265-aegis-dilemma-veritas-omnia-vincit.json) |
 | Aegis of Earth: Protonovus Assault | 20070 | [20070-aegis-of-earth-protonovus-assault.json](./20070-aegis-of-earth-protonovus-assault.json) |
 | Aegis Online | 103881 | [103881-aegis-online.json](./103881-aegis-online.json) |
 | Aegyptus | 55466 | [55466-aegyptus.json](./55466-aegyptus.json) |
@@ -4672,6 +4674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animalia Survival | 167832 | [167832-animalia-survival.json](./167832-animalia-survival.json) |
 | Animalia Survival: Haloween Pack | 263051 | [263051-animalia-survival-haloween-pack.json](./263051-animalia-survival-haloween-pack.json) |
 | Animalia: The Quiz Game | 68752 | [68752-animalia-the-quiz-game.json](./68752-animalia-the-quiz-game.json) |
+| Animalistic: Last Man on Earth | 279253 | [279253-animalistic-last-man-on-earth.json](./279253-animalistic-last-man-on-earth.json) |
 | Animality | 29914 | [29914-animality.json](./29914-animality.json) |
 | Animallica | 43361 | [43361-animallica.json](./43361-animallica.json) |
 | Animaloid Girl | 263199 | [263199-animaloid-girl.json](./263199-animaloid-girl.json) |
@@ -5887,6 +5890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Galaxy Builder | 263998 | [263998-arcade-galaxy-builder.json](./263998-arcade-galaxy-builder.json) |
 | Arcade Game Construction Kit | 44125 | [44125-arcade-game-construction-kit.json](./44125-arcade-game-construction-kit.json) |
 | Arcade Game Series: Pac-Man | 68344 | [68344-arcade-game-series-pac-man.json](./68344-arcade-game-series-pac-man.json) |
+| Arcade Game Zone | 279251 | [279251-arcade-game-zone.json](./279251-arcade-game-zone.json) |
 | Arcade Gamer | 202794 | [202794-arcade-gamer.json](./202794-arcade-gamer.json) |
 | Arcade Gamer | 202795 | [202795-arcade-gamer.json](./202795-arcade-gamer.json) |
 | Arcade Gamer Classic | 202791 | [202791-arcade-gamer-classic.json](./202791-arcade-gamer-classic.json) |
