@@ -3583,6 +3583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ExAltered | 289412 | [289412-exaltered.json](./289412-exaltered.json) |
 | Examination Chambers | 182213 | [182213-examination-chambers.json](./182213-examination-chambers.json) |
 | Examination of Fear | 255665 | [255665-examination-of-fear.json](./255665-examination-of-fear.json) |
+| Example Block Game | 289018 | [289018-example-block-game.json](./289018-example-block-game.json) |
 | Exanimate | 311189 | [311189-exanimate.json](./311189-exanimate.json) |
 | Exanimora | 371959 | [371959-exanimora.json](./371959-exanimora.json) |
 | Exanimum: The Silent Call | 290410 | [290410-exanimum-the-silent-call.json](./290410-exanimum-the-silent-call.json) |
@@ -3878,6 +3879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Express Raider | 13654 | [13654-express-raider.json](./13654-express-raider.json) |
 | Exquisite Fishing | 235874 | [235874-exquisite-fishing.json](./235874-exquisite-fishing.json) |
 | Exquisite Girls | 372121 | [372121-exquisite-girls.json](./372121-exquisite-girls.json) |
+| EXR | 288980 | [288980-exr.json](./288980-exr.json) |
 | EXS1 EthnologySister: Cultural functionalism | 166171 | [166171-exs1-ethnologysister-cultural-functionalism.json](./166171-exs1-ethnologysister-cultural-functionalism.json) |
 | EXS2: EthnologySister2 - Structuralism of Kinship System | 237279 | [237279-exs2-ethnologysister2-structuralism-of-kinship-system.json](./237279-exs2-ethnologysister2-structuralism-of-kinship-system.json) |
 | Exsanguination | 340045 | [340045-exsanguination.json](./340045-exsanguination.json) |
