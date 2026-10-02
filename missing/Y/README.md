@@ -275,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yeti's Parole Officer | 83598 | [83598-yetis-parole-officer.json](./83598-yetis-parole-officer.json) |
 | Yetisports Arctic Adventure | 43239 | [43239-yetisports-arctic-adventure.json](./43239-yetisports-arctic-adventure.json) |
 | Yetisports Deluxe | 44774 | [44774-yetisports-deluxe.json](./44774-yetisports-deluxe.json) |
+| Yez: The Dark Amulet | 295499 | [295499-yez-the-dark-amulet.json](./295499-yez-the-dark-amulet.json) |
 | Yggdra Kingdom | 395590 | [395590-yggdra-kingdom.json](./395590-yggdra-kingdom.json) |
 | Yggdra Union | 99972 | [99972-yggdra-union.json](./99972-yggdra-union.json) |
 | Yggdra Unison: Seiken Buyuuden | 67852 | [67852-yggdra-unison-seiken-buyuuden.json](./67852-yggdra-unison-seiken-buyuuden.json) |
