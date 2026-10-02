@@ -344,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Modern Warfare III - Season 3 | 298563 | [298563-call-of-duty-modern-warfare-iii-season-3.json](./298563-call-of-duty-modern-warfare-iii-season-3.json) |
 | Call of Duty: Modern Warfare III - Season 4 | 304046 | [304046-call-of-duty-modern-warfare-iii-season-4.json](./304046-call-of-duty-modern-warfare-iii-season-4.json) |
 | Call of Duty: Modern Warfare III - Season 5 | 308961 | [308961-call-of-duty-modern-warfare-iii-season-5.json](./308961-call-of-duty-modern-warfare-iii-season-5.json) |
+| Call of Duty: Modern Warfare III - Season 6 | 318510 | [318510-call-of-duty-modern-warfare-iii-season-6.json](./318510-call-of-duty-modern-warfare-iii-season-6.json) |
 | Call of Duty: Modern Warfare III - Tech Luxe Pro Pack | 291077 | [291077-call-of-duty-modern-warfare-iii-tech-luxe-pro-pack.json](./291077-call-of-duty-modern-warfare-iii-tech-luxe-pro-pack.json) |
 | Call of Duty: Modern Warfare Remastered - Variety Map Pack | 168155 | [168155-call-of-duty-modern-warfare-remastered-variety-map-pack.json](./168155-call-of-duty-modern-warfare-remastered-variety-map-pack.json) |
 | Call of Duty: Modern Warfare Trilogy | 42975 | [42975-call-of-duty-modern-warfare-trilogy.json](./42975-call-of-duty-modern-warfare-trilogy.json) |
@@ -1205,6 +1206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Care for your Horse | 357850 | [357850-care-for-your-horse.json](./357850-care-for-your-horse.json) |
 | Care of Gongon | 350048 | [350048-care-of-gongon.json](./350048-care-of-gongon.json) |
 | Carebotz | 159730 | [159730-carebotz.json](./159730-carebotz.json) |
+| Career Fantasy | 318515 | [318515-career-fantasy.json](./318515-career-fantasy.json) |
 | Carena | 135830 | [135830-carena.json](./135830-carena.json) |
 | Caretaker Retribution | 34236 | [34236-caretaker-retribution.json](./34236-caretaker-retribution.json) |
 | Cargame | 143727 | [143727-cargame.json](./143727-cargame.json) |
@@ -2333,6 +2335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cavesleeper | 371372 | [371372-cavesleeper.json](./371372-cavesleeper.json) |
 | Cavesweeper | 103816 | [103816-cavesweeper.json](./103816-cavesweeper.json) |
 | Caveworks | 383522 | [383522-caveworks.json](./383522-caveworks.json) |
+| Cavrncrate | 318513 | [318513-cavrncrate.json](./318513-cavrncrate.json) |
 | Cavy Chronicles | 281984 | [281984-cavy-chronicles.json](./281984-cavy-chronicles.json) |
 | Cawcaknight | 417695 | [417695-cawcaknight.json](./417695-cawcaknight.json) |
 | Caxy Gambá Encontra o Monstruário | 257103 | [257103-caxy-gamba-encontra-o-monstruario.json](./257103-caxy-gamba-encontra-o-monstruario.json) |
@@ -7769,6 +7772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Bandicoot: Warped | 135451 | [135451-crash-bandicoot-warped.json](./135451-crash-bandicoot-warped.json) |
 | Crash Bash | 1195 | [1195-crash-bash.json](./1195-crash-bash.json) |
 | Crash Bugs Cake Defense | 353954 | [353954-crash-bugs-cake-defense.json](./353954-crash-bugs-cake-defense.json) |
+| Crash Car Mania | 318520 | [318520-crash-car-mania.json](./318520-crash-car-mania.json) |
 | Crash Car Racer | 50620 | [50620-crash-car-racer.json](./50620-crash-car-racer.json) |
 | Crash Cars: Driven to Destruction | 247743 | [247743-crash-cars-driven-to-destruction.json](./247743-crash-cars-driven-to-destruction.json) |
 | Crash Cart | 235144 | [235144-crash-cart.json](./235144-crash-cart.json) |
