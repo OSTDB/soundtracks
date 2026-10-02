@@ -2261,6 +2261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Firma | 155509 | [155509-terra-firma.json](./155509-terra-firma.json) |
 | Terra Firma 2 | 366335 | [366335-terra-firma-2.json](./366335-terra-firma-2.json) |
 | Terra Flame | 197265 | [197265-terra-flame.json](./197265-terra-flame.json) |
+| Terra Foliata | 296631 | [296631-terra-foliata.json](./296631-terra-foliata.json) |
 | Terra Incognita | 129119 | [129119-terra-incognita.json](./129119-terra-incognita.json) |
 | Terra Maega | 217265 | [217265-terra-maega.json](./217265-terra-maega.json) |
 | Terra Militaris | 66367 | [66367-terra-militaris.json](./66367-terra-militaris.json) |
@@ -7052,6 +7053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nascent Necromancer | 264586 | [264586-the-nascent-necromancer.json](./264586-the-nascent-necromancer.json) |
 | The Nations | 9172 | [9172-the-nations.json](./9172-the-nations.json) |
 | The Nations: Land of Legends | 49866 | [49866-the-nations-land-of-legends.json](./49866-the-nations-land-of-legends.json) |
+| The Neath | 296588 | [296588-the-neath.json](./296588-the-neath.json) |
 | The Necessary Evil | 415102 | [415102-the-necessary-evil.json](./415102-the-necessary-evil.json) |
 | The Necklace of Blood Part II | 109886 | [109886-the-necklace-of-blood-part-ii.json](./109886-the-necklace-of-blood-part-ii.json) |
 | The Necromancer's Castle | 82462 | [82462-the-necromancers-castle.json](./82462-the-necromancers-castle.json) |
@@ -9363,6 +9365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Way Home | 362293 | [362293-the-way-home.json](./362293-the-way-home.json) |
 | The Way It Rains on Animals | 332806 | [332806-the-way-it-rains-on-animals.json](./332806-the-way-it-rains-on-animals.json) |
 | The Way of Cooking | 292525 | [292525-the-way-of-cooking.json](./292525-the-way-of-cooking.json) |
+| The Way Of Kings | 296606 | [296606-the-way-of-kings.json](./296606-the-way-of-kings.json) |
 | The Way of Kings: Escape the Shattered Plains! | 88009 | [88009-the-way-of-kings-escape-the-shattered-plains.json](./88009-the-way-of-kings-escape-the-shattered-plains.json) |
 | The Way of Life: Definitive Edition | 88398 | [88398-the-way-of-life-definitive-edition.json](./88398-the-way-of-life-definitive-edition.json) |
 | The Way of Life: Free Edition | 36291 | [36291-the-way-of-life-free-edition.json](./36291-the-way-of-life-free-edition.json) |
@@ -13046,6 +13049,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Warhammer III - Omens of Destruction: Gorbad | 325526 | [325526-total-war-warhammer-iii-omens-of-destruction-gorbad.json](./325526-total-war-warhammer-iii-omens-of-destruction-gorbad.json) |
 | Total War: Warhammer III - Shadows of Change | 251223 | [251223-total-war-warhammer-iii-shadows-of-change.json](./251223-total-war-warhammer-iii-shadows-of-change.json) |
 | Total War: Warhammer III - Thrones of Decay | 251224 | [251224-total-war-warhammer-iii-thrones-of-decay.json](./251224-total-war-warhammer-iii-thrones-of-decay.json) |
+| Total War: Warhammer III - Thrones of Decay: Elspeth | 296620 | [296620-total-war-warhammer-iii-thrones-of-decay-elspeth.json](./296620-total-war-warhammer-iii-thrones-of-decay-elspeth.json) |
+| Total War: Warhammer III - Thrones of Decay: Malakai | 296622 | [296622-total-war-warhammer-iii-thrones-of-decay-malakai.json](./296622-total-war-warhammer-iii-thrones-of-decay-malakai.json) |
+| Total War: Warhammer III - Thrones of Decay: Tamurkhan | 296621 | [296621-total-war-warhammer-iii-thrones-of-decay-tamurkhan.json](./296621-total-war-warhammer-iii-thrones-of-decay-tamurkhan.json) |
 | Total War: Warhammer III - Update 3.1 | 251222 | [251222-total-war-warhammer-iii-update-3-1.json](./251222-total-war-warhammer-iii-update-3-1.json) |
 | Total Zugzwang | 310145 | [310145-total-zugzwang.json](./310145-total-zugzwang.json) |
 | Totality | 272278 | [272278-totality.json](./272278-totality.json) |
