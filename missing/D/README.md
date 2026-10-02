@@ -2668,6 +2668,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defending Earth | 235172 | [235172-defending-earth.json](./235172-defending-earth.json) |
 | Defending Frontiers | 127203 | [127203-defending-frontiers.json](./127203-defending-frontiers.json) |
 | Defending Territory | 119549 | [119549-defending-territory.json](./119549-defending-territory.json) |
+| Defendo | 305437 | [305437-defendo.json](./305437-defendo.json) |
+| Defendo | 305438 | [305438-defendo.json](./305438-defendo.json) |
 | Defendron | 260378 | [260378-defendron.json](./260378-defendron.json) |
 | Defense Corp: Earth | 113168 | [113168-defense-corp-earth.json](./113168-defense-corp-earth.json) |
 | Defense Derby | 247465 | [247465-defense-derby.json](./247465-defense-derby.json) |
@@ -6051,6 +6053,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dongo Adventure | 90826 | [90826-dongo-adventure.json](./90826-dongo-adventure.json) |
 | Donguri Koen: Jinkou Eisei Head Scissors Whip | 320814 | [320814-donguri-koen-jinkou-eisei-head-scissors-whip.json](./320814-donguri-koen-jinkou-eisei-head-scissors-whip.json) |
 | Donkee's Adventure | 401638 | [401638-donkees-adventure.json](./401638-donkees-adventure.json) |
+| Donkey Angler | 305439 | [305439-donkey-angler.json](./305439-donkey-angler.json) |
+| Donkey Angler | 305440 | [305440-donkey-angler.json](./305440-donkey-angler.json) |
 | Donkey Ball | 365814 | [365814-donkey-ball.json](./365814-donkey-ball.json) |
 | Donkey BoM | 398315 | [398315-donkey-bom.json](./398315-donkey-bom.json) |
 | Donkey Gorilla | 267992 | [267992-donkey-gorilla.json](./267992-donkey-gorilla.json) |
@@ -6087,6 +6091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Bananza | 338106 | [338106-donkey-kong-bananza.json](./338106-donkey-kong-bananza.json) |
 | Donkey Kong Barrel Blast | 4817 | [4817-donkey-kong-barrel-blast.json](./4817-donkey-kong-barrel-blast.json) |
 | Donkey Kong Christmas Remix | 339259 | [339259-donkey-kong-christmas-remix.json](./339259-donkey-kong-christmas-remix.json) |
+| Donkey Kong Circus | 305442 | [305442-donkey-kong-circus.json](./305442-donkey-kong-circus.json) |
 | Donkey Kong Classics | 48175 | [48175-donkey-kong-classics.json](./48175-donkey-kong-classics.json) |
 | Donkey Kong Country | 150028 | [150028-donkey-kong-country.json](./150028-donkey-kong-country.json) |
 | Donkey Kong Country | 234084 | [234084-donkey-kong-country.json](./234084-donkey-kong-country.json) |
@@ -6109,6 +6114,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Jr. | 257639 | [257639-donkey-kong-jr.json](./257639-donkey-kong-jr.json) |
 | Donkey Kong Jr. | 257640 | [257640-donkey-kong-jr.json](./257640-donkey-kong-jr.json) |
 | Donkey Kong Jr. | 257641 | [257641-donkey-kong-jr.json](./257641-donkey-kong-jr.json) |
+| Donkey Kong Jr. | 305444 | [305444-donkey-kong-jr.json](./305444-donkey-kong-jr.json) |
+| Donkey Kong Jr. | 305445 | [305445-donkey-kong-jr.json](./305445-donkey-kong-jr.json) |
 | Donkey Kong Jr. | 84555 | [84555-donkey-kong-jr.json](./84555-donkey-kong-jr.json) |
 | Donkey Kong Jr. + Jr. Sansuu Lesson | 77964 | [77964-donkey-kong-jr-jr-sansuu-lesson.json](./77964-donkey-kong-jr-jr-sansuu-lesson.json) |
 | Donkey Kong Jr. Math | 5692 | [5692-donkey-kong-jr-math.json](./5692-donkey-kong-jr-math.json) |
@@ -6120,6 +6127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Junior | 192914 | [192914-donkey-kong-junior.json](./192914-donkey-kong-junior.json) |
 | Donkey Kong Junior | 192915 | [192915-donkey-kong-junior.json](./192915-donkey-kong-junior.json) |
 | Donkey Kong Junior | 192916 | [192916-donkey-kong-junior.json](./192916-donkey-kong-junior.json) |
+| Donkey Kong Junior | 305443 | [305443-donkey-kong-junior.json](./305443-donkey-kong-junior.json) |
 | Donkey Kong Junior | 40921 | [40921-donkey-kong-junior.json](./40921-donkey-kong-junior.json) |
 | Donkey Kong Land | 1091 | [1091-donkey-kong-land.json](./1091-donkey-kong-land.json) |
 | Donkey Kong Land 2: Game Boy Color Edition | 234032 | [234032-donkey-kong-land-2-game-boy-color-edition.json](./234032-donkey-kong-land-2-game-boy-color-edition.json) |
@@ -8921,6 +8929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Desserts | 349371 | [349371-dungeons-and-desserts.json](./349371-dungeons-and-desserts.json) |
 | Dungeons & Dragons Bundle | 242666 | [242666-dungeons-and-dragons-bundle.json](./242666-dungeons-and-dragons-bundle.json) |
 | Dungeons & Dragons Collection | 22831 | [22831-dungeons-and-dragons-collection.json](./22831-dungeons-and-dragons-collection.json) |
+| Dungeons & Dragons Computer Fantasy Game | 305446 | [305446-dungeons-and-dragons-computer-fantasy-game.json](./305446-dungeons-and-dragons-computer-fantasy-game.json) |
 | Dungeons & Dragons Online | 5629 | [5629-dungeons-and-dragons-online.json](./5629-dungeons-and-dragons-online.json) |
 | Dungeons & Dragons Online: Attack on Stormreach | 342065 | [342065-dungeons-and-dragons-online-attack-on-stormreach.json](./342065-dungeons-and-dragons-online-attack-on-stormreach.json) |
 | Dungeons & Dragons Online: Devil Assault | 338893 | [338893-dungeons-and-dragons-online-devil-assault.json](./338893-dungeons-and-dragons-online-devil-assault.json) |
