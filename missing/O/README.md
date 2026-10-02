@@ -622,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oik Memory 3 | 114976 | [114976-oik-memory-3.json](./114976-oik-memory-3.json) |
 | Oik Reloaded | 115809 | [115809-oik-reloaded.json](./115809-oik-reloaded.json) |
 | Oika | 120848 | [120848-oika.json](./120848-oika.json) |
+| Oil and Sand | 311172 | [311172-oil-and-sand.json](./311172-oil-and-sand.json) |
 | Oil Baron | 366254 | [366254-oil-baron.json](./366254-oil-baron.json) |
 | Oil Drill | 22364 | [22364-oil-drill.json](./22364-oil-drill.json) |
 | Oil Filling | 264103 | [264103-oil-filling.json](./264103-oil-filling.json) |
@@ -2103,6 +2104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orna | 105733 | [105733-orna.json](./105733-orna.json) |
 | Ornament Tower | 404393 | [404393-ornament-tower.json](./404393-ornament-tower.json) |
 | Ornélia | 403776 | [403776-ornelia.json](./403776-ornelia.json) |
+| Oroboro | 311203 | [311203-oroboro.json](./311203-oroboro.json) |
 | Ororo | 404983 | [404983-ororo.json](./404983-ororo.json) |
 | Orphan Black: The Game | 27724 | [27724-orphan-black-the-game.json](./27724-orphan-black-the-game.json) |
 | Orphan Feast | 306962 | [306962-orphan-feast.json](./306962-orphan-feast.json) |
