@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QQQbeats!!! | 354547 | [354547-qqqbeats.json](./354547-qqqbeats.json) |
 | QQTang | 240882 | [240882-qqtang.json](./240882-qqtang.json) |
 | QR Code Killer | 123514 | [123514-qr-code-killer.json](./123514-qr-code-killer.json) |
+| QR Dead | 320837 | [320837-qr-dead.json](./320837-qr-dead.json) |
 | Qrank | 94181 | [94181-qrank.json](./94181-qrank.json) |
 | Qreate | 356758 | [356758-qreate.json](./356758-qreate.json) |
 | Qrgan Quarter | 249305 | [249305-qrgan-quarter.json](./249305-qrgan-quarter.json) |
