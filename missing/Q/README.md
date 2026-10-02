@@ -387,6 +387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest for the Crystal Skulls | 268756 | [268756-quest-for-the-crystal-skulls.json](./268756-quest-for-the-crystal-skulls.json) |
 | Quest for the Golden Chalice | 306664 | [306664-quest-for-the-golden-chalice.json](./306664-quest-for-the-golden-chalice.json) |
 | Quest for the Golden Duck | 114111 | [114111-quest-for-the-golden-duck.json](./114111-quest-for-the-golden-duck.json) |
+| Quest for the Holy Joystick | 322696 | [322696-quest-for-the-holy-joystick.json](./322696-quest-for-the-holy-joystick.json) |
 | Quest for the Pinnacle | 238508 | [238508-quest-for-the-pinnacle.json](./238508-quest-for-the-pinnacle.json) |
 | Quest for the Royal Jelly | 26827 | [26827-quest-for-the-royal-jelly.json](./26827-quest-for-the-royal-jelly.json) |
 | Quest for the Shaven Yak Starring Ren Hoëk and Stimpy | 7986 | [7986-quest-for-the-shaven-yak-starring-ren-hoek-and-stimpy.json](./7986-quest-for-the-shaven-yak-starring-ren-hoek-and-stimpy.json) |
