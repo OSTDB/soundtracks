@@ -24,6 +24,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L.F.O. -Lost Future Omega- | 30207 | [30207-l-f-o-lost-future-omega.json](./30207-l-f-o-lost-future-omega.json) |
 | L.O.C.K. | 144364 | [144364-l-o-c-k.json](./144364-l-o-c-k.json) |
 | L.O.L. Surprise! B.B.s Born to Travel | 203810 | [203810-l-o-l-surprise-b-b-s-born-to-travel.json](./203810-l-o-l-surprise-b-b-s-born-to-travel.json) |
+| L.O.L. Surprise!: Laptop Divertido | 297739 | [297739-l-o-l-surprise-laptop-divertido.json](./297739-l-o-l-surprise-laptop-divertido.json) |
+| L.O.L. Surprise!: Laptop Tech | 297742 | [297742-l-o-l-surprise-laptop-tech.json](./297742-l-o-l-surprise-laptop-tech.json) |
 | L.S.S II | 220836 | [220836-l-s-s-ii.json](./220836-l-s-s-ii.json) |
 | L'Affaire... | 53925 | [53925-laffaire.json](./53925-laffaire.json) |
 | L'Ange et le Demon | 202682 | [202682-lange-et-le-demon.json](./202682-lange-et-le-demon.json) |
@@ -2470,6 +2472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LightStrike | 29784 | [29784-lightstrike.json](./29784-lightstrike.json) |
 | LightSup! | 259021 | [259021-lightsup.json](./259021-lightsup.json) |
 | LightUp! | 186248 | [186248-lightup.json](./186248-lightup.json) |
+| Lightus | 297747 | [297747-lightus.json](./297747-lightus.json) |
 | Lightvayne: Adventure on Volcanus Island | 322650 | [322650-lightvayne-adventure-on-volcanus-island.json](./322650-lightvayne-adventure-on-volcanus-island.json) |
 | LightWalk | 33096 | [33096-lightwalk.json](./33096-lightwalk.json) |
 | LightWave | 155657 | [155657-lightwave.json](./155657-lightwave.json) |
