@@ -669,6 +669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Okko the Exiled | 338923 | [338923-okko-the-exiled.json](./338923-okko-the-exiled.json) |
 | Okkotoshi Puzzle Tonjan!? | 60799 | [60799-okkotoshi-puzzle-tonjan.json](./60799-okkotoshi-puzzle-tonjan.json) |
 | Oko | 128559 | [128559-oko.json](./128559-oko.json) |
+| Okthryssia and Saturnia's Bureaucratic Adventures | 323245 | [323245-okthryssia-and-saturnias-bureaucratic-adventures.json](./323245-okthryssia-and-saturnias-bureaucratic-adventures.json) |
 | Oktoberfest Break: Head to Head | 214518 | [214518-oktoberfest-break-head-to-head.json](./214518-oktoberfest-break-head-to-head.json) |
 | Oktoberfest: The Official Game | 67682 | [67682-oktoberfest-the-official-game.json](./67682-oktoberfest-the-official-game.json) |
 | Oku | 345536 | [345536-oku.json](./345536-oku.json) |
