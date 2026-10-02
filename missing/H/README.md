@@ -403,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hallucinations | 358287 | [358287-hallucinations.json](./358287-hallucinations.json) |
 | Hallway Gunners | 363057 | [363057-hallway-gunners.json](./363057-hallway-gunners.json) |
 | Hallway of Horrors | 319804 | [319804-hallway-of-horrors.json](./319804-hallway-of-horrors.json) |
+| Hallways | 280421 | [280421-hallways.json](./280421-hallways.json) |
 | Halmaverse | 340409 | [340409-halmaverse.json](./340409-halmaverse.json) |
 | Halo 2 Digsite: Alpha Moon | 332818 | [332818-halo-2-digsite-alpha-moon.json](./332818-halo-2-digsite-alpha-moon.json) |
 | Halo 2 Digsite: E3 2003 Demo | 321524 | [321524-halo-2-digsite-e3-2003-demo.json](./321524-halo-2-digsite-e3-2003-demo.json) |
@@ -2973,6 +2974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Maidan 2 | 113902 | [113902-heroes-of-maidan-2.json](./113902-heroes-of-maidan-2.json) |
 | Heroes of Maidan 3 | 127754 | [127754-heroes-of-maidan-3.json](./127754-heroes-of-maidan-3.json) |
 | Heroes of Mana | 14990 | [14990-heroes-of-mana.json](./14990-heroes-of-mana.json) |
+| Heroes of Mavia | 280426 | [280426-heroes-of-mavia.json](./280426-heroes-of-mavia.json) |
 | Heroes of Might & Magic: Olden Era | 314543 | [314543-heroes-of-might-and-magic-olden-era.json](./314543-heroes-of-might-and-magic-olden-era.json) |
 | Heroes of Might and Magic | 143578 | [143578-heroes-of-might-and-magic.json](./143578-heroes-of-might-and-magic.json) |
 | Heroes of Might and Magic 3.5: In the Wake of Gods | 19775 | [19775-heroes-of-might-and-magic-3-5-in-the-wake-of-gods.json](./19775-heroes-of-might-and-magic-3-5-in-the-wake-of-gods.json) |
