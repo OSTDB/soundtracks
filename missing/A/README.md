@@ -2395,6 +2395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airsoft Range | 312192 | [312192-airsoft-range.json](./312192-airsoft-range.json) |
 | Airstrife: Assault of the Aviators | 143691 | [143691-airstrife-assault-of-the-aviators.json](./143691-airstrife-assault-of-the-aviators.json) |
 | AirStrike 3D: Operation W.A.T. | 70123 | [70123-airstrike-3d-operation-w-a-t.json](./70123-airstrike-3d-operation-w-a-t.json) |
+| AirStrike Command: Tactical Assault Operation | 309046 | [309046-airstrike-command-tactical-assault-operation.json](./309046-airstrike-command-tactical-assault-operation.json) |
 | AirStrike Command: Tactical Assault Operation & Helicopter Battle Arena Simulator | 395885 | [395885-airstrike-command-tactical-assault-operation-and-helicopter-battle-arena-simulator.json](./395885-airstrike-command-tactical-assault-operation-and-helicopter-battle-arena-simulator.json) |
 | Airstrike II | 68967 | [68967-airstrike-ii.json](./68967-airstrike-ii.json) |
 | Airstrike II: Gulf Thunder | 593 | [593-airstrike-ii-gulf-thunder.json](./593-airstrike-ii-gulf-thunder.json) |
@@ -4661,6 +4662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Girl Puzzles: Wakana | 297773 | [297773-anime-girl-puzzles-wakana.json](./297773-anime-girl-puzzles-wakana.json) |
 | Anime Girl Puzzles: Yui | 297772 | [297772-anime-girl-puzzles-yui.json](./297772-anime-girl-puzzles-yui.json) |
 | Anime Girls | 261367 | [261367-anime-girls.json](./261367-anime-girls.json) |
+| Anime Girls Basketball League | 309004 | [309004-anime-girls-basketball-league.json](./309004-anime-girls-basketball-league.json) |
 | Anime Girls Trample | 379535 | [379535-anime-girls-trample.json](./379535-anime-girls-trample.json) |
 | Anime Girls: Bouncy Basketball | 342214 | [342214-anime-girls-bouncy-basketball.json](./342214-anime-girls-bouncy-basketball.json) |
 | Anime Girls: College Love | 378779 | [378779-anime-girls-college-love.json](./378779-anime-girls-college-love.json) |
@@ -5659,6 +5661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Fighting Hawk | 200579 | [200579-arcade-archives-fighting-hawk.json](./200579-arcade-archives-fighting-hawk.json) |
 | Arcade Archives: Finalizer Super Transformation | 315828 | [315828-arcade-archives-finalizer-super-transformation.json](./315828-arcade-archives-finalizer-super-transformation.json) |
 | Arcade Archives: Flipull | 202800 | [202800-arcade-archives-flipull.json](./202800-arcade-archives-flipull.json) |
+| Arcade Archives: Football Champ | 309045 | [309045-arcade-archives-football-champ.json](./309045-arcade-archives-football-champ.json) |
 | Arcade Archives: Galactic Warriors | 378778 | [378778-arcade-archives-galactic-warriors.json](./378778-arcade-archives-galactic-warriors.json) |
 | Arcade Archives: Galaga | 230364 | [230364-arcade-archives-galaga.json](./230364-arcade-archives-galaga.json) |
 | Arcade Archives: Gangbusters | 340530 | [340530-arcade-archives-gangbusters.json](./340530-arcade-archives-gangbusters.json) |
