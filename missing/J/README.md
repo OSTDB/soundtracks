@@ -325,6 +325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Janitron | 376596 | [376596-janitron.json](./376596-janitron.json) |
 | JanKen Battle Arena | 245051 | [245051-janken-battle-arena.json](./245051-janken-battle-arena.json) |
 | Janken Disk Shiro | 41368 | [41368-janken-disk-shiro.json](./41368-janken-disk-shiro.json) |
+| Janken Horn | 326175 | [326175-janken-horn.json](./326175-janken-horn.json) |
 | Janken Man | 231494 | [231494-janken-man.json](./231494-janken-man.json) |
 | Janken Shogi | 216223 | [216223-janken-shogi.json](./216223-janken-shogi.json) |
 | JanKenUP! | 180199 | [180199-jankenup.json](./180199-jankenup.json) |
@@ -1319,6 +1320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journalism Class: Hot Part 3 | 109890 | [109890-journalism-class-hot-part-3.json](./109890-journalism-class-hot-part-3.json) |
 | Journalist | 186906 | [186906-journalist.json](./186906-journalist.json) |
 | Journey | 298669 | [298669-journey.json](./298669-journey.json) |
+| Journey Across Japan: Mysteries of Mt Aso | 326149 | [326149-journey-across-japan-mysteries-of-mt-aso.json](./326149-journey-across-japan-mysteries-of-mt-aso.json) |
 | Journey Back to Dreamspace | 394470 | [394470-journey-back-to-dreamspace.json](./394470-journey-back-to-dreamspace.json) |
 | Journey Escape | 22415 | [22415-journey-escape.json](./22415-journey-escape.json) |
 | Journey Express | 238502 | [238502-journey-express.json](./238502-journey-express.json) |
