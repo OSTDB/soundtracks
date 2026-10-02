@@ -2735,6 +2735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ALF's U.S. Geography | 94247 | [94247-alfs-u-s-geography.json](./94247-alfs-u-s-geography.json) |
 | Alfa Romeo Racing Italiano | 5721 | [5721-alfa-romeo-racing-italiano.json](./5721-alfa-romeo-racing-italiano.json) |
 | Alfa-Arkiv | 60793 | [60793-alfa-arkiv.json](./60793-alfa-arkiv.json) |
+| Alfabet Nauka czytania i pisania | 318485 | [318485-alfabet-nauka-czytania-i-pisania.json](./318485-alfabet-nauka-czytania-i-pisania.json) |
 | Alfabet Śmierci | 14238 | [14238-alfabet-smierci.json](./14238-alfabet-smierci.json) |
 | Alfal's Grove | 132651 | [132651-alfals-grove.json](./132651-alfals-grove.json) |
 | Alfons World | 345053 | [345053-alfons-world.json](./345053-alfons-world.json) |
@@ -4424,6 +4425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anicon: Animal Complex - Sheep's Path | 106607 | [106607-anicon-animal-complex-sheeps-path.json](./106607-anicon-animal-complex-sheeps-path.json) |
 | ANIDU: Animal Dust Puppet’s Adventure | 258549 | [258549-anidu-animal-dust-puppet-s-adventure.json](./258549-anidu-animal-dust-puppet-s-adventure.json) |
 | Anigma Byte | 384215 | [384215-anigma-byte.json](./384215-anigma-byte.json) |
+| AniGuessr | 318504 | [318504-aniguessr.json](./318504-aniguessr.json) |
 | Anika's Odyssey: Land of the Taniwha | 316761 | [316761-anikas-odyssey-land-of-the-taniwha.json](./316761-anikas-odyssey-land-of-the-taniwha.json) |
 | Anilife: An Animal Survival Adventure | 156991 | [156991-anilife-an-animal-survival-adventure.json](./156991-anilife-an-animal-survival-adventure.json) |
 | Anima | 193433 | [193433-anima.json](./193433-anima.json) |
@@ -8391,6 +8393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axis Mundi | 26942 | [26942-axis-mundi.json](./26942-axis-mundi.json) |
 | Axium's Box | 235453 | [235453-axiums-box.json](./235453-axiums-box.json) |
 | Axizon Labs: Zombies | 132213 | [132213-axizon-labs-zombies.json](./132213-axizon-labs-zombies.json) |
+| Axl Fangame | 318518 | [318518-axl-fangame.json](./318518-axl-fangame.json) |
 | Axle | 9652 | [9652-axle.json](./9652-axle.json) |
 | Axo Away | 184065 | [184065-axo-away.json](./184065-axo-away.json) |
 | Axobubble | 361254 | [361254-axobubble.json](./361254-axobubble.json) |
