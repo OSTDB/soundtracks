@@ -621,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balancing Cats | 330833 | [330833-balancing-cats.json](./330833-balancing-cats.json) |
 | Balathrone | 390720 | [390720-balathrone.json](./390720-balathrone.json) |
 | Balatro: Cryptid | 331968 | [331968-balatro-cryptid.json](./331968-balatro-cryptid.json) |
+| Balatro: Friends of Jimbo | 314927 | [314927-balatro-friends-of-jimbo.json](./314927-balatro-friends-of-jimbo.json) |
 | Balatro: Special Edition | 323893 | [323893-balatro-special-edition.json](./323893-balatro-special-edition.json) |
 | Balconing Simulator 2020 | 127988 | [127988-balconing-simulator-2020.json](./127988-balconing-simulator-2020.json) |
 | Bald Man Climbs Up | 260988 | [260988-bald-man-climbs-up.json](./260988-bald-man-climbs-up.json) |
@@ -3347,6 +3348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyblade x Evobattle: Digital Beybooster Metal Coat | 378877 | [378877-beyblade-x-evobattle-digital-beybooster-metal-coat.json](./378877-beyblade-x-evobattle-digital-beybooster-metal-coat.json) |
 | Beyblade x Evobattle: Digital Beybooster Vol. 2 | 378878 | [378878-beyblade-x-evobattle-digital-beybooster-vol-2.json](./378878-beyblade-x-evobattle-digital-beybooster-vol-2.json) |
 | Beyblade x Evobattle: Digital Beybooster Vol. 3 | 378879 | [378879-beyblade-x-evobattle-digital-beybooster-vol-3.json](./378879-beyblade-x-evobattle-digital-beybooster-vol-3.json) |
+| Beyblade X Xone | 314959 | [314959-beyblade-x-xone.json](./314959-beyblade-x-xone.json) |
 | Beyblade: Burst Rivals | 108628 | [108628-beyblade-burst-rivals.json](./108628-beyblade-burst-rivals.json) |
 | Beyblade: Let it Rip! | 4653 | [4653-beyblade-let-it-rip.json](./4653-beyblade-let-it-rip.json) |
 | Beyblade: Metal Fusion Cyber Pegasus | 48033 | [48033-beyblade-metal-fusion-cyber-pegasus.json](./48033-beyblade-metal-fusion-cyber-pegasus.json) |
@@ -4085,6 +4087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birds With Feelings | 118177 | [118177-birds-with-feelings.json](./118177-birds-with-feelings.json) |
 | Birds'n'Blocks | 88843 | [88843-birdsnblocks.json](./88843-birdsnblocks.json) |
 | Birds'n'Blocks 2 | 87694 | [87694-birdsnblocks-2.json](./87694-birdsnblocks-2.json) |
+| Birdwatcher | 314969 | [314969-birdwatcher.json](./314969-birdwatcher.json) |
 | Birdwatching | 390738 | [390738-birdwatching.json](./390738-birdwatching.json) |
 | Birkanoid | 178547 | [178547-birkanoid.json](./178547-birkanoid.json) |
 | Birmingham City Club Football 2005 | 267894 | [267894-birmingham-city-club-football-2005.json](./267894-birmingham-city-club-football-2005.json) |
@@ -8890,6 +8893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bypass | 382884 | [382884-bypass.json](./382884-bypass.json) |
 | Bystander | 75827 | [75827-bystander.json](./75827-bystander.json) |
 | Byte Bitten | 93183 | [93183-byte-bitten.json](./93183-byte-bitten.json) |
+| Byte Breakers | 314978 | [314978-byte-breakers.json](./314978-byte-breakers.json) |
 | Byte Fyte: Multiplayer | 226276 | [226276-byte-fyte-multiplayer.json](./226276-byte-fyte-multiplayer.json) |
 | Byte Lynx | 203889 | [203889-byte-lynx.json](./203889-byte-lynx.json) |
 | Byte Rider | 234011 | [234011-byte-rider.json](./234011-byte-rider.json) |
