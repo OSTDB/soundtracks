@@ -246,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life 2: Game of the Year Edition | 314459 | [314459-half-life-2-game-of-the-year-edition.json](./314459-half-life-2-game-of-the-year-edition.json) |
 | Half-Life 2: MMod - Half-Life 2: Update | 267639 | [267639-half-life-2-mmod-half-life-2-update.json](./267639-half-life-2-mmod-half-life-2-update.json) |
 | Half-Life 2: MMod - Minerva | 270708 | [270708-half-life-2-mmod-minerva.json](./270708-half-life-2-mmod-minerva.json) |
+| Half-Life 2: Survivor | 320851 | [320851-half-life-2-survivor.json](./320851-half-life-2-survivor.json) |
 | Half-Life 2: VR Mod | 28827 | [28827-half-life-2-vr-mod.json](./28827-half-life-2-vr-mod.json) |
 | Half-Life 2: VR Mod - Episode One | 243118 | [243118-half-life-2-vr-mod-episode-one.json](./243118-half-life-2-vr-mod-episode-one.json) |
 | Half-Life 2: VR Mod - Episode Two | 243119 | [243119-half-life-2-vr-mod-episode-two.json](./243119-half-life-2-vr-mod-episode-two.json) |
@@ -1314,6 +1315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunting Mysteries: The Island of Lost Souls - Collector's Edition | 355528 | [355528-haunting-mysteries-the-island-of-lost-souls-collectors-edition.json](./355528-haunting-mysteries-the-island-of-lost-souls-collectors-edition.json) |
 | Haunting of Mageburrow | 402361 | [402361-haunting-of-mageburrow.json](./402361-haunting-of-mageburrow.json) |
 | Haunting Record: Phantom Street | 326090 | [326090-haunting-record-phantom-street.json](./326090-haunting-record-phantom-street.json) |
+| Haunting Record: Sins of Lust | 320818 | [320818-haunting-record-sins-of-lust.json](./320818-haunting-record-sins-of-lust.json) |
 | Haunting Starring Polterguy | 8100 | [8100-haunting-starring-polterguy.json](./8100-haunting-starring-polterguy.json) |
 | Haunting: The Rosefield Manor | 318994 | [318994-haunting-the-rosefield-manor.json](./318994-haunting-the-rosefield-manor.json) |
 | Hauntrick | 334176 | [334176-hauntrick.json](./334176-hauntrick.json) |
@@ -4756,6 +4758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hope For Winter | 167584 | [167584-hope-for-winter.json](./167584-hope-for-winter.json) |
 | Hope in Hell | 34277 | [34277-hope-in-hell.json](./34277-hope-in-hell.json) |
 | Hope in the City | 347898 | [347898-hope-in-the-city.json](./347898-hope-in-the-city.json) |
+| Hope Isle | 320819 | [320819-hope-isle.json](./320819-hope-isle.json) |
 | Hope Lake | 32445 | [32445-hope-lake.json](./32445-hope-lake.json) |
 | Hope Land | 158585 | [158585-hope-land.json](./158585-hope-land.json) |
 | Hope Left Me | 228417 | [228417-hope-left-me.json](./228417-hope-left-me.json) |
@@ -4876,6 +4879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horny Witch Hunt | 212200 | [212200-horny-witch-hunt.json](./212200-horny-witch-hunt.json) |
 | Horny Wives' Yoga Class | 393797 | [393797-horny-wives-yoga-class.json](./393797-horny-wives-yoga-class.json) |
 | Horobi Kuchiru Sekai ni Tsuioku no Hanataba wo | 198365 | [198365-horobi-kuchiru-sekai-ni-tsuioku-no-hanataba-wo.json](./198365-horobi-kuchiru-sekai-ni-tsuioku-no-hanataba-wo.json) |
+| Horoboshi-hime | 320826 | [320826-horoboshi-hime.json](./320826-horoboshi-hime.json) |
 | HoRoyal: Hololive Battle Royal | 403080 | [403080-horoyal-hololive-battle-royal.json](./403080-horoyal-hololive-battle-royal.json) |
 | Horrher | 362993 | [362993-horrher.json](./362993-horrher.json) |
 | Horrible Histories: Ruthless Romans | 21286 | [21286-horrible-histories-ruthless-romans.json](./21286-horrible-histories-ruthless-romans.json) |
