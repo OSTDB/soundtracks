@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth: The Wizard's Cat | 296486 | [296486-labyrinth-the-wizards-cat.json](./296486-labyrinth-the-wizards-cat.json) |
 | Labyrinthe | 242259 | [242259-labyrinthe.json](./242259-labyrinthe.json) |
 | LabyrinTheam | 399687 | [399687-labyrintheam.json](./399687-labyrintheam.json) |
+| Labyrinthian Lockdown | 290627 | [290627-labyrinthian-lockdown.json](./290627-labyrinthian-lockdown.json) |
 | Labyrinthian: Lost 'til Dawn | 238512 | [238512-labyrinthian-lost-til-dawn.json](./238512-labyrinthian-lost-til-dawn.json) |
 | Labyrinthine | 133409 | [133409-labyrinthine.json](./133409-labyrinthine.json) |
 | Labyrinthine Dread | 342789 | [342789-labyrinthine-dread.json](./342789-labyrinthine-dread.json) |
@@ -1295,6 +1296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Krilona | 180021 | [180021-legend-of-krilona.json](./180021-legend-of-krilona.json) |
 | Legend of Kunoichi | 59368 | [59368-legend-of-kunoichi.json](./59368-legend-of-kunoichi.json) |
 | Legend of Labot: The Golden Pearl | 173280 | [173280-legend-of-labot-the-golden-pearl.json](./173280-legend-of-labot-the-golden-pearl.json) |
+| Legend of Love | 290632 | [290632-legend-of-love.json](./290632-legend-of-love.json) |
 | Legend of Mana | 14986 | [14986-legend-of-mana.json](./14986-legend-of-mana.json) |
 | Legend of Maratha Warriors | 158702 | [158702-legend-of-maratha-warriors.json](./158702-legend-of-maratha-warriors.json) |
 | Legend of Marrow | 296933 | [296933-legend-of-marrow.json](./296933-legend-of-marrow.json) |
@@ -4819,6 +4821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminis: Heal Them All | 270133 | [270133-luminis-heal-them-all.json](./270133-luminis-heal-them-all.json) |
 | Lumino City | 8762 | [8762-lumino-city.json](./8762-lumino-city.json) |
 | Luminosity | 35836 | [35836-luminosity.json](./35836-luminosity.json) |
+| Luminous | 290643 | [290643-luminous.json](./290643-luminous.json) |
 | Luminous | 382191 | [382191-luminous.json](./382191-luminous.json) |
 | Luminous Arc 2 | 21330 | [21330-luminous-arc-2.json](./21330-luminous-arc-2.json) |
 | Luminous Arc 3 | 25100 | [25100-luminous-arc-3.json](./25100-luminous-arc-3.json) |
