@@ -456,6 +456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dandy Ace | 116533 | [116533-dandy-ace.json](./116533-dandy-ace.json) |
 | Dandy Boy Halloween Adventure | 292056 | [292056-dandy-boy-halloween-adventure.json](./292056-dandy-boy-halloween-adventure.json) |
 | Dandy Dungeon: Legend of Brave Yamada | 27104 | [27104-dandy-dungeon-legend-of-brave-yamada.json](./27104-dandy-dungeon-legend-of-brave-yamada.json) |
+| Dandy VR,NR | 280442 | [280442-dandy-vr-nr.json](./280442-dandy-vr-nr.json) |
 | Dandy: Or a Brief Glimpse into the Life of the Candy Alchemist | 34975 | [34975-dandy-or-a-brief-glimpse-into-the-life-of-the-candy-alchemist.json](./34975-dandy-or-a-brief-glimpse-into-the-life-of-the-candy-alchemist.json) |
 | Dandy: Or a Brief Glimpse Into the Life of the Candy Alchemist | 59985 | [59985-dandy-or-a-brief-glimpse-into-the-life-of-the-candy-alchemist.json](./59985-dandy-or-a-brief-glimpse-into-the-life-of-the-candy-alchemist.json) |
 | Daneta | 125456 | [125456-daneta.json](./125456-daneta.json) |
@@ -3652,6 +3653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destructor2D | 404984 | [404984-destructor2d.json](./404984-destructor2d.json) |
 | Desynced | 230222 | [230222-desynced.json](./230222-desynced.json) |
 | Detach Metroid | 328683 | [328683-detach-metroid.json](./328683-detach-metroid.json) |
+| Detached | 280423 | [280423-detached.json](./280423-detached.json) |
 | Detached: Non-VR Edition | 105080 | [105080-detached-non-vr-edition.json](./105080-detached-non-vr-edition.json) |
 | Detail Hunter | 322982 | [322982-detail-hunter.json](./322982-detail-hunter.json) |
 | DeTails | 355129 | [355129-details.json](./355129-details.json) |
@@ -3936,6 +3938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dexter: The Game | 21668 | [21668-dexter-the-game.json](./21668-dexter-the-game.json) |
 | Dexter's Laboratory Security Alert! | 23608 | [23608-dexters-laboratory-security-alert.json](./23608-dexters-laboratory-security-alert.json) |
 | Dexter's Laboratory: Science Ain't Fair | 8003 | [8003-dexters-laboratory-science-aint-fair.json](./8003-dexters-laboratory-science-aint-fair.json) |
+| Dexter's Momatory | 280444 | [280444-dexters-momatory.json](./280444-dexters-momatory.json) |
 | Dexterity | 91263 | [91263-dexterity.json](./91263-dexterity.json) |
 | Dexterity Ball 3D | 34445 | [34445-dexterity-ball-3d.json](./34445-dexterity-ball-3d.json) |
 | Dexterous: Time to Steal | 278159 | [278159-dexterous-time-to-steal.json](./278159-dexterous-time-to-steal.json) |
