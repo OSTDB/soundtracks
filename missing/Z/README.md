@@ -364,6 +364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeon 25 | 103459 | [103459-zeon-25.json](./103459-zeon-25.json) |
 | Zep | 377136 | [377136-zep.json](./377136-zep.json) |
 | Zepball Deluxe | 135696 | [135696-zepball-deluxe.json](./135696-zepball-deluxe.json) |
+| Zephyr | 327268 | [327268-zephyr.json](./327268-zephyr.json) |
 | Zeppelin | 23871 | [23871-zeppelin.json](./23871-zeppelin.json) |
 | Zeppelin Rescue | 297034 | [297034-zeppelin-rescue.json](./297034-zeppelin-rescue.json) |
 | Zeppelin Rush | 348925 | [348925-zeppelin-rush.json](./348925-zeppelin-rush.json) |
