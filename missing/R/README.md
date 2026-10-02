@@ -6397,6 +6397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rustling Leaves | 249781 | [249781-rustling-leaves.json](./249781-rustling-leaves.json) |
 | Rustmourne | 406184 | [406184-rustmourne.json](./406184-rustmourne.json) |
 | RustNaut | 348308 | [348308-rustnaut.json](./348308-rustnaut.json) |
+| Rusts of Corruption | 307218 | [307218-rusts-of-corruption.json](./307218-rusts-of-corruption.json) |
 | Rusty | 239074 | [239074-rusty.json](./239074-rusty.json) |
 | Rusty | 45975 | [45975-rusty.json](./45975-rusty.json) |
 | Rusty Blower 3D | 342782 | [342782-rusty-blower-3d.json](./342782-rusty-blower-3d.json) |
