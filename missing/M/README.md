@@ -4319,6 +4319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memolith: Forsaken by Light | 399744 | [399744-memolith-forsaken-by-light.json](./399744-memolith-forsaken-by-light.json) |
 | Memology | 375957 | [375957-memology.json](./375957-memology.json) |
 | Memology: Goyda | 372583 | [372583-memology-goyda.json](./372583-memology-goyda.json) |
+| Memora Wanderer | 298267 | [298267-memora-wanderer.json](./298267-memora-wanderer.json) |
 | Memorabilia | 177412 | [177412-memorabilia.json](./177412-memorabilia.json) |
 | Memoralysis: The Scorched Home | 323230 | [323230-memoralysis-the-scorched-home.json](./323230-memoralysis-the-scorched-home.json) |
 | Memorel Restoration Project | 380525 | [380525-memorel-restoration-project.json](./380525-memorel-restoration-project.json) |
@@ -8118,6 +8119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Rider | 295026 | [295026-moon-rider.json](./295026-moon-rider.json) |
 | Moon River | 298303 | [298303-moon-river.json](./298303-moon-river.json) |
 | Moon Runner | 199125 | [199125-moon-runner.json](./199125-moon-runner.json) |
+| Moon Samurai | 298238 | [298238-moon-samurai.json](./298238-moon-samurai.json) |
 | Moon Shuttle | 18701 | [18701-moon-shuttle.json](./18701-moon-shuttle.json) |
 | Moon Slasher | 185108 | [185108-moon-slasher.json](./185108-moon-slasher.json) |
 | Moon Split Island: Dungeon Adventure | 220639 | [220639-moon-split-island-dungeon-adventure.json](./220639-moon-split-island-dungeon-adventure.json) |
