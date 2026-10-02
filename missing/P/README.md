@@ -1488,6 +1488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patchwork Heroes | 42851 | [42851-patchwork-heroes.json](./42851-patchwork-heroes.json) |
 | Patchworkz!: X-maz! | 185696 | [185696-patchworkz-x-maz.json](./185696-patchworkz-x-maz.json) |
 | Patchworld | 316399 | [316399-patchworld.json](./316399-patchworld.json) |
+| Patchy Matchy | 307853 | [307853-patchy-matchy.json](./307853-patchy-matchy.json) |
 | Patent Blaster | 60079 | [60079-patent-blaster.json](./60079-patent-blaster.json) |
 | Patent9 | 90117 | [90117-patent9.json](./90117-patent9.json) |
 | Path Ball | 341590 | [341590-path-ball.json](./341590-path-ball.json) |
@@ -2810,6 +2811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix Wright: Ace Attorney - Episode 5: Rise from the Ashes | 340577 | [340577-phoenix-wright-ace-attorney-episode-5-rise-from-the-ashes.json](./340577-phoenix-wright-ace-attorney-episode-5-rise-from-the-ashes.json) |
 | Phoenix Wright: Ace Attorney - Justice for All | 1427 | [1427-phoenix-wright-ace-attorney-justice-for-all.json](./1427-phoenix-wright-ace-attorney-justice-for-all.json) |
 | Phoenix Wright: Ace Attorney - Justice For All | 221286 | [221286-phoenix-wright-ace-attorney-justice-for-all.json](./221286-phoenix-wright-ace-attorney-justice-for-all.json) |
+| Phoenix Wright: Ace Attorney - Justice For Eternity | 307854 | [307854-phoenix-wright-ace-attorney-justice-for-eternity.json](./307854-phoenix-wright-ace-attorney-justice-for-eternity.json) |
 | Phoenix Wright: Ace Attorney - Project Justice | 310412 | [310412-phoenix-wright-ace-attorney-project-justice.json](./310412-phoenix-wright-ace-attorney-project-justice.json) |
 | Phoenix Wright: Ace Attorney - Spirit of Justice | 12077 | [12077-phoenix-wright-ace-attorney-spirit-of-justice.json](./12077-phoenix-wright-ace-attorney-spirit-of-justice.json) |
 | Phoenix Wright: Ace Attorney - Spirit of Justice | 253014 | [253014-phoenix-wright-ace-attorney-spirit-of-justice.json](./253014-phoenix-wright-ace-attorney-spirit-of-justice.json) |
@@ -3820,6 +3822,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pit Rush | 183382 | [183382-pit-rush.json](./183382-pit-rush.json) |
 | Pit Stop Racing: Club Vs. Club | 251662 | [251662-pit-stop-racing-club-vs-club.json](./251662-pit-stop-racing-club-vs-club.json) |
 | Pit Stop Racing: Manager | 234612 | [234612-pit-stop-racing-manager.json](./234612-pit-stop-racing-manager.json) |
+| Pit-Fighter | 307835 | [307835-pit-fighter.json](./307835-pit-fighter.json) |
+| Pit-Fighter | 307836 | [307836-pit-fighter.json](./307836-pit-fighter.json) |
 | Pitball | 20723 | [20723-pitball.json](./20723-pitball.json) |
 | Pitch & Pixel | 405605 | [405605-pitch-and-pixel.json](./405605-pitch-and-pixel.json) |
 | Pitch Black | 223685 | [223685-pitch-black.json](./223685-pitch-black.json) |
@@ -3968,6 +3972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Gun 2 | 406834 | [406834-pixel-gun-2.json](./406834-pixel-gun-2.json) |
 | Pixel Gun 3D: PC Edition | 261628 | [261628-pixel-gun-3d-pc-edition.json](./261628-pixel-gun-3d-pc-edition.json) |
 | Pixel Gun Battle | 370201 | [370201-pixel-gun-battle.json](./370201-pixel-gun-battle.json) |
+| Pixel Gun World | 307855 | [307855-pixel-gun-world.json](./307855-pixel-gun-world.json) |
 | Pixel Gunmen | 226772 | [226772-pixel-gunmen.json](./226772-pixel-gunmen.json) |
 | Pixel Hentai Mosaic | 103789 | [103789-pixel-hentai-mosaic.json](./103789-pixel-hentai-mosaic.json) |
 | Pixel Heroes: Byte & Magic | 10699 | [10699-pixel-heroes-byte-and-magic.json](./10699-pixel-heroes-byte-and-magic.json) |
@@ -6813,6 +6818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | President Rocket Game | 189937 | [189937-president-rocket-game.json](./189937-president-rocket-game.json) |
 | President Simulator | 400440 | [400440-president-simulator.json](./400440-president-simulator.json) |
 | President Yukino | 106614 | [106614-president-yukino.json](./106614-president-yukino.json) |
+| President's Choice | 307866 | [307866-presidents-choice.json](./307866-presidents-choice.json) |
 | Presidential Running Games | 292689 | [292689-presidential-running-games.json](./292689-presidential-running-games.json) |
 | PreSim | 88242 | [88242-presim.json](./88242-presim.json) |
 | Press Any Button | 143596 | [143596-press-any-button.json](./143596-press-any-button.json) |
