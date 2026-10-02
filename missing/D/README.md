@@ -275,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dakkoshite! Chimpanzee | 67358 | [67358-dakkoshite-chimpanzee.json](./67358-dakkoshite-chimpanzee.json) |
 | Dakota Winchester's Adventures 2 | 310557 | [310557-dakota-winchesters-adventures-2.json](./310557-dakota-winchesters-adventures-2.json) |
 | Dakota Winchester's Adventures 3 | 310558 | [310558-dakota-winchesters-adventures-3.json](./310558-dakota-winchesters-adventures-3.json) |
+| Dala and The Cursed Forest | 292768 | [292768-dala-and-the-cursed-forest.json](./292768-dala-and-the-cursed-forest.json) |
 | Daldzah | 277978 | [277978-daldzah.json](./277978-daldzah.json) |
 | Dale & Dawson Stationery Supplies | 296326 | [296326-dale-and-dawson-stationery-supplies.json](./296326-dale-and-dawson-stationery-supplies.json) |
 | Dale and Peakot | 270736 | [270736-dale-and-peakot.json](./270736-dale-and-peakot.json) |
@@ -2035,6 +2036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadzone: Rogue - Apophis | 373616 | [373616-deadzone-rogue-apophis.json](./373616-deadzone-rogue-apophis.json) |
 | DeadZone: Survival Ops Zombie Shooter & WW2 Soldiers of Honor - Warzone Assault | 393065 | [393065-deadzone-survival-ops-zombie-shooter-and-ww2-soldiers-of-honor-warzone-assault.json](./393065-deadzone-survival-ops-zombie-shooter-and-ww2-soldiers-of-honor-warzone-assault.json) |
 | DeafBlind | 302434 | [302434-deafblind.json](./302434-deafblind.json) |
+| Deal of the Dead Final Cut | 292769 | [292769-deal-of-the-dead-final-cut.json](./292769-deal-of-the-dead-final-cut.json) |
 | Deal or No Deal | 220081 | [220081-deal-or-no-deal.json](./220081-deal-or-no-deal.json) |
 | Deal or No Deal | 233990 | [233990-deal-or-no-deal.json](./233990-deal-or-no-deal.json) |
 | Deal or No Deal: DVD Game | 319737 | [319737-deal-or-no-deal-dvd-game.json](./319737-deal-or-no-deal-dvd-game.json) |
@@ -2384,6 +2386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deck'n'Bag | 402362 | [402362-decknbag.json](./402362-decknbag.json) |
 | Deckanism: Singularity Island | 373165 | [373165-deckanism-singularity-island.json](./373165-deckanism-singularity-island.json) |
 | Deckbane | 347782 | [347782-deckbane.json](./347782-deckbane.json) |
+| Deckbuilder Fantasy: Elvenglade | 292767 | [292767-deckbuilder-fantasy-elvenglade.json](./292767-deckbuilder-fantasy-elvenglade.json) |
 | DeckBuilder Village | 211703 | [211703-deckbuilder-village.json](./211703-deckbuilder-village.json) |
 | Deckception | 317308 | [317308-deckception.json](./317308-deckception.json) |
 | DeckEleven's Railroads | 87687 | [87687-deckelevens-railroads.json](./87687-deckelevens-railroads.json) |
@@ -7363,6 +7366,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon World | 13608 | [13608-dragon-world.json](./13608-dragon-world.json) |
 | Dragon World II | 40978 | [40978-dragon-world-ii.json](./40978-dragon-world-ii.json) |
 | Dragon x Dragon | 292120 | [292120-dragon-x-dragon.json](./292120-dragon-x-dragon.json) |
+| Dragon x Dragon 2 | 292792 | [292792-dragon-x-dragon-2.json](./292792-dragon-x-dragon-2.json) |
+| Dragon x Dragon 2 Complete Version | 292794 | [292794-dragon-x-dragon-2-complete-version.json](./292794-dragon-x-dragon-2-complete-version.json) |
 | Dragon x Dragon DX | 292123 | [292123-dragon-x-dragon-dx.json](./292123-dragon-x-dragon-dx.json) |
 | Dragon x Dragon: Complete Version | 292130 | [292130-dragon-x-dragon-complete-version.json](./292130-dragon-x-dragon-complete-version.json) |
 | Dragon: A Game About a Dragon | 35700 | [35700-dragon-a-game-about-a-dragon.json](./35700-dragon-a-game-about-a-dragon.json) |
@@ -8150,6 +8155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Arsenal | 391736 | [391736-drone-arsenal.json](./391736-drone-arsenal.json) |
 | Drone Attack Spy Drone Games | 303263 | [303263-drone-attack-spy-drone-games.json](./303263-drone-attack-spy-drone-games.json) |
 | Drone Attack! | 124707 | [124707-drone-attack.json](./124707-drone-attack.json) |
+| Drone Break | 292765 | [292765-drone-break.json](./292765-drone-break.json) |
 | Drone Combat | 127013 | [127013-drone-combat.json](./127013-drone-combat.json) |
 | Drone Crash Course | 190171 | [190171-drone-crash-course.json](./190171-drone-crash-course.json) |
 | Drone Delivery Express: City Simulator | 389052 | [389052-drone-delivery-express-city-simulator.json](./389052-drone-delivery-express-city-simulator.json) |
