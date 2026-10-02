@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Observation Daruma Log | 400262 | [400262-observation-daruma-log.json](./400262-observation-daruma-log.json) |
 | Observation Protocol | 416032 | [416032-observation-protocol.json](./416032-observation-protocol.json) |
 | Observe | 410313 | [410313-observe.json](./410313-observe.json) |
+| Observe and Report | 297168 | [297168-observe-and-report.json](./297168-observe-and-report.json) |
 | Observer | 19545 | [19545-observer.json](./19545-observer.json) |
 | Observer | 265130 | [265130-observer.json](./265130-observer.json) |
 | Observer Protocol: The Station - Final Shift | 350432 | [350432-observer-protocol-the-station-final-shift.json](./350432-observer-protocol-the-station-final-shift.json) |
@@ -310,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddinary Farm | 392291 | [392291-oddinary-farm.json](./392291-oddinary-farm.json) |
 | Oddity Girls: Virtual World | 156530 | [156530-oddity-girls-virtual-world.json](./156530-oddity-girls-virtual-world.json) |
 | Oddlly | 114789 | [114789-oddlly.json](./114789-oddlly.json) |
+| Oddment | 297169 | [297169-oddment.json](./297169-oddment.json) |
 | Odds at Oddity | 389986 | [389986-odds-at-oddity.json](./389986-odds-at-oddity.json) |
 | Oddsmaker | 255718 | [255718-oddsmaker.json](./255718-oddsmaker.json) |
 | Oddsparks: An Automation Adventure - Animal Costumes Pack | 366853 | [366853-oddsparks-an-automation-adventure-animal-costumes-pack.json](./366853-oddsparks-an-automation-adventure-animal-costumes-pack.json) |
@@ -1106,6 +1108,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ondal | 345022 | [345022-ondal.json](./345022-ondal.json) |
 | Ondeki | 148410 | [148410-ondeki.json](./148410-ondeki.json) |
 | One | 78060 | [78060-one.json](./78060-one.json) |
+| One Barbarian Futa Tribe Chapter 1: Violet | 297170 | [297170-one-barbarian-futa-tribe-chapter-1-violet.json](./297170-one-barbarian-futa-tribe-chapter-1-violet.json) |
+| One Barbarian Futa Tribe Chapter 2: Red | 297171 | [297171-one-barbarian-futa-tribe-chapter-2-red.json](./297171-one-barbarian-futa-tribe-chapter-2-red.json) |
 | One Bear Army | 272275 | [272275-one-bear-army.json](./272275-one-bear-army.json) |
 | One Beat Min | 222827 | [222827-one-beat-min.json](./222827-one-beat-min.json) |
 | One Bit | 48007 | [48007-one-bit.json](./48007-one-bit.json) |
@@ -1139,6 +1143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Eleven | 211694 | [211694-one-eleven.json](./211694-one-eleven.json) |
 | One Epic Game | 52641 | [52641-one-epic-game.json](./52641-one-epic-game.json) |
 | One Fear | 335084 | [335084-one-fear.json](./335084-one-fear.json) |
+| One Fenix Down | 297172 | [297172-one-fenix-down.json](./297172-one-fenix-down.json) |
 | One Final Chaos | 34286 | [34286-one-final-chaos.json](./34286-one-final-chaos.json) |
 | One Fine Tourney | 277982 | [277982-one-fine-tourney.json](./277982-one-fine-tourney.json) |
 | One Finger Death Punch | 8360 | [8360-one-finger-death-punch.json](./8360-one-finger-death-punch.json) |
