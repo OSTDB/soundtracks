@@ -832,6 +832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kemono Patrol | 334850 | [334850-kemono-patrol.json](./334850-kemono-patrol.json) |
 | Kemonomichi-White Moment- | 100111 | [100111-kemonomichi-white-moment.json](./100111-kemonomichi-white-moment.json) |
 | Kemopop! | 309863 | [309863-kemopop.json](./309863-kemopop.json) |
+| Kemotaku | 325527 | [325527-kemotaku.json](./325527-kemotaku.json) |
 | Kemuri | 279625 | [279625-kemuri.json](./279625-kemuri.json) |
 | Ken Griffey Jr. Presents Major League Baseball | 299308 | [299308-ken-griffey-jr-presents-major-league-baseball.json](./299308-ken-griffey-jr-presents-major-league-baseball.json) |
 | Ken Griffey Jr.'s Horrible Tower | 382786 | [382786-ken-griffey-jr-s-horrible-tower.json](./382786-ken-griffey-jr-s-horrible-tower.json) |
@@ -1608,6 +1609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Death: Simulator | 360609 | [360609-kingdom-death-simulator.json](./360609-kingdom-death-simulator.json) |
 | Kingdom Defense: Deliverance | 333136 | [333136-kingdom-defense-deliverance.json](./333136-kingdom-defense-deliverance.json) |
 | Kingdom Eighties | 209620 | [209620-kingdom-eighties.json](./209620-kingdom-eighties.json) |
+| Kingdom Flipper | 325539 | [325539-kingdom-flipper.json](./325539-kingdom-flipper.json) |
 | Kingdom Fortress | 337293 | [337293-kingdom-fortress.json](./337293-kingdom-fortress.json) |
 | Kingdom Hearts | 301925 | [301925-kingdom-hearts.json](./301925-kingdom-hearts.json) |
 | Kingdom Hearts | 393742 | [393742-kingdom-hearts.json](./393742-kingdom-hearts.json) |
