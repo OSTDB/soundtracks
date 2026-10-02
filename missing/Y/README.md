@@ -1011,6 +1011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yurutto Manaberu Sekai Isan | 251619 | [251619-yurutto-manaberu-sekai-isan.json](./251619-yurutto-manaberu-sekai-isan.json) |
 | Yurutto Manaberu Sekai no Kaiga | 251618 | [251618-yurutto-manaberu-sekai-no-kaiga.json](./251618-yurutto-manaberu-sekai-no-kaiga.json) |
 | Yurutto Manaberu Tetsugaku | 260694 | [260694-yurutto-manaberu-tetsugaku.json](./260694-yurutto-manaberu-tetsugaku.json) |
+| YuruYuri: Perfect Math | 319688 | [319688-yuruyuri-perfect-math.json](./319688-yuruyuri-perfect-math.json) |
 | Yury | 17823 | [17823-yury.json](./17823-yury.json) |
 | Yusetsu | 211178 | [211178-yusetsu.json](./211178-yusetsu.json) |
 | Yusha no Hanamichi | 331863 | [331863-yusha-no-hanamichi.json](./331863-yusha-no-hanamichi.json) |
