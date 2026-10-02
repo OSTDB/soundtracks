@@ -1937,6 +1937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostwire Tokyo: Spider's Thread | 246125 | [246125-ghostwire-tokyo-spiders-thread.json](./246125-ghostwire-tokyo-spiders-thread.json) |
 | Ghostwire: Tokyo - Deluxe Edition | 192309 | [192309-ghostwire-tokyo-deluxe-edition.json](./192309-ghostwire-tokyo-deluxe-edition.json) |
 | Ghostwire: Tokyo - Prelude: The Corrupted Casefile | 194210 | [194210-ghostwire-tokyo-prelude-the-corrupted-casefile.json](./194210-ghostwire-tokyo-prelude-the-corrupted-casefile.json) |
+| Ghostwriter Workshop | 330950 | [330950-ghostwriter-workshop.json](./330950-ghostwriter-workshop.json) |
 | GhostX | 375396 | [375396-ghostx.json](./375396-ghostx.json) |
 | Ghosty | 156049 | [156049-ghosty.json](./156049-ghosty.json) |
 | Ghosty Party | 232532 | [232532-ghosty-party.json](./232532-ghosty-party.json) |
@@ -3194,6 +3195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golfinite | 219801 | [219801-golfinite.json](./219801-golfinite.json) |
 | Golfinity | 60075 | [60075-golfinity.json](./60075-golfinity.json) |
 | Golfme | 390748 | [390748-golfme.json](./390748-golfme.json) |
+| Golfslinger | 330943 | [330943-golfslinger.json](./330943-golfslinger.json) |
 | Golftacular! | 351646 | [351646-golftacular.json](./351646-golftacular.json) |
 | Golftroidvania | 360012 | [360012-golftroidvania.json](./360012-golftroidvania.json) |
 | Golful | 257991 | [257991-golful.json](./257991-golful.json) |
