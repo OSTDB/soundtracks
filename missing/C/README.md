@@ -129,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cadillac | 94896 | [94896-cadillac.json](./94896-cadillac.json) |
 | Cadillacs and Dinosaurs: The Second Cataclysm | 5367 | [5367-cadillacs-and-dinosaurs-the-second-cataclysm.json](./5367-cadillacs-and-dinosaurs-the-second-cataclysm.json) |
 | Cadmium Red | 364694 | [364694-cadmium-red.json](./364694-cadmium-red.json) |
+| Cadoom | 304824 | [304824-cadoom.json](./304824-cadoom.json) |
 | Cadria Item Shop | 107894 | [107894-cadria-item-shop.json](./107894-cadria-item-shop.json) |
 | Caduca | 412969 | [412969-caduca.json](./412969-caduca.json) |
 | Caduceus | 186190 | [186190-caduceus.json](./186190-caduceus.json) |
@@ -2214,6 +2215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cattle Hyperdrive | 247745 | [247745-cattle-hyperdrive.json](./247745-cattle-hyperdrive.json) |
 | Cattlieb | 349851 | [349851-cattlieb.json](./349851-cattlieb.json) |
 | Catto Chateau | 366387 | [366387-catto-chateau.json](./366387-catto-chateau.json) |
+| Catto's Post Office | 304835 | [304835-cattos-post-office.json](./304835-cattos-post-office.json) |
 | Catty & Batty: The Spirit Guide | 143470 | [143470-catty-and-batty-the-spirit-guide.json](./143470-catty-and-batty-the-spirit-guide.json) |
 | Catty Battle | 129816 | [129816-catty-battle.json](./129816-catty-battle.json) |
 | Catty Cathy | 281982 | [281982-catty-cathy.json](./281982-catty-cathy.json) |
@@ -3764,6 +3766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chopper Battle New Horizon | 75767 | [75767-chopper-battle-new-horizon.json](./75767-chopper-battle-new-horizon.json) |
 | Chopper Commando | 78716 | [78716-chopper-commando.json](./78716-chopper-commando.json) |
 | Chopper Hunt | 25671 | [25671-chopper-hunt.json](./25671-chopper-hunt.json) |
+| Chopper Strike | 304794 | [304794-chopper-strike.json](./304794-chopper-strike.json) |
 | Chopper: Lethal darkness - Deluxe Edition | 52740 | [52740-chopper-lethal-darkness-deluxe-edition.json](./52740-chopper-lethal-darkness-deluxe-edition.json) |
 | Choppie's | 236541 | [236541-choppies.json](./236541-choppies.json) |
 | Chopping Together | 389581 | [389581-chopping-together.json](./389581-chopping-together.json) |
@@ -4957,6 +4960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climbing Challenge | 246434 | [246434-climbing-challenge.json](./246434-climbing-challenge.json) |
 | Climbing Flail | 119649 | [119649-climbing-flail.json](./119649-climbing-flail.json) |
 | Climbing Mountain Sins | 257915 | [257915-climbing-mountain-sins.json](./257915-climbing-mountain-sins.json) |
+| Climbing Over It with a Spear Only Up | 304795 | [304795-climbing-over-it-with-a-spear-only-up.json](./304795-climbing-over-it-with-a-spear-only-up.json) |
 | Climbing Simplified | 392812 | [392812-climbing-simplified.json](./392812-climbing-simplified.json) |
 | Climbing The Eidolon | 383513 | [383513-climbing-the-eidolon.json](./383513-climbing-the-eidolon.json) |
 | Climbtime | 31171 | [31171-climbtime.json](./31171-climbtime.json) |
@@ -9951,6 +9955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberpunk 2077: Ultimate Edition | 277807 | [277807-cyberpunk-2077-ultimate-edition.json](./277807-cyberpunk-2077-ultimate-edition.json) |
 | Cyberpunk 3776 | 35896 | [35896-cyberpunk-3776.json](./35896-cyberpunk-3776.json) |
 | Cyberpunk Arena | 81736 | [81736-cyberpunk-arena.json](./81736-cyberpunk-arena.json) |
+| Cyberpunk City Tycoon | 304796 | [304796-cyberpunk-city-tycoon.json](./304796-cyberpunk-city-tycoon.json) |
 | Cyberpunk Detective | 164975 | [164975-cyberpunk-detective.json](./164975-cyberpunk-detective.json) |
 | Cyberpunk Fighting | 190468 | [190468-cyberpunk-fighting.json](./190468-cyberpunk-fighting.json) |
 | Cyberpunk Inquisitor | 306065 | [306065-cyberpunk-inquisitor.json](./306065-cyberpunk-inquisitor.json) |
