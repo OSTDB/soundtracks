@@ -6402,6 +6402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuku-chan no Obake nanka Kowakunai | 349458 | [349458-fuku-chan-no-obake-nanka-kowakunai.json](./349458-fuku-chan-no-obake-nanka-kowakunai.json) |
 | Fukufuku no Shima | 59373 | [59373-fukufuku-no-shima.json](./59373-fukufuku-no-shima.json) |
 | Fukuro to Subaru | 326946 | [326946-fukuro-to-subaru.json](./326946-fukuro-to-subaru.json) |
+| Fukyou no Hana: Snow Flower | 288440 | [288440-fukyou-no-hana-snow-flower.json](./288440-fukyou-no-hana-snow-flower.json) |
 | Fulcrum | 58284 | [58284-fulcrum.json](./58284-fulcrum.json) |
 | Fulcrum Frenzy | 183006 | [183006-fulcrum-frenzy.json](./183006-fulcrum-frenzy.json) |
 | Fule | 305537 | [305537-fule.json](./305537-fule.json) |
