@@ -2657,6 +2657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goal3 | 334303 | [334303-goal3.json](./334303-goal3.json) |
 | Goalgetter | 159803 | [159803-goalgetter.json](./159803-goalgetter.json) |
 | Goalie Challenge VR | 29567 | [29567-goalie-challenge-vr.json](./29567-goalie-challenge-vr.json) |
+| Goalie Game | 328670 | [328670-goalie-game.json](./328670-goalie-game.json) |
 | Goalie Ghost | 25882 | [25882-goalie-ghost.json](./25882-goalie-ghost.json) |
 | Goalie Madness | 226712 | [226712-goalie-madness.json](./226712-goalie-madness.json) |
 | Goalie VR | 67936 | [67936-goalie-vr.json](./67936-goalie-vr.json) |
@@ -3546,6 +3547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GraalOnline Era | 55842 | [55842-graalonline-era.json](./55842-graalonline-era.json) |
 | GraalOnline: Delteria | 82153 | [82153-graalonline-delteria.json](./82153-graalonline-delteria.json) |
 | Grab | 202813 | [202813-grab.json](./202813-grab.json) |
+| Grab 2 Coins | 328680 | [328680-grab-2-coins.json](./328680-grab-2-coins.json) |
 | Grab 50 Coins | 400264 | [400264-grab-50-coins.json](./400264-grab-50-coins.json) |
 | Grab it! Crane Game | 334095 | [334095-grab-it-crane-game.json](./334095-grab-it-crane-game.json) |
 | Grab Man | 47264 | [47264-grab-man.json](./47264-grab-man.json) |
