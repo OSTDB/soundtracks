@@ -984,6 +984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou World Soccer 2000: Final Edition | 168136 | [168136-jikkyou-world-soccer-2000-final-edition.json](./168136-jikkyou-world-soccer-2000-final-edition.json) |
 | Jikoronpa: Laments of Isolation | 341073 | [341073-jikoronpa-laments-of-isolation.json](./341073-jikoronpa-laments-of-isolation.json) |
 | Jikuu Boukenki Zentrix | 210683 | [210683-jikuu-boukenki-zentrix.json](./210683-jikuu-boukenki-zentrix.json) |
+| Jikuu Senki Mu | 298801 | [298801-jikuu-senki-mu.json](./298801-jikuu-senki-mu.json) |
 | Jikuu Tantei DD: Maboroshi no Lorelei | 57052 | [57052-jikuu-tantei-dd-maboroshi-no-lorelei.json](./57052-jikuu-tantei-dd-maboroshi-no-lorelei.json) |
 | Jikuu Yuuden: Debias | 48610 | [48610-jikuu-yuuden-debias.json](./48610-jikuu-yuuden-debias.json) |
 | Jill O' Lantern | 320971 | [320971-jill-o-lantern.json](./320971-jill-o-lantern.json) |
@@ -1581,6 +1582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump N Shooters | 244374 | [244374-jump-n-shooters.json](./244374-jump-n-shooters.json) |
 | Jump O'Clock | 65226 | [65226-jump-oclock.json](./65226-jump-oclock.json) |
 | Jump Off the Bridge | 117553 | [117553-jump-off-the-bridge.json](./117553-jump-off-the-bridge.json) |
+| Jump On Head | 298819 | [298819-jump-on-head.json](./298819-jump-on-head.json) |
 | Jump on the Ball | 329380 | [329380-jump-on-the-ball.json](./329380-jump-on-the-ball.json) |
 | Jump or Roll Game | 246987 | [246987-jump-or-roll-game.json](./246987-jump-or-roll-game.json) |
 | Jump Out | 280310 | [280310-jump-out.json](./280310-jump-out.json) |
