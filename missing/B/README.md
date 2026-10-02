@@ -565,6 +565,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baking Bustle | 158536 | [158536-baking-bustle.json](./158536-baking-bustle.json) |
 | Baking Fun | 359405 | [359405-baking-fun.json](./359405-baking-fun.json) |
 | Baking Time | 300771 | [300771-baking-time.json](./300771-baking-time.json) |
+| Baking Time: Speedy Animals | 300947 | [300947-baking-time-speedy-animals.json](./300947-baking-time-speedy-animals.json) |
+| Baking Time: Strong Pets | 300948 | [300948-baking-time-strong-pets.json](./300948-baking-time-strong-pets.json) |
 | Bakkaniya | 249498 | [249498-bakkaniya.json](./249498-bakkaniya.json) |
 | Baktinet | 340028 | [340028-baktinet.json](./340028-baktinet.json) |
 | Baku Funshiki | 340033 | [340033-baku-funshiki.json](./340033-baku-funshiki.json) |
@@ -7056,6 +7058,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Hole Girls | 242488 | [242488-brain-hole-girls.json](./242488-brain-hole-girls.json) |
 | Brain It On! | 97332 | [97332-brain-it-on.json](./97332-brain-it-on.json) |
 | Brain Marmelade | 135751 | [135751-brain-marmelade.json](./135751-brain-marmelade.json) |
+| Brain Memory 2: Cards Pack 1 | 300949 | [300949-brain-memory-2-cards-pack-1.json](./300949-brain-memory-2-cards-pack-1.json) |
+| Brain Memory 2: Cards Pack 2 | 300952 | [300952-brain-memory-2-cards-pack-2.json](./300952-brain-memory-2-cards-pack-2.json) |
+| Brain Memory 2: Cards Pack 3 | 300950 | [300950-brain-memory-2-cards-pack-3.json](./300950-brain-memory-2-cards-pack-3.json) |
+| Brain Memory 2: Cards Pack 4 | 300951 | [300951-brain-memory-2-cards-pack-4.json](./300951-brain-memory-2-cards-pack-4.json) |
 | Brain Memory Training Academy | 283727 | [283727-brain-memory-training-academy.json](./283727-brain-memory-training-academy.json) |
 | Brain Memory: Amazing Edition | 276452 | [276452-brain-memory-amazing-edition.json](./276452-brain-memory-amazing-edition.json) |
 | Brain Memory: Complete Edition | 246877 | [246877-brain-memory-complete-edition.json](./246877-brain-memory-complete-edition.json) |
