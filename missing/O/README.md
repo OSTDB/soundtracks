@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obey the Voice | 386276 | [386276-obey-the-voice.json](./386276-obey-the-voice.json) |
 | Obey Your Pirate Queen! | 282655 | [282655-obey-your-pirate-queen.json](./282655-obey-your-pirate-queen.json) |
 | Obgoose | 183866 | [183866-obgoose.json](./183866-obgoose.json) |
+| Obilia | 295514 | [295514-obilia.json](./295514-obilia.json) |
 | Obituary | 313833 | [313833-obituary.json](./313833-obituary.json) |
 | Obitus | 363028 | [363028-obitus.json](./363028-obitus.json) |
 | OBJ VR | 309376 | [309376-obj-vr.json](./309376-obj-vr.json) |
@@ -2930,6 +2931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oxenfree: Collector's Edition | 51536 | [51536-oxenfree-collectors-edition.json](./51536-oxenfree-collectors-edition.json) |
 | Oxide Room 208: File Josh | 392344 | [392344-oxide-room-208-file-josh.json](./392344-oxide-room-208-file-josh.json) |
 | Oxidus Tales | 350602 | [350602-oxidus-tales.json](./350602-oxidus-tales.json) |
+| OxRox | 295513 | [295513-oxrox.json](./295513-oxrox.json) |
 | Oxxo | 119208 | [119208-oxxo.json](./119208-oxxo.json) |
 | Oxxonian | 74424 | [74424-oxxonian.json](./74424-oxxonian.json) |
 | Oxyblack Fortress | 271317 | [271317-oxyblack-fortress.json](./271317-oxyblack-fortress.json) |
