@@ -413,6 +413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Van-Gale: The War of Neo-Century | 246410 | [246410-van-gale-the-war-of-neo-century.json](./246410-van-gale-the-war-of-neo-century.json) |
 | Van-Van Car | 38556 | [38556-van-van-car.json](./38556-van-van-car.json) |
 | Vanakan 405 | 382291 | [382291-vanakan-405.json](./382291-vanakan-405.json) |
+| Vanakatu | 302066 | [302066-vanakatu.json](./302066-vanakatu.json) |
 | Vandal Hearts II | 6543 | [6543-vandal-hearts-ii.json](./6543-vandal-hearts-ii.json) |
 | Vandalhalla | 153934 | [153934-vandalhalla.json](./153934-vandalhalla.json) |
 | Vandozer | 137469 | [137469-vandozer.json](./137469-vandozer.json) |
