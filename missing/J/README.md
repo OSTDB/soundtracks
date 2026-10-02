@@ -469,6 +469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeepney Simulator | 255994 | [255994-jeepney-simulator.json](./255994-jeepney-simulator.json) |
 | Jeepney Simulator 2 | 292301 | [292301-jeepney-simulator-2.json](./292301-jeepney-simulator-2.json) |
 | Jeeps Offroad Simulator | 220045 | [220045-jeeps-offroad-simulator.json](./220045-jeeps-offroad-simulator.json) |
+| Jefe, La Cuenta | 310679 | [310679-jefe-la-cuenta.json](./310679-jefe-la-cuenta.json) |
 | Jeff Gordon XS Racing | 49888 | [49888-jeff-gordon-xs-racing.json](./49888-jeff-gordon-xs-racing.json) |
 | Jeff the Janitor | 337491 | [337491-jeff-the-janitor.json](./337491-jeff-the-janitor.json) |
 | Jeff the Killer | 376137 | [376137-jeff-the-killer.json](./376137-jeff-the-killer.json) |
@@ -564,6 +565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jerry Jobhopper | 122174 | [122174-jerry-jobhopper.json](./122174-jerry-jobhopper.json) |
 | Jerry McPartlin: Rebel with a Cause | 286508 | [286508-jerry-mcpartlin-rebel-with-a-cause.json](./286508-jerry-mcpartlin-rebel-with-a-cause.json) |
 | Jerry Wanker and the Quest to get Laid | 153339 | [153339-jerry-wanker-and-the-quest-to-get-laid.json](./153339-jerry-wanker-and-the-quest-to-get-laid.json) |
+| Jerry's Merry Christmas | 310659 | [310659-jerrys-merry-christmas.json](./310659-jerrys-merry-christmas.json) |
 | Jesse 'The Body' Ventura Wrestling Superstars | 46256 | [46256-jesse-the-body-ventura-wrestling-superstars.json](./46256-jesse-the-body-ventura-wrestling-superstars.json) |
 | Jessica Deliverson | 340772 | [340772-jessica-deliverson.json](./340772-jessica-deliverson.json) |
 | Jessica Plunkenstein and the Dusseldorf Conspiracy | 169992 | [169992-jessica-plunkenstein-and-the-dusseldorf-conspiracy.json](./169992-jessica-plunkenstein-and-the-dusseldorf-conspiracy.json) |
