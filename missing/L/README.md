@@ -2282,6 +2282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life: the game of chance | 135686 | [135686-life-the-game-of-chance.json](./135686-life-the-game-of-chance.json) |
 | Life's 2 Short: Unhooked | 265192 | [265192-lifes-2-short-unhooked.json](./265192-lifes-2-short-unhooked.json) |
 | Life's Too Short | 199909 | [199909-lifes-too-short.json](./199909-lifes-too-short.json) |
+| Life's Too Short GB: A Christmas Spirit | 292225 | [292225-lifes-too-short-gb-a-christmas-spirit.json](./292225-lifes-too-short-gb-a-christmas-spirit.json) |
 | Life's Too Short: A Christmas Spirit | 228095 | [228095-lifes-too-short-a-christmas-spirit.json](./228095-lifes-too-short-a-christmas-spirit.json) |
 | Life's Too Short: On Reflection | 329912 | [329912-lifes-too-short-on-reflection.json](./329912-lifes-too-short-on-reflection.json) |
 | LifeAfter | 115660 | [115660-lifeafter.json](./115660-lifeafter.json) |
@@ -2633,6 +2634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limits of Intelligence | 301821 | [301821-limits-of-intelligence.json](./301821-limits-of-intelligence.json) |
 | Limkin | 187828 | [187828-limkin.json](./187828-limkin.json) |
 | Limoria | 327343 | [327343-limoria.json](./327343-limoria.json) |
+| Limp Heroes+ | 292258 | [292258-limp-heroes.json](./292258-limp-heroes.json) |
 | Limp Mode | 414575 | [414575-limp-mode.json](./414575-limp-mode.json) |
 | Lims | 226166 | [226166-lims.json](./226166-lims.json) |
 | Limscape | 322097 | [322097-limscape.json](./322097-limscape.json) |
