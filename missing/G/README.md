@@ -214,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gal*Gun: Double Peace Horny Trinity Edition | 358982 | [358982-gal-gun-double-peace-horny-trinity-edition.json](./358982-gal-gun-double-peace-horny-trinity-edition.json) |
 | Gal*Gun: Double Peace Ultimate Horny Edition | 358983 | [358983-gal-gun-double-peace-ultimate-horny-edition.json](./358983-gal-gun-double-peace-ultimate-horny-edition.json) |
 | Gala Collider | 127750 | [127750-gala-collider.json](./127750-gala-collider.json) |
+| Galacard Platinum | 319106 | [319106-galacard-platinum.json](./319106-galacard-platinum.json) |
 | Galacard: Ackian Archives | 365210 | [365210-galacard-ackian-archives.json](./365210-galacard-ackian-archives.json) |
 | Galacatraz: Eject Equip Escape | 82044 | [82044-galacatraz-eject-equip-escape.json](./82044-galacatraz-eject-equip-escape.json) |
 | Galacdrive | 251661 | [251661-galacdrive.json](./251661-galacdrive.json) |
@@ -1376,6 +1377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genesis Noir | 27413 | [27413-genesis-noir.json](./27413-genesis-noir.json) |
 | Genesis Noir: The Cosmic Collection | 169188 | [169188-genesis-noir-the-cosmic-collection.json](./169188-genesis-noir-the-cosmic-collection.json) |
 | Genesis of Descent | 256858 | [256858-genesis-of-descent.json](./256858-genesis-of-descent.json) |
+| Genesis Survivors | 319067 | [319067-genesis-survivors.json](./319067-genesis-survivors.json) |
 | Genesis: Voces de la Niebla | 389577 | [389577-genesis-voces-de-la-niebla.json](./389577-genesis-voces-de-la-niebla.json) |
 | Genetic | 270663 | [270663-genetic.json](./270663-genetic.json) |
 | Geneticognito | 44173 | [44173-geneticognito.json](./44173-geneticognito.json) |
@@ -5094,6 +5096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Restoration Shop Simulator | 410317 | [410317-gun-restoration-shop-simulator.json](./410317-gun-restoration-shop-simulator.json) |
 | Gun Road | 96678 | [96678-gun-road.json](./96678-gun-road.json) |
 | Gun Rocket | 34733 | [34733-gun-rocket.json](./34733-gun-rocket.json) |
+| Gun Runner | 319122 | [319122-gun-runner.json](./319122-gun-runner.json) |
 | Gun Runner | 81287 | [81287-gun-runner.json](./81287-gun-runner.json) |
 | Gun Shop 3 | 301245 | [301245-gun-shop-3.json](./301245-gun-shop-3.json) |
 | Gun Shop Dealer Simulator | 325000 | [325000-gun-shop-dealer-simulator.json](./325000-gun-shop-dealer-simulator.json) |
