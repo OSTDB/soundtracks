@@ -1092,8 +1092,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maimai DX Splash Plus | 167282 | [167282-maimai-dx-splash-plus.json](./167282-maimai-dx-splash-plus.json) |
 | Maimai DX Universe | 167281 | [167281-maimai-dx-universe.json](./167281-maimai-dx-universe.json) |
 | Maimai DX Universe Plus | 331677 | [331677-maimai-dx-universe-plus.json](./331677-maimai-dx-universe-plus.json) |
+| Maimai Green Plus | 330954 | [330954-maimai-green-plus.json](./330954-maimai-green-plus.json) |
 | Maimai Milk | 331127 | [331127-maimai-milk.json](./331127-maimai-milk.json) |
 | Maimai Milk Plus | 331132 | [331132-maimai-milk-plus.json](./331132-maimai-milk-plus.json) |
+| Maimai Orange Plus | 330970 | [330970-maimai-orange-plus.json](./330970-maimai-orange-plus.json) |
+| Maimai Plus | 330948 | [330948-maimai-plus.json](./330948-maimai-plus.json) |
 | Maimaimaigoen | 368082 | [368082-maimaimaigoen.json](./368082-maimaimaigoen.json) |
 | Maimaimaigoen: Episode 1 - Welcome to Uropia | 343898 | [343898-maimaimaigoen-episode-1-welcome-to-uropia.json](./343898-maimaimaigoen-episode-1-welcome-to-uropia.json) |
 | Maimaimaigoen: Episode 2 - Promises and Crayons | 343901 | [343901-maimaimaigoen-episode-2-promises-and-crayons.json](./343901-maimaimaigoen-episode-2-promises-and-crayons.json) |
@@ -3024,6 +3027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayday Protocol | 382328 | [382328-mayday-protocol.json](./382328-mayday-protocol.json) |
 | Mayday: Conflict Earth | 36932 | [36932-mayday-conflict-earth.json](./36932-mayday-conflict-earth.json) |
 | Mayday: The Survival Island | 169856 | [169856-mayday-the-survival-island.json](./169856-mayday-the-survival-island.json) |
+| Mayéutica | 330951 | [330951-mayeutica.json](./330951-mayeutica.json) |
 | Mayflower Reflections | 191836 | [191836-mayflower-reflections.json](./191836-mayflower-reflections.json) |
 | Mayfly | 398395 | [398395-mayfly.json](./398395-mayfly.json) |
 | Mayhem | 186051 | [186051-mayhem.json](./186051-mayhem.json) |
@@ -5747,6 +5751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minazuki-tan: InfiltraTitty Lewd Beast Academy | 82848 | [82848-minazuki-tan-infiltratitty-lewd-beast-academy.json](./82848-minazuki-tan-infiltratitty-lewd-beast-academy.json) |
 | Minced | 309960 | [309960-minced.json](./309960-minced.json) |
 | Mincer City | 270693 | [270693-mincer-city.json](./270693-mincer-city.json) |
+| Mind 720 | 330947 | [330947-mind-720.json](./330947-mind-720.json) |
 | Mind At Sea | 149958 | [149958-mind-at-sea.json](./149958-mind-at-sea.json) |
 | Mind Blox | 44203 | [44203-mind-blox.json](./44203-mind-blox.json) |
 | Mind Body & Soul: Big Word Puzzle Book | 92626 | [92626-mind-body-and-soul-big-word-puzzle-book.json](./92626-mind-body-and-soul-big-word-puzzle-book.json) |
@@ -9325,6 +9330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muse Dash: Muse Plus | 356177 | [356177-muse-dash-muse-plus.json](./356177-muse-dash-muse-plus.json) |
 | Museca | 57107 | [57107-museca.json](./57107-museca.json) |
 | Museful | 398543 | [398543-museful.json](./398543-museful.json) |
+| Musestruck | 330945 | [330945-musestruck.json](./330945-musestruck.json) |
 | Museum | 109891 | [109891-museum.json](./109891-museum.json) |
 | Museum | 185437 | [185437-museum.json](./185437-museum.json) |
 | Museum of All Things | 333238 | [333238-museum-of-all-things.json](./333238-museum-of-all-things.json) |
