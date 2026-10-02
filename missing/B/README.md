@@ -1265,6 +1265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barcode World Senyou Card: Nenchakuzai | 329756 | [329756-barcode-world-senyou-card-nenchakuzai.json](./329756-barcode-world-senyou-card-nenchakuzai.json) |
 | Barcode World Senyou Card: Nitro Gun | 329745 | [329745-barcode-world-senyou-card-nitro-gun.json](./329745-barcode-world-senyou-card-nitro-gun.json) |
 | Barcode World Senyou Card: O-chan | 329723 | [329723-barcode-world-senyou-card-o-chan.json](./329723-barcode-world-senyou-card-o-chan.json) |
+| Barcode World Senyou Card: Plamodel | 329760 | [329760-barcode-world-senyou-card-plamodel.json](./329760-barcode-world-senyou-card-plamodel.json) |
 | Barcode World Senyou Card: Popoon | 329743 | [329743-barcode-world-senyou-card-popoon.json](./329743-barcode-world-senyou-card-popoon.json) |
 | Barcode World Senyou Card: Powered Armor | 329752 | [329752-barcode-world-senyou-card-powered-armor.json](./329752-barcode-world-senyou-card-powered-armor.json) |
 | Barcode World Senyou Card: Russian Fuusen | 329757 | [329757-barcode-world-senyou-card-russian-fuusen.json](./329757-barcode-world-senyou-card-russian-fuusen.json) |
@@ -2269,6 +2270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlezone 2000 | 13695 | [13695-battlezone-2000.json](./13695-battlezone-2000.json) |
 | Battlezone 98 Redux | 20076 | [20076-battlezone-98-redux.json](./20076-battlezone-98-redux.json) |
 | Battlezone 98 Redux: The Red Odyssey | 124824 | [124824-battlezone-98-redux-the-red-odyssey.json](./124824-battlezone-98-redux-the-red-odyssey.json) |
+| Battlezone: Evolved | 329636 | [329636-battlezone-evolved.json](./329636-battlezone-evolved.json) |
 | Battlezone: Rise of the Black Dogs | 3423 | [3423-battlezone-rise-of-the-black-dogs.json](./3423-battlezone-rise-of-the-black-dogs.json) |
 | Battlezone: The Red Odyssey | 238590 | [238590-battlezone-the-red-odyssey.json](./238590-battlezone-the-red-odyssey.json) |
 | Battlic | 341091 | [341091-battlic.json](./341091-battlic.json) |
