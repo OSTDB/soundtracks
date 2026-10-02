@@ -1487,6 +1487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Exile: King of the Faridun Supporter Pack | 332030 | [332030-path-of-exile-king-of-the-faridun-supporter-pack.json](./332030-path-of-exile-king-of-the-faridun-supporter-pack.json) |
 | Path of Exile: Settlers of Kalguur | 310958 | [310958-path-of-exile-settlers-of-kalguur.json](./310958-path-of-exile-settlers-of-kalguur.json) |
 | Path of Exile: Synthesis | 115463 | [115463-path-of-exile-synthesis.json](./115463-path-of-exile-synthesis.json) |
+| Path of Exile: Warlord of the Karui Supporter Pack | 332082 | [332082-path-of-exile-warlord-of-the-karui-supporter-pack.json](./332082-path-of-exile-warlord-of-the-karui-supporter-pack.json) |
 | Path of Fury: Episode I - Tetsuo's Tower | 335484 | [335484-path-of-fury-episode-i-tetsuos-tower.json](./335484-path-of-fury-episode-i-tetsuos-tower.json) |
 | Path of Gear: Blacksmith’s Legend | 358971 | [358971-path-of-gear-blacksmith-s-legend.json](./358971-path-of-gear-blacksmith-s-legend.json) |
 | Path of Giants | 122047 | [122047-path-of-giants.json](./122047-path-of-giants.json) |
@@ -5458,6 +5459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Scarlet and Pokémon Violet Double Pack | 203516 | [203516-pokemon-scarlet-and-pokemon-violet-double-pack.json](./203516-pokemon-scarlet-and-pokemon-violet-double-pack.json) |
 | Pokémon Scarlet: The Hidden Treasure of Area Zero - Part 2: The Indigo Disk | 239932 | [239932-pokemon-scarlet-the-hidden-treasure-of-area-zero-part-2-the-indigo-disk.json](./239932-pokemon-scarlet-the-hidden-treasure-of-area-zero-part-2-the-indigo-disk.json) |
 | Pokémon Shield | 115653 | [115653-pokemon-shield.json](./115653-pokemon-shield.json) |
+| Pokémon Shinju Adventures | 331943 | [331943-pokemon-shinju-adventures.json](./331943-pokemon-shinju-adventures.json) |
 | Pokémon Showdown | 87797 | [87797-pokemon-showdown.json](./87797-pokemon-showdown.json) |
 | Pokémon Sigma Platinum | 197927 | [197927-pokemon-sigma-platinum.json](./197927-pokemon-sigma-platinum.json) |
 | Pokémon Sinking Sapphire | 163228 | [163228-pokemon-sinking-sapphire.json](./163228-pokemon-sinking-sapphire.json) |
