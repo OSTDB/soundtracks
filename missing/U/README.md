@@ -984,6 +984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undisputed | 146957 | [146957-undisputed.json](./146957-undisputed.json) |
 | Undisputed Champ | 112735 | [112735-undisputed-champ.json](./112735-undisputed-champ.json) |
 | Undisputed: Deluxe WBC Edition | 325656 | [325656-undisputed-deluxe-wbc-edition.json](./325656-undisputed-deluxe-wbc-edition.json) |
+| Undivine | 311563 | [311563-undivine.json](./311563-undivine.json) |
 | Undockable | 361782 | [361782-undockable.json](./361782-undockable.json) |
 | Undoing | 114157 | [114157-undoing.json](./114157-undoing.json) |
 | Undoing Evil | 195271 | [195271-undoing-evil.json](./195271-undoing-evil.json) |
