@@ -656,9 +656,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-Ressha de Ikou | 272827 | [272827-a-ressha-de-ikou.json](./272827-a-ressha-de-ikou.json) |
 | A-Ressha de Ikou 4 | 98268 | [98268-a-ressha-de-ikou-4.json](./98268-a-ressha-de-ikou-4.json) |
 | A-Ressha de Ikou DS | 98272 | [98272-a-ressha-de-ikou-ds.json](./98272-a-ressha-de-ikou-ds.json) |
+| A-Ressha de Ikou II: 5th Anniversary Special Limited Edition | 285135 | [285135-a-ressha-de-ikou-ii-5th-anniversary-special-limited-edition.json](./285135-a-ressha-de-ikou-ii-5th-anniversary-special-limited-edition.json) |
+| A-Ressha de Ikou II: Shin Map | 285133 | [285133-a-ressha-de-ikou-ii-shin-map.json](./285133-a-ressha-de-ikou-ii-shin-map.json) |
+| A-Ressha de Ikou III | 285141 | [285141-a-ressha-de-ikou-iii.json](./285141-a-ressha-de-ikou-iii.json) |
 | A-Ressha de Ikou: The 21st Century | 9999 | [9999-a-ressha-de-ikou-the-21st-century.json](./9999-a-ressha-de-ikou-the-21st-century.json) |
 | A-Sock-Ellipse Now! | 70077 | [70077-a-sock-ellipse-now.json](./70077-a-sock-ellipse-now.json) |
 | A-Tech Cybernetic | 29806 | [29806-a-tech-cybernetic.json](./29806-a-tech-cybernetic.json) |
+| A-Train | 285142 | [285142-a-train.json](./285142-a-train.json) |
+| A-Train | 285143 | [285143-a-train.json](./285143-a-train.json) |
 | A-Train 9 | 405639 | [405639-a-train-9.json](./405639-a-train-9.json) |
 | A-Train 9 Evolution | 388239 | [388239-a-train-9-evolution.json](./388239-a-train-9-evolution.json) |
 | A-Train 9 V3.0: Railway Simulator | 52560 | [52560-a-train-9-v3-0-railway-simulator.json](./52560-a-train-9-v3-0-railway-simulator.json) |
