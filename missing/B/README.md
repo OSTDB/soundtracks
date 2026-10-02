@@ -691,6 +691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Bulét | 304632 | [304632-ball-bulet.json](./304632-ball-bulet.json) |
 | Ball Buster Breakout | 404372 | [404372-ball-buster-breakout.json](./404372-ball-buster-breakout.json) |
 | Ball Cannon | 327984 | [327984-ball-cannon.json](./327984-ball-cannon.json) |
+| Ball Destiny | 291174 | [291174-ball-destiny.json](./291174-ball-destiny.json) |
 | Ball Drop | 243703 | [243703-ball-drop.json](./243703-ball-drop.json) |
 | Ball Drop | 338188 | [338188-ball-drop.json](./338188-ball-drop.json) |
 | Ball Dude Adventures | 176475 | [176475-ball-dude-adventures.json](./176475-ball-dude-adventures.json) |
@@ -1095,6 +1096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bar | 295367 | [295367-bar.json](./295367-bar.json) |
 | Bar After Bar | 399208 | [399208-bar-after-bar.json](./399208-bar-after-bar.json) |
 | Bar Billiards | 15661 | [15661-bar-billiards.json](./15661-bar-billiards.json) |
+| Bar Breaker | 291194 | [291194-bar-breaker.json](./291194-bar-breaker.json) |
 | Bar Darts Simulator | 407556 | [407556-bar-darts-simulator.json](./407556-bar-darts-simulator.json) |
 | Bar Keeper | 411559 | [411559-bar-keeper.json](./411559-bar-keeper.json) |
 | Bar Night VR | 319722 | [319722-bar-night-vr.json](./319722-bar-night-vr.json) |
@@ -3179,6 +3181,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bengarachou Hakubutsushi | 254611 | [254611-bengarachou-hakubutsushi.json](./254611-bengarachou-hakubutsushi.json) |
 | Bengbo | 257104 | [257104-bengbo.json](./257104-bengbo.json) |
 | Benign Land | 329137 | [329137-benign-land.json](./329137-benign-land.json) |
+| Benjamin's Quest | 291161 | [291161-benjamins-quest.json](./291161-benjamins-quest.json) |
+| Benjamin's Revenge | 291157 | [291157-benjamins-revenge.json](./291157-benjamins-revenge.json) |
 | Benji and the Crystal of Light | 324325 | [324325-benji-and-the-crystal-of-light.json](./324325-benji-and-the-crystal-of-light.json) |
 | Benji Bananas | 234749 | [234749-benji-bananas.json](./234749-benji-bananas.json) |
 | Benji Challenges | 34711 | [34711-benji-challenges.json](./34711-benji-challenges.json) |
@@ -5373,6 +5377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Cleaner | 322804 | [322804-blood-cleaner.json](./322804-blood-cleaner.json) |
 | Blood Code | 34853 | [34853-blood-code.json](./34853-blood-code.json) |
 | Blood Code: Complete Edition | 52647 | [52647-blood-code-complete-edition.json](./52647-blood-code-complete-edition.json) |
+| Blood Crossroad | 291189 | [291189-blood-crossroad.json](./291189-blood-crossroad.json) |
 | Blood Cube | 185549 | [185549-blood-cube.json](./185549-blood-cube.json) |
 | Blood Day | 112469 | [112469-blood-day.json](./112469-blood-day.json) |
 | Blood Drift | 86566 | [86566-blood-drift.json](./86566-blood-drift.json) |
