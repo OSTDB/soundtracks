@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z.W! | 99772 | [99772-z-w.json](./99772-z-w.json) |
 | Z'code | 30782 | [30782-zcode.json](./30782-zcode.json) |
 | Z0mb1es on teh ph0ne | 77995 | [77995-z0mb1es-on-teh-ph0ne.json](./77995-z0mb1es-on-teh-ph0ne.json) |
+| Z2 | 296016 | [296016-z2.json](./296016-z2.json) |
 | Z55z | 86563 | [86563-z55z.json](./86563-z55z.json) |
 | Z69 | 51959 | [51959-z69.json](./51959-z69.json) |
 | Zaacar | 169377 | [169377-zaacar.json](./169377-zaacar.json) |
