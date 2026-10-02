@@ -396,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragdoll Blaster | 67691 | [67691-ragdoll-blaster.json](./67691-ragdoll-blaster.json) |
 | Ragdoll Blaster 2 | 66775 | [66775-ragdoll-blaster-2.json](./66775-ragdoll-blaster-2.json) |
 | Ragdoll Boxing Multiplayer | 360670 | [360670-ragdoll-boxing-multiplayer.json](./360670-ragdoll-boxing-multiplayer.json) |
+| Ragdoll Cannon | 316711 | [316711-ragdoll-cannon.json](./316711-ragdoll-cannon.json) |
 | Ragdoll Destroyer | 252673 | [252673-ragdoll-destroyer.json](./252673-ragdoll-destroyer.json) |
 | Ragdoll Kanojo | 174117 | [174117-ragdoll-kanojo.json](./174117-ragdoll-kanojo.json) |
 | Ragdoll LABS | 204069 | [204069-ragdoll-labs.json](./204069-ragdoll-labs.json) |
@@ -1104,6 +1105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravensburger Puzzle | 25495 | [25495-ravensburger-puzzle.json](./25495-ravensburger-puzzle.json) |
 | Ravensdale | 47424 | [47424-ravensdale.json](./47424-ravensdale.json) |
 | Ravenshade Asylum | 411825 | [411825-ravenshade-asylum.json](./411825-ravenshade-asylum.json) |
+| Ravensthorn | 316730 | [316730-ravensthorn.json](./316730-ravensthorn.json) |
 | Ravensword: The Fallen King | 61031 | [61031-ravensword-the-fallen-king.json](./61031-ravensword-the-fallen-king.json) |
 | Ravensword: Undaunted | 155056 | [155056-ravensword-undaunted.json](./155056-ravensword-undaunted.json) |
 | Ravenwood Academy: A Wizard101 Story | 298165 | [298165-ravenwood-academy-a-wizard101-story.json](./298165-ravenwood-academy-a-wizard101-story.json) |
@@ -2299,6 +2301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reign of Amira: The Lost Kingdom | 38996 | [38996-reign-of-amira-the-lost-kingdom.json](./38996-reign-of-amira-the-lost-kingdom.json) |
 | Reign of Darkness | 126974 | [126974-reign-of-darkness.json](./126974-reign-of-darkness.json) |
 | Reign of Guilds | 112329 | [112329-reign-of-guilds.json](./112329-reign-of-guilds.json) |
+| Reign of Guilds: Commoner | 317302 | [317302-reign-of-guilds-commoner.json](./317302-reign-of-guilds-commoner.json) |
 | Reign of King | 107147 | [107147-reign-of-king.json](./107147-reign-of-king.json) |
 | Reign of the Undead: Revolution | 299134 | [299134-reign-of-the-undead-revolution.json](./299134-reign-of-the-undead-revolution.json) |
 | Reignbreaker | 314640 | [314640-reignbreaker.json](./314640-reignbreaker.json) |
@@ -3327,6 +3330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reynard | 111920 | [111920-reynard.json](./111920-reynard.json) |
 | Reynatis: Deluxe Edition | 288187 | [288187-reynatis-deluxe-edition.json](./288187-reynatis-deluxe-edition.json) |
 | Reynatis: Digital Deluxe Edition | 317908 | [317908-reynatis-digital-deluxe-edition.json](./317908-reynatis-digital-deluxe-edition.json) |
+| Reynatis: Ultimate Wizard Bundle | 317289 | [317289-reynatis-ultimate-wizard-bundle.json](./317289-reynatis-ultimate-wizard-bundle.json) |
 | Reytrieve Odyssey | 347682 | [347682-reytrieve-odyssey.json](./347682-reytrieve-odyssey.json) |
 | Rez | 11244 | [11244-rez.json](./11244-rez.json) |
 | Rez HD | 84308 | [84308-rez-hd.json](./84308-rez-hd.json) |
