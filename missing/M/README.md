@@ -4251,6 +4251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meldev Power Boat Racing | 164274 | [164274-meldev-power-boat-racing.json](./164274-meldev-power-boat-racing.json) |
 | Meli | 381846 | [381846-meli.json](./381846-meli.json) |
 | Méli-Mélo: L'Odyssée de la Crème de Marrons | 357357 | [357357-meli-melo-lodyssee-de-la-creme-de-marrons.json](./357357-meli-melo-lodyssee-de-la-creme-de-marrons.json) |
+| Melia Keys In... Quantum Decade | 280414 | [280414-melia-keys-in-quantum-decade.json](./280414-melia-keys-in-quantum-decade.json) |
 | Melissa K. and the Heart of Gold: Collector's Edition | 36235 | [36235-melissa-k-and-the-heart-of-gold-collectors-edition.json](./36235-melissa-k-and-the-heart-of-gold-collectors-edition.json) |
 | Melkhior's Tower | 413811 | [413811-melkhiors-tower.json](./413811-melkhiors-tower.json) |
 | Melkis: Spend With You the Sweet Days Like Fairy Tales | 222241 | [222241-melkis-spend-with-you-the-sweet-days-like-fairy-tales.json](./222241-melkis-spend-with-you-the-sweet-days-like-fairy-tales.json) |
@@ -9984,6 +9985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Dream Setup | 226386 | [226386-my-dream-setup.json](./226386-my-dream-setup.json) |
 | My Dream Setup: Bathroom DLC | 297148 | [297148-my-dream-setup-bathroom-dlc.json](./297148-my-dream-setup-bathroom-dlc.json) |
 | My Dream Setup: Kitchen DLC | 297149 | [297149-my-dream-setup-kitchen-dlc.json](./297149-my-dream-setup-kitchen-dlc.json) |
+| My Dreams | 280470 | [280470-my-dreams.json](./280470-my-dreams.json) |
 | My Dress-Up | 84331 | [84331-my-dress-up.json](./84331-my-dress-up.json) |
 | My Earth | 258489 | [258489-my-earth.json](./258489-my-earth.json) |
 | My Eerie Lair | 373749 | [373749-my-eerie-lair.json](./373749-my-eerie-lair.json) |
