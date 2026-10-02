@@ -375,6 +375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taimanin Asagi | 259866 | [259866-taimanin-asagi.json](./259866-taimanin-asagi.json) |
 | Taimanin RPG Extasy | 272920 | [272920-taimanin-rpg-extasy.json](./272920-taimanin-rpg-extasy.json) |
 | Taimanin Squad | 382371 | [382371-taimanin-squad.json](./382371-taimanin-squad.json) |
+| Taimanin Yukikaze | 292222 | [292222-taimanin-yukikaze.json](./292222-taimanin-yukikaze.json) |
 | Taimumari | 35090 | [35090-taimumari.json](./35090-taimumari.json) |
 | Taina's Cursed Legacy | 361686 | [361686-tainas-cursed-legacy.json](./361686-tainas-cursed-legacy.json) |
 | Tainted | 271846 | [271846-tainted.json](./271846-tainted.json) |
@@ -1601,6 +1602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tears of a Dragon | 29798 | [29798-tears-of-a-dragon.json](./29798-tears-of-a-dragon.json) |
 | Tears of a Prophet | 174203 | [174203-tears-of-a-prophet.json](./174203-tears-of-a-prophet.json) |
 | Tears of Adria | 268226 | [268226-tears-of-adria.json](./268226-tears-of-adria.json) |
+| Tears of Fish | 292234 | [292234-tears-of-fish.json](./292234-tears-of-fish.json) |
 | Tears of Magic | 224574 | [224574-tears-of-magic.json](./224574-tears-of-magic.json) |
 | Tears of the Maker | 349443 | [349443-tears-of-the-maker.json](./349443-tears-of-the-maker.json) |
 | Tears of Themis | 146245 | [146245-tears-of-themis.json](./146245-tears-of-themis.json) |
@@ -1869,6 +1871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teleglitch: Die More Edition | 7884 | [7884-teleglitch-die-more-edition.json](./7884-teleglitch-die-more-edition.json) |
 | Telegraph Sudoku & Kakuro | 85429 | [85429-telegraph-sudoku-and-kakuro.json](./85429-telegraph-sudoku-and-kakuro.json) |
 | Telegrum Clicker | 100574 | [100574-telegrum-clicker.json](./100574-telegrum-clicker.json) |
+| Telejogo II | 292228 | [292228-telejogo-ii.json](./292228-telejogo-ii.json) |
 | Telekinesis Kyle | 20116 | [20116-telekinesis-kyle.json](./20116-telekinesis-kyle.json) |
 | Telemount | 413083 | [413083-telemount.json](./413083-telemount.json) |
 | Telepath of Evil | 339411 | [339411-telepath-of-evil.json](./339411-telepath-of-evil.json) |
@@ -2102,6 +2105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Elbow Manager 2 | 99576 | [99576-tennis-elbow-manager-2.json](./99576-tennis-elbow-manager-2.json) |
 | Tennis Esports | 280871 | [280871-tennis-esports.json](./280871-tennis-esports.json) |
 | Tennis Game in Roaring ’20s | 248064 | [248064-tennis-game-in-roaring-20s.json](./248064-tennis-game-in-roaring-20s.json) |
+| Tennis Girl | 292241 | [292241-tennis-girl.json](./292241-tennis-girl.json) |
 | Tennis In Hell | 250991 | [250991-tennis-in-hell.json](./250991-tennis-in-hell.json) |
 | Tennis Kings VR | 89257 | [89257-tennis-kings-vr.json](./89257-tennis-kings-vr.json) |
 | Tennis League VR | 208108 | [208108-tennis-league-vr.json](./208108-tennis-league-vr.json) |
@@ -3952,6 +3956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cursed Tower | 83617 | [83617-the-cursed-tower.json](./83617-the-cursed-tower.json) |
 | The Cursed Underground Parking Lot | 344351 | [344351-the-cursed-underground-parking-lot.json](./344351-the-cursed-underground-parking-lot.json) |
 | The Cursewood | 240720 | [240720-the-cursewood.json](./240720-the-cursewood.json) |
+| The Cursor Game | 292260 | [292260-the-cursor-game.json](./292260-the-cursor-game.json) |
 | The Cute Whale | 378182 | [378182-the-cute-whale.json](./378182-the-cute-whale.json) |
 | The CW Quest | 58501 | [58501-the-cw-quest.json](./58501-the-cw-quest.json) |
 | The Cyber Masquerade: Summer Beach Reverie | 295340 | [295340-the-cyber-masquerade-summer-beach-reverie.json](./295340-the-cyber-masquerade-summer-beach-reverie.json) |
@@ -9192,6 +9197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Valley | 292068 | [292068-the-valley.json](./292068-the-valley.json) |
 | The Valley Beyond | 373132 | [373132-the-valley-beyond.json](./373132-the-valley-beyond.json) |
 | The Vamp | 254552 | [254552-the-vamp.json](./254552-the-vamp.json) |
+| The Vampire | 292250 | [292250-the-vampire.json](./292250-the-vampire.json) |
 | The Vampire Lord of Valea Noapte | 179519 | [179519-the-vampire-lord-of-valea-noapte.json](./179519-the-vampire-lord-of-valea-noapte.json) |
 | The Vampire's Bride: A Bride Who Gets Married to Vampdoll | 334894 | [334894-the-vampires-bride-a-bride-who-gets-married-to-vampdoll.json](./334894-the-vampires-bride-a-bride-who-gets-married-to-vampdoll.json) |
 | The Vanished Sister | 283844 | [283844-the-vanished-sister.json](./283844-the-vanished-sister.json) |
