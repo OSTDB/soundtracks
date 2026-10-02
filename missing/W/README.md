@@ -1724,6 +1724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Western Adventure - Cowboy Revenge 3D | 99186 | [99186-western-adventure-cowboy-revenge-3d.json](./99186-western-adventure-cowboy-revenge-3d.json) |
 | Western Bank VR | 76678 | [76678-western-bank-vr.json](./76678-western-bank-vr.json) |
 | Western Bar | 346076 | [346076-western-bar.json](./346076-western-bar.json) |
+| Western Death | 312614 | [312614-western-death.json](./312614-western-death.json) |
 | Western Press: TF2 Heavy | 228462 | [228462-western-press-tf2-heavy.json](./228462-western-press-tf2-heavy.json) |
 | Western Province | 114810 | [114810-western-province.json](./114810-western-province.json) |
 | Western Quest | 244181 | [244181-western-quest.json](./244181-western-quest.json) |
@@ -1802,6 +1803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whale Singer: Rise of the Leviathan | 334899 | [334899-whale-singer-rise-of-the-leviathan.json](./334899-whale-singer-rise-of-the-leviathan.json) |
 | Whale Trail | 65473 | [65473-whale-trail.json](./65473-whale-trail.json) |
 | Whale Trail Frenzy | 411629 | [411629-whale-trail-frenzy.json](./411629-whale-trail-frenzy.json) |
+| Whale Well | 312626 | [312626-whale-well.json](./312626-whale-well.json) |
 | Whalefall Haven | 349400 | [349400-whalefall-haven.json](./349400-whalefall-haven.json) |
 | Wham the Music Box | 45314 | [45314-wham-the-music-box.json](./45314-wham-the-music-box.json) |
 | What a Ball | 225727 | [225727-what-a-ball.json](./225727-what-a-ball.json) |
