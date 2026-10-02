@@ -484,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hammer Bros | 264666 | [264666-hammer-bros.json](./264666-hammer-bros.json) |
 | Hammer climber - Hard Get Over | 105944 | [105944-hammer-climber-hard-get-over.json](./105944-hammer-climber-hard-get-over.json) |
 | Hammer Dongers | 140483 | [140483-hammer-dongers.json](./140483-hammer-dongers.json) |
+| Hammer Hero | 299398 | [299398-hammer-hero.json](./299398-hammer-hero.json) |
 | Hammer Joe | 307586 | [307586-hammer-joe.json](./307586-hammer-joe.json) |
 | Hammer Keep | 180796 | [180796-hammer-keep.json](./180796-hammer-keep.json) |
 | Hammer Kid | 187490 | [187490-hammer-kid.json](./187490-hammer-kid.json) |
@@ -1817,6 +1818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hehu and the Taniwha | 98552 | [98552-hehu-and-the-taniwha.json](./98552-hehu-and-the-taniwha.json) |
 | Hei | 115173 | [115173-hei.json](./115173-hei.json) |
 | Hēi'àn Liàolǐ | 111705 | [111705-heian-liaoli.json](./111705-heian-liaoli.json) |
+| Heian City Story | 299388 | [299388-heian-city-story.json](./299388-heian-city-story.json) |
 | Heiankyo Alien | 118758 | [118758-heiankyo-alien.json](./118758-heiankyo-alien.json) |
 | Heiankyo Alien | 75136 | [75136-heiankyo-alien.json](./75136-heiankyo-alien.json) |
 | Heiankyo Parameters | 247530 | [247530-heiankyo-parameters.json](./247530-heiankyo-parameters.json) |
@@ -1833,6 +1835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heir of Darkness | 127250 | [127250-heir-of-darkness.json](./127250-heir-of-darkness.json) |
 | Heir of Light | 90098 | [90098-heir-of-light.json](./90098-heir-of-light.json) |
 | Heir of Light Eclipse | 267351 | [267351-heir-of-light-eclipse.json](./267351-heir-of-light-eclipse.json) |
+| Heir of Love | 299422 | [299422-heir-of-love.json](./299422-heir-of-love.json) |
 | Heir to the Queen | 358915 | [358915-heir-to-the-queen.json](./358915-heir-to-the-queen.json) |
 | Heirs | 329072 | [329072-heirs.json](./329072-heirs.json) |
 | Heirs of Heaven | 346237 | [346237-heirs-of-heaven.json](./346237-heirs-of-heaven.json) |
@@ -2827,6 +2830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Slayers | 348427 | [348427-hero-slayers.json](./348427-hero-slayers.json) |
 | Hero Staff | 113655 | [113655-hero-staff.json](./113655-hero-staff.json) |
 | Hero Stickman | 346653 | [346653-hero-stickman.json](./346653-hero-stickman.json) |
+| Hero Sword | 299399 | [299399-hero-sword.json](./299399-hero-sword.json) |
 | Hero Tactics | 181921 | [181921-hero-tactics.json](./181921-hero-tactics.json) |
 | Hero Tower | 132746 | [132746-hero-tower.json](./132746-hero-tower.json) |
 | Hero Tower Wars | 340537 | [340537-hero-tower-wars.json](./340537-hero-tower-wars.json) |
