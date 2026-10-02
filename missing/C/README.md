@@ -963,6 +963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Mechanic Flipper | 113661 | [113661-car-mechanic-flipper.json](./113661-car-mechanic-flipper.json) |
 | Car Mechanic Manager | 34569 | [34569-car-mechanic-manager.json](./34569-car-mechanic-manager.json) |
 | Car Mechanic Pinball | 219301 | [219301-car-mechanic-pinball.json](./219301-car-mechanic-pinball.json) |
+| Car Mechanic Shop Simulator | 322660 | [322660-car-mechanic-shop-simulator.json](./322660-car-mechanic-shop-simulator.json) |
 | Car Mechanic Simulator | 115392 | [115392-car-mechanic-simulator.json](./115392-car-mechanic-simulator.json) |
 | Car Mechanic Simulator 2014 | 7571 | [7571-car-mechanic-simulator-2014.json](./7571-car-mechanic-simulator-2014.json) |
 | Car Mechanic Simulator 2021 | 152604 | [152604-car-mechanic-simulator-2021.json](./152604-car-mechanic-simulator-2021.json) |
@@ -976,6 +977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Parking & Car Driving Simulator 2023 | 271702 | [271702-car-parking-and-car-driving-simulator-2023.json](./271702-car-parking-and-car-driving-simulator-2023.json) |
 | Car Parking 2 | 232448 | [232448-car-parking-2.json](./232448-car-parking-2.json) |
 | Car Parking Game 3D - Real City Driving School | 83585 | [83585-car-parking-game-3d-real-city-driving-school.json](./83585-car-parking-game-3d-real-city-driving-school.json) |
+| Car Parking Legends: Drive & Park Adventure | 322661 | [322661-car-parking-legends-drive-and-park-adventure.json](./322661-car-parking-legends-drive-and-park-adventure.json) |
 | Car Parking Multiplayer | 232563 | [232563-car-parking-multiplayer.json](./232563-car-parking-multiplayer.json) |
 | Car Parking Real Driving Sim | 274976 | [274976-car-parking-real-driving-sim.json](./274976-car-parking-real-driving-sim.json) |
 | Car Parking Simulator 3D Game | 105929 | [105929-car-parking-simulator-3d-game.json](./105929-car-parking-simulator-3d-game.json) |
@@ -2009,6 +2011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch & Defense | 373190 | [373190-catch-and-defense.json](./373190-catch-and-defense.json) |
 | Catch a Falling Star | 33285 | [33285-catch-a-falling-star.json](./33285-catch-a-falling-star.json) |
 | Catch a Lover | 29543 | [29543-catch-a-lover.json](./29543-catch-a-lover.json) |
+| Catch Beshi!! Scooping Game | 322666 | [322666-catch-beshi-scooping-game.json](./322666-catch-beshi-scooping-game.json) |
 | Catch Bus | 232033 | [232033-catch-bus.json](./232033-catch-bus.json) |
 | Catch Canvas | 33095 | [33095-catch-canvas.json](./33095-catch-canvas.json) |
 | Catch Driver | 112145 | [112145-catch-driver.json](./112145-catch-driver.json) |
@@ -2268,6 +2271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cavedude | 397940 | [397940-cavedude.json](./397940-cavedude.json) |
 | CaveFiction | 216789 | [216789-cavefiction.json](./216789-cavefiction.json) |
 | Cavegirl Adventures | 163992 | [163992-cavegirl-adventures.json](./163992-cavegirl-adventures.json) |
+| Caveheart: Legacy of The Depths | 322662 | [322662-caveheart-legacy-of-the-depths.json](./322662-caveheart-legacy-of-the-depths.json) |
 | Cavehook | 59840 | [59840-cavehook.json](./59840-cavehook.json) |
 | CaveIn: Miner Rescue Team | 68639 | [68639-cavein-miner-rescue-team.json](./68639-cavein-miner-rescue-team.json) |
 | Cavelon | 40971 | [40971-cavelon.json](./40971-cavelon.json) |
@@ -8266,6 +8270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrimeBloc | 347795 | [347795-crimebloc.json](./347795-crimebloc.json) |
 | CrimeBound Chronicles | 345109 | [345109-crimebound-chronicles.json](./345109-crimebound-chronicles.json) |
 | CrimeCraft Bleedout | 51265 | [51265-crimecraft-bleedout.json](./51265-crimecraft-bleedout.json) |
+| Crimes Against Slimes | 322649 | [322649-crimes-against-slimes.json](./322649-crimes-against-slimes.json) |
 | Crimes of Passion | 313795 | [313795-crimes-of-passion.json](./313795-crimes-of-passion.json) |
 | Crimes of Passion II | 313796 | [313796-crimes-of-passion-ii.json](./313796-crimes-of-passion-ii.json) |
 | Crimes of Passion: The Proposal | 313797 | [313797-crimes-of-passion-the-proposal.json](./313797-crimes-of-passion-the-proposal.json) |
@@ -8295,6 +8300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criminally Overdue | 179055 | [179055-criminally-overdue.json](./179055-criminally-overdue.json) |
 | Crimson | 343262 | [343262-crimson.json](./343262-crimson.json) |
 | Crimson Angel | 339339 | [339339-crimson-angel.json](./339339-crimson-angel.json) |
+| Crimson Asylum | 322663 | [322663-crimson-asylum.json](./322663-crimson-asylum.json) |
 | Crimson Broadcast | 395765 | [395765-crimson-broadcast.json](./395765-crimson-broadcast.json) |
 | Crimson Connect Origin | 238521 | [238521-crimson-connect-origin.json](./238521-crimson-connect-origin.json) |
 | Crimson Defense | 95226 | [95226-crimson-defense.json](./95226-crimson-defense.json) |
