@@ -608,6 +608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ichor Burns | 358958 | [358958-ichor-burns.json](./358958-ichor-burns.json) |
 | Ichorian Tales | 415923 | [415923-ichorian-tales.json](./415923-ichorian-tales.json) |
 | Ichorless | 365180 | [365180-ichorless.json](./365180-ichorless.json) |
+| Ichorous | 287888 | [287888-ichorous.json](./287888-ichorous.json) |
 | Icing: Love Coating | 194541 | [194541-icing-love-coating.json](./194541-icing-love-coating.json) |
 | Icity | 31157 | [31157-icity.json](./31157-icity.json) |
 | iClub Manager | 200159 | [200159-iclub-manager.json](./200159-iclub-manager.json) |
@@ -1280,6 +1281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortals Fenyx Rising: A New God | 142848 | [142848-immortals-fenyx-rising-a-new-god.json](./142848-immortals-fenyx-rising-a-new-god.json) |
 | Immortals Fenyx Rising: Season Pass | 293724 | [293724-immortals-fenyx-rising-season-pass.json](./293724-immortals-fenyx-rising-season-pass.json) |
 | Immortals Fenyx Rising: The Lost Gods | 144580 | [144580-immortals-fenyx-rising-the-lost-gods.json](./144580-immortals-fenyx-rising-the-lost-gods.json) |
+| Immortals Must Die | 287880 | [287880-immortals-must-die.json](./287880-immortals-must-die.json) |
 | Immortals of Aveum: Deluxe Edition | 245934 | [245934-immortals-of-aveum-deluxe-edition.json](./245934-immortals-of-aveum-deluxe-edition.json) |
 | Immortals Revenge | 340507 | [340507-immortals-revenge.json](./340507-immortals-revenge.json) |
 | Immortals: Muv-Luv Alternative | 194560 | [194560-immortals-muv-luv-alternative.json](./194560-immortals-muv-luv-alternative.json) |
