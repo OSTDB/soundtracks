@@ -3220,6 +3220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Pond Simulator | 346157 | [346157-fishing-pond-simulator.json](./346157-fishing-pond-simulator.json) |
 | Fishing Pro Simulator | 389043 | [389043-fishing-pro-simulator.json](./389043-fishing-pro-simulator.json) |
 | Fishing Resort | 19929 | [19929-fishing-resort.json](./19929-fishing-resort.json) |
+| Fishing RPG | 298824 | [298824-fishing-rpg.json](./298824-fishing-rpg.json) |
 | Fishing Rush | 362965 | [362965-fishing-rush.json](./362965-fishing-rush.json) |
 | Fishing Sea Adventure | 335089 | [335089-fishing-sea-adventure.json](./335089-fishing-sea-adventure.json) |
 | Fishing Sim World: Bass Pro Shops Edition | 170481 | [170481-fishing-sim-world-bass-pro-shops-edition.json](./170481-fishing-sim-world-bass-pro-shops-edition.json) |
@@ -6815,6 +6816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Avoid | 307583 | [307583-future-avoid.json](./307583-future-avoid.json) |
 | Future Card Buddyfight Mezase! Buddy Champion! | 222542 | [222542-future-card-buddyfight-mezase-buddy-champion.json](./222542-future-card-buddyfight-mezase-buddy-champion.json) |
 | Future Card Buddyfight: Tanjou! Oretachi no Saikyou Buddy! | 222545 | [222545-future-card-buddyfight-tanjou-oretachi-no-saikyou-buddy.json](./222545-future-card-buddyfight-tanjou-oretachi-no-saikyou-buddy.json) |
+| Future Cat Sailor | 298814 | [298814-future-cat-sailor.json](./298814-future-cat-sailor.json) |
 | Future City Coaster | 93753 | [93753-future-city-coaster.json](./93753-future-city-coaster.json) |
 | Future Cop: LAPD | 11235 | [11235-future-cop-lapd.json](./11235-future-cop-lapd.json) |
 | Future Fighter | 304139 | [304139-future-fighter.json](./304139-future-fighter.json) |
