@@ -1320,6 +1320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:leap-future City and Futureless | 346572 | [346572-re-leap-future-city-and-futureless.json](./346572-re-leap-future-city-and-futureless.json) |
 | Re:Legend | 51535 | [51535-re-legend.json](./51535-re-legend.json) |
 | Re:Lord 2 - The witch of Cologne and black cat | 189940 | [189940-re-lord-2-the-witch-of-cologne-and-black-cat.json](./189940-re-lord-2-the-witch-of-cologne-and-black-cat.json) |
+| Re:Memento - White Shadow | 326138 | [326138-re-memento-white-shadow.json](./326138-re-memento-white-shadow.json) |
 | Re:Metamorphosis Candina | 409768 | [409768-re-metamorphosis-candina.json](./409768-re-metamorphosis-candina.json) |
 | Re:Mobilize Jam 3: Re:Frigerated | 393783 | [393783-re-mobilize-jam-3-re-frigerated.json](./393783-re-mobilize-jam-3-re-frigerated.json) |
 | Re:Monster | 241637 | [241637-re-monster.json](./241637-re-monster.json) |
@@ -3214,6 +3215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverse it, board game | 88262 | [88262-reverse-it-board-game.json](./88262-reverse-it-board-game.json) |
 | Reverse Memories | 143594 | [143594-reverse-memories.json](./143594-reverse-memories.json) |
 | Reverse Momories | 115622 | [115622-reverse-momories.json](./115622-reverse-momories.json) |
+| Reverse Problem | 326142 | [326142-reverse-problem.json](./326142-reverse-problem.json) |
 | Reversed Dreamland | 50515 | [50515-reversed-dreamland.json](./50515-reversed-dreamland.json) |
 | Reversed Front | 224632 | [224632-reversed-front.json](./224632-reversed-front.json) |
 | Reversed Rebecca | 235682 | [235682-reversed-rebecca.json](./235682-reversed-rebecca.json) |
@@ -5909,6 +5911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruin: Chapter 0 | 400981 | [400981-ruin-chapter-0.json](./400981-ruin-chapter-0.json) |
 | Ruina | 373073 | [373073-ruina.json](./373073-ruina.json) |
 | Ruina Remake | 234152 | [234152-ruina-remake.json](./234152-ruina-remake.json) |
+| Ruinas de Maimará | 326145 | [326145-ruinas-de-maimara.json](./326145-ruinas-de-maimara.json) |
 | Ruination | 114854 | [114854-ruination.json](./114854-ruination.json) |
 | Ruindrift | 371883 | [371883-ruindrift.json](./371883-ruindrift.json) |
 | Ruined King: A League of Legends Story | 127358 | [127358-ruined-king-a-league-of-legends-story.json](./127358-ruined-king-a-league-of-legends-story.json) |
