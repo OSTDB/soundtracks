@@ -6386,6 +6386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boneyard Bounce! | 414604 | [414604-boneyard-bounce.json](./414604-boneyard-bounce.json) |
 | Bonez Adventures: Tomb of Fulaos | 120874 | [120874-bonez-adventures-tomb-of-fulaos.json](./120874-bonez-adventures-tomb-of-fulaos.json) |
 | Bonfire Kingdom | 260413 | [260413-bonfire-kingdom.json](./260413-bonfire-kingdom.json) |
+| Bonfire Peaks: Complete Edition | 278648 | [278648-bonfire-peaks-complete-edition.json](./278648-bonfire-peaks-complete-edition.json) |
 | Bonfire Peaks: Lost Memories | 203901 | [203901-bonfire-peaks-lost-memories.json](./203901-bonfire-peaks-lost-memories.json) |
 | Bonfire Stories: Manifest Horror | 417393 | [417393-bonfire-stories-manifest-horror.json](./417393-bonfire-stories-manifest-horror.json) |
 | Bonfire Stories: Manifest Horror - Collector's Edition | 417394 | [417394-bonfire-stories-manifest-horror-collectors-edition.json](./417394-bonfire-stories-manifest-horror-collectors-edition.json) |
@@ -6660,6 +6661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boring Movies: Friends of Stolen Jewelry | 362310 | [362310-boring-movies-friends-of-stolen-jewelry.json](./362310-boring-movies-friends-of-stolen-jewelry.json) |
 | Boring Movies: Groovy Chainsaw Man | 362309 | [362309-boring-movies-groovy-chainsaw-man.json](./362309-boring-movies-groovy-chainsaw-man.json) |
 | Boring Movies: Spooky Bunny | 362308 | [362308-boring-movies-spooky-bunny.json](./362308-boring-movies-spooky-bunny.json) |
+| Boris | 278622 | [278622-boris.json](./278622-boris.json) |
 | Boris and the Dark Survival: Symphony of Shadows | 298711 | [298711-boris-and-the-dark-survival-symphony-of-shadows.json](./298711-boris-and-the-dark-survival-symphony-of-shadows.json) |
 | Boris and the Dark Survival: The Unleashed | 298675 | [298675-boris-and-the-dark-survival-the-unleashed.json](./298675-boris-and-the-dark-survival-the-unleashed.json) |
 | Boris and the Dark Survival: The Wolf Trials | 298634 | [298634-boris-and-the-dark-survival-the-wolf-trials.json](./298634-boris-and-the-dark-survival-the-wolf-trials.json) |
@@ -7567,6 +7569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakout Birdie 2 | 283214 | [283214-breakout-birdie-2.json](./283214-breakout-birdie-2.json) |
 | Breakout Birdie Adventure | 283215 | [283215-breakout-birdie-adventure.json](./283215-breakout-birdie-adventure.json) |
 | Breakout Birdie Escape | 278658 | [278658-breakout-birdie-escape.json](./278658-breakout-birdie-escape.json) |
+| Breakout Birdie Escape 2 | 278657 | [278657-breakout-birdie-escape-2.json](./278657-breakout-birdie-escape-2.json) |
 | Breakout Birdie Panic | 278661 | [278661-breakout-birdie-panic.json](./278661-breakout-birdie-panic.json) |
 | Breakout Birdie Panic 2 | 278662 | [278662-breakout-birdie-panic-2.json](./278662-breakout-birdie-panic-2.json) |
 | Breakout Birdie Puzzle | 278660 | [278660-breakout-birdie-puzzle.json](./278660-breakout-birdie-puzzle.json) |
