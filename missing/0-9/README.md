@@ -507,6 +507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 137E0 Action 1 Steak | 234303 | [234303-137e0-action-1-steak.json](./234303-137e0-action-1-steak.json) |
 | 1387: MMO Strategy | 213313 | [213313-1387-mmo-strategy.json](./213313-1387-mmo-strategy.json) |
 | 13th Friday Night: Funk Blood | 314500 | [314500-13th-friday-night-funk-blood.json](./314500-13th-friday-night-funk-blood.json) |
+| 13th House on Halloween | 321454 | [321454-13th-house-on-halloween.json](./321454-13th-house-on-halloween.json) |
 | 14 Locks | 225637 | [225637-14-locks.json](./225637-14-locks.json) |
 | 14 Minesweeper Variants 2 | 272869 | [272869-14-minesweeper-variants-2.json](./272869-14-minesweeper-variants-2.json) |
 | 1406 | 116102 | [116102-1406.json](./116102-1406.json) |
@@ -1050,6 +1051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Water Bike | 255033 | [255033-3d-water-bike.json](./255033-3d-water-bike.json) |
 | 3D Water Driver | 47561 | [47561-3d-water-driver.json](./47561-3d-water-driver.json) |
 | 3D Watermelon Game | 277950 | [277950-3d-watermelon-game.json](./277950-3d-watermelon-game.json) |
+| 3D Workers Island | 321462 | [321462-3d-workers-island.json](./321462-3d-workers-island.json) |
 | 3D-Laby | 98226 | [98226-3d-laby.json](./98226-3d-laby.json) |
 | 3D3D | 291042 | [291042-3d3d.json](./291042-3d3d.json) |
 | 3Dash | 326188 | [326188-3dash.json](./326188-3dash.json) |
