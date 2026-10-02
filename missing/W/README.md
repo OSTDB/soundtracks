@@ -3881,6 +3881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Workshop Blooming in the Field & the Dark Dragon | 82901 | [82901-workshop-blooming-in-the-field-and-the-dark-dragon.json](./82901-workshop-blooming-in-the-field-and-the-dark-dragon.json) |
 | Workshop Invaders: Bouncy | 108990 | [108990-workshop-invaders-bouncy.json](./108990-workshop-invaders-bouncy.json) |
 | World Advanced Daisenryaku: Sakusen File | 60803 | [60803-world-advanced-daisenryaku-sakusen-file.json](./60803-world-advanced-daisenryaku-sakusen-file.json) |
+| World Air War | 290118 | [290118-world-air-war.json](./290118-world-air-war.json) |
 | World Airports | 68057 | [68057-world-airports.json](./68057-world-airports.json) |
 | World Airports | 68069 | [68069-world-airports.json](./68069-world-airports.json) |
 | World Airports 2 | 68068 | [68068-world-airports-2.json](./68068-world-airports-2.json) |
