@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbids Go Home | 2190 | [2190-rabbids-go-home.json](./2190-rabbids-go-home.json) |
 | Rabbids Invasion | 131366 | [131366-rabbids-invasion.json](./131366-rabbids-invasion.json) |
 | Rabbids Lab | 50699 | [50699-rabbids-lab.json](./50699-rabbids-lab.json) |
+| Rabbids: Legends of the Multiverse | 300343 | [300343-rabbids-legends-of-the-multiverse.json](./300343-rabbids-legends-of-the-multiverse.json) |
 | Rabbids: Party of Legends | 201254 | [201254-rabbids-party-of-legends.json](./201254-rabbids-party-of-legends.json) |
 | Rabbit | 46850 | [46850-rabbit.json](./46850-rabbit.json) |
 | Rabbit & Dominoes | 192874 | [192874-rabbit-and-dominoes.json](./192874-rabbit-and-dominoes.json) |
@@ -172,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race Driver: Grid Reloaded | 44555 | [44555-race-driver-grid-reloaded.json](./44555-race-driver-grid-reloaded.json) |
 | Race Drivin' | 307062 | [307062-race-drivin.json](./307062-race-drivin.json) |
 | Race Drivin' | 307063 | [307063-race-drivin.json](./307063-race-drivin.json) |
+| Race Drivin' (SA-1 Enhanced Version) | 300273 | [300273-race-drivin-sa-1-enhanced-version.json](./300273-race-drivin-sa-1-enhanced-version.json) |
 | Race For Nuts | 359481 | [359481-race-for-nuts.json](./359481-race-for-nuts.json) |
 | Race for the Galaxy | 44528 | [44528-race-for-the-galaxy.json](./44528-race-for-the-galaxy.json) |
 | Race for the Galaxy: Brink of War | 171486 | [171486-race-for-the-galaxy-brink-of-war.json](./171486-race-for-the-galaxy-brink-of-war.json) |
@@ -3469,6 +3471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rich Man | 175826 | [175826-rich-man.json](./175826-rich-man.json) |
 | Rich Party | 370860 | [370860-rich-party.json](./370860-rich-party.json) |
 | Rich River | 391203 | [391203-rich-river.json](./391203-rich-river.json) |
+| Rich School Girl Simulator | 300324 | [300324-rich-school-girl-simulator.json](./300324-rich-school-girl-simulator.json) |
 | Rich Uncle: A Gay Adventure | 385307 | [385307-rich-uncle-a-gay-adventure.json](./385307-rich-uncle-a-gay-adventure.json) |
 | Rich Worker Simulator | 297811 | [297811-rich-worker-simulator.json](./297811-rich-worker-simulator.json) |
 | Richard Scarry's Best Neighborhood Disc Ever | 127322 | [127322-richard-scarrys-best-neighborhood-disc-ever.json](./127322-richard-scarrys-best-neighborhood-disc-ever.json) |
