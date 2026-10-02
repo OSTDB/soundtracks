@@ -2874,6 +2874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Age of Navigation: Deluxe Edition | 196134 | [196134-the-age-of-navigation-deluxe-edition.json](./196134-the-age-of-navigation-deluxe-edition.json) |
 | The Agent | 91767 | [91767-the-agent.json](./91767-the-agent.json) |
 | The Agent Saga: Rover Rescue | 54434 | [54434-the-agent-saga-rover-rescue.json](./54434-the-agent-saga-rover-rescue.json) |
+| The Ai Games | 286767 | [286767-the-ai-games.json](./286767-the-ai-games.json) |
 | The Airflow Trials | 347363 | [347363-the-airflow-trials.json](./347363-the-airflow-trials.json) |
 | The Airline Project: Next Gen | 199521 | [199521-the-airline-project-next-gen.json](./199521-the-airline-project-next-gen.json) |
 | The Airs | 144951 | [144951-the-airs.json](./144951-the-airs.json) |
@@ -6464,6 +6465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lightning Over Pear Acre Road | 138186 | [138186-the-lightning-over-pear-acre-road.json](./138186-the-lightning-over-pear-acre-road.json) |
 | The Lightshield Report | 302141 | [302141-the-lightshield-report.json](./302141-the-lightshield-report.json) |
 | The Lilliput Workshop | 205249 | [205249-the-lilliput-workshop.json](./205249-the-lilliput-workshop.json) |
+| The Lilliputian Runner | 286795 | [286795-the-lilliputian-runner.json](./286795-the-lilliputian-runner.json) |
 | The Lilows 2 | 239888 | [239888-the-lilows-2.json](./239888-the-lilows-2.json) |
 | The Lima Project | 271492 | [271492-the-lima-project.json](./271492-the-lima-project.json) |
 | The Limb | 319694 | [319694-the-limb.json](./319694-the-limb.json) |
@@ -15272,6 +15274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricky and the Dream Caster | 316626 | [316626-tricky-and-the-dream-caster.json](./316626-tricky-and-the-dream-caster.json) |
 | Tricky Challenge 2 | 90839 | [90839-tricky-challenge-2.json](./90839-tricky-challenge-2.json) |
 | Tricky Challenge 3 | 103875 | [103875-tricky-challenge-3.json](./103875-tricky-challenge-3.json) |
+| Tricky Cow | 286753 | [286753-tricky-cow.json](./286753-tricky-cow.json) |
 | Tricky Doors | 203573 | [203573-tricky-doors.json](./203573-tricky-doors.json) |
 | Tricky Geometry | 233075 | [233075-tricky-geometry.json](./233075-tricky-geometry.json) |
 | Tricky Horse Jump Racing Game | 240924 | [240924-tricky-horse-jump-racing-game.json](./240924-tricky-horse-jump-racing-game.json) |
@@ -16447,6 +16450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Moon: Space Rabbit | 270141 | [270141-two-moon-space-rabbit.json](./270141-two-moon-space-rabbit.json) |
 | Two Move Chess | 215680 | [215680-two-move-chess.json](./215680-two-move-chess.json) |
 | Two Neons One Brain | 262359 | [262359-two-neons-one-brain.json](./262359-two-neons-one-brain.json) |
+| Two of Us | 286777 | [286777-two-of-us.json](./286777-two-of-us.json) |
 | Two Peas in a pod | 183055 | [183055-two-peas-in-a-pod.json](./183055-two-peas-in-a-pod.json) |
 | Two Point Campus: Enrollment Edition | 188643 | [188643-two-point-campus-enrollment-edition.json](./188643-two-point-campus-enrollment-edition.json) |
 | Two Point Campus: Medical School | 260716 | [260716-two-point-campus-medical-school.json](./260716-two-point-campus-medical-school.json) |
