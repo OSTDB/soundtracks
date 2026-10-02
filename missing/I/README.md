@@ -2249,6 +2249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insane Forest | 342886 | [342886-insane-forest.json](./342886-insane-forest.json) |
 | Insane Kart Wii | 250325 | [250325-insane-kart-wii.json](./250325-insane-kart-wii.json) |
 | Insane Road | 37404 | [37404-insane-road.json](./37404-insane-road.json) |
+| Insane Rules | 284615 | [284615-insane-rules.json](./284615-insane-rules.json) |
 | Insanely Twisted Shadow Planet | 6168 | [6168-insanely-twisted-shadow-planet.json](./6168-insanely-twisted-shadow-planet.json) |
 | Insania | 132738 | [132738-insania.json](./132738-insania.json) |
 | Insanias | 250950 | [250950-insanias.json](./250950-insanias.json) |
@@ -2884,6 +2885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IrisPlus | 110377 | [110377-irisplus.json](./110377-irisplus.json) |
 | Irium | 91889 | [91889-irium.json](./91889-irium.json) |
 | Irmão Grande & Brasileiro 2 | 163461 | [163461-irmao-grande-and-brasileiro-2.json](./163461-irmao-grande-and-brasileiro-2.json) |
+| Iroase no Hate ni | 284601 | [284601-iroase-no-hate-ni.json](./284601-iroase-no-hate-ni.json) |
 | Irochi Mikke! | 276464 | [276464-irochi-mikke.json](./276464-irochi-mikke.json) |
 | Iron & Blood: Warriors of Ravenloft | 20608 | [20608-iron-and-blood-warriors-of-ravenloft.json](./20608-iron-and-blood-warriors-of-ravenloft.json) |
 | Iron & Ivory | 401037 | [401037-iron-and-ivory.json](./401037-iron-and-ivory.json) |
