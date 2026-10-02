@@ -1074,6 +1074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemates | 207525 | [207525-elemates.json](./207525-elemates.json) |
 | Elemencraft | 194012 | [194012-elemencraft.json](./194012-elemencraft.json) |
 | Element Are We | 275348 | [275348-element-are-we.json](./275348-element-are-we.json) |
+| Element Battle Royale | 286793 | [286793-element-battle-royale.json](./286793-element-battle-royale.json) |
 | Element Ensemble: Wind of Moon | 125438 | [125438-element-ensemble-wind-of-moon.json](./125438-element-ensemble-wind-of-moon.json) |
 | Element Release: Water Territory | 292526 | [292526-element-release-water-territory.json](./292526-element-release-water-territory.json) |
 | Element Z | 120763 | [120763-element-z.json](./120763-element-z.json) |
