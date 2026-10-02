@@ -1959,6 +1959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Blindness | 343428 | [343428-sea-blindness.json](./343428-sea-blindness.json) |
 | Sea Bubble Burst | 205833 | [205833-sea-bubble-burst.json](./205833-sea-bubble-burst.json) |
 | Sea Bunnies | 350568 | [350568-sea-bunnies.json](./350568-sea-bunnies.json) |
+| Sea Chase | 292784 | [292784-sea-chase.json](./292784-sea-chase.json) |
 | Sea Chronicles | 249879 | [249879-sea-chronicles.json](./249879-sea-chronicles.json) |
 | Sea Creatures | 112373 | [112373-sea-creatures.json](./112373-sea-creatures.json) |
 | Sea Dogs: Caribbean Tales | 51868 | [51868-sea-dogs-caribbean-tales.json](./51868-sea-dogs-caribbean-tales.json) |
@@ -3228,6 +3229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SGS Pacific D-Day | 197415 | [197415-sgs-pacific-d-day.json](./197415-sgs-pacific-d-day.json) |
 | SGS Taipings | 230923 | [230923-sgs-taipings.json](./230923-sgs-taipings.json) |
 | SGS We The People | 388972 | [388972-sgs-we-the-people.json](./388972-sgs-we-the-people.json) |
+| Sh*thead | 292748 | [292748-sh-thead.json](./292748-sh-thead.json) |
 | Sha Beast Dressage | 371269 | [371269-sha-beast-dressage.json](./371269-sha-beast-dressage.json) |
 | Shaberu! DS Cooking Navi | 345570 | [345570-shaberu-ds-cooking-navi.json](./345570-shaberu-ds-cooking-navi.json) |
 | Shachibato! President, It's Time for Battle! Maju Wars | 145520 | [145520-shachibato-president-its-time-for-battle-maju-wars.json](./145520-shachibato-president-its-time-for-battle-maju-wars.json) |
@@ -6096,6 +6098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skulls of the Shogun: Bone-A-Fide Edition | 51906 | [51906-skulls-of-the-shogun-bone-a-fide-edition.json](./51906-skulls-of-the-shogun-bone-a-fide-edition.json) |
 | SkullSP | 329973 | [329973-skullsp.json](./329973-skullsp.json) |
 | Skullstone | 26885 | [26885-skullstone.json](./26885-skullstone.json) |
+| Skulltide | 292756 | [292756-skulltide.json](./292756-skulltide.json) |
 | Skulltiverse | 259662 | [259662-skulltiverse.json](./259662-skulltiverse.json) |
 | Skulltiverse II | 388719 | [388719-skulltiverse-ii.json](./388719-skulltiverse-ii.json) |
 | Skully | 133902 | [133902-skully.json](./133902-skully.json) |
@@ -6846,6 +6849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slow Rise | 267066 | [267066-slow-rise.json](./267066-slow-rise.json) |
 | Slow.Bullet VR | 392797 | [392797-slow-bullet-vr.json](./392797-slow-bullet-vr.json) |
 | SlowAndSteady.io | 313322 | [313322-slowandsteady-io.json](./313322-slowandsteady-io.json) |
+| Slowburn | 292762 | [292762-slowburn.json](./292762-slowburn.json) |
 | Słowica | 214508 | [214508-s-owica.json](./214508-s-owica.json) |
 | Slowly | 140553 | [140553-slowly.json](./140553-slowly.json) |
 | Slowly Fighter | 333926 | [333926-slowly-fighter.json](./333926-slowly-fighter.json) |
@@ -13083,6 +13087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Poetry | 333954 | [333954-stellar-poetry.json](./333954-stellar-poetry.json) |
 | Stellar Propeller | 211788 | [211788-stellar-propeller.json](./211788-stellar-propeller.json) |
 | Stellar Raiders | 373172 | [373172-stellar-raiders.json](./373172-stellar-raiders.json) |
+| Stellar Reflections | 292770 | [292770-stellar-reflections.json](./292770-stellar-reflections.json) |
 | Stellar Renegades | 179699 | [179699-stellar-renegades.json](./179699-stellar-renegades.json) |
 | Stellar Rescue | 134423 | [134423-stellar-rescue.json](./134423-stellar-rescue.json) |
 | Stellar Return | 311275 | [311275-stellar-return.json](./311275-stellar-return.json) |
@@ -13492,6 +13497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storebound | 331151 | [331151-storebound.json](./331151-storebound.json) |
 | Storefront | 376481 | [376481-storefront.json](./376481-storefront.json) |
 | Storia Stories | 257115 | [257115-storia-stories.json](./257115-storia-stories.json) |
+| Stories | 292753 | [292753-stories.json](./292753-stories.json) |
 | Stories of Somnia | 353378 | [353378-stories-of-somnia.json](./353378-stories-of-somnia.json) |
 | Stories of Submission: Enter the Cuck | 163943 | [163943-stories-of-submission-enter-the-cuck.json](./163943-stories-of-submission-enter-the-cuck.json) |
 | Stories of the Dreaming World | 303009 | [303009-stories-of-the-dreaming-world.json](./303009-stories-of-the-dreaming-world.json) |
