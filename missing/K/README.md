@@ -822,6 +822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keisan Game: Sansuu 3-nen | 58880 | [58880-keisan-game-sansuu-3-nen.json](./58880-keisan-game-sansuu-3-nen.json) |
 | Keisan Game: Sansuu 4-nen | 58871 | [58871-keisan-game-sansuu-4-nen.json](./58871-keisan-game-sansuu-4-nen.json) |
 | Keisan Game: Sansuu 5+6-nen | 58870 | [58870-keisan-game-sansuu-5-6-nen.json](./58870-keisan-game-sansuu-5-6-nen.json) |
+| Keitai Shoujo | 290102 | [290102-keitai-shoujo.json](./290102-keitai-shoujo.json) |
 | Keitai Shoujo: Koi+Hime - Koi ni Ochita Cinderella-hime | 292148 | [292148-keitai-shoujo-koi-hime-koi-ni-ochita-cinderella-hime.json](./292148-keitai-shoujo-koi-hime-koi-ni-ochita-cinderella-hime.json) |
 | Keith Courage in Alpha Zones | 42122 | [42122-keith-courage-in-alpha-zones.json](./42122-keith-courage-in-alpha-zones.json) |
 | Keith Van Eron's Pro Soccer | 15264 | [15264-keith-van-erons-pro-soccer.json](./15264-keith-van-erons-pro-soccer.json) |
