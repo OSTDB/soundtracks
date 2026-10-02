@@ -2975,6 +2975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Words to Speak With | 176782 | [176782-no-words-to-speak-with.json](./176782-no-words-to-speak-with.json) |
 | No Worries | 286065 | [286065-no-worries.json](./286065-no-worries.json) |
 | No-brainer! Heroes | 134655 | [134655-no-brainer-heroes.json](./134655-no-brainer-heroes.json) |
+| No-Hi | 311204 | [311204-no-hi.json](./311204-no-hi.json) |
 | No-Snake Hotel | 198375 | [198375-no-snake-hotel.json](./198375-no-snake-hotel.json) |
 | No, Birdie, No! | 128640 | [128640-no-birdie-no.json](./128640-no-birdie-no.json) |
 | No, Human | 93503 | [93503-no-human.json](./93503-no-human.json) |
