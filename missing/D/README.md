@@ -5701,7 +5701,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doll | 97852 | [97852-doll.json](./97852-doll.json) |
 | Doll Date | 395202 | [395202-doll-date.json](./395202-doll-date.json) |
 | Doll Defenders | 293622 | [293622-doll-defenders.json](./293622-doll-defenders.json) |
+| Doll Dress Up: Classy DLC | 317938 | [317938-doll-dress-up-classy-dlc.json](./317938-doll-dress-up-classy-dlc.json) |
 | Doll Dress Up: Classy Edition | 332510 | [332510-doll-dress-up-classy-edition.json](./332510-doll-dress-up-classy-edition.json) |
+| Doll Dress Up: Cute DLC | 317939 | [317939-doll-dress-up-cute-dlc.json](./317939-doll-dress-up-cute-dlc.json) |
 | Doll Explorer Prologue | 151658 | [151658-doll-explorer-prologue.json](./151658-doll-explorer-prologue.json) |
 | Doll INC | 346690 | [346690-doll-inc.json](./346690-doll-inc.json) |
 | Doll Parts | 347793 | [347793-doll-parts.json](./347793-doll-parts.json) |
