@@ -210,6 +210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sadness of Valor | 159070 | [159070-sadness-of-valor.json](./159070-sadness-of-valor.json) |
 | Sadoubu (Tea Ceremony Club) | 82946 | [82946-sadoubu-tea-ceremony-club.json](./82946-sadoubu-tea-ceremony-club.json) |
 | Sae | 276177 | [276177-sae.json](./276177-sae.json) |
+| Safari | 305470 | [305470-safari.json](./305470-safari.json) |
 | Safari Adventures | 205836 | [205836-safari-adventures.json](./205836-safari-adventures.json) |
 | Safari Arena: Wildlife Arcade Fighter | 102821 | [102821-safari-arena-wildlife-arcade-fighter.json](./102821-safari-arena-wildlife-arcade-fighter.json) |
 | Safari Cannon | 190108 | [190108-safari-cannon.json](./190108-safari-cannon.json) |
@@ -6441,6 +6442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleep Swimmer | 298645 | [298645-sleep-swimmer.json](./298645-sleep-swimmer.json) |
 | Sleep Terror | 292309 | [292309-sleep-terror.json](./292309-sleep-terror.json) |
 | Sleep Tight | 144258 | [144258-sleep-tight.json](./144258-sleep-tight.json) |
+| Sleep Walker | 305471 | [305471-sleep-walker.json](./305471-sleep-walker.json) |
 | Sleep: H Now | 264072 | [264072-sleep-h-now.json](./264072-sleep-h-now.json) |
 | Sleeper Cell | 139369 | [139369-sleeper-cell.json](./139369-sleeper-cell.json) |
 | Sleepfall | 175280 | [175280-sleepfall.json](./175280-sleepfall.json) |
@@ -8287,6 +8289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonak | 356648 | [356648-sonak.json](./356648-sonak.json) |
 | Sonar Beat | 113841 | [113841-sonar-beat.json](./113841-sonar-beat.json) |
 | Sonata Theory | 155028 | [155028-sonata-theory.json](./155028-sonata-theory.json) |
+| Sonatina | 305474 | [305474-sonatina.json](./305474-sonatina.json) |
 | Sonder: Lights of Little Tokyo | 219589 | [219589-sonder-lights-of-little-tokyo.json](./219589-sonder-lights-of-little-tokyo.json) |
 | Song Animals | 116101 | [116101-song-animals.json](./116101-song-animals.json) |
 | Song by the Sea | 207238 | [207238-song-by-the-sea.json](./207238-song-by-the-sea.json) |
@@ -17002,6 +17005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushido vs. Zombies | 76523 | [76523-sushido-vs-zombies.json](./76523-sushido-vs-zombies.json) |
 | Sushininjarobot TD | 345038 | [345038-sushininjarobot-td.json](./345038-sushininjarobot-td.json) |
 | SushiParty2 | 124238 | [124238-sushiparty2.json](./124238-sushiparty2.json) |
+| Suske en Wiske: De Texas Rakkers | 305432 | [305432-suske-en-wiske-de-texas-rakkers.json](./305432-suske-en-wiske-de-texas-rakkers.json) |
 | Suspect: The Run! | 235143 | [235143-suspect-the-run.json](./235143-suspect-the-run.json) |
 | Suspecto | 374193 | [374193-suspecto.json](./374193-suspecto.json) |
 | Suspects: Mystery Mansion | 143591 | [143591-suspects-mystery-mansion.json](./143591-suspects-mystery-mansion.json) |
