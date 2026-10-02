@@ -956,6 +956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ranma ½: Chougi Ranbu-hen | 42739 | [42739-ranma-1-2-chougi-ranbu-hen.json](./42739-ranma-1-2-chougi-ranbu-hen.json) |
 | Ranma ½: Chounai Gekitou-hen | 75857 | [75857-ranma-1-2-chounai-gekitou-hen.json](./75857-ranma-1-2-chounai-gekitou-hen.json) |
 | Ranma ½: Datou, Ganso Musabetsu Kakutou-ryuu! | 75858 | [75858-ranma-1-2-datou-ganso-musabetsu-kakutou-ryuu.json](./75858-ranma-1-2-datou-ganso-musabetsu-kakutou-ryuu.json) |
+| Ranocta | 292239 | [292239-ranocta.json](./292239-ranocta.json) |
 | Ransomware Dating Sim | 124221 | [124221-ransomware-dating-sim.json](./124221-ransomware-dating-sim.json) |
 | Rantou Proresu | 83211 | [83211-rantou-proresu.json](./83211-rantou-proresu.json) |
 | Ranveer vs. Wild With Bear Grylls | 256869 | [256869-ranveer-vs-wild-with-bear-grylls.json](./256869-ranveer-vs-wild-with-bear-grylls.json) |
@@ -1927,6 +1928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Embrace | 86440 | [86440-red-embrace.json](./86440-red-embrace.json) |
 | Red Embrace: Hollywood | 110753 | [110753-red-embrace-hollywood.json](./110753-red-embrace-hollywood.json) |
 | Red Embrace: Paradisus | 186332 | [186332-red-embrace-paradisus.json](./186332-red-embrace-paradisus.json) |
+| Red End | 292233 | [292233-red-end.json](./292233-red-end.json) |
 | Red Entity | 181917 | [181917-red-entity.json](./181917-red-entity.json) |
 | Red Eyes | 103195 | [103195-red-eyes.json](./103195-red-eyes.json) |
 | Red Faction | 215080 | [215080-red-faction.json](./215080-red-faction.json) |
@@ -2365,6 +2367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rejudgement: ReBlessZwei | 193949 | [193949-rejudgement-reblesszwei.json](./193949-rejudgement-reblesszwei.json) |
 | Rejuvan | 302966 | [302966-rejuvan.json](./302966-rejuvan.json) |
 | Rekea: GOTY Edition | 181333 | [181333-rekea-goty-edition.json](./181333-rekea-goty-edition.json) |
+| Rekesh Gaal | 292232 | [292232-rekesh-gaal.json](./292232-rekesh-gaal.json) |
 | Rekindled Trails | 342079 | [342079-rekindled-trails.json](./342079-rekindled-trails.json) |
 | Rekindling The Flame | 276833 | [276833-rekindling-the-flame.json](./276833-rekindling-the-flame.json) |
 | Rekkr | 105118 | [105118-rekkr.json](./105118-rekkr.json) |
@@ -5020,6 +5023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Mate | 406201 | [406201-rogue-mate.json](./406201-rogue-mate.json) |
 | Rogue Monster Rush | 325523 | [325523-rogue-monster-rush.json](./325523-rogue-monster-rush.json) |
 | Rogue Monster Theolodorus | 335283 | [335283-rogue-monster-theolodorus.json](./335283-rogue-monster-theolodorus.json) |
+| Rogue Night | 292266 | [292266-rogue-night.json](./292266-rogue-night.json) |
 | Rogue North | 151132 | [151132-rogue-north.json](./151132-rogue-north.json) |
 | Rogue Nova | 270926 | [270926-rogue-nova.json](./270926-rogue-nova.json) |
 | Rogue of the Multiverse | 216241 | [216241-rogue-of-the-multiverse.json](./216241-rogue-of-the-multiverse.json) |
@@ -5062,6 +5066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Tank | 235849 | [235849-rogue-tank.json](./235849-rogue-tank.json) |
 | Rogue Tides | 275706 | [275706-rogue-tides.json](./275706-rogue-tides.json) |
 | Rogue Titan | 312132 | [312132-rogue-titan.json](./312132-rogue-titan.json) |
+| Rogue Trooper | 292227 | [292227-rogue-trooper.json](./292227-rogue-trooper.json) |
 | Rogue Trooper Redux: Collector's Edition | 154524 | [154524-rogue-trooper-redux-collectors-edition.json](./154524-rogue-trooper-redux-collectors-edition.json) |
 | Rogue Trooper: Quartz Zone Massacre | 21262 | [21262-rogue-trooper-quartz-zone-massacre.json](./21262-rogue-trooper-quartz-zone-massacre.json) |
 | Rogue Valley | 236910 | [236910-rogue-valley.json](./236910-rogue-valley.json) |
@@ -5477,6 +5482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roomba Out! | 302143 | [302143-roomba-out.json](./302143-roomba-out.json) |
 | Roomba Rail Rider | 302144 | [302144-roomba-rail-rider.json](./302144-roomba-rail-rider.json) |
 | Roombo: First Blood | 114015 | [114015-roombo-first-blood.json](./114015-roombo-first-blood.json) |
+| Roomka | 292231 | [292231-roomka.json](./292231-roomka.json) |
 | Roomli | 203363 | [203363-roomli.json](./203363-roomli.json) |
 | Roommates | 297205 | [297205-roommates.json](./297205-roommates.json) |
 | Roommates with Benefits | 313802 | [313802-roommates-with-benefits.json](./313802-roommates-with-benefits.json) |
@@ -6100,6 +6106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run For Cover | 117655 | [117655-run-for-cover.json](./117655-run-for-cover.json) |
 | Run for Love | 180747 | [180747-run-for-love.json](./180747-run-for-love.json) |
 | Run for Money Tousouchuu | 141123 | [141123-run-for-money-tousouchuu.json](./141123-run-for-money-tousouchuu.json) |
+| Run for the Bus | 292264 | [292264-run-for-the-bus.json](./292264-run-for-the-bus.json) |
 | Run Forrest Run | 305912 | [305912-run-forrest-run.json](./305912-run-forrest-run.json) |
 | Run Foxy, Run! | 224543 | [224543-run-foxy-run.json](./224543-run-foxy-run.json) |
 | Run from Bubol Horror | 359990 | [359990-run-from-bubol-horror.json](./359990-run-from-bubol-horror.json) |
