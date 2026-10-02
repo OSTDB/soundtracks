@@ -1850,6 +1850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Heart Heard Of, Ghost Guessed | 230389 | [230389-what-heart-heard-of-ghost-guessed.json](./230389-what-heart-heard-of-ghost-guessed.json) |
 | What I left behind | 184054 | [184054-what-i-left-behind.json](./184054-what-i-left-behind.json) |
 | What if Adventure Time was a 3D Anime | 234038 | [234038-what-if-adventure-time-was-a-3d-anime.json](./234038-what-if-adventure-time-was-a-3d-anime.json) |
+| What If Your Girl Was a Frog 2 | 292772 | [292772-what-if-your-girl-was-a-frog-2.json](./292772-what-if-your-girl-was-a-frog-2.json) |
 | What Is Death? | 390187 | [390187-what-is-death.json](./390187-what-is-death.json) |
 | What Is Love?: Vol. 1 | 203921 | [203921-what-is-love-vol-1.json](./203921-what-is-love-vol-1.json) |
 | What is My Name | 305538 | [305538-what-is-my-name.json](./305538-what-is-my-name.json) |
@@ -2339,6 +2340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whiteverse: No Country for Old Men | 121690 | [121690-whiteverse-no-country-for-old-men.json](./121690-whiteverse-no-country-for-old-men.json) |
 | WhiteWash | 370774 | [370774-whitewash.json](./370774-whitewash.json) |
 | Whitewater Rapids | 205838 | [205838-whitewater-rapids.json](./205838-whitewater-rapids.json) |
+| Whiz Kid | 292783 | [292783-whiz-kid.json](./292783-whiz-kid.json) |
 | Whiz Racer | 180031 | [180031-whiz-racer.json](./180031-whiz-racer.json) |
 | Whizz | 12825 | [12825-whizz.json](./12825-whizz.json) |
 | Who Am I: The Tale of Dorothy | 96654 | [96654-who-am-i-the-tale-of-dorothy.json](./96654-who-am-i-the-tale-of-dorothy.json) |
