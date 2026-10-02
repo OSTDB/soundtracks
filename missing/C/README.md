@@ -2577,6 +2577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Century: Wishbringer Pack | 340566 | [340566-century-wishbringer-pack.json](./340566-century-wishbringer-pack.json) |
 | CEO | 179515 | [179515-ceo.json](./179515-ceo.json) |
 | CEO City | 316287 | [316287-ceo-city.json](./316287-ceo-city.json) |
+| CEO Sim: Cyberpunk | 290634 | [290634-ceo-sim-cyberpunk.json](./290634-ceo-sim-cyberpunk.json) |
 | Cepheus Protocol | 127246 | [127246-cepheus-protocol.json](./127246-cepheus-protocol.json) |
 | Cepheus Protocol: Project Fenrir | 281986 | [281986-cepheus-protocol-project-fenrir.json](./281986-cepheus-protocol-project-fenrir.json) |
 | Ceradin | 126041 | [126041-ceradin.json](./126041-ceradin.json) |
@@ -4932,6 +4933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click To Eleven | 298656 | [298656-click-to-eleven.json](./298656-click-to-eleven.json) |
 | Click to Obsolete | 413167 | [413167-click-to-obsolete.json](./413167-click-to-obsolete.json) |
 | Click to Sail | 218703 | [218703-click-to-sail.json](./218703-click-to-sail.json) |
+| Click To Ten 3D | 290616 | [290616-click-to-ten-3d.json](./290616-click-to-ten-3d.json) |
 | Click Tycoon | 125196 | [125196-click-tycoon.json](./125196-click-tycoon.json) |
 | Click Your Crush! | 154363 | [154363-click-your-crush.json](./154363-click-your-crush.json) |
 | Click Your Poison: Infected | 193717 | [193717-click-your-poison-infected.json](./193717-click-your-poison-infected.json) |
@@ -7318,6 +7320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Miners | 345655 | [345655-cosmic-miners.json](./345655-cosmic-miners.json) |
 | Cosmic Mirage | 297100 | [297100-cosmic-mirage.json](./297100-cosmic-mirage.json) |
 | Cosmic Monsters 2 Enclaves Dawn | 195264 | [195264-cosmic-monsters-2-enclaves-dawn.json](./195264-cosmic-monsters-2-enclaves-dawn.json) |
+| Cosmic Paradox: Noire | 290621 | [290621-cosmic-paradox-noire.json](./290621-cosmic-paradox-noire.json) |
 | Cosmic Payback | 318230 | [318230-cosmic-payback.json](./318230-cosmic-payback.json) |
 | Cosmic Pioneer | 38986 | [38986-cosmic-pioneer.json](./38986-cosmic-pioneer.json) |
 | Cosmic Pool | 238404 | [238404-cosmic-pool.json](./238404-cosmic-pool.json) |
