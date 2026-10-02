@@ -3104,6 +3104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chemical Plant Raid | 335461 | [335461-chemical-plant-raid.json](./335461-chemical-plant-raid.json) |
 | Chemical Plant Worker Simulator | 364712 | [364712-chemical-plant-worker-simulator.json](./364712-chemical-plant-worker-simulator.json) |
 | Chemist Tycoon | 66959 | [66959-chemist-tycoon.json](./66959-chemist-tycoon.json) |
+| Chemist Wanted | 311211 | [311211-chemist-wanted.json](./311211-chemist-wanted.json) |
 | Chemistower | 342864 | [342864-chemistower.json](./342864-chemistower.json) |
 | Chemistry World | 207333 | [207333-chemistry-world.json](./207333-chemistry-world.json) |
 | Cheney Wood the Ultimate Revenge | 111499 | [111499-cheney-wood-the-ultimate-revenge.json](./111499-cheney-wood-the-ultimate-revenge.json) |
@@ -5789,6 +5790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorful | 212229 | [212229-colorful.json](./212229-colorful.json) |
 | Colorful Adventures Bundle | 283190 | [283190-colorful-adventures-bundle.json](./283190-colorful-adventures-bundle.json) |
 | Colorful Critter | 218144 | [218144-colorful-critter.json](./218144-colorful-critter.json) |
+| Colorful Ghost | 311165 | [311165-colorful-ghost.json](./311165-colorful-ghost.json) |
 | Colorful Life | 30178 | [30178-colorful-life.json](./30178-colorful-life.json) |
 | Colorful Life Simulator | 316646 | [316646-colorful-life-simulator.json](./316646-colorful-life-simulator.json) |
 | Colorful Logic | 221273 | [221273-colorful-logic.json](./221273-colorful-logic.json) |
@@ -8118,6 +8120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Wheel Rider HD | 213395 | [213395-crazy-wheel-rider-hd.json](./213395-crazy-wheel-rider-hd.json) |
 | Crazy Wheels | 103161 | [103161-crazy-wheels.json](./103161-crazy-wheels.json) |
 | Crazy World of Caleb | 302946 | [302946-crazy-world-of-caleb.json](./302946-crazy-world-of-caleb.json) |
+| Crazy World of Caleb: Level 1 to 7 | 311190 | [311190-crazy-world-of-caleb-level-1-to-7.json](./311190-crazy-world-of-caleb-level-1-to-7.json) |
 | Crazy-Spy | 58772 | [58772-crazy-spy.json](./58772-crazy-spy.json) |
 | CrazyBus | 9077 | [9077-crazybus.json](./9077-crazybus.json) |
 | CrazyCar | 93612 | [93612-crazycar.json](./93612-crazycar.json) |
@@ -8714,6 +8717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowded Blue Dot | 168636 | [168636-crowded-blue-dot.json](./168636-crowded-blue-dot.json) |
 | Crowded Dungeon Crawler | 182993 | [182993-crowded-dungeon-crawler.json](./182993-crowded-dungeon-crawler.json) |
 | Crowded Mysteries 2: Winter Romance | 320334 | [320334-crowded-mysteries-2-winter-romance.json](./320334-crowded-mysteries-2-winter-romance.json) |
+| Crowded. Followed. | 311200 | [311200-crowded-followed.json](./311200-crowded-followed.json) |
 | Crowfall | 1126 | [1126-crowfall.json](./1126-crowfall.json) |
 | Crowhille: Detective Case Files VR | 151064 | [151064-crowhille-detective-case-files-vr.json](./151064-crowhille-detective-case-files-vr.json) |
 | CrowKart | 165443 | [165443-crowkart.json](./165443-crowkart.json) |
