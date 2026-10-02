@@ -1958,6 +1958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel of Fortune | 194569 | [194569-wheel-of-fortune.json](./194569-wheel-of-fortune.json) |
 | Wheel of Fortune | 198964 | [198964-wheel-of-fortune.json](./198964-wheel-of-fortune.json) |
 | Wheel of Fortune | 220131 | [220131-wheel-of-fortune.json](./220131-wheel-of-fortune.json) |
+| Wheel of Fortune | 287301 | [287301-wheel-of-fortune.json](./287301-wheel-of-fortune.json) |
 | Wheel of Fortune | 37183 | [37183-wheel-of-fortune.json](./37183-wheel-of-fortune.json) |
 | Wheel of Fortune | 70959 | [70959-wheel-of-fortune.json](./70959-wheel-of-fortune.json) |
 | Wheel of Fortune Cartridge #1 | 198965 | [198965-wheel-of-fortune-cartridge-1.json](./198965-wheel-of-fortune-cartridge-1.json) |
@@ -2756,6 +2757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Willy Jetman: Astromonkey's Revenge - Sweeper's Edition | 139831 | [139831-willy-jetman-astromonkeys-revenge-sweepers-edition.json](./139831-willy-jetman-astromonkeys-revenge-sweepers-edition.json) |
 | Willy Morgan and the Curse of Bone Town | 133429 | [133429-willy-morgan-and-the-curse-of-bone-town.json](./133429-willy-morgan-and-the-curse-of-bone-town.json) |
 | Willy the Worm | 69897 | [69897-willy-the-worm.json](./69897-willy-the-worm.json) |
+| Willy Wabbit & His Magical Books | 287320 | [287320-willy-wabbit-and-his-magical-books.json](./287320-willy-wabbit-and-his-magical-books.json) |
 | Willy's Adventure | 375458 | [375458-willys-adventure.json](./375458-willys-adventure.json) |
 | Willy's Wonderland: The Game | 287697 | [287697-willys-wonderland-the-game.json](./287697-willys-wonderland-the-game.json) |
 | Wilmot Works It Out | 314431 | [314431-wilmot-works-it-out.json](./314431-wilmot-works-it-out.json) |
