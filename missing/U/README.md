@@ -845,6 +845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undercat | 158579 | [158579-undercat.json](./158579-undercat.json) |
 | Underchoice | 386844 | [386844-underchoice.json](./386844-underchoice.json) |
 | Undercity of Sin | 380547 | [380547-undercity-of-sin.json](./380547-undercity-of-sin.json) |
+| Undercook | 324972 | [324972-undercook.json](./324972-undercook.json) |
 | Undercore: The Tale of Hardcore | 50503 | [50503-undercore-the-tale-of-hardcore.json](./50503-undercore-the-tale-of-hardcore.json) |
 | Undercover | 321997 | [321997-undercover.json](./321997-undercover.json) |
 | Undercover | 403189 | [403189-undercover.json](./403189-undercover.json) |
@@ -917,6 +918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underswap: Nuts in Bolts Don't Actually | 183991 | [183991-underswap-nuts-in-bolts-dont-actually.json](./183991-underswap-nuts-in-bolts-dont-actually.json) |
 | Underswap: The Reckoning | 329667 | [329667-underswap-the-reckoning.json](./329667-underswap-the-reckoning.json) |
 | Undertale 2 | 178026 | [178026-undertale-2.json](./178026-undertale-2.json) |
+| Undertale 3D | 324938 | [324938-undertale-3d.json](./324938-undertale-3d.json) |
 | Undertale Hard Mode: Director's Cut | 364600 | [364600-undertale-hard-mode-directors-cut.json](./364600-undertale-hard-mode-directors-cut.json) |
 | Undertale Patience | 307154 | [307154-undertale-patience.json](./307154-undertale-patience.json) |
 | Undertale Plus | 329655 | [329655-undertale-plus.json](./329655-undertale-plus.json) |
