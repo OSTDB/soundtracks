@@ -2323,6 +2323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifted | 309518 | [309518-lifted.json](./309518-lifted.json) |
 | Lifting Journey | 115431 | [115431-lifting-journey.json](./115431-lifting-journey.json) |
 | Lifting Unlimited | 302109 | [302109-lifting-unlimited.json](./302109-lifting-unlimited.json) |
+| Liftlands | 284567 | [284567-liftlands.json](./284567-liftlands.json) |
 | Liftoff Inc. | 410396 | [410396-liftoff-inc.json](./410396-liftoff-inc.json) |
 | Liftoff: Drone Racing - Deluxe Edition | 139829 | [139829-liftoff-drone-racing-deluxe-edition.json](./139829-liftoff-drone-racing-deluxe-edition.json) |
 | Liga do Tempo | 290086 | [290086-liga-do-tempo.json](./290086-liga-do-tempo.json) |
