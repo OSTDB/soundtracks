@@ -2698,6 +2698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 8th Son? A.R. | 243087 | [243087-the-8th-son-a-r.json](./243087-the-8th-son-a-r.json) |
 | The A-Team | 200146 | [200146-the-a-team.json](./200146-the-a-team.json) |
 | The A-Team | 200147 | [200147-the-a-team.json](./200147-the-a-team.json) |
+| The Abandoned House | 321441 | [321441-the-abandoned-house.json](./321441-the-abandoned-house.json) |
 | The Abandoned House in Yeongdeok | 399073 | [399073-the-abandoned-house-in-yeongdeok.json](./399073-the-abandoned-house-in-yeongdeok.json) |
 | The Abandoned Levels | 396418 | [396418-the-abandoned-levels.json](./396418-the-abandoned-levels.json) |
 | The Abbey | 17628 | [17628-the-abbey.json](./17628-the-abbey.json) |
@@ -4132,6 +4133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Devilry Reservation: Сhapter II | 263036 | [263036-the-devilry-reservation-hapter-ii.json](./263036-the-devilry-reservation-hapter-ii.json) |
 | The Devils: A Visual Novel of WWII | 192381 | [192381-the-devils-a-visual-novel-of-wwii.json](./192381-the-devils-a-visual-novel-of-wwii.json) |
 | The Devilz Work | 315512 | [315512-the-devilz-work.json](./315512-the-devilz-work.json) |
+| The Devious Four Chronicles 8: Goddess Robes | 321461 | [321461-the-devious-four-chronicles-8-goddess-robes.json](./321461-the-devious-four-chronicles-8-goddess-robes.json) |
 | The Devourer: Hunted Souls | 238626 | [238626-the-devourer-hunted-souls.json](./238626-the-devourer-hunted-souls.json) |
 | The Dew | 55273 | [55273-the-dew.json](./55273-the-dew.json) |
 | The Diamond Adventures | 377218 | [377218-the-diamond-adventures.json](./377218-the-diamond-adventures.json) |
@@ -6238,6 +6240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Goddess of Wisdom | 275308 | [275308-the-legend-of-zelda-goddess-of-wisdom.json](./275308-the-legend-of-zelda-goddess-of-wisdom.json) |
 | The Legend of Zelda: Hall of the Dead | 323367 | [323367-the-legend-of-zelda-hall-of-the-dead.json](./323367-the-legend-of-zelda-hall-of-the-dead.json) |
 | The Legend of Zelda: Hard Awakening DX | 217837 | [217837-the-legend-of-zelda-hard-awakening-dx.json](./217837-the-legend-of-zelda-hard-awakening-dx.json) |
+| The Legend of Zelda: Horn of Balance | 321447 | [321447-the-legend-of-zelda-horn-of-balance.json](./321447-the-legend-of-zelda-horn-of-balance.json) |
 | The Legend of Zelda: Journey of a Day | 269848 | [269848-the-legend-of-zelda-journey-of-a-day.json](./269848-the-legend-of-zelda-journey-of-a-day.json) |
 | The Legend of Zelda: Just Beginning | 324079 | [324079-the-legend-of-zelda-just-beginning.json](./324079-the-legend-of-zelda-just-beginning.json) |
 | The Legend of Zelda: King of Thieves | 322646 | [322646-the-legend-of-zelda-king-of-thieves.json](./322646-the-legend-of-zelda-king-of-thieves.json) |
@@ -7197,6 +7200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outpost | 156055 | [156055-the-outpost.json](./156055-the-outpost.json) |
 | The Outskirts | 412394 | [412394-the-outskirts.json](./412394-the-outskirts.json) |
 | The Overlook Rehaunted | 276762 | [276762-the-overlook-rehaunted.json](./276762-the-overlook-rehaunted.json) |
+| The Overnight Watch | 321438 | [321438-the-overnight-watch.json](./321438-the-overnight-watch.json) |
 | The Overseer | 306445 | [306445-the-overseer.json](./306445-the-overseer.json) |
 | The Overtaken | 177822 | [177822-the-overtaken.json](./177822-the-overtaken.json) |
 | The Owl House: Witch's Apprentice | 297588 | [297588-the-owl-house-witchs-apprentice.json](./297588-the-owl-house-witchs-apprentice.json) |
@@ -10224,6 +10228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tic Tac | 362822 | [362822-tic-tac.json](./362822-tic-tac.json) |
 | Tic Tac Math Algebra | 109020 | [109020-tic-tac-math-algebra.json](./109020-tic-tac-math-algebra.json) |
 | Tic Tac Rogue | 376103 | [376103-tic-tac-rogue.json](./376103-tic-tac-rogue.json) |
+| Tic Tac Toe | 321433 | [321433-tic-tac-toe.json](./321433-tic-tac-toe.json) |
 | Tic Tac Toe 3D 2014 HD | 106744 | [106744-tic-tac-toe-3d-2014-hd.json](./106744-tic-tac-toe-3d-2014-hd.json) |
 | Tic Tac Toe Battle Royale | 180712 | [180712-tic-tac-toe-battle-royale.json](./180712-tic-tac-toe-battle-royale.json) |
 | Tic Tac Toe World | 387339 | [387339-tic-tac-toe-world.json](./387339-tic-tac-toe-world.json) |
@@ -11904,6 +11909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To:ri | 317222 | [317222-to-ri.json](./317222-to-ri.json) |
 | TO4: Tactical Operations | 74784 | [74784-to4-tactical-operations.json](./74784-to4-tactical-operations.json) |
 | Toad | 94345 | [94345-toad.json](./94345-toad.json) |
+| Toad and the Ancient Keys | 321449 | [321449-toad-and-the-ancient-keys.json](./321449-toad-and-the-ancient-keys.json) |
 | Toad in SMB1 | 198470 | [198470-toad-in-smb1.json](./198470-toad-in-smb1.json) |
 | Toad Line | 89701 | [89701-toad-line.json](./89701-toad-line.json) |
 | Toad on Fire | 139482 | [139482-toad-on-fire.json](./139482-toad-on-fire.json) |
@@ -12607,6 +12613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Gun: Hard Lock | 22915 | [22915-top-gun-hard-lock.json](./22915-top-gun-hard-lock.json) |
 | Top Gun: Hornet's Nest | 22912 | [22912-top-gun-hornets-nest.json](./22912-top-gun-hornets-nest.json) |
 | Top Gun: Wingman Edition | 206750 | [206750-top-gun-wingman-edition.json](./206750-top-gun-wingman-edition.json) |
+| Top Heroes | 321427 | [321427-top-heroes.json](./321427-top-heroes.json) |
 | Top Management II | 37785 | [37785-top-management-ii.json](./37785-top-management-ii.json) |
 | Top Model 3D | 84948 | [84948-top-model-3d.json](./84948-top-model-3d.json) |
 | Top Race | 236832 | [236832-top-race.json](./236832-top-race.json) |
