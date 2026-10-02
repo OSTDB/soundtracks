@@ -156,6 +156,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 Cent Classics: Shady Pack | 56451 | [56451-10-cent-classics-shady-pack.json](./56451-10-cent-classics-shady-pack.json) |
 | 10 Days to Save the World | 382905 | [382905-10-days-to-save-the-world.json](./382905-10-days-to-save-the-world.json) |
 | 10 Games | 319563 | [319563-10-games.json](./319563-10-games.json) |
+| 10 Gnomes 1: The Rooftops | 306567 | [306567-10-gnomes-1-the-rooftops.json](./306567-10-gnomes-1-the-rooftops.json) |
+| 10 Gnomes 2: Walk In the Park | 306570 | [306570-10-gnomes-2-walk-in-the-park.json](./306570-10-gnomes-2-walk-in-the-park.json) |
 | 10 Gnomes 3: Spring Garden March | 383480 | [383480-10-gnomes-3-spring-garden-march.json](./383480-10-gnomes-3-spring-garden-march.json) |
 | 10 Gnomes 4: Foggy Flat | 383484 | [383484-10-gnomes-4-foggy-flat.json](./383484-10-gnomes-4-foggy-flat.json) |
 | 10 Gnomes 5: the Shipyard | 383488 | [383488-10-gnomes-5-the-shipyard.json](./383488-10-gnomes-5-the-shipyard.json) |
