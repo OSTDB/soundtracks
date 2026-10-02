@@ -499,6 +499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Official AFL: The Interactive DVD Trivia Game - St Kilda Super Quiz | 275588 | [275588-official-afl-the-interactive-dvd-trivia-game-st-kilda-super-quiz.json](./275588-official-afl-the-interactive-dvd-trivia-game-st-kilda-super-quiz.json) |
 | Official AFL: The Interactive DVD Trivia Game - Sydney Swans Super Quiz | 275586 | [275586-official-afl-the-interactive-dvd-trivia-game-sydney-swans-super-quiz.json](./275586-official-afl-the-interactive-dvd-trivia-game-sydney-swans-super-quiz.json) |
 | Official AFL: The Interactive DVD Trivia Game - West Coast Eagles Super Quiz | 275587 | [275587-official-afl-the-interactive-dvd-trivia-game-west-coast-eagles-super-quiz.json](./275587-official-afl-the-interactive-dvd-trivia-game-west-coast-eagles-super-quiz.json) |
+| Official Spacefarer Card Game | 279863 | [279863-official-spacefarer-card-game.json](./279863-official-spacefarer-card-game.json) |
 | Offline | 216977 | [216977-offline.json](./216977-offline.json) |
 | Offline | 390174 | [390174-offline.json](./390174-offline.json) |
 | Offline Games | 330924 | [330924-offline-games.json](./330924-offline-games.json) |
@@ -1613,6 +1614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ontamarama | 21509 | [21509-ontamarama.json](./21509-ontamarama.json) |
 | Ontos | 381219 | [381219-ontos.json](./381219-ontos.json) |
 | Ontranto | 277955 | [277955-ontranto.json](./277955-ontranto.json) |
+| Onward and Upward! DX | 279852 | [279852-onward-and-upward-dx.json](./279852-onward-and-upward-dx.json) |
 | Onward to walls! | 176268 | [176268-onward-to-walls.json](./176268-onward-to-walls.json) |
 | oO | 35316 | [35316-oo.json](./35316-oo.json) |
 | Oo-Topos | 25611 | [25611-oo-topos.json](./25611-oo-topos.json) |
