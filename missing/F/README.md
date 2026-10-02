@@ -4845,6 +4845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgiveness RPG: The First Chapter - Part Three | 297539 | [297539-forgiveness-rpg-the-first-chapter-part-three.json](./297539-forgiveness-rpg-the-first-chapter-part-three.json) |
 | Forgiveness RPG: The First Chapter - Part Two | 294688 | [294688-forgiveness-rpg-the-first-chapter-part-two.json](./294688-forgiveness-rpg-the-first-chapter-part-two.json) |
 | Forgotten | 26702 | [26702-forgotten.json](./26702-forgotten.json) |
+| Forgotten 13 | 282838 | [282838-forgotten-13.json](./282838-forgotten-13.json) |
 | Forgotten 23 | 304661 | [304661-forgotten-23.json](./304661-forgotten-23.json) |
 | Forgotten Adventure | 101388 | [101388-forgotten-adventure.json](./101388-forgotten-adventure.json) |
 | Forgotten Blood | 404288 | [404288-forgotten-blood.json](./404288-forgotten-blood.json) |
@@ -4949,6 +4950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formation Z | 37190 | [37190-formation-z.json](./37190-formation-z.json) |
 | Former Future | 128452 | [128452-former-future.json](./128452-former-future.json) |
 | Formic Fortress | 405590 | [405590-formic-fortress.json](./405590-formic-fortress.json) |
+| Formidolosa Nocte | 282839 | [282839-formidolosa-nocte.json](./282839-formidolosa-nocte.json) |
 | Formino | 175411 | [175411-formino.json](./175411-formino.json) |
 | Formless Adventure | 44232 | [44232-formless-adventure.json](./44232-formless-adventure.json) |
 | Formless Star | 343872 | [343872-formless-star.json](./343872-formless-star.json) |
@@ -5925,6 +5927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frisbee Fumbling | 322553 | [322553-frisbee-fumbling.json](./322553-frisbee-fumbling.json) |
 | Frisia: Tales & Tides | 280303 | [280303-frisia-tales-and-tides.json](./280303-frisia-tales-and-tides.json) |
 | Frisky Business | 27986 | [27986-frisky-business.json](./27986-frisky-business.json) |
+| Frisky Tom | 282833 | [282833-frisky-tom.json](./282833-frisky-tom.json) |
 | Frisson | 197226 | [197226-frisson.json](./197226-frisson.json) |
 | Frisson | 288793 | [288793-frisson.json](./288793-frisson.json) |
 | Fritz & Chesster: Chess for Aliens | 356723 | [356723-fritz-and-chesster-chess-for-aliens.json](./356723-fritz-and-chesster-chess-for-aliens.json) |
@@ -5964,6 +5967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Frenzy | 87707 | [87707-frog-frenzy.json](./87707-frog-frenzy.json) |
 | Frog Golf | 202694 | [202694-frog-golf.json](./202694-frog-golf.json) |
 | Frog Heist | 342202 | [342202-frog-heist.json](./342202-frog-heist.json) |
+| Frog in a Blender | 282803 | [282803-frog-in-a-blender.json](./282803-frog-in-a-blender.json) |
 | Frog in the Fog | 393630 | [393630-frog-in-the-fog.json](./393630-frog-in-the-fog.json) |
 | Frog Jump | 273912 | [273912-frog-jump.json](./273912-frog-jump.json) |
 | Frog Jump | 351745 | [351745-frog-jump.json](./351745-frog-jump.json) |
@@ -6326,6 +6330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Switch | 265599 | [265599-fruit-switch.json](./265599-fruit-switch.json) |
 | Fruit Thieves | 183548 | [183548-fruit-thieves.json](./183548-fruit-thieves.json) |
 | Fruit Warrior AR | 241047 | [241047-fruit-warrior-ar.json](./241047-fruit-warrior-ar.json) |
+| Fruit-Fusion | 282807 | [282807-fruit-fusion.json](./282807-fruit-fusion.json) |
 | Fruitbearer | 389696 | [389696-fruitbearer.json](./389696-fruitbearer.json) |
 | Fruitimo! | 352216 | [352216-fruitimo.json](./352216-fruitimo.json) |
 | Fruitio | 294288 | [294288-fruitio.json](./294288-fruitio.json) |
