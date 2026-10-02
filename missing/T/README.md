@@ -551,6 +551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales Beyond the Tomb: No Witnesses | 407331 | [407331-tales-beyond-the-tomb-no-witnesses.json](./407331-tales-beyond-the-tomb-no-witnesses.json) |
 | Tales Beyond the Tomb: Route 86 | 362327 | [362327-tales-beyond-the-tomb-route-86.json](./362327-tales-beyond-the-tomb-route-86.json) |
 | Tales Beyond the Tomb: The Farm's Secret | 326746 | [326746-tales-beyond-the-tomb-the-farms-secret.json](./326746-tales-beyond-the-tomb-the-farms-secret.json) |
+| Tales Beyond the Tomb: The Last Vigil | 329762 | [329762-tales-beyond-the-tomb-the-last-vigil.json](./329762-tales-beyond-the-tomb-the-last-vigil.json) |
 | Tales for the Long Nights | 358461 | [358461-tales-for-the-long-nights.json](./358461-tales-for-the-long-nights.json) |
 | Tales from Ahrum | 175981 | [175981-tales-from-ahrum.json](./175981-tales-from-ahrum.json) |
 | Tales from Centropolis | 244239 | [244239-tales-from-centropolis.json](./244239-tales-from-centropolis.json) |
@@ -1897,6 +1898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempest Rising: The Vetis Wrath | 410968 | [410968-tempest-rising-the-vetis-wrath.json](./410968-tempest-rising-the-vetis-wrath.json) |
 | Tempest Tower | 327342 | [327342-tempest-tower.json](./327342-tempest-tower.json) |
 | Tempest X3 | 71878 | [71878-tempest-x3.json](./71878-tempest-x3.json) |
+| Tempest: Evolved | 329640 | [329640-tempest-evolved.json](./329640-tempest-evolved.json) |
 | Tempest: Treasure Lands | 151542 | [151542-tempest-treasure-lands.json](./151542-tempest-treasure-lands.json) |
 | Tempete sur les Bermudes | 310966 | [310966-tempete-sur-les-bermudes.json](./310966-tempete-sur-les-bermudes.json) |
 | Templar | 324332 | [324332-templar.json](./324332-templar.json) |
@@ -5791,6 +5793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lamplighters League | 240893 | [240893-the-lamplighters-league.json](./240893-the-lamplighters-league.json) |
 | The Land | 64929 | [64929-the-land.json](./64929-the-land.json) |
 | The Land Before Time | 69555 | [69555-the-land-before-time.json](./69555-the-land-before-time.json) |
+| The Land Before Time Animated MovieBook | 329643 | [329643-the-land-before-time-animated-moviebook.json](./329643-the-land-before-time-animated-moviebook.json) |
 | The Land Before Time: Activity Center | 229378 | [229378-the-land-before-time-activity-center.json](./229378-the-land-before-time-activity-center.json) |
 | The Land Before Time: Into the Mysterious Beyond | 49332 | [49332-the-land-before-time-into-the-mysterious-beyond.json](./49332-the-land-before-time-into-the-mysterious-beyond.json) |
 | The Land Before Time: Math Adventure | 329646 | [329646-the-land-before-time-math-adventure.json](./329646-the-land-before-time-math-adventure.json) |
@@ -6282,6 +6285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The LEGO Movie 2 Videogame | 112674 | [112674-the-lego-movie-2-videogame.json](./112674-the-lego-movie-2-videogame.json) |
 | The LEGO Movie 2 Videogame: Minifigure Edition | 139954 | [139954-the-lego-movie-2-videogame-minifigure-edition.json](./139954-the-lego-movie-2-videogame-minifigure-edition.json) |
 | The LEGO Movie 2 Videogame: Prophecy Pack | 375277 | [375277-the-lego-movie-2-videogame-prophecy-pack.json](./375277-the-lego-movie-2-videogame-prophecy-pack.json) |
+| The LEGO Movie Video Game | 329774 | [329774-the-lego-movie-video-game.json](./329774-the-lego-movie-video-game.json) |
 | The LEGO Movie Videogame | 4845 | [4845-the-lego-movie-videogame.json](./4845-the-lego-movie-videogame.json) |
 | The LEGO Ninjago Movie App | 88393 | [88393-the-lego-ninjago-movie-app.json](./88393-the-lego-ninjago-movie-app.json) |
 | The Lemonade | 258517 | [258517-the-lemonade.json](./258517-the-lemonade.json) |
@@ -8667,6 +8671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Three Stooges: Treasure Hunt Hijinks | 65184 | [65184-the-three-stooges-treasure-hunt-hijinks.json](./65184-the-three-stooges-treasure-hunt-hijinks.json) |
 | The Three Vegan Entrepreneurs | 376142 | [376142-the-three-vegan-entrepreneurs.json](./376142-the-three-vegan-entrepreneurs.json) |
 | The Three-Body Problem | 135694 | [135694-the-three-body-problem.json](./135694-the-three-body-problem.json) |
+| The Thrill of the Fight 2 | 329781 | [329781-the-thrill-of-the-fight-2.json](./329781-the-thrill-of-the-fight-2.json) |
 | The Throne | 144329 | [144329-the-throne.json](./144329-the-throne.json) |
 | The Throne | 302117 | [302117-the-throne.json](./302117-the-throne.json) |
 | The Throne of Bernicia | 191173 | [191173-the-throne-of-bernicia.json](./191173-the-throne-of-bernicia.json) |
@@ -9572,6 +9577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theos: Cities of Myth | 403819 | [403819-theos-cities-of-myth.json](./403819-theos-cities-of-myth.json) |
 | TheoTown | 109152 | [109152-theotown.json](./109152-theotown.json) |
 | Thera: Legacy of Great Torment | 356250 | [356250-thera-legacy-of-great-torment.json](./356250-thera-legacy-of-great-torment.json) |
+| Theralite | 329770 | [329770-theralite.json](./329770-theralite.json) |
 | Therapist Simulator | 336378 | [336378-therapist-simulator.json](./336378-therapist-simulator.json) |
 | Therapist: Mind Manager | 246116 | [246116-therapist-mind-manager.json](./246116-therapist-mind-manager.json) |
 | Therapy Simulator | 344444 | [344444-therapy-simulator.json](./344444-therapy-simulator.json) |
@@ -13239,6 +13245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Ba*bel | 362411 | [362411-tower-of-ba-bel.json](./362411-tower-of-ba-bel.json) |
 | Tower of Babel | 74349 | [74349-tower-of-babel.json](./74349-tower-of-babel.json) |
 | Tower of Babel: No Mercy | 129190 | [129190-tower-of-babel-no-mercy.json](./129190-tower-of-babel-no-mercy.json) |
+| Tower of Babel: Survivors of Chaos | 329785 | [329785-tower-of-babel-survivors-of-chaos.json](./329785-tower-of-babel-survivors-of-chaos.json) |
 | Tower of Boom | 179144 | [179144-tower-of-boom.json](./179144-tower-of-boom.json) |
 | Tower of Darkness | 217990 | [217990-tower-of-darkness.json](./217990-tower-of-darkness.json) |
 | Tower of Doom | 150499 | [150499-tower-of-doom.json](./150499-tower-of-doom.json) |
