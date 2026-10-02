@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's Ultimate Deer Hunt: Open Season | 45297 | [45297-cabelas-ultimate-deer-hunt-open-season.json](./45297-cabelas-ultimate-deer-hunt-open-season.json) |
 | Cabela's: The Hunt - Championship Edition | 110706 | [110706-cabelas-the-hunt-championship-edition.json](./110706-cabelas-the-hunt-championship-edition.json) |
 | Cabernet | 250803 | [250803-cabernet.json](./250803-cabernet.json) |
+| Cabin Corpse | 303718 | [303718-cabin-corpse.json](./303718-cabin-corpse.json) |
 | Cabin Crew Life Simulator | 302423 | [302423-cabin-crew-life-simulator.json](./302423-cabin-crew-life-simulator.json) |
 | Cabin Escape | 362984 | [362984-cabin-escape.json](./362984-cabin-escape.json) |
 | Cabin of Souls | 254002 | [254002-cabin-of-souls.json](./254002-cabin-of-souls.json) |
@@ -173,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cage Fight 3D | 220054 | [220054-cage-fight-3d.json](./220054-cage-fight-3d.json) |
 | Cage in My Head in My Cage in My Head in My | 389686 | [389686-cage-in-my-head-in-my-cage-in-my-head-in-my.json](./389686-cage-in-my-head-in-my-cage-in-my-head-in-my.json) |
 | Cage Me Not | 372631 | [372631-cage-me-not.json](./372631-cage-me-not.json) |
+| Cage of Roses | 303720 | [303720-cage-of-roses.json](./303720-cage-of-roses.json) |
 | Cage-Face: Case 2 - The Sewer | 193432 | [193432-cage-face-case-2-the-sewer.json](./193432-cage-face-case-2-the-sewer.json) |
 | Cagebreak | 60568 | [60568-cagebreak.json](./60568-cagebreak.json) |
 | Caged Bird Don't Fly Caught in a Wire Sing Like a Good Canary Come When Called | 122335 | [122335-caged-bird-dont-fly-caught-in-a-wire-sing-like-a-good-canary-come-when-called.json](./122335-caged-bird-dont-fly-caught-in-a-wire-sing-like-a-good-canary-come-when-called.json) |
@@ -228,12 +230,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cal Ripken Jr. Baseball | 46230 | [46230-cal-ripken-jr-baseball.json](./46230-cal-ripken-jr-baseball.json) |
 | Caladrius | 47482 | [47482-caladrius.json](./47482-caladrius.json) |
 | Calamari Clash | 127844 | [127844-calamari-clash.json](./127844-calamari-clash.json) |
+| Calamity | 303719 | [303719-calamity.json](./303719-calamity.json) |
 | Calamity | 364103 | [364103-calamity.json](./364103-calamity.json) |
 | Calamity Angels: Special Delivery - Digital Deluxe Edition | 391861 | [391861-calamity-angels-special-delivery-digital-deluxe-edition.json](./391861-calamity-angels-special-delivery-digital-deluxe-edition.json) |
 | Calamity Annie | 72689 | [72689-calamity-annie.json](./72689-calamity-annie.json) |
 | Calamity Black Dragon and the Princess of Lies | 365199 | [365199-calamity-black-dragon-and-the-princess-of-lies.json](./365199-calamity-black-dragon-and-the-princess-of-lies.json) |
 | Calamity Cait | 413806 | [413806-calamity-cait.json](./413806-calamity-cait.json) |
 | Calamity Creatures | 217266 | [217266-calamity-creatures.json](./217266-calamity-creatures.json) |
+| Calangos e Coxinhas | 303721 | [303721-calangos-e-coxinhas.json](./303721-calangos-e-coxinhas.json) |
 | Calavera: Day of the Dead - Collector's Edition | 28877 | [28877-calavera-day-of-the-dead-collectors-edition.json](./28877-calavera-day-of-the-dead-collectors-edition.json) |
 | Calciobit | 49522 | [49522-calciobit.json](./49522-calciobit.json) |
 | Calcium Chaos | 199353 | [199353-calcium-chaos.json](./199353-calcium-chaos.json) |
@@ -251,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calculator360 | 81236 | [81236-calculator360.json](./81236-calculator360.json) |
 | Caldera | 289385 | [289385-caldera.json](./289385-caldera.json) |
 | Caleria | 409017 | [409017-caleria.json](./409017-caleria.json) |
+| CaliaQuest | 303722 | [303722-caliaquest.json](./303722-caliaquest.json) |
 | Calibre 10 Racing | 30249 | [30249-calibre-10-racing.json](./30249-calibre-10-racing.json) |
 | Calico | 366427 | [366427-calico.json](./366427-calico.json) |
 | Calico & Co | 28793 | [28793-calico-and-co.json](./28793-calico-and-co.json) |
@@ -1794,6 +1799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casual Sport Series: Racket Sports Bundle | 396915 | [396915-casual-sport-series-racket-sports-bundle.json](./396915-casual-sport-series-racket-sports-bundle.json) |
 | Casual Trucking | 306097 | [306097-casual-trucking.json](./306097-casual-trucking.json) |
 | Cat | 309516 | [309516-cat.json](./309516-cat.json) |
+| Cat & Butterfly | 303725 | [303725-cat-and-butterfly.json](./303725-cat-and-butterfly.json) |
 | Cat & Friends Memory | 379975 | [379975-cat-and-friends-memory.json](./379975-cat-and-friends-memory.json) |
 | Cat & Gold | 272369 | [272369-cat-and-gold.json](./272369-cat-and-gold.json) |
 | Cat & Potat! | 178574 | [178574-cat-and-potat.json](./178574-cat-and-potat.json) |
@@ -2065,6 +2071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch the Wally - Hide & Seek | 108247 | [108247-catch-the-wally-hide-and-seek.json](./108247-catch-the-wally-hide-and-seek.json) |
 | Catch the Witch | 417503 | [417503-catch-the-witch.json](./417503-catch-the-witch.json) |
 | Catch Them If You Can | 215368 | [215368-catch-them-if-you-can.json](./215368-catch-them-if-you-can.json) |
+| Catch Thieves | 303726 | [303726-catch-thieves.json](./303726-catch-thieves.json) |
 | Catch You: 1 to 10 Player Stickman Hunting Game | 103660 | [103660-catch-you-1-to-10-player-stickman-hunting-game.json](./103660-catch-you-1-to-10-player-stickman-hunting-game.json) |
 | Catch Your Kitty | 129122 | [129122-catch-your-kitty.json](./129122-catch-your-kitty.json) |
 | Catch'em | 302138 | [302138-catchem.json](./302138-catchem.json) |
@@ -2099,6 +2106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caterzillar | 82950 | [82950-caterzillar.json](./82950-caterzillar.json) |
 | Catetris | 419899 | [419899-catetris.json](./419899-catetris.json) |
 | Catfender | 109871 | [109871-catfender.json](./109871-catfender.json) |
+| Catffee Time! | 303727 | [303727-catffee-time.json](./303727-catffee-time.json) |
 | Catfighter, In the Lands of Sinners | 374059 | [374059-catfighter-in-the-lands-of-sinners.json](./374059-catfighter-in-the-lands-of-sinners.json) |
 | CatFish - gotta fish them all! | 101110 | [101110-catfish-gotta-fish-them-all.json](./101110-catfish-gotta-fish-them-all.json) |
 | Catfishing Cuties | 181854 | [181854-catfishing-cuties.json](./181854-catfishing-cuties.json) |
@@ -2201,6 +2209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats vs Cthulhu | 327957 | [327957-cats-vs-cthulhu.json](./327957-cats-vs-cthulhu.json) |
 | Cats vs. Aliens | 295561 | [295561-cats-vs-aliens.json](./295561-cats-vs-aliens.json) |
 | Cats vs. Rats | 372029 | [372029-cats-vs-rats.json](./372029-cats-vs-rats.json) |
+| Cats War | 303723 | [303723-cats-war.json](./303723-cats-war.json) |
 | Cats Yakuza | 211961 | [211961-cats-yakuza.json](./211961-cats-yakuza.json) |
 | Cats-Shaped | 311608 | [311608-cats-shaped.json](./311608-cats-shaped.json) |
 | Cats! | 191548 | [191548-cats.json](./191548-cats.json) |
@@ -3517,6 +3526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chill Seekers | 267108 | [267108-chill-seekers.json](./267108-chill-seekers.json) |
 | Chill Town | 212814 | [212814-chill-town.json](./212814-chill-town.json) |
 | Chill X | 161260 | [161260-chill-x.json](./161260-chill-x.json) |
+| Chillax | 303724 | [303724-chillax.json](./303724-chillax.json) |
 | Chilled Chicken | 262421 | [262421-chilled-chicken.json](./262421-chilled-chicken.json) |
 | Chiller | 11727 | [11727-chiller.json](./11727-chiller.json) |
 | Chiller | 229644 | [229644-chiller.json](./229644-chiller.json) |
