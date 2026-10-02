@@ -394,6 +394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Gravity | 229795 | [229795-zero-gravity.json](./229795-zero-gravity.json) |
 | Zero Hour | 151730 | [151730-zero-hour.json](./151730-zero-hour.json) |
 | Zero Idle | 143604 | [143604-zero-idle.json](./143604-zero-idle.json) |
+| Zero Jikan he... | 329793 | [329793-zero-jikan-he.json](./329793-zero-jikan-he.json) |
 | Zero King | 293912 | [293912-zero-king.json](./293912-zero-king.json) |
 | Zero Lilium Bloom | 245871 | [245871-zero-lilium-bloom.json](./245871-zero-lilium-bloom.json) |
 | Zero Losses | 204544 | [204544-zero-losses.json](./204544-zero-losses.json) |
