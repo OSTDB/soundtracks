@@ -777,6 +777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggs: All Guns Broken | 316155 | [316155-eggs-all-guns-broken.json](./316155-eggs-all-guns-broken.json) |
 | Eggscape | 351688 | [351688-eggscape.json](./351688-eggscape.json) |
 | EggSort | 261316 | [261316-eggsort.json](./261316-eggsort.json) |
+| Eggsplosion | 304284 | [304284-eggsplosion.json](./304284-eggsplosion.json) |
 | Eggstinct! | 392254 | [392254-eggstinct.json](./392254-eggstinct.json) |
 | Eggstraction | 294300 | [294300-eggstraction.json](./294300-eggstraction.json) |
 | Eggular Game | 307310 | [307310-eggular-game.json](./307310-eggular-game.json) |
