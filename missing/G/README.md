@@ -3750,6 +3750,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto Online: The Diamond Casino & Resort | 239055 | [239055-grand-theft-auto-online-the-diamond-casino-and-resort.json](./239055-grand-theft-auto-online-the-diamond-casino-and-resort.json) |
 | Grand Theft Auto Online: The Diamond Casino Heist | 398950 | [398950-grand-theft-auto-online-the-diamond-casino-heist.json](./398950-grand-theft-auto-online-the-diamond-casino-heist.json) |
 | Grand Theft Auto PS Vita Collection | 99753 | [99753-grand-theft-auto-ps-vita-collection.json](./99753-grand-theft-auto-ps-vita-collection.json) |
+| Grand Theft Auto Tightened Thrice | 329629 | [329629-grand-theft-auto-tightened-thrice.json](./329629-grand-theft-auto-tightened-thrice.json) |
+| Grand Theft Auto Tightened Vice | 329628 | [329628-grand-theft-auto-tightened-vice.json](./329628-grand-theft-auto-tightened-vice.json) |
 | Grand Theft Auto V | 134709 | [134709-grand-theft-auto-v.json](./134709-grand-theft-auto-v.json) |
 | Grand Theft Auto V Enhanced | 334254 | [334254-grand-theft-auto-v-enhanced.json](./334254-grand-theft-auto-v-enhanced.json) |
 | Grand Theft Auto V Enhanced | 334647 | [334647-grand-theft-auto-v-enhanced.json](./334647-grand-theft-auto-v-enhanced.json) |
@@ -3799,6 +3801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandmaster Chess | 166075 | [166075-grandmaster-chess.json](./166075-grandmaster-chess.json) |
 | Grandmaster's Revenge | 215355 | [215355-grandmasters-revenge.json](./215355-grandmasters-revenge.json) |
 | Grandmother's Tale | 153872 | [153872-grandmothers-tale.json](./153872-grandmothers-tale.json) |
+| Grandpa | 329782 | [329782-grandpa.json](./329782-grandpa.json) |
 | Grandpa Rally | 255730 | [255730-grandpa-rally.json](./255730-grandpa-rally.json) |
 | Grandpa: The Horror Game | 99307 | [99307-grandpa-the-horror-game.json](./99307-grandpa-the-horror-game.json) |
 | Grandpa's House | 257900 | [257900-grandpas-house.json](./257900-grandpas-house.json) |
