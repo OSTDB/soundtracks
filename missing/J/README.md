@@ -1929,8 +1929,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Blob | 217840 | [217840-just-blob.json](./217840-just-blob.json) |
 | Just Button | 240160 | [240160-just-button.json](./240160-just-button.json) |
 | Just Cause | 1042 | [1042-just-cause.json](./1042-just-cause.json) |
+| Just Cause 2 - Black Market Boom Pack DLC | 288997 | [288997-just-cause-2-black-market-boom-pack-dlc.json](./288997-just-cause-2-black-market-boom-pack-dlc.json) |
+| Just Cause 2 DLC Collection | 289003 | [289003-just-cause-2-dlc-collection.json](./289003-just-cause-2-dlc-collection.json) |
+| Just Cause 2: Agency Hovercraft | 289001 | [289001-just-cause-2-agency-hovercraft.json](./289001-just-cause-2-agency-hovercraft.json) |
+| Just Cause 2: Black Market Aerial Pack DLC | 288996 | [288996-just-cause-2-black-market-aerial-pack-dlc.json](./288996-just-cause-2-black-market-aerial-pack-dlc.json) |
+| Just Cause 2: Bull's Eye Sniper Rifle | 288998 | [288998-just-cause-2-bulls-eye-sniper-rifle.json](./288998-just-cause-2-bulls-eye-sniper-rifle.json) |
+| Just Cause 2: Chevalier Classic | 289000 | [289000-just-cause-2-chevalier-classic.json](./289000-just-cause-2-chevalier-classic.json) |
 | Just Cause 2: Complete Edition | 186901 | [186901-just-cause-2-complete-edition.json](./186901-just-cause-2-complete-edition.json) |
+| Just Cause 2: Monster Truck DLC | 288995 | [288995-just-cause-2-monster-truck-dlc.json](./288995-just-cause-2-monster-truck-dlc.json) |
 | Just Cause 2: Multiplayer Mod | 93898 | [93898-just-cause-2-multiplayer-mod.json](./93898-just-cause-2-multiplayer-mod.json) |
+| Just Cause 2: Rico's Signature Gun DLC | 288999 | [288999-just-cause-2-ricos-signature-gun-dlc.json](./288999-just-cause-2-ricos-signature-gun-dlc.json) |
 | Just Cause 3: Mech Land Assault | 19855 | [19855-just-cause-3-mech-land-assault.json](./19855-just-cause-3-mech-land-assault.json) |
 | Just Cause 3: Sky Fortress | 18043 | [18043-just-cause-3-sky-fortress.json](./18043-just-cause-3-sky-fortress.json) |
 | Just Cause 3: XL Edition | 36448 | [36448-just-cause-3-xl-edition.json](./36448-just-cause-3-xl-edition.json) |
