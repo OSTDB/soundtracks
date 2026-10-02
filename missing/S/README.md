@@ -2057,6 +2057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Search and Rescue: Snowman From Outer Space | 301271 | [301271-search-and-rescue-snowman-from-outer-space.json](./301271-search-and-rescue-snowman-from-outer-space.json) |
 | Search and Rescue: Yosemite | 259063 | [259063-search-and-rescue-yosemite.json](./259063-search-and-rescue-yosemite.json) |
 | Search Dungeon Master | 313254 | [313254-search-dungeon-master.json](./313254-search-dungeon-master.json) |
+| Search Eye Plus V2.0 | 325521 | [325521-search-eye-plus-v2-0.json](./325521-search-eye-plus-v2-0.json) |
 | Search for the Secret Keys | 69885 | [69885-search-for-the-secret-keys.json](./69885-search-for-the-secret-keys.json) |
 | Search for the Titanic | 69849 | [69849-search-for-the-titanic.json](./69849-search-for-the-titanic.json) |
 | Search of the Stolen Crown Jewels | 143048 | [143048-search-of-the-stolen-crown-jewels.json](./143048-search-of-the-stolen-crown-jewels.json) |
@@ -2780,6 +2781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serbia '14 | 131997 | [131997-serbia-14.json](./131997-serbia-14.json) |
 | Serega Madness Pixel Adventures | 295276 | [295276-serega-madness-pixel-adventures.json](./295276-serega-madness-pixel-adventures.json) |
 | Serena | 14528 | [14528-serena.json](./14528-serena.json) |
+| Serena | 325536 | [325536-serena.json](./325536-serena.json) |
 | Serenade of the Sirens | 107411 | [107411-serenade-of-the-sirens.json](./107411-serenade-of-the-sirens.json) |
 | Serendipalette | 383655 | [383655-serendipalette.json](./383655-serendipalette.json) |
 | Serendipity Hotel | 190218 | [190218-serendipity-hotel.json](./190218-serendipity-hotel.json) |
@@ -3448,6 +3450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of Memory Ll | 348912 | [348912-shadows-of-memory-ll.json](./348912-shadows-of-memory-ll.json) |
 | Shadows of Midnight: They Watch Me Sleep | 347366 | [347366-shadows-of-midnight-they-watch-me-sleep.json](./347366-shadows-of-midnight-they-watch-me-sleep.json) |
 | Shadows of Mordor: Game two of Lord of the Rings | 10799 | [10799-shadows-of-mordor-game-two-of-lord-of-the-rings.json](./10799-shadows-of-mordor-game-two-of-lord-of-the-rings.json) |
+| Shadows of Progakko | 325542 | [325542-shadows-of-progakko.json](./325542-shadows-of-progakko.json) |
 | Shadows of Rogue: The Sorcerer's Curse | 272281 | [272281-shadows-of-rogue-the-sorcerers-curse.json](./272281-shadows-of-rogue-the-sorcerers-curse.json) |
 | Shadows of Soldiers | 264143 | [264143-shadows-of-soldiers.json](./264143-shadows-of-soldiers.json) |
 | Shadows of Steam | 328499 | [328499-shadows-of-steam.json](./328499-shadows-of-steam.json) |
@@ -5597,6 +5600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sintel: The Game | 61722 | [61722-sintel-the-game.json](./61722-sintel-the-game.json) |
 | Sintesoft 2.0 | 343319 | [343319-sintesoft-2-0.json](./343319-sintesoft-2-0.json) |
 | Sinthetic | 192805 | [192805-sinthetic.json](./192805-sinthetic.json) |
+| Sintopia | 325531 | [325531-sintopia.json](./325531-sintopia.json) |
 | Sintropia | 337161 | [337161-sintropia.json](./337161-sintropia.json) |
 | Sintropia Fruits Together | 388053 | [388053-sintropia-fruits-together.json](./388053-sintropia-fruits-together.json) |
 | Sinuca de Bar | 396479 | [396479-sinuca-de-bar.json](./396479-sinuca-de-bar.json) |
@@ -15946,6 +15950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Samurai Rampage | 54500 | [54500-super-samurai-rampage.json](./54500-super-samurai-rampage.json) |
 | Super Sangokushi | 42226 | [42226-super-sangokushi.json](./42226-super-sangokushi.json) |
 | Super Sans Race Running | 221710 | [221710-super-sans-race-running.json](./221710-super-sans-race-running.json) |
+| Super Sapiens | 325522 | [325522-super-sapiens.json](./325522-super-sapiens.json) |
 | Super Scary Cylinder | 390135 | [390135-super-scary-cylinder.json](./390135-super-scary-cylinder.json) |
 | Super Schwarzschild | 41996 | [41996-super-schwarzschild.json](./41996-super-schwarzschild.json) |
 | Super Science Friends | 77650 | [77650-super-science-friends.json](./77650-super-science-friends.json) |
