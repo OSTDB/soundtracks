@@ -1876,6 +1876,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Street 3 | 8266 | [8266-nfl-street-3.json](./8266-nfl-street-3.json) |
 | NFL Xtreme 2 | 43899 | [43899-nfl-xtreme-2.json](./43899-nfl-xtreme-2.json) |
 | Ngolf | 283259 | [283259-ngolf.json](./283259-ngolf.json) |
+| Ngolf: Colorful Golf Balls 2 | 300953 | [300953-ngolf-colorful-golf-balls-2.json](./300953-ngolf-colorful-golf-balls-2.json) |
+| Ngolf: Colorful Golf Balls 3 | 300954 | [300954-ngolf-colorful-golf-balls-3.json](./300954-ngolf-colorful-golf-balls-3.json) |
+| Ngolf: Colorful Golf Balls 4 | 300955 | [300955-ngolf-colorful-golf-balls-4.json](./300955-ngolf-colorful-golf-balls-4.json) |
+| Ngolf: Colorful Golf Balls 5 | 300956 | [300956-ngolf-colorful-golf-balls-5.json](./300956-ngolf-colorful-golf-balls-5.json) |
+| Ngolf: Colorful Golf Balls 6 | 300957 | [300957-ngolf-colorful-golf-balls-6.json](./300957-ngolf-colorful-golf-balls-6.json) |
 | Ngolf: Complete + | 324447 | [324447-ngolf-complete.json](./324447-ngolf-complete.json) |
 | NGolf: Complete Edition | 313152 | [313152-ngolf-complete-edition.json](./313152-ngolf-complete-edition.json) |
 | Ngolf: Definitive Edition | 309041 | [309041-ngolf-definitive-edition.json](./309041-ngolf-definitive-edition.json) |
@@ -1999,6 +2004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nickelodeon All-Star Brawl 2: Season Pass | 275618 | [275618-nickelodeon-all-star-brawl-2-season-pass.json](./275618-nickelodeon-all-star-brawl-2-season-pass.json) |
 | Nickelodeon All-Star Brawl 2: Stage Striking Mod | 330974 | [330974-nickelodeon-all-star-brawl-2-stage-striking-mod.json](./330974-nickelodeon-all-star-brawl-2-stage-striking-mod.json) |
 | Nickelodeon All-Star Brawl 2: The Elastic Waistband Costume | 315081 | [315081-nickelodeon-all-star-brawl-2-the-elastic-waistband-costume.json](./315081-nickelodeon-all-star-brawl-2-the-elastic-waistband-costume.json) |
+| Nickelodeon All-Star Brawl 2: Zuko Brawl Pack | 300929 | [300929-nickelodeon-all-star-brawl-2-zuko-brawl-pack.json](./300929-nickelodeon-all-star-brawl-2-zuko-brawl-pack.json) |
 | Nickelodeon All-Star Brawl: Hugh Neutron | 212790 | [212790-nickelodeon-all-star-brawl-hugh-neutron.json](./212790-nickelodeon-all-star-brawl-hugh-neutron.json) |
 | Nickelodeon All-Star Brawl: StageHazardRemoverMod | 330977 | [330977-nickelodeon-all-star-brawl-stagehazardremovermod.json](./330977-nickelodeon-all-star-brawl-stagehazardremovermod.json) |
 | Nickelodeon All-Star Brawl: Turbo Mode | 330975 | [330975-nickelodeon-all-star-brawl-turbo-mode.json](./330975-nickelodeon-all-star-brawl-turbo-mode.json) |
@@ -3863,6 +3869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyctophilia | 34424 | [34424-nyctophilia.json](./34424-nyctophilia.json) |
 | Nyctophobia: Fear the Dark | 285444 | [285444-nyctophobia-fear-the-dark.json](./285444-nyctophobia-fear-the-dark.json) |
 | Nyet | 94355 | [94355-nyet.json](./94355-nyet.json) |
+| Nyghtmare: The Ninth King | 300969 | [300969-nyghtmare-the-ninth-king.json](./300969-nyghtmare-the-ninth-king.json) |
 | Nyheim | 30113 | [30113-nyheim.json](./30113-nyheim.json) |
 | Nyjah Huston: #Skatelife | 105907 | [105907-nyjah-huston-skatelife.json](./105907-nyjah-huston-skatelife.json) |
 | Nykra | 102195 | [102195-nykra.json](./102195-nykra.json) |
