@@ -1029,6 +1029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Puzzle: OldHospital | 308947 | [308947-3d-puzzle-oldhospital.json](./308947-3d-puzzle-oldhospital.json) |
 | 3D Puzzle: OutPost | 308946 | [308946-3d-puzzle-outpost.json](./308946-3d-puzzle-outpost.json) |
 | 3D Puzzle: Pirates | 301037 | [301037-3d-puzzle-pirates.json](./301037-3d-puzzle-pirates.json) |
+| 3D Puzzle: Port | 309618 | [309618-3d-puzzle-port.json](./309618-3d-puzzle-port.json) |
 | 3D Puzzle: Post-Apocalyptic 3 | 280313 | [280313-3d-puzzle-post-apocalyptic-3.json](./280313-3d-puzzle-post-apocalyptic-3.json) |
 | 3D Puzzle: Rusty | 308945 | [308945-3d-puzzle-rusty.json](./308945-3d-puzzle-rusty.json) |
 | 3D Puzzle: Sun Temple | 308951 | [308951-3d-puzzle-sun-temple.json](./308951-3d-puzzle-sun-temple.json) |
