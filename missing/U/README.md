@@ -1024,6 +1024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unfabulous | 18306 | [18306-unfabulous.json](./18306-unfabulous.json) |
 | Unfair Flips | 367451 | [367451-unfair-flips.json](./367451-unfair-flips.json) |
 | Unfair Mario | 225008 | [225008-unfair-mario.json](./225008-unfair-mario.json) |
+| Unfair Rampage: Knightfall | 317293 | [317293-unfair-rampage-knightfall.json](./317293-unfair-rampage-knightfall.json) |
 | Unfair War: Survivors | 398394 | [398394-unfair-war-survivors.json](./398394-unfair-war-survivors.json) |
 | Unfated | 267672 | [267672-unfated.json](./267672-unfated.json) |
 | Unfated | 410974 | [410974-unfated.json](./410974-unfated.json) |
@@ -1466,6 +1467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untitled Car Game | 373018 | [373018-untitled-car-game.json](./373018-untitled-car-game.json) |
 | Untitled Dragon Age Game | 130891 | [130891-untitled-dragon-age-game.json](./130891-untitled-dragon-age-game.json) |
 | Untitled Dungeons & Dragons Game | 291609 | [291609-untitled-dungeons-and-dragons-game.json](./291609-untitled-dungeons-and-dragons-game.json) |
+| Untitled Experimental Platformer by KG | 316699 | [316699-untitled-experimental-platformer-by-kg.json](./316699-untitled-experimental-platformer-by-kg.json) |
 | Untitled Fallout Project | 410466 | [410466-untitled-fallout-project.json](./410466-untitled-fallout-project.json) |
 | Untitled Game | 180257 | [180257-untitled-game.json](./180257-untitled-game.json) |
 | Untitled Ghost Game | 222916 | [222916-untitled-ghost-game.json](./222916-untitled-ghost-game.json) |
@@ -1764,6 +1766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ustje | 379983 | [379983-ustje.json](./379983-ustje.json) |
 | Usual John | 105141 | [105141-usual-john.json](./105141-usual-john.json) |
 | Usual June | 279615 | [279615-usual-june.json](./279615-usual-june.json) |
+| Usurper Ghoul | 316688 | [316688-usurper-ghoul.json](./316688-usurper-ghoul.json) |
 | Usurper of Fire | 408035 | [408035-usurper-of-fire.json](./408035-usurper-of-fire.json) |
 | Usurper Reborn | 400414 | [400414-usurper-reborn.json](./400414-usurper-reborn.json) |
 | UT Adventure | 294861 | [294861-ut-adventure.json](./294861-ut-adventure.json) |
