@@ -517,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pamp Quest | 124181 | [124181-pamp-quest.json](./124181-pamp-quest.json) |
 | PamPam Kana Students | 390547 | [390547-pampam-kana-students.json](./390547-pampam-kana-students.json) |
 | Pampas & Selene: The Maze of Demons | 261813 | [261813-pampas-and-selene-the-maze-of-demons.json](./261813-pampas-and-selene-the-maze-of-demons.json) |
+| Pan | 294980 | [294980-pan.json](./294980-pan.json) |
 | Pan Beats | 311624 | [311624-pan-beats.json](./311624-pan-beats.json) |
 | Pan Panda | 110527 | [110527-pan-panda.json](./110527-pan-panda.json) |
 | Pan-Dimensional Conga Combat | 86253 | [86253-pan-dimensional-conga-combat.json](./86253-pan-dimensional-conga-combat.json) |
@@ -4011,7 +4012,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Girl | 109878 | [109878-pixel-girl.json](./109878-pixel-girl.json) |
 | Pixel Golf Club | 304836 | [304836-pixel-golf-club.json](./304836-pixel-golf-club.json) |
 | Pixel Gun 2 | 406834 | [406834-pixel-gun-2.json](./406834-pixel-gun-2.json) |
+| Pixel Gun 3D: Critical Strike Set | 294953 | [294953-pixel-gun-3d-critical-strike-set.json](./294953-pixel-gun-3d-critical-strike-set.json) |
+| Pixel Gun 3D: Dark Fire Set | 294954 | [294954-pixel-gun-3d-dark-fire-set.json](./294954-pixel-gun-3d-dark-fire-set.json) |
+| Pixel Gun 3D: Frost Dive Set | 294952 | [294952-pixel-gun-3d-frost-dive-set.json](./294952-pixel-gun-3d-frost-dive-set.json) |
 | Pixel Gun 3D: PC Edition | 261628 | [261628-pixel-gun-3d-pc-edition.json](./261628-pixel-gun-3d-pc-edition.json) |
+| Pixel Gun 3D: Poison Retro Set | 294955 | [294955-pixel-gun-3d-poison-retro-set.json](./294955-pixel-gun-3d-poison-retro-set.json) |
+| Pixel Gun 3D: RGB Hero Set | 294951 | [294951-pixel-gun-3d-rgb-hero-set.json](./294951-pixel-gun-3d-rgb-hero-set.json) |
 | Pixel Gun Battle | 370201 | [370201-pixel-gun-battle.json](./370201-pixel-gun-battle.json) |
 | Pixel Gun World | 307855 | [307855-pixel-gun-world.json](./307855-pixel-gun-world.json) |
 | Pixel Gunmen | 226772 | [226772-pixel-gunmen.json](./226772-pixel-gunmen.json) |
