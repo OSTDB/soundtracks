@@ -666,6 +666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hangman | 17259 | [17259-hangman.json](./17259-hangman.json) |
 | Hangman | 230850 | [230850-hangman.json](./230850-hangman.json) |
 | Hangman | 259633 | [259633-hangman.json](./259633-hangman.json) |
+| Hangman | 285157 | [285157-hangman.json](./285157-hangman.json) |
 | Hangman | 327217 | [327217-hangman.json](./327217-hangman.json) |
 | Hangman | 329790 | [329790-hangman.json](./329790-hangman.json) |
 | Hangman | 377831 | [377831-hangman.json](./377831-hangman.json) |
@@ -2763,6 +2764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heretic Red | 335279 | [335279-heretic-red.json](./335279-heretic-red.json) |
 | Heretic Treasure Chest | 260783 | [260783-heretic-treasure-chest.json](./260783-heretic-treasure-chest.json) |
 | Heretic's Fork: Abyssal Update | 320278 | [320278-heretics-fork-abyssal-update.json](./320278-heretics-fork-abyssal-update.json) |
+| Heretic's Fork: Inside The Fire | 285116 | [285116-heretics-fork-inside-the-fire.json](./285116-heretics-fork-inside-the-fire.json) |
 | Heretic’s Fork: Probation | 251822 | [251822-heretic-s-fork-probation.json](./251822-heretic-s-fork-probation.json) |
 | Heretic's Fork: The Savior's Descent | 320280 | [320280-heretics-fork-the-saviors-descent.json](./320280-heretics-fork-the-saviors-descent.json) |
 | Heretic's Hope | 216329 | [216329-heretics-hope.json](./216329-heretics-hope.json) |
@@ -3763,6 +3765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highreach | 348331 | [348331-highreach.json](./348331-highreach.json) |
 | Highrise | 292832 | [292832-highrise.json](./292832-highrise.json) |
 | Highrise City | 147440 | [147440-highrise-city.json](./147440-highrise-city.json) |
+| Highrise City: Metro & Planes | 285117 | [285117-highrise-city-metro-and-planes.json](./285117-highrise-city-metro-and-planes.json) |
 | Highrise Heroes | 241342 | [241342-highrise-heroes.json](./241342-highrise-heroes.json) |
 | HighSchool Simulator Battle | 297631 | [297631-highschool-simulator-battle.json](./297631-highschool-simulator-battle.json) |
 | Highschool53 | 280340 | [280340-highschool53.json](./280340-highschool53.json) |
