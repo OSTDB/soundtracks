@@ -5716,6 +5716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roxy Raccoon's Pinball Panic: Retro Revival | 289863 | [289863-roxy-raccoons-pinball-panic-retro-revival.json](./289863-roxy-raccoons-pinball-panic-retro-revival.json) |
 | Roxy Raccoon's Pinball Panic: St. Patrick's Paradise | 241315 | [241315-roxy-raccoons-pinball-panic-st-patricks-paradise.json](./241315-roxy-raccoons-pinball-panic-st-patricks-paradise.json) |
 | Roxy Raccoon's Pinball Panic: Steampunk Stories | 337470 | [337470-roxy-raccoons-pinball-panic-steampunk-stories.json](./337470-roxy-raccoons-pinball-panic-steampunk-stories.json) |
+| Roxy Raccoon's Pinball Panic: Tabletop Terror | 298258 | [298258-roxy-raccoons-pinball-panic-tabletop-terror.json](./298258-roxy-raccoons-pinball-panic-tabletop-terror.json) |
 | Roxy Raccoon's Pinball Panic: Thanksgiving Throwdown | 276178 | [276178-roxy-raccoons-pinball-panic-thanksgiving-throwdown.json](./276178-roxy-raccoons-pinball-panic-thanksgiving-throwdown.json) |
 | Roxy Raccoon's Pinball Panic: Tropical Treats | 311789 | [311789-roxy-raccoons-pinball-panic-tropical-treats.json](./311789-roxy-raccoons-pinball-panic-tropical-treats.json) |
 | Roxy Raccoon's Pinball Panic: Wicked Warfare | 252980 | [252980-roxy-raccoons-pinball-panic-wicked-warfare.json](./252980-roxy-raccoons-pinball-panic-wicked-warfare.json) |
