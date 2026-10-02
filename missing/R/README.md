@@ -6116,6 +6116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run and Gun | 283765 | [283765-run-and-gun.json](./283765-run-and-gun.json) |
 | Run and Hunt: Skeleton Rebellion | 298642 | [298642-run-and-hunt-skeleton-rebellion.json](./298642-run-and-hunt-skeleton-rebellion.json) |
 | Run and Jump Little Vico | 152727 | [152727-run-and-jump-little-vico.json](./152727-run-and-jump-little-vico.json) |
+| Run and Retry | 279902 | [279902-run-and-retry.json](./279902-run-and-retry.json) |
 | Run Away | 172041 | [172041-run-away.json](./172041-run-away.json) |
 | Run away 2 | 100598 | [100598-run-away-2.json](./100598-run-away-2.json) |
 | Run Away SkyDancer | 307726 | [307726-run-away-skydancer.json](./307726-run-away-skydancer.json) |
@@ -6298,6 +6299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runion | 25735 | [25735-runion.json](./25735-runion.json) |
 | RunNCrush | 259044 | [259044-runncrush.json](./259044-runncrush.json) |
 | Runner | 172059 | [172059-runner.json](./172059-runner.json) |
+| Runner | 279890 | [279890-runner.json](./279890-runner.json) |
 | Runner | 84538 | [84538-runner.json](./84538-runner.json) |
 | Runner Bear | 307074 | [307074-runner-bear.json](./307074-runner-bear.json) |
 | Runner Coaster | 220055 | [220055-runner-coaster.json](./220055-runner-coaster.json) |
