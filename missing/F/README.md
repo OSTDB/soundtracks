@@ -3306,6 +3306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fit My Dog: Dog's Puzzle Pack 1 | 316230 | [316230-fit-my-dog-dogs-puzzle-pack-1.json](./316230-fit-my-dog-dogs-puzzle-pack-1.json) |
 | Fit My Dog: Dog's Puzzle Pack 2 | 316229 | [316229-fit-my-dog-dogs-puzzle-pack-2.json](./316229-fit-my-dog-dogs-puzzle-pack-2.json) |
 | Fit My Dog: Dog's Puzzle Pack 3 | 316228 | [316228-fit-my-dog-dogs-puzzle-pack-3.json](./316228-fit-my-dog-dogs-puzzle-pack-3.json) |
+| Fit My Zoo | 304799 | [304799-fit-my-zoo.json](./304799-fit-my-zoo.json) |
 | Fit My Zoo: Complete + | 328820 | [328820-fit-my-zoo-complete.json](./328820-fit-my-zoo-complete.json) |
 | Fit My Zoo: Zoo's Puzzle Pack 1 | 308811 | [308811-fit-my-zoo-zoos-puzzle-pack-1.json](./308811-fit-my-zoo-zoos-puzzle-pack-1.json) |
 | Fit My Zoo: Zoo's Puzzle Pack 2 | 308812 | [308812-fit-my-zoo-zoos-puzzle-pack-2.json](./308812-fit-my-zoo-zoos-puzzle-pack-2.json) |
@@ -6029,6 +6030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From Salt to Sugar | 212803 | [212803-from-salt-to-sugar.json](./212803-from-salt-to-sugar.json) |
 | From Scratch | 287199 | [287199-from-scratch.json](./287199-from-scratch.json) |
 | From Space: Operation Clear Skies | 277590 | [277590-from-space-operation-clear-skies.json](./277590-from-space-operation-clear-skies.json) |
+| From Space: Resistance Bundle | 304801 | [304801-from-space-resistance-bundle.json](./304801-from-space-resistance-bundle.json) |
 | From the Age of Dinosaurs to the Edo Period: Tokio no Meiro - By Gentaro Kagawa | 396908 | [396908-from-the-age-of-dinosaurs-to-the-edo-period-tokio-no-meiro-by-gentaro-kagawa.json](./396908-from-the-age-of-dinosaurs-to-the-edo-period-tokio-no-meiro-by-gentaro-kagawa.json) |
 | From the Ashes | 224243 | [224243-from-the-ashes.json](./224243-from-the-ashes.json) |
 | From the Darkness | 149716 | [149716-from-the-darkness.json](./149716-from-the-darkness.json) |
