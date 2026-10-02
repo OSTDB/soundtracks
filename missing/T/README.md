@@ -6619,6 +6619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lunar Effect | 144746 | [144746-the-lunar-effect.json](./144746-the-lunar-effect.json) |
 | The Lurking Fear | 374242 | [374242-the-lurking-fear.json](./374242-the-lurking-fear.json) |
 | The Lurking Horror | 12180 | [12180-the-lurking-horror.json](./12180-the-lurking-horror.json) |
+| The Lust City | 319070 | [319070-the-lust-city.json](./319070-the-lust-city.json) |
 | The Lustful Champion | 384753 | [384753-the-lustful-champion.json](./384753-the-lustful-champion.json) |
 | The m0rg VS keys | 93721 | [93721-the-m0rg-vs-keys.json](./93721-the-m0rg-vs-keys.json) |
 | The Machine | 79257 | [79257-the-machine.json](./79257-the-machine.json) |
@@ -11797,6 +11798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TKKG: Verrat an TKKG | 150019 | [150019-tkkg-verrat-an-tkkg.json](./150019-tkkg-verrat-an-tkkg.json) |
 | TKKG: Wer stoppt den Feuerteufel? | 158722 | [158722-tkkg-wer-stoppt-den-feuerteufel.json](./158722-tkkg-wer-stoppt-den-feuerteufel.json) |
 | Tkl Online | 36106 | [36106-tkl-online.json](./36106-tkl-online.json) |
+| Tlatoani | 319114 | [319114-tlatoani.json](./319114-tlatoani.json) |
 | Tlen Kray | 256810 | [256810-tlen-kray.json](./256810-tlen-kray.json) |
 | Tlicolity Eyes Vol. 1 | 116379 | [116379-tlicolity-eyes-vol-1.json](./116379-tlicolity-eyes-vol-1.json) |
 | Tlicolity Eyes Vol. 2 | 240520 | [240520-tlicolity-eyes-vol-2.json](./240520-tlicolity-eyes-vol-2.json) |
@@ -12600,6 +12602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Bowler | 172654 | [172654-top-bowler.json](./172654-top-bowler.json) |
 | Top Burger | 117102 | [117102-top-burger.json](./117102-top-burger.json) |
 | Top Check | 331986 | [331986-top-check.json](./331986-top-check.json) |
+| Top Classic Plaigarized | 319095 | [319095-top-classic-plaigarized.json](./319095-top-classic-plaigarized.json) |
 | Top Cop: Police Training | 393050 | [393050-top-cop-police-training.json](./393050-top-cop-police-training.json) |
 | Top Darts | 91918 | [91918-top-darts.json](./91918-top-darts.json) |
 | Top Dog | 213411 | [213411-top-dog.json](./213411-top-dog.json) |
@@ -15879,6 +15882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turmoil | 18559 | [18559-turmoil.json](./18559-turmoil.json) |
 | Turmoil | 19438 | [19438-turmoil.json](./19438-turmoil.json) |
 | Turmoil | 305530 | [305530-turmoil.json](./305530-turmoil.json) |
+| Turmoil: Deeper Underground | 319085 | [319085-turmoil-deeper-underground.json](./319085-turmoil-deeper-underground.json) |
 | Turmoil: The Heat Is On | 124826 | [124826-turmoil-the-heat-is-on.json](./124826-turmoil-the-heat-is-on.json) |
 | Turn | 82013 | [82013-turn.json](./82013-turn.json) |
 | Turn Around Turtle: Show and Tell | 206648 | [206648-turn-around-turtle-show-and-tell.json](./206648-turn-around-turtle-show-and-tell.json) |
@@ -16098,6 +16102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Tornado | 363889 | [363889-twin-tornado.json](./363889-twin-tornado.json) |
 | Twin Turbo V8 | 13042 | [13042-twin-turbo-v8.json](./13042-twin-turbo-v8.json) |
 | Twin Unconscious | 229657 | [229657-twin-unconscious.json](./229657-twin-unconscious.json) |
+| Twin-Stick Survivors | 319090 | [319090-twin-stick-survivors.json](./319090-twin-stick-survivors.json) |
 | TwinBee | 282650 | [282650-twinbee.json](./282650-twinbee.json) |
 | TwinBee | 282651 | [282651-twinbee.json](./282651-twinbee.json) |
 | TwinBee | 282652 | [282652-twinbee.json](./282652-twinbee.json) |
