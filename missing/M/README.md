@@ -5683,6 +5683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millionaire Manor, Robin's Quest, Escape the Lost Kingdom and the Hidden Object Show 2 | 209510 | [209510-millionaire-manor-robins-quest-escape-the-lost-kingdom-and-the-hidden-object-show-2.json](./209510-millionaire-manor-robins-quest-escape-the-lost-kingdom-and-the-hidden-object-show-2.json) |
 | Millionaire Obby | 401099 | [401099-millionaire-obby.json](./401099-millionaire-obby.json) |
 | Millipede | 198820 | [198820-millipede.json](./198820-millipede.json) |
+| Millipede: Evolved | 329641 | [329641-millipede-evolved.json](./329641-millipede-evolved.json) |
 | Millispeed | 351633 | [351633-millispeed.json](./351633-millispeed.json) |
 | Millistar Raiders | 223948 | [223948-millistar-raiders.json](./223948-millistar-raiders.json) |
 | Millivolt | 334155 | [334155-millivolt.json](./334155-millivolt.json) |
@@ -6554,6 +6555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missile Command | 239489 | [239489-missile-command.json](./239489-missile-command.json) |
 | Missile Command | 280782 | [280782-missile-command.json](./280782-missile-command.json) |
 | Missile Command 3D | 40810 | [40810-missile-command-3d.json](./40810-missile-command-3d.json) |
+| Missile Command: Evolved | 329635 | [329635-missile-command-evolved.json](./329635-missile-command-evolved.json) |
 | Missile Command: Recharged | 132154 | [132154-missile-command-recharged.json](./132154-missile-command-recharged.json) |
 | Missile Control | 13252 | [13252-missile-control.json](./13252-missile-control.json) |
 | Missile Input | 190477 | [190477-missile-input.json](./190477-missile-input.json) |
@@ -8959,6 +8961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Stretch and the Stolen Fortune | 249228 | [249228-mr-stretch-and-the-stolen-fortune.json](./249228-mr-stretch-and-the-stolen-fortune.json) |
 | Mr. Supershot | 274736 | [274736-mr-supershot.json](./274736-mr-supershot.json) |
 | Mr. Swop | 414572 | [414572-mr-swop.json](./414572-mr-swop.json) |
+| Mr. T-Shirt | 329769 | [329769-mr-t-shirt.json](./329769-mr-t-shirt.json) |
 | Mr. Tiny Adventures | 231848 | [231848-mr-tiny-adventures.json](./231848-mr-tiny-adventures.json) |
 | Mr. Transporter - Truck Driving Simulator | 88735 | [88735-mr-transporter-truck-driving-simulator.json](./88735-mr-transporter-truck-driving-simulator.json) |
 | Mr. Whiskers Bubbles | 385088 | [385088-mr-whiskers-bubbles.json](./385088-mr-whiskers-bubbles.json) |
