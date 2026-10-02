@@ -15,6 +15,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J. Lo: Fur Bully from the Block | 257407 | [257407-j-lo-fur-bully-from-the-block.json](./257407-j-lo-fur-bully-from-the-block.json) |
 | J.A.O.S.S | 83920 | [83920-j-a-o-s-s.json](./83920-j-a-o-s-s.json) |
 | J.B. Harold no Jikenbo: Kiss of Murder | 79622 | [79622-j-b-harold-no-jikenbo-kiss-of-murder.json](./79622-j-b-harold-no-jikenbo-kiss-of-murder.json) |
+| J.B. Harold no Jikenbo: Murder Club | 320845 | [320845-j-b-harold-no-jikenbo-murder-club.json](./320845-j-b-harold-no-jikenbo-murder-club.json) |
+| J.B. Harold: Murder Club | 320847 | [320847-j-b-harold-murder-club.json](./320847-j-b-harold-murder-club.json) |
 | J.D. Arcades | 319584 | [319584-j-d-arcades.json](./319584-j-d-arcades.json) |
 | J.League Big Wave Soccer | 65030 | [65030-j-league-big-wave-soccer.json](./65030-j-league-big-wave-soccer.json) |
 | J.League Dynamite Soccer 64 | 3519 | [3519-j-league-dynamite-soccer-64.json](./3519-j-league-dynamite-soccer-64.json) |
@@ -2055,6 +2057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juvenile God | 123562 | [123562-juvenile-god.json](./123562-juvenile-god.json) |
 | Juventus Club Football | 267879 | [267879-juventus-club-football.json](./267879-juventus-club-football.json) |
 | Juventus Club Football 2005 | 267900 | [267900-juventus-club-football-2005.json](./267900-juventus-club-football-2005.json) |
+| Juxtagram | 320838 | [320838-juxtagram.json](./320838-juxtagram.json) |
 | Juxtastat | 320740 | [320740-juxtastat.json](./320740-juxtastat.json) |
 | JWP Joshi Pro Wrestling: Pure Wrestle Queens | 38276 | [38276-jwp-joshi-pro-wrestling-pure-wrestle-queens.json](./38276-jwp-joshi-pro-wrestling-pure-wrestle-queens.json) |
 | Jyangokushi - Haoh No Saihai | 40217 | [40217-jyangokushi-haoh-no-saihai.json](./40217-jyangokushi-haoh-no-saihai.json) |
