@@ -634,6 +634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen: Town of Heritage and Makina the Blazing Hair | 82831 | [82831-fallen-town-of-heritage-and-makina-the-blazing-hair.json](./82831-fallen-town-of-heritage-and-makina-the-blazing-hair.json) |
 | Fallen's Challenge | 285467 | [285467-fallens-challenge.json](./285467-fallens-challenge.json) |
 | FallenCore | 75101 | [75101-fallencore.json](./75101-fallencore.json) |
+| Fallendom | 306576 | [306576-fallendom.json](./306576-fallendom.json) |
 | Fallenstar | 370904 | [370904-fallenstar.json](./370904-fallenstar.json) |
 | Fallfate: Impulsive Plinko | 385189 | [385189-fallfate-impulsive-plinko.json](./385189-fallfate-impulsive-plinko.json) |
 | Falling | 195501 | [195501-falling.json](./195501-falling.json) |
@@ -2389,6 +2390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy | 380632 | [380632-final-fantasy.json](./380632-final-fantasy.json) |
 | Final Fantasy | 408304 | [408304-final-fantasy.json](./408304-final-fantasy.json) |
 | Final Fantasy 25th Anniversary Ultimate Box | 282727 | [282727-final-fantasy-25th-anniversary-ultimate-box.json](./282727-final-fantasy-25th-anniversary-ultimate-box.json) |
+| Final Fantasy Adventure DX | 306591 | [306591-final-fantasy-adventure-dx.json](./306591-final-fantasy-adventure-dx.json) |
 | Final Fantasy Agito | 7400 | [7400-final-fantasy-agito.json](./7400-final-fantasy-agito.json) |
 | Final Fantasy Anthology | 146214 | [146214-final-fantasy-anthology.json](./146214-final-fantasy-anthology.json) |
 | Final Fantasy Anthology | 423 | [423-final-fantasy-anthology.json](./423-final-fantasy-anthology.json) |
