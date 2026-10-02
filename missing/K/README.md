@@ -312,6 +312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamitsubaki City Ensemble | 273635 | [273635-kamitsubaki-city-ensemble.json](./273635-kamitsubaki-city-ensemble.json) |
 | Kamitsubaki City Ensemble: Extension Pack No.5 feat. V.W.P | 324417 | [324417-kamitsubaki-city-ensemble-extension-pack-no-5-feat-v-w-p.json](./324417-kamitsubaki-city-ensemble-extension-pack-no-5-feat-v-w-p.json) |
 | Kamitsubaki City Ensemble: Extra Pack feat. V.I.P with V.W.P | 324418 | [324418-kamitsubaki-city-ensemble-extra-pack-feat-v-i-p-with-v-w-p.json](./324418-kamitsubaki-city-ensemble-extra-pack-feat-v-i-p-with-v-w-p.json) |
+| Kamitsubaki City Ensemble: Season Pass 2024 | 317292 | [317292-kamitsubaki-city-ensemble-season-pass-2024.json](./317292-kamitsubaki-city-ensemble-season-pass-2024.json) |
 | Kamitsubaki City Virtual Reality | 328261 | [328261-kamitsubaki-city-virtual-reality.json](./328261-kamitsubaki-city-virtual-reality.json) |
 | Kamiwaza Wanda | 222531 | [222531-kamiwaza-wanda.json](./222531-kamiwaza-wanda.json) |
 | Kamiwaza: Way of the Thief | 197545 | [197545-kamiwaza-way-of-the-thief.json](./197545-kamiwaza-way-of-the-thief.json) |
@@ -326,6 +327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kana Quest | 126495 | [126495-kana-quest.json](./126495-kana-quest.json) |
 | Kana Seito Defense | 324293 | [324293-kana-seito-defense.json](./324293-kana-seito-defense.json) |
 | Kana: Imouto | 56771 | [56771-kana-imouto.json](./56771-kana-imouto.json) |
+| Kanade | 317332 | [317332-kanade.json](./317332-kanade.json) |
 | Kanaete! Magical Star | 376684 | [376684-kanaete-magical-star.json](./376684-kanaete-magical-star.json) |
 | Kanako Enomoto Junk Brain Diagnosis | 209450 | [209450-kanako-enomoto-junk-brain-diagnosis.json](./209450-kanako-enomoto-junk-brain-diagnosis.json) |
 | Kanamono | 168215 | [168215-kanamono.json](./168215-kanamono.json) |
@@ -518,6 +520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karoshi Mario | 275323 | [275323-karoshi-mario.json](./275323-karoshi-mario.json) |
 | Karpar | 214750 | [214750-karpar.json](./214750-karpar.json) |
 | Karpatia: Order of the Comet | 257983 | [257983-karpatia-order-of-the-comet.json](./257983-karpatia-order-of-the-comet.json) |
+| Karpe Diem | 316132 | [316132-karpe-diem.json](./316132-karpe-diem.json) |
 | Karsus | 60620 | [60620-karsus.json](./60620-karsus.json) |
 | Kart Bros | 347246 | [347246-kart-bros.json](./347246-kart-bros.json) |
 | Kart Chaser: The Boost VR | 29686 | [29686-kart-chaser-the-boost-vr.json](./29686-kart-chaser-the-boost-vr.json) |
@@ -630,6 +633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kava Tina Story | 68020 | [68020-kava-tina-story.json](./68020-kava-tina-story.json) |
 | Kavalmaja | 128655 | [128655-kavalmaja.json](./128655-kavalmaja.json) |
 | Kaverini Nuuk Adventures | 153378 | [153378-kaverini-nuuk-adventures.json](./153378-kaverini-nuuk-adventures.json) |
+| Kavernum | 317329 | [317329-kavernum.json](./317329-kavernum.json) |
 | Kaves of Karkhan | 24845 | [24845-kaves-of-karkhan.json](./24845-kaves-of-karkhan.json) |
 | KaveXplorer | 157179 | [157179-kavexplorer.json](./157179-kavexplorer.json) |
 | Kavinsky | 60770 | [60770-kavinsky.json](./60770-kavinsky.json) |
@@ -1353,6 +1357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Todoke: Sodateru Omoi | 66964 | [66964-kimi-ni-todoke-sodateru-omoi.json](./66964-kimi-ni-todoke-sodateru-omoi.json) |
@@ -2978,6 +2983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuromaku | 391323 | [391323-kuromaku.json](./391323-kuromaku.json) |
 | Kuroneko-sou Souzoku Satsujin Jiken | 222910 | [222910-kuroneko-sou-souzoku-satsujin-jiken.json](./222910-kuroneko-sou-souzoku-satsujin-jiken.json) |
 | Kuros | 16059 | [16059-kuros.json](./16059-kuros.json) |
+| Kurragömma med Mumintrollen | 316156 | [316156-kurragomma-med-mumintrollen.json](./316156-kurragomma-med-mumintrollen.json) |
 | Kursk | 22793 | [22793-kursk.json](./22793-kursk.json) |
 | Kursk - Battle at Prochorovka | 29223 | [29223-kursk-battle-at-prochorovka.json](./29223-kursk-battle-at-prochorovka.json) |
 | Kurt '99: The Football Manager | 259518 | [259518-kurt-99-the-football-manager.json](./259518-kurt-99-the-football-manager.json) |
