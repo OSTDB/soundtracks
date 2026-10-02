@@ -1510,7 +1510,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Dimension of Insidual Cruelitude. | 218996 | [218996-adventures-in-the-dimension-of-insidual-cruelitude.json](./218996-adventures-in-the-dimension-of-insidual-cruelitude.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of Beetlejuice: Skeletons in the Closet | 50826 | [50826-adventures-of-beetlejuice-skeletons-in-the-closet.json](./50826-adventures-of-beetlejuice-skeletons-in-the-closet.json) |
 | Adventures of Ben: Rabbit Run | 248002 | [248002-adventures-of-ben-rabbit-run.json](./248002-adventures-of-ben-rabbit-run.json) |
@@ -4658,7 +4657,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Poly Puzzle: Sci-Fi Maidens | 266164 | [266164-anime-poly-puzzle-sci-fi-maidens.json](./266164-anime-poly-puzzle-sci-fi-maidens.json) |
 | Anime puzzle | 152764 | [152764-anime-puzzle.json](./152764-anime-puzzle.json) |
 | Anime Puzzle Quest: 32 Animal Girls in Puzzle /2 | 317953 | [317953-anime-puzzle-quest-32-animal-girls-in-puzzle-2.json](./317953-anime-puzzle-quest-32-animal-girls-in-puzzle-2.json) |
+| Anime Puzzle Quest: 33 Animal Girls in Puzzle | 317941 | [317941-anime-puzzle-quest-33-animal-girls-in-puzzle.json](./317941-anime-puzzle-quest-33-animal-girls-in-puzzle.json) |
+| Anime Puzzle Quest: 36 Girls in Puzzle | 317952 | [317952-anime-puzzle-quest-36-girls-in-puzzle.json](./317952-anime-puzzle-quest-36-girls-in-puzzle.json) |
 | Anime Puzzle Quest: Complete DLC Bundle | 317962 | [317962-anime-puzzle-quest-complete-dlc-bundle.json](./317962-anime-puzzle-quest-complete-dlc-bundle.json) |
+| Anime Puzzle Quest: Deluxe Edition | 317918 | [317918-anime-puzzle-quest-deluxe-edition.json](./317918-anime-puzzle-quest-deluxe-edition.json) |
 | Anime Quest: Mystic Maidens | 266169 | [266169-anime-quest-mystic-maidens.json](./266169-anime-quest-mystic-maidens.json) |
 | Anime Quiz Challenge | 405671 | [405671-anime-quiz-challenge.json](./405671-anime-quiz-challenge.json) |
 | Anime Rally | 326811 | [326811-anime-rally.json](./326811-anime-rally.json) |
@@ -5587,6 +5589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Ben Bero Beh | 144801 | [144801-arcade-archives-ben-bero-beh.json](./144801-arcade-archives-ben-bero-beh.json) |
 | Arcade Archives: Bermuda Triangle | 380694 | [380694-arcade-archives-bermuda-triangle.json](./380694-arcade-archives-bermuda-triangle.json) |
 | Arcade Archives: Blandia | 272855 | [272855-arcade-archives-blandia.json](./272855-arcade-archives-blandia.json) |
+| Arcade Archives: Blast Off | 317898 | [317898-arcade-archives-blast-off.json](./317898-arcade-archives-blast-off.json) |
 | Arcade Archives: Block Hole | 142854 | [142854-arcade-archives-block-hole.json](./142854-arcade-archives-block-hole.json) |
 | Arcade Archives: Bomb Jack Twin | 386364 | [386364-arcade-archives-bomb-jack-twin.json](./386364-arcade-archives-bomb-jack-twin.json) |
 | Arcade Archives: Bonze Adventure | 242553 | [242553-arcade-archives-bonze-adventure.json](./242553-arcade-archives-bonze-adventure.json) |
@@ -7522,6 +7525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari | 220069 | [220069-atari.json](./220069-atari.json) |
 | Atari | 220073 | [220073-atari.json](./220073-atari.json) |
 | Atari 4 Player Football | 250338 | [250338-atari-4-player-football.json](./250338-atari-4-player-football.json) |
+| Atari 50: The Anniversary Celebration - Digital Expanded Edition | 317917 | [317917-atari-50-the-anniversary-celebration-digital-expanded-edition.json](./317917-atari-50-the-anniversary-celebration-digital-expanded-edition.json) |
 | Atari 50: The First Console War | 317961 | [317961-atari-50-the-first-console-war.json](./317961-atari-50-the-first-console-war.json) |
 | Atari 50: The Namco Legendary Pack | 356570 | [356570-atari-50-the-namco-legendary-pack.json](./356570-atari-50-the-namco-legendary-pack.json) |
 | Atari 50: The Wider World of Atari | 317814 | [317814-atari-50-the-wider-world-of-atari.json](./317814-atari-50-the-wider-world-of-atari.json) |
