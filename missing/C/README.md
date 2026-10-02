@@ -6490,6 +6490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquistadorio | 258438 | [258438-conquistadorio.json](./258438-conquistadorio.json) |
 | Conrad Stevenson's Paranormal P.I. | 190151 | [190151-conrad-stevensons-paranormal-p-i.json](./190151-conrad-stevensons-paranormal-p-i.json) |
 | Conran: The Dinky Raccoon | 29086 | [29086-conran-the-dinky-raccoon.json](./29086-conran-the-dinky-raccoon.json) |
+| Conscience | 322058 | [322058-conscience.json](./322058-conscience.json) |
 | Conscript | 137619 | [137619-conscript.json](./137619-conscript.json) |
 | Conscript: Deluxe Edition | 308797 | [308797-conscript-deluxe-edition.json](./308797-conscript-deluxe-edition.json) |
 | Conscript: Golden Gun Pack | 332002 | [332002-conscript-golden-gun-pack.json](./332002-conscript-golden-gun-pack.json) |
@@ -8378,6 +8379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crispy Chicken Speedmap Session 5: Paint It Doom | 323912 | [323912-crispy-chicken-speedmap-session-5-paint-it-doom.json](./323912-crispy-chicken-speedmap-session-5-paint-it-doom.json) |
 | Criss Cross | 152756 | [152756-criss-cross.json](./152756-criss-cross.json) |
 | Criss Cross | 67520 | [67520-criss-cross.json](./67520-criss-cross.json) |
+| Criss Cross Bomb | 322064 | [322064-criss-cross-bomb.json](./322064-criss-cross-bomb.json) |
 | Cristal Absoluto | 411734 | [411734-cristal-absoluto.json](./411734-cristal-absoluto.json) |
 | Criteria | 326203 | [326203-criteria.json](./326203-criteria.json) |
 | Critias Empire | 197123 | [197123-critias-empire.json](./197123-critias-empire.json) |
