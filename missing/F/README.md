@@ -1008,6 +1008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Kingdom: Fantasy Tiny Forest | 219290 | [219290-fantasy-kingdom-fantasy-tiny-forest.json](./219290-fantasy-kingdom-fantasy-tiny-forest.json) |
 | Fantasy Knight | 400435 | [400435-fantasy-knight.json](./400435-fantasy-knight.json) |
 | Fantasy Land | 40333 | [40333-fantasy-land.json](./40333-fantasy-land.json) |
+| Fantasy Lands | 286790 | [286790-fantasy-lands.json](./286790-fantasy-lands.json) |
 | Fantasy Life | 214147 | [214147-fantasy-life.json](./214147-fantasy-life.json) |
 | Fantasy Life | 6770 | [6770-fantasy-life.json](./6770-fantasy-life.json) |
 | Fantasy Life i: The Girl Who Steals Time - Digital Deluxe Edition | 336364 | [336364-fantasy-life-i-the-girl-who-steals-time-digital-deluxe-edition.json](./336364-fantasy-life-i-the-girl-who-steals-time-digital-deluxe-edition.json) |
