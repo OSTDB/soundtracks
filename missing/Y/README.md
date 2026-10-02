@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakuza 2 Restored | 349856 | [349856-yakuza-2-restored.json](./349856-yakuza-2-restored.json) |
 | Yakuza 4 | 2062 | [2062-yakuza-4.json](./2062-yakuza-4.json) |
 | Yakuza 5 Remastered | 103017 | [103017-yakuza-5-remastered.json](./103017-yakuza-5-remastered.json) |
+| Yakuza GB | 301530 | [301530-yakuza-gb.json](./301530-yakuza-gb.json) |
 | Yakuza Kiss | 104130 | [104130-yakuza-kiss.json](./104130-yakuza-kiss.json) |
 | Yakuza Kiwami & Yakuza Kiwami 2 Bundle | 370796 | [370796-yakuza-kiwami-and-yakuza-kiwami-2-bundle.json](./370796-yakuza-kiwami-and-yakuza-kiwami-2-bundle.json) |
 | Yakuza Kiwami 2 | 55090 | [55090-yakuza-kiwami-2.json](./55090-yakuza-kiwami-2.json) |
