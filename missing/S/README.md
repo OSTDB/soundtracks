@@ -4980,6 +4980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization VI: John Riccitiello Pack | 277374 | [277374-sid-meiers-civilization-vi-john-riccitiello-pack.json](./277374-sid-meiers-civilization-vi-john-riccitiello-pack.json) |
 | Sid Meier's Civilization VI: Liyue & Inazuma Pack | 278439 | [278439-sid-meiers-civilization-vi-liyue-and-inazuma-pack.json](./278439-sid-meiers-civilization-vi-liyue-and-inazuma-pack.json) |
 | Sid Meier's Civilization VI: Mona Megistus Pack | 278742 | [278742-sid-meiers-civilization-vi-mona-megistus-pack.json](./278742-sid-meiers-civilization-vi-mona-megistus-pack.json) |
+| Sid Meier's Civilization VI: Mudrock Pack | 278635 | [278635-sid-meiers-civilization-vi-mudrock-pack.json](./278635-sid-meiers-civilization-vi-mudrock-pack.json) |
 | Sid Meier's Civilization VI: Yorha Squadron Pack | 276781 | [276781-sid-meiers-civilization-vi-yorha-squadron-pack.json](./276781-sid-meiers-civilization-vi-yorha-squadron-pack.json) |
 | Sid Meier's Civilization VII: Arcade Edition | 385294 | [385294-sid-meiers-civilization-vii-arcade-edition.json](./385294-sid-meiers-civilization-vii-arcade-edition.json) |
 | Sid Meier's Civilization VII: Brush and Blade Collection | 418585 | [418585-sid-meiers-civilization-vii-brush-and-blade-collection.json](./418585-sid-meiers-civilization-vii-brush-and-blade-collection.json) |
@@ -7196,6 +7197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smogland | 44095 | [44095-smogland.json](./44095-smogland.json) |
 | Smoke and Mirrors | 356784 | [356784-smoke-and-mirrors.json](./356784-smoke-and-mirrors.json) |
 | Smoke Break! | 344359 | [344359-smoke-break.json](./344359-smoke-break.json) |
+| Smoked Fish and Cabbage 2 | 278620 | [278620-smoked-fish-and-cabbage-2.json](./278620-smoked-fish-and-cabbage-2.json) |
 | Smoked Fish And Cabbage 3 | 328046 | [328046-smoked-fish-and-cabbage-3.json](./328046-smoked-fish-and-cabbage-3.json) |
 | Smokin' Guns - Shooting Gallery | 135854 | [135854-smokin-guns-shooting-gallery.json](./135854-smokin-guns-shooting-gallery.json) |
 | Smokin' Token | 58473 | [58473-smokin-token.json](./58473-smokin-token.json) |
@@ -9313,6 +9315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Wizards & Rogulite | 290933 | [290933-soul-wizards-and-rogulite.json](./290933-soul-wizards-and-rogulite.json) |
 | Soul Worker Rush | 193850 | [193850-soul-worker-rush.json](./193850-soul-worker-rush.json) |
 | Soul-Ivy: C0 | 110517 | [110517-soul-ivy-c0.json](./110517-soul-ivy-c0.json) |
+| Soul's Remnant | 278614 | [278614-souls-remnant.json](./278614-souls-remnant.json) |
 | Soul's Spectrum | 232974 | [232974-souls-spectrum.json](./232974-souls-spectrum.json) |
 | Soul's Spectrum: Awakening | 267110 | [267110-souls-spectrum-awakening.json](./267110-souls-spectrum-awakening.json) |
 | Souland | 76690 | [76690-souland.json](./76690-souland.json) |
@@ -11227,6 +11230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sport & Fun: Swimming - Director's Cut | 271834 | [271834-sport-and-fun-swimming-directors-cut.json](./271834-sport-and-fun-swimming-directors-cut.json) |
 | Sport & Fun: Swimming - Extended Edition | 246887 | [246887-sport-and-fun-swimming-extended-edition.json](./246887-sport-and-fun-swimming-extended-edition.json) |
 | Sport & Fun: Swimming - GOTY Edition | 277908 | [277908-sport-and-fun-swimming-goty-edition.json](./277908-sport-and-fun-swimming-goty-edition.json) |
+| Sport & Fun: Swimming - Happy Edition | 278645 | [278645-sport-and-fun-swimming-happy-edition.json](./278645-sport-and-fun-swimming-happy-edition.json) |
 | Sport & Fun: Swimming - Legendary Edition | 263536 | [263536-sport-and-fun-swimming-legendary-edition.json](./263536-sport-and-fun-swimming-legendary-edition.json) |
 | Sport & Fun: Swimming - Platinum Edition | 268547 | [268547-sport-and-fun-swimming-platinum-edition.json](./268547-sport-and-fun-swimming-platinum-edition.json) |
 | Sport & Fun: Swimming - Superb Edition | 288281 | [288281-sport-and-fun-swimming-superb-edition.json](./288281-sport-and-fun-swimming-superb-edition.json) |
@@ -13919,6 +13923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streamline | 20178 | [20178-streamline.json](./20178-streamline.json) |
 | Streamline | 81180 | [81180-streamline.json](./81180-streamline.json) |
 | StreamWalker Tribes | 180252 | [180252-streamwalker-tribes.json](./180252-streamwalker-tribes.json) |
+| StreamWare | 278631 | [278631-streamware.json](./278631-streamware.json) |
 | Strect | 413725 | [413725-strect.json](./413725-strect.json) |
 | Street & Girls | 382285 | [382285-street-and-girls.json](./382285-street-and-girls.json) |
 | Street Air Hockey | 175185 | [175185-street-air-hockey.json](./175185-street-air-hockey.json) |
@@ -15754,6 +15759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mahjong 3 | 37812 | [37812-super-mahjong-3.json](./37812-super-mahjong-3.json) |
 | Super Mahjong 3: Karakuchi | 59955 | [59955-super-mahjong-3-karakuchi.json](./59955-super-mahjong-3-karakuchi.json) |
 | Super Mahjong Taikai | 37811 | [37811-super-mahjong-taikai.json](./37811-super-mahjong-taikai.json) |
+| Super Mallow World | 278624 | [278624-super-mallow-world.json](./278624-super-mallow-world.json) |
 | Super Man or Monster | 54799 | [54799-super-man-or-monster.json](./54799-super-man-or-monster.json) |
 | Super Mando | 223437 | [223437-super-mando.json](./223437-super-mando.json) |
 | Super Mano Bros: Jungle World | 320923 | [320923-super-mano-bros-jungle-world.json](./320923-super-mano-bros-jungle-world.json) |
@@ -16283,6 +16289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Portal 64 | 159277 | [159277-super-portal-64.json](./159277-super-portal-64.json) |
 | Super POTUS Trump | 51591 | [51591-super-potus-trump.json](./51591-super-potus-trump.json) |
 | Super Power: Rising of A.I. | 157016 | [157016-super-power-rising-of-a-i.json](./157016-super-power-rising-of-a-i.json) |
+| Super Prehistoric World Adventure | 278656 | [278656-super-prehistoric-world-adventure.json](./278656-super-prehistoric-world-adventure.json) |
 | Super Press Space To Win Adventure RPG 2009 | 294222 | [294222-super-press-space-to-win-adventure-rpg-2009.json](./294222-super-press-space-to-win-adventure-rpg-2009.json) |
 | Super Princess Peach | 20497 | [20497-super-princess-peach.json](./20497-super-princess-peach.json) |
 | Super Princess Peach: Operation - Toad Rescue | 323872 | [323872-super-princess-peach-operation-toad-rescue.json](./323872-super-princess-peach-operation-toad-rescue.json) |
