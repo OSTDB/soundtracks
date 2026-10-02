@@ -2577,6 +2577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Arena: Ultimate Pass | 297146 | [297146-master-arena-ultimate-pass.json](./297146-master-arena-ultimate-pass.json) |
 | Master Bass | 267344 | [267344-master-bass.json](./267344-master-bass.json) |
 | Master Bladesmith | 127219 | [127219-master-bladesmith.json](./127219-master-bladesmith.json) |
+| Master Blaster | 292779 | [292779-master-blaster.json](./292779-master-blaster.json) |
 | Master Break | 177553 | [177553-master-break.json](./177553-master-break.json) |
 | Master Builder | 18579 | [18579-master-builder.json](./18579-master-builder.json) |
 | Master Builder Simulator | 287720 | [287720-master-builder-simulator.json](./287720-master-builder-simulator.json) |
@@ -4544,6 +4545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MeowFactory | 403691 | [403691-meowfactory.json](./403691-meowfactory.json) |
 | Meowgic | 394435 | [394435-meowgic.json](./394435-meowgic.json) |
 | MeowGun: Hell Denizen | 244190 | [244190-meowgun-hell-denizen.json](./244190-meowgun-hell-denizen.json) |
+| Meowhiss the Snake | 292761 | [292761-meowhiss-the-snake.json](./292761-meowhiss-the-snake.json) |
 | Meowingtons Simulator | 326384 | [326384-meowingtons-simulator.json](./326384-meowingtons-simulator.json) |
 | Meowk and Frocco | 118799 | [118799-meowk-and-frocco.json](./118799-meowk-and-frocco.json) |
 | Meowker: Desktop Cat Companion | 396494 | [396494-meowker-desktop-cat-companion.json](./396494-meowker-desktop-cat-companion.json) |
@@ -9125,6 +9127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Onion | 246354 | [246354-mr-onion.json](./246354-mr-onion.json) |
 | Mr. Parkour | 141034 | [141034-mr-parkour.json](./141034-mr-parkour.json) |
 | Mr. Parkour 3 | 141153 | [141153-mr-parkour-3.json](./141153-mr-parkour-3.json) |
+| Mr. Photographer | 292750 | [292750-mr-photographer.json](./292750-mr-photographer.json) |
 | Mr. Photographer: Into The Light | 350044 | [350044-mr-photographer-into-the-light.json](./350044-mr-photographer-into-the-light.json) |
 | Mr. Pibb: The 3D Interactive Game | 123586 | [123586-mr-pibb-the-3d-interactive-game.json](./123586-mr-pibb-the-3d-interactive-game.json) |
 | Mr. Platformer | 265198 | [265198-mr-platformer.json](./265198-mr-platformer.json) |
@@ -10795,6 +10798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythic: Frost Trials | 215636 | [215636-mythic-frost-trials.json](./215636-mythic-frost-trials.json) |
 | Mythical Concept Starnaut | 272387 | [272387-mythical-concept-starnaut.json](./272387-mythical-concept-starnaut.json) |
 | Mythical Love | 319018 | [319018-mythical-love.json](./319018-mythical-love.json) |
+| Mythical Party | 292747 | [292747-mythical-party.json](./292747-mythical-party.json) |
 | Mythical Ruins | 338285 | [338285-mythical-ruins.json](./338285-mythical-ruins.json) |
 | Mythical Warriors: Battle for Eastland | 210109 | [210109-mythical-warriors-battle-for-eastland.json](./210109-mythical-warriors-battle-for-eastland.json) |
 | Mythical Whalers | 330893 | [330893-mythical-whalers.json](./330893-mythical-whalers.json) |
