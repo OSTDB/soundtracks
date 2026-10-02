@@ -816,6 +816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega no Shikai: Aki Kaketa Shiki no Ai: Zan | 260968 | [260968-omega-no-shikai-aki-kaketa-shiki-no-ai-zan.json](./260968-omega-no-shikai-aki-kaketa-shiki-no-ai-zan.json) |
 | Omega no Shikai: Miyo Owareru Shimai Towa(●nd) | 260969 | [260969-omega-no-shikai-miyo-owareru-shimai-towa-nd.json](./260969-omega-no-shikai-miyo-owareru-shimai-towa-nd.json) |
 | Omega No Sunshine 2 | 306708 | [306708-omega-no-sunshine-2.json](./306708-omega-no-sunshine-2.json) |
+| Omega No Sunshine 2 | 330810 | [330810-omega-no-sunshine-2.json](./330810-omega-no-sunshine-2.json) |
 | Omega Nugget | 301365 | [301365-omega-nugget.json](./301365-omega-nugget.json) |
 | Omega One | 29866 | [29866-omega-one.json](./29866-omega-one.json) |
 | Omega One | 55016 | [55016-omega-one.json](./55016-omega-one.json) |
