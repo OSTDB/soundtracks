@@ -497,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magia Record | 231933 | [231933-magia-record.json](./231933-magia-record.json) |
 | Magia Story | 244762 | [244762-magia-story.json](./244762-magia-story.json) |
 | Magia X: Leta | 172158 | [172158-magia-x-leta.json](./172158-magia-x-leta.json) |
+| Magiball Masters | 294361 | [294361-magiball-masters.json](./294361-magiball-masters.json) |
 | Magiblo Plus | 109189 | [109189-magiblo-plus.json](./109189-magiblo-plus.json) |
 | Magibrick | 290521 | [290521-magibrick.json](./290521-magibrick.json) |
 | Magic & Empire | 97380 | [97380-magic-and-empire.json](./97380-magic-and-empire.json) |
@@ -2595,6 +2596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Levels for Doom II | 313171 | [313171-master-levels-for-doom-ii.json](./313171-master-levels-for-doom-ii.json) |
 | Master Levels For Doom II | 218171 | [218171-master-levels-for-doom-ii.json](./218171-master-levels-for-doom-ii.json) |
 | Master Manager | 277972 | [277972-master-manager.json](./277972-master-manager.json) |
+| Master Mariner | 294404 | [294404-master-mariner.json](./294404-master-mariner.json) |
 | Master Mind | 92855 | [92855-master-mind.json](./92855-master-mind.json) |
 | Master Minesweeper | 90698 | [90698-master-minesweeper.json](./90698-master-minesweeper.json) |
 | Master Ninja | 15539 | [15539-master-ninja.json](./15539-master-ninja.json) |
