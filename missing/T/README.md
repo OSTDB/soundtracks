@@ -1393,6 +1393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tattoo Studio Simulator | 371414 | [371414-tattoo-studio-simulator.json](./371414-tattoo-studio-simulator.json) |
 | Tattoon Master | 362978 | [362978-tattoon-master.json](./362978-tattoon-master.json) |
 | Tattoos and Tulips | 257976 | [257976-tattoos-and-tulips.json](./257976-tattoos-and-tulips.json) |
+| TattooVR | 326179 | [326179-tattoovr.json](./326179-tattoovr.json) |
 | Tatvalok | 380542 | [380542-tatvalok.json](./380542-tatvalok.json) |
 | Tau Defense | 120859 | [120859-tau-defense.json](./120859-tau-defense.json) |
 | TAU-09 | 392942 | [392942-tau-09.json](./392942-tau-09.json) |
@@ -6255,6 +6256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Relics of the Past | 250319 | [250319-the-legend-of-zelda-relics-of-the-past.json](./250319-the-legend-of-zelda-relics-of-the-past.json) |
 | The Legend of Zelda: Return of the Hylian SE | 243616 | [243616-the-legend-of-zelda-return-of-the-hylian-se.json](./243616-the-legend-of-zelda-return-of-the-hylian-se.json) |
 | The Legend of Zelda: Sage Knight | 323756 | [323756-the-legend-of-zelda-sage-knight.json](./323756-the-legend-of-zelda-sage-knight.json) |
+| The Legend of Zelda: Sands of Time | 326156 | [326156-the-legend-of-zelda-sands-of-time.json](./326156-the-legend-of-zelda-sands-of-time.json) |
 | The Legend of Zelda: Shénqí de Màozi | 163217 | [163217-the-legend-of-zelda-shenqi-de-maozi.json](./163217-the-legend-of-zelda-shenqi-de-maozi.json) |
 | The Legend of Zelda: Skyward Sword HD Randomizer | 331139 | [331139-the-legend-of-zelda-skyward-sword-hd-randomizer.json](./331139-the-legend-of-zelda-skyward-sword-hd-randomizer.json) |
 | The Legend of Zelda: Skyward Sword Randomizer | 241895 | [241895-the-legend-of-zelda-skyward-sword-randomizer.json](./241895-the-legend-of-zelda-skyward-sword-randomizer.json) |
@@ -7931,6 +7933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Seven Deadly Sins: Grand Cross | 131768 | [131768-the-seven-deadly-sins-grand-cross.json](./131768-the-seven-deadly-sins-grand-cross.json) |
 | The Seven Deadly Sins: Idle Adventure | 315273 | [315273-the-seven-deadly-sins-idle-adventure.json](./315273-the-seven-deadly-sins-idle-adventure.json) |
 | The Seven Deadly Sins: Knights of Britannia | 41058 | [41058-the-seven-deadly-sins-knights-of-britannia.json](./41058-the-seven-deadly-sins-knights-of-britannia.json) |
+| The Seven Elemental Vases | 326166 | [326166-the-seven-elemental-vases.json](./326166-the-seven-elemental-vases.json) |
 | The Seven Games of the Soul | 13775 | [13775-the-seven-games-of-the-soul.json](./13775-the-seven-games-of-the-soul.json) |
 | The Seven Realms: Realm - Pythonium | 331105 | [331105-the-seven-realms-realm-pythonium.json](./331105-the-seven-realms-realm-pythonium.json) |
 | The Seven Realms: Realm 1 - Terran | 330743 | [330743-the-seven-realms-realm-1-terran.json](./330743-the-seven-realms-realm-1-terran.json) |
@@ -11808,6 +11811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Die in the Shade | 281425 | [281425-to-die-in-the-shade.json](./281425-to-die-in-the-shade.json) |
 | To Duel List | 151704 | [151704-to-duel-list.json](./151704-to-duel-list.json) |
 | To Dust | 259824 | [259824-to-dust.json](./259824-to-dust.json) |
+| To Eat A God | 326143 | [326143-to-eat-a-god.json](./326143-to-eat-a-god.json) |
 | To End All Wars: Breaking the Deadlock | 171955 | [171955-to-end-all-wars-breaking-the-deadlock.json](./171955-to-end-all-wars-breaking-the-deadlock.json) |
 | To Fight The Sea | 333704 | [333704-to-fight-the-sea.json](./333704-to-fight-the-sea.json) |
 | To Hell in a Hamper | 60019 | [60019-to-hell-in-a-hamper.json](./60019-to-hell-in-a-hamper.json) |
@@ -13151,6 +13155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou: Blossom Blade | 380520 | [380520-touhou-blossom-blade.json](./380520-touhou-blossom-blade.json) |
 | Touhou: Fading Illusion - Underworld Chapter | 356185 | [356185-touhou-fading-illusion-underworld-chapter.json](./356185-touhou-fading-illusion-underworld-chapter.json) |
 | Touhou: Fearless Frogslayer | 356088 | [356088-touhou-fearless-frogslayer.json](./356088-touhou-fearless-frogslayer.json) |
+| Touhou: Fortuitous Strife in Arcane Land | 326164 | [326164-touhou-fortuitous-strife-in-arcane-land.json](./326164-touhou-fortuitous-strife-in-arcane-land.json) |
 | Touhou: Gensokyo Survivors | 248043 | [248043-touhou-gensokyo-survivors.json](./248043-touhou-gensokyo-survivors.json) |
 | Touhou: Heart of the Tiger | 209140 | [209140-touhou-heart-of-the-tiger.json](./209140-touhou-heart-of-the-tiger.json) |
 | Touhou: Hotline Sanzu | 317239 | [317239-touhou-hotline-sanzu.json](./317239-touhou-hotline-sanzu.json) |
