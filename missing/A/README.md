@@ -902,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss Odyssey | 14414 | [14414-abyss-odyssey.json](./14414-abyss-odyssey.json) |
 | Abyss of Doom | 403689 | [403689-abyss-of-doom.json](./403689-abyss-of-doom.json) |
 | Abyss of Dungeons | 306976 | [306976-abyss-of-dungeons.json](./306976-abyss-of-dungeons.json) |
+| Abyss of Gloom | 287347 | [287347-abyss-of-gloom.json](./287347-abyss-of-gloom.json) |
 | Abyss of Light | 283876 | [283876-abyss-of-light.json](./283876-abyss-of-light.json) |
 | Abyss of Neptune | 145563 | [145563-abyss-of-neptune.json](./145563-abyss-of-neptune.json) |
 | Abyss Of Pleasure | 379549 | [379549-abyss-of-pleasure.json](./379549-abyss-of-pleasure.json) |
@@ -923,6 +924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyssal | 308956 | [308956-abyssal.json](./308956-abyssal.json) |
 | Abyssal | 385571 | [385571-abyssal.json](./385571-abyssal.json) |
 | Abyssal Apocrypha | 413783 | [413783-abyssal-apocrypha.json](./413783-abyssal-apocrypha.json) |
+| Abyssal Blood | 287349 | [287349-abyssal-blood.json](./287349-abyssal-blood.json) |
 | Abyssal Drift | 372014 | [372014-abyssal-drift.json](./372014-abyssal-drift.json) |
 | Abyssal Frontier | 283875 | [283875-abyssal-frontier.json](./283875-abyssal-frontier.json) |
 | Abyssal Lapidary | 411093 | [411093-abyssal-lapidary.json](./411093-abyssal-lapidary.json) |
