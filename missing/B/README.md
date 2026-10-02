@@ -6127,6 +6127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Farm | 413917 | [413917-bomb-farm.json](./413917-bomb-farm.json) |
 | Bomb Fight | 305297 | [305297-bomb-fight.json](./305297-bomb-fight.json) |
 | Bomb Fight | 305460 | [305460-bomb-fight.json](./305460-bomb-fight.json) |
+| Bomb Hero | 286778 | [286778-bomb-hero.json](./286778-bomb-hero.json) |
 | Bomb Hero 3D | 175735 | [175735-bomb-hero-3d.json](./175735-bomb-hero-3d.json) |
 | Bomb Heroes | 97499 | [97499-bomb-heroes.json](./97499-bomb-heroes.json) |
 | Bomb Hunter MT | 95185 | [95185-bomb-hunter-mt.json](./95185-bomb-hunter-mt.json) |
