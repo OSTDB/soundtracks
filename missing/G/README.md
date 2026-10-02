@@ -788,6 +788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganbaru Kimi to no Futari Gurashi: Iede Gal Icha Love Seikatsu SLG | 408962 | [408962-ganbaru-kimi-to-no-futari-gurashi-iede-gal-icha-love-seikatsu-slg.json](./408962-ganbaru-kimi-to-no-futari-gurashi-iede-gal-icha-love-seikatsu-slg.json) |
 | Ganbatte | 77402 | [77402-ganbatte.json](./77402-ganbatte.json) |
 | Gancho Bond | 372673 | [372673-gancho-bond.json](./372673-gancho-bond.json) |
+| Gandhi III | 323801 | [323801-gandhi-iii.json](./323801-gandhi-iii.json) |
 | Gang Beasts | 11177 | [11177-gang-beasts.json](./11177-gang-beasts.json) |
 | Gang Blast | 283265 | [283265-gang-blast.json](./283265-gang-blast.json) |
 | Gang Man | 279066 | [279066-gang-man.json](./279066-gang-man.json) |
@@ -4416,6 +4417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Road | 190443 | [190443-grim-road.json](./190443-grim-road.json) |
 | Grim Seventh | 31829 | [31829-grim-seventh.json](./31829-grim-seventh.json) |
 | Grim Survivor | 213002 | [213002-grim-survivor.json](./213002-grim-survivor.json) |
+| Grim Swarm | 323809 | [323809-grim-swarm.json](./323809-grim-swarm.json) |
 | Grim Tales 5: Bloody Mary | 57071 | [57071-grim-tales-5-bloody-mary.json](./57071-grim-tales-5-bloody-mary.json) |
 | Grim Tales: All Shades of Black - Collector's Edition | 337263 | [337263-grim-tales-all-shades-of-black-collectors-edition.json](./337263-grim-tales-all-shades-of-black-collectors-edition.json) |
 | Grim Tales: Crimson Hollow | 188013 | [188013-grim-tales-crimson-hollow.json](./188013-grim-tales-crimson-hollow.json) |
