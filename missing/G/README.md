@@ -1320,6 +1320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemwielders | 325245 | [325245-gemwielders.json](./325245-gemwielders.json) |
 | Gen 2.1. No Escape | 239608 | [239608-gen-2-1-no-escape.json](./239608-gen-2-1-no-escape.json) |
 | Gen Atlas | 325593 | [325593-gen-atlas.json](./325593-gen-atlas.json) |
+| Gen.loss | 307213 | [307213-gen-loss.json](./307213-gen-loss.json) |
 | Genba no Kizuna | 235738 | [235738-genba-no-kizuna.json](./235738-genba-no-kizuna.json) |
 | Genbu's Favour | 322556 | [322556-genbus-favour.json](./322556-genbus-favour.json) |
 | Gendai Daisenryaku: Ultimate War | 231510 | [231510-gendai-daisenryaku-ultimate-war.json](./231510-gendai-daisenryaku-ultimate-war.json) |
@@ -2300,6 +2301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glass Masquerade | 25871 | [25871-glass-masquerade.json](./25871-glass-masquerade.json) |
 | Glass Masquerade 2: Illusions | 109763 | [109763-glass-masquerade-2-illusions.json](./109763-glass-masquerade-2-illusions.json) |
 | Glass Masquerade 3: Honeylines | 249809 | [249809-glass-masquerade-3-honeylines.json](./249809-glass-masquerade-3-honeylines.json) |
+| Glass Masquerade 3: Honeylines - Folks & Spirits | 307201 | [307201-glass-masquerade-3-honeylines-folks-and-spirits.json](./307201-glass-masquerade-3-honeylines-folks-and-spirits.json) |
 | Glass Rose | 43441 | [43441-glass-rose.json](./43441-glass-rose.json) |
 | Glass Smash 64 | 338801 | [338801-glass-smash-64.json](./338801-glass-smash-64.json) |
 | Glass Tactics | 244518 | [244518-glass-tactics.json](./244518-glass-tactics.json) |
