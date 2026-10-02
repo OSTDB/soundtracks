@@ -9508,6 +9508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World Beyond | 389409 | [389409-the-world-beyond.json](./389409-the-world-beyond.json) |
 | The World Ends in Ohio | 333146 | [333146-the-world-ends-in-ohio.json](./333146-the-world-ends-in-ohio.json) |
 | The World Ends with You: Final Remix | 81143 | [81143-the-world-ends-with-you-final-remix.json](./81143-the-world-ends-with-you-final-remix.json) |
+| The World Ends With You: Noise Busters | 306596 | [306596-the-world-ends-with-you-noise-busters.json](./306596-the-world-ends-with-you-noise-busters.json) |
 | The World Hockey Championships | 242684 | [242684-the-world-hockey-championships.json](./242684-the-world-hockey-championships.json) |
 | The World Is Ruled According to Sexual Prowess So I’m Playing Dirty to Get My Harem: Episode 1 | 400241 | [400241-the-world-is-ruled-according-to-sexual-prowess-so-i-m-playing-dirty-to-get-my-harem-episode-1.json](./400241-the-world-is-ruled-according-to-sexual-prowess-so-i-m-playing-dirty-to-get-my-harem-episode-1.json) |
 | The World Next Door: Deluxe Edition | 124800 | [124800-the-world-next-door-deluxe-edition.json](./124800-the-world-next-door-deluxe-edition.json) |
@@ -16002,6 +16003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turnabout in Payne and Suffering | 330912 | [330912-turnabout-in-payne-and-suffering.json](./330912-turnabout-in-payne-and-suffering.json) |
 | Turnabout in the Spotlight | 309985 | [309985-turnabout-in-the-spotlight.json](./309985-turnabout-in-the-spotlight.json) |
 | Turnabout Mugging | 309983 | [309983-turnabout-mugging.json](./309983-turnabout-mugging.json) |
+| Turnabout of the Final Day | 306603 | [306603-turnabout-of-the-final-day.json](./306603-turnabout-of-the-final-day.json) |
 | Turnabout Remembrances | 310015 | [310015-turnabout-remembrances.json](./310015-turnabout-remembrances.json) |
 | Turnabout Revivals | 303253 | [303253-turnabout-revivals.json](./303253-turnabout-revivals.json) |
 | Turnabout Revolution | 308531 | [308531-turnabout-revolution.json](./308531-turnabout-revolution.json) |
@@ -16213,6 +16215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twincantation | 355017 | [355017-twincantation.json](./355017-twincantation.json) |
 | TwinCop | 51594 | [51594-twincop.json](./51594-twincop.json) |
 | Twine3D | 81782 | [81782-twine3d.json](./81782-twine3d.json) |
+| Twinetroid | 306584 | [306584-twinetroid.json](./306584-twinetroid.json) |
 | TwinGrip | 373730 | [373730-twingrip.json](./373730-twingrip.json) |
 | Twiniwt | 95630 | [95630-twiniwt.json](./95630-twiniwt.json) |
 | Twinkle Crusaders GoGo! | 59417 | [59417-twinkle-crusaders-gogo.json](./59417-twinkle-crusaders-gogo.json) |
