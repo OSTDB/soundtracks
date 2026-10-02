@@ -4649,6 +4649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Kakuro | 206972 | [206972-classic-kakuro.json](./206972-classic-kakuro.json) |
 | Classic Mario World: The Magic Crystals | 191909 | [191909-classic-mario-world-the-magic-crystals.json](./191909-classic-mario-world-the-magic-crystals.json) |
 | Classic Max Lite | 359478 | [359478-classic-max-lite.json](./359478-classic-max-lite.json) |
+| Classic NES Series Trivia | 328665 | [328665-classic-nes-series-trivia.json](./328665-classic-nes-series-trivia.json) |
 | Classic NES Series: Dr. Mario | 18064 | [18064-classic-nes-series-dr-mario.json](./18064-classic-nes-series-dr-mario.json) |
 | Classic NES Series: Metroid | 76247 | [76247-classic-nes-series-metroid.json](./76247-classic-nes-series-metroid.json) |
 | Classic NES Series: Pac-Man | 76248 | [76248-classic-nes-series-pac-man.json](./76248-classic-nes-series-pac-man.json) |
@@ -4713,6 +4714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clay God | 303753 | [303753-clay-god.json](./303753-clay-god.json) |
 | Clay Knight | 316853 | [316853-clay-knight.json](./316853-clay-knight.json) |
 | Clay Puzzle | 391201 | [391201-clay-puzzle.json](./391201-clay-puzzle.json) |
+| Clay Shoot | 328679 | [328679-clay-shoot.json](./328679-clay-shoot.json) |
 | Clay Shooter | 192981 | [192981-clay-shooter.json](./192981-clay-shooter.json) |
 | Clay Soldiers | 237520 | [237520-clay-soldiers.json](./237520-clay-soldiers.json) |
 | Clay-Scape | 301905 | [301905-clay-scape.json](./301905-clay-scape.json) |
