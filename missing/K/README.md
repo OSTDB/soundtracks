@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaiki: Okujou no Yuurei to Akuma no Gishiki | 283853 | [283853-kaiki-okujou-no-yuurei-to-akuma-no-gishiki.json](./283853-kaiki-okujou-no-yuurei-to-akuma-no-gishiki.json) |
 | Kaikyuu Karane Kotoba | 206381 | [206381-kaikyuu-karane-kotoba.json](./206381-kaikyuu-karane-kotoba.json) |
 | Kaikyuu no Eshi | 239678 | [239678-kaikyuu-no-eshi.json](./239678-kaikyuu-no-eshi.json) |
+| Kaimeishi | 312654 | [312654-kaimeishi.json](./312654-kaimeishi.json) |
 | Kainga: Collector's Edition | 243803 | [243803-kainga-collectors-edition.json](./243803-kainga-collectors-edition.json) |
 | Kaire | 344388 | [344388-kaire.json](./344388-kaire.json) |
 | Kairo Land | 208037 | [208037-kairo-land.json](./208037-kairo-land.json) |
