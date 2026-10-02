@@ -7566,6 +7566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astronaut Simulator | 396223 | [396223-astronaut-simulator.json](./396223-astronaut-simulator.json) |
 | Astronaut Spacewalk | 174354 | [174354-astronaut-spacewalk.json](./174354-astronaut-spacewalk.json) |
 | Astronauters | 252690 | [252690-astronauters.json](./252690-astronauters.json) |
+| Astronave | 292265 | [292265-astronave.json](./292265-astronave.json) |
 | Astroneer: Awakening | 234024 | [234024-astroneer-awakening.json](./234024-astroneer-awakening.json) |
 | Astroneer: Glitchwalkers | 315620 | [315620-astroneer-glitchwalkers.json](./315620-astroneer-glitchwalkers.json) |
 | Astroneer: Jet Powered | 234027 | [234027-astroneer-jet-powered.json](./234027-astroneer-jet-powered.json) |
