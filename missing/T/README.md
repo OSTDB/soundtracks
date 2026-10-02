@@ -3154,6 +3154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bar | 119049 | [119049-the-bar.json](./119049-the-bar.json) |
 | The Bar | 256847 | [256847-the-bar.json](./256847-the-bar.json) |
 | The Barbie Diaries: High School Mystery | 7638 | [7638-the-barbie-diaries-high-school-mystery.json](./7638-the-barbie-diaries-high-school-mystery.json) |
+| The Bard for Her | 279855 | [279855-the-bard-for-her.json](./279855-the-bard-for-her.json) |
 | The Bard's Tale | 273089 | [273089-the-bards-tale.json](./273089-the-bards-tale.json) |
 | The Bard's Tale II: The Destiny Knight | 2430 | [2430-the-bards-tale-ii-the-destiny-knight.json](./2430-the-bards-tale-ii-the-destiny-knight.json) |
 | The Bard's Tale II: The Destiny Knight | 273091 | [273091-the-bards-tale-ii-the-destiny-knight.json](./273091-the-bards-tale-ii-the-destiny-knight.json) |
@@ -8463,6 +8464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Snake Kingdom of Gennibar-Six | 337649 | [337649-the-snake-kingdom-of-gennibar-six.json](./337649-the-snake-kingdom-of-gennibar-six.json) |
 | The Snaplock | 409740 | [409740-the-snaplock.json](./409740-the-snaplock.json) |
 | The Snapper | 285672 | [285672-the-snapper.json](./285672-the-snapper.json) |
+| The Snare | 279904 | [279904-the-snare.json](./279904-the-snare.json) |
 | The Sniper | 349841 | [349841-the-sniper.json](./349841-the-sniper.json) |
 | The Sniper 2 | 44625 | [44625-the-sniper-2.json](./44625-the-sniper-2.json) |
 | The Snow | 53776 | [53776-the-snow.json](./53776-the-snow.json) |
@@ -10224,6 +10226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrift Store Treasure: Hidden Objects | 417510 | [417510-thrift-store-treasure-hidden-objects.json](./417510-thrift-store-treasure-hidden-objects.json) |
 | Thrill Rush | 103400 | [103400-thrill-rush.json](./103400-thrill-rush.json) |
 | Thrillgate | 130160 | [130160-thrillgate.json](./130160-thrillgate.json) |
+| Thrilling Stories Collection | 279878 | [279878-thrilling-stories-collection.json](./279878-thrilling-stories-collection.json) |
 | Thrills & Chills - Roller Coasters | 31538 | [31538-thrills-and-chills-roller-coasters.json](./31538-thrills-and-chills-roller-coasters.json) |
 | Thrillville | 2852 | [2852-thrillville.json](./2852-thrillville.json) |
 | Thrillville: Off the Rails | 322364 | [322364-thrillville-off-the-rails.json](./322364-thrillville-off-the-rails.json) |
@@ -11752,6 +11755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Invaders | 92501 | [92501-tiny-invaders.json](./92501-tiny-invaders.json) |
 | Tiny Island Survival | 187809 | [187809-tiny-island-survival.json](./187809-tiny-island-survival.json) |
 | Tiny Isle | 374794 | [374794-tiny-isle.json](./374794-tiny-isle.json) |
+| Tiny Jukebox | 279857 | [279857-tiny-jukebox.json](./279857-tiny-jukebox.json) |
 | Tiny Jump | 254559 | [254559-tiny-jump.json](./254559-tiny-jump.json) |
 | Tiny Jumper | 109922 | [109922-tiny-jumper.json](./109922-tiny-jumper.json) |
 | Tiny Kingdom | 309616 | [309616-tiny-kingdom.json](./309616-tiny-kingdom.json) |
@@ -13805,6 +13809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toybox | 209423 | [209423-toybox.json](./209423-toybox.json) |
 | Toybox | 271305 | [271305-toybox.json](./271305-toybox.json) |
 | Toybox Aviation | 194421 | [194421-toybox-aviation.json](./194421-toybox-aviation.json) |
+| ToyBox Christmas | 279867 | [279867-toybox-christmas.json](./279867-toybox-christmas.json) |
 | ToyBox Puzzle | 236407 | [236407-toybox-puzzle.json](./236407-toybox-puzzle.json) |
 | Toybox Tussle | 383076 | [383076-toybox-tussle.json](./383076-toybox-tussle.json) |
 | ToyBoxers! | 403180 | [403180-toyboxers.json](./403180-toyboxers.json) |
