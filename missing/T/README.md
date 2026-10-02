@@ -3422,6 +3422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cabinets of Doctor Arcana | 95597 | [95597-the-cabinets-of-doctor-arcana.json](./95597-the-cabinets-of-doctor-arcana.json) |
 | The Cable Center: Virtual Archive | 29025 | [29025-the-cable-center-virtual-archive.json](./29025-the-cable-center-virtual-archive.json) |
 | The Cadet Files: Scene Unseen | 278685 | [278685-the-cadet-files-scene-unseen.json](./278685-the-cadet-files-scene-unseen.json) |
+| The Cake is Alive | 330811 | [330811-the-cake-is-alive.json](./330811-the-cake-is-alive.json) |
 | The Cakeman | 274493 | [274493-the-cakeman.json](./274493-the-cakeman.json) |
 | The Caldecott Caper | 305872 | [305872-the-caldecott-caper.json](./305872-the-caldecott-caper.json) |
 | The California Raisins | 73306 | [73306-the-california-raisins.json](./73306-the-california-raisins.json) |
@@ -9599,6 +9600,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There Was Something In That Room | 338273 | [338273-there-was-something-in-that-room.json](./338273-there-was-something-in-that-room.json) |
 | There's a Butcher Around | 118016 | [118016-theres-a-butcher-around.json](./118016-theres-a-butcher-around.json) |
 | There's a Rikishi in my House | 199613 | [199613-theres-a-rikishi-in-my-house.json](./199613-theres-a-rikishi-in-my-house.json) |
+| There's Always a Madman: The MacGuffin | 330968 | [330968-theres-always-a-madman-the-macguffin.json](./330968-theres-always-a-madman-the-macguffin.json) |
+| There's Always a Madman: V.I.C.T.O.R. | 330969 | [330969-theres-always-a-madman-v-i-c-t-o-r.json](./330969-theres-always-a-madman-v-i-c-t-o-r.json) |
 | There's an Only One Way Exit. | 314065 | [314065-theres-an-only-one-way-exit.json](./314065-theres-an-only-one-way-exit.json) |
 | There's Blood in my Soup | 382340 | [382340-theres-blood-in-my-soup.json](./382340-theres-blood-in-my-soup.json) |
 | There's No Dinosaurs 2 | 289970 | [289970-theres-no-dinosaurs-2.json](./289970-theres-no-dinosaurs-2.json) |
