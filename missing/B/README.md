@@ -3733,6 +3733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bikeout | 244505 | [244505-bikeout.json](./244505-bikeout.json) |
 | Biker Mice From Mars | 15915 | [15915-biker-mice-from-mars.json](./15915-biker-mice-from-mars.json) |
 | Bikerz | 119018 | [119018-bikerz.json](./119018-bikerz.json) |
+| biketerra | 316177 | [316177-biketerra.json](./316177-biketerra.json) |
 | Bikini Balls 2: Christmas Edition | 216455 | [216455-bikini-balls-2-christmas-edition.json](./216455-bikini-balls-2-christmas-edition.json) |
 | Bikini Beach: Stunt Racer | 73750 | [73750-bikini-beach-stunt-racer.json](./73750-bikini-beach-stunt-racer.json) |
 | Bikini Brickout | 370290 | [370290-bikini-brickout.json](./370290-bikini-brickout.json) |
@@ -4868,6 +4869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleeding Canvas | 248729 | [248729-bleeding-canvas.json](./248729-bleeding-canvas.json) |
 | Bleeding Kansas | 51939 | [51939-bleeding-kansas.json](./51939-bleeding-kansas.json) |
 | Bleeding Moons | 109914 | [109914-bleeding-moons.json](./109914-bleeding-moons.json) |
+| Bleeding Roots | 316162 | [316162-bleeding-roots.json](./316162-bleeding-roots.json) |
 | Bleemcast! for Metal Gear Solid | 315682 | [315682-bleemcast-for-metal-gear-solid.json](./315682-bleemcast-for-metal-gear-solid.json) |
 | Bleepfrog | 343987 | [343987-bleepfrog.json](./343987-bleepfrog.json) |
 | Bleeping Spaceships | 373673 | [373673-bleeping-spaceships.json](./373673-bleeping-spaceships.json) |
@@ -6822,6 +6824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowser's Jumping Challenge | 215200 | [215200-bowsers-jumping-challenge.json](./215200-bowsers-jumping-challenge.json) |
 | Bowser's Lair Hockey | 231642 | [231642-bowsers-lair-hockey.json](./231642-bowsers-lair-hockey.json) |
 | Bowser's Revenge 3 | 276782 | [276782-bowsers-revenge-3.json](./276782-bowsers-revenge-3.json) |
+| Bowser's Revenge 4 | 316124 | [316124-bowsers-revenge-4.json](./316124-bowsers-revenge-4.json) |
 | Bowser's Valley | 268009 | [268009-bowsers-valley.json](./268009-bowsers-valley.json) |
 | Bowslinger | 33088 | [33088-bowslinger.json](./33088-bowslinger.json) |
 | Box | 130782 | [130782-box.json](./130782-box.json) |
