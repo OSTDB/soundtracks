@@ -4346,6 +4346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GridEnergy | 416665 | [416665-gridenergy.json](./416665-gridenergy.json) |
 | Gridfall | 373119 | [373119-gridfall.json](./373119-gridfall.json) |
 | Gridfire | 84226 | [84226-gridfire.json](./84226-gridfire.json) |
+| Gridhack | 325507 | [325507-gridhack.json](./325507-gridhack.json) |
 | Gridiron Champions | 130407 | [130407-gridiron-champions.json](./130407-gridiron-champions.json) |
 | Gridiron Football League | 416118 | [416118-gridiron-football-league.json](./416118-gridiron-football-league.json) |
 | Gridiron Masters '98 | 401535 | [401535-gridiron-masters-98.json](./401535-gridiron-masters-98.json) |
