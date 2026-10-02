@@ -1674,6 +1674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indistinguishable | 400964 | [400964-indistinguishable.json](./400964-indistinguishable.json) |
 | Individual Investor Tycoon II | 374256 | [374256-individual-investor-tycoon-ii.json](./374256-individual-investor-tycoon-ii.json) |
 | IndividuaLand | 211763 | [211763-individualand.json](./211763-individualand.json) |
+| Individualism In The Dead Internet Age: An Anti Big Tech Asset Flip | 314974 | [314974-individualism-in-the-dead-internet-age-an-anti-big-tech-asset-flip.json](./314974-individualism-in-the-dead-internet-age-an-anti-big-tech-asset-flip.json) |
 | Indomitable Spirit | 375985 | [375985-indomitable-spirit.json](./375985-indomitable-spirit.json) |
 | Indonesian Dominatrixes Are the Best | 385705 | [385705-indonesian-dominatrixes-are-the-best.json](./385705-indonesian-dominatrixes-are-the-best.json) |
 | Indoor Air Soccer | 175338 | [175338-indoor-air-soccer.json](./175338-indoor-air-soccer.json) |
@@ -2126,6 +2127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inkwellers | 333555 | [333555-inkwellers.json](./333555-inkwellers.json) |
 | Inky Blinky Bob | 389665 | [389665-inky-blinky-bob.json](./389665-inky-blinky-bob.json) |
 | Inky Caps Clash | 175428 | [175428-inky-caps-clash.json](./175428-inky-caps-clash.json) |
+| Inkya Danshi de Asobou! | 314851 | [314851-inkya-danshi-de-asobou.json](./314851-inkya-danshi-de-asobou.json) |
 | Inline | 81070 | [81070-inline.json](./81070-inline.json) |
 | Inline Race | 94560 | [94560-inline-race.json](./94560-inline-race.json) |
 | Inline: Out of Time | 290706 | [290706-inline-out-of-time.json](./290706-inline-out-of-time.json) |
