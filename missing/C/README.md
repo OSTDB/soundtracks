@@ -7104,6 +7104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cordel Lands | 393823 | [393823-cordel-lands.json](./393823-cordel-lands.json) |
 | Cordelia | 248044 | [248044-cordelia.json](./248044-cordelia.json) |
 | Cordial Minuet | 97298 | [97298-cordial-minuet.json](./97298-cordial-minuet.json) |
+| Cordillera | 287878 | [287878-cordillera.json](./287878-cordillera.json) |
 | Core | 400887 | [400887-core.json](./400887-core.json) |
 | Core Awaken: The Yuka | 104814 | [104814-core-awaken-the-yuka.json](./104814-core-awaken-the-yuka.json) |
 | Core Awakening | 290504 | [290504-core-awakening.json](./290504-core-awakening.json) |
