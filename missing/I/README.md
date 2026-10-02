@@ -842,6 +842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Space Force | 246425 | [246425-idle-space-force.json](./246425-idle-space-force.json) |
 | Idle Sphere | 323157 | [323157-idle-sphere.json](./323157-idle-sphere.json) |
 | Idle Spiral | 211230 | [211230-idle-spiral.json](./211230-idle-spiral.json) |
+| Idle Spiral: Custom Spiral Pack | 291702 | [291702-idle-spiral-custom-spiral-pack.json](./291702-idle-spiral-custom-spiral-pack.json) |
 | Idle Squire | 391172 | [391172-idle-squire.json](./391172-idle-squire.json) |
 | Idle Stellar | 262911 | [262911-idle-stellar.json](./262911-idle-stellar.json) |
 | Idle Strikers 1945 | 303181 | [303181-idle-strikers-1945.json](./303181-idle-strikers-1945.json) |
@@ -1095,6 +1096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IL-2 Sturmovik: Ten Days of Autumn Campaign | 267663 | [267663-il-2-sturmovik-ten-days-of-autumn-campaign.json](./267663-il-2-sturmovik-ten-days-of-autumn-campaign.json) |
 | Il-2 Sturmovik: Ultimate Edition | 146130 | [146130-il-2-sturmovik-ultimate-edition.json](./146130-il-2-sturmovik-ultimate-edition.json) |
 | Ilamentia | 36133 | [36133-ilamentia.json](./36133-ilamentia.json) |
+| Ilavath: Battle Arenas | 291723 | [291723-ilavath-battle-arenas.json](./291723-ilavath-battle-arenas.json) |
 | Iles | 211949 | [211949-iles.json](./211949-iles.json) |
 | Ilha do Empreendedor | 257347 | [257347-ilha-do-empreendedor.json](./257347-ilha-do-empreendedor.json) |
 | Ilíada Espacial 2 | 310142 | [310142-iliada-espacial-2.json](./310142-iliada-espacial-2.json) |
