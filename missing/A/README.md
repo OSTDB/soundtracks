@@ -813,6 +813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abraham Link Coln on Dessert Island | 398541 | [398541-abraham-link-coln-on-dessert-island.json](./398541-abraham-link-coln-on-dessert-island.json) |
 | Abrakajumpa | 305944 | [305944-abrakajumpa.json](./305944-abrakajumpa.json) |
 | Abrams Tank | 31567 | [31567-abrams-tank.json](./31567-abrams-tank.json) |
+| Abrapalabra: La Magia de Aprender a Leer | 307198 | [307198-abrapalabra-la-magia-de-aprender-a-leer.json](./307198-abrapalabra-la-magia-de-aprender-a-leer.json) |
 | Abrasion | 312659 | [312659-abrasion.json](./312659-abrasion.json) |
 | Abraxas | 293244 | [293244-abraxas.json](./293244-abraxas.json) |
 | Abribus | 25751 | [25751-abribus.json](./25751-abribus.json) |
@@ -6962,6 +6963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asleep | 201310 | [201310-asleep.json](./201310-asleep.json) |
 | Asleep in the Deep | 337102 | [337102-asleep-in-the-deep.json](./337102-asleep-in-the-deep.json) |
 | Asleep: Act 1 | 209702 | [209702-asleep-act-1.json](./209702-asleep-act-1.json) |
+| Asleep: Act 2 | 307255 | [307255-asleep-act-2.json](./307255-asleep-act-2.json) |
 | Asmik-kun Land | 48616 | [48616-asmik-kun-land.json](./48616-asmik-kun-land.json) |
 | Asmik-kun World 2 | 7798 | [7798-asmik-kun-world-2.json](./7798-asmik-kun-world-2.json) |
 | Asmodeus | 261748 | [261748-asmodeus.json](./261748-asmodeus.json) |
