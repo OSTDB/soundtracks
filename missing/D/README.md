@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D-100 | 250968 | [250968-d-100.json](./250968-d-100.json) |
 | D-Day | 14768 | [14768-d-day.json](./14768-d-day.json) |
 | D-Day | 27252 | [27252-d-day.json](./27252-d-day.json) |
+| D-Day Invasions | 293836 | [293836-d-day-invasions.json](./293836-d-day-invasions.json) |
 | D-Day VR Museum | 295790 | [295790-d-day-vr-museum.json](./295790-d-day-vr-museum.json) |
 | D-Day: America Invades | 69911 | [69911-d-day-america-invades.json](./69911-d-day-america-invades.json) |
 | D-Day: Normandy | 180210 | [180210-d-day-normandy.json](./180210-d-day-normandy.json) |
@@ -2449,6 +2450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Dark Fight | 81702 | [81702-deep-dark-fight.json](./81702-deep-dark-fight.json) |
 | Deep Dark Forest | 151724 | [151724-deep-dark-forest.json](./151724-deep-dark-forest.json) |
 | Deep Dark Space | 282012 | [282012-deep-dark-space.json](./282012-deep-dark-space.json) |
+| Deep Dark Wrath | 293330 | [293330-deep-dark-wrath.json](./293330-deep-dark-wrath.json) |
 | Deep Dark Wrath: Frost Flower | 385573 | [385573-deep-dark-wrath-frost-flower.json](./385573-deep-dark-wrath-frost-flower.json) |
 | Deep Dead | 323811 | [323811-deep-dead.json](./323811-deep-dead.json) |
 | Deep Despair | 129641 | [129641-deep-despair.json](./129641-deep-despair.json) |
@@ -2720,6 +2722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deflection Dimension | 102353 | [102353-deflection-dimension.json](./102353-deflection-dimension.json) |
 | Deflector | 179190 | [179190-deflector.json](./179190-deflector.json) |
 | Deflector | 93563 | [93563-deflector.json](./93563-deflector.json) |
+| Deflectorium | 293860 | [293860-deflectorium.json](./293860-deflectorium.json) |
 | Deflex | 92476 | [92476-deflex.json](./92476-deflex.json) |
 | Deflex / ROX | 315624 | [315624-deflex-rox.json](./315624-deflex-rox.json) |
 | Deflex V | 315510 | [315510-deflex-v.json](./315510-deflex-v.json) |
@@ -6865,6 +6868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Seuss Toddler | 63271 | [63271-dr-seuss-toddler.json](./63271-dr-seuss-toddler.json) |
 | Dr. Seuss: How the Grinch Stole Christmas! | 15489 | [15489-dr-seuss-how-the-grinch-stole-christmas.json](./15489-dr-seuss-how-the-grinch-stole-christmas.json) |
 | Dr. Seuss' How the Grinch Stole Christmas: Collector's Edition - Rhyme Time | 325695 | [325695-dr-seuss-how-the-grinch-stole-christmas-collectors-edition-rhyme-time.json](./325695-dr-seuss-how-the-grinch-stole-christmas-collectors-edition-rhyme-time.json) |
+| Dr. Seuss': The Cat in the Hat | 293344 | [293344-dr-seuss-the-cat-in-the-hat.json](./293344-dr-seuss-the-cat-in-the-hat.json) |
 | Dr. Seuss': The Cat in the Hat | 5814 | [5814-dr-seuss-the-cat-in-the-hat.json](./5814-dr-seuss-the-cat-in-the-hat.json) |
 | Dr. Signal's Strange Machine | 194415 | [194415-dr-signals-strange-machine.json](./194415-dr-signals-strange-machine.json) |
 | Dr. Slump | 44828 | [44828-dr-slump.json](./44828-dr-slump.json) |
@@ -8396,6 +8400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dubbed | 416687 | [416687-dubbed.json](./416687-dubbed.json) |
 | Dubbelmoral | 72606 | [72606-dubbelmoral.json](./72606-dubbelmoral.json) |
 | Dubbing Time | 156623 | [156623-dubbing-time.json](./156623-dubbing-time.json) |
+| Dubio | 293859 | [293859-dubio.json](./293859-dubio.json) |
 | Dubium | 182352 | [182352-dubium.json](./182352-dubium.json) |
 | Dubstep Abasralsa | 102407 | [102407-dubstep-abasralsa.json](./102407-dubstep-abasralsa.json) |
 | Dubstep Bird | 143588 | [143588-dubstep-bird.json](./143588-dubstep-bird.json) |
