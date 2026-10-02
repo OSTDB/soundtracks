@@ -764,9 +764,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Regicide | 11450 | [11450-warhammer-40-000-regicide.json](./11450-warhammer-40-000-regicide.json) |
 | Warhammer 40,000: Regicide - Deluxe Edition | 53903 | [53903-warhammer-40-000-regicide-deluxe-edition.json](./53903-warhammer-40-000-regicide-deluxe-edition.json) |
 | Warhammer 40,000: Rogue Trader | 203259 | [203259-warhammer-40-000-rogue-trader.json](./203259-warhammer-40-000-rogue-trader.json) |
+| Warhammer 40,000: Rogue Trader - Deluxe Edition | 279888 | [279888-warhammer-40-000-rogue-trader-deluxe-edition.json](./279888-warhammer-40-000-rogue-trader-deluxe-edition.json) |
 | Warhammer 40,000: Rogue Trader - The Infinite Museion | 393038 | [393038-warhammer-40-000-rogue-trader-the-infinite-museion.json](./393038-warhammer-40-000-rogue-trader-the-infinite-museion.json) |
 | Warhammer 40,000: Rogue Trader - The Shovel DLC | 342189 | [342189-warhammer-40-000-rogue-trader-the-shovel-dlc.json](./342189-warhammer-40-000-rogue-trader-the-shovel-dlc.json) |
 | Warhammer 40,000: Rogue Trader - Void Shadows | 302168 | [302168-warhammer-40-000-rogue-trader-void-shadows.json](./302168-warhammer-40-000-rogue-trader-void-shadows.json) |
+| Warhammer 40,000: Rogue Trader - Voidfarer Edition | 279877 | [279877-warhammer-40-000-rogue-trader-voidfarer-edition.json](./279877-warhammer-40-000-rogue-trader-voidfarer-edition.json) |
 | Warhammer 40,000: Rogue Trader - Voidfarer Pack | 280170 | [280170-warhammer-40-000-rogue-trader-voidfarer-pack.json](./280170-warhammer-40-000-rogue-trader-voidfarer-pack.json) |
 | Warhammer 40,000: Sanctus Reach | 26705 | [26705-warhammer-40-000-sanctus-reach.json](./26705-warhammer-40-000-sanctus-reach.json) |
 | Warhammer 40,000: Sanctus Reach - Horrors of the Warp | 111746 | [111746-warhammer-40-000-sanctus-reach-horrors-of-the-warp.json](./111746-warhammer-40-000-sanctus-reach-horrors-of-the-warp.json) |
@@ -1674,6 +1676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Paradise Island | 331119 | [331119-welcome-to-paradise-island.json](./331119-welcome-to-paradise-island.json) |
 | Welcome to Paradize: Zombot Edition | 288857 | [288857-welcome-to-paradize-zombot-edition.json](./288857-welcome-to-paradize-zombot-edition.json) |
 | Welcome to Pinehills | 165673 | [165673-welcome-to-pinehills.json](./165673-welcome-to-pinehills.json) |
+| Welcome to Planet E1d0r4d0! | 279858 | [279858-welcome-to-planet-e1d0r4d0.json](./279858-welcome-to-planet-e1d0r4d0.json) |
 | Welcome to Primrose Lake 2 | 275102 | [275102-welcome-to-primrose-lake-2.json](./275102-welcome-to-primrose-lake-2.json) |
 | Welcome to Primrose Lake 3 | 337472 | [337472-welcome-to-primrose-lake-3.json](./337472-welcome-to-primrose-lake-3.json) |
 | Welcome to Primrose Lake 4 | 337471 | [337471-welcome-to-primrose-lake-4.json](./337471-welcome-to-primrose-lake-4.json) |
@@ -2290,6 +2293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispering Flames | 107933 | [107933-whispering-flames.json](./107933-whispering-flames.json) |
 | Whispering Green | 416838 | [416838-whispering-green.json](./416838-whispering-green.json) |
 | Whispering Hills | 322952 | [322952-whispering-hills.json](./322952-whispering-hills.json) |
+| Whispering Shadows | 279856 | [279856-whispering-shadows.json](./279856-whispering-shadows.json) |
 | Whispering Stacks | 348429 | [348429-whispering-stacks.json](./348429-whispering-stacks.json) |
 | Whispering Willows | 9369 | [9369-whispering-willows.json](./9369-whispering-willows.json) |
 | Whispering Willows: Deluxe Edition | 53915 | [53915-whispering-willows-deluxe-edition.json](./53915-whispering-willows-deluxe-edition.json) |
@@ -3031,6 +3035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Games | 281646 | [281646-winter-games.json](./281646-winter-games.json) |
 | Winter Games | 281647 | [281647-winter-games.json](./281647-winter-games.json) |
 | Winter Games | 388392 | [388392-winter-games.json](./388392-winter-games.json) |
+| Winter Games Challenge | 279866 | [279866-winter-games-challenge.json](./279866-winter-games-challenge.json) |
 | Winter Heat | 367954 | [367954-winter-heat.json](./367954-winter-heat.json) |
 | Winter Lord | 329133 | [329133-winter-lord.json](./329133-winter-lord.json) |
 | Winter Magic | 182929 | [182929-winter-magic.json](./182929-winter-magic.json) |
