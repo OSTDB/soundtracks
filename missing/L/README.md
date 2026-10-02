@@ -1613,6 +1613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Star Wars: The Force Awakens - Deluxe Edition | 53271 | [53271-lego-star-wars-the-force-awakens-deluxe-edition.json](./53271-lego-star-wars-the-force-awakens-deluxe-edition.json) |
 | LEGO Star Wars: The Force Awakens - Escape From Starkiller Base | 138165 | [138165-lego-star-wars-the-force-awakens-escape-from-starkiller-base.json](./138165-lego-star-wars-the-force-awakens-escape-from-starkiller-base.json) |
 | LEGO Star Wars: The Force Awakens - First Order Siege of Takodana | 138164 | [138164-lego-star-wars-the-force-awakens-first-order-siege-of-takodana.json](./138164-lego-star-wars-the-force-awakens-first-order-siege-of-takodana.json) |
+| LEGO Star Wars: The Force Awakens - Jabba's Palace Character Pack | 301547 | [301547-lego-star-wars-the-force-awakens-jabbas-palace-character-pack.json](./301547-lego-star-wars-the-force-awakens-jabbas-palace-character-pack.json) |
 | LEGO Star Wars: The Force Awakens - Poe's Quest For Survival | 138161 | [138161-lego-star-wars-the-force-awakens-poes-quest-for-survival.json](./138161-lego-star-wars-the-force-awakens-poes-quest-for-survival.json) |
 | LEGO Star Wars: The Force Awakens - Prequel Trilogy Character Pack | 170323 | [170323-lego-star-wars-the-force-awakens-prequel-trilogy-character-pack.json](./170323-lego-star-wars-the-force-awakens-prequel-trilogy-character-pack.json) |
 | LEGO Star Wars: The Force Awakens - The Empire Strikes Back Character Pack | 169925 | [169925-lego-star-wars-the-force-awakens-the-empire-strikes-back-character-pack.json](./169925-lego-star-wars-the-force-awakens-the-empire-strikes-back-character-pack.json) |
@@ -2253,6 +2254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Saver | 247989 | [247989-life-saver.json](./247989-life-saver.json) |
 | Life Sim | 404409 | [404409-life-sim.json](./404409-life-sim.json) |
 | Life Sim | 90515 | [90515-life-sim.json](./90515-life-sim.json) |
+| Life Sim Bundle | 301534 | [301534-life-sim-bundle.json](./301534-life-sim-bundle.json) |
 | Life Simulator | 10959 | [10959-life-simulator.json](./10959-life-simulator.json) |
 | Life Simulator | 169945 | [169945-life-simulator.json](./169945-life-simulator.json) |
 | Life Simulator | 231930 | [231930-life-simulator.json](./231930-life-simulator.json) |
