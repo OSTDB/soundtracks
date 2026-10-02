@@ -1422,6 +1422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Boxing 2: Remastered - Platinum Edition | 396926 | [396926-real-boxing-2-remastered-platinum-edition.json](./396926-real-boxing-2-remastered-platinum-edition.json) |
 | Real Bus Mechanic Simulator | 102611 | [102611-real-bus-mechanic-simulator.json](./102611-real-bus-mechanic-simulator.json) |
 | Real Cake Maker | 316187 | [316187-real-cake-maker.json](./316187-real-cake-maker.json) |
+| Real Cake Maker: Complete Edition | 317905 | [317905-real-cake-maker-complete-edition.json](./317905-real-cake-maker-complete-edition.json) |
 | Real Cake Maker: Cool Kidz | 316245 | [316245-real-cake-maker-cool-kidz.json](./316245-real-cake-maker-cool-kidz.json) |
 | Real Cake Maker: Sugar Rush | 316246 | [316246-real-cake-maker-sugar-rush.json](./316246-real-cake-maker-sugar-rush.json) |
 | Real Car Drift Racing | 311794 | [311794-real-car-drift-racing.json](./311794-real-car-drift-racing.json) |
@@ -3325,6 +3326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reyher Austerich’s Garden Worlds Adventure | 357810 | [357810-reyher-austerich-s-garden-worlds-adventure.json](./357810-reyher-austerich-s-garden-worlds-adventure.json) |
 | Reynard | 111920 | [111920-reynard.json](./111920-reynard.json) |
 | Reynatis: Deluxe Edition | 288187 | [288187-reynatis-deluxe-edition.json](./288187-reynatis-deluxe-edition.json) |
+| Reynatis: Digital Deluxe Edition | 317908 | [317908-reynatis-digital-deluxe-edition.json](./317908-reynatis-digital-deluxe-edition.json) |
 | Reytrieve Odyssey | 347682 | [347682-reytrieve-odyssey.json](./347682-reytrieve-odyssey.json) |
 | Rez | 11244 | [11244-rez.json](./11244-rez.json) |
 | Rez HD | 84308 | [84308-rez-hd.json](./84308-rez-hd.json) |
@@ -5242,6 +5244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance in the Cityscape | 297208 | [297208-romance-in-the-cityscape.json](./297208-romance-in-the-cityscape.json) |
 | Romance is Dead | 273098 | [273098-romance-is-dead.json](./273098-romance-is-dead.json) |
 | Romance of the Three Kingdom Touch | 21956 | [21956-romance-of-the-three-kingdom-touch.json](./21956-romance-of-the-three-kingdom-touch.json) |
+| Romance of The Three Kingdoms 8 Remake: Digital Deluxe Edition | 317904 | [317904-romance-of-the-three-kingdoms-8-remake-digital-deluxe-edition.json](./317904-romance-of-the-three-kingdoms-8-remake-digital-deluxe-edition.json) |
 | Romance of the Three Kingdoms Hadou | 371351 | [371351-romance-of-the-three-kingdoms-hadou.json](./371351-romance-of-the-three-kingdoms-hadou.json) |
 | Romance of the Three Kingdoms II | 350627 | [350627-romance-of-the-three-kingdoms-ii.json](./350627-romance-of-the-three-kingdoms-ii.json) |
 | Romance of the Three Kingdoms IV with Power Up Kit | 91114 | [91114-romance-of-the-three-kingdoms-iv-with-power-up-kit.json](./91114-romance-of-the-three-kingdoms-iv-with-power-up-kit.json) |
