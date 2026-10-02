@@ -1976,6 +1976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ageless Machine: Cup of Tea | 180716 | [180716-ageless-machine-cup-of-tea.json](./180716-ageless-machine-cup-of-tea.json) |
 | Agence | 135115 | [135115-agence.json](./135115-agence.json) |
 | Agenda | 31784 | [31784-agenda.json](./31784-agenda.json) |
+| Agent | 283400 | [283400-agent.json](./283400-agent.json) |
 | Agent 01 | 199400 | [199400-agent-01.json](./199400-agent-01.json) |
 | Agent A & Down in Bermuda Bundle | 380693 | [380693-agent-a-and-down-in-bermuda-bundle.json](./380693-agent-a-and-down-in-bermuda-bundle.json) |
 | Agent A: A Puzzle In Disguise | 58042 | [58042-agent-a-a-puzzle-in-disguise.json](./58042-agent-a-a-puzzle-in-disguise.json) |
@@ -3613,6 +3614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Always Remember Me | 36356 | [36356-always-remember-me.json](./36356-always-remember-me.json) |
 | Always Sometimes Monsters | 7289 | [7289-always-sometimes-monsters.json](./7289-always-sometimes-monsters.json) |
 | Always Sunset | 413736 | [413736-always-sunset.json](./413736-always-sunset.json) |
+| Always Surrender | 283401 | [283401-always-surrender.json](./283401-always-surrender.json) |
 | Always Together | 393647 | [393647-always-together.json](./393647-always-together.json) |
 | Alys vs. the Phantom Feline Foe | 314370 | [314370-alys-vs-the-phantom-feline-foe.json](./314370-alys-vs-the-phantom-feline-foe.json) |
 | Alyssa's Quest | 310536 | [310536-alyssas-quest.json](./310536-alyssas-quest.json) |
