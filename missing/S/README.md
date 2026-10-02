@@ -8583,6 +8583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Kart 3DX | 261278 | [261278-sonic-kart-3dx.json](./261278-sonic-kart-3dx.json) |
 | Sonic Ki | 326148 | [326148-sonic-ki.json](./326148-sonic-ki.json) |
 | Sonic Legacy | 314502 | [314502-sonic-legacy.json](./314502-sonic-legacy.json) |
+| Sonic Legends | 301520 | [301520-sonic-legends.json](./301520-sonic-legends.json) |
 | Sonic Legends | 332594 | [332594-sonic-legends.json](./332594-sonic-legends.json) |
 | Sonic Liola: Begins | 330704 | [330704-sonic-liola-begins.json](./330704-sonic-liola-begins.json) |
 | Sonic Logic | 237488 | [237488-sonic-logic.json](./237488-sonic-logic.json) |
@@ -8808,6 +8809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog: Lost Future | 330530 | [330530-sonic-the-hedgehog-lost-future.json](./330530-sonic-the-hedgehog-lost-future.json) |
 | Sonic the Hedgehog: Mecha Madness | 326826 | [326826-sonic-the-hedgehog-mecha-madness.json](./326826-sonic-the-hedgehog-mecha-madness.json) |
 | Sonic the Hedgehog: Minigame Laptop | 294466 | [294466-sonic-the-hedgehog-minigame-laptop.json](./294466-sonic-the-hedgehog-minigame-laptop.json) |
+| Sonic the Hedgehog: Project Mettrix | 301516 | [301516-sonic-the-hedgehog-project-mettrix.json](./301516-sonic-the-hedgehog-project-mettrix.json) |
 | Sonic the Hedgehog: Rebirth of the Azure Wind | 326834 | [326834-sonic-the-hedgehog-rebirth-of-the-azure-wind.json](./326834-sonic-the-hedgehog-rebirth-of-the-azure-wind.json) |
 | Sonic the Hedgehog: Spinball | 237308 | [237308-sonic-the-hedgehog-spinball.json](./237308-sonic-the-hedgehog-spinball.json) |
 | Sonic the Hedgehog: Spinball | 279052 | [279052-sonic-the-hedgehog-spinball.json](./279052-sonic-the-hedgehog-spinball.json) |
@@ -10104,6 +10106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spark Protocol | 413036 | [413036-spark-protocol.json](./413036-spark-protocol.json) |
 | Spark the Electric Jester: Recharged | 337175 | [337175-spark-the-electric-jester-recharged.json](./337175-spark-the-electric-jester-recharged.json) |
 | Spark! Photon Blast | 369082 | [369082-spark-photon-blast.json](./369082-spark-photon-blast.json) |
+| SparkBlast | 301507 | [301507-sparkblast.json](./301507-sparkblast.json) |
 | Sparked | 382199 | [382199-sparked.json](./382199-sparked.json) |
 | Sparkhunt | 270153 | [270153-sparkhunt.json](./270153-sparkhunt.json) |
 | Sparking Beam Strike 1000 | 328485 | [328485-sparking-beam-strike-1000.json](./328485-sparking-beam-strike-1000.json) |
@@ -12080,6 +12083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Episode I - Battle for Naboo | 156 | [156-star-wars-episode-i-battle-for-naboo.json](./156-star-wars-episode-i-battle-for-naboo.json) |
 | Star Wars: Episode I - Battle Tank Attack | 198920 | [198920-star-wars-episode-i-battle-tank-attack.json](./198920-star-wars-episode-i-battle-tank-attack.json) |
 | Star Wars: Episode I - Electronic Sith Infiltrator Pen Game | 198921 | [198921-star-wars-episode-i-electronic-sith-infiltrator-pen-game.json](./198921-star-wars-episode-i-electronic-sith-infiltrator-pen-game.json) |
+| Star Wars: Episode I - Jedi Power Battles | 301490 | [301490-star-wars-episode-i-jedi-power-battles.json](./301490-star-wars-episode-i-jedi-power-battles.json) |
 | Star Wars: Episode I - Jedi Power Battles | 319362 | [319362-star-wars-episode-i-jedi-power-battles.json](./319362-star-wars-episode-i-jedi-power-battles.json) |
 | Star Wars: Episode I - Naboo Defense | 198914 | [198914-star-wars-episode-i-naboo-defense.json](./198914-star-wars-episode-i-naboo-defense.json) |
 | Star Wars: Episode I - Naboo Escape | 198913 | [198913-star-wars-episode-i-naboo-escape.json](./198913-star-wars-episode-i-naboo-escape.json) |
@@ -12111,6 +12115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Jedi Adventure | 62669 | [62669-star-wars-jedi-adventure.json](./62669-star-wars-jedi-adventure.json) |
 | Star Wars: Jedi Challenges | 75089 | [75089-star-wars-jedi-challenges.json](./75089-star-wars-jedi-challenges.json) |
 | Star Wars: Jedi Knight Collection | 54401 | [54401-star-wars-jedi-knight-collection.json](./54401-star-wars-jedi-knight-collection.json) |
+| Star Wars: Jedi Power Battles | 301489 | [301489-star-wars-jedi-power-battles.json](./301489-star-wars-jedi-power-battles.json) |
 | Star Wars: Jedi Reading | 91751 | [91751-star-wars-jedi-reading.json](./91751-star-wars-jedi-reading.json) |
 | Star Wars: Knights of the Old Republic - Remake | 168665 | [168665-star-wars-knights-of-the-old-republic-remake.json](./168665-star-wars-knights-of-the-old-republic-remake.json) |
 | Star Wars: Knights of the Old Republic III | 14401 | [14401-star-wars-knights-of-the-old-republic-iii.json](./14401-star-wars-knights-of-the-old-republic-iii.json) |
