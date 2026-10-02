@@ -1396,6 +1396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi to Yumemishi | 194582 | [194582-kimi-to-yumemishi.json](./194582-kimi-to-yumemishi.json) |
 | Kimi wa Hero ~ Taiketsu! | 74766 | [74766-kimi-wa-hero-taiketsu.json](./74766-kimi-wa-hero-taiketsu.json) |
 | KimiMuzi: The Merciless Queen of the Pigs | 381774 | [381774-kimimuzi-the-merciless-queen-of-the-pigs.json](./381774-kimimuzi-the-merciless-queen-of-the-pigs.json) |
+| KimiSuta: Kimi to Study | 287899 | [287899-kimisuta-kimi-to-study.json](./287899-kimisuta-kimi-to-study.json) |
 | Kimmie Jong on Nukes the World | 110989 | [110989-kimmie-jong-on-nukes-the-world.json](./110989-kimmie-jong-on-nukes-the-world.json) |
 | Kimmy | 29331 | [29331-kimmy.json](./29331-kimmy.json) |
 | Kimochii Classroom | 360209 | [360209-kimochii-classroom.json](./360209-kimochii-classroom.json) |
@@ -3070,6 +3071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyivan Rus | 214197 | [214197-kyivan-rus.json](./214197-kyivan-rus.json) |
 | Kyle is Famous: Complete Edition | 173138 | [173138-kyle-is-famous-complete-edition.json](./173138-kyle-is-famous-complete-edition.json) |
 | Kyle's Monster Adventure | 180696 | [180696-kyles-monster-adventure.json](./180696-kyles-monster-adventure.json) |
+| Kylie Minogue: Breathe (1998).mp3 | 287876 | [287876-kylie-minogue-breathe-1998-mp3.json](./287876-kylie-minogue-breathe-1998-mp3.json) |
 | KYM-tan Shoots Things | 198387 | [198387-kym-tan-shoots-things.json](./198387-kym-tan-shoots-things.json) |
 | Kyn | 11451 | [11451-kyn.json](./11451-kyn.json) |
 | Kyobi | 314683 | [314683-kyobi.json](./314683-kyobi.json) |
