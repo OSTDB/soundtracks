@@ -1420,6 +1420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tavern Cards | 129098 | [129098-tavern-cards.json](./129098-tavern-cards.json) |
 | Tavern Deep Cauldron | 401024 | [401024-tavern-deep-cauldron.json](./401024-tavern-deep-cauldron.json) |
 | Tavern Girl | 290949 | [290949-tavern-girl.json](./290949-tavern-girl.json) |
+| Tavern Girl: Expansion Pack | 297738 | [297738-tavern-girl-expansion-pack.json](./297738-tavern-girl-expansion-pack.json) |
 | Tavern Keeper | 25929 | [25929-tavern-keeper.json](./25929-tavern-keeper.json) |
 | Tavern Legends | 326667 | [326667-tavern-legends.json](./326667-tavern-legends.json) |
 | Tavern Manager Simulator | 290509 | [290509-tavern-manager-simulator.json](./290509-tavern-manager-simulator.json) |
@@ -4117,6 +4118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Definitive Subsistence Update | 374288 | [374288-the-definitive-subsistence-update.json](./374288-the-definitive-subsistence-update.json) |
 | The Deletion | 34768 | [34768-the-deletion.json](./34768-the-deletion.json) |
 | The Delirium Dimension | 269658 | [269658-the-delirium-dimension.json](./269658-the-delirium-dimension.json) |
+| The DeLuca Family: Season 1 | 297721 | [297721-the-deluca-family-season-1.json](./297721-the-deluca-family-season-1.json) |
 | The Delusions of Maximillian Wurst | 243646 | [243646-the-delusions-of-maximillian-wurst.json](./243646-the-delusions-of-maximillian-wurst.json) |
 | The Delusions of Von Sottendorff and His Squared Mind | 63520 | [63520-the-delusions-of-von-sottendorff-and-his-squared-mind.json](./63520-the-delusions-of-von-sottendorff-and-his-squared-mind.json) |
 | The Demon Blade | 309587 | [309587-the-demon-blade.json](./309587-the-demon-blade.json) |
@@ -8342,6 +8344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Slaverian Trucker | 185636 | [185636-the-slaverian-trucker.json](./185636-the-slaverian-trucker.json) |
 | The Slime Plague | 244203 | [244203-the-slime-plague.json](./244203-the-slime-plague.json) |
 | The Slime Sanctuary | 280894 | [280894-the-slime-sanctuary.json](./280894-the-slime-sanctuary.json) |
+| The Slime's Choice: TSC | 297751 | [297751-the-slimes-choice-tsc.json](./297751-the-slimes-choice-tsc.json) |
 | The Slipgate Duplex | 271186 | [271186-the-slipgate-duplex.json](./271186-the-slipgate-duplex.json) |
 | The Slopes | 28790 | [28790-the-slopes.json](./28790-the-slopes.json) |
 | The Slowpoke Shack | 329150 | [329150-the-slowpoke-shack.json](./329150-the-slowpoke-shack.json) |
@@ -12883,6 +12886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tornado ECR | 109170 | [109170-tornado-ecr.json](./109170-tornado-ecr.json) |
 | Tornado Emergency | 301244 | [301244-tornado-emergency.json](./301244-tornado-emergency.json) |
 | Tornado Mania! | 241466 | [241466-tornado-mania.json](./241466-tornado-mania.json) |
+| Tornado Raid / Tornado Blade | 297722 | [297722-tornado-raid-tornado-blade.json](./297722-tornado-raid-tornado-blade.json) |
 | Tornado: Low Level | 23052 | [23052-tornado-low-level.json](./23052-tornado-low-level.json) |
 | Tornado! | 118297 | [118297-tornado.json](./118297-tornado.json) |
 | Tornado.io | 106525 | [106525-tornado-io.json](./106525-tornado-io.json) |
@@ -14199,6 +14203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator Classic: SW1 Switcher | 357393 | [357393-train-simulator-classic-sw1-switcher.json](./357393-train-simulator-classic-sw1-switcher.json) |
 | Train Simulator Classic: Tamns VTG Wagon Pack | 293393 | [293393-train-simulator-classic-tamns-vtg-wagon-pack.json](./293393-train-simulator-classic-tamns-vtg-wagon-pack.json) |
 | Train Simulator Classic: Taurus Mountains - Ulukışla: Yenice Route Add-On | 226687 | [226687-train-simulator-classic-taurus-mountains-uluk-sla-yenice-route-add-on.json](./226687-train-simulator-classic-taurus-mountains-uluk-sla-yenice-route-add-on.json) |
+| Train Simulator Classic: Tennessee Pass | 297736 | [297736-train-simulator-classic-tennessee-pass.json](./297736-train-simulator-classic-tennessee-pass.json) |
 | Train Simulator Classic: Tokyo Commuter - Keihin–Tohoku & Utsunomiya Lines Route Add-On | 357297 | [357297-train-simulator-classic-tokyo-commuter-keihin-tohoku-and-utsunomiya-lines-route-add-on.json](./357297-train-simulator-classic-tokyo-commuter-keihin-tohoku-and-utsunomiya-lines-route-add-on.json) |
 | Train Simulator Classic: U-Bahn Hamburg U1 - Norderstedt Mitte - Ohlstedt & Großhansdorf Route Add-On | 357294 | [357294-train-simulator-classic-u-bahn-hamburg-u1-norderstedt-mitte-ohlstedt-and-gro-hansdorf-route-add-on.json](./357294-train-simulator-classic-u-bahn-hamburg-u1-norderstedt-mitte-ohlstedt-and-gro-hansdorf-route-add-on.json) |
 | Train Simulator Classic: Wasatch Grade Scenario Pack 01 | 243375 | [243375-train-simulator-classic-wasatch-grade-scenario-pack-01.json](./243375-train-simulator-classic-wasatch-grade-scenario-pack-01.json) |
@@ -14631,6 +14636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trans Theft Horso | 258563 | [258563-trans-theft-horso.json](./258563-trans-theft-horso.json) |
 | Trans-Galactic Tournament | 77963 | [77963-trans-galactic-tournament.json](./77963-trans-galactic-tournament.json) |
 | Trans-Siberian Legends: Beautiful Girls | 298088 | [298088-trans-siberian-legends-beautiful-girls.json](./298088-trans-siberian-legends-beautiful-girls.json) |
+| Trans-Siberian Legends: Ekaterinburg | 297725 | [297725-trans-siberian-legends-ekaterinburg.json](./297725-trans-siberian-legends-ekaterinburg.json) |
 | Trans-Siberian Legends: Posters in a Train Compartment | 292645 | [292645-trans-siberian-legends-posters-in-a-train-compartment.json](./292645-trans-siberian-legends-posters-in-a-train-compartment.json) |
 | Trans-Siberian Railway Simulator | 114950 | [114950-trans-siberian-railway-simulator.json](./114950-trans-siberian-railway-simulator.json) |
 | Transarctica | 10857 | [10857-transarctica.json](./10857-transarctica.json) |
