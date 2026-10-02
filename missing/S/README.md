@@ -7046,6 +7046,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smithing Master | 297615 | [297615-smithing-master.json](./297615-smithing-master.json) |
 | SmithStory II | 193879 | [193879-smithstory-ii.json](./193879-smithstory-ii.json) |
 | Smithy Shop | 236538 | [236538-smithy-shop.json](./236538-smithy-shop.json) |
+| SMOD Troopers | 312617 | [312617-smod-troopers.json](./312617-smod-troopers.json) |
+| SMOD: Outbreak | 312616 | [312616-smod-outbreak.json](./312616-smod-outbreak.json) |
 | Smogland | 44095 | [44095-smogland.json](./44095-smogland.json) |
 | Smoke and Mirrors | 356784 | [356784-smoke-and-mirrors.json](./356784-smoke-and-mirrors.json) |
 | Smoke Break! | 344359 | [344359-smoke-break.json](./344359-smoke-break.json) |
@@ -14623,6 +14625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summertime Madness | 144935 | [144935-summertime-madness.json](./144935-summertime-madness.json) |
 | Summertime Sadness | 376635 | [376635-summertime-sadness.json](./376635-summertime-sadness.json) |
 | Summit | 163453 | [163453-summit.json](./163453-summit.json) |
+| Summit | 312638 | [312638-summit.json](./312638-summit.json) |
 | Summit | 80508 | [80508-summit.json](./80508-summit.json) |
 | Summit in Space | 164905 | [164905-summit-in-space.json](./164905-summit-in-space.json) |
 | Summit of the Wolf | 119033 | [119033-summit-of-the-wolf.json](./119033-summit-of-the-wolf.json) |
