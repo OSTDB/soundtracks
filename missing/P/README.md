@@ -6365,6 +6365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potato Survival | 218708 | [218708-potato-survival.json](./218708-potato-survival.json) |
 | Potato Thriller | 97100 | [97100-potato-thriller.json](./97100-potato-thriller.json) |
 | Potato Vs. Potato | 341560 | [341560-potato-vs-potato.json](./341560-potato-vs-potato.json) |
+| Potatostrike | 316140 | [316140-potatostrike.json](./316140-potatostrike.json) |
 | PotDuckRun | 364677 | [364677-potduckrun.json](./364677-potduckrun.json) |
 | Potential Man | 411102 | [411102-potential-man.json](./411102-potential-man.json) |
 | Pothead | 392362 | [392362-pothead.json](./392362-pothead.json) |
@@ -7825,6 +7826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Nova | 304652 | [304652-project-nova.json](./304652-project-nova.json) |
 | Project: Obscurion | 251678 | [251678-project-obscurion.json](./251678-project-obscurion.json) |
 | Project: Offroad | 104224 | [104224-project-offroad.json](./104224-project-offroad.json) |
+| Project: One Bullet | 316136 | [316136-project-one-bullet.json](./316136-project-one-bullet.json) |
 | Project: Perfectly Normal | 177430 | [177430-project-perfectly-normal.json](./177430-project-perfectly-normal.json) |
 | Project: Pong | 241467 | [241467-project-pong.json](./241467-project-pong.json) |
 | Project: Purconia | 391158 | [391158-project-purconia.json](./391158-project-purconia.json) |
