@@ -2238,6 +2238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Defence | 250902 | [250902-air-defence.json](./250902-air-defence.json) |
 | Air Delivery | 285591 | [285591-air-delivery.json](./285591-air-delivery.json) |
 | Air Duel | 10445 | [10445-air-duel.json](./10445-air-duel.json) |
+| Air Fight: Sky Fighters | 281043 | [281043-air-fight-sky-fighters.json](./281043-air-fight-sky-fighters.json) |
 | Air Force Commander | 14231 | [14231-air-force-commander.json](./14231-air-force-commander.json) |
 | Air Force Commander: Combat Arms Fighter Shooting Attack | 88738 | [88738-air-force-commander-combat-arms-fighter-shooting-attack.json](./88738-air-force-commander-combat-arms-fighter-shooting-attack.json) |
 | Air Force Gear | 125271 | [125271-air-force-gear.json](./125271-air-force-gear.json) |
@@ -2311,6 +2312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airaki! | 61557 | [61557-airaki.json](./61557-airaki.json) |
 | Airavat | 57916 | [57916-airavat.json](./57916-airavat.json) |
 | AirBob | 295874 | [295874-airbob.json](./295874-airbob.json) |
+| Airborne | 281030 | [281030-airborne.json](./281030-airborne.json) |
 | Airborne Arena | 277854 | [277854-airborne-arena.json](./277854-airborne-arena.json) |
 | Airborne Assault: Conquest of the Aegean | 72759 | [72759-airborne-assault-conquest-of-the-aegean.json](./72759-airborne-assault-conquest-of-the-aegean.json) |
 | Airborne Empire | 252769 | [252769-airborne-empire.json](./252769-airborne-empire.json) |
