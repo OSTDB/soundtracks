@@ -4137,6 +4137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluster Cluck | 52210 | [52210-fluster-cluck.json](./52210-fluster-cluck.json) |
 | Flute Master: Epic Christmas | 170514 | [170514-flute-master-epic-christmas.json](./170514-flute-master-epic-christmas.json) |
 | Flute Master: Trick or Treat | 170513 | [170513-flute-master-trick-or-treat.json](./170513-flute-master-trick-or-treat.json) |
+| Flute The Snake Charmer | 295465 | [295465-flute-the-snake-charmer.json](./295465-flute-the-snake-charmer.json) |
 | Flutter of birds II: Tenshi-tachi no Tsubasa | 310651 | [310651-flutter-of-birds-ii-tenshi-tachi-no-tsubasa.json](./310651-flutter-of-birds-ii-tenshi-tachi-no-tsubasa.json) |
 | Flutter of Birds: Tori-tachi no Habataki | 293164 | [293164-flutter-of-birds-tori-tachi-no-habataki.json](./293164-flutter-of-birds-tori-tachi-no-habataki.json) |
 | Flutter! | 304135 | [304135-flutter.json](./304135-flutter.json) |
@@ -4452,6 +4453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Club Simulator - FCS | 36247 | [36247-football-club-simulator-fcs.json](./36247-football-club-simulator-fcs.json) |
 | Football Crazy Challenge | 84258 | [84258-football-crazy-challenge.json](./84258-football-crazy-challenge.json) |
 | Football Cup 2021 | 147253 | [147253-football-cup-2021.json](./147253-football-cup-2021.json) |
+| Football Cup 2024 | 295475 | [295475-football-cup-2024.json](./295475-football-cup-2024.json) |
 | Football Director 2017 | 200160 | [200160-football-director-2017.json](./200160-football-director-2017.json) |
 | Football Director 2019 | 112986 | [112986-football-director-2019.json](./112986-football-director-2019.json) |
 | Football Director DS | 21474 | [21474-football-director-ds.json](./21474-football-director-ds.json) |
@@ -5191,11 +5193,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Motorsport 7: Deluxe Edition | 84940 | [84940-forza-motorsport-7-deluxe-edition.json](./84940-forza-motorsport-7-deluxe-edition.json) |
 | Forza Motorsport 7: Ultimate Edition | 84941 | [84941-forza-motorsport-7-ultimate-edition.json](./84941-forza-motorsport-7-ultimate-edition.json) |
 | Forza Motorsport: 1969 Chevrolet Camaro Jordan Luka 3 | 314390 | [314390-forza-motorsport-1969-chevrolet-camaro-jordan-luka-3.json](./314390-forza-motorsport-1969-chevrolet-camaro-jordan-luka-3.json) |
+| Forza Motorsport: 1983 Nissan #23 Nissan Motorsports Silvia Super Silhouette | 295480 | [295480-forza-motorsport-1983-nissan-23-nissan-motorsports-silvia-super-silhouette.json](./295480-forza-motorsport-1983-nissan-23-nissan-motorsports-silvia-super-silhouette.json) |
 | Forza Motorsport: 1983 Porsche #11 John Fitzpatrick Racing 956 | 286134 | [286134-forza-motorsport-1983-porsche-11-john-fitzpatrick-racing-956.json](./286134-forza-motorsport-1983-porsche-11-john-fitzpatrick-racing-956.json) |
+| Forza Motorsport: 1986 Lotus #12 Team Lotus 98T | 295477 | [295477-forza-motorsport-1986-lotus-12-team-lotus-98t.json](./295477-forza-motorsport-1986-lotus-12-team-lotus-98t.json) |
+| Forza Motorsport: 2015 Cadillac #3 Cadillac Racing ATS-V.R | 295484 | [295484-forza-motorsport-2015-cadillac-3-cadillac-racing-ats-v-r.json](./295484-forza-motorsport-2015-cadillac-3-cadillac-racing-ats-v-r.json) |
 | Forza Motorsport: 2016 Ligier #11 Eurointernational JS P3 | 305542 | [305542-forza-motorsport-2016-ligier-11-eurointernational-js-p3.json](./305542-forza-motorsport-2016-ligier-11-eurointernational-js-p3.json) |
 | Forza Motorsport: 2018 Cadillac #57 TA CTS-V | 292648 | [292648-forza-motorsport-2018-cadillac-57-ta-cts-v.json](./292648-forza-motorsport-2018-cadillac-57-ta-cts-v.json) |
+| Forza Motorsport: 2018 Ford #98 Breathless Pro Racing TA Mustang | 295483 | [295483-forza-motorsport-2018-ford-98-breathless-pro-racing-ta-mustang.json](./295483-forza-motorsport-2018-ford-98-breathless-pro-racing-ta-mustang.json) |
 | Forza Motorsport: 2018 Lamborghini #63 Squadra Corse Huracán Super Trofeo Evo | 285479 | [285479-forza-motorsport-2018-lamborghini-63-squadra-corse-huracan-super-trofeo-evo.json](./285479-forza-motorsport-2018-lamborghini-63-squadra-corse-huracan-super-trofeo-evo.json) |
 | Forza Motorsport: 2019 McLaren Senna GTR | 286540 | [286540-forza-motorsport-2019-mclaren-senna-gtr.json](./286540-forza-motorsport-2019-mclaren-senna-gtr.json) |
+| Forza Motorsport: 2019 Toyota 86 TRD SE | 295479 | [295479-forza-motorsport-2019-toyota-86-trd-se.json](./295479-forza-motorsport-2019-toyota-86-trd-se.json) |
+| Forza Motorsport: 2020 Audi TT RS Coupe | 295482 | [295482-forza-motorsport-2020-audi-tt-rs-coupe.json](./295482-forza-motorsport-2020-audi-tt-rs-coupe.json) |
+| Forza Motorsport: 2020 Lexus #14 VASSER SULLIVAN RC F GT3 | 295478 | [295478-forza-motorsport-2020-lexus-14-vasser-sullivan-rc-f-gt3.json](./295478-forza-motorsport-2020-lexus-14-vasser-sullivan-rc-f-gt3.json) |
 | Forza Motorsport: 2024 Ford Mustang Dark Horse | 361778 | [361778-forza-motorsport-2024-ford-mustang-dark-horse.json](./361778-forza-motorsport-2024-ford-mustang-dark-horse.json) |
 | Forza Motorsport: Deluxe Edition | 271467 | [271467-forza-motorsport-deluxe-edition.json](./271467-forza-motorsport-deluxe-edition.json) |
 | Forza Motorsport: Porsche 963 Combo | 316395 | [316395-forza-motorsport-porsche-963-combo.json](./316395-forza-motorsport-porsche-963-combo.json) |
