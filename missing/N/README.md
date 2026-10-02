@@ -800,6 +800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necesse | 130788 | [130788-necesse.json](./130788-necesse.json) |
 | Neck-N-Neck | 40381 | [40381-neck-n-neck.json](./40381-neck-n-neck.json) |
 | Neckbeards: Cuck Invaders | 81737 | [81737-neckbeards-cuck-invaders.json](./81737-neckbeards-cuck-invaders.json) |
+| Neckbreak | 308504 | [308504-neckbreak.json](./308504-neckbreak.json) |
 | Necks Please... | 294212 | [294212-necks-please.json](./294212-necks-please.json) |
 | Necogram | 243384 | [243384-necogram.json](./243384-necogram.json) |
 | Necomen | 359550 | [359550-necomen.json](./359550-necomen.json) |
