@@ -815,6 +815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Time | 362282 | [362282-happy-time.json](./362282-happy-time.json) |
 | Happy Trails | 23685 | [23685-happy-trails.json](./23685-happy-trails.json) |
 | Happy Trap House | 224552 | [224552-happy-trap-house.json](./224552-happy-trap-house.json) |
+| Happy Uppen Sometimes Downsad | 310140 | [310140-happy-uppen-sometimes-downsad.json](./310140-happy-uppen-sometimes-downsad.json) |
 | Happy Vampire Girl | 111870 | [111870-happy-vampire-girl.json](./111870-happy-vampire-girl.json) |
 | Happy Vikings | 61106 | [61106-happy-vikings.json](./61106-happy-vikings.json) |
 | Happy VR Plantation Farm | 166193 | [166193-happy-vr-plantation-farm.json](./166193-happy-vr-plantation-farm.json) |
