@@ -225,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kali | 176269 | [176269-kali.json](./176269-kali.json) |
 | Kali's Legion | 373543 | [373543-kalis-legion.json](./373543-kalis-legion.json) |
 | Kalia | 334138 | [334138-kalia.json](./334138-kalia.json) |
+| Kalia and The Fire Staff | 282832 | [282832-kalia-and-the-fire-staff.json](./282832-kalia-and-the-fire-staff.json) |
 | Kalidazkoph | 135794 | [135794-kalidazkoph.json](./135794-kalidazkoph.json) |
 | Kalimat Karash | 314637 | [314637-kalimat-karash.json](./314637-kalimat-karash.json) |
 | Kalimba: The Dark Void - Solo | 170377 | [170377-kalimba-the-dark-void-solo.json](./170377-kalimba-the-dark-void-solo.json) |
@@ -2411,6 +2412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KnuckleFighter-Alpha | 172692 | [172692-knucklefighter-alpha.json](./172692-knucklefighter-alpha.json) |
 | KnuckleFighter-X | 172691 | [172691-knucklefighter-x.json](./172691-knucklefighter-x.json) |
 | KnuckleFighter-XPlus | 172694 | [172694-knucklefighter-xplus.json](./172694-knucklefighter-xplus.json) |
+| Knuckleheads | 282806 | [282806-knuckleheads.json](./282806-knuckleheads.json) |
 | Knuckles Generation | 330526 | [330526-knuckles-generation.json](./330526-knuckles-generation.json) |
 | Knuckles Minehunt | 326839 | [326839-knuckles-minehunt.json](./326839-knuckles-minehunt.json) |
 | Knuckles the Echidna in Sonic the Hedgehog | 129185 | [129185-knuckles-the-echidna-in-sonic-the-hedgehog.json](./129185-knuckles-the-echidna-in-sonic-the-hedgehog.json) |
@@ -2611,6 +2613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kono Subarashii Sekai ni Shukufuku wo! Kibou no Meikyuu to Tsudoishi Boukensha-tachi! Plus: Limited Edition | 167155 | [167155-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi-plus-limited-edition.json](./167155-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi-plus-limited-edition.json) |
 | Kono Subarashii Sekai ni Shukufuku wo! Kibou no Meikyuu to Tsudoishi Boukensha-tachi!: Limited Edition | 167152 | [167152-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi-limited-edition.json](./167152-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi-limited-edition.json) |
 | Kono Subarashii Sekai ni Shukufuku wo!: Kono Yokubukai Game ni Shinpan wo! | 112301 | [112301-kono-subarashii-sekai-ni-shukufuku-wo-kono-yokubukai-game-ni-shinpan-wo.json](./112301-kono-subarashii-sekai-ni-shukufuku-wo-kono-yokubukai-game-ni-shinpan-wo.json) |
+| Kono Uta ga Owattara: When This Song Is Over | 282811 | [282811-kono-uta-ga-owattara-when-this-song-is-over.json](./282811-kono-uta-ga-owattara-when-this-song-is-over.json) |
 | Kono Warui Koneko-chan-me! | 202228 | [202228-kono-warui-koneko-chan-me.json](./202228-kono-warui-koneko-chan-me.json) |
 | Konoha Challenge | 131378 | [131378-konoha-challenge.json](./131378-konoha-challenge.json) |
 | Konohana 3: Itsuwari no Kage no Mukou ni | 213868 | [213868-konohana-3-itsuwari-no-kage-no-mukou-ni.json](./213868-konohana-3-itsuwari-no-kage-no-mukou-ni.json) |
