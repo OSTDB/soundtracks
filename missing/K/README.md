@@ -291,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamikaze Empire | 411652 | [411652-kamikaze-empire.json](./411652-kamikaze-empire.json) |
 | Kamikaze Lassplanes | 250011 | [250011-kamikaze-lassplanes.json](./250011-kamikaze-lassplanes.json) |
 | Kamikaze Saucers | 40733 | [40733-kamikaze-saucers.json](./40733-kamikaze-saucers.json) |
+| Kamikaze Tactics | 333772 | [333772-kamikaze-tactics.json](./333772-kamikaze-tactics.json) |
 | Kamikazi Alien | 25154 | [25154-kamikazi-alien.json](./25154-kamikazi-alien.json) |
 | Kamikazo VR | 82142 | [82142-kamikazo-vr.json](./82142-kamikazo-vr.json) |
 | Kamiko | 28015 | [28015-kamiko.json](./28015-kamiko.json) |
