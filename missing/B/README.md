@@ -5571,6 +5571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blox 3D | 100146 | [100146-blox-3d.json](./100146-blox-3d.json) |
 | Blox 3D World | 196053 | [196053-blox-3d-world.json](./196053-blox-3d-world.json) |
 | BloxAR | 357299 | [357299-bloxar.json](./357299-bloxar.json) |
+| Bloxcalibur | 322043 | [322043-bloxcalibur.json](./322043-bloxcalibur.json) |
 | Bloxeed | 38586 | [38586-bloxeed.json](./38586-bloxeed.json) |
 | Bloxi: The Word Game | 190949 | [190949-bloxi-the-word-game.json](./190949-bloxi-the-word-game.json) |
 | Bloxicus | 122428 | [122428-bloxicus.json](./122428-bloxicus.json) |
@@ -6986,6 +6987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Test 2: Tricky Stories | 297626 | [297626-brain-test-2-tricky-stories.json](./297626-brain-test-2-tricky-stories.json) |
 | Brain Test All-Star: IQ Boost | 379581 | [379581-brain-test-all-star-iq-boost.json](./379581-brain-test-all-star-iq-boost.json) |
 | Brain Test: Mental Games | 304129 | [304129-brain-test-mental-games.json](./304129-brain-test-mental-games.json) |
+| Brain Test: Tricky Puzzles | 322082 | [322082-brain-test-tricky-puzzles.json](./322082-brain-test-tricky-puzzles.json) |
 | Brain Tester: Mind Trick Quiz 2 | 301839 | [301839-brain-tester-mind-trick-quiz-2.json](./301839-brain-tester-mind-trick-quiz-2.json) |
 | Brain Trainer: Spot the Difference | 99384 | [99384-brain-trainer-spot-the-difference.json](./99384-brain-trainer-spot-the-difference.json) |
 | Brain Training! Order Quiz | 403739 | [403739-brain-training-order-quiz.json](./403739-brain-training-order-quiz.json) |
@@ -7879,6 +7881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buba | 120348 | [120348-buba.json](./120348-buba.json) |
 | Bubba Yuga | 383523 | [383523-bubba-yuga.json](./383523-bubba-yuga.json) |
 | Bubbaruka! | 149483 | [149483-bubbaruka.json](./149483-bubbaruka.json) |
+| Bubbelsche Deluxe | 322062 | [322062-bubbelsche-deluxe.json](./322062-bubbelsche-deluxe.json) |
 | Bubbits | 319971 | [319971-bubbits.json](./319971-bubbits.json) |
 | Bubblbrst | 24081 | [24081-bubblbrst.json](./24081-bubblbrst.json) |
 | Bubble | 287650 | [287650-bubble.json](./287650-bubble.json) |
@@ -8687,6 +8690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bussy Master: Count Fuckula's Cum Castle | 393831 | [393831-bussy-master-count-fuckulas-cum-castle.json](./393831-bussy-master-count-fuckulas-cum-castle.json) |
 | Bussy Master: Halloween Advent 2024 | 318421 | [318421-bussy-master-halloween-advent-2024.json](./318421-bussy-master-halloween-advent-2024.json) |
 | Bust a Block | 319973 | [319973-bust-a-block.json](./319973-bust-a-block.json) |
+| Bust a Block 2 | 322070 | [322070-bust-a-block-2.json](./322070-bust-a-block-2.json) |
 | Bust a date | 173829 | [173829-bust-a-date.json](./173829-bust-a-date.json) |
 | Bust A Groove | 4138 | [4138-bust-a-groove.json](./4138-bust-a-groove.json) |
 | Bust A Groove 2 | 4139 | [4139-bust-a-groove-2.json](./4139-bust-a-groove-2.json) |
