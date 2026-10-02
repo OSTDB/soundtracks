@@ -3641,6 +3641,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet Media Band | 209533 | [209533-meet-media-band.json](./209533-meet-media-band.json) |
 | Meet My Stepmoms | 376748 | [376748-meet-my-stepmoms.json](./376748-meet-my-stepmoms.json) |
 | Meet My Teacher | 289873 | [289873-meet-my-teacher.json](./289873-meet-my-teacher.json) |
+| Meet My Teacher: Chemistry DLC | 302588 | [302588-meet-my-teacher-chemistry-dlc.json](./302588-meet-my-teacher-chemistry-dlc.json) |
+| Meet My Teacher: Math DLC | 302587 | [302587-meet-my-teacher-math-dlc.json](./302587-meet-my-teacher-math-dlc.json) |
+| Meet My Teacher: Sport DLC | 302589 | [302589-meet-my-teacher-sport-dlc.json](./302589-meet-my-teacher-sport-dlc.json) |
 | Meet Santa | 175300 | [175300-meet-santa.json](./175300-meet-santa.json) |
 | Meet Santa | 326969 | [326969-meet-santa.json](./326969-meet-santa.json) |
 | Meet the Girls | 181801 | [181801-meet-the-girls.json](./181801-meet-the-girls.json) |
@@ -6047,6 +6050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Minecon 2016 Skin Pack | 255328 | [255328-minecraft-minecon-2016-skin-pack.json](./255328-minecraft-minecon-2016-skin-pack.json) |
 | Minecraft: Minecon Live - Rush Race! | 315515 | [315515-minecraft-minecon-live-rush-race.json](./315515-minecraft-minecon-live-rush-race.json) |
 | Minecraft: Minecraft Legends Skin Pack | 307731 | [307731-minecraft-minecraft-legends-skin-pack.json](./307731-minecraft-minecraft-legends-skin-pack.json) |
+| Minecraft: Mini Game Heroes Skin Pack | 302603 | [302603-minecraft-mini-game-heroes-skin-pack.json](./302603-minecraft-mini-game-heroes-skin-pack.json) |
 | Minecraft: Mini Game Masters | 307747 | [307747-minecraft-mini-game-masters.json](./307747-minecraft-mini-game-masters.json) |
 | Minecraft: Moana Character Pack | 254491 | [254491-minecraft-moana-character-pack.json](./254491-minecraft-moana-character-pack.json) |
 | Minecraft: Mob Vote 2022 Skin Pack | 303029 | [303029-minecraft-mob-vote-2022-skin-pack.json](./303029-minecraft-mob-vote-2022-skin-pack.json) |
@@ -6065,6 +6069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Playstation Vita Edition | 42696 | [42696-minecraft-playstation-vita-edition.json](./42696-minecraft-playstation-vita-edition.json) |
 | Minecraft: Power Grid Hero | 315516 | [315516-minecraft-power-grid-hero.json](./315516-minecraft-power-grid-hero.json) |
 | Minecraft: Quantum Realm | 333582 | [333582-minecraft-quantum-realm.json](./333582-minecraft-quantum-realm.json) |
+| Minecraft: Skin Pack 3 | 302607 | [302607-minecraft-skin-pack-3.json](./302607-minecraft-skin-pack-3.json) |
 | Minecraft: Skin Pack 3 - Classic | 316749 | [316749-minecraft-skin-pack-3-classic.json](./316749-minecraft-skin-pack-3-classic.json) |
 | Minecraft: Solo - A Star Wars Story Pack | 307724 | [307724-minecraft-solo-a-star-wars-story-pack.json](./307724-minecraft-solo-a-star-wars-story-pack.json) |
 | Minecraft: Sonic Texture Pack | 254791 | [254791-minecraft-sonic-texture-pack.json](./254791-minecraft-sonic-texture-pack.json) |
@@ -7252,6 +7257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mojito the Cat: Halloween Skins | 309643 | [309643-mojito-the-cat-halloween-skins.json](./309643-mojito-the-cat-halloween-skins.json) |
 | Mojito the Cat: Legendary Edition | 260686 | [260686-mojito-the-cat-legendary-edition.json](./260686-mojito-the-cat-legendary-edition.json) |
 | Mojito the Cat: Platina Edition | 262364 | [262364-mojito-the-cat-platina-edition.json](./262364-mojito-the-cat-platina-edition.json) |
+| Mojito the Cat: Sushi Skins | 302593 | [302593-mojito-the-cat-sushi-skins.json](./302593-mojito-the-cat-sushi-skins.json) |
 | Mojo Master | 66702 | [66702-mojo-master.json](./66702-mojo-master.json) |
 | Mojo Melee | 223479 | [223479-mojo-melee.json](./223479-mojo-melee.json) |
 | Mojo Party | 398528 | [398528-mojo-party.json](./398528-mojo-party.json) |
@@ -8062,6 +8068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Crystals | 172710 | [172710-moon-crystals.json](./172710-moon-crystals.json) |
 | Moon Defence | 153901 | [153901-moon-defence.json](./153901-moon-defence.json) |
 | Moon Diver | 20543 | [20543-moon-diver.json](./20543-moon-diver.json) |
+| Moon Drop | 302596 | [302596-moon-drop.json](./302596-moon-drop.json) |
 | Moon Eater | 59659 | [59659-moon-eater.json](./59659-moon-eater.json) |
 | Moon Fall | 122381 | [122381-moon-fall.json](./122381-moon-fall.json) |
 | Moon Farming | 161352 | [161352-moon-farming.json](./161352-moon-farming.json) |
