@@ -1494,6 +1494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genshin Impact: Akasha Pulses, the Kalpa Flame Rises | 257453 | [257453-genshin-impact-akasha-pulses-the-kalpa-flame-rises.json](./257453-genshin-impact-akasha-pulses-the-kalpa-flame-rises.json) |
 | Genshin Impact: All Senses Clear, All Existence Void | 257465 | [257465-genshin-impact-all-senses-clear-all-existence-void.json](./257465-genshin-impact-all-senses-clear-all-existence-void.json) |
 | Genshin Impact: An Elegy for Faded Moonlight | 372567 | [372567-genshin-impact-an-elegy-for-faded-moonlight.json](./372567-genshin-impact-an-elegy-for-faded-moonlight.json) |
+| Genshin Impact: An Everlasting Dream Intertwined | 302616 | [302616-genshin-impact-an-everlasting-dream-intertwined.json](./302616-genshin-impact-an-everlasting-dream-intertwined.json) |
 | Genshin Impact: As Light Rain Falls Without Reason | 259867 | [259867-genshin-impact-as-light-rain-falls-without-reason.json](./259867-genshin-impact-as-light-rain-falls-without-reason.json) |
 | Genshin Impact: Augured Homecoming | 398426 | [398426-genshin-impact-augured-homecoming.json](./398426-genshin-impact-augured-homecoming.json) |
 | Genshin Impact: Flowers Resplendent on the Sun-Scorched Sojourn | 310514 | [310514-genshin-impact-flowers-resplendent-on-the-sun-scorched-sojourn.json](./310514-genshin-impact-flowers-resplendent-on-the-sun-scorched-sojourn.json) |
