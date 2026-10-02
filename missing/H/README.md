@@ -3004,6 +3004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of the Obelisk | 62761 | [62761-heroes-of-the-obelisk.json](./62761-heroes-of-the-obelisk.json) |
 | Heroes of the Offworld Arena | 102371 | [102371-heroes-of-the-offworld-arena.json](./102371-heroes-of-the-offworld-arena.json) |
 | Heroes of the Pacific | 5861 | [5861-heroes-of-the-pacific.json](./5861-heroes-of-the-pacific.json) |
+| Heroes of the Seasons | 285671 | [285671-heroes-of-the-seasons.json](./285671-heroes-of-the-seasons.json) |
 | Heroes of the Seven Seas | 33673 | [33673-heroes-of-the-seven-seas.json](./33673-heroes-of-the-seven-seas.json) |
 | Heroes of the Three Kingdoms 2 | 143499 | [143499-heroes-of-the-three-kingdoms-2.json](./143499-heroes-of-the-three-kingdoms-2.json) |
 | Heroes of the Three Kingdoms 3 | 143504 | [143504-heroes-of-the-three-kingdoms-3.json](./143504-heroes-of-the-three-kingdoms-3.json) |
@@ -5441,6 +5442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Plague 0 | 107907 | [107907-house-of-plague-0.json](./107907-house-of-plague-0.json) |
 | House of Portals VR | 154384 | [154384-house-of-portals-vr.json](./154384-house-of-portals-vr.json) |
 | House of Shadow | 230907 | [230907-house-of-shadow.json](./230907-house-of-shadow.json) |
+| House of Shadows | 285695 | [285695-house-of-shadows.json](./285695-house-of-shadows.json) |
 | House of Sin | 189967 | [189967-house-of-sin.json](./189967-house-of-sin.json) |
 | House of Slender-Man | 64425 | [64425-house-of-slender-man.json](./64425-house-of-slender-man.json) |
 | House of Spikes | 271786 | [271786-house-of-spikes.json](./271786-house-of-spikes.json) |
