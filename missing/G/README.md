@@ -892,6 +892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Eternal | 406903 | [406903-garden-eternal.json](./406903-garden-eternal.json) |
 | Garden for Glory: Collector's Edition | 337241 | [337241-garden-for-glory-collectors-edition.json](./337241-garden-for-glory-collectors-edition.json) |
 | Garden Gingdom | 386993 | [386993-garden-gingdom.json](./386993-garden-gingdom.json) |
+| Garden Harvest | 285145 | [285145-garden-harvest.json](./285145-garden-harvest.json) |
 | Garden Hunt | 352263 | [352263-garden-hunt.json](./352263-garden-hunt.json) |
 | Garden In! | 198625 | [198625-garden-in.json](./198625-garden-in.json) |
 | Garden Island Plant Village: Grow & Harvest Fruits & Vegetables on your country farm! | 89825 | [89825-garden-island-plant-village-grow-and-harvest-fruits-and-vegetables-on-your-country-farm.json](./89825-garden-island-plant-village-grow-and-harvest-fruits-and-vegetables-on-your-country-farm.json) |
@@ -1061,6 +1062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gasu: The Hugging Dragon | 177486 | [177486-gasu-the-hugging-dragon.json](./177486-gasu-the-hugging-dragon.json) |
 | Gat Rat | 348830 | [348830-gat-rat.json](./348830-gat-rat.json) |
 | Gatari: Sand on Teeth | 78584 | [78584-gatari-sand-on-teeth.json](./78584-gatari-sand-on-teeth.json) |
+| Gatcha Gear | 285115 | [285115-gatcha-gear.json](./285115-gatcha-gear.json) |
 | Gate 88 | 77982 | [77982-gate-88.json](./77982-gate-88.json) |
 | Gate Builders | 197414 | [197414-gate-builders.json](./197414-gate-builders.json) |
 | Gate Keepers | 69303 | [69303-gate-keepers.json](./69303-gate-keepers.json) |
@@ -2406,6 +2408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glittering Sword | 143112 | [143112-glittering-sword.json](./143112-glittering-sword.json) |
 | Glö Phlox | 110548 | [110548-glo-phlox.json](./110548-glo-phlox.json) |
 | Gloaming Comedian Simulator | 259860 | [259860-gloaming-comedian-simulator.json](./259860-gloaming-comedian-simulator.json) |
+| Gloaming Comedian Simulator: Scapegoath Science | 285120 | [285120-gloaming-comedian-simulator-scapegoath-science.json](./285120-gloaming-comedian-simulator-scapegoath-science.json) |
 | Gloamroot | 399850 | [399850-gloamroot.json](./399850-gloamroot.json) |
 | Gloamryn | 346577 | [346577-gloamryn.json](./346577-gloamryn.json) |
 | Gloamvault | 339957 | [339957-gloamvault.json](./339957-gloamvault.json) |
@@ -3525,6 +3528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorilla Unko | 387627 | [387627-gorilla-unko.json](./387627-gorilla-unko.json) |
 | Gorillas | 308395 | [308395-gorillas.json](./308395-gorillas.json) |
 | Gorillas-Lab | 376628 | [376628-gorillas-lab.json](./376628-gorillas-lab.json) |
+| Gorillaz | 285125 | [285125-gorillaz.json](./285125-gorillaz.json) |
 | Gorillaz - Escape to Plastic Beach | 66158 | [66158-gorillaz-escape-to-plastic-beach.json](./66158-gorillaz-escape-to-plastic-beach.json) |
 | Gorit | 164285 | [164285-gorit.json](./164285-gorit.json) |
 | Goritaire | 393809 | [393809-goritaire.json](./393809-goritaire.json) |
