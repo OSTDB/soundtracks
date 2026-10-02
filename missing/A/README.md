@@ -3955,6 +3955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amusement Inferno | 271722 | [271722-amusement-inferno.json](./271722-amusement-inferno.json) |
 | Amusement Park: Jumping Kid | 203385 | [203385-amusement-park-jumping-kid.json](./203385-amusement-park-jumping-kid.json) |
 | Amy Adventure | 331108 | [331108-amy-adventure.json](./331108-amy-adventure.json) |
+| Amy Galore | 329768 | [329768-amy-galore.json](./329768-amy-galore.json) |
 | Amy Hates Robots | 356303 | [356303-amy-hates-robots.json](./356303-amy-hates-robots.json) |
 | Amy Rose in Sonic the Hedgehog | 129176 | [129176-amy-rose-in-sonic-the-hedgehog.json](./129176-amy-rose-in-sonic-the-hedgehog.json) |
 | Amy Rose in Sonic the Hedgehog 2 | 129177 | [129177-amy-rose-in-sonic-the-hedgehog-2.json](./129177-amy-rose-in-sonic-the-hedgehog-2.json) |
@@ -7174,6 +7175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroids Bangers | 178980 | [178980-asteroids-bangers.json](./178980-asteroids-bangers.json) |
 | Asteroids Belt: Try to Survive! | 164232 | [164232-asteroids-belt-try-to-survive.json](./164232-asteroids-belt-try-to-survive.json) |
 | Asteroids Deluxe | 13689 | [13689-asteroids-deluxe.json](./13689-asteroids-deluxe.json) |
+| Asteroids Deluxe: Evolved | 329638 | [329638-asteroids-deluxe-evolved.json](./329638-asteroids-deluxe-evolved.json) |
 | Asteroids Hyper 64 | 10664 | [10664-asteroids-hyper-64.json](./10664-asteroids-hyper-64.json) |
 | Asteroids Maneuvers | 149946 | [149946-asteroids-maneuvers.json](./149946-asteroids-maneuvers.json) |
 | Asteroids Millennium | 51716 | [51716-asteroids-millennium.json](./51716-asteroids-millennium.json) |
@@ -7181,6 +7183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroids RX | 178987 | [178987-asteroids-rx.json](./178987-asteroids-rx.json) |
 | Asteroids Space Shooter | 178631 | [178631-asteroids-space-shooter.json](./178631-asteroids-space-shooter.json) |
 | Asteroids, Inc. | 175839 | [175839-asteroids-inc.json](./175839-asteroids-inc.json) |
+| Asteroids: Evolved | 329634 | [329634-asteroids-evolved.json](./329634-asteroids-evolved.json) |
 | Asteroids: Gunner | 64402 | [64402-asteroids-gunner.json](./64402-asteroids-gunner.json) |
 | Asteroids... But Roguelite | 168640 | [168640-asteroids-but-roguelite.json](./168640-asteroids-but-roguelite.json) |
 | Asteroids++ | 178978 | [178978-asteroids.json](./178978-asteroids.json) |
