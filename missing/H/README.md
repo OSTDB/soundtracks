@@ -975,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harold | 7865 | [7865-harold.json](./7865-harold.json) |
 | Harold and the Gameover | 228986 | [228986-harold-and-the-gameover.json](./228986-harold-and-the-gameover.json) |
 | Harold Rabbit 2: The Case of the Pastry Pirate | 371448 | [371448-harold-rabbit-2-the-case-of-the-pastry-pirate.json](./371448-harold-rabbit-2-the-case-of-the-pastry-pirate.json) |
+| Harold Rabbit: Finder of Lost Things | 333141 | [333141-harold-rabbit-finder-of-lost-things.json](./333141-harold-rabbit-finder-of-lost-things.json) |
 | Harp | 145597 | [145597-harp.json](./145597-harp.json) |
 | Harp | 72346 | [72346-harp.json](./72346-harp.json) |
 | Harp & Chrysanthemum | 356213 | [356213-harp-and-chrysanthemum.json](./356213-harp-and-chrysanthemum.json) |
@@ -1672,6 +1673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven | 78071 | [78071-heaven.json](./78071-heaven.json) |
 | Heaven & Hell | 113031 | [113031-heaven-and-hell.json](./113031-heaven-and-hell.json) |
 | Heaven & Hell 2 | 114375 | [114375-heaven-and-hell-2.json](./114375-heaven-and-hell-2.json) |
+| Heaven & Hell vs The Void | 333138 | [333138-heaven-and-hell-vs-the-void.json](./333138-heaven-and-hell-vs-the-void.json) |
 | Heaven and Earth | 51421 | [51421-heaven-and-earth.json](./51421-heaven-and-earth.json) |
 | Heaven And Hell: The Last War | 111713 | [111713-heaven-and-hell-the-last-war.json](./111713-heaven-and-hell-the-last-war.json) |
 | Heaven Dust Collection | 317215 | [317215-heaven-dust-collection.json](./317215-heaven-dust-collection.json) |
@@ -4370,6 +4372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home | 331351 | [331351-home.json](./331351-home.json) |
 | Home | 372448 | [372448-home.json](./372448-home.json) |
 | Home A Drone | 122421 | [122421-home-a-drone.json](./122421-home-a-drone.json) |
+| Home Again | 333225 | [333225-home-again.json](./333225-home-again.json) |
 | Home Again Home Again | 141627 | [141627-home-again-home-again.json](./141627-home-again-home-again.json) |
 | Home Alone | 4523 | [4523-home-alone.json](./4523-home-alone.json) |
 | Home Alone | 78598 | [78598-home-alone.json](./78598-home-alone.json) |
