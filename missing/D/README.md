@@ -3350,6 +3350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desecrated Deck | 338709 | [338709-desecrated-deck.json](./338709-desecrated-deck.json) |
 | Desecration | 157019 | [157019-desecration.json](./157019-desecration.json) |
 | Desecration | 343843 | [343843-desecration.json](./343843-desecration.json) |
+| Desenho Livre | 290092 | [290092-desenho-livre.json](./290092-desenho-livre.json) |
 | Desert | 18605 | [18605-desert.json](./18605-desert.json) |
 | Desert Angels | 348359 | [348359-desert-angels.json](./348359-desert-angels.json) |
 | Desert Armor | 127217 | [127217-desert-armor.json](./127217-desert-armor.json) |
@@ -5228,6 +5229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divergences | 356267 | [356267-divergences.json](./356267-divergences.json) |
 | Diversant | 180294 | [180294-diversant.json](./180294-diversant.json) |
 | Diverse Defenders | 308913 | [308913-diverse-defenders.json](./308913-diverse-defenders.json) |
+| Divertron | 290091 | [290091-divertron.json](./290091-divertron.json) |
 | Divi-Dead | 12420 | [12420-divi-dead.json](./12420-divi-dead.json) |
 | Divid[E]: D[E]Ad Letters | 396196 | [396196-divid-e-d-e-ad-letters.json](./396196-divid-e-d-e-ad-letters.json) |
 | Divide | 18364 | [18364-divide.json](./18364-divide.json) |
@@ -7683,6 +7685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Ending: Drama | 121033 | [121033-dream-ending-drama.json](./121033-dream-ending-drama.json) |
 | Dream Engines: Nomad Cities | 118281 | [118281-dream-engines-nomad-cities.json](./118281-dream-engines-nomad-cities.json) |
 | Dream Enkoure | 316157 | [316157-dream-enkoure.json](./316157-dream-enkoure.json) |
+| Dream Escape | 290121 | [290121-dream-escape.json](./290121-dream-escape.json) |
 | Dream Factory | 34319 | [34319-dream-factory.json](./34319-dream-factory.json) |
 | Dream Fallen: Vila do Chaves | 188082 | [188082-dream-fallen-vila-do-chaves.json](./188082-dream-fallen-vila-do-chaves.json) |
 | Dream Fight Will | 216735 | [216735-dream-fight-will.json](./216735-dream-fight-will.json) |
