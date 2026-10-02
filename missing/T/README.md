@@ -2330,6 +2330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Territory | 57897 | [57897-territory.json](./57897-territory.json) |
 | Territory War 3 | 234156 | [234156-territory-war-3.json](./234156-territory-war-3.json) |
 | Territory: Farming and Fighting | 230944 | [230944-territory-farming-and-fighting.json](./230944-territory-farming-and-fighting.json) |
+| Terro Eliminator | 309023 | [309023-terro-eliminator.json](./309023-terro-eliminator.json) |
 | Terro Lunkka Adventures | 127022 | [127022-terro-lunkka-adventures.json](./127022-terro-lunkka-adventures.json) |
 | Terror | 112116 | [112116-terror.json](./112116-terror.json) |
 | Terror at Oakheart | 258945 | [258945-terror-at-oakheart.json](./258945-terror-at-oakheart.json) |
@@ -2681,6 +2682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 2048 | 48015 | [48015-the-2048.json](./48015-the-2048.json) |
 | The 22nd is Serda. F0a178 | 219566 | [219566-the-22nd-is-serda-f0a178.json](./219566-the-22nd-is-serda-f0a178.json) |
 | The 3 Little Princesses | 357253 | [357253-the-3-little-princesses.json](./357253-the-3-little-princesses.json) |
+| The 3 Lost Challenges | 309018 | [309018-the-3-lost-challenges.json](./309018-the-3-lost-challenges.json) |
 | The 37th Week | 75823 | [75823-the-37th-week.json](./75823-the-37th-week.json) |
 | The 39 Steps | 10985 | [10985-the-39-steps.json](./10985-the-39-steps.json) |
 | The 3D Gamemaker | 270689 | [270689-the-3d-gamemaker.json](./270689-the-3d-gamemaker.json) |
@@ -14798,6 +14800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travel Cuisine 2: Sweet Life - Collector's Edition | 358422 | [358422-travel-cuisine-2-sweet-life-collectors-edition.json](./358422-travel-cuisine-2-sweet-life-collectors-edition.json) |
 | Travel Cuisine 3: The Sea of Flavours - Collector's Edition | 358404 | [358404-travel-cuisine-3-the-sea-of-flavours-collectors-edition.json](./358404-travel-cuisine-3-the-sea-of-flavours-collectors-edition.json) |
 | Travel Cuisine: Collector's Edition | 250655 | [250655-travel-cuisine-collectors-edition.json](./250655-travel-cuisine-collectors-edition.json) |
+| Travel Epuru | 309012 | [309012-travel-epuru.json](./309012-travel-epuru.json) |
 | Travel Junction | 335859 | [335859-travel-junction.json](./335859-travel-junction.json) |
 | Travel Knight Adventure | 272904 | [272904-travel-knight-adventure.json](./272904-travel-knight-adventure.json) |
 | Travel Mosaics 11: Christmas Sleigh Ride | 284459 | [284459-travel-mosaics-11-christmas-sleigh-ride.json](./284459-travel-mosaics-11-christmas-sleigh-ride.json) |
