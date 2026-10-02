@@ -3066,6 +3066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Rush! Classic | 36288 | [36288-gold-rush-classic.json](./36288-gold-rush-classic.json) |
 | Gold Up | 405619 | [405619-gold-up.json](./405619-gold-up.json) |
 | Goldbeard's Quest | 120346 | [120346-goldbeards-quest.json](./120346-goldbeards-quest.json) |
+| Golden Apple | 298802 | [298802-golden-apple.json](./298802-golden-apple.json) |
 | Golden Axe | 279631 | [279631-golden-axe.json](./279631-golden-axe.json) |
 | Golden Axe | 305873 | [305873-golden-axe.json](./305873-golden-axe.json) |
 | Golden Axe | 305875 | [305875-golden-axe.json](./305875-golden-axe.json) |
@@ -4703,6 +4704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ground of Aces | 249885 | [249885-ground-of-aces.json](./249885-ground-of-aces.json) |
 | Ground Under | 112994 | [112994-ground-under.json](./112994-ground-under.json) |
 | Ground Zero | 249174 | [249174-ground-zero.json](./249174-ground-zero.json) |
+| Ground Zero | 298803 | [298803-ground-zero.json](./298803-ground-zero.json) |
 | Ground Zero: Texas | 5390 | [5390-ground-zero-texas.json](./5390-ground-zero-texas.json) |
 | Ground-Unbound | 175793 | [175793-ground-unbound.json](./175793-ground-unbound.json) |
 | GroundBreaker | 375848 | [375848-groundbreaker.json](./375848-groundbreaker.json) |
