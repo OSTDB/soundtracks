@@ -5564,6 +5564,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyron | 79623 | [79623-gyron.json](./79623-gyron.json) |
 | Gyroscope | 13866 | [13866-gyroscope.json](./13866-gyroscope.json) |
 | Gyruss | 12308 | [12308-gyruss.json](./12308-gyruss.json) |
+| Gyruss | 281033 | [281033-gyruss.json](./281033-gyruss.json) |
+| Gyruss | 281034 | [281034-gyruss.json](./281034-gyruss.json) |
+| Gyruss | 281035 | [281035-gyruss.json](./281035-gyruss.json) |
+| Gyruss | 281036 | [281036-gyruss.json](./281036-gyruss.json) |
+| Gyruss | 281038 | [281038-gyruss.json](./281038-gyruss.json) |
 | Gyruss | 343878 | [343878-gyruss.json](./343878-gyruss.json) |
 | Gyruss | 343879 | [343879-gyruss.json](./343879-gyruss.json) |
 | Gythol Granditti: The Crypt of Darkness | 120411 | [120411-gythol-granditti-the-crypt-of-darkness.json](./120411-gythol-granditti-the-crypt-of-darkness.json) |
