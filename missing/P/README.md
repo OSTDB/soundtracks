@@ -6527,6 +6527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potion Permit | 155706 | [155706-potion-permit.json](./155706-potion-permit.json) |
 | Potion Permit: Christmas Tree | 366954 | [366954-potion-permit-christmas-tree.json](./366954-potion-permit-christmas-tree.json) |
 | Potion Permit: Complete DLC Bundle | 304803 | [304803-potion-permit-complete-dlc-bundle.json](./304803-potion-permit-complete-dlc-bundle.json) |
+| Potion Permit: Complete Edition | 285665 | [285665-potion-permit-complete-edition.json](./285665-potion-permit-complete-edition.json) |
 | Potion Permit: Deluxe Edition | 218549 | [218549-potion-permit-deluxe-edition.json](./218549-potion-permit-deluxe-edition.json) |
 | Potion Permit: Halloween Bundle | 272286 | [272286-potion-permit-halloween-bundle.json](./272286-potion-permit-halloween-bundle.json) |
 | Potion Permit: Rudolph Plush | 371313 | [371313-potion-permit-rudolph-plush.json](./371313-potion-permit-rudolph-plush.json) |
