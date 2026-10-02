@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Bestia: The Migrant's Long Journey | 296485 | [296485-la-bestia-the-migrants-long-journey.json](./296485-la-bestia-the-migrants-long-journey.json) |
 | La Carbonara | 323172 | [323172-la-carbonara.json](./323172-la-carbonara.json) |
 | La Caza del Espía | 323175 | [323175-la-caza-del-espia.json](./323175-la-caza-del-espia.json) |
+| La Cita de Mookie | 323222 | [323222-la-cita-de-mookie.json](./323222-la-cita-de-mookie.json) |
 | La ciudad perdida de los Kowane | 316783 | [316783-la-ciudad-perdida-de-los-kowane.json](./316783-la-ciudad-perdida-de-los-kowane.json) |
 | La Colmena | 86085 | [86085-la-colmena.json](./86085-la-colmena.json) |
 | LA Cops | 17080 | [17080-la-cops.json](./17080-la-cops.json) |
@@ -56,8 +57,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LA Hollywood Zombies | 273633 | [273633-la-hollywood-zombies.json](./273633-la-hollywood-zombies.json) |
 | La Isla de lo Mono | 208467 | [208467-la-isla-de-lo-mono.json](./208467-la-isla-de-lo-mono.json) |
 | La Java du Privé | 350540 | [350540-la-java-du-prive.json](./350540-la-java-du-prive.json) |
+| La Leyenda de la Biblioteca | 323224 | [323224-la-leyenda-de-la-biblioteca.json](./323224-la-leyenda-de-la-biblioteca.json) |
 | La Leyenda del Chupacabra | 75094 | [75094-la-leyenda-del-chupacabra.json](./75094-la-leyenda-del-chupacabra.json) |
 | La Libertad Arrasa: Milei | 323725 | [323725-la-libertad-arrasa-milei.json](./323725-la-libertad-arrasa-milei.json) |
+| La Llave y Fabián Shones | 323227 | [323227-la-llave-y-fabian-shones.json](./323227-la-llave-y-fabian-shones.json) |
 | La Llorona Wants Your Soul | 291737 | [291737-la-llorona-wants-your-soul.json](./291737-la-llorona-wants-your-soul.json) |
 | LA Machine Guns | 66785 | [66785-la-machine-guns.json](./66785-la-machine-guns.json) |
 | La Malédiction | 275086 | [275086-la-malediction.json](./275086-la-malediction.json) |
