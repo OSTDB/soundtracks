@@ -15347,6 +15347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Luigi and the Golden Shrooms | 135128 | [135128-super-luigi-and-the-golden-shrooms.json](./135128-super-luigi-and-the-golden-shrooms.json) |
 | Super Luigi Bros. | 198471 | [198471-super-luigi-bros.json](./198471-super-luigi-bros.json) |
 | Super Luigi Dreams | 135129 | [135129-super-luigi-dreams.json](./135129-super-luigi-dreams.json) |
+| Super Luigi Dreams 2: Tale of the Dream Stone | 323817 | [323817-super-luigi-dreams-2-tale-of-the-dream-stone.json](./323817-super-luigi-dreams-2-tale-of-the-dream-stone.json) |
 | Super Luigi Land Wii | 294783 | [294783-super-luigi-land-wii.json](./294783-super-luigi-land-wii.json) |
 | Super Luigi Odyssey | 282683 | [282683-super-luigi-odyssey.json](./282683-super-luigi-odyssey.json) |
 | Super Luigi Trick or Treat | 314278 | [314278-super-luigi-trick-or-treat.json](./314278-super-luigi-trick-or-treat.json) |
@@ -15525,6 +15526,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Craft | 313112 | [313112-super-mario-craft.json](./313112-super-mario-craft.json) |
 | Super Mario Death Row 2: Shroomshank Redemption | 220042 | [220042-super-mario-death-row-2-shroomshank-redemption.json](./220042-super-mario-death-row-2-shroomshank-redemption.json) |
 | Super Mario DX | 210709 | [210709-super-mario-dx.json](./210709-super-mario-dx.json) |
+| Super Mario Epic | 323814 | [323814-super-mario-epic.json](./323814-super-mario-epic.json) |
+| Super Mario Epic 3 | 323815 | [323815-super-mario-epic-3.json](./323815-super-mario-epic-3.json) |
 | Super Mario Flash 2 | 183605 | [183605-super-mario-flash-2.json](./183605-super-mario-flash-2.json) |
 | Super Mario Flash 2: SMW Remake | 198502 | [198502-super-mario-flash-2-smw-remake.json](./198502-super-mario-flash-2-smw-remake.json) |
 | Super Mario Flashback | 134075 | [134075-super-mario-flashback.json](./134075-super-mario-flashback.json) |
@@ -15539,6 +15542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Galaxy DS | 315008 | [315008-super-mario-galaxy-ds.json](./315008-super-mario-galaxy-ds.json) |
 | Super Mario Galaxy Multiplayer | 294770 | [294770-super-mario-galaxy-multiplayer.json](./294770-super-mario-galaxy-multiplayer.json) |
 | Super Mario Galaxy Star Bit | 328672 | [328672-super-mario-galaxy-star-bit.json](./328672-super-mario-galaxy-star-bit.json) |
+| Super Mario Galaxy: A Blue Star Adventure | 323784 | [323784-super-mario-galaxy-a-blue-star-adventure.json](./323784-super-mario-galaxy-a-blue-star-adventure.json) |
 | Super Mario Galaxy: The Lost Levels | 313326 | [313326-super-mario-galaxy-the-lost-levels.json](./313326-super-mario-galaxy-the-lost-levels.json) |
 | Super Mario Generations | 318549 | [318549-super-mario-generations.json](./318549-super-mario-generations.json) |
 | Super Mario Golden Hour | 394337 | [394337-super-mario-golden-hour.json](./394337-super-mario-golden-hour.json) |
@@ -15766,6 +15770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mr. Kake | 55480 | [55480-super-mr-kake.json](./55480-super-mr-kake.json) |
 | Super Mumtaz Bros. | 183613 | [183613-super-mumtaz-bros.json](./183613-super-mumtaz-bros.json) |
 | Super Munchers: The Challenge Continues... | 70478 | [70478-super-munchers-the-challenge-continues.json](./70478-super-munchers-the-challenge-continues.json) |
+| Super Muscle Mario Bros | 323808 | [323808-super-muscle-mario-bros.json](./323808-super-muscle-mario-bros.json) |
 | Super Mustache | 24616 | [24616-super-mustache.json](./24616-super-mustache.json) |
 | Super Nanaru | 183864 | [183864-super-nanaru.json](./183864-super-nanaru.json) |
 | Super Nantucket World | 312875 | [312875-super-nantucket-world.json](./312875-super-nantucket-world.json) |
