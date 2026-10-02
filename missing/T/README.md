@@ -650,6 +650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Monkey Island | 64 | [64-tales-of-monkey-island.json](./64-tales-of-monkey-island.json) |
 | Tales of Monkey Island: Chapter 1 - Launch of the Screaming Narwhal | 81262 | [81262-tales-of-monkey-island-chapter-1-launch-of-the-screaming-narwhal.json](./81262-tales-of-monkey-island-chapter-1-launch-of-the-screaming-narwhal.json) |
 | Tales of Monkey Island: Chapter 3 - Lair of the Leviathan | 81269 | [81269-tales-of-monkey-island-chapter-3-lair-of-the-leviathan.json](./81269-tales-of-monkey-island-chapter-3-lair-of-the-leviathan.json) |
+| Tales of Monsterland DX | 307196 | [307196-tales-of-monsterland-dx.json](./307196-tales-of-monsterland-dx.json) |
 | Tales of Moriviha: Deadly Secret | 276162 | [276162-tales-of-moriviha-deadly-secret.json](./276162-tales-of-moriviha-deadly-secret.json) |
 | Tales of Nebezem RPG: Red Peril | 115609 | [115609-tales-of-nebezem-rpg-red-peril.json](./115609-tales-of-nebezem-rpg-red-peril.json) |
 | Tales of Nebezem: Elemental Link | 86749 | [86749-tales-of-nebezem-elemental-link.json](./86749-tales-of-nebezem-elemental-link.json) |
@@ -8481,6 +8482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stairwell | 347177 | [347177-the-stairwell.json](./347177-the-stairwell.json) |
 | The Stalin Subway: Red Veil | 17579 | [17579-the-stalin-subway-red-veil.json](./17579-the-stalin-subway-red-veil.json) |
 | The Stamp | 332591 | [332591-the-stamp.json](./332591-the-stamp.json) |
+| The Standard Model | 307208 | [307208-the-standard-model.json](./307208-the-standard-model.json) |
 | The Stanley Parable | 18453 | [18453-the-stanley-parable.json](./18453-the-stanley-parable.json) |
 | The Stanley Parable: Ultra Deluxe | 113119 | [113119-the-stanley-parable-ultra-deluxe.json](./113119-the-stanley-parable-ultra-deluxe.json) |
 | The Star Bowling DX | 386680 | [386680-the-star-bowling-dx.json](./386680-the-star-bowling-dx.json) |
@@ -11934,6 +11936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Hell in a Hamper | 60019 | [60019-to-hell-in-a-hamper.json](./60019-to-hell-in-a-hamper.json) |
 | To Hell With the Ugly | 158137 | [158137-to-hell-with-the-ugly.json](./158137-to-hell-with-the-ugly.json) |
 | To Kill A Black Swan | 183371 | [183371-to-kill-a-black-swan.json](./183371-to-kill-a-black-swan.json) |
+| To Kill a God | 307220 | [307220-to-kill-a-god.json](./307220-to-kill-a-god.json) |
 | To Kill A King | 154399 | [154399-to-kill-a-king.json](./154399-to-kill-a-king.json) |
 | To Kill Eros | 404935 | [404935-to-kill-eros.json](./404935-to-kill-eros.json) |
 | To Kyrstem | 181326 | [181326-to-kyrstem.json](./181326-to-kyrstem.json) |
