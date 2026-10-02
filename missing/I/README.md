@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Lost My Eggs: Easter | 387329 | [387329-i-lost-my-eggs-easter.json](./387329-i-lost-my-eggs-easter.json) |
 | I Lost My Luggage | 155653 | [155653-i-lost-my-luggage.json](./155653-i-lost-my-luggage.json) |
 | I Lost Someone | 362296 | [362296-i-lost-someone.json](./362296-i-lost-someone.json) |
+| I Love Finding 9-in-1 Bundle | 328514 | [328514-i-love-finding-9-in-1-bundle.json](./328514-i-love-finding-9-in-1-bundle.json) |
 | I Love Finding Birds | 236500 | [236500-i-love-finding-birds.json](./236500-i-love-finding-birds.json) |
 | I Love Finding Birds: Collector's Edition | 248656 | [248656-i-love-finding-birds-collectors-edition.json](./248656-i-love-finding-birds-collectors-edition.json) |
 | I Love Finding Cats & Pups | 256341 | [256341-i-love-finding-cats-and-pups.json](./256341-i-love-finding-cats-and-pups.json) |
@@ -1669,6 +1670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indonesian Dominatrixes Are the Best | 385705 | [385705-indonesian-dominatrixes-are-the-best.json](./385705-indonesian-dominatrixes-are-the-best.json) |
 | Indoor Air Soccer | 175338 | [175338-indoor-air-soccer.json](./175338-indoor-air-soccer.json) |
 | Indoor Baseball | 330562 | [330562-indoor-baseball.json](./330562-indoor-baseball.json) |
+| Indoor Gardening Create Your Own Home Garden | 328515 | [328515-indoor-gardening-create-your-own-home-garden.json](./328515-indoor-gardening-create-your-own-home-garden.json) |
 | Indoor Haul | 311070 | [311070-indoor-haul.json](./311070-indoor-haul.json) |
 | Indoor Rock Climbing VR | 81757 | [81757-indoor-rock-climbing-vr.json](./81757-indoor-rock-climbing-vr.json) |
 | Indoor Soccer | 39839 | [39839-indoor-soccer.json](./39839-indoor-soccer.json) |
@@ -3276,6 +3278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Italy 1990 | 85520 | [85520-italy-1990.json](./85520-italy-1990.json) |
 | Itazura Madness | 305907 | [305907-itazura-madness.json](./305907-itazura-madness.json) |
 | Itch! | 143745 | [143745-itch.json](./143745-itch.json) |
+| Item Frenzy | 328516 | [328516-item-frenzy.json](./328516-item-frenzy.json) |
 | Item Shop Simulator | 406226 | [406226-item-shop-simulator.json](./406226-item-shop-simulator.json) |
 | Iter | 398493 | [398493-iter.json](./398493-iter.json) |
 | Iter-8 | 316071 | [316071-iter-8.json](./316071-iter-8.json) |
