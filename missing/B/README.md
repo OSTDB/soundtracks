@@ -564,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baktinet | 340028 | [340028-baktinet.json](./340028-baktinet.json) |
 | Baku Funshiki | 340033 | [340033-baku-funshiki.json](./340033-baku-funshiki.json) |
 | Baku Maru | 369039 | [369039-baku-maru.json](./369039-baku-maru.json) |
+| Bakudan Baku-tan | 319096 | [319096-bakudan-baku-tan.json](./319096-bakudan-baku-tan.json) |
 | Bakugan Battle Brawlers: Arcade Battlers | 122989 | [122989-bakugan-battle-brawlers-arcade-battlers.json](./122989-bakugan-battle-brawlers-arcade-battlers.json) |
 | Bakugan: Rise of the Resistance | 26690 | [26690-bakugan-rise-of-the-resistance.json](./26690-bakugan-rise-of-the-resistance.json) |
 | Bakugen: Battle Brawlers | 50694 | [50694-bakugen-battle-brawlers.json](./50694-bakugen-battle-brawlers.json) |
@@ -6934,6 +6935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Br Br Patapim | 351091 | [351091-br-br-patapim.json](./351091-br-br-patapim.json) |
 | BR Logic Pack | 369233 | [369233-br-logic-pack.json](./369233-br-logic-pack.json) |
 | BR1: Infinite | 194433 | [194433-br1-infinite.json](./194433-br1-infinite.json) |
+| Braaains | 319105 | [319105-braaains.json](./319105-braaains.json) |
 | Braaains! | 207284 | [207284-braaains.json](./207284-braaains.json) |
 | Bracer | 403818 | [403818-bracer.json](./403818-bracer.json) |
 | Bracket Chain | 279765 | [279765-bracket-chain.json](./279765-bracket-chain.json) |
@@ -7887,6 +7889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BTS Island: In the Seom | 206740 | [206740-bts-island-in-the-seom.json](./206740-bts-island-in-the-seom.json) |
 | BTS Universe Story | 139294 | [139294-bts-universe-story.json](./139294-bts-universe-story.json) |
 | Bù Shàngàn Bù Liànài | 373701 | [373701-bu-shangan-bu-lianai.json](./373701-bu-shangan-bu-lianai.json) |
+| Bub-O Burst | 319075 | [319075-bub-o-burst.json](./319075-bub-o-burst.json) |
 | Buba | 120348 | [120348-buba.json](./120348-buba.json) |
 | Bubba Yuga | 383523 | [383523-bubba-yuga.json](./383523-bubba-yuga.json) |
 | Bubbaruka! | 149483 | [149483-bubbaruka.json](./149483-bubbaruka.json) |
