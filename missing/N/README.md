@@ -2586,6 +2586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Instinct | 25765 | [25765-ninja-instinct.json](./25765-ninja-instinct.json) |
 | Ninja JaJaMaru Collection | 119644 | [119644-ninja-jajamaru-collection.json](./119644-ninja-jajamaru-collection.json) |
 | Ninja JaJaMaru-kun | 48455 | [48455-ninja-jajamaru-kun.json](./48455-ninja-jajamaru-kun.json) |
+| Ninja Jajamaru-kun Ranbu | 296027 | [296027-ninja-jajamaru-kun-ranbu.json](./296027-ninja-jajamaru-kun-ranbu.json) |
 | Ninja JaJaMaru-kun: Onigiri Ninpou-chou | 74780 | [74780-ninja-jajamaru-kun-onigiri-ninpou-chou.json](./74780-ninja-jajamaru-kun-onigiri-ninpou-chou.json) |
 | Ninja JaJaMaru-kun: Sakura-hime to Karyu no Himitsu | 62207 | [62207-ninja-jajamaru-kun-sakura-hime-to-karyu-no-himitsu.json](./62207-ninja-jajamaru-kun-sakura-hime-to-karyu-no-himitsu.json) |
 | Ninja JaJaMaru: The Lost RPGs | 234622 | [234622-ninja-jajamaru-the-lost-rpgs.json](./234622-ninja-jajamaru-the-lost-rpgs.json) |
