@@ -1867,6 +1867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbit Angler | 297586 | [297586-orbit-angler.json](./297586-orbit-angler.json) |
 | Orbit Drop | 120339 | [120339-orbit-drop.json](./120339-orbit-drop.json) |
 | Orbit One | 405604 | [405604-orbit-one.json](./405604-orbit-one.json) |
+| Orbit Putt | 323779 | [323779-orbit-putt.json](./323779-orbit-putt.json) |
 | Orbit Puzzle | 312691 | [312691-orbit-puzzle.json](./312691-orbit-puzzle.json) |
 | Orbit Quest | 107201 | [107201-orbit-quest.json](./107201-orbit-quest.json) |
 | Orbit: Satellite Defense | 83942 | [83942-orbit-satellite-defense.json](./83942-orbit-satellite-defense.json) |
