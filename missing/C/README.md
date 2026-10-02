@@ -2934,6 +2934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chasing Bottaflies | 286567 | [286567-chasing-bottaflies.json](./286567-chasing-bottaflies.json) |
 | Chasing Demons | 150553 | [150553-chasing-demons.json](./150553-chasing-demons.json) |
 | Chasing Kaleidorider | 343321 | [343321-chasing-kaleidorider.json](./343321-chasing-kaleidorider.json) |
+| Chasing Sunsets | 323816 | [323816-chasing-sunsets.json](./323816-chasing-sunsets.json) |
 | Chasing Tail | 160240 | [160240-chasing-tail.json](./160240-chasing-tail.json) |
 | Chasing the Universe | 367524 | [367524-chasing-the-universe.json](./367524-chasing-the-universe.json) |
 | Chasing the Unseen | 223414 | [223414-chasing-the-unseen.json](./223414-chasing-the-unseen.json) |
@@ -4136,6 +4137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cielle Is Not Happy | 402277 | [402277-cielle-is-not-happy.json](./402277-cielle-is-not-happy.json) |
 | Cielo | 181292 | [181292-cielo.json](./181292-cielo.json) |
 | Cien Años Después | 203333 | [203333-cien-anos-despues.json](./203333-cien-anos-despues.json) |
+| Cigar Break | 323813 | [323813-cigar-break.json](./323813-cigar-break.json) |
 | Ciggy World | 314299 | [314299-ciggy-world.json](./314299-ciggy-world.json) |
 | Cinco Noches en Casa Rosada 2 | 353900 | [353900-cinco-noches-en-casa-rosada-2.json](./353900-cinco-noches-en-casa-rosada-2.json) |
 | Cinco Noches en Casa Rosada 3 | 376680 | [376680-cinco-noches-en-casa-rosada-3.json](./376680-cinco-noches-en-casa-rosada-3.json) |
@@ -6478,6 +6480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquist | 205089 | [205089-conquist.json](./205089-conquist.json) |
 | Conquista: Tide of Wills | 415116 | [415116-conquista-tide-of-wills.json](./415116-conquista-tide-of-wills.json) |
 | Conquistador | 236918 | [236918-conquistador.json](./236918-conquistador.json) |
+| Conquistador | 323803 | [323803-conquistador.json](./323803-conquistador.json) |
 | Conquistadorio | 258438 | [258438-conquistadorio.json](./258438-conquistadorio.json) |
 | Conrad Stevenson's Paranormal P.I. | 190151 | [190151-conrad-stevensons-paranormal-p-i.json](./190151-conrad-stevensons-paranormal-p-i.json) |
 | Conran: The Dinky Raccoon | 29086 | [29086-conran-the-dinky-raccoon.json](./29086-conran-the-dinky-raccoon.json) |
@@ -6698,6 +6701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contrition | 393001 | [393001-contrition.json](./393001-contrition.json) |
 | Control Craft 2 | 33560 | [33560-control-craft-2.json](./33560-control-craft-2.json) |
 | Control Freak | 111233 | [111233-control-freak.json](./111233-control-freak.json) |
+| Control Freak | 323799 | [323799-control-freak.json](./323799-control-freak.json) |
 | Control Resonant | 225582 | [225582-control-resonant.json](./225582-control-resonant.json) |
 | Control Resonant: Digital Deluxe Edition | 418570 | [418570-control-resonant-digital-deluxe-edition.json](./418570-control-resonant-digital-deluxe-edition.json) |
 | Control Room | 333794 | [333794-control-room.json](./333794-control-room.json) |
