@@ -1406,6 +1406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tavern Deep Cauldron | 401024 | [401024-tavern-deep-cauldron.json](./401024-tavern-deep-cauldron.json) |
 | Tavern Girl | 290949 | [290949-tavern-girl.json](./290949-tavern-girl.json) |
 | Tavern Keeper | 25929 | [25929-tavern-keeper.json](./25929-tavern-keeper.json) |
+| Tavern Legends | 326667 | [326667-tavern-legends.json](./326667-tavern-legends.json) |
 | Tavern Manager Simulator | 290509 | [290509-tavern-manager-simulator.json](./290509-tavern-manager-simulator.json) |
 | Tavern Master: Pirates Retreat | 377716 | [377716-tavern-master-pirates-retreat.json](./377716-tavern-master-pirates-retreat.json) |
 | Tavern of Empire | 248670 | [248670-tavern-of-empire.json](./248670-tavern-of-empire.json) |
@@ -13300,6 +13301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of the Blood Lord | 135837 | [135837-tower-of-the-blood-lord.json](./135837-tower-of-the-blood-lord.json) |
 | Tower of the Deep | 388026 | [388026-tower-of-the-deep.json](./388026-tower-of-the-deep.json) |
 | Tower of the Dragon | 337841 | [337841-tower-of-the-dragon.json](./337841-tower-of-the-dragon.json) |
+| Tower of the Ice Lich | 326690 | [326690-tower-of-the-ice-lich.json](./326690-tower-of-the-ice-lich.json) |
 | Tower of the Sage | 195140 | [195140-tower-of-the-sage.json](./195140-tower-of-the-sage.json) |
 | Tower of the Sorceror | 202778 | [202778-tower-of-the-sorceror.json](./202778-tower-of-the-sorceror.json) |
 | Tower of Titans | 375320 | [375320-tower-of-titans.json](./375320-tower-of-titans.json) |
@@ -15511,6 +15513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trying to Sing in Static | 230291 | [230291-trying-to-sing-in-static.json](./230291-trying-to-sing-in-static.json) |
 | Tryment | 318057 | [318057-tryment.json](./318057-tryment.json) |
 | Trypan | 392263 | [392263-trypan.json](./392263-trypan.json) |
+| Tryptic | 326688 | [326688-tryptic.json](./326688-tryptic.json) |
 | Tryst | 11030 | [11030-tryst.json](./11030-tryst.json) |
 | TS Marketplace: 1800s Rolling Stock Pack 02 Add-On | 227296 | [227296-ts-marketplace-1800s-rolling-stock-pack-02-add-on.json](./227296-ts-marketplace-1800s-rolling-stock-pack-02-add-on.json) |
 | TS Marketplace: B&O Mountain Subdivision Scenario Pack 01 | 227287 | [227287-ts-marketplace-b-and-o-mountain-subdivision-scenario-pack-01.json](./227287-ts-marketplace-b-and-o-mountain-subdivision-scenario-pack-01.json) |
