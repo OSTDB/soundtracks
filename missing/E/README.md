@@ -2368,6 +2368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erobos Heaven | 247514 | [247514-erobos-heaven.json](./247514-erobos-heaven.json) |
 | Erocism | 302445 | [302445-erocism.json](./302445-erocism.json) |
 | Eroge Academy | 277957 | [277957-eroge-academy.json](./277957-eroge-academy.json) |
+| Erogods: Asgard | 278644 | [278644-erogods-asgard.json](./278644-erogods-asgard.json) |
 | Erogods: Mirage | 294823 | [294823-erogods-mirage.json](./294823-erogods-mirage.json) |
 | Erogods: Olympus | 275043 | [275043-erogods-olympus.json](./275043-erogods-olympus.json) |
 | Erogods: Sunrise | 312085 | [312085-erogods-sunrise.json](./312085-erogods-sunrise.json) |
