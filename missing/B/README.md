@@ -2585,6 +2585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beasts & Chests | 105294 | [105294-beasts-and-chests.json](./105294-beasts-and-chests.json) |
 | Beasts & Monsters | 261840 | [261840-beasts-and-monsters.json](./261840-beasts-and-monsters.json) |
 | Beasts From Beyond | 238622 | [238622-beasts-from-beyond.json](./238622-beasts-from-beyond.json) |
+| Beasts of Bermuda: Archelon Supporter Warpaint | 294936 | [294936-beasts-of-bermuda-archelon-supporter-warpaint.json](./294936-beasts-of-bermuda-archelon-supporter-warpaint.json) |
 | Beasts of Bermuda: Kaprosuchus Supporter Warpaint | 379580 | [379580-beasts-of-bermuda-kaprosuchus-supporter-warpaint.json](./379580-beasts-of-bermuda-kaprosuchus-supporter-warpaint.json) |
 | Beasts of Bermuda: Palaeophis Supporter Warpaint | 379579 | [379579-beasts-of-bermuda-palaeophis-supporter-warpaint.json](./379579-beasts-of-bermuda-palaeophis-supporter-warpaint.json) |
 | Beasts of Bermuda: Utahraptor Supporter Warpaint | 379578 | [379578-beasts-of-bermuda-utahraptor-supporter-warpaint.json](./379578-beasts-of-bermuda-utahraptor-supporter-warpaint.json) |
@@ -3145,6 +3146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bendy Road | 98782 | [98782-bendy-road.json](./98782-bendy-road.json) |
 | Bendy: Ink Demon's Collection | 393061 | [393061-bendy-ink-demons-collection.json](./393061-bendy-ink-demons-collection.json) |
 | Bendy: Revive and Survive Bundle | 393062 | [393062-bendy-revive-and-survive-bundle.json](./393062-bendy-revive-and-survive-bundle.json) |
+| Bendy: Secrets of the Machine | 294976 | [294976-bendy-secrets-of-the-machine.json](./294976-bendy-secrets-of-the-machine.json) |
 | Bendy's Nightmare Run | 414307 | [414307-bendys-nightmare-run.json](./414307-bendys-nightmare-run.json) |
 | Beneath | 240509 | [240509-beneath.json](./240509-beneath.json) |
 | Beneath & Beyond | 273367 | [273367-beneath-and-beyond.json](./273367-beneath-and-beyond.json) |
