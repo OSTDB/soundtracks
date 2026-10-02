@@ -1210,6 +1210,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barcode Battler II: Street Fighter II - 36. Bear Claw | 388035 | [388035-barcode-battler-ii-street-fighter-ii-36-bear-claw.json](./388035-barcode-battler-ii-street-fighter-ii-36-bear-claw.json) |
 | Barcode Battler II: Street Fighter II - 37. Double Knee Bomber | 388036 | [388036-barcode-battler-ii-street-fighter-ii-37-double-knee-bomber.json](./388036-barcode-battler-ii-street-fighter-ii-37-double-knee-bomber.json) |
 | Barcode Battler II: Street Fighter II - 38. Rolling Nail | 388037 | [388037-barcode-battler-ii-street-fighter-ii-38-rolling-nail.json](./388037-barcode-battler-ii-street-fighter-ii-38-rolling-nail.json) |
+| Barcode Battler II: Super Mario Kart - Luigi | 329223 | [329223-barcode-battler-ii-super-mario-kart-luigi.json](./329223-barcode-battler-ii-super-mario-kart-luigi.json) |
+| Barcode Battler II: Super Mario Kart - Mario | 329221 | [329221-barcode-battler-ii-super-mario-kart-mario.json](./329221-barcode-battler-ii-super-mario-kart-mario.json) |
 | Barcode Battler II: Super Mario World - 1Up-Kinoko | 328648 | [328648-barcode-battler-ii-super-mario-world-1up-kinoko.json](./328648-barcode-battler-ii-super-mario-world-1up-kinoko.json) |
 | Barcode Battler II: Super Mario World - Bodypress | 328650 | [328650-barcode-battler-ii-super-mario-world-bodypress.json](./328650-barcode-battler-ii-super-mario-world-bodypress.json) |
 | Barcode Battler II: Super Mario World - Buibui | 328635 | [328635-barcode-battler-ii-super-mario-world-buibui.json](./328635-barcode-battler-ii-super-mario-world-buibui.json) |
@@ -7360,6 +7362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breathless | 14346 | [14346-breathless.json](./14346-breathless.json) |
 | Breathspace | 226271 | [226271-breathspace.json](./226271-breathspace.json) |
 | Breaworlds | 125830 | [125830-breaworlds.json](./125830-breaworlds.json) |
+| BrebeMan | 329237 | [329237-brebeman.json](./329237-brebeman.json) |
 | Breed Master | 268484 | [268484-breed-master.json](./268484-breed-master.json) |
 | Breeder | 41329 | [41329-breeder.json](./41329-breeder.json) |
 | Breeders of the Nephelym: Alpha | 122800 | [122800-breeders-of-the-nephelym-alpha.json](./122800-breeders-of-the-nephelym-alpha.json) |
@@ -7742,6 +7745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brudal Baddle | 57677 | [57677-brudal-baddle.json](./57677-brudal-baddle.json) |
 | Brum Brum | 93386 | [93386-brum-brum.json](./93386-brum-brum.json) |
 | Brunch Club | 122867 | [122867-brunch-club.json](./122867-brunch-club.json) |
+| Bruneva | 329052 | [329052-bruneva.json](./329052-bruneva.json) |
 | Brunhilda and the Dark Crystal | 52490 | [52490-brunhilda-and-the-dark-crystal.json](./52490-brunhilda-and-the-dark-crystal.json) |
 | Brunswick Pro Billiards | 147954 | [147954-brunswick-pro-billiards.json](./147954-brunswick-pro-billiards.json) |
 | Brunswick Pro Bowling | 4731 | [4731-brunswick-pro-bowling.json](./4731-brunswick-pro-bowling.json) |
@@ -8040,6 +8044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Catcher | 287651 | [287651-bug-catcher.json](./287651-bug-catcher.json) |
 | Bug Catcher | 380039 | [380039-bug-catcher.json](./380039-bug-catcher.json) |
 | Bug Cleaners | 336030 | [336030-bug-cleaners.json](./336030-bug-cleaners.json) |
+| Bug darake no Shiro | 329230 | [329230-bug-darake-no-shiro.json](./329230-bug-darake-no-shiro.json) |
 | Bug Dates | 206974 | [206974-bug-dates.json](./206974-bug-dates.json) |
 | Bug Dolls: Soviet Project | 203900 | [203900-bug-dolls-soviet-project.json](./203900-bug-dolls-soviet-project.json) |
 | Bug Drop | 399215 | [399215-bug-drop.json](./399215-bug-drop.json) |
