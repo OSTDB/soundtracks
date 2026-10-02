@@ -5564,6 +5564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huge Jaws | 219665 | [219665-huge-jaws.json](./219665-huge-jaws.json) |
 | Huggernaut | 111903 | [111903-huggernaut.json](./111903-huggernaut.json) |
 | Huggy & Friends | 372483 | [372483-huggy-and-friends.json](./372483-huggy-and-friends.json) |
+| Huggy Skate | 333705 | [333705-huggy-skate.json](./333705-huggy-skate.json) |
 | Huggy: Love and Rescue | 276861 | [276861-huggy-love-and-rescue.json](./276861-huggy-love-and-rescue.json) |
 | Hugh's Dream | 135797 | [135797-hughs-dream.json](./135797-hughs-dream.json) |
 | Huglings | 388756 | [388756-huglings.json](./388756-huglings.json) |
@@ -6003,6 +6004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Duel | 45459 | [45459-hyper-duel.json](./45459-hyper-duel.json) |
 | Hyper Dyne: Side Arms | 42033 | [42033-hyper-dyne-side-arms.json](./42033-hyper-dyne-side-arms.json) |
 | Hyper Echelon | 148923 | [148923-hyper-echelon.json](./148923-hyper-echelon.json) |
+| Hyper Empire | 333790 | [333790-hyper-empire.json](./333790-hyper-empire.json) |
 | Hyper Fighting | 195212 | [195212-hyper-fighting.json](./195212-hyper-fighting.json) |
 | Hyper Flight | 117486 | [117486-hyper-flight.json](./117486-hyper-flight.json) |
 | Hyper Force | 40811 | [40811-hyper-force.json](./40811-hyper-force.json) |
