@@ -2702,6 +2702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senseless | 312725 | [312725-senseless.json](./312725-senseless.json) |
 | Senses: Midnight | 153980 | [153980-senses-midnight.json](./153980-senses-midnight.json) |
 | Sensha SP | 222290 | [222290-sensha-sp.json](./222290-sensha-sp.json) |
+| Senshijidaino Kyoryu: Dinoprehis! | 309612 | [309612-senshijidaino-kyoryu-dinoprehis.json](./309612-senshijidaino-kyoryu-dinoprehis.json) |
 | Sensible Blood Rugby | 175879 | [175879-sensible-blood-rugby.json](./175879-sensible-blood-rugby.json) |
 | Sensible Blood Rugby Sevens | 122181 | [122181-sensible-blood-rugby-sevens.json](./122181-sensible-blood-rugby-sevens.json) |
 | Sensible Soccer '98 | 94361 | [94361-sensible-soccer-98.json](./94361-sensible-soccer-98.json) |
@@ -6477,6 +6478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slender-Man | 64424 | [64424-slender-man.json](./64424-slender-man.json) |
 | Slender: Adrift | 321330 | [321330-slender-adrift.json](./321330-slender-adrift.json) |
 | Slender: Dark Woods | 321434 | [321434-slender-dark-woods.json](./321434-slender-dark-woods.json) |
+| Slender: Last Sleep | 309591 | [309591-slender-last-sleep.json](./309591-slender-last-sleep.json) |
 | Slender: Lonely Home | 126446 | [126446-slender-lonely-home.json](./126446-slender-lonely-home.json) |
 | Slender: New Hope | 321430 | [321430-slender-new-hope.json](./321430-slender-new-hope.json) |
 | Slender: Reborn | 327987 | [327987-slender-reborn.json](./327987-slender-reborn.json) |
@@ -9280,6 +9282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soupsoup | 265948 | [265948-soupsoup.json](./265948-soupsoup.json) |
 | Souptown Matty | 304709 | [304709-souptown-matty.json](./304709-souptown-matty.json) |
 | Souq Boss Simulator | 411118 | [411118-souq-boss-simulator.json](./411118-souq-boss-simulator.json) |
+| Sour Music Kart | 309606 | [309606-sour-music-kart.json](./309606-sour-music-kart.json) |
 | Sour Patch Kids: World Gone Sour | 52845 | [52845-sour-patch-kids-world-gone-sour.json](./52845-sour-patch-kids-world-gone-sour.json) |
 | Source | 80232 | [80232-source.json](./80232-source.json) |
 | Source Code | 340199 | [340199-source-code.json](./340199-source-code.json) |
@@ -14217,6 +14220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subnodule | 79587 | [79587-subnodule.json](./79587-subnodule.json) |
 | Subocto | 263598 | [263598-subocto.json](./263598-subocto.json) |
 | Suborbital | 260386 | [260386-suborbital.json](./260386-suborbital.json) |
+| SuborWin 2000 | 309611 | [309611-suborwin-2000.json](./309611-suborwin-2000.json) |
 | Subpar Commander | 27808 | [27808-subpar-commander.json](./27808-subpar-commander.json) |
 | SubPixels | 339926 | [339926-subpixels.json](./339926-subpixels.json) |
 | Subpoena Magus | 383933 | [383933-subpoena-magus.json](./383933-subpoena-magus.json) |
@@ -15020,6 +15024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Cars II | 12227 | [12227-super-cars-ii.json](./12227-super-cars-ii.json) |
 | Super Casino 2 | 38304 | [38304-super-casino-2.json](./38304-super-casino-2.json) |
 | Super Castlevania IV | 1124 | [1124-super-castlevania-iv.json](./1124-super-castlevania-iv.json) |
+| Super Castlevania IV: Other Castle | 309603 | [309603-super-castlevania-iv-other-castle.json](./309603-super-castlevania-iv-other-castle.json) |
 | Super Cat Herding: Totally Awesome Edition | 33084 | [33084-super-cat-herding-totally-awesome-edition.json](./33084-super-cat-herding-totally-awesome-edition.json) |
 | Super Cat Tales | 96155 | [96155-super-cat-tales.json](./96155-super-cat-tales.json) |
 | Super Cat Tales: Paws | 250999 | [250999-super-cat-tales-paws.json](./250999-super-cat-tales-paws.json) |
@@ -15531,6 +15536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 64: Royal Legacy - Definitive Edition | 314021 | [314021-super-mario-64-royal-legacy-definitive-edition.json](./314021-super-mario-64-royal-legacy-definitive-edition.json) |
 | Super Mario 64: Shadow Edition | 194313 | [194313-super-mario-64-shadow-edition.json](./194313-super-mario-64-shadow-edition.json) |
 | Super Mario 64: Shindou Improvement | 172481 | [172481-super-mario-64-shindou-improvement.json](./172481-super-mario-64-shindou-improvement.json) |
+| Super Mario 64: Sonic Edition Plus | 309614 | [309614-super-mario-64-sonic-edition-plus.json](./309614-super-mario-64-sonic-edition-plus.json) |
 | Super Mario 64: Star Revenge | 132839 | [132839-super-mario-64-star-revenge.json](./132839-super-mario-64-star-revenge.json) |
 | Super Mario 64: Star Revenge Redone | 132840 | [132840-super-mario-64-star-revenge-redone.json](./132840-super-mario-64-star-revenge-redone.json) |
 | Super Mario 64: The Missing Stars | 135176 | [135176-super-mario-64-the-missing-stars.json](./135176-super-mario-64-the-missing-stars.json) |
