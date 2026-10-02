@@ -214,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gal*Gun: Double Peace Horny Trinity Edition | 358982 | [358982-gal-gun-double-peace-horny-trinity-edition.json](./358982-gal-gun-double-peace-horny-trinity-edition.json) |
 | Gal*Gun: Double Peace Ultimate Horny Edition | 358983 | [358983-gal-gun-double-peace-ultimate-horny-edition.json](./358983-gal-gun-double-peace-ultimate-horny-edition.json) |
 | Gala Collider | 127750 | [127750-gala-collider.json](./127750-gala-collider.json) |
+| Galacard | 316139 | [316139-galacard.json](./316139-galacard.json) |
 | Galacard Platinum | 319106 | [319106-galacard-platinum.json](./319106-galacard-platinum.json) |
 | Galacard: Ackian Archives | 365210 | [365210-galacard-ackian-archives.json](./365210-galacard-ackian-archives.json) |
 | Galacatraz: Eject Equip Escape | 82044 | [82044-galacatraz-eject-equip-escape.json](./82044-galacatraz-eject-equip-escape.json) |
@@ -852,6 +853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garbage Collect | 201223 | [201223-garbage-collect.json](./201223-garbage-collect.json) |
 | Garbage Collector | 376437 | [376437-garbage-collector.json](./376437-garbage-collector.json) |
 | Garbage Driver Truck Simulator 2025 | 319789 | [319789-garbage-driver-truck-simulator-2025.json](./319789-garbage-driver-truck-simulator-2025.json) |
+| Garbage Girl Louise | 316183 | [316183-garbage-girl-louise.json](./316183-garbage-girl-louise.json) |
 | Garbage Packer | 404406 | [404406-garbage-packer.json](./404406-garbage-packer.json) |
 | Garbage Pail Kids: Mad Mike and the Quest for Stale Gum | 221146 | [221146-garbage-pail-kids-mad-mike-and-the-quest-for-stale-gum.json](./221146-garbage-pail-kids-mad-mike-and-the-quest-for-stale-gum.json) |
 | Garbage Scow Captain | 317813 | [317813-garbage-scow-captain.json](./317813-garbage-scow-captain.json) |
@@ -1546,6 +1548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeoFS | 142942 | [142942-geofs.json](./142942-geofs.json) |
 | Geograph Seal | 63819 | [63819-geograph-seal.json](./63819-geograph-seal.json) |
 | Geography Champion | 105933 | [105933-geography-champion.json](./105933-geography-champion.json) |
+| GeographyHelp | 316158 | [316158-geographyhelp.json](./316158-geographyhelp.json) |
 | GeoGrid | 301361 | [301361-geogrid.json](./301361-geogrid.json) |
 | GeoGuessr: Steam Edition | 336739 | [336739-geoguessr-steam-edition.json](./336739-geoguessr-steam-edition.json) |
 | GeoJelly | 232457 | [232457-geojelly.json](./232457-geojelly.json) |
@@ -2096,6 +2099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ginger: The Tooth Fairy | 209134 | [209134-ginger-the-tooth-fairy.json](./209134-ginger-the-tooth-fairy.json) |
 | Ginger's Letter to Santa | 326745 | [326745-gingers-letter-to-santa.json](./326745-gingers-letter-to-santa.json) |
 | Gingerbread Holiday | 373006 | [373006-gingerbread-holiday.json](./373006-gingerbread-holiday.json) |
+| GingerSnap | 316184 | [316184-gingersnap.json](./316184-gingersnap.json) |
 | Giniro no Tou | 416051 | [416051-giniro-no-tou.json](./416051-giniro-no-tou.json) |
 | Ginkgo | 144975 | [144975-ginkgo.json](./144975-ginkgo.json) |
 | Ginnung | 224238 | [224238-ginnung.json](./224238-ginnung.json) |
@@ -3127,6 +3131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goldheart | 248324 | [248324-goldheart.json](./248324-goldheart.json) |
 | Goldilock One: Boss Arena | 138247 | [138247-goldilock-one-boss-arena.json](./138247-goldilock-one-boss-arena.json) |
 | Goldilock One: The Mists of Jakaira | 253940 | [253940-goldilock-one-the-mists-of-jakaira.json](./253940-goldilock-one-the-mists-of-jakaira.json) |
+| Goldio | 316185 | [316185-goldio.json](./316185-goldio.json) |
 | Goldo: Lost Goblin | 370128 | [370128-goldo-lost-goblin.json](./370128-goldo-lost-goblin.json) |
 | Goldrot | 352250 | [352250-goldrot.json](./352250-goldrot.json) |
 | Goldrush | 314035 | [314035-goldrush.json](./314035-goldrush.json) |
