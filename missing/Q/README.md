@@ -71,6 +71,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QiuQiu Town | 374612 | [374612-qiuqiu-town.json](./374612-qiuqiu-town.json) |
 | Qix | 12266 | [12266-qix.json](./12266-qix.json) |
 | Qix | 196821 | [196821-qix.json](./196821-qix.json) |
+| Qix | 281051 | [281051-qix.json](./281051-qix.json) |
+| Qix | 281052 | [281052-qix.json](./281052-qix.json) |
+| Qix | 281053 | [281053-qix.json](./281053-qix.json) |
+| Qix | 281055 | [281055-qix.json](./281055-qix.json) |
+| Qix | 281056 | [281056-qix.json](./281056-qix.json) |
+| Qix | 281057 | [281057-qix.json](./281057-qix.json) |
+| Qix | 281058 | [281058-qix.json](./281058-qix.json) |
+| Qix | 281059 | [281059-qix.json](./281059-qix.json) |
+| Qix | 281060 | [281060-qix.json](./281060-qix.json) |
 | QIX II - Tournament | 67247 | [67247-qix-ii-tournament.json](./67247-qix-ii-tournament.json) |
 | Qix Neo | 44746 | [44746-qix-neo.json](./44746-qix-neo.json) |
 | QIX++ | 67255 | [67255-qix.json](./67255-qix.json) |
