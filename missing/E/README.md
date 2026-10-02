@@ -614,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge of the End | 367498 | [367498-edge-of-the-end.json](./367498-edge-of-the-end.json) |
 | Edge Run | 197935 | [197935-edge-run.json](./197935-edge-run.json) |
 | Edge: Mech-Ascent | 230303 | [230303-edge-mech-ascent.json](./230303-edge-mech-ascent.json) |
+| Edgeless | 291146 | [291146-edgeless.json](./291146-edgeless.json) |
 | Edgy Fantasy Battle Deluxe | 184632 | [184632-edgy-fantasy-battle-deluxe.json](./184632-edgy-fantasy-battle-deluxe.json) |
 | Edibles | 159815 | [159815-edibles.json](./159815-edibles.json) |
 | Ediction | 333545 | [333545-ediction.json](./333545-ediction.json) |
@@ -1982,6 +1983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enjoy Amoy & Sisters | 404874 | [404874-enjoy-amoy-and-sisters.json](./404874-enjoy-amoy-and-sisters.json) |
 | Enjoy Summer Maximum | 418860 | [418860-enjoy-summer-maximum.json](./418860-enjoy-summer-maximum.json) |
 | Enjoy: Futari no Ecchi na Joi to Eroero Kenshuu Taiken | 413846 | [413846-enjoy-futari-no-ecchi-na-joi-to-eroero-kenshuu-taiken.json](./413846-enjoy-futari-no-ecchi-na-joi-to-eroero-kenshuu-taiken.json) |
+| EnJoyTyping | 291145 | [291145-enjoytyping.json](./291145-enjoytyping.json) |
 | EnjoyUp's 3 in 1 | 390511 | [390511-enjoyups-3-in-1.json](./390511-enjoyups-3-in-1.json) |
 | Enkai Buchou | 293146 | [293146-enkai-buchou.json](./293146-enkai-buchou.json) |
 | Enkai Buchou 2 | 293176 | [293176-enkai-buchou-2.json](./293176-enkai-buchou-2.json) |
@@ -2808,6 +2810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Espiocracy | 153913 | [153913-espiocracy.json](./153913-espiocracy.json) |
 | Espionage | 13646 | [13646-espionage.json](./13646-espionage.json) |
 | Espionage | 285027 | [285027-espionage.json](./285027-espionage.json) |
+| Espionage Activity | 291148 | [291148-espionage-activity.json](./291148-espionage-activity.json) |
 | Espionage Island | 13645 | [13645-espionage-island.json](./13645-espionage-island.json) |
 | Espire 1: Sydney Sneakabouts Mission Pack | 305520 | [305520-espire-1-sydney-sneakabouts-mission-pack.json](./305520-espire-1-sydney-sneakabouts-mission-pack.json) |
 | Espire 1: VR Operative | 68569 | [68569-espire-1-vr-operative.json](./68569-espire-1-vr-operative.json) |
