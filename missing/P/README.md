@@ -1621,6 +1621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paulo | 86056 | [86056-paulo.json](./86056-paulo.json) |
 | PaulPaul - Act 1 | 105142 | [105142-paulpaul-act-1.json](./105142-paulpaul-act-1.json) |
 | Paunch 2 | 190953 | [190953-paunch-2.json](./190953-paunch-2.json) |
+| Pause Screen From Battletoads | 323789 | [323789-pause-screen-from-battletoads.json](./323789-pause-screen-from-battletoads.json) |
 | Pavement Pummel | 302432 | [302432-pavement-pummel.json](./302432-pavement-pummel.json) |
 | Pavilion: Touch Edition | 90801 | [90801-pavilion-touch-edition.json](./90801-pavilion-touch-edition.json) |
 | Pavlov's House | 153322 | [153322-pavlovs-house.json](./153322-pavlovs-house.json) |
@@ -5368,6 +5369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Gaia Version | 136997 | [136997-pokemon-gaia-version.json](./136997-pokemon-gaia-version.json) |
 | Pokémon Gamma Emerald | 342762 | [342762-pokemon-gamma-emerald.json](./342762-pokemon-gamma-emerald.json) |
 | Pokemon Garbage Gold | 305295 | [305295-pokemon-garbage-gold.json](./305295-pokemon-garbage-gold.json) |
+| Pokémon Garnet | 323792 | [323792-pokemon-garnet.json](./323792-pokemon-garnet.json) |
 | Pokémon Glacial Chronicles | 360193 | [360193-pokemon-glacial-chronicles.json](./360193-pokemon-glacial-chronicles.json) |
 | Pokémon Go: Adventures Abound | 383002 | [383002-pokemon-go-adventures-abound.json](./383002-pokemon-go-adventures-abound.json) |
 | Pokémon Go: Delightful Days | 382998 | [382998-pokemon-go-delightful-days.json](./382998-pokemon-go-delightful-days.json) |
@@ -6271,6 +6273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Possessed Bloody Asylum | 157570 | [157570-possessed-bloody-asylum.json](./157570-possessed-bloody-asylum.json) |
 | Possession | 90649 | [90649-possession.json](./90649-possession.json) |
 | Possession Game | 354523 | [354523-possession-game.json](./354523-possession-game.json) |
+| Posshexor | 323810 | [323810-posshexor.json](./323810-posshexor.json) |
 | PossiblyAxolotl's PlayPack | 349873 | [349873-possiblyaxolotls-playpack.json](./349873-possiblyaxolotls-playpack.json) |
 | Possum Boy!: The Ballad of Joey Virginia | 361241 | [361241-possum-boy-the-ballad-of-joey-virginia.json](./361241-possum-boy-the-ballad-of-joey-virginia.json) |
 | Possum Dating Simulator | 179042 | [179042-possum-dating-simulator.json](./179042-possum-dating-simulator.json) |
