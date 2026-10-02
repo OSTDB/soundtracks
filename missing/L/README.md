@@ -914,6 +914,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lawnmower Runner | 398505 | [398505-lawnmower-runner.json](./398505-lawnmower-runner.json) |
 | LawnMower: Mortal Race | 219284 | [219284-lawnmower-mortal-race.json](./219284-lawnmower-mortal-race.json) |
 | Lawnpocalypse | 379370 | [379370-lawnpocalypse.json](./379370-lawnpocalypse.json) |
+| Laws of Attraction | 313731 | [313731-laws-of-attraction.json](./313731-laws-of-attraction.json) |
+| Laws of Attraction 2 | 313732 | [313732-laws-of-attraction-2.json](./313732-laws-of-attraction-2.json) |
 | Laws of Machine | 96865 | [96865-laws-of-machine.json](./96865-laws-of-machine.json) |
 | Laxius Force | 50802 | [50802-laxius-force.json](./50802-laxius-force.json) |
 | Laxius Power II | 72040 | [72040-laxius-power-ii.json](./72040-laxius-power-ii.json) |
