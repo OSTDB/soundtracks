@@ -589,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hand Held Boggle | 239337 | [239337-hand-held-boggle.json](./239337-hand-held-boggle.json) |
 | Hand Maid Mahjong 2 | 97823 | [97823-hand-maid-mahjong-2.json](./97823-hand-maid-mahjong-2.json) |
 | Hand Meat Walker | 372683 | [372683-hand-meat-walker.json](./372683-hand-meat-walker.json) |
+| Hand of Anima | 294364 | [294364-hand-of-anima.json](./294364-hand-of-anima.json) |
 | Hand of Daggers | 398393 | [398393-hand-of-daggers.json](./398393-hand-of-daggers.json) |
 | Hand of Doom | 201681 | [201681-hand-of-doom.json](./201681-hand-of-doom.json) |
 | Hand of Fate 2: The Servant and the Beast | 111062 | [111062-hand-of-fate-2-the-servant-and-the-beast.json](./111062-hand-of-fate-2-the-servant-and-the-beast.json) |
@@ -1067,6 +1068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry the Hamster 2: The Quest for the Golden Wheel | 235333 | [235333-harry-the-hamster-2-the-quest-for-the-golden-wheel.json](./235333-harry-the-hamster-2-the-quest-for-the-golden-wheel.json) |
 | Harry's Legend | 320965 | [320965-harrys-legend.json](./320965-harrys-legend.json) |
 | Harrys Restaurant | 66388 | [66388-harrys-restaurant.json](./66388-harrys-restaurant.json) |
+| Harsh. | 294363 | [294363-harsh.json](./294363-harsh.json) |
 | Harts | 80920 | [80920-harts.json](./80920-harts.json) |
 | Haru he to Tsuzuku Oka | 388003 | [388003-haru-he-to-tsuzuku-oka.json](./388003-haru-he-to-tsuzuku-oka.json) |
 | Haru Ichiban | 209708 | [209708-haru-ichiban.json](./209708-haru-ichiban.json) |
@@ -1093,6 +1095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest | 229365 | [229365-harvest.json](./229365-harvest.json) |
 | Harvest | 99400 | [99400-harvest.json](./99400-harvest.json) |
 | Harvest Bliss | 302374 | [302374-harvest-bliss.json](./302374-harvest-bliss.json) |
+| Harvest Cafe | 294386 | [294386-harvest-cafe.json](./294386-harvest-cafe.json) |
 | Harvest Dice: Abundia’s Blessing | 376539 | [376539-harvest-dice-abundia-s-blessing.json](./376539-harvest-dice-abundia-s-blessing.json) |
 | Harvest Hands | 125419 | [125419-harvest-hands.json](./125419-harvest-hands.json) |
 | Harvest Hustlers | 302363 | [302363-harvest-hustlers.json](./302363-harvest-hustlers.json) |
