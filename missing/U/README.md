@@ -281,6 +281,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Hero | 333530 | [333530-ultimate-hero.json](./333530-ultimate-hero.json) |
 | Ultimate Heroes | 165387 | [165387-ultimate-heroes.json](./165387-ultimate-heroes.json) |
 | Ultimate Holidays: Deluxe Edition | 328810 | [328810-ultimate-holidays-deluxe-edition.json](./328810-ultimate-holidays-deluxe-edition.json) |
+| Ultimate Holidays: Postcard Stickers Pack 1 | 324400 | [324400-ultimate-holidays-postcard-stickers-pack-1.json](./324400-ultimate-holidays-postcard-stickers-pack-1.json) |
+| Ultimate Holidays: Postcard Stickers Pack 2 | 324401 | [324401-ultimate-holidays-postcard-stickers-pack-2.json](./324401-ultimate-holidays-postcard-stickers-pack-2.json) |
+| Ultimate Holidays: Postcard Stickers Pack 3 | 324395 | [324395-ultimate-holidays-postcard-stickers-pack-3.json](./324395-ultimate-holidays-postcard-stickers-pack-3.json) |
 | Ultimate Horse Simulator | 87026 | [87026-ultimate-horse-simulator.json](./87026-ultimate-horse-simulator.json) |
 | Ultimate Hunt Challenge | 94346 | [94346-ultimate-hunt-challenge.json](./94346-ultimate-hunt-challenge.json) |
 | Ultimate Hunting | 337832 | [337832-ultimate-hunting.json](./337832-ultimate-hunting.json) |
