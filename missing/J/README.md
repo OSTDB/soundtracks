@@ -604,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Hero | 29636 | [29636-jet-hero.json](./29636-jet-hero.json) |
 | Jet Island | 29588 | [29588-jet-island.json](./29588-jet-island.json) |
 | Jet Li: Rise to Honor | 22281 | [22281-jet-li-rise-to-honor.json](./22281-jet-li-rise-to-honor.json) |
+| Jet Moto 2 | 287885 | [287885-jet-moto-2.json](./287885-jet-moto-2.json) |
 | Jet Moto 2 | 45214 | [45214-jet-moto-2.json](./45214-jet-moto-2.json) |
 | Jet Moto 3 | 45040 | [45040-jet-moto-3.json](./45040-jet-moto-3.json) |
 | Jet Pack | 84273 | [84273-jet-pack.json](./84273-jet-pack.json) |
