@@ -774,6 +774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egoboo | 47298 | [47298-egoboo.json](./47298-egoboo.json) |
 | Egregore | 139230 | [139230-egregore.json](./139230-egregore.json) |
 | Egregore | 310046 | [310046-egregore.json](./310046-egregore.json) |
+| Egress Protocol | 327940 | [327940-egress-protocol.json](./327940-egress-protocol.json) |
 | Egress Protocol | 375856 | [375856-egress-protocol.json](./375856-egress-protocol.json) |
 | Egret II Mini: Arcade Memories Vol. II | 265645 | [265645-egret-ii-mini-arcade-memories-vol-ii.json](./265645-egret-ii-mini-arcade-memories-vol-ii.json) |
 | Egypt Blocks Puzzle | 180038 | [180038-egypt-blocks-puzzle.json](./180038-egypt-blocks-puzzle.json) |
