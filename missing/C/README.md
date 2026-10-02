@@ -2996,6 +2996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charterstone: Digital Edition | 117869 | [117869-charterstone-digital-edition.json](./117869-charterstone-digital-edition.json) |
 | Chase | 195500 | [195500-chase.json](./195500-chase.json) |
 | Chase | 253998 | [253998-chase.json](./253998-chase.json) |
+| Chase | 286775 | [286775-chase.json](./286775-chase.json) |
 | Chase | 317902 | [317902-chase.json](./317902-chase.json) |
 | Chase & Escape | 355215 | [355215-chase-and-escape.json](./355215-chase-and-escape.json) |
 | Chase Ace Sole Survivor | 281992 | [281992-chase-ace-sole-survivor.json](./281992-chase-ace-sole-survivor.json) |
@@ -9409,6 +9410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubic Haikus - hikikomori | 418533 | [418533-cubic-haikus-hikikomori.json](./418533-cubic-haikus-hikikomori.json) |
 | Cubic Juice | 158221 | [158221-cubic-juice.json](./158221-cubic-juice.json) |
 | Cubic Light | 229164 | [229164-cubic-light.json](./229164-cubic-light.json) |
+| Cubic Neon Nightclub | 286764 | [286764-cubic-neon-nightclub.json](./286764-cubic-neon-nightclub.json) |
 | Cubic Ninja | 6754 | [6754-cubic-ninja.json](./6754-cubic-ninja.json) |
 | Cubic Odyssey | 329371 | [329371-cubic-odyssey.json](./329371-cubic-odyssey.json) |
 | Cubic Snake | 184388 | [184388-cubic-snake.json](./184388-cubic-snake.json) |
