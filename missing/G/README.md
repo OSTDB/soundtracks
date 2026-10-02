@@ -5481,6 +5481,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gurugedara | 61620 | [61620-gurugedara.json](./61620-gurugedara.json) |
 | Guruguru Animals | 96268 | [96268-guruguru-animals.json](./96268-guruguru-animals.json) |
 | Gururin World | 286633 | [286633-gururin-world.json](./286633-gururin-world.json) |
+| Gus and the Cyberbuds: Sing, Play & Paint-A-Long | 282237 | [282237-gus-and-the-cyberbuds-sing-play-and-paint-a-long.json](./282237-gus-and-the-cyberbuds-sing-play-and-paint-a-long.json) |
+| Gus Goes to Cybertown | 282236 | [282236-gus-goes-to-cybertown.json](./282236-gus-goes-to-cybertown.json) |
 | Gusano Go | 183860 | [183860-gusano-go.json](./183860-gusano-go.json) |
 | Gust | 221130 | [221130-gust.json](./221130-gust.json) |
 | Gust Buster | 24007 | [24007-gust-buster.json](./24007-gust-buster.json) |
