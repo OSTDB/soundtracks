@@ -664,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warfront 2020 | 216845 | [216845-warfront-2020.json](./216845-warfront-2020.json) |
 | Warfront Defenders: Westerplatte | 54723 | [54723-warfront-defenders-westerplatte.json](./54723-warfront-defenders-westerplatte.json) |
 | Warfront Nations | 361299 | [361299-warfront-nations.json](./361299-warfront-nations.json) |
+| Warfront Tactics: Battlefield Chronicles Battle Simulator | 304271 | [304271-warfront-tactics-battlefield-chronicles-battle-simulator.json](./304271-warfront-tactics-battlefield-chronicles-battle-simulator.json) |
 | Wargame Construction Set | 37158 | [37158-wargame-construction-set.json](./37158-wargame-construction-set.json) |
 | Wargame Construction Set Pack | 278721 | [278721-wargame-construction-set-pack.json](./278721-wargame-construction-set-pack.json) |
 | Wargame: European Escalation | 8383 | [8383-wargame-european-escalation.json](./8383-wargame-european-escalation.json) |
