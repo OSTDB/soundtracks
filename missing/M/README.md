@@ -1519,6 +1519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mango Goes to Mewsic School | 292256 | [292256-mango-goes-to-mewsic-school.json](./292256-mango-goes-to-mewsic-school.json) |
 | Mango's Fisharium | 348890 | [348890-mangos-fisharium.json](./348890-mangos-fisharium.json) |
 | MangoMan | 183471 | [183471-mangoman.json](./183471-mangoman.json) |
+| MangueBoy | 279241 | [279241-mangueboy.json](./279241-mangueboy.json) |
 | ManHandler | 243689 | [243689-manhandler.json](./243689-manhandler.json) |
 | Manhattan Dealers | 10846 | [10846-manhattan-dealers.json](./10846-manhattan-dealers.json) |
 | Manhattan Requiem | 349955 | [349955-manhattan-requiem.json](./349955-manhattan-requiem.json) |
@@ -3315,6 +3316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mea’s Saifu Collection Party | 411618 | [411618-mea-s-saifu-collection-party.json](./411618-mea-s-saifu-collection-party.json) |
 | Meadgard | 280279 | [280279-meadgard.json](./280279-meadgard.json) |
 | Meadow Assault | 304582 | [304582-meadow-assault.json](./304582-meadow-assault.json) |
+| Meadow Gallop | 279252 | [279252-meadow-gallop.json](./279252-meadow-gallop.json) |
 | Meadows Lanes | 40358 | [40358-meadows-lanes.json](./40358-meadows-lanes.json) |
 | Meadowside Mayor | 354517 | [354517-meadowside-mayor.json](./354517-meadowside-mayor.json) |
 | Meal Escape | 86513 | [86513-meal-escape.json](./86513-meal-escape.json) |
@@ -5770,6 +5772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MILF | 334765 | [334765-milf.json](./334765-milf.json) |
 | Milf Hunter | 192444 | [192444-milf-hunter.json](./192444-milf-hunter.json) |
 | Milf Love: Spa Date | 385054 | [385054-milf-love-spa-date.json](./385054-milf-love-spa-date.json) |
+| MILF Next Door 2: Hijabi Mama | 279226 | [279226-milf-next-door-2-hijabi-mama.json](./279226-milf-next-door-2-hijabi-mama.json) |
 | Milf Puzzle | 382483 | [382483-milf-puzzle.json](./382483-milf-puzzle.json) |
 | Milf Solitaire: Lust Collector | 400316 | [400316-milf-solitaire-lust-collector.json](./400316-milf-solitaire-lust-collector.json) |
 | Milf Toys 2 | 195244 | [195244-milf-toys-2.json](./195244-milf-toys-2.json) |
@@ -6468,6 +6471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mining Simulator | 241512 | [241512-mining-simulator.json](./241512-mining-simulator.json) |
 | Mining Wizards | 379861 | [379861-mining-wizards.json](./379861-mining-wizards.json) |
 | Minion Masters + Mordar's Malediction DLC | 173163 | [173163-minion-masters-mordars-malediction-dlc.json](./173163-minion-masters-mordars-malediction-dlc.json) |
+| Minion Masters: Arise! | 279249 | [279249-minion-masters-arise.json](./279249-minion-masters-arise.json) |
 | Minion Masters: Best Plan No Plan! | 330727 | [330727-minion-masters-best-plan-no-plan.json](./330727-minion-masters-best-plan-no-plan.json) |
 | Minion Masters: Charging Into Darkness | 330730 | [330730-minion-masters-charging-into-darkness.json](./330730-minion-masters-charging-into-darkness.json) |
 | Minion Masters: Crystal Conquest | 330738 | [330738-minion-masters-crystal-conquest.json](./330738-minion-masters-crystal-conquest.json) |
@@ -9654,6 +9658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musha Musha Memorial | 355187 | [355187-musha-musha-memorial.json](./355187-musha-musha-memorial.json) |
 | Mushi Battle Arena | 328616 | [328616-mushi-battle-arena.json](./328616-mushi-battle-arena.json) |
 | Mushi Life | 376115 | [376115-mushi-life.json](./376115-mushi-life.json) |
+| Mushi Taro | 279223 | [279223-mushi-taro.json](./279223-mushi-taro.json) |
 | Mushihime-sama Futari | 27626 | [27626-mushihime-sama-futari.json](./27626-mushihime-sama-futari.json) |
 | Mushihime-sama Futari: Black Label | 79369 | [79369-mushihime-sama-futari-black-label.json](./79369-mushihime-sama-futari-black-label.json) |
 | Mushihimesama | 152398 | [152398-mushihimesama.json](./152398-mushihimesama.json) |
