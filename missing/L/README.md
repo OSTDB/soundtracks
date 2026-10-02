@@ -1008,6 +1008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Tour de France: Centenary Edition | 43449 | [43449-le-tour-de-france-centenary-edition.json](./43449-le-tour-de-france-centenary-edition.json) |
 | Le Trésor d'ali Gator | 336174 | [336174-le-tresor-dali-gator.json](./336174-le-tresor-dali-gator.json) |
 | Le Zoo | 346065 | [346065-le-zoo.json](./346065-le-zoo.json) |
+| Lea | 310112 | [310112-lea.json](./310112-lea.json) |
 | Lead & Blood | 372687 | [372687-lead-and-blood.json](./372687-lead-and-blood.json) |
 | Lead and Gold: Gangs of the Wild West | 2041 | [2041-lead-and-gold-gangs-of-the-wild-west.json](./2041-lead-and-gold-gangs-of-the-wild-west.json) |
 | Lead on Mars | 61728 | [61728-lead-on-mars.json](./61728-lead-on-mars.json) |
@@ -2557,6 +2558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limbocore | 177327 | [177327-limbocore.json](./177327-limbocore.json) |
 | Limbot | 380436 | [380436-limbot.json](./380436-limbot.json) |
 | Limbs | 238751 | [238751-limbs.json](./238751-limbs.json) |
+| Limbus | 310118 | [310118-limbus.json](./310118-limbus.json) |
 | Limbus Company | 194106 | [194106-limbus-company.json](./194106-limbus-company.json) |
 | Limbus Company: Season 5 - Oblivion | 319013 | [319013-limbus-company-season-5-oblivion.json](./319013-limbus-company-season-5-oblivion.json) |
 | Limbus Company: Season 8 - Punctum | 416722 | [416722-limbus-company-season-8-punctum.json](./416722-limbus-company-season-8-punctum.json) |
