@@ -4413,6 +4413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Mist | 112328 | [112328-city-of-mist.json](./112328-city-of-mist.json) |
 | City of Mist 2 | 123536 | [123536-city-of-mist-2.json](./123536-city-of-mist-2.json) |
 | City of Nightmares | 317980 | [317980-city-of-nightmares.json](./317980-city-of-nightmares.json) |
+| City of None | 329226 | [329226-city-of-none.json](./329226-city-of-none.json) |
 | City of Rampage | 217025 | [217025-city-of-rampage.json](./217025-city-of-rampage.json) |
 | City of Robots | 169804 | [169804-city-of-robots.json](./169804-city-of-robots.json) |
 | City of Rott: Streets of Rott | 29766 | [29766-city-of-rott-streets-of-rott.json](./29766-city-of-rott-streets-of-rott.json) |
@@ -4512,6 +4513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Civil War: Battle of Petersburg | 29657 | [29657-civil-war-battle-of-petersburg.json](./29657-civil-war-battle-of-petersburg.json) |
 | Civil War: Bull Run 1861 | 51549 | [51549-civil-war-bull-run-1861.json](./51549-civil-war-bull-run-1861.json) |
 | Civil War: Gettysburg | 55501 | [55501-civil-war-gettysburg.json](./55501-civil-war-gettysburg.json) |
+| Civil Warfare | 329048 | [329048-civil-warfare.json](./329048-civil-warfare.json) |
 | Civil Warfare: Another Bullet in the War | 79136 | [79136-civil-warfare-another-bullet-in-the-war.json](./79136-civil-warfare-another-bullet-in-the-war.json) |
 | CivilContractRPG | 125847 | [125847-civilcontractrpg.json](./125847-civilcontractrpg.json) |
 | Civilization | 175915 | [175915-civilization.json](./175915-civilization.json) |
@@ -4734,6 +4736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clean Up Crew | 360057 | [360057-clean-up-crew.json](./360057-clean-up-crew.json) |
 | Clean-up Squad | 258493 | [258493-clean-up-squad.json](./258493-clean-up-squad.json) |
 | Clean'Em Up | 35709 | [35709-cleanem-up.json](./35709-cleanem-up.json) |
+| Cleanbot 9000 | 329053 | [329053-cleanbot-9000.json](./329053-cleanbot-9000.json) |
 | Cleaner | 119761 | [119761-cleaner.json](./119761-cleaner.json) |
 | Cleaner Boy | 331133 | [331133-cleaner-boy.json](./331133-cleaner-boy.json) |
 | Cleaner Company | 346684 | [346684-cleaner-company.json](./346684-cleaner-company.json) |
@@ -5479,6 +5482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Snap | 401621 | [401621-cold-snap.json](./401621-cold-snap.json) |
 | Cold Steel | 314630 | [314630-cold-steel.json](./314630-cold-steel.json) |
 | Cold Steel | 373518 | [373518-cold-steel.json](./373518-cold-steel.json) |
+| Cold Storage | 329214 | [329214-cold-storage.json](./329214-cold-storage.json) |
 | Cold Sweat | 323508 | [323508-cold-sweat.json](./323508-cold-sweat.json) |
 | Cold Vengeance | 26877 | [26877-cold-vengeance.json](./26877-cold-vengeance.json) |
 | Cold Verdict | 188943 | [188943-cold-verdict.json](./188943-cold-verdict.json) |
