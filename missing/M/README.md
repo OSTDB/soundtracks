@@ -7025,6 +7025,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB The Show 20 | 125013 | [125013-mlb-the-show-20.json](./125013-mlb-the-show-20.json) |
 | MLB The Show 21 | 143260 | [143260-mlb-the-show-21.json](./143260-mlb-the-show-21.json) |
 | MLB The Show 22: MVP Edition | 196516 | [196516-mlb-the-show-22-mvp-edition.json](./196516-mlb-the-show-22-mvp-edition.json) |
+| MLB The Show 24: Digital Deluxe Edition | 286200 | [286200-mlb-the-show-24-digital-deluxe-edition.json](./286200-mlb-the-show-24-digital-deluxe-edition.json) |
+| MLB The Show 24: MVP Edition | 286201 | [286201-mlb-the-show-24-mvp-edition.json](./286201-mlb-the-show-24-mvp-edition.json) |
 | MLB The Show 25 | 329844 | [329844-mlb-the-show-25.json](./329844-mlb-the-show-25.json) |
 | MLB The Show 26: Digital Deluxe Edition | 390533 | [390533-mlb-the-show-26-digital-deluxe-edition.json](./390533-mlb-the-show-26-digital-deluxe-edition.json) |
 | MLB.com Franchise MVP | 61355 | [61355-mlb-com-franchise-mvp.json](./61355-mlb-com-franchise-mvp.json) |
@@ -7061,6 +7063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MOAR: Appeteaser | 209718 | [209718-moar-appeteaser.json](./209718-moar-appeteaser.json) |
 | Mob Control | 227808 | [227808-mob-control.json](./227808-mob-control.json) |
 | Mob Control: Champions | 277900 | [277900-mob-control-champions.json](./277900-mob-control-champions.json) |
+| Mob Control: Champions Edition | 286197 | [286197-mob-control-champions-edition.json](./286197-mob-control-champions-edition.json) |
 | Mob Control: Complete Edition | 283169 | [283169-mob-control-complete-edition.json](./283169-mob-control-complete-edition.json) |
 | Mob Control: Triple Backup | 277899 | [277899-mob-control-triple-backup.json](./277899-mob-control-triple-backup.json) |
 | Mob Drop Castle | 406078 | [406078-mob-drop-castle.json](./406078-mob-drop-castle.json) |
