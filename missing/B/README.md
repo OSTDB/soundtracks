@@ -1468,6 +1468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball | 297486 | [297486-baseball.json](./297486-baseball.json) |
 | Baseball | 300004 | [300004-baseball.json](./300004-baseball.json) |
 | Baseball | 305278 | [305278-baseball.json](./305278-baseball.json) |
+| Baseball | 324978 | [324978-baseball.json](./324978-baseball.json) |
 | Baseball | 7580 | [7580-baseball.json](./7580-baseball.json) |
 | Baseball | 7581 | [7581-baseball.json](./7581-baseball.json) |
 | Baseball 101 | 230839 | [230839-baseball-101.json](./230839-baseball-101.json) |
