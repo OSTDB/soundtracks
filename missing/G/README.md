@@ -2324,6 +2324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glassfish Bomb | 243074 | [243074-glassfish-bomb.json](./243074-glassfish-bomb.json) |
 | Glassy Stare | 358463 | [358463-glassy-stare.json](./358463-glassy-stare.json) |
 | Glay: Complete Works | 286588 | [286588-glay-complete-works.json](./286588-glay-complete-works.json) |
+| Gleep Gym | 299372 | [299372-gleep-gym.json](./299372-gleep-gym.json) |
 | Glennhaven | 185540 | [185540-glennhaven.json](./185540-glennhaven.json) |
 | Glenwich Idle MMO | 397790 | [397790-glenwich-idle-mmo.json](./397790-glenwich-idle-mmo.json) |
 | Gleylancer & Gynoug Combo Pack | 286566 | [286566-gleylancer-and-gynoug-combo-pack.json](./286566-gleylancer-and-gynoug-combo-pack.json) |
@@ -3281,6 +3282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goners | 401074 | [401074-goners.json](./401074-goners.json) |
 | Gong | 280356 | [280356-gong.json](./280356-gong.json) |
 | Gongbat | 183011 | [183011-gongbat.json](./183011-gongbat.json) |
+| Gōngchéng Sānguózhì | 299373 | [299373-gongcheng-sanguozhi.json](./299373-gongcheng-sanguozhi.json) |
 | Gonne Wrong | 151142 | [151142-gonne-wrong.json](./151142-gonne-wrong.json) |
 | Gonner2: Lose Your Head Bundle | 154963 | [154963-gonner2-lose-your-head-bundle.json](./154963-gonner2-lose-your-head-bundle.json) |
 | Gonner2: The Full Ikk Edition | 154552 | [154552-gonner2-the-full-ikk-edition.json](./154552-gonner2-the-full-ikk-edition.json) |
@@ -4860,6 +4862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians of Victoria | 34882 | [34882-guardians-of-victoria.json](./34882-guardians-of-victoria.json) |
 | Guardians: Denjin Makai II | 46781 | [46781-guardians-denjin-makai-ii.json](./46781-guardians-denjin-makai-ii.json) |
 | Guardians: Royal Journey | 155003 | [155003-guardians-royal-journey.json](./155003-guardians-royal-journey.json) |
+| Guardians: Unite the Realms | 299417 | [299417-guardians-unite-the-realms.json](./299417-guardians-unite-the-realms.json) |
 | Guarding Goddess | 207331 | [207331-guarding-goddess.json](./207331-guarding-goddess.json) |
 | Guards of the Gate | 90168 | [90168-guards-of-the-gate.json](./90168-guards-of-the-gate.json) |
 | Guards!: Vanguard Supporter Pack | 289322 | [289322-guards-vanguard-supporter-pack.json](./289322-guards-vanguard-supporter-pack.json) |
