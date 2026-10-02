@@ -1864,6 +1864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infiniball | 129737 | [129737-infiniball.json](./129737-infiniball.json) |
 | Infiniboss | 134008 | [134008-infiniboss.json](./134008-infiniboss.json) |
 | Infinicity | 295262 | [295262-infinicity.json](./295262-infinicity.json) |
+| Infinicrypt | 298280 | [298280-infinicrypt.json](./298280-infinicrypt.json) |
 | Infinifactory | 9649 | [9649-infinifactory.json](./9649-infinifactory.json) |
 | Infinimoes | 333654 | [333654-infinimoes.json](./333654-infinimoes.json) |
 | InfiniPicross | 54690 | [54690-infinipicross.json](./54690-infinipicross.json) |
@@ -3108,6 +3109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island of the Ancients | 154368 | [154368-island-of-the-ancients.json](./154368-island-of-the-ancients.json) |
 | Island Off Outer Darkness | 352349 | [352349-island-off-outer-darkness.json](./352349-island-off-outer-darkness.json) |
 | Island Paradise | 296939 | [296939-island-paradise.json](./296939-island-paradise.json) |
+| Island Party Chaos | 298232 | [298232-island-party-chaos.json](./298232-island-party-chaos.json) |
 | Island Peril | 57673 | [57673-island-peril.json](./57673-island-peril.json) |
 | Island Questaway: Jungle Farm | 233472 | [233472-island-questaway-jungle-farm.json](./233472-island-questaway-jungle-farm.json) |
 | Island Racer | 30039 | [30039-island-racer.json](./30039-island-racer.json) |
