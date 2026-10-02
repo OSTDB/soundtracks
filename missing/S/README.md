@@ -1418,6 +1418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scene It? Movie Night | 41581 | [41581-scene-it-movie-night.json](./41581-scene-it-movie-night.json) |
 | Scene It? Movie Night: Mega Movies | 65511 | [65511-scene-it-movie-night-mega-movies.json](./65511-scene-it-movie-night-mega-movies.json) |
 | Scene It? Twilight | 5142 | [5142-scene-it-twilight.json](./5142-scene-it-twilight.json) |
+| Scene of the Crime | 328661 | [328661-scene-of-the-crime.json](./328661-scene-of-the-crime.json) |
 | Scenery Disk 2 | 100127 | [100127-scenery-disk-2.json](./100127-scenery-disk-2.json) |
 | Scenery Disk 4 | 78012 | [78012-scenery-disk-4.json](./78012-scenery-disk-4.json) |
 | Scenery Disk 5 | 98959 | [98959-scenery-disk-5.json](./98959-scenery-disk-5.json) |
@@ -5944,6 +5945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skout | 9358 | [9358-skout.json](./9358-skout.json) |
 | Skramble | 40928 | [40928-skramble.json](./40928-skramble.json) |
 | Skronchulonch: The Game of Shooting at an Orb | 176375 | [176375-skronchulonch-the-game-of-shooting-at-an-orb.json](./176375-skronchulonch-the-game-of-shooting-at-an-orb.json) |
+| Skrotens Hjältar | 328676 | [328676-skrotens-hjaltar.json](./328676-skrotens-hjaltar.json) |
 | Skrunkly gets a Meal Deal | 332984 | [332984-skrunkly-gets-a-meal-deal.json](./332984-skrunkly-gets-a-meal-deal.json) |
 | Skuf For Altushki | 368554 | [368554-skuf-for-altushki.json](./368554-skuf-for-altushki.json) |
 | Skuf na dachie | 380668 | [380668-skuf-na-dachie.json](./380668-skuf-na-dachie.json) |
@@ -10251,6 +10253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Rift | 335371 | [335371-spell-rift.json](./335371-spell-rift.json) |
 | Spell Slingers: Trick or Treat | 198516 | [198516-spell-slingers-trick-or-treat.json](./198516-spell-slingers-trick-or-treat.json) |
 | Spell Slingin' Tower Defense | 270145 | [270145-spell-slingin-tower-defense.json](./270145-spell-slingin-tower-defense.json) |
+| Spell Something | 328682 | [328682-spell-something.json](./328682-spell-something.json) |
 | Spell Spiral | 321343 | [321343-spell-spiral.json](./321343-spell-spiral.json) |
 | Spell Tonaeru | 319150 | [319150-spell-tonaeru.json](./319150-spell-tonaeru.json) |
 | Spell Welders | 199501 | [199501-spell-welders.json](./199501-spell-welders.json) |
@@ -15474,6 +15477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Galaxy 64: Holiday Special | 294779 | [294779-super-mario-galaxy-64-holiday-special.json](./294779-super-mario-galaxy-64-holiday-special.json) |
 | Super Mario Galaxy DS | 315008 | [315008-super-mario-galaxy-ds.json](./315008-super-mario-galaxy-ds.json) |
 | Super Mario Galaxy Multiplayer | 294770 | [294770-super-mario-galaxy-multiplayer.json](./294770-super-mario-galaxy-multiplayer.json) |
+| Super Mario Galaxy Star Bit | 328672 | [328672-super-mario-galaxy-star-bit.json](./328672-super-mario-galaxy-star-bit.json) |
 | Super Mario Galaxy: The Lost Levels | 313326 | [313326-super-mario-galaxy-the-lost-levels.json](./313326-super-mario-galaxy-the-lost-levels.json) |
 | Super Mario Generations | 318549 | [318549-super-mario-generations.json](./318549-super-mario-generations.json) |
 | Super Mario Golden Hour | 394337 | [394337-super-mario-golden-hour.json](./394337-super-mario-golden-hour.json) |
@@ -15955,6 +15959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. | 328589 | [328589-super-smash-bros.json](./328589-super-smash-bros.json) |
 | Super Smash Bros. 3D | 339945 | [339945-super-smash-bros-3d.json](./339945-super-smash-bros-3d.json) |
 | Super Smash Bros. Alternate Universe | 358315 | [358315-super-smash-bros-alternate-universe.json](./358315-super-smash-bros-alternate-universe.json) |
+| Super Smash Bros. Brawl | 328674 | [328674-super-smash-bros-brawl.json](./328674-super-smash-bros-brawl.json) |
 | Super Smash Bros. Brawl: Limited Edition | 231867 | [231867-super-smash-bros-brawl-limited-edition.json](./231867-super-smash-bros-brawl-limited-edition.json) |
 | Super Smash Bros. Clash | 279590 | [279590-super-smash-bros-clash.json](./279590-super-smash-bros-clash.json) |
 | Super Smash Bros. Crusade | 132730 | [132730-super-smash-bros-crusade.json](./132730-super-smash-bros-crusade.json) |
