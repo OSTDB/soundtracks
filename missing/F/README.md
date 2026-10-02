@@ -536,6 +536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Haven: Liberation Day | 154493 | [154493-fallen-haven-liberation-day.json](./154493-fallen-haven-liberation-day.json) |
 | Fallen Hero: Rebirth | 88044 | [88044-fallen-hero-rebirth.json](./88044-fallen-hero-rebirth.json) |
 | Fallen Kingdom | 75023 | [75023-fallen-kingdom.json](./75023-fallen-kingdom.json) |
+| Fallen Kingdom: A Mario PC Port Retake | 298277 | [298277-fallen-kingdom-a-mario-pc-port-retake.json](./298277-fallen-kingdom-a-mario-pc-port-retake.json) |
 | Fallen Knight: Rise of the Fallen | 367514 | [367514-fallen-knight-rise-of-the-fallen.json](./367514-fallen-knight-rise-of-the-fallen.json) |
 | Fallen Leaf | 141083 | [141083-fallen-leaf.json](./141083-fallen-leaf.json) |
 | Fallen Legion Revenants | 135342 | [135342-fallen-legion-revenants.json](./135342-fallen-legion-revenants.json) |
