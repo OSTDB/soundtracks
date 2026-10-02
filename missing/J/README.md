@@ -1104,6 +1104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Job Battle Simulator: Accurate Physics Showdown | 348253 | [348253-job-battle-simulator-accurate-physics-showdown.json](./348253-job-battle-simulator-accurate-physics-showdown.json) |
 | Job Fit For a Devil | 369044 | [369044-job-fit-for-a-devil.json](./369044-job-fit-for-a-devil.json) |
 | Job Hunter 202X | 375822 | [375822-job-hunter-202x.json](./375822-job-hunter-202x.json) |
+| Job Interview | 295508 | [295508-job-interview.json](./295508-job-interview.json) |
 | Job Joust | 293226 | [293226-job-joust.json](./293226-job-joust.json) |
 | Job Simulator: Human Relations | 413169 | [413169-job-simulator-human-relations.json](./413169-job-simulator-human-relations.json) |
 | Job Simulator: The 2050 Archives | 12596 | [12596-job-simulator-the-2050-archives.json](./12596-job-simulator-the-2050-archives.json) |
@@ -1582,6 +1583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump N Shooters | 244374 | [244374-jump-n-shooters.json](./244374-jump-n-shooters.json) |
 | Jump O'Clock | 65226 | [65226-jump-oclock.json](./65226-jump-oclock.json) |
 | Jump Off the Bridge | 117553 | [117553-jump-off-the-bridge.json](./117553-jump-off-the-bridge.json) |
+| Jump On Clouds | 295502 | [295502-jump-on-clouds.json](./295502-jump-on-clouds.json) |
 | Jump On Head | 298819 | [298819-jump-on-head.json](./298819-jump-on-head.json) |
 | Jump on the Ball | 329380 | [329380-jump-on-the-ball.json](./329380-jump-on-the-ball.json) |
 | Jump or Roll Game | 246987 | [246987-jump-or-roll-game.json](./246987-jump-or-roll-game.json) |
