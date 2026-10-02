@@ -3277,6 +3277,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | McPlay | 86984 | [86984-mcplay.json](./86984-mcplay.json) |
 | McTetris | 230831 | [230831-mctetris.json](./230831-mctetris.json) |
 | MCW Regicide! | 360127 | [360127-mcw-regicide.json](./360127-mcw-regicide.json) |
+| MD Card Game 1 | 287862 | [287862-md-card-game-1.json](./287862-md-card-game-1.json) |
+| MD Card Game 2 | 287863 | [287863-md-card-game-2.json](./287863-md-card-game-2.json) |
 | MDF: Magical Defense Force - Chapters 10-18 | 285445 | [285445-mdf-magical-defense-force-chapters-10-18.json](./285445-mdf-magical-defense-force-chapters-10-18.json) |
 | mdiapp+ SE | 74347 | [74347-mdiapp-se.json](./74347-mdiapp-se.json) |
 | MDK2: Armageddon | 414467 | [414467-mdk2-armageddon.json](./414467-mdk2-armageddon.json) |
@@ -8581,6 +8583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MorTown | 383528 | [383528-mortown.json](./383528-mortown.json) |
 | Mortu | 408929 | [408929-mortu.json](./408929-mortu.json) |
 | Mortuar | 329073 | [329073-mortuar.json](./329073-mortuar.json) |
+| Mortui: Outbreak Secrets | 287874 | [287874-mortui-outbreak-secrets.json](./287874-mortui-outbreak-secrets.json) |
 | Mortuum | 13090 | [13090-mortuum.json](./13090-mortuum.json) |
 | Morvyn Gutter | 341338 | [341338-morvyn-gutter.json](./341338-morvyn-gutter.json) |
 | Morwen Estate | 342068 | [342068-morwen-estate.json](./342068-morwen-estate.json) |
@@ -8604,6 +8607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mosaic Your Crush! | 161394 | [161394-mosaic-your-crush.json](./161394-mosaic-your-crush.json) |
 | Mosaic: Tomb of Mystery | 210122 | [210122-mosaic-tomb-of-mystery.json](./210122-mosaic-tomb-of-mystery.json) |
 | Mosaica: Arboreal | 386877 | [386877-mosaica-arboreal.json](./386877-mosaica-arboreal.json) |
+| Mosaico | 287861 | [287861-mosaico.json](./287861-mosaico.json) |
 | Mosaics Galore 2 | 97005 | [97005-mosaics-galore-2.json](./97005-mosaics-galore-2.json) |
 | Mosaics Galore: Challenging Journey | 106143 | [106143-mosaics-galore-challenging-journey.json](./106143-mosaics-galore-challenging-journey.json) |
 | Mosaics Wall Deco | 376473 | [376473-mosaics-wall-deco.json](./376473-mosaics-wall-deco.json) |
@@ -9300,6 +9304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muddy Heights 2 | 32939 | [32939-muddy-heights-2.json](./32939-muddy-heights-2.json) |
 | Mudflood | 408066 | [408066-mudflood.json](./408066-mudflood.json) |
 | MudGate | 217009 | [217009-mudgate.json](./217009-mudgate.json) |
+| Mudkip Adventures | 287903 | [287903-mudkip-adventures.json](./287903-mudkip-adventures.json) |
 | Mudkip Goes to Walmart then Dies | 140023 | [140023-mudkip-goes-to-walmart-then-dies.json](./140023-mudkip-goes-to-walmart-then-dies.json) |
 | Mudkip's Dating Simulator 1+2 | 140022 | [140022-mudkips-dating-simulator-1-2.json](./140022-mudkips-dating-simulator-1-2.json) |
 | Mudlarks | 123583 | [123583-mudlarks.json](./123583-mudlarks.json) |
