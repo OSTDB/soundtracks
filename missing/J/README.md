@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jam Session VR | 75822 | [75822-jam-session-vr.json](./75822-jam-session-vr.json) |
 | JAM sessions | 47925 | [47925-jam-sessions.json](./47925-jam-sessions.json) |
 | Jam Space: PocketStudio | 85199 | [85199-jam-space-pocketstudio.json](./85199-jam-space-pocketstudio.json) |
+| Jam Talk | 299386 | [299386-jam-talk.json](./299386-jam-talk.json) |
 | JAM: Jets Aliens Missiles | 256229 | [256229-jam-jets-aliens-missiles.json](./256229-jam-jets-aliens-missiles.json) |
 | Jamal Jones: Hell's Executioner | 263001 | [263001-jamal-jones-hells-executioner.json](./263001-jamal-jones-hells-executioner.json) |
 | Jamal Jones: In Judgment of Evil | 262999 | [262999-jamal-jones-in-judgment-of-evil.json](./262999-jamal-jones-in-judgment-of-evil.json) |
