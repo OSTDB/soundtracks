@@ -6578,6 +6578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Further Still: Survivors | 213006 | [213006-further-still-survivors.json](./213006-further-still-survivors.json) |
 | FurtherTime 1.0 | 86038 | [86038-furthertime-1-0.json](./86038-furthertime-1-0.json) |
 | Furtive | 173259 | [173259-furtive.json](./173259-furtive.json) |
+| Furtum Sacrum | 329767 | [329767-furtum-sacrum.json](./329767-furtum-sacrum.json) |
 | Fururu Project : Ruby | 114366 | [114366-fururu-project-ruby.json](./114366-fururu-project-ruby.json) |
 | Furusato wo Sagasu Sanshimai | 119682 | [119682-furusato-wo-sagasu-sanshimai.json](./119682-furusato-wo-sagasu-sanshimai.json) |
 | Furusoma | 230228 | [230228-furusoma.json](./230228-furusoma.json) |
