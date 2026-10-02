@@ -390,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanojo x Switch | 368113 | [368113-kanojo-x-switch.json](./368113-kanojo-x-switch.json) |
 | Kanojo xx Switch | 156614 | [156614-kanojo-xx-switch.json](./156614-kanojo-xx-switch.json) |
 | Kanojo, Amai Kanojo | 413838 | [413838-kanojo-amai-kanojo.json](./413838-kanojo-amai-kanojo.json) |
+| Kanoso | 301523 | [301523-kanoso.json](./301523-kanoso.json) |
 | Kansensei Nightmare | 151532 | [151532-kansensei-nightmare.json](./151532-kansensei-nightmare.json) |
 | Kantai Collection | 12737 | [12737-kantai-collection.json](./12737-kantai-collection.json) |
 | Kanto Expansion Pak | 282044 | [282044-kanto-expansion-pak.json](./282044-kanto-expansion-pak.json) |
