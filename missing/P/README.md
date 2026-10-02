@@ -1867,6 +1867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peach Up 2-Gou | 122931 | [122931-peach-up-2-gou.json](./122931-peach-up-2-gou.json) |
 | Peach's Christmas Invitation | 135215 | [135215-peachs-christmas-invitation.json](./135215-peachs-christmas-invitation.json) |
 | Peachboy Legend | 78941 | [78941-peachboy-legend.json](./78941-peachboy-legend.json) |
+| Peaches and Dreams | 293852 | [293852-peaches-and-dreams.json](./293852-peaches-and-dreams.json) |
 | Peachleaf Valley: Seeds of Love | 152935 | [152935-peachleaf-valley-seeds-of-love.json](./152935-peachleaf-valley-seeds-of-love.json) |
 | Peachy | 92284 | [92284-peachy.json](./92284-peachy.json) |
 | Peachy Adventure | 173818 | [173818-peachy-adventure.json](./173818-peachy-adventure.json) |
@@ -4716,6 +4717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plarail Yume Ga Ippai! | 270150 | [270150-plarail-yume-ga-ippai.json](./270150-plarail-yume-ga-ippai.json) |
 | Plasma Attack | 158650 | [158650-plasma-attack.json](./158650-plasma-attack.json) |
 | Plasma Ball | 294223 | [294223-plasma-ball.json](./294223-plasma-ball.json) |
+| Plasma Orb | 293880 | [293880-plasma-orb.json](./293880-plasma-orb.json) |
 | Plasma Sky | 61137 | [61137-plasma-sky.json](./61137-plasma-sky.json) |
 | Plasma Sword: Nightmare of Bilstein | 14679 | [14679-plasma-sword-nightmare-of-bilstein.json](./14679-plasma-sword-nightmare-of-bilstein.json) |
 | Plasma Warrior | 94562 | [94562-plasma-warrior.json](./94562-plasma-warrior.json) |
@@ -7040,6 +7042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primus Numen | 381103 | [381103-primus-numen.json](./381103-primus-numen.json) |
 | Prin-quest | 364489 | [364489-prin-quest.json](./364489-prin-quest.json) |
 | Prince & Excalibur | 174309 | [174309-prince-and-excalibur.json](./174309-prince-and-excalibur.json) |
+| Prince Adventures | 293855 | [293855-prince-adventures.json](./293855-prince-adventures.json) |
 | Prince Akazaka x Princess | 220653 | [220653-prince-akazaka-x-princess.json](./220653-prince-akazaka-x-princess.json) |
 | Prince Charmless | 178542 | [178542-prince-charmless.json](./178542-prince-charmless.json) |
 | Prince Maker-Braveness | 254544 | [254544-prince-maker-braveness.json](./254544-prince-maker-braveness.json) |
