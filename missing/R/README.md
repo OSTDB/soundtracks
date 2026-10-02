@@ -5261,6 +5261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romace | 297572 | [297572-romace.json](./297572-romace.json) |
 | Roman City Tycoon | 300834 | [300834-roman-city-tycoon.json](./300834-roman-city-tycoon.json) |
 | Roman Empire | 13752 | [13752-roman-empire.json](./13752-roman-empire.json) |
+| Roman Empire Farming | 300958 | [300958-roman-empire-farming.json](./300958-roman-empire-farming.json) |
 | Roman Empire Simulator | 265201 | [265201-roman-empire-simulator.json](./265201-roman-empire-simulator.json) |
 | Roman Empire vs. Barbarians | 235734 | [235734-roman-empire-vs-barbarians.json](./235734-roman-empire-vs-barbarians.json) |
 | Roman Empire Wars | 158644 | [158644-roman-empire-wars.json](./158644-roman-empire-wars.json) |
