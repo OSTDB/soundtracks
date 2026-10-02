@@ -831,6 +831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RAM: Random Access Mayhem | 231491 | [231491-ram-random-access-mayhem.json](./231491-ram-random-access-mayhem.json) |
 | Ram! | 94218 | [94218-ram.json](./94218-ram.json) |
 | Rama | 13782 | [13782-rama.json](./13782-rama.json) |
+| Rama's Quest | 289013 | [289013-ramas-quest.json](./289013-ramas-quest.json) |
 | Ramble | 102587 | [102587-ramble.json](./102587-ramble.json) |
 | Ramble Planet | 152374 | [152374-ramble-planet.json](./152374-ramble-planet.json) |
 | Rambling with my friend | 183367 | [183367-rambling-with-my-friend.json](./183367-rambling-with-my-friend.json) |
@@ -1585,6 +1586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm of the Fallen | 223439 | [223439-realm-of-the-fallen.json](./223439-realm-of-the-fallen.json) |
 | Realm of the hero | 156128 | [156128-realm-of-the-hero.json](./156128-realm-of-the-hero.json) |
 | Realm of The Lieutenant | 282621 | [282621-realm-of-the-lieutenant.json](./282621-realm-of-the-lieutenant.json) |
+| Realm of the Mad God: Free Welcome Pack | 289006 | [289006-realm-of-the-mad-god-free-welcome-pack.json](./289006-realm-of-the-mad-god-free-welcome-pack.json) |
 | Realm of the Paladin: Deception's Plague | 171541 | [171541-realm-of-the-paladin-deceptions-plague.json](./171541-realm-of-the-paladin-deceptions-plague.json) |
 | Realm of Thrones | 356159 | [356159-realm-of-thrones.json](./356159-realm-of-thrones.json) |
 | Realm of Valor | 56503 | [56503-realm-of-valor.json](./56503-realm-of-valor.json) |
@@ -4905,6 +4907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocksmith 2014 Edition: Remastered - The Pretenders: Song Pack | 225023 | [225023-rocksmith-2014-edition-remastered-the-pretenders-song-pack.json](./225023-rocksmith-2014-edition-remastered-the-pretenders-song-pack.json) |
 | Rocksmith 2014 Edition: Remastered - U2: Song Pack | 225022 | [225022-rocksmith-2014-edition-remastered-u2-song-pack.json](./225022-rocksmith-2014-edition-remastered-u2-song-pack.json) |
 | Rocksmith 2014 Edition: Remastered - UBI30: 1986 Song Pack | 225037 | [225037-rocksmith-2014-edition-remastered-ubi30-1986-song-pack.json](./225037-rocksmith-2014-edition-remastered-ubi30-1986-song-pack.json) |
+| Rocksmith 2014 Edition: Remastered - Weezer Song Pack II | 289007 | [289007-rocksmith-2014-edition-remastered-weezer-song-pack-ii.json](./289007-rocksmith-2014-edition-remastered-weezer-song-pack-ii.json) |
 | Rocksmith 2014 Edition: Remastered - Yes: Song Pack | 225031 | [225031-rocksmith-2014-edition-remastered-yes-song-pack.json](./225031-rocksmith-2014-edition-remastered-yes-song-pack.json) |
 | Rocksmith 2014 Edition: Remastered – blink-182: Song Pack II | 225026 | [225026-rocksmith-2014-edition-remastered-blink-182-song-pack-ii.json](./225026-rocksmith-2014-edition-remastered-blink-182-song-pack-ii.json) |
 | Rocksmith 2014 Edition: Remastered – Johnny Cash: Song Pack I-II | 225025 | [225025-rocksmith-2014-edition-remastered-johnny-cash-song-pack-i-ii.json](./225025-rocksmith-2014-edition-remastered-johnny-cash-song-pack-i-ii.json) |
@@ -5295,6 +5298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ROM Check Fail | 79311 | [79311-rom-check-fail.json](./79311-rom-check-fail.json) |
 | Rom Rom Stadium | 64377 | [64377-rom-rom-stadium.json](./64377-rom-rom-stadium.json) |
 | ROM: Extraction | 26549 | [26549-rom-extraction.json](./26549-rom-extraction.json) |
+| ROM: Remember of Majesty | 288993 | [288993-rom-remember-of-majesty.json](./288993-rom-remember-of-majesty.json) |
 | Rom's Truffle Trail | 56587 | [56587-roms-truffle-trail.json](./56587-roms-truffle-trail.json) |
 | Roma Incognita | 248034 | [248034-roma-incognita.json](./248034-roma-incognita.json) |
 | Roma Victor | 67955 | [67955-roma-victor.json](./67955-roma-victor.json) |
@@ -6320,6 +6324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running With Dinosaurs | 103470 | [103470-running-with-dinosaurs.json](./103470-running-with-dinosaurs.json) |
 | Runny Bunny | 317999 | [317999-runny-bunny.json](./317999-runny-bunny.json) |
 | Runombie | 292287 | [292287-runombie.json](./292287-runombie.json) |
+| Runonce | 288986 | [288986-runonce.json](./288986-runonce.json) |
 | Runout | 173182 | [173182-runout.json](./173182-runout.json) |
 | Runren Simulator | 390721 | [390721-runren-simulator.json](./390721-runren-simulator.json) |
 | Runway | 174345 | [174345-runway.json](./174345-runway.json) |
