@@ -278,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sage Mountain | 118331 | [118331-sage-mountain.json](./118331-sage-mountain.json) |
 | Sage Solitaire | 59059 | [59059-sage-solitaire.json](./59059-sage-solitaire.json) |
 | Sages Of Kaboom | 255989 | [255989-sages-of-kaboom.json](./255989-sages-of-kaboom.json) |
+| Sages of Vandaleria: Rebirth of an Empire | 313200 | [313200-sages-of-vandaleria-rebirth-of-an-empire.json](./313200-sages-of-vandaleria-rebirth-of-an-empire.json) |
 | Saghala: Heroes of the Last World | 195646 | [195646-saghala-heroes-of-the-last-world.json](./195646-saghala-heroes-of-the-last-world.json) |
 | Sagittarius: The Lost and Cursed | 352225 | [352225-sagittarius-the-lost-and-cursed.json](./352225-sagittarius-the-lost-and-cursed.json) |
 | Sago Mini Forest Flyer | 200108 | [200108-sago-mini-forest-flyer.json](./200108-sago-mini-forest-flyer.json) |
@@ -2013,6 +2014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seafarer: The Ship Sim | 334351 | [334351-seafarer-the-ship-sim.json](./334351-seafarer-the-ship-sim.json) |
 | Seafarer's Gambit | 329172 | [329172-seafarers-gambit.json](./329172-seafarers-gambit.json) |
 | Seafight | 59655 | [59655-seafight.json](./59655-seafight.json) |
+| Seaflower | 313194 | [313194-seaflower.json](./313194-seaflower.json) |
 | Seaforge: Shores of Atlantis | 415872 | [415872-seaforge-shores-of-atlantis.json](./415872-seaforge-shores-of-atlantis.json) |
 | Seafox | 22416 | [22416-seafox.json](./22416-seafox.json) |
 | Seafrog | 215796 | [215796-seafrog.json](./215796-seafrog.json) |
@@ -4982,6 +4984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sightseeing Puzzle: Echter Puzzlespass für Unterwegs | 252679 | [252679-sightseeing-puzzle-echter-puzzlespass-fur-unterwegs.json](./252679-sightseeing-puzzle-echter-puzzlespass-fur-unterwegs.json) |
 | SightWords Pro | 89157 | [89157-sightwords-pro.json](./89157-sightwords-pro.json) |
 | Sigi: A Fart for Melusina | 75066 | [75066-sigi-a-fart-for-melusina.json](./75066-sigi-a-fart-for-melusina.json) |
+| Sigil | 313172 | [313172-sigil.json](./313172-sigil.json) |
 | Sigil of Kings | 235722 | [235722-sigil-of-kings.json](./235722-sigil-of-kings.json) |
 | Sigilfarer | 314447 | [314447-sigilfarer.json](./314447-sigilfarer.json) |
 | Sigils of Elohim | 17808 | [17808-sigils-of-elohim.json](./17808-sigils-of-elohim.json) |
@@ -6033,6 +6036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Aces | 54365 | [54365-sky-aces.json](./54365-sky-aces.json) |
 | Sky Aces 2 | 295937 | [295937-sky-aces-2.json](./295937-sky-aces-2.json) |
 | Sky Ahoy | 334921 | [334921-sky-ahoy.json](./334921-sky-ahoy.json) |
+| Sky Airplane Racer: Flight & Fight Simulator | 313156 | [313156-sky-airplane-racer-flight-and-fight-simulator.json](./313156-sky-airplane-racer-flight-and-fight-simulator.json) |
 | Sky Alert | 398981 | [398981-sky-alert.json](./398981-sky-alert.json) |
 | Sky And Earth | 292051 | [292051-sky-and-earth.json](./292051-sky-and-earth.json) |
 | Sky Arena | 60556 | [60556-sky-arena.json](./60556-sky-arena.json) |
@@ -7286,6 +7290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snatcher | 345624 | [345624-snatcher.json](./345624-snatcher.json) |
 | Snax Lite (Cooking Arcade) | 100230 | [100230-snax-lite-cooking-arcade.json](./100230-snax-lite-cooking-arcade.json) |
 | Snayk 3+ | 411647 | [411647-snayk-3.json](./411647-snayk-3.json) |
+| Snazzy and Groovy in Crystal Town | 313205 | [313205-snazzy-and-groovy-in-crystal-town.json](./313205-snazzy-and-groovy-in-crystal-town.json) |
 | Sneak and Snatch | 78376 | [78376-sneak-and-snatch.json](./78376-sneak-and-snatch.json) |
 | Sneak Attack | 24865 | [24865-sneak-attack.json](./24865-sneak-attack.json) |
 | Sneak In | 117071 | [117071-sneak-in.json](./117071-sneak-in.json) |
@@ -11701,6 +11706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fox Zero and Star Fox Guard: First Print Edition | 51144 | [51144-star-fox-zero-and-star-fox-guard-first-print-edition.json](./51144-star-fox-zero-and-star-fox-guard-first-print-edition.json) |
 | Star Fox Zero: Limited First Print Edition | 23382 | [23382-star-fox-zero-limited-first-print-edition.json](./23382-star-fox-zero-limited-first-print-edition.json) |
 | Star Fox: Assault | 3243 | [3243-star-fox-assault.json](./3243-star-fox-assault.json) |
+| Star Fur Day | 313091 | [313091-star-fur-day.json](./313091-star-fur-day.json) |
 | Star Gagnant | 247587 | [247587-star-gagnant.json](./247587-star-gagnant.json) |
 | Star Garden | 334856 | [334856-star-garden.json](./334856-star-garden.json) |
 | Star General | 74087 | [74087-star-general.json](./74087-star-general.json) |
@@ -13025,6 +13031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick and Stack | 344541 | [344541-stick-and-stack.json](./344541-stick-and-stack.json) |
 | Stick Arena Ballistick | 69277 | [69277-stick-arena-ballistick.json](./69277-stick-arena-ballistick.json) |
 | Stick Battle: Warriors Fight | 208950 | [208950-stick-battle-warriors-fight.json](./208950-stick-battle-warriors-fight.json) |
+| Stick Blender | 313177 | [313177-stick-blender.json](./313177-stick-blender.json) |
 | Stick City Run 2 By Lettu Games | 232160 | [232160-stick-city-run-2-by-lettu-games.json](./232160-stick-city-run-2-by-lettu-games.json) |
 | Stick Combat | 57175 | [57175-stick-combat.json](./57175-stick-combat.json) |
 | Stick Cricket | 138002 | [138002-stick-cricket.json](./138002-stick-cricket.json) |
@@ -14857,6 +14864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Animal Royale: Starter Pack Bundle - Seasons 5-9 | 375199 | [375199-super-animal-royale-starter-pack-bundle-seasons-5-9.json](./375199-super-animal-royale-starter-pack-bundle-seasons-5-9.json) |
 | Super Anime Waifu BBQ Simulator | 216235 | [216235-super-anime-waifu-bbq-simulator.json](./216235-super-anime-waifu-bbq-simulator.json) |
 | Super Ant Art Tycoon | 391603 | [391603-super-ant-art-tycoon.json](./391603-super-ant-art-tycoon.json) |
+| Super Antonio | 313180 | [313180-super-antonio.json](./313180-super-antonio.json) |
 | Super Arabian | 48665 | [48665-super-arabian.json](./48665-super-arabian.json) |
 | Super Arcade Football | 19084 | [19084-super-arcade-football.json](./19084-super-arcade-football.json) |
 | Super Arcade Pinball | 217980 | [217980-super-arcade-pinball.json](./217980-super-arcade-pinball.json) |
