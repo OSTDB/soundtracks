@@ -3128,6 +3128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess and Dungeons | 186195 | [186195-chess-and-dungeons.json](./186195-chess-and-dungeons.json) |
 | Chess Arena | 117818 | [117818-chess-arena.json](./117818-chess-arena.json) |
 | Chess Arena | 373648 | [373648-chess-arena.json](./373648-chess-arena.json) |
+| Chess Bomb | 333236 | [333236-chess-bomb.json](./333236-chess-bomb.json) |
 | Chess Boss | 175197 | [175197-chess-boss.json](./175197-chess-boss.json) |
 | Chess Brain: Dark Troops | 157156 | [157156-chess-brain-dark-troops.json](./157156-chess-brain-dark-troops.json) |
 | Chess Cartoons | 196826 | [196826-chess-cartoons.json](./196826-chess-cartoons.json) |
@@ -6171,6 +6172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Company of Heroes 3: Console Launch Edition | 247187 | [247187-company-of-heroes-3-console-launch-edition.json](./247187-company-of-heroes-3-console-launch-edition.json) |
 | Company of Heroes 3: Dare & Destroy | 398517 | [398517-company-of-heroes-3-dare-and-destroy.json](./398517-company-of-heroes-3-dare-and-destroy.json) |
 | Company of Heroes 3: Endure & Defy | 376703 | [376703-company-of-heroes-3-endure-and-defy.json](./376703-company-of-heroes-3-endure-and-defy.json) |
+| Company of Heroes 3: Fire & Steel | 333222 | [333222-company-of-heroes-3-fire-and-steel.json](./333222-company-of-heroes-3-fire-and-steel.json) |
 | Company of Heroes 3: Hammer & Shield | 277019 | [277019-company-of-heroes-3-hammer-and-shield.json](./277019-company-of-heroes-3-hammer-and-shield.json) |
 | Company of Heroes 3: Hammer & Shield Battlegroup Pack | 400401 | [400401-company-of-heroes-3-hammer-and-shield-battlegroup-pack.json](./400401-company-of-heroes-3-hammer-and-shield-battlegroup-pack.json) |
 | Company of Heroes Online | 77294 | [77294-company-of-heroes-online.json](./77294-company-of-heroes-online.json) |
@@ -7655,6 +7657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cragne Manor | 138146 | [138146-cragne-manor.json](./138146-cragne-manor.json) |
 | Craig's Cave | 412549 | [412549-craigs-cave.json](./412549-craigs-cave.json) |
 | Craken | 110757 | [110757-craken.json](./110757-craken.json) |
+| Cralon | 333218 | [333218-cralon.json](./333218-cralon.json) |
 | CraMagear | 226833 | [226833-cramagear.json](./226833-cramagear.json) |
 | Cramble | 105760 | [105760-cramble.json](./105760-cramble.json) |
 | Cramgene | 92857 | [92857-cramgene.json](./92857-cramgene.json) |
