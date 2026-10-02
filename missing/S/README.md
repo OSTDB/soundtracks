@@ -6303,6 +6303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyward Battles | 334855 | [334855-skyward-battles.json](./334855-skyward-battles.json) |
 | Skyward Collapse | 9328 | [9328-skyward-collapse.json](./9328-skyward-collapse.json) |
 | Skyward Collapse: Nihon no Mura | 10871 | [10871-skyward-collapse-nihon-no-mura.json](./10871-skyward-collapse-nihon-no-mura.json) |
+| Skyward Extraction | 302051 | [302051-skyward-extraction.json](./302051-skyward-extraction.json) |
 | Skyward Journey | 320367 | [320367-skyward-journey.json](./320367-skyward-journey.json) |
 | Skywatching | 177303 | [177303-skywatching.json](./177303-skywatching.json) |
 | Skyweaver | 123039 | [123039-skyweaver.json](./123039-skyweaver.json) |
@@ -12733,6 +12734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stealth Bastard Deluxe: The Teleporter Chambers | 10924 | [10924-stealth-bastard-deluxe-the-teleporter-chambers.json](./10924-stealth-bastard-deluxe-the-teleporter-chambers.json) |
 | Stealth Bastard: Tactical Espionage Arsehole | 65531 | [65531-stealth-bastard-tactical-espionage-arsehole.json](./65531-stealth-bastard-tactical-espionage-arsehole.json) |
 | Stealth Blade | 278402 | [278402-stealth-blade.json](./278402-stealth-blade.json) |
+| Stealth Camping Simulator | 302074 | [302074-stealth-camping-simulator.json](./302074-stealth-camping-simulator.json) |
 | Stealth Combat | 79366 | [79366-stealth-combat.json](./79366-stealth-combat.json) |
 | Stealth Crossword | 342198 | [342198-stealth-crossword.json](./342198-stealth-crossword.json) |
 | Stealth Force 2 | 10925 | [10925-stealth-force-2.json](./10925-stealth-force-2.json) |
@@ -14907,6 +14909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Riders | 4370 | [4370-sunset-riders.json](./4370-sunset-riders.json) |
 | Sunset Routes | 224514 | [224514-sunset-routes.json](./224514-sunset-routes.json) |
 | Sunset Shores | 294794 | [294794-sunset-shores.json](./294794-sunset-shores.json) |
+| Sunset Solitaire | 302071 | [302071-sunset-solitaire.json](./302071-sunset-solitaire.json) |
 | Sunset Sprout | 348460 | [348460-sunset-sprout.json](./348460-sunset-sprout.json) |
 | Sunset Street Ninja | 375943 | [375943-sunset-street-ninja.json](./375943-sunset-street-ninja.json) |
 | Sunset Studio | 145012 | [145012-sunset-studio.json](./145012-sunset-studio.json) |
@@ -17777,6 +17780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synther | 99008 | [99008-synther.json](./99008-synther.json) |
 | Syntherapy | 139473 | [139473-syntherapy.json](./139473-syntherapy.json) |
 | Synthesia | 50109 | [50109-synthesia.json](./50109-synthesia.json) |
+| Synthetic | 302048 | [302048-synthetic.json](./302048-synthetic.json) |
 | Synthetic Blood: Mind Shift | 129678 | [129678-synthetic-blood-mind-shift.json](./129678-synthetic-blood-mind-shift.json) |
 | Synthetic Days | 232918 | [232918-synthetic-days.json](./232918-synthetic-days.json) |
 | Synthetic Dreams | 51977 | [51977-synthetic-dreams.json](./51977-synthetic-dreams.json) |
