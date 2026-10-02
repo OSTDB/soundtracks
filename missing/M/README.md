@@ -5392,6 +5392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Looters | 392121 | [392121-midnight-looters.json](./392121-midnight-looters.json) |
 | Midnight Mahjong | 182360 | [182360-midnight-mahjong.json](./182360-midnight-mahjong.json) |
 | Midnight Maintenance | 180780 | [180780-midnight-maintenance.json](./180780-midnight-maintenance.json) |
+| Midnight Man | 330244 | [330244-midnight-man.json](./330244-midnight-man.json) |
 | Midnight Mansion | 365804 | [365804-midnight-mansion.json](./365804-midnight-mansion.json) |
 | Midnight Margo | 276827 | [276827-midnight-margo.json](./276827-midnight-margo.json) |
 | Midnight Mayhem | 300814 | [300814-midnight-mayhem.json](./300814-midnight-mayhem.json) |
@@ -5685,6 +5686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millispeed | 351633 | [351633-millispeed.json](./351633-millispeed.json) |
 | Millistar Raiders | 223948 | [223948-millistar-raiders.json](./223948-millistar-raiders.json) |
 | Millivolt | 334155 | [334155-millivolt.json](./334155-millivolt.json) |
+| MillMess | 330377 | [330377-millmess.json](./330377-millmess.json) |
 | Mills of Morris | 291763 | [291763-mills-of-morris.json](./291763-mills-of-morris.json) |
 | Millsberry | 227936 | [227936-millsberry.json](./227936-millsberry.json) |
 | Milly's Meadow | 346663 | [346663-millys-meadow.json](./346663-millys-meadow.json) |
