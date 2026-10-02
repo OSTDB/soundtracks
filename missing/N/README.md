@@ -1503,6 +1503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never Immortal | 235741 | [235741-never-immortal.json](./235741-never-immortal.json) |
 | Never out of Time | 193476 | [193476-never-out-of-time.json](./193476-never-out-of-time.json) |
 | Never Rain | 221103 | [221103-never-rain.json](./221103-never-rain.json) |
+| Never Really Alone | 307199 | [307199-never-really-alone.json](./307199-never-really-alone.json) |
 | Never Second in Rome | 334259 | [334259-never-second-in-rome.json](./334259-never-second-in-rome.json) |
 | Never Secure | 389717 | [389717-never-secure.json](./389717-never-secure.json) |
 | Never Sort By Color | 411710 | [411710-never-sort-by-color.json](./411710-never-sort-by-color.json) |
@@ -2275,6 +2276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Drive | 179679 | [179679-nightmare-drive.json](./179679-nightmare-drive.json) |
 | Nightmare Files: Stoned | 347222 | [347222-nightmare-files-stoned.json](./347222-nightmare-files-stoned.json) |
 | Nightmare Frontier | 342784 | [342784-nightmare-frontier.json](./342784-nightmare-frontier.json) |
+| Nightmare Fuel | 307216 | [307216-nightmare-fuel.json](./307216-nightmare-fuel.json) |
 | Nightmare Game | 120416 | [120416-nightmare-game.json](./120416-nightmare-game.json) |
 | Nightmare Grotto | 34661 | [34661-nightmare-grotto.json](./34661-nightmare-grotto.json) |
 | Nightmare Halls | 335438 | [335438-nightmare-halls.json](./335438-nightmare-halls.json) |
@@ -3060,6 +3062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga’s Ambition: Rebirth - Treasure Box Limited Edition | 212328 | [212328-nobunaga-s-ambition-rebirth-treasure-box-limited-edition.json](./212328-nobunaga-s-ambition-rebirth-treasure-box-limited-edition.json) |
 | Nobunaga's Ambition: Rise to Power | 21503 | [21503-nobunagas-ambition-rise-to-power.json](./21503-nobunagas-ambition-rise-to-power.json) |
 | NOBUNAGA'S AMBITION: Sengoku Gunyuuden | 90573 | [90573-nobunagas-ambition-sengoku-gunyuuden.json](./90573-nobunagas-ambition-sengoku-gunyuuden.json) |
+| Nobunaga's Ambition: Soutenroku | 307184 | [307184-nobunagas-ambition-soutenroku.json](./307184-nobunagas-ambition-soutenroku.json) |
 | Nobunaga's Ambition: Souzou - Dokuganryutatsu Scenario | 150668 | [150668-nobunagas-ambition-souzou-dokuganryutatsu-scenario.json](./150668-nobunagas-ambition-souzou-dokuganryutatsu-scenario.json) |
 | Nobunaga's Ambition: Souzou - Itsukushima Scenario | 150675 | [150675-nobunagas-ambition-souzou-itsukushima-scenario.json](./150675-nobunagas-ambition-souzou-itsukushima-scenario.json) |
 | Nobunaga's Ambition: Souzou - Nagashinonotatakai Scenario | 150662 | [150662-nobunagas-ambition-souzou-nagashinonotatakai-scenario.json](./150662-nobunagas-ambition-souzou-nagashinonotatakai-scenario.json) |
