@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La-Mulana 2: The Tower of Oannes | 188630 | [188630-la-mulana-2-the-tower-of-oannes.json](./188630-la-mulana-2-the-tower-of-oannes.json) |
 | Lab | 199511 | [199511-lab.json](./199511-lab.json) |
 | Lab 77 | 319988 | [319988-lab-77.json](./319988-lab-77.json) |
+| Lab Boom | 290087 | [290087-lab-boom.json](./290087-lab-boom.json) |
 | Lab BreakOut | 158533 | [158533-lab-breakout.json](./158533-lab-breakout.json) |
 | Lab Cat | 298782 | [298782-lab-cat.json](./298782-lab-cat.json) |
 | Lab Crisis | 205580 | [205580-lab-crisis.json](./205580-lab-crisis.json) |
@@ -2317,6 +2318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifting Unlimited | 302109 | [302109-lifting-unlimited.json](./302109-lifting-unlimited.json) |
 | Liftoff Inc. | 410396 | [410396-liftoff-inc.json](./410396-liftoff-inc.json) |
 | Liftoff: Drone Racing - Deluxe Edition | 139829 | [139829-liftoff-drone-racing-deluxe-edition.json](./139829-liftoff-drone-racing-deluxe-edition.json) |
+| Liga do Tempo | 290086 | [290086-liga-do-tempo.json](./290086-liga-do-tempo.json) |
 | Light | 220607 | [220607-light.json](./220607-light.json) |
 | Light | 93759 | [93759-light.json](./93759-light.json) |
 | Light 'em Up | 204495 | [204495-light-em-up.json](./204495-light-em-up.json) |
