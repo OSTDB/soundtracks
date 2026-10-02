@@ -1035,6 +1035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gas Station Simulator: DLC Pack | 267415 | [267415-gas-station-simulator-dlc-pack.json](./267415-gas-station-simulator-dlc-pack.json) |
 | Gas Station Simulator: RV Camp | 346728 | [346728-gas-station-simulator-rv-camp.json](./346728-gas-station-simulator-rv-camp.json) |
 | Gas Station Sketch | 131553 | [131553-gas-station-sketch.json](./131553-gas-station-sketch.json) |
+| Gas Station Story | 285699 | [285699-gas-station-story.json](./285699-gas-station-story.json) |
 | Gas Station Tycoon | 261835 | [261835-gas-station-tycoon.json](./261835-gas-station-tycoon.json) |
 | Gas Station Weed Simulator 2024 | 323291 | [323291-gas-station-weed-simulator-2024.json](./323291-gas-station-weed-simulator-2024.json) |
 | Gas Station: Car Parking Sim | 89186 | [89186-gas-station-car-parking-sim.json](./89186-gas-station-car-parking-sim.json) |
@@ -3576,6 +3577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gothic Platformer Games Bundle | 242668 | [242668-gothic-platformer-games-bundle.json](./242668-gothic-platformer-games-bundle.json) |
 | Gothic Remake Collector's Edition | 299293 | [299293-gothic-remake-collectors-edition.json](./299293-gothic-remake-collectors-edition.json) |
 | Gothic Survival | 201260 | [201260-gothic-survival.json](./201260-gothic-survival.json) |
+| Gothic Virtual Tabletop | 285676 | [285676-gothic-virtual-tabletop.json](./285676-gothic-virtual-tabletop.json) |
 | Gothic: Playable Teaser | 333956 | [333956-gothic-playable-teaser.json](./333956-gothic-playable-teaser.json) |
 | Gothica: The Devil's Shadow | 217257 | [217257-gothica-the-devils-shadow.json](./217257-gothica-the-devils-shadow.json) |
 | Gothicc Breaker | 93744 | [93744-gothicc-breaker.json](./93744-gothicc-breaker.json) |
@@ -3930,6 +3932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grapple Gum | 254150 | [254150-grapple-gum.json](./254150-grapple-gum.json) |
 | Grapple Gunners | 219805 | [219805-grapple-gunners.json](./219805-grapple-gunners.json) |
 | Grapple Souls | 388333 | [388333-grapple-souls.json](./388333-grapple-souls.json) |
+| Grapple Tanks | 285700 | [285700-grapple-tanks.json](./285700-grapple-tanks.json) |
 | Grapple the Abyss! | 182974 | [182974-grapple-the-abyss.json](./182974-grapple-the-abyss.json) |
 | Grapple Up! | 312648 | [312648-grapple-up.json](./312648-grapple-up.json) |
 | Grapple Whip | 120360 | [120360-grapple-whip.json](./120360-grapple-whip.json) |
