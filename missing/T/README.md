@@ -1484,6 +1484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tcaf: Kate Beaton Dress Up!! | 184001 | [184001-tcaf-kate-beaton-dress-up.json](./184001-tcaf-kate-beaton-dress-up.json) |
 | TCG Card Shop Manager | 328084 | [328084-tcg-card-shop-manager.json](./328084-tcg-card-shop-manager.json) |
 | TCG Card Shop Simulator | 309862 | [309862-tcg-card-shop-simulator.json](./309862-tcg-card-shop-simulator.json) |
+| TCG Multiplayer Card Shop Simulator | 322643 | [322643-tcg-multiplayer-card-shop-simulator.json](./322643-tcg-multiplayer-card-shop-simulator.json) |
 | TCG One | 149983 | [149983-tcg-one.json](./149983-tcg-one.json) |
 | Tchia: Kepler Customization Pack | 243232 | [243232-tchia-kepler-customization-pack.json](./243232-tchia-kepler-customization-pack.json) |
 | Tchia: Oléti Edition | 239605 | [239605-tchia-oleti-edition.json](./239605-tchia-oleti-edition.json) |
@@ -1668,6 +1669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tectron: Omorashi Baby | 385826 | [385826-tectron-omorashi-baby.json](./385826-tectron-omorashi-baby.json) |
 | Tectus | 106375 | [106375-tectus.json](./106375-tectus.json) |
 | Ted by Dawn | 34963 | [34963-ted-by-dawn.json](./34963-ted-by-dawn.json) |
+| TED Tumblewords | 322645 | [322645-ted-tumblewords.json](./322645-ted-tumblewords.json) |
 | Tedd'or | 195088 | [195088-teddor.json](./195088-teddor.json) |
 | Teddies and Rainbows | 95632 | [95632-teddies-and-rainbows.json](./95632-teddies-and-rainbows.json) |
 | Teddy and Bo: Search for the Dream Catcher | 98249 | [98249-teddy-and-bo-search-for-the-dream-catcher.json](./98249-teddy-and-bo-search-for-the-dream-catcher.json) |
@@ -6236,6 +6238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Hard Awakening DX | 217837 | [217837-the-legend-of-zelda-hard-awakening-dx.json](./217837-the-legend-of-zelda-hard-awakening-dx.json) |
 | The Legend of Zelda: Journey of a Day | 269848 | [269848-the-legend-of-zelda-journey-of-a-day.json](./269848-the-legend-of-zelda-journey-of-a-day.json) |
 | The Legend of Zelda: Just Beginning | 324079 | [324079-the-legend-of-zelda-just-beginning.json](./324079-the-legend-of-zelda-just-beginning.json) |
+| The Legend of Zelda: King of Thieves | 322646 | [322646-the-legend-of-zelda-king-of-thieves.json](./322646-the-legend-of-zelda-king-of-thieves.json) |
 | The Legend of Zelda: Link's Awakening | 1028 | [1028-the-legend-of-zelda-links-awakening.json](./1028-the-legend-of-zelda-links-awakening.json) |
 | The Legend of Zelda: Link's Awakening - Dreamer Edition | 136334 | [136334-the-legend-of-zelda-links-awakening-dreamer-edition.json](./136334-the-legend-of-zelda-links-awakening-dreamer-edition.json) |
 | The Legend of Zelda: Link's Awakening DX | 1027 | [1027-the-legend-of-zelda-links-awakening-dx.json](./1027-the-legend-of-zelda-links-awakening-dx.json) |
@@ -6795,6 +6798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mirror Circle | 382746 | [382746-the-mirror-circle.json](./382746-the-mirror-circle.json) |
 | The Mirror Dimension | 260655 | [260655-the-mirror-dimension.json](./260655-the-mirror-dimension.json) |
 | The Mirror Mysteries | 61578 | [61578-the-mirror-mysteries.json](./61578-the-mirror-mysteries.json) |
+| The Mirror's Curse | 322686 | [322686-the-mirrors-curse.json](./322686-the-mirrors-curse.json) |
 | The Mirst | 206707 | [206707-the-mirst.json](./206707-the-mirst.json) |
 | The Misadventure of Melon | 120946 | [120946-the-misadventure-of-melon.json](./120946-the-misadventure-of-melon.json) |
 | The Misadventures of Denniz & Diana | 113050 | [113050-the-misadventures-of-denniz-and-diana.json](./113050-the-misadventures-of-denniz-and-diana.json) |
@@ -7672,6 +7676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Riftbreaker: Heart of the Swamp | 263033 | [263033-the-riftbreaker-heart-of-the-swamp.json](./263033-the-riftbreaker-heart-of-the-swamp.json) |
 | The Right Side of Town | 185408 | [185408-the-right-side-of-town.json](./185408-the-right-side-of-town.json) |
 | The Right Turn | 183060 | [183060-the-right-turn.json](./183060-the-right-turn.json) |
+| The Righteous Scar | 322685 | [322685-the-righteous-scar.json](./322685-the-righteous-scar.json) |
 | The Ringing of Twilight | 334925 | [334925-the-ringing-of-twilight.json](./334925-the-ringing-of-twilight.json) |
 | The Rings of Powder: The Weird World of the Elves | 285469 | [285469-the-rings-of-powder-the-weird-world-of-the-elves.json](./285469-the-rings-of-powder-the-weird-world-of-the-elves.json) |
 | The Ripper | 282726 | [282726-the-ripper.json](./282726-the-ripper.json) |
@@ -9644,6 +9649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There Was Something In That Room | 338273 | [338273-there-was-something-in-that-room.json](./338273-there-was-something-in-that-room.json) |
 | There's a Butcher Around | 118016 | [118016-theres-a-butcher-around.json](./118016-theres-a-butcher-around.json) |
 | There's a Rikishi in my House | 199613 | [199613-theres-a-rikishi-in-my-house.json](./199613-theres-a-rikishi-in-my-house.json) |
+| There's Always a Madman: Bring the Thunder | 322680 | [322680-theres-always-a-madman-bring-the-thunder.json](./322680-theres-always-a-madman-bring-the-thunder.json) |
 | There's Always a Madman: The MacGuffin | 330968 | [330968-theres-always-a-madman-the-macguffin.json](./330968-theres-always-a-madman-the-macguffin.json) |
 | There's Always a Madman: V.I.C.T.O.R. | 330969 | [330969-theres-always-a-madman-v-i-c-t-o-r.json](./330969-theres-always-a-madman-v-i-c-t-o-r.json) |
 | There's an Only One Way Exit. | 314065 | [314065-theres-an-only-one-way-exit.json](./314065-theres-an-only-one-way-exit.json) |
@@ -13103,6 +13109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Maiden | 252171 | [252171-touhou-maiden.json](./252171-touhou-maiden.json) |
 | Touhou Makuka Sai: Fantastic Danmaku Festival | 106400 | [106400-touhou-makuka-sai-fantastic-danmaku-festival.json](./106400-touhou-makuka-sai-fantastic-danmaku-festival.json) |
 | Touhou Makuka Sai: Fantastic Danmaku Festival Part III | 331125 | [331125-touhou-makuka-sai-fantastic-danmaku-festival-part-iii.json](./331125-touhou-makuka-sai-fantastic-danmaku-festival-part-iii.json) |
+| Touhou Mario 2 | 322652 | [322652-touhou-mario-2.json](./322652-touhou-mario-2.json) |
 | Touhou Mashousei: Fairies of Sorcery | 280178 | [280178-touhou-mashousei-fairies-of-sorcery.json](./280178-touhou-mashousei-fairies-of-sorcery.json) |
 | Touhou Mechanical Scrollery | 130061 | [130061-touhou-mechanical-scrollery.json](./130061-touhou-mechanical-scrollery.json) |
 | Touhou Meisuishu: Resurrection of Heaven's Liquor | 375382 | [375382-touhou-meisuishu-resurrection-of-heavens-liquor.json](./375382-touhou-meisuishu-resurrection-of-heavens-liquor.json) |
@@ -14890,6 +14897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tretrais | 346675 | [346675-tretrais.json](./346675-tretrais.json) |
 | Trevor Sorensen's Star Legions | 54398 | [54398-trevor-sorensens-star-legions.json](./54398-trevor-sorensens-star-legions.json) |
 | TRex Hero | 306381 | [306381-trex-hero.json](./306381-trex-hero.json) |
+| Tri Breaker: A Sacred Symbols Odyssey | 322644 | [322644-tri-breaker-a-sacred-symbols-odyssey.json](./322644-tri-breaker-a-sacred-symbols-odyssey.json) |
 | Tri Focuser: Outside the Traditional World | 246673 | [246673-tri-focuser-outside-the-traditional-world.json](./246673-tri-focuser-outside-the-traditional-world.json) |
 | Tri Wing | 88248 | [88248-tri-wing.json](./88248-tri-wing.json) |
 | Tri Zone | 130869 | [130869-tri-zone.json](./130869-tri-zone.json) |
