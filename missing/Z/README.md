@@ -369,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeon 25 | 103459 | [103459-zeon-25.json](./103459-zeon-25.json) |
 | Zep | 377136 | [377136-zep.json](./377136-zep.json) |
 | Zepball Deluxe | 135696 | [135696-zepball-deluxe.json](./135696-zepball-deluxe.json) |
+| Zephinala | 288446 | [288446-zephinala.json](./288446-zephinala.json) |
 | Zephyr | 327268 | [327268-zephyr.json](./327268-zephyr.json) |
 | Zephyr's Pass | 320282 | [320282-zephyrs-pass.json](./320282-zephyrs-pass.json) |
 | Zeppelin | 23871 | [23871-zeppelin.json](./23871-zeppelin.json) |
@@ -388,6 +389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Days Since | 289337 | [289337-zero-days-since.json](./289337-zero-days-since.json) |
 | Zero Deaths | 116129 | [116129-zero-deaths.json](./116129-zero-deaths.json) |
 | Zero Degrees | 258702 | [258702-zero-degrees.json](./258702-zero-degrees.json) |
+| Zero Distance | 288445 | [288445-zero-distance.json](./288445-zero-distance.json) |
 | Zero Divide | 20709 | [20709-zero-divide.json](./20709-zero-divide.json) |
 | Zero Division | 223277 | [223277-zero-division.json](./223277-zero-division.json) |
 | Zero Escape Trilogy | 52108 | [52108-zero-escape-trilogy.json](./52108-zero-escape-trilogy.json) |
@@ -681,6 +683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Army 4: Dead War - Ragnarök Campaign & Character Pack | 201579 | [201579-zombie-army-4-dead-war-ragnarok-campaign-and-character-pack.json](./201579-zombie-army-4-dead-war-ragnarok-campaign-and-character-pack.json) |
 | Zombie Army 4: Dead War - Super Deluxe Edition | 129783 | [129783-zombie-army-4-dead-war-super-deluxe-edition.json](./129783-zombie-army-4-dead-war-super-deluxe-edition.json) |
 | Zombie Army Trilogy | 20871 | [20871-zombie-army-trilogy.json](./20871-zombie-army-trilogy.json) |
+| Zombie Army VR | 288444 | [288444-zombie-army-vr.json](./288444-zombie-army-vr.json) |
 | Zombie Attack Girls | 221816 | [221816-zombie-attack-girls.json](./221816-zombie-attack-girls.json) |
 | Zombie Attack Pinball HD: Monster Challenge | 89275 | [89275-zombie-attack-pinball-hd-monster-challenge.json](./89275-zombie-attack-pinball-hd-monster-challenge.json) |
 | Zombie Attack: Zombies Survival Shooter | 317235 | [317235-zombie-attack-zombies-survival-shooter.json](./317235-zombie-attack-zombies-survival-shooter.json) |
@@ -820,6 +823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Party | 258556 | [258556-zombie-party.json](./258556-zombie-party.json) |
 | Zombie Pinball | 33114 | [33114-zombie-pinball.json](./33114-zombie-pinball.json) |
 | Zombie Pirate Robot Attack | 175261 | [175261-zombie-pirate-robot-attack.json](./175261-zombie-pirate-robot-attack.json) |
+| Zombie Police: Christmas Dancing with Police Zombies | 288443 | [288443-zombie-police-christmas-dancing-with-police-zombies.json](./288443-zombie-police-christmas-dancing-with-police-zombies.json) |
 | Zombie Protocol | 374254 | [374254-zombie-protocol.json](./374254-zombie-protocol.json) |
 | Zombie Quarantine | 43543 | [43543-zombie-quarantine.json](./43543-zombie-quarantine.json) |
 | Zombie Quarantine: Blackout Survival | 334106 | [334106-zombie-quarantine-blackout-survival.json](./334106-zombie-quarantine-blackout-survival.json) |
@@ -1004,6 +1008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zone 300 | 255337 | [255337-zone-300.json](./255337-zone-300.json) |
 | Zone 400 | 255338 | [255338-zone-400.json](./255338-zone-400.json) |
 | Zone 404 | 388763 | [388763-zone-404.json](./388763-zone-404.json) |
+| Zone 6 | 288442 | [288442-zone-6.json](./288442-zone-6.json) |
 | Zone 66 | 73826 | [73826-zone-66.json](./73826-zone-66.json) |
 | Zone B Korosu | 161391 | [161391-zone-b-korosu.json](./161391-zone-b-korosu.json) |
 | Zone of the Enders HD Collection | 24230 | [24230-zone-of-the-enders-hd-collection.json](./24230-zone-of-the-enders-hd-collection.json) |
