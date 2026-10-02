@@ -5702,6 +5702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Mahjong King's Journey | 195763 | [195763-royal-mahjong-kings-journey.json](./195763-royal-mahjong-kings-journey.json) |
 | Royal Merchant | 122167 | [122167-royal-merchant.json](./122167-royal-merchant.json) |
 | Royal Merge! | 296078 | [296078-royal-merge.json](./296078-royal-merge.json) |
+| Royal Montgomery Raceways | 321418 | [321418-royal-montgomery-raceways.json](./321418-royal-montgomery-raceways.json) |
 | Royal Pit | 409557 | [409557-royal-pit.json](./409557-royal-pit.json) |
 | Royal Pro Wrestling: Jikkyou Live!! | 37203 | [37203-royal-pro-wrestling-jikkyou-live.json](./37203-royal-pro-wrestling-jikkyou-live.json) |
 | Royal Quest | 10786 | [10786-royal-quest.json](./10786-royal-quest.json) |
@@ -5726,6 +5727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royale Island Showdown | 167590 | [167590-royale-island-showdown.json](./167590-royale-island-showdown.json) |
 | Royale King | 270928 | [270928-royale-king.json](./270928-royale-king.json) |
 | Royalevia | 254764 | [254764-royalevia.json](./254764-royalevia.json) |
+| Royalty Free-For-All | 321417 | [321417-royalty-free-for-all.json](./321417-royalty-free-for-all.json) |
 | Royelles - Gaming For Girls | 255629 | [255629-royelles-gaming-for-girls.json](./255629-royelles-gaming-for-girls.json) |
 | Rozalin and the Palace of Flowers | 150669 | [150669-rozalin-and-the-palace-of-flowers.json](./150669-rozalin-and-the-palace-of-flowers.json) |
 | Rozen Maiden AliBat: Record of Rozen War | 124736 | [124736-rozen-maiden-alibat-record-of-rozen-war.json](./124736-rozen-maiden-alibat-record-of-rozen-war.json) |
