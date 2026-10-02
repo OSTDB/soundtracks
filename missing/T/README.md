@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tabou Stories: Love Episodes | 311675 | [311675-tabou-stories-love-episodes.json](./311675-tabou-stories-love-episodes.json) |
 | TabTab Apocalypse | 233463 | [233463-tabtab-apocalypse.json](./233463-tabtab-apocalypse.json) |
 | Tabu Oyunu XL - Pro | 105950 | [105950-tabu-oyunu-xl-pro.json](./105950-tabu-oyunu-xl-pro.json) |
+| Tabuada Divertida | 290078 | [290078-tabuada-divertida.json](./290078-tabuada-divertida.json) |
 | Tabula | 376545 | [376545-tabula.json](./376545-tabula.json) |
 | Tabula Rasa | 21525 | [21525-tabula-rasa.json](./21525-tabula-rasa.json) |
 | Tabula Sono | 219563 | [219563-tabula-sono.json](./219563-tabula-sono.json) |
@@ -1466,6 +1467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taxi in the Rain | 150177 | [150177-taxi-in-the-rain.json](./150177-taxi-in-the-rain.json) |
 | Taxi Journey | 133832 | [133832-taxi-journey.json](./133832-taxi-journey.json) |
 | Taxi Life: A City Driving Simulator | 215898 | [215898-taxi-life-a-city-driving-simulator.json](./215898-taxi-life-a-city-driving-simulator.json) |
+| Taxi Life: A City Driving Simulator - Supporter Edition | 290110 | [290110-taxi-life-a-city-driving-simulator-supporter-edition.json](./290110-taxi-life-a-city-driving-simulator-supporter-edition.json) |
 | Taxi Life: Supporter Pack | 293400 | [293400-taxi-life-supporter-pack.json](./293400-taxi-life-supporter-pack.json) |
 | Taxi of Miracles | 229932 | [229932-taxi-of-miracles.json](./229932-taxi-of-miracles.json) |
 | Taxi of Miracles: Collector's Edition | 229933 | [229933-taxi-of-miracles-collectors-edition.json](./229933-taxi-of-miracles-collectors-edition.json) |
@@ -2642,6 +2644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Dragon, Cancer | 15925 | [15925-that-dragon-cancer.json](./15925-that-dragon-cancer.json) |
 | That Friday Again | 391720 | [391720-that-friday-again.json](./391720-that-friday-again.json) |
 | That Golf Game | 213358 | [213358-that-golf-game.json](./213358-that-golf-game.json) |
+| That Gravity Glow | 290120 | [290120-that-gravity-glow.json](./290120-that-gravity-glow.json) |
 | That Gun Crafter Cat | 257934 | [257934-that-gun-crafter-cat.json](./257934-that-gun-crafter-cat.json) |
 | That Hole-in-the-Wall Place | 215234 | [215234-that-hole-in-the-wall-place.json](./215234-that-hole-in-the-wall-place.json) |
 | That Last Girl | 236957 | [236957-that-last-girl.json](./236957-that-last-girl.json) |
@@ -7011,6 +7014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Muppets: On with the Show! | 49321 | [49321-the-muppets-on-with-the-show.json](./49321-the-muppets-on-with-the-show.json) |
 | The Murder Hotel | 247770 | [247770-the-murder-hotel.json](./247770-the-murder-hotel.json) |
 | The Murder of Ava Monroe | 377685 | [377685-the-murder-of-ava-monroe.json](./377685-the-murder-of-ava-monroe.json) |
+| The Murder of Dale Decker | 290105 | [290105-the-murder-of-dale-decker.json](./290105-the-murder-of-dale-decker.json) |
 | The Murder of Sonic the Hedgehog | 243385 | [243385-the-murder-of-sonic-the-hedgehog.json](./243385-the-murder-of-sonic-the-hedgehog.json) |
 | The Murder of Yesterday | 405714 | [405714-the-murder-of-yesterday.json](./405714-the-murder-of-yesterday.json) |
 | The Murderer | 69801 | [69801-the-murderer.json](./69801-the-murderer.json) |
