@@ -2276,6 +2276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleship | 154988 | [154988-battleship.json](./154988-battleship.json) |
 | Battleship | 22445 | [22445-battleship.json](./22445-battleship.json) |
 | Battleship | 267406 | [267406-battleship.json](./267406-battleship.json) |
+| Battleship | 282239 | [282239-battleship.json](./282239-battleship.json) |
 | Battleship | 285030 | [285030-battleship.json](./285030-battleship.json) |
 | Battleship | 317631 | [317631-battleship.json](./317631-battleship.json) |
 | Battleship | 95434 | [95434-battleship.json](./95434-battleship.json) |
@@ -7476,6 +7477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break 'Em All | 20534 | [20534-break-em-all.json](./20534-break-em-all.json) |
 | Break a Leg | 307054 | [307054-break-a-leg.json](./307054-break-a-leg.json) |
 | Break an Egg | 305336 | [305336-break-an-egg.json](./305336-break-an-egg.json) |
+| Break Arcade Games Out | 282230 | [282230-break-arcade-games-out.json](./282230-break-arcade-games-out.json) |
 | Break Arts III | 265210 | [265210-break-arts-iii.json](./265210-break-arts-iii.json) |
 | Break Bounds: Exile | 190741 | [190741-break-bounds-exile.json](./190741-break-bounds-exile.json) |
 | Break Brick Out | 175742 | [175742-break-brick-out.json](./175742-break-brick-out.json) |
