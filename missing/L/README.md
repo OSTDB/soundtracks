@@ -1617,6 +1617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Soccer Mania | 343452 | [343452-lego-soccer-mania.json](./343452-lego-soccer-mania.json) |
 | LEGO Sonic the Hedgehog: Speed Sphere Challenge | 261238 | [261238-lego-sonic-the-hedgehog-speed-sphere-challenge.json](./261238-lego-sonic-the-hedgehog-speed-sphere-challenge.json) |
 | LEGO Speedorz | 203232 | [203232-lego-speedorz.json](./203232-lego-speedorz.json) |
+| LEGO Star Wars | 285677 | [285677-lego-star-wars.json](./285677-lego-star-wars.json) |
 | LEGO Star Wars II | 286107 | [286107-lego-star-wars-ii.json](./286107-lego-star-wars-ii.json) |
 | LEGO Star Wars II: The Original Trilogy | 190 | [190-lego-star-wars-ii-the-original-trilogy.json](./190-lego-star-wars-ii-the-original-trilogy.json) |
 | LEGO Star Wars II: The Original Trilogy | 194937 | [194937-lego-star-wars-ii-the-original-trilogy.json](./194937-lego-star-wars-ii-the-original-trilogy.json) |
