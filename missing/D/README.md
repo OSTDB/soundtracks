@@ -8999,6 +8999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons and Myths | 226816 | [226816-dungeons-and-myths.json](./226816-dungeons-and-myths.json) |
 | Dungeons and Raids | 236516 | [236516-dungeons-and-raids.json](./236516-dungeons-and-raids.json) |
 | Dungeons of Aledorn | 60494 | [60494-dungeons-of-aledorn.json](./60494-dungeons-of-aledorn.json) |
+| Dungeons of Alethrion | 294384 | [294384-dungeons-of-alethrion.json](./294384-dungeons-of-alethrion.json) |
 | Dungeons of Avalon | 356864 | [356864-dungeons-of-avalon.json](./356864-dungeons-of-avalon.json) |
 | Dungeons of Avalon II - The Island of Darkness | 19476 | [19476-dungeons-of-avalon-ii-the-island-of-darkness.json](./19476-dungeons-of-avalon-ii-the-island-of-darkness.json) |
 | Dungeons of Betrayal | 53929 | [53929-dungeons-of-betrayal.json](./53929-dungeons-of-betrayal.json) |
