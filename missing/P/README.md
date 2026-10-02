@@ -2706,6 +2706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pharaoh Rebirth+ | 20102 | [20102-pharaoh-rebirth.json](./20102-pharaoh-rebirth.json) |
 | Pharaoh's Purse | 314514 | [314514-pharaohs-purse.json](./314514-pharaohs-purse.json) |
 | Pharaoh's Revenge | 55206 | [55206-pharaohs-revenge.json](./55206-pharaohs-revenge.json) |
+| Pharaoh's Secret | 309030 | [309030-pharaohs-secret.json](./309030-pharaohs-secret.json) |
 | Pharaoh's Tomb | 262092 | [262092-pharaohs-tomb.json](./262092-pharaohs-tomb.json) |
 | Pharaonic | 19068 | [19068-pharaonic.json](./19068-pharaonic.json) |
 | Pharaonic: Deluxe Edition | 166187 | [166187-pharaonic-deluxe-edition.json](./166187-pharaonic-deluxe-edition.json) |
@@ -3742,6 +3743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Survivors | 341573 | [341573-pirate-survivors.json](./341573-pirate-survivors.json) |
 | Pirate Treasure: Island of Mazes | 187489 | [187489-pirate-treasure-island-of-mazes.json](./187489-pirate-treasure-island-of-mazes.json) |
 | Pirate Twist | 415971 | [415971-pirate-twist.json](./415971-pirate-twist.json) |
+| Pirate Year Thousand: The Kraken Piece | 309031 | [309031-pirate-year-thousand-the-kraken-piece.json](./309031-pirate-year-thousand-the-kraken-piece.json) |
 | Pirate's Den Renovator | 211185 | [211185-pirates-den-renovator.json](./211185-pirates-den-renovator.json) |
 | Pirate's Dual | 390236 | [390236-pirates-dual.json](./390236-pirates-dual.json) |
 | Pirate's Gold | 187867 | [187867-pirates-gold.json](./187867-pirates-gold.json) |
@@ -5640,6 +5642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Legends: Omaha Champions | 232560 | [232560-poker-legends-omaha-champions.json](./232560-poker-legends-omaha-champions.json) |
 | Poker Master | 167586 | [167586-poker-master.json](./167586-poker-master.json) |
 | Poker Patience | 83481 | [83481-poker-patience.json](./83481-poker-patience.json) |
+| Poker Poker Magic | 309027 | [309027-poker-poker-magic.json](./309027-poker-poker-magic.json) |
 | Poker Pop! | 209145 | [209145-poker-pop.json](./209145-poker-pop.json) |
 | Poker Pretty Girls Battle: Fantasy World Edition | 146175 | [146175-poker-pretty-girls-battle-fantasy-world-edition.json](./146175-poker-pretty-girls-battle-fantasy-world-edition.json) |
 | Poker Pretty Girls Battle: Texas Hold'em | 34324 | [34324-poker-pretty-girls-battle-texas-holdem.json](./34324-poker-pretty-girls-battle-texas-holdem.json) |
@@ -6662,6 +6665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pozzo Jello Crusade | 31807 | [31807-pozzo-jello-crusade.json](./31807-pozzo-jello-crusade.json) |
 | PP Puncher | 158084 | [158084-pp-puncher.json](./158084-pp-puncher.json) |
 | PP: Pathetic Predator | 364479 | [364479-pp-pathetic-predator.json](./364479-pp-pathetic-predator.json) |
+| PPA Pickleball Tour 2025 | 309005 | [309005-ppa-pickleball-tour-2025.json](./309005-ppa-pickleball-tour-2025.json) |
 | Ppoi: Hitonatsu no Keiken | 203373 | [203373-ppoi-hitonatsu-no-keiken.json](./203373-ppoi-hitonatsu-no-keiken.json) |
 | PPP | 259093 | [259093-ppp.json](./259093-ppp.json) |
 | PQ: Practical Intelligence Quotient | 46019 | [46019-pq-practical-intelligence-quotient.json](./46019-pq-practical-intelligence-quotient.json) |
@@ -8446,6 +8450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppies World 3D | 84800 | [84800-puppies-world-3d.json](./84800-puppies-world-3d.json) |
 | Pupple Pop | 390192 | [390192-pupple-pop.json](./390192-pupple-pop.json) |
 | Puppy Balloon Ride | 213392 | [213392-puppy-balloon-ride.json](./213392-puppy-balloon-ride.json) |
+| Puppy Cars: Games for Kids Edition, Animal adventure | 309039 | [309039-puppy-cars-games-for-kids-edition-animal-adventure.json](./309039-puppy-cars-games-for-kids-edition-animal-adventure.json) |
 | Puppy Dentist | 106357 | [106357-puppy-dentist.json](./106357-puppy-dentist.json) |
 | Puppy Drome | 260669 | [260669-puppy-drome.json](./260669-puppy-drome.json) |
 | Puppy Link: Tile Connect | 379023 | [379023-puppy-link-tile-connect.json](./379023-puppy-link-tile-connect.json) |
