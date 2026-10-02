@@ -2215,6 +2215,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Landing | 265587 | [265587-perfect-landing.json](./265587-perfect-landing.json) |
 | Perfect Liar | 373536 | [373536-perfect-liar.json](./373536-perfect-liar.json) |
 | Perfect Loop: Soleris | 388711 | [388711-perfect-loop-soleris.json](./388711-perfect-loop-soleris.json) |
+| Perfect Match | 313739 | [313739-perfect-match.json](./313739-perfect-match.json) |
+| Perfect Match 2 | 313740 | [313740-perfect-match-2.json](./313740-perfect-match-2.json) |
 | Perfect Memento of Touhou Question: More 50 Questions Part 1 | 225641 | [225641-perfect-memento-of-touhou-question-more-50-questions-part-1.json](./225641-perfect-memento-of-touhou-question-more-50-questions-part-1.json) |
 | Perfect Memento of Touhou Question: More 50 Questions Part 2 | 225642 | [225642-perfect-memento-of-touhou-question-more-50-questions-part-2.json](./225642-perfect-memento-of-touhou-question-more-50-questions-part-2.json) |
 | Perfect Murder | 209444 | [209444-perfect-murder.json](./209444-perfect-murder.json) |
@@ -8808,6 +8810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Sages | 34493 | [34493-puzzle-sages.json](./34493-puzzle-sages.json) |
 | Puzzle Scape | 46021 | [46021-puzzle-scape.json](./46021-puzzle-scape.json) |
 | Puzzle Scenery | 312683 | [312683-puzzle-scenery.json](./312683-puzzle-scenery.json) |
+| Puzzle Sculpt | 313770 | [313770-puzzle-sculpt.json](./313770-puzzle-sculpt.json) |
 | Puzzle Series Vol. 12: Akari | 184569 | [184569-puzzle-series-vol-12-akari.json](./184569-puzzle-series-vol-12-akari.json) |
 | Puzzle Series: Jigsaw Puzzle - Koneko Mekuri-hen | 344572 | [344572-puzzle-series-jigsaw-puzzle-koneko-mekuri-hen.json](./344572-puzzle-series-jigsaw-puzzle-koneko-mekuri-hen.json) |
 | Puzzle Sigma | 176420 | [176420-puzzle-sigma.json](./176420-puzzle-sigma.json) |
