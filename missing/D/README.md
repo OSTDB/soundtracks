@@ -491,6 +491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger Bounce | 26607 | [26607-danger-bounce.json](./26607-danger-bounce.json) |
 | Danger City | 279591 | [279591-danger-city.json](./279591-danger-city.json) |
 | Danger Cliff | 235677 | [235677-danger-cliff.json](./235677-danger-cliff.json) |
+| Danger Cliff 2 | 316149 | [316149-danger-cliff-2.json](./316149-danger-cliff-2.json) |
 | Danger Close | 175732 | [175732-danger-close.json](./175732-danger-close.json) |
 | Danger Close! | 76658 | [76658-danger-close.json](./76658-danger-close.json) |
 | Danger Course VR | 124231 | [124231-danger-course-vr.json](./124231-danger-course-vr.json) |
@@ -4028,6 +4029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice-Zee!: Dice Pak - "Contemporary Cool" | 291086 | [291086-dice-zee-dice-pak-contemporary-cool.json](./291086-dice-zee-dice-pak-contemporary-cool.json) |
 | Dice-Zee!: Dice Pak - "Serene Chromas" | 291088 | [291088-dice-zee-dice-pak-serene-chromas.json](./291088-dice-zee-dice-pak-serene-chromas.json) |
 | Dice-Zee!: Duels | 295343 | [295343-dice-zee-duels.json](./295343-dice-zee-duels.json) |
+| Dice, Destiny and Death | 316169 | [316169-dice-destiny-and-death.json](./316169-dice-destiny-and-death.json) |
 | Dice: Devils Game | 188041 | [188041-dice-devils-game.json](./188041-dice-devils-game.json) |
 | Dice: DNA Intergrated Cybernetic Enterprises | 65514 | [65514-dice-dna-intergrated-cybernetic-enterprises.json](./65514-dice-dna-intergrated-cybernetic-enterprises.json) |
 | Dice: The Dice Game! | 229971 | [229971-dice-the-dice-game.json](./229971-dice-the-dice-game.json) |
@@ -5074,6 +5076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dissolving Disarray | 324292 | [324292-dissolving-disarray.json](./324292-dissolving-disarray.json) |
 | Distance and Mirage | 299118 | [299118-distance-and-mirage.json](./299118-distance-and-mirage.json) |
 | DistanceGuessr | 386116 | [386116-distanceguessr.json](./386116-distanceguessr.json) |
+| Distancy | 316153 | [316153-distancy.json](./316153-distancy.json) |
 | Distant | 329390 | [329390-distant.json](./329390-distant.json) |
 | Distant Colony | 364697 | [364697-distant-colony.json](./364697-distant-colony.json) |
 | Distant Desert | 388234 | [388234-distant-desert.json](./388234-distant-desert.json) |
@@ -7574,6 +7577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Eaters.exe | 344353 | [344353-dream-eaters-exe.json](./344353-dream-eaters-exe.json) |
 | Dream Ending: Drama | 121033 | [121033-dream-ending-drama.json](./121033-dream-ending-drama.json) |
 | Dream Engines: Nomad Cities | 118281 | [118281-dream-engines-nomad-cities.json](./118281-dream-engines-nomad-cities.json) |
+| Dream Enkoure | 316157 | [316157-dream-enkoure.json](./316157-dream-enkoure.json) |
 | Dream Factory | 34319 | [34319-dream-factory.json](./34319-dream-factory.json) |
 | Dream Fallen: Vila do Chaves | 188082 | [188082-dream-fallen-vila-do-chaves.json](./188082-dream-fallen-vila-do-chaves.json) |
 | Dream Fight Will | 216735 | [216735-dream-fight-will.json](./216735-dream-fight-will.json) |
@@ -7775,6 +7779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamscapes: The Sandman - Collector's Edition | 356189 | [356189-dreamscapes-the-sandman-collectors-edition.json](./356189-dreamscapes-the-sandman-collectors-edition.json) |
 | DreamScript | 158050 | [158050-dreamscript.json](./158050-dreamscript.json) |
 | Dreamshard | 132750 | [132750-dreamshard.json](./132750-dreamshard.json) |
+| DreamShock | 316159 | [316159-dreamshock.json](./316159-dreamshock.json) |
 | DreamSleuth: hidden object adventure quest lite | 88311 | [88311-dreamsleuth-hidden-object-adventure-quest-lite.json](./88311-dreamsleuth-hidden-object-adventure-quest-lite.json) |
 | Dreamspace | 323342 | [323342-dreamspace.json](./323342-dreamspace.json) |
 | Dreamspaces | 181682 | [181682-dreamspaces.json](./181682-dreamspaces.json) |
@@ -8662,6 +8667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Forge | 373181 | [373181-dungeon-forge.json](./373181-dungeon-forge.json) |
 | Dungeon Frontier | 130294 | [130294-dungeon-frontier.json](./130294-dungeon-frontier.json) |
 | Dungeon Full Dive: True Supporter Dice | 305780 | [305780-dungeon-full-dive-true-supporter-dice.json](./305780-dungeon-full-dive-true-supporter-dice.json) |
+| Dungeon Gals | 316161 | [316161-dungeon-gals.json](./316161-dungeon-gals.json) |
 | Dungeon Gambit Boy | 89666 | [89666-dungeon-gambit-boy.json](./89666-dungeon-gambit-boy.json) |
 | Dungeon Girl Scouts | 210693 | [210693-dungeon-girl-scouts.json](./210693-dungeon-girl-scouts.json) |
 | Dungeon Golf | 244507 | [244507-dungeon-golf.json](./244507-dungeon-golf.json) |
