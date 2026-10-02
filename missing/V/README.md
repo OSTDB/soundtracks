@@ -1480,6 +1480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viva Piñata: Party Animals | 7237 | [7237-viva-pinata-party-animals.json](./7237-viva-pinata-party-animals.json) |
 | Viva Piñata: Trouble in Paradise | 7238 | [7238-viva-pinata-trouble-in-paradise.json](./7238-viva-pinata-trouble-in-paradise.json) |
 | Viva Project | 316814 | [316814-viva-project.json](./316814-viva-project.json) |
+| Viva Veloce | 306602 | [306602-viva-veloce.json](./306602-viva-veloce.json) |
 | Vivaion | 263520 | [263520-vivaion.json](./263520-vivaion.json) |
 | Vivaldia | 140477 | [140477-vivaldia.json](./140477-vivaldia.json) |
 | Vivaldia 2 | 272358 | [272358-vivaldia-2.json](./272358-vivaldia-2.json) |
