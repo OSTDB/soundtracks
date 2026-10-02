@@ -3022,6 +3022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Auto Sort Is Broken | 329363 | [329363-the-auto-sort-is-broken.json](./329363-the-auto-sort-is-broken.json) |
 | The Avaunting | 15609 | [15609-the-avaunting.json](./15609-the-avaunting.json) |
 | The Avengers | 86108 | [86108-the-avengers.json](./86108-the-avengers.json) |
+| The Avengers Pinball | 314916 | [314916-the-avengers-pinball.json](./314916-the-avengers-pinball.json) |
 | The Avengers United Battle Force | 297544 | [297544-the-avengers-united-battle-force.json](./297544-the-avengers-united-battle-force.json) |
 | The Average Everyday Adventures of Samantha Browne | 16984 | [16984-the-average-everyday-adventures-of-samantha-browne.json](./16984-the-average-everyday-adventures-of-samantha-browne.json) |
 | The Avoider | 178976 | [178976-the-avoider.json](./178976-the-avoider.json) |
@@ -7116,6 +7117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Office | 203564 | [203564-the-office.json](./203564-the-office.json) |
 | The Office | 94901 | [94901-the-office.json](./94901-the-office.json) |
 | The Office Killer | 344386 | [344386-the-office-killer.json](./344386-the-office-killer.json) |
+| The Official Everton FC Intelligensia | 314965 | [314965-the-official-everton-fc-intelligensia.json](./314965-the-official-everton-fc-intelligensia.json) |
 | The Ogi: Cycles | 280250 | [280250-the-ogi-cycles.json](./280250-the-ogi-cycles.json) |
 | The Ogre King | 410446 | [410446-the-ogre-king.json](./410446-the-ogre-king.json) |
 | The Oily Depths | 318414 | [318414-the-oily-depths.json](./318414-the-oily-depths.json) |
@@ -12104,6 +12106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokimeki Memorial Girl's Side: 1st Love Plus | 124097 | [124097-tokimeki-memorial-girls-side-1st-love-plus.json](./124097-tokimeki-memorial-girls-side-1st-love-plus.json) |
 | Tokimeki Memorial Girl's Side: 2nd Season | 124098 | [124098-tokimeki-memorial-girls-side-2nd-season.json](./124098-tokimeki-memorial-girls-side-2nd-season.json) |
 | Tokimeki Memorial: Forever With You | 50129 | [50129-tokimeki-memorial-forever-with-you.json](./50129-tokimeki-memorial-forever-with-you.json) |
+| Tokimeki Memorial: Forever with You - Emotional | 314954 | [314954-tokimeki-memorial-forever-with-you-emotional.json](./314954-tokimeki-memorial-forever-with-you-emotional.json) |
 | Tokimeki Memorial: Taisen Tokkaedama | 71021 | [71021-tokimeki-memorial-taisen-tokkaedama.json](./71021-tokimeki-memorial-taisen-tokkaedama.json) |
 | Tokimeki Restaurant | 140385 | [140385-tokimeki-restaurant.json](./140385-tokimeki-restaurant.json) |
 | Tokimeki Taisen | 191861 | [191861-tokimeki-taisen.json](./191861-tokimeki-taisen.json) |
@@ -14942,6 +14945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trespass: Episode 1 | 31879 | [31879-trespass-episode-1.json](./31879-trespass-episode-1.json) |
 | Trespasser 2 | 204111 | [204111-trespasser-2.json](./204111-trespasser-2.json) |
 | Tresure Hunter | 278673 | [278673-tresure-hunter.json](./278673-tresure-hunter.json) |
+| Tret | 314932 | [314932-tret.json](./314932-tret.json) |
 | Tretis | 277980 | [277980-tretis.json](./277980-tretis.json) |
 | Tretrais | 346675 | [346675-tretrais.json](./346675-tretrais.json) |
 | Trevor Sorensen's Star Legions | 54398 | [54398-trevor-sorensens-star-legions.json](./54398-trevor-sorensens-star-legions.json) |
