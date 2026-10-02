@@ -3546,6 +3546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiddenverse: The Iron Tower | 209652 | [209652-hiddenverse-the-iron-tower.json](./209652-hiddenverse-the-iron-tower.json) |
 | Hide | 183997 | [183997-hide.json](./183997-hide.json) |
 | Hide 'n Heist | 346160 | [346160-hide-n-heist.json](./346160-hide-n-heist.json) |
+| Hide 'N Seek!: Complete Edition | 324377 | [324377-hide-n-seek-complete-edition.json](./324377-hide-n-seek-complete-edition.json) |
 | Hide 'N Seek!: Foes DLC | 317954 | [317954-hide-n-seek-foes-dlc.json](./317954-hide-n-seek-foes-dlc.json) |
 | Hide 'N Seek!: Friends DLC | 317955 | [317955-hide-n-seek-friends-dlc.json](./317955-hide-n-seek-friends-dlc.json) |
 | Hide & Chick | 206196 | [206196-hide-and-chick.json](./206196-hide-and-chick.json) |
