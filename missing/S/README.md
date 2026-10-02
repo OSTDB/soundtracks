@@ -2076,6 +2076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Search All: Steampunk | 182365 | [182365-search-all-steampunk.json](./182365-search-all-steampunk.json) |
 | Search All: Sushi | 187440 | [187440-search-all-sushi.json](./187440-search-all-sushi.json) |
 | Search All: UFO | 249800 | [249800-search-all-ufo.json](./249800-search-all-ufo.json) |
+| Search All: Veggies | 306025 | [306025-search-all-veggies.json](./306025-search-all-veggies.json) |
 | Search All: Worms | 231334 | [231334-search-all-worms.json](./231334-search-all-worms.json) |
 | Search and Rescue 3 | 206641 | [206641-search-and-rescue-3.json](./206641-search-and-rescue-3.json) |
 | Search and Rescue: Snowman From Outer Space | 301271 | [301271-search-and-rescue-snowman-from-outer-space.json](./301271-search-and-rescue-snowman-from-outer-space.json) |
@@ -2405,6 +2406,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeking for Puppies | 359415 | [359415-seeking-for-puppies.json](./359415-seeking-for-puppies.json) |
 | Seeking Light | 210698 | [210698-seeking-light.json](./210698-seeking-light.json) |
 | Seeking Revenge | 158225 | [158225-seeking-revenge.json](./158225-seeking-revenge.json) |
+| SeekIt: Max Dublin's Treasure | 306021 | [306021-seekit-max-dublins-treasure.json](./306021-seekit-max-dublins-treasure.json) |
+| SeekIt: The Isle of Mem | 306011 | [306011-seekit-the-isle-of-mem.json](./306011-seekit-the-isle-of-mem.json) |
 | SeekOut | 391614 | [391614-seekout.json](./391614-seekout.json) |
 | Seemly Girl Escape | 233493 | [233493-seemly-girl-escape.json](./233493-seemly-girl-escape.json) |
 | Seemonster | 40784 | [40784-seemonster.json](./40784-seemonster.json) |
@@ -5458,6 +5461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Solitaire | 264616 | [264616-simple-solitaire.json](./264616-simple-solitaire.json) |
 | Simple Story: Alex | 90395 | [90395-simple-story-alex.json](./90395-simple-story-alex.json) |
 | Simple Story: Alex - Two Guys | 172132 | [172132-simple-story-alex-two-guys.json](./172132-simple-story-alex-two-guys.json) |
+| Simple Tennis | 306018 | [306018-simple-tennis.json](./306018-simple-tennis.json) |
 | Simple Tower Defense | 259287 | [259287-simple-tower-defense.json](./259287-simple-tower-defense.json) |
 | Simple Zombie Survival | 368594 | [368594-simple-zombie-survival.json](./368594-simple-zombie-survival.json) |
 | SimplePlanes 2 | 304696 | [304696-simpleplanes-2.json](./304696-simpleplanes-2.json) |
@@ -7837,6 +7841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soko-Ban | 11763 | [11763-soko-ban.json](./11763-soko-ban.json) |
 | Sokoball of Osaka | 64679 | [64679-sokoball-of-osaka.json](./64679-sokoball-of-osaka.json) |
 | Sokoban | 19573 | [19573-sokoban.json](./19573-sokoban.json) |
+| Sokoban | 306039 | [306039-sokoban.json](./306039-sokoban.json) |
 | Sokoban | 47946 | [47946-sokoban.json](./47946-sokoban.json) |
 | Sokoban (Boxman) Classic | 171619 | [171619-sokoban-boxman-classic.json](./171619-sokoban-boxman-classic.json) |
 | Sokoban DS | 307081 | [307081-sokoban-ds.json](./307081-sokoban-ds.json) |
@@ -16461,6 +16466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Yakyuudou '93 - 94 Nendo Data Kaiteiban | 66198 | [66198-super-yakyuudou-93-94-nendo-data-kaiteiban.json](./66198-super-yakyuudou-93-94-nendo-data-kaiteiban.json) |
 | Super Yakyuudou 2 | 66208 | [66208-super-yakyuudou-2.json](./66208-super-yakyuudou-2.json) |
 | Super Yuki Onna-chan | 154423 | [154423-super-yuki-onna-chan.json](./154423-super-yuki-onna-chan.json) |
+| Super Yum Yum | 306006 | [306006-super-yum-yum.json](./306006-super-yum-yum.json) |
 | Super Zangyura | 151652 | [151652-super-zangyura.json](./151652-super-zangyura.json) |
 | Super Zoo Story | 142957 | [142957-super-zoo-story.json](./142957-super-zoo-story.json) |
 | Super Zugan: Hakotenjou kara no Shoutai | 60498 | [60498-super-zugan-hakotenjou-kara-no-shoutai.json](./60498-super-zugan-hakotenjou-kara-no-shoutai.json) |
@@ -17593,6 +17599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sylvester & Tweety in Cagey Capers | 46190 | [46190-sylvester-and-tweety-in-cagey-capers.json](./46190-sylvester-and-tweety-in-cagey-capers.json) |
 | Sylviana: Ai Ippai no Boukensha | 299761 | [299761-sylviana-ai-ippai-no-boukensha.json](./299761-sylviana-ai-ippai-no-boukensha.json) |
 | Sylvie Lime | 230501 | [230501-sylvie-lime.json](./230501-sylvie-lime.json) |
+| Sylvie Miniature | 306002 | [306002-sylvie-miniature.json](./306002-sylvie-miniature.json) |
 | Sylvie RPG: 7 Elf Apocalypse | 292830 | [292830-sylvie-rpg-7-elf-apocalypse.json](./292830-sylvie-rpg-7-elf-apocalypse.json) |
 | Sylvio and the Mountains Giants | 236536 | [236536-sylvio-and-the-mountains-giants.json](./236536-sylvio-and-the-mountains-giants.json) |
 | Sym Shepherd | 413143 | [413143-sym-shepherd.json](./413143-sym-shepherd.json) |
