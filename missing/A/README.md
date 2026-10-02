@@ -7412,6 +7412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Masters | 140983 | [140983-astral-masters.json](./140983-astral-masters.json) |
 | Astral Maze: Escape the Horror | 304677 | [304677-astral-maze-escape-the-horror.json](./304677-astral-maze-escape-the-horror.json) |
 | Astral Ooze | 348345 | [348345-astral-ooze.json](./348345-astral-ooze.json) |
+| Astral Outcast | 298246 | [298246-astral-outcast.json](./298246-astral-outcast.json) |
 | Astral Planes | 365821 | [365821-astral-planes.json](./365821-astral-planes.json) |
 | Astral Quester | 265590 | [265590-astral-quester.json](./265590-astral-quester.json) |
 | Astral Sanctum | 347770 | [347770-astral-sanctum.json](./347770-astral-sanctum.json) |
@@ -8346,6 +8347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avia Corporation | 240756 | [240756-avia-corporation.json](./240756-avia-corporation.json) |
 | Avian | 177440 | [177440-avian.json](./177440-avian.json) |
 | Aviano | 151626 | [151626-aviano.json](./151626-aviano.json) |
+| Avians Against Aviation | 298264 | [298264-avians-against-aviation.json](./298264-avians-against-aviation.json) |
 | Aviãozinho do tráfico 1: despacito 5 quem ler é arrombado 2 | 341879 | [341879-aviaozinho-do-trafico-1-despacito-5-quem-ler-e-arrombado-2.json](./341879-aviaozinho-do-trafico-1-despacito-5-quem-ler-e-arrombado-2.json) |
 | Aviãozinho do tráfico 2: 3D resenha de pasta base de cocaína com Sorrizo Ronaldo | 341880 | [341880-aviaozinho-do-trafico-2-3d-resenha-de-pasta-base-de-cocaina-com-sorrizo-ronaldo.json](./341880-aviaozinho-do-trafico-2-3d-resenha-de-pasta-base-de-cocaina-com-sorrizo-ronaldo.json) |
 | Aviary Attorney | 15710 | [15710-aviary-attorney.json](./15710-aviary-attorney.json) |
