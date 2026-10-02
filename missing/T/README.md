@@ -8268,6 +8268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Business Chic Kit | 330394 | [330394-the-sims-4-business-chic-kit.json](./330394-the-sims-4-business-chic-kit.json) |
 | The Sims 4: Bust the Dust Kit | 151112 | [151112-the-sims-4-bust-the-dust-kit.json](./151112-the-sims-4-bust-the-dust-kit.json) |
 | The Sims 4: Casanova Cave Kit | 330393 | [330393-the-sims-4-casanova-cave-kit.json](./330393-the-sims-4-casanova-cave-kit.json) |
+| The Sims 4: Castle Estate Kit | 285667 | [285667-the-sims-4-castle-estate-kit.json](./285667-the-sims-4-castle-estate-kit.json) |
 | The Sims 4: Cats & Dogs | 75675 | [75675-the-sims-4-cats-and-dogs.json](./75675-the-sims-4-cats-and-dogs.json) |
 | The Sims 4: City Living | 25321 | [25321-the-sims-4-city-living.json](./25321-the-sims-4-city-living.json) |
 | The Sims 4: Collector's Edition | 159074 | [159074-the-sims-4-collectors-edition.json](./159074-the-sims-4-collectors-edition.json) |
@@ -8291,6 +8292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Get to Work | 13143 | [13143-the-sims-4-get-to-work.json](./13143-the-sims-4-get-to-work.json) |
 | The Sims 4: Get Together | 13144 | [13144-the-sims-4-get-together.json](./13144-the-sims-4-get-together.json) |
 | The Sims 4: Golden Years Kit | 350998 | [350998-the-sims-4-golden-years-kit.json](./350998-the-sims-4-golden-years-kit.json) |
+| The Sims 4: Goth Galore Kit | 285668 | [285668-the-sims-4-goth-galore-kit.json](./285668-the-sims-4-goth-galore-kit.json) |
 | The Sims 4: Grange Mudroom Kit | 362301 | [362301-the-sims-4-grange-mudroom-kit.json](./362301-the-sims-4-grange-mudroom-kit.json) |
 | The Sims 4: High School Years | 207387 | [207387-the-sims-4-high-school-years.json](./207387-the-sims-4-high-school-years.json) |
 | The Sims 4: Horse Ranch | 253116 | [253116-the-sims-4-horse-ranch.json](./253116-the-sims-4-horse-ranch.json) |
@@ -8446,6 +8448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Snack World: TreJarers | 26501 | [26501-the-snack-world-trejarers.json](./26501-the-snack-world-trejarers.json) |
 | The Snake Kingdom of Gennibar-Six | 337649 | [337649-the-snake-kingdom-of-gennibar-six.json](./337649-the-snake-kingdom-of-gennibar-six.json) |
 | The Snaplock | 409740 | [409740-the-snaplock.json](./409740-the-snaplock.json) |
+| The Snapper | 285672 | [285672-the-snapper.json](./285672-the-snapper.json) |
 | The Sniper | 349841 | [349841-the-sniper.json](./349841-the-sniper.json) |
 | The Sniper 2 | 44625 | [44625-the-sniper-2.json](./44625-the-sniper-2.json) |
 | The Snow | 53776 | [53776-the-snow.json](./53776-the-snow.json) |
