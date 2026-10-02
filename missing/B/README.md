@@ -2498,6 +2498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear Adventure | 370762 | [370762-bear-adventure.json](./370762-bear-adventure.json) |
 | Bear Boy | 338827 | [338827-bear-boy.json](./338827-bear-boy.json) |
 | Bear Care | 177916 | [177916-bear-care.json](./177916-bear-care.json) |
+| Bear Heart Defense | 299395 | [299395-bear-heart-defense.json](./299395-bear-heart-defense.json) |
 | Bear in the Snow | 362882 | [362882-bear-in-the-snow.json](./362882-bear-in-the-snow.json) |
 | Bear Stormin' | 339647 | [339647-bear-stormin.json](./339647-bear-stormin.json) |
 | Bear Surfin Mega Wave | 200638 | [200638-bear-surfin-mega-wave.json](./200638-bear-surfin-mega-wave.json) |
@@ -4635,6 +4636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Buster | 48316 | [48316-blade-buster.json](./48316-blade-buster.json) |
 | Blade Crafter | 108871 | [108871-blade-crafter.json](./108871-blade-crafter.json) |
 | Blade Crafter | 248151 | [248151-blade-crafter.json](./248151-blade-crafter.json) |
+| Blade Crafter 2 | 299413 | [299413-blade-crafter-2.json](./299413-blade-crafter-2.json) |
 | Blade Crusade | 190210 | [190210-blade-crusade.json](./190210-blade-crusade.json) |
 | Blade Dancer: Lineage of Light | 269079 | [269079-blade-dancer-lineage-of-light.json](./269079-blade-dancer-lineage-of-light.json) |
 | Blade Exload | 231872 | [231872-blade-exload.json](./231872-blade-exload.json) |
@@ -5677,6 +5679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Dragon: Awakened Shadow | 20465 | [20465-blue-dragon-awakened-shadow.json](./20465-blue-dragon-awakened-shadow.json) |
 | Blue Dragon: Shuffle Dungeon | 259863 | [259863-blue-dragon-shuffle-dungeon.json](./259863-blue-dragon-shuffle-dungeon.json) |
 | Blue Drifter | 129462 | [129462-blue-drifter.json](./129462-blue-drifter.json) |
+| Blue Dungeon | 299400 | [299400-blue-dungeon.json](./299400-blue-dungeon.json) |
 | Blue Dynasty | 408182 | [408182-blue-dynasty.json](./408182-blue-dynasty.json) |
 | Blue Effect VR | 27205 | [27205-blue-effect-vr.json](./27205-blue-effect-vr.json) |
 | Blue Epic | 249795 | [249795-blue-epic.json](./249795-blue-epic.json) |
@@ -5820,6 +5823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Board Games Gallery (10 Games) | 100168 | [100168-board-games-gallery-10-games.json](./100168-board-games-gallery-10-games.json) |
 | Board Games Live | 86121 | [86121-board-games-live.json](./86121-board-games-live.json) |
 | Board Games VR | 74457 | [74457-board-games-vr.json](./74457-board-games-vr.json) |
+| Board Heroes | 299418 | [299418-board-heroes.json](./299418-board-heroes.json) |
 | Board of the Future | 406166 | [406166-board-of-the-future.json](./406166-board-of-the-future.json) |
 | Board Quizz Adventure | 117795 | [117795-board-quizz-adventure.json](./117795-board-quizz-adventure.json) |
 | Boardfall | 375945 | [375945-boardfall.json](./375945-boardfall.json) |
