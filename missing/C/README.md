@@ -183,6 +183,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cahors Sunset | 35956 | [35956-cahors-sunset.json](./35956-cahors-sunset.json) |
 | Cai Cai Balão | 147296 | [147296-cai-cai-balao.json](./147296-cai-cai-balao.json) |
 | Caiaque | 305264 | [305264-caiaque.json](./305264-caiaque.json) |
+| Caila Raven And The Draco | 315570 | [315570-caila-raven-and-the-draco.json](./315570-caila-raven-and-the-draco.json) |
+| Caila Raven And The Ritual | 315569 | [315569-caila-raven-and-the-ritual.json](./315569-caila-raven-and-the-ritual.json) |
+| Caila Raven And The Temple of The Order | 315566 | [315566-caila-raven-and-the-temple-of-the-order.json](./315566-caila-raven-and-the-temple-of-the-order.json) |
+| Caila Raven: And The Ancient Scroll | 315568 | [315568-caila-raven-and-the-ancient-scroll.json](./315568-caila-raven-and-the-ancient-scroll.json) |
+| Caila Raven: And The Black Book | 315565 | [315565-caila-raven-and-the-black-book.json](./315565-caila-raven-and-the-black-book.json) |
+| Caila Raven: The Bard Tears | 315572 | [315572-caila-raven-the-bard-tears.json](./315572-caila-raven-the-bard-tears.json) |
 | Caillou | 282059 | [282059-caillou.json](./282059-caillou.json) |
 | Caillou: Four Seasons of Fun | 137020 | [137020-caillou-four-seasons-of-fun.json](./137020-caillou-four-seasons-of-fun.json) |
 | Caillou: Magic Playhouse | 73885 | [73885-caillou-magic-playhouse.json](./73885-caillou-magic-playhouse.json) |
@@ -5206,6 +5212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clutter VI: Leigh's Story | 74483 | [74483-clutter-vi-leighs-story.json](./74483-clutter-vi-leighs-story.json) |
 | Clyde's Revenge | 72142 | [72142-clydes-revenge.json](./72142-clydes-revenge.json) |
 | CM-SS13 | 386923 | [386923-cm-ss13.json](./386923-cm-ss13.json) |
+| CM32 | 315571 | [315571-cm32.json](./315571-cm32.json) |
 | Cmoar VR Cinema | 31318 | [31318-cmoar-vr-cinema.json](./31318-cmoar-vr-cinema.json) |
 | CMYP | 234603 | [234603-cmyp.json](./234603-cmyp.json) |
 | CMYW | 34607 | [34607-cmyw.json](./34607-cmyw.json) |
@@ -7463,6 +7470,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covelink | 384650 | [384650-covelink.json](./384650-covelink.json) |
 | Covemachine | 327296 | [327296-covemachine.json](./327296-covemachine.json) |
 | Covemouth | 341632 | [341632-covemouth.json](./341632-covemouth.json) |
+| Coven Escape | 315596 | [315596-coven-escape.json](./315596-coven-escape.json) |
+| Coven Escape 2 | 315597 | [315597-coven-escape-2.json](./315597-coven-escape-2.json) |
 | Coven of the Chicken Foot | 381218 | [381218-coven-of-the-chicken-foot.json](./381218-coven-of-the-chicken-foot.json) |
 | Covenant | 324911 | [324911-covenant.json](./324911-covenant.json) |
 | Covenant of Anubis | 348771 | [348771-covenant-of-anubis.json](./348771-covenant-of-anubis.json) |
@@ -9513,6 +9522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed House 14 | 337213 | [337213-cursed-house-14.json](./337213-cursed-house-14.json) |
 | Cursed House 2 | 362928 | [362928-cursed-house-2.json](./362928-cursed-house-2.json) |
 | Cursed House 7 | 337215 | [337215-cursed-house-7.json](./337215-cursed-house-7.json) |
+| Cursed House Escape | 315581 | [315581-cursed-house-escape.json](./315581-cursed-house-escape.json) |
 | Cursed Island | 176289 | [176289-cursed-island.json](./176289-cursed-island.json) |
 | Cursed Land | 297237 | [297237-cursed-land.json](./297237-cursed-land.json) |
 | Cursed Legacy | 370707 | [370707-cursed-legacy.json](./370707-cursed-legacy.json) |
@@ -9532,6 +9542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Silence | 269273 | [269273-cursed-silence.json](./269273-cursed-silence.json) |
 | Cursed Spire | 195250 | [195250-cursed-spire.json](./195250-cursed-spire.json) |
 | Cursed Swamp Escape 3 | 315470 | [315470-cursed-swamp-escape-3.json](./315470-cursed-swamp-escape-3.json) |
+| Cursed Theatre Escape | 315583 | [315583-cursed-theatre-escape.json](./315583-cursed-theatre-escape.json) |
 | Cursed Toy | 387650 | [387650-cursed-toy.json](./387650-cursed-toy.json) |
 | Cursed Travels: Sunken City | 202421 | [202421-cursed-travels-sunken-city.json](./202421-cursed-travels-sunken-city.json) |
 | Cursed Travels: The Shattered Labyrinth | 179718 | [179718-cursed-travels-the-shattered-labyrinth.json](./179718-cursed-travels-the-shattered-labyrinth.json) |
