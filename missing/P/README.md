@@ -7822,6 +7822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Romboid | 207300 | [207300-project-romboid.json](./207300-project-romboid.json) |
 | Project Root | 17145 | [17145-project-root.json](./17145-project-root.json) |
 | Project Rope Tool | 310136 | [310136-project-rope-tool.json](./310136-project-rope-tool.json) |
+| Project Rose | 296613 | [296613-project-rose.json](./296613-project-rose.json) |
 | Project RPG | 33192 | [33192-project-rpg.json](./33192-project-rpg.json) |
 | Project RTD : Random Tower Defense | 128267 | [128267-project-rtd-random-tower-defense.json](./128267-project-rtd-random-tower-defense.json) |
 | Project RTD: Random Tower Defense VR | 132488 | [132488-project-rtd-random-tower-defense-vr.json](./132488-project-rtd-random-tower-defense-vr.json) |
