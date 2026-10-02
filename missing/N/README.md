@@ -2408,6 +2408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nihon Pro Mahjong Kishikai Kanshuu: Pro ni naru Mahjong DS | 131600 | [131600-nihon-pro-mahjong-kishikai-kanshuu-pro-ni-naru-mahjong-ds.json](./131600-nihon-pro-mahjong-kishikai-kanshuu-pro-ni-naru-mahjong-ds.json) |
 | Nihon Pro Mahjong Renmei Kounin: Honkaku Pro Mahjong: Shin Tetsuman | 369122 | [369122-nihon-pro-mahjong-renmei-kounin-honkaku-pro-mahjong-shin-tetsuman.json](./369122-nihon-pro-mahjong-renmei-kounin-honkaku-pro-mahjong-shin-tetsuman.json) |
 | Nihon Sumo Kyokai Kounin: Nihon Oozumou Gekitou Honbasho-hen | 318502 | [318502-nihon-sumo-kyokai-kounin-nihon-oozumou-gekitou-honbasho-hen.json](./318502-nihon-sumo-kyokai-kounin-nihon-oozumou-gekitou-honbasho-hen.json) |
+| Nihon-shi Nengou Grid | 288434 | [288434-nihon-shi-nengou-grid.json](./288434-nihon-shi-nengou-grid.json) |
 | Nihongo de Asobo | 327598 | [327598-nihongo-de-asobo.json](./327598-nihongo-de-asobo.json) |
 | Nihongo DX7 | 392407 | [392407-nihongo-dx7.json](./392407-nihongo-dx7.json) |
 | Nihongo Quest: N5 | 143704 | [143704-nihongo-quest-n5.json](./143704-nihongo-quest-n5.json) |
