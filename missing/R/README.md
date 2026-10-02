@@ -1971,11 +1971,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Line | 272888 | [272888-red-line.json](./272888-red-line.json) |
 | Red Lucy | 208283 | [208283-red-lucy.json](./208283-red-lucy.json) |
 | Red Machina Teaser: ThoughtJudger | 270939 | [270939-red-machina-teaser-thoughtjudger.json](./270939-red-machina-teaser-thoughtjudger.json) |
+| Red Magic | 291719 | [291719-red-magic.json](./291719-red-magic.json) |
 | Red Man Follows | 243056 | [243056-red-man-follows.json](./243056-red-man-follows.json) |
 | Red Matter 2 | 198227 | [198227-red-matter-2.json](./198227-red-matter-2.json) |
 | Red Max | 49561 | [49561-red-max.json](./49561-red-max.json) |
 | Red Measures | 148447 | [148447-red-measures.json](./148447-red-measures.json) |
 | Red Meat Radiator | 396575 | [396575-red-meat-radiator.json](./396575-red-meat-radiator.json) |
+| Red Memory | 291682 | [291682-red-memory.json](./291682-red-memory.json) |
 | Red Mercenary | 129127 | [129127-red-mercenary.json](./129127-red-mercenary.json) |
 | Red Mist | 131993 | [131993-red-mist.json](./131993-red-mist.json) |
 | Red Moon | 382317 | [382317-red-moon.json](./382317-red-moon.json) |
