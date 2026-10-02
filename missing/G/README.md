@@ -720,6 +720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GameKey: Star Wars - Yoda's Escape / Turret Defense | 221811 | [221811-gamekey-star-wars-yodas-escape-turret-defense.json](./221811-gamekey-star-wars-yodas-escape-turret-defense.json) |
 | GameKid | 240871 | [240871-gamekid.json](./240871-gamekid.json) |
 | GameLib | 305917 | [305917-gamelib.json](./305917-gamelib.json) |
+| GameMaker 25th Anniversary | 324949 | [324949-gamemaker-25th-anniversary.json](./324949-gamemaker-25th-anniversary.json) |
 | GameMaster | 241481 | [241481-gamemaster.json](./241481-gamemaster.json) |
 | GameOn! | 348239 | [348239-gameon.json](./348239-gameon.json) |
 | GamePack 2 | 122308 | [122308-gamepack-2.json](./122308-gamepack-2.json) |
@@ -3174,6 +3175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Sunday | 180773 | [180773-golf-sunday.json](./180773-golf-sunday.json) |
 | Golf Together | 173051 | [173051-golf-together.json](./173051-golf-together.json) |
 | Golf Tour | 264085 | [264085-golf-tour.json](./264085-golf-tour.json) |
+| Golf Up | 324977 | [324977-golf-up.json](./324977-golf-up.json) |
 | Golf Up Tropical | 337990 | [337990-golf-up-tropical.json](./337990-golf-up-tropical.json) |
 | Golf vs. Zombies | 310526 | [310526-golf-vs-zombies.json](./310526-golf-vs-zombies.json) |
 | Golf with the Lads | 250881 | [250881-golf-with-the-lads.json](./250881-golf-with-the-lads.json) |
