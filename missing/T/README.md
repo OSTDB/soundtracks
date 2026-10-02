@@ -3262,6 +3262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Binding of Isaac: Antibirth | 103333 | [103333-the-binding-of-isaac-antibirth.json](./103333-the-binding-of-isaac-antibirth.json) |
 | The Binding of Isaac: Epiphany | 223039 | [223039-the-binding-of-isaac-epiphany.json](./223039-the-binding-of-isaac-epiphany.json) |
 | The Binding of Isaac: Eternal Edition | 341546 | [341546-the-binding-of-isaac-eternal-edition.json](./341546-the-binding-of-isaac-eternal-edition.json) |
+| The Binding of Isaac: Rebirth | 309607 | [309607-the-binding-of-isaac-rebirth.json](./309607-the-binding-of-isaac-rebirth.json) |
 | The Binding of Isaac: Repentance | 310643 | [310643-the-binding-of-isaac-repentance.json](./310643-the-binding-of-isaac-repentance.json) |
 | The Binding of Isaac: Revelations | 376126 | [376126-the-binding-of-isaac-revelations.json](./376126-the-binding-of-isaac-revelations.json) |
 | The Binding of You | 83551 | [83551-the-binding-of-you.json](./83551-the-binding-of-you.json) |
@@ -4105,6 +4106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Delirium Dimension | 269658 | [269658-the-delirium-dimension.json](./269658-the-delirium-dimension.json) |
 | The Delusions of Maximillian Wurst | 243646 | [243646-the-delusions-of-maximillian-wurst.json](./243646-the-delusions-of-maximillian-wurst.json) |
 | The Delusions of Von Sottendorff and His Squared Mind | 63520 | [63520-the-delusions-of-von-sottendorff-and-his-squared-mind.json](./63520-the-delusions-of-von-sottendorff-and-his-squared-mind.json) |
+| The Demon Blade | 309587 | [309587-the-demon-blade.json](./309587-the-demon-blade.json) |
 | The Demon Crystal | 47555 | [47555-the-demon-crystal.json](./47555-the-demon-crystal.json) |
 | The Demon Lord and the Guardian Knights | 134641 | [134641-the-demon-lord-and-the-guardian-knights.json](./134641-the-demon-lord-and-the-guardian-knights.json) |
 | The Demon Lord is Mine! | 215189 | [215189-the-demon-lord-is-mine.json](./215189-the-demon-lord-is-mine.json) |
@@ -11633,6 +11635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Isle | 374794 | [374794-tiny-isle.json](./374794-tiny-isle.json) |
 | Tiny Jump | 254559 | [254559-tiny-jump.json](./254559-tiny-jump.json) |
 | Tiny Jumper | 109922 | [109922-tiny-jumper.json](./109922-tiny-jumper.json) |
+| Tiny Kingdom | 309616 | [309616-tiny-kingdom.json](./309616-tiny-kingdom.json) |
 | Tiny Kingdom Builder | 315634 | [315634-tiny-kingdom-builder.json](./315634-tiny-kingdom-builder.json) |
 | Tiny Kingdoms | 311119 | [311119-tiny-kingdoms.json](./311119-tiny-kingdoms.json) |
 | Tiny Kings | 344548 | [344548-tiny-kings.json](./344548-tiny-kings.json) |
@@ -14175,6 +14178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Story | 128986 | [128986-train-story.json](./128986-train-story.json) |
 | Train to Amber Coast | 179666 | [179666-train-to-amber-coast.json](./179666-train-to-amber-coast.json) |
 | Train to Hong Kong | 324323 | [324323-train-to-hong-kong.json](./324323-train-to-hong-kong.json) |
+| Train to Nowhere | 309617 | [309617-train-to-nowhere.json](./309617-train-to-nowhere.json) |
 | Train Toremaru: Connect & Solve | 159159 | [159159-train-toremaru-connect-and-solve.json](./159159-train-toremaru-connect-and-solve.json) |
 | Train Traffic Manager: Deluxe Edition | 298576 | [298576-train-traffic-manager-deluxe-edition.json](./298576-train-traffic-manager-deluxe-edition.json) |
 | Train Traffic Manager: Diamond Edition | 317244 | [317244-train-traffic-manager-diamond-edition.json](./317244-train-traffic-manager-diamond-edition.json) |
