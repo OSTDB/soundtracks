@@ -1901,6 +1901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scuos | 116167 | [116167-scuos.json](./116167-scuos.json) |
 | Scurry | 97711 | [97711-scurry.json](./97711-scurry.json) |
 | Scurvy Dogs | 224761 | [224761-scurvy-dogs.json](./224761-scurvy-dogs.json) |
+| Scuttle | 285697 | [285697-scuttle.json](./285697-scuttle.json) |
 | Scythe Shepard | 276717 | [276717-scythe-shepard.json](./276717-scythe-shepard.json) |
 | Scythe X | 137667 | [137667-scythe-x.json](./137667-scythe-x.json) |
 | Scythe: Digital Edition - Invaders from Afar | 154948 | [154948-scythe-digital-edition-invaders-from-afar.json](./154948-scythe-digital-edition-invaders-from-afar.json) |
@@ -2096,6 +2097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Search All: Bones | 387338 | [387338-search-all-bones.json](./387338-search-all-bones.json) |
 | Search All: Buds | 219613 | [219613-search-all-buds.json](./219613-search-all-buds.json) |
 | Search All: Cactuses | 192374 | [192374-search-all-cactuses.json](./192374-search-all-cactuses.json) |
+| Search All: Flies | 285713 | [285713-search-all-flies.json](./285713-search-all-flies.json) |
 | Search All: Keys | 219614 | [219614-search-all-keys.json](./219614-search-all-keys.json) |
 | Search All: Mice | 219615 | [219615-search-all-mice.json](./219615-search-all-mice.json) |
 | Search All: Mushrooms | 192375 | [192375-search-all-mushrooms.json](./192375-search-all-mushrooms.json) |
@@ -10903,6 +10905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Cleaning | 151717 | [151717-spirit-cleaning.json](./151717-spirit-cleaning.json) |
 | Spirit Drop | 334746 | [334746-spirit-drop.json](./334746-spirit-drop.json) |
 | Spirit Eyes | 211188 | [211188-spirit-eyes.json](./211188-spirit-eyes.json) |
+| Spirit Guardians | 285687 | [285687-spirit-guardians.json](./285687-spirit-guardians.json) |
 | Spirit Harem | 295341 | [295341-spirit-harem.json](./295341-spirit-harem.json) |
 | Spirit Hunter: Death Mark II | 133814 | [133814-spirit-hunter-death-mark-ii.json](./133814-spirit-hunter-death-mark-ii.json) |
 | Spirit Hunters Inc. | 23587 | [23587-spirit-hunters-inc.json](./23587-spirit-hunters-inc.json) |
@@ -12018,7 +12021,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Revenge 5: Neo Blue Realm | 260806 | [260806-star-revenge-5-neo-blue-realm.json](./260806-star-revenge-5-neo-blue-realm.json) |
 | Star Revenge 6: Luigi's Adventure | 260804 | [260804-star-revenge-6-luigis-adventure.json](./260804-star-revenge-6-luigis-adventure.json) |
 | Star Revenge 6.5: Wrath of The Dim. Flower PC Port | 378270 | [378270-star-revenge-6-5-wrath-of-the-dim-flower-pc-port.json](./378270-star-revenge-6-5-wrath-of-the-dim-flower-pc-port.json) |
+| Star Revenge 6.9: Luigi Lost in Time | 285679 | [285679-star-revenge-6-9-luigi-lost-in-time.json](./285679-star-revenge-6-9-luigi-lost-in-time.json) |
 | Star Revenge Redone PC | 378291 | [378291-star-revenge-redone-pc.json](./378291-star-revenge-redone-pc.json) |
+| Star Revenge X: Discord Star Adventure | 285681 | [285681-star-revenge-x-discord-star-adventure.json](./285681-star-revenge-x-discord-star-adventure.json) |
 | Star Rider | 24012 | [24012-star-rider.json](./24012-star-rider.json) |
 | Star Ring | 295927 | [295927-star-ring.json](./295927-star-ring.json) |
 | Star Rising | 353391 | [353391-star-rising.json](./353391-star-rising.json) |
@@ -13541,6 +13546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storage Master | 212483 | [212483-storage-master.json](./212483-storage-master.json) |
 | Storage Warfare | 303220 | [303220-storage-warfare.json](./303220-storage-warfare.json) |
 | Store It! | 355035 | [355035-store-it.json](./355035-store-it.json) |
+| Store Simulator | 285670 | [285670-store-simulator.json](./285670-store-simulator.json) |
 | Store Simulator 2018 | 405476 | [405476-store-simulator-2018.json](./405476-store-simulator-2018.json) |
 | Storebound | 331151 | [331151-storebound.json](./331151-storebound.json) |
 | Storefront | 376481 | [376481-storefront.json](./376481-storefront.json) |
@@ -13886,6 +13892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Boy | 220646 | [220646-street-boy.json](./220646-street-boy.json) |
 | Street Cat | 78041 | [78041-street-cat.json](./78041-street-cat.json) |
 | Street Chef: Food Seller Simulator | 326408 | [326408-street-chef-food-seller-simulator.json](./326408-street-chef-food-seller-simulator.json) |
+| Street Clean TD | 285673 | [285673-street-clean-td.json](./285673-street-clean-td.json) |
 | Street Cleaner 3 | 305382 | [305382-street-cleaner-3.json](./305382-street-cleaner-3.json) |
 | Street Cop | 48236 | [48236-street-cop.json](./48236-street-cop.json) |
 | Street Corner Heartbeat Snaps | 416070 | [416070-street-corner-heartbeat-snaps.json](./416070-street-corner-heartbeat-snaps.json) |
@@ -16660,6 +16667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super-Patriota Simulator | 238998 | [238998-super-patriota-simulator.json](./238998-super-patriota-simulator.json) |
 | Super-VGA Harrier | 70114 | [70114-super-vga-harrier.json](./70114-super-vga-harrier.json) |
 | Super-X | 46861 | [46861-super-x.json](./46861-super-x.json) |
+| Super: Taxi Simulation | 285692 | [285692-super-taxi-simulation.json](./285692-super-taxi-simulation.json) |
 | Superball | 117000 | [117000-superball.json](./117000-superball.json) |
 | SuperBeam | 115608 | [115608-superbeam.json](./115608-superbeam.json) |
 | Superbeat: Xonic | 12875 | [12875-superbeat-xonic.json](./12875-superbeat-xonic.json) |
@@ -17618,6 +17626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword and Expedition: Placing Heroes | 188040 | [188040-sword-and-expedition-placing-heroes.json](./188040-sword-and-expedition-placing-heroes.json) |
 | Sword and Fairy 3 Ex | 369568 | [369568-sword-and-fairy-3-ex.json](./369568-sword-and-fairy-3-ex.json) |
 | Sword and Fairy Inn | 78048 | [78048-sword-and-fairy-inn.json](./78048-sword-and-fairy-inn.json) |
+| Sword and Fairy: Together Forever - Deluxe Edition | 285682 | [285682-sword-and-fairy-together-forever-deluxe-edition.json](./285682-sword-and-fairy-together-forever-deluxe-edition.json) |
 | Sword and Hammer: Hand of the King | 311706 | [311706-sword-and-hammer-hand-of-the-king.json](./311706-sword-and-hammer-hand-of-the-king.json) |
 | Sword and Plow | 305346 | [305346-sword-and-plow.json](./305346-sword-and-plow.json) |
 | Sword and Shield Idle | 296993 | [296993-sword-and-shield-idle.json](./296993-sword-and-shield-idle.json) |
