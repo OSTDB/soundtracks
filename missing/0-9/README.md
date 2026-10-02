@@ -227,6 +227,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Camp Cats | 351684 | [351684-100-camp-cats.json](./351684-100-camp-cats.json) |
 | 100 Candy Cats | 347753 | [347753-100-candy-cats.json](./347753-100-candy-cats.json) |
 | 100 Cats Argentina | 283865 | [283865-100-cats-argentina.json](./283865-100-cats-argentina.json) |
+| 100 Cats Beijing | 284620 | [284620-100-cats-beijing.json](./284620-100-cats-beijing.json) |
+| 100 Cats Belgrade | 284619 | [284619-100-cats-belgrade.json](./284619-100-cats-belgrade.json) |
 | 100 Cats Berlin | 283866 | [283866-100-cats-berlin.json](./283866-100-cats-berlin.json) |
 | 100 Cats Istanbul | 334173 | [334173-100-cats-istanbul.json](./334173-100-cats-istanbul.json) |
 | 100 Cats London: Extra Content | 308930 | [308930-100-cats-london-extra-content.json](./308930-100-cats-london-extra-content.json) |
@@ -247,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Cats Lost in Toyland Trouble | 359028 | [359028-100-cats-lost-in-toyland-trouble.json](./359028-100-cats-lost-in-toyland-trouble.json) |
 | 100 Cats New York: Extra Content | 325502 | [325502-100-cats-new-york-extra-content.json](./325502-100-cats-new-york-extra-content.json) |
 | 100 Cats Pakistan | 283867 | [283867-100-cats-pakistan.json](./283867-100-cats-pakistan.json) |
+| 100 Cats Singapore | 284618 | [284618-100-cats-singapore.json](./284618-100-cats-singapore.json) |
 | 100 Chernobyl Cats | 375450 | [375450-100-chernobyl-cats.json](./375450-100-chernobyl-cats.json) |
 | 100 Chests | 101332 | [101332-100-chests.json](./101332-100-chests.json) |
 | 100 China Cats | 315289 | [315289-100-china-cats.json](./315289-100-china-cats.json) |
