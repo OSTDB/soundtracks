@@ -1417,6 +1417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinder Finders | 339398 | [339398-kinder-finders.json](./339398-kinder-finders.json) |
 | Kindergarten | 215760 | [215760-kindergarten.json](./215760-kindergarten.json) |
 | Kindergarten 2 | 118637 | [118637-kindergarten-2.json](./118637-kindergarten-2.json) |
+| Kindergarten 3 | 300328 | [300328-kindergarten-3.json](./300328-kindergarten-3.json) |
 | KindergarTen 3: The Basement | 290696 | [290696-kindergarten-3-the-basement.json](./290696-kindergarten-3-the-basement.json) |
 | Kindergarten of Hell | 343841 | [343841-kindergarten-of-hell.json](./343841-kindergarten-of-hell.json) |
 | Kindergarten: Buddy Edition | 232999 | [232999-kindergarten-buddy-edition.json](./232999-kindergarten-buddy-edition.json) |
@@ -1853,6 +1854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirarin Revolution: Tsukutte Misechao! Kime Kira Stage | 70672 | [70672-kirarin-revolution-tsukutte-misechao-kime-kira-stage.json](./70672-kirarin-revolution-tsukutte-misechao-kime-kira-stage.json) |
 | Kiratto Kaiketsu! 64 Tanteidan | 3532 | [3532-kiratto-kaiketsu-64-tanteidan.json](./3532-kiratto-kaiketsu-64-tanteidan.json) |
 | Kirby 64: The Crystal Shards | 2713 | [2713-kirby-64-the-crystal-shards.json](./2713-kirby-64-the-crystal-shards.json) |
+| Kirby 64: Whispy's Trials | 300264 | [300264-kirby-64-whispys-trials.json](./300264-kirby-64-whispys-trials.json) |
 | Kirby Air Ride Deluxe | 357344 | [357344-kirby-air-ride-deluxe.json](./357344-kirby-air-ride-deluxe.json) |
 | Kirby Air Ride Hack Pack | 298856 | [298856-kirby-air-ride-hack-pack.json](./298856-kirby-air-ride-hack-pack.json) |
 | Kirby and the Forgotten Land | 208400 | [208400-kirby-and-the-forgotten-land.json](./208400-kirby-and-the-forgotten-land.json) |
