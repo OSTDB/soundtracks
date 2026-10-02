@@ -855,6 +855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bam Boost | 256904 | [256904-bam-boost.json](./256904-bam-boost.json) |
 | Bamba's Snack Quest | 141093 | [141093-bambas-snack-quest.json](./141093-bambas-snack-quest.json) |
 | Bambinours Solves a Jig Saw Puzzle | 14283 | [14283-bambinours-solves-a-jig-saw-puzzle.json](./14283-bambinours-solves-a-jig-saw-puzzle.json) |
+| Bamboo Bushido | 333145 | [333145-bamboo-bushido.json](./333145-bamboo-bushido.json) |
 | Bamboo EP | 26667 | [26667-bamboo-ep.json](./26667-bamboo-ep.json) |
 | Bamboo Forest | 161397 | [161397-bamboo-forest.json](./161397-bamboo-forest.json) |
 | Bamboo Panda | 355121 | [355121-bamboo-panda.json](./355121-bamboo-panda.json) |
@@ -8375,6 +8376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Hop League: Map Pack 1 | 226275 | [226275-bunny-hop-league-map-pack-1.json](./226275-bunny-hop-league-map-pack-1.json) |
 | Bunny Hopper | 377049 | [377049-bunny-hopper.json](./377049-bunny-hopper.json) |
 | Bunny Hurling | 335286 | [335286-bunny-hurling.json](./335286-bunny-hurling.json) |
+| Bunny Love Expert | 333216 | [333216-bunny-love-expert.json](./333216-bunny-love-expert.json) |
 | Bunny Madness Anarchy | 38995 | [38995-bunny-madness-anarchy.json](./38995-bunny-madness-anarchy.json) |
 | Bunny Maid's Estrus Diary | 82777 | [82777-bunny-maids-estrus-diary.json](./82777-bunny-maids-estrus-diary.json) |
 | Bunny Mazes | 324986 | [324986-bunny-mazes.json](./324986-bunny-mazes.json) |
