@@ -4440,6 +4440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LOZT: Legion of Zombie Terrors | 393048 | [393048-lozt-legion-of-zombie-terrors.json](./393048-lozt-legion-of-zombie-terrors.json) |
 | Lrrl or Rllr | 169441 | [169441-lrrl-or-rllr.json](./169441-lrrl-or-rllr.json) |
 | LSD Battlefield Simulator | 340927 | [340927-lsd-battlefield-simulator.json](./340927-lsd-battlefield-simulator.json) |
+| LSD: Dream Emulator Retro | 333780 | [333780-lsd-dream-emulator-retro.json](./333780-lsd-dream-emulator-retro.json) |
 | LSD: The Game | 116998 | [116998-lsd-the-game.json](./116998-lsd-the-game.json) |
 | LSI Puzzle: Last One | 385752 | [385752-lsi-puzzle-last-one.json](./385752-lsi-puzzle-last-one.json) |
 | Lu Bu Maker | 104902 | [104902-lu-bu-maker.json](./104902-lu-bu-maker.json) |
@@ -4756,6 +4757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Catastrophe | 260960 | [260960-lunar-catastrophe.json](./260960-lunar-catastrophe.json) |
 | Lunar Chrysalis | 406077 | [406077-lunar-chrysalis.json](./406077-lunar-chrysalis.json) |
 | Lunar Descent | 333360 | [333360-lunar-descent.json](./333360-lunar-descent.json) |
+| Lunar Drifter | 333701 | [333701-lunar-drifter.json](./333701-lunar-drifter.json) |
 | Lunar Escape | 178642 | [178642-lunar-escape.json](./178642-lunar-escape.json) |
 | Lunar Flight | 10524 | [10524-lunar-flight.json](./10524-lunar-flight.json) |
 | Lunar Impact | 340506 | [340506-lunar-impact.json](./340506-lunar-impact.json) |
