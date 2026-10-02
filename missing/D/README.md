@@ -3559,6 +3559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destructor | 24019 | [24019-destructor.json](./24019-destructor.json) |
 | Destructor2D | 404984 | [404984-destructor2d.json](./404984-destructor2d.json) |
 | Desynced | 230222 | [230222-desynced.json](./230222-desynced.json) |
+| Detach Metroid | 328683 | [328683-detach-metroid.json](./328683-detach-metroid.json) |
 | Detached: Non-VR Edition | 105080 | [105080-detached-non-vr-edition.json](./105080-detached-non-vr-edition.json) |
 | Detail Hunter | 322982 | [322982-detail-hunter.json](./322982-detail-hunter.json) |
 | DeTails | 355129 | [355129-details.json](./355129-details.json) |
@@ -6051,8 +6052,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong vs. K. Rool Challenge | 307722 | [307722-donkey-kong-vs-k-rool-challenge.json](./307722-donkey-kong-vs-k-rool-challenge.json) |
 | Donkey Kong-e | 170011 | [170011-donkey-kong-e.json](./170011-donkey-kong-e.json) |
 | Donkey Konga | 256803 | [256803-donkey-konga.json](./256803-donkey-konga.json) |
+| Donkey Konga | 328664 | [328664-donkey-konga.json](./328664-donkey-konga.json) |
 | Donkey Konga 1+2 Pack | 329370 | [329370-donkey-konga-1-2-pack.json](./329370-donkey-konga-1-2-pack.json) |
 | Donkey Konga 2 | 256806 | [256806-donkey-konga-2.json](./256806-donkey-konga-2.json) |
+| Donkey Konga 2 | 328668 | [328668-donkey-konga-2.json](./328668-donkey-konga-2.json) |
 | Donkey Konga Beat | 231646 | [231646-donkey-konga-beat.json](./231646-donkey-konga-beat.json) |
 | Donkey Konk | 231608 | [231608-donkey-konk.json](./231608-donkey-konk.json) |
 | Donkey Racing | 248057 | [248057-donkey-racing.json](./248057-donkey-racing.json) |
@@ -7407,6 +7410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw the Hands | 405580 | [405580-draw-the-hands.json](./405580-draw-the-hands.json) |
 | Draw the Way | 29833 | [29833-draw-the-way.json](./29833-draw-the-way.json) |
 | Draw Two Save: Save the man | 197363 | [197363-draw-two-save-save-the-man.json](./197363-draw-two-save-save-the-man.json) |
+| Draw Wario | 328684 | [328684-draw-wario.json](./328684-draw-wario.json) |
 | Draw_Love | 43513 | [43513-draw-love.json](./43513-draw-love.json) |
 | Draw-A-Mountain | 185098 | [185098-draw-a-mountain.json](./185098-draw-a-mountain.json) |
 | Drawback Chess | 387533 | [387533-drawback-chess.json](./387533-drawback-chess.json) |
