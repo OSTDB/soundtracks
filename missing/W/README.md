@@ -596,6 +596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warbit | 33433 | [33433-warbit.json](./33433-warbit.json) |
 | Warbit Union | 184385 | [184385-warbit-union.json](./184385-warbit-union.json) |
 | Warbits+ | 245923 | [245923-warbits.json](./245923-warbits.json) |
+| Warbl | 280457 | [280457-warbl.json](./280457-warbl.json) |
 | Warblade | 128358 | [128358-warblade.json](./128358-warblade.json) |
 | Warborn: Variable Armour Command | 112598 | [112598-warborn-variable-armour-command.json](./112598-warborn-variable-armour-command.json) |
 | Warborne: Above Ashes | 333102 | [333102-warborne-above-ashes.json](./333102-warborne-above-ashes.json) |
@@ -2451,6 +2452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Wants to Be a Murderer? | 292116 | [292116-who-wants-to-be-a-murderer.json](./292116-who-wants-to-be-a-murderer.json) |
 | Who Wants To Be King?! | 406257 | [406257-who-wants-to-be-king.json](./406257-who-wants-to-be-king.json) |
 | Who Wants to Strip this Babe? Streamer Girl | 248924 | [248924-who-wants-to-strip-this-babe-streamer-girl.json](./248924-who-wants-to-strip-this-babe-streamer-girl.json) |
+| Who wants to strip this babe?: Hentai Teacher | 280445 | [280445-who-wants-to-strip-this-babe-hentai-teacher.json](./280445-who-wants-to-strip-this-babe-hentai-teacher.json) |
 | Who Wants to Win a Banana Hoard? | 328606 | [328606-who-wants-to-win-a-banana-hoard.json](./328606-who-wants-to-win-a-banana-hoard.json) |
 | Who's at the Door? | 347265 | [347265-whos-at-the-door.json](./347265-whos-at-the-door.json) |
 | Who's Fat Lou? | 205805 | [205805-whos-fat-lou.json](./205805-whos-fat-lou.json) |
@@ -2715,6 +2717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildlands Resurgence | 267095 | [267095-wildlands-resurgence.json](./267095-wildlands-resurgence.json) |
 | Wildlife Camp | 36063 | [36063-wildlife-camp.json](./36063-wildlife-camp.json) |
 | Wildlife Hunter: Survival | 250437 | [250437-wildlife-hunter-survival.json](./250437-wildlife-hunter-survival.json) |
+| Wildlife Matters | 280438 | [280438-wildlife-matters.json](./280438-wildlife-matters.json) |
 | Wildlife Park | 17591 | [17591-wildlife-park.json](./17591-wildlife-park.json) |
 | Wildlife Park 2 | 17491 | [17491-wildlife-park-2.json](./17491-wildlife-park-2.json) |
 | Wildlife Park 2 - Horses | 36286 | [36286-wildlife-park-2-horses.json](./36286-wildlife-park-2-horses.json) |
