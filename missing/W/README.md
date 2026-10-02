@@ -1864,6 +1864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What's Missing? | 204981 | [204981-whats-missing.json](./204981-whats-missing.json) |
 | What's My Gender? | 102349 | [102349-whats-my-gender.json](./102349-whats-my-gender.json) |
 | What's on Agenda | 302508 | [302508-whats-on-agenda.json](./302508-whats-on-agenda.json) |
+| What's On The Menu? | 333240 | [333240-whats-on-the-menu.json](./333240-whats-on-the-menu.json) |
 | What's Outside | 278729 | [278729-whats-outside.json](./278729-whats-outside.json) |
 | What's Pixelated? | 88476 | [88476-whats-pixelated.json](./88476-whats-pixelated.json) |
 | What's Shenmue? | 93595 | [93595-whats-shenmue.json](./93595-whats-shenmue.json) |
