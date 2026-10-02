@@ -2354,6 +2354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caverns of Xaskazien II | 217871 | [217871-caverns-of-xaskazien-ii.json](./217871-caverns-of-xaskazien-ii.json) |
 | Caverns of Zoarre | 2874 | [2874-caverns-of-zoarre.json](./2874-caverns-of-zoarre.json) |
 | Caverns: Lost Sky | 113494 | [113494-caverns-lost-sky.json](./113494-caverns-lost-sky.json) |
+| Caves of Fear | 302602 | [302602-caves-of-fear.json](./302602-caves-of-fear.json) |
 | Caves of Lore | 232976 | [232976-caves-of-lore.json](./232976-caves-of-lore.json) |
 | Caves of Olympus | 25852 | [25852-caves-of-olympus.json](./25852-caves-of-olympus.json) |
 | Caves of Qud | 24054 | [24054-caves-of-qud.json](./24054-caves-of-qud.json) |
@@ -2814,6 +2815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Breaker | 76597 | [76597-chaos-breaker.json](./76597-chaos-breaker.json) |
 | Chaos Caster | 314990 | [314990-chaos-caster.json](./314990-chaos-caster.json) |
 | Chaos Caves | 113680 | [113680-chaos-caves.json](./113680-chaos-caves.json) |
+| Chaos Chain: Supporter Cosmetic Pack 3 | 302592 | [302592-chaos-chain-supporter-cosmetic-pack-3.json](./302592-chaos-chain-supporter-cosmetic-pack-3.json) |
 | Chaos Chronicle | 57893 | [57893-chaos-chronicle.json](./57893-chaos-chronicle.json) |
 | Chaos Chronicles | 63923 | [63923-chaos-chronicles.json](./63923-chaos-chronicles.json) |
 | Chaos Claw | 382409 | [382409-chaos-claw.json](./382409-chaos-claw.json) |
@@ -6949,6 +6951,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cool Kid Cody: Season 2 - Episode 04 | 248017 | [248017-cool-kid-cody-season-2-episode-04.json](./248017-cool-kid-cody-season-2-episode-04.json) |
 | Cool Kid Cody: Season 2 - Episode 09 | 253977 | [253977-cool-kid-cody-season-2-episode-09.json](./253977-cool-kid-cody-season-2-episode-09.json) |
 | Cool Kid Cody: Season 2 - Episode 10 | 252693 | [252693-cool-kid-cody-season-2-episode-10.json](./252693-cool-kid-cody-season-2-episode-10.json) |
+| Cool Kid Cody: Season 3 - Episode 03 | 302582 | [302582-cool-kid-cody-season-3-episode-03.json](./302582-cool-kid-cody-season-3-episode-03.json) |
+| Cool Kid Cody: Season 3 - Episode 04 | 302583 | [302583-cool-kid-cody-season-3-episode-04.json](./302583-cool-kid-cody-season-3-episode-04.json) |
+| Cool Kid Cody: Season 3 - Episode 05 | 302584 | [302584-cool-kid-cody-season-3-episode-05.json](./302584-cool-kid-cody-season-3-episode-05.json) |
+| Cool Kid Cody: Season 3 - Episode 06 | 302585 | [302585-cool-kid-cody-season-3-episode-06.json](./302585-cool-kid-cody-season-3-episode-06.json) |
+| Cool Kid Cody: Season 3 - Episode 07 | 302586 | [302586-cool-kid-cody-season-3-episode-07.json](./302586-cool-kid-cody-season-3-episode-07.json) |
 | Cool Kid Cody: Season 3 - Episode 09 | 312007 | [312007-cool-kid-cody-season-3-episode-09.json](./312007-cool-kid-cody-season-3-episode-09.json) |
 | Cool Lady | 259026 | [259026-cool-lady.json](./259026-cool-lady.json) |
 | Cool People Club | 211762 | [211762-cool-people-club.json](./211762-cool-people-club.json) |
@@ -8117,6 +8124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Otto | 208322 | [208322-crazy-otto.json](./208322-crazy-otto.json) |
 | Crazy Penguin Catapult 2 | 67968 | [67968-crazy-penguin-catapult-2.json](./67968-crazy-penguin-catapult-2.json) |
 | Crazy Penguin Diner Run | 101974 | [101974-crazy-penguin-diner-run.json](./101974-crazy-penguin-diner-run.json) |
+| Crazy Penguin Wars | 302614 | [302614-crazy-penguin-wars.json](./302614-crazy-penguin-wars.json) |
 | Crazy People | 273960 | [273960-crazy-people.json](./273960-crazy-people.json) |
 | Crazy Pirate | 81872 | [81872-crazy-pirate.json](./81872-crazy-pirate.json) |
 | Crazy Pirate Slots | 232364 | [232364-crazy-pirate-slots.json](./232364-crazy-pirate-slots.json) |
@@ -8683,6 +8691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossout: Corrida Pack | 226822 | [226822-crossout-corrida-pack.json](./226822-crossout-corrida-pack.json) |
 | Crossout: Day of the Dead Pack | 226823 | [226823-crossout-day-of-the-dead-pack.json](./226823-crossout-day-of-the-dead-pack.json) |
 | Crossout: Drive Pack | 226824 | [226824-crossout-drive-pack.json](./226824-crossout-drive-pack.json) |
+| Crossout: Early Access Pack | 302581 | [302581-crossout-early-access-pack.json](./302581-crossout-early-access-pack.json) |
 | Crossout: Electric beetle | 293760 | [293760-crossout-electric-beetle.json](./293760-crossout-electric-beetle.json) |
 | Crossout: Family Holiday Pack | 226825 | [226825-crossout-family-holiday-pack.json](./226825-crossout-family-holiday-pack.json) |
 | Crossout: Horsemen of Apocalypse - Famine | 331996 | [331996-crossout-horsemen-of-apocalypse-famine.json](./331996-crossout-horsemen-of-apocalypse-famine.json) |
