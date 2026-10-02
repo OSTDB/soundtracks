@@ -3979,6 +3979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronical | 276695 | [276695-chronical.json](./276695-chronical.json) |
 | Chronicle of Ekan | 169980 | [169980-chronicle-of-ekan.json](./169980-chronicle-of-ekan.json) |
 | Chronicle Survivors | 287198 | [287198-chronicle-survivors.json](./287198-chronicle-survivors.json) |
+| Chronicle: Rewritten | 307845 | [307845-chronicle-rewritten.json](./307845-chronicle-rewritten.json) |
 | Chronicle: RuneScape Legends | 19433 | [19433-chronicle-runescape-legends.json](./19433-chronicle-runescape-legends.json) |
 | Chronicle: Unit Eight | 128989 | [128989-chronicle-unit-eight.json](./128989-chronicle-unit-eight.json) |
 | Chronicles and Fables: Arena | 178442 | [178442-chronicles-and-fables-arena.json](./178442-chronicles-and-fables-arena.json) |
