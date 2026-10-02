@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S-Tetris | 70465 | [70465-s-tetris.json](./70465-s-tetris.json) |
 | S. Cargo | 275916 | [275916-s-cargo.json](./275916-s-cargo.json) |
 | S.A.B.A.H. (Sun As Biased As Harmony) | 264596 | [264596-s-a-b-a-h-sun-as-biased-as-harmony.json](./264596-s-a-b-a-h-sun-as-biased-as-harmony.json) |
+| S.A.C. Alert | 282792 | [282792-s-a-c-alert.json](./282792-s-a-c-alert.json) |
 | S.A.I.A awaknening: a Robothorium visual novel | 111851 | [111851-s-a-i-a-awaknening-a-robothorium-visual-novel.json](./111851-s-a-i-a-awaknening-a-robothorium-visual-novel.json) |
 | S.A.N.D.Y.: Beach Cleaner | 406300 | [406300-s-a-n-d-y-beach-cleaner.json](./406300-s-a-n-d-y-beach-cleaner.json) |
 | S.C. Out | 150073 | [150073-s-c-out.json](./150073-s-c-out.json) |
@@ -4857,6 +4858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuffleboard | 170526 | [170526-shuffleboard.json](./170526-shuffleboard.json) |
 | Shuffleboard 2023 | 231900 | [231900-shuffleboard-2023.json](./231900-shuffleboard-2023.json) |
 | Shuffled Words | 219608 | [219608-shuffled-words.json](./219608-shuffled-words.json) |
+| Shufflepuck | 282841 | [282841-shufflepuck.json](./282841-shufflepuck.json) |
 | Shuffles 'n Scuffles | 372701 | [372701-shuffles-n-scuffles.json](./372701-shuffles-n-scuffles.json) |
 | Shugo Chara! 3-tsu no Tamago to Koisuru Joker | 70669 | [70669-shugo-chara-3-tsu-no-tamago-to-koisuru-joker.json](./70669-shugo-chara-3-tsu-no-tamago-to-koisuru-joker.json) |
 | Shugo Chara! Amu no Niji-iro Chara Change | 70666 | [70666-shugo-chara-amu-no-niji-iro-chara-change.json](./70666-shugo-chara-amu-no-niji-iro-chara-change.json) |
@@ -6604,6 +6606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slendrina Must Die: The House | 321382 | [321382-slendrina-must-die-the-house.json](./321382-slendrina-must-die-the-house.json) |
 | Slendrina Must Die: The School | 321411 | [321411-slendrina-must-die-the-school.json](./321411-slendrina-must-die-the-school.json) |
 | Slendrina X | 233773 | [233773-slendrina-x.json](./233773-slendrina-x.json) |
+| Slendrina's Freakish Friends and Family Night | 282801 | [282801-slendrinas-freakish-friends-and-family-night.json](./282801-slendrinas-freakish-friends-and-family-night.json) |
 | Slendyjan | 393760 | [393760-slendyjan.json](./393760-slendyjan.json) |
 | Slendytubbies Ø | 332814 | [332814-slendytubbies.json](./332814-slendytubbies.json) |
 | Sleuth | 94909 | [94909-sleuth.json](./94909-sleuth.json) |
@@ -12959,6 +12962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SteamRush | 295278 | [295278-steamrush.json](./295278-steamrush.json) |
 | Steamry | 365678 | [365678-steamry.json](./365678-steamry.json) |
 | SteamSaga: Cerulia | 62799 | [62799-steamsaga-cerulia.json](./62799-steamsaga-cerulia.json) |
+| Steamshovel Harry | 282809 | [282809-steamshovel-harry.json](./282809-steamshovel-harry.json) |
 | SteamStar | 305949 | [305949-steamstar.json](./305949-steamstar.json) |
 | Steamulator 2019 | 105102 | [105102-steamulator-2019.json](./105102-steamulator-2019.json) |
 | SteamWorld Build & Dig Bundle | 279037 | [279037-steamworld-build-and-dig-bundle.json](./279037-steamworld-build-and-dig-bundle.json) |
@@ -15897,6 +15901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Galaxy 64: Holiday Special | 294779 | [294779-super-mario-galaxy-64-holiday-special.json](./294779-super-mario-galaxy-64-holiday-special.json) |
 | Super Mario Galaxy DS | 315008 | [315008-super-mario-galaxy-ds.json](./315008-super-mario-galaxy-ds.json) |
 | Super Mario Galaxy Multiplayer | 294770 | [294770-super-mario-galaxy-multiplayer.json](./294770-super-mario-galaxy-multiplayer.json) |
+| Super Mario Galaxy Rei: Zero | 282825 | [282825-super-mario-galaxy-rei-zero.json](./282825-super-mario-galaxy-rei-zero.json) |
 | Super Mario Galaxy Star Bit | 328672 | [328672-super-mario-galaxy-star-bit.json](./328672-super-mario-galaxy-star-bit.json) |
 | Super Mario Galaxy: A Blue Star Adventure | 323784 | [323784-super-mario-galaxy-a-blue-star-adventure.json](./323784-super-mario-galaxy-a-blue-star-adventure.json) |
 | Super Mario Galaxy: The Lost Levels | 313326 | [313326-super-mario-galaxy-the-lost-levels.json](./313326-super-mario-galaxy-the-lost-levels.json) |
