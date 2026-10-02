@@ -455,6 +455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies | 19902 | [19902-bad-piggies.json](./19902-bad-piggies.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
 | Bad Rats Show | 27510 | [27510-bad-rats-show.json](./27510-bad-rats-show.json) |
@@ -2491,6 +2492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bearable Nightmares | 148893 | [148893-bearable-nightmares.json](./148893-bearable-nightmares.json) |
 | Bearbarians | 62809 | [62809-bearbarians.json](./62809-bearbarians.json) |
 | Bearcycle | 197125 | [197125-bearcycle.json](./197125-bearcycle.json) |
+| Beardbarians | 317900 | [317900-beardbarians.json](./317900-beardbarians.json) |
 | Bearded Dragons | 133475 | [133475-bearded-dragons.json](./133475-bearded-dragons.json) |
 | Beards vs. Claws | 399695 | [399695-beards-vs-claws.json](./399695-beards-vs-claws.json) |
 | BearHammer | 105100 | [105100-bearhammer.json](./105100-bearhammer.json) |
@@ -3589,6 +3591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big City Adventure: Sydney, Australia | 65202 | [65202-big-city-adventure-sydney-australia.json](./65202-big-city-adventure-sydney-australia.json) |
 | Big City Adventure: Tokyo | 294742 | [294742-big-city-adventure-tokyo.json](./294742-big-city-adventure-tokyo.json) |
 | Big City Adventure: Vancouver | 65203 | [65203-big-city-adventure-vancouver.json](./65203-big-city-adventure-vancouver.json) |
+| Big City Driver: Truck Parking Simulator | 317901 | [317901-big-city-driver-truck-parking-simulator.json](./317901-big-city-driver-truck-parking-simulator.json) |
 | Big Company: Skytopia | 105526 | [105526-big-company-skytopia.json](./105526-big-company-skytopia.json) |
 | Big Cup Cricket | 22337 | [22337-big-cup-cricket.json](./22337-big-cup-cricket.json) |
 | Big D Randy | 276269 | [276269-big-d-randy.json](./276269-big-d-randy.json) |
@@ -6785,6 +6788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling Fever: Discovery Edition | 333718 | [333718-bowling-fever-discovery-edition.json](./333718-bowling-fever-discovery-edition.json) |
 | Bowling Fever: Grand Edition | 396914 | [396914-bowling-fever-grand-edition.json](./396914-bowling-fever-grand-edition.json) |
 | Bowling Fever: Power Edition | 399811 | [399811-bowling-fever-power-edition.json](./399811-bowling-fever-power-edition.json) |
+| Bowling Fever: Superior Edition | 317915 | [317915-bowling-fever-superior-edition.json](./317915-bowling-fever-superior-edition.json) |
 | Bowling Islands | 234616 | [234616-bowling-islands.json](./234616-bowling-islands.json) |
 | Bowling Party | 58257 | [58257-bowling-party.json](./58257-bowling-party.json) |
 | Bowling Street | 96913 | [96913-bowling-street.json](./96913-bowling-street.json) |
@@ -7333,6 +7337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakfast Bar Tycoon: Definitive Edition | 333719 | [333719-breakfast-bar-tycoon-definitive-edition.json](./333719-breakfast-bar-tycoon-definitive-edition.json) |
 | Breakfast Bar Tycoon: Super Edition | 315875 | [315875-breakfast-bar-tycoon-super-edition.json](./315875-breakfast-bar-tycoon-super-edition.json) |
 | Breakfast Bar Tycoon: Ultimate Edition | 298569 | [298569-breakfast-bar-tycoon-ultimate-edition.json](./298569-breakfast-bar-tycoon-ultimate-edition.json) |
+| Breakfast Bar Tycoon: Value Edition | 317916 | [317916-breakfast-bar-tycoon-value-edition.json](./317916-breakfast-bar-tycoon-value-edition.json) |
 | Breakfast Cooking Mania | 28855 | [28855-breakfast-cooking-mania.json](./28855-breakfast-cooking-mania.json) |
 | Breakforcist | 27678 | [27678-breakforcist.json](./27678-breakforcist.json) |
 | Breakfree | 130847 | [130847-breakfree.json](./130847-breakfree.json) |
@@ -8071,6 +8076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buff Huckem Fully Wrecked | 270187 | [270187-buff-huckem-fully-wrecked.json](./270187-buff-huckem-fully-wrecked.json) |
 | Buff Knight Advanced | 34864 | [34864-buff-knight-advanced.json](./34864-buff-knight-advanced.json) |
 | Buffalo Bill's Wild West Show | 12284 | [12284-buffalo-bills-wild-west-show.json](./12284-buffalo-bills-wild-west-show.json) |
+| Buffet Boss: Complete Edition | 317914 | [317914-buffet-boss-complete-edition.json](./317914-buffet-boss-complete-edition.json) |
 | Buffet Boss: Rolling Sushi | 316219 | [316219-buffet-boss-rolling-sushi.json](./316219-buffet-boss-rolling-sushi.json) |
 | Buffy the Vampire Slayer | 206690 | [206690-buffy-the-vampire-slayer.json](./206690-buffy-the-vampire-slayer.json) |
 | Buffy the Vampire Slayer: Chaos Bleeds | 3837 | [3837-buffy-the-vampire-slayer-chaos-bleeds.json](./3837-buffy-the-vampire-slayer-chaos-bleeds.json) |
