@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1, 2 Blame! | 146107 | [146107-1-2-blame.json](./146107-1-2-blame.json) |
 | 1, 2, 3... Bruegel! | 118319 | [118319-1-2-3-bruegel.json](./118319-1-2-3-bruegel.json) |
 | 1... 2... 3... Kick It!: Drop That Beat Like an Ugly Baby | 15938 | [15938-1-2-3-kick-it-drop-that-beat-like-an-ugly-baby.json](./15938-1-2-3-kick-it-drop-that-beat-like-an-ugly-baby.json) |
+| 1.5-Hour Community Build Project | 308481 | [308481-1-5-hour-community-build-project.json](./308481-1-5-hour-community-build-project.json) |
 | 1.96.9 All Update | 334940 | [334940-1-96-9-all-update.json](./334940-1-96-9-all-update.json) |
 | 1/16384 | 411764 | [411764-1-16384.json](./411764-1-16384.json) |
 | 1/2 Blood | 98422 | [98422-1-2-blood.json](./98422-1-2-blood.json) |
@@ -685,6 +686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2-bit Cowboy | 39234 | [39234-2-bit-cowboy.json](./39234-2-bit-cowboy.json) |
 | 2-Bit Cowboy Rides Again | 316061 | [316061-2-bit-cowboy-rides-again.json](./316061-2-bit-cowboy-rides-again.json) |
 | 2-Finger Heroes | 66692 | [66692-2-finger-heroes.json](./66692-2-finger-heroes.json) |
+| 2-Hour Community Build Project | 308479 | [308479-2-hour-community-build-project.json](./308479-2-hour-community-build-project.json) |
 | 2-in-1 Fun Pack I Dreamworks Madagascar: Operation Penguin + Shrek 2 | 86054 | [86054-2-in-1-fun-pack-i-dreamworks-madagascar-operation-penguin-shrek-2.json](./86054-2-in-1-fun-pack-i-dreamworks-madagascar-operation-penguin-shrek-2.json) |
 | 2-in-1 Geminim/Siamond | 338795 | [338795-2-in-1-geminim-siamond.json](./338795-2-in-1-geminim-siamond.json) |
 | 2-in-1 Kart Racing Bundle | 331455 | [331455-2-in-1-kart-racing-bundle.json](./331455-2-in-1-kart-racing-bundle.json) |
