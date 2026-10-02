@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bomb's Way | 64677 | [64677-a-bombs-way.json](./64677-a-bombs-way.json) |
 | A Bonte Escape | 225283 | [225283-a-bonte-escape.json](./225283-a-bonte-escape.json) |
 | A Border With No End | 414416 | [414416-a-border-with-no-end.json](./414416-a-border-with-no-end.json) |
+| A Boring Place: The Road 2 Head | 321426 | [321426-a-boring-place-the-road-2-head.json](./321426-a-boring-place-the-road-2-head.json) |
 | A Box Full of Joy | 356680 | [356680-a-box-full-of-joy.json](./356680-a-box-full-of-joy.json) |
 | A Boy And His Barrel | 295931 | [295931-a-boy-and-his-barrel.json](./295931-a-boy-and-his-barrel.json) |
 | A Boy and His Blob: Trouble on Blobolonia | 2109 | [2109-a-boy-and-his-blob-trouble-on-blobolonia.json](./2109-a-boy-and-his-blob-trouble-on-blobolonia.json) |
@@ -1023,6 +1024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace of Space | 123544 | [123544-ace-of-space.json](./123544-ace-of-space.json) |
 | Ace of Space | 172031 | [172031-ace-of-space.json](./172031-ace-of-space.json) |
 | Ace of Spades | 236386 | [236386-ace-of-spades.json](./236386-ace-of-spades.json) |
+| Ace of Wands | 321410 | [321410-ace-of-wands.json](./321410-ace-of-wands.json) |
 | Ace Pilot Pacific | 283877 | [283877-ace-pilot-pacific.json](./283877-ace-pilot-pacific.json) |
 | Ace Prosecutor Zero | 303022 | [303022-ace-prosecutor-zero.json](./303022-ace-prosecutor-zero.json) |
 | Ace Racer | 174905 | [174905-ace-racer.json](./174905-ace-racer.json) |
@@ -4116,6 +4118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Guardians: The Dragon | 234203 | [234203-ancient-guardians-the-dragon.json](./234203-ancient-guardians-the-dragon.json) |
 | Ancient Islands | 192031 | [192031-ancient-islands.json](./192031-ancient-islands.json) |
 | Ancient Islands | 192835 | [192835-ancient-islands.json](./192835-ancient-islands.json) |
+| Ancient Keys DX | 321448 | [321448-ancient-keys-dx.json](./321448-ancient-keys-dx.json) |
 | Ancient Magic: Bazuu! Mahou Sekai | 15892 | [15892-ancient-magic-bazuu-mahou-sekai.json](./15892-ancient-magic-bazuu-mahou-sekai.json) |
 | Ancient Mahjong | 267370 | [267370-ancient-mahjong.json](./267370-ancient-mahjong.json) |
 | Ancient Military | 392800 | [392800-ancient-military.json](./392800-ancient-military.json) |
