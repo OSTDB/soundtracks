@@ -3598,6 +3598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval: Total War - Gold Edition | 35894 | [35894-medieval-total-war-gold-edition.json](./35894-medieval-total-war-gold-edition.json) |
 | Medieval: Total War - Viking Invasion | 444 | [444-medieval-total-war-viking-invasion.json](./444-medieval-total-war-viking-invasion.json) |
 | Medievalfield | 200695 | [200695-medievalfield.json](./200695-medievalfield.json) |
+| MediEvil | 299389 | [299389-medievil.json](./299389-medievil.json) |
 | MediEvil II | 329195 | [329195-medievil-ii.json](./329195-medievil-ii.json) |
 | MediEvil II | 4002 | [4002-medievil-ii.json](./4002-medievil-ii.json) |
 | Meditation 5 | 135047 | [135047-meditation-5.json](./135047-meditation-5.json) |
@@ -4217,6 +4218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mellstroy Survivor | 369753 | [369753-mellstroy-survivor.json](./369753-mellstroy-survivor.json) |
 | Melly the Naughty Dog | 323262 | [323262-melly-the-naughty-dog.json](./323262-melly-the-naughty-dog.json) |
 | Melo's Cat Cafe | 307568 | [307568-melos-cat-cafe.json](./307568-melos-cat-cafe.json) |
+| Melo's Nightmare | 299367 | [299367-melos-nightmare.json](./299367-melos-nightmare.json) |
 | Melod | 235145 | [235145-melod.json](./235145-melod.json) |
 | Melodic Riddle | 75774 | [75774-melodic-riddle.json](./75774-melodic-riddle.json) |
 | Melodie | 334214 | [334214-melodie.json](./334214-melodie.json) |
@@ -4613,6 +4615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Empires | 139379 | [139379-merge-empires.json](./139379-merge-empires.json) |
 | Merge ETO | 274553 | [274553-merge-eto.json](./274553-merge-eto.json) |
 | Merge Fellas | 281409 | [281409-merge-fellas.json](./281409-merge-fellas.json) |
+| Merge Friends | 299405 | [299405-merge-friends.json](./299405-merge-friends.json) |
 | Merge Games Adventure Bundle | 275044 | [275044-merge-games-adventure-bundle.json](./275044-merge-games-adventure-bundle.json) |
 | Merge Games Japan Best | 276454 | [276454-merge-games-japan-best.json](./276454-merge-games-japan-best.json) |
 | Merge Gangster Heist vs. Police | 245348 | [245348-merge-gangster-heist-vs-police.json](./245348-merge-gangster-heist-vs-police.json) |
@@ -4633,6 +4636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Numbers | 329197 | [329197-merge-numbers.json](./329197-merge-numbers.json) |
 | Merge Pineapple | 339286 | [339286-merge-pineapple.json](./339286-merge-pineapple.json) |
 | Merge Rainbow Friend | 224002 | [224002-merge-rainbow-friend.json](./224002-merge-rainbow-friend.json) |
+| Merge Rush Z | 299408 | [299408-merge-rush-z.json](./299408-merge-rush-z.json) |
 | Merge Studio: Fashion Makeover | 315111 | [315111-merge-studio-fashion-makeover.json](./315111-merge-studio-fashion-makeover.json) |
 | Merge Surge | 392426 | [392426-merge-surge.json](./392426-merge-surge.json) |
 | Merge Together | 323340 | [323340-merge-together.json](./323340-merge-together.json) |
@@ -8993,6 +8997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Giggle 2 | 143043 | [143043-mr-giggle-2.json](./143043-mr-giggle-2.json) |
 | Mr Gun | 98848 | [98848-mr-gun.json](./98848-mr-gun.json) |
 | Mr Henry and his Magical Hat | 58508 | [58508-mr-henry-and-his-magical-hat.json](./58508-mr-henry-and-his-magical-hat.json) |
+| Mr Hero | 299410 | [299410-mr-hero.json](./299410-mr-hero.json) |
 | Mr Husky | 111210 | [111210-mr-husky.json](./111210-mr-husky.json) |
 | Mr Investigator | 373676 | [373676-mr-investigator.json](./373676-mr-investigator.json) |
 | Mr Jack Pocket | 175410 | [175410-mr-jack-pocket.json](./175410-mr-jack-pocket.json) |
@@ -9980,6 +9985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hero Academia: Smash Tap | 74300 | [74300-my-hero-academia-smash-tap.json](./74300-my-hero-academia-smash-tap.json) |
 | My Hero Academia: The Strongest Hero | 146301 | [146301-my-hero-academia-the-strongest-hero.json](./146301-my-hero-academia-the-strongest-hero.json) |
 | My Hero and the King | 63265 | [63265-my-hero-and-the-king.json](./63265-my-hero-and-the-king.json) |
+| My Hero Kitty | 299402 | [299402-my-hero-kitty.json](./299402-my-hero-kitty.json) |
 | My Hero One's Justice 2: Cheerleader Costumes Bundle | 259811 | [259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json](./259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json) |
 | My Hero One's Justice 2: Deluxe Edition | 136286 | [136286-my-hero-ones-justice-2-deluxe-edition.json](./136286-my-hero-ones-justice-2-deluxe-edition.json) |
 | My Hero One's Justice 2: DLC Pack 1 - Hawks | 168260 | [168260-my-hero-ones-justice-2-dlc-pack-1-hawks.json](./168260-my-hero-ones-justice-2-dlc-pack-1-hawks.json) |
@@ -10635,6 +10641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Chronicles | 10945 | [10945-mystic-chronicles.json](./10945-mystic-chronicles.json) |
 | Mystic Defender | 27989 | [27989-mystic-defender.json](./27989-mystic-defender.json) |
 | Mystic Diary: Lost Brother | 32216 | [32216-mystic-diary-lost-brother.json](./32216-mystic-diary-lost-brother.json) |
+| Mystic Duel: Heroes Realm | 299419 | [299419-mystic-duel-heroes-realm.json](./299419-mystic-duel-heroes-realm.json) |
 | Mystic Escape: Diary of a Prisoner | 130171 | [130171-mystic-escape-diary-of-a-prisoner.json](./130171-mystic-escape-diary-of-a-prisoner.json) |
 | Mystic Explorer | 316642 | [316642-mystic-explorer.json](./316642-mystic-explorer.json) |
 | Mystic Fishing: A Fantasy Fishing RPG | 356077 | [356077-mystic-fishing-a-fantasy-fishing-rpg.json](./356077-mystic-fishing-a-fantasy-fishing-rpg.json) |
