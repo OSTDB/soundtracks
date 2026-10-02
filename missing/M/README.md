@@ -6048,9 +6048,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Jurassic World Adventures | 285053 | [285053-minecraft-jurassic-world-adventures.json](./285053-minecraft-jurassic-world-adventures.json) |
 | Minecraft: Kung Fu Panda | 299203 | [299203-minecraft-kung-fu-panda.json](./299203-minecraft-kung-fu-panda.json) |
 | Minecraft: Legends | 204621 | [204621-minecraft-legends.json](./204621-minecraft-legends.json) |
+| Minecraft: Minecon 2015 Skin Pack | 301522 | [301522-minecraft-minecon-2015-skin-pack.json](./301522-minecraft-minecon-2015-skin-pack.json) |
 | Minecraft: Minecon 2016 Skin Pack | 255328 | [255328-minecraft-minecon-2016-skin-pack.json](./255328-minecraft-minecon-2016-skin-pack.json) |
 | Minecraft: Minecon Live - Rush Race! | 315515 | [315515-minecraft-minecon-live-rush-race.json](./315515-minecraft-minecon-live-rush-race.json) |
 | Minecraft: Minecraft Legends Skin Pack | 307731 | [307731-minecraft-minecraft-legends-skin-pack.json](./307731-minecraft-minecraft-legends-skin-pack.json) |
+| Minecraft: Minecraft Story Mode Skin Pack | 301521 | [301521-minecraft-minecraft-story-mode-skin-pack.json](./301521-minecraft-minecraft-story-mode-skin-pack.json) |
 | Minecraft: Mini Game Heroes Skin Pack | 302603 | [302603-minecraft-mini-game-heroes-skin-pack.json](./302603-minecraft-mini-game-heroes-skin-pack.json) |
 | Minecraft: Mini Game Masters | 307747 | [307747-minecraft-mini-game-masters.json](./307747-minecraft-mini-game-masters.json) |
 | Minecraft: Moana Character Pack | 254491 | [254491-minecraft-moana-character-pack.json](./254491-minecraft-moana-character-pack.json) |
@@ -10332,6 +10334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Uncle Merlin | 76236 | [76236-my-uncle-merlin.json](./76236-my-uncle-merlin.json) |
 | My Uncle Merlin: A Tale of Wizards in Space | 77918 | [77918-my-uncle-merlin-a-tale-of-wizards-in-space.json](./77918-my-uncle-merlin-a-tale-of-wizards-in-space.json) |
 | My Uncle's Garden | 229776 | [229776-my-uncles-garden.json](./229776-my-uncles-garden.json) |
+| My Universe Discovery Collection 2 | 301535 | [301535-my-universe-discovery-collection-2.json](./301535-my-universe-discovery-collection-2.json) |
 | My Universe: Cooking Star Restaurant | 139863 | [139863-my-universe-cooking-star-restaurant.json](./139863-my-universe-cooking-star-restaurant.json) |
 | My Universe: Fashion Boutique | 139215 | [139215-my-universe-fashion-boutique.json](./139215-my-universe-fashion-boutique.json) |
 | My Universe: My Baby - New Edition | 170028 | [170028-my-universe-my-baby-new-edition.json](./170028-my-universe-my-baby-new-edition.json) |
