@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake II Mission Pack: The Reckoning | 15620 | [15620-quake-ii-mission-pack-the-reckoning.json](./15620-quake-ii-mission-pack-the-reckoning.json) |
 | Quake II: Colossus | 200673 | [200673-quake-ii-colossus.json](./200673-quake-ii-colossus.json) |
 | Quake II: Quad Damage | 46628 | [46628-quake-ii-quad-damage.json](./46628-quake-ii-quad-damage.json) |
+| Quake II: Sewer Jam Volume 1 | 299383 | [299383-quake-ii-sewer-jam-volume-1.json](./299383-quake-ii-sewer-jam-volume-1.json) |
 | Quake III: Revolution | 43673 | [43673-quake-iii-revolution.json](./43673-quake-iii-revolution.json) |
 | Quake Live | 6578 | [6578-quake-live.json](./6578-quake-live.json) |
 | Quake Upstart Mapping Project 2017 | 322055 | [322055-quake-upstart-mapping-project-2017.json](./322055-quake-upstart-mapping-project-2017.json) |
