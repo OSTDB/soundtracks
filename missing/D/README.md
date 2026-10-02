@@ -523,6 +523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangeresque: The Roomisode Triungulate | 250906 | [250906-dangeresque-the-roomisode-triungulate.json](./250906-dangeresque-the-roomisode-triungulate.json) |
 | Dangerous | 197646 | [197646-dangerous.json](./197646-dangerous.json) |
 | Dangerous adventure | 284996 | [284996-dangerous-adventure.json](./284996-dangerous-adventure.json) |
+| Dangerous Arena | 294945 | [294945-dangerous-arena.json](./294945-dangerous-arena.json) |
 | Dangerous Blaster | 126617 | [126617-dangerous-blaster.json](./126617-dangerous-blaster.json) |
 | Dangerous Coins | 278706 | [278706-dangerous-coins.json](./278706-dangerous-coins.json) |
 | Dangerous Dave GS | 11385 | [11385-dangerous-dave-gs.json](./11385-dangerous-dave-gs.json) |
@@ -902,6 +903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Souls: Artorias of the Abyss Edition | 136857 | [136857-dark-souls-artorias-of-the-abyss-edition.json](./136857-dark-souls-artorias-of-the-abyss-edition.json) |
 | Dark Souls: Collector's Edition | 44607 | [44607-dark-souls-collectors-edition.json](./44607-dark-souls-collectors-edition.json) |
 | Dark Souls: Prepare to Die Edition | 21040 | [21040-dark-souls-prepare-to-die-edition.json](./21040-dark-souls-prepare-to-die-edition.json) |
+| Dark Spirit | 294948 | [294948-dark-spirit.json](./294948-dark-spirit.json) |
 | Dark Star | 134598 | [134598-dark-star.json](./134598-dark-star.json) |
 | Dark Static | 362886 | [362886-dark-static.json](./362886-dark-static.json) |
 | Dark Stories | 311685 | [311685-dark-stories.json](./311685-dark-stories.json) |
@@ -1992,6 +1994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadpool Hardcore Edition | 338851 | [338851-deadpool-hardcore-edition.json](./338851-deadpool-hardcore-edition.json) |
 | Deadrigger | 13837 | [13837-deadrigger.json](./13837-deadrigger.json) |
 | Deadrock Divide | 63007 | [63007-deadrock-divide.json](./63007-deadrock-divide.json) |
+| Deadrock Redemption | 294962 | [294962-deadrock-redemption.json](./294962-deadrock-redemption.json) |
 | Deadrock Salvation | 382752 | [382752-deadrock-salvation.json](./382752-deadrock-salvation.json) |
 | DeadRoot | 404919 | [404919-deadroot.json](./404919-deadroot.json) |
 | Deadrop | 210684 | [210684-deadrop.json](./210684-deadrop.json) |
@@ -2300,6 +2303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeathWorm | 234941 | [234941-deathworm.json](./234941-deathworm.json) |
 | Debasing Grounds | 286682 | [286682-debasing-grounds.json](./286682-debasing-grounds.json) |
 | Debbie's Diner Derby | 394889 | [394889-debbies-diner-derby.json](./394889-debbies-diner-derby.json) |
+| Deber | 294931 | [294931-deber.json](./294931-deber.json) |
 | Debrecen | 312921 | [312921-debrecen.json](./312921-debrecen.json) |
 | Debris | 150097 | [150097-debris.json](./150097-debris.json) |
 | Debris | 52017 | [52017-debris.json](./52017-debris.json) |
