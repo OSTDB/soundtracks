@@ -1238,6 +1238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watership Down | 398498 | [398498-watership-down.json](./398498-watership-down.json) |
 | Watertight | 355567 | [355567-watertight.json](./355567-watertight.json) |
 | Waterworld | 338817 | [338817-waterworld.json](./338817-waterworld.json) |
+| Watris | 306037 | [306037-watris.json](./306037-watris.json) |
 | Watson's Watch | 33477 | [33477-watsons-watch.json](./33477-watsons-watch.json) |
 | Watsonville | 401076 | [401076-watsonville.json](./401076-watsonville.json) |
 | WattGames | 298138 | [298138-wattgames.json](./298138-wattgames.json) |
