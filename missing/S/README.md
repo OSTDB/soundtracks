@@ -6185,6 +6185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyfox II: The Cygnus Conflict | 55086 | [55086-skyfox-ii-the-cygnus-conflict.json](./55086-skyfox-ii-the-cygnus-conflict.json) |
 | SkyGameChanger-AirCombat II- | 114812 | [114812-skygamechanger-aircombat-ii.json](./114812-skygamechanger-aircombat-ii.json) |
 | Skygard Arena | 255650 | [255650-skygard-arena.json](./255650-skygard-arena.json) |
+| Skygerfall | 316726 | [316726-skygerfall.json](./316726-skygerfall.json) |
 | Skyguard 0: Air Arcade | 259097 | [259097-skyguard-0-air-arcade.json](./259097-skyguard-0-air-arcade.json) |
 | Skyhammer | 40807 | [40807-skyhammer.json](./40807-skyhammer.json) |
 | SKYHILL: Black Mist | 117770 | [117770-skyhill-black-mist.json](./117770-skyhill-black-mist.json) |
@@ -10817,6 +10818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splatoon 2 | 26761 | [26761-splatoon-2.json](./26761-splatoon-2.json) |
 | Splatoon 2 + Splatoon 2 Octo Expansion Bundle | 136382 | [136382-splatoon-2-splatoon-2-octo-expansion-bundle.json](./136382-splatoon-2-splatoon-2-octo-expansion-bundle.json) |
 | Splatoon Raiders | 348977 | [348977-splatoon-raiders.json](./348977-splatoon-raiders.json) |
+| Splatoon: Torrential Climb | 316713 | [316713-splatoon-torrential-climb.json](./316713-splatoon-torrential-climb.json) |
 | Splatt Curling | 261224 | [261224-splatt-curling.json](./261224-splatt-curling.json) |
 | Splatterbot | 297007 | [297007-splatterbot.json](./297007-splatterbot.json) |
 | Splatterhouse | 6929 | [6929-splatterhouse.json](./6929-splatterhouse.json) |
@@ -11153,6 +11155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprout Valley: Friends Forever | 332505 | [332505-sprout-valley-friends-forever.json](./332505-sprout-valley-friends-forever.json) |
 | Sprout Valley: Friends Forever Expansion | 332526 | [332526-sprout-valley-friends-forever-expansion.json](./332526-sprout-valley-friends-forever-expansion.json) |
 | Sprout Valley: Nico's Skins | 316247 | [316247-sprout-valley-nicos-skins.json](./316247-sprout-valley-nicos-skins.json) |
+| Sprout Valley: Spray Paint | 317291 | [317291-sprout-valley-spray-paint.json](./317291-sprout-valley-spray-paint.json) |
 | SproutBound | 368152 | [368152-sproutbound.json](./368152-sproutbound.json) |
 | Sprouting Depths | 358932 | [358932-sprouting-depths.json](./358932-sprouting-depths.json) |
 | Sproutmart: Farm & Grocery Sim | 356298 | [356298-sproutmart-farm-and-grocery-sim.json](./356298-sproutmart-farm-and-grocery-sim.json) |
@@ -11995,6 +11998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Hunters | 143611 | [143611-star-wars-hunters.json](./143611-star-wars-hunters.json) |
 | Star Wars: Hunters - Frosty Nerf Herder Cosmetic Pack | 328991 | [328991-star-wars-hunters-frosty-nerf-herder-cosmetic-pack.json](./328991-star-wars-hunters-frosty-nerf-herder-cosmetic-pack.json) |
 | Star Wars: Hunters - Gorax Fury Cosmetic Pack | 324394 | [324394-star-wars-hunters-gorax-fury-cosmetic-pack.json](./324394-star-wars-hunters-gorax-fury-cosmetic-pack.json) |
+| Star Wars: Hunters - Season 2: Empire Resurgent | 317322 | [317322-star-wars-hunters-season-2-empire-resurgent.json](./317322-star-wars-hunters-season-2-empire-resurgent.json) |
 | Star Wars: Hunters - Season 4: Survival Instinct | 347673 | [347673-star-wars-hunters-season-4-survival-instinct.json](./347673-star-wars-hunters-season-4-survival-instinct.json) |
 | Star Wars: Hunters - Season 5: Scum & Villainy | 347677 | [347677-star-wars-hunters-season-5-scum-and-villainy.json](./347677-star-wars-hunters-season-5-scum-and-villainy.json) |
 | Star Wars: Imperial Assault | 198919 | [198919-star-wars-imperial-assault.json](./198919-star-wars-imperial-assault.json) |
@@ -12192,6 +12196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stargate | 245393 | [245393-stargate.json](./245393-stargate.json) |
 | Stargate | 346142 | [346142-stargate.json](./346142-stargate.json) |
 | Stargate Bullet | 379896 | [379896-stargate-bullet.json](./379896-stargate-bullet.json) |
+| Stargate Network | 316724 | [316724-stargate-network.json](./316724-stargate-network.json) |
 | Stargate Online TCG | 21529 | [21529-stargate-online-tcg.json](./21529-stargate-online-tcg.json) |
 | Stargate SG-1 | 280286 | [280286-stargate-sg-1.json](./280286-stargate-sg-1.json) |
 | Stargate SG-1: Entropy Syndrome | 280284 | [280284-stargate-sg-1-entropy-syndrome.json](./280284-stargate-sg-1-entropy-syndrome.json) |
@@ -12969,6 +12974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sterile | 354590 | [354590-sterile.json](./354590-sterile.json) |
 | Stern Pinball Arcade | 30288 | [30288-stern-pinball-arcade.json](./30288-stern-pinball-arcade.json) |
 | Stern Pinball Arcade: AC/DC | 161229 | [161229-stern-pinball-arcade-ac-dc.json](./161229-stern-pinball-arcade-ac-dc.json) |
+| Stern Pinball Arcade: AC/DC Premium | 317290 | [317290-stern-pinball-arcade-ac-dc-premium.json](./317290-stern-pinball-arcade-ac-dc-premium.json) |
 | Stern Pinball Arcade: Ghostbusters Premium | 161232 | [161232-stern-pinball-arcade-ghostbusters-premium.json](./161232-stern-pinball-arcade-ghostbusters-premium.json) |
 | Stern Pinball Arcade: Harley-Davidson | 161230 | [161230-stern-pinball-arcade-harley-davidson.json](./161230-stern-pinball-arcade-harley-davidson.json) |
 | Stern Pinball Arcade: High Roller Casino | 161233 | [161233-stern-pinball-arcade-high-roller-casino.json](./161233-stern-pinball-arcade-high-roller-casino.json) |
@@ -16484,6 +16490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supernatural Story | 129714 | [129714-supernatural-story.json](./129714-supernatural-story.json) |
 | Supernatural Sweethearts | 206951 | [206951-supernatural-sweethearts.json](./206951-supernatural-sweethearts.json) |
 | Supernatural Visual Novel: The Fourteenth Guzai Vol. 1 & 2 | 373524 | [373524-supernatural-visual-novel-the-fourteenth-guzai-vol-1-and-2.json](./373524-supernatural-visual-novel-the-fourteenth-guzai-vol-1-and-2.json) |
+| Supernatural: The Game | 316718 | [316718-supernatural-the-game.json](./316718-supernatural-the-game.json) |
 | Supernaturals | 66358 | [66358-supernaturals.json](./66358-supernaturals.json) |
 | Supernormal | 278716 | [278716-supernormal.json](./278716-supernormal.json) |
 | Supernova | 11463 | [11463-supernova.json](./11463-supernova.json) |
@@ -16829,6 +16836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivors of the Dawn | 236928 | [236928-survivors-of-the-dawn.json](./236928-survivors-of-the-dawn.json) |
 | Survivors of the Mare Vitalis | 267434 | [267434-survivors-of-the-mare-vitalis.json](./267434-survivors-of-the-mare-vitalis.json) |
 | Survivors of the Plague | 259597 | [259597-survivors-of-the-plague.json](./259597-survivors-of-the-plague.json) |
+| Survivors of the Three Kingdoms | 316676 | [316676-survivors-of-the-three-kingdoms.json](./316676-survivors-of-the-three-kingdoms.json) |
 | Survivors Of The Zombie World | 338294 | [338294-survivors-of-the-zombie-world.json](./338294-survivors-of-the-zombie-world.json) |
 | Survivors of Xcalibur | 334852 | [334852-survivors-of-xcalibur.json](./334852-survivors-of-xcalibur.json) |
 | Survivors SymphonYs | 345007 | [345007-survivors-symphonys.json](./345007-survivors-symphonys.json) |
