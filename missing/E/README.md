@@ -768,6 +768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggs Must Flow | 414592 | [414592-eggs-must-flow.json](./414592-eggs-must-flow.json) |
 | Eggs Never Hurt | 410304 | [410304-eggs-never-hurt.json](./410304-eggs-never-hurt.json) |
 | Eggs of Steel: Charlie's Eggcellent Adventure | 68023 | [68023-eggs-of-steel-charlies-eggcellent-adventure.json](./68023-eggs-of-steel-charlies-eggcellent-adventure.json) |
+| Eggs: All Guns Broken | 316155 | [316155-eggs-all-guns-broken.json](./316155-eggs-all-guns-broken.json) |
 | Eggscape | 351688 | [351688-eggscape.json](./351688-eggscape.json) |
 | EggSort | 261316 | [261316-eggsort.json](./261316-eggsort.json) |
 | Eggstinct! | 392254 | [392254-eggstinct.json](./392254-eggstinct.json) |
@@ -1228,6 +1229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elithian Races Mod | 280270 | [280270-elithian-races-mod.json](./280270-elithian-races-mod.json) |
 | Elitserien 96 | 45560 | [45560-elitserien-96.json](./45560-elitserien-96.json) |
 | Elixir | 145607 | [145607-elixir.json](./145607-elixir.json) |
+| Elixir Emporium | 317297 | [317297-elixir-emporium.json](./317297-elixir-emporium.json) |
 | Elixir of Life | 151098 | [151098-elixir-of-life.json](./151098-elixir-of-life.json) |
 | Elixirs | 274561 | [274561-elixirs.json](./274561-elixirs.json) |
 | Eliza | 345129 | [345129-eliza.json](./345129-eliza.json) |
@@ -2443,6 +2445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Irene | 329565 | [329565-escape-from-irene.json](./329565-escape-from-irene.json) |
 | Escape from Irene: Parasite | 370856 | [370856-escape-from-irene-parasite.json](./370856-escape-from-irene-parasite.json) |
 | Escape from Island | 313502 | [313502-escape-from-island.json](./313502-escape-from-island.json) |
+| Escape From Island | 317331 | [317331-escape-from-island.json](./317331-escape-from-island.json) |
 | Escape From Ithara | 224559 | [224559-escape-from-ithara.json](./224559-escape-from-ithara.json) |
 | Escape from Jay Is Games | 103169 | [103169-escape-from-jay-is-games.json](./103169-escape-from-jay-is-games.json) |
 | Escape from Khoshima | 12994 | [12994-escape-from-khoshima.json](./12994-escape-from-khoshima.json) |
