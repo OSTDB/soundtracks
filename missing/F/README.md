@@ -674,6 +674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling with Ice Phoenix!: Cozy Version | 387625 | [387625-falling-with-ice-phoenix-cozy-version.json](./387625-falling-with-ice-phoenix-cozy-version.json) |
 | Fallingstar | 177865 | [177865-fallingstar.json](./177865-fallingstar.json) |
 | FallMan | 60560 | [60560-fallman.json](./60560-fallman.json) |
+| FallNation Lost Stories | 294941 | [294941-fallnation-lost-stories.json](./294941-fallnation-lost-stories.json) |
 | Fallout 3: Game of the Year Edition | 21892 | [21892-fallout-3-game-of-the-year-edition.json](./21892-fallout-3-game-of-the-year-edition.json) |
 | Fallout 3: Mothership Zeta | 10300 | [10300-fallout-3-mothership-zeta.json](./10300-fallout-3-mothership-zeta.json) |
 | Fallout 3: Point Lookout | 10302 | [10302-fallout-3-point-lookout.json](./10302-fallout-3-point-lookout.json) |
@@ -1853,6 +1854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fell Seal: Arbiter's Mark | 55771 | [55771-fell-seal-arbiters-mark.json](./55771-fell-seal-arbiters-mark.json) |
 | Fell Seal: Arbiter's Mark - Missions and Monsters | 154969 | [154969-fell-seal-arbiters-mark-missions-and-monsters.json](./154969-fell-seal-arbiters-mark-missions-and-monsters.json) |
 | Fellas | 408143 | [408143-fellas.json](./408143-fellas.json) |
+| FellaTrain | 294968 | [294968-fellatrain.json](./294968-fellatrain.json) |
 | Fellow Moon | 320855 | [320855-fellow-moon.json](./320855-fellow-moon.json) |
 | Fellowship | 330379 | [330379-fellowship.json](./330379-fellowship.json) |
 | Felon-E | 302356 | [302356-felon-e.json](./302356-felon-e.json) |
