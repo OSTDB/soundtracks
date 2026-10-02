@@ -251,6 +251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life 2: VR Mod - Episode Two | 243119 | [243119-half-life-2-vr-mod-episode-two.json](./243119-half-life-2-vr-mod-episode-two.json) |
 | Half-Life 3 | 28029 | [28029-half-life-3.json](./28029-half-life-3.json) |
 | Half-Life Alyx NoVR | 255791 | [255791-half-life-alyx-novr.json](./255791-half-life-alyx-novr.json) |
+| Half-Life FX: Single | 323781 | [323781-half-life-fx-single.json](./323781-half-life-fx-single.json) |
 | Half-Life ZDoom | 255673 | [255673-half-life-zdoom.json](./255673-half-life-zdoom.json) |
 | Half-Life: Beyond | 329025 | [329025-half-life-beyond.json](./329025-half-life-beyond.json) |
 | Half-Life: C.A.G.E.D. | 127914 | [127914-half-life-c-a-g-e-d.json](./127914-half-life-c-a-g-e-d.json) |
@@ -4084,6 +4085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hizca | 348929 | [348929-hizca.json](./348929-hizca.json) |
 | Hjarta | 169985 | [169985-hjarta.json](./169985-hjarta.json) |
 | HK Project | 57890 | [57890-hk-project.json](./57890-hk-project.json) |
+| HLFX: Lost in Black Mesa | 323780 | [323780-hlfx-lost-in-black-mesa.json](./323780-hlfx-lost-in-black-mesa.json) |
 | Hlina | 244996 | [244996-hlina.json](./244996-hlina.json) |
 | Hlína | 335501 | [335501-hlina.json](./335501-hlina.json) |
 | Hmph! Hmph! Yowai | 289454 | [289454-hmph-hmph-yowai.json](./289454-hmph-hmph-yowai.json) |
@@ -5728,6 +5730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hundred Soul: The Last Savior | 174678 | [174678-hundred-soul-the-last-savior.json](./174678-hundred-soul-the-last-savior.json) |
 | Hundredth | 208036 | [208036-hundredth.json](./208036-hundredth.json) |
 | Hùndùn Zhàn Yù | 367428 | [367428-hundun-zhan-yu.json](./367428-hundun-zhan-yu.json) |
+| Hunger | 323785 | [323785-hunger.json](./323785-hunger.json) |
 | Hunger | 41954 | [41954-hunger.json](./41954-hunger.json) |
 | Hunger Apartment | 113677 | [113677-hunger-apartment.json](./113677-hunger-apartment.json) |
 | Hunger Crunch | 233210 | [233210-hunger-crunch.json](./233210-hunger-crunch.json) |
