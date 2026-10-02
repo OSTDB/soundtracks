@@ -285,10 +285,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Cutie | 411724 | [411724-call-of-cutie.json](./411724-call-of-cutie.json) |
 | Call of Dookie | 274544 | [274544-call-of-dookie.json](./274544-call-of-dookie.json) |
 | Call of Duty 2 | 119160 | [119160-call-of-duty-2.json](./119160-call-of-duty-2.json) |
+| Call of Duty 2: Collector's Edition | 292790 | [292790-call-of-duty-2-collectors-edition.json](./292790-call-of-duty-2-collectors-edition.json) |
+| Call of Duty 2: Game of the Year Edition | 292789 | [292789-call-of-duty-2-game-of-the-year-edition.json](./292789-call-of-duty-2-game-of-the-year-edition.json) |
 | Call of Duty 3: Gold Edition | 47466 | [47466-call-of-duty-3-gold-edition.json](./47466-call-of-duty-3-gold-edition.json) |
 | Call of Duty 4: Modern Warfare | 135294 | [135294-call-of-duty-4-modern-warfare.json](./135294-call-of-duty-4-modern-warfare.json) |
 | Call of Duty 4: Modern Warfare - Game of the Year Edition | 290723 | [290723-call-of-duty-4-modern-warfare-game-of-the-year-edition.json](./290723-call-of-duty-4-modern-warfare-game-of-the-year-edition.json) |
 | Call of Duty 4: Modern Warfare - Limited Collector's Edition | 286606 | [286606-call-of-duty-4-modern-warfare-limited-collectors-edition.json](./286606-call-of-duty-4-modern-warfare-limited-collectors-edition.json) |
+| Call of Duty 4: Modern Warfare - Variety Map Pack | 292781 | [292781-call-of-duty-4-modern-warfare-variety-map-pack.json](./292781-call-of-duty-4-modern-warfare-variety-map-pack.json) |
 | Call of Duty 4: Promod | 250316 | [250316-call-of-duty-4-promod.json](./250316-call-of-duty-4-promod.json) |
 | Call of Duty 4: Survival Mode | 299136 | [299136-call-of-duty-4-survival-mode.json](./299136-call-of-duty-4-survival-mode.json) |
 | Call of Duty Endowment (C.O.D.E.) Knight Recon: Tracer Pack | 310052 | [310052-call-of-duty-endowment-c-o-d-e-knight-recon-tracer-pack.json](./310052-call-of-duty-endowment-c-o-d-e-knight-recon-tracer-pack.json) |
@@ -327,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Definitive Collection - Volume 1 | 52718 | [52718-call-of-duty-definitive-collection-volume-1.json](./52718-call-of-duty-definitive-collection-volume-1.json) |
 | Call of Duty: Endowment (C.O.D.E.) Warrior Pack | 276273 | [276273-call-of-duty-endowment-c-o-d-e-warrior-pack.json](./276273-call-of-duty-endowment-c-o-d-e-warrior-pack.json) |
 | Call of Duty: Future Warfare | 294871 | [294871-call-of-duty-future-warfare.json](./294871-call-of-duty-future-warfare.json) |
+| Call of Duty: Game of the Year Edition | 292788 | [292788-call-of-duty-game-of-the-year-edition.json](./292788-call-of-duty-game-of-the-year-edition.json) |
 | Call of Duty: Ghosts - Digital Hardened Edition | 240504 | [240504-call-of-duty-ghosts-digital-hardened-edition.json](./240504-call-of-duty-ghosts-digital-hardened-edition.json) |
 | Call of Duty: Ghosts - Gold Edition | 100000 | [100000-call-of-duty-ghosts-gold-edition.json](./100000-call-of-duty-ghosts-gold-edition.json) |
 | Call of Duty: Ghosts - Invasion | 20870 | [20870-call-of-duty-ghosts-invasion.json](./20870-call-of-duty-ghosts-invasion.json) |
@@ -2758,6 +2762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Manager: End of Season Edition | 73351 | [73351-championship-manager-end-of-season-edition.json](./73351-championship-manager-end-of-season-edition.json) |
 | Championship Manager: Season 03/04 | 628 | [628-championship-manager-season-03-04.json](./628-championship-manager-season-03-04.json) |
 | Championship Manager: Season 97/98 | 50125 | [50125-championship-manager-season-97-98.json](./50125-championship-manager-season-97-98.json) |
+| Championship Motocross 2001 featuring Ricky Carmichael | 292793 | [292793-championship-motocross-2001-featuring-ricky-carmichael.json](./292793-championship-motocross-2001-featuring-ricky-carmichael.json) |
 | Championship Motocross 2001 featuring Ricky Carmichael | 76978 | [76978-championship-motocross-2001-featuring-ricky-carmichael.json](./76978-championship-motocross-2001-featuring-ricky-carmichael.json) |
 | Championship Motocross featuring Ricky Carmichael | 44830 | [44830-championship-motocross-featuring-ricky-carmichael.json](./44830-championship-motocross-featuring-ricky-carmichael.json) |
 | Championship Pool | 307111 | [307111-championship-pool.json](./307111-championship-pool.json) |
@@ -6570,6 +6575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conniption: Paranoia | 217392 | [217392-conniption-paranoia.json](./217392-conniption-paranoia.json) |
 | Connor | 218145 | [218145-connor.json](./218145-connor.json) |
 | ConOps21: Subversion Protocol | 403782 | [403782-conops21-subversion-protocol.json](./403782-conops21-subversion-protocol.json) |
+| Conor Origins: T Trilogy | 292751 | [292751-conor-origins-t-trilogy.json](./292751-conor-origins-t-trilogy.json) |
 | Conquela | 286605 | [286605-conquela.json](./286605-conquela.json) |
 | Conquer City Wars | 100333 | [100333-conquer-city-wars.json](./100333-conquer-city-wars.json) |
 | Conquer Lands | 372464 | [372464-conquer-lands.json](./372464-conquer-lands.json) |
@@ -7108,6 +7114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corgi | 202671 | [202671-corgi.json](./202671-corgi.json) |
 | Corgi in the Box | 273372 | [273372-corgi-in-the-box.json](./273372-corgi-in-the-box.json) |
 | Corgi Memory | 62694 | [62694-corgi-memory.json](./62694-corgi-memory.json) |
+| Corgi Race | 292773 | [292773-corgi-race.json](./292773-corgi-race.json) |
 | Corgi Simulator | 128588 | [128588-corgi-simulator.json](./128588-corgi-simulator.json) |
 | Corgi Snow Day | 178579 | [178579-corgi-snow-day.json](./178579-corgi-snow-day.json) |
 | Corgix | 138698 | [138698-corgix.json](./138698-corgix.json) |
