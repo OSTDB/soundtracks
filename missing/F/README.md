@@ -1460,6 +1460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Food Shop Online | 212225 | [212225-fast-food-shop-online.json](./212225-fast-food-shop-online.json) |
 | Fast Food Tycoon | 8912 | [8912-fast-food-tycoon.json](./8912-fast-food-tycoon.json) |
 | Fast Food Tycoon Simulator | 353959 | [353959-fast-food-tycoon-simulator.json](./353959-fast-food-tycoon-simulator.json) |
+| Fast Food: Restaurant Simulator | 310138 | [310138-fast-food-restaurant-simulator.json](./310138-fast-food-restaurant-simulator.json) |
 | Fast Fox | 152198 | [152198-fast-fox.json](./152198-fast-fox.json) |
 | Fast Freddie | 46795 | [46795-fast-freddie.json](./46795-fast-freddie.json) |
 | Fast Gear | 358998 | [358998-fast-gear.json](./358998-fast-gear.json) |
@@ -2335,6 +2336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Filluminate | 401768 | [401768-filluminate.json](./401768-filluminate.json) |
 | Filly Fantasy VI | 312347 | [312347-filly-fantasy-vi.json](./312347-filly-fantasy-vi.json) |
 | Film Fatale: Lights, Camera, Madness! | 125383 | [125383-film-fatale-lights-camera-madness.json](./125383-film-fatale-lights-camera-madness.json) |
+| Film Morbid | 310115 | [310115-film-morbid.json](./310115-film-morbid.json) |
 | Film Studio Manager | 241298 | [241298-film-studio-manager.json](./241298-film-studio-manager.json) |
 | Filsnown: Hikari to Toki | 247506 | [247506-filsnown-hikari-to-toki.json](./247506-filsnown-hikari-to-toki.json) |
 | Filthbreed | 140541 | [140541-filthbreed.json](./140541-filthbreed.json) |
