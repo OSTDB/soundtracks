@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obversion | 120388 | [120388-obversion.json](./120388-obversion.json) |
 | Ocarina of Time Redux | 172478 | [172478-ocarina-of-time-redux.json](./172478-ocarina-of-time-redux.json) |
 | Ocarina of Time: Master Quest Redux | 172480 | [172480-ocarina-of-time-master-quest-redux.json](./172480-ocarina-of-time-master-quest-redux.json) |
+| Ocaso | 278612 | [278612-ocaso.json](./278612-ocaso.json) |
 | Occidental Heroes | 388012 | [388012-occidental-heroes.json](./388012-occidental-heroes.json) |
 | Occult | 153954 | [153954-occult.json](./153954-occult.json) |
 | Occult Chambers | 235186 | [235186-occult-chambers.json](./235186-occult-chambers.json) |
@@ -1267,6 +1268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Night: Burlesque - Amazing Edition | 313142 | [313142-one-night-burlesque-amazing-edition.json](./313142-one-night-burlesque-amazing-edition.json) |
 | One Night: Burlesque - Angels Pack | 324408 | [324408-one-night-burlesque-angels-pack.json](./324408-one-night-burlesque-angels-pack.json) |
 | One Night: Burlesque - Complete + | 324446 | [324446-one-night-burlesque-complete.json](./324446-one-night-burlesque-complete.json) |
+| One Night: Burlesque - Deluxe Edition | 278646 | [278646-one-night-burlesque-deluxe-edition.json](./278646-one-night-burlesque-deluxe-edition.json) |
 | One Night: Burlesque - Director's Cut | 304790 | [304790-one-night-burlesque-directors-cut.json](./304790-one-night-burlesque-directors-cut.json) |
 | One Night: Burlesque - Extended Edition | 283167 | [283167-one-night-burlesque-extended-edition.json](./283167-one-night-burlesque-extended-edition.json) |
 | One Night: Burlesque - GOTY Edition | 308790 | [308790-one-night-burlesque-goty-edition.json](./308790-one-night-burlesque-goty-edition.json) |
