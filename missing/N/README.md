@@ -2798,6 +2798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitro Nation: Drag Racing | 233762 | [233762-nitro-nation-drag-racing.json](./233762-nitro-nation-drag-racing.json) |
 | Nitro Rally Evolution | 234008 | [234008-nitro-rally-evolution.json](./234008-nitro-rally-evolution.json) |
 | Nitro Royale -Heroines Duel- | 70685 | [70685-nitro-royale-heroines-duel.json](./70685-nitro-royale-heroines-duel.json) |
+| Nitro Street Run 2 | 300349 | [300349-nitro-street-run-2.json](./300349-nitro-street-run-2.json) |
 | Nitro Thrash | 408082 | [408082-nitro-thrash.json](./408082-nitro-thrash.json) |
 | Nitro: Stream Racing | 231860 | [231860-nitro-stream-racing.json](./231860-nitro-stream-racing.json) |
 | Nitrokill | 390817 | [390817-nitrokill.json](./390817-nitrokill.json) |
