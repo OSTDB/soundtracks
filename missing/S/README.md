@@ -2385,6 +2385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeds of Chaos | 138017 | [138017-seeds-of-chaos.json](./138017-seeds-of-chaos.json) |
 | Seeds of Hope: The Last Stand | 184561 | [184561-seeds-of-hope-the-last-stand.json](./184561-seeds-of-hope-the-last-stand.json) |
 | Seeds of Love | 120204 | [120204-seeds-of-love.json](./120204-seeds-of-love.json) |
+| Seeds of Paradise | 296607 | [296607-seeds-of-paradise.json](./296607-seeds-of-paradise.json) |
 | Seeds of Power Bundle: Weedcraft Inc & Cultist Simulator: Anthology | 331515 | [331515-seeds-of-power-bundle-weedcraft-inc-and-cultist-simulator-anthology.json](./331515-seeds-of-power-bundle-weedcraft-inc-and-cultist-simulator-anthology.json) |
 | Seeds of Unity | 196804 | [196804-seeds-of-unity.json](./196804-seeds-of-unity.json) |
 | Seedship | 178454 | [178454-seedship.json](./178454-seedship.json) |
@@ -2407,6 +2408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seekboss | 285513 | [285513-seekboss.json](./285513-seekboss.json) |
 | Seeker | 114385 | [114385-seeker.json](./114385-seeker.json) |
 | Seeker Eye | 413757 | [413757-seeker-eye.json](./413757-seeker-eye.json) |
+| Seeker Of Shadows | 296625 | [296625-seeker-of-shadows.json](./296625-seeker-of-shadows.json) |
 | Seeker of the Ruins | 331304 | [331304-seeker-of-the-ruins.json](./331304-seeker-of-the-ruins.json) |
 | Seeker Shrine | 399735 | [399735-seeker-shrine.json](./399735-seeker-shrine.json) |
 | Seekers Aeterna | 217339 | [217339-seekers-aeterna.json](./217339-seekers-aeterna.json) |
@@ -3090,7 +3092,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Game: Threesome - Episode 4 | 375268 | [375268-sex-game-threesome-episode-4.json](./375268-sex-game-threesome-episode-4.json) |
 | Sex Girlfriend Simulator | 189977 | [189977-sex-girlfriend-simulator.json](./189977-sex-girlfriend-simulator.json) |
 | Sex Goddess Punishment | 295371 | [295371-sex-goddess-punishment.json](./295371-sex-goddess-punishment.json) |
+| Sex Halloween | 296601 | [296601-sex-halloween.json](./296601-sex-halloween.json) |
 | Sex Hotel Simulator | 253312 | [253312-sex-hotel-simulator.json](./253312-sex-hotel-simulator.json) |
+| Sex Hotel Simulator 18+ | 296600 | [296600-sex-hotel-simulator-18.json](./296600-sex-hotel-simulator-18.json) |
 | Sex House: Orgy Party | 273658 | [273658-sex-house-orgy-party.json](./273658-sex-house-orgy-party.json) |
 | Sex in Space | 275709 | [275709-sex-in-space.json](./275709-sex-in-space.json) |
 | Sex Industry XXX | 311175 | [311175-sex-industry-xxx.json](./311175-sex-industry-xxx.json) |
@@ -10397,6 +10401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedway League | 54382 | [54382-speedway-league.json](./54382-speedway-league.json) |
 | Speedway Liga | 67675 | [67675-speedway-liga.json](./67675-speedway-liga.json) |
 | Speedway Ringer | 238627 | [238627-speedway-ringer.json](./238627-speedway-ringer.json) |
+| Speedway Survival | 296616 | [296616-speedway-survival.json](./296616-speedway-survival.json) |
 | Speedway Turbo: Car Racing Challenge | 304787 | [304787-speedway-turbo-car-racing-challenge.json](./304787-speedway-turbo-car-racing-challenge.json) |
 | Speedway/Tag | 92529 | [92529-speedway-tag.json](./92529-speedway-tag.json) |
 | Speedy 500 | 303110 | [303110-speedy-500.json](./303110-speedy-500.json) |
@@ -11732,6 +11737,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Conflict: Bark-2 | 310391 | [310391-star-conflict-bark-2.json](./310391-star-conflict-bark-2.json) |
 | Star Conflict: Bark-2 - Deluxe Edition | 310392 | [310392-star-conflict-bark-2-deluxe-edition.json](./310392-star-conflict-bark-2-deluxe-edition.json) |
 | Star Conflict: Classic Pirate Weapon Pack | 355155 | [355155-star-conflict-classic-pirate-weapon-pack.json](./355155-star-conflict-classic-pirate-weapon-pack.json) |
+| Star Conflict: Cor Vulnus | 296633 | [296633-star-conflict-cor-vulnus.json](./296633-star-conflict-cor-vulnus.json) |
+| Star Conflict: Cor Vulnus - Deluxe Edition | 296634 | [296634-star-conflict-cor-vulnus-deluxe-edition.json](./296634-star-conflict-cor-vulnus-deluxe-edition.json) |
 | Star Conflict: Custodian | 354419 | [354419-star-conflict-custodian.json](./354419-star-conflict-custodian.json) |
 | Star Conflict: Dyrnwyn | 357403 | [357403-star-conflict-dyrnwyn.json](./357403-star-conflict-dyrnwyn.json) |
 | Star Conflict: Edges of Risk - Stage one: Deluxe edition | 253434 | [253434-star-conflict-edges-of-risk-stage-one-deluxe-edition.json](./253434-star-conflict-edges-of-risk-stage-one-deluxe-edition.json) |
@@ -17254,6 +17261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Beach Holidays | 367567 | [367567-sweet-beach-holidays.json](./367567-sweet-beach-holidays.json) |
 | Sweet Bell Day: The Game | 123414 | [123414-sweet-bell-day-the-game.json](./123414-sweet-bell-day-the-game.json) |
 | Sweet Berry Crush | 55444 | [55444-sweet-berry-crush.json](./55444-sweet-berry-crush.json) |
+| Sweet Bitter | 296598 | [296598-sweet-bitter.json](./296598-sweet-bitter.json) |
 | Sweet Cafe | 239881 | [239881-sweet-cafe.json](./239881-sweet-cafe.json) |
 | Sweet Cafe | 385252 | [385252-sweet-cafe.json](./385252-sweet-cafe.json) |
 | Sweet Calamity | 350587 | [350587-sweet-calamity.json](./350587-sweet-calamity.json) |
