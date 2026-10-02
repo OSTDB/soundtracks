@@ -313,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenogears | 1346 | [1346-xenogears.json](./1346-xenogears.json) |
 | Xenogen | 381675 | [381675-xenogen.json](./381675-xenogen.json) |
 | Xenogunner | 98587 | [98587-xenogunner.json](./98587-xenogunner.json) |
+| Xenogunner Returns: Rule of Chaos | 316693 | [316693-xenogunner-returns-rule-of-chaos.json](./316693-xenogunner-returns-rule-of-chaos.json) |
 | Xenoids | 191203 | [191203-xenoids.json](./191203-xenoids.json) |
 | Xenomarine | 74260 | [74260-xenomarine.json](./74260-xenomarine.json) |
 | XenoMiner | 62728 | [62728-xenominer.json](./62728-xenominer.json) |
@@ -368,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xezi: Story Mode | 23861 | [23861-xezi-story-mode.json](./23861-xezi-story-mode.json) |
 | XF: Football Arena | 193869 | [193869-xf-football-arena.json](./193869-xf-football-arena.json) |
 | XG Blast! | 21254 | [21254-xg-blast.json](./21254-xg-blast.json) |
+| XGA | 316695 | [316695-xga.json](./316695-xga.json) |
 | XGun-Weapon Evolution | 31178 | [31178-xgun-weapon-evolution.json](./31178-xgun-weapon-evolution.json) |
 | Xi | 335683 | [335683-xi.json](./335683-xi.json) |
 | Xi (sai) Little | 37314 | [37314-xi-sai-little.json](./37314-xi-sai-little.json) |
@@ -382,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xiāngshān 31 Hào | 120938 | [120938-xiangshan-31-hao.json](./120938-xiangshan-31-hao.json) |
 | Xiàngsù Nányǒu Yǔyīn: Wánzhěng Bǎn | 161382 | [161382-xiangsu-nanyou-yuyin-wanzheng-ban.json](./161382-xiangsu-nanyou-yuyin-wanzheng-ban.json) |
 | Xiānjiànjué Wǎngluòbǎn | 161328 | [161328-xianjianjue-wangluoban.json](./161328-xianjianjue-wangluoban.json) |
+| Xiānxiá Díchén Lù | 316674 | [316674-xianxia-dichen-lu.json](./316674-xianxia-dichen-lu.json) |
 | Xiānyù | 113647 | [113647-xianyu.json](./113647-xianyu.json) |
 | Xiào Ào Jiānghú 2 Wàizhuàn: Dōngfāng Zàiqǐ | 184095 | [184095-xiao-ao-jianghu-2-waizhuan-dongfang-zaiqi.json](./184095-xiao-ao-jianghu-2-waizhuan-dongfang-zaiqi.json) |
 | Xiao La: Fantasy Dream | 272365 | [272365-xiao-la-fantasy-dream.json](./272365-xiao-la-fantasy-dream.json) |
