@@ -4351,6 +4351,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memoria | 132732 | [132732-memoria.json](./132732-memoria.json) |
 | Memoria | 191172 | [191172-memoria.json](./191172-memoria.json) |
 | Memoria | 196556 | [196556-memoria.json](./196556-memoria.json) |
+| Memória | 290085 | [290085-memoria.json](./290085-memoria.json) |
+| Memória 3D | 290076 | [290076-memoria-3d.json](./290076-memoria-3d.json) |
 | Memoria Project | 193969 | [193969-memoria-project.json](./193969-memoria-project.json) |
 | Memoria VR | 311793 | [311793-memoria-vr.json](./311793-memoria-vr.json) |
 | Memoria Wake | 348349 | [348349-memoria-wake.json](./348349-memoria-wake.json) |
@@ -8699,6 +8701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motion Soccer Pro | 320521 | [320521-motion-soccer-pro.json](./320521-motion-soccer-pro.json) |
 | Motion Wulin | 373515 | [373515-motion-wulin.json](./373515-motion-wulin.json) |
 | Motioning Monument | 314679 | [314679-motioning-monument.json](./314679-motioning-monument.json) |
+| Motionrec | 290075 | [290075-motionrec.json](./290075-motionrec.json) |
 | MotionSports: Adrenaline | 20215 | [20215-motionsports-adrenaline.json](./20215-motionsports-adrenaline.json) |
 | Motivo | 39759 | [39759-motivo.json](./39759-motivo.json) |
 | Moto Championship 26 | 385089 | [385089-moto-championship-26.json](./385089-moto-championship-26.json) |
