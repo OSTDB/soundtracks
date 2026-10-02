@@ -519,6 +519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Club-i | 143657 | [143657-hamster-club-i.json](./143657-hamster-club-i.json) |
 | Hamster Club: Awasete Chu | 281541 | [281541-hamster-club-awasete-chu.json](./281541-hamster-club-awasete-chu.json) |
 | Hamster Club: Oshiema Chu | 281542 | [281542-hamster-club-oshiema-chu.json](./281542-hamster-club-oshiema-chu.json) |
+| Hamster Combat | 314397 | [314397-hamster-combat.json](./314397-hamster-combat.json) |
 | Hamster Combat: Road to Whale | 337831 | [337831-hamster-combat-road-to-whale.json](./337831-hamster-combat-road-to-whale.json) |
 | Hamster Cozy: Tears of Acorn Valley | 330401 | [330401-hamster-cozy-tears-of-acorn-valley.json](./330401-hamster-cozy-tears-of-acorn-valley.json) |
 | Hamster Drop | 63545 | [63545-hamster-drop.json](./63545-hamster-drop.json) |
@@ -1339,6 +1340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Have You Heard | 299263 | [299263-have-you-heard.json](./299263-have-you-heard.json) |
 | Have You Herd? | 235970 | [235970-have-you-herd.json](./235970-have-you-herd.json) |
 | Have You Seen the Moon? | 407400 | [407400-have-you-seen-the-moon.json](./407400-have-you-seen-the-moon.json) |
+| Have Your Monster | 314368 | [314368-have-your-monster.json](./314368-have-your-monster.json) |
 | Havelyn | 401019 | [401019-havelyn.json](./401019-havelyn.json) |
 | Haven | 380666 | [380666-haven.json](./380666-haven.json) |
 | Haven & Hearth | 213961 | [213961-haven-and-hearth.json](./213961-haven-and-hearth.json) |
@@ -3073,6 +3075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexa Faction 2 | 57043 | [57043-hexa-faction-2.json](./57043-hexa-faction-2.json) |
 | Hexa Fusion 2048 | 364558 | [364558-hexa-fusion-2048.json](./364558-hexa-fusion-2048.json) |
 | Hexa Harmony | 364055 | [364055-hexa-harmony.json](./364055-hexa-harmony.json) |
+| Hexa Hysteria | 314384 | [314384-hexa-hysteria.json](./314384-hexa-hysteria.json) |
 | Hexa Merge | 383054 | [383054-hexa-merge.json](./383054-hexa-merge.json) |
 | Hexa Puzzle Saga | 248330 | [248330-hexa-puzzle-saga.json](./248330-hexa-puzzle-saga.json) |
 | Hexa River | 320374 | [320374-hexa-river.json](./320374-hexa-river.json) |
