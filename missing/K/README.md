@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ka-Blooey | 42660 | [42660-ka-blooey.json](./42660-ka-blooey.json) |
 | Ka'Roo | 79382 | [79382-karoo.json](./79382-karoo.json) |
 | Kaal Yoddha | 332445 | [332445-kaal-yoddha.json](./332445-kaal-yoddha.json) |
+| Kaamos | 322683 | [322683-kaamos.json](./322683-kaamos.json) |
 | Kaapelipeli: The Cable Game | 138260 | [138260-kaapelipeli-the-cable-game.json](./138260-kaapelipeli-the-cable-game.json) |
 | Kabaneri of the Iron Fortress: Ran - Hajimaru Michiato | 89983 | [89983-kabaneri-of-the-iron-fortress-ran-hajimaru-michiato.json](./89983-kabaneri-of-the-iron-fortress-ran-hajimaru-michiato.json) |
 | Kabedon Kareshi: Manatsu no Charao | 240227 | [240227-kabedon-kareshi-manatsu-no-charao.json](./240227-kabedon-kareshi-manatsu-no-charao.json) |
@@ -1743,6 +1744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kings Odyssey: Rise of The Necromancer | 287172 | [287172-kings-odyssey-rise-of-the-necromancer.json](./287172-kings-odyssey-rise-of-the-necromancer.json) |
 | Kings of Battleground | 231928 | [231928-kings-of-battleground.json](./231928-kings-of-battleground.json) |
 | Kings of Chaos | 402314 | [402314-kings-of-chaos.json](./402314-kings-of-chaos.json) |
+| Kings of Edom | 322642 | [322642-kings-of-edom.json](./322642-kings-of-edom.json) |
 | Kings of Hell | 142960 | [142960-kings-of-hell.json](./142960-kings-of-hell.json) |
 | Kings of Leon Revenge | 66041 | [66041-kings-of-leon-revenge.json](./66041-kings-of-leon-revenge.json) |
 | Kings of Paradise | 147307 | [147307-kings-of-paradise.json](./147307-kings-of-paradise.json) |
