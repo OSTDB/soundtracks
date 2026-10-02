@@ -999,6 +999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gas Station Inc. | 255753 | [255753-gas-station-inc.json](./255753-gas-station-inc.json) |
 | Gas Station Manager 2026 | 393475 | [393475-gas-station-manager-2026.json](./393475-gas-station-manager-2026.json) |
 | Gas Station Simulator and Airstrip DLC Bundle | 286511 | [286511-gas-station-simulator-and-airstrip-dlc-bundle.json](./286511-gas-station-simulator-and-airstrip-dlc-bundle.json) |
+| Gas Station Simulator and Party Time DLC Bundle | 331539 | [331539-gas-station-simulator-and-party-time-dlc-bundle.json](./331539-gas-station-simulator-and-party-time-dlc-bundle.json) |
 | Gas Station Simulator, Airstrip DLC and Can Touch This DLC Bundle | 297455 | [297455-gas-station-simulator-airstrip-dlc-and-can-touch-this-dlc-bundle.json](./297455-gas-station-simulator-airstrip-dlc-and-can-touch-this-dlc-bundle.json) |
 | Gas Station Simulator: Can Touch This DLC | 298596 | [298596-gas-station-simulator-can-touch-this-dlc.json](./298596-gas-station-simulator-can-touch-this-dlc.json) |
 | Gas Station Simulator: DLC Pack | 267415 | [267415-gas-station-simulator-dlc-pack.json](./267415-gas-station-simulator-dlc-pack.json) |
@@ -1339,6 +1340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generation of Chaos: Pandora's Reflection | 21018 | [21018-generation-of-chaos-pandoras-reflection.json](./21018-generation-of-chaos-pandoras-reflection.json) |
 | Generation Streets | 110088 | [110088-generation-streets.json](./110088-generation-streets.json) |
 | Generation Zero | 65445 | [65445-generation-zero.json](./65445-generation-zero.json) |
+| Generation Zero: Action Hero Bundle | 331540 | [331540-generation-zero-action-hero-bundle.json](./331540-generation-zero-action-hero-bundle.json) |
 | Generation Zero: Base Support Pack | 234923 | [234923-generation-zero-base-support-pack.json](./234923-generation-zero-base-support-pack.json) |
 | Generation Zero: Base Warfare Starter Bundle | 234937 | [234937-generation-zero-base-warfare-starter-bundle.json](./234937-generation-zero-base-warfare-starter-bundle.json) |
 | Generation Zero: Bikes | 234933 | [234933-generation-zero-bikes.json](./234933-generation-zero-bikes.json) |
@@ -1349,6 +1351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generation Zero: Resistance Bundle | 164785 | [164785-generation-zero-resistance-bundle.json](./164785-generation-zero-resistance-bundle.json) |
 | Generation Zero: Rivals and Experimental Weapons | 234932 | [234932-generation-zero-rivals-and-experimental-weapons.json](./234932-generation-zero-rivals-and-experimental-weapons.json) |
 | Generation Zero: Soviet Weapons Pack | 234927 | [234927-generation-zero-soviet-weapons-pack.json](./234927-generation-zero-soviet-weapons-pack.json) |
+| Generation Zero: Starter Pack Bundle | 331542 | [331542-generation-zero-starter-pack-bundle.json](./331542-generation-zero-starter-pack-bundle.json) |
 | Generation Zero: Tactical Equipment Pack | 234919 | [234919-generation-zero-tactical-equipment-pack.json](./234919-generation-zero-tactical-equipment-pack.json) |
 | Generation Zero: Tubular Vanity Pack | 234930 | [234930-generation-zero-tubular-vanity-pack.json](./234930-generation-zero-tubular-vanity-pack.json) |
 | Generation Zero: US Weapons Pack | 234928 | [234928-generation-zero-us-weapons-pack.json](./234928-generation-zero-us-weapons-pack.json) |
@@ -3426,6 +3429,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gori: Cuddly Carnage - Change Skin Pack | 316214 | [316214-gori-cuddly-carnage-change-skin-pack.json](./316214-gori-cuddly-carnage-change-skin-pack.json) |
 | Gori: Cuddly Carnage - Chinese Dragon Premium Skin Pack | 316213 | [316213-gori-cuddly-carnage-chinese-dragon-premium-skin-pack.json](./316213-gori-cuddly-carnage-chinese-dragon-premium-skin-pack.json) |
 | Gori: Cuddly Carnage - Day One Skin Pack | 316212 | [316212-gori-cuddly-carnage-day-one-skin-pack.json](./316212-gori-cuddly-carnage-day-one-skin-pack.json) |
+| Gori: Cuddly Carnage - Dragon Bundle | 331543 | [331543-gori-cuddly-carnage-dragon-bundle.json](./331543-gori-cuddly-carnage-dragon-bundle.json) |
+| Gori: Cuddly Carnage - Neon Bundle | 331541 | [331541-gori-cuddly-carnage-neon-bundle.json](./331541-gori-cuddly-carnage-neon-bundle.json) |
 | Gori: Cuddly Carnage - Neon Neko Triple Skin Pack | 316211 | [316211-gori-cuddly-carnage-neon-neko-triple-skin-pack.json](./316211-gori-cuddly-carnage-neon-neko-triple-skin-pack.json) |
 | Gori: Cuddly Carnage - Special Edition | 315867 | [315867-gori-cuddly-carnage-special-edition.json](./315867-gori-cuddly-carnage-special-edition.json) |
 | Gori: Cuddly Carnage: Catbox Skin Pack | 357268 | [357268-gori-cuddly-carnage-catbox-skin-pack.json](./357268-gori-cuddly-carnage-catbox-skin-pack.json) |
@@ -5154,6 +5159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunGirl 2 | 23720 | [23720-gungirl-2.json](./23720-gungirl-2.json) |
 | Gungnir | 42882 | [42882-gungnir.json](./42882-gungnir.json) |
 | Gungrave G.O.R.E: Blood Heat | 370130 | [370130-gungrave-g-o-r-e-blood-heat.json](./370130-gungrave-g-o-r-e-blood-heat.json) |
+| Gungrave G.O.R.E: Complete Bundle | 331528 | [331528-gungrave-g-o-r-e-complete-bundle.json](./331528-gungrave-g-o-r-e-complete-bundle.json) |
 | Gungrave G.O.R.E: Street Grave | 357271 | [357271-gungrave-g-o-r-e-street-grave.json](./357271-gungrave-g-o-r-e-street-grave.json) |
 | Gungrave G.O.R.E: Ultimate Enhanced Edition - Harry Macdowel | 275046 | [275046-gungrave-g-o-r-e-ultimate-enhanced-edition-harry-macdowel.json](./275046-gungrave-g-o-r-e-ultimate-enhanced-edition-harry-macdowel.json) |
 | Gungrave VR: Loaded Coffin Edition | 166230 | [166230-gungrave-vr-loaded-coffin-edition.json](./166230-gungrave-vr-loaded-coffin-edition.json) |
