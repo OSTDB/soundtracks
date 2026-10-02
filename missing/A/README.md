@@ -7565,6 +7565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrodrifter | 304682 | [304682-astrodrifter.json](./304682-astrodrifter.json) |
 | AstroFire | 82500 | [82500-astrofire.json](./82500-astrofire.json) |
 | Astroflux | 32875 | [32875-astroflux.json](./32875-astroflux.json) |
+| AstroForge: Space Pirates | 283968 | [283968-astroforge-space-pirates.json](./283968-astroforge-space-pirates.json) |
 | AstroGenesis | 111498 | [111498-astrogenesis.json](./111498-astrogenesis.json) |
 | AstroGenesis: Boss Rush | 121041 | [121041-astrogenesis-boss-rush.json](./121041-astrogenesis-boss-rush.json) |
 | Astrogon | 139920 | [139920-astrogon.json](./139920-astrogon.json) |
@@ -7683,6 +7684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atama Ikuto | 344367 | [344367-atama-ikuto.json](./344367-atama-ikuto.json) |
 | Atama no Kaiten no Training: Rubik's Cube & Chou Yuumei Puzzle Tachi | 269564 | [269564-atama-no-kaiten-no-training-rubiks-cube-and-chou-yuumei-puzzle-tachi.json](./269564-atama-no-kaiten-no-training-rubiks-cube-and-chou-yuumei-puzzle-tachi.json) |
 | Atama wo Kitaete Asobu Taisen Yajirushi Puzzle: Puppy Inu Vector One | 122991 | [122991-atama-wo-kitaete-asobu-taisen-yajirushi-puzzle-puppy-inu-vector-one.json](./122991-atama-wo-kitaete-asobu-taisen-yajirushi-puzzle-puppy-inu-vector-one.json) |
+| Atan | 283967 | [283967-atan.json](./283967-atan.json) |
 | Ataque Marino | 113459 | [113459-ataque-marino.json](./113459-ataque-marino.json) |
 | Atari | 220069 | [220069-atari.json](./220069-atari.json) |
 | Atari | 220073 | [220073-atari.json](./220073-atari.json) |
@@ -8578,6 +8580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axolotl Swim | 389113 | [389113-axolotl-swim.json](./389113-axolotl-swim.json) |
 | Axom: Conquest | 333357 | [333357-axom-conquest.json](./333357-axom-conquest.json) |
 | Axon Hero | 217278 | [217278-axon-hero.json](./217278-axon-hero.json) |
+| Axona | 283969 | [283969-axona.json](./283969-axona.json) |
 | Axxx: Taught and Fucked | 375949 | [375949-axxx-taught-and-fucked.json](./375949-axxx-taught-and-fucked.json) |
 | AxySnake | 93184 | [93184-axysnake.json](./93184-axysnake.json) |
 | Axyz | 293648 | [293648-axyz.json](./293648-axyz.json) |
