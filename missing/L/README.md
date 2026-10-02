@@ -4229,6 +4229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovanium: The Rising Suns | 265633 | [265633-lovanium-the-rising-suns.json](./265633-lovanium-the-rising-suns.json) |
 | Love | 16912 | [16912-love.json](./16912-love.json) |
 | Love & Destroy | 63368 | [63368-love-and-destroy.json](./63368-love-and-destroy.json) |
+| Love & Diaries: Duncan | 299421 | [299421-love-and-diaries-duncan.json](./299421-love-and-diaries-duncan.json) |
 | Love & Friendship | 177347 | [177347-love-and-friendship.json](./177347-love-and-friendship.json) |
 | Love & Hip Hop the Game | 57752 | [57752-love-and-hip-hop-the-game.json](./57752-love-and-hip-hop-the-game.json) |
 | Love & Sex: Second Base | 229010 | [229010-love-and-sex-second-base.json](./229010-love-and-sex-second-base.json) |
@@ -4376,6 +4377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Story of Sparrow | 114531 | [114531-love-story-of-sparrow.json](./114531-love-story-of-sparrow.json) |
 | Love Story: Choices Girl Games | 107010 | [107010-love-story-choices-girl-games.json](./107010-love-story-choices-girl-games.json) |
 | Love Story: Letters from the Past | 29095 | [29095-love-story-letters-from-the-past.json](./29095-love-story-letters-from-the-past.json) |
+| Love Story: Magical Princess | 299384 | [299384-love-story-magical-princess.json](./299384-love-story-magical-princess.json) |
 | Love Story: The Way Home | 102187 | [102187-love-story-the-way-home.json](./102187-love-story-the-way-home.json) |
 | Love Sucks: Night One | 156516 | [156516-love-sucks-night-one.json](./156516-love-sucks-night-one.json) |
 | Love Sucks: Night Three | 303639 | [303639-love-sucks-night-three.json](./303639-love-sucks-night-three.json) |
