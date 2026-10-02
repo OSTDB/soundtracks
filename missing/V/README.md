@@ -893,6 +893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VHHS: Backrooms | 282017 | [282017-vhhs-backrooms.json](./282017-vhhs-backrooms.json) |
 | VHS | 309466 | [309466-vhs.json](./309466-vhs.json) |
 | VHS Bodycam: The Torture Machine | 369152 | [369152-vhs-bodycam-the-torture-machine.json](./369152-vhs-bodycam-the-torture-machine.json) |
+| VHS Collection: Goodnight Me | 321460 | [321460-vhs-collection-goodnight-me.json](./321460-vhs-collection-goodnight-me.json) |
 | VHS Nights: The Tidy Up Shift | 419889 | [419889-vhs-nights-the-tidy-up-shift.json](./419889-vhs-nights-the-tidy-up-shift.json) |
 | VHS vs. Betamax | 177572 | [177572-vhs-vs-betamax.json](./177572-vhs-vs-betamax.json) |
 | VHS World '89 | 410912 | [410912-vhs-world-89.json](./410912-vhs-world-89.json) |
@@ -2054,6 +2055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vtuber ni Kusokome wo Okuru Typing Game | 362397 | [362397-vtuber-ni-kusokome-wo-okuru-typing-game.json](./362397-vtuber-ni-kusokome-wo-okuru-typing-game.json) |
 | Vtuber Simulator | 192193 | [192193-vtuber-simulator.json](./192193-vtuber-simulator.json) |
 | Vtuber Survivor | 351747 | [351747-vtuber-survivor.json](./351747-vtuber-survivor.json) |
+| Vtubers Network | 321465 | [321465-vtubers-network.json](./321465-vtubers-network.json) |
 | VTumbler | 319718 | [319718-vtumbler.json](./319718-vtumbler.json) |
 | Vulcan 3055 | 110331 | [110331-vulcan-3055.json](./110331-vulcan-3055.json) |
 | Vulcan Sacrifice | 53880 | [53880-vulcan-sacrifice.json](./53880-vulcan-sacrifice.json) |
