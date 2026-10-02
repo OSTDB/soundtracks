@@ -388,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madshot | 191697 | [191697-madshot.json](./191697-madshot.json) |
 | MadSpace: To Hell and Beyond | 10144 | [10144-madspace-to-hell-and-beyond.json](./10144-madspace-to-hell-and-beyond.json) |
 | Madstone | 50721 | [50721-madstone.json](./50721-madstone.json) |
+| Madtoys Knights | 319115 | [319115-madtoys-knights.json](./319115-madtoys-knights.json) |
 | Maduro Run | 392933 | [392933-maduro-run.json](./392933-maduro-run.json) |
 | Madvent Calendar 3 Necrosis | 229375 | [229375-madvent-calendar-3-necrosis.json](./229375-madvent-calendar-3-necrosis.json) |
 | Maeldor: Enhanced Edition | 235687 | [235687-maeldor-enhanced-edition.json](./235687-maeldor-enhanced-edition.json) |
@@ -801,6 +802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magicami | 150593 | [150593-magicami.json](./150593-magicami.json) |
 | MagiCarnage | 211730 | [211730-magicarnage.json](./211730-magicarnage.json) |
 | MagiCats Builder: Infinite Pack | 170312 | [170312-magicats-builder-infinite-pack.json](./170312-magicats-builder-infinite-pack.json) |
+| Magician | 319093 | [319093-magician.json](./319093-magician.json) |
 | Magician | 94209 | [94209-magician.json](./94209-magician.json) |
 | Magician Lord | 19109 | [19109-magician-lord.json](./19109-magician-lord.json) |
 | Magician of Fallen | 82768 | [82768-magician-of-fallen.json](./82768-magician-of-fallen.json) |
@@ -5617,6 +5619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milano no Arbeit Collection | 64930 | [64930-milano-no-arbeit-collection.json](./64930-milano-no-arbeit-collection.json) |
 | Milanoir | 37852 | [37852-milanoir.json](./37852-milanoir.json) |
 | Milanoir: Special Edition | 28358 | [28358-milanoir-special-edition.json](./28358-milanoir-special-edition.json) |
+| Milcham: From the Ashes of Hearts | 319077 | [319077-milcham-from-the-ashes-of-hearts.json](./319077-milcham-from-the-ashes-of-hearts.json) |
 | Mile 27 | 413767 | [413767-mile-27.json](./413767-mile-27.json) |
 | Mile Bones | 83480 | [83480-mile-bones.json](./83480-mile-bones.json) |
 | Mile High Taxi | 217387 | [217387-mile-high-taxi.json](./217387-mile-high-taxi.json) |
@@ -5851,6 +5854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindcop | 137044 | [137044-mindcop.json](./137044-mindcop.json) |
 | Minder | 100207 | [100207-minder.json](./100207-minder.json) |
 | MindEscape | 379338 | [379338-mindescape.json](./379338-mindescape.json) |
+| Mindfate | 319064 | [319064-mindfate.json](./319064-mindfate.json) |
 | Mindflux: Dead Man Walking | 319701 | [319701-mindflux-dead-man-walking.json](./319701-mindflux-dead-man-walking.json) |
 | Mindframe: The Secret Design - Collector's Edition | 132778 | [132778-mindframe-the-secret-design-collectors-edition.json](./132778-mindframe-the-secret-design-collectors-edition.json) |
 | Mindfunk in 13 Days | 397938 | [397938-mindfunk-in-13-days.json](./397938-mindfunk-in-13-days.json) |
@@ -9343,6 +9347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Mystery J: Special Stamp - Thomas | 325469 | [325469-murder-mystery-j-special-stamp-thomas.json](./325469-murder-mystery-j-special-stamp-thomas.json) |
 | Murder Mystery J: Special Stamp - Vanilla | 325480 | [325480-murder-mystery-j-special-stamp-vanilla.json](./325480-murder-mystery-j-special-stamp-vanilla.json) |
 | Murder Mystery Machine | 111944 | [111944-murder-mystery-machine.json](./111944-murder-mystery-machine.json) |
+| Murder Mystery Mayhem AI | 319073 | [319073-murder-mystery-mayhem-ai.json](./319073-murder-mystery-mayhem-ai.json) |
 | Murder Mystery Paradox: Fifteen Years of Summer | 247526 | [247526-murder-mystery-paradox-fifteen-years-of-summer.json](./247526-murder-mystery-paradox-fifteen-years-of-summer.json) |
 | Murder on Mainstreet | 262299 | [262299-murder-on-mainstreet.json](./262299-murder-on-mainstreet.json) |
 | Murder on Snake Road | 66961 | [66961-murder-on-snake-road.json](./66961-murder-on-snake-road.json) |
@@ -10562,6 +10567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MyStylist | 68303 | [68303-mystylist.json](./68303-mystylist.json) |
 | mySudoku | 87571 | [87571-mysudoku.json](./87571-mysudoku.json) |
 | MyTavern | 295328 | [295328-mytavern.json](./295328-mytavern.json) |
+| MyTeardrop | 319097 | [319097-myteardrop.json](./319097-myteardrop.json) |
 | Myth | 12186 | [12186-myth.json](./12186-myth.json) |
 | Myth | 252374 | [252374-myth.json](./252374-myth.json) |
 | Myth & Mirage | 310727 | [310727-myth-and-mirage.json](./310727-myth-and-mirage.json) |
