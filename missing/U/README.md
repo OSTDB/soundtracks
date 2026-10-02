@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFO No! | 180046 | [180046-ufo-no.json](./180046-ufo-no.json) |
 | UFO on Tape: First Contact | 117010 | [117010-ufo-on-tape-first-contact.json](./117010-ufo-on-tape-first-contact.json) |
 | UFO Ride | 294725 | [294725-ufo-ride.json](./294725-ufo-ride.json) |
+| UFO Sightings Simulator | 282255 | [282255-ufo-sightings-simulator.json](./282255-ufo-sightings-simulator.json) |
 | UFO Slide Racing | 265744 | [265744-ufo-slide-racing.json](./265744-ufo-slide-racing.json) |
 | UFO-Man | 320962 | [320962-ufo-man.json](./320962-ufo-man.json) |
 | UFO: A Day in the Life | 44742 | [44742-ufo-a-day-in-the-life.json](./44742-ufo-a-day-in-the-life.json) |
@@ -215,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Arena: Showdown | 81606 | [81606-ultimate-arena-showdown.json](./81606-ultimate-arena-showdown.json) |
 | Ultimate Armored Turbodrifter: Saga Chapter 2 - Tank Authority Wolfram | 290950 | [290950-ultimate-armored-turbodrifter-saga-chapter-2-tank-authority-wolfram.json](./290950-ultimate-armored-turbodrifter-saga-chapter-2-tank-authority-wolfram.json) |
 | Ultimate Ball | 242483 | [242483-ultimate-ball.json](./242483-ultimate-ball.json) |
+| Ultimate Ball: Fire Ball | 282259 | [282259-ultimate-ball-fire-ball.json](./282259-ultimate-ball-fire-ball.json) |
 | Ultimate Baseball Online 2007 | 21413 | [21413-ultimate-baseball-online-2007.json](./21413-ultimate-baseball-online-2007.json) |
 | Ultimate Battle | 156979 | [156979-ultimate-battle.json](./156979-ultimate-battle.json) |
 | Ultimate Battle Kingdom | 390507 | [390507-ultimate-battle-kingdom.json](./390507-ultimate-battle-kingdom.json) |
@@ -300,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Mahjongg | 206058 | [206058-ultimate-mahjongg.json](./206058-ultimate-mahjongg.json) |
 | Ultimate Mahjongg 10 | 206057 | [206057-ultimate-mahjongg-10.json](./206057-ultimate-mahjongg-10.json) |
 | Ultimate Mahjongg 20 | 53942 | [53942-ultimate-mahjongg-20.json](./53942-ultimate-mahjongg-20.json) |
+| Ultimate Match 3D | 282256 | [282256-ultimate-match-3d.json](./282256-ultimate-match-3d.json) |
 | Ultimate MMA | 133385 | [133385-ultimate-mma.json](./133385-ultimate-mma.json) |
 | Ultimate Monster Trucks | 53941 | [53941-ultimate-monster-trucks.json](./53941-ultimate-monster-trucks.json) |
 | Ultimate Mortal Kombat 3 | 1621 | [1621-ultimate-mortal-kombat-3.json](./1621-ultimate-mortal-kombat-3.json) |
@@ -653,6 +656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UNB | 335890 | [335890-unb.json](./335890-unb.json) |
 | Unbaitable | 417442 | [417442-unbaitable.json](./417442-unbaitable.json) |
 | Unbeatable | 144859 | [144859-unbeatable.json](./144859-unbeatable.json) |
+| Unbeatable Professional Me With 100 Girlfriends! | 282257 | [282257-unbeatable-professional-me-with-100-girlfriends.json](./282257-unbeatable-professional-me-with-100-girlfriends.json) |
 | Unbeatable: Breakout Edition | 402444 | [402444-unbeatable-breakout-edition.json](./402444-unbeatable-breakout-edition.json) |
 | Unbeatable: The Jamie Paige Content Companion | 408174 | [408174-unbeatable-the-jamie-paige-content-companion.json](./408174-unbeatable-the-jamie-paige-content-companion.json) |
 | Unbeknown | 59682 | [59682-unbeknown.json](./59682-unbeknown.json) |
@@ -747,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncover | 273390 | [273390-uncover.json](./273390-uncover.json) |
 | Uncover | 316427 | [316427-uncover.json](./316427-uncover.json) |
 | Uncover the Triad of Terror | 309052 | [309052-uncover-the-triad-of-terror.json](./309052-uncover-the-triad-of-terror.json) |
+| Uncovered: 1945 | 282258 | [282258-uncovered-1945.json](./282258-uncovered-1945.json) |
 | Uncracked | 406826 | [406826-uncracked.json](./406826-uncracked.json) |
 | Uncraft Me! | 147333 | [147333-uncraft-me.json](./147333-uncraft-me.json) |
 | Uncrashed: FPV Drone Simulator | 165627 | [165627-uncrashed-fpv-drone-simulator.json](./165627-uncrashed-fpv-drone-simulator.json) |
