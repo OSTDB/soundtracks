@@ -2212,6 +2212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars for the Rich | 202382 | [202382-mars-for-the-rich.json](./202382-mars-for-the-rich.json) |
 | Mars Hopper | 341652 | [341652-mars-hopper.json](./341652-mars-hopper.json) |
 | Mars Horizon | 101183 | [101183-mars-horizon.json](./101183-mars-horizon.json) |
+| Mars Man | 287348 | [287348-mars-man.json](./287348-mars-man.json) |
 | Mars Miner | 69537 | [69537-mars-miner.json](./69537-mars-miner.json) |
 | Mars Mission II | 59475 | [59475-mars-mission-ii.json](./59475-mars-mission-ii.json) |
 | Mars Odyssey | 32929 | [32929-mars-odyssey.json](./32929-mars-odyssey.json) |
@@ -2720,6 +2721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Sleuth Bundle | 209692 | [209692-master-sleuth-bundle.json](./209692-master-sleuth-bundle.json) |
 | Master Spy | 24583 | [24583-master-spy.json](./24583-master-spy.json) |
 | Master System 3 | 230823 | [230823-master-system-3.json](./230823-master-system-3.json) |
+| Master System 3 Collection | 287343 | [287343-master-system-3-collection.json](./287343-master-system-3-collection.json) |
 | Master System 3 Collection: 131 Super Jogos na Memória | 230826 | [230826-master-system-3-collection-131-super-jogos-na-memoria.json](./230826-master-system-3-collection-131-super-jogos-na-memoria.json) |
 | Master System Handy | 202806 | [202806-master-system-handy.json](./202806-master-system-handy.json) |
 | Master System Plug & Play | 230828 | [230828-master-system-plug-and-play.json](./230828-master-system-plug-and-play.json) |
@@ -4106,6 +4108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megami Tensei QIX: Persona 3 | 289392 | [289392-megami-tensei-qix-persona-3.json](./289392-megami-tensei-qix-persona-3.json) |
 | MegaMod | 287075 | [287075-megamod.json](./287075-megamod.json) |
 | MegaMorph | 97354 | [97354-megamorph.json](./97354-megamorph.json) |
+| Megan The Fox | 287331 | [287331-megan-the-fox.json](./287331-megan-the-fox.json) |
 | Megan's Adventure | 310067 | [310067-megans-adventure.json](./310067-megans-adventure.json) |
 | Meganaut | 340021 | [340021-meganaut.json](./340021-meganaut.json) |
 | Meganoid | 29184 | [29184-meganoid.json](./29184-meganoid.json) |
@@ -10429,6 +10432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Uncle Merlin | 76236 | [76236-my-uncle-merlin.json](./76236-my-uncle-merlin.json) |
 | My Uncle Merlin: A Tale of Wizards in Space | 77918 | [77918-my-uncle-merlin-a-tale-of-wizards-in-space.json](./77918-my-uncle-merlin-a-tale-of-wizards-in-space.json) |
 | My Uncle's Garden | 229776 | [229776-my-uncles-garden.json](./229776-my-uncles-garden.json) |
+| My Uncle's Story | 287350 | [287350-my-uncles-story.json](./287350-my-uncles-story.json) |
 | My Universe Discovery Collection 2 | 301535 | [301535-my-universe-discovery-collection-2.json](./301535-my-universe-discovery-collection-2.json) |
 | My Universe: Cooking Star Restaurant | 139863 | [139863-my-universe-cooking-star-restaurant.json](./139863-my-universe-cooking-star-restaurant.json) |
 | My Universe: Fashion Boutique | 139215 | [139215-my-universe-fashion-boutique.json](./139215-my-universe-fashion-boutique.json) |
