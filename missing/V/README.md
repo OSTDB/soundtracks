@@ -600,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veggie Menace | 203926 | [203926-veggie-menace.json](./203926-veggie-menace.json) |
 | Veggie Panino Tactics | 323787 | [323787-veggie-panino-tactics.json](./323787-veggie-panino-tactics.json) |
 | Veggie Tales 3D | 269838 | [269838-veggie-tales-3d.json](./269838-veggie-tales-3d.json) |
+| Veggies vs. Undead | 290659 | [290659-veggies-vs-undead.json](./290659-veggies-vs-undead.json) |
 | VeggieTales: Bushels of Fun! | 206062 | [206062-veggietales-bushels-of-fun.json](./206062-veggietales-bushels-of-fun.json) |
 | VeggieTales: LarryBoy and the Bad Apple | 248629 | [248629-veggietales-larryboy-and-the-bad-apple.json](./248629-veggietales-larryboy-and-the-bad-apple.json) |
 | VeggieTales: LarryBoy and the Bad Apple | 49374 | [49374-veggietales-larryboy-and-the-bad-apple.json](./49374-veggietales-larryboy-and-the-bad-apple.json) |
