@@ -293,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paddles! Pong edition | 102621 | [102621-paddles-pong-edition.json](./102621-paddles-pong-edition.json) |
 | Paddock Note '95 | 268522 | [268522-paddock-note-95.json](./268522-paddock-note-95.json) |
 | Padel Pro World Tour | 409553 | [409553-padel-pro-world-tour.json](./409553-padel-pro-world-tour.json) |
+| Pagan Gods | 293350 | [293350-pagan-gods.json](./293350-pagan-gods.json) |
 | Pagan Hope | 132713 | [132713-pagan-hope.json](./132713-pagan-hope.json) |
 | Pagan: Absent Gods | 111835 | [111835-pagan-absent-gods.json](./111835-pagan-absent-gods.json) |
 | Pagans Must Die | 116853 | [116853-pagans-must-die.json](./116853-pagans-must-die.json) |
@@ -618,6 +619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pangea 1/2 | 325660 | [325660-pangea-1-2.json](./325660-pangea-1-2.json) |
 | Pangea Arcade | 96286 | [96286-pangea-arcade.json](./96286-pangea-arcade.json) |
 | Pangemic | 30818 | [30818-pangemic.json](./30818-pangemic.json) |
+| Pango | 293329 | [293329-pango.json](./293329-pango.json) |
 | Pango and friends | 89705 | [89705-pango-and-friends.json](./89705-pango-and-friends.json) |
 | Pango Blocks | 87889 | [87889-pango-blocks.json](./87889-pango-blocks.json) |
 | Pango Build City | 89761 | [89761-pango-build-city.json](./89761-pango-build-city.json) |
@@ -5178,6 +5180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Podd | 66704 | [66704-podd.json](./66704-podd.json) |
 | Pode | 94054 | [94054-pode.json](./94054-pode.json) |
 | Podnabu | 291256 | [291256-podnabu.json](./291256-podnabu.json) |
+| Poe | 293362 | [293362-poe.json](./293362-poe.json) |
 | Poem Ex Machina | 333106 | [333106-poem-ex-machina.json](./333106-poem-ex-machina.json) |
 | Poems & Codes | 244281 | [244281-poems-and-codes.json](./244281-poems-and-codes.json) |
 | Poena | 202237 | [202237-poena.json](./202237-poena.json) |
@@ -5990,6 +5993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polystars | 70998 | [70998-polystars.json](./70998-polystars.json) |
 | PolyTap | 341565 | [341565-polytap.json](./341565-polytap.json) |
 | Polytone | 174831 | [174831-polytone.json](./174831-polytone.json) |
+| Polytrack | 293354 | [293354-polytrack.json](./293354-polytrack.json) |
 | Polyturbo Drift Racing Simulator | 275036 | [275036-polyturbo-drift-racing-simulator.json](./275036-polyturbo-drift-racing-simulator.json) |
 | Polywar | 326772 | [326772-polywar.json](./326772-polywar.json) |
 | Polywar | 33496 | [33496-polywar.json](./33496-polywar.json) |
@@ -7442,6 +7446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Yakyuu Spirits 2013 | 63903 | [63903-pro-yakyuu-spirits-2013.json](./63903-pro-yakyuu-spirits-2013.json) |
 | Pro Yakyuu Spirits 2015 | 60625 | [60625-pro-yakyuu-spirits-2015.json](./60625-pro-yakyuu-spirits-2015.json) |
 | Pro Yakyuu Spirits 2019 | 109606 | [109606-pro-yakyuu-spirits-2019.json](./109606-pro-yakyuu-spirits-2019.json) |
+| Pro Yakyuu Spirits 2024-2025 | 293324 | [293324-pro-yakyuu-spirits-2024-2025.json](./293324-pro-yakyuu-spirits-2024-2025.json) |
 | Pro Yakyuu Spirits 3 | 91726 | [91726-pro-yakyuu-spirits-3.json](./91726-pro-yakyuu-spirits-3.json) |
 | Pro Yakyuu Star | 37872 | [37872-pro-yakyuu-star.json](./37872-pro-yakyuu-star.json) |
 | Pro Yakyuu Team de Asobou Net! | 125932 | [125932-pro-yakyuu-team-de-asobou-net.json](./125932-pro-yakyuu-team-de-asobou-net.json) |
