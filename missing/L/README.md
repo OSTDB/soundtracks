@@ -2369,6 +2369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light-Bringer | 360644 | [360644-light-bringer.json](./360644-light-bringer.json) |
 | Light-It Up | 266253 | [266253-light-it-up.json](./266253-light-it-up.json) |
 | Light-It Up: Complete Edition | 283170 | [283170-light-it-up-complete-edition.json](./283170-light-it-up-complete-edition.json) |
+| Light-Years Away | 314919 | [314919-light-years-away.json](./314919-light-years-away.json) |
 | Light: Path of the Archmage | 392136 | [392136-light-path-of-the-archmage.json](./392136-light-path-of-the-archmage.json) |
 | Light: Rebirth-The falsehood | 53274 | [53274-light-rebirth-the-falsehood.json](./53274-light-rebirth-the-falsehood.json) |
 | Light's End | 294179 | [294179-lights-end.json](./294179-lights-end.json) |
