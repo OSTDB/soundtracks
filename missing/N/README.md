@@ -390,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR Arcade Rush: Project-X Edition | 263547 | [263547-nascar-arcade-rush-project-x-edition.json](./263547-nascar-arcade-rush-project-x-edition.json) |
 | Nascar Arcade Rush: Project-X Pack | 267081 | [267081-nascar-arcade-rush-project-x-pack.json](./267081-nascar-arcade-rush-project-x-pack.json) |
 | NASCAR Challenge | 49957 | [49957-nascar-challenge.json](./49957-nascar-challenge.json) |
+| NASCAR Heat | 292795 | [292795-nascar-heat.json](./292795-nascar-heat.json) |
 | NASCAR Heat | 49956 | [49956-nascar-heat.json](./49956-nascar-heat.json) |
 | NASCAR Heat 2002 | 248619 | [248619-nascar-heat-2002.json](./248619-nascar-heat-2002.json) |
 | NASCAR Heat 4 | 120487 | [120487-nascar-heat-4.json](./120487-nascar-heat-4.json) |
@@ -2339,6 +2340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Simulator | 343337 | [343337-nightmare-simulator.json](./343337-nightmare-simulator.json) |
 | Nightmare Simulator 2 Rebirth | 148967 | [148967-nightmare-simulator-2-rebirth.json](./148967-nightmare-simulator-2-rebirth.json) |
 | Nightmare Slash | 204374 | [204374-nightmare-slash.json](./204374-nightmare-slash.json) |
+| Nightmare Tale | 292758 | [292758-nightmare-tale.json](./292758-nightmare-tale.json) |
 | Nightmare Temptation Academy | 144117 | [144117-nightmare-temptation-academy.json](./144117-nightmare-temptation-academy.json) |
 | Nightmare Trip | 309020 | [309020-nightmare-trip.json](./309020-nightmare-trip.json) |
 | Nightmare Within | 311615 | [311615-nightmare-within.json](./311615-nightmare-within.json) |
