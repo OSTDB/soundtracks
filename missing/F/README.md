@@ -1143,6 +1143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far From Orbit | 123521 | [123521-far-from-orbit.json](./123521-far-from-orbit.json) |
 | Far From The Darkness | 328603 | [328603-far-from-the-darkness.json](./328603-far-from-the-darkness.json) |
 | Far Future Tourism | 133994 | [133994-far-future-tourism.json](./133994-far-future-tourism.json) |
+| Far Horizon | 291163 | [291163-far-horizon.json](./291163-far-horizon.json) |
 | Far Lands | 411567 | [411567-far-lands.json](./411567-far-lands.json) |
 | Far light | 166775 | [166775-far-light.json](./166775-far-light.json) |
 | Far Out: Selene | 258028 | [258028-far-out-selene.json](./258028-far-out-selene.json) |
@@ -1630,6 +1631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fated: The Silent Oath | 19013 | [19013-fated-the-silent-oath.json](./19013-fated-the-silent-oath.json) |
 | Fateful Destiny | 323504 | [323504-fateful-destiny.json](./323504-fateful-destiny.json) |
 | Fateline | 121003 | [121003-fateline.json](./121003-fateline.json) |
+| Fatermyth | 291159 | [291159-fatermyth.json](./291159-fatermyth.json) |
 | Fates of Ort | 112857 | [112857-fates-of-ort.json](./112857-fates-of-ort.json) |
 | Fateweaver: Smash or Pass | 238598 | [238598-fateweaver-smash-or-pass.json](./238598-fateweaver-smash-or-pass.json) |
 | Fateweaver: The Alchemist's Quandary | 236930 | [236930-fateweaver-the-alchemists-quandary.json](./236930-fateweaver-the-alchemists-quandary.json) |
@@ -1978,6 +1980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feud | 12094 | [12094-feud.json](./12094-feud.json) |
 | Feudal Alloy | 65820 | [65820-feudal-alloy.json](./65820-feudal-alloy.json) |
 | Feudal Friends | 239587 | [239587-feudal-friends.json](./239587-feudal-friends.json) |
+| Feudal Wars | 291162 | [291162-feudal-wars.json](./291162-feudal-wars.json) |
 | Feudal Wars | 58897 | [58897-feudal-wars.json](./58897-feudal-wars.json) |
 | Feudalism | 234914 | [234914-feudalism.json](./234914-feudalism.json) |
 | Feudalism | 34945 | [34945-feudalism.json](./34945-feudalism.json) |
@@ -2757,6 +2760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finger Punch | 378802 | [378802-finger-punch.json](./378802-finger-punch.json) |
 | Finger Shot RPG | 205007 | [205007-finger-shot-rpg.json](./205007-finger-shot-rpg.json) |
 | Finger Slayer | 341914 | [341914-finger-slayer.json](./341914-finger-slayer.json) |
+| Finger Soccer League | 291171 | [291171-finger-soccer-league.json](./291171-finger-soccer-league.json) |
 | Finger Suck | 300782 | [300782-finger-suck.json](./300782-finger-suck.json) |
 | Finger Tied Jr. | 197749 | [197749-finger-tied-jr.json](./197749-finger-tied-jr.json) |
 | Finger Trees | 368665 | [368665-finger-trees.json](./368665-finger-trees.json) |
@@ -2995,6 +2999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firescout | 142874 | [142874-firescout.json](./142874-firescout.json) |
 | Fireside Feelings | 345597 | [345597-fireside-feelings.json](./345597-fireside-feelings.json) |
 | Fireside Hero | 191854 | [191854-fireside-hero.json](./191854-fireside-hero.json) |
+| Firesky | 291184 | [291184-firesky.json](./291184-firesky.json) |
 | Firesoul | 217401 | [217401-firesoul.json](./217401-firesoul.json) |
 | Firestarter | 183894 | [183894-firestarter.json](./183894-firestarter.json) |
 | Firestarter | 78049 | [78049-firestarter.json](./78049-firestarter.json) |
