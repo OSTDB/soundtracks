@@ -186,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean Classics Volume 1 | 109909 | [109909-ocean-classics-volume-1.json](./109909-ocean-classics-volume-1.json) |
 | Ocean Drift | 233521 | [233521-ocean-drift.json](./233521-ocean-drift.json) |
 | Ocean Drive Challenge Remastered | 127220 | [127220-ocean-drive-challenge-remastered.json](./127220-ocean-drive-challenge-remastered.json) |
+| Ocean Driving: Boat Parking Simulator | 328510 | [328510-ocean-driving-boat-parking-simulator.json](./328510-ocean-driving-boat-parking-simulator.json) |
 | Ocean Explorer Tycoon | 209030 | [209030-ocean-explorer-tycoon.json](./209030-ocean-explorer-tycoon.json) |
 | Ocean Fishooter | 381737 | [381737-ocean-fishooter.json](./381737-ocean-fishooter.json) |
 | Ocean Gap | 285446 | [285446-ocean-gap.json](./285446-ocean-gap.json) |
