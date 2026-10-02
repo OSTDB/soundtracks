@@ -187,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SacriFrogos | 390009 | [390009-sacrifrogos.json](./390009-sacrifrogos.json) |
 | Sacrilege | 61634 | [61634-sacrilege.json](./61634-sacrilege.json) |
 | Sacrilegious | 319692 | [319692-sacrilegious.json](./319692-sacrilegious.json) |
+| Sad | 286771 | [286771-sad.json](./286771-sad.json) |
 | Sad But Ded | 185527 | [185527-sad-but-ded.json](./185527-sad-but-ded.json) |
 | Sad Ghouls | 194655 | [194655-sad-ghouls.json](./194655-sad-ghouls.json) |
 | Sad Rabbit's Alien Night Out | 336171 | [336171-sad-rabbits-alien-night-out.json](./336171-sad-rabbits-alien-night-out.json) |
@@ -3583,6 +3584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shafted | 358931 | [358931-shafted.json](./358931-shafted.json) |
 | Shagster Online 2 | 176812 | [176812-shagster-online-2.json](./176812-shagster-online-2.json) |
 | Shaiya | 85841 | [85841-shaiya.json](./85841-shaiya.json) |
+| Shajra Namla | 286773 | [286773-shajra-namla.json](./286773-shajra-namla.json) |
 | Shakadou-san no Jun'ai Road | 182226 | [182226-shakadou-san-no-junai-road.json](./182226-shakadou-san-no-junai-road.json) |
 | Shake | 343962 | [343962-shake.json](./343962-shake.json) |
 | Shake | 383508 | [383508-shake.json](./383508-shake.json) |
@@ -6720,6 +6722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Scramble | 309328 | [309328-slime-scramble.json](./309328-slime-scramble.json) |
 | Slime Sexy Party | 358339 | [358339-slime-sexy-party.json](./358339-slime-sexy-party.json) |
 | Slime Shoot | 312329 | [312329-slime-shoot.json](./312329-slime-shoot.json) |
+| Slime Simulator Games | 286786 | [286786-slime-simulator-games.json](./286786-slime-simulator-games.json) |
 | Slime Slayer: Endless Loot | 412954 | [412954-slime-slayer-endless-loot.json](./412954-slime-slayer-endless-loot.json) |
 | Slime Smasher EX | 213645 | [213645-slime-smasher-ex.json](./213645-slime-smasher-ex.json) |
 | Slime Survivors | 304878 | [304878-slime-survivors.json](./304878-slime-survivors.json) |
@@ -13847,6 +13850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stream Racer | 135295 | [135295-stream-racer.json](./135295-stream-racer.json) |
 | Stream Raiders | 125893 | [125893-stream-raiders.json](./125893-stream-raiders.json) |
 | Stream Runners: Heroes | 232972 | [232972-stream-runners-heroes.json](./232972-stream-runners-heroes.json) |
+| Stream Service | 286751 | [286751-stream-service.json](./286751-stream-service.json) |
 | Stream Stratos | 348323 | [348323-stream-stratos.json](./348323-stream-stratos.json) |
 | Stream Town | 143703 | [143703-stream-town.json](./143703-stream-town.json) |
 | Stream Train | 410341 | [410341-stream-train.json](./410341-stream-train.json) |
