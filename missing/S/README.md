@@ -3902,6 +3902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shenzhen I/O | 25084 | [25084-shenzhen-i-o.json](./25084-shenzhen-i-o.json) |
 | Shenzhen Solitaire | 30085 | [30085-shenzhen-solitaire.json](./30085-shenzhen-solitaire.json) |
 | Sheol | 127871 | [127871-sheol.json](./127871-sheol.json) |
+| Sheol Inferno | 324943 | [324943-sheol-inferno.json](./324943-sheol-inferno.json) |
 | Sheol no Mori: Tasogare no Majuuzukai | 381108 | [381108-sheol-no-mori-tasogare-no-majuuzukai.json](./381108-sheol-no-mori-tasogare-no-majuuzukai.json) |
 | Shepherd | 192319 | [192319-shepherd.json](./192319-shepherd.json) |
 | Shepherd Knight | 372123 | [372123-shepherd-knight.json](./372123-shepherd-knight.json) |
@@ -4009,6 +4010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shìjiè Zhīwài de Yúrén Chuán | 373700 | [373700-shijie-zhiwai-de-yuren-chuan.json](./373700-shijie-zhiwai-de-yuren-chuan.json) |
 | Shijou Saikyou No Deshi Kenichi: Gekitou! Ragnarok Hachikengou | 64664 | [64664-shijou-saikyou-no-deshi-kenichi-gekitou-ragnarok-hachikengou.json](./64664-shijou-saikyou-no-deshi-kenichi-gekitou-ragnarok-hachikengou.json) |
 | Shikakui Atama wo Maru Kusuru: Mainichi Minna no Challenge-hen | 409001 | [409001-shikakui-atama-wo-maru-kusuru-mainichi-minna-no-challenge-hen.json](./409001-shikakui-atama-wo-maru-kusuru-mainichi-minna-no-challenge-hen.json) |
+| Shikanoko Fangame | 324962 | [324962-shikanoko-fangame.json](./324962-shikanoko-fangame.json) |
 | Shikari Rising | 142949 | [142949-shikari-rising.json](./142949-shikari-rising.json) |
 | Shikhondo: Blue Pieta | 395144 | [395144-shikhondo-blue-pieta.json](./395144-shikhondo-blue-pieta.json) |
 | Shikhondo: Youkai Rampage | 283772 | [283772-shikhondo-youkai-rampage.json](./283772-shikhondo-youkai-rampage.json) |
@@ -5875,6 +5877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski Resort Mogul | 54363 | [54363-ski-resort-mogul.json](./54363-ski-resort-mogul.json) |
 | Ski Rodeo | 52004 | [52004-ski-rodeo.json](./52004-ski-rodeo.json) |
 | Ski Run | 159047 | [159047-ski-run.json](./159047-ski-run.json) |
+| Ski Run | 324974 | [324974-ski-run.json](./324974-ski-run.json) |
 | Ski Safari: Adventure Time | 61083 | [61083-ski-safari-adventure-time.json](./61083-ski-safari-adventure-time.json) |
 | Ski Sniper | 36528 | [36528-ski-sniper.json](./36528-ski-sniper.json) |
 | Ski-Doo: Snow X Racing | 21419 | [21419-ski-doo-snow-x-racing.json](./21419-ski-doo-snow-x-racing.json) |
@@ -8254,6 +8257,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songtail: Whiskers of Destiny | 389740 | [389740-songtail-whiskers-of-destiny.json](./389740-songtail-whiskers-of-destiny.json) |
 | Sonic & Bean in Eggland | 322592 | [322592-sonic-and-bean-in-eggland.json](./322592-sonic-and-bean-in-eggland.json) |
 | Sonic & Blaze | 266506 | [266506-sonic-and-blaze.json](./266506-sonic-and-blaze.json) |
+| Sonic & Friends | 324960 | [324960-sonic-and-friends.json](./324960-sonic-and-friends.json) |
+| Sonic & Friends 2 | 324959 | [324959-sonic-and-friends-2.json](./324959-sonic-and-friends-2.json) |
 | Sonic & Knuckles | 239072 | [239072-sonic-and-knuckles.json](./239072-sonic-and-knuckles.json) |
 | Sonic & Knuckles | 9475 | [9475-sonic-and-knuckles.json](./9475-sonic-and-knuckles.json) |
 | Sonic & Knuckles: Newtrogic Panic | 326151 | [326151-sonic-and-knuckles-newtrogic-panic.json](./326151-sonic-and-knuckles-newtrogic-panic.json) |
@@ -8308,6 +8313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Adventure 2 | 7858 | [7858-sonic-adventure-2.json](./7858-sonic-adventure-2.json) |
 | Sonic Adventure 2: Battle | 7862 | [7862-sonic-adventure-2-battle.json](./7862-sonic-adventure-2-battle.json) |
 | Sonic Adventure 2: Super Hard Mode | 333695 | [333695-sonic-adventure-2-super-hard-mode.json](./333695-sonic-adventure-2-super-hard-mode.json) |
+| Sonic Adventure 3 | 324955 | [324955-sonic-adventure-3.json](./324955-sonic-adventure-3.json) |
 | Sonic Adventure DS | 336362 | [336362-sonic-adventure-ds.json](./336362-sonic-adventure-ds.json) |
 | Sonic Adventure DX: Director's Cut | 23695 | [23695-sonic-adventure-dx-directors-cut.json](./23695-sonic-adventure-dx-directors-cut.json) |
 | Sonic Adventure Emerald | 330304 | [330304-sonic-adventure-emerald.json](./330304-sonic-adventure-emerald.json) |
@@ -8674,6 +8680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog Classic Heroes | 129159 | [129159-sonic-the-hedgehog-classic-heroes.json](./129159-sonic-the-hedgehog-classic-heroes.json) |
 | Sonic the Hedgehog DVD | 334139 | [334139-sonic-the-hedgehog-dvd.json](./334139-sonic-the-hedgehog-dvd.json) |
 | Sonic the Hedgehog Extreme Boarding | 198563 | [198563-sonic-the-hedgehog-extreme-boarding.json](./198563-sonic-the-hedgehog-extreme-boarding.json) |
+| Sonic The Hedgehog FTS | 324957 | [324957-sonic-the-hedgehog-fts.json](./324957-sonic-the-hedgehog-fts.json) |
 | Sonic the Hedgehog Game Gear/Master System Remake | 332588 | [332588-sonic-the-hedgehog-game-gear-master-system-remake.json](./332588-sonic-the-hedgehog-game-gear-master-system-remake.json) |
 | Sonic the Hedgehog Golf | 197369 | [197369-sonic-the-hedgehog-golf.json](./197369-sonic-the-hedgehog-golf.json) |
 | Sonic the Hedgehog Interactive Watch | 238200 | [238200-sonic-the-hedgehog-interactive-watch.json](./238200-sonic-the-hedgehog-interactive-watch.json) |
@@ -12646,6 +12653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steampunk Jigsaw Puzzles: Airships & Aviators | 265567 | [265567-steampunk-jigsaw-puzzles-airships-and-aviators.json](./265567-steampunk-jigsaw-puzzles-airships-and-aviators.json) |
 | Steampunk Jigsaw Puzzles: Ancient Empires | 267433 | [267433-steampunk-jigsaw-puzzles-ancient-empires.json](./267433-steampunk-jigsaw-puzzles-ancient-empires.json) |
 | Steampunk Racing 3D | 252141 | [252141-steampunk-racing-3d.json](./252141-steampunk-racing-3d.json) |
+| Steampunk Shinobi | 324946 | [324946-steampunk-shinobi.json](./324946-steampunk-shinobi.json) |
 | SteamPunk Sky | 88169 | [88169-steampunk-sky.json](./88169-steampunk-sky.json) |
 | Steampunk Syndicate | 29666 | [29666-steampunk-syndicate.json](./29666-steampunk-syndicate.json) |
 | Steampunk Timer | 152797 | [152797-steampunk-timer.json](./152797-steampunk-timer.json) |
@@ -13023,6 +13031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Football | 94775 | [94775-stickman-football.json](./94775-stickman-football.json) |
 | Stickman Hero | 227944 | [227944-stickman-hero.json](./227944-stickman-hero.json) |
 | Stickman Hero Fighting Game | 254749 | [254749-stickman-hero-fighting-game.json](./254749-stickman-hero-fighting-game.json) |
+| Stickman Insane Bullet | 324976 | [324976-stickman-insane-bullet.json](./324976-stickman-insane-bullet.json) |
 | Stickman Jailbreak 2024 | 292160 | [292160-stickman-jailbreak-2024.json](./292160-stickman-jailbreak-2024.json) |
 | Stickman Kill Sergeant | 220222 | [220222-stickman-kill-sergeant.json](./220222-stickman-kill-sergeant.json) |
 | Stickman League | 127194 | [127194-stickman-league.json](./127194-stickman-league.json) |
