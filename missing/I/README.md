@@ -2627,6 +2627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intruder on the Bridge | 173839 | [173839-intruder-on-the-bridge.json](./173839-intruder-on-the-bridge.json) |
 | Intrusion 2 | 6277 | [6277-intrusion-2.json](./6277-intrusion-2.json) |
 | Intrusion of Alice | 223175 | [223175-intrusion-of-alice.json](./223175-intrusion-of-alice.json) |
+| Intrusive Thoughts | 325517 | [325517-intrusive-thoughts.json](./325517-intrusive-thoughts.json) |
 | Inu Dai Suki! | 46604 | [46604-inu-dai-suki.json](./46604-inu-dai-suki.json) |
 | Inu no Osanpo | 169323 | [169323-inu-no-osanpo.json](./169323-inu-no-osanpo.json) |
 | Inuit Uppirijatuqangit | 293689 | [293689-inuit-uppirijatuqangit.json](./293689-inuit-uppirijatuqangit.json) |
