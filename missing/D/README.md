@@ -2000,6 +2000,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadshot | 215784 | [215784-deadshot.json](./215784-deadshot.json) |
 | DeadShotZ | 129914 | [129914-deadshotz.json](./129914-deadshotz.json) |
 | Deadside | 109666 | [109666-deadside.json](./109666-deadside.json) |
+| Deadside: "Anatomical Atlas" Skin Set | 296629 | [296629-deadside-anatomical-atlas-skin-set.json](./296629-deadside-anatomical-atlas-skin-set.json) |
+| Deadside: "DragonSkin" Skin Set | 296597 | [296597-deadside-dragonskin-skin-set.json](./296597-deadside-dragonskin-skin-set.json) |
+| Deadside: "Ghost From The Deep" Skin Set | 296627 | [296627-deadside-ghost-from-the-deep-skin-set.json](./296627-deadside-ghost-from-the-deep-skin-set.json) |
 | Deadside: Beehive Skin Set | 338015 | [338015-deadside-beehive-skin-set.json](./338015-deadside-beehive-skin-set.json) |
 | Deadside: Bushranger Skin Set | 338024 | [338024-deadside-bushranger-skin-set.json](./338024-deadside-bushranger-skin-set.json) |
 | Deadside: Dragonfly Skin Set | 338023 | [338023-deadside-dragonfly-skin-set.json](./338023-deadside-dragonfly-skin-set.json) |
@@ -3357,6 +3360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert of Doitjma | 128437 | [128437-desert-of-doitjma.json](./128437-desert-of-doitjma.json) |
 | Desert Of The Undead New Frontiers | 296364 | [296364-desert-of-the-undead-new-frontiers.json](./296364-desert-of-the-undead-new-frontiers.json) |
 | Desert of Vice | 95169 | [95169-desert-of-vice.json](./95169-desert-of-vice.json) |
+| Desert Race Adventures | 296592 | [296592-desert-race-adventures.json](./296592-desert-race-adventures.json) |
 | Desert Racer | 61646 | [61646-desert-racer.json](./61646-desert-racer.json) |
 | Desert Raider | 151174 | [151174-desert-raider.json](./151174-desert-raider.json) |
 | Desert Rats | 12419 | [12419-desert-rats.json](./12419-desert-rats.json) |
