@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quaterneo | 183535 | [183535-quaterneo.json](./183535-quaterneo.json) |
 | Quatris | 153350 | [153350-quatris.json](./153350-quatris.json) |
 | Quatro Luzes | 34203 | [34203-quatro-luzes.json](./34203-quatro-luzes.json) |
+| Quatro!: Eclipse DLC | 298254 | [298254-quatro-eclipse-dlc.json](./298254-quatro-eclipse-dlc.json) |
 | Quatro!: This is fine DLC | 253368 | [253368-quatro-this-is-fine-dlc.json](./253368-quatro-this-is-fine-dlc.json) |
 | Quatros Noir | 298159 | [298159-quatros-noir.json](./298159-quatros-noir.json) |
 | Quattro Adventure | 48218 | [48218-quattro-adventure.json](./48218-quattro-adventure.json) |
