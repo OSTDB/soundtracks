@@ -3381,6 +3381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lock-On | 95392 | [95392-lock-on.json](./95392-lock-on.json) |
 | Lock's Quest | 18264 | [18264-locks-quest.json](./18264-locks-quest.json) |
 | Lock's Quest | 46557 | [46557-locks-quest.json](./46557-locks-quest.json) |
+| Lockdown | 286791 | [286791-lockdown.json](./286791-lockdown.json) |
 | Lockdown Lewd Up! | 159315 | [159315-lockdown-lewd-up.json](./159315-lockdown-lewd-up.json) |
 | Lockdown Opportunities | 333769 | [333769-lockdown-opportunities.json](./333769-lockdown-opportunities.json) |
 | Lockdown Protocol | 176469 | [176469-lockdown-protocol.json](./176469-lockdown-protocol.json) |
@@ -3674,6 +3675,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Look to the Birds | 414434 | [414434-look-to-the-birds.json](./414434-look-to-the-birds.json) |
 | Looking | 178031 | [178031-looking.json](./178031-looking.json) |
 | Looking for Aliens: Collector's Edition | 247510 | [247510-looking-for-aliens-collectors-edition.json](./247510-looking-for-aliens-collectors-edition.json) |
+| Looking For Cats In a Badly Drawn City | 286758 | [286758-looking-for-cats-in-a-badly-drawn-city.json](./286758-looking-for-cats-in-a-badly-drawn-city.json) |
+| Looking For Cats In a Badly Drawn Forest | 286760 | [286760-looking-for-cats-in-a-badly-drawn-forest.json](./286760-looking-for-cats-in-a-badly-drawn-forest.json) |
 | Looking For Cats In a Badly Drawn Forest: Extra Content | 292678 | [292678-looking-for-cats-in-a-badly-drawn-forest-extra-content.json](./292678-looking-for-cats-in-a-badly-drawn-forest-extra-content.json) |
 | Looking for Cold Girls | 291692 | [291692-looking-for-cold-girls.json](./291692-looking-for-cold-girls.json) |
 | Looking For Healer | 63003 | [63003-looking-for-healer.json](./63003-looking-for-healer.json) |
@@ -4933,6 +4936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunatic Dawn IV | 375376 | [375376-lunatic-dawn-iv.json](./375376-lunatic-dawn-iv.json) |
 | Lunatic Dawn Odyssey | 66179 | [66179-lunatic-dawn-odyssey.json](./66179-lunatic-dawn-odyssey.json) |
 | Lunatic Dawn Tempest | 66178 | [66178-lunatic-dawn-tempest.json](./66178-lunatic-dawn-tempest.json) |
+| Lunatic Dawn: Legend Pack | 286755 | [286755-lunatic-dawn-legend-pack.json](./286755-lunatic-dawn-legend-pack.json) |
 | Lunatic Dawn: Passage of the Book | 229141 | [229141-lunatic-dawn-passage-of-the-book.json](./229141-lunatic-dawn-passage-of-the-book.json) |
 | Lunatic Dawn: The Third Book | 375378 | [375378-lunatic-dawn-the-third-book.json](./375378-lunatic-dawn-the-third-book.json) |
 | Lunatic Fringe | 133956 | [133956-lunatic-fringe.json](./133956-lunatic-fringe.json) |
