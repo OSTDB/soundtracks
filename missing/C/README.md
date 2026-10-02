@@ -1111,6 +1111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardcore | 112475 | [112475-cardcore.json](./112475-cardcore.json) |
 | CardCraft | 76552 | [76552-cardcraft.json](./76552-cardcraft.json) |
 | Carderia | 323309 | [323309-carderia.json](./323309-carderia.json) |
+| Cardfight Area | 321423 | [321423-cardfight-area.json](./321423-cardfight-area.json) |
 | Cardfight!! Vanguard Dear Days - Character Set 09: Sophie Belle | 270201 | [270201-cardfight-vanguard-dear-days-character-set-09-sophie-belle.json](./270201-cardfight-vanguard-dear-days-character-set-09-sophie-belle.json) |
 | Cardfight!! Vanguard Dear Days: Character Set 08 - Jinki Mukae | 270192 | [270192-cardfight-vanguard-dear-days-character-set-08-jinki-mukae.json](./270192-cardfight-vanguard-dear-days-character-set-08-jinki-mukae.json) |
 | Cardfight!! Vanguard Dear Days: Character Set 10 - Samuel Fredson | 270191 | [270191-cardfight-vanguard-dear-days-character-set-10-samuel-fredson.json](./270191-cardfight-vanguard-dear-days-character-set-10-samuel-fredson.json) |
@@ -5905,6 +5906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colourise | 29897 | [29897-colourise.json](./29897-colourise.json) |
 | ColourS | 229381 | [229381-colours.json](./229381-colours.json) |
 | Colours and Symbols | 173240 | [173240-colours-and-symbols.json](./173240-colours-and-symbols.json) |
+| Colourspace | 321459 | [321459-colourspace.json](./321459-colourspace.json) |
 | Colton Owen: After All's Over | 309993 | [309993-colton-owen-after-alls-over.json](./309993-colton-owen-after-alls-over.json) |
 | Colum and His Friends | 118346 | [118346-colum-and-his-friends.json](./118346-colum-and-his-friends.json) |
 | Columbo's Mystery Capers | 343251 | [343251-columbos-mystery-capers.json](./343251-columbos-mystery-capers.json) |
