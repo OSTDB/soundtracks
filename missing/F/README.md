@@ -1619,6 +1619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Grand Order: Naraka Mandala - Heian-kyo | 416642 | [416642-fate-grand-order-naraka-mandala-heian-kyo.json](./416642-fate-grand-order-naraka-mandala-heian-kyo.json) |
 | Fate/Grand Order: Ordeal Call I - Paper Moon | 414359 | [414359-fate-grand-order-ordeal-call-i-paper-moon.json](./414359-fate-grand-order-ordeal-call-i-paper-moon.json) |
 | Fate/Hollow Ataraxia | 275640 | [275640-fate-hollow-ataraxia.json](./275640-fate-hollow-ataraxia.json) |
+| Fate/Samurai Remnant: Additional Episode 1 - Record's Fragment: Keian Command Championship | 286213 | [286213-fate-samurai-remnant-additional-episode-1-records-fragment-keian-command-championship.json](./286213-fate-samurai-remnant-additional-episode-1-records-fragment-keian-command-championship.json) |
 | Fate/Samurai Remnant: Digital Deluxe Edition | 259526 | [259526-fate-samurai-remnant-digital-deluxe-edition.json](./259526-fate-samurai-remnant-digital-deluxe-edition.json) |
 | Fate/Stay Night | 12328 | [12328-fate-stay-night.json](./12328-fate-stay-night.json) |
 | Fate/Stay Night: First Press Limited Edition | 307303 | [307303-fate-stay-night-first-press-limited-edition.json](./307303-fate-stay-night-first-press-limited-edition.json) |
@@ -6236,7 +6237,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen Friends | 146683 | [146683-frozen-friends.json](./146683-frozen-friends.json) |
 | Frozen Fruits | 307334 | [307334-frozen-fruits.json](./307334-frozen-fruits.json) |
 | Frozen Heart | 311460 | [311460-frozen-heart.json](./311460-frozen-heart.json) |
+| Frozen Honey ASMR: Frost Pack | 286207 | [286207-frozen-honey-asmr-frost-pack.json](./286207-frozen-honey-asmr-frost-pack.json) |
 | Frozen Honey ASMR: Sleek Edition | 306520 | [306520-frozen-honey-asmr-sleek-edition.json](./306520-frozen-honey-asmr-sleek-edition.json) |
+| Frozen Honey ASMR: Truck Pack | 286208 | [286208-frozen-honey-asmr-truck-pack.json](./286208-frozen-honey-asmr-truck-pack.json) |
+| Frozen Honey ASMR: Yucky Pack | 286209 | [286209-frozen-honey-asmr-yucky-pack.json](./286209-frozen-honey-asmr-yucky-pack.json) |
 | Frozen Inferno | 328245 | [328245-frozen-inferno.json](./328245-frozen-inferno.json) |
 | Frozen Injustice: Fridge Adventures | 324334 | [324334-frozen-injustice-fridge-adventures.json](./324334-frozen-injustice-fridge-adventures.json) |
 | Frozen Islands | 101936 | [101936-frozen-islands.json](./101936-frozen-islands.json) |
@@ -6639,6 +6643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furby Island | 233987 | [233987-furby-island.json](./233987-furby-island.json) |
 | Furcadia | 18343 | [18343-furcadia.json](./18343-furcadia.json) |
 | Furcadia: The Second Dreaming | 300875 | [300875-furcadia-the-second-dreaming.json](./300875-furcadia-the-second-dreaming.json) |
+| Furea Uerzt | 286233 | [286233-furea-uerzt.json](./286233-furea-uerzt.json) |
 | Fureraba: Friend to Lover | 60763 | [60763-fureraba-friend-to-lover.json](./60763-fureraba-friend-to-lover.json) |
 | Fureraba: Friend to Lover - Mini Fandisk | 77936 | [77936-fureraba-friend-to-lover-mini-fandisk.json](./77936-fureraba-friend-to-lover-mini-fandisk.json) |
 | Furi | 17026 | [17026-furi.json](./17026-furi.json) |
