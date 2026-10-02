@@ -518,11 +518,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Thunder: Ancient Tank Bundle | 303028 | [303028-war-thunder-ancient-tank-bundle.json](./303028-war-thunder-ancient-tank-bundle.json) |
 | War Thunder: AV-8B Night Attack Bundle | 331501 | [331501-war-thunder-av-8b-night-attack-bundle.json](./331501-war-thunder-av-8b-night-attack-bundle.json) |
 | War Thunder: Challenger DS Pack | 336933 | [336933-war-thunder-challenger-ds-pack.json](./336933-war-thunder-challenger-ds-pack.json) |
+| War Thunder: Ezer Weizman's Spitfire Pack | 332075 | [332075-war-thunder-ezer-weizmans-spitfire-pack.json](./332075-war-thunder-ezer-weizmans-spitfire-pack.json) |
+| War Thunder: F-20A Tigershark Pack | 332076 | [332076-war-thunder-f-20a-tigershark-pack.json](./332076-war-thunder-f-20a-tigershark-pack.json) |
 | War Thunder: Ground Forces | 115024 | [115024-war-thunder-ground-forces.json](./115024-war-thunder-ground-forces.json) |
 | War Thunder: IJN Yamashiro Pack | 336934 | [336934-war-thunder-ijn-yamashiro-pack.json](./336934-war-thunder-ijn-yamashiro-pack.json) |
 | War Thunder: IS-6 Pack | 293757 | [293757-war-thunder-is-6-pack.json](./293757-war-thunder-is-6-pack.json) |
+| War Thunder: J-7D Pack | 332077 | [332077-war-thunder-j-7d-pack.json](./332077-war-thunder-j-7d-pack.json) |
 | War Thunder: Leopard 2A4M CAN Bundle | 306492 | [306492-war-thunder-leopard-2a4m-can-bundle.json](./306492-war-thunder-leopard-2a4m-can-bundle.json) |
+| War Thunder: M1A1 HC "Click-Bait" Pack | 332078 | [332078-war-thunder-m1a1-hc-click-bait-pack.json](./332078-war-thunder-m1a1-hc-click-bait-pack.json) |
 | War Thunder: Marder Clovis Pack | 336935 | [336935-war-thunder-marder-clovis-pack.json](./336935-war-thunder-marder-clovis-pack.json) |
+| War Thunder: Merkava Mk.3 Raam Segol Pack | 332081 | [332081-war-thunder-merkava-mk-3-raam-segol-pack.json](./332081-war-thunder-merkava-mk-3-raam-segol-pack.json) |
+| War Thunder: Object 120 Pack | 332079 | [332079-war-thunder-object-120-pack.json](./332079-war-thunder-object-120-pack.json) |
 | War Thunder: Object 140 Bundle | 331499 | [331499-war-thunder-object-140-bundle.json](./331499-war-thunder-object-140-bundle.json) |
 | War Thunder: Reaper Pack | 156104 | [156104-war-thunder-reaper-pack.json](./156104-war-thunder-reaper-pack.json) |
 | War Thunder: Somua SM Pack | 336936 | [336936-war-thunder-somua-sm-pack.json](./336936-war-thunder-somua-sm-pack.json) |
@@ -530,6 +536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Thunder: T-80U-E1 Bundle | 306494 | [306494-war-thunder-t-80u-e1-bundle.json](./306494-war-thunder-t-80u-e1-bundle.json) |
 | War Thunder: T29 Pack | 293762 | [293762-war-thunder-t29-pack.json](./293762-war-thunder-t29-pack.json) |
 | War Thunder: Two Fronts Bundle | 331505 | [331505-war-thunder-two-fronts-bundle.json](./331505-war-thunder-two-fronts-bundle.json) |
+| War Thunder: Type 90B "Fuji" Pack | 332080 | [332080-war-thunder-type-90b-fuji-pack.json](./332080-war-thunder-type-90b-fuji-pack.json) |
 | War Thunder: Type 96A Prototype Pack | 332055 | [332055-war-thunder-type-96a-prototype-pack.json](./332055-war-thunder-type-96a-prototype-pack.json) |
 | War Thunder: Wyvern Pack | 336937 | [336937-war-thunder-wyvern-pack.json](./336937-war-thunder-wyvern-pack.json) |
 | War Times | 77376 | [77376-war-times.json](./77376-war-times.json) |
@@ -748,9 +755,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Space Marine 2 - 2-Year Anniversary Edition | 382902 | [382902-warhammer-40-000-space-marine-2-2-year-anniversary-edition.json](./382902-warhammer-40-000-space-marine-2-2-year-anniversary-edition.json) |
 | Warhammer 40,000: Space Marine Collection | 53904 | [53904-warhammer-40-000-space-marine-collection.json](./53904-warhammer-40-000-space-marine-collection.json) |
 | Warhammer 40,000: Space Marine II - Collector's Edition | 230829 | [230829-warhammer-40-000-space-marine-ii-collectors-edition.json](./230829-warhammer-40-000-space-marine-ii-collectors-edition.json) |
+| Warhammer 40,000: Space Marine II - Dark Angels Chapter Pack | 332083 | [332083-warhammer-40-000-space-marine-ii-dark-angels-chapter-pack.json](./332083-warhammer-40-000-space-marine-ii-dark-angels-chapter-pack.json) |
 | Warhammer 40,000: Space Marine II - Purgation Update | 402513 | [402513-warhammer-40-000-space-marine-ii-purgation-update.json](./402513-warhammer-40-000-space-marine-ii-purgation-update.json) |
 | Warhammer 40,000: Space Marine II - Space Wolves Chapter Pack | 370094 | [370094-warhammer-40-000-space-marine-ii-space-wolves-chapter-pack.json](./370094-warhammer-40-000-space-marine-ii-space-wolves-chapter-pack.json) |
 | Warhammer 40,000: Space Marine II - Trygon Update | 340584 | [340584-warhammer-40-000-space-marine-ii-trygon-update.json](./340584-warhammer-40-000-space-marine-ii-trygon-update.json) |
+| Warhammer 40,000: Space Marine II - Ultramarines Cosmetic Pack | 332084 | [332084-warhammer-40-000-space-marine-ii-ultramarines-cosmetic-pack.json](./332084-warhammer-40-000-space-marine-ii-ultramarines-cosmetic-pack.json) |
 | Warhammer 40,000: Space Marine III | 335432 | [335432-warhammer-40-000-space-marine-iii.json](./335432-warhammer-40-000-space-marine-iii.json) |
 | Warhammer 40,000: Space Marine VR - Defenders of Avarax | 402514 | [402514-warhammer-40-000-space-marine-vr-defenders-of-avarax.json](./402514-warhammer-40-000-space-marine-vr-defenders-of-avarax.json) |
 | Warhammer 40,000: Space Wolf - Drenn Redblade | 163385 | [163385-warhammer-40-000-space-wolf-drenn-redblade.json](./163385-warhammer-40-000-space-wolf-drenn-redblade.json) |
@@ -3989,7 +3998,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Tanks: Heat | 361890 | [361890-world-of-tanks-heat.json](./361890-world-of-tanks-heat.json) |
 | World of Tanks: Independence | 121641 | [121641-world-of-tanks-independence.json](./121641-world-of-tanks-independence.json) |
 | World of Tanks: Modern Armor | 296792 | [296792-world-of-tanks-modern-armor.json](./296792-world-of-tanks-modern-armor.json) |
+| World of Tanks: Modern Armor - Ambush From Afar | 332073 | [332073-world-of-tanks-modern-armor-ambush-from-afar.json](./332073-world-of-tanks-modern-armor-ambush-from-afar.json) |
+| World of Tanks: Modern Armor - Damage Under Cover | 332070 | [332070-world-of-tanks-modern-armor-damage-under-cover.json](./332070-world-of-tanks-modern-armor-damage-under-cover.json) |
+| World of Tanks: Modern Armor - Darkness Rising Starter Pack | 332069 | [332069-world-of-tanks-modern-armor-darkness-rising-starter-pack.json](./332069-world-of-tanks-modern-armor-darkness-rising-starter-pack.json) |
+| World of Tanks: Modern Armor - Enhanced Gains | 332072 | [332072-world-of-tanks-modern-armor-enhanced-gains.json](./332072-world-of-tanks-modern-armor-enhanced-gains.json) |
+| World of Tanks: Modern Armor - First Brawler | 332071 | [332071-world-of-tanks-modern-armor-first-brawler.json](./332071-world-of-tanks-modern-armor-first-brawler.json) |
 | World of Tanks: Modern Armor - Frostbite Starter Pack | 332068 | [332068-world-of-tanks-modern-armor-frostbite-starter-pack.json](./332068-world-of-tanks-modern-armor-frostbite-starter-pack.json) |
+| World of Tanks: Modern Armor - Master Flanker | 332074 | [332074-world-of-tanks-modern-armor-master-flanker.json](./332074-world-of-tanks-modern-armor-master-flanker.json) |
 | World of Tanks: Modern Armor - Metal Dragon | 336938 | [336938-world-of-tanks-modern-armor-metal-dragon.json](./336938-world-of-tanks-modern-armor-metal-dragon.json) |
 | World of Tanks: Modern Armor - Patricia Laserian | 332063 | [332063-world-of-tanks-modern-armor-patricia-laserian.json](./332063-world-of-tanks-modern-armor-patricia-laserian.json) |
 | World of Tanks: Modern Armor - Quick Start | 332057 | [332057-world-of-tanks-modern-armor-quick-start.json](./332057-world-of-tanks-modern-armor-quick-start.json) |
