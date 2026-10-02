@@ -510,6 +510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lasagna Boy | 117149 | [117149-lasagna-boy.json](./117149-lasagna-boy.json) |
 | LaSalle Ishii no Child's Quest | 48792 | [48792-lasalle-ishii-no-childs-quest.json](./48792-lasalle-ishii-no-childs-quest.json) |
 | Laser | 322581 | [322581-laser.json](./322581-laser.json) |
+| Laser 77: Virtual Lab | 280419 | [280419-laser-77-virtual-lab.json](./280419-laser-77-virtual-lab.json) |
 | Laser Arena | 9060 | [9060-laser-arena.json](./9060-laser-arena.json) |
 | Laser Attraction | 144762 | [144762-laser-attraction.json](./144762-laser-attraction.json) |
 | Laser Battle Cats: Travel & Destroy! | 364058 | [364058-laser-battle-cats-travel-and-destroy.json](./364058-laser-battle-cats-travel-and-destroy.json) |
@@ -3561,6 +3562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | London Cab Challenge | 43470 | [43470-london-cab-challenge.json](./43470-london-cab-challenge.json) |
 | London Crazy Taxi | 235217 | [235217-london-crazy-taxi.json](./235217-london-crazy-taxi.json) |
 | London Detective Mysteria | 104261 | [104261-london-detective-mysteria.json](./104261-london-detective-mysteria.json) |
+| London Jerry: Freelance Mailman | 280430 | [280430-london-jerry-freelance-mailman.json](./280430-london-jerry-freelance-mailman.json) |
 | London Racer II | 12897 | [12897-london-racer-ii.json](./12897-london-racer-ii.json) |
 | London Racer: Destruction Madness | 15438 | [15438-london-racer-destruction-madness.json](./15438-london-racer-destruction-madness.json) |
 | London Racer: Police Madness | 15436 | [15436-london-racer-police-madness.json](./15436-london-racer-police-madness.json) |
@@ -3751,6 +3753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looper Looper | 255997 | [255997-looper-looper.json](./255997-looper-looper.json) |
 | LooperLands | 291984 | [291984-looperlands.json](./291984-looperlands.json) |
 | Loopers | 140632 | [140632-loopers.json](./140632-loopers.json) |
+| Loopers Plus | 280453 | [280453-loopers-plus.json](./280453-loopers-plus.json) |
 | Loopfang | 418663 | [418663-loopfang.json](./418663-loopfang.json) |
 | Loophole | 350443 | [350443-loophole.json](./350443-loophole.json) |
 | Loophole Pie | 364619 | [364619-loophole-pie.json](./364619-loophole-pie.json) |
