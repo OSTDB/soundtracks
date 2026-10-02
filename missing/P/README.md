@@ -1047,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paragraph 78 | 72749 | [72749-paragraph-78.json](./72749-paragraph-78.json) |
 | Parahcuy | 321493 | [321493-parahcuy.json](./321493-parahcuy.json) |
 | Paraido | 265781 | [265781-paraido.json](./265781-paraido.json) |
+| Paraiso | 299390 | [299390-paraiso.json](./299390-paraiso.json) |
 | Parallax | 271743 | [271743-parallax.json](./271743-parallax.json) |
 | Parallax | 28847 | [28847-parallax.json](./28847-parallax.json) |
 | Parallax | 292841 | [292841-parallax.json](./292841-parallax.json) |
@@ -5969,6 +5970,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pom-Bear Interactive CD | 330358 | [330358-pom-bear-interactive-cd.json](./330358-pom-bear-interactive-cd.json) |
 | Pomberito | 286078 | [286078-pomberito.json](./286078-pomberito.json) |
 | Pombero: The Lord of the Night - Reborn | 260757 | [260757-pombero-the-lord-of-the-night-reborn.json](./260757-pombero-the-lord-of-the-night-reborn.json) |
+| Pome Rumble | 299415 | [299415-pome-rumble.json](./299415-pome-rumble.json) |
+| Pome Rumble M | 299416 | [299416-pome-rumble-m.json](./299416-pome-rumble-m.json) |
 | Pomelo & Friends: Sevilla | 373137 | [373137-pomelo-and-friends-sevilla.json](./373137-pomelo-and-friends-sevilla.json) |
 | Pommy | 86103 | [86103-pommy.json](./86103-pommy.json) |
 | Pomo Post | 319389 | [319389-pomo-post.json](./319389-pomo-post.json) |
@@ -8603,6 +8606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purrtopia | 413852 | [413852-purrtopia.json](./413852-purrtopia.json) |
 | Purry & Panther: Lost in Helsinki | 304646 | [304646-purry-and-panther-lost-in-helsinki.json](./304646-purry-and-panther-lost-in-helsinki.json) |
 | Pursuing Susie | 84534 | [84534-pursuing-susie.json](./84534-pursuing-susie.json) |
+| Pursuit Force: Extreme Justice | 299391 | [299391-pursuit-force-extreme-justice.json](./299391-pursuit-force-extreme-justice.json) |
 | Pursuit of Light | 104272 | [104272-pursuit-of-light.json](./104272-pursuit-of-light.json) |
 | Pursuit of Power 2 | 30866 | [30866-pursuit-of-power-2.json](./30866-pursuit-of-power-2.json) |
 | Pursuit of Redemption | 148979 | [148979-pursuit-of-redemption.json](./148979-pursuit-of-redemption.json) |
