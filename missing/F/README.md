@@ -2448,6 +2448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy VI: Omega-A | 393097 | [393097-final-fantasy-vi-omega-a.json](./393097-final-fantasy-vi-omega-a.json) |
 | Final Fantasy VI: Presentiment Era | 339252 | [339252-final-fantasy-vi-presentiment-era.json](./339252-final-fantasy-vi-presentiment-era.json) |
 | Final Fantasy VI: Revised Old Style Edition | 379343 | [379343-final-fantasy-vi-revised-old-style-edition.json](./379343-final-fantasy-vi-revised-old-style-edition.json) |
+| Final Fantasy VI: The Eternal Crystals | 309600 | [309600-final-fantasy-vi-the-eternal-crystals.json](./309600-final-fantasy-vi-the-eternal-crystals.json) |
 | Final Fantasy VII | 207021 | [207021-final-fantasy-vii.json](./207021-final-fantasy-vii.json) |
 | Final Fantasy VII | 392808 | [392808-final-fantasy-vii.json](./392808-final-fantasy-vii.json) |
 | Final Fantasy VII | 393025 | [393025-final-fantasy-vii.json](./393025-final-fantasy-vii.json) |
@@ -2825,6 +2826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Legends of Avenir | 261267 | [261267-fire-emblem-legends-of-avenir.json](./261267-fire-emblem-legends-of-avenir.json) |
 | Fire Emblem: Midori | 243641 | [243641-fire-emblem-midori.json](./243641-fire-emblem-midori.json) |
 | Fire Emblem: Monshou no Nazo | 1435 | [1435-fire-emblem-monshou-no-nazo.json](./1435-fire-emblem-monshou-no-nazo.json) |
+| Fire Emblem: New Theory of Thracia 776 | 309610 | [309610-fire-emblem-new-theory-of-thracia-776.json](./309610-fire-emblem-new-theory-of-thracia-776.json) |
 | Fire Emblem: Path of Radiance | 1441 | [1441-fire-emblem-path-of-radiance.json](./1441-fire-emblem-path-of-radiance.json) |
 | Fire Emblem: Radiant Dawn | 1442 | [1442-fire-emblem-radiant-dawn.json](./1442-fire-emblem-radiant-dawn.json) |
 | Fire Emblem: Sacred Stones Plus | 229002 | [229002-fire-emblem-sacred-stones-plus.json](./229002-fire-emblem-sacred-stones-plus.json) |
@@ -4511,6 +4513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Footie | 268485 | [268485-footie.json](./268485-footie.json) |
 | FootLOL: Crazy Soccer! | 102620 | [102620-footlol-crazy-soccer.json](./102620-footlol-crazy-soccer.json) |
 | Footlord | 383527 | [383527-footlord.json](./383527-footlord.json) |
+| Footprints Combination | 309565 | [309565-footprints-combination.json](./309565-footprints-combination.json) |
 | FootRock 2 | 29902 | [29902-footrock-2.json](./29902-footrock-2.json) |
 | Footsies Rollback Edition | 139359 | [139359-footsies-rollback-edition.json](./139359-footsies-rollback-edition.json) |
 | Footsy | 311139 | [311139-footsy.json](./311139-footsy.json) |
