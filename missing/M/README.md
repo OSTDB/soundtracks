@@ -7487,6 +7487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monoshiri Jiyuugaku: Ogura Hyakunin Isshu-hen | 268514 | [268514-monoshiri-jiyuugaku-ogura-hyakunin-isshu-hen.json](./268514-monoshiri-jiyuugaku-ogura-hyakunin-isshu-hen.json) |
 | Monospaced Lovers | 130844 | [130844-monospaced-lovers.json](./130844-monospaced-lovers.json) |
 | Monotose | 202316 | [202316-monotose.json](./202316-monotose.json) |
+| Monoyellow Madness | 321443 | [321443-monoyellow-madness.json](./321443-monoyellow-madness.json) |
 | Monpals | 228383 | [228383-monpals.json](./228383-monpals.json) |
 | Monria | 22385 | [22385-monria.json](./22385-monria.json) |
 | Monroe Park | 376564 | [376564-monroe-park.json](./376564-monroe-park.json) |
@@ -9419,6 +9420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom Kid's Big Grass Sword | 285525 | [285525-mushroom-kids-big-grass-sword.json](./285525-mushroom-kids-big-grass-sword.json) |
 | Mushroom Kingdom Fusion | 134078 | [134078-mushroom-kingdom-fusion.json](./134078-mushroom-kingdom-fusion.json) |
 | Mushroom Kingdom Showdown | 307714 | [307714-mushroom-kingdom-showdown.json](./307714-mushroom-kingdom-showdown.json) |
+| Mushroom Kingdom Showdown 2 | 321412 | [321412-mushroom-kingdom-showdown-2.json](./321412-mushroom-kingdom-showdown-2.json) |
 | Mushroom Manor | 358476 | [358476-mushroom-manor.json](./358476-mushroom-manor.json) |
 | Mushroom Moonrise | 287780 | [287780-mushroom-moonrise.json](./287780-mushroom-moonrise.json) |
 | Mushroom Mountain | 248114 | [248114-mushroom-mountain.json](./248114-mushroom-mountain.json) |
