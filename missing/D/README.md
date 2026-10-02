@@ -2893,6 +2893,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deltarune: Wilter's Wonderland | 350545 | [350545-deltarune-wilters-wonderland.json](./350545-deltarune-wilters-wonderland.json) |
 | Deltatale | 318535 | [318535-deltatale.json](./318535-deltatale.json) |
 | Deltatraveler | 182345 | [182345-deltatraveler.json](./182345-deltatraveler.json) |
+| Deltatraveler: Section 1 | 307807 | [307807-deltatraveler-section-1.json](./307807-deltatraveler-section-1.json) |
+| Deltatraveler: Section 2 | 307811 | [307811-deltatraveler-section-2.json](./307811-deltatraveler-section-2.json) |
+| Deltatraveler: Section 3 | 307815 | [307815-deltatraveler-section-3.json](./307815-deltatraveler-section-3.json) |
 | Deltatraveler: Section 4 | 315072 | [315072-deltatraveler-section-4.json](./315072-deltatraveler-section-4.json) |
 | Delucid | 390254 | [390254-delucid.json](./390254-delucid.json) |
 | Deluge | 351644 | [351644-deluge.json](./351644-deluge.json) |
@@ -3957,6 +3960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Crush 2 | 343975 | [343975-diamond-crush-2.json](./343975-diamond-crush-2.json) |
 | Diamond Dash | 72688 | [72688-diamond-dash.json](./72688-diamond-dash.json) |
 | Diamond Dash: Plaid Peril | 276224 | [276224-diamond-dash-plaid-peril.json](./276224-diamond-dash-plaid-peril.json) |
+| Diamond Detective | 307847 | [307847-diamond-detective.json](./307847-diamond-detective.json) |
 | Diamond Diaries Saga | 105511 | [105511-diamond-diaries-saga.json](./105511-diamond-diaries-saga.json) |
 | Diamond Diaries Saga | 105793 | [105793-diamond-diaries-saga.json](./105793-diamond-diaries-saga.json) |
 | Diamond Digger Saga | 391081 | [391081-diamond-digger-saga.json](./391081-diamond-digger-saga.json) |
@@ -6305,6 +6309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomer | 189104 | [189104-doomer.json](./189104-doomer.json) |
 | DoomGals | 202836 | [202836-doomgals.json](./202836-doomgals.json) |
 | Doomies | 253972 | [253972-doomies.json](./253972-doomies.json) |
+| Doomium | 307817 | [307817-doomium.json](./307817-doomium.json) |
 | Doomkid's Mega! | 262998 | [262998-doomkids-mega.json](./262998-doomkids-mega.json) |
 | Doomori | 182208 | [182208-doomori.json](./182208-doomori.json) |
 | DOOMpad | 246907 | [246907-doompad.json](./246907-doompad.json) |
@@ -7017,6 +7022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Kakarot - Daima: Adventure Through The Demon Realm Part 2 | 333618 | [333618-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-part-2.json](./333618-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-part-2.json) |
 | Dragon Ball Z: Kakarot - Dragon Ball Card Warriors | 142494 | [142494-dragon-ball-z-kakarot-dragon-ball-card-warriors.json](./142494-dragon-ball-z-kakarot-dragon-ball-card-warriors.json) |
 | Dragon Ball Z: Kakarot - Season Pass | 141113 | [141113-dragon-ball-z-kakarot-season-pass.json](./141113-dragon-ball-z-kakarot-season-pass.json) |
+| Dragon Ball Z: Kakarot - Season Pass 2 | 307831 | [307831-dragon-ball-z-kakarot-season-pass-2.json](./307831-dragon-ball-z-kakarot-season-pass-2.json) |
 | Dragon Ball Z: Kakarot - Ultimate Edition | 136271 | [136271-dragon-ball-z-kakarot-ultimate-edition.json](./136271-dragon-ball-z-kakarot-ultimate-edition.json) |
 | Dragon Ball Z: Kakarot + A New Power Awakens Set - Goku's Next Journey | 288303 | [288303-dragon-ball-z-kakarot-a-new-power-awakens-set-gokus-next-journey.json](./288303-dragon-ball-z-kakarot-a-new-power-awakens-set-gokus-next-journey.json) |
 | Dragon Ball Z: Kakarot + A New Power Awakens Set - Legendary Edition | 232992 | [232992-dragon-ball-z-kakarot-a-new-power-awakens-set-legendary-edition.json](./232992-dragon-ball-z-kakarot-a-new-power-awakens-set-legendary-edition.json) |
@@ -8100,6 +8106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Race Simulator Pilot Flight School Airplane Games Jet 2023 | 227515 | [227515-drone-race-simulator-pilot-flight-school-airplane-games-jet-2023.json](./227515-drone-race-simulator-pilot-flight-school-airplane-games-jet-2023.json) |
 | Drone Racer | 127200 | [127200-drone-racer.json](./127200-drone-racer.json) |
 | Drone Racer: Fly Stunt Simulator | 287663 | [287663-drone-racer-fly-stunt-simulator.json](./287663-drone-racer-fly-stunt-simulator.json) |
+| Drone Racing Genesis | 307865 | [307865-drone-racing-genesis.json](./307865-drone-racing-genesis.json) |
 | Drone Sector | 329148 | [329148-drone-sector.json](./329148-drone-sector.json) |
 | Drone Shadow Strike | 303262 | [303262-drone-shadow-strike.json](./303262-drone-shadow-strike.json) |
 | Drone Showcase | 186287 | [186287-drone-showcase.json](./186287-drone-showcase.json) |
