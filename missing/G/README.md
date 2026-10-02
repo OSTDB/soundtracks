@@ -2002,6 +2002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gift | 132101 | [132101-gift.json](./132101-gift.json) |
 | Gift | 240745 | [240745-gift.json](./240745-gift.json) |
 | Gift | 95440 | [95440-gift.json](./95440-gift.json) |
+| Gift Collector | 326141 | [326141-gift-collector.json](./326141-gift-collector.json) |
 | Gift Drop Machine: Life Simulator | 390242 | [390242-gift-drop-machine-life-simulator.json](./390242-gift-drop-machine-life-simulator.json) |
 | Gift for You | 290702 | [290702-gift-for-you.json](./290702-gift-for-you.json) |
 | Gift From God | 411770 | [411770-gift-from-god.json](./411770-gift-from-god.json) |
