@@ -179,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Have More Hours Than You | 340511 | [340511-i-have-more-hours-than-you.json](./340511-i-have-more-hours-than-you.json) |
 | I Have No Change | 348311 | [348311-i-have-no-change.json](./348311-i-have-no-change.json) |
 | I Have No Nose and I Must Climb | 244345 | [244345-i-have-no-nose-and-i-must-climb.json](./244345-i-have-no-nose-and-i-must-climb.json) |
+| I Have One Day | 320247 | [320247-i-have-one-day.json](./320247-i-have-one-day.json) |
 | I Hear Them | 398454 | [398454-i-hear-them.json](./398454-i-hear-them.json) |
 | I heard a dog barking | 177522 | [177522-i-heard-a-dog-barking.json](./177522-i-heard-a-dog-barking.json) |
 | I Heart Shift | 67672 | [67672-i-heart-shift.json](./67672-i-heart-shift.json) |
