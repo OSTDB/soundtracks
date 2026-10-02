@@ -388,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Tale Puzzles: Magic Objects - Alice in Wonderland: The Tea Party | 238056 | [238056-fairy-tale-puzzles-magic-objects-alice-in-wonderland-the-tea-party.json](./238056-fairy-tale-puzzles-magic-objects-alice-in-wonderland-the-tea-party.json) |
 | Fairy Tale TD 2 | 348885 | [348885-fairy-tale-td-2.json](./348885-fairy-tale-td-2.json) |
 | Fairy Tale Tower Defense | 357835 | [357835-fairy-tale-tower-defense.json](./357835-fairy-tale-tower-defense.json) |
+| Fairy Tales 4 Kids Interactive | 293340 | [293340-fairy-tales-4-kids-interactive.json](./293340-fairy-tales-4-kids-interactive.json) |
 | Fairy Tower | 213964 | [213964-fairy-tower.json](./213964-fairy-tower.json) |
 | Fairy Tower | 218159 | [218159-fairy-tower.json](./218159-fairy-tower.json) |
 | Fairy Tower Defense | 107812 | [107812-fairy-tower-defense.json](./107812-fairy-tower-defense.json) |
@@ -4330,6 +4331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Folding Maze | 195700 | [195700-folding-maze.json](./195700-folding-maze.json) |
 | Foldit | 92609 | [92609-foldit.json](./92609-foldit.json) |
 | Foldy's OS Quest | 335865 | [335865-foldys-os-quest.json](./335865-foldys-os-quest.json) |
+| Folgore | 293878 | [293878-folgore.json](./293878-folgore.json) |
 | Foliage vs. Undead | 330828 | [330828-foliage-vs-undead.json](./330828-foliage-vs-undead.json) |
 | Folie Fatale: Kousaku Fanaticism | 364513 | [364513-folie-fatale-kousaku-fanaticism.json](./364513-folie-fatale-kousaku-fanaticism.json) |
 | Folk Emerging | 244766 | [244766-folk-emerging.json](./244766-folk-emerging.json) |
