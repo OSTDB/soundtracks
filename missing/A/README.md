@@ -3075,6 +3075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alienoid | 57685 | [57685-alienoid.json](./57685-alienoid.json) |
 | Aliens | 13680 | [13680-aliens.json](./13680-aliens.json) |
 | Aliens | 186868 | [186868-aliens.json](./186868-aliens.json) |
+| Aliens | 290101 | [290101-aliens.json](./290101-aliens.json) |
 | Aliens Adventure | 149488 | [149488-aliens-adventure.json](./149488-aliens-adventure.json) |
 | Aliens After Ava | 211212 | [211212-aliens-after-ava.json](./211212-aliens-after-ava.json) |
 | Aliens and Asteroids | 296515 | [296515-aliens-and-asteroids.json](./296515-aliens-and-asteroids.json) |
