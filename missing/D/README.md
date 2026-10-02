@@ -1429,6 +1429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daymare Cat: 10-year Anniversary | 257659 | [257659-daymare-cat-10-year-anniversary.json](./257659-daymare-cat-10-year-anniversary.json) |
 | Daymare Stray | 250344 | [250344-daymare-stray.json](./250344-daymare-stray.json) |
 | Daymare Town | 257446 | [257446-daymare-town.json](./257446-daymare-town.json) |
+| Daymare Town | 279235 | [279235-daymare-town.json](./279235-daymare-town.json) |
 | Daymare Town 2 | 257642 | [257642-daymare-town-2.json](./257642-daymare-town-2.json) |
 | Daymare Town 2 | 257643 | [257643-daymare-town-2.json](./257643-daymare-town-2.json) |
 | Daymare Town 3 | 257644 | [257644-daymare-town-3.json](./257644-daymare-town-3.json) |
@@ -4959,16 +4960,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Classic Games: Aladdin and The Lion King - The Jungle Book and More Aladdin Pack | 204668 | [204668-disney-classic-games-aladdin-and-the-lion-king-the-jungle-book-and-more-aladdin-pack.json](./204668-disney-classic-games-aladdin-and-the-lion-king-the-jungle-book-and-more-aladdin-pack.json) |
 | Disney Classics: Master Mouse - Show Time Quiz | 228447 | [228447-disney-classics-master-mouse-show-time-quiz.json](./228447-disney-classics-master-mouse-show-time-quiz.json) |
 | Disney Dreamlight Valley | 198506 | [198506-disney-dreamlight-valley.json](./198506-disney-dreamlight-valley.json) |
+| Disney Dreamlight Valley: A Rift in Time - Chapter 1: Welcome to Eternity Isle | 279238 | [279238-disney-dreamlight-valley-a-rift-in-time-chapter-1-welcome-to-eternity-isle.json](./279238-disney-dreamlight-valley-a-rift-in-time-chapter-1-welcome-to-eternity-isle.json) |
 | Disney Dreamlight Valley: Arcade Edition | 357417 | [357417-disney-dreamlight-valley-arcade-edition.json](./357417-disney-dreamlight-valley-arcade-edition.json) |
 | Disney Dreamlight Valley: Cozy Edition | 270205 | [270205-disney-dreamlight-valley-cozy-edition.json](./270205-disney-dreamlight-valley-cozy-edition.json) |
 | Disney Dreamlight Valley: Deluxe Edition | 214448 | [214448-disney-dreamlight-valley-deluxe-edition.json](./214448-disney-dreamlight-valley-deluxe-edition.json) |
 | Disney Dreamlight Valley: Emotional Rescue | 362263 | [362263-disney-dreamlight-valley-emotional-rescue.json](./362263-disney-dreamlight-valley-emotional-rescue.json) |
 | Disney Dreamlight Valley: Enchanted Adventure | 266853 | [266853-disney-dreamlight-valley-enchanted-adventure.json](./266853-disney-dreamlight-valley-enchanted-adventure.json) |
+| Disney Dreamlight Valley: Gold Edition | 279247 | [279247-disney-dreamlight-valley-gold-edition.json](./279247-disney-dreamlight-valley-gold-edition.json) |
 | Disney Dreamlight Valley: Missions in Uncharted Space | 228430 | [228430-disney-dreamlight-valley-missions-in-uncharted-space.json](./228430-disney-dreamlight-valley-missions-in-uncharted-space.json) |
 | Disney Dreamlight Valley: Mysteries of Skull Rock | 355677 | [355677-disney-dreamlight-valley-mysteries-of-skull-rock.json](./355677-disney-dreamlight-valley-mysteries-of-skull-rock.json) |
 | Disney Dreamlight Valley: Puppy Love | 391298 | [391298-disney-dreamlight-valley-puppy-love.json](./391298-disney-dreamlight-valley-puppy-love.json) |
 | Disney Dreamlight Valley: Return to Beast's Castle | 371229 | [371229-disney-dreamlight-valley-return-to-beasts-castle.json](./371229-disney-dreamlight-valley-return-to-beasts-castle.json) |
 | Disney Dreamlight Valley: Scar's Kingdom | 222272 | [222272-disney-dreamlight-valley-scars-kingdom.json](./222272-disney-dreamlight-valley-scars-kingdom.json) |
+| Disney Dreamlight Valley: The Pumpkin King Returns | 279239 | [279239-disney-dreamlight-valley-the-pumpkin-king-returns.json](./279239-disney-dreamlight-valley-the-pumpkin-king-returns.json) |
 | Disney Dreamlight Valley: The Winter Ball | 381099 | [381099-disney-dreamlight-valley-the-winter-ball.json](./381099-disney-dreamlight-valley-the-winter-ball.json) |
 | Disney Dreamlight Valley: Thrills & Frills | 300014 | [300014-disney-dreamlight-valley-thrills-and-frills.json](./300014-disney-dreamlight-valley-thrills-and-frills.json) |
 | Disney Dreamlight Valley: Ultimate Edition | 214449 | [214449-disney-dreamlight-valley-ultimate-edition.json](./214449-disney-dreamlight-valley-ultimate-edition.json) |
