@@ -3128,6 +3128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isles of Yore | 189958 | [189958-isles-of-yore.json](./189958-isles-of-yore.json) |
 | Islet Hell | 367596 | [367596-islet-hell.json](./367596-islet-hell.json) |
 | Islets | 180154 | [180154-islets.json](./180154-islets.json) |
+| Islets Defense | 322054 | [322054-islets-defense.json](./322054-islets-defense.json) |
 | Isly | 185010 | [185010-isly.json](./185010-isly.json) |
 | iSnake | 87703 | [87703-isnake.json](./87703-isnake.json) |
 | Iso | 100225 | [100225-iso.json](./100225-iso.json) |
