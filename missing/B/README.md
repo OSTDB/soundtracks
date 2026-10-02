@@ -2742,6 +2742,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauties and Beasts | 317315 | [317315-beauties-and-beasts.json](./317315-beauties-and-beasts.json) |
 | Beauties Unveiled | 284499 | [284499-beauties-unveiled.json](./284499-beauties-unveiled.json) |
 | Beauties Unveiled 2: CEO 69 Edition | 315874 | [315874-beauties-unveiled-2-ceo-69-edition.json](./315874-beauties-unveiled-2-ceo-69-edition.json) |
+| Beauties Unveiled: Ariadne Level Pack | 312098 | [312098-beauties-unveiled-ariadne-level-pack.json](./312098-beauties-unveiled-ariadne-level-pack.json) |
+| Beauties Unveiled: BackySoftie Level Pack | 312099 | [312099-beauties-unveiled-backysoftie-level-pack.json](./312099-beauties-unveiled-backysoftie-level-pack.json) |
+| Beauties Unveiled: Bianca Level Pack | 312100 | [312100-beauties-unveiled-bianca-level-pack.json](./312100-beauties-unveiled-bianca-level-pack.json) |
+| Beauties Unveiled: Gisele Level Pack | 312101 | [312101-beauties-unveiled-gisele-level-pack.json](./312101-beauties-unveiled-gisele-level-pack.json) |
 | Beauties Unveiled: Hot Edition | 298568 | [298568-beauties-unveiled-hot-edition.json](./298568-beauties-unveiled-hot-edition.json) |
 | Beauties Unveiled: NoirPetal Level Pack | 284508 | [284508-beauties-unveiled-noirpetal-level-pack.json](./284508-beauties-unveiled-noirpetal-level-pack.json) |
 | Beautiful Amazing Jungle Animals for Kids | 100194 | [100194-beautiful-amazing-jungle-animals-for-kids.json](./100194-beautiful-amazing-jungle-animals-for-kids.json) |
@@ -4457,6 +4461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Spot | 193880 | [193880-black-spot.json](./193880-black-spot.json) |
 | Black Star | 319571 | [319571-black-star.json](./319571-black-star.json) |
 | Black Stone: Magic & Steel | 5750 | [5750-black-stone-magic-and-steel.json](./5750-black-stone-magic-and-steel.json) |
+| Black Submarine: Deep Seek | 312208 | [312208-black-submarine-deep-seek.json](./312208-black-submarine-deep-seek.json) |
 | Black Sun | 380004 | [380004-black-sun.json](./380004-black-sun.json) |
 | Black Survival: Return to Lumia | 282115 | [282115-black-survival-return-to-lumia.json](./282115-black-survival-return-to-lumia.json) |
 | Black Swan: Collector's Edition | 196315 | [196315-black-swan-collectors-edition.json](./196315-black-swan-collectors-edition.json) |
@@ -6362,6 +6367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Faster | 157198 | [157198-boom-faster.json](./157198-boom-faster.json) |
 | Boom Karts: Multiplayer Kart Racing | 144982 | [144982-boom-karts-multiplayer-kart-racing.json](./144982-boom-karts-multiplayer-kart-racing.json) |
 | Boom Lift Operator | 298156 | [298156-boom-lift-operator.json](./298156-boom-lift-operator.json) |
+| Boom Robots | 312094 | [312094-boom-robots.json](./312094-boom-robots.json) |
 | Boom Shocketa: Rocket Storm | 217303 | [217303-boom-shocketa-rocket-storm.json](./217303-boom-shocketa-rocket-storm.json) |
 | Boom Slingers | 142879 | [142879-boom-slingers.json](./142879-boom-slingers.json) |
 | Boom Zoo | 297226 | [297226-boom-zoo.json](./297226-boom-zoo.json) |
@@ -7762,6 +7768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BROMS: Battle Royale Management Simulator | 410877 | [410877-broms-battle-royale-management-simulator.json](./410877-broms-battle-royale-management-simulator.json) |
 | Bronk's Jungle Adventure | 143679 | [143679-bronks-jungle-adventure.json](./143679-bronks-jungle-adventure.json) |
 | Bronkie the Bronchiasaurus | 42624 | [42624-bronkie-the-bronchiasaurus.json](./42624-bronkie-the-bronchiasaurus.json) |
+| Brony Cards | 312214 | [312214-brony-cards.json](./312214-brony-cards.json) |
 | Bronze | 60031 | [60031-bronze.json](./60031-bronze.json) |
 | Bronze Dragon: Conquest of Infinity | 122987 | [122987-bronze-dragon-conquest-of-infinity.json](./122987-bronze-dragon-conquest-of-infinity.json) |
 | Bronze Hoof | 127083 | [127083-bronze-hoof.json](./127083-bronze-hoof.json) |
