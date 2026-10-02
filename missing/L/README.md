@@ -1127,6 +1127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn Programming: Python - Retro | 367998 | [367998-learn-programming-python-retro.json](./367998-learn-programming-python-retro.json) |
 | Learn Spanish VR | 292690 | [292690-learn-spanish-vr.json](./292690-learn-spanish-vr.json) |
 | Learn Spanish! Easy Vocabulary | 371919 | [371919-learn-spanish-easy-vocabulary.json](./371919-learn-spanish-easy-vocabulary.json) |
+| Learn The Heart | 282818 | [282818-learn-the-heart.json](./282818-learn-the-heart.json) |
 | Learn the Letters | 242554 | [242554-learn-the-letters.json](./242554-learn-the-letters.json) |
 | Learn Through Riddles! Masterpieces of the World | 410386 | [410386-learn-through-riddles-masterpieces-of-the-world.json](./410386-learn-through-riddles-masterpieces-of-the-world.json) |
 | Learn to Add | 92840 | [92840-learn-to-add.json](./92840-learn-to-add.json) |
@@ -2669,6 +2670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Color World | 287168 | [287168-line-color-world.json](./287168-line-color-world.json) |
 | Line Crossing | 128580 | [128580-line-crossing.json](./128580-line-crossing.json) |
 | Line Crossing | 181386 | [181386-line-crossing.json](./181386-line-crossing.json) |
+| Line GoGo! TwinBee | 282827 | [282827-line-gogo-twinbee.json](./282827-line-gogo-twinbee.json) |
 | Line Hopper | 349875 | [349875-line-hopper.json](./349875-line-hopper.json) |
 | Line of Fire | 12178 | [12178-line-of-fire.json](./12178-line-of-fire.json) |
 | Line of Fire | 19487 | [19487-line-of-fire.json](./19487-line-of-fire.json) |
