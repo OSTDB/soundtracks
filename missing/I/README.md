@@ -1434,6 +1434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Search of Something | 334191 | [334191-in-search-of-something.json](./334191-in-search-of-something.json) |
 | In Search of the Golden Crops | 321596 | [321596-in-search-of-the-golden-crops.json](./321596-in-search-of-the-golden-crops.json) |
 | In Search of the Most Amazing Thing | 69820 | [69820-in-search-of-the-most-amazing-thing.json](./69820-in-search-of-the-most-amazing-thing.json) |
+| In Search Of You | 314375 | [314375-in-search-of-you.json](./314375-in-search-of-you.json) |
 | In Search Of... | 159715 | [159715-in-search-of.json](./159715-in-search-of.json) |
 | In Season | 340755 | [340755-in-season.json](./340755-in-season.json) |
 | In Shape | 191123 | [191123-in-shape.json](./191123-in-shape.json) |
