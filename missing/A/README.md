@@ -5166,6 +5166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Legends: PlayStation Plus Play Pack | 325861 | [325861-apex-legends-playstation-plus-play-pack.json](./325861-apex-legends-playstation-plus-play-pack.json) |
 | Apex Legends: Prodigy | 342775 | [342775-apex-legends-prodigy.json](./342775-apex-legends-prodigy.json) |
 | Apex Legends: Season 7 | 140448 | [140448-apex-legends-season-7.json](./140448-apex-legends-season-7.json) |
+| Apex Legends: Takeover | 333785 | [333785-apex-legends-takeover.json](./333785-apex-legends-takeover.json) |
 | Apex Race Manager 2019 | 233116 | [233116-apex-race-manager-2019.json](./233116-apex-race-manager-2019.json) |
 | Apex Racer | 321514 | [321514-apex-racer.json](./321514-apex-racer.json) |
 | Apex Racer | 321515 | [321515-apex-racer.json](./321515-apex-racer.json) |
@@ -7572,6 +7573,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Yumia: Special costume for Yumia in collaboration with Asbel from "Tales of Graces f Remastered" | 351152 | [351152-atelier-yumia-special-costume-for-yumia-in-collaboration-with-asbel-from-tales-of-graces-f-remastered.json](./351152-atelier-yumia-special-costume-for-yumia-in-collaboration-with-asbel-from-tales-of-graces-f-remastered.json) |
 | Atelier Yumia: Swimsuit Set | 351167 | [351167-atelier-yumia-swimsuit-set.json](./351167-atelier-yumia-swimsuit-set.json) |
 | Atelier Yumia: The Alchemist of Memories & the Envisioned Land - Atelier Series Legacy BGM Pack | 380624 | [380624-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-atelier-series-legacy-bgm-pack.json](./380624-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-atelier-series-legacy-bgm-pack.json) |
+| Atelier Yumia: The Alchemist of Memories & the Envisioned Land - Digital Deluxe Edition | 333715 | [333715-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-digital-deluxe-edition.json](./333715-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-digital-deluxe-edition.json) |
+| Atelier Yumia: The Alchemist of Memories & the Envisioned Land - Ultimate Edition | 333716 | [333716-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-ultimate-edition.json](./333716-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-ultimate-edition.json) |
 | Atelier Yumia: The Art of Aladiss Expansion Pack | 356745 | [356745-atelier-yumia-the-art-of-aladiss-expansion-pack.json](./356745-atelier-yumia-the-art-of-aladiss-expansion-pack.json) |
 | Atelier Yumia: Yumia and Flammi Swimsuit Set | 351166 | [351166-atelier-yumia-yumia-and-flammi-swimsuit-set.json](./351166-atelier-yumia-yumia-and-flammi-swimsuit-set.json) |
 | Atelier: Alchemists of the Dusk Trilogy DX - Premium Box | 136924 | [136924-atelier-alchemists-of-the-dusk-trilogy-dx-premium-box.json](./136924-atelier-alchemists-of-the-dusk-trilogy-dx-premium-box.json) |
