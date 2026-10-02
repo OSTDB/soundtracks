@@ -1598,6 +1598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castelo Rá-Tim-Bum | 84302 | [84302-castelo-ra-tim-bum.json](./84302-castelo-ra-tim-bum.json) |
 | Caster's Trap | 130339 | [130339-casters-trap.json](./130339-casters-trap.json) |
 | Castillon | 332247 | [332247-castillon.json](./332247-castillon.json) |
+| CastingPlz | 289540 | [289540-castingplz.json](./289540-castingplz.json) |
 | Castle | 166672 | [166672-castle.json](./166672-castle.json) |
 | Castle | 331325 | [331325-castle.json](./331325-castle.json) |
 | Castle & Myosotis | 178662 | [178662-castle-and-myosotis.json](./178662-castle-and-myosotis.json) |
@@ -2007,6 +2008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catacombs | 142466 | [142466-catacombs.json](./142466-catacombs.json) |
 | Catacombs | 169979 | [169979-catacombs.json](./169979-catacombs.json) |
 | Catacombs | 25918 | [25918-catacombs.json](./25918-catacombs.json) |
+| Catacombs | 289565 | [289565-catacombs.json](./289565-catacombs.json) |
 | Catacombs 1: Demon War | 43505 | [43505-catacombs-1-demon-war.json](./43505-catacombs-1-demon-war.json) |
 | Catacombs of the Phantoms | 356691 | [356691-catacombs-of-the-phantoms.json](./356691-catacombs-of-the-phantoms.json) |
 | Catacombs of the Undercity | 35682 | [35682-catacombs-of-the-undercity.json](./35682-catacombs-of-the-undercity.json) |
@@ -4799,6 +4801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classified: Death in the Alley | 253991 | [253991-classified-death-in-the-alley.json](./253991-classified-death-in-the-alley.json) |
 | Classified: France '44 | 253409 | [253409-classified-france-44.json](./253409-classified-france-44.json) |
 | Classified: France '44 - Agent | 309658 | [309658-classified-france-44-agent.json](./309658-classified-france-44-agent.json) |
+| Classified: France '44 - Deluxe Edition | 289557 | [289557-classified-france-44-deluxe-edition.json](./289557-classified-france-44-deluxe-edition.json) |
 | Classified: France '44 - Guerrilla | 289856 | [289856-classified-france-44-guerrilla.json](./289856-classified-france-44-guerrilla.json) |
 | Classified: France '44 - Resistance Kit | 289857 | [289857-classified-france-44-resistance-kit.json](./289857-classified-france-44-resistance-kit.json) |
 | Classified: France '44 - Season Pass | 289858 | [289858-classified-france-44-season-pass.json](./289858-classified-france-44-season-pass.json) |
@@ -5845,6 +5848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Splash: Fairies | 301834 | [301834-color-splash-fairies.json](./301834-color-splash-fairies.json) |
 | Color Splash: Fruits | 399729 | [399729-color-splash-fruits.json](./399729-color-splash-fruits.json) |
 | Color Splash: Horses | 337633 | [337633-color-splash-horses.json](./337633-color-splash-horses.json) |
+| Color Splash: Predators | 289544 | [289544-color-splash-predators.json](./289544-color-splash-predators.json) |
 | Color Story: Pixa's Quest | 205074 | [205074-color-story-pixas-quest.json](./205074-color-story-pixas-quest.json) |
 | Color Summoners | 297096 | [297096-color-summoners.json](./297096-color-summoners.json) |
 | Color Surge | 306354 | [306354-color-surge.json](./306354-color-surge.json) |
@@ -5870,6 +5874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ColorCube | 208378 | [208378-colorcube.json](./208378-colorcube.json) |
 | ColorFold | 108273 | [108273-colorfold.json](./108273-colorfold.json) |
 | Colorful | 212229 | [212229-colorful.json](./212229-colorful.json) |
+| Colorful | 289575 | [289575-colorful.json](./289575-colorful.json) |
 | Colorful Adventures Bundle | 283190 | [283190-colorful-adventures-bundle.json](./283190-colorful-adventures-bundle.json) |
 | Colorful Critter | 218144 | [218144-colorful-critter.json](./218144-colorful-critter.json) |
 | Colorful Ghost | 311165 | [311165-colorful-ghost.json](./311165-colorful-ghost.json) |
@@ -6301,6 +6306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Communication Breakdown | 266294 | [266294-communication-breakdown.json](./266294-communication-breakdown.json) |
 | Communication Game | 312918 | [312918-communication-game.json](./312918-communication-game.json) |
 | Communion | 290724 | [290724-communion.json](./290724-communion.json) |
+| Community Ball | 289541 | [289541-community-ball.json](./289541-community-ball.json) |
 | Community Build Project 9: Halloween-2020 | 308480 | [308480-community-build-project-9-halloween-2020.json](./308480-community-build-project-9-halloween-2020.json) |
 | Community Button | 402383 | [402383-community-button.json](./402383-community-button.json) |
 | Community College Hero: Knowledge is Power | 99058 | [99058-community-college-hero-knowledge-is-power.json](./99058-community-college-hero-knowledge-is-power.json) |
@@ -7787,6 +7793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cracking the Cryptic | 211958 | [211958-cracking-the-cryptic.json](./211958-cracking-the-cryptic.json) |
 | Cracking the Cryptic: GAS Volume #1 | 280875 | [280875-cracking-the-cryptic-gas-volume-1.json](./280875-cracking-the-cryptic-gas-volume-1.json) |
 | Cracking the Cryptic: Lines Variety Pack | 270083 | [270083-cracking-the-cryptic-lines-variety-pack.json](./270083-cracking-the-cryptic-lines-variety-pack.json) |
+| Cracking the Stone | 289551 | [289551-cracking-the-stone.json](./289551-cracking-the-stone.json) |
 | Crackinho Beat' em up in the World | 127120 | [127120-crackinho-beat-em-up-in-the-world.json](./127120-crackinho-beat-em-up-in-the-world.json) |
 | Crackle Cradle | 57187 | [57187-crackle-cradle.json](./57187-crackle-cradle.json) |
 | Crackout | 48292 | [48292-crackout.json](./48292-crackout.json) |
@@ -9373,6 +9380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubeshift | 54542 | [54542-cubeshift.json](./54542-cubeshift.json) |
 | CubeShooter | 203967 | [203967-cubeshooter.json](./203967-cubeshooter.json) |
 | Cubesis | 36225 | [36225-cubesis.json](./36225-cubesis.json) |
+| Cubethon | 289542 | [289542-cubethon.json](./289542-cubethon.json) |
 | Cubetory | 340574 | [340574-cubetory.json](./340574-cubetory.json) |
 | Cubettiny | 383651 | [383651-cubettiny.json](./383651-cubettiny.json) |
 | Cubeventure | 144865 | [144865-cubeventure.json](./144865-cubeventure.json) |
