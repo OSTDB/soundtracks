@@ -3398,6 +3398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's: Pocket Horror | 275568 | [275568-five-nights-at-freddys-pocket-horror.json](./275568-five-nights-at-freddys-pocket-horror.json) |
 | Five Nights at Freddy's: Secret of the Mimic | 312859 | [312859-five-nights-at-freddys-secret-of-the-mimic.json](./312859-five-nights-at-freddys-secret-of-the-mimic.json) |
 | Five Nights at Freddy's: Security Breach | 138933 | [138933-five-nights-at-freddys-security-breach.json](./138933-five-nights-at-freddys-security-breach.json) |
+| Five Nights at Freddy's: Security Breach | 300353 | [300353-five-nights-at-freddys-security-breach.json](./300353-five-nights-at-freddys-security-breach.json) |
 | Five Nights at Freddy's: Security Breach - Collector's Edition | 198389 | [198389-five-nights-at-freddys-security-breach-collectors-edition.json](./198389-five-nights-at-freddys-security-breach-collectors-edition.json) |
 | Five Nights at Freddy's: Security Breach - The Remains | 276493 | [276493-five-nights-at-freddys-security-breach-the-remains.json](./276493-five-nights-at-freddys-security-breach-the-remains.json) |
 | Five Nights at Freddy's: Sister Location | 19320 | [19320-five-nights-at-freddys-sister-location.json](./19320-five-nights-at-freddys-sister-location.json) |
@@ -6101,6 +6102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontier Force Vanguard | 337478 | [337478-frontier-force-vanguard.json](./337478-frontier-force-vanguard.json) |
 | Frontier Forge | 413769 | [413769-frontier-forge.json](./413769-frontier-forge.json) |
 | Frontier Fortress | 194997 | [194997-frontier-fortress.json](./194997-frontier-fortress.json) |
+| Frontier Fugitive | 300337 | [300337-frontier-fugitive.json](./300337-frontier-fugitive.json) |
 | Frontier Heroes | 396586 | [396586-frontier-heroes.json](./396586-frontier-heroes.json) |
 | Frontier Hunter: Costume Pack Season 3 | 265251 | [265251-frontier-hunter-costume-pack-season-3.json](./265251-frontier-hunter-costume-pack-season-3.json) |
 | Frontier Hunter: Erza's Wheel of Fortune - Deluxe Edition | 239034 | [239034-frontier-hunter-erzas-wheel-of-fortune-deluxe-edition.json](./239034-frontier-hunter-erzas-wheel-of-fortune-deluxe-edition.json) |
