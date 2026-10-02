@@ -3038,6 +3038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Etre | 270182 | [270182-etre.json](./270182-etre.json) |
 | Etrian Mystery Dungeon | 8607 | [8607-etrian-mystery-dungeon.json](./8607-etrian-mystery-dungeon.json) |
 | Etrian Odyssey HD Character Set DLC | 251586 | [251586-etrian-odyssey-hd-character-set-dlc.json](./251586-etrian-odyssey-hd-character-set-dlc.json) |
+| Etrian Odyssey Heardle | 283398 | [283398-etrian-odyssey-heardle.json](./283398-etrian-odyssey-heardle.json) |
 | Etrian Odyssey II HD: Character Set DLC | 251695 | [251695-etrian-odyssey-ii-hd-character-set-dlc.json](./251695-etrian-odyssey-ii-hd-character-set-dlc.json) |
 | Etrian Odyssey II: Heroes of Lagaard | 14717 | [14717-etrian-odyssey-ii-heroes-of-lagaard.json](./14717-etrian-odyssey-ii-heroes-of-lagaard.json) |
 | Etrian Odyssey III HD Character Set DLC | 251696 | [251696-etrian-odyssey-iii-hd-character-set-dlc.json](./251696-etrian-odyssey-iii-hd-character-set-dlc.json) |
