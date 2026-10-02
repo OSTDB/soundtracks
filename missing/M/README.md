@@ -8290,6 +8290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morse Code | 103677 | [103677-morse-code.json](./103677-morse-code.json) |
 | Morse Shingou de Ai wo Tsutae yo. | 367396 | [367396-morse-shingou-de-ai-wo-tsutae-yo.json](./367396-morse-shingou-de-ai-wo-tsutae-yo.json) |
 | Morse vs. Horse | 344340 | [344340-morse-vs-horse.json](./344340-morse-vs-horse.json) |
+| Morsels | 314931 | [314931-morsels.json](./314931-morsels.json) |
 | MORT: Manageably OK Response Team | 395815 | [395815-mort-manageably-ok-response-team.json](./395815-mort-manageably-ok-response-team.json) |
 | Mort's Dream Jump | 248010 | [248010-morts-dream-jump.json](./248010-morts-dream-jump.json) |
 | Mortacrust | 323778 | [323778-mortacrust.json](./323778-mortacrust.json) |
