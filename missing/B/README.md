@@ -248,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backlot: Hollywood Studio Tycoon | 416649 | [416649-backlot-hollywood-studio-tycoon.json](./416649-backlot-hollywood-studio-tycoon.json) |
 | Backpack | 297779 | [297779-backpack.json](./297779-backpack.json) |
 | Backpack Boy | 328103 | [328103-backpack-boy.json](./328103-backpack-boy.json) |
+| Backpack Brawl | 309589 | [309589-backpack-brawl.json](./309589-backpack-brawl.json) |
 | Backpack Dungeon | 407407 | [407407-backpack-dungeon.json](./407407-backpack-dungeon.json) |
 | Backpack Heroes | 174760 | [174760-backpack-heroes.json](./174760-backpack-heroes.json) |
 | Backpack Jianghu | 391202 | [391202-backpack-jianghu.json](./391202-backpack-jianghu.json) |
@@ -5264,6 +5265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocus | 313263 | [313263-blocus.json](./313263-blocus.json) |
 | Blofeld X | 269108 | [269108-blofeld-x.json](./269108-blofeld-x.json) |
 | bLogic Blox | 110767 | [110767-blogic-blox.json](./110767-blogic-blox.json) |
+| Blok Shot VR | 309608 | [309608-blok-shot-vr.json](./309608-blok-shot-vr.json) |
 | Blokdodge | 68327 | [68327-blokdodge.json](./68327-blokdodge.json) |
 | Blokdoku | 315827 | [315827-blokdoku.json](./315827-blokdoku.json) |
 | Blokin | 111633 | [111633-blokin.json](./111633-blokin.json) |
@@ -5398,6 +5400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Park | 405572 | [405572-blood-park.json](./405572-blood-park.json) |
 | Blood Peace | 293106 | [293106-blood-peace.json](./293106-blood-peace.json) |
 | Blood Permafrost | 387556 | [387556-blood-permafrost.json](./387556-blood-permafrost.json) |
+| Blood Punk | 309563 | [309563-blood-punk.json](./309563-blood-punk.json) |
 | Blood Radiant | 277275 | [277275-blood-radiant.json](./277275-blood-radiant.json) |
 | Blood Rising | 338257 | [338257-blood-rising.json](./338257-blood-rising.json) |
 | Blood Rite | 238505 | [238505-blood-rite.json](./238505-blood-rite.json) |
