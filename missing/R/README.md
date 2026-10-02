@@ -1321,6 +1321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re: Tree of Savior | 174808 | [174808-re-tree-of-savior.json](./174808-re-tree-of-savior.json) |
 | Re:Aegis | 291753 | [291753-re-aegis.json](./291753-re-aegis.json) |
 | Re:Aktor | 383382 | [383382-re-aktor.json](./383382-re-aktor.json) |
+| Re:Ark | 290610 | [290610-re-ark.json](./290610-re-ark.json) |
 | Re:Award | 171460 | [171460-re-award.json](./171460-re-award.json) |
 | Re:Bf | 193405 | [193405-re-bf.json](./193405-re-bf.json) |
 | Re:birth Colony -Lost Azurite- | 60049 | [60049-re-birth-colony-lost-azurite.json](./60049-re-birth-colony-lost-azurite.json) |
@@ -4282,6 +4283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Motorcycle | 265592 | [265592-road-motorcycle.json](./265592-road-motorcycle.json) |
 | Road of Danger | 41936 | [41936-road-of-danger.json](./41936-road-of-danger.json) |
 | Road of Death | 207903 | [207903-road-of-death.json](./207903-road-of-death.json) |
+| Road of Death | 290631 | [290631-road-of-death.json](./290631-road-of-death.json) |
 | Road of Destiny | 87957 | [87957-road-of-destiny.json](./87957-road-of-destiny.json) |
 | Road of Dust and Rust | 87949 | [87949-road-of-dust-and-rust.json](./87949-road-of-dust-and-rust.json) |
 | Road Patrol Truck | 104227 | [104227-road-patrol-truck.json](./104227-road-patrol-truck.json) |
@@ -4481,6 +4483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robodunk | 152176 | [152176-robodunk.json](./152176-robodunk.json) |
 | RoboFight.io | 122888 | [122888-robofight-io.json](./122888-robofight-io.json) |
 | RoboGal: Gaga Delta Lady | 306994 | [306994-robogal-gaga-delta-lady.json](./306994-robogal-gaga-delta-lady.json) |
+| Roboglitch | 290624 | [290624-roboglitch.json](./290624-roboglitch.json) |
 | Robohazard 2077 | 115156 | [115156-robohazard-2077.json](./115156-robohazard-2077.json) |
 | RoboHeist VR | 86561 | [86561-roboheist-vr.json](./86561-roboheist-vr.json) |
 | RoboHero | 388195 | [388195-robohero.json](./388195-robohero.json) |
