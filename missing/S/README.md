@@ -1613,6 +1613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scorched Planet | 12906 | [12906-scorched-planet.json](./12906-scorched-planet.json) |
 | Scorched Sun | 375434 | [375434-scorched-sun.json](./375434-scorched-sun.json) |
 | Scorched Warfare | 323959 | [323959-scorched-warfare.json](./323959-scorched-warfare.json) |
+| Scorchie Adventures | 306579 | [306579-scorchie-adventures.json](./306579-scorchie-adventures.json) |
 | Scorching Strings | 331873 | [331873-scorching-strings.json](./331873-scorching-strings.json) |
 | Scorchlands | 165401 | [165401-scorchlands.json](./165401-scorchlands.json) |
 | Scorchy Sky Trials | 402905 | [402905-scorchy-sky-trials.json](./402905-scorchy-sky-trials.json) |
@@ -2184,6 +2185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Cats: Halloween | 320315 | [320315-secret-cats-halloween.json](./320315-secret-cats-halloween.json) |
 | Secret Cats: Haunted Mansion | 320317 | [320317-secret-cats-haunted-mansion.json](./320317-secret-cats-haunted-mansion.json) |
 | Secret Cats: Ice Cream Day | 360648 | [360648-secret-cats-ice-cream-day.json](./360648-secret-cats-ice-cream-day.json) |
+| Secret Cats: Pirates | 306611 | [306611-secret-cats-pirates.json](./306611-secret-cats-pirates.json) |
 | Secret Cats: Spooky | 320316 | [320316-secret-cats-spooky.json](./320316-secret-cats-spooky.json) |
 | Secret Cats: Spooky | 393712 | [393712-secret-cats-spooky.json](./393712-secret-cats-spooky.json) |
 | Secret Cats: Spring Festival | 329765 | [329765-secret-cats-spring-festival.json](./329765-secret-cats-spring-festival.json) |
@@ -2510,6 +2512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seijundrop | 252176 | [252176-seijundrop.json](./252176-seijundrop.json) |
 | Seikai Kishi Lynn Knight: Chikyuu wa Mamorete mo Kimo Otoko no Inshitsu Tanezuke Seme ni wa Katenakatta yo… | 59028 | [59028-seikai-kishi-lynn-knight-chikyuu-wa-mamorete-mo-kimo-otoko-no-inshitsu-tanezuke-seme-ni-wa-katenakatta-yo.json](./59028-seikai-kishi-lynn-knight-chikyuu-wa-mamorete-mo-kimo-otoko-no-inshitsu-tanezuke-seme-ni-wa-katenakatta-yo.json) |
 | Seiken Densetsu | 297610 | [297610-seiken-densetsu.json](./297610-seiken-densetsu.json) |
+| Seiken Densetsu: Final Fantasy Gaiden | 306594 | [306594-seiken-densetsu-final-fantasy-gaiden.json](./306594-seiken-densetsu-final-fantasy-gaiden.json) |
 | Seiki: Ryoujoku no Kamen | 66052 | [66052-seiki-ryoujoku-no-kamen.json](./66052-seiki-ryoujoku-no-kamen.json) |
 | Seikimatsu Tanemaki Densetsu: Shoujo Yuugi - Ai Notameni Shine! | 67265 | [67265-seikimatsu-tanemaki-densetsu-shoujo-yuugi-ai-notameni-shine.json](./67265-seikimatsu-tanemaki-densetsu-shoujo-yuugi-ai-notameni-shine.json) |
 | Seikishi Melty Lovers | 372565 | [372565-seikishi-melty-lovers.json](./372565-seikishi-melty-lovers.json) |
@@ -2737,6 +2740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentient Noir | 219618 | [219618-sentient-noir.json](./219618-sentient-noir.json) |
 | Sentient: Arena Mech Royale | 130758 | [130758-sentient-arena-mech-royale.json](./130758-sentient-arena-mech-royale.json) |
 | Sentimental Garden | 334863 | [334863-sentimental-garden.json](./334863-sentimental-garden.json) |
+| Sentimental Gensoukyou | 306568 | [306568-sentimental-gensoukyou.json](./306568-sentimental-gensoukyou.json) |
 | Sentimental Graffiti | 124264 | [124264-sentimental-graffiti.json](./124264-sentimental-graffiti.json) |
 | Sentimental Journey | 268036 | [268036-sentimental-journey.json](./268036-sentimental-journey.json) |
 | Sentinel | 12339 | [12339-sentinel.json](./12339-sentinel.json) |
@@ -3380,6 +3384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Touched | 294136 | [294136-shadow-touched.json](./294136-shadow-touched.json) |
 | Shadow Tower | 9502 | [9502-shadow-tower.json](./9502-shadow-tower.json) |
 | Shadow Tower: Abyss | 9503 | [9503-shadow-tower-abyss.json](./9503-shadow-tower-abyss.json) |
+| Shadow Trick | 306609 | [306609-shadow-trick.json](./306609-shadow-trick.json) |
 | Shadow Vamp | 102737 | [102737-shadow-vamp.json](./102737-shadow-vamp.json) |
 | Shadow Walker | 252726 | [252726-shadow-walker.json](./252726-shadow-walker.json) |
 | Shadow Walls | 149933 | [149933-shadow-walls.json](./149933-shadow-walls.json) |
@@ -4098,6 +4103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei IV | 6886 | [6886-shin-megami-tensei-iv.json](./6886-shin-megami-tensei-iv.json) |
 | Shin Megami Tensei V: A Goddess in Training | 238054 | [238054-shin-megami-tensei-v-a-goddess-in-training.json](./238054-shin-megami-tensei-v-a-goddess-in-training.json) |
 | Shin Megami Tensei V: The Rage of a Queen | 238058 | [238058-shin-megami-tensei-v-the-rage-of-a-queen.json](./238058-shin-megami-tensei-v-the-rage-of-a-queen.json) |
+| Shin Megami Tensei V: Vengeance - DLC All-in-One | 306561 | [306561-shin-megami-tensei-v-vengeance-dlc-all-in-one.json](./306561-shin-megami-tensei-v-vengeance-dlc-all-in-one.json) |
 | Shin Megami Tensei V: Vengeance - Mitama Dance of EXP | 315481 | [315481-shin-megami-tensei-v-vengeance-mitama-dance-of-exp.json](./315481-shin-megami-tensei-v-vengeance-mitama-dance-of-exp.json) |
 | Shin Megami Tensei V: Vengeance - Mitama Dance of Miracles | 315483 | [315483-shin-megami-tensei-v-vengeance-mitama-dance-of-miracles.json](./315483-shin-megami-tensei-v-vengeance-mitama-dance-of-miracles.json) |
 | Shin Megami Tensei V: Vengeance - Mitama Dance of Wealth | 315482 | [315482-shin-megami-tensei-v-vengeance-mitama-dance-of-wealth.json](./315482-shin-megami-tensei-v-vengeance-mitama-dance-of-wealth.json) |
@@ -6426,6 +6432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleep Paralysis | 121564 | [121564-sleep-paralysis.json](./121564-sleep-paralysis.json) |
 | Sleep Paralysis: The Uncanny Valley | 196876 | [196876-sleep-paralysis-the-uncanny-valley.json](./196876-sleep-paralysis-the-uncanny-valley.json) |
 | Sleep Simulator | 304593 | [304593-sleep-simulator.json](./304593-sleep-simulator.json) |
+| Sleep Simulator | 306580 | [306580-sleep-simulator.json](./306580-sleep-simulator.json) |
 | Sleep Stream | 306339 | [306339-sleep-stream.json](./306339-sleep-stream.json) |
 | Sleep Swimmer | 298645 | [298645-sleep-swimmer.json](./298645-sleep-swimmer.json) |
 | Sleep Terror | 292309 | [292309-sleep-terror.json](./292309-sleep-terror.json) |
@@ -13130,6 +13137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StickDodgeVR | 51573 | [51573-stickdodgevr.json](./51573-stickdodgevr.json) |
 | Sticker Business | 356738 | [356738-sticker-business.json](./356738-sticker-business.json) |
 | Stickerino | 396195 | [396195-stickerino.json](./396195-stickerino.json) |
+| Stickers for You | 306592 | [306592-stickers-for-you.json](./306592-stickers-for-you.json) |
 | Stickfight Battle | 197328 | [197328-stickfight-battle.json](./197328-stickfight-battle.json) |
 | Stickility | 345101 | [345101-stickility.json](./345101-stickility.json) |
 | Sticklings | 197747 | [197747-sticklings.json](./197747-sticklings.json) |
@@ -16172,7 +16180,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Slinger | 192958 | [192958-super-slinger.json](./192958-super-slinger.json) |
 | Super Slyder | 132726 | [132726-super-slyder.json](./132726-super-slyder.json) |
 | Super Smash | 125317 | [125317-super-smash.json](./125317-super-smash.json) |
+| Super Smash Bros Ultimate: Marie Outfit and Wig | 306607 | [306607-super-smash-bros-ultimate-marie-outfit-and-wig.json](./306607-super-smash-bros-ultimate-marie-outfit-and-wig.json) |
 | Super Smash Bros Ultimate: Martial Artist Gi and Wig | 350408 | [350408-super-smash-bros-ultimate-martial-artist-gi-and-wig.json](./350408-super-smash-bros-ultimate-martial-artist-gi-and-wig.json) |
+| Super Smash Bros Ultimate: Morgana Hat | 306608 | [306608-super-smash-bros-ultimate-morgana-hat.json](./306608-super-smash-bros-ultimate-morgana-hat.json) |
 | Super Smash Bros Ultimate: Rabbids Hat | 338184 | [338184-super-smash-bros-ultimate-rabbids-hat.json](./338184-super-smash-bros-ultimate-rabbids-hat.json) |
 | Super Smash Bros Ultimate: Veronica's Outfit and Hat | 350409 | [350409-super-smash-bros-ultimate-veronicas-outfit-and-hat.json](./350409-super-smash-bros-ultimate-veronicas-outfit-and-hat.json) |
 | Super Smash Bros. | 328589 | [328589-super-smash-bros.json](./328589-super-smash-bros.json) |
