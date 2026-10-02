@@ -3770,6 +3770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sharing Lights | 192902 | [192902-sharing-lights.json](./192902-sharing-lights.json) |
 | Sharique | 112267 | [112267-sharique.json](./112267-sharique.json) |
 | Shark Attack | 134536 | [134536-shark-attack.json](./134536-shark-attack.json) |
+| Shark Attack | 281026 | [281026-shark-attack.json](./281026-shark-attack.json) |
 | Shark Bridge Card Game | 87120 | [87120-shark-bridge-card-game.json](./87120-shark-bridge-card-game.json) |
 | Shark Castle | 123556 | [123556-shark-castle.json](./123556-shark-castle.json) |
 | Shark Coin Party | 337630 | [337630-shark-coin-party.json](./337630-shark-coin-party.json) |
@@ -9571,6 +9572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Break 2 Head to Head | 214059 | [214059-space-break-2-head-to-head.json](./214059-space-break-2-head-to-head.json) |
 | Space Bross | 348832 | [348832-space-bross.json](./348832-space-bross.json) |
 | Space Bubble Cat | 145476 | [145476-space-bubble-cat.json](./145476-space-bubble-cat.json) |
+| Space Bugger | 281028 | [281028-space-bugger.json](./281028-space-bugger.json) |
 | Space Bugs | 110544 | [110544-space-bugs.json](./110544-space-bugs.json) |
 | Space Bunnies Must Die! | 51371 | [51371-space-bunnies-must-die.json](./51371-space-bunnies-must-die.json) |
 | Space Bunny Explorers | 208596 | [208596-space-bunny-explorers.json](./208596-space-bunny-explorers.json) |
@@ -12447,6 +12449,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfuse | 260214 | [260214-starfuse.json](./260214-starfuse.json) |
 | Stargate | 19689 | [19689-stargate.json](./19689-stargate.json) |
 | Stargate | 245393 | [245393-stargate.json](./245393-stargate.json) |
+| Stargate | 281045 | [281045-stargate.json](./281045-stargate.json) |
+| Stargate | 281046 | [281046-stargate.json](./281046-stargate.json) |
+| Stargate | 281049 | [281049-stargate.json](./281049-stargate.json) |
+| Stargate | 281050 | [281050-stargate.json](./281050-stargate.json) |
 | Stargate | 346142 | [346142-stargate.json](./346142-stargate.json) |
 | Stargate Bullet | 379896 | [379896-stargate-bullet.json](./379896-stargate-bullet.json) |
 | Stargate Network | 316724 | [316724-stargate-network.json](./316724-stargate-network.json) |
@@ -15911,6 +15917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Fusion: Revival | 322786 | [322786-super-mario-fusion-revival.json](./322786-super-mario-fusion-revival.json) |
 | Super Mario Galaxy | 366899 | [366899-super-mario-galaxy.json](./366899-super-mario-galaxy.json) |
 | Super Mario Galaxy 2 | 366900 | [366900-super-mario-galaxy-2.json](./366900-super-mario-galaxy-2.json) |
+| Super Mario Galaxy 2: Collectors Anxiety | 281019 | [281019-super-mario-galaxy-2-collectors-anxiety.json](./281019-super-mario-galaxy-2-collectors-anxiety.json) |
 | Super Mario Galaxy 2: Cosmic Clones Challenge | 294766 | [294766-super-mario-galaxy-2-cosmic-clones-challenge.json](./294766-super-mario-galaxy-2-cosmic-clones-challenge.json) |
 | Super Mario Galaxy 63 | 294714 | [294714-super-mario-galaxy-63.json](./294714-super-mario-galaxy-63.json) |
 | Super Mario Galaxy 64 | 313339 | [313339-super-mario-galaxy-64.json](./313339-super-mario-galaxy-64.json) |
@@ -15930,6 +15937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario In Element World | 267978 | [267978-super-mario-in-element-world.json](./267978-super-mario-in-element-world.json) |
 | Super Mario In Element World 2: The Master Hand Revenge | 267980 | [267980-super-mario-in-element-world-2-the-master-hand-revenge.json](./267980-super-mario-in-element-world-2-the-master-hand-revenge.json) |
 | Super Mario in Marooned on Mars! | 321451 | [321451-super-mario-in-marooned-on-mars.json](./321451-super-mario-in-marooned-on-mars.json) |
+| Super Mario Journey Lane | 281017 | [281017-super-mario-journey-lane.json](./281017-super-mario-journey-lane.json) |
 | Super Mario Journey to Infinity | 313107 | [313107-super-mario-journey-to-infinity.json](./313107-super-mario-journey-to-infinity.json) |
 | Super Mario Kart 8 | 198451 | [198451-super-mario-kart-8.json](./198451-super-mario-kart-8.json) |
 | Super Mario Kart DS | 198450 | [198450-super-mario-kart-ds.json](./198450-super-mario-kart-ds.json) |
@@ -15999,6 +16007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Sunshine 64 | 159263 | [159263-super-mario-sunshine-64.json](./159263-super-mario-sunshine-64.json) |
 | Super Mario Sunshine Arcade 2 | 213038 | [213038-super-mario-sunshine-arcade-2.json](./213038-super-mario-sunshine-arcade-2.json) |
 | Super Mario Sunshine in Super Mario 64 | 235173 | [235173-super-mario-sunshine-in-super-mario-64.json](./235173-super-mario-sunshine-in-super-mario-64.json) |
+| Super Mario Sunshine Seaside | 281016 | [281016-super-mario-sunshine-seaside.json](./281016-super-mario-sunshine-seaside.json) |
 | Super Mario Surf | 324094 | [324094-super-mario-surf.json](./324094-super-mario-surf.json) |
 | Super Mario Timeless Rendezvous | 382413 | [382413-super-mario-timeless-rendezvous.json](./382413-super-mario-timeless-rendezvous.json) |
 | Super Mario Treasure World | 368158 | [368158-super-mario-treasure-world.json](./368158-super-mario-treasure-world.json) |
