@@ -1925,6 +1925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Sand | 115150 | [115150-vr-sand.json](./115150-vr-sand.json) |
 | VR Secretary: Ailey Edition | 338560 | [338560-vr-secretary-ailey-edition.json](./338560-vr-secretary-ailey-edition.json) |
 | VR Shark | 156988 | [156988-vr-shark.json](./156988-vr-shark.json) |
+| VR Shogi Mates | 309572 | [309572-vr-shogi-mates.json](./309572-vr-shogi-mates.json) |
 | VR Shooter Guns | 32867 | [32867-vr-shooter-guns.json](./32867-vr-shooter-guns.json) |
 | VR shooting cute balloons | 164249 | [164249-vr-shooting-cute-balloons.json](./164249-vr-shooting-cute-balloons.json) |
 | VR Skater | 146829 | [146829-vr-skater.json](./146829-vr-skater.json) |
