@@ -418,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fait: The Machine | 122188 | [122188-fait-the-machine.json](./122188-fait-the-machine.json) |
 | Faith & Shield: Tower Defense - Space Wars Game 2022 | 209694 | [209694-faith-and-shield-tower-defense-space-wars-game-2022.json](./209694-faith-and-shield-tower-defense-space-wars-game-2022.json) |
 | Faith Fighter 2 | 64375 | [64375-faith-fighter-2.json](./64375-faith-fighter-2.json) |
+| Faith in Despair | 287907 | [287907-faith-in-despair.json](./287907-faith-in-despair.json) |
 | Faith of Fate | 119668 | [119668-faith-of-fate.json](./119668-faith-of-fate.json) |
 | Faith of Life: Survive Edition | 340052 | [340052-faith-of-life-survive-edition.json](./340052-faith-of-life-survive-edition.json) |
 | Faith of the Guardians | 65743 | [65743-faith-of-the-guardians.json](./65743-faith-of-the-guardians.json) |
@@ -3370,6 +3371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Fold Tower | 311819 | [311819-five-fold-tower.json](./311819-five-fold-tower.json) |
 | Five Heads | 347338 | [347338-five-heads.json](./347338-five-heads.json) |
 | Five Hearts Under One Roof | 318806 | [318806-five-hearts-under-one-roof.json](./318806-five-hearts-under-one-roof.json) |
+| Five Hundred | 287910 | [287910-five-hundred.json](./287910-five-hundred.json) |
 | Five in One | 210648 | [210648-five-in-one.json](./210648-five-in-one.json) |
 | Five Letter Words | 104115 | [104115-five-letter-words.json](./104115-five-letter-words.json) |
 | Five Mysterious Murders | 374759 | [374759-five-mysterious-murders.json](./374759-five-mysterious-murders.json) |
@@ -4215,6 +4217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flycatcher | 93528 | [93528-flycatcher.json](./93528-flycatcher.json) |
 | Flyer Fox | 46661 | [46661-flyer-fox.json](./46661-flyer-fox.json) |
 | Flyghts | 236512 | [236512-flyghts.json](./236512-flyghts.json) |
+| Flyhight Cloudia | 287881 | [287881-flyhight-cloudia.json](./287881-flyhight-cloudia.json) |
 | Flyhight Cloudia II | 288189 | [288189-flyhight-cloudia-ii.json](./288189-flyhight-cloudia-ii.json) |
 | Flyhight Cloudia IV - Eien no Kizuna | 292092 | [292092-flyhight-cloudia-iv-eien-no-kizuna.json](./292092-flyhight-cloudia-iv-eien-no-kizuna.json) |
 | Flyin' High | 72060 | [72060-flyin-high.json](./72060-flyin-high.json) |
@@ -6912,6 +6915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fúyǔ Lù | 82042 | [82042-fuyu-lu.json](./82042-fuyu-lu.json) |
 | Fuyu no Rondo | 69310 | [69310-fuyu-no-rondo.json](./69310-fuyu-no-rondo.json) |
 | Fuyu no Sonata DS | 124014 | [124014-fuyu-no-sonata-ds.json](./124014-fuyu-no-sonata-ds.json) |
+| Fuyuzono Sacrifice | 287893 | [287893-fuyuzono-sacrifice.json](./287893-fuyuzono-sacrifice.json) |
 | Fuze4 Nintendo Switch | 85161 | [85161-fuze4-nintendo-switch.json](./85161-fuze4-nintendo-switch.json) |
 | Fuzecat | 36525 | [36525-fuzecat.json](./36525-fuzecat.json) |
 | Fuzion Frenzy | 5842 | [5842-fuzion-frenzy.json](./5842-fuzion-frenzy.json) |
