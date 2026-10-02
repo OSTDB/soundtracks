@@ -5087,6 +5087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pog 2 | 157503 | [157503-pog-2.json](./157503-pog-2.json) |
 | Pog 4 | 158497 | [158497-pog-4.json](./158497-pog-4.json) |
 | Pog 5 | 165705 | [165705-pog-5.json](./165705-pog-5.json) |
+| Pogger's Legends | 319641 | [319641-poggers-legends.json](./319641-poggers-legends.json) |
 | Pogglewash | 249504 | [249504-pogglewash.json](./249504-pogglewash.json) |
 | Pogn | 205103 | [205103-pogn.json](./205103-pogn.json) |
 | Pogo | 130837 | [130837-pogo.json](./130837-pogo.json) |
@@ -6684,6 +6685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Predictile | 304890 | [304890-predictile.json](./304890-predictile.json) |
 | Prediction Game | 255019 | [255019-prediction-game.json](./255019-prediction-game.json) |
 | Predictors | 219666 | [219666-predictors.json](./219666-predictors.json) |
+| Preekarity | 319653 | [319653-preekarity.json](./319653-preekarity.json) |
 | Pregnancy | 35722 | [35722-pregnancy.json](./35722-pregnancy.json) |
 | Pregnant Mom Emergency Surgery | 99421 | [99421-pregnant-mom-emergency-surgery.json](./99421-pregnant-mom-emergency-surgery.json) |
 | Pregnant Mom Virtual Family Neighbor Helper | 96001 | [96001-pregnant-mom-virtual-family-neighbor-helper.json](./96001-pregnant-mom-virtual-family-neighbor-helper.json) |
