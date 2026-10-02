@@ -1552,6 +1552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Really Boring Website | 142974 | [142974-really-boring-website.json](./142974-really-boring-website.json) |
 | Really Dog | 276182 | [276182-really-dog.json](./276182-really-dog.json) |
 | Really really auto chess | 183971 | [183971-really-really-auto-chess.json](./183971-really-really-auto-chess.json) |
+| Really Simple Golf | 303712 | [303712-really-simple-golf.json](./303712-really-simple-golf.json) |
 | Really Unique Space Shooter | 136237 | [136237-really-unique-space-shooter.json](./136237-really-unique-space-shooter.json) |
 | Really? Really! RiaRiaDS | 330554 | [330554-really-really-riariads.json](./330554-really-really-riariads.json) |
 | Realm | 348391 | [348391-realm.json](./348391-realm.json) |
