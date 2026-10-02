@@ -5408,6 +5408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Eterna Emoción | 333642 | [333642-pokemon-eterna-emocion.json](./333642-pokemon-eterna-emocion.json) |
 | Pokémon Feuergrün Edition | 205126 | [205126-pokemon-feuergrun-edition.json](./205126-pokemon-feuergrun-edition.json) |
 | Pokémon Fire Ash | 135871 | [135871-pokemon-fire-ash.json](./135871-pokemon-fire-ash.json) |
+| Pokémon Fire Red Extended | 305997 | [305997-pokemon-fire-red-extended.json](./305997-pokemon-fire-red-extended.json) |
 | Pokemon FireRed and LeafGreen+ | 288206 | [288206-pokemon-firered-and-leafgreen.json](./288206-pokemon-firered-and-leafgreen.json) |
 | Pokémon FireRed Deluxe | 338914 | [338914-pokemon-firered-deluxe.json](./338914-pokemon-firered-deluxe.json) |
 | Pokémon Fool's Gold | 136877 | [136877-pokemon-fools-gold.json](./136877-pokemon-fools-gold.json) |
@@ -8109,6 +8110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psikyo Shooting Stars Bravo: Limited Edition | 136265 | [136265-psikyo-shooting-stars-bravo-limited-edition.json](./136265-psikyo-shooting-stars-bravo-limited-edition.json) |
 | Psikyo: Shooting Library Vol. 2 | 136951 | [136951-psikyo-shooting-library-vol-2.json](./136951-psikyo-shooting-library-vol-2.json) |
 | Psionic Sentry: Infinite | 276191 | [276191-psionic-sentry-infinite.json](./276191-psionic-sentry-infinite.json) |
+| Psiplex | 305981 | [305981-psiplex.json](./305981-psiplex.json) |
 | PSN Protector | 320978 | [320978-psn-protector.json](./320978-psn-protector.json) |
 | Psst... I Have a Secret | 179043 | [179043-psst-i-have-a-secret.json](./179043-psst-i-have-a-secret.json) |
 | PSweet | 151078 | [151078-psweet.json](./151078-psweet.json) |
