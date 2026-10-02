@@ -2549,6 +2549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | limentional | 296930 | [296930-limentional.json](./296930-limentional.json) |
 | Limerick: Cadence Mansion | 224743 | [224743-limerick-cadence-mansion.json](./224743-limerick-cadence-mansion.json) |
 | Limes 235 | 415103 | [415103-limes-235.json](./415103-limes-235.json) |
+| Limestone | 322057 | [322057-limestone.json](./322057-limestone.json) |
 | Liminal | 105106 | [105106-liminal.json](./105106-liminal.json) |
 | Liminal Aero | 399213 | [399213-liminal-aero.json](./399213-liminal-aero.json) |
 | Liminal Border Part III | 315044 | [315044-liminal-border-part-iii.json](./315044-liminal-border-part-iii.json) |
@@ -2586,6 +2587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limoria | 327343 | [327343-limoria.json](./327343-limoria.json) |
 | Limp Mode | 414575 | [414575-limp-mode.json](./414575-limp-mode.json) |
 | Lims | 226166 | [226166-lims.json](./226166-lims.json) |
+| Limscape | 322097 | [322097-limscape.json](./322097-limscape.json) |
 | Limsod | 177308 | [177308-limsod.json](./177308-limsod.json) |
 | Lina: Witches of the Moon | 411578 | [411578-lina-witches-of-the-moon.json](./411578-lina-witches-of-the-moon.json) |
 | Linch | 80978 | [80978-linch.json](./80978-linch.json) |
