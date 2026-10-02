@@ -5064,6 +5064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clockfall | 391888 | [391888-clockfall.json](./391888-clockfall.json) |
 | Clocks | 41369 | [41369-clocks.json](./41369-clocks.json) |
 | Clockwatch | 315694 | [315694-clockwatch.json](./315694-clockwatch.json) |
+| Clockwerk | 285156 | [285156-clockwerk.json](./285156-clockwerk.json) |
 | Clockwind | 185029 | [185029-clockwind.json](./185029-clockwind.json) |
 | Clockwise Jinx | 186338 | [186338-clockwise-jinx.json](./186338-clockwise-jinx.json) |
 | Clockwizzze | 29162 | [29162-clockwizzze.json](./29162-clockwizzze.json) |
@@ -9551,6 +9552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cum & Climb | 267080 | [267080-cum-and-climb.json](./267080-cum-and-climb.json) |
 | Cum Clicker | 262098 | [262098-cum-clicker.json](./262098-cum-clicker.json) |
 | Cum On! Bukkake Ranch! | 322950 | [322950-cum-on-bukkake-ranch.json](./322950-cum-on-bukkake-ranch.json) |
+| Cum Queens | 285131 | [285131-cum-queens.json](./285131-cum-queens.json) |
 | Cumdor no Tou: Zetsubou no Majo | 342061 | [342061-cumdor-no-tou-zetsubou-no-majo.json](./342061-cumdor-no-tou-zetsubou-no-majo.json) |
 | Cumma Celeritate | 322395 | [322395-cumma-celeritate.json](./322395-cumma-celeritate.json) |
 | Cumming Hotel: A Gay Furry Slice of Life | 225636 | [225636-cumming-hotel-a-gay-furry-slice-of-life.json](./225636-cumming-hotel-a-gay-furry-slice-of-life.json) |
@@ -9704,6 +9706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Legacy | 370707 | [370707-cursed-legacy.json](./370707-cursed-legacy.json) |
 | Cursed Letters | 156673 | [156673-cursed-letters.json](./156673-cursed-letters.json) |
 | Cursed Loot | 324114 | [324114-cursed-loot.json](./324114-cursed-loot.json) |
+| Cursed Mansion: Rose Christmas Costume | 285122 | [285122-cursed-mansion-rose-christmas-costume.json](./285122-cursed-mansion-rose-christmas-costume.json) |
 | Cursed Mummies | 169470 | [169470-cursed-mummies.json](./169470-cursed-mummies.json) |
 | Cursed New Year | 323512 | [323512-cursed-new-year.json](./323512-cursed-new-year.json) |
 | Cursed Night | 244194 | [244194-cursed-night.json](./244194-cursed-night.json) |
@@ -10178,6 +10181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cylindrix | 73318 | [73318-cylindrix.json](./73318-cylindrix.json) |
 | Cylor vs. the Bullets From Hell | 123612 | [123612-cylor-vs-the-bullets-from-hell.json](./123612-cylor-vs-the-bullets-from-hell.json) |
 | Cylor vs. the Endless Legions | 136238 | [136238-cylor-vs-the-endless-legions.json](./136238-cylor-vs-the-endless-legions.json) |
+| Cymbalism | 285124 | [285124-cymbalism.json](./285124-cymbalism.json) |
 | Cymut x Mutrobo: The Last Cymut | 292326 | [292326-cymut-x-mutrobo-the-last-cymut.json](./292326-cymut-x-mutrobo-the-last-cymut.json) |
 | Cynabre | 371334 | [371334-cynabre.json](./371334-cynabre.json) |
 | Cyndefense Remastered | 382289 | [382289-cyndefense-remastered.json](./382289-cyndefense-remastered.json) |
