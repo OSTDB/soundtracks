@@ -1023,6 +1023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leafko | 352308 | [352308-leafko.json](./352308-leafko.json) |
 | Leafling | 142347 | [142347-leafling.json](./142347-leafling.json) |
 | Leaftaker | 411043 | [411043-leaftaker.json](./411043-leaftaker.json) |
+| Leafy Season | 330228 | [330228-leafy-season.json](./330228-leafy-season.json) |
 | Leafy Trails Collection | 294838 | [294838-leafy-trails-collection.json](./294838-leafy-trails-collection.json) |
 | League Bowling | 40206 | [40206-league-bowling.json](./40206-league-bowling.json) |
 | League Manager 2023 | 235696 | [235696-league-manager-2023.json](./235696-league-manager-2023.json) |
@@ -2291,6 +2292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Fingers | 69487 | [69487-light-fingers.json](./69487-light-fingers.json) |
 | Light Followers: Blinded by the Dark | 349886 | [349886-light-followers-blinded-by-the-dark.json](./349886-light-followers-blinded-by-the-dark.json) |
 | Light Gravity Cube | 37042 | [37042-light-gravity-cube.json](./37042-light-gravity-cube.json) |
+| Light Guardian | 330403 | [330403-light-guardian.json](./330403-light-guardian.json) |
 | Light House | 57746 | [57746-light-house.json](./57746-light-house.json) |
 | Light House Puzzle | 110969 | [110969-light-house-puzzle.json](./110969-light-house-puzzle.json) |
 | Light Hunters: Battalion of Darkness | 126515 | [126515-light-hunters-battalion-of-darkness.json](./126515-light-hunters-battalion-of-darkness.json) |
@@ -3791,6 +3793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of Uberdark | 65774 | [65774-lords-of-uberdark.json](./65774-lords-of-uberdark.json) |
 | Lordship | 350047 | [350047-lordship.json](./350047-lordship.json) |
 | Lore Finder | 112762 | [112762-lore-finder.json](./112762-lore-finder.json) |
+| Lore Masters: Pathfinder | 330382 | [330382-lore-masters-pathfinder.json](./330382-lore-masters-pathfinder.json) |
 | Lore of Luvarith: The Hollow Crown | 384079 | [384079-lore-of-luvarith-the-hollow-crown.json](./384079-lore-of-luvarith-the-hollow-crown.json) |
 | Lore of the Frog | 309957 | [309957-lore-of-the-frog.json](./309957-lore-of-the-frog.json) |
 | Lore Restore | 368477 | [368477-lore-restore.json](./368477-lore-restore.json) |
@@ -4201,6 +4204,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Elysium: Secret of the Goddess - Ultimate Edition | 313141 | [313141-love-elysium-secret-of-the-goddess-ultimate-edition.json](./313141-love-elysium-secret-of-the-goddess-ultimate-edition.json) |
 | Love Engine | 29956 | [29956-love-engine.json](./29956-love-engine.json) |
 | Love Eternal | 305358 | [305358-love-eternal.json](./305358-love-eternal.json) |
+| Love Furry Boys: Zodiac Dating App | 330238 | [330238-love-furry-boys-zodiac-dating-app.json](./330238-love-furry-boys-zodiac-dating-app.json) |
+| Love Furry Girls: Zodiac Dating App | 330239 | [330239-love-furry-girls-zodiac-dating-app.json](./330239-love-furry-girls-zodiac-dating-app.json) |
 | Love Games | 107425 | [107425-love-games.json](./107425-love-games.json) |
 | Love Girl | 22474 | [22474-love-girl.json](./22474-love-girl.json) |
 | Love Girls | 367598 | [367598-love-girls.json](./367598-love-girls.json) |
