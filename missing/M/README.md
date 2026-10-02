@@ -530,6 +530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Bubble | 287655 | [287655-magic-bubble.json](./287655-magic-bubble.json) |
 | Magic Cards Duel | 409793 | [409793-magic-cards-duel.json](./409793-magic-cards-duel.json) |
 | Magic Carpet Plus | 72026 | [72026-magic-carpet-plus.json](./72026-magic-carpet-plus.json) |
+| Magic Caster | 291716 | [291716-magic-caster.json](./291716-magic-caster.json) |
 | Magic Castle | 317812 | [317812-magic-castle.json](./317812-magic-castle.json) |
 | Magic Cat | 89412 | [89412-magic-cat.json](./89412-magic-cat.json) |
 | Magic Cat Academy | 165413 | [165413-magic-cat-academy.json](./165413-magic-cat-academy.json) |
@@ -567,6 +568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Factory | 115047 | [115047-magic-factory.json](./115047-magic-factory.json) |
 | Magic Fairy Tales: Barbie as Rapunzel | 19401 | [19401-magic-fairy-tales-barbie-as-rapunzel.json](./19401-magic-fairy-tales-barbie-as-rapunzel.json) |
 | Magic Farm | 298707 | [298707-magic-farm.json](./298707-magic-farm.json) |
+| Magic Farm 2: Fairy Lands - Premium Edition | 291715 | [291715-magic-farm-2-fairy-lands-premium-edition.json](./291715-magic-farm-2-fairy-lands-premium-edition.json) |
 | Magic Flight Academy | 102947 | [102947-magic-flight-academy.json](./102947-magic-flight-academy.json) |
 | Magic Fluids | 168663 | [168663-magic-fluids.json](./168663-magic-fluids.json) |
 | Magic Force | 265100 | [265100-magic-force.json](./265100-magic-force.json) |
@@ -660,12 +662,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Realm: Online | 102934 | [102934-magic-realm-online.json](./102934-magic-realm-online.json) |
 | Magic Revenge: Casual Idle RPG | 180234 | [180234-magic-revenge-casual-idle-rpg.json](./180234-magic-revenge-casual-idle-rpg.json) |
 | Magic Rune Stone | 333367 | [333367-magic-rune-stone.json](./333367-magic-rune-stone.json) |
+| Magic Runes | 291714 | [291714-magic-runes.json](./291714-magic-runes.json) |
 | Magic Rush: Heroes | 57159 | [57159-magic-rush-heroes.json](./57159-magic-rush-heroes.json) |
 | Magic Sand Escape | 315593 | [315593-magic-sand-escape.json](./315593-magic-sand-escape.json) |
 | Magic School Bus Lands on Mars | 74082 | [74082-magic-school-bus-lands-on-mars.json](./74082-magic-school-bus-lands-on-mars.json) |
 | Magic School Bus Volcano Adventure | 69818 | [69818-magic-school-bus-volcano-adventure.json](./69818-magic-school-bus-volcano-adventure.json) |
 | Magic School Bus Whales and Dolphins | 71579 | [71579-magic-school-bus-whales-and-dolphins.json](./71579-magic-school-bus-whales-and-dolphins.json) |
 | Magic Scroll | 278543 | [278543-magic-scroll.json](./278543-magic-scroll.json) |
+| Magic Seeker: A Mimic's Odyssey - Chapter 1 | 291718 | [291718-magic-seeker-a-mimics-odyssey-chapter-1.json](./291718-magic-seeker-a-mimics-odyssey-chapter-1.json) |
 | Magic Sheep | 380397 | [380397-magic-sheep.json](./380397-magic-sheep.json) |
 | Magic Shop Simulator | 417603 | [417603-magic-shop-simulator.json](./417603-magic-shop-simulator.json) |
 | Magic Shot | 18235 | [18235-magic-shot.json](./18235-magic-shot.json) |
@@ -3380,6 +3384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mecha Knights: Nightmare 2 | 377069 | [377069-mecha-knights-nightmare-2.json](./377069-mecha-knights-nightmare-2.json) |
 | Mecha Kucha Gacha Defence | 255038 | [255038-mecha-kucha-gacha-defence.json](./255038-mecha-kucha-gacha-defence.json) |
 | Mecha Macho | 317390 | [317390-mecha-macho.json](./317390-mecha-macho.json) |
+| Mecha Mayhem | 291722 | [291722-mecha-mayhem.json](./291722-mecha-mayhem.json) |
 | Mecha Mining Marvelous Martian Minerals | 363934 | [363934-mecha-mining-marvelous-martian-minerals.json](./363934-mecha-mining-marvelous-martian-minerals.json) |
 | Mecha Party | 286043 | [286043-mecha-party.json](./286043-mecha-party.json) |
 | Mecha Ritz: Steel Rondo 2.0 | 229042 | [229042-mecha-ritz-steel-rondo-2-0.json](./229042-mecha-ritz-steel-rondo-2-0.json) |
@@ -4681,6 +4686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meridiana: A demon's madness | 197263 | [197263-meridiana-a-demons-madness.json](./197263-meridiana-a-demons-madness.json) |
 | Meritaton | 365306 | [365306-meritaton.json](./365306-meritaton.json) |
 | Meritocracy of the Oni & Blade | 105216 | [105216-meritocracy-of-the-oni-and-blade.json](./105216-meritocracy-of-the-oni-and-blade.json) |
+| Merk Mayhem | 291696 | [291696-merk-mayhem.json](./291696-merk-mayhem.json) |
 | Merlin | 50034 | [50034-merlin.json](./50034-merlin.json) |
 | Merlin 64 | 47242 | [47242-merlin-64.json](./47242-merlin-64.json) |
 | Merlin Adventurer Store | 26490 | [26490-merlin-adventurer-store.json](./26490-merlin-adventurer-store.json) |
@@ -8396,6 +8402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morphology | 185075 | [185075-morphology.json](./185075-morphology.json) |
 | Morphopolis | 9768 | [9768-morphopolis.json](./9768-morphopolis.json) |
 | Morphscape: The Stylized Prop Pursuit | 301833 | [301833-morphscape-the-stylized-prop-pursuit.json](./301833-morphscape-the-stylized-prop-pursuit.json) |
+| Morpi Card Mix | 291686 | [291686-morpi-card-mix.json](./291686-morpi-card-mix.json) |
 | Morra | 246472 | [246472-morra.json](./246472-morra.json) |
 | Morra 3D | 371474 | [371474-morra-3d.json](./371474-morra-3d.json) |
 | Morrigan's Isle | 324876 | [324876-morrigans-isle.json](./324876-morrigans-isle.json) |
@@ -9558,6 +9565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musestruck | 330945 | [330945-musestruck.json](./330945-musestruck.json) |
 | Museum | 109891 | [109891-museum.json](./109891-museum.json) |
 | Museum | 185437 | [185437-museum.json](./185437-museum.json) |
+| Museum Mystery | 291700 | [291700-museum-mystery.json](./291700-museum-mystery.json) |
 | Museum of All Things | 333238 | [333238-museum-of-all-things.json](./333238-museum-of-all-things.json) |
 | Museum of Extravagance | 169860 | [169860-museum-of-extravagance.json](./169860-museum-of-extravagance.json) |
 | Museum of Immersive Art | 341345 | [341345-museum-of-immersive-art.json](./341345-museum-of-immersive-art.json) |
