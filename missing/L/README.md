@@ -365,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land-io | 254444 | [254444-land-io.json](./254444-land-io.json) |
 | Land, Sea and Air 2! | 70362 | [70362-land-sea-and-air-2.json](./70362-land-sea-and-air-2.json) |
 | Land's End | 12883 | [12883-lands-end.json](./12883-lands-end.json) |
+| Land94 | 300266 | [300266-land94.json](./300266-land94.json) |
 | Landborne | 250036 | [250036-landborne.json](./250036-landborne.json) |
 | Landelver | 285970 | [285970-landelver.json](./285970-landelver.json) |
 | Lander 8009 VR | 37039 | [37039-lander-8009-vr.json](./37039-lander-8009-vr.json) |
@@ -4687,6 +4688,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lufulus' Creatures | 129000 | [129000-lufulus-creatures.json](./129000-lufulus-creatures.json) |
 | Lug's Delightful Dioramas | 198463 | [198463-lugs-delightful-dioramas.json](./198463-lugs-delightful-dioramas.json) |
 | Lug's Delightful Dioramas PC | 378296 | [378296-lugs-delightful-dioramas-pc.json](./378296-lugs-delightful-dioramas-pc.json) |
+| Lug's Tiny Torture | 300268 | [300268-lugs-tiny-torture.json](./300268-lugs-tiny-torture.json) |
+| Lug's Tiny Torture Lite | 300269 | [300269-lugs-tiny-torture-lite.json](./300269-lugs-tiny-torture-lite.json) |
 | Lugaru | 14940 | [14940-lugaru.json](./14940-lugaru.json) |
 | Luge Crush 2018 | 87201 | [87201-luge-crush-2018.json](./87201-luge-crush-2018.json) |
 | Luggage Lane | 314474 | [314474-luggage-lane.json](./314474-luggage-lane.json) |
