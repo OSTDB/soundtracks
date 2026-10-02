@@ -5946,6 +5946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft x Crocs: Choose Your Mode | 310599 | [310599-minecraft-x-crocs-choose-your-mode.json](./310599-minecraft-x-crocs-choose-your-mode.json) |
 | Minecraft X Magic: The Gathering Skin Pack | 362947 | [362947-minecraft-x-magic-the-gathering-skin-pack.json](./362947-minecraft-x-magic-the-gathering-skin-pack.json) |
 | Minecraft: 10 Years Of Minecraft | 322956 | [322956-minecraft-10-years-of-minecraft.json](./322956-minecraft-10-years-of-minecraft.json) |
+| Minecraft: 1st Animal Friends Skin Pack | 316692 | [316692-minecraft-1st-animal-friends-skin-pack.json](./316692-minecraft-1st-animal-friends-skin-pack.json) |
 | Minecraft: 1st Birthday Skin Pack | 255346 | [255346-minecraft-1st-birthday-skin-pack.json](./255346-minecraft-1st-birthday-skin-pack.json) |
 | Minecraft: A Minecraft Movie Add-On | 333583 | [333583-minecraft-a-minecraft-movie-add-on.json](./333583-minecraft-a-minecraft-movie-add-on.json) |
 | Minecraft: Actions & Stuff | 343393 | [343393-minecraft-actions-and-stuff.json](./343393-minecraft-actions-and-stuff.json) |
@@ -5969,6 +5970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Deluxe Collection for PC | 350618 | [350618-minecraft-deluxe-collection-for-pc.json](./350618-minecraft-deluxe-collection-for-pc.json) |
 | Minecraft: Echo Crystal | 343904 | [343904-minecraft-echo-crystal.json](./343904-minecraft-echo-crystal.json) |
 | Minecraft: Egyptian Mythology Mash-up | 237331 | [237331-minecraft-egyptian-mythology-mash-up.json](./237331-minecraft-egyptian-mythology-mash-up.json) |
+| Minecraft: Fantastic Fairgrounds | 316689 | [316689-minecraft-fantastic-fairgrounds.json](./316689-minecraft-fantastic-fairgrounds.json) |
 | Minecraft: Fire TV Edition | 140463 | [140463-minecraft-fire-tv-edition.json](./140463-minecraft-fire-tv-edition.json) |
 | Minecraft: Frozen | 254125 | [254125-minecraft-frozen.json](./254125-minecraft-frozen.json) |
 | Minecraft: Godzilla | 285051 | [285051-minecraft-godzilla.json](./285051-minecraft-godzilla.json) |
@@ -6455,6 +6457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirage | 247761 | [247761-mirage.json](./247761-mirage.json) |
 | Mirage | 371353 | [371353-mirage.json](./371353-mirage.json) |
 | Mirage | 410391 | [410391-mirage.json](./410391-mirage.json) |
+| Mirage 7 | 316728 | [316728-mirage-7.json](./316728-mirage-7.json) |
 | Mirage In Darkness | 211810 | [211810-mirage-in-darkness.json](./211810-mirage-in-darkness.json) |
 | Mirage Motel | 183061 | [183061-mirage-motel.json](./183061-mirage-motel.json) |
 | Mirage Noir | 309655 | [309655-mirage-noir.json](./309655-mirage-noir.json) |
@@ -6587,6 +6590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss Peach World | 133780 | [133780-miss-peach-world.json](./133780-miss-peach-world.json) |
 | Miss Perfect Miss Ending | 320753 | [320753-miss-perfect-miss-ending.json](./320753-miss-perfect-miss-ending.json) |
 | Miss Princess Miss Pri | 204400 | [204400-miss-princess-miss-pri.json](./204400-miss-princess-miss-pri.json) |
+| Miss Rosen's Wowtastic! Marching Band | 316732 | [316732-miss-rosens-wowtastic-marching-band.json](./316732-miss-rosens-wowtastic-marching-band.json) |
 | Miss Spider's Sunny Patch Friends: Harvest Time Hop and Fly | 7979 | [7979-miss-spiders-sunny-patch-friends-harvest-time-hop-and-fly.json](./7979-miss-spiders-sunny-patch-friends-harvest-time-hop-and-fly.json) |
 | Miss Spider's Tea Party | 73804 | [73804-miss-spiders-tea-party.json](./73804-miss-spiders-tea-party.json) |
 | Miss Teri Tale | 53385 | [53385-miss-teri-tale.json](./53385-miss-teri-tale.json) |
