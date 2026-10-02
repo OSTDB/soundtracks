@@ -2466,6 +2466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RemiFla Spirits 2 | 213957 | [213957-remifla-spirits-2.json](./213957-remifla-spirits-2.json) |
 | Remilia's Challenge | 369571 | [369571-remilias-challenge.json](./369571-remilias-challenge.json) |
 | Remindelight | 123405 | [123405-remindelight.json](./123405-remindelight.json) |
+| Remington Upland Game Hunter | 319121 | [319121-remington-upland-game-hunter.json](./319121-remington-upland-game-hunter.json) |
 | Reminisce | 306685 | [306685-reminisce.json](./306685-reminisce.json) |
 | Reminiscence | 360643 | [360643-reminiscence.json](./360643-reminiscence.json) |
 | ReMix: Encore | 311815 | [311815-remix-encore.json](./311815-remix-encore.json) |
@@ -3901,6 +3902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise Eterna | 113809 | [113809-rise-eterna.json](./113809-rise-eterna.json) |
 | Rise Eterna War | 290503 | [290503-rise-eterna-war.json](./290503-rise-eterna-war.json) |
 | Rise High | 81240 | [81240-rise-high.json](./81240-rise-high.json) |
+| Rise of a Legend | 319094 | [319094-rise-of-a-legend.json](./319094-rise-of-a-legend.json) |
 | Rise of Ages | 111564 | [111564-rise-of-ages.json](./111564-rise-of-ages.json) |
 | Rise Of Anupet | 309644 | [309644-rise-of-anupet.json](./309644-rise-of-anupet.json) |
 | Rise of Balloons | 29100 | [29100-rise-of-balloons.json](./29100-rise-of-balloons.json) |
