@@ -1209,6 +1209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majustsushi Rintiara | 174123 | [174123-majustsushi-rintiara.json](./174123-majustsushi-rintiara.json) |
 | Majuu-ou: King of Demons | 38112 | [38112-majuu-ou-king-of-demons.json](./38112-majuu-ou-king-of-demons.json) |
 | Majyo no Nebaneba Note | 336940 | [336940-majyo-no-nebaneba-note.json](./336940-majyo-no-nebaneba-note.json) |
+| Maka Dash | 302046 | [302046-maka-dash.json](./302046-maka-dash.json) |
 | Makai Wars | 51444 | [51444-makai-wars.json](./51444-makai-wars.json) |
 | Makaimura Gaiden: The Demon Darkness | 84640 | [84640-makaimura-gaiden-the-demon-darkness.json](./84640-makaimura-gaiden-the-demon-darkness.json) |
 | Makaimura Online | 63297 | [63297-makaimura-online.json](./63297-makaimura-online.json) |
@@ -9683,6 +9684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX vs. ATV Legends: Track Pass | 350652 | [350652-mx-vs-atv-legends-track-pass.json](./350652-mx-vs-atv-legends-track-pass.json) |
 | MX vs. ATV: All Out - Anniversary Edition | 115472 | [115472-mx-vs-atv-all-out-anniversary-edition.json](./115472-mx-vs-atv-all-out-anniversary-edition.json) |
 | MX vs. ATV: Legends - 2023 Track Pass | 287113 | [287113-mx-vs-atv-legends-2023-track-pass.json](./287113-mx-vs-atv-legends-2023-track-pass.json) |
+| MX vs. ATV: Legends - 2024 AMA Pro Motocross Championship | 302034 | [302034-mx-vs-atv-legends-2024-ama-pro-motocross-championship.json](./302034-mx-vs-atv-legends-2024-ama-pro-motocross-championship.json) |
 | MX vs. ATV: Legends - 2024 Monster Energy Supercross Championship | 295398 | [295398-mx-vs-atv-legends-2024-monster-energy-supercross-championship.json](./295398-mx-vs-atv-legends-2024-monster-energy-supercross-championship.json) |
 | MX vs. ATV: Legends - 2025 Monster Energy Supercross Championship | 350639 | [350639-mx-vs-atv-legends-2025-monster-energy-supercross-championship.json](./350639-mx-vs-atv-legends-2025-monster-energy-supercross-championship.json) |
 | MX vs. ATV: Legends - Customization Pack | 350651 | [350651-mx-vs-atv-legends-customization-pack.json](./350651-mx-vs-atv-legends-customization-pack.json) |
@@ -9700,6 +9702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX vs. ATV: Legends - Supercross World Tour | 350646 | [350646-mx-vs-atv-legends-supercross-world-tour.json](./350646-mx-vs-atv-legends-supercross-world-tour.json) |
 | MX vs. ATV: Legends - Suzuki Pack | 350647 | [350647-mx-vs-atv-legends-suzuki-pack.json](./350647-mx-vs-atv-legends-suzuki-pack.json) |
 | MX vs. ATV: Legends - Suzuki Pack 2025 | 350644 | [350644-mx-vs-atv-legends-suzuki-pack-2025.json](./350644-mx-vs-atv-legends-suzuki-pack-2025.json) |
+| MX vs. ATV: Legends - Track Pass 2024 | 302035 | [302035-mx-vs-atv-legends-track-pass-2024.json](./302035-mx-vs-atv-legends-track-pass-2024.json) |
 | MX vs. ATV: Legends - Yamaha Pack 2025 | 350642 | [350642-mx-vs-atv-legends-yamaha-pack-2025.json](./350642-mx-vs-atv-legends-yamaha-pack-2025.json) |
 | MX vs. ATV: On the Edge | 18267 | [18267-mx-vs-atv-on-the-edge.json](./18267-mx-vs-atv-on-the-edge.json) |
 | MX vs. ATV: Reflex | 248570 | [248570-mx-vs-atv-reflex.json](./248570-mx-vs-atv-reflex.json) |
