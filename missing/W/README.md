@@ -1684,6 +1684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wer weiß denn sowas?: Das 3. Spiel | 315657 | [315657-wer-wei-denn-sowas-das-3-spiel.json](./315657-wer-wei-denn-sowas-das-3-spiel.json) |
 | Were House | 178553 | [178553-were-house.json](./178553-were-house.json) |
 | Were.Wolf | 157523 | [157523-were-wolf.json](./157523-were-wolf.json) |
+| Werewolf Goldfish | 309054 | [309054-werewolf-goldfish.json](./309054-werewolf-goldfish.json) |
 | Werewolf Hunter: Survive the Howl | 330808 | [330808-werewolf-hunter-survive-the-howl.json](./330808-werewolf-hunter-survive-the-howl.json) |
 | Werewolf Island | 61150 | [61150-werewolf-island.json](./61150-werewolf-island.json) |
 | Werewolf Online | 420656 | [420656-werewolf-online.json](./420656-werewolf-online.json) |
@@ -1811,6 +1812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What a Ball | 225727 | [225727-what-a-ball.json](./225727-what-a-ball.json) |
 | What A Legend | 239306 | [239306-what-a-legend.json](./239306-what-a-legend.json) |
 | What a Shitty Job | 348869 | [348869-what-a-shitty-job.json](./348869-what-a-shitty-job.json) |
+| What Beats Rock | 309019 | [309019-what-beats-rock.json](./309019-what-beats-rock.json) |
 | What Body? | 281385 | [281385-what-body.json](./281385-what-body.json) |
 | What Cat? | 253033 | [253033-what-cat.json](./253033-what-cat.json) |
 | What Comes After | 142382 | [142382-what-comes-after.json](./142382-what-comes-after.json) |
@@ -2362,6 +2364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Wants to Be a Millionaire | 81512 | [81512-who-wants-to-be-a-millionaire.json](./81512-who-wants-to-be-a-millionaire.json) |
 | Who Wants To Be A Millionaire 2010 | 311654 | [311654-who-wants-to-be-a-millionaire-2010.json](./311654-who-wants-to-be-a-millionaire-2010.json) |
 | Who Wants to Be a Millionaire: 2012 Edition | 65596 | [65596-who-wants-to-be-a-millionaire-2012-edition.json](./65596-who-wants-to-be-a-millionaire-2012-edition.json) |
+| Who Wants to Be a Millionaire: 2nd Edition | 309014 | [309014-who-wants-to-be-a-millionaire-2nd-edition.json](./309014-who-wants-to-be-a-millionaire-2nd-edition.json) |
 | Who Wants to Be a Millionaire: 2nd Edition | 311655 | [311655-who-wants-to-be-a-millionaire-2nd-edition.json](./311655-who-wants-to-be-a-millionaire-2nd-edition.json) |
 | Who Wants to Be a Millionaire: Hitchcock DLC Pack | 289323 | [289323-who-wants-to-be-a-millionaire-hitchcock-dlc-pack.json](./289323-who-wants-to-be-a-millionaire-hitchcock-dlc-pack.json) |
 | Who Wants to Be A Millionaire: Microsoft Games DLC Pack | 318439 | [318439-who-wants-to-be-a-millionaire-microsoft-games-dlc-pack.json](./318439-who-wants-to-be-a-millionaire-microsoft-games-dlc-pack.json) |
@@ -3071,6 +3074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Cram Sorceries | 262901 | [262901-witch-cram-sorceries.json](./262901-witch-cram-sorceries.json) |
 | Witch Cry: Horror House | 233460 | [233460-witch-cry-horror-house.json](./233460-witch-cry-horror-house.json) |
 | Witch Epoch | 203528 | [203528-witch-epoch.json](./203528-witch-epoch.json) |
+| Witch Guardians: Quest for the Ancestral Magic | 309036 | [309036-witch-guardians-quest-for-the-ancestral-magic.json](./309036-witch-guardians-quest-for-the-ancestral-magic.json) |
 | Witch Halloween | 127913 | [127913-witch-halloween.json](./127913-witch-halloween.json) |
 | Witch House Mixtape | 271187 | [271187-witch-house-mixtape.json](./271187-witch-house-mixtape.json) |
 | Witch Hunt | 134420 | [134420-witch-hunt.json](./134420-witch-hunt.json) |
@@ -3119,6 +3123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witchball | 81788 | [81788-witchball.json](./81788-witchball.json) |
 | Witchbeat | 179618 | [179618-witchbeat.json](./179618-witchbeat.json) |
 | Witchblood | 129238 | [129238-witchblood.json](./129238-witchblood.json) |
+| Witchblood | 309021 | [309021-witchblood.json](./309021-witchblood.json) |
 | Witchblood | 413640 | [413640-witchblood.json](./413640-witchblood.json) |
 | Witchcraft | 210673 | [210673-witchcraft.json](./210673-witchcraft.json) |
 | WitchCraft TD | 220718 | [220718-witchcraft-td.json](./220718-witchcraft-td.json) |
