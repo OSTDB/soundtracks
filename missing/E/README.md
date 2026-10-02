@@ -1892,6 +1892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Energy Hook | 20182 | [20182-energy-hook.json](./20182-energy-hook.json) |
 | Energy Hunter Boy | 119709 | [119709-energy-hunter-boy.json](./119709-energy-hunter-boy.json) |
 | Energy Invasion | 31792 | [31792-energy-invasion.json](./31792-energy-invasion.json) |
+| Energy Lab | 313206 | [313206-energy-lab.json](./313206-energy-lab.json) |
 | Energy Manager | 350530 | [350530-energy-manager.json](./350530-energy-manager.json) |
 | Energy Survivors | 224785 | [224785-energy-survivors.json](./224785-energy-survivors.json) |
 | Energy Tail | 215924 | [215924-energy-tail.json](./215924-energy-tail.json) |
