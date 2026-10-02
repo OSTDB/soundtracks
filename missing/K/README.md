@@ -2064,6 +2064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitty in the Crowd | 243970 | [243970-kitty-in-the-crowd.json](./243970-kitty-in-the-crowd.json) |
 | Kitty Keeper: Cat Collector | 105881 | [105881-kitty-keeper-cat-collector.json](./105881-kitty-keeper-cat-collector.json) |
 | Kitty Kitty Bang Bang | 179146 | [179146-kitty-kitty-bang-bang.json](./179146-kitty-kitty-bang-bang.json) |
+| Kitty Kitty Bounce Bounce | 292220 | [292220-kitty-kitty-bounce-bounce.json](./292220-kitty-kitty-bounce-bounce.json) |
 | Kitty Letter | 145044 | [145044-kitty-letter.json](./145044-kitty-letter.json) |
 | Kitty Loves Birds | 346601 | [346601-kitty-loves-birds.json](./346601-kitty-loves-birds.json) |
 | Kitty Meow Meow City Heroes - Cats to the Rescue! | 95880 | [95880-kitty-meow-meow-city-heroes-cats-to-the-rescue.json](./95880-kitty-meow-meow-city-heroes-cats-to-the-rescue.json) |
@@ -2965,6 +2966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kunio-kun no Nekketsu Street | 74769 | [74769-kunio-kun-no-nekketsu-street.json](./74769-kunio-kun-no-nekketsu-street.json) |
 | Kunio-kun's Nekketsu Soccer League | 16603 | [16603-kunio-kuns-nekketsu-soccer-league.json](./16603-kunio-kuns-nekketsu-soccer-league.json) |
 | Kunitori Zunou Battle: Nobunaga no Yabou | 69286 | [69286-kunitori-zunou-battle-nobunaga-no-yabou.json](./69286-kunitori-zunou-battle-nobunaga-no-yabou.json) |
+| Kunkun Battles | 292244 | [292244-kunkun-battles.json](./292244-kunkun-battles.json) |
 | KunKun Defender | 298127 | [298127-kunkun-defender.json](./298127-kunkun-defender.json) |
 | Kunkun Defender 2 | 343863 | [343863-kunkun-defender-2.json](./343863-kunkun-defender-2.json) |
 | Kunkun League | 303619 | [303619-kunkun-league.json](./303619-kunkun-league.json) |
