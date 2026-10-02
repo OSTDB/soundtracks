@@ -408,6 +408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaos 2 | 57724 | [57724-kaos-2.json](./57724-kaos-2.json) |
 | Kaos Kards | 374247 | [374247-kaos-kards.json](./374247-kaos-kards.json) |
 | Kǎpái Màoxiǎnzhě | 148369 | [148369-kapai-maoxianzhe.json](./148369-kapai-maoxianzhe.json) |
+| Kapamilya Deal or No Deal | 319657 | [319657-kapamilya-deal-or-no-deal.json](./319657-kapamilya-deal-or-no-deal.json) |
 | Kaperfahrt | 414347 | [414347-kaperfahrt.json](./414347-kaperfahrt.json) |
 | Kapi Hospital | 260739 | [260739-kapi-hospital.json](./260739-kapi-hospital.json) |
 | Kapih | 332262 | [332262-kapih.json](./332262-kapih.json) |
