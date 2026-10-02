@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yandere no Sutoka | 285048 | [285048-yandere-no-sutoka.json](./285048-yandere-no-sutoka.json) |
 | Yandere Onii-san ni Sokubaku Kankin Sarechau Game! | 285990 | [285990-yandere-onii-san-ni-sokubaku-kankin-sarechau-game.json](./285990-yandere-onii-san-ni-sokubaku-kankin-sarechau-game.json) |
 | Yandere Simulator: Midori Adventure - The Visual Novel | 296375 | [296375-yandere-simulator-midori-adventure-the-visual-novel.json](./296375-yandere-simulator-midori-adventure-the-visual-novel.json) |
+| Yandere Tensei: I Can't Beat The Programming! | 321421 | [321421-yandere-tensei-i-cant-beat-the-programming.json](./321421-yandere-tensei-i-cant-beat-the-programming.json) |
 | Yandere Ura-kano Jirai-chan | 251516 | [251516-yandere-ura-kano-jirai-chan.json](./251516-yandere-ura-kano-jirai-chan.json) |
 | Yandere-Chan | 125998 | [125998-yandere-chan.json](./125998-yandere-chan.json) |
 | Yanderella | 125858 | [125858-yanderella.json](./125858-yanderella.json) |
