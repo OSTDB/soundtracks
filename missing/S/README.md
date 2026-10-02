@@ -265,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saga of Lucimia | 71020 | [71020-saga-of-lucimia.json](./71020-saga-of-lucimia.json) |
 | Saga of Nine Worlds: The Stags | 108853 | [108853-saga-of-nine-worlds-the-stags.json](./108853-saga-of-nine-worlds-the-stags.json) |
 | Saga of Sins | 211238 | [211238-saga-of-sins.json](./211238-saga-of-sins.json) |
+| Saga of Song | 287342 | [287342-saga-of-song.json](./287342-saga-of-song.json) |
 | Saga of the Moon Priestess | 274507 | [274507-saga-of-the-moon-priestess.json](./274507-saga-of-the-moon-priestess.json) |
 | Saga of the Nine Worlds: The Gathering | 74311 | [74311-saga-of-the-nine-worlds-the-gathering.json](./74311-saga-of-the-nine-worlds-the-gathering.json) |
 | Saga of the Shattered Swords | 249267 | [249267-saga-of-the-shattered-swords.json](./249267-saga-of-the-shattered-swords.json) |
@@ -1026,6 +1027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sargon II | 47209 | [47209-sargon-ii.json](./47209-sargon-ii.json) |
 | Saria Reclaimed | 255637 | [255637-saria-reclaimed.json](./255637-saria-reclaimed.json) |
 | Sariel's Day Out | 371416 | [371416-sariels-day-out.json](./371416-sariels-day-out.json) |
+| Sarissa and the Legendary Sword | 287332 | [287332-sarissa-and-the-legendary-sword.json](./287332-sarissa-and-the-legendary-sword.json) |
 | Sarkar Infinite | 188375 | [188375-sarkar-infinite.json](./188375-sarkar-infinite.json) |
 | Sarkwo | 197229 | [197229-sarkwo.json](./197229-sarkwo.json) |
 | Saros: Zenith | 416115 | [416115-saros-zenith.json](./416115-saros-zenith.json) |
@@ -9657,6 +9659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Farm | 107384 | [107384-space-farm.json](./107384-space-farm.json) |
 | Space Farmers 2 | 169870 | [169870-space-farmers-2.json](./169870-space-farmers-2.json) |
 | Space Fat: To the Core | 155655 | [155655-space-fat-to-the-core.json](./155655-space-fat-to-the-core.json) |
+| Space Fight of Gun | 287344 | [287344-space-fight-of-gun.json](./287344-space-fight-of-gun.json) |
 | Space Fighter | 172531 | [172531-space-fighter.json](./172531-space-fighter.json) |
 | Space Fighters | 89396 | [89396-space-fighters.json](./89396-space-fighters.json) |
 | Space Filler | 338013 | [338013-space-filler.json](./338013-space-filler.json) |
@@ -10834,6 +10837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spinal Breakers | 39666 | [39666-spinal-breakers.json](./39666-spinal-breakers.json) |
 | Spinball | 110528 | [110528-spinball.json](./110528-spinball.json) |
 | SpinBound | 400417 | [400417-spinbound.json](./400417-spinbound.json) |
+| SpinCraft: Roguelike | 287322 | [287322-spincraft-roguelike.json](./287322-spincraft-roguelike.json) |
 | SpinDrive Ping Pong | 43354 | [43354-spindrive-ping-pong.json](./43354-spindrive-ping-pong.json) |
 | Spine | 165432 | [165432-spine.json](./165432-spine.json) |
 | Spine & Quill | 304630 | [304630-spine-and-quill.json](./304630-spine-and-quill.json) |
@@ -15417,6 +15421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Friends Party | 117779 | [117779-super-friends-party.json](./117779-super-friends-party.json) |
 | Super Frog's Quest | 108410 | [108410-super-frogs-quest.json](./108410-super-frogs-quest.json) |
 | Super Froppings | 418700 | [418700-super-froppings.json](./418700-super-froppings.json) |
+| Super Fruit Ninja | 287353 | [287353-super-fruit-ninja.json](./287353-super-fruit-ninja.json) |
 | Super Furi Puzzles | 334833 | [334833-super-furi-puzzles.json](./334833-super-furi-puzzles.json) |
 | Super Gahaku | 417571 | [417571-super-gahaku.json](./417571-super-gahaku.json) |
 | Super Galaxy Ball | 219579 | [219579-super-galaxy-ball.json](./219579-super-galaxy-ball.json) |
@@ -16026,6 +16031,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mega Baseball 3 | 131946 | [131946-super-mega-baseball-3.json](./131946-super-mega-baseball-3.json) |
 | Super Mega Baseball 4: Castillo Arena Stadium | 266742 | [266742-super-mega-baseball-4-castillo-arena-stadium.json](./266742-super-mega-baseball-4-castillo-arena-stadium.json) |
 | Super Mega Bob | 34676 | [34676-super-mega-bob.json](./34676-super-mega-bob.json) |
+| Super Mega Drive 3: 12 Super Jogos | 287345 | [287345-super-mega-drive-3-12-super-jogos.json](./287345-super-mega-drive-3-12-super-jogos.json) |
+| Super Mega Drive 3: 30 Super Jogos | 287346 | [287346-super-mega-drive-3-30-super-jogos.json](./287346-super-mega-drive-3-30-super-jogos.json) |
 | Super Mega Hentai Collection! | 215248 | [215248-super-mega-hentai-collection.json](./215248-super-mega-hentai-collection.json) |
 | Super Mega Lucky Box | 234599 | [234599-super-mega-lucky-box.json](./234599-super-mega-lucky-box.json) |
 | Super Mega Runners | 365137 | [365137-super-mega-runners.json](./365137-super-mega-runners.json) |
