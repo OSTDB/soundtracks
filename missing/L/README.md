@@ -1102,6 +1102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn to Play Vol. 6: Labyrinth | 317449 | [317449-learn-to-play-vol-6-labyrinth.json](./317449-learn-to-play-vol-6-labyrinth.json) |
 | Learn to Play Vol. 7: Safe Journey | 317450 | [317450-learn-to-play-vol-7-safe-journey.json](./317450-learn-to-play-vol-7-safe-journey.json) |
 | Learning a Foreign Language Is No Easy Task, for Sure | 179039 | [179039-learning-a-foreign-language-is-no-easy-task-for-sure.json](./179039-learning-a-foreign-language-is-no-easy-task-for-sure.json) |
+| Learning Ladder: Year 3 | 327264 | [327264-learning-ladder-year-3.json](./327264-learning-ladder-year-3.json) |
 | Learning Ladder: Years 1 & 2 | 326983 | [326983-learning-ladder-years-1-and-2.json](./326983-learning-ladder-years-1-and-2.json) |
 | Learning Land | 231859 | [231859-learning-land.json](./231859-learning-land.json) |
 | Learning Life: Mysteeri 24/7 | 193434 | [193434-learning-life-mysteeri-24-7.json](./193434-learning-life-mysteeri-24-7.json) |
@@ -1689,6 +1690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lent: The Easter Bunny - Lent's Adventure: Story One | 215123 | [215123-lent-the-easter-bunny-lents-adventure-story-one.json](./215123-lent-the-easter-bunny-lents-adventure-story-one.json) |
 | Léo | 386726 | [386726-leo.json](./386726-leo.json) |
 | Leo & Leah | 130884 | [130884-leo-and-leah.json](./130884-leo-and-leah.json) |
+| Leo & Mia: Animal Rescue | 327280 | [327280-leo-and-mia-animal-rescue.json](./327280-leo-and-mia-animal-rescue.json) |
 | Leo And Tig | 389063 | [389063-leo-and-tig.json](./389063-leo-and-tig.json) |
 | Leo Spanish Spelling Complete | 108614 | [108614-leo-spanish-spelling-complete.json](./108614-leo-spanish-spelling-complete.json) |
 | Leo the Amazing Cat | 177422 | [177422-leo-the-amazing-cat.json](./177422-leo-the-amazing-cat.json) |
@@ -1779,6 +1781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Build a Zoo: Aquarium Odyssey Bundle | 262056 | [262056-lets-build-a-zoo-aquarium-odyssey-bundle.json](./262056-lets-build-a-zoo-aquarium-odyssey-bundle.json) |
 | Let's Build a Zoo: Ultimate Bundle | 262054 | [262054-lets-build-a-zoo-ultimate-bundle.json](./262054-lets-build-a-zoo-ultimate-bundle.json) |
 | Let's Catch | 21352 | [21352-lets-catch.json](./21352-lets-catch.json) |
+| Let's Compare the Speed of Our Punches! | 327441 | [327441-lets-compare-the-speed-of-our-punches.json](./327441-lets-compare-the-speed-of-our-punches.json) |
 | Let's Cook | 98445 | [98445-lets-cook.json](./98445-lets-cook.json) |
 | Let's Cook Together | 133455 | [133455-lets-cook-together.json](./133455-lets-cook-together.json) |
 | Let's Cook Together 2 | 203251 | [203251-lets-cook-together-2.json](./203251-lets-cook-together-2.json) |
@@ -2078,6 +2081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liar's Dice | 345540 | [345540-liars-dice.json](./345540-liars-dice.json) |
 | Liar’s Line | 382762 | [382762-liar-s-line.json](./382762-liar-s-line.json) |
 | Liar's Lounge | 325003 | [325003-liars-lounge.json](./325003-liars-lounge.json) |
+| Liar's Pub | 327440 | [327440-liars-pub.json](./327440-liars-pub.json) |
 | Libble Rabble | 37945 | [37945-libble-rabble.json](./37945-libble-rabble.json) |
 | Libe | 332854 | [332854-libe.json](./332854-libe.json) |
 | Liber | 163198 | [163198-liber.json](./163198-liber.json) |
@@ -2842,6 +2846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Cities: Sandbox Update | 251574 | [251574-little-cities-sandbox-update.json](./251574-little-cities-sandbox-update.json) |
 | Little Cities: Snowy Islands DLC | 251572 | [251572-little-cities-snowy-islands-dlc.json](./251572-little-cities-snowy-islands-dlc.json) |
 | Little City | 9544 | [9544-little-city.json](./9544-little-city.json) |
+| Little Corner Tea House | 327278 | [327278-little-corner-tea-house.json](./327278-little-corner-tea-house.json) |
 | Little Corners | 353890 | [353890-little-corners.json](./353890-little-corners.json) |
 | Little Critters 2 | 305179 | [305179-little-critters-2.json](./305179-little-critters-2.json) |
 | Little Crossroads | 374710 | [374710-little-crossroads.json](./374710-little-crossroads.json) |
@@ -3573,6 +3578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Look and Find: Curiosity | 170297 | [170297-look-and-find-curiosity.json](./170297-look-and-find-curiosity.json) |
 | Look and Find: Elmo on Sesame Street | 88402 | [88402-look-and-find-elmo-on-sesame-street.json](./88402-look-and-find-elmo-on-sesame-street.json) |
 | Look At Me | 285564 | [285564-look-at-me.json](./285564-look-at-me.json) |
+| Look At Me | 327452 | [327452-look-at-me.json](./327452-look-at-me.json) |
 | Look Closer! | 300405 | [300405-look-closer.json](./300405-look-closer.json) |
 | Look Find Find | 219671 | [219671-look-find-find.json](./219671-look-find-find.json) |
 | Look for Danger | 226138 | [226138-look-for-danger.json](./226138-look-for-danger.json) |
