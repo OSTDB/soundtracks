@@ -2921,6 +2921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retr0Mine | 386704 | [386704-retr0mine.json](./386704-retr0mine.json) |
 | Retrace | 116873 | [116873-retrace.json](./116873-retrace.json) |
 | ReTrace | 401045 | [401045-retrace.json](./401045-retrace.json) |
+| Retribution | 324966 | [324966-retribution.json](./324966-retribution.json) |
 | Retribution: Universal Requiem | 164875 | [164875-retribution-universal-requiem.json](./164875-retribution-universal-requiem.json) |
 | Retrieval | 405598 | [405598-retrieval.json](./405598-retrieval.json) |
 | Retrieving the Past: Steam Edition | 195241 | [195241-retrieving-the-past-steam-edition.json](./195241-retrieving-the-past-steam-edition.json) |
