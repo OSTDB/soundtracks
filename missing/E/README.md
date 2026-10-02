@@ -864,6 +864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Conquista | 362410 | [362410-el-conquista.json](./362410-el-conquista.json) |
 | El Dorado | 312880 | [312880-el-dorado.json](./312880-el-dorado.json) |
 | El gaucho Martín Fierro | 340035 | [340035-el-gaucho-martin-fierro.json](./340035-el-gaucho-martin-fierro.json) |
+| El Hero | 333227 | [333227-el-hero.json](./333227-el-hero.json) |
 | El Hijo: A Wild West Tale | 25227 | [25227-el-hijo-a-wild-west-tale.json](./25227-el-hijo-a-wild-west-tale.json) |
 | El Hincha Rusia 2018 | 104053 | [104053-el-hincha-rusia-2018.json](./104053-el-hincha-rusia-2018.json) |
 | El Internado Laguna Negra | 144305 | [144305-el-internado-laguna-negra.json](./144305-el-internado-laguna-negra.json) |
@@ -1808,6 +1809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endrays | 266860 | [266860-endrays.json](./266860-endrays.json) |
 | Endro | 164971 | [164971-endro.json](./164971-endro.json) |
 | Endrr | 200690 | [200690-endrr.json](./200690-endrr.json) |
+| EndSeeker | 333143 | [333143-endseeker.json](./333143-endseeker.json) |
 | Endura | 301272 | [301272-endura.json](./301272-endura.json) |
 | Endurance | 13642 | [13642-endurance.json](./13642-endurance.json) |
 | Endurance | 204680 | [204680-endurance.json](./204680-endurance.json) |
@@ -2768,6 +2770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Essomenic | 388369 | [388369-essomenic.json](./388369-essomenic.json) |
 | Estadi.ooo | 194414 | [194414-estadi-ooo.json](./194414-estadi-ooo.json) |
 | Estancia Protocol Zero | 405609 | [405609-estancia-protocol-zero.json](./405609-estancia-protocol-zero.json) |
+| Esteem | 333142 | [333142-esteem.json](./333142-esteem.json) |
 | Estelaroid: Escape Room | 258417 | [258417-estelaroid-escape-room.json](./258417-estelaroid-escape-room.json) |
 | Estellina | 286080 | [286080-estellina.json](./286080-estellina.json) |
 | Esten | 186291 | [186291-esten.json](./186291-esten.json) |
