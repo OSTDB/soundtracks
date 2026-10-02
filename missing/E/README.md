@@ -689,6 +689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Efpiyes | 234045 | [234045-efpiyes.json](./234045-efpiyes.json) |
 | EGA Coloring Book | 330270 | [330270-ega-coloring-book.json](./330270-ega-coloring-book.json) |
 | EGA-Roids | 130850 | [130850-ega-roids.json](./130850-ega-roids.json) |
+| Egg | 285669 | [285669-egg.json](./285669-egg.json) |
 | Egg | 305447 | [305447-egg.json](./305447-egg.json) |
 | Egg Bunny 2 | 199387 | [199387-egg-bunny-2.json](./199387-egg-bunny-2.json) |
 | Egg Collector | 246497 | [246497-egg-collector.json](./246497-egg-collector.json) |
@@ -1366,6 +1367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elysium Infinity | 237668 | [237668-elysium-infinity.json](./237668-elysium-infinity.json) |
 | Elysium Lost | 219823 | [219823-elysium-lost.json](./219823-elysium-lost.json) |
 | Elysium Online | 138714 | [138714-elysium-online.json](./138714-elysium-online.json) |
+| Elysium Skies | 285711 | [285711-elysium-skies.json](./285711-elysium-skies.json) |
 | Elysium's Curse | 257352 | [257352-elysiums-curse.json](./257352-elysiums-curse.json) |
 | Em-A-Li | 127793 | [127793-em-a-li.json](./127793-em-a-li.json) |
 | EM: Shader Attack | 31354 | [31354-em-shader-attack.json](./31354-em-shader-attack.json) |
@@ -2852,6 +2854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Esports Heroes | 259639 | [259639-esports-heroes.json](./259639-esports-heroes.json) |
 | Esports Life Tycoon | 118522 | [118522-esports-life-tycoon.json](./118522-esports-life-tycoon.json) |
 | eSports Manager | 171381 | [171381-esports-manager.json](./171381-esports-manager.json) |
+| Esports Manager 2026 | 285684 | [285684-esports-manager-2026.json](./285684-esports-manager-2026.json) |
 | Esports Saga | 95836 | [95836-esports-saga.json](./95836-esports-saga.json) |
 | ESports Simulator | 309522 | [309522-esports-simulator.json](./309522-esports-simulator.json) |
 | Esports Team Manager | 356710 | [356710-esports-team-manager.json](./356710-esports-team-manager.json) |
@@ -3280,6 +3283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evergreen | 59933 | [59933-evergreen.json](./59933-evergreen.json) |
 | Evergreen Avenue | 63578 | [63578-evergreen-avenue.json](./63578-evergreen-avenue.json) |
 | Evergreen Meadow | 390495 | [390495-evergreen-meadow.json](./390495-evergreen-meadow.json) |
+| Evergreen South | 285691 | [285691-evergreen-south.json](./285691-evergreen-south.json) |
 | Evergreen: Cacti Expansion | 298326 | [298326-evergreen-cacti-expansion.json](./298326-evergreen-cacti-expansion.json) |
 | Evergreen: Mountain Life Simulator | 217252 | [217252-evergreen-mountain-life-simulator.json](./217252-evergreen-mountain-life-simulator.json) |
 | Evergreen: Pines Expansion | 298325 | [298325-evergreen-pines-expansion.json](./298325-evergreen-pines-expansion.json) |
@@ -3681,6 +3685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit 3: Painter | 75497 | [75497-exit-3-painter.json](./75497-exit-3-painter.json) |
 | Exit Control | 368486 | [368486-exit-control.json](./368486-exit-control.json) |
 | Exit From | 119692 | [119692-exit-from.json](./119692-exit-from.json) |
+| Exit Kun | 285666 | [285666-exit-kun.json](./285666-exit-kun.json) |
 | Exit Lab 15 Rooms | 390525 | [390525-exit-lab-15-rooms.json](./390525-exit-lab-15-rooms.json) |
 | Exit Lab Beginner Level | 390494 | [390494-exit-lab-beginner-level.json](./390494-exit-lab-beginner-level.json) |
 | Exit Lab Expert Level | 390493 | [390493-exit-lab-expert-level.json](./390493-exit-lab-expert-level.json) |
@@ -3788,6 +3793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exotic | 186847 | [186847-exotic.json](./186847-exotic.json) |
 | Exotic Kosmos | 258971 | [258971-exotic-kosmos.json](./258971-exotic-kosmos.json) |
 | Exotic Matter | 75107 | [75107-exotic-matter.json](./75107-exotic-matter.json) |
+| Exotica 2: Pet Shop Simulator | 285680 | [285680-exotica-2-pet-shop-simulator.json](./285680-exotica-2-pet-shop-simulator.json) |
 | Exotica: Petshop Simulator | 215795 | [215795-exotica-petshop-simulator.json](./215795-exotica-petshop-simulator.json) |
 | ExoTrain | 391157 | [391157-exotrain.json](./391157-exotrain.json) |
 | Exovia | 342824 | [342824-exovia.json](./342824-exovia.json) |
