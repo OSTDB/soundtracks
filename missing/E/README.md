@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Sports FC 27: Ultimate Edition | 410902 | [410902-ea-sports-fc-27-ultimate-edition.json](./410902-ea-sports-fc-27-ultimate-edition.json) |
 | EA Sports FC 27: Ultimate Plus Edition | 411107 | [411107-ea-sports-fc-27-ultimate-plus-edition.json](./411107-ea-sports-fc-27-ultimate-plus-edition.json) |
 | EA Sports FC Online | 93902 | [93902-ea-sports-fc-online.json](./93902-ea-sports-fc-online.json) |
+| EA Sports FC Tactical | 302626 | [302626-ea-sports-fc-tactical.json](./302626-ea-sports-fc-tactical.json) |
 | EA Sports MMA | 6984 | [6984-ea-sports-mma.json](./6984-ea-sports-mma.json) |
 | EA Sports NASCAR Racing | 269525 | [269525-ea-sports-nascar-racing.json](./269525-ea-sports-nascar-racing.json) |
 | EA Sports PGA Tour | 145232 | [145232-ea-sports-pga-tour.json](./145232-ea-sports-pga-tour.json) |
