@@ -5160,6 +5160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Sky 2 | 146801 | [146801-rolling-sky-2.json](./146801-rolling-sky-2.json) |
 | Rolling Sky New | 227502 | [227502-rolling-sky-new.json](./227502-rolling-sky-new.json) |
 | Rolling Stairs Master-Falling | 223922 | [223922-rolling-stairs-master-falling.json](./223922-rolling-stairs-master-falling.json) |
+| Rolling Star | 329235 | [329235-rolling-star.json](./329235-rolling-star.json) |
 | Rolling Star: Tomomi Another Story | 396379 | [396379-rolling-star-tomomi-another-story.json](./396379-rolling-star-tomomi-another-story.json) |
 | Rolling Sun | 26719 | [26719-rolling-sun.json](./26719-rolling-sun.json) |
 | Rolling Thunder | 12846 | [12846-rolling-thunder.json](./12846-rolling-thunder.json) |
@@ -5277,6 +5278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rome Pathway to Power | 171554 | [171554-rome-pathway-to-power.json](./171554-rome-pathway-to-power.json) |
 | Rome: Caesar's Will | 73781 | [73781-rome-caesars-will.json](./73781-rome-caesars-will.json) |
 | Rome: Card Battles | 414490 | [414490-rome-card-battles.json](./414490-rome-card-battles.json) |
+| Rome: Nightmares of Empire | 329206 | [329206-rome-nightmares-of-empire.json](./329206-rome-nightmares-of-empire.json) |
 | Rome: The Mystery of the Chronovisor | 244702 | [244702-rome-the-mystery-of-the-chronovisor.json](./244702-rome-the-mystery-of-the-chronovisor.json) |
 | Rome: Total War - Collection | 82069 | [82069-rome-total-war-collection.json](./82069-rome-total-war-collection.json) |
 | Rome: Total War - Gold Edition | 24146 | [24146-rome-total-war-gold-edition.json](./24146-rome-total-war-gold-edition.json) |
@@ -5696,6 +5698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Trouble: Hidden Adventures | 87899 | [87899-royal-trouble-hidden-adventures.json](./87899-royal-trouble-hidden-adventures.json) |
 | Royal Tumble | 80886 | [80886-royal-tumble.json](./80886-royal-tumble.json) |
 | Royal Verdict | 391160 | [391160-royal-verdict.json](./391160-royal-verdict.json) |
+| Royal Wars: Farm TD | 329229 | [329229-royal-wars-farm-td.json](./329229-royal-wars-farm-td.json) |
 | Royal Watch: The Throne's Duty | 379976 | [379976-royal-watch-the-thrones-duty.json](./379976-royal-watch-the-thrones-duty.json) |
 | Royale Island Showdown | 167590 | [167590-royale-island-showdown.json](./167590-royale-island-showdown.json) |
 | Royale King | 270928 | [270928-royale-king.json](./270928-royale-king.json) |
