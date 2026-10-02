@@ -821,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Mario: Great Star Offensive | 338742 | [338742-paper-mario-great-star-offensive.json](./338742-paper-mario-great-star-offensive.json) |
 | Paper Mario: Master Quest | 187873 | [187873-paper-mario-master-quest.json](./187873-paper-mario-master-quest.json) |
 | Paper Mario: Mystical Mission | 357432 | [357432-paper-mario-mystical-mission.json](./357432-paper-mario-mystical-mission.json) |
+| Paper Mario: Showtime!! | 318522 | [318522-paper-mario-showtime.json](./318522-paper-mario-showtime.json) |
 | Paper Mario: Star Nova | 358284 | [358284-paper-mario-star-nova.json](./358284-paper-mario-star-nova.json) |
 | Paper Mario: Sticker Star | 3350 | [3350-paper-mario-sticker-star.json](./3350-paper-mario-sticker-star.json) |
 | Paper Mario: The Thousand-Year Door | 266690 | [266690-paper-mario-the-thousand-year-door.json](./266690-paper-mario-the-thousand-year-door.json) |
@@ -9000,6 +9001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyrosynchist | 370690 | [370690-pyrosynchist.json](./370690-pyrosynchist.json) |
 | Pyrrhic Paradise: Dissemble | 303085 | [303085-pyrrhic-paradise-dissemble.json](./303085-pyrrhic-paradise-dissemble.json) |
 | Pyrrhic Tales: Prelude to Darkness | 70347 | [70347-pyrrhic-tales-prelude-to-darkness.json](./70347-pyrrhic-tales-prelude-to-darkness.json) |
+| PyRunner | 318517 | [318517-pyrunner.json](./318517-pyrunner.json) |
 | Pyrus: Alle Tiders Familiespil | 129813 | [129813-pyrus-alle-tiders-familiespil.json](./129813-pyrus-alle-tiders-familiespil.json) |
 | Pyrus: Alletiders Jul | 129780 | [129780-pyrus-alletiders-jul.json](./129780-pyrus-alletiders-jul.json) |
 | Pyschotic Adventures | 53485 | [53485-pyschotic-adventures.json](./53485-pyschotic-adventures.json) |
