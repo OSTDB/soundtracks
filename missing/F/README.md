@@ -4239,6 +4239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Cat | 282147 | [282147-flying-cat.json](./282147-flying-cat.json) |
 | Flying Corps: Gold | 209461 | [209461-flying-corps-gold.json](./209461-flying-corps-gold.json) |
 | Flying Dino Simulator 3D: Pterodactyl | 104671 | [104671-flying-dino-simulator-3d-pterodactyl.json](./104671-flying-dino-simulator-3d-pterodactyl.json) |
+| Flying Disk | 281687 | [281687-flying-disk.json](./281687-flying-disk.json) |
 | Flying Feathers | 13847 | [13847-flying-feathers.json](./13847-flying-feathers.json) |
 | Flying Fish Quest | 192313 | [192313-flying-fish-quest.json](./192313-flying-fish-quest.json) |
 | Flying Frags World Tour | 156070 | [156070-flying-frags-world-tour.json](./156070-flying-frags-world-tour.json) |
@@ -5567,6 +5568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frantic Birdies | 357849 | [357849-frantic-birdies.json](./357849-frantic-birdies.json) |
 | Frantic Dimension | 113514 | [113514-frantic-dimension.json](./113514-frantic-dimension.json) |
 | Frantic Flea | 42620 | [42620-frantic-flea.json](./42620-frantic-flea.json) |
+| Frantic Fred | 281669 | [281669-frantic-fred.json](./281669-frantic-fred.json) |
 | Frantic Freddie | 55018 | [55018-frantic-freddie.json](./55018-frantic-freddie.json) |
 | Frantic Freddy | 40894 | [40894-frantic-freddy.json](./40894-frantic-freddy.json) |
 | Frantic Freighter | 32022 | [32022-frantic-freighter.json](./32022-frantic-freighter.json) |
@@ -5933,6 +5935,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fritz & Chesster: Chess for Aliens | 356723 | [356723-fritz-and-chesster-chess-for-aliens.json](./356723-fritz-and-chesster-chess-for-aliens.json) |
 | Fritz & Chesster's Chess for Winners | 84182 | [84182-fritz-and-chessters-chess-for-winners.json](./84182-fritz-and-chessters-chess-for-winners.json) |
 | Fritz 19: Steam Edition | 280203 | [280203-fritz-19-steam-edition.json](./280203-fritz-19-steam-edition.json) |
+| Fritz 5 | 281650 | [281650-fritz-5.json](./281650-fritz-5.json) |
+| Fritz 6 | 281655 | [281655-fritz-6.json](./281655-fritz-6.json) |
 | Fritz 8 | 93016 | [93016-fritz-8.json](./93016-fritz-8.json) |
 | Fritz 9: Play Chess | 130848 | [130848-fritz-9-play-chess.json](./130848-fritz-9-play-chess.json) |
 | Fritz Chess 13 | 25054 | [25054-fritz-chess-13.json](./25054-fritz-chess-13.json) |
