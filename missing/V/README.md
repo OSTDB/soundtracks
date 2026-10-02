@@ -405,6 +405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampyre Cross | 71576 | [71576-vampyre-cross.json](./71576-vampyre-cross.json) |
 | Vampyre Crusade | 317002 | [317002-vampyre-crusade.json](./317002-vampyre-crusade.json) |
 | Van Buren | 79217 | [79217-van-buren.json](./79217-van-buren.json) |
+| Van Gogh's Masterpiece Jigsaw Puzzles | 286240 | [286240-van-goghs-masterpiece-jigsaw-puzzles.json](./286240-van-goghs-masterpiece-jigsaw-puzzles.json) |
 | Van Helsing | 6226 | [6226-van-helsing.json](./6226-van-helsing.json) |
 | Van Helsing sniper Zx100 | 85470 | [85470-van-helsing-sniper-zx100.json](./85470-van-helsing-sniper-zx100.json) |
 | Van Life: Home Simulator | 370793 | [370793-van-life-home-simulator.json](./370793-van-life-home-simulator.json) |
@@ -1077,6 +1078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Farm | 396909 | [396909-viking-farm.json](./396909-viking-farm.json) |
 | Viking Fish | 318620 | [318620-viking-fish.json](./318620-viking-fish.json) |
 | Viking Frontiers | 286113 | [286113-viking-frontiers.json](./286113-viking-frontiers.json) |
+| Viking Heroes 5 | 286232 | [286232-viking-heroes-5.json](./286232-viking-heroes-5.json) |
 | Viking Heroes V: Collector's Edition | 308487 | [308487-viking-heroes-v-collectors-edition.json](./308487-viking-heroes-v-collectors-edition.json) |
 | Viking Idle | 172167 | [172167-viking-idle.json](./172167-viking-idle.json) |
 | Viking Invasion | 230864 | [230864-viking-invasion.json](./230864-viking-invasion.json) |
