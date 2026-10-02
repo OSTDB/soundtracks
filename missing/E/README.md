@@ -1426,6 +1426,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency 5 | 57334 | [57334-emergency-5.json](./57334-emergency-5.json) |
 | Emergency Ambulance Simulator 2013 | 137549 | [137549-emergency-ambulance-simulator-2013.json](./137549-emergency-ambulance-simulator-2013.json) |
 | Emergency Call 112: The Fire Fighting Simulation 2 | 144936 | [144936-emergency-call-112-the-fire-fighting-simulation-2.json](./144936-emergency-call-112-the-fire-fighting-simulation-2.json) |
+| Emergency Call 112: The Fire Fighting Simulation 2 - The Swap Body Vehicle | 315608 | [315608-emergency-call-112-the-fire-fighting-simulation-2-the-swap-body-vehicle.json](./315608-emergency-call-112-the-fire-fighting-simulation-2-the-swap-body-vehicle.json) |
+| Emergency Call 112: The Fire Fighting Simulation 2 - Volunteer Firefighters | 315605 | [315605-emergency-call-112-the-fire-fighting-simulation-2-volunteer-firefighters.json](./315605-emergency-call-112-the-fire-fighting-simulation-2-volunteer-firefighters.json) |
 | Emergency Call: The Attack Squad | 278494 | [278494-emergency-call-the-attack-squad.json](./278494-emergency-call-the-attack-squad.json) |
 | Emergency Call: The Firefighting Simulation 3 | 361828 | [361828-emergency-call-the-firefighting-simulation-3.json](./361828-emergency-call-the-firefighting-simulation-3.json) |
 | Emergency Crew 4: Call of the Ancestors | 360663 | [360663-emergency-crew-4-call-of-the-ancestors.json](./360663-emergency-crew-4-call-of-the-ancestors.json) |
