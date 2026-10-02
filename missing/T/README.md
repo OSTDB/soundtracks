@@ -362,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tails of Iron II: Whiskers of Winter - Hair to the Throne Pack | 371223 | [371223-tails-of-iron-ii-whiskers-of-winter-hair-to-the-throne-pack.json](./371223-tails-of-iron-ii-whiskers-of-winter-hair-to-the-throne-pack.json) |
 | Tails of the North | 367480 | [367480-tails-of-the-north.json](./367480-tails-of-the-north.json) |
 | Tails of Trainspot | 149947 | [149947-tails-of-trainspot.json](./149947-tails-of-trainspot.json) |
+| Tails of War | 279261 | [279261-tails-of-war.json](./279261-tails-of-war.json) |
 | Tails to the Rescue | 330308 | [330308-tails-to-the-rescue.json](./330308-tails-to-the-rescue.json) |
 | Tails: The Game | 330706 | [330706-tails-the-game.json](./330706-tails-the-game.json) |
 | Tails' Adventures 2 | 336355 | [336355-tails-adventures-2.json](./336355-tails-adventures-2.json) |
@@ -4665,6 +4666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Famous Five: Kidnapped | 13772 | [13772-the-famous-five-kidnapped.json](./13772-the-famous-five-kidnapped.json) |
 | The Famous Five: Silver Tower | 13771 | [13771-the-famous-five-silver-tower.json](./13771-the-famous-five-silver-tower.json) |
 | The Famous Five: Treasure Island | 13770 | [13770-the-famous-five-treasure-island.json](./13770-the-famous-five-treasure-island.json) |
+| The Fan Game: Back to the Future - Part III: Timeline of Monkey Island | 279213 | [279213-the-fan-game-back-to-the-future-part-iii-timeline-of-monkey-island.json](./279213-the-fan-game-back-to-the-future-part-iii-timeline-of-monkey-island.json) |
 | The Fancy Pants Adventure: World 3 | 65260 | [65260-the-fancy-pants-adventure-world-3.json](./65260-the-fancy-pants-adventure-world-3.json) |
 | The Fancy Pants Adventures Prequel | 143469 | [143469-the-fancy-pants-adventures-prequel.json](./143469-the-fancy-pants-adventures-prequel.json) |
 | The Fancy Pants Adventures: World 1 Remaster | 144384 | [144384-the-fancy-pants-adventures-world-1-remaster.json](./144384-the-fancy-pants-adventures-world-1-remaster.json) |
@@ -5590,6 +5592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Inkspire | 416676 | [416676-the-inkspire.json](./416676-the-inkspire.json) |
 | The Inlaws | 25004 | [25004-the-inlaws.json](./25004-the-inlaws.json) |
 | The Inn | 133384 | [133384-the-inn.json](./133384-the-inn.json) |
+| The Inn-Sanity | 279266 | [279266-the-inn-sanity.json](./279266-the-inn-sanity.json) |
 | The Inner Darkness | 27919 | [27919-the-inner-darkness.json](./27919-the-inner-darkness.json) |
 | The Inner Sea | 33517 | [33517-the-inner-sea.json](./33517-the-inner-sea.json) |
 | The Inner World: The Puzzle | 10971 | [10971-the-inner-world-the-puzzle.json](./10971-the-inner-world-the-puzzle.json) |
@@ -15927,6 +15930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsuru Teruhito no Jissen Kabushiki Bi-Game | 59431 | [59431-tsuru-teruhito-no-jissen-kabushiki-bi-game.json](./59431-tsuru-teruhito-no-jissen-kabushiki-bi-game.json) |
 | Tsurugihime | 228340 | [228340-tsurugihime.json](./228340-tsurugihime.json) |
 | Tsurupika Hagemaru: Mezase! Tsuruseko no Akashi | 48874 | [48874-tsurupika-hagemaru-mezase-tsuruseko-no-akashi.json](./48874-tsurupika-hagemaru-mezase-tsuruseko-no-akashi.json) |
+| Tsutawaru! Manaberu! Nyanko Manga de Eikaiwa | 279199 | [279199-tsutawaru-manaberu-nyanko-manga-de-eikaiwa.json](./279199-tsutawaru-manaberu-nyanko-manga-de-eikaiwa.json) |
 | Tsuukai Gyaguabanchuuru: Naruto Maki Hichou | 67264 | [67264-tsuukai-gyaguabanchuuru-naruto-maki-hichou.json](./67264-tsuukai-gyaguabanchuuru-naruto-maki-hichou.json) |
 | Tsuushin Taikyoku: Hayazashi Shogi Sandan | 344460 | [344460-tsuushin-taikyoku-hayazashi-shogi-sandan.json](./344460-tsuushin-taikyoku-hayazashi-shogi-sandan.json) |
 | Tsuushin Taikyoku: Igo Dojo 2700-mon | 344461 | [344461-tsuushin-taikyoku-igo-dojo-2700-mon.json](./344461-tsuushin-taikyoku-igo-dojo-2700-mon.json) |
@@ -16539,6 +16543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyd wag vir Niemand | 52012 | [52012-tyd-wag-vir-niemand.json](./52012-tyd-wag-vir-niemand.json) |
 | Tyfortress: Tactical Typing | 161154 | [161154-tyfortress-tactical-typing.json](./161154-tyfortress-tactical-typing.json) |
 | Tyga | 303079 | [303079-tyga.json](./303079-tyga.json) |
+| Tyko's Dying Together | 279245 | [279245-tykos-dying-together.json](./279245-tykos-dying-together.json) |
 | Tyler | 34770 | [34770-tyler.json](./34770-tyler.json) |
 | Tyler Tactics | 236953 | [236953-tyler-tactics.json](./236953-tyler-tactics.json) |
 | Tyler's White Lie | 339465 | [339465-tylers-white-lie.json](./339465-tylers-white-lie.json) |
