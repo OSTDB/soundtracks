@@ -1568,6 +1568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Captains | 410395 | [410395-void-captains.json](./410395-void-captains.json) |
 | Void Carrier | 304698 | [304698-void-carrier.json](./304698-void-carrier.json) |
 | Void Climber | 316062 | [316062-void-climber.json](./316062-void-climber.json) |
+| Void Collector | 333773 | [333773-void-collector.json](./333773-void-collector.json) |
 | Void Crawlers | 404966 | [404966-void-crawlers.json](./404966-void-crawlers.json) |
 | Void Dementia | 182492 | [182492-void-dementia.json](./182492-void-dementia.json) |
 | Void Destroyer 2: Ashes | 168377 | [168377-void-destroyer-2-ashes.json](./168377-void-destroyer-2-ashes.json) |
