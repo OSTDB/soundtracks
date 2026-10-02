@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dagger Woods VR | 333016 | [333016-dagger-woods-vr.json](./333016-dagger-woods-vr.json) |
 | Daggerfall Unity | 127936 | [127936-daggerfall-unity.json](./127936-daggerfall-unity.json) |
 | Daggerhood | 115426 | [115426-daggerhood.json](./115426-daggerhood.json) |
+| Daggers Cavern | 308469 | [308469-daggers-cavern.json](./308469-daggers-cavern.json) |
 | Dagon: The Railway Horror | 266823 | [266823-dagon-the-railway-horror.json](./266823-dagon-the-railway-horror.json) |
 | Dah-Varsity | 304205 | [304205-dah-varsity.json](./304205-dah-varsity.json) |
 | Dahalo | 127252 | [127252-dahalo.json](./127252-dahalo.json) |
@@ -6287,6 +6288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom: Unto the Evil | 22431 | [22431-doom-unto-the-evil.json](./22431-doom-unto-the-evil.json) |
 | Doom3D | 196011 | [196011-doom3d.json](./196011-doom3d.json) |
 | Doomblade | 114004 | [114004-doomblade.json](./114004-doomblade.json) |
+| Doombox | 308476 | [308476-doombox.json](./308476-doombox.json) |
 | DoomBreaker | 149474 | [149474-doombreaker.json](./149474-doombreaker.json) |
 | DoomBus | 383650 | [383650-doombus.json](./383650-doombus.json) |
 | Doomclock | 346677 | [346677-doomclock.json](./346677-doomclock.json) |
@@ -8485,13 +8487,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dukai | 271984 | [271984-dukai.json](./271984-dukai.json) |
 | Duke | 252099 | [252099-duke.json](./252099-duke.json) |
 | Duke 12:12 | 308332 | [308332-duke-12-12.json](./308332-duke-12-12.json) |
+| Duke 2070 | 308459 | [308459-duke-2070.json](./308459-duke-2070.json) |
 | Duke 3:16 | 308330 | [308330-duke-3-16.json](./308330-duke-3-16.json) |
 | Duke 6:8 | 308331 | [308331-duke-6-8.json](./308331-duke-6-8.json) |
+| Duke Craft | 308455 | [308455-duke-craft.json](./308455-duke-craft.json) |
 | Duke Dashington Remastered | 96565 | [96565-duke-dashington-remastered.json](./96565-duke-dashington-remastered.json) |
 | Duke Forces | 291977 | [291977-duke-forces.json](./291977-duke-forces.json) |
 | Duke Grabowski: Mighty Swashbuckler | 23982 | [23982-duke-grabowski-mighty-swashbuckler.json](./23982-duke-grabowski-mighty-swashbuckler.json) |
 | Duke Hard | 218118 | [218118-duke-hard.json](./218118-duke-hard.json) |
 | Duke It's Zero Hour | 270656 | [270656-duke-its-zero-hour.json](./270656-duke-its-zero-hour.json) |
+| Duke Mansion | 308472 | [308472-duke-mansion.json](./308472-duke-mansion.json) |
 | Duke Nukem 1+2 | 137548 | [137548-duke-nukem-1-2.json](./137548-duke-nukem-1-2.json) |
 | Duke Nukem 3D | 262683 | [262683-duke-nukem-3d.json](./262683-duke-nukem-3d.json) |
 | Duke Nukem 3D: High Resolution Pack | 371392 | [371392-duke-nukem-3d-high-resolution-pack.json](./371392-duke-nukem-3d-high-resolution-pack.json) |
@@ -8515,6 +8520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke!Zone II | 270750 | [270750-duke-zone-ii.json](./270750-duke-zone-ii.json) |
 | Dukedom | 228534 | [228534-dukedom.json](./228534-dukedom.json) |
 | Dukem Memorial Hospital | 270706 | [270706-dukem-memorial-hospital.json](./270706-dukem-memorial-hospital.json) |
+| Duketroid | 308457 | [308457-duketroid.json](./308457-duketroid.json) |
 | Dukkido | 330897 | [330897-dukkido.json](./330897-dukkido.json) |
 | Dulce et Decorum | 195202 | [195202-dulce-et-decorum.json](./195202-dulce-et-decorum.json) |
 | Duline | 199489 | [199489-duline.json](./199489-duline.json) |
