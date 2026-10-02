@@ -384,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampires and Knights: Eclipse Survival & Magic Craft | 335073 | [335073-vampires-and-knights-eclipse-survival-and-magic-craft.json](./335073-vampires-and-knights-eclipse-survival-and-magic-craft.json) |
 | Vampires and Werewolves | 226739 | [226739-vampires-and-werewolves.json](./226739-vampires-and-werewolves.json) |
 | Vampires Dawn 2: Ancient Blood | 80474 | [80474-vampires-dawn-2-ancient-blood.json](./80474-vampires-dawn-2-ancient-blood.json) |
+| Vampires Fable | 316731 | [316731-vampires-fable.json](./316731-vampires-fable.json) |
 | Vampires vs. Zombies | 53933 | [53933-vampires-vs-zombies.json](./53933-vampires-vs-zombies.json) |
 | Vampires: Bloodlust | 68009 | [68009-vampires-bloodlust.json](./68009-vampires-bloodlust.json) |
 | Vampires' Melody | 169435 | [169435-vampires-melody.json](./169435-vampires-melody.json) |
