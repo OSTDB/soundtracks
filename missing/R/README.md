@@ -1731,6 +1731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recalcitrant | 326273 | [326273-recalcitrant.json](./326273-recalcitrant.json) |
 | Recalhorn | 257330 | [257330-recalhorn.json](./257330-recalhorn.json) |
 | Recall | 154397 | [154397-recall.json](./154397-recall.json) |
+| Recall | 309570 | [309570-recall.json](./309570-recall.json) |
 | Recapture the Castle | 173062 | [173062-recapture-the-castle.json](./173062-recapture-the-castle.json) |
 | ReCast FF3: War of the Magitek | 339255 | [339255-recast-ff3-war-of-the-magitek.json](./339255-recast-ff3-war-of-the-magitek.json) |
 | Receiver 2 & Receiver | 394471 | [394471-receiver-2-and-receiver.json](./394471-receiver-2-and-receiver.json) |
