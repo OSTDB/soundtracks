@@ -1441,6 +1441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Past Apparitions | 383499 | [383499-past-apparitions.json](./383499-past-apparitions.json) |
 | Past Due | 96232 | [96232-past-due.json](./96232-past-due.json) |
 | Past Fate | 123029 | [123029-past-fate.json](./123029-past-fate.json) |
+| Past Hope | 326672 | [326672-past-hope.json](./326672-past-hope.json) |
 | Past Memories | 266830 | [266830-past-memories.json](./266830-past-memories.json) |
 | Past Mistakes: Act I | 347296 | [347296-past-mistakes-act-i.json](./347296-past-mistakes-act-i.json) |
 | Past Synergy | 195079 | [195079-past-synergy.json](./195079-past-synergy.json) |
@@ -4555,6 +4556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planisphere | 308430 | [308430-planisphere.json](./308430-planisphere.json) |
 | Planitis | 212290 | [212290-planitis.json](./212290-planitis.json) |
 | Plank! | 105913 | [105913-plank.json](./105913-plank.json) |
+| Plankton Gang: Sponge Neighbor | 326701 | [326701-plankton-gang-sponge-neighbor.json](./326701-plankton-gang-sponge-neighbor.json) |
 | planktOs | 36200 | [36200-planktos.json](./36200-planktos.json) |
 | Plannes | 26168 | [26168-plannes.json](./26168-plannes.json) |
 | Plans for NY? | 75815 | [75815-plans-for-ny.json](./75815-plans-for-ny.json) |
@@ -5644,6 +5646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polar Pathways | 295386 | [295386-polar-pathways.json](./295386-polar-pathways.json) |
 | Polar Payne | 216341 | [216341-polar-payne.json](./216341-polar-payne.json) |
 | Polar Penguin | 239731 | [239731-polar-penguin.json](./239731-polar-penguin.json) |
+| Polar Roller | 326682 | [326682-polar-roller.json](./326682-polar-roller.json) |
 | Polar Rollout | 96256 | [96256-polar-rollout.json](./96256-polar-rollout.json) |
 | Polaria | 374601 | [374601-polaria.json](./374601-polaria.json) |
 | Polariball | 356205 | [356205-polariball.json](./356205-polariball.json) |
@@ -6600,6 +6603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PQ: Practical Intelligence Quotient | 46019 | [46019-pq-practical-intelligence-quotient.json](./46019-pq-practical-intelligence-quotient.json) |
 | PQ: The Party Quiz Game | 94250 | [94250-pq-the-party-quiz-game.json](./94250-pq-the-party-quiz-game.json) |
 | PQ2: Practical Intelligence Quotient 2 | 44506 | [44506-pq2-practical-intelligence-quotient-2.json](./44506-pq2-practical-intelligence-quotient-2.json) |
+| PR: Rivenverse | 326841 | [326841-pr-rivenverse.json](./326841-pr-rivenverse.json) |
 | Practical Pinball | 367477 | [367477-practical-pinball.json](./367477-practical-pinball.json) |
 | Practical Shooting Simulator | 151105 | [151105-practical-shooting-simulator.json](./151105-practical-shooting-simulator.json) |
 | Prado Car Stunts Arena | 27993 | [27993-prado-car-stunts-arena.json](./27993-prado-car-stunts-arena.json) |
