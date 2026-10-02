@@ -996,6 +996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Game | 82005 | [82005-tank-game.json](./82005-tank-game.json) |
 | Tank Hero: Awesome Tank War g | 231885 | [231885-tank-hero-awesome-tank-war-g.json](./231885-tank-hero-awesome-tank-war-g.json) |
 | Tank Hero: Laser Wars | 101491 | [101491-tank-hero-laser-wars.json](./101491-tank-hero-laser-wars.json) |
+| Tank Hunter | 311167 | [311167-tank-hunter.json](./311167-tank-hunter.json) |
 | Tank It | 233483 | [233483-tank-it.json](./233483-tank-it.json) |
 | Tank it! | 30834 | [30834-tank-it.json](./30834-tank-it.json) |
 | Tank Kingdoms | 238525 | [238525-tank-kingdoms.json](./238525-tank-kingdoms.json) |
@@ -4665,6 +4666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fifth Rite | 250951 | [250951-the-fifth-rite.json](./250951-the-fifth-rite.json) |
 | The Fight for Glorton | 196797 | [196797-the-fight-for-glorton.json](./196797-the-fight-for-glorton.json) |
 | The Fight of the Sumo-Hoppers | 314465 | [314465-the-fight-of-the-sumo-hoppers.json](./314465-the-fight-of-the-sumo-hoppers.json) |
+| The Fight: Aftermath | 311173 | [311173-the-fight-aftermath.json](./311173-the-fight-aftermath.json) |
 | The Final Ascent | 408826 | [408826-the-final-ascent.json](./408826-the-final-ascent.json) |
 | The Final Bastion | 238507 | [238507-the-final-bastion.json](./238507-the-final-bastion.json) |
 | The Final Battle | 69254 | [69254-the-final-battle.json](./69254-the-final-battle.json) |
@@ -7476,6 +7478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Prophecy of Horn | 349999 | [349999-the-prophecy-of-horn.json](./349999-the-prophecy-of-horn.json) |
 | The Prophecy of Statues | 109754 | [109754-the-prophecy-of-statues.json](./109754-the-prophecy-of-statues.json) |
 | The Proposal | 310587 | [310587-the-proposal.json](./310587-the-proposal.json) |
+| The Protagonish | 311168 | [311168-the-protagonish.json](./311168-the-protagonish.json) |
 | The Protean Forest | 267426 | [267426-the-protean-forest.json](./267426-the-protean-forest.json) |
 | The Protectorate | 284914 | [284914-the-protectorate.json](./284914-the-protectorate.json) |
 | The Protocol Directive | 323948 | [323948-the-protocol-directive.json](./323948-the-protocol-directive.json) |
@@ -8385,6 +8388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Solitaire Conspiracy: Return of the Merry | 243808 | [243808-the-solitaire-conspiracy-return-of-the-merry.json](./243808-the-solitaire-conspiracy-return-of-the-merry.json) |
 | The Solitaire Conspiracy: The Atlantis Project | 243807 | [243807-the-solitaire-conspiracy-the-atlantis-project.json](./243807-the-solitaire-conspiracy-the-atlantis-project.json) |
 | The Solitary Existence of a Little Universe | 370226 | [370226-the-solitary-existence-of-a-little-universe.json](./370226-the-solitary-existence-of-a-little-universe.json) |
+| The Song of Awakening | 311178 | [311178-the-song-of-awakening.json](./311178-the-song-of-awakening.json) |
 | The Song of Seven : Overture (Chapter One) | 26529 | [26529-the-song-of-seven-overture-chapter-one.json](./26529-the-song-of-seven-overture-chapter-one.json) |
 | The song of Star night | 150486 | [150486-the-song-of-star-night.json](./150486-the-song-of-star-night.json) |
 | The Song of Survivors | 165015 | [165015-the-song-of-survivors.json](./165015-the-song-of-survivors.json) |
