@@ -547,6 +547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rail of Möbius | 147810 | [147810-rail-of-mobius.json](./147810-rail-of-mobius.json) |
 | Rail Racing | 174215 | [174215-rail-racing.json](./174215-rail-racing.json) |
 | Rail Rider | 23601 | [23601-rail-rider.json](./23601-rail-rider.json) |
+| Rail Route: Happy Passengers | 302036 | [302036-rail-route-happy-passengers.json](./302036-rail-route-happy-passengers.json) |
 | Rail Route: Supporter Bundle | 336134 | [336134-rail-route-supporter-bundle.json](./336134-rail-route-supporter-bundle.json) |
 | Rail Route: The Story of Jozic | 199127 | [199127-rail-route-the-story-of-jozic.json](./199127-rail-route-the-story-of-jozic.json) |
 | Rail Theory | 28773 | [28773-rail-theory.json](./28773-rail-theory.json) |
@@ -4099,6 +4100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risky Sanctuary | 261772 | [261772-risky-sanctuary.json](./261772-risky-sanctuary.json) |
 | Ristorante Amore | 57173 | [57173-ristorante-amore.json](./57173-ristorante-amore.json) |
 | risTroyka | 142890 | [142890-ristroyka.json](./142890-ristroyka.json) |
+| Rita | 302037 | [302037-rita.json](./302037-rita.json) |
 | Rita Hayworth Isn't In This Game | 112269 | [112269-rita-hayworth-isnt-in-this-game.json](./112269-rita-hayworth-isnt-in-this-game.json) |
 | Rite as Rain | 249851 | [249851-rite-as-rain.json](./249851-rite-as-rain.json) |
 | Rite of Eris | 295392 | [295392-rite-of-eris.json](./295392-rite-of-eris.json) |
