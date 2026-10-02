@@ -3015,6 +3015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChatGladiators | 411104 | [411104-chatgladiators.json](./411104-chatgladiators.json) |
 | ChatTDT: Tower Defense Twitch | 306678 | [306678-chattdt-tower-defense-twitch.json](./306678-chattdt-tower-defense-twitch.json) |
 | Chatteract | 138710 | [138710-chatteract.json](./138710-chatteract.json) |
+| Chatterbox | 300341 | [300341-chatterbox.json](./300341-chatterbox.json) |
 | Chaturanga | 383617 | [383617-chaturanga.json](./383617-chaturanga.json) |
 | CHE: Guerrilla In Bolivia | 15874 | [15874-che-guerrilla-in-bolivia.json](./15874-che-guerrilla-in-bolivia.json) |
 | Cheap Game | 157516 | [157516-cheap-game.json](./157516-cheap-game.json) |
@@ -6833,6 +6834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Convergence | 380086 | [380086-convergence.json](./380086-convergence.json) |
 | Convergence: A League of Legends Story | 127354 | [127354-convergence-a-league-of-legends-story.json](./127354-convergence-a-league-of-legends-story.json) |
 | Conversation With a Rock | 297099 | [297099-conversation-with-a-rock.json](./297099-conversation-with-a-rock.json) |
+| ConversationalRumblings | 300340 | [300340-conversationalrumblings.json](./300340-conversationalrumblings.json) |
 | Convertible Wop | 104442 | [104442-convertible-wop.json](./104442-convertible-wop.json) |
 | Conveyor Belt Sushi Simulator | 334129 | [334129-conveyor-belt-sushi-simulator.json](./334129-conveyor-belt-sushi-simulator.json) |
 | Conveyor VR | 112970 | [112970-conveyor-vr.json](./112970-conveyor-vr.json) |
@@ -8180,6 +8182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Valet | 40719 | [40719-crazy-valet.json](./40719-crazy-valet.json) |
 | Crazy Wheel Rider HD | 213395 | [213395-crazy-wheel-rider-hd.json](./213395-crazy-wheel-rider-hd.json) |
 | Crazy Wheels | 103161 | [103161-crazy-wheels.json](./103161-crazy-wheels.json) |
+| Crazy Wife | 300294 | [300294-crazy-wife.json](./300294-crazy-wife.json) |
 | Crazy World of Caleb | 302946 | [302946-crazy-world-of-caleb.json](./302946-crazy-world-of-caleb.json) |
 | Crazy World of Caleb: Level 1 to 7 | 311190 | [311190-crazy-world-of-caleb-level-1-to-7.json](./311190-crazy-world-of-caleb-level-1-to-7.json) |
 | Crazy-Spy | 58772 | [58772-crazy-spy.json](./58772-crazy-spy.json) |
