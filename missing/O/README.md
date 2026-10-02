@@ -1244,6 +1244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Night: Burlesque - Complete + | 324446 | [324446-one-night-burlesque-complete.json](./324446-one-night-burlesque-complete.json) |
 | One Night: Burlesque - Extended Edition | 283167 | [283167-one-night-burlesque-extended-edition.json](./283167-one-night-burlesque-extended-edition.json) |
 | One Night: Burlesque - GOTY Edition | 308790 | [308790-one-night-burlesque-goty-edition.json](./308790-one-night-burlesque-goty-edition.json) |
+| One Night: Burlesque - Happy Edition | 309040 | [309040-one-night-burlesque-happy-edition.json](./309040-one-night-burlesque-happy-edition.json) |
 | One Night: Burlesque - Magnificent Edition | 315857 | [315857-one-night-burlesque-magnificent-edition.json](./315857-one-night-burlesque-magnificent-edition.json) |
 | One Night: Burlesque - People Pack | 324403 | [324403-one-night-burlesque-people-pack.json](./324403-one-night-burlesque-people-pack.json) |
 | One Night: Burlesque - Premium Edition | 288283 | [288283-one-night-burlesque-premium-edition.json](./288283-one-night-burlesque-premium-edition.json) |
