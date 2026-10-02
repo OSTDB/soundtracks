@@ -1661,6 +1661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Encounter Bar | 385258 | [385258-encounter-bar.json](./385258-encounter-bar.json) |
 | Encounter of Galaxies | 28931 | [28931-encounter-of-galaxies.json](./28931-encounter-of-galaxies.json) |
 | Encounter: The Lost Cards | 354540 | [354540-encounter-the-lost-cards.json](./354540-encounter-the-lost-cards.json) |
+| Encounters | 311181 | [311181-encounters.json](./311181-encounters.json) |
 | Encourage | 113142 | [113142-encourage.json](./113142-encourage.json) |
 | Encroacher: Snakes | 413004 | [413004-encroacher-snakes.json](./413004-encroacher-snakes.json) |
 | Encroaching Shadows | 401053 | [401053-encroaching-shadows.json](./401053-encroaching-shadows.json) |
@@ -1790,6 +1791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Ocean: Blue World | 4833 | [4833-endless-ocean-blue-world.json](./4833-endless-ocean-blue-world.json) |
 | Endless Ocean: Luminous | 287856 | [287856-endless-ocean-luminous.json](./287856-endless-ocean-luminous.json) |
 | Endless Online | 57183 | [57183-endless-online.json](./57183-endless-online.json) |
+| Endless Onslaught | 311179 | [311179-endless-onslaught.json](./311179-endless-onslaught.json) |
 | Endless Pursuit | 183532 | [183532-endless-pursuit.json](./183532-endless-pursuit.json) |
 | Endless Rails | 406947 | [406947-endless-rails.json](./406947-endless-rails.json) |
 | Endless Reach | 358964 | [358964-endless-reach.json](./358964-endless-reach.json) |
@@ -3531,6 +3533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ExAltered | 289412 | [289412-exaltered.json](./289412-exaltered.json) |
 | Examination Chambers | 182213 | [182213-examination-chambers.json](./182213-examination-chambers.json) |
 | Examination of Fear | 255665 | [255665-examination-of-fear.json](./255665-examination-of-fear.json) |
+| Exanimate | 311189 | [311189-exanimate.json](./311189-exanimate.json) |
 | Exanimora | 371959 | [371959-exanimora.json](./371959-exanimora.json) |
 | Exanimum: The Silent Call | 290410 | [290410-exanimum-the-silent-call.json](./290410-exanimum-the-silent-call.json) |
 | Exatron Quest 2 | 44201 | [44201-exatron-quest-2.json](./44201-exatron-quest-2.json) |
