@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Human Machine | 195222 | [195222-i-human-machine.json](./195222-i-human-machine.json) |
 | I Hurt Myself | 198455 | [198455-i-hurt-myself.json](./198455-i-hurt-myself.json) |
 | I Hurt Myself: Postjam Edition | 198456 | [198456-i-hurt-myself-postjam-edition.json](./198456-i-hurt-myself-postjam-edition.json) |
+| I Just Wanna Land! | 289036 | [289036-i-just-wanna-land.json](./289036-i-just-wanna-land.json) |
 | I Know a Guy | 389006 | [389006-i-know-a-guy.json](./389006-i-know-a-guy.json) |
 | I Know a Spot | 408984 | [408984-i-know-a-spot.json](./408984-i-know-a-spot.json) |
 | I Know This Place..? | 244472 | [244472-i-know-this-place.json](./244472-i-know-this-place.json) |
@@ -1414,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In a Barrel | 329076 | [329076-in-a-barrel.json](./329076-in-a-barrel.json) |
 | In a Bit of Tales | 344525 | [344525-in-a-bit-of-tales.json](./344525-in-a-bit-of-tales.json) |
 | In A Dark Cave | 179175 | [179175-in-a-dark-cave.json](./179175-in-a-dark-cave.json) |
+| In a Detective's Mind | 289011 | [289011-in-a-detectives-mind.json](./289011-in-a-detectives-mind.json) |
 | In a search of a new home | 133407 | [133407-in-a-search-of-a-new-home.json](./133407-in-a-search-of-a-new-home.json) |
 | In a World After People | 339956 | [339956-in-a-world-after-people.json](./339956-in-a-world-after-people.json) |
 | In Another World with My Smartphone: Fantasia Connect | 403148 | [403148-in-another-world-with-my-smartphone-fantasia-connect.json](./403148-in-another-world-with-my-smartphone-fantasia-connect.json) |
