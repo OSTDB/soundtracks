@@ -2261,6 +2261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Cognita | 29037 | [29037-terra-cognita.json](./29037-terra-cognita.json) |
 | Terra Cresta II | 37728 | [37728-terra-cresta-ii.json](./37728-terra-cresta-ii.json) |
 | Terra Engine | 362991 | [362991-terra-engine.json](./362991-terra-engine.json) |
+| Terra Exodus | 294373 | [294373-terra-exodus.json](./294373-terra-exodus.json) |
 | Terra Farmers | 54428 | [54428-terra-farmers.json](./54428-terra-farmers.json) |
 | Terra Firma | 155509 | [155509-terra-firma.json](./155509-terra-firma.json) |
 | Terra Firma 2 | 366335 | [366335-terra-firma-2.json](./366335-terra-firma-2.json) |
@@ -7288,6 +7289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outlast Trials: World of Heavyweights Pack | 366839 | [366839-the-outlast-trials-world-of-heavyweights-pack.json](./366839-the-outlast-trials-world-of-heavyweights-pack.json) |
 | The Outlaw and the Newcomer | 216998 | [216998-the-outlaw-and-the-newcomer.json](./216998-the-outlaw-and-the-newcomer.json) |
 | The Outpost | 156055 | [156055-the-outpost.json](./156055-the-outpost.json) |
+| The Outreach | 294360 | [294360-the-outreach.json](./294360-the-outreach.json) |
 | The Outskirts | 412394 | [412394-the-outskirts.json](./412394-the-outskirts.json) |
 | The Overlook Rehaunted | 276762 | [276762-the-overlook-rehaunted.json](./276762-the-overlook-rehaunted.json) |
 | The Overnight Watch | 321438 | [321438-the-overnight-watch.json](./321438-the-overnight-watch.json) |
@@ -7892,6 +7894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sacred Hero | 26872 | [26872-the-sacred-hero.json](./26872-the-sacred-hero.json) |
 | The Sacred Mirror of Kofun | 70081 | [70081-the-sacred-mirror-of-kofun.json](./70081-the-sacred-mirror-of-kofun.json) |
 | The Sacred Tears True | 9483 | [9483-the-sacred-tears-true.json](./9483-the-sacred-tears-true.json) |
+| The Sacrifice | 294370 | [294370-the-sacrifice.json](./294370-the-sacrifice.json) |
 | The Sacrifice | 89210 | [89210-the-sacrifice.json](./89210-the-sacrifice.json) |
 | The Sacrificial Girl of the Fantasy 3 Kingdoms: Shu | 130206 | [130206-the-sacrificial-girl-of-the-fantasy-3-kingdoms-shu.json](./130206-the-sacrificial-girl-of-the-fantasy-3-kingdoms-shu.json) |
 | The Saddle Club | 268211 | [268211-the-saddle-club.json](./268211-the-saddle-club.json) |
@@ -9141,6 +9144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The United Space of America | 201594 | [201594-the-united-space-of-america.json](./201594-the-united-space-of-america.json) |
 | The Universal Equalizer | 71242 | [71242-the-universal-equalizer.json](./71242-the-universal-equalizer.json) |
 | The Universal Symphony | 398460 | [398460-the-universal-symphony.json](./398460-the-universal-symphony.json) |
+| The Universe of Red Hope | 294377 | [294377-the-universe-of-red-hope.json](./294377-the-universe-of-red-hope.json) |
 | The Universe Soldiers | 48323 | [48323-the-universe-soldiers.json](./48323-the-universe-soldiers.json) |
 | The Universim | 9943 | [9943-the-universim.json](./9943-the-universim.json) |
 | The Unknown | 272893 | [272893-the-unknown.json](./272893-the-unknown.json) |
@@ -13244,6 +13248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Haou III | 98454 | [98454-touhou-haou-iii.json](./98454-touhou-haou-iii.json) |
 | Touhou Healing Nature | 255135 | [255135-touhou-healing-nature.json](./255135-touhou-healing-nature.json) |
 | Touhou Heardle | 205617 | [205617-touhou-heardle.json](./205617-touhou-heardle.json) |
+| Touhou Heisatsu Yuugi | 294407 | [294407-touhou-heisatsu-yuugi.json](./294407-touhou-heisatsu-yuugi.json) |
 | Touhou Houtenkyou: Treasure Castle Labyrinth | 276761 | [276761-touhou-houtenkyou-treasure-castle-labyrinth.json](./276761-touhou-houtenkyou-treasure-castle-labyrinth.json) |
 | Touhou Ibunseki: Ayaria Dawn - ReCreation | 126924 | [126924-touhou-ibunseki-ayaria-dawn-recreation.json](./126924-touhou-ibunseki-ayaria-dawn-recreation.json) |
 | Touhou Infinite Nocturne | 342052 | [342052-touhou-infinite-nocturne.json](./342052-touhou-infinite-nocturne.json) |
