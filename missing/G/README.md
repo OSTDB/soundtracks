@@ -3201,6 +3201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golgo-13 3 - Juusei no Chinkonka | 91929 | [91929-golgo-13-3-juusei-no-chinkonka.json](./91929-golgo-13-3-juusei-no-chinkonka.json) |
 | Goliath | 410260 | [410260-goliath.json](./410260-goliath.json) |
 | Goliath: Playing With Reality | 219802 | [219802-goliath-playing-with-reality.json](./219802-goliath-playing-with-reality.json) |
+| Golly Soda Pop | 333208 | [333208-golly-soda-pop.json](./333208-golly-soda-pop.json) |
 | Golly! Ghosts! Goal! | 242776 | [242776-golly-ghosts-goal.json](./242776-golly-ghosts-goal.json) |
 | Golod | 406677 | [406677-golod.json](./406677-golod.json) |
 | Golvellius: Valley of Doom | 46146 | [46146-golvellius-valley-of-doom.json](./46146-golvellius-valley-of-doom.json) |
@@ -3233,6 +3234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gonzzalezz | 39154 | [39154-gonzzalezz.json](./39154-gonzzalezz.json) |
 | Goo Fighter | 283725 | [283725-goo-fighter.json](./283725-goo-fighter.json) |
 | Goo Go | 304380 | [304380-goo-go.json](./304380-goo-go.json) |
+| Goo Hunter | 333128 | [333128-goo-hunter.json](./333128-goo-hunter.json) |
 | Goo Saga | 57709 | [57709-goo-saga.json](./57709-goo-saga.json) |
 | Goo Saga: HD Edition | 31941 | [31941-goo-saga-hd-edition.json](./31941-goo-saga-hd-edition.json) |
 | Goob Wants an Android Girlfriend | 390244 | [390244-goob-wants-an-android-girlfriend.json](./390244-goob-wants-an-android-girlfriend.json) |
