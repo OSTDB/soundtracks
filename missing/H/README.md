@@ -5645,6 +5645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hrumka | 277825 | [277825-hrumka.json](./277825-hrumka.json) |
 | HS Galaxy | 147450 | [147450-hs-galaxy.json](./147450-hs-galaxy.json) |
 | HSHS | 303574 | [303574-hshs.json](./303574-hshs.json) |
+| HSNU | 288433 | [288433-hsnu.json](./288433-hsnu.json) |
 | HSNU Academy 79th Anniversary | 396207 | [396207-hsnu-academy-79th-anniversary.json](./396207-hsnu-academy-79th-anniversary.json) |
 | HSS: Reload | 317306 | [317306-hss-reload.json](./317306-hss-reload.json) |
 | HSX: Hypersonic Xtreme | 43656 | [43656-hsx-hypersonic-xtreme.json](./43656-hsx-hypersonic-xtreme.json) |
