@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M1 Tank Platoon | 12673 | [12673-m1-tank-platoon.json](./12673-m1-tank-platoon.json) |
 | M13n: Miniaturization | 336544 | [336544-m13n-miniaturization.json](./336544-m13n-miniaturization.json) |
 | M25 Racer | 12896 | [12896-m25-racer.json](./12896-m25-racer.json) |
+| M2K | 286783 | [286783-m2k.json](./286783-m2k.json) |
 | M2xM4 | 76240 | [76240-m2xm4.json](./76240-m2xm4.json) |
 | M3 - Molesting the Match-3 Market | 94232 | [94232-m3-molesting-the-match-3-market.json](./94232-m3-molesting-the-match-3-market.json) |
 | M3 Sono Kuroki Hagane: Mission Memento Mori | 61663 | [61663-m3-sono-kuroki-hagane-mission-memento-mori.json](./61663-m3-sono-kuroki-hagane-mission-memento-mori.json) |
@@ -6247,6 +6248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper Go | 395231 | [395231-minesweeper-go.json](./395231-minesweeper-go.json) |
 | Minesweeper Infinite | 291454 | [291454-minesweeper-infinite.json](./291454-minesweeper-infinite.json) |
 | Minesweeper Materialized | 37058 | [37058-minesweeper-materialized.json](./37058-minesweeper-materialized.json) |
+| Minesweeper Peak VR | 286784 | [286784-minesweeper-peak-vr.json](./286784-minesweeper-peak-vr.json) |
 | Minesweeper Plus | 377754 | [377754-minesweeper-plus.json](./377754-minesweeper-plus.json) |
 | Minesweeper Puzzle Bomb | 104113 | [104113-minesweeper-puzzle-bomb.json](./104113-minesweeper-puzzle-bomb.json) |
 | Minesweeper Run | 151757 | [151757-minesweeper-run.json](./151757-minesweeper-run.json) |
@@ -7037,6 +7039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MMA Team Manager | 111518 | [111518-mma-team-manager.json](./111518-mma-team-manager.json) |
 | MMM | 343815 | [343815-mmm.json](./343815-mmm.json) |
 | Mmm Fingers | 117752 | [117752-mmm-fingers.json](./117752-mmm-fingers.json) |
+| Mmmmm Donuts Arhhh...... | 286754 | [286754-mmmmm-donuts-arhhh.json](./286754-mmmmm-donuts-arhhh.json) |
 | MMORPG Tycoon 2 | 125701 | [125701-mmorpg-tycoon-2.json](./125701-mmorpg-tycoon-2.json) |
 | MMX | 384056 | [384056-mmx.json](./384056-mmx.json) |
 | MMX Hill Dash | 86927 | [86927-mmx-hill-dash.json](./86927-mmx-hill-dash.json) |
@@ -9761,6 +9764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MVP Baseball | 71443 | [71443-mvp-baseball.json](./71443-mvp-baseball.json) |
 | MVP Baseball 2004 | 10627 | [10627-mvp-baseball-2004.json](./10627-mvp-baseball-2004.json) |
 | MVP Baseball 2005 | 796 | [796-mvp-baseball-2005.json](./796-mvp-baseball-2005.json) |
+| MVR | 286762 | [286762-mvr.json](./286762-mvr.json) |
 | MX 2002 Featuring Ricky Carmichael | 18265 | [18265-mx-2002-featuring-ricky-carmichael.json](./18265-mx-2002-featuring-ricky-carmichael.json) |
 | MX Bikes | 37424 | [37424-mx-bikes.json](./37424-mx-bikes.json) |
 | MX Bodycam Bikes Racing | 374250 | [374250-mx-bodycam-bikes-racing.json](./374250-mx-bodycam-bikes-racing.json) |
