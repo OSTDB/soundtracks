@@ -930,6 +930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undertale Promise | 360564 | [360564-undertale-promise.json](./360564-undertale-promise.json) |
 | Undertale Together | 231306 | [231306-undertale-together.json](./231306-undertale-together.json) |
 | Undertale Together: Next Soul | 329663 | [329663-undertale-together-next-soul.json](./329663-undertale-together-next-soul.json) |
+| Undertale Wildfire | 313753 | [313753-undertale-wildfire.json](./313753-undertale-wildfire.json) |
 | Undertale Yellow | 136482 | [136482-undertale-yellow.json](./136482-undertale-yellow.json) |
 | Undertale Yellow But Blue | 318536 | [318536-undertale-yellow-but-blue.json](./318536-undertale-yellow-but-blue.json) |
 | Undertale Yellow: Shades of Justice | 351780 | [351780-undertale-yellow-shades-of-justice.json](./351780-undertale-yellow-shades-of-justice.json) |
