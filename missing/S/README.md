@@ -1203,6 +1203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the throne | 285527 | [285527-save-the-throne.json](./285527-save-the-throne.json) |
 | Save The Toast! | 265183 | [265183-save-the-toast.json](./265183-save-the-toast.json) |
 | Save the Universe, Please! | 32129 | [32129-save-the-universe-please.json](./32129-save-the-universe-please.json) |
+| Save The Village: Tower Defense | 333224 | [333224-save-the-village-tower-defense.json](./333224-save-the-village-tower-defense.json) |
 | Save the Villainess | 287728 | [287728-save-the-villainess.json](./287728-save-the-villainess.json) |
 | Save the Villy | 101389 | [101389-save-the-villy.json](./101389-save-the-villy.json) |
 | Save the Whales | 22762 | [22762-save-the-whales.json](./22762-save-the-whales.json) |
@@ -3203,6 +3204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Boxing | 364578 | [364578-shadow-boxing.json](./364578-shadow-boxing.json) |
 | Shadow Boxing 2 | 364579 | [364579-shadow-boxing-2.json](./364579-shadow-boxing-2.json) |
 | Shadow BoXR | 241368 | [241368-shadow-boxr.json](./241368-shadow-boxr.json) |
+| Shadow Breakers | 333139 | [333139-shadow-breakers.json](./333139-shadow-breakers.json) |
 | Shadow Bug | 44246 | [44246-shadow-bug.json](./44246-shadow-bug.json) |
 | Shadow Burglar | 191864 | [191864-shadow-burglar.json](./191864-shadow-burglar.json) |
 | Shadow Chronicles: Collector's Edition | 201858 | [201858-shadow-chronicles-collectors-edition.json](./201858-shadow-chronicles-collectors-edition.json) |
@@ -4496,6 +4498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shop Mistress NTR | 379891 | [379891-shop-mistress-ntr.json](./379891-shop-mistress-ntr.json) |
 | Shop of Forgotten Memories | 298883 | [298883-shop-of-forgotten-memories.json](./298883-shop-of-forgotten-memories.json) |
 | Shop Simulator: Supermarket | 320721 | [320721-shop-simulator-supermarket.json](./320721-shop-simulator-supermarket.json) |
+| Shop Simulator: Waifu Pillows | 333226 | [333226-shop-simulator-waifu-pillows.json](./333226-shop-simulator-waifu-pillows.json) |
 | Shop Titans | 119969 | [119969-shop-titans.json](./119969-shop-titans.json) |
 | Shop Town Dooter | 310182 | [310182-shop-town-dooter.json](./310182-shop-town-dooter.json) |
 | Shop Tycoon | 284891 | [284891-shop-tycoon.json](./284891-shop-tycoon.json) |
@@ -4804,6 +4807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sibal Wonsung-iui Moheom 2 | 59884 | [59884-sibal-wonsung-iui-moheom-2.json](./59884-sibal-wonsung-iui-moheom-2.json) |
 | Siberian Dawn: Winterflood | 310408 | [310408-siberian-dawn-winterflood.json](./310408-siberian-dawn-winterflood.json) |
 | Siberian Strike | 91888 | [91888-siberian-strike.json](./91888-siberian-strike.json) |
+| Siberian Way | 333237 | [333237-siberian-way.json](./333237-siberian-way.json) |
 | Sibilla | 405005 | [405005-sibilla.json](./405005-sibilla.json) |
 | Sibling Souls | 343388 | [343388-sibling-souls.json](./343388-sibling-souls.json) |
 | Sicaria | 289425 | [289425-sicaria.json](./289425-sicaria.json) |
@@ -4971,6 +4975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signal Lost | 327358 | [327358-signal-lost.json](./327358-signal-lost.json) |
 | Signal Ops | 16734 | [16734-signal-ops.json](./16734-signal-ops.json) |
 | Signal Zone | 381195 | [381195-signal-zone.json](./381195-signal-zone.json) |
+| Signal: Uncharted Lands | 333239 | [333239-signal-uncharted-lands.json](./333239-signal-uncharted-lands.json) |
 | Signal13 | 410346 | [410346-signal13.json](./410346-signal13.json) |
 | Signalis | 103244 | [103244-signalis.json](./103244-signalis.json) |
 | Signature | 257073 | [257073-signature.json](./257073-signature.json) |
@@ -5953,6 +5958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skull Jones | 259664 | [259664-skull-jones.json](./259664-skull-jones.json) |
 | Skull Limb | 177839 | [177839-skull-limb.json](./177839-skull-limb.json) |
 | Skull Maze: Tiny Roguelike | 200709 | [200709-skull-maze-tiny-roguelike.json](./200709-skull-maze-tiny-roguelike.json) |
+| Skull Skull Skull | 333215 | [333215-skull-skull-skull.json](./333215-skull-skull-skull.json) |
 | Skull8 | 362873 | [362873-skull8.json](./362873-skull8.json) |
 | Skullbreaker | 370341 | [370341-skullbreaker.json](./370341-skullbreaker.json) |
 | Skullchef | 408786 | [408786-skullchef.json](./408786-skullchef.json) |
@@ -10984,6 +10990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spring Falls | 122845 | [122845-spring-falls.json](./122845-spring-falls.json) |
 | Spring Gothic | 338216 | [338216-spring-gothic.json](./338216-spring-gothic.json) |
 | Spring Hell | 266770 | [266770-spring-hell.json](./266770-spring-hell.json) |
+| Spring in Her Step | 333124 | [333124-spring-in-her-step.json](./333124-spring-in-her-step.json) |
 | Spring in Summer | 291052 | [291052-spring-in-summer.json](./291052-spring-in-summer.json) |
 | Spring Is Here | 82185 | [82185-spring-is-here.json](./82185-spring-is-here.json) |
 | Spring It! | 84536 | [84536-spring-it.json](./84536-spring-it.json) |
@@ -15560,6 +15567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Maze Wars | 66647 | [66647-super-maze-wars.json](./66647-super-maze-wars.json) |
 | Super Me-Mail GB: Me-Mail Bear no Happy Mail Town | 282662 | [282662-super-me-mail-gb-me-mail-bear-no-happy-mail-town.json](./282662-super-me-mail-gb-me-mail-bear-no-happy-mail-town.json) |
 | Super Meat Boy Handheld! | 77317 | [77317-super-meat-boy-handheld.json](./77317-super-meat-boy-handheld.json) |
+| Super Meat Boy: Collector's Edition | 333140 | [333140-super-meat-boy-collectors-edition.json](./333140-super-meat-boy-collectors-edition.json) |
 | Super Meat Boy: The Game | 77316 | [77316-super-meat-boy-the-game.json](./77316-super-meat-boy-the-game.json) |
 | Super Meat Boy: Ultra Edition | 20620 | [20620-super-meat-boy-ultra-edition.json](./20620-super-meat-boy-ultra-edition.json) |
 | Super Meat Shooter | 75635 | [75635-super-meat-shooter.json](./75635-super-meat-shooter.json) |
@@ -15785,6 +15793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Retro Retry | 273399 | [273399-super-retro-retry.json](./273399-super-retro-retry.json) |
 | Super Retro World | 157172 | [157172-super-retro-world.json](./157172-super-retro-world.json) |
 | Super Rhythm Duel | 127213 | [127213-super-rhythm-duel.json](./127213-super-rhythm-duel.json) |
+| Super Ricko's Odyssey | 333133 | [333133-super-rickos-odyssey.json](./333133-super-rickos-odyssey.json) |
 | Super Rising Ball | 350485 | [350485-super-rising-ball.json](./350485-super-rising-ball.json) |
 | Super RMN Bros. | 355166 | [355166-super-rmn-bros.json](./355166-super-rmn-bros.json) |
 | Super Road Champions | 230767 | [230767-super-road-champions.json](./230767-super-road-champions.json) |
@@ -16395,6 +16404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surf & Turf Bundle | 308581 | [308581-surf-and-turf-bundle.json](./308581-surf-and-turf-bundle.json) |
 | Surf Adventure | 246496 | [246496-surf-adventure.json](./246496-surf-adventure.json) |
 | Surf Club | 141656 | [141656-surf-club.json](./141656-surf-club.json) |
+| Surf Dance | 333243 | [333243-surf-dance.json](./333243-surf-dance.json) |
 | Surf Ninjas | 181670 | [181670-surf-ninjas.json](./181670-surf-ninjas.json) |
 | Surf's Up | 381757 | [381757-surfs-up.json](./381757-surfs-up.json) |
 | Surf's Up | 4191 | [4191-surfs-up.json](./4191-surfs-up.json) |
