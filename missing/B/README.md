@@ -718,6 +718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Roller | 384713 | [384713-ball-roller.json](./384713-ball-roller.json) |
 | Ball Rows | 103879 | [103879-ball-rows.json](./103879-ball-rows.json) |
 | Ball Run | 118797 | [118797-ball-run.json](./118797-ball-run.json) |
+| Ball Rush 2 | 322656 | [322656-ball-rush-2.json](./322656-ball-rush-2.json) |
 | Ball Rush 3 | 402296 | [402296-ball-rush-3.json](./402296-ball-rush-3.json) |
 | Ball Shoot Aim Challenge | 334085 | [334085-ball-shoot-aim-challenge.json](./334085-ball-shoot-aim-challenge.json) |
 | Ball Slinger | 176374 | [176374-ball-slinger.json](./176374-ball-slinger.json) |
@@ -903,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Republic | 416053 | [416053-banana-republic.json](./416053-banana-republic.json) |
 | Banana Sbang | 271179 | [271179-banana-sbang.json](./271179-banana-sbang.json) |
 | Banana Tap | 314875 | [314875-banana-tap.json](./314875-banana-tap.json) |
+| Banana-Clicker | 322657 | [322657-banana-clicker.json](./322657-banana-clicker.json) |
 | Banana-Shaped | 309490 | [309490-banana-shaped.json](./309490-banana-shaped.json) |
 | BananaGuideline | 125827 | [125827-bananaguideline.json](./125827-bananaguideline.json) |
 | BananaGuy | 247604 | [247604-bananaguy.json](./247604-bananaguy.json) |
@@ -5623,6 +5625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Moon | 221990 | [221990-blue-moon.json](./221990-blue-moon.json) |
 | Blue Mushrooms | 277036 | [277036-blue-mushrooms.json](./277036-blue-mushrooms.json) |
 | Blue Nebula | 252119 | [252119-blue-nebula.json](./252119-blue-nebula.json) |
+| Blue Night Laundromat | 322668 | [322668-blue-night-laundromat.json](./322668-blue-night-laundromat.json) |
 | Blue Oath | 411791 | [411791-blue-oath.json](./411791-blue-oath.json) |
 | Blue Oddities: The Final Chapter | 238429 | [238429-blue-oddities-the-final-chapter.json](./238429-blue-oddities-the-final-chapter.json) |
 | Blue Omen Operation | 76237 | [76237-blue-omen-operation.json](./76237-blue-omen-operation.json) |
