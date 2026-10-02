@@ -1582,6 +1582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeoGuessr: Steam Edition | 336739 | [336739-geoguessr-steam-edition.json](./336739-geoguessr-steam-edition.json) |
 | GeoJelly | 232457 | [232457-geojelly.json](./232457-geojelly.json) |
 | GeoJelly Space Odyssey Bundle | 284504 | [284504-geojelly-space-odyssey-bundle.json](./284504-geojelly-space-odyssey-bundle.json) |
+| GeoJelly: in the Space | 279861 | [279861-geojelly-in-the-space.json](./279861-geojelly-in-the-space.json) |
 | Geom | 84515 | [84515-geom.json](./84515-geom.json) |
 | Geom | 93023 | [93023-geom.json](./93023-geom.json) |
 | Geom Cube | 44758 | [44758-geom-cube.json](./44758-geom-cube.json) |
@@ -3459,6 +3460,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goonya Monster: Additional Character (Buster) - Clione | 248720 | [248720-goonya-monster-additional-character-buster-clione.json](./248720-goonya-monster-additional-character-buster-clione.json) |
 | Goonya Monster: Additional Character (Buster) - Slug | 248721 | [248721-goonya-monster-additional-character-buster-slug.json](./248721-goonya-monster-additional-character-buster-slug.json) |
 | Goonya Monster: Battle Pass - Eternal Pass + Infinity Cookie | 301019 | [301019-goonya-monster-battle-pass-eternal-pass-infinity-cookie.json](./301019-goonya-monster-battle-pass-eternal-pass-infinity-cookie.json) |
+| Goonya Monster: Buster - Iwasake-chan/Fake Type | 279872 | [279872-goonya-monster-buster-iwasake-chan-fake-type.json](./279872-goonya-monster-buster-iwasake-chan-fake-type.json) |
+| Goonya Monster: Buster - Lord Ham/Fake Type | 279871 | [279871-goonya-monster-buster-lord-ham-fake-type.json](./279871-goonya-monster-buster-lord-ham-fake-type.json) |
+| Goonya Monster: Fake Type - Pack 2 | 279870 | [279870-goonya-monster-fake-type-pack-2.json](./279870-goonya-monster-fake-type-pack-2.json) |
 | Goooal | 309010 | [309010-goooal.json](./309010-goooal.json) |
 | Goooool! | 312142 | [312142-goooool.json](./312142-goooool.json) |
 | Goop God | 180036 | [180036-goop-god.json](./180036-goop-god.json) |
