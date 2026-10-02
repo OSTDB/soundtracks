@@ -1331,6 +1331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ADOM: Ancient Domains of Mystery | 36159 | [36159-adom-ancient-domains-of-mystery.json](./36159-adom-ancient-domains-of-mystery.json) |
 | Adonis | 200708 | [200708-adonis.json](./200708-adonis.json) |
 | Adonis: Escape from Urania | 261816 | [261816-adonis-escape-from-urania.json](./261816-adonis-escape-from-urania.json) |
+| Adopted Passion Realize Your Dream | 279849 | [279849-adopted-passion-realize-your-dream.json](./279849-adopted-passion-realize-your-dream.json) |
 | Adorable Garden | 352865 | [352865-adorable-garden.json](./352865-adorable-garden.json) |
 | Adorable Witch | 150585 | [150585-adorable-witch.json](./150585-adorable-witch.json) |
 | Adorable Witch 5: Lingering | 235850 | [235850-adorable-witch-5-lingering.json](./235850-adorable-witch-5-lingering.json) |
@@ -1709,6 +1710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AEW Elite General Manager | 150024 | [150024-aew-elite-general-manager.json](./150024-aew-elite-general-manager.json) |
 | AEW: Fight Forever | 145216 | [145216-aew-fight-forever.json](./145216-aew-fight-forever.json) |
 | AEW: Fight Forever - All Season Pass Bundle | 312091 | [312091-aew-fight-forever-all-season-pass-bundle.json](./312091-aew-fight-forever-all-season-pass-bundle.json) |
+| AEW: Fight Forever - Bring the Boom Edition | 279885 | [279885-aew-fight-forever-bring-the-boom-edition.json](./279885-aew-fight-forever-bring-the-boom-edition.json) |
 | AEW: Fight Forever - Elite Edition | 251670 | [251670-aew-fight-forever-elite-edition.json](./251670-aew-fight-forever-elite-edition.json) |
 | Afallon | 283879 | [283879-afallon.json](./283879-afallon.json) |
 | Affair | 279084 | [279084-affair.json](./279084-affair.json) |
@@ -5802,6 +5804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Phelios | 234631 | [234631-arcade-archives-phelios.json](./234631-arcade-archives-phelios.json) |
 | Arcade Archives: Pirate Pete | 152252 | [152252-arcade-archives-pirate-pete.json](./152252-arcade-archives-pirate-pete.json) |
 | Arcade Archives: Plump Pop | 394382 | [394382-arcade-archives-plump-pop.json](./394382-arcade-archives-plump-pop.json) |
+| Arcade Archives: Pole Position II | 279875 | [279875-arcade-archives-pole-position-ii.json](./279875-arcade-archives-pole-position-ii.json) |
 | Arcade Archives: Power Spikes | 319783 | [319783-arcade-archives-power-spikes.json](./319783-arcade-archives-power-spikes.json) |
 | Arcade Archives: Radical Radial | 147936 | [147936-arcade-archives-radical-radial.json](./147936-arcade-archives-radical-radial.json) |
 | Arcade Archives: Raiders5 | 99783 | [99783-arcade-archives-raiders5.json](./99783-arcade-archives-raiders5.json) |
