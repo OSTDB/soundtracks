@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QS Scramble | 319595 | [319595-qs-scramble.json](./319595-qs-scramble.json) |
 | QuAaargh!!! | 147306 | [147306-quaaargh.json](./147306-quaaargh.json) |
 | Quaantuum Strike | 336021 | [336021-quaantuum-strike.json](./336021-quaantuum-strike.json) |
+| Quack Attack | 293835 | [293835-quack-attack.json](./293835-quack-attack.json) |
 | Quack Attack 1985 | 32117 | [32117-quack-attack-1985.json](./32117-quack-attack-1985.json) |
 | Quack Attack 1985: Turbo DX Edition | 138603 | [138603-quack-attack-1985-turbo-dx-edition.json](./138603-quack-attack-1985-turbo-dx-edition.json) |
 | Quack Invasion | 244886 | [244886-quack-invasion.json](./244886-quack-invasion.json) |
@@ -341,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen Of The Sands | 415079 | [415079-queen-of-the-sands.json](./415079-queen-of-the-sands.json) |
 | Queen of Zarkov | 173288 | [173288-queen-of-zarkov.json](./173288-queen-of-zarkov.json) |
 | Queen Slayer | 311590 | [311590-queen-slayer.json](./311590-queen-slayer.json) |
+| Queen Wanda | 293352 | [293352-queen-wanda.json](./293352-queen-wanda.json) |
 | Queen,Don't be afraid | 294365 | [294365-queen-dont-be-afraid.json](./294365-queen-dont-be-afraid.json) |
 | Queen: Rock Tour | 231466 | [231466-queen-rock-tour.json](./231466-queen-rock-tour.json) |
 | Queen's Blade Re:Build | 406940 | [406940-queens-blade-re-build.json](./406940-queens-blade-re-build.json) |
