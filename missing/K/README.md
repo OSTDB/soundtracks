@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kajko i Kokosz | 93588 | [93588-kajko-i-kokosz.json](./93588-kajko-i-kokosz.json) |
 | Kajko i Kokosz: Twierdza Czarnoksiężnika | 135172 | [135172-kajko-i-kokosz-twierdza-czarnoksieznika.json](./135172-kajko-i-kokosz-twierdza-czarnoksieznika.json) |
 | Kajko i Kokosz: W Krainie Borostworów | 93587 | [93587-kajko-i-kokosz-w-krainie-borostworow.json](./93587-kajko-i-kokosz-w-krainie-borostworow.json) |
+| Kajun's Lucid Room | 309566 | [309566-kajuns-lucid-room.json](./309566-kajuns-lucid-room.json) |
 | Kakapo-Go! | 112277 | [112277-kakapo-go.json](./112277-kakapo-go.json) |
 | Kakatte Koi Yo! | 127671 | [127671-kakatte-koi-yo.json](./127671-kakatte-koi-yo.json) |
 | Kakefu-kun no Jump Tengoku Speed Jigoku | 215129 | [215129-kakefu-kun-no-jump-tengoku-speed-jigoku.json](./215129-kakefu-kun-no-jump-tengoku-speed-jigoku.json) |
