@@ -3379,8 +3379,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhodes | 229023 | [229023-rhodes.json](./229023-rhodes.json) |
 | Rhom Bus | 197231 | [197231-rhom-bus.json](./197231-rhom-bus.json) |
 | Rhombus | 370894 | [370894-rhombus.json](./370894-rhombus.json) |
+| Rhyme Land | 306035 | [306035-rhyme-land.json](./306035-rhyme-land.json) |
 | Rhyme Rider Kerorican | 37355 | [37355-rhyme-rider-kerorican.json](./37355-rhyme-rider-kerorican.json) |
 | Rhyme Star | 361719 | [361719-rhyme-star.json](./361719-rhyme-star.json) |
+| Rhyme-A-Line | 306034 | [306034-rhyme-a-line.json](./306034-rhyme-a-line.json) |
+| Rhymo's Falling Star | 306032 | [306032-rhymos-falling-star.json](./306032-rhymos-falling-star.json) |
 | Rhyolite | 335351 | [335351-rhyolite.json](./335351-rhyolite.json) |
 | Rhythm 'n Notes: Improve Your Music Skills | 79176 | [79176-rhythm-n-notes-improve-your-music-skills.json](./79176-rhythm-n-notes-improve-your-music-skills.json) |
 | Rhythm & Beats | 292282 | [292282-rhythm-and-beats.json](./292282-rhythm-and-beats.json) |
@@ -6492,6 +6495,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ryu Jin | 40253 | [40253-ryu-jin.json](./40253-ryu-jin.json) |
 | Ryuki Densyo: Dragoon | 60064 | [60064-ryuki-densyo-dragoon.json](./60064-ryuki-densyo-dragoon.json) |
 | Ryuu ga Gotoku Kenzan! | 7442 | [7442-ryuu-ga-gotoku-kenzan.json](./7442-ryuu-ga-gotoku-kenzan.json) |
+| Ryuu ga Gotoku Kizuna | 305994 | [305994-ryuu-ga-gotoku-kizuna.json](./305994-ryuu-ga-gotoku-kizuna.json) |
+| Ryuu ga Gotoku Mobile for GREE | 305992 | [305992-ryuu-ga-gotoku-mobile-for-gree.json](./305992-ryuu-ga-gotoku-mobile-for-gree.json) |
 | Ryuuko no Ken 2 | 38347 | [38347-ryuuko-no-ken-2.json](./38347-ryuuko-no-ken-2.json) |
 | Ryuuko No Ken Gaiden | 75517 | [75517-ryuuko-no-ken-gaiden.json](./75517-ryuuko-no-ken-gaiden.json) |
 | Ryuuo no Oshigoto! | 125193 | [125193-ryuuo-no-oshigoto.json](./125193-ryuuo-no-oshigoto.json) |
