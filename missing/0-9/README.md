@@ -217,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Animals on an Island | 325501 | [325501-100-animals-on-an-island.json](./325501-100-animals-on-an-island.json) |
 | 100 Archeology Cats | 393728 | [393728-100-archeology-cats.json](./393728-100-archeology-cats.json) |
 | 100 Astro Cats | 347755 | [347755-100-astro-cats.json](./347755-100-astro-cats.json) |
+| 100 Aztec Cats | 306020 | [306020-100-aztec-cats.json](./306020-100-aztec-cats.json) |
 | 100 Balls | 331350 | [331350-100-balls.json](./331350-100-balls.json) |
 | 100 Balls: Tap to Drop in Cup | 100152 | [100152-100-balls-tap-to-drop-in-cup.json](./100152-100-balls-tap-to-drop-in-cup.json) |
 | 100 Caliber Dash | 334119 | [334119-100-caliber-dash.json](./334119-100-caliber-dash.json) |
@@ -318,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Undersea Cats | 393726 | [393726-100-undersea-cats.json](./393726-100-undersea-cats.json) |
 | 100 Vacas | 138729 | [138729-100-vacas.json](./138729-100-vacas.json) |
 | 100 Vampire Cats | 347754 | [347754-100-vampire-cats.json](./347754-100-vampire-cats.json) |
+| 100 Waiting Cats | 306017 | [306017-100-waiting-cats.json](./306017-100-waiting-cats.json) |
 | 100 Waiting Cats: Extra Content | 321593 | [321593-100-waiting-cats-extra-content.json](./321593-100-waiting-cats-extra-content.json) |
 | 100 Wars | 316430 | [316430-100-wars.json](./316430-100-wars.json) |
 | 100 Witch Cats | 347751 | [347751-100-witch-cats.json](./347751-100-witch-cats.json) |
@@ -746,6 +748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 | 256775 | [256775-2048.json](./256775-2048.json) |
 | 2048 | 270395 | [270395-2048.json](./270395-2048.json) |
 | 2048 | 280762 | [280762-2048.json](./280762-2048.json) |
+| 2048 | 306030 | [306030-2048.json](./306030-2048.json) |
 | 2048 | 312586 | [312586-2048.json](./312586-2048.json) |
 | 2048 | 320269 | [320269-2048.json](./320269-2048.json) |
 | 2048 Animation Puzzle Edition | 181324 | [181324-2048-animation-puzzle-edition.json](./181324-2048-animation-puzzle-edition.json) |
@@ -801,6 +804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 24 Solar Terms | 158663 | [158663-24-solar-terms.json](./158663-24-solar-terms.json) |
 | 24-ji no Kane to Cinderella ~Halloween Wedding~ | 56551 | [56551-24-ji-no-kane-to-cinderella-halloween-wedding.json](./56551-24-ji-no-kane-to-cinderella-halloween-wedding.json) |
 | 24: Special Ops | 91747 | [91747-24-special-ops.json](./91747-24-special-ops.json) |
+| 24: The Mobile Game | 305988 | [305988-24-the-mobile-game.json](./305988-24-the-mobile-game.json) |
 | 24/7 Solitaire | 78758 | [78758-24-7-solitaire.json](./78758-24-7-solitaire.json) |
 | 240p Test Suite | 292078 | [292078-240p-test-suite.json](./292078-240p-test-suite.json) |
 | 248 Scribble | 355143 | [355143-248-scribble.json](./355143-248-scribble.json) |
