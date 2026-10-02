@@ -2775,6 +2775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match Quest: Numbers | 345676 | [345676-match-quest-numbers.json](./345676-match-quest-numbers.json) |
 | Match Shot Chimera | 349290 | [349290-match-shot-chimera.json](./349290-match-shot-chimera.json) |
 | Match the Deck | 197771 | [197771-match-the-deck.json](./197771-match-the-deck.json) |
+| Match the Monsters! | 311693 | [311693-match-the-monsters.json](./311693-match-the-monsters.json) |
 | Match Three Fun | 99144 | [99144-match-three-fun.json](./99144-match-three-fun.json) |
 | Match Tree | 282693 | [282693-match-tree.json](./282693-match-tree.json) |
 | Match Up | 81405 | [81405-match-up.json](./81405-match-up.json) |
@@ -3230,6 +3231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MDK2: Armageddon | 414467 | [414467-mdk2-armageddon.json](./414467-mdk2-armageddon.json) |
 | MDT: Make It or Die Trying | 405000 | [405000-mdt-make-it-or-die-trying.json](./405000-mdt-make-it-or-die-trying.json) |
 | Me | 145034 | [145034-me.json](./145034-me.json) |
+| Me & My Friend Pippa! | 311714 | [311714-me-and-my-friend-pippa.json](./311714-me-and-my-friend-pippa.json) |
 | Me & My Katamari | 6455 | [6455-me-and-my-katamari.json](./6455-me-and-my-katamari.json) |
 | Me & My Robot Friend | 128595 | [128595-me-and-my-robot-friend.json](./128595-me-and-my-robot-friend.json) |
 | Me Alone Reissue | 203843 | [203843-me-alone-reissue.json](./203843-me-alone-reissue.json) |
@@ -8297,6 +8299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morrigan's Isle | 324876 | [324876-morrigans-isle.json](./324876-morrigans-isle.json) |
 | Morris Cave | 213448 | [213448-morris-cave.json](./213448-morris-cave.json) |
 | Morris Meets the Bikers | 354594 | [354594-morris-meets-the-bikers.json](./354594-morris-meets-the-bikers.json) |
+| Morriton Manor Stories: Nordic Whispers | 311715 | [311715-morriton-manor-stories-nordic-whispers.json](./311715-morriton-manor-stories-nordic-whispers.json) |
 | Morrok | 250974 | [250974-morrok.json](./250974-morrok.json) |
 | Morrow | 220844 | [220844-morrow.json](./220844-morrow.json) |
 | Morse | 198337 | [198337-morse.json](./198337-morse.json) |
