@@ -5910,6 +5910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunting Story | 193968 | [193968-hunting-story.json](./193968-hunting-story.json) |
 | Hunting Unlimited 2009 | 30860 | [30860-hunting-unlimited-2009.json](./30860-hunting-unlimited-2009.json) |
 | Hunting Yankee | 55159 | [55159-hunting-yankee.json](./55159-hunting-yankee.json) |
+| HuntNPrey | 326181 | [326181-huntnprey.json](./326181-huntnprey.json) |
 | Huntscape | 219692 | [219692-huntscape.json](./219692-huntscape.json) |
 | Huntsman Against Darkness | 408937 | [408937-huntsman-against-darkness.json](./408937-huntsman-against-darkness.json) |
 | Huntsman: The Orphanage | 10422 | [10422-huntsman-the-orphanage.json](./10422-huntsman-the-orphanage.json) |
