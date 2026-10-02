@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OASE: Other Age Second Encounter | 34478 | [34478-oase-other-age-second-encounter.json](./34478-oase-other-age-second-encounter.json) |
 | Oasis | 334662 | [334662-oasis.json](./334662-oasis.json) |
 | Oasis | 821 | [821-oasis.json](./821-oasis.json) |
+| Oasis Blitz | 319690 | [319690-oasis-blitz.json](./319690-oasis-blitz.json) |
 | Oasis Games VR Fun Pack | 108862 | [108862-oasis-games-vr-fun-pack.json](./108862-oasis-games-vr-fun-pack.json) |
 | Oasis Invasion | 380648 | [380648-oasis-invasion.json](./380648-oasis-invasion.json) |
 | Oasis of Lilies | 412276 | [412276-oasis-of-lilies.json](./412276-oasis-of-lilies.json) |
@@ -639,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oiran Survival: Edo Yokai Rush | 391304 | [391304-oiran-survival-edo-yokai-rush.json](./391304-oiran-survival-edo-yokai-rush.json) |
 | Oirbo | 118398 | [118398-oirbo.json](./118398-oirbo.json) |
 | Oishii Puzzle ha Irimasen ka | 312364 | [312364-oishii-puzzle-ha-irimasen-ka.json](./312364-oishii-puzzle-ha-irimasen-ka.json) |
+| Ojamajo Adventure: Naisho No Mahou | 319698 | [319698-ojamajo-adventure-naisho-no-mahou.json](./319698-ojamajo-adventure-naisho-no-mahou.json) |
 | Ojingeo Project | 393658 | [393658-ojingeo-project.json](./393658-ojingeo-project.json) |
 | Ojo Por Ojo | 301893 | [301893-ojo-por-ojo.json](./301893-ojo-por-ojo.json) |
 | Ojou-sama Express | 270746 | [270746-ojou-sama-express.json](./270746-ojou-sama-express.json) |
@@ -1775,6 +1777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ophelia´s Paradise | 400313 | [400313-ophelia-s-paradise.json](./400313-ophelia-s-paradise.json) |
 | Ophidia | 36523 | [36523-ophidia.json](./36523-ophidia.json) |
 | Opia | 322946 | [322946-opia.json](./322946-opia.json) |
+| Opioid visions 88 | 319687 | [319687-opioid-visions-88.json](./319687-opioid-visions-88.json) |
 | Oplitak | 155982 | [155982-oplitak.json](./155982-oplitak.json) |
 | Opollo | 360718 | [360718-opollo.json](./360718-opollo.json) |
 | Oppai Academy Big, Bouncy, Booby Babes! | 147454 | [147454-oppai-academy-big-bouncy-booby-babes.json](./147454-oppai-academy-big-bouncy-booby-babes.json) |
@@ -2873,6 +2876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Owe Money Pay Money | 301251 | [301251-owe-money-pay-money.json](./301251-owe-money-pay-money.json) |
 | Owen to have fun! | 101363 | [101363-owen-to-have-fun.json](./101363-owen-to-have-fun.json) |
 | Owl Bounce | 378912 | [378912-owl-bounce.json](./378912-owl-bounce.json) |
+| Owl Force | 319661 | [319661-owl-force.json](./319661-owl-force.json) |
 | Owl Glider Adventure | 359432 | [359432-owl-glider-adventure.json](./359432-owl-glider-adventure.json) |
 | Owl Observatory | 278717 | [278717-owl-observatory.json](./278717-owl-observatory.json) |
 | Owl Simulator | 90086 | [90086-owl-simulator.json](./90086-owl-simulator.json) |
