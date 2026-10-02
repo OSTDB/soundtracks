@@ -1944,6 +1944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosts | 306496 | [306496-ghosts.json](./306496-ghosts.json) |
 | Ghosts 'N Demons | 139876 | [139876-ghosts-n-demons.json](./139876-ghosts-n-demons.json) |
 | Ghosts 'n Goblins | 178021 | [178021-ghosts-n-goblins.json](./178021-ghosts-n-goblins.json) |
+| Ghosts 'n Goblins | 307805 | [307805-ghosts-n-goblins.json](./307805-ghosts-n-goblins.json) |
 | Ghosts 'n Goblins 64 | 297480 | [297480-ghosts-n-goblins-64.json](./297480-ghosts-n-goblins-64.json) |
 | Ghosts I-IV for Quake | 131580 | [131580-ghosts-i-iv-for-quake.json](./131580-ghosts-i-iv-for-quake.json) |
 | Ghosts of Tabor | 204034 | [204034-ghosts-of-tabor.json](./204034-ghosts-of-tabor.json) |
