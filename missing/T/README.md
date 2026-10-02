@@ -10145,6 +10145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Kingdoms 2019 | 107421 | [107421-three-kingdoms-2019.json](./107421-three-kingdoms-2019.json) |
 | Three Kingdoms 2025 | 368017 | [368017-three-kingdoms-2025.json](./368017-three-kingdoms-2025.json) |
 | Three Kingdoms 21 | 149094 | [149094-three-kingdoms-21.json](./149094-three-kingdoms-21.json) |
+| Three Kingdoms Battle Chess | 288441 | [288441-three-kingdoms-battle-chess.json](./288441-three-kingdoms-battle-chess.json) |
 | Three Kingdoms Front | 339098 | [339098-three-kingdoms-front.json](./339098-three-kingdoms-front.json) |
 | Three Kingdoms Heroes | 324871 | [324871-three-kingdoms-heroes.json](./324871-three-kingdoms-heroes.json) |
 | Three Kingdoms Origin | 245821 | [245821-three-kingdoms-origin.json](./245821-three-kingdoms-origin.json) |
