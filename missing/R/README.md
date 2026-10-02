@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Draw | 108857 | [108857-r-draw.json](./108857-r-draw.json) |
 | R-Naught | 151016 | [151016-r-naught.json](./151016-r-naught.json) |
 | R-Shark | 40254 | [40254-r-shark.json](./40254-r-shark.json) |
+| R-Space | 323256 | [323256-r-space.json](./323256-r-space.json) |
 | R-Type | 210582 | [210582-r-type.json](./210582-r-type.json) |
 | R-Type | 260765 | [260765-r-type.json](./260765-r-type.json) |
 | R-Type | 263373 | [263373-r-type.json](./263373-r-type.json) |
@@ -1150,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ray's the Dead | 19514 | [19514-rays-the-dead.json](./19514-rays-the-dead.json) |
 | Ray'z Arcade Chronology | 207918 | [207918-rayz-arcade-chronology.json](./207918-rayz-arcade-chronology.json) |
 | Ray'z Arcade Chronology: Special Limited Edition | 212331 | [212331-rayz-arcade-chronology-special-limited-edition.json](./212331-rayz-arcade-chronology-special-limited-edition.json) |
+| Rayadillo | 323232 | [323232-rayadillo.json](./323232-rayadillo.json) |
 | Rayadium | 341306 | [341306-rayadium.json](./341306-rayadium.json) |
 | Rayball | 119657 | [119657-rayball.json](./119657-rayball.json) |
 | Raybeem | 369204 | [369204-raybeem.json](./369204-raybeem.json) |
@@ -1603,6 +1605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realpolitiks II: Deluxe Edition | 159693 | [159693-realpolitiks-ii-deluxe-edition.json](./159693-realpolitiks-ii-deluxe-edition.json) |
 | Realpolitiks Mobile | 97304 | [97304-realpolitiks-mobile.json](./97304-realpolitiks-mobile.json) |
 | Realpolitiks: New Power | 116997 | [116997-realpolitiks-new-power.json](./116997-realpolitiks-new-power.json) |
+| RealRTCW: Agency Weapon Pack | 323254 | [323254-realrtcw-agency-weapon-pack.json](./323254-realrtcw-agency-weapon-pack.json) |
 | RealSports Baseball | 18416 | [18416-realsports-baseball.json](./18416-realsports-baseball.json) |
 | RealSports Boxing | 18417 | [18417-realsports-boxing.json](./18417-realsports-boxing.json) |
 | RealSports Football | 18418 | [18418-realsports-football.json](./18418-realsports-football.json) |
@@ -5518,6 +5521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rota: Kurofune | 304146 | [304146-rota-kurofune.json](./304146-rota-kurofune.json) |
 | Rota's Nautical Chronicles of Trade | 302446 | [302446-rotas-nautical-chronicles-of-trade.json](./302446-rotas-nautical-chronicles-of-trade.json) |
 | Rota's Nautical Chronicles of Trade: Aname Momo - Collaboration Commemorative Residentization DLC | 329009 | [329009-rotas-nautical-chronicles-of-trade-aname-momo-collaboration-commemorative-residentization-dlc.json](./329009-rotas-nautical-chronicles-of-trade-aname-momo-collaboration-commemorative-residentization-dlc.json) |
+| Rota's Nautical Chronicles of Trade: Nekozeno Shin - Collaboration Commemorative Residentization DLC | 323258 | [323258-rotas-nautical-chronicles-of-trade-nekozeno-shin-collaboration-commemorative-residentization-dlc.json](./323258-rotas-nautical-chronicles-of-trade-nekozeno-shin-collaboration-commemorative-residentization-dlc.json) |
 | RotaDim | 93031 | [93031-rotadim.json](./93031-rotadim.json) |
 | Rotate It! | 68934 | [68934-rotate-it.json](./68934-rotate-it.json) |
 | Rotate the Rings | 259234 | [259234-rotate-the-rings.json](./259234-rotate-the-rings.json) |
