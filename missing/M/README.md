@@ -5907,6 +5907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Chaos Cubed | 406874 | [406874-minecraft-chaos-cubed.json](./406874-minecraft-chaos-cubed.json) |
 | Minecraft: Classic Skin Pack 5 | 257344 | [257344-minecraft-classic-skin-pack-5.json](./257344-minecraft-classic-skin-pack-5.json) |
 | Minecraft: Conservation Quest | 324883 | [324883-minecraft-conservation-quest.json](./324883-minecraft-conservation-quest.json) |
+| Minecraft: Cybersafe AI: Dig Deeper | 332581 | [332581-minecraft-cybersafe-ai-dig-deeper.json](./332581-minecraft-cybersafe-ai-dig-deeper.json) |
 | Minecraft: Dairycraft | 366815 | [366815-minecraft-dairycraft.json](./366815-minecraft-dairycraft.json) |
 | Minecraft: Deluxe Collection for PC | 350618 | [350618-minecraft-deluxe-collection-for-pc.json](./350618-minecraft-deluxe-collection-for-pc.json) |
 | Minecraft: Echo Crystal | 343904 | [343904-minecraft-echo-crystal.json](./343904-minecraft-echo-crystal.json) |
@@ -5921,6 +5922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Holiday Skin Pack 2015 | 303023 | [303023-minecraft-holiday-skin-pack-2015.json](./303023-minecraft-holiday-skin-pack-2015.json) |
 | Minecraft: James Web Space Telescope | 322959 | [322959-minecraft-james-web-space-telescope.json](./322959-minecraft-james-web-space-telescope.json) |
 | Minecraft: Java & Bedrock Edition | 204910 | [204910-minecraft-java-and-bedrock-edition.json](./204910-minecraft-java-and-bedrock-edition.json) |
+| MInecraft: Journey to the Great Shiai | 332583 | [332583-minecraft-journey-to-the-great-shiai.json](./332583-minecraft-journey-to-the-great-shiai.json) |
 | Minecraft: Jurassic World Adventures | 285053 | [285053-minecraft-jurassic-world-adventures.json](./285053-minecraft-jurassic-world-adventures.json) |
 | Minecraft: Kung Fu Panda | 299203 | [299203-minecraft-kung-fu-panda.json](./299203-minecraft-kung-fu-panda.json) |
 | Minecraft: Legends | 204621 | [204621-minecraft-legends.json](./204621-minecraft-legends.json) |
@@ -5975,6 +5977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Vault-Tec Mash-up | 235319 | [235319-minecraft-vault-tec-mash-up.json](./235319-minecraft-vault-tec-mash-up.json) |
 | MInecraft: Weapon Fusion 2 | 333585 | [333585-minecraft-weapon-fusion-2.json](./333585-minecraft-weapon-fusion-2.json) |
 | Minecraft: Winter Whimsy Skin Pack | 324892 | [324892-minecraft-winter-whimsy-skin-pack.json](./324892-minecraft-winter-whimsy-skin-pack.json) |
+| Minecraft: Wukong Uproar In Heaven | 332582 | [332582-minecraft-wukong-uproar-in-heaven.json](./332582-minecraft-wukong-uproar-in-heaven.json) |
 | Minecraft: Xbox 360 Edition | 94029 | [94029-minecraft-xbox-360-edition.json](./94029-minecraft-xbox-360-edition.json) |
 | MinecraftEdu | 337206 | [337206-minecraftedu.json](./337206-minecraftedu.json) |
 | Minecraftle | 306695 | [306695-minecraftle.json](./306695-minecraftle.json) |
@@ -7463,6 +7466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Blast Infinity | 330940 | [330940-monster-blast-infinity.json](./330940-monster-blast-infinity.json) |
 | Monster Block Game | 235236 | [235236-monster-block-game.json](./235236-monster-block-game.json) |
 | Monster Bomber | 20617 | [20617-monster-bomber.json](./20617-monster-bomber.json) |
+| Monster Bonds | 332578 | [332578-monster-bonds.json](./332578-monster-bonds.json) |
 | Monster Box | 68717 | [68717-monster-box.json](./68717-monster-box.json) |
 | Monster Boy and the Cursed Kingdom | 25599 | [25599-monster-boy-and-the-cursed-kingdom.json](./25599-monster-boy-and-the-cursed-kingdom.json) |
 | Monster Busters: Hexa Blast | 242793 | [242793-monster-busters-hexa-blast.json](./242793-monster-busters-hexa-blast.json) |
@@ -7879,6 +7883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moo Who | 415097 | [415097-moo-who.json](./415097-moo-who.json) |
 | Moo Who? | 414543 | [414543-moo-who.json](./414543-moo-who.json) |
 | Mood Bye | 319550 | [319550-mood-bye.json](./319550-mood-bye.json) |
+| Moogle Cavern: The Online RPG | 332646 | [332646-moogle-cavern-the-online-rpg.json](./332646-moogle-cavern-the-online-rpg.json) |
 | MookerzZ | 252377 | [252377-mookerzz.json](./252377-mookerzz.json) |
 | Mooky Takes Manhattan! | 261306 | [261306-mooky-takes-manhattan.json](./261306-mooky-takes-manhattan.json) |
 | Moomin Midsummer Madness | 404859 | [404859-moomin-midsummer-madness.json](./404859-moomin-midsummer-madness.json) |
