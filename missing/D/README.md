@@ -2793,6 +2793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deliverace | 97101 | [97101-deliverace.json](./97101-deliverace.json) |
 | Deliverage | 406212 | [406212-deliverage.json](./406212-deliverage.json) |
 | Deliverance | 195242 | [195242-deliverance.json](./195242-deliverance.json) |
+| Deliverance | 322670 | [322670-deliverance.json](./322670-deliverance.json) |
 | Deliverance | 322990 | [322990-deliverance.json](./322990-deliverance.json) |
 | Deliverance | 377173 | [377173-deliverance.json](./377173-deliverance.json) |
 | Delivered by Friday | 399216 | [399216-delivered-by-friday.json](./399216-delivered-by-friday.json) |
@@ -5216,6 +5217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dizzy Down the Rapids | 18543 | [18543-dizzy-down-the-rapids.json](./18543-dizzy-down-the-rapids.json) |
 | Dizzy Dwarves | 174744 | [174744-dizzy-dwarves.json](./174744-dizzy-dwarves.json) |
 | Dizzy Fight | 276294 | [276294-dizzy-fight.json](./276294-dizzy-fight.json) |
+| Dizzy Hero | 322664 | [322664-dizzy-hero.json](./322664-dizzy-hero.json) |
 | Dizzy the Adventurer | 48672 | [48672-dizzy-the-adventurer.json](./48672-dizzy-the-adventurer.json) |
 | Dizzy: Prince of the Yolkfolk | 12049 | [12049-dizzy-prince-of-the-yolkfolk.json](./12049-dizzy-prince-of-the-yolkfolk.json) |
 | DizzyRoids | 233222 | [233222-dizzyroids.json](./233222-dizzyroids.json) |
@@ -5970,6 +5972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Touch this Button! | 158161 | [158161-dont-touch-this-button.json](./158161-dont-touch-this-button.json) |
 | Don't Trust | 311121 | [311121-dont-trust.json](./311121-dont-trust.json) |
 | Don't Turn Your Back On The City | 256797 | [256797-dont-turn-your-back-on-the-city.json](./256797-dont-turn-your-back-on-the-city.json) |
+| Don't Wake the Beast | 322690 | [322690-dont-wake-the-beast.json](./322690-dont-wake-the-beast.json) |
 | Don't wake up | 381009 | [381009-dont-wake-up.json](./381009-dont-wake-up.json) |
 | Don't Wake Up My Dream | 369588 | [369588-dont-wake-up-my-dream.json](./369588-dont-wake-up-my-dream.json) |
 | Don't! Heroes | 181932 | [181932-dont-heroes.json](./181932-dont-heroes.json) |
@@ -8046,6 +8049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone tracks | 121699 | [121699-drone-tracks.json](./121699-drone-tracks.json) |
 | Drone Warfare | 81179 | [81179-drone-warfare.json](./81179-drone-warfare.json) |
 | Drone Wars | 373546 | [373546-drone-wars.json](./373546-drone-wars.json) |
+| Drone World Tour: Flight Simulator | 322665 | [322665-drone-world-tour-flight-simulator.json](./322665-drone-world-tour-flight-simulator.json) |
 | Dronelord Hyperviber | 384615 | [384615-dronelord-hyperviber.json](./384615-dronelord-hyperviber.json) |
 | Drones | 119566 | [119566-drones.json](./119566-drones.json) |
 | Drones and Ruins | 87978 | [87978-drones-and-ruins.json](./87978-drones-and-ruins.json) |
