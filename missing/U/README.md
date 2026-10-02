@@ -1698,6 +1698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Flow: Expansion Pack | 237927 | [237927-urban-flow-expansion-pack.json](./237927-urban-flow-expansion-pack.json) |
 | Urban Flow: Expansion Packs Collection | 237926 | [237926-urban-flow-expansion-packs-collection.json](./237926-urban-flow-expansion-packs-collection.json) |
 | Urban Flow: Full Edition | 332506 | [332506-urban-flow-full-edition.json](./332506-urban-flow-full-edition.json) |
+| Urban Flow: GOTY Edition | 278653 | [278653-urban-flow-goty-edition.json](./278653-urban-flow-goty-edition.json) |
 | Urban Flow: Grand Edition | 313215 | [313215-urban-flow-grand-edition.json](./313215-urban-flow-grand-edition.json) |
 | Urban Flow: London Rules | 237925 | [237925-urban-flow-london-rules.json](./237925-urban-flow-london-rules.json) |
 | Urban Flow: Mega Edition | 328807 | [328807-urban-flow-mega-edition.json](./328807-urban-flow-mega-edition.json) |
