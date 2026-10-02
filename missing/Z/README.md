@@ -317,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenbones | 163844 | [163844-zenbones.json](./163844-zenbones.json) |
 | Zendar | 287155 | [287155-zendar.json](./287155-zendar.json) |
 | Zenerchi | 16075 | [16075-zenerchi.json](./16075-zenerchi.json) |
+| ZenFire | 292268 | [292268-zenfire.json](./292268-zenfire.json) |
 | Zenfit | 240183 | [240183-zenfit.json](./240183-zenfit.json) |
 | Zenforms: Protectors | 96043 | [96043-zenforms-protectors.json](./96043-zenforms-protectors.json) |
 | Zenful Journey | 249489 | [249489-zenful-journey.json](./249489-zenful-journey.json) |
