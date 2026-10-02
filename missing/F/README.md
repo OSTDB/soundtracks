@@ -1363,6 +1363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Sweeper | 191201 | [191201-farming-sweeper.json](./191201-farming-sweeper.json) |
 | Farming Tractor Simulator | 233438 | [233438-farming-tractor-simulator.json](./233438-farming-tractor-simulator.json) |
 | Farming Tractor Simulator 2023: Drive Combine & Trucks | 263497 | [263497-farming-tractor-simulator-2023-drive-combine-and-trucks.json](./263497-farming-tractor-simulator-2023-drive-combine-and-trucks.json) |
+| Farming Tractor Simulator 2024: Drive Combine & Trucks - Premium Edition | 309044 | [309044-farming-tractor-simulator-2024-drive-combine-and-trucks-premium-edition.json](./309044-farming-tractor-simulator-2024-drive-combine-and-trucks-premium-edition.json) |
 | Farming World: Jam Factory | 238724 | [238724-farming-world-jam-factory.json](./238724-farming-world-jam-factory.json) |
 | FarmingCat | 204369 | [204369-farmingcat.json](./204369-farmingcat.json) |
 | Farmington Tales | 44093 | [44093-farmington-tales.json](./44093-farmington-tales.json) |
@@ -3291,9 +3292,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fit For A King | 121200 | [121200-fit-for-a-king.json](./121200-fit-for-a-king.json) |
 | Fit Happens | 407485 | [407485-fit-happens.json](./407485-fit-happens.json) |
 | Fit In | 113055 | [113055-fit-in.json](./113055-fit-in.json) |
+| Fit in Bed | 309024 | [309024-fit-in-bed.json](./309024-fit-in-bed.json) |
 | Fit Music for Wii U | 61696 | [61696-fit-music-for-wii-u.json](./61696-fit-music-for-wii-u.json) |
 | Fit My Cat | 284930 | [284930-fit-my-cat.json](./284930-fit-my-cat.json) |
 | Fit My Cat: New Floor Pack | 313212 | [313212-fit-my-cat-new-floor-pack.json](./313212-fit-my-cat-new-floor-pack.json) |
+| Fit My Dog | 309049 | [309049-fit-my-dog.json](./309049-fit-my-dog.json) |
 | Fit My Dog: Dog's Puzzle Pack 1 | 316230 | [316230-fit-my-dog-dogs-puzzle-pack-1.json](./316230-fit-my-dog-dogs-puzzle-pack-1.json) |
 | Fit My Dog: Dog's Puzzle Pack 2 | 316229 | [316229-fit-my-dog-dogs-puzzle-pack-2.json](./316229-fit-my-dog-dogs-puzzle-pack-2.json) |
 | Fit My Dog: Dog's Puzzle Pack 3 | 316228 | [316228-fit-my-dog-dogs-puzzle-pack-3.json](./316228-fit-my-dog-dogs-puzzle-pack-3.json) |
