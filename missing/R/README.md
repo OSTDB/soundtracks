@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Type | 260765 | [260765-r-type.json](./260765-r-type.json) |
 | R-Type | 263373 | [263373-r-type.json](./263373-r-type.json) |
 | R-Type | 279055 | [279055-r-type.json](./279055-r-type.json) |
+| R-Type | 279221 | [279221-r-type.json](./279221-r-type.json) |
 | R-Type Complete CD | 210583 | [210583-r-type-complete-cd.json](./210583-r-type-complete-cd.json) |
 | R-Type DX: Music Encore | 399802 | [399802-r-type-dx-music-encore.json](./399802-r-type-dx-music-encore.json) |
 | R-Type Final 2: DLC Set 1 | 155065 | [155065-r-type-final-2-dlc-set-1.json](./155065-r-type-final-2-dlc-set-1.json) |
@@ -4788,6 +4789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket League: Season 8 | 216200 | [216200-rocket-league-season-8.json](./216200-rocket-league-season-8.json) |
 | Rocket League: Supersonic Fury | 202683 | [202683-rocket-league-supersonic-fury.json](./202683-rocket-league-supersonic-fury.json) |
 | Rocket League: TriTrim Wheels | 366848 | [366848-rocket-league-tritrim-wheels.json](./366848-rocket-league-tritrim-wheels.json) |
+| Rocket League: Whiplash | 279244 | [279244-rocket-league-whiplash.json](./279244-rocket-league-whiplash.json) |
 | Rocket Lift | 255178 | [255178-rocket-lift.json](./255178-rocket-lift.json) |
 | Rocket Mania | 195213 | [195213-rocket-mania.json](./195213-rocket-mania.json) |
 | Rocket of Whispers: Prologue | 107424 | [107424-rocket-of-whispers-prologue.json](./107424-rocket-of-whispers-prologue.json) |
