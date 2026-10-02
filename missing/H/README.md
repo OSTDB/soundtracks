@@ -296,7 +296,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: Zombie Edition | 196734 | [196734-half-life-zombie-edition.json](./196734-half-life-zombie-edition.json) |
 | Half-Nuked | 196730 | [196730-half-nuked.json](./196730-half-nuked.json) |
 | Half-Payne | 196014 | [196014-half-payne.json](./196014-half-payne.json) |
+| Half-Rats: A Fever Dream | 319644 | [319644-half-rats-a-fever-dream.json](./319644-half-rats-a-fever-dream.json) |
 | Half-Rats: Parasomnia | 127919 | [127919-half-rats-parasomnia.json](./127919-half-rats-parasomnia.json) |
+| Half-Rats: Redridge | 319651 | [319651-half-rats-redridge.json](./319651-half-rats-redridge.json) |
 | Halfbrick Rocket Racing | 67959 | [67959-halfbrick-rocket-racing.json](./67959-halfbrick-rocket-racing.json) |
 | Halfmoon | 364583 | [364583-halfmoon.json](./364583-halfmoon.json) |
 | HalfMoon Adventures | 333164 | [333164-halfmoon-adventures.json](./333164-halfmoon-adventures.json) |
@@ -724,6 +726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Bird Day | 275726 | [275726-happy-bird-day.json](./275726-happy-bird-day.json) |
 | Happy Birthday | 151574 | [151574-happy-birthday.json](./151574-happy-birthday.json) |
 | Happy Birthday Pavera | 268011 | [268011-happy-birthday-pavera.json](./268011-happy-birthday-pavera.json) |
+| Happy Birthday: With Sergio Spellbound | 319682 | [319682-happy-birthday-with-sergio-spellbound.json](./319682-happy-birthday-with-sergio-spellbound.json) |
 | Happy Birthdays | 86771 | [86771-happy-birthdays.json](./86771-happy-birthdays.json) |
 | Happy Block | 108076 | [108076-happy-block.json](./108076-happy-block.json) |
 | Happy Bones | 169394 | [169394-happy-bones.json](./169394-happy-bones.json) |
@@ -1926,6 +1929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Fire: Seed of Calamity | 418727 | [418727-hell-fire-seed-of-calamity.json](./418727-hell-fire-seed-of-calamity.json) |
 | Hell Forest | 411794 | [411794-hell-forest.json](./411794-hell-forest.json) |
 | Hell Forged | 141139 | [141139-hell-forged.json](./141139-hell-forged.json) |
+| Hell Frontier | 319652 | [319652-hell-frontier.json](./319652-hell-frontier.json) |
 | Hell Froze Over | 342151 | [342151-hell-froze-over.json](./342151-hell-froze-over.json) |
 | Hell Galaxy | 277918 | [277918-hell-galaxy.json](./277918-hell-galaxy.json) |
 | Hell Green Blue | 203842 | [203842-hell-green-blue.json](./203842-hell-green-blue.json) |
