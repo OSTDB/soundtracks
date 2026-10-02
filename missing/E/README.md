@@ -969,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldritch 2 | 342674 | [342674-eldritch-2.json](./342674-eldritch-2.json) |
 | Eldritch Bulwark | 351180 | [351180-eldritch-bulwark.json](./351180-eldritch-bulwark.json) |
 | Eldritch Cards: The Lovecraftian Dungeon Crawler Game | 413600 | [413600-eldritch-cards-the-lovecraftian-dungeon-crawler-game.json](./413600-eldritch-cards-the-lovecraftian-dungeon-crawler-game.json) |
+| Eldritch Empathy | 314356 | [314356-eldritch-empathy.json](./314356-eldritch-empathy.json) |
 | Eldritch Exterminators | 264600 | [264600-eldritch-exterminators.json](./264600-eldritch-exterminators.json) |
 | Eldritch Hunter | 31653 | [31653-eldritch-hunter.json](./31653-eldritch-hunter.json) |
 | Eldritch Soul | 320839 | [320839-eldritch-soul.json](./320839-eldritch-soul.json) |
