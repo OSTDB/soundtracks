@@ -2809,6 +2809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil: The Darkside Chronicles | 497 | [497-resident-evil-the-darkside-chronicles.json](./497-resident-evil-the-darkside-chronicles.json) |
 | Resident Evil: The Mercenaries 3D | 976 | [976-resident-evil-the-mercenaries-3d.json](./976-resident-evil-the-mercenaries-3d.json) |
 | Resident Evil: Uprising | 225578 | [225578-resident-evil-uprising.json](./225578-resident-evil-uprising.json) |
+| Resident Fear 2 | 314975 | [314975-resident-fear-2.json](./314975-resident-fear-2.json) |
 | Resident Fear 3: Ascension | 365758 | [365758-resident-fear-3-ascension.json](./365758-resident-fear-3-ascension.json) |
 | Resident Fear: Redistribution | 264102 | [264102-resident-fear-redistribution.json](./264102-resident-fear-redistribution.json) |
 | Residual Christmas | 379366 | [379366-residual-christmas.json](./379366-residual-christmas.json) |
@@ -5531,6 +5532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roskur's Run | 300802 | [300802-roskurs-run.json](./300802-roskurs-run.json) |
 | Roswell Conspiracies: Aliens, Myths & Legends | 49883 | [49883-roswell-conspiracies-aliens-myths-and-legends.json](./49883-roswell-conspiracies-aliens-myths-and-legends.json) |
 | Roswell Fighter | 21774 | [21774-roswell-fighter.json](./21774-roswell-fighter.json) |
+| Roswell Pinball | 314913 | [314913-roswell-pinball.json](./314913-roswell-pinball.json) |
 | Roswell's 66th Anniversary | 225900 | [225900-roswells-66th-anniversary.json](./225900-roswells-66th-anniversary.json) |
 | Roswyn | 411030 | [411030-roswyn.json](./411030-roswyn.json) |
 | Rosy Rubicunda | 299433 | [299433-rosy-rubicunda.json](./299433-rosy-rubicunda.json) |
