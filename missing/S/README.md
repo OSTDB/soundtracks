@@ -750,6 +750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samuza | 287215 | [287215-samuza.json](./287215-samuza.json) |
 | San Andreas Multiplayer | 199038 | [199038-san-andreas-multiplayer.json](./199038-san-andreas-multiplayer.json) |
 | San Diablos | 156995 | [156995-san-diablos.json](./156995-san-diablos.json) |
+| San Diego Zoo Presents: The Animals! | 283392 | [283392-san-diego-zoo-presents-the-animals.json](./283392-san-diego-zoo-presents-the-animals.json) |
 | San Francisco Rush 2049 | 249133 | [249133-san-francisco-rush-2049.json](./249133-san-francisco-rush-2049.json) |
 | San Francisco Rush 2049 | 3596 | [3596-san-francisco-rush-2049.json](./3596-san-francisco-rush-2049.json) |
 | San Francisco Rush: Extreme Racing | 264854 | [264854-san-francisco-rush-extreme-racing.json](./264854-san-francisco-rush-extreme-racing.json) |
@@ -3691,6 +3692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape Boxing 2: Wii de Enjoy Diet! | 136886 | [136886-shape-boxing-2-wii-de-enjoy-diet.json](./136886-shape-boxing-2-wii-de-enjoy-diet.json) |
 | Shape Brawl | 339933 | [339933-shape-brawl.json](./339933-shape-brawl.json) |
 | Shape Cascade | 126579 | [126579-shape-cascade.json](./126579-shape-cascade.json) |
+| Shape Defenders | 283385 | [283385-shape-defenders.json](./283385-shape-defenders.json) |
 | Shape Escape | 89752 | [89752-shape-escape.json](./89752-shape-escape.json) |
 | Shape Escape | 90362 | [90362-shape-escape.json](./90362-shape-escape.json) |
 | Shape Invasion | 317445 | [317445-shape-invasion.json](./317445-shape-invasion.json) |
@@ -5876,6 +5878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skaramazuzu | 217029 | [217029-skaramazuzu.json](./217029-skaramazuzu.json) |
 | Skarbnik | 92968 | [92968-skarbnik.json](./92968-skarbnik.json) |
 | Skat Stammtisch | 99613 | [99613-skat-stammtisch.json](./99613-skat-stammtisch.json) |
+| Skate | 283373 | [283373-skate.json](./283373-skate.json) |
 | Skate Attack | 43524 | [43524-skate-attack.json](./43524-skate-attack.json) |
 | Skate Bums | 387667 | [387667-skate-bums.json](./387667-skate-bums.json) |
 | Skate City | 26944 | [26944-skate-city.json](./26944-skate-city.json) |
@@ -9256,6 +9259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul of Heroes: Empire Wars | 247175 | [247175-soul-of-heroes-empire-wars.json](./247175-soul-of-heroes-empire-wars.json) |
 | Soul of Hometown | 216782 | [216782-soul-of-hometown.json](./216782-soul-of-hometown.json) |
 | Soul of Mask | 75179 | [75179-soul-of-mask.json](./75179-soul-of-mask.json) |
+| Soul of Sovereignty: Prelude | 283407 | [283407-soul-of-sovereignty-prelude.json](./283407-soul-of-sovereignty-prelude.json) |
 | Soul of the Beast | 178617 | [178617-soul-of-the-beast.json](./178617-soul-of-the-beast.json) |
 | Soul of the Ultimate Nation | 51196 | [51196-soul-of-the-ultimate-nation.json](./51196-soul-of-the-ultimate-nation.json) |
 | Soul of War: Legions | 263992 | [263992-soul-of-war-legions.json](./263992-soul-of-war-legions.json) |
@@ -11272,6 +11276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spot The Differences 2020 | 284338 | [284338-spot-the-differences-2020.json](./284338-spot-the-differences-2020.json) |
 | Spot the Differences: Party! | 84897 | [84897-spot-the-differences-party.json](./84897-spot-the-differences-party.json) |
 | Spot the Dot | 149563 | [149563-spot-the-dot.json](./149563-spot-the-dot.json) |
+| Spot The Object | 283376 | [283376-spot-the-object.json](./283376-spot-the-object.json) |
 | Spot the Odd! | 300831 | [300831-spot-the-odd.json](./300831-spot-the-odd.json) |
 | Spot the Wrong Character | 362361 | [362361-spot-the-wrong-character.json](./362361-spot-the-wrong-character.json) |
 | Spot Zero | 338744 | [338744-spot-zero.json](./338744-spot-zero.json) |
@@ -17689,6 +17694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of Fireheart - The Awakening Element | 31989 | [31989-sword-of-fireheart-the-awakening-element.json](./31989-sword-of-fireheart-the-awakening-element.json) |
 | Sword of Hearts | 183437 | [183437-sword-of-hearts.json](./183437-sword-of-hearts.json) |
 | Sword of Jade: Parallel Dreams | 285149 | [285149-sword-of-jade-parallel-dreams.json](./285149-sword-of-jade-parallel-dreams.json) |
+| Sword of Justice | 283391 | [283391-sword-of-justice.json](./283391-sword-of-justice.json) |
 | Sword of Mana | 6630 | [6630-sword-of-mana.json](./6630-sword-of-mana.json) |
 | Sword of Power | 176273 | [176273-sword-of-power.json](./176273-sword-of-power.json) |
 | Sword of Rapier | 64509 | [64509-sword-of-rapier.json](./64509-sword-of-rapier.json) |
