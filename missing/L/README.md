@@ -1817,6 +1817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let There Be Smite! | 414288 | [414288-let-there-be-smite.json](./414288-let-there-be-smite.json) |
 | Let Yourself Out, Eddie Kaspbrak! | 158724 | [158724-let-yourself-out-eddie-kaspbrak.json](./158724-let-yourself-out-eddie-kaspbrak.json) |
 | Let's Aim! Ring Toss | 328506 | [328506-lets-aim-ring-toss.json](./328506-lets-aim-ring-toss.json) |
+| Let's Attack Crazy Cross | 283389 | [283389-lets-attack-crazy-cross.json](./283389-lets-attack-crazy-cross.json) |
 | Let's Be a Mouse | 273470 | [273470-lets-be-a-mouse.json](./273470-lets-be-a-mouse.json) |
 | Let's Boogie | 329058 | [329058-lets-boogie.json](./329058-lets-boogie.json) |
 | Let's Bounce! Popsicle Boy! | 255021 | [255021-lets-bounce-popsicle-boy.json](./255021-lets-bounce-popsicle-boy.json) |
@@ -2769,6 +2770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Links Extreme | 68777 | [68777-links-extreme.json](./68777-links-extreme.json) |
 | Links LS 1999 | 772 | [772-links-ls-1999.json](./772-links-ls-1999.json) |
 | Links LS: 1998 Edition | 771 | [771-links-ls-1998-edition.json](./771-links-ls-1998-edition.json) |
+| Links Puzzle | 283377 | [283377-links-puzzle.json](./283377-links-puzzle.json) |
 | Links: Championship Course - Bountiful Golf Course | 77910 | [77910-links-championship-course-bountiful-golf-course.json](./77910-links-championship-course-bountiful-golf-course.json) |
 | Links: Championship Course - Hyatt Dorado Beach Resort | 77911 | [77911-links-championship-course-hyatt-dorado-beach-resort.json](./77911-links-championship-course-hyatt-dorado-beach-resort.json) |
 | Links: Championship Course - Mauna Kea | 71555 | [71555-links-championship-course-mauna-kea.json](./71555-links-championship-course-mauna-kea.json) |
