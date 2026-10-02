@@ -1537,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Age: Survivors | 238452 | [238452-dead-age-survivors.json](./238452-dead-age-survivors.json) |
 | Dead Ahead | 356286 | [356286-dead-ahead.json](./356286-dead-ahead.json) |
 | Dead Ahead: Zombie Warfare | 56166 | [56166-dead-ahead-zombie-warfare.json](./56166-dead-ahead-zombie-warfare.json) |
+| Dead Air | 330949 | [330949-dead-air.json](./330949-dead-air.json) |
 | Dead Alliance | 36781 | [36781-dead-alliance.json](./36781-dead-alliance.json) |
 | Dead and Buried | 57195 | [57195-dead-and-buried.json](./57195-dead-and-buried.json) |
 | Dead Before Work: The Commute | 399087 | [399087-dead-before-work-the-commute.json](./399087-dead-before-work-the-commute.json) |
@@ -4401,6 +4402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinkie Dino | 284450 | [284450-dinkie-dino.json](./284450-dinkie-dino.json) |
 | Dinkigolf | 197846 | [197846-dinkigolf.json](./197846-dinkigolf.json) |
 | Dinkum | 120322 | [120322-dinkum.json](./120322-dinkum.json) |
+| Dinkum Together | 330952 | [330952-dinkum-together.json](./330952-dinkum-together.json) |
 | Dinky Doo | 13840 | [13840-dinky-doo.json](./13840-dinky-doo.json) |
 | Dinky Guardians | 244516 | [244516-dinky-guardians.json](./244516-dinky-guardians.json) |
 | Dinky Rinky | 231610 | [231610-dinky-rinky.json](./231610-dinky-rinky.json) |
@@ -6466,6 +6468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Cross | 96135 | [96135-double-cross.json](./96135-double-cross.json) |
 | Double Cubes | 34727 | [34727-double-cubes.json](./34727-double-cubes.json) |
 | Double Damnation | 213981 | [213981-double-damnation.json](./213981-double-damnation.json) |
+| Double Dangerous | 330809 | [330809-double-dangerous.json](./330809-double-dangerous.json) |
 | Double Dangerous Dave | 11383 | [11383-double-dangerous-dave.json](./11383-double-dangerous-dave.json) |
 | Double Dare | 7998 | [7998-double-dare.json](./7998-double-dare.json) |
 | Double Dash | 391809 | [391809-double-dash.json](./391809-double-dash.json) |
