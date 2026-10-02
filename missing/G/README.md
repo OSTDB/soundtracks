@@ -1292,6 +1292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemini: A Journey of Two Stars | 57734 | [57734-gemini-a-journey-of-two-stars.json](./57734-gemini-a-journey-of-two-stars.json) |
 | Gemini: Heroes Reborn | 19932 | [19932-gemini-heroes-reborn.json](./19932-gemini-heroes-reborn.json) |
 | Geminiii | 250457 | [250457-geminiii.json](./250457-geminiii.json) |
+| Geminism | 304816 | [304816-geminism.json](./304816-geminism.json) |
 | Geminose: Animal Popstars | 144940 | [144940-geminose-animal-popstars.json](./144940-geminose-animal-popstars.json) |
 | Geminum | 352391 | [352391-geminum.json](./352391-geminum.json) |
 | Gemistry | 68957 | [68957-gemistry.json](./68957-gemistry.json) |
@@ -1710,6 +1711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get the Glass | 272848 | [272848-get-the-glass.json](./272848-get-the-glass.json) |
 | Get the Guy | 372699 | [372699-get-the-guy.json](./372699-get-the-guy.json) |
 | Get Them To Safety | 374053 | [374053-get-them-to-safety.json](./374053-get-them-to-safety.json) |
+| Get Tilted! :) | 304819 | [304819-get-tilted.json](./304819-get-tilted.json) |
 | Get to a Gun | 110511 | [110511-get-to-a-gun.json](./110511-get-to-a-gun.json) |
 | Get to the Gate | 235692 | [235692-get-to-the-gate.json](./235692-get-to-the-gate.json) |
 | Get to the Top 2: Breakthrough Gaming Arcade | 200726 | [200726-get-to-the-top-2-breakthrough-gaming-arcade.json](./200726-get-to-the-top-2-breakthrough-gaming-arcade.json) |
