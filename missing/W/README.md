@@ -3025,6 +3025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wireframe Warfare | 340989 | [340989-wireframe-warfare.json](./340989-wireframe-warfare.json) |
 | Wirehead | 5462 | [5462-wirehead.json](./5462-wirehead.json) |
 | Wirtschaftsgiganten | 98968 | [98968-wirtschaftsgiganten.json](./98968-wirtschaftsgiganten.json) |
+| WisdomGems | 310091 | [310091-wisdomgems.json](./310091-wisdomgems.json) |
 | Wise Escape From Prison | 368022 | [368022-wise-escape-from-prison.json](./368022-wise-escape-from-prison.json) |
 | Wise in the Heights | 358330 | [358330-wise-in-the-heights.json](./358330-wise-in-the-heights.json) |
 | Wisegal | 9366 | [9366-wisegal.json](./9366-wisegal.json) |
@@ -4282,6 +4283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worm 2000 | 74069 | [74069-worm-2000.json](./74069-worm-2000.json) |
 | Worm AR | 234597 | [234597-worm-ar.json](./234597-worm-ar.json) |
 | Worm Blaster | 354588 | [354588-worm-blaster.json](./354588-worm-blaster.json) |
+| Worm Bounce: Worms Jump King | 310111 | [310111-worm-bounce-worms-jump-king.json](./310111-worm-bounce-worms-jump-king.json) |
 | Worm Capitalist | 413872 | [413872-worm-capitalist.json](./413872-worm-capitalist.json) |
 | Worm Dungeon | 135878 | [135878-worm-dungeon.json](./135878-worm-dungeon.json) |
 | Worm Food | 326736 | [326736-worm-food.json](./326736-worm-food.json) |
