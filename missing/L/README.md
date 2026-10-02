@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lab | 199511 | [199511-lab.json](./199511-lab.json) |
 | Lab 77 | 319988 | [319988-lab-77.json](./319988-lab-77.json) |
 | Lab BreakOut | 158533 | [158533-lab-breakout.json](./158533-lab-breakout.json) |
+| Lab Cat | 298782 | [298782-lab-cat.json](./298782-lab-cat.json) |
 | Lab Crisis | 205580 | [205580-lab-crisis.json](./205580-lab-crisis.json) |
 | Lab Eject | 368595 | [368595-lab-eject.json](./368595-lab-eject.json) |
 | Lab Escape! | 299450 | [299450-lab-escape.json](./299450-lab-escape.json) |
@@ -1722,6 +1723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leo Spanish Spelling Complete | 108614 | [108614-leo-spanish-spelling-complete.json](./108614-leo-spanish-spelling-complete.json) |
 | Leo the Amazing Cat | 177422 | [177422-leo-the-amazing-cat.json](./177422-leo-the-amazing-cat.json) |
 | Leo the Lion | 124823 | [124823-leo-the-lion.json](./124823-leo-the-lion.json) |
+| Leo The Lost Kitten | 298807 | [298807-leo-the-lost-kitten.json](./298807-leo-the-lost-kitten.json) |
 | Leo: The Square | 303626 | [303626-leo-the-square.json](./303626-leo-the-square.json) |
 | Leo's RC Simulator | 380543 | [380543-leos-rc-simulator.json](./380543-leos-rc-simulator.json) |
 | Leon's Identity | 136992 | [136992-leons-identity.json](./136992-leons-identity.json) |
