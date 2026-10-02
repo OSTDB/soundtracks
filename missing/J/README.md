@@ -278,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jameson: The Pilot | 62464 | [62464-jameson-the-pilot.json](./62464-jameson-the-pilot.json) |
 | Jamestown: Legend of the Lost Colony | 6278 | [6278-jamestown-legend-of-the-lost-colony.json](./6278-jamestown-legend-of-the-lost-colony.json) |
 | Jamie | 245284 | [245284-jamie.json](./245284-jamie.json) |
+| Jamie Inside | 278613 | [278613-jamie-inside.json](./278613-jamie-inside.json) |
 | Jamie Quest | 327373 | [327373-jamie-quest.json](./327373-jamie-quest.json) |
 | Jamie's Mod | 221669 | [221669-jamies-mod.json](./221669-jamies-mod.json) |
 | JamLegend | 93992 | [93992-jamlegend.json](./93992-jamlegend.json) |
