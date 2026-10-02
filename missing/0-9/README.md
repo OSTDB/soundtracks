@@ -200,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10-Day Champion | 319123 | [319123-10-day-champion.json](./319123-10-day-champion.json) |
 | 10-Pin Bowling | 153453 | [153453-10-pin-bowling.json](./153453-10-pin-bowling.json) |
 | 10-Pin Bowling | 92273 | [92273-10-pin-bowling.json](./92273-10-pin-bowling.json) |
+| 10-Second Ghost | 314855 | [314855-10-second-ghost.json](./314855-10-second-ghost.json) |
 | 10-Yard Fight | 229983 | [229983-10-yard-fight.json](./229983-10-yard-fight.json) |
 | 10-Yard Fight | 2733 | [2733-10-yard-fight.json](./2733-10-yard-fight.json) |
 | 10,000 Feet Below | 271729 | [271729-10-000-feet-below.json](./271729-10-000-feet-below.json) |
