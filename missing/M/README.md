@@ -5414,6 +5414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MidKnight Story | 115444 | [115444-midknight-story.json](./115444-midknight-story.json) |
 | Midline '85 | 247738 | [247738-midline-85.json](./247738-midline-85.json) |
 | Midna's Mario World | 282730 | [282730-midnas-mario-world.json](./282730-midnas-mario-world.json) |
+| Midnight | 312215 | [312215-midnight.json](./312215-midnight.json) |
 | Midnight | 33802 | [33802-midnight.json](./33802-midnight.json) |
 | Midnight Arcade | 344364 | [344364-midnight-arcade.json](./344364-midnight-arcade.json) |
 | Midnight at Blackwood Manor | 370150 | [370150-midnight-at-blackwood-manor.json](./370150-midnight-at-blackwood-manor.json) |
