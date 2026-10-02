@@ -2428,6 +2428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relics of Cilldrea | 236915 | [236915-relics-of-cilldrea.json](./236915-relics-of-cilldrea.json) |
 | Relics of Deldroneye 2: Island of Debreen | 137454 | [137454-relics-of-deldroneye-2-island-of-debreen.json](./137454-relics-of-deldroneye-2-island-of-debreen.json) |
 | Relics of Gods | 11352 | [11352-relics-of-gods.json](./11352-relics-of-gods.json) |
+| Relics of the Oracle | 302630 | [302630-relics-of-the-oracle.json](./302630-relics-of-the-oracle.json) |
 | Relics of Wayne: Greymoor | 379588 | [379588-relics-of-wayne-greymoor.json](./379588-relics-of-wayne-greymoor.json) |
 | Relics: A Dark-fantasy Deck-Survivor | 361837 | [361837-relics-a-dark-fantasy-deck-survivor.json](./361837-relics-a-dark-fantasy-deck-survivor.json) |
 | Relics: Dark Hours | 92494 | [92494-relics-dark-hours.json](./92494-relics-dark-hours.json) |
@@ -4364,6 +4365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robert Robie and the Idols of Jade | 189187 | [189187-robert-robie-and-the-idols-of-jade.json](./189187-robert-robie-and-the-idols-of-jade.json) |
 | Robert: Space Stories and Battles | 190064 | [190064-robert-space-stories-and-battles.json](./190064-robert-space-stories-and-battles.json) |
 | Robertinho Adventures | 390179 | [390179-robertinho-adventures.json](./390179-robertinho-adventures.json) |
+| Roberto el Lagarto | 302618 | [302618-roberto-el-lagarto.json](./302618-roberto-el-lagarto.json) |
 | Robes | 176343 | [176343-robes.json](./176343-robes.json) |
 | Robicon | 373764 | [373764-robicon.json](./373764-robicon.json) |
 | Robin & Orchid | 60013 | [60013-robin-and-orchid.json](./60013-robin-and-orchid.json) |
