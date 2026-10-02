@@ -142,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Commissioned Some Snails 4 | 360653 | [360653-i-commissioned-some-snails-4.json](./360653-i-commissioned-some-snails-4.json) |
 | I Commissioned Some Unicorns | 257692 | [257692-i-commissioned-some-unicorns.json](./257692-i-commissioned-some-unicorns.json) |
 | I Did a Bad Thing | 229370 | [229370-i-did-a-bad-thing.json](./229370-i-did-a-bad-thing.json) |
+| I Did It All For The Cookie! | 311209 | [311209-i-did-it-all-for-the-cookie.json](./311209-i-did-it-all-for-the-cookie.json) |
 | I Did it Mum! Picture Book | 48040 | [48040-i-did-it-mum-picture-book.json](./48040-i-did-it-mum-picture-book.json) |
 | I Did Not Buy This Ticket | 221165 | [221165-i-did-not-buy-this-ticket.json](./221165-i-did-not-buy-this-ticket.json) |
 | I Didn't Cheat | 324683 | [324683-i-didnt-cheat.json](./324683-i-didnt-cheat.json) |
@@ -1925,6 +1926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Veil | 379874 | [379874-infinite-veil.json](./379874-infinite-veil.json) |
 | Infinite Versus | 143697 | [143697-infinite-versus.json](./143697-infinite-versus.json) |
 | Infinite Void | 294868 | [294868-infinite-void.json](./294868-infinite-void.json) |
+| Infinite Void | 311202 | [311202-infinite-void.json](./311202-infinite-void.json) |
 | Infinite White: Hyperbolic Time Chamber Simulator | 273460 | [273460-infinite-white-hyperbolic-time-chamber-simulator.json](./273460-infinite-white-hyperbolic-time-chamber-simulator.json) |
 | Infinite Word Search Puzzles | 87658 | [87658-infinite-word-search-puzzles.json](./87658-infinite-word-search-puzzles.json) |
 | Infinite World | 102936 | [102936-infinite-world.json](./102936-infinite-world.json) |
@@ -2000,6 +2002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Wings - Scout & Grunt | 33360 | [33360-infinity-wings-scout-and-grunt.json](./33360-infinity-wings-scout-and-grunt.json) |
 | Infinity: Battlescape | 26990 | [26990-infinity-battlescape.json](./26990-infinity-battlescape.json) |
 | Infinity: HexaDome Tactics | 275699 | [275699-infinity-hexadome-tactics.json](./275699-infinity-hexadome-tactics.json) |
+| Infinium | 311192 | [311192-infinium.json](./311192-infinium.json) |
 | Infinium Strike: Broken Overlord | 171454 | [171454-infinium-strike-broken-overlord.json](./171454-infinium-strike-broken-overlord.json) |
 | Infiniwar | 312750 | [312750-infiniwar.json](./312750-infiniwar.json) |
 | Infinos Exa | 316072 | [316072-infinos-exa.json](./316072-infinos-exa.json) |
