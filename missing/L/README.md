@@ -1085,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leap of Fate | 50227 | [50227-leap-of-fate.json](./50227-leap-of-fate.json) |
 | Leap of Love | 149436 | [149436-leap-of-love.json](./149436-leap-of-love.json) |
 | Leap of Sins | 319763 | [319763-leap-of-sins.json](./319763-leap-of-sins.json) |
+| Leap On! | 309590 | [309590-leap-on.json](./309590-leap-on.json) |
 | Leap Sheep! | 269105 | [269105-leap-sheep.json](./269105-leap-sheep.json) |
 | Leap Tactics | 357817 | [357817-leap-tactics.json](./357817-leap-tactics.json) |
 | Leap to the Top+ | 267077 | [267077-leap-to-the-top.json](./267077-leap-to-the-top.json) |
@@ -4583,6 +4584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky day | 166750 | [166750-lucky-day.json](./166750-lucky-day.json) |
 | Lucky Dog 1 | 147444 | [147444-lucky-dog-1.json](./147444-lucky-dog-1.json) |
 | Lucky Dog 1 + Bad Egg | 264088 | [264088-lucky-dog-1-bad-egg.json](./264088-lucky-dog-1-bad-egg.json) |
+| Lucky Farm | 309567 | [309567-lucky-farm.json](./309567-lucky-farm.json) |
 | Lucky Fish Bread | 190081 | [190081-lucky-fish-bread.json](./190081-lucky-fish-bread.json) |
 | Lucky Gem | 195607 | [195607-lucky-gem.json](./195607-lucky-gem.json) |
 | Lucky Gem | 262484 | [262484-lucky-gem.json](./262484-lucky-gem.json) |
