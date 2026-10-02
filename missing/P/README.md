@@ -1175,6 +1175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parfait Remake: Complete Limited Edition | 159813 | [159813-parfait-remake-complete-limited-edition.json](./159813-parfait-remake-complete-limited-edition.json) |
 | Parfum Nostalgique | 259057 | [259057-parfum-nostalgique.json](./259057-parfum-nostalgique.json) |
 | Pari Delicto | 384531 | [384531-pari-delicto.json](./384531-pari-delicto.json) |
+| Parina's Demon Lair Adventure | 310130 | [310130-parinas-demon-lair-adventure.json](./310130-parinas-demon-lair-adventure.json) |
 | Paris Attack | 40764 | [40764-paris-attack.json](./40764-paris-attack.json) |
 | Paris Belle Epoque | 303270 | [303270-paris-belle-epoque.json](./303270-paris-belle-epoque.json) |
 | Paris Craft: Exploration of City of Love & Art | 96012 | [96012-paris-craft-exploration-of-city-of-love-and-art.json](./96012-paris-craft-exploration-of-city-of-love-and-art.json) |
@@ -3612,6 +3613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinstripe | 20454 | [20454-pinstripe.json](./20454-pinstripe.json) |
 | Pintando com Senninha | 408277 | [408277-pintando-com-senninha.json](./408277-pintando-com-senninha.json) |
 | Pintar | 330529 | [330529-pintar.json](./330529-pintar.json) |
+| Pintaris | 310129 | [310129-pintaris.json](./310129-pintaris.json) |
 | Pintern | 353377 | [353377-pintern.json](./353377-pintern.json) |
 | Pinto | 326968 | [326968-pinto.json](./326968-pinto.json) |
 | Pintorino | 386399 | [386399-pintorino.json](./386399-pintorino.json) |
@@ -4565,6 +4567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetiny | 351168 | [351168-planetiny.json](./351168-planetiny.json) |
 | Planetoid | 13747 | [13747-planetoid.json](./13747-planetoid.json) |
 | Planetoid | 330907 | [330907-planetoid.json](./330907-planetoid.json) |
+| Planetoid Evasion | 310141 | [310141-planetoid-evasion.json](./310141-planetoid-evasion.json) |
 | Planetoid Pioneers | 27501 | [27501-planetoid-pioneers.json](./27501-planetoid-pioneers.json) |
 | Planetoidas | 178630 | [178630-planetoidas.json](./178630-planetoidas.json) |
 | Planetoids | 210873 | [210873-planetoids.json](./210873-planetoids.json) |
@@ -6652,6 +6655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poy Poy | 45092 | [45092-poy-poy.json](./45092-poy-poy.json) |
 | Poy Poy 2 | 44751 | [44751-poy-poy-2.json](./44751-poy-poy-2.json) |
 | Poyo Poyo Sonic | 317350 | [317350-poyo-poyo-sonic.json](./317350-poyo-poyo-sonic.json) |
+| Pozionista | 310148 | [310148-pozionista.json](./310148-pozionista.json) |
 | Pozzo Jello Crusade | 31807 | [31807-pozzo-jello-crusade.json](./31807-pozzo-jello-crusade.json) |
 | PP Puncher | 158084 | [158084-pp-puncher.json](./158084-pp-puncher.json) |
 | PP: Pathetic Predator | 364479 | [364479-pp-pathetic-predator.json](./364479-pp-pathetic-predator.json) |
@@ -6742,6 +6746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prehistorik Man | 85589 | [85589-prehistorik-man.json](./85589-prehistorik-man.json) |
 | Prelogate | 36151 | [36151-prelogate.json](./36151-prelogate.json) |
 | Prelude Gardens | 395576 | [395576-prelude-gardens.json](./395576-prelude-gardens.json) |
+| Prelude to Freedom | 310122 | [310122-prelude-to-freedom.json](./310122-prelude-to-freedom.json) |
 | Premier Action | 70915 | [70915-premier-action.json](./70915-premier-action.json) |
 | Premier Action Soccer | 49356 | [49356-premier-action-soccer.json](./49356-premier-action-soccer.json) |
 | Premier Buggy Racing Tour | 68617 | [68617-premier-buggy-racing-tour.json](./68617-premier-buggy-racing-tour.json) |
@@ -7726,6 +7731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Rogueteers | 316772 | [316772-project-rogueteers.json](./316772-project-rogueteers.json) |
 | Project Romboid | 207300 | [207300-project-romboid.json](./207300-project-romboid.json) |
 | Project Root | 17145 | [17145-project-root.json](./17145-project-root.json) |
+| Project Rope Tool | 310136 | [310136-project-rope-tool.json](./310136-project-rope-tool.json) |
 | Project RPG | 33192 | [33192-project-rpg.json](./33192-project-rpg.json) |
 | Project RTD : Random Tower Defense | 128267 | [128267-project-rtd-random-tower-defense.json](./128267-project-rtd-random-tower-defense.json) |
 | Project RTD: Random Tower Defense VR | 132488 | [132488-project-rtd-random-tower-defense-vr.json](./132488-project-rtd-random-tower-defense-vr.json) |
