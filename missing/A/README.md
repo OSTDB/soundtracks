@@ -2484,6 +2484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akka Arrh: Special Edition | 245274 | [245274-akka-arrh-special-edition.json](./245274-akka-arrh-special-edition.json) |
 | Akko ni Omakase! Brain Shock | 269544 | [269544-akko-ni-omakase-brain-shock.json](./269544-akko-ni-omakase-brain-shock.json) |
 | Aknadach | 391056 | [391056-aknadach.json](./391056-aknadach.json) |
+| Akogare 2 | 328074 | [328074-akogare-2.json](./328074-akogare-2.json) |
 | Akogare no Onna Joushi ga Shin'ya no Office de Onatteru Tokoro o Mite kara Hajimaru Himitsu no Kankei. | 230237 | [230237-akogare-no-onna-joushi-ga-shinya-no-office-de-onatteru-tokoro-o-mite-kara-hajimaru-himitsu-no-kankei.json](./230237-akogare-no-onna-joushi-ga-shinya-no-office-de-onatteru-tokoro-o-mite-kara-hajimaru-himitsu-no-kankei.json) |
 | Akron | 306990 | [306990-akron.json](./306990-akron.json) |
 | Aksun | 330327 | [330327-aksun.json](./330327-aksun.json) |
@@ -3071,6 +3072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alive 4-ever Returns | 94758 | [94758-alive-4-ever-returns.json](./94758-alive-4-ever-returns.json) |
 | Alive! Jigsaw | 94344 | [94344-alive-jigsaw.json](./94344-alive-jigsaw.json) |
 | Alive? Dead? | 105514 | [105514-alive-dead.json](./105514-alive-dead.json) |
+| AliveZ | 327925 | [327925-alivez.json](./327925-alivez.json) |
 | Aliya | 278728 | [278728-aliya.json](./278728-aliya.json) |
 | Aliya's Awakening: Dooge 2042 | 341887 | [341887-aliyas-awakening-dooge-2042.json](./341887-aliyas-awakening-dooge-2042.json) |
 | Alizarin Tetris | 93028 | [93028-alizarin-tetris.json](./93028-alizarin-tetris.json) |
@@ -4649,6 +4651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Thighs: 18+ Content | 297774 | [297774-anime-thighs-18-content.json](./297774-anime-thighs-18-content.json) |
 | Anime Uni | 273943 | [273943-anime-uni.json](./273943-anime-uni.json) |
 | Anime Uni 2 | 300730 | [300730-anime-uni-2.json](./300730-anime-uni-2.json) |
+| Anime Uni 3 | 328090 | [328090-anime-uni-3.json](./328090-anime-uni-3.json) |
 | Anime Uni 3D: Hot Vacay | 401560 | [401560-anime-uni-3d-hot-vacay.json](./401560-anime-uni-3d-hot-vacay.json) |
 | Anime Uni 6 3D | 389041 | [389041-anime-uni-6-3d.json](./389041-anime-uni-6-3d.json) |
 | Anime Uni St. Patrick’s Puzzle | 394996 | [394996-anime-uni-st-patrick-s-puzzle.json](./394996-anime-uni-st-patrick-s-puzzle.json) |
@@ -5563,6 +5566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Burning Force | 273958 | [273958-arcade-archives-burning-force.json](./273958-arcade-archives-burning-force.json) |
 | Arcade Archives: Buta san | 99561 | [99561-arcade-archives-buta-san.json](./99561-arcade-archives-buta-san.json) |
 | Arcade Archives: Cameltry | 404377 | [404377-arcade-archives-cameltry.json](./404377-arcade-archives-cameltry.json) |
+| Arcade Archives: Castle of Dragon | 328092 | [328092-arcade-archives-castle-of-dragon.json](./328092-arcade-archives-castle-of-dragon.json) |
 | Arcade Archives: Chack'n Pop | 210747 | [210747-arcade-archives-chackn-pop.json](./210747-arcade-archives-chackn-pop.json) |
 | Arcade Archives: Champion Wrestler | 216226 | [216226-arcade-archives-champion-wrestler.json](./216226-arcade-archives-champion-wrestler.json) |
 | Arcade Archives: Chopper 1 | 362353 | [362353-arcade-archives-chopper-1.json](./362353-arcade-archives-chopper-1.json) |
@@ -5679,6 +5683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Volfied | 294820 | [294820-arcade-archives-volfied.json](./294820-arcade-archives-volfied.json) |
 | Arcade Archives: Vs. Balloon Fight | 68332 | [68332-arcade-archives-vs-balloon-fight.json](./68332-arcade-archives-vs-balloon-fight.json) |
 | Arcade Archives: vs. Battle City | 317219 | [317219-arcade-archives-vs-battle-city.json](./317219-arcade-archives-vs-battle-city.json) |
+| Arcade Archives: vs. Family Tennis | 328093 | [328093-arcade-archives-vs-family-tennis.json](./328093-arcade-archives-vs-family-tennis.json) |
 | Arcade Archives: vs. Mystery Tower | 335093 | [335093-arcade-archives-vs-mystery-tower.json](./335093-arcade-archives-vs-mystery-tower.json) |
 | Arcade Archives: Vs. Super Mario Bros. | 67198 | [67198-arcade-archives-vs-super-mario-bros.json](./67198-arcade-archives-vs-super-mario-bros.json) |
 | Arcade Archives: Vs. Wrecking Crew | 68313 | [68313-arcade-archives-vs-wrecking-crew.json](./68313-arcade-archives-vs-wrecking-crew.json) |
@@ -6964,6 +6969,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Mythology Pack | 218994 | [218994-assassins-creed-mythology-pack.json](./218994-assassins-creed-mythology-pack.json) |
 | Assassin's Creed Odyssey: Legacy of the First Blade | 112732 | [112732-assassins-creed-odyssey-legacy-of-the-first-blade.json](./112732-assassins-creed-odyssey-legacy-of-the-first-blade.json) |
 | Assassin's Creed Odyssey: The Fate of Atlantis | 113098 | [113098-assassins-creed-odyssey-the-fate-of-atlantis.json](./113098-assassins-creed-odyssey-the-fate-of-atlantis.json) |
+| Assassin's Creed Odyssey: The Fate of Atlantis - Episode 1: Fields of Elysium | 327929 | [327929-assassins-creed-odyssey-the-fate-of-atlantis-episode-1-fields-of-elysium.json](./327929-assassins-creed-odyssey-the-fate-of-atlantis-episode-1-fields-of-elysium.json) |
+| Assassin's Creed Odyssey: The Fate of Atlantis - Episode 2: Torment of Hades | 327927 | [327927-assassins-creed-odyssey-the-fate-of-atlantis-episode-2-torment-of-hades.json](./327927-assassins-creed-odyssey-the-fate-of-atlantis-episode-2-torment-of-hades.json) |
 | Assassin's Creed Odyssey: The Fate of Atlantis - Episode 3: Judgment of Atlantis | 124163 | [124163-assassins-creed-odyssey-the-fate-of-atlantis-episode-3-judgment-of-atlantis.json](./124163-assassins-creed-odyssey-the-fate-of-atlantis-episode-3-judgment-of-atlantis.json) |
 | Assassin's Creed Odyssey: The Lost Tales of Greece | 241431 | [241431-assassins-creed-odyssey-the-lost-tales-of-greece.json](./241431-assassins-creed-odyssey-the-lost-tales-of-greece.json) |
 | Assassin's Creed Origins: The Curse of the Pharaohs | 17783 | [17783-assassins-creed-origins-the-curse-of-the-pharaohs.json](./17783-assassins-creed-origins-the-curse-of-the-pharaohs.json) |
