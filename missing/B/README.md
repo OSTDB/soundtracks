@@ -1648,6 +1648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bass Cat: Learn to Read Music | 90382 | [90382-bass-cat-learn-to-read-music.json](./90382-bass-cat-learn-to-read-music.json) |
 | Bass Defense | 309538 | [309538-bass-defense.json](./309538-bass-defense.json) |
 | Bass Fisherman | 298859 | [298859-bass-fisherman.json](./298859-bass-fisherman.json) |
+| Bass Fishing Tatsujin Techou | 282823 | [282823-bass-fishing-tatsujin-techou.json](./282823-bass-fishing-tatsujin-techou.json) |
 | Bass Harrier | 349877 | [349877-bass-harrier.json](./349877-bass-harrier.json) |
 | Bass Invaders | 283980 | [283980-bass-invaders.json](./283980-bass-invaders.json) |
 | Bass Invaders | 380001 | [380001-bass-invaders.json](./380001-bass-invaders.json) |
@@ -5077,6 +5078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blink: The Last Night | 179722 | [179722-blink-the-last-night.json](./179722-blink-the-last-night.json) |
 | Blink's Pet Lizard | 413733 | [413733-blinks-pet-lizard.json](./413733-blinks-pet-lizard.json) |
 | Blinky | 192832 | [192832-blinky.json](./192832-blinky.json) |
+| Blinky 3 | 282796 | [282796-blinky-3.json](./282796-blinky-3.json) |
 | Blinky's Adventure | 367949 | [367949-blinkys-adventure.json](./367949-blinkys-adventure.json) |
 | Blinky's Revenge | 338832 | [338832-blinkys-revenge.json](./338832-blinkys-revenge.json) |
 | Blip & Blop: Balls of Steel | 50127 | [50127-blip-and-blop-balls-of-steel.json](./50127-blip-and-blop-balls-of-steel.json) |
