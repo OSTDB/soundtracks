@@ -528,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Super Effective Turnabout | 302597 | [302597-a-super-effective-turnabout.json](./302597-a-super-effective-turnabout.json) |
 | A Super Mario Bros X. Level Collection | 346780 | [346780-a-super-mario-bros-x-level-collection.json](./346780-a-super-mario-bros-x-level-collection.json) |
 | A Super Mario Bros. X Thing: Prelude To The Stupid! | 270709 | [270709-a-super-mario-bros-x-thing-prelude-to-the-stupid.json](./270709-a-super-mario-bros-x-thing-prelude-to-the-stupid.json) |
+| A Super Mario Thing | 278626 | [278626-a-super-mario-thing.json](./278626-a-super-mario-thing.json) |
 | A Tag Knight | 196575 | [196575-a-tag-knight.json](./196575-a-tag-knight.json) |
 | A Tale About Flowers | 188501 | [188501-a-tale-about-flowers.json](./188501-a-tale-about-flowers.json) |
 | A Tale about Tail | 185079 | [185079-a-tale-about-tail.json](./185079-a-tale-about-tail.json) |
@@ -2487,6 +2488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aka no Sekai | 151528 | [151528-aka-no-sekai.json](./151528-aka-no-sekai.json) |
 | Akagawa Jirou no Yuurei Ressha | 48606 | [48606-akagawa-jirou-no-yuurei-ressha.json](./48606-akagawa-jirou-no-yuurei-ressha.json) |
 | Akagi: Touhaiden | 254431 | [254431-akagi-touhaiden.json](./254431-akagi-touhaiden.json) |
+| Akahane: After Class | 278617 | [278617-akahane-after-class.json](./278617-akahane-after-class.json) |
 | Akai Corridor | 316282 | [316282-akai-corridor.json](./316282-akai-corridor.json) |
 | Akai Hana | 386935 | [386935-akai-hana.json](./386935-akai-hana.json) |
 | Akai Hitomi no Serafu | 77915 | [77915-akai-hitomi-no-serafu.json](./77915-akai-hitomi-no-serafu.json) |
@@ -3630,6 +3632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Always Together | 393647 | [393647-always-together.json](./393647-always-together.json) |
 | Alys vs. the Phantom Feline Foe | 314370 | [314370-alys-vs-the-phantom-feline-foe.json](./314370-alys-vs-the-phantom-feline-foe.json) |
 | Alyssa's Quest | 310536 | [310536-alyssas-quest.json](./310536-alyssas-quest.json) |
+| Alyssa's Unlikely Trap | 278630 | [278630-alyssas-unlikely-trap.json](./278630-alyssas-unlikely-trap.json) |
 | Alzara: Radiant Echoes | 300878 | [300878-alzara-radiant-echoes.json](./300878-alzara-radiant-echoes.json) |
 | Alzheimer's: Memories | 160230 | [160230-alzheimers-memories.json](./160230-alzheimers-memories.json) |
 | Am I AI | 263573 | [263573-am-i-ai.json](./263573-am-i-ai.json) |
@@ -3805,6 +3808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambulance Away | 233474 | [233474-ambulance-away.json](./233474-ambulance-away.json) |
 | Ambulance Chauffeur Simulator | 212904 | [212904-ambulance-chauffeur-simulator.json](./212904-ambulance-chauffeur-simulator.json) |
 | Ambulance Driver | 311816 | [311816-ambulance-driver.json](./311816-ambulance-driver.json) |
+| Ambulance Life: A Paramedic Simulator | 278606 | [278606-ambulance-life-a-paramedic-simulator.json](./278606-ambulance-life-a-paramedic-simulator.json) |
 | Ambulance Life: A Paramedic Simulator - Bay Side Expansion | 334668 | [334668-ambulance-life-a-paramedic-simulator-bay-side-expansion.json](./334668-ambulance-life-a-paramedic-simulator-bay-side-expansion.json) |
 | Ambulance Race | 221712 | [221712-ambulance-race.json](./221712-ambulance-race.json) |
 | Ambulance Simulator | 9973 | [9973-ambulance-simulator.json](./9973-ambulance-simulator.json) |
@@ -5583,6 +5587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquarium Designer | 159879 | [159879-aquarium-designer.json](./159879-aquarium-designer.json) |
 | Aquarium Designer: Amazonia | 253600 | [253600-aquarium-designer-amazonia.json](./253600-aquarium-designer-amazonia.json) |
 | Aquarium Designer: Sea Life | 199595 | [199595-aquarium-designer-sea-life.json](./199595-aquarium-designer-sea-life.json) |
+| Aquarium Land: Baby Seal Edition | 278650 | [278650-aquarium-land-baby-seal-edition.json](./278650-aquarium-land-baby-seal-edition.json) |
 | Aquarium Land: Platinum Edition | 385193 | [385193-aquarium-land-platinum-edition.json](./385193-aquarium-land-platinum-edition.json) |
 | Aquarium Shop | 146919 | [146919-aquarium-shop.json](./146919-aquarium-shop.json) |
 | Aquascapes | 144353 | [144353-aquascapes.json](./144353-aquascapes.json) |
@@ -6291,6 +6296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena of Block Puzzle | 302437 | [302437-arena-of-block-puzzle.json](./302437-arena-of-block-puzzle.json) |
 | Arena of Dreams | 305266 | [305266-arena-of-dreams.json](./305266-arena-of-dreams.json) |
 | Arena of Speed: Fast and Furious | 174832 | [174832-arena-of-speed-fast-and-furious.json](./174832-arena-of-speed-fast-and-furious.json) |
+| Arena of Taryon | 278609 | [278609-arena-of-taryon.json](./278609-arena-of-taryon.json) |
 | Arena of the Myths | 205663 | [205663-arena-of-the-myths.json](./205663-arena-of-the-myths.json) |
 | Arena of Trophies | 297789 | [297789-arena-of-trophies.json](./297789-arena-of-trophies.json) |
 | Arena Renovation | 110384 | [110384-arena-renovation.json](./110384-arena-renovation.json) |
