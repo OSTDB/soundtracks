@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Sports College Football 27: Deluxe Edition | 409040 | [409040-ea-sports-college-football-27-deluxe-edition.json](./409040-ea-sports-college-football-27-deluxe-edition.json) |
 | EA Sports Double Header | 78074 | [78074-ea-sports-double-header.json](./78074-ea-sports-double-header.json) |
 | EA Sports FC 25 | 308698 | [308698-ea-sports-fc-25.json](./308698-ea-sports-fc-25.json) |
+| EA Sports FC 25: Ultimate Edition | 309043 | [309043-ea-sports-fc-25-ultimate-edition.json](./309043-ea-sports-fc-25-ultimate-edition.json) |
 | EA Sports FC 26: Icons Edition | 397889 | [397889-ea-sports-fc-26-icons-edition.json](./397889-ea-sports-fc-26-icons-edition.json) |
 | EA Sports FC 26: Ultimate Edition | 356805 | [356805-ea-sports-fc-26-ultimate-edition.json](./356805-ea-sports-fc-26-ultimate-edition.json) |
 | EA Sports FC 27 | 408819 | [408819-ea-sports-fc-27.json](./408819-ea-sports-fc-27.json) |
@@ -1970,6 +1971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enlightened Sentinel | 155667 | [155667-enlightened-sentinel.json](./155667-enlightened-sentinel.json) |
 | Enlightenment | 43155 | [43155-enlightenment.json](./43155-enlightenment.json) |
 | Enlisted: Calliope Squad | 293769 | [293769-enlisted-calliope-squad.json](./293769-enlisted-calliope-squad.json) |
+| Enlisted: Direct Fire Bundle | 309016 | [309016-enlisted-direct-fire-bundle.json](./309016-enlisted-direct-fire-bundle.json) |
 | Enlisted: Fedorov MG Squad | 293772 | [293772-enlisted-fedorov-mg-squad.json](./293772-enlisted-fedorov-mg-squad.json) |
 | Enlisted: M3A1 Squad | 293771 | [293771-enlisted-m3a1-squad.json](./293771-enlisted-m3a1-squad.json) |
 | Enlisted: Nambu Type 1 Squad | 293767 | [293767-enlisted-nambu-type-1-squad.json](./293767-enlisted-nambu-type-1-squad.json) |
