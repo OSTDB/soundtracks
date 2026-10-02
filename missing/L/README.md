@@ -1858,6 +1858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Roll | 293141 | [293141-lets-roll.json](./293141-lets-roll.json) |
 | Let's School | 231547 | [231547-lets-school.json](./231547-lets-school.json) |
 | Let's School: Magical Castles Furniture Pack | 322719 | [322719-lets-school-magical-castles-furniture-pack.json](./322719-lets-school-magical-castles-furniture-pack.json) |
+| Let's School: Magical Castles Furniture Pack | 324404 | [324404-lets-school-magical-castles-furniture-pack.json](./324404-lets-school-magical-castles-furniture-pack.json) |
 | Let's Seduce the Heroine! | 220606 | [220606-lets-seduce-the-heroine.json](./220606-lets-seduce-the-heroine.json) |
 | Let's See What You Got | 124768 | [124768-lets-see-what-you-got.json](./124768-lets-see-what-you-got.json) |
 | Let's Sing | 10511 | [10511-lets-sing.json](./10511-lets-sing.json) |
