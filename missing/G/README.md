@@ -3950,6 +3950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravel: Special Edition | 164769 | [164769-gravel-special-edition.json](./164769-gravel-special-edition.json) |
 | Gravelbox: The Sandbox | 148422 | [148422-gravelbox-the-sandbox.json](./148422-gravelbox-the-sandbox.json) |
 | Gravelmon | 359996 | [359996-gravelmon.json](./359996-gravelmon.json) |
+| Gravelord | 314330 | [314330-gravelord.json](./314330-gravelord.json) |
 | Gravels of Endless War | 149565 | [149565-gravels-of-endless-war.json](./149565-gravels-of-endless-war.json) |
 | Gravemyst | 336711 | [336711-gravemyst.json](./336711-gravemyst.json) |
 | Graven: Deluxe Edition | 336046 | [336046-graven-deluxe-edition.json](./336046-graven-deluxe-edition.json) |
@@ -5008,6 +5009,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guitar Rising | 72739 | [72739-guitar-rising.json](./72739-guitar-rising.json) |
 | Guitar Star | 267958 | [267958-guitar-star.json](./267958-guitar-star.json) |
 | Guitar Tuner 360 | 77410 | [77410-guitar-tuner-360.json](./77410-guitar-tuner-360.json) |
+| GuitarFreaks 10thMix & DrumMania 9thMix | 314344 | [314344-guitarfreaks-10thmix-and-drummania-9thmix.json](./314344-guitarfreaks-10thmix-and-drummania-9thmix.json) |
+| GuitarFreaks 11thMix & DrumMania 10thMix | 314352 | [314352-guitarfreaks-11thmix-and-drummania-10thmix.json](./314352-guitarfreaks-11thmix-and-drummania-10thmix.json) |
+| GuitarFreaks 2ndMix | 314346 | [314346-guitarfreaks-2ndmix.json](./314346-guitarfreaks-2ndmix.json) |
+| GuitarFreaks 3rdMix | 314347 | [314347-guitarfreaks-3rdmix.json](./314347-guitarfreaks-3rdmix.json) |
 | GuitarFreaks 3rdMix | 97122 | [97122-guitarfreaks-3rdmix.json](./97122-guitarfreaks-3rdmix.json) |
 | GuitarFreaks 3rdMix & DrumMania 2ndMix | 104591 | [104591-guitarfreaks-3rdmix-and-drummania-2ndmix.json](./104591-guitarfreaks-3rdmix-and-drummania-2ndmix.json) |
 | GuitarFreaks 4thMix | 97120 | [97120-guitarfreaks-4thmix.json](./97120-guitarfreaks-4thmix.json) |
