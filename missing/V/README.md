@@ -1400,6 +1400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virus 91 | 279092 | [279092-virus-91.json](./279092-virus-91.json) |
 | Virus Brain | 374294 | [374294-virus-brain.json](./374294-virus-brain.json) |
 | VIrus Killer | 186834 | [186834-virus-killer.json](./186834-virus-killer.json) |
+| Virus Kombat | 284565 | [284565-virus-kombat.json](./284565-virus-kombat.json) |
 | Virus Madness: Dungeons of your Body | 161373 | [161373-virus-madness-dungeons-of-your-body.json](./161373-virus-madness-dungeons-of-your-body.json) |
 | Virus ON | 160251 | [160251-virus-on.json](./160251-virus-on.json) |
 | Virus Protocol | 211779 | [211779-virus-protocol.json](./211779-virus-protocol.json) |
@@ -1838,6 +1839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voyage Router | 352752 | [352752-voyage-router.json](./352752-voyage-router.json) |
 | Voyager | 12930 | [12930-voyager.json](./12930-voyager.json) |
 | Voyager | 131492 | [131492-voyager.json](./131492-voyager.json) |
+| Voyager | 284566 | [284566-voyager.json](./284566-voyager.json) |
 | Voyager | 346075 | [346075-voyager.json](./346075-voyager.json) |
 | Voyager I: Sabotage of the Robot Ship | 24848 | [24848-voyager-i-sabotage-of-the-robot-ship.json](./24848-voyager-i-sabotage-of-the-robot-ship.json) |
 | Voyager-19 | 301505 | [301505-voyager-19.json](./301505-voyager-19.json) |
