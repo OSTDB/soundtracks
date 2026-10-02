@@ -484,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Varney Lake | 210565 | [210565-varney-lake.json](./210565-varney-lake.json) |
 | Varooom 3D | 181877 | [181877-varooom-3d.json](./181877-varooom-3d.json) |
 | Varsapura | 378268 | [378268-varsapura.json](./378268-varsapura.json) |
+| Vartra Abyss | 323226 | [323226-vartra-abyss.json](./323226-vartra-abyss.json) |
 | Varyznex | 329154 | [329154-varyznex.json](./329154-varyznex.json) |
 | Vasilis | 113489 | [113489-vasilis.json](./113489-vasilis.json) |
 | Vasilisa the Beautiful | 360566 | [360566-vasilisa-the-beautiful.json](./360566-vasilisa-the-beautiful.json) |
