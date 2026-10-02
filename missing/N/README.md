@@ -2462,6 +2462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine | 82014 | [82014-nine.json](./82014-nine.json) |
 | Nine Errand | 274512 | [274512-nine-errand.json](./274512-nine-errand.json) |
 | Nine Hentai Babes | 368513 | [368513-nine-hentai-babes.json](./368513-nine-hentai-babes.json) |
+| Nine Hole Ninja | 298818 | [298818-nine-hole-ninja.json](./298818-nine-hole-ninja.json) |
 | Nine Hours, Nine Persons, Nine Doors | 9543 | [9543-nine-hours-nine-persons-nine-doors.json](./9543-nine-hours-nine-persons-nine-doors.json) |
 | Nine in Flight | 310734 | [310734-nine-in-flight.json](./310734-nine-in-flight.json) |
 | Nine Nights: Martial Ci Lang Story | 300857 | [300857-nine-nights-martial-ci-lang-story.json](./300857-nine-nights-martial-ci-lang-story.json) |
