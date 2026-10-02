@@ -781,6 +781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KeepShopkeeping | 108053 | [108053-keepshopkeeping.json](./108053-keepshopkeeping.json) |
 | KeepShopkeeping 2 | 119628 | [119628-keepshopkeeping-2.json](./119628-keepshopkeeping-2.json) |
 | KeepUp Survival | 143688 | [143688-keepup-survival.json](./143688-keepup-survival.json) |
+| KeepUp Survival: Mountain Map | 293873 | [293873-keepup-survival-mountain-map.json](./293873-keepup-survival-mountain-map.json) |
 | Keepy Up | 400344 | [400344-keepy-up.json](./400344-keepy-up.json) |
 | Keepy Uppy | 229353 | [229353-keepy-uppy.json](./229353-keepy-uppy.json) |
 | Keg Bearer | 200127 | [200127-keg-bearer.json](./200127-keg-bearer.json) |
@@ -1039,6 +1040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick It | 94198 | [94198-kick-it.json](./94198-kick-it.json) |
 | Kick it, Bunny! | 143109 | [143109-kick-it-bunny.json](./143109-kick-it-bunny.json) |
 | Kick Master | 368602 | [368602-kick-master.json](./368602-kick-master.json) |
+| Kick Me! | 293879 | [293879-kick-me.json](./293879-kick-me.json) |
 | Kick Off | 15240 | [15240-kick-off.json](./15240-kick-off.json) |
 | Kick Off 2: Giants of Europe | 80644 | [80644-kick-off-2-giants-of-europe.json](./80644-kick-off-2-giants-of-europe.json) |
 | Kick Off 2: Return to Europe | 71478 | [71478-kick-off-2-return-to-europe.json](./71478-kick-off-2-return-to-europe.json) |
