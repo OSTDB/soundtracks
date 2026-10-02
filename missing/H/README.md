@@ -2745,6 +2745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hermit: an Underwater Tale | 211955 | [211955-hermit-an-underwater-tale.json](./211955-hermit-an-underwater-tale.json) |
 | Hermitage Strange Case Files | 99435 | [99435-hermitage-strange-case-files.json](./99435-hermitage-strange-case-files.json) |
 | Hermitage: Strange Case Files | 130256 | [130256-hermitage-strange-case-files.json](./130256-hermitage-strange-case-files.json) |
+| Hero | 313746 | [313746-hero.json](./313746-hero.json) |
 | Hero | 46879 | [46879-hero.json](./46879-hero.json) |
 | Hero Among Us | 143686 | [143686-hero-among-us.json](./143686-hero-among-us.json) |
 | Hero and Daughter | 58887 | [58887-hero-and-daughter.json](./58887-hero-and-daughter.json) |
@@ -5850,6 +5851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt: Showdown - The Concubine | 226206 | [226206-hunt-showdown-the-concubine.json](./226206-hunt-showdown-the-concubine.json) |
 | Hunt: Showdown - Through the Bone Briar | 166069 | [166069-hunt-showdown-through-the-bone-briar.json](./166069-hunt-showdown-through-the-bone-briar.json) |
 | Hunt: Showdown 1896 - Biatatá: Still Waters Run Deep | 241309 | [241309-hunt-showdown-1896-biatata-still-waters-run-deep.json](./241309-hunt-showdown-1896-biatata-still-waters-run-deep.json) |
+| Hunt: Showdown 1896 - Deluxe Edition | 313779 | [313779-hunt-showdown-1896-deluxe-edition.json](./313779-hunt-showdown-1896-deluxe-edition.json) |
 | Hunt: Showdown 1896 - La Luz Mala | 231342 | [231342-hunt-showdown-1896-la-luz-mala.json](./231342-hunt-showdown-1896-la-luz-mala.json) |
 | Hunt: Showdown 1896 - Law of Salvage | 276197 | [276197-hunt-showdown-1896-law-of-salvage.json](./276197-hunt-showdown-1896-law-of-salvage.json) |
 | Hunt: Showdown 1896 - Legends of the Bayou | 166070 | [166070-hunt-showdown-1896-legends-of-the-bayou.json](./166070-hunt-showdown-1896-legends-of-the-bayou.json) |
