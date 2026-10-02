@@ -627,6 +627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Earth: Build Your City | 243073 | [243073-game-of-earth-build-your-city.json](./243073-game-of-earth-build-your-city.json) |
 | Game of Empires: Warring Realms | 230294 | [230294-game-of-empires-warring-realms.json](./230294-game-of-empires-warring-realms.json) |
 | Game of Evolution | 310024 | [310024-game-of-evolution.json](./310024-game-of-evolution.json) |
+| Game of Fate | 319669 | [319669-game-of-fate.json](./319669-game-of-fate.json) |
 | Game of Hearts | 348766 | [348766-game-of-hearts.json](./348766-game-of-hearts.json) |
 | Game of Hearts | 352258 | [352258-game-of-hearts.json](./352258-game-of-hearts.json) |
 | Game of Legends: Rise of Champions | 194023 | [194023-game-of-legends-rise-of-champions.json](./194023-game-of-legends-rise-of-champions.json) |
