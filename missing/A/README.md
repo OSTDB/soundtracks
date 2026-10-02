@@ -228,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Hand in the Darkness | 28800 | [28800-a-hand-in-the-darkness.json](./28800-a-hand-in-the-darkness.json) |
 | A Handful of Keflings | 83948 | [83948-a-handful-of-keflings.json](./83948-a-handful-of-keflings.json) |
 | A Handful of Lewd Games | 337801 | [337801-a-handful-of-lewd-games.json](./337801-a-handful-of-lewd-games.json) |
+| A Happy New Year | 324964 | [324964-a-happy-new-year.json](./324964-a-happy-new-year.json) |
 | A Happy Place | 376114 | [376114-a-happy-place.json](./376114-a-happy-place.json) |
 | A Harvesting Moon | 55089 | [55089-a-harvesting-moon.json](./55089-a-harvesting-moon.json) |
 | A Hat in Time: Vanessa's Curse | 193202 | [193202-a-hat-in-time-vanessas-curse.json](./193202-a-hat-in-time-vanessas-curse.json) |
@@ -322,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Matter of Caos: Episode 2 | 101990 | [101990-a-matter-of-caos-episode-2.json](./101990-a-matter-of-caos-episode-2.json) |
 | A Matter of Murder | 26887 | [26887-a-matter-of-murder.json](./26887-a-matter-of-murder.json) |
 | A Matter of Time | 153414 | [153414-a-matter-of-time.json](./153414-a-matter-of-time.json) |
+| A Maze Against Time | 324980 | [324980-a-maze-against-time.json](./324980-a-maze-against-time.json) |
 | A Maze for Owls | 182517 | [182517-a-maze-for-owls.json](./182517-a-maze-for-owls.json) |
 | A Maze In Love | 69381 | [69381-a-maze-in-love.json](./69381-a-maze-in-love.json) |
 | A Mazeing Tower Defense | 54470 | [54470-a-mazeing-tower-defense.json](./54470-a-mazeing-tower-defense.json) |
@@ -534,6 +536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Thousand Mouths to Scream | 338179 | [338179-a-thousand-mouths-to-scream.json](./338179-a-thousand-mouths-to-scream.json) |
 | A Timeless Story | 124669 | [124669-a-timeless-story.json](./124669-a-timeless-story.json) |
 | A Tiny Eternity | 318177 | [318177-a-tiny-eternity.json](./318177-a-tiny-eternity.json) |
+| A Tiny Wander | 324887 | [324887-a-tiny-wander.json](./324887-a-tiny-wander.json) |
 | A Tithe in Blood | 304683 | [304683-a-tithe-in-blood.json](./304683-a-tithe-in-blood.json) |
 | A Toast for the End Times | 395139 | [395139-a-toast-for-the-end-times.json](./395139-a-toast-for-the-end-times.json) |
 | A Todas Las Lagartijas Que Atrapé | 399761 | [399761-a-todas-las-lagartijas-que-atrape.json](./399761-a-todas-las-lagartijas-que-atrape.json) |
@@ -880,6 +883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss Rebel | 357415 | [357415-abyss-rebel.json](./357415-abyss-rebel.json) |
 | Abyss Ring | 339958 | [339958-abyss-ring.json](./339958-abyss-ring.json) |
 | Abyss Saga | 369111 | [369111-abyss-saga.json](./369111-abyss-saga.json) |
+| Abyss Seeker: What Do You See Deep in The Abyss | 324893 | [324893-abyss-seeker-what-do-you-see-deep-in-the-abyss.json](./324893-abyss-seeker-what-do-you-see-deep-in-the-abyss.json) |
 | Abyss Soul Lotus | 216799 | [216799-abyss-soul-lotus.json](./216799-abyss-soul-lotus.json) |
 | Abyss Unchained | 331349 | [331349-abyss-unchained.json](./331349-abyss-unchained.json) |
 | Abyss Vaulter | 341612 | [341612-abyss-vaulter.json](./341612-abyss-vaulter.json) |
@@ -1921,6 +1925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent Alice | 60490 | [60490-agent-alice.json](./60490-agent-alice.json) |
 | Agent Armstrong | 11293 | [11293-agent-armstrong.json](./11293-agent-armstrong.json) |
 | Agent Dark | 409693 | [409693-agent-dark.json](./409693-agent-dark.json) |
+| Agent Fall | 324981 | [324981-agent-fall.json](./324981-agent-fall.json) |
 | Agent from C.O.G.O.O. | 234598 | [234598-agent-from-c-o-g-o-o.json](./234598-agent-from-c-o-g-o-o.json) |
 | Agent Gumball: Roguelike Spy Game | 86835 | [86835-agent-gumball-roguelike-spy-game.json](./86835-agent-gumball-roguelike-spy-game.json) |
 | Agent Hugo: Hula Holiday | 43512 | [43512-agent-hugo-hula-holiday.json](./43512-agent-hugo-hula-holiday.json) |
@@ -2334,6 +2339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Mania: First Flight HD | 175282 | [175282-airport-mania-first-flight-hd.json](./175282-airport-mania-first-flight-hd.json) |
 | Airport Master | 208904 | [208904-airport-master.json](./208904-airport-master.json) |
 | Airport Master | 29649 | [29649-airport-master.json](./29649-airport-master.json) |
+| Airport Police Contraband Simulator: Border Patrol | 324982 | [324982-airport-police-contraband-simulator-border-patrol.json](./324982-airport-police-contraband-simulator-border-patrol.json) |
 | Airport Run | 268016 | [268016-airport-run.json](./268016-airport-run.json) |
 | Airport Scanner | 91172 | [91172-airport-scanner.json](./91172-airport-scanner.json) |
 | Airport Security Sucks! | 397694 | [397694-airport-security-sucks.json](./397694-airport-security-sucks.json) |
@@ -4765,6 +4771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno Mitsumasa Pepperon-mura no Shiki | 245246 | [245246-anno-mitsumasa-pepperon-mura-no-shiki.json](./245246-anno-mitsumasa-pepperon-mura-no-shiki.json) |
 | Anno: Build An Empire | 344911 | [344911-anno-build-an-empire.json](./344911-anno-build-an-empire.json) |
 | Anno: Mutationem | 106980 | [106980-anno-mutationem.json](./106980-anno-mutationem.json) |
+| Annoy Squidward | 324931 | [324931-annoy-squidward.json](./324931-annoy-squidward.json) |
 | Annoy This Guy | 290684 | [290684-annoy-this-guy.json](./290684-annoy-this-guy.json) |
 | Annoying Ball Game | 171598 | [171598-annoying-ball-game.json](./171598-annoying-ball-game.json) |
 | Annoying Orange Pinball | 266517 | [266517-annoying-orange-pinball.json](./266517-annoying-orange-pinball.json) |
@@ -5577,6 +5584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Chack'n Pop | 210747 | [210747-arcade-archives-chackn-pop.json](./210747-arcade-archives-chackn-pop.json) |
 | Arcade Archives: Champion Wrestler | 216226 | [216226-arcade-archives-champion-wrestler.json](./216226-arcade-archives-champion-wrestler.json) |
 | Arcade Archives: Chopper 1 | 362353 | [362353-arcade-archives-chopper-1.json](./362353-arcade-archives-chopper-1.json) |
+| Arcade Archives: City Bomber | 324979 | [324979-arcade-archives-city-bomber.json](./324979-arcade-archives-city-bomber.json) |
 | Arcade Archives: City Connection | 99558 | [99558-arcade-archives-city-connection.json](./99558-arcade-archives-city-connection.json) |
 | Arcade Archives: Cosmo Police Galivan | 99566 | [99566-arcade-archives-cosmo-police-galivan.json](./99566-arcade-archives-cosmo-police-galivan.json) |
 | Arcade Archives: Crazy Balloon | 351223 | [351223-arcade-archives-crazy-balloon.json](./351223-arcade-archives-crazy-balloon.json) |
@@ -7658,6 +7666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlantis: The Lost Empire - The Lost Games | 132153 | [132153-atlantis-the-lost-empire-the-lost-games.json](./132153-atlantis-the-lost-empire-the-lost-games.json) |
 | Atlantis: Underwater Tycoon | 24091 | [24091-atlantis-underwater-tycoon.json](./24091-atlantis-underwater-tycoon.json) |
 | Atlas | 113116 | [113116-atlas.json](./113116-atlas.json) |
+| Atlas | 324945 | [324945-atlas.json](./324945-atlas.json) |
 | Atlas Architect | 157191 | [157191-atlas-architect.json](./157191-atlas-architect.json) |
 | Atlas Earth: Buy Virtual Land | 247217 | [247217-atlas-earth-buy-virtual-land.json](./247217-atlas-earth-buy-virtual-land.json) |
 | Atlas Fallen: Limited Edition | 252210 | [252210-atlas-fallen-limited-edition.json](./252210-atlas-fallen-limited-edition.json) |
@@ -7672,6 +7681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atmocity | 90077 | [90077-atmocity.json](./90077-atmocity.json) |
 | Atmoids | 92833 | [92833-atmoids.json](./92833-atmoids.json) |
 | Atmos | 398400 | [398400-atmos.json](./398400-atmos.json) |
+| Atmosfear: The Third Dimension | 324940 | [324940-atmosfear-the-third-dimension.json](./324940-atmosfear-the-third-dimension.json) |
 | Atmosfear: The Third Dimension | 73340 | [73340-atmosfear-the-third-dimension.json](./73340-atmosfear-the-third-dimension.json) |
 | Atmosphir | 70682 | [70682-atmosphir.json](./70682-atmosphir.json) |
 | ATNRPG | 387687 | [387687-atnrpg.json](./387687-atnrpg.json) |
@@ -7692,6 +7702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomfall: The Red Strain | 364002 | [364002-atomfall-the-red-strain.json](./364002-atomfall-the-red-strain.json) |
 | Atomfall: Wicked Isle | 344476 | [344476-atomfall-wicked-isle.json](./344476-atomfall-wicked-isle.json) |
 | AtomHex | 67943 | [67943-atomhex.json](./67943-atomhex.json) |
+| Atomic | 324958 | [324958-atomic.json](./324958-atomic.json) |
 | Atomic 79 | 30119 | [30119-atomic-79.json](./30119-atomic-79.json) |
 | Atomic Bomber | 96671 | [96671-atomic-bomber.json](./96671-atomic-bomber.json) |
 | Atomic Bomberman | 18153 | [18153-atomic-bomberman.json](./18153-atomic-bomberman.json) |
@@ -8370,6 +8381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axxx: Taught and Fucked | 375949 | [375949-axxx-taught-and-fucked.json](./375949-axxx-taught-and-fucked.json) |
 | AxySnake | 93184 | [93184-axysnake.json](./93184-axysnake.json) |
 | Axyz | 293648 | [293648-axyz.json](./293648-axyz.json) |
+| Aya | 324963 | [324963-aya.json](./324963-aya.json) |
 | Aya Go | 91740 | [91740-aya-go.json](./91740-aya-go.json) |
 | Ayakashi & Sweets | 298879 | [298879-ayakashi-and-sweets.json](./298879-ayakashi-and-sweets.json) |
 | Ayakashi Koi Gikyoku -Forbidden Romance with Mysterious Spirit- | 106974 | [106974-ayakashi-koi-gikyoku-forbidden-romance-with-mysterious-spirit.json](./106974-ayakashi-koi-gikyoku-forbidden-romance-with-mysterious-spirit.json) |
