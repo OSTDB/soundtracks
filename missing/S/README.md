@@ -4204,6 +4204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiny the Firefly | 10823 | [10823-shiny-the-firefly.json](./10823-shiny-the-firefly.json) |
 | Shiny-Man-Adventures | 211751 | [211751-shiny-man-adventures.json](./211751-shiny-man-adventures.json) |
 | Shiny: Deluxe Edition | 118929 | [118929-shiny-deluxe-edition.json](./118929-shiny-deluxe-edition.json) |
+| Shinya Ichi-ji no Koukanshu | 329234 | [329234-shinya-ichi-ji-no-koukanshu.json](./329234-shinya-ichi-ji-no-koukanshu.json) |
 | Shinya Ichizoku: The Battle for Hokkaido's Delicious Foods | 186908 | [186908-shinya-ichizoku-the-battle-for-hokkaidos-delicious-foods.json](./186908-shinya-ichizoku-the-battle-for-hokkaidos-delicious-foods.json) |
 | Shinyaku Boushi Sekai | 396208 | [396208-shinyaku-boushi-sekai.json](./396208-shinyaku-boushi-sekai.json) |
 | Shinyuu no Haha Kumiko: Ana no Ichi kara Haramase Kata made Subete Kanojo ga Oshiete Kureta | 83000 | [83000-shinyuu-no-haha-kumiko-ana-no-ichi-kara-haramase-kata-made-subete-kanojo-ga-oshiete-kureta.json](./83000-shinyuu-no-haha-kumiko-ana-no-ichi-kara-haramase-kata-made-subete-kanojo-ga-oshiete-kureta.json) |
@@ -6441,6 +6442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slice It! | 147957 | [147957-slice-it.json](./147957-slice-it.json) |
 | Slice It! | 21585 | [21585-slice-it.json](./21585-slice-it.json) |
 | Slice N' Hook | 67335 | [67335-slice-n-hook.json](./67335-slice-n-hook.json) |
+| Slice of Ages | 329055 | [329055-slice-of-ages.json](./329055-slice-of-ages.json) |
 | Slice of Life Fantasy | 191192 | [191192-slice-of-life-fantasy.json](./191192-slice-of-life-fantasy.json) |
 | Slice of Scythe | 179601 | [179601-slice-of-scythe.json](./179601-slice-of-scythe.json) |
 | Slice Surge | 366327 | [366327-slice-surge.json](./366327-slice-surge.json) |
@@ -9218,6 +9220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Southern Lights: Broken Frequency | 410943 | [410943-southern-lights-broken-frequency.json](./410943-southern-lights-broken-frequency.json) |
 | Southern Monsters | 139315 | [139315-southern-monsters.json](./139315-southern-monsters.json) |
 | Southern Princesses | 212801 | [212801-southern-princesses.json](./212801-southern-princesses.json) |
+| Southside Racing | 329202 | [329202-southside-racing.json](./329202-southside-racing.json) |
 | Souzou Cliff | 181400 | [181400-souzou-cliff.json](./181400-souzou-cliff.json) |
 | Souzou no Memoria | 396936 | [396936-souzou-no-memoria.json](./396936-souzou-no-memoria.json) |
 | Soverain: An Eternal Legend | 377176 | [377176-soverain-an-eternal-legend.json](./377176-soverain-an-eternal-legend.json) |
@@ -11854,6 +11857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Chess | 11289 | [11289-star-wars-chess.json](./11289-star-wars-chess.json) |
 | Star Wars Collection | 54400 | [54400-star-wars-collection.json](./54400-star-wars-collection.json) |
 | Star Wars Episode I: The Phantom Menace | 158 | [158-star-wars-episode-i-the-phantom-menace.json](./158-star-wars-episode-i-the-phantom-menace.json) |
+| Star Wars Episode I: The Phantom Menace | 329227 | [329227-star-wars-episode-i-the-phantom-menace.json](./329227-star-wars-episode-i-the-phantom-menace.json) |
 | Star Wars Galaxies Trading Card Games : Champions of the Force | 72636 | [72636-star-wars-galaxies-trading-card-games-champions-of-the-force.json](./72636-star-wars-galaxies-trading-card-games-champions-of-the-force.json) |
 | Star Wars Galaxies: Ancient Empire | 376116 | [376116-star-wars-galaxies-ancient-empire.json](./376116-star-wars-galaxies-ancient-empire.json) |
 | Star Wars Galaxies: The Complete Online Adventures | 150523 | [150523-star-wars-galaxies-the-complete-online-adventures.json](./150523-star-wars-galaxies-the-complete-online-adventures.json) |
