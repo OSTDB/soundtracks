@@ -1212,6 +1212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Data Strafer | 390239 | [390239-data-strafer.json](./390239-data-strafer.json) |
 | Data Trader | 399058 | [399058-data-trader.json](./399058-data-trader.json) |
 | Data Wing | 82502 | [82502-data-wing.json](./82502-data-wing.json) |
+| Data Worm | 281024 | [281024-data-worm.json](./281024-data-worm.json) |
 | Data: Corruption | 375445 | [375445-data-corruption.json](./375445-data-corruption.json) |
 | Data.Expand | 260146 | [260146-data-expand.json](./260146-data-expand.json) |
 | Database Detective: Minor Crimes Division | 399848 | [399848-database-detective-minor-crimes-division.json](./399848-database-detective-minor-crimes-division.json) |
@@ -2664,6 +2665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender | 346133 | [346133-defender.json](./346133-defender.json) |
 | Defender 2000 | 40817 | [40817-defender-2000.json](./40817-defender-2000.json) |
 | Defender II | 182401 | [182401-defender-ii.json](./182401-defender-ii.json) |
+| Defender II | 281044 | [281044-defender-ii.json](./281044-defender-ii.json) |
 | Defender II | 344003 | [344003-defender-ii.json](./344003-defender-ii.json) |
 | Defender II | 48902 | [48902-defender-ii.json](./48902-defender-ii.json) |
 | Defender of Diosa | 341090 | [341090-defender-of-diosa.json](./341090-defender-of-diosa.json) |
@@ -6924,6 +6926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drachen Zor | 94011 | [94011-drachen-zor.json](./94011-drachen-zor.json) |
 | Draco | 130248 | [130248-draco.json](./130248-draco.json) |
 | Draco | 151163 | [151163-draco.json](./151163-draco.json) |
+| Draco D | 281039 | [281039-draco-d.json](./281039-draco-d.json) |
 | Draco Dux | 33069 | [33069-draco-dux.json](./33069-draco-dux.json) |
 | Draco Space X | 151620 | [151620-draco-space-x.json](./151620-draco-space-x.json) |
 | Draco's Misfortune | 110990 | [110990-dracos-misfortune.json](./110990-dracos-misfortune.json) |
