@@ -158,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raccoon the Miner | 129669 | [129669-raccoon-the-miner.json](./129669-raccoon-the-miner.json) |
 | Raccoon Unhappy | 199916 | [199916-raccoon-unhappy.json](./199916-raccoon-unhappy.json) |
 | Raccoon Valley Tycoon | 373083 | [373083-raccoon-valley-tycoon.json](./373083-raccoon-valley-tycoon.json) |
+| Raccooneering | 306601 | [306601-raccooneering.json](./306601-raccooneering.json) |
 | Raccoonwave | 307120 | [307120-raccoonwave.json](./307120-raccoonwave.json) |
 | Race 07 | 10380 | [10380-race-07.json](./10380-race-07.json) |
 | Race 07: Formula RaceRoom | 120183 | [120183-race-07-formula-raceroom.json](./120183-race-07-formula-raceroom.json) |
@@ -3530,6 +3531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riddle School 5 | 180138 | [180138-riddle-school-5.json](./180138-riddle-school-5.json) |
 | Riddle School 5: Legacy Edition | 180139 | [180139-riddle-school-5-legacy-edition.json](./180139-riddle-school-5-legacy-edition.json) |
 | Riddle School: Legacy Edition | 180003 | [180003-riddle-school-legacy-edition.json](./180003-riddle-school-legacy-edition.json) |
+| Riddle Tower | 306586 | [306586-riddle-tower.json](./306586-riddle-tower.json) |
 | Riddle Tower: Halloween DLC | 318433 | [318433-riddle-tower-halloween-dlc.json](./318433-riddle-tower-halloween-dlc.json) |
 | Riddle Transfer | 180140 | [180140-riddle-transfer.json](./180140-riddle-transfer.json) |
 | Riddle Transfer 2 | 180142 | [180142-riddle-transfer-2.json](./180142-riddle-transfer-2.json) |
