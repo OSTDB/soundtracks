@@ -175,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fables of the Kingdom V: Collector's Edition | 337250 | [337250-fables-of-the-kingdom-v-collectors-edition.json](./337250-fables-of-the-kingdom-v-collectors-edition.json) |
 | Fablewood Chronicles | 413112 | [413112-fablewood-chronicles.json](./413112-fablewood-chronicles.json) |
 | Fabular: Once upon a Spacetime | 116429 | [116429-fabular-once-upon-a-spacetime.json](./116429-fabular-once-upon-a-spacetime.json) |
+| Fábulas Porteñas | 316123 | [316123-fabulas-portenas.json](./316123-fabulas-portenas.json) |
 | Fabuloso's Fantastic Flight | 343380 | [343380-fabulosos-fantastic-flight.json](./343380-fabulosos-fantastic-flight.json) |
 | Fabulous Angela: New York to LA | 124171 | [124171-fabulous-angela-new-york-to-la.json](./124171-fabulous-angela-new-york-to-la.json) |
 | Fabulous Finds | 67652 | [67652-fabulous-finds.json](./67652-fabulous-finds.json) |
@@ -1083,6 +1084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faptastic Journey | 194316 | [194316-faptastic-journey.json](./194316-faptastic-journey.json) |
 | Far a Night | 389617 | [389617-far-a-night.json](./389617-far-a-night.json) |
 | Far Away Train | 150527 | [150527-far-away-train.json](./150527-far-away-train.json) |
+| Far Cry 2 | 317303 | [317303-far-cry-2.json](./317303-far-cry-2.json) |
 | Far Cry 3: High Tides | 284318 | [284318-far-cry-3-high-tides.json](./284318-far-cry-3-high-tides.json) |
 | Far Cry 3: Wish You Were Here Edition | 51544 | [51544-far-cry-3-wish-you-were-here-edition.json](./51544-far-cry-3-wish-you-were-here-edition.json) |
 | Far Cry 4 + Far Cry: Primal Bundle | 164801 | [164801-far-cry-4-far-cry-primal-bundle.json](./164801-far-cry-4-far-cry-primal-bundle.json) |
@@ -2902,6 +2904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firebugs | 43859 | [43859-firebugs.json](./43859-firebugs.json) |
 | FireChess | 275108 | [275108-firechess.json](./275108-firechess.json) |
 | Firecrackers | 393133 | [393133-firecrackers.json](./393133-firecrackers.json) |
+| Firedog: Swooce & Rescue | 316167 | [316167-firedog-swooce-and-rescue.json](./316167-firedog-swooce-and-rescue.json) |
 | FireFall | 3013 | [3013-firefall.json](./3013-firefall.json) |
 | Firefight | 121746 | [121746-firefight.json](./121746-firefight.json) |
 | Firefighter Command: Raging Inferno | 22631 | [22631-firefighter-command-raging-inferno.json](./22631-firefighter-command-raging-inferno.json) |
@@ -5259,6 +5262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fox-Trot Over Run | 130970 | [130970-fox-trot-over-run.json](./130970-fox-trot-over-run.json) |
 | Fox's Peter Pan & The Pirates: The Revenge of Captain Hook | 72710 | [72710-foxs-peter-pan-and-the-pirates-the-revenge-of-captain-hook.json](./72710-foxs-peter-pan-and-the-pirates-the-revenge-of-captain-hook.json) |
 | Foxblade | 244872 | [244872-foxblade.json](./244872-foxblade.json) |
+| Foxblade Fable | 316168 | [316168-foxblade-fable.json](./316168-foxblade-fable.json) |
 | Foxcrate | 383928 | [383928-foxcrate.json](./383928-foxcrate.json) |
 | Foxes and Cows | 178608 | [178608-foxes-and-cows.json](./178608-foxes-and-cows.json) |
 | Foxfire | 404247 | [404247-foxfire.json](./404247-foxfire.json) |
@@ -5513,6 +5517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freaky Trip: Winter Pack | 275052 | [275052-freaky-trip-winter-pack.json](./275052-freaky-trip-winter-pack.json) |
 | Freakyforms: Your Creations, Alive! | 6771 | [6771-freakyforms-your-creations-alive.json](./6771-freakyforms-your-creations-alive.json) |
 | Frebbventure | 215240 | [215240-frebbventure.json](./215240-frebbventure.json) |
+| Frebbventure Alliance | 316172 | [316172-frebbventure-alliance.json](./316172-frebbventure-alliance.json) |
 | Fred | 25841 | [25841-fred.json](./25841-fred.json) |
 | Fred | 85866 | [85866-fred.json](./85866-fred.json) |
 | Fred Fuches Around | 397693 | [397693-fred-fuches-around.json](./397693-fred-fuches-around.json) |
@@ -5570,6 +5575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Lives Collection | 300781 | [300781-free-lives-collection.json](./300781-free-lives-collection.json) |
 | Free Ninja | 317635 | [317635-free-ninja.json](./317635-free-ninja.json) |
 | Free Realms: Sunrise | 141650 | [141650-free-realms-sunrise.json](./141650-free-realms-sunrise.json) |
+| Free Skies | 316175 | [316175-free-skies.json](./316175-free-skies.json) |
 | Free Solitaire | 340250 | [340250-free-solitaire.json](./340250-free-solitaire.json) |
 | Free Solitaire: Cats | 340251 | [340251-free-solitaire-cats.json](./340251-free-solitaire-cats.json) |
 | Free Stars: Children of Infinity | 306085 | [306085-free-stars-children-of-infinity.json](./306085-free-stars-children-of-infinity.json) |
@@ -6091,6 +6097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frost World | 355574 | [355574-frost-world.json](./355574-frost-world.json) |
 | Frostbite | 364042 | [364042-frostbite.json](./364042-frostbite.json) |
 | FrostBite | 381039 | [381039-frostbite.json](./381039-frostbite.json) |
+| Frostbite Friends | 316179 | [316179-frostbite-friends.json](./316179-frostbite-friends.json) |
 | Frostbite: Deadly Climate | 105360 | [105360-frostbite-deadly-climate.json](./105360-frostbite-deadly-climate.json) |
 | Frostbitten | 199101 | [199101-frostbitten.json](./199101-frostbitten.json) |
 | Frostborn | 381040 | [381040-frostborn.json](./381040-frostborn.json) |
@@ -6782,6 +6789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futuridium EP Deluxe | 8500 | [8500-futuridium-ep-deluxe.json](./8500-futuridium-ep-deluxe.json) |
 | Futwatch | 69349 | [69349-futwatch.json](./69349-futwatch.json) |
 | Fuu | 393493 | [393493-fuu.json](./393493-fuu.json) |
+| Fuu3: Minus3’s Lab | 316181 | [316181-fuu3-minus3-s-lab.json](./316181-fuu3-minus3-s-lab.json) |
 | Fuu3's Fuun Journey | 265927 | [265927-fuu3s-fuun-journey.json](./265927-fuu3s-fuun-journey.json) |
 | FuuGaku: Hisshuu Kamoku wa Sei Jitsugi! H na Jugyou de One Two Step | 194589 | [194589-fuugaku-hisshuu-kamoku-wa-sei-jitsugi-h-na-jugyou-de-one-two-step.json](./194589-fuugaku-hisshuu-kamoku-wa-sei-jitsugi-h-na-jugyou-de-one-two-step.json) |
 | Fuuka σ Taisen | 294694 | [294694-fuuka-taisen.json](./294694-fuuka-taisen.json) |
