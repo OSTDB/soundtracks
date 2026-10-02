@@ -6499,6 +6499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funny Pizza Land | 123615 | [123615-funny-pizza-land.json](./123615-funny-pizza-land.json) |
 | Funny Racer | 291008 | [291008-funny-racer.json](./291008-funny-racer.json) |
 | Funny Racer | 305350 | [305350-funny-racer.json](./305350-funny-racer.json) |
+| Funny Rain | 314924 | [314924-funny-rain.json](./314924-funny-rain.json) |
 | Funny words | 103911 | [103911-funny-words.json](./103911-funny-words.json) |
 | Funny Yo | 96901 | [96901-funny-yo.json](./96901-funny-yo.json) |
 | FunnyJoy: Brain on Line | 95999 | [95999-funnyjoy-brain-on-line.json](./95999-funnyjoy-brain-on-line.json) |
