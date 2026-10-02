@@ -5952,6 +5952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski Crazed | 138595 | [138595-ski-crazed.json](./138595-ski-crazed.json) |
 | Ski Doom VR | 167579 | [167579-ski-doom-vr.json](./167579-ski-doom-vr.json) |
 | Ski Drive: Biathlon | 113855 | [113855-ski-drive-biathlon.json](./113855-ski-drive-biathlon.json) |
+| Ski Game | 295464 | [295464-ski-game.json](./295464-ski-game.json) |
 | Ski Girl Superstar | 88799 | [88799-ski-girl-superstar.json](./88799-ski-girl-superstar.json) |
 | Ski Hunt | 40796 | [40796-ski-hunt.json](./40796-ski-hunt.json) |
 | Ski Jump International v2 | 342080 | [342080-ski-jump-international-v2.json](./342080-ski-jump-international-v2.json) |
@@ -7918,6 +7919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokorobot | 327980 | [327980-sokorobot.json](./327980-sokorobot.json) |
 | Sokorun: One Box | 209673 | [209673-sokorun-one-box.json](./209673-sokorun-one-box.json) |
 | Sokos | 33053 | [33053-sokos.json](./33053-sokos.json) |
+| Sokoseed | 295487 | [295487-sokoseed.json](./295487-sokoseed.json) |
 | Sokosignal | 219596 | [219596-sokosignal.json](./219596-sokosignal.json) |
 | Sokotale | 141851 | [141851-sokotale.json](./141851-sokotale.json) |
 | SokoTerm | 379050 | [379050-sokoterm.json](./379050-sokoterm.json) |
@@ -9409,6 +9411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Southern Monsters | 139315 | [139315-southern-monsters.json](./139315-southern-monsters.json) |
 | Southern Princesses | 212801 | [212801-southern-princesses.json](./212801-southern-princesses.json) |
 | Southside Racing | 329202 | [329202-southside-racing.json](./329202-southside-racing.json) |
+| Souvenir | 295509 | [295509-souvenir.json](./295509-souvenir.json) |
 | Souzou Cliff | 181400 | [181400-souzou-cliff.json](./181400-souzou-cliff.json) |
 | Souzou no Memoria | 396936 | [396936-souzou-no-memoria.json](./396936-souzou-no-memoria.json) |
 | Soverain: An Eternal Legend | 377176 | [377176-soverain-an-eternal-legend.json](./377176-soverain-an-eternal-legend.json) |
@@ -10458,6 +10461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellarium 14: Collector's Edition | 416771 | [416771-spellarium-14-collectors-edition.json](./416771-spellarium-14-collectors-edition.json) |
 | Spellarium 2 | 298089 | [298089-spellarium-2.json](./298089-spellarium-2.json) |
 | Spellarium 4 | 293703 | [293703-spellarium-4.json](./293703-spellarium-4.json) |
+| Spellarium 5 | 295476 | [295476-spellarium-5.json](./295476-spellarium-5.json) |
 | Spellarium 8 Match 3 Puzzle | 202665 | [202665-spellarium-8-match-3-puzzle.json](./202665-spellarium-8-match-3-puzzle.json) |
 | Spellbearers | 138670 | [138670-spellbearers.json](./138670-spellbearers.json) |
 | Spellbind | 18183 | [18183-spellbind.json](./18183-spellbind.json) |
@@ -15009,6 +15013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Action Football | 40908 | [40908-super-action-football.json](./40908-super-action-football.json) |
 | Super Action Pak | 56452 | [56452-super-action-pak.json](./56452-super-action-pak.json) |
 | Super Action Soccer | 40907 | [40907-super-action-soccer.json](./40907-super-action-soccer.json) |
+| Super Adventure | 295492 | [295492-super-adventure.json](./295492-super-adventure.json) |
 | Super Adventure Island | 9064 | [9064-super-adventure-island.json](./9064-super-adventure-island.json) |
 | Super Adventurer | 61021 | [61021-super-adventurer.json](./61021-super-adventurer.json) |
 | Super Airwolf | 45548 | [45548-super-airwolf.json](./45548-super-airwolf.json) |
@@ -15248,6 +15253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Destronaut 2: Go Duck Yourself | 84917 | [84917-super-destronaut-2-go-duck-yourself.json](./84917-super-destronaut-2-go-duck-yourself.json) |
 | Super Destronaut 3D | 84916 | [84916-super-destronaut-3d.json](./84916-super-destronaut-3d.json) |
 | Super Destronaut DX | 104862 | [104862-super-destronaut-dx.json](./104862-super-destronaut-dx.json) |
+| Super Destronaut: Landed X Loaded | 295474 | [295474-super-destronaut-landed-x-loaded.json](./295474-super-destronaut-landed-x-loaded.json) |
 | Super Destroyer | 378394 | [378394-super-destroyer.json](./378394-super-destroyer.json) |
 | Super Diagonal Mario 2: The Ultimate Meme Machine | 267944 | [267944-super-diagonal-mario-2-the-ultimate-meme-machine.json](./267944-super-diagonal-mario-2-the-ultimate-meme-machine.json) |
 | Super Dig Man Deluxe | 339478 | [339478-super-dig-man-deluxe.json](./339478-super-dig-man-deluxe.json) |
@@ -16609,6 +16615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superfly Santa Claus | 62212 | [62212-superfly-santa-claus.json](./62212-superfly-santa-claus.json) |
 | Superguy and Megaboy | 316615 | [316615-superguy-and-megaboy.json](./316615-superguy-and-megaboy.json) |
 | SuperHero | 161259 | [161259-superhero.json](./161259-superhero.json) |
+| Superhero Cats | 295493 | [295493-superhero-cats.json](./295493-superhero-cats.json) |
 | Superhero Fight | 193333 | [193333-superhero-fight.json](./193333-superhero-fight.json) |
 | Superhero Fighting Game | 59875 | [59875-superhero-fighting-game.json](./59875-superhero-fighting-game.json) |
 | Superhero Girl Salon: Kids Makeup and Dressup Game | 88037 | [88037-superhero-girl-salon-kids-makeup-and-dressup-game.json](./88037-superhero-girl-salon-kids-makeup-and-dressup-game.json) |
@@ -16825,6 +16832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surfatron | 103174 | [103174-surfatron.json](./103174-surfatron.json) |
 | Surfer Girl Makeover | 99997 | [99997-surfer-girl-makeover.json](./99997-surfer-girl-makeover.json) |
 | Surferboy | 346044 | [346044-surferboy.json](./346044-surferboy.json) |
+| Surfers Code | 295511 | [295511-surfers-code.json](./295511-surfers-code.json) |
 | Surfin' Sam: Attack of the Aqualites | 85416 | [85416-surfin-sam-attack-of-the-aqualites.json](./85416-surfin-sam-attack-of-the-aqualites.json) |
 | Surfing H3O | 43344 | [43344-surfing-h3o.json](./43344-surfing-h3o.json) |
 | Surfing Legends | 260253 | [260253-surfing-legends.json](./260253-surfing-legends.json) |
