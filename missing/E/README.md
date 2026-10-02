@@ -241,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easter Clicker: Idle Manager | 118339 | [118339-easter-clicker-idle-manager.json](./118339-easter-clicker-idle-manager.json) |
 | Easter Day Solitaire | 339789 | [339789-easter-day-solitaire.json](./339789-easter-day-solitaire.json) |
 | Easter Egg | 127225 | [127225-easter-egg.json](./127225-easter-egg.json) |
+| Easter Egg Bundle | 279229 | [279229-easter-egg-bundle.json](./279229-easter-egg-bundle.json) |
 | Easter Eggs | 41493 | [41493-easter-eggs.json](./41493-easter-eggs.json) |
 | Easter Eggztravaganza 2 | 418548 | [418548-easter-eggztravaganza-2.json](./418548-easter-eggztravaganza-2.json) |
 | Easter Jewels HD | 87068 | [87068-easter-jewels-hd.json](./87068-easter-jewels-hd.json) |
