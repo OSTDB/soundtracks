@@ -2432,6 +2432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LightStrike | 29784 | [29784-lightstrike.json](./29784-lightstrike.json) |
 | LightSup! | 259021 | [259021-lightsup.json](./259021-lightsup.json) |
 | LightUp! | 186248 | [186248-lightup.json](./186248-lightup.json) |
+| Lightvayne: Adventure on Volcanus Island | 322650 | [322650-lightvayne-adventure-on-volcanus-island.json](./322650-lightvayne-adventure-on-volcanus-island.json) |
 | LightWalk | 33096 | [33096-lightwalk.json](./33096-lightwalk.json) |
 | LightWave | 155657 | [155657-lightwave.json](./155657-lightwave.json) |
 | LightWeight Ninja | 73531 | [73531-lightweight-ninja.json](./73531-lightweight-ninja.json) |
