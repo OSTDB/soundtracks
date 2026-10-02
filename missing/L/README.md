@@ -391,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landnav | 197380 | [197380-landnav.json](./197380-landnav.json) |
 | Lando: Me? A Hero? | 321422 | [321422-lando-me-a-hero.json](./321422-lando-me-a-hero.json) |
 | Landomayzer | 370122 | [370122-landomayzer.json](./370122-landomayzer.json) |
+| Landoria | 296637 | [296637-landoria.json](./296637-landoria.json) |
 | LandPort | 201005 | [201005-landport.json](./201005-landport.json) |
 | Landrocker | 149513 | [149513-landrocker.json](./149513-landrocker.json) |
 | Lands of Achra | 347708 | [347708-lands-of-achra.json](./347708-lands-of-achra.json) |
@@ -2841,6 +2842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Litguy Adventure | 213390 | [213390-litguy-adventure.json](./213390-litguy-adventure.json) |
 | Lithium City | 134543 | [134543-lithium-city.json](./134543-lithium-city.json) |
 | Lithium: Inmate 39 | 25876 | [25876-lithium-inmate-39.json](./25876-lithium-inmate-39.json) |
+| Litter ShiFu | 296623 | [296623-litter-shifu.json](./296623-litter-shifu.json) |
 | Little Acorns | 64956 | [64956-little-acorns.json](./64956-little-acorns.json) |
 | Little adventure 2 | 161167 | [161167-little-adventure-2.json](./161167-little-adventure-2.json) |
 | Little Adventure Tale | 325834 | [325834-little-adventure-tale.json](./325834-little-adventure-tale.json) |
