@@ -106,6 +106,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Berks | 60533 | [60533-baby-berks.json](./60533-baby-berks.json) |
 | Baby Blimp | 177054 | [177054-baby-blimp.json](./177054-baby-blimp.json) |
 | Baby Boomer | 48107 | [48107-baby-boomer.json](./48107-baby-boomer.json) |
+| Baby Bump 2 | 313726 | [313726-baby-bump-2.json](./313726-baby-bump-2.json) |
+| Baby Bump: Book 1 | 313725 | [313725-baby-bump-book-1.json](./313725-baby-bump-book-1.json) |
 | Baby Carbonara | 404968 | [404968-baby-carbonara.json](./404968-baby-carbonara.json) |
 | Baby Eater | 26127 | [26127-baby-eater.json](./26127-baby-eater.json) |
 | Baby Escape | 400220 | [400220-baby-escape.json](./400220-baby-escape.json) |
@@ -3178,6 +3180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bergen Bridge Expert | 90842 | [90842-bergen-bridge-expert.json](./90842-bergen-bridge-expert.json) |
 | Bergen Bridge Intermediate 1 | 95562 | [95562-bergen-bridge-intermediate-1.json](./95562-bergen-bridge-intermediate-1.json) |
 | Bergentruck 201X | 359045 | [359045-bergentruck-201x.json](./359045-bergentruck-201x.json) |
+| Berghain Trainer | 313778 | [313778-berghain-trainer.json](./313778-berghain-trainer.json) |
 | Berghotel Heist | 365817 | [365817-berghotel-heist.json](./365817-berghotel-heist.json) |
 | Berkeley's Maid: Remake Edition | 298059 | [298059-berkeleys-maid-remake-edition.json](./298059-berkeleys-maid-remake-edition.json) |
 | Berks | 60532 | [60532-berks.json](./60532-berks.json) |
@@ -3729,6 +3732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Offroad Simulator | 248033 | [248033-bike-offroad-simulator.json](./248033-bike-offroad-simulator.json) |
 | Bike Racer 2018 | 105866 | [105866-bike-racer-2018.json](./105866-bike-racer-2018.json) |
 | Bike Racing | 91109 | [91109-bike-racing.json](./91109-bike-racing.json) |
+| Bike Rampage! | 313776 | [313776-bike-rampage.json](./313776-bike-rampage.json) |
 | Bike Rush | 227508 | [227508-bike-rush.json](./227508-bike-rush.json) |
 | Bike Rush | 73170 | [73170-bike-rush.json](./73170-bike-rush.json) |
 | Bike Stunt Master | 105960 | [105960-bike-stunt-master.json](./105960-bike-stunt-master.json) |
@@ -4644,6 +4648,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blades of Exile | 19579 | [19579-blades-of-exile.json](./19579-blades-of-exile.json) |
 | Blades of Fury | 23260 | [23260-blades-of-fury.json](./23260-blades-of-fury.json) |
 | Blades of Heaven | 72174 | [72174-blades-of-heaven.json](./72174-blades-of-heaven.json) |
+| Blades of Light & Shadow | 313744 | [313744-blades-of-light-and-shadow.json](./313744-blades-of-light-and-shadow.json) |
+| Blades of Light & Shadow II | 313745 | [313745-blades-of-light-and-shadow-ii.json](./313745-blades-of-light-and-shadow-ii.json) |
 | Blades of Orterra | 89665 | [89665-blades-of-orterra.json](./89665-blades-of-orterra.json) |
 | Blades of Passage | 297482 | [297482-blades-of-passage.json](./297482-blades-of-passage.json) |
 | Blades of Steel | 280812 | [280812-blades-of-steel.json](./280812-blades-of-steel.json) |
