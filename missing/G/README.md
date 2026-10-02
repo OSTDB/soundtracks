@@ -1523,6 +1523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genso Skydrift Reborn | 114541 | [114541-genso-skydrift-reborn.json](./114541-genso-skydrift-reborn.json) |
 | Gensokyo no Nazo | 62253 | [62253-gensokyo-no-nazo.json](./62253-gensokyo-no-nazo.json) |
 | Gensokyo Odyssey | 192364 | [192364-gensokyo-odyssey.json](./192364-gensokyo-odyssey.json) |
+| Gensokyo Pro Wrestling Muscle Tag Match | 287891 | [287891-gensokyo-pro-wrestling-muscle-tag-match.json](./287891-gensokyo-pro-wrestling-muscle-tag-match.json) |
 | Gensokyo Rolling Force | 105313 | [105313-gensokyo-rolling-force.json](./105313-gensokyo-rolling-force.json) |
 | Gensokyo: Presumption of Guilt - Pansies Before Dawn | 311149 | [311149-gensokyo-presumption-of-guilt-pansies-before-dawn.json](./311149-gensokyo-presumption-of-guilt-pansies-before-dawn.json) |
 | Gensou Maden Saiyuuki: Hangyaku no Toshin Taishi | 49606 | [49606-gensou-maden-saiyuuki-hangyaku-no-toshin-taishi.json](./49606-gensou-maden-saiyuuki-hangyaku-no-toshin-taishi.json) |
@@ -5068,6 +5069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guitar Hero: Van Halen | 2675 | [2675-guitar-hero-van-halen.json](./2675-guitar-hero-van-halen.json) |
 | Guitar Hero: Warriors of Rock | 2629 | [2629-guitar-hero-warriors-of-rock.json](./2629-guitar-hero-warriors-of-rock.json) |
 | Guitar Jam | 266894 | [266894-guitar-jam.json](./266894-guitar-jam.json) |
+| Guitar Life: Lesson 1 | 287887 | [287887-guitar-life-lesson-1.json](./287887-guitar-life-lesson-1.json) |
 | Guitar Praise: Expansion Pack 1 | 240173 | [240173-guitar-praise-expansion-pack-1.json](./240173-guitar-praise-expansion-pack-1.json) |
 | Guitar Praise: Solid Rock | 72638 | [72638-guitar-praise-solid-rock.json](./72638-guitar-praise-solid-rock.json) |
 | Guitar Praise: Stryper | 240172 | [240172-guitar-praise-stryper.json](./240172-guitar-praise-stryper.json) |
