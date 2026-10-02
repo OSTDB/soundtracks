@@ -871,6 +871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Zombie Shelter | 200729 | [200729-idle-zombie-shelter.json](./200729-idle-zombie-shelter.json) |
 | Idle Zoo Park | 260661 | [260661-idle-zoo-park.json](./260661-idle-zoo-park.json) |
 | Idleant | 376104 | [376104-idleant.json](./376104-idleant.json) |
+| IdleCoin | 301497 | [301497-idlecoin.json](./301497-idlecoin.json) |
 | IdleCraft | 289438 | [289438-idlecraft.json](./289438-idlecraft.json) |
 | IdleDragon | 379011 | [379011-idledragon.json](./379011-idledragon.json) |
 | Idlemon | 390637 | [390637-idlemon.json](./390637-idlemon.json) |
