@@ -2492,6 +2492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Royale | 120266 | [120266-tetris-royale.json](./120266-tetris-royale.json) |
 | Tetris Secret | 130931 | [130931-tetris-secret.json](./130931-tetris-secret.json) |
 | Tetris Splash | 20766 | [20766-tetris-splash.json](./20766-tetris-splash.json) |
+| Tetris Time Warp | 333775 | [333775-tetris-time-warp.json](./333775-tetris-time-warp.json) |
 | Tetris Zone | 78032 | [78032-tetris-zone.json](./78032-tetris-zone.json) |
 | Tetris: Flower Garden | 195739 | [195739-tetris-flower-garden.json](./195739-tetris-flower-garden.json) |
 | Tetris: Rosy Retrospection | 247519 | [247519-tetris-rosy-retrospection.json](./247519-tetris-rosy-retrospection.json) |
@@ -11762,6 +11763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Duel List | 151704 | [151704-to-duel-list.json](./151704-to-duel-list.json) |
 | To Dust | 259824 | [259824-to-dust.json](./259824-to-dust.json) |
 | To End All Wars: Breaking the Deadlock | 171955 | [171955-to-end-all-wars-breaking-the-deadlock.json](./171955-to-end-all-wars-breaking-the-deadlock.json) |
+| To Fight The Sea | 333704 | [333704-to-fight-the-sea.json](./333704-to-fight-the-sea.json) |
 | To Hell in a Hamper | 60019 | [60019-to-hell-in-a-hamper.json](./60019-to-hell-in-a-hamper.json) |
 | To Hell With the Ugly | 158137 | [158137-to-hell-with-the-ugly.json](./158137-to-hell-with-the-ugly.json) |
 | To Kill A Black Swan | 183371 | [183371-to-kill-a-black-swan.json](./183371-to-kill-a-black-swan.json) |
@@ -15837,6 +15839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turtle Lu | 90133 | [90133-turtle-lu.json](./90133-turtle-lu.json) |
 | Turtle Odyssey | 34157 | [34157-turtle-odyssey.json](./34157-turtle-odyssey.json) |
 | Turtle Racing | 331872 | [331872-turtle-racing.json](./331872-turtle-racing.json) |
+| Turtle Riders: Adventure Begins | 333796 | [333796-turtle-riders-adventure-begins.json](./333796-turtle-riders-adventure-begins.json) |
 | Turtle River RPG | 304564 | [304564-turtle-river-rpg.json](./304564-turtle-river-rpg.json) |
 | Turtle Rush | 122368 | [122368-turtle-rush.json](./122368-turtle-rush.json) |
 | Turtle Ship | 38554 | [38554-turtle-ship.json](./38554-turtle-ship.json) |
