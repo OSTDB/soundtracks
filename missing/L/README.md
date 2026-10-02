@@ -4602,6 +4602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky One | 273973 | [273973-lucky-one.json](./273973-lucky-one.json) |
 | Lucky Paradox | 239300 | [239300-lucky-paradox.json](./239300-lucky-paradox.json) |
 | Lucky Penguin | 141104 | [141104-lucky-penguin.json](./141104-lucky-penguin.json) |
+| Lucky Penguin | 312232 | [312232-lucky-penguin.json](./312232-lucky-penguin.json) |
 | Lucky Pikinini: Zombie Rampage | 325870 | [325870-lucky-pikinini-zombie-rampage.json](./325870-lucky-pikinini-zombie-rampage.json) |
 | Lucky Pirates | 346066 | [346066-lucky-pirates.json](./346066-lucky-pirates.json) |
 | Lucky Punk | 402372 | [402372-lucky-punk.json](./402372-lucky-punk.json) |
