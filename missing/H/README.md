@@ -497,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hammerhead | 343954 | [343954-hammerhead.json](./343954-hammerhead.json) |
 | Hammerhead | 406308 | [406308-hammerhead.json](./406308-hammerhead.json) |
 | HammerHelm | 47136 | [47136-hammerhelm.json](./47136-hammerhelm.json) |
+| Hämmeri | 298825 | [298825-hammeri.json](./298825-hammeri.json) |
 | Hammerin' Harry 2: Dan the Red Strikes Back - Collector's Edition | 306987 | [306987-hammerin-harry-2-dan-the-red-strikes-back-collectors-edition.json](./306987-hammerin-harry-2-dan-the-red-strikes-back-collectors-edition.json) |
 | Hammerin' Harry: Collector's Edition | 306986 | [306986-hammerin-harry-collectors-edition.json](./306986-hammerin-harry-collectors-edition.json) |
 | Hammerin' Harry: Concrete Collection | 306988 | [306988-hammerin-harry-concrete-collection.json](./306988-hammerin-harry-concrete-collection.json) |
