@@ -1740,6 +1740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive 6: Nyotengu | 341667 | [341667-dead-or-alive-6-nyotengu.json](./341667-dead-or-alive-6-nyotengu.json) |
 | Dead or Alive New Project | 389426 | [389426-dead-or-alive-new-project.json](./389426-dead-or-alive-new-project.json) |
 | Dead or Alive Online | 66770 | [66770-dead-or-alive-online.json](./66770-dead-or-alive-online.json) |
+| Dead or Alive Ultimate | 318500 | [318500-dead-or-alive-ultimate.json](./318500-dead-or-alive-ultimate.json) |
 | Dead or Alive Xtreme 3 Fortune: Collector's Edition | 166233 | [166233-dead-or-alive-xtreme-3-fortune-collectors-edition.json](./166233-dead-or-alive-xtreme-3-fortune-collectors-edition.json) |
 | Dead or Alive Xtreme 3: Fortune - VR Paradise | 26930 | [26930-dead-or-alive-xtreme-3-fortune-vr-paradise.json](./26930-dead-or-alive-xtreme-3-fortune-vr-paradise.json) |
 | Dead or Alive Xtreme 3: Saikyou Package | 167033 | [167033-dead-or-alive-xtreme-3-saikyou-package.json](./167033-dead-or-alive-xtreme-3-saikyou-package.json) |
@@ -5458,6 +5459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodge Master | 30120 | [30120-dodge-master.json](./30120-dodge-master.json) |
 | Dodge Racing: Charger vs Challenger | 197942 | [197942-dodge-racing-charger-vs-challenger.json](./197942-dodge-racing-charger-vs-challenger.json) |
 | Dodge Spree | 326170 | [326170-dodge-spree.json](./326170-dodge-spree.json) |
+| Dodge Spree X | 318526 | [318526-dodge-spree-x.json](./318526-dodge-spree-x.json) |
 | Dodge the Creeps | 344390 | [344390-dodge-the-creeps.json](./344390-dodge-the-creeps.json) |
 | Dodge These Asteroids | 353961 | [353961-dodge-these-asteroids.json](./353961-dodge-these-asteroids.json) |
 | Dodge This | 291512 | [291512-dodge-this.json](./291512-dodge-this.json) |
@@ -8531,6 +8533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dune: Imperium | 263201 | [263201-dune-imperium.json](./263201-dune-imperium.json) |
 | Dune: Ornithopter Assault | 150594 | [150594-dune-ornithopter-assault.json](./150594-dune-ornithopter-assault.json) |
 | Dunebound Tactics | 320131 | [320131-dunebound-tactics.json](./320131-dunebound-tactics.json) |
+| DuneCrawl | 318505 | [318505-dunecrawl.json](./318505-dunecrawl.json) |
 | Dunes of Valor | 303498 | [303498-dunes-of-valor.json](./303498-dunes-of-valor.json) |
 | Dunestake | 361835 | [361835-dunestake.json](./361835-dunestake.json) |
 | Dung Battles | 390799 | [390799-dung-battles.json](./390799-dung-battles.json) |
