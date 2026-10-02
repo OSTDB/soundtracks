@@ -535,6 +535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Chess | 413901 | [413901-magic-chess.json](./413901-magic-chess.json) |
 | Magic Chess Online | 138575 | [138575-magic-chess-online.json](./138575-magic-chess-online.json) |
 | Magic Chess: Go Go | 330884 | [330884-magic-chess-go-go.json](./330884-magic-chess-go-go.json) |
+| Magic Christmas Escape | 315607 | [315607-magic-christmas-escape.json](./315607-magic-christmas-escape.json) |
 | Magic Christmas Escape 2 | 315611 | [315611-magic-christmas-escape-2.json](./315611-magic-christmas-escape-2.json) |
 | Magic Christmas Escape 3 | 315638 | [315638-magic-christmas-escape-3.json](./315638-magic-christmas-escape-3.json) |
 | Magic Christmas Escape 4 | 315639 | [315639-magic-christmas-escape-4.json](./315639-magic-christmas-escape-4.json) |
@@ -542,6 +543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic City Detective: The Carnival Begins - Collector's Edition | 304859 | [304859-magic-city-detective-the-carnival-begins-collectors-edition.json](./304859-magic-city-detective-the-carnival-begins-collectors-edition.json) |
 | Magic City Detective: The Carnival Begins DLC | 361772 | [361772-magic-city-detective-the-carnival-begins-dlc.json](./361772-magic-city-detective-the-carnival-begins-dlc.json) |
 | Magic City Detective: Wings of Revenge - Collector's Edition | 188023 | [188023-magic-city-detective-wings-of-revenge-collectors-edition.json](./188023-magic-city-detective-wings-of-revenge-collectors-edition.json) |
+| Magic Cliff Escape | 315554 | [315554-magic-cliff-escape.json](./315554-magic-cliff-escape.json) |
 | Magic Clouds | 117057 | [117057-magic-clouds.json](./117057-magic-clouds.json) |
 | Magic Code | 187863 | [187863-magic-code.json](./187863-magic-code.json) |
 | Magic Combat VR | 115181 | [115181-magic-combat-vr.json](./115181-magic-combat-vr.json) |
@@ -554,6 +556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Dodgeball: Homeless Edition | 361875 | [361875-magic-dodgeball-homeless-edition.json](./361875-magic-dodgeball-homeless-edition.json) |
 | Magic Duck | 287787 | [287787-magic-duck.json](./287787-magic-duck.json) |
 | Magic Dungeon Hero: Freedom or Death | 328102 | [328102-magic-dungeon-hero-freedom-or-death.json](./328102-magic-dungeon-hero-freedom-or-death.json) |
+| Magic Easter Escape | 315573 | [315573-magic-easter-escape.json](./315573-magic-easter-escape.json) |
 | Magic Encyclopedia: Illusions | 99383 | [99383-magic-encyclopedia-illusions.json](./99383-magic-encyclopedia-illusions.json) |
 | Magic Escape | 273468 | [273468-magic-escape.json](./273468-magic-escape.json) |
 | Magic Factory | 115047 | [115047-magic-factory.json](./115047-magic-factory.json) |
@@ -576,6 +579,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Griddlers | 156671 | [156671-magic-griddlers.json](./156671-magic-griddlers.json) |
 | Magic Griddlers 2 | 101555 | [101555-magic-griddlers-2.json](./101555-magic-griddlers-2.json) |
 | Magic Gun | 115171 | [115171-magic-gun.json](./115171-magic-gun.json) |
+| Magic Halloween Escape | 315601 | [315601-magic-halloween-escape.json](./315601-magic-halloween-escape.json) |
+| Magic Halloween Escape 2 | 315602 | [315602-magic-halloween-escape-2.json](./315602-magic-halloween-escape-2.json) |
+| Magic Halloween Escape 3 | 315603 | [315603-magic-halloween-escape-3.json](./315603-magic-halloween-escape-3.json) |
 | Magic Heart | 114996 | [114996-magic-heart.json](./114996-magic-heart.json) |
 | Magic Hero Incremental | 386446 | [386446-magic-hero-incremental.json](./386446-magic-hero-incremental.json) |
 | Magic Heroes | 120261 | [120261-magic-heroes.json](./120261-magic-heroes.json) |
@@ -597,6 +603,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Johnson's Basketball | 12835 | [12835-magic-johnsons-basketball.json](./12835-magic-johnsons-basketball.json) |
 | Magic Johnson's Basketball | 198808 | [198808-magic-johnsons-basketball.json](./198808-magic-johnsons-basketball.json) |
 | Magic Johnson's Fast Break | 48180 | [48180-magic-johnsons-fast-break.json](./48180-magic-johnsons-fast-break.json) |
+| Magic Jungle Escape | 315561 | [315561-magic-jungle-escape.json](./315561-magic-jungle-escape.json) |
+| Magic Jungle Escape 2 | 315562 | [315562-magic-jungle-escape-2.json](./315562-magic-jungle-escape-2.json) |
 | Magic Kaleidoscope | 257459 | [257459-magic-kaleidoscope.json](./257459-magic-kaleidoscope.json) |
 | Magic Kid Goo Goo | 48898 | [48898-magic-kid-goo-goo.json](./48898-magic-kid-goo-goo.json) |
 | Magic Kingdom | 213591 | [213591-magic-kingdom.json](./213591-magic-kingdom.json) |
@@ -621,6 +629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Micro Mission | 73532 | [73532-magic-micro-mission.json](./73532-magic-micro-mission.json) |
 | Magic Mirror Hall | 182985 | [182985-magic-mirror-hall.json](./182985-magic-mirror-hall.json) |
 | Magic MixUp | 58200 | [58200-magic-mixup.json](./58200-magic-mixup.json) |
+| Magic Mountain Escape | 315552 | [315552-magic-mountain-escape.json](./315552-magic-mountain-escape.json) |
 | Magic Mouse | 115439 | [115439-magic-mouse.json](./115439-magic-mouse.json) |
 | Magic Mushrooms | 13735 | [13735-magic-mushrooms.json](./13735-magic-mushrooms.json) |
 | Magic New year Escape | 315700 | [315700-magic-new-year-escape.json](./315700-magic-new-year-escape.json) |
@@ -647,6 +656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Revenge: Casual Idle RPG | 180234 | [180234-magic-revenge-casual-idle-rpg.json](./180234-magic-revenge-casual-idle-rpg.json) |
 | Magic Rune Stone | 333367 | [333367-magic-rune-stone.json](./333367-magic-rune-stone.json) |
 | Magic Rush: Heroes | 57159 | [57159-magic-rush-heroes.json](./57159-magic-rush-heroes.json) |
+| Magic Sand Escape | 315593 | [315593-magic-sand-escape.json](./315593-magic-sand-escape.json) |
 | Magic School Bus Lands on Mars | 74082 | [74082-magic-school-bus-lands-on-mars.json](./74082-magic-school-bus-lands-on-mars.json) |
 | Magic School Bus Volcano Adventure | 69818 | [69818-magic-school-bus-volcano-adventure.json](./69818-magic-school-bus-volcano-adventure.json) |
 | Magic School Bus Whales and Dolphins | 71579 | [71579-magic-school-bus-whales-and-dolphins.json](./71579-magic-school-bus-whales-and-dolphins.json) |
@@ -694,6 +704,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic War Legends | 410880 | [410880-magic-war-legends.json](./410880-magic-war-legends.json) |
 | Magic Wardrobe | 203818 | [203818-magic-wardrobe.json](./203818-magic-wardrobe.json) |
 | Magic Wars | 254472 | [254472-magic-wars.json](./254472-magic-wars.json) |
+| Magic Waterfall Escape | 315556 | [315556-magic-waterfall-escape.json](./315556-magic-waterfall-escape.json) |
+| Magic Waterfall Escape 2 | 315560 | [315560-magic-waterfall-escape-2.json](./315560-magic-waterfall-escape-2.json) |
 | Magic Weapon | 358310 | [358310-magic-weapon.json](./358310-magic-weapon.json) |
 | Magic Weapon | 377301 | [377301-magic-weapon.json](./377301-magic-weapon.json) |
 | Magic Witches | 280860 | [280860-magic-witches.json](./280860-magic-witches.json) |
@@ -7442,6 +7454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mono Trail | 127317 | [127317-mono-trail.json](./127317-mono-trail.json) |
 | Monobehevo | 196678 | [196678-monobehevo.json](./196678-monobehevo.json) |
 | Monobeno: Happy End | 396370 | [396370-monobeno-happy-end.json](./396370-monobeno-happy-end.json) |
+| Monoch Room | 315600 | [315600-monoch-room.json](./315600-monoch-room.json) |
 | Monochro | 150164 | [150164-monochro.json](./150164-monochro.json) |
 | Monochromality | 346170 | [346170-monochromality.json](./346170-monochromality.json) |
 | Monochromaniacs | 124147 | [124147-monochromaniacs.json](./124147-monochromaniacs.json) |
