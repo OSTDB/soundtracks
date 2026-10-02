@@ -4347,6 +4347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gregory Horror Show Soul of Roses | 320168 | [320168-gregory-horror-show-soul-of-roses.json](./320168-gregory-horror-show-soul-of-roses.json) |
 | Gregory Horror Show: Lost Qualia | 322154 | [322154-gregory-horror-show-lost-qualia.json](./322154-gregory-horror-show-lost-qualia.json) |
 | Gregory's Epic Adventure | 229362 | [229362-gregorys-epic-adventure.json](./229362-gregorys-epic-adventure.json) |
+| Grejsimojs | 287305 | [287305-grejsimojs.json](./287305-grejsimojs.json) |
 | Gremlin Invasion: Survivor | 35724 | [35724-gremlin-invasion-survivor.json](./35724-gremlin-invasion-survivor.json) |
 | Gremlins | 25673 | [25673-gremlins.json](./25673-gremlins.json) |
 | Gremlins 2: The New Batch | 119197 | [119197-gremlins-2-the-new-batch.json](./119197-gremlins-2-the-new-batch.json) |
