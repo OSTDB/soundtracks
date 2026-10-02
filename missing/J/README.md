@@ -500,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly Monsters | 60573 | [60573-jelly-monsters.json](./60573-jelly-monsters.json) |
 | Jelly no Puzzle | 141197 | [141197-jelly-no-puzzle.json](./141197-jelly-no-puzzle.json) |
 | Jelly Pops | 22934 | [22934-jelly-pops.json](./22934-jelly-pops.json) |
+| Jelly Truck | 322049 | [322049-jelly-truck.json](./322049-jelly-truck.json) |
 | Jelly-Jelly | 301890 | [301890-jelly-jelly.json](./301890-jelly-jelly.json) |
 | Jelly's Adventure | 208328 | [208328-jellys-adventure.json](./208328-jellys-adventure.json) |
 | Jellyboom | 73239 | [73239-jellyboom.json](./73239-jellyboom.json) |
@@ -856,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Variety Pack 7XS | 263506 | [263506-jigsaw-puzzle-pack-pixel-puzzles-ultimate-variety-pack-7xs.json](./263506-jigsaw-puzzle-pack-pixel-puzzles-ultimate-variety-pack-7xs.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate Germany 2 | 272326 | [272326-jigsaw-puzzle-pack-pixel-puzzles-ultimate-germany-2.json](./272326-jigsaw-puzzle-pack-pixel-puzzles-ultimate-germany-2.json) |
 | Jigsaw Puzzle Passport: Spain | 393628 | [393628-jigsaw-puzzle-passport-spain.json](./393628-jigsaw-puzzle-passport-spain.json) |
+| Jigsaw Puzzle Utopia | 322071 | [322071-jigsaw-puzzle-utopia.json](./322071-jigsaw-puzzle-utopia.json) |
 | Jigsaw Puzzle Villa | 220206 | [220206-jigsaw-puzzle-villa.json](./220206-jigsaw-puzzle-villa.json) |
 | Jigsaw Puzzle World | 244344 | [244344-jigsaw-puzzle-world.json](./244344-jigsaw-puzzle-world.json) |
 | Jigsaw Puzzle World Memories | 244366 | [244366-jigsaw-puzzle-world-memories.json](./244366-jigsaw-puzzle-world-memories.json) |
@@ -1705,6 +1707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | June Bride Nightmare | 356620 | [356620-june-bride-nightmare.json](./356620-june-bride-nightmare.json) |
 | Jung Rhythm | 55856 | [55856-jung-rhythm.json](./55856-jung-rhythm.json) |
 | Jung's Labyrinth | 149562 | [149562-jungs-labyrinth.json](./149562-jungs-labyrinth.json) |
+| Jungle Adventure | 322073 | [322073-jungle-adventure.json](./322073-jungle-adventure.json) |
 | Jungle Adventures 2 | 362958 | [362958-jungle-adventures-2.json](./362958-jungle-adventures-2.json) |
 | Jungle Adventures 3 | 221705 | [221705-jungle-adventures-3.json](./221705-jungle-adventures-3.json) |
 | Jungle Adventures 4 | 362959 | [362959-jungle-adventures-4.json](./362959-jungle-adventures-4.json) |
