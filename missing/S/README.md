@@ -617,6 +617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samla | 384709 | [384709-samla.json](./384709-samla.json) |
 | Sammi's Quest vol.1: The Wandering Ogres | 104628 | [104628-sammis-quest-vol-1-the-wandering-ogres.json](./104628-sammis-quest-vol-1-the-wandering-ogres.json) |
 | Sammon Salat | 294208 | [294208-sammon-salat.json](./294208-sammon-salat.json) |
+| Sammy Jukes: Twin Lakes | 313767 | [313767-sammy-jukes-twin-lakes.json](./313767-sammy-jukes-twin-lakes.json) |
 | Sammy Lightfoot | 23885 | [23885-sammy-lightfoot.json](./23885-sammy-lightfoot.json) |
 | Sammy Sosa High Heat Baseball 2001: Championship Edition | 206669 | [206669-sammy-sosa-high-heat-baseball-2001-championship-edition.json](./206669-sammy-sosa-high-heat-baseball-2001-championship-edition.json) |
 | Sammy The Sharky | 411081 | [411081-sammy-the-sharky.json](./411081-sammy-the-sharky.json) |
@@ -4975,6 +4976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SIght | 243649 | [243649-sight.json](./243649-sight.json) |
 | Sight Blight | 249726 | [249726-sight-blight.json](./249726-sight-blight.json) |
 | Sight's Adventure | 182909 | [182909-sights-adventure.json](./182909-sights-adventure.json) |
+| Sightings from the Deep | 313754 | [313754-sightings-from-the-deep.json](./313754-sightings-from-the-deep.json) |
 | Sightline | 202944 | [202944-sightline.json](./202944-sightline.json) |
 | SightLineVR | 74763 | [74763-sightlinevr.json](./74763-sightlinevr.json) |
 | Sightseeing Puzzle: Echter Puzzlespass für Unterwegs | 252679 | [252679-sightseeing-puzzle-echter-puzzlespass-fur-unterwegs.json](./252679-sightseeing-puzzle-echter-puzzlespass-fur-unterwegs.json) |
@@ -15671,6 +15673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario RPG: The Seven Sages | 175832 | [175832-super-mario-rpg-the-seven-sages.json](./175832-super-mario-rpg-the-seven-sages.json) |
 | Super Mario RPG: The Starlite Worlds | 175887 | [175887-super-mario-rpg-the-starlite-worlds.json](./175887-super-mario-rpg-the-starlite-worlds.json) |
 | Super Mario Run: Ver. 3.0.4 | 327941 | [327941-super-mario-run-ver-3-0-4.json](./327941-super-mario-run-ver-3-0-4.json) |
+| Super Mario Sandbox | 313766 | [313766-super-mario-sandbox.json](./313766-super-mario-sandbox.json) |
 | Super Mario Senseless Delirium | 199032 | [199032-super-mario-senseless-delirium.json](./199032-super-mario-senseless-delirium.json) |
 | Super Mario Spikers | 175958 | [175958-super-mario-spikers.json](./175958-super-mario-spikers.json) |
 | Super Mario Star Road Multiplayer | 159342 | [159342-super-mario-star-road-multiplayer.json](./159342-super-mario-star-road-multiplayer.json) |
