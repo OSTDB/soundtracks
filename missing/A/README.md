@@ -272,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Knights Adventure | 156574 | [156574-a-knights-adventure.json](./156574-a-knights-adventure.json) |
 | A Koopa's Revenge | 261814 | [261814-a-koopas-revenge.json](./261814-a-koopas-revenge.json) |
 | A Koopa's Revenge 2 | 307669 | [307669-a-koopas-revenge-2.json](./307669-a-koopas-revenge-2.json) |
+| A Kristus Story: A Night Market Holiday Tale | 322048 | [322048-a-kristus-story-a-night-market-holiday-tale.json](./322048-a-kristus-story-a-night-market-holiday-tale.json) |
 | A la Card | 331393 | [331393-a-la-card.json](./331393-a-la-card.json) |
 | A Lab of One's Own | 177848 | [177848-a-lab-of-ones-own.json](./177848-a-lab-of-ones-own.json) |
 | A Lakeside Walk in the Dolomites | 341085 | [341085-a-lakeside-walk-in-the-dolomites.json](./341085-a-lakeside-walk-in-the-dolomites.json) |
@@ -1370,6 +1371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Shells II | 308380 | [308380-advanced-shells-ii.json](./308380-advanced-shells-ii.json) |
 | Advanced Shells III | 308382 | [308382-advanced-shells-iii.json](./308382-advanced-shells-iii.json) |
 | Advanced Sorcerian | 182238 | [182238-advanced-sorcerian.json](./182238-advanced-sorcerian.json) |
+| Advanced T-Robots | 322052 | [322052-advanced-t-robots.json](./322052-advanced-t-robots.json) |
 | Advanced World War Sen-nen Teikoku no Koubou: Last of the Millennium | 45448 | [45448-advanced-world-war-sen-nen-teikoku-no-koubou-last-of-the-millennium.json](./45448-advanced-world-war-sen-nen-teikoku-no-koubou-last-of-the-millennium.json) |
 | Advaria: Chronicles of Immortality | 283898 | [283898-advaria-chronicles-of-immortality.json](./283898-advaria-chronicles-of-immortality.json) |
 | Adven'chuta | 94542 | [94542-advenchuta.json](./94542-advenchuta.json) |
@@ -7498,6 +7500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | At What Cost | 382376 | [382376-at-what-cost.json](./382376-at-what-cost.json) |
 | At Winter's End | 264698 | [264698-at-winters-end.json](./264698-at-winters-end.json) |
 | At Your Feet | 306512 | [306512-at-your-feet.json](./306512-at-your-feet.json) |
+| Ata: Extracts from the American Civil War | 322053 | [322053-ata-extracts-from-the-american-civil-war.json](./322053-ata-extracts-from-the-american-civil-war.json) |
 | Atajrubah | 36426 | [36426-atajrubah.json](./36426-atajrubah.json) |
 | Atak | 226226 | [226226-atak.json](./226226-atak.json) |
 | Atama ga Saeru Chou IQ | 251625 | [251625-atama-ga-saeru-chou-iq.json](./251625-atama-ga-saeru-chou-iq.json) |
