@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yãkoana: Dreams of Resistance | 400389 | [400389-yakoana-dreams-of-resistance.json](./400389-yakoana-dreams-of-resistance.json) |
 | Yakoh: Shinobi Ops | 389431 | [389431-yakoh-shinobi-ops.json](./389431-yakoh-shinobi-ops.json) |
 | Yakouchuu | 37761 | [37761-yakouchuu.json](./37761-yakouchuu.json) |
+| Yakouchuu GB | 282797 | [282797-yakouchuu-gb.json](./282797-yakouchuu-gb.json) |
 | Yaksa | 386326 | [386326-yaksa.json](./386326-yaksa.json) |
 | Yaku Slap | 329976 | [329976-yaku-slap.json](./329976-yaku-slap.json) |
 | Yaku: Yuujou Dangi | 124642 | [124642-yaku-yuujou-dangi.json](./124642-yaku-yuujou-dangi.json) |
