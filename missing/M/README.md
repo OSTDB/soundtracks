@@ -1473,6 +1473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mandacaru | 159711 | [159711-mandacaru.json](./159711-mandacaru.json) |
 | Mandate Order | 374619 | [374619-mandate-order.json](./374619-mandate-order.json) |
 | Mandela Effect Brain Test | 306694 | [306694-mandela-effect-brain-test.json](./306694-mandela-effect-brain-test.json) |
+| Mandela Invasion | 282820 | [282820-mandela-invasion.json](./282820-mandela-invasion.json) |
 | Mandemon | 259510 | [259510-mandemon.json](./259510-mandemon.json) |
 | Mandeshire | 173274 | [173274-mandeshire.json](./173274-mandeshire.json) |
 | Mandora | 63939 | [63939-mandora.json](./63939-mandora.json) |
@@ -3859,6 +3860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Battle Network Legacy Collection Vol. 1 | 206844 | [206844-mega-man-battle-network-legacy-collection-vol-1.json](./206844-mega-man-battle-network-legacy-collection-vol-1.json) |
 | Mega Man CD: Rock Version | 323330 | [323330-mega-man-cd-rock-version.json](./323330-mega-man-cd-rock-version.json) |
 | Mega Man Cyber Wave Pack | 409541 | [409541-mega-man-cyber-wave-pack.json](./409541-mega-man-cyber-wave-pack.json) |
+| Mega Man Dongs | 282810 | [282810-mega-man-dongs.json](./282810-mega-man-dongs.json) |
 | Mega Man DOS Remake | 357337 | [357337-mega-man-dos-remake.json](./357337-mega-man-dos-remake.json) |
 | Mega Man Eternal | 208479 | [208479-mega-man-eternal.json](./208479-mega-man-eternal.json) |
 | Mega Man Heardle | 203816 | [203816-mega-man-heardle.json](./203816-mega-man-heardle.json) |
@@ -3987,6 +3989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megablast | 46860 | [46860-megablast.json](./46860-megablast.json) |
 | Megabonk | 327405 | [327405-megabonk.json](./327405-megabonk.json) |
 | Megabonk Smash | 376471 | [376471-megabonk-smash.json](./376471-megabonk-smash.json) |
+| MegaBoy | 282791 | [282791-megaboy.json](./282791-megaboy.json) |
 | Megabyte Punch | 9383 | [9383-megabyte-punch.json](./9383-megabyte-punch.json) |
 | Megachess | 345590 | [345590-megachess.json](./345590-megachess.json) |
 | Megachud | 349946 | [349946-megachud.json](./349946-megachud.json) |
@@ -6561,6 +6564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minutescape | 327969 | [327969-minutescape.json](./327969-minutescape.json) |
 | Mio Garden | 107422 | [107422-mio-garden.json](./107422-mio-garden.json) |
 | Mio no Mystery Adventure | 137627 | [137627-mio-no-mystery-adventure.json](./137627-mio-no-mystery-adventure.json) |
+| Miodesopsia: Whispering Stories | 282846 | [282846-miodesopsia-whispering-stories.json](./282846-miodesopsia-whispering-stories.json) |
 | Mion and the Cursed Killer Hamster | 224576 | [224576-mion-and-the-cursed-killer-hamster.json](./224576-mion-and-the-cursed-killer-hamster.json) |
 | Mir | 148952 | [148952-mir.json](./148952-mir.json) |
 | Mir | 363939 | [363939-mir.json](./363939-mir.json) |
@@ -8018,6 +8022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster+Connect! | 181396 | [181396-monster-connect.json](./181396-monster-connect.json) |
 | Monsterbag | 60535 | [60535-monsterbag.json](./60535-monsterbag.json) |
 | Monsterburg | 305790 | [305790-monsterburg.json](./305790-monsterburg.json) |
+| Monstercise | 282794 | [282794-monstercise.json](./282794-monstercise.json) |
 | MonsterCrafter | 89202 | [89202-monstercrafter.json](./89202-monstercrafter.json) |
 | Monsterhearts 2 | 138699 | [138699-monsterhearts-2.json](./138699-monsterhearts-2.json) |
 | Monsterium | 357360 | [357360-monsterium.json](./357360-monsterium.json) |
