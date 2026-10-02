@@ -1704,6 +1704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | March to the Heart | 349313 | [349313-march-to-the-heart.json](./349313-march-to-the-heart.json) |
 | March! Offworld Recon | 92318 | [92318-march-offworld-recon.json](./92318-march-offworld-recon.json) |
 | Märchen Forest | 181313 | [181313-marchen-forest.json](./181313-marchen-forest.json) |
+| Märchen Line | 318499 | [318499-marchen-line.json](./318499-marchen-line.json) |
 | Märchen Maze | 212861 | [212861-marchen-maze.json](./212861-marchen-maze.json) |
 | Marchen Veil | 41337 | [41337-marchen-veil.json](./41337-marchen-veil.json) |
 | Marchen Veil I | 240177 | [240177-marchen-veil-i.json](./240177-marchen-veil-i.json) |
@@ -1967,6 +1968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart: Double Dash!! Plus | 308373 | [308373-mario-kart-double-dash-plus.json](./308373-mario-kart-double-dash-plus.json) |
 | Mario Kart: Speed Strife | 250048 | [250048-mario-kart-speed-strife.json](./250048-mario-kart-speed-strife.json) |
 | Mario Kart: Super Circuit | 2343 | [2343-mario-kart-super-circuit.json](./2343-mario-kart-super-circuit.json) |
+| Mario Kart: Ultra Circuit | 318508 | [318508-mario-kart-ultra-circuit.json](./318508-mario-kart-ultra-circuit.json) |
 | Mario Kart: Virtual Cup | 195211 | [195211-mario-kart-virtual-cup.json](./195211-mario-kart-virtual-cup.json) |
 | Mario Learns About Colors | 323187 | [323187-mario-learns-about-colors.json](./323187-mario-learns-about-colors.json) |
 | Mario Learns About Colors 2 | 323824 | [323824-mario-learns-about-colors-2.json](./323824-mario-learns-about-colors-2.json) |
@@ -2072,6 +2074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Picross | 71976 | [71976-marios-picross.json](./71976-marios-picross.json) |
 | Mario's Pride: Mini Quest | 254516 | [254516-marios-pride-mini-quest.json](./254516-marios-pride-mini-quest.json) |
 | Mario's Rules: Variety on 3 | 323748 | [323748-marios-rules-variety-on-3.json](./323748-marios-rules-variety-on-3.json) |
+| Mario's Slightly Unusual Boss Rush | 318497 | [318497-marios-slightly-unusual-boss-rush.json](./318497-marios-slightly-unusual-boss-rush.json) |
 | Mario's Slightly Unusual Boss Rush: v2.0 Release | 381850 | [381850-marios-slightly-unusual-boss-rush-v2-0-release.json](./381850-marios-slightly-unusual-boss-rush-v2-0-release.json) |
 | Mario's Star Quest 2 | 315014 | [315014-marios-star-quest-2.json](./315014-marios-star-quest-2.json) |
 | Mario's Super Picross | 80174 | [80174-marios-super-picross.json](./80174-marios-super-picross.json) |
@@ -2812,6 +2815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mate-in-Two | 347703 | [347703-mate-in-two.json](./347703-mate-in-two.json) |
 | Matel Gear II | 267366 | [267366-matel-gear-ii.json](./267366-matel-gear-ii.json) |
 | Matelotes | 415182 | [415182-matelotes.json](./415182-matelotes.json) |
+| Matematyka Dodawanie i odejmowanie | 318491 | [318491-matematyka-dodawanie-i-odejmowanie.json](./318491-matematyka-dodawanie-i-odejmowanie.json) |
 | Maten Densetsu: Senritsu no Ooparts | 37931 | [37931-maten-densetsu-senritsu-no-ooparts.json](./37931-maten-densetsu-senritsu-no-ooparts.json) |
 | Maten no Soumetsu | 46073 | [46073-maten-no-soumetsu.json](./46073-maten-no-soumetsu.json) |
 | Matendouji | 215140 | [215140-matendouji.json](./215140-matendouji.json) |
