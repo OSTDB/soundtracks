@@ -4562,6 +4562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forbidden City Journey | 240778 | [240778-forbidden-city-journey.json](./240778-forbidden-city-journey.json) |
 | Forbidden Compass | 404206 | [404206-forbidden-compass.json](./404206-forbidden-compass.json) |
 | Forbidden Dojo | 239737 | [239737-forbidden-dojo.json](./239737-forbidden-dojo.json) |
+| Forbidden Fantasy | 322641 | [322641-forbidden-fantasy.json](./322641-forbidden-fantasy.json) |
 | Forbidden Forest | 13848 | [13848-forbidden-forest.json](./13848-forbidden-forest.json) |
 | Forbidden Forgiveness | 85836 | [85836-forbidden-forgiveness.json](./85836-forbidden-forgiveness.json) |
 | Forbidden Fruit | 47527 | [47527-forbidden-fruit.json](./47527-forbidden-fruit.json) |
