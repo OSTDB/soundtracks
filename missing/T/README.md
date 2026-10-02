@@ -915,6 +915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamriel Rebuilt | 186650 | [186650-tamriel-rebuilt.json](./186650-tamriel-rebuilt.json) |
 | Tamura Mitsuaki no Mahjong Seminar | 48886 | [48886-tamura-mitsuaki-no-mahjong-seminar.json](./48886-tamura-mitsuaki-no-mahjong-seminar.json) |
 | Tàn Dǎo Hǎiguītāng | 373715 | [373715-tan-dao-haiguitang.json](./373715-tan-dao-haiguitang.json) |
+| Tan Tank 2 | 296008 | [296008-tan-tank-2.json](./296008-tan-tank-2.json) |
 | Tan-Tan-Tanuki | 307142 | [307142-tan-tan-tanuki.json](./307142-tan-tan-tanuki.json) |
 | Tanat Online | 366226 | [366226-tanat-online.json](./366226-tanat-online.json) |
 | Tandem: A Tale of Shadows | 151134 | [151134-tandem-a-tale-of-shadows.json](./151134-tandem-a-tale-of-shadows.json) |
@@ -1155,6 +1156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanuki Tiles | 180033 | [180033-tanuki-tiles.json](./180033-tanuki-tiles.json) |
 | Tanuki: Pon's Summer | 317817 | [317817-tanuki-pons-summer.json](./317817-tanuki-pons-summer.json) |
 | Tanuki's Dream | 307152 | [307152-tanukis-dream.json](./307152-tanukis-dream.json) |
+| Tanx | 296009 | [296009-tanx.json](./296009-tanx.json) |
 | Tanx | 71058 | [71058-tanx.json](./71058-tanx.json) |
 | Tanya Grotter And Magic Double Bass | 366377 | [366377-tanya-grotter-and-magic-double-bass.json](./366377-tanya-grotter-and-magic-double-bass.json) |
 | Tanzanite Crush | 282548 | [282548-tanzanite-crush.json](./282548-tanzanite-crush.json) |
@@ -1620,6 +1622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Techium Eclipse | 183508 | [183508-techium-eclipse.json](./183508-techium-eclipse.json) |
 | TechMate Chess | 327801 | [327801-techmate-chess.json](./327801-techmate-chess.json) |
 | Technic Beat | 24168 | [24168-technic-beat.json](./24168-technic-beat.json) |
+| Technical Demo X2 | 296010 | [296010-technical-demo-x2.json](./296010-technical-demo-x2.json) |
 | Technically Frogs Can Fly | 326217 | [326217-technically-frogs-can-fly.json](./326217-technically-frogs-can-fly.json) |
 | Technician Ted | 84242 | [84242-technician-ted.json](./84242-technician-ted.json) |
 | Technicity | 186619 | [186619-technicity.json](./186619-technicity.json) |
@@ -7428,6 +7431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Player RPG | 102121 | [102121-the-player-rpg.json](./102121-the-player-rpg.json) |
 | The Playful Triangle | 309454 | [309454-the-playful-triangle.json](./309454-the-playful-triangle.json) |
 | The Playroom 2 | 124137 | [124137-the-playroom-2.json](./124137-the-playroom-2.json) |
+| The Playroom: AR Studio | 296039 | [296039-the-playroom-ar-studio.json](./296039-the-playroom-ar-studio.json) |
 | The Plight of the Cracked | 391849 | [391849-the-plight-of-the-cracked.json](./391849-the-plight-of-the-cracked.json) |
 | The Plucky Squire x The Swords of Ditto: Mormo's Curse Bundle | 356822 | [356822-the-plucky-squire-x-the-swords-of-ditto-mormos-curse-bundle.json](./356822-the-plucky-squire-x-the-swords-of-ditto-mormos-curse-bundle.json) |
 | The Plug | 175436 | [175436-the-plug.json](./175436-the-plug.json) |
