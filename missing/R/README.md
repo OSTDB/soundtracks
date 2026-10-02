@@ -2353,6 +2353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reikon Dungeon | 185153 | [185153-reikon-dungeon.json](./185153-reikon-dungeon.json) |
 | Reikon: Reawaken | 250987 | [250987-reikon-reawaken.json](./250987-reikon-reawaken.json) |
 | Reimagine: The Game | 144271 | [144271-reimagine-the-game.json](./144271-reimagine-the-game.json) |
+| Reimei no Yu | 287313 | [287313-reimei-no-yu.json](./287313-reimei-no-yu.json) |
 | Reimu ha Nandaka Totemo Nemui | 214585 | [214585-reimu-ha-nandaka-totemo-nemui.json](./214585-reimu-ha-nandaka-totemo-nemui.json) |
 | Reimu's Weird little adventure | 153410 | [153410-reimus-weird-little-adventure.json](./153410-reimus-weird-little-adventure.json) |
 | Reimus Awesome Holiday | 216204 | [216204-reimus-awesome-holiday.json](./216204-reimus-awesome-holiday.json) |
