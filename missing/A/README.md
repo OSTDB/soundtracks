@@ -4005,6 +4005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amulet of Yendor | 2882 | [2882-amulet-of-yendor.json](./2882-amulet-of-yendor.json) |
 | Amusement Inferno | 271722 | [271722-amusement-inferno.json](./271722-amusement-inferno.json) |
 | Amusement Park: Jumping Kid | 203385 | [203385-amusement-park-jumping-kid.json](./203385-amusement-park-jumping-kid.json) |
+| Amusia | 311187 | [311187-amusia.json](./311187-amusia.json) |
 | Amy Adventure | 331108 | [331108-amy-adventure.json](./331108-amy-adventure.json) |
 | Amy Galore | 329768 | [329768-amy-galore.json](./329768-amy-galore.json) |
 | Amy Hates Robots | 356303 | [356303-amy-hates-robots.json](./356303-amy-hates-robots.json) |
@@ -4311,6 +4312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angela's Love | 385059 | [385059-angelas-love.json](./385059-angelas-love.json) |
 | Angela's Valentine | 350589 | [350589-angelas-valentine.json](./350589-angelas-valentine.json) |
 | Angeldust | 32892 | [32892-angeldust.json](./32892-angeldust.json) |
+| AngelGaze | 311184 | [311184-angelgaze.json](./311184-angelgaze.json) |
 | Angelian Trigger | 312331 | [312331-angelian-trigger.json](./312331-angelian-trigger.json) |
 | Angelic Agency: Soul Salvation Unit | 334862 | [334862-angelic-agency-soul-salvation-unit.json](./334862-angelic-agency-soul-salvation-unit.json) |
 | Angelic Chaos Re-Boot! | 254480 | [254480-angelic-chaos-re-boot.json](./254480-angelic-chaos-re-boot.json) |
@@ -7311,6 +7313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astraeus | 101636 | [101636-astraeus.json](./101636-astraeus.json) |
 | Astraeus Odyssey | 365307 | [365307-astraeus-odyssey.json](./365307-astraeus-odyssey.json) |
 | Astragali | 330861 | [330861-astragali.json](./330861-astragali.json) |
+| Astraia Land | 311188 | [311188-astraia-land.json](./311188-astraia-land.json) |
 | Astral | 111566 | [111566-astral.json](./111566-astral.json) |
 | Astral | 14273 | [14273-astral.json](./14273-astral.json) |
 | Astral | 377836 | [377836-astral.json](./377836-astral.json) |
