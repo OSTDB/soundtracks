@@ -1577,6 +1577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Baby Sister | 106378 | [106378-new-baby-sister.json](./106378-new-baby-sister.json) |
 | New Baseball | 80490 | [80490-new-baseball.json](./80490-new-baseball.json) |
 | New Boggle Boggle | 159185 | [159185-new-boggle-boggle.json](./159185-new-boggle-boggle.json) |
+| New Campaign Trail | 313157 | [313157-new-campaign-trail.json](./313157-new-campaign-trail.json) |
 | New Carnival Games | 4057 | [4057-new-carnival-games.json](./4057-new-carnival-games.json) |
 | New Centurions | 93507 | [93507-new-centurions.json](./93507-new-centurions.json) |
 | New Century Galaxy Legend | 192824 | [192824-new-century-galaxy-legend.json](./192824-new-century-galaxy-legend.json) |
@@ -2922,6 +2923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Register | 405713 | [405713-no-register.json](./405713-no-register.json) |
 | No Reloading: Survival Trials | 194954 | [194954-no-reloading-survival-trials.json](./194954-no-reloading-survival-trials.json) |
 | No Rest | 302688 | [302688-no-rest.json](./302688-no-rest.json) |
+| No Rest for the Living | 313179 | [313179-no-rest-for-the-living.json](./313179-no-rest-for-the-living.json) |
 | No Rest for the Weary | 334198 | [334198-no-rest-for-the-weary.json](./334198-no-rest-for-the-weary.json) |
 | No Results Found | 412478 | [412478-no-results-found.json](./412478-no-results-found.json) |
 | No Retreat! the Russian Front | 348867 | [348867-no-retreat-the-russian-front.json](./348867-no-retreat-the-russian-front.json) |
