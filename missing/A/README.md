@@ -4309,6 +4309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel in Danger | 61072 | [61072-angel-in-danger.json](./61072-angel-in-danger.json) |
 | Angel in Inferno | 402316 | [402316-angel-in-inferno.json](./402316-angel-in-inferno.json) |
 | Angel Island Tour | 210752 | [210752-angel-island-tour.json](./210752-angel-island-tour.json) |
+| Angel Killer | 301493 | [301493-angel-killer.json](./301493-angel-killer.json) |
 | Angel Legion: Bay Goddess - Purple II | 302572 | [302572-angel-legion-bay-goddess-purple-ii.json](./302572-angel-legion-bay-goddess-purple-ii.json) |
 | Angel Legion: Chain Trace - Orange | 321958 | [321958-angel-legion-chain-trace-orange.json](./321958-angel-legion-chain-trace-orange.json) |
 | Angel Legion: Chain Trace - Red | 332605 | [332605-angel-legion-chain-trace-red.json](./332605-angel-legion-chain-trace-red.json) |
@@ -4554,6 +4555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal God | 359543 | [359543-animal-god.json](./359543-animal-god.json) |
 | Animal Hearts: A Card Quest | 373754 | [373754-animal-hearts-a-card-quest.json](./373754-animal-hearts-a-card-quest.json) |
 | Animal Hospital for kids | 99195 | [99195-animal-hospital-for-kids.json](./99195-animal-hospital-for-kids.json) |
+| Animal Hunting 3D | 301511 | [301511-animal-hunting-3d.json](./301511-animal-hunting-3d.json) |
 | Animal Inspector | 124753 | [124753-animal-inspector.json](./124753-animal-inspector.json) |
 | Animal Intern | 182823 | [182823-animal-intern.json](./182823-animal-intern.json) |
 | Animal Island: The Wolf’s Onslaught | 384804 | [384804-animal-island-the-wolf-s-onslaught.json](./384804-animal-island-the-wolf-s-onslaught.json) |
@@ -7124,6 +7126,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin’s Creed Rogue: Templar Legacy Pack | 151547 | [151547-assassin-s-creed-rogue-templar-legacy-pack.json](./151547-assassin-s-creed-rogue-templar-legacy-pack.json) |
 | Assassin's Creed Rogue: Time Saver - Activities Pack | 151550 | [151550-assassins-creed-rogue-time-saver-activities-pack.json](./151550-assassins-creed-rogue-time-saver-activities-pack.json) |
 | Assassin’s Creed Rogue: Time Saver - Collectibles Pack | 151546 | [151546-assassin-s-creed-rogue-time-saver-collectibles-pack.json](./151546-assassin-s-creed-rogue-time-saver-collectibles-pack.json) |
+| Assassin's Creed Shadows: Gold Edition | 301518 | [301518-assassins-creed-shadows-gold-edition.json](./301518-assassins-creed-shadows-gold-edition.json) |
+| Assassin's Creed Shadows: Limited Edition | 301517 | [301517-assassins-creed-shadows-limited-edition.json](./301517-assassins-creed-shadows-limited-edition.json) |
 | Assassin's Creed Shadows: Thrown to the Dogs | 301432 | [301432-assassins-creed-shadows-thrown-to-the-dogs.json](./301432-assassins-creed-shadows-thrown-to-the-dogs.json) |
 | Assassin's Creed Syndicate: Streets of London Pack | 109437 | [109437-assassins-creed-syndicate-streets-of-london-pack.json](./109437-assassins-creed-syndicate-streets-of-london-pack.json) |
 | Assassin's Creed Syndicate: The Dreadful Crimes | 109432 | [109432-assassins-creed-syndicate-the-dreadful-crimes.json](./109432-assassins-creed-syndicate-the-dreadful-crimes.json) |
@@ -7641,6 +7645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Anniversary Advance | 80442 | [80442-atari-anniversary-advance.json](./80442-atari-anniversary-advance.json) |
 | Atari Anniversary Edition Redux | 43923 | [43923-atari-anniversary-edition-redux.json](./43923-atari-anniversary-edition-redux.json) |
 | Atari Arcade Hits: Volume 1 | 80627 | [80627-atari-arcade-hits-volume-1.json](./80627-atari-arcade-hits-volume-1.json) |
+| Atari Classics Games | 301495 | [301495-atari-classics-games.json](./301495-atari-classics-games.json) |
 | Atari Classics: Evolved | 46023 | [46023-atari-classics-evolved.json](./46023-atari-classics-evolved.json) |
 | Atari Climber | 40769 | [40769-atari-climber.json](./40769-atari-climber.json) |
 | Atari Collection 1 | 130813 | [130813-atari-collection-1.json](./130813-atari-collection-1.json) |
