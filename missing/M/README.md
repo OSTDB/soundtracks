@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.A.C.E. TD | 87607 | [87607-m-a-c-e-td.json](./87607-m-a-c-e-td.json) |
 | M.A.C.H | 44508 | [44508-m-a-c-h.json](./44508-m-a-c-h.json) |
 | M.A.C.S. | 90645 | [90645-m-a-c-s.json](./90645-m-a-c-s.json) |
+| M.A.D. Cows and D.U.M.B. Ducks Bundle | 331533 | [331533-m-a-d-cows-and-d-u-m-b-ducks-bundle.json](./331533-m-a-d-cows-and-d-u-m-b-ducks-bundle.json) |
 | M.A.I.D.s | 148360 | [148360-m-a-i-d-s.json](./148360-m-a-i-d-s.json) |
 | M.A.L.M.O: Scorched Earth | 358346 | [358346-m-a-l-m-o-scorched-earth.json](./358346-m-a-l-m-o-scorched-earth.json) |
 | M.A.U.S | 380650 | [380650-m-a-u-s.json](./380650-m-a-u-s.json) |
@@ -2530,6 +2531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Detective Archives: Rain Code - Ch. Halara: Raining Cats & Dog | 268575 | [268575-master-detective-archives-rain-code-ch-halara-raining-cats-and-dog.json](./268575-master-detective-archives-rain-code-ch-halara-raining-cats-and-dog.json) |
 | Master Detective Archives: Rain Code - Ch. Vivia: The Near-Death Detective + Ch. Yakou: Thank You, My Detective | 268772 | [268772-master-detective-archives-rain-code-ch-vivia-the-near-death-detective-ch-yakou-thank-you-my-detective.json](./268772-master-detective-archives-rain-code-ch-vivia-the-near-death-detective-ch-yakou-thank-you-my-detective.json) |
 | Master Detective Archives: Rain Code Plus | 300724 | [300724-master-detective-archives-rain-code-plus.json](./300724-master-detective-archives-rain-code-plus.json) |
+| Master Detective Archives: Rain Code Plus ^ Danganronpa 1, 2, V3 Bundle | 331534 | [331534-master-detective-archives-rain-code-plus-danganronpa-1-2-v3-bundle.json](./331534-master-detective-archives-rain-code-plus-danganronpa-1-2-v3-bundle.json) |
 | Master Fighter VI' | 223027 | [223027-master-fighter-vi.json](./223027-master-fighter-vi.json) |
 | Master Golf | 247008 | [247008-master-golf.json](./247008-master-golf.json) |
 | Master Labyrinth | 45915 | [45915-master-labyrinth.json](./45915-master-labyrinth.json) |
@@ -2657,6 +2659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masters of Cards | 322585 | [322585-masters-of-cards.json](./322585-masters-of-cards.json) |
 | Masters of Chaos | 268757 | [268757-masters-of-chaos.json](./268757-masters-of-chaos.json) |
 | Masters of Chess | 29180 | [29180-masters-of-chess.json](./29180-masters-of-chess.json) |
+| Masters of Fate Bundle: Bio Inc. Redemption & Cultist Simulator: Anthology | 331535 | [331535-masters-of-fate-bundle-bio-inc-redemption-and-cultist-simulator-anthology.json](./331535-masters-of-fate-bundle-bio-inc-redemption-and-cultist-simulator-anthology.json) |
 | Masters of Light | 285367 | [285367-masters-of-light.json](./285367-masters-of-light.json) |
 | Masters of Mayhem | 314266 | [314266-masters-of-mayhem.json](./314266-masters-of-mayhem.json) |
 | Masters of Mystery: Crime of Fashion | 341071 | [341071-masters-of-mystery-crime-of-fashion.json](./341071-masters-of-mystery-crime-of-fashion.json) |
@@ -2973,6 +2976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Football | 66690 | [66690-maximum-football.json](./66690-maximum-football.json) |
 | Maximum Football 2019 | 124703 | [124703-maximum-football-2019.json](./124703-maximum-football-2019.json) |
 | Maximum Football 2020 | 139233 | [139233-maximum-football-2020.json](./139233-maximum-football-2020.json) |
+| Maximum Football: Legend Edition | 331536 | [331536-maximum-football-legend-edition.json](./331536-maximum-football-legend-edition.json) |
 | Maximum Force | 36573 | [36573-maximum-force.json](./36573-maximum-force.json) |
 | Maximum G-Force Coasters | 209537 | [209537-maximum-g-force-coasters.json](./209537-maximum-g-force-coasters.json) |
 | Maximum Momentum | 127167 | [127167-maximum-momentum.json](./127167-maximum-momentum.json) |
@@ -3826,6 +3830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Miracle Force | 114784 | [114784-mega-miracle-force.json](./114784-mega-miracle-force.json) |
 | Mega Museum | 108294 | [108294-mega-museum.json](./108294-mega-museum.json) |
 | Mega Pede | 78990 | [78990-mega-pede.json](./78990-mega-pede.json) |
+| Mega Platformer Bundle | 331537 | [331537-mega-platformer-bundle.json](./331537-mega-platformer-bundle.json) |
 | Mega Pony | 39604 | [39604-mega-pony.json](./39604-mega-pony.json) |
 | Mega Punchy Golf | 120935 | [120935-mega-punchy-golf.json](./120935-mega-punchy-golf.json) |
 | Mega Q*bert | 360128 | [360128-mega-q-bert.json](./360128-mega-q-bert.json) |
@@ -6989,6 +6994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ModelMaker | 258946 | [258946-modelmaker.json](./258946-modelmaker.json) |
 | Modem Wars | 71057 | [71057-modem-wars.json](./71057-modem-wars.json) |
 | Moderium | 127214 | [127214-moderium.json](./127214-moderium.json) |
+| Modern and Retro Bundle | 331538 | [331538-modern-and-retro-bundle.json](./331538-modern-and-retro-bundle.json) |
 | Modern Arena | 394359 | [394359-modern-arena.json](./394359-modern-arena.json) |
 | Modern Assault Tanks | 155026 | [155026-modern-assault-tanks.json](./155026-modern-assault-tanks.json) |
 | Modern Attack | 391865 | [391865-modern-attack.json](./391865-modern-attack.json) |
@@ -7079,6 +7085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moero Chronicle Hyper | 114421 | [114421-moero-chronicle-hyper.json](./114421-moero-chronicle-hyper.json) |
 | Moero Chronicle: Deluxe Edition | 186878 | [186878-moero-chronicle-deluxe-edition.json](./186878-moero-chronicle-deluxe-edition.json) |
 | Moero Crystal H | 121766 | [121766-moero-crystal-h.json](./121766-moero-crystal-h.json) |
+| Moero Downhill Night | 331458 | [331458-moero-downhill-night.json](./331458-moero-downhill-night.json) |
 | Moero! Power Dodge | 385559 | [385559-moero-power-dodge.json](./385559-moero-power-dodge.json) |
 | Moero!! Nettou Yakyuu '88 | 59990 | [59990-moero-nettou-yakyuu-88.json](./59990-moero-nettou-yakyuu-88.json) |
 | Moero!! Pro Yakyuu 2016 | 218985 | [218985-moero-pro-yakyuu-2016.json](./218985-moero-pro-yakyuu-2016.json) |
@@ -10013,6 +10020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Sexy Waitress | 155548 | [155548-my-sexy-waitress.json](./155548-my-sexy-waitress.json) |
 | My Shadow | 133337 | [133337-my-shadow.json](./133337-my-shadow.json) |
 | My Shadow | 289432 | [289432-my-shadow.json](./289432-my-shadow.json) |
+| My Shark | 331392 | [331392-my-shark.json](./331392-my-shark.json) |
 | My Shelf | 87882 | [87882-my-shelf.json](./87882-my-shelf.json) |
 | My Shelter | 348449 | [348449-my-shelter.json](./348449-my-shelter.json) |
 | My Silly Life | 158222 | [158222-my-silly-life.json](./158222-my-silly-life.json) |
