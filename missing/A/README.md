@@ -8485,6 +8485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Away in the Woods | 225765 | [225765-away-in-the-woods.json](./225765-away-in-the-woods.json) |
 | Away Team | 349503 | [349503-away-team.json](./349503-away-team.json) |
 | Awaysis | 348231 | [348231-awaysis.json](./348231-awaysis.json) |
+| Awe | 284564 | [284564-awe.json](./284564-awe.json) |
 | Awe of Despair | 75811 | [75811-awe-of-despair.json](./75811-awe-of-despair.json) |
 | Awesome Animated Monster Maker | 115070 | [115070-awesome-animated-monster-maker.json](./115070-awesome-animated-monster-maker.json) |
 | Awesome Animated Monster Maker: Ultra Edition | 109179 | [109179-awesome-animated-monster-maker-ultra-edition.json](./109179-awesome-animated-monster-maker-ultra-edition.json) |
