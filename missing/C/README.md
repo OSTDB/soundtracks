@@ -2074,6 +2074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch the Rhythm | 339790 | [339790-catch-the-rhythm.json](./339790-catch-the-rhythm.json) |
 | Catch the Sperm | 319974 | [319974-catch-the-sperm.json](./319974-catch-the-sperm.json) |
 | Catch the Turtle | 410230 | [410230-catch-the-turtle.json](./410230-catch-the-turtle.json) |
+| Catch the Vandal | 298278 | [298278-catch-the-vandal.json](./298278-catch-the-vandal.json) |
 | Catch the Wally - Hide & Seek | 108247 | [108247-catch-the-wally-hide-and-seek.json](./108247-catch-the-wally-hide-and-seek.json) |
 | Catch the Witch | 417503 | [417503-catch-the-witch.json](./417503-catch-the-witch.json) |
 | Catch Them If You Can | 215368 | [215368-catch-them-if-you-can.json](./215368-catch-them-if-you-can.json) |
@@ -9245,6 +9246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Gothic | 140359 | [140359-cube-gothic.json](./140359-cube-gothic.json) |
 | Cube Gravity | 182227 | [182227-cube-gravity.json](./182227-cube-gravity.json) |
 | Cube Guardian: Tower Defender | 357841 | [357841-cube-guardian-tower-defender.json](./357841-cube-guardian-tower-defender.json) |
+| Cube Hero | 298234 | [298234-cube-hero.json](./298234-cube-hero.json) |
 | Cube Hits Corner | 370280 | [370280-cube-hits-corner.json](./370280-cube-hits-corner.json) |
 | Cube Jump 3D | 152404 | [152404-cube-jump-3d.json](./152404-cube-jump-3d.json) |
 | Cube Jump Game | 402937 | [402937-cube-jump-game.json](./402937-cube-jump-game.json) |
@@ -9897,6 +9899,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Runner 2048 | 192393 | [192393-cyber-runner-2048.json](./192393-cyber-runner-2048.json) |
 | Cyber Rush | 296522 | [296522-cyber-rush.json](./296522-cyber-rush.json) |
 | Cyber Russia | 300693 | [300693-cyber-russia.json](./300693-cyber-russia.json) |
+| Cyber Seekers: Conquest | 298239 | [298239-cyber-seekers-conquest.json](./298239-cyber-seekers-conquest.json) |
+| Cyber Sensation: Malware Breakout | 298275 | [298275-cyber-sensation-malware-breakout.json](./298275-cyber-sensation-malware-breakout.json) |
 | Cyber Sensation: MicroLife | 351631 | [351631-cyber-sensation-microlife.json](./351631-cyber-sensation-microlife.json) |
 | Cyber Sentinel | 352329 | [352329-cyber-sentinel.json](./352329-cyber-sentinel.json) |
 | Cyber Seraph | 140447 | [140447-cyber-seraph.json](./140447-cyber-seraph.json) |
@@ -10104,6 +10108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cymut x Mutrobo: The Last Cymut | 292326 | [292326-cymut-x-mutrobo-the-last-cymut.json](./292326-cymut-x-mutrobo-the-last-cymut.json) |
 | Cynabre | 371334 | [371334-cynabre.json](./371334-cynabre.json) |
 | Cyndefense Remastered | 382289 | [382289-cyndefense-remastered.json](./382289-cyndefense-remastered.json) |
+| Cynderfall Cycle | 298268 | [298268-cynderfall-cycle.json](./298268-cynderfall-cycle.json) |
 | Cynoroid Gaiden | 150167 | [150167-cynoroid-gaiden.json](./150167-cynoroid-gaiden.json) |
 | Cynostone | 252248 | [252248-cynostone.json](./252248-cynostone.json) |
 | Cynosure | 105553 | [105553-cynosure.json](./105553-cynosure.json) |
