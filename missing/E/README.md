@@ -2396,6 +2396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Esau's World | 294150 | [294150-esaus-world.json](./294150-esaus-world.json) |
 | Esc | 177419 | [177419-esc.json](./177419-esc.json) |
 | ESC | 127884 | [127884-esc.json](./127884-esc.json) |
+| ESC | 292229 | [292229-esc.json](./292229-esc.json) |
 | ESC Ape | 185557 | [185557-esc-ape.json](./185557-esc-ape.json) |
 | Esc-8-bit | 114369 | [114369-esc-8-bit.json](./114369-esc-8-bit.json) |
 | Esc/ape | 374142 | [374142-esc-ape.json](./374142-esc-ape.json) |
@@ -3004,6 +3005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ethernal War | 152855 | [152855-ethernal-war.json](./152855-ethernal-war.json) |
 | Ethernalis | 26830 | [26830-ethernalis.json](./26830-ethernalis.json) |
 | Ethernia | 371979 | [371979-ethernia.json](./371979-ethernia.json) |
+| Etherrealm | 292248 | [292248-etherrealm.json](./292248-etherrealm.json) |
 | Etherwind | 392387 | [392387-etherwind.json](./392387-etherwind.json) |
 | EthnoGuessr | 340230 | [340230-ethnoguessr.json](./340230-ethnoguessr.json) |
 | Ethos: Divinity's Curse | 201706 | [201706-ethos-divinitys-curse.json](./201706-ethos-divinitys-curse.json) |
@@ -3767,6 +3769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exotica: Petshop Simulator | 215795 | [215795-exotica-petshop-simulator.json](./215795-exotica-petshop-simulator.json) |
 | ExoTrain | 391157 | [391157-exotrain.json](./391157-exotrain.json) |
 | Exovia | 342824 | [342824-exovia.json](./342824-exovia.json) |
+| Exovoid | 292238 | [292238-exovoid.json](./292238-exovoid.json) |
 | Exovore | 384221 | [384221-exovore.json](./384221-exovore.json) |
 | Exp!A | 151692 | [151692-exp-a.json](./151692-exp-a.json) |
 | Exp10sion | 277946 | [277946-exp10sion.json](./277946-exp10sion.json) |
@@ -3809,6 +3812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expert Laser Man | 120879 | [120879-expert-laser-man.json](./120879-expert-laser-man.json) |
 | Expert on Domestication | 152850 | [152850-expert-on-domestication.json](./152850-expert-on-domestication.json) |
 | Expest | 265611 | [265611-expest.json](./265611-expest.json) |
+| Exphysia | 292218 | [292218-exphysia.json](./292218-exphysia.json) |
 | Expiare | 388920 | [388920-expiare.json](./388920-expiare.json) |
 | Expiration | 171572 | [171572-expiration.json](./171572-expiration.json) |
 | Explo Bee | 233745 | [233745-explo-bee.json](./233745-explo-bee.json) |
