@@ -1051,6 +1051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onc' Picsou | 198841 | [198841-onc-picsou.json](./198841-onc-picsou.json) |
 | OnCall | 276185 | [276185-oncall.json](./276185-oncall.json) |
 | Once a Porn a Time | 216980 | [216980-once-a-porn-a-time.json](./216980-once-a-porn-a-time.json) |
+| Once a Porn a Time: Porn and Cards | 306004 | [306004-once-a-porn-a-time-porn-and-cards.json](./306004-once-a-porn-a-time-porn-and-cards.json) |
 | Once a Tale | 238461 | [238461-once-a-tale.json](./238461-once-a-tale.json) |
 | Once Chance | 16755 | [16755-once-chance.json](./16755-once-chance.json) |
 | Once Ever After | 111467 | [111467-once-ever-after.json](./111467-once-ever-after.json) |
