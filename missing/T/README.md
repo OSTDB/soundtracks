@@ -6862,6 +6862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Missing Trail | 307703 | [307703-the-missing-trail.json](./307703-the-missing-trail.json) |
 | The Mission | 78027 | [78027-the-mission.json](./78027-the-mission.json) |
 | The Mission Unpossible | 59061 | [59061-the-mission-unpossible.json](./59061-the-mission-unpossible.json) |
+| The Mist | 312221 | [312221-the-mist.json](./312221-the-mist.json) |
 | The Mist City | 284333 | [284333-the-mist-city.json](./284333-the-mist-city.json) |
 | The Mistcaller | 234641 | [234641-the-mistcaller.json](./234641-the-mistcaller.json) |
 | The Misty Tale | 190190 | [190190-the-misty-tale.json](./190190-the-misty-tale.json) |
@@ -9857,6 +9858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Think and Choice | 373758 | [373758-think-and-choice.json](./373758-think-and-choice.json) |
 | Think in Two | 388758 | [388758-think-in-two.json](./388758-think-in-two.json) |
 | Think Logic! Sudoku: Binary - Suguru | 231081 | [231081-think-logic-sudoku-binary-suguru.json](./231081-think-logic-sudoku-binary-suguru.json) |
+| Think or Die Collection Pack | 312097 | [312097-think-or-die-collection-pack.json](./312097-think-or-die-collection-pack.json) |
 | Think Quick! | 69222 | [69222-think-quick.json](./69222-think-quick.json) |
 | Think Shift | 250386 | [250386-think-shift.json](./250386-think-shift.json) |
 | Think Tap Turn | 100815 | [100815-think-tap-turn.json](./100815-think-tap-turn.json) |
@@ -10007,6 +10009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Those Who Rule | 211226 | [211226-those-who-rule.json](./211226-those-who-rule.json) |
 | Those Who Rule II | 394374 | [394374-those-who-rule-ii.json](./394374-those-who-rule-ii.json) |
 | Thou Shalt Be Brave | 134566 | [134566-thou-shalt-be-brave.json](./134566-thou-shalt-be-brave.json) |
+| Thou Shalt Not Kill | 312220 | [312220-thou-shalt-not-kill.json](./312220-thou-shalt-not-kill.json) |
 | Thoughtform Invasion | 292085 | [292085-thoughtform-invasion.json](./292085-thoughtform-invasion.json) |
 | Thousand Arms | 15461 | [15461-thousand-arms.json](./15461-thousand-arms.json) |
 | Thousand Hells: The Underworld Heists | 360177 | [360177-thousand-hells-the-underworld-heists.json](./360177-thousand-hells-the-underworld-heists.json) |
