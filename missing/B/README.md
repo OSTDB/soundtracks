@@ -840,6 +840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balls Bombs | 300733 | [300733-balls-bombs.json](./300733-balls-bombs.json) |
 | Balls Break Bricks | 384728 | [384728-balls-break-bricks.json](./384728-balls-break-bricks.json) |
 | Balls Control | 90767 | [90767-balls-control.json](./90767-balls-control.json) |
+| Balls like a Frog | 290658 | [290658-balls-like-a-frog.json](./290658-balls-like-a-frog.json) |
 | Balls n Blocks | 120255 | [120255-balls-n-blocks.json](./120255-balls-n-blocks.json) |
 | Balls of Glory Pinball | 261803 | [261803-balls-of-glory-pinball.json](./261803-balls-of-glory-pinball.json) |
 | Balls of Steel | 11097 | [11097-balls-of-steel.json](./11097-balls-of-steel.json) |
@@ -3812,6 +3813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bill & Ted's Excellent Adventure | 14302 | [14302-bill-and-teds-excellent-adventure.json](./14302-bill-and-teds-excellent-adventure.json) |
 | Bill & Ted's Excellent Adventure | 175897 | [175897-bill-and-teds-excellent-adventure.json](./175897-bill-and-teds-excellent-adventure.json) |
 | Bill & Ted's Excellent Adventure: The Computer Game! | 83911 | [83911-bill-and-teds-excellent-adventure-the-computer-game.json](./83911-bill-and-teds-excellent-adventure-the-computer-game.json) |
+| Bill & Ted's Excellent Game Boy Adventure | 290651 | [290651-bill-and-teds-excellent-game-boy-adventure.json](./290651-bill-and-teds-excellent-game-boy-adventure.json) |
 | Bill Bounce | 231623 | [231623-bill-bounce.json](./231623-bill-bounce.json) |
 | Bill Killem | 343997 | [343997-bill-killem.json](./343997-bill-killem.json) |
 | Bill Laimbeer's Combat Basketball | 46002 | [46002-bill-laimbeers-combat-basketball.json](./46002-bill-laimbeers-combat-basketball.json) |
@@ -4463,6 +4465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black My White Again | 334764 | [334764-black-my-white-again.json](./334764-black-my-white-again.json) |
 | Black Myth: Heaven | 339342 | [339342-black-myth-heaven.json](./339342-black-myth-heaven.json) |
 | Black Myth: Zhong Kui | 361900 | [361900-black-myth-zhong-kui.json](./361900-black-myth-zhong-kui.json) |
+| Black Ocean | 290645 | [290645-black-ocean.json](./290645-black-ocean.json) |
 | Black Omens: House of Crimson Silk | 387539 | [387539-black-omens-house-of-crimson-silk.json](./387539-black-omens-house-of-crimson-silk.json) |
 | Black Otaku 2: Taekwondo is in my Blood | 261770 | [261770-black-otaku-2-taekwondo-is-in-my-blood.json](./261770-black-otaku-2-taekwondo-is-in-my-blood.json) |
 | Black Otaku: SOS HD | 69352 | [69352-black-otaku-sos-hd.json](./69352-black-otaku-sos-hd.json) |
@@ -5035,6 +5038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blipz | 189050 | [189050-blipz.json](./189050-blipz.json) |
 | Bliss | 148891 | [148891-bliss.json](./148891-bliss.json) |
 | Bliss Valley | 336062 | [336062-bliss-valley.json](./336062-bliss-valley.json) |
+| Blister Blight | 290615 | [290615-blister-blight.json](./290615-blister-blight.json) |
 | Blit Seige | 138615 | [138615-blit-seige.json](./138615-blit-seige.json) |
 | Blithe | 177528 | [177528-blithe.json](./177528-blithe.json) |
 | Blitz & Blaze | 265775 | [265775-blitz-and-blaze.json](./265775-blitz-and-blaze.json) |
@@ -7178,6 +7182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Braminar | 80614 | [80614-braminar.json](./80614-braminar.json) |
 | Branchbound: Launch of the Logs | 377064 | [377064-branchbound-launch-of-the-logs.json](./377064-branchbound-launch-of-the-logs.json) |
 | Brand | 63553 | [63553-brand.json](./63553-brand.json) |
+| Brand New World | 290613 | [290613-brand-new-world.json](./290613-brand-new-world.json) |
 | Brand! New! Friends! | 372477 | [372477-brand-new-friends.json](./372477-brand-new-friends.json) |
 | Brandins Buttons | 151176 | [151176-brandins-buttons.json](./151176-brandins-buttons.json) |
 | Brandish | 16289 | [16289-brandish.json](./16289-brandish.json) |
