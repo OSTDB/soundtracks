@@ -1023,6 +1023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Réprobateur | 28016 | [28016-le-reprobateur.json](./28016-le-reprobateur.json) |
 | Le Sceptre d'Anubis | 304052 | [304052-le-sceptre-danubis.json](./304052-le-sceptre-danubis.json) |
 | Le Schmilblick | 118315 | [118315-le-schmilblick.json](./118315-le-schmilblick.json) |
+| Le Temple perdu de l'oncle Ernest | 281638 | [281638-le-temple-perdu-de-loncle-ernest.json](./281638-le-temple-perdu-de-loncle-ernest.json) |
 | Le Tour de France | 172668 | [172668-le-tour-de-france.json](./172668-le-tour-de-france.json) |
 | Le Tour de France: Centenary Edition | 43449 | [43449-le-tour-de-france-centenary-edition.json](./43449-le-tour-de-france-centenary-edition.json) |
 | Le Trésor d'ali Gator | 336174 | [336174-le-tresor-dali-gator.json](./336174-le-tresor-dali-gator.json) |
