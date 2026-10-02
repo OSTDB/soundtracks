@@ -3018,6 +3018,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Falling: Battle Tactics | 173251 | [173251-winter-falling-battle-tactics.json](./173251-winter-falling-battle-tactics.json) |
 | Winter Falling: Price of Life | 176352 | [176352-winter-falling-price-of-life.json](./176352-winter-falling-price-of-life.json) |
 | Winter Fragments | 285045 | [285045-winter-fragments.json](./285045-winter-fragments.json) |
+| Winter Games | 281634 | [281634-winter-games.json](./281634-winter-games.json) |
+| Winter Games | 281636 | [281636-winter-games.json](./281636-winter-games.json) |
+| Winter Games | 281637 | [281637-winter-games.json](./281637-winter-games.json) |
+| Winter Games | 281640 | [281640-winter-games.json](./281640-winter-games.json) |
+| Winter Games | 281641 | [281641-winter-games.json](./281641-winter-games.json) |
+| Winter Games | 281642 | [281642-winter-games.json](./281642-winter-games.json) |
+| Winter Games | 281644 | [281644-winter-games.json](./281644-winter-games.json) |
+| Winter Games | 281646 | [281646-winter-games.json](./281646-winter-games.json) |
+| Winter Games | 281647 | [281647-winter-games.json](./281647-winter-games.json) |
 | Winter Games | 388392 | [388392-winter-games.json](./388392-winter-games.json) |
 | Winter Heat | 367954 | [367954-winter-heat.json](./367954-winter-heat.json) |
 | Winter Lord | 329133 | [329133-winter-lord.json](./329133-winter-lord.json) |
