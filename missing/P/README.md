@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P.A.W.S.: Personal Automated Wagging System | 46573 | [46573-p-a-w-s-personal-automated-wagging-system.json](./46573-p-a-w-s-personal-automated-wagging-system.json) |
 | P.C. Fuzz | 92821 | [92821-p-c-fuzz.json](./92821-p-c-fuzz.json) |
 | P.Craft | 132121 | [132121-p-craft.json](./132121-p-craft.json) |
+| P.I. | 331463 | [331463-p-i.json](./331463-p-i.json) |
 | P.I. Al Luminum: Haunted House | 325635 | [325635-p-i-al-luminum-haunted-house.json](./325635-p-i-al-luminum-haunted-house.json) |
 | P.I.S. | 382221 | [382221-p-i-s.json](./382221-p-i-s.json) |
 | P.M.P. Project Murder Party | 176911 | [176911-p-m-p-project-murder-party.json](./176911-p-m-p-project-murder-party.json) |
@@ -597,6 +598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panel de Pon: Event Version 2 | 150106 | [150106-panel-de-pon-event-version-2.json](./150106-panel-de-pon-event-version-2.json) |
 | Panel Flux | 269112 | [269112-panel-flux.json](./269112-panel-flux.json) |
 | Panel Rabbit | 253611 | [253611-panel-rabbit.json](./253611-panel-rabbit.json) |
+| Panelka | 331522 | [331522-panelka.json](./331522-panelka.json) |
 | Paneltia Story: Karen no Daibouken | 97339 | [97339-paneltia-story-karen-no-daibouken.json](./97339-paneltia-story-karen-no-daibouken.json) |
 | Pang & Bang | 110963 | [110963-pang-and-bang.json](./110963-pang-and-bang.json) |
 | Pang Pom's | 40373 | [40373-pang-poms.json](./40373-pang-poms.json) |
@@ -1560,6 +1562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patience | 321609 | [321609-patience.json](./321609-patience.json) |
 | Patience Balls | 392789 | [392789-patience-balls.json](./392789-patience-balls.json) |
 | Patience Playdate | 276722 | [276722-patience-playdate.json](./276722-patience-playdate.json) |
+| Patient 001 | 331395 | [331395-patient-001.json](./331395-patient-001.json) |
 | Patient Rogue | 177482 | [177482-patient-rogue.json](./177482-patient-rogue.json) |
 | Patient Seven | 322709 | [322709-patient-seven.json](./322709-patient-seven.json) |
 | Patient Zero | 192676 | [192676-patient-zero.json](./192676-patient-zero.json) |
