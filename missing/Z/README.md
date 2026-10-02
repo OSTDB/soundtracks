@@ -867,6 +867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Survival Online | 157491 | [157491-zombie-survival-online.json](./157491-zombie-survival-online.json) |
 | Zombie Survival: The Walking Pandemic | 300830 | [300830-zombie-survival-the-walking-pandemic.json](./300830-zombie-survival-the-walking-pandemic.json) |
 | Zombie Survivor | 360682 | [360682-zombie-survivor.json](./360682-zombie-survivor.json) |
+| Zombie Survivors | 316679 | [316679-zombie-survivors.json](./316679-zombie-survivors.json) |
 | Zombie Sweeper | 99580 | [99580-zombie-sweeper.json](./99580-zombie-sweeper.json) |
 | Zombie Swipeout | 254555 | [254555-zombie-swipeout.json](./254555-zombie-swipeout.json) |
 | Zombie Tactics | 314671 | [314671-zombie-tactics.json](./314671-zombie-tactics.json) |
@@ -1104,6 +1105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zotrix Bundle | 52098 | [52098-zotrix-bundle.json](./52098-zotrix-bundle.json) |
 | Zotrix Starglider | 147263 | [147263-zotrix-starglider.json](./147263-zotrix-starglider.json) |
 | Zotto suru Kowai Toshi Densetsu | 252406 | [252406-zotto-suru-kowai-toshi-densetsu.json](./252406-zotto-suru-kowai-toshi-densetsu.json) |
+| Zoul Dungeon | 316677 | [316677-zoul-dungeon.json](./316677-zoul-dungeon.json) |
 | Zozo and the Lost Dreams | 369087 | [369087-zozo-and-the-lost-dreams.json](./369087-zozo-and-the-lost-dreams.json) |
 | Zozo's Show | 337749 | [337749-zozos-show.json](./337749-zozos-show.json) |
 | ZP2K9 | 78354 | [78354-zp2k9.json](./78354-zp2k9.json) |
@@ -1149,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zup! 7 | 76121 | [76121-zup-7.json](./76121-zup-7.json) |
 | Zup! F | 129833 | [129833-zup-f.json](./129833-zup-f.json) |
 | Zup! S | 111200 | [111200-zup-s.json](./111200-zup-s.json) |
+| Zup! Y | 316678 | [316678-zup-y.json](./316678-zup-y.json) |
 | Zup! Zero 2 | 105879 | [105879-zup-zero-2.json](./105879-zup-zero-2.json) |
 | Zupapa! | 47577 | [47577-zupapa.json](./47577-zupapa.json) |
 | Zupay: Shadows of Independence | 374072 | [374072-zupay-shadows-of-independence.json](./374072-zupay-shadows-of-independence.json) |
