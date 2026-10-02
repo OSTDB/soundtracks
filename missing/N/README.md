@@ -2278,6 +2278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare | 30102 | [30102-nightmare.json](./30102-nightmare.json) |
 | Nightmare | 393515 | [393515-nightmare.json](./393515-nightmare.json) |
 | Nightmare Adventures: The Witch's Prison & Nightmare Adventures: The Turning Thorn | 201856 | [201856-nightmare-adventures-the-witchs-prison-and-nightmare-adventures-the-turning-thorn.json](./201856-nightmare-adventures-the-witchs-prison-and-nightmare-adventures-the-turning-thorn.json) |
+| Nightmare Arts | 294946 | [294946-nightmare-arts.json](./294946-nightmare-arts.json) |
 | Nightmare at the lighthouse | 54454 | [54454-nightmare-at-the-lighthouse.json](./54454-nightmare-at-the-lighthouse.json) |
 | Nightmare Before Blackgate | 399096 | [399096-nightmare-before-blackgate.json](./399096-nightmare-before-blackgate.json) |
 | Nightmare Before Disney: Halloween Edition | 270751 | [270751-nightmare-before-disney-halloween-edition.json](./270751-nightmare-before-disney-halloween-edition.json) |
