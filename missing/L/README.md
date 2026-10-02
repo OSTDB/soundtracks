@@ -454,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laptick | 56741 | [56741-laptick.json](./56741-laptick.json) |
 | Laptick 2 | 56742 | [56742-laptick-2.json](./56742-laptick-2.json) |
 | Laptop Tycoon | 186603 | [186603-laptop-tycoon.json](./186603-laptop-tycoon.json) |
+| Lara at the Movies: Blood from the Mummy's Tomb | 315558 | [315558-lara-at-the-movies-blood-from-the-mummys-tomb.json](./315558-lara-at-the-movies-blood-from-the-mummys-tomb.json) |
 | Lara Croft and the Guardian of Light | 769 | [769-lara-croft-and-the-guardian-of-light.json](./769-lara-croft-and-the-guardian-of-light.json) |
 | Lara Gates: The Lost Talisman Hidden Object Game | 144761 | [144761-lara-gates-the-lost-talisman-hidden-object-game.json](./144761-lara-gates-the-lost-talisman-hidden-object-game.json) |
 | Laranja! | 391059 | [391059-laranja.json](./391059-laranja.json) |
@@ -3182,6 +3183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living Metal | 295406 | [295406-living-metal.json](./295406-living-metal.json) |
 | Living Nightmares: False Familiar | 344531 | [344531-living-nightmares-false-familiar.json](./344531-living-nightmares-false-familiar.json) |
 | Living Puzzles: Triazzle | 72023 | [72023-living-puzzles-triazzle.json](./72023-living-puzzles-triazzle.json) |
+| Living Room | 315586 | [315586-living-room.json](./315586-living-room.json) |
 | Living Shadows | 351727 | [351727-living-shadows.json](./351727-living-shadows.json) |
 | Living the Nightmare | 151144 | [151144-living-the-nightmare.json](./151144-living-the-nightmare.json) |
 | Living with an Elf: A Cozy Forest Retreat | 263195 | [263195-living-with-an-elf-a-cozy-forest-retreat.json](./263195-living-with-an-elf-a-cozy-forest-retreat.json) |
@@ -3584,6 +3586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Sky | 115793 | [115793-long-sky.json](./115793-long-sky.json) |
 | Long Star | 131618 | [131618-long-star.json](./131618-long-star.json) |
 | Long Time No See | 143477 | [143477-long-time-no-see.json](./143477-long-time-no-see.json) |
+| Long War of the Chosen | 315590 | [315590-long-war-of-the-chosen.json](./315590-long-war-of-the-chosen.json) |
 | Long Yard Run | 311052 | [311052-long-yard-run.json](./311052-long-yard-run.json) |
 | Long Z-Night | 118446 | [118446-long-z-night.json](./118446-long-z-night.json) |
 | Lóng zhī Gǔ: Huáijiù Fú | 398574 | [398574-long-zhi-gu-huaijiu-fu.json](./398574-long-zhi-gu-huaijiu-fu.json) |
