@@ -6359,12 +6359,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkfront | 182204 | [182204-arkfront.json](./182204-arkfront.json) |
 | Arkham Detective | 278178 | [278178-arkham-detective.json](./278178-arkham-detective.json) |
 | Arkhangel: The House of the Seven Stars | 104175 | [104175-arkhangel-the-house-of-the-seven-stars.json](./104175-arkhangel-the-house-of-the-seven-stars.json) |
+| Arkhe | 303682 | [303682-arkhe.json](./303682-arkhe.json) |
 | Arkheim: Realms at War | 195110 | [195110-arkheim-realms-at-war.json](./195110-arkheim-realms-at-war.json) |
 | Arknights: Endfield - Update 1.2: At the Wake of Spring | 398565 | [398565-arknights-endfield-update-1-2-at-the-wake-of-spring.json](./398565-arknights-endfield-update-1-2-at-the-wake-of-spring.json) |
 | Arknights: Endfield - Update 1.5: Dreamscape of Wind and Snow | 415939 | [415939-arknights-endfield-update-1-5-dreamscape-of-wind-and-snow.json](./415939-arknights-endfield-update-1-5-dreamscape-of-wind-and-snow.json) |
 | Arknights: Release | 253344 | [253344-arknights-release.json](./253344-arknights-release.json) |
 | Arktis SCP-RP | 383554 | [383554-arktis-scp-rp.json](./383554-arktis-scp-rp.json) |
 | Arktwend: The Forgotten Realm | 319107 | [319107-arktwend-the-forgotten-realm.json](./319107-arktwend-the-forgotten-realm.json) |
+| Arkwhale | 303681 | [303681-arkwhale.json](./303681-arkwhale.json) |
 | ARL 96 | 93147 | [93147-arl-96.json](./93147-arl-96.json) |
 | Arla Milkout! | 314036 | [314036-arla-milkout.json](./314036-arla-milkout.json) |
 | Arlcoco: The One Winged Princess Pet | 82774 | [82774-arlcoco-the-one-winged-princess-pet.json](./82774-arlcoco-the-one-winged-princess-pet.json) |
@@ -6396,6 +6398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armada Pet Wars | 373140 | [373140-armada-pet-wars.json](./373140-armada-pet-wars.json) |
 | Armada Skies | 82474 | [82474-armada-skies.json](./82474-armada-skies.json) |
 | Armada: Modern Tanks | 69355 | [69355-armada-modern-tanks.json](./69355-armada-modern-tanks.json) |
+| Armadillo Assault | 303680 | [303680-armadillo-assault.json](./303680-armadillo-assault.json) |
 | Armadillo Knight | 354557 | [354557-armadillo-knight.json](./354557-armadillo-knight.json) |
 | Armadillo Racing | 129114 | [129114-armadillo-racing.json](./129114-armadillo-racing.json) |
 | Armadusa | 118381 | [118381-armadusa.json](./118381-armadusa.json) |
@@ -6495,6 +6498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Kitten | 67904 | [67904-armored-kitten.json](./67904-armored-kitten.json) |
 | Armored Patrol | 55932 | [55932-armored-patrol.json](./55932-armored-patrol.json) |
 | Armored Squad | 83557 | [83557-armored-squad.json](./83557-armored-squad.json) |
+| Armored Suit Solgante | 303679 | [303679-armored-suit-solgante.json](./303679-armored-suit-solgante.json) |
 | Armored Trooper Votoms: Dead Ash | 98262 | [98262-armored-trooper-votoms-dead-ash.json](./98262-armored-trooper-votoms-dead-ash.json) |
 | Armored Us | 241619 | [241619-armored-us.json](./241619-armored-us.json) |
 | Armored War | 277327 | [277327-armored-war.json](./277327-armored-war.json) |
@@ -6638,7 +6642,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Attack | 366924 | [366924-art-attack.json](./366924-art-attack.json) |
 | Art by Numbers | 124140 | [124140-art-by-numbers.json](./124140-art-by-numbers.json) |
 | Art Challenge | 280897 | [280897-art-challenge.json](./280897-art-challenge.json) |
+| Art Dash | 303678 | [303678-art-dash.json](./303678-art-dash.json) |
 | Art Detective: Hidden Through Ancient China | 320327 | [320327-art-detective-hidden-through-ancient-china.json](./320327-art-detective-hidden-through-ancient-china.json) |
+| Art Diff | 303677 | [303677-art-diff.json](./303677-art-diff.json) |
 | Art for Snakes | 315704 | [315704-art-for-snakes.json](./315704-art-for-snakes.json) |
 | Art House | 367950 | [367950-art-house.json](./367950-art-house.json) |
 | Art is dead | 273646 | [273646-art-is-dead.json](./273646-art-is-dead.json) |
