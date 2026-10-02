@@ -6462,6 +6462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conran: The Dinky Raccoon | 29086 | [29086-conran-the-dinky-raccoon.json](./29086-conran-the-dinky-raccoon.json) |
 | Conscript | 137619 | [137619-conscript.json](./137619-conscript.json) |
 | Conscript: Deluxe Edition | 308797 | [308797-conscript-deluxe-edition.json](./308797-conscript-deluxe-edition.json) |
+| Conscript: Golden Gun Pack | 332002 | [332002-conscript-golden-gun-pack.json](./332002-conscript-golden-gun-pack.json) |
 | Consensual Torture Simulator | 15446 | [15446-consensual-torture-simulator.json](./15446-consensual-torture-simulator.json) |
 | Considerable Grandfather | 293643 | [293643-considerable-grandfather.json](./293643-considerable-grandfather.json) |
 | Considerable Grandfather: It Followed Me Home | 408784 | [408784-considerable-grandfather-it-followed-me-home.json](./408784-considerable-grandfather-it-followed-me-home.json) |
@@ -8544,6 +8545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossout: Insomnia Pack | 226826 | [226826-crossout-insomnia-pack.json](./226826-crossout-insomnia-pack.json) |
 | Crossout: Iron Shield Pack | 226827 | [226827-crossout-iron-shield-pack.json](./226827-crossout-iron-shield-pack.json) |
 | Crossout: Pandemic Pack | 226828 | [226828-crossout-pandemic-pack.json](./226828-crossout-pandemic-pack.json) |
+| Crossout: Polar Explorer | 331998 | [331998-crossout-polar-explorer.json](./331998-crossout-polar-explorer.json) |
 | Crossout: Polymorph pack | 226829 | [226829-crossout-polymorph-pack.json](./226829-crossout-polymorph-pack.json) |
 | Crossout: Ronin | 298171 | [298171-crossout-ronin.json](./298171-crossout-ronin.json) |
 | Crossout: Ronin - Deluxe Edition | 298172 | [298172-crossout-ronin-deluxe-edition.json](./298172-crossout-ronin-deluxe-edition.json) |
@@ -8551,7 +8553,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossout: Savior | 235767 | [235767-crossout-savior.json](./235767-crossout-savior.json) |
 | Crossout: Sky Raiders | 271714 | [271714-crossout-sky-raiders.json](./271714-crossout-sky-raiders.json) |
 | Crossout: Snake Bite Pack | 226830 | [226830-crossout-snake-bite-pack.json](./226830-crossout-snake-bite-pack.json) |
+| Crossout: Speed demon | 331999 | [331999-crossout-speed-demon.json](./331999-crossout-speed-demon.json) |
 | Crossout: Steel shield | 293766 | [293766-crossout-steel-shield.json](./293766-crossout-steel-shield.json) |
+| Crossout: The Creation | 332000 | [332000-crossout-the-creation.json](./332000-crossout-the-creation.json) |
 | Crossout: The Inventor Pack | 226831 | [226831-crossout-the-inventor-pack.json](./226831-crossout-the-inventor-pack.json) |
 | Crossout: The Tramp Pack | 226832 | [226832-crossout-the-tramp-pack.json](./226832-crossout-the-tramp-pack.json) |
 | Crossout: Triad - The Keeper pack | 226835 | [226835-crossout-triad-the-keeper-pack.json](./226835-crossout-triad-the-keeper-pack.json) |
