@@ -3491,6 +3491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: Legacy Collection | 192302 | [192302-destiny-2-legacy-collection.json](./192302-destiny-2-legacy-collection.json) |
 | Destiny 2: Lightfall - Season of the Deep | 250021 | [250021-destiny-2-lightfall-season-of-the-deep.json](./250021-destiny-2-lightfall-season-of-the-deep.json) |
 | Destiny 2: Limited Edition | 132151 | [132151-destiny-2-limited-edition.json](./132151-destiny-2-limited-edition.json) |
+| Destiny 2: Revenant | 319116 | [319116-destiny-2-revenant.json](./319116-destiny-2-revenant.json) |
 | Destiny 2: Revenant Silver Bundle | 326684 | [326684-destiny-2-revenant-silver-bundle.json](./326684-destiny-2-revenant-silver-bundle.json) |
 | Destiny 2: Season of the Splicer Silver Bundle | 147893 | [147893-destiny-2-season-of-the-splicer-silver-bundle.json](./147893-destiny-2-season-of-the-splicer-silver-bundle.json) |
 | Destiny 2: Shadowkeep - Season of Arrivals | 135150 | [135150-destiny-2-shadowkeep-season-of-arrivals.json](./135150-destiny-2-shadowkeep-season-of-arrivals.json) |
@@ -6592,6 +6593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double View | 250432 | [250432-double-view.json](./250432-double-view.json) |
 | Double World. Cave Song Castle | 163836 | [163836-double-world-cave-song-castle.json](./163836-double-world-cave-song-castle.json) |
 | Double Zags | 175266 | [175266-double-zags.json](./175266-double-zags.json) |
+| Double-Dabble | 319108 | [319108-double-dabble.json](./319108-double-dabble.json) |
 | Double-Entry Bookkeeping Simulator | 188549 | [188549-double-entry-bookkeeping-simulator.json](./188549-double-entry-bookkeeping-simulator.json) |
 | Doubleback | 42148 | [42148-doubleback.json](./42148-doubleback.json) |
 | DoubleClutch 2: Basketball | 266262 | [266262-doubleclutch-2-basketball.json](./266262-doubleclutch-2-basketball.json) |
