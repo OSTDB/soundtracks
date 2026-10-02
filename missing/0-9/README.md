@@ -1256,6 +1256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 6 | 34296 | [34296-6.json](./34296-6.json) |
 | 6 Colors | 93366 | [93366-6-colors.json](./93366-6-colors.json) |
 | 6 Feet Under | 177938 | [177938-6-feet-under.json](./177938-6-feet-under.json) |
+| 6 ft Blunder | 307231 | [307231-6-ft-blunder.json](./307231-6-ft-blunder.json) |
 | 6 Inch My Darling | 45449 | [45449-6-inch-my-darling.json](./45449-6-inch-my-darling.json) |
 | 6 Keys: The Gym | 370289 | [370289-6-keys-the-gym.json](./370289-6-keys-the-gym.json) |
 | 6 Love Dominoes | 88421 | [88421-6-love-dominoes.json](./88421-6-love-dominoes.json) |
