@@ -1770,6 +1770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrambled | 58163 | [58163-scrambled.json](./58163-scrambled.json) |
 | Scrambled Egg | 40198 | [40198-scrambled-egg.json](./40198-scrambled-egg.json) |
 | Scramblies | 58181 | [58181-scramblies.json](./58181-scramblies.json) |
+| Scrap Age | 280468 | [280468-scrap-age.json](./280468-scrap-age.json) |
 | Scrap Age Survivors | 306498 | [306498-scrap-age-survivors.json](./306498-scrap-age-survivors.json) |
 | Scrap Attack | 81924 | [81924-scrap-attack.json](./81924-scrap-attack.json) |
 | Scrap Bringer | 172130 | [172130-scrap-bringer.json](./172130-scrap-bringer.json) |
@@ -9668,6 +9669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Engineers: Automatons | 247778 | [247778-space-engineers-automatons.json](./247778-space-engineers-automatons.json) |
 | Space Engineers: Signal Pack | 310403 | [310403-space-engineers-signal-pack.json](./310403-space-engineers-signal-pack.json) |
 | Space Engineers: Ultimate Edition 2021 | 187967 | [187967-space-engineers-ultimate-edition-2021.json](./187967-space-engineers-ultimate-edition-2021.json) |
+| Space Engineers: Ultimate Edition 2023 | 280417 | [280417-space-engineers-ultimate-edition-2023.json](./280417-space-engineers-ultimate-edition-2023.json) |
 | Space Engineers: Ultimate Edition 2024 | 331850 | [331850-space-engineers-ultimate-edition-2024.json](./331850-space-engineers-ultimate-edition-2024.json) |
 | Space Escape | 322744 | [322744-space-escape.json](./322744-space-escape.json) |
 | Space Escape | 89978 | [89978-space-escape.json](./89978-space-escape.json) |
@@ -11102,6 +11104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants Bubble Ball | 382921 | [382921-spongebob-squarepants-bubble-ball.json](./382921-spongebob-squarepants-bubble-ball.json) |
 | SpongeBob SquarePants Bubble Rush! | 307852 | [307852-spongebob-squarepants-bubble-rush.json](./307852-spongebob-squarepants-bubble-rush.json) |
 | SpongeBob SquarePants Bubblegram | 382926 | [382926-spongebob-squarepants-bubblegram.json](./382926-spongebob-squarepants-bubblegram.json) |
+| SpongeBob SquarePants featuring Nicktoons: Globs of Doom | 280432 | [280432-spongebob-squarepants-featuring-nicktoons-globs-of-doom.json](./280432-spongebob-squarepants-featuring-nicktoons-globs-of-doom.json) |
 | SpongeBob SquarePants Saves the Krusty Krab | 135810 | [135810-spongebob-squarepants-saves-the-krusty-krab.json](./135810-spongebob-squarepants-saves-the-krusty-krab.json) |
 | SpongeBob SquarePants Talking Heads | 382919 | [382919-spongebob-squarepants-talking-heads.json](./382919-spongebob-squarepants-talking-heads.json) |
 | SpongeBob SquarePants: A Day in the Life of a Sponge | 73000 | [73000-spongebob-squarepants-a-day-in-the-life-of-a-sponge.json](./73000-spongebob-squarepants-a-day-in-the-life-of-a-sponge.json) |
@@ -13439,6 +13442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stillness | 348385 | [348385-stillness.json](./348385-stillness.json) |
 | Stillwater | 191558 | [191558-stillwater.json](./191558-stillwater.json) |
 | Stillwater | 398402 | [398402-stillwater.json](./398402-stillwater.json) |
+| Stillwater Remastered | 280424 | [280424-stillwater-remastered.json](./280424-stillwater-remastered.json) |
 | Stimmings | 264614 | [264614-stimmings.json](./264614-stimmings.json) |
 | Stimulation Clicker | 327636 | [327636-stimulation-clicker.json](./327636-stimulation-clicker.json) |
 | Stimuli | 133226 | [133226-stimuli.json](./133226-stimuli.json) |
@@ -14762,6 +14766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suika Puffworks | 373668 | [373668-suika-puffworks.json](./373668-suika-puffworks.json) |
 | Suika Shapes | 276165 | [276165-suika-shapes.json](./276165-suika-shapes.json) |
 | Suika Wan! | 397064 | [397064-suika-wan.json](./397064-suika-wan.json) |
+| Suika World | 280422 | [280422-suika-world.json](./280422-suika-world.json) |
 | Suikaiju | 331520 | [331520-suikaiju.json](./331520-suikaiju.json) |
 | Suikan Quest | 82857 | [82857-suikan-quest.json](./82857-suikan-quest.json) |
 | Suikarad Gold | 280766 | [280766-suikarad-gold.json](./280766-suikarad-gold.json) |
