@@ -679,6 +679,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Man Standing Coop: A Doom 3 Coop Mod | 301959 | [301959-last-man-standing-coop-a-doom-3-coop-mod.json](./301959-last-man-standing-coop-a-doom-3-coop-mod.json) |
 | Last Meal | 125999 | [125999-last-meal.json](./125999-last-meal.json) |
 | Last Memories | 236385 | [236385-last-memories.json](./236385-last-memories.json) |
+| Last Message | 316160 | [316160-last-message.json](./316160-last-message.json) |
+| Last Message Plus | 316173 | [316173-last-message-plus.json](./316173-last-message-plus.json) |
 | Last Minute Love | 177908 | [177908-last-minute-love.json](./177908-last-minute-love.json) |
 | Last Minute Shopping | 278544 | [278544-last-minute-shopping.json](./278544-last-minute-shopping.json) |
 | Last Moon | 120387 | [120387-last-moon.json](./120387-last-moon.json) |
@@ -3137,6 +3139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Live Lens | 312179 | [312179-live-lens.json](./312179-live-lens.json) |
 | Live Mathletics | 205622 | [205622-live-mathletics.json](./205622-live-mathletics.json) |
 | Live Maze | 210874 | [210874-live-maze.json](./210874-live-maze.json) |
+| Live Mystery: The Worst Behind the Scenes in History | 316146 | [316146-live-mystery-the-worst-behind-the-scenes-in-history.json](./316146-live-mystery-the-worst-behind-the-scenes-in-history.json) |
 | Live or Die | 191091 | [191091-live-or-die.json](./191091-live-or-die.json) |
 | Live or Die: Survival | 106527 | [106527-live-or-die-survival.json](./106527-live-or-die-survival.json) |
 | LIve Pict | 278724 | [278724-live-pict.json](./278724-live-pict.json) |
@@ -4419,6 +4422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Goddess | 155019 | [155019-lovely-goddess.json](./155019-lovely-goddess.json) |
 | Lovely Island | 109620 | [109620-lovely-island.json](./109620-lovely-island.json) |
 | Lovely Koala | 325612 | [325612-lovely-koala.json](./325612-lovely-koala.json) |
+| Lovely Lady RPG | 316163 | [316163-lovely-lady-rpg.json](./316163-lovely-lady-rpg.json) |
 | Lovely Lisa 3D | 80608 | [80608-lovely-lisa-3d.json](./80608-lovely-lisa-3d.json) |
 | Lovely Lodgings: Autumn Edition | 402310 | [402310-lovely-lodgings-autumn-edition.json](./402310-lovely-lodgings-autumn-edition.json) |
 | Lovely Magicals! | 364486 | [364486-lovely-magicals.json](./364486-lovely-magicals.json) |
