@@ -1833,6 +1833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Felicity's Door | 381104 | [381104-felicitys-door.json](./381104-felicitys-door.json) |
 | Feline | 171559 | [171559-feline.json](./171559-feline.json) |
 | Feline Fever Dream | 416641 | [416641-feline-fever-dream.json](./416641-feline-fever-dream.json) |
+| Feline Forensics and the Meowseum Mystery | 299368 | [299368-feline-forensics-and-the-meowseum-mystery.json](./299368-feline-forensics-and-the-meowseum-mystery.json) |
 | Feline Realms: The Ancients' Legacy | 386280 | [386280-feline-realms-the-ancients-legacy.json](./386280-feline-realms-the-ancients-legacy.json) |
 | Feline Sweet | 165430 | [165430-feline-sweet.json](./165430-feline-sweet.json) |
 | Felinea Tales | 328532 | [328532-felinea-tales.json](./328532-felinea-tales.json) |
