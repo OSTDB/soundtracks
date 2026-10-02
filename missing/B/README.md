@@ -2425,6 +2425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Landing | 307933 | [307933-beach-landing.json](./307933-beach-landing.json) |
 | Beach Life | 11822 | [11822-beach-life.json](./11822-beach-life.json) |
 | Beach Life Simulator | 371247 | [371247-beach-life-simulator.json](./371247-beach-life-simulator.json) |
+| Beach Ping Pong Babes VR | 311171 | [311171-beach-ping-pong-babes-vr.json](./311171-beach-ping-pong-babes-vr.json) |
 | Beach Pong | 109736 | [109736-beach-pong.json](./109736-beach-pong.json) |
 | Beach Relaxation VR | 160146 | [160146-beach-relaxation-vr.json](./160146-beach-relaxation-vr.json) |
 | Beach Resort Simulator | 36189 | [36189-beach-resort-simulator.json](./36189-beach-resort-simulator.json) |
