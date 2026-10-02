@@ -9100,6 +9100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Math | 257428 | [257428-crystal-math.json](./257428-crystal-math.json) |
 | Crystal of Atlantis | 247981 | [247981-crystal-of-atlantis.json](./247981-crystal-of-atlantis.json) |
 | Crystal Path | 107821 | [107821-crystal-path.json](./107821-crystal-path.json) |
+| Crystal Project: Mod Pack 1 - Quality Fun | 300934 | [300934-crystal-project-mod-pack-1-quality-fun.json](./300934-crystal-project-mod-pack-1-quality-fun.json) |
 | Crystal Project: Mod Pack 2 - New Challenges | 314886 | [314886-crystal-project-mod-pack-2-new-challenges.json](./314886-crystal-project-mod-pack-2-new-challenges.json) |
 | Crystal Quest Classic | 32182 | [32182-crystal-quest-classic.json](./32182-crystal-quest-classic.json) |
 | Crystal Raider | 55188 | [55188-crystal-raider.json](./55188-crystal-raider.json) |
