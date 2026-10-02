@@ -5730,6 +5730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters XIII: Nests Style Kyo | 404922 | [404922-the-king-of-fighters-xiii-nests-style-kyo.json](./404922-the-king-of-fighters-xiii-nests-style-kyo.json) |
 | The King of Fighters XIV | 18814 | [18814-the-king-of-fighters-xiv.json](./18814-the-king-of-fighters-xiv.json) |
 | The King of Fighters XIV Steam Edition | 36636 | [36636-the-king-of-fighters-xiv-steam-edition.json](./36636-the-king-of-fighters-xiv-steam-edition.json) |
+| The King of Fighters XIV: 4 Character Bundle Pack 2 | 320246 | [320246-the-king-of-fighters-xiv-4-character-bundle-pack-2.json](./320246-the-king-of-fighters-xiv-4-character-bundle-pack-2.json) |
 | The King of Fighters XIV: Athena KOF ‘98 Costume | 342871 | [342871-the-king-of-fighters-xiv-athena-kof-98-costume.json](./342871-the-king-of-fighters-xiv-athena-kof-98-costume.json) |
 | The King of Fighters XIV: Blue Mary | 321571 | [321571-the-king-of-fighters-xiv-blue-mary.json](./321571-the-king-of-fighters-xiv-blue-mary.json) |
 | The King of Fighters XIV: Classic Iori Costume | 322961 | [322961-the-king-of-fighters-xiv-classic-iori-costume.json](./322961-the-king-of-fighters-xiv-classic-iori-costume.json) |
@@ -5740,9 +5741,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King Of Fighters XIV: Nakoruru School Costume | 342869 | [342869-the-king-of-fighters-xiv-nakoruru-school-costume.json](./342869-the-king-of-fighters-xiv-nakoruru-school-costume.json) |
 | The King Of FIghters XIV: Nightmare Geese Costume | 338177 | [338177-the-king-of-fighters-xiv-nightmare-geese-costume.json](./338177-the-king-of-fighters-xiv-nightmare-geese-costume.json) |
 | The King of Fighters XIV: Oswald | 321569 | [321569-the-king-of-fighters-xiv-oswald.json](./321569-the-king-of-fighters-xiv-oswald.json) |
+| The King Of Fighters XIV: Rock Howard | 320252 | [320252-the-king-of-fighters-xiv-rock-howard.json](./320252-the-king-of-fighters-xiv-rock-howard.json) |
+| The King Of Fighters XIV: Ryuji Yamazaki | 320251 | [320251-the-king-of-fighters-xiv-ryuji-yamazaki.json](./320251-the-king-of-fighters-xiv-ryuji-yamazaki.json) |
 | The King of Fighters XIV: Shun'ei Kung-Fu Costume | 342867 | [342867-the-king-of-fighters-xiv-shunei-kung-fu-costume.json](./342867-the-king-of-fighters-xiv-shunei-kung-fu-costume.json) |
 | The King Of Fighters XIV: Sylvie Little Red Riding Hood Costume | 342870 | [342870-the-king-of-fighters-xiv-sylvie-little-red-riding-hood-costume.json](./342870-the-king-of-fighters-xiv-sylvie-little-red-riding-hood-costume.json) |
 | The King of Fighters XIV: Ultimate Edition | 146182 | [146182-the-king-of-fighters-xiv-ultimate-edition.json](./146182-the-king-of-fighters-xiv-ultimate-edition.json) |
+| The King of Fighters XIV: Vanessa | 320254 | [320254-the-king-of-fighters-xiv-vanessa.json](./320254-the-king-of-fighters-xiv-vanessa.json) |
+| The King Of Fighters XIV: Whip | 320256 | [320256-the-king-of-fighters-xiv-whip.json](./320256-the-king-of-fighters-xiv-whip.json) |
 | The King of Fighters XV: Character "Sylvie Paula Paula" | 249759 | [249759-the-king-of-fighters-xv-character-sylvie-paula-paula.json](./249759-the-king-of-fighters-xv-character-sylvie-paula-paula.json) |
 | The King of Fighters XV: Characters Mature & Vice | 317839 | [317839-the-king-of-fighters-xv-characters-mature-and-vice.json](./317839-the-king-of-fighters-xv-characters-mature-and-vice.json) |
 | The King of Fighters XV: DLC Costume "Classic Leona" | 332031 | [332031-the-king-of-fighters-xv-dlc-costume-classic-leona.json](./332031-the-king-of-fighters-xv-dlc-costume-classic-leona.json) |
@@ -8036,6 +8041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Show Must Go On | 179583 | [179583-the-show-must-go-on.json](./179583-the-show-must-go-on.json) |
 | The Showdown Effect | 9070 | [9070-the-showdown-effect.json](./9070-the-showdown-effect.json) |
 | The Showdown Effect: Deluxe Edition | 53779 | [53779-the-showdown-effect-deluxe-edition.json](./53779-the-showdown-effect-deluxe-edition.json) |
+| The Shroom Project | 320236 | [320236-the-shroom-project.json](./320236-the-shroom-project.json) |
 | The Shu Legend | 405566 | [405566-the-shu-legend.json](./405566-the-shu-legend.json) |
 | The Siege of Brimir | 231394 | [231394-the-siege-of-brimir.json](./231394-the-siege-of-brimir.json) |
 | The Siege of Jeomdo | 258199 | [258199-the-siege-of-jeomdo.json](./258199-the-siege-of-jeomdo.json) |
@@ -14526,6 +14532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers: Fall of Cybertron | 8361 | [8361-transformers-fall-of-cybertron.json](./8361-transformers-fall-of-cybertron.json) |
 | Transformers: Forged to Fight | 27995 | [27995-transformers-forged-to-fight.json](./27995-transformers-forged-to-fight.json) |
 | Transformers: Galactic Trials | 307442 | [307442-transformers-galactic-trials.json](./307442-transformers-galactic-trials.json) |
+| Transformers: Multi Shock | 320261 | [320261-transformers-multi-shock.json](./320261-transformers-multi-shock.json) |
 | Transformers: Reactivate | 228536 | [228536-transformers-reactivate.json](./228536-transformers-reactivate.json) |
 | Transformers: Revenge of the Fallen | 335116 | [335116-transformers-revenge-of-the-fallen.json](./335116-transformers-revenge-of-the-fallen.json) |
 | Transformers: Revenge of the Fallen - Autobots | 206709 | [206709-transformers-revenge-of-the-fallen-autobots.json](./206709-transformers-revenge-of-the-fallen-autobots.json) |
