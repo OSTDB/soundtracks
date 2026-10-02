@@ -2746,6 +2746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat Survivor | 367025 | [367025-goat-survivor.json](./367025-goat-survivor.json) |
 | Goat!Goat! | 242481 | [242481-goat-goat.json](./242481-goat-goat.json) |
 | Goat's Tale 2: Plus | 236770 | [236770-goats-tale-2-plus.json](./236770-goats-tale-2-plus.json) |
+| Goat's Tale Adventure | 283378 | [283378-goats-tale-adventure.json](./283378-goats-tale-adventure.json) |
 | GoatBrains | 405036 | [405036-goatbrains.json](./405036-goatbrains.json) |
 | Goats on a Bridge | 10367 | [10367-goats-on-a-bridge.json](./10367-goats-on-a-bridge.json) |
 | Gob | 415231 | [415231-gob.json](./415231-gob.json) |
@@ -4859,6 +4860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian Angel for Hire | 178585 | [178585-guardian-angel-for-hire.json](./178585-guardian-angel-for-hire.json) |
 | Guardian Chronicle: Random Defense | 144989 | [144989-guardian-chronicle-random-defense.json](./144989-guardian-chronicle-random-defense.json) |
 | Guardian Force: Saturn Tribute | 173780 | [173780-guardian-force-saturn-tribute.json](./173780-guardian-force-saturn-tribute.json) |
+| Guardian Frame: Debrief! | 283386 | [283386-guardian-frame-debrief.json](./283386-guardian-frame-debrief.json) |
 | Guardian Girls: Astral Battle | 298624 | [298624-guardian-girls-astral-battle.json](./298624-guardian-girls-astral-battle.json) |
 | Guardian Goddess | 255177 | [255177-guardian-goddess.json](./255177-guardian-goddess.json) |
 | Guardian Goddess | 291577 | [291577-guardian-goddess.json](./291577-guardian-goddess.json) |
