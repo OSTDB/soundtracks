@@ -153,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fable Clinic | 56768 | [56768-fable-clinic.json](./56768-fable-clinic.json) |
 | Fable Forts! | 261883 | [261883-fable-forts.json](./261883-fable-forts.json) |
 | Fable Grove | 309476 | [309476-fable-grove.json](./309476-fable-grove.json) |
+| Fable II Bonus Game Content | 289012 | [289012-fable-ii-bonus-game-content.json](./289012-fable-ii-bonus-game-content.json) |
 | Fable II: Game of the Year Edition | 47477 | [47477-fable-ii-game-of-the-year-edition.json](./47477-fable-ii-game-of-the-year-edition.json) |
 | Fable II: Limited Collector's Edition | 47415 | [47415-fable-ii-limited-collectors-edition.json](./47415-fable-ii-limited-collectors-edition.json) |
 | Fable II: Pub Games | 21328 | [21328-fable-ii-pub-games.json](./21328-fable-ii-pub-games.json) |
