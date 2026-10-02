@@ -1785,6 +1785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junk: The Legend of Junichi Kato | 164235 | [164235-junk-the-legend-of-junichi-kato.json](./164235-junk-the-legend-of-junichi-kato.json) |
 | Junk! | 345637 | [345637-junk.json](./345637-junk.json) |
 | Junkcity Factory Simulator | 326397 | [326397-junkcity-factory-simulator.json](./326397-junkcity-factory-simulator.json) |
+| Junkfood 3: Wow Wow West | 307812 | [307812-junkfood-3-wow-wow-west.json](./307812-junkfood-3-wow-wow-west.json) |
 | Junkineering | 320866 | [320866-junkineering.json](./320866-junkineering.json) |
 | Junkland Jam | 92097 | [92097-junkland-jam.json](./92097-junkland-jam.json) |
 | Junklands | 284897 | [284897-junklands.json](./284897-junklands.json) |
