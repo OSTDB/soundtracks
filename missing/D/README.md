@@ -3081,6 +3081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon With a Candy Crisis | 391329 | [391329-demon-with-a-candy-crisis.json](./391329-demon-with-a-candy-crisis.json) |
 | Demon Wolf Simulator | 102779 | [102779-demon-wolf-simulator.json](./102779-demon-wolf-simulator.json) |
 | Demon World Survival | 195201 | [195201-demon-world-survival.json](./195201-demon-world-survival.json) |
+| Demon: Recollect | 286222 | [286222-demon-recollect.json](./286222-demon-recollect.json) |
 | Demon's Bane | 253299 | [253299-demons-bane.json](./253299-demons-bane.json) |
 | Demon's Crest | 18067 | [18067-demons-crest.json](./18067-demons-crest.json) |
 | Demon's Crystals | 20402 | [20402-demons-crystals.json](./20402-demons-crystals.json) |
@@ -6761,6 +6762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Down in the Depths Blind | 219263 | [219263-down-in-the-depths-blind.json](./219263-down-in-the-depths-blind.json) |
 | Down in the Dungeon | 175937 | [175937-down-in-the-dungeon.json](./175937-down-in-the-dungeon.json) |
 | Down In The Dungeon | 307684 | [307684-down-in-the-dungeon.json](./307684-down-in-the-dungeon.json) |
+| Down is Relative | 286220 | [286220-down-is-relative.json](./286220-down-is-relative.json) |
 | Down Load | 37716 | [37716-down-load.json](./37716-down-load.json) |
 | Down Load 2 | 85810 | [85810-down-load-2.json](./85810-down-load-2.json) |
 | Down Means Up | 121561 | [121561-down-means-up.json](./121561-down-means-up.json) |
@@ -8185,6 +8187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Combat | 127013 | [127013-drone-combat.json](./127013-drone-combat.json) |
 | Drone Crash Course | 190171 | [190171-drone-crash-course.json](./190171-drone-crash-course.json) |
 | Drone Delivery Express: City Simulator | 389052 | [389052-drone-delivery-express-city-simulator.json](./389052-drone-delivery-express-city-simulator.json) |
+| Drone Delivery Simulator | 286211 | [286211-drone-delivery-simulator.json](./286211-drone-delivery-simulator.json) |
 | Drone Investigations | 127866 | [127866-drone-investigations.json](./127866-drone-investigations.json) |
 | Drone Lander | 23859 | [23859-drone-lander.json](./23859-drone-lander.json) |
 | Drone Race Simulator Pilot Flight School Airplane Games Jet 2023 | 227515 | [227515-drone-race-simulator-pilot-flight-school-airplane-games-jet-2023.json](./227515-drone-race-simulator-pilot-flight-school-airplane-games-jet-2023.json) |
