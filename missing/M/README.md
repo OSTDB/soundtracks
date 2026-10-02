@@ -8573,6 +8573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Rush GT: Gold Edition | 259546 | [259546-moto-rush-gt-gold-edition.json](./259546-moto-rush-gt-gold-edition.json) |
 | Moto Rush GT: Grand Edition | 315869 | [315869-moto-rush-gt-grand-edition.json](./315869-moto-rush-gt-grand-edition.json) |
 | Moto Rush GT: Hyper Edition | 338005 | [338005-moto-rush-gt-hyper-edition.json](./338005-moto-rush-gt-hyper-edition.json) |
+| Moto Rush GT: Infinite Edition | 317909 | [317909-moto-rush-gt-infinite-edition.json](./317909-moto-rush-gt-infinite-edition.json) |
 | Moto Rush GT: Mega Edition | 324373 | [324373-moto-rush-gt-mega-edition.json](./324373-moto-rush-gt-mega-edition.json) |
 | Moto Rush GT: NY Edition | 277895 | [277895-moto-rush-gt-ny-edition.json](./277895-moto-rush-gt-ny-edition.json) |
 | Moto Rush GT: Platinium Edition | 275048 | [275048-moto-rush-gt-platinium-edition.json](./275048-moto-rush-gt-platinium-edition.json) |
