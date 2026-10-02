@@ -180,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zed | 112831 | [112831-zed.json](./112831-zed.json) |
 | Zed Zone | 216810 | [216810-zed-zone.json](./216810-zed-zone.json) |
 | Zeddas | 242258 | [242258-zeddas.json](./242258-zeddas.json) |
+| Zeddytron 2081 | 293360 | [293360-zeddytron-2081.json](./293360-zeddytron-2081.json) |
 | Zedipede | 279732 | [279732-zedipede.json](./279732-zedipede.json) |
 | Zee Artillery | 93068 | [93068-zee-artillery.json](./93068-zee-artillery.json) |
 | Zeebo F.C. Foot Camp | 91898 | [91898-zeebo-f-c-foot-camp.json](./91898-zeebo-f-c-foot-camp.json) |
@@ -1184,6 +1185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zwerg: A Tale of Beer and Hunger | 413710 | [413710-zwerg-a-tale-of-beer-and-hunger.json](./413710-zwerg-a-tale-of-beer-and-hunger.json) |
 | ZX Asteroids | 319602 | [319602-zx-asteroids.json](./319602-zx-asteroids.json) |
 | ZX Spectrum Pac-Man Arcade | 281479 | [281479-zx-spectrum-pac-man-arcade.json](./281479-zx-spectrum-pac-man-arcade.json) |
+| ZX Terror House | 293359 | [293359-zx-terror-house.json](./293359-zx-terror-house.json) |
 | ZXC | 266803 | [266803-zxc.json](./266803-zxc.json) |
 | ZXombies! | 281532 | [281532-zxombies.json](./281532-zxombies.json) |
 | ZxZ | 307621 | [307621-zxz.json](./307621-zxz.json) |
