@@ -2707,6 +2707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 2030 Proto-Interfacer's Guide to House-Oriented Emotional Exploration | 283711 | [283711-the-2030-proto-interfacers-guide-to-house-oriented-emotional-exploration.json](./283711-the-2030-proto-interfacers-guide-to-house-oriented-emotional-exploration.json) |
 | The 2048 | 48015 | [48015-the-2048.json](./48015-the-2048.json) |
 | The 22nd is Serda. F0a178 | 219566 | [219566-the-22nd-is-serda-f0a178.json](./219566-the-22nd-is-serda-f0a178.json) |
+| The 257th Element | 289570 | [289570-the-257th-element.json](./289570-the-257th-element.json) |
 | The 3 Little Princesses | 357253 | [357253-the-3-little-princesses.json](./357253-the-3-little-princesses.json) |
 | The 3 Lost Challenges | 309018 | [309018-the-3-lost-challenges.json](./309018-the-3-lost-challenges.json) |
 | The 37th Week | 75823 | [75823-the-37th-week.json](./75823-the-37th-week.json) |
@@ -2727,6 +2728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 7D Mine Train | 89163 | [89163-the-7d-mine-train.json](./89163-the-7d-mine-train.json) |
 | The 7th Annual Vanilla Level Design Contest: Collaboration Hack | 228392 | [228392-the-7th-annual-vanilla-level-design-contest-collaboration-hack.json](./228392-the-7th-annual-vanilla-level-design-contest-collaboration-hack.json) |
 | The 7th Circle: Endless Nightmare | 99081 | [99081-the-7th-circle-endless-nightmare.json](./99081-the-7th-circle-endless-nightmare.json) |
+| The 7th Circle: Endless Nightmare Update | 289590 | [289590-the-7th-circle-endless-nightmare-update.json](./289590-the-7th-circle-endless-nightmare-update.json) |
 | The 7th Guest VR | 251565 | [251565-the-7th-guest-vr.json](./251565-the-7th-guest-vr.json) |
 | The 7th Guest: 25th Anniversary Edition | 116545 | [116545-the-7th-guest-25th-anniversary-edition.json](./116545-the-7th-guest-25th-anniversary-edition.json) |
 | The 7th Melee: Sonic's Heroes | 330719 | [330719-the-7th-melee-sonics-heroes.json](./330719-the-7th-melee-sonics-heroes.json) |
@@ -3419,6 +3421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bow | 60602 | [60602-the-bow.json](./60602-the-bow.json) |
 | The Bowling Tournament | 277418 | [277418-the-bowling-tournament.json](./277418-the-bowling-tournament.json) |
 | The Bowyage | 265208 | [265208-the-bowyage.json](./265208-the-bowyage.json) |
+| The Box | 289568 | [289568-the-box.json](./289568-the-box.json) |
 | The Box Game | 203550 | [203550-the-box-game.json](./203550-the-box-game.json) |
 | The Boy With Bombs | 61122 | [61122-the-boy-with-bombs.json](./61122-the-boy-with-bombs.json) |
 | The Boyd File | 58826 | [58826-the-boyd-file.json](./58826-the-boyd-file.json) |
@@ -7297,6 +7300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outer Worlds: Spacer's Choice Edition | 239999 | [239999-the-outer-worlds-spacers-choice-edition.json](./239999-the-outer-worlds-spacers-choice-edition.json) |
 | The Outer Zone: Survival Tactics | 264856 | [264856-the-outer-zone-survival-tactics.json](./264856-the-outer-zone-survival-tactics.json) |
 | The Outlast Trials | 127165 | [127165-the-outlast-trials.json](./127165-the-outlast-trials.json) |
+| The Outlast Trials: Deluxe Edition | 289556 | [289556-the-outlast-trials-deluxe-edition.json](./289556-the-outlast-trials-deluxe-edition.json) |
 | The Outlast Trials: Exotica Pack | 332013 | [332013-the-outlast-trials-exotica-pack.json](./332013-the-outlast-trials-exotica-pack.json) |
 | The Outlast Trials: Porcelain Observer Pack | 366838 | [366838-the-outlast-trials-porcelain-observer-pack.json](./366838-the-outlast-trials-porcelain-observer-pack.json) |
 | The Outlast Trials: Project Relapse | 342069 | [342069-the-outlast-trials-project-relapse.json](./342069-the-outlast-trials-project-relapse.json) |
