@@ -791,6 +791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keibatsuu Portable 2 | 56769 | [56769-keibatsuu-portable-2.json](./56769-keibatsuu-portable-2.json) |
 | Keiji J.B. Harold no Jikenbo: Manhattan Requiem | 350562 | [350562-keiji-j-b-harold-no-jikenbo-manhattan-requiem.json](./350562-keiji-j-b-harold-no-jikenbo-manhattan-requiem.json) |
 | Keiji J.B. Harold no Jikenbo: Murder Club | 272022 | [272022-keiji-j-b-harold-no-jikenbo-murder-club.json](./272022-keiji-j-b-harold-no-jikenbo-murder-club.json) |
+| Keiji J.B. Harold no Jikenbo: Murder Club | 320848 | [320848-keiji-j-b-harold-no-jikenbo-murder-club.json](./320848-keiji-j-b-harold-no-jikenbo-murder-club.json) |
 | Keiko-chan no Himitsu | 67373 | [67373-keiko-chan-no-himitsu.json](./67373-keiko-chan-no-himitsu.json) |
 | Keine's Expanding Class! | 386435 | [386435-keines-expanding-class.json](./386435-keines-expanding-class.json) |
 | Keineged an nor | 181217 | [181217-keineged-an-nor.json](./181217-keineged-an-nor.json) |
@@ -3032,6 +3033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyonyuu Hitozuma Shimai wa Nakadashi Niku Benki: Oi no Wakai Kyokon ni Soku Ochi Mesu Yorokobi de Netori Haramase Onedari | 59029 | [59029-kyonyuu-hitozuma-shimai-wa-nakadashi-niku-benki-oi-no-wakai-kyokon-ni-soku-ochi-mesu-yorokobi-de-netori-haramase-onedari.json](./59029-kyonyuu-hitozuma-shimai-wa-nakadashi-niku-benki-oi-no-wakai-kyokon-ni-soku-ochi-mesu-yorokobi-de-netori-haramase-onedari.json) |
 | Kyora | 325587 | [325587-kyora.json](./325587-kyora.json) |
 | Kyoryu | 315130 | [315130-kyoryu.json](./315130-kyoryu.json) |
+| Kyosho | 320817 | [320817-kyosho.json](./320817-kyosho.json) |
 | Kyoto | 128630 | [128630-kyoto.json](./128630-kyoto.json) |
 | Kyoto Maiko Monogatari | 333558 | [333558-kyoto-maiko-monogatari.json](./333558-kyoto-maiko-monogatari.json) |
 | Kyou kara Tsukaeru Hisshou Business Shinrigaku | 261376 | [261376-kyou-kara-tsukaeru-hisshou-business-shinrigaku.json](./261376-kyou-kara-tsukaeru-hisshou-business-shinrigaku.json) |
