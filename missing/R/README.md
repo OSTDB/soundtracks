@@ -6215,6 +6215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush | 326737 | [326737-rush.json](./326737-rush.json) |
 | Rush | 7634 | [7634-rush.json](./7634-rush.json) |
 | Rush | 88768 | [88768-rush.json](./88768-rush.json) |
+| Rush and Blush | 333782 | [333782-rush-and-blush.json](./333782-rush-and-blush.json) |
 | Rush Back | 270680 | [270680-rush-back.json](./270680-rush-back.json) |
 | Rush For Glory | 10803 | [10803-rush-for-glory.json](./10803-rush-for-glory.json) |
 | Rush for Gold: California | 33345 | [33345-rush-for-gold-california.json](./33345-rush-for-gold-california.json) |
