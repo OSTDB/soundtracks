@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eagle Rising | 356154 | [356154-eagle-rising.json](./356154-eagle-rising.json) |
 | Eagle Simulator | 186817 | [186817-eagle-simulator.json](./186817-eagle-simulator.json) |
 | Eagle Simulator | 86727 | [86727-eagle-simulator.json](./86727-eagle-simulator.json) |
+| Eagle Summoner | 307825 | [307825-eagle-summoner.json](./307825-eagle-summoner.json) |
 | Eagle: Special Forces | 333383 | [333383-eagle-special-forces.json](./333383-eagle-special-forces.json) |
 | Eagle's Rider | 13627 | [13627-eagles-rider.json](./13627-eagles-rider.json) |
 | EagleRoad: WorldRise | 406297 | [406297-eagleroad-worldrise.json](./406297-eagleroad-worldrise.json) |
@@ -1152,6 +1153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elevator | 390275 | [390275-elevator.json](./390275-elevator.json) |
 | Elevator | 58300 | [58300-elevator.json](./58300-elevator.json) |
 | Elevator Action | 276516 | [276516-elevator-action.json](./276516-elevator-action.json) |
+| Elevator Action | 307821 | [307821-elevator-action.json](./307821-elevator-action.json) |
 | Elevator Action | 51241 | [51241-elevator-action.json](./51241-elevator-action.json) |
 | Elevator Action 3D | 286679 | [286679-elevator-action-3d.json](./286679-elevator-action-3d.json) |
 | Elevator Action 500 | 394313 | [394313-elevator-action-500.json](./394313-elevator-action-500.json) |
