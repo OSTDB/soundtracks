@@ -3530,6 +3530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Novath | 347766 | [347766-novath.json](./347766-novath.json) |
 | Novaxandria Volume 01 | 358447 | [358447-novaxandria-volume-01.json](./358447-novaxandria-volume-01.json) |
 | Novel Simulator | 392130 | [392130-novel-simulator.json](./392130-novel-simulator.json) |
+| Novels Rogue: Isekai Koshodo to Fuuin no Majo | 320827 | [320827-novels-rogue-isekai-koshodo-to-fuuin-no-majo.json](./320827-novels-rogue-isekai-koshodo-to-fuuin-no-majo.json) |
 | Novena Diabolos | 132267 | [132267-novena-diabolos.json](./132267-novena-diabolos.json) |
 | Novivors | 301984 | [301984-novivors.json](./301984-novivors.json) |
 | Novopangea | 277671 | [277671-novopangea.json](./277671-novopangea.json) |
