@@ -6255,6 +6255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Oracle of Ages | 1041 | [1041-the-legend-of-zelda-oracle-of-ages.json](./1041-the-legend-of-zelda-oracle-of-ages.json) |
 | The Legend of Zelda: Oracle of Life Online | 324095 | [324095-the-legend-of-zelda-oracle-of-life-online.json](./324095-the-legend-of-zelda-oracle-of-life-online.json) |
 | The Legend of Zelda: Oracle of Seasons | 1032 | [1032-the-legend-of-zelda-oracle-of-seasons.json](./1032-the-legend-of-zelda-oracle-of-seasons.json) |
+| The Legend of Zelda: Oracle of Secrets | 323793 | [323793-the-legend-of-zelda-oracle-of-secrets.json](./323793-the-legend-of-zelda-oracle-of-secrets.json) |
 | The Legend of Zelda: Parallel Worlds Remodel | 198543 | [198543-the-legend-of-zelda-parallel-worlds-remodel.json](./198543-the-legend-of-zelda-parallel-worlds-remodel.json) |
 | The Legend of Zelda: Perils of Darkness | 213041 | [213041-the-legend-of-zelda-perils-of-darkness.json](./213041-the-legend-of-zelda-perils-of-darkness.json) |
 | The Legend of Zelda: Picross | 172690 | [172690-the-legend-of-zelda-picross.json](./172690-the-legend-of-zelda-picross.json) |
@@ -8625,6 +8626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Test: Reimagined | 389115 | [389115-the-test-reimagined.json](./389115-the-test-reimagined.json) |
 | The Testament of Sherlock Holmes | 6164 | [6164-the-testament-of-sherlock-holmes.json](./6164-the-testament-of-sherlock-holmes.json) |
 | The Testimony of Trixie Glimmer Smith | 123633 | [123633-the-testimony-of-trixie-glimmer-smith.json](./123633-the-testimony-of-trixie-glimmer-smith.json) |
+| The TET Offensive | 323804 | [323804-the-tet-offensive.json](./323804-the-tet-offensive.json) |
 | The Texas Chain Saw Massacre: 2003 Leatherface | 351015 | [351015-the-texas-chain-saw-massacre-2003-leatherface.json](./351015-the-texas-chain-saw-massacre-2003-leatherface.json) |
 | The Texas Chain Saw Massacre: Bones | 351017 | [351017-the-texas-chain-saw-massacre-bones.json](./351017-the-texas-chain-saw-massacre-bones.json) |
 | The Texas Chain Saw Massacre: Connie Outfit Pack 3 | 351014 | [351014-the-texas-chain-saw-massacre-connie-outfit-pack-3.json](./351014-the-texas-chain-saw-massacre-connie-outfit-pack-3.json) |
@@ -9780,6 +9782,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thing-Thing Arena 3 | 234938 | [234938-thing-thing-arena-3.json](./234938-thing-thing-arena-3.json) |
 | Thingamajig | 114167 | [114167-thingamajig.json](./114167-thingamajig.json) |
 | Thingamajigs | 397930 | [397930-thingamajigs.json](./397930-thingamajigs.json) |
+| Thingio Side A: Let's Go! Thingio! | 323782 | [323782-thingio-side-a-lets-go-thingio.json](./323782-thingio-side-a-lets-go-thingio.json) |
+| Thingio Side B: The Grand Illusion | 323783 | [323783-thingio-side-b-the-grand-illusion.json](./323783-thingio-side-b-the-grand-illusion.json) |
 | Things on Wheels | 72727 | [72727-things-on-wheels.json](./72727-things-on-wheels.json) |
 | Things Too Ugly | 289948 | [289948-things-too-ugly.json](./289948-things-too-ugly.json) |
 | Think About Aliens! | 150088 | [150088-think-about-aliens.json](./150088-think-about-aliens.json) |
@@ -12303,6 +12307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb of the Brain | 291011 | [291011-tomb-of-the-brain.json](./291011-tomb-of-the-brain.json) |
 | Tomb of the Dash | 199630 | [199630-tomb-of-the-dash.json](./199630-tomb-of-the-dash.json) |
 | Tomb of the Dead | 219684 | [219684-tomb-of-the-dead.json](./219684-tomb-of-the-dead.json) |
+| Tomb of the Endless | 323806 | [323806-tomb-of-the-endless.json](./323806-tomb-of-the-endless.json) |
 | Tomb of the Golden Relic | 411082 | [411082-tomb-of-the-golden-relic.json](./411082-tomb-of-the-golden-relic.json) |
 | Tomb of Trials | 180270 | [180270-tomb-of-trials.json](./180270-tomb-of-trials.json) |
 | Tomb Offering | 340944 | [340944-tomb-offering.json](./340944-tomb-offering.json) |
