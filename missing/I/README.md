@@ -988,6 +988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ignistone | 248000 | [248000-ignistone.json](./248000-ignistone.json) |
 | Ignite | 138125 | [138125-ignite.json](./138125-ignite.json) |
 | Ignite: Dying Flame | 138126 | [138126-ignite-dying-flame.json](./138126-ignite-dying-flame.json) |
+| Ignited in Cavern | 285690 | [285690-ignited-in-cavern.json](./285690-ignited-in-cavern.json) |
 | Ignitement | 407440 | [407440-ignitement.json](./407440-ignitement.json) |
 | Ignition | 180309 | [180309-ignition.json](./180309-ignition.json) |
 | Ignition Arena | 314896 | [314896-ignition-arena.json](./314896-ignition-arena.json) |
@@ -2302,6 +2303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inside Out at The Top of the World | 318790 | [318790-inside-out-at-the-top-of-the-world.json](./318790-inside-out-at-the-top-of-the-world.json) |
 | Inside Out Thought Bubbles | 60085 | [60085-inside-out-thought-bubbles.json](./60085-inside-out-thought-bubbles.json) |
 | Inside Pete Premium | 245323 | [245323-inside-pete-premium.json](./245323-inside-pete-premium.json) |
+| Inside SCP-167 | 285712 | [285712-inside-scp-167.json](./285712-inside-scp-167.json) |
 | Inside the Backrooms | 201506 | [201506-inside-the-backrooms.json](./201506-inside-the-backrooms.json) |
 | Inside The Backrooms | 397869 | [397869-inside-the-backrooms.json](./397869-inside-the-backrooms.json) |
 | Inside the Clockwork Pussy | 280202 | [280202-inside-the-clockwork-pussy.json](./280202-inside-the-clockwork-pussy.json) |
