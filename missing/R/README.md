@@ -279,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rack N Ruin | 12216 | [12216-rack-n-ruin.json](./12216-rack-n-ruin.json) |
 | Racket Attack | 48214 | [48214-racket-attack.json](./48214-racket-attack.json) |
 | Racket Club | 251558 | [251558-racket-club.json](./251558-racket-club.json) |
+| Racket Pinball | 326831 | [326831-racket-pinball.json](./326831-racket-pinball.json) |
 | Racket: Nx | 33913 | [33913-racket-nx.json](./33913-racket-nx.json) |
 | Rackets & Rivals | 48213 | [48213-rackets-and-rivals.json](./48213-rackets-and-rivals.json) |
 | RackJacker | 163981 | [163981-rackjacker.json](./163981-rackjacker.json) |
