@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K-1 Premium Dynamite!! | 44646 | [44646-k-1-premium-dynamite.json](./44646-k-1-premium-dynamite.json) |
 | K-1 World Grand Prix | 23710 | [23710-k-1-world-grand-prix.json](./23710-k-1-world-grand-prix.json) |
 | K-1 World Grand Prix 2001 | 23469 | [23469-k-1-world-grand-prix-2001.json](./23469-k-1-world-grand-prix-2001.json) |
+| K-9 Dog Job | 286756 | [286756-k-9-dog-job.json](./286756-k-9-dog-job.json) |
 | K-Bot | 303610 | [303610-k-bot.json](./303610-k-bot.json) |
 | K-ON! Houkago Live!! | 38485 | [38485-k-on-houkago-live.json](./38485-k-on-houkago-live.json) |
 | K-ON! Houkago Rhythm Time | 269593 | [269593-k-on-houkago-rhythm-time.json](./269593-k-on-houkago-rhythm-time.json) |
