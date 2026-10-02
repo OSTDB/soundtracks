@@ -4957,6 +4957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gleam: VR Escape the Room | 31310 | [31310-the-gleam-vr-escape-the-room.json](./31310-the-gleam-vr-escape-the-room.json) |
 | The Glitch Prison | 286038 | [286038-the-glitch-prison.json](./286038-the-glitch-prison.json) |
 | The Glitched Attraction | 221852 | [221852-the-glitched-attraction.json](./221852-the-glitched-attraction.json) |
+| The Glory of America | 322068 | [322068-the-glory-of-america.json](./322068-the-glory-of-america.json) |
 | The Goalkeeper | 70946 | [70946-the-goalkeeper.json](./70946-the-goalkeeper.json) |
 | The Goatman | 104034 | [104034-the-goatman.json](./104034-the-goatman.json) |
 | The Goblin Tavern | 352912 | [352912-the-goblin-tavern.json](./352912-the-goblin-tavern.json) |
@@ -5084,6 +5085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Wobo Escape | 23984 | [23984-the-great-wobo-escape.json](./23984-the-great-wobo-escape.json) |
 | The Great Yokai of the Haunted Halls | 331118 | [331118-the-great-yokai-of-the-haunted-halls.json](./331118-the-great-yokai-of-the-haunted-halls.json) |
 | The Greater | 301342 | [301342-the-greater.json](./301342-the-greater.json) |
+| The Greatest Chef | 322098 | [322098-the-greatest-chef.json](./322098-the-greatest-chef.json) |
 | The Greatest Game in the World | 182975 | [182975-the-greatest-game-in-the-world.json](./182975-the-greatest-game-in-the-world.json) |
 | The Green Hook Fighter | 377075 | [377075-the-green-hook-fighter.json](./377075-the-green-hook-fighter.json) |
 | The Green Light | 211743 | [211743-the-green-light.json](./211743-the-green-light.json) |
@@ -12720,6 +12722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tormenta: Memórias da Tempestade | 231322 | [231322-tormenta-memorias-da-tempestade.json](./231322-tormenta-memorias-da-tempestade.json) |
 | Tormentarium | 271730 | [271730-tormentarium.json](./271730-tormentarium.json) |
 | Tormented 12 | 34730 | [34730-tormented-12.json](./34730-tormented-12.json) |
+| Tormented Soul | 322083 | [322083-tormented-soul.json](./322083-tormented-soul.json) |
 | Tormented Souls | 138569 | [138569-tormented-souls.json](./138569-tormented-souls.json) |
 | Tormentor | 167259 | [167259-tormentor.json](./167259-tormentor.json) |
 | Tormentor: Action Fire Counter Shooter Game Simulator - Premium Edition | 283161 | [283161-tormentor-action-fire-counter-shooter-game-simulator-premium-edition.json](./283161-tormentor-action-fire-counter-shooter-game-simulator-premium-edition.json) |
