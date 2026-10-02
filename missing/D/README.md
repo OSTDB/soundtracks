@@ -3206,6 +3206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Departure | 96681 | [96681-departure.json](./96681-departure.json) |
 | Departure!! Shipping Freighter | 299483 | [299483-departure-shipping-freighter.json](./299483-departure-shipping-freighter.json) |
 | Dependium | 411617 | [411617-dependium.json](./411617-dependium.json) |
+| Deperson | 291190 | [291190-deperson.json](./291190-deperson.json) |
 | Depersonalization | 205111 | [205111-depersonalization.json](./205111-depersonalization.json) |
 | Depict | 66761 | [66761-depict.json](./66761-depict.json) |
 | Depict the City | 212462 | [212462-depict-the-city.json](./212462-depict-the-city.json) |
@@ -8216,6 +8217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Droplet | 314678 | [314678-droplet.json](./314678-droplet.json) |
 | Droplet Shuffle | 61057 | [61057-droplet-shuffle.json](./61057-droplet-shuffle.json) |
 | Droplets | 327338 | [327338-droplets.json](./327338-droplets.json) |
+| Droplette | 291169 | [291169-droplette.json](./291169-droplette.json) |
 | Droplitz | 10250 | [10250-droplitz.json](./10250-droplitz.json) |
 | Dropoff | 410269 | [410269-dropoff.json](./410269-dropoff.json) |
 | Dropped into the Modern World: Surviving the Red-Light District | 311623 | [311623-dropped-into-the-modern-world-surviving-the-red-light-district.json](./311623-dropped-into-the-modern-world-surviving-the-red-light-district.json) |
