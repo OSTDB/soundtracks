@@ -281,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Legend of Wisdom | 232962 | [232962-a-legend-of-wisdom.json](./232962-a-legend-of-wisdom.json) |
 | A Legionary's Life | 117101 | [117101-a-legionarys-life.json](./117101-a-legionarys-life.json) |
 | A Letter For You! | 184082 | [184082-a-letter-for-you.json](./184082-a-letter-for-you.json) |
+| A Life in Music | 314381 | [314381-a-life-in-music.json](./314381-a-life-in-music.json) |
 | A Life of Logic | 256243 | [256243-a-life-of-logic.json](./256243-a-life-of-logic.json) |
 | A Light Inside | 109173 | [109173-a-light-inside.json](./109173-a-light-inside.json) |
 | A Light Jog | 315018 | [315018-a-light-jog.json](./315018-a-light-jog.json) |
@@ -598,6 +599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Week of Circus Terror | 32169 | [32169-a-week-of-circus-terror.json](./32169-a-week-of-circus-terror.json) |
 | A Weekend in Puzzleburg | 201680 | [201680-a-weekend-in-puzzleburg.json](./201680-a-weekend-in-puzzleburg.json) |
 | A western love story but with no horse | 176961 | [176961-a-western-love-story-but-with-no-horse.json](./176961-a-western-love-story-but-with-no-horse.json) |
+| A Whale's Journey | 314383 | [314383-a-whales-journey.json](./314383-a-whales-journey.json) |
 | A Wheel Without a View | 177319 | [177319-a-wheel-without-a-view.json](./177319-a-wheel-without-a-view.json) |
 | A Whisper in the Twilight: Chapter Two | 338298 | [338298-a-whisper-in-the-twilight-chapter-two.json](./338298-a-whisper-in-the-twilight-chapter-two.json) |
 | A white horse is not a horse | 192183 | [192183-a-white-horse-is-not-a-horse.json](./192183-a-white-horse-is-not-a-horse.json) |
@@ -3548,6 +3550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Always Sometimes Monsters | 7289 | [7289-always-sometimes-monsters.json](./7289-always-sometimes-monsters.json) |
 | Always Sunset | 413736 | [413736-always-sunset.json](./413736-always-sunset.json) |
 | Always Together | 393647 | [393647-always-together.json](./393647-always-together.json) |
+| Alys vs. the Phantom Feline Foe | 314370 | [314370-alys-vs-the-phantom-feline-foe.json](./314370-alys-vs-the-phantom-feline-foe.json) |
 | Alyssa's Quest | 310536 | [310536-alyssas-quest.json](./310536-alyssas-quest.json) |
 | Alzara: Radiant Echoes | 300878 | [300878-alzara-radiant-echoes.json](./300878-alzara-radiant-echoes.json) |
 | Alzheimer's: Memories | 160230 | [160230-alzheimers-memories.json](./160230-alzheimers-memories.json) |
