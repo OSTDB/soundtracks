@@ -824,6 +824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Mario: Star Nova | 358284 | [358284-paper-mario-star-nova.json](./358284-paper-mario-star-nova.json) |
 | Paper Mario: Sticker Star | 3350 | [3350-paper-mario-sticker-star.json](./3350-paper-mario-sticker-star.json) |
 | Paper Mario: The Thousand-Year Door | 266690 | [266690-paper-mario-the-thousand-year-door.json](./266690-paper-mario-the-thousand-year-door.json) |
+| Paper Mario: The Thousand-Year Door | 328663 | [328663-paper-mario-the-thousand-year-door.json](./328663-paper-mario-the-thousand-year-door.json) |
 | Paper Mario: The Thousand-Year Door - Hero Mode | 257966 | [257966-paper-mario-the-thousand-year-door-hero-mode.json](./257966-paper-mario-the-thousand-year-door-hero-mode.json) |
 | Paper Mario: The Thousand-Year Door Encore | 357451 | [357451-paper-mario-the-thousand-year-door-encore.json](./357451-paper-mario-the-thousand-year-door-encore.json) |
 | Paper Mario: Time Strewn Star | 323363 | [323363-paper-mario-time-strewn-star.json](./323363-paper-mario-time-strewn-star.json) |
@@ -1470,6 +1471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patapon 2: Art of War | 61093 | [61093-patapon-2-art-of-war.json](./61093-patapon-2-art-of-war.json) |
 | Patapon: Band Camp | 61092 | [61092-patapon-band-camp.json](./61092-patapon-band-camp.json) |
 | Patch Tarot | 105775 | [105775-patch-tarot.json](./105775-patch-tarot.json) |
+| Patch the Pipe | 328686 | [328686-patch-the-pipe.json](./328686-patch-the-pipe.json) |
 | PatchCon! Defend the Library | 202948 | [202948-patchcon-defend-the-library.json](./202948-patchcon-defend-the-library.json) |
 | Patched World | 237481 | [237481-patched-world.json](./237481-patched-world.json) |
 | Patchman vs. Blue Squares | 90119 | [90119-patchman-vs-blue-squares.json](./90119-patchman-vs-blue-squares.json) |
@@ -4701,6 +4703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play Tag | 116810 | [116810-play-tag.json](./116810-play-tag.json) |
 | Play Tennis | 323171 | [323171-play-tennis.json](./323171-play-tennis.json) |
 | Play the Industry | 78982 | [78982-play-the-industry.json](./78982-play-the-industry.json) |
+| Play the Notes | 328685 | [328685-play-the-notes.json](./328685-play-the-notes.json) |
 | Play this life | 365675 | [365675-play-this-life.json](./365675-play-this-life.json) |
 | Play To Win | 276788 | [276788-play-to-win.json](./276788-play-to-win.json) |
 | Play With Gilbert: A Small Tail | 157722 | [157722-play-with-gilbert-a-small-tail.json](./157722-play-with-gilbert-a-small-tail.json) |
@@ -6021,6 +6024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop Star Dress Up - Music Idol Girl | 101571 | [101571-pop-star-dress-up-music-idol-girl.json](./101571-pop-star-dress-up-music-idol-girl.json) |
 | Pop Star Makeover | 99995 | [99995-pop-star-makeover.json](./99995-pop-star-makeover.json) |
 | POP Station | 225629 | [225629-pop-station.json](./225629-pop-station.json) |
+| Pop the Bubblewrap | 328681 | [328681-pop-the-bubblewrap.json](./328681-pop-the-bubblewrap.json) |
 | Pop the Jewel | 233435 | [233435-pop-the-jewel.json](./233435-pop-the-jewel.json) |
 | Pop This Pop-It | 163189 | [163189-pop-this-pop-it.json](./163189-pop-this-pop-it.json) |
 | Pop Town | 26561 | [26561-pop-town.json](./26561-pop-town.json) |
