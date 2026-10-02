@@ -582,6 +582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edens Zero Deluxe Edition | 336887 | [336887-edens-zero-deluxe-edition.json](./336887-edens-zero-deluxe-edition.json) |
 | Edens Zero: Pocket Galaxy | 174888 | [174888-edens-zero-pocket-galaxy.json](./174888-edens-zero-pocket-galaxy.json) |
 | Edentopia | 245882 | [245882-edentopia.json](./245882-edentopia.json) |
+| Edenya | 281659 | [281659-edenya.json](./281659-edenya.json) |
 | Edepth Angel: Pinocchio's Murder | 83609 | [83609-edepth-angel-pinocchios-murder.json](./83609-edepth-angel-pinocchios-murder.json) |
 | EDF Secret Base | 270698 | [270698-edf-secret-base.json](./270698-edf-secret-base.json) |
 | Edgar A. Poe: The Oval Portrait | 205109 | [205109-edgar-a-poe-the-oval-portrait.json](./205109-edgar-a-poe-the-oval-portrait.json) |
