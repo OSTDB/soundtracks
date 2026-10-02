@@ -2836,6 +2836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chao Life | 326835 | [326835-chao-life.json](./326835-chao-life.json) |
 | Chao RPG | 326958 | [326958-chao-rpg.json](./326958-chao-rpg.json) |
 | Chāojí Dàfùwēng | 45549 | [45549-chaoji-dafuweng.json](./45549-chaoji-dafuweng.json) |
+| Chaomin | 281014 | [281014-chaomin.json](./281014-chaomin.json) |
 | Chaos | 156546 | [156546-chaos.json](./156546-chaos.json) |
 | Chaos | 300015 | [300015-chaos.json](./300015-chaos.json) |
 | Chaos | 91395 | [91395-chaos.json](./91395-chaos.json) |
@@ -3212,6 +3213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cherry Island | 126552 | [126552-cherry-island.json](./126552-cherry-island.json) |
 | Cherry Kisses | 198466 | [198466-cherry-kisses.json](./198466-cherry-kisses.json) |
 | Cherry Rescue! | 181852 | [181852-cherry-rescue.json](./181852-cherry-rescue.json) |
+| Cherry Tower | 281040 | [281040-cherry-tower.json](./281040-cherry-tower.json) |
 | Cherry Tree High Girls' Fight | 33094 | [33094-cherry-tree-high-girls-fight.json](./33094-cherry-tree-high-girls-fight.json) |
 | Cherry Tree High I! My! Girls! | 36156 | [36156-cherry-tree-high-i-my-girls.json](./36156-cherry-tree-high-i-my-girls.json) |
 | Cherry VX | 161380 | [161380-cherry-vx.json](./161380-cherry-vx.json) |
@@ -3346,6 +3348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chesto: At the Checkout | 134686 | [134686-chesto-at-the-checkout.json](./134686-chesto-at-the-checkout.json) |
 | Chests O' Booty | 84576 | [84576-chests-o-booty.json](./84576-chests-o-booty.json) |
 | Chevrolet Camaro Wild Ride 3D | 84575 | [84575-chevrolet-camaro-wild-ride-3d.json](./84575-chevrolet-camaro-wild-ride-3d.json) |
+| Chew Chew Mimic | 281006 | [281006-chew-chew-mimic.json](./281006-chew-chew-mimic.json) |
 | Chew Your Food | 395886 | [395886-chew-your-food.json](./395886-chew-your-food.json) |
 | Chewbrick | 99147 | [99147-chewbrick.json](./99147-chewbrick.json) |
 | Chewing | 113741 | [113741-chewing.json](./113741-chewing.json) |
