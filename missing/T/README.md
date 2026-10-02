@@ -4895,6 +4895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game: The Game | 393488 | [393488-the-game-the-game.json](./393488-the-game-the-game.json) |
 | The Games '92: España | 96508 | [96508-the-games-92-espana.json](./96508-the-games-92-espana.json) |
 | The Games People Play: Gin, Cribbage, Checkers, and Backgammon | 69927 | [69927-the-games-people-play-gin-cribbage-checkers-and-backgammon.json](./69927-the-games-people-play-gin-cribbage-checkers-and-backgammon.json) |
+| The Games You Make | 314395 | [314395-the-games-you-make.json](./314395-the-games-you-make.json) |
 | The Games: Winter Challenge | 14434 | [14434-the-games-winter-challenge.json](./14434-the-games-winter-challenge.json) |
 | The Gang | 284446 | [284446-the-gang.json](./284446-the-gang.json) |
 | The Gannet | 202968 | [202968-the-gannet.json](./202968-the-gannet.json) |
@@ -5159,6 +5160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hamburger Isles | 356292 | [356292-the-hamburger-isles.json](./356292-the-hamburger-isles.json) |
 | The Hamiltonian Circuit | 297612 | [297612-the-hamiltonian-circuit.json](./297612-the-hamiltonian-circuit.json) |
 | The Hamlet | 326991 | [326991-the-hamlet.json](./326991-the-hamlet.json) |
+| The Hamster | 314361 | [314361-the-hamster.json](./314361-the-hamster.json) |
 | The Hand | 40351 | [40351-the-hand.json](./40351-the-hand.json) |
 | The Hand is Faster than the Eye | 318227 | [318227-the-hand-is-faster-than-the-eye.json](./318227-the-hand-is-faster-than-the-eye.json) |
 | The Hand of Glory | 111103 | [111103-the-hand-of-glory.json](./111103-the-hand-of-glory.json) |
@@ -11555,6 +11557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Devil Adventure | 158648 | [158648-tiny-devil-adventure.json](./158648-tiny-devil-adventure.json) |
 | Tiny Devils | 325476 | [325476-tiny-devils.json](./325476-tiny-devils.json) |
 | Tiny Dino | 343257 | [343257-tiny-dino.json](./343257-tiny-dino.json) |
+| Tiny Dino: Royale | 314364 | [314364-tiny-dino-royale.json](./314364-tiny-dino-royale.json) |
 | Tiny Divide | 325631 | [325631-tiny-divide.json](./325631-tiny-divide.json) |
 | Tiny Dragon Story | 247583 | [247583-tiny-dragon-story.json](./247583-tiny-dragon-story.json) |
 | Tiny Dragons | 97491 | [97491-tiny-dragons.json](./97491-tiny-dragons.json) |
@@ -13606,6 +13609,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Wars Invasion | 9449 | [9449-toy-wars-invasion.json](./9449-toy-wars-invasion.json) |
 | Toy-War: The Beginning | 111192 | [111192-toy-war-the-beginning.json](./111192-toy-war-the-beginning.json) |
 | Toy's Brawl | 340947 | [340947-toys-brawl.json](./340947-toys-brawl.json) |
+| Toy'sMarch | 314335 | [314335-toysmarch.json](./314335-toysmarch.json) |
+| Toy'sMarch2 | 314337 | [314337-toysmarch2.json](./314337-toysmarch2.json) |
 | Toya | 404934 | [404934-toya.json](./404934-toya.json) |
 | Toybit Quest | 104039 | [104039-toybit-quest.json](./104039-toybit-quest.json) |
 | Toybox | 184645 | [184645-toybox.json](./184645-toybox.json) |
@@ -13966,6 +13971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 6: Schnellfahrstrecke Nürnberg - Ingolstadt Route Add-On | 412417 | [412417-train-sim-world-6-schnellfahrstrecke-nurnberg-ingolstadt-route-add-on.json](./412417-train-sim-world-6-schnellfahrstrecke-nurnberg-ingolstadt-route-add-on.json) |
 | Train Sim World 6: Tadami Line: Aizu-Wakamatsu - Tadami Route Add-On | 412418 | [412418-train-sim-world-6-tadami-line-aizu-wakamatsu-tadami-route-add-on.json](./412418-train-sim-world-6-tadami-line-aizu-wakamatsu-tadami-route-add-on.json) |
 | Train Sim World 6: Thames Valley - Windsor, Henley & Marlow Branch Lines Add-On | 412419 | [412419-train-sim-world-6-thames-valley-windsor-henley-and-marlow-branch-lines-add-on.json](./412419-train-sim-world-6-thames-valley-windsor-henley-and-marlow-branch-lines-add-on.json) |
+| Train Sim World VR: New York | 314357 | [314357-train-sim-world-vr-new-york.json](./314357-train-sim-world-vr-new-york.json) |
 | Train Sim World: CSX Heavy Haul | 196284 | [196284-train-sim-world-csx-heavy-haul.json](./196284-train-sim-world-csx-heavy-haul.json) |
 | Train Sim World: Great Western Express | 53837 | [53837-train-sim-world-great-western-express.json](./53837-train-sim-world-great-western-express.json) |
 | Train Simulator | 327582 | [327582-train-simulator.json](./327582-train-simulator.json) |
