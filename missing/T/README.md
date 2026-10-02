@@ -6621,6 +6621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Myth | 340573 | [340573-the-lost-myth.json](./340573-the-lost-myth.json) |
 | The Lost Mythologies | 17022 | [17022-the-lost-mythologies.json](./17022-the-lost-mythologies.json) |
 | The Lost Painter | 386120 | [386120-the-lost-painter.json](./386120-the-lost-painter.json) |
+| The Lost Penguin | 302038 | [302038-the-lost-penguin.json](./302038-the-lost-penguin.json) |
 | The Lost Pisces | 26987 | [26987-the-lost-pisces.json](./26987-the-lost-pisces.json) |
 | The Lost Resort | 87558 | [87558-the-lost-resort.json](./87558-the-lost-resort.json) |
 | The Lost Ride | 46560 | [46560-the-lost-ride.json](./46560-the-lost-ride.json) |
@@ -8989,6 +8990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trap: Remake - Winter | 351098 | [351098-the-trap-remake-winter.json](./351098-the-trap-remake-winter.json) |
 | The Trasamire Campaigns | 213418 | [213418-the-trasamire-campaigns.json](./213418-the-trasamire-campaigns.json) |
 | The Trash Pack: The Gross Gang in Your Garbage | 9752 | [9752-the-trash-pack-the-gross-gang-in-your-garbage.json](./9752-the-trash-pack-the-gross-gang-in-your-garbage.json) |
+| The Trashcan Games | 302060 | [302060-the-trashcan-games.json](./302060-the-trashcan-games.json) |
 | The Traveling Witch in Animal Town | 388386 | [388386-the-traveling-witch-in-animal-town.json](./388386-the-traveling-witch-in-animal-town.json) |
 | The Traveller and the Mountain | 178570 | [178570-the-traveller-and-the-mountain.json](./178570-the-traveller-and-the-mountain.json) |
 | The Traveller Tale | 403794 | [403794-the-traveller-tale.json](./403794-the-traveller-tale.json) |
@@ -9818,6 +9820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Know | 283232 | [283232-they-know.json](./283232-they-know.json) |
 | They Linger | 259588 | [259588-they-linger.json](./259588-they-linger.json) |
 | They Look Strange and Have to Die | 181233 | [181233-they-look-strange-and-have-to-die.json](./181233-they-look-strange-and-have-to-die.json) |
+| They Remain | 302061 | [302061-they-remain.json](./302061-they-remain.json) |
 | They See Us | 342780 | [342780-they-see-us.json](./342780-they-see-us.json) |
 | They Sold a Million II | 73335 | [73335-they-sold-a-million-ii.json](./73335-they-sold-a-million-ii.json) |
 | They Started It | 181224 | [181224-they-started-it.json](./181224-they-started-it.json) |
@@ -16110,6 +16113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TV no Himitsu: Gyoukai Aruaru wo Sagase! | 251627 | [251627-tv-no-himitsu-gyoukai-aruaru-wo-sagase.json](./251627-tv-no-himitsu-gyoukai-aruaru-wo-sagase.json) |
 | TV Show King 2 | 50724 | [50724-tv-show-king-2.json](./50724-tv-show-king-2.json) |
 | TV Show King Party | 5248 | [5248-tv-show-king-party.json](./5248-tv-show-king-party.json) |
+| TV Show Tycoon | 302059 | [302059-tv-show-tycoon.json](./302059-tv-show-tycoon.json) |
 | TV Sports Basketball | 8672 | [8672-tv-sports-basketball.json](./8672-tv-sports-basketball.json) |
 | TV Studio Story | 282014 | [282014-tv-studio-story.json](./282014-tv-studio-story.json) |
 | TV Thief | 190748 | [190748-tv-thief.json](./190748-tv-thief.json) |
