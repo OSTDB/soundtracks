@@ -8490,6 +8490,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Escape | 370218 | [370218-sonic-escape.json](./370218-sonic-escape.json) |
 | Sonic Essence | 337174 | [337174-sonic-essence.json](./337174-sonic-essence.json) |
 | Sonic Eternal Rings | 330322 | [330322-sonic-eternal-rings.json](./330322-sonic-eternal-rings.json) |
+| Sonic Exe One More Round | 307225 | [307225-sonic-exe-one-more-round.json](./307225-sonic-exe-one-more-round.json) |
+| Sonic Exe One More Time | 307224 | [307224-sonic-exe-one-more-time.json](./307224-sonic-exe-one-more-time.json) |
 | Sonic Fan Remix | 228589 | [228589-sonic-fan-remix.json](./228589-sonic-fan-remix.json) |
 | Sonic FGX | 299995 | [299995-sonic-fgx.json](./299995-sonic-fgx.json) |
 | Sonic FGX 2 | 352169 | [352169-sonic-fgx-2.json](./352169-sonic-fgx-2.json) |
@@ -8868,6 +8870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic: The Next Episode | 330863 | [330863-sonic-the-next-episode.json](./330863-sonic-the-next-episode.json) |
 | Sonic.EXE | 45556 | [45556-sonic-exe.json](./45556-sonic-exe.json) |
 | Sonic.Exe 2: The Game | 341904 | [341904-sonic-exe-2-the-game.json](./341904-sonic-exe-2-the-game.json) |
+| Sonic.EXE One Last Round | 307226 | [307226-sonic-exe-one-last-round.json](./307226-sonic-exe-one-last-round.json) |
 | Sonic.exe: Dark Souls | 369107 | [369107-sonic-exe-dark-souls.json](./369107-sonic-exe-dark-souls.json) |
 | Sonic.exe: Dark Souls Remake | 369098 | [369098-sonic-exe-dark-souls-remake.json](./369098-sonic-exe-dark-souls-remake.json) |
 | Sonic's Bomb Squad | 237489 | [237489-sonics-bomb-squad.json](./237489-sonics-bomb-squad.json) |
@@ -11698,6 +11701,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Conflict: Shrike. Weapon of Victory | 355163 | [355163-star-conflict-shrike-weapon-of-victory.json](./355163-star-conflict-shrike-weapon-of-victory.json) |
 | Star Conflict: Starter Pack. Pterosaur | 354424 | [354424-star-conflict-starter-pack-pterosaur.json](./354424-star-conflict-starter-pack-pterosaur.json) |
 | Star Conflict: Tornado | 354422 | [354422-star-conflict-tornado.json](./354422-star-conflict-tornado.json) |
+| Star Conflict: Yith’Mor - Starter Pack | 307187 | [307187-star-conflict-yith-mor-starter-pack.json](./307187-star-conflict-yith-mor-starter-pack.json) |
+| Star Conflict: Yith’Mor - VIP Pack | 307188 | [307188-star-conflict-yith-mor-vip-pack.json](./307188-star-conflict-yith-mor-vip-pack.json) |
 | Star Conflict: Yith'Mor - Weapons of Victory | 310393 | [310393-star-conflict-yithmor-weapons-of-victory.json](./310393-star-conflict-yithmor-weapons-of-victory.json) |
 | Star Conflict: Ze'Ta. - Deluxe Version | 354439 | [354439-star-conflict-zeta-deluxe-version.json](./354439-star-conflict-zeta-deluxe-version.json) |
 | Star Connect | 233737 | [233737-star-connect.json](./233737-star-connect.json) |
@@ -16829,6 +16834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivalist: Invisible Strain | 117233 | [117233-survivalist-invisible-strain.json](./117233-survivalist-invisible-strain.json) |
 | Survivaluck | 287758 | [287758-survivaluck.json](./287758-survivaluck.json) |
 | SurvivalZ Battlegrounds | 103009 | [103009-survivalz-battlegrounds.json](./103009-survivalz-battlegrounds.json) |
+| Survivania | 307233 | [307233-survivania.json](./307233-survivania.json) |
 | Survive | 193436 | [193436-survive.json](./193436-survive.json) |
 | Survive | 52256 | [52256-survive.json](./52256-survive.json) |
 | Survive | 79821 | [79821-survive.json](./79821-survive.json) |
