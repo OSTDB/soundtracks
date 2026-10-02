@@ -1471,6 +1471,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schlag den Raab: Das 3. Spiel | 86078 | [86078-schlag-den-raab-das-3-spiel.json](./86078-schlag-den-raab-das-3-spiel.json) |
 | Schlag den Star: Das 3. Spiel | 256216 | [256216-schlag-den-star-das-3-spiel.json](./256216-schlag-den-star-das-3-spiel.json) |
 | Schlag den Star: Das Spiel | 78045 | [78045-schlag-den-star-das-spiel.json](./78045-schlag-den-star-das-spiel.json) |
+| Schlo Complications | 298792 | [298792-schlo-complications.json](./298792-schlo-complications.json) |
+| Schlo Pink and Purple | 298791 | [298791-schlo-pink-and-purple.json](./298791-schlo-pink-and-purple.json) |
+| Schlo: Final Stand | 298789 | [298789-schlo-final-stand.json](./298789-schlo-final-stand.json) |
 | Schloss der Wölfe | 323389 | [323389-schloss-der-wolfe.json](./323389-schloss-der-wolfe.json) |
 | Schmaragon | 230265 | [230265-schmaragon.json](./230265-schmaragon.json) |
 | Schmeiser Robo | 40413 | [40413-schmeiser-robo.json](./40413-schmeiser-robo.json) |
@@ -5261,6 +5264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver State | 396245 | [396245-silver-state.json](./396245-silver-state.json) |
 | Silver Strike Bowling | 72780 | [72780-silver-strike-bowling.json](./72780-silver-strike-bowling.json) |
 | Silver Thread | 202227 | [202227-silver-thread.json](./202227-silver-thread.json) |
+| Silver Thread: Deux | 298809 | [298809-silver-thread-deux.json](./298809-silver-thread-deux.json) |
 | Silver Valley | 267976 | [267976-silver-valley.json](./267976-silver-valley.json) |
 | Silver Wire | 205033 | [205033-silver-wire.json](./205033-silver-wire.json) |
 | SilverDollar | 101525 | [101525-silverdollar.json](./101525-silverdollar.json) |
@@ -7199,6 +7203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snailboy: Rise of Hermitron | 120353 | [120353-snailboy-rise-of-hermitron.json](./120353-snailboy-rise-of-hermitron.json) |
 | Snailiad | 118309 | [118309-snailiad.json](./118309-snailiad.json) |
 | SnailQuest | 207306 | [207306-snailquest.json](./207306-snailquest.json) |
+| Snails | 298798 | [298798-snails.json](./298798-snails.json) |
 | Snails | 299126 | [299126-snails.json](./299126-snails.json) |
 | Snails | 35694 | [35694-snails.json](./35694-snails.json) |
 | Snails vs. Humans | 326076 | [326076-snails-vs-humans.json](./326076-snails-vs-humans.json) |
@@ -7328,6 +7333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snappy Elf | 261516 | [261516-snappy-elf.json](./261516-snappy-elf.json) |
 | Snaps | 310029 | [310029-snaps.json](./310029-snaps.json) |
 | Snapshot | 406915 | [406915-snapshot.json](./406915-snapshot.json) |
+| SnapShot | 298808 | [298808-snapshot.json](./298808-snapshot.json) |
 | Snapshot Aquarium | 216889 | [216889-snapshot-aquarium.json](./216889-snapshot-aquarium.json) |
 | Snapshot Girls 3 | 370798 | [370798-snapshot-girls-3.json](./370798-snapshot-girls-3.json) |
 | Snapshot Girls 6 | 375409 | [375409-snapshot-girls-6.json](./375409-snapshot-girls-6.json) |
@@ -14697,6 +14703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Games Challenge: Throwing & Lifting | 362347 | [362347-summer-games-challenge-throwing-and-lifting.json](./362347-summer-games-challenge-throwing-and-lifting.json) |
 | Summer Games Heroes | 127761 | [127761-summer-games-heroes.json](./127761-summer-games-heroes.json) |
 | Summer Games II | 297508 | [297508-summer-games-ii.json](./297508-summer-games-ii.json) |
+| Summer Games II | 298834 | [298834-summer-games-ii.json](./298834-summer-games-ii.json) |
 | Summer Garden | 82183 | [82183-summer-garden.json](./82183-summer-garden.json) |
 | Summer Horrordays | 177492 | [177492-summer-horrordays.json](./177492-summer-horrordays.json) |
 | Summer in Mara + Deiland Bundle | 188018 | [188018-summer-in-mara-deiland-bundle.json](./188018-summer-in-mara-deiland-bundle.json) |
@@ -14704,6 +14711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer In Memoria | 196784 | [196784-summer-in-memoria.json](./196784-summer-in-memoria.json) |
 | Summer In The City | 356733 | [356733-summer-in-the-city.json](./356733-summer-in-the-city.json) |
 | Summer in Trigue | 169769 | [169769-summer-in-trigue.json](./169769-summer-in-trigue.json) |
+| Summer Islands: Growth | 298821 | [298821-summer-islands-growth.json](./298821-summer-islands-growth.json) |
 | Summer Knights | 122156 | [122156-summer-knights.json](./122156-summer-knights.json) |
 | Summer Lesson | 13668 | [13668-summer-lesson.json](./13668-summer-lesson.json) |
 | Summer Lesson: Allison Snow - Nanokakan no Niwa | 336180 | [336180-summer-lesson-allison-snow-nanokakan-no-niwa.json](./336180-summer-lesson-allison-snow-nanokakan-no-niwa.json) |
@@ -17611,6 +17619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swordsman | 7417 | [7417-swordsman.json](./7417-swordsman.json) |
 | Swordsman | 86195 | [86195-swordsman.json](./86195-swordsman.json) |
 | Swordsman Night King | 401619 | [401619-swordsman-night-king.json](./401619-swordsman-night-king.json) |
+| Swordsman on the Eternal Journey | 298811 | [298811-swordsman-on-the-eternal-journey.json](./298811-swordsman-on-the-eternal-journey.json) |
 | Swordsman Online | 9738 | [9738-swordsman-online.json](./9738-swordsman-online.json) |
 | SwordSpin: Arena of Blades | 290547 | [290547-swordspin-arena-of-blades.json](./290547-swordspin-arena-of-blades.json) |
 | SworLd | 192808 | [192808-sworld.json](./192808-sworld.json) |
