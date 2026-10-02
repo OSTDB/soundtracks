@@ -4899,6 +4899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Night: The Slenderman Takings | 236824 | [236824-horror-night-the-slenderman-takings.json](./236824-horror-night-the-slenderman-takings.json) |
 | Horror of the Deep | 30127 | [30127-horror-of-the-deep.json](./30127-horror-of-the-deep.json) |
 | Horror Office | 319232 | [319232-horror-office.json](./319232-horror-office.json) |
+| Horror Park of Willie Mouse | 326694 | [326694-horror-park-of-willie-mouse.json](./326694-horror-park-of-willie-mouse.json) |
 | Horror Pinball Bundle | 126620 | [126620-horror-pinball-bundle.json](./126620-horror-pinball-bundle.json) |
 | Horror Prison | 319176 | [319176-horror-prison.json](./319176-horror-prison.json) |
 | Horror Rollercoaster | 105103 | [105103-horror-rollercoaster.json](./105103-horror-rollercoaster.json) |
