@@ -271,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Economy | 314445 | [314445-galactic-economy.json](./314445-galactic-economy.json) |
 | Galactic Empire | 240484 | [240484-galactic-empire.json](./240484-galactic-empire.json) |
 | Galactic Empires | 176370 | [176370-galactic-empires.json](./176370-galactic-empires.json) |
+| Galactic Express | 294392 | [294392-galactic-express.json](./294392-galactic-express.json) |
 | Galactic Express | 381041 | [381041-galactic-express.json](./381041-galactic-express.json) |
 | Galactic Field | 336906 | [336906-galactic-field.json](./336906-galactic-field.json) |
 | Galactic Foodtruck Simulator 2999 | 281412 | [281412-galactic-foodtruck-simulator-2999.json](./281412-galactic-foodtruck-simulator-2999.json) |
@@ -462,6 +463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Pass Station | 190467 | [190467-galaxy-pass-station.json](./190467-galaxy-pass-station.json) |
 | Galaxy Princess Zorana | 327953 | [327953-galaxy-princess-zorana.json](./327953-galaxy-princess-zorana.json) |
 | Galaxy Protectors | 188015 | [188015-galaxy-protectors.json](./188015-galaxy-protectors.json) |
+| Galaxy Quest | 294393 | [294393-galaxy-quest.json](./294393-galaxy-quest.json) |
 | Galaxy Raiders | 287789 | [287789-galaxy-raiders.json](./287789-galaxy-raiders.json) |
 | Galaxy Reavers | 24411 | [24411-galaxy-reavers.json](./24411-galaxy-reavers.json) |
 | Galaxy Revo: Remake | 247488 | [247488-galaxy-revo-remake.json](./247488-galaxy-revo-remake.json) |
@@ -1035,6 +1037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gash | 126421 | [126421-gash.json](./126421-gash.json) |
 | Gash And the Ultimate Boner | 292613 | [292613-gash-and-the-ultimate-boner.json](./292613-gash-and-the-ultimate-boner.json) |
 | Gaslamp Cases 2: The Haunted Village | 181119 | [181119-gaslamp-cases-2-the-haunted-village.json](./181119-gaslamp-cases-2-the-haunted-village.json) |
+| Gaslamp Cases 4: The Arcane Village | 294395 | [294395-gaslamp-cases-4-the-arcane-village.json](./294395-gaslamp-cases-4-the-arcane-village.json) |
 | Gaslamp Cases 5: The Dreadful City | 248917 | [248917-gaslamp-cases-5-the-dreadful-city.json](./248917-gaslamp-cases-5-the-dreadful-city.json) |
 | Gaslamp Cases 6: Haunted Waters | 294732 | [294732-gaslamp-cases-6-haunted-waters.json](./294732-gaslamp-cases-6-haunted-waters.json) |
 | Gaslamp Cases 7: The Faith of Rasputin | 294735 | [294735-gaslamp-cases-7-the-faith-of-rasputin.json](./294735-gaslamp-cases-7-the-faith-of-rasputin.json) |
@@ -2231,6 +2234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls Tennis League | 240782 | [240782-girls-tennis-league.json](./240782-girls-tennis-league.json) |
 | Girls und Panzer: Dream Tank Match - Premium Edition | 166182 | [166182-girls-und-panzer-dream-tank-match-premium-edition.json](./166182-girls-und-panzer-dream-tank-match-premium-edition.json) |
 | Girls VR | 109708 | [109708-girls-vr.json](./109708-girls-vr.json) |
+| Girls With Secrets | 294397 | [294397-girls-with-secrets.json](./294397-girls-with-secrets.json) |
 | Girls x Battle 2 | 137467 | [137467-girls-x-battle-2.json](./137467-girls-x-battle-2.json) |
 | Girls X Battle: GXB Global | 104098 | [104098-girls-x-battle-gxb-global.json](./104098-girls-x-battle-gxb-global.json) |
 | Girls, I Just Want to Get Paid! | 378284 | [378284-girls-i-just-want-to-get-paid.json](./378284-girls-i-just-want-to-get-paid.json) |
@@ -2262,6 +2266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Givling | 18319 | [18319-givling.json](./18319-givling.json) |
 | Gizmo of Giza | 184491 | [184491-gizmo-of-giza.json](./184491-gizmo-of-giza.json) |
 | GizmoLab VR | 290682 | [290682-gizmolab-vr.json](./290682-gizmolab-vr.json) |
+| Gizmos: Jungle Adventures | 294399 | [294399-gizmos-jungle-adventures.json](./294399-gizmos-jungle-adventures.json) |
 | Gizmos: Riddle of the Universe | 384676 | [384676-gizmos-riddle-of-the-universe.json](./384676-gizmos-riddle-of-the-universe.json) |
 | Gizmos: Spirit of the Christmas | 156678 | [156678-gizmos-spirit-of-the-christmas.json](./156678-gizmos-spirit-of-the-christmas.json) |
 | GL Golf | 88347 | [88347-gl-golf.json](./88347-gl-golf.json) |
@@ -4293,6 +4298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green: The Life Algorithm | 120863 | [120863-green-the-life-algorithm.json](./120863-green-the-life-algorithm.json) |
 | Green's Xmas Collection | 80193 | [80193-greens-xmas-collection.json](./80193-greens-xmas-collection.json) |
 | GreenChess | 87293 | [87293-greenchess.json](./87293-greenchess.json) |
+| GreenColdBody | 294359 | [294359-greencoldbody.json](./294359-greencoldbody.json) |
 | Greendog: The Beached Surfer Dude! | 368612 | [368612-greendog-the-beached-surfer-dude.json](./368612-greendog-the-beached-surfer-dude.json) |
 | Greendog: The Beached Surfer Dude! | 45792 | [45792-greendog-the-beached-surfer-dude.json](./45792-greendog-the-beached-surfer-dude.json) |
 | Greener Grass Awaits | 266490 | [266490-greener-grass-awaits.json](./266490-greener-grass-awaits.json) |
