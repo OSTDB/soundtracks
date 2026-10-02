@@ -1698,8 +1698,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volleyball Trainer: The Legend of Sports | 224211 | [224211-volleyball-trainer-the-legend-of-sports.json](./224211-volleyball-trainer-the-legend-of-sports.json) |
 | Volleyball Xciting | 79579 | [79579-volleyball-xciting.json](./79579-volleyball-xciting.json) |
 | Volleyball! | 109453 | [109453-volleyball.json](./109453-volleyball.json) |
+| Volleyborne: Unbound Horizons | 322076 | [322076-volleyborne-unbound-horizons.json](./322076-volleyborne-unbound-horizons.json) |
 | Volleyfire | 66618 | [66618-volleyfire.json](./66618-volleyfire.json) |
 | Volleying | 72413 | [72413-volleying.json](./72413-volleying.json) |
+| VolleySmash | 322075 | [322075-volleysmash.json](./322075-volleysmash.json) |
 | Volly | 130859 | [130859-volly.json](./130859-volly.json) |
 | Volo Airsport | 17957 | [17957-volo-airsport.json](./17957-volo-airsport.json) |
 | Volontés | 347170 | [347170-volontes.json](./347170-volontes.json) |
