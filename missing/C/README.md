@@ -2742,6 +2742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chao Adventure 2 | 225624 | [225624-chao-adventure-2.json](./225624-chao-adventure-2.json) |
 | Chao Dream Touch! Happy Anniversary | 122870 | [122870-chao-dream-touch-happy-anniversary.json](./122870-chao-dream-touch-happy-anniversary.json) |
 | Chao Internet Pet | 331475 | [331475-chao-internet-pet.json](./331475-chao-internet-pet.json) |
+| Chao Life | 326835 | [326835-chao-life.json](./326835-chao-life.json) |
 | Chao RPG | 326958 | [326958-chao-rpg.json](./326958-chao-rpg.json) |
 | Chāojí Dàfùwēng | 45549 | [45549-chaoji-dafuweng.json](./45549-chaoji-dafuweng.json) |
 | Chaos | 156546 | [156546-chaos.json](./156546-chaos.json) |
@@ -7591,6 +7592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crabs | 375338 | [375338-crabs.json](./375338-crabs.json) |
 | Crabs Dive In Crossway | 385830 | [385830-crabs-dive-in-crossway.json](./385830-crabs-dive-in-crossway.json) |
 | Crabs Must Die! | 373019 | [373019-crabs-must-die.json](./373019-crabs-must-die.json) |
+| Crabs: Sponge's Neighbor | 326702 | [326702-crabs-sponges-neighbor.json](./326702-crabs-sponges-neighbor.json) |
 | Crabs! | 179118 | [179118-crabs.json](./179118-crabs.json) |
 | Crabs! | 349509 | [349509-crabs.json](./349509-crabs.json) |
 | Crack a Bottle | 87220 | [87220-crack-a-bottle.json](./87220-crack-a-bottle.json) |
