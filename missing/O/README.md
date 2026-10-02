@@ -465,6 +465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Madness 2: Corporation | 200026 | [200026-office-madness-2-corporation.json](./200026-office-madness-2-corporation.json) |
 | Office Management 101 | 60585 | [60585-office-management-101.json](./60585-office-management-101.json) |
 | Office Manager | 403785 | [403785-office-manager.json](./403785-office-manager.json) |
+| Office Nightmare | 302045 | [302045-office-nightmare.json](./302045-office-nightmare.json) |
 | Office Nightmare: Chapter 1 | 275131 | [275131-office-nightmare-chapter-1.json](./275131-office-nightmare-chapter-1.json) |
 | Office Novice | 180851 | [180851-office-novice.json](./180851-office-novice.json) |
 | Office Outbreak Savior | 333155 | [333155-office-outbreak-savior.json](./333155-office-outbreak-savior.json) |
