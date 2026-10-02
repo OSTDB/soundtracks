@@ -1299,6 +1299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jones in the Fast Lane | 7473 | [7473-jones-in-the-fast-lane.json](./7473-jones-in-the-fast-lane.json) |
 | Jong Kyu Pon | 342147 | [342147-jong-kyu-pon.json](./342147-jong-kyu-pon.json) |
 | Jongbou | 92298 | [92298-jongbou.json](./92298-jongbou.json) |
+| JongRo 3_Street | 283411 | [283411-jongro-3-street.json](./283411-jongro-3-street.json) |
 | Joninės | 273667 | [273667-jonines.json](./273667-jonines.json) |
 | Jonny Jump | 116458 | [116458-jonny-jump.json](./116458-jonny-jump.json) |
 | Jonny Moseley: Mad Trix | 210006 | [210006-jonny-moseley-mad-trix.json](./210006-jonny-moseley-mad-trix.json) |
