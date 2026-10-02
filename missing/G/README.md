@@ -4096,6 +4096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Cat | 32853 | [32853-gravity-cat.json](./32853-gravity-cat.json) |
 | Gravity Circuit Jukebox | 309032 | [309032-gravity-circuit-jukebox.json](./309032-gravity-circuit-jukebox.json) |
 | Gravity Circuit: Deluxe Edition | 309034 | [309034-gravity-circuit-deluxe-edition.json](./309034-gravity-circuit-deluxe-edition.json) |
+| Gravity Control | 292778 | [292778-gravity-control.json](./292778-gravity-control.json) |
 | Gravity Crash Portable | 257323 | [257323-gravity-crash-portable.json](./257323-gravity-crash-portable.json) |
 | Gravity Crash Portable | 42845 | [42845-gravity-crash-portable.json](./42845-gravity-crash-portable.json) |
 | Gravity Crash Ultra | 52223 | [52223-gravity-crash-ultra.json](./52223-gravity-crash-ultra.json) |
