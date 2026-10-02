@@ -513,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Cream Truck | 155511 | [155511-ice-cream-truck.json](./155511-ice-cream-truck.json) |
 | Ice Cream Truck! | 90789 | [90789-ice-cream-truck.json](./90789-ice-cream-truck.json) |
 | Ice Cream Uncle | 88214 | [88214-ice-cream-uncle.json](./88214-ice-cream-uncle.json) |
+| Ice Cream Wars | 311565 | [311565-ice-cream-wars.json](./311565-ice-cream-wars.json) |
 | Ice Cream: Super Stacking Slot Machine | 345114 | [345114-ice-cream-super-stacking-slot-machine.json](./345114-ice-cream-super-stacking-slot-machine.json) |
 | Ice Crush 10.000 BC | 300725 | [300725-ice-crush-10-000-bc.json](./300725-ice-crush-10-000-bc.json) |
 | Ice Crystal Adventure Puzzle | 101046 | [101046-ice-crystal-adventure-puzzle.json](./101046-ice-crystal-adventure-puzzle.json) |
