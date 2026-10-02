@@ -1477,6 +1477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pastel Friends | 338542 | [338542-pastel-friends.json](./338542-pastel-friends.json) |
 | Pastel Island | 268444 | [268444-pastel-island.json](./268444-pastel-island.json) |
 | Pastel Lime | 210633 | [210633-pastel-lime.json](./210633-pastel-lime.json) |
+| Pastel Parade | 280466 | [280466-pastel-parade.json](./280466-pastel-parade.json) |
 | Pastel Putter | 218409 | [218409-pastel-putter.json](./218409-pastel-putter.json) |
 | Pastimes | 415198 | [415198-pastimes.json](./415198-pastimes.json) |
 | Pastor | 411604 | [411604-pastor.json](./411604-pastor.json) |
@@ -3163,6 +3164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pictureka! Museum Mayhem | 59969 | [59969-pictureka-museum-mayhem.json](./59969-pictureka-museum-mayhem.json) |
 | Piczle Colors | 114419 | [114419-piczle-colors.json](./114419-piczle-colors.json) |
 | Piczle Cross Adventure + PictoQuest: The Cursed Grids | 146140 | [146140-piczle-cross-adventure-pictoquest-the-cursed-grids.json](./146140-piczle-cross-adventure-pictoquest-the-cursed-grids.json) |
+| Piczle Cross: Story of Seasons | 280465 | [280465-piczle-cross-story-of-seasons.json](./280465-piczle-cross-story-of-seasons.json) |
 | Piczle Lines DX Bundle | 147788 | [147788-piczle-lines-dx-bundle.json](./147788-piczle-lines-dx-bundle.json) |
 | Piczle Puzzle Adventures + Picto Quest Puzzle Bundle | 145690 | [145690-piczle-puzzle-adventures-picto-quest-puzzle-bundle.json](./145690-piczle-puzzle-adventures-picto-quest-puzzle-bundle.json) |
 | Piczle Puzzle Pack 3-in-1 | 136960 | [136960-piczle-puzzle-pack-3-in-1.json](./136960-piczle-puzzle-pack-3-in-1.json) |
@@ -4065,6 +4067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Mage Quest RPG | 145050 | [145050-pixel-mage-quest-rpg.json](./145050-pixel-mage-quest-rpg.json) |
 | Pixel Manager: Football 2021 | 256230 | [256230-pixel-manager-football-2021.json](./256230-pixel-manager-football-2021.json) |
 | Pixel Miner | 333639 | [333639-pixel-miner.json](./333639-pixel-miner.json) |
+| Pixel Monk | 280440 | [280440-pixel-monk.json](./280440-pixel-monk.json) |
 | Pixel Ninja | 160163 | [160163-pixel-ninja.json](./160163-pixel-ninja.json) |
 | Pixel Noir | 61721 | [61721-pixel-noir.json](./61721-pixel-noir.json) |
 | Pixel of War | 294424 | [294424-pixel-of-war.json](./294424-pixel-of-war.json) |
@@ -5933,6 +5936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Island | 113867 | [113867-poly-island.json](./113867-poly-island.json) |
 | Poly Jigsaw Puzzle | 105780 | [105780-poly-jigsaw-puzzle.json](./105780-poly-jigsaw-puzzle.json) |
 | Poly Jigsaw: Dogs | 248665 | [248665-poly-jigsaw-dogs.json](./248665-poly-jigsaw-dogs.json) |
+| Poly Jigsaw: Primates | 280474 | [280474-poly-jigsaw-primates.json](./280474-poly-jigsaw-primates.json) |
 | Poly Kingdom: Siege | 270947 | [270947-poly-kingdom-siege.json](./270947-poly-kingdom-siege.json) |
 | Poly Link: RPG Girls | 215397 | [215397-poly-link-rpg-girls.json](./215397-poly-link-rpg-girls.json) |
 | Poly Match | 266267 | [266267-poly-match.json](./266267-poly-match.json) |
