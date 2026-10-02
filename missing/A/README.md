@@ -6745,6 +6745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arts & Hearts Academy | 275098 | [275098-arts-and-hearts-academy.json](./275098-arts-and-hearts-academy.json) |
 | Artsec | 398333 | [398333-artsec.json](./398333-artsec.json) |
 | Artsy Pixel | 212278 | [212278-artsy-pixel.json](./212278-artsy-pixel.json) |
+| Artus Against the Demon of the Museum | 310663 | [310663-artus-against-the-demon-of-the-museum.json](./310663-artus-against-the-demon-of-the-museum.json) |
 | Aru Kanrinin no Koi: Autumn + Winter | 246942 | [246942-aru-kanrinin-no-koi-autumn-winter.json](./246942-aru-kanrinin-no-koi-autumn-winter.json) |
 | Aru Kanrinin no Koi: Between the Seasons | 246943 | [246943-aru-kanrinin-no-koi-between-the-seasons.json](./246943-aru-kanrinin-no-koi-between-the-seasons.json) |
 | Aru Kanrinin no Koi: Spring + Summer | 246938 | [246938-aru-kanrinin-no-koi-spring-summer.json](./246938-aru-kanrinin-no-koi-spring-summer.json) |
@@ -7199,6 +7200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astérix & Obelix Take on Caesar | 62150 | [62150-asterix-and-obelix-take-on-caesar.json](./62150-asterix-and-obelix-take-on-caesar.json) |
 | Astérix & Obélix XXL | 210711 | [210711-asterix-and-obelix-xxl.json](./210711-asterix-and-obelix-xxl.json) |
 | Astérix & Obélix XXL 2: Mission: Las Vegum | 81480 | [81480-asterix-and-obelix-xxl-2-mission-las-vegum.json](./81480-asterix-and-obelix-xxl-2-mission-las-vegum.json) |
+| Astérix & Obélix XXL 2: Mission: Wifix | 310635 | [310635-asterix-and-obelix-xxl-2-mission-wifix.json](./310635-asterix-and-obelix-xxl-2-mission-wifix.json) |
 | Asterix & Obelix XXL 3: The Crystal Menhir | 105002 | [105002-asterix-and-obelix-xxl-3-the-crystal-menhir.json](./105002-asterix-and-obelix-xxl-3-the-crystal-menhir.json) |
 | Asterix & Obelix XXL 3: The Crystal Menhir - Collector's Edition | 166231 | [166231-asterix-and-obelix-xxl-3-the-crystal-menhir-collectors-edition.json](./166231-asterix-and-obelix-xxl-3-the-crystal-menhir-collectors-edition.json) |
 | Asterix & Obelix XXXL: The Ram From Hibernia | 208734 | [208734-asterix-and-obelix-xxxl-the-ram-from-hibernia.json](./208734-asterix-and-obelix-xxxl-the-ram-from-hibernia.json) |
