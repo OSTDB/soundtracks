@@ -3768,6 +3768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bikerz | 119018 | [119018-bikerz.json](./119018-bikerz.json) |
 | biketerra | 316177 | [316177-biketerra.json](./316177-biketerra.json) |
 | Bikini Balls 2: Christmas Edition | 216455 | [216455-bikini-balls-2-christmas-edition.json](./216455-bikini-balls-2-christmas-edition.json) |
+| Bikini Beach: Anime Girls Assault | 301510 | [301510-bikini-beach-anime-girls-assault.json](./301510-bikini-beach-anime-girls-assault.json) |
 | Bikini Beach: Stunt Racer | 73750 | [73750-bikini-beach-stunt-racer.json](./73750-bikini-beach-stunt-racer.json) |
 | Bikini Brickout | 370290 | [370290-bikini-brickout.json](./370290-bikini-brickout.json) |
 | Bikini Girls | 169418 | [169418-bikini-girls.json](./169418-bikini-girls.json) |
@@ -4745,6 +4746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Ensemble | 147809 | [147809-blast-ensemble.json](./147809-blast-ensemble.json) |
 | Blast Flock | 181216 | [181216-blast-flock.json](./181216-blast-flock.json) |
 | Blast Force | 123616 | [123616-blast-force.json](./123616-blast-force.json) |
+| Blast Frenzy | 301509 | [301509-blast-frenzy.json](./301509-blast-frenzy.json) |
 | Blast It | 245549 | [245549-blast-it.json](./245549-blast-it.json) |
 | Blast Judgment | 324328 | [324328-blast-judgment.json](./324328-blast-judgment.json) |
 | Blast Killer | 338280 | [338280-blast-killer.json](./338280-blast-killer.json) |
@@ -7018,6 +7020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bracer | 403818 | [403818-bracer.json](./403818-bracer.json) |
 | Bracket Chain | 279765 | [279765-bracket-chain.json](./279765-bracket-chain.json) |
 | Bracket City | 341031 | [341031-bracket-city.json](./341031-bracket-city.json) |
+| Brad Blasts the Galactic Barbarians | 301528 | [301528-brad-blasts-the-galactic-barbarians.json](./301528-brad-blasts-the-galactic-barbarians.json) |
 | Brad Bradson in Key Quest | 318482 | [318482-brad-bradson-in-key-quest.json](./318482-brad-bradson-in-key-quest.json) |
 | Brad Has A Pain | 194424 | [194424-brad-has-a-pain.json](./194424-brad-has-a-pain.json) |
 | Bradley the Badger | 381211 | [381211-bradley-the-badger.json](./381211-bradley-the-badger.json) |
@@ -7065,6 +7068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Out: Can You Pass It? | 312644 | [312644-brain-out-can-you-pass-it.json](./312644-brain-out-can-you-pass-it.json) |
 | Brain Pump | 116155 | [116155-brain-pump.json](./116155-brain-pump.json) |
 | Brain Puzzle | 90203 | [90203-brain-puzzle.json](./90203-brain-puzzle.json) |
+| Brain Puzzles Bundle 12 in 1 | 301533 | [301533-brain-puzzles-bundle-12-in-1.json](./301533-brain-puzzles-bundle-12-in-1.json) |
 | Brain Quest Grades 3 & 4 | 68941 | [68941-brain-quest-grades-3-and-4.json](./68941-brain-quest-grades-3-and-4.json) |
 | Brain Quest Grades 5 & 6 | 68940 | [68940-brain-quest-grades-5-and-6.json](./68940-brain-quest-grades-5-and-6.json) |
 | Brain Sanguo | 158666 | [158666-brain-sanguo.json](./158666-brain-sanguo.json) |
