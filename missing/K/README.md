@@ -1150,6 +1150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids | 95167 | [95167-kids.json](./95167-kids.json) |
 | Kids ABC and Counting Jigsaw Puzzles Pre school | 87151 | [87151-kids-abc-and-counting-jigsaw-puzzles-pre-school.json](./87151-kids-abc-and-counting-jigsaw-puzzles-pre-school.json) |
 | Kids Animal Slide Puzzle 15 Mystic squares game | 100315 | [100315-kids-animal-slide-puzzle-15-mystic-squares-game.json](./100315-kids-animal-slide-puzzle-15-mystic-squares-game.json) |
+| Kids Box | 280467 | [280467-kids-box.json](./280467-kids-box.json) |
 | Kids Cars | 213647 | [213647-kids-cars.json](./213647-kids-cars.json) |
 | Kids Dinosaur Rex Jigsaw Puzzles | 96749 | [96749-kids-dinosaur-rex-jigsaw-puzzles.json](./96749-kids-dinosaur-rex-jigsaw-puzzles.json) |
 | Kids doctor : veterinarian | 99388 | [99388-kids-doctor-veterinarian.json](./99388-kids-doctor-veterinarian.json) |
