@@ -2397,6 +2397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Hero! Last | 211174 | [211174-our-hero-last.json](./211174-our-hero-last.json) |
 | Our Home | 207806 | [207806-our-home.json](./207806-our-home.json) |
 | Our House | 72784 | [72784-our-house.json](./72784-our-house.json) |
+| Our Journey | 279267 | [279267-our-journey.json](./279267-our-journey.json) |
 | Our Lady of Sorrow | 215035 | [215035-our-lady-of-sorrow.json](./215035-our-lady-of-sorrow.json) |
 | Our Last Dayz | 249711 | [249711-our-last-dayz.json](./249711-our-last-dayz.json) |
 | Our Life on Water | 276186 | [276186-our-life-on-water.json](./276186-our-life-on-water.json) |
