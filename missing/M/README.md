@@ -2985,6 +2985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximal Mahjongg | 94235 | [94235-maximal-mahjongg.json](./94235-maximal-mahjongg.json) |
 | Maximo vs. Army of Zin | 43642 | [43642-maximo-vs-army-of-zin.json](./43642-maximo-vs-army-of-zin.json) |
 | Maximum Action | 92784 | [92784-maximum-action.json](./92784-maximum-action.json) |
+| Maximum Chaser: 1001 Squad | 325509 | [325509-maximum-chaser-1001-squad.json](./325509-maximum-chaser-1001-squad.json) |
 | Maximum Fighterz: Direct Offensive Action | 369580 | [369580-maximum-fighterz-direct-offensive-action.json](./369580-maximum-fighterz-direct-offensive-action.json) |
 | Maximum Football | 304344 | [304344-maximum-football.json](./304344-maximum-football.json) |
 | Maximum Football | 66690 | [66690-maximum-football.json](./66690-maximum-football.json) |
@@ -8986,6 +8987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Wimpy | 46079 | [46079-mr-wimpy.json](./46079-mr-wimpy.json) |
 | Mr. Wings | 255714 | [255714-mr-wings.json](./255714-mr-wings.json) |
 | Mr. Wiz | 128447 | [128447-mr-wiz.json](./128447-mr-wiz.json) |
+| Mr. Wolf | 325515 | [325515-mr-wolf.json](./325515-mr-wolf.json) |
 | Mr. Woodpecker | 298648 | [298648-mr-woodpecker.json](./298648-mr-woodpecker.json) |
 | Mr. Yeti's Fast Food | 179495 | [179495-mr-yetis-fast-food.json](./179495-mr-yetis-fast-food.json) |
 | Mr. Zippy is Watching | 401090 | [401090-mr-zippy-is-watching.json](./401090-mr-zippy-is-watching.json) |
@@ -9286,6 +9288,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Mystery J: Satsujinhan ha Soba ni iru | 325456 | [325456-murder-mystery-j-satsujinhan-ha-soba-ni-iru.json](./325456-murder-mystery-j-satsujinhan-ha-soba-ni-iru.json) |
 | Murder Mystery J: SP1 Icon | 325462 | [325462-murder-mystery-j-sp1-icon.json](./325462-murder-mystery-j-sp1-icon.json) |
 | Murder Mystery J: SP2 Icon | 325461 | [325461-murder-mystery-j-sp2-icon.json](./325461-murder-mystery-j-sp2-icon.json) |
+| Murder Mystery J: Special Stamp - Anna | 325491 | [325491-murder-mystery-j-special-stamp-anna.json](./325491-murder-mystery-j-special-stamp-anna.json) |
+| Murder Mystery J: Special Stamp - Bill | 325489 | [325489-murder-mystery-j-special-stamp-bill.json](./325489-murder-mystery-j-special-stamp-bill.json) |
+| Murder Mystery J: Special Stamp - Ema | 325490 | [325490-murder-mystery-j-special-stamp-ema.json](./325490-murder-mystery-j-special-stamp-ema.json) |
 | Murder Mystery J: Special Stamp - Eric | 325472 | [325472-murder-mystery-j-special-stamp-eric.json](./325472-murder-mystery-j-special-stamp-eric.json) |
 | Murder Mystery J: Special Stamp - Ernie | 325473 | [325473-murder-mystery-j-special-stamp-ernie.json](./325473-murder-mystery-j-special-stamp-ernie.json) |
 | Murder Mystery J: Special Stamp - Fey | 325479 | [325479-murder-mystery-j-special-stamp-fey.json](./325479-murder-mystery-j-special-stamp-fey.json) |
