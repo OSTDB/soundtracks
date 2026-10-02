@@ -899,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underground-Mining-Simulator 2011 | 53938 | [53938-underground-mining-simulator-2011.json](./53938-underground-mining-simulator-2011.json) |
 | Underground: Chapter 1 | 367555 | [367555-underground-chapter-1.json](./367555-underground-chapter-1.json) |
 | Undergrown | 244488 | [244488-undergrown.json](./244488-undergrown.json) |
+| Underhaul | 298827 | [298827-underhaul.json](./298827-underhaul.json) |
 | Underhell | 121214 | [121214-underhell.json](./121214-underhell.json) |
 | Underhell | 144877 | [144877-underhell.json](./144877-underhell.json) |
 | Underhero | 36652 | [36652-underhero.json](./36652-underhero.json) |
