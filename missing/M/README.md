@@ -1310,6 +1310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Making Lovers: HD Deluxe Edition | 260219 | [260219-making-lovers-hd-deluxe-edition.json](./260219-making-lovers-hd-deluxe-edition.json) |
 | Making Lovers: Limited Edition | 166174 | [166174-making-lovers-limited-edition.json](./166174-making-lovers-limited-edition.json) |
 | Making of Conquerors | 184915 | [184915-making-of-conquerors.json](./184915-making-of-conquerors.json) |
+| Making The Leap | 285150 | [285150-making-the-leap.json](./285150-making-the-leap.json) |
 | Makiomino | 196040 | [196040-makiomino.json](./196040-makiomino.json) |
 | Makis Adventure: Level Editor | 341605 | [341605-makis-adventure-level-editor.json](./341605-makis-adventure-level-editor.json) |
 | Makka Pakka 2 | 375322 | [375322-makka-pakka-2.json](./375322-makka-pakka-2.json) |
@@ -5006,6 +5007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteor Tensei | 141029 | [141029-meteor-tensei.json](./141029-meteor-tensei.json) |
 | Meteor World Actor: Badge & Dagger | 194451 | [194451-meteor-world-actor-badge-and-dagger.json](./194451-meteor-world-actor-badge-and-dagger.json) |
 | Meteor World Actor: Badge & Dagger | 252088 | [252088-meteor-world-actor-badge-and-dagger.json](./252088-meteor-world-actor-badge-and-dagger.json) |
+| Meteora's Mystic Merge | 285146 | [285146-meteoras-mystic-merge.json](./285146-meteoras-mystic-merge.json) |
 | Meteorder | 317977 | [317977-meteorder.json](./317977-meteorder.json) |
 | Meteorfall: Krumit's Tale | 98379 | [98379-meteorfall-krumits-tale.json](./98379-meteorfall-krumits-tale.json) |
 | Meteorfall: Krumit's Tale - Varfa the Ranger | 172169 | [172169-meteorfall-krumits-tale-varfa-the-ranger.json](./172169-meteorfall-krumits-tale-varfa-the-ranger.json) |
@@ -7032,6 +7034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB.com Franchise MVP | 61355 | [61355-mlb-com-franchise-mvp.json](./61355-mlb-com-franchise-mvp.json) |
 | MLB.com Home Run Derby 14 | 61357 | [61357-mlb-com-home-run-derby-14.json](./61357-mlb-com-home-run-derby-14.json) |
 | MLF 2 | 43242 | [43242-mlf-2.json](./43242-mlf-2.json) |
+| MLG Flappy Bird 420 | 285148 | [285148-mlg-flappy-bird-420.json](./285148-mlg-flappy-bird-420.json) |
 | MM Garden | 335332 | [335332-mm-garden.json](./335332-mm-garden.json) |
 | MMA Arena | 117047 | [117047-mma-arena.json](./117047-mma-arena.json) |
 | MMA Championship | 189178 | [189178-mma-championship.json](./189178-mma-championship.json) |
@@ -9115,6 +9118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Do! | 297491 | [297491-mr-do.json](./297491-mr-do.json) |
 | Mr. Do! | 365697 | [365697-mr-do.json](./365697-mr-do.json) |
 | Mr. Do!'s Castle | 24408 | [24408-mr-do-s-castle.json](./24408-mr-do-s-castle.json) |
+| Mr. Don | 285137 | [285137-mr-don.json](./285137-mr-don.json) |
 | Mr. Donovan | 28769 | [28769-mr-donovan.json](./28769-mr-donovan.json) |
 | Mr. Douchebag Breaks Rocks | 234714 | [234714-mr-douchebag-breaks-rocks.json](./234714-mr-douchebag-breaks-rocks.json) |
 | Mr. Driller | 254519 | [254519-mr-driller.json](./254519-mr-driller.json) |
@@ -9231,6 +9235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MrFox | 207770 | [207770-mrfox.json](./207770-mrfox.json) |
 | MRG: Matando Robôs Gigantes - O Jogo | 346776 | [346776-mrg-matando-robos-gigantes-o-jogo.json](./346776-mrg-matando-robos-gigantes-o-jogo.json) |
 | Mroi | 333940 | [333940-mroi.json](./333940-mroi.json) |
+| Mrs. Dynamite | 285138 | [285138-mrs-dynamite.json](./285138-mrs-dynamite.json) |
 | Mrs. Estacion | 375347 | [375347-mrs-estacion.json](./375347-mrs-estacion.json) |
 | Mrs. Fantastic's Freaky Figurine Shop | 166702 | [166702-mrs-fantastics-freaky-figurine-shop.json](./166702-mrs-fantastics-freaky-figurine-shop.json) |
 | Mrs. Mopp | 354578 | [354578-mrs-mopp.json](./354578-mrs-mopp.json) |
@@ -10200,6 +10205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Universe | 207161 | [207161-my-little-universe.json](./207161-my-little-universe.json) |
 | My Little Universe: Complete Edition | 294825 | [294825-my-little-universe-complete-edition.json](./294825-my-little-universe-complete-edition.json) |
 | My Little Universe: Demodium | 286542 | [286542-my-little-universe-demodium.json](./286542-my-little-universe-demodium.json) |
+| My Little Universe: Xmas Character Pack | 285129 | [285129-my-little-universe-xmas-character-pack.json](./285129-my-little-universe-xmas-character-pack.json) |
 | My Little Work: Garage | 89180 | [89180-my-little-work-garage.json](./89180-my-little-work-garage.json) |
 | My Love for You is Evermore | 254570 | [254570-my-love-for-you-is-evermore.json](./254570-my-love-for-you-is-evermore.json) |
 | My Lovely Dog Adventure | 263231 | [263231-my-lovely-dog-adventure.json](./263231-my-lovely-dog-adventure.json) |
