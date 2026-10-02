@@ -1718,6 +1718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Yatterman: Nandai Kandai Yajirobee | 37908 | [37908-new-yatterman-nandai-kandai-yajirobee.json](./37908-new-yatterman-nandai-kandai-yajirobee.json) |
 | New Year Girls | 191085 | [191085-new-year-girls.json](./191085-new-year-girls.json) |
 | New Year Simulator 2025 | 326390 | [326390-new-year-simulator-2025.json](./326390-new-year-simulator-2025.json) |
+| New Year, New Nanos | 302613 | [302613-new-year-new-nanos.json](./302613-new-year-new-nanos.json) |
 | New Year's Eve 2020 | 127187 | [127187-new-years-eve-2020.json](./127187-new-years-eve-2020.json) |
 | New Year's Jam | 325263 | [325263-new-years-jam.json](./325263-new-years-jam.json) |
 | New Years Eve Slaughter 2022 | 257416 | [257416-new-years-eve-slaughter-2022.json](./257416-new-years-eve-slaughter-2022.json) |
