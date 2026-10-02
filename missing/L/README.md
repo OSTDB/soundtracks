@@ -4018,6 +4018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost God | 24939 | [24939-lost-god.json](./24939-lost-god.json) |
 | Lost Gold | 156065 | [156065-lost-gold.json](./156065-lost-gold.json) |
 | Lost Grimoires 2: Shard of Mystery | 29961 | [29961-lost-grimoires-2-shard-of-mystery.json](./29961-lost-grimoires-2-shard-of-mystery.json) |
+| Lost Group | 291188 | [291188-lost-group.json](./291188-lost-group.json) |
 | Lost Hammer | 221754 | [221754-lost-hammer.json](./221754-lost-hammer.json) |
 | Lost Harem | 173823 | [173823-lost-harem.json](./173823-lost-harem.json) |
 | Lost Harmony | 278978 | [278978-lost-harmony.json](./278978-lost-harmony.json) |
