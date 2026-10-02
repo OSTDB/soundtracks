@@ -4066,6 +4066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionic Shield: Battle for Space Nebula Omega | 189123 | [189123-bionic-shield-battle-for-space-nebula-omega.json](./189123-bionic-shield-battle-for-space-nebula-omega.json) |
 | Bionicle Defenders | 343283 | [343283-bionicle-defenders.json](./343283-bionicle-defenders.json) |
 | Bionicle Heroes: DOOM | 135832 | [135832-bionicle-heroes-doom.json](./135832-bionicle-heroes-doom.json) |
+| Bionicle Metru Nui: City of Legends - Stop the Morbuzakh | 279236 | [279236-bionicle-metru-nui-city-of-legends-stop-the-morbuzakh.json](./279236-bionicle-metru-nui-city-of-legends-stop-the-morbuzakh.json) |
 | Bionicle: City of Legends | 175995 | [175995-bionicle-city-of-legends.json](./175995-bionicle-city-of-legends.json) |
 | Bionicle: Command The Toa Mahri | 343282 | [343282-bionicle-command-the-toa-mahri.json](./343282-bionicle-command-the-toa-mahri.json) |
 | Bionicle: Glatorian Arena | 343354 | [343354-bionicle-glatorian-arena.json](./343354-bionicle-glatorian-arena.json) |
@@ -7878,6 +7879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Dreams | 33495 | [33495-broken-dreams.json](./33495-broken-dreams.json) |
 | Broken Ecchi Gallery | 280748 | [280748-broken-ecchi-gallery.json](./280748-broken-ecchi-gallery.json) |
 | Broken Fields: Stay or Run? | 420676 | [420676-broken-fields-stay-or-run.json](./420676-broken-fields-stay-or-run.json) |
+| Broken Fifth | 279260 | [279260-broken-fifth.json](./279260-broken-fifth.json) |
 | Broken God Awakening | 216791 | [216791-broken-god-awakening.json](./216791-broken-god-awakening.json) |
 | Broken Hearts | 391793 | [391793-broken-hearts.json](./391793-broken-hearts.json) |
 | Broken Hearts Club: Blue Bird Blues | 120844 | [120844-broken-hearts-club-blue-bird-blues.json](./120844-broken-hearts-club-blue-bird-blues.json) |
