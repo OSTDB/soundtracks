@@ -5749,6 +5749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roxy Raccoon's Pinball Panic: Joyous Japan | 226931 | [226931-roxy-raccoons-pinball-panic-joyous-japan.json](./226931-roxy-raccoons-pinball-panic-joyous-japan.json) |
 | Roxy Raccoon's Pinball Panic: Medieval Mayhem | 259594 | [259594-roxy-raccoons-pinball-panic-medieval-mayhem.json](./259594-roxy-raccoons-pinball-panic-medieval-mayhem.json) |
 | Roxy Raccoon's Pinball Panic: Paradise Parks | 311787 | [311787-roxy-raccoons-pinball-panic-paradise-parks.json](./311787-roxy-raccoons-pinball-panic-paradise-parks.json) |
+| Roxy Raccoon's Pinball Panic: Prehistoric Paradise | 289538 | [289538-roxy-raccoons-pinball-panic-prehistoric-paradise.json](./289538-roxy-raccoons-pinball-panic-prehistoric-paradise.json) |
 | Roxy Raccoon's Pinball Panic: Retro Revival | 289863 | [289863-roxy-raccoons-pinball-panic-retro-revival.json](./289863-roxy-raccoons-pinball-panic-retro-revival.json) |
 | Roxy Raccoon's Pinball Panic: St. Patrick's Paradise | 241315 | [241315-roxy-raccoons-pinball-panic-st-patricks-paradise.json](./241315-roxy-raccoons-pinball-panic-st-patricks-paradise.json) |
 | Roxy Raccoon's Pinball Panic: Steampunk Stories | 337470 | [337470-roxy-raccoons-pinball-panic-steampunk-stories.json](./337470-roxy-raccoons-pinball-panic-steampunk-stories.json) |
