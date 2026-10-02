@@ -1934,6 +1934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enlisted: M3A1 Squad | 293771 | [293771-enlisted-m3a1-squad.json](./293771-enlisted-m3a1-squad.json) |
 | Enlisted: Nambu Type 1 Squad | 293767 | [293767-enlisted-nambu-type-1-squad.json](./293767-enlisted-nambu-type-1-squad.json) |
 | Enlisted: Sherman IC "Firefly" Squad | 293770 | [293770-enlisted-sherman-ic-firefly-squad.json](./293770-enlisted-sherman-ic-firefly-squad.json) |
+| Enlisted: Type Hei LMG Squad | 332008 | [332008-enlisted-type-hei-lmg-squad.json](./332008-enlisted-type-hei-lmg-squad.json) |
 | Enlysia | 44191 | [44191-enlysia.json](./44191-enlysia.json) |
 | Ennichi Kara Dasshutsu | 283805 | [283805-ennichi-kara-dasshutsu.json](./283805-ennichi-kara-dasshutsu.json) |
 | Ennuigi | 175880 | [175880-ennuigi.json](./175880-ennuigi.json) |
@@ -2370,6 +2371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Down | 195102 | [195102-escape-down.json](./195102-escape-down.json) |
 | Escape Dream | 236384 | [236384-escape-dream.json](./236384-escape-dream.json) |
 | Escape DuckZ! | 329019 | [329019-escape-duckz.json](./329019-escape-duckz.json) |
+| Escape Enthusiast | 332007 | [332007-escape-enthusiast.json](./332007-escape-enthusiast.json) |
 | Escape Everlit | 348372 | [348372-escape-everlit.json](./348372-escape-everlit.json) |
 | Escape Evolution | 179180 | [179180-escape-evolution.json](./179180-escape-evolution.json) |
 | Escape Expert | 81116 | [81116-escape-expert.json](./81116-escape-expert.json) |
@@ -2480,6 +2482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From the Dark | 196285 | [196285-escape-from-the-dark.json](./196285-escape-from-the-dark.json) |
 | Escape From the Depth | 242050 | [242050-escape-from-the-depth.json](./242050-escape-from-the-depth.json) |
 | Escape From the Dragons | 111686 | [111686-escape-from-the-dragons.json](./111686-escape-from-the-dragons.json) |
+| Escape from the Dungeon | 332009 | [332009-escape-from-the-dungeon.json](./332009-escape-from-the-dungeon.json) |
 | Escape From the Grim | 129004 | [129004-escape-from-the-grim.json](./129004-escape-from-the-grim.json) |
 | Escape From the Hospital | 100742 | [100742-escape-from-the-hospital.json](./100742-escape-from-the-hospital.json) |
 | Escape From The Island | 283290 | [283290-escape-from-the-island.json](./283290-escape-from-the-island.json) |
@@ -2562,6 +2565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Room Mega Bundle | 279036 | [279036-escape-room-mega-bundle.json](./279036-escape-room-mega-bundle.json) |
 | Escape Room Mystery Adventure: Enchanting Tales | 152389 | [152389-escape-room-mystery-adventure-enchanting-tales.json](./152389-escape-room-mystery-adventure-enchanting-tales.json) |
 | Escape Room Pentalogy Bundle | 284488 | [284488-escape-room-pentalogy-bundle.json](./284488-escape-room-pentalogy-bundle.json) |
+| Escape Room Six Games Pack | 332011 | [332011-escape-room-six-games-pack.json](./332011-escape-room-six-games-pack.json) |
 | Escape Room Ultimate Bundle | 306493 | [306493-escape-room-ultimate-bundle.json](./306493-escape-room-ultimate-bundle.json) |
 | Escape Room: Bank Robbery Gone Wrong | 244246 | [244246-escape-room-bank-robbery-gone-wrong.json](./244246-escape-room-bank-robbery-gone-wrong.json) |
 | Escape Room: Beyond Mystery | 315265 | [315265-escape-room-beyond-mystery.json](./315265-escape-room-beyond-mystery.json) |
@@ -2756,6 +2760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Esports Saga | 95836 | [95836-esports-saga.json](./95836-esports-saga.json) |
 | ESports Simulator | 309522 | [309522-esports-simulator.json](./309522-esports-simulator.json) |
 | Esports Team Manager | 356710 | [356710-esports-team-manager.json](./356710-esports-team-manager.json) |
+| Espresso Tycoon & Prison Simulator | 332010 | [332010-espresso-tycoon-and-prison-simulator.json](./332010-espresso-tycoon-and-prison-simulator.json) |
 | Esse mundo é um Colosso | 230758 | [230758-esse-mundo-e-um-colosso.json](./230758-esse-mundo-e-um-colosso.json) |
 | Esse Rakuraku Kakeibo | 141724 | [141724-esse-rakuraku-kakeibo.json](./141724-esse-rakuraku-kakeibo.json) |
 | Essence | 383502 | [383502-essence.json](./383502-essence.json) |
@@ -3256,6 +3261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everybody's RPG: Reborn | 147318 | [147318-everybodys-rpg-reborn.json](./147318-everybodys-rpg-reborn.json) |
 | Everybody's Sad | 113672 | [113672-everybodys-sad.json](./113672-everybodys-sad.json) |
 | Everyday Baseball VR | 107415 | [107415-everyday-baseball-vr.json](./107415-everyday-baseball-vr.json) |
+| Everyday Heroines: 3 in 1 | 332012 | [332012-everyday-heroines-3-in-1.json](./332012-everyday-heroines-3-in-1.json) |
 | Everyday House Tamagotchi | 222427 | [222427-everyday-house-tamagotchi.json](./222427-everyday-house-tamagotchi.json) |
 | Everyday Jigsaw | 87088 | [87088-everyday-jigsaw.json](./87088-everyday-jigsaw.json) |
 | Everyday Life Fragments | 344535 | [344535-everyday-life-fragments.json](./344535-everyday-life-fragments.json) |
