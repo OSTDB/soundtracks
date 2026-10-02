@@ -760,6 +760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Arcade Classics | 319408 | [319408-rally-arcade-classics.json](./319408-rally-arcade-classics.json) |
 | Rally Bike | 282119 | [282119-rally-bike.json](./282119-rally-bike.json) |
 | Rally Bike | 39568 | [39568-rally-bike.json](./39568-rally-bike.json) |
+| Rally Champion Advanced | 293876 | [293876-rally-champion-advanced.json](./293876-rally-champion-advanced.json) |
 | Rally Championship: The X-Miles | 100179 | [100179-rally-championship-the-x-miles.json](./100179-rally-championship-the-x-miles.json) |
 | Rally Chase | 75514 | [75514-rally-chase.json](./75514-rally-chase.json) |
 | Rally Copters | 33424 | [33424-rally-copters.json](./33424-rally-copters.json) |
@@ -2679,6 +2680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Requiem: Rise of the Reaver | 36343 | [36343-requiem-rise-of-the-reaver.json](./36343-requiem-rise-of-the-reaver.json) |
 | Requiem: Unleashed | 341093 | [341093-requiem-unleashed.json](./341093-requiem-unleashed.json) |
 | ReRave | 41506 | [41506-rerave.json](./41506-rerave.json) |
+| ReRise | 293862 | [293862-rerise.json](./293862-rerise.json) |
 | Reroll | 104065 | [104065-reroll.json](./104065-reroll.json) |
 | ReRoll | 19700 | [19700-reroll.json](./19700-reroll.json) |
 | Reroute | 291487 | [291487-reroute.json](./291487-reroute.json) |
@@ -3707,6 +3709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riding Star 3D: Champion in Sattle | 84839 | [84839-riding-star-3d-champion-in-sattle.json](./84839-riding-star-3d-champion-in-sattle.json) |
 | Riding the Wave | 318387 | [318387-riding-the-wave.json](./318387-riding-the-wave.json) |
 | Riding to Bounce City | 215922 | [215922-riding-to-bounce-city.json](./215922-riding-to-bounce-city.json) |
+| Riding to Bounce City: Babydoll Set A | 293871 | [293871-riding-to-bounce-city-babydoll-set-a.json](./293871-riding-to-bounce-city-babydoll-set-a.json) |
 | Riff Raft | 184919 | [184919-riff-raft.json](./184919-riff-raft.json) |
 | Riff: The Music Trivia DVD Game | 360767 | [360767-riff-the-music-trivia-dvd-game.json](./360767-riff-the-music-trivia-dvd-game.json) |
 | Riffle Effect | 217511 | [217511-riffle-effect.json](./217511-riffle-effect.json) |
@@ -3927,6 +3930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riptide | 291236 | [291236-riptide.json](./291236-riptide.json) |
 | Riptide GP2 | 16735 | [16735-riptide-gp2.json](./16735-riptide-gp2.json) |
 | Riptoff | 142367 | [142367-riptoff.json](./142367-riptoff.json) |
+| Riri: Origin of Surabaya | 293341 | [293341-riri-origin-of-surabaya.json](./293341-riri-origin-of-surabaya.json) |
 | Riruka ha Ikue ni Yoru wo Irodoru | 375368 | [375368-riruka-ha-ikue-ni-yoru-wo-irodoru.json](./375368-riruka-ha-ikue-ni-yoru-wo-irodoru.json) |
 | Rise | 142344 | [142344-rise.json](./142344-rise.json) |
 | Rise | 32198 | [32198-rise.json](./32198-rise.json) |
@@ -4531,6 +4535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Legions Reborn | 21629 | [21629-robot-legions-reborn.json](./21629-robot-legions-reborn.json) |
 | Robot Maker | 385335 | [385335-robot-maker.json](./385335-robot-maker.json) |
 | Robot Mil | 387341 | [387341-robot-mil.json](./387341-robot-mil.json) |
+| Robot Multitool | 293868 | [293868-robot-multitool.json](./293868-robot-multitool.json) |
 | Robot Odyssey | 73313 | [73313-robot-odyssey.json](./73313-robot-odyssey.json) |
 | Robot Paradise VR | 133453 | [133453-robot-paradise-vr.json](./133453-robot-paradise-vr.json) |
 | Robot Pirates | 28042 | [28042-robot-pirates.json](./28042-robot-pirates.json) |
@@ -5433,6 +5438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rookie Tank | 116357 | [116357-rookie-tank.json](./116357-rookie-tank.json) |
 | Rooks Keep | 17373 | [17373-rooks-keep.json](./17373-rooks-keep.json) |
 | Room | 291092 | [291092-room.json](./291092-room.json) |
+| Room | 293847 | [293847-room.json](./293847-room.json) |
 | Room 14 | 301855 | [301855-room-14.json](./301855-room-14.json) |
 | Room 40 | 120364 | [120364-room-40.json](./120364-room-40.json) |
 | Room 404 | 55191 | [55191-room-404.json](./55191-room-404.json) |
