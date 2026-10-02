@@ -2810,6 +2810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil: The Darkside Chronicles | 497 | [497-resident-evil-the-darkside-chronicles.json](./497-resident-evil-the-darkside-chronicles.json) |
 | Resident Evil: The Mercenaries 3D | 976 | [976-resident-evil-the-mercenaries-3d.json](./976-resident-evil-the-mercenaries-3d.json) |
 | Resident Evil: Uprising | 225578 | [225578-resident-evil-uprising.json](./225578-resident-evil-uprising.json) |
+| Resident Evil: Wesker Rebirth | 313202 | [313202-resident-evil-wesker-rebirth.json](./313202-resident-evil-wesker-rebirth.json) |
 | Resident Fear 2 | 314975 | [314975-resident-fear-2.json](./314975-resident-fear-2.json) |
 | Resident Fear 3: Ascension | 365758 | [365758-resident-fear-3-ascension.json](./365758-resident-fear-3-ascension.json) |
 | Resident Fear: Redistribution | 264102 | [264102-resident-fear-redistribution.json](./264102-resident-fear-redistribution.json) |
@@ -3819,6 +3820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ring Out!! | 41404 | [41404-ring-out.json](./41404-ring-out.json) |
 | Ring Racer | 147379 | [147379-ring-racer.json](./147379-ring-racer.json) |
 | Ring Ring | 135689 | [135689-ring-ring.json](./135689-ring-ring.json) |
+| Ring Sculptors | 313155 | [313155-ring-sculptors.json](./313155-ring-sculptors.json) |
 | Ring Stars | 261508 | [261508-ring-stars.json](./261508-ring-stars.json) |
 | Ring Toss Legend | 408939 | [408939-ring-toss-legend.json](./408939-ring-toss-legend.json) |
 | Ring Wars | 56582 | [56582-ring-wars.json](./56582-ring-wars.json) |
