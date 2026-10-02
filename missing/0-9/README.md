@@ -988,6 +988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Minesweeper | 384102 | [384102-3d-minesweeper.json](./384102-3d-minesweeper.json) |
 | 3D MiniGolf | 143059 | [143059-3d-minigolf.json](./143059-3d-minigolf.json) |
 | 3D MiniGolf | 147887 | [147887-3d-minigolf.json](./147887-3d-minigolf.json) |
+| 3D MiniGolf: Makeover-Edition | 327436 | [327436-3d-minigolf-makeover-edition.json](./327436-3d-minigolf-makeover-edition.json) |
 | 3D Morpion | 324513 | [324513-3d-morpion.json](./324513-3d-morpion.json) |
 | 3D Munchy | 15577 | [15577-3d-munchy.json](./15577-3d-munchy.json) |
 | 3D Next Puzzle | 357971 | [357971-3d-next-puzzle.json](./357971-3d-next-puzzle.json) |
