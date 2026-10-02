@@ -223,6 +223,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halen: Ballad of the Blade Thief | 134002 | [134002-halen-ballad-of-the-blade-thief.json](./134002-halen-ballad-of-the-blade-thief.json) |
 | Half + Half | 152230 | [152230-half-half.json](./152230-half-half.json) |
 | Half Away | 322756 | [322756-half-away.json](./322756-half-away.json) |
+| Half Billion: Love Choice | 320281 | [320281-half-billion-love-choice.json](./320281-half-billion-love-choice.json) |
+| Half Billion: Love Choice - 2K DLC | 320284 | [320284-half-billion-love-choice-2k-dlc.json](./320284-half-billion-love-choice-2k-dlc.json) |
 | Half Blood | 402500 | [402500-half-blood.json](./402500-half-blood.json) |
 | Half Blood RPG | 163735 | [163735-half-blood-rpg.json](./163735-half-blood-rpg.json) |
 | Half Built: Casino | 211721 | [211721-half-built-casino.json](./211721-half-built-casino.json) |
@@ -2088,6 +2090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Cruel World | 272839 | [272839-hello-cruel-world.json](./272839-hello-cruel-world.json) |
 | Hello Duck | 408154 | [408154-hello-duck.json](./408154-hello-duck.json) |
 | Hello Emoji: Drawing to Solve Puzzles | 229798 | [229798-hello-emoji-drawing-to-solve-puzzles.json](./229798-hello-emoji-drawing-to-solve-puzzles.json) |
+| Hello Fangaming Collection | 320231 | [320231-hello-fangaming-collection.json](./320231-hello-fangaming-collection.json) |
 | Hello Games Neighbor | 101101 | [101101-hello-games-neighbor.json](./101101-hello-games-neighbor.json) |
 | Hello Girl | 257343 | [257343-hello-girl.json](./257343-hello-girl.json) |
 | Hello Ground | 185016 | [185016-hello-ground.json](./185016-hello-ground.json) |
@@ -2704,7 +2707,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heretic Operative | 113792 | [113792-heretic-operative.json](./113792-heretic-operative.json) |
 | Heretic Red | 335279 | [335279-heretic-red.json](./335279-heretic-red.json) |
 | Heretic Treasure Chest | 260783 | [260783-heretic-treasure-chest.json](./260783-heretic-treasure-chest.json) |
+| Heretic's Fork: Abyssal Update | 320278 | [320278-heretics-fork-abyssal-update.json](./320278-heretics-fork-abyssal-update.json) |
 | Heretic’s Fork: Probation | 251822 | [251822-heretic-s-fork-probation.json](./251822-heretic-s-fork-probation.json) |
+| Heretic's Fork: The Savior's Descent | 320280 | [320280-heretics-fork-the-saviors-descent.json](./320280-heretics-fork-the-saviors-descent.json) |
 | Heretic's Hope | 216329 | [216329-heretics-hope.json](./216329-heretics-hope.json) |
 | Heretic's Lot | 158566 | [158566-heretics-lot.json](./158566-heretics-lot.json) |
 | Heritage | 323499 | [323499-heritage.json](./323499-heritage.json) |
