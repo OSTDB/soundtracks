@@ -2452,6 +2452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetjis | 361756 | [361756-tetjis.json](./361756-tetjis.json) |
 | Tetnis | 93522 | [93522-tetnis.json](./93522-tetnis.json) |
 | Tetr.io: Season 2 | 363973 | [363973-tetr-io-season-2.json](./363973-tetr-io-season-2.json) |
+| Tetra Block | 292774 | [292774-tetra-block.json](./292774-tetra-block.json) |
 | Tetra Cube | 144871 | [144871-tetra-cube.json](./144871-tetra-cube.json) |
 | Tetra Dungeon | 184391 | [184391-tetra-dungeon.json](./184391-tetra-dungeon.json) |
 | Tetra Dungeon | 403790 | [403790-tetra-dungeon.json](./403790-tetra-dungeon.json) |
