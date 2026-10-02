@@ -1673,6 +1673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indoor Sports World | 52246 | [52246-indoor-sports-world.json](./52246-indoor-sports-world.json) |
 | Indoors: The Alston Manor | 269005 | [269005-indoors-the-alston-manor.json](./269005-indoors-the-alston-manor.json) |
 | Indoors: Trespasser | 418544 | [418544-indoors-trespasser.json](./418544-indoors-trespasser.json) |
+| Indoras: The Whispering Shard | 333134 | [333134-indoras-the-whispering-shard.json](./333134-indoras-the-whispering-shard.json) |
 | Induction | 18194 | [18194-induction.json](./18194-induction.json) |
 | Inductor | 211282 | [211282-inductor.json](./211282-inductor.json) |
 | Indulge | 414312 | [414312-indulge.json](./414312-indulge.json) |
