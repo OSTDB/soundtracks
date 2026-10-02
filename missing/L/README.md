@@ -2416,6 +2416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightbot: Programming Puzzles | 88528 | [88528-lightbot-programming-puzzles.json](./88528-lightbot-programming-puzzles.json) |
 | Lightbox | 153861 | [153861-lightbox.json](./153861-lightbox.json) |
 | LightCells | 368582 | [368582-lightcells.json](./368582-lightcells.json) |
+| Lightclusters | 289552 | [289552-lightclusters.json](./289552-lightclusters.json) |
 | Lighted Knights | 123525 | [123525-lighted-knights.json](./123525-lighted-knights.json) |
 | Lighten Up | 223407 | [223407-lighten-up.json](./223407-lighten-up.json) |
 | Lightening Force: Quest for the Darkstar | 46273 | [46273-lightening-force-quest-for-the-darkstar.json](./46273-lightening-force-quest-for-the-darkstar.json) |
@@ -3193,6 +3194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Live Shiver | 264709 | [264709-live-shiver.json](./264709-live-shiver.json) |
 | LiveGame.Show | 131349 | [131349-livegame-show.json](./131349-livegame-show.json) |
 | Lively Chair Simulator | 273118 | [273118-lively-chair-simulator.json](./273118-lively-chair-simulator.json) |
+| LiveMeat | 289547 | [289547-livemeat.json](./289547-livemeat.json) |
 | Liverpool Club Football | 267878 | [267878-liverpool-club-football.json](./267878-liverpool-club-football.json) |
 | Liverpool Club Football 2005 | 267899 | [267899-liverpool-club-football-2005.json](./267899-liverpool-club-football-2005.json) |
 | Livers Ikusei Card Game | 320815 | [320815-livers-ikusei-card-game.json](./320815-livers-ikusei-card-game.json) |
@@ -4913,6 +4915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar: The Silver Star | 5334 | [5334-lunar-the-silver-star.json](./5334-lunar-the-silver-star.json) |
 | Lunar's Chosen | 280781 | [280781-lunars-chosen.json](./280781-lunars-chosen.json) |
 | Lunarball | 291250 | [291250-lunarball.json](./291250-lunarball.json) |
+| Lunares Insaniam | 289582 | [289582-lunares-insaniam.json](./289582-lunares-insaniam.json) |
 | Lunarrota | 198483 | [198483-lunarrota.json](./198483-lunarrota.json) |
 | Lunars | 217321 | [217321-lunars.json](./217321-lunars.json) |
 | Lunatic | 141184 | [141184-lunatic.json](./141184-lunatic.json) |
