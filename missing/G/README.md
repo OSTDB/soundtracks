@@ -434,6 +434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Hero H2H | 233207 | [233207-galaxy-hero-h2h.json](./233207-galaxy-hero-h2h.json) |
 | Galaxy Hordes | 258978 | [258978-galaxy-hordes.json](./258978-galaxy-hordes.json) |
 | Galaxy Hunter: Into the Portal | 137639 | [137639-galaxy-hunter-into-the-portal.json](./137639-galaxy-hunter-into-the-portal.json) |
+| Galaxy Idle Clicker | 311697 | [311697-galaxy-idle-clicker.json](./311697-galaxy-idle-clicker.json) |
 | Galaxy in Peril: Time Trouble | 157063 | [157063-galaxy-in-peril-time-trouble.json](./157063-galaxy-in-peril-time-trouble.json) |
 | Galaxy in Turmoil | 19436 | [19436-galaxy-in-turmoil.json](./19436-galaxy-in-turmoil.json) |
 | Galaxy Invader 1000 | 47282 | [47282-galaxy-invader-1000.json](./47282-galaxy-invader-1000.json) |
@@ -2402,6 +2403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Globat Pixels | 115676 | [115676-globat-pixels.json](./115676-globat-pixels.json) |
 | Globber | 418528 | [418528-globber.json](./418528-globber.json) |
 | Globe Drone | 307733 | [307733-globe-drone.json](./307733-globe-drone.json) |
+| Globe Games | 311566 | [311566-globe-games.json](./311566-globe-games.json) |
 | Globe: Earth Adventures | 230378 | [230378-globe-earth-adventures.json](./230378-globe-earth-adventures.json) |
 | Globeba | 300395 | [300395-globeba.json](./300395-globeba.json) |
 | Globesweeper | 109203 | [109203-globesweeper.json](./109203-globesweeper.json) |
