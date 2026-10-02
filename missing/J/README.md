@@ -1603,6 +1603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump or Roll Game | 246987 | [246987-jump-or-roll-game.json](./246987-jump-or-roll-game.json) |
 | Jump Out | 280310 | [280310-jump-out.json](./280310-jump-out.json) |
 | Jump Pals | 291704 | [291704-jump-pals.json](./291704-jump-pals.json) |
+| Jump Penguin Final | 279256 | [279256-jump-penguin-final.json](./279256-jump-penguin-final.json) |
 | Jump Protocol | 411816 | [411816-jump-protocol.json](./411816-jump-protocol.json) |
 | Jump Puzzle | 244369 | [244369-jump-puzzle.json](./244369-jump-puzzle.json) |
 | Jump Race | 324998 | [324998-jump-race.json](./324998-jump-race.json) |
