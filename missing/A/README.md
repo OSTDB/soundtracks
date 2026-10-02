@@ -361,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A New Adventure: FaYoh 2 | 131374 | [131374-a-new-adventure-fayoh-2.json](./131374-a-new-adventure-fayoh-2.json) |
 | A New Don | 183433 | [183433-a-new-don.json](./183433-a-new-don.json) |
 | A New Leaf: Memories | 167583 | [167583-a-new-leaf-memories.json](./167583-a-new-leaf-memories.json) |
+| A New Life | 304304 | [304304-a-new-life.json](./304304-a-new-life.json) |
 | A New Reckoning | 61707 | [61707-a-new-reckoning.json](./61707-a-new-reckoning.json) |
 | A Night at Sea | 228996 | [228996-a-night-at-sea.json](./228996-a-night-at-sea.json) |
 | A Night at the Watermill: Collector's Bundle | 336052 | [336052-a-night-at-the-watermill-collectors-bundle.json](./336052-a-night-at-the-watermill-collectors-bundle.json) |
@@ -506,6 +507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Steamboat Willie | 282679 | [282679-a-steamboat-willie.json](./282679-a-steamboat-willie.json) |
 | A Step From Insanity | 260220 | [260220-a-step-from-insanity.json](./260220-a-step-from-insanity.json) |
 | A Step Into Darkness | 29815 | [29815-a-step-into-darkness.json](./29815-a-step-into-darkness.json) |
+| A Stop for the Night | 304305 | [304305-a-stop-for-the-night.json](./304305-a-stop-for-the-night.json) |
 | A Story About Farting | 278747 | [278747-a-story-about-farting.json](./278747-a-story-about-farting.json) |
 | A Story of the End: Revere | 57152 | [57152-a-story-of-the-end-revere.json](./57152-a-story-of-the-end-revere.json) |
 | A Story of the Usurpers | 130204 | [130204-a-story-of-the-usurpers.json](./130204-a-story-of-the-usurpers.json) |
@@ -1449,6 +1451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Field | 274001 | [274001-adventure-field.json](./274001-adventure-field.json) |
 | Adventure Field 2 | 274002 | [274002-adventure-field-2.json](./274002-adventure-field-2.json) |
 | Adventure Field 3: Definitive Edition | 274003 | [274003-adventure-field-3-definitive-edition.json](./274003-adventure-field-3-definitive-edition.json) |
+| Adventure Flashback Blast! | 304290 | [304290-adventure-flashback-blast.json](./304290-adventure-flashback-blast.json) |
 | Adventure Forest: Rabbit Story | 309475 | [309475-adventure-forest-rabbit-story.json](./309475-adventure-forest-rabbit-story.json) |
 | Adventure Galaxy | 126585 | [126585-adventure-galaxy.json](./126585-adventure-galaxy.json) |
 | Adventure II | 305183 | [305183-adventure-ii.json](./305183-adventure-ii.json) |
@@ -5257,6 +5260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Legends: Hunted | 210618 | [210618-apex-legends-hunted.json](./210618-apex-legends-hunted.json) |
 | Apex Legends: Legacy | 146328 | [146328-apex-legends-legacy.json](./146328-apex-legends-legacy.json) |
 | Apex Legends: Marked | 412314 | [412314-apex-legends-marked.json](./412314-apex-legends-marked.json) |
+| Apex Legends: PlayStation Plus Play Pack | 304299 | [304299-apex-legends-playstation-plus-play-pack.json](./304299-apex-legends-playstation-plus-play-pack.json) |
 | Apex Legends: PlayStation Plus Play Pack | 316623 | [316623-apex-legends-playstation-plus-play-pack.json](./316623-apex-legends-playstation-plus-play-pack.json) |
 | Apex Legends: PlayStation Plus Play Pack | 325861 | [325861-apex-legends-playstation-plus-play-pack.json](./325861-apex-legends-playstation-plus-play-pack.json) |
 | Apex Legends: Prodigy | 342775 | [342775-apex-legends-prodigy.json](./342775-apex-legends-prodigy.json) |
@@ -5672,6 +5676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Excitebike | 68312 | [68312-arcade-archives-excitebike.json](./68312-arcade-archives-excitebike.json) |
 | Arcade Archives: Face Off | 320909 | [320909-arcade-archives-face-off.json](./320909-arcade-archives-face-off.json) |
 | Arcade Archives: Fantastic Night Dreams Cotton | 323842 | [323842-arcade-archives-fantastic-night-dreams-cotton.json](./323842-arcade-archives-fantastic-night-dreams-cotton.json) |
+| Arcade Archives: Fighter & Attacker | 304280 | [304280-arcade-archives-fighter-and-attacker.json](./304280-arcade-archives-fighter-and-attacker.json) |
 | Arcade Archives: Fighting Hawk | 200579 | [200579-arcade-archives-fighting-hawk.json](./200579-arcade-archives-fighting-hawk.json) |
 | Arcade Archives: Finalizer Super Transformation | 315828 | [315828-arcade-archives-finalizer-super-transformation.json](./315828-arcade-archives-finalizer-super-transformation.json) |
 | Arcade Archives: Flipull | 202800 | [202800-arcade-archives-flipull.json](./202800-arcade-archives-flipull.json) |
