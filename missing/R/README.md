@@ -1718,6 +1718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebuild: Gangs of Deadsville | 65024 | [65024-rebuild-gangs-of-deadsville.json](./65024-rebuild-gangs-of-deadsville.json) |
 | Rebuilding Civilization | 355227 | [355227-rebuilding-civilization.json](./355227-rebuilding-civilization.json) |
 | Rebungered!! That Time I Got Reincarnated As A Bunger! | 405474 | [405474-rebungered-that-time-i-got-reincarnated-as-a-bunger.json](./405474-rebungered-that-time-i-got-reincarnated-as-a-bunger.json) |
+| Reburning Meteorite | 320806 | [320806-reburning-meteorite.json](./320806-reburning-meteorite.json) |
 | Rebut! | 389003 | [389003-rebut.json](./389003-rebut.json) |
 | Rec | 322669 | [322669-rec.json](./322669-rec.json) |
 | Rec Room | 32617 | [32617-rec-room.json](./32617-rec-room.json) |
@@ -3422,6 +3423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ribbit Channel | 301895 | [301895-ribbit-channel.json](./301895-ribbit-channel.json) |
 | Ribbit Jump | 400368 | [400368-ribbit-jump.json](./400368-ribbit-jump.json) |
 | Ribbit Rampage | 305331 | [305331-ribbit-rampage.json](./305331-ribbit-rampage.json) |
+| Ribbit Rogue | 320841 | [320841-ribbit-rogue.json](./320841-ribbit-rogue.json) |
 | Ribbit Up: Frog Climber | 348989 | [348989-ribbit-up-frog-climber.json](./348989-ribbit-up-frog-climber.json) |
 | Ribbits | 341867 | [341867-ribbits.json](./341867-ribbits.json) |
 | Ribbits | 384081 | [384081-ribbits.json](./384081-ribbits.json) |
