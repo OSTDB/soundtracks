@@ -6512,6 +6512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confluence: An Of Sense and Soul Soliloquy | 338884 | [338884-confluence-an-of-sense-and-soul-soliloquy.json](./338884-confluence-an-of-sense-and-soul-soliloquy.json) |
 | Conflux | 320520 | [320520-conflux.json](./320520-conflux.json) |
 | Confrontation | 282719 | [282719-confrontation.json](./282719-confrontation.json) |
+| Confronted | 291708 | [291708-confronted.json](./291708-confronted.json) |
 | Confused? | 71490 | [71490-confused.json](./71490-confused.json) |
 | Confusing game | 148340 | [148340-confusing-game.json](./148340-confusing-game.json) |
 | Confusion Constructions | 279074 | [279074-confusion-constructions.json](./279074-confusion-constructions.json) |
@@ -8255,6 +8256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CreateTech | 127359 | [127359-createtech.json](./127359-createtech.json) |
 | Creatio Ex Nihilo II: Deus Otiosus | 81762 | [81762-creatio-ex-nihilo-ii-deus-otiosus.json](./81762-creatio-ex-nihilo-ii-deus-otiosus.json) |
 | Creation & Magic | 174663 | [174663-creation-and-magic.json](./174663-creation-and-magic.json) |
+| Creation of a God | 291701 | [291701-creation-of-a-god.json](./291701-creation-of-a-god.json) |
 | Creative Console | 211705 | [211705-creative-console.json](./211705-creative-console.json) |
 | Creative Kill Chamber | 235240 | [235240-creative-kill-chamber.json](./235240-creative-kill-chamber.json) |
 | Creative Kill Chamber 2 | 316092 | [316092-creative-kill-chamber-2.json](./316092-creative-kill-chamber-2.json) |
