@@ -1982,6 +1982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pelikeeper | 381193 | [381193-pelikeeper.json](./381193-pelikeeper.json) |
 | Pellet Packer: Cookie Crunch | 270965 | [270965-pellet-packer-cookie-crunch.json](./270965-pellet-packer-cookie-crunch.json) |
 | Pellet Packer: Micro Munch | 270956 | [270956-pellet-packer-micro-munch.json](./270956-pellet-packer-micro-munch.json) |
+| PelPet | 314979 | [314979-pelpet.json](./314979-pelpet.json) |
 | Pembrey | 63729 | [63729-pembrey.json](./63729-pembrey.json) |
 | Pemkie Island | 400478 | [400478-pemkie-island.json](./400478-pemkie-island.json) |
 | Pemsa | 153320 | [153320-pemsa.json](./153320-pemsa.json) |
@@ -3480,6 +3481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball M: System Shock Pinball | 287179 | [287179-pinball-m-system-shock-pinball.json](./287179-pinball-m-system-shock-pinball.json) |
 | Pinball M: The Thing Pinball | 278535 | [278535-pinball-m-the-thing-pinball.json](./278535-pinball-m-the-thing-pinball.json) |
 | Pinball Madness 2 | 71225 | [71225-pinball-madness-2.json](./71225-pinball-madness-2.json) |
+| Pinball Mania Plus | 314912 | [314912-pinball-mania-plus.json](./314912-pinball-mania-plus.json) |
 | Pinball Masters | 295324 | [295324-pinball-masters.json](./295324-pinball-masters.json) |
 | Pinball Paladins | 364703 | [364703-pinball-paladins.json](./364703-pinball-paladins.json) |
 | Pinball Parlor | 31684 | [31684-pinball-parlor.json](./31684-pinball-parlor.json) |
@@ -6619,6 +6621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerWash Simulator: Halloween Seasonal 2024 | 320757 | [320757-powerwash-simulator-halloween-seasonal-2024.json](./320757-powerwash-simulator-halloween-seasonal-2024.json) |
 | PowerWash Simulator: Muckingham Files - Part 5 | 340590 | [340590-powerwash-simulator-muckingham-files-part-5.json](./340590-powerwash-simulator-muckingham-files-part-5.json) |
 | PowerWash Simulator: Santa's Workshop - Winter 2023 | 280540 | [280540-powerwash-simulator-santas-workshop-winter-2023.json](./280540-powerwash-simulator-santas-workshop-winter-2023.json) |
+| PowerWash Simulator: Shrek Special Pack | 314930 | [314930-powerwash-simulator-shrek-special-pack.json](./314930-powerwash-simulator-shrek-special-pack.json) |
 | PowerWash Simulator: The Muckingham Files | 246901 | [246901-powerwash-simulator-the-muckingham-files.json](./246901-powerwash-simulator-the-muckingham-files.json) |
 | PowerWash Simulator: The Muckingham Files 2 | 264337 | [264337-powerwash-simulator-the-muckingham-files-2.json](./264337-powerwash-simulator-the-muckingham-files-2.json) |
 | PowerWash Simulator: Warhammer 40,000 Content Pack | 251220 | [251220-powerwash-simulator-warhammer-40-000-content-pack.json](./251220-powerwash-simulator-warhammer-40-000-content-pack.json) |
