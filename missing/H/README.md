@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Habanero-tan House | 279758 | [279758-habanero-tan-house.json](./279758-habanero-tan-house.json) |
 | Habblet | 274195 | [274195-habblet.json](./274195-habblet.json) |
 | Habbo | 27522 | [27522-habbo.json](./27522-habbo.json) |
+| Habbo Hotel: Origins | 306033 | [306033-habbo-hotel-origins.json](./306033-habbo-hotel-origins.json) |
 | Habilis | 313898 | [313898-habilis.json](./313898-habilis.json) |
 | Habitat | 10387 | [10387-habitat.json](./10387-habitat.json) |
 | Habitat | 181243 | [181243-habitat.json](./181243-habitat.json) |
