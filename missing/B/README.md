@@ -3982,6 +3982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BioGloom | 207835 | [207835-biogloom.json](./207835-biogloom.json) |
 | Biohazard | 178438 | [178438-biohazard.json](./178438-biohazard.json) |
 | Biohazard 0 | 307948 | [307948-biohazard-0.json](./307948-biohazard-0.json) |
+| Biohazard Anniversary Package | 287316 | [287316-biohazard-anniversary-package.json](./287316-biohazard-anniversary-package.json) |
 | Biohazard Code: Veronica - Limited Edition | 407337 | [407337-biohazard-code-veronica-limited-edition.json](./407337-biohazard-code-veronica-limited-edition.json) |
 | Biohazard Outbreak Survive | 356225 | [356225-biohazard-outbreak-survive.json](./356225-biohazard-outbreak-survive.json) |
 | Biohazard RE: 2 - Z Version | 218542 | [218542-biohazard-re-2-z-version.json](./218542-biohazard-re-2-z-version.json) |
@@ -8216,6 +8217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Budget Cuts 2: Mission Insolvency | 119340 | [119340-budget-cuts-2-mission-insolvency.json](./119340-budget-cuts-2-mission-insolvency.json) |
 | Budget Rate Stigmata | 362855 | [362855-budget-rate-stigmata.json](./362855-budget-rate-stigmata.json) |
 | Budget Renovation Simulator | 407482 | [407482-budget-renovation-simulator.json](./407482-budget-renovation-simulator.json) |
+| Budni | 287359 | [287359-budni.json](./287359-budni.json) |
 | Buenos Aires Mirror Line | 391162 | [391162-buenos-aires-mirror-line.json](./391162-buenos-aires-mirror-line.json) |
 | Buff Doge | 219066 | [219066-buff-doge.json](./219066-buff-doge.json) |
 | Buff Huckem Fully Wrecked | 270187 | [270187-buff-huckem-fully-wrecked.json](./270187-buff-huckem-fully-wrecked.json) |
