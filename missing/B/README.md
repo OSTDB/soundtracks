@@ -2801,6 +2801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bebylon Battle Royale | 56757 | [56757-bebylon-battle-royale.json](./56757-bebylon-battle-royale.json) |
 | Becalm | 113863 | [113863-becalm.json](./113863-becalm.json) |
 | Because It's a Dream, It Must Be Romance: Connecting Hearts Across Realities | 399613 | [399613-because-its-a-dream-it-must-be-romance-connecting-hearts-across-realities.json](./399613-because-its-a-dream-it-must-be-romance-connecting-hearts-across-realities.json) |
+| Because The World Died | 303707 | [303707-because-the-world-died.json](./303707-because-the-world-died.json) |
 | Because We're Here: Act I | 176797 | [176797-because-were-here-act-i.json](./176797-because-were-here-act-i.json) |
 | Becca | 265104 | [265104-becca.json](./265104-becca.json) |
 | Beckett | 89504 | [89504-beckett.json](./89504-beckett.json) |
@@ -3418,6 +3419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Protocol | 72646 | [72646-beyond-protocol.json](./72646-beyond-protocol.json) |
 | Beyond Reach | 316725 | [316725-beyond-reach.json](./316725-beyond-reach.json) |
 | Beyond Reality | 317339 | [317339-beyond-reality.json](./317339-beyond-reality.json) |
+| Beyond Reason | 303715 | [303715-beyond-reason.json](./303715-beyond-reason.json) |
 | Beyond Sandbox | 399220 | [399220-beyond-sandbox.json](./399220-beyond-sandbox.json) |
 | Beyond Senses | 124169 | [124169-beyond-senses.json](./124169-beyond-senses.json) |
 | Beyond Shattered Isles | 126545 | [126545-beyond-shattered-isles.json](./126545-beyond-shattered-isles.json) |
@@ -3425,6 +3427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond SMBWii | 336104 | [336104-beyond-smbwii.json](./336104-beyond-smbwii.json) |
 | Beyond Solar | 172135 | [172135-beyond-solar.json](./172135-beyond-solar.json) |
 | Beyond Space Remastered | 108616 | [108616-beyond-space-remastered.json](./108616-beyond-space-remastered.json) |
+| Beyond Tenmei | 303714 | [303714-beyond-tenmei.json](./303714-beyond-tenmei.json) |
 | Beyond the Abyss | 86126 | [86126-beyond-the-abyss.json](./86126-beyond-the-abyss.json) |
 | Beyond the Black Hole | 73792 | [73792-beyond-the-black-hole.json](./73792-beyond-the-black-hole.json) |
 | Beyond The Board | 289383 | [289383-beyond-the-board.json](./289383-beyond-the-board.json) |
@@ -8845,6 +8848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butt Naked & Big Guns | 158208 | [158208-butt-naked-and-big-guns.json](./158208-butt-naked-and-big-guns.json) |
 | Butt Sniffin Pugs | 25645 | [25645-butt-sniffin-pugs.json](./25645-butt-sniffin-pugs.json) |
 | Butter & Friends Babysitter Sim | 75148 | [75148-butter-and-friends-babysitter-sim.json](./75148-butter-and-friends-babysitter-sim.json) |
+| ButteredLilly's Random Quotes & Avatar Remote | 303716 | [303716-butteredlillys-random-quotes-and-avatar-remote.json](./303716-butteredlillys-random-quotes-and-avatar-remote.json) |
 | Butterflies Bundle | 164787 | [164787-butterflies-bundle.json](./164787-butterflies-bundle.json) |
 | Butterflies: Episode 1 - Rudies | 134666 | [134666-butterflies-episode-1-rudies.json](./134666-butterflies-episode-1-rudies.json) |
 | ButterFlight | 98934 | [98934-butterflight.json](./98934-butterflight.json) |
@@ -8949,6 +8953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Byte Fyte: Multiplayer | 226276 | [226276-byte-fyte-multiplayer.json](./226276-byte-fyte-multiplayer.json) |
 | Byte Lynx | 203889 | [203889-byte-lynx.json](./203889-byte-lynx.json) |
 | Byte Rider | 234011 | [234011-byte-rider.json](./234011-byte-rider.json) |
+| Byte Survivor | 303717 | [303717-byte-survivor.json](./303717-byte-survivor.json) |
 | Byte Wars | 360578 | [360578-byte-wars.json](./360578-byte-wars.json) |
 | Byter | 319575 | [319575-byter.json](./319575-byter.json) |
 | Bytes and Knights Adventure | 402433 | [402433-bytes-and-knights-adventure.json](./402433-bytes-and-knights-adventure.json) |
