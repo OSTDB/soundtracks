@@ -3821,6 +3821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Uprising | 215155 | [215155-mega-man-uprising.json](./215155-mega-man-uprising.json) |
 | Mega Man V SNES | 377762 | [377762-mega-man-v-snes.json](./377762-mega-man-v-snes.json) |
 | Mega Man VI SNES | 377751 | [377751-mega-man-vi-snes.json](./377751-mega-man-vi-snes.json) |
+| Mega Man World 2 GBC Edition | 306589 | [306589-mega-man-world-2-gbc-edition.json](./306589-mega-man-world-2-gbc-edition.json) |
 | Mega Man X Alpha | 222928 | [222928-mega-man-x-alpha.json](./222928-mega-man-x-alpha.json) |
 | Mega Man X Alpha Kaizo | 268419 | [268419-mega-man-x-alpha-kaizo.json](./268419-mega-man-x-alpha-kaizo.json) |
 | Mega Man X Collection | 4001 | [4001-mega-man-x-collection.json](./4001-mega-man-x-collection.json) |
@@ -8163,6 +8164,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MoonSpire | 336056 | [336056-moonspire.json](./336056-moonspire.json) |
 | Moonstone Island: Arcane Artifacts | 301852 | [301852-moonstone-island-arcane-artifacts.json](./301852-moonstone-island-arcane-artifacts.json) |
 | Moonstone Island: Autumnal Accessories DLC Pack | 317958 | [317958-moonstone-island-autumnal-accessories-dlc-pack.json](./317958-moonstone-island-autumnal-accessories-dlc-pack.json) |
+| Moonstone Island: Cozy Comforts DLC | 306555 | [306555-moonstone-island-cozy-comforts-dlc.json](./306555-moonstone-island-cozy-comforts-dlc.json) |
+| Moonstone Island: Decor Galor DLC Pack | 306556 | [306556-moonstone-island-decor-galor-dlc-pack.json](./306556-moonstone-island-decor-galor-dlc-pack.json) |
+| Moonstone Island: Decorator's Pass | 306557 | [306557-moonstone-island-decorators-pass.json](./306557-moonstone-island-decorators-pass.json) |
 | Moonstone Island: Deluxe Edition | 306524 | [306524-moonstone-island-deluxe-edition.json](./306524-moonstone-island-deluxe-edition.json) |
 | Moonstone Island: Designed for Lovers DLC Pack | 293412 | [293412-moonstone-island-designed-for-lovers-dlc-pack.json](./293412-moonstone-island-designed-for-lovers-dlc-pack.json) |
 | Moonstone Island: Pool Party DLC Pack | 322723 | [322723-moonstone-island-pool-party-dlc-pack.json](./322723-moonstone-island-pool-party-dlc-pack.json) |
