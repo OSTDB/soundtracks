@@ -1263,6 +1263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Junctions | 118352 | [118352-neon-junctions.json](./118352-neon-junctions.json) |
 | Neon Knights: Humanity Erased | 190484 | [190484-neon-knights-humanity-erased.json](./190484-neon-knights-humanity-erased.json) |
 | Neon Ladder | 311803 | [311803-neon-ladder.json](./311803-neon-ladder.json) |
+| Neon Life | 279859 | [279859-neon-life.json](./279859-neon-life.json) |
 | Neon Little Soul | 258562 | [258562-neon-little-soul.json](./258562-neon-little-soul.json) |
 | Neon Magic: Witch Shop | 245939 | [245939-neon-magic-witch-shop.json](./245939-neon-magic-witch-shop.json) |
 | Neon Man | 234611 | [234611-neon-man.json](./234611-neon-man.json) |
@@ -1539,6 +1540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeverEnd | 29873 | [29873-neverend.json](./29873-neverend.json) |
 | Neverending Check-in: The Hotel Stories | 253566 | [253566-neverending-check-in-the-hotel-stories.json](./253566-neverending-check-in-the-hotel-stories.json) |
 | NeverEnding Legacy | 96247 | [96247-neverending-legacy.json](./96247-neverending-legacy.json) |
+| Neverending Light | 279906 | [279906-neverending-light.json](./279906-neverending-light.json) |
 | NeverGoingHome | 298064 | [298064-nevergoinghome.json](./298064-nevergoinghome.json) |
 | NeverGone | 39003 | [39003-nevergone.json](./39003-nevergone.json) |
 | Nevergrind | 60487 | [60487-nevergrind.json](./60487-nevergrind.json) |
@@ -2682,6 +2684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja: Shadow of Darkness | 18941 | [18941-ninja-shadow-of-darkness.json](./18941-ninja-shadow-of-darkness.json) |
 | Ninja: Shadow of the Dash | 311627 | [311627-ninja-shadow-of-the-dash.json](./311627-ninja-shadow-of-the-dash.json) |
 | Ninja: ShadowBlade | 339903 | [339903-ninja-shadowblade.json](./339903-ninja-shadowblade.json) |
+| Ninja: The Lost Legacy | 279851 | [279851-ninja-the-lost-legacy.json](./279851-ninja-the-lost-legacy.json) |
 | Ninja? | 113900 | [113900-ninja.json](./113900-ninja.json) |
 | Ninja's Creed | 227473 | [227473-ninjas-creed.json](./227473-ninjas-creed.json) |
 | Ninjahtic | 34887 | [34887-ninjahtic.json](./34887-ninjahtic.json) |
