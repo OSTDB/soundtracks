@@ -5584,6 +5584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cologne | 33506 | [33506-cologne.json](./33506-cologne.json) |
 | Colonel Wasabi | 345577 | [345577-colonel-wasabi.json](./345577-colonel-wasabi.json) |
 | Colonia | 207511 | [207511-colonia.json](./207511-colonia.json) |
+| Colonial Combat | 332651 | [332651-colonial-combat.json](./332651-colonial-combat.json) |
 | Colonial Conquest | 97307 | [97307-colonial-conquest.json](./97307-colonial-conquest.json) |
 | Colonies | 118353 | [118353-colonies.json](./118353-colonies.json) |
 | Colonisator | 336634 | [336634-colonisator.json](./336634-colonisator.json) |
@@ -7113,6 +7114,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Express | 27328 | [27328-cosmic-express.json](./27328-cosmic-express.json) |
 | Cosmic Fantasy 2 | 42003 | [42003-cosmic-fantasy-2.json](./42003-cosmic-fantasy-2.json) |
 | Cosmic Fantasy 4: Ginga Shounen Densetsu - Totsunyuuhen: Densetsu he no Prelude | 92990 | [92990-cosmic-fantasy-4-ginga-shounen-densetsu-totsunyuuhen-densetsu-he-no-prelude.json](./92990-cosmic-fantasy-4-ginga-shounen-densetsu-totsunyuuhen-densetsu-he-no-prelude.json) |
+| Cosmic Fantasy 4: Prelude to Legend | 332501 | [332501-cosmic-fantasy-4-prelude-to-legend.json](./332501-cosmic-fantasy-4-prelude-to-legend.json) |
+| Cosmic Fantasy 4: Van's Return | 332502 | [332502-cosmic-fantasy-4-vans-return.json](./332502-cosmic-fantasy-4-vans-return.json) |
 | Cosmic Fantasy Collection | 269306 | [269306-cosmic-fantasy-collection.json](./269306-cosmic-fantasy-collection.json) |
 | Cosmic Fantasy: Bouken Shounen Yuu | 42005 | [42005-cosmic-fantasy-bouken-shounen-yuu.json](./42005-cosmic-fantasy-bouken-shounen-yuu.json) |
 | Cosmic Fear | 340029 | [340029-cosmic-fear.json](./340029-cosmic-fear.json) |
@@ -7797,6 +7800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crashy Cops! | 104642 | [104642-crashy-cops.json](./104642-crashy-cops.json) |
 | Crashy Laps | 244237 | [244237-crashy-laps.json](./244237-crashy-laps.json) |
 | Crashy Racing | 113157 | [113157-crashy-racing.json](./113157-crashy-racing.json) |
+| Crat Strat's Sonic 1 Hack | 332648 | [332648-crat-strats-sonic-1-hack.json](./332648-crat-strats-sonic-1-hack.json) |
 | Crate Escape | 269283 | [269283-crate-escape.json](./269283-crate-escape.json) |
 | Crate Expectations | 299446 | [299446-crate-expectations.json](./299446-crate-expectations.json) |
 | Crate Knight | 207532 | [207532-crate-knight.json](./207532-crate-knight.json) |
