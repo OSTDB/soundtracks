@@ -14672,6 +14672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trans-Galactic Tournament | 77963 | [77963-trans-galactic-tournament.json](./77963-trans-galactic-tournament.json) |
 | Trans-Siberian Legends: Beautiful Girls | 298088 | [298088-trans-siberian-legends-beautiful-girls.json](./298088-trans-siberian-legends-beautiful-girls.json) |
 | Trans-Siberian Legends: Ekaterinburg | 297725 | [297725-trans-siberian-legends-ekaterinburg.json](./297725-trans-siberian-legends-ekaterinburg.json) |
+| Trans-Siberian Legends: Novosibirsk | 291691 | [291691-trans-siberian-legends-novosibirsk.json](./291691-trans-siberian-legends-novosibirsk.json) |
 | Trans-Siberian Legends: Posters in a Train Compartment | 292645 | [292645-trans-siberian-legends-posters-in-a-train-compartment.json](./292645-trans-siberian-legends-posters-in-a-train-compartment.json) |
 | Trans-Siberian Railway Simulator | 114950 | [114950-trans-siberian-railway-simulator.json](./114950-trans-siberian-railway-simulator.json) |
 | Transarctica | 10857 | [10857-transarctica.json](./10857-transarctica.json) |
