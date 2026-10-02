@@ -3287,7 +3287,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonogram: Master's Legacy - The Greatest Pack | 161739 | [161739-nonogram-masters-legacy-the-greatest-pack.json](./161739-nonogram-masters-legacy-the-greatest-pack.json) |
 | Nonogram: Master's Legacy - The Speed Pack | 349415 | [349415-nonogram-masters-legacy-the-speed-pack.json](./349415-nonogram-masters-legacy-the-speed-pack.json) |
 | Nonograms | 233466 | [233466-nonograms.json](./233466-nonograms.json) |
+| Nonograms | 285701 | [285701-nonograms.json](./285701-nonograms.json) |
 | Nonograms: Ammunition | 297730 | [297730-nonograms-ammunition.json](./297730-nonograms-ammunition.json) |
+| Nonograms: Engineering | 285710 | [285710-nonograms-engineering.json](./285710-nonograms-engineering.json) |
+| Nonograms: Fishing | 285706 | [285706-nonograms-fishing.json](./285706-nonograms-fishing.json) |
+| Nonograms: Food | 285704 | [285704-nonograms-food.json](./285704-nonograms-food.json) |
+| Nonograms: Fruits | 285708 | [285708-nonograms-fruits.json](./285708-nonograms-fruits.json) |
+| Nonograms: Herbals | 285709 | [285709-nonograms-herbals.json](./285709-nonograms-herbals.json) |
+| Nonograms: Jewelry | 285705 | [285705-nonograms-jewelry.json](./285705-nonograms-jewelry.json) |
+| Nonograms: Pirates | 285703 | [285703-nonograms-pirates.json](./285703-nonograms-pirates.json) |
+| Nonograms: Vegetables | 285707 | [285707-nonograms-vegetables.json](./285707-nonograms-vegetables.json) |
+| Nonograms: Weapons | 285702 | [285702-nonograms-weapons.json](./285702-nonograms-weapons.json) |
 | Nonolith | 321176 | [321176-nonolith.json](./321176-nonolith.json) |
 | Nonomatic | 371453 | [371453-nonomatic.json](./371453-nonomatic.json) |
 | Nonononogram | 343313 | [343313-nonononogram.json](./343313-nonononogram.json) |
