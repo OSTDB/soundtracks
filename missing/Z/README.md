@@ -751,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Gunship Revenant AR | 87281 | [87281-zombie-gunship-revenant-ar.json](./87281-zombie-gunship-revenant-ar.json) |
 | Zombie Hamsters | 400376 | [400376-zombie-hamsters.json](./400376-zombie-hamsters.json) |
 | Zombie Harvest | 87158 | [87158-zombie-harvest.json](./87158-zombie-harvest.json) |
+| Zombie Harvest: Survival Farming Simulator | 308484 | [308484-zombie-harvest-survival-farming-simulator.json](./308484-zombie-harvest-survival-farming-simulator.json) |
 | Zombie Hazard | 166776 | [166776-zombie-hazard.json](./166776-zombie-hazard.json) |
 | Zombie Head | 104836 | [104836-zombie-head.json](./104836-zombie-head.json) |
 | Zombie Hell: Infected City | 216814 | [216814-zombie-hell-infected-city.json](./216814-zombie-hell-infected-city.json) |
