@@ -171,6 +171,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kajipeet | 316769 | [316769-kajipeet.json](./316769-kajipeet.json) |
 | Kajiri Kamui Kagura | 63822 | [63822-kajiri-kamui-kagura.json](./63822-kajiri-kamui-kagura.json) |
 | Kajko i Kokosz | 93588 | [93588-kajko-i-kokosz.json](./93588-kajko-i-kokosz.json) |
+| Kajko i Kokosz 2: Cucuny Lek | 293353 | [293353-kajko-i-kokosz-2-cucuny-lek.json](./293353-kajko-i-kokosz-2-cucuny-lek.json) |
+| Kajko i Kokosz: Mirmiłowo Wielkie | 293357 | [293357-kajko-i-kokosz-mirmi-owo-wielkie.json](./293357-kajko-i-kokosz-mirmi-owo-wielkie.json) |
+| Kajko i Kokosz: Szkoła Latania | 293355 | [293355-kajko-i-kokosz-szko-a-latania.json](./293355-kajko-i-kokosz-szko-a-latania.json) |
 | Kajko i Kokosz: Twierdza Czarnoksiężnika | 135172 | [135172-kajko-i-kokosz-twierdza-czarnoksieznika.json](./135172-kajko-i-kokosz-twierdza-czarnoksieznika.json) |
 | Kajko i Kokosz: W Krainie Borostworów | 93587 | [93587-kajko-i-kokosz-w-krainie-borostworow.json](./93587-kajko-i-kokosz-w-krainie-borostworow.json) |
 | Kajun's Lucid Room | 309566 | [309566-kajuns-lucid-room.json](./309566-kajuns-lucid-room.json) |
@@ -1263,6 +1266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill/Cure: Beautiful Vice | 307688 | [307688-kill-cure-beautiful-vice.json](./307688-kill-cure-beautiful-vice.json) |
 | Killa | 264603 | [264603-killa.json](./264603-killa.json) |
 | Killapede | 60247 | [60247-killapede.json](./60247-killapede.json) |
+| Killbeat | 293347 | [293347-killbeat.json](./293347-killbeat.json) |
 | Killbox | 304728 | [304728-killbox.json](./304728-killbox.json) |
 | Killcolor | 296925 | [296925-killcolor.json](./296925-killcolor.json) |
 | Killed by Love 99 Times | 368015 | [368015-killed-by-love-99-times.json](./368015-killed-by-love-99-times.json) |
