@@ -2271,6 +2271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Help Me! | 154003 | [154003-help-me.json](./154003-help-me.json) |
 | Help Newton | 197228 | [197228-help-newton.json](./197228-help-newton.json) |
 | Help Police: Pull the Pins | 290461 | [290461-help-police-pull-the-pins.json](./290461-help-police-pull-the-pins.json) |
+| Help the Cats | 290657 | [290657-help-the-cats.json](./290657-help-the-cats.json) |
 | Help the Cats to Go Home ! - Use the Cats Food to Help Them ! | 197680 | [197680-help-the-cats-to-go-home-use-the-cats-food-to-help-them.json](./197680-help-the-cats-to-go-home-use-the-cats-food-to-help-them.json) |
 | Help Will Come Tomorrow | 121989 | [121989-help-will-come-tomorrow.json](./121989-help-will-come-tomorrow.json) |
 | Help Yourself | 153993 | [153993-help-yourself.json](./153993-help-yourself.json) |
@@ -4995,6 +4996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Night with Tung Tung Tung Sahur | 351096 | [351096-horror-night-with-tung-tung-tung-sahur.json](./351096-horror-night-with-tung-tung-tung-sahur.json) |
 | Horror Night: Spooky Night Vol. 1 | 221735 | [221735-horror-night-spooky-night-vol-1.json](./221735-horror-night-spooky-night-vol-1.json) |
 | Horror Night: The Slenderman Takings | 236824 | [236824-horror-night-the-slenderman-takings.json](./236824-horror-night-the-slenderman-takings.json) |
+| Horror Nightmare Collection | 290626 | [290626-horror-nightmare-collection.json](./290626-horror-nightmare-collection.json) |
 | Horror of the Deep | 30127 | [30127-horror-of-the-deep.json](./30127-horror-of-the-deep.json) |
 | Horror Office | 319232 | [319232-horror-office.json](./319232-horror-office.json) |
 | Horror Park of Willie Mouse | 326694 | [326694-horror-park-of-willie-mouse.json](./326694-horror-park-of-willie-mouse.json) |
@@ -5483,6 +5485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoverforce | 80643 | [80643-hoverforce.json](./80643-hoverforce.json) |
 | HoverGrease 2 | 330535 | [330535-hovergrease-2.json](./330535-hovergrease-2.json) |
 | Hoverise Rebellion | 204412 | [204412-hoverise-rebellion.json](./204412-hoverise-rebellion.json) |
+| Hoverkitty In The Hoververse: Chapter Three | 290638 | [290638-hoverkitty-in-the-hoververse-chapter-three.json](./290638-hoverkitty-in-the-hoververse-chapter-three.json) |
 | HoverRace | 84292 | [84292-hoverrace.json](./84292-hoverrace.json) |
 | HoverRider | 201002 | [201002-hoverrider.json](./201002-hoverrider.json) |
 | Hovershift | 117695 | [117695-hovershift.json](./117695-hovershift.json) |
