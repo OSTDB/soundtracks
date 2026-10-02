@@ -3894,6 +3894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bindmancer | 254006 | [254006-bindmancer.json](./254006-bindmancer.json) |
 | Bing Bong Blippo | 274436 | [274436-bing-bong-blippo.json](./274436-bing-bong-blippo.json) |
 | Bing Chilling | 371333 | [371333-bing-chilling.json](./371333-bing-chilling.json) |
+| Bing In Wonderland: Deluxe Edition | 291676 | [291676-bing-in-wonderland-deluxe-edition.json](./291676-bing-in-wonderland-deluxe-edition.json) |
 | Bing in Wonderland: Wings & Weapon Looks - Azure Dragon | 325436 | [325436-bing-in-wonderland-wings-and-weapon-looks-azure-dragon.json](./325436-bing-in-wonderland-wings-and-weapon-looks-azure-dragon.json) |
 | Bing in Wonderland: Wings & Weapon Looks - Black Tortoise | 325440 | [325440-bing-in-wonderland-wings-and-weapon-looks-black-tortoise.json](./325440-bing-in-wonderland-wings-and-weapon-looks-black-tortoise.json) |
 | Bing in Wonderland: Wings & Weapon Looks - Dragon Slayer | 325437 | [325437-bing-in-wonderland-wings-and-weapon-looks-dragon-slayer.json](./325437-bing-in-wonderland-wings-and-weapon-looks-dragon-slayer.json) |
@@ -6670,6 +6671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Botolo | 26572 | [26572-botolo.json](./26572-botolo.json) |
 | Bots | 58817 | [58817-bots.json](./58817-bots.json) |
 | Bots & Belts | 139484 | [139484-bots-and-belts.json](./139484-bots-and-belts.json) |
+| Bots & Mods | 291725 | [291725-bots-and-mods.json](./291725-bots-and-mods.json) |
 | Bots Can Feel Too | 200045 | [200045-bots-can-feel-too.json](./200045-bots-can-feel-too.json) |
 | Bots Crusher Arena | 203895 | [203895-bots-crusher-arena.json](./203895-bots-crusher-arena.json) |
 | Bots n' Bugs | 183979 | [183979-bots-n-bugs.json](./183979-bots-n-bugs.json) |
