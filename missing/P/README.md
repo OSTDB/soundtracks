@@ -1066,6 +1066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paramedium 2: Girl in the Road | 82484 | [82484-paramedium-2-girl-in-the-road.json](./82484-paramedium-2-girl-in-the-road.json) |
 | Paramedium: 2 | 179750 | [179750-paramedium-2.json](./179750-paramedium-2.json) |
 | Paramedium: A Noise in the Attic | 82485 | [82485-paramedium-a-noise-in-the-attic.json](./82485-paramedium-a-noise-in-the-attic.json) |
+| Paramelancholia | 332654 | [332654-paramelancholia.json](./332654-paramelancholia.json) |
 | Paramnesia: Escape Together | 244489 | [244489-paramnesia-escape-together.json](./244489-paramnesia-escape-together.json) |
 | Paranatural | 310763 | [310763-paranatural.json](./310763-paranatural.json) |
 | Paranoia | 107149 | [107149-paranoia.json](./107149-paranoia.json) |
@@ -4540,6 +4541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plant Firefighter Simulator 2014 | 88286 | [88286-plant-firefighter-simulator-2014.json](./88286-plant-firefighter-simulator-2014.json) |
 | Plant Gallery: A Short Botanic Experience | 267437 | [267437-plant-gallery-a-short-botanic-experience.json](./267437-plant-gallery-a-short-botanic-experience.json) |
 | Plant Game | 405518 | [405518-plant-game.json](./405518-plant-game.json) |
+| Plant Nursery Simulator | 332575 | [332575-plant-nursery-simulator.json](./332575-plant-nursery-simulator.json) |
 | Plant Pong Deluxe | 350001 | [350001-plant-pong-deluxe.json](./350001-plant-pong-deluxe.json) |
 | Plant Tales | 358462 | [358462-plant-tales.json](./358462-plant-tales.json) |
 | Plant Therapy: Coney Island Plus | 337834 | [337834-plant-therapy-coney-island-plus.json](./337834-plant-therapy-coney-island-plus.json) |
