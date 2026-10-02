@@ -5444,6 +5444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodbath Kavkaz | 26897 | [26897-bloodbath-kavkaz.json](./26897-bloodbath-kavkaz.json) |
 | Bloodbaths Terrible Vacation | 274748 | [274748-bloodbaths-terrible-vacation.json](./274748-bloodbaths-terrible-vacation.json) |
 | BloodBlast VR | 134648 | [134648-bloodblast-vr.json](./134648-bloodblast-vr.json) |
+| BloodBoarderz | 307867 | [307867-bloodboarderz.json](./307867-bloodboarderz.json) |
 | Bloodborne PSX | 179685 | [179685-bloodborne-psx.json](./179685-bloodborne-psx.json) |
 | Bloodborne: Collector's Edition | 44542 | [44542-bloodborne-collectors-edition.json](./44542-bloodborne-collectors-edition.json) |
 | Bloodborne: Limited Hunter Edition | 166180 | [166180-bloodborne-limited-hunter-edition.json](./166180-bloodborne-limited-hunter-edition.json) |
@@ -8079,6 +8080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buccaneer Blitz | 335990 | [335990-buccaneer-blitz.json](./335990-buccaneer-blitz.json) |
 | Buccaneer's Bounty | 69825 | [69825-buccaneers-bounty.json](./69825-buccaneers-bounty.json) |
 | Buccaneers Shipshape | 203899 | [203899-buccaneers-shipshape.json](./203899-buccaneers-shipshape.json) |
+| Buciyo 5 | 307829 | [307829-buciyo-5.json](./307829-buciyo-5.json) |
 | Buck | 33521 | [33521-buck.json](./33521-buck.json) |
 | Buck and the Coin of Destiny | 315070 | [315070-buck-and-the-coin-of-destiny.json](./315070-buck-and-the-coin-of-destiny.json) |
 | Buck and the Cursed Cartridge | 376636 | [376636-buck-and-the-cursed-cartridge.json](./376636-buck-and-the-cursed-cartridge.json) |
