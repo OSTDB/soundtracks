@@ -435,6 +435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yorisoi Delivery | 308924 | [308924-yorisoi-delivery.json](./308924-yorisoi-delivery.json) |
 | Yorkshire's Great Race | 237962 | [237962-yorkshires-great-race.json](./237962-yorkshires-great-race.json) |
 | Yoru no Majin to Ikusa no Kuni: Samayoeru Vampire | 222335 | [222335-yoru-no-majin-to-ikusa-no-kuni-samayoeru-vampire.json](./222335-yoru-no-majin-to-ikusa-no-kuni-samayoeru-vampire.json) |
+| Yoru no Rojiura Annai | 327921 | [327921-yoru-no-rojiura-annai.json](./327921-yoru-no-rojiura-annai.json) |
 | Yorumorukimiri | 147336 | [147336-yorumorukimiri.json](./147336-yorumorukimiri.json) |
 | Yorumorukimiri: Shippo-tachi no Kizuna | 147337 | [147337-yorumorukimiri-shippo-tachi-no-kizuna.json](./147337-yorumorukimiri-shippo-tachi-no-kizuna.json) |
 | Yorvik's Game | 374610 | [374610-yorviks-game.json](./374610-yorviks-game.json) |
