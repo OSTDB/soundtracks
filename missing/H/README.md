@@ -2720,6 +2720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heritage | 376042 | [376042-heritage.json](./376042-heritage.json) |
 | Heritage Hills | 156666 | [156666-heritage-hills.json](./156666-heritage-hills.json) |
 | Heritage: A Dragon's Tale | 250043 | [250043-heritage-a-dragons-tale.json](./250043-heritage-a-dragons-tale.json) |
+| Herkules | 318489 | [318489-herkules.json](./318489-herkules.json) |
 | Herman 2 | 117803 | [117803-herman-2.json](./117803-herman-2.json) |
 | Herman and the Falling Rocks | 63925 | [63925-herman-and-the-falling-rocks.json](./63925-herman-and-the-falling-rocks.json) |
 | Herman Electro | 137471 | [137471-herman-electro.json](./137471-herman-electro.json) |
