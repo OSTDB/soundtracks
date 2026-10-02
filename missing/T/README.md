@@ -4968,6 +4968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ghost of Us | 313880 | [313880-the-ghost-of-us.json](./313880-the-ghost-of-us.json) |
 | The Ghost Ship | 111662 | [111662-the-ghost-ship.json](./111662-the-ghost-ship.json) |
 | The Ghost Town Adventure | 108284 | [108284-the-ghost-town-adventure.json](./108284-the-ghost-town-adventure.json) |
+| The Ghost X: Sniper Simulator - Arsenal Expansion | 304814 | [304814-the-ghost-x-sniper-simulator-arsenal-expansion.json](./304814-the-ghost-x-sniper-simulator-arsenal-expansion.json) |
 | The Ghosts of Hackney Mills | 74985 | [74985-the-ghosts-of-hackney-mills.json](./74985-the-ghosts-of-hackney-mills.json) |
 | The Ghosts of Terinor | 266762 | [266762-the-ghosts-of-terinor.json](./266762-the-ghosts-of-terinor.json) |
 | The Ghosts Race | 214186 | [214186-the-ghosts-race.json](./214186-the-ghosts-race.json) |
