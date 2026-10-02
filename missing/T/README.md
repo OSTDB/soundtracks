@@ -12433,6 +12433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb of the Dead | 219684 | [219684-tomb-of-the-dead.json](./219684-tomb-of-the-dead.json) |
 | Tomb of the Endless | 323806 | [323806-tomb-of-the-endless.json](./323806-tomb-of-the-endless.json) |
 | Tomb of the Golden Relic | 411082 | [411082-tomb-of-the-golden-relic.json](./411082-tomb-of-the-golden-relic.json) |
+| Tomb of Thunder | 302617 | [302617-tomb-of-thunder.json](./302617-tomb-of-thunder.json) |
 | Tomb of Trials | 180270 | [180270-tomb-of-trials.json](./180270-tomb-of-trials.json) |
 | Tomb Offering | 340944 | [340944-tomb-offering.json](./340944-tomb-offering.json) |
 | Tomb Raider 1+2+3 | 154439 | [154439-tomb-raider-1-2-3.json](./154439-tomb-raider-1-2-3.json) |
