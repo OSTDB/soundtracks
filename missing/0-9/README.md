@@ -387,6 +387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Airborne: The Airborne Invasion of Normandy | 582 | [582-101-airborne-the-airborne-invasion-of-normandy.json](./582-101-airborne-the-airborne-invasion-of-normandy.json) |
 | 101 Card & Board Games | 228408 | [228408-101-card-and-board-games.json](./228408-101-card-and-board-games.json) |
 | 101 Cats in Australia | 320313 | [320313-101-cats-in-australia.json](./320313-101-cats-in-australia.json) |
+| 101 Cats in Brazil | 312656 | [312656-101-cats-in-brazil.json](./312656-101-cats-in-brazil.json) |
 | 101 Cats in Chennai | 365159 | [365159-101-cats-in-chennai.json](./365159-101-cats-in-chennai.json) |
 | 101 Cats in Hanoi | 400875 | [400875-101-cats-in-hanoi.json](./400875-101-cats-in-hanoi.json) |
 | 101 Cats in Hungary | 385292 | [385292-101-cats-in-hungary.json](./385292-101-cats-in-hungary.json) |
