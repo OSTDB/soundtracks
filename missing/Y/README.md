@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yāo Dāo Zhuàn | 373695 | [373695-yao-dao-zhuan.json](./373695-yao-dao-zhuan.json) |
 | Yāo Xiān Dòngfǔ | 373706 | [373706-yao-xian-dongfu.json](./373706-yao-xian-dongfu.json) |
 | Yāoliàn Xīyóu | 373711 | [373711-yaolian-xiyou.json](./373711-yaolian-xiyou.json) |
+| Yaoling: Mythical Journey | 304279 | [304279-yaoling-mythical-journey.json](./304279-yaoling-mythical-journey.json) |
 | Yaoyoro Zoo | 356299 | [356299-yaoyoro-zoo.json](./356299-yaoyoro-zoo.json) |
 | Yap Wizards Tower Defence | 367502 | [367502-yap-wizards-tower-defence.json](./367502-yap-wizards-tower-defence.json) |
 | Yappy Bird | 412508 | [412508-yappy-bird.json](./412508-yappy-bird.json) |
