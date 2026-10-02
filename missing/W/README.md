@@ -1163,6 +1163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watching Delusion | 105386 | [105386-watching-delusion.json](./105386-watching-delusion.json) |
 | Watching Grass Grow In VR - The Game | 32226 | [32226-watching-grass-grow-in-vr-the-game.json](./32226-watching-grass-grow-in-vr-the-game.json) |
 | Watching Paint Dry: The Game | 341067 | [341067-watching-paint-dry-the-game.json](./341067-watching-paint-dry-the-game.json) |
+| Watching Paint Dry: Too | 303708 | [303708-watching-paint-dry-too.json](./303708-watching-paint-dry-too.json) |
 | Watchlist | 44169 | [44169-watchlist.json](./44169-watchlist.json) |
 | Watchmaker's World Solitaire | 386135 | [386135-watchmakers-world-solitaire.json](./386135-watchmakers-world-solitaire.json) |
 | Watchman Golf Digipro | 215252 | [215252-watchman-golf-digipro.json](./215252-watchman-golf-digipro.json) |
@@ -2023,6 +2024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where are My Potatoes? | 207798 | [207798-where-are-my-potatoes.json](./207798-where-are-my-potatoes.json) |
 | Where Are the Fish? | 399168 | [399168-where-are-the-fish.json](./399168-where-are-the-fish.json) |
 | Where Are They? | 300688 | [300688-where-are-they.json](./300688-where-are-they.json) |
+| Where Are We? | 303713 | [303713-where-are-we.json](./303713-where-are-we.json) |
 | Where Are You, Diamond | 334185 | [334185-where-are-you-diamond.json](./334185-where-are-you-diamond.json) |
 | Where are You? | 292067 | [292067-where-are-you.json](./292067-where-are-you.json) |
 | Where Birds Sleep | 136451 | [136451-where-birds-sleep.json](./136451-where-birds-sleep.json) |
