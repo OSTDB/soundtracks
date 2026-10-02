@@ -3438,6 +3438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medabots: Metabee | 7583 | [7583-medabots-metabee.json](./7583-medabots-metabee.json) |
 | Medal Bound | 245327 | [245327-medal-bound.json](./245327-medal-bound.json) |
 | Medal Masters | 110299 | [110299-medal-masters.json](./110299-medal-masters.json) |
+| Medal Network Rockman.EXE | 313751 | [313751-medal-network-rockman-exe.json](./313751-medal-network-rockman-exe.json) |
 | Medal of Honor | 1307 | [1307-medal-of-honor.json](./1307-medal-of-honor.json) |
 | Medal of Honor : Warfighter - Limited Edition | 47411 | [47411-medal-of-honor-warfighter-limited-edition.json](./47411-medal-of-honor-warfighter-limited-edition.json) |
 | Medal of Honor: 10th Anniversary Edition | 45980 | [45980-medal-of-honor-10th-anniversary-edition.json](./45980-medal-of-honor-10th-anniversary-edition.json) |
@@ -8493,6 +8494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Most Authentic Trench Warfare Simulator | 241511 | [241511-most-authentic-trench-warfare-simulator.json](./241511-most-authentic-trench-warfare-simulator.json) |
 | Most Correct Football Simulator | 118338 | [118338-most-correct-football-simulator.json](./118338-most-correct-football-simulator.json) |
 | Most Scuffed Golf | 409632 | [409632-most-scuffed-golf.json](./409632-most-scuffed-golf.json) |
+| Most Wanted | 313777 | [313777-most-wanted.json](./313777-most-wanted.json) |
 | Mostly Delivered | 407382 | [407382-mostly-delivered.json](./407382-mostly-delivered.json) |
 | Mostly Scared of Spiders | 115683 | [115683-mostly-scared-of-spiders.json](./115683-mostly-scared-of-spiders.json) |
 | Mot's 8-Ball Pool | 374166 | [374166-mots-8-ball-pool.json](./374166-mots-8-ball-pool.json) |
