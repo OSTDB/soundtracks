@@ -532,6 +532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naughty Young Wife | 97937 | [97937-naughty-young-wife.json](./97937-naughty-young-wife.json) |
 | Nauka Prediel | 202401 | [202401-nauka-prediel.json](./202401-nauka-prediel.json) |
 | Nautical Life | 95190 | [95190-nautical-life.json](./95190-nautical-life.json) |
+| Nautical Survival | 295505 | [295505-nautical-survival.json](./295505-nautical-survival.json) |
 | Nauticell | 324516 | [324516-nauticell.json](./324516-nauticell.json) |
 | Nautikin Adventures | 329372 | [329372-nautikin-adventures.json](./329372-nautikin-adventures.json) |
 | Nautilus | 24937 | [24937-nautilus.json](./24937-nautilus.json) |
@@ -1971,6 +1972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nia: Jewel Hunter | 358299 | [358299-nia-jewel-hunter.json](./358299-nia-jewel-hunter.json) |
 | Niaki | 262065 | [262065-niaki.json](./262065-niaki.json) |
 | Nib, the Pen is Mightier AS a Sword | 141011 | [141011-nib-the-pen-is-mightier-as-a-sword.json](./141011-nib-the-pen-is-mightier-as-a-sword.json) |
+| Nibansen Plus | 295470 | [295470-nibansen-plus.json](./295470-nibansen-plus.json) |
 | Nibble Quest | 410235 | [410235-nibble-quest.json](./410235-nibble-quest.json) |
 | Nibeos | 303489 | [303489-nibeos.json](./303489-nibeos.json) |
 | Nibiru | 205071 | [205071-nibiru.json](./205071-nibiru.json) |
@@ -2954,6 +2956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Recollection: Swimsuit DLC! | 315486 | [315486-no-recollection-swimsuit-dlc.json](./315486-no-recollection-swimsuit-dlc.json) |
 | No Register | 405713 | [405713-no-register.json](./405713-no-register.json) |
 | No Reloading: Survival Trials | 194954 | [194954-no-reloading-survival-trials.json](./194954-no-reloading-survival-trials.json) |
+| No Report | 295503 | [295503-no-report.json](./295503-no-report.json) |
 | No Rest | 302688 | [302688-no-rest.json](./302688-no-rest.json) |
 | No Rest for the Living | 313179 | [313179-no-rest-for-the-living.json](./313179-no-rest-for-the-living.json) |
 | No Rest for the Weary | 334198 | [334198-no-rest-for-the-weary.json](./334198-no-rest-for-the-weary.json) |
