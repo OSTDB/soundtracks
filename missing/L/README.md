@@ -2411,6 +2411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light2Live | 153860 | [153860-light2live.json](./153860-light2live.json) |
 | Lightballs | 245833 | [245833-lightballs.json](./245833-lightballs.json) |
 | LightBear | 268994 | [268994-lightbear.json](./268994-lightbear.json) |
+| LightBear: Grizzelda Returns | 289008 | [289008-lightbear-grizzelda-returns.json](./289008-lightbear-grizzelda-returns.json) |
 | Lightbender | 329105 | [329105-lightbender.json](./329105-lightbender.json) |
 | LightBike 2 | 234015 | [234015-lightbike-2.json](./234015-lightbike-2.json) |
 | Lightbot: Programming Puzzles | 88528 | [88528-lightbot-programming-puzzles.json](./88528-lightbot-programming-puzzles.json) |
