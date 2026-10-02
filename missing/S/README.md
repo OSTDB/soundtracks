@@ -11333,6 +11333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprint Journey | 217809 | [217809-sprint-journey.json](./217809-sprint-journey.json) |
 | Sprint Master | 18423 | [18423-sprint-master.json](./18423-sprint-master.json) |
 | Sprint Star: A Running Manager | 310100 | [310100-sprint-star-a-running-manager.json](./310100-sprint-star-a-running-manager.json) |
+| SprintLine | 287909 | [287909-sprintline.json](./287909-sprintline.json) |
 | Sprite Fantasia | 174861 | [174861-sprite-fantasia.json](./174861-sprite-fantasia.json) |
 | Sprite Sequence Volume 1 | 180129 | [180129-sprite-sequence-volume-1.json](./180129-sprite-sequence-volume-1.json) |
 | Sprite Sequence: Chapter 1 - The Creation | 154425 | [154425-sprite-sequence-chapter-1-the-creation.json](./154425-sprite-sequence-chapter-1-the-creation.json) |
@@ -14181,6 +14182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strong Bad's RhinoFeeder | 135851 | [135851-strong-bads-rhinofeeder.json](./135851-strong-bads-rhinofeeder.json) |
 | Strong Buy Strong Sell | 324994 | [324994-strong-buy-strong-sell.json](./324994-strong-buy-strong-sell.json) |
 | Strong Crab | 384541 | [384541-strong-crab.json](./384541-strong-crab.json) |
+| Strong Fortress | 287908 | [287908-strong-fortress.json](./287908-strong-fortress.json) |
 | Strong Moon | 208452 | [208452-strong-moon.json](./208452-strong-moon.json) |
 | Strong: Search for the Mightiest Person | 246975 | [246975-strong-search-for-the-mightiest-person.json](./246975-strong-search-for-the-mightiest-person.json) |
 | StrongBadZone | 135863 | [135863-strongbadzone.json](./135863-strongbadzone.json) |
@@ -14708,6 +14710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suika Dish More Plates | 276166 | [276166-suika-dish-more-plates.json](./276166-suika-dish-more-plates.json) |
 | Suika Game | 221740 | [221740-suika-game.json](./221740-suika-game.json) |
 | Suika Game Planet | 366891 | [366891-suika-game-planet.json](./366891-suika-game-planet.json) |
+| Suika Game: Multi-Player Mode Expansion Pack | 287855 | [287855-suika-game-multi-player-mode-expansion-pack.json](./287855-suika-game-multi-player-mode-expansion-pack.json) |
 | Suika Jelly Game | 310174 | [310174-suika-jelly-game.json](./310174-suika-jelly-game.json) |
 | Suika Monsters | 387352 | [387352-suika-monsters.json](./387352-suika-monsters.json) |
 | Suika Pets | 290549 | [290549-suika-pets.json](./290549-suika-pets.json) |
