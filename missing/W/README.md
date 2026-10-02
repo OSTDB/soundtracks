@@ -379,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanted Shadows | 267679 | [267679-wanted-shadows.json](./267679-wanted-shadows.json) |
 | Wanted Shadows: Unchained | 373076 | [373076-wanted-shadows-unchained.json](./373076-wanted-shadows-unchained.json) |
 | Wanted: Dead - Collector's Edition | 228736 | [228736-wanted-dead-collectors-edition.json](./228736-wanted-dead-collectors-edition.json) |
+| Wanted: Dead or Alive | 333770 | [333770-wanted-dead-or-alive.json](./333770-wanted-dead-or-alive.json) |
 | Wanted: Romance Renegades | 238415 | [238415-wanted-romance-renegades.json](./238415-wanted-romance-renegades.json) |
 | Wanted: Yokai Uprising | 309889 | [309889-wanted-yokai-uprising.json](./309889-wanted-yokai-uprising.json) |
 | Wanting Shock | 361675 | [361675-wanting-shock.json](./361675-wanting-shock.json) |
@@ -2709,6 +2710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wind Fantasy Double Cross | 408793 | [408793-wind-fantasy-double-cross.json](./408793-wind-fantasy-double-cross.json) |
 | Wind Fantasy II: Alive | 350516 | [350516-wind-fantasy-ii-alive.json](./350516-wind-fantasy-ii-alive.json) |
 | Wind Force | 116984 | [116984-wind-force.json](./116984-wind-force.json) |
+| Wind Giants | 334353 | [334353-wind-giants.json](./334353-wind-giants.json) |
 | Wind Horizon | 57027 | [57027-wind-horizon.json](./57027-wind-horizon.json) |
 | Wind Love | 259589 | [259589-wind-love.json](./259589-wind-love.json) |
 | Wind Peaks 2 | 236284 | [236284-wind-peaks-2.json](./236284-wind-peaks-2.json) |
