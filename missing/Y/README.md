@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Y.M.C.A. | 333632 | [333632-y-m-c-a.json](./333632-y-m-c-a.json) |
 | Y2K: The Game | 84208 | [84208-y2k-the-game.json](./84208-y2k-the-game.json) |
 | Y2Kthulhu | 185072 | [185072-y2kthulhu.json](./185072-y2kthulhu.json) |
+| Y2Roll | 329783 | [329783-y2roll.json](./329783-y2roll.json) |
 | Ya Gotta, Piñata! | 58513 | [58513-ya-gotta-pinata.json](./58513-ya-gotta-pinata.json) |
 | Yaad | 289879 | [289879-yaad.json](./289879-yaad.json) |
 | Yabai Girls: Fairy Love | 395213 | [395213-yabai-girls-fairy-love.json](./395213-yabai-girls-fairy-love.json) |
