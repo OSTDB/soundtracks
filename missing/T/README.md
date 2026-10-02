@@ -361,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tails to the Rescue | 330308 | [330308-tails-to-the-rescue.json](./330308-tails-to-the-rescue.json) |
 | Tails: The Game | 330706 | [330706-tails-the-game.json](./330706-tails-the-game.json) |
 | Tails' Adventures 2 | 336355 | [336355-tails-adventures-2.json](./336355-tails-adventures-2.json) |
+| Tails' High Flying Adventure | 331391 | [331391-tails-high-flying-adventure.json](./331391-tails-high-flying-adventure.json) |
 | Tails' Nightmare 2 | 307584 | [307584-tails-nightmare-2.json](./307584-tails-nightmare-2.json) |
 | TailScape: The corgi’s Advendture | 325836 | [325836-tailscape-the-corgi-s-advendture.json](./325836-tailscape-the-corgi-s-advendture.json) |
 | Tailside: Cozy Cafe Sim | 296995 | [296995-tailside-cozy-cafe-sim.json](./296995-tailside-cozy-cafe-sim.json) |
@@ -1382,6 +1383,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tatsunoko vs. Capcom: Cross Generation of Heroes | 341102 | [341102-tatsunoko-vs-capcom-cross-generation-of-heroes.json](./341102-tatsunoko-vs-capcom-cross-generation-of-heroes.json) |
 | Tatsunoko vs. Capcom: Cross Generation of Heroes | 50726 | [50726-tatsunoko-vs-capcom-cross-generation-of-heroes.json](./50726-tatsunoko-vs-capcom-cross-generation-of-heroes.json) |
 | Tattered Sails | 298164 | [298164-tattered-sails.json](./298164-tattered-sails.json) |
+| Tattoo Artist 2: Full Timer | 331457 | [331457-tattoo-artist-2-full-timer.json](./331457-tattoo-artist-2-full-timer.json) |
+| Tattoo Artist 3: On The Job | 331459 | [331459-tattoo-artist-3-on-the-job.json](./331459-tattoo-artist-3-on-the-job.json) |
 | Tattoo Assassins | 39563 | [39563-tattoo-assassins.json](./39563-tattoo-assassins.json) |
 | Tattoo Design Studio: Fun Game | 89156 | [89156-tattoo-design-studio-fun-game.json](./89156-tattoo-design-studio-fun-game.json) |
 | Tattoo Mania | 77239 | [77239-tattoo-mania.json](./77239-tattoo-mania.json) |
@@ -2981,6 +2984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Astonishing Game | 29687 | [29687-the-astonishing-game.json](./29687-the-astonishing-game.json) |
 | The Astra Protocol | 409714 | [409714-the-astra-protocol.json](./409714-the-astra-protocol.json) |
 | The Astronomy Game | 156144 | [156144-the-astronomy-game.json](./156144-the-astronomy-game.json) |
+| The Asylum Closed Ward | 331523 | [331523-the-asylum-closed-ward.json](./331523-the-asylum-closed-ward.json) |
 | The Asylum: Psychiatric Clinic for Abused Cuddly Toys | 66153 | [66153-the-asylum-psychiatric-clinic-for-abused-cuddly-toys.json](./66153-the-asylum-psychiatric-clinic-for-abused-cuddly-toys.json) |
 | The Atlas Mystery: PC Edition | 336567 | [336567-the-atlas-mystery-pc-edition.json](./336567-the-atlas-mystery-pc-edition.json) |
 | The Atlas: Renaissance Voyager | 38315 | [38315-the-atlas-renaissance-voyager.json](./38315-the-atlas-renaissance-voyager.json) |
@@ -4993,6 +4997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grand Way | 104462 | [104462-the-grand-way.json](./104462-the-grand-way.json) |
 | The Grandfather | 342792 | [342792-the-grandfather.json](./342792-the-grandfather.json) |
 | The Grandma from Coco in Sonic 1 | 325693 | [325693-the-grandma-from-coco-in-sonic-1.json](./325693-the-grandma-from-coco-in-sonic-1.json) |
+| The Grappler | 331394 | [331394-the-grappler.json](./331394-the-grappler.json) |
 | The Grass | 163955 | [163955-the-grass.json](./163955-the-grass.json) |
 | The Grass Reaper | 363897 | [363897-the-grass-reaper.json](./363897-the-grass-reaper.json) |
 | The Grave Digger | 35847 | [35847-the-grave-digger.json](./35847-the-grave-digger.json) |
