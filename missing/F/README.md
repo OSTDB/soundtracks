@@ -3640,6 +3640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flesh Everest | 207356 | [207356-flesh-everest.json](./207356-flesh-everest.json) |
 | Flesh Made Fear: Summer in Rotwood | 375804 | [375804-flesh-made-fear-summer-in-rotwood.json](./375804-flesh-made-fear-summer-in-rotwood.json) |
 | Flesharmonic | 271178 | [271178-flesharmonic.json](./271178-flesharmonic.json) |
+| FleshBound | 327453 | [327453-fleshbound.json](./327453-fleshbound.json) |
 | FleshBound | 397043 | [397043-fleshbound.json](./397043-fleshbound.json) |
 | Fleshcancer | 395805 | [395805-fleshcancer.json](./395805-fleshcancer.json) |
 | Fleshgrinder | 415905 | [415905-fleshgrinder.json](./415905-fleshgrinder.json) |
