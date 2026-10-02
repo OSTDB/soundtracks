@@ -360,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanji Boy 2 | 228574 | [228574-kanji-boy-2.json](./228574-kanji-boy-2.json) |
 | Kanji de Go Go! | 408220 | [408220-kanji-de-go-go.json](./408220-kanji-de-go-go.json) |
 | Kanji de Go! | 323962 | [323962-kanji-de-go.json](./323962-kanji-de-go.json) |
+| Kanji de Go! Shueisha Manga-sai | 329228 | [329228-kanji-de-go-shueisha-manga-sai.json](./329228-kanji-de-go-shueisha-manga-sai.json) |
 | Kanji Kitchen: Learn Japanese | 266760 | [266760-kanji-kitchen-learn-japanese.json](./266760-kanji-kitchen-learn-japanese.json) |
 | Kanji no Owari! | 56450 | [56450-kanji-no-owari.json](./56450-kanji-no-owari.json) |
 | Kanji Searcher | 151710 | [151710-kanji-searcher.json](./151710-kanji-searcher.json) |
@@ -661,6 +662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawanakajima Ibunroku | 255106 | [255106-kawanakajima-ibunroku.json](./255106-kawanakajima-ibunroku.json) |
 | Kawasaki Jet Ski Watercraft | 78659 | [78659-kawasaki-jet-ski-watercraft.json](./78659-kawasaki-jet-ski-watercraft.json) |
 | Kawkab ELashkef | 401494 | [401494-kawkab-elashkef.json](./401494-kawkab-elashkef.json) |
+| Kaxuki: Hope for Peace | 329044 | [329044-kaxuki-hope-for-peace.json](./329044-kaxuki-hope-for-peace.json) |
 | Kay's Destiny | 242516 | [242516-kays-destiny.json](./242516-kays-destiny.json) |
 | Kaya Joshi: Magical Detective | 172011 | [172011-kaya-joshi-magical-detective.json](./172011-kaya-joshi-magical-detective.json) |
 | Kaya The Dog | 381595 | [381595-kaya-the-dog.json](./381595-kaya-the-dog.json) |
