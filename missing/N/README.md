@@ -868,6 +868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Drifting | 249229 | [249229-need-for-drifting.json](./249229-need-for-drifting.json) |
 | Need for Drive: Car Racing | 251047 | [251047-need-for-drive-car-racing.json](./251047-need-for-drive-car-racing.json) |
 | Need for Drive: Open World Multiplayer Racing | 163830 | [163830-need-for-drive-open-world-multiplayer-racing.json](./163830-need-for-drive-open-world-multiplayer-racing.json) |
+| Need for Kill | 333213 | [333213-need-for-kill.json](./333213-need-for-kill.json) |
 | Need For Madness 2 | 63232 | [63232-need-for-madness-2.json](./63232-need-for-madness-2.json) |
 | Need For Scream | 345550 | [345550-need-for-scream.json](./345550-need-for-scream.json) |
 | Need For Seed: Undergrowth | 185512 | [185512-need-for-seed-undergrowth.json](./185512-need-for-seed-undergrowth.json) |
@@ -2757,6 +2758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitro: Stream Racing | 231860 | [231860-nitro-stream-racing.json](./231860-nitro-stream-racing.json) |
 | Nitrokill | 390817 | [390817-nitrokill.json](./390817-nitrokill.json) |
 | Nitrome Must Die | 141775 | [141775-nitrome-must-die.json](./141775-nitrome-must-die.json) |
+| Nitronauts | 333144 | [333144-nitronauts.json](./333144-nitronauts.json) |
 | Nitroplus Blasterz: Heroines Infinite Duel - Limited Edition | 167134 | [167134-nitroplus-blasterz-heroines-infinite-duel-limited-edition.json](./167134-nitroplus-blasterz-heroines-infinite-duel-limited-edition.json) |
 | Nitrous Fury | 385085 | [385085-nitrous-fury.json](./385085-nitrous-fury.json) |
 | Nitto 1320 Legends | 79962 | [79962-nitto-1320-legends.json](./79962-nitto-1320-legends.json) |
