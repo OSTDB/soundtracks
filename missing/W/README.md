@@ -4305,6 +4305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms | 9331 | [9331-worms.json](./9331-worms.json) |
 | Worms | 9332 | [9332-worms.json](./9332-worms.json) |
 | Worms Armageddon | 409027 | [409027-worms-armageddon.json](./409027-worms-armageddon.json) |
+| Worms Armageddon: Anniversary Edition | 314938 | [314938-worms-armageddon-anniversary-edition.json](./314938-worms-armageddon-anniversary-edition.json) |
 | Worms Crazy Golf | 15070 | [15070-worms-crazy-golf.json](./15070-worms-crazy-golf.json) |
 | Worms Forts 3D | 218730 | [218730-worms-forts-3d.json](./218730-worms-forts-3d.json) |
 | Worms Pinball | 409028 | [409028-worms-pinball.json](./409028-worms-pinball.json) |
@@ -4417,6 +4418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wreckdigger | 188922 | [188922-wreckdigger.json](./188922-wreckdigger.json) |
 | Wrecked | 391312 | [391312-wrecked.json](./391312-wrecked.json) |
 | Wrecked Crash Simulator | 114965 | [114965-wrecked-crash-simulator.json](./114965-wrecked-crash-simulator.json) |
+| Wrecked Shot | 314970 | [314970-wrecked-shot.json](./314970-wrecked-shot.json) |
 | Wrecked: A Psychedelic Adventure | 265952 | [265952-wrecked-a-psychedelic-adventure.json](./265952-wrecked-a-psychedelic-adventure.json) |
 | Wrecked: Get Your Ship Together | 28805 | [28805-wrecked-get-your-ship-together.json](./28805-wrecked-get-your-ship-together.json) |
 | Wrecked: Revenge Revisited | 9863 | [9863-wrecked-revenge-revisited.json](./9863-wrecked-revenge-revisited.json) |
