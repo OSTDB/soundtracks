@@ -2038,6 +2038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Push the Button | 224117 | [224117-just-push-the-button.json](./224117-just-push-the-button.json) |
 | Just Puzzles: Water | 417715 | [417715-just-puzzles-water.json](./417715-just-puzzles-water.json) |
 | Just Random Squares | 120394 | [120394-just-random-squares.json](./120394-just-random-squares.json) |
+| Just Roll | 285689 | [285689-just-roll.json](./285689-just-roll.json) |
 | Just Roll With It | 112763 | [112763-just-roll-with-it.json](./112763-just-roll-with-it.json) |
 | Just Run! | 102141 | [102141-just-run.json](./102141-just-run.json) |
 | Just Shapes & Beats | 31194 | [31194-just-shapes-and-beats.json](./31194-just-shapes-and-beats.json) |
