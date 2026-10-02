@@ -59,6 +59,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wag | 312562 | [312562-wag.json](./312562-wag.json) |
 | Wag Royale | 124613 | [124613-wag-royale.json](./124613-wag-royale.json) |
 | Waga Seishun no Arcadia | 385731 | [385731-waga-seishun-no-arcadia.json](./385731-waga-seishun-no-arcadia.json) |
+| Wagamama Fairy: Mirumo de Pon! DokiDoki Memorial Panic | 284596 | [284596-wagamama-fairy-mirumo-de-pon-dokidoki-memorial-panic.json](./284596-wagamama-fairy-mirumo-de-pon-dokidoki-memorial-panic.json) |
+| Wagamama Fairy: Mirumo de Pon! Hachinin no Toki no Yousei | 284597 | [284597-wagamama-fairy-mirumo-de-pon-hachinin-no-toki-no-yousei.json](./284597-wagamama-fairy-mirumo-de-pon-hachinin-no-toki-no-yousei.json) |
+| Wagamama Fairy: Mirumo de Pon! Nazo no Kagi to Shinjitsu no Tobira | 284606 | [284606-wagamama-fairy-mirumo-de-pon-nazo-no-kagi-to-shinjitsu-no-tobira.json](./284606-wagamama-fairy-mirumo-de-pon-nazo-no-kagi-to-shinjitsu-no-tobira.json) |
+| Wagamama Fairy: Mirumo de Pon! Ougon Maracas no Densetsu | 284598 | [284598-wagamama-fairy-mirumo-de-pon-ougon-maracas-no-densetsu.json](./284598-wagamama-fairy-mirumo-de-pon-ougon-maracas-no-densetsu.json) |
 | Wagee | 402519 | [402519-wagee.json](./402519-wagee.json) |
 | Wages of War: The Business of Battle | 70982 | [70982-wages-of-war-the-business-of-battle.json](./70982-wages-of-war-the-business-of-battle.json) |
 | Wageslave | 397239 | [397239-wageslave.json](./397239-wageslave.json) |
@@ -1134,6 +1138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasteland Orchard | 387646 | [387646-wasteland-orchard.json](./387646-wasteland-orchard.json) |
 | Wasteland Rangers | 338392 | [338392-wasteland-rangers.json](./338392-wasteland-rangers.json) |
 | Wasteland Story | 249179 | [249179-wasteland-story.json](./249179-wasteland-story.json) |
+| Wasteland Survival | 284617 | [284617-wasteland-survival.json](./284617-wasteland-survival.json) |
 | Wasteland Travelers | 356730 | [356730-wasteland-travelers.json](./356730-wasteland-travelers.json) |
 | Wasteland Warden | 190434 | [190434-wasteland-warden.json](./190434-wasteland-warden.json) |
 | Wastelander | 178100 | [178100-wastelander.json](./178100-wastelander.json) |
@@ -1204,6 +1209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Delivery | 318626 | [318626-water-delivery.json](./318626-water-delivery.json) |
 | Water Density | 76530 | [76530-water-density.json](./76530-water-density.json) |
 | Water Drift | 153381 | [153381-water-drift.json](./153381-water-drift.json) |
+| Water Flow | 284576 | [284576-water-flow.json](./284576-water-flow.json) |
 | Water Horse | 363987 | [363987-water-horse.json](./363987-water-horse.json) |
 | Water Level / B.l.u.e. Exploration | 320938 | [320938-water-level-b-l-u-e-exploration.json](./320938-water-level-b-l-u-e-exploration.json) |
 | Water Me & You | 260169 | [260169-water-me-and-you.json](./260169-water-me-and-you.json) |
@@ -2900,6 +2906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings of Bluestar | 27941 | [27941-wings-of-bluestar.json](./27941-wings-of-bluestar.json) |
 | Wings of Destiny | 15484 | [15484-wings-of-destiny.json](./15484-wings-of-destiny.json) |
 | Wings of Duty | 174771 | [174771-wings-of-duty.json](./174771-wings-of-duty.json) |
+| Wings of Endless | 284586 | [284586-wings-of-endless.json](./284586-wings-of-endless.json) |
 | Wings of Glory | 212247 | [212247-wings-of-glory.json](./212247-wings-of-glory.json) |
 | Wings of Honour: Battles of the Red Baron | 21341 | [21341-wings-of-honour-battles-of-the-red-baron.json](./21341-wings-of-honour-battles-of-the-red-baron.json) |
 | Wings of Horus | 415980 | [415980-wings-of-horus.json](./415980-wings-of-horus.json) |
@@ -4589,6 +4596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wu Xing Chess | 364591 | [364591-wu-xing-chess.json](./364591-wu-xing-chess.json) |
 | Wub-Wub Wescue | 330162 | [330162-wub-wub-wescue.json](./330162-wub-wub-wescue.json) |
 | Wubbo: PuterPal | 390687 | [390687-wubbo-puterpal.json](./390687-wubbo-puterpal.json) |
+| Wudao | 284604 | [284604-wudao.json](./284604-wudao.json) |
 | Wufo | 228074 | [228074-wufo.json](./228074-wufo.json) |
 | Wuhu Island Explorer | 313184 | [313184-wuhu-island-explorer.json](./313184-wuhu-island-explorer.json) |
 | WuJiDaoRen | 216816 | [216816-wujidaoren.json](./216816-wujidaoren.json) |
