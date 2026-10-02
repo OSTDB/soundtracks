@@ -1481,12 +1481,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: F/A-18C - Aggressors BFM Campaign | 169958 | [169958-dcs-world-f-a-18c-aggressors-bfm-campaign.json](./169958-dcs-world-f-a-18c-aggressors-bfm-campaign.json) |
 | DCS World: F/A-18C Inherent Resolve Campaign by Looking Glass | 325248 | [325248-dcs-world-f-a-18c-inherent-resolve-campaign-by-looking-glass.json](./325248-dcs-world-f-a-18c-inherent-resolve-campaign-by-looking-glass.json) |
 | DCS World: F/A-18C Rise of the Persian Lion Campaign | 162862 | [162862-dcs-world-f-a-18c-rise-of-the-persian-lion-campaign.json](./162862-dcs-world-f-a-18c-rise-of-the-persian-lion-campaign.json) |
+| DCS World: F/A-18C Rise of the Persian Lion II Campaign by Badger 633 | 325538 | [325538-dcs-world-f-a-18c-rise-of-the-persian-lion-ii-campaign-by-badger-633.json](./325538-dcs-world-f-a-18c-rise-of-the-persian-lion-ii-campaign-by-badger-633.json) |
 | DCS World: F/A-18C: The Rampagers Campaign by Baltic Dragon | 408215 | [408215-dcs-world-f-a-18c-the-rampagers-campaign-by-baltic-dragon.json](./408215-dcs-world-f-a-18c-the-rampagers-campaign-by-baltic-dragon.json) |
 | DCS World: F4U-1D Corsair | 381269 | [381269-dcs-world-f4u-1d-corsair.json](./381269-dcs-world-f4u-1d-corsair.json) |
 | DCS World: Hawk | 162864 | [162864-dcs-world-hawk.json](./162864-dcs-world-hawk.json) |
 | DCS World: Iraq Map | 325571 | [325571-dcs-world-iraq-map.json](./325571-dcs-world-iraq-map.json) |
 | DCS World: Iraq North Map | 325572 | [325572-dcs-world-iraq-north-map.json](./325572-dcs-world-iraq-north-map.json) |
 | DCS World: Kola Map by Orbx | 310021 | [310021-dcs-world-kola-map-by-orbx.json](./310021-dcs-world-kola-map-by-orbx.json) |
+| DCS World: MAD AH-64D Campaign by Stone Sky | 325533 | [325533-dcs-world-mad-ah-64d-campaign-by-stone-sky.json](./325533-dcs-world-mad-ah-64d-campaign-by-stone-sky.json) |
+| DCS World: MAD JF-17 Thunder Campaign by Stone Sky | 325540 | [325540-dcs-world-mad-jf-17-thunder-campaign-by-stone-sky.json](./325540-dcs-world-mad-jf-17-thunder-campaign-by-stone-sky.json) |
 | DCS World: Marianas | 162859 | [162859-dcs-world-marianas.json](./162859-dcs-world-marianas.json) |
 | DCS World: Marianas WWII Map | 408127 | [408127-dcs-world-marianas-wwii-map.json](./408127-dcs-world-marianas-wwii-map.json) |
 | DCS World: MiG-29 | 162861 | [162861-dcs-world-mig-29.json](./162861-dcs-world-mig-29.json) |
@@ -1494,6 +1497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: Mosquito FB VI Freeman's Folly Campaign by SUNTS Simulations | 408214 | [408214-dcs-world-mosquito-fb-vi-freemans-folly-campaign-by-sunts-simulations.json](./408214-dcs-world-mosquito-fb-vi-freemans-folly-campaign-by-sunts-simulations.json) |
 | DCS World: Normandy 2.0 | 323965 | [323965-dcs-world-normandy-2-0.json](./323965-dcs-world-normandy-2-0.json) |
 | DCS World: OH-58D Kiowa Warrior | 304372 | [304372-dcs-world-oh-58d-kiowa-warrior.json](./304372-dcs-world-oh-58d-kiowa-warrior.json) |
+| DCS World: Spitfire Beware! Beware! Campaign by Reflected Simulations | 325541 | [325541-dcs-world-spitfire-beware-beware-campaign-by-reflected-simulations.json](./325541-dcs-world-spitfire-beware-beware-campaign-by-reflected-simulations.json) |
 | DCS World: Su-25 | 162865 | [162865-dcs-world-su-25.json](./162865-dcs-world-su-25.json) |
 | DCS World: Su-27 | 162867 | [162867-dcs-world-su-27.json](./162867-dcs-world-su-27.json) |
 | DCS World: Su-33 | 162866 | [162866-dcs-world-su-33.json](./162866-dcs-world-su-33.json) |
@@ -3937,6 +3941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Skee-Ball | 209611 | [209611-diamond-skee-ball.json](./209611-diamond-skee-ball.json) |
 | Diamond Star Adventure | 378294 | [378294-diamond-star-adventure.json](./378294-diamond-star-adventure.json) |
 | Diamond Trust of London | 9138 | [9138-diamond-trust-of-london.json](./9138-diamond-trust-of-london.json) |
+| Diamond Word | 325524 | [325524-diamond-word.json](./325524-diamond-word.json) |
 | Diamonds | 119547 | [119547-diamonds.json](./119547-diamonds.json) |
 | Diamonds on the forest | 227831 | [227831-diamonds-on-the-forest.json](./227831-diamonds-on-the-forest.json) |
 | Diǎnchū Gè Sānguó | 413033 | [413033-dianchu-ge-sanguo.json](./413033-dianchu-ge-sanguo.json) |
