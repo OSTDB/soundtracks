@@ -1073,6 +1073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoomerang | 64949 | [64949-zoomerang.json](./64949-zoomerang.json) |
 | Zoomers Versus Boomers | 347802 | [347802-zoomers-versus-boomers.json](./347802-zoomers-versus-boomers.json) |
 | ZoomnBoom | 107876 | [107876-zoomnboom.json](./107876-zoomnboom.json) |
+| ZooMumba | 304277 | [304277-zoomumba.json](./304277-zoomumba.json) |
 | Zooo | 265196 | [265196-zooo.json](./265196-zooo.json) |
 | Zoop | 20615 | [20615-zoop.json](./20615-zoop.json) |
 | Zoop | 301393 | [301393-zoop.json](./301393-zoop.json) |
