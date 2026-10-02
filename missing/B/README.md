@@ -1019,6 +1019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banjo-Kazooie New Horizons | 135260 | [135260-banjo-kazooie-new-horizons.json](./135260-banjo-kazooie-new-horizons.json) |
 | Banjo-Kazooie Online | 206127 | [206127-banjo-kazooie-online.json](./206127-banjo-kazooie-online.json) |
 | Banjo-Kazooie Returns | 313332 | [313332-banjo-kazooie-returns.json](./313332-banjo-kazooie-returns.json) |
+| Banjo-Kazooie Santa's Village | 300252 | [300252-banjo-kazooie-santas-village.json](./300252-banjo-kazooie-santas-village.json) |
 | Banjo-Kazooie Worlds Collide | 135259 | [135259-banjo-kazooie-worlds-collide.json](./135259-banjo-kazooie-worlds-collide.json) |
 | Banjo-Kazooie: Bob-omb Battlefield | 201770 | [201770-banjo-kazooie-bob-omb-battlefield.json](./201770-banjo-kazooie-bob-omb-battlefield.json) |
 | Banjo-Kazooie: Donkey Kong Country | 201772 | [201772-banjo-kazooie-donkey-kong-country.json](./201772-banjo-kazooie-donkey-kong-country.json) |
@@ -1027,6 +1028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banjo-Kazooie: Nostalgia 64 | 154990 | [154990-banjo-kazooie-nostalgia-64.json](./154990-banjo-kazooie-nostalgia-64.json) |
 | Banjo-Pilot | 6316 | [6316-banjo-pilot.json](./6316-banjo-pilot.json) |
 | Banjo-Threeie | 200644 | [200644-banjo-threeie.json](./200644-banjo-threeie.json) |
+| Banjo-Threeie | 300262 | [300262-banjo-threeie.json](./300262-banjo-threeie.json) |
 | Banjo-Tooie | 201645 | [201645-banjo-tooie.json](./201645-banjo-tooie.json) |
 | Banjo-Tooie | 3418 | [3418-banjo-tooie.json](./3418-banjo-tooie.json) |
 | Banjo: Recompiled - Banjo-Dreamie | 392996 | [392996-banjo-recompiled-banjo-dreamie.json](./392996-banjo-recompiled-banjo-dreamie.json) |
