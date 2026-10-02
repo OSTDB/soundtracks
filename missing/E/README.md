@@ -2814,6 +2814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ETC: Earthquake Test Centre 2 | 221662 | [221662-etc-earthquake-test-centre-2.json](./221662-etc-earthquake-test-centre-2.json) |
 | Etch a Sketch | 51398 | [51398-etch-a-sketch.json](./51398-etch-a-sketch.json) |
 | Etched Memories | 382765 | [382765-etched-memories.json](./382765-etched-memories.json) |
+| ETea | 319066 | [319066-etea.json](./319066-etea.json) |
 | Eterium | 17102 | [17102-eterium.json](./17102-eterium.json) |
 | Eternal | 303056 | [303056-eternal.json](./303056-eternal.json) |
 | Eternal Affairs | 347767 | [347767-eternal-affairs.json](./347767-eternal-affairs.json) |
