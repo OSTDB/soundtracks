@@ -742,6 +742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egglings | 361848 | [361848-egglings.json](./361848-egglings.json) |
 | Eggman | 309664 | [309664-eggman.json](./309664-eggman.json) |
 | Eggman no Kazuate Panic! | 261249 | [261249-eggman-no-kazuate-panic.json](./261249-eggman-no-kazuate-panic.json) |
+| Eggman Strikes | 330956 | [330956-eggman-strikes.json](./330956-eggman-strikes.json) |
 | Eggo | 358469 | [358469-eggo.json](./358469-eggo.json) |
 | Eggomania | 22765 | [22765-eggomania.json](./22765-eggomania.json) |
 | Eggoria | 118367 | [118367-eggoria.json](./118367-eggoria.json) |
@@ -1377,6 +1378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emerald City Confidential | 16072 | [16072-emerald-city-confidential.json](./16072-emerald-city-confidential.json) |
 | Emerald Dreams: Sanity - Platformer Quest | 349372 | [349372-emerald-dreams-sanity-platformer-quest.json](./349372-emerald-dreams-sanity-platformer-quest.json) |
 | Emerald Gallery: 2-Score | 384160 | [384160-emerald-gallery-2-score.json](./384160-emerald-gallery-2-score.json) |
+| Emerald Hunter | 330961 | [330961-emerald-hunter.json](./330961-emerald-hunter.json) |
 | Emerald Isle | 13635 | [13635-emerald-isle.json](./13635-emerald-isle.json) |
 | Emerald Isle | 318995 | [318995-emerald-isle.json](./318995-emerald-isle.json) |
 | Emerald Mine | 37100 | [37100-emerald-mine.json](./37100-emerald-mine.json) |
@@ -2960,6 +2962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eulogy for Nonno | 374813 | [374813-eulogy-for-nonno.json](./374813-eulogy-for-nonno.json) |
 | EunHye DS | 217839 | [217839-eunhye-ds.json](./217839-eunhye-ds.json) |
 | Euotopia | 261901 | [261901-euotopia.json](./261901-euotopia.json) |
+| Euphionia: The Tree Spirit's Curse | 330965 | [330965-euphionia-the-tree-spirits-curse.json](./330965-euphionia-the-tree-spirits-curse.json) |
 | Euphoria Games Bundle | 302513 | [302513-euphoria-games-bundle.json](./302513-euphoria-games-bundle.json) |
 | Euphoria: Supreme Mechanics VR | 377048 | [377048-euphoria-supreme-mechanics-vr.json](./377048-euphoria-supreme-mechanics-vr.json) |
 | Euplectella | 339100 | [339100-euplectella.json](./339100-euplectella.json) |
@@ -3460,6 +3463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ex Sanguis | 346768 | [346768-ex-sanguis.json](./346768-ex-sanguis.json) |
 | Ex Shooter: Triple Bundle Pack | 218467 | [218467-ex-shooter-triple-bundle-pack.json](./218467-ex-shooter-triple-bundle-pack.json) |
 | Ex Vitro | 255789 | [255789-ex-vitro.json](./255789-ex-vitro.json) |
+| EX-802 | 330942 | [330942-ex-802.json](./330942-ex-802.json) |
 | Ex-Fraktion | 181370 | [181370-ex-fraktion.json](./181370-ex-fraktion.json) |
 | EX-Xdriver | 272339 | [272339-ex-xdriver.json](./272339-ex-xdriver.json) |
 | Ex/l | 376446 | [376446-ex-l.json](./376446-ex-l.json) |
