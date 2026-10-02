@@ -2075,6 +2075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Search & Find: Hidden Objects | 264637 | [264637-search-and-find-hidden-objects.json](./264637-search-and-find-hidden-objects.json) |
 | Search & Rescue 4: Coastal Heroes | 50114 | [50114-search-and-rescue-4-coastal-heroes.json](./50114-search-and-rescue-4-coastal-heroes.json) |
 | Search 4 Bigfoot | 213460 | [213460-search-4-bigfoot.json](./213460-search-4-bigfoot.json) |
+| Search All: Aliens | 294970 | [294970-search-all-aliens.json](./294970-search-all-aliens.json) |
 | Search All: Balls | 291475 | [291475-search-all-balls.json](./291475-search-all-balls.json) |
 | Search All: Berries | 192377 | [192377-search-all-berries.json](./192377-search-all-berries.json) |
 | Search All: Bones | 387338 | [387338-search-all-bones.json](./387338-search-all-bones.json) |
@@ -2092,6 +2093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Search All: Veggies | 306025 | [306025-search-all-veggies.json](./306025-search-all-veggies.json) |
 | Search All: Worms | 231334 | [231334-search-all-worms.json](./231334-search-all-worms.json) |
 | Search and Rescue 3 | 206641 | [206641-search-and-rescue-3.json](./206641-search-and-rescue-3.json) |
+| Search and Rescue: Dogs | 294959 | [294959-search-and-rescue-dogs.json](./294959-search-and-rescue-dogs.json) |
 | Search and Rescue: Snowman From Outer Space | 301271 | [301271-search-and-rescue-snowman-from-outer-space.json](./301271-search-and-rescue-snowman-from-outer-space.json) |
 | Search and Rescue: Yosemite | 259063 | [259063-search-and-rescue-yosemite.json](./259063-search-and-rescue-yosemite.json) |
 | Search Dungeon Master | 313254 | [313254-search-dungeon-master.json](./313254-search-dungeon-master.json) |
@@ -3174,6 +3176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexual Summer | 226182 | [226182-sexual-summer.json](./226182-sexual-summer.json) |
 | Sexuality with Girlfriends: Laler & Reese | 375977 | [375977-sexuality-with-girlfriends-laler-and-reese.json](./375977-sexuality-with-girlfriends-laler-and-reese.json) |
 | SexWife: No Limit | 259854 | [259854-sexwife-no-limit.json](./259854-sexwife-no-limit.json) |
+| Sexy Apocalypse Girls | 294966 | [294966-sexy-apocalypse-girls.json](./294966-sexy-apocalypse-girls.json) |
 | Sexy Beach | 22419 | [22419-sexy-beach.json](./22419-sexy-beach.json) |
 | Sexy Beach 2 | 22421 | [22421-sexy-beach-2.json](./22421-sexy-beach-2.json) |
 | Sexy Beach 3 | 22422 | [22422-sexy-beach-3.json](./22422-sexy-beach-3.json) |
@@ -5678,6 +5681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sins Of Kaleido | 276733 | [276733-sins-of-kaleido.json](./276733-sins-of-kaleido.json) |
 | Sins of Sinister: The Viscera-Eater | 403645 | [403645-sins-of-sinister-the-viscera-eater.json](./403645-sins-of-sinister-the-viscera-eater.json) |
 | Sins of the Demon RPG | 33004 | [33004-sins-of-the-demon-rpg.json](./33004-sins-of-the-demon-rpg.json) |
+| Sins OV Cigar | 294944 | [294944-sins-ov-cigar.json](./294944-sins-ov-cigar.json) |
 | Sinsations | 182269 | [182269-sinsations.json](./182269-sinsations.json) |
 | Sinsations 2: Modern Gods | 332432 | [332432-sinsations-2-modern-gods.json](./332432-sinsations-2-modern-gods.json) |
 | SinsFromGod | 139422 | [139422-sinsfromgod.json](./139422-sinsfromgod.json) |
@@ -6999,6 +7003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Balls | 275898 | [275898-smash-balls.json](./275898-smash-balls.json) |
 | Smash Balls 2 | 395770 | [395770-smash-balls-2.json](./395770-smash-balls-2.json) |
 | Smash Bandits Racing | 174727 | [174727-smash-bandits-racing.json](./174727-smash-bandits-racing.json) |
+| Smash Bear | 294939 | [294939-smash-bear.json](./294939-smash-bear.json) |
 | Smash Bowling 3D | 84881 | [84881-smash-bowling-3d.json](./84881-smash-bowling-3d.json) |
 | Smash Boy Ver.KZ | 106547 | [106547-smash-boy-ver-kz.json](./106547-smash-boy-ver-kz.json) |
 | Smash Bros. Rumble | 210677 | [210677-smash-bros-rumble.json](./210677-smash-bros-rumble.json) |
@@ -13643,6 +13648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Tales of Tei-Shan | 301262 | [301262-strange-tales-of-tei-shan.json](./301262-strange-tales-of-tei-shan.json) |
 | Strange Terror from Beyond the Stars! | 133303 | [133303-strange-terror-from-beyond-the-stars.json](./133303-strange-terror-from-beyond-the-stars.json) |
 | Strange Things | 75775 | [75775-strange-things.json](./75775-strange-things.json) |
+| Strange Toilet | 294975 | [294975-strange-toilet.json](./294975-strange-toilet.json) |
 | Strange Winds | 383637 | [383637-strange-winds.json](./383637-strange-winds.json) |
 | Strange Zoo | 415139 | [415139-strange-zoo.json](./415139-strange-zoo.json) |
 | Strangeland | 103219 | [103219-strangeland.json](./103219-strangeland.json) |
@@ -14926,6 +14932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunlit's Star Fox Minihack | 233606 | [233606-sunlits-star-fox-minihack.json](./233606-sunlits-star-fox-minihack.json) |
 | Sunman | 48651 | [48651-sunman.json](./48651-sunman.json) |
 | Sunny Beach | 189205 | [189205-sunny-beach.json](./189205-sunny-beach.json) |
+| Sunny Beach Girls | 294973 | [294973-sunny-beach-girls.json](./294973-sunny-beach-girls.json) |
 | Sunny Cafe | 154353 | [154353-sunny-cafe.json](./154353-sunny-cafe.json) |
 | Sunny Fairy | 151678 | [151678-sunny-fairy.json](./151678-sunny-fairy.json) |
 | Sunny Love | 367618 | [367618-sunny-love.json](./367618-sunny-love.json) |
@@ -17054,6 +17061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor: Stay in the Light | 232980 | [232980-survivor-stay-in-the-light.json](./232980-survivor-stay-in-the-light.json) |
 | Survivor! | 221149 | [221149-survivor.json](./221149-survivor.json) |
 | Survivor's Dawn | 319940 | [319940-survivors-dawn.json](./319940-survivors-dawn.json) |
+| Survivor's Day | 294947 | [294947-survivors-day.json](./294947-survivors-day.json) |
 | Survivor's End | 250451 | [250451-survivors-end.json](./250451-survivors-end.json) |
 | Survivors in Blood | 296532 | [296532-survivors-in-blood.json](./296532-survivors-in-blood.json) |
 | Survivors Left: X | 124177 | [124177-survivors-left-x.json](./124177-survivors-left-x.json) |
