@@ -1807,6 +1807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Space 2: Severed | 20440 | [20440-dead-space-2-severed.json](./20440-dead-space-2-severed.json) |
 | Dead Space 3: Awakened | 10173 | [10173-dead-space-3-awakened.json](./10173-dead-space-3-awakened.json) |
 | Dead Space 3: Limited Edition | 44604 | [44604-dead-space-3-limited-edition.json](./44604-dead-space-3-limited-edition.json) |
+| Dead Space Nokia | 323812 | [323812-dead-space-nokia.json](./323812-dead-space-nokia.json) |
 | Dead Space: Collector's Edition | 229975 | [229975-dead-space-collectors-edition.json](./229975-dead-space-collectors-edition.json) |
 | Dead Space: Deluxe Edition | 222945 | [222945-dead-space-deluxe-edition.json](./222945-dead-space-deluxe-edition.json) |
 | Dead Spawn | 121710 | [121710-dead-spawn.json](./121710-dead-spawn.json) |
@@ -2413,6 +2414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Dark Forest | 151724 | [151724-deep-dark-forest.json](./151724-deep-dark-forest.json) |
 | Deep Dark Space | 282012 | [282012-deep-dark-space.json](./282012-deep-dark-space.json) |
 | Deep Dark Wrath: Frost Flower | 385573 | [385573-deep-dark-wrath-frost-flower.json](./385573-deep-dark-wrath-frost-flower.json) |
+| Deep Dead | 323811 | [323811-deep-dead.json](./323811-deep-dead.json) |
 | Deep Despair | 129641 | [129641-deep-despair.json](./129641-deep-despair.json) |
 | Deep Despair 3 | 320554 | [320554-deep-despair-3.json](./320554-deep-despair-3.json) |
 | Deep Dish Dungeon | 298680 | [298680-deep-dish-dungeon.json](./298680-deep-dish-dungeon.json) |
@@ -4656,6 +4658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirty | 412361 | [412361-dirty.json](./412361-dirty.json) |
 | Dirty Aim Trainer VR | 266752 | [266752-dirty-aim-trainer-vr.json](./266752-dirty-aim-trainer-vr.json) |
 | Dirty Business | 398532 | [398532-dirty-business.json](./398532-dirty-business.json) |
+| Dirty Cop | 323807 | [323807-dirty-cop.json](./323807-dirty-cop.json) |
 | Dirty Dancing | 21491 | [21491-dirty-dancing.json](./21491-dirty-dancing.json) |
 | Dirty Dirty Pirates | 236790 | [236790-dirty-dirty-pirates.json](./236790-dirty-dirty-pirates.json) |
 | Dirty Education | 385815 | [385815-dirty-education.json](./385815-dirty-education.json) |
@@ -8648,6 +8651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Janitor | 345607 | [345607-dungeon-janitor.json](./345607-dungeon-janitor.json) |
 | Dungeon Jinrou | 308914 | [308914-dungeon-jinrou.json](./308914-dungeon-jinrou.json) |
 | Dungeon Journey | 253964 | [253964-dungeon-journey.json](./253964-dungeon-journey.json) |
+| Dungeon Keep | 323796 | [323796-dungeon-keep.json](./323796-dungeon-keep.json) |
 | Dungeon Keeper | 20093 | [20093-dungeon-keeper.json](./20093-dungeon-keeper.json) |
 | Dungeon Keeper 3 | 12278 | [12278-dungeon-keeper-3.json](./12278-dungeon-keeper-3.json) |
 | Dungeon Keeper Premium | 334252 | [334252-dungeon-keeper-premium.json](./334252-dungeon-keeper-premium.json) |
@@ -8736,6 +8740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon RPG Pikudan 2 | 222324 | [222324-dungeon-rpg-pikudan-2.json](./222324-dungeon-rpg-pikudan-2.json) |
 | Dungeon RPG: Hero | 235161 | [235161-dungeon-rpg-hero.json](./235161-dungeon-rpg-hero.json) |
 | Dungeon Ruins | 294294 | [294294-dungeon-ruins.json](./294294-dungeon-ruins.json) |
+| Dungeon Rummage: Survival | 323794 | [323794-dungeon-rummage-survival.json](./323794-dungeon-rummage-survival.json) |
 | Dungeon Rummage: Tiqee's Escape | 195248 | [195248-dungeon-rummage-tiqees-escape.json](./195248-dungeon-rummage-tiqees-escape.json) |
 | Dungeon Run | 366356 | [366356-dungeon-run.json](./366356-dungeon-run.json) |
 | Dungeon Rush | 105304 | [105304-dungeon-rush.json](./105304-dungeon-rush.json) |
