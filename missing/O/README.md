@@ -655,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oirbo | 118398 | [118398-oirbo.json](./118398-oirbo.json) |
 | Oishii Puzzle ha Irimasen ka | 312364 | [312364-oishii-puzzle-ha-irimasen-ka.json](./312364-oishii-puzzle-ha-irimasen-ka.json) |
 | Ojamajo Adventure: Naisho No Mahou | 319698 | [319698-ojamajo-adventure-naisho-no-mahou.json](./319698-ojamajo-adventure-naisho-no-mahou.json) |
+| Oji-Mama | 285113 | [285113-oji-mama.json](./285113-oji-mama.json) |
 | Ojingeo Project | 393658 | [393658-ojingeo-project.json](./393658-ojingeo-project.json) |
 | Ojo Por Ojo | 301893 | [301893-ojo-por-ojo.json](./301893-ojo-por-ojo.json) |
 | Ojou-sama Express | 270746 | [270746-ojou-sama-express.json](./270746-ojou-sama-express.json) |
@@ -1205,6 +1206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Man's War | 226716 | [226716-one-mans-war.json](./226716-one-mans-war.json) |
 | One Many Nobody | 201430 | [201430-one-many-nobody.json](./201430-one-many-nobody.json) |
 | One Military Camp: Biomes | 298097 | [298097-one-military-camp-biomes.json](./298097-one-military-camp-biomes.json) |
+| One Military Camp: Christmas Season | 285111 | [285111-one-military-camp-christmas-season.json](./285111-one-military-camp-christmas-season.json) |
 | One Military Camp: Commander Goals | 288214 | [288214-one-military-camp-commander-goals.json](./288214-one-military-camp-commander-goals.json) |
 | One Military Camp: Multiplayer Mode | 277370 | [277370-one-military-camp-multiplayer-mode.json](./277370-one-military-camp-multiplayer-mode.json) |
 | One Million Stars | 333652 | [333652-one-million-stars.json](./333652-one-million-stars.json) |
