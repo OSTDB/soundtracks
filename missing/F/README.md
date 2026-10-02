@@ -4059,6 +4059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluffy Smash | 219791 | [219791-fluffy-smash.json](./219791-fluffy-smash.json) |
 | Fluffy's Adventure | 380419 | [380419-fluffys-adventure.json](./380419-fluffys-adventure.json) |
 | Fluffy's Adventure | 381026 | [381026-fluffys-adventure.json](./381026-fluffys-adventure.json) |
+| Flugger & Knux 9 | 330960 | [330960-flugger-and-knux-9.json](./330960-flugger-and-knux-9.json) |
 | Flugrettung: Die Simulation | 334884 | [334884-flugrettung-die-simulation.json](./334884-flugrettung-die-simulation.json) |
 | Fluid | 92065 | [92065-fluid.json](./92065-fluid.json) |
 | Fluid | 94223 | [94223-fluid.json](./94223-fluid.json) |
@@ -6156,6 +6157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Shinobi | 252807 | [252807-fruit-shinobi.json](./252807-fruit-shinobi.json) |
 | Fruit Slice | 249270 | [249270-fruit-slice.json](./249270-fruit-slice.json) |
 | Fruit Slide | 359993 | [359993-fruit-slide.json](./359993-fruit-slide.json) |
+| Fruit Stand Fortune | 330980 | [330980-fruit-stand-fortune.json](./330980-fruit-stand-fortune.json) |
 | Fruit Sudoku | 334750 | [334750-fruit-sudoku.json](./334750-fruit-sudoku.json) |
 | Fruit Switch | 265599 | [265599-fruit-switch.json](./265599-fruit-switch.json) |
 | Fruit Thieves | 183548 | [183548-fruit-thieves.json](./183548-fruit-thieves.json) |
