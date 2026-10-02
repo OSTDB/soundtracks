@@ -932,6 +932,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capy Island | 310944 | [310944-capy-island.json](./310944-capy-island.json) |
 | Capy's Hot Springs Haven | 389706 | [389706-capys-hot-springs-haven.json](./389706-capys-hot-springs-haven.json) |
 | Capybara | 229820 | [229820-capybara.json](./229820-capybara.json) |
+| Capybara | 312611 | [312611-capybara.json](./312611-capybara.json) |
+| Capybara | 312612 | [312612-capybara.json](./312612-capybara.json) |
 | Capybara Achievement Clicker | 369237 | [369237-capybara-achievement-clicker.json](./369237-capybara-achievement-clicker.json) |
 | Capybara Against Humanity | 377779 | [377779-capybara-against-humanity.json](./377779-capybara-against-humanity.json) |
 | Capybara Carbonara | 132760 | [132760-capybara-carbonara.json](./132760-capybara-carbonara.json) |
@@ -8291,6 +8293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Boss: Rockay City - Tactical Weapon Pack | 315501 | [315501-crime-boss-rockay-city-tactical-weapon-pack.json](./315501-crime-boss-rockay-city-tactical-weapon-pack.json) |
 | Crime Busters | 48320 | [48320-crime-busters.json](./48320-crime-busters.json) |
 | Crime Cities | 7872 | [7872-crime-cities.json](./7872-crime-cities.json) |
+| Crime City | 312643 | [312643-crime-city.json](./312643-crime-city.json) |
 | Crime Coast - Mob versus Mafia | 87665 | [87665-crime-coast-mob-versus-mafia.json](./87665-crime-coast-mob-versus-mafia.json) |
 | Crime Coast: Gangster's Paradise | 69379 | [69379-crime-coast-gangsters-paradise.json](./69379-crime-coast-gangsters-paradise.json) |
 | Crime Code | 96022 | [96022-crime-code.json](./96022-crime-code.json) |
