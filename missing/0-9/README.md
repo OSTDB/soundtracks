@@ -226,6 +226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Caliber Dash | 334119 | [334119-100-caliber-dash.json](./334119-100-caliber-dash.json) |
 | 100 Camp Cats | 351684 | [351684-100-camp-cats.json](./351684-100-camp-cats.json) |
 | 100 Candy Cats | 347753 | [347753-100-candy-cats.json](./347753-100-candy-cats.json) |
+| 100 Capitalist Cats: Extra Content | 282836 | [282836-100-capitalist-cats-extra-content.json](./282836-100-capitalist-cats-extra-content.json) |
 | 100 Cats Argentina | 283865 | [283865-100-cats-argentina.json](./283865-100-cats-argentina.json) |
 | 100 Cats Beijing | 284620 | [284620-100-cats-beijing.json](./284620-100-cats-beijing.json) |
 | 100 Cats Belgrade | 284619 | [284619-100-cats-belgrade.json](./284619-100-cats-belgrade.json) |
