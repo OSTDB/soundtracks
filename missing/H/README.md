@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Habitica | 395187 | [395187-habitica.json](./395187-habitica.json) |
 | Habitrail Hamster Ball | 9606 | [9606-habitrail-hamster-ball.json](./9606-habitrail-hamster-ball.json) |
 | Habitus | 34647 | [34647-habitus.json](./34647-habitus.json) |
+| Habla Kadabla | 310639 | [310639-habla-kadabla.json](./310639-habla-kadabla.json) |
 | Hablet | 344475 | [344475-hablet.json](./344475-hablet.json) |
 | Hacha Macha Pon! | 286585 | [286585-hacha-macha-pon.json](./286585-hacha-macha-pon.json) |
 | Hacha Mecha Fighter | 40182 | [40182-hacha-mecha-fighter.json](./40182-hacha-mecha-fighter.json) |
@@ -1398,6 +1399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hayarigami: Keishichou Kaii Jiken File | 259602 | [259602-hayarigami-keishichou-kaii-jiken-file.json](./259602-hayarigami-keishichou-kaii-jiken-file.json) |
 | Hayate no Gotoku! Boku ga Romeo de Romeo ga Boku de | 78727 | [78727-hayate-no-gotoku-boku-ga-romeo-de-romeo-ga-boku-de.json](./78727-hayate-no-gotoku-boku-ga-romeo-de-romeo-ga-boku-de.json) |
 | Hayate no Gotoku! Ojousama Produce Daisakusen Boku Iro ni Somare! | 72684 | [72684-hayate-no-gotoku-ojousama-produce-daisakusen-boku-iro-ni-somare.json](./72684-hayate-no-gotoku-ojousama-produce-daisakusen-boku-iro-ni-somare.json) |
+| Hayato's Journey | 310652 | [310652-hayatos-journey.json](./310652-hayatos-journey.json) |
 | Hayauchi Super Igo | 48329 | [48329-hayauchi-super-igo.json](./48329-hayauchi-super-igo.json) |
 | Haydee 2 | 141257 | [141257-haydee-2.json](./141257-haydee-2.json) |
 | Haydee 3 | 333073 | [333073-haydee-3.json](./333073-haydee-3.json) |
