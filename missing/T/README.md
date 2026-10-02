@@ -1929,6 +1929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple Of Anubis: Judgement Of The Dead | 271736 | [271736-temple-of-anubis-judgement-of-the-dead.json](./271736-temple-of-anubis-judgement-of-the-dead.json) |
 | Temple of Apshai Trilogy | 2864 | [2864-temple-of-apshai-trilogy.json](./2864-temple-of-apshai-trilogy.json) |
 | Temple of Boonil | 198562 | [198562-temple-of-boonil.json](./198562-temple-of-boonil.json) |
+| Temple of Chaos 2: Warped Reality | 313168 | [313168-temple-of-chaos-2-warped-reality.json](./313168-temple-of-chaos-2-warped-reality.json) |
 | Temple of Darkness | 247529 | [247529-temple-of-darkness.json](./247529-temple-of-darkness.json) |
 | Temple of Hue | 149533 | [149533-temple-of-hue.json](./149533-temple-of-hue.json) |
 | Temple of Kroz | 84200 | [84200-temple-of-kroz.json](./84200-temple-of-kroz.json) |
@@ -6291,6 +6292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Netherforce Shards | 322785 | [322785-the-legend-of-zelda-netherforce-shards.json](./322785-the-legend-of-zelda-netherforce-shards.json) |
 | The Legend of Zelda: New Beginnings | 322102 | [322102-the-legend-of-zelda-new-beginnings.json](./322102-the-legend-of-zelda-new-beginnings.json) |
 | The Legend of Zelda: Nightmare | 255387 | [255387-the-legend-of-zelda-nightmare.json](./255387-the-legend-of-zelda-nightmare.json) |
+| The Legend of Zelda: Ocarina of Time - Crystal Clocks | 313092 | [313092-the-legend-of-zelda-ocarina-of-time-crystal-clocks.json](./313092-the-legend-of-zelda-ocarina-of-time-crystal-clocks.json) |
 | The Legend of Zelda: Ocarina of Time - Expansion Disk | 204383 | [204383-the-legend-of-zelda-ocarina-of-time-expansion-disk.json](./204383-the-legend-of-zelda-ocarina-of-time-expansion-disk.json) |
 | The Legend of Zelda: Ocarina of Time - Stamina Bar | 263457 | [263457-the-legend-of-zelda-ocarina-of-time-stamina-bar.json](./263457-the-legend-of-zelda-ocarina-of-time-stamina-bar.json) |
 | The Legend of Zelda: Ocarina of Time Online | 198341 | [198341-the-legend-of-zelda-ocarina-of-time-online.json](./198341-the-legend-of-zelda-ocarina-of-time-online.json) |
@@ -7389,6 +7391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Plug | 175436 | [175436-the-plug.json](./175436-the-plug.json) |
 | The Plumber Thing | 223000 | [223000-the-plumber-thing.json](./223000-the-plumber-thing.json) |
 | The Plus Point | 89950 | [89950-the-plus-point.json](./89950-the-plus-point.json) |
+| The Plutonia Experiment | 313170 | [313170-the-plutonia-experiment.json](./313170-the-plutonia-experiment.json) |
 | The Plutonia Experiment | 46615 | [46615-the-plutonia-experiment.json](./46615-the-plutonia-experiment.json) |
 | The Pocket Arcade | 264008 | [264008-the-pocket-arcade.json](./264008-the-pocket-arcade.json) |
 | The Podlands | 117484 | [117484-the-podlands.json](./117484-the-podlands.json) |
@@ -11854,6 +11857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TNT 2: Devilution | 280913 | [280913-tnt-2-devilution.json](./280913-tnt-2-devilution.json) |
 | TNT Goes Boom! | 269661 | [269661-tnt-goes-boom.json](./269661-tnt-goes-boom.json) |
 | TNT Racers | 20555 | [20555-tnt-racers.json](./20555-tnt-racers.json) |
+| TNT: Evilution | 313169 | [313169-tnt-evilution.json](./313169-tnt-evilution.json) |
 | TNT: Evilution | 46616 | [46616-tnt-evilution.json](./46616-tnt-evilution.json) |
 | TNT: Threevilution | 316174 | [316174-tnt-threevilution.json](./316174-tnt-threevilution.json) |
 | TNT! | 118978 | [118978-tnt.json](./118978-tnt.json) |
@@ -14933,6 +14937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trekking and Camping | 167262 | [167262-trekking-and-camping.json](./167262-trekking-and-camping.json) |
 | Trembling Dots | 128620 | [128620-trembling-dots.json](./128620-trembling-dots.json) |
 | Tremen | 166218 | [166218-tremen.json](./166218-tremen.json) |
+| Tremor: Part I - Genesis | 313162 | [313162-tremor-part-i-genesis.json](./313162-tremor-part-i-genesis.json) |
 | Tremors: The Game | 127959 | [127959-tremors-the-game.json](./127959-tremors-the-game.json) |
 | Tren | 344455 | [344455-tren.json](./344455-tren.json) |
 | Trench Face | 365220 | [365220-trench-face.json](./365220-trench-face.json) |
