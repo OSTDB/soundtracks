@@ -1164,6 +1164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hasbro Family Game Night: Volume 2 | 23253 | [23253-hasbro-family-game-night-volume-2.json](./23253-hasbro-family-game-night-volume-2.json) |
 | Hasbro Game Night for Nintendo Switch | 110394 | [110394-hasbro-game-night-for-nintendo-switch.json](./110394-hasbro-game-night-for-nintendo-switch.json) |
 | Hasbro Kids Bundle | 247582 | [247582-hasbro-kids-bundle.json](./247582-hasbro-kids-bundle.json) |
+| Hasbro Toy Factory | 282240 | [282240-hasbro-toy-factory.json](./282240-hasbro-toy-factory.json) |
 | Hasegawa Nozomi | 355180 | [355180-hasegawa-nozomi.json](./355180-hasegawa-nozomi.json) |
 | Hash Line | 120402 | [120402-hash-line.json](./120402-hash-line.json) |
 | Hashi: Bridges | 391842 | [391842-hashi-bridges.json](./391842-hashi-bridges.json) |
@@ -3633,6 +3634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiddenverse: Ominous Opus | 156677 | [156677-hiddenverse-ominous-opus.json](./156677-hiddenverse-ominous-opus.json) |
 | Hiddenverse: The Iron Tower | 209652 | [209652-hiddenverse-the-iron-tower.json](./209652-hiddenverse-the-iron-tower.json) |
 | Hide | 183997 | [183997-hide.json](./183997-hide.json) |
+| Hide | 282234 | [282234-hide.json](./282234-hide.json) |
 | Hide 'n Heist | 346160 | [346160-hide-n-heist.json](./346160-hide-n-heist.json) |
 | Hide 'N Seek!: Complete Edition | 324377 | [324377-hide-n-seek-complete-edition.json](./324377-hide-n-seek-complete-edition.json) |
 | Hide 'N Seek!: Foes DLC | 317954 | [317954-hide-n-seek-foes-dlc.json](./317954-hide-n-seek-foes-dlc.json) |
