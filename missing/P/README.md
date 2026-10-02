@@ -2991,6 +2991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pickleball Smash | 270160 | [270160-pickleball-smash.json](./270160-pickleball-smash.json) |
 | Pickmos | 395697 | [395697-pickmos.json](./395697-pickmos.json) |
 | Pickochet | 388959 | [388959-pickochet.json](./388959-pickochet.json) |
+| Pickup 'N' Packup! | 323260 | [323260-pickup-n-packup.json](./323260-pickup-n-packup.json) |
 | Pickup One | 202753 | [202753-pickup-one.json](./202753-pickup-one.json) |
 | Pickup Point Simulator | 304613 | [304613-pickup-point-simulator.json](./304613-pickup-point-simulator.json) |
 | Picnic | 22817 | [22817-picnic.json](./22817-picnic.json) |
@@ -4946,6 +4947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pochi and Nyaa | 40188 | [40188-pochi-and-nyaa.json](./40188-pochi-and-nyaa.json) |
 | Pocke-Kano: Shizuka Houjouin | 166553 | [166553-pocke-kano-shizuka-houjouin.json](./166553-pocke-kano-shizuka-houjouin.json) |
 | Pocke-Kano: Yumi Aida | 166552 | [166552-pocke-kano-yumi-aida.json](./166552-pocke-kano-yumi-aida.json) |
+| PockeDate! | 323228 | [323228-pockedate.json](./323228-pockedate.json) |
 | Pocket & Zooom | 338310 | [338310-pocket-and-zooom.json](./338310-pocket-and-zooom.json) |
 | Pocket Action: Pro Football | 245423 | [245423-pocket-action-pro-football.json](./245423-pocket-action-pro-football.json) |
 | Pocket Adventurer | 416043 | [416043-pocket-adventurer.json](./416043-pocket-adventurer.json) |
@@ -5663,6 +5665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polariball | 356205 | [356205-polariball.json](./356205-polariball.json) |
 | Polaris | 380125 | [380125-polaris.json](./380125-polaris.json) |
 | Polarity Switch | 176342 | [176342-polarity-switch.json](./176342-polarity-switch.json) |
+| Polarity Warthog | 323225 | [323225-polarity-warthog.json](./323225-polarity-warthog.json) |
 | Polarize | 228582 | [228582-polarize.json](./228582-polarize.json) |
 | Polary | 163953 | [163953-polary.json](./163953-polary.json) |
 | PolClash | 367964 | [367964-polclash.json](./367964-polclash.json) |
@@ -6247,6 +6250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porterminus | 265954 | [265954-porterminus.json](./265954-porterminus.json) |
 | Porters | 381761 | [381761-porters.json](./381761-porters.json) |
 | Portile | 322360 | [322360-portile.json](./322360-portile.json) |
+| Portland 2024 | 323214 | [323214-portland-2024.json](./323214-portland-2024.json) |
 | Portobugia | 217377 | [217377-portobugia.json](./217377-portobugia.json) |
 | Portrait | 329036 | [329036-portrait.json](./329036-portrait.json) |
 | Portrait of a Cornish Woman | 319137 | [319137-portrait-of-a-cornish-woman.json](./319137-portrait-of-a-cornish-woman.json) |
