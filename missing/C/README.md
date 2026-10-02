@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cable 2 | 11363 | [11363-cable-2.json](./11363-cable-2.json) |
 | Cable Clutter | 211255 | [211255-cable-clutter.json](./211255-cable-clutter.json) |
 | Cable Swiper | 22363 | [22363-cable-swiper.json](./22363-cable-swiper.json) |
+| Caccia al Ladro | 305461 | [305461-caccia-al-ladro.json](./305461-caccia-al-ladro.json) |
 | Caccia al Ladro/Heathcliff | 305279 | [305279-caccia-al-ladro-heathcliff.json](./305279-caccia-al-ladro-heathcliff.json) |
 | Cache Overload | 212908 | [212908-cache-overload.json](./212908-cache-overload.json) |
 | Cache-Cache | 176428 | [176428-cache-cache.json](./176428-cache-cache.json) |
@@ -2567,6 +2568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cerulean Days | 258996 | [258996-cerulean-days.json](./258996-cerulean-days.json) |
 | Cerulean Tears | 323929 | [323929-cerulean-tears.json](./323929-cerulean-tears.json) |
 | Cesar Millan's Dog Whisperer | 70646 | [70646-cesar-millans-dog-whisperer.json](./70646-cesar-millans-dog-whisperer.json) |
+| Cessate il Fuoco | 305462 | [305462-cessate-il-fuoco.json](./305462-cessate-il-fuoco.json) |
 | Cessate il Fuoco/Heathcliff | 305298 | [305298-cessate-il-fuoco-heathcliff.json](./305298-cessate-il-fuoco-heathcliff.json) |
 | Cessna Over Moscow | 39116 | [39116-cessna-over-moscow.json](./39116-cessna-over-moscow.json) |
 | Cesta bojovníka | 391800 | [391800-cesta-bojovnika.json](./391800-cesta-bojovnika.json) |
@@ -3424,6 +3426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicktionary | 375202 | [375202-chicktionary.json](./375202-chicktionary.json) |
 | Chicku | 181397 | [181397-chicku.json](./181397-chicku.json) |
 | Chicku | 33515 | [33515-chicku.json](./33515-chicku.json) |
+| Chicky Woggy | 305433 | [305433-chicky-woggy.json](./305433-chicky-woggy.json) |
 | Chicky Woggy | 41421 | [41421-chicky-woggy.json](./41421-chicky-woggy.json) |
 | Chico and the Magic Orchards | 199361 | [199361-chico-and-the-magic-orchards.json](./199361-chico-and-the-magic-orchards.json) |
 | Chico and the Magic Orchards DX | 277885 | [277885-chico-and-the-magic-orchards-dx.json](./277885-chico-and-the-magic-orchards-dx.json) |
@@ -6405,6 +6408,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Condom Commander | 411628 | [411628-condom-commander.json](./411628-condom-commander.json) |
 | Condominium | 333356 | [333356-condominium.json](./333356-condominium.json) |
 | Condominium: No Exit | 411793 | [411793-condominium-no-exit.json](./411793-condominium-no-exit.json) |
+| Condor | 305434 | [305434-condor.json](./305434-condor.json) |
+| Condor | 305435 | [305435-condor.json](./305435-condor.json) |
 | Condor | 47268 | [47268-condor.json](./47268-condor.json) |
 | Condor 3 | 327922 | [327922-condor-3.json](./327922-condor-3.json) |
 | Conduct Together!: Track Pack | 307246 | [307246-conduct-together-track-pack.json](./307246-conduct-together-track-pack.json) |
@@ -7992,6 +7997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Caveman | 41016 | [41016-crazy-caveman.json](./41016-crazy-caveman.json) |
 | Crazy Chain: Elpis no Kusari | 392427 | [392427-crazy-chain-elpis-no-kusari.json](./392427-crazy-chain-elpis-no-kusari.json) |
 | Crazy Cheebo: Puzzle Party | 85552 | [85552-crazy-cheebo-puzzle-party.json](./85552-crazy-cheebo-puzzle-party.json) |
+| Crazy Chewy | 305436 | [305436-crazy-chewy.json](./305436-crazy-chewy.json) |
 | Crazy Chewy | 47267 | [47267-crazy-chewy.json](./47267-crazy-chewy.json) |
 | Crazy Chicken Carnival | 135816 | [135816-crazy-chicken-carnival.json](./135816-crazy-chicken-carnival.json) |
 | Crazy Chicken Jump'n Run: Atlantis Quest | 282571 | [282571-crazy-chicken-jumpn-run-atlantis-quest.json](./282571-crazy-chicken-jumpn-run-atlantis-quest.json) |
