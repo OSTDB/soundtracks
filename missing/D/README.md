@@ -1779,6 +1779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Room | 301998 | [301998-dead-room.json](./301998-dead-room.json) |
 | Dead Rose | 404237 | [404237-dead-rose.json](./404237-dead-rose.json) |
 | Dead Route | 87095 | [87095-dead-route.json](./87095-dead-route.json) |
+| Dead Rush | 327277 | [327277-dead-rush.json](./327277-dead-rush.json) |
 | Dead Sale | 339369 | [339369-dead-sale.json](./339369-dead-sale.json) |
 | Dead Scrap | 303466 | [303466-dead-scrap.json](./303466-dead-scrap.json) |
 | Dead Sea | 25514 | [25514-dead-sea.json](./25514-dead-sea.json) |
@@ -4053,6 +4054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dicy Chess | 299148 | [299148-dicy-chess.json](./299148-dicy-chess.json) |
 | Did You Scared | 195128 | [195128-did-you-scared.json](./195128-did-you-scared.json) |
 | Did You See That? | 416647 | [416647-did-you-see-that.json](./416647-did-you-see-that.json) |
+| Diddy | 327454 | [327454-diddy.json](./327454-diddy.json) |
 | Diddy Kong Racing | 2723 | [2723-diddy-kong-racing.json](./2723-diddy-kong-racing.json) |
 | Diddy Kong Racing DS: Timber's Balloon Pop | 231630 | [231630-diddy-kong-racing-ds-timbers-balloon-pop.json](./231630-diddy-kong-racing-ds-timbers-balloon-pop.json) |
 | Diddy Kong Racing: Recompiled | 413189 | [413189-diddy-kong-racing-recompiled.json](./413189-diddy-kong-racing-recompiled.json) |
@@ -5313,6 +5315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DNF Duel: Who's Next | 242667 | [242667-dnf-duel-whos-next.json](./242667-dnf-duel-whos-next.json) |
 | Do a Crime | 390110 | [390110-do-a-crime.json](./390110-do-a-crime.json) |
 | Do Crimes! | 380413 | [380413-do-crimes.json](./380413-do-crimes.json) |
+| Do Dishes As Spencer | 327284 | [327284-do-dishes-as-spencer.json](./327284-do-dishes-as-spencer.json) |
 | Do I Have a Right? | 207871 | [207871-do-i-have-a-right.json](./207871-do-i-have-a-right.json) |
 | Do I Pass? | 179738 | [179738-do-i-pass.json](./179738-do-i-pass.json) |
 | Do I Really Like Chocolate? | 397944 | [397944-do-i-really-like-chocolate.json](./397944-do-i-really-like-chocolate.json) |
@@ -7981,6 +7984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driving Zone: Japan | 174857 | [174857-driving-zone-japan.json](./174857-driving-zone-japan.json) |
 | Drivrooom | 144249 | [144249-drivrooom.json](./144249-drivrooom.json) |
 | Drizzlepath | 12265 | [12265-drizzlepath.json](./12265-drizzlepath.json) |
+| Drizzlepath: Picturae | 327273 | [327273-drizzlepath-picturae.json](./327273-drizzlepath-picturae.json) |
 | DRL | 79379 | [79379-drl.json](./79379-drl.json) |
 | DROD 4: Gunthro and the Epic Blunder | 8870 | [8870-drod-4-gunthro-and-the-epic-blunder.json](./8870-drod-4-gunthro-and-the-epic-blunder.json) |
 | Drod RPG 2 | 363048 | [363048-drod-rpg-2.json](./363048-drod-rpg-2.json) |
@@ -8098,6 +8102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drug Lord 2 | 71473 | [71473-drug-lord-2.json](./71473-drug-lord-2.json) |
 | Drug Lords | 193228 | [193228-drug-lords.json](./193228-drug-lords.json) |
 | Drug Prince & Narcotic Girl for Nintendo Switch | 255630 | [255630-drug-prince-and-narcotic-girl-for-nintendo-switch.json](./255630-drug-prince-and-narcotic-girl-for-nintendo-switch.json) |
+| Drug Trader Simulator | 327439 | [327439-drug-trader-simulator.json](./327439-drug-trader-simulator.json) |
 | Drug Wars | 14945 | [14945-drug-wars.json](./14945-drug-wars.json) |
 | Drug Wars: A Game Based on the New York Drug Market | 72172 | [72172-drug-wars-a-game-based-on-the-new-york-drug-market.json](./72172-drug-wars-a-game-based-on-the-new-york-drug-market.json) |
 | Drug Watch | 130838 | [130838-drug-watch.json](./130838-drug-watch.json) |
@@ -8353,6 +8358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dudeology 1 | 234730 | [234730-dudeology-1.json](./234730-dudeology-1.json) |
 | Dudes with Attitude | 48063 | [48063-dudes-with-attitude.json](./48063-dudes-with-attitude.json) |
 | Dudu Monkey | 165077 | [165077-dudu-monkey.json](./165077-dudu-monkey.json) |
+| Due | 327285 | [327285-due.json](./327285-due.json) |
 | Due to Rain | 309343 | [309343-due-to-rain.json](./309343-due-to-rain.json) |
 | Duel | 181915 | [181915-duel.json](./181915-duel.json) |
 | Duel Arms | 100744 | [100744-duel-arms.json](./100744-duel-arms.json) |
