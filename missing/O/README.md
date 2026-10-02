@@ -1761,6 +1761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation7: Revolution | 127836 | [127836-operation7-revolution.json](./127836-operation7-revolution.json) |
 | Operation7: Showdown | 384739 | [384739-operation7-showdown.json](./384739-operation7-showdown.json) |
 | Operation8 Project | 189935 | [189935-operation8-project.json](./189935-operation8-project.json) |
+| Operatives: Revolve | 322678 | [322678-operatives-revolve.json](./322678-operatives-revolve.json) |
 | Operator | 125348 | [125348-operator.json](./125348-operator.json) |
 | Operator | 220613 | [220613-operator.json](./220613-operator.json) |
 | Operator | 226706 | [226706-operator.json](./226706-operator.json) |
@@ -2685,6 +2686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outworld | 287102 | [287102-outworld.json](./287102-outworld.json) |
 | Outworld Battlegrounds | 111037 | [111037-outworld-battlegrounds.json](./111037-outworld-battlegrounds.json) |
 | Outworld Defence | 383652 | [383652-outworld-defence.json](./383652-outworld-defence.json) |
+| Outworld Station | 322692 | [322692-outworld-station.json](./322692-outworld-station.json) |
 | Ova Magica | 138211 | [138211-ova-magica.json](./138211-ova-magica.json) |
 | Oval Office: Commander In Chief | 146202 | [146202-oval-office-commander-in-chief.json](./146202-oval-office-commander-in-chief.json) |
 | Oval Racer Series: Sandbox | 170830 | [170830-oval-racer-series-sandbox.json](./170830-oval-racer-series-sandbox.json) |
