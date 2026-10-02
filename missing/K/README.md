@@ -1135,6 +1135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kido Keisatstsu Patlabor: Griffon-hen | 75897 | [75897-kido-keisatstsu-patlabor-griffon-hen.json](./75897-kido-keisatstsu-patlabor-griffon-hen.json) |
 | Kidou Gekidan Haro Ichiza: Gundam Mahjong + Z: Sara ni Deki Ruyouni Nattana! | 79185 | [79185-kidou-gekidan-haro-ichiza-gundam-mahjong-z-sara-ni-deki-ruyouni-nattana.json](./79185-kidou-gekidan-haro-ichiza-gundam-mahjong-z-sara-ni-deki-ruyouni-nattana.json) |
 | Kidou Keisatsu Patlabor: 98-Shiki Kidou Seyo! | 46075 | [46075-kidou-keisatsu-patlabor-98-shiki-kidou-seyo.json](./46075-kidou-keisatsu-patlabor-98-shiki-kidou-seyo.json) |
+| Kidou Senkan Nadesico: Ruriruri Mahjong | 281654 | [281654-kidou-senkan-nadesico-ruriruri-mahjong.json](./281654-kidou-senkan-nadesico-ruriruri-mahjong.json) |
 | Kidou Senshi Gundam Gaiden: Missing Link | 62277 | [62277-kidou-senshi-gundam-gaiden-missing-link.json](./62277-kidou-senshi-gundam-gaiden-missing-link.json) |
 | Kidou Senshi Gundam Seed | 37371 | [37371-kidou-senshi-gundam-seed.json](./37371-kidou-senshi-gundam-seed.json) |
 | Kidou Senshi Gundam Vol. 1 Side7 | 37370 | [37370-kidou-senshi-gundam-vol-1-side7.json](./37370-kidou-senshi-gundam-vol-1-side7.json) |
@@ -1815,6 +1816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiniro no Corda: La Corda d'Oro | 57705 | [57705-kiniro-no-corda-la-corda-doro.json](./57705-kiniro-no-corda-la-corda-doro.json) |
 | Kiniro no Korda Starlight Orchestra | 220314 | [220314-kiniro-no-korda-starlight-orchestra.json](./220314-kiniro-no-korda-starlight-orchestra.json) |
 | Kinky Cosplay Heroes | 275727 | [275727-kinky-cosplay-heroes.json](./275727-kinky-cosplay-heroes.json) |
+| Kinniku Banzuke GB 3: Shinseiki Survival Retsuden! | 281657 | [281657-kinniku-banzuke-gb-3-shinseiki-survival-retsuden.json](./281657-kinniku-banzuke-gb-3-shinseiki-survival-retsuden.json) |
 | Kinniku Banzuke Vol.2: Aratanaru Genkai he no Chousen! | 344463 | [344463-kinniku-banzuke-vol-2-aratanaru-genkai-he-no-chousen.json](./344463-kinniku-banzuke-vol-2-aratanaru-genkai-he-no-chousen.json) |
 | Kinnikuman | 138764 | [138764-kinnikuman.json](./138764-kinnikuman.json) |
 | Kinnikuman II: Tatakae! Ramenman | 346032 | [346032-kinnikuman-ii-tatakae-ramenman.json](./346032-kinnikuman-ii-tatakae-ramenman.json) |
