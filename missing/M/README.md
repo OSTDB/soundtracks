@@ -2937,6 +2937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maths Circus Act 6 | 76592 | [76592-maths-circus-act-6.json](./76592-maths-circus-act-6.json) |
 | Maths Planets | 105932 | [105932-maths-planets.json](./105932-maths-planets.json) |
 | Maths Play: Have Fun with Numbers! | 159043 | [159043-maths-play-have-fun-with-numbers.json](./159043-maths-play-have-fun-with-numbers.json) |
+| Mathshot | 298806 | [298806-mathshot.json](./298806-mathshot.json) |
 | MathsJack | 56567 | [56567-mathsjack.json](./56567-mathsjack.json) |
 | Mathville | 387698 | [387698-mathville.json](./387698-mathville.json) |
 | Matilda 2 | 409609 | [409609-matilda-2.json](./409609-matilda-2.json) |
@@ -7260,6 +7261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MoGuuRu Dabas | 227819 | [227819-moguuru-dabas.json](./227819-moguuru-dabas.json) |
 | Mohism | 152378 | [152378-mohism.json](./152378-mohism.json) |
 | MoHo | 176877 | [176877-moho.json](./176877-moho.json) |
+| Mohrta | 298795 | [298795-mohrta.json](./298795-mohrta.json) |
 | Moi Mei: Hidden Objects | 199655 | [199655-moi-mei-hidden-objects.json](./199655-moi-mei-hidden-objects.json) |
 | Moi Moi Heroes | 275125 | [275125-moi-moi-heroes.json](./275125-moi-moi-heroes.json) |
 | Moira | 182523 | [182523-moira.json](./182523-moira.json) |
@@ -7337,6 +7339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mom Simulator 2023 | 277841 | [277841-mom-simulator-2023.json](./277841-mom-simulator-2023.json) |
 | Momento | 279123 | [279123-momento.json](./279123-momento.json) |
 | Momento Pole | 373767 | [373767-momento-pole.json](./373767-momento-pole.json) |
+| Momentous: Monumentum | 298822 | [298822-momentous-monumentum.json](./298822-momentous-monumentum.json) |
 | Moments | 297555 | [297555-moments.json](./297555-moments.json) |
 | Moments | 356702 | [356702-moments.json](./356702-moments.json) |
 | Moments Out of Time | 60009 | [60009-moments-out-of-time.json](./60009-moments-out-of-time.json) |
