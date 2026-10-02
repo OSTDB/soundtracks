@@ -1222,6 +1222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barcode Battler II: Super Mario World - Gooska | 328636 | [328636-barcode-battler-ii-super-mario-world-gooska.json](./328636-barcode-battler-ii-super-mario-world-gooska.json) |
 | Barcode Battler II: Super Mario World - Hanachan | 328638 | [328638-barcode-battler-ii-super-mario-world-hanachan.json](./328638-barcode-battler-ii-super-mario-world-hanachan.json) |
 | Barcode Battler II: Super Mario World - Jugem | 328637 | [328637-barcode-battler-ii-super-mario-world-jugem.json](./328637-barcode-battler-ii-super-mario-world-jugem.json) |
+| Barcode Battler II: Super Mario World - Jump | 328654 | [328654-barcode-battler-ii-super-mario-world-jump.json](./328654-barcode-battler-ii-super-mario-world-jump.json) |
 | Barcode Battler II: Super Mario World - Kamek | 328644 | [328644-barcode-battler-ii-super-mario-world-kamek.json](./328644-barcode-battler-ii-super-mario-world-kamek.json) |
 | Barcode Battler II: Super Mario World - Koopa | 328647 | [328647-barcode-battler-ii-super-mario-world-koopa.json](./328647-barcode-battler-ii-super-mario-world-koopa.json) |
 | Barcode Battler II: Super Mario World - Larry | 328639 | [328639-barcode-battler-ii-super-mario-world-larry.json](./328639-barcode-battler-ii-super-mario-world-larry.json) |
@@ -1232,8 +1233,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barcode Battler II: Super Mario World - Manto-Hane | 328651 | [328651-barcode-battler-ii-super-mario-world-manto-hane.json](./328651-barcode-battler-ii-super-mario-world-manto-hane.json) |
 | Barcode Battler II: Super Mario World - Mario | 328625 | [328625-barcode-battler-ii-super-mario-world-mario.json](./328625-barcode-battler-ii-super-mario-world-mario.json) |
 | Barcode Battler II: Super Mario World - Mecha Koopa | 328646 | [328646-barcode-battler-ii-super-mario-world-mecha-koopa.json](./328646-barcode-battler-ii-super-mario-world-mecha-koopa.json) |
+| Barcode Battler II: Super Mario World - Nokonoko? | 328653 | [328653-barcode-battler-ii-super-mario-world-nokonoko.json](./328653-barcode-battler-ii-super-mario-world-nokonoko.json) |
 | Barcode Battler II: Super Mario World - P-Pakkun | 328631 | [328631-barcode-battler-ii-super-mario-world-p-pakkun.json](./328631-barcode-battler-ii-super-mario-world-p-pakkun.json) |
 | Barcode Battler II: Super Mario World - Pata Pata | 328630 | [328630-barcode-battler-ii-super-mario-world-pata-pata.json](./328630-barcode-battler-ii-super-mario-world-pata-pata.json) |
+| Barcode Battler II: Super Mario World - Super-Kinoko | 328655 | [328655-barcode-battler-ii-super-mario-world-super-kinoko.json](./328655-barcode-battler-ii-super-mario-world-super-kinoko.json) |
+| Barcode Battler II: Super Mario World - Super-Star | 328656 | [328656-barcode-battler-ii-super-mario-world-super-star.json](./328656-barcode-battler-ii-super-mario-world-super-star.json) |
 | Barcode Battler II: Super Mario World - Telesauls | 328628 | [328628-barcode-battler-ii-super-mario-world-telesauls.json](./328628-barcode-battler-ii-super-mario-world-telesauls.json) |
 | Barcode Battler II: Super Mario World - Togezo | 328633 | [328633-barcode-battler-ii-super-mario-world-togezo.json](./328633-barcode-battler-ii-super-mario-world-togezo.json) |
 | Barcode Battler II: Super Mario World - Unbaba | 328641 | [328641-barcode-battler-ii-super-mario-world-unbaba.json](./328641-barcode-battler-ii-super-mario-world-unbaba.json) |
