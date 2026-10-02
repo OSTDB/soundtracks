@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit Jump | 348946 | [348946-rabbit-jump.json](./348946-rabbit-jump.json) |
 | Rabbit Jump | 60004 | [60004-rabbit-jump.json](./60004-rabbit-jump.json) |
 | Rabbit Jumping DX | 344478 | [344478-rabbit-jumping-dx.json](./344478-rabbit-jumping-dx.json) |
+| Rabbit on Skateboard | 312206 | [312206-rabbit-on-skateboard.json](./312206-rabbit-on-skateboard.json) |
 | Rabbit Rabbit UFO | 279025 | [279025-rabbit-rabbit-ufo.json](./279025-rabbit-rabbit-ufo.json) |
 | Rabbit Run Away | 212466 | [212466-rabbit-run-away.json](./212466-rabbit-run-away.json) |
 | Rabbit Run Carrot Hunt | 361347 | [361347-rabbit-run-carrot-hunt.json](./361347-rabbit-run-carrot-hunt.json) |
@@ -4266,6 +4267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road to Moscow | 25613 | [25613-road-to-moscow.json](./25613-road-to-moscow.json) |
 | Road to Scrubville: A Bijuu Mike Fangame | 230254 | [230254-road-to-scrubville-a-bijuu-mike-fangame.json](./230254-road-to-scrubville-a-bijuu-mike-fangame.json) |
 | Road To Siren Hills: Dark Journey | 304112 | [304112-road-to-siren-hills-dark-journey.json](./304112-road-to-siren-hills-dark-journey.json) |
+| Road to Valhalla | 312077 | [312077-road-to-valhalla.json](./312077-road-to-valhalla.json) |
 | Road To Valhalla: Carola | 290537 | [290537-road-to-valhalla-carola.json](./290537-road-to-valhalla-carola.json) |
 | Road to Vegas | 123402 | [123402-road-to-vegas.json](./123402-road-to-vegas.json) |
 | Road to Vostok | 217304 | [217304-road-to-vostok.json](./217304-road-to-vostok.json) |
