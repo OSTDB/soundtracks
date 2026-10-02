@@ -2566,6 +2566,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Alchemist Simulator | 396522 | [396522-master-alchemist-simulator.json](./396522-master-alchemist-simulator.json) |
 | Master Archer | 185544 | [185544-master-archer.json](./185544-master-archer.json) |
 | Master Arena | 97280 | [97280-master-arena.json](./97280-master-arena.json) |
+| Master Arena: Orange Neon Bundle | 297145 | [297145-master-arena-orange-neon-bundle.json](./297145-master-arena-orange-neon-bundle.json) |
+| Master Arena: Phantom Edition Bundle | 297147 | [297147-master-arena-phantom-edition-bundle.json](./297147-master-arena-phantom-edition-bundle.json) |
+| Master Arena: Ultimate Pass | 297146 | [297146-master-arena-ultimate-pass.json](./297146-master-arena-ultimate-pass.json) |
 | Master Bass | 267344 | [267344-master-bass.json](./267344-master-bass.json) |
 | Master Bladesmith | 127219 | [127219-master-bladesmith.json](./127219-master-bladesmith.json) |
 | Master Break | 177553 | [177553-master-break.json](./177553-master-break.json) |
@@ -9872,6 +9875,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Dream Job: Babysitter | 206768 | [206768-my-dream-job-babysitter.json](./206768-my-dream-job-babysitter.json) |
 | My Dream Job: How I Survived Job Hunting in Animation | 178684 | [178684-my-dream-job-how-i-survived-job-hunting-in-animation.json](./178684-my-dream-job-how-i-survived-job-hunting-in-animation.json) |
 | My Dream Setup | 226386 | [226386-my-dream-setup.json](./226386-my-dream-setup.json) |
+| My Dream Setup: Bathroom DLC | 297148 | [297148-my-dream-setup-bathroom-dlc.json](./297148-my-dream-setup-bathroom-dlc.json) |
+| My Dream Setup: Kitchen DLC | 297149 | [297149-my-dream-setup-kitchen-dlc.json](./297149-my-dream-setup-kitchen-dlc.json) |
 | My Dress-Up | 84331 | [84331-my-dress-up.json](./84331-my-dress-up.json) |
 | My Earth | 258489 | [258489-my-earth.json](./258489-my-earth.json) |
 | My Eerie Lair | 373749 | [373749-my-eerie-lair.json](./373749-my-eerie-lair.json) |
@@ -9943,6 +9948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Furry Protogen: 18+ Adult Only Patch | 213447 | [213447-my-furry-protogen-18-adult-only-patch.json](./213447-my-furry-protogen-18-adult-only-patch.json) |
 | My Furry Succubus | 253899 | [253899-my-furry-succubus.json](./253899-my-furry-succubus.json) |
 | My Furry Trainer | 215892 | [215892-my-furry-trainer.json](./215892-my-furry-trainer.json) |
+| My Futa Girlfriend | 297151 | [297151-my-futa-girlfriend.json](./297151-my-futa-girlfriend.json) |
 | My Gambian Boyfriend | 332636 | [332636-my-gambian-boyfriend.json](./332636-my-gambian-boyfriend.json) |
 | My Game About Me: Olympic Challenge | 210674 | [210674-my-game-about-me-olympic-challenge.json](./210674-my-game-about-me-olympic-challenge.json) |
 | My Garage | 162411 | [162411-my-garage.json](./162411-my-garage.json) |
@@ -10039,6 +10045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Horse Stories: Sunny Edition | 308807 | [308807-my-horse-stories-sunny-edition.json](./308807-my-horse-stories-sunny-edition.json) |
 | My Horse Stories: Winter | 300933 | [300933-my-horse-stories-winter.json](./300933-my-horse-stories-winter.json) |
 | My Hospital Town | 299209 | [299209-my-hospital-town.json](./299209-my-hospital-town.json) |
+| My Hot Neighbor Kayla | 297152 | [297152-my-hot-neighbor-kayla.json](./297152-my-hot-neighbor-kayla.json) |
 | My Hotel | 199122 | [199122-my-hotel.json](./199122-my-hotel.json) |
 | My Hotel Romance | 298900 | [298900-my-hotel-romance.json](./298900-my-hotel-romance.json) |
 | My Hotel Simulator | 372559 | [372559-my-hotel-simulator.json](./372559-my-hotel-simulator.json) |
@@ -10070,6 +10077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Lego Network | 321552 | [321552-my-lego-network.json](./321552-my-lego-network.json) |
 | My Leisure Time | 395121 | [395121-my-leisure-time.json](./395121-my-leisure-time.json) |
 | My Lewd Adventure | 341350 | [341350-my-lewd-adventure.json](./341350-my-lewd-adventure.json) |
+| My Lewd OS | 297150 | [297150-my-lewd-os.json](./297150-my-lewd-os.json) |
 | My Liege | 289317 | [289317-my-liege.json](./289317-my-liege.json) |
 | My Life As An Alchemist | 289430 | [289430-my-life-as-an-alchemist.json](./289430-my-life-as-an-alchemist.json) |
 | My Life Changed | 165708 | [165708-my-life-changed.json](./165708-my-life-changed.json) |
@@ -10727,6 +10735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myth Landers | 247617 | [247617-myth-landers.json](./247617-myth-landers.json) |
 | Myth Match | 122267 | [122267-myth-match.json](./122267-myth-match.json) |
 | Myth of Empires | 143628 | [143628-myth-of-empires.json](./143628-myth-of-empires.json) |
+| Myth of Empires: Dongzhou Map | 297155 | [297155-myth-of-empires-dongzhou-map.json](./297155-myth-of-empires-dongzhou-map.json) |
 | Myth of Empires: Hellenic Civilization Pack | 322729 | [322729-myth-of-empires-hellenic-civilization-pack.json](./322729-myth-of-empires-hellenic-civilization-pack.json) |
 | Myth of Empires: Musical Instruments Pack | 293413 | [293413-myth-of-empires-musical-instruments-pack.json](./293413-myth-of-empires-musical-instruments-pack.json) |
 | Myth of Empires: Throne | 396559 | [396559-myth-of-empires-throne.json](./396559-myth-of-empires-throne.json) |
