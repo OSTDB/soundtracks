@@ -3105,6 +3105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Crusher | 104827 | [104827-maze-crusher.json](./104827-maze-crusher.json) |
 | Maze Death Race | 319586 | [319586-maze-death-race.json](./319586-maze-death-race.json) |
 | Maze Defenders | 255734 | [255734-maze-defenders.json](./255734-maze-defenders.json) |
+| Maze Escape | 320813 | [320813-maze-escape.json](./320813-maze-escape.json) |
 | Maze Escape | 345524 | [345524-maze-escape.json](./345524-maze-escape.json) |
 | Maze Estate Escape | 362982 | [362982-maze-estate-escape.json](./362982-maze-estate-escape.json) |
 | Maze Forever | 233249 | [233249-maze-forever.json](./233249-maze-forever.json) |
@@ -9206,6 +9207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multiverse Go | 253897 | [253897-multiverse-go.json](./253897-multiverse-go.json) |
 | Multiverse Idle | 390632 | [390632-multiverse-idle.json](./390632-multiverse-idle.json) |
 | Multiverse Loot Hunter | 292586 | [292586-multiverse-loot-hunter.json](./292586-multiverse-loot-hunter.json) |
+| Multiverse Loot Hunter: Three Kingdoms | 320820 | [320820-multiverse-loot-hunter-three-kingdoms.json](./320820-multiverse-loot-hunter-three-kingdoms.json) |
 | MultiVersus | 182278 | [182278-multiversus.json](./182278-multiversus.json) |
 | MultiVersus: Founder's Pack - Deluxe Edition | 212309 | [212309-multiversus-founders-pack-deluxe-edition.json](./212309-multiversus-founders-pack-deluxe-edition.json) |
 | MultiVersus: Founder's Pack - Premium Edition | 212308 | [212308-multiversus-founders-pack-premium-edition.json](./212308-multiversus-founders-pack-premium-edition.json) |
@@ -9283,7 +9285,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder by Numbers | 123902 | [123902-murder-by-numbers.json](./123902-murder-by-numbers.json) |
 | Murder by the Dozen | 23972 | [23972-murder-by-the-dozen.json](./23972-murder-by-the-dozen.json) |
 | Murder Castle | 405716 | [405716-murder-castle.json](./405716-murder-castle.json) |
+| Murder Club | 320844 | [320844-murder-club.json](./320844-murder-club.json) |
 | Murder Club | 48815 | [48815-murder-club.json](./48815-murder-club.json) |
+| Murder Club DX | 320846 | [320846-murder-club-dx.json](./320846-murder-club-dx.json) |
 | Murder Detective: Jack the Ripper | 114535 | [114535-murder-detective-jack-the-ripper.json](./114535-murder-detective-jack-the-ripper.json) |
 | Murder Diaries | 153948 | [153948-murder-diaries.json](./153948-murder-diaries.json) |
 | Murder Diaries: Ankara | 88185 | [88185-murder-diaries-ankara.json](./88185-murder-diaries-ankara.json) |
