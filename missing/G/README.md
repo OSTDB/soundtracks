@@ -1587,6 +1587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeoMaze | 298344 | [298344-geomaze.json](./298344-geomaze.json) |
 | Geometra - Join the Colors | 255055 | [255055-geometra-join-the-colors.json](./255055-geometra-join-the-colors.json) |
 | Geometric Feel the Beats | 224206 | [224206-geometric-feel-the-beats.json](./224206-geometric-feel-the-beats.json) |
+| Geometric Force Field | 284614 | [284614-geometric-force-field.json](./284614-geometric-force-field.json) |
 | Geometric Link | 269017 | [269017-geometric-link.json](./269017-geometric-link.json) |
 | Geometric Shapes 1: Circleboy | 322584 | [322584-geometric-shapes-1-circleboy.json](./322584-geometric-shapes-1-circleboy.json) |
 | Geometric Sniper | 133424 | [133424-geometric-sniper.json](./133424-geometric-sniper.json) |
