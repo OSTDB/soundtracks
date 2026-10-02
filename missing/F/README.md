@@ -1896,6 +1896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fernageddon | 258196 | [258196-fernageddon.json](./258196-fernageddon.json) |
 | Fernandez Must Die | 12092 | [12092-fernandez-must-die.json](./12092-fernandez-must-die.json) |
 | Fernando Martin Basket Master | 51439 | [51439-fernando-martin-basket-master.json](./51439-fernando-martin-basket-master.json) |
+| Fernbus Coach Simulator: Map Poland | 332014 | [332014-fernbus-coach-simulator-map-poland.json](./332014-fernbus-coach-simulator-map-poland.json) |
 | Fernbus Simulator: Denmark | 254769 | [254769-fernbus-simulator-denmark.json](./254769-fernbus-simulator-denmark.json) |
 | Fernbus Simulator: Interlink HD | 311109 | [311109-fernbus-simulator-interlink-hd.json](./311109-fernbus-simulator-interlink-hd.json) |
 | Fernhoof Grove: Riding Academy | 410336 | [410336-fernhoof-grove-riding-academy.json](./410336-fernhoof-grove-riding-academy.json) |
@@ -2899,6 +2900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firefighters 2014 | 17208 | [17208-firefighters-2014.json](./17208-firefighters-2014.json) |
 | Firefighters Code Red | 410889 | [410889-firefighters-code-red.json](./410889-firefighters-code-red.json) |
 | Firefighters Simulator 2026 | 393626 | [393626-firefighters-simulator-2026.json](./393626-firefighters-simulator-2026.json) |
+| Firefighters Together | 331941 | [331941-firefighters-together.json](./331941-firefighters-together.json) |
 | Firefighters: Airport Fire Department | 71591 | [71591-firefighters-airport-fire-department.json](./71591-firefighters-airport-fire-department.json) |
 | Firefighters: The Simulation | 32042 | [32042-firefighters-the-simulation.json](./32042-firefighters-the-simulation.json) |
 | Firefighters: The Simulation - Platinum Edition | 146129 | [146129-firefighters-the-simulation-platinum-edition.json](./146129-firefighters-the-simulation-platinum-edition.json) |
@@ -6296,6 +6298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Throttle | 46843 | [46843-full-throttle.json](./46843-full-throttle.json) |
 | Full Throttle 2 | 327805 | [327805-full-throttle-2.json](./327805-full-throttle-2.json) |
 | Full Throttle Parking | 388010 | [388010-full-throttle-parking.json](./388010-full-throttle-parking.json) |
+| Full Throttle Pixel Racing | 332015 | [332015-full-throttle-pixel-racing.json](./332015-full-throttle-pixel-racing.json) |
 | Full Throttle Racing | 42594 | [42594-full-throttle-racing.json](./42594-full-throttle-racing.json) |
 | Full Throttle: All-American Racing | 159174 | [159174-full-throttle-all-american-racing.json](./159174-full-throttle-all-american-racing.json) |
 | Full Throttle: Hell on Wheels | 72722 | [72722-full-throttle-hell-on-wheels.json](./72722-full-throttle-hell-on-wheels.json) |
@@ -6408,6 +6411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funko Fusion: Team Fortress 2 Pack | 323394 | [323394-funko-fusion-team-fortress-2-pack.json](./323394-funko-fusion-team-fortress-2-pack.json) |
 | Funko Fusion: The Walking Dead Pack | 323395 | [323395-funko-fusion-the-walking-dead-pack.json](./323395-funko-fusion-the-walking-dead-pack.json) |
 | Funko Fusion: Trap Jaw | 323319 | [323319-funko-fusion-trap-jaw.json](./323319-funko-fusion-trap-jaw.json) |
+| Funko Fusion: Universal Monsters Pack Bundle | 332016 | [332016-funko-fusion-universal-monsters-pack-bundle.json](./332016-funko-fusion-universal-monsters-pack-bundle.json) |
 | Funky Bay - Farm & Adventure | 106356 | [106356-funky-bay-farm-and-adventure.json](./106356-funky-bay-farm-and-adventure.json) |
 | Funky Boxers | 44725 | [44725-funky-boxers.json](./44725-funky-boxers.json) |
 | Funky Fish | 39685 | [39685-funky-fish.json](./39685-funky-fish.json) |
