@@ -1162,6 +1162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Game Maker | 344533 | [344533-action-game-maker.json](./344533-action-game-maker.json) |
 | Action Half-Life | 221840 | [221840-action-half-life.json](./221840-action-half-life.json) |
 | Action Henk | 14550 | [14550-action-henk.json](./14550-action-henk.json) |
+| Action Hero | 313769 | [313769-action-hero.json](./313769-action-hero.json) |
 | Action Hollywood | 46767 | [46767-action-hollywood.json](./46767-action-hollywood.json) |
 | Action in the North Atlantic | 70452 | [70452-action-in-the-north-atlantic.json](./70452-action-in-the-north-atlantic.json) |
 | Action Janken | 404997 | [404997-action-janken.json](./404997-action-janken.json) |
@@ -5136,6 +5137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aoki Gentyouhishi | 45546 | [45546-aoki-gentyouhishi.json](./45546-aoki-gentyouhishi.json) |
 | Aoki Ookami to Shiroki Mejika | 30922 | [30922-aoki-ookami-to-shiroki-mejika.json](./30922-aoki-ookami-to-shiroki-mejika.json) |
 | Aoki Shinjuku | 305866 | [305866-aoki-shinjuku.json](./305866-aoki-shinjuku.json) |
+| AOL Girls Museum | 313758 | [313758-aol-girls-museum.json](./313758-aol-girls-museum.json) |
 | Aonar | 259292 | [259292-aonar.json](./259292-aonar.json) |
 | AonTheVoid Nevaeh | 386916 | [386916-aonthevoid-nevaeh.json](./386916-aonthevoid-nevaeh.json) |
 | Aooni | 307751 | [307751-aooni.json](./307751-aooni.json) |
