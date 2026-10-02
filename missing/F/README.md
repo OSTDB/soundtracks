@@ -627,6 +627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Starborn | 401042 | [401042-fallen-starborn.json](./401042-fallen-starborn.json) |
 | Fallen Threats | 110170 | [110170-fallen-threats.json](./110170-fallen-threats.json) |
 | Fallen, the last light | 164267 | [164267-fallen-the-last-light.json](./164267-fallen-the-last-light.json) |
+| Fallen: Into the Darkness | 326182 | [326182-fallen-into-the-darkness.json](./326182-fallen-into-the-darkness.json) |
 | Fallen: Town of Heritage and Makina the Blazing Hair | 82831 | [82831-fallen-town-of-heritage-and-makina-the-blazing-hair.json](./82831-fallen-town-of-heritage-and-makina-the-blazing-hair.json) |
 | Fallen's Challenge | 285467 | [285467-fallens-challenge.json](./285467-fallens-challenge.json) |
 | FallenCore | 75101 | [75101-fallencore.json](./75101-fallencore.json) |
@@ -3550,6 +3551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flash and Die | 391167 | [391167-flash-and-die.json](./391167-flash-and-die.json) |
 | Flash Cat | 322349 | [322349-flash-cat.json](./322349-flash-cat.json) |
 | Flash Cycle 2 | 286631 | [286631-flash-cycle-2.json](./286631-flash-cycle-2.json) |
+| Flash Doll | 326178 | [326178-flash-doll.json](./326178-flash-doll.json) |
 | Flash Flash Revolution | 62802 | [62802-flash-flash-revolution.json](./62802-flash-flash-revolution.json) |
 | Flash Focus: Vision Training in Minutes a Day | 21912 | [21912-flash-focus-vision-training-in-minutes-a-day.json](./21912-flash-focus-vision-training-in-minutes-a-day.json) |
 | Flash Gordon | 218420 | [218420-flash-gordon.json](./218420-flash-gordon.json) |
