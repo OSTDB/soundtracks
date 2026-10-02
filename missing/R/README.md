@@ -236,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing 2020 | 129204 | [129204-racing-2020.json](./129204-racing-2020.json) |
 | Racing Aces | 5426 | [5426-racing-aces.json](./5426-racing-aces.json) |
 | Racing Beat | 40393 | [40393-racing-beat.json](./40393-racing-beat.json) |
+| Racing Car Chaos: Extreme Stunt Showdown | 308503 | [308503-racing-car-chaos-extreme-stunt-showdown.json](./308503-racing-car-chaos-extreme-stunt-showdown.json) |
 | Racing City | 104588 | [104588-racing-city.json](./104588-racing-city.json) |
 | Racing Clash Club | 174816 | [174816-racing-clash-club.json](./174816-racing-clash-club.json) |
 | Racing Classics Pro: Drag Race & Real Speed | 187476 | [187476-racing-classics-pro-drag-race-and-real-speed.json](./187476-racing-classics-pro-drag-race-and-real-speed.json) |
@@ -888,6 +889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ranch Store Simulator | 333012 | [333012-ranch-store-simulator.json](./333012-ranch-store-simulator.json) |
 | Rancid | 124234 | [124234-rancid.json](./124234-rancid.json) |
 | Rand-O-mazE | 110359 | [110359-rand-o-maze.json](./110359-rand-o-maze.json) |
+| Randal's House | 308467 | [308467-randals-house.json](./308467-randals-house.json) |
 | Randnet Disk | 94725 | [94725-randnet-disk.json](./94725-randnet-disk.json) |
 | Random Acts of Madness | 270173 | [270173-random-acts-of-madness.json](./270173-random-acts-of-madness.json) |
 | Random Coin | 411083 | [411083-random-coin.json](./411083-random-coin.json) |
@@ -5654,6 +5656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Router | 68936 | [68936-router.json](./68936-router.json) |
 | Routes | 112509 | [112509-routes.json](./112509-routes.json) |
 | RouteWhom | 394513 | [394513-routewhom.json](./394513-routewhom.json) |
+| Routine | 308460 | [308460-routine.json](./308460-routine.json) |
 | Routine | 8948 | [8948-routine.json](./8948-routine.json) |
 | Routine Feat | 125052 | [125052-routine-feat.json](./125052-routine-feat.json) |
 | Rouvy | 319175 | [319175-rouvy.json](./319175-rouvy.json) |
