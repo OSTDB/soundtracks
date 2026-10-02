@@ -915,6 +915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Tales: Edgar Allan Poe's The Oval Portrait - Collector's Edition | 370681 | [370681-dark-tales-edgar-allan-poes-the-oval-portrait-collectors-edition.json](./370681-dark-tales-edgar-allan-poes-the-oval-portrait-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Pit and the Pendulum - Collector's Edition | 370679 | [370679-dark-tales-edgar-allan-poes-the-pit-and-the-pendulum-collectors-edition.json](./370679-dark-tales-edgar-allan-poes-the-pit-and-the-pendulum-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Raven - Collector's Edition | 222282 | [222282-dark-tales-edgar-allan-poes-the-raven-collectors-edition.json](./222282-dark-tales-edgar-allan-poes-the-raven-collectors-edition.json) |
+| Dark Tank | 320836 | [320836-dark-tank.json](./320836-dark-tank.json) |
 | Dark Tartarus | 260950 | [260950-dark-tartarus.json](./260950-dark-tartarus.json) |
 | Dark Theme Bundle | 265191 | [265191-dark-theme-bundle.json](./265191-dark-theme-bundle.json) |
 | Dark Throne | 29597 | [29597-dark-throne.json](./29597-dark-throne.json) |
@@ -4722,6 +4723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discharge | 117040 | [117040-discharge.json](./117040-discharge.json) |
 | Dischord | 119001 | [119001-dischord.json](./119001-dischord.json) |
 | Discin | 295797 | [295797-discin.json](./295797-discin.json) |
+| Disciple | 320829 | [320829-disciple.json](./320829-disciple.json) |
 | Disciple | 401667 | [401667-disciple.json](./401667-disciple.json) |
 | Disciples II Mobile | 314309 | [314309-disciples-ii-mobile.json](./314309-disciples-ii-mobile.json) |
 | Disciples II: Dark Prophecy | 6542 | [6542-disciples-ii-dark-prophecy.json](./6542-disciples-ii-dark-prophecy.json) |
@@ -5995,6 +5997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dōngfāng de Chuánshuō zhī Fēngyìn Dǎo | 163214 | [163214-dongfang-de-chuanshuo-zhi-fengyin-dao.json](./163214-dongfang-de-chuanshuo-zhi-fengyin-dao.json) |
 | Dōngfāng Jiànjī zài Xīfāng Lǚxíng de Gùshì | 157212 | [157212-dongfang-jianji-zai-xifang-luxing-de-gushi.json](./157212-dongfang-jianji-zai-xifang-luxing-de-gushi.json) |
 | Dongo Adventure | 90826 | [90826-dongo-adventure.json](./90826-dongo-adventure.json) |
+| Donguri Koen: Jinkou Eisei Head Scissors Whip | 320814 | [320814-donguri-koen-jinkou-eisei-head-scissors-whip.json](./320814-donguri-koen-jinkou-eisei-head-scissors-whip.json) |
 | Donkee's Adventure | 401638 | [401638-donkees-adventure.json](./401638-donkees-adventure.json) |
 | Donkey Ball | 365814 | [365814-donkey-ball.json](./365814-donkey-ball.json) |
 | Donkey BoM | 398315 | [398315-donkey-bom.json](./398315-donkey-bom.json) |
@@ -7216,6 +7219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Spirit | 12055 | [12055-dragon-spirit.json](./12055-dragon-spirit.json) |
 | Dragon Spirits | 127202 | [127202-dragon-spirits.json](./127202-dragon-spirits.json) |
 | Dragon Spirits 2 | 315690 | [315690-dragon-spirits-2.json](./315690-dragon-spirits-2.json) |
+| Dragon Spirits in Fight | 320812 | [320812-dragon-spirits-in-fight.json](./320812-dragon-spirits-in-fight.json) |
 | Dragon Spot | 345046 | [345046-dragon-spot.json](./345046-dragon-spot.json) |
 | Dragon Star Varnir: Complete Deluxe Edition | 186884 | [186884-dragon-star-varnir-complete-deluxe-edition.json](./186884-dragon-star-varnir-complete-deluxe-edition.json) |
 | Dragon Storm Fantasy | 193979 | [193979-dragon-storm-fantasy.json](./193979-dragon-storm-fantasy.json) |
