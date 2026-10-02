@@ -1091,6 +1091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card-en-Ciel: The World of the "Blaster Master Zero Series" | 391867 | [391867-card-en-ciel-the-world-of-the-blaster-master-zero-series.json](./391867-card-en-ciel-the-world-of-the-blaster-master-zero-series.json) |
 | Card'em All! | 346201 | [346201-cardem-all.json](./346201-cardem-all.json) |
 | Card&Casino | 399617 | [399617-card-and-casino.json](./399617-card-and-casino.json) |
+| Cardaire | 319691 | [319691-cardaire.json](./319691-cardaire.json) |
 | Cardaire: Eternal Aces | 378441 | [378441-cardaire-eternal-aces.json](./378441-cardaire-eternal-aces.json) |
 | Cardamom | 361262 | [361262-cardamom.json](./361262-cardamom.json) |
 | Cardangels | 135161 | [135161-cardangels.json](./135161-cardangels.json) |
@@ -2582,6 +2583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chained 2 Violence | 346691 | [346691-chained-2-violence.json](./346691-chained-2-violence.json) |
 | Chained Echoes: Ashes of Elrant | 324936 | [324936-chained-echoes-ashes-of-elrant.json](./324936-chained-echoes-ashes-of-elrant.json) |
 | Chained Horror Experiences | 258980 | [258980-chained-horror-experiences.json](./258980-chained-horror-experiences.json) |
+| Chained in the Backrooms | 319684 | [319684-chained-in-the-backrooms.json](./319684-chained-in-the-backrooms.json) |
 | Chained Runes | 303077 | [303077-chained-runes.json](./303077-chained-runes.json) |
 | Chained Sun | 382293 | [382293-chained-sun.json](./382293-chained-sun.json) |
 | Chained Survive Together | 320375 | [320375-chained-survive-together.json](./320375-chained-survive-together.json) |
@@ -6995,6 +6997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corner Loot | 360003 | [360003-corner-loot.json](./360003-corner-loot.json) |
 | Corneroids | 392409 | [392409-corneroids.json](./392409-corneroids.json) |
 | CornerQuest | 393782 | [393782-cornerquest.json](./393782-cornerquest.json) |
+| CornField | 319697 | [319697-cornfield.json](./319697-cornfield.json) |
 | Cornflake Crisis | 115169 | [115169-cornflake-crisis.json](./115169-cornflake-crisis.json) |
 | Cornhole Hero | 418742 | [418742-cornhole-hero.json](./418742-cornhole-hero.json) |
 | Cornsweeper | 285039 | [285039-cornsweeper.json](./285039-cornsweeper.json) |
@@ -8354,6 +8357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson wind | 284990 | [284990-crimson-wind.json](./284990-crimson-wind.json) |
 | Crimsonland | 253323 | [253323-crimsonland.json](./253323-crimsonland.json) |
 | Crimsonland | 7587 | [7587-crimsonland.json](./7587-crimsonland.json) |
+| Crimsonwood | 319680 | [319680-crimsonwood.json](./319680-crimsonwood.json) |
 | Crimzon Clover | 137065 | [137065-crimzon-clover.json](./137065-crimzon-clover.json) |
 | Crimzon Clover: World EXplosion | 140395 | [140395-crimzon-clover-world-explosion.json](./140395-crimzon-clover-world-explosion.json) |
 | Crimzon Clover: World Ignition | 8763 | [8763-crimzon-clover-world-ignition.json](./8763-crimzon-clover-world-ignition.json) |
@@ -8478,6 +8482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cropple | 243963 | [243963-cropple.json](./243963-cropple.json) |
 | Crops and Conveyors | 189126 | [189126-crops-and-conveyors.json](./189126-crops-and-conveyors.json) |
 | Cropshots | 185009 | [185009-cropshots.json](./185009-cropshots.json) |
+| Croquet Conundrum | 319662 | [319662-croquet-conundrum.json](./319662-croquet-conundrum.json) |
 | Croquet Pro | 111727 | [111727-croquet-pro.json](./111727-croquet-pro.json) |
 | Croquet Pro 2 | 111728 | [111728-croquet-pro-2.json](./111728-croquet-pro-2.json) |
 | Croquettes Gang | 303089 | [303089-croquettes-gang.json](./303089-croquettes-gang.json) |
@@ -9528,6 +9533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CursorLublub | 334207 | [334207-cursorlublub.json](./334207-cursorlublub.json) |
 | Curtain | 159075 | [159075-curtain.json](./159075-curtain.json) |
 | Curtain Call | 197133 | [197133-curtain-call.json](./197133-curtain-call.json) |
+| Curtain Call | 319673 | [319673-curtain-call.json](./319673-curtain-call.json) |
 | Curtain Call | 405046 | [405046-curtain-call.json](./405046-curtain-call.json) |
 | Curtain Drop | 352828 | [352828-curtain-drop.json](./352828-curtain-drop.json) |
 | Curtainfall | 367613 | [367613-curtainfall.json](./367613-curtainfall.json) |
