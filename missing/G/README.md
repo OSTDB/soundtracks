@@ -5000,12 +5000,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guitar Hero II | 2670 | [2670-guitar-hero-ii.json](./2670-guitar-hero-ii.json) |
 | Guitar Hero II: Indonesia 2018 | 293740 | [293740-guitar-hero-ii-indonesia-2018.json](./293740-guitar-hero-ii-indonesia-2018.json) |
 | Guitar Hero III Mobile | 85864 | [85864-guitar-hero-iii-mobile.json](./85864-guitar-hero-iii-mobile.json) |
+| Guitar Hero III Suicide | 310672 | [310672-guitar-hero-iii-suicide.json](./310672-guitar-hero-iii-suicide.json) |
 | Guitar Hero III: Game Hits | 360102 | [360102-guitar-hero-iii-game-hits.json](./360102-guitar-hero-iii-game-hits.json) |
 | Guitar Hero III: ZV K-ON! 10th Anniversary - 2nd Version | 343370 | [343370-guitar-hero-iii-zv-k-on-10th-anniversary-2nd-version.json](./343370-guitar-hero-iii-zv-k-on-10th-anniversary-2nd-version.json) |
 | Guitar Hero Live | 9741 | [9741-guitar-hero-live.json](./9741-guitar-hero-live.json) |
 | Guitar Hero Live: Supreme Party Edition | 136352 | [136352-guitar-hero-live-supreme-party-edition.json](./136352-guitar-hero-live-supreme-party-edition.json) |
 | Guitar Hero World Tour: Definitive Edition | 187448 | [187448-guitar-hero-world-tour-definitive-edition.json](./187448-guitar-hero-world-tour-definitive-edition.json) |
+| Guitar Hero: Avril Lavigne | 310674 | [310674-guitar-hero-avril-lavigne.json](./310674-guitar-hero-avril-lavigne.json) |
+| Guitar Hero: Barões da Pisadinha | 310671 | [310671-guitar-hero-baroes-da-pisadinha.json](./310671-guitar-hero-baroes-da-pisadinha.json) |
 | Guitar Hero: On Tour - Decades | 7089 | [7089-guitar-hero-on-tour-decades.json](./7089-guitar-hero-on-tour-decades.json) |
+| Guitar Hero: Sonic VS Mario | 310673 | [310673-guitar-hero-sonic-vs-mario.json](./310673-guitar-hero-sonic-vs-mario.json) |
 | Guitar Hero: Van Halen | 2675 | [2675-guitar-hero-van-halen.json](./2675-guitar-hero-van-halen.json) |
 | Guitar Hero: Warriors of Rock | 2629 | [2629-guitar-hero-warriors-of-rock.json](./2629-guitar-hero-warriors-of-rock.json) |
 | Guitar Jam | 266894 | [266894-guitar-jam.json](./266894-guitar-jam.json) |
