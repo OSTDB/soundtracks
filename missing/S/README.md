@@ -10358,6 +10358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedway League | 54382 | [54382-speedway-league.json](./54382-speedway-league.json) |
 | Speedway Liga | 67675 | [67675-speedway-liga.json](./67675-speedway-liga.json) |
 | Speedway Ringer | 238627 | [238627-speedway-ringer.json](./238627-speedway-ringer.json) |
+| Speedway Turbo: Car Racing Challenge | 304787 | [304787-speedway-turbo-car-racing-challenge.json](./304787-speedway-turbo-car-racing-challenge.json) |
 | Speedway/Tag | 92529 | [92529-speedway-tag.json](./92529-speedway-tag.json) |
 | Speedy 500 | 303110 | [303110-speedy-500.json](./303110-speedy-500.json) |
 | Speedy Bally | 25873 | [25873-speedy-bally.json](./25873-speedy-bally.json) |
@@ -11075,6 +11076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sport & Fun: Swimming - Platinum Edition | 268547 | [268547-sport-and-fun-swimming-platinum-edition.json](./268547-sport-and-fun-swimming-platinum-edition.json) |
 | Sport & Fun: Swimming - Superb Edition | 288281 | [288281-sport-and-fun-swimming-superb-edition.json](./288281-sport-and-fun-swimming-superb-edition.json) |
 | Sport & Fun: Swimming - Ultimate Edition | 243370 | [243370-sport-and-fun-swimming-ultimate-edition.json](./243370-sport-and-fun-swimming-ultimate-edition.json) |
+| Sport & Fun: Swimming - Ultra Definitive | 304786 | [304786-sport-and-fun-swimming-ultra-definitive.json](./304786-sport-and-fun-swimming-ultra-definitive.json) |
 | Sport & Fun: Swimming - Ultra Deluxe | 288280 | [288280-sport-and-fun-swimming-ultra-deluxe.json](./288280-sport-and-fun-swimming-ultra-deluxe.json) |
 | Sport & Fun: Swimming - Ultra Director's Cut | 328835 | [328835-sport-and-fun-swimming-ultra-directors-cut.json](./328835-sport-and-fun-swimming-ultra-directors-cut.json) |
 | Sport & Fun: Swimming - Ultra Extended | 328834 | [328834-sport-and-fun-swimming-ultra-extended.json](./328834-sport-and-fun-swimming-ultra-extended.json) |
@@ -12335,6 +12337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlink: Battle for Atlas - Digital Edition | 246893 | [246893-starlink-battle-for-atlas-digital-edition.json](./246893-starlink-battle-for-atlas-digital-edition.json) |
 | Starlit Kart Racing | 215153 | [215153-starlit-kart-racing.json](./215153-starlit-kart-racing.json) |
 | Starlit On Wheels: Super Kart | 239614 | [239614-starlit-on-wheels-super-kart.json](./239614-starlit-on-wheels-super-kart.json) |
+| Starlit Stories | 304825 | [304825-starlit-stories.json](./304825-starlit-stories.json) |
 | Starlit World | 400322 | [400322-starlit-world.json](./400322-starlit-world.json) |
 | Starlite | 137057 | [137057-starlite.json](./137057-starlite.json) |
 | Starlite: Astronaut Rescue | 16879 | [16879-starlite-astronaut-rescue.json](./16879-starlite-astronaut-rescue.json) |
