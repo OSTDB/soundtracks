@@ -2109,6 +2109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kizuna Encounter: Super Tag Battle | 380124 | [380124-kizuna-encounter-super-tag-battle.json](./380124-kizuna-encounter-super-tag-battle.json) |
 | Kizuna Kirameku Koi Iroha | 339373 | [339373-kizuna-kirameku-koi-iroha.json](./339373-kizuna-kirameku-koi-iroha.json) |
 | Kizuna Kirameku Koi Iroha | 77659 | [77659-kizuna-kirameku-koi-iroha.json](./77659-kizuna-kirameku-koi-iroha.json) |
+| KKHTA: Security Watch - The Second Part | 285151 | [285151-kkhta-security-watch-the-second-part.json](./285151-kkhta-security-watch-the-second-part.json) |
 | KKND: Krush, Kill 'N' Destroy | 71738 | [71738-kknd-krush-kill-n-destroy.json](./71738-kknd-krush-kill-n-destroy.json) |
 | Kkokko Industry | 371981 | [371981-kkokko-industry.json](./371981-kkokko-industry.json) |
 | KKuTuDotNet | 143754 | [143754-kkutudotnet.json](./143754-kkutudotnet.json) |
