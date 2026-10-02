@@ -220,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zelda's Adventure | 248106 | [248106-zeldas-adventure.json](./248106-zeldas-adventure.json) |
 | Zelda's Birthday | 173087 | [173087-zeldas-birthday.json](./173087-zeldas-birthday.json) |
 | ZeldaBound 64 | 315025 | [315025-zeldabound-64.json](./315025-zeldabound-64.json) |
+| Zeldara's Glitch City | 278629 | [278629-zeldaras-glitch-city.json](./278629-zeldaras-glitch-city.json) |
 | Zeldo's Challenge Ch. 1: Bingo's Revenge | 243618 | [243618-zeldos-challenge-ch-1-bingos-revenge.json](./243618-zeldos-challenge-ch-1-bingos-revenge.json) |
 | Zeldo's Challenge Ch. 2: The Tower of Memories | 243619 | [243619-zeldos-challenge-ch-2-the-tower-of-memories.json](./243619-zeldos-challenge-ch-2-the-tower-of-memories.json) |
 | Zelene Lux: Spirit Notes | 387548 | [387548-zelene-lux-spirit-notes.json](./387548-zelene-lux-spirit-notes.json) |
@@ -987,7 +988,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombocalypse | 345559 | [345559-zombocalypse.json](./345559-zombocalypse.json) |
 | Zombodrive | 192826 | [192826-zombodrive.json](./192826-zombodrive.json) |
 | Zomborg | 75006 | [75006-zomborg.json](./75006-zomborg.json) |
+| Zombotron | 278616 | [278616-zombotron.json](./278616-zombotron.json) |
 | Zombotron | 77488 | [77488-zombotron.json](./77488-zombotron.json) |
+| Zombotron 2 | 278619 | [278619-zombotron-2.json](./278619-zombotron-2.json) |
+| Zombotron 2: Time Machine | 278621 | [278621-zombotron-2-time-machine.json](./278621-zombotron-2-time-machine.json) |
 | Zombotron Re-Boot | 275690 | [275690-zombotron-re-boot.json](./275690-zombotron-re-boot.json) |
 | Zombow | 106131 | [106131-zombow.json](./106131-zombow.json) |
 | Zombreak: The Last Escape | 250970 | [250970-zombreak-the-last-escape.json](./250970-zombreak-the-last-escape.json) |
