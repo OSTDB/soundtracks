@@ -1267,6 +1267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Redneck: Deluxe Edition | 53223 | [53223-immortal-redneck-deluxe-edition.json](./53223-immortal-redneck-deluxe-edition.json) |
 | Immortal Rogue | 113638 | [113638-immortal-rogue.json](./113638-immortal-rogue.json) |
 | Immortal Seeker | 370882 | [370882-immortal-seeker.json](./370882-immortal-seeker.json) |
+| Immortal Snake Nest | 282845 | [282845-immortal-snake-nest.json](./282845-immortal-snake-nest.json) |
 | Immortal Space God | 164893 | [164893-immortal-space-god.json](./164893-immortal-space-god.json) |
 | Immortal Tales of Rebirth | 231852 | [231852-immortal-tales-of-rebirth.json](./231852-immortal-tales-of-rebirth.json) |
 | Immortal Truth | 33087 | [33087-immortal-truth.json](./33087-immortal-truth.json) |
@@ -2839,6 +2840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ioretin | 349848 | [349848-ioretin.json](./349848-ioretin.json) |
 | Iosis | 224634 | [224634-iosis.json](./224634-iosis.json) |
 | IOSoccer | 82994 | [82994-iosoccer.json](./82994-iosoccer.json) |
+| Ipad Baby | 282808 | [282808-ipad-baby.json](./282808-ipad-baby.json) |
 | iPitch | 92081 | [92081-ipitch.json](./92081-ipitch.json) |
 | Ippan Mario | 268193 | [268193-ippan-mario.json](./268193-ippan-mario.json) |
 | Ippan Zaidan Houjin: Nippon Kanji Shuujukudo Kentei Kikou Kounen - Kanjukuken DS | 269585 | [269585-ippan-zaidan-houjin-nippon-kanji-shuujukudo-kentei-kikou-kounen-kanjukuken-ds.json](./269585-ippan-zaidan-houjin-nippon-kanji-shuujukudo-kentei-kikou-kounen-kanjukuken-ds.json) |
