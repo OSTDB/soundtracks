@@ -972,6 +972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bang | 38547 | [38547-bang.json](./38547-bang.json) |
 | Bang 2 Busters | 40189 | [40189-bang-2-busters.json](./40189-bang-2-busters.json) |
 | Bang Bang Ball | 40268 | [40268-bang-bang-ball.json](./40268-bang-bang-ball.json) |
+| Bang Bang Barrage | 313190 | [313190-bang-bang-barrage.json](./313190-bang-bang-barrage.json) |
 | Bang Bang Fruit | 29557 | [29557-bang-bang-fruit.json](./29557-bang-bang-fruit.json) |
 | Bang Bang Fruit 2 | 74373 | [74373-bang-bang-fruit-2.json](./74373-bang-bang-fruit-2.json) |
 | Bang Bang Girls: Moe Panic | 376757 | [376757-bang-bang-girls-moe-panic.json](./376757-bang-bang-girls-moe-panic.json) |
@@ -3691,6 +3692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Watermelon Match | 283295 | [283295-big-watermelon-match.json](./283295-big-watermelon-match.json) |
 | Big Win Football 2019 | 108590 | [108590-big-win-football-2019.json](./108590-big-win-football-2019.json) |
 | Big Yeetus | 260096 | [260096-big-yeetus.json](./260096-big-yeetus.json) |
+| Big-Time Butter Baron | 313178 | [313178-big-time-butter-baron.json](./313178-big-time-butter-baron.json) |
 | Big's Fishing Derby | 129179 | [129179-bigs-fishing-derby.json](./129179-bigs-fishing-derby.json) |
 | Big's Fishing Quest | 329400 | [329400-bigs-fishing-quest.json](./329400-bigs-fishing-quest.json) |
 | BigBang Beat: 1st Impression | 133328 | [133328-bigbang-beat-1st-impression.json](./133328-bigbang-beat-1st-impression.json) |
