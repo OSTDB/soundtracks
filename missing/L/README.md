@@ -1126,6 +1126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn to Add | 92840 | [92840-learn-to-add.json](./92840-learn-to-add.json) |
 | Learn to Play Chess with Fritz & Chesster | 323714 | [323714-learn-to-play-chess-with-fritz-and-chesster.json](./323714-learn-to-play-chess-with-fritz-and-chesster.json) |
 | Learn to Play Chess with Fritz and Chesster 2: Chess in the Black Castle | 77972 | [77972-learn-to-play-chess-with-fritz-and-chesster-2-chess-in-the-black-castle.json](./77972-learn-to-play-chess-with-fritz-and-chesster-2-chess-in-the-black-castle.json) |
+| Learn to Play Vol. 1: Fruit Collect | 293365 | [293365-learn-to-play-vol-1-fruit-collect.json](./293365-learn-to-play-vol-1-fruit-collect.json) |
 | Learn to Play Vol. 3: Mice Love Cheese | 305786 | [305786-learn-to-play-vol-3-mice-love-cheese.json](./305786-learn-to-play-vol-3-mice-love-cheese.json) |
 | Learn to Play Vol. 6: Labyrinth | 317449 | [317449-learn-to-play-vol-6-labyrinth.json](./317449-learn-to-play-vol-6-labyrinth.json) |
 | Learn to Play Vol. 7: Safe Journey | 317450 | [317450-learn-to-play-vol-7-safe-journey.json](./317450-learn-to-play-vol-7-safe-journey.json) |
@@ -3226,6 +3227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living With It | 329394 | [329394-living-with-it.json](./329394-living-with-it.json) |
 | Living with My Bratty Neighbor | 408970 | [408970-living-with-my-bratty-neighbor.json](./408970-living-with-my-bratty-neighbor.json) |
 | Living with My Little Sister | 344529 | [344529-living-with-my-little-sister.json](./344529-living-with-my-little-sister.json) |
+| Living with Temptation: American Sunset | 293877 | [293877-living-with-temptation-american-sunset.json](./293877-living-with-temptation-american-sunset.json) |
 | Living World Racing | 174792 | [174792-living-world-racing.json](./174792-living-world-racing.json) |
 | Living_City | 330830 | [330830-living-city.json](./330830-living-city.json) |
 | LivingForest | 306374 | [306374-livingforest.json](./306374-livingforest.json) |
@@ -4260,6 +4262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love and Betrayal | 195639 | [195639-love-and-betrayal.json](./195639-love-and-betrayal.json) |
 | Love And Death | 414568 | [414568-love-and-death.json](./414568-love-and-death.json) |
 | Love and Demons | 252074 | [252074-love-and-demons.json](./252074-love-and-demons.json) |
+| Love and Demons | 293846 | [293846-love-and-demons.json](./293846-love-and-demons.json) |
 | Love and Formaldehyde | 225266 | [225266-love-and-formaldehyde.json](./225266-love-and-formaldehyde.json) |
 | Love and Guillotines | 195629 | [195629-love-and-guillotines.json](./195629-love-and-guillotines.json) |
 | Love and Hate | 393776 | [393776-love-and-hate.json](./393776-love-and-hate.json) |
