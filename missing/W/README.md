@@ -2156,6 +2156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whirlpool Derby: Grand Crash Auto | 90365 | [90365-whirlpool-derby-grand-crash-auto.json](./90365-whirlpool-derby-grand-crash-auto.json) |
 | Whirlwind of Vietnam | 72714 | [72714-whirlwind-of-vietnam.json](./72714-whirlwind-of-vietnam.json) |
 | Whirlybird | 230852 | [230852-whirlybird.json](./230852-whirlybird.json) |
+| Whiskara | 324954 | [324954-whiskara.json](./324954-whiskara.json) |
 | Whisker Squadron | 145504 | [145504-whisker-squadron.json](./145504-whisker-squadron.json) |
 | Whisker Wanderlust: Unwritten Chapter | 391183 | [391183-whisker-wanderlust-unwritten-chapter.json](./391183-whisker-wanderlust-unwritten-chapter.json) |
 | Whisker Waters | 266497 | [266497-whisker-waters.json](./266497-whisker-waters.json) |
