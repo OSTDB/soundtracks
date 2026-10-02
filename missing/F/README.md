@@ -3521,6 +3521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flag Solitaire + Quiz - A Brain Game | 101051 | [101051-flag-solitaire-quiz-a-brain-game.json](./101051-flag-solitaire-quiz-a-brain-game.json) |
 | Flag Trivia Quiz: Four Choices! | 378803 | [378803-flag-trivia-quiz-four-choices.json](./378803-flag-trivia-quiz-four-choices.json) |
 | Flagdashers | 289871 | [289871-flagdashers.json](./289871-flagdashers.json) |
+| Flagdle | 280456 | [280456-flagdle.json](./280456-flagdle.json) |
 | Flagdoku | 333550 | [333550-flagdoku.json](./333550-flagdoku.json) |
 | Flagged Down | 297076 | [297076-flagged-down.json](./297076-flagged-down.json) |
 | Flaghead | 400219 | [400219-flaghead.json](./400219-flaghead.json) |
