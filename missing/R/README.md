@@ -2673,6 +2673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repton Mania | 94257 | [94257-repton-mania.json](./94257-repton-mania.json) |
 | Republic at War | 377612 | [377612-republic-at-war.json](./377612-republic-at-war.json) |
 | Republic of Jungle | 138655 | [138655-republic-of-jungle.json](./138655-republic-of-jungle.json) |
+| Republic of Pirates | 278603 | [278603-republic-of-pirates.json](./278603-republic-of-pirates.json) |
 | Republic: The Revolution | 10236 | [10236-republic-the-revolution.json](./10236-republic-the-revolution.json) |
 | République | 17719 | [17719-republique.json](./17719-republique.json) |
 | République VR | 159154 | [159154-republique-vr.json](./159154-republique-vr.json) |
