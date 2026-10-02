@@ -715,6 +715,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Egg | 213974 | [213974-dark-egg.json](./213974-dark-egg.json) |
 | Dark Elf | 391806 | [391806-dark-elf.json](./391806-dark-elf.json) |
 | Dark Elf | 51570 | [51570-dark-elf.json](./51570-dark-elf.json) |
+| Dark Elves Escape | 315604 | [315604-dark-elves-escape.json](./315604-dark-elves-escape.json) |
+| Dark Elves Escape 2 | 315606 | [315606-dark-elves-escape-2.json](./315606-dark-elves-escape-2.json) |
 | Dark Energy | 285001 | [285001-dark-energy.json](./285001-dark-energy.json) |
 | Dark Engines | 398416 | [398416-dark-engines.json](./398416-dark-engines.json) |
 | Dark Era | 311596 | [311596-dark-era.json](./311596-dark-era.json) |
@@ -4195,6 +4197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig Dug | 2636 | [2636-dig-dug.json](./2636-dig-dug.json) |
 | Dig Dug Arrangement | 132160 | [132160-dig-dug-arrangement.json](./132160-dig-dug-arrangement.json) |
 | Dig Dug Arrangement | 178410 | [178410-dig-dug-arrangement.json](./178410-dig-dug-arrangement.json) |
+| Dig Dug Island: Minami no Jima no Pukapukapon | 315587 | [315587-dig-dug-island-minami-no-jima-no-pukapukapon.json](./315587-dig-dug-island-minami-no-jima-no-pukapukapon.json) |
 | Dig Dug New Frontier | 350575 | [350575-dig-dug-new-frontier.json](./350575-dig-dug-new-frontier.json) |
 | Dig Dug: Digging Strike | 47729 | [47729-dig-dug-digging-strike.json](./47729-dig-dug-digging-strike.json) |
 | Dig Dungeon: Roguelike | 233498 | [233498-dig-dungeon-roguelike.json](./233498-dig-dungeon-roguelike.json) |
