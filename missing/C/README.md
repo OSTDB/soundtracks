@@ -4123,6 +4123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chungo's Gauntlet | 256900 | [256900-chungos-gauntlet.json](./256900-chungos-gauntlet.json) |
 | Chungus Rampage in Big Forest | 143068 | [143068-chungus-rampage-in-big-forest.json](./143068-chungus-rampage-in-big-forest.json) |
 | Chunithm Luminous | 281381 | [281381-chunithm-luminous.json](./281381-chunithm-luminous.json) |
+| Chunithm Luminous Plus | 309593 | [309593-chunithm-luminous-plus.json](./309593-chunithm-luminous-plus.json) |
 | Chunithm Sun Plus | 269300 | [269300-chunithm-sun-plus.json](./269300-chunithm-sun-plus.json) |
 | Chunithm Verse | 335960 | [335960-chunithm-verse.json](./335960-chunithm-verse.json) |
 | Chunithm X-Verse-X International Version | 397774 | [397774-chunithm-x-verse-x-international-version.json](./397774-chunithm-x-verse-x-international-version.json) |
@@ -8728,6 +8729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown | 12415 | [12415-crown.json](./12415-crown.json) |
 | Crown | 146111 | [146111-crown.json](./146111-crown.json) |
 | Crown & Cauldron | 184921 | [184921-crown-and-cauldron.json](./184921-crown-and-cauldron.json) |
+| Crown and Adventure | 309573 | [309573-crown-and-adventure.json](./309573-crown-and-adventure.json) |
 | Crown and Council | 18977 | [18977-crown-and-council.json](./18977-crown-and-council.json) |
 | Crown Champion: Legends of the Arena | 31349 | [31349-crown-champion-legends-of-the-arena.json](./31349-crown-champion-legends-of-the-arena.json) |
 | Crown Chase | 412268 | [412268-crown-chase.json](./412268-crown-chase.json) |
@@ -9360,6 +9362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult Adorable | 276779 | [276779-cult-adorable.json](./276779-cult-adorable.json) |
 | Cult Game | 362875 | [362875-cult-game.json](./362875-cult-game.json) |
 | Cult II: Federal Crime | 69935 | [69935-cult-ii-federal-crime.json](./69935-cult-ii-federal-crime.json) |
+| Cult Land | 309574 | [309574-cult-land.json](./309574-cult-land.json) |
 | Cult Master: Ultraman ni Miserarete | 60529 | [60529-cult-master-ultraman-ni-miserarete.json](./60529-cult-master-ultraman-ni-miserarete.json) |
 | Cult Nation | 388360 | [388360-cult-nation.json](./388360-cult-nation.json) |
 | Cult Of Blood | 319965 | [319965-cult-of-blood.json](./319965-cult-of-blood.json) |
