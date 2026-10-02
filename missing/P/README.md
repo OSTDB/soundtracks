@@ -1103,6 +1103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Files: The Trap of Truth - Collector's Edition | 370900 | [370900-paranormal-files-the-trap-of-truth-collectors-edition.json](./370900-paranormal-files-the-trap-of-truth-collectors-edition.json) |
 | Paranormal Files: Trials of Worth - Collector's Edition | 272950 | [272950-paranormal-files-trials-of-worth-collectors-edition.json](./272950-paranormal-files-trials-of-worth-collectors-edition.json) |
 | Paranormal Motel | 193401 | [193401-paranormal-motel.json](./193401-paranormal-motel.json) |
+| Paranormal Mutagens: Cargo | 329209 | [329209-paranormal-mutagens-cargo.json](./329209-paranormal-mutagens-cargo.json) |
 | Paranormal Night Shift | 328009 | [328009-paranormal-night-shift.json](./328009-paranormal-night-shift.json) |
 | Paranormal Observation | 220622 | [220622-paranormal-observation.json](./220622-paranormal-observation.json) |
 | Paranormal Place | 304660 | [304660-paranormal-place.json](./304660-paranormal-place.json) |
@@ -1249,6 +1250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkitect: Deluxe Edition | 192311 | [192311-parkitect-deluxe-edition.json](./192311-parkitect-deluxe-edition.json) |
 | Parkour Annovation: Unreal Edition | 243952 | [243952-parkour-annovation-unreal-edition.json](./243952-parkour-annovation-unreal-edition.json) |
 | Parkour Arcade | 104623 | [104623-parkour-arcade.json](./104623-parkour-arcade.json) |
+| Parkour Assassin: Sprint Run | 329205 | [329205-parkour-assassin-sprint-run.json](./329205-parkour-assassin-sprint-run.json) |
 | Parkour Assassin: Sprint Run 2 | 391037 | [391037-parkour-assassin-sprint-run-2.json](./391037-parkour-assassin-sprint-run-2.json) |
 | Parkour Block 3D | 334838 | [334838-parkour-block-3d.json](./334838-parkour-block-3d.json) |
 | Parkour Chief: Chapter Secret Agent | 341595 | [341595-parkour-chief-chapter-secret-agent.json](./341595-parkour-chief-chapter-secret-agent.json) |
@@ -2162,6 +2164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Percy Penguin | 128467 | [128467-percy-penguin.json](./128467-percy-penguin.json) |
 | Percy's Last Stand | 118403 | [118403-percys-last-stand.json](./118403-percys-last-stand.json) |
 | Perdition | 121580 | [121580-perdition.json](./121580-perdition.json) |
+| Perdition's Gate Resurgence | 329215 | [329215-perditions-gate-resurgence.json](./329215-perditions-gate-resurgence.json) |
 | Pereelous | 347710 | [347710-pereelous.json](./347710-pereelous.json) |
 | Peregrin | 29934 | [29934-peregrin.json](./29934-peregrin.json) |
 | Perennial Order | 149935 | [149935-perennial-order.json](./149935-perennial-order.json) |
@@ -2719,6 +2722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Philosoma | 20638 | [20638-philosoma.json](./20638-philosoma.json) |
 | Philosopher's Quest | 13746 | [13746-philosophers-quest.json](./13746-philosophers-quest.json) |
 | Philosopher's Stone | 205087 | [205087-philosophers-stone.json](./205087-philosophers-stone.json) |
+| Philosopher's Stone | 329047 | [329047-philosophers-stone.json](./329047-philosophers-stone.json) |
 | Philosophic Love | 105126 | [105126-philosophic-love.json](./105126-philosophic-love.json) |
 | Philosophical Jigsaw: The Zen Koans | 202647 | [202647-philosophical-jigsaw-the-zen-koans.json](./202647-philosophical-jigsaw-the-zen-koans.json) |
 | Philotes Trials | 244717 | [244717-philotes-trials.json](./244717-philotes-trials.json) |
