@@ -797,6 +797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verse Surf | 141800 | [141800-verse-surf.json](./141800-verse-surf.json) |
 | Verses | 359524 | [359524-verses.json](./359524-verses.json) |
 | Verses of Enchantment | 211982 | [211982-verses-of-enchantment.json](./211982-verses-of-enchantment.json) |
+| Verses of Hope | 313199 | [313199-verses-of-hope.json](./313199-verses-of-hope.json) |
 | Version Fille | 125947 | [125947-version-fille.json](./125947-version-fille.json) |
 | Version Three: Invisible Raid | 258035 | [258035-version-three-invisible-raid.json](./258035-version-three-invisible-raid.json) |
 | Versus in the Dark | 325021 | [325021-versus-in-the-dark.json](./325021-versus-in-the-dark.json) |
