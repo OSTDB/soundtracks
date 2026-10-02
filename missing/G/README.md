@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GAI Stops Auto: Right Version Simulator | 157125 | [157125-gai-stops-auto-right-version-simulator.json](./157125-gai-stops-auto-right-version-simulator.json) |
 | Gaia 2200 | 50530 | [50530-gaia-2200.json](./50530-gaia-2200.json) |
 | Gaia Attack 4 | 64962 | [64962-gaia-attack-4.json](./64962-gaia-attack-4.json) |
+| Gaia Aura | 327266 | [327266-gaia-aura.json](./327266-gaia-aura.json) |
 | Gaia Crusaders | 39550 | [39550-gaia-crusaders.json](./39550-gaia-crusaders.json) |
 | Gaia Eternal | 56175 | [56175-gaia-eternal.json](./56175-gaia-eternal.json) |
 | Gaia Master Duel Card Attacks | 79384 | [79384-gaia-master-duel-card-attacks.json](./79384-gaia-master-duel-card-attacks.json) |
