@@ -2034,6 +2034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pencak Silat 1.2 | 323943 | [323943-pencak-silat-1-2.json](./323943-pencak-silat-1-2.json) |
 | Pencak Silat 2.1 | 323944 | [323944-pencak-silat-2-1.json](./323944-pencak-silat-2-1.json) |
 | Pencil Case TD | 211155 | [211155-pencil-case-td.json](./211155-pencil-case-td.json) |
+| Pencil Fantastic | 286776 | [286776-pencil-fantastic.json](./286776-pencil-fantastic.json) |
 | Pencil Marks | 365144 | [365144-pencil-marks.json](./365144-pencil-marks.json) |
 | Pencil Peril | 176356 | [176356-pencil-peril.json](./176356-pencil-peril.json) |
 | Pencil Plus: The Wrath of The Spankster | 242245 | [242245-pencil-plus-the-wrath-of-the-spankster.json](./242245-pencil-plus-the-wrath-of-the-spankster.json) |
@@ -2139,6 +2140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pent's Wacky, Zany Road Trip to Adulthood | 412953 | [412953-pents-wacky-zany-road-trip-to-adulthood.json](./412953-pents-wacky-zany-road-trip-to-adulthood.json) |
 | Pent's Zacky, Zany Road Trip to Adulthood | 326611 | [326611-pents-zacky-zany-road-trip-to-adulthood.json](./326611-pents-zacky-zany-road-trip-to-adulthood.json) |
 | Penta Terra | 297180 | [297180-penta-terra.json](./297180-penta-terra.json) |
+| Pentaball | 286766 | [286766-pentaball.json](./286766-pentaball.json) |
 | PentaBlox | 188581 | [188581-pentablox.json](./188581-pentablox.json) |
 | Pentacore | 211187 | [211187-pentacore.json](./211187-pentacore.json) |
 | Pentacorn Quest | 360117 | [360117-pentacorn-quest.json](./360117-pentacorn-quest.json) |
@@ -4863,6 +4865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playdate Season 1 | 398519 | [398519-playdate-season-1.json](./398519-playdate-season-1.json) |
 | Playdate Season 3 | 398535 | [398535-playdate-season-3.json](./398535-playdate-season-3.json) |
 | Player 9 | 132095 | [132095-player-9.json](./132095-player-9.json) |
+| Player Goes Jump | 286785 | [286785-player-goes-jump.json](./286785-player-goes-jump.json) |
 | Player Manager 2001 | 50025 | [50025-player-manager-2001.json](./50025-player-manager-2001.json) |
 | Player's Eleven | 129230 | [129230-players-eleven.json](./129230-players-eleven.json) |
 | PlayerONeGame | 90357 | [90357-playeronegame.json](./90357-playeronegame.json) |
