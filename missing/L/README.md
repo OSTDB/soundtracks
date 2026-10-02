@@ -90,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Ultima Comida | 153427 | [153427-la-ultima-comida.json](./153427-la-ultima-comida.json) |
 | La Vie en Rose | 183071 | [183071-la-vie-en-rose.json](./183071-la-vie-en-rose.json) |
 | La Vie La Rue | 199617 | [199617-la-vie-la-rue.json](./199617-la-vie-la-rue.json) |
+| La Voix | 286217 | [286217-la-voix.json](./286217-la-voix.json) |
 | La Voz | 268435 | [268435-la-voz.json](./268435-la-voz.json) |
 | La Voz Vol. 2 | 268436 | [268436-la-voz-vol-2.json](./268436-la-voz-vol-2.json) |
 | La Voz Vol. 3 | 268437 | [268437-la-voz-vol-3.json](./268437-la-voz-vol-3.json) |
@@ -2691,6 +2692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linear Doom | 217795 | [217795-linear-doom.json](./217795-linear-doom.json) |
 | Linear S | 349331 | [349331-linear-s.json](./349331-linear-s.json) |
 | LinearShooter Remixed | 186327 | [186327-linearshooter-remixed.json](./186327-linearshooter-remixed.json) |
+| LineArt Jigsaw Puzzle: Airplanes | 286239 | [286239-lineart-jigsaw-puzzle-airplanes.json](./286239-lineart-jigsaw-puzzle-airplanes.json) |
 | Linebound | 403778 | [403778-linebound.json](./403778-linebound.json) |
 | Linecook | 179198 | [179198-linecook.json](./179198-linecook.json) |
 | Linehot Putin: All Stars | 116855 | [116855-linehot-putin-all-stars.json](./116855-linehot-putin-all-stars.json) |
@@ -4161,6 +4163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Player | 185103 | [185103-lost-player.json](./185103-lost-player.json) |
 | Lost Portal CCG | 87592 | [87592-lost-portal-ccg.json](./87592-lost-portal-ccg.json) |
 | Lost Princess | 266775 | [266775-lost-princess.json](./266775-lost-princess.json) |
+| Lost Princess: City | 286229 | [286229-lost-princess-city.json](./286229-lost-princess-city.json) |
 | Lost Prototype | 356643 | [356643-lost-prototype.json](./356643-lost-prototype.json) |
 | Lost Pyramid | 236818 | [236818-lost-pyramid.json](./236818-lost-pyramid.json) |
 | Lost Qubixle | 175257 | [175257-lost-qubixle.json](./175257-lost-qubixle.json) |
@@ -4669,6 +4672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Penguin | 141104 | [141104-lucky-penguin.json](./141104-lucky-penguin.json) |
 | Lucky Penguin | 312232 | [312232-lucky-penguin.json](./312232-lucky-penguin.json) |
 | Lucky Pikinini: Zombie Rampage | 325870 | [325870-lucky-pikinini-zombie-rampage.json](./325870-lucky-pikinini-zombie-rampage.json) |
+| Lucky Pirate Deck | 286219 | [286219-lucky-pirate-deck.json](./286219-lucky-pirate-deck.json) |
 | Lucky Pirates | 346066 | [346066-lucky-pirates.json](./346066-lucky-pirates.json) |
 | Lucky Punk | 402372 | [402372-lucky-punk.json](./402372-lucky-punk.json) |
 | Lucky Pyramid Solitaire | 87295 | [87295-lucky-pyramid-solitaire.json](./87295-lucky-pyramid-solitaire.json) |
