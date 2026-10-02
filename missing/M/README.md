@@ -5485,6 +5485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Mysteries: Salem Witch Trials - Collector's Edition | 94888 | [94888-midnight-mysteries-salem-witch-trials-collectors-edition.json](./94888-midnight-mysteries-salem-witch-trials-collectors-edition.json) |
 | Midnight Mysteries: The Edgar Allan Poe Conspiracy | 10549 | [10549-midnight-mysteries-the-edgar-allan-poe-conspiracy.json](./10549-midnight-mysteries-the-edgar-allan-poe-conspiracy.json) |
 | Midnight Mysteries: Witches of Abraham - Collector's Edition | 36150 | [36150-midnight-mysteries-witches-of-abraham-collectors-edition.json](./36150-midnight-mysteries-witches-of-abraham-collectors-edition.json) |
+| Midnight Myths | 307195 | [307195-midnight-myths.json](./307195-midnight-myths.json) |
 | Midnight Ohota | 156551 | [156551-midnight-ohota.json](./156551-midnight-ohota.json) |
 | Midnight on the Milky Way | 161175 | [161175-midnight-on-the-milky-way.json](./161175-midnight-on-the-milky-way.json) |
 | Midnight Postman | 342907 | [342907-midnight-postman.json](./342907-midnight-postman.json) |
@@ -6873,6 +6874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mizu no Senritsu 2: Hi no Kioku | 67305 | [67305-mizu-no-senritsu-2-hi-no-kioku.json](./67305-mizu-no-senritsu-2-hi-no-kioku.json) |
 | Mizu no Senritsu: Kyousoukyoku | 220578 | [220578-mizu-no-senritsu-kyousoukyoku.json](./220578-mizu-no-senritsu-kyousoukyoku.json) |
 | Mizuiro no Chizu | 77680 | [77680-mizuiro-no-chizu.json](./77680-mizuiro-no-chizu.json) |
+| Mizuki and the Crimson Moon | 307212 | [307212-mizuki-and-the-crimson-moon.json](./307212-mizuki-and-the-crimson-moon.json) |
 | Mizuki Shigeru no Yokai Butou-den | 60593 | [60593-mizuki-shigeru-no-yokai-butou-den.json](./60593-mizuki-shigeru-no-yokai-butou-den.json) |
 | Mizuki Shigeru no Yokai Hyakki Yakou | 37924 | [37924-mizuki-shigeru-no-yokai-hyakki-yakou.json](./37924-mizuki-shigeru-no-yokai-hyakki-yakou.json) |
 | Mizuki Shigeru no Yokai Shashinkan | 43963 | [43963-mizuki-shigeru-no-yokai-shashinkan.json](./43963-mizuki-shigeru-no-yokai-shashinkan.json) |
@@ -8002,6 +8004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moo Who? | 414543 | [414543-moo-who.json](./414543-moo-who.json) |
 | Mood Bye | 319550 | [319550-mood-bye.json](./319550-mood-bye.json) |
 | Moogle Cavern: The Online RPG | 332646 | [332646-moogle-cavern-the-online-rpg.json](./332646-moogle-cavern-the-online-rpg.json) |
+| Mooh | 307214 | [307214-mooh.json](./307214-mooh.json) |
 | MookerzZ | 252377 | [252377-mookerzz.json](./252377-mookerzz.json) |
 | Mooky Takes Manhattan! | 261306 | [261306-mooky-takes-manhattan.json](./261306-mooky-takes-manhattan.json) |
 | Moomin Midsummer Madness | 404859 | [404859-moomin-midsummer-madness.json](./404859-moomin-midsummer-madness.json) |
