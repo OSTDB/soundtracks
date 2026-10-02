@@ -4529,6 +4529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopping Clutter 5: Christmas Poetree | 223139 | [223139-shopping-clutter-5-christmas-poetree.json](./223139-shopping-clutter-5-christmas-poetree.json) |
 | Shopping Clutter 6: Love Is in the Air | 231314 | [231314-shopping-clutter-6-love-is-in-the-air.json](./231314-shopping-clutter-6-love-is-in-the-air.json) |
 | Shopping Clutter: The Best Playground | 200580 | [200580-shopping-clutter-the-best-playground.json](./200580-shopping-clutter-the-best-playground.json) |
+| Shopping Fever | 330812 | [330812-shopping-fever.json](./330812-shopping-fever.json) |
 | Shopping in a Winter Zombieland | 276174 | [276174-shopping-in-a-winter-zombieland.json](./276174-shopping-in-a-winter-zombieland.json) |
 | Shopping Mall Girl | 86826 | [86826-shopping-mall-girl.json](./86826-shopping-mall-girl.json) |
 | Shopping Mall Girl: Sunny Edition | 356819 | [356819-shopping-mall-girl-sunny-edition.json](./356819-shopping-mall-girl-sunny-edition.json) |
@@ -8267,6 +8268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic 3: D.A. Garden Edition | 296108 | [296108-sonic-3-d-a-garden-edition.json](./296108-sonic-3-d-a-garden-edition.json) |
 | Sonic 3000 | 265226 | [265226-sonic-3000.json](./265226-sonic-3000.json) |
 | Sonic 360º | 326799 | [326799-sonic-360o.json](./326799-sonic-360o.json) |
+| Sonic 3D | 330796 | [330796-sonic-3d.json](./330796-sonic-3d.json) |
 | Sonic 3D Blast | 202967 | [202967-sonic-3d-blast.json](./202967-sonic-3d-blast.json) |
 | Sonic 3D Blast: Director's Cut | 129174 | [129174-sonic-3d-blast-directors-cut.json](./129174-sonic-3d-blast-directors-cut.json) |
 | Sonic 3D Snowboarding | 302958 | [302958-sonic-3d-snowboarding.json](./302958-sonic-3d-snowboarding.json) |
@@ -8596,6 +8598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Surfer | 251645 | [251645-sonic-surfer.json](./251645-sonic-surfer.json) |
 | Sonic Surge: Rhythm Showdown | 333913 | [333913-sonic-surge-rhythm-showdown.json](./333913-sonic-surge-rhythm-showdown.json) |
 | Sonic Switch | 325840 | [325840-sonic-switch.json](./325840-sonic-switch.json) |
+| Sonic Team Arena | 330964 | [330964-sonic-team-arena.json](./330964-sonic-team-arena.json) |
 | Sonic Tennis DX | 261295 | [261295-sonic-tennis-dx.json](./261295-sonic-tennis-dx.json) |
 | Sonic Test Labs | 265209 | [265209-sonic-test-labs.json](./265209-sonic-test-labs.json) |
 | Sonic the Fighters 2 | 331300 | [331300-sonic-the-fighters-2.json](./331300-sonic-the-fighters-2.json) |
@@ -8648,6 +8651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog Turbo | 331708 | [331708-sonic-the-hedgehog-turbo.json](./331708-sonic-the-hedgehog-turbo.json) |
 | Sonic the Hedgehog TX | 336381 | [336381-sonic-the-hedgehog-tx.json](./336381-sonic-the-hedgehog-tx.json) |
 | Sonic the Hedgehog Vol.2 | 198533 | [198533-sonic-the-hedgehog-vol-2.json](./198533-sonic-the-hedgehog-vol-2.json) |
+| Sonic the Hedgehog: Chaos Factor | 330963 | [330963-sonic-the-hedgehog-chaos-factor.json](./330963-sonic-the-hedgehog-chaos-factor.json) |
 | Sonic the Hedgehog: Chaos Spirits | 331396 | [331396-sonic-the-hedgehog-chaos-spirits.json](./331396-sonic-the-hedgehog-chaos-spirits.json) |
 | Sonic the Hedgehog: Character Pak | 198542 | [198542-sonic-the-hedgehog-character-pak.json](./198542-sonic-the-hedgehog-character-pak.json) |
 | Sonic the Hedgehog: Egg on Toast Edition | 129183 | [129183-sonic-the-hedgehog-egg-on-toast-edition.json](./129183-sonic-the-hedgehog-egg-on-toast-edition.json) |
@@ -8695,6 +8699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Winter Adventures | 256303 | [256303-sonic-winter-adventures.json](./256303-sonic-winter-adventures.json) |
 | Sonic With a Gun | 331977 | [331977-sonic-with-a-gun.json](./331977-sonic-with-a-gun.json) |
 | Sonic World | 239068 | [239068-sonic-world.json](./239068-sonic-world.json) |
+| Sonic World 4: Ashura's Menace | 330959 | [330959-sonic-world-4-ashuras-menace.json](./330959-sonic-world-4-ashuras-menace.json) |
 | Sonic World Doom | 352876 | [352876-sonic-world-doom.json](./352876-sonic-world-doom.json) |
 | Sonic World Remix | 332618 | [332618-sonic-world-remix.json](./332618-sonic-world-remix.json) |
 | Sonic X | 54549 | [54549-sonic-x.json](./54549-sonic-x.json) |
@@ -12439,6 +12444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Static | 94914 | [94914-static.json](./94914-static.json) |
 | Static Cling | 182519 | [182519-static-cling.json](./182519-static-cling.json) |
 | Static Condition | 393102 | [393102-static-condition.json](./393102-static-condition.json) |
+| Static Dread: The Lighthouse | 330815 | [330815-static-dread-the-lighthouse.json](./330815-static-dread-the-lighthouse.json) |
 | Static Dread: The Submarine | 376689 | [376689-static-dread-the-submarine.json](./376689-static-dread-the-submarine.json) |
 | Static Hour | 415918 | [415918-static-hour.json](./415918-static-hour.json) |
 | Static Shift Racing | 231894 | [231894-static-shift-racing.json](./231894-static-shift-racing.json) |
@@ -14980,6 +14986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dungeon Run | 34942 | [34942-super-dungeon-run.json](./34942-super-dungeon-run.json) |
 | Super Dunkman | 134700 | [134700-super-dunkman.json](./134700-super-dunkman.json) |
 | Super Duper Flying Genocide 2017 | 34004 | [34004-super-duper-flying-genocide-2017.json](./34004-super-duper-flying-genocide-2017.json) |
+| Super Duper Multitasking | 330972 | [330972-super-duper-multitasking.json](./330972-super-duper-multitasking.json) |
 | Super Duper Party Pooper | 19680 | [19680-super-duper-party-pooper.json](./19680-super-duper-party-pooper.json) |
 | Super Durak | 174336 | [174336-super-durak.json](./174336-super-durak.json) |
 | Super Dynamite Fishing | 61126 | [61126-super-dynamite-fishing.json](./61126-super-dynamite-fishing.json) |
@@ -16256,6 +16263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superheroes Fast Highway Racing Challenges | 100869 | [100869-superheroes-fast-highway-racing-challenges.json](./100869-superheroes-fast-highway-racing-challenges.json) |
 | Superheroes: Power of New Horizons Legacy | 324124 | [324124-superheroes-power-of-new-horizons-legacy.json](./324124-superheroes-power-of-new-horizons-legacy.json) |
 | Superhot Prototype | 18119 | [18119-superhot-prototype.json](./18119-superhot-prototype.json) |
+| Superhuman | 330798 | [330798-superhuman.json](./330798-superhuman.json) |
 | SuperHyperCube | 20332 | [20332-superhypercube.json](./20332-superhypercube.json) |
 | Superior IQ | 369637 | [369637-superior-iq.json](./369637-superior-iq.json) |
 | Superior Wizards | 110134 | [110134-superior-wizards.json](./110134-superior-wizards.json) |
