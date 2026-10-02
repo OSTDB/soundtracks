@@ -4492,6 +4492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shop Heroes Legends: Idle RPG | 233118 | [233118-shop-heroes-legends-idle-rpg.json](./233118-shop-heroes-legends-idle-rpg.json) |
 | Shop Is Done | 260388 | [260388-shop-is-done.json](./260388-shop-is-done.json) |
 | Shop it Up! | 377253 | [377253-shop-it-up.json](./377253-shop-it-up.json) |
+| Shop Life Simulator | 333697 | [333697-shop-life-simulator.json](./333697-shop-life-simulator.json) |
 | Shop Mistress NTR | 379891 | [379891-shop-mistress-ntr.json](./379891-shop-mistress-ntr.json) |
 | Shop of Forgotten Memories | 298883 | [298883-shop-of-forgotten-memories.json](./298883-shop-of-forgotten-memories.json) |
 | Shop Simulator: Supermarket | 320721 | [320721-shop-simulator-supermarket.json](./320721-shop-simulator-supermarket.json) |
@@ -6580,6 +6581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slimey Champions | 166770 | [166770-slimey-champions.json](./166770-slimey-champions.json) |
 | Slimey Climbey Chambers | 314462 | [314462-slimey-climbey-chambers.json](./314462-slimey-climbey-chambers.json) |
 | Slimey, Jump! | 144787 | [144787-slimey-jump.json](./144787-slimey-jump.json) |
+| Slimg | 333696 | [333696-slimg.json](./333696-slimg.json) |
 | Slimoid | 185608 | [185608-slimoid.json](./185608-slimoid.json) |
 | Slimper | 403079 | [403079-slimper.json](./403079-slimper.json) |
 | Slimy | 181321 | [181321-slimy.json](./181321-slimy.json) |
@@ -7724,6 +7726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokama | 318532 | [318532-sokama.json](./318532-sokama.json) |
 | Sokfest | 240314 | [240314-sokfest.json](./240314-sokfest.json) |
 | Sokko Seitokai: Sonic Council | 165073 | [165073-sokko-seitokai-sonic-council.json](./165073-sokko-seitokai-sonic-council.json) |
+| Soko Banana | 333712 | [333712-soko-banana.json](./333712-soko-banana.json) |
 | Soko Loco | 129576 | [129576-soko-loco.json](./129576-soko-loco.json) |
 | Soko Loco Deluxe | 115328 | [115328-soko-loco-deluxe.json](./115328-soko-loco-deluxe.json) |
 | Soko Spectacle | 334258 | [334258-soko-spectacle.json](./334258-soko-spectacle.json) |
@@ -7781,6 +7784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sol Moonarge | 85809 | [85809-sol-moonarge.json](./85809-sol-moonarge.json) |
 | Sol Protocol | 380566 | [380566-sol-protocol.json](./380566-sol-protocol.json) |
 | Sol Raiders | 188554 | [188554-sol-raiders.json](./188554-sol-raiders.json) |
+| Sol Rush Misadventure | 333710 | [333710-sol-rush-misadventure.json](./333710-sol-rush-misadventure.json) |
 | Sol Sestancia | 310592 | [310592-sol-sestancia.json](./310592-sol-sestancia.json) |
 | Sol Source Online | 26718 | [26718-sol-source-online.json](./26718-sol-source-online.json) |
 | Sol Standard | 184412 | [184412-sol-standard.json](./184412-sol-standard.json) |
@@ -8234,6 +8238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic 1 Easy Mode | 270220 | [270220-sonic-1-easy-mode.json](./270220-sonic-1-easy-mode.json) |
 | Sonic 1 Pilot | 337708 | [337708-sonic-1-pilot.json](./337708-sonic-1-pilot.json) |
 | Sonic 1 Spike Bug Fix & Spindash | 198532 | [198532-sonic-1-spike-bug-fix-and-spindash.json](./198532-sonic-1-spike-bug-fix-and-spindash.json) |
+| Sonic 1: Alt Reality | 333783 | [333783-sonic-1-alt-reality.json](./333783-sonic-1-alt-reality.json) |
 | Sonic 1: South Island Expedition | 215157 | [215157-sonic-1-south-island-expedition.json](./215157-sonic-1-south-island-expedition.json) |
 | Sonic 1: WTF Lame | 323859 | [323859-sonic-1-wtf-lame.json](./323859-sonic-1-wtf-lame.json) |
 | Sonic 2 Dimps Edition | 136920 | [136920-sonic-2-dimps-edition.json](./136920-sonic-2-dimps-edition.json) |
@@ -8241,6 +8246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic 2 Megamix | 136921 | [136921-sonic-2-megamix.json](./136921-sonic-2-megamix.json) |
 | Sonic 2 SMS Remake | 227799 | [227799-sonic-2-sms-remake.json](./227799-sonic-2-sms-remake.json) |
 | Sonic 2: Chaos Adventure | 333957 | [333957-sonic-2-chaos-adventure.json](./333957-sonic-2-chaos-adventure.json) |
+| Sonic 2.5 | 333711 | [333711-sonic-2-5.json](./333711-sonic-2-5.json) |
 | Sonic 2006 | 310952 | [310952-sonic-2006.json](./310952-sonic-2006.json) |
 | Sonic 2006 2D | 352302 | [352302-sonic-2006-2d.json](./352302-sonic-2006-2d.json) |
 | Sonic 2011 | 301380 | [301380-sonic-2011.json](./301380-sonic-2011.json) |
@@ -8260,6 +8266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic 3D: No Flickies | 198547 | [198547-sonic-3d-no-flickies.json](./198547-sonic-3d-no-flickies.json) |
 | Sonic 3D40 vs. Counterfeit | 330873 | [330873-sonic-3d40-vs-counterfeit.json](./330873-sonic-3d40-vs-counterfeit.json) |
 | Sonic Action | 331313 | [331313-sonic-action.json](./331313-sonic-action.json) |
+| Sonic Action | 333781 | [333781-sonic-action.json](./333781-sonic-action.json) |
 | Sonic Action 4 Pack | 136876 | [136876-sonic-action-4-pack.json](./136876-sonic-action-4-pack.json) |
 | Sonic Advance 2 | 6598 | [6598-sonic-advance-2.json](./6598-sonic-advance-2.json) |
 | Sonic Advance 3 SP | 402975 | [402975-sonic-advance-3-sp.json](./402975-sonic-advance-3-sp.json) |
@@ -8268,6 +8275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Adventure | 7860 | [7860-sonic-adventure.json](./7860-sonic-adventure.json) |
 | Sonic Adventure 2 | 7858 | [7858-sonic-adventure-2.json](./7858-sonic-adventure-2.json) |
 | Sonic Adventure 2: Battle | 7862 | [7862-sonic-adventure-2-battle.json](./7862-sonic-adventure-2-battle.json) |
+| Sonic Adventure 2: Super Hard Mode | 333695 | [333695-sonic-adventure-2-super-hard-mode.json](./333695-sonic-adventure-2-super-hard-mode.json) |
 | Sonic Adventure DS | 336362 | [336362-sonic-adventure-ds.json](./336362-sonic-adventure-ds.json) |
 | Sonic Adventure DX: Director's Cut | 23695 | [23695-sonic-adventure-dx-directors-cut.json](./23695-sonic-adventure-dx-directors-cut.json) |
 | Sonic Adventure Emerald | 330304 | [330304-sonic-adventure-emerald.json](./330304-sonic-adventure-emerald.json) |
@@ -8447,6 +8455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Medley | 326999 | [326999-sonic-medley.json](./326999-sonic-medley.json) |
 | Sonic Mega Collection | 4157 | [4157-sonic-mega-collection.json](./4157-sonic-mega-collection.json) |
 | Sonic Melee 2: The Forbidden Fate | 330301 | [330301-sonic-melee-2-the-forbidden-fate.json](./330301-sonic-melee-2-the-forbidden-fate.json) |
+| Sonic Metal Memories | 333799 | [333799-sonic-metal-memories.json](./333799-sonic-metal-memories.json) |
 | Sonic Meteor | 331718 | [331718-sonic-meteor.json](./331718-sonic-meteor.json) |
 | Sonic Mode: Exciter | 330282 | [330282-sonic-mode-exciter.json](./330282-sonic-mode-exciter.json) |
 | Sonic Mode: Recoil | 330357 | [330357-sonic-mode-recoil.json](./330357-sonic-mode-recoil.json) |
@@ -8689,6 +8698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic: After the Sequel | 19722 | [19722-sonic-after-the-sequel.json](./19722-sonic-after-the-sequel.json) |
 | Sonic: Before the Sequel | 19723 | [19723-sonic-before-the-sequel.json](./19723-sonic-before-the-sequel.json) |
 | Sonic: Before the Sequel - Redux | 266508 | [266508-sonic-before-the-sequel-redux.json](./266508-sonic-before-the-sequel-redux.json) |
+| Sonic: Dark Abyss | 333709 | [333709-sonic-dark-abyss.json](./333709-sonic-dark-abyss.json) |
 | Sonic: Dark Horizon | 330822 | [330822-sonic-dark-horizon.json](./330822-sonic-dark-horizon.json) |
 | Sonic: Death Days | 331711 | [331711-sonic-death-days.json](./331711-sonic-death-days.json) |
 | Sonic: Dream Plant | 313324 | [313324-sonic-dream-plant.json](./313324-sonic-dream-plant.json) |
@@ -11124,6 +11134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spyro: Year of the Dragon | 1578 | [1578-spyro-year-of-the-dragon.json](./1578-spyro-year-of-the-dragon.json) |
 | Spyyn | 372101 | [372101-spyyn.json](./372101-spyyn.json) |
 | Sqdef | 194297 | [194297-sqdef.json](./194297-sqdef.json) |
+| SQR | 333793 | [333793-sqr.json](./333793-sqr.json) |
 | Sqr 3 | 334766 | [334766-sqr-3.json](./334766-sqr-3.json) |
 | Sqroma | 186020 | [186020-sqroma.json](./186020-sqroma.json) |
 | SQRZ | 360212 | [360212-sqrz.json](./360212-sqrz.json) |
@@ -13040,6 +13051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stock Car Extreme | 16966 | [16966-stock-car-extreme.json](./16966-stock-car-extreme.json) |
 | Stock Car Racing | 217978 | [217978-stock-car-racing.json](./217978-stock-car-racing.json) |
 | Stock Car USA | 408152 | [408152-stock-car-usa.json](./408152-stock-car-usa.json) |
+| Stock Market Tycoon: Challenge | 333703 | [333703-stock-market-tycoon-challenge.json](./333703-stock-market-tycoon-challenge.json) |
 | Stock Market: The Game | 78732 | [78732-stock-market-the-game.json](./78732-stock-market-the-game.json) |
 | Stock the Shelves | 357369 | [357369-stock-the-shelves.json](./357369-stock-the-shelves.json) |
 | Stock: Retail investors | 295542 | [295542-stock-retail-investors.json](./295542-stock-retail-investors.json) |
@@ -13834,6 +13846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Students' Horrible Stories: FIN | 147417 | [147417-students-horrible-stories-fin.json](./147417-students-horrible-stories-fin.json) |
 | Studio 100 Speeleiland | 130913 | [130913-studio-100-speeleiland.json](./130913-studio-100-speeleiland.json) |
 | Studio Sim: The Painting Game | 410942 | [410942-studio-sim-the-painting-game.json](./410942-studio-sim-the-painting-game.json) |
+| Studium | 333708 | [333708-studium.json](./333708-studium.json) |
 | Study Arcade | 367497 | [367497-study-arcade.json](./367497-study-arcade.json) |
 | Study Time Anomaly | 369597 | [369597-study-time-anomaly.json](./369597-study-time-anomaly.json) |
 | Stuff'd | 228472 | [228472-stuffd.json](./228472-stuffd.json) |
@@ -15238,6 +15251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mansion | 72695 | [72695-super-mansion.json](./72695-super-mansion.json) |
 | Super Marathon | 72986 | [72986-super-marathon.json](./72986-super-marathon.json) |
 | Super Marine | 234929 | [234929-super-marine.json](./234929-super-marine.json) |
+| Super Mario /v/orld 2: Moot Point | 333702 | [333702-super-mario-v-orld-2-moot-point.json](./333702-super-mario-v-orld-2-moot-point.json) |
 | Super Mario & Sonic | 262087 | [262087-super-mario-and-sonic.json](./262087-super-mario-and-sonic.json) |
 | Super Mario & The Rainbow Stars | 307658 | [307658-super-mario-and-the-rainbow-stars.json](./307658-super-mario-and-the-rainbow-stars.json) |
 | Super Mario 14 | 134517 | [134517-super-mario-14.json](./134517-super-mario-14.json) |
@@ -15586,6 +15600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Metroid: Y-Faster | 304133 | [304133-super-metroid-y-faster.json](./304133-super-metroid-y-faster.json) |
 | Super Miaoyin | 343816 | [343816-super-miaoyin.json](./343816-super-miaoyin.json) |
 | Super Minecraft 64 DS | 270381 | [270381-super-minecraft-64-ds.json](./270381-super-minecraft-64-ds.json) |
+| Super Miners | 333792 | [333792-super-miners.json](./333792-super-miners.json) |
 | Super MineSweeper | 309683 | [309683-super-minesweeper.json](./309683-super-minesweeper.json) |
 | Super Mini Mart | 204530 | [204530-super-mini-mart.json](./204530-super-mini-mart.json) |
 | Super Mining Mechs: Toxic Treasures | 340567 | [340567-super-mining-mechs-toxic-treasures.json](./340567-super-mining-mechs-toxic-treasures.json) |
@@ -17016,6 +17031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swinger-Man | 123548 | [123548-swinger-man.json](./123548-swinger-man.json) |
 | Swingers | 283718 | [283718-swingers.json](./283718-swingers.json) |
 | SwingHard | 310010 | [310010-swinghard.json](./310010-swinghard.json) |
+| Swingin' | 333700 | [333700-swingin.json](./333700-swingin.json) |
 | Swingin' Beats | 338204 | [338204-swingin-beats.json](./338204-swingin-beats.json) |
 | Swinging Over It with Alin Lucian | 116415 | [116415-swinging-over-it-with-alin-lucian.json](./116415-swinging-over-it-with-alin-lucian.json) |
 | Swingmania | 304039 | [304039-swingmania.json](./304039-swingmania.json) |
@@ -17304,6 +17320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syncers | 368473 | [368473-syncers.json](./368473-syncers.json) |
 | Synchro | 296994 | [296994-synchro.json](./296994-synchro.json) |
 | Synchro Hedgehogs Bundle | 218466 | [218466-synchro-hedgehogs-bundle.json](./218466-synchro-hedgehogs-bundle.json) |
+| Synchrobeatings | 333707 | [333707-synchrobeatings.json](./333707-synchrobeatings.json) |
 | Synchrom | 34710 | [34710-synchrom.json](./34710-synchrom.json) |
 | Synchronicity | 223400 | [223400-synchronicity.json](./223400-synchronicity.json) |
 | Synchronity | 381116 | [381116-synchronity.json](./381116-synchronity.json) |
