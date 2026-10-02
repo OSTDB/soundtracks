@@ -843,6 +843,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eisenwald: Blood of November | 25607 | [25607-eisenwald-blood-of-november.json](./25607-eisenwald-blood-of-november.json) |
 | Either Eye | 389442 | [389442-either-eye.json](./389442-either-eye.json) |
 | Eiyuden Chronicle: Hundred Heroes - Digital Deluxe Edition | 267962 | [267962-eiyuden-chronicle-hundred-heroes-digital-deluxe-edition.json](./267962-eiyuden-chronicle-hundred-heroes-digital-deluxe-edition.json) |
+| Eiyuden Chronicle: Hundred Heroes - Hope of the Alliance: Special HQ Statue | 323249 | [323249-eiyuden-chronicle-hundred-heroes-hope-of-the-alliance-special-hq-statue.json](./323249-eiyuden-chronicle-hundred-heroes-hope-of-the-alliance-special-hq-statue.json) |
+| Eiyuden Chronicle: Hundred Heroes - Pioneer Pack | 323251 | [323251-eiyuden-chronicle-hundred-heroes-pioneer-pack.json](./323251-eiyuden-chronicle-hundred-heroes-pioneer-pack.json) |
 | Eiyuden Chronicle: Hundred Heroes - The Chapter of Marisa | 332517 | [332517-eiyuden-chronicle-hundred-heroes-the-chapter-of-marisa.json](./332517-eiyuden-chronicle-hundred-heroes-the-chapter-of-marisa.json) |
 | Eiyuden Chronicle: Hundred Heroes - The Chapter of Markus | 332518 | [332518-eiyuden-chronicle-hundred-heroes-the-chapter-of-markus.json](./332518-eiyuden-chronicle-hundred-heroes-the-chapter-of-markus.json) |
 | Eiyuden Chronicle: Hundred Heroes - The Chapter of Seign | 332519 | [332519-eiyuden-chronicle-hundred-heroes-the-chapter-of-seign.json](./332519-eiyuden-chronicle-hundred-heroes-the-chapter-of-seign.json) |
@@ -1360,6 +1362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Embers of the Gods | 403648 | [403648-embers-of-the-gods.json](./403648-embers-of-the-gods.json) |
 | Embers of the Night | 348863 | [348863-embers-of-the-night.json](./348863-embers-of-the-night.json) |
 | Embers of the Zombie Battlemage: Halloween | 211755 | [211755-embers-of-the-zombie-battlemage-halloween.json](./211755-embers-of-the-zombie-battlemage-halloween.json) |
+| Embershade | 323259 | [323259-embershade.json](./323259-embershade.json) |
 | EmberStride | 374137 | [374137-emberstride.json](./374137-emberstride.json) |
 | Embervale.TV | 239577 | [239577-embervale-tv.json](./239577-embervale-tv.json) |
 | Emberwake | 320530 | [320530-emberwake.json](./320530-emberwake.json) |
