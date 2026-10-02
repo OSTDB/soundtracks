@@ -2306,6 +2306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batya | 126638 | [126638-batya.json](./126638-batya.json) |
 | Bauer | 189133 | [189133-bauer.json](./189133-bauer.json) |
 | Bauhaus | 260788 | [260788-bauhaus.json](./260788-bauhaus.json) |
+| Bauhaus Bonk | 314394 | [314394-bauhaus-bonk.json](./314394-bauhaus-bonk.json) |
 | Baumaschinen: Die Simulation | 136378 | [136378-baumaschinen-die-simulation.json](./136378-baumaschinen-die-simulation.json) |
 | Bavity | 188919 | [188919-bavity.json](./188919-bavity.json) |
 | Baxter's Venture | 62677 | [62677-baxters-venture.json](./62677-baxters-venture.json) |
@@ -3210,6 +3211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berserker: A Viking Board Game | 213203 | [213203-berserker-a-viking-board-game.json](./213203-berserker-a-viking-board-game.json) |
 | Berserker's Descent | 145433 | [145433-berserkers-descent.json](./145433-berserkers-descent.json) |
 | Berserker's Domain | 350024 | [350024-berserkers-domain.json](./350024-berserkers-domain.json) |
+| Bertha Butt's Boogie | 314367 | [314367-bertha-butts-boogie.json](./314367-bertha-butts-boogie.json) |
 | Bertie the Stableboy | 265410 | [265410-bertie-the-stableboy.json](./265410-bertie-the-stableboy.json) |
 | Berty the Giraffe | 344391 | [344391-berty-the-giraffe.json](./344391-berty-the-giraffe.json) |
 | Berusky | 135275 | [135275-berusky.json](./135275-berusky.json) |
