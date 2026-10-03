@@ -521,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EcoDriver | 233527 | [233527-ecodriver.json](./233527-ecodriver.json) |
 | EcoGenesis | 292745 | [292745-ecogenesis.json](./292745-ecogenesis.json) |
 | EcoL tactics | 112312 | [112312-ecol-tactics.json](./112312-ecol-tactics.json) |
+| EcoMahjong | 247652 | [247652-ecomahjong.json](./247652-ecomahjong.json) |
 | ECON | 112470 | [112470-econ.json](./112470-econ.json) |
 | Econia: Crypto Idle Tycoon! | 232376 | [232376-econia-crypto-idle-tycoon.json](./232376-econia-crypto-idle-tycoon.json) |
 | Economic War | 202701 | [202701-economic-war.json](./202701-economic-war.json) |
