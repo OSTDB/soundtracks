@@ -1762,6 +1762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom vs Zombies | 133204 | [133204-kingdom-vs-zombies.json](./133204-kingdom-vs-zombies.json) |
 | Kingdom Warriors | 58240 | [58240-kingdom-warriors.json](./58240-kingdom-warriors.json) |
 | Kingdom Wars | 374769 | [374769-kingdom-wars.json](./374769-kingdom-wars.json) |
+| Kingdom Wars 4: Sultans & Kings | 248821 | [248821-kingdom-wars-4-sultans-and-kings.json](./248821-kingdom-wars-4-sultans-and-kings.json) |
 | Kingdom Winds | 224031 | [224031-kingdom-winds.json](./224031-kingdom-winds.json) |
 | Kingdom: Classic | 13686 | [13686-kingdom-classic.json](./13686-kingdom-classic.json) |
 | Kingdom: Flames of War | 372051 | [372051-kingdom-flames-of-war.json](./372051-kingdom-flames-of-war.json) |
