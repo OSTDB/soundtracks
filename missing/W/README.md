@@ -3243,6 +3243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch's Reign | 153858 | [153858-witchs-reign.json](./153858-witchs-reign.json) |
 | Witch's Tower | 355199 | [355199-witchs-tower.json](./355199-witchs-tower.json) |
 | Witch's Weapon | 196331 | [196331-witchs-weapon.json](./196331-witchs-weapon.json) |
+| Witcharoo | 271423 | [271423-witcharoo.json](./271423-witcharoo.json) |
 | Witchaven I & II Bundle | 159696 | [159696-witchaven-i-and-ii-bundle.json](./159696-witchaven-i-and-ii-bundle.json) |
 | Witchaven II: Blood Vengeance | 8688 | [8688-witchaven-ii-blood-vengeance.json](./8688-witchaven-ii-blood-vengeance.json) |
 | Witchball | 81788 | [81788-witchball.json](./81788-witchball.json) |
