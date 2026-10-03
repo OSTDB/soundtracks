@@ -3074,6 +3074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chase: Hollywood Stunt Driver | 5774 | [5774-chase-hollywood-stunt-driver.json](./5774-chase-hollywood-stunt-driver.json) |
 | Chased | 221684 | [221684-chased.json](./221684-chased.json) |
 | Chased Around the World | 211963 | [211963-chased-around-the-world.json](./211963-chased-around-the-world.json) |
+| Chaser | 242694 | [242694-chaser.json](./242694-chaser.json) |
 | Chaser | 380072 | [380072-chaser.json](./380072-chaser.json) |
 | Chaseway | 179586 | [179586-chaseway.json](./179586-chaseway.json) |
 | Chasing Aurora | 20882 | [20882-chasing-aurora.json](./20882-chasing-aurora.json) |
@@ -3860,6 +3861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chonkymon | 149035 | [149035-chonkymon.json](./149035-chonkymon.json) |
 | Choo Choo Crossing | 278722 | [278722-choo-choo-crossing.json](./278722-choo-choo-crossing.json) |
 | Choo Choo Minder | 252988 | [252988-choo-choo-minder.json](./252988-choo-choo-minder.json) |
+| Choo Choo Survivor | 242622 | [242622-choo-choo-survivor.json](./242622-choo-choo-survivor.json) |
 | Chook & Sosig: Walk the Plank | 113014 | [113014-chook-and-sosig-walk-the-plank.json](./113014-chook-and-sosig-walk-the-plank.json) |
 | Choose a Mech | 395896 | [395896-choose-a-mech.json](./395896-choose-a-mech.json) |
 | Choose an Enemy | 93051 | [93051-choose-an-enemy.json](./93051-choose-an-enemy.json) |
@@ -6225,6 +6227,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Mission Fortress Italy: Rome to Victory | 266384 | [266384-combat-mission-fortress-italy-rome-to-victory.json](./266384-combat-mission-fortress-italy-rome-to-victory.json) |
 | Combat Mission Shock Force 2 | 138217 | [138217-combat-mission-shock-force-2.json](./138217-combat-mission-shock-force-2.json) |
 | Combat Mission Shock Force: Marines | 21263 | [21263-combat-mission-shock-force-marines.json](./21263-combat-mission-shock-force-marines.json) |
+| Combat Mission: Battle for Normandy - Battle Pack 1 | 242618 | [242618-combat-mission-battle-for-normandy-battle-pack-1.json](./242618-combat-mission-battle-for-normandy-battle-pack-1.json) |
+| Combat Mission: Battle for Normandy - Commonwealth Forces | 242616 | [242616-combat-mission-battle-for-normandy-commonwealth-forces.json](./242616-combat-mission-battle-for-normandy-commonwealth-forces.json) |
+| Combat Mission: Battle for Normandy - Market Garden | 242619 | [242619-combat-mission-battle-for-normandy-market-garden.json](./242619-combat-mission-battle-for-normandy-market-garden.json) |
+| Combat Mission: Battle for Normandy - Vehicle Pack | 242617 | [242617-combat-mission-battle-for-normandy-vehicle-pack.json](./242617-combat-mission-battle-for-normandy-vehicle-pack.json) |
 | Combat Mission: Beyond Overlord | 646 | [646-combat-mission-beyond-overlord.json](./646-combat-mission-beyond-overlord.json) |
 | Combat Mission: Black Sea | 77292 | [77292-combat-mission-black-sea.json](./77292-combat-mission-black-sea.json) |
 | Combat Mission: Final Blitzkrieg - Downfall | 288220 | [288220-combat-mission-final-blitzkrieg-downfall.json](./288220-combat-mission-final-blitzkrieg-downfall.json) |
@@ -6994,6 +7000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contraption Maker: Mighty Knights Parts & Puzzles Pack | 263215 | [263215-contraption-maker-mighty-knights-parts-and-puzzles-pack.json](./263215-contraption-maker-mighty-knights-parts-and-puzzles-pack.json) |
 | Contraption Zack | 24864 | [24864-contraption-zack.json](./24864-contraption-zack.json) |
 | Contraptions | 120824 | [120824-contraptions.json](./120824-contraptions.json) |
+| Contraptions 2 | 242598 | [242598-contraptions-2.json](./242598-contraptions-2.json) |
 | Contraptions Collection | 282051 | [282051-contraptions-collection.json](./282051-contraptions-collection.json) |
 | Contrast | 383509 | [383509-contrast.json](./383509-contrast.json) |
 | Contrasted | 99782 | [99782-contrasted.json](./99782-contrasted.json) |
@@ -7274,6 +7281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core of Innocence | 201127 | [201127-core-of-innocence.json](./201127-core-of-innocence.json) |
 | Core Panic! | 416669 | [416669-core-panic.json](./416669-core-panic.json) |
 | Core Runners | 417486 | [417486-core-runners.json](./417486-core-runners.json) |
+| Core-Blast | 242605 | [242605-core-blast.json](./242605-core-blast.json) |
 | Core: Licht | 204969 | [204969-core-licht.json](./204969-core-licht.json) |
 | Core.Sys | 351094 | [351094-core-sys.json](./351094-core-sys.json) |
 | Corecraft | 307107 | [307107-corecraft.json](./307107-corecraft.json) |
@@ -8607,6 +8615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Boss: Rockay City - Cracker Character Pack | 334292 | [334292-crime-boss-rockay-city-cracker-character-pack.json](./334292-crime-boss-rockay-city-cracker-character-pack.json) |
 | Crime Boss: Rockay City - Tactical Weapon Pack | 315501 | [315501-crime-boss-rockay-city-tactical-weapon-pack.json](./315501-crime-boss-rockay-city-tactical-weapon-pack.json) |
 | Crime Busters | 48320 | [48320-crime-busters.json](./48320-crime-busters.json) |
+| Crime Busters: Strike Area | 242590 | [242590-crime-busters-strike-area.json](./242590-crime-busters-strike-area.json) |
 | Crime Cities | 7872 | [7872-crime-cities.json](./7872-crime-cities.json) |
 | Crime City | 312643 | [312643-crime-city.json](./312643-crime-city.json) |
 | Crime Coast - Mob versus Mafia | 87665 | [87665-crime-coast-mob-versus-mafia.json](./87665-crime-coast-mob-versus-mafia.json) |
