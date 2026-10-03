@@ -208,6 +208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean Patrol | 249138 | [249138-ocean-patrol.json](./249138-ocean-patrol.json) |
 | Ocean Planet | 301811 | [301811-ocean-planet.json](./301811-ocean-planet.json) |
 | Ocean Playground | 341496 | [341496-ocean-playground.json](./341496-ocean-playground.json) |
+| Ocean Pressure | 269214 | [269214-ocean-pressure.json](./269214-ocean-pressure.json) |
 | Ocean Protector | 264104 | [264104-ocean-protector.json](./264104-ocean-protector.json) |
 | Ocean Racer | 354583 | [354583-ocean-racer.json](./354583-ocean-racer.json) |
 | Ocean Raft Simulator & Survival | 380706 | [380706-ocean-raft-simulator-and-survival.json](./380706-ocean-raft-simulator-and-survival.json) |
@@ -750,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old World Blues | 321740 | [321740-old-world-blues.json](./321740-old-world-blues.json) |
 | Old World: Empires of the Indus | 400418 | [400418-old-world-empires-of-the-indus.json](./400418-old-world-empires-of-the-indus.json) |
 | Old World: Heroes of the Aegean | 199580 | [199580-old-world-heroes-of-the-aegean.json](./199580-old-world-heroes-of-the-aegean.json) |
+| Old World: Pharaohs of the Nile | 269215 | [269215-old-world-pharaohs-of-the-nile.json](./269215-old-world-pharaohs-of-the-nile.json) |
 | Oldage | 72353 | [72353-oldage.json](./72353-oldage.json) |
 | OldBerserker | 180760 | [180760-oldberserker.json](./180760-oldberserker.json) |
 | Oldentide | 57892 | [57892-oldentide.json](./57892-oldentide.json) |
@@ -2340,6 +2342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otter Island | 290109 | [290109-otter-island.json](./290109-otter-island.json) |
 | Otter Ocean | 242786 | [242786-otter-ocean.json](./242786-otter-ocean.json) |
 | Otter of My Life | 104662 | [104662-otter-of-my-life.json](./104662-otter-of-my-life.json) |
+| Otter Turmoil | 269216 | [269216-otter-turmoil.json](./269216-otter-turmoil.json) |
 | Otter Yakuza | 369113 | [369113-otter-yakuza.json](./369113-otter-yakuza.json) |
 | OtterBash | 50524 | [50524-otterbash.json](./50524-otterbash.json) |
 | Otteretto | 229048 | [229048-otteretto.json](./229048-otteretto.json) |
