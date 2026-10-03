@@ -6861,6 +6861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boss Up | 365056 | [365056-boss-up.json](./365056-boss-up.json) |
 | Boss, Blind, Brandy | 349989 | [349989-boss-blind-brandy.json](./349989-boss-blind-brandy.json) |
 | Boss! | 60766 | [60766-boss.json](./60766-boss.json) |
+| Bosses | 235821 | [235821-bosses.json](./235821-bosses.json) |
 | Bossfight Tactics | 346141 | [346141-bossfight-tactics.json](./346141-bossfight-tactics.json) |
 | Bossleft | 408913 | [408913-bossleft.json](./408913-bossleft.json) |
 | Bostilda | 39882 | [39882-bostilda.json](./39882-bostilda.json) |
@@ -8239,6 +8240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bruxa Luna | 280859 | [280859-bruxa-luna.json](./280859-bruxa-luna.json) |
 | Bruxólico | 251700 | [251700-bruxolico.json](./251700-bruxolico.json) |
 | BrVR: Backrooms Virtual Reality | 199583 | [199583-brvr-backrooms-virtual-reality.json](./199583-brvr-backrooms-virtual-reality.json) |
+| Brxken Inside | 235890 | [235890-brxken-inside.json](./235890-brxken-inside.json) |
 | Bryan's Indie Collection | 355577 | [355577-bryans-indie-collection.json](./355577-bryans-indie-collection.json) |
 | BS Bokujou Monogatari | 134429 | [134429-bs-bokujou-monogatari.json](./134429-bs-bokujou-monogatari.json) |
 | BS Dragon Quest | 134416 | [134416-bs-dragon-quest.json](./134416-bs-dragon-quest.json) |
