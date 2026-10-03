@@ -558,6 +558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eddie Hill in the Curse of the Skull Medallion | 146167 | [146167-eddie-hill-in-the-curse-of-the-skull-medallion.json](./146167-eddie-hill-in-the-curse-of-the-skull-medallion.json) |
 | Eddie’s Last Shift | 414537 | [414537-eddie-s-last-shift.json](./414537-eddie-s-last-shift.json) |
 | Eddie's World | 250037 | [250037-eddies-world.json](./250037-eddies-world.json) |
+| Edegard: Puqq | 244833 | [244833-edegard-puqq.json](./244833-edegard-puqq.json) |
 | EdelSuche | 265233 | [265233-edelsuche.json](./265233-edelsuche.json) |
 | Edelweiss Knights | 386867 | [386867-edelweiss-knights.json](./386867-edelweiss-knights.json) |
 | Edemn: Cyborg Skeleton | 249718 | [249718-edemn-cyborg-skeleton.json](./249718-edemn-cyborg-skeleton.json) |
@@ -3798,6 +3799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exoder | 98767 | [98767-exoder.json](./98767-exoder.json) |
 | Exodos | 297069 | [297069-exodos.json](./297069-exodos.json) |
 | Exodus | 212237 | [212237-exodus.json](./212237-exodus.json) |
+| Exodus | 244831 | [244831-exodus.json](./244831-exodus.json) |
 | Exodus | 279621 | [279621-exodus.json](./279621-exodus.json) |
 | Exodus | 379592 | [379592-exodus.json](./379592-exodus.json) |
 | Exodus | 388931 | [388931-exodus.json](./388931-exodus.json) |
