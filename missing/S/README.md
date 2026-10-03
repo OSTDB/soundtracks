@@ -637,6 +637,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SameGame - Shapes | 86069 | [86069-samegame-shapes.json](./86069-samegame-shapes.json) |
 | SameGame Fighter | 64436 | [64436-samegame-fighter.json](./64436-samegame-fighter.json) |
 | SameGame HD | 64432 | [64432-samegame-hd.json](./64432-samegame-hd.json) |
+| SameGame: Character Cassette | 234780 | [234780-samegame-character-cassette.json](./234780-samegame-character-cassette.json) |
+| SameGame: Character Data - Tengai Makyou | 234779 | [234779-samegame-character-data-tengai-makyou.json](./234779-samegame-character-data-tengai-makyou.json) |
 | SameShadow: Fernando's Journey | 272241 | [272241-sameshadow-fernandos-journey.json](./272241-sameshadow-fernandos-journey.json) |
 | Samgugji: Paewang | 368040 | [368040-samgugji-paewang.json](./368040-samgugji-paewang.json) |
 | Samhain | 125269 | [125269-samhain.json](./125269-samhain.json) |
@@ -1987,7 +1989,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam G Generation: Gather Beat 2 | 37321 | [37321-sd-gundam-g-generation-gather-beat-2.json](./37321-sd-gundam-g-generation-gather-beat-2.json) |
 | SD Gundam G Generation: Mono-Eye Gundams | 37320 | [37320-sd-gundam-g-generation-mono-eye-gundams.json](./37320-sd-gundam-g-generation-mono-eye-gundams.json) |
 | SD Gundam G Next | 38324 | [38324-sd-gundam-g-next.json](./38324-sd-gundam-g-next.json) |
+| SD Gundam G Next Taiou: Unit & Map Data | 234761 | [234761-sd-gundam-g-next-taiou-unit-and-map-data.json](./234761-sd-gundam-g-next-taiou-unit-and-map-data.json) |
 | SD Gundam G Next: Tsuika Unit Map Data | 234760 | [234760-sd-gundam-g-next-tsuika-unit-map-data.json](./234760-sd-gundam-g-next-tsuika-unit-map-data.json) |
+| SD Gundam G Next: Unit & Map Collection | 234772 | [234772-sd-gundam-g-next-unit-and-map-collection.json](./234772-sd-gundam-g-next-unit-and-map-collection.json) |
 | SD Gundam Gaiden IV: Hikari no Knight Densetsu | 385788 | [385788-sd-gundam-gaiden-iv-hikari-no-knight-densetsu.json](./385788-sd-gundam-gaiden-iv-hikari-no-knight-densetsu.json) |
 | SD Gundam Gaiden: Knight Gundam Monogatari | 38326 | [38326-sd-gundam-gaiden-knight-gundam-monogatari.json](./38326-sd-gundam-gaiden-knight-gundam-monogatari.json) |
 | SD Gundam Gaiden: Knight Gundam Monogatari 2 - Hikari no Knight | 48854 | [48854-sd-gundam-gaiden-knight-gundam-monogatari-2-hikari-no-knight.json](./48854-sd-gundam-gaiden-knight-gundam-monogatari-2-hikari-no-knight.json) |
@@ -2363,6 +2367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets Agent | 136440 | [136440-secrets-agent.json](./136440-secrets-agent.json) |
 | Secrets by Episode | 332434 | [332434-secrets-by-episode.json](./332434-secrets-by-episode.json) |
 | Secrets of a Campfire | 156072 | [156072-secrets-of-a-campfire.json](./156072-secrets-of-a-campfire.json) |
+| Secrets of Ailzylia | 234680 | [234680-secrets-of-ailzylia.json](./234680-secrets-of-ailzylia.json) |
 | Secrets of Blinck Island | 397077 | [397077-secrets-of-blinck-island.json](./397077-secrets-of-blinck-island.json) |
 | Secrets of Deep Earth Shrine | 33282 | [33282-secrets-of-deep-earth-shrine.json](./33282-secrets-of-deep-earth-shrine.json) |
 | Secrets of Grindea | 8436 | [8436-secrets-of-grindea.json](./8436-secrets-of-grindea.json) |
