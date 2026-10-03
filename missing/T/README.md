@@ -3736,6 +3736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cloudberry Abyss | 402998 | [402998-the-cloudberry-abyss.json](./402998-the-cloudberry-abyss.json) |
 | The Clown | 260975 | [260975-the-clown.json](./260975-the-clown.json) |
 | The Clown's Forest 2: Waking Shadows | 244362 | [244362-the-clowns-forest-2-waking-shadows.json](./244362-the-clowns-forest-2-waking-shadows.json) |
+| The Clown's Forest 3: Haunting Apparitions | 271906 | [271906-the-clowns-forest-3-haunting-apparitions.json](./271906-the-clowns-forest-3-haunting-apparitions.json) |
 | The Club | 6940 | [6940-the-club.json](./6940-the-club.json) |
 | The Clutch: Remastered | 186864 | [186864-the-clutch-remastered.json](./186864-the-clutch-remastered.json) |
 | The Coagula Contest | 271497 | [271497-the-coagula-contest.json](./271497-the-coagula-contest.json) |
@@ -13593,6 +13594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Babel: No Mercy | 129190 | [129190-tower-of-babel-no-mercy.json](./129190-tower-of-babel-no-mercy.json) |
 | Tower of Babel: Survivors of Chaos | 329785 | [329785-tower-of-babel-survivors-of-chaos.json](./329785-tower-of-babel-survivors-of-chaos.json) |
 | Tower of Boom | 179144 | [179144-tower-of-boom.json](./179144-tower-of-boom.json) |
+| Tower of Dal Gurak | 271953 | [271953-tower-of-dal-gurak.json](./271953-tower-of-dal-gurak.json) |
 | Tower of Darkness | 217990 | [217990-tower-of-darkness.json](./217990-tower-of-darkness.json) |
 | Tower of Doom | 150499 | [150499-tower-of-doom.json](./150499-tower-of-doom.json) |
 | Tower of Doom VR | 310921 | [310921-tower-of-doom-vr.json](./310921-tower-of-doom-vr.json) |
@@ -15679,6 +15681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Troubled Waters | 352254 | [352254-troubled-waters.json](./352254-troubled-waters.json) |
 | TroubleDays | 129346 | [129346-troubledays.json](./129346-troubledays.json) |
 | Troublemaker | 153398 | [153398-troublemaker.json](./153398-troublemaker.json) |
+| Troublemaker 2: Beyond Dream | 271907 | [271907-troublemaker-2-beyond-dream.json](./271907-troublemaker-2-beyond-dream.json) |
 | Troubles in Silesia Country | 250013 | [250013-troubles-in-silesia-country.json](./250013-troubles-in-silesia-country.json) |
 | Troubles Land | 34584 | [34584-troubles-land.json](./34584-troubles-land.json) |
 | Troubleshooting | 221195 | [221195-troubleshooting.json](./221195-troubleshooting.json) |
@@ -16310,6 +16313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TV Vader | 250900 | [250900-tv-vader.json](./250900-tv-vader.json) |
 | TV1998 | 257354 | [257354-tv1998.json](./257354-tv1998.json) |
 | TVhead | 217506 | [217506-tvhead.json](./217506-tvhead.json) |
+| TVhTk | 271945 | [271945-tvhtk.json](./271945-tvhtk.json) |
 | TVS Sample Box | 280248 | [280248-tvs-sample-box.json](./280248-tvs-sample-box.json) |
 | TVs: The Illusion Channel | 209480 | [209480-tvs-the-illusion-channel.json](./209480-tvs-the-illusion-channel.json) |
 | Twaddle Paddle | 114320 | [114320-twaddle-paddle.json](./114320-twaddle-paddle.json) |
