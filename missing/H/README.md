@@ -4360,6 +4360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holdfast: Age of Sail | 362286 | [362286-holdfast-age-of-sail.json](./362286-holdfast-age-of-sail.json) |
 | Holdfast: American Revolution | 400489 | [400489-holdfast-american-revolution.json](./400489-holdfast-american-revolution.json) |
 | Holdfast: Nations At War - Napoleon's Rise | 286538 | [286538-holdfast-nations-at-war-napoleons-rise.json](./286538-holdfast-nations-at-war-napoleons-rise.json) |
+| Holding Keys | 255839 | [255839-holding-keys.json](./255839-holding-keys.json) |
 | Holding Pattern | 389591 | [389591-holding-pattern.json](./389591-holding-pattern.json) |
 | Hole | 310931 | [310931-hole.json](./310931-hole.json) |
 | Hole ASMR | 399641 | [399641-hole-asmr.json](./399641-hole-asmr.json) |
