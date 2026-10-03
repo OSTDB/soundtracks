@@ -1270,6 +1270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill the Reaper | 276844 | [276844-kill-the-reaper.json](./276844-kill-the-reaper.json) |
 | Kill the Santa | 128350 | [128350-kill-the-santa.json](./128350-kill-the-santa.json) |
 | Kill The Shadow | 276201 | [276201-kill-the-shadow.json](./276201-kill-the-shadow.json) |
+| Kill The Topulus | 265836 | [265836-kill-the-topulus.json](./265836-kill-the-topulus.json) |
 | Kill Them With Cuteness | 152863 | [152863-kill-them-with-cuteness.json](./152863-kill-them-with-cuteness.json) |
 | Kill to Collect | 18722 | [18722-kill-to-collect.json](./18722-kill-to-collect.json) |
 | Kill to Live | 187405 | [187405-kill-to-live.json](./187405-kill-to-live.json) |
