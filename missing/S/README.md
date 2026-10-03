@@ -519,6 +519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salamander | 261905 | [261905-salamander.json](./261905-salamander.json) |
 | Salamander | 261906 | [261906-salamander.json](./261906-salamander.json) |
 | Salamander | 261907 | [261907-salamander.json](./261907-salamander.json) |
+| Salamander Capital | 257549 | [257549-salamander-capital.json](./257549-salamander-capital.json) |
 | Salamander Deluxe Pack Plus | 58294 | [58294-salamander-deluxe-pack-plus.json](./58294-salamander-deluxe-pack-plus.json) |
 | Salamander Portable | 42869 | [42869-salamander-portable.json](./42869-salamander-portable.json) |
 | Salann | 379033 | [379033-salann.json](./379033-salann.json) |
@@ -1313,6 +1314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sayonara Wild Hearts | 113107 | [113107-sayonara-wild-hearts.json](./113107-sayonara-wild-hearts.json) |
 | Sayonara Wild Hearts | 333020 | [333020-sayonara-wild-hearts.json](./333020-sayonara-wild-hearts.json) |
 | Sayonara, Utsutsu. | 260977 | [260977-sayonara-utsutsu.json](./260977-sayonara-utsutsu.json) |
+| Sayori Shoots Up The Literature Club | 257531 | [257531-sayori-shoots-up-the-literature-club.json](./257531-sayori-shoots-up-the-literature-club.json) |
 | SBK 2011: Superbike World Championship | 41583 | [41583-sbk-2011-superbike-world-championship.json](./41583-sbk-2011-superbike-world-championship.json) |
 | SBK-08: Superbike World Championship | 264881 | [264881-sbk-08-superbike-world-championship.json](./264881-sbk-08-superbike-world-championship.json) |
 | Sblobber 64 | 145456 | [145456-sblobber-64.json](./145456-sblobber-64.json) |
@@ -6095,6 +6097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skibi's Castle TD 2 | 348357 | [348357-skibis-castle-td-2.json](./348357-skibis-castle-td-2.json) |
 | Skibidi | 329090 | [329090-skibidi.json](./329090-skibidi.json) |
 | Skibidi Backrooms | 273427 | [273427-skibidi-backrooms.json](./273427-skibidi-backrooms.json) |
+| Skibidi Battle: Toilets Attack | 257581 | [257581-skibidi-battle-toilets-attack.json](./257581-skibidi-battle-toilets-attack.json) |
 | Skibidi Mahr Simulator 64 | 339822 | [339822-skibidi-mahr-simulator-64.json](./339822-skibidi-mahr-simulator-64.json) |
 | Skibidi Mahrt Kart: TrackMahrnia | 376088 | [376088-skibidi-mahrt-kart-trackmahrnia.json](./376088-skibidi-mahrt-kart-trackmahrnia.json) |
 | Skibidi Revenge | 336601 | [336601-skibidi-revenge.json](./336601-skibidi-revenge.json) |
@@ -10961,6 +10964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spikey Walls | 59445 | [59445-spikey-walls.json](./59445-spikey-walls.json) |
 | Spikit | 31908 | [31908-spikit.json](./31908-spikit.json) |
 | Spiky | 144281 | [144281-spiky.json](./144281-spiky.json) |
+| Spiky Way: Forest | 257582 | [257582-spiky-way-forest.json](./257582-spiky-way-forest.json) |
 | Spill the Beans | 276818 | [276818-spill-the-beans.json](./276818-spill-the-beans.json) |
 | Spin & Match Puzzle Learn at Once 3 Languages | 312080 | [312080-spin-and-match-puzzle-learn-at-once-3-languages.json](./312080-spin-and-match-puzzle-learn-at-once-3-languages.json) |
 | Spin & Play: Carnival Madness | 73337 | [73337-spin-and-play-carnival-madness.json](./73337-spin-and-play-carnival-madness.json) |
@@ -11733,6 +11737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squid and Let Die | 57342 | [57342-squid-and-let-die.json](./57342-squid-and-let-die.json) |
 | Squid Game: The Game | 184603 | [184603-squid-game-the-game.json](./184603-squid-game-the-game.json) |
 | Squid Game: Unleashed | 314273 | [314273-squid-game-unleashed.json](./314273-squid-game-unleashed.json) |
+| Squid Girl World Ep.0 | 257564 | [257564-squid-girl-world-ep-0.json](./257564-squid-girl-world-ep-0.json) |
 | Squid Grid | 247992 | [247992-squid-grid.json](./247992-squid-grid.json) |
 | Squid Gurl and the Salty Sea Man | 97345 | [97345-squid-gurl-and-the-salty-sea-man.json](./97345-squid-gurl-and-the-salty-sea-man.json) |
 | Squid Guys | 286503 | [286503-squid-guys.json](./286503-squid-guys.json) |
@@ -16108,6 +16113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Flashback | 134075 | [134075-super-mario-flashback.json](./134075-super-mario-flashback.json) |
 | Super Mario Funny RPG | 307713 | [307713-super-mario-funny-rpg.json](./307713-super-mario-funny-rpg.json) |
 | Super Mario Fusion: Revival | 322786 | [322786-super-mario-fusion-revival.json](./322786-super-mario-fusion-revival.json) |
+| Super Mario FX | 257524 | [257524-super-mario-fx.json](./257524-super-mario-fx.json) |
 | Super Mario Galaxy | 366899 | [366899-super-mario-galaxy.json](./366899-super-mario-galaxy.json) |
 | Super Mario Galaxy 2 | 366900 | [366900-super-mario-galaxy-2.json](./366900-super-mario-galaxy-2.json) |
 | Super Mario Galaxy 2: Collectors Anxiety | 281019 | [281019-super-mario-galaxy-2-collectors-anxiety.json](./281019-super-mario-galaxy-2-collectors-anxiety.json) |
@@ -18307,6 +18313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syvnta: Sovereignty | 343952 | [343952-syvnta-sovereignty.json](./343952-syvnta-sovereignty.json) |
 | Syzgy | 178018 | [178018-syzgy.json](./178018-syzgy.json) |
 | Syzygy | 123068 | [123068-syzygy.json](./123068-syzygy.json) |
+| Syzygy: The Power of the Eclipse | 257535 | [257535-syzygy-the-power-of-the-eclipse.json](./257535-syzygy-the-power-of-the-eclipse.json) |
 | Szen | 114364 | [114364-szen.json](./114364-szen.json) |
 | sZone Online | 36250 | [36250-szone-online.json](./36250-szone-online.json) |
 | Szybowcowa '87 | 237050 | [237050-szybowcowa-87.json](./237050-szybowcowa-87.json) |
