@@ -299,6 +299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WallWar | 287200 | [287200-wallwar.json](./287200-wallwar.json) |
 | Wally the Seal 2 | 320255 | [320255-wally-the-seal-2.json](./320255-wally-the-seal-2.json) |
 | Wally wo Sagase! Ehon no Kuni no Daibouken! | 37769 | [37769-wally-wo-sagase-ehon-no-kuni-no-daibouken.json](./37769-wally-wo-sagase-ehon-no-kuni-no-daibouken.json) |
+| Wallykazam: Enchanted Adventures | 230410 | [230410-wallykazam-enchanted-adventures.json](./230410-wallykazam-enchanted-adventures.json) |
 | Walpurgis Night: Unmyeong-ui Gil 2 | 145620 | [145620-walpurgis-night-unmyeong-ui-gil-2.json](./145620-walpurgis-night-unmyeong-ui-gil-2.json) |
 | Walpurgis Quintet | 205253 | [205253-walpurgis-quintet.json](./205253-walpurgis-quintet.json) |
 | Walpurgis: Enkan no Meikyuu | 205252 | [205252-walpurgis-enkan-no-meikyuu.json](./205252-walpurgis-enkan-no-meikyuu.json) |
