@@ -3961,6 +3961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ring Stars | 261508 | [261508-ring-stars.json](./261508-ring-stars.json) |
 | Ring Toss Legend | 408939 | [408939-ring-toss-legend.json](./408939-ring-toss-legend.json) |
 | Ring Wars | 56582 | [56582-ring-wars.json](./56582-ring-wars.json) |
+| Ringash | 244299 | [244299-ringash.json](./244299-ringash.json) |
 | Ringbound | 397931 | [397931-ringbound.json](./397931-ringbound.json) |
 | Ringer | 324336 | [324336-ringer.json](./324336-ringer.json) |
 | Ringies | 34637 | [34637-ringies.json](./34637-ringies.json) |
