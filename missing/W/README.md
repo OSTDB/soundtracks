@@ -4552,6 +4552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WRC Collection Vol. 2 | 199929 | [199929-wrc-collection-vol-2.json](./199929-wrc-collection-vol-2.json) |
 | Wreak the Havoc | 156564 | [156564-wreak-the-havoc.json](./156564-wreak-the-havoc.json) |
 | Wreck | 288453 | [288453-wreck.json](./288453-wreck.json) |
+| Wreck League | 275240 | [275240-wreck-league.json](./275240-wreck-league.json) |
 | Wreck the Party: Christmas Edition | 230785 | [230785-wreck-the-party-christmas-edition.json](./230785-wreck-the-party-christmas-edition.json) |
 | Wreck-It Ralph | 23586 | [23586-wreck-it-ralph.json](./23586-wreck-it-ralph.json) |
 | Wreck-It Ralph | 299871 | [299871-wreck-it-ralph.json](./299871-wreck-it-ralph.json) |
