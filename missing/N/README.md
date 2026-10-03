@@ -2064,6 +2064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nick Jr. Play Math! | 210029 | [210029-nick-jr-play-math.json](./210029-nick-jr-play-math.json) |
 | Nick Logic for Kids | 387331 | [387331-nick-logic-for-kids.json](./387331-nick-logic-for-kids.json) |
 | Nick News with Linda Ellerbee Word Search | 325083 | [325083-nick-news-with-linda-ellerbee-word-search.json](./325083-nick-news-with-linda-ellerbee-word-search.json) |
+| Nick SpongeBob SquarePants: Snowball Showdown | 243825 | [243825-nick-spongebob-squarepants-snowball-showdown.json](./243825-nick-spongebob-squarepants-snowball-showdown.json) |
 | Nick Sports | 87199 | [87199-nick-sports.json](./87199-nick-sports.json) |
 | Nick Wacky Racers 3D | 283381 | [283381-nick-wacky-racers-3d.json](./283381-nick-wacky-racers-3d.json) |
 | Nick's Night Out | 123052 | [123052-nicks-night-out.json](./123052-nicks-night-out.json) |
@@ -2098,6 +2099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nicktoons Racing | 248733 | [248733-nicktoons-racing.json](./248733-nicktoons-racing.json) |
 | Nicktoons Unite! | 202110 | [202110-nicktoons-unite.json](./202110-nicktoons-unite.json) |
 | Nicktoons Unite! | 202111 | [202111-nicktoons-unite.json](./202111-nicktoons-unite.json) |
+| Nicktoons Volleyball | 243826 | [243826-nicktoons-volleyball.json](./243826-nicktoons-volleyball.json) |
 | Nicktoons: Attack of the Toybots | 2774 | [2774-nicktoons-attack-of-the-toybots.json](./2774-nicktoons-attack-of-the-toybots.json) |
 | Nicktoons: Movin' | 7982 | [7982-nicktoons-movin.json](./7982-nicktoons-movin.json) |
 | Nicktoons: Snap Shot | 308564 | [308564-nicktoons-snap-shot.json](./308564-nicktoons-snap-shot.json) |
