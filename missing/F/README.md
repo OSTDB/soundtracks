@@ -496,6 +496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall Guys: Ultimate Knockout - Season 5 | 159046 | [159046-fall-guys-ultimate-knockout-season-5.json](./159046-fall-guys-ultimate-knockout-season-5.json) |
 | Fall Guys: Wildfire Pack | 243683 | [243683-fall-guys-wildfire-pack.json](./243683-fall-guys-wildfire-pack.json) |
 | Fall In Love - My Billionaire Boss | 120870 | [120870-fall-in-love-my-billionaire-boss.json](./120870-fall-in-love-my-billionaire-boss.json) |
+| Fall into Decay | 253507 | [253507-fall-into-decay.json](./253507-fall-into-decay.json) |
 | Fall Jo! | 232047 | [232047-fall-jo.json](./232047-fall-jo.json) |
 | Fall Ninja | 268450 | [268450-fall-ninja.json](./268450-fall-ninja.json) |
 | Fall of Gods | 240763 | [240763-fall-of-gods.json](./240763-fall-of-gods.json) |
@@ -658,6 +659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Bullets | 114550 | [114550-falling-bullets.json](./114550-falling-bullets.json) |
 | Falling Cube | 340054 | [340054-falling-cube.json](./340054-falling-cube.json) |
 | Falling Day | 270180 | [270180-falling-day.json](./270180-falling-day.json) |
+| Falling Down | 253496 | [253496-falling-down.json](./253496-falling-down.json) |
 | Falling Down | 256364 | [256364-falling-down.json](./256364-falling-down.json) |
 | Falling Down XR | 269013 | [269013-falling-down-xr.json](./269013-falling-down-xr.json) |
 | Falling Duke Nukem | 369758 | [369758-falling-duke-nukem.json](./369758-falling-duke-nukem.json) |
@@ -3357,6 +3359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fist of the North Star Legends Revive | 120171 | [120171-fist-of-the-north-star-legends-revive.json](./120171-fist-of-the-north-star-legends-revive.json) |
 | Fist of the North Star: Ken's Rage 2 | 5313 | [5313-fist-of-the-north-star-kens-rage-2.json](./5313-fist-of-the-north-star-kens-rage-2.json) |
 | Fist of the North Star: Lost Paradise - Premium Edition | 212335 | [212335-fist-of-the-north-star-lost-paradise-premium-edition.json](./212335-fist-of-the-north-star-lost-paradise-premium-edition.json) |
+| Fist of Yokai | 253485 | [253485-fist-of-yokai.json](./253485-fist-of-yokai.json) |
 | Fist Puncher | 9088 | [9088-fist-puncher.json](./9088-fist-puncher.json) |
 | Fista 3-in-1 Retro Pack | 254762 | [254762-fista-3-in-1-retro-pack.json](./254762-fista-3-in-1-retro-pack.json) |
 | Fista Retro Horror Pack | 309323 | [309323-fista-retro-horror-pack.json](./309323-fista-retro-horror-pack.json) |
@@ -3538,6 +3541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fivies | 220343 | [220343-fivies.json](./220343-fivies.json) |
 | Fix and Foxi: Episode 1 - Lupo | 208380 | [208380-fix-and-foxi-episode-1-lupo.json](./208380-fix-and-foxi-episode-1-lupo.json) |
 | Fix EV3 Rover | 104002 | [104002-fix-ev3-rover.json](./104002-fix-ev3-rover.json) |
+| Fix Fixer | 253504 | [253504-fix-fixer.json](./253504-fix-fixer.json) |
 | Fix My Car: Garage Wars - Furious Street Mechanics! | 70406 | [70406-fix-my-car-garage-wars-furious-street-mechanics.json](./70406-fix-my-car-garage-wars-furious-street-mechanics.json) |
 | Fix My Hand Doc | 219789 | [219789-fix-my-hand-doc.json](./219789-fix-my-hand-doc.json) |
 | Fix My Truck: Offroad Pickup | 104670 | [104670-fix-my-truck-offroad-pickup.json](./104670-fix-my-truck-offroad-pickup.json) |
