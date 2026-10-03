@@ -722,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Reflexion | 187980 | [187980-samurai-reflexion.json](./187980-samurai-reflexion.json) |
 | Samurai Revenge | 307606 | [307606-samurai-revenge.json](./307606-samurai-revenge.json) |
 | Samurai Revenge 2 | 241509 | [241509-samurai-revenge-2.json](./241509-samurai-revenge-2.json) |
+| Samurai Riot: Definitive Edition | 227189 | [227189-samurai-riot-definitive-edition.json](./227189-samurai-riot-definitive-edition.json) |
 | Samurai Saga | 55910 | [55910-samurai-saga.json](./55910-samurai-saga.json) |
 | Samurai Shampoo | 153879 | [153879-samurai-shampoo.json](./153879-samurai-shampoo.json) |
 | Samurai Shaver | 177442 | [177442-samurai-shaver.json](./177442-samurai-shaver.json) |
@@ -1159,6 +1160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturn. Legacy | 403688 | [403688-saturn-legacy.json](./403688-saturn-legacy.json) |
 | Saturn's Rising Temperature | 225718 | [225718-saturns-rising-temperature.json](./225718-saturns-rising-temperature.json) |
 | Saturnalia | 131564 | [131564-saturnalia.json](./131564-saturnalia.json) |
+| Saturnalia: Deluxe Edition | 227182 | [227182-saturnalia-deluxe-edition.json](./227182-saturnalia-deluxe-edition.json) |
 | Saturnia | 267993 | [267993-saturnia.json](./267993-saturnia.json) |
 | Saturnine | 110127 | [110127-saturnine.json](./110127-saturnine.json) |
 | Saturnine Chapel | 141835 | [141835-saturnine-chapel.json](./141835-saturnine-chapel.json) |
@@ -3820,6 +3822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape TD | 186833 | [186833-shape-td.json](./186833-shape-td.json) |
 | Shape Theory | 244486 | [244486-shape-theory.json](./244486-shape-theory.json) |
 | Shape Together | 402374 | [402374-shape-together.json](./402374-shape-together.json) |
+| Shape Up: Gold Edition | 227178 | [227178-shape-up-gold-edition.json](./227178-shape-up-gold-edition.json) |
 | Shape Wars | 414440 | [414440-shape-wars.json](./414440-shape-wars.json) |
 | Shape Warzone | 345098 | [345098-shape-warzone.json](./345098-shape-warzone.json) |
 | Shapefall | 295554 | [295554-shapefall.json](./295554-shapefall.json) |
@@ -5880,6 +5883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sins of a Solar Empire: Rebellion - Outlaw Sectors | 51908 | [51908-sins-of-a-solar-empire-rebellion-outlaw-sectors.json](./51908-sins-of-a-solar-empire-rebellion-outlaw-sectors.json) |
 | Sins of a Solar Empire: Rebellion - Stellar Phenomena | 10869 | [10869-sins-of-a-solar-empire-rebellion-stellar-phenomena.json](./10869-sins-of-a-solar-empire-rebellion-stellar-phenomena.json) |
 | Sins of a Solar Empire: Rebellion Ultimate Edition | 51907 | [51907-sins-of-a-solar-empire-rebellion-ultimate-edition.json](./51907-sins-of-a-solar-empire-rebellion-ultimate-edition.json) |
+| Sins of a Solar Empire: Ultimate Edition | 227177 | [227177-sins-of-a-solar-empire-ultimate-edition.json](./227177-sins-of-a-solar-empire-ultimate-edition.json) |
 | Sins Of Kaleido | 276733 | [276733-sins-of-kaleido.json](./276733-sins-of-kaleido.json) |
 | Sins of Sinister: The Viscera-Eater | 403645 | [403645-sins-of-sinister-the-viscera-eater.json](./403645-sins-of-sinister-the-viscera-eater.json) |
 | Sins of the Demon RPG | 33004 | [33004-sins-of-the-demon-rpg.json](./33004-sins-of-the-demon-rpg.json) |
@@ -10877,6 +10881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpellForce 3 | 17583 | [17583-spellforce-3.json](./17583-spellforce-3.json) |
 | SpellForce 3: Soul Harvest - Oktoberfest | 157561 | [157561-spellforce-3-soul-harvest-oktoberfest.json](./157561-spellforce-3-soul-harvest-oktoberfest.json) |
 | SpellForce 3: Versus | 144290 | [144290-spellforce-3-versus.json](./144290-spellforce-3-versus.json) |
+| SpellForce 3: Versus Edition | 227191 | [227191-spellforce-3-versus-edition.json](./227191-spellforce-3-versus-edition.json) |
 | Spellforce: Conquest of Eo - Children of Nor | 343445 | [343445-spellforce-conquest-of-eo-children-of-nor.json](./343445-spellforce-conquest-of-eo-children-of-nor.json) |
 | SpellForce: Conquest of Eo - Weaver's Realms | 318472 | [318472-spellforce-conquest-of-eo-weavers-realms.json](./318472-spellforce-conquest-of-eo-weavers-realms.json) |
 | SpellForce: Heroes & Magic | 118373 | [118373-spellforce-heroes-and-magic.json](./118373-spellforce-heroes-and-magic.json) |
@@ -16621,6 +16626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super NemMeViu World 2 | 267922 | [267922-super-nemmeviu-world-2.json](./267922-super-nemmeviu-world-2.json) |
 | Super Neo Tanks | 166751 | [166751-super-neo-tanks.json](./166751-super-neo-tanks.json) |
 | Super Neptunia RPG | 97255 | [97255-super-neptunia-rpg.json](./97255-super-neptunia-rpg.json) |
+| Super Neptunia RPG: DLC Bundle | 227384 | [227384-super-neptunia-rpg-dlc-bundle.json](./227384-super-neptunia-rpg-dlc-bundle.json) |
 | Super Neptunia RPG: Party Member - Artisan | 238174 | [238174-super-neptunia-rpg-party-member-artisan.json](./238174-super-neptunia-rpg-party-member-artisan.json) |
 | Super Neptunia RPG: Party Member - Compa | 238175 | [238175-super-neptunia-rpg-party-member-compa.json](./238175-super-neptunia-rpg-party-member-compa.json) |
 | Super Neptunia RPG: Party Member - If | 238176 | [238176-super-neptunia-rpg-party-member-if.json](./238176-super-neptunia-rpg-party-member-if.json) |
@@ -17329,6 +17335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperSquad.GG | 292002 | [292002-supersquad-gg.json](./292002-supersquad-gg.json) |
 | Superstar Chefs | 57666 | [57666-superstar-chefs.json](./57666-superstar-chefs.json) |
 | SuperStar Ebidan | 373026 | [373026-superstar-ebidan.json](./373026-superstar-ebidan.json) |
+| Superstar Hockey: Pass & Score | 227379 | [227379-superstar-hockey-pass-and-score.json](./227379-superstar-hockey-pass-and-score.json) |
 | Superstar Ice Hockey | 40998 | [40998-superstar-ice-hockey.json](./40998-superstar-ice-hockey.json) |
 | SuperStar JYPNation | 105971 | [105971-superstar-jypnation.json](./105971-superstar-jypnation.json) |
 | Superstar LDH | 399056 | [399056-superstar-ldh.json](./399056-superstar-ldh.json) |
