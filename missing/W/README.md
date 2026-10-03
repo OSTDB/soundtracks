@@ -1497,6 +1497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We're Closed Sorry | 298775 | [298775-were-closed-sorry.json](./298775-were-closed-sorry.json) |
 | We're Here, Papa | 410922 | [410922-were-here-papa.json](./410922-were-here-papa.json) |
 | We're in the Same Boat | 399704 | [399704-were-in-the-same-boat.json](./399704-were-in-the-same-boat.json) |
+| We're Tethered Together | 269195 | [269195-were-tethered-together.json](./269195-were-tethered-together.json) |
 | We'reWolves | 270645 | [270645-werewolves.json](./270645-werewolves.json) |
 | Weabot | 395788 | [395788-weabot.json](./395788-weabot.json) |
 | Weak Soul | 247741 | [247741-weak-soul.json](./247741-weak-soul.json) |
@@ -1721,6 +1722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome To... Chichester 3: Original Episode | 169960 | [169960-welcome-to-chichester-3-original-episode.json](./169960-welcome-to-chichester-3-original-episode.json) |
 | Welcome To... Chichester OVN: Omnibus Edition | 248334 | [248334-welcome-to-chichester-ovn-omnibus-edition.json](./248334-welcome-to-chichester-ovn-omnibus-edition.json) |
 | Welcome, [Employee Name] | 402286 | [402286-welcome-employee-name.json](./402286-welcome-employee-name.json) |
+| Welcome, Get Out! | 269196 | [269196-welcome-get-out.json](./269196-welcome-get-out.json) |
 | Welcome, Sharehouse! | 347369 | [347369-welcome-sharehouse.json](./347369-welcome-sharehouse.json) |
 | Welcome! Uninvited Guest | 338859 | [338859-welcome-uninvited-guest.json](./338859-welcome-uninvited-guest.json) |
 | Weldon | 175888 | [175888-weldon.json](./175888-weldon.json) |
@@ -2259,6 +2261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whirligig | 12931 | [12931-whirligig.json](./12931-whirligig.json) |
 | Whirlo | 46588 | [46588-whirlo.json](./46588-whirlo.json) |
 | Whirlpool Derby: Grand Crash Auto | 90365 | [90365-whirlpool-derby-grand-crash-auto.json](./90365-whirlpool-derby-grand-crash-auto.json) |
+| Whirlwind Magician | 269186 | [269186-whirlwind-magician.json](./269186-whirlwind-magician.json) |
 | Whirlwind of Vietnam | 72714 | [72714-whirlwind-of-vietnam.json](./72714-whirlwind-of-vietnam.json) |
 | Whirlybird | 230852 | [230852-whirlybird.json](./230852-whirlybird.json) |
 | Whiskara | 324954 | [324954-whiskara.json](./324954-whiskara.json) |
@@ -3388,6 +3391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Vs Zombie | 88783 | [88783-wizard-vs-zombie.json](./88783-wizard-vs-zombie.json) |
 | Wizard Vs Zombie Unlocked | 100609 | [100609-wizard-vs-zombie-unlocked.json](./100609-wizard-vs-zombie-unlocked.json) |
 | Wizard Warfare | 127196 | [127196-wizard-warfare.json](./127196-wizard-warfare.json) |
+| Wizard Warfare 2: Cephalopod Wars | 269201 | [269201-wizard-warfare-2-cephalopod-wars.json](./269201-wizard-warfare-2-cephalopod-wars.json) |
 | Wizard Wars | 300031 | [300031-wizard-wars.json](./300031-wizard-wars.json) |
 | Wizard Warz | 12830 | [12830-wizard-warz.json](./12830-wizard-warz.json) |
 | Wizard Willy | 71038 | [71038-wizard-willy.json](./71038-wizard-willy.json) |
