@@ -4291,6 +4291,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Superhero Captain Robot Crime City Battle | 101982 | [101982-flying-superhero-captain-robot-crime-city-battle.json](./101982-flying-superhero-captain-robot-crime-city-battle.json) |
 | Flying Sushi | 337991 | [337991-flying-sushi.json](./337991-flying-sushi.json) |
 | Flying Tickets | 130873 | [130873-flying-tickets.json](./130873-flying-tickets.json) |
+| Flying Tigers | 269764 | [269764-flying-tigers.json](./269764-flying-tigers.json) |
+| Flying Tigers II | 269763 | [269763-flying-tigers-ii.json](./269763-flying-tigers-ii.json) |
 | Flying Tigers: Shadows Over China - Paradise Island | 167208 | [167208-flying-tigers-shadows-over-china-paradise-island.json](./167208-flying-tigers-shadows-over-china-paradise-island.json) |
 | Flying Tobacco Eggs | 305922 | [305922-flying-tobacco-eggs.json](./305922-flying-tobacco-eggs.json) |
 | Flying Toyz | 258005 | [258005-flying-toyz.json](./258005-flying-toyz.json) |
@@ -4702,6 +4704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forbidden Tapes | 260623 | [260623-forbidden-tapes.json](./260623-forbidden-tapes.json) |
 | Forbidden Terror: Board Game | 375448 | [375448-forbidden-terror-board-game.json](./375448-forbidden-terror-board-game.json) |
 | Forbidden Trip | 238443 | [238443-forbidden-trip.json](./238443-forbidden-trip.json) |
+| Forbidden Valley | 269766 | [269766-forbidden-valley.json](./269766-forbidden-valley.json) |
 | Forbidden World | 219794 | [219794-forbidden-world.json](./219794-forbidden-world.json) |
 | Forbidden: A First's Obsession | 402364 | [402364-forbidden-a-firsts-obsession.json](./402364-forbidden-a-firsts-obsession.json) |
 | ForbiddenEgg | 352382 | [352382-forbiddenegg.json](./352382-forbiddenegg.json) |
