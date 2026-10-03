@@ -8295,6 +8295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attacking Zegeta 2 | 56543 | [56543-attacking-zegeta-2.json](./56543-attacking-zegeta-2.json) |
 | Attention Deficit: A story about ADHD | 364007 | [364007-attention-deficit-a-story-about-adhd.json](./364007-attention-deficit-a-story-about-adhd.json) |
 | Attic | 157148 | [157148-attic.json](./157148-attic.json) |
+| Attic | 229743 | [229743-attic.json](./229743-attic.json) |
 | Attic Antiquities | 413162 | [413162-attic-antiquities.json](./413162-attic-antiquities.json) |
 | Attorney of the Arcane | 241048 | [241048-attorney-of-the-arcane.json](./241048-attorney-of-the-arcane.json) |
 | Attorney Online | 290388 | [290388-attorney-online.json](./290388-attorney-online.json) |
