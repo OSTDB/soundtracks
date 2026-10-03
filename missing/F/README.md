@@ -2863,6 +2863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fingerspelling Unleashed: BANZSL Edition | 238726 | [238726-fingerspelling-unleashed-banzsl-edition.json](./238726-fingerspelling-unleashed-banzsl-edition.json) |
 | Fingertip Balance | 254440 | [254440-fingertip-balance.json](./254440-fingertip-balance.json) |
 | Fingerzilla | 343470 | [343470-fingerzilla.json](./343470-fingerzilla.json) |
+| Fingore Fighter | 237439 | [237439-fingore-fighter.json](./237439-fingore-fighter.json) |
 | Fingun Forever! | 320298 | [320298-fingun-forever.json](./320298-fingun-forever.json) |
 | Finis | 213013 | [213013-finis.json](./213013-finis.json) |
 | Finis Actus | 389730 | [389730-finis-actus.json](./389730-finis-actus.json) |
