@@ -2669,6 +2669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Solitaire: Ultimate Edition | 313785 | [313785-hentai-solitaire-ultimate-edition.json](./313785-hentai-solitaire-ultimate-edition.json) |
 | Hentai Sport | 286537 | [286537-hentai-sport.json](./286537-hentai-sport.json) |
 | Hentai Sport | 371362 | [371362-hentai-sport.json](./371362-hentai-sport.json) |
+| Hentai SportsGirl | 230894 | [230894-hentai-sportsgirl.json](./230894-hentai-sportsgirl.json) |
 | Hentai Stars | 261347 | [261347-hentai-stars.json](./261347-hentai-stars.json) |
 | Hentai Stars: Amazing Edition | 308800 | [308800-hentai-stars-amazing-edition.json](./308800-hentai-stars-amazing-edition.json) |
 | Hentai Stars: Cheerful Puppy Tsubaki | 288306 | [288306-hentai-stars-cheerful-puppy-tsubaki.json](./288306-hentai-stars-cheerful-puppy-tsubaki.json) |
@@ -5933,6 +5934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hugo på nye Eventyr | 300687 | [300687-hugo-pa-nye-eventyr.json](./300687-hugo-pa-nye-eventyr.json) |
 | Hugo Safari | 64500 | [64500-hugo-safari.json](./64500-hugo-safari.json) |
 | Hugo Troll Race | 64496 | [64496-hugo-troll-race.json](./64496-hugo-troll-race.json) |
+| Hugo: Black Diamond Fever | 230878 | [230878-hugo-black-diamond-fever.json](./230878-hugo-black-diamond-fever.json) |
 | Hugo: Black Diamond Fever | 23556 | [23556-hugo-black-diamond-fever.json](./23556-hugo-black-diamond-fever.json) |
 | Hugo: Bukkazoom | 165052 | [165052-hugo-bukkazoom.json](./165052-hugo-bukkazoom.json) |
 | Hugo: Cannon Cruise | 43547 | [43547-hugo-cannon-cruise.json](./43547-hugo-cannon-cruise.json) |
