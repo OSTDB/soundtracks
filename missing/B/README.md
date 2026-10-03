@@ -5107,6 +5107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind Dreams | 192831 | [192831-blind-dreams.json](./192831-blind-dreams.json) |
 | Blind Exposure | 320736 | [320736-blind-exposure.json](./320736-blind-exposure.json) |
 | Blind Fate: Edo no Yami | 138812 | [138812-blind-fate-edo-no-yami.json](./138812-blind-fate-edo-no-yami.json) |
+| Blind Frontiers | 253519 | [253519-blind-frontiers.json](./253519-blind-frontiers.json) |
 | Blind Girl | 111489 | [111489-blind-girl.json](./111489-blind-girl.json) |
 | Blind Jump | 304638 | [304638-blind-jump.json](./304638-blind-jump.json) |
 | Blind Love | 30009 | [30009-blind-love.json](./30009-blind-love.json) |
@@ -8855,6 +8856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Wars | 66112 | [66112-burger-wars.json](./66112-burger-wars.json) |
 | Burger World | 181794 | [181794-burger-world.json](./181794-burger-world.json) |
 | Burger Yum! | 233995 | [233995-burger-yum.json](./233995-burger-yum.json) |
+| Burger Zombies | 253502 | [253502-burger-zombies.json](./253502-burger-zombies.json) |
 | Burger: The Game | 102815 | [102815-burger-the-game.json](./102815-burger-the-game.json) |
 | Burgers | 18912 | [18912-burgers.json](./18912-burgers.json) |
 | BurgerTime | 199470 | [199470-burgertime.json](./199470-burgertime.json) |
