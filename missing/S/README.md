@@ -2087,6 +2087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Salt City | 404240 | [404240-sea-salt-city.json](./404240-sea-salt-city.json) |
 | Sea Scenes | 219616 | [219616-sea-scenes.json](./219616-sea-scenes.json) |
 | Sea Strike | 69896 | [69896-sea-strike.json](./69896-sea-strike.json) |
+| Sea Town | 238093 | [238093-sea-town.json](./238093-sea-town.json) |
 | Sea Trader: Rise of Taipan | 49386 | [49386-sea-trader-rise-of-taipan.json](./49386-sea-trader-rise-of-taipan.json) |
 | Sea War | 168633 | [168633-sea-war.json](./168633-sea-war.json) |
 | Sea Warfare: Glorious | 188024 | [188024-sea-warfare-glorious.json](./188024-sea-warfare-glorious.json) |
@@ -13000,6 +13001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starshot | 374184 | [374184-starshot.json](./374184-starshot.json) |
 | Starsiege: Deadzone | 251581 | [251581-starsiege-deadzone.json](./251581-starsiege-deadzone.json) |
 | Starsiege: Tribes | 881 | [881-starsiege-tribes.json](./881-starsiege-tribes.json) |
+| StarSim | 238094 | [238094-starsim.json](./238094-starsim.json) |
 | Starsky & Hutch | 243809 | [243809-starsky-and-hutch.json](./243809-starsky-and-hutch.json) |
 | StarSmashers | 32140 | [32140-starsmashers.json](./32140-starsmashers.json) |
 | StarsOne | 33171 | [33171-starsone.json](./33171-starsone.json) |
@@ -16086,6 +16088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mansion | 72695 | [72695-super-mansion.json](./72695-super-mansion.json) |
 | Super Marathon | 72986 | [72986-super-marathon.json](./72986-super-marathon.json) |
 | Super Marine | 234929 | [234929-super-marine.json](./234929-super-marine.json) |
+| Super Mario | 238096 | [238096-super-mario.json](./238096-super-mario.json) |
 | Super Mario /v/orld 2: Moot Point | 333702 | [333702-super-mario-v-orld-2-moot-point.json](./333702-super-mario-v-orld-2-moot-point.json) |
 | Super Mario & Sonic | 262087 | [262087-super-mario-and-sonic.json](./262087-super-mario-and-sonic.json) |
 | Super Mario & The Rainbow Stars | 307658 | [307658-super-mario-and-the-rainbow-stars.json](./307658-super-mario-and-the-rainbow-stars.json) |
