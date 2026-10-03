@@ -2309,6 +2309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight till the End! | 289440 | [289440-fight-till-the-end.json](./289440-fight-till-the-end.json) |
 | Fight To The Death | 288200 | [288200-fight-to-the-death.json](./288200-fight-to-the-death.json) |
 | Fight Until Death | 219783 | [219783-fight-until-death.json](./219783-fight-until-death.json) |
+| Fight With Keys | 239781 | [239781-fight-with-keys.json](./239781-fight-with-keys.json) |
 | Fight With Valkyries | 368565 | [368565-fight-with-valkyries.json](./368565-fight-with-valkyries.json) |
 | Fight with WWE Champion | 196583 | [196583-fight-with-wwe-champion.json](./196583-fight-with-wwe-champion.json) |
 | Fight-Quest | 349445 | [349445-fight-quest.json](./349445-fight-quest.json) |
@@ -3364,6 +3365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing: North Atlantic - A.F. Theriault | 261868 | [261868-fishing-north-atlantic-a-f-theriault.json](./261868-fishing-north-atlantic-a-f-theriault.json) |
 | Fishing: North Atlantic - Complete Edition | 207385 | [207385-fishing-north-atlantic-complete-edition.json](./207385-fishing-north-atlantic-complete-edition.json) |
 | Fishing: North Atlantic - Enhanced Edition | 188055 | [188055-fishing-north-atlantic-enhanced-edition.json](./188055-fishing-north-atlantic-enhanced-edition.json) |
+| Fishjong 2 | 239724 | [239724-fishjong-2.json](./239724-fishjong-2.json) |
 | Fishlets | 278522 | [278522-fishlets.json](./278522-fishlets.json) |
 | Fishlets: Natural Decor Pack | 313679 | [313679-fishlets-natural-decor-pack.json](./313679-fishlets-natural-decor-pack.json) |
 | Fishman | 370286 | [370286-fishman.json](./370286-fishman.json) |
