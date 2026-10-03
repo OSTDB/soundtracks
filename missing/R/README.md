@@ -4746,6 +4746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocha's Golem | 156627 | [156627-rochas-golem.json](./156627-rochas-golem.json) |
 | Rochard | 5969 | [5969-rochard.json](./5969-rochard.json) |
 | Roche Fusion | 36122 | [36122-roche-fusion.json](./36122-roche-fusion.json) |
+| Roche Limit: The Death of CMK | 240370 | [240370-roche-limit-the-death-of-cmk.json](./240370-roche-limit-the-death-of-cmk.json) |
 | Rocher no Nagai Yoru | 265215 | [265215-rocher-no-nagai-yoru.json](./265215-rocher-no-nagai-yoru.json) |
 | Rock 'N Racing Bundle Grand Prix & Rally | 147793 | [147793-rock-n-racing-bundle-grand-prix-and-rally.json](./147793-rock-n-racing-bundle-grand-prix-and-rally.json) |
 | Rock 'N Racing Bundle Off Road & Grand Prix | 147797 | [147797-rock-n-racing-bundle-off-road-and-grand-prix.json](./147797-rock-n-racing-bundle-off-road-and-grand-prix.json) |
