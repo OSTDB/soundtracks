@@ -7100,6 +7100,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ASMR Lightness: Light painting | 148417 | [148417-asmr-lightness-light-painting.json](./148417-asmr-lightness-light-painting.json) |
 | ASMR Pressure Wash VR | 372540 | [372540-asmr-pressure-wash-vr.json](./372540-asmr-pressure-wash-vr.json) |
 | ASMR Slicing | 254179 | [254179-asmr-slicing.json](./254179-asmr-slicing.json) |
+| ASMR Slicing: Joyful Cutting DLC | 276943 | [276943-asmr-slicing-joyful-cutting-dlc.json](./276943-asmr-slicing-joyful-cutting-dlc.json) |
+| ASMR Slicing: Nice Cuts DLC | 276944 | [276944-asmr-slicing-nice-cuts-dlc.json](./276944-asmr-slicing-nice-cuts-dlc.json) |
 | Asobu Rakugaki | 72690 | [72690-asobu-rakugaki.json](./72690-asobu-rakugaki.json) |
 | Asonde Igo ga Sara ni Tsuyoku Naru: Ginsei Igo DS Chuukyuu-hen | 269558 | [269558-asonde-igo-ga-sara-ni-tsuyoku-naru-ginsei-igo-ds-chuukyuu-hen.json](./269558-asonde-igo-ga-sara-ni-tsuyoku-naru-ginsei-igo-ds-chuukyuu-hen.json) |
 | Asonde Igo ga Tsuyoku Naru! Ginsei Igo DX | 136958 | [136958-asonde-igo-ga-tsuyoku-naru-ginsei-igo-dx.json](./136958-asonde-igo-ga-tsuyoku-naru-ginsei-igo-dx.json) |
@@ -7552,8 +7554,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Knight | 217371 | [217371-astro-knight.json](./217371-astro-knight.json) |
 | Astro Link | 273666 | [273666-astro-link.json](./273666-astro-link.json) |
 | Astro Maths | 15605 | [15605-astro-maths.json](./15605-astro-maths.json) |
+| Astro Miner | 276945 | [276945-astro-miner.json](./276945-astro-miner.json) |
 | Astro Miner: Cave Adventure | 294857 | [294857-astro-miner-cave-adventure.json](./294857-astro-miner-cave-adventure.json) |
 | Astro Miner: Moon Landing | 288310 | [288310-astro-miner-moon-landing.json](./288310-astro-miner-moon-landing.json) |
+| Astro Miner: Moons | 276946 | [276946-astro-miner-moons.json](./276946-astro-miner-moons.json) |
 | Astro Mission: Moon | 192811 | [192811-astro-mission-moon.json](./192811-astro-mission-moon.json) |
 | Astro Navigator | 15606 | [15606-astro-navigator.json](./15606-astro-navigator.json) |
 | Astro Pig | 240751 | [240751-astro-pig.json](./240751-astro-pig.json) |
@@ -8045,6 +8049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack on Titan: Wall Sina, Goodbye | 200587 | [200587-attack-on-titan-wall-sina-goodbye.json](./200587-attack-on-titan-wall-sina-goodbye.json) |
 | Attack Only | 410224 | [410224-attack-only.json](./410224-attack-only.json) |
 | Attack Pla Rail | 123584 | [123584-attack-pla-rail.json](./123584-attack-pla-rail.json) |
+| Attack Strategy: Battle Simulator Accurate | 276947 | [276947-attack-strategy-battle-simulator-accurate.json](./276947-attack-strategy-battle-simulator-accurate.json) |
 | Attack Tactic | 226224 | [226224-attack-tactic.json](./226224-attack-tactic.json) |
 | Attack the Light! | 22555 | [22555-attack-the-light.json](./22555-attack-the-light.json) |
 | Attack: Helicopter Simulator 2020 | 171077 | [171077-attack-helicopter-simulator-2020.json](./171077-attack-helicopter-simulator-2020.json) |
