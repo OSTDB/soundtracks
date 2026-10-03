@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R2R: Rewire to Revolt | 338333 | [338333-r2r-rewire-to-revolt.json](./338333-r2r-rewire-to-revolt.json) |
 | R42 | 130900 | [130900-r42.json](./130900-r42.json) |
 | R4YL: Run for your life! | 253879 | [253879-r4yl-run-for-your-life.json](./253879-r4yl-run-for-your-life.json) |
+| Ra Ra Boom | 242111 | [242111-ra-ra-boom.json](./242111-ra-ra-boom.json) |
 | Ra.One: The Game | 18295 | [18295-ra-one-the-game.json](./18295-ra-one-the-game.json) |
 | Raahi | 379051 | [379051-raahi.json](./379051-raahi.json) |
 | Raanaa: The Shaman Girl | 321137 | [321137-raanaa-the-shaman-girl.json](./321137-raanaa-the-shaman-girl.json) |
@@ -817,6 +818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Point 3 | 237953 | [237953-rally-point-3.json](./237953-rally-point-3.json) |
 | Rally Poland | 62454 | [62454-rally-poland.json](./62454-rally-poland.json) |
 | Rally Pro Contest | 325692 | [325692-rally-pro-contest.json](./325692-rally-pro-contest.json) |
+| Rally Race Car Simulator Poly: World Driver Arcade Real Driving Games Sim | 242016 | [242016-rally-race-car-simulator-poly-world-driver-arcade-real-driving-games-sim.json](./242016-rally-race-car-simulator-poly-world-driver-arcade-real-driving-games-sim.json) |
 | Rally Racer | 346763 | [346763-rally-racer.json](./346763-rally-racer.json) |
 | Rally Racer: Offroad Racing Car Game | 153822 | [153822-rally-racer-offroad-racing-car-game.json](./153822-rally-racer-offroad-racing-car-game.json) |
 | Rally Racers | 76648 | [76648-rally-racers.json](./76648-rally-racers.json) |
@@ -2188,6 +2190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redline JDM Drift | 406301 | [406301-redline-jdm-drift.json](./406301-redline-jdm-drift.json) |
 | Redline Racing | 263056 | [263056-redline-racing.json](./263056-redline-racing.json) |
 | Redline Royale | 237633 | [237633-redline-royale.json](./237633-redline-royale.json) |
+| Redline Rush | 242003 | [242003-redline-rush.json](./242003-redline-rush.json) |
 | Redline: Drift | 174854 | [174854-redline-drift.json](./174854-redline-drift.json) |
 | Redline: Sport | 255755 | [255755-redline-sport.json](./255755-redline-sport.json) |
 | RedMask | 266811 | [266811-redmask.json](./266811-redmask.json) |
@@ -3263,6 +3266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revelation Trestan | 110507 | [110507-revelation-trestan.json](./110507-revelation-trestan.json) |
 | Revelations 2012 | 16279 | [16279-revelations-2012.json](./16279-revelations-2012.json) |
 | Revella | 344368 | [344368-revella.json](./344368-revella.json) |
+| Revenant | 242007 | [242007-revenant.json](./242007-revenant.json) |
 | Revenant | 307755 | [307755-revenant.json](./307755-revenant.json) |
 | Revenant Dogma | 38505 | [38505-revenant-dogma.json](./38505-revenant-dogma.json) |
 | Revenant Hill | 250625 | [250625-revenant-hill.json](./250625-revenant-hill.json) |
