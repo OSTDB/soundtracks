@@ -669,6 +669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Hit Titan | 337476 | [337476-last-hit-titan.json](./337476-last-hit-titan.json) |
 | Last Holiday | 224568 | [224568-last-holiday.json](./224568-last-holiday.json) |
 | Last Home: Battle of Island | 124186 | [124186-last-home-battle-of-island.json](./124186-last-home-battle-of-island.json) |
+| Last Hope | 258083 | [258083-last-hope.json](./258083-last-hope.json) |
 | Last Hope | 46865 | [46865-last-hope.json](./46865-last-hope.json) |
 | Last Hope | 81780 | [81780-last-hope.json](./81780-last-hope.json) |
 | Last Hope - Tower Defense | 33735 | [33735-last-hope-tower-defense.json](./33735-last-hope-tower-defense.json) |
@@ -1412,6 +1413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary Mahjong | 53269 | [53269-legendary-mahjong.json](./53269-legendary-mahjong.json) |
 | Legendary Master Idle | 251233 | [251233-legendary-master-idle.json](./251233-legendary-master-idle.json) |
 | Legendary Mosaics: The Dwarf and the Terrible Cat | 176894 | [176894-legendary-mosaics-the-dwarf-and-the-terrible-cat.json](./176894-legendary-mosaics-the-dwarf-and-the-terrible-cat.json) |
+| Legendary Pilots | 258112 | [258112-legendary-pilots.json](./258112-legendary-pilots.json) |
 | Legendary Racing | 232163 | [232163-legendary-racing.json](./232163-legendary-racing.json) |
 | Legendary Realms: A Fantasy World Odyssey | 242512 | [242512-legendary-realms-a-fantasy-world-odyssey.json](./242512-legendary-realms-a-fantasy-world-odyssey.json) |
 | Legendary Slide | 261781 | [261781-legendary-slide.json](./261781-legendary-slide.json) |
@@ -4056,6 +4058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Civilization 2 | 262991 | [262991-lost-civilization-2.json](./262991-lost-civilization-2.json) |
 | Lost Coffee | 23950 | [23950-lost-coffee.json](./23950-lost-coffee.json) |
 | Lost Colony | 250422 | [250422-lost-colony.json](./250422-lost-colony.json) |
+| Lost Color | 258110 | [258110-lost-color.json](./258110-lost-color.json) |
 | Lost Colors | 112520 | [112520-lost-colors.json](./112520-lost-colors.json) |
 | Lost Connection | 378392 | [378392-lost-connection.json](./378392-lost-connection.json) |
 | Lost Continent | 191553 | [191553-lost-continent.json](./191553-lost-continent.json) |
