@@ -3616,6 +3616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flap Demon | 158646 | [158646-flap-demon.json](./158646-flap-demon.json) |
 | Flap Happy | 307102 | [307102-flap-happy.json](./307102-flap-happy.json) |
 | Flap Legends | 272447 | [272447-flap-legends.json](./272447-flap-legends.json) |
+| Flapbound | 251094 | [251094-flapbound.json](./251094-flapbound.json) |
 | FlapDeath | 389672 | [389672-flapdeath.json](./389672-flapdeath.json) |
 | FlapOTron | 58760 | [58760-flapotron.json](./58760-flapotron.json) |
 | Flappatron: Episode 2 (Chapters 4-7) | 168847 | [168847-flappatron-episode-2-chapters-4-7.json](./168847-flappatron-episode-2-chapters-4-7.json) |
@@ -4497,6 +4498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Truck Time Machine | 260299 | [260299-food-truck-time-machine.json](./260299-food-truck-time-machine.json) |
 | Food Truck Together | 385309 | [385309-food-truck-together.json](./385309-food-truck-together.json) |
 | Food Truck Tycoon + Flowlines VS | 243793 | [243793-food-truck-tycoon-flowlines-vs.json](./243793-food-truck-tycoon-flowlines-vs.json) |
+| Food Truck Tycoon + Knights & Guns | 251106 | [251106-food-truck-tycoon-knights-and-guns.json](./251106-food-truck-tycoon-knights-and-guns.json) |
 | Food Truck Tycoon: Asian Cuisine | 147922 | [147922-food-truck-tycoon-asian-cuisine.json](./147922-food-truck-tycoon-asian-cuisine.json) |
 | Food Truck Tycoon: Asian Cuisine - Complete Edition | 238046 | [238046-food-truck-tycoon-asian-cuisine-complete-edition.json](./238046-food-truck-tycoon-asian-cuisine-complete-edition.json) |
 | Food Truck Tycoon: Co-op Edition | 247590 | [247590-food-truck-tycoon-co-op-edition.json](./247590-food-truck-tycoon-co-op-edition.json) |
