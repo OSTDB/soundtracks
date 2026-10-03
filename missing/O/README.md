@@ -1062,6 +1062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On the Wings: Birth of a Hero | 199585 | [199585-on-the-wings-birth-of-a-hero.json](./199585-on-the-wings-birth-of-a-hero.json) |
 | On Thy Knees | 393483 | [393483-on-thy-knees.json](./393483-on-thy-knees.json) |
 | On Track | 292509 | [292509-on-track.json](./292509-on-track.json) |
+| On Tuesday, Trevor Found His Shovel | 267553 | [267553-on-tuesday-trevor-found-his-shovel.json](./267553-on-tuesday-trevor-found-his-shovel.json) |
 | On Your Notebook | 365845 | [365845-on-your-notebook.json](./365845-on-your-notebook.json) |
 | On-looker | 129203 | [129203-on-looker.json](./129203-on-looker.json) |
 | On-Together | 347835 | [347835-on-together.json](./347835-on-together.json) |
@@ -1937,6 +1938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbit Putt | 323779 | [323779-orbit-putt.json](./323779-orbit-putt.json) |
 | Orbit Puzzle | 312691 | [312691-orbit-puzzle.json](./312691-orbit-puzzle.json) |
 | Orbit Quest | 107201 | [107201-orbit-quest.json](./107201-orbit-quest.json) |
+| Orbit Salvager | 267556 | [267556-orbit-salvager.json](./267556-orbit-salvager.json) |
 | Orbit: Satellite Defense | 83942 | [83942-orbit-satellite-defense.json](./83942-orbit-satellite-defense.json) |
 | Orbit.Industries | 194457 | [194457-orbit-industries.json](./194457-orbit-industries.json) |
 | Orbital | 208895 | [208895-orbital.json](./208895-orbital.json) |
@@ -2139,6 +2141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orion: Dino Beatdown - Jurassic Edition | 93631 | [93631-orion-dino-beatdown-jurassic-edition.json](./93631-orion-dino-beatdown-jurassic-edition.json) |
 | Orion's End | 211797 | [211797-orions-end.json](./211797-orions-end.json) |
 | Orions: Legend of Wizards | 23269 | [23269-orions-legend-of-wizards.json](./23269-orions-legend-of-wizards.json) |
+| Oripathy | 267579 | [267579-oripathy.json](./267579-oripathy.json) |
 | Orisinal Collection | 397867 | [397867-orisinal-collection.json](./397867-orisinal-collection.json) |
 | Orisinal: Morning Sunshine | 194618 | [194618-orisinal-morning-sunshine.json](./194618-orisinal-morning-sunshine.json) |
 | Orisries | 314635 | [314635-orisries.json](./314635-orisries.json) |
