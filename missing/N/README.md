@@ -3233,6 +3233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga's Ambition: Tenshouki with Power-Up Kit HD Version | 90610 | [90610-nobunagas-ambition-tenshouki-with-power-up-kit-hd-version.json](./90610-nobunagas-ambition-tenshouki-with-power-up-kit-hd-version.json) |
 | NoCanNoTap | 254158 | [254158-nocannotap.json](./254158-nocannotap.json) |
 | Noce | 111848 | [111848-noce.json](./111848-noce.json) |
+| Noche de Reyes | 229100 | [229100-noche-de-reyes.json](./229100-noche-de-reyes.json) |
 | Nociception: Simple Outlook From Hell | 142414 | [142414-nociception-simple-outlook-from-hell.json](./142414-nociception-simple-outlook-from-hell.json) |
 | Nociception: Voltaic Marketplace | 196130 | [196130-nociception-voltaic-marketplace.json](./196130-nociception-voltaic-marketplace.json) |
 | Nock & Load | 341482 | [341482-nock-and-load.json](./341482-nock-and-load.json) |
