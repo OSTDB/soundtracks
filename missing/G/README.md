@@ -3477,6 +3477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodnight | 299122 | [299122-goodnight.json](./299122-goodnight.json) |
 | GoodNight | 193404 | [193404-goodnight.json](./193404-goodnight.json) |
 | Goodnight Rudy | 234589 | [234589-goodnight-rudy.json](./234589-goodnight-rudy.json) |
+| Goodnight Tea | 249321 | [249321-goodnight-tea.json](./249321-goodnight-tea.json) |
 | Goodnight, B | 411801 | [411801-goodnight-b.json](./411801-goodnight-b.json) |
 | Goodnight, Sun | 419900 | [419900-goodnight-sun.json](./419900-goodnight-sun.json) |
 | Goods Puzzle | 406165 | [406165-goods-puzzle.json](./406165-goods-puzzle.json) |
@@ -3911,6 +3912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Strokers | 240911 | [240911-grand-strokers.json](./240911-grand-strokers.json) |
 | Grand Summoners | 90072 | [90072-grand-summoners.json](./90072-grand-summoners.json) |
 | Grand Tactician: The Civil War (1861-1865) | 106575 | [106575-grand-tactician-the-civil-war-1861-1865.json](./106575-grand-tactician-the-civil-war-1861-1865.json) |
+| Grand Tanks: WW2 Tank Games | 249327 | [249327-grand-tanks-ww2-tank-games.json](./249327-grand-tanks-ww2-tank-games.json) |
 | Grand Taxi Auto | 329571 | [329571-grand-taxi-auto.json](./329571-grand-taxi-auto.json) |
 | Grand Theft Auto | 44870 | [44870-grand-theft-auto.json](./44870-grand-theft-auto.json) |
 | Grand Theft Auto 64 | 198246 | [198246-grand-theft-auto-64.json](./198246-grand-theft-auto-64.json) |
@@ -3972,6 +3974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandia | 361321 | [361321-grandia.json](./361321-grandia.json) |
 | Grandia HD Collection | 107214 | [107214-grandia-hd-collection.json](./107214-grandia-hd-collection.json) |
 | Grandia HD Remaster | 107213 | [107213-grandia-hd-remaster.json](./107213-grandia-hd-remaster.json) |
+| Grandma Green | 249353 | [249353-grandma-green.json](./249353-grandma-green.json) |
 | Grandma With A Gun | 335276 | [335276-grandma-with-a-gun.json](./335276-grandma-with-a-gun.json) |
 | Grandma's Guide to the Grand Outside | 415110 | [415110-grandmas-guide-to-the-grand-outside.json](./415110-grandmas-guide-to-the-grand-outside.json) |
 | Grandma's Kitchen | 264007 | [264007-grandmas-kitchen.json](./264007-grandmas-kitchen.json) |
