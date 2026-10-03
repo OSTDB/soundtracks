@@ -1999,6 +1999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Let Loose | 32365 | [32365-hell-let-loose.json](./32365-hell-let-loose.json) |
 | Hell Let Loose: Airborne M1942 Reinforced | 323252 | [323252-hell-let-loose-airborne-m1942-reinforced.json](./323252-hell-let-loose-airborne-m1942-reinforced.json) |
 | Hell Let Loose: Battle Scarred | 371226 | [371226-hell-let-loose-battle-scarred.json](./371226-hell-let-loose-battle-scarred.json) |
+| Hell Let Loose: Deluxe Edition | 273004 | [273004-hell-let-loose-deluxe-edition.json](./273004-hell-let-loose-deluxe-edition.json) |
 | Hell Let Loose: Devotion to Duty | 252863 | [252863-hell-let-loose-devotion-to-duty.json](./252863-hell-let-loose-devotion-to-duty.json) |
 | Hell Let Loose: Operation Overlord Units | 366854 | [366854-hell-let-loose-operation-overlord-units.json](./366854-hell-let-loose-operation-overlord-units.json) |
 | Hell Let Loose: Pea Dot | 312017 | [312017-hell-let-loose-pea-dot.json](./312017-hell-let-loose-pea-dot.json) |
@@ -2008,6 +2009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Let Loose: Silver Vanguard | 371225 | [371225-hell-let-loose-silver-vanguard.json](./371225-hell-let-loose-silver-vanguard.json) |
 | Hell Let Loose: Skull Bucket | 371227 | [371227-hell-let-loose-skull-bucket.json](./371227-hell-let-loose-skull-bucket.json) |
 | Hell Let Loose: Spearhead Edition | 187975 | [187975-hell-let-loose-spearhead-edition.json](./187975-hell-let-loose-spearhead-edition.json) |
+| Hell Let Loose: Ultimate Edition | 273003 | [273003-hell-let-loose-ultimate-edition.json](./273003-hell-let-loose-ultimate-edition.json) |
 | Hell Let Loose: Wacht am Rhein Units | 332022 | [332022-hell-let-loose-wacht-am-rhein-units.json](./332022-hell-let-loose-wacht-am-rhein-units.json) |
 | Hell Loop | 149526 | [149526-hell-loop.json](./149526-hell-loop.json) |
 | Hell Madness | 209677 | [209677-hell-madness.json](./209677-hell-madness.json) |
@@ -3420,6 +3422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Garden Word Pop | 96721 | [96721-hidden-garden-word-pop.json](./96721-hidden-garden-word-pop.json) |
 | Hidden Garden Word Scramble | 233748 | [233748-hidden-garden-word-scramble.json](./233748-hidden-garden-word-scramble.json) |
 | Hidden Gardens | 108262 | [108262-hidden-gardens.json](./108262-hidden-gardens.json) |
+| Hidden Gems of Bermuda 2 | 273034 | [273034-hidden-gems-of-bermuda-2.json](./273034-hidden-gems-of-bermuda-2.json) |
 | Hidden Gems, Hidden Secrets | 240499 | [240499-hidden-gems-hidden-secrets.json](./240499-hidden-gems-hidden-secrets.json) |
 | Hidden Girls: Bikini Dreams | 420673 | [420673-hidden-girls-bikini-dreams.json](./420673-hidden-girls-bikini-dreams.json) |
 | Hidden Girls: Quiet Beauty | 415059 | [415059-hidden-girls-quiet-beauty.json](./415059-hidden-girls-quiet-beauty.json) |
