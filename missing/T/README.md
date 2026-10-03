@@ -1974,6 +1974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple of Hue | 149533 | [149533-temple-of-hue.json](./149533-temple-of-hue.json) |
 | Temple of Kroz | 84200 | [84200-temple-of-kroz.json](./84200-temple-of-kroz.json) |
 | Temple of Lily | 304873 | [304873-temple-of-lily.json](./304873-temple-of-lily.json) |
+| Temple of Lust | 273552 | [273552-temple-of-lust.json](./273552-temple-of-lust.json) |
 | Temple of Pizza | 113763 | [113763-temple-of-pizza.json](./113763-temple-of-pizza.json) |
 | Temple of ROM | 42132 | [42132-temple-of-rom.json](./42132-temple-of-rom.json) |
 | Temple of Rubbo | 191913 | [191913-temple-of-rubbo.json](./191913-temple-of-rubbo.json) |
@@ -1984,6 +1985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple of Starlight | 213315 | [213315-temple-of-starlight.json](./213315-temple-of-starlight.json) |
 | Temple of Tangram | 198519 | [198519-temple-of-tangram.json](./198519-temple-of-tangram.json) |
 | Temple of the Abyssal Winds | 107673 | [107673-temple-of-the-abyssal-winds.json](./107673-temple-of-the-abyssal-winds.json) |
+| Temple of the Ancients | 273543 | [273543-temple-of-the-ancients.json](./273543-temple-of-the-ancients.json) |
 | Temple of the Apsara | 31835 | [31835-temple-of-the-apsara.json](./31835-temple-of-the-apsara.json) |
 | Temple of the Faceless Minotaur Who Sees the Burning Light | 128616 | [128616-temple-of-the-faceless-minotaur-who-sees-the-burning-light.json](./128616-temple-of-the-faceless-minotaur-who-sees-the-burning-light.json) |
 | Temple of the Lizardmen | 142486 | [142486-temple-of-the-lizardmen.json](./142486-temple-of-the-lizardmen.json) |
@@ -15501,6 +15503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TripSync | 189179 | [189179-tripsync.json](./189179-tripsync.json) |
 | TripTrip | 102352 | [102352-triptrip.json](./102352-triptrip.json) |
 | Triptych | 93001 | [93001-triptych.json](./93001-triptych.json) |
+| Tripuzz | 273561 | [273561-tripuzz.json](./273561-tripuzz.json) |
 | Trireme Commander | 81738 | [81738-trireme-commander.json](./81738-trireme-commander.json) |
 | Trism | 29043 | [29043-trism.json](./29043-trism.json) |
 | Tristan | 96532 | [96532-tristan.json](./96532-tristan.json) |
@@ -16455,6 +16458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted Draw | 199649 | [199649-twisted-draw.json](./199649-twisted-draw.json) |
 | Twisted Edge Extreme Snowboarding | 3622 | [3622-twisted-edge-extreme-snowboarding.json](./3622-twisted-edge-extreme-snowboarding.json) |
 | Twisted Insurrection | 219009 | [219009-twisted-insurrection.json](./219009-twisted-insurrection.json) |
+| Twisted Joke | 273548 | [273548-twisted-joke.json](./273548-twisted-joke.json) |
 | Twisted Lands Trilogy | 53864 | [53864-twisted-lands-trilogy.json](./53864-twisted-lands-trilogy.json) |
 | Twisted Lands: Insomniac | 50229 | [50229-twisted-lands-insomniac.json](./50229-twisted-lands-insomniac.json) |
 | Twisted Lands: Insomniac - Collector's Edition | 53863 | [53863-twisted-lands-insomniac-collectors-edition.json](./53863-twisted-lands-insomniac-collectors-edition.json) |
