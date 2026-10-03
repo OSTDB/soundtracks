@@ -3773,6 +3773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape Defenders | 283385 | [283385-shape-defenders.json](./283385-shape-defenders.json) |
 | Shape Escape | 89752 | [89752-shape-escape.json](./89752-shape-escape.json) |
 | Shape Escape | 90362 | [90362-shape-escape.json](./90362-shape-escape.json) |
+| Shape Garden | 240834 | [240834-shape-garden.json](./240834-shape-garden.json) |
 | Shape Invasion | 317445 | [317445-shape-invasion.json](./317445-shape-invasion.json) |
 | Shape of Clouds | 279115 | [279115-shape-of-clouds.json](./279115-shape-of-clouds.json) |
 | Shape Palette | 130779 | [130779-shape-palette.json](./130779-shape-palette.json) |
@@ -3878,6 +3879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sharks and Minnows | 340956 | [340956-sharks-and-minnows.json](./340956-sharks-and-minnows.json) |
 | SharkSketch | 60576 | [60576-sharksketch.json](./60576-sharksketch.json) |
 | Sharkstorm | 297606 | [297606-sharkstorm.json](./297606-sharkstorm.json) |
+| Sharp Minds | 240835 | [240835-sharp-minds.json](./240835-sharp-minds.json) |
 | Sharp Shooter | 213884 | [213884-sharp-shooter.json](./213884-sharp-shooter.json) |
 | Sharp Shooter Bundle: S.N.I.P.E.R Hunter Scope + Knights & Guns | 196824 | [196824-sharp-shooter-bundle-s-n-i-p-e-r-hunter-scope-knights-and-guns.json](./196824-sharp-shooter-bundle-s-n-i-p-e-r-hunter-scope-knights-and-guns.json) |
 | Sharp Shot | 5696 | [5696-sharp-shot.json](./5696-sharp-shot.json) |
@@ -7767,6 +7769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Bros.: Nick & Tom Special | 198126 | [198126-snow-bros-nick-and-tom-special.json](./198126-snow-bros-nick-and-tom-special.json) |
 | Snow Brothers 3: Magical Adventure | 39841 | [39841-snow-brothers-3-magical-adventure.json](./39841-snow-brothers-3-magical-adventure.json) |
 | Snow Cone | 341474 | [341474-snow-cone.json](./341474-snow-cone.json) |
+| Snow Cone Tycoon | 240850 | [240850-snow-cone-tycoon.json](./240850-snow-cone-tycoon.json) |
 | Snow Cones: Episode 1 | 182831 | [182831-snow-cones-episode-1.json](./182831-snow-cones-episode-1.json) |
 | Snow Cones: Episode 2 | 177331 | [177331-snow-cones-episode-2.json](./177331-snow-cones-episode-2.json) |
 | Snow Day: The GapKids Quest | 73548 | [73548-snow-day-the-gapkids-quest.json](./73548-snow-day-the-gapkids-quest.json) |
@@ -7980,6 +7983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer 2 | 346765 | [346765-soccer-2.json](./346765-soccer-2.json) |
 | Soccer 3 | 346767 | [346767-soccer-3.json](./346767-soccer-3.json) |
 | Soccer 86 | 98233 | [98233-soccer-86.json](./98233-soccer-86.json) |
+| Soccer Academy Simulator | 240841 | [240841-soccer-academy-simulator.json](./240841-soccer-academy-simulator.json) |
 | Soccer America International Cup | 43307 | [43307-soccer-america-international-cup.json](./43307-soccer-america-international-cup.json) |
 | Soccer Battle Royale | 108973 | [108973-soccer-battle-royale.json](./108973-soccer-battle-royale.json) |
 | Soccer Boss | 190209 | [190209-soccer-boss.json](./190209-soccer-boss.json) |
@@ -10594,6 +10598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectrubes | 33415 | [33415-spectrubes.json](./33415-spectrubes.json) |
 | Spectrubes Infinity | 96663 | [96663-spectrubes-infinity.json](./96663-spectrubes-infinity.json) |
 | Spectrum | 260129 | [260129-spectrum.json](./260129-spectrum.json) |
+| Spectrum 6 | 240838 | [240838-spectrum-6.json](./240838-spectrum-6.json) |
 | Spectrum Valley | 184132 | [184132-spectrum-valley.json](./184132-spectrum-valley.json) |
 | Spectrum: First Light | 35827 | [35827-spectrum-first-light.json](./35827-spectrum-first-light.json) |
 | SpectrumTap | 41501 | [41501-spectrumtap.json](./41501-spectrumtap.json) |
@@ -13113,6 +13118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay in the White Line: Level Version | 232051 | [232051-stay-in-the-white-line-level-version.json](./232051-stay-in-the-white-line-level-version.json) |
 | Stay Lit, Find Radio | 151042 | [151042-stay-lit-find-radio.json](./151042-stay-lit-find-radio.json) |
 | Stay Mayor | 60756 | [60756-stay-mayor.json](./60756-stay-mayor.json) |
+| Stay on Line: Line Runner | 240926 | [240926-stay-on-line-line-runner.json](./240926-stay-on-line-line-runner.json) |
 | Stay Out | 63813 | [63813-stay-out.json](./63813-stay-out.json) |
 | Stay Safe | 96481 | [96481-stay-safe.json](./96481-stay-safe.json) |
 | Stay Safe 2020 | 156977 | [156977-stay-safe-2020.json](./156977-stay-safe-2020.json) |
@@ -13556,6 +13562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Infinite Kingdom | 310934 | [310934-stick-infinite-kingdom.json](./310934-stick-infinite-kingdom.json) |
 | Stick It to the Stickman | 215042 | [215042-stick-it-to-the-stickman.json](./215042-stick-it-to-the-stickman.json) |
 | Stick It! | 312183 | [312183-stick-it.json](./312183-stick-it.json) |
+| Stick Knight | 240852 | [240852-stick-knight.json](./240852-stick-knight.json) |
 | Stick Knight Takes Over the Universe | 138657 | [138657-stick-knight-takes-over-the-universe.json](./138657-stick-knight-takes-over-the-universe.json) |
 | Stick man Flipper | 112742 | [112742-stick-man-flipper.json](./112742-stick-man-flipper.json) |
 | Stick Man Rescue | 44501 | [44501-stick-man-rescue.json](./44501-stick-man-rescue.json) |
@@ -17954,6 +17961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swing Into Zero-G | 296667 | [296667-swing-into-zero-g.json](./296667-swing-into-zero-g.json) |
 | Swing Lord | 141142 | [141142-swing-lord.json](./141142-swing-lord.json) |
 | Swing of the Valkyries | 391597 | [391597-swing-of-the-valkyries.json](./391597-swing-of-the-valkyries.json) |
+| Swing Racers | 240859 | [240859-swing-racers.json](./240859-swing-racers.json) |
 | Swing Robot | 255172 | [255172-swing-robot.json](./255172-swing-robot.json) |
 | Swing Saga | 187465 | [187465-swing-saga.json](./187465-swing-saga.json) |
 | Swing Shift | 420649 | [420649-swing-shift.json](./420649-swing-shift.json) |
