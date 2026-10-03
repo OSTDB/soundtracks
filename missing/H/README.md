@@ -1952,6 +1952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heli-Commando 2017 | 61885 | [61885-heli-commando-2017.json](./61885-heli-commando-2017.json) |
 | Heli-Yeah! Bundle | 154962 | [154962-heli-yeah-bundle.json](./154962-heli-yeah-bundle.json) |
 | Heliborne | 33764 | [33764-heliborne.json](./33764-heliborne.json) |
+| Heliborne: Enhanced Edition | 248802 | [248802-heliborne-enhanced-edition.json](./248802-heliborne-enhanced-edition.json) |
 | Helichapter X | 287110 | [287110-helichapter-x.json](./287110-helichapter-x.json) |
 | Heliconian: Starship Crew Control | 133403 | [133403-heliconian-starship-crew-control.json](./133403-heliconian-starship-crew-control.json) |
 | Helicopter 2015: Natural Disasters | 53184 | [53184-helicopter-2015-natural-disasters.json](./53184-helicopter-2015-natural-disasters.json) |
@@ -6234,6 +6235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyacinthus | 120942 | [120942-hyacinthus.json](./120942-hyacinthus.json) |
 | Hyakka Ryoran Master Samurai Chronicles | 408853 | [408853-hyakka-ryoran-master-samurai-chronicles.json](./408853-hyakka-ryoran-master-samurai-chronicles.json) |
 | Hyakka Ryouran Elixir | 60776 | [60776-hyakka-ryouran-elixir.json](./60776-hyakka-ryouran-elixir.json) |
+| Hyakka Ryouran Elixir: Record of Torenia Revival | 248788 | [248788-hyakka-ryouran-elixir-record-of-torenia-revival.json](./248788-hyakka-ryouran-elixir-record-of-torenia-revival.json) |
 | Hyakkano: 100 Girlfriends | 408167 | [408167-hyakkano-100-girlfriends.json](./408167-hyakkano-100-girlfriends.json) |
 | Hyakki Yako Survivor | 331332 | [331332-hyakki-yako-survivor.json](./331332-hyakki-yako-survivor.json) |
 | Hyakki Yako: OH&S | 259289 | [259289-hyakki-yako-oh-and-s.json](./259289-hyakki-yako-oh-and-s.json) |
