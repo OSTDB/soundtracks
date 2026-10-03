@@ -2635,6 +2635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sekrets of the Dungeon | 149489 | [149489-sekrets-of-the-dungeon.json](./149489-sekrets-of-the-dungeon.json) |
 | Sektori | 217363 | [217363-sektori.json](./217363-sektori.json) |
 | Sekure Fuumin no Omocha Hako | 254500 | [254500-sekure-fuumin-no-omocha-hako.json](./254500-sekure-fuumin-no-omocha-hako.json) |
+| Sel Mounta: Siege the Demon Castle | 259732 | [259732-sel-mounta-siege-the-demon-castle.json](./259732-sel-mounta-siege-the-demon-castle.json) |
 | Selatria | 166217 | [166217-selatria.json](./166217-selatria.json) |
 | Selatria: Advent of the Dakk'rian Empire | 29774 | [29774-selatria-advent-of-the-dakkrian-empire.json](./29774-selatria-advent-of-the-dakkrian-empire.json) |
 | Select Eleven | 410427 | [410427-select-eleven.json](./410427-select-eleven.json) |
@@ -7185,6 +7186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smasher | 349462 | [349462-smasher.json](./349462-smasher.json) |
 | Smasher and the Will o' the Thiccs | 165633 | [165633-smasher-and-the-will-o-the-thiccs.json](./165633-smasher-and-the-will-o-the-thiccs.json) |
 | Smashie | 23952 | [23952-smashie.json](./23952-smashie.json) |
+| Smashing | 259765 | [259765-smashing.json](./259765-smashing.json) |
 | Smashing Drive | 2743 | [2743-smashing-drive.json](./2743-smashing-drive.json) |
 | Smashing Four | 69372 | [69372-smashing-four.json](./69372-smashing-four.json) |
 | Smashing Healthy VR | 132248 | [132248-smashing-healthy-vr.json](./132248-smashing-healthy-vr.json) |
