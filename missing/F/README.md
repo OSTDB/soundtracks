@@ -2373,6 +2373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Film Morbid | 310115 | [310115-film-morbid.json](./310115-film-morbid.json) |
 | Film Studio Manager | 241298 | [241298-film-studio-manager.json](./241298-film-studio-manager.json) |
 | Filsnown: Hikari to Toki | 247506 | [247506-filsnown-hikari-to-toki.json](./247506-filsnown-hikari-to-toki.json) |
+| Filter World | 277512 | [277512-filter-world.json](./277512-filter-world.json) |
 | Filthbreed | 140541 | [140541-filthbreed.json](./140541-filthbreed.json) |
 | Filthy Animals: Heist Simulator | 193203 | [193203-filthy-animals-heist-simulator.json](./193203-filthy-animals-heist-simulator.json) |
 | Filthy Apartments | 385273 | [385273-filthy-apartments.json](./385273-filthy-apartments.json) |
@@ -3421,6 +3422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's AR Lite | 273955 | [273955-five-nights-at-freddys-ar-lite.json](./273955-five-nights-at-freddys-ar-lite.json) |
 | Five Nights at Freddy's AR: Special Delivery - Dark Circus: Encore! | 206706 | [206706-five-nights-at-freddys-ar-special-delivery-dark-circus-encore.json](./206706-five-nights-at-freddys-ar-special-delivery-dark-circus-encore.json) |
 | Five Nights at Freddy's Area 51 | 270670 | [270670-five-nights-at-freddys-area-51.json](./270670-five-nights-at-freddys-area-51.json) |
+| Five Nights at Freddy's Doom | 277526 | [277526-five-nights-at-freddys-doom.json](./277526-five-nights-at-freddys-doom.json) |
 | Five Nights at Freddy's Doom Mod Remake | 291606 | [291606-five-nights-at-freddys-doom-mod-remake.json](./291606-five-nights-at-freddys-doom-mod-remake.json) |
 | Five Nights at Freddy's Gameboy | 305749 | [305749-five-nights-at-freddys-gameboy.json](./305749-five-nights-at-freddys-gameboy.json) |
 | Five Nights at Freddy's Soulless Look | 383375 | [383375-five-nights-at-freddys-soulless-look.json](./383375-five-nights-at-freddys-soulless-look.json) |
@@ -5130,6 +5132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Season 1 | 256925 | [256925-fortnite-season-1.json](./256925-fortnite-season-1.json) |
 | Fortnite: Season 4 | 129876 | [129876-fortnite-season-4.json](./129876-fortnite-season-4.json) |
 | Fortnite: Storm-Wild Raven Starter Pack | 331701 | [331701-fortnite-storm-wild-raven-starter-pack.json](./331701-fortnite-storm-wild-raven-starter-pack.json) |
+| Fortnite: The Final Reckoning Pack | 277521 | [277521-fortnite-the-final-reckoning-pack.json](./277521-fortnite-the-final-reckoning-pack.json) |
 | Fortnite: The Last Laugh Bundle | 139889 | [139889-fortnite-the-last-laugh-bundle.json](./139889-fortnite-the-last-laugh-bundle.json) |
 | Fortnite: Yellowjacket Pack | 360189 | [360189-fortnite-yellowjacket-pack.json](./360189-fortnite-yellowjacket-pack.json) |
 | FortOfTheNight | 105341 | [105341-fortofthenight.json](./105341-fortofthenight.json) |
