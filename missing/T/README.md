@@ -2848,6 +2848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Accursed Crown of the Giant King: Chapter 3 - Citadel on the Wilderlands | 207775 | [207775-the-accursed-crown-of-the-giant-king-chapter-3-citadel-on-the-wilderlands.json](./207775-the-accursed-crown-of-the-giant-king-chapter-3-citadel-on-the-wilderlands.json) |
 | The Accursed Crown of the Giant King: Chapter 4 - The Fallen Giant Kingdom | 207776 | [207776-the-accursed-crown-of-the-giant-king-chapter-4-the-fallen-giant-kingdom.json](./207776-the-accursed-crown-of-the-giant-king-chapter-4-the-fallen-giant-kingdom.json) |
 | The Accuser and the Abyss | 325532 | [325532-the-accuser-and-the-abyss.json](./325532-the-accuser-and-the-abyss.json) |
+| The Aching | 240831 | [240831-the-aching.json](./240831-the-aching.json) |
 | The Aching Aversion: Blood Orange Dreams | 312589 | [312589-the-aching-aversion-blood-orange-dreams.json](./312589-the-aching-aversion-blood-orange-dreams.json) |
 | The Acorn Protocol | 408036 | [408036-the-acorn-protocol.json](./408036-the-acorn-protocol.json) |
 | The Act | 64990 | [64990-the-act.json](./64990-the-act.json) |
