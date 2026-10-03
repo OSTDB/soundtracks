@@ -1604,6 +1604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basement VR | 156579 | [156579-basement-vr.json](./156579-basement-vr.json) |
 | Basemental Gangs | 259230 | [259230-basemental-gangs.json](./259230-basemental-gangs.json) |
 | Bases and Bandits | 215145 | [215145-bases-and-bandits.json](./215145-bases-and-bandits.json) |
+| Bases Loaded | 242041 | [242041-bases-loaded.json](./242041-bases-loaded.json) |
 | Bases Loaded | 7764 | [7764-bases-loaded.json](./7764-bases-loaded.json) |
 | Bases Loaded '96: Double Header | 46099 | [46099-bases-loaded-96-double-header.json](./46099-bases-loaded-96-double-header.json) |
 | Bases Loaded for Game Boy | 273096 | [273096-bases-loaded-for-game-boy.json](./273096-bases-loaded-for-game-boy.json) |
@@ -4259,6 +4260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BirdQuest Find the Difference | 351776 | [351776-birdquest-find-the-difference.json](./351776-birdquest-find-the-difference.json) |
 | Birds & Balls | 95233 | [95233-birds-and-balls.json](./95233-birds-and-balls.json) |
 | Birds and Blocks | 147926 | [147926-birds-and-blocks.json](./147926-birds-and-blocks.json) |
+| Birds and Blocks 2 | 242013 | [242013-birds-and-blocks-2.json](./242013-birds-and-blocks-2.json) |
 | Birds Are Not Real | 416681 | [416681-birds-are-not-real.json](./416681-birds-are-not-real.json) |
 | Birds Aren’t Real | 249357 | [249357-birds-aren-t-real.json](./249357-birds-aren-t-real.json) |
 | Birds Birds Birds | 107209 | [107209-birds-birds-birds.json](./107209-birds-birds-birds.json) |
@@ -8815,6 +8817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Bundle 2 | 196280 | [196280-bunny-bundle-2.json](./196280-bunny-bundle-2.json) |
 | Bunny Bunker | 312160 | [312160-bunny-bunker.json](./312160-bunny-bunker.json) |
 | Bunny Business | 184887 | [184887-bunny-business.json](./184887-bunny-business.json) |
+| Bunny Bye-Bye | 242117 | [242117-bunny-bye-bye.json](./242117-bunny-bye-bye.json) |
 | Bunny Clicker | 320340 | [320340-bunny-clicker.json](./320340-bunny-clicker.json) |
 | Bunny Dodge | 118933 | [118933-bunny-dodge.json](./118933-bunny-dodge.json) |
 | Bunny E-shop | 306528 | [306528-bunny-e-shop.json](./306528-bunny-e-shop.json) |
