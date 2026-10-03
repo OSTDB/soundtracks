@@ -549,10 +549,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice League Hockey | 321439 | [321439-ice-league-hockey.json](./321439-ice-league-hockey.json) |
 | Ice Man | 307838 | [307838-ice-man.json](./307838-ice-man.json) |
 | Ice Master | 92841 | [92841-ice-master.json](./92841-ice-master.json) |
+| Ice Maze | 246540 | [246540-ice-maze.json](./246540-ice-maze.json) |
 | Ice Nosfe | 236499 | [236499-ice-nosfe.json](./236499-ice-nosfe.json) |
 | Ice on the Edge | 335288 | [335288-ice-on-the-edge.json](./335288-ice-on-the-edge.json) |
 | Ice path | 184394 | [184394-ice-path.json](./184394-ice-path.json) |
 | Ice Pops & Popsicles | 102607 | [102607-ice-pops-and-popsicles.json](./102607-ice-pops-and-popsicles.json) |
+| Ice Power | 246541 | [246541-ice-power.json](./246541-ice-power.json) |
 | Ice Princess Crystals | 353998 | [353998-ice-princess-crystals.json](./353998-ice-princess-crystals.json) |
 | Ice Princess Mermaid: Girl Makeup & Dress Up Games | 100320 | [100320-ice-princess-mermaid-girl-makeup-and-dress-up-games.json](./100320-ice-princess-mermaid-girl-makeup-and-dress-up-games.json) |
 | Ice Queen Prom Salon: Princess Makeover Girls Game | 91117 | [91117-ice-queen-prom-salon-princess-makeover-girls-game.json](./91117-ice-queen-prom-salon-princess-makeover-girls-game.json) |
@@ -637,6 +639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icy Fishes | 286643 | [286643-icy-fishes.json](./286643-icy-fishes.json) |
 | Icy Gifts | 342232 | [342232-icy-gifts.json](./342232-icy-gifts.json) |
 | Icy Incline | 296919 | [296919-icy-incline.json](./296919-icy-incline.json) |
+| Icy Journey | 246542 | [246542-icy-journey.json](./246542-icy-journey.json) |
 | Icy Spell | 294863 | [294863-icy-spell.json](./294863-icy-spell.json) |
 | Icy Tower | 18095 | [18095-icy-tower.json](./18095-icy-tower.json) |
 | Icy Tower 2 | 326628 | [326628-icy-tower-2.json](./326628-icy-tower-2.json) |
