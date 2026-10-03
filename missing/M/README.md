@@ -6061,6 +6061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milon's Secret Hell | 323347 | [323347-milons-secret-hell.json](./323347-milons-secret-hell.json) |
 | Milthm | 258703 | [258703-milthm.json](./258703-milthm.json) |
 | Milton Cumberdale | 238990 | [238990-milton-cumberdale.json](./238990-milton-cumberdale.json) |
+| Milton the Alien Guy | 230349 | [230349-milton-the-alien-guy.json](./230349-milton-the-alien-guy.json) |
 | Milu Milan | 265824 | [265824-milu-milan.json](./265824-milu-milan.json) |
 | Milya[broken] | 150128 | [150128-milya-broken.json](./150128-milya-broken.json) |
 | MiM: Meditation Interactive Matrix | 358995 | [358995-mim-meditation-interactive-matrix.json](./358995-mim-meditation-interactive-matrix.json) |
@@ -9482,6 +9483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Onion | 246354 | [246354-mr-onion.json](./246354-mr-onion.json) |
 | Mr. Parkour | 141034 | [141034-mr-parkour.json](./141034-mr-parkour.json) |
 | Mr. Parkour 3 | 141153 | [141153-mr-parkour-3.json](./141153-mr-parkour-3.json) |
+| Mr. Pencil Presents DoodleCraft | 230332 | [230332-mr-pencil-presents-doodlecraft.json](./230332-mr-pencil-presents-doodlecraft.json) |
 | Mr. Photographer | 292750 | [292750-mr-photographer.json](./292750-mr-photographer.json) |
 | Mr. Photographer: Into The Light | 350044 | [350044-mr-photographer-into-the-light.json](./350044-mr-photographer-into-the-light.json) |
 | Mr. Pibb: The 3D Interactive Game | 123586 | [123586-mr-pibb-the-3d-interactive-game.json](./123586-mr-pibb-the-3d-interactive-game.json) |
