@@ -883,6 +883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omeganaut | 135032 | [135032-omeganaut.json](./135032-omeganaut.json) |
 | Omelet You Cook | 333100 | [333100-omelet-you-cook.json](./333100-omelet-you-cook.json) |
 | Omelet's Quest | 373522 | [373522-omelets-quest.json](./373522-omelets-quest.json) |
+| Omen | 259144 | [259144-omen.json](./259144-omen.json) |
 | Omen Exitio: Hunger | 236941 | [236941-omen-exitio-hunger.json](./236941-omen-exitio-hunger.json) |
 | Omen Fall | 251805 | [251805-omen-fall.json](./251805-omen-fall.json) |
 | Omen of Sorrow | 27070 | [27070-omen-of-sorrow.json](./27070-omen-of-sorrow.json) |
@@ -1585,6 +1586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Jump! | 260756 | [260756-only-jump.json](./260756-only-jump.json) |
 | Only Kitty Cat Up | 395669 | [395669-only-kitty-cat-up.json](./395669-only-kitty-cat-up.json) |
 | Only Lead Can Stop Them | 197115 | [197115-only-lead-can-stop-them.json](./197115-only-lead-can-stop-them.json) |
+| Only One | 259187 | [259187-only-one.json](./259187-only-one.json) |
 | Only One | 328599 | [328599-only-one.json](./328599-only-one.json) |
 | Only One Mosquito | 181354 | [181354-only-one-mosquito.json](./181354-only-one-mosquito.json) |
 | Only One Night | 394222 | [394222-only-one-night.json](./394222-only-one-night.json) |
@@ -1627,6 +1629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onsento | 399591 | [399591-onsento.json](./399591-onsento.json) |
 | OnsenVR | 75804 | [75804-onsenvr.json](./75804-onsenvr.json) |
 | Onside Soccer | 37125 | [37125-onside-soccer.json](./37125-onside-soccer.json) |
+| Onslaught | 259137 | [259137-onslaught.json](./259137-onslaught.json) |
 | Onslaught | 341510 | [341510-onslaught.json](./341510-onslaught.json) |
 | Onslaught | 69201 | [69201-onslaught.json](./69201-onslaught.json) |
 | OnSlaught | 163293 | [163293-onslaught.json](./163293-onslaught.json) |
