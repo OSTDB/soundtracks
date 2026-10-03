@@ -1730,6 +1730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawns Survival | 390002 | [390002-pawns-survival.json](./390002-pawns-survival.json) |
 | Pawnshop No. 17 | 386290 | [386290-pawnshop-no-17.json](./386290-pawnshop-no-17.json) |
 | PawnShop Simulator | 325525 | [325525-pawnshop-simulator.json](./325525-pawnshop-simulator.json) |
+| Pawperty Damage | 238571 | [238571-pawperty-damage.json](./238571-pawperty-damage.json) |
 | Pawprints Match | 359410 | [359410-pawprints-match.json](./359410-pawprints-match.json) |
 | PawRebuild | 406698 | [406698-pawrebuild.json](./406698-pawrebuild.json) |
 | Paws | 94253 | [94253-paws.json](./94253-paws.json) |
@@ -4743,6 +4744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetary Annihilation: Titans | 18962 | [18962-planetary-annihilation-titans.json](./18962-planetary-annihilation-titans.json) |
 | Planetary Defense Force | 129787 | [129787-planetary-defense-force.json](./129787-planetary-defense-force.json) |
 | Planetary Deliver | 188929 | [188929-planetary-deliver.json](./188929-planetary-deliver.json) |
+| Planetary Destruction | 238584 | [238584-planetary-destruction.json](./238584-planetary-destruction.json) |
 | Planetary Escape: An Audiogame | 181380 | [181380-planetary-escape-an-audiogame.json](./181380-planetary-escape-an-audiogame.json) |
 | Planetary Factory | 245980 | [245980-planetary-factory.json](./245980-planetary-factory.json) |
 | Planetary Field Team | 406125 | [406125-planetary-field-team.json](./406125-planetary-field-team.json) |
