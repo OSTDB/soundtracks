@@ -1272,6 +1272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua Fighter Remix | 145524 | [145524-virtua-fighter-remix.json](./145524-virtua-fighter-remix.json) |
 | Virtua Fighter: Fever Combo | 61862 | [61862-virtua-fighter-fever-combo.json](./61862-virtua-fighter-fever-combo.json) |
 | Virtua NBA | 39790 | [39790-virtua-nba.json](./39790-virtua-nba.json) |
+| Virtua Photo Studio | 250533 | [250533-virtua-photo-studio.json](./250533-virtua-photo-studio.json) |
 | Virtua Quest | 1554 | [1554-virtua-quest.json](./1554-virtua-quest.json) |
 | Virtua Racing Demake | 181251 | [181251-virtua-racing-demake.json](./181251-virtua-racing-demake.json) |
 | Virtua Striker | 313318 | [313318-virtua-striker.json](./313318-virtua-striker.json) |
