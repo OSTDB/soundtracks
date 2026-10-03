@@ -5759,6 +5759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinister City | 17898 | [17898-sinister-city.json](./17898-sinister-city.json) |
 | Sinister Entity | 221125 | [221125-sinister-entity.json](./221125-sinister-entity.json) |
 | Sinister Fate | 38992 | [38992-sinister-fate.json](./38992-sinister-fate.json) |
+| Sinister Games | 254649 | [254649-sinister-games.json](./254649-sinister-games.json) |
 | Sinister Halloween | 110762 | [110762-sinister-halloween.json](./110762-sinister-halloween.json) |
 | Sinister Hospital | 296384 | [296384-sinister-hospital.json](./296384-sinister-hospital.json) |
 | Sinister Mansion | 297798 | [297798-sinister-mansion.json](./297798-sinister-mansion.json) |
@@ -6161,6 +6162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skippy Saves the Day | 326676 | [326676-skippy-saves-the-day.json](./326676-skippy-saves-the-day.json) |
 | Skippy the Bot | 163369 | [163369-skippy-the-bot.json](./163369-skippy-the-bot.json) |
 | Skippy: The Curse Of The Temple Of Ock | 132042 | [132042-skippy-the-curse-of-the-temple-of-ock.json](./132042-skippy-the-curse-of-the-temple-of-ock.json) |
+| Skippy's Diner | 254654 | [254654-skippys-diner.json](./254654-skippys-diner.json) |
 | Skippy's Grand Escape | 334335 | [334335-skippys-grand-escape.json](./334335-skippys-grand-escape.json) |
 | Skirmish | 13756 | [13756-skirmish.json](./13756-skirmish.json) |
 | Skirmish | 257946 | [257946-skirmish.json](./257946-skirmish.json) |
@@ -11072,6 +11074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Hunter: Death Mark II | 133814 | [133814-spirit-hunter-death-mark-ii.json](./133814-spirit-hunter-death-mark-ii.json) |
 | Spirit Hunters Inc. | 23587 | [23587-spirit-hunters-inc.json](./23587-spirit-hunters-inc.json) |
 | Spirit Hunters Inc. Shadow/Light | 84895 | [84895-spirit-hunters-inc-shadow-light.json](./84895-spirit-hunters-inc-shadow-light.json) |
+| Spirit Island: Horizons of Spirit Island | 254660 | [254660-spirit-island-horizons-of-spirit-island.json](./254660-spirit-island-horizons-of-spirit-island.json) |
 | Spirit Legends: Finding Balance - Collector's Edition | 338707 | [338707-spirit-legends-finding-balance-collectors-edition.json](./338707-spirit-legends-finding-balance-collectors-edition.json) |
 | Spirit Legends: Solar Eclipse - Collector's Edition | 338706 | [338706-spirit-legends-solar-eclipse-collectors-edition.json](./338706-spirit-legends-solar-eclipse-collectors-edition.json) |
 | Spirit Level | 322997 | [322997-spirit-level.json](./322997-spirit-level.json) |
@@ -14245,6 +14248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Sports Soccer | 55152 | [55152-street-sports-soccer.json](./55152-street-sports-soccer.json) |
 | Street Sweeper | 129643 | [129643-street-sweeper.json](./129643-street-sweeper.json) |
 | Street Tennis, the Next Generation Champions | 57668 | [57668-street-tennis-the-next-generation-champions.json](./57668-street-tennis-the-next-generation-champions.json) |
+| Street Thugz | 254661 | [254661-street-thugz.json](./254661-street-thugz.json) |
 | Street Totochèr | 288760 | [288760-street-totocher.json](./288760-street-totocher.json) |
 | Street Tuning Evolution | 112494 | [112494-street-tuning-evolution.json](./112494-street-tuning-evolution.json) |
 | Street Vendor Simulator | 347330 | [347330-street-vendor-simulator.json](./347330-street-vendor-simulator.json) |
