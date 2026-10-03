@@ -5271,6 +5271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cluck and Tag | 389702 | [389702-cluck-and-tag.json](./389702-cluck-and-tag.json) |
 | Cluck Avengers | 299407 | [299407-cluck-avengers.json](./299407-cluck-avengers.json) |
 | Cluck Cluck'em | 183456 | [183456-cluck-cluckem.json](./183456-cluck-cluckem.json) |
+| Cluckmech Oasis | 275812 | [275812-cluckmech-oasis.json](./275812-cluckmech-oasis.json) |
 | Cludbugz's Twisted Magic | 51969 | [51969-cludbugzs-twisted-magic.json](./51969-cludbugzs-twisted-magic.json) |
 | Clue | 206977 | [206977-clue.json](./206977-clue.json) |
 | Clue Kaguya-sama: Love is War | 262363 | [262363-clue-kaguya-sama-love-is-war.json](./262363-clue-kaguya-sama-love-is-war.json) |
