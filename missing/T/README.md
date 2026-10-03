@@ -5941,6 +5941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters XIV: Ultimate Edition | 146182 | [146182-the-king-of-fighters-xiv-ultimate-edition.json](./146182-the-king-of-fighters-xiv-ultimate-edition.json) |
 | The King of Fighters XIV: Vanessa | 320254 | [320254-the-king-of-fighters-xiv-vanessa.json](./320254-the-king-of-fighters-xiv-vanessa.json) |
 | The King Of Fighters XIV: Whip | 320256 | [320256-the-king-of-fighters-xiv-whip.json](./320256-the-king-of-fighters-xiv-whip.json) |
+| The King of Fighters XV: Character - Najd | 260881 | [260881-the-king-of-fighters-xv-character-najd.json](./260881-the-king-of-fighters-xv-character-najd.json) |
 | The King of Fighters XV: Character "Sylvie Paula Paula" | 249759 | [249759-the-king-of-fighters-xv-character-sylvie-paula-paula.json](./249759-the-king-of-fighters-xv-character-sylvie-paula-paula.json) |
 | The King of Fighters XV: Characters Mature & Vice | 317839 | [317839-the-king-of-fighters-xv-characters-mature-and-vice.json](./317839-the-king-of-fighters-xv-characters-mature-and-vice.json) |
 | The King of Fighters XV: DLC Costume "Classic Leona" | 332031 | [332031-the-king-of-fighters-xv-dlc-costume-classic-leona.json](./332031-the-king-of-fighters-xv-dlc-costume-classic-leona.json) |
@@ -9428,6 +9429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Visitor: Alien Worm | 174740 | [174740-the-visitor-alien-worm.json](./174740-the-visitor-alien-worm.json) |
 | The Visitor: Ep.1 - Kitty Cat Carnage | 196326 | [196326-the-visitor-ep-1-kitty-cat-carnage.json](./196326-the-visitor-ep-1-kitty-cat-carnage.json) |
 | The Visitors | 130969 | [130969-the-visitors.json](./130969-the-visitors.json) |
+| The Visitors from Mir | 260896 | [260896-the-visitors-from-mir.json](./260896-the-visitors-from-mir.json) |
 | The Voice | 26291 | [26291-the-voice.json](./26291-the-voice.json) |
 | The Voice from the Well: The Velessar Saga | 238435 | [238435-the-voice-from-the-well-the-velessar-saga.json](./238435-the-voice-from-the-well-the-velessar-saga.json) |
 | The Voice in the Void | 48005 | [48005-the-voice-in-the-void.json](./48005-the-voice-in-the-void.json) |
@@ -12151,6 +12153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TNT Racers | 20555 | [20555-tnt-racers.json](./20555-tnt-racers.json) |
 | TNT: Evilution | 313169 | [313169-tnt-evilution.json](./313169-tnt-evilution.json) |
 | TNT: Evilution | 46616 | [46616-tnt-evilution.json](./46616-tnt-evilution.json) |
+| TNT: Renascence | 260860 | [260860-tnt-renascence.json](./260860-tnt-renascence.json) |
 | TNT: Threevilution | 316174 | [316174-tnt-threevilution.json](./316174-tnt-threevilution.json) |
 | TNT! | 118978 | [118978-tnt.json](./118978-tnt.json) |
 | TNTPhobia | 311461 | [311461-tntphobia.json](./311461-tntphobia.json) |
