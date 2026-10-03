@@ -4541,6 +4541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Magic | 14610 | [14610-black-magic.json](./14610-black-magic.json) |
 | Black Magic | 300790 | [300790-black-magic.json](./300790-black-magic.json) |
 | Black Magic Gamebox | 192798 | [192798-black-magic-gamebox.json](./192798-black-magic-gamebox.json) |
+| Black Magnetic | 262560 | [262560-black-magnetic.json](./262560-black-magnetic.json) |
 | Black Market Bowling | 57643 | [57643-black-market-bowling.json](./57643-black-market-bowling.json) |
 | Black Market of Bulletphilia: 100th Black Market | 210247 | [210247-black-market-of-bulletphilia-100th-black-market.json](./210247-black-market-of-bulletphilia-100th-black-market.json) |
 | Black Mesa Inbound | 253030 | [253030-black-mesa-inbound.json](./253030-black-mesa-inbound.json) |
@@ -8940,6 +8941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bury Me in the Sand | 165523 | [165523-bury-me-in-the-sand.json](./165523-bury-me-in-the-sand.json) |
 | Bury Me With The Rain | 330370 | [330370-bury-me-with-the-rain.json](./330370-bury-me-with-the-rain.json) |
 | Bury me, my Love | 74959 | [74959-bury-me-my-love.json](./74959-bury-me-my-love.json) |
+| Bury My Heart Knee Deep | 262546 | [262546-bury-my-heart-knee-deep.json](./262546-bury-my-heart-knee-deep.json) |
 | Bury Your Gays | 269864 | [269864-bury-your-gays.json](./269864-bury-your-gays.json) |
 | Bus & Taxi Driving Simulator | 86825 | [86825-bus-and-taxi-driving-simulator.json](./86825-bus-and-taxi-driving-simulator.json) |
 | Bus Bound | 348339 | [348339-bus-bound.json](./348339-bus-bound.json) |
