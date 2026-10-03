@@ -1010,6 +1010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ignition | 180309 | [180309-ignition.json](./180309-ignition.json) |
 | Ignition Arena | 314896 | [314896-ignition-arena.json](./314896-ignition-arena.json) |
 | Ignore the Blackbird | 400951 | [400951-ignore-the-blackbird.json](./400951-ignore-the-blackbird.json) |
+| Ignored and Humiliated by Gamer Girls | 249344 | [249344-ignored-and-humiliated-by-gamer-girls.json](./249344-ignored-and-humiliated-by-gamer-girls.json) |
 | Igo Meikan | 138706 | [138706-igo-meikan.json](./138706-igo-meikan.json) |
 | Igo Shinan | 63890 | [63890-igo-shinan.json](./63890-igo-shinan.json) |
 | Igo Time Trial: Shikatsu Daihyakka | 268504 | [268504-igo-time-trial-shikatsu-daihyakka.json](./268504-igo-time-trial-shikatsu-daihyakka.json) |
