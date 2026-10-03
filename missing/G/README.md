@@ -2684,6 +2684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go to Heck | 214154 | [214154-go-to-heck.json](./214154-go-to-heck.json) |
 | Go to Hell | 211432 | [211432-go-to-hell.json](./211432-go-to-hell.json) |
 | Go to It | 110944 | [110944-go-to-it.json](./110944-go-to-it.json) |
+| Go To Sleep | 268651 | [268651-go-to-sleep.json](./268651-go-to-sleep.json) |
 | Go to Ten | 100940 | [100940-go-to-ten.json](./100940-go-to-ten.json) |
 | Go Up | 363958 | [363958-go-up.json](./363958-go-up.json) |
 | Go Up Frog | 401521 | [401521-go-up-frog.json](./401521-go-up-frog.json) |
@@ -4978,6 +4979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guess Who? Fire Emblem: Three Houses Edition! | 176916 | [176916-guess-who-fire-emblem-three-houses-edition.json](./176916-guess-who-fire-emblem-three-houses-edition.json) |
 | Guessed It! | 408027 | [408027-guessed-it.json](./408027-guessed-it.json) |
 | Guessmoji | 231463 | [231463-guessmoji.json](./231463-guessmoji.json) |
+| Guessr.tv | 268667 | [268667-guessr-tv.json](./268667-guessr-tv.json) |
 | Guest House | 313349 | [313349-guest-house.json](./313349-guest-house.json) |
 | Guest Rush | 342728 | [342728-guest-rush.json](./342728-guest-rush.json) |
 | Gugong | 291720 | [291720-gugong.json](./291720-gugong.json) |
