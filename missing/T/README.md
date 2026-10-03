@@ -3588,6 +3588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Case of the City Botucaiba | 257415 | [257415-the-case-of-the-city-botucaiba.json](./257415-the-case-of-the-city-botucaiba.json) |
 | The Case of the Dark Strangler | 337678 | [337678-the-case-of-the-dark-strangler.json](./337678-the-case-of-the-dark-strangler.json) |
 | The Case of the Golden Idol | 166722 | [166722-the-case-of-the-golden-idol.json](./166722-the-case-of-the-golden-idol.json) |
+| The Case of the Golden Idol: Complete Edition | 264814 | [264814-the-case-of-the-golden-idol-complete-edition.json](./264814-the-case-of-the-golden-idol-complete-edition.json) |
 | The Case of the Missing Heirloom | 371399 | [371399-the-case-of-the-missing-heirloom.json](./371399-the-case-of-the-missing-heirloom.json) |
 | The Case of the Muffin Diver | 70371 | [70371-the-case-of-the-muffin-diver.json](./70371-the-case-of-the-muffin-diver.json) |
 | The Case of the Murdered Matriarch | 302500 | [302500-the-case-of-the-murdered-matriarch.json](./302500-the-case-of-the-murdered-matriarch.json) |
