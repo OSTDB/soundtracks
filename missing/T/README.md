@@ -5998,6 +5998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King Of Fighters XIV: Whip | 320256 | [320256-the-king-of-fighters-xiv-whip.json](./320256-the-king-of-fighters-xiv-whip.json) |
 | The King of Fighters XV: Character - Najd | 260881 | [260881-the-king-of-fighters-xv-character-najd.json](./260881-the-king-of-fighters-xv-character-najd.json) |
 | The King of Fighters XV: Character "Sylvie Paula Paula" | 249759 | [249759-the-king-of-fighters-xv-character-sylvie-paula-paula.json](./249759-the-king-of-fighters-xv-character-sylvie-paula-paula.json) |
+| The King of Fighters XV: Characters - Kim Kaphwan | 243761 | [243761-the-king-of-fighters-xv-characters-kim-kaphwan.json](./243761-the-king-of-fighters-xv-characters-kim-kaphwan.json) |
 | The King of Fighters XV: Characters Mature & Vice | 317839 | [317839-the-king-of-fighters-xv-characters-mature-and-vice.json](./317839-the-king-of-fighters-xv-characters-mature-and-vice.json) |
 | The King of Fighters XV: DLC Costume "Classic Leona" | 332031 | [332031-the-king-of-fighters-xv-dlc-costume-classic-leona.json](./332031-the-king-of-fighters-xv-dlc-costume-classic-leona.json) |
 | The King of Fighters XV: Team Garou | 195801 | [195801-the-king-of-fighters-xv-team-garou.json](./195801-the-king-of-fighters-xv-team-garou.json) |
@@ -16516,6 +16517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turpin | 42138 | [42138-turpin.json](./42138-turpin.json) |
 | Turquoise | 389596 | [389596-turquoise.json](./389596-turquoise.json) |
 | Turret | 130200 | [130200-turret.json](./130200-turret.json) |
+| Turret Defense | 243821 | [243821-turret-defense.json](./243821-turret-defense.json) |
 | Turret Defense King | 317362 | [317362-turret-defense-king.json](./317362-turret-defense-king.json) |
 | Turret Jumper 2 | 183350 | [183350-turret-jumper-2.json](./183350-turret-jumper-2.json) |
 | Turret Tech | 106155 | [106155-turret-tech.json](./106155-turret-tech.json) |
