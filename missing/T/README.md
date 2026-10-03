@@ -1208,6 +1208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Craft | 239048 | [239048-tap-craft.json](./239048-tap-craft.json) |
 | Tap Crush Jewels | 90679 | [90679-tap-crush-jewels.json](./90679-tap-crush-jewels.json) |
 | Tap Dash | 252140 | [252140-tap-dash.json](./252140-tap-dash.json) |
+| Tap Drift: Wild Run Car Racing | 257006 | [257006-tap-drift-wild-run-car-racing.json](./257006-tap-drift-wild-run-car-racing.json) |
 | Tap Gun | 247436 | [247436-tap-gun.json](./247436-tap-gun.json) |
 | Tap Heroes | 35228 | [35228-tap-heroes.json](./35228-tap-heroes.json) |
 | Tap It Away | 304169 | [304169-tap-it-away.json](./304169-tap-it-away.json) |
@@ -1575,6 +1576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Fortress 2: End of the Line Update | 256883 | [256883-team-fortress-2-end-of-the-line-update.json](./256883-team-fortress-2-end-of-the-line-update.json) |
 | Team Fortress 2: Gold Rush | 335705 | [335705-team-fortress-2-gold-rush.json](./335705-team-fortress-2-gold-rush.json) |
 | Team Fortress 2: Gold Rush Update | 256372 | [256372-team-fortress-2-gold-rush-update.json](./256372-team-fortress-2-gold-rush-update.json) |
+| Team Fortress 2: Jungle Inferno | 256968 | [256968-team-fortress-2-jungle-inferno.json](./256968-team-fortress-2-jungle-inferno.json) |
 | Team Fortress 2: Love & War Update | 256882 | [256882-team-fortress-2-love-and-war-update.json](./256882-team-fortress-2-love-and-war-update.json) |
 | Team Fortress 2: Mann vs. Machine - Two Cities Update | 256881 | [256881-team-fortress-2-mann-vs-machine-two-cities-update.json](./256881-team-fortress-2-mann-vs-machine-two-cities-update.json) |
 | Team Fortress 2: Mecha Update | 256782 | [256782-team-fortress-2-mecha-update.json](./256782-team-fortress-2-mecha-update.json) |
@@ -6362,6 +6364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Trails into Reverie - Premium Cosmetic Set | 251673 | [251673-the-legend-of-heroes-trails-into-reverie-premium-cosmetic-set.json](./251673-the-legend-of-heroes-trails-into-reverie-premium-cosmetic-set.json) |
 | The Legend of Heroes: Trails into Reverie - SSS Summer Splash Set | 251671 | [251671-the-legend-of-heroes-trails-into-reverie-sss-summer-splash-set.json](./251671-the-legend-of-heroes-trails-into-reverie-sss-summer-splash-set.json) |
 | The Legend of Heroes: Trails into Reverie - Standard Cosmetic Set | 251672 | [251672-the-legend-of-heroes-trails-into-reverie-standard-cosmetic-set.json](./251672-the-legend-of-heroes-trails-into-reverie-standard-cosmetic-set.json) |
+| The Legend of Heroes: Trails into Reverie - Ultimate Edition | 257016 | [257016-the-legend-of-heroes-trails-into-reverie-ultimate-edition.json](./257016-the-legend-of-heroes-trails-into-reverie-ultimate-edition.json) |
 | The Legend of Heroes: Trails of Cold Steel | 13557 | [13557-the-legend-of-heroes-trails-of-cold-steel.json](./13557-the-legend-of-heroes-trails-of-cold-steel.json) |
 | The Legend of Heroes: Trails of Cold Steel - Lionheart Edition | 89911 | [89911-the-legend-of-heroes-trails-of-cold-steel-lionheart-edition.json](./89911-the-legend-of-heroes-trails-of-cold-steel-lionheart-edition.json) |
 | The Legend of Heroes: Trails of Cold Steel II | 13558 | [13558-the-legend-of-heroes-trails-of-cold-steel-ii.json](./13558-the-legend-of-heroes-trails-of-cold-steel-ii.json) |
@@ -9212,6 +9215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trail: Frontier Challenge | 49120 | [49120-the-trail-frontier-challenge.json](./49120-the-trail-frontier-challenge.json) |
 | The Trailblazer | 201185 | [201185-the-trailblazer.json](./201185-the-trailblazer.json) |
 | The Trailer Incident | 390652 | [390652-the-trailer-incident.json](./390652-the-trailer-incident.json) |
+| The Train | 256993 | [256993-the-train.json](./256993-the-train.json) |
 | The Train | 50065 | [50065-the-train.json](./50065-the-train.json) |
 | The Train Can't Escape Without XXX!? | 353915 | [353915-the-train-cant-escape-without-xxx.json](./353915-the-train-cant-escape-without-xxx.json) |
 | The Train Giant | 10002 | [10002-the-train-giant.json](./10002-the-train-giant.json) |
@@ -12390,6 +12394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tofu Drifter | 234600 | [234600-tofu-drifter.json](./234600-tofu-drifter.json) |
 | Tofu Go! 2: The Onsen Adventure | 242206 | [242206-tofu-go-2-the-onsen-adventure.json](./242206-tofu-go-2-the-onsen-adventure.json) |
 | Tofu'Drift | 242629 | [242629-tofudrift.json](./242629-tofudrift.json) |
+| Toga | 256987 | [256987-toga.json](./256987-toga.json) |
 | Together | 152248 | [152248-together.json](./152248-together.json) |
 | Together | 82054 | [82054-together.json](./82054-together.json) |
 | Together | 96269 | [96269-together.json](./96269-together.json) |
@@ -14461,6 +14466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator 2021: Union Pacific No. 119 Steam Loco | 162382 | [162382-train-simulator-2021-union-pacific-no-119-steam-loco.json](./162382-train-simulator-2021-union-pacific-no-119-steam-loco.json) |
 | Train Simulator 2021: Western Hydraulics Pack | 162352 | [162352-train-simulator-2021-western-hydraulics-pack.json](./162352-train-simulator-2021-western-hydraulics-pack.json) |
 | Train Simulator 2021: Western Maryland Railway Retro Pack | 162395 | [162395-train-simulator-2021-western-maryland-railway-retro-pack.json](./162395-train-simulator-2021-western-maryland-railway-retro-pack.json) |
+| Train Simulator 3: Thameslink BR Class 700/0 EMU | 257017 | [257017-train-simulator-3-thameslink-br-class-700-0-emu.json](./257017-train-simulator-3-thameslink-br-class-700-0-emu.json) |
 | Train Simulator Classic: Boston & Albany - Boston - Springfield Route Add-On | 357395 | [357395-train-simulator-classic-boston-and-albany-boston-springfield-route-add-on.json](./357395-train-simulator-classic-boston-and-albany-boston-springfield-route-add-on.json) |
 | Train Simulator Classic: C-424 | 357392 | [357392-train-simulator-classic-c-424.json](./357392-train-simulator-classic-c-424.json) |
 | Train Simulator Classic: DB BR 218 'V 164' | 279013 | [279013-train-simulator-classic-db-br-218-v-164.json](./279013-train-simulator-classic-db-br-218-v-164.json) |
@@ -14529,6 +14535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Valley 2: Workshop Gems - Ruby | 219540 | [219540-train-valley-2-workshop-gems-ruby.json](./219540-train-valley-2-workshop-gems-ruby.json) |
 | Train Valley Collection | 270317 | [270317-train-valley-collection.json](./270317-train-valley-collection.json) |
 | Train Valley Collection: Deluxe Edition | 270318 | [270318-train-valley-collection-deluxe-edition.json](./270318-train-valley-collection-deluxe-edition.json) |
+| Train Valley World | 257014 | [257014-train-valley-world.json](./257014-train-valley-world.json) |
 | Train Valley: Console Edition | 210746 | [210746-train-valley-console-edition.json](./210746-train-valley-console-edition.json) |
 | Train Valley: Deluxe Edition | 53857 | [53857-train-valley-deluxe-edition.json](./53857-train-valley-deluxe-edition.json) |
 | Train Valley: Germany | 154507 | [154507-train-valley-germany.json](./154507-train-valley-germany.json) |
