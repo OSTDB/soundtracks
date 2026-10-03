@@ -3170,6 +3170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Rush! Anniversary | 36230 | [36230-gold-rush-anniversary.json](./36230-gold-rush-anniversary.json) |
 | Gold Rush! Anniversary: Special Edition | 54055 | [54055-gold-rush-anniversary-special-edition.json](./54055-gold-rush-anniversary-special-edition.json) |
 | Gold Rush! Classic | 36288 | [36288-gold-rush-classic.json](./36288-gold-rush-classic.json) |
+| Gold Taker | 239112 | [239112-gold-taker.json](./239112-gold-taker.json) |
 | Gold Up | 405619 | [405619-gold-up.json](./405619-gold-up.json) |
 | Goldbeard's Quest | 120346 | [120346-goldbeards-quest.json](./120346-goldbeards-quest.json) |
 | Golden Apple | 298802 | [298802-golden-apple.json](./298802-golden-apple.json) |
@@ -3520,6 +3521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Google Earth Flight Simulator | 10902 | [10902-google-earth-flight-simulator.json](./10902-google-earth-flight-simulator.json) |
 | Google Feud | 10898 | [10898-google-feud.json](./10898-google-feud.json) |
 | Google Feudle | 227214 | [227214-google-feudle.json](./227214-google-feudle.json) |
+| Google Maps: Pokémon Challenge | 239127 | [239127-google-maps-pokemon-challenge.json](./239127-google-maps-pokemon-challenge.json) |
 | Google Minesweeper | 184478 | [184478-google-minesweeper.json](./184478-google-minesweeper.json) |
 | Google Santa Tracker | 229336 | [229336-google-santa-tracker.json](./229336-google-santa-tracker.json) |
 | Google Solitaire | 228368 | [228368-google-solitaire.json](./228368-google-solitaire.json) |
@@ -4644,6 +4646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Tales: Echo of the Past | 188002 | [188002-grim-tales-echo-of-the-past.json](./188002-grim-tales-echo-of-the-past.json) |
 | Grim Tales: Graywitch | 250592 | [250592-grim-tales-graywitch.json](./250592-grim-tales-graywitch.json) |
 | Grim Tales: Guest from the Future - Collector's Edition | 122390 | [122390-grim-tales-guest-from-the-future-collectors-edition.json](./122390-grim-tales-guest-from-the-future-collectors-edition.json) |
+| Grim Tales: Horizon of Wishes | 239219 | [239219-grim-tales-horizon-of-wishes.json](./239219-grim-tales-horizon-of-wishes.json) |
 | Grim Tales: Horizon of Wishes - Collector's Edition | 214724 | [214724-grim-tales-horizon-of-wishes-collectors-edition.json](./214724-grim-tales-horizon-of-wishes-collectors-edition.json) |
 | Grim Tales: Light in the Darkness - Collector's Edition | 362838 | [362838-grim-tales-light-in-the-darkness-collectors-edition.json](./362838-grim-tales-light-in-the-darkness-collectors-edition.json) |
 | Grim Tales: The Bride | 79616 | [79616-grim-tales-the-bride.json](./79616-grim-tales-the-bride.json) |
