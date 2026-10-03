@@ -1103,6 +1103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haru no Oto ha Marude Kimi ni Nitete | 323821 | [323821-haru-no-oto-ha-marude-kimi-ni-nitete.json](./323821-haru-no-oto-ha-marude-kimi-ni-nitete.json) |
 | Haruka no Kuni | 341606 | [341606-haruka-no-kuni.json](./341606-haruka-no-kuni.json) |
 | Haruka, Winter Dreams | 57185 | [57185-haruka-winter-dreams.json](./57185-haruka-winter-dreams.json) |
+| Haruka: Beyond the Stars | 251065 | [251065-haruka-beyond-the-stars.json](./251065-haruka-beyond-the-stars.json) |
 | Harukanaru Augusta | 37909 | [37909-harukanaru-augusta.json](./37909-harukanaru-augusta.json) |
 | Harukanaru Augusta 2: Masters | 37933 | [37933-harukanaru-augusta-2-masters.json](./37933-harukanaru-augusta-2-masters.json) |
 | Harukanaru Augusta 3: Masters New | 37932 | [37932-harukanaru-augusta-3-masters-new.json](./37932-harukanaru-augusta-3-masters-new.json) |
@@ -5625,6 +5626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hovercraft Race 3D | 26691 | [26691-hovercraft-race-3d.json](./26691-hovercraft-race-3d.json) |
 | Hovercraft Racing | 192836 | [192836-hovercraft-racing.json](./192836-hovercraft-racing.json) |
 | Hovercraft: Build Fly Retry | 105896 | [105896-hovercraft-build-fly-retry.json](./105896-hovercraft-build-fly-retry.json) |
+| Hovercrash: Turbo Boost Racing | 251119 | [251119-hovercrash-turbo-boost-racing.json](./251119-hovercrash-turbo-boost-racing.json) |
 | Hoverforce | 80643 | [80643-hoverforce.json](./80643-hoverforce.json) |
 | HoverGrease 2 | 330535 | [330535-hovergrease-2.json](./330535-hovergrease-2.json) |
 | Hoverise Rebellion | 204412 | [204412-hoverise-rebellion.json](./204412-hoverise-rebellion.json) |
