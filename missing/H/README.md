@@ -1611,6 +1611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart of Fantasy | 404441 | [404441-heart-of-fantasy.json](./404441-heart-of-fantasy.json) |
 | Heart of Fire | 268729 | [268729-heart-of-fire.json](./268729-heart-of-fire.json) |
 | Heart of Gold | 402263 | [402263-heart-of-gold.json](./402263-heart-of-gold.json) |
+| Heart of Iona | 255239 | [255239-heart-of-iona.json](./255239-heart-of-iona.json) |
 | Heart of Mithras | 156003 | [156003-heart-of-mithras.json](./156003-heart-of-mithras.json) |
 | Heart of Mobius | 255702 | [255702-heart-of-mobius.json](./255702-heart-of-mobius.json) |
 | Heart of Moon: The Mask of Seasons | 112484 | [112484-heart-of-moon-the-mask-of-seasons.json](./112484-heart-of-moon-the-mask-of-seasons.json) |
@@ -2836,6 +2837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Herman Electro | 137471 | [137471-herman-electro.json](./137471-herman-electro.json) |
 | Hermano | 299857 | [299857-hermano.json](./299857-hermano.json) |
 | Hermes | 94255 | [94255-hermes.json](./94255-hermes.json) |
+| Hermes: The Fury of Megaera | 255245 | [255245-hermes-the-fury-of-megaera.json](./255245-hermes-the-fury-of-megaera.json) |
 | Hermes: War of the Gods | 127089 | [127089-hermes-war-of-the-gods.json](./127089-hermes-war-of-the-gods.json) |
 | Hermes' Runner | 334193 | [334193-hermes-runner.json](./334193-hermes-runner.json) |
 | Hermetica | 293875 | [293875-hermetica.json](./293875-hermetica.json) |
@@ -3677,6 +3679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Through Time: Road to Rome | 154515 | [154515-hidden-through-time-road-to-rome.json](./154515-hidden-through-time-road-to-rome.json) |
 | Hidden Through Time: Viking Tales | 154516 | [154516-hidden-through-time-viking-tales.json](./154516-hidden-through-time-viking-tales.json) |
 | Hidden Tomatoes | 326783 | [326783-hidden-tomatoes.json](./326783-hidden-tomatoes.json) |
+| Hidden Village Top-Down 3D | 255264 | [255264-hidden-village-top-down-3d.json](./255264-hidden-village-top-down-3d.json) |
 | Hidden Watch | 104121 | [104121-hidden-watch.json](./104121-hidden-watch.json) |
 | Hidden Water | 192712 | [192712-hidden-water.json](./192712-hidden-water.json) |
 | Hidden Western | 192819 | [192819-hidden-western.json](./192819-hidden-western.json) |
@@ -5616,6 +5619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HoverGrease 2 | 330535 | [330535-hovergrease-2.json](./330535-hovergrease-2.json) |
 | Hoverise Rebellion | 204412 | [204412-hoverise-rebellion.json](./204412-hoverise-rebellion.json) |
 | Hoverkitty In The Hoververse: Chapter Three | 290638 | [290638-hoverkitty-in-the-hoververse-chapter-three.json](./290638-hoverkitty-in-the-hoververse-chapter-three.json) |
+| Hoverkitty in The Hoververse: Chapter Two | 255234 | [255234-hoverkitty-in-the-hoververse-chapter-two.json](./255234-hoverkitty-in-the-hoververse-chapter-two.json) |
 | HoverRace | 84292 | [84292-hoverrace.json](./84292-hoverrace.json) |
 | HoverRider | 201002 | [201002-hoverrider.json](./201002-hoverrider.json) |
 | Hovershift | 117695 | [117695-hovershift.json](./117695-hovershift.json) |
