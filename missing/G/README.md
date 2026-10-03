@@ -2157,6 +2157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gilgamesh II | 276275 | [276275-gilgamesh-ii.json](./276275-gilgamesh-ii.json) |
 | GilGul | 339990 | [339990-gilgul.json](./339990-gilgul.json) |
 | Gillbert: Guardian of the Grotto | 310499 | [310499-gillbert-guardian-of-the-grotto.json](./310499-gillbert-guardian-of-the-grotto.json) |
+| Gilles | 236328 | [236328-gilles.json](./236328-gilles.json) |
 | Gilly and the Isle of Sorrow | 340024 | [340024-gilly-and-the-isle-of-sorrow.json](./340024-gilly-and-the-isle-of-sorrow.json) |
 | Gilroy's Grove | 376456 | [376456-gilroys-grove.json](./376456-gilroys-grove.json) |
 | Gilt | 378214 | [378214-gilt.json](./378214-gilt.json) |
@@ -2406,6 +2407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glasses Nightmare | 133218 | [133218-glasses-nightmare.json](./133218-glasses-nightmare.json) |
 | Glassfall | 250017 | [250017-glassfall.json](./250017-glassfall.json) |
 | Glassfish Bomb | 243074 | [243074-glassfish-bomb.json](./243074-glassfish-bomb.json) |
+| Glasshouse | 236321 | [236321-glasshouse.json](./236321-glasshouse.json) |
 | Glassy Stare | 358463 | [358463-glassy-stare.json](./358463-glassy-stare.json) |
 | Glay: Complete Works | 286588 | [286588-glay-complete-works.json](./286588-glay-complete-works.json) |
 | Gleep Gym | 299372 | [299372-gleep-gym.json](./299372-gleep-gym.json) |
@@ -3713,6 +3715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gouketsuji Ichizoku Matsuri Senzo Kuyou | 65593 | [65593-gouketsuji-ichizoku-matsuri-senzo-kuyou.json](./65593-gouketsuji-ichizoku-matsuri-senzo-kuyou.json) |
 | Gourdlets Together | 347821 | [347821-gourdlets-together.json](./347821-gourdlets-together.json) |
 | Gourds Up | 311628 | [311628-gourds-up.json](./311628-gourds-up.json) |
+| GourdsTown | 236423 | [236423-gourdstown.json](./236423-gourdstown.json) |
 | Gourgarion Incubus | 398348 | [398348-gourgarion-incubus.json](./398348-gourgarion-incubus.json) |
 | Gourmania | 50837 | [50837-gourmania.json](./50837-gourmania.json) |
 | Gourmania 2: Great Expectations | 54068 | [54068-gourmania-2-great-expectations.json](./54068-gourmania-2-great-expectations.json) |
@@ -4088,6 +4091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grauen no Torikago: Kapitel 6 - Senritsu | 315063 | [315063-grauen-no-torikago-kapitel-6-senritsu.json](./315063-grauen-no-torikago-kapitel-6-senritsu.json) |
 | Graularm | 126430 | [126430-graularm.json](./126430-graularm.json) |
 | Grav Blazer | 43082 | [43082-grav-blazer.json](./43082-grav-blazer.json) |
+| Grav Factor | 236323 | [236323-grav-factor.json](./236323-grav-factor.json) |
 | Grav My Balls | 345127 | [345127-grav-my-balls.json](./345127-grav-my-balls.json) |
 | Gravastar | 125329 | [125329-gravastar.json](./125329-gravastar.json) |
 | GravBlocks | 34436 | [34436-gravblocks.json](./34436-gravblocks.json) |
