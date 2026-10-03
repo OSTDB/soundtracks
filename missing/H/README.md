@@ -5048,6 +5048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hordelord | 346021 | [346021-hordelord.json](./346021-hordelord.json) |
 | Hordes of Chaos X | 268759 | [268759-hordes-of-chaos-x.json](./268759-hordes-of-chaos-x.json) |
 | Hordes of Enemies Bundle | 331524 | [331524-hordes-of-enemies-bundle.json](./331524-hordes-of-enemies-bundle.json) |
+| Hordes of Hunger | 244839 | [244839-hordes-of-hunger.json](./244839-hordes-of-hunger.json) |
 | Hordes.io | 125365 | [125365-hordes-io.json](./125365-hordes-io.json) |
 | Hordound | 207764 | [207764-hordound.json](./207764-hordound.json) |
 | Horg's Brewery | 333608 | [333608-horgs-brewery.json](./333608-horgs-brewery.json) |
@@ -6225,6 +6226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hush | 95475 | [95475-hush.json](./95475-hush.json) |
 | Hush - Into the Darkness | 50155 | [50155-hush-into-the-darkness.json](./50155-hush-into-the-darkness.json) |
 | Hush Darling | 415099 | [415099-hush-darling.json](./415099-hush-darling.json) |
+| Hush Hush | 244826 | [244826-hush-hush.json](./244826-hush-hush.json) |
 | Hush Hush - Unlimited Survival Horror | 33344 | [33344-hush-hush-unlimited-survival-horror.json](./33344-hush-hush-unlimited-survival-horror.json) |
 | Hush Hush High | 303555 | [303555-hush-hush-high.json](./303555-hush-hush-high.json) |
 | Hush Little Lily | 177395 | [177395-hush-little-lily.json](./177395-hush-little-lily.json) |
